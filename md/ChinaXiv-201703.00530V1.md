@@ -1,0 +1,137 @@
+# 稀土铕离子掺杂聚合物基荧光材料的研究进展
+
+吴亚茹1,²，曹兴忠²，李玉晓1，杨静²，张鹏²，于润升²，王宝义²（1郑州大学物理工程学院，郑州 450001；2中国科学院高能物理研究所核辐射与核能技术重点实验室，北京，100049)
+
+摘要对稀土铕离子掺杂聚合物基荧光材料的制备方法进行了分析归纳，介绍了稀土离子配位数及离子簇的存在对发光性能的影响机制，同时列举了聚合物基荧光复合材料在农业、生物医学、防伪鉴别等方面的应用。针对实践应用对物理性能的要求，提出了传统方法制得的材料在应用中存在的问题并对具有综合特性的方法进行了展望。认为针对不同应用制备镶嵌荧光物质的前体作为复合材料两相的桥梁，具有极大的应用前景。
+
+关键词 高分子；稀土化合物；制备；配位；荧光探针
+
+# The research progress of $\mathbf { E u } ^ { 3 + }$ doped polymer-based fluorescent
+
+# materials
+
+WU Yaru 1.2， CAO Xingzhong ²，LI Yuxiao 1， YANG Jing ²， ZHANG Peng ²,YU Runsheng ²，WANG Baoyi ²
+
+（1 School of Physical Engineering， Zhengzhou University， Zhengzhou 45o001， China;
+
+2 Key Laboratory of Nuclear Radiation and Nuclear Energy Technology， Institute of High Energy Physics，Chinese Academy of Sciences，Beijing 1Ooo49，China）
+
+Abstract The method of preparation on $\mathrm { E u } ^ { 3 + }$ doped polymer-based fluorescent materials are analyzed and summarized in this paper. It introduces the efects on the luminescent mechanism of the rare earth ion coordination number and the existence of ion cluster in materials. Meanwhile it enumerates the applications of the polymer-based fluorescent composite materials on aspects such as agriculture,biomedicine,anti-fake identification. Aiming at the physical requirements of practical application，problems are puted forward in traditional method. The discussion on the method with comprehensive properties that the precursor is prepared as a two-phase composite bridge in embedded fluorescent materials， shows a great prospect for different applications.
+
+Keywords macromolecular， rare earth compound,preparation，coordination, fluorescence probe
+
+# 0引言
+
+聚合物基荧光复合材料是通过稀土离子与高聚物复合制备的一类既具有稀土离子发光强度高、颜色纯正等特性又具有高分子质轻、抗冲击和易加工等优异的机械性能的功能材料。具有荧光功能的高分子复合材料，包括纤维、塑料、薄膜、涂料等，在服装、消防、化学传感器、路标、纸币或商品外包的防伪、检测
+
+等领域有非常重要的应用[]。
+
+稀土荧光材料中的稀土离子具有未充满的受外界屏蔽的 $4 f 5 d$ 电子组态， $4 f$ 电子能够在7个 $4 f$ 轨道上任意排列，从而产生多种能级和光谱项，能级跃迁通道多达 20 余万个，可吸收从紫外到红外光区范围内多种波长的电磁波[2]。不同的含稀土离子材料具有不同的发光光谱，即使材料相同，制备工艺不同，制得的发光材料的发射光谱也可能有所差异[3]。丰富的能级跃迁使稀土成为发光宝库，为高科技领域提供了性能优异的发光材料。举例来讲， ${ \mathrm { E u } } ^ { 3 + }$ 作为红色荧光粉的发光中心，具有优异的发光性能，在多种类型的无机荧光粉中具有很高的量子效率。在基质晶体中，当 ${ \mathrm { E u } } ^ { 3 + }$ 离子占据严格对称中心的格位时，将以 ${ } ^ { 5 } D _ { 0 } - { } ^ { 7 } F _ { 1 }$ 跃迁为主，即波长为 $5 9 2 \mathrm { n m }$ 左右的橙红光；当 ${ \mathrm { E u } } ^ { 3 + }$ 离子占据偏离或非对称中心的格位时，宇称选择定则发生变化，尤其是 ${ } ^ { 5 } D _ { 0 } - { } ^ { 7 } F _ { 2 }$ 具有很强的发射，约是 $6 1 0 \ \mathrm { n m }$ 波长左右的红光[4]。
+
+与此同时，高分子材料合成方便，抗冲击能力强且成本低廉，可做不同用途的产品的基质材料。高聚物的网状结构有利于荧光物质的稳定，较易控制荧光物质所处环境湿度等因素，从而延长其使用寿命。该类型荧光材料优点是吸收能力强，转换率高。因此，聚合物基荧光复合材料可提高稀土材料在光、电、磁等方面的应用，在荧光、太阳能等领域具有潜在的应用空间。本文主要从 ${ \mathrm { E u } } ^ { 3 + }$ 掺杂不同高分子基质的制备方法入手，举例说明了不同方法对复合材料发光性能的影响。而制备法影响稀土离子的嵌入方式，致使形成物结构的差异性，进而分化其应用范围。
+
+# 1常用制备方法
+
+由于复合材料的稀土化合物与高分子聚合物界面差异较大，如果二者的性质充分结合起来，将大大改进复合材料的物理性能。选取适当的合成方法将荧光粉以纳米尺度均匀的分散到高聚物基体中，通常采用的制备方法如下：
+
+# 1.1简单掺杂法
+
+通过高温熔融、超声搅拌等直接将高聚物与荧光粉掺杂而制备复合材料的一种方法。这是最早的、实用性强的复合应用方法，研究较多的是稀土无机化合物与高分子材料的复合。ZhangJing 等[5]利用加热熔融掺杂制备出新型功能$_ { \mathrm { L D P E - N a _ { 2 } S O _ { 4 } : S m ^ { 3 + } } }$ 复合发光材料，该复合物增强了荧光粉的稳定性，且并未改变原材料的结构，其优异的发光强度在光功能农膜的应用方面极具潜质。掺混法的优点在于荧光粉与材料的合成分步进行，因此，该过程可以控制荧光粉的尺寸及形态。然而，荧光粉在共混时很容易产生团簇，必须通过化学或物理方法打开荧光粉团簇体，使其均匀分散到高聚物基体中。应用中常采用荧光粉或是高聚物基体的表面改性等方法提高二者的界面相互作用，从而改善荧光粉的分散效果；稀土荧光粉与高聚物相容性差，易发生分离，从而降低材料的透明度与机械性能，可以通过添加有机化合物的方法得以改善。DanuelB.Bem 等[6]将$\mathrm { S r A l _ { x } O _ { y } { : } E u ^ { 2 + } , D y ^ { 3 + } \left( E u ^ { 2 + } { : } D y ^ { 3 + } { = } 1 { : } 2 \right) }$ 荧光粉高温熔融掺杂于低密度聚乙烯(LDPE)基质中，荧光粉光谱显示 ${ \mathrm { E u } } ^ { 2 + }$ 能更有效地被 $3 4 0 \mathrm { n m }$ 的波长激发。在 $6 0 0 \mathrm { ~ \textdegree ~ }$ 以下荧光光谱的发射峰位于 $5 1 5 \ \mathrm { n m }$ ，对应于 $4 f ^ { 6 } 5 d ^ { 1 }  4 f ^ { 7 } ( ^ { 8 } S _ { 7 / 2 } )$ 宇称允许跃迁。当从 $1 2 0 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 退火材料，其荧光光谱从一个宽峰变成几个尖锐的窄峰，且 $6 0 0 \ \mathrm { n m }$ 位置的发射峰主要归因于 ${ \mathrm { E u } } ^ { 3 + }$ 的 $4 f  4 f$ 电子跃迁。光谱中 ${ } ^ { 5 } D _ { 0 }  { } ^ { 7 } F _ { 0 }$ ，${ } ^ { 5 } D _ { 0 }  { } ^ { 7 } F _ { 1 } , { } ^ { 5 } D _ { 0 }  { } ^ { 7 } F _ { 3 } , { } ^ { 5 } D _ { 0 }  { } ^ { 7 } F _ { 4 }$ 和 $^ 5 D _ { 0 }  { ^ 7 F } _ { 5 }$ 跃迁分别对应于 $5 8 5 \mathrm { n m } , 6 2 1 \mathrm { n m }$ $6 4 5 \mathrm { n m }$ ， $6 5 0 \mathrm { n m }$ 和 $7 0 0 \mathrm { n m }$ 的发射峰位置。
+
+# 1.2原位聚合法
+
+是指先将荧光粉填料在聚合物单体中分散均匀，再引发单体发生原位聚合的方法。由于聚合物单体分子较小、表面改性后的无机荧光粉均匀分散，粒子的纳米特性保存完好，从而保证了体系的物理性能。其优点在于制得的复合材料中荧光粉分散均匀，反应条件温和，不需热加工，降低了降解的可能性，从而保持了材料性能的稳定。Li Xie 等[7]利用原位聚合法制备了聚丙烯酸（PAA）包覆NaYF4:Er荧光粉的复合材料，结果表明该材料是单一的六角相结构且具有很强的上转换（UC）荧光强度。孙海珠等[8将稀土离子与甲基丙烯酸其中的羧基和有机配体同时配位，通过聚合反应形成键合的稀土配合物，该复合材料能够发出稀土离子的特征荧光。对比显示，原位法制备的合成树脂的荧光强度高于直接掺杂而形成的光学树脂，材料的荧光寿命明显增加。观察树脂中稀土配合物的微观形态发现，稀土配合物较为均匀的分散在聚合物基体中，表明原位法能有效地稳定稀土配合物并实现荧光物质发光的稳定。HANJing等研究了Eu-Tb双核系列Euo.5Tbo.5(TTA)Phen/PMMA复合材料的荧光特性，显示复合物发射 $6 1 1 . 8 \ \mathrm { n m }$ 的 ${ \mathrm { E u } } ^ { 3 + }$ 特征峰并呈现出红色荧光，且该处的发光强度随着MMA含量的逐渐增加呈现出先下降后上升的趋势，即该处的跃迁对 ${ \mathrm { E u } } ^ { 3 + }$ 的浓度非常敏感，初期因 ${ \mathrm { E u } } ^ { 3 + }$ 浓度过高出现浓度淬灭现象。在双核物质的荧光激发中， ${ \mathrm { E u } } ^ { 3 + }$ 极易被 $\mathrm { T b } ^ { 3 + }$ 敏化，$T b ^ { 3 + } \to E u ^ { 3 + }$ 的能量转移促使红色荧光增强。
+
+# 1.3溶胶凝胶法
+
+将金属盐等前驱物在一定条件下水解缩合成溶液，后经加热或溶剂挥发等处理使溶液或溶胶转化为网状结构的氧化物凝胶的过程称为溶胶凝胶法。该过程可分为两种状况：（1）无机溶胶与有机组分共混，其中有机部分不发生化学反应；（2）有机与无机两相同时聚合，两种网络共同形成。这一过程受到诸多因素的影响，例如，有机分子的结构、pH值、温度、有机与无机组分前驱体的比例等，均可影响复合材料的改性。可形成无机与有机网络互穿的双连续、有机（无机）包裹无机（有机）的相连续网络结构。这种制备方法的关键在于选择具有较好溶解性能的共溶剂以保证荧光粉与聚合物的相容性[10]。然而，溶剂与小分子的挥发使材料内部产生收缩力，材料易发生脆裂。FuLianshe等[1采用无机/有机聚合物杂化基质，利用溶胶凝胶法制备了稀土 $\mathrm { T b } ^ { 3 + }$ 掺杂无机组分 $\mathrm { S i O } _ { 2 }$ 与高分子组分丙烯酸类聚合物杂化基质的复合材料，研究表明，该材料具有良好的光学透明性与韧性，具有较强的发光强度与光稳定性。Jie Shen 等[12]制作色敏太阳能电池的表覆层时，利用 ${ \mathrm { E u } } ^ { 3 + }$ 掺杂NaGdF4荧光粉与PMMA的混合溶液在空气中干燥形成一层复合凝胶薄膜。复合膜的荧光光谱显示，激发 ${ \mathrm { E u } } ^ { 3 + }$ 通过 $4 f  4 f$ 电子跃迁产生发射波长，同时 $\mathrm { G d ^ { 3 + } }$ 的敏化作用出现 $G d ^ { 3 + }  E u ^ { 3 + }$ 能量转移。光谱中发射峰 $6 1 5 \mathrm { n m }$ 处（ $^ 5 D _ { 0 } - { } ^ { 7 } F _ { 2 }$ ）较 $5 9 1 \mathrm { n m }$ 处（ ${ } ^ { 5 } D _ { 0 } - { } ^ { 7 } F _ { 1 }$ ）荧光强度高，主要归因于${ \mathrm { E u } } ^ { 3 + }$ 周围晶体场的低对称性。由于氟化物较氧化物具有低能的声子及与促进发光的高浓度稀土的相容性，该种薄膜材料广泛应用于光电设备。
+
+# 1.4插层法
+
+主要是通过物理或者化学的作用使叠在一起的层状结构分离，聚合物的分子链穿插到片层结构中，从而使纳米级荧光粉均匀分散于高聚物基体而得到稀土荧光复合材料。该法的优点是两相均匀混合，工艺简便、经济，与现代工艺结合紧密。然而，能同时溶解荧光粉与高聚物的有机溶剂较少，反应温度等会影响某些反应物的自交联，配合剂的分散不均等因素都会影响该法在工业上的生产应用。Mo Zunli 等[13]以 ${ \mathrm { E u } } ^ { 3 + }$ 为金属发光中心合成了掺杂树形分子β-二酮配合物，采用插层法制备出具有高荧光强度的稀土荧光复合材料，荧光光谱及热重分析结果表明该材料相较单一材料荧光性能、热稳定性均显著提高。
+
+# 2结构对荧光性能的影响
+
+因制备方法不同，稀土离子的嵌入方式的差异性使新合成功能型复合材料的结构不同，进而影响材料的荧光强度。对材料的微观结构进行分析，考虑离子基团与其他高分子中的某些基团之间的相互作用，可将影响因素分为以下因素：
+
+# 2.1稀土离子配位数
+
+在光学性能的研究上，XianwenWang等[14]利用三元成分混合制备出双核离子复合材料 $\mathrm { S m } _ { 2 } ( \mathrm { C _ { 3 } H _ { 3 } O _ { 2 } } ) _ { 6 } ( \mathrm { p h e n } ) _ { 2 }$ ，紫外可见吸收光谱显示在 $2 6 7 ~ \mathrm { n m }$ 处出现宽的吸收峰，其对应于phen 的 $\pi  \pi ^ { * }$ 跃迁。固态复合材料发射光谱中的最大强度峰 $4 3 1 ~ \mathrm { n m }$ 和弱强度峰 $4 9 7 ~ \mathrm { n m }$ ，相较单一成分phen $3 6 5 \mathrm { n m }$ 峰出现红移、复合材料荧光强度增加，表明增加稀土离子配位数可提高材料的发光性能。Ueba 等[15]制备出β-二酮类高分子稀土铕化合物，指出化合物与高聚物的三种配位方式，结果表明因结构中位阻减小可形成较多的配位数目。其中，四配位的含铕结构单体与MMA共聚，共聚物链中随着含Eu化合物质量分数增加，复合材料的荧光强度线性增加。因此，可认为稀土离子配位数高是荧光复合材料强度较大的重要因素。
+
+# 2.2稀土离子的团簇
+
+稀土高分子荧光复合材料中的稀土离子聚集状态，可起到高聚物物理交联点的作用，对本体材料的性能具有极大影响。针对该类型材料结构的数据分析，Eisenberg提出了普适性的"多重离子对-离子簇"模型[16]。少量离子对紧密聚集形成多重离子对，当离子浓度增大、个数增多，外围碳氢链层重叠则形成离子簇。陈晓波等[17]利用 $\mathrm { { E r / Y b } }$ 共掺 $\mathrm { P b } _ { \mathrm { c } } \mathrm { C d } _ { 1 - \mathrm { x } } \mathrm { F } _ { 2 }$ 氟化物微晶材料，研究发现由于稀土离子易优先聚集到 $\mathrm { P b } _ { \mathrm { c d } _ { 1 - \mathrm { x } } \mathrm { F } _ { 2 } }$ 微晶中，形成由稀土离子组成的耦合团，使其具有强烈的团簇效应，稀土离子之间的敏化作用及上转换发光强度都显著增强。 $4 7 6 . 5 \ : \mathrm { n m }$ 和 $4 6 8 . 5 \mathrm { n m }$ 荧光是由于处于 $^ 2 \mathrm { F } _ { 7 / 2 }$ 基态的单个 $\mathrm { Y b } ^ { 3 + }$ 离子吸收能量跃迁至 $^ 2 \mathrm { F } _ { 5 / 2 }$ 激发态，相同处于跃迁激发态的离子形成团簇耦合态，再由该团簇耦合态的激发能级
+
+$^ 2 \mathrm { F } _ { 5 / 2 } { } ^ { 2 } \mathrm { F } _ { 5 / 2 }$ 跃迁至基态即发射荧光。
+
+HanJing等进一步研究了Eu-Tb 双核掺杂PMMA复合材料中离子的敏化作用及分子内部能量传递机制。该复合材料的荧光光谱显示， ${ \mathrm { E u } } ^ { 3 + }$ 的五个位于580nm， $5 9 1 \mathrm { n m }$ ， $6 1 1 ~ \mathrm { { n m } }$ ， $6 5 2 \mathrm { n m }$ 和 $7 1 0 \mathrm { n m }$ 的特征吸收峰，分别对应于 ${ } ^ { 5 } D _ { 0 }  { } ^ { 7 } D _ { 0 }$ ，${ } ^ { 5 } D _ { 0 }  { } ^ { 7 } D _ { 1 }$ ， $^ 5 D _ { 0 }  { ^ 7 D _ { 2 } }$ ， ${ } ^ { 5 } D _ { 0 }  { } ^ { 7 } D _ { 3 }$ 以及 ${ } ^ { 5 } D _ { 0 }  { } ^ { 7 } D _ { 4 }$ 能级跃迁。其中。峰值 $6 1 1 { \mathrm { ~ n m } }$ 处（ $^ 5 D _ { 0 }  { ^ 7 D _ { 2 } }$ ）的发射最强。一般而言，稀土离子的敏化效应的参数 $P$ 可表示为：
+
+$$
+P = \left( I _ { \mathrm { e x p } } - I _ { t h e o } \right) \Big / I _ { t h e o }
+$$
+
+$I _ { \mathrm { e x p } }$ 是实验测得复合发光材料的发光强度， $I _ { t h e o }$ 是以单掺稀土离子的复合材料为基准的理论强度值。 $P$ 为正值，则代表稀土离子的敏化效应； $P$ 为负值，则代表发光淬灭效应。 $P$ 的绝对值越大，双掺稀土离子之间的相互作用越强。利用不同浓度的MMA掺杂 $\mathrm { E u } _ { 0 . 5 } \mathrm { T b } _ { 0 . 5 } ( \mathrm { T T A } ) _ { 3 } \mathrm { P h e n }$ 合成的复合材料在加料MMA初期因 ${ \mathrm { E u } } ^ { 3 + }$ 浓度过高产生自淬灭现象，结果显示 ${ } ^ { 5 } D _ { 0 }  { } ^ { 7 } D _ { 2 }$ 跃迁极易受 ${ \mathrm { E u } } ^ { 3 + }$ 周围环境变化的影响，从而 $6 1 1 { \mathrm { ~ n m } }$ 处发光强度下降；当MMA浓度增加到 $6 { - } 1 0 \mathrm { m l }$ 过程中， ${ \mathrm { E u } } ^ { 3 + }$ 浓度被稀释阻止了材料发光的自淬灭， $6 1 1 ~ \mathrm { n m }$ 处的发光强度逐渐增大。这进一步证明了稀土离子的聚集程度对复合发光材料发光性能的影响。
+
+$\mathrm { T b } ^ { 3 + }$ 的特征发射峰并未在发射光谱中显示，相比单掺 ${ \mathrm { E u } } ^ { 3 + }$ 荧光物质的复合材料，Eu-Tb双核复合材料的 $P$ 值范围1-2意味着 ${ \mathrm { E u } } ^ { 3 + }$ 很大程度上被 $\mathrm { T b } ^ { 3 + }$ 敏化，从而呈现出更大的发光强度。该现象归因于能量从 $\mathrm { T b } ^ { 3 + }$ 的 $^ 5 D _ { 4 }$ 能级传递到 ${ \mathrm { E u } } ^ { 3 + }$ 的${ } ^ { 5 } D _ { 0 }$ 能级，再次佐证了复合材料中离子团结构的存在才是金属离子间发生能量转移的前提。
+
+# 3复合材料的应用
+
+稀土离子掺杂以高分子材料获得的复合材料，因其不受高分子基质的影响而显示出稀土离子的独特发光性能，并在使用过程中显示出其他材料所无法比拟的优点，正逐渐成为新型实用性功能材料，它的开发和应用也愈受到人们的重视，开始在各领域发挥作用。
+
+# 3.1农用光功能膜
+
+稀土荧光材料能够将紫外光转变成可见光，主要是 $4 0 0 { \sim } 8 0 0 \ \mathrm { n m }$ 的蓝光和$6 0 0 { \sim } 6 8 0 \mathrm { n m }$ 的红光，从而促进植物的光合作用和新陈代谢过程，达到作物增产早熟的目的。此可以较少紫外线的有害作用，同时得到有利于农作物生长所需的自然光。但是稀土荧光粉在使用上诸多不便，如果将稀土荧光材料纳米化，与高分子材料复合，可得到具有高透明性的稀土/高分子纳米复合材料。该薄膜具有良好的转光性能，农业应用中可大幅度提高蔬果的产量。王军强等[18利用生态转光膜培育番茄，相较普通膜番茄发育良好且产量增幅达 $13 \%$ 。陆国军等[19]将光转膜试用于葡萄栽培，结果显示光转膜较普通膜棚升温较快，葡萄发育期提前且产量提高 $6 . 6 7 \%$ 。
+
+# 3.2生物医用材料
+
+稀土有机复合材料具有许多非常独特的优点，诸如，有利于提高分辨率的窄发射谱带；荧光寿命长，利于采用分辨检测技术；发射波长基于稀土离子的特征光谱，光稳定性强；Stokes 位移较大，利于排除非特异性荧光的干扰[20]。因此，荧光材料的医学应用主要集中于荧光标记。荧光标记指将已知的抗体或是抗原分子标记上掺杂稀土离子（ ${ \mathrm { E u } } ^ { 3 + }$ 、 $\mathrm { T b } ^ { 3 + }$ 等）的荧光素，反应生成的复合物带有一定的荧光素，在显微镜下可以看见发出荧光的抗原或抗体的结合部位。由于荧光强度与监测体中的抗原或抗体的浓度成比例，通过超微量分析瞬时分辨免疫荧光分析技术可以相应地计算出试样中抗原或抗体的浓度。该法可以替代放射性免疫分析方法，从而排出了放射性对人体的伤害，省去了废物处理，节省了时间与经费，因此倍受医学科研的广泛关注，并已在国际上达到了实用化阶段[21]。ShanyongZhou 等[22利用纳米晶高度浓缩的稀土离子来提高纳米探针的标记比率，从而极大地增强体系的发光与检测灵敏度，实现了对人体肿瘤标志物癌胚抗原的高灵敏检测。
+
+稀土离子的荧光特性可以也应用于研究测定生物大分子结构的稀土荧光探针。用激光对结合在蛋白质上的 ${ \mathrm { E u } } ^ { 3 + }$ 激发，当监测 ${ \mathrm { E u } } ^ { 3 + }$ 的 ${ } ^ { 5 } D _ { 0 }  { } ^ { 7 } F _ { 2 }$ 发射时，可获得 $^ 5 D _ { 0 }  { } ^ { 7 } F _ { 0 } ( 0 - 0 )$ 跃迁的不同激发带，从而得到不同环境下的金属离子结合部位数。许多结合离子的生物大分子的瞬间亚稳态构象变化都发生在稀土离子的激发态过程中，对其荧光寿命的测量可得到分子的构象信息[23]。下图是微量液态稀土有机复合物滴覆于表面涂覆硅胶层的玻璃基板上，对比检测显示：基板在自然光照射下(a)仅呈现硅胶层的白色，而在 $2 5 4 \mathrm { n m }$ 紫外光源照射下(b)呈现出物质的荧光特性。
+
+![](images/0b38ff12785f5f3df25c754585b1ecabcdc25c366df0a8b54fe444bb28da046f.jpg)  
+图1稀土荧光探针分别在自然光(a)与紫外光(b)下的显示图像
+
+K Akisada等[24]利用层与层吸附技术将 $\mathrm { Y V O } _ { 4 } { : } \mathrm { B i } ^ { 3 + }$ ${ \mathrm { E u } } ^ { 3 + }$ 纳米荧光粉与PMMA微磁杂化形成复合材料，在紫外光的激发下，复合材料由于 ${ \mathrm { E u } } ^ { 3 + }$ 的 $f - f$ 电子跃迁发出红色荧光。同时，颗粒聚集量多的复合材料具有较强的荧光强度。该材料在细胞成像、生物探针及生物传感等方面有重要应用。
+
+# 3.3荧光防伪材料
+
+荧光防伪油墨是将稀土荧光粉加入印刷油墨中，在特殊光线照射下呈现出不同的颜色，它是配比高分子树脂连结料、溶剂等，经特殊工艺加工而成的特种油墨。田君等[25]将 $\mathrm { E u ( Y ) - ( T T A ) _ { 3 } P h e n }$ 紫外荧光粉加入到油墨中印刷高级香烟包装盒，在紫外灯照射下，含稀土制品会发出红色亮光，可用于检测产品真伪。LeyuWang等[26]研究了稀土 $\mathrm { E u } ^ { 3 + } / \mathrm { T b } ^ { 3 + }$ 掺杂 $\mathrm { { N a ( Y _ { 1 . 5 } N a _ { 0 . 5 } ) F _ { 6 } } }$ 单晶纳米棒分散于油酸基质中形成复合物的荧光光谱，显示在紫外 $2 6 5 \mathrm { n m }$ 波长光激发下，呈现出红色荧光，即 $5 4 2 \ \mathrm { n m } \ ( \ ^ { 5 } { D _ { 1 } } - \ ^ { 7 } { F _ { n } } \ )$ ）与 $6 2 0 \ \mathrm { n m } \ ( \ ^ { 5 } D _ { 0 } - \ ^ { 7 } F _ { n }$ ）峰值。这些单晶复合物可应用于色彩展示、生物标记、发光二极管、光能储存、防伪标签等领域。孟婕等[27]以合成的 $\mathrm { E u _ { x } G d _ { ( 1 - x ) } ( P O A ) _ { 3 } P h e n }$ 掺杂配合物为荧光颜料，制备了稀土铕荧光防伪油墨，在 $3 5 5 \mathrm { n m }$ 波长的激发下，发射光谱形状及发射峰的位置 $5 9 1 \mathrm { n m }$ ， $6 1 3 \mathrm { n m }$ $6 5 1 ~ \mathrm { { n m } }$ 和 $6 9 1 ~ \mathrm { n m }$ 均与配合物的发射光谱相同，最大发射波长 $6 1 3 ~ \mathrm { { n m } }$ 处的相对荧光强度较掺杂配合物的有所降低。该油墨在可见光下呈现无色，而在紫外灯照射下出现明显红色荧光。
+
+荧光防伪纤维是基于防伪油墨基础上发展起来的高科技防伪技术，具有在特殊光线下易识别、防伪可靠性能高等性质，因此，该技术可实践诸多领域的防伪要求。其中主要用于制造荧光防伪纸，可在紫外光的照射下显示出特定的图形文字。Zhao Miao 等[28]制备了 ${ \mathrm { E u } } ^ { 3 + }$ 掺杂乙二醇与对酞酰氯在 $1 7 0 ^ { \circ } \mathrm { C }$ 温度下加热4小时形成的有机高分子配体的复合而成的荧光材料，其荧光光谱显示，在 $3 0 6 \mathrm { n m }$ 波长激发下，发射峰出现在 $5 7 8 ~ \mathrm { n m }$ ， $5 9 1 ~ \mathrm { n m }$ ， $6 1 3 ~ \mathrm { { n m } }$ ， $6 5 0 ~ \mathrm { n m }$ 与 $7 0 0 ~ \mathrm { n m }$ 处，分别对应于 ${ \mathrm { E u } } ^ { 3 + }$ 的 ${ } ^ { 5 } D _ { 0 } - { } ^ { 7 } F _ { \jmath } \left( J = 0 , 1 , 2 , 3 , 4 \right)$ 能级跃迁。其中， $6 1 3 \mathrm { n m }$ 处荧光最强,这主要归因于有机配体吸收紫外照射的能量并将其传递给共振协调状态的 ${ \mathrm { E u } } ^ { 3 + }$ 然后 ${ \mathrm { E u } } ^ { 3 + }$ 从激发态跃迁至基态发射特征荧光。该材料易被紫外光激发，在荧光防伪技术方面有潜在的应用。刘术亮等[29]利用离心静电纺丝法制备荧光素掺杂PMMA的有序荧光纳米纤维，结果表明，纤维的低荧光强度归因于掺杂少的纤维量，纤维的高度取向性导致各个方向的荧光强度不同，荧光素可在 $3 7 6 ~ \mathrm { n m }$ 的激发下产生 $4 9 2 . 4 \ : \mathrm { n m }$ 的荧光，其在荧光防伪等方面有潜在应用。
+
+# 4问题与展望
+
+传统的制备方法是成熟且经济的实验工艺技术，在电致发光设备、聚合物光纤等领域得到了广泛的应用。然而，有机物与无机物之间存在着诸如氢键、范得瓦尔斯力等分子间弱相互作用，导致两相的非均匀分布；同时，稀土离子的掺杂浓度及基质配体与离子间能级转化易受限制，较难形成均匀的材料表面及体构象，且较难控制解决稀土离子浓度淬灭和浸出效应等问题。因此，如果合成一种单体作为有机物与无机物间的共价桥梁，同时也可以作为有机网络的前体，这样，稀土离子就以配位的形式键入到有机网络中，可有效提高复合材料的稳定性及发光性能，扩大其在半导体材料，免疫分析等医用领域的应用，将成为热点研究。
+
+#
+
+奓考乂獸  
+1 Roel Decadt，Kristof Van Hecke，Diederik Depla，Karen Leus，David Weinberger， Isabel VanDriessche，Pascal Van Der Voort，Rik Van Deun.Synthesis，Crystal Structures，andLuminescence Properties of Carboxylate Based Rare-Earth Coordination Polymers[J].Inorganic Chemistry，2012，51:11623  
+2 刘光华．稀土材料及其应用技术[M]．北京：化学工业出版社，2005：25  
+3 张技术，葛明桥．光谱指纹纤维的防伪特性[J]．纺织学报，2013，34(4)：12  
+4 Liu G K， Jensen MP， Almond PM. Systematic behavior of charge-transfer transitions andenergy level variation in soft donor complexes of the trivalent lanthanides[J]. The Journal ofPhysics Chemistry，2006，110(6):2081  
+5 Zhang Jing，Rahman Abu Zayed Mohammad Saliqur，Li Yuxiao， et al. Synthesis andluminescence properties of Sm-doped LDPE- ${ \bf \cdot N a } _ { 2 } { \bf S O } _ { 4 }$ composite material[J]. Optical Materials,2013，36(2): 471  
+6 Daniel B.Bem，A.S.Luyt，B.F. Dejene，H.C. Swart. Temperature-dependence of the structuraland afterglow luminance properties of polymer $/ \mathrm { { S r A l } _ { \mathrm { { X } } } \mathrm { { O } _ { \mathrm { { y } } } } }$ :Eu2+,Dy3+ composites[J]. Physica B,2012，407(10): 1556  
+7 Li Xie， Zhou Xingping， Wang Xiaqin. In-situ polymerization approach for preparation of rareearth fluoride phosphors coated with PAA[J]. Journal of Nanoscience Nanotechnology，2011,11(11): 9973  
+8 孙海珠，杨柏．原位法制备无机纳米粒子/聚合物复合材料[J]．中国科学 E辑：技术科学，2009，39(2): 193  
+9 Han Jing，Li Jie. Sensitization and Intra-molecular Energy Transfer of ${ \mathrm { E u } } ^ { 3 + }$ by $\mathrm { T b } ^ { 3 + }$ in Eu-TbBinuclear Complexes/PMMA[J]. Journal of Wuhan University of Technology and Material,2011，26(3): 389  
+10 陈少杰,张新强，郭银明．纳米复合材料制备方法的研究进展[J]．玻璃钢/复合材料,2008,(5):41  
+11 Fu Lianshe， Meng Qingguo， Zhang Hongjie， et al. In situ synthesis of terbium-benzoic acidcomplex in sol-gel derived silica by a two-step sol-gel method[J]. Journal of Physics andChemistry of Solids， 2000，61(11): 1877  
+12 Shen Jie，Li Zhiqiang，Cheng Rui，Luo Qi，Luo Yudan，Chen Yiwei，Chen Xiaohong,Sun Zhuo，Huang Sumei. ${ \mathrm { E u } } ^ { 3 + }$ -Doped $\mathrm { N a G d F } _ { 4 }$ Nanocrystal Down-Converting Layer forEfficient Dye-Sensitized Solar Cells[J]. Applied Materials & Interfaces，2014， 6(20):17454  
+13 Mo Zunli， Niu Guiping，Chen Hong，Wu Yingbing. Synthesis and characterization ofhyperbranched poly(amine-ester)/lanthanum/montmorillonite nanocomposites[J]. MaterialsLetters，2008，62(10-11):1743  
+14 Wang Xianwen，Chen Fuping， Chen Liang， Chen Jingzhong. Crystal structure andfluorescence properties of a new ternary binuclear complex: $\mathrm { S m _ { 2 } ( C _ { 3 } H _ { 3 } O _ { 2 } ) _ { 6 } ( p h e n ) _ { 2 } }$ .ZNaturforsch B.2007，62(10): 1267  
+15 Ueba Y., Zhu K. J., Banks E., Okamoto Y. Rare earth metal containing polymer. 5. Synthesis,characterization， and fluorescence propertiesof ${ \mathrm { E u } } ^ { 3 + }$ polymer complexcontainingcarboxylbenzoyl and cardoxylnaphthoyl legends[ J]. J Polymer Science Part A: PolymerChemistry Ed.1982，(20): 1271  
+16 胡显奎，刘振兴，陈竹筠，李添娣．离聚体结构的研究现状和进展[J]．合成树脂及塑料，2000，17(2): 49  
+17 陈晓波，李美仙，N.Sawanobori，曾哲，聂玉昕．掺氟氧化物玻璃陶瓷的直接上转换敏化发光[J]．物理学报，2000，49(12)：2482  
+18 王军强，董汉国，纪国才，兰孝帮．温室番茄培育采用生态转光膜实验[J]．中国农技推广，2004，(4):33  
+19 陆国军，俞刚翔．光转膜在大棚葡萄上应用试验总结[J]．现代农业科技，2007，(9)：20  
+2O Shen Jie， Sun Lingdong，Yan Chunhua. Luminescent rare earth nanomaterials for bioprobeapplications[J].Dalton Transactions，2008，42： 5687  
+21 周新木，陈慧勤，谈宏宇．稀土高分子材料研究进展[J]．化学试剂，2007，29(9)：527  
+22 Zhou Shanyong，Zheng Wei，Chen Zhuo，Tu Datao，Liu Yongsheng，Ma En，Li Renfu,Zhu Haomiao，Huang Mingdong， Chen Xueyuan. Dissolution-Enhanced LuminescentBioassay Based on Inorganic Lanthanide Nanoparticles[J]. Angewandte Chemie InternationalEdition，2014， 53(46): 12498  
+23 李文连.生命科学研究中的稀土发光—稀土荧光探针及荧光标记在生物大分子研究中的应用[J].物理，1991，20(2)：89  
+24K Akisada, Y Noguchi and T Isobe. Preparation of composite PMMA microbeads hybridizedwith fluorescent YVO4:Bi3+ ${ \mathrm { E u } } ^ { 3 + }$ nanoparticles[J]. Materials Science and Engineering,201118(8): 082014  
+25 田君，田敬群．稀土紫外防伪油墨的制备[J]．精细化工，1999，16(2)：31  
+26 Wang Leyu， Li Yadong. $\mathrm { N a ( Y _ { 1 . 5 } N a _ { 0 . 5 } ) F _ { 6 } }$ Single-Crystal Nanorods as Multicolor LuminescentMaterials[J].Nano Letters，2006， 6(8): 1645  
+27 孟婕，孙诚，王建清，孙文顺，郝晓秀，牟信妮．铕掺杂配合物的合成及其在荧光防伪油墨中的应用研究[J]．中国印刷与包装研究，2010，(2)：385  
+28 Zhao Miao，Xi Peng，Gu Xiaohua，Li Zongren， Gao Mingming，Cheng Bowen. Synthesis,characterization and fluorescencepropertiesof a novel rare earth complexforanti-counterfeiting material[J]. Journal of Rare Earths， 2O1O， 28： 75  
+29 刘术亮，黄渊源，韩玉梅，龙云泽，孙彬．离心静电纺丝法制备有序交叉以及绞线结构的荧光纳米纤维[J]．青岛大学学报，2013，26(1)：44

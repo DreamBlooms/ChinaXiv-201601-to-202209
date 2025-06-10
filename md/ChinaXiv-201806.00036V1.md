@@ -1,0 +1,194 @@
+# 半干旱地区补充灌溉对冬小麦根系及耗水特征的影响
+
+杨文稼1,²， 王仕稳1,2,3 李雨霖2,3，孙海妮1•²， 殷修帅2,3，殷俐娜1.2.3，可庆波2.3，邓西平2,3
+
+西北农林科技大学资源环境学院,陕西 杨凌712100；2．西北农林科技大学水土保持研究所,陕西 杨凌 712100;3．中国科学院水利部水土保持研究所黄土高原土壤侵蚀与旱地农业国家重点实验室,陕西 杨凌712100)
+
+摘要：通过田间定位试验分析了不同生育期补充灌溉对冬小麦根系及土壤水分耗损特征的影响。试验共设4个处理，分别为雨养不灌溉（W0）、拔节期灌水 $3 0 ~ \mathrm { m m } ( \mathrm { W } 1 )$ 、孕穗期灌水 $3 0 \ \mathrm { m m } ( \mathrm { W } 2 )$ 及拔节期灌水 $3 0 \ \mathrm { m m } +$ 孕穗期灌水 $3 0 \ \mathrm { m m } ( \mathrm { W } 3 )$ 。试验结果表明：在平水年,拔节期一开花期冬小麦耗水量占整个生育期耗水量的 $4 2 \%$ ,在丰水年下降到 $2 9 \%$ 。而补充灌溉仅在平水年型下提高了拔节一开花期的耗水比例,减弱了分蘖的两极分化,增加了开花期冬小麦群体数量,实现了增产,其中又以W1及W3效果最为显著。综合2a数据,灌水实现了增产但并未有效提高产量水分利用效率(WUE)。究其原因可能是,在半干旱地区,冬小麦增产增效的关键在于生育后期对深层土壤水分的利用,而补充灌溉并没有增加冬小麦深层根系,反而降低了对土壤深层水分的利用程度,从而导致产量增加但水分利用效率(WUE)并未同步提升。
+
+关键词：补充灌溉；冬小麦；根系；水分利用效率；产量；耗水量；半干旱区
+
+黄土高原作为我国干旱半干旱地区的重要组成部分,是典型的旱作农业区[1]。该区降水少,时间和空间分布不均，成为限制旱地作物产量和水分利用效率提高的主要因素[2]。山仑(3]结合旱地农业和灌溉农业两种理论知识，提出了半旱作农业的概念，即在充分利用自然降水的基础上进行少量水补充灌溉的农业。早在 20 世纪,Oweis[4]就提出了补充灌溉的概念，即旱地作物在充分利用降水资源的基础上，在作物关键生育期进行适度补充灌溉可满足作物生育期需水要求，实现高产稳产，其灌溉次数为1\~2次，灌溉时间为作物关键需水时期发生干旱时才进行补充灌溉。西亚和北非地区的试验结果表明,在旱作雨养区进行补充灌溉,在增产的同时还能提高雨水和灌溉水的水分利用效率[5-6]
+
+关于确定小麦进行补充灌溉的最佳时期，前人做了大量研究。孔祥旋等[7和邓西平等[8]认为，在小麦拔节孕穗期灌水能有效提高成穗数，是限量灌溉的最佳时期。褚桂红等[9研究发现,在半干旱地区，全生育期灌2次水为佳，并且选择在冬前期及拔节期进行灌溉能够获得较理想的产量和水分利用效率。而马孝义等[10]通过降水产量积分回归函数确定渭北西部地区冬小麦冬前期降水自给率较低，因此,其最佳补充灌溉时期为冬前期。在此基础上，前人又对不同降水年型下补充灌溉所能发挥的效益及所需灌溉的次数做了进一步研究,王文佳等["通过DSSAT作物模型模拟了在不同降水年型中水分胁迫条件下的冬小麦生产潜力，发现灌水边际效益表现为：平水年 $>$ 枯水年 $>$ 丰水年。王淑芬等[12]通过3种降水年型下的田间灌水试验，认为华北地区冬小麦最佳灌水方式为丰水年0次，平水年1次，枯水年2次时，具有明显的节水增产效益。但补充灌溉并不总是增产又增效,董宝娣等[13]在平水年间研究了灌溉措施对于不同品种小麦的产量及水分利用效率的影响，结果表明拔节灌水并未提高水分利用效率,部分品种甚至还有所降低。闫学梅等[14在半湿润地区的补充灌溉试验得出了拔节期灌水仅增加了产量,但并未增加作物水分利用效率的结果。曹彩云等[15]在当地平水年及丰水年条件下的2a灌溉试验同样表现出在拔节期灌水增产不增效的现象。张益望等[1还证明,在底熵充足的平水年,补充灌溉对黄土塬区冬小麦的产量、水分利用效率、氮素积累量等影响均有限。以上研究结果表明，在多数情况下补充灌溉并不能增加水分利用效率。在黄土高原干旱半干旱区，前人对补充灌溉的研究多集中于灌溉时期、灌溉量和灌溉次数的研究，但关于补充灌溉在增产的同时是否增效，尤其是补充灌溉对作物根系、土壤水分消耗特征和水分利用效率的调控并不清楚。基于此,本试验选择在典型旱作农业区一陕西长武地区进行定点试验，探究补充灌溉后冬小麦根系、土壤水分、作物群体之间的相互作用，明确补充灌溉对产量形成和水分利用效率的调控机制，以期为提高半旱作农业补充灌溉的施用效果提供一定的理论依据。
+
+# 1 材料与方法
+
+# 1.1 试验区概况
+
+田间试验于2015年9月至2017年6月在黄土高原中南部的中国科学院水利部水土保持研究所的长武生态试验站 $\langle 1 0 7 ^ { \circ } 4 4 . 7 0 ^ { \prime } \mathrm { E }$ $3 5 ^ { \circ } 1 2 . 7 9 ^ { \prime } \mathrm { N }$ )进行，该地海拔 $1 \ 2 2 0 \ \mathrm { m }$ 。气候属暖温带半湿润大陆性季风气候,年均降水量 $5 8 4 ~ \mathrm { m m }$ ,主要集中于夏季7—9月。年日照时长 $2 ~ 2 2 6 . 5 \mathrm { ~ h ~ }$ ,年均气温 $9 . 1 ~ \mathrm { { ^ { 9 } C } }$ ，无霜期171d,地下水埋深 $5 0 \sim 8 0 \mathrm { ~ m ~ }$ ,无灌溉条件，属典型旱作雨养农业区[17]；土壤类型为典型的黄盖黏黑泸土，质地中壤,土质均匀疏松，通透性好，土壤肥力中等[18]。供试土壤基本理化性质见表1。
+
+表1供试土壤基本理化性质  
+Tab.1 Chemical and physical properties of soil used in experiment
+
+容重 有机质 硝态氮 铵态氮 速效磷 速效钾  
+pH/(g·cm-3) /(mg·kg-1)  
+8.4 1.30 9.92 4.49 1.22 9.54 127.021202015-2016年1002016-2017年/鲁 80604020 一□ 口09 10 11 12 1 2 3 4 5 6月份
+
+图12015—2017年冬小麦生育期降水量 Fig.1Rainfall during the winter wheat growth period
+
+2015—2016年及2016—2017年冬小麦生育期降水量分别为 $2 2 7 \ \mathrm { m m }$ 和 $3 2 9 ~ \mathrm { m m }$ ，年降水量分别为$5 0 7 ~ \mathrm { m m }$ 和 $6 5 4 ~ \mathrm { m m }$ ，月降水量如图1所示。根据干旱指数 $\mathrm { D I } ^ { [ 1 9 ] }$ ,确定 2015—2016 年为平水年,2016—2017 年为丰水年。
+
+# 1.2 试验设计
+
+供试作物为抗旱型冬小麦品种“长旱 $5 8 ^ { \prime \prime }$ ,根据补充灌溉时期及补充灌溉次数，试验设置4个处理，分别为全生育期不灌水（W0）；拔节期灌水 $3 0 ~ \mathrm { m m }$ （W1）；孕穗期灌水 $3 0 \ \mathrm { m m } ( \mathrm { W } 2 )$ ;拔节期灌水 $3 0 ~ \mathrm { m m }$ $^ +$ 孕穗期灌水 $3 0 \ \mathrm { m m } ( \mathrm { W } 3 )$ ，重复3次，随机区组排列，小区面积 $4 \ \mathrm { m } \times 1 0 \ \mathrm { m }$ ,灌水时用水表控制灌水量（根据小区面积折算每小区灌 $3 0 ~ \mathrm { m m }$ 需要 $1 . 2 ~ \mathrm { m } ^ { 3 }$ 灌水量），用汽油机将水车中的水抽出实行人工喷洒，喷洒过程中不断晃动喷头使得灌溉水均匀覆盖小区。各处理基肥用量为 $\mathrm { ~ N ~ } 9 0 \mathrm { ~ k g ~ } \cdot \mathrm { ~ k m } ^ { 2 }$ ， $\mathrm { P } _ { 2 } \mathrm { O } _ { 5 }$ 120$ { \mathrm { k g } } \cdot  { \mathrm { h m } } ^ { - 2 }$ ,羊粪 $4 5 \ 0 0 0 \ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ ,并于拔节期追施$\mathrm { ~ N ~ } 6 0 \mathrm { ~ k g ~ } \cdot \mathrm { ~ h m } ^ { - 2 }$ 。所施肥料为尿素（含 $\mathrm { ~ N ~ } 4 6 . 4 \%$ ），过磷酸钙（含 $\mathrm { P } _ { 2 } \mathrm { O } _ { 5 } 1 6 . 0 \%$ ）。冬小麦播种量为150$\mathbf { k g } \cdot \mathbf { h m } ^ { - 2 }$ ,行距 $2 0 \ \mathrm { c m }$ ，播种时期为每年的9月 26日，收获日期为翌年的6月30日。
+
+# 1.3 测定项目与方法
+
+1.3.1地上生物量的测定于冬小麦开花期(05—20)在各处理小区采集 $1 \mathrm { ~ m ~ }$ 生物量，每个小区2 次重复,在统计地上群体后于 $8 0 ~ \mathrm { { ^ { \circ } C } }$ 烘箱中烘至恒重后称重。
+
+1.3.2土壤含水率的测定及储水量的计算土壤水分测定用土钻取土，于播前（09—25）、拔节期（04—13）开花期（05—20）、收获后（06—30)在各处理小麦行间分层采集 $0 \sim 3 0 0 ~ \mathrm { c m }$ 土层土样( $\mathrm { ~ \ : ~ } ( 0 \sim$ $1 0 0 \ \mathrm { c m }$ 每 $1 0 \ \mathrm { c m }$ 一个土样, $1 0 0 \ \mathrm { c m }$ 以下每 $2 0 \ \mathrm { c m } \ - \$ 个土样），全生育期共采样4次，用烘干法测定土壤含水量，土壤容重用环刀法测定，之后再计算土壤储水量，计算公式为：
+
+$$
+Q = d \times h \times C
+$$
+
+式中： $Q$ 为某土层储水量, $\operatorname { m m } ; d$ 为土壤容重, $\mathbf { g } \cdot \mathbf { \partial }$ $\mathrm { c m } ^ { - 3 }$ $h$ 为土层厚度， $\mathrm { m m } ; c$ 为土层含水百分率, $\%$ 。1.3.3作物耗水量的测定通过水量平衡关系式计算作物耗水量[20],计算公式为：
+
+$$
+E T = P - \varDelta W
+$$
+
+式中： $E T$ 为作物耗水量， $\operatorname* { m m } ; P$ 为一段时间之内的降雨量， $\mathrm { m m } ; \Delta \mathcal { W }$ 为一段时间之内加入到一定容积土体的的水量与移出的水量之差， $m m$ 。
+
+1.3.4根长密度的测定与计算于开花期(5.21)进行根系采样，采用大口径根钻，钻头长 $2 0 \ \mathrm { c m }$ ，直径 $6 ~ \mathrm { c m }$ ,取样时每个处理6次重复，1次重复为3钻，一钻取在麦行上，两钻取在行间,3钻合为一个土样。之后于清水中清洗根系并将洗出后的根系带回实验室，用加拿大regent instrument inc公司生产的根系扫描仪epson twain pro（32bit）（ $3 2 { \mathrm { ~ b i t } } )$ 及专业的根系形态学和结构分析系统WINRhizo，对根系长度进行测定分析，之后进行根长密度的计算，其计算公式为[21]：
+
+$$
+R D _ { L } = L r / V s
+$$
+
+式中： $R D _ { L }$ 为根长密度, ${ \mathrm { c m } } \cdot { \mathrm { c m } } ^ { 3 } ; L r$ 为根系长度,$\mathrm { c m } ; V s$ 为一钻所取的土壤体积, $\mathrm { c m } ^ { 3 }$ 。  
+1.3.5叶面积指数的测定在开花期用LAI-2200冠层分析仪测定各处理叶面积指数，每个处理重复6次。  
+1.3.6产量测定在小麦成熟期分别在每个小区长势均匀处取长 $5 \mathrm { ~ m ~ } 2$ 行完整植株样，调查穗数及穗粒数之后，风干称其干重即地上生物量，最后脱粒测定籽粒产量及千粒重。
+
+# 1.4 数据处理及分析
+
+采用 Microsoft Excel 2007 进行数据整理,Sig-maPlot12.5绘制图表,SPSS20.0统计软件进行方差分析，用LSD法进行差异显著比较，显著性水平设为0.05。
+
+# 2结果与分析
+
+# 2.1灌水时期对冬小麦产量及水分利用效率的影响
+
+由表1可知，在平水年，拔节灌、孕穗灌、拔节 $^ +$ 孕穗灌其收获期土壤储水量仅仅比不灌增加了$3 \% . 3 \%$ 和 $1 1 \%$ ,而在丰水年增加比率高达 $1 1 \%$ 、$13 \%$ 和 $1 6 \%$ 。其作物耗水量也因生育期降水量的不同呈现出不同的趋势，拔节灌、孕穗灌、拔节 $^ +$ 孕穗灌的作物耗水量在丰水年相比于不灌出现了不增反减的现象，分别比不灌减少 $5 \% . 7 \%$ 和 $4 \%$ ，而在平水年比不灌增加了 $5 \% . 4 \%$ 和 $6 \%$ 。同时，在丰水年灌水对产量的增加幅度明显低于平水年，拔节灌、孕穗灌、拔节 $^ +$ 孕穗灌在丰水年的产量增加比率比平水年分别降低了 $4 \% 3 \%$ 和 $3 \%$ ,并且只有在平水年，拔节灌显著增加了冬小麦产量。在两种降水年型中，补充灌溉均未显著增加作物水分利用效率。
+
+从表2可以看出，在平水年，拔节灌、孕穗灌、拔节 $^ +$ 孕穗灌收获期地上生物量比不灌各增加 $9 \%$ 、$4 \%$ 和 $9 \%$ ，而在丰水年，只有拔节灌和拔节 $^ +$ 孕穗灌收获期地上生物量比不灌增加了 $4 \%$ 和 $6 \%$ ，其增加比率有所降低。在两种降水年型下，灌水对穗数的增加比率也有所不同，在丰水年，拔节灌、孕穗灌、拔节 $^ +$ 孕穗灌收获期穗数的增加比率仅为 $3 \% . 2 \%$ 和 $2 \%$ ，但在平水年，除了孕穗灌的增加比率仍然较低，仅为 $3 \%$ ,拔节灌和拔节 $^ +$ 孕穗灌的增加比率都上升到了 $12 \%$ 和 $10 \%$ 。另外，灌水在两种降水年型注：W0表示不灌溉；W1表示拔节期灌水( $3 0 ~ \mathrm { m m }$ )；W2表示孕穗期灌水( $3 0 \ \mathrm { m m }$ ）； $\mathbb { W } 3$ 表示拔节期灌水( $3 0 \ \mathrm { m m }$ ） $^ +$ 孕穗期灌水（30$\mathbf { m } \mathbf { m }$ )。不同小写字母表示2015—2016年处理间差异达到显著性水平 $\ P < 0 . 0 5 )$ ，不同大写字母表示2016—2017年处理间差异达到显著性水平( $\ P < 0 . 0 5 )$ 。下同。
+
+表1灌水时期对冬小麦水分利用效率的影响  
+Tab.1Influence of irrigation period on water use efficiency of winter wheat   
+
+<html><body><table><tr><td rowspan="2">年型</td><td rowspan="2">处理</td><td colspan="2">土壤储水量/mm</td><td rowspan="2">有效降雨量 /mm</td><td rowspan="2">灌水量 /mm</td><td rowspan="2">作物耗水量 /mm</td><td rowspan="2">产量 /（kg·hm -²）</td><td rowspan="2">水分利用效率 /（kg·hm-²·mm-1)</td></tr><tr><td>播种前</td><td>收获后</td></tr><tr><td>2015—2016</td><td>W0</td><td>684a</td><td>441b</td><td></td><td>0</td><td>392a</td><td>6918b</td><td>17.7a</td></tr><tr><td rowspan="5">(平水年)</td><td>W1</td><td>686a</td><td>452b</td><td>149</td><td>30</td><td>413a</td><td>7589a</td><td>18.4a</td></tr><tr><td>W2</td><td>680a</td><td>452b</td><td></td><td>30</td><td>406a</td><td>7171ab</td><td>17.7a</td></tr><tr><td>W3</td><td>693a</td><td>488a</td><td></td><td>60</td><td>414a</td><td>7395ab</td><td>17.9a</td></tr><tr><td>W0</td><td>729a</td><td>533b</td><td></td><td>0</td><td>435a</td><td>4922a</td><td>11.4a</td></tr><tr><td>W1</td><td>732a</td><td>590a</td><td>240</td><td>30</td><td>412a</td><td>5193a</td><td>12.8a</td></tr><tr><td rowspan="3">(丰水年)</td><td>W2</td><td>737a</td><td>600a</td><td></td><td>30</td><td>407a</td><td>4957a</td><td>12.3a</td></tr><tr><td>W3</td><td>736a</td><td>619a</td><td></td><td>60</td><td>417a</td><td>5123a</td><td>12.4a</td></tr><tr><td>自由度</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>变异来源 年型</td><td>1</td><td>29.77 *</td><td>72.09***</td><td></td><td></td><td>2.72</td><td>93.36**</td><td>83.34***</td></tr><tr><td>处理</td><td>3</td><td>0.48</td><td>9.93***</td><td></td><td></td><td>0.88</td><td>2.47 *</td><td>1.49</td></tr><tr><td>年型×处理</td><td>3</td><td>0.37</td><td>1.95*</td><td></td><td></td><td>7.39</td><td>0.40</td><td>0.30</td></tr></table></body></html>
+
+注：WO 表示不灌溉；W1表示拔节期灌水( $3 0 ~ \mathrm { m m }$ )；W2表示孕穗期灌水( $3 0 ~ \mathrm { m m }$ );W3表示拔节期灌水( $3 0 ~ \mathrm { m m }$ ） $^ +$ 孕穗期灌水( $\cdot 3 0 \ \mathrm { m m }$ )。不同小写字母表示处理间差异达到显著性水平( $\textstyle P < 0 . 0 5 { \mathrm { . } }$ ），同行数据后 $^ *$ 、\* $*$ 和\*\*\*分别代表不同年型、不同处理以及年型 $\times$ 处理下差异达$5 \% . 1 \%$ 和 $0 . 1 \%$ 显著水平。下同。
+
+表2灌水时期对冬小麦产量构成因素的影响  
+Tab.2Influence of irrigation period on yield components of winter wheat   
+
+<html><body><table><tr><td>年型</td><td>处理</td><td>地上生物量 /(kg·hm-²)</td><td>穗数 /(104·hm-²)</td><td>穗粒数 /粒</td><td>千粒重 /g</td><td>收获指数</td></tr><tr><td>2015—2016 (平水年)</td><td>W0</td><td>14 621b</td><td>502.2b</td><td>38.9b</td><td>43.6a</td><td>0.47a</td></tr><tr><td rowspan="6">2016—2017</td><td>W1</td><td>15 912a</td><td>562.2a</td><td>43.8a</td><td>43.2a</td><td>0.47a</td></tr><tr><td>W2</td><td>15 229ab</td><td>518.5ab</td><td>43.3a</td><td>44.7a</td><td>0.47a</td></tr><tr><td>W3</td><td>15 974a</td><td>554.8a</td><td>45.2a</td><td>43.2a</td><td>0.46a</td></tr><tr><td>W0</td><td>13755a</td><td>537.7a</td><td>31.4b</td><td>34.8a</td><td>0.36a</td></tr><tr><td>W1</td><td>14 373a</td><td>555.0a</td><td>35.0a</td><td>35.4a</td><td>0.36a</td></tr><tr><td>W2</td><td>13 516a</td><td>546.6a</td><td>33.6a</td><td>35.2a</td><td>0.37a</td></tr><tr><td></td><td>W3</td><td>14 520a</td><td>549.1a</td><td>35.2a</td><td>35.4a</td><td>0.35a</td></tr><tr><td>变异来源</td><td>自由度</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>年型</td><td>1</td><td>41.82**</td><td>4.13 *</td><td>79.5**</td><td>91.87**</td><td>92.35**</td></tr><tr><td>处理</td><td>3</td><td>18.51*</td><td>17.1</td><td>15.06**</td><td>0.48</td><td>0.53</td></tr><tr><td>年型×处理</td><td>3</td><td>2.18</td><td>6.14</td><td>1.02</td><td>0.69</td><td>0.21</td></tr></table></body></html>
+
+![](images/08657e3ee37192719168071dc71868f8464c16f53afa36b60ef8c939ad3a580a.jpg)  
+图2灌水时期对小麦叶面积指数的影响Fig.2Influence of irigation period on LAI  
+图3灌水时期对群体数和地上生物量的影响Fig.3Influence of irrigation period on population culmsand aboveground biomass
+
+下都显著增加了穗粒数，在平水年各处理的穗粒数比不灌平均增加了 $13 \%$ ,在丰水年增加了 $10 \%$ 。
+
+# 2.2灌水时期对冬小麦开花期叶面积指数(LAI)、群体及地上生物量的影响
+
+由图2可得，拔节灌及拔节 $^ +$ 孕穗灌的开花期叶面积指数在平水年比不灌显著增加了 $13 \%$ 及$1 1 \%$ ,而在丰水年只增加了 $5 \%$ 和 $6 \%$ 。如图3(a)所示，拔节灌、拔节 $^ +$ 孕穗灌在平水年有效提高了开花期小麦群体数及成熟期成穗数，群体数分别较不灌增加 $1 3 \%$ 和 $1 1 \%$ ,成穗率分别增加 $13 \%$ 和 $1 1 \%$ 。地上生物量的大小与群体数量紧密相关，灌水在提高拔节后群体数量的同时，也促进了小麦地上干物质的生长。在2015—2016年开花期，拔节灌与拔节$^ +$ 孕穗灌地上生物量比不灌增加 $12 \%$ 及 $9 \%$ ，而孕穗灌地上生物量并未有所增加。通过图3(b)可以看出，2016—2017年灌水对拔节后地上生物量的增加比率明显低于2015—2016年。
+
+群体数地上生物量  
+(z-u·O)/ 7050 (a) 2015-2016年 A aA 2地上生物量tB 工 abB600b550 工500450700  
+（-u·v/ 50005 (b)2016-2017年 工C a 工A a BC a aAB 1614121086 地上生物量/(t·hm-2)500450 42WO W1 W2 W3处理
+
+# 2.2灌水时期对冬小麦开花期根长密度的影响
+
+开花期为小麦根长的峰值时期，此时测量根系特征能够有效反映各处理对小麦根系的影响效果。由图4(a)可知，在2015—2016年平水年，灌水在一定程度上增加了冬小麦根长密度，尤其是土壤表层$0 \sim 6 0 ~ \mathrm { c m }$ 处增加效果最为明显,其根长密度拔节灌、孕穗灌、拔节 $^ +$ 孕穗灌比不灌分别增加 $2 9 \%$ 、$1 5 \%$ 和 $2 9 \%$ ;而在土壤深层 $1 0 0 \sim 2 0 0 ~ \mathrm { c m }$ 处,各处理注：不同小写字母表示同一深度不同处理间差异达到显著性水平( $\textstyle P < 0 . 0 5 ,$ 。
+
+![](images/ad7ca30b8e2d4affaebda291bec8d6cd6f134e2118184ab15b741bc8cbb4ff20.jpg)  
+Fig.4Influence of irrigation period on root length density
+
+的根长密度均较不灌低，不灌的 $1 0 0 \sim 2 0 0 ~ \mathrm { c m }$ 土层内根长密度比拔节灌、孕穗灌、拔节 $^ +$ 孕穗灌分别高$1 2 \% . 7 \% . 1 6 \%$ 。而图4(b)表明，在2016—2017年丰水年，所有处理的根长密度均比平水年高，但灌水对根长密度的增加幅度明显低于平水年， $0 \sim 6 0 \ \mathrm { c m }$ 土层内根长密度仅比不灌分别增加了 $12 \%$ ， $4 \%$ 及$12 \%$ ；在土壤深层 $1 0 0 \sim 2 0 0 ~ \mathrm { c m }$ 处,不灌的根长密度分别比拔节灌、孕穗灌、拔节 $^ +$ 孕穗灌高 $31 \%$ 、 $1 6 \%$ 及 $4 0 \%$ ,其高出比例明显高于平水年。
+
+# 2.3灌水时期对土壤含水率的影响
+
+从图5可以看出，在平水年收获期，拔节灌和孕穗灌对土壤水分的利用程度较高，而拔节 $^ +$ 孕穗灌的利用程度最低，不灌对 $1 0 0 \ \mathrm { c m }$ 以下土壤水分的利用程度最高，表现在其 $1 0 0 \ \mathrm { c m }$ 以下土壤含水率均较其他处理低；而在丰水年收获期，灌水对土壤水分的利用程度明显降低，不仅在表层同时在深层的土壤含水率都比不灌高。综合2a含水率剖面图来看，灌水并未提高小麦对土壤深层水分的利用程度。在丰水年,拔节期 $0 \sim 1 0 0 \ \mathrm { c m }$ 土壤含水率增多,不灌比灌水在到达收获期时消耗了更多的土壤水分，且所有处理收获期各层土壤含水率均高于平水年。
+
+![](images/b2a309c80e15c1b74a73a14ef32eea2de814d1751bb9139423b0e72a7c8293db.jpg)  
+图4灌水时期对根长密度的影响  
+图5灌水时期对不同生育期土壤含水率的影响Fig.5Influence of irrigation period on water contentin different growth stage
+
+# 2.4灌水时期对小麦各生育期耗水量的影响
+
+由图6可知，不同年型下冬小麦各生育期耗水比例明显不同，在平水年4个处理拔节期一开花期的平均耗水量占全部生育期平均耗水量的 $42 \%$ ，而在丰水年下降到 $2 9 \%$ 。在丰水年，充足的雨水提高了冬小麦在播种一拔节期以及开花期一收获期所耗水量占全生育期的比例，4个处理在播种一拔节期和开花期一收获期的平均耗水量分别占了全部生育期平均耗水量的 $3 3 \%$ 和 $3 8 \%$ ,而在平水年下降到$2 4 \%$ 和 $34 \%$ 。同时，在平水年，灌水提高了冬小麦在拔节期一开花期和开花期一收获期的耗水量，在拔节期一开花期,拔节灌、孕穗灌和拔节 $^ +$ 孕穗灌较不灌耗水量分别增加 $6 \% . 3 \%$ 和 $5 \%$ ,在开花期一收获期分别增加 $14 \%$ ） $13 \%$ 和 $1 5 \%$ ;在丰水年,灌水并未增加拔节期一收获期的作物耗水量，反倒有所降低。
+
+# 3讨论与结论
+
+本研究表明，在长武半干旱地区，拔节灌和拔节$^ +$ 孕穗灌在平水年通过提高冬小麦花后群体数、叶面积指数、地上生物量、成穗率及穗粒数达到平均增产 $8 \%$ 的效果，而在丰水年,补充灌溉并未有效增加上述各项指标，因此未能实现增产。在两种降水年型下，总耗水量在各个生育期的分配比例不同，在平水年,播种一拔节期、拔节期一开花期、开花期一收获期的耗水量占整个生育期耗水量的比例分别为$2 4 \%$ 、 $42 \%$ 和 $34 \%$ ，在丰水年变为 $3 3 \%$ 、 $2 9 \%$ 和$3 8 \%$ ,拔节期一开花期耗水比例明显下降,说明补充灌溉在平水年通过增加小麦拔节期一开花期的耗水量，减弱了分蘖两级分化，从而实现群体数等性状的提高，进一步实现产量的增长。降水量对于作物生长具有显著的影响[22],且分蘖存活并构成产量因素最重要的时期是拔节期之后[23],拔节期灌水使得小麦干物质量累积时间被延长，有效地提高了小麦地上干物质量(24]。前人研究也同样表明,小麦在整个生育期总耗水量相同的条件下，在各生育期分配比例不同时,产量也会有显著差异[25],增加灌水次数会提高小麦开花到成熟期的耗水量[26]。
+
+![](images/53e72cfcb33e92864badb856a1cd100ff807cbdf537e3dd05d3c99b84c9edf9b.jpg)  
+注：不同小写字母表示同一时期不同处理间差异达到显著性水平( $\left( P < 0 . 0 5 \right)$ 。  
+图6灌水时期对不同生育期耗水量的影响  
+Fig.6Influence of irrigation period on water consumption in different growth stage
+
+在平水年和丰水年，补充灌溉均未提高水分利用效率，究其原因可能是在旱区，增产增效的关键在于作物生育后期对深层土壤水分的利用，补充灌溉并未提高冬小麦对深层土壤水分的利用程度，具体表现为深层土壤水分含量高于不灌，尤其是在丰水年。而作物吸收土壤水分的关键在于作物根系的分布情况，吸收更多的深层土壤水分意味着需要增加小麦在土壤深层的根系分布，在两种降水年型下，灌水都在一定程度上减少了土壤 $1 0 0 \sim 2 0 0 ~ \mathrm { c m }$ 处冬小麦的深层根系分布。在平水年，拔节灌、孕穗灌和拔节 $^ +$ 孕穗灌的土壤 $1 0 0 \sim 2 0 0 ~ \mathrm { c m }$ 处小麦根长密度比不灌分别减少 $12 \%$ （204号 $, 7 \%$ 和 $16 \%$ ,而在丰水年减少了$31 \%$ ） $1 6 \%$ 和 $3 9 \%$ 。同时，只有在平水年，灌水才显著增加了冬小麦在土壤表层 $0 \sim 6 0 ~ \mathrm { c m }$ 的根长密度。由此可以推断，补充灌溉在平水年尤其是丰水年减弱了小麦在土壤 $1 0 0 \sim 2 0 0 ~ \mathrm { c m }$ 处的深层根系分布，使得深层土壤水分没有被作物充分利用，从而导致产量提高但水分利用效率并未同步增加。在干旱地区,土壤含水率显著影响作物根系的生长发育[27]。同时，表层根系分布受土壤水分影响最大，灌水量越多其表层根量越多[28],适度的水分亏缺及土壤干旱可以提高根长密度并促进根系向深层土壤的下扎[29-30],使得根系可吸收下层土壤中的水分,以弥补上层土壤水分的不足(31]。高的根长密度与小麦增产及提高水分利用效率密切相关[32],这可能是因为这种伸长之后的根系可以更有效地利用土壤水分，增加作物对土壤水分的吸收量，从而能够弥补浅层土壤水分的不足[33],并且在生育后期, $6 0 ~ \mathrm { c m }$ 以下根系对深层土壤水分的吸收，显著影响小麦的灌浆过程〔28] ○
+
+补充灌溉对产量和水分利用效率的调控效果受生育期降水量的显著影响，本研究认为在长武半干旱地区，只有在干旱年份补充灌溉才能表现出同时提高产量和水分利用效率的效果。因此，有必要在降水量更少的地区进行类似试验，以形成完善的干旱地区补充灌溉指导体系。
+
+# 参考文献(References）：
+
+[1]李会霞，史兴民.近50a来黄土高原地区暖冬现象的气候特征 [J].干旱区研究,2017,34(1）:136-143.[Li Huixia,Shi Xingmin. Climate whange in warm winter over the Loess Plateau during
+
+the period of 1965-2014[J].Arid Zone Research,2017,34（1）: 136 -143.]   
+[2]山仑,邓西平,康绍忠.我国半干旱地区农业用水现状及发展 方向[J].水利学报,2002,33（9）:27-31.[Shan Lun,Deng Xiping,Kang Shaozhong. Current situationand perspectiveof agricultural water used insemiaridareaof China[J]. Journalof Hydraulic Engineering,2002,33（9）:27 -31.]   
+[3］山仑.植物抗旱生理研究与发展半旱地农业[J].干旱地区农 业研究,2007,25（1）:1-5.[Shan Lun.Plant drought resistance and semi-dryland farming[J].Agricultural Research in the Arid Areas,2007,25(1) :1-5.]   
+[4]Oweis T. Supplemental irrgation: A highly eficient water - use practice[J]. Water Encyclopedia,1999.   
+[5]Oweis T,Pala M,Ryan J.Stabilizing rainfed wheat yields with supplemental irrigation and nitrogen in a mediterranean climate[J]. Agronomy Journal,1998,90(5）:672-681.   
+[6]Oweis T,Zhang HP,Pala M. Water use effciency of rainfed and irgatedbreadwheatina Mediterraneaenviroment[J.Agrono my Journal,2000,92(2):231- 238.   
+[7]孔祥旋,杨占平,武继承,等.限量灌溉对冬小麦产量和水分利 用的影响[J].华北农学报,2005,20（5）:64-66.[Kong Xiangxuan,Yang Zhanping,Wu Jicheng,et al.The effects of limited irrigation on winter wheat production and water utilit[J].Acta Agriculturae Boreali- Sinica,2005,20(5）:64-66.]   
+[8］邓西平,山仑.旱地春小麦对有限灌水高效利用的研究[J].干 旱地区农业研究,1995,13（3）:42-46.[Deng Xiping,Shan Lun.High efientuseoflimitedirigationwaterbydryladsping wheat[J].Agricultural Research in the Arid Areas,1995,13（3）: 42 -46.]   
+[9］褚桂红,杨丽霞.非充分灌溉对冬小麦产量及水分利用效率影 响研究[J].节水灌溉,2016（8）:54-56.[Chu Guihong,Yang Lixia.Study on the effects of deficit irrigation on the yield and water use efficiency in winter wheat[J].Water Saving Irrigation,2016 (8) :54 -56.]   
+[10］马孝义，康绍忠,赵延凤,等.陕北渭北冬小麦降水产量关系与 补灌时期研究[J].西北农林科技大学学报（自然科学版)， 2000,28（4）:5-10.[Ma Xiaoyi,Kang Shaozhong,Zhao Yanfeng,et al.Relationship between winter wheat production with rainfall and compensation irrigation period in North Shanxi and Weibei Areas[J]. Journal of Northwest Agriculture and Forestry University （Natural Science Edition）,2000,28（4）:5-10.]   
+[11］王文佳,冯浩,宋献方.基于 DSSAT 模型陕西杨凌不同降水年 型冬小麦灌溉制度研究[J].干旱地区农业研究,2013,31（4)： 1-10,37.[Wang Wenjia,Feng Hao,Song Xianfang. Determination of irrigation shedule of winter wheat in different hydrological years in Yangling ,Shanxi Province based on DSSAT model[J]. Agricultural Research in the Arid Areas,2013,31（4）:1 -10, 31.]   
+[12］王淑芬,张喜英,裴冬.不同供水条件对冬小麦根系分布、产量 及水分利用效率的影响[J].农业工程学报,2006,22（2）:27- 32.[Wang Shufen,Zhang Xiying,Pei Dong.Impacts of dierent water suppliedconditions onrot distribution,yieldand water utilization efficiency of winter wheat[J].Transactions of the Chinese
+
+Society of Agricultural Engineering,2006,22(2） :27-32.][13]董宝娣，师长海，乔匀周，等.不同灌溉条件下不同类型冬小麦产量水分利用效率差异原因分析[J].中国生态农业学报，2011,19(5）:1 096-1 103.[Dong Baodi,Shi Changhai,QiaoYunzhou,et al.Analysis of water use efficiency of different winterwheat cultivars under different irrigation schemes on the basis ofyield[J].Chinese Journal of Eco-Agriculture,2011,19（5）：1096-1103.]
+
+[14]闫学梅，于振文.补充灌溉对不同品种小麦产量和水分利用效率的影响[J].山东农业科学,2009(9)：19-22.[Yan Xuemei,Yu Zhenwen.Efect of supplementary irigation on grain yield andwater use efficiency of different wheat cultivars[J]. Shandong Ag-riculture Sciences,2009(9) :19-22.]
+
+[15]曹彩云，党红凯，郑春莲，等.不同灌溉模式对小麦产量、耗水及水分利用效率的影响[J].华北农学报，2016,31（增刊1)：17- 24.［Cao Caiyun,Dang Hongkai,Zheng Chunlian,et al.Effects of different irrigation regime on yield,water consumptionand water use efficiency of winter wheat[J].Acta Agriculturae Boreali- Sinica,2016,31（suppl.1) :17 -24.]
+
+[16]张益望，刘文兆，王俊.补充灌溉及氮磷配施对冬小麦产量形成和水氮利用的影响[J].生态学杂志，2010，29（7)：1307-1313.[Zhang Yiwang,Liu Wenzhao,Wang Jun.Effects of supple-mental irrigation and nitrogen -and phosphorus fertilization onyield formation and soil water- and nitrogen use of winter wheat[J].Chinese Journal of Ecology,2010,29(7）:1 307-1 313.][17]穆艳，王延平.黄土长武塬区农田生态系统水量平衡研究[J].陕西师范大学学报（自然科学版），2017，45（2）：110－115.[Mu Yan,Wang Yanping.Analysis on water balance of farmland e-cosystemin the Changwu tableland,LoessPlateau,China[J]. Jour-nal of Shaanxi Normal University(Natural Science Edition）,2017,45(2):110-115.]
+
+[18]徐娜，党廷辉，刘文兆.黄土高塬沟壑区农田土壤养分与作物 产量变化的长期监测[J].植物营养与肥料学报，2016,22（5）： 1 240-1 248.[Xu Na,Dang Tinghui,Liu Wenzhao.Soil nutrient balance and crop yields after1O-years'fertilization in the gully areaof the LoessPlateau[J].Journal ofPlant Nutrition and Fertiliz er,2016,22(5):1 240-1248.]
+
+[19]Guo S,Zhu H,Dang T,et al.Winter wheat grain yield associated with precipitation distribution under long-term nitrogen fertilization in the semiarid Loess Plateau in China[J].Geoderma,2012, 189:442 -450.
+
+[20]李开元，李玉山.黄土高原农田水量平衡研究[J].水土保持学 报,1995,9(2）:39-44.[Li Kaiyuan,Li Yushan.Study on field water balance ofLoessPlateau[J].Journalof Soil and Water Conservation,1995,9(2):39-44.]
+
+[21]农淦，路培，王林华,等.黄土高原坡耕地小麦根系分布特征研究[J].水土保持研究,2013,20（5）：92-98.［NongGan，LuPei.Wang Linhua,et al.Study on root distribution of winter wheaton slope farmland on the Loess Plateau[J].Research of Soil andWater Conservation,2013,20(5）:92-98.]
+
+[22]郑艺，张丽，周宇，等.1982—2012年全球干旱区植被变化及驱动因子分析[J].干旱区研究,2017,34（1）：59-66.[ZhengYi,Zhang Li,Zhou Yu.Vegetation change and its driving factors in
+
+global drylands during the period of 1982-2012[J].Arid Zone Research,2017,34(1):59-66.]   
+[23]Cai T,Xu H,Peng D,et al.Exogenous hormonal application improves grain yield of wheat by optimizing tiller productivity[J]. Field CropsResearch,2014,155:172-183.   
+[24]宋明丹，李正鹏,冯浩.不同水氮水平冬小麦干物质积累特征 及产量效应[J].农业工程学报,2016,32（2）：119-126.[Song Mingdan,Li Zhengpeng,Feng Hao.Effects of irrigation and nitrogen regimes on dry matter dynamic accumulation and yield of winter wheat[J].Transactions of the Chinese Society of Agricultural Engineering,2016,32（2）:119-126.]   
+[25]周凌云.封丘地区雨养麦田的水分供应和产量潜力[J].土壤 学报,1993,30(3）:297-303.[Zhou Linyun.Water supply and potential productivity in rainfed wheat field in Fengqiu region[J]. ActaPedologica Sinica,1993,30(3）:297-303.]   
+[26］党根友，魏亦勤,沈强云，等.灌水次数对春小麦耗水特性及产 量的影响[J].西北农业学报,2014,23(6）:48-55.[Dang Genyou,Wei Yiqin,Shen Qiangyun,et al.Effect of irrigation times on water consumption characteristic and grain yield in spring wheat [J].Acta Agriculturae Boreali - Occidentalis Sinica,2014,23 (6):48-55.]   
+[27]郭京衡，李尝君，曾凡江，等.2种荒漠植物根系生物量分布与 土壤水分、养分的关系[J].干旱区研究，2016，33（1)：166- 171.[Guo Jingheng,Li Changjun,Zeng Fanjiang,et al.Relationship between root biomass distribution and soil moisture,nutrient for two desert plant species[J].Arid Zone Research,2016,33 (1):166-171.]   
+[28]李运生，王菱,刘士平,等.土壤－根系界面水分调控措施对冬 小麦根系和产量的影响[J].生态学报，2002,22（10)：1680- 1 687.[Li Yunsheng,Wang Ling,Liu Shiping,et al.The influence of different amounts of water supplied at different depths in soil - root interface on root distribution and yield of winter wheat[J].Acta Ecologica Sinica,2002,22(10):1 680 -1 687.]   
+[29]Wang C,Liu W,LiQ,etal.Effects of different irrigation and nitrogen regimes on root growth and its correlation with above- ground plant parts in high- yielding wheat under field conditions[J]. Field Crops Research,2014,165(3）:138-149.   
+[30]Xue L H,Duan JJ,Wang Z M,et al.Effects of different irrigation regimes on spatial - temporal distribution of roots,soil water use and yield in winter wheat[J].Acta Ecologica Sinica,2010,30 (19):5 296-5 305.   
+[31］朱丽，黄刚,唐立松,等.梭梭根系的水分再分配特征对其生理 和形态的影响[J].干旱区研究，2017,34（3）：638-647.［Zhu Li,Huang Gang,Tang Lisong,et al.Root internal hydraulic redistribution and its effects on the physiological form and plant growth of haloxylon ammodendron［J].Arid Zone Research,2O17,34 (3):638 -647.]   
+[32]Liao M,Fillery IRP,Palta JA.Early vigorous growth is a major factor influencing nitrogen uptake in wheat[J].Functional Plant Biology,2004,31(2):121-129.   
+[33]Sharma BR,Chaudhary T N.Wheat root growth,grain yield and water uptake as influenced by soil water regime and depth of nitrogen placement in a loamy sand soil[J].Agricultural Water Management,1983,6(4) :365-373.
+
+# Effects of Supplement Irrigation on Root System and Water Consumption Characteristics of Winter Wheat in Semi - arid Region
+
+YANG Wen - jia1,2,WANG Shi - wen1,2,3,LI Yu -lin2,3,SUN Hai - nil,2,YIN Xiu-shuai2,3, Yin Li- nal,2,3,Ke Qinq-Bo2,3，DENG Xi- ping2,3 (1 College of Resources and Environment，Northwest A&F University Yangling， Shanxi 7121Oo,China;   
+2 Insitute of Soil and Water Conservation，Northwest A&F University Yangling，Shanxi 7121OO,China;   
+3 State Key Laboratory of Soil Erosionand Dryland Farmingon Loess Plateau，Insitute of Soil and Water Conservation, Chinese Academy of Sciences and Ministry of Water Resources，Yangling,Shanxi 7121oo,China)
+
+Abstract:Supplementary irigation is an important approach for increased the crop yield in the dryland agriculture.However，the effects ofthe supplementary irigation onthe crop yield，crop water use efciency and soil water consumption are diferent in previous researches.In orderto explore the under mechanism of supplementary irigation onthe crop yield and wateruse efciency,the supplementary irigation on thecropyield,crop population，water useeficiency，soil water contentsand root distribution were investigated in winter wheat in a field study.The field experiments were conducted continues two years inthe Changwu research station，Shanxi，China.The experiments includes four different irrigation treatments:no irrigation(WO），3O mm irrigation at jointing stage（W1），30 mm irrigation at booting stage(W2）, $3 0 ~ \mathrm { m m }$ irrigation at jointing stage and 3O mm irrigation at booting stage(W3）.
+
+The result showed that supplementary irigation increased the wheat yield,but not water use eficiency.The treatments of $\mathbb { W } 1$ and W3 have higher yield than that of WO and W2.Water consumption during the jointing and flowering stage was $42 \%$ and $2 9 \%$ of whole growth period consumption in the continue two years，and supplemental irigation just enhance the waterconsumptionof jointing and flowering stage inthe normalflow year,andlead to weak polarizationand increase the population of winter wheat in anthesis.Supplementary irigation significantly affects root distribution by increased shalow root distribution and decreased deep root distribution．Compared with W0, the root densities of $1 - 2 \mathrm { ~ m ~ }$ in W1，W2 and W3 were decreased by $12 \%$ ， $7 \%$ and $16 \%$ in normal flow year，and decreased by $31 \%$ ， $16 \%$ and $39 \%$ in wet years. As a results，supplementary irigation，failed to make full use of deep soil water storage.In addition,the efect of supplementary irigation on yield and water use effciency was also significantly affected bytherainfall during the growth period.Make fulluse of deep soil water storageby dep root is keyapproach in increasing the crop yield and water use efficiency in the dryland agriculture.The result of this study showed that supplemental irrigation does not regulate the deep rots and deep water consumption，and which leads to increased yield without increasing water use eficiency.The result suggested that supplementary irrigation should be applied at less rainfall area for increased the crop water use eficiency，and future research should be consider how to regulate the deep root distribution with supplementary irrigation.
+
+Key words:Supplemental irrigation；Winter wheat；Root system ；Water use efficiency

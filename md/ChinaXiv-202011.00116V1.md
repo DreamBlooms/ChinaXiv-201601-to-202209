@@ -1,0 +1,187 @@
+# 黄土高原塬面保护区降雨侵蚀力时空分布特征及其影响因素研究
+
+孙从建，王佳瑞'，郑振婧，陈 伟，孙九林1,2(1山西师范大学地理科学学院,山西临汾041000；2中国科学院地理科学与资源研究所,北京100101)
+
+摘要：通过采用Mann-Kendall趋势分析法、小波分析方法、地统计插值等方法，基于黄土高原塬面保护区及临近的21个站点的逐日降水量数据，对区域内降雨侵蚀力的时空变化，趋势及主要影响因素进行了分析。结果表明：(1）黄土塬面保护区1960—2017年多年平均降雨量为 $5 9 9 . 2 ~ \mathrm { m m }$ ；多年平均降雨侵蚀力为 $1 ~ 8 7 1 . 9 1 ~ \mathrm { M J } \cdot \mathrm { m m } \cdot \mathrm { h m } ^ { - 2 } \cdot \mathrm { h } ^ { - 1 } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ ，降雨侵蚀力在过去60a来呈微弱上升趋势且变化的季节差异显著。（2）黄土高原塬面保护区降雨侵蚀力的空间分布大体呈由南部向两侧递减的趋势，Mann-Kendall $Z$ 值除研究区北部、东部呈下降趋势，其余区域都为上升趋势。（3)黄土高原塬面保护区降雨侵蚀力多年存在32a的大周期，在大周期内还存在 $^ { 1 3 \mathrm { ~ a ~ } , 5 2 }$ a的小周期。(4）影响北半球中高纬度地区的主要的大气环流因子中仅Cold&Warm Episodes by Season 因子的波动对整个区域和陕西塬区的降雨侵蚀力有一定影响，二者存在一定的负相关性，其余环流指数与降雨侵蚀力没有显著的关联性;此外太阳黑子与陕西塬区降水侵蚀力变化规律存在一定的正相关，与其他塬区并无显著关联性。
+
+关键 词：黄土高原；降雨侵蚀力；时空分布；影响因素文章编号：1000
+
+黄土塬地势平坦、宜于耕种、生产生活条件较之其他区域相对优越，是黄土高原最为重要的宜居、宜耕、益农的土地资源[1]。近年来,沟道侵蚀引起的塬面破碎化和分解问题是当前黄土塬区面临的最严峻的生态问题。降水作为区域水土流失过程的主要驱动力，是影响区域土壤侵蚀的主要因素，降水侵蚀力 $( R )$ 的数值可以充分反映降雨量、降雨持续时间、降雨强度等因子对土壤侵蚀的影响程度[2]。准确的计算区域降雨侵蚀力可以评估区域土壤侵蚀的危险程度，其结果可以有效的提高对区域土壤侵蚀程度的预报精度。
+
+作为土壤侵蚀定量研究的重要因子，降水侵蚀力的计算方法主要包括基于次降水动能及强度的经典算法和常规气测资料的简易算法。其中经典算法主要有 $E I _ { 3 0 }$ 降雨侵蚀力指标[3]以及我国学者提出的多种 $E _ { n } I _ { n }$ 降水侵蚀力指标[4]。由于此方法要求的降水数据收集的难度高，在实际应用中较为困难。
+
+近年来,部分学者针对于不同区域的实际情况[5-6]建立了基于年降水、月降水、日降水等不同数据的降雨侵蚀力的简易算法，为不同区域土壤侵蚀研究提供了借鉴;其中基于日降水数据计算的 $R$ 值精度最高、表征的信息也更全面，是目前应用最为广泛的方法[]。黄土高原地区水土流失严重,区域由降水引起的土壤侵蚀已成为制约当地经济社会发展的主要桎梏。已有部分学者针对黄土高原典型区域开展了降雨侵蚀力研究，如在南部的渭河流域，研究发现近50a来流域年均降雨量及降雨侵蚀力的趋势均为自东南向西北减少,降雨侵蚀力时空差异显著[8]；而在东部的北洛河上游，其年均降雨量和年均降雨侵蚀力均呈增加趋势,但时空差异显著[9]。张新等[10]对黄土高原西部的董志塬核心区降雨侵蚀力的研究也发现类似规律。穆兴民等[1]对陕北黄土高原的降雨侵蚀力的研究表明该区域降雨侵蚀力也呈现显著的时空差异。以上研究结果为区域水土流失防止
+
+提供了重要的理论支撑。
+
+然而，现有的研究所涉及区域较为分散，缺乏针对水土流失严重、土地资源分布集中、人口稠密的黄土塬面地区降雨侵蚀力时空分布的系统研究[12] 。随着近年来黄土塬面破碎化日益严重，如何应对塬面土壤侵蚀，实现保塬固沟成为政府部门关注的焦点，而研究和认识黄土塬面地区降雨侵蚀力及其时空变化规律和影响因素对于区域水土流失防治、保塬固沟工程的实施具有重要现实意义。因此本文根据1960—2017年黄土高原塬面保护区及邻近的21个气象站点所提供的气象数据，对该区域的降雨侵蚀力的时空变化特征及其相关影响因子进行分析，以期对区域水土流失防治、小流域综合治理、塬面保护以及当地生态环境修复等提供科学依据。
+
+# 1 研究区概况
+
+本研究选取黄土高原塬面保护区作为典型区域，根据水利部2017年下发的《水利部农业综合开发水土保持东北黑土区侵蚀沟综合治理和黄土高原塬面保护实施规划》，国家将陕西的凤翔县、永寿县等县市，山西的吉县、隰县、乡宁县等县市及甘肃的西峰区、泾川县等县市设为黄土高原塬面水土流失防治重点保护区，集中开展塬面水土流失防治和塬体保护[13]。黄土高原塬面保护区(图1)位于 $3 4 ^ { \circ } \sim$ （204号$3 7 ^ { \circ } \mathrm { N } \lrcorner 1 0 7 ^ { \circ } \sim 1 1 2 ^ { \circ } \mathrm { E }$ 之间。该区域位于我国干旱与
+
+106° 107° 108° 109° 110° 111° 112° N   
+8 A 介休 3 ·环县 延安延长隰县   
+98 吉县临汾 安泽 98 崆峒 西峰 洛川 侯马   
+68 长武 蒲城韩城 .盐湖 50 ，陇县 凤翔 永寿 图例 武功·，咸阳 ·气象站点 海拔/m □研究区范围 34 低：322 0 30 6090120 km 高：2005   
+38 106° 107° 108° 109° 110° 111° 112°
+
+半干旱区的过渡带上，年平均气温约为 $8 \sim 1 3 \ \mathrm { { ^ circ C } }$ ，年降水量可达 $4 0 0 \sim 8 0 0 ~ \mathrm { m m }$ ,且集中在夏秋两季;植被多为耐寒旱,草本和灌木[14]。土壤为黄绵土、黑钙土和褐土[15]
+
+# 2 数据来源与研究方法
+
+# 2.1 数据来源
+
+本文所使用降水数据下载自中国气象数据网，包括黄土高原塬面保护区及临近的21个站点（图1)的 $2 0 : 0 0 \sim 2 0 : 0 0$ 时降水量。通过计算该区域60a以来的降雨侵蚀力，并整理出各个月份以及各季节的降雨侵蚀力。如出现部分站点单日降雨数据缺失的情况，采用临近2个或2个以上的降雨数据取平均值进行补充，最终整理得到完整的降雨数据。1960一2017年太阳黑子活动相对数数据下载自SIDC- Solar Influences Data Analysis Center;气象环流因子数据下载于NOAA气象预报中心。
+
+# 2.2 研究方法
+
+2.2.1降雨侵蚀力计算相较于经典计算法和其他简易计算法，基于日降水量数据的降雨侵蚀力的计算法具有精度高、误差小、数据易获取、反映信息全面等优势；基于此，本文选取目前广泛使用的，章文波等改进的Richardson日降雨侵蚀模型来计算区域降雨侵蚀力[7],具体方法如下：
+
+$$
+R _ { i } \ = \ \alpha \sum _ { j \ = 1 } ^ { k } \ ( P _ { j } ) ^ { \gamma }
+$$
+
+式中： $R _ { i }$ 为半月（第 $\mathbf { \chi } _ { i }$ 个)降雨侵蚀 $( \mathbf { M J } \cdot \mathbf { m m } \cdot \mathbf { h m } ^ { - 2 }$ $\mathbf { h } ^ { - 1 } \cdot \mathbf { a } ^ { - 1 }$ ） $P _ { j }$ 是半月内第 $j$ 天的日降雨量( $\left( \geqslant 1 2 \right)$ $\mathbf { m m } ^ { \mathrm { ' } }$ ），否则以0计算； $k$ 为该半月内降雨的天数； $\alpha$ 和 $\gamma$ 是模型待定参数。
+
+$$
+\alpha = 2 1 . 5 8 6 \gamma ^ { - 7 . 1 8 9 1 }
+$$
+
+$$
+\gamma = 0 . 8 3 6 \ 3 + \frac { 1 8 . 1 4 4 } { P _ { _ { d 1 2 } } } + \frac { 2 4 . 4 5 5 } { P _ { _ { y 1 2 } } }
+$$
+
+式中： $\boldsymbol { P } _ { d 1 2 }$ 表示日雨量 $\geqslant 1 2 ~ \mathrm { ~ m m }$ 的日平均雨量L $\mathrm { ( m m ) }$ ； $P _ { _ { y 1 2 } }$ 表示日雨量 $\geqslant 1 2 ~ \mathrm { ~ m m }$ 的年平均雨量$\left( { \bf m m } \right)$ 。通过上述公式可得到各年半月的降雨侵蚀力，经计算整理可得到不同月份、不同季节、不同年份的降雨侵蚀力数值。
+
+2.2.2时空特征分析方法运用Origin绘制了该区域多年降雨量与降雨侵蚀力时间变化折线图和多年来不同季节降雨侵蚀力时间变化折线图;运用反距离权重插值法绘制了多年降雨量和降雨侵蚀力的空间分布图;通过计算Mann-Kendall $Z$ 值可分析出降雨侵蚀力的空间变化趋势[16];运用小波分析方法分析降雨侵蚀力多年来的变化周期[17];运用 SPSS相关分析法分析了相关影响因素与降雨侵蚀力的关联程度。
+
+# 3结果与分析
+
+# 3.1 时间变化
+
+1960—2017年间，研究区多年降雨量平均值为$5 9 9 . 2 ~ \mathrm { m m }$ ,其变化趋势呈现三个阶段（图2a）：第一阶段为1960一1985年，降雨量较为平稳；第二阶段为1985一2000年，降雨呈振荡下降的趋势；第三阶段为2000—2017年，降雨量呈现较弱的上升趋势。
+
+研究期内，降雨量的最大值与最小值分别出现在1964年（ $8 7 3 . 4 4 ~ \mathrm { m m }$ )和1997年 $( 3 5 7 . 6 4 ~ \mathrm { m m }$ ）。
+
+研究区降雨侵蚀力在过去 $6 0 \mathrm { ~ a ~ }$ 中呈现微弱上升趋势，数值为 $1 ~ 8 7 1 . 9 1 ~ \mathrm { M J } \cdot \mathrm { m m } \cdot \mathrm { h m } ^ { - 2 } \cdot \mathrm { h } ^ { - 1 }$ ·$\mathrm { ~ a ~ } ^ { - 1 }$ 。与降雨量相同,降雨侵蚀力也呈现三个阶段（图2b）：第一阶段为1960一1982年，降雨侵蚀力总体较为平稳;第二阶段为1985—2000 年，降雨侵蚀力总体呈现出波动下降的趋势；第三阶段为2000—2017年，降雨侵蚀力表现为微弱上升的趋势。年平均降雨侵蚀力的最大值出现在2003年，为3402.66$\mathrm { M J \cdot \ m m \cdot \ h m ^ { - 2 } \cdot \ h ^ { - 1 } \cdot \ a ^ { - 1 } }$ 。年平均降雨侵蚀力的最小值与降雨量的最小值都出现在1997年，为$9 5 7 . 6 0 \mathrm { ~ M J } \cdot \mathrm { m m } \cdot \mathrm { h m } ^ { - 2 } \cdot \mathrm { h } ^ { - 1 } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ 。多年平均降雨侵蚀力的变异系数(0.53)大于多年平均降雨量的变异系数(0.23），这说明降雨侵蚀力的变化幅度更剧烈。
+
+![](images/c909e5217e43652d871ce023b9f96b6c1b66cdef588626d143f506fb11adf832.jpg)  
+图21960—2017年间研究区年降雨量及全年四季降雨侵蚀力变化趋势Fig.2Trends of annual rainfall and erosion of rainfall in the study area from 196O to 2017
+
+1960—2017年间，区域春季降雨侵蚀力（图2c)的多年平均值为 $2 2 4 . 9 2 ~ \mathrm { M J } \cdot \mathrm { m m } \cdot \mathrm { h m } ^ { - 2 }$ ：$\mathbf { h } ^ { - 1 } \cdot \mathbf { a } ^ { - 1 }$ ,整体呈现下降趋势,最大值为816.95$\mathrm { M J \cdot \ m m } \ \cdot \ \mathrm { h m } ^ { - 2 } \ \cdot \ \mathrm { h } ^ { - 1 } \ \cdot \ \mathrm { a } ^ { - 1 }$ （1983 年);最小值为$3 7 . 9 8 \mathrm { ~ M J } \cdot \mathrm { m m } \cdot \mathrm { h m } ^ { - 2 } \cdot \mathrm { h } ^ { - 1 } \cdot \mathrm { a } ^ { - 1 } ( $ （2001年）。夏季降雨侵蚀力(图2d)整体呈现上升趋势，其多年平均值为 $1 \ 1 9 7 . 3 9 \ \mathrm { M J } \cdot \mathrm { m m } \cdot \mathrm { h m } ^ { - 2 } \cdot \mathrm { h } ^ { - 1 } \cdot \mathrm {  ~ a ~ } ^ { - 1 }$ ;最大值为 $2 \ 3 3 6 . 6 \ \mathrm { M J } \cdot \ \mathrm { m m } \cdot \mathrm { h m } ^ { - 2 } \cdot \mathrm { h } ^ { - 1 } \cdot \mathrm { \Large ~ a } ^ { - 1 }$ (2013年）；最小值为 $4 2 3 . 2 8 \mathrm { ~ M J } \cdot \mathrm { m m } \cdot \mathrm { h m } ^ { - 2 } \cdot \mathrm { h } ^ { - 1 } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ (1997年）。秋季降雨侵蚀力(图2e)多年平均值为437.26$\mathrm { M J \cdot \ m m \cdot \ h m ^ { - 2 } \cdot \ h ^ { - 1 } \cdot \ a ^ { - 1 } }$ ,整体呈现下降趋势,最大值为 $1 ~ 3 9 2 . 8 4 ~ \mathrm { M J } \cdot \mathrm { m m } \cdot \mathrm { h m } ^ { - 2 } \cdot \mathrm { h } ^ { - 1 } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ (2011年);最小值出现在1998年，为 $9 1 . 9 8 \mathrm { ~ M J ~ \cdot ~ m m } \ \cdot$ ：$\mathbf { h m } ^ { - 2 } \cdot \mathbf { h } ^ { - 1 } \cdot \mathbf { a } ^ { - 1 }$ 。冬季降雨侵蚀力(图2f)较为稳定,平均值为 $3 . 2 2 \mathrm {  ~ M J ~ } \cdot \mathrm {  ~ m m ~ } \cdot \mathrm {  ~ h m ~ } ^ { - 2 } \cdot \mathrm {  ~ h ~ } ^ { - 1 } \cdot \mathrm {  ~ a ~ } ^ { - 1 }$ ，降水形式主要以降雪为主，侵蚀性小。春夏秋冬四季占多年平均降雨侵蚀力的比重分别为 $1 2 . 2 7 \%$ 、$6 4 . 1 \%$ 、23.46% $. 0 . 1 7 \%$ 。
+
+# 3.2 空间变化
+
+研究区多年平均降雨量(图3a)由中南部向东西两端递减，最大值( $6 8 0 ~ \mathrm { m m } ,$ )出现在中南部地区陕西塬区，最低值( $5 4 0 ~ \mathrm { m m } ,$ )出现在研究区的东北部和西北部。多年平均降雨侵蚀力(图3b)同样呈现出由南部向两侧递减的趋势，最大值（ $\mathrm { ~ ( ~ 2 ~ 2 0 0 ~ M J ~ } \cdot$ $\mathrm { m m } \cdot \mathrm { h m } ^ { - 2 } \cdot \mathrm { h } ^ { - 1 } \cdot \mathrm {  ~ a ~ } ^ { - 1 } .$ ）出现在研究区南部和东南部，最低值( $( \mathrm { ~ 1 ~ 4 0 0 ~ M J ~ \cdot ~ m m ~ \cdot ~ h m ~ ^ { - 2 } ~ \cdot ~ h ~ ^ { - 1 } ~ \cdot ~ a ~ ^ { - 1 } ~ } )$ ）出现在西北部。
+
+对比三个塬面区（山西塬区、陕西塬区、甘肃塬区)发现：甘肃塬区年平均降雨量呈现自南部向西北降低的趋势，降雨高值区( $6 4 0 ~ \mathrm { m m } ,$ 出现在甘肃塬区南部，降雨低值区( $5 4 0 ~ \mathrm { m m } ,$ )出现在区域西北部；该区降雨侵蚀力的空间分布与降雨量相同，高值区与低值区同样分别出现在区域的南部、西北部，分别为 $: 1 ~ 9 0 0 ~ \mathrm { { ‰ ~ } }$ 以上、1500$\mathrm { M J \cdot \ m m \cdot \ h m ^ { - 2 } \cdot \ h ^ { - 1 } \cdot \ a ^ { - 1 } }$ 以下。陕西塬区年平均降雨量的空间分布呈现出从南部向两侧递减，降雨高值区( $6 8 0 ~ \mathrm { m m } ,$ )位于南部，低值区( $5 6 0 ~ \mathrm { m m } ^ { \prime }$ 出现在东北部；陕西塬区年平均降雨侵蚀力有两个高值区，分别位于区域的南部、东南部，都为 $2 ~ 2 0 0 ~ \mathrm { M J }$ ·$\mathrm { m m } \cdot \mathrm { h m } ^ { - 2 } \cdot \mathrm { h } ^ { - 1 } \cdot \mathrm { a } ^ { - 1 }$ 以上。山西塬区的年平均降雨量和年平均降雨侵蚀力空间分布特征相似，呈由西向东递减的趋势，高值区都位于区域西部，年平均降雨量的低值区( $5 6 0 ~ \mathrm { m m } ,$ )位于东部，年平均降雨侵蚀力的低值区 $( 1 ~ 8 0 0 ~ \mathrm { M J \cdot \ m m } \cdot \mathrm { h m } ^ { - 2 } \cdot \mathrm { h } ^ { - 1 } \cdot \mathrm { \bf ~ a } ^ { - 1 } )$ ）位于东北部。
+
+![](images/d820a6aa4f557d80fb86d6748ecefaedd41ff916bd3d4b41c612d2d6e6385e61.jpg)  
+图3研究区降雨量、降雨侵蚀力、降水侵蚀力 $Z$ 值及变异系数空间分布特征 Fig.3Spatial distribution of precipitation amount，rainfall erosivity and its Mann-Kendall $Z$ value, variation coefficient in the study area during 196O -2017
+
+# 3.3降雨侵蚀力的趋势及周期变化
+
+1960—2017年，研究区降雨侵蚀力Mann-Ken-dall统计量的研究结果显示，区域年降雨侵蚀力 $Z$ 值呈现明显的地区差异，在西南和东南地区降雨侵蚀力呈增加趋势（图3c），说明该区域具有较高的降水诱发土壤侵蚀的风险，应加强对该区域的水土流失防治；在研究区北部、东北部降雨侵蚀力表现为降低的态势，但不显著。区域降雨侵蚀力变异系数也呈现显著的空间差异，其整体由北向南逐渐减少；在西北地区，降雨侵蚀力的年际变化较大，变异系数高(0.6);南部地区，降雨量的年际变化较小，大部分地区变异系数小于0.52（图3d）。
+
+此外，区域降雨侵蚀力也表现出显著季节差异（图4);在春季，研究区西部及西北部降雨侵蚀力均呈下降趋势，中部及东部整体呈上升趋势；在夏季，降雨侵蚀力变化较为显著，除东北部呈下降趋势，其余大部分地区呈上升趋势，其中，西南部、东南部增加趋势尤为明显；在秋季，研究区东部降雨侵蚀力呈增加趋势，其他区域均呈下降趋势;冬季,研究区的降水以降雪为主，降雨量少且比较稳定，降雨量对土壤的侵蚀程度远远小于其他季节，因此该区域冬季降雨侵蚀力波动不大且数值较小。
+
+基于Morlet小波分析法本文系统研究了1960—2017年间该区降雨侵蚀力的周期变化（图5）。结果表明研究区的降雨侵蚀力在32a范围内波动最为显著，表明过去60a来黄土高原塬面保护区降雨侵蚀力变化具有一个明显32a的震荡周期。此外Morlet小波方差图显示在32a的大周期外还存在13a和52a的小周期震荡。
+
+# 3.4降雨侵蚀力的主要影响因素
+
+3.4.1大气环流指数与太阳黑子对降雨侵蚀力的相关性分析环流是影响全球气候变化的重要因素，北大西洋涛动(NAO）、厄尔尼诺/南方涛动系统（ENSO）、西太平洋指数（WPI）及冷暖季（Cold&WarmEpisodesbySeason）被广泛的认为对于北半球中高纬度地区气温、降水等气象要素具有显著的影响[18-19]。本文探讨了影响黄土高原塬面保护区的主要环流影响因子，并计算了环流指数与降雨侵蚀力的相关系数（表1），结果表明：在研究期内，NAO、ENSO、WPI等环流因子与研究区降雨侵蚀力间关联性较弱,而 Cold&Warm Episodesby Season 因子的变化对研究区整体的降水侵蚀力变化具有显著的负相关关系，其中与陕西塬区降雨侵蚀力的关联性最为显著，并通过了0.05的显著性检验。其中当冷暖季因子位于暖相位（如1965—1970年、1995—1999年、2013—2017年)时，研究区降雨侵蚀力 $( R )$ 相对较弱;而冷暖季因子位于冷相位（如1981—1982 年、1987—1988年、2010—2013年），对应区域降雨侵蚀力较高。这一负相关关系在陕西塬区也十分显著，如1963—1970 年、1978—1979 年、1990—1996 年、2014—2017年，冷暖季因子位于暖相位，陕西塬区$R$ 值大多处于谷值;冷暖季因子在1975—1977 年、1981—1983 年、1985—1989 年、2010—2012 年处于冷相位，对应陕西塬区 $R$ 为高值。
+
+![](images/712b0e71ffca006d2f6ed6bea2af7398f2a9731b27f3a10731aef7e7d9792790.jpg)  
+图41960—2017年研究区不同季节降雨侵蚀力 $Z$ 值的空间分布  
+Fig.4Spatial distribution of Mann-KendallZvalue of the rainfall erosivity in the studyarea during 1960-20
+
+![](images/045f8dcf9f560be1272a0e0461c86a17a64782eb4a6714285531fc0bd43b4aa3.jpg)  
+图5研究区降雨侵蚀力小波分析图  
+Fig.5Wavelet analysis graph of annual rainfall erosivity in the study area
+
+表1主要大气环流指数、太阳黑子与区域降雨侵蚀力的关联性  
+Tab.1Correlation between main atmospheric circulation index，sunspot and regional rainfall erosivity   
+
+<html><body><table><tr><td>区域</td><td>NAO</td><td>ENSO</td><td>WPI</td><td>Cold & Warm Episodes by Season</td><td>太阳黑子</td></tr><tr><td>整体</td><td>-0.680</td><td>-0.131</td><td>-0.107</td><td>-0.310 *</td><td>0.182</td></tr><tr><td>山西塬区</td><td>-0.172</td><td>-0.167</td><td>-0.062</td><td>-0.245</td><td>0.005</td></tr><tr><td>甘肃塬区</td><td>0.014</td><td>-0.115</td><td>-0.105</td><td>-0.166</td><td>0.010</td></tr><tr><td>陕西塬区</td><td>-0.025</td><td>-0.090</td><td>-0.138</td><td>-0.302*</td><td>0.262 *</td></tr></table></body></html>
+
+注：\*表示在0.05水平上显著相关；-表示负相关
+
+太阳黑子的周期活动被证明对区域降水也具有一定的影响作用[20]。通过分析太阳黑子活动规律与研究区降雨侵蚀力的关联发现，太阳黑子的活动与整体研究区、山西塬区、甘肃塬区的降水侵蚀力变化规律间并未存在显著的关联性，但与陕西塬区的降水侵蚀力变化呈现出较为显著的正相关关系（表2）。在太阳黑子较为活跃的年份（1968—1969 年、1979—1980 年、1988—1989 年、1998—1999 年和2011—2012年），陕西塬区降雨侵蚀力多位于峰值；而当太阳黑子活动较弱的时期（如1963—1964 年、1975—1976 年、1985—1986 年、1995—1996年、2005—2006 年和2016—2017年），陕西塬区降水侵蚀力多位于谷值区。这说明，太阳黑子作为一种影响全球的太阳表面的活动现象，对塬区降雨侵蚀力有一定影响,但受局地地形特征、植被覆盖度等控制因素影响，两者关联性并未十分显著。
+
+# 4讨论
+
+本文选取中国大陆、东北地区、华北地区、西南地区、黄河源区、长江流域、青藏高原区的研究成果来对比探讨与本研究的异同（表2），结果表明：该区降雨侵蚀力在全国范围内属于较低值，与东北地区较为相似同时低于东部区域，这与不同区域降水特征有一定关系。此外，中国大陆[21]、华北地区[22]]黄河源区[23]、长江流域[24]的降雨侵蚀力呈上升趋势,而东北地区[25]、西南地区[26-27]、青藏高原区[28]呈下降趋势。大量研究表明，区域降雨侵蚀力与区域位置、降雨量、地形、地势以及大尺度环流因子有一定的关联度，这与本研究的结论相似;同时本研究发现陕西塬区的降雨侵蚀力与太阳黑子波动存在一定的关联性。
+
+表2中国不同区域降雨侵蚀力研究结果  
+Tab.2Results of research on rainfall erosivity in different regions of China   
+
+<html><body><table><tr><td rowspan="2">区域与时段</td><td>侵蚀力阈值</td><td rowspan="2">变化趋势</td><td rowspan="2">影响因素</td></tr><tr><td>MJ·mm·hm-²·h-1·a-1</td></tr><tr><td>中国大陆[21](1960—2009 年)</td><td>50~20 000</td><td>不显著上升</td><td></td></tr><tr><td>华北济南[22](1970—2016年)</td><td>1 748~5 686</td><td>不显著上升</td><td>不同地形区的降雨侵蚀力与降雨量都存在较好 的相关关系，而与海拔的相关关系不显著</td></tr><tr><td>黄河源区[23] (1980—2015年)</td><td>200~3 000</td><td>不显著上升</td><td></td></tr><tr><td>长江流域[24](1961—2012 年)</td><td>6 498~10 017</td><td>不显著上升</td><td></td></tr><tr><td>东北吉林[25](1961—2015年)</td><td>1 674~2 500</td><td>下降</td><td></td></tr><tr><td>松花江流域[3](1960—2014 年)</td><td>1 152~2 586</td><td>不显著下降</td><td>降雨侵蚀力与降雨、海拔、经度和纬度均存在一 定的相关性</td></tr><tr><td>西南重庆[26](1960—2010 年)</td><td>2 600~7000</td><td>下降</td><td>受大尺度气候和山地地形因素的影响</td></tr><tr><td>金沙江流域[27](1998—2015 年)</td><td>170~6 792</td><td>下降</td><td></td></tr><tr><td>青藏高原区[28]（2000—2008 年)</td><td>32~12 189</td><td>下降</td><td></td></tr><tr><td>本研究区(1960—2017年)</td><td>1400~2200</td><td>微弱上升</td><td>大气环流和太阳黑子对部分地区降雨侵蚀力存 在影响</td></tr></table></body></html>
+
+# 5结论
+
+（1）黄土高原塬面保护区60a来多年平均降雨量为 $5 9 9 . 2 ~ \mathrm { m m }$ ;多年平均降雨侵蚀力为1871.91$\mathrm { M J \cdot \ m m \cdot \ h m ^ { - 2 } \cdot \ h ^ { - 1 } \cdot \ a ^ { - 1 } }$ ,降雨侵蚀力60a来呈微弱上升趋势。 $6 0 \mathrm { ~ a ~ }$ 来研究区春季多年平均降雨侵蚀力为 $2 2 4 . 9 2 ~ \mathrm { M J \cdot \ m m \cdot \ h m ^ { - 2 } \cdot \ h ^ { - 1 } \cdot \ a ^ { - 1 } }$ ,夏季为$1 1 9 7 . 3 9 \mathrm { ~ M J ~ \cdot ~ \ m m ~ \cdot ~ \ h m ~ ^ { - 2 } ~ \cdot ~ h ~ ^ { - 1 } ~ \cdot ~ a ~ ^ { - 1 } ~ }$ ，秋季为（204号 $4 3 7 . 2 6 \mathrm {  ~ M J ~ } \cdot \mathrm {  ~ m m ~ } \cdot \mathrm {  ~ h m ~ } ^ { - 2 } \cdot \mathrm {  ~ h ~ } ^ { - 1 } \cdot \mathrm {  ~ a ~ } ^ { - 1 }$ ,冬季为3.22$\mathrm { M J \cdot \ m m \cdot \ h m ^ { - 2 } \cdot \ h ^ { - 1 } \cdot \ a ^ { - 1 } }$ ,夏秋两季在全年降雨侵蚀力中占据主导地位。
+
+（2）黄土高原塬面保护区降雨侵蚀力的空间分布大体呈由南部向两侧减少的趋势，Mann-Kendall$Z$ 值在研究区北部、东部呈下降趋势，其余区域都为上升趋势。山西塬区、陕西塬区和甘肃塬区降雨侵蚀力的地区差异明显。
+
+（3）黄土高原塬面保护区降雨侵蚀力在32a的周期震荡最为明显，在大周期内还存在 $^ { 1 3 } \mathrm { ~ a ~ } , 5 2$ a的小周期震荡。
+
+（4）影响北半球中高纬度地区的主要的大气环流因子中仅Cold&WarmEpisodesby Season 因子的波动对整个区域和陕西塬区的降雨侵蚀力有一定影响，二者存在一定的负相关性，其余环流指数与降雨侵蚀力没有显著的关联性；此外太阳黑子与陕西塬区降水侵蚀力变化规律存在一定的正相关，与其他塬区并无显著关联性。
+
+# 参考文献(References)
+
+[1］孙从建,张文强,李新功,等.基于遥感影像的黄土高原沟壑区 生态效应评价［J].农业工程学报2019，35（12）：165－172 [SUNCongjian,ZHANGWenqiang,LI Xingong,et al.Evaluation of ecological effect of gully region ofLoessPlateau based onremote sensing image[J].Transactions of the Chinese Society of AgriculturalEngineering,2019,35（12）:165-172.]
+
+[2］李桂芳,郑粉莉,卢嘉,等.降雨和地形因子对黑土坡面土壤侵蚀过程的影响[J].农业机械学报,2015,46（4）：147－154，182.[LI Guifang,ZHENG Fenli,LUJia,etal.Effects of rainfalland topography on soil erosion processes of black soil hillslope[J].Transactions of the Chinese Society for Agricultural Machinery,2015,46(4):147 -154,182.]
+
+[3］钟科元,郑粉莉.1960—2014年松花江流域降雨侵蚀力时空变化研究[J].自然资源学报，2017，32（2）：278-291.［ZHONGKeyuan,ZHENG Fenli.Spatial and temporal variation characteris-tics of rainfall erosivity in the Songhua River Basin from1960 to2014[J]. Journal of Natural Resources,2017,32(2）:278-291.][4］刘斌涛,陶和平,宋春风,等.我国西南山区降雨侵蚀力时空变化趋势研究[J].地球科学进展,2012，27（5）：499-509.［LIUBintao,TAO Heping,SONG Chunfeng,et al.Temporal and spatialvariations of rainfall erosivity in southwest China from196O to 2009[J].Advancesin Earth Science,2012,27(5）:499-509.]
+
+[5］王凯,陈璐,马金辉,等.TRMM数据在中国降雨侵蚀力计算中的应用[J].干旱区地理,2015,38(5）：948-959.［WANGKai，CHEN Lu,MA Jinhui,et al.Calculation of rainfall erosivity in Chi-nawith TRMMdata[J].AridLand Geography,2015,38(5）:948-959.]
+
+[6]胡琳,苏静,桑永枝,等.陕西省降雨侵蚀力时空分布特征[J]. 干旱区地理,2014,37（6）:1101-1107.［HU Lin,SU Jing, SANG Yongzhi,et al.Spatial and temporal characteristics of rainfall erosivity in Shaanxi Province[J].Arid Land Geography,2014, 37(6) :1101 -1107.]
+
+[7］章文波,谢云,刘宝元.利用日雨量计算降雨侵蚀力的方法研究[J」.地理科学，2002，（6）:705-711.［ZHANGWenbo，XIEYun,LIU Baoyuan.Rainfall erosivity estimation using daily rainfallamounts[J].2002,(6):705-711.]
+
+[8］马岚,黄生志,黄强,等.渭河流域降雨与降雨侵蚀力变化的原 因分析[J].水土保持学报,2018,32（1）：174-189.［MALan, HUANG Shengzhi,HUANG Qiang,et al.Causes analyzing of the change ofrainfall and rainfall erosivity in Weihe River Basin[J]. Journal of Soil and Water Conservation,2018,32(1):174-189.] [9]秦伟,朱清科,刘广全,等.北洛河上游生态建设的水沙调控效 应[J].水利学报，2010，41（11）：1325-1332.［QINWei，ZHU Qingke,LIU Guangquan,et al.Regulation effects of runoff and sediment of ecological conservation in the upper reaches of Beiluo River[J]. Journal of Hydraulic Engineering,2010,41（11）:1325- 1332.]
+
+[10］张新，李启权，郭佳，等.董志塬核心区降雨侵蚀力时间分布及变化趋势［J].干旱区研究，2014,31（6）：1078－1085.[ZHANG Xin,LI Qiquan,GUO Jia,et al.Temporal distributioncharacteristics and variation trend of rainfall erosivity in the corearea of Dongzhi Tableland[J].Arid Zone Research 2014,31（6）：1078 -1085.]
+
+[11］穆兴民，戴海伦，高鹏，等.陕北黄土高原降雨侵蚀力时空变化 研究[J].干旱区资源与环境,2010,24(3）:37-43.[MU Xingmin,DAI Hailun,GAO Peng,et al. Spatial temporal characteristics ofrainfall erosivity in northern Shanxi region in the Loess Plateau [J].Journal of Arid Land Resources and Environment,2O10,24 (3):37-43.]
+
+[12］KEO Soksamnang,何洪鸣，赵宏飞,等.黄土高原50余年来降 雨侵蚀力变化及其对土壤侵蚀的影响［J].水土保持研究， 2018,25（2）:1-7.［KEO Soksamnang,HE Hongming,ZHAO Hongfei,et al.Analysis of rainfall erosivity change and its impacts on soil erosion on the Loess Plateau over more than 5O years[J]. Research of Soil and Water Conservation,2018,25(2):1-7.]
+
+[13］中华人民共和国水利部.水利部农业综合开发水土保持东北 黑土区侵蚀沟综合治理和黄土高原塬面保护实施规划[R]. 北京：水利部办公厅,2017.［Ministry ofWaterResources of the People's Republic of China.Ministry of Water Resources agricultural comprehensive development soil and water conservation northeast black soil region erosion ditch comprehensive treatment and Loess Plateau surface protection implementation plan[R]. Beijing : General Office of the Ministry of Water Resources,2017.]
+
+[14］孙从建,侯慧新，陈伟，等.典型黄土塬区不同植物措施水土保持效应分析[J].自然资源学报,2019，（7）：1405-1416.［SUNCongjian,HOUHuixin,CHENWei,etal.Effects ofdifferentplantmeasures on soil and water conservation in typical tableland zoneson the Loess Plateau[J]. Journal of Natural Resources,2O19,（7）：
+
+1405 -1416.]   
+[15］徐香兰,张科利,徐宪立，等.黄土高原地区土壤有机碳估算及 其分布规律分析[J].水土保持学报,2003,（3）:13－15.［XU Xianglan,ZHANG Keli,XU Xianli,etal. Spatial distribution and estimating of soil organic carbon on LoessPlateau[J]. Journal of Soil and Water Conservation,2003,(3）:13-15.]   
+[16]KENDALL M G.Rank correlation methods[J]. British Journal of Psychology,1990,25(1） :86 -91.   
+[17]GRINSTED A,MOORE JC,JEVREJEVA S. Aplication of the cross wavelet transform and wavelet coherence to geo-physical time series[J]. Nonlinear Processes in Geophysics,2004,11(5/6）:561 -566.   
+[18］王蕊,陈阿娇,贺新光.长江流域月降水的时空变化及其与 AO/NAO的时滞相关分析[J].气象科学,2018,38（6）：730- 738.[WANG Rui,CHEN Ajiao,HE Xinguang. Analysis on spatiotemporal variability of monthly precipitation and its lag correlation with AO and NAO in Yangtze River Basin[J]. Journal of the Meteorological Sciences,2018,38(6):730-738.]   
+[19］唐见,曹慧群,陈进.长江源区水文气象要素变化及其与大尺 度环流因子关系研究[J].自然资源学报,2018,33（5）：122- 134.[TANG Jian,CAO Huiqun,CHEN Jing. Changes of hydrometeorological factors and the relationships with large-scale circulation factors in the source region of the Yangtze River[J].Journal of Natural Resources,2018,33（5）:122-134.]   
+[20］胡胜,邱海军,宋进喜,等.气候变化对秦岭北坡径流过程的影 响机制研究——以灞河流域为例[J].干旱区地理,2017,40 (5）:967-978.[HU Sheng,QIU Haijun,SONG Jinxi,et al.Influencing mechanisms of climate change on runoffprocess in the north slope of Qinling Mountains:A case of the Bahe River Basin[J]. Arid Land Geography,2017,40(5）:967 -978.]   
+[21］刘斌涛,陶和平,宋春风,等.1960—2009 年中国降雨侵蚀力的 时空变化趋势［J].地理研究,2013,32（2）：245－256.［LIU Bintao,TAO Heping,SONG Chunfeng,et al. Temporal and spatial variations of rainfall erosivity in China during 196O to 2O09［J]. Geographical Research,2013,32(2）:245-256.]   
+[22]徐晶,徐征和,李伟,等.济南市 1970—2016 年降雨侵蚀力时 空变化［J].山地学报,2018,36（3）:391-400.[XUJing,XU Zhenghe,LI Wei,et al. Temporal and spatial changes of rainfall erosivity during 1970-2016 in JinanCity,China[J].Mountain Research,2018,36(3）:391 -400.]   
+[23］范俊甫,何惠馨,郭兵.1980—2015 年黄河流域降雨侵蚀力时 空变化分析[J].地球信息科学学报,2018,20（2）:196-204. [FAN Junfu,HE Huixin,GUO Bing. Temporal and spatial variations of rainfall erosivity in Yellow River from 198O to 2015[J]. Geo-Information Science,2018,20(2）:196 -204.]   
+[24］余寒,杨凯,闵俊杰,等.近50 a江苏省降雨侵蚀力的时空变化 [J].江西农业学报,2018,30(10）:106-111.[YUHan,YANG Kai,MIN Junjie,etal.Spatio-temporal variations of rainfall erosivity in Jiangsu Province in recent 5O years[J].Acta Agriculturae
+
+Jiangxi,2018,30（10):106-111.]
+
+[25］邱美娟，穆佳，郭春明，等.1961—2015年吉林省降雨侵蚀力的时空变化特征[J].水土保持通报，2017，37（4）：295-302.[QIUMeijuan,MU Jia,GUO Chunming,et al.Temporal-spatialvariation characteristics of rainfall erosivity in Jilin Province during1961 to 2015[J].Bulletin of Soil and Water Conservation,2017,37(4):295 -302.]
+
+[26]汪言在，苟诗薇.重庆市降雨侵蚀力空间格局及其变化[J].地理科学,2013,33（1）:116-122.[WANGYanzai,GOU Shiwei.The spatial-temporal pattern and changes of rainfall erosivity inChongqing[J].Scientia Geographica Sinica,2013,33（1）:116-
+
+122. ]
+
+[27］彭玉芝，范建容，于江，等.金沙江流域降雨侵蚀力时空分布特征[J].水土保持通报，2018，38（2）：8-13.[PENGYuzhi，FANJianrong,YUJiang,et al. Spatial and temporal distributionof rain-fall erosivityinJinshaRiverBasinJ.Bulletinof Soil andWaterConservation,2018,38(2）:8-13.]
+
+[28］严冬，范建容，郭芬芬,等.西藏地区降水侵蚀力时空分布研究[J].水土保持通报,2010,30（4）：17-21.［YANDong，FANJianrong,GUOFenfen,etal.Spatiotemporal distributionof precipi-tation erosivity in Tibet autonomous region[J].Bulletin of Soil andWater Conservation,2010,30(4）:17-21.]
+
+# Temporal and spatial distribution characteristics of rainfall erosivity and its influencing factors in the Loess Plateau protected area of the Loess Plateau
+
+SUN Cong-jian1， WANG Jia-rui1， ZHENG Zhen-jing1， CHEN Wei1， SUN Jiu-lin $^ { 1 , 2 }$ (1School of geographical sciences,Shanxi Normal University,Lifen O41ooo,China; 2Institute of geographic sciences and natural resources research ,CAS,Beijing 1Oo101,China)
+
+Abstract：Based on daily precipitation data for the table land-protectedarea,this paper analyzed temporal and spatial variationand trendsand explored the main factors influencing rainfall erosion according to Mann-Kendall analysis,wavelet analysis and statistical methods.（1）The average annual rainfallof the Loess Plateau protected area in Shanxi,Shaanxi and Gansu Provinces,China over the past 6O years is $5 9 9 . 2 ~ \mathrm { m m }$ ,the average annual rainfall erosivity is $1 8 7 1 . 9 1 \mathrm { ~ M J } \cdot \mathrm { m m } \cdot \mathrm { h m } ^ { - 2 } \cdot \mathrm { h } ^ { - 1 } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ ,and the rainfall erosivity is.There has been a slight upward trend over the past 6O yearsand seasonal diferences have changed significantly.（2）The spatial distribution of rainfall erosivity intheLoess Plateau protected area is found to generally decrease from thesouth to both sides.The ManKendall Z value shows a downward trend except for thenorthern and eastern partsof the studyarea,while allother regions show an upward trend.(3）The rainfall erosivity of the LoessPlateau protected area has along period of 32 years,also showing 13 years and 52 years of shorter periods during the time period studied.(4）Of the main atmosphericcirculation factors affecting themid-high latitudes in thenorthern hemisphere,onlythe factorreflecting the fluctuation of cold and warm episodes byseason has a significant efect on rainfallerosion of the entire region and the Shaanxi highland.There is anegative corelation between the twoand the remaining circulation index.There is found to beno significant correlation with rainfall erosion;in addition,sunspots show a positive correlation with the change lawof precipitation erosion in Shaanxi plateau area,but no significant correlation with the other plateau areas.
+
+Key words:Loess plateau；Rainfall erosion； Spatial and temporal distribution； Influence factor

@@ -1,0 +1,133 @@
+# 无瓣海桑果实提取物对衰老小鼠学习记忆能力的影响及其机制研究
+
+易湘茜1,2,3，李家怡1，杜正彩1，高程海1，郝二伟1,3，邓家刚1,3\*（1.广西中医药大学 药学院/海洋药物研究院，南宁 530020；2.暨南大学 中药学博士后流动站，广州510632；3．广西药用植物研究所，中药学博士后工作站，南宁530023）
+
+摘要：无瓣海桑果实为真红树无瓣海桑的果实。研究无瓣海桑果实不同提取物对D-半乳糖所致衰老小鼠学习记忆能力影响及其作用机制。采用 Morris 水迷宫实验测量无瓣海桑果实不同提取物对小鼠的学习记忆能力影响，HE 染色观察各组小鼠脑部神经细胞的变化情况，并测定脑组织超氧化物歧化酶（SOD）活力、谷胱甘肽过氧化物酶（GSH-Px）活力、一氧化氮（NO）含量和单胺氧化酶（MAO）活力。结果表明与模型组相比，无瓣海桑果实不同提取物处理组小鼠在水迷宫实验中逃避潜伏期明显缩短（ $\cdot P { < } 0 . 0 5 \$ ），目标象限停留时间明显增加( $\cdot P { < } 0 . 0 5$ ）。无瓣海桑果实不同提取物处理组小鼠脑部神经细胞损伤与模型组相比明显减少，小鼠脑部 SOD 酶活力和GSH-Px酶活力提高（ $\scriptstyle P < 0 . 0 5$ ），NO含量和MAO活力在脑部显著降低（ $P { < } 0 . 0 5$ ）。无瓣海桑果实不同提取物对D-半乳糖致衰老小鼠学习记忆能力有改善作用，无瓣海桑果实不同提取物通过提高小鼠脑内源抗氧化酶（SOD、GSH- $\mathbf { \cdot P x }$ ）活力，降低脑部 NO含量和MAO 活力来提高D-半乳糖致衰老小鼠的学习记忆能力。
+
+关键词：无瓣海桑果实，D-半乳糖，学习记忆能力，神经细胞，抗氧化活性中图分类号：R285.5 文献标识码：A
+
+# Study on the Effect and Mechanism of the Extract of Sonneratia apetala Fruit on the Ability of Learning and Memory in Aging Mice
+
+YI Xiangxi1,2,3, LI Jiayi1, DU Zhengcai1, GAO Chenghail, HAO Erwei1,3, DENG Jiagang1.,3\*
+
+(1. School of Pharmaceutical Sciences/Institutes of Marine Drugs， Guangxi University of Chinese Medicine, Nanning,530020,China;2.The Post-Doctoral Research Station ofChinese Medicine, Jinan University, Guangzhou 510632, China; 3.Guangxi Botanical Garden of Medicinal Plants ， Nanning 530023,China ）
+
+Abstract:To study the efects and mechanism of diferent extracts of Sonneratia apetala fruit on learning and memory ability of aging mice induced by D-galactose.The learning and memory abilities of mice were measured by Morris water maze test and the changes of brain nerve cells were observed by HE staining.The activities of superoxide dismutase (SOD） and glutathione peroxidase (GSH- $\mathbf { \nabla } \cdot \mathrm { P x }$ ），Nitric oxide (NO） content, and monoamine oxidase (MAO)activity in brain tissue were measured.The results showed that compared with the model group,the escape latency of the mice treated with diferent extracts from the S.apetala fruit was significantly shorter than that of the model group $( P < 0 . 0 5 )$ , and the residence time of the target quadrant was significantly increased ( $P < 0 . 0 5 )$ in the water maze experiment. Compared with the model group,the brain nerve cellinjury of the mice treated with different extracts was significantly decreased,and the activities of SOD and GSH- $\mathbf { \nabla } \cdot \mathrm { P x }$ in the brain of the mice were increased significantly $\begin{array} { r } { { \cal P } < 0 . 0 5 , } \end{array}$ . The content of no and the activity of MAO in the brain decreased significantly ( $P$ $< 0 . 0 5 )$ . Different extracts of $S$ . apetala fruits can improve the learning and memory ability of aging mice induced by D-galactose.The different extracts of S. apetala fruits may reduce the damage of nerve cels in the brain of aging mice and increase the endogenous antioxidant enzymes (SOD,GSH-Px) activity,decreased brain NO content and MAO activity, that increased learning and memory in aging mice.
+
+Key words: Sonneratia apetala fruit, D-galactose,learning and memory, nerve cells, antioxidant capacity
+
+衰老是生命过程中不可抗拒的自然规律，衰老发生的重要表现之一就是机体抗氧化能力下降(Wickens,2001)。在衰老过程中，随着机体年龄的增长，体内自由基增多，由其诱导的有害物质增加，机体防御能力下降，抗氧化能力减弱(张丁等,2002)。脑是机体衰老过程中最突出的器官，脑部衰老的过程中脑组织会发生一系列的变化，包括脑部神经细胞减少，脑萎缩，抗氧化能力下降等(黄华等,2010)。因此，寻找抗氧化活性强的成分是延缓衰老研究的重要工作之一。
+
+红树生长在热带和亚热带沿海潮间带区域，是海洋植物的重要组成部分。红树生存环境具有高盐、强光照、根部长期缺氧的特异性。因此，为了抵抗这种逆境，大部分红树植物的根茎叶花果均有抗氧化活性。正红树(Rhizophora apiculata)和老鼠勒(Acanthusilicifolius)根的正丁醇萃取物富含多酚和黄酮，能够抑制DPPH（2,2-二苯代苦味肼基自由基清除法）和ABTS（2,2-联氮基-双-（3-乙基苯并噻唑啉-6-磺酸）二氨盐）自由基及小鼠脑部氧化应激（Asha et al,2012）。美洲红树(Rhizophora mangle)茎的正丁醇提取物能影响小鼠胃组织中SOD 酶（超氧化物歧化酶）、GPx（谷胱甘肽过氧化物酶）和GR 活性，提升GSH（谷胱甘肽）水平，降低LPO（过氧化脂）水平(de-Faria et al,2012)。海漆（Excoecaria agallocha）茎中获得的12-deoxyphorbol13-(3E,5E-decadienoate)能抑制鼠脑细胞膜的氧化应激(Erickson et al,1995)。
+
+无瓣海桑（Sonneratia apetala）为海桑科海桑属乔木，原产孟加拉国，上世纪80年代引入中国，目前广泛分布在我国海南岛、广西、广东、福建和台湾等省(王瑞江等,2002)。无瓣海桑果实可食用，可用做制成果酒，含有大量的氨基酸、总酚、花青素等(林海生等, $2 0 0 9 \mathrm { a }$ ；林海生等,2009b; Patra et al,2015)。曹雷雷等(2015)从新鲜无瓣海桑果实分离得到16个化合物，其中包含新化合物苹果酸乙基正丁基酯。孟加拉国民间用无瓣海桑的果实治疗扭伤（Ganguly& Sincar，1974）。目前，中国国内的无瓣海桑果实还处于自生自灭状态，造成海洋生物资源的巨大浪费。因此，为了促进无瓣海桑果实的开发利用，作者开展过多个层次的研究。曾经证实无瓣海桑果实提取物具有强的体外清除自由基能力（易湘茜等，2017）。为了进一步验证无瓣海桑果实提取物在体内抗氧化应激活性，采用D-半乳糖致衰老模型，深入研究无瓣海桑果实提取物对衰老小鼠的学习与记忆能力及抗氧化应激活性影响，探讨其作用机制，为无瓣海桑果实的更深一步开发利用提供实验依据。
+
+# 1材料与方法
+
+# 1.1 实验动物
+
+雌性昆明小鼠108只，体重 $1 8 { \sim } 2 2 \ \mathrm { g }$ ，由广西医科大学实验动物中心提供，许可证号为SCXK桂2014-0002。常规饲养在动物房内，温度为 $2 3 ^ { \circ } \mathrm { C }$ ，湿度为 $45 - 5 5 \%$ ，自然光线下养殖，昼夜比为 $1 2 \mathrm { h } / 1 2 \mathrm { h }$ ，自由进食、进水。
+
+# 1.2无瓣海桑果实醇提物及不同极性提取物制备
+
+果实采自广西茅尾海自治区级红树林自然保护区，经广西北部湾海洋研究中心许铭本工程师鉴别为海桑科海桑属无瓣海桑（Sonneratiaapetala）果实。摘取新鲜的无瓣海桑果实，用 $9 5 \%$ 乙醇浸泡减压浓缩后得到乙醇提取物（Sonneratia apetala fruit ethanol extract，SEE），并依次采用乙酸乙酯、正丁醇萃取得到乙酸乙酯提取物（Sonneratia apetala fruit ethyl acetate extract，SEAE）和正丁醇提取物（Sonneratia apetala fruit butanolextract，SBE），减压浓缩，真空冷冻干燥后备用。
+
+# 1.3主要试剂与仪器
+
+D-半乳糖、水溶性维生素E（北京索莱宝科技有限公司，批号分别为D8310、ST9160），苏木素、伊红、中性树脂（BIOSWAMP 公司，批号分别为PAB180015、PAB180016、PAB180017）；超氧化物歧化酶（SOD）、谷胱甘肽过氧化物酶（GSH-Px）、一氧化氮（NO）、单胺氧化酶（MAO）试剂盒（南京建成生物工程公司，批号分别为20170214、20170220、20170224、20170213）。
+
+Infinite 200 酶标仪（奥地利 TECAN公司），ST16R台式高速冷冻离心机（德国 Thermo 公司），HH-S6数显恒温水浴锅（金坛市医疗仪器厂），Carry100紫外分光光度计（美国瓦里安公司），DHG-9140A 电热恒温鼓风干燥箱（上海精宏实验设备有限公司），CX41正置显微镜（日本奥林巴斯公司），RM2235石蜡切片机（徕卡显微系统有限公司），TB-718D石蜡包埋机（湖北泰维科技实业有限公司）。
+
+# 1.4动物分组、衰老模型建立及给药
+
+适应环境 3-5d 后将小鼠按体重随机分成空白组、模型组、阳性组（水溶性维生素E，V $\mathrm { ^ { \prime } E 1 0 0 m g ^ { \cdot } k g ^ { - 1 } }$ ）、SEE 高剂量组（SEE-H， $2 5 0 \mathrm { m g } \mathrm { k g } ^ { - 1 }$ ）、SEE 低剂量组（SEE-L， $1 2 5 \mathrm { m g } \mathrm { k g } ^ { - 1 }$ ）、SEAE 高剂量组（SEAE-H,$7 6 \mathrm { m g } \mathrm { k g } ^ { - 1 }$ ）、SEAE 低剂量组（SEAE-L， $3 8 \mathrm { m g ^ { . } k g ^ { - 1 } }$ ）、SBE高剂量组（SBE-H， $1 9 \mathrm { m g ^ { . } k g ^ { - 1 } }$ ）、SBE 低剂量组（SBE-L， $9 . 5 \mathrm { m g } \mathrm { k g } ^ { - 1 }$ ），每组12只小鼠。除空白组外，其余各组小鼠每只每日皮下注射D-半乳糖溶液，剂量为 $1 2 0 \mathrm { m g ^ { . } k g ^ { - 1 } }$ ，连续注射13w 诱导小鼠建立衰老模型，空白组注射等量生理盐水。第8w开始灌胃给药，连续灌胃 $4 2 { \mathrm { ~ d ~ } }$ 。空白组和模型组灌胃等量生理盐水，灌胃量为 $2 0 \mathrm { m } / \mathrm { k g }$ 。实验结束后脱白处死小鼠，采集样本测定相关指标。
+
+# 1.5Morris水迷宫实验
+
+实验结束前5天进行Moris水迷宫实验，前4天进行定位航行训练，每天在固定时间段内训练4次，每次一个象限，将小鼠面向池壁，依次从四个象限入水点放入水中，记录每只小鼠在60s内找到平台的时间（逃避潜伏期），如60s内未能找到平台则对其进行引导，并在平台上停留 $1 0 \mathrm { ~ s ~ }$ ，逃避潜伏期为 $6 0 ~ \mathrm { s }$ 。第5天进行空间探索实验，撤去平台，记录每只小鼠进行原平台所在区域的次数，以衡量小鼠对水迷宫记忆的获取能力。
+
+# 1.7衰老小鼠脑部形态学观察
+
+每组随机选取两只小鼠脱臼处死，冰上取脑，用预冷生理盐水冲洗除去表面血液，滤纸吸干水分后用 $4 \%$ 多聚甲醛溶液固定，制备病理组织切片，采用HE 染色对大脑组织神经细胞进行观察，委托武汉华联科生物技术有限公司进行。
+
+# 1.8组织制备及指标测定
+
+脱臼处死小鼠，冰上取出大脑，并用预冷的生理盐水漂洗除去血液，用滤纸吸干水分后将脑组织移入烧杯中，用匀浆器将其匀浆，生理盐水稀释制备成 $10 \%$ 组织匀浆，按试剂盒说明书检测脑组织 SOD 酶活力、GSH-Px 酶活力、NO 含量和 MAO 活力。
+
+# 1.9 统计分析
+
+采用 SPSS 20.0 统计软件进行单因素方差分析及LSD 检验。 $P { < } 0 . 0 5$ 时表示具有统计学差异。数据表示为平均值±标准偏差（SEM）。
+
+# 2结果与分析
+
+# 2.1各组小鼠Morris水迷宫实验结果
+
+结果如表1所示，与空白组相比，模型组小鼠的逃避潜伏期显著延长（ $\cdot P { < } 0 . 0 I$ ），模型组小鼠的穿越平台次数减少 （ $P { < } 0 . 0 I$ ），表明D-半乳糖致衰老小鼠的学习记忆能力显著下降，衰老模型建立成功。与模型
+
+组相比，SEE-H组小鼠的逃避潜伏期随着训练时间的增长逐渐缩短，穿越次数显著增加，与模型组具有显著性差异（ $P { < } 0 . 0 I$ ）。SEAE-H和SEAE-L组小鼠的逃避潜伏期与模型组相比均具有显著性差异（ $P { < } 0 . 0 I \$ ），SEAE-H和SEAE-L组均能有效增加衰老小鼠穿越平台次数（ $P { < } 0 . 0 I \$ ），效果接近空白组。
+
+表1无瓣海桑果实提取物对D-半乳糖所致衰老小鼠逃避潜伏期和穿越平台区域次数的影响（x±s， $\scriptstyle { \mathrm { n = 1 } } 2$ ）
+
+Table1EffectsofSonneratiaapetala fruit extractsonescape latencyandnumberof taversing platforms inaged mice induced by   
+
+<html><body><table><tr><td colspan="5"></td></tr><tr><td rowspan="3">组别 Group</td><td colspan="4">逃避潜伏期（s)</td></tr><tr><td colspan="4">Escape latency</td></tr><tr><td>第一天</td><td>第二天</td><td>第三天</td><td>第四天 platform crossing</td></tr><tr><td></td><td>The first day</td><td>The second day</td><td>The third day</td><td>The fouth day</td></tr><tr><td>空白组</td><td>32.97±4.77</td><td>15.73±5.96</td><td>22.70±7.18</td><td>3.64±1.22 18.13±7.07</td></tr><tr><td>Normal group 模型组</td><td>49.56±11.23#</td><td></td><td></td><td>3.03±1.34##</td></tr><tr><td>Model group</td><td>#</td><td>48.87±6.65##</td><td>53.77±4.48##</td><td>40.81±7.61##</td></tr><tr><td>阳性组</td><td></td><td></td><td></td><td>3.77±1.18**</td></tr><tr><td>Positive group</td><td>39.46±11.24</td><td>21.74±7.99**</td><td>20.15±9.02**</td><td>17.86±7.67**</td></tr><tr><td>SEE-H组</td><td>42.86±8.88</td><td>29.03±13.01**</td><td>20.27±8.17*</td><td>4.21±0.92** 21.57±3.42**</td></tr><tr><td>SEE High dose group</td><td></td><td></td><td></td><td></td></tr><tr><td>SEE-L 组 SEE Low dose group</td><td>33.41±8.87**</td><td>35.69±8.12*</td><td>29.71±12.99*</td><td>3.02±1.07 25.12±9.97**</td></tr><tr><td>SEAE-H 组 SEAE High dose group</td><td>35.43±7.90*</td><td>32.11±10.15**</td><td>34.77±7.22**</td><td>22.62±1.83** 3.52±0.85**</td></tr><tr><td>SEAE-L 组 SEAE Low dose group</td><td>39.92±4.71</td><td>22.70±6.31**</td><td>28.87±2.78**</td><td>16.17±3.93** 3.39±0.94**</td></tr><tr><td>SBE-H组 SBE High dose group</td><td>34.31±6.94**</td><td>32.78±10.16**</td><td>39.97±7.25**</td><td>35.40±4.17 3.41±0.56**</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SBE-L 组 SBE Low dose group</td><td>31.26±8.72**</td><td>23.79±10.88**</td><td>24.45±8.04**</td><td>23.74±8.04** 3.21±0.99**</td></tr></table></body></html>
+
+注：与空白组相比， $^ { \# } P { < } 0 . 0 5$ ， ${ \# \# } P { < } 0 . 0 I$ ；与模型组相比， $^ { * } P { < } 0 . 0 5$ ， $^ { * * } P { < } 0 . 0 I$ Note: $^ { \# } P { < } 0 . 0 5$ ， ${ \# \# } P { < } 0 . 0 I$ ,versus normal groups ; $^ { * } P { < } 0 . 0 5$ ， $^ { * * } P { < } 0 . 0 I$ ,versus model groups
+
+# 2.2各组小鼠脑部形态学观察
+
+研究表明，当机体出现衰老时，脑部将出现不同程度的萎缩、死亡(姜秀梅等，2016)。由图1可知，空白组小鼠脑部神经细胞排列紧凑，细胞结构清晰。模型组小鼠脑部神经细胞出现大量深染，细胞坏死数量多，表明给小鼠连续皮下注射D-半乳糖造成脑部萎缩坏死。阳性组小鼠脑部有少量坏死细胞出现，神经细胞结构清晰，表明VE能有效改善衰老小鼠神经细胞坏死情况。SEE-H组小鼠脑部坏死细胞数量少，细胞结构清晰。
+
+SEE-L 组小鼠脑部有少量坏死细胞出现，细胞排列紧凑，表明 SEE 能有效改善衰老小鼠的脑部神经细胞损伤，其中高剂量效果优于低剂量效果。SEAE-H组小鼠脑部神经细胞结构清晰，坏死细胞数量少。SEAE-L 组小鼠脑部神经细胞排列整齐，结构清晰，表明 SEAE 能有效预防衰老导致的脑部神经细胞坏死。SBE-H组小鼠脑部神经细胞间隙偏大，细胞轮廓清晰，SBE-L组小鼠脑部出现少量坏死神经细胞，排列紧凑，表明 SBE 能有效保护衰老小鼠脑部细胞，缓解由D-半乳糖造成的脑部萎缩，且高剂量效果优于低剂量效果。
+
+![](images/425672471fb530035eaa32bfaff27a05f6cf33a63120200347dde23f35e46ad0.jpg)  
+Fig.1Morphological observation of mice in each group （HE， $2 0 0 \times$ ）
+
+注：A.空白组；B.模型组；C.阳性组；D.SEE-H组；E.SEE-L组；F.SEAE-H组; G.SEAE-L 组；H.SBE-H组；I.SBE-L 组。 Note: A.Normalgroup;B.Model group; C.Positive group;D.SEEHighdose group;E.SEELowdose group;F.SEAEHighdose group; G.SEAE Low dose group ;H. SBE High dose group; I. SBE Low dose group .
+
+# 图1各组小鼠脑部形态学的观察（HE， $2 0 0 \times$ ）
+
+# 2.3各组小鼠脑组织抗氧化系统指标测定结果
+
+实验结果如表2所示，与空白组相比，模型组小鼠脑部 SOD、GSH $\mathbf { \cdot P x }$ 酶活力显著降低（ $P { < } 0 . 0 I$ ），NO 含量和MAO 活力显著升高（ $P { < } 0 . 0 I$ ），表明对模型组小鼠连续注射D-半乳糖后，小鼠脑部有害物质积累量增多，抗氧化能力下降，模型建立成功。与模型组相比，阳性组小鼠脑部 SOD、GSH-Px 酶活力显著增加（ $P { < } 0 . 0 I$ ），NO含量和MAO活力显著减少（ $( P { < } 0 . 0 I$ ），表明VE 能有效改善衰老小鼠脑部抗氧化能力。
+
+与模型组相比，SEE-H组和 SEE-L 组小鼠脑部 SOD、GSH- $\mathbf { \cdot P x }$ 酶活力显著升高（ $P { < } 0 . 0 I$ ），MAO活力显著减少 ( $P { < } 0 . 0 I { \mathrm { ~ ) } }$ ），NO 含量SEE-H组显著减少（ $P { < } 0 . 0 I$ ），SEE-L 组减少（ $\cdot P { < } 0 . 0 5$ ），表明 SEE能有效提高衰老小鼠脑部抗氧化能力，且高剂量效果优于低剂量效果。与模型组相比，SEAE-H组NO含量和 MAO活力显著减少（ $\cdot P { < } 0 . 0 I ^ { \cdot }$ ），SEAE-L组小鼠脑部 SOD 酶活力显著升高（ $P { < } 0 . 0 I$ ），NO 含量和MAO活力显著下降( $P { < } 0 . 0 I$ ），表明 SEAE 能有效减少衰老小鼠脑部氧化应激有害产物，低剂量效果优于高剂量效果。与模型组相比，SBE-H组小鼠脑部 SOD、GSH- $\mathbf { \cdot P x }$ 酶活力显著升高（ $P { < } 0 . 0 I$ ），NO含量和MAO活力显著降低（ $\cdot P { < } 0 . 0 I )$ ），SBE-L组小鼠脑部NO含量和MAO活力显著降低（ $P { < } 0 . 0 I$ ），表明SBE 能有效降低衰老小鼠脑部氧化应激有害物质累积，提高脑部抗氧化能力，抗氧化能力与给药浓度呈一定的量效关系。
+
+表2各组小鼠脑组织抗氧化指标测定结果  
+Table 2 The result of antioxidant indexes in brain of mice in each group（x ±s，n=12）  
+
+<html><body><table><tr><td rowspan="3">组别 Group</td><td>SOD活力</td><td>GSH-PX 酶活力</td><td>NO含量</td><td>MAO 活力</td></tr><tr><td>SOD activity</td><td>GSH-PX enzyme activity</td><td>NO conten</td><td> MAO activity</td></tr><tr><td>(Umgprot-1)</td><td>(Umgprot-1)</td><td>（μmoLgprot-1)</td><td>（Umgprot-1)</td></tr><tr><td>空白组 Normal group</td><td>312.42±29.84</td><td>87.95±13.75</td><td>0.99±0.21</td><td>3.81±0.35</td></tr><tr><td>模型组 Model group</td><td>195.24±15.63##</td><td>50.65±9.25 ##</td><td>1.47±0.45 ##</td><td>8.80±0.99 ##</td></tr><tr><td>阳性组 Positive group</td><td>416.52±52.59**</td><td>91.72±24.69**</td><td>0.80±0.15**</td><td>1.89±1.17**</td></tr><tr><td>SEE-H 组 SEE High dose group</td><td>269.90±39.34**</td><td>86.18±9.82**</td><td>0.86±0.12**</td><td>2.68±0.86**</td></tr><tr><td>SEE-L 组 SEE Low dose group</td><td>292.40±36.25**</td><td>82.04±24.09**</td><td>1.11±0.76*</td><td>2.72±0.58**</td></tr><tr><td>SEAE-H 组 SEAE High dose group</td><td>237.36±81.79</td><td>72.10±7.40</td><td>0.87±0.20**</td><td>4.55±3.74**</td></tr><tr><td>SEAE-L 组 SEAE Low dose group</td><td>354.76±64.62**</td><td>65.79±40.76</td><td>0.69±0.19**</td><td>2.00±0.98**</td></tr><tr><td>SBE-H 组 SBE High dose group</td><td>334.98±51.88**</td><td>86.82±28.64**</td><td>0.72±0.16**</td><td>2.78±0.92**</td></tr><tr><td>SBE-L 组 SBE Low dose group</td><td>227.22±67.20</td><td>53.71±16.36</td><td>0.47±0.13**</td><td>1.10±1.07**</td></tr></table></body></html>
+
+注：与空白组相比， $^ { \# } P { < } 0 . 0 5$ ， ${ \# \# } P { < } 0 . 0 I$ ；与模型组相比， $^ { * } P { < } 0 . 0 5$ ， $^ { * * } P { < } 0 . 0 I$ Note: $^ { \# } P { < } 0 . 0 5$ ， ${ \# \# } P { < } 0 . 0 I$ ,versus normal groups ; $^ { * } P { < } 0 . 0 5$ ， $^ { * * } P { < } 0 . 0 I$ ,versus model groups
+
+# 3结果与结论
+
+衰老是生物体随着时间的推移所带来的一种自发的必然过程，它是复杂的自然现象，表现为各器官组织结构逐渐退化，生理生化功能减退，适应性、抵抗力和自稳机能下降。目前，用于研究衰老和痴呆的动物模型很多，给小鼠慢性注射D-半乳糖已成为一种常见的模拟衰老动物模型的方法，小鼠长期注射D-半乳糖后，毛发枯黄无光，行动迟缓，学习记忆能力下降，模型组小鼠脑部 SOD、GSH-Px酶活力显著降低，NO 含量和 MAO 活力显著升高。阳性对照水溶性维生素E能显著改善上述指标，表明研究所建立的衰老模型是成功的。
+
+生物体在新陈代谢过程中会不断产生各种自由基，引起体内代谢紊乱，导致各种疾病产生，加速人体衰老。因此，产生了自由基致衰老学说。在衰老机制研究中，自由基学说认为在机体衰老过程中，随着年龄的增长，机体防御能力下降，有害物质增多，氧化失衡，自由基在体内大量增多（刘静等，2016）。SOD和GSH-Px是机体内源抗氧化酶，对清除氧自由基，防止氧自由基破坏细胞的组成、结构和功能，保护细胞免受氧化损伤具有十分重要的作用（陈洪燕等，2017；张悦等，2006）。SOD 活性却随年龄的增加而降低，其活性与物种的寿命呈正相关。MAO是常用的衰老指示酶，其含量与活力与衰老呈正相关关系（马志虎，2010;王洁，2010）。NO 是一种重要的细胞间和细胞内信使以及新的神经递质。NO可以为介导神经元对兴奋性氨基酸的反应和增强机体学习记忆能力等。随着年龄增长，中枢神经系统中的NO合成减少。
+
+本研究通过D-半乳糖建立衰老小鼠模型来研究无瓣海桑果实不同提取物对衰老小鼠的学习记忆影响及其作用机制。实验结果表明，无瓣海桑果实不同提取物均可以有效的提高衰老小鼠的学习与记忆能力，缩短衰老小鼠Morris 水迷宫实验的逃避潜伏期，并延长其在目标象限的停留时间（ $\cdot P { < } 0 . 0 5$ ），同时可以缓解衰老造成的脑部萎缩、死亡。通过对小鼠脑部的检测进一步发现无瓣海桑果实能够提高衰老小鼠脑部 SOD 和GSH-Px 酶活力，降低 NO 含量和MAO 活力（ $\cdot P { < } 0 . 0 5$ ）。以上实验结果表明无瓣海桑果实不同提取物可能是通过减轻衰老小鼠脑部神经细胞损伤，提高内源抗氧化酶（SOD、GSH- $\mathbf { \cdot P x }$ ）活力，降低脑部 NO含量和MAO 活力来提高D-半乳糖致衰老小鼠的学习记忆能力。无瓣海桑果实的粗体物中含有总酚和花青素等酚类成分。酚类化合物是植物的次生代谢产物，其抗氧化、抗菌、抗衰老等生物活性已成为医学、食品、日用化工等领域的研究热点。曹雷雷等(2015)也从新鲜无瓣海桑果实分离鉴定了8个酚酸类单体化合物。因此，推测是无瓣海桑果实中的酚酸类成分起到了提高D-半乳糖致衰老小鼠的学习记忆能力。但是，具体是何种酚酸类单体化合物起到主要作用，还需要进一步深入研究。
+
+# 参考文献：
+
+ASHA KK,MATHEW S,LAKSHMANAN PT,2012.Flavonoids and phenolic compounds in two mangrove species and their antioxidant property [J]. Ind J Geo-Mar Sci, 41 (3): 259-264.   
+CAO LL,TIAN HY,WANG YS,et al,2015.Chemical constituents in the fruits of mangrove plant Sonneratia apetala Buch.Ham[J].JTrop Oceanogr,2015,(1):77-82.[曹雷雷，田海妍，王友绍，等，2015．红树植物无 瓣海桑果实的化学成分研究[J]．热带海洋学报,34(1):77-82.]   
+CHEN HY,AO MZ, XIONG YT,2017. Experimental study on anti-aging effect of Fengmiannng capsule on D-galactose mice[J].Lishizhen Med Mat Med Res,28(1):84-85.[陈洪燕，敖明章，雄义涛.蜂眠宁胶囊对 D半乳糖小鼠抗衰老作用的实验研究[J].时珍国医国药，2017，28(1):84-85.]   
+de-FARIA FM, ALMEIDA ACA,LUIZ-FERREIRA A,2012. Antioxidant action of mangrove polyphenols against gastric damage induced by absolute ethanol and ischemia-reperfusion in the rat[J].Sci World J,2012:1-9.   
+ERICKSON KL,BEUTLE JA,CARDELLINA JH, et al,1995.A novel phorbol ester from Excoecaria agallocha
+
+[J]. J Nat Prod, 58 (5):769-772.
+
+HUANG H,2010. Effects of total saponins of gynostemma pentaphylum on brain senescence in mice induced by D-galactose [D]. Jinan: Shandong normal University:24.[黄华，2010.绞股蓝总皂苷对 D-半乳糖致衰小鼠延缓 脑部衰老作用的实验研究[D].济南:山东师范大学:24.]   
+JIANG XM, XU XL, YINYM, et al,2016.Effects ofFlammulina velutipes Polysaccharideon Antioxidant capacity of brain in Aging mice [J].Shi Zhen Chin Med,36(23): 5797-5799.[姜秀梅,徐小磊,殷一民,等,2016.金针菇 多糖对衰老小鼠大脑抗氧化能力的影响［J].时珍国医国药,36(23):5797-5799.]   
+LING HS,SONG WD,2009.Determination and Analysis of Amino acids in leaves and fruits ofValveless sea mulberry fruit[J].Amino Acids Biol Resour,31(2):76-78.[林海生,宋文东,2009.无瓣海桑叶子和果实中氨基 酸成分的检测分析[J].氨基酸和生物资源,31(2):76-78.]   
+LING HS,SONG WD, WU J, et al,2009. Detection and analysis offatt acids in leaves and fruits of Valveless sea mulberry fruit[J].Fujian analysis test,18 (3):5-9.[林海生,宋文东,吴婕,等,2009.无瓣海桑叶子和果实中脂 肪酸成分的检测分析[J].福建分析测试,18(3):5-9.]   
+LIU J, ZHAO HX, YUAN D,et al, 2016.Advances in the studyof the Anti-aging efect of Ligustrum lucidum and its active components [J].Shi Zhen Chin Med,27(12): 2974-2977.[刘静，赵海霞，袁丁,等，2016．女贞子及 其有效成分延缓衰老作用的研究进展［J]．时珍国医国药，27(12):2974-2977.]   
+MA ZH, 2010. Studies on supercritical $\mathrm { C O } _ { 2 }$ extraction and bioactivity of lutein from Trichosanthes kirilowii seed oil and peel of Trichosanthes kirilowi [D].Nanjing: Nanjing Agricultural University: 17.[马志虎，2010.栝楼籽油和 栝楼果皮叶黄素的超临界 $\mathrm { C O } _ { 2 }$ 萃取及生物活性研究[D].南京:南京农业大学:17.]   
+PatraJK, Das SK,Thatoi H,2015.Phytochemical profiling and bioactivityofa mangrove plant, Sonneratiaapetala, from Odisha Coast of India [J]. Chin J Integr Med, 21(4): 274-285.   
+WANG RJ, CHEN ZY,2002. Phylogenyand geographical distributionof Hymenaceae [J]. Guihaia,22(3):214-219. [王瑞江,陈忠毅,2002.海桑科的系统进化及地理分布[J].广西植物,22(3):214-219.]   
+Wickens AP. Ageing and the free radical theory[J]. Resp Physiol, 2001,128(3):379-391.   
+YI XX,LIJY,GAO CH,etal,2017.Antioxidationactivityof ethanol extractand its different Polar extracts from Valveless sea mulberry fruit[J].Food Ind Sci Technol,38(19): 27-30.[易湘茜,李家怡,高程海,等，2017.无瓣 海桑果实乙醇提取物及其不同极性萃取物抗氧化活性[J]．食品工业科技,38(19):27-30.]   
+ZHANG D, ZHANG J, MENG G,et al,2002.Efects ofcompound antioxidants on lipid peroxidation and survival of Drosophila melanogaster in mice[J].ChinJFoodHyg,14(5): 3.[张丁,张杰,孟光,等,2002.复合抗氧化剂 对小鼠脂质过氧化及果蝇生存期的影响[J].中国食品卫生杂志,14(5):3.]   
+ZHANG Y, YUANLJ,2006.Effects of Propolis flavonoids on SOD,GSH-Px,MDA in Rat brain [J]. Prog Mod Biomed,6(10):62-63.[张悦,袁丽杰，2006.蜂胶黄酮对小鼠脑 SOD、GSH-Px、MDA 的影响[J].现代生物医学 进展,6(10):62-63.]   
+WANG J,2010.Efect of low deuterium water on anti-oxidation of D-galactose induced aging model mice [D]. Shanghai $\because$ Second Military Medical University,53.[王洁,2010.低氘水对D-半乳糖致衰老模型小鼠抗氧化作 用的研究[D].上海:第二军医大学:53.]

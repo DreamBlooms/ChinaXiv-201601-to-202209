@@ -1,0 +1,2407 @@
+[
+    {
+        "type": "text",
+        "text": "Regularity in the two-phase free boundary problems under non-standard growth conditions ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jun Zheng ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SchoolofMathematics,Southwest Jiaotong University,Chengdu 6l1756,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we prove several regularity results for the heterogeneous,two-phase free boundary problems $\\begin{array} { r } { \\mathcal { I } _ { \\gamma } ( u ) = \\int _ { \\Omega } \\big ( f ( x , \\nabla u ) + } \\end{array}$ $( \\lambda _ { + } ( u ^ { + } ) ^ { \\gamma } + \\lambda _ { - } ( u ^ { - } ) ^ { \\gamma } ) + g u ) \\mathrm { d } x \\to \\operatorname* { m i n }$ under non-standard growth conditions. Included in such problems are heterogeneous jets and cavities of Prandtl-Batchelor type with $\\gamma = 0$ ,chemical reaction problems with $0 < \\gamma < 1$ ,and obstacle type problems with $\\gamma = 1$ . Our results hold not only in the degenerate case of $p > 2$ for $p$ -Laplace equations,but also in the singular case of $1 < p < 2$ ，which are extensions of [1]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Free boundary problem; Two-phase; Non-standard growth; Minimizer; Regularity. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2010AMS subject classifications:35J60;35J92;35B65. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Let $\\Omega$ be a bounded open set in $\\mathbb { R } ^ { n } ( n \\geq 2 )$ ，and $g \\in L ^ { q } ( \\Omega ) , \\psi \\in W ^ { 1 , p } ( \\Omega ) \\cap L ^ { \\infty } ( \\Omega )$ with $\\psi ^ { + } = \\mathrm { m a x } \\{ \\pm \\psi , 0 \\} \\ne 0$ and $p \\geq 2 , q \\geq n$ . In[1],Leitao,de Queiroz and Teixeira provided acomplete description of the sharp regularity of minimizers to the heterogeneous,two-phase free boundary problems ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { J } _ { \\gamma } ( u ) = \\int _ { \\Omega } \\big ( | \\nabla u | ^ { p } + F _ { \\gamma } ( u ) + g u \\big ) \\mathrm { d } x \\to \\operatorname* { m i n } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "over the set $\\{ u \\in W ^ { 1 , p } ( \\Omega ) : u - \\psi \\in W _ { 0 } ^ { 1 , p } ( \\Omega ) \\}$ ，where ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { \\gamma } ( u ) = \\lambda _ { + } ( u ^ { + } ) ^ { \\gamma } + \\lambda _ { - } ( u ^ { - } ) ^ { \\gamma } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\gamma \\in [ 0 , 1 ]$ is a parameter, $0 < \\lambda _ { - } < \\lambda _ { + } < + \\infty$ ,and by convention, ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { 0 } ( u ) = \\lambda _ { + } \\chi _ { \\{ u > 0 \\} } + \\lambda _ { - } \\chi _ { \\{ u \\leq 0 \\} } .\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The lower limiting case, i.e., $\\gamma = 0$ ,relates to jets and cavities problems. The upper case, i.e., $\\gamma = 1$ ,relates to obstacle type problems. The intermediary problem,i.e., $0 < \\gamma < 1$ , can be used to model the density of certain chemical specie,in reaction with a porous catalyst pellet. The authors established local $C ^ { 1 , \\alpha _ { - } }$ and Log-Lipschitz regularities for minimizers of the functional $\\mathcal { J } _ { \\gamma }$ when $\\gamma \\in ( 0 , 1 ] , q > n$ and $\\gamma = 0 , q = n$ in (1) respectively, see [1]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Problem (1) was extended toa largeclass of the following heterogeneous,two-phase freeboundary problems in[16,17] ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { \\Omega } ( A ( | \\nabla u | ) + F _ { \\gamma } ( u ) + g u ) \\mathrm { d } x \\to \\operatorname* { m i n } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Email address: zhengjun2O14@aliyun.com, zhengjun@swjtu.edu.cn (Jun Zheng). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "over the set $\\{ u \\in W ^ { 1 , A } ( \\Omega ) : u - \\psi \\in W _ { 0 } ^ { 1 , A } ( \\Omega ) \\}$ , for given functions $g \\in L ^ { \\infty } ( \\Omega )$ and $\\psi \\in W ^ { 1 , A } ( \\Omega ) L ^ { \\infty } ( \\Omega )$ with $\\psi ^ { + } \\neq 0$ where $W ^ { 1 , A } ( \\Omega )$ is the class of weakly differentiable functions with $\\begin{array} { r } { \\int _ { \\Omega } A ( | \\nabla u | ) \\mathrm { d } x < \\infty } \\end{array}$ . Under Lieberman's condition on $A$ ， which allows for a different behavior at O and at $\\infty$ ,local Log-Lipschitz continuity and local $C ^ { 1 , \\alpha }$ -regularity of minimizers have been obtained for $\\gamma = 0$ and $\\gamma \\in ( 0 , 1 ]$ respectively in the setting of Orlicz spaces, see [16,17]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The aim of this paper is to study the heterogeneous,two-phase free boundary problems ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { I } _ { \\gamma } ( u ) = \\int _ { \\Omega } \\big ( f ( x , \\nabla u ) + F _ { \\gamma } ( u ) + g u \\big ) \\mathrm { d } x \\to \\operatorname* { m i n } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "over the set $\\{ u \\in W ^ { 1 , p ( \\cdot ) } ( \\Omega ) : u - \\psi \\in W _ { 0 } ^ { 1 , p ( \\cdot ) } ( \\Omega ) \\}$ in theframework of Sobolev spaces with variable exponents,where $f : \\Omega \\times \\mathbb { R } ^ { n } \\overset { \\cdot } {  } \\mathbb { R }$ is a Carathéodory function having a form: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL ^ { - 1 } | z | ^ { p ( x ) } \\leq f ( x , z ) \\leq L ( 1 + | z | ^ { p ( x ) } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "for all $x \\in \\Omega , z \\in \\mathbb { R } ^ { n }$ ,with $p : \\Omega \\to ( 1 , + \\infty )$ a continuous function and $L \\geq 1$ a constant. We establish local Log-Lipschitz continuity and local $C ^ { 1 , \\alpha }$ -regularityfor minimizers of $\\mathcal { I } _ { \\gamma }$ with $\\gamma = 0$ ,and $\\gamma \\in ( 0 , 1 ]$ respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To the knowledgeoftheauthor,the present paper seems to be afirstregularityresult forthe heterogeneous,two-phase free boundary problems (2） with $p ( x )$ -growth. It should be mentioned that a large class of functionals and identical obstacle problems under non-standard growth conditions havebeen studied in[2-5,14],which providethereferenceestimates,and suitablelcalizationandfreezing techniques,etc.,to treatthe nonstandard growth exponents inthefunctional goveredby (2). Theresultsobtained in this paperare notonlyextensions ofone-phaseobstacle problems under non-standard growth conditions (see,e.g.,[4,5]),but alsoasupplementofthe degenerate two-phasefreeboundaryproblems studied in[1],sinceouresults contain the singular case of $1 < p < 2$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Therestof thispaper isorganizedas folows.Insection2,wepresent somebasic notations,defnitions,assumptions,and the main results obtained in this paper, including existence and $L ^ { \\infty }$ -boundedness results (Theorem 2.1),and local Holder, $C ^ { 1 , \\alpha } -$ and Log-Lipschitz regularities of minimizers (Theorem $2 . 2 \\textrm { - } 2 . 4 )$ In Section 3, wecarry out the existence and $L ^ { \\infty }$ -boundedness for minimizers of the functional $\\mathcal { I } _ { \\gamma } ( \\gamma \\in [ 0 , 1 ] )$ . In Section 4,we establish the higher integrability for minimizers of the functional $\\mathcal { I } _ { \\gamma } ( \\gamma \\in [ 0 , 1 ] )$ . In Section 5, we address local $C ^ { 0 , \\alpha }$ -regularity for minimizers of the functional having a form $\\begin{array} { r } { \\int _ { \\Omega } \\big ( h ( \\nabla u ) + { F _ { \\gamma } } ( u ) + g u \\big ) \\mathrm { d } x } \\end{array}$ with $\\gamma \\in [ 0 , 1 ]$ (Theorem 2.2),where $h$ satisfies certain non-standard growth conditions. In Section 6, we prove local $C ^ { 0 , \\alpha }$ -regularity for minimizers of the functional $\\mathcal { I } _ { \\gamma } ( \\gamma \\in [ 0 , 1 ] )$ (Theorem 2.3). In Section 7 and 8, we establish local $C ^ { 1 , \\alpha }$ -regularity for minimizers of the functional $\\mathcal { I } _ { \\gamma } ( \\gamma \\in ( 0 , 1 ] )$ and local Log-Lipschitz continuity for minimizer of $\\mathcal { I } _ { 0 }$ ,(Theorem 2.4) respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2Preliminaries and Statements ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this paper, $\\Omega$ will denote an open bounded domain in $\\mathbb { R } ^ { n } ( n \\geq 2 )$ and $B _ { R } ( x )$ the open ball $\\{ y \\in \\mathbb { R } ^ { n } : | x - y | < R \\}$ with centre $\\boldsymbol { x } \\in \\mathbb { R } ^ { n }$ . If $u$ is an integrable function defined on $B _ { R } ( x )$ , we will set $\\begin{array} { r } { ( u ) _ { x , R } = \\frac { \\int _ { B _ { R } ( x ) } u ( x ) \\mathrm { d } x } { | B _ { R } ( x ) | } } \\end{array}$ ， where $| B _ { R } ( x ) |$ is the Lebesgue measure of $B _ { R } ( x )$ . Without confusion, we will write $B _ { R }$ and $( u ) _ { R }$ instead of $B _ { R } ( x )$ and $( u ) _ { x , R }$ respectively. We may write $C$ or $c$ as a constant that may be different from each other, but independent of $\\gamma$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Let $p : \\Omega \\to ( 1 , + \\infty )$ be a continuous function. The variable exponent Lebesgue space $L ^ { p ( \\cdot ) } ( \\Omega )$ is defined by $L ^ { p ( \\cdot ) } ( \\Omega ) =$ $\\{ u \\vert u : \\Omega  \\mathbb { R }$ is measurable, $\\textstyle \\int _ { \\Omega } | u | ^ { p ( x ) } \\mathrm { d } x < + \\infty \\big \\}$ ， with the norm $\\| u \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } = \\operatorname* { i n f } \\{ \\lambda > 0$ ; $\\begin{array} { r } { \\int _ { \\Omega } \\left| \\frac { u } { \\lambda } \\right| ^ { p ( x ) } \\mathrm { d } x \\leq 1 \\} } \\end{array}$ . The variable exponent Sobolev space $W ^ { 1 , p ( \\cdot ) } ( \\Omega )$ is defined by $W ^ { 1 , p ( \\cdot ) } ( \\Omega ) = \\{ u \\in L ^ { p ( \\cdot ) } ( \\Omega ) : | \\nabla u | \\in L ^ { p ( \\cdot ) } ( \\Omega )$ , with the norm $\\| u \\| _ { W ^ { 1 , p ( \\cdot ) } ( \\Omega ) } = \\| u \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } + \\| \\nabla u \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } .$ Define $W _ { 0 } ^ { 1 , p ( \\cdot ) } ( \\Omega )$ as the closure of $C _ { 0 } ^ { \\infty } ( \\Omega )$ in $W ^ { 1 , p ( \\cdot ) } ( \\Omega )$ . We point out that, if $\\Omega$ is bounded and $p ( \\cdot )$ satisfies (8),then the spaces $L ^ { p ( \\cdot ) } ( \\Omega ) , W ^ { 1 , p ( \\cdot ) } ( \\Omega )$ and $W _ { 0 } ^ { 1 , p ( \\cdot ) } ( \\Omega )$ are all separable and reflexive Banach spaces. $\\| \\nabla u \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) }$ is an equivalent norm on $W _ { 0 } ^ { 1 , p ( \\cdot ) } ( \\Omega )$ .Werefer to-]formoredetalofespace $W ^ { 1 , p ( \\cdot ) } ( \\Omega )$ ， ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we consider the following growth, ellipticity and continuity conditions: ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$f : \\Omega \\times \\mathbb { R } ^ { n }  \\mathbb { R } , f ( x , z )$ .s $C ^ { 2 } -$ continuous in $x$ and $z$ ， and convex in $z$ for every $x$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { L ^ { - 1 } ( \\mu ^ { 2 } + | z | ^ { 2 } ) ^ { \\frac { p ( x ) } { 2 } } \\leq f ( x , z ) \\leq L ( \\mu ^ { 2 } + | z | ^ { 2 } ) ^ { \\frac { p ( x ) } { 2 } } , } \\\\ & { | f ( x , z ) - f ( x _ { 0 } , z ) | \\leq L w ( | x - x _ { 0 } | ) [ ( \\mu ^ { 2 } + | z | ^ { 2 } ) ^ { \\frac { p ( x ) } { 2 } } + ( \\mu ^ { 2 } + | z | ^ { 2 } ) ^ { \\frac { p ( x _ { 0 } ) } { 2 } } ] [ 1 + \\log ( \\mu ^ { 2 } + | z | ^ { 2 } ) ] , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "for all $z \\in \\mathbb { R } ^ { n } , x$ and $x _ { 0 } \\in \\Omega$ ，where $L \\ge 1 , \\mu \\in [ 0 , 1 ]$ ， $w : \\mathbb { R } ^ { + }  \\mathbb { R } ^ { + }$ is a nondecreasing continuous function, vanishing at zero, which represents the modulus of $p$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| p ( x ) - p ( y ) | \\leq w ( | x - y | ) { \\mathrm { ~ f o r ~ a l l ~ } } x , y \\in { \\overline { { \\Omega } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "and satisfying $\\begin{array} { r } { \\operatorname* { l i m } _ { R \\to 0 } \\omega ( R ) \\log \\big ( \\frac { 1 } { R } \\big ) < + \\infty } \\end{array}$ , thus without loss of generality,assume that ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\omega ( R ) \\leq L | \\log R | ^ { - 1 } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "for all $R < 1$ .Moreover,we assume that ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 < p _ { - } = \\operatorname* { i n f } _ { x \\in \\Omega } p ( x ) \\leq p ( x ) \\leq \\operatorname* { s u p } _ { x \\in \\Omega } p ( x ) = p _ { + } < + \\infty \\mathrm { f o r ~ a l l } \\ x \\in \\Omega .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Let $q : \\Omega \\to ( 1 , + \\infty )$ be a continuous function fulfilling the conditions of the type (6) and (7). We always make the following assumptions on $p ( \\cdot )$ and $q ( \\cdot )$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 } { p _ { - } } - \\frac { 1 } { p _ { + } } < \\frac { 1 } { n } , ~ q ( x ) \\ge q _ { - } \\mathrm { ~ f o r ~ a l l ~ } x \\in \\Omega , ~ q _ { - } > \\left\\{ \\begin{array} { l l } { \\frac { 1 } { p _ { - } - 1 } \\frac { 1 } { \\frac { 1 } { n } - \\frac { 1 } { p _ { - } } + \\frac { 1 } { p _ { + } } } > n , ~ \\mathrm { i f } \\ : p _ { - } < 2 , } \\\\ { \\frac { 1 } { \\frac { 1 } { n } - \\frac { 1 } { p _ { - } } + \\frac { 1 } { p _ { + } } } \\ge n , ~ \\mathrm { i f } \\ : p _ { - } \\ge 2 . } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Given $\\psi \\in W ^ { 1 , p ( \\cdot ) } ( \\Omega ) \\cap L ^ { \\infty } ( \\Omega )$ and $g \\in L ^ { q ( \\cdot ) } ( \\Omega )$ ,let $\\mathcal { K } = \\{ u \\in W ^ { 1 , p ( \\cdot ) } ( \\Omega ) ; u - \\psi \\in W _ { 0 } ^ { 1 , p ( \\cdot ) } ( \\Omega ) \\}$ . We say that a function $u \\in \\mathcal K$ is a minimizer of the functional $\\mathcal { I } _ { \\gamma } ( u )$ governed by (2) if ${ \\mathcal { I } } _ { \\gamma } ( u ) \\leq { \\mathcal { I } } _ { \\gamma } ( v )$ for all $v \\in \\mathcal { K }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The first result obtained in this paper concerns with the existence and $L ^ { \\infty }$ -boundedness of minimizers of $\\mathcal { I } _ { \\gamma } ( u )$ governed by (2). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Theorem1 Under assumptions (3)-(9),for each $0 \\leq \\gamma \\leq 1$ ,there exists a minimizer $u _ { \\gamma } \\in \\mathcal { K }$ of the functional $\\mathcal { I } _ { \\gamma } ( u )$ governed by (2).Furthermore, $u _ { \\gamma }$ is bounded. More precisely, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\| u _ { \\gamma } \\| _ { L ^ { \\infty } ( \\Omega ) } \\leq C ( n , L , q _ { - } , p _ { \\pm } , \\lambda _ { \\pm } , \\Omega , \\| \\psi \\| _ { L ^ { \\infty } ( \\partial \\Omega ) } , \\| g \\| _ { L ^ { q ( \\cdot ) } ( \\Omega ) } ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Now let ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathscr { H } _ { \\gamma } ( u ) = \\int _ { \\Omega } \\big ( h ( \\nabla u ) + F _ { \\gamma } ( u ) + g u \\big ) \\mathrm { d } x ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $h : \\mathbb { R } ^ { n }  \\mathbb { R }$ is a $C ^ { 2 }$ -continuous and convex function satisfying for all $z \\in \\mathbb { R } ^ { n }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL ^ { - 1 } ( \\mu ^ { 2 } + | z | ^ { 2 } ) ^ { \\frac { p ( x ) } { 2 } } \\leq h ( z ) \\leq L ( \\mu ^ { 2 } + | z | ^ { 2 } ) ^ { \\frac { p ( x ) } { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We present then the regularity properties of minimizers of the functionals $\\mathcal { H } _ { \\gamma }$ and $\\mathcal { I } _ { \\gamma }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Theorem 2 Assume that (11) and (6)-(9) hold. If $u _ { \\gamma } \\in \\mathcal { K }$ is a minimizer of the functional $\\mathcal { H } _ { \\gamma } ( \\gamma \\in [ 0 , 1 ] )$ governed by (10). then $u _ { \\gamma } \\in C _ { l o c } ^ { 0 , \\alpha } ( \\Omega )$ for some $\\alpha \\in ( 0 , 1 )$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Theorem 3 Assume that (3)-(9) hold. If $u _ { \\gamma } \\in \\mathcal { K }$ is a minimizer of the functional $\\mathcal { I } _ { \\gamma } ( \\gamma \\in [ 0 , 1 ] )$ governed by (2), then （204号 $u _ { \\gamma } \\in C _ { l o c } ^ { 0 , \\alpha } ( \\Omega )$ for some $\\alpha \\in ( 0 , 1 )$ . ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Theorem 4 Assume that (3)-(9) hold, and assume further that $\\omega ( R ) \\leq L R ^ { s }$ for some $\\varsigma > { \\frac { n } { q _ { - } } } { \\frac { p _ { - } } { p _ { -- } 1 } }$ and all $R \\leq 1$ The following statements hold true: ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(i) For each $\\gamma \\in ( 0 , 1 ]$ , every minimizer $u _ { \\gamma }$ of te functional $\\mathcal { I } _ { \\gamma }$ govermed by (2) is $C _ { l o c } ^ { 1 , \\alpha }$ -continuous for some $\\alpha \\in ( 0 , 1 )$ ： (i) For each $\\gamma = 0$ every iar $u _ { 0 }$ (y fional $\\mathcal { I } _ { 0 }$ $\\Omega$ and $C _ { l o c } ^ { 0 , \\alpha }$ $\\alpha \\in ( 0 , 1 )$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3Existence and $L ^ { \\infty }$ -boundedness of minimizers ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this section, we establish the existence and $L ^ { \\infty }$ -boundedness for minimizers of the functional $\\mathcal { I } _ { \\gamma } ( \\gamma \\in [ 0 , 1 ] )$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Proof of Theorem1 Firstly we consider the existence of a minimizer of the functional $\\mathcal { I } _ { \\gamma }$ . Let $I _ { 0 } = \\operatorname* { m i n } \\{ \\mathcal { I } _ { \\gamma } ( u ) : u \\in \\mathcal { K } \\}$ Initially we claim that $I _ { 0 } > - \\infty$ .Indeed,for any $u \\in \\kappa$ ，by Poincaré's inequality there exists a positive constant $C =$ $C ( n , p _ { \\pm } , \\Omega )$ such that ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\| u \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } \\leq \\| u - \\psi \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } + \\| \\psi \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } } \\\\ & { \\qquad \\leq C \\| \\nabla u - \\nabla \\psi \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } + \\| \\psi \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } } \\\\ & { \\qquad \\leq C ( \\| \\nabla u \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } + \\| \\nabla \\psi \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } + \\| \\psi \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } ) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "which implies ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left. \\nabla u \\right. _ { L ^ { p ( \\cdot ) } ( \\Omega ) } ^ { p _ { - } } \\geq C _ { 1 } \\left. u \\right. _ { L ^ { p ( \\cdot ) } ( \\Omega ) } ^ { p _ { - } } - \\left. \\psi \\right. _ { L ^ { p ( \\cdot ) } ( \\Omega ) } ^ { p _ { - } } - \\left. \\nabla \\psi \\right. _ { L ^ { p ( \\cdot ) } ( \\Omega ) } ^ { p _ { - } } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left. \\nabla u \\right. _ { L ^ { p ( \\cdot ) } ( \\Omega ) } ^ { p _ { + } } \\geq C _ { 2 } \\left. u \\right. _ { L ^ { p ( \\cdot ) } ( \\Omega ) } ^ { p _ { + } } - \\left. \\psi \\right. _ { L ^ { p ( \\cdot ) } ( \\Omega ) } ^ { p _ { + } } - \\left. \\nabla \\psi \\right. _ { L ^ { p ( \\cdot ) } ( \\Omega ) } ^ { p _ { + } } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $C _ { 1 } , C _ { 2 }$ are positive constants depending only on $n , p _ { \\pm } , \\Omega$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Due to $q ( x ) \\geq q _ { - }$ , we deduce by (9) and Holder's inequality that ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { | \\displaystyle \\int _ { \\Omega } g u \\mathrm { d } x | \\le C _ { 3 } ( p _ { + } , p _ { - } ) \\| g \\| _ { L ^ { \\frac { p ( \\cdot ) } { p ( \\cdot ) - 1 } } ( \\Omega ) } \\| u \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } } \\\\ & { \\qquad \\le C _ { 4 } ( p _ { + } , p _ { - } ) \\| g \\| _ { L ^ { q ( \\cdot ) } ( \\Omega ) } \\| 1 \\| _ { L ^ { \\frac { 1 } { 1 - \\frac { 1 } { p ( \\cdot ) } } - \\frac { 1 } { q ( \\cdot ) } } ( \\Omega ) } \\| u \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } } \\\\ & { \\qquad \\le C _ { 4 } ( p _ { + } , p _ { - } ) \\bigg ( 1 + | \\Omega | ^ { 1 - \\frac { 1 } { p _ { - } } - \\frac { 1 } { q - } } \\bigg ) \\| g \\| _ { L ^ { q ( \\cdot ) } ( \\Omega ) } \\| u \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } } \\\\ & { \\qquad \\le \\{ \\varepsilon \\| u \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } ^ { p _ { - } } + C _ { 5 } ( \\varepsilon , p _ { \\pm } , \\Omega ) \\| g \\| _ { L ^ { \\frac { p _ { - } - 1 } { q - } } ( \\Omega ) } ^ { \\frac { p _ { - } } { p _ { - } } } , \\mathrm { o r } , } \\\\ & { \\qquad \\le \\{ \\varepsilon \\| u \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } ^ { p _ { + } } + C _ { 6 } ( \\varepsilon , p _ { \\pm } , \\Omega ) \\| g \\| _ { L ^ { q ( \\cdot ) } ( \\Omega ) } ^ { \\frac { p _ { + } - 1 } { p _ { + } - 1 } } , \\mathrm { o r } ,  } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where in the last inequality we used Young' inequality and $\\varepsilon \\in ( 0 , 1 )$ will be chosen later. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Now we consider two cases: (i) $\\| \\nabla u \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } > 1$ , and (ii) $\\| \\nabla u \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } \\leq 1$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(i) If $\\| \\nabla u \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } > 1$ ,it follows from (4),(13) and (16) that ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathcal { T } _ { \\gamma } ( u ) \\geq L ^ { - 1 } \\displaystyle \\int _ { \\Omega } | \\nabla u | ^ { p ( x ) } \\mathrm { d } x - \\left| \\int _ { \\Omega } g u \\mathrm { d } x \\right| } \\\\ & { \\qquad \\geq L ^ { - 1 } \\| \\nabla u \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } ^ { p - } - \\left| \\int _ { \\Omega } g u \\mathrm { d } x \\right| } \\\\ & { \\qquad \\geq L ^ { - 1 } C _ { 1 } \\| u \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } ^ { p - } - L ^ { - 1 } \\bigg ( \\| \\psi \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } ^ { p - } + \\| \\nabla \\psi \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } ^ { p - } \\bigg ) - \\varepsilon \\| u \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } ^ { p - } - C _ { 5 } ( \\varepsilon , p _ { \\pm } , \\Omega ) \\| g \\| _ { L ^ { q ( \\cdot ) } } ^ { \\frac { p - } { p - } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Choose $ { \\varepsilon } \\in ( 0 , 1 )$ such that $L ^ { - 1 } C _ { 1 } - \\varepsilon > 0$ ,then (18) yields ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { T } _ { \\gamma } ( u ) > - L ^ { - 1 } \\bigg ( \\| \\psi \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } ^ { p _ { - } } + \\| \\nabla \\psi \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } ^ { p _ { - } } \\bigg ) - C _ { 5 } ( \\varepsilon , p _ { \\pm } , \\Omega ) \\| g \\| _ { L ^ { q ( \\cdot ) } ( \\Omega ) } ^ { \\frac { p _ { - } } { p _ { - } - 1 } } > - \\infty .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(ii) If $\\| \\nabla u \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } \\leq 1$ , we estimate by (4), (14) and (16) ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathcal { I } _ { \\gamma } ( u ) \\geq L ^ { - 1 } \\displaystyle \\int _ { \\Omega } | \\nabla u | ^ { p ( x ) } \\mathrm { d } x - \\left| \\int _ { \\Omega } g u \\mathrm { d } x \\right| } \\\\ & { \\qquad \\geq L ^ { - 1 } \\| \\nabla u \\| _ { L ^ { p ( x ) } ( \\Omega ) } ^ { p + } - \\left| \\int _ { \\Omega } g u \\mathrm { d } x \\right| } \\\\ & { \\qquad \\geq L ^ { - 1 } C _ { 2 } \\| u \\| _ { L ^ { p ( x ) } ( \\Omega ) } ^ { p + } - L ^ { - 1 } \\bigg ( \\| \\psi \\| _ { L ^ { p ( x ) } ( \\Omega ) } ^ { p + } + \\| \\nabla \\psi \\| _ { L ^ { p ( x ) } ( \\Omega ) } ^ { p + } \\bigg ) - \\varepsilon \\| u \\| _ { L ^ { p ( x ) } ( \\Omega ) } ^ { p + } - C _ { 6 } ( \\varepsilon , p _ { \\pm } , \\Omega ) \\| g \\| _ { L ^ { q } } ^ { \\frac { p + } { p + } } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Choose $ { \\varepsilon } \\in ( 0 , 1 )$ such that $L ^ { - 1 } C _ { 2 } - \\varepsilon > 0$ ,then (19) gives ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { T } _ { \\gamma } ( u ) > - L ^ { - 1 } \\bigg ( \\| \\psi \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } ^ { p _ { + } } + \\| \\nabla \\psi \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } ^ { p _ { + } } \\bigg ) - C _ { 6 } ( \\varepsilon , p _ { \\pm } , \\Omega ) \\| g \\| _ { L ^ { q ( \\cdot ) } ( \\Omega ) } ^ { \\frac { p _ { + } } { p _ { + } - 1 } } > - \\infty .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Let us now prove existence of a minimizer of $\\mathcal { I } _ { \\gamma } ( u )$ . Let $u _ { j } \\in \\mathcal { K }$ be a minimizing sequence.We shall show that $\\{ u _ { j } - \\psi \\}$ (up to asubsequence) is boundedin $W _ { 0 } ^ { 1 , p ( \\cdot ) } ( \\Omega )$ .Without loss of generalitysset $\\| \\nabla u _ { j } \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } > 1$ (If not, then （204 $\\| \\nabla u _ { j } \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } \\leq 1$ ， which implies $\\| u _ { j } - \\psi \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } \\leq C \\| \\nabla u _ { j } - \\nabla \\psi \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } \\leq C + C \\| \\nabla \\psi \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } < \\infty )$ . Now for $j \\gg 1$ ， $\\mathcal { I } _ { \\gamma } ( u _ { j } ) \\leq I _ { 0 } + 1$ . From(17), (15) and (12) and applying Young' inequality with $\\varepsilon$ ,we derive ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\| \\nabla u _ { j } \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } ^ { p _ { - } } \\leq \\int _ { \\Omega } | \\nabla u _ { j } | ^ { p ( x ) } \\mathrm { d } x } & { } \\\\ { \\leq L \\mathcal { I } _ { \\gamma } ( u _ { j } ) + L \\bigg | \\int _ { \\Omega } g u _ { j } \\mathrm { d } x \\bigg | } & { } \\\\ { \\leq L ( I _ { 0 } + 1 ) + L C _ { 7 } ( p _ { \\pm } , \\Omega , \\| g \\| _ { L ^ { q ( \\cdot ) } ( \\Omega ) } ) \\| u _ { j } \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } , } & { } \\\\ { \\leq C _ { 8 } ( \\| \\nabla u \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } + \\| \\nabla \\psi \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } + \\| \\psi \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } ) + L \\big ( I _ { 0 } + 1 \\big ) , } & { } \\\\ { \\leq \\frac { 1 } { 2 } \\| \\nabla u _ { j } \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } ^ { p _ { - } } + C _ { 9 } \\big ( 1 + \\| \\nabla \\psi \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } + \\| \\psi \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } \\big ) , } & { } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $C _ { 8 } , C _ { 9 }$ depend only on $L , I _ { 0 } , p _ { \\pm } , \\Omega , \\| g \\| _ { L ^ { q ( \\cdot ) } ( \\Omega ) }$ . Therefore, we get ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| \\nabla u _ { j } \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } ^ { p _ { - } } \\leq 2 C _ { 9 } ( 1 + \\| \\nabla \\psi \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } + \\| \\psi \\| _ { L ^ { p ( \\cdot ) } ( \\Omega ) } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Thus,using Poincareinequaltiyoncemore,wedducethat $\\{ u _ { j } - \\psi \\}$ is bounded in $W _ { 0 } ^ { 1 , p ( \\cdot ) } ( \\Omega )$ . By reflexivity, there is a function $u \\in \\mathcal K$ such that, up to a subsequence, ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { j }  u \\mathrm { w e a k l y i n } W ^ { 1 , p ( \\cdot ) } ( \\Omega ) , u _ { j } \\to u \\mathrm { i n } L ^ { p ( \\cdot ) } ( \\Omega ) , u _ { j } \\to u \\mathrm { a . e . i n } \\Omega .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "With a slight modification of [12, Theorem 1.6], we deduce from (3) and (4) that ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { \\Omega } f ( x , | \\nabla u | ) \\mathrm { d } x \\leq \\operatorname* { l i m } _ { j  \\infty } \\operatorname* { i n f } _ { } \\int _ { \\Omega } f ( x , | \\nabla u _ { j } | ) \\mathrm { d } x .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "By pointwise convergence we have, in the case of $0 < \\gamma \\leq 1$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { \\Omega } ( F _ { \\gamma } ( u ) + g u ) \\mathrm { d } x \\leq \\operatorname* { l i m i n f } _ { j  \\infty } \\int _ { \\Omega } ( F _ { \\gamma } ( u _ { j } ) + g u _ { j } ) \\mathrm { d } x .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For $\\gamma = 0$ ,recalling that $\\lambda _ { + } > \\lambda _ { - } > 0$ ,we have ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } {  { \\int _ { \\Omega } \\lambda _ { - } \\chi _ { \\{ u \\leq 0 \\} } \\mathrm d x = \\int _ { \\{ u \\leq 0 \\} } \\lambda _ { - } \\chi _ { \\{ u _ { j } > 0 \\} } \\mathrm d x + \\int _ { \\{ u \\leq 0 \\} } \\lambda _ { - } \\chi _ { \\{ u _ { j } \\leq 0 \\} } \\mathrm d x } } \\\\ & { \\leq \\int _ { \\{ u \\leq 0 \\} } \\lambda _ { + } \\chi _ { \\{ u _ { j } > 0 \\} } \\mathrm d x + \\int _ { \\Omega } \\lambda _ { - } \\chi _ { \\{ u _ { j } \\leq 0 \\} } \\mathrm d x , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "which implies ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { \\Omega } \\lambda _ { - } \\chi _ { \\{ u \\leq 0 \\} } \\mathrm { d } x \\leq \\operatorname* { l i m i n f } _ { j \\to \\infty } \\bigg ( \\int _ { \\{ u \\leq 0 \\} } \\lambda _ { + } \\chi _ { \\{ u _ { j } > 0 \\} } \\mathrm { d } x + \\int _ { \\Omega } \\lambda _ { - } \\chi _ { \\{ u _ { j } \\leq 0 \\} } \\mathrm { d } x \\bigg ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, since $u _ { j }  u$ a.e. in $\\Omega$ , it follows from the Dominated Convergence Theorem that ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\displaystyle \\int _ { \\Omega } \\lambda _ { + } \\vartheta _ { \\{ u > 0 \\} } \\mathrm { d } x = \\int _ { \\{ u > 0 \\} } \\lambda _ { + } \\big ( \\operatorname* { l i m } _ { j \\to \\infty } \\chi _ { \\{ u _ { j } > 0 \\} } \\big ) \\mathrm { d } x } \\\\ { = \\displaystyle \\operatorname* { l i m } _ { j \\to \\infty } \\int _ { \\{ u > 0 \\} } \\lambda _ { + } \\chi _ { \\{ u _ { j } > 0 \\} } \\mathrm { d } x . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Hence ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { \\Omega } ( F _ { 0 } ( u ) + g u ) \\mathrm { d } x \\leq \\operatorname* { l i m } _ { j  \\infty } \\int _ { \\Omega } ( F _ { 0 } ( u _ { j } ) + g u _ { j } ) \\mathrm { d } x .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Now from (20),(21) and (22) we conclude that ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { I } _ { \\gamma } ( u ) \\leq \\operatorname* { l i m } _ { j  \\infty } \\mathcal { I } _ { \\gamma } ( u _ { j } ) = I _ { 0 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "for all $0 \\leq \\gamma \\leq 1$ , which proves the existence of a minimizer under the condition of $g \\in L ^ { q ( \\cdot ) } ( \\Omega )$ = ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Secondly, we establish the $L ^ { \\infty }$ -boundedness of $u _ { \\gamma }$ , provided $g \\in L ^ { q ( \\cdot ) } ( \\Omega )$ . Hereafter in this proof we will refer $u _ { \\gamma }$ as $u$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Let $j _ { 0 } : = \\bigl ( \\operatorname* { s u p } _ { \\partial \\Omega } \\psi \\bigr )$ be the smallest natural number above $\\operatorname* { s u p } \\psi$ . For each $j \\geq j _ { 0 }$ , we define the truncated function $u _ { j } : \\Omega \\to \\mathbb { R }$ am   \nby ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { j } = \\left\\{ \\begin{array} { l l } { j \\cdot s i n g ( u ) , \\mathrm { i f } | u | > j , } \\\\ { u , \\mathrm { i f } | u | \\le j , } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $s i n g ( u ) = 1$ if $u \\geq 0$ and $s i n g ( u ) = - 1$ if $u < 0$ . Define the set $A _ { j } : = \\{ | u | > j \\}$ .For $0 < \\gamma \\leq 1$ , in view of the minimality of $u$ ,we derive ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } {  { \\int _ { A _ { j } } f ( x , \\nabla u ) \\mathrm { d } x = \\int _ { \\Omega } ( f ( x , \\nabla u ) - f ( x , \\nabla u _ { j } ) ) + \\int _ { A _ { j } } f ( x , \\nabla u _ { j } ) \\mathrm { d } x } } \\\\ & { \\le \\int _ { A _ { j } } g ( u _ { j } - u ) \\mathrm { d } x + \\int _ { A _ { j } } \\lambda _ { + } ( ( u _ { j } ^ { + } ) ^ { \\gamma } - ( u ^ { + } ) ^ { \\gamma } ) \\mathrm { d } x + \\int _ { A _ { j } } \\lambda _ { - } ( ( u _ { j } ^ { - } ) ^ { \\gamma } - ( u ^ { - } ) ^ { \\gamma } ) \\mathrm { d } x + L | A | } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Now we estimate each integration in the right side of (23). ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } {  { \\int _ { A _ { j } } \\lambda _ { + } ( ( u _ { j } ^ { + } ) ^ { \\gamma } - ( u ^ { + } ) ^ { \\gamma } ) \\mathrm d x = \\lambda _ { + } \\int _ { A _ { j } \\cap \\{ u > 0 \\} } ( j ^ { \\gamma } - | u | ^ { \\gamma } ) \\mathrm d x + \\lambda _ { + } \\int _ { A _ { j } \\cap \\{ u \\leq 0 \\} } \\bigg ( ( ( - j ) ^ { + } ) ^ { \\gamma } - ( u ^ { + } ) ^ { \\gamma } \\bigg ) \\mathrm d x } } \\\\ & { } & { \\leq 0 . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } {  { \\int _ { A _ { j } } \\lambda _ { - } ( ( u _ { j } ^ { - } ) ^ { \\gamma } - ( u ^ { - } ) ^ { \\gamma } ) \\mathrm { d } x = \\lambda _ { - } \\int _ { A _ { j } \\cap \\{ u \\leq 0 \\} } ( j ^ { \\gamma } - | u | ^ { \\gamma } ) \\mathrm { d } x + \\lambda _ { - } \\int _ { A _ { j } \\cap \\{ u > 0 \\} } \\Big ( ( j ^ { - } ) ^ { \\gamma } - ( u ^ { - } ) ^ { \\gamma } \\Big ) \\mathrm { d } x } } \\\\ & { } & { \\leq 0 . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Then we find ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { A _ { j } } ( F _ { \\gamma } ( u _ { j } ) - F _ { \\gamma } ( u ) ) \\mathrm { d } x \\leq 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For the first integration in the right side of (23), it follows ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\int _ { A _ { j } } g ( u _ { j } - u ) \\mathrm { d } x = \\int _ { A _ { j } \\cap \\{ u > 0 \\} } g ( j - u ) \\mathrm { d } x + \\int _ { A _ { j } \\cap \\{ u \\leq 0 \\} } g ( u - j ) \\mathrm { d } x } \\\\ { \\displaystyle \\qquad \\leq 2 \\int _ { A _ { j } } | g | ( | u | - j ) \\mathrm { d } x . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For $\\gamma = 0$ it suffices to notice that $u _ { j } > 0$ and $u$ have the same sign. By the choice of the truncated function, we know that $( | u | - j ) ^ { + } \\in W _ { 0 } ^ { 1 , p ( \\cdot ) } ( A _ { j } )$ $\\begin{array} { r } { \\frac { 1 } { t ( \\cdot ) } = 1 - \\frac { 1 } { p ( \\cdot ) } - \\frac { 1 } { q ( \\cdot ) } } \\end{array}$ ， $t _ { - } = \\operatorname* { i n f } _ { x \\in \\Omega } t ( x )$ ：， $t _ { + } = \\operatorname* { s u p } _ { x \\in \\Omega } t ( x )$ $\\begin{array} { r } { p ^ { * } ( \\cdot ) = \\frac { n p ( \\cdot ) } { n - p ( \\cdot ) } } \\end{array}$ Applying Holde s inequality and embedding theorem, we find ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\int _ { A _ { 3 } } \\| y \\| [ \\kappa | - j \\rangle + \\Phi \\mathbf { z } \\leq 2 ] g \\| \\underset { L _ { 2 } ^ { p ( \\cdot ) - 1 } ( A _ { 3 } ) } { \\sum \\hat { \\kappa } ( \\mathbf { z } ) } \\| ( | \\mathbf { z } | - j \\rangle ) ^ { - 1 } \\| _ { L ^ { \\infty } ( \\Omega _ { 3 } ) } } \\\\ & { \\leq C \\| \\boldsymbol { y } \\| \\underset { L ^ { p ( \\cdot ) } ( A _ { 3 } ) } { \\sum \\hat { \\kappa } ( \\mathbf { z } ) } \\| \\| \\mathbf { z } \\omega ( \\boldsymbol { \\hat { x } } ) \\| [ \\omega ( \\boldsymbol { x } ) - j \\rangle ] \\| _ { L ^ { p ( \\cdot ) } ( A _ { 3 } ) } \\| \\| \\mathbf { z } \\omega ( \\boldsymbol { \\hat { x } } ) \\| [ \\omega \\boldsymbol { x } ( \\boldsymbol { \\hat { x } } ) } \\\\ & { \\leq \\{ \\begin{array} { l l } { C \\| \\boldsymbol { y } \\| _ { L ^ { \\infty } ( B ) } \\omega ( \\mathbf { z } ) \\| A _ { 3 } \\rangle | ^ { - \\frac { 1 } { 2 } + \\frac { 1 } { n } } \\| \\nabla \\langle | u | - j \\rangle \\| + \\| _ { L ^ { p ( \\cdot ) } ( \\Omega _ { 3 } ) } \\hat { \\kappa } \\| \\omega \\boldsymbol { x } \\rangle , } & { \\mathrm { i f } | \\omega \\boldsymbol { z } \\| \\leq 1 } \\\\ { C \\| \\eta \\| ^ { - \\kappa } \\langle | y \\| _ { L ^ { \\infty } ( B ) } \\omega ( \\mathbf { z } ) \\| A _ { 3 } \\rangle ^ { - 1 } \\| \\nabla \\langle | u | - j \\rangle \\| _ { L ^ { p ( \\cdot ) } ( \\Omega _ { 3 } ) } \\hat { \\kappa } \\| \\neq 1 } & \\end{array}  } \\\\ &  = \\{ \\begin{array} { l l } { C | \\mathrm { R } | ^ { \\frac { 1 } { p } - \\frac { 1 } { n } } \\langle \\frac { | A _ { 3 } | } { | A _ { 3 } | } \\rangle ^ { p - 1 } \\| \\nabla \\langle | u | - j \\rangle \\| _ { L ^ { p ( \\cdot ) } ( \\Omega _ { 3 } ) } \\hat { \\kappa } \\| \\omega \\boldsymbol { x } \\rangle , } & { \\mathrm { i f } | A _ { 3 } | \\leq 1 } \\\\ { C | \\mathrm { R } | ^ { \\frac { 1 } { p } - \\frac { 1 } { n } } \\langle \\frac { | A _ { 3 } | } { | A _ { 3 } | } \\rangle _ { \\mathrm { r e f } } ^ { - 1 } \\neq \\mathrm { i } | \\nabla \\langle | u | - j \\rangle \\| _ { L ^ { p ( \\cdot ) } ( \\Omega _ { 3 } ) } \\mathrm { ~ i f ~ } | A _ { 3 } | \\leq 1 } \\\\  \\leq C \\Big ( 1 + | \\boldsymbol { \\Omega } | ^ { \\frac { 1 } { p } - \\frac { 1 } { n } } \\Big ) \\Big ( \\Big | \\frac { | A _ { 3 } | }  | \\Omega _ { 3 } | \\end{array} \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where the constant $C$ in the last inequality depends only on $p _ { \\pm } , q _ { - } , n , \\Omega , \\| g \\| _ { L ^ { q ( \\cdot ) } ( \\Omega ) }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Collecting (23)-(26),we obtain ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { A _ { j } } f ( x , \\nabla u ) \\mathrm { d } x \\leq C \\left( \\frac { | A _ { j } | } { | \\Omega | } \\right) ^ { \\frac { 1 } { t _ { + } } + \\frac { 1 } { n } } \\| \\nabla u \\| _ { L ^ { p ( \\cdot ) } ( A _ { j } ) } + L | A _ { j } | ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where C depends only on p±,q-,n,Ω,Ilgl Lq(-)(Ω):",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Now we consider two cases: (i) $\\| \\nabla u \\| _ { L ^ { p ( \\cdot ) } ( A _ { j } ) } > 1$ , and (ii) $\\| \\nabla u \\| _ { L ^ { p ( \\cdot ) } ( A _ { j } ) } \\leq 1$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(i) If $\\| \\nabla u \\| _ { L ^ { p ( \\cdot ) } ( A _ { j } ) } > 1$ ,we estimate by (4), (27) and Young' inequality ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\| \\nabla u \\| _ { L ^ { p ( \\cdot ) } ( A _ { j } ) } ^ { p _ { - } } \\leq \\int _ { A _ { j } } | \\nabla u | ^ { p ( x ) } \\mathrm { d } x\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\leq L \\displaystyle \\int _ { A _ { j } } f ( x , \\nabla u ) \\mathrm { d } x } \\\\ & { \\leq C \\left( \\frac { | A _ { j } | } { | \\Omega | } \\right) ^ { \\frac { 1 } { t _ { + } } + \\frac { 1 } { n } } \\| \\nabla u \\| _ { L ^ { p ( \\cdot ) } ( A _ { j } ) } + L ^ { 2 } | A _ { j } | } \\\\ & { \\leq C \\left( \\displaystyle \\frac { | A _ { j } | } { | \\Omega | } \\right) ^ { ( \\frac { 1 } { t _ { + } } + \\frac { 1 } { n } ) \\frac { p _ { - } } { p _ { - } - 1 } } + \\displaystyle \\frac { 1 } { 2 } \\| \\nabla u \\| _ { L ^ { p ( \\cdot ) } ( A _ { j } ) } ^ { p _ { - } } + L ^ { 2 } | A _ { j } | , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "which implies ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\| \\nabla u \\| _ { L ^ { p ( \\cdot ) } ( A _ { j } ) } ^ { p _ { - } } \\leq C \\left( \\frac { | A _ { j } | } { | \\Omega | } \\right) ^ { ( \\frac { 1 } { \\tau _ { + } } + \\frac { 1 } { n } ) \\frac { p _ { - } } { p _ { - } - 1 } } + L ^ { 2 } | A _ { j } | = C \\left( \\frac { | A _ { j } | } { | \\Omega | } \\right) ^ { ( 1 - \\frac { 1 } { p _ { - } } - \\frac { 1 } { q _ { - } } + \\frac { 1 } { n } ) \\frac { p _ { - } } { p _ { - } - 1 } } + L ^ { 2 } | A _ { j } | .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Therefore ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\| \\nabla u \\| _ { L ^ { p ( \\cdot ) } ( A _ { j } ) } \\leq C \\left( \\frac { | A _ { j } | } { | \\Omega | } \\right) ^ { ( 1 - \\frac { 1 } { p _ { - } } - \\frac { 1 } { q _ { - } } + \\frac { 1 } { n } ) \\frac { 1 } { p _ { - } - 1 } } + C \\left( \\frac { | A _ { j } | } { | \\Omega | } \\right) ^ { \\frac { 1 } { p _ { - } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $C$ depends only on $L , p _ { \\pm } , q _ { - } , n , \\Omega , \\| g \\| _ { L ^ { q ( \\cdot ) } ( \\Omega ) }$ （2 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "On the other hand,by an analogue argument as (26) and Young' inequality, we obtain ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\displaystyle \\int _ { A _ { j } } \\big ( | u | - j \\big ) ^ { + } \\mathrm { d } x \\le 2 \\| 1 \\| _ { L ^ { \\frac { p ( \\cdot ) } { p ( \\cdot ) - 1 } } ( A _ { j } ) } \\| \\big ( | u | - j \\big ) ^ { + } \\| _ { L ^ { p ( \\cdot ) } ( A _ { j } ) } } & { } \\\\ { \\le \\left\\{ \\begin{array} { l l } { C | A _ { j } | ^ { - \\frac { 1 } { p _ { + } } + \\frac { 1 } { p _ { + } } } | \\nabla u | _ { L ^ { \\alpha ( \\cdot ) } ( A _ { j } ) } , \\mathrm { ~ i f ~ } | A _ { j } | > 1 } & { } \\\\ { C | A _ { j } | ^ { - \\frac { 1 } { p _ { + } } + \\frac { 1 } { p _ { + } } } | \\nabla u | _ { L ^ { \\alpha ( \\cdot ) } ( A _ { j } ) } , \\mathrm { ~ i f ~ } | A _ { j } | \\le 1 } & { } \\end{array} \\right. } \\\\ { \\le C \\left( \\frac { | A _ { j } | } { | \\Omega | } \\right) ^ { 1 - \\frac { 1 } { p _ { - } } + \\frac { 1 } { p _ { + } } } \\| \\nabla u \\| _ { L ^ { \\alpha ( \\cdot ) } ( A _ { j } ) } } & { } \\\\ { \\le C \\left( \\frac { | A _ { j } | } { | \\Omega | } \\right) ^ { 1 - \\frac { 1 } { p _ { - } } + \\frac { 1 } { p _ { + } } } \\left( \\left( \\frac { | A _ { j } | } { | \\Omega | } \\right) ^ { ( 1 - \\frac { 1 } { p _ { - } } - \\frac { 1 } { p _ { - } } + \\frac { 1 } { n } ) \\frac { 1 } { p _ { - - } } } + C \\left( \\frac { | A _ { j } | } { | \\Omega | } \\right) ^ { \\frac { 1 } { p _ { - } } } \\right) } \\\\ { \\displaystyle - C \\left( \\frac { | A _ { j } | } { | \\Omega | } \\right) ^ { ( 1 - \\frac { 1 } { p _ { - } } - \\frac { 1 } { q _ { - } } + \\frac { 1 } { p _ { - } } ) \\frac { 1 } { p _ { - - } + 1 } + ( 1 - \\frac { 1 } { p _ { - } } - \\frac { 1 } { p _ { + } } ) } + C \\left( \\frac { | A _ { j } | } { | \\Omega | } \\right) ^ { \\frac { 1 } { p _ { - } } } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where inthe last inequality weused (28),theconstant $C$ depends only on $L , p _ { \\pm } , q _ { - } , n , \\Omega , \\| g \\| _ { L ^ { q ( \\cdot ) } ( \\Omega ) }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(ii) If $\\| \\nabla u \\| _ { L ^ { p ( \\cdot ) } ( A _ { j } ) } \\leq 1$ , analogously, we deduce that ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { A _ { j } } ( | u | - j ) ^ { + } \\mathrm { d } x \\le C \\left( \\frac { | A _ { j } | } { | \\Omega | } \\right) ^ { ( 1 - \\frac { 1 } { p _ { - } } - \\frac { 1 } { q _ { - } } + \\frac { 1 } { n } ) \\frac { 1 } { p _ { + } - 1 } + ( 1 - \\frac { 1 } { p _ { - } } - \\frac { 1 } { n } ) } + C \\left( \\frac { | A _ { j } | } { | \\Omega | } \\right) ^ { 1 + \\frac { 1 } { n } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where the constant $C$ depends only on $L , p _ { \\pm } , q _ { - } , n , \\Omega , \\| g \\| _ { L ^ { q ( \\cdot ) } ( \\Omega ) }$ Now combining (29) and (30), we get ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { A _ { j } } ( | u | - j ) ^ { + } \\mathrm { d } x \\le C \\left( \\frac { | A _ { j } | } { | \\Omega | } \\right) ^ { ( 1 - \\frac { 1 } { p _ { - } } - \\frac { 1 } { q _ { - } } + \\frac { 1 } { n } ) \\frac { 1 } { p _ { + } - 1 } + ( 1 - \\frac { 1 } { p _ { - } } - \\frac { 1 } { n } ) } + C \\left( \\frac { | A _ { j } | } { | \\Omega | } \\right) ^ { 1 + \\frac { 1 } { n } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $\\begin{array} { r } { \\epsilon _ { 0 } = \\operatorname* { m i n } \\{ \\frac { 1 } { n } , ( 1 - \\frac { 1 } { p _ { - } } - \\frac { 1 } { q _ { - } } + \\frac { 1 } { n } ) \\frac { 1 } { p _ { + } - 1 } + ( 1 - \\frac { 1 } { p _ { - } } - \\frac { 1 } { n } ) - 1 \\} } \\end{array}$ and $C$ depends only on $L , p _ { \\pm } , q _ { - } , n , \\Omega , \\| g \\| _ { L ^ { q ( \\cdot ) } ( \\Omega ) } .$ Notice that by (9) we have $\\begin{array} { r } { \\frac { 1 } { q _ { - } } < \\frac { 1 } { n } - \\frac { 1 } { p _ { - } } + \\frac { 1 } { p _ { + } } } \\end{array}$ thus $\\epsilon _ { 0 } > 0$ Notice aso hat $\\| u \\| _ { L ^ { 1 } ( A _ { j _ { 0 } } ) } \\le \\left( 1 + | A _ { j _ { 0 } } | ^ { \\frac { p _ { - } - 1 } { p _ { - } } } \\right) \\| u \\| _ { L ^ { p ( x ) } ( A _ { j _ { 0 } } ) } \\le C$ ， Applying [11, Lemma 5.1], we obtain the desired result. ? ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Remark 1 Note that in $I 5 J ,$ the assumption that $\\begin{array} { r } { \\int _ { \\Omega } | \\nabla u | ^ { p ( x ) } d x \\leq M } \\end{array}$ with some $M \\geq 0$ is assumed in the establishment of local regularity for minimizers of $a$ functional with a form $\\begin{array} { r } { \\int _ { \\Omega } f ( x , u , \\nabla u ) d x } \\end{array}$ ， while in this paper, we can show that any minimizer $u _ { \\gamma }$ of $\\mathcal { I } _ { \\gamma } ( u )$ governed by (2) is uniformly bounded in $W ^ { 1 , p ( \\cdot ) } ( \\Omega )$ by $L ^ { \\infty }$ -estimates of $u _ { \\gamma }$ . Indeed, we have ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } {  { \\int _ { \\Omega } | \\nabla u _ { \\gamma } | ^ { p ( x ) } d x \\le L \\int _ { \\Omega } f ( x , \\nabla u _ { \\gamma } ) d x } } \\\\ & { } & { \\le L \\bigg ( \\mathcal { T } _ { \\gamma } ( \\psi ) - \\int _ { \\Omega } F ( u _ { \\gamma } ) d x + \\int _ { \\Omega } | g u _ { \\gamma } | d x \\bigg ) } \\\\ & { } & { \\le L \\mathcal { T } _ { \\gamma } ( \\psi ) + C ( L , n , p _ { \\pm } , \\lambda _ { \\pm } , \\Omega , \\| \\psi \\| _ { L ^ { \\infty } ( \\partial \\Omega ) } , \\| g \\| _ { L ^ { q ( \\cdot ) } ( \\Omega ) } ) } \\\\ & { } & { \\le M , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $M = M ( L , n , q _ { - } , p _ { \\pm } , \\lambda _ { \\pm } , \\Omega , \\Vert \\psi \\Vert _ { L ^ { \\infty } ( \\partial \\Omega ) } , \\Vert g \\Vert _ { L ^ { q ( \\cdot ) } ( \\Omega ) } )$ is a positive constant. Therefore, we conclude by $u _ { \\gamma } \\mathrm { ~ - ~ } \\psi \\in$ $W _ { 0 } ^ { 1 , p ( \\cdot ) } ( \\Omega )$ that $\\| u _ { \\gamma } \\| _ { W ^ { 1 , p ( \\cdot ) } ( \\Omega ) } \\leq C$ where $C$ is independent of $\\gamma$ ， ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4High integrability ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In this section we prove a higher integrability result for minimizers of functional in (2). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Proposition 5 Assume that (3)-(9) hold. Let $u \\in \\mathcal K$ be a minimizer of the functional $\\mathcal { I } _ { \\gamma }$ governed by (2). Then there exist two positive constants $C _ { 0 }$ and $\\delta _ { 0 } < q _ { - } ( 1 - \\textstyle { \\frac { 1 } { p _ { - } } } ) - 1$ , both depending only on $n , p _ { \\pm } , \\lambda _ { \\pm } , q _ { - } , L , M , \\Omega ,$ such that ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\frac { 1 } { | B _ { R / 2 } | } \\int _ { B _ { R / 2 } } | \\nabla u | ^ { p ( x ) ( 1 + \\delta _ { 0 } ) } d x \\right) ^ { \\frac { 1 } { 1 + \\delta _ { 0 } } } \\leq \\frac { C _ { 0 } } { | B _ { R } | } \\int _ { B _ { R } } | \\nabla u | ^ { p ( x ) } d x + C _ { 0 } \\left( \\frac { 1 } { | B _ { R } | } \\int _ { B _ { R } } ( 1 + | g | ^ { \\frac { p - } { p - } ( 1 + \\delta _ { 0 } ) } ) d x \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "for all $B _ { R } \\Subset \\Omega$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In order to prove Proposition 4.1,we need the following iteration lemma. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Lemma 6 $\\lceil 5 J L e t 0 < \\theta < 1 , A > 0 , B \\geq 0 , 1 < p _ { - } \\leq p ( x ) \\leq p _ { + } < + \\infty ,$ and let $f \\geq 0$ be a bounded function on $( r , R )$ satisfying ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( t ) \\leq \\theta f ( s ) + A \\int _ { B _ { R } } \\left. { \\frac { h ( x ) } { s - t } } \\right. ^ { p ( x ) } d x + B ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "for all $r \\leq t < s \\leq R$ where $h \\in L ^ { p ( \\cdot ) } ( B _ { R } )$ . Then there exists a constant $C = C ( \\theta , p _ { + } )$ such that ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( r ) \\leq C { \\bigg ( } A \\int _ { B _ { R } } { \\bigg | } { \\frac { h ( x ) } { R - r } } { \\bigg | } ^ { p ( x ) } d x + B { \\bigg ) } .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Proof of Proposition 5 Let $0 < R < R _ { 0 } \\leq 1$ and let $x _ { 0 } \\in B _ { R }$ with $\\overline { { B } } _ { R _ { 0 } } ( x _ { 0 } ) \\subset \\Omega$ Let $t , s \\in \\mathbb { R }$ with $\\textstyle { \\frac { R } { 2 } } < t < s < R$ Let （204 $\\eta \\in C _ { c } ^ { \\infty } ( B _ { R } ) , 0 \\leq \\eta \\leq 1$ , be a cut-off function with $\\eta \\equiv 1$ on $B _ { t } , \\eta \\equiv 0$ outside $B _ { s }$ and $\\begin{array} { r } { | \\nabla \\eta | \\le \\frac { 2 } { s - t } } \\end{array}$ . We define the function $z = u - \\eta ( u - ( u ) _ { R } )$ .We deduce from (4) and minimality of $u$ that ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } {  { L ^ { - 1 } \\int _ { B _ { t } } | \\nabla u | ^ { p ( x ) } \\mathrm { d } x \\le \\int _ { B _ { t } } f ( x , \\nabla u ) \\mathrm { d } x } } \\\\ & { \\le \\int _ { B _ { s } } f ( x , \\nabla u ) \\mathrm { d } x } \\\\ & { \\le \\displaystyle \\int _ { B _ { s } } f ( x , \\nabla z ) + ( F _ { \\gamma } ( z ) - F _ { \\gamma } ( u ) ) + g ( z - u ) \\mathrm { d } x } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\leq L \\int _ { B _ { s } } { ( \\mu ^ { 2 } + | \\nabla z | ^ { 2 } ) ^ { \\frac { p ( x ) } { 2 } } \\mathrm { d } x } + \\int _ { B _ { s } } { F _ { \\gamma } ( z ) - F _ { \\gamma } ( u ) \\mathrm { d } x } + \\int _ { B _ { s } } { g ( z - u ) \\mathrm { d } x } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where in the last butone inequality weused thefact thatif $\\varphi \\in W _ { 0 } ^ { 1 , p ( \\cdot ) } ( \\Omega )$ with spt $\\varphi \\Subset \\Omega$ , then there holds ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { \\operatorname { s p t } _ { \\varphi } } \\rho \\big ( f ( x , \\nabla u ) + F _ { \\gamma } ( u ) + g u \\big ) \\mathrm { d } x \\leq \\int _ { \\operatorname { s p t } _ { \\varphi } } \\big ( f ( x , \\nabla u + \\nabla \\varphi ) + F _ { \\gamma } ( u + \\varphi ) + g ( u + \\varphi ) \\big ) \\mathrm { d } x .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Indeed,it follows from the minimality of $u$ that ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\int _ { \\mathbb { S } \\backslash \\{ \\varphi \\} } \\big ( f ( x , \\nabla u ) + F _ { \\gamma } ( u ) + g u \\big ) \\mathrm { d } x + \\int _ { \\Omega \\backslash \\{ \\log \\varphi \\} } \\big ( f ( x , \\nabla u ) + F _ { \\gamma } ( u ) + g u \\big ) \\mathrm { d } x } \\\\ { \\displaystyle \\quad \\leq \\int _ { \\mathbb { S } \\backslash \\varphi } \\big ( f ( x , \\nabla u + \\nabla \\varphi ) + F _ { \\gamma } ( u + \\varphi ) + g ( u + \\varphi ) \\big ) \\mathrm { d } x + \\int _ { \\Omega \\backslash \\{ \\varphi \\} } \\big ( f ( x , \\nabla u + \\nabla \\varphi ) + F _ { \\gamma } ( u + \\varphi ) + \\varphi \\big ) \\mathrm { d } x } \\\\ { \\displaystyle \\quad \\leq \\int _ { \\mathbb { S } \\backslash \\varphi } \\big ( f ( x , \\nabla u + \\nabla \\varphi ) + F _ { \\gamma } ( u + \\varphi ) + g ( u + \\varphi ) \\big ) \\mathrm { d } x + \\int _ { \\Omega \\backslash \\{ \\varphi \\} } \\big ( f ( x , \\nabla u + \\nabla \\varphi ) + F _ { \\gamma } ( u + \\varphi ) + \\varphi \\big ) \\mathrm { d } x } \\\\ { \\displaystyle = \\int _ { \\mathbb { S } \\backslash \\varphi } \\big ( f ( x , \\nabla u + \\nabla \\varphi ) + F _ { \\gamma } ( u + \\varphi ) + g ( u + \\varphi ) \\big ) \\mathrm { d } x + \\int _ { \\Omega \\backslash \\{ \\varphi \\} } \\big ( f ( x , \\nabla u ) + F _ { \\gamma } ( u ) + g u \\big ) \\mathrm { d } x . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We shall estimate each integration of (32). ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\int _ { B _ { s } } | \\nabla z | ^ { p ( x ) } \\mathrm { d } x \\le \\int _ { B _ { s } } | ( 1 - \\eta ) \\nabla u - \\nabla \\eta ( u - ( u ) _ { R } ) | ^ { p ( x ) } \\mathrm { d } x } \\\\ { \\displaystyle \\qquad \\le C \\int _ { B _ { s } \\setminus B _ { t } } | \\nabla u | ^ { p ( x ) } \\mathrm { d } x + C \\int _ { B _ { s } } \\left| \\frac { u - ( u ) _ { R } } { s - t } \\right| ^ { p ( x ) } \\mathrm { d } x , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where $C = C ( p _ { + } , p _ { - } )$ is a positive constant. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A direct calculus shows that ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\int _ { B _ { s } } F _ { \\gamma } ( z ) - F _ { \\gamma } ( u ) \\mathrm { d } x = \\lambda _ { + } \\int _ { B _ { s } } ( ( { z } ^ { + } ) ^ { \\gamma } - ( { u } ^ { + } ) ^ { \\gamma } ) \\mathrm { d } x + \\lambda _ { - } \\int _ { B _ { s } } ( ( { z } ^ { - } ) ^ { \\gamma } - ( { u } ^ { - } ) ^ { \\gamma } ) \\mathrm { d } x } \\\\ { \\displaystyle \\qquad \\leq C \\int _ { B _ { s } } | z - u | ^ { \\gamma } \\mathrm { d } x , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where $C = C ( \\lambda _ { + } , \\lambda _ { - } )$ is a positive constant. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Then we estimate from Young' inequality that ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } {  { \\int _ { B _ { s } } F _ { \\gamma } ( z ) - F _ { \\gamma } ( u ) \\mathrm { d } x \\le C \\int _ { B _ { s } } | u - ( u ) _ { R } | ^ { \\gamma } \\mathrm { d } x = C \\int _ { B _ { s } } | \\frac { u - ( u ) _ { R } } { s - t } | ^ { \\gamma } | s - t | ^ { \\gamma } \\mathrm { d } x } } \\\\ & { } & { \\le C \\int _ { B _ { s } } | \\frac { u - ( u ) _ { R } } { s - t } | ^ { p ( x ) } \\mathrm { d } x + C \\int _ { B _ { s } } | s - t | ^ { \\frac { \\gamma p ( x ) } { p ( x ) - \\gamma } } \\mathrm { d } x } \\\\ & { } & { = C \\int _ { B _ { s } } | \\frac { u - ( u ) _ { R } } { s - t } | ^ { p ( x ) } \\mathrm { d } x + C | B _ { s } | , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where $C = C ( p _ { \\pm } , \\lambda _ { \\pm } )$ is a positive constant. ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\int _ { B _ { s } } | g ( z - u ) | \\mathrm { d } x \\le \\int _ { B _ { s } } | g | | u - ( u ) _ { R } | \\mathrm { d } x } \\\\ { \\displaystyle \\qquad \\le C \\int _ { B _ { s } } \\left. \\frac { u - ( u ) _ { R } } { s - t } \\right. ^ { p ( x ) } \\mathrm { d } x + C \\int _ { B _ { s } } \\bigl ( | g | | s - t \\bigr ) ^ { \\frac { p ( x ) } { p ( x ) - 1 } } \\mathrm { d } x } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\le C \\displaystyle \\int _ { B _ { s } } \\bigg | \\frac { u - ( u ) _ { R } } { s - t } \\bigg | ^ { p ( x ) } \\mathrm { d } x + C \\int _ { B _ { s } } | g | ^ { \\frac { p ( x ) } { p ( x ) - 1 } } \\mathrm { d } x } \\\\ & { \\le C \\displaystyle \\int _ { B _ { s } } \\bigg | \\frac { u - ( u ) _ { R } } { s - t } \\bigg | ^ { p ( x ) } \\mathrm { d } x + C \\int _ { B _ { s } } \\bigg ( 1 + | g | ^ { \\frac { p _ { - } } { p _ { - } - 1 } } \\bigg ) \\mathrm { d } x , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "where $C = C ( p _ { + } , p _ { - } )$ is a positive constant. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Combining (32)-(35), we obtain ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { B _ { \\varepsilon } } { \\lvert \\nabla u \\rvert ^ { p ( x ) } } \\mathrm d x \\leq C \\int _ { B _ { s } \\setminus B _ { \\varepsilon } } { \\lvert \\nabla u \\rvert ^ { p ( x ) } } \\mathrm d x + C \\int _ { B _ { s } } { \\left. \\frac { u - ( u ) _ { R } } { s - t } \\right. ^ { p ( x ) } } \\mathrm d x + C \\int _ { B _ { s } } { \\left( 1 + { \\lvert g \\rvert } ^ { \\frac { p _ { - } } { p _ { - } - 1 } } \\right) } \\mathrm d x ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "where the constant $C$ depends only on $L , p _ { \\pm } , \\lambda _ { \\pm }$ （4 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Now “filling the hole”, we get ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { B _ { s } } | \\nabla u | ^ { p ( x ) } \\mathrm { d } x \\le \\frac { C } { 1 + C } \\int _ { B _ { s } } | \\nabla u | ^ { p ( x ) } \\mathrm { d } x + \\int _ { B _ { s } } \\left| \\frac { u - ( u ) _ { R } } { s - t } \\right| ^ { p ( x ) } \\mathrm { d } x + \\int _ { B _ { s } } \\bigg ( 1 + | g | ^ { \\frac { p _ { - } } { p _ { - } - 1 } } \\bigg ) \\mathrm { d } x ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "which and Lemma 4.2 imply ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 } { | B _ { R / 2 } | } \\int _ { B _ { R / 2 } } | \\nabla u | ^ { p ( x ) } \\mathrm { d } x \\le C \\frac { 1 } { | B _ { R } | } \\int _ { B _ { R } } \\bigg | \\frac { u - ( u ) _ { R } } { R - R / 2 } \\bigg | ^ { p ( x ) } \\mathrm { d } x + C \\frac { 1 } { | B _ { R } | } \\int _ { B _ { R } } \\bigg ( 1 + | g | ^ { \\frac { p - } { p - 1 } } \\bigg ) \\mathrm { d } x .\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Let $p _ { 1 } = \\operatorname* { m i n } _ { x \\in \\overline { { B } } _ { R } } p ( x ) , \\ p _ { 2 } = \\operatorname* { m a x } _ { x \\in \\overline { { B } } _ { R } } p ( x )$ . By Sobolev-Poincare's inequality, there exists $\\nu < 1$ such that ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } {  { \\frac { 1 } { | B _ { R } | } \\int _ { B _ { R } } | \\frac { u - ( u ) _ { R } } { R } | ^ { p ( x ) } \\mathrm { d } x \\le 1 + \\frac { 1 } { | B _ { R } | } \\int _ { B _ { R } } | \\frac { u - ( u ) _ { R } } { R } | ^ { p _ { 2 } } \\mathrm { d } x } } \\\\ & { } & { \\le 1 + C \\bigg ( \\int _ { B _ { R } } ( 1 + | \\nabla u | ^ { p ( x ) } ) \\mathrm { d } x \\bigg ) ^ { \\frac { p _ { 2 } - p _ { 1 } } { p _ { 1 } \\nu } } R ^ { \\frac { ( p _ { 1 } - p _ { 2 } ) n } { p _ { 1 } \\nu } } \\bigg ( \\frac { 1 } { | B _ { R } | } \\int _ { B _ { R } } | \\nabla u | ^ { p _ { 1 } \\nu } \\mathrm { d } x \\bigg ) } \\\\ & { } & { \\le C \\bigg ( \\frac { 1 } { | B _ { R } | } \\int _ { B _ { R } } | \\nabla u | ^ { p ( x ) \\nu } \\mathrm { d } x \\bigg ) ^ { \\frac { 1 } { \\nu } } + C , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "where in the last inequality we used Remark1 and the fact that,by(7), $R ^ { \\frac { ( p _ { 1 } - p _ { 2 } ) n } { p _ { 1 } \\nu } }$ is bounded. Combining (36) and (37),we get ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 } { | B _ { R / 2 } | } \\int _ { B _ { R } / \\mathrm { 2 } } | \\nabla u | ^ { p ( x ) } \\mathrm { d } x \\le C \\bigg ( \\frac { 1 } { | B _ { R } | } \\int _ { B _ { R } } | \\nabla u | ^ { p ( x ) \\nu } \\mathrm { d } x \\bigg ) ^ { \\frac { 1 } { \\nu } } + C \\frac { 1 } { | B _ { R } | } \\int _ { B _ { R } } \\bigg ( 1 + | g | ^ { \\frac { p _ { - } } { p _ { - } - 1 } } \\bigg ) \\mathrm { d } x ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "where $C = C ( n , p _ { \\pm } , \\lambda _ { \\pm } , L , M , \\Omega )$ . We now apply Gehring's lemma (see [13]) to deduce that there exists $0 < \\delta _ { 0 } < q _ { 1 } ( 1 -$ ）-1 such that (31) holds. ■ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5Holder estimates for minimizers of functional $\\mathcal { H } _ { \\gamma }$ ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In this section, we establish local $C ^ { 0 , \\alpha }$ -regularity for minimizers of the functional $\\mathcal { H } _ { \\gamma } ( \\gamma \\in [ 0 , 1 ] )$ governed by (10). We always let $v \\in W ^ { 1 , p ( \\cdot ) } ( B _ { R } )$ with $v - u \\in W _ { 0 } ^ { 1 , p ( \\cdot ) } ( B _ { R } )$ be a minimizerof the following localintegral functional ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { H } _ { \\gamma } ( v ) = \\int _ { B _ { R } ( x _ { 0 } ) } \\big ( h ( \\nabla v ) + F _ { \\gamma } ( v ) + g v \\big ) \\mathrm { d } x , B _ { R } ( x _ { 0 } ) \\in \\Omega ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "and let $\\begin{array} { r } { \\tilde { v } ( y ) = \\frac { 1 } { R } v ( x _ { 0 } + R y ) . } \\end{array}$ . It is easy to check that $\\tilde { v }$ is a minimizer of the functional ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\mathcal { H } } _ { \\gamma } ( \\tilde { v } ) = \\int _ { B _ { 1 } ( 0 ) } [ h ( \\nabla \\tilde { v } ) + R ^ { \\gamma } F _ { \\gamma } ( \\tilde { v } ) + R g \\tilde { v } ] \\mathrm { d } y ,\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "in the class $\\begin{array} { r } { \\left. \\tilde { v } \\in W ^ { 1 , \\tilde { p } ( \\cdot ) } ( B _ { 1 } ) : \\tilde { v } - \\frac { u } { R } \\in W _ { 0 } ^ { 1 , \\tilde { p } ( \\cdot ) } ( B _ { 1 } ) \\right. } \\end{array}$ , where $\\tilde { p } ( y ) = p ( x _ { 0 } + R y )$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathfrak { t } } p _ { 1 } = \\operatorname* { m i n } _ { x \\in { \\overline { { B } } } _ { R } ( x _ { 0 } ) } p ( x ) , \\ p _ { 2 } = \\operatorname* { m a x } _ { x \\in { \\overline { { B } } } _ { R } ( x _ { 0 } ) } p ( x ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The following lemmaisaslightversionof[6,Lemma7.1],andcanbeobtainedbyinductioninthesame wayasi6,Lemma 7.1]. We omit the proof here. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Lemma 7 Let $0 < a _ { 1 } \\le a _ { 2 }$ and $\\{ \\vartheta _ { i } \\}$ be a sequence of real positive numbers,such that ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\vartheta _ { i + 1 } \\leq C B ^ { i } ( \\vartheta _ { i } ^ { 1 + a _ { 1 } } + \\vartheta _ { i } ^ { 1 + a _ { 2 } } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "with $C > 1$ and $B > 1 .$ Ⅱ $^ { \\epsilon } \\vartheta _ { 0 } \\leq ( 2 C ) ^ { - \\frac { 1 } { a _ { 1 } } } B ^ { ^ { - \\frac { 1 } { a _ { 1 } ^ { 2 } } } }$ , then we have ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\vartheta _ { i } \\leq B ^ { - \\frac { i } { a _ { 1 } } } \\vartheta _ { 0 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "and hence in particular $\\operatorname* { l i m } _ { i \\to \\infty } \\vartheta _ { i } = 0$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Lemma 8 [1] Let $\\phi ( s )$ be a non-negative and non-decreasing function. Suppose that ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi ( r ) \\leq C _ { 1 } { \\Bigg ( } \\left( { \\frac { r } { R } } \\right) ^ { \\alpha } + \\mu { \\Bigg ) } \\phi ( R ) + C _ { 2 } R ^ { \\beta } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "for all $r \\leq R \\leq R _ { 0 }$ ，with $0 < \\beta < \\alpha , C$ positive constants and $C _ { 2 }$ ， $\\mu$ non-negative constants. Then, for any $\\sigma \\le \\beta$ ，there exists a constant $\\mu _ { 0 } = \\mu _ { 0 } ( C _ { 1 } , \\alpha , \\beta , \\sigma )$ such that if $\\mu < \\mu _ { 0 }$ ,then for all $r \\leq R \\leq R _ { 0 }$ it follows that ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi ( r ) \\leq C _ { 3 } r ^ { \\sigma } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "where $C _ { 3 } = C _ { 3 } ( C _ { 1 } , C _ { 2 } , R _ { 0 } , \\phi , \\sigma , \\beta )$ is a positive constant. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Lemma 9 If $\\tilde { v }$ is a minimizer of $\\tilde { \\mathcal { H } } _ { \\gamma }$ governed by (39), then $\\tilde { v }$ is locally bounded and satisfies the estimates ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { s u p } _ { B _ { \\frac { 1 } { 2 } } ( 0 ) } | \\tilde { v } | \\leq C \\bigg ( \\left( \\int _ { B _ { 1 } ( 0 ) } | \\tilde { v } | ^ { p _ { 2 } } d y \\right) ^ { \\frac { 1 } { p _ { 2 } } } + 1 \\bigg ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { s u p } _ { B _ { \\frac { 1 } { 2 } } ( 0 ) } \\tilde { v } \\leq C \\bigg ( \\left( \\int _ { B _ { 1 } ( 0 ) } ( \\tilde { v } ^ { + } ) ^ { p _ { 2 } } d y \\right) ^ { \\frac { 1 } { p _ { 2 } } } | A _ { 0 , 1 } | ^ { \\frac { \\alpha } { p _ { 2 } } } + 1 \\bigg ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "for some $\\alpha > 0$ ,where $A _ { 0 , 1 } = \\{ y \\in B _ { 1 } ( 0 ) : \\tilde { v } ( y ) > 0 \\}$ $\\begin{array} { r } { C = C ( n , L , p _ { \\pm } , \\lambda _ { \\pm } , q _ { - } , M , \\Omega , \\| g \\| _ { L ^ { q ( \\cdot ) } ( \\Omega ) } ) } \\end{array}$ is a positive constant. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Proof of Lemma 9 Without loss of generality, we may assume that $R \\leq 1$ . The proof proceeds in three steps. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "First step:De Giorgi type estimates. For any $k \\in \\mathbb { R }$ ,we define the sets ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { k , \\sigma } = \\{ y \\in B _ { \\sigma } ( 0 ) : u ( y ) > k \\} , B _ { k , \\sigma } = \\{ y \\in B _ { \\sigma } ( 0 ) : u ( y ) < k \\} .\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "We claim that for any $\\boldsymbol { k } \\in \\mathbb { R } , \\tilde { \\boldsymbol { v } }$ satisfies the inequalities ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\displaystyle \\int _ { A _ { k , \\sigma } } | \\nabla \\tilde { v } ( y ) | ^ { \\tilde { p } ( y ) } \\mathrm { d } y \\le C _ { 1 } \\int _ { A _ { k , \\tau } } \\left. \\frac { \\tilde { v } ( y ) - k } { \\tau - \\sigma } \\right. ^ { \\tilde { p } ( y ) } \\mathrm { d } y + C _ { 2 } \\displaystyle \\int _ { A _ { k , \\tau } } \\left. \\tau - \\sigma \\right. ^ { \\frac { \\gamma p _ { 2 } } { p _ { 2 } - \\gamma } } \\mathrm { d } y } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad + C _ { 2 } \\displaystyle \\int _ { A _ { k , \\tau } } \\left( 1 + ( \\vert g \\vert \\vert \\tau - \\sigma \\vert ) ^ { \\frac { p _ { 1 } } { p _ { 1 } - 1 } } \\right) \\mathrm { d } y , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\displaystyle \\int _ { B _ { k , \\sigma } } | \\nabla \\tilde { v } ( y ) | ^ { \\tilde { p } ( y ) } \\mathrm { d } y \\le C _ { 1 } \\int _ { B _ { k , \\tau } } \\left| \\frac { \\tilde { v } ( y ) - k } { \\tau - \\sigma } \\right| ^ { \\tilde { p } ( y ) } \\mathrm { d } y + C _ { 2 } \\int _ { B _ { k , \\tau } } \\left| \\tau - \\sigma \\right| ^ { \\frac { \\gamma p _ { 2 } } { p _ { 2 } - \\gamma } } \\mathrm { d } y } \\\\ & { \\qquad + C _ { 2 } \\int _ { B _ { k , \\tau } } \\left( 1 + ( | g | | \\tau - \\sigma | ) ^ { \\frac { p _ { 1 } } { p _ { 1 } - 1 } } \\right) \\mathrm { d } y , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "for any $\\begin{array} { r } { \\frac { 1 } { 2 } \\leq \\sigma < \\tau \\leq 1 } \\end{array}$ ， where $C _ { i } = C _ { i } ( L , \\lambda _ { \\pm } , p _ { \\pm } )$ . Indeed, for $\\begin{array} { r } { \\frac { 1 } { 2 } \\leq \\sigma \\leq s < t \\leq \\tau \\leq 1 . } \\end{array}$ let $\\eta \\in C _ { c } ^ { \\infty } ( B _ { 1 } ( 0 ) )$ with $\\mathsf { s p t } \\eta \\subset$ $B _ { t } , \\eta \\equiv 1$ on $\\begin{array} { r } { B _ { s } ( 0 ) , | \\nabla \\eta | \\leq \\frac { 2 } { t - s } } \\end{array}$ be a standard cut-off function. Set $\\tilde { z } ( y ) = \\tilde { v } ( y ) - \\eta \\tilde { w } ( y )$ ，where $\\tilde { w } ( y ) = \\mathrm { m a x } \\{ \\tilde { v } ( y ) - k , 0 \\}$ In view of minimality of $\\tilde { v }$ , we obtain ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\displaystyle \\int _ { A _ { k , \\varepsilon } } | \\nabla \\bar { v } ( y ) | ^ { \\bar { p } ( y ) } \\mathrm { d } y \\le \\int _ { A _ { k , \\varepsilon } } | \\nabla \\bar { v } ( y ) | ^ { \\bar { p } ( y ) } \\mathrm { d } y } & { } \\\\ { \\le C \\bigg ( \\int _ { A _ { k , \\varepsilon } } | \\nabla \\bar { z } ( y ) | ^ { \\bar { p } ( y ) } \\mathrm { d } y + \\int _ { A _ { k , \\varepsilon } } R ^ { \\gamma } ( F _ { \\gamma } ( \\bar { z } ) - F _ { \\gamma } ( \\bar { v } ) ) + R g ( \\bar { z } - \\bar { v } ) \\mathrm { d } y \\bigg ) } & { } \\\\ { \\le C \\bigg ( \\int _ { A _ { k , \\varepsilon } } | ( 1 - \\eta ) \\nabla \\bar { v } - \\nabla \\eta \\cdot ( \\bar { v } - \\bar { \\kappa } ) | ^ { \\bar { p } ( y ) } \\mathrm { d } y + \\int _ { A _ { k , \\varepsilon } } ( F _ { \\gamma } ( \\bar { z } ) - F _ { \\gamma } ( \\bar { v } ) ) + g ( \\bar { z } - \\bar { v } ) \\mathrm { d } z } & { } \\\\ { \\le C \\int _ { A _ { k , \\varepsilon } \\backslash A _ { k , \\varepsilon } } | \\nabla \\bar { v } ( y ) | ^ { \\bar { p } ( y ) } \\mathrm { d } y + C \\int _ { A _ { k , \\varepsilon } } \\bigg | \\frac { \\bar { v } - \\bar { k } } { t - s } \\bigg | ^ { \\bar { p } ( y ) } \\mathrm { d } y } & { } \\\\ { + C \\int _ { A _ { k , \\varepsilon } , \\{ F _ { \\gamma } ( \\bar { z } ) - F _ { \\gamma } ( \\bar { v } ) \\} } + g ( \\bar { z } - \\bar { v } ) \\mathrm { d } y , } & { } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "where $C = C ( \\tilde { p } _ { 1 } , \\tilde { p } _ { 2 } )$ is a positive constant. We remark that $\\tilde { p } _ { 1 } = \\operatorname* { m i n } _ { y \\in \\overline { { B } } _ { 1 } ( 0 ) } \\tilde { p } ( y ) = p _ { 1 } , \\tilde { p } _ { 2 } = \\operatorname* { m a x } _ { y \\in \\overline { { B } } _ { 1 } ( 0 ) } \\tilde { p } ( y ) = p _ { 2 }$ . Therefore $C = C ( \\tilde { p } _ { 1 } , \\tilde { p } _ { 2 } ) = C ( p _ { 1 } , p _ { 2 } )$ . Moreover, we can let $C$ depend only on $p _ { \\pm }$ ： ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In view of (34) and (35),we derive ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\displaystyle \\int _ { A _ { k , t } } F _ { \\gamma } ( \\tilde { z } ) - F _ { \\gamma } ( \\tilde { v } ) \\mathrm { d } y \\le C \\int _ { A _ { k , t } } \\left. \\frac { \\tilde { v } - k } { s - t } \\right. ^ { \\tilde { p } ( y ) } \\mathrm { d } y + C \\int _ { A _ { k , t } } \\vert t - s \\vert ^ { \\frac { \\gamma \\tilde { p } ( y ) } { \\tilde { p } ( y ) - \\gamma } } \\mathrm { d } y , } \\\\ & { \\displaystyle \\int _ { A _ { k , t } } \\vert g ( \\tilde { z } - \\tilde { v } ) \\vert \\mathrm { d } y \\le \\ \\int _ { A _ { k , t } } \\left. \\frac { \\tilde { v } - k } { s - t } \\right. ^ { \\tilde { p } ( y ) } \\mathrm { d } y + C \\int _ { A _ { k , t } } ( \\vert g \\vert \\vert s - t \\vert ) ^ { \\frac { \\tilde { p } ( y ) } { \\tilde { p } ( y ) - 1 } } \\mathrm { d } y . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Therefore (44) becomes ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\displaystyle \\int _ { A _ { k , s } } | \\nabla \\tilde { v } ( y ) | ^ { \\tilde { p } ( y ) } \\mathrm { d } y \\le C \\int _ { A _ { k , t } \\setminus A _ { k , s } } | \\nabla \\tilde { v } ( y ) | ^ { \\tilde { p } ( y ) } \\mathrm { d } y + C \\int _ { A _ { k , t } } | \\frac { \\tilde { v } - k } { s - t } | ^ { \\tilde { p } ( y ) } \\mathrm { d } y } \\\\ & { \\qquad + C \\displaystyle \\int _ { A _ { k , \\tau } } | \\tau - \\sigma | ^ { \\frac { \\gamma p 2 } { p _ { 2 } } - \\tau } \\mathrm { d } y + C \\int _ { A _ { k , \\tau } } \\left( 1 + ( | g | | \\tau - \\sigma | ) ^ { \\frac { p _ { 1 } } { p _ { 1 } - 1 } } \\right) \\mathrm { d } y . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "“Fillng the hole”and using Lemma 4.2, we obtain the desired result (42). (43) follows by an analogue argument. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Secondstep:Boundednessof $\\tilde { v }$ :estimate(4O).We startbyshowingthat ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { s u p } _ { B _ { \\frac { 1 } { 2 } } ( 0 ) } \\tilde { v } \\le C \\biggl ( ( \\int _ { B _ { 1 } ( 0 ) } ( \\tilde { v } ^ { + } ) ^ { p _ { 2 } } \\mathrm { d } y ) ^ { \\frac { 1 } { p _ { 2 } } } + 1 \\biggr ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "W we asumtana $p _ { 1 } < n$ theas 血m DelevyEmhbe mb $\\textstyle { \\frac { 1 } { 2 } } \\leq \\rho < r \\leq 1$ $\\eta$ $C _ { 0 } ^ { \\infty } ( B _ { \\frac { \\rho + r } { 2 } } )$ $\\eta \\equiv 1$ $B _ { \\rho }$ $\\begin{array} { r } { | \\nabla \\eta | \\dot { \\le } \\frac { 4 } { r - \\rho } } \\end{array}$ $\\begin{array} { r } { p _ { 1 } ^ { * } = \\frac { n p _ { 1 } } { n - p _ { 1 } } } \\end{array}$ np1 the Sobolev conjugate of $p _ { 1 }$ ,we introduce the quantities ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varepsilon = 1 - \\frac { p _ { 2 } } { p _ { 1 } ^ { * } } = \\frac { p _ { 2 } } { n } - \\frac { p _ { 2 } - p _ { 1 } } { p _ { 1 } } , \\ \\beta = \\varepsilon + \\frac { p _ { 2 } } { p _ { 1 } } = 1 + \\frac { p _ { 2 } } { n } , \\ \\theta = \\varepsilon + \\frac { p _ { 2 } } { p _ { 1 } } ( 1 - \\frac { 1 } { q _ { - } } \\frac { p _ { 1 } } { p _ { 1 } - 1 } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Thanks to assumption (9),we have $p _ { 2 } \\leq p _ { 1 } ^ { * } , \\theta > 1$ ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Now we define $\\begin{array} { r } { \\Phi _ { k , \\rho } = \\int _ { A _ { k , \\rho } } ( \\tilde { v } - k ) ^ { p _ { 2 } } \\mathrm { d } y } \\end{array}$ . We claim that for arbitrary $h < k$ there holds ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\Phi _ { k , \\rho } \\le C \\Phi _ { h , r } ^ { \\beta } \\left( \\displaystyle \\frac { 1 } { | k - h | ^ { p _ { 2 } } } \\right) ^ { \\varepsilon } \\left( \\displaystyle \\frac { 1 } { | r - \\rho | ^ { p _ { 2 } } } + \\displaystyle \\frac { 1 } { | k - h | ^ { p _ { 2 } } } + \\displaystyle \\frac { 1 } { | k - h | ^ { p _ { 2 } } } | r - \\rho | ^ { \\frac { \\gamma p _ { 2 } } { p _ { 2 } } - \\gamma } \\right) ^ { \\frac { p _ { 2 } } { p _ { 1 } } } } \\\\ & { \\qquad + C \\Phi _ { h , r } ^ { \\theta } | r - \\rho | ^ { \\frac { p _ { 2 } } { p _ { 2 } - 1 } \\frac { p _ { 2 } } { p _ { 1 } } } \\displaystyle \\frac { 1 } { | k - h | ^ { p _ { 2 } \\theta } } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Indeed, as in [5,pp1413], we obtain ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { A _ { k , \\rho } } ( \\tilde { v } - k ) ^ { p _ { 2 } } \\mathrm { d } y \\leq C \\bigg ( \\int _ { A _ { k , \\frac { \\rho + r } { 2 } } } | \\nabla \\tilde { v } | ^ { \\tilde { p } ( y ) } \\mathrm { d } y + \\int _ { A _ { k , \\frac { \\rho + r } { 2 } } } \\bigg | \\frac { \\tilde { v } - k } { r - \\rho } \\bigg | ^ { \\tilde { p } ( y ) } \\mathrm { d } y + | A _ { k , r } | \\bigg ) ^ { \\frac { p _ { 2 } } { p _ { 1 } } } | A _ { k , r } | ^ { \\varepsilon } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "where $C = C ( p _ { + } , p _ { - } )$ is a positive constant. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Combining (42) and (47),we derive for any $k \\in \\mathbb { R }$ ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\displaystyle \\int _ { A _ { k , \\nu } } ( \\tilde { \\nu } - k ) ^ { p _ { 2 } } \\mathrm { d } y \\leq C | A _ { k , \\nu } | ^ { s } ( \\displaystyle \\int _ { A _ { k , \\nu } }  { | \\tilde { \\nu } - k | ^ { p ( y ) } } { r - p } \\mathrm { d } y + \\displaystyle \\int _ { A _ { k , \\nu } } | r - \\rho | ^ { \\frac { p _ { 2 } } { 1 - p } } \\mathrm { d } y + \\displaystyle \\int _ { A _ { k , \\nu } } ( 1 + | | g | | r - \\rho | ) ^ { \\frac { p _ { 2 } } { p _ { 1 } } } \\mathrm { d } y   } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad  + C | A _ { k , \\nu } | ^ { s } ( \\displaystyle \\int _ { A _ { k , \\nu } }  { | \\tilde { \\nu } - k | ^ { p _ { 2 } } } { r - p } ) ^ { \\frac { p _ { 2 } } { 1 - p } } \\mathrm { d } y ) ^ { \\frac { p _ { 1 } } { 1 } } + C | A _ { k , \\nu } | ^ { s } + C | A _ { k , \\nu } | ^ { s } | r - \\rho | ^ { \\frac { p _ { 2 } } { 1 - p } \\frac { p _ { 2 } } { r _ { 1 } } } } \\\\ & { \\quad \\quad \\quad \\quad \\quad + C | A _ { k , \\nu } | ^ { s } | r - \\rho | ^ { \\frac { p _ { 2 } } { 1 - p } \\frac { p _ { 2 } } { r _ { 1 } } } ( \\displaystyle \\int _ { A _ { k , \\nu } } | g | ^ { s } \\mathrm { d } y | ^ { \\frac { p _ { 1 } } { p _ { 1 } } - \\frac { 1 } { \\nu } } | A _ { k , \\nu } | ^ { \\frac { 1 } { 1 - \\frac { p } { \\nu } } } | A _ { k , \\nu } | ^ { \\frac { 1 } { 1 - \\frac { p } { \\nu } } } ) ^ { \\frac { p _ { 2 } } { \\nu _ { 1 } } } } \\\\ & { \\leq C | A _ { k , \\nu } | ^ { s } ( \\displaystyle \\int _ { A _ { k , \\nu } } | \\frac { | \\tilde { \\nu } - k | ^ { p _ { 2 } } } { r - p } | ^ { \\frac { p _ { 2 } } { 1 - p } } \\mathrm { d } y ) ^ { \\frac { p _ { 1 } } { p _ { 1 } } } + C | A _ { k , \\nu } | ^ { s } | r - \\rho | ^ { \\frac { p _ { 2 } } { p _ { 2 } - \\nu } } \\mathrm { d } y } \\\\ & { \\quad \\quad \\quad \\quad \\quad  + C | r - \\rho | ^ { \\frac { p _ { 2 } - p } { 2 } } | A _ { k , \\nu } | ^ { p _ { 1 } } + C | A _ { k , \\nu } | ^ { p _ { 2 } }  } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "where $C = C ( \\lambda _ { \\pm } , p _ { \\pm } , q _ { - } , \\| g \\| _ { L ^ { q ( \\cdot ) } ( \\Omega ) } )$ is a positive constant. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Next, for $h < k$ we deduce from $u - h > k - h$ on $A _ { k , r }$ that ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left| A _ { k , r } \\right| \\leq \\int _ { A _ { h , r } } \\left| \\frac { \\tilde { v } - h } { k - h } \\right| ^ { p _ { 2 } } \\mathrm { d } y ,\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "and, moreover,we have ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { A _ { k , r } } ( \\tilde { v } - k ) ^ { p _ { 2 } } \\mathrm { d } y \\leq \\int _ { A _ { k , r } } ( \\tilde { v } - h ) ^ { p _ { 2 } } \\mathrm { d } y \\leq \\int _ { A _ { h , r } } ( \\tilde { v } - h ) ^ { p _ { 2 } } \\mathrm { d } y .\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "By (48)-(50),we obtain ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\Phi _ { k , \\rho } \\le C \\bigg ( \\displaystyle \\int _ { A _ { h , r } } \\bigg | \\displaystyle \\frac { \\tilde { v } - k } { k - h } \\bigg | ^ { p _ { 2 } } \\mathrm { d } y \\bigg ) ^ { \\epsilon } \\bigg ( \\displaystyle \\int _ { A _ { h , r } } \\bigg | \\displaystyle \\frac { \\tilde { v } - h } { r - \\rho } \\bigg | ^ { p _ { 2 } } \\mathrm { d } y \\bigg ) ^ { \\frac { p _ { 2 } } { p _ { 1 } } } + C | r - \\rho | ^ { \\frac { \\gamma p _ { 2 } } { p _ { 2 } - \\gamma } \\frac { p _ { 2 } } { p _ { 1 } } } \\bigg ( \\displaystyle \\int _ { A _ { h , r } } \\bigg | \\displaystyle \\frac { \\tilde { v } - h } { k - h } \\bigg | ^ { p _ { 2 } } \\mathrm { d } y \\bigg ) ^ { \\beta } } \\\\ { + C | r - \\rho | ^ { \\frac { p _ { 2 } } { p _ { 2 } - 1 } } \\displaystyle \\frac { p _ { 2 } } { p _ { 1 } } \\bigg ( \\displaystyle \\int _ { A _ { h , r } } \\bigg | \\displaystyle \\frac { \\tilde { v } - h } { k - h } \\bigg | ^ { p _ { 2 } } \\mathrm { d } y \\bigg ) ^ { \\theta } + C \\bigg ( \\displaystyle \\int _ { A _ { h , r } } \\bigg | \\displaystyle \\frac { \\tilde { v } - h } { k - h } \\bigg | ^ { p _ { 2 } } \\mathrm { d } y \\bigg ) ^ { \\beta } } \\\\ { \\le C \\Phi _ { h , r } ^ { \\beta } \\bigg ( \\displaystyle \\frac { 1 } { | k - h | ^ { p _ { 2 } } } \\bigg ) ^ { \\varepsilon } \\bigg ( \\displaystyle \\frac { 1 } { | r - \\rho | ^ { p _ { 2 } } } + \\displaystyle \\frac { 1 } { | k - h | ^ { p _ { 2 } } } + \\displaystyle \\frac { 1 } { | k - h | ^ { p _ { 2 } } } | r - \\rho | ^ { \\frac { \\gamma p _ { 2 } } { p _ { 2 } - \\gamma } } \\bigg ) ^ { \\frac { p _ { 2 } } { p _ { 1 } } } } \\\\ { + C \\Phi _ { h , r } ^ { \\beta } | r - \\rho | ^ { \\frac { p _ { 2 } } { p _ { 2 } - 1 } } \\frac { p _ { 2 } } { | k - h | ^ { p _ { 2 } \\theta } } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "where $C = C ( \\lambda _ { \\pm } , p _ { \\pm } , q _ { - } , \\| g \\| _ { L ^ { q ( \\cdot ) } ( \\Omega ) } )$ is a positive constant. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Our aim is now to deduce a decay estimate for the quantity $\\Phi _ { k , \\rho }$ to decreasing levels $k$ on balls of increasing radii $\\rho$ . For this purpose we will take use of Lemma 5.1. Let us define the sequence of levels and radii ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk _ { i } = 2 d ( 1 - 2 ^ { - i - 1 } ) , \\rho _ { i } = \\frac { 1 } { 2 } ( 1 + 2 ^ { - i } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "and the quantity ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\vartheta _ { i } = d ^ { - p _ { 2 } } \\Phi _ { k _ { i } , \\rho _ { i } } = d ^ { - p _ { 2 } } \\int _ { A _ { k _ { i } , \\rho _ { i } } } ( \\tilde { \\boldsymbol { v } } - \\boldsymbol { k } _ { i } ) ^ { p _ { 2 } } \\mathrm { d } \\boldsymbol { y } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "where $d \\geq 1$ is a constant that will be chosen later.First, we note that ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk _ { i + 1 } - k _ { i } = \\frac { d } { 2 } 2 ^ { - i } , \\rho _ { i } - \\rho _ { i + 1 } = \\frac { 1 } { 4 } 2 ^ { - i } .\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Exploiting (46) with the choice $k = k _ { i + 1 } , h = k _ { i } , \\rho = r _ { i + 1 } , r = r _ { i }$ and the fact that $d \\geq 1$ , we derive ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\psi _ { i + 1 } = d ^ { - p _ { 2 } } \\Phi _ { k _ { i + 1 } , \\rho _ { i + 1 } } } \\\\ & { \\qquad \\leq C d ^ { - p _ { 2 } } \\Phi _ { k _ { i - 1 } , \\rho _ { i } } ^ { \\theta } ( d ^ { - 1 } \\mathrm { J } ^ { p _ { 2 } } ( ( 4 \\cdot 2 ^ { i } ) ^ { p _ { 2 } } + ( d ^ { - 1 } 2 ^ { i + 1 } ) ^ { p _ { 2 } } + ( d ^ { - 1 } 2 ^ { i + 1 } ) ^ { p _ { 2 } } ( 4 ^ { - 1 } \\cdot 2 ^ { - i } ) ^ { \\frac { p _ { 2 } } { p _ { 2 } } } ) ^ { \\frac { p _ { 2 } } { p _ { 1 } } } } \\\\ & { \\qquad + C d ^ { - p _ { 2 } } \\Phi _ { k _ { i - 1 } , \\rho _ { i } } ^ { \\theta } ( d ^ { - 1 } 2 ^ { i + 1 } ) ^ { p _ { 2 } } ( 4 ^ { - 1 } \\cdot 2 ^ { - i } ) ^ { \\frac { p _ { 2 } } { p _ { 2 } } - \\frac { p _ { 2 } } { p _ { 1 } } } } \\\\ & { \\qquad \\quad + C ( d ^ { - p _ { 2 } } \\Phi _ { k _ { i - 1 } , \\rho _ { i } } ^ { \\theta } ) ^ { \\theta } d ^ { - p _ { 2 } ( 1 - \\beta ) } \\left( \\frac { d } { 2 } \\right) ^ { - p _ { 2 } } 2 ^ { i p _ { 2 } } \\left( 4 ^ { p _ { 2 } } \\cdot 2 ^ { p _ { 2 } } + \\left( d ^ { i } \\right) ^ { - p _ { 2 } } 2 ^ { p _ { 2 } } \\cdot 2 ^ { p _ { 2 } } \\right) ^ { \\frac { p _ { 2 } } { p _ { 1 } } } \\cdot 2 ^ { p _ { 2 } } ( 1 + ( 4 ^ { - 1 } \\cdot 2 ^ { - i } ) ^ { \\frac { p _ { 2 } } { p _ { 2 } } } ) ^ { \\frac { p _ { 2 } } { p _ { 2 } } } } \\\\ &  \\qquad \\quad + C ( d ^ { - p _ { 2 } } \\Phi _ { k _ { i - 1 } , \\rho _ { i } } ) ( d ^ { - p _ { 2 } } ( 1 - \\theta ) \\left( \\frac { d } { 2 } \\right) ^ { - p _ { 2 } \\theta } 2 ^ { i p _ { 2 } } ( 4 ^ { - 1 } \\cdot 2 ^ { - i } ) ^ { \\frac { p _ { 2 } } { p _ { 2 } } - \\frac { p _ { 2 } } { p _ { 1 } } } \\\\ & { \\qquad \\leq C d ^ { \\frac { p _ { 2 } } { p _ { 2 } } ( p _ { 2 } - p _ { 2 } ) } 2 ^ { i p _ { 2 } } \\vartheta _ { k } ^ { \\theta } + C d ^ { - p _ { 2 } } 2 ^ { i p _ { 2 } } \\vartheta _ { k } ^ { \\theta } } \\\\ &  \\qquad \\leq C d ^  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "where $\\begin{array} { r } { C = C ( \\lambda _ { \\pm } , p _ { \\pm } , q _ { - } , n , \\| g \\| _ { L ^ { q ( \\cdot ) } ( \\Omega ) } ) } \\end{array}$ is a positive constant. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Next we show that with the choice $\\begin{array} { r } { d = 1 + \\mathcal { A } \\left( \\int _ { B _ { 1 } ( 0 ) } ( \\tilde { v } ^ { + } ) ^ { p _ { 2 } } \\mathrm { d } y \\right) ^ { \\frac { 1 } { p _ { 2 } } } } \\end{array}$ ， where we determine the quantity $\\mathcal { A }$ a bit later, the hypotheses of Lemma 5.1 are fulfilled for the sequence $\\{ \\vartheta _ { i } \\}$ ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Due to Theorem 2.1, there exists a constant $C = C ( M , p _ { \\pm } )$ such that ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { d ^ { \\frac { p _ { 2 } } { p _ { 1 } } ( p _ { 2 } - p _ { 1 } ) } \\leq C ( M , p _ { 1 } , p _ { 2 } ) \\bigg ( 1 + \\mathcal { A } ^ { \\frac { p _ { 2 } } { p _ { 1 } } ( p _ { 2 } - p _ { 1 } ) } \\bigg ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Consequently, (51) becomes ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\vartheta _ { i + 1 } \\leq c \\bigg ( 1 + \\mathcal { A } ^ { \\frac { p _ { 2 } } { p _ { 1 } } ( p _ { 2 } - p _ { 1 } ) } \\bigg ) ( 2 ^ { p _ { 2 } \\beta } + 2 ^ { p _ { 2 } \\theta } ) ^ { i } ( \\vartheta _ { i } ^ { \\beta } + \\vartheta _ { i } ^ { \\theta } ) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "where $c = c ( \\lambda _ { \\pm } , p _ { \\pm } , q _ { - } , n , M , p _ { 1 } , p _ { 2 } , \\Omega , \\| g \\| _ { L ^ { q ( \\cdot ) } ( \\Omega ) } )$ is a positive constant. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "On the other hand,the choice of $d$ and the fact that $d \\geq 1$ immediately yield ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\vartheta _ { 0 } = d ^ { - p _ { 2 } } \\int _ { A _ { d , 1 } } ( \\tilde { v } - d ) ^ { p _ { 2 } } \\mathrm { d } y \\le \\mathcal { A } ^ { - p _ { 2 } } \\left( \\int _ { B _ { 1 } ( 0 ) } ( \\tilde { v } ^ { + } ) ^ { p _ { 2 } } \\mathrm { d } y \\right) ^ { - 1 } \\int _ { A _ { d , 1 } } ( \\tilde { v } - d ) ^ { p _ { 2 } } \\mathrm { d } y \\le \\mathcal { A } ^ { - p _ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "We applyLemma5.1withB=2P2β+2P2θ>1,C=c(1+A(p2-p1)） $^ { , \\beta } + 2 ^ { p _ { 2 } \\theta } > 1 , C = c \\bigg ( 1 + \\mathcal { A } ^ { \\frac { p _ { 2 } } { p _ { 1 } } ( p _ { 2 } - p _ { 1 } ) } \\bigg ) > 1 , 0 < a _ { 1 } = \\theta - 1 < \\beta - 1 = a _ { 2 }$ To guarantee that the condition $\\vartheta 0 \\leq ( 2 C ) ^ { - \\frac { 1 } { a _ { 1 } } } B ^ { ^ { - \\frac { 1 } { a _ { 2 } ^ { 2 } } } }$ is satisfied,weavetohoosetequatity $\\mathcal { A }$ in such a way that ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathcal { A } ^ { - p _ { 2 } } = ( 2 C ) ^ { - \\frac { 1 } { a _ { 1 } } } B ^ { - \\frac { 1 } { a _ { 1 } ^ { 2 } } } , \\mathrm { ~ i . e . ~ } \\mathcal { A } ^ { p _ { 2 } ( \\beta - 1 ) } = 2 c B ^ { \\frac { 1 } { \\beta - 1 } } \\bigg ( 1 + \\mathcal { A } ^ { \\frac { p _ { 2 } } { p _ { 1 } } ( p _ { 2 } - p _ { 1 } ) } \\bigg ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Note that since $\\begin{array} { r } { \\beta = \\varepsilon + { \\frac { p _ { 2 } } { p _ { 1 } } } > { \\frac { p _ { 2 } } { p _ { 1 } } } } \\end{array}$ , we always have hat $\\begin{array} { r } { p _ { 2 } ( \\beta - 1 ) > \\frac { p _ { 2 } } { p _ { 1 } } ( p _ { 2 } - p _ { 1 } ) } \\end{array}$ ，whichgasha unique solution $0 < \\mathcal { A } \\equiv \\mathcal { A } ( \\lambda _ { \\pm } , p _ { \\pm } , q _ { - } , n , M , p _ { 1 } , p _ { 2 } , \\Omega , \\| g \\| _ { L ^ { q ( \\cdot ) } ( \\Omega ) } ) < \\infty$ ， ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Inadition,wereark tat globalbouedss $p _ { \\pm }$ for $p ( \\cdot )$ imply that $\\begin{array} { r } { p _ { 2 } ( \\beta - 1 ) = \\frac { p _ { 2 } ^ { 2 } } { n } \\in [ \\frac { p _ { - } ^ { 2 } } { n } , \\frac { p _ { + } ^ { 2 } } { n } ] } \\end{array}$ and $\\begin{array} { r } { \\frac { p _ { 2 } } { p _ { 1 } } ( p _ { 2 } - p _ { 1 } ) ~ \\in } \\end{array}$ $\\big [ 0 , \\frac { p _ { + } } { p _ { - } } ( p _ { + } - p _ { - } ) \\big ]$ . Furthermore,the solution $\\mathcal { A }$ of equation (52)depends continuously on the parameters $p _ { - }$ and $p _ { + }$ . ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Now Lemma 5.1 gives $\\operatorname* { l i m } _ { i \\to \\infty } \\vartheta _ { i } = 0$ , which, noting that $\\operatorname* { l i m } _ { i \\to \\infty } \\rho _ { i } = \\frac { 1 } { 2 }$ and $\\operatorname* { l i m } _ { i \\to \\infty } k _ { i } = 2 d$ , directly translates into $| A _ { 2 d , \\frac { 1 } { 2 } } | = 0$ and   \ntherefore sup $\\tilde { v } \\leq 2 d$ . Taking into account the choice of $d$ , we end up with ${ B _ { \\frac { 1 } { 2 } } } \\left( 0 \\right)$ ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { s u p } _ { B _ { \\frac { 1 } { 2 } } ( 0 ) } \\tilde { v } \\le C \\bigg ( \\left( \\int _ { B _ { 1 } ( 0 ) } ( \\tilde { v } ^ { + } ) ^ { p _ { 2 } } \\mathrm { d } y \\right) ^ { \\frac { 1 } { p _ { 2 } } } + 1 \\bigg ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "where $\\begin{array} { r } { C = C ( \\lambda _ { \\pm } , p _ { \\pm } , q _ { - } , n , M , \\Omega , \\| g \\| _ { L ^ { q ( \\cdot ) } ( \\Omega ) } ) . } \\end{array}$ ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "An argument similar to the preceding one with the function $- \\tilde { v }$ ,using (43) instead of (42) yields ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { s u p } _ { B _ { \\frac { 1 } { 2 } } ( 0 ) } ( - \\tilde { v } ) \\leq C \\bigg ( \\left( \\int _ { B _ { 1 } ( 0 ) } ( ( - \\tilde { v } ) ^ { + } ) ^ { p _ { 2 } } \\mathrm { d } y \\right) ^ { \\frac { 1 } { p _ { 2 } } } + 1 \\bigg ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Therefore (45) and (53) yield the desired estimate (40). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Third step: Boundedness of $\\tilde { v }$ : estimate (41)._Firstly we choose some constants we willuse for our proof.By(9), we know that （20号 $\\begin{array} { r } { \\theta = \\varepsilon + \\dot { \\frac { p _ { 2 } } { p _ { 1 } } } \\big ( 1 - \\frac { 1 } { q _ { - } } \\frac { p _ { 1 } } { p _ { 1 } - 1 } \\big ) \\dot { \\bf \\Phi } = \\frac { p _ { 2 } } { n } + 1 - \\frac { { p _ { 2 } } } { q _ { - } } \\frac { 1 } { p _ { 1 } - 1 } > \\dot { \\frac { p _ { 2 } } { p _ { 1 } } } } \\end{array}$ ,thus we can find a positive constant $\\tilde { \\alpha }$ small enough such that ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { p _ { 2 } } { p _ { 1 } } < \\frac { \\theta + \\tilde { \\alpha } } { 1 + \\tilde { \\alpha } } \\mathrm { a n d } \\varepsilon + \\tilde { \\alpha } > \\tilde { \\alpha } \\frac { p _ { 2 } } { p _ { 1 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Then we can find positive constants $\\tilde { \\beta } , \\tilde { \\theta }$ small enough such that ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { p _ { 2 } } { p _ { 1 } } < \\frac { p _ { 2 } } { p _ { 1 } } + \\tilde { \\beta } \\leq \\tilde { \\theta } \\leq \\frac { \\theta + \\tilde { \\alpha } } { 1 + \\tilde { \\alpha } } \\mathrm { a n d } \\beta - \\tilde { \\beta } - \\frac { p _ { 2 } } { p _ { 1 } } + \\tilde { \\alpha } = \\varepsilon - \\tilde { \\beta } + \\tilde { \\alpha } \\geq \\tilde { \\alpha } ( \\frac { p _ { 2 } } { p _ { 1 } } + \\tilde { \\beta } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "where the third inequality implies ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta - \\tilde { \\theta } + \\tilde { \\alpha } \\geq \\tilde { \\alpha } \\tilde { \\theta } .\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "For the above constants,it follows from (48) ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\Phi _ { k , \\rho } | A _ { k , \\rho } | ^ { \\tilde { \\alpha } } \\le C | A _ { k , r } | ^ { \\varepsilon } | A _ { k , \\rho } | ^ { \\tilde { \\alpha } } \\biggl ( \\displaystyle \\int _ { A _ { k , r } } \\left| \\frac { \\tilde { v } - k } { r - \\rho } \\right| ^ { p _ { 2 } } \\mathrm { d } y \\biggr ) ^ { \\frac { p _ { 2 } } { p _ { 1 } } } + C | A _ { k , r } | ^ { \\beta } | A _ { k , \\rho } | ^ { \\tilde { \\alpha } } | r - \\rho | ^ { \\frac { \\gamma p _ { 2 } } { p _ { 2 } - \\gamma } \\frac { p _ { 2 } } { p _ { 1 } } } } \\\\ { + C | r - \\rho | ^ { \\frac { p _ { 2 } } { p _ { 2 } - 1 } \\frac { p _ { 2 } } { p _ { 1 } } } | A _ { k , r } | ^ { \\theta } | A _ { k , \\rho } | ^ { \\tilde { \\alpha } } + C | A _ { k , r } | ^ { \\beta } | A _ { k , \\rho } | ^ { \\tilde { \\alpha } } } \\\\ { = I _ { 1 } + I _ { 2 } + I _ { 3 } + I _ { 4 } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "In the following estimates we use (49), (50),(??)-(54), and the fact that $| A _ { k , \\rho } | \\leq | A _ { k , r } | \\leq | A _ { h , r } |$ ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\begin{array} { r l } {  \\mathbf { i } _ { 1 } - \\mathbf { i }   \\mathbf { k } _ { 2 }  } & { =  \\mathbf { k } _ { 3 } , \\mathbf { i }   \\mathbf { k } _ { 4 } , \\mathbf { k } _ { 2 } ^ { \\prime }   \\mathbf { k } _ { 3 } ^ { \\prime }  } \\\\ & { \\quad + ( \\mathbf { k } _ { 4 } ^ { \\prime } - \\mathbf { k } _ { 3 } ^ { \\prime } )  \\mathbf { k } _ { 4 } , \\mathbf { k } _ { 2 } ^ { \\prime }   \\mathbf { k } _ { 3 } ^ { \\prime }  } \\end{array} } \\\\ &  \\begin{array} { r l } { \\sum _ { \\ell } \\mathbf { k } _ { 3 } ^ { \\prime } \\frac { \\nu _ { \\ell } } { 2 }  \\mathbf { k } _ { 1 } ^ { \\prime }  [ ( \\frac { 1 } { \\mathbf { k } _ { 2 } } - \\mathbf { k } _ { 3 } ^ { \\prime } ) ^ { 2 } ] \\Delta _ { 2 , \\ell } \\mathbf { k } _ { 3 } ^ { \\prime }  [ ( \\frac { 1 } { \\mathbf { k } _ { 2 } } ) ^ { 2 } ] ( \\frac { 1 } { \\mathbf { k } _ { 3 } } ) ^ { 2 } \\Biggr \\rangle ^ { \\frac { \\alpha _ { 3 } } { 2 } } } \\\\ & { \\quad + \\big \\langle \\mathbf { k } _ { 4 } ^ { \\prime }   \\mathbf { k } _ { 4 }   \\mathbf { k } _ { 2 } ^ { \\prime }  } \\\\ & { \\quad + \\big \\langle \\mathbf { k } _ { 4 } ^ { \\prime }   \\mathbf { k } _ { 3 } ^ { \\prime }   \\mathbf { k } _ { 4 } , \\mathbf { k } _ { 2 } ^ { \\prime }   \\mathbf { k } _ { 3 } ^ { \\prime }   \\mathbf { k } _ { 4 } ^ { \\prime }   \\mathbf { k } _ { 4 } ^ { \\prime }  } \\\\ & { \\quad + ( \\mathbf { k } _ { 4 } ^ { \\prime } - \\mathbf { k } _ { 4 } ^ { \\prime } ) \\big \\langle \\mathbf { k } _ { 4 } , \\mathbf { k } _ { 2 } ^ { \\prime } \\big \\rangle  \\mathbf { k } _ { 3 } ^ { \\prime }  + \\frac { 1 } { 2 } \\big \\langle \\mathbf { k } _ { 4 } , \\mathbf { k } _ { 2 } ^ { \\prime } \\big \\rangle  \\mathbf { k } _ { 3 } ^ { \\prime }  } \\\\ &  \\quad + \\big \\langle \\mathbf { k } _ { 4 } ^ { \\prime } \\big \\rangle \\big \\langle \\mathbf { k } _ { 4 } , \\mathbf { k } _ { 2 } ^ { \\prime } \\big \\rangle  \\mathbf { k } _ { 3 } ^ { \\prime }   \\end{array} \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Let $\\tilde { \\Phi } _ { k , t } = \\Phi _ { k , t } | A _ { k , t } | ^ { \\tilde { \\alpha } }$ .Collecting (55)-(59), we obtain ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\tilde { \\Phi } _ { k , \\rho } \\leq C \\tilde { \\Phi } _ { h , r } ^ { \\tilde { \\beta } + \\frac { p _ { 2 } } { p _ { 1 } } } \\Bigg ( \\left| \\frac { 1 } { r - \\rho } \\right| ^ { p _ { 2 } } + \\left| \\frac { 1 } { k - h } \\right| ^ { p _ { 2 } } + \\left| \\frac { 1 } { k - h } \\right| ^ { p _ { 2 } } \\left| r - \\rho \\right| ^ { \\frac { \\gamma p _ { 2 } } { p _ { 2 } - \\gamma } } \\Bigg ) ^ { \\frac { p _ { 2 } } { p _ { 1 } } } \\Bigg ( \\left| \\frac { 1 } { k - h } \\right| ^ { p _ { 2 } } \\Bigg ) ^ { \\tilde { \\beta } } } }  \\\\ { { + C \\tilde { \\Phi } _ { h , r } ^ { \\tilde { \\theta } } \\Bigg ( \\left| \\frac { 1 } { k - h } \\right| ^ { p _ { 2 } } \\Bigg ) ^ { \\tilde { \\theta } } | r - \\rho | ^ { \\frac { p _ { 2 } } { p _ { 2 } - 1 } \\frac { p _ { 2 } } { p _ { 1 } } } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "where $C$ depends only on $n , q _ { - } , \\lambda _ { \\pm } , p _ { \\pm } , \\| g \\| _ { L ^ { q ( \\cdot ) } ( \\Omega ) }$ ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "To apply Lemma 5.1, taking $d \\geq 1$ to be chose later and seting $k _ { i } = d ( 1 - 2 ^ { - i } )$ ， $\\begin{array} { r } { r _ { i } = \\frac { 1 } { 2 } ( 1 + 2 ^ { - i } ) } \\end{array}$ ， we have $k _ { i + 1 } - k _ { i } =$ ${ \\textstyle { \\frac { d } { 2 } } } 2 ^ { - i }$ ， $\\textstyle r _ { i + 1 } - r _ { i } = { \\frac { 1 } { 4 } } 2 ^ { - i }$ . Rewriting (60) with $\\rho = r _ { i + 1 } , r = r _ { i } , k = k _ { i + 1 } , h = k _ { i }$ and $\\vartheta _ { i } = d ^ { - p _ { 2 } } \\tilde { \\Phi } _ { k _ { i } , r _ { i } }$ and exploiting again the fact that $d \\geq 1$ , we deduce that ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\vartheta _ { i + 1 } = d ^ { - p _ { 2 } } \\tilde { \\Phi } _ { k _ { i + 1 } , \\rho _ { i + 1 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\le C d ^ { \\frac { p _ { 2 } } { p _ { 1 } } ( p _ { 2 } - p _ { 1 } ) } 2 ^ { i p _ { 2 } ( \\tilde { \\beta } + \\frac { p _ { 2 } } { p _ { 1 } } ) } \\vartheta _ { i } ^ { \\tilde { \\beta } + \\frac { p _ { 2 } } { p _ { 1 } } } + C d ^ { - p _ { 2 } } 2 ^ { i p _ { 2 } \\tilde { \\theta } } \\vartheta _ { i } ^ { \\tilde { \\theta } } } \\\\ & { \\le C d ^ { \\frac { p _ { 2 } } { p _ { 1 } } ( p _ { 2 } - p _ { 1 } ) } 2 ^ { i p _ { 2 } \\tilde { \\theta } } ( \\vartheta _ { i } ^ { \\tilde { \\beta } + \\frac { p _ { 2 } } { p _ { 1 } } } + \\vartheta _ { i } ^ { \\tilde { \\theta } } ) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "where $C$ depends only on $n , q _ { - } , \\lambda _ { \\pm } , p _ { \\pm } , \\widetilde { \\beta } , \\widetilde { \\theta } , \\| g \\| _ { L ^ { q ( \\cdot ) } ( \\Omega ) }$ We now choose $\\begin{array} { r } { d = 1 + \\tilde { \\mathcal { A } } \\left( \\int _ { A _ { 0 , 1 } } \\tilde { v } ^ { p _ { 2 } } \\mathrm { d } y \\right) ^ { \\frac { 1 } { p _ { 2 } } } | A _ { 0 , 1 } | ^ { \\frac { \\tilde { \\alpha } } { p _ { 2 } } } } \\end{array}$ ， where $\\tilde { \\mathcal { A } }$ will befixedabitlater.Analogously tteprecedingargument weoserethat $\\begin{array} { r } { d ^ { \\frac { p _ { 2 } } { p _ { 1 } } ( p _ { 2 } - p _ { 1 } ) } \\le c ( M , p _ { 1 } , p _ { 2 } ) \\left( 1 + \\tilde { \\mathcal { A } } ^ { \\frac { p _ { 2 } } { p _ { 1 } } ( p _ { 2 } - p _ { 1 } ) } \\right) . } \\end{array}$ （20 The choice of $d$ gives ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\vartheta _ { 0 } = d ^ { - p _ { 2 } } \\int _ { A _ { k _ { 0 } , r _ { 0 } } } ( \\tilde { v } - k _ { 0 } ) ^ { p _ { 2 } } \\mathrm { d } y \\vert A _ { k _ { 0 } , r _ { 0 } } \\vert ^ { \\tilde { \\alpha } } = d ^ { - p _ { 2 } } \\vert A _ { 0 , 1 } \\vert ^ { \\tilde { \\alpha } } \\int _ { A _ { 0 , 1 } } \\tilde { v } ^ { p _ { 2 } } \\mathrm { d } y \\le \\tilde { \\mathcal { A } } ^ { - p _ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "We apply Lemma 5.1 with $\\begin{array} { r } { B = 2 ^ { p _ { 2 } \\tilde { \\theta } } > 1 , C = c ( 1 + \\tilde { \\mathcal { A } } ^ { \\frac { p _ { 2 } } { p _ { 1 } } ( p _ { 2 } - p _ { 1 } ) } ) > 1 , 0 < a _ { 1 } = \\tilde { \\beta } + \\frac { p _ { 2 } } { p _ { 1 } } - 1 \\leq \\tilde { \\theta } - 1 = a _ { 2 } . } \\end{array}$ To guarantee that the condition $\\vartheta 0 \\leq ( 2 C ) ^ { - \\frac { 1 } { a _ { 1 } } } B ^ { ^ { - \\frac { 1 } { a _ { 1 } ^ { 2 } } } }$ is satisfied,weavetohoseequantity $\\tilde { \\mathcal { A } }$ in such a way that ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\tilde { \\mathcal { A } } ^ { - p _ { 2 } } = ( 2 C ) ^ { - \\frac { 1 } { a _ { 1 } } } B ^ { - \\frac { 1 } { a _ { 1 } ^ { 2 } } } , \\mathrm { ~ i . e . ~ } \\tilde { \\mathcal { A } } ^ { p _ { 2 } ( \\tilde { \\beta } + \\frac { p _ { 2 } } { p _ { 1 } } - 1 ) } = 2 c B ^ { \\frac { 1 } { \\tilde { \\beta } + \\frac { p _ { 2 } } { p _ { 1 } } - 1 } } ( 1 + \\tilde { \\mathcal { A } } ^ { \\frac { p _ { 2 } } { p _ { 1 } } ( p _ { 2 } - p _ { 1 } ) } ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "We note that $\\tilde { \\beta } > 0$ which guarantees equation (61)hasaunique solution $0 < \\tilde { \\mathcal { A } } < \\infty$ Here $\\tilde { \\mathcal { A } } \\equiv \\tilde { \\mathcal { A } } ( n , q _ { - } , M , p _ { \\pm } , \\lambda _ { \\pm } , \\| g \\| _ { L ^ { q ( \\cdot ) } ( \\Omega ) } )$ （204号 By Lemma 5.1, we conclude that $\\operatorname* { l i m } _ { i \\to \\infty } \\vartheta _ { i } = 0$ ，which, noting that $\\operatorname* { l i m } _ { i \\to \\infty } r _ { i } = { \\frac { 1 } { 2 } }$ and $\\operatorname* { l i m } _ { i \\to \\infty } k _ { i } = d$ ，directly translates into $| A _ { d , \\frac { 1 } { 2 } } | = 0$ and therefore we deduce that ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { s u p } _ { B _ { \\frac { 1 } { 2 } } ( 0 ) } \\tilde { v } \\leq d = C \\left( \\int _ { A _ { 0 , 1 } } ( \\tilde { v } ^ { + } ) ^ { p _ { 2 } } \\mathrm { d } y \\right) ^ { \\frac { 1 } { p _ { 2 } } } | A _ { 0 , 1 } | ^ { \\frac { \\alpha } { p _ { 2 } } } + 1 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "with $C = C ( \\tilde { A } , n , q _ { - } , M , p _ { \\pm } , \\lambda _ { \\pm } , \\| g \\| _ { L ^ { q ( \\cdot ) } ( \\Omega ) } )$ . We should note that the constant $C$ may be replaced by a constant $C =$ $C ( n , q _ { - } , M , p _ { \\pm } , \\lambda _ { \\pm } , \\| g \\| _ { L ^ { q ( \\cdot ) } ( \\Omega ) } )$ ： ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Now we turn to prove local boundedness for minimizers of the functional $\\mathcal { H } _ { \\gamma }$ ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Lemma 10 Let v be a minimizer of $\\mathcal { H } _ { \\gamma }$ governed by (38). Then $v$ is locally bounded and satisfies the estimates ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { s u p } _ { B _ { \\frac { R } { 2 } } ( x _ { 0 } ) } { \\pm v } \\leq C \\left( \\frac { 1 } { | B _ { R } ( x _ { 0 } ) | } \\int _ { B _ { R } ( x _ { 0 } ) } ( ( \\pm v ) ^ { + } ) ^ { p _ { 2 } } d y \\right) ^ { \\frac { 1 } { p _ { 2 } } } + C R ,\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { s u p } _ { B _ { \\frac { R } { 2 } } ( x _ { 0 } ) } v \\leq C \\left( \\int _ { B _ { R } ( x _ { 0 } ) } ( ( v - \\kappa _ { 0 } ) ^ { + } ) ^ { p _ { 2 } } d y \\right) ^ { \\frac { 1 } { p _ { 2 } } } \\left| \\frac { A _ { \\kappa _ { 0 } , R } } { R ^ { n } } \\right| ^ { \\frac { \\alpha } { p _ { 2 } } } + R + \\kappa _ { 0 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "for some $\\alpha > 0$ for all $\\kappa _ { 0 } \\leq \\ \\operatorname* { s u p } \\ v$ ,where $C = C ( n , L , q _ { - } , M , p _ { \\pm } , \\lambda _ { \\pm } , \\| g \\| _ { L ^ { q ( \\cdot ) } ( \\Omega ) } ) .$ $B _ { R } ( x _ { 0 } )$ ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Proof ofLemma 10 Indeed, by the definition of $\\tilde { v }$ and Lemma 9, it follows ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { s u p } _ { x \\in B _ { \\frac { R } { 2 } } ( x _ { 0 } ) } v ( x ) = R \\operatorname* { s u p } _ { y \\in B _ { \\frac { 1 } { 2 } } ( 0 ) } \\tilde { v } ( y )\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\le C R \\bigg ( \\left( \\displaystyle \\int _ { B _ { 1 } ( 0 ) } ( \\tilde { v } ^ { + } ) ^ { p _ { 2 } } \\mathrm { d } y \\right) ^ { \\frac { 1 } { p _ { 2 } } } + 1 \\bigg ) } \\\\ & { \\le C R \\bigg ( \\left( \\displaystyle \\int _ { B _ { R } ( x _ { 0 } ) } \\left( \\frac { v ^ { + } } { R } \\right) ^ { p _ { 2 } } \\frac { 1 } { R ^ { n } } \\mathrm { d } x \\right) ^ { \\frac { 1 } { p _ { 2 } } } + 1 \\bigg ) } \\\\ & { \\le C \\left( \\frac { 1 } { \\vert B _ { R } ( x _ { 0 } ) \\vert } \\displaystyle \\int _ { B _ { R } ( x _ { 0 } ) } ( v ^ { + } ) ^ { p _ { 2 } } \\mathrm { d } y \\right) ^ { \\frac { 1 } { p _ { 2 } } } + C R . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Estimate (62) can be obtained via (41) by a similar argument, taking into account that $| A _ { 0 , R } | = R ^ { n } | A _ { 0 , 1 } |$ and then writing $\\boldsymbol { v } - \\boldsymbol { \\kappa } _ { 0 }$ instead of $v$ ■ ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Lemma 1l Let v be a minimizer of $\\mathcal { H } _ { \\gamma }$ governed by (38). Then for every couple of balls $B _ { \\rho } \\subset B _ { r } \\subset B _ { R }$ having the same center $x _ { 0 }$ and for every $k \\in \\mathbb { R }$ the following two estimates hold ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { A _ { k , \\rho } } | \\nabla v | ^ { p ( x ) } d x \\leq C \\int _ { A _ { k , r } } \\left| \\frac { v - k } { r - \\rho } \\right| ^ { p ( x ) } d x + C r ^ { \\lambda _ { 0 } + n } + C r ^ { n } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { B _ { k , \\rho } } | \\nabla v | ^ { p ( x ) } d x \\leq C \\int _ { B _ { k , r } } \\left| \\frac { v - k } { r - \\rho } \\right| ^ { p ( x ) } d x + C r ^ { \\lambda _ { 0 } + n } + C r ^ { n } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Proof We employ an argument similar to the one used to obtain (42),obtaining ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\displaystyle \\int _ { A _ { k , r } } | \\nabla v | ^ { p ( x ) } \\mathrm { d } x \\le C \\displaystyle \\int _ { A _ { k , r } } \\left| \\frac { v - k } { r - \\rho } \\right| ^ { p ( x ) } \\mathrm { d } x + C \\displaystyle \\int _ { A _ { k , r } } | r - \\rho | ^ { \\frac { p ( x ) } { p ( x ) - \\tau } } \\mathrm { d } x + C \\displaystyle \\int _ { A _ { k , r } } ( | r - \\rho | | g | ) ^ { \\frac { p ( x ) } { p ( x ) - 1 } } \\mathrm { d } x } & { } \\\\ { \\le C \\displaystyle \\int _ { A _ { k , r } } \\left| \\frac { v - k } { r - \\rho } \\right| ^ { p ( x ) } \\mathrm { d } x + C \\displaystyle \\int _ { A _ { k , r } } | r - \\rho | ^ { \\frac { p ( 2 ) } { p _ { 2 } - \\tau } } \\mathrm { d } x } & { } \\\\ { + C | r - \\rho | ^ { \\frac { p _ { 1 } } { p _ { 1 } - 1 } } | A _ { k , r } | ^ { 1 - \\frac { 1 } { q _ { 2 } } - \\frac { p _ { 1 } } { p _ { 1 } - 1 } } \\left( \\displaystyle \\int _ { A _ { k , r } } | g | ^ { q - } \\mathrm { d } x \\right) ^ { \\frac { p _ { 2 } } { p _ { 2 } - 1 } \\frac { 1 } { q _ { 2 } } } + | A _ { k , r } | } & { } \\\\ { \\le C \\displaystyle \\int _ { A _ { k , r } } \\left| \\frac { v - k } { r - \\rho } \\right| ^ { p ( x ) } \\mathrm { d } x + C r ^ { \\lambda _ { 0 } + n } + C r ^ { n } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Now we shall prove Holder regularity for the minimizers of the functional $\\mathcal { H } _ { \\gamma }$ ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Proof of Theorem 2 Let $v$ be a minimizer of the functional $\\mathcal { H } _ { \\gamma }$ governed by (38). Let $\\displaystyle \\sec ( v , \\rho ) = \\displaystyle \\operatorname* { s u p } _ { B _ { \\rho } } v - \\operatorname* { i n f } _ { B _ { \\rho } } v$ . Due to Lemma 11,one may proceed exactly as in [5,Lemma 4.1O], to see that the minimizer $v$ has also an estimate as (4.40) in [5, Lemma 4.1O]. Again, due to Lemma 10 and proceeding as in [5,Proposition 4.11], we have ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname { o s c } ( v , \\rho ) \\leq c { \\Biggl ( } \\left( { \\frac { \\rho } { r } } \\right) ^ { \\alpha _ { 1 } } \\operatorname { o s c } ( v , r ) + \\rho ^ { \\alpha _ { 1 } } { \\Biggr ) } , \\forall \\rho < r < { \\frac { R } { 4 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "for some $0 < \\alpha _ { 1 } < 1$ .By a slight modification of proof of [5,Proposition 4.12],(63) gives ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { B _ { p } } | v - ( v ) _ { \\rho } | ^ { p _ { 2 } } \\mathrm { d } x \\leq C \\left( \\frac { \\rho } { R } \\right) ^ { n + p _ { 2 } \\alpha _ { 1 } } \\int _ { B _ { R } } | v - ( v ) _ { R } | ^ { p _ { 2 } } \\mathrm { d } x + C \\rho ^ { n + p _ { 2 } \\alpha _ { 1 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { B _ { \\rho } } | \\nabla v | ^ { p ( x ) } \\mathrm { d } x \\leq C \\left( \\frac { \\rho } { R } \\right) ^ { n - p _ { 2 } + p _ { 2 } \\alpha _ { 1 } } \\int _ { B _ { R } } | \\nabla v | ^ { p ( x ) } \\mathrm { d } x + C \\rho ^ { n - p _ { 2 } + p _ { 2 } \\alpha _ { 1 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "It follows from Lemma 5.2 that ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { B _ { \\rho } } | v - ( v ) _ { \\rho } | ^ { p _ { 2 } } \\mathrm { d } x \\leq C \\rho ^ { n + p _ { 2 } \\alpha _ { 1 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { B _ { \\rho } } | \\nabla v | ^ { p ( x ) } \\mathrm { d } x \\leq C \\rho ^ { n - p _ { 2 } + p _ { 2 } \\alpha _ { 1 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Notice that each of the above inequalities combining with covering theorem implies $v \\in C _ { l o c } ^ { 0 , \\alpha _ { 1 } } ( \\Omega )$ . This concludes the proof ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "6Holder estimates for minimizers of functional $\\mathcal { I } _ { \\gamma }$ ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Proof of Theorem 3 We proceed in five steps. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "First step: Localization. Let $\\delta _ { 1 } < \\mathrm { m i n } \\{ p _ { - } - 1 , \\delta _ { 0 } \\}$ that will be chosen much smaller a bit later.Fix a ball $B _ { R _ { 0 } } \\Subset \\Omega$ with the property $\\begin{array} { r } { \\omega ( 8 R _ { 0 } ) < \\frac { \\delta _ { 1 } } { 4 } } \\end{array}$ . Let $B _ { 4 R } \\Subset B _ { \\frac { R _ { 0 } } { 4 } }$ . Define $p _ { 2 } = \\operatorname* { m a x } _ { \\overline { { B } } _ { 4 R } } p ( x )$ ， $p _ { 1 } = \\operatorname* { m i n } _ { \\overline { { B } } _ { 4 R } } p ( x )$ . We remark that by continuity of $p ( x )$ , there exists $x _ { 0 } \\in \\overline { { B } } _ { 4 R }$ , not necessarily the center,such that $p _ { 2 } = p ( x _ { 0 } )$ . Consequently we obtain ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { p _ { 2 } - p _ { 1 } \\le \\omega ( 8 R ) \\le \\displaystyle \\frac { \\delta _ { 1 } } { 4 } , } \\\\ & { p _ { 2 } ( 1 + \\displaystyle \\frac { \\delta _ { 1 } } { 4 } ) \\le p ( x ) ( 1 + \\displaystyle \\frac { \\delta _ { 1 } } { 4 } + \\omega ( R ) ) \\le p ( x ) ( 1 + \\displaystyle \\frac { \\delta _ { 1 } } { 4 } + \\omega ( 2 R ) ) \\le p ( x ) ( 1 + \\delta _ { 1 } ) \\mathrm { i n } B _ { R } ( x _ { 0 } ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Furthermore we note the localization together with the bound(7) for the modulus of continuity yields for any $8 R \\leq R _ { 0 } \\leq 1$ ： ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR ^ { - n \\omega ( R ) } \\leq \\exp ( n L ) = c ( n , L ) , R ^ { - \\frac { n \\omega ( R ) } { 1 + \\omega ( R ) } } \\leq c ( n , L ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "In the following proofs we consider all the balls with the same center $x _ { 0 }$ ： ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Second step: Higher integrability.Byour higher integrability result (Proposition 4.1)and localization,it holds that ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 } { | B _ { 2 R } | } \\int _ { B _ { 2 R } } | \\nabla u | ^ { p _ { 2 } ( 1 + \\frac { \\delta _ { 1 } } { 4 } ) } \\mathrm { d } x \\le C _ { 0 } \\bigg ( \\frac { 1 } { | B _ { 2 R } | } \\int _ { B _ { 2 R } } | \\nabla u | ^ { p ( x ) } \\mathrm { d } x \\bigg ) ^ { 1 + \\frac { \\delta _ { 1 } } { 4 } } + C _ { 0 } \\frac { 1 } { | B _ { 2 R } | } \\int _ { B _ { 2 R } } \\bigg ( 1 + | g | ^ { \\frac { p _ { - } } { p _ { - } - 1 } ( 1 + \\frac { \\delta _ { 1 } } { 4 } ) } \\bigg )\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Third step: Freezing. Let $v \\in W ^ { 1 , p _ { 2 } } ( B _ { R } )$ with $v - u \\in W _ { 0 } ^ { 1 , p _ { 2 } } ( B _ { R } )$ be a minimizer of the functional ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathscr { G } ( v ) = \\int _ { B _ { R } } f ( x _ { 0 } , \\nabla v ) \\mathrm { d } x = \\int _ { B _ { R } } \\tilde { h } ( \\nabla v ) \\mathrm { d } x .\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Note that by Remark 1 and the growth condition (4), we obtain the following estimate for the $p _ { 2 }$ energy of $v$ ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { B _ { R } } | \\nabla v | ^ { p _ { 2 } } \\mathrm { d } x \\leq L ^ { 2 } \\int _ { B _ { R } } ( 1 + | \\nabla u | ^ { p _ { 2 } } ) \\mathrm { d } x < \\infty .\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Moreover,inviewof[14,Lemma3.1],threeist $C = C ( p _ { \\pm } , L ) , \\delta _ { 2 } = \\delta _ { 2 } ( p _ { \\pm } , L )$ with $\\begin{array} { r } { 0 < \\delta _ { 2 } < \\frac { q - p _ { 2 } } { p _ { 2 } } } \\end{array}$ such that ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\frac { 1 } { | B _ { R } | } \\int _ { B _ { R } } | \\nabla v | ^ { p _ { 2 } ( 1 + \\delta _ { 2 } ) } \\mathrm { d } x \\right) ^ { \\frac { 1 } { 1 + \\delta _ { 2 } } } \\leq C \\left( \\frac { 1 } { | B _ { R } | } \\int _ { B _ { R } } | \\nabla v | ^ { p _ { 2 } } \\mathrm { d } x \\right) ^ { \\frac { 1 } { p _ { 2 } } } + C \\left( \\frac { 1 } { | B _ { 2 R } | } \\int _ { B _ { 2 R } } | \\nabla u | ^ { q } \\mathrm { d } x \\right) ^ { \\frac { 1 } { q } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "for $\\begin{array} { r } { q = p _ { 2 } ( 1 + \\frac { \\delta _ { 1 } } { 4 } ) > p _ { 2 } } \\end{array}$ By the proof of Theorem 2, and the boundednessof $v$ , which is guaranteed by the boundedness of $u$ that there exists some $\\alpha _ { 2 } \\in ( 0 , 1 )$ such that ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { B _ { \\rho } } | \\nabla v | ^ { p _ { 2 } } \\mathrm { d } x \\leq C \\left( \\frac { \\rho } { R } \\right) ^ { n - p _ { 2 } + p _ { 2 } \\alpha _ { 2 } } \\int _ { B _ { R } } | \\nabla v | ^ { p _ { 2 } } \\mathrm { d } x + C \\rho ^ { n - p _ { 2 } + p _ { 2 } \\alpha _ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "for any $\\rho$ with $2 \\rho < R$ = ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Fourth step: Comparison estimate.We prove the following comparison estimate ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } {  { \\int _ { B _ { R } } ( \\mu ^ { 2 } + | \\nabla u | ^ { 2 } + | \\nabla v | ^ { 2 } ) ^ { \\frac { p _ { 2 } - 2 } { 2 } } | \\nabla u - \\nabla v | ^ { 2 } \\mathrm { d } x \\le C \\bigg ( \\omega ( R ) \\log \\big ( \\frac { 1 } { R } \\big ) + R ^ { \\theta _ { 1 } } + R ^ { \\theta _ { 2 } } \\bigg ) \\int _ { B _ { 4 R } } ( 1 + | \\nabla u | ^ { p _ { 2 } } ) \\mathrm { d } x } } \\\\ & { } & { + C \\omega ( R ) \\log \\big ( \\frac { 1 } { R } \\big ) R ^ { \\lambda _ { 1 } } + C R ^ { \\lambda _ { 2 } } + C R ^ { \\lambda _ { 3 } } , ~ } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "for some $0 < \\lambda _ { 1 } < n , \\lambda _ { 2 } > n , \\lambda _ { 3 } > n$ ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "A similar argument to the one in [4,(4.1O)] yields ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { B _ { R } } ( \\tilde { h } ( \\nabla u ) - \\tilde { h } ( \\nabla v ) ) \\mathrm { d } x \\geq C \\int _ { B _ { R } } ( \\mu ^ { 2 } + | \\nabla u | ^ { 2 } + | \\nabla v | ^ { 2 } ) ^ { \\frac { p _ { 2 } - 2 } { 2 } } | \\nabla u - \\nabla v | ^ { 2 } \\mathrm { d } x .\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, we derive ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\displaystyle \\int _ { B _ { R } } ( \\tilde { h } ( \\nabla u ) - \\tilde { h } ( \\nabla v ) ) \\mathrm { d } x = \\int _ { B _ { R } } ( ( f ( x _ { 0 } , \\nabla u ) - f ( x , \\nabla u ) ) \\mathrm { d } x + \\int _ { B _ { R } } ( ( f ( x , \\nabla u ) - f ( x , \\nabla v ) ) \\mathrm { d } x } & { } \\\\ { + \\displaystyle \\int _ { B _ { R } } ( ( f ( x , \\nabla v ) - f ( x _ { 0 } , \\nabla v ) ) \\mathrm { d } x } & { } \\\\ { = I ^ { ( 1 ) } + I ^ { ( 2 ) } + I ^ { ( 3 ) } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "We estimate $I ^ { ( 1 ) }$ , using the continuity of the integrand with respect to the variable $x$ (see (2.3)), ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI ^ { ( 1 ) } \\leq C \\int _ { B _ { R } } \\omega \\big ( | x - x _ { 0 } | \\big ) \\big ( ( \\mu ^ { 2 } + | \\nabla u | ^ { 2 } ) ^ { \\frac { p ( x ) } { 2 } } + ( \\mu ^ { 2 } + | \\nabla u | ^ { 2 } ) ^ { \\frac { p _ { 2 } } { 2 } } \\big ) \\big ( 1 + | \\log ( \\mu ^ { 2 } + | \\nabla u | ^ { 2 } ) \\big | \\big ) \\mathrm { d } x .\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Arguing exactly as [4, Section 4], we obtain ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { I ^ { ( 1 ) } \\le C \\omega ( R ) \\displaystyle \\int _ { B _ { R } } | \\nabla u | ^ { p _ { 2 } } \\log ( e + \\| | \\nabla u | ^ { 2 } \\| _ { L ^ { 1 } ( B _ { R } ) } ) { \\mathrm { d } } x } \\\\ { \\displaystyle \\quad + C \\omega ( R ) \\displaystyle \\int _ { B _ { R } } | \\nabla u | ^ { p _ { 2 } } \\log \\left( e + \\frac { | \\nabla u | ^ { p _ { 2 } } } { \\| | \\nabla u | ^ { 2 } \\| _ { L ^ { 1 } ( B _ { R } ) } } \\right) { \\mathrm { d } } x + C \\omega ( R ) R ^ { n } } \\\\ { \\displaystyle = I _ { 1 } ^ { ( 1 ) } + I _ { 2 } ^ { ( 1 ) } + I _ { 3 } ^ { ( 1 ) } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "with ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { 1 } ^ { ( 1 ) } \\leq C \\omega ( R ) \\log { ( \\frac { 1 } { R } ) } \\int _ { B _ { R } } ( 1 + | \\nabla u | ^ { p _ { 2 } } ) \\mathrm { d } x .\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Now we estimate $I _ { 2 } ^ { ( 1 ) }$ ,usingfirst[14,(3.3)], ichisbasicetitefoe $L \\log L$ norm, then exploiting higherintegrability. ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\frac { \\partial ^ { 2 } } { \\partial \\tau ^ { 2 } } \\leq C ( 1 / N ) \\delta ( 2 N ) \\delta ( \\frac { 1 } { \\tau ^ { 3 } } \\| \\sum _ { \\mu _ { \\lambda } \\geq 0 } \\| \\nabla u \\| ^ { \\sigma _ { \\lambda } + 1 / \\lambda } \\| _ { \\partial \\tau _ { \\lambda } } ^ { \\lambda } ) ^ { \\frac { 1 } { \\gamma } } } \\\\ & { \\leq C ( 3 / N ) \\delta ( 2 N ) + C ( \\alpha / N ) T ( \\frac { 1 } { \\lambda } \\| \\sum _ { \\mu _ { \\lambda } \\geq 0 } \\| \\nabla u \\| ^ { \\sigma _ { \\lambda } + 1 / \\lambda } + \\alpha ^ { 1 / \\lambda } \\| _ { \\partial \\tau _ { \\lambda } } ^ { \\lambda } ) ^ { \\frac { 1 } { \\gamma - \\alpha } } } \\\\ & { \\leq C ( 3 / N ) \\delta ( 2 N ) + C ( \\alpha / N ) T ( \\frac { 1 } { \\lambda } \\| \\sum _ { \\mu _ { \\lambda } \\geq 0 } \\| u \\| ^ { \\sigma _ { \\lambda } } ) ^ { \\frac { 1 } { \\gamma } } ( \\nabla u \\| ^ { \\sigma _ { \\lambda } } ) ^ { \\frac { 1 } { \\gamma } - \\alpha } } \\\\ & { \\quad + C ( 3 / N ) \\delta ( \\frac { 1 } { \\lambda } \\| \\sum _ { \\mu _ { \\lambda } \\geq 0 } | \\int _ { \\mathbb { R } _ { 0 } } ^ { \\infty } \\xi + \\| u \\| ^ { \\sigma _ { \\lambda } } \\| _ { \\partial \\tau _ { \\lambda } } ) ^ { \\frac { 1 } { \\gamma - \\alpha } } } \\\\ & { \\quad + C _ { ( 3 / N ) } ( \\frac { 1 } { \\lambda } \\| \\sum _ { \\mu _ { \\lambda } \\geq 0 } | \\int _ { \\mathbb { R } _ { 0 } } ^ { \\infty } \\xi + \\| u \\| ^ { \\sigma _ { \\lambda } } \\| _ { \\partial \\tau _ { \\lambda } } | ) ^ { \\frac { 1 } { \\gamma - \\alpha } } } \\\\ & { \\leq C ( \\alpha / N ) T + C ( \\alpha / N ) T \\delta ( \\frac { 1 } { \\lambda } \\| \\sum _ { \\mu _ { \\lambda } \\geq 0 } | \\int _ { \\mathbb { R } _ { 0 } } ^ { \\infty } | \\int _ { \\mathbb { R } _ { 0 } } ^ { \\infty } | u \\| ^ { \\lambda } | ) ( \\int _ { \\mathbb { R } _ { 0 } } | \\nabla u \\| ^ { \\sigma _ { \\lambda } } \\mathrm { e x i s h } ) ( \\int _ { \\mathbb { R } _ { 0 } } | \\nabla u \\| ^ { \\sigma _ { \\lambda } } \\mathrm { e x i s h } ) ^ { \\frac { 1 } { \\gamma - \\alpha } } } \\\\ & { \\quad + C _ { ( 3 / N ) } ( \\alpha / N ) | \\int _ { \\mathbb { R } _ { 0 } } ^ { \\infty } \\frac { 1 } { \\gamma - \\alpha } \\| u \\| _ { \\rho } ^ { \\lambda } | ^ { \\gamma } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "where $\\begin{array} { r } { \\lambda _ { 1 } = n - \\frac { n } { 1 + \\frac { \\delta _ { 1 } } { 4 } } + n [ 1 - \\frac { 1 } { q _ { - } } \\frac { p _ { 1 } } { p _ { 1 } - 1 } ( 1 + \\delta _ { 1 } ) ] \\frac { 1 } { 1 + \\frac { \\delta _ { 1 } } { 4 } } } \\end{array}$ Notice hat $\\delta _ { 1 } < \\delta _ { 0 } < q _ { - } ( 1 - \\frac { 1 } { p _ { - } } ) - 1$ ,terefore $0 < \\lambda _ { 1 } < n$ ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Thus,all together we obtain ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI ^ { ( 1 ) } \\leq C \\omega ( R ) \\log \\big ( \\frac { 1 } { R } \\big ) \\bigg ( \\int _ { B _ { 2 R } } ( 1 + | \\nabla u | ^ { p _ { 2 } } ) \\mathrm { d } x + R ^ { \\lambda _ { 1 } } \\bigg ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "We shall estimate $I ^ { ( 2 ) }$ . By the minimizing property of $u$ and arguing as in Section 4, we have ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { I ^ { ( 2 ) } \\le \\displaystyle \\int _ { R _ { R } } \\big ( P _ { > } ( v ) - P _ { < } ( u ) + g ( v - u ) \\big ) \\mathrm { d } x } \\\\ { \\le C \\displaystyle \\int _ { R _ { R } } | v - u | ^ { \\gamma _ { \\Phi } } \\big ( x - \\int _ { R _ { R } } g ( v - u ) \\mathrm { d } x } \\\\ { \\le C \\Big ( \\displaystyle \\int _ { \\rho _ { R } } | \\nabla v - \\nabla u | ^ { \\nu _ { \\Phi } } \\Big ) ^ { \\frac { \\gamma _ { \\Phi } } { 2 } } | D _ { R } | ^ { \\frac { \\gamma _ { \\Phi } - \\gamma } { \\gamma _ { \\Phi } } } | B _ { R } | ^ { \\frac { \\gamma _ { \\Phi } } { 2 } } + C | | g | | _ { L ^ { \\frac { \\gamma _ { \\Phi } - \\gamma } { \\gamma _ { \\Phi } } } ( B _ { R } ) } | B _ { R } | ^ { \\frac { 1 } { \\gamma _ { \\Phi } } } \\bigg ( \\displaystyle \\int _ { B _ { R } } | \\nabla v - \\nabla u | ^ { \\nu _ { \\Phi } } \\mathrm { d } x \\bigg ) ^ { \\frac { 1 } { \\gamma _ { \\Phi } } } } \\\\ { \\le \\varepsilon _ { 1 } \\displaystyle \\int _ { R _ { R } } | \\nabla v - \\nabla u | ^ { \\gamma _ { \\Phi } } \\mathrm { d } x + C ( \\varepsilon _ { 1 } ) | B _ { R } | ^ { \\frac { ( \\frac { \\gamma _ { \\Phi } - \\gamma } { \\gamma _ { \\Phi } } + \\frac { \\gamma } { \\gamma _ { \\Phi } } ) \\frac { \\gamma _ { \\Phi } } { 2 - \\gamma } } } + \\varepsilon _ { 2 } \\displaystyle \\int _ { B _ { R } } | \\nabla v - \\nabla u | ^ { \\rho _ { \\Phi } } \\mathrm { d } x } \\\\ { + C ( \\varepsilon _ { 2 } ) \\Big ( \\| g \\| _ { L ^ { \\frac { \\gamma _ { \\Phi } - 2 } { \\gamma _ { \\Phi } } } ( B _ { R } ) } | B _ { R } | ^ { \\frac { 1 } { \\gamma _ { \\Phi } } } \\Big ) ^ { \\frac { \\gamma _ { \\Phi } - 2 } { \\gamma _ { \\Phi } } } } \\\\  \\le ( \\varepsilon _ { 1 } + \\varepsilon _ { 2 } ) \\displaystyle \\int _ { B _ { R } } | \\nabla v - \\nabla u | ^ { \\gamma _ { \\Phi } } \\mathrm { d } x + C ( \\varepsilon _ { 1 } ) R ^ { n + \\frac { \\gamma _ { \\Phi } - \\gamma } { \\gamma _ { \\Phi } } } + C ( \\varepsilon _ { 2 } ) | g | _  L ^ { \\frac { \\gamma _ { \\Phi } - 1 } { \\gamma _ { \\Phi } - ( B _ { R } ) } } ^  \\frac { \\gamma _ { \\Phi } - 1 } { \\gamma _ { \\Phi } - ( B _ { R } ) } R ^  1 \\left( 1 - \\frac { \\gamma _ { \\Phi } - 1 } { \\gamma _ { \\Phi } - ( B _ { R } ) } \\right) \\frac { 1 }  \\gamma _ { \\Phi } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "where in the last but one inequality we used Young’ inequality with $\\begin{array} { r } { C ( \\varepsilon _ { 1 } ) = C \\left( \\frac { \\gamma } { \\varepsilon _ { 1 } p _ { 2 } } \\right) ^ { \\frac { \\gamma } { p _ { 2 } - \\gamma } } \\frac { p _ { 2 } - \\gamma } { p _ { 2 } } \\leq C \\left( \\frac { 1 } { \\varepsilon _ { 1 } p _ { 2 } } \\right) ^ { \\frac { \\gamma } { p _ { 2 } - \\gamma } } \\frac { p _ { 2 } - \\gamma } { p _ { 2 } } , } \\end{array}$ ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "and $\\begin{array} { r } { C ( \\varepsilon _ { 2 } ) = C \\left( \\frac { 1 } { \\varepsilon _ { 2 } p _ { 2 } } \\right) ^ { \\frac { 1 } { p _ { 2 } - 1 } } \\frac { p _ { 2 } - 1 } { p _ { 2 } } } \\end{array}$ ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Choosing $\\theta _ { 1 } , \\theta _ { 2 } > 0$ small enough such that $0 < \\theta _ { 1 } < p _ { 2 }$ and $\\begin{array} { r } { 0 < \\theta _ { 2 } < n p _ { 2 } ( \\frac { 1 } { n } - \\frac { 1 } { q _ { - } } ) } \\end{array}$ , and setting $\\varepsilon _ { i } = R ^ { \\theta _ { i } }$ , we have ",
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { I ^ { ( 2 ) } \\le ( R ^ { \\theta _ { 1 } } + R ^ { \\theta _ { 2 } } ) \\displaystyle \\int _ { B _ { R } } | \\nabla v - \\nabla u | ^ { p _ { 2 } } \\mathrm { d } x + C R ^ { n + \\frac { p _ { 2 } \\gamma } { p _ { 2 } - \\gamma } - \\frac { \\gamma \\theta _ { 1 } } { p _ { 2 } - \\gamma } } + C R ^ { n [ 1 + \\frac { p _ { 2 } } { p _ { 2 } - 1 } ( \\frac { 1 } { n } - \\frac { 1 } { q _ { - } } ) ] - \\frac { \\theta _ { 2 } } { p _ { 2 } - 1 } } } \\\\ & { \\qquad \\le C ( R ^ { \\theta _ { 1 } } + R ^ { \\theta _ { 2 } } ) \\displaystyle \\int _ { B _ { R } } ( | \\nabla v | ^ { p _ { 2 } } + | \\nabla u | ^ { p _ { 2 } } ) \\mathrm { d } x + C R ^ { \\lambda _ { 2 } } + C R ^ { \\lambda _ { 3 } } , } \\\\ & { \\qquad \\le C ( R ^ { \\theta _ { 1 } } + R ^ { \\theta _ { 2 } } ) \\displaystyle \\int _ { B _ { R } } ( 1 + | \\nabla u | ^ { p _ { 2 } } ) \\mathrm { d } x + C R ^ { \\lambda _ { 2 } } + C R ^ { \\lambda _ { 3 } } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "where $\\begin{array} { r } { \\lambda _ { 2 } = n + \\frac { p _ { 2 } \\gamma } { p _ { 2 } - \\gamma } - \\frac { \\gamma \\theta _ { 1 } } { p _ { 2 } - \\gamma } \\geq n , \\lambda _ { 3 } = n [ 1 + \\frac { p _ { 2 } } { p _ { 2 } - 1 } ( \\frac { 1 } { n } - \\frac { 1 } { q _ { - } } ) ] - \\frac { \\theta _ { 2 } } { p _ { 2 } - 1 } > n } \\end{array}$ ad it sili (64). ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "We deal with $I ^ { ( 3 ) }$ in a similar way to $I ^ { ( 1 ) }$ . Estimating in exactly the same way as in (70) with $v$ instead of $u$ and doing the same splitting into $I ^ { ( 1 ) }$ to $I ^ { ( 3 ) }$ , we use higher integrability of $v$ and $u$ (65) and Proposition 4.1) to obtain ",
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { T _ { 2 } ^ { ( 3 ) } \\le C \\omega ( R ) R ^ { n } \\left( \\frac { 1 } { | B _ { R } | } \\displaystyle \\int _ { B _ { R } } | \\nabla v | ^ { p _ { 2 } ( 1 + \\delta _ { 2 } ) } \\mathrm { d } x \\right) ^ { \\frac { 1 } { n + \\varepsilon _ { 2 } } } } & { } \\\\ { \\ } & { \\le C \\omega ( R ) R ^ { n } \\bigg ( \\left( \\frac { 1 } { | B _ { R } | } \\displaystyle \\int _ { B _ { R } } | \\nabla v | ^ { p _ { 2 } ( 1 + \\delta _ { 2 } ) } \\right) ^ { \\frac { 1 } { n + \\varepsilon _ { 2 } } } + \\left( \\frac { 1 } { | B _ { 2 R } | } \\displaystyle \\int _ { B _ { 2 R } } | \\nabla u | ^ { p _ { 2 } ( 1 + \\frac { \\delta _ { 1 } } { 4 } ) } \\mathrm { d } x \\right) ^ { \\frac { 1 } { p _ { 2 } ( 1 + \\frac { \\delta _ { 1 } } { 4 } ) } } \\bigg ) } \\\\ { \\ } & { \\le C \\omega ( R ) R ^ { n } \\bigg ( \\frac { 1 } { | B _ { R } | } \\displaystyle \\int _ { B _ { R } } ( 1 + | \\nabla v | ^ { p _ { 2 } ) } \\mathrm { d } x + \\left( \\frac { 1 } { | B _ { 2 R } | } \\displaystyle \\int _ { B _ { 2 R } } ( 1 + | \\nabla u | ^ { p _ { 2 } ( 1 + \\frac { \\delta _ { 1 } } { 4 } ) } ) \\mathrm { d } x \\right) ^ { \\frac { 1 } { 1 + \\frac { \\varepsilon _ { 2 } } { 4 } } } \\bigg ) } \\\\ { \\ } & { \\le C \\omega ( R ) \\displaystyle \\int _ { B _ { R } } ( 1 + | \\nabla u | ^ { p _ { 2 } } ) \\mathrm { d } x + C \\omega ( R ) \\left( \\frac { 1 } { | B _ { 2 R } | } \\displaystyle \\int _ { B _ { 2 R } } | \\nabla u | ^ { p _ { 2 } ( 1 + \\frac { \\delta _ { 1 } } { 4 } ) } \\mathrm { d } x \\right) ^ { \\frac { 1 } { 1 + \\frac { \\delta _ { 1 } } { 4 } } } } \\\\ { \\ } & { \\le C \\omega ( R ) \\displaystyle \\int _ { B _ { 2 R } } ( 1 + | \\nabla u | ^ { p _ { 2 } } ) \\mathrm { d } x + C \\omega ( R ) R ^ { \\lambda _ { 1 } } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "wher in the last nequality we used the estimate for $I _ { 2 } ^ { ( 1 ) }$ to handle the second term since we assume that $B _ { 4 R } \\Subset B _ { \\frac { R _ { 0 } } { 4 } }$ at the beginning of the third step. All together we end up with ",
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI ^ { ( 3 ) } \\leq C \\omega ( R ) \\log \\big ( \\frac { 1 } { R } \\big ) \\bigg ( \\int _ { B _ { 4 R } } ( 1 + | \\nabla u | ^ { p _ { 2 } } ) \\mathrm { d } x + R ^ { \\lambda _ { 1 } } \\bigg ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "From (68) to (71),one may obtain (67). ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Fifth step: Conclusion. Now we turn to prove a decay estimate for the $p _ { 2 }$ energy of $u$ . We split as follows: ",
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } {  { \\int _ { B _ { \\rho } } | \\nabla u | ^ { p _ { 2 } } \\mathrm { d } x \\le \\int _ { B _ { \\rho } } ( \\mu ^ { 2 } + | \\nabla u | ^ { 2 } ) ^ { \\frac { p _ { 2 } } { 2 } } \\mathrm { d } x } } \\\\ & { } & { \\le C \\int _ { B _ { \\rho } } ( \\mu ^ { 2 } + | \\nabla v | ^ { 2 } ) ^ { \\frac { p _ { 2 } } { 2 } } \\mathrm { d } x + C \\int _ { B _ { \\rho } } ( \\mu ^ { 2 } + | \\nabla u | ^ { 2 } + | \\nabla v | ^ { 2 } ) ^ { \\frac { p _ { 2 } - 2 } { 2 } } | \\nabla u - \\nabla v | ^ { 2 } \\mathrm { d } x } \\\\ & { } & { = \\mathcal A + \\mathcal B , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "where $C > 0$ depends only in $p _ { 2 }$ ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "For $\\mathcal { A }$ ,we deduce from (64) and (66) that ",
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { A } \\leq C \\rho ^ { n } + C \\int _ { B _ { \\rho } } | \\nabla v | ^ { p _ { 2 } } \\mathrm { d } x\n$$",
+        "text_format": "latex",
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } {  { \\le C R ^ { n } + C ( \\frac { \\rho } { R } ) ^ { n - p _ { 2 } + p _ { 2 } \\alpha _ { 2 } } \\int _ { B _ { R } } | \\nabla v | ^ { p _ { 2 } } \\mathrm { d } x + C \\rho ^ { n - p _ { 2 } + p _ { 2 } \\alpha _ { 2 } } } \\quad } & { } \\\\ & { \\le C ( \\frac { \\rho } { R } ) ^ { n - p _ { 2 } + p _ { 2 } \\alpha _ { 2 } } \\int _ { B _ { R } } ( 1 + | \\nabla u | ^ { p _ { 2 } } ) \\mathrm { d } x + C \\rho ^ { n - p _ { 2 } + p _ { 2 } \\alpha _ { 2 } } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "For $\\boldsymbol { B }$ ,by the comparison estimate (67),it follows that ",
+        "page_idx": 23
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { B } \\leq C \\bigg ( \\omega ( R ) \\log \\big ( \\frac { 1 } { R } \\big ) + R ^ { \\theta _ { 1 } } + R ^ { \\theta _ { 2 } } \\bigg ) \\int _ { B _ { 4 R } } \\bigl ( 1 + | \\nabla u | ^ { p _ { 2 } } \\big ) \\mathrm { d } x + C \\omega ( R ) \\log \\big ( \\frac { 1 } { R } \\big ) R ^ { \\lambda _ { 1 } } + R ^ { \\lambda _ { 2 } } + R ^ { \\lambda _ { 3 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Note that $\\lambda _ { 1 } < n < \\lambda _ { 2 } , \\lambda _ { 3 }$ , then we have ",
+        "page_idx": 23
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { B _ { r } } | \\nabla u | ^ { p _ { 2 } } \\mathrm { d } x \\le C \\bigg ( \\Big ( \\frac { \\rho } { R } \\Big ) ^ { n - p _ { 2 } + p _ { 2 } \\alpha _ { 2 } } + \\omega ( R ) \\log \\big ( \\frac { 1 } { R } \\big ) + R ^ { \\theta _ { 1 } } + R ^ { \\theta _ { 2 } } \\bigg ) \\int _ { B _ { 4 { R } } } ( 1 + | \\nabla u | ^ { p _ { 2 } } ) \\mathrm { d } x + C R ^ { \\lambda _ { 1 } } + C\n$$",
+        "text_format": "latex",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, by (9） we have $\\begin{array} { r } { n ( 1 - \\frac { 1 } { q _ { - } } \\frac { p _ { 1 } } { p _ { 1 } - 1 } ) > n - p _ { 2 } } \\end{array}$ , therefore we may choose $\\delta _ { 1 }$ and $\\alpha _ { 2 }$ small enough such that $\\begin{array} { r } { \\lambda _ { 1 } = n - \\frac { n } { 1 + \\frac { \\delta _ { 1 } } { 4 } } + n \\big ( 1 - \\frac { 1 } { q _ { - } } \\frac { p _ { 1 } } { p _ { 1 } - 1 } ( 1 + \\delta _ { 1 } ) \\big ) \\frac { 1 } { 1 + \\frac { \\delta _ { 1 } } { 4 } } \\geq n - p _ { 2 } + p _ { 2 } \\alpha _ { 2 } . } \\end{array}$ Thus ",
+        "page_idx": 23
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { B _ { \\rho } } | \\nabla u | ^ { p _ { 2 } } \\mathrm { d } x \\le C \\bigg ( \\Big ( \\frac { \\rho } { R } \\Big ) ^ { n - p _ { 2 } + p _ { 2 } \\alpha _ { 2 } } + \\omega ( R ) \\log \\big ( \\frac { 1 } { R } \\big ) + R ^ { \\theta _ { 1 } } + R ^ { \\theta _ { 2 } } \\bigg ) \\int _ { B _ { 4 R } } ( 1 + | \\nabla u | ^ { p _ { 2 } } ) \\mathrm { d } x + C R ^ { n - p _ { 2 } + p _ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "In order to apply Lemma 5.2, we may take $R _ { 1 } > 0$ small enough such that $\\begin{array} { r } { \\omega ( R ) \\log \\left( \\frac { 1 } { R } \\right) + R ^ { \\theta _ { 1 } } + R ^ { \\theta _ { 2 } } } \\end{array}$ smaller that $\\mu$ in Lemma 5.2 for any $0 < R \\leq R _ { 1 }$ . Thus there holds ",
+        "page_idx": 23
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { B _ { \\rho } } | \\nabla u | ^ { p _ { 2 } } \\mathrm { d } x \\leq C \\rho ^ { n - p _ { 2 } + p _ { 2 } \\alpha _ { 3 } } \\leq C \\rho ^ { n - p _ { 1 } + p _ { 1 } \\alpha _ { 3 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "for any $0 ~ < ~ \\alpha _ { 3 } ~ < ~ \\alpha _ { 2 }$ . By a standard covering argument we deduce that $u \\in \\mathcal { L } _ { l o c } ^ { p - , n + p _ { - } \\alpha _ { 3 } } ( \\Omega )$ ，where $\\mathscr { L } ^ { p , \\lambda } ( \\Omega )$ denotes Campanato’sspaces,thedefinitionof whichcanbefindin[6],forinstance.Poincaré inequalityanda well-known propertyof fuciss $u \\in C _ { l o c } ^ { 0 , \\alpha _ { 3 } } ( \\Omega )$ . ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "7 $C ^ { 1 , \\alpha }$ estimates for minimizers of $\\mathcal { I } _ { \\gamma } ( \\gamma \\in ( 0 , 1 ] )$ ",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Proof of Theorem 4 $0 < \\gamma \\leq 1$ ）The proof consists of three steps. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Firststep:locaadfrstyy) $\\delta _ { 3 } > 0$ small enough such that $\\varsigma > \\frac { n } { q _ { - } } \\frac { p _ { 1 } } { p _ { 1 } - 1 } \\frac { 1 + \\delta _ { 3 } } { 1 + \\frac { \\delta _ { 3 } } { 4 } }$ . Now let $\\delta = \\operatorname* { m i n } \\{ \\delta _ { 0 } , \\delta _ { 1 } , \\delta _ { 2 } , \\delta _ { 3 } \\}$ . We adopt the same localization argument as the proof of Theorem 2.3. In this case allthe balls $B _ { C R }$ and the exponents $p _ { 1 } , p _ { 2 }$ that we consider here are the same as in the proof of Theorem 2.3 (replace $\\delta _ { 1 }$ with $\\delta$ in Section 6). Let $v \\in W ^ { 1 , p _ { 2 } } ( B _ { R } )$ with $v - u \\in W _ { 0 } ^ { 1 , p _ { 2 } } ( B _ { R } )$ be a minimizer of the functional ",
+        "page_idx": 23
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { G } _ { 0 } ( v ) = \\int _ { B _ { R } } f ( x _ { 0 } , \\nabla v ) \\mathrm { d } x = \\int _ { B _ { R } } \\tilde { f } ( \\nabla v ) \\mathrm { d } x .\n$$",
+        "text_format": "latex",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "We note that since $v$ is a minimizer of the functional $\\mathcal { G } _ { 0 }$ with boundary data $u$ in $\\partial B _ { R }$ ，where $u | _ { \\partial B _ { R } }$ is the trace of a Holder continuous function.ByTheorem 7.8 in[6], weconclude that $v \\in C ^ { 0 , \\alpha _ { 4 } }$ for some $\\alpha _ { 4 } \\in ( 0 , 1 )$ .Therefore,for therest of the proof we assume that ",
+        "page_idx": 23
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| v ( x ) - v ( y ) | \\leq [ v ] _ { \\alpha _ { 4 } } | x - y | ^ { \\alpha _ { 4 } } \\leq C | x - y | ^ { \\alpha _ { 4 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "holds for all $x , y \\in { \\bar { B } } _ { R }$ . We remark that for simplicity we will use the same Holer exponent for the functions $v$ and $u$ ,which is not restrictive.Let us remark that, since $v$ minimizes the functional (72),by the growth condition (4), higher integrability and ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Remark 3.2, we obtain the following estimate for the $p _ { 2 }$ energy of $v$ ",
+        "page_idx": 24
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { B _ { R } } | \\nabla v | ^ { p _ { 2 } } \\mathrm { d } x \\leq L ^ { 2 } \\int _ { B _ { R } } ( 1 + | \\nabla u | ^ { p _ { 2 } } ) \\mathrm { d } x < \\infty .\n$$",
+        "text_format": "latex",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Second step:Comparison estimate. We will show that ",
+        "page_idx": 24
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { B _ { R } } | \\nabla u - \\nabla v | ^ { p _ { 2 } } \\mathrm { d } x \\leq C R ^ { \\frac { \\theta _ { 5 } } { 2 } } \\int _ { B _ { 4 R } } ( 1 + | \\nabla u | ^ { p _ { 2 } } ) \\mathrm { d } x ,\n$$",
+        "text_format": "latex",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "for some $\\theta _ { 5 } > 0$ ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Firstly we prove ",
+        "page_idx": 24
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\mathcal { G } _ { 0 } ( u ) - \\mathcal { G } _ { 0 } ( v ) \\leq C \\bigg ( \\omega ( R ) \\log \\big ( \\frac 1 R \\big ) + R ^ { \\theta _ { 1 } } + R ^ { \\theta _ { 2 } } \\bigg ) \\int _ { B _ { 4 R } } \\bigl ( 1 + | \\nabla u | ^ { p _ { 2 } } \\bigr ) \\mathrm { d } x } \\\\ { \\displaystyle \\qquad + C \\omega ( R ) \\log \\big ( \\frac 1 R \\big ) R ^ { \\lambda _ { 1 } } + C R ^ { \\lambda _ { 2 } } + C R ^ { \\lambda _ { 3 } } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "for some $0 < \\lambda _ { 1 } < n , \\lambda _ { 2 } > n , \\lambda _ { 3 } > n$ ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Indeed, since $u$ is a minimizer of the functional (2),we obtain ",
+        "page_idx": 24
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { B _ { R } } f ( x , \\nabla u ) \\mathrm { d } x \\leq \\int _ { B _ { R } } f ( x , \\nabla v ) \\mathrm { d } x + \\int _ { B _ { R } } ( F _ { \\gamma } ( v ) - F _ { \\gamma } ( u ) ) \\mathrm { d } x + \\int _ { B _ { R } } g ( v - u ) \\mathrm { d } x ,\n$$",
+        "text_format": "latex",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "which implies ",
+        "page_idx": 24
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\displaystyle \\int _ { B _ { R } } f ( x _ { 0 } , \\nabla u ) \\mathrm { d } x \\le \\int _ { B _ { R } } f ( x _ { 0 } , \\nabla v ) \\mathrm { d } x + \\displaystyle \\int _ { B _ { R } } \\big ( f ( x _ { 0 } , \\nabla u ) - f ( x , \\nabla u ) \\big ) \\mathrm { d } x + \\displaystyle \\int _ { B _ { R } } \\big ( f ( x , \\nabla v ) - f ( x _ { 0 } , \\nabla v ) \\big ) \\mathrm { d } x } & { } \\\\ { \\displaystyle \\qquad + \\int _ { B _ { R } } \\big ( F _ { \\gamma } ( v ) - F _ { \\gamma } ( u ) \\big ) \\mathrm { d } x + \\displaystyle \\int _ { B _ { R } } g ( v - u ) \\mathrm { d } x } & { } \\\\ { \\displaystyle \\qquad = \\int _ { B _ { R } } f ( x _ { 0 } , \\nabla v ) \\mathrm { d } x + I ^ { ( 4 ) } + I ^ { ( 5 ) } + I ^ { ( 6 ) } + I ^ { ( 7 ) } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Arguing as $I ^ { ( 1 ) } , I ^ { ( 3 ) } , I ^ { ( 2 ) }$ in Section 6, we obtain ",
+        "page_idx": 24
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI ^ { ( 4 ) } + I ^ { ( 5 ) } \\le C \\omega ( R ) \\log \\big ( \\frac { 1 } { R } \\big ) \\bigg ( \\int _ { B _ { 4 R } } ( 1 + | \\nabla u | ^ { p _ { 2 } } ) \\mathrm { d } x + R ^ { \\lambda _ { 1 } } \\bigg ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "$\\begin{array} { r } { 0 < \\lambda _ { 1 } = n - \\frac { n } { q _ { - } } \\frac { p _ { 1 } } { p _ { 1 } - 1 } \\frac { 1 + \\delta } { 1 + \\frac { \\delta } { 4 } } < n } \\end{array}$ ",
+        "page_idx": 24
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI ^ { ( 6 ) } + I ^ { ( 7 ) } \\leq C ( R ^ { \\theta _ { 1 } } + R ^ { \\theta _ { 2 } } ) \\int _ { B _ { R } } ( 1 + | \\nabla u | ^ { p _ { 2 } } ) \\mathrm { d } x + C R ^ { \\lambda _ { 2 } } + C R ^ { \\lambda _ { 3 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 24
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Therefore we may conclude (75) from (76) to (78). ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Since $\\begin{array} { r } { \\varsigma > \\frac { n } { q _ { - } } \\frac { p _ { 1 } } { p _ { 1 } - 1 } \\frac { 1 + \\delta } { 1 + \\frac { \\delta } { 4 } } } \\end{array}$ ， we may choose $\\theta _ { 3 } \\ > \\ 0$ small enough such that $\\begin{array} { r } { \\varsigma \\ge \\frac { n } { q _ { - } } \\frac { p _ { 1 } } { p _ { 1 } - 1 } \\frac { 1 + \\delta } { 1 + \\frac { \\delta } { 4 } } + \\theta _ { 3 } } \\end{array}$ . Again we may choose $0 < \\theta _ { 4 } < \\theta _ { 3 }$ such that ",
+        "page_idx": 24
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\varsigma + \\lambda _ { 1 } - \\theta _ { 4 } \\geq n + \\theta _ { 3 } - \\theta _ { 4 } > n . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "By the assumption that $\\omega ( R ) \\leq L R ^ { s }$ ,we get ",
+        "page_idx": 25
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle \\omega ( R ) \\log \\big ( \\frac { 1 } { R } \\big ) R ^ { \\lambda _ { 1 } } \\leq L R ^ { \\varsigma } R ^ { \\lambda _ { 1 } } R ^ { - \\theta _ { 4 } } R ^ { \\theta _ { 4 } } \\log \\big ( \\frac { 1 } { R } \\big ) } }  \\\\ { { \\leq C L R ^ { \\varsigma + \\lambda _ { 1 } - \\theta _ { 4 } } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "for $R$ small enough. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "We deduce from (75),(79) and (80) that ",
+        "page_idx": 25
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { G } _ { 0 } ( u ) - \\mathcal { G } _ { 0 } ( v ) \\leq C R ^ { \\theta _ { 5 } } \\int _ { B _ { 4 R } } ( 1 + \\vert \\nabla u \\vert ^ { p _ { 2 } } ) \\mathrm { d } x ,\n$$",
+        "text_format": "latex",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "where $0 < \\theta _ { 5 } = \\theta _ { 5 } ( \\theta _ { 1 } , \\theta _ { 2 } , \\theta _ { 3 } , \\theta _ { 4 } , \\lambda _ { 1 } , \\lambda _ { 2 } , \\lambda _ { 3 } , n , q _ { - } , p _ { \\pm } , \\varsigma , \\delta ) , C$ is independent of $\\theta _ { 5 }$ and $\\gamma$ ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Since the grand is of class $C ^ { 2 }$ , we conclude from [14, pp131,137-138] that ",
+        "page_idx": 25
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { B _ { R } } | \\nabla u - \\nabla v | ^ { p _ { 2 } } \\mathrm { d } x \\leq C R ^ { \\frac { \\theta _ { 5 } } { 2 } } \\int _ { B _ { 4 R } } ( 1 + | \\nabla u | ^ { p _ { 2 } } ) \\mathrm { d } x ,\n$$",
+        "text_format": "latex",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "which completes the proof of (74). ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Third step: Conclusion. Firstly applying Jensen inequality we get ",
+        "page_idx": 25
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\displaystyle \\int _ { B _ { \\rho } } | ( \\nabla u ) _ { \\rho } - ( \\nabla v ) _ { \\rho } | ^ { p _ { 2 } } \\mathrm { d } x \\le \\int _ { B _ { \\rho } } \\left( \\frac { \\int _ { B _ { \\rho } } | \\nabla u - \\nabla v | \\mathrm { d } x } { | B _ { \\rho } | } \\right) ^ { p _ { 2 } } \\mathrm { d } x } & { } \\\\ { \\le \\int _ { B _ { \\rho } } \\left( \\frac { \\int _ { B _ { \\rho } } | \\nabla u - \\nabla v | ^ { p _ { 2 } } \\mathrm { d } x } { | B _ { \\rho } | } \\right) \\mathrm { d } x } & { } \\\\ { \\le \\displaystyle \\int _ { B _ { \\rho } } | \\nabla u - \\nabla v | ^ { p _ { 2 } } \\mathrm { d } x . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Secondly,by [14,(3.2O)],we have ",
+        "page_idx": 25
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 } { | B _ { \\rho } | } \\int _ { B _ { \\rho } } | \\nabla v - ( \\nabla v ) _ { \\rho } | ^ { p _ { 2 } } \\mathrm { d } x \\leq C \\left( \\frac { \\rho } { R } \\right) ^ { \\beta p _ { 2 } } \\frac { 1 } { | B _ { R } | } \\int _ { B _ { R } } ( 1 + | \\nabla v | ^ { p _ { 2 } } ) \\mathrm { d } x ,\n$$",
+        "text_format": "latex",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "where $C > 0 , 0 < \\beta < 1$ and both $C$ and $\\beta$ depend only on $p _ { \\pm } , L$ 1 ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Now combining comparison estimate with (74) and (82), we deduce for any $\\begin{array} { r } { 0 < \\rho < \\frac { R } { 2 } < \\frac { R _ { 1 } } { 2 } } \\end{array}$ （204号 ",
+        "page_idx": 25
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } {  { \\int _ { B _ { \\rho } } | \\nabla u - ( \\nabla u ) _ { \\rho } | ^ { p _ { 2 } } \\mathrm { d } x \\le C \\bigg ( \\int _ { B _ { \\rho } } | \\nabla u - \\nabla v | ^ { p _ { 2 } } + | \\nabla v - ( \\nabla v ) _ { \\rho } | ^ { p _ { 2 } } + | ( \\nabla v ) _ { \\rho } - ( \\nabla u ) _ { \\rho } | ^ { p _ { 2 } } \\mathrm { d } x \\bigg ) } } \\\\ & { \\le C \\bigg ( \\int _ { B _ { \\rho } } | \\nabla u - \\nabla v | ^ { p _ { 2 } } \\mathrm { d } x + \\int _ { B _ { \\rho } } | \\nabla v - ( \\nabla v ) _ { \\rho } | ^ { p _ { 2 } } \\mathrm { d } x \\bigg ) } \\\\ & { \\le C \\bigg ( \\Big ( \\frac { \\rho } { R } \\Big ) ^ { n + \\beta p _ { 2 } } + R ^ { \\frac { \\theta _ { 5 } } { 2 } } \\bigg ) \\int _ { B _ { 4 R } } ( 1 + | \\nabla u | ^ { p _ { 2 } } ) \\mathrm { d } x . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, we obtain (see [14,ppl33] for more details), ",
+        "page_idx": 25
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { B _ { \\rho } } | \\nabla v | ^ { p _ { 2 } } \\mathrm { d } x \\leq C \\bigg ( \\left( \\frac { \\rho } { R } \\right) ^ { n } + \\omega ( R ) \\log \\big ( \\frac { 1 } { R } \\big ) \\bigg ) \\int _ { B _ { 4 R } } | \\nabla v | ^ { p _ { 2 } } \\mathrm { d } x + C R ^ { n } .\n$$",
+        "text_format": "latex",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Therefore it follows from(73) that ",
+        "page_idx": 26
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } {  { \\int _ { B _ { \\rho } } | \\nabla u | ^ { p _ { 2 } } \\mathrm { d } x \\le C \\bigg ( \\int _ { B _ { \\rho } } | \\nabla v | ^ { p _ { 2 } } \\mathrm { d } x + \\int _ { B _ { R } } | \\nabla v - \\nabla u | ^ { p _ { 2 } } \\mathrm { d } x \\bigg ) } } \\\\ & { } & { \\le C \\bigg ( ( \\frac { \\rho } { R } ) ^ { n } + \\omega ( R ) \\log ( \\frac { 1 } { R } ) \\bigg ) \\int _ { B _ { 4 R } } | \\nabla v | ^ { p _ { 2 } } \\mathrm { d } x + C R ^ { n } + C R ^ { \\frac { \\theta _ { 5 } } { 2 } } \\int _ { B _ { 4 R } } ( 1 + | \\nabla u | ^ { p _ { 2 } } ) \\mathrm { d } x } \\\\ & { } & { \\le C \\bigg ( ( \\frac { \\rho } { R } ) ^ { n } + \\omega ( R ) \\log ( \\frac { 1 } { R } ) + R ^ { \\frac { \\theta _ { 5 } } { 2 } } \\bigg ) \\int _ { B _ { 4 R } } ( 1 + | \\nabla u | ^ { p _ { 2 } } ) \\mathrm { d } x + C R ^ { n } . ~ } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Thus for small $R$ , applying Lemma 5.2, we obtain ",
+        "page_idx": 26
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { B _ { \\rho } } | \\nabla u | ^ { p _ { 2 } } \\mathrm { d } x \\leq C \\rho ^ { n - \\tau } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "for any $\\tau \\in ( 0 , 1 )$ ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Now let $\\begin{array} { r } { \\rho = \\frac { 1 } { 2 } R ^ { 1 + \\theta _ { 6 } } } \\end{array}$ with $\\begin{array} { r } { \\theta _ { 6 } = \\frac { \\theta _ { 5 } } { 2 ( n + \\beta p _ { 2 } ) } } \\end{array}$ , and let $\\begin{array} { r } { \\tau = \\frac { 1 } { 4 } \\frac { \\beta p _ { 2 } \\theta _ { 5 } } { n + \\beta p _ { 2 } } } \\end{array}$ . Then we deduce from (84)that ",
+        "page_idx": 26
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { B _ { \\rho } } | \\nabla u - ( \\nabla u ) _ { \\rho } | ^ { p _ { 2 } } \\mathrm { d } x \\leq C \\rho ^ { \\theta _ { 7 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "with $\\begin{array} { r } { \\theta _ { 7 } = n + \\frac { \\theta _ { 5 } \\beta p _ { 2 } } { 4 ( n + \\beta p _ { 2 } + \\frac { \\theta _ { 5 } } { 2 } ) } } \\end{array}$ . Since we can choose $\\theta _ { 5 }$ sufficient small, thus we conclude that $D u \\in C _ { l o c } ^ { 0 , \\alpha } ( \\Omega )$ with $\\begin{array} { r } { \\alpha = 1 - \\frac { n - \\theta _ { 7 } } { p _ { - } } } \\end{array}$ which completes the proof of Theorem 2.4 with $0 < \\gamma \\leq 1$ ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "8Log-Lipschitz estimates for minimizers of $\\mathcal { I } _ { 0 }$ ",
+        "text_level": 1,
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Proof of Theorem 4 $( \\gamma = 0 )$ ）We proceed along the lines of proof in Section 7. Notice that $\\begin{array} { r } { \\lambda _ { 2 } = n + \\frac { p _ { 2 } \\gamma } { p _ { 2 } - \\gamma } - \\frac { \\gamma \\theta _ { 1 } } { p _ { 2 } - \\gamma } = n } \\end{array}$ with $\\gamma = 0$ .Therefore(81)becomes ",
+        "page_idx": 26
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { B _ { R } } | \\nabla u - \\nabla v | ^ { p _ { 2 } } \\mathrm { d } x \\le C R ^ { \\frac { \\theta _ { 5 } } { 2 } } \\int _ { B _ { 4 R } } ( 1 + | \\nabla u | ^ { p _ { 2 } } ) \\mathrm { d } x + C R ^ { n } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "where $0 < \\theta _ { 5 } ^ { \\prime } = \\theta _ { 5 } ^ { \\prime } ( \\theta _ { 1 } , \\theta _ { 2 } , \\theta _ { 3 } , \\theta _ { 4 } , \\lambda _ { 1 } , \\lambda _ { 3 } , n , q _ { - } , p _ { \\pm } , \\varsigma , \\delta ) , C$ is independent of $\\theta _ { 5 } ^ { \\prime }$ ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Thus,(83) becomes ",
+        "page_idx": 26
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\displaystyle \\int _ { B _ { \\rho } } | \\nabla u - ( \\nabla u ) _ { \\rho } | ^ { p _ { 2 } } \\mathrm { d } x \\le C \\bigg ( \\left( \\frac { \\rho } { R } \\right) ^ { n + \\beta p _ { 2 } } + R ^ { \\frac { \\theta _ { \\zeta } ^ { \\prime } } { 2 } } \\bigg ) \\int _ { B _ { 4 R } } ( 1 + | \\nabla u | ^ { p _ { 2 } } ) \\mathrm { d } x + C R ^ { n } } & { } \\\\ { \\displaystyle \\le C \\bigg ( \\left( \\frac { \\rho } { R } \\right) ^ { n + \\beta p _ { 2 } } + R ^ { \\frac { \\theta _ { \\zeta } ^ { \\prime } } { 2 } } \\bigg ) \\int _ { B _ { 4 R } } ( 1 + | \\nabla u - ( \\nabla u ) _ { 4 R } | ^ { p _ { 2 } } ) \\mathrm { d } x } & { } \\\\ { \\displaystyle \\quad \\quad + C \\bigg ( \\left( \\frac { \\rho } { R } \\right) ^ { n + \\beta p _ { 2 } } + R ^ { \\frac { \\theta _ { \\zeta } ^ { \\prime } } { 2 } } \\bigg ) \\int _ { B _ { 4 R } } | ( \\nabla u ) _ { 4 R } | ^ { p _ { 2 } } \\mathrm { d } x + C R ^ { n } } & { } \\\\ { \\displaystyle \\le C \\bigg ( \\left( \\frac { \\rho } { R } \\right) ^ { n + \\beta p _ { 2 } } + R ^ { \\frac { \\theta _ { \\zeta } ^ { \\prime } } { 2 } } \\bigg ) \\int _ { B _ { 4 R } } | \\nabla u - ( \\nabla u ) _ { 4 R } | ^ { p _ { 2 } } \\mathrm { d } x + C R ^ { n } , } & { } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "where $C$ depends on $M$ ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Now Lemma 5.2 implies $\\begin{array} { r } { \\int _ { B _ { \\rho } } | \\nabla u - ( \\nabla u ) _ { \\rho } | ^ { p _ { 2 } } \\mathrm { d } x \\leq C \\rho ^ { n } } \\end{array}$ , which shows that the gradient of $u$ lies in BMO space and for any fixed subdomain $\\Omega ^ { \\prime } \\Subset \\Omega$ ,there holds ",
+        "page_idx": 26
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\| \\nabla u \\| _ { B M O ( \\Omega ) } \\leq C ( \\Omega ^ { \\prime } , n , p _ { \\pm } , \\lambda _ { \\pm } , \\| g \\| _ { L ^ { q ( \\cdot ) } ( \\Omega ) } , M ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Then arguing exactly as in [1], one has ",
+        "page_idx": 27
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| u ( x ) - u ( x _ { 0 } ) | \\leq C | x - x _ { 0 } | \\cdot | \\log | x - x _ { 0 } | | .\n$$",
+        "text_format": "latex",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "The proof of Theorem 2.4 is concluded. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Remark2 Itshould be mentioned that theregularityresults in[4],where Ekeland'svariationalprinciple wasapplied tothe establishment of regularity in the obstacle problem associated with the functional $\\begin{array} { r } { \\int _ { \\Omega } f ( x , u , \\nabla u ) d x } \\end{array}$ ，are stronger than the corespondingonein[5].Webelieve thatEkeland'svariational principlecanbealsoappliedtothefolowing heterogeneous, two-phase free boundary problem ",
+        "page_idx": 27
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { \\Omega } \\big ( f ( x , u , \\nabla u ) + F _ { \\gamma } ( u ) + g u \\big ) d x \\to m i n ,\n$$",
+        "text_format": "latex",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "under non-standard growth conditions,and obtain stronger regularities than the results in this paper. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "[1]Leitao,ReueiozOeieiraegaritfoegeneatetpefrbdaryrobeAIstHrale 32(4)(2015),741-762.   \n[2]Eleuter,otitfsofcasiosaddohllUeat.,).   \n[3]Eleuteri, M., Habermann,J.: Calder6n-Zygmund type estimates for a class of obstacle problems with $p ( x )$ growth.J. Math. Anal. Appl.372(1)(2010), 140-161.   \n4]Eleuteieobd 1120-1142.   \n[5]Eleuei,bettulfobddhoic 12)(2011),1404- 1434.   \n[6]Giusti,E.: Direct Methods in the Calculus of Variations.World Scientific, Singapore,2003.   \n[7]Huleoedo Anal.. 67(12)(2007),3424-3440   \n[8]Kovacik, O., Raosnik,J.: On spaces $L ^ { p ( x ) } ( \\Omega )$ and $W ^ { m , p ( x ) } ( \\Omega )$ .Czechoslovak Math. J. 41(4)(1991),59-618.   \n[9]Fan,X.,Shen,J.,ZhaoD.: Sobolev embedding theorems for spaces $W ^ { m , p ( x ) } ( \\Omega )$ . J. Math. Anal. Appl.262(2)(2001),749-760.   \n[10] Fan,X.,Zhao,D.: On the Spaces $L ^ { p ( x ) } ( \\Omega )$ and $W ^ { m , p ( x ) } ( \\Omega )$ $J .$ Math. Anal. Appl. 263(2)(2001),424-446.   \n[11]Struwe,M.:Variationalmethods:applications tononlinearpartialdiferentialequationsandHamiltonian.Springer.   \n[12]LdUdta York,1968.   \n[3]Dao,docasadto 11(2)(2004),437-476.   \n[14]AcerbiEilasddal   \n[15] Gilbarg,D.,Trudinger,N.S.:Eliptic partialdiferential equationsofsecondorder.Springer,Berlin,1983.   \n[16]Zengibf ihre Anwendungen.36(1) (2017),37-47.   \n[17]Zheg,JagZaPurbeittoasefrbodyOcsacs.ashat-4)). ",
+        "page_idx": 27
+    }
+]

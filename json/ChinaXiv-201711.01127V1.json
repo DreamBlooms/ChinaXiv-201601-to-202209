@@ -1,0 +1,454 @@
+[
+    {
+        "type": "text",
+        "text": "CN 53-1189/P ISSN 1672-7673 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摆镜图像稳定控制系统在NVST中的应用研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李玉艳1,²，柳光乾(1.中国科学院云南天文台，云南 昆明650011；2.中国科学院大学，北京100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：由于 $1 \\mathrm { ~ m ~ }$ 太阳望远镜采用圆顶移开并远离望远镜的敞开式观测模式，使得望远镜跟踪系统受风的影响较大，表现为观测时图像随风出现较大幅度的低频抖动。为解决这一问题，首先根据望远镜现有的光学系统和风载影响下焦面图像抖动的特点，在氧化钛高分辨率成像通道中设计了基于二维摆镜的图像稳定系统。然后根据二维摆镜系统的实测特性，建立系统的传递函数，设计控制器。深入的数值模拟分析和实验表明，在五到六级风作用的情况下，摆镜图像稳定系统工作在 $2 5 ~ \\mathrm { H z }$ 就能将 $\\mathrm { ~ 1 ~ m ~ }$ 太阳望远镜焦面图像抖动的均方根值控制在$0 . 5 \"$ 以内，表明二维摆镜的图像稳定系统可以稳定望远镜由随机风载引起的图像抖动。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：随机风载；图像抖动；二维摆镜；控制系统；数值模拟中图分类号：P111 文献标识码：A 文章编号：1672-7673(2016)01-0082-11",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$1 \\mathrm { m }$ 太阳望远镜(New Vacuum Solar Telescope，NVST)于2010 年正式投入常规观测[1]。随着高分辨率成像观测系统、多波段光谱仪[2]、大色散光谱仪、磁分析仪等终端仪器逐步完善，望远镜的使用效率变得越来越重要，因此，需要充分利用有限的可观测晴天数。然而， $1 \\mathrm { ~ m ~ }$ 太阳望远镜为了提高观测的圆顶视宁度，在观测过程中将圆顶平移使圆顶远离望远镜[3]，在观测时，这种开式观测模式使得随机风载直接作用在望远镜上，最终导致焦面图像的抖动。目前， $1 \\mathrm { ~ m ~ }$ 太阳望远镜通过提高伺服系统的钢度减小随机风载引起的图像抖动取得了一定的成效，使高分辨成像能工作在四级风左右[4-5]。但 $1 \\mathrm { m }$ 太阳望远镜的光谱仪等终端仪器需要焦面图像有更小的抖动，依靠目前的伺服跟踪系统无法达到要求。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为进一步减少 $1 \\mathrm { ~ m ~ }$ 太阳望远镜焦面图像的抖动，使其能工作在更高的风速下，拟采用二维压电摆镜稳定风载引起的图像抖动。摆镜是近年发展起来的精密控制仪器，它不仅可以实现光束精确扫描镇定、光路调制以及光机抖动补偿[6]，也可以实现目标指向、稳定空间以及精确的跟踪捕获。目前,它已被广泛用于空间光学望远镜、空间激光通信平台、天文望远镜、高分辨率侦查照相卫星、图像稳定、自适应光学等许多领域[7-13]。摆镜在天文上的应用主要是跟踪系统，也称为 Tip-tilt 低阶改正系统，是针对湍流大气引起的低阶图像抖动。但它与随机风载引起的图像抖动相比，频率更高，幅度更小。因此，摆镜在不同应用系统中的侧重点不同。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文针对 $1 \\mathrm { m }$ 太阳望远镜随机风载下焦面图像抖动的特点，基于芯明天公司的XS-340.4SL二维压电摆镜和 $1 \\mathrm { m }$ 太阳望远镜氧化钛通道(以下简称TiO通道)的高分辨率成像观测系统，设计了摆镜图像稳定控制系统，并根据摆镜的实测性能和随机风载下焦面图像的实测误差，通过数值模拟的方法深入分析了系统的控制性能。文章第1节给出了摆镜图像稳定控制系统的光机结构设计；第2节通过实测分析了随机风载下 $1 \\mathrm { m }$ 太阳望远镜焦面图像抖动特性和摆镜系统特性；第3节通过数值模拟分析了摆镜图像稳定控制系统的具体性能；第4节根据摆镜的系统结构和数值模拟分析，在 $1 \\mathrm { m }$ 太阳望远镜的 TiO通道对星展开跟踪实验，并给出实验结果；第5节对本文进行总结。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1摆镜图像稳定控制系统的结构设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { ~ 1 ~ m ~ }$ 太阳望远镜剖面结构如图1（a），终端仪器安放在光谱仪的上平台，观测时，整个平台与焦面像同步旋转。 $1 \\mathrm { m }$ 太阳望远镜高分辨率成像系统目前有两个通道，分别是 $7 0 5 . 8 \\mathrm { n m }$ 波段的TiO成像观测通道和 $6 5 6 . 3 \\ \\mathrm { n m }$ 波段的 $\\mathrm { H } \\alpha$ 成像观测通道[14]，二维摆镜安放在 TiO 通道中，如图1(b)。由于是实验系统，经过摆镜出射的光路没有进行分光，因此，摆镜实验时，需要停止TiO通道的观测。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3dc71814e767c6455927041458dfeb23c0e66f7f42b71efcfabb6516174149f9.jpg",
+        "img_caption": [
+            "图1 (a) $1 \\mathrm { m }$ 太阳望远镜剖面结构示意图；（b）摆镜图像稳定系统安装结构 Fig.1（a） The sketch map of the cross section structure for the NVST; (b）The mounting structure of the tip-tilt mirror image stabilization system "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在图1(b)的系统中，摆镜是芯明天公司型号为XS_340.4SL的二维压电偏摆台，摆台上的反射镜片直径 $3 0 ~ \\mathrm { m m }$ ，厚 $6 \\mathrm { m m }$ ，摆台控制器为该公司的XE-501D控制器。根据图1(b)的系统设计，摆镜的反馈控制信号通过TiO成像通道的CCD获得。闭环工作过程这样设计：闭环开始时刻，确定此时图像在CCD上的参考位置，当随机风载引起图像抖动时，会相对于参考位置随机抖动，通过获取TiO通道的图像可以计算出图像相对于参考位置的偏移量，然后将偏移量转化为摆镜控制器的电信号转动摆镜，使图像回到参考位置。摆镜图像稳定闭环控制系统的控制原理如图2。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/29314704d172bdfef8fe1ca15aa66f57e0fd92a45d109670b68b94f583771fa3.jpg",
+        "img_caption": [
+            "图2摆镜图像稳定闭环控制系统的控制原理图",
+            "Fig.2The control schematic of the closed-loop control system forthe tip-tilt mirror image stabilization "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 $1 \\mathrm { m }$ 太阳望远镜焦面图像抖动与摆镜系统特性实测 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 $1 \\mathrm { m }$ 太阳望远镜焦面图像抖动实测 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当随机风载作用在 $1 \\mathrm { m }$ 太阳望远镜的镜筒上时，能通过伺服系统误差以及光电导行全日面图像监测系统和高分辨率成像观测系统的图像抖动反应出来。在摆镜图像稳定系统中，主要关心的是高分辨率成像观测系统中TiO通道的图像抖动。实测时，望远镜的跟踪目标可以选择星，也可以是太阳上某个活动区。观测目标是星时，位置偏移量计算采用重心算法，观测目标是太阳上某个活动区时，则采",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "用相关算法。本文的观测目标选择星，通过TiO高分辨率成像观测通道实测得到CCD靶面上 $X$ 和 $Y$ 两个正交方向的图像抖动以及频谱如图3，相应的均方根值和峰峰值如表1。根据图3或表1可以知道：六级风下， $1 \\mathrm { ~ m ~ }$ 太阳望远镜焦面图像的抖动范围在 $1 2 ^ { \\prime \\prime }$ 左右，由此确定摆镜的最大偏转角应该大于此值；随机风载引起的图像抖动",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1随机风载下的图像抖动主要参数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/d67719056049503ffe0d8b522b00e6e7ad6854f584a5403a127b7776b9972666.jpg",
+        "table_caption": [
+            "Table 1 The main parameters of the image jitter caused by the random wind loads "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">X方向误差</td><td colspan=\"2\">Y方向误差</td></tr><tr><td>均方根/\"</td><td>峰峰值/\"</td><td>均方根/\"</td><td>峰峰值/\"</td></tr><tr><td>1. 367 2</td><td>9.503 0</td><td>1. 715 5</td><td>11.985 9</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在 $1 \\ \\mathrm { H z }$ 左右，频率成分在 $5 \\ \\mathrm { H z }$ 以内。因此，大致可以估计摆镜图像稳定系统在控制随机风载引起图像抖动时所需的带宽不是很高。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/464159368d95e720f25abeaeccd934951553a1b58f9595af14ccdd4b6631d0be.jpg",
+        "img_caption": [
+            "图3随机风载作用下TiO通道的图像抖动及频谱分布 Fig.3The image jitter and its spectrum distribution of the TiO channel with the random wind load "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2摆镜系统特性实测",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "摆镜系统特性包括摆镜的静态特性和动态特性。摆镜的静态特性主要是摆镜的最大偏转角和响应曲线（电压-偏转角曲线)，摆镜的动态特性主要是摆镜的阶跃响应和频率响应。静态特性测试时，在",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TiO 成像观测通道的光路中加激光进行测试，摆镜控制器 XE-501D输入端加入相应的控制电压，输入控制器的电压范围是0到 $1 0 ~ \\mathrm { V }$ ，然后测试激光光斑重心随输入电压的变化。动态特性测试时，由于CCD 需要一定的曝光时间和读出时间，无法达到动态特性测试所需的响应速度，因此，动态特性主要通过XE-501D控制器内部的压敏电阻位置传感器的反馈信号进行。XE-501D控制器可以工作在开环模式和闭环模式，XE-501D控制器的闭环工作模式主要校正摆镜系统的非线性度，但降低了系统响应速度。由于图像稳定闭环控制系统本身工作在XE-501D控制器更外层闭环控制回路，一定程度上可以改正摆镜系统的非线性带来的影响，而更需要摆镜系统有更快的响应速度。因此，图像稳定闭环控制系统工作时，将XE-501D控制器设置在开环模式，相应地，本文主要给出XE-501D控制器工作在开环模式时摆镜系统两个正交方向的动静态特性。图4（a)为摆镜在控制器开环模式下在两个正交方向（分别与TiO通道的图像 $X$ 方向和 $Y$ 方向对应)的响应曲线。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5bd3c187ba01f4fd1c94a3ea2bdb20a4bffcd8a826dcf8575216765cf47cd0ff.jpg",
+        "img_caption": [
+            "图4(a) $X .$ 、Y方向在摆镜控制器开环下的成像偏转角与控制电压关系曲线；（b）控制电压在 $_ { \\textrm { 1 V } }$ 下 $X$ 、Y两个正交方向的阶跃响应曲线；（c）控制电压在 $1 0 \\mathrm { V }$ 下 $X$ 银 $Y$ 两个正交方向的阶跃响应曲线",
+            "Fig.4（a）The relation curve of the control voltage and the imaging deflection angle in $X$ and $Y$ directions for the tip-tilt mirror controler workingattheopen-loopmode；（b）Thestep responsecurve in theorthogonal directionwhenthecontrol voltage is $1 \\mathrm { V }$ ；（c）The step response curve in orthogonal direction when control voltage is 10V "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图4(a)可以看出，当控制器开环时，两正交方向上的响应曲线有一定的非线性关系，且非线性主要在参考0点附近。图4(a)的数据是通过将摆镜加5V电压置中后得到的。当控制电压从0到 $1 0 \\mathrm { ~ V ~ }$ 变化时，摆镜可以正负方向转动。通过多项式拟合的方式，得到摆镜的电压-偏转角关系，表示为",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta _ { x } = 4 . 8 \\times 1 0 ^ { - 5 } V ^ { 7 } - 1 . 4 7 \\times 1 0 ^ { - 3 } V ^ { 6 } + 1 . 6 5 \\times 1 0 ^ { - 2 } V ^ { 5 } - 7 . 9 5 \\times 1 0 ^ { - 2 } V ^ { 4 } + 1 . 0 5 \\times 1 0 ^ { - 3 } V\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 . 1 3 9 V ^ { 3 } - 0 . 0 4 9 V ^ { 2 } + 1 . 8 3 8 V - 7 . 9 3 6\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\theta _ { , } = 6 . 5 \\times 1 0 ^ { - 5 } V ^ { 7 } - 2 . 5 \\times 1 0 ^ { - 3 } V ^ { 6 } + 3 . 9 7 \\times 1 0 ^ { - 2 } V ^ { 5 } - 0 . 2 9 9 V ^ { 4 } + } } \\\\ { { { } } } \\\\ { { 1 . 1 4 6 V ^ { 3 } - 2 . 1 7 V ^ { 2 } + 4 . 4 6 V - 1 3 . 2 7 5 . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "上式中 $\\theta _ { x }$ 代表 $X$ 方向的偏转角； $\\theta _ { y }$ 代表 $Y$ 方向的最大偏转角； $V$ 代表控制电压。由上两式可以求出摆镜在TiO通道的最大偏转角分别为 $1 7 . 5 4 4 ^ { \\prime }$ 和 $2 4 . 4 5 8 9 ^ { \\prime }$ 。摆镜的阶跃响应特性与控制电压的幅度有关，控制电压分别为 $1 \\mathrm { ~ V ~ }$ 、 $1 0 \\mathrm { V }$ 时，摆镜系统两个正交方向的阶跃响应曲线如图4（b）、4（c）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过实验可知，系统的延迟时间与控制电压幅度无关，且在 $6 0 ~ \\mu \\mathrm { s }$ 左右。从图4(b)和4(c)可以看出：当控制器的输入电压为1V时， $X$ 方向的阶跃响应时间 $4 6 0 ~ \\mu \\mathrm { s }$ ， $Y$ 方向的阶跃响应时间 $4 6 0 ~ \\mu \\mathrm { s }$ ，因此当控制电压在1V时，最高频率响应可达 $1 \\ \\mathrm { K H z }$ ；输入电压为 $1 0 ~ \\mathrm { V }$ 时， $X$ 方向的阶跃响应时间$6 . 0 5 2 ~ \\mathrm { m s }$ ， $Y$ 方向的阶跃响应时间 $6 . 3 ~ \\mathrm { m s }$ ，因此最高频率响应在 $8 0 ~ \\mathrm { H z }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3摆镜图像稳定闭环控制系统的数值模拟",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1摆镜图像稳定闭环控制系统传递函数的建立",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据图2摆镜图像稳定闭环控制系统的控制原理图，用传递函数表示每个环节，可以得到控制系统的传递函数框图，如图5。从该图可以看出，系统主要包括PID控制器、系统延迟环节、系统比例环节和被控制对象(摆镜系统)环节。除被控对象摆镜外，其它每个环节的传递函数都容易得到。因此，摆镜图像稳定控制系统的传递函数主要先确定被控对象摆镜系统的传递函数。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a13ace5d2e61d0856c07268a22c3e147870e72adac1b9e50cd0472a4b61d9204.jpg",
+        "img_caption": [
+            "图5摆镜闭环控制系统的传递函数框图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.5The block diagram of the transfer function for the closed-loopcontrol system of the tip-tilt mirror ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在测试摆镜系统的阶跃响应动态特性时，系统有一个小的延迟，在微秒量级，在1V和 $1 0 ~ \\mathrm { V }$ 的阶跃响应特性中，压敏电阻的反馈电压（或者摆镜的转动角)随时间成线性变化，是一个斜坡响应，传递函数可以简化为以下模型：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG ( s ) = F _ { _ \\mathrm { M i r r o r } } e ^ { - t _ { \\mathrm { M i r r o r } } s } = \\frac { K } { s } e ^ { - t _ { \\mathrm { M i r r o r } } s } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过实验，摆镜系统的延迟时间 $t _ { \\mathrm { M i r r o r } }$ 与控制电压的幅度无关，且平均值在 $6 0 ~ \\mu \\mathrm { s }$ 左右，因此 $t _ { \\mathrm { M i r r o r } }$ 等于 $6 { \\times } 1 0 ^ { - 5 } \\mathrm { s }$ 。斜率 $K$ 代表摆镜转动角随时间的变化速度，根据图4(b)和 $4 ( \\mathrm { { c } ) }$ 中 $1 \\mathrm { ~ V ~ }$ 和 $1 0 ~ \\mathrm { V }$ 的阶跃响应以及转角电压响应(1)和(2)式，以角秒/毫秒为单位，不难求出 $K _ { \\scriptscriptstyle { X } }$ 和 $K _ { \\scriptscriptstyle Y }$ 。因此，摆镜系统在两个正交方向的传递函数为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { x } ( s ) = \\frac { 2 9 9 4 } { s } e ^ { - 6 \\times 1 0 ^ { - 5 _ { s } } } , G _ { y } ( s ) = \\frac { 4 1 3 0 } { s } e ^ { - 6 \\times 1 0 ^ { - 5 _ { s } } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "摆镜闭环控制系统中，延迟环节主要包括5个，数字信号转模拟信号的延迟几微秒，摆镜延迟$t _ { \\mathrm { M i r r o r } }$ 为 $6 0 ~ \\mu \\mathrm { s }$ ，相机曝光时间几毫秒，图像的读出时间和计算时间与图像的大小有关，如果以 TiO 通道的CCD 像素比 $0 . 0 5 4 4 6 ^ { \\prime \\prime } / \\mathrm { p i x e l }$ ，当望远镜工作在6级风，则图像大小应该在 $3 0 0 \\times 3 0 0$ ，此时，实测CCD 图像读出时间需要 $1 3 . 1 6 ~ \\mathrm { m s }$ ，图像重心计算时间 $0 . 6 8 9 ~ \\mathrm { m s }$ 。因此，如果将系统的延迟环节进行合并，系统总延时在 $2 0 ~ \\mathrm { m s }$ 左右。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2摆镜图像稳定闭环控制系统的数值模拟",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对控制系统的数值模拟，主要根据控制系统的传递函数设计相应的控制器，分析系统参数变化时控制系统性能的变化，最终确定控制系统的比例积分微分控制器参数、系统延迟参数和控制带宽等重要指标。数值模拟时，图像抖动随时间的变化为图3的实测数据，摆镜的传递函数为（3)式。数值模拟的方法是根据系统传递函数进行离散变换，然后编写matlab 程序进行数值模拟。比例积分微分控制器参数主要根据系统的阶跃响应曲线确定，标准为上升时间、调整时间和峰值时间都应该达到最小，同时将最大超调量控制在 $20 \\%$ 以内。系统控制性能评价指标为摆镜改正后图像抖动的均方根值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "比例积分微分控制器采用(4)式的传递函数：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { \\mathrm { { p i d } } } \\mathrm { { ( } } s \\mathrm { { ) } = } K _ { \\mathrm { p } } \\mathrm { { ( } 1 + \\frac { 1 } {  { T _ { \\mathrm { { i } } } } \\mathrm { { s } } } +  { T _ { \\mathrm { { d } } } } \\mathrm { { s } } ) = } K _ { \\mathrm { p } } \\mathrm { { + } } \\frac { K _ { \\mathrm { i } } } { s } + K _ { \\mathrm { d } } s , \n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中， $K _ { \\mathrm { p } }$ 为比例系数； $T _ { \\mathrm { i } }$ 为积分时间常数； $T _ { \\mathrm { d } }$ 为微分时间常数。比例积分微分控制器设计的目的是寻找合适的 $K _ { \\mathrm { p } }$ 、 $K _ { \\mathrm { i } }$ 和 $K _ { \\mathrm { d } }$ 值，使改正后控制系统误差(图像抖动)的均方根值最小，此时系统的阶跃响应特性应该有较快的响应速度和较小的超调量。以延迟时间 $2 0 ~ \\mathrm { m s }$ ，控制频率为 $2 5 \\ : \\mathrm { H z }$ 为例，不同的 $K _ { \\mathrm { { p } } }$ 、$K _ { \\mathrm { i } }$ 和 $K _ { \\mathrm { d } }$ 控制参数，控制误差有不同的均方根值，如表2。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/74bbd329aa0ff1e13673a8be97a475bafda766d9cb277e1948772fe1ff9a7281.jpg",
+        "table_caption": [
+            "表2不同比例积分微分参数下的控制系统误差均方根值结果",
+            "able 2The RMS value of the control system with different PID parameters "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">序 号</td><td colspan=\"5\">X方向</td><td colspan=\"5\">Y方向</td></tr><tr><td>K (×10-²）</td><td>K (×10-³)</td><td>Kd (×10-4)</td><td>超调量 1%</td><td>误差均方根 /\"</td><td>K (×10−²）</td><td>K (×10-³)</td><td>K (×10-4)</td><td>超调量 1%</td><td>误差均方根 /\"</td></tr><tr><td rowspan=\"3\">1</td><td>1.1</td><td>0</td><td>0</td><td>17. 25</td><td>0. 462 3</td><td>0.8</td><td>0</td><td>0</td><td>17. 44</td><td>0. 545 5</td></tr><tr><td>1. 2</td><td>0</td><td>0</td><td>22.85</td><td>0.438 0</td><td>0.9</td><td>0</td><td>0</td><td>25.23</td><td>0.502 8</td></tr><tr><td>1.3</td><td>0</td><td>0</td><td>28.63</td><td>0. 417 6</td><td>1</td><td>0</td><td>0</td><td>33.31</td><td>0.467 9</td></tr><tr><td rowspan=\"4\">2</td><td>1.2</td><td>1</td><td>1</td><td>20.35</td><td>0. 435 4</td><td>0.9</td><td>1</td><td>1</td><td>21. 75</td><td>0. 496 8</td></tr><tr><td>1.2</td><td>1</td><td>3</td><td>15. 16</td><td>0. 429 6</td><td>0.9</td><td>1</td><td>3</td><td>14. 74</td><td>0.492 9</td></tr><tr><td>1. 2</td><td>1</td><td>4</td><td>12. 73</td><td>0. 427 2</td><td>0.9</td><td>1</td><td>4</td><td>11. 54</td><td>0. 490 7</td></tr><tr><td>1.2</td><td>1</td><td>5</td><td>10.39</td><td>0. 425 2</td><td>0.9</td><td>1</td><td>5</td><td>8.81</td><td>0.489 3</td></tr><tr><td rowspan=\"4\">3</td><td>1.3</td><td>1</td><td>1</td><td>26.04</td><td>0. 415 1</td><td>1</td><td>1</td><td>1</td><td>29.74</td><td>0. 465 3</td></tr><tr><td>1.3</td><td>1</td><td>3</td><td>20.75</td><td>0. 409 8</td><td>1</td><td>1</td><td>3</td><td>22.67</td><td>0. 460 3</td></tr><tr><td>1.3</td><td>1</td><td>4</td><td>18.29</td><td>0. 407 7</td><td>1</td><td>1</td><td>4</td><td>19.72</td><td>0. 458 9</td></tr><tr><td>1.3</td><td>1</td><td>5</td><td>15.94</td><td>0. 406 0</td><td>1</td><td>1</td><td>5</td><td>17. 13</td><td>0. 458 5</td></tr><tr><td rowspan=\"3\">4</td><td>1.3</td><td>1.1</td><td>4</td><td>18.31</td><td>0. 407 8</td><td>1</td><td>1.1</td><td>4</td><td>19.75</td><td>0. 459 0</td></tr><tr><td>1.3</td><td>0.9</td><td>4</td><td>18.27</td><td>0. 407 6</td><td>1</td><td>0.9</td><td>4</td><td>19.71</td><td>0. 458 9</td></tr><tr><td>1.3</td><td>0.8</td><td>4</td><td>18.24</td><td>0.407 6</td><td>1</td><td>0.8</td><td>4</td><td>19.68</td><td>0.4588</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从表2可以看出， $X$ 方向的误差均方根值在 $K _ { \\mathrm { p } } = 0 . 0 1 3$ 、 $K _ { \\mathrm { i } } = 0 . 0 0 1$ 、 $K _ { \\mathrm { d } } = 0 . 0 0 0 \\ 0 5$ 时最小， $Y$ 方向的误差均方根值在 $K _ { \\mathrm { p } } = 0 . 0 1$ 、 $K _ { \\mathrm { i } } { = } 0 . 0 0 1$ 、 $K _ { \\mathrm { d } } { = } 0 . 0 0 0 0 5$ 时最小，但此时两方向的单位阶跃响应曲线不再光滑。通过第4组数据发现，增大 $K _ { \\mathrm { i } }$ 会增加误差的均方根值，减小 $K _ { \\mathrm { i } }$ 会减小误差的均方根值，而在 $K _ { \\mathrm { i } }$ 从0.001变化到0.0008时，均方根值的减小程度已不大，因此选择另一个均方根值接近最小值的一组比例积分微分参数： $X$ 方向 $K _ { \\mathrm { p } } = 0 . 0 1 3$ 、 $K _ { \\mathrm { i } } { = } 0 . 0 0 0 8$ 、 $K _ { \\mathrm { d } } = 0 . 0 0 0 0 4$ ， $Y$ 方向 $K _ { \\mathrm { p } } = 0 . 0 1$ 、 $K _ { \\mathrm { i } } { = } 0 . 0 0 0 8$ 、 $K _ { \\mathrm { d } } =$ 0.00004，且两组参数下的单位阶跃响应的超调量不超过 $2 0 \\%$ 。两个方向的单位阶跃响应曲线如图 $6$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/abe24c82cc8947ed6e55a0be60762177ba29532be242e039c10310f22b3450e7.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由于不同系统延迟时间和不同控制频率需要采用不同的比例积分微分控制参数，才能得到控制系统误差的最小均方根值。当系统延迟时间固定在 $2 0 ~ \\mathrm { m s }$ 时，图像改正后的均方根值随系统的控制频率变化，如表3或图7(a)。当系统的控制频率固定后，图像改正后的均方根值随系统的延迟时间变化。图7(b)给出了控制频率固定为 $2 0 \\ : \\mathrm { H z }$ 、 $2 5 \\ : \\mathrm { H z }$ 、 $5 0 \\mathrm { { H z } }$ 、 $1 0 0 \\mathrm { { H z } }$ 时，均方根值随系统延迟时间变化的曲线。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/fce5836511a5bfb42d026a4d51379ceca2f433b3b5fef19ebb9db913c01e7ab4.jpg",
+        "img_caption": [
+            "图6延迟时间为 $2 0 ~ \\mathrm { m s }$ 时的系统单位阶跃响应特性曲线 Fig.6The unit step response curve of the system at the defer time of $2 0 \\mathrm { m s }$ ",
+            "图7（a）系统 $2 0 ~ \\mathrm { m s }$ 延时下闭环控制后的图像抖动的均方根值随控制频率的变化曲线;（b）控制系统在不同控制频率下图像抖动的均方根值随延时变化曲线",
+            "Fig.7（a）The curve of the image vibration RMS value with the frequency change at the defer time of $2 0 \\mathrm { m s }$ ；（b）The curve of theImage vibration RMS value with the defer time change in diffrentcontrol frequencies for thecontrol system "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "结合表3和图7(a)：在 $2 0 ~ \\mathrm { m s }$ 的系统延迟下，在 $0 \\sim 3 0 ~ \\mathrm { H z }$ 频率范围内，随着控制系统的频率增加，控制系统的性能越好，当频率超过 $3 0 \\ \\mathrm { H z }$ 时，提高控制系统的频率，系统的性能改善并不明显。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从表3还可看出，当控制系统 $X$ 、 $Y$ 方向的系统频率设置在 $2 5 ~ \\mathrm { H z }$ 时，图像抖动（或者闭环系统的误差)均方根值小于 $0 . 5 \"$ 。从图7(b)可以看出：摆镜的 $X$ 、 $Y$ 两个方向在不同控制频率下，图像稳定后的误差均方根值随延迟时间的变化规律是在延迟小于 $4 0 ~ \\mathrm { m s }$ 时，随控制频率的增加有所改善，在延迟大于 $4 0 ~ \\mathrm { m s }$ 后，提高控制频率，均方根值基本不变。总体来讲，随着延迟时间的增加，各个控制频率下的图像稳定后的误差均方根值都会增加。从图中标注可以看出：当 $X$ 方向的延迟时间超过 $8 8 . 3 5 2 ~ \\mathrm { m s }$ ，Y方向的延迟时间超过 $8 0 . 6 2 5 \\mathrm { ~ 1 ~ m s }$ 时，改正效果比改正之前的更差。因此，在控制系统闭环时，系统在两个方向上的延迟不能超过以上两个值。根据上述结果，",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表3摆镜闭环控制系统在 ${ \\bf 2 0 m s }$ 延迟下不同控制频率的图像抖动结果",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/b86b41c21334d1dcb01c725425d2d46cf5a1a81bf04761dd681465c34c1e9f7c.jpg",
+        "table_caption": [
+            "Table 3 The image vibration with different sampling frequencies for the closed-loop control system of the tip-tilt mirror at the defer time of 20ms "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>频率</td><td colspan=\"2\">X方向误差</td><td colspan=\"2\">Y方向误差</td></tr><tr><td>/Hz</td><td>RMS/\"</td><td>PV/\"</td><td>RMS/\"</td><td>PV/\"</td></tr><tr><td>10</td><td>0. 619 2</td><td>8.5611</td><td>0. 723 4</td><td>9. 102 1</td></tr><tr><td>20</td><td>0.439 0</td><td>4. 973 8</td><td>0. 509 7</td><td>4. 775 2</td></tr><tr><td>25</td><td>0. 407 6</td><td>4. 602 0</td><td>0.458 8</td><td>4. 302 1</td></tr><tr><td>40</td><td>0.386 9</td><td>4. 282 7</td><td>0. 429 2</td><td>3. 896 9</td></tr><tr><td>50</td><td>0.384 9</td><td>4.386 5</td><td>0. 423 9</td><td>4. 087 4</td></tr><tr><td>100</td><td>0.383 6</td><td>3.964 4</td><td>0. 420 5</td><td>3.593 1</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图8展示了控制频率 $2 5 ~ \\mathrm { H z }$ 、延迟时间 $2 0 ~ \\mathrm { m s }$ 下的摆镜闭环控制系统对图像稳定后的抖动误差随时间的变化曲线。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/1230ea1de29045fdf30238b50180552566e98b6e92f3a32e06a83d67b06944a0.jpg",
+        "img_caption": [
+            "图8控制系统在控制频率 $2 5 \\ : \\mathrm { H z }$ 和延时 $2 0 ~ \\mathrm { m s }$ 时稳像后的模拟误差曲线",
+            "Fig.8The stabilization simulated error curve with the control frequency of $2 5 \\mathrm { { H z } }$ and the defer time of $2 0 \\mathrm { m s }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4摆镜图像稳定系统的实验",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "根据数值模拟，开展摆镜图像稳定控制系统闭环实验，实验选择在风速较高时进行，观测目标为星，移开 $1 \\mathrm { m }$ 太阳望远镜的风障板，让 $1 \\mathrm { m }$ 太阳望远镜全部暴露在风中，并且镜筒迎风而向，使其受风的影响最大。当系统工作在开环时，对应风速下图像抖动如图3，当摆镜控制系统闭环后，并且控制频率分别工作在 $2 1 . 9 \\mathrm { H z }$ 、 $2 7 . 9 \\mathrm { H z }$ 和 $3 8 . 8 \\mathrm { H z }$ 时，得到对应风速下的图像抖动如图9（a)、（b）、",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（c），闭环后图像抖动随时间的变化如表4。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从表4可以看出，随着摆镜控制频率的增加，图像抖动（闭环控制误差）的均方根值随之减小， $2 0 \\ \\mathrm { H z }$ 也达到较为理想的结果。当然，实验时，图像闭环控制误差的均方根值变化并不完全取决于摆镜闭环控制频率，它受实验时的风速、风向的变化以及风与望远镜作用的方向等因素的影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/7ae5ef8605cdf0a0e44fd0663532e390fa9e5d6e56bd1ce64bd2c73f4c84c563.jpg",
+        "table_caption": [
+            "表4控制误差均方根值随控制频率的变化",
+            "Table 4The RMS value of the control error at different control frequencies "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>频率f /Hz</td><td>X方向的误差 RMS/\"</td><td>Y方向的误差 RMS/\"</td></tr><tr><td>21.9</td><td>0.414</td><td>0.498</td></tr><tr><td>27.9</td><td>0.466</td><td>0.531</td></tr><tr><td>38.8</td><td>0.306</td><td>0.365</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d5e898bca71de50aab3ed6c8b221e5bf7344a2c06006325cddef6882c1603ed.jpg",
+        "img_caption": [
+            "图9摆镜闭环控制系统分别在 $2 1 . 9 \\mathrm { H z }$ 、 $2 7 . 9 \\mathrm { H z }$ 、 $3 8 . 8 \\mathrm { H z }$ 时的实测图像抖动误差曲线 Fig.9The image measured jiter errorcurves forthe closed-loopcontrol systemof the tip-tilt mirror working at $2 1 . 9 \\mathrm { H z }$ ， $2 7 . 9 \\mathrm { H z }$ ，38.8H "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本文通过数值模拟分析，当 $1 \\mathrm { m }$ 太阳望远镜工作在五到六级风的情况下，摆镜图像稳定控制系统的系统延迟时间在 $2 0 ~ \\mathrm { m s }$ ，系统闭环控制频率只要工作在 $2 5 ~ \\mathrm { H z }$ 左右，就能将图像抖动的均方根值控制在 $0 . 5 \"$ 以内。经过多次实验证明，这一结论是成立的。因此，采用芯明天公司型号为XS-340.4SL二维摆镜建立图像稳定闭环控制系统以稳定随机风载对 $1 \\mathrm { ~ m ~ }$ 太阳望远镜引起的焦面图像抖动方法是可行的。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1] Liu Zhong，Xu Jun.1-meter near-infrared solar telescope [C]// Choudhuri A R，Banerjee D.First Asia-Pacific Solar Physics Meeting ASI Conference Series.2011:9-17.  \n[2] 王瑞，徐稚，刘忠.一米新真空红外太阳望远镜多波段光谱仪光谱弯曲分析［J].天文研究与技术——国家天文台台刊，2014，11(2)：165-167.Wang Rui，Xu Zhi，Liu Zhong. An analysis of spectrum curvatures for the multi-wavelengthspectrometer of the new vaccum solar telescope of the Yunnan Observatories [J].AstronomicalResearch and Technology——Publications of National Astronomical Observatories of China,2014，11(2) : 165-167.  \n[3] 李志，宋腾飞，许骏.阻导风板及其在NVST上的测试结果［J].天文研究与技术——国家天文台台刊，2012，9(3)：329-334.Li Zhi，Song Tengfei, Xu Jun. A set of H-S windscreens and test results of it on the YNAO NVST[J].Astronomical Research and Technology——Publications of National Astronomical Observatoriesof China，2012，9(3):329-334.  \n[4] 柳光乾．一米红外太阳望远镜控制系统研制［D].云南：中科院云南天文台，2011.  \n[5] 柳光乾，程向明，宋腾飞，等.一米太阳望远镜风载对伺服系统的影响及控制［J］．光电工程，2011，38(6):50-58.Liu Guangqian，Cheng Xiangming， Song Tengfei，et al. The infuence and control of wind loadingon the one meter solar telescope servosystem [J]. Opto-Electronic Engineering，2011，38（6） :50-58.  \n[6] 赵艳彬，许域菲，廖鹤，等．压电偏摆镜快速精确控制研究［J].空间控制技术与应用，2014,40(2): 31-36.Zhao Yanbin，Xu Yufei，Liao He，et al. On fast and accurate control for piezo-based steeringmirro [J].Aerospace Control and Application，2014，40(2）:31-36.  \n[7] 韩诚山，李祥之，文明，等.基于压电偏转系统的卫星平台振动补偿［J]．光学精密工程，2011，19(9)：2085-2091.Han Chengshan，Li Xiangzhi，Wen Ming，et al. Vibration compensation of satellite platformbased on piezo-eletric steering system ［J]. Optics and Precision Engineering，2011，19（9）:2085-2091.  \n[8] 徐飞飞，纪明，赵创社.快速偏转反射镜研究现状及关键技术［J］．应用光学，2010，31(5) : 847-850.Xu Feifei，Ji ming，Zhao Chuangshe. Status of fast steering mirror ［J]. Journal of AppliedOptics，2010,31(5) : 847-850.  \n[9] 黎明，黄勇.16KM空间光通信的跟踪实验研究［J].仪器仪表学报，2011，32（1）：230-234.Li Ming，Huang Yong. Experimental study of tracking system for 16km free-space opticalcommunication [J]. Chinses Journal of Scientific Instrument，2011，32(1）：230-234.  \n［10］谭立英，吴世臣，于思源，等.潜望式光通信终端反射镜安装误差补偿方法研究［J]．载人航天，2011，16(3)：54-57.Tan Liying，Wu Shichen，Yu Siyuan，et al. Compensating algorithm of setting errors of reflexmirror in periscope intersatellite optical communication terminal [J]. Manned Spaceflight，2011,16(3) : 54-57.  \n[11] 吴松涛.导弹预警系统二维摆镜结构及其控制系统研究［D].哈尔滨：哈尔滨工业大学，2006.  \n[12] Germann L M，Braccio J. Fine-steering mirror technology supports 1O nanoradiansystems [J].Optical Engineering，1990，29（11）：1351-1359.  \n[13] 曲蔚然，林岩，刘洛霞．基于扫描反射镜的惯性稳像控制系统设计［J]．电光与控制,2013，20(9):69-73.Qu Weiran，Lin Yan，Liu Luoxia.Design of an inertial Image stabilization control system basedon scan mirror [J].Electronics Optics & Control，2013，20(9）:69-73.  \n[14] Wang Rui，Xu Zhi， Jin Zhenyu，et al. The first observation and data reduction of the Multi-wavelength Spectrometer on the New Vacuum Solar Telescope ［J].Research in Astronomy andAstrophysics，2013，13(10）:1240-1254.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The Study on the Application of the Stabilized Control System for the Tip-tilt Mirror Image in NVST ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Li Yuyan1²，Liu Guangqian1 (1.Yunnan Observatories，Chinese Academic of Sciences，Kunming 6500l1,China,Email;lyy@ ynao.ac.cn; 2.University of Chinese Academy of Sciences，Beijing 10oo49,China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Because the dome of the New Vacuum Solar Telescope（NVST） is moved away from the telescope when it isat the operation，the tracking systemof the telescope is largelyaected bythe wind.This effect manifestsforthe image jiter greatly in the low-frequency wind.In order to solve this problem,the design of an image stabilizationsystem based on the two-dimensiontip-tilt mirror in the present TiO high-resolution image channel is made.This designation is based on the existing optical system of the telescope and the characteristics of the focal plane image jiter under the effects of the wind.According to the measured properties for thetwo-dimension tip-tilt mirror system，we established the transfer function of the system，and designed the controller.After in-depth analysis ofthe numerical simulationand the experiments，it isshowed that in thefive to six level wind effects，itbeable to control theRMS value of the image jiter for the NVSTbelow O.5 arcsec when the Tip-tilt mirror image stabilization systems operating at the $2 5 \\mathrm { { H z } }$ .This indicates that the tip-tilt mirror image stabilization system can compensate the image jitter of the telescope caused by the wind. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key Words：Random wind loads；Image jitter；Two-dimension Tip-tilt mirror；Control system；Numerical simulation ",
+        "page_idx": 10
+    }
+]

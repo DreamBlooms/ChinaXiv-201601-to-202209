@@ -1,0 +1,513 @@
+[
+    {
+        "type": "text",
+        "text": "Effects of temperature and light on seed germination of ephemeral plants in the Gurbantunggut Desert China: implications for vegetation restoration ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CHEN Yanfeng1,2.3, CAO Qiumei², LI Dexin2.3, LIU Huiliang $^ { 2 , 4 , 5 ^ { * } }$ , ZHANG Daoyuan2.5 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1DepartmentofTourism Management,Schoolof GeographyandTourism,Qufu Normal University,Rizhao 276826,China;   \n2 CAS Key Laboratoryof Biogeographyand Bioresource in AridLand, Xinjiang Institute ofEcologyand Geography,Chinese   \nAcademy of Sciences, Urumqi 83001i,China;   \n3 University of Chinese Academy of Sciences,Beijing 100049, China;   \n4Yili BotancalGrden,XinjiangIstituteofEcoogyandGeograhy,ChineseAcademyofSiences,Xinyuan358Cina;   \n5 Turpan Eremophytes Botanical Garden,Chinese Academy of Sciences,Turpan 838008, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Seed germination is a key transitional stage in plant life cycle and is strongly regulated by temperature and light. Therefore,research on the effects of temperature and light on seed germination is extremely meaningful for vegetation restoration, especially in desert ecosystems. Seeds of 28 ephemeral plants collcted from the Gurbantunggut Desert of China were incubated at different temperatures （204号 $( 5 ^ { \\circ } \\mathrm { C } / 1 ^ { \\circ } \\mathrm { C } ,$ $1 5 ^ { \\circ } \\mathrm { C } / 5 ^ { \\circ } \\mathrm { C }$ $2 0 ^ { \\circ } \\mathrm { C } / 5 ^ { \\circ } \\mathrm { C }$ $2 5 ^ { \\circ } \\mathrm { C } / 1 0 ^ { \\circ } \\mathrm { C }$ and $3 0 ^ { \\circ } \\mathrm { C } / 1 5 ^ { \\circ } \\mathrm { C } )$ in 12-h light/12-h darkness or continuous darkness regimes, and the responses of seed germination to temperature and light and the germination speed were studied in 2O16. Results showed that seed germination percentage of the 28 ephemeral plants significantly differed to temperature and light. We clasified the studied plants as the following groups based on their responses to temperature: 1 low temperature responsed plants, 12 moderate temperature responsed plants,7 high temperature responsed plants, 4 non-responsed plants and 5 plants of no germination. It should be noted that Corispermum lehmannianum Bunge is sensitive to both moderate and high temperatures. There were 4 groups of plant in response to light,i.e.,7 light responsed plants,10 dark responsed plants, 6 light non-responsed plants and 5 plants of no germination. Based on seed germination speed of the 28 ephemeral plants,we divided them into 4 paterns of germination,i.e., very rapid, moderately rapid, moderate and slow. Combining variations of temperature, precipitation and sand dune types in the study area, we suggested that very rapid and moderately rapid germinated plants could be used to moving sand dunes in early spring during vegetation restoration, moderate germinated plants could be used to semi-fixed sand dunes in late autumn,and slow germinated plants could be used to sand plain in summer. Thus,seedling establishment and vegetation restoration would be improved by considering seed germination characteristics of these ephemeral plants in the Gurbantunggut Desert, China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: dormancy; sand dune; seed germination percentage; seed germination pattern; sowing time ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: CHEN Yanfeng,CAO Qiumei,LIDexin,LIU Huiliang,ZHANG Daoyuan.2O19.Efectsof temperature and light onseedgerminationof ephemeral plants inthe Gurbantunggut Desert,China:implicationsfor vegetationrestoration. Journal of Arid Land,11(6): 916-927.https://doi.org/10.1007/s40333-019-0027-4 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Since the 199Os,land reclamation and livestock grazing have been widely conducted in arid and semi-arid lands of China (Stumpp et al.,2005; Tang et al., 2016; Jia et al., 2018), thus causing vegetation destruction and desertification (Zheng et al.,2OO3; Wang et al.,2O04; Yan et al.,2016). Hence,it is essential to take measures to recover the damaged land in these areas. In the process of vegetation restoration， seed germination is a key to success and is often affected by environmental factors，such as soil moisture, temperature,light, etc.Particularly temperature often changes the activity of enzyme in seed, which causes seed coat to rupture and changes the permeability of water permeability,ultimately afecting seed germination (Tabatabaei, 2015). Simultaneously, light can also act as a stimulus signal to release seed dormancy, thereby inducing seed germination (Barrero et al.,2O12). Therefore, it is especially important to study the effects of temperature and light on seed germination. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Temperature is an important environmental factor influencing seed germination (Ghosh and Pal, 2012; Hou et al., 2O14). Within a certain temperature range, seed germination percentage has a linear relationship with temperature (Phartyal et al., 2OO9) and the highest germination percentage is found within a certain temperature range (Chanyenga et al.,2Ol2; Zhou et al.,2O12). Moreover, temperatures above or below the optimal temperature are not beneficial to seed germination (Gao et al.,2OO7). Therefore,seed germination may occur between the minimum and maximum threshold temperatures and the highest germination percentage corresponds to the optimal temperature (Durr et al.，2O15).Therefore，research on the effect of temperature on seed germination is essential to determine the appropriate time for sowing during vegetation restoration process (Baskin and Baskin,1998; Durr et al., 2015). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Light is another important environmental factor that affects seed germination，and seed germination with specific responses to light has been widely studied (Zhang et al., 2O12). Some species can germinate in light or darkness,but the other species only germinate in continuous darkness (Wang et al.,2005; Liu et al.,2O1O). In the field, when seeds mature,they fall from the maternal plants onto the soil surface and are inevitably buried into the soil that afects the ability of seeds to acquire light. Thus,research on the effect of light on seed germination can indirectly reflect the burial depth of seeds. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ephemeral plants are a group of plant species that are able to complete their life cycle quickly and successfully at the end of spring or the beginning of summer by using the available melting snow and rain water (Ueckermann and van Rooyen, 20oo; Huang et al., 2015). Ephemeral plants are mainly distributed in the desert of Central Asia, the coastal of Mediterranean and the Gurbantunggut Desert，China (El-Keblawy，2003；Yao and Tan，2005；Lu et al.，2012). Particularly, ephemeral plants cover up to $40 \\%$ of the Gurbantunggut Desert in May,while shrubs and herbs cover less than $10 \\%$ of this area (Wang et al.,2OO3). Therefore,ephemeral plants are the main contributors to the stabilization of sand surface in early spring in the Gurbantunggut Desert. However， research on the efect of temperature and light on seed germination of ephemeral plants is rare,and that research has focused on seed germination of individual plants (Wang et al.，2003).Hence，we collected seeds from the 28 ephemeral plants in the Gurbantunggut Desert and performed seed germination experiments combining multiple temperature and light treatments in the laboratory to answer the following questions: (i) which temperature is the most suitable for seed germination of each plant? (ii) what is the response of sed germination to light and darkness? and (ii) depending on the responses of seed germination to light and temperature,which types of plants can be selected for vegetation restoration in the Gurbantunggut Desert? ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2Study area and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Gurbantunggut Desert is located in northwestern China( $\\mathrm { 4 4 ^ { \\circ } 1 1 N - 4 6 ^ { \\circ } 2 0 ^ { \\prime } N } .$ $8 4 ^ { \\circ } 3 1 ^ { \\prime } \\mathrm { E } { - } 9 0 ^ { \\circ } 0 0 ^ { \\prime } \\mathrm { E }$ Fig.la) and covers an area of $4 . 8 8 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ (Zeng et al., 2O16). The Gurbantunggut Desert is characterized by an arid and windy climate and is prone to sandstorms especially in early spring (Wang et al.， 2Oo4). It includes different types of sand dunes，such as moving sand dunes, semi-fixed sand dunes and sand plains (Figs. la-c; Wang et al., 2003). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "From 1 September, 2016 to 1 September 2017,the daily average temperature decreased and then increased, with a minimum of $- 2 5 ^ { \\circ } \\mathrm { C }$ on 17 February 2O17 and a maximum of $3 3 ^ { \\circ } \\mathrm { C }$ on 9 July 2017 (Fig. 2a). The snow began to melt on $2 0 \\mathbf { M }$ arch 2017.Water from snowmelt caused a sharp increase in soil water content at the end of March. Soil water content remained at an approximately $9 \\%$ from late March to late April (Fig. 2b). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/68ddf6151bd543e18cdc2b1ae3e7ac46d4ea5590590a4dfdf7d96c11dc5b9d1d.jpg",
+        "img_caption": [
+            "Fig.1Different types of sand dunes in the Gurbantunggut Desert, China.(a),moving sand dunes;(b), semi-fixed sand dunes;(c) sand plains. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/29fcb88478fdf3393d7b4660b9fc74413caf25b10c21532f9d20b62d9d154553.jpg",
+        "img_caption": [
+            "Fig.2Precipitationand temperature (a)and soil water content (b) in the Gurbantunggut Desert, China from 1 September 2016 to 1 September 2017 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Collection of seeds ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Seeds of the 28 ephemeral plants were collected from moving sand dunes,semi-fixed sand dunes and sand plains of the Gurbantunggut Desert from May to July 2O16. All seeds were randomly sampled from 3O-5O mature plants.The seeds were brought back to laboratory and air dried at a room temperature (approximately $2 0 ^ { \\circ } \\mathrm { C }$ and a relative humidity $30 \\%$ ）in darkness until they were used in germination experiment on 15 July 2O16. The detailed information of these plants is shown in Table 1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3Experimental methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We used 5 temperature regimes, i.e., $5 ^ { \\circ } \\mathrm { C } / 1 ^ { \\circ } \\mathrm { C }$ ， $1 5 ^ { \\circ } \\mathrm { C } / 5 ^ { \\circ } \\mathrm { C }$ $2 0 ^ { \\circ } \\mathrm { C } / 5 ^ { \\circ } \\mathrm { C }$ ， $2 5 ^ { \\circ } \\mathrm { C } / 1 0 ^ { \\circ } \\mathrm { C }$ and $3 0 ^ { \\circ } \\mathrm { C } / 1 5 ^ { \\circ } \\mathrm { C }$ The 5 temperature regimes were used to simulate the monthly average temperatures of March, April,May, June and July in the Gurbantunggut Desert. Under each temperature treatment, the seeds of the 28 ephemeral plants were placed in growth chambers under two light regimes, i.e., 12-h light/12-h darkness (12-h photoperiod with a light intensity of $2 0 0 \\ \\mathrm { \\textmu m o l / ( m ^ { 2 } { \\cdot } s ) } )$ and continuous darkness (darkness was maintained by using aluminum foil).For each treatment, 200 seeds (four replicates, 5O seeds per replicate） of each plant were used for seed germination experiment. The seeds were placed in Petri dishes that were $9 \\mathrm { - c m }$ in diameter and contained filter paper moistened with distilled water. Four Petri dishes were used per treatment, and the Petri dishes were sealed with parafilm so that watering was not needed during the entire experimental ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Table1 Characteristics of the 28 ephemeral plant species in this study period.All seeds from the 5 temperature treatments were placed in 5 climate chambers.When the radicle broke seed coat, the seeds were considered to be germinated. The germinated seeds were counted and removed every $2 4 \\mathrm { ~ h ~ }$ ，and germination period lasted $3 0 \\mathrm { ~ d ~ }$ 、If intact seeds did not germinate, their viability was tested by using a $1 \\%$ TTC(2,3,5-Triphenyltetrazolium chloride) solution (Baskin and Baskin,1998). ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/58110409b918c5ae5221bcd7e07034fb8dcf19397baaf2227157b0a3108b1656.jpg",
+        "table_caption": [
+            "CHEN Yanfeng et al.: Effects of temperature and light on seed germination of ephemeral plants.. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\"></td></tr><tr><td>No.</td><td>Family</td><td>Species</td><td>Life cycle</td><td>Regeneration part</td><td> Seed mass (mg)</td><td>Month of</td></tr><tr><td>1</td><td>Cruciferae</td><td>Goldb.chid.ydc.ata</td><td>Anerual</td><td>Seeds</td><td>0.823±0.038</td><td>collection June</td></tr><tr><td>2</td><td>Cruciferae</td><td>Malcolmia s Bopsides</td><td>Anerbal</td><td>Seeds</td><td>1.240±0.000</td><td>June</td></tr><tr><td>3</td><td>Cruciferae</td><td>Alyssum ifolim steh.</td><td>Anerba1</td><td>Seeds</td><td>1.600±0.053</td><td>May</td></tr><tr><td>4</td><td>Cruciferae</td><td>A lyteph.dasyilldam</td><td>Anerba</td><td>Seeds</td><td>2.527±0.023</td><td>June</td></tr><tr><td>5</td><td>Cruciferae</td><td>Syrenia macrocarpa</td><td>Perenial</td><td>Seeds</td><td>2.893±0.049</td><td>July</td></tr><tr><td>6</td><td>Cruciferae</td><td></td><td> Anual,</td><td>Fruits</td><td>10.827±0.130</td><td>June</td></tr><tr><td>7</td><td>Cruciferae</td><td>Sirohyarchus sabulosus</td><td>Anerbal1</td><td>Fruits</td><td>11.060±0.836</td><td>June</td></tr><tr><td>8</td><td>Cruciferae</td><td>Lepidiumanetalum</td><td>Anerbal</td><td>Seeds</td><td>1.060±0.000</td><td>June</td></tr><tr><td>9</td><td>Cruciferae</td><td>Lepidium perfolahum</td><td>Anerbal</td><td>Seeds</td><td>7.173±0.070</td><td>July</td></tr><tr><td>10</td><td>Cruciferae</td><td>Isatis minima Bunge.</td><td>Anerual</td><td>Fruits</td><td>4.593±0.771</td><td>July</td></tr><tr><td>11</td><td>Cruciferae</td><td>Isatis violascens Bunge.</td><td>Aneual</td><td>Fruits</td><td>9.177±0.292</td><td>July</td></tr><tr><td>12</td><td>Cruciferae</td><td>DLescurainia sbghia</td><td>Annual herb</td><td>Seeds</td><td>2.073±0.012</td><td>May</td></tr><tr><td>13</td><td>Cruciferae</td><td>Prantl. BEpilasic.Bemlaste.</td><td>Anerbal</td><td>Fruits</td><td>7.090±0.626</td><td>May</td></tr><tr><td>14</td><td>Cruciferae</td><td>kasahsranicus. vkt.</td><td>Anerua</td><td>Fruits</td><td>7.497±1.567</td><td>June</td></tr><tr><td>15</td><td>Cruciferae</td><td>Cithareloma vernum</td><td>Anerbal</td><td>Seeds</td><td>16.130±0.745</td><td>June</td></tr><tr><td>16</td><td>Liliaceae</td><td>Tuip si.liagens z.</td><td>Perenial</td><td>Seeds</td><td>58.540±7.790</td><td>June</td></tr><tr><td>17</td><td>Liliaceae</td><td>Tulipa iliensis Regel.</td><td>Perenial</td><td>Seeds</td><td>28.300±6.720</td><td>May</td></tr><tr><td>18</td><td>Liliaceae</td><td>Eremurus inderiensis</td><td>Perenial</td><td>Fruits</td><td>71.937±1.297</td><td>June</td></tr><tr><td>19</td><td>Chenopodiaceae</td><td>Certcarps arenarius</td><td>Aneral,</td><td>Fruits</td><td>1.177±0.083</td><td>July</td></tr><tr><td>20</td><td>Chenopodiaceae</td><td>lehmCnrianam Bunge.</td><td>Aneral,</td><td>Seeds</td><td>2.857±0.078</td><td>June</td></tr><tr><td>21</td><td>Labiatae</td><td>Nepeta micrntha</td><td>Anerbal</td><td>Seeds</td><td>3.730±0.075</td><td>June</td></tr><tr><td>22</td><td>Umbelliferae</td><td>Soranthus meyeri Ledeb.</td><td>Perenial</td><td>Fruits</td><td>18.290±2.310</td><td>June</td></tr><tr><td>23</td><td>Plantaginaceae</td><td>Plantago minuta Pall.</td><td>Anual</td><td>Seeds</td><td>24.480±0.111</td><td>July</td></tr><tr><td>24</td><td>Cyperaceae</td><td>Carex physodesM.-Bieb.</td><td>Perenial</td><td>Seeds</td><td>2.780±1.014</td><td>May</td></tr><tr><td>25</td><td>Gramineae</td><td>Eremopoyh) Ndisas K.</td><td>Annual</td><td>Fruits</td><td>40.500±4.543</td><td>May</td></tr><tr><td>26</td><td>Geraniaceae</td><td>Erodium.Bxrhinchum</td><td>Anerba</td><td>Seeds</td><td>32.287±0.261</td><td>May</td></tr><tr><td>27</td><td>Amaryllidaceae</td><td></td><td>Perenial</td><td>Seeds</td><td>58.110±0.663</td><td>July</td></tr><tr><td>28</td><td>Boraginaceae</td><td>Lappulab.ymuglbra</td><td>Aneual</td><td>Fruits</td><td>0.807±0.015</td><td>June</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4 Statistical analyses ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Seed germination was measured using final germination percentage (FGP).FGP, the start time of germination, germination duration and time of FGP reaching $50 \\%$ at $2 0 ^ { \\circ } \\mathrm { C } / 5 ^ { \\circ } \\mathrm { C }$ treatment are the variables that were used to separate different species in principal component analysis (PCA) and cluster analysis. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The data were subjected to analysis of variance (ANOVA). Before conducting ANOVA, the data were tested for homogeneity of variance and then transformed with arcsine square root if necessary. FGP was analyzed as dependent variables,and temperature and light were considered as fixed effects with a two-way ANOVA. If ANOVA result showed a significant difference, Tukey's test was used to determine the diferences among treatments.All statistical analyses were performed using SPSS 13.O software and figures were plotted using Origin 8.5 software. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Effect of temperature on seed germination percentage ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For 5 temperature regimes $( 5 ^ { \\circ } \\mathrm { C } / 1 ^ { \\circ } \\mathrm { C }$ ， $1 5 ^ { \\circ } \\mathrm { C } / 5 ^ { \\circ } \\mathrm { C }$ ， $2 0 ^ { \\circ } \\mathrm { C } / 5 ^ { \\circ } \\mathrm { C }$ ， $2 5 ^ { \\circ } \\mathrm { C } / 1 0 ^ { \\circ } \\mathrm { C }$ and $3 0 ^ { \\circ } \\mathrm { C } / 1 5 ^ { \\circ } \\mathrm { C } )$ ，23 species germinated and 5 species did not germinate (Table 2). Based on the data of seed germination percentage,we classified the 28 plants into the following 5 groups in response to temperature. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 Low temperature responsed plant $( 5 ^ { \\circ } \\mathrm { C } / 1 ^ { \\circ } \\mathrm { C } )$ （20 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "There was only1 low temperature responsed plant ( $C .$ arenarius),accounting for $3 . 5 7 \\%$ of the 28 ephemeral plants (Table 2). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.2Moderate temperature responsed plant ( $1 5 ^ { \\circ } \\mathrm { C } / 5 ^ { \\circ } \\mathrm { C }$ and $2 0 ^ { \\circ } \\mathrm { C } / 5 ^ { \\circ } \\mathrm { C } )$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "There were 12 moderate temperature responsed plants，accounting for $4 2 . 8 6 \\%$ of the 28 ephemeral plants. The seed germination percentage of these plants was significantly higher than those of the low and high temperature responsed plants $( P { < } 0 . 0 0 1 )$ .These plants included $L .$ semiglabra,C.vernum,T.kasahstanicus, $E .$ distans, $G$ laevigata,I. tataricum, $E .$ inderiensis, $C .$ （ lehmannianum, A. linifolium, $P .$ multicaule, T. sinkiangensi and $C .$ vernum (Table 2). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.3High temperature responsed plant ( $2 5 ^ { \\circ } \\mathrm { C } / 1 0 ^ { \\circ } \\mathrm { C }$ and $3 0 ^ { \\circ } \\mathrm { C } / 1 5 ^ { \\circ } \\mathrm { C }$ 0 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "There were 7 high temperature responsed plants,accounting for $2 5 . 0 0 \\%$ of the 28 ephemeral plants.These plants included $P .$ multicaule, $L$ apetalum, $N .$ micrantha, S. macrocarpa, C. lehmannianum, $D$ ，sophia and $L$ perfoliatum (Table 2). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.4Non-responsed plant ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "There were 4 non-responsed plants,accounting for $1 4 . 2 9 \\%$ of the 28 ephemeral plants.The seed germination percentages had no significant differences under low， moderate and high temperatures. These plants included A. dasycarpum， S. sabulosus,E. oxyrhinchum and $M .$ scorpioides (Table 2). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.5Non-germinated plant ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "There were 5 non-germinated plants,accounting for $1 7 . 8 6 \\%$ of the 28 ephemeral plants.These plants included I.minima,I. violascens,T.iliensis, S.meyeri and $C .$ physodes (Table 2). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 Effect of light on seed germination percentage ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "According to the data of seed germination percentage under two light regimes, we divided the 28 ephemeral plants into 4 groups in response to light. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 Light responsed plant ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "There were 7 light responsed plants,accounting for $2 5 . 0 0 \\%$ of the 28 ephemeral plants.The seed germination percentage of these plants was significantly higher under light than in continuous darkness ${ \\scriptstyle ( P < 0 . 0 0 1 ) }$ .These plants included $P .$ multicaule, $L .$ apetalum,G. laevigata,L. semiglabra, A. dasycarpum, $L .$ perfoliatum and $D$ sophia. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Table 2Effects of temperature and light on seed germination percentage ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c270975aa6ad06b3d1755c6f712533d6e8d97a44fa4bed8fef6b8dd47a538fcf.jpg",
+        "table_caption": [
+            "CHEN Yanfeng et al.: Effects of temperature and light on seed germination of ephemeral plants.. "
+        ],
+        "table_footnote": [
+            "Note:LT,lowtemperature;Mmoderatetemperature;HT,ightemperature.Thecolorfromlightodarkindicatedthefourlvelsf seed germination percentage ( $0 \\%$ $0 \\% { - 3 0 \\% }$ ， $30 \\% \\mathrm { - } 8 0 \\%$ and $8 0 \\% - 1 0 0 \\%$ ).Different uppercase letters indicate significant differences among different lights under the same temperature at $P { < } 0 . 0 5$ level,while different lowercase letters indicate significant differences among different temperatures under the same light at $P { < } 0 . 0 5$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"5\">Species</td><td colspan=\"9\">Seed germination percentage (%)</td></tr><tr><td colspan=\"6\">Light/darkness</td><td colspan=\"4\">Continuous darkness</td></tr><tr><td rowspan=\"2\">LT 5C/</td><td colspan=\"2\">MT</td><td colspan=\"2\">HT</td><td rowspan=\"2\">LT</td><td colspan=\"2\">MT</td><td colspan=\"2\">HT</td></tr><tr><td>15C/</td><td>20C/</td><td>25℃/ 30C/</td><td>5C/</td><td>15C/</td><td>20C/</td><td>25C/</td><td>30℃/</td></tr><tr><td></td><td>1C 0Bc</td><td>5C 90Aa</td><td>5℃ 96Aa</td><td>10C 88Ab</td><td>15℃ 84Ab</td><td>1C 1Ac</td><td>5℃ 8Bb</td><td>5℃ 6Bb</td><td>10℃C 11Ba</td><td>15℃ 8Bb</td></tr><tr><td>P. minuta L. semiglabra</td><td>0Bd</td><td>98Aa</td><td>96Aa</td><td>78Ab</td><td>57Bc</td><td>5Ac</td><td>83Ba</td><td>82Ba</td><td>52Bb</td><td>75Ab</td></tr><tr><td>L. apetalum</td><td>0Ad</td><td>40Ac</td><td>81Ab</td><td>97Aa</td><td>100Aa</td><td>0Ac</td><td>3Bb</td><td>22Ba</td><td>30Ba</td><td>10Bb</td></tr><tr><td>N. micrantha</td><td>19Ac</td><td>62Bb</td><td>52Ab</td><td>88Aa</td><td>93Aa</td><td>17Ac</td><td>43Ab</td><td>64Bb</td><td>88Aa</td><td>90Aa</td></tr><tr><td>T. kasahstanicus</td><td>24Ad</td><td>86Aa</td><td>80Aa</td><td>67Bb</td><td>46Ac</td><td>1Bc</td><td>80Ba</td><td>76Ba</td><td>74Aa</td><td>45Ab</td></tr><tr><td>E. hemilasia</td><td>1Bc</td><td>40Ba</td><td>45Aa</td><td>34Ab</td><td>5Bc</td><td>7Ac</td><td>61Aa</td><td>38Bb</td><td>23Bc</td><td>14Ad</td></tr><tr><td>E. distans</td><td>8Bd</td><td>40Aa</td><td>27Bb</td><td>30Ab</td><td>19Bc</td><td>13Ad</td><td>40Aab</td><td>46Aa</td><td>31Ab</td><td>24Ac</td></tr><tr><td>S. macrocarpa</td><td>2Bc</td><td>10Bb</td><td>12Bb</td><td>25Ba</td><td>27Ba</td><td>14Ac</td><td>63Ab</td><td>64Ab</td><td>65Ab</td><td>75Aa</td></tr><tr><td>G. laevigata</td><td>0Ac</td><td>21Aa</td><td>35Aa</td><td>25Aab</td><td>14Ab</td><td>0Ab</td><td>0Bb</td><td>3Ba</td><td>3Aa</td><td>0Bb</td></tr><tr><td>I. tataricum</td><td>6Bb</td><td>25Ba</td><td>2Bb</td><td>0Bc</td><td>0Ac</td><td>78Ab</td><td>91Aa</td><td>12Ac</td><td>2Ad</td><td>0Ad</td></tr><tr><td>E.inderiensis</td><td>0Ab</td><td>2Bb</td><td>7Ba</td><td>1Bb</td><td>0Bb</td><td>0Ad</td><td>80Aa</td><td>48Ab</td><td>26Ac</td><td>2Ad</td></tr><tr><td>C. vernum</td><td>OBc</td><td>7Bb</td><td>15Ba</td><td>1Bc</td><td>3Bc</td><td>1Ad</td><td>66Aa</td><td>53Ab</td><td>20Ac</td><td>5Ad</td></tr><tr><td>C. lehmannianum</td><td>0Bb</td><td>1Bb</td><td>1Ab</td><td>0Bb</td><td>6Aa</td><td>23Aa</td><td>16Ab</td><td>12Bb</td><td>4Ac</td><td>1Bc</td></tr><tr><td>M. scorpioides</td><td>1Ba</td><td>2Ba</td><td>0Ba</td><td>3Ba</td><td>5Ba</td><td>2Aa</td><td>4Aa</td><td>5Aa</td><td>6Aa</td><td>2Aa</td></tr><tr><td>A. linifolium</td><td>0Ab</td><td>5Aa</td><td></td><td>3Aab</td><td>1Ab</td><td>0Ab</td><td>5Aa</td><td> 4Aab</td><td>3Aab</td><td>2Ab</td></tr><tr><td>D. sophia</td><td>0Bb</td><td>4Ab</td><td>4Bab 2Bb</td><td>5Ab</td><td>15Aa</td><td>1Aa</td><td>2Ba</td><td>3Aa</td><td>1Ba</td><td>2Ba</td></tr><tr><td>L. perfoliatum</td><td>0Bb</td><td>2Ab</td><td>2Ab</td><td>13Aa</td><td>9Aa</td><td>1Aa</td><td>0Ba</td><td>0Ba</td><td>0Ba</td><td>2Ba</td></tr><tr><td>C. arenarius</td><td>9Ba</td><td>7Ab</td><td>2Ac</td><td>2Ac</td><td>2Ac</td><td>1Aa</td><td>2Bb</td><td>0Bb</td><td>1Bb</td><td>2Bb</td></tr><tr><td>A. dasycarpum</td><td>8Aa</td><td>16Aa</td><td>13Aa</td><td>13Aa</td><td>17Aa</td><td>2Bc</td><td>4Bb</td><td>5Ba</td><td>6Ba</td><td>2Bc</td></tr><tr><td>P. multicaule</td><td>0Ac</td><td>3Ab</td><td>4Ba</td><td>2Bb</td><td>0Ac</td><td>0Ad</td><td>3Ab</td><td>5Ba</td><td>3Ab</td><td>2Ac</td></tr><tr><td>S. sabulosus</td><td>0Aa</td><td>1Aa</td><td>0Aa</td><td>1Aa</td><td>0Aa</td><td>0Aa</td><td>1Aa</td><td>1Aa</td><td>1Aa</td><td>0Aa</td></tr><tr><td>E. oxyrhinchum</td><td>0Aa</td><td>0Aa</td><td>1Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>1Aa</td></tr><tr><td>I. minima</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>2Aa</td><td>0Aa</td><td>0Aa</td></tr><tr><td>I. violascens</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td></tr><tr><td>T. sinkiangensi</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td></tr><tr><td>T. iliensis</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>QAa</td><td>0Aa</td><td>0Aa</td></tr><tr><td>S. meyeri</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td>0Aa</td></tr><tr><td></td><td></td><td></td><td></td><td>0Aa</td><td></td><td></td><td>0Aa</td><td></td><td></td><td></td></tr><tr><td>C. physodes</td><td>0Aa</td><td>0Aa</td><td>0Aa</td><td></td><td>0Aa</td><td>0Aa</td><td></td><td>0Aa</td><td>0Aa</td><td>0Aa</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 Darkness responsed plant ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "There were 1O darkness responsed plants,accounting for $3 5 . 7 1 \\%$ of the 28 ephemeral plants.The seed germination percentage of these plants was significantly higher under darkness than in light $( P { < } 0 . 0 0 1 )$ .These plants included S. macrocarpa,I. tataricum, $E$ 、inderiensis,C. vernum,E. hemilasia, $E .$ oxyrhinchum, C. lehmannianum,M. scorpioides, C.arenarius and T. sinkiangensi. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.3 Non-responsed plant ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "There were 6 non-responsed plants,accounting for $2 1 . 4 3 \\%$ of the 28 ephemeral plants.The germination percentage of these plants showed no significant difference between light and darkness. These plants included T. kasahstanicus,A. linifolium, $P .$ minuta, N. micrantha, S. sabulosus and $E .$ .oxyrhinchum. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.4Non-germinated plant ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "There were 5 non-germinated plants,accounting for $1 7 . 8 6 \\%$ of the 28 ephemeral plants.These plants included I.minima,I. violascens,T. iliensis,S.meyeri and $C _ { }$ physodes. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3Seed germination pattern ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The results of PCA were represented by two principal component axes (Fig.3). The two principal component axes representing the variation in seed germination characteristics of the 28 ephemeral plants were $4 8 . 4 2 \\%$ and $3 8 . 3 3 \\%$ ，respectively. In total， the two principal component axes explained $8 6 . 7 5 \\%$ of the total variation of by extracting the sum of squares of initial eigenvalues (Table 3). The two principal component axes can be expressed by the following formula: ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $G p$ is the seed germination percentage $( \\% )$ ， $G s$ is the time of start of germination (d); Gd is the germination duration (d); and $G p _ { 5 }$ is the time of FGP reaching $50 \\%$ FGP (d). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We performed cluster analysis based on specific scores of each plant on the two principal component axes (Figs. 3 and 4). Finall, we divided the 28 ephemeral plants into 4 germination patterns from PCA and cluster analysis. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/5037f97a4bdde75ac3399dd336f7ef87e52c39042804f5f168686d2bdb6efcf1.jpg",
+        "img_caption": [
+            "Fig.3A principal component analysis of seed germination characteristics.a,time of start of germination;b, germination duration; c, time of final germination percentage reaching $50 \\%$ ; d, final germination percentage. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/9899b54fe516aeae7bfb75b3cb3af32eb47c748ab574ce21ed64dc66abb2e55a.jpg",
+        "img_caption": [
+            "Fig.4A principal component analysis of axis scores of the 28 ephemeral plants.Numbers represent the plant species. ",
+            "Table 3Total variance explained by principal component analysis "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/78b5f3790669da332a86659fc44802770258e2eb166b0e62b8778bcab98f2df1.jpg",
+        "table_caption": [
+            "CHEN Yanfeng et al.: Effects of temperature and light on seed germination of ephemeral plants .. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Component</td><td colspan=\"3\">Initial eigenvalues</td><td colspan=\"3\">Extraction of squared loadings</td></tr><tr><td>Total initial eigenvalues</td><td>Percentage of variance (%)</td><td>Cumulative variance (%)</td><td>Total squared loadings</td><td>Percentage of variance (%)</td><td>Cumulative variance (%)</td></tr><tr><td>1</td><td>1.94</td><td>48.42</td><td>48.42</td><td>1.94</td><td>48.42</td><td>48.42</td></tr><tr><td>2</td><td>1.53</td><td>38.33</td><td>86.75</td><td>1.54</td><td>38.33</td><td>86.75</td></tr><tr><td>3</td><td>0.47</td><td>11.64</td><td>98.40</td><td></td><td></td><td></td></tr><tr><td>4</td><td>0.06</td><td>1.60</td><td>100.00</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 Very rapid germination ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Plants of very rapid germination had a high seed germination percentage, reaching $50 \\%$ of the FGP in a very short time,and had short germination duration and an early time of start of germination. These plants included N. micrantha, P.minuta,T. kasahstanicus and $L .$ apetalum. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3.2 Moderately rapid germination ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Plants of moderately rapid germination had a moderately rapid seed germination percentage, reaching $50 \\%$ of the FGP in a short time and had short germination duration.These plants included $C .$ vernum and $E .$ inderiensis. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3.3 Moderate germination ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Plants of moderate germination had a low seed germination percentage, took a long time to reach $50 \\%$ of the FGP and had long germination duration and late time of start of germination. These plants included $G$ laevigata, $M .$ ，scorpioides,P. densiflorum,A. linifolium,E. hemilasia and $E$ distans. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3.4Slow germination ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Plants of slow germination had a low seed germination percentage or did not germinate, took the longest time to reach $50 \\%$ of the FGP and had the longest germination duration and latest time of start of germination. These plants included S. macrocarpa, L. semiglabra, A. dasycarpum, S. macrocarpa, C. lehmannianum, S. meyeri, L. perfoliatum, P. minuta, T. iliensis, S. sabulosus, C. physodes,I. minima, $E$ 、oxyrhinchum,I.violascens,T.sinkiangensis,I.tataricum,D.sophia,C. arenarius and $L .$ semiglabra. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4Discussion and conclusions ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "During the life cycle of plants, seed stage shows the strongest tolerance to environmental stresses, but seedling stage is the most vulnerable stage to environmental change (Shannon et al., 2016). However， successful establishment of seedlings strongly depends on the response of seed germination to the environment (Bertacchi et al., 2O16). Therefore, studying the response of seed germination to the environmental factors may be useful for vegetation restoration. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1 Effect of temperature on seed germination ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the field,seeds buried in the soil sense temperature changes in different seasons and choose a suitable time to start the life cycle (Xia et al.,2O18). Therefore,response of seed germination to temperature suggests the possible time within a year for vegetation restoration. In our study, the optimal temperature ranges of the 28 ephemeral plants in seed germination showed a great difference,such as $P .$ minuta, $L .$ semiglabra and $L .$ apetalum had the highest germination percentages between $2 5 ^ { \\circ } \\mathrm { C } / 1 0 ^ { \\circ } \\mathrm { C }$ and $3 0 ^ { \\circ } \\mathrm { C } / 1 5 ^ { \\circ } \\mathrm { C }$ ， $T .$ kasahstanicus between $1 5 ^ { \\circ } \\mathrm { C } / 5 ^ { \\circ } \\mathrm { C }$ and $2 0 ^ { \\circ } \\mathrm { C } / 5 ^ { \\circ } \\mathrm { C }$ ，but $I .$ tataricum and $E$ ，inderiensis between $5 ^ { \\circ } \\mathrm { C } / 1 ^ { \\circ } \\mathrm { C }$ and $1 5 ^ { \\circ } \\mathrm { C } / 5 ^ { \\circ } \\mathrm { C }$ ，Therefore，the temperature requirement for germination is species-specific, some plants require low temperature, but others need moderate or higher temperature (Rosbakh and Poschlod, 2O15； El-Keblawy, 2017a). Based on the response of seed germination to temperature,we divided the 28 ephemeral plants into 5 groups. Considering the temperature change during spring in the Gurbantunggut Desert (Liu et al.,2O11),low temperature responsed plants should be sown before the end of March,because low temperature and soil moisture from melting snow and rainfall provides a suitable environment for seed germination in early spring.Moderate temperature responsed plants should be sown before mid-April, and high temperature responsed plants should be sown before May. Differently, non-responsed and non-germinated plants may be related to the seed dormancy that limits the response of seed germination to temperature.For example, seeds of $E .$ oxyrhinchum had physical dormancy (PD) (unpublished data),seeds of I. violascens had non-deep PD and intermediate PD (Zhou et al.,2O15)，seeds of $T .$ iliensis were dormant at maturity but when subjected to cold and dry (2 months at $4 ^ { \\circ } \\mathrm { C }$ ）followedbycoldandwet ( $( \\leq 4 0 \\mathrm { ~ d ~ }$ at $4 ^ { \\circ } \\mathrm { C }$ ）conditions, their seed germination percentage reached up to $9 6 \\%$ (Tang et al.，2009). Therefore, non-responsed and non-germinated plants should be sown in summer or autumn，which would allow the dormancy to be released by stratification temperature. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2 Effect of light on seed germination ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In the field，seeds may be buried at different soil depths depending on wind and habitat characteristics,and the photon irradiance can be significantly decreased (Lai et al.,2015). Generally,it is believed that phototropic seeds need to be irradiated with red or white light to form more phytochrome to germinate; non-phototropic seeds require only a small amount of phytochrome to germinate， thus requiring a long period of darkness (Finch-Savage and Leubner-Metzger, 2Oo6). Thus, plants responsed to light should be sown in soil surface or shallow soil. Plants responsed to darkness should be sown to a certain depth of soil, but the depth should not be too deep because being sown too deep also causes seed death via hypoxia. Non-responsed and non-germinated plants accounted for a large proportion in this study，and this result may be related to dormancy, thus limiting the response of seed to light. As suggested by Batlla and Benech-Arnold (2OO5) that the response of seed germination to light is gradually enhanced with dormancy loss progressed. In addition， theoretical models and empirical studies have also reported that smaller seeds tend to be positively photoblastic and larger seeds tend to be negatively photoblastic (Milberg et al.,200O; El-Keblawy,2017a,b). In our study, the results of some plants partly support the above findings. For example, seed germination percentage of $L .$ （204号 apetalum with smallseeds was significantly higher in light/darkness than in continuous darkness, but seed germination percentages of $I .$ tataricum and $E$ ，inderiensis with large seeds were significantly higher in continuous darkness than in light/darkness (Tables 1 and 2).In the field, especially for moving sand dunes, plants with large seeds avoided being blown away by wind as they might be buried into moving sand dunes. Therefore,response of seed germination to light provides a suggestion for sowing the seeds at different sand dune types and depths for vegetation restoration. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.3Selection of plants for vegetation restoration ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In the Gurbantunggut Desert, hydrothermal factors are extremely uncoordinated and vegetation restoration is extremely difficult than that of the other deserts in China (Kang et al., 2018). To increase the success rate of vegetation restoration, it is necessary to select plants with different germination patterns based on sand dune types and sowing time. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.3.1 Selection of sand dune type for vegetation restoration ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For moving sand dunes, there is almost no vegetation coverage and wind erosion is very severe, and moving sand dunes are suitable for seed germination only for a certain time in a year. Thus, plants with very rapid and moderately rapid seed germination would be suitable for utilizing snowmelt and rainfall in early spring. For semi-fixed sand dunes, the dune surface is covered by sparse vegetation, and the loss of soil water content is slower than that of moving sand dunes. Thus,plants with moderately rapid seed germination could be selected.For sand plains,the dune surface is covered by relatively more vegetation and soil water content is higher than those of the other dune types. Thus, plants with moderate or slow seed germination could be selected. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.3.2 Selection of sowing time for vegetation restoration ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Precipitation pattern mainly determines soil water content in the dune surface,which affects seed germination in the field (Flerchinger and Hardegree,2O04; Santos et al.,2013). Therefore,when we conduct vegetation restoration,distribution of precipitation should be considered. For the Gurbantunggut Desert, the period with the highest soil water content is early spring,followed by late autumn (Fig. 2).Therefore, plants of very rapid seed germination should be sown at this time. Plants with moderately rapid seed germination, such as $E .$ distans and $E$ .oxyrhinchum,often have a mild dormancy, and they may have bet-hedging strategies (bet-hedging is defined as a strategy that reduces the temporal variance in fitness at the expense of a lowered arithmetic mean fitness; Zhang et al., 2OO7). When rainfall is abundant in late autumn, seeds germinate and seedlings withstand the winter. When rainfall is scarce in autumn,seed germination will be delayed until the succeeding spring. Therefore, plants with moderately rapid seed germination should be sown in late autumn. Plants with moderate and low seed germination usually are dormant. Thus, plants with moderate and low seed germination should be sown after fruit or seeds disperse in summer in order to releasing dormancy. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In conclusion,this study provides a method of plants selection for vegetation restoration in terms of seed germination characteristics. It would be conducive to improving seedling establishment of these ephemeral plants in the Gurbantunggut Desert when considering the seed sowing time and sand dune types during seed germination period. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This study was funded by the Science and Technology Plan Project of Xinjiang Uygur Autonomous Region (2016B03040),the National Natural Science Foundation of China (31570529,31660162,31971428,31770638) and the Youth Innovation Promotion Association of Chinese Academy of Sciences (2018477). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "AbudurehemanB,ZhangL,LiuH,etal.2016.Achene germinationofthe spring ephemeroidspecies Carexphysodes inthe Gurbantunggut Desert. Nordic Journal of Botany,34(2): 228-234.   \nBarreroJM,JacobsenJV,Talbot MJ,etal.20l2.Graindormancyandlightqualityeffectsongermination inthe modelgrass Brachypodium distachyon.New Phytologist,193(2):376-386.   \nBaskin CC,Baskin JM.1998.Seeds: Ecology，Biogeography,and Evolution of Dormancy and Germination.San Diego: Elsevier/Academic Press,559-613.   \nBatllaD,Benech-ArmoldRL.2Oo5.Changes inthe lightsensitivityofburied Polygonumaviculareseeds inrelationto cold-induced dormancy loss: development of a predictive model. New Phytologist,165(2): 445-452.   \nBertacchiMIF,AmazonasNT,BrancalionPHS,tal.2O16.Establishmentoftreeseedlingsintheunderstoryofrestoration plantations: natural regeneration and enrichment plantings.Restoration Ecology,24(1):100-108.   \nChanyenga TF,Geldenhuys CJ,Sileshi GW.2012.Germinationresponse and viabilityof an endangered tropical conifer Widdringtonia whytei seeds to temperature and light.South African Journal of Botany,81: 25-28   \nDurr C,DickieJB,YangXY,etal.2O15.Rangesofcritical temperatureand waterpotential valuesforthegerminationof species worldwide: Contribution to a seed trait database.Agricultural and Forest Meteorology,2OO:222-232.   \nEl-KeblawyA.2Oo3.Efectsof achene dimorphismondormancyand progeny traits inthetwo ephemerals Hedypnois cretica and Crepis aspera (Asteraceae).Canadian Journal of Botany,81(6): 550-559.   \nEl-KeblawyA.2O17a.Germinationresponse to lightand temperature ineight anual grases from disturbed and natural habitats of an arid Arabian desert. Journal of Arid Environments,147:17-24.   \nEl-KeblawyA.2O17b.Lightandtemperaturerequirements duringgerminationofpotentialperennial grasss forrehabilitation of degraded sandy Arabian Deserts.Land Degradation and Development,28(5):1687-1695.   \nFinch-SavageWE,Leubner-Metzger G.2O06.Seed dormancyandthe control of germination.New Phytologist,171(3): 501-523.   \nFlerchingerGN,Hardegree SP.2O04.Modeling near-surfacesoil temperatureand moisture for germination response predictions of post-wildfire seedbeds.Journal of Arid Environments,59(2):369-385.   \nGao R,ZhaoR,Zhang S,etal.2Oo7.Effectsofsaltandtemperatureon Halocnemum strobilaceumseed germination.Acta Botanica Boreali-Occidentalia Sinica,27:2281-2285.(in Chinses)   \nGhosh S,PalA.O12.Identificationof diferential proteinsof mungbean cotyledons during seed germination:aproteomic   \nHou P,LiuY, XieR,et al.2014.Temporal and spatial variation inaccumulated temperaturerequirementsof maize.Field Crops Research,158: 55-64.   \nHuang G,LiY,PadillFM.2O15.Ephemeral plants mediateresponses of ecosystem carbon exchange to increased precipitation in a temperate desert. Agricultural and Forest Meteorology,201: 141-152.   \nJiaFQ,RenJJ,ZhangYM.2O18.Efectof slope aspectand terainofsand duneon herbaceous diversityin Gurbantunggut desert.Chinese Journal of Ecology,37(1): 26-34.(in Chinese)   \nKang WP,Wang T,Liu SL.2018.Theresponseof vegetation phenologyand productivitytodrought insemi-arid regions of Northern China.Remote Sensing,10(5): 1-15.   \nLaiLM,TianY,WangYJ,etal.2Ol5.Distributionofthreecongenericshrubspeciesalonganariditygradientiselatedto seed germination and seedling emergence.AoB Plants,7: plv071, htps://doi.org/10.1093/aobpla/plv071.   \nLiu H,Song M,Duan S,etal.20l1.Acomparative studyofseed germinationtraitsof52 species from Gurbantunggut Desert and its peripheral zone.Acta Ecologica Sinica,31(5): 4308-4317. (in Chinese)   \nLiu YJ,JiYF,MaQL,etal.2O10.Effectoflightandtemperatureonthegerminationof threeannual plants.ChineseJoual of Eco-Agriculture,18(4): 810-814.(in Chinese)   \nLuJJ,Tan DY,BaskinJM,etal.2Ol2.Phenotypic plasticityand bet-hedging ina heterocarpic winter annual/spring ephemeral cold desert species of Brassicaceae. Oikos,121(3): 357-366.   \nMilbergP，AnderssonL，Thompson K.20oo.Large-seeded speciesare lessdependent on light forgermination than small-seded ones. Seed Science Research,10(1): 99-104.   \nPhartyal SS,KondoT,BaskinJM,etal.2O9.Temperaturerequirements diferforthetwo stagesofseeddormancybreak in Aegopodium podagraria (Apiaceae),a species with deep complex morphophysiological dormancy.American Journal of Botany,96(6): 1086-1095.   \nRosbakh S,Poschlod P.2Ol5.Initial temperature of seed germinationas related to speciesoccurrence along a temperature gradient. Functional Ecology,29(1): 5-14.   \nSantosDMD,Silva KAD,Albuquerque UPD,et al.2O13.Canspatial variationand inter-annual variationin precipitation explainthe seed densityand species richness ofthe germinable soilsedbankinatropical dry forest innorth-eastern Brazil? Flora,208(7): 445-452.   \nShanonRW,FelixAE,PoppyGM,etal.2016.Something in theair?Theimpactof volatilesonmollsc attckof oilseed rape seedlings.Annals of Botany,117(6):1073-1082.   \nStumpp M,Wesche K,Retzer V,et al.2Oo5.Impactof grazing livestock anddistancefrom water source on soil fertility in Southern Mongolia.Mountain Research and Development,25(3): 244-251.   \nTabatabaei SA.2Ol5.The changes of germination characteristics and enzyme activityofbarley seeds underaccelerated aging. Cercetari Agronomice in Moldova, 48(2): 61-67.   \nTang AJ,Tian MH,Long CL.29.Sed dormancyand germinationof three herbaceous perennial desert ephemerals from the Junggar Basin, China. Seed Science Research,19:183-189.   \nTang J,DavyAJ,Jiang D,etal.2O16.Efectsofexcludinggrazingonthevegetationandsoilsof degradedsparseelm grassand in the Horqin Sandy Land,China.Agriculture Ecosystems and Environment,235: 340-348.   \nUeckermann C,van Rooyen M W.2Ooo. Insect polination and seed set in four ephemeral plant species from Namaqualand. South African Journal of Botany,66 (1): 28-30.   \nWang L,Tian CY,Zhang DY,et al.2Oo5.Efectsof ilumination,temperature andsalinityonthe germinationof Suaeda physophora Pall. Arid Land Geography,28: 670-674. (in Chinese)   \nWangX,JiangJ，LeiJ,etal.2Oo3.Distributionofephemeral plantsand theirsignificanceindunestabilization in Gurbantunggut Desert.Acta Geographica Sinica,13(3): 323-330.(in Chinese)   \nWang X,JiangJ,LeiJ,etal.O4.Relationshipbetweenephemeralplants distributionandsoilmoistureonlongitudinaldune surface in Gurbantonggut desert. Chinese Journal of Applied Ecology,15(4): 556-560. (in Chinese)   \nXiaQ,MaharajahP,CueffG,etal.0l8.Integratingproteomicsandenzymatic profilingtodecipherseed metabolismaffected by temperature in seed dormancy and germination. Plant Science,269: 118-125.   \nYanR,Yang G, Chen B,et al.2016.Effectsof livestock grazing on soil nitrogen mineralizationon Hulunber meadow steppe, China.Plant, Soil and Environment, 62: 202-209.   \nYao H,Tan DY.2O05.Thegrowth characteristicsand thereproductive allcation dynamics in four ephemeral speciesof Trigonella.Journal of Xinjiang Agricultural University,28: 26-29.(in Chinese)   \nZeng Y,LiuT,ZhouXB,etal.2O16.EffectsofclimatechangeonplantcompositionanddiversityintheGurbantunggut Desert of northwestern China. Ecological Research,31(3): 427-439.   \nZhang M,ZhuJJ,Yan QL.20l2.Review on influence mechanisms oflight in seed germination.Chinese Jourmal of Plant Ecology,36:899-908.(in Chinese)   \nZhangT,SunY,TianCY,etal.2Oo7.Ecologicalandbiological diferencesbetweenspringandautumn plantsof twodesert ephemerals.Journal of Plant Ecology,31(5):1174-1180.(in Chinese)   \nZhengY,XieZ,GaoY,etal.Oo3.Ecologicalrestorationinorthern China:Germinationcharacteristicsofninekeysecies in relation to air seeding.Belgian Journal of Botany,136:129-138.   \nZhouJ,KulkarniMG,HuangLQ,etal.2Ol2.Effectsoftemperature,light,nutrientsandsmoke-wateroseedgerination and seedling growthof Astragalusmembranaceus,Panax notoginsengand Magnoliaoficinalis-Highly traded Chinese medicinal plants. South African Journal of Botany,79:62-70.   \nZhouYM,LuJJ,TanDY,etal0l5.SeedgerminationecologyofthecolddesertannualIsatis violascens (rassicaceae): two levels of physiological dormancy and role of the pericarp.PLoS ONE,10(1O): eO140983. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

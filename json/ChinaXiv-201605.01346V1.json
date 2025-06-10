@@ -1,0 +1,146 @@
+[
+    {
+        "type": "text",
+        "text": "Genetic Incorporation of $N ^ { \\varepsilon }$ -Formyllysine,a New Histone Post-translational Modification ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tianyuan Wang,a] Qing Zhou,\\*[b] Fahui Li,b] Yang $\\mathsf { Y u }$ [c] Xuebin Yin,xa,d] and Jiangyun Wang\\*[b] ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lysine formylation is a newly discovered post-translational modification (PTM) in histones and other nuclear proteins；it hasa well-recognized but poorly defined role in chromatin conformation modulation and gene expression. To date, there is no general method to site-specifically incorporate $N ^ { \\varepsilon }$ -formyllysineat a defined site ofa protein. Here we report the highly efficient genetic incorporation of the unnatural amino acid $N ^ { \\varepsilon }$ formyllysine into proteins produced in Escherichia coli and mammalian cells,by using an orthogonal $N ^ { \\varepsilon }$ -formyllysinetRNAsynthetase/ $\\tan A _ { \\tt C U A }$ pair. This technique can be applied to studythe roleof lysine formylationin epigenetic regulation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Post-translational modification (PTM) of histones is vital for the regulation of diverse biological processes,including DNA replication,DNA repair,and maintenance of genomic stability.[1] Aberrant histone modification leads to many diseases in human.2] To reveal the role of a specific PTM in histones,it is essential to produce homogeneous recombinant protein that contains the site-specific PTM. Semisynthetic and enzyme-catalyzed methods have been developed to realize site-specific histone PTM.[3] Compared to these methods, the genetic code expansion technique has the unique advantage that unnatural amino acids (UAAs) can be directly incorporated at specific sites of a protein of interest.4] For example, threelysinePTMs( $N ^ { \\varepsilon }$ -acetyllysine (AcK), $N ^ { \\varepsilon }$ -crotonyllysine,and $N ^ { \\varepsilon }$ -methyllysine) have been successfully genetically encoded.[5] Lysine formylation is a newly discovered PTM in histones and other nuclear proteins,and itis believed to be associated with oxidative stress under pathological conditions.6] The formyl moiety can come from $3 ^ { \\prime }$ -formylphosphate residues arising from $5 ^ { \\prime }$ -oxidation of deoxyribose in DNA,caused by the enediyne neocarzinostatin.Only one methyl group shorter than $\\mathsf { A c K } , ^ { [ 7 ] }$ （204号 $N ^ { \\varepsilon }$ -formyllysine (ForK) is not only structurally similar,but also appears at the same sites of histones.This raises the question as to whether ForK and AcK have similar roles in chromatin structure modulation and gene expression.Howev er,the lack of methods to site-specifically incorporate ForK into defined sites of proteins limits our ability to probe the function ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9328f8bf28c99c647d8c1934b300628b114b06512fdbc668cc06f230beb8d47.jpg",
+        "img_caption": [
+            "Figure 1.Site-specific ForK incorporation.A) Chemical structure of ForK.B) SDS-PAGE analysis of myoglobin-TAG4-ForK expression in the presence $( + \\mathsf { U A A } )$ or absence (-UAA) of 1 mM ForK. C) SDS-PAGE analysis of the expression of histone H3-TAG23 ForK in the presence $( + \\mathsf { U A A } )$ or absence $( - \\mathsf { U A A } )$ of $1 \\mathrm { \\ m m }$ ForK. "
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "of ForK in vitro and in vivo. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Here we report the highly efficient genetic incorporation of the UAA ForK (Figure 1A) into Escherichia coli and mammalian cells by using an orthogonal $N ^ { \\varepsilon }$ -formyllysine tRNA synthetase/ $\\mathsf { t R N A } _ { \\mathsf { C U A } } ^ { \\mathsf { P y l } }$ pair. We found that ForK-bearing proteins are not recognized by anti-AcK antibody, thus indicating that the in vivo proteins bearing ForK might interact with other proteins differently from those bearing AcK. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Toselectively incorporate ForK at defined sites in proteins, we performed three rounds of positive and two rounds of negativeselection with a Methanosarcina barkeri pyrrolysyl-tRNAsynthetase (MbPylRS) library,in order to evolve an orthogonal tRNA/aminoacyl-tRNA synthetase pair that selectively charges ForK in response to the amber (TAG) codon,as previously described.4i, 8] The selected ForK-specific PylRS (\"ForKRS\") had five mutations:L266M,L270I,Y271F,L274A,and C313F.ForKRS was digested and two copies of ForKRS gene were ligated sequentially into Sall/Bgll and Pst1/Nde1 restriction sites of the pEVOL vector[9] to generate pEVOL1.Then,Methanosarcina barkeri pyrrolysyl $\\mathsf { - t R N A _ { C U A } ( p y | T ) }$ was ligated into the ApaL1/Xho1 sites of pEVOL1 to generate pEVOL-ForKRS,which was used to test the efficiency and selectivity of ForKRS,as previously reported.[4c] ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/ec7d7b0ae8354f59046dd8578c22ca004506aed18e5bf301bf1a002937c53097.jpg",
+        "img_caption": [
+            "Figure 3.Western blot analysis of wild-type and mutant sfGFP: lane 1) wildtype sfGFP; lane 2) sfGFP-TAG3-AcK;lane 3) sfGFP-TAG3-ForK.The samples were probed by using anti-his tag and anti $\\cdot N ^ { \\varepsilon }$ -acetyllysineantibodies. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To determine whether ForK can be incorporated into a proteinwith high efficiency and fidelity,an amber stop codon was substituted for Ser4 in sperm whale myoglobin to construct the myoglobin-TAG4 expression vector.Protein expression was carried out in E.coli in the presence of the selected synthetase (ForKRS),MbtRNAa(pylT) and 1 mM ForK (or in the absence of ForKas a negative control).Analysis of the purified protein by SDS-PAGE showed that full-length myoglobin was expressed only in the presence of ForK (Figure 1B),thus indicating that ForKRS recognizes ForK specifically. ESl-MS analysis of myoglobin-TAG4-ForK gave an observed average mass of 18422.0 Da (Figure 2),which was in agreement with the calculated mass (18423 Da).This indicates that ForK had been incorporated at the defined site of myoglobin.ForK was also incorporated into the position 23 of histone H3 (Figure 1 C); this has been identified as a lysine formylation and acetylation site.6al The yield of \"H3-TAG23-ForK\"was $2 \\mathsf { m } \\mathsf { g } \\mathsf { L } ^ { - 1 } .$ ，which is comparable to yields reported for the incorporation of other UAAs with the pylRS/ $M b t \\mathsf { R N A } _ { \\mathsf { C U A } } ^ { \\mathsf { P y l } }$ pair.5] ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7dea62bd3a5844d566ce1cde69ddc453f640f0e29c38cc3eba5ffa3a9bea233a.jpg",
+        "img_caption": [
+            "Figure 2.ESl-MS analysis of myoglobin.A) Wild-type (calcd: $1 8 3 5 4 \\mathrm { D a }$ ： found:18355.0 Da). B) Myoglobin-TAG4-ForK (calcd: $1 8 4 2 3 . 0 ~ \\mathsf { D a } _ { . }$ found: $1 8 4 2 2 . 0 \\mathsf { D a }$ 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To examine whether ForK is recognized by an anti-AcK antibody，an amber stop codon was substituted for Lys3 and Tyr151 in superfolder green fluorescent protein (sfGFP) to construct the sfGFP-TAG3 and sfGFP-TAG151 expression vectors, respectively.AcK or ForK was incorporated into position 151 of sfGFP,and analyzed by western blotting.sfGFP-TAG3-AcK was detected efficiently by an anti-AcK antibody;sfGFP-TAG3-ForK wasnot (Figure3).This implies that lysine formylation PTM is asignificantlydifferent to lysineacetylation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As the pyrrollysine tRNA synthetase/tRNA pair is orthogonal in both bacterial and mammalian cells,[10] we tested whether the ForKRS and $M b t \\mathsf { R N A } _ { \\mathsf { C U A } } ^ { \\mathsf { P y l } }$ pair could perform site-specific incorporation of ForK in mammalian cells.We cloned ForKRS into the pCMV-NBK-1 vector[10] to generate pCMV-ForKRS，in which transcription of $M b { \\mathrm { t R N } } { \\mathsf { A } } _ { { \\mathrm { C U A } } } ^ { \\mathsf { P y l } }$ is under the control of the human U6 promoter and the expression of ForKRS is driven by the CMV promoter. Plasmids pSwan-EGFP37TAG[4i and pCMVForKRS were co-transfected into 293T human embryonic kidney cells.The cells were grown in the absence or presence of $1 \\mathrm { \\ m m }$ ForK for $3 6 \\mathsf { h }$ 、EGFP fluorescence was observed only for cells grown in the presence of ForK (Figure 4),thus indicatingthat whenusing theForKRS/MbtRN/ $\\mathsf { d } _ { \\mathsf { C U A } } ^ { \\mathsf { P y l } }$ pair, ForK was sitespecifically introduced at position 37 of EGFP through amber codon suppression in mammalian cells. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e6c7909e9faec78bc51f2836b2a8250d5e1abcfa3b296d5ea5da3881ebaab4d7.jpg",
+        "img_caption": [
+            "Figure 4.Genetic incorporation of ForK at position 37 of EGFP in 293T cells by using the ForKRS/MbtRNA $\\mathsf { i } _ { \\mathsf { C U A } } ^ { \\mathsf { P y l } }$ pair.The EGFP fluorescence is observed only in the presence of 1 mm ForK. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Conclusion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We have demonstrated the highly efficient genetic incorporation of ForK into E.coli and human cells.The ForK-incorporated protein was not recognized by anti-AcK antibody, thus indicating that proteins bearing PTM lysine formylation might interact with other proteins differently from those bearing lysine acetylation.1a,11] Lysine formylation was also demonstrated in histone at the sites for lysine acetylation and methylation.This indicates that lysine formylation can block lysine acetylation and methylation in vivo. Lysine formylation can also negatively regulate nucleosome assembly.[6a] In our work, ForK was site-specifically incorporated into histones for the first time.This new technology could be powerful tool to elucidate the cellular functions of lysine formylation,caused by oxidative stress in cells.An anti-ForK antibody is not commercially available.By expressing homogeneous recombinant proteins bearing ForK at a specific position,we are currently working towards producing antibodies for the recognition of ForK. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Wegratefully acknowledge the Major State Basic Research Program of China (2015CB856203)，the CAS grant (KJZD-EW-L01), and the National Science Foundation of China (91440116, 21325211，91313301，31370016，21102172)． The authors declare that theyhaveno conflictof interest. This article does not containany studieswith human or animal subjects performed by anyof the authors. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Keywords:amino acids·formyllysine · gene technology histones $\\cdot \\cdot$ post-translational modifications ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "[1]a)B.D.Strahl, C.D.Allis,Nature 2000,403,41-45;b)X.-J. Yang,E. Seto, Mol.Cell 2008,31,449-461; c)A.L. Burlingame,X. Zhang,R.J.Chalkley, Methods 2005,36,383-394;d)F.Chu,D.A.Nusinow,R.J. Chalkley, K. Plath,B.Panning,A.L. Burlingame,Mol. Cell.Proteomics 2006,5,194- 203.   \n[2] a)G.Egger,G. Liang,A.Aparicio,P.A.Jones,Nature 2004,429,457- 463;b)A.Portela,M. Esteller, Nat. Biotechnol.2010,28,1057-1068.   \n[3]M. Shogren-Knaak,H. Ishi, J.-M. Sun,M.J.Pazin,J.R. Davie,C.L.Peterson, Science 2006,311, 844-847.   \n[4] a)J.W. Chin,Annu.Rev.Biochem.2014,83,379-408;b)X.Liu,J.Li,J. Dong,C. Hu,W.Gong,J.Wang,Angew. Chem.Int.Ed.2012,51,10261- 10265;Angew. Chem.2012,124,10407-10411; c) F.Li, H. Zhang, Y. Sun, Y.Pan,J.Zhou,J.Wang,Angew.Chem.Int.Ed.2013,52,9700-9704; Angew. Chem.2013,125,9882-9886;d) C.Hu,S.I.Chan,E.B. Sawyer, Y. Yu,J.Wang,Chem. Soc.Rev.2014,43,6498-6510;e) M.J. Schmidt,D. Summerer, Angew. Chem.Int.Ed.2013,52,4690-4693；Angew.Chem. 2013,125,4788-4791; f) M.J.Schmidt,J. Borbas,M. Drescher, D.Summerer,J.Am.Chem.Soc.2014,136,1238-1241; g)E.Arbely,J.TorresKolbus，A.Deiters,J.W.Chin,J.Am.Chem．Soc.2012，134，11912- 11915;h)D.P. Nguyen,M. Mahesh,S.J.Elsässer, S.M. Hancock, C. Uttamapinant, J.W.Chin,J.Am.Chem.Soc.2014,136,2240-2243;i) Z. Yu, Y.Pan,Z.Wang,J.Wang,Q. Lin,Angew. Chem. Int. Ed.2012,51,10600- 10604;Angew. Chem.2012,124,10752-10756.   \n[5]a)C.H.Kim,M.Kang，H.J.Kim,A.Chatterjee,P.G.Schultz,Angew. Chem.Int.Ed.2012,51,7246-7249;Angew. Chem.2012,124,7358- 7361;b) H. Neumann,S.Y.Peak-Chew, J.W.Chin, Nat. Chem.Biol.2008, 4,232-234；c) H.Neumann,S.M.Hancock,R.Buning，A.Routh,L. Chapman,J.Somers,T.Owen-Hughes,J.van Noort,D.Rhodes,J.W. Chin,Mol.Cell 2009,36,153-163;d) H.-w.Ai,J.W.Lee,P.G.Schultz, Chem.Commun.2010,46,5506-5508;e) Z.U.Wang,Y.-S.Wang，P.-J. Pai,W.K.Russell, D.H. Russell,W.R.Liu, Biochemistry 2012,51,5232- 5234.   \n[6] a)J.R.Wisniewski, A. Zougman,M. Mann,Nucleic Acids Res.2008,36, 570-577；b)T. Jiang,X.Zhou,K.Taghizadeh,M. Dong，P.C.Dedon, Proc.Natl.Acad.Sci. USA 2007,104,60-65;c) B. Edrissi, K.Taghizadeh, P.C.Dedon,Plos Genet.2013,9, e1003328.   \n[7] J.Zhang,R.Sprung,J.Pei, X.Tan, S. Kim, H. Zhu,C.-F. Liu, N.V. Grishin, Y. Zhao,Mol. Cell.Proteomics 2009,8,215-225.   \n[8] Q.Zhou,M.Hu,W. Zhang,L. Jiang,S.Perrett,J. Zhou,J.Wang,Angew. Chem.Int.Ed.2013,52,1203-1207；Angew.Chem.2013，125,1241- 1245   \n[9] T.S.Young,I. Ahmad,J.A. Yin,P.G.Schultz,J. Mol. Biol.2010,395,361- 374.   \n10] P.R.Chen,D.Groff,J.Guo,W.Ou,S. Celitti,B.H. Geierstanger, P.G. Schultz，Angew.Chem.Int.Ed.2009，48，4052-4055；Angew.Chem. 2009,121,4112-4115.   \n111 T. Kouzarides, Cell 2007, 128,693-705. ",
+        "page_idx": 2
+    }
+]

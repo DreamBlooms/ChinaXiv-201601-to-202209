@@ -1,0 +1,356 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "mir-17-5p、mir-92a、let-7b表达水平与非小细胞肺癌顺铂耐药的关系",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "宋先璐'，廖志伟'，余宏伟'，杨光平²,殷 俊²  \n广州医科大学附属肿瘤医院'放疗科，肺癌研究室，广东广州510095",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的探讨mir-17-5p、mir-92a、let-7b表达水平与非小细胞肺癌顺铂耐药关系。方法 以人非小细胞肺癌细胞系A549及其耐药株A549/DDP为研究对象,采用RT-PCR法检测 mir-17-5p、mir-92a及let-7b在细胞中的表达水平,采用cck8检测其细胞存活情况，采用细胞克隆平台方法，检测转染前后细胞的增殖情况，采用流式细胞仪检测转染前后细胞的凋亡情况。结果（1)A549/DDP细胞mir-17-5p的表达水平是A549细胞的 $2 . 1 1 { \\pm } 0 . 2 5 \\$ 倍 $( P { < } 0 . 0 5 )$ ;A549/DDP细胞mir-92a的表达水平是A549细胞的$7 . 4 0 \\pm 1 . 0 5$ 倍 $( P { < } 0 . 0 5 )$ ；而A549/DDP细胞let-7b 的表达水平是A549 细胞的 $( 2 6 . 5 4 \\pm 2 . 9 0 ) \\%$ （ $P { < } 0 . 0 5 )$ ；(2)A549转染mir-17-5pmimic,mir-92amimic 以及let-7b inhibitor后对顺铂的敏感性下降( $_ { \\mathrm { { P < 0 . 0 5 ) } } }$ ;A549/ddp 转染 mir-17-5p inhibitor,mir-92ainhibitor以及let-7bmimic后对顺铂的敏感性增加 $( P { < } 0 . 0 5 )$ ; (3)A549转染 mir-17-5p mimic,mir-92a mimic 以及let-7binhibitor后，细胞形成克隆集落数量数量多于对照组 $( P { < } 0 . 0 5 )$ ;而A549/ddp转染 mir-17-5p inhibitor,mir-92a inhibitor 以及let-7b mimic后,细胞形成克隆集落数量数量少于对照组 $( P { < } 0 . 0 5 )$ ;(4)A549 转染 mir-17-5p mimic,mir-92a mimic 以及 let-7binhibitor后，细胞凋亡率明显低于对照组 $( P { < } 0 . 0 5 )$ ; 而a549/ddp 转染 mir-17-5p inhibitor, $\\mathrm { m i r } { - } 9 2 \\mathrm { a }$ inhibitor以及let-7b mimic后,细胞凋亡率明显高于对照组 $( P { < } 0 . 0 5 )$ 。结论 Mir-17-5p、mir-92a表达水平升高,let-7b表达水平下降,可以促进肺癌细胞增殖,抑制其凋亡以及使肺癌细胞对顺铂敏感性下降。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词:肺癌；mir-17-5p;mir-92a;let-7b;顺铂;敏感性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The relationship between the expression level of mir-17-5p、mir-92a、let-7b and the cisplatin-resistant ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SONG Xianlu¹,LIAO Zhiwei’,YUHongwei’,YANGGuangping²,YINJun DepartmentofRadiotherapy;LungCancerInstitute,CancerCenterofGuangzhouMedicalUnioersityGuangzhou5005,Cina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ObjectiveTdiscuss miR-17miR-92andlet-7expresion innonsmallcellungcancerandcsplatinresistanceand clinical application.To provideexperimental data for prediction oflung cancer patientsas asign ofcisplatin chemotherapy sensitivity.MethodNonsmallcellungcancercellineA549anditsresistantstrain A549/DDPwereused as thecellresearch object.The expresion level ofmiR-17,miR-9 and let-7 in the cellwas detected byRT-PCR method. CCK8 was used todetect the survialofthe transfectedcellsafter Cisplatin maintenanceculturecompare tountransfectedcels.After transfectioncel proliferation was detected by Cellplate cloning experimentsand apoptosis rate was measured byFlow cytometry.Result (1) The expression level of miR-17 in A549/DDP cels was $( 2 . 1 1 \\pm 0 . 2 5 )$ times $_ { ( P < 0 . 0 5 ) }$ of A549 cells, and the expression level of miR-92 in A549/DDP cells was $( 7 . 4 0 { \\scriptstyle \\pm 1 . 0 5 } )$ times of A549 cells $( P { < } 0 . 0 5 )$ . However, the expression of let-7 in A549/DDP cells was $( 2 6 . 5 4 \\pm 2 . 9 0 ) \\%$ $( P { < } 0 . 0 5 )$ of A549 cels; (2) A549 cells transfected with mir-17b, 92a mimic and let-7 microRNA inhibitor, compared to control group, showed a lower sensitivity to cisplatin $( P { < } 0 . 0 5 ) .$ while the sensitivity to cisplatin of A549/DDP cells transfected with mir-17b, 92a inhibitor and let-7 miRNA increased $( P { < } 0 . 0 5 ) ;$ (3) A549 transfected with mir-17b, 92a mimic and let-7microRNAinibitor,thecellsformedcolonyumberisgreaterthanthatofthecontrolgroup,thediferenceisstatisticaly significant $_ { ( P < 0 . 0 5 ) }$ ; and A549/DDP transfectd with mir-17b,92a inhibitor and let-7 miRNA,thecels formed clones colony quantity less than that of the control group, the difference is statistically significant $_ { ( P < 0 . 0 5 ) }$ ; (4) The apoptosis rate of A549 cellstransfected withmir-17b,92a mimicandlet-7microRNAinhibitor,apoptosis rate wassignificantlylowerthanthecontrol group, the difference has statistical significance $_ { ( P < 0 . 0 5 ) }$ ; For A549/DDP cells transfected with mir-17b, 92a inhibitor and let-7 miRNA,theapoptosisrate wassignificantlyhigherthanthatof thecontrolgroup,thediference wasstatisticallysigificant( $P <$ 0.05).Concuioi-17i-9epiolveliasd,let-pesseeadnetpf lung cancer cels, inhibit apoptosis, as well as the decrease of lung cancer cel sensitivity to cisplatin. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: lung cancer; miR-17; miR-92; let-7; cisplatin; sensitivity ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "肺癌是最常见的恶性肿瘤之一，其发病率和死亡率都高居前列[1]。在肺癌中，非小细胞肺癌(NSCLC)是最主要的发病类型，并且 $70 \\% { \\sim } 8 0 \\%$ 的患者被诊断为晚期NSCLC而失去了手术机会，因此，化疗是最主要的治疗手段[2。但是,对化疗药物耐药成为患者治疗过程中的难题[3-5]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "越来越多的研究表明，miRNA在多种癌症的发生发展中起到重要的作用。对肿瘤细胞的增殖、凋亡以及化疗药物耐药现象均有影响[6-8]。我们在前期课题的基因芯片的结果中，发现A549表达谱和A549/DDP表达谱之间存在大量的miRNA表达异常，其中包括mir-17-92家族以及let-7b。目前许多文献证实，mir-17-92家族为原癌基因，能够促进癌症的发生发展，let-7b则为抑癌基因,能够抑制癌症的发生[-]。本文通过细胞和分子生物学实验,研究了mir-17-5p、mir-92a、let-7b表达水平与非小细胞肺癌顺铂耐药关系，旨在探讨导致NSCLC化疗耐药的机制，为个体化治疗方案的制定提供重要的理论基础和方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 实验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究使用的肺癌细胞株A549及其被诱导成顺铂耐药细胞株A549/DDP由广州医科大学附属肿瘤研究所实验室提供。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 细胞培养 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A549、A549/DDP细胞采用含 $10 \\%$ 胎牛血清、含双抗的RPMI1640培养基，于 $3 7 \\ \\mathrm { ^ { \\circ } C } \\ . 5 \\% \\mathrm { C O } _ { 2 }$ 、饱和湿度$8 5 \\%$ 条件下培养，细胞采用 $0 . 2 5 \\%$ 胰蛋白酶消化传代或离心去掉培养液加冻存液(DMSO与血清1:9的比例配置)冻存细胞。其中A549/DDP培养基含有 $2 ~ \\mu \\mathrm { g / m L }$ 的顺铂以维持细胞的耐药性。取对数生长期细胞为实验对象。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3细胞总RNA的提取及完整性检测 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A549和A549/DDP细胞分别接种于培养瓶中，加入5mLRPMI1640完全培养基培养，待细胞生长达到$8 5 \\%$ 左右融合生长时，采用Trizol试剂提取总RNA。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4实时荧光定量PCR(Real-time PCR,qRT-PCR) ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对转染处理前后A549和A549/DDP细胞mir-17,mir-92,let-7表达水平的验证。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5转染效率测试 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mir-17,mir-92,let-7模拟物,mir-17,mir-92,let-7 抑制物和阴性对照NC(negativecontrol)分别用 lipofectamineRNAimax进行转染。 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.6Cck8检测A549、A549/ddp细胞株的ic50 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "按照细胞计数试剂盒(cck-8)操作说明进行，将细胞接种至96孔板内，密度约为2000\\~3000/孔，细胞贴壁 $2 4 \\mathrm { h }$ 后每孔加入 $1 0 0 ~ \\mu \\mathrm { L }$ 含ddp的完全培养基,A549细胞系DDP浓度梯度为 $0 . 2 5 , 0 . 5 , 0 . 7 5 , 1 . 0 , 1 . 2 5 , 1 . 5 ,$ $2 . 0 ~ \\mu \\mathrm { g / m L }$ ;A549/DDP的DDP浓度梯度为2.0、4.0、6.0、$8 . 0 , 1 0 . 0 , 1 2 . 0 , 1 6 ~ \\mu \\mathrm { g / m L }$ 。同时设置只加培养基的调零孔和只加单细胞悬液的对照孔，每组设置3个辅孔，培养 $4 8 \\mathrm { { h } }$ 后将培养基换成含有 $1 0 \\% \\mathrm { c c k } { - 8 }$ 的完全培养基继续培养 $3 { \\sim } 6 \\mathrm { ~ h ~ }$ ，酶标仪检测 $4 5 0 ~ \\mathrm { n m }$ 波长的吸光值，细胞活力 $\\scriptstyle { \\mathcal { I } } _ { O } =$ （A加药-A空白/A0加药-A空白） $\\ast 1 0 0 \\%$ ，使用SPSS软件probit回归模型计算出细胞的 $\\mathrm { i c } 5 0 _ { \\circ }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.7 细胞克隆平台实验",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "取对数生长期的单层培养细胞，用 $0 . 2 5 \\%$ 胰蛋白酶消化并吹打成单个细胞，加入含血清的1640培养基制备成单细胞悬液。将细胞悬液进行稀释，以每孔1000个细胞接种在6孔板中，并轻轻转动6孔板，使细胞分散均匀。置 $3 7 \\%$ $\\mathrm { C O } _ { 2 }$ 及饱和湿度的环境下,静置培养1\\~2周。经常观察，出现肉眼可见的克隆时，终止培养。弃去上清液，用PBS小心浸洗2次。6孔板中每孔加纯甲醇 $1 ~ \\mathrm { m L }$ ，固定 $1 5 ~ \\mathrm { m i n }$ 。然后去固定液，每孔加适量Giemsa应用染色液 $\\mathrm { 1 m l }$ ，静置 $3 0 ~ \\mathrm { m i n }$ ，然后用流水缓慢洗去染色液，空气干燥。将6孔板倒置并叠加一张带网格的透明胶片，用肉眼直接计数克隆，或在显微镜(低倍镜)计数大于10个细胞的克隆数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.8 细胞凋亡分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "样本数据用流式分析软件Flowjo7.6.1进行分析。凋亡率 $\\dot { \\left. \\right.} = $ 早期凋亡率 $\\dot { \\bf \\Phi } + \\bf \\Phi $ 晚期凋亡率。实验均重复3次。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.9统计学方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用 SPSS13.0以及GraphPadPrism6Demo软件进行统计分析，实验数据以均数 $\\boxed { \\pm }$ 标准差表示，定量资料组间比较采用t检验分析，检验水准仅 $_ { = 0 . 0 5 }$ 。 $P { < } 0 . 0 5$ 为差异有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1实时荧光定量PCR检测转染前后细胞株mir-17,mir-92,let-7表达",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.1miRNA完整性检测Trizol试剂提取的A549细胞和A549/DDP细胞总RNA，并经紫外分光光度计检测其纯度和浓度， $. A _ { 2 6 0 } / A _ { 2 8 0 }$ 的比值分别为1.99和 $1 . 9 8 , A _ { 2 6 0 } /$ $A _ { 2 3 0 }$ 的比值分别为1.57和1.54。说明总RNA纯度较高，无蛋白及DNA的污染。琼脂糖凝胶电泳试验显示（图1)，条带清晰，28S/18S亮度比值均在2以上，说明提取细胞总RNA完整性好，无明显降解。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/08d7b6d57334881fe0693907c1ae368658ea8088d7f5a295b84d75f6fffcb234.jpg",
+        "img_caption": [
+            "图1A549及A549/DDP细胞RNA电泳结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 细胞株 $\\mathrm { m i r } { - } 1 7 \\mathrm { , m i r } { - } 9 2 \\mathrm { , l e t - } 7$ 转染前后表达水平检测由图2、图3显示，RT-PCR检测转染前后mir-17、mir-92以及let-7在NSCLC细胞株A549与A549/DDP中的表达水平，结果显示，转染前mir-17、mir-92在A549/DDP细胞中的表达水平显著高于其在A549细胞中的表达水平，A549/DDP细胞 $\\mathrm { m i r } { - } 1 7$ 的表达水平是A549细胞的 $( 2 . 1 1 { \\pm } 0 . 2 5 )$ 倍 $( P { < } 0 . 0 5 )$ 。A549/DDP细胞mir-92的表达水平是A549细胞的 $( 7 . 4 0 { \\pm } 1 . 0 5 ) \\$ 倍 $\\scriptstyle ( P <$ 0.05)。而let-7在A549/DDP细胞中的表达水平显著低于其在A549细胞中的表达水平，A549/DDP细胞1et-7的表达水平是A549细胞的 $( 2 6 . 5 4 { \\pm } 2 . 9 0 ) \\% ( P { < } 0 . 0 5 )$ ○提示相比于a549细胞株， $\\mathrm { m i } { - } 1 7 \\mathrm { , m i r - } 9 2$ 在a549/ddp细胞株存在高表达现象，let-7在a549/ddp细胞株中存在低表达现象。因而我们选择a549以及a549/ddp作为我们进一步研究的细胞株。在转染 $^ { 4 8 \\mathrm { ~ h ~ } }$ 后，A549细胞mir-17mimic组的mir-17表达水平是mir-NC细胞的$1 0 . 6 4 { \\pm } 1 . 1 7$ 倍 $( P { < } 0 . 0 5 )$ 。A549细胞mir-92mimic组的mir-92表达水平是mir-NC细胞的 $1 0 . 1 7 { \\scriptstyle \\pm 1 . 5 5 }$ 倍( $P <$ 0.05)。A549细胞let-7inhibitor组的let-7表达水平是mir-NC细胞的 $( 1 9 . 9 0 { \\pm } 1 . 6 7 ) \\% ( P { < } 0 . 0 5 )$ 。A549/DDP细胞mir-17inhibitor组的mir-17表达水平是mir-NC细胞的 $( 2 3 . 1 3 { \\pm } 1 . 5 0 ) \\% ( P { < } 0 . 0 5 )$ 。A549/DDP细胞mir-92inhibitor组的mir-92表达水平是mir-NC细胞的( $( 1 7 . 1 2 \\pm$ $2 . 2 6 ) \\%$ C $_ { P < 0 . 0 5 ) }$ 。A549/DDP细胞let-7mimic组的let-7表达水平是mir-NC细胞的 $1 2 . 7 8 \\pm 1 . 6 5$ 倍（ $P <$ 0.05)。提示细胞转染成功，细胞转染效率高。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0da8bf4090b067f982599eff0780e2413d48f7295720ee8bd40d92ef89447998.jpg",
+        "img_caption": [
+            "图2mir-17-5p、mir-92a以及let-7b在A549细胞株和A549/DDP细胞株中的起始表达量"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/cf412011b34f5537605d88faa94801bf4d5a4323bcd847b6be729c899248781e.jpg",
+        "img_caption": [],
+        "img_footnote": [
+            "图3A549细胞株转染mir-17-5p模拟物 $\\mathrm { m i r } { - } 9 2 \\mathrm { a }$ 模拟物以及let-7b抑制物后mir-17-5pmir-92a以及let-7b表达量, $^ { * } P { < } 0 . 0 5$ "
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2Mir-17、mir-92、let-7对细胞顺铂药物敏感性的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cck-8试剂盒检测显示:a549转染mir-17bmimic后，细胞 $\\mathrm { I C } _ { 5 0 }$ 值为 $0 . 6 0 6 ~ \\mu \\mathrm { g / m L }$ $9 5 \\%$ 可信区间为 $0 . 4 0 3 \\sim$ $0 . 7 8 4 ~ { \\mu \\mathrm { g / m L } }$ ；转染 $\\mathrm { m i r } { - } 9 2 \\mathrm { a }$ mimic后，细胞 $\\mathrm { I C } _ { 5 0 }$ 值为$0 . 6 3 4 ~ \\mu \\mathrm { g / m L } , 9 5 \\%$ 可信区间为 $0 . 4 2 4 { \\sim } 0 . 8 1 7 ~ \\mu \\mathrm { g / m L }$ ；转染let-7inhibitor后,细胞 $\\mathrm { I C } _ { 5 0 }$ 值为 $0 . 6 0 7 ~ \\mu \\mathrm { g / m L } ,$ $9 5 \\%$ 可信区间为 $0 . 4 0 8 { \\sim } 0 . 7 8 2 \\ \\mu \\mathrm { g / m L }$ 。而对照组a549细胞 $\\mathrm { I C } _ { 5 0 }$ 值为 $0 . 4 0 2 ~ \\mu \\mathrm { g / m L }$ $9 5 \\%$ 可信区间为 $0 . 3 5 8 { \\sim } 0 . 4 4 4 ~ \\mu \\mathrm { g / m L _ { \\circ } }$ a549分别转染mir-17mimic、mir-92amimic以及let-7inhibitor后细胞 $\\mathrm { I C } _ { 5 0 }$ 值与对照组a549细胞 $\\mathrm { I C } _ { 5 0 }$ 值相比明显升高，提示a549细胞株对顺铂的敏感性下降( $\\scriptstyle { \\mathcal { P } } <$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "0.05);而a549/ddp转染mir-17binhibitor后,细胞 $\\mathrm { I C } _ { 5 0 }$ 值为 $4 . 4 0 0 ~ \\mu \\mathrm { g / m L }$ $9 5 \\%$ 可信区间为 $3 . 9 9 0 { \\sim } 4 . 7 9 3 ~ \\mu \\mathrm { g / m L }$ a549/ddp转染mir-92ainhibitor后，细胞 $\\mathrm { I C } _ { 5 0 }$ 值为4.231$\\mu \\mathrm { g / m L }$ $9 5 \\%$ 可信区间为 $3 . 8 2 4 { \\sim } 4 . 6 2 1 ~ \\mu \\mathrm { g / m L }$ ; a549/ddp转染let-7mimic后,细胞 $\\mathrm { I C } _ { 5 0 }$ 值为 $4 . 4 3 0 ~ \\mu \\mathrm { g / m L }$ $9 5 \\%$ 可信区间为 $4 . 0 4 9 { \\sim } 4 . 7 9 7 ~ \\mu \\mathrm { g / m L }$ 。对照组a549/ddp细胞株 $\\mathrm { I C } _ { 5 0 }$ 值为 $5 . 7 7 0 { , } 9 5 \\%$ 可信区间为 $5 . 3 9 2 { \\sim } 6 . 1 3 6 ~ { \\mu \\mathrm { g / m L } }$ a549/ddp细胞株分别转染mir-17binhibitor、mir-92ainhibitor以及let-7mimic后，细胞 $\\mathrm { I C } _ { 5 0 }$ 值与对照组a549/ddp细胞 $\\mathrm { I C } _ { 5 0 }$ 值相比明显降低，提示a549/ddp细胞株对顺铂的敏感性增加( $_ { P < 0 . 0 5 }$ ，图4)。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d51d6bbf0ddb6cde703bdf0aa8526938a6a795a3191847f7322f54c4f53093d.jpg",
+        "img_caption": [
+            "图4细胞株cck-8实验结果A:A549细胞株;B:A549/DDP细胞株."
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3Mir-17、mir-92let-7对细胞增殖的影响 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "细胞平板克隆实验结果显示：a549转染mir-17b,92amimic以及let-7inhibitor后，细胞形成克隆集落数量数量多于对照组，差异有统计学意义 $( P { < } 0 . 0 5 )$ 。提示a549细胞株细胞增殖性增强。而a549/ddp转染mir-17b,92ainhibitor以及let-7mimic后，细胞形成克隆集落数量数量少于对照组，差异有统计学意义( $P <$ 0.05,图5)。提示a549/ddp细胞株细胞增殖性减弱。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e2049eb8f9f3177e99d32bab7f86e3214fb5d9dc4476045de90de3949dbad4b9.jpg",
+        "img_caption": [
+            "图5细胞克隆平板实验细胞克隆数目A:A549细胞株;B:A549/DDP细胞株. $^ { * } P { < } 0 . 0 5$ 元"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4Mir-17、mir-92、let-7对细胞凋亡的影响：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图5\\~7显示，a549转染mir-17b,92amimic以及let-7inhibitor后，细胞凋亡率明显低于对照组，差异有统计学意义 $( P { < } 0 . 0 5 )$ 。提示顺铂导致的细胞凋亡受到一定的抑制。而a549/ddp转染mir-17b,92a inhibitor以及let-7mimic后，细胞凋亡率明显高于对照组，差异有统计学意义( $_ { ( P < 0 . 0 5 ) }$ ）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "晚期NSCLC患者标准一线化疗方案为含铂双药化疗方案，但是其有效率仅仅约为 $30 \\%$ ,主要的原因为患者对化疗药物产生原发性或者继发性耐药。尤其是对铂类药物耐药更为常见[12-14]。如何准确的识别患者对铂类药物治疗的敏感性以及如何逆转铂类药物的耐药情况是未来急需要解决的问题。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "肿瘤组织或者细胞内存在大量的miRNA表达异 常，miRNA参与基因转录后的调节，因而能够抑制目标 基因的表达从而间接影响细胞信号通路内的各种分子， 导致肿瘤细胞存活通路的异常和肿瘤细胞凋亡通路的 异常[9. 11,.15] C ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本课题中，我们通过前期课题基因芯片数据分析了A549和A549/DDP之间miRNA表达谱的变化，选出存在表达差异的其中3个miRNA(mir-17、mir-92a以及let-7b)。通过RT-PCR验证，与A549相比，发现A549/DDP存在mir-17和mir-92a高表达现象以及let-7b低表达现象。这结果跟国外部分研究基本一致，mir-17-92家族在多种恶性肿瘤中充当着原癌基因的作用，let-7b充当抑癌基因的作用[]。进一步的细胞毒性实验结果显示，使A549内的mir-17高表达或者mir-92a高表达或者let-7b低表达会导致A549对顺铂的敏感性下降，细胞的 $\\mathrm { I C } _ { 5 0 }$ 值升高，使A549对顺铂产生耐药现象。而相反使A549/DDP内的mir-17低表达或者mir-92a低表达或者let-7b高表达会导致A549/DDP对顺铂的敏感性升高，细胞 $\\mathrm { I C } _ { 5 0 }$ 值下降。细胞克隆平台实验表明了A549内的mir-17高表达或者 $\\operatorname* { m i r } { - 9 2 \\mathrm { a } }$ 高表达或者let-7b低表达均会导致细胞增殖能力增强，细胞克隆数目增多。而相反A549/DDP的mir-17低表达或者mir-92a低表达或者let-7b高表达均会导致细胞增殖能力减弱，细胞克隆数目减少。顺铂主要的作用机制是与肿瘤细胞核内的DNA结合引起细胞内的DNA损伤，从而诱导细胞发生凋亡现象。本研究显示，在A549/DDP中高表达的$_ { \\mathrm { m i r - } 1 7 , \\mathrm { m i r - } 9 2 a }$ 和低表达的let-7b可导致细胞增殖能力增强，抗凋亡能力增强。以上的实验表明了mir-17、mir-92a可作为原癌基因，促进细胞增殖。let-7b作为抑癌基因，能够抑制细胞增殖；细胞内mir-17、mir-92a以及let-7b表达水平的变化影响细胞增殖、细胞调亡以及细胞对顺铂的敏感性；抗凋亡能力增强有可能直接减弱顺铂对肿瘤细胞的杀伤作用，而导致细胞对顺铂产生耐受作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/12be4b45f5cdf9122921e456c4dcca3a7868c35ac9371eddb518eed112c58ba3.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过以上研究，我们探索了NSCLC化疗过程中出现耐药的分子机制，这将为提高NSCLC的整体疗效、建立合理的个体化治疗方案提供新的理论基础和技术途径。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Jemal A,Thun MJ,Ries LA,et al.Annual report to the nation on the status of cancer,1975-2Oo5,featuring trends in lung cancer, tobacco use,and tobacco control[J].J Natl Cancer Inst,2Oo8,100 (23):1672-94.   \n[2]Parkin DM,Pisani P,Ferlay J.Global cancer statistics [J].CA Cancer JClin,1999,49(1):33-64,1.   \n[3]Xing L,Todd NW,Yu L,et al.Early detection of squamous cell lung cancer in sputum by a panel of microRNA markers[J].Mod Pathol,2010,23(8): 1157-64.   \n[4]Xie Y,Todd NW,Liu Z,et al.Altered miRNA expression in sputum for diagnosis of non-small cell lung cancer[J].Lung Cancer, 2010, 67(2): 170-6.   \n[5]Shen J,Todd NW, Zhang H,et al. Plasma microRNAs as potential biomarkersfornon-small-cell lungcancer［J].Laboratory Investigation,2011,91(4): 579-87.   \n[6]Yanaihara N,Caplen N,Bowman E,et al. Unique microRNA molecular profiles in lung cancer diagnosis and prognosis [J]. Cancer Cell,2006,9(3):189-98.   \n[7]Patnaik SK,Kannisto E,Knudsen S,et al.Evaluation of MicroRNA expression profiles that May predict recurrence of localized stage I Non-Small cell lung cancer after surgical resection[J]. Cancer Res, 2010,70(1): 36-45.   \n[8]Lebanony D, Benjamin H, Gilad S,et al. Diagnostic assay based on hsa-miR-2O5expression distinguishessquamousfrom nonsquamous non-small-cell lung carcinoma[J]. J Clin Oncol, 2009,27 (4): 2030-7.   \n[9] Zhao J,Fu WF,Liao HY,et al.The regulatory and predictive functions of miR-17 and miR-92 families on cisplatin resistance of non-small cell lung cancer[J].BMC Cancer,2015,15(7): 731.   \n[10]Jiang ZY, Yin J,Fu WF,etal. miRNA 17family regulates CisplatinResistant and metastasis by targeting TGFbetaR2 in NSCLC[J]. PLoS One,2014,9(4): e94639.   \n[11]Sarkar FH,Li Y, Wang Z, et al. Implication of microRNAs in drug resistance for designing novel cancer therapy[J].Drug Resist Updat,2010,13(3): 57-66.   \n[12]Fennell DA,Summers Y, Cadranel J,et al. Cisplatin in the modern era: The backbone of first-line chemotherapy for non-small cell lung cancer[J].Cancer Treat Rev,2016,44(5): 42-50.   \n[13]郗照勇,刘扬中.顺铂耐药的分子机制[J].中国科学:化学,2014(04): 410-22.   \n[14]Dasari S,Tchounwou PB.Cisplatin in cancer therapy:Molecular mechanisms of action[J].Eur JPharmacol,2014,740(5): 364-78.   \n[15]Galasso M, Sana ME, Volinia S. Non-coding RNAs: a key to future personalized molecular therapy[J]. Genome Med,2010,42(2): 12. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

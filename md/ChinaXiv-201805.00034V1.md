@@ -1,0 +1,138 @@
+# 基于BeI态纠缠交换的身份认证协议
+
+熊金鑫」，方杰²，昌燕1，张仕斌1(1．成都信息工程大学 信息安全工程学院，成都 610225;2.四川省计算机研究院，成都 610041)
+
+摘要：提出了一种新的量子身份认证协议，该协议以Bell态为传输载体，利用 Bell态纠缠交换和Bell基测量对通信用户进行身份认证。两个Bell态的传送过程中不需要做任何的么正变换，只需要执行Bell基测量和按位异或运算就可以实现信息的传输。整个过程中，量子载体操作简单且容易实现。此外，也验证了此协议的正确性。
+
+关键词：量子身份认证；纠缠交换；Bell基测量 中图分类号：TP309.2 doi:10.3969/j.issn.1001-3695.2017.11.1000
+
+Quantum identity authentication protocol based on Bell states and entanglement swapping
+
+Xiong Jinxin1, Fang Jie²†, Chang Yan1, Zhang Shibin1 (1.SchoolofCybersecurity,Chengdu UniversityfInformation Technology,Chengdu 610225,China;2.Sichuan Instituteof Computer Science, Chengdu 610041, China)
+
+Abstract:Thispaper presentedanewquantumauthenticatio protocols.Theprotocol took Bellstateas thetransmisioncarrier andusedBellstate entanglementswappingand Bellbasis measurementtoauthenticate communication users.There was no need todoanyunitarytransformationinthe transmissionoftwoBellstates.Onlyneed toperformBellbasis measurementandbitwise XOR operationcouldachieve the transmissionofinformation.Throughout the process,thequantumcarierwassimple and easy to implement. In addition, this paper also verified the correctness of this protocol.
+
+Key Words: quantum identity authentication; entanglement swapping; Bel basis measurement
+
+# 0 引言
+
+自Bennett和Brassard 提出量子密钥分配（QKD）协议（简称 BB84协议）[开辟了量子密码学之后，为了适应各种用途和解决新出现的信息安全问题，研究人员提出了大量的量子密码协议，主要包括量子秘密共享(quantum secretsharing,QSS)[2.3]、量子安全直接通信(quantum secure directcommunication,QSDC[4,5]、量子身份认证（quantum identityauthentication,QIA)[6\~l3]等方面的研究。
+
+量子通信是量子领域中最重要的应用之一，近年来已经在理论和实验上都不断取得突破和进展。但是在量子通信网络中，难免会存在非法用户冒充合法用户，破坏量子通信系统的安全性。在量子通信中存在这样的一个情况，一个假冒合法用户的恶意攻击者可以与其他用户分发密钥且进行秘密通信，即发送伪造的信息给合法用户或者窃取合法用户的秘密信息。同时在量子密钥分配协议中,需要在通信双方建立抗干扰信道或者用经典的方法来相互认证身份。在通信中抗干扰信道很难实现，并且经典身份认证协议又很难达到无条件安全。量子密钥分配协议中难于有效地防止冒充攻击。尤其在攻击者对通信双方的量子信道和经典通信信道在一定的技术条件下,通信过程中遭受中间攻击者的概率大大增加。因此，本协议在量子密钥分配协议中或量子安全直接通信中对用户双方做量子身份认证，从而避免量子安全通信的中间人的攻击，也不需要在量子密钥分配的通信信道建立抗干扰信道和采用经典身份认证。这样的设计同样可以应用在身份识别的智能卡系统之中[12,13]。不同的智能卡拥有不同的ID，根据不同ID制备不同的Bell态粒子，采用量子身份认证的方式来完成智能卡的身份认证。用量子的测不准定理和量子不可克隆定理保证了认证的无条件安全。近些年，量子身份认证作为量子密码学比较热门的分支走入研究者的视野，并得到了研究者的广泛关注和深入研究。
+
+目前量子身份认证方案有以下几类：第一类为点对点的量子身份认证方案。2014年Yuan 等人[提出了一种基于乒乓技术的无纠缠的单粒子量子身份认证方案。2016年Ma等人7采用双模压缩真空态和相干态，提出一种基于量子隐形传态的连续变量量子身份认证协议，该协议用新定义的保真度参数有效地验证用户的身份。第二类是身份认证和量子密钥分配相结合，在传输密钥的同时实现身份认证。2017年Ma等人[8提出了一种基于独立于测量设备的量子密钥分配（MDI-QKD）协议的新型双向身份认证方案,该协议利用Bell态为载体在一轮中实现身份认证和密钥分发。第三类为网络中的量子身份认证方案。Yang等人提出一个基于GHZ态的多方量子身份认证协议，多用户可以由可信第三方同时认证。2013年Yang等人[0]再次提出了一种基于GHZ 态的 $\left( \mathfrak { t } , \mathfrak { n } \right)$ 门限的多方身份认证方案。2014年张沛等人[1提出了基于量子隐形传态的无线通信网络身份认证方案。
+
+本文提出了一个基于Bell态纠缠交换的身份认证协议。在该协议中两个用户只需要根据用户二进制身份字符串进行Bell态的制备、粒子交换、Bel1基测量和进行按位异或运算，就可以实现对通信双方身份的认证。因此与Ma等人7提出的基于量子隐形传态的连续变量量子身份认证协议相比，虽然在身份认证中不能实现密钥的更新，但协议不需要第三方的介入和定义参数，减少了认证协议的复杂度。与Ma等人[提出的基于独立于测量设备的量子密钥分配协议的身份认证方案相比，本文协议不需要复杂的量子操控技术，降低了系统执行所需要的条件，提高了协议的实用性。且本文协议在目前的实际技术条件下是容易实现的。
+
+# 1 准备知识
+
+四个Bell态可以表示如下
+
+$$
+{ \left| { \phi ^ { \pm } } \right. } = \frac { 1 } { { \sqrt { 2 } } } { \left( { \left| { 0 0 } \right. \pm \left| { 1 1 } \right. } \right) } , { \left| { \psi ^ { \pm } } \right. } = \frac { 1 } { { \sqrt { 2 } } } { \left( { \left| { 0 1 } \right. \pm \left| { 1 0 } \right. } \right) }
+$$
+
+如果有两个 Bell 态都处于 $\left| \phi ^ { + } \right.$ 态，则有下面的等式成立：
+
+$$
+\begin{array} { c } { { | \phi ^ { + }  _ { 1 2 } | \phi ^ { + }  _ { 3 4 } = \displaystyle \frac 1 { \sqrt { 2 } } \big ( \big | 0 0 \big \rangle + \big | 1 1 \big \rangle \big ) _ { 1 2 } \otimes \displaystyle \frac 1 { \sqrt { 2 } } \big ( \big | 0 0 \big \rangle + \big | 1 1 \big \rangle \big ) _ { 3 4 } } } \\ { { = \displaystyle \frac 1 2 \widetilde { ( \phi ^ { + } \big \rangle _ { 1 3 } \big | \phi ^ { + } \big \rangle _ { 2 4 } + \big | \phi ^ { - } \big \rangle _ { 1 3 } \big | \phi ^ { - } \big \rangle _ { 2 4 } } } } \\ { { + \big | \psi ^ { + } \big \rangle _ { 1 3 } \big | \psi ^ { + } \big \rangle _ { 2 4 } + \big | \psi ^ { - } \big \rangle _ { 1 3 } \big | \psi ^ { - } \big \rangle _ { 2 4 } } } \end{array}
+$$
+
+如果对粒子1、3进行Bell基测量，粒子2、4就会纠缠在一起。例如，如果对粒子1、3测量结果为 $\left| \phi ^ { + } \right. _ { 1 3 } ( \left| \phi ^ { - } \right. _ { 1 3 } , \left| \psi ^ { + } \right. _ { 1 3 }$ 或 $\left| \psi ^ { - } \right. _ { 1 3 }$ ），那么对应粒子2、4的状态为 $\left| \phi ^ { + } \right. _ { 2 4 } ~ ( \left| \varphi ^ { - } \right. _ { 2 4 } , \left| \psi ^ { + } \right. _ { 2 4 }$ 或 $\left| \psi ^ { - } \right. _ { 2 4 }$ ）
+
+根据这个等式，很容易推导出任意两个Bell态经过纠缠交换都以1/4的概率的处于四种Bel1态。如果不考虑其相位，任意两个Bell态的纠缠交换情况如表1所示。
+
+表1任意两个Bell态的纠缠交换  
+
+<html><body><table><tr><td>Bell态 Bell态 纠缠交换两个Bell态</td></tr><tr><td>|φ+12 1φ+734 1φ+12 1φ-734 1+12 |+734 1φ+12 734 1φ+34</td></tr></table></body></html>
+
+如果用00来表示 $\left| \phi ^ { + } \right.$ ，01表示 $\left| \phi ^ { - } \right.$ ，10表示 $\left| \psi ^ { + } \right.$ ，11表示 $\left| \psi ^ { - } \right.$ ，那么纠缠交换前两个 Bell 态的二进制表示分别为 $c _ { 1 2 }$ 和 $c _ { 3 4 }$ ，纠缠交换后的两个 Bell态粒子的二进制表示分别为 $c _ { 1 3 }$ 和 $c _ { 2 4 }$ 。由表1可以得出，纠缠交换后的两个Bell态分别以1/4的概率处于 $\left| \phi ^ { + } \right. _ { 1 3 } \left| \phi ^ { + } \right. _ { 2 4 }$ ,以1/4的概率处于 $\left| \phi ^ { - } \right. _ { 1 3 } \left| \phi ^ { - } \right. _ { 2 4 }$ ,以1/4的概率处于 $\left| \psi ^ { + } \right. _ { 1 3 } \left| \psi ^ { + } \right. _ { 2 4 }$ ,以 1/4 的概率处于 $\left| \psi ^ { - } \right. _ { 1 3 } \left| \psi ^ { - } \right. _ { 2 4 }$ 。如果纠缠交换后的两个Bell 态为 $\left| \phi ^ { + } \right. _ { 1 3 } \left| \phi ^ { + } \right. _ { 2 4 }$ ，那么有C3c24=00④00=00，其中表示按位异或操作；如果纠缠交换后的两个Bell态为 $\left| \phi ^ { - } \right. _ { 1 3 } \left| \phi ^ { - } \right. _ { 2 4 }$ ，那么有（20 $c _ { 1 3 } \oplus c _ { 2 4 } = 0 1 \oplus 0 1 = 0 0$ ；如果纠缠交换后的两个Bell 态为 $\left| \psi ^ { + } \right. _ { 1 3 }$ $\left| \psi ^ { + } \right. _ { 2 4 }$ ，那么有 $c _ { 1 3 } \oplus c _ { 2 4 } = 1 0 \oplus 1 0 = 0 0$ ；如果纠缠交换后的两个 Bell 态为 $\left| \psi ^ { - } \right. _ { 1 3 } \left| \psi ^ { - } \right. _ { 2 4 }$ ，那么有 $c _ { 1 3 } \oplus c _ { 2 4 } = 1 1 \oplus 1 1 = 0 0$ 。由此可得到 $c _ { 1 2 } \oplus c _ { 3 4 }$ 的结果等于 $c _ { 1 3 } \oplus c _ { 2 4 }$ 的结果。关系如式(3)所示。经推导，任意两个Bell态都存在式(3)这个关系。
+
+$$
+c _ { 1 2 } \oplus c _ { 3 4 } = c _ { 1 3 } \oplus c _ { 2 4 }
+$$
+
+任意两个Bel1态纠缠交换对应的二进制关系如表2所示。
+
+假设 $I D _ { A } = \{ C _ { 1 2 } ^ { 1 } , C _ { 1 2 } ^ { 2 } , . . . . . . , C _ { 1 2 } ^ { 2 n } \}$ 是 Alice 的二进制身份字符串,$I D _ { B } = \{ C _ { 3 4 } ^ { 1 } , C _ { 3 4 } ^ { 2 } , . . . . . . . , C _ { 3 4 } ^ { 2 n } \}$ 是Bob 的二进制身份字符串。Alice 和Bob 共享 $\mathbb { D } _ { A }$ 和 $\mathrm { I D } _ { \mathrm { B } }$ 。Alice 根据 $\mathrm { I D } _ { A }$ 制备粒子序列 $\mathrm { \bf S } _ { I D _ { A } }$ ，Bob 根据 $\mathrm { I D } _ { \mathrm { B } }$ 制备粒子序列 $\mathrm { S } _ { \ / I D _ { B } }$ 。制备的规则是：如果身份字符串的当前位为00制备粒子处于 $\left| \phi ^ { + } \right.$ ,当前位为01制备粒子处于 $\left| \phi ^ { - } \right.$ 当前位为10制备 $\left| \psi ^ { + } \right.$ ，当前位为11制备 $\left| \psi ^ { - } \right.$ 。 Alice 把 $\mathbf { S } _ { I D _ { A } }$ 所有 Bell 态的第一个粒子发送给 Bob，同时 Bob 把 $\mathrm { S } _ { _ { I D _ { B } } }$ 所有Bell态的第二个粒子发送给Alice。Alice对手中粒子进行Bell基测量，此时Bob手中粒子对应处于纠缠态。纠缠交换后Alice拥有粒子序列 $\mathrm { \Delta S } _ { I D _ { A } } ^ { \mathrm { ~ ~ } }$ ，Bob 拥有粒子序列 $\mathrm { ~ \cal ~ S ~ } _ { I D _ { B } } ^ { \mathrm { ~ ~ } } \mathrm { ~  ~ { ~ \circ ~ } ~ } { \cal { S } } _ { I D _ { A } }$ '的二进制表示为 $\boldsymbol { C _ { I D _ { A } } } ^ { \prime } = \left\{ \boldsymbol { C } _ { _ { 1 3 } } ^ { 1 } , \boldsymbol { C } _ { _ { 1 3 } } ^ { 2 } , . . . . . . . , \boldsymbol { C } _ { _ { 1 3 } } ^ { 2 n } \right\}$ ， $\mathbf { S } _ { I D _ { B } }$ ’的二进制表示为${ C _ { I D _ { B } } } ^ { \prime } { = } \left\{ C _ { _ { 2 4 } } ^ { 1 } , C _ { 2 4 } ^ { 2 } , . . . . . . . , C _ { 2 4 } ^ { 2 n } \right\} \mathrm { ~ c ~ }$ 由 $C _ { 1 2 } ^ { k } \oplus C _ { 3 4 } ^ { k } = C _ { 1 3 } ^ { k } \oplus C _ { 2 4 } ^ { k } ( k \in { \cal N } ^ { * } )$ 得到：
+
+$$
+I D _ { _ A } \oplus I D _ { _ B } = C _ { I D _ { \cal A } } \mathrm { { ^ \circ \oplus C _ { I D _ { \cal B } } } } ,
+$$
+
+表2两个Bell态纠缠交换二进制关系  
+
+<html><body><table><tr><td>C12</td><td>C34</td><td>纠缠交换后C1C24</td></tr><tr><td>00</td><td>00</td><td>00 ④00=00,01 01=00,</td></tr><tr><td></td><td></td><td>10 10=00,1111=00</td></tr><tr><td>00</td><td>01</td><td>00 01=01,01 00=01,</td></tr><tr><td></td><td></td><td>1011=01,11 10=01</td></tr><tr><td>00</td><td>10</td><td>00  10=10,10 00=10,</td></tr><tr><td></td><td></td><td>0111=10,11 01=10</td></tr><tr><td>00</td><td>11</td><td>00  11=11,11  00=11,</td></tr><tr><td></td><td></td><td>0110=11,10 01=11</td></tr><tr><td>01</td><td>00</td><td>01+ 00=01,00 01=01,</td></tr><tr><td></td><td></td><td>10 11=01,11 10=01</td></tr><tr><td>01</td><td>01</td><td>01④01=00,00 00=00,</td></tr><tr><td></td><td></td><td>10 10=00,1111=00</td></tr><tr><td>01</td><td>10</td><td>01 10=11,10  01=11,</td></tr><tr><td></td><td></td><td>00  11=11,11 00=11</td></tr><tr><td>01</td><td>11</td><td>0111=10,11 01=10,</td></tr><tr><td></td><td></td><td>0010=10,1000=10</td></tr><tr><td>10</td><td>00</td><td>10 00=10,00  10=10,</td></tr><tr><td></td><td></td><td>0111=10,11 01=10</td></tr><tr><td>10</td><td>01</td><td>10  01=11,01  10=11,</td></tr><tr><td></td><td></td><td>00  11=11,11 00=11</td></tr><tr><td></td><td></td><td>10 10=00.00 00=00,</td></tr><tr><td>10</td><td>10</td><td>0101=00,1010=00</td></tr><tr><td>10</td><td>11</td><td>10 11=01,11 10=01,</td></tr><tr><td></td><td></td><td>00 01=01,01 00=01</td></tr><tr><td>11</td><td>00</td><td>11  00=11,00  11=11,</td></tr><tr><td></td><td></td><td>0110=11,10 01=11</td></tr><tr><td>11</td><td>01</td><td></td></tr><tr><td></td><td></td><td>11  01=10,01 11=10,</td></tr><tr><td>11</td><td></td><td>00 10=10,1000=10</td></tr><tr><td></td><td>10</td><td>11  10=01,10  11=01,</td></tr><tr><td>11</td><td></td><td>0100=01,0001=01</td></tr><tr><td></td><td>11</td><td>11 11=00,10  10=00, 00+00=00,01+01=00</td></tr></table></body></html>
+
+若Alice对Bob进行身份认证，只需要通过经典信道通知Bob 公布 $C _ { I D _ { B } }$ 。Alice 计算 $I D _ { \scriptscriptstyle A } \oplus I D _ { \scriptscriptstyle B } = C _ { \scriptscriptstyle I D _ { \scriptscriptstyle A } } { } ^ { \prime } \oplus C _ { \scriptscriptstyle I D _ { \scriptscriptstyle B } }$ 进行验证，若符合该公式，则证明Bob是合法用户。同理，若Bob对Alice进行身份认证，重新按照规则制备粒子，完成粒子交换等过程后，通过经典信道通知Alice 公布 $C _ { I D _ { A } }$ '即可。该方式实现了身份认证的功能，并且一方用户公布 ${ C _ { I D _ { A } } } ^ { \prime }$ 或 $C _ { I D _ { B } }$ ‘，不会引起双方身份信息的泄露。
+
+# 2 身份认证协议
+
+# 2.1协议内容
+
+a)Alice 的二进制串身份字符串为 $I D _ { A } = \{ C _ { 1 2 } ^ { 1 } , C _ { 1 2 } ^ { 2 } , . . . . . . . , C _ { 1 2 } ^ { 2 n } \}$ Bob 的二进制身份字符串为 $I D _ { B } = \{ C _ { 3 4 } ^ { 1 } , C _ { 3 4 } ^ { 2 } , . . . . . . , C _ { 3 4 } ^ { 2 n } \}$ 。 Alice 和Bob 共享IDA和 IDB°
+
+b)Alice 根据 $\mathbf { I D } _ { A }$ 制备粒子序列 $\mathrm { S } _ { I D _ { A } }$ ，Bob 根据 $\mathrm { I D } _ { \mathrm { B } }$ 制备粒子序列 $\mathrm { S } _ { \ / I D _ { B } }$ 。制备的规则是：如果身份字符串的当前位为00 制备粒子处于 $\left| \varphi ^ { + } \right.$ ，当前位为01制备粒子处于 $\left| \varphi ^ { - } \right.$ ，当前位为10制备 $\left| \psi ^ { + } \right.$ ，当前位为11制备 $\left| \psi ^ { - } \right.$ 。
+
+c)Alice把 $\mathrm { S } _ { I D _ { A } }$ 所有Bell态的第二个粒子发送给Bob，同时Bob把 $\mathrm { S } _ { I D _ { B } }$ 所有Bell态的第一个粒子发送给Alice。粒子交换后Alice 拥有粒子序列 $\mathrm { \Delta S } _ { I D _ { A } }$ ，Bob 拥有粒子序列 $\mathrm { S } _ { I D _ { B } }$ 。Alice 对（204 $\mathbf { S } _ { I D _ { A } }$ '进行 Bell 基测量，此时 $\mathrm { S } _ { \ / I D _ { B } }$ '对应处于纠缠态,Bob 对 $\mathrm { S } _ { I D _ { B } }$ ，进行Bell基测量，此时完成纠缠交换。
+
+d)测量结果进行二进制位表示。表示规则为：用00来表示$\left| \phi ^ { + } \right.$ ，01表示 $\left| \phi ^ { - } \right.$ ，10表示 $\left| \psi ^ { + } \right.$ ，11表示 $\left| \psi ^ { - } \right.$ 。 $\mathbf { S } _ { I D _ { A } }$ '的二进制表示为 $\mathbf { C } _ { \mathrm { I D } _ { \mathrm { A } } }$ ， $\mathrm { S } _ { { I D } _ { B } }$ '的二进制表示为 $\mathrm { C } _ { \mathrm { I D } _ { \mathrm { B } } }$ ，
+
+e)假如Alice对Bob进行身份认证，只需要通过经典信道通知 Bob 公布 $\mathrm { C } _ { \mathrm { I D } _ { \mathrm { B } } }$ ，然后根据式（4）进行验证。若符合该公式，则证明是合法者。若Bob对Alice进行身份认证，需要重新经过步骤a)\~d)，Bob 通过经典信道通知 Alice 公布 $\mathbf { C } _ { \mathrm { I D } _ { \mathrm { A } } }$ ，符合式（4）则证明是合法者。
+
+身份认证过程如图1所示。
+
+图1显示了该协议身份认证过程。
+
+# 2.2协议举例
+
+a)Alice 的二进制串身份字符串为 $\scriptstyle \mathbf { I D } _ { A } = 1 1 1 1 0 1 0 0$ ,Bob 的二进制身份字符串为 $\mathrm { I D _ { B } } ^ { \mathrm { } = 1 1 1 0 0 0 1 0 }$ Alice和Bob共享 $\mathbb { D } _ { A }$ 和 $\mathrm { I D } _ { \mathrm { B } }$
+
+b)Alice 根据 $\mathrm { I D } _ { A }$ 制备粒子序列 $\mathbf { S } _ { I D _ { A } } = \left\{ \lvert \psi ^ { - } \rangle , \lvert \psi ^ { - } \rangle , \lvert \varphi ^ { - } \rangle , \lvert \varphi ^ { + } \rangle \right\}$ ，Bob根据 $\mathrm { I D } _ { \mathrm { B } }$ 制备粒子序列 $\mathrm { S } _ { I D _ { B } } = \left\{ \left| \psi ^ { - } \right. , \left| \psi ^ { + } \right. , \left| \varphi ^ { + } \right. , \left| \psi ^ { + } \right. \right\}$ 。制备的规则是：如果身份字符串的当前位为00 制备粒子处于 $\left| \phi ^ { + } \right.$ ，当前位为01制备粒子处于 $\left| \phi ^ { - } \right.$ ，当前位为10 制备 $\left| \psi ^ { + } \right.$ ，当前位为11制备$\left| \psi ^ { \cdot } \right.$ 。
+
+c)Alice 把 $\mathrm { \Delta S } _ { I D _ { A } }$ 所有Bell态的第一个粒子发送给Bob，同时Bob把 $\mathrm { S } _ { \ / I D _ { B } }$ 所有Bell态的第二个粒子发送给Alice。粒子交换后Alice 拥有粒子序列 $\mathrm { S } _ { I D _ { A } }$ '，Bob 拥有粒子序列 $\mathrm { S } _ { I D _ { B } }$ '。Alice 对$\mathrm { \Delta S } _ { I D _ { A } }$ '进行 Bell基测量，此时 $\mathrm { S } _ { I D _ { B } }$ '对应处于纠缠态,Bob 对 $\mathrm { S } _ { I D _ { B } }$ 1进行 Bell 基测量，此时完成纠缠交换。Alice 拥有粒子序列S'={ν->,γ〉,φ〉,ν+>}，Bob拥有粒子序列${ \mathrm { S } _ { I { D } _ { B } } } ^ { \prime } = \left\{ \left| \psi ^ { - } \right. , \left| \psi ^ { - } \right. , \left| \phi ^ { - } \right. , \left| \phi ^ { + } \right. \right\} \circ$
+
+![](images/bab8fe0a39c79f8db7769c0a541fa506036f5f2cc67b36d0cf6c44c617d4e2b2.jpg)  
+图1身份认证过程
+
+d)测量结果进行二进制位表示。表示规则为：用00来表示$\left| \phi ^ { + } \right.$ ，01表示 $\left| \phi ^ { - } \right.$ ，10表示 $\left| \psi ^ { + } \right.$ ，11表示 $\left| \psi ^ { - } \right.$ 。 $\mathrm { \Delta S } _ { I D _ { A } }$ '的二进制表示为 $\mathbf { C _ { \mathrm { I D _ { A } } } } ^ { \prime } = 1 1 1 0 0 0 1 0$ ， $\mathrm { S } _ { \ / I D _ { B } }$ '的二进制表示为 $\mathrm { \bf C } _ { \mathrm { I D _ { B } } }$ 1$= 1 1 1 1 0 1 0 0$ 。
+
+e)假如Alice对Bob进行身份认证。只需要通过经典信道通知 Bob 公布 $\mathbf { C _ { \mathrm { I D _ { B } } } } ^ { \prime }$ 。根据式（4）验证， $1 1 1 1 0 1 0 0 \textcircled { \cdot }$ （204号$1 1 1 0 0 0 1 0 { = } 1 1 1 0 0 0 1 0 \oplus 1 1 1 1 0 1 0 0 { = } 0 0 0 1 0 1 1 0 ,$ 。符合该公式，证明Bob 是合法者。若Bob对Alice 进行身份认证，需要重新经过步骤 a)\~d)，Bob 通过经典信道通知 Alice 公布 $\mathrm { \bf C } _ { \mathrm { I D _ { A } } }$ '，符合式（4）则证明是合法者。
+
+# 3 安全性分析
+
+本文提出的身份认证即可防止非法用户冒充合法用户，又可以保证 $\mathrm { I D } _ { A }$ 和 $\mathrm { I D } _ { \mathrm { B } }$ 的安全性。
+
+# 3.1 冒充攻击
+
+Eve 在不知道 $\mathrm { I D } _ { \mathrm { B } }$ 的情况下冒充Bob 进行通信。由于 Eve不知道 $\mathrm { I D } _ { \mathrm { B } }$ ，Eve 随机制备 Bell态粒子序列 $S _ { I D _ { E } }$ 。Alice 把 $\mathbf { S } _ { I D _ { A } }$ 所有 Bell 态的第一个粒子发送给 Bob，同时 Eve 把 $S _ { I D _ { E } }$ 所有Bell态的第一个粒子发送给Alice。粒子交换后，Alice拥有粒子序列 $\mathrm { ~ { \cal { S } } _ { \it { I D } _ { A } } ~ } ^ { \prime }$ ，Eve 拥有粒子序列 $S _ { I D _ { E } }$ '。Alice 对 $\mathrm { \bf S } _ { I D _ { A } }$ '进行Bell基测量，同时 Eve 对 $S _ { I D _ { E } }$ '进行 Bell 基测量，此时完成纠缠交换。随后，Alice 对测量结果进行二进制表示为 $\mathbf { C } _ { \mathrm { I D } _ { \mathrm { A } } } ^ { { } }$ ，Eve对测量结果进行二进制表示为 $\mathbf { C } _ { \mathrm { I D } _ { E } } ^ { \mathrm { ~ \tiny ~ \backslash ~ } }$ 。假如Alice 对bob 进行身份认证，此时 Eve 公布 $\mathbf { C } _ { \mathbb { D } _ { E } }$ '，Alice 根据式(4)进行验证，由于$I D _ { \scriptscriptstyle A } \oplus I D _ { \scriptscriptstyle B } \ne C _ { { \cal I D } _ { \scriptscriptstyle A } } { } ^ { \prime } \oplus C _ { { \cal I D } _ { \scriptscriptstyle E } } ,$ ，Eve 不能通过身份认证。所以Eve 在不知道 $\mathrm { I D } _ { \mathrm { B } }$ 的情况下，冒充Bob不会通过身份认证。同理 Eve冒充Alice也不能通过身份认证。
+
+Eve 可以尝试截取/重发进而推测出 $\mathrm { C _ { \mathrm { I D _ { B } } } }$ '。若 Eve 截获了者 Bob 传送的粒子，使得 $\mathrm { S } _ { I D _ { A } }$ 和 $\mathrm { S } _ { \ / I D _ { B } }$ '不能够完成纠缠交换。在Alice 和Bob进行身份认证时导致式(4)无法成立，身份认证不能通过。
+
+# 3.2 （204 ${ \mathsf { I D } } _ { A }$ 和 $\mathsf { I D } _ { B }$ 的安全性
+
+因为 $\mathrm { I D } _ { A }$ 和 $\mathrm { I D } _ { \mathrm { B } }$ 是通信双方在通信之前事先秘密共享的，非法用户不知道 $\mathbf { I D } _ { A }$ 和 $\mathrm { I D } _ { \mathrm { B } }$ 。假如 Eve 想要猜出 $\mathbb { D } _ { A }$ 或 $\mathrm { I D } _ { \mathrm { B } }$ 。设$\mathbb { D } _ { A }$ 和 $\mathrm { I D } _ { \mathrm { B } }$ 为 $2 \mathrm { n }$ 位的二进制串。Eve 正确猜出的概率为 $1 / _ { 4 ^ { n } }$ 。只要设定的 $\mathbf { I D } _ { A }$ 或 $\mathrm { I D } _ { \mathrm { B } }$ 的位数足够长，Eve 猜对 $\mathbf { I D } _ { A }$ 或 $\mathrm { I D } _ { \mathrm { B } }$ 的概率将趋近于零。这样以来Eve也根本无法通过身份认证。
+
+Eve 尝试采取截获/重发攻击来得到 $\mathrm { I D } _ { A }$ 或 $\mathrm { I D } _ { \mathrm { B } }$ 。Eve 截取Alice发送的粒子，用Z基测量，Eve依然无法推断出Alice 制备的粒子序列。而且由于Eve 的测量会造成Alice手中粒子的塌缩，使得Alice和Bob制备的两组Bell态粒子序列无法完成纠缠交换。在Alice和Bob进行身份认证时导致式(4)无法成立，身份认证不能通过。同理,Eve 采取截获/重发攻击不能得到 $\mathrm { I D } _ { \mathrm { B } }$ ，身份认证一样不能通过。
+
+Eve 试图通过公布的 ${ C _ { I D _ { A } } } ^ { \prime }$ 或 $C _ { I D _ { B } }$ '得到 $\mathrm { I D } _ { A }$ 和 $\mathrm { I D } _ { \mathrm { B } }$ 。在步骤c)中 $\mathrm { \bf S } _ { I D _ { A } }$ '和 $\mathrm { S } _ { \ / I D _ { B } }$ '都以1/4 的概率随机的处于四种最大混合态$\left\{ \left| \phi ^ { + } \right. , \left| \phi ^ { - } \right. , \left| \psi ^ { + } \right. , \left| \psi ^ { - } \right. \right\}$ 。步骤 d)中 Alice 和 Bob 分别对 $ { \mathbf { S } } _ { I D _ { A } }$ '和$\mathrm { S } _ { I D _ { B } }$ '进行二进制表示为 $C _ { I D _ { A } }$ '和 $\bf C _ { \mathrm { I D _ { B } } }$ 。在步骤e)中由于公布的$C _ { I D _ { A } }$ '和 $\mathrm { C } _ { \mathrm { I D } _ { \mathrm { B } } }$ '都是纠缠交换后四个最大混合态的二进制表示，所以 $C _ { I D _ { A } }$ '和 $\mathrm { C _ { I D _ { B } } }$ '都以1/4 的概率处于 $\{ 0 0 , 0 1 , 1 0 , 1 1 \}$ ，与 $\mathbb { D } _ { A }$ 和$\mathrm { I D } _ { \mathrm { B } }$ 没有关系。在身份认证的过程中，Eve 无法通过一方公布的 $C _ { I D _ { A } }$ 或 $C _ { I D _ { B } }$ '推测出 $\mathrm { I D } _ { A }$ 和 $\mathrm { I D } _ { \mathbf { \delta B } }$ 的任何信息。因此，在协议的执行过程中，一方公布 $C _ { _ { I D _ { A } } }$ 或 $C _ { _ { I D _ { B } } }$ '不会造成 $\mathbf { I D } _ { A }$ 和 $\mathrm { I D } _ { \mathrm { B } }$ 的泄露， $\mathbf { I D } _ { A }$ 和 $\mathrm { I D } _ { \mathrm { B } }$ 是可以重复使用的。
+
+# 4 结束语
+
+本文提出了一个基于Bell态纠缠交换的身份认证协议。在该协议中，只需将双方的二进制身份字符串按照指定规则制备两组粒子序列。然后Alice发送制备Bell态粒子序列的第一个粒子给Bob，Bob发送制备Bell态粒子序列的第二个粒子给Alice。双方各自对手中粒子进行Bel1基测量，最后把测量结果进行二进制表示，Alice或Bob公布对应的二进制就可以完成一方的身份认证。在整个身份认证的过程中，Bel1态的传送过程中不需要做任何幺正变换，只需要执行Bell态测量和按位异或运算就可以实现信息的传输。在实际应用中该协议的实现只取决于Bell态的准确制备和Bell态的可靠测量。最后，对该协议也进行了安全性分析，分析表明本协议能够抵御冒充者攻击。协议的执行过程中一方公布 $C _ { I D _ { A } }$ 或 $C _ { I D _ { B } }$ '不会造成 $\mathbf { I D } _ { A }$ 和 $\mathrm { I D } _ { \mathbf { \delta B } }$ 的泄露， $\mathbf { I D } _ { A }$ 和 $\mathrm { I D } _ { \mathrm { B } }$ 是可以重复使用的。
+
+# 参考文献：
+
+[1]Bennett C H,Brassard G.Quantum cryptography: public key distribution and coin tossing[C]//Proc of IEEE International Conference on Computers Systems and Signal Processing.1984: 175-179.   
+[2]BellBA,MarkhamD,Herrera-Marti DA,etal.Experimental demonstration of graph-state quantum secret sharing[J].Nature Communications,2014,5: 5480.   
+[3]Mishra S,Shukla C,Pathak A,et al.An integrated hierarchical dynamic quantum secret sharing protocol [J]. International Journal of Theoretical Physics,2015,54(9):1-12.   
+[4]Chang Y, Xu C X, Zhang S B,et al. Quantum secure direct communication and authentication protocol with single photons [J]. Chinese Science Bulletin,2013,58 (36): 4571-4576.   
+[5]Li J, Guo XJ, Song D, et al, Improved quantum"ping-pong"protocol based on extended three-particle GHZ state [J] China Communications,2012,9 (1): 111-116.   
+[6]Yuan H,Liu Y M,Pan G Z,et al. Quantum identity authentication based on ping-pong technique without entanglements [J].Quantum Information Processing,2014,13 (11): 2535-2549.   
+[7] Ma H, Huang P,Bao W,et al. Continuous-variable quantum identity authentication based on quantum teleportation [J]. Quantum Information Processing,2016,15(6): 2605-2620   
+[8]Ma S Q, Zhu C H,Pei C X.A practical identity authentication scheme for measurement-device-independent quantum key distribution [C]// Proc of Computer, Information and Telecommunication Systems.2017: 274-278.   
+[9]Yang Y G,Wen QY.Economical multiparty simultaneous quantum identity authentication based on greenberger-horne-zeilinger states [J].Chinese Physics B,2009,18 (8): 3233-3237.   
+[10] Yang Y G,Wang HY, Jia X,et al.A quantum protocol for (t,n) -threshold identity authentication based on greenberger-horne-zeilinger states [J]. International Journal of Theoretical Physics,2013,52 (2): 524-530.   
+[11]张沛，周小清，李智伟．基于量子隐形传态的无线通信网络身份认证方 案[J]．物理学报,2014,63(13):19-24.   
+[12] Wang D,He D,Wang P et al.Anonymous two-factor authentication in distributed systems: certain goals are beyond attainment [J]. IEEE Trans on Dependable and Secure Computing,2015,12 (4): 428-442.   
+[13] Wang D,Wang P.Two birds with one stone: two-factor authentication with security beyond conventional bound [J].IEEE Trans on Dependable and Secure Computing,2016,PP(99): 1-22.

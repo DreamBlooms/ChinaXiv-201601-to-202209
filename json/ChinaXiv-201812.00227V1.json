@@ -1,0 +1,199 @@
+[
+    {
+        "type": "text",
+        "text": "1 乌骨鸡黑色素沉积机理及相关候选基因 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 彭灿阳 郭松长　柳　序　徐明明 曲湘勇\\*； （湖南农业大学动物科学技术学院，湖南畜禽安全生产协同创新中心，长沙 410128）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4 摘要:乌骨鸡的乌色度与其营养特性和药用价值密切相关，是乌骨鸡重要的经济性状之一。  \n5 乌骨鸡乌色度受机体黑色素沉积影响。本文对黑色素发生、沉积机理进行较为全面的综述，  \n6 并讨论了影响乌骨鸡黑色素沉积的候选基因，旨在增进对乌骨鸡黑色素性状及相关分子选育  \n7 的理解和研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "8 关键词：乌骨鸡；黑色素；候选基因中图分类号：S831",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "乌骨鸡因具有极高的营养价值及药用价值而深受消费者青睐，消费者一般以乌骨鸡乌色度的深浅来评判其品质的优劣，而乌骨鸡机体黑色素沉积的程度决定其乌色度的深浅。也有相关研究发现，乌骨鸡的滋补作用主要基于其黑色素含量[1]。除了一般常规经济性状外，乌骨鸡乌色度，即黑色素的沉积是选育工作的核心目标。黑色素是由黑色素细胞合成并运输到细胞外，并在其附近组织中沉积。脊椎动物黑色素细胞源自于神经嵴，在胚胎发育早期成黑色素细胞由神经嵴细胞分化、迁移至体节中胚层，并进入外胚层形成表皮黑色素细胞，使得黑色素细胞在胚胎内能够广泛分布[2]。乌骨鸡黑色素的沉积是受多因子共同调控的复杂过程。本文综述了乌骨鸡黑色素的发生、沉积规律及其候选基因的研究进展，以期为今后的相关研究工作提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1成黑色素细胞的分化及迁移 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在早期原肠胚阶段神经系统形成时期，神经嵴细胞经背侧途径，沿体节和外胚层迁移，分化为成黑色素细胞，最后进入外胚层，在真皮层甚至表皮层形成黑色素细胞；后续研究又发现神经嵴干细胞分化为雪旺细胞前体，通过腹侧途径迁向皮肤，最终发育分化为黑色素细胞[3-4]。禽类躯干部神经细胞体外的培养结果表明，具有成黑色素潜质的神经嵴细胞要在6h后才逐渐迁移[5]。鸡胚胎发育第12\\~13期，神经嵴细胞开始迁移，在胚胎第 20 期，成黑色素细胞从神经嵴出发，开始背侧迁移[]。神经嵴细胞的迁移途径、分化趋势会受到其他各种因子的调控影响，继而影响黑色素细胞的生成及在组织中的分布。某些因子对黑色素细胞的生成、迁移具有抑制作用。叉头框(fork head box，Fox)家族成员之一FOxD3，是一种干细胞关键转录因子，能调控神经嵴细胞的生成、迁移和分化；研究还发现，FoxD3在鸡神经管中异位表达，能抑制神经嵴和神经嵴分化衍生物的形成[7]，FoxD3 还能抑制黑色素原的形成。Kos 等[8曾报道，FoxD3 抑制神经嵴细胞向成黑色素细胞分化，并抑制成黑色素细胞的迁移。而黑色素细胞的生成及迁移也会受机体其他因子的促进；小眼畸形相关转录因子(microphthalmia transcription factor，Mitf)调控成黑色素细胞分化、发育，是神经嵴细胞定向发育分化成黑色素细胞发生标志之一；研究发现,Mitf通过其螺旋-环-螺旋-亮氨酸拉链(basichelix-loop-helix leucine zipper，bHLHZip)结构识别位于靶基因启动子区上高度保守的E盒子（E-box）或M盒子（M-box）序列，启动下游靶基因的转录而参与黑色素细胞分化与发育[9]。配对框3（paired box，Pax3)转录因子对黑色素细胞的迁移、分化、抗调亡等过程中也起到了重要的调控作用，神经细胞黏着分子1(neuralcell adhesion molecule1，NCAM1)的主要作用是促进细胞间的黏附，而Pax3能直接抑制NCAM1的表达或间接使NCAM1在合成后迅速磷酸化后失去黏附功能，促进细胞的迁移[10-1]。Pax3 与性别决定基因同源盒基因10(SRY-box containing gene 10，Sox10)协同作用促进Mitf的表达，促使黑色素细胞的分化；在胚胎期，Pax3 通过抑制 p53 依赖性细胞凋亡，以保证黑色素细胞完成发育[12]。成黑色素细胞的分化及迁移主要发生在胚胎期，黑色素细胞在动物机体的分布情况在一定程度上决定了动物机体黑色素的沉积量。田颖刚等[13]对泰和乌骨鸡皮肤和肌肉组织进行切片、染色观察发现，皮肤组织中黑色素细胞在真皮层分布密度大于表皮层；肌肉组织中黑色素细胞主要分布在肌外膜及部分肌束膜中，肌纤维中黑色素细胞分布较少，使得泰和乌骨鸡胸肌肌肉外侧比内部黑。蒋明[14在广西乌骨鸡上也有同样的发现。乌骨鸡不同个体间乌色度的差异、不同组织中黑色素沉积量的差异，可能是由于黑色素细胞数量的差异所造成。影响机体中黑色素细胞数量的因素较多，其选育空间也较大，而乌骨鸡黑色素细胞的增殖、衰老及不同生长周期组织中黑色素细胞的分布情况未见报道，有必要进行深入的研究，以期找到影响乌骨鸡黑色素细胞分布的关键分子标记物，加快乌骨鸡乌色度选育进程。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2黑色素的合成及转运",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1合成",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "黑色素小体是成熟的黑色素细胞合成与储存黑色素的特定细胞器，包括合成黑色、棕色的真黑色素小体与合成红色、黄色、褐色的伪黑色素小体。酪氨酸(tyrosine，Tyr)是黑色素合成的主要前体物质，在酪氨酸酶(tyrosinase，TYR)的作用下，催化形成多巴醌，再经一系列氧化、聚化反应形成多巴色素，多巴色素在酪氨酸相关蛋白2(tyrosinase-related proteins2，TYRP2)的作用下被羟化为5，6-二羟基吲哚-2-羧酸(5,6-dihydroxyindole-2-carboxylic acid,DHICA)。DHICA 有2种反应途径，一是被酪氨酸相关蛋白1(tyrosinase-related protein1,",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "TYRP1)催化形成5，6-吲哚醌羧酸，5，6-吲哚醌羧酸是一种中等可溶的褐色物质；二是脱羧成 5，6-二羟基吲哚(5,6-dihydroxyindole，DHI)，DHI再经过 TYR 的催化下快速氧化、聚合，形成5，6-吲哚醌，5，6-吲哚醌是一种高分子质量的可溶性暗褐色或黑色多聚物。5，6-吲哚醌羧酸和5，6-吲哚醌都是真黑色素。伪黑色素是一种含硫物质，与真黑色素合成不同，半胱氨酸(cysteine，Cys)或谷胱甘肽(glutataione，GSH)参与进来与多巴醌结合，经一系列反应生成伪黑色素。黑色素的生成过程如图1[15]所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/44dd994491157d7737fce2548770922a0a8940f84e5f5a699c9af930981f9e67.jpg",
+        "img_caption": [
+            "图1黑色素的生成过程",
+            "Fig.1Process of melanin synthesis[15] "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "黑色素的合成要经过一系列复杂的反应过程，受到多种信号分子调控。TYR是黑色素合成的第一限速酶，TYR活性决定着黑色素合成的速度与产量，TYR活性低，会使过量的GSH参与黑色素的合成，形成大量伪黑色素。TYRP1和TYRP2与TYR有 $40 \\%$ 同源，在黑色素合成过程中也发挥重要的功能作用[1]。腺苷酸环化酶(adenylatecyclase，AC)通路是黑色素合成过程中的重要信号通路，a-黑色素细胞刺激素(a-melanocyte stimulating hormone,> a-MSH)与黑色素皮质素受体 1(rnelanoeortin-1 receptor，MC1R)结合激活 AC 通路，使环磷酸3 腺苷(cyclic adenosine monophosphate，cAMP)含量提高，进而提高黑色素细胞TYR 活性，促1 进黑色素合成[17-18]。鼠灰色蛋白(agouti signaling protein,ASIP)是MC1R 拮抗剂,能与a-MSH5 竞争性结合MC1R，导致cAMP 含量降低，TYR 活性下降，伪黑色素生成量增多[19-20]。Mitf5 也能与TYR、TYRP1、TYRP2基因启动子结合，刺激基因的表达，促进黑色素的合成。乌骨7 鸡乌色度的深浅也由真黑色与伪黑色素的量决定，由此可知，提高TYR、TYRP1及TYRP23 活性，可促进真黑色的生成量，提高乌骨鸡乌色度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2转运 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "黑色素细胞通过其树突和细胞-细胞结构与周围40多个角质形成细胞相互接触形成1个黑色素单位，并向其输送黑色素。黑色素的运输实质是黑色素小体的转运，包括细胞内的转运及细胞间的转运。细胞内的转运指黑色素小体从细胞核周围沿树突运送至外围活性区域，并将黑色素固定在细胞膜附近，此过程需要微管、微丝以及马达蛋白的协同作用下完成[21]。微丝马达蛋白首先要与黑色素小体固定，肌球蛋白利用水解三磷酸腺苷（ATP）产生的能量与微丝结合并向其钩状末端短程移动，三磷酸鸟苷结合蛋白(RAB27A)、肌球蛋白 5a(myosin5a，MYO5A)和黑素亲和素(melanophilin，MLPH)形成复合结构连接肌球蛋白和黑色素小体，协助黑色素小体的转运[2-24]。研究发现在这3种基因发生突变的小鼠体内，其黑色素细胞中黑色小体集聚在核周围，无法达到细胞膜附近[25]。黑色素小体到达细胞膜附近后才能被转运至周围角质细胞，关于黑色素小体在细胞间转运的形态和机制研究很少，其可能的方式有3 种。第1种是基底角质细胞通过吞噬黑色素细胞的突出末端来获得黑色素；第2种是黑色素细胞分泌黑色素胞及角质细胞的吞噬作用；第3种是2种细胞相互融合，形成共同通道转运[26-27]，而有相关报道，黑色素小体转运方式并不是单一的，而是几种机制共同存在[28]。大量研究表明，黑色素运输机制的障碍也是导致动物皮肤、被毛着色稀释的主要原因[29-31]。Xu 等[32]研究发现，安义瓦灰鸡具有“五灰\"表现型，即灰羽、灰脚、灰皮、灰喙和灰冠，此外其肌肉颜色和骨膜也呈现灰色，通过对\"五灰\"机制的研究，发现其主要原因是MLPH基因突变导致的黑色素转运障碍。乌骨鸡皮肤、肌肉黑色素深浅会直接影响其品质，而关于黑色素转运对乌骨鸡皮肤、肌肉黑色素沉积影响的报道还较少，有待进一步深入研究。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3影响黑色素的相关基因",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 TYR基因家族",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "TYR、TYRP1、TYRP2 和前黑色素小体蛋白17(pre-melanosomal prtein17，Pmel17)是TYR 基因家族的4个成员，均来源于1个共同祖先基因。研究发现，家禽黑色羽毛中 TYR基因的表达量显著高于白色羽毛[3-34]。鸡 TYR 基因是复等位基因，位于1号染色体的长臂 4区4 带[35]。郑嫩珠等[3研究报道，在白绒乌骨鸡皮肤、肌肉及内脏组织中，TYR基因的表达量与黑色素的含量呈显著正相关，说明TYR 基因的过度表达有利于黑色素的沉积。TYR基因在我国地方鸡品种，尤其是乌骨鸡中具有丰富的变异资源。陈志强等[37]在鸡 TYR 基因上游调控区序列-641\\~-2125bp 发现3个单核苷酸多态（SNP）位点，与鸡的胫色和皮肤颜色显著相关。TYRP1基因所编码的 TYRP1是一种跨膜糖蛋白，在内质网中合成并转运至黑色素细胞内部。在人类研究中，TYR 基因在黑肤色类型人的黑色素细胞中表达与白肤色类型人无显著差异，而 TYRP1基因的表达量有明显提高[38]。Li等[39]研究发现 TYRP1基因在黑马中的表达量是灰马6.54倍；刘薇[40]研究发现，在丝毛乌骨鸡胚胎除眼睛外的组织中，黑色素可见的时间都晚于组织中TYRP1开始表达的时间。由此可见，TYRP1对黑色素的合成起重要作用。TYRP2又称多巴色素异构酶（DT)，能使多巴色素转化为DHICA，控制黑色素细胞中DHICA和DHI的比例，加速真黑色素的合成，是影响动物毛色的重要蛋白[41]。Pmel17基因编码的蛋白质与TYR 基因家族其他3个成员编码的蛋白质的一级结构非常相似,故也将它作为TYR基因家族的第4个成员，参与黑色素生成途径终末步骤的调节。Pmel17是在内质网中合成的I型跨膜转运糖蛋白，转运到黑色素小体内，经前蛋白转化酶及一系列酶参与的解胱作用裂解并组成淀粉样纤维结构，促进黑色素小体结构的形成[42-43]，以利于黑色素的合成和沉积。Pmel17基因含11个外显子,研究发现小鼠Pmel17基因1个终止密码子突变[44],以及1个单核苷酸插入造成额外12个氨基酸的突变[45都可产生银色毛表现型。马Pmel17基因p.Arg618Cys位点突变也可产生银色毛表型[46]；鸡Pmel17基因p.R618C 位点突变产生红褐色羽毛表型、第10 外显子一个9bp 片段的插入会产生显性白色羽毛表型[47]。Pmell7基因突变会影响黑色素小体的成熟，导致黑色素合成、沉积障碍，关于Pmel17基因对乌骨鸡皮肤、肌肉组织中黑色素沉积的影响还未见报道，进一步的深入研究对了解乌骨鸡黑色素沉积原理具有重要意义。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 MC1R基因 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "鸡MC1R基因由扩展黑色（extendeds black，E)位点所编码[48]，是调节黑色素合成的关键基因。MC1R是位于黑色素细胞表面的G蛋白耦合受体，有7个跨膜结构域，为最小的G蛋白耦合受体，在AC 通路中作为α-MSH的受体，对黑色素合成发挥重要作用[49]。郑嫩珠等[33]研究MC1R基因在半番鸭和番鸭黑白羽中表达差异，结果显示，MC1R基因在半番鸭黑羽中表达量是白羽的9.08倍，在番鸭黑羽中表达量是白羽中的3.13倍，而且差异都达到了极显著的程度。杜晓明[50]研究相同日龄、生长环境和营养状况下的黑色边鸡和灰白色边鸡皮肤、肝脏和羽髓组织中的MC1R基因的表达的情况，结果表明该基因在黑色边鸡中的以上各组织中表达量均显著高于灰白鸡。杨永升等[51]在鸡MC1R基因的编码区检测到3个 SNP,发现与肤色、肉色、胫色显著相关；研究发现，鸡 MC1R 基因的 E92K和M7IT2个位点突变会使鸡产生全黑的羽毛，H215P位点突变会抑制黑色素沉积[52]。迟良等[53]利用反转录 PCR克隆乌骨鸡MC1R基因，结果显示乌骨鸡MC1R基因全长945bp，编码314个氨基酸，有 4个明显的突变位点，分别为M71T、E92K、S124G 和H215P，推测 S124G位点突变是造成乌骨鸡乌皮、乌肉、乌骨，而具有纯白色羽毛的原因，其具体机制有待进一步研究。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3 Mitf基因 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Mitf基因是黑色素合成通路中的关键调控基因，不但影响黑色素细胞的分化和发育，还直接调控酪氨酸基因家族的表达，影响黑色素的生成[54]。Zhu等[55]研究发现Mitf基因在羊驼棕色被毛皮肤组织中的表达量显著高于白色被毛皮肤；在鸟类中，Mitf基因表达量与羽色具有一定相关性。Li等[5研究发现Mitf基因在鸭子的黑色毛球中有比较高的表达量，而在白色毛球中几乎不表达；Minvielle等[57]研究发现，Mitf基因突变会导致纯合子的日本鹑表现为银白羽色。Wang 等[58]也发现Mitf基因编码区1109 bp 位点上的碱基突变与浙东白鹅白羽性状高度相关。郑嫩珠等[59]克隆了白绒乌鸡 Mitf基因的cDNA序列，长度为1431bp,编码468个氨基酸，并且发现，在白绒乌骨鸡不同组织中，Mitf基因的表达量与黑色素含量呈显著正相关，说明Mitf基因表达有助于乌骨鸡黑色素沉积。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4 MLPH基因 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "MLPH参与黑色素细胞中成熟黑色素小体的转运，使黑色素小体在黑色素细胞树突末梢聚集，调控动物皮肤和被毛的颜色。MLPH基因的突变会导致色素沉着减少，出现被毛稀释表现型。国内外大量研究发现，猫、狗、兔子、鹌和美国水貂MLPH基因的突变，都导致毛色变淡，出现毛色稀释表型[30-31,60-62]。刘杰等[63]研究发现，MLPH基因在20 周龄浙东白鹅母鹅中的表达存在组织特异性，在黑化部位眼睛中表达量最高，在背部皮肤、腹部皮肤及脚蹼中表达量较低，而在心脏、肝脏等部位未检测到表达，这种表达规律与鹅的黑色素沉着规律一致，进一步证明了MLPH基因与黑色素沉积有关。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4小结 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "乌骨鸡是我国特有的地方鸡品种，其最大的经济与药用价值在于黑色素的沉积。黑色素 性状的常规选育主要通过观察（肉眼）乌色度深浅，进展较为缓慢，利用分子标记辅助选育 十分必要。关于动物被毛黑色素沉积机理方面已有大量研究，在此基础上，研究与乌骨鸡黑 色素沉积相关的基因具有重要意义。从黑色素细胞的发生、迁移，黑色素的合成、转运，以 及黑色素在组织中是否会发生降解等多个方面去研究影响乌骨鸡乌色度的主要因素，探明基 因调控黑色素沉积的具体机制，寻找影响乌骨鸡黑色素沉积的主效基因及分子标记物，并在 生产中利用分子标记物对黑色素性状进行早期选择，提高乌骨鸡乌色度，加快选育进度。 参考文献:   \n[1]李瑞成,尚永彪,管俊峰.乌骨鸡黑色素及其研究进展[J].肉类研究,2010(10):54-59.   \n[2]REEDY M V,FARACO C D,ERICKSON C A.Specification and migration of melanoblasts at thevagallevelandinhyperpigmented silkiechickens[J].Developmental Dynamics,1998,213(4):476-485.   \n[3]ADAMEYKO I,LALLEMEND F,AQUINO J B,et al.Schwann cell precursors from nerve innervation are a cellular origin of melanocytes in skin[J].Cell,2009,139(2):366-379.   \n[4]MOTOHASHI T,KUNISADA T.Chapter three-extended multipotency of neural crest cels and neural crest-derived cels[J].Current Topics in Developmental Biology,2015,111:69-95.   \n[5]HENION P D,WESTON JA.Timing and pattrn of cell fate restrictions in the neural crest lineage[J].Development,1997,124(21):4351-4359.   \n[6]LORING J F,ERICKSON C A.Neural crest cell migratory pathways in the trunk of the chick embryo[J].Developmental Biology,1987,121(1):220-236.   \n[7]DOTTORI M,GROSS M K,LABOSKY P,et al.The winged-helix transcription factor Foxd3 suppresses interneurondifferentiationand promotes neural crest cell fate[J].Development,2001,128(21):4127-4138.   \n[8]KOS R,REEDY M V,JOHNSON R L,et al.The winged-helix transcription factor FoxD3 is important for establishing the neural crest lineage and repressing melanogenesis in avian embryos[J].Development,2001,128(8):1467-1479.   \n[9]MARTINA JA,DIAB H I,LI H Q,et al.Novel roles for the Mitf/TFE family of transcription factors in organelle biogenesis,nutrient sensing,and energy homeostasis[J].Cellular and Molecular Life Sciences,2014,71(13):2483-2497.   \n[10]MAYANIL C S K,GEORGE D,MANIA-FARNELL B,et al.Overexpression of murine Pax3 increases NCAM polysialylation in a human meduloblastoma cel line[J].Journal of Biological Chemistry,2000,275(30):23259-23266.   \n[11]周洋,崔英霞.PAX3对黑色素细胞形成的调控[J].中国优生与遗传杂 志,2012,20(3):10-11,128.   \n[12]PANI L,HORAL M,LOEKEN M R,et al.Rescue of neural tube defects in Pax-3-deficient embryosbyp53 lossof function:implicationsfor Pax-3-dependent development and tumorigenesis[J].Genes & Development,2002,16(6):676-680.   \n[13]田颖刚,徐德利,廖春艳.泰和乌骨鸡黑色素细胞形态与分布特征[J].中国家 禽,2015,37(1):5-8.   \n[14]蒋明.乌鸡黑色素沉积机理及分子标记筛选的研究[D].硕士学位论文.长沙:湖南农业大 学,2016:11-16.   \n[15]PARK H Y,KOSMADAKI M G,YAAR M,et al.Cellular mechanisms regulating human melanogenesis[J].Cellular and Molecular Life Sciences,2009,66(9):1493-1506.   \n[16]熊渺.α-MSH和cAMP 对泰和乌骨鸡黑色素细胞增殖及黑色素合成的影响研究[D].硕士 学位论文.南昌:江西农业大学,2014:2-5.   \n[17]TAPIA J C D,BAGUTTI C,COTTI R,et al.Induction of constitutive melanogenesis in amelanotic mouse melanoma cells by transfection of the human melanocortin-1 receptor gene[J].Journal of Cell Science,1996,109(8):2023-2030.   \n[18]THODY A J.α-MSH and the regulation of melanocyte function[J].Annals of the New York Academy of Sciences,1999,885(1):217-229.   \n[19]FURUMURA M,SAKAI C,ABDELMALEK Z A,et al.The interaction of agouti signal protein and melanocyte stimulating hormone to regulate melanin formation in mammals[J].Pigment Cell Research,1996,9(4):191 - 203.   \n[20]SAKAI C,OLLMANN M M,KOBAYASHI T,et al.Modulation of murine melanocyte function in vitro by agouti signal protein[J].The EMBO Journal,1997,16(12):3544-3552.   \n[21]杨朋坤.鸡真皮黑色素抑制基因精细定位及相关质量性状分子标记鉴定研究[D].博士学 位论文.郑州:河南农业大学,2014:7-11.   \n[22]HARA M,YAAR M,BYERS H R,etal.Kinesin participates in melanosomal movement along melanocyte dendrites[J].Journal of Investigative Dermatology,2000,114(3):438-443.   \n[23]WESTBROEK W,LAMBERT J,NAEYAERT J M.The Dilute locusandgriscelli syndrome:gateways towards a better understanding of melanosome transport[J].Pigment Cell Research,2001,14(5):320-327.   \n[24]WESTBROEK W,LAMBERT J,DE SCHEPPER S,et al.Rab27b is up-regulated in human griscelli syndrome type II melanocytes and linked to the actin cytoskeleton via exon F-myosin Va transcripts[J].Pigment Cell Research,2004,17(5):498-505.   \n[25]WEI Q,WU X F,HAMMER J A.The predominant defect in dilute melanocytes is in melanosome distribution and not cell shape,supporting a role for myosin $\\mathrm { \\Delta V }$ in melanosome transport[J].Journal of Muscle Research and Cell Motility,1997,18(5):517-527.   \n[26]SEIBERG M.Keratinocyte-melanocyte interactions during melanosome transfer[J].Pigment Cell Research,2001,14(4):236-242.   \n[27]GREATENS A,HAKOZAKI T,KOSHOFFER A,et al.Effective inhibition of melanosome transfertokeratinocytesbylectinsandniacinamideisreversible[J].Experimental Dermatol0gy,2005,14(7):498-508.   \n[28]VAN DEN BOSSCHE K V,NAEYAERT J M,LAMBERT J,et al.The quest for the mechanism of melanin transfer[J].Traffic,2006,7(7):769-778.   \n[29]VAEZ M,FOLLETT S A,BED'HOM B,et al.A single point-mutation within the melanophilin gene causes the lavender plumage colour dilution phenotype in the chicken[J].BMC ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "245 Genetics,2008,9(1):7.   \n246 [30] BED'HOM B,VAEZ M,COVILLE J,et al.The lavender plumage colour in Japanese quail is   \n247 associated with a complex mutation in the region of MLPH that is related to differences in   \n248 growth,feed consumption and body temperature[J].BMC Genomics,2012,13:442.   \n249 [31]CIRERA S,MARKAKIS M N,CHRISTENSEN K,et al.New insights into the melanophilin   \n250 (MLPH) gene controlling coat color phenotypes in American mink[J].Gene,2013,527(1):48-54.   \n251 [32]XU J G,XIE M G,ZOU S Y,et al.Interactions of allele E of the MC1R gene with FM and   \n252 mutationsin the MLPH gene cause the five-gray phenotypein the Anyi tile-like gray   \n253 chicken[J].Genetics and Molecular Research,2016,15(2),doi:10.4238/gmr.15027633.   \n254 [33]郑嫩珠,辛清武,缪中纬,等黑色素基因在半番鸭及番鸭不同羽色中的差异表达研究[J].福   \n255 建农业学报,2013,28(5):427-431.   \n256 [34]XU Y,ZHANG X H,PANG Y Z,et al.Association of tyrosinase (TYR) and tyrosinase-related   \n257 protein1(TYRP1） withmelanicplumagecolorinKoreanquails(Coturnix   \n258 coturnix)[J].Asian-Australasian Journal of Animal Sciences,2013,26(11):1518-1522.   \n259 [35]DENOVAN-WRIGHT E M,RAMSEY N B,MCCORMICK C J,et al.Nucleotide sequence of   \n260 transferrin cDNAs and tissue-specific expresson of the transferrin gene in Atlantic cod (Gadus   \n261 morhua)[J].Comparative Biochemistry and Physiology Part B:Biochemistry and Molecular   \n262 Biology,1996,113(2):269-273.   \n263 [36]郑嫩珠,李丽,辛清武,等.酪氨酸酶(TYR)、小眼畸形相关转录因子(Mit)和刺鼠信号蛋白   \n264 (ASIP)基因对白绒乌骨鸡黑色素沉积的遗传效应[J].农业生物技术学   \n265 报,2015,23(8):1076-1083.   \n266 [37]陈志强,邓学梅,周军,等.鸡的酪氨酸酶基因5'调控区的单链构象多态性分析[J].农业生物   \n267 技术学报,2005,13(2):191-194.   \n268 [38]ALALUF S,BARRETT K,BLOUNT M,et al.Ethnic variation in tyrosinase and TYRP1   \n269 expressioninphotoexposedandphotoprotectedhumanskin[J].PigmentCell   \n270 Research,2003,16(1):35-42.   \n271 [39]LI B,HE X L,ZHAO Y P,et al.Tyrosinase-related protein 1 (TYRP1) gene polymorphism and   \n272 skindifferential expressionrelated tocoat colorin Mongolian horse[J].Livestock   \n273 Science,2014,167:58-64.   \n274 [40]刘薇.丝羽乌骨鸡BAC文库的构建和黑色素相关基因TYRP1和 $I D$ 的研究[D].博士学位论   \n275 文.北京:中国农业大学,2004:78-82. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[41]刘甲斐,仇雪梅.黑色素及其相关基因的研究进展[J].生物技术通报,2007(4):55-58. [42]RAPOSO G,MARKS M S.Melanosomes-dark organelles enlighten endosomal membrane transport[J].Nature Reviews Molecular Cell Biology,2007,8(10):786-797.   \n[43]HELLSTROM A R,WATT B,FARD S S,et al.Inactivation of Pmel alters melanosome shape but has only a subtle effect on visible pigmentation[J].PLoS Genetics,2011,7(9):e1002285. [44]KWON B S,HALABAN R,PONNAZHAGAN S,et al.Mouse silver mutation is caused by a single base insertion in the putative cytoplasmic domain of Pmel17[J].Nucleic Acids Research,1995,23(1):154-158.   \n[45]MARTINEZ-ESPARZA M,JIMENEZ-CERVANTES C,BENNETT D C,et al.The mouse silver locus encodes a single transcript truncated by the silver mutation[J].Mammalian Genome,1999,10(12):1168-1171.   \n[46]BRUNBERG E,ANDERSSON L,COTHRAN G,et al.A missense mutation in Pmel17 is associated with the Silver coat color in the horse[J].BMC Genetics,2006,7(1):46-55.   \n[47]KERJE S,SHARMA P M,GUNNARSSON U,et al.The Dominant white,Dun and Smoky color variants in chicken are associated with insertion/deletion polymorphisms in the Pmel17 gene[J].Genetics,2004,168(3):1507-1518.   \n[48]TAKEUCHI S,SUZUKI H,YABUUCHI M,et al.Molecular cloning and sequence analysis of the chick melanocortin-1 receptor gene[J].Biochimica et Biophysica Acta (BBA):Gene Structure and Expressi0n,1996,1306(2/3):122-126.   \n[49]LU D,WILLARD D,PATEL I R,et al.Agoutiprotein isan antagonist ofthe melanocyte-stimulating hormone receptor[J].Nature,1994,371(6500):799-802.   \n[50]杜晓明.边鸡MC1R 和TYR基因序列及mRNA表达研究[D].硕士学位论文.太谷:山西农业 大学,2013:29-41.   \n[51]杨永升,邓学梅,李宁,等.MC1R是控制鸡黑色素形成的候选主效基因[J].生物化学与生物 物理进展,2004,31(6):500-505.   \n[52]LING M K,LAGERSTROM M C,FREDRIKSSON R,et al.Association of feather colour with constitutivelyactivemelanocortin1 receptors inchicken[J].The FEBS Journal,2003,270(7):1441-1449.   \n[53]迟良,李兰,潘庆杰,等.乌骨鸡黑色素皮质激素受体-1基因的克隆、序列分析与原核表达[J]. 中国农业科学,2012,45(5):966-972.   \n[54]VACHTENHEIM J,BOROVANSKY J.\"Transcription physiology” of pigment formation in melanocytes:central role of Mitf[J].Experimental Dermatology,2010,19(7):617-627.   \n[55]ZHU Z,HE J,JIA X,et al.MicroRNA-25 functions in regulation of pigmentation by targeting the transcription factor Mitf in Alpaca (Lama pacos） skin mel-anocytes[J].Domestic Animal Endocrinology,2010,38(3):200-209.   \n[56]LI S J,WANG C,YU W H,et al.Identification of genes related to white and black plumage formationbyRNA-Seqfromwhiteandblackfeatherbulbsinducks[J].PLoS One,2012,7(5):e36592.   \n[57]MINVIELLE F,BED'HOM B,COVILLE J,et al.The “silver” Japanese quail and the Mitf gene:causal mutation,associated traits and homology with the \"blue\" chicken plumage[J].BMC Genetics,2010,11:15.   \n[58]WANG Y,LI S M,HUANG J,et al.Mutations of TYR and Mitf genes are associated with plumagecolourphenotypesingeese[J].Asian-AustralasianJournalofAnimal Sciences,2014,27(6):778-783.   \n[59]郑嫩珠,辛清武,朱志明,等.白绒乌鸡 Mitf基因的cDNA克隆、表达及其对黑色素沉积的影 响[J].中国农业科学,2015,48(18):3711-3718.   \n[60]ISHIDA Y,DAVID V A,EIZIRIK E,et al.A homozygous single-base deletion in MLPH causes the dilute coat color phenotype in the domestic cat[J].Genomics,2006,88(6):698-705.   \n[61] PHILIPP U,HAMANN H,MECKLENBURG L,et al.Polymorphisms within the canine MLPH gene are associated with dilute coat color in dogs[J].BMC Genetics,2005,6:34.   \n[62]FONTANESI L,SCOTTI E,ALLAIN D,et al.A frameshift mutation in the melanophilin gene causesthe dilutecoatcolourin rabbit(Oryctolaguscuniculus） breeds[J].Animal Genetics,2014,45(2):248-255.   \n[63]刘杰,刘毅,王翠,等.鹅MLPH基因分子克隆、组织表达及 SNP 检测[J].中国家 禽,2016,38(12):4-9.   \nMelanin Deposition Mechanism and Related Candidate Genes in Silky Fowls   \nPENG CanyangGUO Songchang LIU Xu XU MingmingQU Xiangyong\\* (College of Animal Science and Technology, Hunan Agricultural University, Hunan Collborative Innovation Center of Safety Animal Production, Changsha 410128, China)   \nAbstract:The blackness of silky fowls, as one of the most important economic traits, is often considered to be very relevant to the nutritional quality and medicinal value. The degree of blackness in silky fowls is mainly aected by the deposition level of melanin.This article reviewed the mechanisms of the synthesis and deposition of melanin,as well as the candidate genes involving melanin deposition, for the purpose of improving outstanding for melanin and promoting molecular breeding plan of silky fowls.   \nKey words: silky fowl; melanin; candidate gene ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

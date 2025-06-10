@@ -1,0 +1,470 @@
+[
+    {
+        "type": "text",
+        "text": "Leaf gas exchange and photosynthesis curves of Elymus nutans and Potentilla anserina under fencing and grazing conditions in the Qilian Mountains, Northwest China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIU Junjie1,WANG Xiaoping², GAO Yunfei', RONG Zhanlei1, ZHANG Guangde1, WANG Wenbin1,GELijuan1,MAO Yahua1,GUO Zhaoxial,ZHAO Chuanyanl ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1State KeyLaboratoryofGrasslandAgro-ecosystems,SchoolofLife Sciences,LanzhouUniversityLanzhou73o,China;   \n²Institute of Arid Meteorology, China Meteorological Administration,Lanzhou 73oo20,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Potentila anserina L.and Elymus nutans Griseb.are dominant species in the subalpine meadows of China. Grazing is one of the most important factors that influence community structure and productivity of subalpine meadows. Understanding how grazing changes photosynthetic capability is essential for preservation and restoration of grasslands. However, information about the efects of grazing on photosynthetic capability remains inadequate. Experiments were conducted in fencing and grazing areas in the Qilian Mountains, Northwest China. The leaf gas exchange and photosynthetic curves of $P .$ anserina and $E$ . nutans were measured at different growth stages. Results showed that grazing decreased the values of leaf gas exchange parameters, such as net photosynthetic rate, stomatal conductance, transpiration rate, and intercellular $\\mathrm { C O } _ { 2 }$ concentration of $P .$ anserina and $E$ 、 nutans. In addition, grazing decreased the values ofnet photosynthetic rate-photosynthetically active radiation $( P _ { \\mathrm { N } ^ { - } } \\mathrm { P A R } )$ curve parameters， such as light-saturated net photosynthetic rate, apparent quantum efficiency, light compensation point, light saturation point, and dark respiration rate. Our results demonstrated that grazing was the primary limiting factor for photosynthesis of dominant grassland species in the study area. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: grazing; diurnal variation; gas exchange;Potentilla anserina; Elymus nutans; photosynthetic capacit ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: LIU Junjie,WANG Xiaoping,GAO Yunfei,RONG Zhanlei, ZHANG Guangde,WANG Wenbin,GELijuan,MAO Yahua,GUO Zhaoxia, ZHAO Chuanyan.2019.Leaf gas exchange and photosynthesis curvesof Elymus nutans and Potentilla anserina under fencing and grazing conditions in the Qilian Mountains,Northwest China.JournalofAridLand, 11(3):431-445.https://doi.0rg/10.1007/s40333-019-0009-6 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Plant growing in natural conditions is limited by multiple environmental factors (i.e., light, water, temperature,and nutrition) and human disturbances (i.e., grazing,land use transformation, mining, deforestation,and environmental pollution) (Guo et al.,2007; Andrew et al., 2016; Busso et al., 2016; Casazza et al., 2016). The effects of environmental factors on plant growth are mainly slow and gradual, whereas those of human activities are mainly rapid and abrupt (Chesson, 2000; Wertin et al., 2015; Humphrey et al., 2016). Grazing,an anthropogenic activity has played an important role in controlling grass growth in natural grasslands. Some researchers have reported that heavy grazing restricts plant growth and production in grasslands (Bai et al.,2O15; Strahan et al., 2015; Pulido et al., 2016),while fencing and light grazing promote the normal growth of herbage (MaLler et al.,2014; Ruizalbarran et al.,2016). On the one hand, grazing directly affects photosynthesis by eating the ground part of grass. On the other hand, grazing affects the soil physical and chemical properties (i.e.， bulk density,water infiltration, soil organic mater, total nitrogen,and total phosphorus） that subsequently influence the ability of plants to assimilate photosynthate; thus, it is the major determinant of the potential productivity of grasslands (Wang et al.,2015; Ren et al.,2016). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Livestock population has increased with increasing human population growth. Thus, grazing areas have expanded worldwide and seriously degraded grasslands (Wang and Wesche, 2016; Qian et al.,2017). Grazing not only controls grassland species diversity and composition, but also affects photosynthetic characteristics of major steppe species (Chen et al., 20o5; Herrero-Jauregui and Oesterheld,2017). Grazing restriction is a common approach for protection of grasslands, including rotational grazing and controlled grazing (Pei et al., 2008; Hu et al., 20o9;Wu et al., 2010; Mekuria, 2013; Zhang et al.， 2013). It is common knowledge that degraded grasslands resulting from overgrazing have been restored under five years after fencing conditions (i.e., five years of no grazing). However, studies on the difference in photosynthetic parameters of plants between under grazing and five years offencing conditions are scarce. Potentilla anserina L. and Elymus nutans Griseb.are $\\mathrm { C } _ { 3 }$ perennial plants and the dominant species of subalpine meadows in China. They have high photosynthetic capacity and good forage quality (Xu et al., 2O06, 2011; Liu et al., 2016). In addition, they have an elaborate root system and high coverage, making them be important species in reducing water and soil losses (Jiao et al.,2009; Zhao et al.,20l7). Heavy grazing has significantly decreased the photosynthetic capacity of these species. However, information on the interaction between grazing and photosynthetic characteristics of these species remains limited.Therefore,this study is conducted to obtain such information by investigating the leaf gas exchange and photosynthetic curves of $P .$ anserina and $E$ .nutans in the subalpine meadows of China. Our objectives are (1) to compare the diurnal patterns of leaf gas exchange parameters of plants under fenzing and grazing conditions for five years; (2） to clarify the response curves of net photosynthetic rate-photosynthetically active radiation $( P _ { \\mathrm { N } } { \\mathrm { - } } \\mathrm { P A R } )$ of plants under two regimes; and (3） to identify the difference in the photosynthetic capacity of plants under two regimes. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1Study area and experimental design ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "OurstudyareaislocatedintheTianlaochiCatchment $( 3 8 ^ { \\circ } 2 3 ^ { \\prime } 5 6 ^ { \\prime \\prime } - 3 8 ^ { \\circ } 2 6 ^ { \\prime } 4 7 ^ { \\prime \\prime } \\mathrm { N } _ { \\mathrm { \\Omega } }$ $9 9 ^ { \\circ } 5 3 ^ { \\prime } 5 7 ^ { \\prime \\prime } { - } 9 9 ^ { \\circ } 5 7 ^ { \\prime } 1 0 ^ { \\prime \\prime } \\mathrm { E } )$ in the central region of the Qilian Mountains,China. Tianlaochi Catchment is part of the upper reaches of the Heihe River, Northwest China,and covers an area of approximately $1 2 . 8 ~ \\mathrm { k m } ^ { 2 }$ with an elevation range between 2660 and $4 4 1 9 \\mathrm { ~ m ~ }$ a.s.l. (Fig. 1). The climate is characterized by short and warm summers and long and cold winters. Annual mean temperature ranges from $- 0 . 6 ^ { \\circ } \\mathrm { C }$ to $2 . 0 ^ { \\circ } \\mathrm { C }$ with a maximum monthly temperature of $1 1 . 6 ^ { \\circ } \\mathrm { C }$ in July and a minimum monthly temperature of $- 1 4 . 5 ^ { \\circ } \\mathrm { C }$ in December. The mean annual precipitation is $4 3 5 . 5 ~ \\mathrm { m m }$ .Precipitation mainly occurs from May to September and accounts for $8 9 . 2 \\%$ of the annual precipitation. Temperature decreases and precipitation increases with increasing elevation. The combination of temperature and precipitation causes a distinct vertical distribution of plant communities. The sequence of plant communities from lower to upper is as folows: desert steppe, forest steppe, subalpine shrub,and subalpine meadow. Subalpine meadow is rich in species and dominated by $P .$ anserina and $E$ .nutans (Table 1). The soil is alpine gray brown soil (approximately $5 0 \\ \\mathrm { c m }$ in depth) and root systems are mainly distributed at the depth of $2 0 ~ \\mathrm { c m }$ ： The physical and chemical properties of the soil in the experimental site are shown in Table 2. Generally, the growth period of $P .$ anserina and $E$ 、 nutans is from late April to early September (Shi et al., 2010). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a2ac20f3b9e832111c499f4a042d2a582d423b48665a2c3599a4a83e44fb1ba.jpg",
+        "img_caption": [
+            "Fig.1Location of study area and sampling plots "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/836e328ffcaa84b3a4f32e391f7d2f2681f0ad3a46a229d956c46d4400a015eb.jpg",
+        "table_caption": [
+            "Table1 Summary of characteristics for the species selected in the experimental site "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Species</td><td>Family</td><td>Life cycle</td><td>Plant type</td><td>Morphological characteristics</td><td>Ecology habit</td><td>Palatability</td></tr><tr><td>P.anserina</td><td>Rosaeeae</td><td>Perennial</td><td>C</td><td>Typical stoloniferous herb</td><td>Cold and drought resistant; sciophiles</td><td>Medium</td></tr><tr><td>E.nutans</td><td>Poaceae</td><td>Perennial</td><td>C3</td><td>Hydrophobic cluster herb</td><td>Cold resistant; heliophile</td><td>High</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The experimental area was fenced to prevent grazing in 2Ol2. Other areas in the subalpine meadow have been overgrazing by livestock (approximately $6 9 1 \\times 1 0 ^ { 3 }$ sheep units） for more than 30 years (Wang et al., 2014). In 2016, we selected one plot with an area of $8 ~ \\mathrm { m } { \\times } 1 2 ~ \\mathrm { m }$ in fencing and grazing regions with a buffer zone of $1 0 ~ \\mathrm { m }$ in width between two plots for protection against disturbance and the edge effect. Both plots have similar slopes and slope positions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/6d57fdd89ef1f1f13bb18ebfb419e292b05c93184614974c91463366eb7f75ba.jpg",
+        "table_caption": [
+            "Table 2Physical and chemical properties of the soil in the experimental site "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Soil property</td><td colspan=\"2\">Component</td><td>Mean</td><td>Coefficient of variation</td></tr><tr><td rowspan=\"6\">Chemical property</td><td colspan=\"2\">Soil organic matter (g/kg)</td><td>94.67</td><td>0.24</td></tr><tr><td colspan=\"2\">Soil organic carbon (g/kg)</td><td>68.43</td><td>0.26</td></tr><tr><td colspan=\"2\">pH</td><td>7.95</td><td>0.11</td></tr><tr><td colspan=\"2\">C/N</td><td>12.71</td><td>0.16</td></tr><tr><td colspan=\"2\">Soil bulk density (g/cm)</td><td>1.00</td><td>0.20</td></tr><tr><td colspan=\"2\">Slope (°)</td><td>11.35</td><td>0.14</td></tr><tr><td rowspan=\"5\">Physical property</td><td colspan=\"2\">Soil thickness (m)</td><td>0.44</td><td>0.12</td></tr><tr><td colspan=\"2\">Soil total porosity (%)</td><td>62.28</td><td>0.12</td></tr><tr><td rowspan=\"3\">Soil texture (%)</td><td>Sand</td><td>24.31 52.65</td><td>0.21 0.12</td></tr><tr><td>Silt</td><td></td><td></td></tr><tr><td>Clay</td><td>23.04</td><td>0.11</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Data collection ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Each plot was divided into six subplots( $( 4 ~ \\mathrm { m } { \\times } 4 ~ \\mathrm { m } )$ .Photosynthetic parameters, including gas exchange parameters and $P _ { \\mathrm { N } }$ -PAR response curves were measured for each subplot with six duplicates. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Gas exchange parameters were measured during one completely sunny day in each month of the growing season (i.e., June, July,and August in 2016). Three plants of each species with similar growth status were selected from the center of each subplot. One leaf was selected per plant. Selection criteria are leaves being newly expanded, healthy,and at the similar growing positions. The middle section of the selected leaf was measured at 1-hour intervals from 08:00 (LST） to 20:00 using a portable photosynthesis system (LI-6400,LI-COR Inc.， Lincoln， NE, USA). We obtained the following gas exchange parameters, i.e.， net photosynthetic rate $( P _ { \\mathrm { N } } )$ ， transpiration rate $( E )$ ，stomatal conductance $( g _ { \\mathrm { s } } )$ ，and intercellular $\\mathrm { C O } _ { 2 }$ concentration $\\left( C _ { \\mathrm { i } } \\right)$ ： Environmental parameters, such as photosynthetically active radiation (PAR)，ambient $\\mathrm { C O } _ { 2 }$ （204号 concentration $( C _ { \\mathrm { { a } } } )$ ， air temperature $( T _ { \\mathrm { A I R } } )$ ， leaf temperature $( T _ { \\mathrm { L E A F } } )$ ， vapor pressure deficiency (VPD),and relative humidity (RH), were simultaneously obtained. Diurnal mean values of $P _ { \\mathrm { N } , E }$ 0 $g _ { \\mathrm { s } } ,$ and $C _ { \\mathrm { i } }$ were obtained by averaging the hourly values over the period from O8:0O to 20:00. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The $P _ { \\mathrm { N } }$ -PAR response curves of the leaves were determined by gas exchange parameters using the LI-6400 portable photosynthesis system with a red-blue LED light source (6400-02B). $P _ { \\mathrm { N } }$ was obtained from the selected leaf after $2 0 \\ \\mathrm { m i n }$ of illumination at a photosynthetic photon flux density (PPFD）of $2 0 0 0 \\ \\mathrm { \\textmu m o l / ( m } ^ { 2 } { \\cdot } \\mathrm { s } ) .$ ： $P _ { \\mathrm { N } }$ -PAR response curves were obtained at 14 levels of PPFD(i.e.,2000,1800,1500,1200,1000,800,600,400,200,150,100,50,20, $0 ~ \\mu \\mathrm { m o l } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { s } ) )$ （204号 under natural conditions from O9:3O to 11:30. $P _ { \\mathrm { N } }$ -PAR response curves were fitted by the highly popular nonrectangular hyperbola (NRH) equation (Marshall and Biscoe,1980; Thornley,1998; Prieto et al.,2010; Calama et al.,2013),which is expressed as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { \\mathrm { { N } } } ( I ) = \\frac { \\alpha I + P _ { \\mathrm { { N m a x e a l } } } - \\sqrt { ( \\alpha I + P _ { \\mathrm { { N m a x e a l } } } ) ^ { 2 } - 4 \\theta \\alpha I P _ { \\mathrm { { N m a x e a l } } } } } { 2 \\theta } - R _ { \\mathrm { { D } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\alpha$ is the initial slope of the photosynthetic light-response (PLR) curves (i.e.，apparent quantum efficiency， AQE); $I$ is the PPED $( \\mu \\mathrm { m o l } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { s } ) )$ $\\theta$ is the convexity; $P _ { \\mathrm { N m a x c a l } }$ is the calculated maximum net photosynthetic rate $\\mathrm { ( \\mu m o l ~ C O _ { 2 } / ( m ^ { 2 } { \\cdot } s ) ) }$ ；and $R _ { \\mathrm { D } }$ is the dark respiration inferred from response curves $( \\mu \\mathrm { m o l } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { s } ) )$ . Parameters $\\alpha , \\theta , P _ { \\mathrm { N m a x c a l } } ,$ and $R _ { \\mathrm { D } }$ were estimated using the nonlinear regression module in the SPSS statistical package (Version 16.0 for Windows, SPSS, Chicago, $\\mathrm { I L }$ ,USA). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "After photosynthetic parameters were acquired, the following indices for the photosynthetic capacity of plants were obtained,i.e., water-use efficiency (WUE), stomatal limitation value $( L _ { \\mathrm { s } } )$ light compensation point (LCP), light saturation point ( $\\mathrm { ( L S P _ { o b s } ) }$ ,and variation ratio (VR). WUE was calculated as follows (Nijs et al., 1997): ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { W U E } = P _ { \\mathrm { N } } / E .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$L _ { \\mathrm { s } }$ is expressed as follows (Berry and Downton,1982): ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\scriptstyle { L _ { \\mathrm { s } } = 1 - C _ { \\mathrm { i } } / C _ { \\mathrm { a } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "LCP,which occurred in the PPFD range of $0 { - } 2 0 0 ~ \\mu \\mathrm { m o l / ( m } ^ { 2 } { \\cdot } \\mathrm { s ) }$ ，was estimated from the linear section of the $P _ { \\mathrm { N } }$ -PAR response curves (Singsaas et al., 2oo1). The linear section was fitted with a linear function,and LCP was the intercept between the linear function and $x$ -axis of PPFD.The observed maximum net photosynthetic rate, which was designated as $P _ { \\mathrm { N m a x o b s } }$ , was observed at 14 levels of PPFD. The point of PPFD that corresponded with $P _ { \\mathrm { N m a x o b s } }$ was $\\mathrm { L S P _ { o b s } }$ . VR was the ratio between the deviations in two regions to the values in grazing plot. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We used SPSS (Version 19.0, SPSS Inc., Chicago, IL, USA) and Sigmaplot (Version 12.5, Systat Software Inc., San Jose, CA, USA) statistical packages to analyze measurements.The effects of fencing after years on the photosynthetic capacity of the selected species were analyzed using one-way ANOVA $( P { < } 0 . 0 5 )$ . Differences in photosynthetic parameters between grazing and fencing plots were compared using least significant difference (LSD) multiple range tests at the 0.05 probability level. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1Diurnal variations in environmental parameters ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PAR ranged from 62.03 to $2 1 3 0 . 6 5 ~ { \\mu \\mathrm { m o l / ( m } } ^ { 2 } { \\cdot } { \\mathrm { s } } )$ during the measurement period. The highest daily values for the measurement in three days occurred at 13:00 (Fig. 2al) and 14:00 (Figs. 2bl and c1). The variation trend in $C _ { \\mathrm { a } }$ during the observation period was expressed as a \"W\" shape (Figs. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2a1,b1,and c1).The maximum $C _ { \\mathrm { a } }$ value was observed at O8:Oo, then decreased and reached a lower value at 11:0o, then increased and reached a higher value at 14:OO,and then decreased to the lowest value at approximately 18:0o, from then increased again until 2O:00. The diurnal patterns of TAIR and $T _ { \\mathrm { L E A F } }$ were similar, and their maximum values appeared at approximately 13:00 (Figs.2a2,b2,and c2). The maximum and minimum values of RH were observed at 08:00 and at approximately 14:00, respectively. The diurnal pattern of VPD was opposite to that of RH (Figs. 2a3,b3,and c3). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/65c90db9dee5b03b3cfa42cc8dec48de1cea4db650ebb964a7398f7e80c17e70.jpg",
+        "img_caption": [
+            "",
+            "Fig.2Diurnal variations of photosynthetically active radiation (PAR)(al，bl，and c1)，ambient $\\mathrm { C O } _ { 2 }$ concentration $\\left( C _ { \\mathrm { { a } } } \\right)$ (al,bl,and c1),air temperature ( $T _ { \\mathrm { A I R } } )$ (a2,b2,and c2),leaf temperature ( $\\left( T _ { \\mathrm { L E A F } } \\right)$ (a2,b2,and c2),relative humidity (RH)(a3,b3,and c3),and vapor pressure deficient (VPD)(a3,b3,and c3).a,b,and c are the dates of 25 June,23 July,and 26 August in 2016,respectively. Bars mean standard errors; $n { = } 6$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2Diurnal variations in photosynthetic parameters ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "According to plant growth period,we chose the early $( 2 5 \\ \\mathrm { J u n e } )$ ，medium (23 July） and late（26 August） stages of plant growth for the measurement of the photosynthetic parameters. Diurnal variations in $P _ { \\mathrm { N } } , E$ and $g _ { \\mathrm { s } }$ exhibited double-peaked curves under grazing and fencing conditions (Figs.3 and 4). There existed lower values between two peaks.This phenomenon, which is called midday photosynthetic depression, occurred from 12:00 to 16:0o (Figs. 3a1,b1,and c1 and Figs. 4a1, b1, and c1). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 Diurnal patterns of photosynthetic parameters for $E$ nutans Under fencing conditions, the maximum values of $P _ { \\mathrm { N } }$ on 25 June,23 July, and 26 August were 13.20,16.40,and $1 4 . 9 2 ~ \\mathrm { \\mu m o l }$ （ $\\mathrm { C O } _ { 2 } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { s } )$ ，respectively. The maximum values in grazing plot were lower than those in fencing plot. The first peak occurred at 11:OO under fencing and grazing conditions. The second peak occurred at approximately 17:30 for both regimes (Figs.3al,bl,and c1). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d2c57d0a39da828c54f1e21afc9cfb1006cb68ecc46084cd869185c5013ff499.jpg",
+        "img_caption": [
+            "Fig.3Diurnal patterns of net photosynthetic rate $( P _ { \\mathrm { N } } )$ (al,bl,and cl),transpiration rate $( E )$ (a2,b2,and c2), stomatal conductance $( g _ { \\mathrm { s } } )$ (a3,b3,and c3)，intercellular $\\mathrm { C O } _ { 2 }$ concentration $\\left( C _ { \\mathrm { i } } \\right)$ (a4，b4,and c4)，stomatal limitation value $( L _ { \\mathrm { s } } )$ (a5,b5,and c5),and water-use efficiency(WUE) (a6,b6,and c6) for $E$ 、nutans grown in fencing and grazing plots. a, $\\boldsymbol { \\mathbf { b } }$ and c are the dates of 25 June,23 July,and 26 August in 2016,respectively. Bars mean standard errors; $n { = } 6$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The diurnal patterns of $E$ and $g _ { \\mathrm { s } }$ were similar to that of $P _ { \\mathrm { N } }$ and formed an \"M\" shape. $E$ and $g _ { \\mathrm { s } }$ increased with time and the first peak occurred at 11:OO and then decreased and reached the lower values at approximately 15:00,after that, $E$ and $g _ { \\mathrm { s } }$ increased again to the second peak at approximately 17:30,and then， declined until 20:00 (Figs. 3a2,b2,and c2).However, the maximum $g _ { \\mathrm { s } }$ values occurred 1 h earlier in fencing plot than in grazing plot on 26 August (Figs. 3a3, b3,and c3). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The diurnal pattern of $C _ { \\mathrm { i } }$ differed from those of $P _ { \\mathrm { N } } , E$ and $g _ { \\mathrm { s } }$ . In our study area, $C _ { \\mathrm { i } }$ firstly reached the maximum values at O8:0O except on 26 August, then decreased and reached the daily minimum values at approximately 12:00,and remained at the low levels for approximately $5 \\mathrm { ~ h ~ }$ until 17:0o (Figs.3a4, b4,and c4). The trends of the diurnal variations in $L _ { \\mathrm { s } }$ were opposed to ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "those of $C _ { \\mathrm { i } }$ (Figs.3a5,b5,and c5). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Diurnal variations in WUE followed an \"L\" shape under fencing and grazing conditions. The maximum WUE appeared at O8:00,then sharply declined to a lower value approximately at 09:00. and remained the low level for approximately $1 1 \\mathrm { ~ h ~ }$ (Figs. 3a6, b6,and c6). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Through statistical analysis,we found that there were significantly different photosynthetic parameters in fencing and grazing plots (Table 3). The daily mean values of photosynthetic parameters $( P _ { \\mathrm { N } } , E , g _ { \\mathrm { s } } ,$ and $C _ { \\mathrm { i } }$ ) in fencing plot were significantly higher than those in grazing plot. On the contrary, the daily mean values of $L _ { \\mathrm { s } }$ in fencing plot were significantly lower than those in grazing plot. There were no significantly differences of WUE on 23 July between fencing and grazing plots. In addition, the daily mean values of parameters $( E , g _ { \\mathrm { s } } , C _ { \\mathrm { i } }$ ，and $L _ { \\mathrm { s } } ^ { \\mathrm { \\Delta } }$ ）significantly differed on diferent observation dates in fencing plot，while daily mean values of WUE significantly differed on different observation dates in grazing plot (Table 4). Under fencing condition, the percentages of variation of the $P _ { \\mathrm { N } } , E , g _ { \\mathrm { s } } , C _ { \\mathrm { i } } , L _ { \\mathrm { s } } ,$ ，and WUE for the $E$ nutans were $30 . 3 \\%$ 0 $2 6 . 1 \\%$ ， $4 1 . 3 \\%$ $9 . 7 \\%$ ， $- 1 7 . 8 \\%$ ,and $4 . 5 \\%$ ,respectively (Table 3). ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/0949e7752727bd9a15d08c325e3dd381e1ef92685a054e33953402bb3fa19630.jpg",
+        "table_caption": [
+            "Table3Analysis of differences of $P _ { \\mathrm { N } } , E , g _ { \\mathrm { s } } , C _ { \\mathrm { i } } , L _ { \\mathrm { s } }$ ,andWUE for $E$ 、nutans and $P .$ anserina in fencing plots "
+        ],
+        "table_footnote": [
+            "Note: $P _ { \\mathrm { N } }$ ，net photosynthetic rate; $E$ ，transpiration rate; $g _ { \\mathrm { s } } ,$ stomatal conductance; $C _ { \\mathrm { i } }$ ,intercellular $\\mathrm { C O } _ { 2 }$ concentration; $L _ { \\mathrm { s } } ,$ ，stomatal limitation value；WUE,water-use eficiency. $*$ and $^ { * * }$ indicate the significances at $\\scriptstyle P < 0 . 0 5$ and $P { < } 0 . 0 1$ levels,respectively;NS,not significant.VR,variationratio. "
+        ],
+        "table_body": "<html><body><table><tr><td>Species</td><td>Regime</td><td>Date</td><td>PN/(VR)</td><td>E/(VR)</td><td>gs/(VR)</td><td>Ci/(VR)</td><td>Ls/(VR)</td><td>WUE/(VR)</td></tr><tr><td rowspan=\"4\">E.nutans</td><td rowspan=\"4\">Fencing</td><td>25 June</td><td>**/(24.0%)</td><td>**/(18.8%)</td><td>**/(20.9%)</td><td>**/(6.7%)</td><td>**/(-12.5%)</td><td>*/(3.6%)</td></tr><tr><td>23 July</td><td>**/(18.3%)</td><td>**/(17.9%)</td><td>**/(20.7%)</td><td>**/(3.3%)</td><td>**/(-7.5%)</td><td>*/(1.1%)</td></tr><tr><td>26 August</td><td>**/(48.5%)</td><td>**/(41.6%)</td><td>**/(82.3%)</td><td>**/(19.0%)</td><td>**/(-33.4%)</td><td>**/(9.0%)</td></tr><tr><td>Total</td><td>**/(30.3%)</td><td>**/(26.1%)</td><td>**/(41.3%)</td><td>**/(9.7%)</td><td>**/(-17.8%)</td><td>*/(4.5%)</td></tr><tr><td rowspan=\"4\">P.anserina</td><td rowspan=\"4\">Fencing</td><td>25 June</td><td>**/(19.9%)</td><td>**/(17.0%)</td><td>**/(10.6%)</td><td>**/(6.7%)</td><td>**/(-17.1%)</td><td>*/(4.0%)</td></tr><tr><td>23 July</td><td>**/(14.7%)</td><td>**/(18.3%)</td><td>**/(7.8%)</td><td>**/(5.8%)</td><td>**/(-18.2%)</td><td>*/(0.3%)</td></tr><tr><td>26 August</td><td>**/(11.6%)</td><td>NS/(4.0%)</td><td>NS/(8.9%)</td><td>NS/(0.7%)</td><td>NS/(-2.0%)</td><td>NS/(5.2%)</td></tr><tr><td>Total</td><td>**/(15.4%)</td><td>*/(13.1%)</td><td>*/(9.1%)</td><td>*/(4.4%)</td><td>*/(-12.5%)</td><td>NS/(3.1%)</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2.2Diurnal patterns of photosynthetic parameters for $P .$ anserina ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Under fencing conditions, the maximum values of $P _ { \\mathrm { N } }$ on 25 June,23 July,and 26 August were 19.84, 22.91 and $1 8 . 9 9 ~ \\mathrm { \\mu m o l }$ （204号 $\\mathrm { C O } _ { 2 } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { s } )$ , respectively (Fig. 4). The maximum values in fencing plot were significantly higher than those in grazing plot. The peak values occurred at the same time as $E$ 、nutans (Figs. 4al,bl,and c1). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The diurnal patterns of $E$ and $g _ { \\mathrm { s } }$ were similar to that of $P _ { \\mathrm { N } }$ .However, the second peak values of $E$ and $g _ { \\mathrm { s } }$ occurred $^ { \\textrm { 1 h } }$ later on 23 July and 26 August than those of $P _ { \\mathrm { N } }$ in fencing and grazing plots (Figs. 4b2, c2 and Figs. 4b3,c3). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Diurnal pattern of $C _ { \\mathrm { i } }$ differed from that of $P _ { \\mathrm { N } }$ ，The maximum $C _ { \\mathrm { i } }$ values occurred at 08:00, decreased to the daily minimum values at approximately 15:00,and remained at low levels for approximately $^ { 4 \\mathrm { ~ h ~ } }$ until 19:0o (Figs. 4a4,b4,and c4). The trends of the diurnal variations in $L _ { \\mathrm { s } }$ were opposed to those of $C _ { \\mathrm { i } }$ (Figs. 4a5,b5,and c5). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The diurnal pattern of WUE followed an \"L\" shape under two regimes. The maximum values of WUE appeared at O8:00, declined sharply to lower value at approximately 09:00 except on 25 June,and remained low for approximately $1 0 \\mathrm { { h } }$ (Figs. 4a6,b6,and c6). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Through statistical analysis, there were significantly different photosynthetic parameters on 25 June and 23 July in fencing and grazing plots. There were no significantly differences of these parameters $( E , g _ { \\mathrm { s } } , C _ { \\mathrm { i } } , L _ { \\mathrm { s } } ,$ ,and WUE) on 26 August under two regimes (Table 3). The daily mean values of photosynthetic parameters $( P _ { \\mathrm { N } } , E , g _ { \\mathrm { s } }$ ，and $C _ { \\mathrm { i } }$ ） were significantly higher in fencing plot than in grazing plot on 25 June and 23 July. On the contrary, the daily mean values of $L _ { \\mathrm { s } }$ were significantly lower in fencing plot than in grazing plot on 25 June and 23 July.Furthermore, the daily mean values of $g _ { \\mathrm { s } } , C _ { \\mathrm { i } } ,$ and $L _ { \\mathrm { s } }$ significantly differed on different observation dates both in grazing and fencing plots. Daily mean values of $P _ { \\mathrm { N } }$ and $E$ significantly differed on different observation dates in fencing plot (Table 4). Compared with grazing plot, the percentages of variation of the $P _ { \\mathrm { N } } , E , g _ { \\mathrm { s } } , C _ { \\mathrm { i } } , L _ { \\mathrm { s } }$ ,and WUE in fencing plot for the $P$ . anserina were $1 5 . 4 \\%$ $1 3 . 1 \\%$ ， $9 . 1 \\%$ 0 $4 . 4 \\%$ $- 1 2 . 5 \\%$ ,and $3 . 1 \\%$ , respectively (Table 3). ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/959ee3b3af7ba3c99414052540b85b6d82354a5e321dbf50713716acff7f2428.jpg",
+        "table_caption": [
+            "Table 4 Daily photosynthetic parameters $( P _ { \\mathrm { N } } , E , g _ { \\mathrm { s } } , C _ { \\mathrm { i } } , L _ { \\mathrm { s } }$ ,and WUE) in $E$ nutans and $P .$ anserina on different measuring dates in fencing and grazing plots "
+        ],
+        "table_footnote": [
+            "Note: $P _ { \\mathrm { { N } } }$ ，net photosynthetic rate; $E$ ,transpiration rate; $g _ { s } ,$ stomatal conductance; $C _ { \\mathrm { i } }$ ,intercellular $\\mathrm { C O } _ { 2 }$ concentration; $L _ { \\mathrm { s } }$ ，stomatal limitationvalue;WUE,water-useefficiency.Differentlowercase lettrs meansignificant diferences inthesame treatmentat $P { < } 0 . 0 5$ （204号 levelunderdiferentobservationdates.Diferentuppercaselettrs indicatesignificantdiferencesonthesamemeasuringdateat $\\scriptstyle P < 0 . 0 5$ level under two treatments.Mean $\\pm \\mathrm { S E }$ $n { = } 6$ "
+        ],
+        "table_body": "<html><body><table><tr><td>Species</td><td>Parameter</td><td>Treatment</td><td>25 June</td><td>23 July</td><td>26 August</td></tr><tr><td rowspan=\"10\">E.nutans</td><td rowspan=\"2\">PN (μmol CO/(m2·s))</td><td>Grazing</td><td>6.80±0.36bB</td><td>8.56±0.40aB</td><td>7.01±0.31bB</td></tr><tr><td>Fencing</td><td>8.43±0.32bA</td><td>10.12±0.35aA</td><td>10.40±0.33aA</td></tr><tr><td rowspan=\"2\">E (mmol HO)/(m²·s))</td><td>Grazing</td><td>3.63±0.05bB</td><td>4.80±0.08aB</td><td>3.68±0.08bB</td></tr><tr><td>Fencing</td><td>4.31±0.21cA</td><td>5.67±0.22aA</td><td>5.22±0.24bA</td></tr><tr><td rowspan=\"2\">gs (mol HO/(m²·s))</td><td>Grazing</td><td>0.111±0.007bB</td><td>0.136±0.010aB</td><td>0.104±0.008bB</td></tr><tr><td>Fencing</td><td>0.134±0.005cA</td><td>0.164±0.011bA</td><td>0.190±0.004aA</td></tr><tr><td rowspan=\"2\">Ci (μmol COz/mol)</td><td>Grazing</td><td>248.20±10.5bB</td><td>263.80±6.30aB</td><td>241.40±7.40bB</td></tr><tr><td>Fencing</td><td>264.80±6.80cA</td><td>272.50±2.40bA</td><td>287.40±10.80aA</td></tr><tr><td rowspan=\"2\">Ls</td><td>Grazing</td><td>0.348±0.028aA</td><td>0.304±0.017bA</td><td>0.363±0.020aA</td></tr><tr><td>Fencing</td><td>0.304±0.018aB</td><td>0.281±0.006bB</td><td>0.241±0.029cB</td></tr><tr><td rowspan=\"2\">WUE (mol COz/mol HO)</td><td>Grazing</td><td>2.29±0.06aB</td><td>2.07±0.07cA</td><td>2.19±0.08bB</td></tr><tr><td>Fencing</td><td>2.37±0.07aA</td><td>2.10±0.05bA</td><td>2.39±0.07aA</td></tr><tr><td rowspan=\"9\">P. anserina</td><td rowspan=\"2\">PN (umol CO/(m²·s))</td><td>Grazing</td><td>11.95±0.59bB</td><td>14.52±0.59aB</td><td>11.38±0.65bB</td></tr><tr><td>Fencing</td><td>14.33±0.62bA</td><td>16.67±0.45aA</td><td>12.70±0.67cA</td></tr><tr><td rowspan=\"2\">E (mmol HO/(m²·s))</td><td>Grazing</td><td>4.83±0.09bB</td><td>6.11±0.13aB</td><td>4.80±0.25bA</td></tr><tr><td>Fencing</td><td>5.65±0.20bA</td><td>7.23±0.16aA</td><td>5.00±0.26cA</td></tr><tr><td rowspan=\"2\">gs (mol HO/(m²s))</td><td>Grazing</td><td>0.303±0.019bB</td><td>0.464±0.011aB</td><td>0.267±0.003cA</td></tr><tr><td>Fencing</td><td>0.335±0.029bA</td><td>0.500±0.008aA</td><td>0.291±0.006cA</td></tr><tr><td rowspan=\"2\">Ci (μmol CO/mol)</td><td>Grazing</td><td>273.80±0.90cB</td><td>287.40±1.50aB</td><td>280.40±0.20bA</td></tr><tr><td>Fencing</td><td>292.20±1.10bA</td><td>304.10±0.10aA</td><td>282.40±0.60cA</td></tr><tr><td rowspan=\"2\">Ls</td><td>Grazing</td><td>0.280±0.002aA</td><td>0.242±0.004bA</td><td>0.260±0.001cA</td></tr><tr><td>Fencing</td><td>0.232±0.003cB</td><td>0.198±0.001bB</td><td>0.255±0.002aA</td></tr><tr><td rowspan=\"2\">WUE (mol COz/mol HO)</td><td>Grazing</td><td>3.06±0.14bB</td><td>3.03±0.14bA</td><td>3.22±0.45aA</td></tr><tr><td>Fencing</td><td>3.19±0.14abA</td><td>3.04±0.09bA</td><td>3.39±0.29aA</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3 $P _ { \\mathrm { { N } } }$ -PAR curves ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The $P _ { \\mathrm { N } }$ -PAR response curves were well fited by NRH ( $R ^ { 2 } { > } 0 . 9 9 7$ ; Fig. 5; Table 5), suggesting that these two species exhibited distinct light saturation phenomenon. Differences of PNmaxobs, $P _ { \\mathrm { N m a x c a l } ; }$ ，AQE (i.e., $\\mathfrak { a }$ in Equation 1), $R _ { \\mathrm { { D } } }$ ，LCP,and $\\mathrm { L S P _ { o b s } }$ in two included species between fencing and grazing plots were statistically significant (Table 6). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The values of $P _ { \\mathrm { N m a x o b s } }$ 0 $P _ { \\mathrm { N m a x c a l } }$ ,AQE, $R _ { \\mathrm { D } }$ ,LCP,and $\\mathrm { L S P _ { o b s } }$ from $E$ nutans and $P .$ anserina on different measuring dates in fencing plot were significantly higher than their corresponding values in grazing plot (Table 5). Significant differences were found in parameters (PNmaxobs, $P _ { \\mathrm { N m a x c a l } }$ $R _ { \\mathrm { { D } } }$ and $\\mathrm { L S P _ { o b s } } ,$ ）for both species among three measurement dates within a given regime. Under grazing conditions, the AQE of $E$ 、nutans was not significantly different between 23 July and 26 August, and $P .$ anserina exhibited the same results between 25 June and 26 August. The LCP values of $E$ . nutans between 25 June and 26 August were not significantly different under grazing conditions but were significantly different under fencing conditions. LCP values of $E$ nutans between 23 July and 26 August were not significantly diferent under fencing conditions but were significantly different under grazing conditions. The LCP values of $P .$ anserina were significantly different between two regimes,and across different observation dates. The maximum parameter values (PNmaxobs, $P _ { \\mathrm { N m a x c a l } }$ ，AQE, $R _ { \\mathrm { { D } } }$ ，LCP，and $\\mathrm { L S P _ { o b s } } \\mathrm { , }$ of $E$ . nutans occurred on 23 July in grazing plot, and on 26 August in fencing plot. Whereas the minimum parameter values of $E$ nutans occurred on 25 June in both grazing and fencing plots. For each plot of $P .$ anserina, the maximum and minimum parameter values (PNmaxobs， $P _ { \\mathrm { N m a x c a l } }$ ，AQE， $R _ { \\mathrm { D } } .$ ，LCP，and $\\mathrm { L S P _ { o b s } ) }$ occurred on 23 July and 25 June,respectively. $P _ { \\mathrm { N m a x o b s } }$ and $P _ { \\mathrm { N m a x c a l } }$ exhibited similar variation trends across different observation dates and under both regimes (Table 5). However, $P _ { \\mathrm { N m a x c a l } }$ was higher than $P _ { \\mathrm { N m a x o b s } }$ for both species under both regimes. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/7fa1ec4444c06abdd038b18ef186348ffa306b1cde486c382283627f1ce921ce.jpg",
+        "img_caption": [
+            "Time (LST) ",
+            "Fig.4Diurnal patterns of net photosynthetic rate $( P _ { \\mathrm { N } } )$ (al,bl,and cl), transpiration rate $( E )$ (a2,b2,and c2), stomatal conductance $( g _ { \\mathrm { s } } )$ (a3，b3,and c3)，intercellular $\\mathrm { C O } _ { 2 }$ concentration $\\left( C _ { \\mathrm { i } } \\right)$ (a4，b4,and c4)，stomatal limitation value $( L _ { \\mathrm { s } } )$ (a5,b5,and c5),and water-use efficiency (WUE) (a6,b6,and c6) for $P .$ anserina grown in fencing and grazing plots.a,band c are the dates of 25 June,23 July,and26 August in 20l6,respectively. Bars mean standard errors; $n { = } 6$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/42b224cb9dda079c899a074fd2ee106e2d561e5d5025b8d3d97fcb35130adb89.jpg",
+        "img_caption": [
+            "Fig.5 $P _ { \\mathrm { N } }$ -PAR(net photosynthetic rate-photosynthetically active radiation) response curves for $E$ nutans (a1, bl,and c1) and $P .$ anserina (a2,b2,and c2) under different measuring dates in fencing and grazing plots.a,b,and c are the dates of 25 June,23 July,and 26 August in 2016,respectively.Bars mean standard errors; $n { = } 6$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/644cc9bd6422c7d8786195602d229bdee93a1c807c340a6d4e2bbbb8fdccaa53.jpg",
+        "table_caption": [
+            "Table 5Values of parameters ( $P _ { \\mathrm { N m a x o b s } }$ $P _ { \\mathrm { N m a x c a l } }$ AQE, $R _ { \\mathrm { { D } } }$ ,LCP,and $\\mathrm { L S P _ { o b s } } \\mathrm { \\dot { } }$ for $E$ nutans and $P .$ anserina on different measuring dates in fencing and grazing plots "
+        ],
+        "table_footnote": [
+            "Note: $P _ { \\mathrm { N m a x o b s } } .$ ，observed maximum net photosynthetic rate; $P _ { \\mathrm { N m a x c a l } } .$ ，calculated maximum net photosynthetic rate;AQE,apparent quantum efficiency; $R _ { \\mathrm { D } }$ ,darkrespiration;LCP,light compensation point; $\\mathrm { L S P _ { o b s , } }$ light saturation point; The abbreviations are the same as in Table 6.Mean±SD; $\\scriptstyle n = 6 . { \\overline { { \\cal R } } } ^ { 2 }$ ，coefficient of determination.Different uppercase lettrs mean significant differences for each parameter between two treatments on the same measuring date $( P { < } 0 . 0 5 )$ .Different lowercase letters mean significant differences among different observation dates for the same treatment $_ { ( P < 0 . 0 5 ) }$ "
+        ],
+        "table_body": "<html><body><table><tr><td>Species</td><td>Parameter</td><td>Treatment</td><td>25 June</td><td>23July</td><td>26 August</td></tr><tr><td rowspan=\"10\">E. nutans</td><td rowspan=\"2\">PNmaxobs (μmol CO/(m²·s))</td><td>Grazing</td><td>12.46±0.08cB</td><td>15.38±0.08aB</td><td>12.96±0.08bB</td></tr><tr><td>Fencing</td><td>15.58±0.10cA</td><td>17.46±0.05bA</td><td>18.26±0.06aA</td></tr><tr><td rowspan=\"2\">PNmaxcal(μmol CO2/(m²-s))</td><td>Grazing</td><td>14.11±0.09cB</td><td>17.84±0.08aB</td><td>14.86±0.21bB</td></tr><tr><td>Fencing</td><td>17.99±0.12cA</td><td>19.69±0.07bA</td><td>20.45±0.14aA</td></tr><tr><td rowspan=\"2\">AQE (μmol CO/μmol photon)</td><td>Grazing</td><td>0.044±0.001bB</td><td>0.049±0.001aB</td><td>0.047±0.001aB</td></tr><tr><td>Fencing</td><td>0.049±0.001cA</td><td>0.051±0.001bA</td><td>0.059±0.001aA</td></tr><tr><td rowspan=\"2\">RD (μmol CO2/(m²-s))</td><td>Grazing</td><td>1.052±0.042cB</td><td>1.323±0.017aB</td><td>1.141±0.013bB</td></tr><tr><td>Fencing</td><td>1.284±0.018cA</td><td>1.490±0.042bA</td><td>1.792±0.036aA</td></tr><tr><td rowspan=\"2\">LCP (μmol photon/(m²-s))</td><td>Grazing</td><td>23.72±0.90bB</td><td>28.47±0.54aB</td><td>24.34±0.77bB</td></tr><tr><td>Fencing</td><td>27.91±0.48bA</td><td>31.53±0.92aA</td><td>32.08±0.29aA</td></tr><tr><td rowspan=\"3\">LSPobs (μmol photon/(m2-s))</td><td>Grazing</td><td>1109.40±7.10cB</td><td>1193.80±3.30aB</td><td>1141.80±6.40bB</td></tr><tr><td>Fencing</td><td>1199.40±6.30cA</td><td>1256.60±7.10bA</td><td>1291.20±8.70aA</td></tr><tr><td>Grazing</td><td>0.997</td><td>0.999</td><td>0.998</td></tr><tr><td rowspan=\"2\">PNmaxobs (μmol CO2/(m²·s))</td><td>Fencing</td><td>0.998</td><td>0.997</td><td>0.997</td></tr><tr><td>Grazing</td><td>14.65±0.03bB</td><td>18.39±0.06aB</td><td>12.99±0.03cb</td></tr><tr><td rowspan=\"9\">P anserina</td><td rowspan=\"2\"></td><td>Fencing</td><td>17.90±0.04bA</td><td>20.25±0.11aA</td><td>15.67±0.04cA</td></tr><tr><td>Grazing</td><td>17.24±0.05bB</td><td>21.07±0.09aB</td><td>14.66±0.06cB</td></tr><tr><td rowspan=\"2\">PNmaxcal(μmol CO/(m²-s)) AQE (μmol CO/μmol</td><td>Fencing</td><td>22.86±0.15bA</td><td>24.07±0.10aA</td><td>18.31±0.06cA</td></tr><tr><td>Grazing</td><td>0.046±0.001bB</td><td></td><td></td></tr><tr><td rowspan=\"2\">photon)</td><td></td><td>0.050±0.001bA</td><td>0.048±0.001aB 0.055±0.001aA</td><td>0.045±0.001bB 0.048±0.001cA</td></tr><tr><td>Fencing Grazing</td><td>0.982±0.019bB</td><td>1.511±0.018aB</td><td>0.886±0.043cB</td></tr><tr><td rowspan=\"2\">RD (μmol CO2/(m²s))</td><td>Fencing</td><td>1.343±0.023bA</td><td>1.791±0.087aA</td><td>1.136±0.016cA</td></tr><tr><td>Grazing</td><td>21.79±0.41bB</td><td>32.99±0.47aB</td><td>18.94±0.95cB</td></tr><tr><td rowspan=\"2\">LCP(μmol photon/(m²·s)) LSPobs (μmol</td><td>Fencing</td><td>29.83±0.87bA</td><td>35.18±1.64aA</td><td>24.33±0.57cA</td></tr><tr><td></td><td>1405.40±7.10bB</td><td></td><td></td></tr><tr><td rowspan=\"2\">photon/(m2-s))</td><td>Grazing</td><td></td><td>1498.50±4.40aB</td><td>1388.30±5.40cB</td></tr><tr><td>Fencing</td><td>1500.40±0.64bA</td><td>1542.90±5.70aA</td><td>1441.00±6.40cA</td></tr><tr><td rowspan=\"2\">R²</td><td>Grazing</td><td>0.998</td><td>0.999</td><td>0.997</td></tr><tr><td>Fencing</td><td>0.999</td><td>0.999</td><td>0.999</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4 Discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Grazing significantly decreased leaf gas exchange parameters (i.e., $P _ { \\mathrm { N } } , E$ ,and $g _ { \\mathrm { s } } ^ { \\cdot }$ ）andnegatively affected the photosynthetic capacity in both $E$ nutans and $P .$ anserina. Five years fencing significantly improved the photosynthetic capacity in both species. In addition, fencing increased the daily mean $P _ { \\mathrm { N } }$ values in both species,which is consistent with the previous research results (Zhang et al., 2009； Zlatev and Fernando,2012；Tao et al.，2015； Ren et al.,2017). However, the patterns of $P _ { \\mathrm { N } }$ under both regimes varying across the three observation dates were different in $E$ nutans and $P .$ anserina, which was likely attributed to the different adaptions of the two species. The higher $P _ { \\mathrm { N } }$ values of plants in fencing plots indicated that the appropriate protective measurement could improve the photosynthetic performance and alleviate the detrimental efects of grazing pressure (Zhao et al., 2008; Zhang et al., 2013; Liu et al., 2017). The second peak of $P _ { \\mathrm { N } } ,$ firstly discovered in our study area,appeared at approximately 17:30, which is inconsistent with previous results (Xiao et al.,2006; Liu et al.,20l7),who reported that it occurred at approximately 14:0o.Previous results indicated that \"noon break\" was related to the environmental factors (Jiang et al.,2010; Yang et al., 2016). Our result was different from those of other studies,and the difference may be atributed to the mountain environment with high temperature and high PAR during the period from 12:00 to 16:00. Our results showed that grazing significantly decreased $P _ { \\mathrm { N } }$ ，This result was consistent with the conclusion of Ghorbani et al. (2012),who reported that grazing decreased the carbon accumulation in mountainous arid and semi-arid rangelands. Fencing increased the daily mean values of $P _ { \\mathrm { N } }$ ， $P _ { \\mathrm { N m a x c a l } }$ ， and PNmaxobs, showing that five years of fencing could enhance the potential photosynthetic capacity of $E$ nutans and $P .$ anserina under natural conditions. ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/73a600009088a230bc25e9d9c2f2d9b1330c1c5a69457b5265d771bbfcc8633f.jpg",
+        "table_caption": [
+            "able 6Analysis of differences of parameters (PNmaxobss $P _ { \\mathrm { N m a x c a l } }$ AQE, $R _ { \\mathrm { { D } } }$ LCP,and $\\mathrm { L S P _ { o b s } } \\mathrm { , }$ in fencing plots "
+        ],
+        "table_footnote": [
+            "Note:\\* means significant difference at $\\scriptstyle P < 0 . 0 5$ level; $^ { * * }$ means significant difference at $\\overline { { P { < } 0 . 0 1 } }$ level.VR,variation ratio. "
+        ],
+        "table_body": "<html><body><table><tr><td>Species</td><td>Treatment</td><td>Date</td><td>PNmaxobs/(VR)</td><td>PNmaxcal/(VR)</td><td>AQE/(VR)</td><td>RD/(VR)</td><td>LCP/(VR)</td><td>LSPobs/(VR)</td></tr><tr><td rowspan=\"4\">E. nutans</td><td rowspan=\"4\">Fencing</td><td>25 June</td><td>**/(25.0%)</td><td>**/(27.5%)</td><td>**/(9.7%)</td><td>**/(22.0%)</td><td>**/(17.6%)</td><td>**/(8.1%)</td></tr><tr><td>23 July</td><td>**/(13.6%)</td><td>**/(10.4%)</td><td>**/(3.7%)</td><td>**/(12.7%)</td><td>**/(10.7%)</td><td>**/(5.3%)</td></tr><tr><td>26 August</td><td>**/(40.8%)</td><td>**/(37.6%)</td><td>**/(23.6%)</td><td>**/(57.1%)</td><td>**/(31.8%)</td><td>**/(13.1%)</td></tr><tr><td>Total</td><td>**(26.5%)</td><td>**/(25.2%)</td><td>**/(12.4%)</td><td>**/(30.6%)</td><td>**/(20.1%)</td><td>**/(8.8%)</td></tr><tr><td rowspan=\"4\">P. anserina</td><td rowspan=\"4\">Fencing</td><td>25 June</td><td>**/(22.2%)</td><td>**/(32.5%)</td><td>**/(8.3%)</td><td>**/(36.8%)</td><td>**/(36.8%)</td><td>**/(6.7%)</td></tr><tr><td>23 July</td><td>**/(10.1%)</td><td>**/(14.2%)</td><td>**/(12.7%)</td><td>**/(18.5%)</td><td>*/(6.6%)</td><td>**/(2.9%)</td></tr><tr><td>26 August</td><td>**/(20.6%)</td><td>**/(24.8%)</td><td>**/(6.3%)</td><td>**/(28.3%)</td><td>**/(28.4%)</td><td>**/(3.8%)</td></tr><tr><td>Total</td><td>**/(17.6%)</td><td>**/(23.9%)</td><td>**/(9.1%)</td><td>**/(27.8%)</td><td>**/(23.9%)</td><td>**/(4.5%)</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "External stress could decrease the photosynthetic activity of plants by reducing carboxylation efficiency (e.g.， stomatal closure and inhibiting light reaction) (Mudrik et al., 2O03; Gu et al., 2017; Liu et al., 2017; Wang et al., 2017). The control of stomatal activity (i.e., transpiration, opening,and closure) is an active adaptive pattern of pasture species in response to environmental stress in semi-arid regions (Xoconostle-Cazares et al.,2010; Wu et al., 2015). Stomatal closure is the first response of grass species to external stress, such as mild to moderate drought stress. However, nonstomatal limitation factors dominate under severe drought stress (Flexas and Medrano, 2002; Jia et al., 2012; Wang et al.，2015； Abdi et al., 2016). Farquhar and Sharkey (1982） demonstrated that the stomatal factor is the dominant limiting factor of photosynthetic capacity only if $L _ { \\mathrm { s } }$ increases and $P _ { \\mathrm { N } }$ and $C _ { \\mathrm { i } }$ simultaneously decrease. Otherwise,nonstomatal factors are the limiting and dominant factors of photosynthetic capacity. In our study,the reduction in the $P _ { \\mathrm { N } }$ values of $P .$ anserina under fencing and grazing conditions was caused by stomatal limitation.However, the decreases in the $P _ { \\mathrm { N } }$ and $L _ { \\mathrm { s } }$ of $E$ ，nutans were accompanied by an increase in $C _ { \\mathrm { i } }$ from 13:0O to 16:0o, indicating that nonstomatal factors are the limiting factors for the photosynthetic capacity.The difference in the photosynthetic capacities of the two species might be caused by $g _ { \\mathrm { s } }$ and environmental factors. $P .$ anserina has conspicuously higher $g _ { \\mathrm { s } }$ values than $E$ 、nutans,hence, $P .$ anserina is less sensitive to external stress than $E$ .nutans.Nonstomatal limitation for $E$ ，nutans during the period of 13:0O to l6:0O might be also caused by high air temperature and radiation. Some studies have shown that the change in $P _ { \\mathrm { N } }$ induced by stomatal limitation is often caused by environmental factors (Xia et al.,2015; Urban et al.,2017),and some studies pointed that extreme environmental factors might act as nonstomatal limitation factors for photosynthetic capacity (Borchard et al.,2015;Erel et al.， 2015;Fu et al.，2015; Ramalhosa et al., 2017). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "WUE is an index of plant growth performance in the presence of any environmental constraint (Guo et al.,201l; Acuna et al.,2015; Elazab et al.,2016). In the study, the daily mean WUE of the two species was higher in fencing plot than in grazing plot. However, the variation in daily mean WUE for both plant species under fencing and grazing conditions was greater on 25 June and 26 August than on 23 July. This finding may be attributed to higher rainfall during July than other months. By comparing the WUE of the two species under both regimes,we inferred that grazing might afect photosynthetic capacity and subsequently affect the normal growth of grass. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The $P _ { \\mathrm { N } }$ -PAR response curves of the plants were accurately fitted by the NRH with high $R ^ { 2 }$ values.Parameters were obtained from the fited equations.AQE,an estimate of the maximum efficiency of light harvesting during $\\mathrm { C O } _ { 2 }$ assimilation (Linkosalo et al., 2016; Liu et al., 2017), was significantly higher in fencing plot than in grazing plot. And other parameters were also significantly increased under fencing treatment, which in turn improve the photosynthetic capability of the two species. Whereas, grazing significantly decreased the photosynthetic capability of herbages in study area. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "$R _ { \\mathrm { { D } } }$ and LCP play critical roles in decreasing plant biomass accumulation in the individual, community,and ecosystem levels (Qiao et al., 2007; Zhang et al.,2015; Zhu et al., 2016). In our study,plants have higher $R _ { \\mathrm { { D } } }$ ,LCP,and $\\mathrm { L S P _ { o b s } }$ in fencing plot than in grazing plot. The relative increases in $R _ { \\mathrm { D } }$ and LCP were smaller than that in $\\mathrm { L S P _ { o b s } }$ in plants in fencing plot, indicating that fencing enhanced $\\mathrm { C O } _ { 2 }$ and $_ \\mathrm { H } _ { 2 } \\mathrm { O }$ assimilations (Table 5). Thus,the increased assimilations could promote plant productivity and growth (Yin et al., 2006; Wu et al., 2008; Augé et al.,2015; Reef et al.,2015). This is consistent with our results that $P _ { \\mathrm { N } }$ was significantly higher in fencing plot than in grazing plot. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The diurnal patterns of leaf gas exchange parameters showed that five years of fencing significantly increased the photosynthetic parameters values of $E$ nutans and $P .$ anserina,which increased the photosynthetic capacity. The enhanced effects were more sensitivity in $E$ nutans than $P .$ anserina with five years of fencing, particularly at the end of the growing season. Hence, five years of fencing improved the potential photosynthetic capacity of both $E$ nutans and $P .$ （204 anserina. Our result provides a new insight in the grassland protection and gives grassland managers theory supporting for decision-making. However, our result should be further validated by data collected from different plant species that grow under diferent environments, particularly under environments that had been subjected to different periods of restricted grazing. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The research was financially supported by the National Natural Science Foundation of China (91025015, 51178209),and the Project of Arid Meteorological Science Research Foundation of China Meteorological Administration (IAM201608). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abdi S,Abbaspur N,AvestanS,etal.20l6.Sanaphysiologicalresponsesoftwograpevine (VitisviniferaL.)cultivars to CycocelTM treatment during drought. Journal of Horticultural Science and Biotechnology,91(3): 211-219.   \nAcunaTB,LissnS,JohnsonP,etal.2015.Yieldand water-use eficiencyofwheat inahigh-rainfallenvironment.Cropand Pasture Science,66(5):419-429.   \nAndrew W,JaimeV,AliceB,etal.2O16.Pasthumandisturbanceefectsuponbiodiversityare greatestinthecanopy:acase study on rainforest butterflies.PloS ONE,11(3):e0150520.   \nAugeRM,TolerHD,SaxtonAM.2O15.Arbuscularmycorhizalsymbiosisaltersstomatalconductanceofhostplants more under drought than under amply watered conditions: a meta-analysis.Mycorrhiza,25(1):13-24.   \nBai W,FangY,ZouM,etal.2Ol5.HeavilyintensiiedrazingrducesrotproductionianInerMongoliatemperateeppe. Agriculture,Ecosystems & Environment,20o:143-150.   \nBorchardN,SchirrmannM,vonHebelC,etal.2O15.Spatio-temporaldriversofsoilandecosystemcarbonfluxesatfieldscale in an upland grassland in Germany. Agriculture,Ecosystems & Environment,211(12): 84-93.   \nCalamaR,PuertolasJ,Madrigal Getal.2013.Modelingthenvironmentalresponseofleafnetphotosynthesis iPinus pinea L.natural regeneration. Ecologcal Modelling,251: 9-21.   \nCasazza M L,Overton CT,Bui TVD,et al. 2O16.Endangered species management and ecosystemrestoration: findingthe common ground. Ecology and Society,21(1):19.   \nChenSP,BaiYF,LinGH,etal.2Oo5.Efectsofgrazingonphotosyntheticharacteristicsofmajorsteppe species inthe Xilin River Basin,Inner Mongolia, China. Photosynthetica,43(4): 559-565.   \nChesso P.20o. Mechanisms of maintenance of species diversity.Annual Review of Ecology and Systematics,31(1): 343-366.   \nElazab A,Serret MD,ArausJL.2016.Interactive effectof waterand nitrogen regimes onplant growth,roottraitsand water status of old and modern durum wheat genotypes.Planta,244(1): 125-144.   \nErel R,Yermiyahu U,Ben-Gal A,etal.2015.Modification of non-stomatal limitationand photoprotection due to $\\mathrm { \\sf ~ K }$ and Na nutrition of olive trees.Journal of Plant Physiology,177:1-10.   \nFarquharGD,SharkeyTD.1982.Stomatalconductance and photosynthesis.Annual ReviewofPlantPhysiology,3:317-345.   \nFlexas J, Medrano H.2002. Drought-inhibition of photosynthesis in $\\mathrm { C } _ { 3 }$ plants: stomatal and non-stomatal limitations revisited. Annals of Botany, 89(2): 183-189.   \nFu G, Shen ZXSun W,etal.2015.Ameta-analysisof theeffectsofexperimental warmingonplantphysiologyandgrowthon the Tibetan Plateau. Journal of Plant Growth Regulation,34(1): 57-65.   \nGhorbani N,RaiesiF,Ghorbani S.20l2.Bulk soiland particle size-associated CandNunder grazedandungrazedregimes in Mountainous arid and semi-arid rangelands. Nutrient Cycling in Agroecosystems,93(1):15-34.   \nGuJ,Zhou Z,LiZ,etal.2O17.Rice(OrzasativaL.)witheducedchlorophyllcontent exhibit higherphotosytheticateand efficiency,improvedcanopylightdistribution,and greateryields tannormalypigmentedplants.FieldCrops Research,20: 58-70.   \nGuo RQ,Ruan H,YangWJ,etal.2Ol1.Diferentialresponsesofleafwater-useefficiencyand photosynthetic nitrogen-use efficiency to fertilization in Bt-introduced and conventional rice lines.Photosynthetica,49(4): 507-514.   \nGuo S,ZhouY,Shen Q,etal.20o7.Efectofammoniumand nitratenutritiononsome physiological processes inigherplants growth, photosynthesis,photorespiration,and water relations.Plant Biology, 9(1): 21-29.   \nHerrero-Jauregui, C,Oesterheld,M.017.Efectsofgrazingintensityonplantrichnessanddiversity:ameta-analysis.Oikos, 127(6): 757-766.   \nHu YK,GaoGG,LiKH,etal.2o9.The successonof plantcommunitiesinalpine grassands indierenages ofnclsing. Journal of Glaciology and Geocryology,31(6):1186-1194.(in Chinese)   \nHumphreyPT,GlosAD,AlexandreNM,etal2016.Aversionandaractiontoharmful plantsecondarycompounds jointly shape the foraging ecology of a specialist herbivore.Ecology and Evolution,6(10): 3256-3268.   \nJiaKX,WangYY,Sun WN,eal.20l2.Drought-responsive mechanisms inice genotypes withcontrastingdroughttolerance during reproductive stage. Journal of Plant Physiology,l69(4): 336-344.   \nJiang WW,ChenYQ,HuangJR,etal.2O10.Photosyntheticcharacteristics with fourcultivarsofAsternovae-angliae.Joural of Zhejiang Forestry College,25(8): 487-506.(in Chinese)   \nJiao JY,ZouHY,JiaYF,etal.O9.Researchprgessontheefectsofsoilrosinonvegetation.cta Ecologicainica, 29(2): 85-91. (in Chinese)   \nLinkosalo T,Elkhouri H, Mäkipää R,et al.2016.Increased atmospheric $\\mathrm { C O } _ { 2 }$ concentration enhances the development of photosyntheticcapacity beyond the temperature efect forsilver birch in simulated future climate.Scandinavian Journal of Forest Research,32(8): 651-657.   \nLiu C,WangY,JinY,etal.20l7.Photopotectionegulatedbyphosphrusapplicationcanimprove photosytheticprforance andalleviate oxidative damage in dwarfbambosubjected to waterstress.PlantPhysiologyand Biochemistry,18:88-97.   \nLiu H,Zang R,Chen HYH.2016.Efects of grazing onphotosynthetic features and soilrespirationof rangelands in the Tianshan Mountains of Northwest China. Scientific Reports,6: 30087.   \nLiu M,Gong JR,Pan Y,etal.2016.Efectsof gras-legume mixtures onthe productionand photosyntheticcapacityof constructed grasslands in Inner Mongolia, China. Crop and Pasture Science,67(11): 1188-1198.   \nLiu H,Fu Y,Wang M, et al.2017. Green light enhances growth, photosynthetic pigments and $\\mathrm { C O } _ { 2 }$ assimilation efficiency of lettuce as revealed by 'knock-out' of the $4 8 0 { - } 5 6 0 ~ \\mathrm { n m }$ spectral waveband. Photosynthetica,55(1): 144-152.   \nLiu L,Guan L,Liu X. 2017. Directly estimating diurnal changes in GPP for $\\mathrm { C } _ { 3 }$ and $\\mathrm { C } _ { 4 }$ crops using far-red sun-induced chlorophyll fluorescence.Agricultural and Forest Meteorology,232:1-9.   \nMarshall B,Biscoe P V.1980.A model for $\\mathrm { C } _ { 3 }$ leaves describing the dependence of net photosynthesis on Irradiance. I.   \nMuller K,DickhoeferU,LinL,etal.214.Impactof grazingintensityonherbagequality,feed intakeandliveweight gaiof sheep grazing on the steppe of Inner Mongolia. Journal of Agricultural Science,152(1): 153-165.   \nMekuria W.2013.Changes inregulating ecosystem services folowing establishing exclosures oncommunal grazing lands in Ethiopia: a synthesis.Journal of Ecosystems,htp://dx.doi.org/10.1155/2013/860736.   \nMudrik V,KosobrukhovA,KnyazevaI,etal.oo3.Changes inthephotosyntheticcharacteristicsofPlantagomajorplants caused by soil drought stress.Plant Growth Regulation,4O(1): 1-6.   \nNijs I,FerisR,Blum H.1997.Stomatalregulation inachangingclimate:Afieldstudyusing freeair temperatureincrease (FATL) and free air $\\mathrm { C O } _ { 2 }$ enrichment (FACE).Plant Cell and Environments,20(8):1041-1050.   \nPei S,FuH,Wan C.2Oo8.Changes insoil propertiesand vegetationfolowing exclosureand grazingin degradedAlxadesert steppe of Inner Mongolia, China.Agriculture,Ecosystems & Environment,124(1-2): 33-39.   \nPrieto JA,GiorgiEGPenaJP.2010.Modelingphotosynthetic-lightresponseon Syrahleaves withdiferent exposure.Vitis, 49(3): 145-146.   \nPulido M,Schnabel S,Lozano-Para J,et al.2018.The impactof heavygrazingon soil qualityand pasture production in rangelands of SW Spain. Land Degradation & Development, 29(2): 219-230.   \nQian J,WangZ,LiuZ,etal.2O17.BelowgroundbudbankresponsestograzingintensityinteInner-Mongolia Steppe,China. Land Degradation & Development,28(3): 822-832.   \nQiao Y Z,ZhangYB,Wang K Y,et al.2Oo7.Anew viewpoint tounderstand theresponseof leaf darkrespirationto elevated （204 $\\mathrm { C O } _ { 2 }$ concentration. Photosynthetica,45: 510-514.   \nRamalhosa P,Debus SL,Kaufmann M,etal.20l7.Anon-native macroalga islessatractive for herbivoresbutmore susceptible to light limitationand grazing stressthan a comparable native species.Helgoland Marine Research, http://doi.0rg/10.1186/s10152-016-0478-3.   \nRefR,WinterK,MoralesJ,etal.2O15.Theeffectofatmosphericcarbondioxideconcentrationsontheperformanceof the mangrove Avicennia germinans over a range of salinities.Physiologia Plantarum,154(3): 358-368.   \nRen H,Han G,Lan Z,etal.20l6.Grazing effectsonherbage nutritive values dependon precipitation and growing season in Inner Mongolian Grassland. Journal of Plant Ecology, 9(6): 712-723.   \nRen W,HuN,Hou X,etal.20l7.Long-termovergrazing-induced memorydecreases photosythesisofclonalfspringina perennial grassland plant.Frontiers in Plant Science,http://doi.org/10.3389/fpls.2017.00419.   \nRuizalbarran M,Balochi O,Wittwer F,etal.2016.Milk production,grazing behaviorand nutritional status of dairycows grazing two herbage alowances during winter. Chilean Journal of Agricultural Research,76(1): 34-39.   \nShiFS,Wu Y,WuN,etal.2010.Diferent growthandphysiologicalresponses toexperimentalwarmingoftwodominantplant species Elymus nutans and Potentill anserina in an alpine meadow ofthe eastern Tibetan Plateau.Photosynthetica,48(3): 437-445.   \nSingsaasEL,OrtDR,DeLuciaEH.2O01.Variation inmeasured values ofphotosyntheticquantumyield inecophysiological studies. Oecologia,128(1): 15-23.   \nStrahanRT,LaughlinDC,BakkerJD,etal.2015.Long-term protection from heavylivestock grazingafects ponderosa pine understory composition and functional traits.Rangeland Ecology & Management, 68(3): 257-265.   \nThornleyJHM.1998.Dynamic model of leaf photosynthesis with aclimationto lightand nitrogen.Annals of Botany81(3): 421-430.   \nUrban J,Ingwers MWMcguire MA,etal.2O17.Increaseinleaf temperatureopens stomata anddecouplesnet photosythesis from stomatal conductance in Pinus taeda and Populus deltoides $x$ nigra.Journal of Experimental Botany,68(7): 1757-1767.   \nWang D,Wu GL,Liu Y, et al. 2015. Effects of grazing exclusion on $\\mathrm { C O } _ { 2 }$ fluxes in a steppe grassland on the Loess Plateau (China). Ecological Engineering,83:169-175.   \nWang H,PrenticeIC,DavisTW,etal.20l7.Photosyntheticresponses toaltitude:anexplanation basedonoptimality principles.New Phytologist,213(3): 976-982.   \nWang QL, HuaLM,YangSW.2O14.Variation of grassland NDVI,climate factors and standing carrying capacityand their correlation in northern-Qilian Mountains from1982to 006.JournalofGansu Agricultural University,49(4):127-135.(in Chinese)   \nWang X,Vignjevic M,LiuF,etal.2O15.Droughtprimingatvegetativegrowth stagesimproves tolerancetodroughtadeat stresses occurring during grain filing in spring wheat.Plant Growth Regulation,75(3): 677-687.   \nWang Y,Wesche K.2016.Vegetationand soil responses to livestock grazing in Central Asian graslads:areviewof Chinese literature.Biodiversity and Conservation,25(12): 2401-2420.   \nWertin T M,Reed S C,Belnap J.2015. $\\mathrm { C } _ { 3 }$ and $\\mathrm { C } _ { 4 }$ ，plant responses to increased temperatures and altered monsoonal precipitation in a cool desert on the Colorado Plateau, USA. Oecologia,177(4): 997-1013.   \nWuF,SengP,TanJ,etal.2O15.Plasmamembranereceptor-likeinaseleafpanicleactsdownstreamofthedroughtndsalt tolerance transcription factortoregulate drought sensitivityin rice.Journal ofExperimental Botany,66(1):271-281.   \nWu F Z,BaoWK,LiFL,etal.20o8.Efects of waterstressand nitrogen suppyonleaf gas exchangeand fluorescence parameters of Sophora davidii seedlings.Photosynthetica,46(1): 40-48.   \nXia J,Zang S,GuoJ,etal.2O15.Critical efectsofgas exchange parametersinTamarixchnensisLouronsoil waterandits relevant environmental factorsonashellridge island in China's Yellow RiverDelta.Ecological Engineering,76:36-46.   \nXiao A,Xu B,LiuJ.20o6.Astudyonphotosyntheticcharacteristicsof Callstemon rigidus R.Br.Southwest Horticulture, 34(3):19-20.(in Chinese)   \nXu B C,LiFM,ShanL,etal.Oo6.Gas exchange,biomass partition,and waterrelationshipsof three grassedingsunder water stress.Weed Biology and Management, 6(2):79-88.   \nXu B C,Xu W Z,Huang J,et al. 2011.Biomass production and relative competitiveness of a $\\mathrm { C } _ { 3 }$ legume and a $\\mathrm { C } _ { 4 }$ grass co-dominant in the semiarid Loess Plateau of China.Plant and Soil,347(1-2): 25-39.   \nYangSH,WeiJJ,GeH.2016.Thealtitudinaleffectsonphotosynthesisof Rosaplatyacantha fromtheTianshanMountainsin Northwestern China.Photosynthetica,54(4): 572-580.   \nYin CY，BermingerF,Li C Y.2006.Photosyntheticresponsesof Populus przewalski subjected to drought stress. Photosynthetica,44(1): 62-68.   \nZhang H,GilbertB,Wang W,et al.2O13.Grazerexclusion alters plant spatialorganization at multiplescales,increasing diversity. Ecology and Evolution,3(10): 3604-3612.   \nZhang Q,ZhangTJ,Chow WS,etal.2015.Photosyntheticcharacteristicsand light energyconversionsunderdierentlight environments in five tre species occupying dominant status at diferent stages ofsubtropical forest successon.Functional Plant Biology, 42(7): 1-9.   \nZhangT,Zhang Y,XuM,etal.2015.Light-intensitygrazingimprovesalpine meadowproductivityandadaptiontoclimate change on the Tibetan Plateau. Scientific Reports,5:15949.   \nZhang YL,Zhang HZ,Feng GY,etal.2Oo9.Leaf diaheliotropic movementcan improvecarbon gainand wateruse effciency and not intensify photoinhibition in upland cottn(Gossypium hirsutum L.).Photosynthetica,47(4): 609-615.   \nZhangYP,Zhu XH,DingHD,etal.2013.Foliarapplicationof24-epibrassinolidealeviates high-temperature-induced inhibition of photosynthesis in seedlings of two melon cultivars.Photosynthetica,51(3):341-349.   \nZhao C,GaoJ,HuangY,etal.2l7.ThecontributionofAstragalusdsurgensrootsandcanopytowatererosioncontrolnthe water-wind crisscrossed erosionregionof theLoessPlateau,China.LandDegradation&Development,28(1):265-273.   \nZhao WY,XuS,LiJL,etal.2Oo8.Effectsoffoliarappicationofnitrogenonthephotosyntheticperformanceandgrowthof two fescue cultivars under heat stress.Biologia Plantarum,52(1):113-116.   \nZhu SD,LiRH,ongJ,etal.2Ol6.Dierentleafcost-benefitstrategiesoffersdistributedincontrastinglighthabiatsof sub-tropical forests.Annals of Botany,117(3): 497-506.   \nZlatev Z,Fernando CL.2012.Anoverviewon drought inducedchanges in plant growth,waterrelations and photosythesis. Emirates Journal of Food & Agriculture,24(1): 520-524. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

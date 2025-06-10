@@ -1,0 +1,594 @@
+[
+    {
+        "type": "text",
+        "text": "甘肃省森林碳储量现状与固碳速率 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关晋宏1,2杜盛1,3\\* 程积民1,³　吴春荣4李国庆1,3　邓磊²张建国何秋月²时伟宇5",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "西北农林科技大学黄土高原土壤侵蚀与旱地农业国家重点实验室，陕西杨凌 712100;西北农林科技大学林学院，陕西杨凌712100:3中国科学院水利部水土保护研究所，陕西杨凌 712100; 4甘肃省治沙研究所，兰州 73000;5中国科学院地球环境研究所,西安 710075",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要针对森林碳平衡再评估的重要性和区域尺度森林生态系统碳库量化分配的不确定性，该研究依据全国森林资源连续清查结果中甘肃省各森林类型分布的面积与蓄积比重以及林龄和起源等要素，在甘肃省布设212个样地，经野外调查与采样、室内分析，并对典型样地信息按照面积权重进行尺度扩展，估算了甘肃省森林生态系统碳储量及其分布特征。结果表明：甘肃省森林生态系统总碳储量为 $6 1 2 . 4 3 \\mathrm { T g } \\mathrm { C } .$ 。其中植被生物量碳为 $1 7 9 . 0 4 \\mathrm { T g } \\mathrm { C } .$ ，土壤碳为 $4 3 3 . 3 9 \\mathrm { T g } \\mathrm { C }$ 。天然林是甘肃省碳储量的主要贡献者，其值为 $5 0 1 . 4 2 \\mathrm { ~ T g ~ C ~ } _ { ; }$ 。是人工林的4.52倍。天然林和人工林的植被碳密度均表现为随林龄的增加而增加的趋势，同一龄组天然林植被碳密度高于人工林。天然林土壤碳密度从幼龄林到过熟林逐渐增加，但人工林土壤碳密度最大值主要为近熟林。全省森林植被碳密度均值为 $7 2 . 4 3 \\mathrm { M g } \\mathrm { C } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，天然林和人工林分别为90.52和 $3 3 . 7 9 \\mathrm { M g } \\mathrm { C } \\cdot \\mathrm { h m } ^ { - 2 }$ 。基于森林清查资料和标准样地实测数据，估算出全省天然林和人工林在1996年的植被碳储量为132.47和12.81TgC,2011年分别为152.41和$2 6 . 6 3 \\mathrm { T g } \\mathrm { C }$ ，平均固碳速率分别为1.33和 $0 . 9 2 \\mathrm { T g } \\mathrm { C } { \\cdot } \\mathrm { a } ^ { - 1 }$ 。甘肃省幼、中龄林面积比重较大，占全省的 $6 2 . 2 8 \\%$ ，根据碳密度随林龄的动态变化特征，这些低龄林将发挥巨大的碳汇潜力。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词碳密度，碳储量，固碳速率，森林生态系统，甘肃省",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引用格式：关晋宏，杜盛，程积民，吴春荣，李国庆，邓磊，张建国，何秋月，时伟宇(2016).甘肃省森林碳储量现状与固碳速率．植物生态学报，40,1-1. doi:10.17521/cjpe.2016.0017",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Current stocks and rate of sequestration of forest carbon in Gansu Province ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Guan Jin-Hong12,Du Sheng1,3\\*，Cheng Ji-Min1,3，Wu Chun-Rong4,Li Guo-Qing3,Deng Lei2,Zhang Jian-Guo,He Qiu-Yue², and Shi Wei-Yu5 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "StateKeybgsveii r fWaterot QuaternaryGeology,InstituteofEarthEnvironment,ChineseAcademyofSciences,Xi'an7oo75,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AimsCarbon sequestration is the basic function and most primary service of forest ecosystems,and plays a vital role in mitigating the global climate change. However,carbon storage and alocation in forest ecosystems have ben less studied at regional scales than at forest stand levels,and the results are subject to uncertainty due to inconsistent methodologies.In this study we aim to obtain relatively accurate estimates of forest carbon stocks and sequestration rate at a provincial scale (regional) based on plot surveys of plants and soils. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MethodsIn consideration of the areas and distributions of major forest types,212 sampling plots,covering different age classes and origins (natural forests Vs.planted forests),were surveyed in Gansu Province in northern China.Field investigations were conducted forvegetation layers (trees,shrubs,herbs and liter),soil profiles,and sampling of both plant materials and soils for laboratory analyses.Regional carbon stocks were calculated by up-scaling the carbon densities of allforest types with their corresponding areas.Carbon sequestration rate was estimated by referencing the reports of national forest inventory for different periods. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Important findingsForest carbon stocks at the provincial scale were estimated at $6 1 2 . 4 3 \\mathrm { T g } \\mathrm { C }$ ,including179.04 $\\mathrm { T g } \\mathrm { C }$ in biomass and $4 3 3 . 3 9 \\mathrm { ~ T g ~ C ~ }$ in soil organic materials. Specifically, natural forests stored $5 0 1 . 4 2 \\mathrm { T g } \\mathrm { C }$ ,approximately 4.52 times that of the plantations.Biomass carbon density in both natural forests and plantations showed an increasing trend with stand age classes,and was greater in natural forests than in plantations within the same age classes.Soil carbon density also increased with stand age classes in natural forests,butthe highest value occurred at the pre-mature stage in plantations.The weighted average of regional biomass carbon density was at $7 2 . 4 3 ~ \\mathrm { M g C } \\cdot \\mathrm { h m } ^ { - 2 }$ , with the average value of $9 0 . 5 2 ~ \\mathrm { M g C } \\cdot \\mathrm { h m } ^ { - 2 }$ in natural forests and $3 3 . 7 9 ~ \\mathrm { M g C } \\cdot \\mathrm { h m } ^ { - 2 }$ in plantations,respectively. In 1996, vegetation stored $1 3 2 . 4 7 \\mathrm { ~ T g ~ C ~ }$ in natural forests and $1 2 . 8 1 \\ \\mathrm { T g } \\ \\mathrm { C }$ in plantations, respectively, and the values increased to 152.41 and $2 6 . 6 3 \\mathrm { T g } \\mathrm { C }$ in 2011, with the mean carbon sequestration rates of 1.33 and $0 . 9 2 \\mathrm { T g } \\mathrm { C } { \\cdot } \\mathrm { a } ^ { - 1 }$ . Given that young and middle-aged forests account for a large proportion $( 6 2 . 2 8 \\% )$ of the total forest areas, the region is expected to have substantial potential of carbon sequestration. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key wordscarbon density,carbon storage,carbon sequestration rate,forest ecosystem, Gansu Province ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Citation: GuanJH,DuS,ChengJM, WuCR,LiGQ,DengL,ZhagJG,HeQY,Shi WY(2016). CurrentstocksandrateofqutrationofforestcarboninGansu Province.Chinese Journal ofPlant Ecology,40,1-1.doi:10.17521/cjpe.2016.0017",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "森林作为陆地生态系统的主体，储存了 $80 \\%$ 的地上碳储量和 $40 \\%$ 的地下碳储量，在维持全球碳平衡减缓气候变化中发挥着重要作用，因此，森林碳固存已成为全球碳循环研究的热点(Dixonet al.,1994;Houghton,2005)。科学估测森林生态系统碳密度、碳储量及其变化特征是充分认识森林生态系统功能、评价区域森林碳汇潜力和应对气候变化的首要任务。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，国内外学者采用多种研究手段，针对不同目标，从林分(Ren et al.，201O;Zhang et al.,2013b)、区域(Chen et al.,2009; Zhang et al.,2012)、国家(Fang et al.,2001; Zhang et al.,2013a)及全球尺度上(Houghton，2005)对森林生态系统碳密度及碳储量进行了研究报道，揭示了不同气候条件下多种森林类型的固碳现状及其动态变化。例如，Fang等(2001)和方精云等(2007)基于生物量转化因子连续函数法估算出我国森林植被碳储量在1998和2000年分别为4.75和 $5 . 8 5 ~ \\mathrm { P g }$ C；李海奎等(2011)用回归模型估算法得出2006年我国森林植被碳储量为7.81$\\mathrm { P g ~ C ~ }$ 。其他学者也在不同时期深化研究了海南(Renet al.,2013)、广东(张修玉等,2011)、吉林(王新闯等，2011)、四川(黄从德等，2008b)、陕西(崔高阳等，2015)、宁夏(高阳等,2014)等区域尺度的森林生态系统碳库及其分配特征。然而，由于我国气候带跨越热带至寒温带，涵盖从温润至干旱各个气候区，森林生态系统类型复杂多样，导致植被和土壤碳积累过程呈现区域性差异，加之研究方法的不同，造成估算结果存在较大误差(刘世荣等,2011)。因此，方法同一化、时间同步化地估测区域尺度森林生态系统碳汇及分配特征是探明我国森林碳汇现状的先决条件。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "甘肃省作为西部欠发达省份和生态脆弱地区，森林覆盖率在全国排第18位(国家林业局等，2012;徐济德，2014)。但由于特殊的地形气候特征，甘肃省也是我国森林植被类型比较复杂的省区之一，森林植被有北亚热带常绿、落叶阔叶林，暖温带针叶、阔叶林，寒温带(山地)针叶林等多种类型，在气候调节、水源涵养、水土保持、生物多样性保护以及碳固存等方面起着不可估量的作用。联合国反荒漠化大会认为半干旱区森林及土壤在恰当的管理下可发挥显著的碳汇作用(彭少麟等，2002)。迄今为止,针对甘肃省森林生态系统碳密度及碳储量的报道仅见于个别树种(程堂仁等,2007b；彭守璋等,2011)、林区(程堂仁等，2007a)及区域尺度活立木的简单估算(Guanetal.,2015；彭焕华等,2010)，而区域尺度上森林生态系统固碳特征尚不清楚，尤其缺乏林下植被层及土壤碳的信息。本文以甘肃省整个区域尺度主要森林生态系统为研究对象，在样地调查和室内分析的基础上，分析各森林类型碳密度特征，并结合1996、2001、2006和2011年4次森林资源连续清查资料，估算全省碳储量现状和固碳速率。研究结果可为森林生态系统碳汇功能评价及可能开展的碳汇交易提供参考依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区域和研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "甘肃省位于我国西北部 $( 3 2 . 1 8 ^ { \\circ } - 4 2 . 9 5 ^ { \\circ } ~ \\mathrm { ~ N ~ }$ $9 2 . 2 2 ^ { \\circ } - 1 0 8 . 7 7 ^ { \\circ } \\mathrm { E } )$ ，地处黄河上游地区，自西北向东南狭长约 $1 3 5 0 ~ \\mathrm { k m }$ ，面积为 $4 5 . 3 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ，占国土总面积的 $4 . 7 \\%$ 。甘肃省具有明显的温带季风气候，冬季寒冷漫长，夏季短促温热。省内地区间气候差异巨大，年平均气温在 $0 { - } 1 0 \\ \\mathrm { ~ \\textdegree ~ }$ ，年降水量 $3 6 . 6 -$ $7 3 4 . 9 \\ \\mathrm { { \\ m m } }$ ，降水主要集中在6-9月，由东南向西北递减。气候从东南向西北也呈现序列性变化：陇南山地北部的暖温带湿润气候、陇中黄土高原的温带半湿润和半干旱气候、河西走廊温带干旱气候和北山极干旱气候。受水热条件交互作用，甘肃森林植被丰富多样，分布有亚热带常绿阔林带、暖温带落叶阔叶林带、温带草原带和温带荒漠带。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "据《第八次全国森林资源清查甘肃省森林资源清查成果》，甘肃省现有森林面积 $5 0 7 . 4 5 \\ \\times \\ 1 0 ^ { 4 }$ $\\mathrm { h m } ^ { 2 }$ ，森林覆盖率 $1 1 . 2 8 \\%$ （国家林业局等，2012；徐济德，2014)。其中，乔木林面积和蓄积量分别为$2 4 7 . 1 9 \\times 1 0 ^ { 4 } \\ : \\mathrm { h m } ^ { 2 }$ 和 $2 1 4 . 5 4 \\times 1 0 ^ { 6 } ~ \\mathrm { m } ^ { 3 }$ 。中南部和东部分布有多个典型森林的国有林区，例如小陇山林区、白龙江林区、子午岭林甘肃省区等；也有白水江(南部)、太子山(中部)、祁连山(西北部)等多个森林为主的自然保护区。天然林比重较大，面积和蓄积分别为 $1 6 8 . 3 8 \\times 1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ 和 $1 8 6 . 2 2 \\times 1 0 ^ { 6 } ~ \\mathrm { m } ^ { 3 }$ ，占全省的 $6 8 . 1 2 \\%$ 和 $8 6 . 8 0 \\%$ 。天然林中面积最大的为中龄林，占 $3 3 . 1 5 \\%$ 。天然林类型主要以栎类(Quercusspp.)、阔叶混交林(broad-leaved mixed forest)、云杉(Picea asperata)林、冷杉(Abies fabri)林为主，面积和蓄积分别占天然林的 $58 . 8 6 \\%$ 和 $7 2 . 3 4 \\%$ 。人工林中以幼龄林居多，占人工林面积的 $6 1 . 6 4 \\%$ 。人工阔叶林主要以杨树(Populus spp.)和刺槐(Robinia pseu-doacacia)为主，面积和蓄积分别占全省人工林的$56 . 0 4 \\%$ 和 $6 2 . 5 1 \\%$ ；人工针叶林以云杉、落叶松(Larixgmelinii)、油松林(Pinustabuliformis)为主，面积和蓄积分别占全省人工林的 $1 9 . 5 0 \\%$ 和 $2 1 . 3 7 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.1 样地设置及取样方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究依托中国科学院战略性先导科技专项(碳专项)，按照《生态系统固碳现状、速率、机制和潜力》项目制定的统一要求(生态系统固碳项目技术规范编写组，2015)，并结合甘肃省第七次森林资源清查成果，充分考虑全省各森林类型(优势种)分布面积与蓄积比重、林龄、起源等情况，在全省布设涵盖该省17种主要森林类型的标准地212个(表1)。样地面积设置标准为 $2 0 \\mathrm { m } \\times 5 0 \\mathrm { m }$ ，但因地形破碎及林分面积限制，部分标准地设置为 $2 0 \\mathrm { m } \\times 3 0 \\mathrm { m }$ 。其中，铁杉(Tsugachinensis)没有布设相应样地，以云杉、冷杉和柏木(Cupressus funebris)的加权平均值来求得该类森林生态系统各组分碳密度。本研究涉及的栎类主要包括锐齿槲栎(Quercusaliena var.acuteserrata)、辽东栎(Quercuswutaishanica)、栓皮栎(Quercusvariabilis)等栎属优势树种；杨树主要包括山杨(Populus davidiana)、新疆杨(Populus albavar.pyramidalis)、二白杨(Populusgansuensis)等；桦木主要包括红桦(Betulaalbosinensis)和白桦(Betulaplatyphylla)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究各森林类型包括幼龄林、中龄林、近熟林、成熟林和过熟林5个龄组。不同森林类型生长速度及其寿命因树种、起源而异，各龄组的划分标准不一，具体见表2(甘肃省林业厅,2012)。此外，本研究各项野外调查、样品采集、成分分析均依据《生态系统固碳现状、速率、机制和潜力》项目制定的统一标准(生态系统固碳项目技术规范编写组，2015)展开。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.2 乔木层碳密度测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对样地内所有胸径 ${ \\geq } 2$ cm的乔木进行每木检尺,并记录地形、地貌、经营管理措施等因子。样地内乔木单株生物量通过每木检尺所测的胸径和树高，结合异速生长方程求得。按大、中、小径级选择3-5株样木，采集样地内优势乔木树种各器官(叶、枝、干、根)样品各 $3 0 0 \\ \\mathrm { g } .$ ，用以有机碳含量分析。利用分析测定乔木层各器官的有机碳含量分别乘以各自的单位面积生物量，对其求和即为乔木层碳密度。对异速生长方程的选择，则以地形、气候条件等相近的优势树种为筛选原则，对所选方程进行模拟，选出适合该省区优势树种的最优方程(表3)。其中，其他硬阔指鹅耳(Carpinus turczaninowii)、千金榆(Carpinus cordata)、椴树(Tilia spp.)、华榛(Coryluschinensis)等；其他软阔指白蜡(Fraxinuschinensis)、青榨槭(Acer davidii)、稠梨(Padus racemosa)、漆(Toxicodendronvernicifluum)等。树种1、2、3、5、6、7、8和11生物量方程来源于程堂仁等(2007a)，树种4、9、10和12生物量方程由森林固碳课题办公室提供(2014)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.3林下植被层、枯落物层碳密度测定 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "林下植被包括灌木、草本和胸径 $< 2 \\mathrm { c m }$ 的幼树。在上述样地内沿对角线设置3个 $2 \\textrm { m } \\times 2 \\textrm { m }$ 的灌木小样方，并在每个灌木样方内设置1个 $1 \\mathrm { ~ m ~ } \\times \\mathrm { ~ 1 ~ m ~ }$ 的草本小样方，采用全收获法对灌木和草本进行采集。全收获后，灌木按叶、枝和根测定其生物量鲜重，草本分地上部分和地下部分测定其生物量鲜重，并分别取约300g用于含水率和有机碳含量的测定。在各收集所有枯落物并称其鲜重，保留约 $3 0 0 ~ \\mathrm { g }$ 测定其含水率和有机碳含量。林下植被层和枯落物层生物量根据各器官含水率换算为其干质量并分别乘以各器官对应的有机碳含量求得相应的碳密度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/99f61817828ce50be55f57c0d947090677375c4779435c352aba7a1780df7dd8.jpg",
+        "table_caption": [
+            "样地内沿对角线设置3个 $1 \\mathrm { m } \\times 1 \\mathrm { m }$ 的枯落物小样方，",
+            "表1甘肃省样地信息表 Table1 General information of survey plots in Gansu Province "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>森林类型 Forest type</td><td>森林起源 Forest origin</td><td>林龄组 Forest age group</td><td>样地数量 Number of</td><td>样地分布区 Plot location</td><td>土壤类型 Main soil types</td><td colspan=\"2\">土壤取样 Soil s</td></tr><tr><td></td><td></td><td></td><td>plots</td><td></td><td></td><td>取样深度 Sampling depth</td><td>样 Nu</td></tr><tr><td>冷杉 Abies fabri</td><td>天然林 Natural forest</td><td>幼、中、成、过 YF,MAF,MF and</td><td>13</td><td>甘南 Gannan</td><td>山地棕壤、山地褐土、山地灰褐土0-50cm Mountainous brown earths,moun-</td><td></td><td>3</td></tr><tr><td></td><td></td><td>OMF</td><td></td><td></td><td>tainous cinnamon soils,and moun- tainous grey cinnamon soils</td><td>0-100 cm</td><td>10</td></tr><tr><td></td><td>人工林 Plantation</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>云杉 Pice sperata Natural forest,</td><td>天然林</td><td>幼、中、近、成、32</td><td></td><td></td><td>甘南、定西、张掖、兰州、山地棕壤、山地褐土、山地灰褐土0-30 cm</td><td></td><td>1</td></tr><tr><td></td><td></td><td>MAF, MF and OMF</td><td>PMF,</td><td>武aman,Dingxi,Zhan-</td><td>Mountisoshmn gye,Lanzhou, and Wuwei tainous grey cinnamon soils</td><td>0-100 cm</td><td>31</td></tr><tr><td></td><td>人工林</td><td>幼、中、近、成</td><td>16</td><td>甘南、定西</td><td>山地棕壤、山地褐土、黄绵土</td><td>0-30cm</td><td>2</td></tr><tr><td></td><td>Plantation</td><td> YF, MAF, PMF and</td><td></td><td>Gannan and Dingxi</td><td>Mountisutic</td><td></td><td>14</td></tr><tr><td>油松</td><td>天然林</td><td>中、成</td><td>4</td><td>陇南、庆阳</td><td>loess 山地褐土、黄绵土Mountainous</td><td>0-100 cm</td><td>4</td></tr><tr><td>Pinus tabulaeformis</td><td>Natural forest 人工林</td><td>MAF and MF 幼、中、近、成</td><td></td><td>Longnan and Qingyang</td><td>cinnamon soils and cultivated loess 临夏、陇南、庆阳、定西、山地灰褐土、黄绵土、山地棕壤</td><td></td><td>20</td></tr><tr><td></td><td>Plantation</td><td>YF,MAF,PMF and MF</td><td>20</td><td>兰州</td><td>Mountainous grey cinnamon soils, cultivated loess,and mountainous</td><td>0-100</td><td></td></tr><tr><td>华山松</td><td></td><td></td><td></td><td>Linxia,Longnan,Qingy- ang,Dingxi,and Lanzhou brown earths</td><td></td><td></td><td></td></tr><tr><td>Pinus</td><td>天然林 Natural forest</td><td>近 PMF</td><td>1</td><td>天水 Tianshui</td><td>山地褐土 Mountainous cinnamon soils</td><td>0-100 cm</td><td>1</td></tr><tr><td>armandii</td><td>人工林</td><td>近 PMF</td><td>3</td><td>陇南、天水</td><td>山地棕壤、山地褐土 Mountainous brown earths and moun-</td><td>0-100 cm</td><td>3</td></tr><tr><td></td><td>Plantation</td><td></td><td></td><td>Longnan and Tianshui</td><td>tainous cinnamon soils</td><td></td><td></td></tr><tr><td>落叶松 Larix</td><td>天然林 Natural forest</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>gmelinii</td><td>人工林</td><td>幼、中、近、成</td><td>12</td><td></td><td>甘南、陇南、天水、定西 山地棕壤、山地褐土</td><td>0-100 cm</td><td>12</td></tr><tr><td></td><td>Plantation</td><td>YF, MAF, PMF and MF</td><td></td><td>Gannan, Longnan, Tianshui,and Dingxi</td><td>Mountainous brown earths and moun- tainous cinnamon soils</td><td></td><td></td></tr><tr><td>柏木 Cupressus</td><td>天然林</td><td>中</td><td>6</td><td>武威</td><td>山地灰褐土</td><td>0-100 cm</td><td>6</td></tr><tr><td>funebris</td><td>Natural forest MAF 人工林</td><td></td><td></td><td>Wuwei</td><td>Mountainous grey cinnamon soils</td><td></td><td></td></tr><tr><td>栎类</td><td>Plantation</td><td>幼、中、近、成</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Quercus spp.</td><td>天然林 Natural forest</td><td>YF, MAF, PMF and</td><td>22</td><td>陇南、天水、庆阳</td><td>山地褐土、山地棕壤 Mountainous cinwamon soilsand</td><td>0-30 cm</td><td>1</td></tr><tr><td></td><td></td><td></td><td></td><td> Qongnan,Tiansui,and</td><td></td><td>0-50 cm</td><td>2</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>0-100 cm</td><td>19</td></tr><tr><td></td><td>人工林 Plantation</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>杨树 Populus spp.</td><td>天然林</td><td>近、成 PMF and MF</td><td>3</td><td>庆阳 Qingyang</td><td>黄褐土Yellow cinamon soils</td><td>0-100 cm</td><td>3</td></tr><tr><td></td><td>Natural forest 人工林</td><td>幼、中、近、过</td><td>29</td><td></td><td>酒泉、金昌、张掖、武威、灰褐土、灌淤土、草甸土</td><td>0-50 cm</td><td>2</td></tr><tr><td></td><td>Plantation</td><td>YF,MAF, PMF and</td><td></td><td></td><td></td><td>0-100 cm</td><td>27</td></tr><tr><td>桦木</td><td>天然林</td><td>幼、中</td><td>6</td><td>gye,Wuwei,and Lanzhou 甘南、天水、庆阳</td><td>山地褐土、黄绵土</td><td>0-100 cm</td><td>6</td></tr><tr><td>Betula spp.</td><td>Natural forest</td><td>YF and MAF</td><td></td><td>Gannan,Tianshui,and Qingyang</td><td>Mountainous cinnamon soils and cultivated loess</td><td></td><td></td></tr><tr><td></td><td>人工林</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>刺槐</td><td>Plantation 天然林</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Robinia pseudoacacia</td><td>Natural forest</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>人工林</td><td>幼、中、近、成 YF,MAF,PMF and</td><td>15</td><td>平凉、庆阳、白银</td><td>黄绵土、灰褐土 Pingliang,Qingyang,andCultivatedloess and greycinnamon</td><td>0-100 cm</td><td>15</td></tr><tr><td></td><td>Plantation</td><td>MF</td><td></td><td>Baiyin</td><td>soils,</td><td></td><td></td></tr><tr><td>阔叶混交林</td><td>天然林</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Broad-leaved</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>mixed forest</td><td>Natural forest</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>人工林</td><td>幼</td><td>2</td><td>张掖、兰州</td><td>灌淤土 Irrigation sediments</td><td>0-100 cm</td><td>2</td></tr><tr><td></td><td></td><td>YF</td><td></td><td>Zhangye and Lanzhou</td><td></td><td></td><td></td></tr><tr><td></td><td>Plantation</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>针叶混交林</td><td></td><td>中、成</td><td>2</td><td>天水</td><td>黄棕壤 Yellow brown earths</td><td>0-100 cm</td><td>2</td></tr><tr><td></td><td>天然林</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>MAF and MF</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Coniferous-</td><td>Natural forest</td><td></td><td></td><td>Tianshui</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>mixed forest</td><td></td><td>幼、成</td><td></td><td></td><td>山地褐土、灌淤土Mountainous</td><td>0-50cm</td><td></td></tr><tr><td></td><td></td><td></td><td>2</td><td>陇南、兰州</td></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f222fce1434ca219cc499174fa615e3d33aa360b04db2a687cf1242506cbda84.jpg",
+        "table_caption": [
+            "关晋宏等：甘肃省森林碳储量现状与固碳速率5 "
+        ],
+        "table_footnote": [
+            "表中幼、中、近、成和过分别指幼龄林、中龄林、近熟林、成熟林和过熟林。 YF,MAF,PMFdOefertoungforestdeaedfrstatureforstaturefrstderatureestpectiely "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">森林类型 Forest type</td><td rowspan=\"2\">森林起源 Forest origin</td><td rowspan=\"2\">林龄组 Forest age group</td><td rowspan=\"2\">样地数量 Number of plots</td><td rowspan=\"2\">样地分布区 Plot location</td><td rowspan=\"2\">土壤类型 Main soil types</td><td colspan=\"2\">土壤取样 Soil sampling</td></tr><tr><td>取样深度 Sampling depth</td><td>样地数量 Number of plots</td></tr><tr><td>针阔混交林 broad-leaved</td><td>天然林 Coniferous and Natural forest</td><td>幼、中、近 YF,MAFandPMF</td><td>23</td><td>nan,and Qingyang</td><td>甘南、天水、陇南、庆阳 山地褐土、黄褐土、黄棕壤 Moun-0-30 cm Gannan, Tianshui,Long-tainous cinnamon soils,yellow cin- namon soils,and yellow brown earths</td><td></td><td>2</td></tr><tr><td>mixed forest</td><td>人工林</td><td>中</td><td>1</td><td>天水</td><td>山地褐土 Mountainous cinnamon</td><td>0-100 cm</td><td>1</td></tr><tr><td>合计</td><td>Plantation 天然林</td><td>MAF 112</td><td></td><td>Tianshui</td><td>soils</td><td></td><td></td></tr><tr><td>Total</td><td>Natural forest</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>人工林 Plantation</td><td>100</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/9d9f5122d55839b14eccadfe4bbf575d809b0dc987eac35115eb7dc869503d6b.jpg",
+        "table_caption": [
+            "表2甘肃主要森林类型林龄组划分标准 Table 2Criteria of forest age group classfication for major forest types in Gansu Province "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">森林类型 Forest type</td><td rowspan=\"2\">森林起源 Forest origin</td><td colspan=\"5\">林龄组 Forest age group</td></tr><tr><td>幼龄林 forest Young</td><td>中龄林 Middle- aged forest</td><td>近熟林 Pre-mature forest</td><td>成熟林 Mature forest</td><td>过熟林 Over-mature forest</td></tr><tr><td>冷杉、柏木</td><td>天然林 Natural forest</td><td>≤60</td><td>61-100</td><td>101-120</td><td>121-160</td><td>≥161</td></tr><tr><td>Abies fabriand Cupressus funebris</td><td>人工林 Plantation</td><td>≤40</td><td>41-60</td><td>61-80</td><td>81-120</td><td>≥121</td></tr><tr><td>云杉</td><td>天然林 Natural forest</td><td>≤40</td><td>41-80</td><td>81-100</td><td>101-140</td><td>≥141</td></tr><tr><td>Picea asperata</td><td>人工林 Plantation</td><td>≤20</td><td>21-30</td><td>31-40</td><td>41-60</td><td>≥61</td></tr><tr><td>油松、华山松、落叶松</td><td>天然林 Natural forest</td><td>≤30</td><td>31-50</td><td>51-60</td><td>61-80</td><td>≥81</td></tr><tr><td>Pinustabulaeformis,Pinus armandii and Larix gmelinii</td><td>人工林 Plantation</td><td>≤20</td><td>21-30</td><td>31-40</td><td>41-60</td><td>≥61</td></tr><tr><td>杨、白桦、其他软阔</td><td>天然林 Natural forest</td><td>≤20</td><td>21-30</td><td>31-40</td><td>41-60</td><td>≥61</td></tr><tr><td>Populus spp., Betula platyphylla and other soft broad-leaved species</td><td>人工林 Plantation</td><td>≤10</td><td>11-15</td><td>16-20</td><td>21-30</td><td>≥31</td></tr><tr><td>刺槐、红桦</td><td>天然林 Natural forest</td><td>≤30</td><td>31-50</td><td>51-60</td><td>61-80</td><td>≥81</td></tr><tr><td>Robinia pseudoacacia and Betula albosinensis</td><td>人工林 Plantation</td><td>≤20</td><td>21-30</td><td>31-40</td><td>41-60</td><td>≥61</td></tr><tr><td>栎类、其他硬阔</td><td>天然林 Natural forest</td><td>≤40</td><td>41-60</td><td>61-80</td><td>81-120</td><td>≥121</td></tr><tr><td>Quercus spp.and other hard broad-leaved species</td><td>人工林 Plantation</td><td>≤20</td><td>21-40</td><td>41-50</td><td>51-70</td><td>≥71</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.1.4土壤碳密度测定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在调查样地周围选择未受人为干扰、植被结构和土壤具代表性的地段，挖掘土壤剖面，每层取2个重复，不够 $1 0 0 \\ \\mathrm { c m }$ 的土壤剖面以实际深度计算。按照 $\\left. 0 { - } 1 0 \\thinspace \\mathrm { c m } \\thinspace , \\ 1 0 { - } 2 0 \\thinspace \\mathrm { c m } \\thinspace , \\ 2 0 { - } 3 0 \\thinspace \\mathrm { c m } \\thinspace , \\ 3 0 { - } 5 0 \\thinspace \\mathrm { c m } \\thinspace , \\ 5 0 { - } 1 0 0 \\right.$ cm不同深度，用环刀采集各层土壤后带回实验室$1 0 5 \\mathrm { ~ \\textdegree ~ }$ 烘干24h至恒重，计算各土层土壤容重。从环刀内拣出 $> 2 ~ \\mathrm { m m }$ 以上砾石，洗净、烘干称重。同时,在每个草本样方内按 $\\left. 0 { - } 1 0 \\ \\mathrm { c m } , 1 0 { - } 2 0 \\ \\mathrm { c m } , 2 0 { - } 3 0 \\ \\mathrm { c m } \\right.$ $3 0 { - } 5 0 ~ \\mathrm { c m }$ 、 $5 0 { \\mathrm { - } } 1 0 0 ~ { \\mathrm { c m } }$ 取样，将同一层土壤样品按质量比例混合，带回实验室尽早进行处理，拣出砾石、植物根系等杂物，自然风干、磨碎、过筛，用重铬酸钾硫酸氧化法测定土壤有机碳含量。土壤各层有机碳密度结合土壤各层容重、有机碳含量、砾石含量、土层深度求得，各层碳密度相加即为 $0 { - } 1 0 0 \\ \\mathrm { c m }$ 土壤有机碳密度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "土壤有机碳密度(Soil organic carbon density,$S O C D , \\mathrm { M g C } { \\cdot } \\mathrm { h m } ^ { - 2 } )$ 计算公式为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS O C D = \\sum _ { i = 1 } ^ { n } ( C _ { i } { \\times } B D _ { i } { \\times } D _ { i } ) { \\times } ( 1 - R _ { i } / 1 0 0 ) / 1 0\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $C _ { i }$ 为第层土壤有机碳含量 $( \\mathbf { g } { \\cdot } \\mathbf { k } \\mathbf { g } ^ { - 1 } )$ · $B D _ { i }$ 为该层土壤平均容重 $( \\mathrm { g } \\cdot \\mathrm { c m } ^ { - 3 } )$ ： $D _ { i }$ 为该层土壤厚度(cm), $R _ { \\iota }$ 为该层土壤 $> 2 \\mathrm { m m }$ 砾石所占百分比 $( \\% )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.1.5全省尺度森林碳储量估算",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对某一样地，将调查求得各组分(乔木层、灌木层、草本层、枯落物层和土壤层)的碳密度求和得到该样地的森林生态系统碳密度 $( \\mathrm { M g } \\mathrm { C } { \\cdot } \\mathrm { h m } ^ { - 2 } )$ 。甘肃全省森林碳储量现状基于《第八次全国森林清查成果甘肃森林清查成果》进行估算(国家林业局等,2012),该清查资料代表2011年的森林资源状况。由于20世纪60年代以来的乱砍滥伐，甘肃全省约有 $3 . 0 \\times 1 0 ^ { 7 }$ $\\mathrm { h m } ^ { 2 }$ 的森林受到严重破坏，导致调查过程中部分森林类型过熟林样地重复较少，因此本研究以同一林型各龄组的加权平均碳密度代替该林型平均碳密度进行比较。以某一森林类型为例，根据样地调查先求得该同一龄组森林生态系统各组分的平均碳密度，之后按不同龄组面积加权分别计算全省水平该森林生态系统各组分的碳密度。全省天然林和人工林平均碳密度分别按照不同植被类型面积加权平均求得。全省尺度上的碳储量由不同林型各组分的碳密度乘以相对应的面积加和求得。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/42b9ddbccb372646536d59bb193c7ea704fcbaa3e9b7315f9a1c0f663c71f6fe.jpg",
+        "table_caption": [
+            "表3甘肃主要优势树种及主要伴生树种生物量方程 ble 3Biomass equation of dominant and associate tree species in Gansu Province "
+        ],
+        "table_footnote": [
+            "$D$ 为单株乔木胸径(cm);H为单株乔木高度(m)。 $D$ and $H$ refer to tree diameter at breast height (cm) and tree height (m),respectively. "
+        ],
+        "table_body": "<html><body><table><tr><td>树种 Tree species</td><td>干 Stem (kg/ind.)</td><td>枝Twigs (kg/ind.)</td><td>叶Leaves (kg/ind.)</td><td>根 Roots (kg/ind.)</td><td>皮Barks (kg/ind.)</td></tr><tr><td>1.云、冷杉Picea as- perata and Abies fabri</td><td></td><td>EXP(-3.9744)(D²H)0.9434EXP(-4.6350)(D2H)0.9257EXP(-5.9391)(D2H)0.9257</td><td></td><td></td><td>EXP(5.2791)(DH)9457EXP(-5.5587)(D</td></tr><tr><td>2.油松 Pinus tabulaeformis</td><td></td><td></td><td></td><td></td><td>EXP(-3.8828)D5X((D)X)(D)X((HE(</td></tr><tr><td>3.锐齿栎 Quercus</td><td></td><td></td><td></td><td></td><td>EXP(-4.0347)(DH9EX(84)(DH)36EX(87DH)088X(3(DH)77EX(44)(</td></tr><tr><td>aliena var. acuteserrata 4.柏木</td><td>0.0427(D²H)0.8545</td><td>0.0128(D²H)0.8916</td><td>0.0258(D²H)0.7037</td><td>0.0079(D2H)0.9385</td><td></td></tr><tr><td>Cupressus funebris 5.杨、桦Populus</td><td></td><td></td><td></td><td></td><td>EXP(-3.8023)(DH)3EXP(-590)(DH)0EXP(-3.9108)(DH)6EXP(-3.56(DH)7692XP(5.3(D</td></tr><tr><td>spp.and Betula spp. 6.落rgiD(H)DH)D</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7.华山松</td><td></td><td></td><td></td><td></td><td>EXP(-3.9041)(DH)6XP(409)(DH)986XP(4.859)(DH36X(.37(DH)345EXP(-4676(D</td></tr><tr><td>Pinus armandi 8.栓皮栎</td><td></td><td></td><td></td><td>EXP(-3.7447)(HX44(H)X(56DH)X(6DH)X(6</td><td></td></tr><tr><td>Quercus variabilis 9.辽东栎</td><td>0.0493(D2H)0.8514</td><td>0.0026(D2H)1.1887</td><td>0.0119(D²H)0.835</td><td>0.1009(D2H)0.6879</td><td></td></tr><tr><td>Quercus wutaishanica 10.刺槐</td><td>0.0302(D²H)0.9474</td><td>0.004(D2H)1.0868</td><td>0.006(D2H)0.8403</td><td>0.0119(D2H)0.9501</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>broad-leaved species broad-leaved species 12.其他软阔 Other soft 0.021(D²H)0.9642</td><td></td><td>0.0011(D²H)1.1909</td><td>0.0022(D²H)0.8595</td><td>0.053(D²H).7452</td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.1.6 固碳速率的估算 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究固碳速率的估算仅涉及植被碳储量的固碳速率。在样地调查和碳储量现状估算的基础上，结合4次森林资源清查资料(1996、2001、2006和2011年状况)，通过4个时期的全省植被碳储量变化估算其固碳速率 $( \\mathrm { M g } \\mathrm { C } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 } )$ ，公式如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta C _ { s } = \\frac { ( C _ { s 2 } - C _ { s 1 } ) } { ( t _ { 2 } - t _ { 1 } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中， $C \\bf s _ { 1 }$ 、 $C \\mathbf { s } _ { 2 }$ 分别代表 $t _ { 1 }$ 、 $t _ { 2 }$ 时间的碳储量 $( \\mathrm { M g }$ $\\mathrm { C } { \\cdot } \\mathrm { h m } ^ { - 2 } ;$ ）",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2 结果和分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1甘肃省天然林、人工林生态系统碳密度及垂直结构",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "甘肃省天然林森林生态系统以土壤平均有机碳密度最高为 $2 0 7 . 2 8 ~ \\mathrm { M g } ~ \\mathrm { C { \\cdot h m } } ^ { - 2 }$ ，植被层各层平均碳密度大小顺为乔木层 $( 8 6 . 7 5 ~ \\mathrm { M g } ~ \\mathrm { C \\cdot h m } ^ { - 2 } ) \\textgreater$ 枯落物层（2 $( 2 . 2 5 ~ \\mathrm { M g } ~ \\mathrm { C \\cdot h m } ^ { - 2 } ) ^ { > }$ 灌木层 $( 1 . 0 2 ~ \\mathrm { M g } ~ \\mathrm { C } { \\cdot } \\mathrm { h m } ^ { - 2 } ) .$ >草本层（2号 $( 0 . 5 0 \\mathrm { ~ M g } \\mathrm { ~ C } { \\cdot } \\mathrm { h m } ^ { - 2 } )$ (表4)。不同天然林类型中，乔木层、灌木层、草本层和枯落物层碳密度分别介于36.03-179.92、0.34-1.38、0.36-0.85和 $1 . 4 7 { - } 8 . 3 5 \\mathrm { M g }$ $\\mathrm { C } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 之间，变异系数分别为 $7 5 . 5 2 \\%$ 、 $1 2 1 . 9 2 \\%$ 、$12 1 . 4 0 \\%$ 和 $9 6 . 8 0 \\%$ 。其中，乔木层中碳密度较大的林型为冷杉、云杉、铁杉寒温性针叶林，最小林型为杨树，灌木层碳密度最大和最小林型分别为冷杉林和其他软阔，草本层碳密度最大和最小林型分别为云杉林和冷杉林，枯落物层碳密度最大和最小的林型分别为其他松类和冷杉林。对土壤有机碳密度频度分析显示，甘肃省天然林土壤有机碳密度变化范围在118.20-391.91 Mg $\\mathrm { C } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 之间，变异系数为$6 0 . 1 7 \\%$ ，呈右偏态分布，但经对数转化后，符合K-S正态性检验 $( p > 0 . 0 5 )$ 。各天然林类型中，土壤有机碳密度较大的林型为铁杉、冷杉、云杉、柏木寒温性针叶林，杨树最小。各天然林林型中，土壤有机碳密度是植被碳密度的1.64-5.43倍，平均2.28倍。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/269a6de15044984309f6fc2d49b853db9364d377f9ce76af6a62798f839dda32.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">森林类型 Forest type</td><td colspan=\"5\">碳密度 Carbon density (Mg C·hm-2)</td></tr><tr><td>乔木层 Tree layer</td><td>灌木层 Shrub layer</td><td>草本层 Herb layer</td><td>枯落物层 Litter layer</td><td>土壤层 Soil layer</td></tr><tr><td>冷杉Abies fabri</td><td>179.92</td><td>1.38</td><td>0.36</td><td>1.47</td><td>383.18</td></tr><tr><td>云杉 Picea asperata</td><td>107.06</td><td>1.26</td><td>0.85</td><td>1.96</td><td>369.90</td></tr><tr><td>铁杉Tsuga chinensis</td><td>125.71</td><td>0.99</td><td>0.44</td><td>2.93</td><td>391.91</td></tr><tr><td>落叶松 Larix gmelinii</td><td>102.61</td><td>0.87</td><td>0.71</td><td>2.75</td><td>296.44</td></tr><tr><td>油松Pinus tabulaeformis</td><td>75.93</td><td>0.42</td><td>0.51</td><td>6.92</td><td>179.99</td></tr><tr><td>华山松 Pinus armandii</td><td>71.33</td><td>0.39</td><td>0.78</td><td>2.17</td><td>215.78</td></tr><tr><td>其他松类 Other pines</td><td>83.23</td><td>0.49</td><td>0.57</td><td>8.35</td><td>216.50</td></tr><tr><td>柏木 Cupressus funebris</td><td>64.15</td><td>0.57</td><td>0.54</td><td>1.54</td><td>362.56</td></tr><tr><td>栎类 Quercus spp.</td><td>88.85</td><td>1.34</td><td>0.41</td><td>1.79</td><td>152.00</td></tr><tr><td>桦木 Betula spp.</td><td>63.85</td><td>0.75</td><td>0.40</td><td>2.75</td><td>160.11</td></tr><tr><td>杨树 Populus spp.</td><td>36.03</td><td>0.49</td><td>0.73</td><td>2.39</td><td>118.20</td></tr><tr><td>其他硬阔 Other hardwood broad-leaved species</td><td>84.31</td><td>1.20</td><td>0.40</td><td>1.98</td><td>144.56</td></tr><tr><td>其他软阔 Other softwood broad-leaved species</td><td>44.42</td><td>0.34</td><td>0.52</td><td>2.64</td><td>125.38</td></tr><tr><td>针叶混Mixed coniferous forest</td><td>106.54</td><td>0.83</td><td>0.60</td><td>3.79</td><td>293.39</td></tr><tr><td>阔叶混Mixed broad-leaved forest</td><td>71.09</td><td>1.01</td><td>0.47</td><td>2.34</td><td>155.40</td></tr><tr><td>针阔混 Mixed coniferous and broad-leaved forest</td><td>58.23</td><td>0.54</td><td>0.40</td><td>3.80</td><td>159.94</td></tr><tr><td>加权平均 Weighted average</td><td>86.75</td><td>1.02</td><td>0.50</td><td>2.25</td><td>207.28</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/c727730bab73e424d6c61495ed4d183e1f7f95c5498e8ea0bf677982dd763a83.jpg",
+        "table_caption": [
+            "表4甘肃省天然林森林生态系统不同组分碳密度 Table 4Carbon density in different components of natural forest ecosystems in Gansu Province ",
+            "表5甘肃省人工林森林生态系统不同组分碳密度 Table 5Carbon density in different components of plantations in Gansu Province "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">森林类型 Forest type</td><td colspan=\"5\">碳密度 Carbon density (Mg C·hm-2)</td></tr><tr><td>乔木层 Tree layer</td><td>灌木层 Shrub layer</td><td>草本层 Herb layer</td><td>枯落物层 Litter layer</td><td>土壤层 Soil layer</td></tr><tr><td>冷杉Abies fabri</td><td>25.79</td><td>0.77</td><td>0.53</td><td>1.39</td><td>272.30</td></tr><tr><td>云杉Picea asperata</td><td>28.52</td><td>1.26</td><td>0.53</td><td>0.78</td><td>338.34</td></tr><tr><td>落叶松 Larix gmelinii</td><td>33.13</td><td>0.69</td><td>0.52</td><td>1.54</td><td>218.36</td></tr><tr><td>油松Pinus tabulaeformis</td><td>44.93</td><td>0.45</td><td>0.29</td><td>2.69</td><td>141.24</td></tr><tr><td>华山松 Pinus armandii</td><td>57.79</td><td>1.17</td><td>0.48</td><td>2.53</td><td>174.25</td></tr><tr><td>其他松类 Other pines</td><td>36.82</td><td>0.79</td><td>0.41</td><td>2.14</td><td>179.19</td></tr><tr><td>柏木 Cupressus funebris</td><td>22.38</td><td>0.77</td><td>0.62</td><td>0.90</td><td>232.82</td></tr><tr><td>栎类 Quercus spp.</td><td>48.35</td><td>0.01</td><td>0.43</td><td>2.23</td><td>53.90</td></tr><tr><td>桦木 Betula spp.</td><td>30.08</td><td>0.01</td><td>1.08</td><td>0.88</td><td>69.63</td></tr><tr><td>杨树 Populus spp.</td><td>59.44</td><td>0.01</td><td>0.55</td><td>0.81</td><td>90.25</td></tr><tr><td>刺槐Robinia pseudoacacia</td><td>15.48</td><td>0.02</td><td>1.14</td><td>1.36</td><td>52.39</td></tr><tr><td>其他硬阔 Other hardwood broad-leaved species</td><td>27.59</td><td>0.01</td><td>0.85</td><td>1.19</td><td>72.02</td></tr><tr><td>其他软阔 Other softwood broad-leaved species</td><td>45.76</td><td>0.01</td><td>0.58</td><td>2.60</td><td>100.66</td></tr><tr><td>针叶混 Mixed coniferous forest</td><td>36.37</td><td>0.16</td><td>0.68</td><td>0.72</td><td>51.12</td></tr><tr><td>阔叶混Mixed broad-leaved forest</td><td>27.18</td><td>0.01</td><td>0.72</td><td>1.07</td><td>34.28</td></tr><tr><td>针阔混 Mixed coniferous and broad-leaved forest</td><td>70.10</td><td>1.14</td><td>0.15</td><td>2.39</td><td>328.21</td></tr><tr><td>加权平均 Weighted average</td><td>31.39</td><td>0.22</td><td>0.81</td><td>1.37</td><td>107.07</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "甘肃省人工林森林生态系统以土壤平均有机碳密度最大，为 $1 0 7 . 0 7 \\mathrm { M g } \\mathrm { C } \\cdot \\mathrm { h m } ^ { - 2 }$ ，植被层各层平均碳密度大小顺为乔木层 $( 3 1 . 3 9 \\mathrm { ~ M g } \\mathrm { ~ C } { \\cdot } \\mathrm { h m } ^ { - 2 } ) \\ –$ 枯落物层$( 1 . 3 7 ~ \\mathrm { M g } ~ \\mathrm { C } { \\cdot } \\mathrm { h m } ^ { - 2 } ) ^ { . }$ >草本层 $( 0 . 8 1 \\mathrm { ~ M g ~ C } { \\cdot } \\mathrm { h m } ^ { - 2 } ) ^ { > }$ 灌木层（20 $( 0 . 2 2 \\mathrm { ~ M g ~ C } { \\cdot } \\mathrm { h m } ^ { - 2 } )$ (表5)。不同人工林类型中，乔木层、灌木层、草本层和枯落物层碳密度分别介于15.48-70.10、0.01-1.26、0.15-1.14和 $0 . 7 2 { - } 2 . 6 9 \\ \\mathrm { M g }$ $\\mathrm { C } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，变异系数分别为 $8 6 . 3 4 \\%$ 、 $1 7 0 . 9 5 \\%$ 、 $8 0 . 2 4 \\%$ 和 $1 1 8 . 5 6 \\%$ 。土壤有机碳密度变化范围在34.28-338.34 Mg $\\mathrm { C } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 之间，变异系数为 $7 5 . 9 1 \\%$ ，呈右偏态分布，但经对数转化后，符合K-S正态性检验$( p { > } 0 . 0 5 )$ 。各人工林类型中，土壤有机碳密度最大和最小的林型分别为云杉和阔叶混交林，土壤有机碳密度是植被碳密度的1.06-10.88，平均4.08倍。对同一优势种，天然林土壤有机碳密度均高于人工林,平均高出 $1 0 7 . 9 7 \\%$ ，除杨树和其他软阔外，天然林乔木层碳密度均高于人工林，平均高出 $1 7 8 . 0 2 \\%$ 说明天然林的固碳能力显著高于人工林。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从龄组划分来看，甘肃省天然林、人工林植被碳密度均表现为过熟林 $. >$ 成熟林 $>$ 近熟林 $. >$ 中龄林>幼龄林，且同一龄组天然林植被碳密度均高于人工林(图1A)。天然林幼龄林、中龄林、近熟林、成熟林和过熟林的植被碳密度分别为：58.89、71.46、89.73、118.70和 $1 7 6 . 6 1 \\mathrm { M g } \\mathrm { C } \\mathrm { h m } ^ { - 2 }$ ，比人工林分别高了 $1 4 7 . 4 2 \\%$ 、 $8 4 . 9 9 \\%$ 、 $1 0 0 . 8 5 \\%$ 、 $67 . 5 1 \\%$ 和 $1 0 2 . 5 5 \\%$ 。随着林龄的增加，天然林的植被固碳能力增幅逐渐增加，而人工林的固碳增幅从中龄林到近熟林最大。甘肃省天然林土壤有机碳密度随着林龄的增加逐渐增加，但近熟林略小于中龄林，人工林土壤有机碳密度在近熟林中达到最大 $( 1 8 6 . 7 9 \\mathrm { ~ M g ~ C { \\cdot } h m } ^ { - 2 } )$ ，在过熟林中最小 $( 8 4 . 0 5 \\mathrm { M g } \\mathrm { C } { \\cdot } \\mathrm { h m } ^ { - 2 } )$ (图1B)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2甘肃省森林生态系统碳储量现状",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "甘肃省全省森林生态系统总碳储量为612.43TgC，植被和土壤碳储量分别为179.04和 $4 3 3 . 3 9 ~ \\mathrm { T g }$ C，占全省总碳储量的 $2 9 . 2 3 \\%$ 和 $7 0 . 7 7 \\%$ (表6)。天然林总碳储量为501.42TgC，是人工林的4.52倍，在天然林各森林类型中，冷杉、云杉林较高的植被和土壤碳密度导致了其较大的碳储量，占天然林生态系统碳储量的 $1 4 . 7 7 \\%$ 和 $1 6 . 1 2 \\%$ 。栎类和阔叶混交林面积较大，合计占天然林面积的 $3 8 . 7 3 \\%$ ，因此，对全省森林生态系统碳储量的贡献也大，分别达",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$1 7 . 7 8 \\%$ 和 $1 8 . 5 1 \\%$ 。对人工林各森林类型中，面积分布大的森林类型其碳储量也大，刺槐、杨树和云杉人工林面积合计占 $6 2 . 6 1 \\%$ ，对人工林碳储量的贡献率分别达 $1 6 . 1 4 \\%$ 、 $1 7 . 1 5 \\%$ 和 $2 0 . 2 2 \\%$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "200 A天然林Natural forest人工林Plantation150塑 10050 L0C B500400300200100 10幼龄林中龄林 近熟林成熟林 过熟林YF MAF PM MF OMF龄组 Age group",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3甘肃省植被碳储量固碳速率 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "国家林业局自1994年森林资源清查时，森林郁闭度标准从0.3改为0.2，为采用统一标准比较不同时期森林固碳的动态变化，本研究使用1996年、2001年、2006年和2011年连续4次甘肃省森林资源清查资料。此外，由于土壤碳储量受植被类型及土壤类型等多因素的共同影响，本研究仅比较植被层碳储量年变化及固碳速率。甘肃省天然林碳储量随时间变化呈上升趋势，在1996年、2001年、2006年和2011年分别达到132.47、135.27、143.44和152.41 TgC，且中龄林和成熟林碳储量在各个时期比重最大，占 $5 0 . 1 0 \\% { - } 5 3 . 8 8 \\%$ (图2A)。人工林碳储量随时间的增加增幅较大，从1996年到2011年增加了 $1 0 7 . 9 3 \\%$ 。人工林各龄组中，幼、中龄林碳储量比重较大，各个",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "时期合计占人工林碳储量的 $6 3 . 7 0 \\% 8 3 . 2 1 \\%$ （图2B)。各个时期不同龄组中，天然林植被碳储量以中",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/7484724188a0726e0205f30bc7e038a7feb0cfa359b822c69eb29d69f31d6018.jpg",
+        "table_caption": [
+            "表6甘肃省森林生态系统碳储量",
+            "Table6 Forest ecosystem carbon stocks in Gansu Province "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">森林类型 Forest type</td><td colspan=\"3\">天然林碳储量</td><td colspan=\"3\">人工林碳储量</td></tr><tr><td colspan=\"3\">Natural forest carbon stock (Tg C)</td><td colspan=\"3\">Planted forest carbon stock (Tg C)</td></tr><tr><td>面积 Area (100 hm²)</td><td>植被层 Vegetation layer</td><td>土壤层 Soillayer</td><td>面积 Area (100 hm2)</td><td>植被层 Vegetation layer</td><td>土壤层 Soil layer</td></tr><tr><td>冷杉Abies fabri</td><td>1574</td><td>28.83</td><td>60.31</td><td>12</td><td>0.03</td><td>0.33</td></tr><tr><td>云杉Picea asperata</td><td>1929</td><td>21.44</td><td>71.35</td><td>485</td><td>1.51</td><td>16.41</td></tr><tr><td>铁杉Tsugachinensis</td><td>12</td><td>0.16</td><td>0.47</td><td>一</td><td>一</td><td></td></tr><tr><td>落叶松Larix gmelinii</td><td>27</td><td>0.29</td><td>0.80</td><td>577</td><td>2.07</td><td>12.60</td></tr><tr><td>油松Pinus tabulaeformis</td><td>292</td><td>2.45</td><td>5.26</td><td>475</td><td>2.30</td><td>6.71</td></tr><tr><td>华山松 Pinus armandii</td><td>544</td><td>4.06</td><td>11.74</td><td>156</td><td>0.97</td><td>2.72</td></tr><tr><td>其他松类 Other pines</td><td>9</td><td>0.08</td><td>0.19</td><td>9</td><td>0.04</td><td>0.16</td></tr><tr><td>柏木 Cupressus funebris</td><td>506</td><td>3.38</td><td>18.35</td><td>18</td><td>0.04</td><td>0.42</td></tr><tr><td>栎类 Quercus spp.</td><td>3307</td><td>30.55</td><td>50.27</td><td>9</td><td>0.05</td><td>0.05</td></tr><tr><td>桦木 Betula spp.</td><td>1813</td><td>12.28</td><td>29.03</td><td>6</td><td>0.02</td><td>0.04</td></tr><tr><td>杨树 Populus spp.</td><td>551</td><td>2.18</td><td>6.51</td><td>1260</td><td>7.66</td><td>11.37</td></tr><tr><td>刺槐Robinia pseudoacacia</td><td>1</td><td></td><td></td><td>3189</td><td>5.74</td><td>16.71</td></tr><tr><td>其他硬阔 Other hardwood broad-leaved species</td><td>1650</td><td>14.50</td><td>23.85</td><td>1091</td><td>3.23</td><td>7.86</td></tr><tr><td>其他软阔 Other softwood broad-leaved species</td><td>631</td><td>3.02</td><td>7.91</td><td>164</td><td>0.80</td><td>1.65</td></tr><tr><td>针叶混 Mixed coniferous forest</td><td>42</td><td>0.47</td><td>1.23</td><td>39</td><td>0.15</td><td>0.20</td></tr><tr><td>阔叶混Mixed broad-leaved forest</td><td>3215</td><td>24.08</td><td>49.96</td><td>193</td><td>0.56</td><td>0.66</td></tr><tr><td>针阔混 Mixed coniferous and broad-leaved forest</td><td>736</td><td>4.63</td><td>11.77</td><td>198</td><td>1.46</td><td>6.50</td></tr><tr><td>合计Total</td><td>16838</td><td>152.41</td><td>349.01</td><td>7881</td><td>26.63</td><td>84.38</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "龄林最高，人工林以幼龄林最高。各个时期同一龄组天然林碳储量占全省植被碳储量的比例均高于人工林，是人工林的5.53-10.34倍。天然林分别占同期全省碳储量的 $| 9 1 . 1 8 \\% \\ 、 9 0 . 3 3 \\% \\small { , } 8 4 . 6 8 \\% \\small { , } 8 5 . 1 3 \\%$ ，说明天然林是甘肃森林植被碳汇功能的主要贡献者，同时人工林的碳汇功能正处于上升阶段。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "甘肃省天然林从1996年到2011年平均每年固碳$1 . 3 3 { \\mathrm { ~ T g ~ C ~ } }$ ，比人工林高0.41TgC。天然林在1996-2001年和2006-2011年2个5年期间平均固碳量均高于人工林，分别高出0.23和1.65TgC。而在2001-2006年期间，人工林的平均固碳量高于天然林，这主要归因于1998年以来相继开展的\"天然林资源保护工程\"和“退耕还林\"等一系列林业工程，甘肃省加大了人工林种植面积，幼、中龄林面积在5年期间共增加了 $8 6 . 0 4 \\%$ ，使得人工林碳储量也相应增加了 $8 6 . 9 4 \\%$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1甘肃省森林生态系统碳密度、碳储量现状",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究通过样地调查结合森林资源清查资料得出甘肃省森林生态系统总碳储量为612.43 Tg C,占我国森林生态系统的 $2 . 1 8 \\% - 3 . 7 4 \\%$ 李克让等，2003；周玉荣等,2000)。其中土壤碳为 $4 3 3 . 3 9 \\mathrm { T g } \\mathrm { C }$ 是植被碳储量的2.42倍，约 $70 \\%$ 的碳储存于土壤中,说明该区土壤碳库作为森林生态系统内最大的碳库，将对未来气候变化发挥重要作用。甘肃省乔木层碳储量为 $1 7 0 . 8 0 \\mathrm { ~ T g ~ C } .$ ，比赵敏和周广胜(赵敏和周广胜,2004) ${ 7 6 . 9 9 \\mathrm { T g } \\mathrm { C } }$ ,1989-1993年)、王效科等(王效科等,2001)( $7 1 . 9 2 \\mathrm { T g } \\mathrm { C }$ ,1984-1988)、吴庆标等(吴庆标等，2008)(78.77 Tg C,1990-2000年)等人的估算分别提高了 $1 2 2 . 7 1 \\%$ 、 $1 3 7 . 4 9 \\%$ 、 $1 1 6 . 8 3 \\%$ ，表明甘肃森林植被在近十几年来发挥着可观的碳汇作用。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "甘肃省森林乔木层平均碳密度为 $6 9 . 1 0 ~ \\mathrm { \\ M g }$ $\\mathrm { C } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，高于方精云等 $( 2 0 0 7 ) ( 4 1 . 0 ~ \\mathrm { { \\ M g } ~ \\ C \\cdot h m ^ { - 2 } } )$ 和Zhang等( $2 0 1 3 \\mathrm { a } ) ( 4 0 . 1 2 ~ \\mathrm { M g } ~ \\mathrm { C \\cdot h m } ^ { - 2 } )$ 分别估算的全国森林生态系统乔木层平均碳密度，同时也高于同期毗邻省区陕西 $( 3 1 . 3 8 \\mathrm { ~ M g ~ C } { \\cdot } \\mathrm { h m } ^ { - 2 } )$ (崔高阳等,2015)和宁夏 $( 1 8 . 5 3 ~ \\mathrm { M g } ~ \\mathrm { C \\cdot h m } ^ { - 2 } )$ (高阳等，2014)。究其原因,一方面是由于该区分布有大量云冷杉等寒温性针叶林，为本区演替的顶级群落，其面积和蓄积合计占全省森林的 $2 0 . 7 5 \\%$ 和 $3 9 . 1 9 \\%$ ，森林碳储量在单位面积的积累较高。另一方面是方法性的差异，目前对区域尺度的研究大多采用生物量转换因子连续函数",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/df42f11d6013bb6f05bb596a13be41c080dd382dbf87a51ff73eb08e3089cf35.jpg",
+        "img_caption": [
+            "图2甘肃省天然林(A)、人工林(B)不同龄组植被层碳储量 随时间的变化。龄组代码说明见表1。 Fig.2Changes in vegetation carbon stocks for different age groups in natural forests(A) and plantations (B) with time of the national forest inventory in Gansu Province.For explanation of forest age group code,see Table 1. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/16b61ff62ae991d262c3c99cbf789349ed6f822f1785b65e5d461be7911bc2a2.jpg",
+        "img_caption": [
+            "图3甘肃省天然林、人工林植被层平均年固碳量。 Fig.3Mean annual carbon sequestration in natural forests and plantations in Gansu Province. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "www.plant-ecology.com ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "法推算乔木层生物量，乘以0.45或0.5作为碳密度，而忽略了树种及器官间的差异，使得结果具有一定差异(方精云等,2007; Zhang et al.,2013a)。甘肃省天然林乔木层平均碳密度为 $8 6 . 7 5 ~ \\mathrm { M g } ~ \\mathrm { C } \\cdot \\mathrm { h m } ^ { - 2 }$ ，而人工林仅为 $3 1 . 3 9 ~ \\mathrm { M g } ~ \\mathrm { C } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，这是由于甘肃人工林中有$8 3 . 8 5 \\%$ 的乔木林面积处于幼、中龄林阶段，具有较低的生物量碳。全国森林生物量碳有 $8 5 . 3 0 \\%$ 贮存在中龄林和成熟林中，随着林龄的增加，幼、中龄林在该区将发挥更大的碳汇潜力。甘肃省人工林平均土壤有机碳密度 $( 1 0 7 . 0 7 \\mathrm { ~ M g } \\mathrm { ~ C } { \\cdot } \\mathrm { h m } ^ { - 2 } )$ 接近于我国人工林平均水平 $( 1 0 7 . 1 0 \\mathrm { M g } \\mathrm { C } { \\cdot } \\mathrm { h m } ^ { - 2 } )$ (刘世荣等,2011)。天然林平均土壤碳密度为 $2 0 7 . 2 8 ~ \\mathrm { M g } ~ \\mathrm { C } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，远高于我国天然林平均水平 $( 1 0 9 . 1 ~ \\mathrm { { M g } ~ C \\cdot h m ^ { - 2 } } )$ (刘世荣等,2011)，这是由于云冷杉、柏木等寒温性针叶林具有较高的土壤有机碳密度，利用其面积加权平均后，全省仍处在一个高土壤碳密度水平。本研究中的云冷杉、柏木等寒温性针叶林的平均土壤有机碳密度为 $3 7 3 . 7 5 ~ \\mathrm { M g } ~ \\mathrm { C } \\cdot \\mathrm { h m } ^ { - 2 }$ ，接近于周玉荣等(2000)对全国云冷杉土壤有机碳的估计值 $( 3 6 0 . 7 9 \\mathrm { M g } \\mathrm { C } { \\cdot } \\mathrm { h m } ^ { - 2 } )$ 。本研究中云冷杉、柏木等寒温性针叶林分布在海拔$2 1 9 1 - 3 4 0 4 \\mathrm { ~ m ~ }$ ，且有部分森林为原始森林，地表枯落物厚、温度低、土壤相对湿度大、冻结时间长，土壤异养呼吸受到限制，而有利于土壤有机质的积累，使得该区土壤有机碳密度较高(Tewksbury&vanMiegroet，2007)，成为我国森林生态系统重要的土壤碳库。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2甘肃省森林植被固碳量及碳汇潜力预测 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "甘肃省天然林、人工林植被碳储量从1996年到2011年分别增加了 $1 9 . 9 5 , 1 3 . 8 2 \\mathrm { T g } \\mathrm { C } ,$ 平均年固碳量为1.33、 $0 . 9 2 \\mathrm { T g } \\mathrm { C } { \\cdot } \\mathrm { a } ^ { - 1 }$ ，高于同期山西省天然林(0.86$\\mathrm { T g ~ C { \\cdot } a } ^ { - 1 } )$ 和人工林 $( 0 . 3 7 \\mathrm { ~ T g ~ C { \\cdot } a } ^ { - 1 } )$ 年均固碳量(王宁，2014)，也高于同期青藏高原高寒区阔叶林年均固碳量 $( 1 . 2 9 \\mathrm { ~ T g ~ C { \\cdot } a } ^ { - 1 } )$ 。对不同时期来说，甘肃省植被年均固碳量 $( 2 . 2 5 ~ \\mathrm { T g ~ C { \\cdot } a ^ { - 1 } } )$ 低于四川省(含重庆)(6.05$\\mathrm { { T g \\ C { \\cdot } a } ^ { - 1 } }$ ，1994-2003年)(黄从德等，2008a)、广东省(3.25 Tg $\\mathrm { { C } { \\cdot } a } ^ { - 1 }$ ，1997-2007年）（叶金盛和余光辉，2010)，远高于黑龙江省 $\\left( - 2 . 2 8 \\mathrm { \\ T g \\ C { \\cdot } a } ^ { - 1 } \\right.$ ，1994-2003年)(焦燕和胡海清，2005)、辽宁省 $( 1 . 9 1 \\mathrm { T g } \\ \\mathrm { C } { \\cdot } \\mathrm { a } ^ { - 1 }$ ，1995-2000年)(王雪军等,2008)等其他省份。说明甘肃森林全国森林中具有较强的碳汇功能，在全国尤其是西部森林碳储量中占有重要地位。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "造林和再造林是减缓 $\\mathrm { C O } _ { 2 }$ 排放的主要途径之一(Steffenetal.，1998)，我国人工林自20世纪70年代末期以来导致的碳汇增加了 $0 . 4 5 { \\mathrm { ~ P g ~ C ~ } } _ {  }$ ，对我国森林总碳汇的贡献率超过 $80 \\%$ (Fang et al.,2001)。有研究表明，在恰当的人为管理与经营下，同一地区人工林 $( 2 0 3 \\mathrm { M g } \\mathrm { C } { \\cdot } \\mathrm { h m } ^ { - 2 } )$ 比天然林 $( 1 6 2 ~ \\mathrm { M g } ~ \\mathrm { C } { \\cdot } \\mathrm { h m } ^ { - 2 } )$ 具有较高的生物量碳密度(Baishya et al.,2009)。甘肃人工林面积达 $7 8 . 8 1 \\ \\times \\ 1 0 ^ { 4 } \\ \\mathrm { h m } ^ { 2 }$ ，且幼中龄林面积占$8 3 . 8 5 \\%$ ，各植被类型植被层碳密度较小(18.00-$7 3 . 7 8 ~ \\mathrm { M g } ~ \\mathrm { C \\cdot h m } ^ { - 2 } )$ ，其碳储存密度尚未达到最大，若能减少人为破坏与干扰，加强营林管理，幼、中龄林将是未来该区碳汇的最大潜力所在，人工林在植被碳储量中的比例会不断提高。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3固碳估算结果的不确定性",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "森林碳汇的增加主要是来自森林再生长和增强生长，从而有更多的有机碳进入森林生态系统。然而，森林碳汇受自然和人为多种因素的影响，如环境污染(Schimel,1995)、氮沉降(Vetter etal.,2005)、森林采伐(Pennock&vanKessel，1997)、土地覆被/利用变化(Wiesmeieret al.,2015)、甚至昆虫灾害(Kurz&Apps，1999)等都会引起森林植被及土壤有机碳库的变化。因此，准确估算大尺度碳汇量具有一定难度，需要在同一标准下更精细化的研究。对森林生态系统碳库的估算，首先是量化乔木层、林下灌草层、枯落物层及土壤层的碳库分配特征。然而，早期的研究仅针对乔木层的碳汇研究，由于方法间的差异，使得对碳储量的估算具有一定的不确定性，此外，林下灌草层、枯落物、土壤等信息缺乏使得对森林生态系统碳库的动态研究成为难点。以国家第三次森林资源清查资料(1989-1993)为基础,方精云和陈安平(2001)、王效科等(2001)、赵敏和周广胜(2004)、吴庆标等(2008)采用不同方法估算甘肃省植被碳储量的结果分别为92.78、71.92、76.69、$7 4 . 2 5 \\mathrm { T g } \\mathrm { C } _ { \\mathrm { \\scriptsize { 1 2 } } }$ ，误差达 $8 . 8 6 \\% - 1 7 . 5 8 \\%$ 。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "纵观甘肃全省植被和土壤有机碳密度，均高于全国及毗邻省区水平，低于天山雪岭云杉的植被中 $9 2 . 5 7 ~ \\mathrm { M g } { \\cdot } \\mathrm { C } ~ \\mathrm { h m } ^ { - 2 } )$ 和土壤有机碳密度 $( 4 5 2 . 0 0 ~ \\mathrm { M g \\cdot C }$ $\\mathrm { h m } ^ { - 2 \\cdot }$ )(未发表数据)，其中存在的不确定因素较多。首先是来自土壤有机碳密度的误差，土壤有机碳的空间变异性较大，其大小受土壤类型、地形、气候、林龄及人为干扰等因素的共同影响。由于甘肃地形复杂，海拔 $3 0 0 0 \\mathrm { ~ m ~ }$ 以上的山原约占全省土地总面积的 $20 \\%$ ，森林分布具有很大的异质性，本研究中约有 $3 7 \\%$ 的样地分布在海拔 $2 0 0 0 { - } 3 4 0 0 \\ \\mathrm { ~ m ~ }$ ，而海拔是导致针叶林土壤有机碳密度变异的主导因子(解宪丽等,2004)。甘肃全省212个样地土壤有机碳密度范围为 $2 8 . 2 4 { - } 6 4 9 . 4 4 \\mathrm { M g } \\mathrm { C } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，变异系数为 $70 . 2 1 \\%$ 所有剖面土壤有机碳密度的频度分布呈右偏态分布，但经过对数转化后通过K-S正态性检验（20 $( p { > } 0 . 0 5 )$ ，因而中位数 $1 5 4 . 2 9 ( \\mathrm { M g } \\mathrm { \\ C } { \\cdot } \\mathrm { h m } ^ { - 2 } )$ 在统计学上更能代表该省的土壤有机碳密度平均水平，但考虑到甘肃省森林分布的异质性，本文在计算过程中使用了面积加权来计算各组分的碳密度，也是土壤有机碳密度偏大的原因之一。其次，本文虽遵循了《生态系统固碳现状、速率和潜力研究调查规范》的样点布设方法，但在实际操作中并非完全随机布点，而是倾向于调查易于接近和林分状况较好的林型，可能造成区域森林碳储量的估算相对较高。另一方面由于20世纪60年代以来的乱砍滥伐，甘肃森林大面积 $( 3 . 0 \\times 1 0 ^ { 7 } \\mathrm { h m } ^ { 2 } )$ 受到严重破坏，因此在调查过程中天然林中仅云冷杉有过熟林，且样地较少，共计3个。这3个样地的林龄分别为:170年、200年、220-270年左右的过熟林，样地内云冷杉平均胸径分别为32.35、22.01和 $1 8 . 0 5 ~ \\mathrm { c m }$ ，平均树高为15.62、10.60和 $1 4 . 0 3 \\mathrm { ~ m } .$ ，样地内除有60-90cm的大径级乔木外，林下更新情况较好，存在较多的幼树，因而具有较高的生物量碳密度。加之这3个样地海拔分别为：3191、3404和 $3 2 6 8 \\mathrm { m }$ ，均为原始森林，地表枯落物相对较厚，温度低，土壤有机质分解缓慢，因而土壤有机碳密度也相应较高。第三，森林清查资料仅记录了胸径 $: \\geq 5 \\mathrm { c m }$ 以上的乔木，本研究乔木起测胸径为 $2 \\ \\mathrm { c m }$ ，且 $2 { - } 5 ~ \\mathrm { c m }$ 胸径的乔木碳储量占甘肃省全部乔木碳储量的 $1 . 0 4 \\%$ 。也有研究表明,20年以下人工林中胸径小于 $1 0 ~ \\mathrm { c m }$ 的乔木占整个样地生物量的 $1 5 . 1 \\%$ (Preece et al.,2012)，若忽略胸径 $5 \\mathrm { c m }$ 以下的乔木贡献量，将增加区域尺度碳汇现状估算的误差。此外，对森林生态系统碳库估算的另一误差是来自土壤剖面深度的差异，由于部分研究区域土壤土层较薄，若全部以 $1 \\mathrm { ~ m ~ }$ 参考标准来估算区域尺度的土壤碳储量，将增加估算误差。因此，方法标准化、时间同步化，并有效结合不同时空尺度下的样地清查资料、野外监测数据、遥感数据的空间特征以及模型模拟等，将有效降低森林固碳估算的不确定性，以更准确的反映区域及更大尺度的碳收支平",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "衡。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "基金项目中国科学院战略性先导科技专项(XDA-05050202)和中国博士后科学基金(2015M580877)。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "致谢感谢国家林业局西北林业调查规划设计院、甘肃省林业厅和各市林业部门在野外采样过程中的支持与配合。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Baishya R, Barik SK, Upadhaya K (209). Distribution pattern of aboveground biomass in natural and plantation forests of humid tropics in northeast India. Tropical Ecology,50, 295-304.   \nChen XG, Zhang XQ, Zhang YP,Wan CB (2009).Carbon sequestration potential of the stands under the Grain for Green Program in Yunnan Province,China. Forest Ecology and Management,258,199-206.   \nCheng TR, Feng J, Ma QY, Feng ZK,Kang FF,Zhang YL (2007a).Research on forest biomass in Xiaolong Mountains,Gansu Province. Journal of Beijing Forestry University,29(1),31-36.(in Chinese with English abstract) [程堂仁，马钦彦，冯仲科，罗旭 (2007a)．甘肃小陇山 森林生物量研究．北京林业大学学报,29(1),31-36.]   \nCheng TR,Ma QY,Feng ZK,Luo X (2007b).Forest biomass and carbon storage of Quercus aliena var. acuteserrata stand-types in Xiaolong Mountains,Gansu Province. Journal of Beijing Forestry University,29(2),209-215.(in Chinese with English abstract）[程堂仁，冯菁，马钦彦, 冯仲科，康峰峰，张彦林 (2007b).甘肃小陇山锐齿栎 林生物量及其碳库研究．北京林业大学学报，29(2), 209-215.]   \nCui GY, Chen YM, Cao Y,An CC (2015). Analysis on carbon stock distribution patterns of forest ecosystems in Shaanxi Province.ChineseJournalofPlant Ecology,39,333-342. (in Chinese with English abstract)[崔高阳，陈云明，曹 扬，安淳淳 (2015)．陕西省森林生态系统碳储量分布格 局分析．植物生态学报,39,333-342.]   \nDixon RK,Solomon A,Brown S,Houghton R, Trexier M, Wisniewski J(1994). Carbon pools and flux of global forest ecosystem. Science,265,171-171.   \nFang JY, Chen AP (2001). Dynamic Forest Biomass Carbon Pools in China and Their Significance.Acta Botanica Sinica,43,967-973.(in Chinese with English abstract) [方 精云，陈安平 (2001)．中国森林植被碳库的动态变化及 其意义．植物学报,43,967-973.]   \nFang JY, Chen AP,Peng CH, Zhao SQ, Ci L (2001). Changes in forest biomass carbon storage in China between 1949 and 1998.Science,292,2320-2322.   \nFang JY, Guo ZD, Piao SL, Chen AP (2007). Terrestrial vegetation carbon sinks in China,1981-2000. Science China Earth Sciences,37,804-812.(English version) [方精云, 郭兆迪，朴世龙，陈安平 (2007).1981-2000年中国陆地 植被碳汇的估算．中国科学:D 辑,37,804-812.]   \nForest Carbon Sequestration Project Office (2014).Current Carbon Storage,Rate,Mechanism and Potential of Forest Ecosystems in China-Biomass Equation lst edn. (in Chinese)(unpublished)[森林固碳课题办公室 (2014).中国 森林生态系统固碳现状、速率、机制和潜力课题《生物 量估算方程》．第一版.(未公开出版).]   \nForetry Department of Gansu Province (2012). Implementing Rules for Forestland Border in Gansu Province (in Chinese)(unpulished).[甘肃省林业厅 (2012)．甘肃省林地 落界实施细则 (未公开出版).]   \nGao Y,Jin JW, Cheng JM, Su JS, Zhu RB,Ma ZR,Liu W (2014). Carbon sequestration status of forest ecosystems in Ningxia Hui Autonomous Region. Chinese Journal of Applied Ecology,25, 639-646.(in Chinese with English abstract)[高阳，金晶炜，程积民，苏纪帅，朱仁斌，马正 锐，刘伟 (2014).宁夏回族自治区森林生态系统固碳现 状．应用生态学报,25,639-646.]   \nGuan JH, Zhou HS,Deng L, Zhang JG,Du S (2015).Forest biomass carbon storage from multiple inventories over the past 30 years in Gansu Province, China: implications from the age structure of major forest types. Journal of Forestry Research,26,887-896.   \nHoughton R (2005). Aboveground forest biomass and the global carbon balance. Global Change Biology，11, 945- 958.   \nHuang CD,Zhang J,Yang WQ,Tang X, Zhao AJ (2008a). Dynamics on forest carbon stock in Sichuan Province and Chongqing City. Acta Ecologica Sinica, 28, 966-975. (in Chinese with English abstract）[黄从德，张健，杨万勤, 唐宵，赵安玖 (2008a)．四川省及重庆地区森林植被碳 储量动态．生态学报,28,966-975.]   \nHuang CD, Zhang J, Yang WQ, Zhang GQ (2008b). Characteristics of carbon stock in artificial forest ecosystem in Sichuan Province of China. Chinese Journal of Applied Ecology，19,1644-1650.(in Chinese with English abstract)[黄从德，张健，杨万勤，张国庆 (2008b)．四川人 工林生态系统碳储量特征．应用生态学报，19，1644- 1650.]   \nJiao Y,Hu HQ (2005). Carbon storage and its dynamics of forest vegetations in Heilongjiang Province. Chinese Journal of Applied Ecology,16,2248-2252.(in Chinese with English abstract）[焦燕，胡海清 (2005)．黑龙江森 林植被碳储量及其动态变化．应用生态学报，16,2248- 2252.]   \nKurz WA, Apps MJ (1999). A 70-year retrospective analysis of carbon fluxes in the Canadian forest sector. Ecological Applications, 9, 526-547.   \nLi HK,Lei YC, Zeng WS (2011). Forest Carbon Storage in China Estimated Using Forestry Inventory Data. Scientia Silvae Sinicae,47,7-12.(in Chinese with English abstract)[李海奎，雷渊才，曾伟生 (2011).基于森林清查 资料的中国森林植被碳储量．林业科学,47,7-12.]   \nLi KR,Wang SQ, Cao MK (2003). Vegetation and soil carbon storage in China. Science China Earth Sciences，33, 72-80.(Englishversion）[李克让，王绍强，曹明奎 (2003)．中国植被和土壤碳贮量．中国科学D辑,33,72- 80.]   \nLiu SR,Wang H, Luan JW (2011).A review of research progress and future prospective of forest soil carbon stockand soil carbon process in China. Acta Ecologica Sinica, 31, 5437-5448.(in Chinese with English abstract)[刘世荣, 王晖，栾军伟 (2011).中国森林土壤碳储量与土壤碳过 程研究进展．生态学报,31,5437-5448.]   \nPeng HH, Jiang HM, Zhao CY (2010). Carbon storage of forest vegetation and its spatial distribution in Gansu Province. Journal of Arid Land Resources and Environment, 24(7), 154-158.(in Chinese with English abstract) [彭焕华，姜 红梅，赵传燕 (2010)．甘肃省森林植被碳贮量及空间分 布特征分析.干旱区资源与环境,24(7),154-158.]   \nPeng SL,Li YL,Ren H, Zhao P(2002). Progress in research on soil respiration under the global change. Advanced in Earth Sciences,17,705-713.(in Chinese with English abstract).[彭少麟，李跃林，任海，赵平 (2002).全球变化 条件下的土壤呼吸效应．地球科学进展,17,705-713.]   \nPeng SZ, Zhao CY, Zheng XL,Xu ZL,He L (2011). Spatial distribution characteristics of the biomass and carbon storage of Qinghai spruce (Picea crassifolia) forest in Qilian Mountains. Chinese Journal of Applied Ecology, 22, 1689-1694.(in Chinese with English abstract） [彭守璋, 赵传燕，郑祥霖，许仲林，何磊 (2011).祁连山青海云 杉林生物量和碳储量空间分布特征．应用生态学报，22, 1689-1694.]   \nPennock DJ,vanKessel C(1997).Effect of agriculture and of clear-cut forest harvest on landscape-scale soil organic carbon storage in Saskatchewan. Canadian Journal of Soil Science,77,211-218.   \nPreece ND, Crowley GM,Lawes MJ, Van Oosterzee P (2012). Comparing above-ground biomass among forest types in the Wet Tropics: Small stems and plantation types matter in carbon accounting. Forest Ecology and Management, 264, 228-237.   \nRen H, Chen H,LiL,LiP, Hou C,Wan H, Zhang Q, Zhang P (2013). Spatial and temporal patterns of carbon storage from 1992 to 2002 in forest ecosystems in Guangdong, Southern China.Plant and Soil,363(1-2),123-138.   \nRen H, Chen H, Li ZA, Han WD (2010). Biomass accumulation and carbon storage of four different aged Sonneratia apetala plantations in Southern China. Plant and Soil, 327(1-2), 279-291.   \nSchimel DS (1995). Terrestrial ecosystems and the carbon cycle. Global Change Biology,1,77-91.   \nState Forestry Administration of the People's Repubic of China-Northwest Monitoring Center ofForest Resources, Foretry Department of Gansu Province, Institute of Forest Inventory Planning,Gansu Province (2012). The Results of Gansu Forest Inventory,the Results of the 8th National Forest Inventoty. (in Chinese) (unpublished).[国家林业局 西北森林资源监测中心，甘肃省林业厅，甘肃省林业调 查规划院 (2012)．第八次全国森林资源清查甘肃省森 林资源清查成果 (未公开出版).]   \nSteffen W, Noble I, Canadell J,Apps M, Schulze E-D,Jarvis PG (1998).The terrestrial carbon cycle: implications for the Kyoto Protocol. Science,280,1393-1394.   \nTechnical Manual Writing Group of Ecosystem Carbon Sequestration Project (2015). Observation and Investigation for Carbon Sequestration in Terrestrial Ecosystems. Beijing: Science Press.(in Chinese).[生态系统固碳项目技术 规范编写组 (2015).《生态系统固碳观测与调查技术规 范》．北京：科学出版社]   \nTewksbury CE, Van Miegroet H (2007). Soil organic carbon dynamics along a climatic gradient in a southern Appalachian spruce-fir forest. Canadian Journal of Forest Research,37,1161-1172.   \nVetter M，Wirth C,Bottcher H,Churkina G,Schulze ED, Wutzler T,Weber G (20o5).Partitioning direct and indirect human-induced effects on carbon sequestration of managed coniferous forests using model simulations and forest inventories. Global Change Biology,11, 810-827.   \nWang N (2014). Study on Distribution Patterns of Carbon Density and Carbon Stock in the Forest Ecosystem ofShanxi, Beijing Forestry University,Beijing. 122-126. (in Chinese)[王宁(2014).山西森林生态系统碳密度分配格局 及碳储量研究．博士学位论文，北京林业大学，北京. 122–126.]   \nWang XC, Qi G, Yu DP, Zhou L, Dai L (2011). Carbon storage,density,and distribution in forest ecosystems in Jilin Province of NortheastChina. Chinese Journal of Applied Ecology，22,2013-2020.(in Chinese with English abstract）[王新闯，齐光，于大炮，周莉，代力 (2011)．吉 林省森林生态系统的碳储量、碳密度及其分．应用生态 学报,22,2013-2020.]   \nWang XJ, Huang GS, Sun YJ, Fu X, Han AH (2O08). Forest carbon storage and dynamics in Liaoning Province from 1984 to 2000. Acta Ecologica Sinica, 28, 4757-4764. (in Chinese with English abstract)[王雪军，黄国胜，孙玉军, 付晓，韩爱惠 (2008).近20年辽宁省森林碳储量及其动 态变化．生态学报,28,4757-4764.]   \nWang XK,Feng ZW, OuYang ZY (2001). Vegetation carbon storage and density of forest ecosystems in China.Chinese Journal of Applied Ecology,12,13-16. (in Chinese with English abstract）[王效科，冯宗炜，欧阳志云 (2001). 中国森林生态系统的植物碳储量和碳密度研究．应用 生态学报,12,13-16.]   \nWiesmeier M, von Luetzow M, Spoerlein P,Geuss U, Hangen E,Reischl A, SchillingB,Koegel-Knabner I(2015).Land use effects on organic carbon storage in soils of Bavaria: The importance of soil types.Soil and Tillage Research, 146,296-302.   \nWu QB,Wang XK,Duan XN,Deng LB,Lu F, Ouyang ZY (2008).Carbon sequestration and its potential by forest ecosystems in China.Acta Ecologica Sinica,28,517-524. (in Chinese with English abstract)[吴庆标，王效科，段晓 男，邓立斌，逯非，欧阳志云，冯宗炜 (2008)．中国森 林生态系统植被固碳现状和潜力．生态学报，28, 517-524.]   \nXie XL,Sun B, Zhou HZ,Li ZP (2004). Soil carbon stocks and their influencing factors under native vegetations in China. Acta Pedologia Sinica,41,687-699.(in Chinese with Englishabstract)[解宪丽，孙波，周慧珍，李忠佩 (2004).不同植被下中国土壤有机碳的储量与影响因子. 土壤学报,41,687-699.]   \nXu JD (2014).The 8th Forest Resources Inventory Results and Analysis in China.Forestry Econmics,3,6-8.(in Chinese with English abstract)[徐济德 (2014)．我国第八次森林 资源清查结果及分析．林业经济,3,6-8.]   \nYe JS, She GH (2010). Forest carbon dynamics in Guangdong Province.Journal of Nanjing Forestry University(Natural Science Edition),34,7-12.(in Chinesewith English abstract)[叶金盛，余光辉 (2010)．广东省森林植被碳储 量动态研究．南京林业大学学报(自然科学版)，34(4), 7-12.]   \nZhang CH, Ju WM, Chen JM, Zan M, Li DQ, Zhou YL,Wang XQ(20l3a).China's forest biomass carbon sink based on seven inventories from 1973 to 2008.Climatic Change,   \n118,933-948. Zhang H, Guan DS, Song MW (2012).Biomass and carbon storage of Eucalyptus and Acacia plantations in the Pearl River Delta, South China. Forest Ecology and Management,277,90-97. Zhang YD, Gu FX,Liu SR,Liu YC,Li C (2013b).Variations of carbon stock with forest types in subalpine region of southwestern China. Forest Ecology and Management,   \n300, 88-95. Zhang XY,Xu ZC, Zeng FT,Hu XB,Han QP (2011). Carbondensity distribution and storage dynamics of forest ecosystemin Pearl River Delta of low subtropical China.China Environmental Science，31(S1),69-77.(in Chinesewith English abstract)[张修玉，许振成，曾凡棠，胡习邦，韩 秋萍 (2011).珠江三角洲森林生态系统碳密度分配及 其储量动态特征．中国环境科学(S1),69-77.] Zhao M, Zhou GS (2004). Carbon storage of forest vegetation and its relationship with climatic factors. Scientia Geographica Sinica,24,50-54.(in Chinesewith English abstract）[赵敏，周广胜(2004)．中国森林生态系统的 植物碳贮量及其影响因子分析．地理科学，24(1),   \n50-54.] Zhou YR,Yu ZL, Zhao SD (200O). Carbon storage and budgetof major Chinese forest types. Acta Phytoecologica Sinica,24,518-522.(in Chinese with English abstract)[周 玉荣，于振良，赵士洞 (2000).我国主要森林生态系统 碳贮量和碳平衡．植物生态学报,24,518-522.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "特邀编委：李胜功责任编辑：李敏",
+        "page_idx": 13
+    }
+]

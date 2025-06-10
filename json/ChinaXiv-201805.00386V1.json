@@ -1,0 +1,422 @@
+[
+    {
+        "type": "text",
+        "text": "大型停车场空闲车位短时预测方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "佘飞ä，邱建东ʰ，汤旻安‘ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(兰州交通大学a.机电技术研究所;b.机电工程学院;c．新能源与动力工程学院，兰州 730070)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了提升智能交通系统性能及停车场利用率，针对大型停车场空闲车位短时预测进行了研究，提出了一种基于灰色理论、BP神经网络和马尔可夫链的组合预测方法以提高预测精度与时效性，该方法首先使用灰色理论处理数据，弱化其随机性，再进行人工神经网络训练，得到数量预测结果，最后使用马尔可夫链消除系统产生的随机误差得到最终结果。实验表明，这种组合预测方法有效提高了预测精度，预测结果符合实际停车场数据变化规律，为驾驶员提前作出合理的停车场选择提供了可靠依据，能有效提高停车场车位利用率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：空闲车位；灰色神经网络；预测；马尔可夫链 中图分类号：TP391.9 doi:10.3969/j.issn.1001-3695.2017.09.0922 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Simulation of prediction for free parking spaces in large parking lots ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "She Feia, Qiu Jiandongb,Tang Min'anc (a.Mechatronic T&R Institute,b.SchoolofElectrical& Mechanical Engineering,c.Collgeof New Energy&Power Engineering,Lanzhou Jiaotong University,Lanzhou 730070, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Iorder toimprove theperformanceofintellgent transportation systemandtheutilizationrateofparkinglot,ming at the Short-term predictionoffreeparkingspace inlargeparkinglot.Hecomes up withaforecasting method thatbased on the combinationofgreytheory,BPneuralnetworkandMarkovchain.AtBegining,heuses thegreymethodto Weakenrandomess of data itself and combines with factors that influences thequantityoffree parking spots,andthen it goes through BP neural network trainingtoget theshortime free parking spotsprediction.Finally,the Markovchainisused toeliminate therandom eror geeratedbythesystemandobtain thefinalresult.Acording tothe experimentresults,thiscombined forecasting method caneffectively improvetheprediction accuracy.Theresult matches thedataflowofactualparkinglotisable toprovideeliable analysis for drivers to choose the right parking lot and improves effciency of parking lots usage. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: unoccupied parking space; grey neural network; prediction; Markov chain ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着经济发展和城市化进程加快，汽车保有量持续快速增长，停车场等静态交通设施建设相对滞后，使得停车泊位的缺□逐渐扩大，停车问题已成为城市交通的难题[1]。停车诱导系统以提高停车场及相邻道路的利用率为目的，多途径向驾驶员提供停车场位置、空车位数量及道路交通状况等信息，引导驾驶者快速、准确地停车。目前，停车诱导系统主要功能是用分级指示的停车引导牌显示停车场位置及空闲车位数量来引导驾驶员快速找到车位，但是由于停车场车位信息的实时变化，信息公布的范围半径不能太大，否则驾驶员看到的停车场空闲车位数量与到达具体停车场时的实际空闲车位数量相差很大，可能导致汽车无车位可停。因此，除了实时地显示当前空闲车位信息，对未来短时间内空闲车位的准确预测有利于让驾驶员提前根据到达路径范围时间长短提前作出合理的选择。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "针对空闲车位的短时预测问题，文献[2.3]中提出基于小波变换和粒子群小波神经网络组合模型的预测方法，该模型利用小波变换分析输入数据，再通过小波神经网络对停车泊位进行预测，提高了预测准确性，但是小波变换需要消耗大量时间，因此降低了效率。文献[4]中提出基于小波一ELM+神经网络的短时空闲停车位预测，通过小波将原始数据分解为不同的成分进行预测，提高了预测准确率，再利用ELM神经网络提高神经网络的训练速度。文献[5]基于马尔可夫预测模型对短时有效泊位进行了研究分析，利用灰色理论适用于样本数量少的优势建立GM(1，1)预测模型，再通过马尔可夫模型对其结果进行修正，降低了结果的相对误差，但是灰色预测本身处理非线性能力较弱不能很好地适应复杂的预测系统。文献[6\\~8]中应用神经网络方法对其预测，取得了较为理想的预测效果。神经网络模型可以较好地描述复杂非线性问题，但是，在训练样本数量不够充足时，往往导致预测结果误差不理想。文献[9\\~11]中采用时间序列方法，将所有的影响因素转为时间因素，但因无法到达精确转换导致产生的误差较大，预测精度较低。文献[12]中应用混沌时间序列的方法预测停车场空闲车位，该方法在预测速度上取得了不错效果，但是预测精度有待提高。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于城市停车行为的高度复杂性、随机性和不确定性，给空闲车位短时预测带来了困难，随着预测时间间隔的进一步缩短，空闲车位变化的不确定性越来越强，要设计精度较高的数学模型也就越困难。因此，采用智能预测技术并使用多种预测模型的融合方法等，是提高研究和解决短时空闲车位预测精度的有效途径和发展趋势。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文在人工神经网络基础上，在其前加上一个灰化层对输入数据做灰化处理，在其后加上一个白化层对网络的灰色输出信息进行还原，利用灰化作用对样本数据进行处理生成的新数据易为神经网络的非线性激励函数所逼近，网络学习时间大大缩短，在提高预测精度的同时加快了收敛速度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 停车场空闲车位短时预测模型原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着停车场规模的扩大，交通路网日趋复杂，停车场空闲车位短时预测处理信息的时变性、复杂性、非线性的特点更为突出，单一预测模型已经不能满足现有系统的需求。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据上文所述，灰色预测模型和神经网络模型二者可以有机的结合起来，组合成灰色神经网络模型，该模型将灰色系统和经典 BP神经网络相结合，利用灰色模型样本需求量小、能弱化数据随机性特点弥补神经网络模型样本量大、随机样本训练速度慢的弱点，而神经网络模型非线性映射能力强、具备高速自学习和自适应能力的优点又可以补强灰色模型非线性处理能力及自适应能力弱的不足，这样可以充分利用两种模型的优点，提高其预测准确度，因此可将其应用于停车场空闲车位短时预测，考虑到组合模型预测结果部分可能出现的相对误差过大情况，还可采用Markov 链对预测结果作进一步修正以提高精度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "短时预测的难点和重点是提高预测准确度和时效性，传统的车位预测方法仅从历史数据本身发掘车位数量的变化规律且依赖大量的历史样本，精度不高，所以需要将影响车位的因素进行重新分析整合后再进行预测。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 改进灰色神经网络空闲车位预测模型构建",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于原始样本数据的波动性和无序性，欲使灰色模型预测结果准确度控制在一定范围内比较困难，然而神经网络需要大量数据样本才能取得理想的预测效果，故引入灰色系统构建灰色神经网络模型减少对样本数量的依赖性[13]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1灰色神经网络预测方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设灰色系统特征值的原始数列 $x _ { t } ^ { ( 0 ) } ( t = 0 , 1 , 2 , . . . , N - 1 )$ 经过一次累加生成后得到的数列 ${ x _ { t } } ^ { ( 1 ) }$ 呈指数增长规律，因而可以用一个连续函数或微分方程进行数据拟合及预测。本文将原始数列 $x ^ { ( 0 ) }$ 记为 $x ( t )$ ，累加后的数列 $x ^ { ( 1 ) }$ 记为 $y ( t )$ ，预测结果$\\hat { x } ^ { ( 0 ) } ( k + 1 )$ 记为 $u ( t )$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$n$ 个参数的灰色神经网络模型的微分方程表达式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { d y _ { 1 } } { d t } } + a y _ { 1 } = b _ { 1 } y _ { 2 } + b _ { 2 } y _ { 3 } + . . . + b _ { n - 1 } y _ { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $y _ { 2 } , y _ { 3 } , . . . , y _ { n }$ 为网络输入参数； $y _ { 2 } , y _ { 3 } , . . . , y _ { n }$ 为网络输出参数； $a , b _ { 1 } , b _ { 2 } \\ldots b _ { n - 1 }$ 为微分方程系数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式（1）的时间响应式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { u ( t ) = \\displaystyle { \\Biggl ( y _ { 1 } ( 0 ) - \\frac { b _ { 1 } } { a } y _ { 2 } ( t ) . . . \\frac { b _ { n - 1 } } { a } y _ { n } ( t ) \\Biggr ) } e ^ { - a t } } } \\\\ { { + \\displaystyle { \\frac { b _ { 1 } } { a } y _ { 2 } ( t ) + \\frac { b _ { 2 } } { a } y _ { 3 } ( t ) + . . . + \\frac { b _ { n - 1 } } { a } y _ { n } ( t ) } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd = { \\frac { b _ { 1 } } { a } } y _ { 2 } ( t ) + { \\frac { b _ { 2 } } { a } } y _ { 3 } ( t ) + \\ldots { \\frac { b _ { n - 1 } } { a } } y _ { n } ( t )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式（2）可以转换为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle { u ( t ) = \\left( ( y _ { 1 } ( 0 ) - d ) \\frac { e ^ { - a t } } { 1 + e ^ { - a t } } + d \\frac { 1 } { 1 + e ^ { - a t } } \\right) ( 1 + e ^ { - a t } ) } } \\\\ { \\displaystyle { = \\left( ( y _ { 1 } ( 0 ) - d ) ( 1 - \\frac { 1 } { 1 + e ^ { - a t } } ) + d \\frac { 1 } { 1 + e ^ { - a t } } \\right) ( 1 + e ^ { - a t } ) } } \\\\ { \\displaystyle { = \\left( ( y _ { 1 } ( 0 ) - d ) - y _ { 1 } ( 0 ) \\frac { 1 } { 1 + e ^ { - a t } } ) + 2 d \\frac { 1 } { 1 + e ^ { - a t } } \\right) ( 1 + e ^ { - a t } ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将变换后的式（3）映射到BP神经网络中就得到 $n$ 个输入参数、1个输出参数的灰色神经网络，灰色BP网络拓扑结构如图1所示[14]。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c3f8b100894ceffda33dea9c61039d902e76f1c424a2e3fd0e168a7fc3987a25.jpg",
+        "img_caption": [
+            "图1灰色BP网络拓扑结构图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图1中， $\\mathbf { \\Phi } _ { t }$ 为输入参数序号； $y _ { 2 } ( t ) , y _ { 3 } ( t ) \\ldots , y _ { n } ( t )$ 为网络输入参数； $\\omega _ { 2 1 } , \\omega _ { 2 2 } , \\ldots$ $\\dots \\omega _ { 2 n } , \\omega _ { 3 2 } , \\dots \\omega _ { 3 n }$ 为网络权值； $y _ { 1 }$ 为网络输出。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2改进的灰色神经网络",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "虽然灰色神经网络应用于实际中可以得到较好的预测结果，但部分预测值与实际值的相对误差过大，导致预测结果不稳定。所以需对误差残值进行修正。基于Markov链改进灰色神经网络预测模型流程如图2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e83fbbbe71407961ce0f4624969d9f47b927279688d2e9256ee106710dde1917.jpg",
+        "img_caption": [
+            "图2Markov链改进灰色神经网络预测模型流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 空闲车位数量预测仿真实验分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1空闲车位数量变化机理研究分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据交通流的变换趋势具有周期性和相似性，推测停车场空闲车位数的时段变化规律也应该具有类似的特征。因此以兰州市某商业中心地下停车场为例，分别对工作日和节假日的空闲车位数的时间变化数据进行了分析。根据调查发现，不同周内的同一天相同时刻的空闲车位数变化趋势有较强的相似性，一周中的周一至周五的空闲车位信息也有相似性，因此停车场的空闲车位数的变化规律是具有周期性和相似性的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将该停车场作作为取样对象统计一次空闲车位数量，并且将其变化用曲线图表示，可得出空闲车位数变化趋势图如图3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f1ef2ab0eb4e3176cf943b2699233ba7c6d89096d81fea1ac0409733936e65c.jpg",
+        "img_caption": [
+            "图3空闲车位数变化趋势图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "短时预测系统的时效性，是其实用价值的体现。故系统在选取样本数据时要充分考虑样本的时效性，样本序列的采样周期不宜过大，但当样本选取的时间间隔越短时,各种随机干扰造成的影响就越大，空闲停车位数量变化就越剧烈，经过比对分析，采用十分钟的时间间隔进行预测比较合理。样本数据的时效性，还体现在当前预测数据不仅与历史数据强相关，而且与预测时段的前一时刻的实时空闲车位数量强相关，因此也需要把前一时刻的空车位实时数量作为输入量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "但是，仅将空闲车位预测问题转换为时间序列问题进行预测得出的实测效果不够理想，是因为只注意到时间这一维度对空闲停车位数的影响，而忽略了影响停车场周围的其他因素。调查中发现，当天天气状况、停车场周围路段的交通状况、商场周边是否有大型活动的情况等等，都对空闲停车位数量产生较大影响。在确定预测系统输入变量时，除了历史数据的影响因素外，还需加入天气、周围交通和是否有活动这些影响因素作为神经网络的一类输入变量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当选取样本各因素的变化较小，因素之间的相关性处于平稳阶段时，预测结果对于实际引导更具有指导意义。本文选择历史不同周同一天同时刻车位数据、预测时段前一时刻实时车位数据作为系统输入量，除此以外，对其他因素根据影响程度大小划分设定成不同输入参量一并输入系统计算以提升准确性和时效性。本文选取预测时段前 $1 5 \\mathrm { m i n }$ 时段的天气状态，若为雨天、雪天等较差天气时，用0.5表示，天气良好时，用0表示；停车场周围路段交通流方面选定预测时段前 $1 0 \\mathrm { m i n }$ 的交通流数据，并根据实时交通流量规定，当汽车经过指定路口的数量达到每15分钟为250辆以下时，即表示畅通，用0.75表示，当汽车经过指定路口的数量达到每 $1 5 \\mathrm { m i n }$ 为250辆但不足400辆时，即表示交通较为拥堵，用0.45表示，当汽车经过指定路□的数量达到每 $1 5 ~ \\mathrm { m i n }$ 为 400 辆以上，即表示交通堵塞，用0.15表示；停车场商圈举办大型活动用1表示，无活动举办用0表示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 实例验证分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据前文分析，本实验取自兰州市某商业中心地下停车场管理系统实际接口数据，时间段为十月份，每隔10分钟选取一条实时数据，共7284条停车位记录。取t时刻、 $\\mathrm { \\ t - l 0 ~ m i n }$ 时刻、$ { \\mathrm { \\ t - } } 2 0  { \\mathrm { \\ m i n } }$ 时刻、 $\\mathbf { t } { - } 3 0 \\mathbf { \\mathrm { m i n } }$ 时刻、 $\\mathbf { t } { - } 4 0 \\ \\mathrm { m i n }$ 时刻并采取归一化处理及三个影响因素的值。作为组合网络的输入量，以2016-10-5\\~2016-10-12 每天 $1 6 { : } 3 0 { \\sim } 1 7 { : } 0 0$ 为例，如表1所示。根据以上组成样本的方法，去掉夜间部分数据，一共1601个样本。选择其中1200样本作为灰色神经网络的训练样本，208个样本作为测试样本。对原始数据进行归一化处理公式为x=－m最后再对其进行反归一化，其中为 $x$ 原始数据， $x _ { i }$ 为归一化后数据， $x _ { \\operatorname* { m i n } }$ 为最小停车数量， $x _ { \\operatorname* { m a x } }$ 为最大停车场车位数",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在综合考虑了影响停车位的其他因素后，确定将停车场周围车流量、天气及有无举办活动等并入网络作为输入参数，加强网络的泛化能力。空闲车位灰色神经网路的模型输入参数应为3维，输出预测值为1维。结合图1，则得到停车场空闲车位数量预测的灰色网络模型结构为：1-1-4-1，即LA层有一个输入神经元节点，输入为时间序列 $\\mathbf { \\Phi } _ { t }$ ，LB层有1个神经元节点，LC层有4个神经元节点，第一个神经元起到扩展BP神经网络的作用，故输入从第二个神经开始依次为停车场周围交通状况、天气情况及是否为举办活动情况；LD层有1个神经元，输出为停车场空闲车位数量预测值。采用MATLAB软件编制灰色神经网络预测模型的运行程序进行训练学习。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将训练好的网络通过测试样本进行仿真，检验网络的泛化能力。预测结果如图4所示，展示的是 $9 { : } 0 0 { \\sim } 1 7 { : } 0 0$ 时间每隔10min预测一次的结果，同时与BP神经网络预测结果进行对比。验证了灰色神经网络适用于小样本预测问题，但发现一些样本的相对误差出现较大的波动（预测结果相对误差如表2所示） 故引入Markov 链进行修正残值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/358bcbca286ad2c72b058396f1f3bb627e6617d6d3b217547262f81be66557a2.jpg",
+        "table_caption": [
+            "表1空闲车位数原始数据/归一化及交通流量、天气、举办活动"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">样本日期</td><td colspan=\"2\">16:20</td><td colspan=\"2\">16:30</td><td colspan=\"2\">16:40</td><td colspan=\"2\">16:50</td><td colspan=\"2\">17:00</td><td rowspan=\"2\">天气</td><td rowspan=\"2\">举办活动</td><td rowspan=\"2\">交通流量</td></tr><tr><td>原始</td><td>归一化</td><td>原始</td><td>归一化</td><td>原始</td><td>归一化</td><td>原始</td><td>归一化</td><td>原始</td><td>归一化</td></tr><tr><td>2016-10-5</td><td>75</td><td>0.5412</td><td>70</td><td>0.4824</td><td>54</td><td>0.2941</td><td>44</td><td>0.1765</td><td>43</td><td>0.1647</td><td>0.5</td><td>1</td><td>0.45</td></tr><tr><td>2016-10-6</td><td>84</td><td>0.6471</td><td>69</td><td>0.4706</td><td>54</td><td>0.2941</td><td>40</td><td>0.1294</td><td>36</td><td>0.0000</td><td>0.5</td><td>1</td><td>0.75</td></tr><tr><td>2016-10-7</td><td>87</td><td>0.6824</td><td>56</td><td>0.3176</td><td>49</td><td>0.2353</td><td>33</td><td>0.0000</td><td>29</td><td>0.0000</td><td>0</td><td>1</td><td>0.75</td></tr><tr><td>2016-10-8</td><td>78</td><td>0.5764</td><td>70</td><td>0.4824</td><td>57</td><td>0.3294</td><td>46</td><td>0.2000</td><td>38</td><td>0.1059</td><td>0</td><td>1</td><td>0.45</td></tr><tr><td>2016-10-9</td><td>78</td><td>0.5764</td><td>61</td><td>0.3765</td><td>53</td><td>0.2824</td><td>59</td><td>0.3529</td><td>42</td><td>0.1529</td><td>0.5</td><td>1</td><td>0.25</td></tr><tr><td>2016-10-10</td><td>79</td><td>0.5882</td><td>81</td><td>0.6118</td><td>73</td><td>0.5176</td><td>47</td><td>0.2118</td><td>32</td><td>0.0000</td><td>0.5</td><td>0</td><td>0.45</td></tr><tr><td>2016-10-11</td><td>114</td><td>1.0000</td><td>112</td><td>0.9765</td><td>71</td><td>0.4941</td><td>49</td><td>0.2353</td><td>30</td><td>0.0000</td><td>0.5</td><td>0</td><td>0.25</td></tr><tr><td>2016-10-12</td><td>103</td><td>0.8706</td><td>98</td><td>0.8118</td><td>71</td><td>0.4941</td><td>51</td><td>0.2588</td><td>31</td><td>0.0000</td><td>0</td><td>0</td><td>0.25</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/18d37a67e4b9bb0ca50d822dc6e39f4d68975216755f3dab406084d4fe284c29.jpg",
+        "img_caption": [
+            "图4停车位预测对比结果图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/50dcabdbb665e3dceb815c9fdb7a05fc504048c322defc25901f197bcca35b7e.jpg",
+        "table_caption": [
+            "表2预测结果与实测值的相对误差"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">t/min</td><td colspan=\"2\">停车位/个</td><td rowspan=\"2\">相对误差/%</td></tr><tr><td>实测值</td><td>预测值</td></tr><tr><td>9:00-9:30</td><td>210</td><td>198.3412212</td><td>-5.56</td></tr><tr><td>9:30-10:00</td><td>210</td><td>201.26</td><td>-4.16</td></tr><tr><td>10:00-10:30</td><td>136</td><td>175.19</td><td>28.81</td></tr><tr><td>10:30-11:00</td><td>146</td><td>151.46</td><td>3.74</td></tr><tr><td>11:00-11:30</td><td>98</td><td>94.38</td><td>-3.69</td></tr><tr><td>11:30-12:00</td><td>80</td><td>86.29</td><td>7.86</td></tr><tr><td>12:00-12:30</td><td>113</td><td>117.65</td><td>4.12</td></tr><tr><td>12:30-13:00</td><td>124</td><td>98.76</td><td>-20.35</td></tr><tr><td>13:00-13:30</td><td>118</td><td>126.36</td><td>7.08</td></tr><tr><td>13:30-14:00</td><td>106</td><td>116.47</td><td>9.88</td></tr><tr><td>14:00-14:30</td><td>85</td><td>89.98</td><td>5.86</td></tr><tr><td>14:30-15:00</td><td>92</td><td>103.44</td><td>12.43</td></tr><tr><td>15:00-15:30</td><td>140</td><td>134.35</td><td>-4.04</td></tr><tr><td>15:30-16:00</td><td>102</td><td>107.49</td><td>5.38</td></tr><tr><td>16:00-16:30</td><td>199</td><td>212.37</td><td>6.72</td></tr><tr><td>16:30-17:00</td><td>168</td><td>156.49</td><td>-6.86</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从表2中可以得出，灰色神经网络适应小样本预测，但是由于数据样本存在的波动性，造成了例如10:30\\~11:00时段、12:30\\~13:00时段相对误差值较不理想，因此可用Markov链对",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其结果进一步修正。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3Markov修正残差 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于Markov链修正的灰色神经网络的建模根据预测模型得出预测值与实测值的相对误差，依据相对误差大小进行划分值域，并使用均值-均方差法建立状态划分区间[15]。然后根据划分区间对各相对误差进行状态分类，并计算状态转移概率矩阵，确定初始状态向量，求出预测时间段的状态，进一步可得到预测时间段的修正值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据表2得到的相对误差情况，经过计算划分Markov链的状态区间为： $\\varepsilon ( k )$ 的均值 $\\overline { { X } } = 2 . 9 5$ ，均值方差 $\\begin{array} { r } { s = 1 0 . 4 1 } \\end{array}$ ，这里取 $\\alpha _ { 1 } = 1 . 1 \\ , \\ \\alpha _ { 2 } = 0 . 5$ ，则 $\\varepsilon ( k )$ 的分级标准为：E1[-30.5,-8.501],E2[-8.501,-2.2555]，E3[-2.255,8.155]，E4[8.155,14.401]，E5[14.401,30.5]，并依次对灰色神经网络模型的预测误差进行状态分类，结果见表3。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/fb1b5887a0fa24075bd8cf3ee11f5758ccfaa314f83eecc33b3be31ff3d5025e.jpg",
+        "table_caption": [
+            "表3灰色神经预测误差分类结果",
+            "然后确定一步转移概率矩阵为"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>t/min</td><td>相对误差</td><td>状态</td><td>t/min</td><td>相对 误差</td><td>状态</td></tr><tr><td>9:00-9:30</td><td>-5.56</td><td>E2</td><td>13:00-13:30</td><td>7.08</td><td>E3</td></tr><tr><td>9:30-10:00</td><td>-4.16</td><td>E2</td><td>13:30-14:00</td><td>9.88</td><td>E4</td></tr><tr><td>10:00-10:30</td><td>28.81</td><td>E5</td><td>14:00-14:30</td><td>5.86</td><td>E3</td></tr><tr><td>10:30-11:00</td><td>3.74</td><td>E3</td><td>14:30-15:00</td><td>12.43</td><td>E4</td></tr><tr><td>11:00-11:30</td><td>-3.69</td><td>E3</td><td>15:00-15:30</td><td>-4.04</td><td>E2</td></tr><tr><td>11:30-12:00</td><td>7.86</td><td>E3</td><td>15:30-16:00</td><td>5.38</td><td>E3</td></tr><tr><td>12:00-12:30</td><td>4.12</td><td>E3</td><td>16:00-16:30</td><td>6.72</td><td>E3</td></tr><tr><td>12:30-13:00</td><td>-20.3</td><td>E1</td><td>16:30-17:00</td><td>-6.86</td><td>E2</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP = \\left[ \\begin{array} { c c c c c c } { 0 . 2 } & { 0 . 8 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 . 4 } & { 0 . 6 } & { 0 } & { 0 } \\\\ { 0 . 3 3 3 } & { 0 . 1 6 7 } & { 0 . 2 5 } & { 0 . 2 5 } & { 0 } \\\\ { 0 } & { 0 . 1 2 5 } & { 0 . 1 2 5 } & { 0 . 5 6 } & { 0 . 1 9 } \\\\ { 0 } & { 0 } & { 0 . 2 5 } & { 0 } & { 0 . 7 5 } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据表3中划分的结果确定各时间段对应的状态向量，解出经Markov链修正后的灰色神经网络模型的预测值。本文又采用BP神经网络模型进行对比预测，结果如表4所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/4ab0550db37bc0f2b6b942f8eb4185103b6a0e325eb993bdbc7579162e5c0f4a.jpg",
+        "table_caption": [
+            "表4Markov链修正后的灰色神经网络预测模型对空闲车位的预测"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">t/min</td><td rowspan=\"2\">实测值/个</td><td colspan=\"2\">BP神经网络</td><td colspan=\"2\">灰色神经网络</td><td colspan=\"2\">灰色神经网络-Markov</td></tr><tr><td>预测值/个</td><td>相对误差/%</td><td>预测值/个</td><td>相对误差/%</td><td>修正值/个</td><td>相对误差/%</td></tr><tr><td>9:00-9:30</td><td>210</td><td>227.61</td><td>8.39</td><td>198.34</td><td>-5.56</td><td>198.34</td><td>-5.56</td></tr><tr><td>9:30-10:00</td><td>210</td><td>229.45</td><td>9.26</td><td>201.26</td><td>-4.16</td><td>201.26</td><td>-4.16</td></tr><tr><td>10:00-10:30</td><td>136</td><td>146.22</td><td>7.51</td><td>175.19</td><td>28.81</td><td>145.37</td><td>13.51</td></tr><tr><td>10:30-11:00</td><td>146</td><td>161.76</td><td>10.79</td><td>151.46</td><td>3.74</td><td>151.46</td><td>3.74</td></tr><tr><td>11:00-11:30</td><td>98</td><td>88.62</td><td>-9.57</td><td>94.38</td><td>-3.69</td><td>94.38</td><td>-3.69</td></tr><tr><td>11:30-12:00</td><td>80</td><td>71.89</td><td>-10.13</td><td>86.29</td><td>7.86</td><td>86.29</td><td>7.86</td></tr><tr><td>12:00-12:30</td><td>113</td><td>103.27</td><td>-8.61</td><td>117.65</td><td>4.12</td><td>117.65</td><td>4.12</td></tr><tr><td>12:30-13:00</td><td>124</td><td>106.86</td><td>-13.82</td><td>98.76</td><td>-20.35</td><td>110.27</td><td>-11.07</td></tr><tr><td>13:00-13:30</td><td>118</td><td>107.16</td><td>-9.19</td><td>126.36</td><td>7.08</td><td>126.36</td><td>7.08</td></tr><tr><td>13:30-14:00</td><td>106</td><td>117.26</td><td>10.62</td><td>116.47</td><td>9.88</td><td>116.47</td><td>9.88</td></tr><tr><td>14:00-14:30</td><td>85</td><td>94.87</td><td>11.61</td><td>89.98</td><td>5.86</td><td>89.98</td><td>5.86</td></tr><tr><td>14:30-15:00</td><td>92</td><td>101.04.</td><td>10.28</td><td>103.44</td><td>12.43</td><td>103.44</td><td>12.43</td></tr><tr><td>15:00-15:30</td><td>140</td><td>156.33</td><td>11.66</td><td>134.35</td><td>-4.04</td><td>134.35</td><td>-4.04</td></tr><tr><td>15:30-16:00</td><td>102</td><td>89.44</td><td>-12.21</td><td>107.49</td><td>5.38</td><td>107.49</td><td>5.38</td></tr><tr><td>16:00-16:30</td><td>199</td><td>176.35</td><td>-11.38</td><td>212.37</td><td>6.72</td><td>212.37</td><td>6.72</td></tr><tr><td>16:30-17:00</td><td>168</td><td>150.69</td><td>10.30</td><td>156.49</td><td>-6.86</td><td>156.49</td><td>-6.86</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验表明，在Inteli3Win7系统下运行Matlab仿真软件，进行灰色神经网络Markov链组合方法预测时，最大迭代次数设置为1000次，此时网络训练时间约为 $2 \\operatorname* { m i n }$ ，提升预测结果的有效性；从最终修正结果可以看出，Markov链修正灰色神经网络模型提高了预测精度，使得修正值更接近与实测值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "针对短时间内空闲车位信息的预测问题，文中使用组合灰色神经网络的预测模型，并利用Markov链进行修正。仿真结果表明，组合模型预测方法能够较为准确的对兰州万达广场地下停车场短时间内空闲停车位数进行预测，提高了预测精及训练速度。修正后的预测值与实测值的最大相对误差从 $2 8 . 8 1 \\%$ 减小到 $1 3 . 5 1 \\%$ ，可见进一步优化的神经网络预测精度更高。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] 杨晓芳，付强，牛兆雨．基于停车诱导信息板的最优停车场推荐的双唇目标模型[J].计算机应用研究,2014,31(10):3017-3040.  \n[2]季彦婕，陈晓实，王炜，等．基于小波变换和粒子群小波神经网络组合模型的有效停车泊位短时预测[J]．吉林大学学报：工学版，2016,46(2): 399-405.  \n[3]Ji Yanjie,Tang Dounan,Blythe P,etal. Short-term forecasting of availableparking space using wavelet neural network model [J]. IET IntelligentTransport systems,2015,9(2):202-209  \n[4]陈海鹏，图晓航，王玉，等．基于小波-ELM+神经网络的短期停车泊位",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "预测[J].吉林大学学报：理学版,2017,55(2):388-392.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[5]韩二锋．基于马尔可夫预测模型的智能停车有效泊位预测研究[J].价值工程,2016,35(6):215-218.  \n[6]杨兆升，陈晓冬．智能化停车诱导系统有效停车泊位数据的预测技术研究[J].交通运输系统工程与信息,2003,3(4):12-15  \n[7]高广银，丁勇，姜枫，等．基于BP 神经网络的停车诱导泊位预测[J].计算机系统应用,2017,26(1):236-239.  \n[8]赵戊辰，张玉茹.BP神经网络用于停车场空余泊位的预测研究[J].哈尔滨商业大学学报：自然科学版,2015,31(1):10220-10265.  \n[9]Felix C,Carola B.Prediction of space availability in real time [J].ExpertSystems with Applications,2012,39 (8):7281-7290.  \n[10] Klappenecker A,Lee H, Welch JL.Finding available parking spaces madeeasy[J].Ad hoc Networks,2014,12: 243-249  \n[11] Rajabioun T,Foster B,Ioannou P. Intelligent parking assist [C]//Proc ofMediterranean Conference on Control&Automation.Piscataway:IEEEPress,2013:1156-1161.  \n[12]Liu Shixu,Guan Hongzhi,Yan Hai,et al.Unoccupied parking spaceprediction of chaotic time series [C]// Proc of the 10th InternationalConference of Chinese Transportation Professionals.2010;2122-2131  \n[13]何启，戴波．基于灰色神经网络-加权马尔可夫链的大坝变形监控模型及预报研究[J]．中国农村水利水电，2016,10:146-150.  \n[14] 韩婷婷，吴世跃，王鹏军．基于马尔可夫残差修正的瓦斯浓度预测 [J].工矿自动化,2014,40(3):28-31.  \n[15]冯天梅，张鑫．基于修正组合模型的包头市用水量预测分析[J]．西北农林科技大学学报：自然科学版,2014,42(3):226-234.",
+        "page_idx": 4
+    }
+]

@@ -1,0 +1,171 @@
+# 桂西北喀斯特地区不同退化程度植被群落物种组成及多样
+
+# 性特征
+
+俞月凤¹，何铁光1\*，杜虎²，韦彩会1，蒙炎成¹，李忠义¹，张野¹，王瑾¹，胡钧铭¹，苏天明¹，范适（1．广西壮族自治区农业科学院农业资源与环境研究所，南宁 530007；2.中国科学院亚热带农业生态研究所，长沙 410125；3．湖南环境生物职业技术学院 园林学院，湖南 衡阳 421005)
+
+摘要：世界范围内，很多自然生态系统均在不同程度上受到了损害，喀斯特脆弱生态系统的退化是一个复合过程，喀斯特地区不同退化程度植被群落特征有何差异有待研究。采用样方法进行全面的调查，研究了桂西北喀斯特地区5个退化程度植被群落的物种组成、群落结构特征和物种多样性。结果表明：(1)不同退化程度群落物种组成和生活型组成有较大差异，潜在退化群落科属种丰富度最高，沿着退化程度递增的梯度，群落乔木树种逐渐减少至消失，灌木比例呈先增后减的趋势，草本比例逐渐增加。(2）本次调查到维管束植物218种，隶属于86科168属；以大戟科、楝科、蔷薇科、马鞭草科、禾本科和肾蕨科植物为主；退化过程中，优势种的重要值逐渐降低，其在群落内的支配地位逐渐减弱，伴生种重要值逐渐升高。(3)退化过程中，群落结构趋于简单化，群落木本植物密度、高度和盖度逐渐减少。(4)不同退化程度植被群落乔灌草层物种多样性存在显著性差异，随着退化程度的增加，群落总植被物种丰富度指数、Shannon-Wiener 多样性指数、Simpson 优势度指数整体呈下降趋势。退化过程中，植被群落物种组成特征和多样性发生明显变化，群落变化特征的研究对喀斯特地区退化机理研究和植被恢复有重要的意义。
+
+关键字： 植被群落，石灰土，退化，物种组成，多样性
+
+# Changes in species composition and diversity of vegetation communities along degradation in Karst area of Northwest
+
+# Guangxi
+
+YU Yuefeng1, HE Tieguang', DU $\mathrm { H u } ^ { 2 }$ ,WEI Caihui1,MENG Yancheng1, LI Zhongyi1, ZHANG Ye, WANG $\operatorname { J i n } ^ { 1 }$ , HU Junming], SU Tianming],FAN Shi3 (1. Agricultural Resources and Environment Research Institute, Guangxi Academy of Agricultural Sciences,
+
+Nanning530oo7,China;2.InstituteofSubtropicalAgriculture,ChineseAcademy ofSciences,Changsha410125, China; 3.Landscape Department,Hunan Polytechnic of Environment and Biology,Hengyang 421Oo5,Hunan,
+
+China )
+
+Abstract: Many natural ecosystems have been suffering from degradation across the world. Karst ecosystems are known for susceptibility and sensitivity to disturbance.So far, little information is available on the characteristics of vegetation communities suffering from different levels of degradation in Karst areas. Therefore, this study investigated species composition,community structure and species diversity of vegetation communities suffering from different levels of degradation in Karst areas.The results showed that: (1） There were significant differences in species composition and life form composition of communities suffering from diferent levels of degradation. Numbers of plant families and species were highest in potential degraded communities. Along degradation, tree species gradually reduced and ultimately disappeared. The proportion of shrubs increased first and then decreased. The proportion of herbal increased gradually along degradation.(2) There is a total of 217 vascular plant species belonging to 86 families and 165 genera across 45 explored plots，and Euphorbiaceae,Meliaceae,Rosaceae, Verbenaceae, Gramineae， Nephrolepidaceae were the dominant species. Along degradation, the important values of dominant species gradually decreased,i.e., their dominance in the community gradually weakened while the important values of the companion species gradually increased. (3) Community structure tended to simplify along degradation,as density,height and coverage of community decreased.(4) There were significant differences in species diversity indexs of arbor, shrub and herb layers of communities suffering from different levels of degradation.The species richness index, Shannon-Wiener index and Simpson index decreased along degradation. In sum, characteristics of vegetation community substantially changed along degradation， which has important implication for further studies on degradation and vegetation restoration in Karst areas. Key word: vegetation community,lime soil, degradation,species composition, species diversity
+
+植物在长期环境变化中自我调节和适应形成了植物群落，其自身发展总是趋于最大限度地利用当地环境资源(Levine,2000;Lomolion,2001; Lortie et al,2004)。作为生态系统物质和能量的主要提供者，植物群落是维持生态系统稳定和持续生产的物质基础(张晓龙等，2017)。群落物种组成、多样性及群落结构既是对生态坏境的响应，也是植物生物学特征和生态学特性的综合表现，可以表征群落的稳定性及生境差异(蒋志刚等，1997；张金屯，1995)。土壤作为植物生存的重要环境条件之一，影响植物群落的结构和功能。通过研究植物群落种类组成、多样性及群落结构，可以有效评价一个群落的稳定程度和土壤特征。
+
+生态系统的退化过程是复杂的，有其自然属性决定的内在原因，而加速其退化的驱动力是外在干扰(Tuyet，2001；张明祥等，2001)。有关退化生态系统植物群落的研究大多集中在高寒草原、湿地等(周华坤等，2012；柳小妮等，2008；后源等，2009；马维伟，2016)。喀斯特地区由于其形成的碳酸盐岩基质的特殊性，过度的人为干扰造成了植被的减少或消失，水土流失加剧，土壤退化及石漠化发生(王克林等，2008；王世杰和李阳兵，2007)。喀斯特生境十分脆弱，生态系统的稳定性和抗干扰性差，大部分植被群落处于退化状态，恢复相当困难。自20世纪80年代中期进入环境保护阶段之后，植被开始得到自然恢复，但因物种多样性丧失严重，石灰土仍处于不同的退化程度。近年来国内学者对喀斯特地区不同森林类型、不同演替序列和不同土地利用方式的植物和土壤特征进行了初步探讨(宋同清等，2010,2008；彭晚霞等，2010；张伟等，2008)，这些研究为喀斯特生态恢复与重建提供了重要的理论依据，但对石灰土退化机理的研究需要进一步统一和完善。植被减少是喀斯特生态系统退化的诱因，然而随着退化程度的增加，喀斯特地区植被群落的物种组成及多样性会如何变化，这些问题的研究，对揭示喀斯特石灰土退化机理及植被恢复有重要的意义。
+
+目前有研究利用遥感技术(熊康宁，2002)和岩石裸露率(蒋忠诚等，2011)作为划分标准，将喀斯特石漠化划分为不同等级。有学者认为现行的石漠化程度分级过于简单，不能反映石漠化前后地面物质组成和植被景观的变化，难以满足石漠化治理规划编制和措施选择的需要，提出基于土壤流失程度和地面物质组成类型的石漠化程度的叠加分类(张信宝等，2007)。但这些研究缺少地面调查，很难真实地揭示喀斯特植被群落退化机理。本研究根据土壤退化的概念，在直观性原则、简单性原则、可操作性原则、主导因素原则和综合代表性原则的基础上，以岩石裸露率和植被覆盖率作为土壤退化等级划分的基本依据，通过土壤和植被调查，将植被群落划分为五个退化等级：无退化、潜在退化、轻度退化、中度退化和重度退化(宋同清等，2014)。本文运用群落生态学的原理，利用空间分布代替时间演替的方法(Barbouretet al，1980)来研究不同退化程度植被群落特征差异；通过建立不同退化程度的样地，并进行全面植被调查，探讨了喀斯特地区不同退化程度下植物群落种类组成、结构特征和物种多样性等变化，为揭示喀斯特退化机理和制定不同退化程度植被恢复方式提供重要的理论和实践依据。
+
+# 1研究区概况
+
+研究区选择在广西大化瑶族自治县 $( 1 0 7 ^ { \circ } 1 8 ^ { \prime } 4 5 ^ { \prime \prime } \mathrm { - } 1 0 8 ^ { \circ } 0 3 ^ { \prime } 4 5 ^ { \prime \prime } \mathrm { E }$ ， $2 3 ^ { \circ } 3 2 ^ { \prime } 3 0 ^ { \prime \prime }$ —24°22'30"N),位于云贵高原向广西丘陵过渡地带的斜坡上，属于广西最典型的“九山半水半分田”的石山区贫困县。全县总面积 $2 7 1 6 \mathrm { k m } ^ { 2 }$ ，耕地总面积 $1 6 2 \mathrm { k m } ^ { 2 }$ ，境内峰丛密布，喀斯特面积共2059$\mathrm { k m } ^ { 2 }$ ，占全县总面积的 $7 3 \%$ ，喀斯特地貌较为典型。成土母质以碳酸盐岩为主，地带性红壤只是分布在土山，石山、半石山普遍为石灰土。研究区气候温和，属中亚热带季风气候，雨热同季。年平均气温 $1 8 1 2 { \sim } 2 1 1 7 \ \mathrm { ~ \textdegree ~ }$ ，年降雨量为 $1 2 4 9 { \sim } 1 6 7 3 \mathrm { m m }$ 。
+
+# 2 研究方法
+
+# 2.1样地设置与调查
+
+本研究依据岩石裸露率和植被覆盖率将植被群落分为5个退化程度(宋同清等，2014):无退化(I)、潜在退化(II)、轻度退化(II)、中度退化(IV)、重度退化(V)。经过全面踏查，2016年7月选择符合5个退化程度的典型植被群落设置样地，每个退化程度设置9个样地，共获样地45个。运用典型群落抽样调查方法对处于各个退化程度典型植物群落进行取样调查，无退化、潜在退化和轻度退化的群落样地取样面积设置为 $2 0 \mathrm { m } \times 2 0 \mathrm { m }$ ，每个样地分为4个$1 0 \mathrm { m } \times 1 0 \mathrm { m }$ 乔木样方，在每个乔木样方内设置1个 $5 \mathrm { m } \times 5 \mathrm { m }$ 灌木样方和3个 $\mathrm { 1 m } \times \mathrm { 1 m }$ 草本样方。中度退化和重度退化取样面积为 $1 0 \mathrm { m } \times 1 0 \mathrm { m }$ ，每个样地分为4个 $5 \mathrm { m } { \times } 5 \mathrm { m }$ 灌木样方，在每个样方内设置3个 $1 \mathrm { m } \times 1 \mathrm { m }$ 草本样方。分乔木层 $\mathrm { ( D B H ) } \gtrsim \ 1 \mathrm { c m }$ 的乔木树种)、灌木层（包括木质藤本、 $\mathrm { D B H } < 1 \mathrm { c m }$ 乔木更新苗和因生境恶劣矮化成灌木型的乔木的树种）和草本层（包括草质藤本和蕨类植物）进行实测调查，记录每个样方内乔、灌木及幼树种类、数量、胸径、地径、高度、冠幅和盖度；草本植物调查其种类、数量、平均高和盖度；同时记录每个样方的地理位置、地形地貌、土壤特征、人为影响方式和强度、所属植被类型、总盖度等。
+
+# 2.2群落结构及多样性测度
+
+重要值是以综合数值来表示群落中各植物种的相对重要性。对乔木、灌木和木质藤本等木本植物统一进行重要值计算，重要值 $\ c =$ （相对密度 $+$ 相对优势度 $^ +$ 相对频度)/3；草本重要值的计算公式为：重要值 $\ c =$ (相对多度 $^ +$ 相对盖度 $^ +$ 相对频度)/3。相对密度、相对优势度、相对频度、相对多度和相对盖度参考董鸣等(1996)的方法来计算，其中乔木的相对优势度以胸高断面积计算，灌木的相对优势度以基面积计算。本研究采用丰富度指数(S)、Shannon-Wiener指数(N1)、Simpson 优势度指数(N2)和 Pielou 均匀度指数(J)来测定群落物种多样性，各群落结构指标计算方法参考文献(马克平等，1995)。重要值和多样性指数是按照不同退化阶段进行计算的。
+
+# 2.3数据处理
+
+群落多样性指数计算由R3.3.1软件完成，其他数据处理分析和图形绘制采用 Excel2010进行。
+
+# 3结果与分析
+
+# 3.1物种丰富度、科属种和生活型组成特点和变化
+
+本次调查共记录到维管束植物218种，隶属于86科168属。由图1可以看到，随着退化程度的增加，物种丰富度减少。无退化群落共调查到52科78属105种，潜在退化群落物种丰富度最高，共调查到53科80属112种，物种丰富度从退化开始减少，物种数量有较剧烈减少的趋势，重度退化的群落丰富度最低，共调查到27科51属62种。不同退化程度植物群落物种的生活型组成和不同生活型植物物种数所占比例有较大差异(图 2)。从潜在退化到轻度退化，群落乔木物种数从28种急剧减少到9种，中度和重度退化程度群落没有乔木；随着退化程度的增加，群落灌木物种数逐渐减少，由于乔木树种的急剧减少，轻度退化群落中灌木所占的比例有所增加；草本物种数随退化程度增加而增加，重度退化群落草本物种数所占比例高达 $7 9 \%$ ；藤本植物在不同退化程度群落中差异不大。
+
+![](images/a85e4f8a2a6ad4c4b4b3484f0ea2c9c4e849c7673894dbabc2d92a864fe3c070.jpg)  
+图1不同退化程度下植被群落科属种组成
+
+Fig.1 Families, genera and species of communities under different degradation degrees
+
+![](images/4d61e29425c767180a27eeb2222eaa67fe5166388d2e9ebefbca255e631233ab.jpg)  
+图2不同退化程度植物群落物种和生活型组成
+
+Fig.2 Plant species and life forms composition of communities under different degradation degrees of lime soil
+
+# 3.2重要值组成特点
+
+# 3.2.1无退化植物群落物种组成
+
+无退化的植被群落在该调查区域分布较少，保留完整的乔灌草植被层。该群落主要是以枫香(Liquidambar formosana)、香椿(Toona sinensis)、菜豆树(Radermachera sinica)、青冈(Cyclobalanopsis glauca)、任豆(Zenia insignis)和核桃(Juglans regia)为优势种的常绿落叶阔叶混交林。乔灌草层中重要值 $> 1 0$ 的物种分别有3、1、2种，占总物种数的 $12 . 0 0 \%$ 、 $2 . 2 2 \%$ 、$7 . 4 1 \%$ ，占总重要值的 $4 8 . 2 2 \%$ 、 $1 8 . 0 6 \%$ 、40.83；重要值1.00-10.0 的物种有12、27、17种，其余的种重要值都 $< 1 . 0 0$ 。常见的乔木树种还有粉苹婆(Sterculia euosma)、雀榕(Ficussuperba)、岩樟(Cinnamomum saxatile)、翻白叶树(Pterospermum heterophylum)、山合欢(Albiziakalkora)、红荷木(Schima walichii Choisy)和润楠(Machilus pingii)等。灌木层以红背山麻杆(Alchornea trewioides)、酸藤子(Embelia laeta)、盐肤木(Rhuschinensis)、山麻杆(Alchornea davidii)、黄荆(Vitex negundo)和粗叶悬钩子(Rubus alceaefolius)为优势种，常见的其他灌木树种还有米碎木(Ilex rotunda)、野桐(Mallotus japonicus)、阴香(Cinnamomumburmanni)、鬼画符(Euphorbiaceae)、火棘(Pyracantha fortuneana)、野牡丹(Melastoma candidum)和九节(Psychotria rubra)等。草本植物主要有肾蕨(Nephrolepis auriculata)、蔓生莠竹(Microstegium vagans)、三菱莎草(Cyperus rotundus)、卷柏(Selaginella tamariscina)、渐尖毛蕨(Cyclosorus parasiticus)、蔡草(Arthraxon hispidus)、紫荆泽兰(Eupatorium adenophora)、半边旗(Pteris semipinnata)、华南毛蕨(Cyclosorus parasiticus)等。藤本植物有薯芋(Dioscoreaopposita)、海金沙(Lygodium japonicum)和野葡萄(Ampelopsis brevipedunculata)。
+
+# 3.2.2潜在退化植物群落物种组成
+
+潜在退化的植被群落，一旦受到干扰，则很容易发生退化。该群落中，乔灌木层重要值>10 的物种分别有4、1、2，占总物种数的 $1 4 . 2 8 \%$ 、 $2 . 4 3 \%$ 、 $8 . 7 0 \%$ ，占总重要值的 $5 4 . 8 4 \%$ 、$1 2 . 6 6 \%$ 、66.14；重要值1.00-10.0 的物种有12、25、8种，其余的种重要值都 $< 1 . 0 0$ 。乔木树种有香椿、任豆、苦楝(Melia azedarach)、菜豆树、稠木(Lithocarpus thalassica)、灰毛浆果楝(Cipadessa cinerascens)、盐肤木、翻白叶树和喜树(Camptotheca Acuminata)等。灌木树种主要有红背山麻杆、火棘、灰毛浆果楝、粗叶悬钩子、瘤皮酸藤子(Embelia scandens)、大叶紫珠(Callicarpa macrophylla)、酸藤子、苎麻(Boehmeria nivea)、毛桐(Mallotus barbatus)、鬼画符和黄荆。草本植物主要有蔓生莠竹、肾蕨、渐尖毛蕨、五节芒(Miscanthus floridulus)、莎草(Cyperus rotundus)、凤尾蕨(Pteris cretica)、石韦(Pyrrosia lingua)、玉叶金花(Mussaenda
+
+Pubescens)等。藤本植物主要有铁线莲、单面针等。
+
+# 3.2.3轻度退化植被群落物种组成
+
+轻度退化的植被群落，乔木树种急剧减少，只是零星分布。乔灌木层重要值 $> 1 0$ 的物种分别有3、2、3，占总物种数的 $3 3 . 3 3 \%$ 、 $4 . 8 8 \%$ 、 $8 . 3 3 \%$ ，占总重要值的 $7 2 . 4 3 \%$ 、 $2 3 . 0 0 \%$ 、51.66；重要值 $1 . 0 0 { \sim } 1 0 . 0 \$ 的物种有4、26、11种，重要值 $< 1 . 0 0$ 的种有2、13、22种。乔木树种主要有喜树、黄牛木(Cratoxylum cochinchinense)、菜豆树、杜茎山(Maesa japonica)、山合欢和灰毛浆果楝。灌木层物种丰富，常见的灌木树种主要有黄荆、红背山麻杆、火棘、穿破石(Cudrania cochin chinensis)、香椿、老虎刺(Pterolobium punctatum)、喜树、雀梅藤(Sageretia thea)、假鹰爪(Desmos chinensis)和马甲子(Paliurus ramosissimus)等。草本植物主要有五节芒、卷柏、蔓生莠竹、白茅(Imperata cylindrica)、草、肾蕨、华南毛蕨、莎草、渐尖毛蕨、弓果黍(Cyrtococcum patens)和鬼针草(Bidens pilosa)等。藤本植物主要有九龙藤(Bauhinia championi)、牛白藤(Hedyotis hedyotidea)和海金沙等。
+
+# 3.2.4中度退化植被群落物种组成
+
+中度退化的植被群落，没有乔木层，只有灌木和草本。重要值 $> 1 0 . 0 0$ 、 $1 . 0 0 { \sim } 1 0 . 0 0$ 和<1.00 的物种在灌木层中依次有2、13、10种，在草本层中依次为4、12、20种。该群落的灌木树种相比轻度退化群落大幅减少，主要有黄荆、余甘子(Phyllanthus emblica)、野牡丹、盐肤木、越南悬钩子(Rubus cochinchinensis)、火棘、杜茎山、红背山麻杆、野桐、白花酸藤子(Embelia ribes)和毛桐等。草本植物主要有蔓生莠竹、五节芒、黄茅草(Heteropogoncontortus)、草、巢蕨(Neottopteris nidus)、肾蕨、石珍芒(Arundinella nepalensis)和鬼针草等。
+
+# 3.2.5重度退化植被群落物种组成
+
+重度退化的植被群落，主要以草本层为主，物种较为丰富。草本层中重要值 $> 1 0 . 0 0$ 的只有1种，仅占总物种数 $2 . 0 4 \%$ ，占总重要值 $1 2 . 1 1 \%$ ；重要值 $1 . 0 0 { \sim } 1 0 . 0 \$ 的物种有22 种，重要值<1.00 的种 26 种。以金丝草(Pogonatherum crinitum)和莎草为优势种，常见的草本植物还有野薄荷(Mentha haplocalyx)、胜红蓟(Ageratum conyzoides)、清蒿(Artemisia carvifolia)、弓果黍、野艾蒿(Artemisia lavandulaefolia)、白茅、野香茅(Cymbopogon goeringi)、蔡草和鬼针草等。灌木较少，零星可见粗叶悬钩子、野牡丹、大叶紫珠和酸藤子等。
+
+表4不同退化程度下群落各层次中前10的物种重要值 Table 4 Importance values of the first 1O species in communities layers under   
+
+<html><body><table><tr><td colspan="6">different degradation degrees</td></tr><tr><td>层次</td><td>物种</td><td>I</td><td>I</td><td>Ⅲ IV</td><td></td><td>V</td></tr><tr><td>Layers</td><td>Species</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>乔木 Tree</td><td>枫香 Liquidambar formosana 香椿Toona sinensis</td><td>19.67(1)</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>菜豆树 Radermachera sinica</td><td>16.30(2) 12.25(3)</td><td>20.66(1) 10.09(4)</td><td>18.65(2)</td><td></td><td></td></tr><tr><td></td><td>青冈 Cyclobalanopsis glauca</td><td>9.38(4)</td><td></td><td>2.03(8)</td><td></td><td></td></tr><tr><td></td><td>任豆 Zenia insignis</td><td>8.16(5)</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>核桃 Juglans regia</td><td></td><td>13.09(2)</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>6.73(6)</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>粉苹婆 Sterculia euosma</td><td>5.21(7)</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>雀榕 Ficus superba</td><td>4.51(8)</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>岩樟Cinnamomum saxatile</td><td>3.46(9)</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>翻白叶树 Pterospermum heterophyllum</td><td>2.11(10)</td><td>4.62(8)</td><td></td><td></td><td></td></tr><tr><td></td><td>苦楝Melia azedarach</td><td></td><td>10.99(3)</td><td>1.81(9)</td><td></td><td></td></tr><tr><td></td><td>稠木 Lithocarpus thalassica</td><td></td><td>8.07(5)</td><td></td><td></td><td></td></tr><tr><td></td><td>灰毛浆果楝 Cipadessa cinerascens</td><td></td><td>7.69(6)</td><td>3.1(7)</td><td></td><td></td></tr><tr><td></td><td>盐肤木 Rhus chinensis</td><td></td><td>4.74(7)</td><td>9.84(4)</td><td></td><td></td></tr><tr><td></td><td>喜树 Camptotheca Acuminata</td><td></td><td>2.80(9)</td><td>38.25(1)</td><td></td><td></td></tr><tr><td></td><td>粗糠柴Mallotus philippensis</td><td></td><td>2.27(10)</td><td></td><td></td><td></td></tr><tr><td>灌木</td><td>黄牛木 Cratoxylum cochinchinense</td><td></td><td></td><td>13.53(3)</td><td></td><td></td></tr><tr><td></td><td>杜茎山 Maesa japonica</td><td></td><td></td><td>8.77(5)</td><td></td><td></td></tr><tr><td>Shrub</td><td>山合欢 Albizia kalkora</td><td></td><td></td><td>4.02(6)</td><td></td><td></td></tr><tr><td></td><td>红背山麻杆 Alchornea trewioides</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>酸藤子 Embelia laeta 盐肤木 Rhus chinensis</td><td>18.06(1)</td><td>12.66(1)</td><td>11.18(2)</td><td>2.51(9)</td><td></td></tr><tr><td></td><td></td><td>6.04(2)</td><td>3.49(9)</td><td></td><td></td><td>5.8(5)</td></tr><tr><td></td><td></td><td>5.38(3)</td><td></td><td></td><td>4.5(4)</td><td></td></tr><tr><td></td><td>山麻杆 Alchornea davidii</td><td>4.74(4)</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>黄荆 Vitex negundo</td><td>4.48(5)</td><td></td><td>11.81(1)</td><td>38.16(1)</td><td>8.81(3)</td></tr><tr><td></td><td>粗叶悬钩子 Rubus alceaefolius</td><td>4.06(6)</td><td>7.17(4)</td><td></td><td>4.28(5)</td><td>50.36(1)</td></tr><tr><td></td><td>米碎木 Ilex rotunda</td><td>4.02(7)</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>野桐 Mallotus japonicus</td><td>3.97(8)</td><td></td><td></td><td>3.1(8)</td><td></td></tr><tr><td></td><td>阴香 Cinnamomum burmanni</td><td>3.49(9)</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>鬼画符 Euphorbiaceae</td><td>2.95(10)</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>火棘Pyracantha fortuneana</td><td></td><td>9.67(2)</td><td>7.85(3)</td><td>4.25(6)</td><td>3.03(7)</td></tr><tr><td></td><td>野牡丹 Melastoma candidum</td><td></td><td></td><td></td><td>5.64(3)</td><td>18.36(2)</td></tr><tr><td></td><td>九节 Psychotria rubra</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>灰毛浆果楝 Cipadessa cinerascens</td><td></td><td>9.07(3)</td><td></td><td></td><td></td></tr><tr><td></td><td>瘤皮孔酸藤子Embelia scandens</td><td></td><td>6.82(5)</td><td></td><td></td><td></td></tr><tr><td></td><td>大叶紫珠 Callicarpa macrophylla</td><td></td><td>3.82(6)</td><td></td><td></td><td>8.33(4)</td></tr><tr><td></td><td>香椿 Toona sinensis</td><td></td><td>3.56(7)</td><td>5.83(5)</td><td></td><td></td></tr><tr><td></td><td>苦楝Melia azedarach</td><td></td><td>3.54(8)</td><td></td><td></td><td></td></tr><tr><td></td><td>苎麻 Boehmeria nivea</td><td></td><td>2.74(10)</td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>毛桐 Mallotus barbatus</td></tr><tr><td>穿破石Cudrania cochin chinensis</td></tr><tr><td>老虎刺 Pterolobium punctatum 喜树 Camptotheca Acuminata</td></tr><tr><td>4.22(7)</td></tr><tr><td>雀梅藤 Sageretia thea 3.21(8)</td></tr><tr><td>假鹰爪Desmos chinensis 3.21(9) 马甲子 Paliurus ramosissimus 2.46(10)</td></tr><tr><td>余甘子Phyllanthus emblica 12.66(2)</td></tr><tr><td>杜茎山 Maesa japonica 4.13(7)</td></tr><tr><td>5.31(6) 柞木 Xylosma racemosum</td></tr><tr><td>琴叶榕 Ficus pandurata</td></tr><tr><td>构树 Broussonetia papyrifera 2.15(10)</td></tr><tr><td>草本 肾蕨Nephrolepis auriculata 27.56(1) 24.46(2) 4.93(6) 2.78(6)</td></tr><tr><td>Herb 蔓生莠竹 Microstegium vagans 13.26(2) 38.86(1) 12.65(3) 30.85(1)</td></tr><tr><td>三棱莎草 Cyperus rotundus 9.79 (3) 1.12(10)</td></tr><tr><td>卷柏 Selaginella tamariscina 9.58(4) 13.91(2) 2.56(9)</td></tr><tr><td>渐尖毛蕨 Cyclosorus parasiticus</td></tr><tr><td>5.92(5) 9.93(3) 草 Arthraxon hispidus 3.89(6)</td></tr><tr><td>五节芒Miscanthus floridulus 3.29(7)</td></tr><tr><td>3.68(4) 25.74(1) 20.50(2) 紫荆泽兰 Eupatorium adenophora 2.91(8)</td></tr><tr><td>半边旗 Pteris semipinnata 2.28(9)</td></tr><tr><td></td></tr><tr><td>华南毛蕨 Cyclosorus parasiticus 2.15(10) 4.25(7)</td></tr><tr><td>莎草 Cyperus rotundus 3.04 (5) 3.21(8) 8.69(2)</td></tr><tr><td>凤尾蕨 Pteris cretica 2.41(6)</td></tr><tr><td>石韦 Pyrrosia lingua 2.37(7)</td></tr><tr><td>白茅 Imperata cylindrica 7.97(4) 4.54 (8)</td></tr><tr><td>弓果黍 Cyrtococcum patens 2.42(10) 4.97(6)</td></tr><tr><td>鬼针草Bidens pilosa 2.57(7)</td></tr><tr><td></td></tr><tr><td>金丝草Pogonatherum crinitum 3.10(5) 12.11(1)</td></tr><tr><td>野薄荷 Mentha haplocalyx 7.00(3)</td></tr><tr><td>胜红蓟 Ageratum conyzoides 2.24 (9) 5.66(4)</td></tr><tr><td>清蒿 Artemisia carvifolia 2.64(8)</td></tr><tr><td>5.31(5) 野艾蒿Artemisia lavandulaefolia 2.13(10) 4.95(7)</td></tr><tr><td>野香茅 Cymbopogon goeringii 3.76(10)</td></tr><tr><td>艾草 Artemisia argyi 1.43(9)</td></tr><tr><td></td></tr><tr><td>茅草 Heteropogon contortus 13.33(3) 玉叶金花Mussaenda Pubescens 1.5(8)</td></tr></table></body></html>
+
+# 3.3不同退化程度群落结构特征
+
+森林群落结构选择密度、平均冠幅、盖度、平均胸径、平均高度等5个指标来测度(表5)。不同退化程度的植被群落之间，结构特征有着较大的差异。无退化植被群落的胸径、冠幅、密度、高度和盖度都明显高于其他群落，个体大，层次完整，群落结构合理。潜在退化
+
+群落乔木密度显著低于无退化群落，个体较小，群落结构稳定性相对较差，对干扰的反应较为敏感。发生退化的群落，结构不完整，轻度退化的群落，乔木稀少；中度退化的群落以灌木为主；重度退化的群落灌木只是零星分布，主要以草本为主，群落低矮，植被覆盖率低。
+
+表5不同退化程度群落结构特征  
+Table 5 Community structure under different degradation degrees of lime soil   
+
+<html><body><table><tr><td rowspan="2">群落 Comm-</td><td rowspan="2">平均胸径 Average DBH</td><td rowspan="2">平均冠幅 Average crown breadth (m)</td><td colspan="3">密度Density (plant·hm2)</td><td rowspan="2">群落高度 Community</td><td rowspan="2">群落盖度 Community</td></tr><tr><td>乔木</td><td>灌木</td><td>总密度</td></tr><tr><td>unity I</td><td>(cm) 8.76±4.54a</td><td>1.72±0.31a</td><td>Tree 2 311</td><td>Shrub 3 677</td><td>Total density 5 988a</td><td>height(m) 9.4±4.0a</td><td>coverage(%)</td></tr><tr><td>Ⅱ</td><td>6.68±1.05a</td><td>1.23±0.28b</td><td>1792</td><td>2 977</td><td>4 769b</td><td>7.2±1.3b</td><td>82.36±9.82a 75.65±6.52a</td></tr><tr><td>Ⅲ</td><td>3.02±0.89b</td><td>0.56±0.12c</td><td>825</td><td>3266</td><td>4 091b</td><td>2.9±0.7c</td><td>60.86±6.45b</td></tr><tr><td>IV</td><td></td><td></td><td></td><td>2 967</td><td>2 967c</td><td>1.0±0.4cd</td><td>48.32±5.31bc</td></tr><tr><td>V</td><td></td><td></td><td></td><td>456b</td><td>456d</td><td>0.3±0.1d</td><td>30.12±4.20c</td></tr></table></body></html>
+
+注：字母表示不同退化程度之间的差异 $( P < 0 . 0 5 )$ ；表中数据为平均值 $\pm$ 标准差。Letters indicated significantdifference among different degradation degrees at O.O5 level.The data in the table arex± s deviation.
+
+# 3.4物种多样性
+
+不同退化程度群落层次物种多样性存在显著性差异(图3)。无退化、潜在退化和轻度退化群落的物种丰富度指数(S)表现为灌木层 $>$ 草本层>乔木层，灌木中有较多乔木层物种的幼树和幼苗出现，丰富度高于乔木层。沿着退化程度不断增加的梯度，群落乔木层和灌木层的S 降低；V级退化群落草本层的S最高，原因是该群落退化严重，乔木层和灌木层不完整。随着退化程度的不断增加，群落各层次的物种 Shannon-Wiener 多样性指数(N1)、Simpson 优势度指数(N2)和均匀度指数(J)逐渐降低，除了草本层的 N1和 N2 差异不显著外，其他均存在显著性差异 $( P { < } 0 . 0 5 )$ ，表现为无退化>潜在退化>轻度退化>中度退化>重度退化。各退化程度下的群落，草本层的N1、N2 和J均高于灌木层和乔木层。无退化群落灌木层的 N1高于乔木层，N2和J在两个层次中相差不大；潜在退化群落乔木层和灌木层的 N1和 N2大小相似，乔木层的J高于灌木层；轻度退化群落各层次的N1、N2 和J均表现为草本层>灌木层>乔木层。
+
+由图4可以看到，不同退化程度群落总物种丰富度指数、物种 Shannon-Wiener多样性指数、Simpson 优势度指数随着退化程度增加而降低。Simpson 优势度指数和物种丰富度指数的曲线从II处开始斜率增大，表明群落一旦发生退化，物种丰富度和优势度指数会发生明显的变化，尤其是物种丰富度急剧降低。Shannon 多样性指数变化较为缓和，以较为稳定的趋势降低。均匀度指数曲线平缓，变化较小，表明不同退化程度群落均匀度大小相似。
+
+![](images/f948bb5a88404faa1f510e1220b1fdf4c88142174846e67f19b8507d055a877e.jpg)  
+图3不同退化程度下群落各植被层物种多样性
+
+注：字母表示不同退化程度同一生活型物种多样性的差异 $( P < 0 . 0 5 )$ 。Letters indicated significant difference among species diversity of the same vegetation life type under diferent degradation degrees at O.05 level.
+
+![](images/cd37b0be73b91a838c0d60d00c51356868112d37a8b4a3c7b633f0fd4d168399.jpg)  
+Fig.3 Species diversity of different layers under different degradation degree   
+图4不同退化程度下群落总植物物种多样性
+
+注：S.物种丰富度指数；N1.Shannon-Wiener 多样性指数；N2.Simpson 优势度指数；J.均匀度指数。下同。
+
+Note: S.Species richness index;N1.Shannon-Wiener diversity index; N2. Simpson dominance index; J.Evenness index.
+
+Fig. 4 Species diversity of plant communities under different degradation degrees
+
+# 4讨论
+
+# 4.1不同退化程度植物群落物种组成特点及变化
+
+植物群落是物种的载体，不同群落物种组成不同。喀斯特生态系统具有天生的脆弱性，敏感性强，它对干扰的反应迅速而剧烈，稍加干扰物种减少，植被逐渐消失，土地生态因子恶化，生态系统极易退化(曾馥平等，2007)。而环境发生退化后，引起植被再次发生重大退化，乔木逐步被小灌木和草本所替代，植被服务功能丧失，土壤进一步退化直至石漠化。本研究通过对喀斯特地区不同退化程度植被群落的调查分析，发现不同退化程度植被群落的物种生活型组成及结构有明显的改变。随着退化程度的增加，物种丰富度在潜在退化群落有所增加，但从轻度退化开始，物种数量依次减少。无退化和潜在退化群落植物层次完整，物种丰富度较高，9个样地共 $0 . 3 6 \mathrm { h m } ^ { 2 }$ 范围内分别有 105 种和112 种，与杜虎等(2013)在喀斯特峰丛洼地调查6个样地 $0 . 2 4 \mathrm { h m } ^ { 2 }$ 内的次生林(49 科84属 101种)和原生林(50 科 79 属 98种)的物种数量相似，但是远低于南方红壤区 $0 . 4 \mathrm { h m } ^ { 2 }$ 的天然次生林(王芸等，2013)的物种数量(226 种)，这与喀斯特特殊的土壤环境有关，植物在该生境中生长，需具有石生性、喜钙性和耐旱性的特征，同时具有发达和强壮的根系，因此种类相对较少。沿着退化程度递增的梯度，植物群落的乔木物种逐渐减少，甚至消失，而小灌木和草本占据群落优势种地位，石灰土进一步退化，这与曾馥平等(2007)的研究结果一致。此外，常绿物种比例逐渐降低，落叶树种相对增加，这与宋同清等(2010)沿着强、中、弱干扰递减梯度，发现喀斯特不同森林类型常绿物种的比例逐渐提高的结果相一致。不同退化程度植物群落物种组成不同。喀斯特植被群落逆向演替过程中，优势种的重要值逐渐降低，其在群落内的支配地位逐渐减弱，伴生种重要值逐渐升高。植被群落发生退化，是从乔木物种的减少和优势种发生变化开始，潜在退化群落到轻度退化乔木树种急剧减少，而人类活动干扰（砍伐、垦殖、采樵、放牧）是其主要原因。人类干扰的持续导致植被减少，土地退化，使得植被群落退化进一步加剧，最终导致乔木树种的消失，形成了中度退化的灌丛群落，其进一步恶化成重度退化的草丛群落。因此，减少人为干扰是喀斯特植被恢复的重要因素之一。
+
+# 4.2不同退化程度植物群落结构特征及多样性变化
+
+喀斯特生态系统的退化，不仅使群落物种组成发生变化，而且导致结构特征和物种多样性发生改变，它随着退化程度的加剧而降低。植物群落的物种多样性能够直接或者间接体现群落结构类型、稳定程度和生境差异等，可作为判断群落结构变化和生态系统稳定性的指标(孟莹莹等，2015；Bhim＆John，2014)。喀斯特峰丛洼地植物群落的稳定性与多样性具有更为复杂的关系，植物多样性并不能完全代表群落的稳定性，群落的稳定性不仅要有丰富的植物多样性，而且也要保证群落结构的合理性(曾馥平等，2007)。物种多样性降低和群落结构受到破坏是植物群落发生退化的主要因素，喀斯特地区植被群落退化过程中，群落结构和物种多样性变化明显。潜在退化的群落物种丰富度和多样性指数均略高于无退化群落，但潜在退化群落主要以小乔木和大灌木为主，而无退化群落盖度最高，乔木个体较大，结构相对合理，因此无退化群落较潜在退化群落抗干扰能力强和稳定性高。喀斯特地区无退化群落具有厚且连续的土层，植被覆盖率高，群落稳定性好，区域内宜农、林、牧，然而该类型群落在喀斯特石灰土地区脆弱生境下很少存在。潜在退化群落物种丰富度和多样性指数较高，土层连续，宜林、牧，但有一定的岩石裸露率，且植被群落抗干扰性较弱，一旦遭受外来干扰，则极易发生退化；植被减少会造成土壤退化，土壤退化势必引起植被退化，二者互为因果；因此对于该类型群落，应该在保证植被覆盖率和物种多样性的前提下进行土地管理和利用。石灰土轻度退化群落乔木稀少，以灌木为主，群落结构不合理，稳定性差，土被不连续，宜林、牧，但岩石裸露率达 $5 0 \%$ ，应以林为主，增加植被覆盖，有利于生态恢复；该类型群落为喀斯特地区主要的植被类型。中度退化的群落在喀斯特地区广泛分布，主要以灌草为主，植被覆盖率低，土层浅薄且不连续，岩石裸露率高，群落抗干扰和稳定性差，对于该类型群落应杜绝人为干扰，进行植被自然恢复。重度退化群落分布于高度石漠化地区，岩石裸露率高，植被覆盖低，土零星分布，只生长稀少草本植被，土地难以利用，需很长时间的自然恢复才能恢复植被，改善群落环境，而最终需多长时间还有待进一步探索。
+
+本研究以“空间代替时间”"的研究方法建立喀斯特植被群落不同退化程度系列，分析群落退化过程中群落组成、结构、物种多样性变化，有利于揭示和加深理解喀斯特群落退化生态学过程，为喀斯特群落恢复提供依据，具有现实意义。当然，若能采用长期定位研究，会取得更满意的结果。
+
+# 参考文献：
+
+BARBOUR M,BURK G, PITTS JH,1980.Terrestrial Plant Ecology[M].London: The Benjamin Publishing Company: 222-223.   
+BHIM BG,JOHN RP,2O14. Ecosysten function and service quantification and valuation in aconventional winter wheat production system with DAISY model in Denmark[J]. Ecosyst Serv,1O: 91-97.   
+DONG M, WANG YF,KONGFZ, et al,1996. Survey,observation and analysis of terrestrial biocommunites[M]. Beijing:China Standard Press.[董鸣，王义凤，孔繁志，等,1996.陆地生物群落调查观测与分析[M]．北 京:中国标准出版社.]   
+DU H,PENG WX,SONG TQ,et al,2013. Plant community characteristics and its coupling relationships with soil in depressions between karst hils,North Guangxi,China[J]. Chin JPlant Ecol,37(3):197-208.[杜虎,彭 晚霞，宋同清，等，2013．桂北喀斯特峰丛洼地植物群落特征及其与土壤的耦合关系[J]．植物生态学报， 37(3):197-208.]   
+HOU Y,GUO ZG, LONG RH,20O9.Changes of plant community structure and species diversity in degradation process of Shouqu wetland of Yellow River[J]. Chin JAppl Ecol,20(1):27-32.[后源，郭正刚，龙瑞军, 2009．黄河首曲湿地退化过程中植物群落组分及物种多样性的变化[J]．应用生态学报,20(1):27-32.]   
+JIANG ZC,LI XK,HUBQ,et al,2011.Studyon rocky desertificationand its comprehensive treatment in karst mountainous area of Guangxi[M].Beijing: Science Press.[蒋忠诚，李先坤，胡宝清，等,2O11.广西岩溶 山区石漠化及其综合治理研究[M]．北京：科学出版社.]   
+JIANG ZG ， MA KP， HAN XG 1997. Conservation biology[M]. Hangzhou: Zhejiang science and Technology Press.[蒋志刚，马克平，韩兴国,1997．保护生物学[M]．杭州：浙江科学技术出版社.]   
+LEVINE JM,200. Complexinteractions in a streamside plant community[J]. Ecology, 81(12): 3431-3444.   
+LIU XN,SUN JL, ZHANG DG, etal,2008.A study on community structure and plant diversity of alpine meadow under different degrees of degredation in the Eastern Qilian Mountains[J]. Acta Pratac Sin,17(4): 1-11.[柳小 妮，孙九林，张德罡，等，2008．东祁连山不同退化阶段高寒草甸群落结构与植物多样性特征研究[J]. 草业学报,17(4): 1-11.]   
+LOMOLIONMV,2001. Elevation gradients of species-density: historical and prospective views[J]. Global Ecol Biogeogr, 10(1): 3-13.   
+LORTIE CJ, BROOKER RW,CHOLE P,et al. Rethinking plant community theory[J]. Oikos，2004,107(2): 433-438.   
+MA KP,HUANGJH,YUSL,et al,1995.Plant community diversity in Dongling Mountain[J],Beijing,China: I. Species richnessevenness and species diversites.Acta Ecol Sin,15:268-277.[马克平，黄建辉，于顺利, 等,1995.北京东灵山地区植物群落多样性的研究II:丰富度、均匀度和物种多样性指数[J].生态学报, 15,268-277.]   
+MA WW,LI G SHI WL,et al, 2016. Changes of plant biomassand species diversity in degradation processof Gahai Wetland in Gansu Province[J]. Acta Agrestia Sin,24(5): 960-966.[马维伟，李广，石万里，等,2016. 甘肃尕海湿地退化过程中植物生物量及物种多样性变化动态[J]．草地学报,24(5):960-966.]   
+MENG YY,ZHOUL,ZHOU WM,et al,2015. Characteristics of plant species diversity in a windthrow area on Changbai Mountain after 26 years of natural recovery[J]. Acta Ecol Sin,35(1): 142-149.[孟莹莹，周莉，周 旺明，等,2015．长白山风倒区植被恢复26 年后物种多样性变化特征[J].生态学报,35(1):142-149.]   
+PENG WX,SONG TQ，ZENG PP,et al,2010. The coupling relationships between vegetation,soil，and topography factors in karst mixed evergreen and deciduous broadleaf forest[J].Acta Ecol Sin,30(13): 3472-3481.[彭晚霞，宋同清，曾馥平，等，2010.喀斯特常绿落叶阔叶混交林植物与土壤地形因子的耦 合关系[J]．生态学报,30(13):3472-3481.]   
+SONG TQ, PENG WX,DU H，et al, 2014. Occurrence，spatial-temporal dynamics and regulation strategies of karst rocky desertification insouthwest China[J].Acta Ecol Sin,34(18): 5328-5341．宋同清，彭晚霞，杜虎, 等，2014.[中国西南喀斯特石漠化时空演变特征、发生机制与调控对策[J]．生态学报，34(18)： 5328-5341]   
+SONG TQ,PENG WX,ZENG PP, et al,2010.Communitycomposition and biodiversity characteristics of forests in Karst cluster-peak-depresson region[J]. Biodivers Sci,18 (4):355-364.[宋同清，彭晚霞，曾馥平，等, 2010．喀斯特峰丛洼地不同类型森林群落的组成与生物多样性特征[J].生物多样性,18(4):355-364.]   
+SONG TQ,PENG WX, ZENG PP,et al,2008.Vegetation Succession Rule Andregeneration Stratigies in Disturbed KarstArea,Northwest Guangxi[J].JMount Sci,26(5):597-604.[宋同清，彭晚霞，曾馥平，等,2008．桂西 北喀斯特人为干扰区植被的演替规律与更新策略[J]．山地学报,26(5):597-604.]   
+TUYETD,20O1. Characteristics of karst ecosystems of Vietnamand their vulnerability to human impact[J].Acta Geologica, 75: 325-329.   
+WANG KL, SU YR, ZENG FP ,et al, 2008. Ecological processand vegetation restoration in Karst region of southwest China[J].Reas.Agric.Moderm.,29(6): 641-645.[王克林，苏以荣，曾馥平，等,2008．西南喀斯 特典型生态系统土壤特征与植被适应性恢复研究[J].农业现代化研究,29(6):641-645.]   
+WANG SJ & Li YB,2007.Problems and development trends about researches on Karst Rocky desertification[J]. Adv Earth Sci,22(6):573-582.[王世杰和李阳兵,2007．喀斯特石漠化研究存在的问题与发展趋势[J]．地 球科学进展,22(6):573-582.]   
+WANG Y,OUANG ZY,ZHENG H, et al,2013.Effects of thre forest restoration approaches on plant diversity in red soil region,southern China[J].Acta Ecol Sin,33(4):1205-1211.[王芸，欧阳志云，郑华，等,2013．南 方红壤区3种典型森林恢复方式对植物群落多样性的影响[J].生态学报,33(4):1205-1211.]   
+XIONG KN,LIP,ZHOU ZF, et al,2002. Astudy of Karst rocky desertification byremote sensing and GIS:a case study of Guizhou[J].Beijing:Geological Publishing Pres.[熊康宁，黎平，周忠发，等,2002．喀斯特石漠 化的遥感—GIS 典型研究—以贵州省为例[J].北京：地质出版社.]   
+ZENG FP,PENG WX,SONG TQ,et al,20O7.Changes in vegetation after 22 years.natural restoration in the karst disturbed area in Northwest Guangxi[J].Acta Ecol Sin,27(12): 5110-5119.[曾馥平，彭晚霞，宋同清, 等,2007．桂西北喀斯特人为干扰区植被自然恢复22年后群落特征[J]．生态学报,27(12):5110-5119.   
+ZHANG JT,1995. Methods of quantitative vegetation ecology[M]. Beijing: China Science and Technology Press.   
+[张金屯,1995．植被数量生态学方法[M]．北京：中国科学技术出版社.]   
+ZHANG MX,YANCG, WANG JC,et al,2001. Analyseson wetland degradation and its reasons in China[J].For Resourc Manag，3：23-26.[张明祥，严承高，王建春，等，2001．中国湿地资源的退化及其原因分析[J]. 林业资源管理,3:23-26.]   
+ZHANG W,CHEN HS,WANG KL,et al, 2008. Spatial variabilityof soil nutrients on hilslope in typical karst peak-cluster depresion areas[J].Trans.Chin. Soc.Agric.Eng.,24(1): 68-73.[张伟，陈洪松，王克林，等, 2008．典型喀斯特峰丛洼地坡面土壤养分空间变异性研究[J]．农业工程学报,24(1):68-73.]   
+ZHANG XB,WANG SJ,HE XB,etal,2007.A preliminary discussionon the rocky desertification classfication for slope land in karst mountain area of Southwest China[J].Earth Environ,35(2):188-192.[张信宝，王世 杰，贺秀斌，等,2007．西南岩溶山地坡地石漠化分类刍议[J].地球与环境,35(2):188-192.   
+ZHANG XL, ZHOU JH, CAI WT, et al,2017.Diversity characteristics of plant communities in the arid desertof the Heibe basin under different moisture gradients[J].Acta Ecol Sin,37(14).[张晓龙，周继华，蔡文涛，等, 2017．水分梯度下黑河流域荒漠植物群落多样性特征[J].生态学报,37(14).   
+ZHOU HK, ZHAO XQ, WWEN J,et al,2012. The characteristics of soil and vegetation degenerated in alpine steppe in the Yelow River Source Region[J].Acta Pratac Sin,21(5):1-11.[周华坤，赵新全，温军，等,2012. 黄河源区高寒草原的植被退化与土壤退化特征[J]．草业学报,21(5):1-11.

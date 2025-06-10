@@ -1,0 +1,984 @@
+[
+    {
+        "type": "text",
+        "text": "Singlet extension of the MSSM as a solution to the small cosmological scale anomalies ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fei Wang1，Wenyu Wang²，Jin Min Yang³，Sihong Zhou²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Department of Physics and Engineering, ZhengZhou University, ZhengZhou 450001, China   \n2 Institute of Theoretical Physics， Colege of Applied Science, Beijing University of Technology,   \nBeijing 100124, China   \n3 State Key Laboratory of Theoretical Physics, Institute of Theoretical Physics， Academia Sinica,   \nBeijing 100190, China   \nE-mail: feiwang@zzu.edu.cn, wywang@mail.itp.ac.cn, jmyang@itp.ac.cn,   \nsihongzhou@emails.bjut.edu.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT: In this work we show that the general singlet extension of the MSSM can naturally provide a self-interacting singlino dark matter to solve the small cosmological scale anomalies (a large Sommerfeld enhancement factor can also be obtained). However, we find that the NMSSM (the singlet extension of the MSSM with $Z _ { 3 }$ symmetry） cannot achieve this due to the restricted parameter space. In our analysis we introduce the concept of symmetric and antisymmetric viscosity cross sections to deal with the non-relativistic Majorana-fermion dark matter scattering. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Contents ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1Introduction 2 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2Dark matter interactions 3   \n2.1The Sommerfeld enhancement effect 4   \n2.2The transfer and viscosity cross sections of self-interacting dark matter 6 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3Can self-interacting dark matter scenario be realized in the NMSSM ? 9 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1Dark matter and Higgs bosons in the NMSSM 9   \n3.2Allowed parameter space and dark matter self scattering in the NMSSM 11 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4 Can self-interacting dark matter scenario be realized in the GMSSM ? 15 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4.1Dark matter and Higgs bosons in the GMSSM 16   \n4.2Allowed parameter space and dark matter self scattering in the GMSSM 18 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5Conclusions 20 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As the standard model of the Big Bang cosmology, the $\\Lambda$ CDM model can account for most observations of the Universe. A crucial ingredient of this model is the existence of cold dark matter (CDM),which, with a proper cosmological constant, can successfully predict the large scale structure of the Universe. However, the predictions on small scale structures seem not so successful and some anomalies exist: [1] 1） missing satellites - There should be many more dwarf-sized subhalos (satellites) than observed in the DM halo of the Milky Way (MW). And the observed galaxy luminosity and HI-mass functions beyond the MW show shallower faint-end slopes than predicted. [2] 2） cusp us core - It seems to have cored inner density profles in the low surface brightness and dwarf galaxies, this is at odds with CDM cusps predicted by simulations [3]. 3) too big to fail - In comparison with the densest and most massive satellites found in simulations,the observed brightest satelites of the MW attain their maximum circular velocity at a too large radii. [4]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "There are various ways to solve these small scale problems,such as the nonthermal production of warm dark matter [5] or the baryon fedback in the galaxies to make smal halos dark [6]. Also,recently the author of [7, 8] proposed another self-interacting Dirac-fermion DM scenario with a light mediator ( $\\lesssim$ 100 MeV） to solve these small scale anomalies. With a light force carrier, the dark matter scattering cross section could have a non-trivial velocity dependence. All of the small scales (the dwarf size, the Milky Way size as well as the galaxy cluster size) can have appropriate cross sections, thus leaving enough parameter space for the mass of DM, the force carrier and the coupling strength. Besides, the authors also showed that the DM self-interactions can be correlated with the effect of Sommerfeld enhancement in DM annihilation which is being probed through indirect detection experiments. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This self-interacting DM scenario perfectly explain the anomalies in the simulations of small scale structures. Therefore, it is necessary to check if such a scenario can be realized in popular new physics theories like low energy supersymmetry (SUSY). In SUSY the better known DM candidate is the Majorana-type neutralino,which is composed of bino, wino and higgsinos. Apparently, if the neutralino can have self-interactions through a light force carrier, such a carrier can not have sizable standard model (SM) interaction due to the stringent constraints from both collider and DM detection experiments. Thus,this light force carrier should be composed mainly of a singlet with respect to the SM gauge groups, which cannot be found in the minimal supersymmetric standard model (MSSM). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fortunately, there are various singlet extensions of the MSSM,among which the nextto-minimal supersymmetric standard model (NMSSM) seems most attractive [9,10]. In the NMSSM,all the parameters in the superpotential are dimensionless and electroweak symmetry breaking is triggered by the TeV-scale soft SUSY breaking terms. The SUSY preserving $\\mu$ term in the superpotential of the MSSM is generated by the vacuum expectation values (VEV) of a singlet superfield $S$ . It is shown that in the NMSSM a light singlet scalar at several GeV can survive the DM detection limits and the collider constraints [11]. On the other hand,if we do not impose any discrete symmetry (in the NMSSM it is $Z _ { 3 }$ ）） and allow for all possible interactions of the singlet field, then we have the general singlet extension of the MSSM (GMSSM), (more detail can be seen in [12]) which was used to explain the PAMELA anomaly [13, 14]. Compared with the NMSSM, the GMSSM has a larger parameter space. In the GMSSM, the singlet can form a dark sector in case of a very small $\\lambda$ . The singlino-like dark matter can annihilate into the light singlet-like scalar, which can give the correct DM relic density and a proper Sommerfeld enhancement factor. In this model, the singlet scalar can be even lighter than in the NMSSM due to a larger parameter space. So it is intriguing to check if such a singlet scalar in the NMSSM or GMSSM can serve as the light force carrier mediated in the DM self-interactions, which is the aim of this work. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this work we focus on the NMSSM and GMSSM to check if the self-interacting DM scenario can be realized. In our study we will take into account the constraints from DM relic density, the DM direct detection experiments as well as the proper non-relativistic scattering cross sections between DM. We organize the content as follows. In Sec. 2, we will discuss the general DM interactions. In Sec. 3 and Sec. 4, we wil respectively check the NMSSM and GMSSM to figure out the possibility of realizing the self-interacting DM scenario to solve the small cosmological scale anomalies. Sec. 5 contains our conclusions. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 Dark matter interactions ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As mentioned in the introduction, in order to explain both the large scale and small scale structures of the Universe,we can introduce the self-interacting DM scenario. The interactions between DM and SM particles can be summarized as (shown in Fig. 1): ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. The annihilation to the SM particles (the left diagram of Fig.1),whose cross section at high energy determines the relic density of dark matter and whose cross section at low energy is being probed by the indirect detection experiments like PAMELA [19] and AMS02 [20].   \n2. The elastic scattering off the SM particles (the middle diagram of Fig. 1),which is being probed by various direct detection experiments like CDMS,[15] XENON [16] and LUX [17].   \n3. The non-relativistic self-scattering (the right diagram of Fig. 1),where $l = 0$ in the partial wave expansion gives the Sommerfeld enhancement relative to the relativistic annihilation while l≤25 can account for the anomalies in the small cosmological scales. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "These interactions have subtle correlations among each other. A complete study on DM properties needs to combine all these interactions from various experiments. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We now briefly review the calculation of DM relic density and the DM-nucleon cross sections. When the early universe was cooling down, the equilibrium between DM and SM particles in the thermal bath can no longer be maintained. The DM will annihilate to SM particles until the annihilation rate falls below the expansion rate of the universe. Thus the key point in the DM relic density calculation is the annihilation rate of DM. In our following calculation,we use the standard method [18] to calculate the relativistic annihilation cross section and the degrees of freedom at the freezing out temperature. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d620ae67bd12896a899d7e2453a9945eb80f517475fb76ef18e2225efafc776.jpg",
+        "img_caption": [
+            "Figure 1. Dark matter interactions: annihilation to SM particles in the left diagram, scattering off quarks in the middle diagram,and self-scattering in the right diagram. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It is suffcient to consider only the spin independent (SI) elastic cross sections between DM (denoted by $\\chi$ ） and nucleon (denoted by $f _ { p }$ for proton and $f _ { n }$ for neutron [18]） because of its high sensitivity in current DM direct detection experiments. These interactions are dominantly induced by scalar exchange processes at tree level, as shown in the middle diagram of Fig.(1). Note that the vector boson exchange interactions are also possible and we concentrate on the scalar interactions only. For moderately light scalar bosons, $f _ { p }$ is approximated by (similarly for $f _ { n }$ ） ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { p } \\simeq \\sum _ { q = u , d , s } \\frac { f _ { q } ^ { \\phi } } { m _ { q } } m _ { p } f _ { T _ { q } } ^ { ( p ) } + \\frac { 2 } { 2 7 } f _ { T _ { G } } \\sum _ { q = c , b , t } \\frac { f _ { q } ^ { \\phi } } { m _ { q } } m _ { p } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $f _ { T q } ^ { ( p ) }$ denotes the fraction of $m _ { p }$ (protonmas）fromthelightquark $q$ ， $f _ { T _ { G } } = 1 -$ $\\begin{array} { r } { \\sum _ { u , d , s } f _ { T _ { q } } ^ { ( p ) } } \\end{array}$ isthehavyakotbogged $f _ { q } ^ { \\phi }$ is the coefieient of the effective scalar operator given by ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { q } ^ { \\phi } = \\frac { C _ { \\phi \\chi \\chi } C _ { \\phi q q } } { m _ { \\phi } ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "with $C$ being the corresponding interaction vertex and $m _ { \\phi }$ the mass of the exchanging particle. The DM-nucleus scattering rate is then given by ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma ^ { S I } = \\frac { 4 } { \\pi } \\left( \\frac { m _ { \\chi } m _ { T } } { m _ { \\chi } + m _ { T } } \\right) ^ { 2 } \\times \\left( n _ { p } f _ { p } + n _ { n } f _ { n } \\right) ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $m _ { \\chi }$ is the DM mass, $m T$ is the mass of target nucleus,and $n _ { p } ( n _ { n } )$ is the number of protons (neutrons) in the target nucleus. We can see the dependence of SI cross section on the mass of exchanging particle $\\sigma ^ { S I } \\propto 1 / m _ { \\phi } ^ { 4 }$ , which is very important in our following discussions. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Note that the annihilation cross section in relic density is calculated at high energy. To explain the DM indirect detection results (such as the PAMELA result) and the small cosmological scale anomalies, the DM scattering at low energies are needed. We will discuss their relations in the following. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1 The Sommerfeld enhancement effect ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The Sommerfeld enhancement effect in dark matter annihilation is proposed to explain some DM indirect detection results, such as the positron excess observed by PAMELA [19] or AMS [20]. The explanation of positron excess requires a very large DM annihilation rate which on the other hand can not explain the DM relic abundance if the DM is produced thermally in the early universe. The Sommerfeld effect can greatly enhance the annihilation rate when the velocity of DM is much smallr than the velocity at freeze-out temperature. Note that it is shown that the positron excess can be more naturally explained by the pulsar wind and, further, the gamma-rays produced by inverse Compton scattering on interstellar radiation field of electrons and positrons produced by dark matter basically exclude the dark matter interpretation [21]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The Sommerfeld enhancement is a common effect in non-relativistic quantum mechanics (QM). When DM has self-interactions, it will lead to an effective potential $V ( r )$ in the non-relativistic limit. Thus the Schrodinger equation of DM particle can be written as ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- { \\frac { 1 } { 2 m _ { \\chi } } } \\nabla ^ { 2 } \\psi _ { k } + V ( r ) \\psi _ { k } = { \\frac { k ^ { 2 } } { 2 m _ { \\chi } } } \\psi _ { k } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $k$ is the relative momentum of the DM particle. A non-relativistic DM moves and annihilates around the origin,namely near $r = 0$ . Therefore,the only effect of the potential $V ( r )$ is the change of the modulus for the wave-function at the origin comparing to that without $V ( r )$ . Then,the annihilation cross section is enhanced to ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma = \\sigma _ { 0 } S _ { k } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where the Sommerfeld enhancement factor $S$ is given by ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { k } = \\frac { \\vert \\psi _ { k } ( 0 ) \\vert ^ { 2 } } { \\vert \\psi _ { k } ^ { ( 0 ) } ( 0 ) \\vert ^ { 2 } } = \\vert \\psi _ { k } ( 0 ) \\vert ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "with $\\psi _ { k } ( 0 )$ and $\\psi _ { k } ^ { ( 0 ) } ( 0 )$ are respectively the perturbed (unperturbed) wave function of DM. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We can find a solution for the Schrodinger equation in non-relativistic QM.As $R _ { k l } ( r ) \\sim$ $r ^ { l }$ as $r  0$ and the $l > 0$ part will not change the annihilating wave function at the origin, we need only to calculate the ${ \\mathit { l } } = 0$ part of the radial wave $R _ { k l } ( r )$ .We can numerically solve the Schrodinger equation with the boundary condition ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\chi ( r ) \\equiv r R _ { k l } ( r ) \\to \\sin ( k r + \\delta ) \\mathrm { a s } r \\to \\infty .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In case of a Yukawa-type effective potential induced by scalar exchange ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ( r ) = - \\alpha _ { \\chi } \\frac { e ^ { - m _ { \\phi } r } } { r } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "with $\\alpha _ { \\chi } = | C _ { \\phi \\chi \\chi } | ^ { 2 } / 4 \\pi$ , the Sommerfeld enhancement factor is given by ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { k } = \\left| \\frac { \\frac { d \\chi } { d r } ( 0 ) } { k } \\right| ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Though there is no analytical solution for the Schrodinger equation with the Yukawatype potential, there are three distinguishable regions for the Sommerfeld enhancement, depending on the value of $m _ { \\chi } / m _ { \\phi }$ .If the mediator scalar mass is comparable to the DM mass, $S _ { k }$ is negligible at all scales. However,if the mediator scalar mass is much smaller than the DM mass,the enhancement factor becomes independent of $m _ { \\chi } / m _ { \\phi }$ and corresponds to the Coulomb limit. In this limit, the Sommerfeld enhancement factor is essentially given by $S _ { k } \\sim \\pi \\alpha _ { \\chi } / v$ . In the resonance regions where $m _ { \\chi } / m _ { \\phi } \\simeq \\pi ^ { 2 } n ^ { 2 } / 6 \\alpha _ { \\chi }$ （20 with $n = 1 , 2 , 3 , \\cdots$ , the DM annihilation cross section can be enhanced. The enhancement factor is approximately given by $S _ { k } \\sim \\pi ^ { 2 } \\alpha _ { \\chi } m _ { \\phi } / ( 6 m _ { \\chi } v ^ { 2 } )$ , which is very sensitive to the DM velocity. In our numerical calculation we reproduced the results of [23],as shown in Fig. 2.This figure shows the Sommerfeld enhancement factor at velocity 10, 200, $1 0 0 0 ~ \\mathrm { k m / s }$ corresponding to the characteristic velocities of the halo of the dwarf, the Milky Way and the cluster (these are the three small cosmological scales at which the $\\Lambda$ CDM model seems not work well). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9d32039787faa5bea5f6ba967496d67806199b6532ea86baf5a19193f86f8562.jpg",
+        "img_caption": [
+            "Figure 2. The Sommerfeld enhancement factor at diferent velocities with the coupling strength （20 $\\alpha _ { \\chi } = 0 . 0 1$ .Here $v = 1 0 \\mathrm { k m / s } , 2 0 0 \\mathrm { k m / s } , 1 0 0 0 \\mathrm { k m / s }$ correspond to the characteristic speed of dwarf halos, the Milky Way and clusters,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2 The transfer and viscosity cross sections of self-interacting dark matter ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As pointed in [23,24], in order to solve the small scale simulation anomalies,self-interaction between the DM is necessary. In the non-relativistic limit, the scattering between DM can be described by QM. The most recent simulations have shown that $\\sigma / m _ { \\chi } \\sim 0 . 1 - 1 0 ~ \\mathrm { c m ^ { 2 } / g }$ （20 on dwarf scales (the characteristic velocity is $1 0 \\mathrm { k m / s }$ ) is sufficient to solve the core-vs-cusp and too-big-to-fail problems,while the Milky Way (the characteristic velocity is $2 0 0 ~ \\mathrm { k m / s }$ ） and cluster scales (the characteristic velocity is $1 0 0 0 ~ \\mathrm { k m / s }$ ）require $\\sigma / m _ { \\chi } \\sim 0 . 1 - 1 ~ \\mathrm { c m ^ { 2 } / g }$ It appears that all the data may be accounted for with a constant scattering cross section around $\\sigma / m _ { \\chi } \\sim 0 . 5 ~ \\mathrm { c m ^ { 2 } / g }$ . On the other hand, the self-interacting DM models generically predict a velocity-dependent scattering cross section over a wide range of parameter space. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The numerical input for the simulation of small scales is the differential cross section $d \\sigma / d \\Omega$ as a function of the DM relative velocity $v$ .The standard cross section $\\textstyle { \\boldsymbol { \\sigma } } = \\int d \\Omega ( d { \\boldsymbol { \\sigma } } / d \\Omega )$ receives a strong enhancement in the forward-scattering limit ( $\\cos \\theta  1$ ), which does not change the DM particle trajectories. Thus two additional cross sections are defined to parameterize transport [25], the transfer cross section $\\sigma _ { T }$ and the viscosity (or conductivity） cross section $\\sigma _ { V }$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { T } = \\int d \\Omega \\left( 1 - \\cos \\theta \\right) { \\frac { d \\sigma } { d \\Omega } } , \\qquad \\sigma _ { V } = \\int d \\Omega \\sin ^ { 2 } \\theta { \\frac { d \\sigma } { d \\Omega } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The transfer cross section is weighted by $( 1 - \\cos \\theta )$ which is the fractional longitudinal momentum transfer while the viscosity cross section is weighted by $\\sin ^ { 2 } \\theta$ which is the energy transfer in the transverse direction. The transfer cross section was used in the DM literature to regulate the forward-scattering divergence in case of Dirac-fermion DM candidate, while the viscosity cross section was used in case of Majorana-fermion DM candidate. This is because both forward and backward scatterings diverge, corresponding to poles in the $t$ -and $u$ -channel diagrams for the identical DM candidate. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In [23] the authors considered a Dirac-fermion DM and calculated $o _ { T }$ .Within the resonance region， no analytic formula exists for $\\sigma _ { T }$ and it must be computed by solving the Schrodinger equation directly with partial wave expansion method. The scattering amplitude is given by ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( \\theta ) = \\frac 1 k \\sum _ { \\ell = 0 } ^ { \\infty } ( 2 \\ell + 1 ) e ^ { i \\delta _ { \\ell } } P _ { \\ell } ( \\cos \\theta ) \\sin \\delta _ { \\ell } .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The differential scattering cross section is given by ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { d \\sigma } { d \\Omega } = \\frac { 1 } { k ^ { 2 } } \\Big \\vert \\sum _ { \\ell = 0 } ^ { \\infty } ( 2 \\ell + 1 ) e ^ { i \\delta _ { \\ell } } P _ { \\ell } ( \\cos \\theta ) \\sin \\delta _ { \\ell } \\Big \\vert ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $\\delta _ { \\ell }$ is the phase shift for a partial wave $\\ell$ .In terms of the phase shifts, the transfer cross section is given by ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { \\sigma _ { T } k ^ { 2 } } { 4 \\pi } } = \\sum _ { \\ell = 0 } ^ { \\infty } ( \\ell + 1 ) \\sin ^ { 2 } ( \\delta _ { \\ell + 1 } - \\delta _ { \\ell } ) \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To obtain $\\delta _ { \\ell }$ , one must solve the Schrodinger equation to calculate the radial wave function $R _ { \\ell } ( r )$ for the reduced two-DM particle system ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 } { r ^ { 2 } } \\frac { d } { d r } \\Bigl ( r ^ { 2 } \\frac { d R _ { \\ell } } { d r } \\Bigr ) + \\Bigl ( k ^ { 2 } - \\frac { \\ell ( \\ell + 1 ) } { r ^ { 2 } } - 2 \\mu V ( r ) \\Bigr ) R _ { \\ell } = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The Schrodinger equation can be recast into the form ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\frac { d ^ { 2 } } { d x ^ { 2 } } + a ^ { 2 } - \\frac { \\ell ( \\ell + 1 ) } { x ^ { 2 } } \\pm \\frac { 1 } { x } e ^ { - x / b } \\right) \\chi _ { \\ell } ( x ) = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "with new variables ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\chi _ { \\ell } \\equiv r R _ { \\ell } , \\quad x \\equiv \\alpha _ { \\chi } m _ { \\chi } r , \\quad a \\equiv \\frac { v } { 2 \\alpha _ { \\chi } } , \\quad b \\equiv \\frac { \\alpha _ { \\chi } m _ { \\chi } } { m _ { \\phi } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/5dba72be9029fb71b7bb77dc3a307857d5d05a6c86702bd1e103e5392fa3817a.jpg",
+        "img_caption": [
+            "Figure 3. The birds-eye view of transfer and viscosity cross sections $\\sigma _ { T }$ ， $\\sigma _ { V S }$ ， $\\sigma _ { V A }$ in the parameter space $( a , b )$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "When the DM candidate is a Majorana fermion, the amplitude and Schrodinger equation are the same as in Eq.(2.11) and Eq.(2.15). However, the total wave function of the spin- $1 / 2$ fermionic DM must be antisymmetric with respect to the interchange of two identical particles. Then the spatial wave function should be symmetric when the total spin is O (singlet） while the spatial wave function should be antisymmetric when the total spin is 1 (triplet). The viscosity cross section should be defined with two variables: ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\frac { d \\sigma _ { V S } } { d \\Omega } = \\left| f ( \\theta ) + f ( \\pi - \\theta ) \\right| ^ { 2 } = \\displaystyle \\frac { 1 } { k ^ { 2 } } \\left| \\sum _ { \\ell ( \\mathrm { E V E N ~ n u m b e r } ) } ^ { \\infty } ( 2 \\ell + 1 ) ( \\exp ( 2 i \\delta _ { l } ) - 1 ) P _ { \\ell } ( \\cos \\theta ) \\right| ^ { 2 } } \\\\ { \\displaystyle \\frac { d \\sigma _ { V A } } { d \\Omega } = \\left| f ( \\theta ) - f ( \\pi - \\theta ) \\right| ^ { 2 } = \\displaystyle \\frac { 1 } { k ^ { 2 } } \\left| \\sum _ { \\ell ( \\mathrm { O D ~ n u m b e r } ) } ^ { \\infty } ( 2 \\ell + 1 ) ( \\exp ( 2 i \\delta _ { l } ) - 1 ) P _ { \\ell } ( \\cos \\theta ) \\right| ^ { 2 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Using the orthogonality relation for the Legendre polynomials,we can obtain ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\frac { \\sigma _ { V S } k ^ { 2 } } { 4 \\pi } = \\sum _ { \\ell \\in \\mathrm { E V E N ~ n u m b e r } } ^ { \\infty } 4 \\sin ^ { 2 } ( \\delta _ { \\ell + 2 } - \\delta _ { \\ell } ) ( \\ell + 1 ) ( \\ell + 2 ) / ( 2 \\ell + 3 ) , } \\\\ { \\displaystyle \\frac { \\sigma _ { V A } k ^ { 2 } } { 4 \\pi } = \\sum _ { \\ell ( \\mathrm { O D ~ n u m b e r } ) } ^ { \\infty } 4 \\sin ^ { 2 } ( \\delta _ { \\ell + 2 } - \\delta _ { \\ell } ) ( \\ell + 1 ) ( \\ell + 2 ) / ( 2 \\ell + 3 ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "From the expressions of the transfer and viscosity cross sections, we can see that both $\\sigma _ { T }$ （204号 and $\\sigma _ { V }$ will converge to a static value as the phase shift $\\delta _ { \\ell }$ approaching to a same value when the partial wave $\\ell$ grows up. We adopt the numerical method in [23] to calculate all the cross sections. The results are shown in Fig. 3 in which we have the same definitions of input variables. The left plot is the reproduced results,same as in [23]. We can see that $\\sigma _ { T }$ and $\\sigma _ { V S }$ are almost same while $\\sigma _ { V A }$ shows differences in some region ( $a b \\ll 0 . 1$ ). The $a b > 0 . 5$ and $b \\gg 1$ is the classical regime in which all the cross sections can be very large. There are also the resonance regions ( $b \\gtrsim 1$ and $a b \\lesssim 0 . 5$ ）in which all the cross sections exhibit patterns of resonance, making the cross section much complicated. Self-interacting DM scenario used in [23] and in this paper works around the resonance regions. In the region $a b \\ll 0 . 1$ ， $\\sigma _ { V A }$ is much smaller than the other two cross sections.The reason is that the summation of the phase shift in $\\sigma _ { V A }$ begins at $\\ell = 1$ as shown in Eq. (2.20),and in this region the dominant phase shift is $\\delta _ { 0 }$ and other phase shifts are much smaller.That is why we always calculate $\\delta _ { 0 }$ for partial wave expansion in QM. In our following analysis, we assume that the DM scatters with random orientations,thus the triplet is three times as likely as the singlet and the average cross section will be ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { V } = \\frac { 1 } { 4 } \\sigma _ { V S } + \\frac { 3 } { 4 } \\sigma _ { V A } ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This is simple but sufficient to estimate the viscosity cross section for Majorana DM. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3Can self-interacting dark matter scenario be realized in the NMSSM ？ ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "SUSY can not only give a solution to the hierarchy problem but also provide a good dark matter candidate and realize gauge coupling unification. Among the SUSY models, the MSSM has been intensively studied. This model, however, has the little hierarchy problem since the newly discovered l25 GeV Higgs boson requires a heavy stop or a large trilinear coupling $A _ { t }$ . Besides,the MSSM also suffers from the $\\mu$ -problem [26]. It is remarkable that both the little hierarchy problem and the $\\mu$ -problem can be solved in the NMSSM [9,10], in which an additional gauge singlet $S$ is introduced. In this model the $\\mu$ -termisdynamically generated through the coupling $S H _ { u } H _ { d }$ after $S$ develops an electroweak scale VEV, while the little hierarchy problem is solved through an additional tree-level contribution to the Higgs mass. With the additional singlet, it might be possible for the NMSSM to give DM a proper non-relativistic cross section by tuning the singlet mediator. In the following we check this possibility. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1 Dark matter and Higgs bosons in the NMSSM ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In the NMSSM the relevant superpotential containing $\\hat { S }$ is given by ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda \\hat { S } \\hat { H _ { u } } \\cdot \\hat { H _ { d } } + { \\frac { \\kappa } { 3 } } \\hat { S } ^ { 3 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where $\\hat { H } _ { u }$ and $\\hat { H _ { d } }$ are the Higgs doublet superfields, and $\\lambda$ and $\\kappa$ are dimensionless parameters.Note that there is no explicit $\\mu$ -term and an effective $\\mu$ -parameter is generated when the scalar component ( $S$ ）of $\\hat { S }$ develops a VEV $s$ ： $\\mu _ { e f f } = \\lambda s$ . The corresponding soft SUSY breaking terms are given by ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { \\lambda } \\lambda S H _ { u } \\cdot H _ { d } + \\frac { A _ { \\kappa } } { 3 } \\kappa S ^ { 3 } + h . c . .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "So the scalar Higgs potential is given by ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { V _ { F } = | \\lambda H _ { d } \\cdot H _ { u } - \\kappa S ^ { 2 } | ^ { 2 } + | \\lambda S | ^ { 2 } \\left( | H _ { d } | ^ { 2 } + | H _ { u } | ^ { 2 } \\right) , } } \\\\ { { V _ { D } = \\frac { g _ { 2 } ^ { 2 } } { 2 } \\left( | H _ { d } | ^ { 2 } | H _ { u } | ^ { 2 } - | H _ { d } \\cdot H _ { u } | ^ { 2 } \\right) + \\frac { g _ { 1 } ^ { 2 } + g _ { 2 } ^ { 2 } } { 8 } \\left( | H _ { d } | ^ { 2 } - | H _ { u } | ^ { 2 } \\right) ^ { 2 } , } } \\\\ { { V _ { \\mathrm { s o f t } } = m _ { d } ^ { 2 } | H _ { d } | ^ { 2 } + m _ { u } ^ { 2 } | H _ { u } | ^ { 2 } + m _ { s } ^ { 2 } | S | ^ { 2 } - \\left( A _ { \\lambda } \\lambda S H _ { d } \\cdot H _ { u } + \\frac { \\kappa } { 3 } A _ { \\kappa } S ^ { 3 } + h . c . \\right) , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where $g _ { 1 }$ and $g _ { 2 }$ are the coupling constant of $U _ { Y } ( 1 )$ and $S U _ { L } ( 2 )$ , respectively. Assuming ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { u } ^ { 0 } = h _ { u } + \\frac { H _ { u R } + i H _ { u I } } { \\sqrt { 2 } } , \\quad H _ { d } ^ { 0 } = h _ { d } + \\frac { H _ { d R } + i H _ { d I } } { \\sqrt { 2 } } , \\quad S = s + \\frac { S _ { R } + i S _ { I } } { \\sqrt { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "with $h _ { u }$ ， $h _ { d }$ ， $s$ being the corresponding VEVs and using the minimization conditions, one can obtain a $3 \\times 3$ CP-even Higgs matrix $\\mathcal { M } _ { h }$ ，a $3 \\times 3$ CP-odd Higgs matrix $\\mathcal { M } _ { a }$ and a $2 \\times 2$ charged Higgs matrix $\\mathcal { M } _ { c }$ . Note that there are three Goldstone bosons in $\\mathcal { M } _ { a }$ and $\\mathcal { M } _ { c }$ which imply that after diagonalization these two matrices must have O eigenvalues. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "From the superpotential in Eq. (3.1)，we can see that the interactions between the singlet and the SM sector are controlled by the parameter $\\lambda$ . If a light singlet Higgs exists, the constraints from both collider and DM detections can be satisfied only if $\\lambda$ is small enough. Then the singlet Higgs will be a dark sector. The spectrum of the NMSSM has been widely studied in the literature [10],so we only present our conventions and list two necessary terms for our analysis,concentrating on the dark singlet sector: ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "· The CP-even Higgs mass matrix $\\mathcal { M } _ { h }$ in the interaction basis $S ^ { b a r e } = ( H _ { u R } , H _ { d R } , S _ { R } )$ （204号 can be diagonalized by an orthogonal matrix $S _ { i j }$ to obtain 3 CP-even mass eigenstates (ordered in mass) $h _ { i } = S _ { i j } S _ { j } ^ { b a r e }$ withtecosoioedy $m _ { h _ { i } }$ The elements involve the singlet component are ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathcal { M } _ { h , \\mathrm { 3 3 } } = \\lambda A _ { \\lambda } \\frac { h _ { u } h _ { d } } { s } + \\kappa s ( A _ { \\kappa } + 4 \\kappa s ) , } \\\\ { \\mathcal { M } _ { h , \\mathrm { 1 3 } } = 2 \\lambda \\mu _ { \\mathrm { e f f } } h _ { u } - \\lambda h _ { d } ( A _ { \\lambda } + 2 \\kappa s ) , } \\\\ { \\mathcal { M } _ { h , \\mathrm { 2 3 } } = 2 \\lambda \\mu _ { \\mathrm { e f f } } h _ { d } - \\lambda h _ { u } ( A _ { \\lambda } + 2 \\kappa s ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "· Neutralino matrix $\\mathcal { M } _ { 0 }$ is composed of the $U ( 1 ) _ { Y }$ gaugino $\\lambda _ { 1 }$ ，the neutral $S U ( 2 )$ gaugino $\\lambda _ { 2 }$ ，the singlino $\\psi _ { s }$ and the neutral higgsinos $\\psi _ { u , d } ^ { 0 }$ ．In the basis $\\psi ^ { 0 } = $ （204号 $\\left( - i \\lambda _ { 1 } , - i \\lambda _ { 2 } , \\psi _ { u } ^ { 0 } , \\psi _ { d } ^ { 0 } , \\psi _ { s } \\right)$ one can rewrite ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { L } = - \\frac { 1 } { 2 } ( \\psi ^ { 0 } ) ^ { T } \\mathcal { M } _ { 0 } ( \\psi ^ { 0 } ) + \\mathrm { h . c . }\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { M } _ { 0 } = \\left( \\begin{array} { c c c c c } { M _ { 1 } } & { 0 } & { \\frac { g _ { 1 } h _ { u } } { \\sqrt { 2 } } } & { - \\frac { g _ { 1 } h _ { d } } { \\sqrt { 2 } } } & { 0 } \\\\ { 0 } & { M _ { 2 } } & { - \\frac { g _ { 2 } h _ { u } } { \\sqrt { 2 } } } & { \\frac { g _ { 2 } h _ { d } } { \\sqrt { 2 } } } & { 0 } \\\\ { \\frac { g _ { 1 } h _ { u } } { \\sqrt { 2 } } } & { - \\frac { g _ { 2 } h _ { u } } { \\sqrt { 2 } } } & { 0 } & { - \\mu _ { \\mathrm { e f f } } } & { - \\lambda h _ { d } } \\\\ { - \\frac { g _ { 1 } h _ { d } } { \\sqrt { 2 } } } & { \\frac { g _ { 2 } h _ { d } } { \\sqrt { 2 } } } & { - \\mu _ { \\mathrm { e f f } } } & { 0 } & { - \\lambda h _ { u } } \\\\ { 0 } & { 0 } & { - \\lambda h _ { d } } & { - \\lambda h _ { u } } & { 2 \\kappa s } \\end{array} \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "After diagolization,one obtains 5 eigenstates (ordered in mass) $\\chi _ { i } ^ { 0 } = N _ { i j } \\psi _ { j } ^ { 0 }$ ,among which the lightest one $\\chi _ { 1 } ^ { 0 }$ is usually assumed to be the lightest SUSY particle and serve as a good DM candidate. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "From the spectrum we can see that if $\\lambda$ approaches zero,one can tune the masses of the singlet-dominant scalars and neutralinos to arbitrary values by varying the parameters $\\kappa , A _ { \\kappa }$ ： ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "DM (the lightest neutralino) in the NMSSM has three-type components: gaugino, higgsino and singlino. Assuming the gaugino unification relation $M _ { \\mathrm { 2 } } / M _ { \\mathrm { 1 } } \\approx 2$ ，we have three possibilities for the DM: ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "· Bino-dominant DM.As shown in [27],under current collider and DM relic density constraints, the SI cross section can exclude a large part of parameter space, leaving only a bino-dominant DM candidate below TeV.   \nHiggsino-dominant DM. As pointed in [28], the higgsino-dominant DM candidate around 1.1 TeV can satisfy al the constraints, including the relic density and current DM direct detections.   \n· Singlet-dominant DM. In order to explain the observation of CoGeNT [29], the analysis in [30] showed that in the Peccei-Quinn limit there can exist three light singlet-like particles (0.1-1O GeV):a scalar,a pseudoscalar and a singlino-like DM candidate. For a certain parameter window, through annihilation into the light pseudoscalar the singlino DM can give the correct relic density, and through exchanging the light scalar in scattering off the nucleon a large cross section suggested by CoGeNT and DAMA/LIBRA [31] can be attained. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2 Allowed parameter space and dark matter self scattering in the NMSSM ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "We use the package NMSSMTools [32] to study all the scenarios numerically. As the package requires the mass of light Higgs to be heavier than 1 GeV, we modify the package so that the light Higgs mass can be arbitrarily low and also we include our own codes in the calculation of SI cross section. Since it is nontrivial to obtain a light singlet-dominant Higgs，we randomly scan the parameter space under the condition $m _ { h _ { 1 } } < 5 \\mathrm { G e V }$ and $m _ { h _ { 2 } } > 1 2 0 \\mathrm { G e V }$ ： In our scan we consider constraints from DM relic density and DM-nucleon scattering cross section. Since the SM Higgs ( $h _ { 2 }$ ） is much heavier than the singlet-like Higgs ( $h _ { 1 }$ )， we only need to slightly tune the parameter $A _ { \\kappa }$ to get a light Higgs with mass 10o MeV. Finally, we use a light scalar with $m _ { h _ { 1 } } = 1 0 0 \\mathrm { M e V }$ for the calculation of DM-nucleon SI cross section $\\sigma ^ { \\mathrm { S I } }$ . Note that the singlet sector will be dark with respect to the SM sector when $\\lambda$ is sufficiently small, and then the SM sector is very insensitive to the tuning in the dark sector. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The numerical results of the three possibilities are shown in Fig. 4,in which the SI cross section of DM-nucleon scattering is shown and current constraints of XENON and LUX are displayed. We can see that the DM direct detection constraints exclude most of the samples. However, there are still some surviving parameter space,especially for bino-dominant and higgsino-dominant scenarios. Future XENON1T will further cover the surviving parameter space. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Now we present some details related to our scan for different scenarios: ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "· For the singlino-dominant DM scenario,we define the parameter $\\varepsilon \\equiv \\lambda \\mu / m z$ ， $\\varepsilon ^ { \\prime } \\equiv$ $A _ { \\lambda } / \\mu \\tan \\beta - 1$ and scan the parameter space as in [30]: $\\begin{array} { r l } & { 2 \\leq \\tan \\beta \\leq 5 0 , \\ 0 . 0 5 \\leq \\lambda \\leq 0 . 2 , \\ 0 . 0 0 0 5 \\leq \\kappa \\leq 0 . 0 5 , - 0 . 1 \\leq \\varepsilon \\leq 0 . 1 , } \\\\ & { \\varepsilon \\sim \\varepsilon ^ { \\prime } , | A _ { \\kappa } | < 5 0 0 \\mathrm { G e V } , | \\mu | < 1 \\mathrm { T e V } . } \\end{array}$ (3.12) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "□ 啤 唱 品 中□ △△ 4△ △ 880 品 自 109 品 □ 品 □ 中 品品 □ 品 MA 角 □ 4 8 4△ A 111111 品品 H 品品 △ A △4 10 □ □□ 品 □ 4 △△△ A △ Δ△ △△ |II111 品品 A 食剪 □ 中 △ △ △ 10 包 □ 品 中 日 □ □ 6 △ 44 A△ 公 III1T □ 虹 品 □ 4 △△ △ (zu) v) 106 品 品 易 H D 品 △4 □ □ △ 惠 8 中 △ 111 □ 品□ 中 □ 4 △ A △ 10 5 器 □ △ △ △ △ 4A △△ T 4 日 □ □ 4 △ 4△ △△ △ △ 104 △ 哈 4 4□ △A 公 △△ △ △ △ △ △ [1111 10 3 △ 公 品 A △△△ A 4 1I1111 △ 10² 函 4 △ △ △ d-x 1 A M 4 △ 11 4 44 △ △ M △ △ A △△ △△ M IT 44 △ 4 △ E △ △ XENON1002012 -1 LUXRun032013 10 △ II11 10 -2 XENONTT,G2 expected IIII 3 10 10 10 103 M X ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The sfermion mass is set to be 6 TeV so that we can easily get a 125 GeV SM Higgs. As noted in [30], the DM annihilates to SM particles mainly through the resonance of the singlet pseudo-scalar $a _ { 1 }$ (the Feynman diagram is shown in Fig. 5). The result of the scan is shown in the left panel of Fig. 6. As a consequence of resonance, the singlet pseudo-scalar mass is almost twice of the DM mass. This result is consistent with [30] and also implies that the coupling of $a _ { 1 } f f$ should not be completely neglected and thus the parameter $\\lambda$ can not be too small. On the other hand, as shown in sec.2, the SI cross section has the inverse quartic power dependence on the mediated scalar mass (here it is the singlet Higgs $h _ { 1 }$ ). Though the coupling of $h _ { 1 } f f$ is suppressed by a small $\\lambda$ ，the cross section will be enhanced greatly when the mass of $h _ { 1 }$ is below GeV.Therefore, this scenario can hardly satisfy the direct detection limits on the SI cross section. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "For the bino-dominant DM scenario,we scan the parameter space ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 0 ^ { - 5 } \\leq | \\lambda | , | \\kappa | < 1 , 2 \\leq \\tan \\beta \\leq 5 0 , | \\mu | , | A _ { \\lambda } | < 1 \\mathrm { T e V } , | \\mathrm { M } _ { 2 } | < 5 0 0 \\mathrm { G e V } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "and set ${ \\cal A } _ { \\kappa } \\sim - 4 \\kappa \\mu / \\lambda$ to get a light singlet Higgs (see Eq. (3.8)). We also keep the gaugino unification assumption $M _ { 1 } = M _ { 2 } / 2 , \\ M _ { 3 } = 3 M _ { 2 }$ and set the soft parameters to 6 TeV. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/ffade898222aa211cefb2c932fccfccfafadd313d1b6f10797a336f176207adc.jpg",
+        "img_caption": [
+            "Figure 5. Feynman Diagram of DM annihilation to SM fermions through a pseudo-scalar $a$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/957b78e46dec04680e5fd86ac2ca6415c72d27cd36e5fcabeb44edb9f74640b9.jpg",
+        "img_caption": [
+            "Figure 6. The scatter plots of parameter space allowed by DM relic density shown in the plane of $M _ { a _ { 1 } }$ versus the DM mass. The left panel is the singlino-dominant DM scenario,where most of the samples are excluded points by direct detection limits of LUX-2013. The right panel is the bino-dominant DM scenario,where the red ones are excluded points by direct detection limits of LUX-2O13 while the green ones survived. "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Since bino does not couple to singlet Higgs directly， the coupling between binodominant DM and singlet Higgs arises from its higgsino and singlino components. Therefore, the SI cross section of bino-dominant DM can be much less than the LUX limits, as shown in Fig. 4. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The right panel of Fig. 6 shows the samples that satisfy the DM relic density in the bino-dominant DM scenario. The samples can be divided into two regions: one is in the diagonal region( $m _ { a } \\sim 2 m _ { \\chi } ,$ ） and the other is a vertical belt around $m _ { \\chi } \\sim 5 0 \\mathrm { G e V }$ ： The first region is excluded by the direct detection limits of LUX (the reason is similar to the singlino-dominant DM scenario). In the second region, the DM annihilates to SM fermions through the $Z$ -boson resonance, independent of singlet coupling $\\lambda$ . The coupling $\\lambda$ is constrained only by the SI cross section limits and can only take a very small value,namely $\\lambda { \\lesssim } 0 . 0 0 5$ . This can be seen from the left panel of Fig. 7. ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/4f6d9b0a1d92b2bb6e064a30c1b73a0434b98250aeef88e43489a165655a4ddc.jpg",
+        "img_caption": [
+            "Figure 7. Same as Fig.4, but showing the spin-independent cross section versus $\\lambda$ in the NMSSM. "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "For the higgsino-dominant DM scenario,we scan the parameter space ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { 1 0 ^ { - 5 } \\leq | \\lambda | , | \\kappa | < 1 , 2 \\leq \\tan \\beta \\leq 5 0 , | A _ { \\lambda } | < 1 \\mathrm { T e V } , } \\\\ & { | \\mu | < 1 . 5 \\mathrm { T e V } , \\mathrm { A } _ { \\kappa } \\sim - 4 \\kappa \\mu / \\lambda , | \\mathrm { M } _ { 2 } | = 1 0 \\mathrm { T e V } \\ . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "As above, the gaugino unification assumption is used and the soft parameters are set to be 6 TeV. In this scenario, the DM mass need to be around 110o GeV to satisfy the relic density,and thus no resonance through $Z$ -boson or pseudo-scalar happens in the DM annihilation. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The singlet Higgs can couple directly to the higgsino through the $\\lambda S \\psi _ { u } \\psi _ { d }$ term in the Lagrangian,so the SI cross section limits only constrain $\\lambda$ . From the right panel of Fig. 7 we can see that 入≤0.0o1 for the survived samples. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "As a brief summary, the singlino-dominant DM scenario is almost excluded because of the $\\lambda$ -value correlation between relic density and DM-nucleon SI cross section (the relic density needs a not-too-small $\\lambda$ which is too large for the DM-nucleon SI cross section). On the other hand, some parameter space still survived the SI cross section limits in the bino-dominant and higgsino-dominant DM scenarios,in which the $\\lambda$ -value correlation between relic density and DM-nucleon SI cross section is relaxed and $\\lambda$ is constrained by the DM-nucleon SI cross section limits to take a very small value. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In order to figure out if the NMSSM can realize the DM self-interaction scenario to explain the smal cosmological scale anomalies, we now calculate the DM self scattering cross section. For each allowed sample in Fig. 7,we use three velocities corresponding to the three smallcosmological scales (dwarf, Milky Way and cluster) to calculate the DM self scattering cross section. Then for each sample we have three values of DM self scattering cross section and we keep the maximal one to display it in Fig. 8. We see that due to a very small $\\lambda$ value, $\\sigma _ { V } / m _ { \\chi }$ is too small to explain the small cosmological scale anomalies (its value must be in $0 . 1 - 1 0 ~ \\mathrm { c m ^ { 2 } / g }$ to explain dwarf scale anomaly and in $0 . 1 - 1 ~ \\mathrm { c m ^ { 2 } / g }$ （20 to explain MW and cluster anomalies). For such a weak scattering, we can regard the DM as a collisionless particle. So we conclude that NMSSM can not realize the self-interacting DM scenario to solve the small cosmological scale anomalies. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/8ddc69c75dcb427bd2e1e64e737c05fdf460e868b986ecb711f4f86bda87b53e.jpg",
+        "img_caption": [
+            "Figure 8. Same as Fig.7,but showing the non-relativistic viscosity cross section between DM in the NMSSM. For each allwed sample in Fig.7, we use three velocities corresponding to the three small cosmological scales (dwarf, Milky Way and cluster) to calculate the cross section and here we plot the maximal one. "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4Can self-interacting dark matter scenario be realized in the GMSSM ？ ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The main reason for the failure of the NMSSM in solving the small cosmological scale anomalies is a too small $\\lambda$ (constrained by DM-nucleon SI cross section limits)，which determines the coupling strength of $h _ { 1 } \\chi \\chi$ in DM self-interaction (Note that when the DM is singlino-dominant, the coupling $h _ { 1 } \\chi \\chi$ can be proportional to $\\kappa$ .However，a singlinodominant DM is obtained under the condition $\\kappa \\ll \\lambda$ [30],which means a very small $\\kappa$ ） In the NMSSM the $\\lambda S H _ { u } \\cdot H _ { d }$ term in the superpotential is the origin of the $\\mu$ -term. In the GMSSM, however, the $\\mathcal { Z } _ { 3 }$ discrete symmetry is not imposed and the $\\mu$ term can exist in the superpotential, together with the $\\lambda S H _ { u } \\cdot H _ { d }$ term (several other terms of the singlet superfield can also exist in the superpotential). Then the singlet sector can be a completely dark sector in case of a nearly vanishing $\\lambda$ . Unlike the NMSSM, the dark Higgs sector (including a singlino-dominant DM) can be easily realized in the GMSSM,which does not need the condition $\\kappa \\ll \\lambda$ [30]. This means that a singlino-dominant DM can be obtained with a sizable $\\kappa$ and in this case the coupling $h _ { 1 } \\chi \\chi$ in DM self-interaction,which is proportional to $\\kappa$ ， can be large. So it should be easy to realize the self-interacting DM scenario in GMSSM. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "As shown in [13], in the GMSSM a singlino-dominant dark matter annihilates to a singlet-dominant Higgs，which can give the correct DM relic density，and also the DMnucleon SI cross section limits from the direct detections can be easily satisfed. In addition,an appropriate Sommerfeld enhancement can explain the positron excess observed by PAMELA. The non-relativistic DM scattering and Sommerfeld enhancement are similar to what discussed in [7] except that there can mediated an additional pseudo-scalar in the GMSSM. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4.1 Dark matter and Higgs bosons in the GMSSM ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The superpotential of the GMSSM is ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW = \\mu \\widehat H _ { u } \\cdot \\widehat H _ { d } + \\lambda \\widehat S \\widehat H _ { u } \\cdot \\widehat H _ { d } + \\eta \\widehat S + { \\frac { 1 } { 2 } } \\mu _ { s } \\widehat S ^ { 2 } + { \\frac { 1 } { 3 } } \\kappa \\widehat S ^ { 3 } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "which involves the parameters $\\mu , \\ \\lambda , \\ \\eta , \\ \\mu _ { s } , \\ \\kappa$ .We set $\\lambda \\sim 0$ so that the singlet sector almost decouple from the SM sector. In the following discussion,we will concentrate on the singlet sector. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The soft SUSY breaking terms take the form ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- \\mathcal { L } _ { \\mathrm { s o f t } } = m _ { s } ^ { 2 } \\vert S \\vert ^ { 2 } + \\left( C _ { \\eta } \\eta S + \\frac { 1 } { 2 } B _ { s } \\mu _ { s } S ^ { 2 } + \\frac { 1 } { 3 } \\kappa A _ { \\kappa } \\ S ^ { 3 } + \\mathrm { h . c . } \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The main difference between the NMSSM and GMSSM is reflected in their Higgs sectors which contain diferent singlet Higgs mass matrices and self-interactions. The difference mainly comes from the F-term $F _ { s }$ ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { V _ { F _ { s } } = | F _ { s } | ^ { 2 } = | \\eta + \\mu _ { s } S + \\kappa S ^ { 2 } | ^ { 2 } } \\\\ & { \\quad \\quad = | \\kappa S ^ { 2 } | ^ { 2 } + \\eta ^ { 2 } + \\mu _ { s } ^ { 2 } | S | ^ { 2 } + \\left( \\eta \\mu _ { s } S + \\kappa \\eta S ^ { 2 } + \\kappa \\mu _ { s } S ^ { 2 } S ^ { * } + \\mathrm { h . c . } \\right) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Since $\\eta ^ { 2 }$ is a constant, the $\\mu _ { s } ^ { 2 } | S | ^ { 2 } , \\eta \\mu _ { s } S , \\kappa \\eta S ^ { 2 }$ terms can be absorbed by the redefinition of the soft SUSY breaking parameters $m _ { s } ^ { 2 } | S | ^ { 2 }$ ， $C _ { \\eta } \\eta S , \\frac { 1 } { 2 } B _ { s } \\mu _ { s } S ^ { 2 }$ ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The singlet Higgs potential is ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { V = V _ { F } + V _ { \\mathrm { s o f t } } } } \\\\ { { \\displaystyle \\quad = m _ { s } ^ { 2 } | S | ^ { 2 } + \\left( C _ { \\eta } \\eta S + \\frac 1 2 B _ { s } \\mu _ { s } S ^ { 2 } + \\frac 1 3 \\kappa A _ { \\kappa } \\ S ^ { 3 } + \\kappa \\mu _ { s } S ^ { 2 } S ^ { * } + \\mathrm { h . c . } \\right) . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The singlet chiral supermultiplet contains a complex scalar and a Majorana fermion $\\chi$ After the scalar component getting a VEV，we can get one CP-even Higgs $h$ and one CP-odd Higgs $a$ . The mass spectrum and the relevant Feynman rules are ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { m _ { \\chi } = 2 \\kappa s + \\mu _ { S } , } \\\\ & { m _ { h } ^ { 2 } = \\kappa s ( 4 \\kappa s + A _ { \\kappa } + 3 \\mu _ { S } ) - C _ { \\eta } \\eta / v , } \\\\ & { m _ { a } ^ { 2 } = - 2 B _ { s } \\mu _ { s } - \\kappa s ( 3 A _ { \\kappa } + \\mu _ { S } ) - C _ { \\eta } \\eta / s , } \\\\ & { V _ { h h h } = - 4 i k ( 6 \\kappa s + A _ { \\kappa } + 3 \\mu _ { S } ) = - 4 i \\kappa ( 3 m _ { \\chi } + A _ { \\kappa } ) , } \\\\ & { V _ { h a a } = - 4 i \\kappa ( 2 \\kappa s - A _ { \\kappa } + \\mu _ { S } ) = - 4 i \\kappa ( m _ { \\chi } - A _ { \\kappa } ) , } \\\\ & { V _ { h \\chi \\chi } = - 4 i \\kappa , } \\\\ & { V _ { a \\chi \\chi } = - 4 \\kappa \\gamma ^ { 5 } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "We do not give the Feynman rules for the four-scalar vertex for they are irrelevant to our analysis. From the spectrum and Feynman rules above, we can see that the mass parameters of the three particles $( h , a , \\chi )$ can be set freely because the relevant input soft parameters can take arbitrary values. This makes the following calculation much easier and we can choose the input parameters easily without fine-tuning. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Then we have only five input parameters in our calculation, namely $m _ { \\chi }$ ， $m _ { h }$ ， $m _ { a }$ ， $\\kappa$ ， $A _ { \\kappa }$ It is useful to note that the three CP-even Higgs vertex $V _ { h h h }$ can vanish if we set $A _ { \\kappa } =$ -3mx ",
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/b323e940daf9cda0c1f8f025c3547f2ba6398a6ceb6828491a4b45fe8367e158.jpg",
+        "img_caption": [
+            "Figure 9.Feynman diagram of singlino DMannihilation to scalars in the GMSSM.The final state of $\\phi \\ \\phi$ can be $h h$ ， $h a$ and $a a$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The calculation of non-relativistic DM scattering cross section is already given in Sec. 2 with the coupling strength of DM to mediator ( $\\alpha _ { \\chi } = 4 \\kappa ^ { 2 } / \\pi$ ). Here we just give some details relevant to the calculation of DM relic density. The Feynman diagrams of the DM annihilation are shown in Fig. 9. The general form of the annihilation cross section is given by [33] ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma v = \\frac { 1 } { 4 } \\frac { \\bar { \\beta } _ { f } } { 8 \\pi s S } \\left[ | A ( ^ { 1 } S _ { 0 } ) | ^ { 2 } + \\frac { 1 } { 3 } \\left( | A ( ^ { 3 } P _ { 0 } ) | ^ { 2 } + | A ( ^ { 3 } P _ { 1 } ) | ^ { 2 } \\right) + | A ( ^ { 3 } P _ { 2 } ) | ^ { 2 } \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "where $S$ is the symmetry factor, $A ( ^ { 1 } S _ { 0 } ) , \\ A ( ^ { 3 } P _ { 0 } ) , \\ A ( ^ { 3 } P _ { 1 } ) , \\ A ( ^ { 3 } P _ { 2 } )$ are the contributions from different spin states of DM and $\\beta _ { f }$ is given by ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\bar { \\beta } _ { f } = \\sqrt { 1 - 2 ( m _ { X } ^ { 2 } + m _ { Y } ^ { 2 } ) / s + ( m _ { X } ^ { 2 } + m _ { Y } ^ { 2 } ) ^ { 2 } / s ^ { 2 } } ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "with $X , Y$ being the final states. The amplitudes from different final states are given by ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "1. $\\chi \\chi  h ~ h$ ：",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { \\cal A } ( ^ { 3 } P _ { 0 } ) = 1 6 \\sqrt { 6 } v \\kappa ^ { 2 } \\displaystyle \\left[ \\frac { R ( 3 m _ { \\chi } + A _ { \\kappa } ) } { 4 - R ( m _ { h } ) ^ { 2 } + i G _ { h } } - 2 \\frac { 1 + R ( m _ { \\chi } ) } { P _ { \\chi } } + \\frac { 4 } { 3 } \\frac { \\bar { \\beta } _ { f } ^ { 2 } } { P _ { \\chi } ^ { 2 } } \\right] , } } \\\\ { { { \\cal A } ( ^ { 3 } P _ { 2 } ) = - ( 1 2 8 / \\sqrt { 3 } ) v \\kappa ^ { 2 } \\bar { \\beta } _ { f } ^ { 2 } / P _ { \\chi } ^ { 2 } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "2. $\\chi \\chi  a \\ a$ ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { \\displaystyle { \\cal A } ( ^ { 3 } P _ { 0 } ) = 1 6 \\sqrt { 6 } v \\kappa ^ { 2 } \\left[ \\frac { R ( m _ { \\chi } - A _ { \\kappa } ) } { 4 - R ( m _ { h } ) ^ { 2 } + i G _ { h } } - 2 \\frac { 1 - R ( m _ { \\chi } ) } { P _ { \\chi } } + \\frac { 4 } { 3 } \\frac { \\bar { \\beta } _ { f } ^ { 2 } } { P _ { \\chi } ^ { 2 } } \\right] , } } } \\\\ { { { \\displaystyle { \\cal A } ( ^ { 3 } P _ { 2 } ) = - ( 1 2 8 / \\sqrt { 3 } ) v \\kappa ^ { 2 } \\bar { \\beta } _ { f } ^ { 2 } / P _ { \\chi } ^ { 2 } . } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "3. $\\chi \\chi  h \\ a :$ ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { \\cal A } ( ^ { 3 } S _ { 0 } ) = - 3 2 \\sqrt 2 \\kappa ^ { 2 } { \\frac { R ( m _ { \\chi } - A _ { \\kappa } ) } { 4 - R ( m _ { a } ) ^ { 2 } } } \\left( 1 + { \\frac { v ^ { 2 } } { 8 } } \\right) } } \\\\ { { \\displaystyle ~ + 6 4 \\sqrt 2 \\kappa ^ { 2 } { \\frac { R ( m _ { \\chi } ) } { P _ { \\chi } } } \\left[ 1 + v ^ { 2 } \\left( { \\frac { 1 } { 8 } } - { \\frac { 1 } { 2 P _ { \\chi } } } + { \\frac { \\bar { \\beta } _ { f } ^ { 2 } } { 3 P _ { \\chi } ^ { 2 } } } \\right) \\right] } } \\\\ { { \\displaystyle ~ + 1 6 \\sqrt 2 \\kappa ^ { 2 } \\left( R ( m _ { a } ) ^ { 2 } - R ( m _ { h } ) ^ { 2 } \\right) \\left[ 1 + v ^ { 2 } \\left( - { \\frac { 1 } { 8 } } - { \\frac { 1 } { 2 P _ { \\chi } } } + { \\frac { \\bar { \\beta } _ { f } ^ { 2 } } { 3 P _ { \\chi } ^ { 2 } } } \\right) \\right] , } } \\\\ { { { \\cal A } ( ^ { 3 } P _ { 1 } ) = 6 4 v \\kappa ^ { 2 } \\bar { \\beta } _ { f } ^ { 2 } / P _ { \\chi } ^ { 2 } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "In the above formulas ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR ( m _ { X } ) = \\frac { m _ { X } } { m _ { \\chi } } , \\ P _ { \\chi } = 1 + R ( m _ { \\chi } ) ^ { 2 } - \\frac { 1 } { 2 } ( R ( m _ { X } ) ^ { 2 } + R ( m _ { Y } ) ^ { 2 } ) , \\ G _ { h } = \\frac { \\Gamma _ { h } m _ { h } } { m _ { \\chi } ^ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Given the annihilation amplitudes, the relic density $\\Omega h ^ { 2 }$ can be calculated in the standard way. From the expression of the DM relic density [23] ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma v = { \\frac { 3 } { 8 } } { \\frac { \\pi \\alpha _ { \\chi } ^ { 2 } } { m _ { \\chi } ^ { 2 } } } v ^ { 2 } \\sqrt { 1 - { \\frac { m _ { h } ^ { 2 } } { m _ { \\chi } ^ { 2 } } } } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "we can see that the ratio $\\alpha _ { \\chi } / m _ { \\chi }$ is almost a constant when $m _ { h } \\ll m _ { \\chi }$ in order to give the correct DM relic density. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "4.2 Allowed parameter space and dark matter self scattering in the GMSSM ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "We first change our Feynman rules to those in [23] and check if we can reproduce the results in [23]. Our results are shown in Fig. 10, which agree with [23]. Fig. 10 shows the transfer cross section $\\sigma _ { T }$ allowed by solving the small cosmological scale anomalies (dwarf, Milky Way and cluster）with their corresponding characteristic velocities. Here all the samples satisfy the DM relic density given by PLANCK [34]. We can see that $\\sigma _ { T } / m _ { \\chi }$ can satisfy simultaneously the requirements of dwarf, Milky Way and galaxy cluster scales to solve the small scale anomalies. On the other hand,as can be seen from the figure, the requirement to solve such small scale structure anomalies can also give strong constraints on the parameter space of self-interacting DM scenario. This means that subtle relations should be satisfied between mh,mx and ax: ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Then we perform a numerical calculation in the GMSSM. Since in the GMSSM the singlino DM is of Majorana type,we need to use viscosity cross section $\\sigma _ { V }$ . In Fig. $1 1$ we show the GMSSM parameter space allowed by DM relic density plus all three small scale structures. The corresponding parameter space for the DM self-interaction model [23] is also displayed for comparison. We can see that compared with the DM self-interaction model [23], the GMSSM has a larger parameter space to solve the anomalies of all three small scales (the mass of DM can be heavier than 1O GeV and the coupling strength $\\alpha _ { \\chi }$ can be at order $1 0 ^ { - 3 }$ ). The reason is that in the DM self-interaction model [23] DM can only annihilate into $h h$ via $t$ -channel and $u$ -channel while in the GMSSM DM can annihilate into hh,ha and $a a$ via $t$ -channel, $u$ -channel and $s$ -channel,as shown in Fig.9. ",
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9feb00974bfd30580bc8fb6cb31b26bda13e52ef4e97460b42d8a50d1cb0e0b.jpg",
+        "img_caption": [
+            "Figure 10. Scatter plots of the parameter space in the DM self-interaction model [23] allowed by DM relic density plus dwarf scale structures (blue region), Milky Way size structures (red region) Or cluster size structures (green region). We obtained these results by changing our Feynman rules to those in [23]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb05871653f79dd2ee7e54e47e6519017ef50d7b129481ecccd734a325b71499.jpg",
+        "img_caption": [
+            "Figure11. The scatter plots of the parameter space allowed by DM relic density and all three small scale structures (dwarf, Milky Way, cluster). The red ones are for the DM self-interaction model [23] while the green ones are for the GMSSM. "
+        ],
+        "img_footnote": [],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/cc3c9c00b73ddb36d56ad5444b9b0c080a58f1113f99d4abe947c41be104997d.jpg",
+        "img_caption": [
+            "Figure 12. Same as Fig.10, but showing the Sommerfeld enhancement factor. The left frame is for the DM self-interaction model [23] while the right frame is for the GMSSM. "
+        ],
+        "img_footnote": [],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Finally, in Fig. 12 we show the Sommerfeld enhancement in the allowed parameter space. We see that compared with the DM self-interaction model [23], the GMSSM allows for a larger $m _ { \\chi } / m _ { h }$ and thus can give a larger Sommerfeld enhancement factor. The ongoing indirect detections of DM can probe the DM annihilation rate (shed light on the Sommerfeld enhancement factor） and thus help to distinguish different DM self-interaction models. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "In this paper we studed the possibility of the DM self-interaction to solve the small cosmological scale anomalies in the singlet extensions of the MSSM.We first checked the NMSSM and found that the correlation between the DM annihilation rate and DM-nucleon SI cross section strongly constrains this model so that it cannot realize the DM self-interacting scenario. For the GMSSM, the parameter space was found to be large enough to realize the DM self-interacting scenario and at the same time can give a large Sommerfeld enhancement factor. Also,we found that for Majorana-fermion DM, we must use viscosity cross sections ( $\\sigma _ { V S }$ and $\\sigma _ { V A }$ ) in DM simulations. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the Natural Science Foundation of China under grant numbers 11105124,11105125,11275245,10821504,11135003,11005006,11172008,11375001 and RiXin Foundation of BJUT. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "[2] A. A. Klypin, A. V. Kravtsov, O. Valenzuela and F. Prada, Astrophys. J. 522,82 (1999). A. V. Kravtsov, Adv. Astron. 2010, 281913 (2010). J. Zavala, et al., Astrophys. J. 700,1779 (2009).   \n[3] R. K. de Naray and K. Spekkens, Astrophys. J. 741, L29 (2011). M. G. Walker and J. Penarrubia, Astrophys. J. 742, 20 (2011).   \n[4] M. Boylan-Kolchin, J. S. Bullock and M. Kaplinghat, Mon. Not.Roy. Astron. Soc. 415, L40 (2011). Mon. Not. Roy. Astron. Soc. 422,1203 (2012).   \n[5] W. B. Lin, D. H. Huang, X. Zhang and R. H. Brandenberger,Phys. Rev. Lett. 86, 954 (2001) [astro-ph/0009003].   \n[6] J. S. Bullock,arXiv:1009.4505 [astro-ph.CO].   \n[7] S. Tulin, H. -B. Yu and K.M. Zurek, Phys. Rev. Lett.110,11130l (2013).   \n[8] P.Ko and Y. Tang,arXiv:1402.6449 [hep-ph]. arXiv:1404.0236 [hep-ph].   \n[9]P. Fayet,Nucl. Phys.B 90,104 (1975). Phys.Lett.B 69,489 (1977).   \n[10] For pheno studies of NMSSM,see, e.g., J. R. Elis, et al., Phys. Rev. D 39,844 (1989); M. Drees, Int. J. Mod. Phys.A 4, 3635 (1989); P.N. Pandita, Phys. Lett. B 318,338 (1993);Phys. Rev. D 50,571 (1994); S. F. King, P. L. White, Phys. Rev. D 52,4183 (1995); B. Ananthanarayan,P.N. Pandita,Phys.Lett. B 353,70 (1995); Phys. Lett. B 371, 245 (1996); Int. J.Mod.Phys.A12,2321 (1997); B.A. Dobrescu, K.T. Matchev, JHEP 0009,031 (2000); V. Barger, P. Langacker, H.-S. Lee, G. Shaughnessy, Phys.Rev. D 73,(2006) 115010; R. Dermisek, J. F.Gunion,Phys.Rev. Lett. 95, 041801 (2005); G. Hiller, Phys. Rev. D 70, 034018 (2004); F. Domingo,U. Ellwanger, JHEP 0712, 090 (2007); Z. Heng, et al., Phys. Rev. D 77,095012 (2008); R. N. Hodgkinson, A. Pilaftsis, Phys. Rev. D 76, 015007 (2007); Phys. Rev. D 78, 075004 (2008); W. Wang, Z. Xiong, J. M. Yang, Phys. Lett. B 680,167 (2009); J. Cao, J. M. Yang, Phys.Rev. D 78,115001 (2008); JHEP 0812, 006 (2008); U. Ellwanger, C.Hugonie and A. M. Teixeira, Phys. Rept. 496,1 (2010); M. Maniatis, Int. J. Mod. Phys. A25 (2010) 3505; U. Ellwanger, Eur.Phys. J. C 71,1782 (2011); J. Cao, et al., JHEP 1311, 018 (2013); JHEP 1304,134 (2013); JHEP 1309,043 (2013); JHEP 1206,145 (2012); JHEP 1210,079 (2012); JHEP 1203,086 (2012); Phys.Lett.B 703,462 (2011); JHEP 1011,110 (2010); C. Han, et al., JHEP 1404,003 (2014); Z. Kang,et al.,arXiv:1102.5644 [hep-ph]; JCAP 1101, 028 (2011); J. Kozaczuk and S. Profumo,arXiv:1308.5705 [hep-ph].   \n[11] J. Cao,et al., arXiv:1311.0678 [hep-ph]; Phys.Lett. B 703, 292 (2011); JHEP 1007, 044 (2010).   \n[12] A. Kaminska,G. G. Ross, K. Schmidt-Hoberg and F. Staub, arXiv:1401.1816 [hep-ph]. H. M. Lee, S. Raby, M. Ratz, G.G. Ross,R. Schieren,K. Schmidt-Hoberg and P. K. S. Vaudrevange, Nucl. Phys. B 850,1 (2011) [arXiv:1102.3595 [hep-ph]. G. G. Ross and K. Schmidt-Hoberg,Nucl. Phys.B 862,710 (2012) [arXiv:1108.1284 [hep-ph]]. A. Kaminska, G. G.Ross and K. Schmidt-Hoberg, JHEP 1311, 209 (2013) [arXiv:1308.4168 [hep-ph]]. G.G. Ross,K. Schmidt-Hoberg and F. Staub,JHEP 1208,074 (2012) [arXiv:1205.1509 [hep-phl].K. Schmidt-Hoberg,F. Staub and M.W.Winkler, JHEP 1301,124 (2013) [arXiv:1211.2835 [hep-ph]].K. Schmidt-Hoberg and F. Staub, JHEP 1210,195 (2012) [arXiv:1208.1683 [hep-ph]]. [13] W. Wang, Z. Xiong,J. M. Yang and L. -X. Yu, JHEP 0911, 053 (2009).   \n[14] D. Hooper and T. M. P. Tait,arXiv:0906.0362 [hep-ph].   \n[15] Z. Ahmed et al. [CDMS-II Collaboration], Science 327,1619 (2010).   \n[16] E.Aprile et al. [XENON100 Collaboration], Phys.Rev. Lett. 107,131302 (2011).   \n[17] D. S. Akerib et al. [LUX Collaboration], arXiv:1310.8214 [astro-ph.CO].   \n[18] G. Jungman, M. Kamionkowski and K. Griest, Phys. Rept. 267,195 (1996).   \n[19] O.Adriani,et al., Phys.Rev.Lett.102,051101 (2009).   \n[20] M. Aguilar et al. [AMS Collaboration], Phys. Rev. Lett.110,141102 (2013).   \n[21] I. Cholis and D. Hooper, Phys. Rev. D 88,023013 (2013) [arXiv:1304.1840 [astro-ph.HE]];   \nT.Linden and S. Profumo,Astrophys. J. 772,18 (2013) [arXiv:1304.1791 [astro-ph.HE]].   \n[22] N.Arkani-Hamed, D.P. Finkbeiner, T.R. Slatyer and N. Weiner, Phys. Rev. D 79,015014 (2009).   \n[23] S. Tulin, H. -B. Yu and K. M. Zurek, Phys. Rev. D 87,115007 (2013).   \n[24] R. Laha and E. Braaten, arXiv:1311.6386 [hep-ph].   \n[25] P. S. Krstic and D. R. Schultz, Phys.Rev. A 60,3 (1999).   \n[26] J. E. Kim and H. P. Nilles,Phys. Lett. B 138,150 (1984).   \n[27] J. Cao,et al., Phys. Rev. D 82, 051701 (2010).   \n[28] F. Wang,W. Wang and J. M. Yang,arXiv:1310.1750 [hep-ph].   \n[29] C.E.Aalseth et al. [CoGeNT Collaboration], Phys.Rev.Lett.106,131301 (2011).   \n[30] P.Draper,et al., Phys.Rev.Lett.106(2011) 121805.   \n[31] R. Bernabei et al. [DAMA and LIBRA Collaborations], Eur. Phys. J. C 67,39 (2010) [arXiv:1002.1028 [astro-ph.GA]].   \n[32]U.Ellwanger,J.F.Gunion and C.Hugonie, JHEP 0502,O66 (2005).   \n[33] M. Drees and M. M. Nojiri, Phys. Rev. D 47,376 (1993).   \n[34] http://www.sciops.esa.int/SA/PLANCK/docs/Planck 2013 results. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    }
+]

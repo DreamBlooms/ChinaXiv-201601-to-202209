@@ -1,0 +1,753 @@
+[
+    {
+        "type": "text",
+        "text": "城市物流中心节点多目标识别模型及仿真",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "袁光辉la,1b，韩景倜la,1b，梁贺君 1b,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.上海财经大学a.信息管理与工程学院;b.实验中心，上海 200433;2.英国雷丁大学 计算机科学系，雷丁 RG66AH，英国)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：城市最后一公里物流已经成为了城市物流系统的重要组成部分，最后一公里物流节点的选取是其中的重要环节，不仅能够提高配送效率、降低运营成本，还能提升企业形象和缓解城市拥堵压力等。从多种参与者角度出发，基于聚类分析优先选取物流配送覆盖度、均衡度、城市拥堵情况等多个指标及目标构建了的城市物流一级节点识别模型，并使用贪婪算法对一级节点周边的二级节点进行识别，形成最后一公里物流节点网络。使用南京仙林区物流需求情况及周边交通情况进行实证仿真，给出相应的一级节点及二级节点，实证结果表明，南京仙林区总面积 $3 0 8 . 2 9 \\mathrm { k m } 2 \\$ ，优化后的整个物流网络服务范围高达 $2 8 9 . 5 0 \\mathrm { k m } 2 \\$ ，覆盖率高达 $9 3 . 9 1 \\%$ ，满足整体物流网络的货运需求，最高转运率高达0.949。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：最后一公里；物流节点；聚类分析；贪婪算法 中图分类号：F224 doi: 10.3969/j.issn.1001-3695.2018.01.0018 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Multi object recognition model and Simulation of urban logistics center node ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yuan Guanghuila, 1b, Han Jingtila, Ibt, Liang Hejun1b, 2 (1.a.Schoolof Information Management&Engineering,b.LaboratoryShanghai UniversityofFinance&Economics, Shanghai 20o090,China;2.Dept.ofComputer Science,UniversityofReading,Reading RG66AH,United Kingdom) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Thecitylastmilelogistics hasbecomeanimportantpartofthecitylogisticssystem,selectthelastmilelogistics node is an important link whichcan notonlyimprove the distribution eficiencyandreduce operating costs,but also enhance the corporateimageandalleviatethecitycongestion pressre etc.Basedonthevarietyofparticipants,this paper establishedurban logistics nodeidentificationmodelfomtheperspectiveoflogistics distributioncoverage,equalizationdegree,urbancongestion situationand Multipleindicators.Andthe greedyalgorithmisused to identifythesecondary nodes inthe peripheralnodesand formanetworkofnodes.Basedonthelogistics demandsituationand thesurounding traficsituationofNanjing Xianlindistrict, thepaperpresets thecorrspondingfirst-levelnodeandsecondarynode.theempricalresultsshowthatthe totalareaofNajing Xianlin area $3 0 8 . 2 9 \\mathrm { k m } 2 \\$ ,after the optimization of the logistics network service range up to $2 8 9 . 5 0 \\mathrm { k m } 2 \\$ ,the coverage rate as high as $9 3 . 9 1 \\%$ , the maximum transfer rate of up to 0.949. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:Last kilometer; logistics node; clustering analysis; greedy algorithm ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "现代商业的转型对城市物流业的发展提出了新的要求，城市物流节点的选取对企业的服务能力、形象及企业的收益具有深远影响。物流中心从传统的城市货运集散地，已经演变出了城区货运集散地，其成为了最后一公里的重要支撑，同时这样的中心也支撑了企业的服务能力及社会形象。最后一公里的社区物流中心也需要比其高一级的物流中心对其的货运进行调度支持，这类中心往往支撑着多个社区中心的货运调度及大中心之间的货运调度工作，两类中心节点的相互配合将有利于企业城市物流服务能力的提升，因此物流中心的合理选址变得十分重要。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "传统的物流研究中均假设物流的运输费用与运输距离具有很强的相关性，在这类假设的前提下物流优化对运输成本关注较多，Holmberg[1]从运输费用与运输距离之间的非线性关系出发，使用分支定界发对物流中心选址问题进行了求解。在文章中其认为货物的运输费用与流量之间的关系呈现为凸函数，即也就是说随着货运量的增加，单位物流费用将会提高。Zhang 等人[2]在考虑运输途中对路线变更的随机性，给出一系列的随机平衡条件，使用基于连续平均法(MSA）的路径选择算法对问题进行了研究。O'Kelly[3]在其的文章中对枢纽的建设成本予以考虑，使用建设成本最小化及后期运输成本最小化构建了物流中心选址。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "然而现代城市物流社区节点，对运输成本考虑的相对较少，因此传统物流中心的构建方法在城市社区物流中心构建中已不能完全适用，此时需要考虑社区物流的服务效率，容量等因素。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关于物流中心容量、经济效率方面也有一定的研究，如Campbell4提出了枢纽中心容量有限的观点，适用物流中心的输入流量与输出流量作为中心点优化的参数。Sasaki和Fukushima[5]不仅考虑了物流中心的流量同时对路段的流量问题也予以考虑。Contreras 等人[针对成本、需求、成本需求三者不确定的情况下一般物流枢纽选址问题。叶一芃等[7]以物流系统总费用最小为目标对物流中心进行选址，客户在供应商、运输需求以及交通分布选择供应商，构建双层物流中心规划模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "唐金环等人[8'9]从物流碳排放研究企业物流中心选址，分别从设施选址、车辆选择、路径设计等方面以较小的代价使企业碳排放量降低。刘必争等[10]给出考虑B2C车辆配送业务中车辆回访的特征，建立了带有软时间窗的选址路径规划模型，并结合遗传算法及模拟退火算法进行求解。周翔等[I在研究B2C 模式下的城市物流配送问题时，以客户满意度最大运输成本最低两个目标，对物流节点配送量、配送中心以及末端节点选址问题进行了研究。赵泉午等[12]大型零售商O2O 转型物流需求出发，构建物流中转中心选址、末端物流需求构建了联合优化模型，设计了遗传算法和禁忌搜索算法的联合算法对模型进行求解。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前的研究主要集中在大型物流中心的构建，以有的O2O物流的研究也主要集中在大型企业的销售，这些研究也很好的解决了大型物流中心及大型企业O2O中心的选址。最后一公里往往是服务与城市物流服务的末端，其中心的构建与大型物流中心和大型企业物流中心的构建具有较强的差异性。首先表现在构建成本相对较低，易于物流中心的更换，也就是说这类物流中心需要以需求为导向，同时考虑到其所在外置交通情况等。因此研究该类问题需要从企业物流需求出发，以优化为目标，不断寻找物流中心节点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在构建自身的物流节点时，需要尽可能考虑交通的顺畅性，因此需要考虑影响城市交通的具体因素，进而确立运转率低、交通拥挤变化率低、节点3公里覆盖率高、物流园区与最近的城市一级节点的距离短和货物运输效率高五个选择目标。同时，从整体物流系统角度出发，考虑整体系统运行的均衡性及合理性，确立一级节点分散度和二级节点聚拢度选择目标。并结合题目要求的约束条件。进而建立多目标节点选择模型；然后，运用聚类分析针对整个区域简单聚类成各大小相似的小区域，并在各个小区域内确定一个聚类中心，即为初步确定的各小区域的一级节点；最后，运用K-均值动态调整聚类中心，计算各小区域内其他节点与初步确定的一级节点的距离，即相似度。通过反复迭代来优化聚类结果，使所有类别到各自所属类别中心的距离平方和达到最小。如此，便确定最终的一级节点，同时也确定了各个一级节点3公里范围的管辖区域。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1建立多目标节点选择模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了便于模型的建立与理解，设立模型的各参数如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设节点总个数为 $N$ ，则节点坐标为 $( X _ { i } , Y _ { i } ) , i = 1 , 2 . . . . . . , \\mathrm { N }$ 设一级节点 $F _ { _ i }$ 的坐标为： $( X _ { F _ { i } } , Y _ { F _ { i } } )$ ，二级节点 $S _ { i }$ 的坐标为$( X _ { s _ { i } } , Y _ { s _ { i } } )$ ，物流园区 $W _ { i }$ 的坐标为 $( X _ { { \\scriptscriptstyle W _ { i } } } , \\ Y _ { { \\scriptscriptstyle W _ { i } } } ) ^ { \\mathrm { ~ ~ } }$ ）；设物流园区为$W _ { k }$ ， $k = 1 , 2 , 3 , 4$ ；设物流园区 $W _ { k }$ 对应的一级节点为 $F _ { { { \\scriptscriptstyle W _ { k } } } }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设一级节点个数为 $N F$ ，设属于一级节点 $F _ { i }$ 的二级节点集合为： ${ S F _ { i } = \\big \\{ S _ { i 1 } , S _ { i 2 } , S _ { i 3 } . . . . . . \\ S _ { i N F _ { i } } \\big \\} }$ ，其中 $N F _ { i }$ 为一级节点包含的二级节点个数，设二级节点的总个数为 $N E$ ， $N E = \\sum _ { i = 1 } ^ { N F } N F _ { i }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设 $A _ { i j }$ 为节点 $i$ 与 $j$ 的货运出入总量；设 $I _ { i j }$ 为节点 $i$ 对应的区域到节点 $j$ 对应区域的货物流入量；设 $A H _ { i }$ 为节点 $i$ 在地下物流系统构建之前实际的货物地面出入总量， $Y H _ { i }$ 为节点 $i$ 在地下物流系统构建之后实际的货物地面出入总量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设集合 $G T _ { i }$ 为节点 $i$ 在3公里所覆盖的节点集合：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1多目标节点选择模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "发展城市地下物流网络的首要直接目标是缓解交通拥堵直至交通畅通，至少基本畅通。从首要目标的角度出发，分析可能影响城市交通的具体因素，进而确立运转率低、交通拥挤变化率低、节点3公里覆盖率高、物流园区与最近一级节点的距离短和货物运输效率高五个选择目标；同时，从整体物流系统角度出发，考虑整体系统运行的均衡性及合理性，确立一级节点分散度和二级节点聚拢度选择目标。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目标1转运率最小化",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设物流园区 $W _ { k }$ 到其对应的一级节点 $F _ { _ { W _ { k } } }$ 的运输总量为 $I T _ { k }$ ：一级节点 $F _ { _ { W _ { k } } }$ 运输至其他一级节点的运输总量为 $O T _ { k }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "则一级节点 $F _ { { { _ { W _ { k } } } } }$ 的转运率即为货物的输出总量与输入总量的比值：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } _ { \\mathbf { \\epsilon } } \\ R T _ { k } = \\frac { O T _ { k } } { I T _ { k } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目标2节点3公里覆盖率最大化",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$G T _ { i }$ 为节点 $i$ 在3公里所覆盖的节点集合， $\\# \\left\\{ \\bigcup _ { i = 1 } ^ { N } G T _ { i } \\right\\}$ 表示节点",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$i$ 在3公里所覆盖的节点个数，节点 $i$ 在3公里覆盖率即为覆盖的节点个数与总节点个数的比值：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "max RFG： 𝑖=1 $\\# \\{ \\}$ 表示集合个数N",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目标3交通拥挤度变化率最小化",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设 $f$ 表示物流量与交通拥挤度的函数关系，$f ( \\mathrm { A H } _ { i } ) { - } f ( \\mathrm { Y H } _ { i } )$ 即为地下物流系统建造前后地面交通拥挤度的变化量，则交通拥挤度变化率即为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR J _ { i } = { \\frac { f ( \\mathrm { A H } _ { i } ) - f ( \\mathrm { Y H } _ { i } ) } { f ( \\mathrm { A H } _ { i } ) } } { \\times } 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } { \\cal R } J = \\frac { \\displaystyle \\sum _ { i = 1 } ^ { N } R J _ { i } } { \\displaystyle N }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目标4物流园区与最近一级节点的距离最小化",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设 $W S _ { i } = \\big \\{ W _ { i 1 } , W _ { i 2 } , . . . . . . W _ { i W N _ { i } } \\big \\}$ 为物流园区 $W S _ { i }$ 对应的一级节点编号，其数目为 $W N _ { i }$ ，则物流园区与最近一级节点的距离即为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } { W F D } = \\frac { \\displaystyle \\sum _ { i = 1 } ^ { 4 } \\sum _ { j \\in W S _ { i } } \\sqrt { ( X _ { { { { W } _ { i } } } } - X _ { j } ) ^ { 2 } + ( { { \\mathbf { Y } } _ { { { W } _ { i } } } } - { { \\mathbf { Y } } _ { j } } ) ^ { 2 } } }  { \\displaystyle \\sum _ { i = 1 } ^ { 4 } W N _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目标5货物运输效率最大化",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "考虑地下物流系统运行的稳定性，货物运输的效率起着至关重要的作用，因此货物运输效率应尽可能最大化，用货物运输量与货物运输总时间(包括节点处的等待时间及运输路途中花费的时间)的比值来衡量：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m a x } \\ T R _ { i j } = \\frac { N J \\times M } { N N F _ { i j } \\times 1 2 + \\frac { D _ { i j } } { V } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $T R _ { i j }$ 为节点 $i$ 到节点 $j$ 单位时间内运送货物的最大量;$N N F _ { i j }$ 为节点 $i$ 到节点 $j$ 运输货物经过一级节点个数； $V$ 为班车运输的时速； $N J$ 为一班车最大车辆数； $D _ { _ { i j } }$ 为节点 $i$ 到节点 $j$ 的总路程； $M$ 为每班车运输的货物量，5吨或10 吨。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目标6一级节点分散度最大化",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设 $\\sqrt { \\boldsymbol X _ { F } }$ ， $\\overline { { Y _ { { } _ { F } } } }$ )为所有一级节点的中心点，则以各一级节点与一级节点中心点的距离的标准差衡量一级节点的分散度如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m a x } C F = \\sqrt { \\sum _ { k = 1 } ^ { N F } ( { { { \\mathbf { X } } _ { F _ { k } } } - \\overline { { { X _ { F } } } } } ) ^ { 2 } + ( { { \\mathbf { Y } } _ { F _ { k } } } - \\overline { { { Y _ { F } } } } ) ^ { 2 } } \n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目标7二级节点聚拢度最大化",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "考虑各区域一级节点下所覆盖的二级节点相互间的运输效率，利用二级节点的聚拢度来衡量，即为各个一级节点与其所覆盖的二级节点距离的标准差为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { m a x } \\ C C E = \\sum _ { k = 1 } ^ { N F } \\sum _ { S _ { i } \\in S F _ { i } } { \\sqrt { ( X _ { F _ { k } } - X _ { S _ { i } } ) ^ { 2 } + ( \\mathbf { Y } _ { F _ { k } } - \\mathbf { Y } _ { S _ { i } } ) ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2约束条件",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "约束条件1各个节点地下货物运输量大于实际货运需求的一定比例 $\\theta$ ，同时每个节点从地面进出货物的总量受到对应的限制。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { i = 1 } ^ { N F _ { i } } { I O _ { i } } \\ge \\left( \\sum _ { j = 1 } ^ { N E } { \\sum _ { i = 1 } ^ { N F } { A _ { i j } } } \\right) \\times \\theta\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI O _ { i } \\le I O _ { \\mathrm { m a x } } \\{ \\stackrel { \\ge \\lfloor i \\rangle } { \\equiv } i \\stackrel {  \\downarrow \\downarrow } { \\Im } - \\stackrel {  } { \\le } \\mathcal { U } \\stackrel {  + \\uparrow } { \\mid \\mathrm { J } \\downarrow \\rangle } , \\stackrel { \\mathrm { H  } } { \\Vert \\mathrm { H  } } - 4 0 0 0 t\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "约束条件2构建地下物流系统缓解交通拥堵直至交通畅通，至少保证道路路面的交通基本畅通。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { f ( \\mathrm { Y H } _ { i } ) \\leq 4 } \\\\ { f = k \\times \\mathrm { Y H } _ { i } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "约束条件3地下物流系统构建前后，地面货物量差值$\\mathrm { Y H } _ { i }$ 需控制在一定的范围 $\\zeta$ 内，进而控制整体的物流系统。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { Y H } _ { i } = \\left\\{ \\begin{array} { c } { A H _ { i } - M T _ { i } , \\frac { \\mathrm { x } \\nu } { \\pm 1 } A H _ { i } \\geq M T _ { i } } \\\\ { 0 , \\frac { \\mathrm { x } \\nu } { \\pm 1 } A H _ { i } < M T _ { i } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { Y H } _ { i } \\leq \\zeta\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "无量纲化处理：为了便于求解多目标规划问题，对于不同量纲的目标函数进行归一化处理，可将不同量纲的目标值变成无量纲的数值。具体处理方法是：对于目标 $f _ { i }$ ，如要求越小越好，则先 $n$ 个选择中找到最小值，即为最好值，而其最大值即为最差值；如要求越大越好，则先从 $n$ 个选择中找到最大值，即为最好值，而其最小值即为最差值，其它的无量纲值可根据对应的函数关系用线性插值的方法求得。即可利用公式f-fr对以上目标统一进行归一化处理得fi。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上所述，建立多目标规划节点选择模型：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 基于聚类分析优选一级节点识别",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1聚类分析算法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "聚类分析算法是一个试图识别数据集合聚类的特性性质的学习过程，按照聚类准则，即阈值准则和函数准则，根据不同种类之间的相似性和相似性测度的阈值，将各不同区域的区域节点聚合到为一大类，进而选择出各区域的一级节点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1）阈值准则 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "阈值准则是指根据距离阈值进行分类的准则。按照以往实践经验定义一种相似性测度的阈值，然后按最邻近规则制定某些模式样本属于某一聚类类别。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2）函数准则 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在聚类分析中，表示模式之间的相似性或差异性的函数称为聚类准则函数。聚类准则函数应当是模式样本集{X}模式类别 $\\{ s _ { j } , j = 1 , 2 , . . . , m \\}$ 的函数， $m$ 为类别数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "较为常用的函数准则为误差平方和，称为最小方差划分函数，定义为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ = \\sum _ { j = 1 } ^ { m } \\sum _ { X \\in S _ { i } } \\left\\| X - M _ { j } \\right\\| ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "中，上角标表示聚类过程中的迭代运算次数；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "${ \\pmb b } )$ 计算距离：假设已进行到第 $\\mathrm { ~ \\bf ~ r ~ }$ 次迭代。若样本集合中的某一样本s有：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd ( s , z _ { j } ^ { \\scriptscriptstyle ( r ) } ) = \\operatorname* { m i n } \\{ d ( s , z _ { j } ^ { \\scriptscriptstyle ( r ) } ) , i = 1 , 2 , \\cdots , k \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中: $s - S _ { j } ( r )$ 中的元素， $S _ { j } ( \\boldsymbol { r } )$ 以 ${ z _ { j } } ^ { ( r ) }$ 为聚类中心的样本子集。如此一来，即最小距离原则，将所有样本分配到K个分类中；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { \\sigma } _ { c } )$ 分配 $z _ { j }$ ：对每个样本 $z _ { j }$ ，找到离它最近的聚类中心，计算各个新的分类的聚类中心：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ z _ { j } } ^ { ( r + 1 ) } = \\frac { 1 } { { n _ { j } } ^ { ( r ) } } \\sum _ { j = 1 } ^ { k } s ( j = 1 , 2 , \\cdots , k )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中: ${ n _ { j } } ^ { ( r ) } - { s _ { j } } ^ { ( r ) }$ 中包含的样本数;",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { \\Delta } \\xrightarrow [ ] { } d \\mathbf { ) }$ 修正聚类簇中心：重新计算各簇中心;（204 $e )$ 计算偏差： $J = \\sum _ { j = 1 } ^ { m } \\sum _ { X \\in S _ { i } } \\left\\| X - M _ { j } \\right\\| ^ { 2 }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "${ \\pmb f }$ 收敛判断：若 $z _ { j } ^ { \\ ( r + 1 ) } = z _ { j } ^ { \\ ( r ) }$ $j = 1 , 2 , \\cdots , k$ ，则算法终止；否则转到b)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "聚类算法是动态聚类方法一一K-均值的算法流程如图1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中：m为模式类，M,=- $M _ { j } = \\frac { 1 } { N _ { j } } \\sum _ { X = S _ { i } } X$ 为祎 $S _ { j }$ 样本的均值向量，$N _ { _ j }$ 为 $S _ { j }$ 中的样本数。当 $J$ 值达到极小时，说明达到了满意的分类结果。因此，可以将 $J$ 的极小值确定为目标函数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在进行聚类分析过程中，不同区域的节点会随着聚类的逐步细化，而呈现动态的变化过程，因此为了将不同区域的节点进行准确的分类，采用聚类算法是动态聚类方法一K-均值(K-means)[3]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "该算法使用误差平方和的聚类准则，通过反复迭代来优化聚类结果，使所有样本到各自所属类别中心的距离平方和达到最小，此时即为两者之间的相似度最大，能够归为同一类。K-means算法的步骤如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)初始化：任选K个初始聚类中心： ${ Z _ { 1 } } ^ { ( 1 ) } , { Z _ { 2 } } ^ { ( 1 ) } , { \\cdots } , { Z _ { k } } ^ { ( 1 ) }$ ，其",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a0436b69b97fe387bb0bbb44b07f21294f3962af060944f91ec4128e658842f2.jpg",
+        "img_caption": [
+            "图1动态聚类方法一—K-均值的算法流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "鉴于南京市仙林地区的交通货运区域划分和相应的货运OD 流量矩阵等数据的复杂。首先，依据各区域节点的货运量及距离等相关数据，针对整个区域简单聚类成各大小相似的小区域；然后，在各个小区域内确定一个聚类中心，该聚类中心与区域内的其他节点有一定的相关关系，即为初步确定的各小区域的一级节点；其次，计算各小区域内其他节点与初步确定的一级节点的距离，即相似度。且该相似度应大于等于相似测度阈值，再次计算聚类中心的偏差，修正聚类簇中心即一级节点；最后，通过反复迭代来优化聚类结果，使所有类别到各自所属类别中心的距离平方和达到最小，此时即为两者之间的相似度最大，能够归为同一类。如此，便在动态的聚类过程中确定了各个一级节点，同时也确定了各个一级节点3公里范围的管辖区域。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2聚类分析结果检验",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "运用聚类算法中的K-均值算法对各区域节点进行聚类后，计算出各类中各个向量(即不同节点)到聚类中心的平均距离之和，进行标准化以后，该平均距离之和在确定的均值阈值之内，由此对聚类结果进行准确性检验。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同区域节点的均值为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { n } = \\sum _ { i = 1 } ^ { N } n _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同区域节点的标准化为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\tilde { n _ { i } } } = { \\frac { n _ { i } - { \\overline { { n } } } } { \\sqrt { \\displaystyle \\sum _ { i = 1 } ^ { N } ( n _ { i } - n ) \\displaystyle \\int _ { N } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将各区域节点进行初步分类后，第 $i$ 类的中心值：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { j } = \\sum _ { i = 1 } ^ { N _ { j } } n _ { i j } \\mathrm { ~ } j = 1 , 2 , \\cdots , M _ { j }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同类别到各自聚类中心的平均距离为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { D } } = \\sum _ { i = 1 } ^ { N _ { j } } \\sum _ { j = 1 } ^ { M _ { j } } ( n _ { i j } - C _ { j } ) ^ { 2 } \\Bigg / _ { N }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $n _ { i }$ 第 $i$ 个区域内区域节点到聚类中心的距离； $N$ 整个区域内节点的总个数； $N _ { _ j }$ 第 $i$ 区域中的节点总个数； $\\boldsymbol { M } _ { j }$ 第 $j$ 区域中的节点总个数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 基于贪婪算法选择二级节点识别 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图论的角度我们可以把地下物流区域归纳为一个图$G = \\left( V , \\mathbf { E } \\right)$ ,其中 $V _ { i }$ 为连接节点， $E _ { i j } = [ V _ { i } , V _ { j } ]$ 为连接 $V _ { i }$ 和 $V _ { j }$ 的边，并且均有一个非负权值 $Q ( \\mathrm { E } _ { i j } ) = Q _ { i j }$ ，其中 $Q _ { i j }$ 由两节点的货物运输量及距离共同决定。则最终确定二级节点可以看作是求解最小生成树的问题。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如图所示，假设无向图 $G$ 表示一个物流网络，其中 $V _ { 0 }$ 、$V _ { 1 }$ 、 $V _ { _ 2 }$ 、 $V _ { 3 } \\cdots V _ { 9 }$ 分别表示10个连接节点，",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$E _ { 0 1 } ^ { }$ ， $E _ { 0 2 }$ 、 $E _ { 2 5 }$ 等为各个节点之间的路径。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6b9be35df5e65a7833e235a78b2fc867889e4528f30e03fbd293679fb9b7f5cb.jpg",
+        "img_caption": [
+            "图2无向连通图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Dijkstra算法是由著名的荷兰计算机学家EdsgerW.Dijkstra于20世纪50年代中期发明的。该算法是用来解决单起点最短路径问题的，即对于加权连通图中的一个被称为\"起点\"的给定顶点，我们要求出它到所有其他顶点之间一系列的最短路径。他与前面两种算法不同，所处理的问题并不需要访问所有其他顶点的单条最短路径。该算法所求出来的结果是一组路径，并且每一条路径都是从起点出发并通向图中的另外一个不同的顶点，当然这些路径中不可避免的会有一些公共边的存在。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Dijktrstra 算法的具体流程如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a)求出起点与最为接近该起点的那个顶点之间的最短边的权值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "继续求出排在第二近的那条边，推而广之，在我们进行第i次的迭代工作开始之前，这个算法已经完成确定了i-1条的连接起点以及到该起点最近的顶点之间的那个最短路径。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "c求出最后一个需求的节点，满足区域内所有的货物量需求时截止。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a0bf974ae488862a2f3599bcbb141479fe3a4c2919572aea6c0e5ecfb6c261b5.jpg",
+        "img_caption": [
+            "图3贪婪算法选择二级节点的流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 算例及结果分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1地下物流节点选择",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据聚类分析算法的动态聚类法对南京市仙林区的交通货运区域进行分析，选取出7个一级节点、位置和一级节点管辖的区域(见表1)。再利用贪婪算法确定一级节点区域类的55个",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "二级节点(见表2)，并根据货运量的情况对一级节点转运情况进行分析，得到运用MATLAB编程一级节点的转运率。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/09eecde6ed2365be6756f3da90374e3809bee632c16435561b100da89a875eb0.jpg",
+        "table_caption": [
+            "表17个一级节点相关信息表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>一级节点编号</td><td>货运量/吨</td><td>转运率</td><td>位置坐标X</td><td>位置坐标Y</td></tr><tr><td>I-1</td><td>44549.12</td><td>0.1949</td><td>142746.9</td><td>152213.7</td></tr><tr><td>I-2</td><td>13254.41</td><td>0.189</td><td>164769.5</td><td>165451.4</td></tr><tr><td>I-3</td><td>31508.57</td><td>0.1888</td><td>148832.7</td><td>158220.1</td></tr><tr><td>I-4</td><td>31094.69</td><td>0.1888</td><td>138800.1</td><td>156621.5</td></tr><tr><td>I-5</td><td>28393.75</td><td>0.1818</td><td>156051.9</td><td>162385.7</td></tr><tr><td>I-6</td><td>29472.58</td><td>0.1802</td><td>148284.2</td><td>152085.8</td></tr><tr><td>I-7</td><td>19674.26</td><td>0.1759</td><td>144477.2</td><td>158718.5</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/6957359a2081dc3a3578e3d615e2de674920b3e2df3c251761b7983958a9024c.jpg",
+        "img_caption": [
+            "图4节点位置分布示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2节点服务范围 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于节点的服务范围仅用起讫点的表达无法直观表达服务范围的大小，现以各节点为中心，3公里为半径的区域内，根据各节点总体的货运量和转运情况，对各个节点进行分析，运行MATLAB编程，得到各个节点的实际服务区域，更加直观地看出各节点的运行状况见图4。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e426305ef2f62919ca9a7215217a2f00c4a16fcbf4e3f3b49b4eb3ce69364f16.jpg",
+        "table_caption": [
+            "表255个二级节点相关信息表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>节点编号</td><td>临近节点</td><td>货运量/吨</td><td>X坐标</td><td>Y坐标</td><td></td><td></td><td>货运量/吨</td><td>X坐标</td><td>Y坐标</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>节点编号</td><td>临近节点</td><td></td><td>139712.38</td><td></td></tr><tr><td>II-1</td><td>811</td><td>500.95</td><td>143105.67</td><td>152346.13</td><td>II-29</td><td>859</td><td>237.997</td><td></td><td>158196.62</td></tr><tr><td>II-2</td><td>811</td><td>499.3</td><td>143005.54</td><td>152357.19</td><td>II-30</td><td>869</td><td>231.447</td><td>137403.37</td><td>160390.60</td></tr><tr><td>II-3</td><td>819</td><td>478.205</td><td>142735.81</td><td>153102.05 153100.82</td><td>II-31</td><td>868</td><td>278.97</td><td>139355.42</td><td>160403.74</td></tr><tr><td>II-4</td><td>819</td><td>412.385 392.17</td><td>142734.58</td><td>153099.59</td><td>II-32 II-33</td><td>869</td><td>227.177</td><td>145960.34</td><td>157813.24 155216.00</td></tr><tr><td>II-5</td><td>819</td><td></td><td>142733.35</td><td></td><td>II-34</td><td>845</td><td>226.562</td><td>139062.69</td><td></td></tr><tr><td>II-6</td><td>819</td><td>337.825</td><td>142730.59</td><td>153096.83</td><td></td><td>859</td><td>211.112</td><td>139712.38</td><td>158196.62</td></tr><tr><td>II-7</td><td>819</td><td>336.925</td><td>142727.83</td><td>153094.07</td><td>II-35</td><td>887</td><td>204.432</td><td>155779.18</td><td>161153.63</td></tr><tr><td>I1-8</td><td>817</td><td>328.8</td><td>142147.44</td><td>152788.09</td><td>II-36</td><td>887</td><td>204.202</td><td>155972.26</td><td>161519.38</td></tr><tr><td>I1-9</td><td>817</td><td>311.925</td><td>143839.80</td><td>153020.83</td><td>I1-37</td><td>894</td><td>202.802</td><td>158485.91</td><td>164411.95</td></tr><tr><td>II-10</td><td>807</td><td>299.115</td><td>142199.94</td><td>151897.77</td><td>II-38</td><td>894</td><td>196.537</td><td>154679.32</td><td>164648.90</td></tr><tr><td>II-11</td><td>817</td><td>286.42</td><td>142733.35</td><td>153099.59</td><td>II-39</td><td>886</td><td>194.062</td><td>154828.66</td><td>160253.62</td></tr><tr><td>II-12</td><td>811</td><td>279.64</td><td>143106.67</td><td>152356.13</td><td>II-40</td><td>894</td><td>191.002</td><td>158429.82</td><td>162320.97</td></tr><tr><td>II-13</td><td>811</td><td>272.69</td><td>143146.67</td><td>151356.13</td><td>II-41</td><td>886</td><td>182.712</td><td>156649.10</td><td>160401.30</td></tr><tr><td>II-14</td><td>899</td><td>265.59</td><td>165295.96</td><td>166307.48</td><td>II-42</td><td>894</td><td>173.282</td><td>155475.94</td><td>162649.70</td></tr><tr><td>II-15</td><td>899</td><td>262.93</td><td>157354.70</td><td>166956.66</td><td>II-43</td><td>826</td><td>173.012</td><td>136654.80</td><td>157552.12</td></tr><tr><td>II-16</td><td>899</td><td>258.065</td><td>163428.02</td><td>166293.35</td><td>II-44</td><td>826</td><td>171.227</td><td>139712.38</td><td>158196.62</td></tr><tr><td>II-17</td><td>872</td><td>256.29</td><td>145961.77</td><td>157814.67</td><td>II-45</td><td>805</td><td>168.927</td><td>142526.33</td><td>158311.54</td></tr><tr><td>II-18</td><td>872</td><td>243.59</td><td>147221.06</td><td>157904.41</td><td>Il-46</td><td>826</td><td>167.215</td><td>144511.24</td><td>158818.60</td></tr><tr><td>II-19</td><td>872</td><td>263.135</td><td>149007.88</td><td>158255.23</td><td>II-47</td><td>826</td><td>165.815</td><td>135605.67</td><td>159147.49</td></tr><tr><td>II-20</td><td>872</td><td>250.325</td><td>147900.64</td><td>158283.67</td><td>II-48</td><td>805</td><td>159.55</td><td>142989.12</td><td>159395.66</td></tr><tr><td>II-21</td><td>872</td><td>237.63</td><td>150211.94</td><td>158547.64</td><td>II-49</td><td>822</td><td>157.075</td><td>144347.43</td><td>159827.39</td></tr><tr><td>II-22</td><td>872</td><td>230.85</td><td>145488.59</td><td>158833.25</td><td>II-50</td><td>826</td><td>154.015</td><td>143383.79</td><td>160462.05</td></tr><tr><td>II-23</td><td>872</td><td>223.9</td><td>148375.72</td><td>159294.26</td><td>II-51</td><td>856</td><td>145.725</td><td>141628.28</td><td>160162.22</td></tr><tr><td>II-24</td><td>872</td><td>216.8</td><td>149100.78 140522.99</td><td>159241.67</td><td>II-52</td><td>864</td><td>279.56</td><td>140521.56</td><td>160395.32</td></tr><tr><td>II-25</td><td>872</td><td>245.78</td><td></td><td>160396.75</td><td>II-53</td><td>864</td><td>338.67</td><td>137403.37</td><td>160390.60</td></tr><tr><td>II-26</td><td>848</td><td>345.47</td><td>138792.09</td><td>155636.76</td><td>II-54</td><td>864</td><td>217.89</td><td>139355.42</td><td>160403.74</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/bee52a8ae6d4b560abd70a374430526f8b48ec048bb62c50f27b6981358e6f80.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>II-27</td><td>848</td><td>217.65</td><td>139841.39</td><td>155777.27</td><td>II-55</td><td>856</td><td>457.32</td><td>145960.34</td><td>157813.24</td></tr><tr><td>II-28</td><td>857</td><td>407.68</td><td>137888.25</td><td>157780.23</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.3 结果分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "南京市仙林区作为南京市的副中心城区，仙鹤片区是高等教育产业的重点地区，以高等学校和居民住宅区有机融合的综合性社区，因高校产业链的影响，各类小型物流产业发展迅速，根据货运OD数据，典型日货物运输总量达32.7万吨，因而在仙林大学城周围设置了15个一级节点，以此来加快货运量运输。在仙林区白象片区作为南京市重要的科技产业园区，发展经济、高新技术产业园区，对物流货运要求更大。在总统府、建邺万达广场（节点编号857）、安德门（节点编号807）等交通枢纽和商业区设置物流节点，满足该物流网的需求。优化后整个物流网络服务范围高达 $2 8 9 . 5 0 \\mathrm { k m } ^ { 2 }$ ，而各区域总面积308.29$\\mathrm { k m } ^ { 2 }$ ，覆盖率为 $9 3 . 9 1 \\%$ 。满足整体物流网络的货运需求，使得最高转运率高达0.949。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文从物流经营企业视角出发，研究企业根据各个区域的货运需求量，城市交通等情况，考虑企业自身经营需求的各个指标运转率、交通拥挤变化率、节点3公里覆盖率、物流园区与最近一级节点的距离、货物运输效率、一级节点分散度和二级节点聚拢度作为节点选择目标；以聚类分析为方法构建了一级节点聚类识别模型，同时根据一级节点的特征，使用优化目标并根据贪婪算法对二级节点进行识别分析。最后是有南京某的确货运量交通运输情况等信息进行算例仿真分析，给出了该地区所需要构建的一级节点数量以及二级节点数量，并对其覆盖区域进行划定分析，优化后的物流网络服务覆盖率为 $9 3 . 9 1 \\%$ 满足整个物流网络的货运需求，最高转运率高达0.949。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "该模型利用享有物流需求情况，对区域内的一级节点及二级节点进行识别，有效的支撑目前城市最后一公里物流节点的体系构建，传统的物流中心节点是以大物流为核心的，其中心的构建成本往往偏高，不易于优化重构，而本文重点是关注城市最后一公里物流中心节点的构建，其中心节点管辖范围为 3公里，且需要考虑到对周边交通影响等，因此本文关注的物流中心节点识别与原有的物流中心节点的构建问题具有一定的差异性，且该识别方法有效的支撑了物流中心节点是别体系完善。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "结合众包行业数据进行仿真实验，对模型所得效益价值进行分析得出以下结论。首先企业在制定众包计划时，应该充分考虑单个任务之间的相似程度，可将相似度较高的任务进行捆绑设计，从而提高任务总体完成率。其次平台在发布众包任务时，可以将会员按照信誉度等级进行合理的分类，以期减少平台服务运营成本。最后会员在完成众包要求时，不应盲目追求价格高的任务而应选择与自身条件最为匹配的任务，从而逐步提高信誉度，实现长期收益最大化。在本文的基础上，可以进一步考虑时间的约束，分析用户预定配额、预定任务时间与用户信誉值的关系，进而优化任务定价模型的参数，提升任务完成率和用户体验度。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文所建立的模型是针对电子商务平台，从众包任务发布与完成视角出发进行研究给出的定价模型。通过分析各个参与者的需求，给出了定价机制，对一般任务众包的定价具有指导意义，是一个具有引导价值的模型。但是文章中对部分企业通过不计成本的提高社会知晓度的众包需求，职业众包任务完成、作弊抢单等没有进行规避，这些方向可以作为以后的研究方向。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Holmberg K. Exact solution methods for uncapacitated location problems with convex transportation costs [J].European Journal of Operational Research,1999,114(1):127-140.   \n[2]Zhang D,Li S,Qin J.An optimal hierarchical decision model for a regional logistics network with environmental impact consideration [J].The Scientific World Journal,2014 (1): 542548.   \n[3]O'Kelly ME.Hub facility location with fixed costs [J].Papers in Regional Science,1992,71(3): 293-306.   \n[4] Campbell JF. Integer programming formulations of discrete hub location problems [J].European Journal of Operational Research,1994,72(2): 387- 405.   \n[5] Sasaki M, Fukushima M. On the hub-and-spoke model with arc capacity constraints [J]. Journal of the Operations Research Society of Japan,2017, 46 (4): 409-428.   \n[6]Contreras I, Cordeau JF,Laporte G.Benders decomposition for large-scale uncapacitated hub location [J]. Operations Research,2011 (59): 1477-1490.   \n[7]叶一芃，张小宁．基于随机运输路径选择的物流中心选址模型[J].管 理科学学报,2017,20(1): 41-52.(Ye Yipeng,Zhang Xiaoning.Distribution centers location model with stochastic trafc assignment [J].Journal of Management Sciences in China,2017,20(1): 41-52.)   \n[8] 唐金环，戢守峰，朱宝琳.考虑碳配额差值的选址-路径-库存集成问题 优化模型与算法[J]．中国管理科学,2014,22(9):114-122.(Tang Jinhuan,Ji Shoufeng,Zhu Baolin. Optimization Model and Algorithm Considers Carbotrcapped Difference in the Collaboration of LocationRouting-Inventory Problem [J]. Chinese Journal of Management Science, 2014,22 (9): 114-122. )   \n[9]Diabat A,Al-Salem M.An integrated supply chain problem with environmental considerations [J]. International Journal of Production Economics,2015,164 (2):330-338. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[10]刘必争，毛超．电子商务下的配送中心选址问题及其优化[J]．系统工 程,2008,26(10):17-21.(Liu Bizheng,Mao Chao.The Problem ofLogistics Distribution Center Selection and ItsOptimization in E-business Environment [J]. Systems Engineering,2008,26 (10):17-21.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[11]周翔，许茂增，吕奇光.B2C模式下配送中心与末端节点的两阶段布局 优化模型[J].计算机集成制造系统，2014,20(12):3140-3149.(Zhou Xiang,Xu MaoZeng,Lv Qiguang.Two-stage layout optimization model for distribution center and terminal node under B2C mode [J]. Computer Integrated Manufacturing Systems,2014,20 (12): 3140-3149.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[12]赵泉午，赵军平，林娅.基于O2O的大型零售企业城市配送网络优化 研究[J]．中国管理科学，2017,25(9):159-167.(Zhao Quanwu,Zhao Junping,Lin Ya.A City Logistics Network Optimization Model for Large Chain Retailers under Online-Offline Channel Integration [J].Chinese Journal of Management Science,2017,25 (9): 159-167.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[13]刘靖明，韩丽川，侯立文．基于粒子群的K-均值聚类算法[J].系统工 程理论与实践,2005.25(6):54-58.(Liu Jingming,Han Lichuan,Hou Liwen.Cluster Analysis Based on Particle Swarm Optimization Algorithm [J].System Engineering Theory and Practice,2005.25(6): 54-58.)   \n[14]孙东，黄天戍，秦丙栓，等．基于模糊数据挖掘与遗传算法的异常检测 方法[J].计算机应用,2006.26(1):210-215.(Sun Dong,Huang Tianshu, Qin Bingshuan,et al.Anomaly detection approach based on fuzzy data mining and genetic algorithm [J]. Canputer Applications,20o6.26(1): 210- 215.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[15]温重伟，李荣钧.改进的粒子群优化模糊C-均值聚类算法[J].计算机 应用研究,2010,27(7): 2520-2522.(Wen Zhongwei,Li Rongjun.Fuzzy Cmeans clustering algoritlm based on improed PSO [J].Application Research of Computers,2010,27(07):2520-2522 ",
+        "page_idx": 7
+    }
+]

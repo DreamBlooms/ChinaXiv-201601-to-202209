@@ -1,0 +1,475 @@
+[
+    {
+        "type": "text",
+        "text": "Effects of different tillage and straw retention practices on soil aggregates and carbon and nitrogen sequestration in soils of the northwestern China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WU Jun1,2, Yeboah STEPHEN3, CAI Liqun1,2, ZHANG Renzhi1.2\\*, QI Peng1, LUO Zhuzhu1,2, LI Lingling24, XIE Junhong24, DONG Bo1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 College of Resources and Environmental Sciences, Gansu Agricultural University,Lanzhou 73oo70, China;   \n2GansuProvincial Key Labof Arid land Crop Science,Gansu Agricultural University,Lanzhou 73oo70, China;   \n3 Crops Research Institute, Kumasi 3785,Ghana;   \n4 College of Agronomy,Gansu Agricultural University,Lanzhou 730070,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Soil tilage and straw retention in dryland areas may aect the soil aggregates and the distribution of total organic carbon. The aims of this study were to establish how diferent tilage and straw retention practices affect the soil aggregates and soil organic carbon (SOC) and total nitrogen (TN) contents in the aggregate fractions based on a long-term (approximately 15 years) field experiment in the semi-arid western Loess Plateau, northwestern China. The experiment included four soil treatments,i.e.,conventional tillage with straw removed $( \\mathrm { T } )$ ,conventional tillage with straw incorporated (TS),no tillage with straw removed (NT) and no tilage with straw retention (NTS), which were arranged in a complete randomized block design. The wet-sieving method was used to separate four size fractions of aggregates, namely， large macroaggregates (LA, ${ > } 2 0 0 0 ~ \\mu \\mathrm { m }$ ), small macroaggregates (SA, $2 5 0 { - } 2 0 0 0 ~ { \\mu \\mathrm { m } } ,$ ), microaggregates (MA, $5 3 -$ $2 5 0 ~ { \\mu \\mathrm { m } } )$ , and silt and clay (SC, $< 5 3 \\ \\mu \\mathrm { m } \\$ ). Compared to the conventional tillage practices (including T and TS treatments), the percentages of the macroaggregate fractions (LA and SA) under the conservation tillage practices (including NT and NTS treatments) were increased by $4 1 . 2 \\% - 5 6 . 6 \\%$ ,with the NTS treatment having the greatest effect.For soil layers of O-5,5-1O and $1 0 { - } 3 0 ~ \\mathrm { c m }$ ,values of the mean weight diameter (MWD) under the TS and NTS treatments were $10 . 6 8 \\%$ ， $1 3 . 8 3 \\%$ and $1 7 . 6 5 \\%$ ， respectively. They were $1 8 . 4 5 \\%$ ， $1 9 . 1 5 \\%$ and $1 4 . 1 2 \\%$ higher than those under the T treatment, respectively. The maximum contents of the aggregate-associated SOC and TN were detected in the SA fraction, with the greatest effect being observed for the NTS treatment. The SOC and TN contents were significantly higher under the NTS and TS treatments than under the T treatment. Also,the increases in SOC and TN levels were much higher in the straw-retention plots than in the straw-removed plots. The macroaggregates (including LA and SA fractions) were the major pools for SOC and TN,regardless of tillge practices, storing $3 . 2 5 { - } 6 . 8 1 ~ \\mathrm { g ~ C / k g }$ soil and $0 . 3 4 { \\mathrm { - } } 0 . 6 2 \\ { \\mathrm { g } } \\mathrm { N / k g }$ soil. Based on the above results, we recommend the NTS treatment as the best option to boost soil aggregates and to reinforce carbon and nitrogen sequestration in soils in the semi-arid westernLoess Plateau of northwestern China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:soil aggregates;soil organic carbon; total nitrogen; straw management; illage practices;Loess Plateau ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: WUJun,Yeboah STEPHEN,CAILiqun,ZHANG Renzhi,QIPeng,LUO Zhuzhu,LILingling,XIEJunhong,DONG Bo.2019.Effects ofdiferenttillageand strawretention practicesonsoil aggegates andcarbonand nitrogensequestration in soilsof thenorthwestern China.JourmalofAridLand,11(4):567-578.htps://doi.org/10.1007/s40333-019-0065-y ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Several challenges associated with intensive agriculture such as environmental pollution and soil and water resources degradation have led to an increased interest in developing sustainable agriculture. A lower availability of soil nutrients due to inappropriate soil management can destroy soil structure and decrease soil organic matter (Jiang et al., 2O11). Soil structure is an important property since it has a significant role in the ability of soil to support plant growth, nutrient uptake and water movement (Kay and Angers, 1988; Shang et al., 2017). Soil aggregation is considered as a crucial process for agro-system sustainability due to the role in soil physical, chemical and biological dynamics (Sarker et al., 2O18). Analysis of the stability and particle size distribution of soil aggregates is widely used to assess soil structure (Song et al.,2016). However, the magnitude of the impact of these processes is soil and site specific. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The rain-fed agricultural ecosystem in the semi-arid Loess Plateau of China is fragile and improvement of soil fertility is a key to developing sustainable agriculture. Greater potential exists in the Loess Plateau to enhance the sequestration of carbon and nitrogen in soils with implementation of appropriate tillage methods and crop residue management systems (Jiang et al., 2011; Song et al., 2016). Conservation agriculture is promoted as a set of agricultural practices that include no tillage (NT) or reduced tillage with stubble retention that could increase the soil organic carbon (SOC) pool (Yeboah et al., 2O16a) and have a positive effect on aggregate stability and aggregate-associated C (Bottinelli et al.,2017; Somasundaram et al., 2018). Conservation tillage slows the turnover rate of macroaggregates, prevents the decomposition of organic carbon by microbes and extends the storage period of organic carbon in aggregates (Zhang et al., 2013). However, numerous research efforts have presented contradictory findings.For example, BlancoCanqui and Lal (2Oo7) reported that conservation tillage induces less organic carbon storage than conventional tillage throughout the soil profile. Thus,whether conservation tillage can increase organic carbon storage in the soil remains an important issue despite extensive studies have investigated the influence of various tillage practices and crop residue management measures on the content and storage of SOC (Li et al.,2007). Hence, investigating the effects of land use and management modes,in particular, tillage and crop residue application, may lead to beter farmland management. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Human activity has large impacts on the ecosystems of the Loess Plateau, China (Zeng et al., 2018).The Loess Plateau is an important rain-fed farmland area due to its contributions to employment and food security for an estimated $1 . 0 8 \\times 1 0 ^ { 8 }$ people in China (Zhao et al.,2012). However, this region is associated with low precipitation and high evaporation coupled with severe erosion, which has led to low farmland productivity (He et al.,2014). Different types of tillage systems affect soil structure and organic matter content, which in turn influence the formation of aggregates (Zheng et al.,2Ol8). Conventional soil cultivation modes have facilitated soil and water erosion processes and resulted in low SOC content and soil fertility (He et al.,2014). Such traditional methods of soil cultivation have progressively reduced the soil resilience and nutrient-holding capacity， thus， having long-term implications for food security in rural communities (McBratney and Field,2015). The literature is replete with information on the effects of tillage methods and fertilizer management on the soil carbon content and the stability of soil aggregates，but to the best of our knowledge, the effects of tillage with straw retention management on the stability of soil aggregates and aggregate-associated carbon content on cultivated loess soil are still unclear. Studying the changes in the size distribution and stability of soil aggregates,and the SOC and total nitrogen (TN) contents in different aggregate size fractions under different tillage and straw management practices could provide valuable information on the sustainable use of soil and management modes in the heavily eroded Loess Plateau. Therefore, in this study,a long-term (approximately 15 years) field experiment was conducted in the semi-arid western Loess Plateau to examine the impacts of different tillage practices and straw management schemes on the size distribution and stability of soil aggregates, including the aggregateassociated SOC and TN contents. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The research was conducted at the Rain-fed Agricultural Experimental Station of Gansu Agricultural University in the semi-arid western Loess Plateau, northwestern China $( 3 5 ^ { \\circ } 2 8 ^ { \\prime } \\mathrm { N }$ $1 0 4 ^ { \\circ } 4 4 ^ { \\prime } \\mathrm { E } )$ . The experiment was initiated in 2001 and, prior to its establishment, flax (Linum usitatissimum L.) was grown on the site. The semi-arid western Loess Plateau is prone to severe soil and water erosion and is characterized by a hilly landscape. The sandy loam and aeolian soil in that region, used primarily as farmland, equates to a Calcaric Cambisol in the FAO Soil Classification (FAO,1990) and is locally known as Huangmian soil (Chinese Soil Taxonomy Cooperative Research Group,1995). The chemical characteristics of the soil ( $( 0 { - } 2 0 0 ~ \\mathrm { c m }$ depth) for the study area are as follows: average $\\mathsf { p H } 8 . 4 5$ ，soil bulk density $1 . 1 7 ~ \\mathrm { g / c m } ^ { 3 }$ ，SOC $8 . 3 2 ~ \\mathrm { g / k g }$ available nitrogen $5 1 . 1 0 ~ \\mathrm { m g / k g }$ ，available phosphorus $2 1 . 1 9 ~ \\mathrm { m g / k g }$ ，available potassium 100.90 $\\mathrm { m g / k g }$ ，TN $0 . 8 6 ~ \\mathrm { g / k g }$ , total phosphorus $0 . 8 2 ~ \\mathrm { g / k g }$ , total potassium $2 8 . 0 0 ~ \\mathrm { g / k g }$ , wilting point $7 . 3 \\%$ (w/w) and saturated water content $2 1 . 9 \\%$ (w/w). The average annual precipitation and evaporation records at the experimental station are 390.9 and $1 5 3 1 . 0 \\ \\mathrm { m m }$ , respectively. The annual average temperature is $6 . 5 ^ { \\circ } \\mathrm { C }$ ，with the maximum temperature of $3 3 . 3 ^ { \\circ } \\mathrm { C }$ in July and the minimum temperature of $- 2 6 . 9 ^ { \\circ } \\mathrm { C }$ in January. These conditions are representative of those commonly found for agricultural areas with a semi-arid environment. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Experimental design ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The experiment was carried out using a spring wheat (Triticum aestivum L.)-field pea (Pisum sativum L.) rotation. The land was cultivated field pea in 2014,spring wheat in 2015 followed by field pea in 2016.The present study was conducted on spring wheat plots in the planting season of 2015.The experiment included four treatments (Table 1): conventional tillage with straw removed (T),conventional tillage with straw incorporated (TS), no tillage with straw removed (NT) and no tillage with straw retention (NTS). Alltreatments were arranged in a complete randomized block design and each treatment plot area was $8 0 ~ \\mathrm { m } ^ { 2 }$ 1 $( 4 \\mathrm { m } { \\times } 2 0 \\mathrm { m } )$ ). All the plant material from the previous crop was returned to the original plots after threshing and spreading evenly on the soil surface. Each treatment plot was sown by a no tillage seeder. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ceda98d25c023cdfa9a90a46600f2fc353cf57c87520b74c8106adcdc0b16999.jpg",
+        "table_caption": [
+            "Table1 Description of tillage treatments in the experiment "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Treatment Description</td><td></td></tr><tr><td>T</td><td>Conventional tillage with straw removed</td><td>The field was ploughed 3 times and harrowed 2 times after harvesting.The first plough was in August immediately after harvesting and the second and third ploughs were in late August and September,respectively.The plough depths were 20,10 and 5 cm,respectively. The field was harrowed after the third plough in September and re-harrowed in October before the ground became frozen. This was a typical conventional tillage practice in the western Loess Plateau.</td></tr><tr><td>TS</td><td>Conventional tillage with straw incorporated</td><td>The field was ploughed and harrowed exactly as for the T treatment,but with straw incorporated at the first plough.All the straw of the previous crop was returned to the original plot immediately after threshing and then incorporated into the soil.</td></tr><tr><td>NT</td><td>No tilrem with</td><td>No tillage throughout the year.</td></tr><tr><td>NTS</td><td>No tillage with straw retention</td><td>oi to the original plot immediately after threshing.</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 Crop sowing and base fertilizers ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Spring wheat was sown at a rate of $1 8 7 . 5 \\mathrm { k g } / \\mathrm { h m } ^ { 2 }$ (row spacing was $2 0 \\mathrm { c m }$ ）on25March 2015 and harvested on 1 August 2015.Phosphorus and nitrogen fertilizers were applied at the rates of 45.9 $ { \\mathrm { k g } }  { \\mathrm { P / h m } } ^ { 2 }$ as calcium superphosphate and $1 0 5 . 0 \\mathrm { k g } \\mathrm { N } / \\mathrm { h m } ^ { 2 }$ as urea for spring wheat, respectively. Field pea was sown at a rate of $1 8 0 . 0 \\ \\mathrm { k g / h m } ^ { 2 }$ (row spacing was $2 4 \\ \\mathrm { c m } )$ ）on1 April 2014 and harvested on 20 July 2014. Phosphorus and nitrogen fertilizers were applied at the rates of $4 5 . 9 \\mathrm { k g }$ $\\mathbf { P } / \\mathrm { h m } ^ { 2 }$ as ammonium hydrogen phosphate and $2 0 . 0 \\mathrm { ~ k g ~ N } / \\mathrm { h m } ^ { 2 }$ as urea for field pea, respectively. The phosphorus and nitrogen fertilizers were applied simultaneously with the sowing of spring wheat using the same no tillage seeder and incorporated into the soil to a depth of about $1 0 \\mathrm { c m }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Spring wheat was harvested manually using sickles at about $5 \\mathrm { c m }$ above ground level. The edges $( 0 . 5 { \\mathrm { m } } )$ of the treatment plots were trimmed and discarded and then the straw and grain yields were measured with an electronic balance. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4 Soil sampling and measurements ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To measure aggregate stability, we sampled undisturbed soil samples (each sample was about 800 g) randomly with a cylindrical core (diameter: $8 \\mathrm { c m }$ ; length: $5 \\mathrm { c m } )$ )at three depths (0-5,5-10 and $1 0 { - } 3 0 ~ \\mathrm { c m } )$ ） in each treatment plot from five separate locations.The samples were collected after harvesting of the crop in August 2O15.Al soil samples were placed in a plastic container to avoid breakdown of the aggregates and then air-dried at $2 5 ^ { \\circ } \\mathrm { C }$ （20 $( \\pm 2 ^ { \\circ } \\mathrm { C } )$ . Bulk soil samples (each sample was about $1 0 0 0 \\ \\mathrm { g }$ ） were collected randomly with a soil sampler at three depths (O-5,5-1O and $1 0 -$ $3 0 \\mathrm { c m } )$ in each treatment plot from five locations. Stones and animal and plant debris were removed before analysis. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The SOC content in the aggregate fractions and the bulk soil were measured using the WalkleyBlack method (1934).The TN content was determined using the Kjeldahl digestion and distillation procedure (Bremner and Breitenbeck,1983). The saturated hydraulic conductivity was determined using disc permeameter. The soil bulk density was tested using the cutting ring method. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5 Water-stable aggregates ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A wet-sieving method (Elliottand Cambardella,1991; Cambardella and Elliott,1994) was used to separate four size fractions of aggregates: large macroaggregate (LA, ${ > } 2 0 0 0 \\ \\mathrm { ~ \\mu m } ,$ ，small macroaggregate $( \\mathrm { S A } , 2 5 0 { - } 2 0 0 0 \\mu \\mathrm { m } )$ ,microaggregate (MA, $5 3 - 2 5 0 \\mu \\mathrm { m }  ,$ , and silt and clay(SC, ${ < } 5 3$ （204号 $\\mu \\mathrm { m } )$ . A total of $\\boldsymbol { 1 0 0 } \\mathrm { g }$ of the air-dried soil ( $\\mathrm { \\langle < } 8 \\mathrm { m m \\rangle }$ ） was submerged in distilled water on the topmost of a series of three sieves of 200o,250 and $5 3 \\mu \\mathrm { m }$ mesh size for $5 \\mathrm { m i n }$ (three repetitions per sample). Thereafter, the sieves were shaken vertically up and down (about $3 \\mathrm { c m }$ ）50 times for $2 ~ \\mathrm { m i n }$ . The soil material on each sieve was washed back into beakers,and the fraction with size $< 5 3 ~ \\mu \\mathrm { m }$ was collected from the bottom of the water bucket after $4 8 \\mathrm { h }$ . Then, all the materials were oven-dried at $5 0 ^ { \\circ } \\mathrm { C }$ $( \\pm 1 ^ { \\circ } \\mathrm { C } )$ for $4 8 \\mathrm { { h } }$ . After weighing, the fractions were stored in sample containers for SOC and TN analyses. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.6 Data calculation and statistical analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The mean weight diameter (MWD, mm) was used as a measure of aggregate stability, which was determined by the following equation: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { M W D } { = } \\sum _ { i = 1 } ^ { 4 } X _ { i } W _ { i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $X _ { i }$ （ $( \\mathrm { m m } )$ is the mean diameter of two adjacent fractions and $W _ { i } \\left( \\% \\right)$ is the percentage of the mass for the $i ^ { \\mathrm { t h } }$ aggregate fraction to the total mass for the bulk soil. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The water-stable aggregate fraction (WSA, $\\%$ ) can be calculated as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { W S A } _ { i } = \\frac { m _ { i } } { M _ { i } } { \\times } 1 0 0 \\% ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathrm { W S A } _ { i } ( \\% )$ is the percentage of each water-stable aggregate fraction; $m _ { i } \\left( \\mathbf { g } \\right)$ is the mass of the $i ^ { \\mathrm { t h } }$ aggregate fraction; and $M _ { i } \\left( \\mathbf { g } \\right)$ is the mass of the bulk soil in the $i ^ { \\mathrm { t h } }$ aggregate fraction. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The stock of an element in the soil aggregate was determined by the following equation: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E S A } _ { i } = \\frac { \\mathrm { W S A E } _ { i } \\times \\mathrm { W S A } _ { i } } { 1 0 0 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathbf { E S A } _ { i } \\left( \\mathbf { g } / \\mathbf { k g } \\right)$ is the element (SOC or TN) stock in the $i ^ { \\mathrm { t h } }$ soil aggregate fraction; $\\mathsf { W S A E } _ { i } \\left( \\mathbf { g } / \\mathbf { k g } \\right)$ is the content of the soil element (SOC or TN) in the $i ^ { \\mathrm { t h } }$ water-stable aggregate fraction or in the $< 5 3 ~ \\mu \\mathrm { m }$ fraction; and $\\mathrm { W S A } _ { i } ( \\% )$ is the percentage of the $i ^ { \\mathrm { t h } }$ water-stable aggregate fraction. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "All statistical analyses were performed using SPSS 19.0 (IBM Corporation, Chicago, USA). Multiple means were compared using two-way analysis of variance (ANOVA). Duncan's multiplerange test was used to ascertain the treatment effects.Statistical significance was determined at the 0.05 level unless stated otherwise. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Distribution of the water-stable aggregates ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For all soil layers, soils under the conservation tillage treatments (NT and NTS) contained more LA,SA and MA fractions than soils under the T treatment; and the differences in the four size fractions were significant for the NTS treatment (Fig. 1). Overall, the SC fraction increased with increase in soil depth, whereas the LA, SAand MA fractions decreased with increase in soil depth. The macroaggregate fractions (LA and SA) comprised the greatest proportion of whole soil for the conservation tillage treatments,accounting for $4 1 . 2 \\% - 5 6 . 6 \\%$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the $0 { - } 5 ~ \\mathrm { c m }$ soil layer, the distribution of the four size fractions showed some differences for all treatments (Fig.la). The order for the proportions of the four size fractions in the whole soil was $\\mathrm { S A { > } M A { > } L A { > } S C }$ . For the soil in the layer of $5 { \\mathrm { - } } 1 0 ~ { \\mathrm { c m } }$ , the NT, TS and NTS treatments had larger proportions of the LA, SA and MA fractions than the T treatment (Fig. 1b). The NTS treatment showed the highest effect, whereas the proportion of SC under the T treatment was higher than those under the conservation tillage treatments (NT and NTS). The NTS treatment had the least proportion of SC. The distribution of the water-stable aggregates for the TS and NTS treatments followed the order of $\\mathrm { S A { > } M A { > } S C { > } L A }$ and $\\mathrm { S A { > } M A { > } L A { > } S C }$ ，respectively. The distribution of the four aggregate fractions for the T and NT treatments were in the order of $\\mathrm { S C { > } S A { > } M A { > } L A }$ . For the $1 0 { - } 3 0 ~ \\mathrm { c m }$ soil layer, the distribution of the water-stable aggregates reflected the differences between the straw-retention and straw-removal treatments (Fig. lc). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/122c17500fc694ffa0512e32361f470dbd43db6514d39f4946d2e23cd4c6502c.jpg",
+        "img_caption": [
+            "Fig.1Size fractions ofthe water-stable aggregates under different tillage and straw management practices in the soil layers of 0-5 (a),5-10 (b) and $1 0 { - } 3 0 ~ \\mathrm { c m }$ (c).T, conventional tillage with straw removed; NT, no tillage with strawremoved;TS,conventional tillage with straw incorporated; NTS,no tillage with straw retention.LA,large macroaggregate $( > 2 0 0 0 ~ \\mu \\mathrm { m } )$ ; SA, smal macroaggregate $( 2 5 0 - 2 0 0 0 ~ \\mu \\mathrm { m } )$ ; MA,microaggregate $( 5 3 - 2 5 0 ~ \\mu \\mathrm { m } )$ ; SC, silt and clay $( < 5 3 ~ \\mu \\mathrm { m } )$ .Different lowercase letters represent significant differences among different treatments at $P { < } 0 . 0 5$ level for the same water-stable aggregate size fraction. Error bar represents the standard error of the mean $\\scriptstyle ( n = 3 )$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 Stability of the water-stable aggregates ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The ANOVA results showed that the straw retention treatments (TS and NTS) had significant effects on the MWD,regardless of the soil layer (Table 2). The effect of tillage on the MWD was significant only for the soil layer of $0 { - } 5 \\ \\mathrm { c m }$ ， whereas the impact of the interaction between tillage and straw (tillage×straw) on the MWD was not significant for allsoil layers. Across all soil layers, the values of the MWD under the conservation tillage practices (NT and NTS treatments) were higher than those under the conventional tilage practice (T treatment). It should be noted that the differences of the MWD between the T and NT treatments were not significant, whereas the differences between the $\\mathrm { T }$ and TS treatments or $\\mathrm { T }$ and NTS treatments were significant. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For the $0 { - } 5 ~ \\mathrm { c m }$ soil layer, the no tillage treatments (NT and NTS） significantly enhanced the MWD values (increased by $5 . 9 9 \\%$ ） compared to the tillage treatments (T and TS) (Table 2). Compared with the straw-removed treatments (T and NT), the straw-retention treatments (TS and NTS) significantly increased the MWD values by $1 1 . 8 5 \\%$ ， $1 4 . 6 6 \\%$ and $14 . 5 3 \\%$ for the 0-5,5-10 and $1 0 { - } 3 0 ~ \\mathrm { c m }$ soil layers，respectively. The values of the MWD followed the order of ${ \\mathrm { N T S } } { \\mathrm { > T S } } { \\mathrm { > N T > T } }$ treatments for the O-5 and $5 { \\mathrm { - } } 1 0 ~ { \\mathrm { c m } }$ soil layers.For the $0 { - } 5 ~ \\mathrm { c m }$ soil layer, the values of the MWD for the NT, TS and NTS treatments were $4 . 8 5 \\%$ ， $1 0 . 6 8 \\%$ and $1 8 . 4 5 \\%$ higher than that for the T treatment, respectively. For the $5 { - } 1 0 \\mathrm { c m }$ soil layer, the values of the MWD under the NT, TS and NTS treatments increased by $3 . 1 9 \\%$ ， $1 3 . 8 3 \\%$ and $1 9 . 1 5 \\%$ ,respectively, compared to the T treatment.Moreover, for the $1 0 { - } 3 0 ~ \\mathrm { c m }$ soillayer, the NT,TS and NTS treatments resulted in the increases of the MWD values of $2 . 3 5 \\%$ ， $1 7 . 6 5 \\%$ and $1 4 . 1 2 \\%$ , respectively, compared to the T treatment. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/5d42fba66d2c0bd9318dd9b3e21da705132b79dc4becbe5173b35dc202ddf1d7.jpg",
+        "table_caption": [
+            "Table 2Mean weight diameter (MWD) values of the water-stable aggregates in the O-5,5-10 and $1 0 { - } 3 0 ~ \\mathrm { c m }$ soil layers under different tillage and straw management practices "
+        ],
+        "table_footnote": [
+            "Note:Means with diferent lowercase letters in the same column represent significant differences at $P { < } 0 . 0 5$ level.\\*\\*,significant at $P { < } 0 . 0 1$ level; $\\ast \\ast \\ast$ ,significant at $P { < } 0 . 0 0 1$ level; ns, not significant at $P { < } 0 . 0 5$ level. $\\scriptstyle n = 3$ ： "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Treatment</td><td colspan=\"3\">MWD (mm)</td></tr><tr><td>0-5cm</td><td>5-10 cm</td><td>10-30 cm</td></tr><tr><td>T</td><td>1.03c</td><td>0.94b</td><td>0.85b</td></tr><tr><td>TS</td><td>1.14b</td><td>1.07a</td><td>1.00a</td></tr><tr><td>NT</td><td>1.08bc</td><td>0.97b</td><td>0.87b</td></tr><tr><td>NTS</td><td>1.22a</td><td>1.12a</td><td>0.97a</td></tr><tr><td>Tillage</td><td>**</td><td>ns</td><td>ns</td></tr><tr><td>Straw</td><td>***</td><td>***</td><td>***</td></tr><tr><td>Tillage×Straw</td><td>ns</td><td>ns</td><td>ns</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 SOC and TN contents ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 SOC and TN contents in the bulk soil ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The two-factor ANOVA showed that tillage significantly influenced the SOC and TN contents of the bulk soil in the first two soil layers (O-5 and $5 { \\mathrm { - } } 1 0 ~ { \\mathrm { c m } } ,$ ）and in the first soil layer $( 0 { - } 5 ~ \\mathrm { c m } )$ ， respectively (Table 3), while straw had significant effects on the SOC and TN contents for all observed soil layers.The tillage $\\mathrel { \\left. \\times \\right. }$ straw combination had no significant effect on the SOC and TN contents for all soil layers.The SOC and TN contents of the bulk soil followed a similar trend as the MWD. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/b9e3c20693d3db467a564d88bf7e26eda82d4208931af38b0d1bea8224303124.jpg",
+        "table_caption": [
+            "Table 3Soil organic carbon (SOC)and total nitrogen (TN) contents of the bulk soilin theO-5,5-10 and 10-30 cm soil layers under different tillage and straw management practices "
+        ],
+        "table_footnote": [
+            "Note:Means with different lowercase letters in the same column represent significant differences at $P { < } 0 . 0 5$ level.\\*\\*,significant at $P { < } 0 . 0 1$ （20 level; $\\ast \\ast \\ast$ ,significant at $P { < } 0 . 0 0 1$ level; ns,not significant at $P { < } 0 . 0 5$ level. $\\scriptstyle n = 3$ "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Treatment</td><td colspan=\"3\">SOC (g/kg)</td><td colspan=\"3\">TN (g/kg)</td></tr><tr><td>0-5cm</td><td>5-10 cm</td><td>10-30 cm</td><td>0-5cm</td><td>5-10 cm</td><td>10-30 cm</td></tr><tr><td>T</td><td>9.24d</td><td>8.11d</td><td>7.49c</td><td>0.83</td><td>0.75b</td><td>0.73b</td></tr><tr><td>TS</td><td>10.56b</td><td>9.76b</td><td>9.10a</td><td>0.88b</td><td>0.84a</td><td>0.79a</td></tr><tr><td>NT</td><td>9.91°</td><td>8.53c</td><td>7.79b</td><td>0.86bc</td><td>0.77b</td><td>0.74b</td></tr><tr><td>NTS</td><td>11.58a</td><td>10.42a</td><td>8.87a</td><td>0.92a</td><td>0.87a</td><td>0.80a</td></tr><tr><td>Tillage</td><td>***</td><td>***</td><td>ns</td><td>**</td><td>ns</td><td>ns</td></tr><tr><td>Straw</td><td>***</td><td>***</td><td>***</td><td>***</td><td>***</td><td>**</td></tr><tr><td>TillagexStraw</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Compared with the tillage treatments (T and TS), the no tillage treatments (NT and NTS) resulted in significant improvements in the SOC contents of the bulk soil, that is,increases of $8 . 5 4 \\%$ and ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$6 . 0 4 \\%$ for the O-5 and $5 { \\mathrm { - } } 1 0 ~ { \\mathrm { c m } }$ layers, respectively. Compared to the straw-removed treatments （T and NT), the straw-retention treatments (TS and NTS) significantly enhanced the SOC contents in the bulk soil by $1 5 . 6 1 \\%$ ， $2 1 . 2 7 \\%$ and $1 7 . 6 0 \\%$ for the 0-5,5-10 and $1 0 { - } 3 0 ~ \\mathrm { c m }$ soil layers, respectively.In the $0 { - } 5 \\mathrm { c m }$ soil layer, the TN contents under the no tillage treatments (NT and NTS) increased significantly (by $4 . 0 9 \\%$ ） compared to those under the tillage treatments(T and TS).In the 0-5,5-10 and $1 0 { - } 3 0 ~ \\mathrm { c m }$ soil layers, the TN contents of the bulk soil under the straw-retention treatments（TS and NTS) were $6 . 5 1 \\%$ ， $12 . 5 0 \\%$ and $8 . 1 6 \\%$ higher than those under the non-straw retained treatments (T and NT),respectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.2SOC and TN contents in the water-stable aggregates ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Tillage affected significantly the aggregate-associated SOC and TN contents in the first two layers (0-5 and $5 { \\mathrm { - } } 1 0 ~ { \\mathrm { c m } } )$ ,butit had no effect in the third soil layer $\\left( 1 0 - 3 0 ~ \\mathrm { c m } \\right)$ (Table 4). Straw and aggregate size had significant effects on the aggregate-associated SOC and TN contents in all soil layers.However, the possble interactions between tillage, straw and aggregate size had no significant effects on the aggregate-associated TN content. In all soil layers,the aggregateassociated SOC and TN contents in the different fractions exhibited the same distribution pattern with the order of $\\mathrm { S A { > } M A { > } L A { > } S C }$ (Fig.2).For all treatments, the SOC and TN contents within the four aggregate fractions decreased with increasing soil depth. Compared with T treatment, the NT, TS and NTS treatments showed higher contents of aggregate-associated SOC and TN,and the differences of the SOC content within aggregates between the T and TS treatments or T and NTS treatments were significant for all soil layers. However, the difference of aggregate-associated TN content was significant for the T and NTS treatments only for the first two soil layers.Moreover, for all treatments,the NTS treatment showed the highest contents of aggregate-associated SOC and TN in the first two layers,and the TS treatment showed the highest SOC and TN contents in the third soil layer. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/fb8240498a1fe813ba142e82c8d6e11513aa9e9760c07acc85130d85d3cf1bdb.jpg",
+        "table_caption": [
+            "Table 4Effects of tillage,straw,aggregate size and the possible interaction of the variables on theaggregateassociated SOC and TN contents in the O-5,5-10 and $1 0 { - } 3 0 ~ \\mathrm { c m }$ soil layers "
+        ],
+        "table_footnote": [
+            "Note: \\*,significant at $P { < } 0 . 0 5$ level; $\\ast \\ast \\ast$ ,significant at $P { < } 0 . 0 0 1$ level; ns,not significant at $P { < } 0 . 0 5$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Factor</td><td colspan=\"3\">SOC in the water-stable aggregates</td><td colspan=\"3\">TN in the water-stable aggregates</td></tr><tr><td>0-5cm</td><td>5-10 cm</td><td>10-30 cm</td><td>0-5cm</td><td>5-10 cm</td><td>10-30 cm</td></tr><tr><td>Tillage</td><td>***</td><td>***</td><td>ns</td><td>***</td><td>***</td><td>ns</td></tr><tr><td>Straw</td><td>***</td><td>***</td><td>***</td><td>***</td><td>***</td><td>***</td></tr><tr><td>Size</td><td>***</td><td>***</td><td>***</td><td>***</td><td>***</td><td>***</td></tr><tr><td>Tillage×Straw</td><td>***</td><td>*</td><td>*</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td>Tillage×Size</td><td>*</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td>Straw×Size</td><td>***</td><td>***</td><td>***</td><td>ns</td><td>ns</td><td>ns</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.3Correlations of SOC and TN with aggregate size fractions and MWD ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The correlations of SOC and TN contents with aggregate size fractions (LA, SA, MA and SC) and MWD were examined by calculating the respective Pearson's correlation coefficients (Table 5). Generally speaking, the SOC and TN contents showed significant positive correlations with LA, SA, MA and MWD. The SOC and TN contents decreased significantly in the SC fraction. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4SOC and TN stocks in the water-stable aggregates ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The SOC stock and TN stock in the water-stable aggregate size fractions showed similar distribution patterns (Fig.3). The SOC and TN stocks in the LA, SA and MA fractions decreased with increasing soil depth. Among the water-stable aggregate fractions, the macroaggregates (LA and SA) held the major SOC and TN pools, regardless of tillage practices. Specifically, the LA and SA fractions held $3 . 2 5 \\mathrm { - 6 . 8 1 ~ g ~ C / k g }$ soil and $0 . 3 4 \\mathrm { - } 0 . 6 2 \\ \\mathrm { g \\ N / k g }$ soil, respectively, accounting for $4 3 . 3 7 \\% - 5 8 . 8 3 \\%$ of the SOC stock and $3 9 . 9 0 \\% { - } 5 6 . 8 4 \\%$ of the TN stock in the bulk soil. Generally, the TS and NTS treatments enhanced significantly the SOC and TN stocks in the LA, SA and MA fractions compared to the $\\mathrm { \\Delta T }$ and NT treatments.Furthermore, the TS and NTS treatments showed the highest SOC and TN stocks in all soil layers. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/67269b5077295cf4c0375f44ee2caae9089970d84ef60a7e39db41a8b149bf58.jpg",
+        "img_caption": [
+            "Fig.2Contents of aggregate-associated SOC (a-c)and TN(d-f) in the different water-stable aggregate fractions in the 0-5,5-10 and $1 0 { - } 3 0 ~ \\mathrm { c m }$ soil layers under different tillage and straw management practices. SOC,soil organic carbon; TN,total nitrogen.Different lowercase leters represent significant diferences among different treatments at $P { < } 0 . 0 5$ level for the same water-stable aggregate size fraction. Error bar represents the standard error of the mean $\\scriptstyle ( n = 3 )$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/935da3837c540812c8dfa14f1bc563fca32559214f9b64018e393b07ae5db053.jpg",
+        "table_caption": [
+            "Table 5Pearson's correlations of SOC and TN contents with aggregate size fractions and MWD "
+        ],
+        "table_footnote": [
+            "Note:LA,large macroaggregates $( > 2 0 0 0 ~ \\mu \\mathrm { m } )$ ; SA,small macroaggregates $( 2 5 0 { - } 2 0 0 0 ~ \\mu \\mathrm { m } )$ ；MA,microaggregates $( 5 3 - 2 5 0 ~ \\mu \\mathrm { m } )$ ; SC, silt andclay $( < 5 3 ~ \\mu \\mathrm { m } )$ .\\*\\*,significantat $P { < } 0 . 0 1$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>LA</td><td>SA</td><td>MA</td><td>SC</td><td>MWD</td></tr><tr><td>SOC</td><td>0.97**</td><td>0.94**</td><td>0.96**</td><td>-0.97**</td><td>0.99**</td></tr><tr><td>TN</td><td>0.97**</td><td>0.89**</td><td>0.93**</td><td>-0.93**</td><td>0.99**</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4 Discussion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The soil aggregate stability and nutrient content are affected by management practices (tillage and straw retention),and this may decide farmland productivity through their influence on the soil microbial activity and soil health (Zhang et al.,2O12). In this study,because tillage caused the breakdown of the macroaggregates into smaller size fractions, it was found that compared with the T treatment, conservation tillage treatments (NT and NTS) enhanced the percentage of each aggregate size fraction, and that macroaggregates (LA and SA) were the dominant fraction. Conservation tillage generally improves soil aggregation and aggregate stability as it reduces soil disturbance and soil mixing. Additionally, straw application may also improve aggregate stability by reducing the exposure of soil organic matter to direct wet-dry and freeze-thaw cycles by presenting a barrier between the soil surface and the atmosphere.This result is consistent with the study of Devine et al. (2O1O),who reported a higher proportion of the ${ > } 2 5 0 ~ \\mu \\mathrm { m }$ aggregate size fractions.The present results also suggest that addition of organic mater improves soil aggregation processes as a result of the organic matter acting as binding agents for soil aggregation (Tisdall and Oades, 1982). This suggests that conservation tillage could potentially decrease the macroaggregate turnover in farmlands and consequently facilitate the sequestration of organic carbon. Compared with non-straw-treated treatments, straw retention treatments with long-term no tillage significantly enhanced the LA, SA and MA fractions and the MWD. Application of straw to loess soil, in particular, has been noted to increase the SOC and TN contents (Zhang et al., 2013). Straw application also has beneficial efects on the SOC sequestration, as a result of strongly influencing the temporal patterns of $\\mathrm { C O } _ { 2 }$ emissions from soil (Jacinthe et al.,2002).A similar observation was made in the same study area by Yeboah et al. (2016a). Present results are also similar to those in a report by Bhattcharyya et al. (2O13）who observed that 4 years of straw retention coupled with reduced tillage practices enhanced soil carbon and nitrogen relative to conventional methods. Thus,the addition of organic residue matter improves soil structure and increases aggregate stability. In the present study, the main effects of straw retention were on increasing soil aggregation and stability. Several studies have shown that no tillage accompanied by straw application results in a greater SOC sequestration because improved aggregation protects SOC from mineralization compared to conventional tillage (Yeboah et al.， 2016a,b). The mechanism behind the increase in soil aggregation and stability in straw retention treatment may be attributed to the release of polysaccharides and organic acids，which enhance substrate availability for microbial growth. These effects concurrently promote the formation of macroaggregates through the binding of straw and soil particles (Song et al.,2016). In this study, the SC fraction $( < 5 3 ~ \\mu \\mathrm { m } )$ increased with increasing depth of the studied soil layers,and all other aggregate fractions decreased with increasing depth of the studied soil layers; however, the effect was larger for the NTS treatment. The results indicate that the contents of stable macroaggregates can be increased by no tillage treatment coupled with crop residue application (Bandyopadhyay et al., 2010). The water-stable aggregates were greater for the NTS treatment for the first two soil layers (0-5 and $5 { \\mathrm { - } } 1 0 \\ { \\mathrm { c m } }$ ),whereas there were more water-stable aggregates in the TS treatment for the soil layer of $1 0 { - } 3 0 ~ \\mathrm { c m }$ . Consequently, conservation tillage may stabilize aggregates by the following mechanisms: (1） no tillage reduces the disturbances normally caused by plowing (Bottinelli et al.， 2017) and improves the functions of intrinsic soil restoration processes; (2) covering of the field with straw reduces the impact of raindrops on the topsoil under the NTS treatment, and decreases the effects offrequent freeze-thaw and wet-dry cycles on the topsoil (Song et al.,2016);and (3） SOC is a good predictor of both soil aggregate stability and cohesion (Nouwakpo et al.,2O18),and a higher soil organic matter content results in enhanced binding which is critical for soil aggregation (Meng et al., 2014). ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/5243d25de395032cc783a35aad7a3590ed4b0d7fb6d8d5c733a376971793336a.jpg",
+        "img_caption": [
+            "Fig.3SOCand TN stocks of different water-stable aggregate fractions in the O-5,5-10and 10-30cm soil layers underdifferent tillage and straw management practices.Different lowercase letters represent significant differences among the different treatments at $P { < } 0 . 0 5$ level in the same water-stable aggregate size fraction.Error bar represents the standard error of the mean $\\scriptstyle ( n = 3 )$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The SOC and TN contents in aggregates under different tillage practices showed a similar trend with the distribution pattern of aggregates. This supports the work of Song et al. (2O16),who reported that in the $0 { - } 1 5 ~ \\mathrm { c m }$ soil layer, the greatest proportion of total organic carbon in the aggregates followed a similar trend to that of the MWD in rice-wheat rotation grown under a double-conservation tillage. In this study, greater aggregate-associated SOC and TN contents were found in the macroaggregates $( > 2 5 0 ~ \\mu \\mathrm { m } )$ . The slower turnover of macroaggregates may enhance the formation of highly stable microaggregates,in which the carbon is stabilized and sequestered in the long period. This result is consistent with the findings of Devine et al. (2O14) who reported higher levels of SOC in the macroaggregates $( > 2 5 0 ~ \\mu \\mathrm { m } )$ ： ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In contrast to the above-mentioned results,Aminiyan et al. (2Ol5) reported higher levels of aggregate-associated SOC in the larger aggregate size fractions $( > 2 0 0 0 ~ \\mu \\mathrm { m } )$ . Thisresult indicated that the macroaggregate fractions contain a higher amount of organic carbon than the microaggregate fractions. This may be caused by enhanced strength or stability of aggregates due to the humidification of crop residues,which improves the amount of organic carbon in the macroaggregates in the treated soil (Kushwaha et al., 2Oo1). In addition, in contrast to the larger aggregates, the smaller aggregates contain smaller carbon aggregates (Bronick and Lal, 2005). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In this study, there were differences in the SOC and TN contents in the macroaggregates between the conservation tillage practices, but the effect was most pronounced for no tillage with straw retention treatment. This was because the straw-retained treatment under the no tilage practice resulted in a reduction in the deterioration of soil aggregates,thereby the stability and content of the associated SOC were enhanced.This finding agrees with other studies where it was found that the effects of tillage on the soil nutrient content and organic carbon varied highly among aggregates (Devine et al., 2014; Song et al.,2016). Our studies also found that regardless of tillage practices, the greatest contents of SOC and TN were in the SA $( 2 5 0 - 2 0 0 0 ~ \\mu \\mathrm { m } )$ fraction for all soil layers. This finding indicates that the macroaggregates constitute the major portion of the SOC and TN pools, regardless of the tillage practices. Six et al. (20o0) suggested that the main carriers of SOC are the microaggregate fractions.For soils in the layer of $1 0 { - } 3 0 ~ \\mathrm { c m }$ , the TS treatment resulted in more soil aggregates than the T treatment. Present results also show that with increases in the straw incorporation or retention, the SOC and TN contents were also enhanced, and the aggregateassociated SOC content was increased. The higher levels of SOC and TN in the straw retention treatments support the hypothesis that increased carbon inputs result in an enhanced SOC content. For the study area, Yeboah et al. (2016b) also found that, compared with the conventional tillage, 14 years of reduced tillage led to a greater SOC content in the upper soil layer. The results could be due to a lower content of soil water-stable aggregates and organic carbon as a result of the conventional tillage treatment. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Previous research has shown that the conservation tillage can boost farmland productivity (Yeboah et al.,2O16b).In the present study,compared to the conventional treatments with straw removed, straw retention in soils improved the grain yield and saturated hydraulic conductivity, and decreased the soil bulk density (Tables 6 and 7).Moreover, no tilage combined with residue retention improved and stabilized crop yields under rain-fed conditions.The differences in grain and stubble yields may be related to the improved soil quality (Yeboah et al.,2016b). The results of the present study indicate that in semi-arid areas, no tilage with straw retention has a significant effect on the distribution paterns of the soil quality parameters reported here and may play a crucial role in sustaining agricultural productivity. ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/3537a4d2eb7e93f4854381955f56a2f4618271bf36c60cd6bb3b5e104e2f4379.jpg",
+        "table_caption": [
+            "Table 6Straw and grain yield of spring wheat under different tillage and straw management practices "
+        ],
+        "table_footnote": [
+            "Note:Different lowercase letters in the same column represent significant differences at $P { < } 0 . 0 5$ level among different treatments; $\\scriptstyle n = 3$ "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Treatment</td><td colspan=\"2\">Yield (kg/hm²)</td></tr><tr><td>Straw</td><td>Grain</td></tr><tr><td>T</td><td>4485℃</td><td>1275b</td></tr><tr><td>TS</td><td>6028b</td><td>1980a</td></tr><tr><td>NT</td><td>4782℃</td><td>1346b</td></tr><tr><td>NTS</td><td>6442a</td><td>2078a</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/f0b6b0f273e1d2c555c116df8eafa0d2bf0d579da10c170485b9f2ba6a5ca474.jpg",
+        "table_caption": [
+            "Table 7Effects of different tillage and straw management practices on soil bulk densityand saturated hydraulic conductivity "
+        ],
+        "table_footnote": [
+            "Note:Different lowercase letters in the same column represent significant differences at $\\scriptstyle P < 0 . 0 5$ level among different treatments. $\\scriptstyle n = 3$ "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">Treatment</td><td colspan=\"9\">Soil bulk density (g/cm3)</td><td colspan=\"3\">Saturated hydraulic conductivity (mm/h)</td></tr><tr><td colspan=\"3\">0-5 cm</td><td colspan=\"3\">5-10 cm</td><td colspan=\"3\">10-30 cm</td><td rowspan=\"2\">2014</td><td rowspan=\"2\">2015</td><td rowspan=\"2\">Mean</td></tr><tr><td></td><td>2014</td><td>2015 Mean</td><td>2014</td><td>2015</td><td>Mean</td><td>2014</td><td>2015</td><td>Mean</td></tr><tr><td>T</td><td>1.29a</td><td>1.31a</td><td>1.30a</td><td>1.31a</td><td>1.36a</td><td>1.34a</td><td>1.37a</td><td>1.36a</td><td>1.37a</td><td>57.51°</td><td>68.06c</td><td>62.78</td></tr><tr><td>TS</td><td>1.17c</td><td>1.26a</td><td>1.22b</td><td>1.20b</td><td>1.27b</td><td>1.24b</td><td>1.31a</td><td>1.34a</td><td>1.34a</td><td>63.84b</td><td>75.38b</td><td>69.61bc</td></tr><tr><td>NT</td><td>1.24b</td><td>1.27a</td><td>1.26a</td><td>1.30a</td><td>1.29b</td><td>1.30a</td><td>1.37a</td><td>1.29a</td><td>1.32a</td><td>72.68b</td><td>76.17ab</td><td>74.43b</td></tr><tr><td>NTS</td><td>1.15c</td><td>1.11b</td><td>1.13</td><td>1.17</td><td>1.16c</td><td>1.17</td><td>1.21a</td><td>1.22a</td><td>1.22a</td><td>86.06a</td><td>88.66a</td><td>87.36a</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Low contents of SOC and TN and consequently weak soil structural stability are common attributes of semi-arid soils. The effect of 15 years of conservation tillage practices have led to changes in the SOC content and the aggregate characteristics of soils in the western Loess Plateau, northwestern China.Our results show that the NTS treatment enhanced the contents of SOC and TN in the soil macroaggregates. The NTS treatment and, to a lesser extent, the TS treatment increased significantly soil macroaggregation and the levels of aggregate-associated SOC and TN compared with the T treatment. These treatments also enhanced the MWD. The NTS treatment increased straw and grain yields compared with the NT and T treatments, but these were not significantly diferent from those of the TS treatment. The result that the higher levels of SOC and TN in the macroaggregate size fractions for the NTS treatment compared to the T treatment implies that the NTS treatment may be the ideal route for the enhancement of farmland productivity in semi-arid soil ecosystems as a result of improved soil structure. This would result in the maintenance of high nutrient levels and thus would subsequently help to achieve higher crop yields in semi-arid lands. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This research was financially supported by the Scientific Research Start-up Funds for Openly-Recruited Doctors (GAU-KYQD-2018-39),the National Natural Science Foundation of China (31571594,41661049）and the National Science and Technology Supporting Program of China (2015BAD22B04-03). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "AminiyanMM,Sinegani AAS,SheklabadiM.2O15.Aggregationstabilityandorganiccarbon fraction inasoilamended with someplantresidues,nanozeolite,and naturalzeolite.InternationalJournalofRecyclingofOrganic Waste inAgriculture,4(l): 11-22.   \nBandyopadyayPK,SahaS,ManiPK,etal.2l.Efectoforganiciputsoaggregateassciatedorganiccarbonconctration under long-term rice-wheat cropping system. Geoderma,154(3-4): 379-386.   \nBhattacharyaR,DasTK,PramanikP,etal.2Ol3.Impactsofconservationagricultureonsoilaggregationandaggateassociated Nunderan irrigatedagroecosystemof the Indo-GangeticPlains.Nutrient Cycling inAgroecosystems,96(2-3): 185-202.   \nBlanco-Canqui H,Lal R.2oo7.Soil structure and organic carbonrelationships following 10 years of wheat straw management in no-till. Soil and Tillage Research,95(1-2): 240-254.   \nBotinelliN,AngersDA,HallaireV,etal.Ol7.TillageandfertilztionpracticefctsoilggegatesabilityinHi Cambisol of Northwest France.Soil and Tillage Research,17O:14-17.   \nBremnerJM,Breitenbeck GA.1983.Asimple method fordeterminationofammonium insemimicro-Kjeldahlanalysis of soils and plant materials using ablock digester.Communications in Soil Science and Plant Analysis,14(1O): 905-913.   \nBronick CJ,Lal R.20o5.Soil structure and management: a review. Geoderma,124(1): 3-22.   \nCambardella CA,EliottET.1994.Carbonandnitrogen dynamics ofsoilorganic materfractions fromcultivatedgrassland soils.Soil Science Society of America Journal, 58(1):123-130. Agricultural Science and Technology Press,137-145.(in Chinese)   \nDevine S,MarkewitzD,HedrixP,etal.2O14.Soilaggregatesandaociatedorganicmaterunderonventionaltilge,no tillage,and forest succession after three decades.PloS ONE,9(1): e84988.   \nElliott E T,Cambardela CA.1991.Physicalseparationofsoil organic matter.Agriculture,Ecosystems &Environment, $3 4 ( 1 -$ 4): 407-419.   \nFAO.1990.Soil mapofthe world:revised legend. World Soil Resources Report 60.Food and Agriculture Organizationof the United Nations,Rome.   \nHeL,CleverlyJ,Chen C,etal.2014.Diverseresponsesof winterwheat yieldand wateruse toclimatechange and variability on the semiarid Loess Plateau in China.Agronomy Journal,106(4): 1169-1178.   \nJacinthePA,LalR,KimbleJM.2o02.Carbon dioxide evolutioninrunofrom simulatedrainfallonlong-termno-tilland plowed soils in southwestern Ohio. Soil and Tillage Research, 66(1): 23-33.   \nJiang X,HuYBedellJH,etal.21Soilorganiccrbonandutrintcontentinaggregate-sizefractionsofsubroicalice soil under variable tillage. Soil Use and Management,27(1): 28-35.   \nKay BD,Angers DA,GroeneveltPH,etal.1988.Quantifying the influenceofcropping historyonsoil structure.Canadian Journal of Soil Science,68(2):359-368.   \nKushwaha C,TripathiSK,inghKP1.Soilorganicmaterandwater-stableaggegatesunderdiffrenttilgeadesidue conditions in a tropical dryland agroecosystem.Applied Soil Ecology,16(3): 229-241.   \nLi X G,Wang ZF,Ma QF,etal.2o7.Cropcultivationandintensive grazingaffctorganicCpoolsandaggregatestabilityin arid grassland soil. Soil and Tillage Research,95(1-2): 172-181.   \nMcBratney A,Field D.2015.Securing our soil. Soil Science and Plant Nutrition,61(4): 587-591.   \nMeng Q,SunY,ZhaoJ,etal.20l4.istributionofcarbonandnitrogen inwater-stableaggregatesandsoilstabilityuderlongterm manure applicationinsolonetzic soilsof theSongnenplain,northeast China.JournalofSoilsand Sediments,14(6):1041- 1049.   \nNouwakpoSK,SongJ,GozalezJM.2O18.Soilstructuralstabilityesment withthefluidizedbed,aggregatestabilitynd rainfall simulation on long-term tillage and crop rotation systems.Soil and Tillage Research,178: 65-71.   \nSarkerTC,Incerti G,SpcciniR,etal.2018.Linkingorganic matterchemistrywithsoilaggregate stability: Insight from $^ { 1 3 } \\mathrm { C }$ NMR spectroscopy. Soil Biology and Biochemistry,117: 175-184.   \nShang W,LiY,ZhaoXetal.217.EfctsofCaraganmicrophyllaplantationsnrganiccarbosequestrationiotaland labile soilorganiccarbon fractions in the Horqin Sandy Land,northern China.Journal ofAridLand,9(5):688-700.   \nSixJ,Pustlottta.lcteacstrbogatdte associated carbon. Soil Science Society of America Journal, 64(2): 681-689.   \nSomasundaramJ,ChauharyRS,KumarDA,etal.2018.Effectofcontrastingtillageandcroppingsystemsonsoilaggregation, carbon pools and aggregate-associated carbon in rainfed Vertisols.European Journal ofSoil Science,69(5): 879-891.   \nSong K,YangJ,XueY,etal.216Ifuenceoftilgpracticesandstraincorporationonsoilaggregatesganicabd crop yields in a rice-wheat rotation system. Scientific Reports,6: 36602.   \nTisdallJM,Oades JM.1982. Organic materand water-stableaggregates insoils.Journal ofSoil Science,33(2):141-163.   \nWalkleyA,BlackIA.934.Anexaminationof the methodfordetermining soilorganic mater,andaproposed modificationof the chromic acid titration method. Soil Science,37: 29-38.   \nYeboah S,Zhang R,CaiL,etal.2O16a.Greenhousegasemisionsinaspring wheat-fieldpeasequenceunderdiferentillage practices in semi-arid Northwest China. Nutrient Cycling in Agroecosystems,106(1): 77-91.   \nYeboah S,ZhangR,CaiL,etal.2016b.Tilageeffectonsoilorganiccarbon,microbialbomasscarbonandcropyieldspring wheat-field pea rotation. Plant Soil Environment, 62(6): 279-285.   \nZeng QC,DarbouxF,ManC,etal.2018.Soilaggregate stabilityunder diferentrainconditionsforthreevegetation typeson the Loess Plateau (China). Catena,167: 276-283.   \nZhang RZ,Huang GB,CaiLQ,et al.2O13.Dry farmland practice involving multi-conservationtillage measures in theLoess Plateau.Chinese Journal of Eco-Agriculture,21(1): 61-69.(in Chinese)   \nZhang S,Li Q,Zhang X,etal.212.Effectsofonservationtilageonsolaggregationandaggregatebindingagentsnblack soil of Northeast China. Soil and Tillage Research,124(4): 196-202.   \nZhao X Z,LiFM,MoF,etal.2O12.Integrated conservationsolutions forthe endangeredLoessPlateauof Northwest China. Pakistan Journal of Botany, 44(3): 77-83.   \nZheng HB,LiuWR,Zheng JY,etal.2018.Efectoflong-termtillagensoilaggregatesandaggregate-associatedcarbonin black soil of Northeast China.PloS ONE,13(6): e0199523. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

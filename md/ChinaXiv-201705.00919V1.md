@@ -1,0 +1,123 @@
+# 天然气管线四级离心压缩机级间气动影响研究
+
+王晟旻1,2 琚亚平¹刘 会³张楚华1
+
+(1．西安交通大学能源与动力工程学院，西安710049;2．沈阳鼓风机集团股份有限公司，沈阳100869；3．中国船舶重工集团公司第七〇四研究所，上海 200031)
+
+摘要本文以某天然气管线用四级离心压缩机为研究对象，通过数值分析压缩机在整机模型、逐级叠加模型和单独模型下的流场和气动性能，研究多级离心压缩机的级间气动影响规律及作用机制。结果表明，在设计工况下，逐级叠加模型的预测精度具有一定的可信度，而在非设计工况下，级间气动影响显著，逐级叠加模型得到的整机总压比低于整机模型；相对于单独模型，整机模型的第二级进口相对马赫数和气流角沿叶高方向分布更为不均，在近喘工况尤为明显；级间影响会破坏通流区流动稳定性，在多级离心压缩机设计过程中应充分考虑级间影响。研究工作对深入了解级间气动影响并完善多级离心压缩机气动性能预测模型具有参考价值。
+
+关键词多级压缩机；级间影响；整机模型；逐级叠加模型；单独模型中图分类号：TH452 文献标识码：A 文章编号：0253-231X(2 04-0762-05
+
+# Study on the Inter-Stage Aerodynamic Iiteraction of a Natural Gas Pipeline Four-Stage Centrifugal Compressor
+
+WANG Sheng-Min1,2 JUXBing1 LIU Hui³ ZHANG Chu-Hua1 (1. School of Energy and Power Egimeering,Xi'an Jiaotong University， Xi'an 710049,China; 2.Shenyang BloweW6rks Group Co.,Ltd.， Shenyang 100869, China; 3.Shanghai Marie Equipment Research Institute， Shanghai 20oo31,China)
+
+AbstractA natural gaspipeline four-stage centrifugal compressor is numerically investigated in this paper. The flow field and aerodynamic performance using three different models, i.e.， the whole compressor model, the successive stage accumulation model and the single stage model,are particularly compared in order to study the efect of inter stage interaction on the aerodynamic performance of multi-stage compressr. The results show that the successive stage accumulation model can be used to predict the compressor performance atthe design condition with an acceptable degree of fidelity， but predicts a lower total pressur&rise at the of-design condition than the whole compressor model due to the real inter stage interaction. Compared against the single-stage model,the Mach number distributions and cfroumferentially averaged flow angles with the whole compressor model are found to be more non-uniform from hub to shroud at the inlet of the second stage,especially at near-surge point. The fow stability can become even deteriorated as a result of inter stage interaction and should be carefully considered within the design process of compressor. The present work is of reference value for a deep understanding of the inter stage interaction as wellas an improvement in the performance prediction model for the multi-stage centrifugal compressor.
+
+Key wordsmulti-stage centrifugal compressor; inter stage interaction; successive stage accumulation model; single stage model
+
+# 0引言
+
+天然气作为一种清洁、高效的能源必将是国家 已建天然气输送工程中大部分压缩机仍需进口，因未来大力发展的产业，而长输管线用离心压缩机也 而研发具有自主知识产权的高效、可靠的管线压缩将成为关系国家经济命脉的关键设备[1]。目前我国 机组成为国内压缩机行业的一大挑战。
+
+天然气管线压缩机多为多级结构，目前，国内外学者的研究主要针对单级离心压缩机[2-4]，而对于多级离心压缩机的研究还比较少。其中，王企鲲等[5]通过CFD方法重点研究了多级离心压缩机两类弯道内的气动特点。Zhang等[数值研究了多级制冷离心压缩机内部流动，发现在大流量工况下，级进出口不均匀性对整机性能影响明显；进口气流的径向分布对性能影响不大，而周向不均匀性影响显著。邢鹏等[7]以三级天然气管线压缩机安全运行工况技术为研究重点，采用非定常流动模型及单向流固耦合方法，研究了叶轮叶片在离心力和非定常气动力联合作用下的结构交变应力。彭君伟等[8]数值研究了多级离心压缩机级间的相互影响，对比了均匀进气的单级模型同多级模型的级效率及压缩机内部流场分布，结果显示两种模型的同一级设计工况性能差异较小，大流量工况差异增大。以上研究均表明多级环境下压缩机级性能将发生变化，所以针对离心压缩机级间影响的研究更贴近多级离心压缩机运行的实际状态，对离心压缩机的理论研究和程应用具有指导意义。 学报
+
+本文建立了天然气长输管线用四级离心压缩机通流区的整机、逐级叠加及单独计算模型，数值研究级间影响对离心压缩机性能的改变及影响机制。
+
+# 1几何模型
+
+![](images/cd3d63d917ad407ce56b963005f50a14ca9896c0a616869ff6a5491b57b929ef.jpg)
+
+本文研究对象是某长输管线加压站用四级离心压缩机，前三级由叶轮、叶片扩压器、弯道及回流器构成，第四级在叶片扩压器出口连接排气蜗室，动静叶共11排，图1为除进出口蜗室之外的通流区子午视图。
+
+![](images/af8089363aaeb5938dbebcebbbb259e00e84351b56a05f102cc98c6dab369c79.jpg)  
+图1四级天然气离心压缩机通流区几何模型 Fig.1 Through-flow geometry of the natural gas pipeline four-stage centrifugal compressor
+
+# 2 计算模型
+
+根据上述离心压缩机几何模型建立整机及各级单通道求解模型。如图2所示，整机模型的计算域包含从第一级叶轮进口至第四级扩压器出口的压缩机整机通流区，从整机模型中分别截取各级，得到各级单独计算模型。
+
+![](images/017044565e6487e9c4660e4885e836dea401aab7c0e70e61c281c907e5f4cd31.jpg)  
+图2计算区域及网格划分 Fig.2 Computational domain and grids
+
+采用商用CFD软件NUMECA求解三维RANS方程，湍流模型采用 $k { - } \varepsilon$ 模型[9]。采用有限体积法对方程进行离散，其中对流项采用二阶中心格式结合人工黏性法离散，黏性项采用二阶中心格式进行离散，时间项采用四阶显式Runge-Kutta法进行推进。整机计算模型进口给定总温 $\scriptstyle { T _ { \mathrm { t , i n } } = 2 9 3 . 1 5 ~ \mathrm { K } }$ ，总压 $P _ { \mathrm { t , i n } } { = } 3 9 0 0 0 0 0 0 \ \mathrm { P a }$ ，沿轴向进气；出口给定质量流量；壁面及周期性边界分别满足无滑移绝热条件和旋转周期性条件。按照 $k { - } \varepsilon$ 模型的要求，近壁区第一层网格节点距离壁面的无量纲高度 $y ^ { + }$ 取50。首级单独模拟时边界条件与整机模型相同，后续级进口边界条件设为上级出口各参数的平均值。计算介质采用压缩机输运的天然气实际气体。经过网格无关性验证，四级离心压缩机整机模型通流区域的网格数约为750万，前三级单独计算模型网格数约为200方，第四级计算模型约为150万。
+
+图3为四级离心压缩机整机出口总压随质量流量变化曲线，对比数值模拟结果和生产厂数据，可以看出在稳定运行工况下，两者结果接近，表明本文采用的数值方法具有较高的精度。
+
+![](images/84d312ee553bba527c706b5976172d59f6cf308a1e4472c44d342f7f8ac99119.jpg)  
+图3整机出口压力数值模拟结果与厂家预测对比 Fig.3 Comparison of the whole compressor outlet pressure between numerical results and manufacturer data
+
+# 3级间影响对压缩机性能的改变
+
+# 3.1整机性能分析
+
+通过整机数值模拟，可以得到整机模型在设计流量 $1 0 8 . 9 8 \mathrm { k g } { \cdot } \mathrm { s } ^ { - 1 }$ 时等熵效率为 $8 8 . 1 1 \%$ ，最高总压比为2.74。
+
+图4为四级离心压缩机整机总压比和各级单独计算模型叠加总压比对比曲线。可以看出在设计工况两种模型的总压比吻合良好，通过单级压比叠加得到的四级离心压缩机整机压比曲线具有一定可信度。但在小流量及大流量工况下整机模型的总压比明显低于各单级叠加结果，可见在变工况时级与级之间的相互影响较为显著，导致多级离心压缩机的稳定工况范围缩小。因此，在多级离心压缩机设计过程中应充分考虑各级之间的相互影响。
+
+各工况下四级离心压缩机各级总压比分配如图5所示，可以看出压缩的前两级总压比相近，第三、第四级总压比逐级减小，从气动角度来看，这种压比分配方式较为合理，因为无中间冷却的多级离压缩机内的气流在压缩过程中温度逐级上升，如果后续级要达到前面级同样的压比则需消耗更多的功。由此看来，在无中间冷却的多级离心压缩机设计时应尽量按压比逐级减小的规律分配各级压比。
+
+![](images/d3bd65365f03fe93857ff3bf35e7464121f7127f1490e38262d830f08f6d4820.jpg)  
+图4整机总压比与各单级叠加总压比对比 Fig.4 Comparison of the total pressure ratio between the whole compressor model and the accumulation of single-stage models
+
+大两者的差距减小。
+
+![](images/a85bf75ae9e7cb8bff3c73ff64584b3e6a55edef01ce657cd8df74abe4a84a68.jpg)  
+图5各工况下整机模型各级压比分配
+
+图7为第二级两种模型在近喘和近堵工况下周平均流线分布，可以看出单独计算模型的流场相对均匀，而整机模型则存在更多的分离流动，如近喘工况的叶轮出口和弯道盖侧区域、近堵工况弯道盖侧都存在更强烈的分离流动。进一步对比整机模型在不同工况下子午流线分布，可以发现随着流量增大整机模型的周向平均流动分离减少，流线分布趋于均匀，因而，近堵工况下两种模型的总压比差异较小。
+
+![](images/ae2e35178a61af03ed64be556adcca4b5e7878e9ca6d0ae62e1de3a76ac59656.jpg)  
+Fig.5 The pressure ratio distribution for each stage using the whole compressor model   
+图6第二级两种模型总压比  
+Fig.6 The second stage total pressure ratios with two models
+
+# 3.2级间影响分析
+
+本节以第二级为例，对比分析整机模型和单独模型级性能的差别，并进一步对流场进行详细的研究。
+
+图6为两种计算模型的级总压比曲线，从图中可以看出，当第二级处于整机环境中各流量点的总压比均小于第二级的单独计算模型，在小流量工况下两者总压比相差最大，约为 $2 . 0 \%$ ，随着流量的增
+
+图8为近喘工况和近堵工况下叶轮 $9 0 \%$ 叶高两种模型的相对马赫数对比图。可以看出两种模型在近喘工况下叶轮 $9 0 \%$ 叶高截面上的叶轮进口区域相对马赫数分布比较均匀，与单独计算模型相比整机模型在叶轮出口区域的流动更加不均匀，流道中间区域存在一个明显的低速区。
+
+图9为近喘工况和近堵工况第二级两种模型进□S3截面的相对马赫数分布。观察发现两种模型的相对马赫数都是沿叶高方向逐渐增加，但单独模型的相对马赫数分布相对于整机模型更加均匀。可见，整机模型各工况下进口S3截面的相对马赫数沿叶高方向分布存在更大的不均匀性。
+
+![](images/586650cf7590bbac5408f0a50ae920a16140814ee5d1b1f0c841b2f2e3a6f13e.jpg)  
+图7近喘及近堵工况周向平均子午流线分布
+
+![](images/d78b1d39bd9da4da4adf178a550bba76f2235107496c6350ef27ffb9366460a2.jpg)  
+Fig.7 The circumferentially averaged meridional streamline distributions at near-surge and near-choke conditions   
+图8第二级近喘及近堵工况 $9 0 \%$ 叶高相对马赫数分布 Fig.8 The contours of relative Mach number distributions at $9 0 \%$ span of the second stage at near-surge and near-choke conditions   
+Fig.9 The contours Of relative Mach number distributions at × the inlet of the second stage   
+图10 第二级进口周向平均切向及子午速度沿叶高分布 Fig.1O The circumferentially averaged tangential and meridional velocity distributions from hub to shroud at the inlet of the second stage
+
+为进一步研究离心压缩机级间影响机理，以各级总压比差别明显的近喘工况为例分析两种模型所得级进口速度空间分布情况。图10给出了近喘工况下第二级进口周向速度 $V _ { \mathrm { t } }$ 和子午速度 $V _ { \mathrm { m } }$ 的周向平均值沿相对叶高 $H$ 的分布，从图中可以看出两种模型所得的级进口周向速度存在较大差异，单独计算模型在数值模拟过程中给定进口气流角，因此，单独模型的进口周向速度沿高度基本没有变化。而整机模型的级进口气流来自上一级的回流器，气流的周向速度大小随着径向高度的变化而改变，表现出明显的非均匀性。另一方面，两种模型的子午速度 $V _ { \mathrm { m } }$ 沿径向高度的变化趋势基本一致，都是沿叶高逐渐增大，此结果与级进口截面的相对马赫数分布规律一致。
+
+![](images/ff18ca8194e7e4218255aad8aa941edd1e1bbbe80d6ccb6f2656edaa95ea7f3b.jpg)  
+图9第二级进口相对马赫数分布
+
+120整机模型V100 单独模型V 10080 整机模型Vm 80  
+1 60 单独模型Vm 60 [_S.uI/  
+_s·/ 40 品 40 Vm  
+V 20 日·日·日·日··日·日·· 2098 ·30 00 0.2 0.4 0.6 0.8 巴包 1-20 -20H-40 E H -40
+
+图11进一步给出了近喘工况下两种模型所得进□气流角随叶高变化曲线，从图中可以看出单独模型的进口气流角沿径向没有变化，这体现了该模型进口均匀进气的边界条件。而整机模型的进口气流角从盘侧到盖侧逐渐减小，并在 $7 5 \%$ 径向高度处变为轴向进气，随着高度继续增大进口气流角变为负值，气流处于负预旋状态。可见整机模型的进口气流角相对于单独模型存在较大的不均匀性。
+
+![](images/9184a88740d1592f6ce6435384146f57949e581a5bc3a2480f1ba359060e0779.jpg)  
+图11 第二级进口周向平均气流角沿叶高分布 Fig.11 The circumferentially averaged flow angle distributions from hub to shroud at the inlet of the second stage
+
+# 4结论
+
+1）在设计工况，通过逐级叠加模型得到的四级离心压缩机整机性能具有一定的可信度；在非设计工况下，级间影响增强，逐级叠加模型得到的总压比低于整机模型。 1热
+
+2）对于第二级进口截面，整机模型所得相对马赫数沿叶高方向分布更为不均；在近喘工况，整机模型所得级进口切向速度和气流角沿叶高分布的不均匀程度明显增大。
+
+3)级间影响会破坏通流区流动稳定性，在近喘工况尤为明显。这表明在多级离心压缩机设计过程中应充分考虑级间影响所引起的压缩机性能改变。
+
+# 参考文献
+
+[1]王晟旻．离心压缩机级间影响及泄漏特性分析[D西安交通大学，2016
+
+WANG Shengmin. Analysis of Inter Stage Interaction and Leakage Characteristics of Centrifugal Compressor [D]. Xi'an:Xi'an Jiaotong University, 2016 [2] Zheng X,Liu A.Phenomenon and Mechanism of TwoRegime-Surge in a Centrifugal Compressor [J]. Journal of Turbomachinery, 2015,137(8): 081007-1-7 [3] Hiradate K,Kobayashi H,Sugimura K,et al.Proposal and Experimental Verification of Design Guidelines for Centrifugal Compressor Impellers With Curvilinear Element Blades to Improve Compressor Performance [J]. Journal of Turbomachinery, 2015,137(5):5-9 [4] Casey M,Rusch D.The Matching of a Vaned Diffuser With a Radial Compressor Impeller and Its Effect on the Stage Performance [J].Journal of Turbomachinery, 2014,   
+136(12): 2-15 [5]王企鲲，陈康民，戴韧.多级离心压缩机级间静止部件气动 特性与旋涡结构的数值研究[J]．上海理工大学学报，2006,   
+28(2):115-119 WANG Qikun,CHENKangmin,DAI Ren.Numerical Investigation for Aerodynamic Performangce of the StationIomponents and Vortex structure Inside a Multistage Jentrifugal Compressor [J]. Journal University of Shanghai for Science and Technology, 2006,28(2):115-119 ] Zhang PF,Duan WL,Wang ZH,et al. Numerical Investigation on the Stage Match in Multi-Stage Centrifugal Compressors [C]//ASME Paper GT2014-26614,2014 [7]刑鹏，李涛,刘会,等.三级离心压缩机非定常流动与交变应 力的数值研究[J]．工程热物理学报，2016,37(4)：760-765 XING Peng, LI Tao,LIU Hui, et al. Numerical Investigation ofUnsteady Flowand Alternating Stress ofa ThreeStage Centrifugal Compressor [J].Journal of Engineering Thermophysics. 2016,37(4):760-765 [8]彭君伟，吴沛佳,赵燕杰，等．多级离心压缩机级间影响的 数值研究[J]．风机技术,2014,54(S1)：13-20 PENG Jmwei, WU Peijia, ZHAO Yanjie,et al. Numerical Research on Interaction Between Stages of a Multistage Centrifugal Compressor [J].Compressor，Blower & Fan Technology, 2014, 54(S1):13-20 张楚华，锯亚平．流体机械内流理论与计算[M]．北京：机 械工业出版社，2016 ZHANG Chuhua,JU Yaping. Theory and Computationof Internal Flowin Fluid Machinery [M].Beijing:China Machine Press,2016

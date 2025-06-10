@@ -1,0 +1,296 @@
+[
+    {
+        "type": "text",
+        "text": "Polyethylenimine as a dual functional additive for electron transporting layer in efficient solution processed planar heterojunction perovskite solar cellst ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sujuan Dong.ab Yangyang Wan,ab Yaling Wang,ab Yin Yang.ab Yahui Wang,ab Xinyu Zhang,ab Huanqi Cao,ab Wenjing Qin,ab Liying Yang,\\*ab Cong Yao,\\*c Ziyi Ge\\*d and Shougen Yin\\*ab ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We report a doping method to enhance the performance of solution processed planar heterojunction perovskite solar cells.By dopinga small percentage $( 3 \\text{‰}$ of polyethylenimine (PEl) as additive into the PCBM electron transport layer of an inverted perovskite solar cell, which led to significant enhancements of power conversion efficiency from $( 5 . 9 \\pm 0 . 2 ) \\%$ to $( 1 0 . 4 \\pm 0 . 2 ) \\%$ .The AFM images show that the PEl doped $\\mathsf { P C B M }$ layer can help to form a high quality, homogeneous and compact electron transporting layer on the rough $\\mathsf { C H } _ { 3 } \\mathsf { N H } _ { 3 } \\mathsf { P b l } _ { 3 }$ layer,which results in enhanced hole blocking ability and reduced leakage current at the interfaces between the ${ \\mathsf { C H } } _ { 3 } { \\mathsf { N H } } _ { 3 } { \\mathsf { P b l } } _ { 3 } .$ $\\mathsf { P C B M }$ films and the top Al electrode. Organic field-effect transistors (OFETs) measurements reveal that the addition of $1 - 3 \\mathrm { \\Delta w t \\% }$ PEl into PCBM layer can improve device performance without any negative effect on the electron transport property of PCBM.Steady-state PLanalysis shows that the electron-rich PEl mayalso act as an efective interfacial modifier to passivate the trap states at the perovskite surface or crystal boundaries and to avoid the undesired charge recombination often observed in perovskite solar cels.PEl will also improve performance as a cathode interfacial modifier because the PCE of the device with PEl deposited between PCBM and Al is superior to the device without PEl.This work demonstrated that aminecontaining polymer materials can be used as an eficient dual functional additive in perovskite solar cels. This study provides an efficient way of developing highly efficient $\\mathsf { C H } _ { 3 } \\mathsf { N H } _ { 3 } \\mathsf { P b l } _ { 3 }$ -based perovskite solar cells. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The organic-inorganic hybrid perovskite solar cells have shown great potential as one of the most promising candidates for lowcost solar energy conversion over the past decade.1-4 This kind ofperovskite absorbers have received a great deal of attention because of their superior properties such as direct band gap, broad light absorption,long exciton diffusion lengths $( 1 0 0 -$ $1 0 0 0 \\ \\mathrm { n m }$ )，bipolar transport and high carrier mobility.5 The power conversion efficiency (PCE) of perovskite solar cells has been demonstrated with an unbelievable speed increased from $3 . 8 \\%$ to $2 1 . 1 \\%$ in thelastfewyears.FurtherPCE enhancements can be realized by preventing recombination via interface engineering and improving the quality of the perovskite film. The conventional device structure (FTO/compact $\\mathrm { T i O } _ { 2 } /$ mesoporous $\\mathrm { T i O } _ { 2 } /$ perovskite/hole transporting material/anode) has been widely used.However, the fabrication of mesoporous $\\mathrm { T i O } _ { 2 }$ layer needs a high-temperature (over 40o degrees) sintering process which will result in higher cost and slower production. Therefore,as an alternative approach, the inverted planar heterojunction perovskite solar cells with a structure of $\\mathrm { I T O } /$ PEDOT:PSS/perovskite/electrontransportinglayer/cathode onlyrequirescost-efficient lowtemperature fabrication process emerges in response to the needs of time.7-1o The planar architecture is attractive in developing large-area,flexible perovskite and multi-junction (or tandem) construction.The perovskite layer is inserted between a hole-transport layer (PEDOT:PSS) and an electron transporting layer (PCBM). One of the crucial problems lies in the choice of electron transporting layer for inverted perovskite solarcells is so limited.Fullerene and its derivatives with high electron mobility and efficient ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "However,it is questionable to be the final choice for future large scale production of large-area solution processed perovskite solar cells due to its high cost and poor ambient stability. Furthermore,although there have been many efforts to improve the processing technology of the perovskite film in inverted planar heterojunction structure,8,9 yet, it is still a great challenge to obtain a high quality,uniform and pin-hole free perovskite layer through a solution spin-coating process. Therefore, the subsequent PCBM layer deposited on the rough perovskite surface generally shows poor film-forming performance.Interfacial engineering is a powerful strategy to enhance effciency and stability of perovskite solar cells.Li and co-workers employed TIPD as an electron transporting layer to form an ohmic contact with the negative electrode,aiming to enhance the charge extraction and suppress the charge recombination.10 Bai and co-workers fabricated a planar structure perovskite solar cell by adding a small percentage $\\left( \\sim 1 . 5 ~ \\mathrm { w t \\% } \\right)$ of polystyrene (PS) into the PCBM solution.It is found that the addition of PS as a film-forming additive improves the electron transporting layer uniformity and decreases the recombination.11 However, the PS is an insulating polymer and it has not any passivation effect on the trap states at the perovskite surface and crystal boundaries,which have been regarded to be detrimental to charge transporting.12,13 The existence of trap states leads to undesired charge recombination in the perovskite layer and may be a reason for the phenomena of hysteresis.14-16 Noel et al. regards the vacancy of halide to be the origin of the surface defects. The loss of $\\mathrm { I } ^ { - }$ will leave the Pb atoms un-coordinated which may become the centre for recombination of carriers and induce a low current density and fill factor (FF).1³ A convenient and efficient way to passivate surface defects is to treat the perovskite film with electron-rich molecules. The electron-rich materials will provide excess electronsto neutralize the positive ions of perovskite,thereby passivate surface defects. Polyethylenimine(PE1) anditspolyethylenimine ethoxylated (PEIE) has been reported as an efficient interfacial layer to decrease work function of cathode17 and used for interfacial engineering in the field of organic solar cells and perovskite solar cell.8-21 The nitrogen atom of the amine-containing side of PEI is also an electron rich functional group. It may provide electrons to the Pb atoms and form a coordinate or dative-covalent bond with the perovskite surface,thus passivate the surface defects.In this paper,we use PEI as a doping additive in PCBM layer and successfully fabricate efficient planar perovskite solar cells in ambient conditions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experimental ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materials ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PEI (average $M _ { \\mathrm { w } } \\sim 2 5 ~ 0 0 0$ by LS) was obtained from Aldrich Co. Fullerene derivative (PCBM) with purity over $9 9 \\%$ was obtained from Solenne B.V.,Netherlands. $\\mathrm { P b I } _ { 2 }$ 1 $( 9 9 . 9 9 9 \\% )$ was purchased from Aldrich Co. An aqueous dispersion of PEDOT:PSS (Baytron $\\boldsymbol { \\mathcal { \\underline { { \\mathbf { \\Pi } } } } }$ P VPAI 4o83) was obtained from Heraeus Co.All the materials were used as received. $\\mathrm { C H } _ { 3 } \\mathrm { N H } _ { 3 } \\mathrm { I }$ was synthesized using the same method as published in the literature.²² ITOcoated glasswitha sheet resistance of $1 0 \\Omega$ per square isused for device fabrication.The routine cleaning procedure includes ultra-sonication in a solution of detergent,deionized water,and isopropyl alcohol in sequence. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Device fabrication and performance measurements ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { P b I } _ { 2 }$ of $2 3 1 \\mathrm { \\ m g \\ m l ^ { - 1 } }$ in $_ { N , N }$ dimethylformamide (DMF) was stirred at $7 0 ~ ^ { \\circ } \\mathbf { C }$ for $^ { 3 \\mathrm { ~ h ~ } }$ ， $\\mathrm { C H } _ { 3 } \\mathrm { N H } _ { 3 } \\mathrm { I }$ of $3 8 ~ \\mathrm { m g } ~ \\mathrm { m l } ^ { - 1 }$ in isopropanol (IPA) was stirred at room temperature for $^ 3 \\mathrm { ~ h ~ }$ ,PCBM of $2 4 ~ \\mathrm { m g }$ $\\mathrm { m l } ^ { - 1 }$ in $o$ -dichlorobenzene was stirred at ${ 7 0 ~ ^ { \\circ } } \\mathbf { C }$ for $^ { 1 2 \\mathrm { ~ h ~ } }$ PEI dissolved in ethanol with a concentrations of $6 ~ \\mathrm { m g } ~ \\mathrm { m l } ^ { - 1 }$ was added to the PCBM solution from 1 to $5 \\ \\mathrm { w t \\% }$ in the ratio of PCBM. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 shows the structure of the devices and the energy level diagram of the respective device components.The preparation procedure of the device is described as follows.The PEDOT:PSs layerofabout $4 0 \\ \\mathrm { n m }$ was obtained by spin-coating at $3 0 0 0 ~ \\mathrm { r p m }$ for30 s on ITO coated glass substrates,followed by drying at120 $^ { \\circ } \\mathbf { C }$ for 30 minutes on hotplate in air. The $\\mathrm { C H } _ { 3 } \\mathrm { N H } _ { 3 } \\mathrm { P b I } _ { 3 }$ layer was deposited by two-step spin-coating method.First,a layer of $\\mathrm { P b I } _ { 2 }$ was spin-coated on top of the PEDOT:PSS with a spin-rate of $6 0 0 0 ~ \\mathrm { r p m }$ for $3 0 ~ \\mathrm { s }$ After the $\\mathrm { P b I } _ { 2 }$ film was dried at ${ 7 0 } ^ { \\circ } \\mathbf { C }$ for10 minutesin air, $\\mathrm { C H } _ { 3 } \\mathrm { N H } _ { 3 } \\mathrm { I }$ solution was loaded on the $\\mathrm { P b I } _ { 2 }$ film for $2 0 ~ \\mathrm { s }$ (loading time),which was spun at $6 0 0 0 \\mathrm { r p m }$ for 20 s and thenannealed at $6 0 ~ ^ { \\circ } \\mathbf { C }$ for10 minutes followed by $1 0 0 ^ { \\circ } \\mathrm { C }$ for20 minutes.Then $4 0 \\mathrm { n m }$ PCBM film doped with or without PEI was deposited by spin-coating (through controlling the speed and calibrated witha surface profiler) on top of $\\mathrm { C H } _ { 3 } \\mathrm { N H } _ { 3 } \\mathrm { P b I } _ { 3 }$ layer. PEI was deposited between PCBMand Al at $6 0 0 0 \\mathrm { r p m }$ for 30 s for the reference devices with a structure of ITO/PEDOT:PSS/ $\\mathrm { C H } _ { 3 } .$ 1 $\\mathbf { N H _ { 3 } P b I _ { 3 } / P C B M / P E I / A l }$ . Finally, $1 2 0 ~ \\mathrm { { n m } }$ Al layer was thermally evaporated under a vacuum of a pressure of $1 \\times 1 0 ^ { - 4 } \\mathrm { P a }$ . All the fabrication and characterization procedures were performed in anambient atmosphere at room temperature.The thickness for $\\mathrm { C H _ { 3 } N H _ { 3 } P b I _ { 3 } }$ ,PCBMorPEIdopedPCBMlayerisabout $2 6 0 ~ \\mathrm { { n m } }$ and $4 0 \\ \\mathrm { n m }$ ,respectively.The active layer area of the device is $0 . 0 9 \\mathrm { c m } ^ { 2 }$ defined by a shadow mask. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The current density-voltage $\\left( J - { \\tilde { V } } \\right)$ characteristics of the unencapsulated devices were measured under intensity of 100 $\\mathrm { m W } \\mathrm { c m } ^ { - 2 }$ illuminations by using a $3 0 0 \\mathrm { W }$ solar simulator with anAM1.5G filter.The light intensity was calibrated with an Oriel mono-Si reference cell (CROWNTECH PVM 272 certificated by NREL).The absorption spectrum was measured by UV-410o UVvis spectrophotometer. The surface roughness and morphology of the $\\mathrm { P b I } _ { 2 }$ ， $\\mathrm { C H } _ { 3 } \\mathrm { N H } _ { 3 } \\mathrm { P b I } _ { 3 }$ $\\mathrm { C H _ { 3 } N H _ { 3 } P b I _ { 3 } / P C B M }$ and $\\mathrm { C H } _ { 3 } \\mathrm { N H } _ { 3 } \\mathrm { P b I } _ { 3 } / \\$ PCBM $^ +$ $\\left( 1 - 5 ~ \\mathrm { w t \\% } \\right)$ PEI layers were characterized by Bruker INNOVA SPM in tapping mode.The thickness of the above layers was measured by a surface profiler (KLA Tencor Alpha Step D-1oo).Steady-state PL was recorded with a Jobin Yvon FluoroLog-3 fluorescence spectrometer. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e4dc8437743d9e5fa17d2576f805e4a323d798865e6371e875c50af9d475060.jpg",
+        "img_caption": [
+            "Fig.1(a) Device structure of the planar heterojunction perovskite solar cell; (b) schematic energy level diagram of the device. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results and discussion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Deviceperformance ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 shows theJ-Vcurves of the best perovskite solar cell with 3 $\\mathbf { w t \\% }$ PEIadditive andwithoutPEIadditivemeasuredin forward bias.The $J { - } V$ curves of the best perovskite solar cell with $3 \\mathrm { w t \\% }$ PEIadditive were measured in forward and reverse bias with a scan speed of $5 0 0 \\mathrm { \\ m V \\ 5 ^ { - 1 } }$ (Fig. 3). The $J _ { \\mathrm { S C } }$ obtained by integration of the incident photon-to-electron conversion efficiency (IPCE) spectra agrees well with the $J _ { \\mathrm { S C } }$ obtained from the $J { - } V$ measurement in Fig.3(b).The detailed device performance parameters including short-circuit current density $( J _ { \\mathrm { S C } } )$ ，FF， open-circuit voltage $\\left( V _ { \\mathrm { O C } } \\right)$ andPCE are summarized in Table 1. $J { - } V$ curves of the best devices with different PEI doping concentration are shown in Fig.S1 (ESIt).The reference device with pristine PCBMas ETL only achieveda PCE value of $( 5 . 9 \\pm$ $0 . 2 ) \\%$ ,with $V _ { \\mathrm { O C } }$ of $\\left( 0 . 8 1 \\pm 0 . 0 1 \\right) \\mathrm { V } , J _ { \\mathrm { S C } }$ of $\\left( 1 4 . 3 4 \\pm 1 . 1 3 \\right) \\mathrm { m A c m } ^ { - 2 }$ and FF of $( 5 0 . 9 \\pm 0 . 9 ) \\%$ .As showed in Fig.2and Table1,for the device with the addition of PEI to PCBM, the best efficiency is obtained when PEI doping concentration is $3 \\mathrm { w t \\% }$ .The addition of $3 \\ \\mathrm { w t \\% }$ PEI increases the $V _ { \\mathrm { O C } }$ from $( 0 . 8 1 \\pm 0 . 0 1 ) \\$ to $( 0 . 9 6 ~ \\pm$ 0.02) V, the $J _ { \\mathrm { S C } }$ from ( $\\cdot 1 4 . 3 4 \\pm 1 . 1 3 )$ （20 $\\mathrm { m A } ~ \\mathrm { c m } ^ { - 2 }$ to $( 1 5 . 5 4 \\pm 0 . 3 5 ]$ $\\mathrm { \\ m A } \\mathrm { c m } ^ { - 2 }$ and the FF from $( 5 0 . 9 \\pm 0 . 9 ) \\%$ to $( 6 8 . 9 \\pm 0 . 7 ) \\%$ ,and led to a PCE of $( 1 0 . 4 \\pm 0 . 2 ) \\%$ ,which representsa significant enhancement in PCEs over the pristine PCBM-based device. This efficiency improvement can be attributed to the simulta neous increase of the $V _ { \\mathrm { O C } } ,$ FF and $J _ { \\mathrm { S C } }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig. S2 $\\left( \\mathrm { E S I } \\dagger \\right)$ shows the $J { - } V$ curve of the best device with a structure of ITO/PEDOT:PSS/ $\\mathrm { \\langle C H _ { 3 } N H _ { 3 } P b I _ { 3 } / P C B M / P E I / A l }$ .The detailed device performance parameters are summarized in Table S1 $\\left( \\mathrm { E S I } \\dagger \\right)$ together with the control device.Compared with the control device,the PCE increased from $6 . 1 \\%$ to $7 . 0 \\%$ ，with the $V _ { \\mathrm { O C } }$ increased from $_ { 0 . 8 1 \\mathrm { V } }$ to $0 . 8 4 \\mathrm { V } , J _ { \\mathrm { S C } }$ increased from 14.51 $\\mathrm { m A } \\mathrm { c m } ^ { - 2 }$ to $1 4 . 9 6 ~ \\mathrm { m A } ~ \\mathrm { c m } ^ { - 2 }$ ,and FF from $5 2 . 3 \\%$ to $5 5 . 7 \\%$ .The improvement of the performance with PEI deposited between PCBM and Al indicates that PEI will also modify the cathode interface to improve the performance when used as an additive in PCBM. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8868ae494ce0896d94310b8e16bc30d1a82f1ee5ce5139d9dd7bc94c756e1df5.jpg",
+        "img_caption": [
+            "Fig.2 The current density-voltage $( J - W )$ curves of devices for the best device with $3 w t \\%$ PEl doping concentration and without doping. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/694e503ce30daffe15ff670bc5df9c36cc72aaa5aa8b1676151f3e75140815cd.jpg",
+        "img_caption": [
+            "Fig.3(a) The current density-voltage $( J - W$ characteristics and (b) external quantum efficiency curve of devices for the best device with 3 wt%PEl doping concentration. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To investigate the electron transport ability of the pristine PCBMandPEI doped PCBM,we fabricated organic field-effect transistors (OFETs) in the bottom-gate,top-contact configura tionusing PCBM and PEI doping PCBM as channel materials. All devices employed heavily doped n-type Si substrate as the gate electrode, $3 0 0 \\mathrm { n m }$ thick $\\mathrm { S i O } _ { 2 }$ as the insulating layer.Finally, $1 5 0 ~ \\mathrm { \\ n m }$ Al layer was thermally evaporated under vacuum defined by a shadow mask to obtain the source electrode and the drain electrode.The transfer characteristics of representative devices ( $\\dot { V } _ { \\mathrm { D S } }$ was fixed at 50 V) are shown in Fig.S3 (ESIt). In the saturation region，the drain to source current $\\left( I _ { \\mathrm { D S } } \\right)$ is determined by eqn (1).Eqn (2) used to calculate carrier mobility can be deduced from eqn (1). ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { \\mathrm { D S } } = { \\frac { W } { 2 L } } C _ { \\mathrm { i } } \\mu ( V _ { \\mathrm { G S } } - V _ { \\mathrm { T } } ) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu = { \\frac { 2 L } { W C _ { \\mathrm { i } } } } \\left( { \\frac { \\partial I _ { \\mathrm { D S } } { } ^ { 1 / 2 } } { \\partial V _ { \\mathrm { G S } } } } \\right) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the above equations, $V _ { \\mathrm { T } }$ is the threshold voltage,obtained from the transfer characteristics curve; $C _ { \\mathrm { i } }$ is the capacitance/ unit area of the oxide layer $\\left( 8 . 6 \\mathrm { ~ n F ~ c m } ^ { - 2 } \\right)$ ; $W$ and $L$ are the channel width $( 5 0 ~ \\mu \\mathrm { m } )$ and channel length $( 5 0 0 0 ~ { \\mu \\mathrm { m } } )$ ，respectively.We can obtain the value of electron mobility by the slope of $I _ { \\mathrm { D S } } ^ { 1 / 2 } { - } V _ { \\mathrm { G S } }$ according to eqn (1). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The electron mobility of all measured films is shown in Table 2.The pristine PCBM film has an electron mobility of $\\left( 6 . 5 \\pm 0 . 3 \\right) \\times 1 0 ^ { - 4 } \\mathrm { c m } ^ { 2 } \\mathrm { V } ^ { - 1 } \\mathrm { s } ^ { - 1 }$ The electron mobility of PCBM film doped with $1 { - } 3 ~ \\mathrm { w t \\% }$ PEIis $\\left( 7 . 3 \\pm 0 . 2 \\right) \\times 1 0 ^ { - 4 } \\mathrm { c m } ^ { 2 } \\mathrm { V } ^ { - 1 } \\mathrm { s } ^ { - 1 }$ $( 7 . 9 \\pm 0 . 3 ) \\times 1 0 ^ { - 4 } \\mathrm { c m } ^ { 2 } \\mathrm { V } ^ { - 1 } \\mathrm { s } ^ { - 1 }$ $\\left( 6 . 8 \\pm 0 . 5 \\right) \\times 1 0 ^ { - 4 } \\mathrm { c m } ^ { 2 } \\mathrm { V } ^ { - 1 } \\mathrm { s } ^ { - 1 }$ respectively.The enhanced electron mobility of $1 \\ \\mathrm { w t \\% }$ and 2 $\\mathrm { w t \\% }$ PEI doping in PCBM film may be attributed to the dipole formed at the interface between the molecular PEI and PCBM which facilitates the electron transporting.Doping $3 \\mathrm { w t \\% }$ PEI in PCBMhas merely higher electron mobility than pure PCBM, but lower than the sample of $1 \\ \\mathrm { w t \\% }$ and $2 \\ \\mathrm { \\ w t { \\% } }$ PEI doping concentration.This result is reasonable because PEI is a kind of insulating polymer.Even so,the addition of $1 { - } 3 \\ \\mathrm { w t \\% }$ of PEI seems to improve device performance without any negative effect on the electron transport property of the PCBM layer. In addition,it has been proved that PEI can lower the work function of Al cathode1 and reduce the contact resistance and facilitate a better ohmic contact formation at the cathode interface.The improved cathode interface results in better devices performance with higher $V _ { \\mathrm { O C } }$ .However，excessive amount of PEI additive ( $4 \\mathrm { w t \\% }$ and $5 \\mathrm { w t \\% }$ )would detrimentally affect the electron transport ability of the PCBMlayerand thus reduce the device performance parameters including $V _ { \\mathrm { O C } }$ and $J _ { \\mathrm { S C } }$ .Asa result, the $4 \\ \\mathrm { w t \\% }$ and $5 \\ \\mathrm { w t \\% }$ PEI doped PCBM films show much lower electron mobility of $( 3 . 8 \\pm 0 . 2 ) \\times 1 0 ^ { - 4 } ~ \\mathrm { c m } ^ { 2 }$ $\\boldsymbol { \\mathrm { V } } ^ { - 1 } \\boldsymbol { \\mathrm { S } } ^ { - 1 }$ $\\left( 1 . 5 \\pm 0 . 2 \\right) \\times 1 0 ^ { - 4 } \\mathrm { c m } ^ { 2 } \\mathrm { V } ^ { - 1 } \\mathrm { s } ^ { - 1 }$ ,respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/587b2cbba912d89798a6c6afc0b41fae928e2ec9e5cf721e9d90f89eb9c207b5.jpg",
+        "table_caption": [
+            "Table1Summary of the device performance for theperovskitesolar cels with different PEldoping concentration "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Doping concentration of PEI</td><td>Voc (V)</td><td>Jsc (mA cm-2)</td><td>FF (%)</td><td>PCE (%)</td></tr><tr><td rowspan=\"2\">Pure PCBM</td><td>Average</td><td>(0.81 ± 0.01)</td><td>(14.34 ± 1.13)</td><td>(50.9 ± 0.9)</td><td>(5.9 ± 0.2)</td></tr><tr><td>Best</td><td>0.81</td><td>14.51</td><td>52.3</td><td>6.1</td></tr><tr><td rowspan=\"2\">PCBM +1wt% PEI</td><td>Average</td><td>(0.87 ± 0.01)</td><td>(14.76 ± 0.54)</td><td>(55.8 ± 1.2)</td><td>(7.3 ± 0.3)</td></tr><tr><td>Best</td><td>0.88</td><td>15.27</td><td>56.5</td><td>7.6</td></tr><tr><td rowspan=\"2\">PCBM+ 2 wt% PEI</td><td>Average</td><td>(0.92 ± 0.02)</td><td>(14.99 ± 0.37)</td><td>(58.3 ± 2.2)</td><td>(8.0 ± 0.3)</td></tr><tr><td>Best</td><td>0.90</td><td>15.52</td><td>58.2</td><td>8.1</td></tr><tr><td rowspan=\"2\">PCBM + 3 wt% PEI</td><td>Average</td><td>(0.96 ± 0.02)</td><td>(15.54 ± 0.35)</td><td>(68.9 ± 0.7)</td><td>(10.4 ± 0.2)</td></tr><tr><td>Best</td><td>0.95</td><td>15.95</td><td>70.4</td><td>10.7</td></tr><tr><td rowspan=\"2\">PCBM+4wt% PEI</td><td>Average</td><td>(0.88 ± 0.02)</td><td>(13.46 ± 0.66)</td><td>(59.1 ± 1.9)</td><td>(7.0 ± 0.4)</td></tr><tr><td>Best</td><td>0.89</td><td>13.95</td><td>59.4</td><td>7.4</td></tr><tr><td rowspan=\"2\">PCBM+5 wt% PEI</td><td>Average</td><td>(0.87 ± 0.01)</td><td>(10.85 ± 0.78)</td><td>(56.8 ± 1.2)</td><td>(5.3 ± 0.4)</td></tr><tr><td>Best</td><td>0.86</td><td>11.65</td><td>58.8</td><td>5.9</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Atomic force microscopy ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To gain deep insights into the PEI doped PCBMlayer,we also take atomic force microscopy (AFM) measurements of the film of perovskite $\\left( \\mathbf { C H } _ { 3 } \\mathbf { N H } _ { 3 } \\mathbf { P b I } _ { 3 } \\right)$ ，PCBM and PEI doped PCBM to investigate the morphological change of these films.The surface morphology of the two-step spin-coating method prepared perovskite films is typically very rough due to tendency for crystallization (SEM images in ESI Fig. ${ \\bf S 4 \\dagger }$ ).In our conditions, the $R _ { \\mathrm { q } }$ roughness of a $2 6 0 ~ \\mathrm { { n m } }$ thick perovskite layer is ${ \\sim } 1 6 ~ \\mathrm { n m }$ with peak to valley height larger than $1 2 0 ~ \\mathrm { { n m } }$ (ESI Fig. S5†). Therefore,arelatively thickPCBMlayer $\\left( > 4 0 \\ \\mathrm { n m } \\right)$ is required to form a conformal coating on the perovskite surface to reduce of current shorting through pinholes.Fig.4 shows $5 ~ { \\mu \\mathrm { m } } \\times 5 ~ { \\mu \\mathrm { m } }$ images of the AFM topography,phase image and section analysis of the PCBM films (without or with $3 \\mathrm { \\textrm { w t \\% } }$ PEI) coated on perovskite layer. The root mean square roughness $\\left( R _ { \\mathrm { q } } \\right)$ ，mean roughness $\\left( R _ { \\mathrm { a } } \\right)$ and peak to valley distance estimated from the AFMimages show the differences of the two samples.It can be seen that the spin-coated film of PCBM doped with $3 \\ \\mathrm { w t \\% }$ PEI exhibits a much smoother surface than the pure PCBM film.The $R _ { \\mathrm { q } }$ and $R _ { \\mathrm { a } }$ for the pristine PCBM film are 11.0 and $7 . 9 1 \\ \\mathrm { n m }$ respectively.Because the PCBM solution is a low viscosity and thus it is difficult to form a compact surface.The rough surface maylead to a poor interface between PCBM and Al electrode, thus cause a large leakage current.This may be the reason for the low performance of the control device.The addition of PEI increases the viscosity of PCBM solution.As a result,it becomes much easier to formahigh quality,homogeneous and compact PCBM electron transporting layer. The $R _ { \\mathrm { q } }$ and $R _ { \\mathrm { a } }$ value for the $3 \\mathrm { \\ m t { \\% } }$ PEI doped PCBM film decrease to 4.47 and $3 . 2 8 \\ \\mathrm { n m }$ respectively.The increase of $V _ { \\mathrm { O C } }$ value from $_ { 0 . 8 1 \\mathrm { \\Delta V } }$ to $0 . 9 5 \\mathrm { \\ : V }$ can be explained by the bettercoverage ofPEI doped PCBMlayers, which results in enhanced hole blocking ability and reduced currentleakageat the interfaces between theperovskite,PCBM film and the top Al electrode.However,excessive addition of the insulating PEI causes irregular formation of PEI aggregates (Fig. S5 in $\\mathrm { E S I } \\dagger$ ).Thismaybe the reason for thedecreased $V _ { \\mathrm { O C } }$ and FF when doping concentration is $4 \\mathrm { w t \\% }$ and $5 \\ \\mathrm { w t \\% }$ .The5 $\\mu \\mathrm { m } \\times 5 \\mu \\mathrm { m }$ AFMimages of the PEI deposit onto the PCBMlayer are shown in Fig. S6. $\\dagger$ The roughness of the film $\\left( R _ { \\mathrm { q } } = 1 3 . 9 \\ \\mathrm { n m } \\right.$ $R _ { \\mathrm { a } } = 1 0 . 0 \\mathrm { n m }$ ) is similar to that of PCBM film.So,it can'timprove the film uniformity by simply coating PEI on PCBM flm. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e3e63dda8405f0d1201b70c8d0bc8e8298f40df976b837ec9868b8d56e37a842.jpg",
+        "table_caption": [
+            "Table 2 Summary of the electron mobility of PCBM doped with different PEl concentration "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Films</td><td>Electron mobility μe(×10-4 cm² v-1 s-1)</td></tr><tr><td>Pristine PCBM</td><td>6.5 ±0.3</td></tr><tr><td>PCBM+1wt%PEI</td><td>7.3 ±0.2</td></tr><tr><td>PCBM+2wt%PEI</td><td>7.9 ±0.3</td></tr><tr><td>PCBM+3wt%PEI</td><td>6.8±0.5</td></tr><tr><td>PCBM+4wt%PEI</td><td>3.8±0.2</td></tr><tr><td>PCBM+5wt%PEI</td><td>1.5 ± 0.2</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2af29d1ab959e756e15b27493233601a184f3b286ed46ba1a7a049fa5f301db9.jpg",
+        "img_caption": [
+            "Fig.4The AFM topography, phase image and section analysis of the PCBM films (without or with 3 wt% PEl) coated on the perovskite layer. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "UV-vis absorption spectra and photoluminescence (PL) analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The absorption for perovskite/PCBMfilmand perovskite/PCBM $+ \\ \\left( 1 { - } 5 \\ \\mathrm { \\ w t \\% } \\right)$ PEI film was measured (Fig. S7 in $\\mathrm { E S I \\dagger } _ { \\mathrm { \\Phi } }$ ).The absorption spectra of the PCBM flms (without or with PEI doping) coated on perovskite layer are nearly identical.So the addition of PEI into PCBM solution doesn't have any negative influence on the absorbance property. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Recently,the presence of trap states at the surfacesand grain boundaries of perovskite crystals was considered to be one of the reasons that result in undesired charge recombination in the perovskite layer，which leads to the large photocurrent hysteresis.Therefore,itis critically important to develop effective methods to passivate the trap states to further promote the performance of the perovskite solar cells.It has been reported that the presence of trap states could induce band bending close to the surface of the perovskite flm,which led to an apparent band gap lower than that of the bulk with a red-shifted PL peak.Filling the trap states enables the recovery of the band gap and blue-shifts the PL peak.1² So, steady-state PL is a simple and effective way to investigate the presence of the defects state. Hence，we measured the steady-state PL of perovskite, perovskite/PCBM and perovskite/PCBM doped with PEI to study the trap filling effect between the perovskite/PCBM interfaces. The samples we prepared only have an interface,namely, the interface between perovskite and PCBM (or PCBM $^ +$ PEI), so we can measure the interface between perovskite and ETL no matter which side the incident excitation lightis from.Here, the incident excitation light was from the air side (not the glass side).As showed in Fig.5,the PL peak of pristine perovskite without a PCBM layer is located at $7 5 9 ~ \\mathrm { n m }$ ,which is smaller than previously reported.12 As expected,the PL intensity of perovskite/PCBM or perovskite/PCBM $^ +$ PEI is strongly lowered than pristine $\\mathrm { C H } _ { 3 } \\mathrm { N H } _ { 3 } \\mathrm { P b I } _ { 3 }$ film,indicates PCBM and PCBM $^ +$ PEI are good PL quenchers for the perovskite flms.Fig.5 shows that the PL peak of perovskite/PCBMis shifted from $7 5 9 \\mathrm { n m }$ to $7 5 0 ~ \\mathrm { n m }$ ，suggests PCBM can decrease the surface defects close to the top surface and/or along the grain boundaries of perovskite film，which is observed in the previous report.& The perovskite/ $\\mathrm { P C B M } + 1 { - } 5 \\ \\mathrm { w t \\% }$ PEI films show a PL peak at 746 nm, $7 4 0 ~ \\mathrm { { \\ n m } }$ ， $7 3 6 ~ \\mathrm { { \\ n m } }$ ， $7 4 5 ~ \\mathrm { { \\ n m } }$ and $7 5 3 ~ \\mathrm { { \\ n m } }$ ，respectively (Fig.S8t).Although all the three samples showed similar decline in PL intensity,the PL peaks of the perovskite films were obviouslydifferent.Perovskite film coated with the $\\mathbf { P C B M } + 3$ $\\mathrm { w t \\% }$ PEI showed an apparent blue-shifted PL peak from $7 5 9 \\mathrm { n m }$ to $7 3 6 ~ \\mathrm { { \\ n m } }$ ，which demonstrates that surface trap states decrease.Therefore,we postulate that one of the plausible reasons for the significant improvement of device performance when $\\mathrm { P C B M } + 3 ~ \\mathrm { w t \\% }$ PEI was used as the ETL is attributing to the effective trap states passivation at the perovskite/PCBM interface. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bdac235e16a42f1a4c1efdfdc87116131b53787708a9721ea724708d0458bdb3.jpg",
+        "img_caption": [
+            "Fig.5 Steady-state $\\mathsf { P L }$ spectra of the perovskite，perovskite/PCBM, perovskite/PCBM $+ 3$ wt% PEl films. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In summary,a small percentage $\\left( 3 \\ \\mathrm { w t \\% } \\right)$ of PEI as additive is added into the PCBM electron transport layer of an inverted perovskite solar cell,which led to significant enhancements of PCE from $( 5 . 9 \\pm 0 . 2 ) \\%$ to $( 1 0 . 4 \\pm 0 . 2 ) \\%$ .The AFMimages show that the PEI doped PCBMlayer can help to forma high quality, homogeneous and compact electron transporting layer covered on the perovskite layer, which results in enhanced hole blocking ability and reduced leakage current at the interfaces between theperovskite,PCBM films and the top Al electrode.OFETs measurementsrevealed theaddition of $3 \\mathrm { w t \\% }$ ofPEI into PCBM seems to improve device performance without any negative effect on the electron transport property of PCBM.Meanwhile, steady-state PL analysis shows that the electron-rich PEI may also act as an effective interfacial modifier to passivate the trap states at the perovskite surface or crystal boundaries.So that, avoid the undesired charge recombination often observed in $\\mathrm { C H } _ { 3 } \\mathrm { N H } _ { 3 } \\mathrm { P b I } _ { 3 }$ -based perovskite solar cells.At last,PEI will also playas a cathode interfacial modifier to improve the performance by facilitating an ohmic contact with Al cathode.This work demonstrates that amine-containing polymer materials can be used as an efficient dual functional additive for electron transporting layerinperovskite solar cells,and we believe that this study can provide a simple and effective approach to further promote the performance of $\\mathrm { C H _ { 3 } N H _ { 3 } P b I _ { 3 } }$ -based perovskite solar cells after extended investigation. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The authors are grateful to the Tianjin Natural Science Council (Grant No.13JCYBJC18900，13JCZDJC26700)，National High Technology Research and Development Program of China (863 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Program) (Grant No.2013AA014201)，National Key Scientifc InstrumentandEquipmentDevelopmentProject (2014YQ120351) and the Tianjin Key Discipline of Material Physics and Chemistry for the support of this work. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Notes and references ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1 A.Kojima,K. Teshima,Y. Shirai and T.Miyasaka,J.Am. Chem. S0c.,2009,131,6050-6051.   \n2 N.J. Jeon,J.H.Noh,W. S.Yang, Y.C.Kim, S.Ryu,J. Seo and S. Il Seok,Nature,2015,517,476-480.   \n3W. S.Yang, J.H.Noh,N.J. Jeon,Y.C.Kim, S.Ryu,J. Seo and S.Il Seok, Science,2015,348,1234-1237.   \n4 M.A.Green,A.H.Baillie and H. J.Snaith,Nat.Photonics, 2014,8, 506-514.   \n5 A.Mei, X.Li,L. Liu, Z. Ku, T.Liu,Y.Rong,M. Xu,M. Hu, J. Chen,Y. Yang,M. Grätzel and H. Han，Science,2014, 345,295-298.   \n6 M.Saliba,T.Matsui,J. Seo,K. Domanski, J. Correa-Baena, M.K.Nazeeruddin, S.M. Zakeeruddin,W.Tress,A.Abate, A.Hagfeldtd and M. Grätzel,Energy Environ.Sci.,2016,9, 1989-1997.   \n7 J. You, Z. Hong, Y. Yang, Q. Chen,M. Cai, T. Song, C. Chen, S.Lu, Y.Liu,H. Zhou and Y. Yang,ACS Nano,2014,8,1674- 1680.   \n8 Q. Guo, C. Li, W. Qiao, S.Ma,F.Wang, B. Zhang, L. Hu, S.Dai and Z. Tan,Energy Environ. Sci.,2016,9,1486-1494.   \n9 C. Li, Q. Guo,W. Qiao, Q. Chen, S. Ma, X. Pan,F. Wang, J. Yao, C. Zhang,M. Xiao, S.Dai and Z. Tan, Org. Electron., 2016,33,194-200.   \nlO C.Li, F. Wang, J. Xu, J. Yao,B. Zhang,C. Zhang,M. Xiao, S. Dai, Y.Li and Z. Tan,Nanoscale,2015,7,9771-9778.   \nl1 Y.Bai,H.Yu, Z. Zhu,K. Jiang,T. Zhang,N. Zhao, S.Yang and H.Yan,J.Mater. Chem.A,2015,3,9098-9102.   \n12 Y. Shao, Z. Xiao, C. Bi, Y. Yuan and J. Huang, Nat. Commun., 2014,5, 5784.   \n13 N．K.Noel，A．Abate，S．D.Stranks，E．S．Parrott, V. M.Burlakov,A. Goriely and H. J. Snaith,ACS Nano, 2014,8, 9815-9821.   \n14A．Abate，M.Saliba，D.J.Hollman，S.D.Stranks, K.Wojciechowski,R.Avolio,G.Grancini,A.Petrozza and H.J.Snaith,Nano Lett.,2014,14,3247-3254.   \n15 D.Shi,V.Adinolfi,R.Comin,M.Yuan,E.Alarousu,A. Buin, Y.Chen，S. Hoogland，A.Rothenberger，K. Katsiev, Y.Losovyj，X. Zhang,P.A.Dowben，O.F. Mohammed, E.H.Sargent and O.M.Bakr,Science,2015,347,519-522.   \n16 F.Gao,Z.Li,J.Wang,A.Rao,I.A.Howard,A.Abrusci, S.Massip,C.R. McNeill and N. C.Greenham,ACS Nano, 2014,8, 3213-3221.   \n17 Y. Zhou, C.F.Hernandez, J. Shim,J. Meyer,A.J.Giordano, H.Li，P.Winget，T. Papadopoulos，H.Cheun，J.Kim, M.Fenoll,A. Dindar, W. Haske,E. Najafabadi, T.M. Khan, H.Sojoudi, S.Barlow,S.Graham, J.Brédas,S.R.Marder, A.Kahn and B.Kippelen, Science,2012,336,327-332.   \n18 S.Woo,W.H. Kim,H. Kim, Y. Yi,H. Lyu and Y.Kim,Adv. Energy Mater.,2014,4,1301692.   \n19 L. Yan,Y. Song, Y. Zhou,B. Song and Y. Li, Org. Electron., 2015,17,94-101.   \n20 H．Zhang，H.Azimi，Y.Hou，T．Ameri，T.Przybilla, E.Spiecker，M.Kraft,U.Scherf and C.J.Brabec,Chem. Mater.,2014,26,5190-5193.   \n21 H. Zhou, Q. Chen, G.Li, S. Luo,T. Song, H. Duan, Z. Hong, J. You,Y. Liu and Y. Yang,Science,2014,345,542-546.   \n22 L. Etgar, P.Gao, Z. Xue,Q. Peng,A. K. Chandiran, B. Liu, M.K.Nazeeruddin and M.Grätzel, J. Am. Chem. Soc., 2012, 134,17396-17399. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

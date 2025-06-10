@@ -1,0 +1,153 @@
+# 焊接热输入对高温熔池形态的影响
+
+童莉葛}²黎磊’谷京晨」白芳³尹少武¹²王立’²（1.北京科技大学机械工程学院，北京100083；2.冶金工业节能减排北京市重点实验室，北京100083;3.中国石油管道学院，河北廊坊065000)
+
+摘要：焊接熔池形态对焊接过程和焊接质量有着重要影响，熔池的形状不仅决定了焊缝的形状，而且对焊缝的组织、力学性能和焊接质量均有重要影响。本文使用ANSYS有限元软件，采用“生死单元”技术，对 X80 管线钢复合型坡口多层焊的焊接过程进行二维模拟，研究各填充焊层受后一焊层热影响后，其高温停留时间和熔深随焊接热输入的影响规律。结果表明，焊层的峰值温度随着热输入的增加而增大，填充焊层焊接热输入从 $1 3 . 2 5 \mathrm { k J / c m }$ 增加到 $1 4 . 5 7 \mathrm { k J / c m }$ ，高温停留时间的百分比增量是热输入从 $1 2 . 0 4 \mathrm { k J / c m }$ 增加到 $1 3 . 2 5 \mathrm { k J / c m }$ 的一半；而各焊层熔深的增加值不变，均为 $0 . 4 5 ~ \mathrm { m m }$ 。
+
+关键词：多层焊；焊接熔池；固液相变；熔深中图分类号：TK124 文献标识码：A
+
+# Effect of Heat Input on the Shape of Welding Pool with High
+
+# Temperature
+
+TONG Li-Ge1² LI Lei¹ GU Jing-Chen’ BAI Fang² YIN Shao-Wu1'² WANG Li12 (1.Schoolof Mechanicaland Engineering,Universityof Scienceand TechnologyBeijing,Beijing10o083,China;
+
+2.Beijing KeyLaboratoryfor Energy Savingand EmissionReductionofMetalurgical Industry,Beijing100083,
+
+China;
+
+3．China Petroleum Pipeline College, Langfang,Hebei O65ooo,China）
+
+Abstract: The weld pool shape is one of important factors related to the welding process and quality, which not only determines the shape of weld seam, but also has an important influence on microstructure，mechanical properties and quality of weld seam.In order to research the properties of the melting time and depth offusion at filing bead affected by the next layer under diferent heat inputs,the two dimensional multi-layer welding process with composite welding groove of X80 pipeline steel used by the birth-and-death elements method of the finite element software ANSYS was build.When the heat input of filling bead increased from $1 3 . 2 5 ~ \mathsf { k J / c m }$ to $1 4 . 5 7 ~ \mathsf { k J / c m }$ , the increase percentage of melting time was half of that from $1 2 . 0 4 ~ \mathsf { k J / c m }$ to 13.25 kJ/cm. Meanwhile the increment of each layer's depth of fusion was constant, which remained as $0 . 4 5 ~ \mathsf { m m }$
+
+Key words: multi-layer welding; welding pool; solid-liquid phase changing; depth of fusion
+
+# 0前言
+
+随着油气输送管道高压、大管径技术的发展，对管线钢韧性、强度和焊接性的要求越来越高。因此，低合金高强管线钢的研发日益受到各方的关注。中国西气东输二线工程已大量采用X80 管线钢。X100、X120管线钢的应用具有巨大的经济效益，可使长距离油气管线成本节约 $5 \% { \sim } 1 8 \% ^ { [ 1 ] }$ 。在实际焊接生产中，应用较多的是多层多道焊，对于厚度较大的焊件有时焊接层数可以高达几十层；然而多层焊接过程中，熔池形态的变化是影响焊接接头质量、制约高强管线钢发展的重要因素。
+
+熔池的形状不仅决定了焊缝的形状，而且与焊缝的结晶过程有着密切的关系，因而对焊缝的组织、力学性能和焊接接头质量有重要影响。研究焊接熔池的形状，对于提高焊接质量有着重要意义。李岩[2][3]等人研究了等离子弧焊过程中熔池的演变过程。秦国梁等人4研究了在激光深熔焊过程中，焊缝熔深随焊接体能量的增大而近似呈线性增大。Juang 等人[5]为了在钨极气体保护焊（TIG）中获得最佳的焊接熔池形状，研究了各种焊接参数如电弧、焊接电流和焊接速度等对熔池形状的影响。Li 等人提出了一种新的双重保护TIG焊接方法，考虑了Marangoni对流效应，并研究了焊接熔池形状的变化规律。
+
+焊接过程中元素的扩散主要是焊缝中焊接熔池与母材间固-液界面上的扩散与传递。因此，焊接熔池的大小与熔融状态持续时间也成为了影响焊缝元素扩散的重要因素。但目前关于这方面的研究国内外鲜有报道。本文通过研究不同焊接热输入下，焊层再熔区域即焊层受后一层焊热影响而处于熔融状态的最大熔深 $H _ { m }$ （这层热源加载后上层区域的再熔深度）和高温停留时间 $t _ { H }$ （在相变点温度以上停留时间）的变化规律来揭示在多层焊过程中焊接熔池的变化规律。利用模拟技术可以更加方便地研究焊接热输入对焊层再熔区域的影响。通过建立二维轴对称和三维有限元模型，Deng 和Murakawa [7][8][9]对比分析了两种模拟结果，发现二维模拟结果与实验结果一致。因此，本文也选用二维有限元模型，利用ANSYS“生死单元法”来研究低合金高强管线钢多层焊中热输入对焊层再熔区域 $t _ { H }$ 和 $H _ { m }$ 的影响规律。
+
+# 1X80管线钢多层焊的数值模拟
+
+# 1.1 物理模型
+
+焊接是一种大热量输入、具有极高的加热速度和降温速度并伴随着焊缝金属熔化和凝固的复杂的热过程。本文在建模时选择管线钢的壁厚 $1 8 . 4 \mathrm { m m }$ ，长 $8 0 0 \mathrm { m m }$ ，采用自动焊复合型坡口，每层焊的高度为 $2 \mathsf { m m }$ ，余高为 $0 . 5 \mathsf { m m }$ 。焊层的分布如图1(a)所示，图中数字代表焊层，焊层1为根焊，焊层2为热焊，焊层3至焊层8为填充焊，焊层9为盖面焊。焊接过程从焊层1逐层填充至焊层9，当前一层焊接完成后，表面温度降至 $5 0 { \sim } 1 5 0 \ \mathrm { ~ \textdegree ~ }$ 时，开始下一层焊。分别取焊层3至焊层7的中心节点（A、B、C、D和E），取样点的位置如图1(b)所示，研究各层节点的状态即可研究各层熔池的情况。为了获得不同焊接热输入下熔池的变化规律，本文在模拟填充焊层时将分别采用三种不同热输入，并保持其它焊层热输入不变。每层焊的热输入 $E$ 即单位厘米长度加载的能量如表1所示。
+
+![](images/76b17664ad1ded7ddb2f50d108648eab4167a8dffc932e3ed6b0275d8fb7f27c.jpg)  
+图1复合型坡口焊层分布示意图及焊层取样点示意图 Fig.1 The composite welding groove diagram of nulti-layer welding and the diagram of sampling nodes
+
+表1焊接工艺参数Table 1 Welding parameters  
+
+<html><body><table><tr><td>焊层</td><td>焊层1</td><td>焊层2</td><td>焊层3-焊层8</td><td>焊层9</td></tr><tr><td rowspan="3">E/kJ . cm*1</td><td rowspan="3">4.91</td><td rowspan="3">12.86</td><td>12.04</td><td></td></tr><tr><td>13.25</td><td>13.77</td></tr><tr><td>14.57</td><td></td></tr></table></body></html>
+
+# 1.2 控制方程
+
+焊接过程中，焊件上的温度随着热源的移动会发生剧烈的变化，材料的热物理性能也会随温度的变化而变化，同时还伴随着焊缝金属的相变，因此焊接过程是一个典型的非线性瞬态传热过程，其控制方程为：
+
+$$
+\begin{array} { l } { { \displaystyle c \big ( T \big ) \rho \big ( T \big ) \frac { \partial T } { \partial t } = \frac { \partial } { \partial x } \bigg ( k \big ( T \big ) \frac { \partial T } { \partial x } \bigg ) + \frac { \partial } { \partial y } \bigg ( k \big ( T \big ) \frac { \partial T } { \partial y } \bigg ) } } \\ { { \displaystyle + \frac { \partial } { \partial z } \bigg ( k \big ( T \big ) \frac { \partial T } { \partial z } \bigg ) + Q _ { h g e n } } } \end{array}
+$$
+
+式中， $\boldsymbol { c }$ 为比热， $\mathbf { J } / ( \mathrm { k g } \cdot \mathrm { K } )$ ； $\rho$ 为密度， $\mathrm { k g / m } ^ { 3 }$ ; $T$ 为温度， $\mathrm { ~ K ~ }$ ; $k$ 为导热系数， $\mathrm { W } / ( \mathrm { m } { \cdot } \mathrm { K } )$ ; $t$ 为时间，s;$\boldsymbol { \mathcal { Q } } _ { h g e n }$ 为单元热生成率， $\mathrm { W / m } ^ { 3 }$ 。
+
+本文采用二维模型来模拟整个焊接过程。焊接热源通过焊缝单元加载内部热生成来实现，即将焊缝区的每层焊加载的总能量平均分配至每个焊缝单元，每个焊缝单元分配到的能量称为单元热生成率$\boldsymbol { Q _ { h g e n } } ^ { [ 1 0 ] }$ ，即：
+
+$$
+Q _ { h g e n } = \frac { \eta \cdot E _ { i } \cdot l _ { i } } { V _ { i } \cdot \tau _ { i } }
+$$
+
+式中， $\eta$ 为焊接热效率，气体保护焊的热效率为$0 . 7 5 ^ { [ 1 0 ] }$ ； $E _ { i }$ 为第 $i$ 层焊的焊接热输入， $\scriptstyle { \mathrm { J / c m } }$ ； $l _ { i }$ 为第$i$ 层焊的长度， $\mathrm { c m }$ . $V _ { i }$ 为第 $i$ 层焊的体积， $\mathrm { m } ^ { 3 }$ ; $\tau _ { i }$ 为模拟时热源的加载时间，s。
+
+为了考虑熔池对传热的加强作用，使用两种方法[1]：（1）当熔池温度高于熔点时，将熔池材料热导率增加为室温时的3倍以代替熔池流动对导热的加强作用；(2)在熔池固液相转变时考虑熔化潜热 $H$ 其可表示为：
+
+$$
+H = \int \rho ( T ) c ( T ) d T
+$$
+
+由于焊接过程中温度急剧变化，并且伴随有金属的熔化和凝固，因此本文在模拟计算时采用的材料的热物性参数，如比热、导热系数、热膨胀系数等也随之变化。
+
+# 1.3边界条件
+
+焊接过程中，母材、熔池和外界的传热主要是对流换热和辐射换热，其综合换热系数 $\boldsymbol { h } ^ { [ 1 2 ] }$ 由式（4)计算。
+
+$$
+h = \left\{ \begin{array} { l r } { 0 . 0 6 6 8 T } & { 0 ^ { \circ } \mathrm { C } < T < 5 0 0 ^ { \circ } \mathrm { C } } \\ { 0 . 2 3 1 T - 8 2 . 1 } & { T \geq 5 0 0 ^ { \circ } \mathrm { C } } \end{array} \right.
+$$
+
+式中， $h$ 为综合换热系数， ${ \bf W } / ( { \bf m } ^ { 2 } \cdot { \bf K } )$ ； $T$ 为焊件表面温度， $\mathrm { { ^ \circ C } }$ 。
+
+# 2 结果分析与讨论
+
+高温停留时间 $t _ { H }$ 是决定元素扩散的重要影响因素， $t _ { H }$ 越大，元素扩散过程进行得就越充分，金属性能越好；最大熔深 $H _ { m }$ 则反映出焊接熔池的大小。本文重点研究填充焊层再熔区域的 $t _ { H }$ 和 $H _ { m }$ 随热输入（ $1 2 . 0 4 ~ \mathrm { k J / c m }$ 、 $1 3 . 2 5 \mathrm { ~ k J / c m }$ 和 $1 4 . 5 7 \ \mathrm { k J / c m }$ ）的变化规律。
+
+# 2.1焊缝逐层填充温度场
+
+图2示出了各焊层热生成率加载结束时刻有限元模型焊缝区域的温度场云图。由于利用了生死单元技术，从图2可以看出，还未填充的焊缝金属单元没有参与运算，焊件温度为对称分布，每道焊在热生成率加载结束时刻焊缝中心处的峰值温度均达到1800℃以上，甚至达到 $2 5 0 0 \mathrm { ~ \textdegree C }$ ；随着焊接热输入的增加，焊层中心峰值温度逐渐增大，填充焊层3至填充焊层8的热输入相同，但焊层面积逐渐增加，每层热源加载结束后焊层中心最高温度都较上层增加 $1 0 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 左右。
+
+![](images/abfafa5ab60520d9daf888fba94a76d302b90ae3a2df9ff01538d5eb92cab7f3.jpg)  
+图2焊缝区温度场云图（ $: E _ { 3 } = 1 3 . 2 5 ~ { \ k \mathsf { J } } / { \mathsf { c m } } ;$ Fig.2Temperature field pictures of weld zone ( $\cdot E = 1 3 . 2 5$ kJ/cm)
+
+提取节点A高温段温度并绘制其相变温度曲线如图3所示。从图3中可以看出，当焊层4加载热输入时，节点A的温度处于上升阶段并在加载结束时达到极大值；之后，节点处于冷却阶段，温度逐渐降低。节点A处于熔融状态即温度在液相线以上的时间 $t _ { H }$ 为 $\left( t _ { R ^ { - } } t _ { L } \right)$ 。绘制各节点在不同焊接热输入下的相变温度曲线，得到各点的 $t _ { H }$ 值如图4所示。
+
+从图4可以看出，由于热输入的增大，导致各层的温度增加，从而使节点A至E的 $t _ { H }$ 随热输入的增大而增大，由于焊层面积的不断增加，使得焊层温度随焊层增加而增大，从而导致节点A至E的 $t _ { H }$ 随焊层数的增大而增大。将焊接热输入 $1 2 . 0 4 \ \mathrm { k J / c m }$ 增加 $10 \%$ 到 $1 3 . 2 5 \mathrm { ~ k J / c m }$ ，各节点 $t _ { H }$ 值分别增加了$80 . 5 6 \%$ 、 $56 . 8 6 \%$ 、 $43 . 9 4 \%$ 、 $2 9 . 4 1 \%$ 和 $2 6 . 5 3 \%$ ；将热输入 $1 3 . 2 5 \ \mathrm { k J / c m }$ 再增加 $10 \%$ 到 $1 4 . 5 7 \ \mathrm { k J / c m }$ 时，各节点 $t _ { H }$ 分别增加了 $41 . 5 4 \ \%$ 、 $30 \%$ 、 $2 2 . 1 1 \ \%$ ，$1 7 . 2 7 \%$ 和 $1 3 . 7 1 \%$ ，近似于前一次增加量的一半。
+
+![](images/44bbe1af5602200451c9ddaf24fa757ab589715b55408574bd958569dd57ef1c.jpg)  
+图3节点A相变温度曲线图
+
+![](images/3fac6c7a609bf20f3357158751a7300107f6810c529ba893dc34f2f84075544f.jpg)  
+Fig.3 The phase transition temperature graph of node A
+
+Fig.4 The effect of heat input on melting time of each node
+
+# 2.2焊接热输入对各层焊熔深的影响
+
+焊接热输入对焊接接头的质量有着重要影响。焊接热输入较小时，易产生熔深较小，甚至未熔合现象；热输入较大时，则易产生边缘的烧穿、熔池的下陷和焊缝末端的弧坑过深等缺陷。X80管线钢的熔点为 $1 3 5 0 ~ \mathrm { ~ \textdegree ~ }$ 左右，可以认为温度达到 $1 3 5 0 ~ \mathrm { ~ \textdegree ~ }$ 的区域即为焊缝固-液界面的区域。由此，根据数值模拟的温度场分布结果得到了各层焊热生成率加载结束时液相线分布情况，如图5所示为填充焊层热输入为 $1 3 . 2 5 ~ \mathrm { k J / c m }$ 时焊接过程固-液界面示意图，图中焊缝区实线为各焊层的分界线，红色线为焊接过
+
+程的固-液分界线。
+
+由图5可以看出，各焊层都有相当一部分处于二次熔融状态。各层再熔区域比例越高，其 $H _ { m }$ （如图6所示）也越大。图6示出了第五焊层的熔池形状随焊接热输入的增大而变化的情况，随着焊接热输入的不断增加，熔池不断扩展，熔深和熔宽逐渐增加。从图中可以看出，焊层5热源加载后，随着热输入的增加，其固-液线区域向下扩展至焊层4甚至达到了焊层3。为了考察焊接热输入对焊层熔深的影响，本文重点研究填充焊层3至7的再熔区域的最大熔深 $H _ { m }$ 的变化规律。图7为焊接热输入分别为$1 2 . 0 4 \mathrm { k J / c m }$ 、 $1 3 . 2 5 \mathrm { k J / c m }$ 和 $1 4 . 5 7 \mathrm { k J / c m }$ 时各层再熔区域最大熔深 $H _ { m }$ 的变化。
+
+![](images/216fdce1b4af89ebca09cef744f44d0a86bef6c97ada71e6bd1b6985dc120c55.jpg)  
+图5多层焊固-液线示意图（ $E _ { \mathcal { T } } 1 3 . 2 5 ~ { \ k \mathsf { J / c m } } ;$ 0 Fig.5 The solid-liquid phase line of multi-layer welding $( E _ { 3 } { = } 1 3 . 2 5 ~ \mathsf { k J / c m } )$ （204
+
+![](images/e19d34517caf0217d921ce1b32e14d6720cf2a4db80b08751e8858ba04811bb5.jpg)  
+图4焊接热输入对节点 $t _ { H }$ 的影响  
+图6热输入对焊层5固-液线的影响
+
+Fig.6 The variation of solid-liquid phase line of the $5 ^ { \mathsf { t h } }$ filling bead under different heat input
+
+从图7中可以看出，各焊层的 $H _ { m }$ 在 $1 . 2 5 { - } 3 . 2 \ \mathrm { m m }$ 之间，随着焊接热输入的增加，由于焊层再熔区域温度增加， $H _ { m }$ 也随之增大；随着各层热源的加载面积的增加， $H _ { m }$ 也随之增加。将焊接热输入 $1 2 . 0 4 \mathrm { k J / c m }$ 增加 $10 \%$ 到 $1 3 . 2 5 \mathrm { k J / c m }$ 时，各焊层的 $H _ { m }$ 增加了0.45$\mathrm { m m }$ ；将热输入 $1 3 . 2 5 \mathrm { k J / c m }$ 再增加 $10 \%$ 到 $1 4 . 5 7 \mathrm { k J / c m }$ 时，各焊层 $H _ { m }$ 增加值仍为 $0 . 4 5 \mathrm { m m }$ 。
+
+![](images/783a5365c0f7f27736232d3183d38c83b84c617bf6e28d78962987bc8f80ba8e.jpg)  
+图7热输入对各焊层 $H _ { m }$ 的影响
+
+Fig.7 The effect of heat input on penetration of each welding layer
+
+# 3结论
+
+1）对于X80管线钢多层焊，随着焊接热输入的不断增加，熔池不断扩展，熔深和熔宽逐渐增加，各焊层的固-液线不断向下延伸至上一层甚至上两层。
+
+2）当焊接热输入由 $1 2 . 0 4 \mathrm { ~ k J / c m }$ 增加 $10 \%$ 到$1 3 . 2 5 ~ \mathrm { { \ k J / c m } }$ ，填充焊层各节点 $t _ { H }$ 分别增加了$80 . 5 6 \%$ 、 $56 . 8 6 \%$ 、 $43 . 9 4 \%$ 、 $2 9 . 4 1 \%$ 和 $2 6 . 5 3 \%$ ；当热输入 $1 3 . 2 5 \mathrm { ~ k J / c m }$ 继续增加 $10 \%$ 达到 $1 4 . 5 7 \ \mathrm { k J / c m }$ 时，各节点 $t _ { H }$ 分别增加了 $41 . 5 4 \%$ 、 $30 \%$ 、 $2 2 . 1 1 \%$ ，$1 7 . 2 7 \ \%$ 和 $1 3 . 7 1 \ \%$ ，近似于前次百分比增加量的一半。
+
+3）当焊接热输入由 $1 2 . 0 4 \mathrm { ~ k J / c m }$ 增加 $10 \%$ 到$1 3 . 2 5 \mathrm { ~ k J / c m }$ 、再由 $1 3 . 2 5 \mathrm { \ k J / c m }$ 增加 $10 \%$ 到14.57$\mathbf { k J } / \mathbf { c m }$ ，各填充焊层的 $H _ { m }$ 都只增加了 $0 . 4 5 \mathrm { m m }$ 。
+
+# 参考文献
+
+[1］周平，李辉.X100、X120高强韧性管线钢的研发和应用 综述[J]．莱钢科技,2009,(6):9-12 Zhou Ping,Li Hui.A Summary of R&D and application of X100、X120 High Strength and Ductile Pipeline Steel[J]. Laigang Science & Technology,2009,(6): 9-12   
+[2]李岩，冯妍卉，张欣欣，等．等离子弧焊接穿孔、传热与 流动的耦合过程[J]．工程热物理学报，2014,35(5): 939-943 LI Yan， FENG Yanhui， ZHANG Xinxin，et al． Coupled phenomena of keyhole,heat transfer and molten flow in plasma arc welding[J]．JournalofEngineering
+
+Thermophysics,2014,35(5):939-943
+
+[3］李岩，冯妍卉，张欣欣，等．等离子弧焊接熔池演变过程 的模拟和验证[J]．工程热物理学报，2012，33(8): 1395-1399 LI Yan，FENG Yanhui, ZHANG Xinxin,et al. Simulation and validation of melton weld pool evolution in plasma arc welding[J]. Journal of Engineering Thermophysics，2012, 33(8): 1395-1399   
+[4］秦国梁，林尚扬.激光焊接体能量及其对激光深熔焊缝 熔深的影响[J]．焊接学报,2006,27(7):74-76 QING Guoliang，LIN Shangyang. Laser welding volume energy and its influence on weld penetration in laser deep penetration welding[J]. Transactions of the China Welding Institution,2006,27(7): 74-76   
+[5] Juang S C， Tarng Y S. Process parameter selection for optimizing the weld pool geometry in the tungsten inert gas welding of stainless steel[J]. Journal of Materials Processing Techology, 2002,122(1): 33-37   
+[6] Li D, Lu S,Dong W,et al. Study of the law between the weld pool shape variations with the welding parameters under two TIG processes[J]. Journal of Materials Processing Technology,2012,212(1): 128-136   
+[7] Deng D, Murakawa H,Liang W. Numerical and experimental investigations on welding residual stress in multi-pass butt-weldedausteniticstainlesssteelpipe[J]. Computational Materials Science,2008,42(2): 234-244   
+[8] Deng D,Murakawa H. Finite element analysisof temperature field,microstructure and residual stress in multi-passbut-welded2.23Cr-1Mosteelpipes[J], Computational Materials Science, 2008,43(4): 681-695   
+[9] Deng D, Murakawa H. Prediction of welding residual stress in multi-pass butt-welded modified 9Cr-1Mo steel pipe considering phase transformation efects[J]. Computational Materials Science,2006,37(3): 209-219   
+[10]白世武，童莉葛，隋永莉,等.X80 管线钢复合型坡口多道 焊的 $\bar { \mathsf { T } } _ { 8 / 5 }$ 研究[J]．金属世界,2009,(S1):46-49 Bai S，Tong L，Sui Y，et al. Investigation on the $T _ { 8 / 5 }$ of multi-pass compound groove welding for X80 pipeline steel[J]. Metal World,2009,(S1): 46-49   
+[11]Deng D, Murakawa H. Numerical simulation of temperature field and residual stress in multi-pass welds in stainless pipe andcomparison with experimental measurements[J]. Computational Materials Science,2010,37(3):269-277   
+[12]Hou Z, KimIS, Wang Y et al.Finite element analysis forthe mechanical features of resistance spot welding process[J].

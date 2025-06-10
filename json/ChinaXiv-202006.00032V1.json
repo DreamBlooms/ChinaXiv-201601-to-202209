@@ -1,0 +1,455 @@
+[
+    {
+        "type": "text",
+        "text": "陕西省高温时空变化特征及其定量化评估方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "程肖侠’²，蔡新玲¹，李明¹，梁奇琛³，胡琳¹（1.陕西省气候中心，陕西西安710015；2.中国科学院地球环境研究所黄土与第四纪地质国家重点实验室，陕西西安710061；3.咸阳市气象局，陕西咸阳712000）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：利用陕西省1961—2018年的逐日最高气温资料，分析陕西省高温时空分布及气候变化特征；为加强高温事件快速评估，提出了单站高温过程综合强度指标算法，确定了单站高温过程综合强度等级划分阈值。结果表明： $\\textcircled{1}$ 陕西省高温频次、强度呈南多北少、东多西少的分布特征，且关中中东部平原地区和陕南东部安康盆地是高温事件关键区域；高温天气出现时间跨度为4月上旬至10月中旬，6一8月高温最多，占全年的 $9 1 . 6 \\%$ ，其中7月下旬是全省高温频次最多的时段。 $\\textcircled{2}$ 近半个多世纪以来，高温呈明显频次增多、强度增强的特征；高温有出现时间趋早和结束时间趋晚的变化特征。 $\\textcircled{3}$ 提出的单站高温天气过程综合强度指标计算方法，能够体现不同高温过程的差异和共性，能对高温过程综合强度进行合理排位，进而确定出高温过程强度等级划分阈值，通过检验和业务试用评估，其结果可信。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：高温；时空变化；单站高温过程；综合强度；评估方法；陕西",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高温是一种典型的灾害性天气现象，其所造成的经济损失和影响巨大。近年来，随着全球气候变暖，高温酷热天气频繁出现[1-2]，与其相伴而生的干旱、热浪等极端天气气候事件也频频出现，一些地区生态环境不断恶化，对农业、水资源、人民生活等方面都产生了深刻而广泛的影响[3-5]。目前，大量学者针对高温进行了深入研究，任国玉等[6研究指出，在我国年平均气温上升趋势的背景下，最高气温上升，夏季炎热期延长；杨萍等在对近几十年我国极端温度变化趋势的研究中发现，年和季节尺度的极端暖指数均表现出增大趋势。翟盘茂等8对我国北方地区极端温度变化研究指出，近几十年我国北方地区极端高温日数明显增加。更多的区域性高温变化特征研究反映出了更细致的区域变化特征，如郑祚芳[9、伍红雨等[10]、张红英等[11]、刘学峰等[12]和陈颖等[13]分别对北京、广东、宁夏、河北、新疆等地区的极端最高气温或高温日数等要素的气候变化特征进行了分析。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陕西地处我国西北地区以干旱为主要气候背景，北有黄土高原，中为关中平原，南有秦巴山地，南北横跨暖温带、中温带、亚热带3个典型气候带。境内地形环境复杂，即便在同一地貌区中，类型也复杂多样，在黄土区有塬、璨、、沟等地貌，在秦巴山地有低山丘陵、中山、高山及河谷地貌之别，因此气候条件复杂多变，敏感脆弱。陕西夏季旱涝频发，常因高温少雨引发干旱，造成水资源短缺，干旱影响显著，如 2016 年夏季陕西出现强度大、范围广的高温天气,7月28日至8月24日关中、陕南出现强伏旱天气，造成10市59个县（市、区）受灾，直接经济损失 $1 . 0 4 \\times 1 0 ^ { 9 }$ 元；2017年陕西出现7次大范围区域性高温天气，其中7月7—14日和18—27日高温过程分别持续8d和10d，期间关中渭河河谷和安康汉江河谷地带有 ${ 5 \\mathord { \\sim } } 1 1$ d大范围日最高气温 ${ > } 4 0$ ℃的天气。已有学者针对陕西高温的基本气候变化特征[14-15]开展了深入研究，另有一些研究围绕高温影响评估等[16-17]方面开展。本文重点关注高温监测及评估方法研究，张旭阳等[15]对西安市的高温过程进行了评估，其将高温过程分为3个等级，定义连续3d或以上日最高气温 $\\geqslant 3 5 ^ { \\mathrm { ~ \\circ ~ } } \\mathrm { ~ C ~ }$ 为一次高温过程，持续 $3 \\sim 5 \\mathrm { ~ d ~ }$ 定义为一般高温过程，持续 $6 { \\sim } 8$ d定义为中等高温过程，持续9d以上定义为强高温过程。张旭阳等[15的划分标准考虑了高温持续时间，未充分考虑高温强度，一次高温过程的综合强度不仅与高温持续时间有关，还与高温期间的高温强度有关。张尚印等[18]参考美国国家气象局的方法，基于高温持续时间和高温强度对我国东部3市夏季高温过程进行了划分，但该方法应用到陕西量化不足，不能充分体现陕西高温过程特征。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从以往研究看，关于陕西高温气象风险区划或对高温事件进行科学定量评估的研究相对较少，且关于高温基本气候特征的研究所用资料久远，研究指标单一。伴随着极端天气气候事件频繁发生的气候背景，气候监测评估工作越来越受到重视，同时，随着高温影响加剧，气候预测技术发展和业务服务需求的提高，发展对高温灾害性天气科学、定量评估和预评估技术方法是提升防灾减灾能力的科学基础。目前，陕西业务工作中对一次高温过程的评估主要是通过高温日数、最高气温等单一气象要素的特征来进行评估，缺乏一个能够对一次高温过程进行更全面、合理、定量评估的综合指标，以此来反映一次高温过程的综合强度，所以研究适合陕西高温的评估指标，是气候监测及评估业务工作的基本需求，为评估和预防高温灾害提供科学依据，对于指导实际业务工作具有一定的参考意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1资料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1资料和基本定义",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究选取资料为陕西省境内96 个气象站 1961—2018 年的逐日最高气温(图1)。定义日最高气温 $\\geqslant 3 5 ^ { \\mathrm { ~ \\circ ~ } } \\mathrm { ~ C ~ }$ 为一个高温日[19]，高温强度为高温日的最高气温平均值。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6125359a81758f2cf9c3670b907458514cd4264cc01f97722d8a20a3c7868f8.jpg",
+        "img_caption": [
+            "图1陕西省地形及气象站点分布示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Distributions of topography and meteorological stations in Shaanxi Province ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2高温过程评估方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1高温天气过程判别 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究在充分分析陕西各类典型高温过程特征之后，提出若某站连续出现3d或 $3 \\mathrm { d }$ 以上 $\\geqslant 3 5$ ℃高温，即为一次高温过程。自一次高温过程开始，若某日最高气温 $\\mathrm { < 3 5 ~ \\ ^ { \\circ } C }$ ，则前一日为高温过程结束日。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2高温过程综合强度指标计算方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过对比不同评估方法，本研究最终确立参照《中华人民共和国气象行业标准QX/T228-2014》[20]（下简称《行标》）中单站高温天气综合强度指标计算方法（该方法被李娜等应用到山西高温风险区划研究当中），结合陕西高温特点，对该方法进行改进、试错，提出了适用于陕西的单站高温天气过程综合强度指标计算方法。具体如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "单站高温天气综合强度指标 $\\begin{array} { r } { ( S I ) = \\sum _ { j = 1 } ^ { 7 } \\mathrm { I } _ { j } \\times \\mathrm { T } _ { j } } \\end{array}$ 式中： $S I$ 为单站高温天气综合强度指标； $T _ { j }$ 表示与 $\\boldsymbol { \\mathrm { I } } _ { j }$ 对应的高温日数； $\\mid \\boldsymbol { \\mathrm { I } } _ { j }$ 表示单站高温强度，即日最高气温的分级，《行标》[20]中单站高温强度取值为1,2,3，对应 $[ 3 5 ^ { \\circ } \\mathrm { C } , 3 7 ^ { \\circ } \\mathrm { C } )$ ， $\\mathrm { [ 3 7 ~ \\textdegree }$ ，$4 0 \\ { ^ \\circ } \\mathrm { C } \\ { }$ ）， $[ 4 0 \\ ^ { \\circ } \\mathrm { C } , + \\infty ) \\ :$ 3个温度区间，按照此分级计算陕西单站高温天气综合强度指标，结果显示，基本划分出了高温强度等级，但因温度区间跨度大，分级少，很多有差异的高温过程综合强度指标取值一致，综合强度指标对高温过程的评估不够精细，不能给出合理的评估结果。所以，参考本方法，根据陕西高温特征及不断尝试，进一步对温度区间进行细化，最终确定能够较好反映陕西单站高温过程的温度区间，如：取值分别为$1 , 1 . 2 , 1 . 5 , 2 , 2 . 5 , 3 , 3 . 5$ ，分别对应 $[ 3 5 \\mathrm { ~ \\~ } ^ { \\circ } \\mathrm { C } , 3 6 \\mathrm { ~ \\~ } ^ { \\circ } \\mathrm { C } \\mathrm { ~ }$ ）， $[ 3 6 ^ { \\circ } \\mathrm { C } , 3 7 ^ { \\circ } \\mathrm { C } )$ ）， $[ 3 7 \\ ^ { \\circ } \\mathrm { C } , 3 8 \\ ^ { \\circ } \\mathrm { C } \\ ]$ ），（20 $[ 3 8 \\ ^ { \\circ } \\mathrm { C } , 3 9 \\ ^ { \\circ } \\mathrm { C } \\ \\cdot$ ），[39℃, $4 0 \\ \\mathrm { ~ \\textdegree C }$ ）， $[ 4 0 \\ ^ { \\circ } \\mathrm { C } , 4 1 \\ ^ { \\circ } \\mathrm { C }$ ）， $[ 4 1 \\mathrm { ~ \\ ' ~ C ~ } , + \\infty \\mathrm { ~ \\cdot ~ }$ ）7个温度区间。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3高温过程强度等级划分方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于综合强度指标计算公式，得出每个单站历史上所有高温过程的 $S I$ 值，采用袭祝香等22]对暴雨强度的分级方法，根据不同高温过程出现的概率将高温过程分为4个等级，即一般高温过程（ $5 0 \\%$ ）、较强高温过程（ $3 0 \\%$ ）、强高温过程（ $1 5 \\%$ ）、特强高温过程（ $5 \\%$ ）。据此计算陕西各个测站高温天气综合强度等级划分阈值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1高温频次、强度时空分布特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e4ad7ded0151341e610d50f6052dea3935c5d5017117fa2001ba031502456e7a.jpg",
+        "img_caption": [
+            "图2陕西省多年平均高温日数和高温强度空间分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Spatial distributions of multi-year averaged high temperature days and intensity in Shaanxi Province ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从高温日多年均值空间分布看（图2a），陕西省高温日分布具有明显的区域分布特性，整体上南多北少，东多西少。关中中东部平原地区和陕南东部安康盆地是两个高温日大值中心，多年平均高温日数 $1 5 { \\sim } 2 4 \\mathrm { ~ d ~ }$ ；全省其余地区高温日相对较少，关中西部 $1 \\sim 1 5 \\mathrm { ~ d ~ }$ ，陕南西部 $1 \\sim 1 0 \\mathrm { ~ d ~ }$ ，陕北东部黄河沿线部分地区 $1 0 \\sim 1 9 \\mathrm { ~ \\normalfont ~ \\dot { ~ } { ~ C ~ } ~ }$ 1，陕北西部大部 $1 { \\sim } 7 \\mathrm { ~ d ~ }$ ，呈现出关中平原和安康盆地明显多于陕北高原和秦巴山地的地域分布特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "高温强度亦呈现南高北低、东高西低的空间分布特征，高温频次多的地区亦多发强高温事件（图2b）：关中中东部平原地区、陕南东部安康盆地高温强度 $3 6 . 5 { \\sim } 3 6 . 9 \\mathrm { ~ ~ \\textdegree ~ }$ ，其余地区 $3 5 . 5 { \\sim } 3 6 . 4 ~ \\mathrm { ~ \\textdegree C }$ ； $4 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 以上危害性高温事件高发区为关中中东部平原地区和安康盆地。对各站历史高温事件分析，历史最强高温分布于陕北西部 $3 5 { \\sim } 3 8 \\ \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ，陕北东部 $3 8 . 1 \\sim$ $4 2 . 8 ~ \\mathrm { ~ \\textdegree C }$ ，关中北部 $3 5 { \\sim } 3 9 \\ \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ，关中南部 $4 0 { \\sim } 4 3 . 4 \\mathrm { ~ } \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ，陕南西部 $3 5 { \\sim } 4 0 \\ \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ，陕南东部 $4 0 \\sim$ $4 3 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ （图3a）。同时，关中东部和陕南东部最长连续高温日数达 $1 2 \\mathord { \\sim } 1 8 \\mathrm { ~ d ~ }$ ，历史最长连续高温日数17d以上的有11个市县（蒲城、周至、西安、兴平、长安、大荔、渭南、秦都、户县、旬阳、白河)，均位于关中东部平原地区和安康盆地（图3b）。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/89737a435b5a85cd319cdcc59869ed874acfe2bec7428f7586717a2fb4ead39e.jpg",
+        "img_caption": [
+            "图31961一2018年陕西省高温历史极值和连续高温日数极值"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 Extremes of high temperature and continuous high temperature days in Shaanxi Province during 1961-2018 ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/75133770465fa83ed4ba564df59758b5a3be2e33c32f3dc1e620e1ab5e6dfaa1.jpg",
+        "img_caption": [
+            "图41961—2018年陕西省各旬高温日数分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 High temperature days for each 1O day sin Shaanxi Province averaged for 1961-2018 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对陕西近57a各旬高温日数分析显示(图4)，陕西高温最早出现在4月上旬，最晚出现在10月中旬，一般出现在5月下旬至9月上旬，该时段高温日占全年高温日的 $9 6 . 9 \\%$ ，6一8月高温日最多，占全年的 $9 1 . 6 \\%$ 。分区域看，高温最早出现时间，陕北在4月下旬，关中在4月中旬，陕南在4月上旬；最晚出现时间，陕北在9月上旬，关中在10月上旬，陕南在10月中旬，陕南高温出现时间跨度最长，陕北最短。5月中旬之前，陕南高温日数最多；5月下旬开始，关中高温日数显著增多，至7月中旬，关中是全省高温日最多的区域；7月下旬开始，全省各个区域高温日数达到顶峰，是出现高温频次最多的时段；之后，全省高温日数开始减少，且由北向南递减，陕南成为全省高温日最多的区域。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2高温气候变化特征 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.1高温频次变化特征 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/27fe063e64c8e9aeb01789016f08c7e92e266a952d5f8c190ecebd55c86336c1.jpg",
+        "img_caption": [
+            "图51961—2018年陕西省 $[ 3 5 ^ { \\circ } \\mathsf { C } , 3 8 ^ { \\circ } \\mathsf { C } )$ 、 $[ 3 8 ^ { \\circ } \\mathsf { C } , 4 0 ^ { \\circ } \\mathsf { C } )$ 和 $[ 4 0 ^ { \\circ } \\mathsf { C } , + \\infty )$ 高温日变化序列 Fig.5 Changes in the high temperature daysin Shaanxi Province during 1961-2O18,divided by $[ 3 5 ^ { \\circ } \\mathrm { C } , 3 8 ^ { \\circ } \\mathrm { C } ) , [ 3 8 ^ { \\circ } \\mathrm { C } , 4 0 ^ { \\circ } \\mathrm { C } )$ and $[ 4 0 ^ { \\circ } \\mathrm { C } , + \\infty )$ , respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/0eb9db2d1bed063388a4ab69e3f81937afd11b5eee0317a0478d62f2b5935fae.jpg",
+        "table_caption": [
+            "表11961一2018年高温日数的年代特征信息",
+            "Tab.1Interdecadal characteristics of high temperature days during 1961-2018 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"2\">1961—1979 年</td><td colspan=\"2\">1980—1993年</td><td colspan=\"2\">1994—2018年</td></tr><tr><td>均值</td><td>区间</td><td>均值</td><td>区间</td><td>均值</td><td>区间</td></tr><tr><td>[35℃,38℃)</td><td>52</td><td>39~64</td><td>37</td><td>23~51</td><td>60</td><td>40~90</td></tr><tr><td>[38℃,40℃)</td><td>16</td><td>5~31</td><td>8</td><td>1~17</td><td>20</td><td>7~41</td></tr><tr><td>[40℃,+∞)</td><td>4</td><td>0~14</td><td>2</td><td>0~3</td><td>6</td><td>0~21</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "受气候自然变率和人类活动城市化进程的影响，陕西高温表现出明显的气候变化特征，高温极端气候事件频次增多、强度增强是人们的切实感受。图5和表1给出了陕西1961一2018年不同等级高温日数（ $[ 3 5 \\ ^ { \\circ } \\mathrm { C } , 3 8 \\ ^ { \\circ } \\mathrm { C } \\ ]$ 、 $[ 3 8 ^ { \\circ } \\mathrm { C } , 4 0 ^ { \\circ } \\mathrm { C } )$ 、 $\\big [ 4 0 \\mathrm { ~ \\textdegree C } , + \\infty \\big )$ ）的时间变化，显而易见，各等级高温日数在20世纪90年代中后期开始呈明显增多趋势，为1961年以来高温日数最多的时段。 $3 5 { \\sim } 3 8 \\ \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 高温日数20世纪60、70年代 $3 9 \\sim 6 4 \\mathrm { ~ d ~ }$ ，80年代至90年代初 $2 3 \\sim 5 1 \\mathrm { ~ d ~ }$ ，90 年代中期至今 $4 0 { \\sim } 9 0 \\mathrm { ~ d ~ }$ ；1994—2018年高温日数均值在 $6 0 \\mathrm { ~ d ~ }$ ，多于60、70年代的52d和80年代的37d，且24a中有18a高温日大于 $5 0 \\mathrm { ~ d ~ }$ ，1997年高温日达$9 0 \\mathrm { d }$ ，是1961年以来历史最多年份。1994—2018 年 $3 8 { \\sim } 4 0 \\ \\mathrm { ~ \\textdegree C }$ 、 $4 0 \\ \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 以上的强高温日数均值分别为20d、6d，24a中有22a出现 $3 8 { \\sim } 4 0 ^ { \\circ } \\mathrm { C }$ 高温日数超过10d，且有11a高温日数超过 $2 0 ~ \\mathrm { d }$ ，明显高于20世纪70、80年代； $4 0 \\ \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 以上高温天气自1997年以来从未间断，每年都会出现 $4 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 以上的强高温天气，1961年至今 $4 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 以上高温天数超过10d的有5a,其中4a均出现在2000年以后（2002、2006、2016、2017年），且2017年 $4 0 \\ \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 以上高温天数达21d天，为历史最高。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "分析表明，近半个世纪陕西表现出高温频次增多，强度增强的特征。随着气候变暖，截至 2018 年陕西96个台站中有太白和华山2个站从未出现过高温天气，另宜君站至 2017 年7月11日首次出现高温天气，历史最高气温极值 $3 5 . 7 \\ \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.2高温初、终日变化特征",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "随着气候变暖，陕西高温开始时间越来越早，结束时间越来越晚（图6），1961—2018年高温开始时间以4d·（10a）-的线性趋势提前，结束时间以2d·（10a）-'的线性趋势推后。在1993年之前，高温开始时间多始于5月中下旬至6月上中旬，33a中有25a出现在该时段，出现概率为 $7 3 \\%$ ；1994年之后，高温开始时间多出现在4一5月上旬，出现概率为 $6 9 \\%$ ，其中有7个年份高温开始时间出现在4月上中旬，有4个年份在2000 年以后（2004、2005、2013、2018年），高温开始时间明显早于1993年之前。高温结束时间在1993 年之前的33a中有32a在8月中下旬至9月上旬结束，1994年之后的25a中高温结束时间为8月下旬至10月中旬，其中有6个年份高温结束于9月中下旬及以后（1998、1999、2002、2010、2013、2016年），2013年和 2016 年高温结束时间出现在10月，高温结束时间有推后趋势。同时，通过高温个例分析发现，1961年以来4月上旬我省出现过1个高温日，为2005年4月7日；10月份出现过2个高温日，为2016年10月3日和2013年10月12日。可见，4月上旬出现高温和10月份出现高温的情况均出现在21世纪。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b250979ab92ac98d6b10eb31195a5f8edfc2ced6972223772dc4b1fbbf06fc83.jpg",
+        "img_caption": [
+            "图61961一2018年陕西省逐年高温开始和结束日序曲线图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.6 Onset and ending dates of high temperature processes in Shaanxi Province during 1961-2018 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3单站高温评估方法",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "利用单站高温天气综合强度指标，计算出每个单站历史上所有高温过程的 $S I$ 值，根据不同高温过程出现的概率将高温过程分为4个等级，即一般高温过程（ $5 0 \\%$ ）、较强高温过程（ $3 0 \\%$ ）、强高温过程（ $1 5 \\%$ ）、特强高温过程（ $5 \\%$ ）。据此，计算出陕西各个测站高温天气综合强度等级划分的阈值区间，可对单站高温天气过程的综合强度进行量化和精准评估。陕西省10地市不同高温天气过程综合强度等级的阈值（表2）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2陕西省10地市高温过程评估等级划分阈值 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Tab.2Threshold values of different levels for high temperature processes over1O cities in Shaanxi Province ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/2c80f12ce9555ed930ffd3715ca485390af141f4823b04f37f6592c4fb73433e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">站名</td><td rowspan=\"2\">高温 次数</td><td colspan=\"2\">一般高温过程</td><td colspan=\"2\">较强高温过程</td><td colspan=\"2\">强高温过程</td><td colspan=\"2\">特强高温过程</td></tr><tr><td>阈值</td><td>次数</td><td>阈值</td><td>次数</td><td>阈值</td><td>次数</td><td>阈值</td><td>次数</td></tr><tr><td>榆林</td><td>12</td><td>SI≤4.2</td><td>6</td><td>4.2<SI≤6.7</td><td>4</td><td>6.7<SI≤8.4</td><td>2</td><td>SI>8.4</td><td>1</td></tr><tr><td>延安</td><td>16</td><td>SI≤3.6</td><td>8</td><td>3.6<SI≤7.9</td><td>5</td><td>7.9<SI≤9.1</td><td>2</td><td>SI>9.1</td><td>1</td></tr><tr><td>铜川</td><td>6</td><td>SI≤3.7</td><td>3</td><td>3.7<SI≤6.4</td><td>2</td><td>6.4<SI≤8.3</td><td>1</td><td>SI>8.3</td><td>0</td></tr><tr><td>宝鸡</td><td>97</td><td>SI≤4.9</td><td>49</td><td>4.9<SI≤8.1</td><td>29</td><td>8.1<SI≤15.3</td><td>15</td><td>SI>15.3</td><td>5</td></tr><tr><td>西安</td><td>189</td><td>SI≤4.7</td><td>95</td><td>4.7<SI≤8.7</td><td>57</td><td>8.7<SI≤13</td><td>28</td><td>SI>13</td><td>9</td></tr><tr><td>渭南</td><td>198</td><td>SI≤5.5</td><td>99</td><td>5.5<SI≤9.9</td><td>59</td><td>9.9<SI≤15.7</td><td>30</td><td>SI>15.7</td><td>10</td></tr><tr><td>咸阳</td><td>157</td><td>SI≤5.0</td><td>79</td><td>5.0<SI≤7.7</td><td>47</td><td>7.7<SI≤15.0</td><td>24</td><td>SI>15.0</td><td>8</td></tr><tr><td>汉中</td><td>26</td><td>SI≤3.6</td><td>13</td><td>3.6<SI≤7.7</td><td>8</td><td>7.7<SI≤12.4</td><td>4</td><td>SI>12.4</td><td>1</td></tr><tr><td>商县</td><td>39</td><td>SI≤4.5</td><td>20</td><td>4.5<SI≤5.5</td><td>12</td><td>5.5<SI≤8.2</td><td>6</td><td>SI>8.2</td><td>2</td></tr><tr><td>安康</td><td>179</td><td>SI≤6.3</td><td>90</td><td>6.3<SI≤11.4</td><td>54</td><td>11.4<SI≤18.9</td><td>27</td><td>SI>18.9</td><td>9</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为验证综合强度指标评估高温过程的合理性，选取位于关中东部的渭南和陕南东部的安康2站为例，按表2中高温天气过程综合强度等级划分阈值，分别对渭南和安康站1961—2017年以来的高温过程进行评估。渭南站58a来有198 次高温过程，其中出现10次特强高温过程、30次强高温过程、59次较强高温过程，99次一般高温过程；安康站 58a共出现179 次高温过程，其中8次特强高温过程、27次强高温过程、54次较强高温过程、一般高温过程90次。通过分析各次高温过程中最强高温、高温平均值、高温持续时间等基本要素的特征发现，综合强度指标能够合理将高温过程进行等级划分，在同一等级中，高温过程强度指标排位与高温过程的基本特征相符。表明该指标能够科学、定量地对单站高温过程综合强度等级进行评估，结果合理可信，对业务工作指导意义显著。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "以渭南站特强高温过程为例，表3给出了渭南站 1961—2017年该站出现的10次特强高温过程的信息，可以看出，10次特强高温过程都具有持续时间长、强度大的特征。渭南站最强高温过程出现在1971年7月 $1 5 { \\sim } 3 1$ 日，此次高温过程持续17d，为该站建站以来持续时间最长的一次高温过程，高温期间最大日最高气温 $3 9 . 7 \\ \\mathrm { ~ \\textbar { ~ C ~ } ~ }$ ，过程平均最高气温为37.6℃。持续天数相对较短的2次特强高温过程（1962年7月 $9 \\mathrm { \\sim } 1 6$ 日、2005年6月 $1 8 \\sim$ 24日）持续天数分别是8d和7d（表3），但其高温强度很强，过程最大日最高气温分别为 $4 1 . 7 \\ : \\mathrm { ~ \\textcircled { C } . 4 1 . 2 \\ : \\mathrm { ~ \\textdegree C } }$ ，过程平均最高气温分别达 $3 9 . 7 \\ : \\mathrm { ~ \\textdegree ~ } , \\ : 3 9 . 6 \\ : \\mathrm { ~ \\textdegree ~ }$ ，其中1962年7月 $9 \\sim$ 16日持续8d的高温过程有4d日最高气温超过 $4 0 \\ \\mathrm { ~ \\textdegree C }$ （3d超过 $4 1 ~ \\mathrm { { ^ \\circ C } }$ ），2d超过 $3 9 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ，2005年6月 $1 8 { \\sim } 2 4$ 日持续7d的高温过程有3d日最高气温超过 $4 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ，2d超过 $3 9 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 。以上高温过程分布特征在该站历史上属于出现概率小的高温过程，与综合强度指标反映的信息一致，强度等级为特强高温过程。该站历史上最大日最高气温为 $4 2 . 8 ~ \\mathrm { ~ \\textbar { ~ } C ~ }$ ，出现在2006年6月 $1 5 { \\sim } 1 9$ 日，过程平均 $3 9 . 8 ~ \\mathrm { { ^ { \\circ } C } }$ ，但仅持续5d，综合强度指标13.5；历史最大过程平均最高气温为 $4 0 . 2 ~ \\mathrm { ~ \\textbar { ~ C ~ } ~ }$ ，出现在1966年6月 $1 9 \\mathrm { \\sim } 2 3$ 日，过程最高气温为 $4 2 . 2 \\ \\mathrm { ~ \\textbar { ~ } C ~ }$ ，亦仅持续5d，综合强度指标为15.5，两次高温过程强度大，但持续时间相对较短，所以等级划分为强高温过程。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/9a904d6f3342ba7bfdf452235a41eef19ec90080205a353a8df41a6d703187bf.jpg",
+        "table_caption": [
+            "Tab.3 Extreme high temperature processes over Weinan City during 1961-2017 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>综合强度指标</td><td>高温出现时间</td><td>持续天</td><td>最大日最高</td><td>过程平均最</td></tr><tr><td>28.8</td><td>1971-07-15—07-31</td><td>数/d 17</td><td>气温/℃ 39.7</td><td>高气温/℃ 37.6</td></tr><tr><td>21.5</td><td>1962-07-09—07-16</td><td>8</td><td>41. 7</td><td>39.7</td></tr><tr><td>21.2</td><td>1968-07-22—08-02</td><td>12</td><td>39.6</td><td>38.0</td></tr><tr><td>19.9</td><td>2004-06-19—06-29</td><td>11</td><td>39.4</td><td>37.8</td></tr><tr><td>19.6</td><td>1997-07-20—07-31</td><td>12</td><td>39.0</td><td>37. 6</td></tr><tr><td>18.4</td><td>2000-07-16—07-28</td><td>13</td><td>39.2</td><td>36.7</td></tr><tr><td>18.2</td><td>2010-06-14—06-24</td><td>11</td><td>39.0</td><td>37.5</td></tr><tr><td>18</td><td>2005-06-18—06-24</td><td>7</td><td>41.2</td><td>39.6</td></tr><tr><td>17. 1</td><td>2015-07-24—08-02</td><td>10</td><td>39.4</td><td>37.7</td></tr><tr><td>17</td><td>1997-08-19—08-31</td><td>13</td><td>38.4</td><td>36.8</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表 4给出了安康站8次特强高温过程的基本信息，可以看出该站最强高温过程出现在2016年8月 $1 0 { \\sim } 2 5$ 日，此次过程持续 $1 6 \\mathrm { ~ d ~ }$ ，为该站历史最长持续日数，高温强度也大，最大日最高气温 $4 0 . 9 ~ \\mathrm { ~ \\textdegree ~ }$ ，过程平均最高气温 $3 8 . 4 \\mathrm { ~ \\ ^ { \\circ } C }$ 。该站历史最大日最高气温 $4 1 . 9 \\mathrm { ~ \\ ^ { \\circ } C }$ ，出现在2017年7月 $1 9 \\mathrm { \\sim } 2 8$ 日，持续时间 $1 0 \\mathrm { d }$ ，过程平均最高气温 $3 9 . 8 ~ \\mathrm { { ^ { \\circ } C } }$ ，综合强度亦为特强高温过程，综合强度指标略低于2016年8月 $1 0 { \\sim } 2 5$ 日的过程。该站历史最高过程平均最高气温 $4 0 . 1 ~ \\ { ^ { \\circ } C }$ ，为2006年7月 $1 8 { \\sim } 2 1$ 日的高温过程，但此次过程持续时间短，仅4d,综合强度指数11，为较强高温过程。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/7cbb2ff88e9ae2137387939449af2c9dea93acbb095128fee14864b2eb57e4fa.jpg",
+        "table_caption": [
+            "表31961—2017年渭南市特强高温过程",
+            "表41961—2017年安康市特强高温过程",
+            "Tab.4 Extreme high temperature processes over Ankang City during 1961-2017 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>综合强 度指标</td><td>高温出现时间</td><td>持续天 数/d</td><td>最大日最高 气温/℃</td><td>过程平均最 高气温/℃</td></tr><tr><td>33.2</td><td>2016-08-10—08-25</td><td>16</td><td>40.9</td><td>38.4</td></tr><tr><td>30.6</td><td>1966-07-26—08-10</td><td>16</td><td>40.4</td><td>38.1</td></tr><tr><td>26.0</td><td>2017-07-01—07-28</td><td>10</td><td>41.9</td><td>39.8</td></tr><tr><td>24. 1</td><td>1972-08-07—08-18</td><td>12</td><td>40.4</td><td>38.3</td></tr><tr><td>23.3</td><td>1969-07-25—08-09</td><td>16</td><td>39.3</td><td>37.0</td></tr><tr><td>20.1</td><td>2006-08-05—08-17</td><td>13</td><td>40.0</td><td>37.3</td></tr><tr><td>20.1</td><td>1981-07-22—08-04</td><td>14</td><td>38.7</td><td>37.1</td></tr><tr><td>19.9</td><td>2017-07-30- -08-07</td><td>9</td><td>41.3</td><td>38.5</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4高温过程试评估 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "以上分析表明本文分析得出的单站高温天气过程综合强度指标能够合理反映陕西单站高温天气过程强度的等级。为进一步验证该综合强度指标在业务工作中应用的科学性，基于该指标对 2018年的高温过程进行试评估。以渭南、安康为例，对各站的高温过程强度等级进行试评估（表5）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/e625bb6a8bb506d000d3acd7b3b8ab74fc4b4ea4182662bf41613acb1be75d18.jpg",
+        "table_caption": [
+            "表5渭南、安康站2018年7月、8月高温过程信息一览表",
+            "Tab.5 List of high temperature processes over Weinan and Ankang Cities in July and August, 2018 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>站名</td><td>时间</td><td>综合强 度指标</td><td>试评估</td><td>持续 天数 /d</td><td>最大日 最高气 温/℃</td><td>过程平 均最高 气温/℃</td></tr><tr><td>渭南</td><td>2018-07-18—07-20</td><td>3.2</td><td>一般高温过程</td><td>3</td><td>36.2</td><td>35.8</td></tr><tr><td rowspan=\"6\">安康</td><td>2018-07-13—07-26</td><td>19.9</td><td>特强高温过程</td><td>14</td><td>39.1</td><td>36.8</td></tr><tr><td>2018-08-02—08-08</td><td>8.7</td><td>较强高温过程</td><td>7</td><td>37.5</td><td>36.4</td></tr><tr><td>2018-08-10—08-15</td><td>8.7</td><td>较强高温过程</td><td>6</td><td>38.1</td><td>36.9</td></tr><tr><td>2018-08-18—08-21</td><td>5</td><td>一般高温过程</td><td>4</td><td>37.8</td><td>36.5</td></tr><tr><td>2018-08-28—08-31</td><td>4.9</td><td>一般高温过程</td><td>4</td><td>37.2</td><td>36.5</td></tr><tr><td>2018-06-12—06-14</td><td>3.0</td><td>一般高温过程</td><td>3</td><td>35.6</td><td>35.3</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2018年渭南站7月 $1 8 \\sim 2 0$ 日出现1次高温过程，过程持续3d,最大日最高气温 $3 6 . 2 \\mathrm { ~ \\ ^ { \\circ } C }$ ，平均最高气温 $3 5 . 8 ~ \\mathrm { ~ \\textdegree C }$ ，依据综合强度指标评判,该过程属于一般高温过程。历史资料显示该站一般高温过程持续天数多为 $3 { \\sim } 4 \\mathrm { d }$ ，过程最高气温一般在 $3 8 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 以下，过程平均最高气温在 $3 7 \\mathrm { ~ \\textdegree C }$ 以下。分析可见，针对2018年7月 $1 8 \\sim 2 0$ 日高温过程的评判科学可信。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "安康站2018年出现了6次高温过程，其中7月 $1 3 \\sim 2 6$ 日的高温过程持续14d，最大日最高气温 $3 9 . 1 ~ \\mathrm { ~ \\textdegree ~ }$ ，过程平均最高气温 $3 6 . 8 ~ \\mathrm { ~ \\textdegree ~ }$ ，依据综合强度指标评判属于特强高温过程。安康站历史上特强高温过程持续时间一般达10d以上，过程最高气温在 $3 9 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 以上，平均气温在 $3 7 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 以上，2018年7月 $1 3 \\sim 2 6$ 日的特强高温过程平均最高气温低于 $3 7 \\mathrm { ~ \\textdegree C }$ ，但接近 $3 7 \\mathrm { ~ \\textdegree C }$ ，同时由于过程持续天数达 $\\mathrm { ~ 1 4 ~ d ~ }$ ，是该站1961年以来持续天数第2高值，且过程最高气温达到 $3 9 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ，持续高温的影响显而易见。此外，安康站2018年8月出现的几次高温过程强度较弱，有2次较强高温过程和3次一般高温过程，对比分析5次高温过程在安康站历史所有高温过程中各个要素的排位，认为依据综合强度指标对高温过程的评估合理可信。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "此外，2018年7月中下旬陕西省出现1次大范围的高温天气，基于本文建立的高温天气综合强度指标，对此次过程中单站高温强度等级进行了划分（图7）。分析发现，7月中下旬共有 40个区(县)出现高温过程，主要集中在关中和陕南地区，其中一般高温12区(县)，较强高温6区（县），强高温11区（县），特强高温11区（县）。特强高温集中在关中中东部和陕南东部安康盆地，其连续高温日数均在10d以上，其中旬阳连续高温日数达 $2 0 ~ \\mathrm { d }$ 、华县 $1 3 \\mathrm { ~ d ~ }$ ，均突破历史极值，西安为 $1 0 \\mathrm { ~ d ~ }$ 。可以看出，评估结果能实际反映出高温的基本特征，合理可信，为高温监测提供了科学定量的评估理论基础。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/db3d6d82fde0de4a404723fecdef3c4779be7c70700a50809fa64a5376003c02.jpg",
+        "img_caption": [
+            "图7陕西2018年7月中下旬高温过程等级分布",
+            "Fig.7Levels of high temperature processes in Shaanxi Province during mid and late July,2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3结论和讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在高温气候变化特征方面的结论与前人研究结论具有一致性[12.23]，但本研究基于最新的气候资料，从不同时空角度对高温频次和强度的变化特征进行了更全面的分析。进而提出了适用于陕西的单站高温过程评估方法，建立评估指标，确定单站高温过程综合强度等级划分阈值。主要结论如下：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（1）陕西省高温发生频次、高温强度均呈现南多北少、东多西少的分布特征。其中关中中东部平原地区和陕南东部安康盆地是高温发生频次多、强度强,且多持续性高温的区域。陕西出现高温天气的时间跨度从4月上旬至10月中旬，6—8月高温最多，占全年的 $9 1 . 6 \\%$ ，其中7月下旬是全省高温频次最多的时段。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（2）近半个多世纪以来，陕西高温呈现出明显的高温频次增多、强度增强的特征。截至 2018 年，全省仅有2个高山站（太白和华山）从未出现过高温天气，宜君站 2017 年7月11日首次出现高温天气。此外，随着气候增暖，陕西省高温有出现时间提前和结束时间推后的变化特征，陕西高温最早出现在4月上旬，最晚出现在10月中旬，且4月上旬高温和10月份高温均出现在21世纪。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（3）通过对比分析陕西各类典型高温过程的特点，确定了单站高温过程评估方法。基于前人研究成果，提出了适用于陕西的单站高温天气过程综合强度指标计算方法，该方法充分考虑了高温强度、持续时间等因素在一次高温过程中的影响，合理反映出某地区不同高温过程之间的差异和共性，方法科学性强，结果可信度高。将陕西单站高温过程按一般高温过程、较强高温过程、强高温过程、特强高温过程分为4个强度等级，进一步确定了各个单站高温天气过程不同等级划分阈值。通过检验和试评估，笔者所建立的划分指标和阈值实用可信，对指导业务工作意义重大。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "高温监测预警应不断加强高温预报预测，探索预评估新技术新方法；加强多部门联动，高效及时发布高温预警信号，提升防灾减灾能力。西太平洋副热带高压和大陆暖高压脊是控制和影响陕西高温的主要天气系统，但影响高温的因素非常复杂，环流异常，温室气体增暖、城市热岛效应、不同地形地貌和下垫面差异等都会造成高温显著的区域分布特性。因此有待进一步对陕西高温的成因进行深入分析，结合各种致灾因子和行业影响，开展高温灾害风险",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "评估研究。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：   \n[1]Caputi N,Kangas M,Denham A,et al.Management adaptation of invertebrate fisheries to an extrememarine heat waveevent at aglobal warminghotspot[J].Ecology& Evolution,2016,6(11):3583-3593.   \n[2]Lee W K,Lee H A,Lim Y H,et al.Added eect of heat wave on mortality in Seoul,Korea[J].International Journal of Biometeorology,2O16,6O(5):1-8.   \n[3] 姜凤岐,于占源,曾德慧,等.气候变化对三北防护林的影响与应对策略[J].生态学杂 志,2009,28(9):1702-1705.[Jiang Fengqi,Yu Zhanyuan,Zeng Dehui,et al.Effects of climate change on the Three-north Shelter Forest Program and corresponding strategies[J].Chinese Journal of Ecology,2009,28(9):1702-1705.]   \n[4] 李祎君,梁宏,王培娟.气候变暖对华北冬小麦种植北界及生育期的影响[J].麦类作物学 报,2013,33(2):382-388.[Li Yijun,Liang Hong,Wang Peijuan.Effects of climate warming on the planting boundary and developmental stages of winter wheat[J].Journal of Triticeae Crops, 2013,33(2):382-388.]   \n[5] 杨建平,丁永健,陈仁升,等.近 40a 中国北方降水量与蒸发量变化[J].干旱区资源与环 境,2003,17(2):6-11.[Yang Jianping,Ding Yongjian,Chen Rensheng,et al.Variations of precipitation and evaporation in North China in recent 4O years[J].Journal of Arid Land Resources and Environment, 2003,17(2):6-11.]   \n[6] 任国玉,郭军,徐铭志,等.近50 年中国地面气候变化基本特征[J].气象学 报,2005,63(6):942-955.[Ren Guoyu,Guo Jun,Xu Mingzhi,et al.Climate changes of China's mainland over the half century[J].Acta Meterologica Sinica, 2005,63(6):942-955.]   \n[7] 杨萍,刘伟东,王启光,等.近 40 年我国极端温度变化趋势和季节特征[J].应用气象学 报,2010,21(2):29-36.[Yang Ping,Liu Weidong,Wang Qiguang,et al.The climate change trendand seasonal characteristics of daily temperature in China for the latest 40 years[J].Journal of Applied Meteorological Science, 2010,21(2):29-36.]   \n[8]翟盘茂,潘晓华.中国北方近50 年温度和降水极端事件变化[J].地理学 报,2003,58(9):12-2O.[Zhai Panmao,Pan Xiaohua.Change in extreme temperature and precipitation over northern China during the second half of the 2Oth century[J].Acta Geographica Sinica, 2003,58(9):12-20.]   \n[9]郑祚芳.北京极端气温变化特征及其对城市化的响应[J].地理科 学,2011,31(4):459-463.[Zheng Zuofang.Characteristics of extreme temperature variation and their response to urbanization in Beijing[J].Scientia Geographica Sinica, 2011,31(4):459-463.] [10]伍红雨,杜尧东.近 49 年广东高温的气候特征及其变化规律[J].热带气象学 报,2011,27(3):427-432.[Wu Hongyu,Du Yaodong.Climatic characteristics and change laws of high temperaturein Guangdong during the last 49 years[J].Journal of Tropical Meteorology, 2011,27(3):427-432.]   \n[11] 张红英,李毓富,刘耀文,等.山西东南部气温和降水极值研究[J].干旱区研 究,2018,353(3):589-596.[Zhang Hongying,Li Yufu,Liu Yaowen,et al.Extreme valuesof temperatureandprecipitation in southeastShanxi Province[J].Arid Zone Research, 2018,353(3):589-596.]   \n[12] 刘学峰,李元华,秦丽.河北省近 50 年最高气温及高温日数变化特征[J].气象科 技,2007,25(1):31-35.[Liu Xuefeng,Li Yuanhua,Qin Li.Characteristics of maximum temperature and high temperature days in Hebei Province in past 5O years[J].Meteorogical Science and Technology, 2007,25(1):31-35.]   \n[13] 陈颖,邵伟玲,曹萌,等.新疆夏季高温日数的变化特征及其影响因子[J].干旱区研 究,2020,37(1):58-66.[Chen Ying,Shao Weiling,Cao Meng,et al.Variation characteristicsof summer high temperature daysand itsaffecting factors in Xinjiang[J]. Arid Zone Research,2020,37(1):58-66.]   \n[14] 蔡新玲,吴素良,贺皓,等.变暖背景下陕西极端气候事件变化分析[J].中国沙 漠,2012,32(4):1905-1101.[Cai Xinling,Wu Suliang,He Hao,et al.Change of extreme climate events in Shaanxi Province under global warming background[J].Journal of Desert Research, 2012,32(4):1905-1101.]   \n[15] 张旭阳,宁海文,杜继稳,等.西安城市热岛效应对夏季高温的影响[J].干旱区资源与环 境,2010,24(1):95-101.[Zhang Xuyang,Ning Haiwen,Du Jiwen,et al.The impact of urban heat island effect on high temperature in summer in Xi'an[J]. Journal of Arid Land Resources and Environment, 2010,24(1):95-101.]   \n[16] 李艳莉,刘映宁,李美荣,等.陕西果树高温热害气象特征分析[J].陕西农业科 学,2007(3):65-70.[Li Yanli,Liu Yingning,Li Meirong,et al.Meteorological analysison the temperature fever injury to Shaanxi fruit trees[J].Shaanxi Journal of Agricultural Sciences, 2007(3):65-70.]   \n[17] 杨尚英,唐艳娥,肖国举.近 48 年来渭北旱塬气候变化对苹果生长的影响[J].中国农学通 报,2010,26(12):365-370.[Yang Shangying,Tang Yan'e,Xiao Guoju.The influence of climate change on apple growth in Weibei dry highland for last 48 years[J].Chinese Agricultural Science Bulletin,2010,26(12):365-370.]   \n[18] 张尚印,张海东,徐祥德,等.我国东部三市夏季高温气候特征及原因分析[J].高原气 象,2005,24(5):829-835.[Zhang Shangyin,Zhang Haidong,Xu Xiangde,et al.Climate character and cause analysis of summer high temperature in main cities of East China[J]J.Plateau Meteorology, 2005,24(5):829-835.]   \n[19]史军,丁一汇,崔林丽.华东地区夏季高温期的气候特征及其变化规律[J].地理学 报,2008,63(3):237-246.[Shi Jun,Ding Yihui,Cui Linli.Climatic characteristics and their changing law during summer high-temperature times in East China[J],Acta Geographica Sinica, 2008,63(3):237-246.]   \n[20] QX/T228-2014,中华人民共和国气象行业标准[S].[QX/T228-2014,The meteorological industry standards of the People's Republic of China[S].]   \n[21]李娜,钱锦霞,李芬,等.山西省高温空间分布特征及区划[J].中国农学通 报,2015,31(6):243-247.[Li Na,Qian Jinxia,Li Fen,et al.Spatial distribution characteristics and regionalization of high temperature in Shanxi[J].Chinese Agricultural Science Bulletin, 2015,31(6):243-247.]   \n[22]袭祝香,孙力,刘实.吉林省单站暴雨特征分析及评估方法[J].气象科 学,2009,29(2):230-234.[Xi Zhuxiang,Sun Li,Liu Shi.Methods of characteristics analysis and assessment for single-station heavy rainfall in Jilin Province,2009,29(2):230-234.]   \n[23] 高红燕,王丹,卢珊,等.西安市高温闷热天气的气候特征及其环流形势[J].干旱区地 理,2015,38(5):912-919.[Gao Hongyan,Wang Dan,Lu Shan,et al.Climatologic characteristics and circulation situation of hot day and weltering weather at Xi'an City[J].Arid Land Geography, 2015,38(5):912-919.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Temporal-spatial features of high temperature events in Shaanxi Province and their quantitative evaluation ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "CHENG Xiao-xia1,2，CAI Xin-ling1，LI Ming1，LIANG Qi-chen³，HU Lin1 (1.Shaanxi Climate Center, Xi'an 710o15, Shaanxi, China; 2. State Key Laboratory ofLoess and Quaternary Geology, Instituteof Earth Environment, ChineseAcademyofSciences, Xi'an71o61,Shaanxi,China;3.Xianyang Meteorological Bureau，Xianyang 7l20oo,Shaanxi,China) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The spatial-temporal features of high temperature events in Shaanxi Province are analyzed in this study based onthe daily highest temperature data duringthe years 196lto 2O18.To evaluate the high temperature events rapidly,high temperature processes are defined based on their characteristics.With reference to previous studies, the intensity index of high temperature processat a single station is proposed for Shaanxi province by the method of error,trial and improvement.Through distinct high temperature processes and their probability,the threshold values of different intensity grades are determined.The results show that the frequency and strength of high temperature events in Shaanxi province presenta pater of more in the south and less in the north,as well as more in the east and less in the west.The plain region over the middle and eastern parts of Guanzhong,and Ankang basin over the east of southern Shaanxi are key areas for high temperature events, which occupythe peak values of frequency,intensityand extremes ofhigh temperature.The high temperature weathers occur during early April to mid October.In June to August, these events are most frequent,which occupies a fraction of $9 1 . 6 \\%$ .The period with the highest frequency in Shaanxi is late July.During the recent half century,the frequency and strength of high temperature have both been intensified significantly.Their onset and ending dates have also been advanced and delayed,respectively. In some years of $2 1 ^ { \\mathrm { s t } }$ century,the earliest dates of high temperature events emerges in early April while the latest occurs in October.The intensity index of high temperature events at a single station proposed in this study can reflect the differences and consistency of various high temperature processes.The method gives a reasonable rank for the intensity of high temperature processes and further determines their intensity levels,which passes the business assessment and is proved practicable.Since the high temperature processes in Shaanxi province are complicated,further studies should focus on their mechanisms and the risk assessment of high temperature disasters are also required. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Keywords:high temperature;spatial-temporal feature；single-station high temperature process；intensity; evaluation method; Shaanxi Province ",
+        "page_idx": 12
+    }
+]

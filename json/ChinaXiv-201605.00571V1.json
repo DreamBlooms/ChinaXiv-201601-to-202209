@@ -1,0 +1,793 @@
+[
+    {
+        "type": "text",
+        "text": "超级计算面临的挑战及其对未来数值算法设计的可能影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "田荣",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 超级计算机浮点运算能力的迅速提高和数据移动能力的增长缓慢已经造成了非常明显的\"浮点效率鸿沟”。“浮点效率鸿沟\"反映了传统数值算法与新兴硬件结构之间发展的不平衡和不匹配。在目前的新兴众核处理器上，一个\"高效\"的数值算法应该使单位访存所完成的浮点运算次数尽量加大，从而尽可能地享受由这一轮技术变革带来的新的\"免费午餐”——超强浮点运算能力。这极可能将导致数值算法设计在思路上、甚至原则上的根本性转变。本文尝试面向新兴计算机体系结构，从充分释放众核处理器\"冗余\"计算能力的角度出发，发展一种新的高效且高精度（无额外自由度）的广义有限元方法，结合无网格/粒子/广义有限元法（以及有限差分）等一类新兴数值方法中所具有的\"计算密集度可调\"的共性特征，探讨硬件效能和数值精度\"双赢\"的新型计算模式的可能性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：百亿亿级计算 浮点效率鸿沟 众核协同设计广义有限元无网格粒子法",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1百亿亿次计算的挑战和超级计算机的“浮点效率鸿沟\"",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/7de7474808cc708059b88e4f3ffcc34fc65f4292ac822432cfafb900ffe0ba75.jpg",
+        "table_caption": [
+            "表1目前的千万亿次系统与未来百亿亿次系统（原型设计）的比较"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>比较内容</td><td>泰坦(Titan) (2011)</td><td>天河-II (2013)</td><td>百亿亿次系统 (美国DOE方案 2020-2022部署)</td></tr><tr><td>峰值</td><td>27Pflop/s</td><td> 54.9Pflop/s</td><td>1.2Eflop/s</td></tr><tr><td>功耗</td><td>8.3MW (2Gflop/W)</td><td>17.8MW (1.935Gflop/W)</td><td>~20MW (50Gflops/W)</td></tr><tr><td>系统内存</td><td>710TB ((32GB+6GB)x18688)</td><td>1.4PB ((64GB+3x8GB) x16000)</td><td>32-64PB</td></tr><tr><td>节点峰值</td><td>1452Gflop/s (141+1311)</td><td>3431Gflop/s (422+3009)</td><td>1.2 or 15Tflop/s</td></tr><tr><td>节点内存 带宽</td><td>232GB/s (52+180)</td><td>304GB/s(?) (64(?)+240)</td><td>2-4TB/s</td></tr><tr><td>节点 并发度</td><td>16CPU+ 2688 Nvidia cores</td><td>24CPU+ 3×57Xeon Phi cores</td><td>0(10K) or 0(1K)</td></tr><tr><td>节点总网 络带宽</td><td>8GB/s</td><td>6.35GB/s (MPI broadcast)</td><td>200-400GB/s</td></tr><tr><td>系统节点数</td><td>18688</td><td>16000</td><td>0(100K) or 0(1M)</td></tr><tr><td>系统总并 发数</td><td>560640 (299008 AMD cores +</td><td>3120000 (384000 Ivy Bridge cores</td><td>0(1B)</td></tr><tr><td>平均无故障 时间</td><td>261632 Nvidia cores) ？</td><td>+ 2736000 Xeon Phi cores) ？</td><td>O(<1day)</td></tr></table></body></html>",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "根据 2013年11月的超级计算机500 强（Top500）排名，中国的天河II号（CPU-MIC异构架构)成为目前世界上最快的超级计算机。Linpack 实测速度为 54.9 petaflop/s(1 petaflops为每秒 $1 0 ^ { 1 5 }$ （千万亿）次浮点运算)。第二名为安装在美国橡树岭国家实验室的泰坦（Titan，CPU-GPU 异构架构)，Linpack 实测速度为17.59 petaflop/s。目前，“百亿亿次”——比千万亿次快1000 倍的——超级计算技术正在成为世界超算大国共同挑战的目标。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "美国能源部按照电力消耗上限（如不应超过整个胡佛水坝的供电能力)，以及日常运维、保有费用与系统造价的比例关系（如保有费用不应超过建造成本)，确定出未来百亿亿次计算机设计目标，其中总体功耗不应超过20MW[1]。表1列出了目前世界排名第一和第二的天河I号和泰坦(Titan)以及美国能源部的百亿亿次系统原型设计的主要指标。通过表1中的比较，我们可以发现两个事实：(1)天河I号的峰值为泰坦的2倍，功耗也正好为泰坦的2倍多一点；(2）两台机器的功耗已分别达到8.3MW 和17.8MW，而峰值仅分别为百亿亿次的$2 . 7 \\%$ 和 $5 . 4 9 \\%$ 。事实(1)说明：以天河ⅡI号和泰坦为代表的目前的技术进步模式是线性增量式的，性能与能源消耗成比例提高。事实(2)说明：在总体 20MW 的功耗约束下，目前的线性增量式的技术进步将无法实现百亿亿次计算目标，必须寄希望于计算技术的“颠覆性\"进步。功耗效率成为了实现百亿亿级计算所面临的真正挑战。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "另一方面，在大规模科学与工程计算领域，人们熟知：一个并行有限元/有限差分程序，即使可获得接近线性的良好并行加速，程序所能用到硬件的浮点性能也只占到峰值性能很少的一部分。无论是以单元计算为主的显格式计算（即无需解总体线性方程组，如差分模板（stencil）计算），还是以线性方程组求解（核心算法多为稀疏矩阵-向量乘（Sparse Matrix-Vectormulti-ply，spMV)）为主的隐格式计算，这个比例一般很少超过 $30 \\%$ 。表2中，我们针对差分模板计算和稀疏矩阵-向量乘运算，对",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/1337d6901ae9e4ad140674ff1f20cc4c8bcb21940b4665023cf66767ed77d365.jpg",
+        "img_caption": [
+            "图1．超级计算机的\"浮点效率鸿沟\""
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AMD Opteron 6274 和IntelIvyBridge 两款最新多核CPU,以及英伟达 $\\mathbf { k } 2 0 \\mathbf { x }$ GPU 和 Intel MIC两款主流众核处理器的\"理论浮点效率上限\"进行了估算。不考虑时间局部性，即使是理论上的浮点效率(假设计算数据可以全部放入缓存)，结果仍然均在 $31 \\%$ 以下。另外，根据最新Top500 排名以HPCG（采用预条件共轭梯度法求解线性方程组的有限差分计算）对现有",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/8db14c5fbc40de474ea31e9b0cfd49d8b2abb82bb63760d43aea217c45e9faf1.jpg",
+        "table_caption": [
+            "表2差分模板计算和迭代法求解线性方程组计算的理论浮点效率上限"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>AMD Opteron 6274</td><td>Intel Ivy Bridge</td><td>nVidia k20x GPU</td><td>Intel MIC</td></tr><tr><td>峰值(Gflop/s)</td><td>141</td><td>422</td><td>1311</td><td>3009</td></tr><tr><td>峰值带宽比(m)</td><td>21.69</td><td>52.75</td><td>58.26</td><td>100.3</td></tr><tr><td>3点差分(3D)</td><td>6.5%</td><td>2.7%</td><td>2.4%</td><td>1.4%</td></tr><tr><td>5点差分(3D)</td><td>14.4%</td><td>5.9%</td><td>5.3%</td><td>3.1%</td></tr><tr><td>7点差分(3D)</td><td>22.3%</td><td>9.2%</td><td>8.3%</td><td>4.8%</td></tr><tr><td>9点差分(3D)</td><td>30.2%</td><td>12.4%</td><td>11.2%</td><td>6.5%</td></tr><tr><td> spMV</td><td>9.22%</td><td>3.79%</td><td>3.43%</td><td>1.99%</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "超级计算机的测试结果表明，(即使相对LINPACK实测值)最好的浮点效率仅为 $4 . 1 \\%$ （日本的\"京\"超级计算机）（表3)。然而，用测试标准程序Linpack测得的超级计算机的浮点效率一般可以达到 $80 \\%$ 以上。日本的\"京\"超级计算机的Linpack 测试结果甚至高达 $93 \\%$ 。实际科学与工程应用的浮点效率与超级计算机的Linpack\"名义\"浮点效率之间形成了一个明显的“浮点效率鸿沟”（表3）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此我们目前面对的现状是：一方面制造百亿亿次超级计算机面临越来越大的能耗挑战，另一方面，目前的超级计算机的实际浮点效率却非常低下。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/0cf88c6e61a57be3ec7c77f36bc2dd135d3e00ad4d61fb36132a73d2583652b2.jpg",
+        "table_caption": [
+            "表3现有超级计算机在真实应用下的浮点计算效率(数据来源：JackDongarra)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>安装场所</td><td>计算机</td><td>计算核 数目</td><td>Linpack 峰值 (pflops)</td><td>排名</td><td>(pflops)</td><td>Top500 真实应用峰值 真实应用峰值 /Linpack峰值</td></tr><tr><td>中国广州 超算中心</td><td>天河-2 Xeon12c 2.2GHz +IntelXronPhi 57c+定制核</td><td>3,120,000</td><td>33.9</td><td>1</td><td>0.580</td><td>1.7%</td></tr><tr><td>日本 理化高级计 算研究院</td><td>京 超级计算机 富士通 SPARC64VIIIfx8C +定制核</td><td>705,024</td><td>10.5</td><td>4</td><td>0.427</td><td>4.1%</td></tr><tr><td>美国能源部 橡树岭国家 实验室</td><td>泰坦 Nviai XK7AMD16C4C +定制核</td><td>540,640</td><td>17.6</td><td>2</td><td>0.322</td><td>1.8%</td></tr><tr><td>美国能源部 阿贡国家实 验室</td><td>Mira BlueGene/Q Power BQC16C1.60GHz +定制核</td><td>786,432</td><td>8.59</td><td>5</td><td>0.101</td><td>1.2%</td></tr><tr><td>瑞士国家超 级计算中心</td><td>P1z Daint Cray XC30,Xeon 8C +Nvida Kepler 14C+定制核</td><td>115,984</td><td>6.27</td><td>6</td><td>0.099</td><td>1.6%</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "产生\"浮点效率鸿沟\"的原因并不复杂：科学与工程计算相当一部分为求解线性方程组。目前大型线性方程组求解主要采用克雷洛夫（Krylov）子空间迭代法，这类算法最终的核心多归结为稀疏矩阵-向量乘，而稀疏矩阵-向量乘算法的\"计算访存比\"不超过2：1（单位：flop/word，word 为浮点字长，为4或8字节)，是典型的访存密集型运算(通常人们笼统地称科学与工程计算为计算密集型，是与其它的计算机应用类型相比较而言的)。而 Linpack标准测试所对应的算法是稠密矩阵的直接法求解，算法核心为双精度矩阵相乘（DoubleprecisionGEneralMatrixMultiply（DGEMM)），“计算访存比\"为 $n$ ：1( $n$ 为分块矩阵大小),属于计算密集型运算。显然，两类算法的\"计算访存比\"具有本质性差别。而正是算法上的这种本质性的差异直接决定了Linpack测试和实际科学与工程应用之间在浮点效率上的明显差距。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "而且坏消息是，这种差距目前还在进一步扩大。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2众核计算—进一步扩大的“浮点效率鸿沟”",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图2数据源自英伟达公司[2]，用于显示众核GPU相对于多核CPU 的性能优势。基于同样的数据，我们对 Tesla C1060 和 Tesla C2050 两款众核GPU 处理器做一个横向比较。C2050的双精度浮点峰值速度是C1060的6.6倍。如果我们问：“对于科学与工程计算，C1060 和C2050哪一款产品更好？\"PC时代的经验是峰值速度越高越好。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图2中左图为两款GPU在进行\"双精度稠密矩阵-矩阵乘\"运算时的性能差异。计算通过调用cuBLAS3.1库中的DGEMM子函数实现。DGEMM正是超级计算机性能评测程序Linpack 的核心算法。图2中右图则是针对13个真实科学与工程应用程序和一个稠密矩阵计算程序——其中大多数为有限元/有限差分计算——的测试结果。这些真实应用的核心算法以稀疏矩阵-向量乘为主。我们看到，对于Linpack 测试而言，C2050速度是C1060的两倍，而对于真实应用，C2050仅仅比C1060快了约 $40 \\%$ —对于Linpack 测试，C2050 和C1060",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Gflops 双精度矩阵乘法   \n200 8 8 160 IT Tesla C2050(ECC关) 120 --Tesla C1060 ·Tesla C2050(ECC开) 1Y Intel MKL4线程 80 8 □ 40 □ 0 22555355 5213214 400044444 242224444 960449644 771835648 矩阵大小 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Gflops双精度计算20-Tesla C2050(ECC关) B16 Tesla C2050(ECC开)Y Intel Xeon 5550 .12 区区 题中 0. □804 □X 中0审 wwappee / / / / 熙区 刺有",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a）双精度稠密矩阵乘法DGEMM",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "原始数据来源：英伟达公司网站[4]。对于Linpack 测试:C2050比C1060 性能提升显著;对于实际的科学与工程计算：前者无特别明显的\"能效\"优势。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "性能差异明显，而对于真实应用，二者性能则非常接近。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "造成这种性能表现上的差异的原因如下：DGEMM是计算密集型操作，其性能提升理论上由硬件的浮点计算能力的提升决定（但实际上，即使这一计算密集型算法，在C2050 上也受到GPU寄存器大小的限制，使得分块矩阵n不能很大，大大降低了实际计算的计算访存比）。而稀疏矩阵-向量乘是典型的访存密集型操作，其性能提升主要由硬件的访存带宽的提升幅度决定。C2050的访存带宽（144GB/s）比C10600 $\\mathrm { \\nabla \\cdot 1 0 2 G B / s ) }$ 高出 $46 \\%$ 。这正好解释了为什么对于真实应用，C2050仅仅比C1060快了 $40 \\%$ 。实际上，如果考虑功耗、性价比，特别是功耗因素，C1060与C2050相比，对于科学与工程计算而言可能并不算差。如果从浮点效率（能耗效率）来看，C1060（ $14 \\%$ ）反而比C2050（ $3 \\%$ ）更高—虽然C2050比C1060浮点性能快6.6倍，但效率相比C1060 却大大降低。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/6ac0ce01c29b22ffdcee3a7db49acea0fde946c8821ad4d82d2f0f2f9f459f10.jpg",
+        "table_caption": [
+            "表4C2050 和C1060 GPU的主要性能指标"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>GPU</td><td>功耗</td><td>峰值</td><td>内存带宽</td></tr><tr><td>C1060</td><td>188W</td><td>78Gflop/s</td><td>102GB/s</td></tr><tr><td>C2050</td><td>247W</td><td>515Gflop/s</td><td>144GB/s</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/925d84696a0b57e4947431d86f45fdafd9ef4762439e2a265dbdd9702889af4a.jpg",
+        "img_caption": [
+            "(b)双精度稀疏矩阵-向量乘 ",
+            "图2．TeslaC2050 和TeslaC1060 两款众核GPU处理器的性能测试",
+            "图3．处理器性能与典型应用的浮点效率变化曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图3进一步综合性地给出了典型应用算法在目前四款主流处理器上的浮点效率的变化趋势。我们发现，由于真实科学与工程计算的访存密集的特征所限，它们并没有简单地从浮点性能的单一增长中获益，反而出现浮点速度越快，浮点效率越低的怪现象。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于真实科学与工程计算的访存密集的特征所限，它们并没有简单地从浮点性能的单一增长中获益，反而出现浮点速度越快，浮点效率越低的怪现象。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "浮点效率低下即计算能力的浪费。在\"功耗\"成为百亿亿次超级计算机的\"首要物理约束”",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "的今天，缩小“浮点效率鸿沟\"具有极其重要的现实意义。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3难点所在：传统数值算法与新兴众核硬件结构之间的不匹配",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "“浮点效率鸿沟\"的存在，不是计算机硬件设计不好。在过去40年中，CPU核心的速度提高了近千倍，但是内存的读写速度提高却不大；更为关键的是，内存的延迟没有降低。如从DDR到DDR3，内存的传输速度成倍地提高，但是内存延迟4没有减少，反而还有所增加。这使得内存延迟已经成为了制约CPU实际处理能力提高的瓶颈。在实际应用中，CPU始终都在等待内存访问。当内存端口满负载时，CPU核心有超过 $50 \\%$ 时间是空闲的。这就是早在1994年便被提出的\"内存墙(Memory Wall)\"[3问题。目前，非易失性存储器（NVM）以及三维封装技术（3DIntegration）可望成为具有“颠覆性\"的新一代存储技术。但是无论采取何种快速存储技术，计算机的冯·诺伊曼“存储程序原理\"架构可能是造成内存墙问题最根本的原因。克服内存墙将是一个长期、巨大的技术挑战[4]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb634ed65ff8fe0d1e917ec7fd3df33b37452af674ea506fc87b0ca7f17d8559.jpg",
+        "img_caption": [
+            "图4．性能与访存带宽的发展趋势"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d8e367d33acd87f84d41c90eb1df07ca7124bd2c75767410a6595cd697865193.jpg",
+        "img_caption": [
+            "图5．处理器结构与数值算法在基本计算特征上的不匹配和不协调“alg\"为浮点格式字长，单精度为4，双精度为8"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "“内存墙\"问题和新兴多核/众核技术的发展正在使得处理器计算能力和访存能力之间的差距愈加扩大[5]。如图4所示，我们同样针对 AMD Opteron6274 和 Intel Ivy Bridge 两款最新多核CPU，以及英伟达 $\\mathrm { k } 2 0 \\mathrm { x }$ GPU和IntelMIC两款最新众核处理器，画出峰值与访存带宽增长趋势。从中可以看出，处理器性能呈现指数级增长，而访存能力几乎呈线性增长或微弱的指数级增长，二者间的差距也呈指数级增长。实际上，从单核、多核到众核，处理器的\"计算访存能力比值\"越来越大，已经发生了约一个数量级的改变(见图5中计算访存比的标注)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "“计算访存能力比值\"高意味着处理器更加喜欢高\"计算密集度\"的数值算法，即单位访存所进行的浮点运算次数很多的数值算法。然而，数值算法或应用数学学科的发展却是非常缓慢的——与计算机处理器技术激进演化的发展节奏完全不同。从图5可以看出，如果按照数值方法的计算密集度进行归类，我们会发现：目前 $80 \\text{‰}$ 的科学与工程计算的核心算法仍然以\"线性计算密集度\"算法为多，密集地集中于箭头的左端。而硬件的计算访存能力比值却远远位于箭头的右端。处理器技术的激进快速发展与相对发展缓慢的数值算法之间已经出现明显的不适应和不协调。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4研究现状及发展趋势—“好\"的数值算法的定义在发生改变",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综合上述表1、图3和图4，我们可以归纳出以下基本事实：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1) 典型真实应用的浮点效率远远小于Linpack 效率（对于以稀疏矩阵-向量乘为核心算法的线性方程组求解，效率均低于 $10 \\%$ )。而且，峰值带宽比越高，实际应用的浮点效率反而越低。  \n(2） 稀疏矩阵-向量乘（线性方程组克雷洛夫子空间迭代法求解的核心计算）“计算访存比\"固定，为最典型的访存密集型计算，浮点效率最低。  \n(3） 理论上，差分模板计算的效率可以通过改变差分格式得到改善。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "事实(1)说明，处理器的峰值或峰值带宽比越高，实际应用的浮点效率越低，反映了正在加剧的“浮点效率鸿沟\"问题，反映了计算机硬件与数",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "协同设计区间：通过提高数值方法的计算密集度，在充分发挥众核“冗余”的浮点运算能力的同时，提高应用问题数值求解精度浮点效率数值精度科学与工程计算Linpack导向下  \n90%- 的硬件设计  \n80%-NI 缩短效率鸿沟  \n20% -□I 计算密集度0PC/单核 众核科学与工程计算 科学与工程计算 LINPACK稀疏矩阵 较稠密矩阵 稠密矩阵低阶方法 高阶方法 全局支持域方法(RBF，谱方法等)广义有限元、粒子方法等PC/单核时代算法 面向新兴体系统结设计惯性思维方向\\ 构的协同设计方向V!V",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "值算法之间的不适应和不协调。事实(2)表明，需要针对新兴计算机体系结构，在算法层面对线性方程组的求解方法进行改变或重新选优，以避免过低的浮点效率——在目前的多核/众核处理器上，如果关键数值算法不作出改变，浮点效率将无法得到真正有效的改善。事实(3)揭示了克服面向浮点效率问题时，我们可以采取的具体措施——改变数值算法。通过改变差分模板的阶次(低阶 $$ 高阶)，在差分阶次或差分精度提高的同时，浮点效率也得到了改善（计算效率和算法精度的双赢)。这说明\"好\"算法的定义正在发生改变。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "过去被认为是计算\"费力\"的高精度算法可能是未来的\"好\"算法。或者简单地说，在未来百亿亿次系统上，科学与工程应用算法应该使单位访存所完成的浮点运算次数最大化，从而尽可能地享受新的\"免费午餐”—浮点计算能力。在数值方法设计方面，在PC时代，由于浮点运算能力受限，算法设计总是喜欢“线性计算密集度”的算法，喜欢稀疏性。如图6所示，过去我们沿\"向左\"箭头方向思考。而面对众核的高浮点运算能力和数据移动能力的相对不足，未来应该强调矩阵\"适当\"稠密，增加计算密集度，鼓励沿\"向右\"箭头方向思考。这将带来科学与工程应用算法设计在思路上甚至原则上的根本性转变。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5 面向众核计算的数值方法协同设计",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "按照图6的预测：无网格、粒子类方法以及（单位分解）广义有限元等一类过去被认为计算\"费力\"的但具有更好的数据局部性的新兴数值方法值得我们从发挥众核计算能力的角度重新给予关注。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "传统上，数值方法研究关注的只是精度、收敛性等数学指标，从来都不会去关注\"计算密集度\"这一来自于计算机新兴体系结构对数值算法的新要求。受到表2中有限差分浮点效率变化的启发，图7对无网格/粒子类方法进行了类似的考查。假设胞元（cell）中的平均粒子数为 $\\textbf { \\em n }$ 。中心胞元内粒子的重用近似等于（或小于）周围胞元内粒子总和，为 $\\pmb { n } ( 3 ^ { d - 1 } )$ $\\pmb { d }$ 为问题维数。周围胞元内粒子的重用大致等于（或小于）中心胞元内粒子个数，为 $\\textbf { \\em n }$ 。这一类方法的\"平均\"计算密集度为（ $( 2 n ( 3 ^ { d - 1 } )$ ） $/ 3 ^ { d }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d7a0e4e4735e44974fb8598d1bc3242c930869e30f558db01119a9946d6fb2f.jpg",
+        "img_caption": [
+            "图7．无网格/粒子类方法"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/4d1da09136c58b87fd8abf1abc35976605dd118e3147bcb5ee1d58f4557d1af4.jpg",
+        "table_caption": [
+            "表5无网格/粒子类方法“单元\"计算的理论浮点效率"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Cell中粒子数</td><td>AMD Opteron 6274</td><td>Intel Ivy Bridge</td><td>nVidia k20x GPU</td><td>Intel MIC</td></tr><tr><td>2×2×2(n=8)</td><td>71.0%</td><td>29.2%</td><td>26.4%</td><td>15.3%</td></tr><tr><td>3×3×3(n=27)</td><td>100.0%</td><td>98.5%</td><td>89.2%</td><td>51.8%</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对这一类数值算法，我们可以针对前面列出的四款处理器估算出理论浮点效率。如表5所示，我们发现，在同样处理器上，通过提高算法精度，浮点效率也大幅提升。理论分析表明，这类无网格/粒子类方法以及前面提及的有限差分方法，一个最大的共性特点是，通过改变算法格式（差分阶或胞元/影响半径的大小）可以主动控制处理器的浮点效率。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "受此启发，我们基于前期发展的无额外自由度的广义有限元方法[46][47][48]，探讨在众核计算平台上计算密集度调节的重要性和意义。下面先简单介绍这一新的广义有限元方法。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "无额外自由度的广义有限元方法",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "单位分解（partitionofunity）广义有限元方法的研究一般认为源于梅伦克（Melenk）和巴布什卡（Babuska）的单位分解方法[20]和单位分解有限元方法[21]（类似的思想又可追溯到该作者早期的工作[22])。几乎同时，杜阿尔特（Duarte）和奥登（Oden）[23][24]提出类似的方法，称为hp-cloud 方法。在思想上非常相近但发表时间更早的工作，可见于由我国旅美学者石根华提出的数值流形方法5[39]。单位分解函数概念本身非常简单，既可使用无网格插值方法构造，也可直接使用有限元的形函数。作为有限元方法的自然延伸，基于有限元形函数的单位分解方法获得了极大的关注和成功的应用，如斯特劳鲍里斯（Strouboulis）和巴布什卡[30]-[37]和杜阿尔特等深入发展的广义有限元[25]-[29]。为了清晰指代，下面的叙述中\"广义有限元法(GFEM)\"主要指代基于有限元形函数的单位分解方法。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "广义有限元的核心是单位分解逼近：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu ^ { h } \\left( x \\right) = \\sum _ { i \\in I } N _ { i } u _ { i } + \\sum _ { i \\in I } N _ { i } \\sum _ { k } \\varphi _ { k } ^ { i } \\pmb { a } _ { i ( k ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\begin{array} { r } { \\sum _ { i } N _ { i } ( { \\pmb x } ) \\equiv 1 } \\end{array}$ 构成了全域上的一个单位分解， $\\varphi _ { k } ^ { i }$ 为节点 $i$ 支撑域上的用户自定义局部近似函数， $\\textbf { \\em a } _ { i ( 1 ) } , \\ \\textbf { \\em a } _ { i ( 2 ) }$ ，..为局部近似函数引入的节点 $i$ 的广义自由度或额外自由度。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在现有的广义有限元方法中，节点上自由度个数会随着局部近似函数的阶次变化而变化，因此提高局部函数的阶次不会改变该方法的计算密集度（见稍后图12的说明)。下面，我们提出一种\"无广义自由度的广义有限元方法”（下称\"新方法”)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "假设 ${ \\pmb P } _ { i } ^ { r }$ 为环绕节点 $i$ 的所有单元组成的“单元片（nodalpatch）”,$\\boldsymbol { r }$ 代表单元片尺寸。根据网格特征，单元片尺寸可通过两种方式定义：对于规则结构化网格或非均匀网格，为环绕节点 $i$ 的 $m { \\geq } 1$ 层单元的支撑域的大小(见图8(a))；对于任意均匀网格，则可简单取为节点 $\\textbf { \\em i }$ 的影响圆(或球)半径(见图8(b))。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb8bfd0b2ed4d33fef0306e6858ffec41e9125a53bb14380ea286dbbf665700f.jpg",
+        "img_caption": [
+            "图8．单元片定义"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "节点 $i$ 定义为\"片星（patch star）”。若无特别说明，指标 $i$ 做特意保留，特指\"片星节点(patchstar)”，指标 $\\textbf { \\textit { j } } ( \\pmb { j } { \\neq } \\pmb { i } )$ 表示“非片星节点（non-patch star）”。 $\\left\\{ \\boldsymbol { x } _ { k } \\left| \\boldsymbol { x } _ { k } \\in p _ { i } ^ { r } \\right. \\right\\}$ 表示单元片 ${ \\pmb P } _ { i } ^ { r }$ 上所有节点的集合。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "首先，使用节点 $\\left\\{ \\boldsymbol { x } _ { k } \\left| \\boldsymbol { x } _ { k } \\in p _ { i } ^ { r } \\right. \\right\\}$ 构造 ${ \\pmb u } _ { i } ( { \\pmb x } )$ ， $\\pmb { x } _ { k } \\in \\pmb { p } _ { i } ^ { r }$ 在单元片上的一个局部近似：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\pmb u } _ { i } \\left( { \\pmb x } \\right) = \\sum _ { k = 1 } ^ { n _ { i } } \\varphi _ { k } ^ { i } \\left( { \\pmb x } \\right) { \\pmb u } _ { k }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\varphi _ { k } ^ { i } \\left( { \\pmb x } \\right)$ 为局部函数， ${ \\mathbf { } } n _ { i }$ 为单元片上的节点数， $\\mathbf { \\delta } _ { \\mathbf { \\boldsymbol { u } } _ { k } }$ 为节点未知数。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "将局部近似 ${ \\pmb u } _ { i } ( { \\pmb x } )$ 直接取代标准有限元的节点位移 $\\mathbf { \\delta } _ { \\mathbf { \\pmb { u } } _ { i } }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu ^ { h } \\left( x \\right) = \\sum _ { i = 1 } ^ { N } N _ { i } \\left( x \\right) u _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "则可得出一种新的逼近形式",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { u } ^ { h } \\left( \\pmb { x } \\right) = \\sum _ { i = 1 } ^ { N } \\left( N _ { i } \\left( \\sum _ { k = 1 } ^ { n _ { i } } \\varphi _ { k } ^ { i } \\pmb { u } _ { k } \\right) \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "插值(4)与插值(3)均基于同一有限元网格的节点构造，并没有引入新的节点或自由度。将式(4)中的项展开、然后按相同节点归类、重新组合后可得到",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu ^ { \\textit { h } } \\big ( x \\big ) = \\sum _ { i } \\Big ( N _ { i } \\varphi _ { i } ^ { i } + \\sum _ { k \\in J _ { i } , k \\neq i } N _ { k } \\varphi _ { i } ^ { k } \\Big ) u _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\varphi _ { i } ^ { k }$ 为在单元片 $\\pmb { k }$ 上节点 $i$ 的局部函数(注意 $\\varphi _ { i } ^ { k }$ 和 $\\varphi _ { k } ^ { i }$ 并不等价)， ${ \\mathbf { } } n _ { i }$ 为单元片 ${ \\pmb P } _ { i } ^ { r }$ 上的节点数，或包含节点 $i$ 的所有单元片的数量， $\\tilde { N } _ { i }$ 表示新的形函数。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "比较(4)和(1)，可以清楚地看出，(4)实质上也是一种单位分解逼近。然而，新单位分解逼近具有两个独一无二的特点：(a)不包含任何广义自由度；(b)只要局部逼近函数在各自的‘片星\"处插值，则无论其在\"非片星\"处插值与否，最终构造出的逼近函数一定是全局插值的。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "新方法的特性逐条详细讨论如下：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1) 具有现有广义有限元方法的高阶性质。通过增大单元片尺寸，可以得到\"高阶\"的局部函数，从而实现高阶插值。  \n(2) 不包含广义自由度，并且待求的总自由度不会随着局部函数的阶次改变而改变。这是现有广义有限元方法不具有的特点，这直接导致线性无关性（linear independence）和与标准有限元一样的稳定性[46]。这两点特性是与现有广义有限元方法最大、最本质的区别。  \n(3） 具有插值性质。局部函数可以采用某种插值方法，如拉格朗日插值或径向基函数等，或者采用具有\"单点插值\"特性的某种逼近方法来构造。对于后者，可以使用移动最小二乘法来构造局部函数，只需强制该最小二乘拟合函数在\"片星处\"插值即可-该\"单点插值\"约束很容易满足。在这些情况下，所构造出的全局逼近函数自然具有全局插值性质。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.1局部函数的构造 “单点插值\"最小二乘逼近 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "局部函数的构造是基于单元片上的节点集来实现的。现有的标准化技术，如无网格方法[40][44[4]或者网格类方法，都可借用过来。唯一的要求是：如果使用逼近格式，比如移动最小二乘[41]，它应当而且只需在单元片的\"片星\"处具有插值性质。对于结构化网格，可以使用拉格朗日多项式插值；对于任意网格，可以使用径向基函数[42][43]构造局部函数。这些构造过程直观简单，这里不再赘述。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "下面重点介绍我们提出的适用于任意网格的“单点插值\"移动最小二乘逼近[46][48]。这一方法使我们能够使用局部逼近来构造出全局插值的广义有限元方法。我们仍然用指标 $i$ 特指“片星节点”， $j$ 表示“非片星节点”。在以 $i$ 为中心的单元片上，局部逼近定义为",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\pmb u } _ { i } \\left( { \\pmb x } \\right) = { \\pmb p } ^ { \\operatorname { T } } \\left( { \\pmb x } \\right) { \\pmb a } \\left( { \\pmb x } \\right) , { \\pmb x } \\in { \\pmb P } _ { i } ^ { r }\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "其中基函数 $\\textbf { p }$ 可以包含解的先验知识，对于光滑问题，可以直接取为任意高阶多项式；对于具有局部特征的问题，如裂纹尖端，可以是非多项式特殊函数—简言之，基函数是可以根据待求问题解的先验知识进行自定义的， $\\textbf { p }$ 的长度与单元片尺寸 $^ { c h }$ 相适应（ $\\scriptstyle ( h$ 为网格尺寸)，$\\textbf { p }$ 也可以包含解的先验知识，如扩展有限元法中使用的裂纹尖端基本解等， $\\textbf { \\em a }$ 为待定系数。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "为了构造一个在\"片星\"处插值的移动最小二乘逼近，我们使用下面的带有约束条件的最小二乘逼近",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ = \\frac { 1 } { 2 } \\sum _ { k = 1 } ^ { n _ { i } } w _ { k } \\left( \\boldsymbol { x } \\right) \\left( \\mathbf { p } ^ { \\mathrm { { T } } } \\left( \\boldsymbol { x } _ { k } \\right) \\boldsymbol { a } - \\boldsymbol { u } _ { k } \\right) ^ { 2 } + \\lambda \\left( \\mathbf { p } ^ { \\mathrm { { T } } } \\left( \\boldsymbol { x } _ { i } \\right) \\boldsymbol { a } - \\boldsymbol { u } _ { i } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "其中 ${ \\mathbf { \\alpha } } _ { { \\pmb { n } } _ { i } }$ 是单元片 $i$ 上的节点总数。为了便于程序实现，“片星节点 $\\vec { \\mathbf { \\nabla } } _ { \\pmb { i } }$ 也包含在求和项中，这样式(7)的第一部分与标准移动最小二乘[41完全一样， $\\lambda$ 为拉格朗日乘子，用于强制 ${ \\pmb u } _ { i } ( { \\pmb x } )$ 精确满足\"单点插值\"条件",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { p } ^ { \\mathrm { T } } \\big ( \\mathbf { \\boldsymbol { x } } _ { i } \\big ) \\mathbf { \\boldsymbol { a } } = \\mathbf { \\boldsymbol { u } } _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对最小二乘范数取极值可得到“单点插值\"移动最小二乘逼近",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { i } \\left( \\boldsymbol { x } \\right) = \\sum _ { k = 1 } ^ { n _ { i } } \\phi _ { k } ^ { P _ { i } ^ { r } } \\left( \\boldsymbol { x } \\right) u _ { k }\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "其中",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { \\displaystyle \\phi _ { k } ^ { \\mathrm { P } ^ { \\prime } } \\left( \\mathbf { x } \\right) = p ^ { \\mathrm { T } } \\left( \\boldsymbol { x } \\right) \\Bigg ( \\mathbf { A } ^ { - 1 } p _ { k } - \\frac { 1 } { \\mathbf { A } _ { 1 1 } ^ { - 1 } } \\mathbf { A } _ { ( 1 ) } ^ { - 1 } \\mathbf { A } _ { ( 1 ) } ^ { - \\mathrm { T } } p _ { k } + \\frac { 1 } { \\mathbf { A } _ { 1 1 } ^ { - 1 } } \\mathbf { A } _ { ( 1 ) } ^ { - 1 } \\pmb { \\delta } _ { i k } \\Bigg ) } \\\\ { \\displaystyle \\mathbf { A } = \\sum _ { k = 1 } ^ { n _ { i } } w _ { k } \\mathbf { p } _ { k } \\mathbf { p } _ { k } ^ { \\mathrm { \\Delta } } } \\\\ { \\displaystyle \\mathbf { p } ^ { \\mathrm { T } } = \\left[ 1 , \\frac { \\boldsymbol { x } - \\boldsymbol { x } _ { i } } { c h } , \\frac { \\boldsymbol { y } - \\boldsymbol { y } _ { i } } { c h } , . . . \\right] } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { A } _ { ( 1 ) } ^ { - 1 }$ 为 $\\mathbf { A } ^ { - 1 }$ 的第一列， ${ \\bf A } _ { 1 1 } ^ { - 1 }$ 为 $\\mathbf { A } _ { ( 1 ) } ^ { - 1 }$ 的第一个元素， $\\delta$ 为克罗内科函数（Kronecker delta）。可以证明，当 $\\pmb { x } = \\pmb { x } _ { i }$ 时，将 $\\mathbf { p } _ { i } ^ { \\mathrm { T } } = \\left[ 1 , 0 , 0 , \\ldots \\right]$ 带入可得出 $\\phi _ { i } ^ { \\mathrm { P } _ { i } ^ { r } } \\left( \\boldsymbol { x } _ { i } \\right) = 1$ ，从而说明局部函数在\"片星节点\"处满足插值性质。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在公式(7)中，令 $w _ { k } { = } 1$ ，“单点插值\"移动最小二乘便退化为\"单点插值\"最小二乘（SILS)。相对\"单点插值\"移动最小二乘，“单点插值\"最小二乘（特别是其导数）具有计算速度快的优点。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "使用SIMLS/SILS作为局部逼近，新广义有限元法可以构造如下",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { u } ^ { h } \\left( \\mathbf { x } \\right) = \\sum _ { i = 1 } ^ { N } N _ { i } \\left( \\sum _ { k = 1 } ^ { n _ { i } } \\phi _ { k } ^ { P _ { i } ^ { r } } \\pmb { u } _ { k } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\phi _ { k } ^ { \\mathrm { P } _ { i } ^ { r } }$ 为单元片 $\\mathrm { P } _ { i } ^ { r }$ 上的 SIMLS 或 SILS 局部函数。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "SIMLS/SILS适用于任何维数的规则或不规则网格。基于SIMLS/SILS的局部函数和相应的新的广义有限元插值对正弦函数的拟合结果示于图9。从图中看到，虽然局部函数本质上是逼近的，但导出的广义有限元却是全局插值的。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "小结：移动最小二乘本来只是一种拟合逼近，但由此导出的新广义有限元却是全局插值的，严格满足克罗内科函数性质。同时，移动最小二乘具有性能强健（无坏条件数问题）和计算开销小（如 SILS）等优点。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/d227d8d84350d4256e7ea2f123586142eb9825215483c74b6760939ece3d81ce.jpg",
+        "img_caption": [
+            "图9．使用SIMLS局部逼近的广义有限元（GFEM）$\\scriptstyle { r = 3 h }$ ，被逼近的函数为正弦函数"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "关于该方法更详细的内容可参考文献[46]。本文主要目的是以该方法为例，抛砖引玉，讨论过去被认为代价昂贵的一类算法在新兴众核处理器上可能出现的新的特征。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5.2数值试验 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5.2.1收敛性测试 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "考虑下列的一维测试问题",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { - \\Delta { \\pmb u } = { \\pmb f } \\quad { \\pmb x } \\in \\left( 0 , 1 \\right) } \\\\ { \\quad \\ { \\pmb u } \\left( 0 \\right) = 0 } \\\\ { \\quad \\nabla { \\pmb u } \\left( 1 \\right) = 0 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "精确解取为",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { u } \\left( \\pmb { x } \\right) = \\pmb { x } \\left( \\pmb { x } - 1 \\right) ^ { 1 5 } e ^ { - \\pmb { x } ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "误差的最小二乘范数和能量范数分别定义如下",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\| \\boldsymbol { u } \\| = \\left( \\int _ { \\Omega } \\left( \\boldsymbol { u } ^ { h } \\left( \\boldsymbol { x } \\right) - \\boldsymbol { u } \\left( \\boldsymbol { x } \\right) \\right) ^ { 2 } \\mathrm { d } \\Omega \\right) ^ { \\frac { 1 } { 2 } } , \\| \\boldsymbol { e } \\| = \\left( \\int _ { \\Omega } \\left( \\nabla \\boldsymbol { u } ^ { h } \\left( \\boldsymbol { x } \\right) - \\nabla \\boldsymbol { u } \\left( \\boldsymbol { x } \\right) \\right) ^ { 2 } \\mathrm { d } \\Omega \\right) ^ { \\frac { 1 } { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "收敛测试中使用了五个一致加密的规则网格，分别为20、40、80、160以及320个线性有限单元网格。单元片大小取 $\\scriptstyle { r = c h }$ ， $\\scriptstyle { c = 0 \\dots }$ ，10。 ${ } ^ { 6 4 } r = 0 h ^ { \\prime }$ 对应于标准有限元情形。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "02 r=h(）2.4 0 $+$ r=Oh(有限元),1.0-4 区r=2h(拉格朗日）,3.4 -2 点古 -r=1h(拉格朗日），1.41 $- 8 x ^ { -- }$ r=4h（拉格朗日）.4. ☆ ® & 文 反 8 $\\scriptstyle 1 = 2 h$ （拉格明日）2-8 $. { \\cal { O } } ^ { \\cdots }$ r=5h (拉格朗日）,6.3 -8 ? ① 1 $\\oplus ^ { - }$ r=4h(拉格朗日），4.3  \n-10 参106拉格明日） -10 舟 山 1 $\\diamond ^ { - * }$ $\\scriptstyle \\displaystyle \\ll$ r=5h(拉格），5.3  \n124 \\*DoFs，自由度 -14 舟 4 ★ ，自由度  \n-16 1 2 3LOG(DoFs) 1 2 3 LOG(DoFs )(a)最小二乘范数 (b）能量范数  \n0 +r=Oh (有限元),2.0 0123456789  \n-2 r=1h (simls),2.29 十r=Oh(有限元),1.0r=2h (simls),3.23 □r=1h(simls),1.00  \n-4 (e=)!in 区  \n()0 r=h(sims)，.32 & 区 区 8 $\\scriptstyle 1 = 2 h$ (sims).3.144 r-5h imls）.6.05 r-4(sims) 4.07  \n-10 母 ? \\* DoFs，自由度+  \n-12 1 2 3 1 2 3  \nLOG(DoFs) LOG(DoFs)(a）最小二乘范数 (b）能量范数",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "单元上高斯积分点数取为 $c { + } 2$ 。收敛性测试结果见图10和图11，分别对应于两种不同的局部逼近构造方式。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "图10 和图11中的结果显示，单元片大小每增大1h，新广义有限元的收敛阶通常都会相应提高一阶（收敛速率见图例)。这一收敛属性类似于现有广义有限元，不同点在于：新广义有限元在网格尺寸和自由度数不改变的情况下，便可以获得不同阶的精度和收敛性。这种特征过去多见于有限差分方法。在传统的有限元或现有广义有限元中，要提高收敛阶，必须在相同网格尺寸下增加自由度，或在单元上增加新的节点（传统有限元)，或增加节点上的广义自由度（现有广义有限元）。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5.2.2新方法在新兴众核处理器GPU上的性能测试",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "由于总体方程求解与局部逼近方式无关，下面我们主要对新方法形成的总体方程的求解进行测试。对于单元的计算与组装，由于其与局部逼近方式有关，暂不考虑（但不影响结果的一般性)。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "首先考察新方法与现有广义有限元方法在总体刚度矩阵形式上的差别。从图12中对新方法与现有方法总体刚度矩阵特征的比较，我们观察到：",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/d5ab26fcef404011afc721707106eecdbc01f6fec92707f248e7f62f2795b160.jpg",
+        "img_caption": [
+            "图12．一维问题10单元网格对应的总体刚度矩阵"
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(a)-(d)为新方法，(e)-(h）为现有方法．括弧中的数字为非零元素占比，反映矩阵的稀疏性．现有方法的总体矩阵随局部逼近的阶次的提高而几乎不变或变得更加稀疏，而在新方法中，随着局部逼近阶次的提高，总体矩阵变得稠密.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "在新方法中，总体矩阵的稀疏性是变化的或可调节的。这也是目前无网格/粒子类方法的一个共同特征。因此，下面的结论对于无网格/粒子类方法具有一定的普遍意义。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "测试问题为二维泊松问题。测试平台为GPU众核和CPU单核（只用一个核进行计算以反映 PC 时代的计算特征)。性能指标为单位时间内浮点运算次数Gflop/s。测试对象为总体方程组的求解环节（使得测试更具有一般性)。求解方法采用共轭梯度向量法。求解器采用基于CUDA的开源线性代数库CUSP。稀疏矩阵采用CSR存储格式。测试结果示于图13。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "首先，令 $\\scriptstyle { r = 0 h }$ 将新方法退化为标准有限元方法，对标准有限元方法在CPU单核（PC时代）与GPU众核上的性能进行比较，结果见图13中圆圈中的两个数据点。从图中我们观察到,虽然CPU 单核与GPU众核的峰值性能相差很大（前者为10Gflop/s,后者为78Gflop/s），但标准有限元在两种计算平台上的性能却相差无几。这一测试结果表明：如果在众核上使用标准有限元算法，众核强大的计算能力将可能得不到充分发挥和利用（算法计算密集度低，性能受访存限制)。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "然后，我们逐渐增加局部逼近的阶次（提高单元片大小 $\\textbf { \\^ { r } }$ )，对新方法的“高阶\"格式在CPU 单核和GPU众核上重新进行性能比较（图中实线)。我们发现，在GPU众核上，当提高方法的阶次，即增大单元片大小 $\\textbf { \\textit { r } }$ （或降低总体矩阵的稀疏性)，新方法的性能得到非常明显的提升（硬件性能得到了利用和发挥)，与方法阶次几乎呈线性增长。这一测试结果表明：新方法的高阶格式能充分发挥众核的计算能力。然而，图12显示新方法导致较为稠密的总体矩阵，如果从PC时代的传统观点看，这类方法应该是较为低效的算法。上述测试却表明，在众核上由于硬件性能得到了充分利用，这类方法反而变得更加高效。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "图13中虚线表示同样的高价方法在CPU单核上的测试结果。我们看到，如果在CPU单核上（或PC时代)，高阶格式并不能提高硬件的计算性能利用率，反而会导致整体计算性能下降。这一结果也与在PC 时代，高阶方法或那些导致稠密矩阵的方法被认为是低效或计算费力的事实是相符的（在PC/单核时代，硬件的计算能力是主要瓶颈)。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "由于新广义有限元方法，无网格方法，以及粒子方法等一类新兴计算方法（外加有限差分方法）具有在不改变网格的前提下便",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4 ii>i 众核GPU  \n有限元  \n(广义有限元r=Oh) r=ch新广义有限元，r=ch，c>0iiγii△1 2 3 4 5 6新广义有限元中的网格大小C计算密度增加",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "可获得不同精度的共性特点（其总体矩阵均具有图12(a)-(d)的变化特征)。我们相信，前述实验观察到的新广义有限元方法在众核处理器上的计算特性极有可能具有一定的普适性。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "6 讨论",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "依据PC时代的经验，我们总是假设浮点运算能力是宝贵的，所以习惯于以频繁访存来避免重复计算，算法设计和优化的主要原则也是减少浮点运算次数。但是，从目前的技术发展趋势看，未来科学与工程应用所使用的计算平台的硬件计算能力与访存能力的比率必将越来越高。因此从硬件角度看，设计算法时单位访存所进行的浮点运算越多越好。这与过去科学与工程应用算法设计的思考方向和编程习惯正好相反。对于领域应用专家而言，有必要结合硬件的特征和变化趋势，对关键数值算法进行重新审视、选优，甚至重新设计；在传统的精度、收敛性等指标之外，重视计算密集度、数据移动复杂性等算法特征。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "本文抛砖引玉，面向新兴计算机体系结构，从充分释放众核处理器\"冗余\"计算能力的角度出发，探索了针对下一代处理器结构发展高效数值算法的一个可能的技术思路。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "致谢：本项目得到中科院\"百人计划\"项目、国家自然科学基金项目（项目编号：91130026，11472274）的资助。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[1] DOE Office of Science Summary report of the Advanced Scientific Computing Advisory Committee (ASCAC) Subcommittee.The opportunities and challenges of exascale computing,Fall 2010   \n[2] http://nvworld.ru/files/articles/calculations-on-gpu-advantagesfermi/fermipeformance.pdf   \n[3] Wm.A.Wulf and Sally A. McKee.Hiting the memory wall: implications of the obvious. Computer Architecture News 1995; 23(1):20-24.   \n[4] http://www.ucompower.com/tag/%E5%86%85%E5%AD%98%E5%A2%99/“突破\"内存墙\"，CPU 可以性能更好，能耗更低”   \n[5] http:/server.51cto.com/Fitting-171928.htm“内存墙面前 多核处理器的哭泣”   \n[6] Tian R(20l3） Meshfree/GFEM in hardware-efficiency prospective. Interaction and multiscale mechanics. DO1:10.12989/imm.2013.6.2.000.   \n[7] Tian R(2014)） Simulation at Extreme-Scale: Co-Design Thinking and Practices. Arch Computat Methods Eng DOI 10.1007/s1831-014-9095-y.   \n[8] http://ww.exascale.org/iesp/Main_Page   \n[9] http://www.cstam.org.cn/templates/lxxh_1/index.aspx?nodeid=65&page $\\mathrel { \\mathop : } =$ ContentPage&contentid=17 2572 第三届面向百亿亿级计算的协同设计国际研讨会   \n[10]田荣，孙凝晖(2013）关于我国百亿亿级计算发展的思考．《中国计算机学会通讯》9(2):40-48   \n[11]田荣(2012）面向百亿亿级计算协同设计的思考．《信息技术快报》70(3):50-63   \n[12]田荣等译(2012）百亿亿级计算机遇与挑战．《信息技术快报》，2012；70(3)：1-49（原文：DOE Office of Science Summary report of the Advanced Scientific Computing Advisory Committee (ASCAC) Subcommittee. The opportunities and challenges of exascale computing, Fall 2010)   \n[13]Tian R(2011) Petascale Simulation and Codesign-Thinking towards Exascale Computing. The Fourth International Symposium on Paralel Architectures, Algorithms and Programming (PAAP 2011), Dec 9-11, 2011, Tianjin, China   \n[14]Tian R(2013） Co-designing numerical algorithms with emerging architectures.Advances in Computational Mechanics A Conference Celebrating the 70th B-day of TJR Hughes,Feb 24-27,2013, San Diego, USA   \n[15]Thibodeau P(2012) Exascale unlikely before 2020 due to budget woes. Computer world. Nov 19, 2012   \n[16]Harrod W (2012) DOE exascale computing Initiative (ECI) update. DOE, Office of Science (SC), Oct 4,2012   \n[17]Dongarra J(2013） Emerging heterogeneous technologies for high performance computing. 22nd International Heterogeneity in Computing Workshop. IPDP, Boston   \n[18]DOEE3 Report, htp://www.er.doe.gov/ascr/ProgramDocuments/ProgDocs.html   \n[19]Shalf J, Dosanjh S, Morrison J(2011) Exascale computing technology challenges. VECPAR 2010. LNCS 6449:1-25   \n[20]Babuska I, Melenk JM. Partition of unity method. International Journal for Numerical Methods in Engineering 1997; 40:727 -758.   \n[21]Melenk JM, Babuska I. The partition of unity finite element method: basic theory and applications. Computer Methods in Applied Mechanics and Engineering 1996; 139:289 -314.   \n[22]I. Babuska, G. Caloz,and J.E.Osborn. Special finite element methods for a class of second order ellptic problems with rough coefficients. SIAM JNumerical Analysis 1994; 31:945-981.   \n[23]Duarte CA, Oden JT. An h-p adaptive method using clouds. Computer Methods in Applied Mechanics and Engineering 1996; 139(1-4): 237-262.   \n[24]Oden JT, Duarte CA, Zienkiewicz OC. A new cloud-based hp finite element method. Computer Methods in Applied Mechanics and Engineering 1998; 153(1-2): 117-126.   \n[25]C.A.Duarte,I. Babuska,and J.T. Oden. Generalized finite element methods for three-dimensional structural mechanics problems. Computers & Structures 200o; 77: 215-232.   \n[26]C.A. Duarte, O.N. Hamzeh, T.J. Liszka, and W.W. Tworzydlo.A generalized finite element method ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "for the simulation of three-dimensional dynamic crack propagation. Computer Methods in Applied Mechanics and Engineering 2001; 190: 2227-2262. [27]A. Simone, C.A. Duarte,E. Van der Giessen. A generalized finite element method for polycrystals with discontinuous grain boundaries. International Journal for Numerical Methods in Engineering 2006; 67: 1122-1145. [28]CA Duarte and D.J. Kim. Analysis and applications of a generalized finite element method with global-local enrichment functions. Computer Methods in Applied Mechanics and Engineering 2008; 197(6-8): 487-504. [29]P. O'Hara, C.A. Duarte,T. Eason. Generalized finite element analysis for three dimensional problems exhibiting sharp thermal gradients. Computer Methods in Applied Mechanics and Engineering 2009; 198: 1857-1871. [30]Strouboulis T,Babuska I, Copps K. The design and analysis of the generalized finite element method. Computer Methods in Applied Mechanics and Engineering 2000; 181(1-3):43-69. [31]T. Strouboulis, K. Copps,and I. Babuska.The generalized finite element method: an example of its implementation and illustration of its performance. International Journal for Numerical Methods in Engineering 2000; 47:1401-1417. [32]Strouboulis T, Copps K,Babuska I. The generalized finite element method. Computer Methods in Applied Mechanics and Engineering 2001; 190(32-33):4081-4193. [33]T. Strouboulis,L. Zhang,and I. Babuska. Generalized finite element method using mesh-based handbooks: application to problems in domains with many voids. Computer Methods in Applied Mechanics and Engineering 2003; 192:3109-3161. [34]T. Strouboulis,L. Zhang,and I. Babuska. p-version of the generalized FEM using mesh-based handbooks with applications to multiscale problems.International Journal for Numerical Methods in Engineering 2004; 60:1639-1672. [35]T. Strouboulis,L. Zhang,D. Wang,and I. Babuska. A posteriori error estimation for generalized finite element methods. Computer Methods in Applied Mechanics and Engineering 2006; 195:852-879. [36]T. Strouboulis,I. Babuska,and R. Hidajat. The generalized finite element method for Helmholtz equation: theory, computation, and open problems. Computer Methods in Applied Mechanics and Engineering 2006; 195:4711-4731. [37]T. Strouboulis,R. Hidajat, and I. Babuska. The generalized finite element method for Helmholtz equation,part I: effect of choice of handbook functions,error due to absorbing boundary conditions and its assessment. Computer Methods in Applied Mechanics and Engineering 2008; 197:364-380. [38]T.Belytschko，T.Black，Elastic crack growth in finite elements with minimal remeshing. International Journal for Numerical Methods in Engineering 1999; 45: 601-620. [39]Shi GH. Manifold method of material analysis. Transactions of the 9th Army Conference on Applied Mathematics and Computing,Report No. 92-1, U.S.Army Research Office,1991. [40]T. Belytschko, Y. Krongauz, D. Organ, M. Fleming, and P. Krysl. Meshless methods: An overview and recent developments. Computer Methods in Applied Mechanics and Engineering 1996; 139:3-47. [41]Lancaster P, Salkauskas K. Surfaces generated by moving least squares methods. Mathematics of Computation 1981; 37:141-158. [42]Powell MJD. The theory of radial basis function approximation in 199o.In Advances in Numerical Analysis,Light FW (ed.), Oxford: Clarendon Press,1992; 105-203. [43]Beatson RK,Light WA,Billings S.Fast solution of the radial basis function interpolation equations: domain decomposition methods. SIAM Journal on Scientific Computing 20o0; 22:1717-1740. [44]张雄 刘岩 无网格法 清华大学出版社/Snringer 出版社 204年8 日第1版 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[45] 刘欣著.无网格方法．科学出版社.2011   \n[46] Tian R,Extra-dof-free and linearly independent enrichments in GFEM. Comput Method Appl Mech Eng，第 266 卷,1-22页,2013   \n[47] Tian R，Wen Longfei， Improved XFEM (iXFEM)--an extra-dof free，well-conditioning，and interpolating XFEM.Comput Method Appl Mech Eng,2014(接收待刊出)   \n[48] Wen Longfei， Tian R，iXFEM-an extra-dof free，well-conditioning，and interpolating XFEM. Proceeding of International Conference on Computational Methods, Cambridge,UK,July 28-30, 2014 (best paper award). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "作者简介：",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "田荣： 中国科学院计算技术研究所 研究员rtian.ict@gmail.com",
+        "page_idx": 15
+    }
+]

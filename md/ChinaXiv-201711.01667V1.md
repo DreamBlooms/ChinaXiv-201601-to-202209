@@ -1,0 +1,235 @@
+胡俊茹1,2.3王国霞1,2.3孙育平1,2.3陈冰1,2.3曹俊明1,2.3\*黄燕华1,2.3\*卓丽欣1,2.3（1.广东省农业科学院动物科学研究所，广州510640；2.广东省动物育种与营养公共实验室，广州 510640；3.广东省畜禽育种与营养研究重点实验室，广州 510640)
+
+摘要：本试验旨在研究饲料中硒含量对黄颡鱼幼鱼生长性能、抗氧化能力和脂肪代谢基因表达的影响。选用初始体重为（2.12±0.01）g的黄颡鱼幼鱼450尾，随机分为6组，每组设3个重复，每个重复25尾幼鱼，分别投喂硒含量<0.05（对照组）、0.15、0.23、0.35、0.47和0.96mg/kg的6种等氮等脂试验饲料，饲养期为8周。结果显示：黄颡鱼的增重率随着饲料硒含量的升高呈现先升高后降低的趋势，在饲料硒含量为 $0 . 2 3 \mathrm { m g / k g }$ 时达到最高，显著高于对照组（ $P { < } 0 . 0 5 )$ 。饲料系数的变化趋势与增重率相反，在饲粮硒含量为 $0 . 2 3 ~ \mathrm { m g / k g }$ 时达到最低，显著低于对照组（ $P { < } 0 . 0 5$ )。存活率各组均为 $100 \%$ 。全鱼粗蛋白质含量在饲料硒含量为0.35mg/kg的组最高，显著高于对照组和饲料硒含量为 $\mathrm { 1 0 . 2 3 \ m g / k g }$ 的组（ $P { < } 0 . 0 5$ )。对照组全鱼粗脂肪含量显著低于饲料硒含量为0.15、0.47和 $0 . 9 6 ~ \mathrm { { m g / k g } }$ 的组（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ )，而对照组全鱼水分含量则显著高于饲料硒含量为0.15、0.35、0.47和 $0 . 9 6 ~ \mathrm { m g / k g }$ 的组（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ 。血浆胆固醇含量在饲料硒含量为 $0 . 2 3 \mathrm { m g / k g }$ 的组最低，显著低于对照组（ $( P { < } 0 . 0 5 \$ )。全鱼硒含量和肝脏谷胱甘肽过氧化物酶（ $\mathbf { G P x }$ ）活性随着饲料硒含量的增加而升高，二者与饲料硒含量呈正剂量效应关系。肝脏超氧化物歧化酶（SOD）活性随着饲料硒含量由 $< 0 . 0 5 ~ \mathrm { m g / k g }$ 升高到 $0 . 4 7 \mathrm { m g / k g }$ 表现为先升高再降低，而后在饲料硒含量为 $0 . 9 6 \mathrm { m g / k g }$ 时又出现升高。对照组肝脏脂蛋白脂酶（LPL）和脂肪酸合成酶（FAS）mRNA的相对表达量显著低于饲料硒含量为 $0 . 2 3 ~ \mathrm { m g / k g }$ 的
+
+组( $. P { < } 0 . 0 5 ^ { \cdot }$ )。以增重率为评价指标，通过非线性回归分析计算出黄颡鱼幼鱼饲料中硒的适宜含量为 $0 . 2 0 \mathrm { m g / k g }$ 。  
+关键词：硒；黄颡鱼幼鱼；生长性能；抗氧化能力；脂肪代谢基因表达  
+中图分类号：S963 文献标识码：A 文章编号：硒是动物机体必需的微量元素，硒在生物体内以硒蛋白的形式发挥作用。谷胱甘肽过氧化物酶（GPx）和脱碘酶（DIO）是2类功能比较明确的硒蛋白。 $\mathbf { G P x }$ 可以还原催化过氧化氧和有机氧过氧化物如胆固醇和长链脂肪酸的过氧化物，进而保护细胞免受氧化损伤。DIO是一类膜蛋白，能够催化4-碘甲腺原氨酸(T4)脱碘生成3-碘甲腺原氨酸 $( \mathrm { T } _ { 3 } )$ ， ${ \bf T } _ { 3 }$ 生物学活性是T4的5\~8倍，在合成和调节活性甲状腺素过程中起重要作用。硒对维持动物正常生长，调节脂质代谢、能量代谢、神经内分泌以及提高动物机体抗氧化能力具有重要的作用。目前，虹（Oncorhynchus mykiss）[1l、斑点叉尾（Ictalurus punctatus）[2]、大黄鱼（Larimichthyscroceus）[3]、石斑鱼（Epinephelus malabaricus）[4]、军曹鱼（Rachycentron canadum L.）[5]、鲈鱼（Lateolabrax japonicus）[6]、鲤鱼（Cyprinus carpio）幼鱼[7]、皱纹盘鲍（Haliotis discushannaiIno）[8]、中华绒螯蟹幼蟹（Eriocheir sinensis）[9]等水产动物硒的需要量和抗氧化作用已被报道，而硒影响体脂肪、肝脏脂肪和血清脂肪代谢只在革胡子鲶（Clarias gariepinus）[10]、大口黑鲈（Micropterus salmoide）[]、白鲟（Acipenser transmontanus）和绿鲟（Acipensermedirostris）幼鱼[12]、鲤鱼[13]中被研究。  
+黄颡鱼隶属鲶形目科黄颡鱼属，广泛分布于我国内陆各大水体，特别是长江中下游的湖泊和水库，是我国重要的小型底层经济鱼类，其肉质鲜美、营养丰富。近年来，我国黄颡鱼养殖发展非常迅速，尤其在南方养殖较为普遍，国内外市场发展潜力巨大。目前，部分学者研究了铜、铁、锌、锰对黄颡鱼生长、生理功能的影响，然而关于硒的研究尚未见报道。为此，本试验以黄颡鱼幼鱼为研究对象，研究饲料中添加不同水平的硒对黄颡鱼幼鱼生长性能、抗氧化能力和脂肪代谢基因表达的影响，以便为硒在黄颡鱼幼鱼配合饲料中的合理应用
+
+提供相应的理论依据。
+
+1材料与方法
+
+1.1试验饲料  
+以酪蛋白为蛋白质源，鱼油和磷脂油（4:1）为脂肪源，高筋面粉为糖源配制成粗蛋白质含量为 $3 9 . 9 6 \%$ 、粗脂肪含量为 $9 . 9 3 \%$ 的基础饲料，其组成及营养水平见表1。以亚硒酸钠（天津市光复精细化工有限公司，分析纯）作为硒的来源，在基础饲料中添加不同水平的硒配制成6种试验饲料，硒的添加水平参照虹鳟（ $0 . 3 8 ~ \mathrm { m g / k g }$ ）[1]、斑点叉尾（0.25mg/kg）[2]、石斑鱼（ $0 . 7 0 \mathrm { \ m g / k g }$ ）[4]对硒需求量而确定。基础饲料配制所用饲料原料由广州飞禧特水产科技有限公司提供，所有饲料原料均粉碎并过60 目筛，采用逐级扩大法将亚硒酸钠、维生素和微量元素等微量成分混匀，然后加入鱼油、磷脂油和水混匀，使用 SLX-80 型双螺旋杆挤压机将其制成直径为 $2 . 5 \mathrm { m m }$ 的颗粒饲料， $5 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 烘干，自然冷却后装入密封袋，-20℃冰箱中保存备用。采用氢化物发生-原子吸收光谱法测得6种试验饲料中硒的实际含量分别为<0.05（对照饲料）、0.15、0.23、0.35、0.47和 $0 . 9 6 \mathrm { m g / k g }$ 。1 维生素预混料为每千克饲料提供 Vitamin premix provided the following for per $\mathrm { k g }$ of the diet: VA 2 000  
+IU，VD3 700 IU，VE $1 0 \mathrm { m g }$ ， $\mathrm { V K } _ { 3 } 2 . 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 2 . 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 3 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 1 \ : \mathrm { m g }$ ，烟酰胺niacin  
+$1 7 . 5 ~ \mathrm { m g }$ ， $D$ -泛酸钙 $D$ -calcium pantothenate $1 0 ~ \mathrm { m g }$ ，叶酸 folic acid $0 . 8 ~ \mathrm { m g }$ ，生物素 biotin $0 . 0 4 5 ~ \mathrm { m g }$ ，肌醇  
+inositol $2 5 ~ \mathrm { m g }$ 。2)矿物质预混料为每千克饲料提供 Mineral premix provided the following for per $\mathbf { k g }$ of the diet:  
+MgSO4·H2O 280 mg, $\mathrm { C u S O _ { 4 } } \bullet 5 \mathrm { H _ { 2 } O } 6 \mathrm { m } _ { \cdot }$ g，FeSO4 $\cdot \cdot$ H2O 30 mg, $\mathrm { M n S O _ { 4 } \cdot H _ { 2 } O 4 . 9 m g }$ ， $\mathrm { F e S O _ { 4 } \bullet H _ { 2 } O \ 3 0 m g }$   
+ZnSO4·HO 86.95 mg， Ca(IO3)2 ( $5 \%$ 15mg，CoSO4( $5 \% )$ 3mg。  
+1.2试验鱼与饲养管理试验用黄颡鱼幼鱼购于广东省清远市黄沙渔业基地，购回后暂养于广东省农业科学院动  
+物科学研究所水产研究室的室内循环水养殖系统中，每天用商品饲料（粗蛋白质， $4 2 . 2 4 \%$ ：
+
+表1基础饲料组成及营养水平(干物质基础)   
+Table1 Composition and nutrient levels of the basal diet (DM basis) %   
+
+<html><body><table><tr><td>项目Items</td><td>含量Content</td></tr><tr><td>原料Ingredients</td><td></td></tr><tr><td>酪蛋白 Casein</td><td>46.00</td></tr><tr><td>玉米淀粉 Corn starch</td><td>26.50</td></tr><tr><td>鱼油Fish oil</td><td>8.00</td></tr><tr><td>磷脂油Lecithin oil</td><td>2.00</td></tr><tr><td>维生素预混料 Vitamin premixl)</td><td>0.50</td></tr><tr><td>矿物质预混料 Mineral premix2)</td><td>1.50</td></tr></table></body></html>
+
+<html><body><table><tr><td>氯化胆碱 Choline chloride</td><td>0.50</td></tr><tr><td>维生素C磷酸酯 Vitamin C phosphate</td><td>0.10</td></tr><tr><td>食盐 NaCl</td><td>0.40</td></tr><tr><td>磷酸二氢钙 Ca(HPO4)2</td><td>2.00</td></tr><tr><td>甜菜碱 Betaine</td><td>0.50</td></tr><tr><td>羧甲基纤维素 Carboxymethyl cellulose</td><td>3.00</td></tr><tr><td>微晶纤维素 Microcrystalline cellulose</td><td>9.00</td></tr><tr><td>合计 Total</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels (n=3)</td><td></td></tr><tr><td>粗蛋白质 Crude protein</td><td>39.96</td></tr><tr><td>粗脂肪Crude lipid</td><td>9.93</td></tr><tr><td>粗灰分 Ash</td><td>5.37</td></tr><tr><td>水分 Moisture</td><td>6.42</td></tr></table></body></html>
+
+粗脂肪， $7 . 0 6 \%$ ；粗灰分， $1 0 . 0 6 \%$ ；水分， $9 . 4 2 \%$ ；硒， $0 . 4 6 ~ \mathrm { m g / k g }$ ）饱食投喂2次（09:00和16:00)，驯养2周。养殖系统由18个容量为 $3 5 0 \mathrm { ~ L ~ }$ 的圆柱形玻璃纤维缸（直径 $8 0 \ \mathrm { c m }$ 高 $7 0 \mathrm { c m }$ ）组成，养殖实际水容量为 $3 0 0 { \sim } 3 2 0 \mathrm { L }$ 。试验开始时，挑选出体格健壮、大小均匀的平均体重为‘ $( 2 . 1 2 { \pm } 0 . 0 1 \$ ） $\mathrm { \bf ~ g }$ 的黄颡鱼幼鱼450 尾，分配于18个圆柱形玻璃纤维缸中，每缸放养25尾。将18个圆柱形玻璃纤维缸随机分为6组（每组3个重复)，分别投喂对应的试验饲料，每天投喂2次（09:00 和16:00)，投饲量为体重的 $4 \% { \sim } 6 \%$ ，并根据摄食和生长情况调节。每天记录投饲量、死亡情况以及水温。全天 $2 4 \mathrm { ~ h ~ }$ 不间断曝气，光照为自然光源，水温 $2 6 . 0 { \sim } 3 2 . 0 \mathrm { ~ \normalfont ~ C ~ }$ ， $\mathrm { p H } 7 . 0 { \sim } 7 . 5$ ，氨氮浓度 ${ < } 0 . 2 \ \mathrm { m g / L }$ ，水体未检出硒。饲养期为8周。
+
+# 1.3样品采集与分析
+
+# 1.3.1 样品采集
+
+饲养试验结束时，禁食 $2 4 \mathrm { h }$ 后计数、称重。每缸随机取6尾鱼放于-20℃冰箱中保存，用于测定鱼体组成和硒含量。每缸再随机取10 尾鱼，使用浓度为 $6 0 \mathrm { m g / L }$ 的MS-222（苏州信永生物医药技术有限公司）进行麻醉，尾静脉取血于抗凝管（BD公司）中混匀，于4℃下 $4 ~ 0 0 0 ~ \mathrm { r / m i n }$ 离心 $1 0 ~ \mathrm { m i n }$ ，制备血浆样品，-78℃保存，用于血浆生化指标测定。采血后的鱼在冰盘上解剖取肝脏，将3尾鱼的肝脏合并为1个样品，迅速投入液氮中速冻，保存于-78℃冰箱用于肝脏脂蛋白脂酶（LPL）和脂肪酸合成酶（FAS）mRNA表达的分析，剩余鱼的肝脏混合为1个样品保存于-78℃冰箱用于肝脏GPx、超氧化物歧化酶（SOD）活性及丙二醛（MDA）含量等抗氧化指标测定。
+
+# 1.3.2 样品分析
+
+饲料和全鱼样品中水分含量采用105℃常压干燥法、粗蛋白质含量采用凯氏定氮法、粗脂肪含量采用乙醚抽提法、粗灰分含量采用550℃灼烧法进行测定。采用氢化物发生-原子吸收光谱法测定鱼体硒含量。血浆葡萄糖（GLU）、总蛋白（TP）、胆固醇（CHO）和甘油三酯（TG）含量采用日立7170A全自动生化分析仪进行测定。肝脏MDA含量、GPx 活性、SOD 活性均采用市售的南京建成生物工程研究所的试剂盒测定，按照使用说明进行操作。
+
+取出-78℃冰箱中保存的肝脏组织，在液氮中充分研磨成粉末状后，取试剂盒说明书按照建议用量加入裂解液，并按照TaKaRaRNA小量提取试剂盒操作步骤进行总RNA的提取。采用实时荧光定量PCR 测定黄颡鱼幼鱼肝脏中的LPL、FASmRNA的相对表达量，以 $\beta$ -肌动蛋白（ $\beta$ -actin）为内参基因。根据瓦氏黄颡鱼LPL、FAScDNA序列利用Primer5.0软件设计实时荧光定量PCR的特异引物LPL（EU882966.1）、FAS（JN579124.1） $\beta$ -actin(EU161066.1)（表2）。测定所使用的主要仪器为定量PCR仪器（BioradCFXconnect）和分光光度计（Thermo Scientific NanoDrop ND2000）。将 $2 \mu \mathrm { L }$ 模板cDNA、 $4 \mu \mathrm { L }$ 引物对混合液 $. 4 \mu \mathrm { L } \mathrm { d d H } _ { 2 } \mathrm { O }$ 和 $1 0 ~ \mu \mathrm { L }$ SYBR Green qPCR Kit（Al-in-OneTM miRNA qRT-PCR Detection Kit）构成 $2 0 ~ \mu \mathrm { L }$ 反应体系。每个样品做3个重复，以不加模板的PCR反应样品作为阴性对照。反应循环参数为： $9 5 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 预变性 $1 2 \mathrm { m i n }$ ；95℃变性10s，58℃退火 $1 0 \mathrm { ~ s ~ }$ ，72℃延伸 $1 0 \mathrm { ~ s ~ }$ ，40个循环。使用 Option Monitor Software 2.03 version（MJ Research，Cambridge，MA）软件分析熔解曲线，按照 $2 ^ { - \triangle \triangle _ { \mathrm { C t } } }$ 法进行表达量差异分析。
+
+# 表2本试验中实时荧光定量PCR使用的引物
+
+Table 2Real time qPCR primers used in this experiment   
+
+<html><body><table><tr><td>基因Genes</td><td>引物序列 Prime sequence (5'-3')</td></tr><tr><td>脂蛋白脂酶</td><td>F:GACCAGAGAGATGATGCCGT</td></tr><tr><td>LPL</td><td>R：TAGCTTAGCTGGCTCTTGCTG</td></tr><tr><td>脂肪酸合成酶</td><td>F：TGCTGCCTCCTCATTCTA</td></tr><tr><td>FAS</td><td>R:CTCCAAGTCCATCTCCATAG</td></tr><tr><td>β-肌动蛋白</td><td>F:GGCAATGAGAGGTTCAGGTG</td></tr><tr><td>β-actin</td><td>R:TCTCATGGATGCCGCAGGA</td></tr></table></body></html>
+
+# 1.4指标计算
+
+增重率（weight gain rate,WGR $\%$ ） $\scriptstyle = 1 0 0 \times$ （终末体重 $. +$ 死亡体重一初始体重）/初始体重；  
+摄食率(feeding rate， $\mathrm { F R } , \% = 1 0 0 \times$ 摄入饲料总量/{[(初始总体重 $^ +$ 终末体重)/2] $\times$ 投喂天数};  
+饲料系数(feed conversion ratio,FCR) $\ c =$ 摄入饲料总量/（终末体重 $^ +$ 死亡体重一初始体重);  
+存活率（survival rate $S \mathbb { R } , \%$ ） $_ { \mathrm { = } 1 0 0 } \times$ 终末尾数/初始尾数。
+
+# 1.5 数据统计与分析
+
+试验数据(存活率除外)用平均值±标准误表示，采用 SPSS11.5软件进行统计分析。首先对数据进行方差齐性检验，若满足方差齐性则用单因素方差分析（one-way ANOVA）分析数据，差异显著者再用LSD检验方法进行多重比较,若不满足方差齐性则采用Dunnett's ${ { \mathrm { T } } _ { 3 } }$ 检验法进行多重比较。 $P { < } 0 . 0 5$ 表示差异显著。
+
+# 2结果
+
+2.1饲料硒含量对黄颡鱼幼鱼生长性能的影响  
+由表3可知，投喂含硒饲料8周后，饲料硒含量为 $0 . 2 3 \mathrm { m g / k g }$ 的组黄颡鱼幼鱼的增重率达到最高，显著高于对照组（ $. P { < } 0 . 0 5 \mathrm { ~ }$ )，饲料系数达到最低，显著低于对照组（ $_ { \cdot } P { < } 0 . 0 5 \$ 。摄食率以对照组最高，显著高于饲料硒含量为0.15和 $0 . 2 3 \mathrm { m g / k g }$ 的组( $\scriptstyle \cdot < 0 . 0 5$ )。黄颡鱼幼鱼的存活率未受饲料中硒含量的影响( $( P { > } 0 . 0 5 )$ ，各组均为 $100 \%$ 。对增重率进行非线性回归分析[14],得出黄颡鱼幼鱼饲料中适宜的硒含量为 $0 . 2 0 \mathrm { m g / k g }$ （图1）。
+
+表3饲喂不同硒含量饲料的黄颡鱼幼鱼的增重率、摄食率、饲料系数和存活率
+
+Table 3WGR,FR,FCR and SR of juvenile yellow catfish fed diets containing Various contents of Se   
+
+<html><body><table><tr><td>饲料硒含量</td><td></td><td>摄食率</td><td></td><td></td></tr><tr><td></td><td>增重率</td><td></td><td>饲料系数</td><td>存活率</td></tr><tr><td>Dietary Se</td><td></td><td>FR/%</td><td></td><td></td></tr><tr><td>content/(mg/kg)</td><td>WGR/%</td><td></td><td>FCR</td><td>SR/%</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td><0.05</td><td>485.00±21.89b</td><td>2.57±0.07a</td><td>1.02±0.04a</td><td>100</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>0.15</td><td>604.78±20.39ab</td><td>2.24±0.06b</td><td>0.84±0.03bc</td><td>100</td></tr><tr><td>0.23</td><td>638.45±48.45a</td><td>2.17±0.12b</td><td>0.81±0.06c</td><td>100</td></tr><tr><td>0.35</td><td>546.83±11.91b</td><td>2.42±0.03ab</td><td>0.92±0.01abc</td><td>100</td></tr><tr><td>0.47</td><td>534.71±25.29b</td><td>2.41±0.03ab</td><td>0.93±0.02abc</td><td>100</td></tr><tr><td>0.96</td><td>514.54±40.64b</td><td>2.44±0.08ab</td><td>0.95±0.05ab</td><td>100</td></tr></table></body></html>
+
+同列数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5$ ）。下表同。
+
+Values in the samecolumn with different small leter superscripts mean significant difference $( P { < } 0 . 0 5 )$ . The
+
+same as below.
+
+![](images/732288013233cffc39c059dd6b4fed8b2445078500cf61f538d671bcba032b08.jpg)  
+图1饲料硒含量与黄颡鱼幼鱼增重率之间关系的非线性回归分析
+
+Fig.1The nonlinear regresson analysis of the relationship between dietary Se content and WGR of juvenile
+
+yellow catfish
+
+2.2饲料硒含量对黄颡鱼幼鱼体组成的影响
+
+由表4可知，投喂含硒饲料8周后，黄颡鱼幼鱼的全鱼粗蛋白质含量在饲料硒含量为0.35mg/kg的组最高，显著高于对照组和饲料硒含量为 $0 . 2 3 ~ \mathrm { m g / k g }$ 的组（ $P { < } 0 . 0 5$ )。对照组黄颡鱼幼鱼的全鱼粗脂肪含量显著低于饲料硒含量为0.15、0.47和 $0 . 9 6 ~ \mathrm { { m g / k g } }$ 的组（ $\scriptstyle P < 0 . 0 5 .$ ，而黄颡鱼幼鱼的全鱼水分含量则表现为对照组高于其他各组，且与饲料硒含量为0.15、0.35、0.47和 $0 . 9 6 ~ \mathrm { m g / k g }$ 的组差异达显著水平（ $. P { < } 0 . 0 5 )$ 。黄颡鱼幼鱼全鱼硒含量以饲料硒含量为0.96mg/kg的组最高，显著高于其他各组（ $( P { < } 0 . 0 5 )$ ，以对照组最低，显著低于除饲料硒含量为0.15mg/kg的组外的其他各组（ $_ { _ { P < 0 . 0 5 ) } }$ 。
+
+# 表4饲喂不同硒含量饲料的黄颡鱼幼鱼的体组成
+
+Table 4Body composition of juvenile yellow catfish fed diets containing various contents of Se   
+
+<html><body><table><tr><td>饲料硒含量</td><td>粗蛋白质</td><td>粗脂肪</td><td>粗灰分</td><td>水分</td><td>硒</td></tr><tr><td>Dietary Se</td><td>Crude</td><td>Crude lipid/%</td><td>Ash/%</td><td>Moisture/%</td><td>Se/(μg/g DM)</td></tr><tr><td>level/(mg/kg)</td><td>protein/%</td><td></td><td></td><td></td><td></td></tr><tr><td><0.05</td><td>13.41±0.09b</td><td>5.19±0.23b</td><td>3.03±0.00b</td><td>76.29±0.55a</td><td>0.36±0.04c</td></tr><tr><td>0.15</td><td>13.85±0.15ab</td><td>7.01±0.40a</td><td>3.38±0.0ab</td><td>73.26±0.57bc</td><td>0.42±0.02c</td></tr><tr><td>0.23</td><td>13.46±0.14b</td><td>6.31±0.65ab</td><td>3.09±0.1b</td><td>74.86±0.81ab</td><td>0.54±0.05b</td></tr><tr><td>0.35</td><td>14.18±0.35a</td><td>6.42±0.37ab</td><td>3.53±0.1a</td><td>73.41±1.39b</td><td>0.64±0.02b</td></tr><tr><td>0.47</td><td>13.72±0.11ab</td><td>8.79±0.32c</td><td>3.33±0.1ab</td><td>71.67±0.72c</td><td>0.57±0.04b</td></tr><tr><td>0.96</td><td>13.67±0.06ab</td><td>8.38±0.42c</td><td>3.43±0.1ab</td><td>71.27±1.12c</td><td>0.95±0.03a</td></tr></table></body></html>
+
+2.3饲料硒含量对黄颡鱼幼鱼血浆生化指标的影响
+
+由表5可知，投喂含硒饲料8周后，饲料硒含量对黄颡鱼幼鱼血浆总蛋白、葡萄糖、甘油三酯含量均未产生显著影响（ $. P { > } 0 . 0 5$ )。饲料硒含量为 $0 . 2 3 \mathrm { m g / k g }$ 时，黄颡鱼幼鱼血浆胆固醇含量最低，显著低于对照组（ $. P { < } 0 . 0 5 )$ 。
+
+Table 5Plasma biochemical indices of juvenile yellow catfish fed diets containing various contents of Se   
+
+<html><body><table><tr><td>饲料硒含量</td><td>总蛋白</td><td>胆固醇</td><td>葡萄糖</td><td>甘油三酯</td></tr><tr><td>Dietary Se</td><td>TP/(mmol/L)</td><td>CHO/(mmol/L)</td><td>GLU/(mmol/L</td><td>TG/(g/L)</td></tr><tr><td>content/(mg/kg)</td><td></td><td></td><td>）</td><td></td></tr><tr><td><0.05</td><td>3.13±0.30</td><td>3.16±0.25a</td><td>5.53±0.55</td><td>28.30±0.50</td></tr><tr><td>0.15</td><td>3.16±0.44</td><td>3.02±0.09ab</td><td>5.38±0.61</td><td>29.50±0.35</td></tr><tr><td>0.23</td><td>2.34±0.26</td><td>2.62±0.22b</td><td>6.35±0.49</td><td>27.20±1.94</td></tr><tr><td>0.35</td><td>2.50±0.13</td><td>2.75±0.18ab</td><td>5.90±1.22</td><td>31.00±2.93</td></tr><tr><td>0.47</td><td>2.41±0.22</td><td>2.79±0.06ab</td><td>4.67±0.76</td><td>28.07±0.27</td></tr><tr><td>0.96</td><td>2.89±0.52</td><td>3.00±0.14ab</td><td>5.35±0.83</td><td>28.33±1.99</td></tr></table></body></html>
+
+2.4饲料硒含量对黄颡鱼幼鱼肝脏抗氧化指标的影响
+
+由表6可以知，投喂含硒饲料8周后，肝脏GPx活性随着饲料硒含量的升高而升高，饲料硒含量为 $0 . 9 6 \mathrm { m g / k g }$ 的组显著高于其他各组（ $. P { < } 0 . 0 5 \$ )。肝脏SOD活性随着饲料硒含量的升高先升高再降低再升高，在饲料硒含量为 $0 . 9 6 ~ \mathrm { m g / k g }$ 的组有最高值，并显著高于其他各组（ $_ { . P < 0 . 0 5 ) }$ 。各组间肝脏MDA含量差异不显著（ $P { > } 0 . 0 5 )$ 。
+
+表6饲喂不同硒含量饲料的黄颡鱼幼鱼的肝脏抗氧化指标  
+Table 6Liver antioxidant indices of juvenile yellow catfish fed diets containing various contents of Se   
+
+<html><body><table><tr><td>饲料硒含量</td><td>谷胱甘肽过氧化物酶</td><td>超氧化物歧化酶</td><td>丙二醛</td></tr><tr><td>Dietary Se</td><td>GPx/(U/mg prot)</td><td>SOD/(U/mg prot)</td><td>MDA/(nmol/mg prot)</td></tr><tr><td>content/(mg/kg)</td><td></td><td></td><td></td></tr><tr><td><0.05</td><td>28.18±0.15d</td><td>3.73±0.48cd</td><td>1.01±0.10</td></tr><tr><td>0.15</td><td>31.30±1.07cd</td><td>6.94±0.37b</td><td>0.88±0.18</td></tr></table></body></html>
+
+<html><body><table><tr><td>0.23</td><td>35.75±1.47bc</td><td>7.35±0.25b</td><td>0.91±0.12</td></tr><tr><td>0.35</td><td>39.40±3.29b</td><td>4.78±0.11c</td><td>1.13±0.05</td></tr><tr><td>0.47</td><td>42.50±2.30b</td><td>2.98±0.55d</td><td>0.93±0.09</td></tr><tr><td>0.96</td><td>66.76±2.74a</td><td>9.37±0.36a</td><td>0.98±0.12</td></tr></table></body></html>
+
+2.5饲料硒含量对黄颡鱼幼鱼肝脏LPL和FASmRNA表达的影响
+
+由表7可知，投喂含硒饲料8周后，黄颡鱼幼鱼肝脏LPLmRNA相对表达量在饲料硒含量为 $0 . 2 3 \mathrm { m g / k g }$ 时达到最高，与对照组有显著差异（ $. P { < } 0 . 0 5 )$ ，然后随着饲料硒含量继续升高出现降低，但在饲料硒含量为 $0 . 9 3 ~ \mathrm { m g / k g }$ 时又出现升高。黄颡鱼幼鱼肝脏FASmRNA相对表达量与LPLmRNA相对表达量具有相似的变化趋势，对照组FASmRNA的相对表达量最低，显著低于除饲料硒含量为 $0 . 4 7 \mathrm { m g / k g }$ 的组外的其他各组（ $\cdot P { < } 0 . 0 5 )$ 。
+
+表7饲喂不同硒含量饲料的黄颡鱼幼鱼的肝脏LPL和FASmRNA相对表达量
+
+Table 7Liver $L P L$ and FAS mRNA relative expression levels of yellow catfish fed diets containing various   
+
+<html><body><table><tr><td colspan="3">contents of Se</td></tr><tr><td>饲料硒含量</td><td>脂蛋白脂酶 LPL</td><td>脂肪酸合成酶 FAS</td></tr><tr><td>Dietary Se content/(mg/kg) <0.05</td><td>0.85±0.08b</td><td>1.17±0.09c</td></tr><tr><td>0.15</td><td>0.64±0.21b</td><td>3.32±0.79ab</td></tr><tr><td>0.23</td><td>1.83±0.06a</td><td>3.43±0.95ab</td></tr><tr><td>0.35</td><td>0.88±0.11b</td><td>4.72±0.33a</td></tr><tr><td>0.47</td><td>0.47±0.01b</td><td></td></tr><tr><td></td><td></td><td>2.47±0.45bc</td></tr><tr><td>0.96</td><td>1.66±0.46a</td><td>3.44±0.96ab</td></tr></table></body></html>
+
+165 3讨论
+
+166 3.1饲料硒含量对黄颡鱼幼鱼生长性能的影响
+
+本试验中，饲料硒含量为 $0 . 2 3 \mathrm { \ m g / k g }$ 时，黄颡鱼幼鱼的增重率最高，表明饲料中适量添加硒对维持黄颡鱼幼鱼正常生长和提高增重率是必需的，饲料硒含量不足或过高均会对其生长产生一定的抑制作用。以增重率为评价指标，通过非线性回归分析得出黄颡鱼幼鱼饲料中硒的适宜含量为 $0 . 2 0 ~ \mathrm { m g / k g }$ 。这一结果与在斑点叉尾[2]（ $0 . 2 5 ~ \mathrm { m g / k g }$ ）中的研究结果相似，但低于虹鳟（ $\mathrm { 0 . 3 8 \ m g / k g }$ ）[、军曹鱼（ $\mathrm { 0 . 7 8 8 \ m g / k g }$ ）[5]、石斑鱼（ $0 . 7 \mathrm { m g / k g }$ ）[4]、鲈鱼0 $\mathbf { ( 0 . 4 0 { \sim } 0 . 6 3 \ m g / k g ) } ^ { [ 6 }$ 、鲤鱼幼鱼 $( 0 . 4 3 4 { \sim } 0 . 5 1 7 \mathrm { m g / k g } )$ ）[7]、草鱼幼鱼 $( 0 . 4 3 8 { \sim } 0 . 6 3 1 ~ \mathrm { m g / k g } )$ [15]、皱纹盘鲍鱼幼鱼 $\mathrm { ( 1 . 4 0 8 ~ m g / k g ) ^ { \vert } }$ 8]、华绒螯蟹幼蟹 $( 0 . 4 { \sim } 0 . 6 \mathrm { m g / k g } )$ [9]以及中国对虾（0.44mg/kg）[16]所得结果，高于大黄鱼幼鱼（ $\mathrm { 0 . 1 7 8 \ m g / k g }$ ）[3]所得结果。分析其原因，可能是由于水产动物之间摄食习性、生长阶段、生理特点、养殖环境、养殖模式以及饲料加工工艺的差异造成的。除大黄鱼外，虹鳟、军曹鱼、石斑鱼、鲈鱼以及皱纹盘鲍幼鱼等偏肉食性海水养殖动物硒需要量普遍偏高，而中华绒螯蟹幼蟹以及中国对虾硒需要量也偏高，这可能是由于其通过蜕壳保持生长导致了硒等微量元素需要量相对较高，但这一推断有待进一步研究。黄颡鱼幼鱼和斑点叉尾同属鲶形目鱼类，具有近缘的遗传学关系，生理特点和生活习性相似，因此这可能是导致二者硒需要量接近一致的主要原因。
+
+# 3.2饲料硒含量对黄颡鱼幼鱼体组成的影响
+
+鱼体粗蛋白质、粗脂肪、粗灰分、水分是鱼类营养学研究中评价鱼体营养状况的重要研究内容[6]，鱼体水分含量与鱼体粗蛋白质、粗脂肪以及能量含量间存在负相关性，鱼体水分含量能够很好地反映鱼体粗蛋白质和粗脂肪含量的相对变化[17]。由本试验结果可知，饲料硒含量影响了黄颡鱼幼鱼的体组成，对照组黄颡鱼幼鱼的全鱼粗脂肪含量最低，并显著低于硒含量为0.15、0.47和 $0 . 9 6 ~ \mathrm { m g / k g }$ 的组，并且全鱼粗脂肪含随着饲料硒含量的升高基本呈现升高的趋势，而全鱼水分含量则随着硒含量的升高基本呈降低趋势，这一变化趋势与Jonsson 等[7]的研究得出的趋势相吻合。因此，硒缺乏导致黄颡鱼幼鱼体脂肪沉积减少，高硒导致体脂肪沉积增加，硒在一定程度上对黄颡鱼幼鱼体脂肪的代谢产生了影响。同样，在
+
+大口黑鲈中的研究发现，饲料中高含量的硒使肝脏脂肪含量升高，对肝脏脂质代谢产生了影响[]。在哺乳动物中，硒能够使大鼠体脂肪含量增加，硒缺乏降低大鼠 5'-脱碘酶（5'-DIO)活性，破坏动物棕色脂肪的非寒颤性产热功能[18]。然而，在白鲟幼鱼[12]和绿鲟幼鱼[19]中，随着饲料硒含量的升高鱼体粗脂肪、能量含量显著降低，水分含量显著升高;在革胡子鲶中，饲料中高含量的硒也使鱼体粗脂肪含量降低[10]。De Riu 等[19]认为硒的毒性使鲟鱼通过脂肪和蛋白质的消耗以补充能量的消耗。另外，试验动物的种类、试验动物初始阶段的生长速度也是影响脂肪沉积的因素。到目前为止，高硒降低机体脂肪含量的机制仍然不清楚，但可以肯定的是，硒对调节动物脂肪代谢具有重要的作用，缺硒或高硒影响了体脂肪的沉积。3.3饲料硒含量对黄颡鱼幼鱼血浆生化指标的影响  
+温度、光照、饲养密度、盐度等环境因素，生殖周期、年龄、性别、营养等生理因素，以及驯养等级等社会因素都会对鱼类的血液指标产生影响，血液生化指标能够作为一种比较敏感的方法监测由养殖环境产生的应激[20]，血液中总蛋白、葡萄糖、胆固醇、甘油三酯的含量能够很好地反映动物的营养健康状况。蛋白质代谢、碳水化合物代谢以及脂肪代谢等活动异常通常会引起血液中总蛋白和胆固醇含量的变化[21l，因此胆固醇常被用于检测由脂肪代谢紊乱产生相关疾病[22]。研究发现，缺硒导致大鼠DIO活性下降[23]，最终引起血浆低密度脂蛋白胆固醇（LDL-C）含量异常升高，这与本研究中发现的对照组（缺硒组）黄颡鱼幼鱼血浆胆固醇含量高于其他组的结果一致。研究发现，载脂蛋白(Apo)B能介导低密度脂蛋白(LDL)与LDL受体(LDL-R)的结合，因而具有清除血液循环中LDL-C的作用。T3则参与促进LDL-R[24]和ApoB的表达[25]，但T3需要DIO催化T4脱碘而成，缺硒导致DIO活性下降[23]，最终引起血浆LDL-C含量异常升高。也有研究认为，缺硒导致血浆中胆固醇升高的原因可能与动物本身抗氧化能力降低，大量的自由基氧化攻击使得血浆中葡萄糖和胆固醇的含量升高有关[26]。
+
+3.4饲料硒含量对黄颡鱼幼鱼肝脏抗氧化指标的影响
+
+本研究发现，黄颡鱼幼鱼全鱼硒含量与饲料硒含量呈剂量效应关系，随着饲料硒含量的升高而升高。这与在皱纹盘鲍8和石斑鱼[4上的研究结果一致。肝脏和肾脏是硒蓄积较高的组织[27]。肝脏中GPx和SOD活性以及MDA含量常被用于反映硒抗氧化能力的重要指标[28-29]。硒是GPx的活性中心，肝脏GPx的活性能够很好地反映有机体硒的含量，在虹[、斑点叉尾[2、石斑鱼[4]以及皱纹盘鲍[8]中发现，随着硒在动物体内的沉积，GPx的活性显著升高，本研究结果与之相一致。GPx、SOD和过氧化氢酶（CAT）被认为是细胞防御功能的第1道防线，GPx和SOD活性以及两者之间的平衡对于抵抗氧化损伤具有重要的保护作用[30]。SOD的主要功能是捕获超氧阴离子，在对宿主的免疫防御中能够最大限度的降低氧化损伤[31]。铜作为SOD的结构中心，对于维持该酶的稳定性具有重要的作用。关于铜和硒的关系，已有文献进行了报道，在大西洋鲑中研究发现肝脏硒和铜的蓄积量呈正剂量效应关系[32]。然而，也有研究表明，在鱼类中，当硒和铜在高剂量时能够相互修正，通过降低生物活性来降低硒和铜的毒性[3]。在本试验中，黄颡鱼幼鱼肝脏SOD活性随饲料硒含量的升高先升高，在硒含量超过0.23mg/kg后再降低，然后在硒含量为0.96 mg/kg时又升高，推测这可能是由于适量的硒能够使SOD活性呈现正效应的协同关系，当硒含量超出这一范围，硒对SOD活性表现出抑制效应，当硒的含量过高时，SOD活性又会重新启动抵抗高硒所产生的氧化应激，然而，这一推断仍需进一步验证。MDA是脂质过氧化的产物，通常被作为检测氧化损伤的重要指标[34]。在虹中研究发现，适量添加亚硒酸钠或有机硒能使鱼体血清和肌肉MDA含量降低[35]，然而，本研究中各组黄颡鱼幼鱼肝脏MDA含量差异不显著，在西伯利亚鲟鱼（Acipenserbaeri）[28]和虹鳟[29]中也同样发现硒对肝脏MDA含量的影响不显著。Pacini等[28]认为，导致这一结果的原因可能是由于当硒比较充足时GPx活性较高，能够有效预防肝脏脂质过氧化损伤。但我们推测，导致本试验中肝脏MDA含量组间差异不显著的原因可能与本试验中所用的检测方法有关，Kucukbay等[3σ所用的是高效液相色谱法，灵敏度高于本试验所用的试剂盒法。
+
+3.5饲料硒含量对黄颡鱼幼鱼肝脏LPL和FASmRNA表达的影响
+
+LPL是动物组织中脂肪沉积的关键酶，是甘油三酯降解为甘油和游离脂肪酸（FFA）反应的限速酶，在脂质代谢和转运过程中起着重要作用。LPL通过控制其在脂肪组织与其他组织器官表达量的高低直接决定脂肪组织与其他组织器官脂质底物配额的相对量，从而间接决定从食物中摄入脂类的代谢前途：以体脂形式贮备起来或作为能源底物消耗掉，并最终对机体脂肪蓄积状况产生决定性影响[37]。FAS能够催化乙酰辅酶A和丙二酸单酰辅酶A合成软脂酸（C16:0)，FAS的多少和活性的高低对动物体脂沉积具有重要意义，从而在动物体脂沉积中发挥重要作用。迄今未止，关于硒调控脂肪代谢相关基因表达的报道较少，仅见梁杨[38]在鸡脂肪组织中开展了此方面研究，他发现缺硒对脂肪组织中LPLmRNA的表达具有促进作用，即缺硒通过促进LPL的表达促进脂肪组织中脂肪酸的摄取，增加脂肪组织形成。而在本试验中，对照组（缺硒组）黄颡鱼幼鱼肝脏LPL和FASmRNA的相对表达量较低，这与本试验所得的对照组黄颡鱼幼鱼的全鱼粗脂肪含量较低的结果具有一致性，同时结合黄颡鱼幼鱼血浆胆固醇含量偏高这一现象，我们认为这可能是由于缺硒影响胰岛素信号级联因子的激活状态，从而可能模仿、增强或干扰胰岛素对碳水化合物和脂肪代谢的调控[38]，进而影响了LPL和FASmRNA的表达，最终影响黄颡鱼幼鱼体脂肪的沉积。目前，硒调控动物脂肪代谢属于一个全新的研究领域，研究资料不多，因此，关于此方面作用机理的揭示尚有待深入研究。
+
+4结论
+
+以增重率为评价指标，通过非线性回归分析计算出黄颡鱼幼鱼饲料中硒的适宜含量为0.20 mg/kg 。
+
+参考文献：
+
+[1] HILTON J W,HODSON P V,SLINGER S J.The requirement and toxicity of selenium in rainbow trout (Salmo gairdneri)[J].The Journal of Nutrition,1980,110(12):2527-2535.
+
+[2] GATLIN II D M,WILSON R P.Dietary selenium requirement of fingerling channel catfish[J].Journal of Nutrition,1984,114(3):627-633.
+
+[3]曹娟娟,张文兵,徐玮,等.大黄鱼幼鱼对饲料硒的需求量[J]).水生生物学报,2015,39(2):241-249.
+
+[4] LIN Y H,SHIAU S Y.Dietary selenium requirements of juvenile grouper,Epinephelus malabaricus[J].Aquaculture,2005,250(1/2):356-363.
+
+[5] LIU K,WANG X J,AI Q H,et al.Dietary selenium requirement for juvenile cobia,Rachycentron canadum L.[J].Aquaculture Research,2010,41(10):e594-e601.
+
+[6] 梁萌青,王家林,常青,等.饲料中硒的添加水平对鲈鱼生长性能及相关酶活性的影响[J].中国水产科学,2006,13(6):1017-1022.
+
+[7] 金明昌.幼鲤硒缺乏症及其机制和硒需要量研究[D].博士学位论文.成都:四川农业大 学,2007.
+
+[8] WANG W F,MAI K S,ZHANG W B,et al.Dietary selenium requirement and its toxicity in juvenile abalone Haliotis discus hannai Ino[J].Aquaculture,2012,33O-333:42-46.
+
+[9] 田文静.饲料中添加硒和镁对中华绒螯蟹幼蟹生长、抗氧化性能的影响[D].硕士学位论文.上海:华东师范大学,2014.
+
+[10] ABDEL-TAWWAB M,MOUSA M A A,ABBASS F E.Growth performance and physiological response of African catfish,Clarias gariepinus (B.) fed organic selenium prior to the exposure to environmental copper toxicity[J].Aquaculture,2007,272(1/2/3/4):335-345.
+
+[11] ZHU Y,CHEN Y J,LIU Y J,et al.Effect of dietary selenium level on growth performance,body composition and hepatic glutathione peroxidase activities of largemouth bass Micropterus salmoide[J].Aquaculture Research,2012,43(11):1660-1668.
+
+dietary $L$ -selenomethionine in juvenile white sturgeon (Acipenser transmontanus)[J].Aquatic Toxicology,2006,79(4):401-409.
+
+[13] ASHOURI S,KEYVANSHOKOOH S,SALTAT A P,et al.Effects of different levels of dietaryselenium nanoparticlesongrowthperformance,musclecomposition,blood biochemicalprofilesand antioxidant status of common carp (Cyprinus carpio)[J].Aquaculture,2015,446:25-29.
+
+[14] FORSTER I,OGATA H Y.Lysine requirement of juvenile Japanese flounder Paralichthys olivaceus and juvenile red sea bream Pagrus major[J].Aquaculture,1998,161(1/2/3/4):131-142.
+
+[15]苏传福.草鱼幼鱼硒的营养需要研究[D].硕士学位论文.重庆:西南大学,2008.
+
+[16] 王安利,王维娜,刘存岐,等.饲料中硒含量对中国对虾生长及其体内含量的影响[J].水产学报，1994,18(3):245-248.
+
+[17] JONSSON N,JONSSON B.Body composition and energy allocation in life-history stages of brown trout[J].Journal of Fish Biology,1998,53(6):1306-1316.
+
+[18]呙于明,ARTHURJR,周毓平.硒缺乏破坏动物褐脂肪的非寒颤性产热功能[J].畜牧兽医学报，1994,25(3):201-205.
+
+[19] DE RIU N,LEE J W,HUANG S S Y,et al.Effect of dietary selenomethionine on growth performance,tissue burden,and histopathology in green and white sturgeon[J].Aquatic Toxicology,2014,148:65-73.
+
+[20] CHEN C Y,WOOSTE G A,GETCHELL RG,etal.Bloodchemistry of healthy,nephrocalcinosis-affected and ozone-treated tilapia in a recirculation system,with application of discriminant analysis[J].Aquaculture,2003,218(1/2/3/4):89-102.
+
+[21] ANDENEN D E,REID S D,MOON T W,et al.Metabolic effects associated with chronically elevated cortisol in rainbow trout (Oncorhynchus mykiss)[J].Canadian Journal of Fisheries and Aquatic Sciences,1991,48(9):1811-1817.
+
+[22] JOHN P J.Alteration of certain blood parameters of freshwater teleost Mystus vittatus after chronic exposure to metasystox and sevin[J].Fish Physiology and Biochemistry,2007,33(1):15-20.
+
+[23] DHINGRA S,SINGH U,BANSAL M P.Effect of selenium depletion and supplementation on the kinetics of type I 5'-iodothyronine deiodinase and $\mathrm { T } _ { 3 } / \mathrm { T } _ { 4 }$ in rats[J].Biological Trace Element Research,2004,97(1):95-104.
+
+[24] NESS G C,LOPEZ D,CHAMBERS C M,et al.Effects of L-triiodothyronine and the thyromimetic L-949O1 on serum lipoprotein levels and hepatic low-density lipoprotein receptor,3-hydroxy-3-methylglutaryl coenzyme A reductase,and apo A-I gene expression[J].Biochemical Pharmacology,1998,56(1):121-129.
+
+[25] MUKHOPADHYAY D,PLATEROTI M,ANANT S,et al.Thyroid hormone regulates hepatic triglyceride mobilization and apolipoprotein B messenger ribonucleic acid editing in a murine model of congenital hypothyroidism[J].Endocrinology,2003,144(2):711-719.
+
+[26] LE K T,FOTEDAR R.Immune responses to Vibrio anguillarum in yellowtail kingfish,Seriola lalandi,fed selenium supplementation[J].Journal of the Word Aquaculture Society,2014,45(2):138-148.
+
+[27] KIM JH,KANG J C.The selenium accumulation and its effect on growth,and haematological parameters in red sea bream,Pagrus major,exposed to water borne selenium[J].Ecotoxicology and Environmental Safety,2014,104:96-102.
+
+[28] PACINI N,ELIA A C,ABETE M C,et al.Antioxidant response versus selenium accumulation in the liver and kidney ofthe Siberian sturgeon (Acipenser Daeru)[JJ.Cnemospnere,zu15,95(iU):z4u5-2412.
+
+[29] RIDER S A,DAVIES S J,JHA A N,et al.Supra-nutritional dietary intake of selenite and selenium yeast in normal and stressed rainbow trout (Oncorhynchus mykiss):implications on selenium status and health responses[J].Aquaculture,2009,295(3/4):282-291.   
+[30] GERBHART R.Oxidative stress,plant-derived antioxidants and liver fibrosis[J].Planta Medica,2002,68(4):289-296.   
+[31] WINSTON G W,DI GIULIO R T.Prooxidant and antioxidant mechanisms in aquatic organisms[J].Aquatic Toxicology,1991,19(2):137-161.   
+[32] LORENTZEN M,MAAGE A,JULSHAMN K.Supplementing copper to a fish meal based dietfedtoAtlanticsalmonparraffectslivercopper and selenium concentrations[J].Aquaculture Nutrition,1998,4(1):67-72.   
+[33] WATANABE T,KIRON V,SATOH S.Trace minerals in fish nutrition[J].Aquaculture,1997,151(1/2/3/4):185-207.   
+[34]ESTERBAUER H,SCHAUR R J,ZOLLNER H.Chemistry and biochemistryof 4-hydroxynonenal,malonaldehyde and related aldehydes[J].Free Radical Biology and Medicine,1991,11(1):81-128.   
+[35] ORUN I,ATES B,SELAMOGLU Z,et al.Effects of various sodium selenite concentrations on some biochemical and hematological parameters of rainbow trout (Oncorhynchus mykiss)[J].Fresenius Environmental Bulletin,20o5,14(1):18-22.   
+[36] KUCUKBAY F Z,YAZLAK H,KARACA I,et al.The effects of dietary organic or inorganic selenium in rainbow trout (Oncorhynchus mykiss) under crowding conditions[J].Aquaculture Nutrition,2009,15(6):569-576.   
+[37] ZECHNER R.The tissue-specific expression of lipoprotein lipase:implications for energy and lipoprotein metabolism[J].Current Opinion Lipidology,1997,8(2):77-88.   
+[38] 梁杨.低硒对鸡脂肪组织中脂肪代谢与硒蛋白表达的影响[D].硕士学位论文.哈尔滨:东 北农业大学,2014. Effects of Dietary Selenium Content on Growth Performance,Antioxidant Capacity and Lipid Metabolism Gene Expression of Juvenile Yellow Catfish (Pelteobagrus fulvidraco)2 HU Junru1,2.3WANG Guoxia1.23SUN Yuping1.2.3CHEN Bing1,2.3CAO Junming1.,2,3\* HUANG Yanhua1.2.3\*ZHUO Lixin1.2.3 (1. Institute of Animal Science, Guangdong Academy of Agricultural Sciences, Guangzhou   
+510640, China; 2. Guangdong Public Laboratory of Animal Breeding and Nutrition, Guangzhou 510640, China; 3. Guangdong Key Laboratory of Animal Breeding and Nutrition, Guangzhou 510640, China)   
+Abstract: This experiment was conducted to investigate the effects of dietary selenium content on   
+growth performance, antioxidant capacity and lipid metabolism gene expression of juvenile   
+yellow catfish (Pelteobagrus fulvidraco). A total of 45O juvenile yellow catfish with the initial   
+body weight of( $2 . 1 2 { \scriptstyle \pm 0 . 0 1 }$ ）g were randomly divided into 6 groups with 3 replicates per group   
+and 2O fish per replicate. The fish in those groups were fed 6 isonitrogenous and isolipid   
+experimental diets containing $< 0 . 0 5$ (control group)， 0.15,0.23,0.35，0.47 and $0 . 9 6 ~ \mathrm { m g / k g }$ （204号   
+selenium, respectively, for 8 weeks. The results showed as follows: the weight gain rate (WGR)   
+increased firstly and decreased subsequently with dietary selenium content increasing, and the   
+highest value appeared at the $0 . 2 3 ~ \mathrm { m g / k g }$ selenium group, which significantly higher than that in
+
+control group ( $_ { ( P < 0 . 0 5 ) }$ . The feed conversion rate (FCR) exhibited an opposite trend to the WGR, and the $0 . 2 3 ~ \mathrm { m g / k g }$ selenium group had the lowest value,which significantly lower than that in control group（ $P { < } 0 . 0 5$ ）. The survival ratio in all groups was $100 \%$ . The highest whole body crude protein content was found in the $0 . 3 5 ~ \mathrm { m g / k g }$ selenium group,which significantly higher than that in control group and $0 . 2 3 ~ \mathrm { m g / k g }$ selenium group ( $\scriptstyle P < 0 . 0 5 .$ ）. The whole body crude lipid content in control group was significantly lower than that in O.15, 0.47 and $0 . 9 6 ~ \mathrm { m g / k g }$ selenium groups ( $P { < } 0 . 0 5 )$ , but the whole body moisture content in control group was significantly higher than that in 0.15, 0.35, 0.47 and $0 . 9 6 \mathrm { m g / k g }$ selenium groups( $P { < } 0 . 0 5$ ）.The plasma cholesterol (CHO) content in $0 . 2 3 ~ \mathrm { m g / k g }$ selenium group was the lowest, and significantly lower than that in control group $( P { < } 0 . 0 5 )$ . The whole body selenium content and liver glutathione peroxidase (GPx) activity were enhanced with dietary selenium content increasing,and presented a dose-response relationship. The liver superoxide dismutase (SOD） activity was firstly increased and then decreased with dietary selenium content increased $< 0 . 0 5 ~ \mathrm { { m g / k g } }$ from to $0 . 4 7 ~ \mathrm { m g / k g }$ , and then was increased again when dietary selenium content was $0 . 9 6 ~ \mathrm { { m g / k g } }$ .The relative expression levels of lipoprotein lipase (LPL) and lipoprotein lipase （FAS） mRNA in control group were significantly lower than those in $0 . 2 3 ~ \mathrm { m g / k g }$ selenium group $( P { < } 0 . 0 5 )$ . Using WGR as the evaluation index, the suitable dietary selenium content of juvenile yellow catfish is estimated to be $0 . 2 0 ~ \mathrm { m g / k g }$ by nonlinear regression analysis.
+
+Key words: selenium; juvenile yellow catfish; growth performance; antioxidant capacity; lipid metabolism gene expression

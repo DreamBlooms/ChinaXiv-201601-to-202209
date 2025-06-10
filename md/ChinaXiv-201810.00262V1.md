@@ -1,0 +1,63 @@
+# 网叶马铃苣苔（苦苣苔科）的重新发现以及花的补充描述
+
+张亚梅』²，郭世伟’²，陈文红‘，税玉民1\*
+
+(1.中国科学院昆明植物研究所东亚植物多样性和生物地理学重点实验室，昆明 650201;2.中国科学院大学，北京 100049)摘要：花部形态是马铃苣苔属属下划分和种间界定的关键性状，缺乏花器官的描述直接导致了一些存疑物种的存在。网叶马铃苣苔（Oreocharis rhytidophylla C.Y.Wu ex H.W.Li）自1956年最后被采集到并于1983年发表，由于没有花的特征，在《中国植物志》、《中国苦苣苔科植物》和"Flora ofChina"均存疑，但该种在随后的60 余年间再无相关的采集记录。经过多年的跟踪调查，2017年作者在其模式产地重新发现并采集了带花的凭证标本。根据已经采集到具花标本，我们确定这个种是个自然种，并基于新收集到的材料，补充描述了花的形态特征。网叶马铃苣苔的重新发现为探索其系统位置提供了重要的依据。
+
+关键词：补充描述，花形态，广义马铃苣苔属，无量山
+
+# Rediscovery and conformation of Oreocharis rhytidophylla (Gesneriaceae) with supplementary description of flowers
+
+ZHANG Yamei1'2, GUO Shiwei1,2, CHEN Wenhong1, SHUI Yumin1\* (1. Key Laboratory for Plant Diversity and Biogeography of East Asia, Kunming Institute of Botany, Chinese AcademyofSciences,Kunming 6502o1,China;2.UniversityofChneseAcademyofSciences,Beijing10049,Cina)
+
+Abstract: The flower morphological is akey trait for sub-divisionand inter-species definition ofthe Oreocharis. Oreocharis rhytidophylla C.Y. Wu ex H. W.Li was last colected in 1956 and published in 1983, the species has no relevant collction records for the next 6O years.Due to the lack of flower morphological, there are doubts in “Flora of reipublicae popularis sinicae”,“Plants of Gesneriaceae in china"and “flora of china”.After years of follow-up investigation, Oreocharis rhytidophylla C. Y. Wu ex H. W. Li was rediscovered in 2017 in it type locality.Due to the availabilityof the flowers during the rediscovery, we confirmed that the species should be considered as a natural species instead of doubtful one.The floral morphology of Oreocharis rhytidophylla C.Y. Wu ex H. W.Li was supplemented based on the recent collctions and photos.Its rediscovery provided an opportunity to explore its systematic position in the context of phylogeny in the future.
+
+Key words: floral morphology, Oreochris, supplementary description,wuliangshan
+
+The clasification systems for Oreocharis were mainly based on flower morphological characters,the flower morphplogical characters of the genus are remarkably diverse,include the symmetry of corolla,the color of corolla,the shape of corolla,the number of stamenand staminodes (Wang et al,1990,1998,Li& Wang,2004). In the genus,it's verycommon that species share similar flowers but totally different leaves or share similar leaves but completely different flowers (Wang et al,1990,1998,Li& Wang,2004).For example,O.parviflora Lei Cai & Z.K.Wu is most closely related to $O$ . henryana Oliv. which shares flowers morphological, but the leaves are completely different (Cai et al, 2017). O. purpurata B.Pan, M.Q.Han & Yan Liu is similar to $O$ ：pinnatilobata (K.Y.Pan) Mich.Moler & A.Weber in leaf, but different in flower morphological (Han et al, 2017).
+
+Oreocharis rhytidophylla C. Y. Wu ex H. W.Li had been doubtful in taxonomic treatment until its availability of the flowers in the field.The species was firstly described based on the type specimens without flowers and obviously diagnostic by the reticulate nerves on both sides of the rugose leaves (Li,1983). Subsequently,it was excluded inthe Chinese listof the genus Oreocharis in the publications and mentioned with abrief note of the above the gap of flower morphology (Pan,1987,Wang et al,1990,1998,Li& Wang,2004). We had gone to the type locality many times and contacted the staffof Wuliangshan National Natural Reserve in order to find it in the field since 2O08.We didn't find it in the past ten years.But in 2O17, we collected the specimens with flowers inour survey to the type locality (Jingdong County, Yunnan province, China). In the sight of the conservation, the species is very rare forits rediscovery after the recent discovery in 1956 indicated bythe specimen (P. Y. Qiu 53376)(Li,1983). Here, we supplementarily describe its floral characters and suggest to confirm its taxonomic position as a natural species in the expanded genus.
+
+Oreocharis rhytidophylla C.Y. Wu ex H. W.Li in Bull Bot. Res.3(2): 9, photo 5.1983; K.Y.Pan in Acta Phytotax. Sin. 25(4): 290. 1987.
+
+# Type
+
+CHINA. Yunnan: Jingdong County, Wuliangshan Mt.,Liandao River, the foot of Jiaoding mountain, 2 November 1956,P. Y. Qiu 53376 (holotype, KUN0484429!; isotype, KUN0548908!,PE00030857-60!). Supplementary description of flowers
+
+Inflorescences axillary, cymes 2-4,2-4-branched,4-16-flowered; peduncle densely long brown lanate,up to $1 4 \mathrm { c m }$ ; bracts 3, verticillat, $1 2 { - } 1 5 \times 2 . 5 { - } 3 \ : \mathrm { m m }$ ,abaxially brown lanate, adaxial glabrous. Calyx 5-parted near to base,lobes equal, oblong-lanceolate, $1 0 – 1 2 \times 1 . 1 – 1 . 2 \ \mathrm { m m }$ , margin integrate,apex obtuse,adaxial glabrous, abaxial brown lanate. Corolla yellow, $3 . 5 \mathrm { - } 3 . 7 ~ \mathrm { c m }$ long, glabrous; corolla tube cylindric, $2 . 7 { - } 3 ~ \mathrm { c m }$ long, $5 { - } 6 \mathrm { m m }$ in diam. adaxial lip 2-lobed, lobes equal,lobes oblong, $\mathsf { 5 { - } } 6 \times 3 . 6 \mathrm { { - } } 4 \mathrm { { m m } }$ ,apex round or obtuse,abaxial lip 3-lobed, lobes oblong, lobes nearly equal, $6 { - } 8 \times 3 { - } 5 ~ \mathrm { m m }$ ,apex round; stamens 4,included,adaxial anthers coherent in pair, abaxial anthers free,adaxial stamens $1 . 7 { - } 2 \mathrm { c m }$ long, adnate to corolla tube $8 { \ - }  { - } 9  { \mathrm { m m } }$ from base,abaxial stamens $1 . 6 \mathrm { - } 1 . 8 ~ \mathrm { c m }$ long,adnate to corolla tube $1 . 4 \mathrm { - } 1 . 5 \mathrm { c m }$ from base; filaments white,slender,linear,densely glandular-pubescent; anthers oblong,2-loculed, dehiscing broadwise; staminode 1, clavate, $0 . 5 \mathrm { m m }$ long,adnate to abaxial side of corolla tube near base. Pistil $2 . 7 \mathrm { - } 3 . 0 \mathrm { c m }$ long, glandular pubescent; ovary linear with ridges, $1 . 7 \mathrm { - } 1 . 8 ~ \mathrm { c m }$ long glabrous; style $1 { - } 1 . 2 ~ \mathrm { c m }$ long; stigma 1, disciform, retuse. Disc ring-shaped, yellowish, 2-2.1 mm high, margin slightly undulate with 5 irregularly and shallow lobes.
+
+Additional specimens examined
+
+CHINA. Yunnan: Jingdong county, Lingjie Town, Modaohe village, in broad-leaved forests, $2 4 ^ { \circ } 2 4 ^ { \prime } 5 7 . 1 7 " \mathrm { N }$ $1 0 0 ^ { \circ } 3 8 ^ { \prime } 1 9 . 2 6 " \mathrm { E }$ ,2331 m a.s.l., in fowers,30 August 2017, S. W. Guo. B2017-1083 (KUN!). The same place, $2 2 0 0 \mathrm { { m a . s . l . } }$ ,12 January, 1939,M. K. Li 2936 (KUN 0208330!, KUN 075288!, KUN 075289!). Distribution, habitat and phenology
+
+Oreocharis rhytidophylla C.Y.Wu ex H.W.Li(Li,1983) is only known in southern Yunnan and grows in evergreen and deciduous broad-leaved mixed forest, on moist rocks or cliffs at an elevation of ca. $2 3 3 1 \mathrm { m }$ Flowering from August to September and fruiting from September to October. Discussion
+
+Oreocharis rhytidophylla is similar to $O$ .benthamia var. reticulata Dunn in netted venation of leaves,but it differs from the latters by itsadaxial surface strongly bullateofthe lattr species (Pan,1987,Wang etal,1990, 1998,Li & Wang ,2004). It is also similar to $O$ . hirsuta Barnett and $o$ . yunnanensis Rossini & J.Freitas in the corollacharacters,but itdiffers from the laters by itsantherscoherentin pairs and abaxial anthers free(Tan et al, 2013, Rossini & J. Freitas, 2014). It is also similar to $O$ .hekouensis (Y.M.Shui & W.H.Chen ） Mich.Moller & A.Weber in the elliptic leaf bladeoflagercalyx,but it difers from the latter in its obvious reticulate abaxial leaf surface (Chen & Shui, 20O6,Moller et al, 2011).
+
+# Acknowledgement
+
+We thank Managing Bureau of Jingdong Wuliangshan National Nature Reserve for supporting our work in the field.
+
+# References
+
+CAI L,HUANG H, DAO ZL, et al. Oreocharis parviflora,a new species of Gesneriaceae from northwestern Yunnan, China[J]. Phytotaxa,2017,329(2): 167-172.   
+CHEN WH, SHUI YM,2006.Ancylostemon hekouensis (Gesneriaceae),anew species from Yunnan, China[J]. Ann Bot Fenn,43: 448-450.   
+HAN MQ,PAN B, ZOU LL, et al, 2017. Oreocharis purpurata, a new species of Gesneriaceae from Hunan, China[J]. Phytotaxa, 328(2): 183-188.   
+LI HW,1983 Notulae De Gesneraceis Yunnanensibus[J]. Bul Bot Res, 3(2): 1-55.   
+LI ZY,WANG YZ,2004. Oreocharis Benth.[M]//Plants of Gesneriaceae in China. Zhengzhou: Henan Science &   
+Technology Publish House: 14-47.   
+MOELLER M, MIDDLETON D, NISHII K, et al, 2011. A new delineation for Oreocharis incorporating an additional ten genera of Chinese Gesneriaceae[J]. Phytotaxa, 23:1-36.   
+PAN KY,1987.Taxonomy of the genus Oreocharis (Gesneriaceae)[J]. Acta Phytotaxon Sin,25: 264-293.   
+ROSSINI J,FREITAS J,2014. Oreocharis yunnanensis,a new name for the illgitimate Oreocharis glandulosa (Gesneriaceae) from China[J]. Phytotaxa,163 (3):180-180.   
+TAN YH,LI JW,PANB,etal,2O13. Oreocharis glandulosa,a new species of Gesneriaceae from southern Yunnan, China[J].Phytotaxa,131, 29-34.   
+WANG WT, PAN KY,LI ZY,1990. Gesneriaceae. [M]// WANG WT (Ed.) Flora Reipublicae Popularis Sinicae. Beijing: Science Press, 69:190-203.   
+WANG WT,PANKY,LI ZY, et al,1998. Gesneriaceae. [M]//Wu ZY,RAVENPH. Flora of China. SciencePress, Beijing & Missouri Bot Garden, St. Louis,18: 268-272.
+
+![](images/ed9f16eb6e34b253de0fe1b83251a50c8f725b1de9d9a56233df06ef9c77e7f0.jpg)  
+Plate IHolotype of Oreocharis rhytidophylla C. Y. Wu ex H.W.Li (KUN O484429)
+
+![](images/a6105756c472ffb0c66d639d37f21183d6a1bb67f26c3ee4e15c79f484b7534a.jpg)
+
+Note: A.Landform; B.Habitat; C.Plant; D.Adaxial leaf; E. Abaxial leaf;F.Apex of adaxial leaf; G.Lateral view of corolla showing the glabrous surface and calax; H.Bird view of opened corolla showing the interior surface of corola tube,stamens,filaments,staminode,free anthers and connection anthers (filaments: fi; staminode: st);I. Apex of abaxial leaf; J. Pistil with disc (pistil: pi; disc:di); K. Young pistil ; L. Front view of corolla showing the adaxial anthers free and abaxial anthers coherent in pairs (anthers: an). Scale bars: D, $\scriptstyle { \mathrm { E } = 3 \mathrm { c m } }$ ; F, G, H, I, $\scriptstyle { \mathrm { J } = } 2 \ \cos { \mathrm { m } }$ ： K, $\scriptstyle { \mathrm { L } } = 1 \ { \mathrm { c m } }$
+
+Plate IIOreocharis rhytidophylla C. Y. Wu ex H. W.Li (Photographed by Guo Shiwei)

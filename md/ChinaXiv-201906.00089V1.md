@@ -1,0 +1,142 @@
+# 平潭岛海岸三种典型沙生植物非结构性碳水化合物含量特征研究
+
+秦晶¹，杜建会‘2\*，张琪」，王松'，黄楚丹‘，邵佳怡}（1.中山大学 地理科学与规划学院，广州 510275;2.广东省城市化与地理环境空间模拟重点实验室，广
+
+州510275)
+
+摘要：非结构性碳水化合物（NSC）作为光合作用的主要产物，其含量多少可反映植物整体的碳收支平衡关系及对外界环境胁迫的适应策略。该文采用改进的苯酚-浓硫酸法对福建省平潭岛海岸处于生长旺盛期的3种典型沙生植物木麻黄、单叶蔓荆和老鼠苏茎叶的NSC 及其组分含量进行测定，结果表明：（1）单叶蔓荆叶片、茎干可溶性糖含量均最大，分别为$1 3 7 . 8 3 { \pm } 3 . 7 5 ~ \mathrm { \ m g ^ { \bullet } g ^ { - 1 } }$ 和 $9 0 . 7 4 { \pm } 2 . 6 5 ~ \mathrm { \ m g ^ { \bullet } g ^ { - 1 } }$ ，老鼠苏叶片、茎干淀粉含量均最大，分别为$1 0 5 . 4 1 { \pm } 2 . 4 9 \mathrm { m g } { \cdot } \mathrm { g } ^ { - 1 }$ 和 $1 2 0 . 4 8 { \pm } 7 . 6 7 \ \mathrm { m g \bullet g ^ { - 1 } }$ ，二者茎叶 NSC 含量均大于木麻黄，且全部达到显著水平（ $\scriptstyle P < 0 . 0 5 )$ 。（2）沙堆表面老鼠芳叶片NSC及组分含量从雏形、发育到稳定阶段变化不明显，但茎干NSC及组分含量在雏形阶段沙堆表面显著大于其它两个演替阶段（ $P <$ 0.05)，且依次呈下降趋势。（3）从幼龄林、中龄林到成龄林阶段，木麻黄NSC含量呈现为先上升后下降趋势，其中成龄林叶片可溶性糖、淀粉和NSC 含量、茎干可溶性糖和NSC 含量均显著低于其它两个生长阶段( $\cdot P { < } 0 . 0 5 )$ 。（4)不同沙生植物对环境胁迫的适应策略各异，海岸沙丘表面植被恢复应充分考虑物种特性及其更新。
+
+关键词：非结构性碳水化合物，可溶性糖，淀粉，沙生植物，平潭岛中图分类号：Q945 文献标识码：A
+
+# Study on the variations of non-structural carbohydrates concentrations in typical psammophytes in the coast of
+
+# Pingtan Island
+
+QIN Jing], DU Jianhui1, 2\*, ZHANG Qil, WANG Song1,HUANG Chudan1, SHAO Jiayi' (1．School ofGeographical Science and Planning,Sun Yat-Sen University,Guangzhou 510275,China; 2．Guangdong Key Laboratory for Urbanization and Geo-Simulation,Guangzhou 510275,China）   
+Abstracts: As the dominant products of photosynthesis，non-structural carbohydrate (NSC)   
+concentrations can be used to indicate the carbon balance of plants and their adaptation strategies
+
+under environmental stresses. Three typical psammophytes at their fast growing stage, including Casuarina equisetifolia, Vitex trifolia var .simplicifolia, Spinifex littoreus in the coast area of Pingtan Island,Fujian Province, were selected and their NSC concentrations in leaf and stem were determined by an improved phenol-sulphuric acid method. The results indicated that: (1） soluble sugar concentrations were the largest both in leaf and stem of $V .$ trifolia, $1 3 7 . 8 3 { \pm } 3 . 7 5 ~ \mathrm { m g ^ { \bullet } g ^ { - 1 } }$ and $9 0 . 7 4 { \pm } 2 . 6 5 \ \mathrm { m g ^ { \bullet } g ^ { - 1 } }$ respectively, while starch concentrations were the largest both in leaf and stem of S.littoreus, $1 0 5 . 4 1 { \pm } 2 . 4 9 \ \mathrm { m g ^ { \bullet } g ^ { - 1 } }$ and $1 2 0 . 4 8 { \pm } 7 . 6 7 \ \mathrm { m g ^ { \bullet } g ^ { - 1 } }$ separately, and NSC concentrations in above two species were all significantly larger than them in C.equisetifolia $( P { < } 0 . 0 5 )$ . (2) The NSC and its components concentrations in leaf of S.litoreus on the coppice dunes from rudimental period,developmental period to stabilized period showed no obvious trends,while decreasing trends were observed in its stem along the successon gradients,in which NSC and its component concentrations of S.litoreus on the coppice dunes in rudimental period were significantly larger than them in other two succession stages $( P { < } 0 . 0 5 )$ . (3） From the young-aged, middle-aged to old-aged growth period， the NSC and its component concentrations in leaf and stem of C.equisetifolia firstly demonstrated an increasing trend,then followed by a decreasing trend, The soluble sugar, starch and NSC concentrations in the leaf, soluble sugar and NSC in the stem of old-aged $C _ { }$ ，equisetifolia all suggested more significant lower concentrations than them in other two growth periods( $\scriptstyle \cdot < 0 . 0 5$ ). (4) Species specific characteristics and its regeneration should be fully considered in the vegetation restablishment in coastal sand dune ecosystems,due to the different adaptation strategies of species under various environmental stresses.
+
+Key words: non-structural carbohydrates, soluble sugar, starch, psammophytes, Pingtan Island
+
+沙生植物作为海岸沙地生态系统的重要组成部分，在海岸地区呈现出明显的带状分布（Maun etal.,1999)，但其成因一直存在着很多争议。部分学者认为，距海远近不同，土壤盐分差异导致海岸沙生植物形成带状分布（Sykes etal.,1991)，但更多研究发现，盐分胁迫对于沙生植物的影响较弱，而沙埋可能是控制其分布的主要因素（van Puijenbroek et al,2017)。Maun etal.（1999）认为，不同物种耐沙埋能力各异，当沙埋超过其耐受阈值时，某一沙生植物将会从该生境消失，从而影响不同区域的物种组成，而土壤盐分浓度极少超过植物毒害水平，其可能扮演着次要角色。
+
+海岸沙生植物在长期的盐分和沙埋胁迫下形成了独特的适应策略，并占据一定的生态位。非结构性碳水化合物（non-structural carbohydrate，简称 NSC）作为光合作用的主要产物，是植物生长和生理代谢的重要物质，其含量多少通常可反映植物整体的碳收支平衡关系及对外界环境胁迫的适应策略（潘庆民等，2002)。张婷凤等（2016）研究发现，沙生植物通过不同器官NSC 的转移转化，可提高其抗盐耐风沙能力。张艳琳等（2009）研究也表明，随着培养液海水比例增加，海马齿（Sesuvium portulacastrum）叶片通过提高可溶性糖和脯氨酸含量来减少盐分胁迫。周瑞莲等（2015）研究也证实，适度沙埋下，单叶蔓荆（Vitex trifoliavar.simplicifolia）匍匐茎的可溶性糖和淀粉含量增高，纤维素含量下降，匍匐茎顶端通过快速生长、不定根形成和碳水化合物转化等来快速适应沙埋。但重度沙埋下，匍匐茎淀粉含量降低，纤维素含量升高，且生长减缓。
+
+平潭岛海岸沙地生境类型多样，沙生植物多样性异常丰富，但受高温、干旱以及台风等影响（谢平等，2001)，同一海岸不同沙生植物的生长存活状态往往呈现出很大差别，但其内在的生理机制尚不清楚。本文以平潭岛海岸处于生长旺盛期的3个典型沙生植物木麻黄（Casuarina equisetifolia）、单叶蔓荆和老鼠苏（Spinifex littoreus）为研究对象，采用改进的苯酚-浓硫酸法，测定其叶片和茎干的NSC 含量，分析不同沙生植物及同一沙生植物不同生长阶段NSC含量的变化特征，探讨海岸典型沙生植物对于不同环境胁迫的适应策略及其差异，为其在不同距海远近的优化配置提供科学依据。
+
+# 1材料与方法
+
+# 1.1研究区概况
+
+研究区坛南湾地处福建省平潭岛东南侧，属于南亚热带半湿润海洋性季节气候，植被以常绿阔叶林为主。年平均气温 $1 9 . 6 \mathrm { ~ } \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ ，年平均降水量约 $1 ~ 1 9 6 . 2 \mathrm { m m }$ ，年平均风速 $6 . 9 \mathrm { m } { \cdot } \mathrm { s } ^ { - 1 }$ 多年平均大风日数 $9 8 . 2 \mathrm { d }$ 。从海滩前缘到防护林后缘，土壤电导率逐渐降低，有机质含量升高，沙埋程度呈现先增大后降低的趋势（杨显基等，2017b)。海滩前缘以单叶蔓荆、厚藤（Ipomoeapescaprae）和海马齿等耐盐植物为主。随着距海越远，风力渐大、沙源增多，沙粒在老鼠芳等拦截下形成典型的草丛沙堆，依据沙堆形态、植被盖度和土壤性质等（杜建会等，2007)，从海到陆依次可划分为雏形、发育和稳定阶段沙堆，其高度从雏形阶段 $0 . 2 \mathrm { ~ m ~ }$ 左右至后缘稳定阶段与木麻黄防护林交界处可达 $4 \mathrm { ~ m ~ }$ 以上，形成宽达 $3 0 0 \mathrm { ~ m ~ }$ 的典型草丛沙堆带。沙堆表面以老鼠苏为主要优势种，并伴生有海边月见草（Oenothera littaralis）、狗牙根（Cynodon dactylon）和光梗阔苞菊（Plucheapteropoda）等。
+
+# 1.2研究方法
+
+# 1.2.1野外采样
+
+在研究区选取生长旺盛期的木麻黄、单叶蔓荆和老鼠苏，分别作为该区域乔木、灌木和草本的优势种代表，野外采样时间为2017年8月2日。具体采样方法如下：（1）木麻黄样品采集：依据木麻黄防护林树高、胸径及种植年限等不同（叶功富等，2000），将其按照幼龄林、中龄林和成龄林分别进行采样，研究不同生长阶段木麻黄林NSC含量变化特征。为了减少光照条件影响，随机选取不同生长阶段木麻黄胸径和树高相近的健康优势木各3株，根据不同层次和方位，使用高枝剪采集树冠中上部东南西北4个方向样品，混合后作为木麻黄在某一生长阶段的代表样品。（2）单叶蔓荆样品采集：在沙滩前缘选择单叶蔓荆密集分布区，采集3株生长旺盛，且长势相对一致的植株作为代表样品。（3）老鼠苏样品采集：依据老鼠芳形成的草丛沙堆演替阶段不同（杨显基等，2017a），分别在雏形、发育和稳定三个演替阶段沙堆迎风坡表面，选取长势较为一致的3株老鼠苏，作为该演替阶段的代表样品。所有样品均采用手工摘除分离茎叶，混合后装入自封袋中并编号，并迅速将采集到的样品放入内置冰块的泡沫箱中，带回室内对其进行简单筛选，并擦净表面污物。所有样品均用微波炉进行高温( $6 0 0 \mathrm { W }$ ）杀青 $9 0 ~ \mathrm { s }$ ，使酶变性（Hochetal.,2003）。然后将其带回实验室在65 $\mathrm { { } ^ { \circ } C }$ 恒温箱内烘干 $4 8 \mathrm { h }$ 至恒重，采用咖啡机结合人工研磨。研磨后的样品过100目筛后密封保存，用于后续的NSC含量测定。
+
+# 1.2.2 样品分析
+
+本文将 NSC 定义为可溶性糖(葡萄糖、蔗糖、果糖等)和淀粉的总和(Hoch etal.,2002），可溶性糖和淀粉浓度采用改进的苯酚-浓硫酸法测定（Buysse et al.,1993），具体实验方法如下：
+
+# （1）标准曲线的制作
+
+用分析天平称取 $1 0 \mathrm { m g }$ 蔗糖（ $1 0 5 ^ { \circ } \mathrm { ~ C ~ }$ 烘干至恒重）在 $1 0 0 \mathrm { m l }$ 的容量瓶定容。分别取溶液 $1 , ~ 2 , ~ 3 , ~ 4 , ~ 5 , ~ 6 , ~ 7 , ~ 8 , ~ 9 , ~ 1 0 \mathrm { { m L } \mathcal { F } }$ $1 0 ~ \mathrm { m L }$ 的试管中定容，制成10、20、30、40、50、60、70、80、90、 $1 0 0 \mathrm { \ u g ^ { \bullet } m L ^ { - 1 } }$ 的标准液。再从各试管中分别吸取 $1 \mathrm { m L }$ 蔗糖溶液于试管中，加入 $0 . 5 \mathrm { \ m L } 2 8 \%$ 苯酚溶液，摇匀，再缓慢加入 $2 . 5 ~ \mathrm { m L }$ 浓硫酸，摇匀。比色液总体积为 $4 ~ \mathrm { m L }$ 在室温下放置 $3 0 \mathrm { m i n }$ 显色。然后以空白为参比，在 $4 8 5 \mathrm { n m }$ 波长下采用紫外分光光度计（Spectrumlab752s型）测定其吸光值。
+
+（2）样品预处理
+
+取经过烘干的样品，将其剪碎混匀，放入咖啡机（NMD226电动磨豆机）或研钵中研磨。所有研磨后的样品过100目筛后常温密封保存，选取样品各 $2 0 \mathrm { m g }$ 放入 $1 0 ~ \mathrm { m L }$ 离心管中。
+
+# （3）样品测定
+
+在样品中加入 $1 \mathrm { m L } 8 0 \%$ 酒精并抽提过夜。然后在离心机中以 $3 5 0 0 \mathrm { r } { \cdot } \mathrm { m i n } ^ { - 1 }$ 离心7分钟,吸取上清液至离心管中。残渣再加入酒精，同样的操作离心后，将上清液一并倒入 $1 0 ~ \mathrm { m L }$ 离心管，定容至 $5 \mathrm { m L }$ ；取剩余残渣，加入 $1 \mathrm { m L } 8 \%$ 盐酸于 $1 0 5 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 沸水中煮 $2 \mathrm { h }$ ，待冷却后加入 $1 \mathrm { m L }$ 酒精后以 $3 5 0 0 \mathrm { r } \bullet \mathrm { m i n } ^ { - 1 }$ 离心 $7 \mathrm { m i n }$ ，吸取上清液至离心管中。残渣再加入酒精，同样的操作离心后，将上清液一并倒入 $1 0 ~ \mathrm { m L }$ 离心管，定容至 $5 \mathrm { m L }$ 。吸取 $1 \mathrm { m L }$ 样品液于试管中，按顺序分别加入 $0 . 5 ~ \mathrm { m L }$ 苯酚、 $2 . 5 ~ \mathrm { m L }$ 浓硫酸溶液，混匀显色 $3 0 \mathrm { m i n }$ 后，采用紫外分光光度计（Spectrumlab752s型）进行测定，得到相应的吸光度值。
+
+（4）结果计算
+
+可溶性糖含量 $( \% ) = \frac { C \times V _ { T } } { V _ { 1 } \times W }$
+
+式（1-1）中： $c$ ——光度计显示的数值； $\boldsymbol { V } _ { T }$ ——提取液体积， $\mathrm { m L }$ ; $\boldsymbol { V } _ { 1 }$ —吸取样品液体积，mL；W—选取的样品重量， $\mu \ g$ 。
+
+# 1.2.3数据分析方法
+
+数据统计分析在 Excel 2010 和 SPSS18.0软件内完成。采用单因素方差分析（One-wayANOVA）和最小显著差异法（LSD）分析沙生植物不同器官可溶性糖、淀粉和NSC的差异显著性水平（ $\scriptstyle P = 0 . 0 5$ ），图表绘制利用Origin9.0完成。
+
+# 2结果与分析
+
+# 2.1海岸三种典型沙生植物叶片、茎干NSC及其组分含量
+
+从海到陆依次选取海滩前缘的单叶蔓荆、中间发育阶段沙堆迎风坡表面的老鼠芳和后缘的木麻黄成龄林，代表三种典型沙生植物各自生长最旺盛的阶段。对其NSC及组分含量研究发现(图1),不同沙生植物叶片NSC及组分含量差异较大，且均达到显著水平( $\scriptstyle P < 0 . 0 5 )$ ，而茎干除可溶性糖外，淀粉及NSC 含量差异均不显著。单叶蔓荆叶片、茎干可溶性糖含量分别为 $1 3 7 . 8 3 { \pm } 3 . 7 5 \mathrm { m g } { \cdot } \mathrm { g } ^ { - 1 }$ 和 $9 0 . 7 4 { \scriptstyle \pm 2 . 6 5 ~ \mathrm { m g } ^ { \bullet } } \mathrm { g } ^ { - 1 }$ ，均显著高于木麻黄和老鼠苏（ $\cdot < 0 . 0 5$ （图1：A)。老鼠苏叶片、茎干淀粉含量分别为 $1 0 5 . 4 1 { \pm } 2 . 4 9 \ \mathrm { m g ^ { \bullet } g ^ { - 1 } }$ 和 $1 2 0 . 4 8 { \pm } 7 . 6 7 \ \mathrm { m g ^ { \bullet } g ^ { - 1 } }$ ，均显著高于单叶蔓荆和木麻黄( $\scriptstyle P < 0 . 0 5 )$ （图1:B)。木麻黄叶片、茎干NSC含量分别为 $1 3 2 . 6 9 { \scriptstyle \pm 3 . 6 7 }$ $\mathrm { m g } { \bullet } \mathrm { g } ^ { - 1 }$ 和 $1 1 9 . 8 7 { \pm } 6 . 8 2 \mathrm { m g } { \bullet } \mathrm { g } ^ { - 1 }$ ，均显著低于单叶蔓荆和老鼠苏（ $\scriptstyle \cdot < 0 . 0 5$ ）（图1：C）。
+
+![](images/f1946ca38bbcf732a3239ae4955f944702a05f3a8f7823a489a732f3f62ef9b8.jpg)  
+注：图中不同小写字母表示在0.05置信度下有显著性差异，下同。  
+Note：Different letters mean significant at O.O5 confidence levels,the same below.   
+图1三种典型沙生植物叶片、茎干非结构性碳水化合物含量（平均值 $\cdot \pm i$ 标准差） Fig.1 Non-structural carbohydrate concentrations in leaves and stems of three typical species (average value $\pm$ standard deviation)
+
+# 2.2不同演替阶段沙堆表面老鼠芳叶片、茎干NSC及其组分含量
+
+沙堆表面老鼠芳叶片NSC及组分含量从雏形、发育到稳定阶段沙堆变化趋势不显著，而茎干NSC及其组分含量总体呈下降趋势（图2)。雏形阶段沙堆表面老鼠苏叶片可溶性糖含量为 $6 9 . 8 2 { \pm } 1 0 . 5 7 \ \mathrm { m g ^ { \bullet } g ^ { - 1 } }$ ，显著高于发育阶段（ $. P { < } 0 . 0 5 )$ ，但和稳定阶段差异不大（图2：A)。淀粉含量为 $9 3 . 4 2 { \pm } 0 . 0 7 \ \mathrm { m g ^ { \bullet } g ^ { - 1 } }$ ，与稳定阶段沙堆差异不大，但显著小于发育阶段（ $P <$ 0.05）（图2：B)。不同演替阶段沙堆表面老鼠芳叶片之间NSC含量差异均不显著。雏形阶段沙堆表面老鼠苏茎干可溶性糖、淀粉和 NSC 含量分别为 $8 9 . 2 6 { \pm } 2 . 8 1 \ \mathrm { \ m g ^ { \bullet } g ^ { - 1 } }$ ， $1 4 9 . 9 6 { \scriptstyle \pm 6 . 5 5 }$ $\mathrm { m g } { \bullet } \mathrm { g } ^ { - 1 }$ 和 $2 3 9 . 2 2 { \pm } 8 . 3 2 \mathrm { m g } { \cdot } \mathrm { g } ^ { - 1 }$ ，均显著高于其它两个演替阶段（ $\cdot P { < } 0 . 0 5$ ）（图2)。
+
+![](images/b7bb1fc32b2de7fe515b87413f50f7cb8e0ce42fa64bf95080a1c546a3da483e.jpg)  
+图2不同演替阶段沙堆表面老鼠苏植株非结构性碳水化合物含量（平均值 $\pm$ 标准差） Fig.2 Non-structural carbohydrate concentrations in Spinifex littoreus in different succession stages (average value $\pm$ standard deviation)
+
+# 2.3不同生长阶段木麻黄叶片、茎干NSC及其组分含量
+
+从幼龄林到中龄林再到成龄林，木麻黄叶片和茎干NSC 含量总体呈现先升高后降低的趋势。中龄林叶片可溶性糖含量最大，达到 $9 2 . 3 7 { \pm } 2 . 9 6 \ \mathrm { \ m g ^ { \bullet } g ^ { - 1 } }$ ，不同生长阶段差异显著（ $P$ $< 0 . 0 5 \$ ）（图3：A)。成龄林叶片可溶性糖、淀粉及 NSC 含量分别为 $6 6 . 5 9 { \pm } 1 . 1 0 \ \mathrm { \ m g ^ { \bullet } g ^ { - 1 } }$ ，$6 6 . 0 9 { \pm } 2 . 6 2 \ \mathrm { m g ^ { \bullet } g ^ { - 1 } }$ 和 $1 3 2 . 6 8 { \pm } 3 . 6 7 ~ \mathrm { m g ^ { \bullet } g ^ { - 1 } }$ ，均显著低于其它两个生长阶段 $( P { < } 0 . 0 5 )$ 。其茎干可溶性糖和 NSC 含量分别为 $4 5 . 2 8 { \pm } 3 . 9 3 ~ \mathrm { m g ^ { \bullet } g ^ { - 1 } }$ 和 $1 1 9 . 8 7 { \pm } 6 . 8 2 \ \mathrm { m g ^ { \bullet } g ^ { - 1 } }$ ，显著低于其它两个生长阶段，淀粉含量为 $7 4 . 5 9 { \pm } 3 . 0 6 \mathrm { m g } { \bullet } \mathrm { g } ^ { - 1 }$ ，显著低于中龄林（ $\scriptstyle \cdot < 0 . 0 5 )$ ，但和幼龄林差异不大（图3）。
+
+![](images/3bf10b847cd438e3fe3e6010d0c485545bb37041c1a89fdefbb7ab5a4d4de759.jpg)  
+图3不同生长阶段木麻黄植株非结构性碳水化合物含量（平均值 $\pm$ 标准差）Fig.3 Non-structural carbohydrate concentrations in Casuarina equisetifolia among differentgrowth periods (average value $\pm$ standard deviation)
+
+# 3讨论
+
+不同沙生植物 NSC 及其组分含量差异较大，单叶蔓荆叶片、茎干可溶性糖含量最高、老鼠芳叶片、茎干淀粉含量最大，而木麻黄叶片、茎干NSC 含量则最小，且与其它两种沙生植物NSC含量差异达到显著水平。这与Lietal.（2016）对中国东部不同生活型物种 NSC含量研究结果并不一致，主要在于其研究的乔灌草属于垂直分层，而海岸地区沙生植物则呈水平带状分布，生态位重叠少（Maun etal.,1999)。从三种沙生植物的空间分布来看，单叶蔓荆位于海滩最前缘，受潮间带土壤水分高和沙源少等影响，沙埋作用相对较弱，适度的沙埋有助于提高其匍匐茎可溶性糖含量（周瑞莲等，2015)。且距海越近，海风强度越大，盐分胁迫也越严重(Cheplick&Demetri,1999)，叶片和茎干较高的可溶性糖含量有助于提高单叶蔓荆细胞的持水力，增强其渗透调节，有助于单叶蔓荆在生长旺盛期抵御盐分和高温胁迫（Maze etal.,1992；张婷凤等，2016)。发育阶段沙堆表面老鼠芳居中，盐分胁迫虽然减弱，但沙埋程度增加，特别是其生长旺盛期和台风爆发期重合，导致沙埋程度进一步加剧，沙埋后老鼠芳的光合器官减少，碳水化合物积累降低，而呼吸消耗增加，作为克隆植物，老鼠芳匍匐茎中较高的淀粉含量有助于其迅速长出不定根，提高水分利用效率，促使匍匐茎顶端快速生长，萌发新叶，从而摆脱沙埋（Klimes etal.,2011；杨显基等，2017b)。周瑞莲等（2015）研究也表明，沙埋后匍匐茎内碳水化合物的转化是单叶蔓荆快速生长和摆脱沙埋的能量来源，在其适应沙埋生长中起重要作用；而木麻黄距海最远，受到的沙埋和盐分胁迫均相对较少，且其属于强阳性树种，可能更倾向于采用"高生长、低储存"的策略，加上8月份属于木麻黄生长旺盛期，导致其叶片和茎干储存的NSC 及组分含量均相对偏低（郭瑞红，2007；赵镭等，2011）。
+
+同一沙生植物不同生长阶段NSC及其组分含量也有所差别。沙堆表面老鼠芳叶片NSC及其组分含量从雏形、发育到稳定阶段变化趋势均不明显，而茎干NSC及其组分含量总体呈下降趋势，且雏形阶段显著大于其它两个演替阶段。雏形阶段沙堆主要分布于高潮位线附近，沙埋作用相对较弱，其表面老鼠苏茎干尚无不定根出现，吸水效率偏低(Dech etal.,2006)。此外，距海越近，老鼠苏受到的盐分胁迫也越重，加上处于生长旺盛期，茎干较高的 NSC含量有助于老鼠苏维持水分传输，提高其对抗盐分及干旱胁迫的能力（Sala etal.,2012），老鼠苏将更多的碳水化合物投资于茎干储存以应对环境胁迫，而非地上部分生长，野外调查也发现，老鼠芳植株高度在雏形阶段沙堆表面大部分在 $1 5 \mathrm { c m }$ 以下，显著低于其它两个阶段。与雏形阶段相比，发育阶段沙堆表面老鼠芳受到的盐分胁迫减小，而沙埋程度增大。杨显基等（2017b）对不同演替阶段沙堆表面老鼠芳叶水势日变化特征研究发现，沙埋后发育阶段沙堆表面老鼠芳迅速长出不定根，有助于提高其叶水势，且夜间水分恢复能力更强，而稳定阶段沙堆距高潮位线最远，沙埋和盐分胁迫均影响不大。加上其处于生长旺盛期，使得这两个阶段沙堆表面老鼠苏更倾向于将合成的NSC 投资于地上部分生长而非储存，导致NSC 及其组分含量下降。这与该演替阶段沙堆表面植被调查结果也较为一致，发育阶段沙堆迎风坡表面老鼠苏植株平均高度达到 $5 0 \mathrm { c m }$ ，稳定阶段沙堆表面老鼠苏植被盖度达到 $90 \%$ ，均显著高于雏形阶段，其通过拦截风沙流在海滩前缘形成典型的草丛沙堆，起到了很好的防风固沙作用（杨显基等，2017a）。
+
+从幼龄林到中龄林再到成龄林，木麻黄叶片和枝条NSC含量总体呈先升高后降低的趋势，其中成龄林叶片可溶性糖、淀粉和NSC含量、枝条可溶性糖和NSC含量均显著低于其它两个生长阶段。这与郭瑞红（2007）的研究结果比较一致，其对福建滨海沙地木麻黄林生态系统碳贮量研究发现，乔木层碳贮量在总的碳贮量中的比重表现为中龄林 $>$ 幼龄林 $>$ 成熟林。Ndiaye et al.（1993）通过对塞内加尔不同生境木麻黄生长速率研究也发现，不同沙丘部位木麻黄大概在6\~8.5a左右达到最大生长速率，之后开始出现下降趋势。这与木麻黄的生长发育规律有关，叶功富等（2000)研究认为，木麻黄林依据生长发育规律可划分为幼林、速生、干材、成熟和过熟5个阶段，其平均生长量和连年生长量大体遵循先增加后降低的趋势。8月份属于平潭岛台风爆发期，木麻黄经过几十年的生长，大部分已开始衰老，其相对于幼龄林和成龄林更易折断、甚至整株枯死（Meng et al.,2017)，Meyer et al.（2008）对 1999年特大风暴"Lothar"袭击后瑞士高原受损的挪威云杉研究表明，与未受损的树木相比，受损的树木其边材NSC和淀粉含量更低，这与灾后其将更多的碳水化合物投资于自身生长有关。其次，过熟林阶段病虫害较多，树木为抵御病虫害，会消耗大量的碳水化合物，合成单萜类等次生代谢产物，来抑制其NSC 的持续消耗（Roth et al.,2018)。最后，海岸沙丘保水性差，木麻黄在生长旺盛期容易遭受干旱胁迫，已有的研究发现，随着干旱胁迫的加重，树木自身合成的碳水化合物减少而消耗增加，防御病虫害能力也大幅度下降，进一步加剧了其碳水化合物的消耗（Anderegg et al.,2015)。这与研究区的木麻黄林种植年限也较为一致，成龄林主要种植于上个世纪80年代，经过30多年生长，目前应处于过熟阶段，而幼龄林和中龄林则是最近几年种植，尚趋于生长速率最大的时期，NSC及其组分含量相对较高，因此木麻黄成龄林的及时补充更新对于海岸防护林体系的稳定具有极其重要的意义。
+
+# 4结论
+
+通过对福建平潭岛海岸沙地处于生长旺盛期的3种典型沙生植物NSC及其组分含量研究发现：海岸不同沙生植物或同一沙生植物不同生长阶段的NSC及其组分含量差异较大，较高的可溶性糖含量有利于沙生植物适应海滩前缘的高盐胁迫，而淀粉含量的增加则有助于沙生植物在沙埋后快速生长和摆脱沙埋，此外，沙生植物的生长发育规律不同，也会影响到其NSC及组分积累。距海远近不同，盐分和沙埋胁迫各异，不同沙生植物或同一沙生植物不同生长阶段均具有独特的适应策略，使其占据一定的生态位。本文只是基于海岸典型沙生植物在生长旺盛期的单次采样，不同季节水热组合各异，加上植物物候期的影响，使得不同沙生植物的NSC 及其组分含量存在着明显的季节变化，未来仍需加强多个时空尺度上海岸沙生植物对环境胁迫的适应策略研究，在空间上对其进行优化配置，提高海岸防护林带的生态效益。
+
+# 参考文献
+
+ANDEREGG WRL,HICKE JA,FISHER RA, et al.,2015.Tree mortality from drought, insects,and their interactions in a changing climate[J].New Phytol, 2O8(3): 674-683.   
+ANTUNES C，PEREIRA AJ，FERNANDES P,et al.，2018. Understanding plant drought resistance in a Mediterranean coastal sand dune ecosystem: differences between native and exotic invasive species[J]. J Plant Ecol, 11: 26-38.   
+BUYSSE J, MERCKX R,1993.An improved colorimetric method to quantify sugar concentration of plant tissue[J]. JExp Bot, 44(1O): 1627-1629.   
+CHEPLICK G，1999.Impact of saltwater spray and sand deposition on the coastal annual Triplasis purpurea (Poaceae)[J]. Am J Bot, 86(5): 703-710.   
+DECH JP, MAUN MA, 2006. Adventitious root production and plastic resource allocation to biomass determine burial tolerance in woody plants from central Canadian coastal dunes[J]. Ann Bot, 98:1095-1105.   
+DE LA SERRANA RG, VILAGROSA A, ALLOZA JA, 2015. Pine mortality in southeast Spain after an extreme dry and warm year: interactions among drought stress,carbohydrates and bark beetle attack[J]. Trees, 29(6):1791-1804.   
+DU JH, YAN P, E YH, 2OO7. Distribution paterns and characteristics of Nitraria tangutorun nebkha at its different evolvement stages in Minqin Country in Gansu Province[J]. Chin J Ecol,26(8):1165-1170.[杜建会，严平，俄有浩，2007．甘肃民勤不同演化阶段白刺灌丛 沙堆分布格局及特征[J]．生态学杂志,26(8):1165-1170.]   
+GILBERT M, PAMMENTER N, RIPLEY B,2008. The growth responses of coastal dune species are determined by nutrient limitation and sand burial[J]. Oecologia,156:169-178.   
+GUO RH, 2Oo7. Carbon storage and carbon sequestration of Casuarina equisetifolia plantation on coastal sandy[D].Fuzhou: Fujian Nor Univ.[郭瑞红,2007．滨海沙地木麻黄林生态系统的 碳贮量和碳吸收[D].福州:福建师范大学.]   
+HOCH G,POPP M, KORNER C,2002. Altitudinal increase of mobile carbon pools in Pinus cembra suggests sink limitation of growth at the Swiss treeline[J]. Oikos, 98(3):361-374.   
+HOCH G, RICHTER A, KORNER C, 2003. Non-structural carbon compounds in temperate forest trees[J]. Plant Cell Environ,26(7): 1067-1081.   
+KLIMES L, KLIMESOVA J, OSBORNOVA, 1993. Regeneration capacity and carbohydrate reserves in a clonal plant Rumex alpinus: Effect of burial[J]. Vegetatio,109: 153-160.   
+LI NN,HE NP,YU GR,et al.， 2016. Leaf non-structural carbohydrates regulated by plant functional groups and climate: Evidences from a tropical to cold-temperate forest transect[J]. Ecol Indic, 62: 22-31.   
+MAUN M A, PERUMAL J,1999. Zonation of vegetation on lacustrine coastal dunes: Effects of burial by sand[J]. Ecol Lett, 2: 14-18.   
+MAUN MA,1994. Adaptations enhancing survival and establishment of seedlings on coastal dune systems[J]. Plant Ecol,111: 59-70.   
+MAZE KM, WHALLEY RDB,1992. Effects of salt spray and sand burial on Spinifex sericeus R.Br[J]. Aust J Ecol, 17: 9-19.   
+MENG JH,BAI YF, ZENG WS, et al.,2017. A management tool for reducing the potential risk of windthrow for coastal Casuarina equisetifolia L. stands on Hainan Island, China[J]. Eur J Forest Res, 136: 543-554.   
+MEYER F D, PAULSEN J, KORNER C, 2OO8. Windthrow damage in Picea abies is associated with physical and chemical stem wood properties[J]. Trees,22: 463-473.   
+NDIAYE P, MAILLY D, PINEAU M, et al., 1993. Growth and yield of Casuarina equisetifolia plantations on the coastal sand dunes of Senegal as a function of microtopography[J]. For Ecol Manag, 56: 13-28.   
+PAN QM, HAN XG, BAI YF, et al., 2002. Advances in physiology and ecology studies on stored non- structure carbohydrates in Plants[J].Chin Bull Bot,19(1):30-38.[潘庆民，韩兴国，白 永飞，等，2002．植物非结构性贮藏碳水化合物的生理生态学研究进展[J]．植物学通报, 19(1):30-38.]   
+ROTH M, HUSSAIN A, CALE JA, et al., 2018. Successful colonization of lodgepole pine trees by mountain pine beetle increased monoterpene production and exhausted carbohydrate reserves[J]. JChem Ecol, 44: 209-214.   
+SALA A, WOODRUFF DR, MEINZER FC, 2012. Carbon dynamics in trees: Feast or famine?[J]. Tree Physiol, 32: 764-775.   
+SYKES MT, WILSON JB,1991. Vegetation of a coastal sand dune system in southern New Zealand[J]. J Veg Sci, 2: 531-538.   
+VAN PUIJENBROEK MEB，TEICHMANN C，MEIJDAM N,et al.，2017.Does salt stress constrain spatial distribution of dune building grasses Ammophila arenaria and Elytrichia juncea on the beach?[J]. Ecol and Evol, 7: 7290-7303.   
+WANG J， ZHOU RL， ZHAO HL，et al.，2012. Growth and physiological adaptation of Messerschmidia sibirica to sand burial on coastal sandy[J]. Acta Ecol Sin，32(14) : 4291-4299.[王进，周瑞莲，赵哈林，等，2012．海滨沙地砂引草对沙埋的生长和生理适 应对策[J]．生态学报,32(14):4291-4299.]   
+WANG S, DU JH, QIN J, et al., 2018. Influence of sample pretreating methods on determination of non-structural carbohydrate concentrations in typical coastal psammophytes[J]. Guihaia, 38(10):1290-1297.[王松，杜建会，秦晶，等,2018．样品预处理方法对海岸典型沙生植 物非结构性碳水化合物含量测定的影响[J]．广西植物,38(10):1290-1297.]   
+XIE P,LI Y, 20O1. Microclimate effect of sandy coast shelter-forest[J]. Chin JDes Res, 21(1): 93-96.[谢平，李燕,2001．海岸沙地防护林的小气候效应[J]．中国沙漠,21(1):93-96.]   
+YANG XJ,DU JH, QIN J, et al.， 2017a. The responses of leaf water potential of a typical psammophyte Spinifex littoreus to wind erosion， sand burial and sand flow abrasion in coastal area of Pingtan Island[J].Chin JEcol,36(5):1215-1223.[杨显基，杜建会，秦晶，等, 2017a.海岸沙生植物老鼠苏(Spinifex littoreus)叶水势对风蚀、沙埋和风沙流磨蚀的响应 [J].生态学杂志,36(5):1215-1223.]   
+YANG XJ, DU JH, QIN J, et al., 2O17b. Diurnal variation characteristics of leaf water potential of Spinifex litoreus on the nebkhas in different succession periods on the coast of Pingtan Island, Fujian Province,China[J].Chin JAppl Ecol,28(10):3260-3266.[杨显基，杜建会，秦晶, 等，2017b.福建平潭岛海岸不同演化阶段草丛沙堆表面老鼠芳叶水势日变化特征[J]. 应用生态学报,28(10):3260-3266.]   
+YE GF, ZHANG SS, SU QX, et al., 2000. Study on growth regularity of Casuarina equisetifolia in major types of protection forest[J].Prot For Sci & Technol,1: 6-14.[叶功富，张水松，苏 全兴，等，2000.木麻黄主要类型防护林生长发育规律的研究[J]．防护林科技，专刊 1:6-14.]   
+YU LM， WANG CK, WANG XC, 2011. Allocation of nonstructural carbohydrates for three temperate tree species in Northeast China[J]. Chin JPlant Ecol, 35(12): 1245-1255.[于丽敏, 王传宽，王兴昌，2011．三种温带树种非结构性碳水化合物的分配[J]．植物生态学报, 35(12): 1245-1255.]   
+ZHANG TF,ZHOU RL，ZHANG Y et al.，2016.Relationship between the changes of carbohydrate metabolism in Leymus mollis(Trin.）Hara and the the environmental heterogeneties on coast during winter and spring[J]. Acta Ecol Sin, 36(16): 5182-5192. [张婷 凤，周瑞莲，张玥，等,2016.冬春季海岸滨麦碳水化合物变化差异性与其环境异质性的 关系[J]．生态学报,36(16):5182-5192.]   
+ZHANG YL, FAN W, CAI YB, et al., 2009. Growth and physiological responses of Sesuvium portulacastrum to hydroponics of different combinations of fresh and sea water[J]. Acta Bot Boreal-Occident Sin,29(6):1240-1245.[张艳琳，范伟，蔡元保，等，2009．海马齿对不同 比例淡海水组培的生长和生理响应[J]．西北植物学报,29(6):1240-1245.]   
+ZHAO L, YANG HB,WANG DL, et al., 2011. Seedlings photosynthesis traits and non-structural carbohydrate storage of common species in Tiantong National Forest Park， Zhejiang Province[J].JEast Chin Nor Univ(Nat Sci Ed),4: 35-44.[赵镭，杨海波，王达力，等,2011. 浙江天童常见种幼苗的光合特性及非结构性碳水化合物储存[J].华东师范大学学报（自 然科学版）,4:35-44.]   
+ZHOU RL, YAN SQ, WANG DL et al., 2015. Relationship between carbohydrate conversion and
+
+resistance to sand burial in the stolon of Vitex trifolia var. simplicifolia grown on the Coast in Yantai,China[J].Acta Ecol Sin,35(23):7729-7737.[周瑞莲，杨淑琴，贾有余，等,2015. 海岸单叶蔓荆沙埋胁迫下碳水化合物变化与其耐沙埋的关系[J].生态学报，35(23): 7729-7737.]

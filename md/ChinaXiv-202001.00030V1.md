@@ -1,0 +1,227 @@
+# 塔里木河下游荒漠河岸林地下水蒸散发
+
+孙海涛,²，陈亚鹏¹²，陈亚宁¹，张颖,²，何振磊1,2(1.中国科学院新疆生态与地理研究所,荒漠与绿洲生态国家重点实验室,新疆 乌鲁木齐830011;2.中国科学院大学，北京100049)
+
+摘要：通过对塔里木河下游4个观测点地下水位的监测和地下水蒸散发的估算,分析荒漠河岸林地下水位月和日的波动、地下水蒸散发( $\left( E T _ { \mathrm { g } } \right)$ )的时空变化及其主要影响因素。结果表明： $\textcircled{1}$ 在生态输水前（7月21日至8月12日),4个观测点地下水位呈整体下降趋势;而生态输水后,水位保持稳定上升趋势。在整个观测期内,地下水位都表现出明显的昼夜波动现象。 $\textcircled { 2 } E T _ { \mathrm { g } }$ 均呈现出单峰变化特征，8:00开始快速增加，在12:00—16:00 维持在一个较高水平上，18：00以后快速下降，最高值出现在当地时间14：00。 $\textcircled { 3 } E T _ { \mathrm { g } }$ 随着植被类型、覆盖度的不同而存在显著差异，同时又受地下水位埋深的影响。 $\textcircled{4}$ 太阳辐射、温度和饱和水气压差是影响塔里木河下游地下水蒸散发日变化的主要因素，风速对其无显著影响。
+
+关键词：地下水蒸散发；地下水位；荒漠河岸林；塔里木河下游
+
+地下水不仅是许多水生生态系统的重要水源，同时也是干旱半干旱地区陆生植物的重要水源[1],尤其是依赖于地下水的生态系统，植被所需的部分水分或全部来源于地下水[2-5]。在干旱地区地下水蒸散发( $\left[ E T _ { \mathrm { g } } \right]$ )是区域水资源和能量平衡的重要组成部分[6-9],影响着干旱区的地表生态过程和地下水文过程[6,9-11]。蒸散发 $( E T )$ 是指陆地表面的水由液态转变至气态蒸散发过程，具体是由植被叶片的蒸腾或土壤和水体表面直接蒸发所引起[12-13]。过去有许多可测量 $E T$ 的方法（能量平衡和涡度相关法等),但都不能直接计算 $E T _ { \mathrm { g } } ^ { \ [ 1 4 - 1 5 ] }$ 。随着同位素技术和其他监测技术的发展，同位素示踪技术、水量平衡法和水位波动法都可用来计算 ${ E T _ { \mathrm { g } } }$ 。与前两种方法相比，地下水位波动方法所需成本较低，且能精细刻画地下水蒸散发的时空变化(16) C
+
+近10a来，随着日地下水位波动法的改进[10,17],此方法已在干旱半干旱区河岸林地下水蒸散发估算研究中得到广泛应用[13,15,18-21]。例如,一些学者在我国西北干旱区和美国西南半干旱区等地都发现了地下水位昼夜波动现象，并利用日水位波动法估算了 $E T _ { \mathrm { g } } ^ { \ [ 1 0 , 1 1 , 1 3 , 1 9 , 2 2 ] }$ 。众多研究表明,太阳辐射和气温是影响 ${ E T _ { \mathrm { g } } }$ 的主要因素[10,23],但其同时又受地下水位[24]，地表植被类型、密度等的影响[9,11,19]。在空间上, ${ E T } _ { \mathrm { g } }$ 因植被类型和给水度$( S _ { y } )$ 的不同而变化,而季节上的变化主要是由植被的物候所决定的[16]
+
+地下水是塔里木河下游荒漠河岸林植物生长的重要水源，为此众多学者对地下水位变化，地下水位与植被的关系，以及植物对地下水的利用等方面作了大量研究[25-30]。然而,对于地下水蒸散发与地下水位变化之间的关系却知之甚少，阻碍了我们对荒漠河岸林蒸散耗水和水循环规律的理解和认知。本文以塔里木河下游4个不同植被类型和覆盖度的观测点为研究对象，分析地下水位月和日的变化特征，并利用精度较高的Loheide方法估算4个观测点的${ E T } _ { \mathrm { g } }$ ,揭示 ${ E T _ { \mathrm { g } } }$ 的时空变化规律,探讨塔里木河下游荒漠河岸林地下水蒸散发与环境和气象因素的关系，以期为该区域地下水资源的管理和植被的恢复提供科学依据。
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+研究区位于塔里木河下游，通常指从大西海子水库至台特玛湖，全长约 $^ { 4 2 8 } \ \mathrm { k m }$ ，位于塔里木盆地北缘的塔克拉玛干和库木塔格沙漠之间，植被沿河呈条状分布，亦有“绿色走廊”之称，是保护218国道的重要绿色屏障[31]。该区域气候为暖温带大陆性气候,年平均气温 $1 0 . 7 ~ \mathrm { ^ { \circ } C }$ ,年平均潜在蒸发量为$2 6 7 1 . 4 \ \mathrm { m m }$ ,年平均降水量约为 $3 3 . 6 ~ \mathrm { m m }$ ,且主要集中在夏季(32）。该地区植物主要有胡杨（Populus eu-phratica）、怪柳（Tamarix spp.）、黑刺（Lycium ru-thenicum）铃铛刺（Halimodendron halodendron）疏叶骆驼刺（Alhagi sparsifolia）、芦苇（Phragmites com-munis）等,其中胡杨（Populuseuphratica）和怪柳（Tamarixspp.）分别属于优势乔木和灌木，可利用深根系直接吸收地下水以满足自身生长[25.33-34]。研究选取塔里木河下游3个断面(英苏、阿布达勒和阿拉干）的4个监测井和对应样地（D1、D2、C6和G5）作为观测点，其中C6位于 $4 0 ^ { \circ } 2 5 . 7 6 6 ^ { \prime } \mathrm { ~ N ~ }$ ，$8 7 ^ { \circ } 5 6 . 3 9 8 ^ { \prime } \mathrm { E }$ ;D1位于 $4 0 ^ { \circ } 2 4 . 9 0 3 ^ { \prime } \mathrm { N }$ ， $8 8 ^ { \circ } 0 3 . 0 7 9 ^ { \prime } \mathrm { E }$ D2位于 $4 0 ^ { \circ } 2 4 . 8 5 4 ^ { \prime } \mathrm { N }$ ， $8 8 ^ { \circ } ~ 0 3$ ： $0 5 7 ^ { \prime } \mathrm { ~ E ~ }$ ；C6位于$4 0 ^ { \circ } 2 5 . 7 6 6 ^ { \prime } \mathrm { N }$ ， $8 7 ^ { \circ } 5 6 . 3 9 8 ^ { \prime } \mathrm { E }$ ;G5位于 $4 0 ^ { \circ } 0 8 . 5 3 6 ^ { \prime } \mathrm { N }$ $8 8 ^ { \circ } 2 0 . 8 5 6 ^ { \prime } \mathrm { E }$ O
+
+# 1.2 样地调查
+
+2018年7月中旬，根据植物生长和分布状况,在塔里木河下游选取英苏、阿布达勒和阿拉干3个监测断面，在上述观测点设置 $5 0 ~ \mathrm { m } \times 5 0 ~ \mathrm { m }$ 的植物样地，样地内测定了包括建群种胡杨和怪柳等植物的胸径、树高和冠幅，并记录其生长状况。
+
+4个观测点分别以胡杨（ $P _ { - }$ 、euphratica）、柽柳（Tamarix spp.）或胡杨 $^ +$ 柽柳群落为主(表1）。研究地点 $2 0 ~ \mathrm { k m }$ 范围内不受人类活动的干扰（如农田地下水灌溉、工业用水等），因此，它是利用水位波动法计算 ${ E T } _ { \mathrm { g } }$ 的相对理想区域。
+
+# 1.3地下水位测定
+
+自2000年研究组在塔里木河下游设置了9个断面，在每一个横断面上布设3\~6眼 $8 \sim 1 0 \mathrm { ~ m ~ }$ 深的
+
+# 表1各观测点植被、距河道距离及地下水位
+
+Tab.1 Vegetation，distance from the river channel and groundwater level at each observation site   
+
+<html><body><table><tr><td>样地</td><td>主要植被</td><td>植被覆盖度 /%</td><td>距河道 距离/m</td><td>平均地下 水位/m</td></tr><tr><td>C6</td><td>怪柳</td><td>21.39</td><td>450</td><td>3.73</td></tr><tr><td>D1</td><td>胡杨</td><td>28.91</td><td>50</td><td>2.53</td></tr><tr><td>D2</td><td>胡杨、柽柳</td><td>41.61</td><td>150</td><td>3.02</td></tr><tr><td>G5</td><td>胡杨、怪柳</td><td>10.54</td><td>800</td><td>4.49</td></tr></table></body></html>
+
+地下水位监测井。在上述4个观测点，每一观测点附近都对应一眼地下水监测井，且在每个监测井内都安装了HOBO地下水位自动监测计（CampbellScientific，Logan，UT，USA），用来记录地下水位，监测频率为每小时1次。数据采集时需记录各个监测井中HOBO的气压值，以便对获取的地下水位数据进行校正。水位数据记录于2018年7月21日至10月13日。
+
+# 1.4气象数据的获取
+
+研究所用的每小时气温、风速、空气相对湿度等气象数据均源自中国气象数据共享服务网（http：//cdc.nmic.cn/home.do）。太阳辐射数据来自塔里木河下游库姆吐格断面通量塔记录。饱和水气压差(VPD)由空气相对湿度（ $( R H )$ 和气温 $\mathbf { \Gamma } ( T a )$ 估算,计算公式： $\begin{array} { r } { V P D = 0 . 6 1 1 \times \mathrm { e } ^ { \frac { 1 7 . 2 7 \times T a } { T a + 2 3 7 . 3 } } \times ( 1 - R H / 1 0 0 ) } \end{array}$ 。
+
+# 1.5 计算方法
+
+1.5.1地下水蒸散发的计算Loheide[17]认为,河岸带地卜水位变化是局部含水层地卜水均衡状态与观测点日尺度植被蒸散耗水相互叠加的结果。那么观测井附近地下水储存的变化量等于地下水位变化率乘以给水度 $S _ { y }$ ，并受附近地下水补给速率 $\boldsymbol { r } ( t )$ 和地下水蒸散发消耗率 $E T _ { \mathrm { g } } ( t )$ 的控制,其表达式为：
+
+$$
+S _ { y } \frac { \mathrm { { d } } W T } { \mathrm { { d } } t } { = } r ( t ) - E T _ { \mathrm { { g } } } ( t )
+$$
+
+式中： $S _ { _ y }$ 表示短时间尺度和浅层地下水的给水度;  
+$\mathrm { d } W T / \mathrm { d } t$ 是地下水位变化速率。
+
+该方法假设恢复源水头变化率随时间变化，且等于观测井处水位的变化速率。因此，该方法首先需要对地下水位进行去趋势化处理，以去除恢复源水头变化对地下水位的影响。去趋势化公式：
+
+$$
+W T _ { \mathrm { D T } } ( t ) = W T ( t ) - m _ { T } \times t - b _ { T }
+$$
+
+式中： $W T _ { \mathrm { D T } } \left( t \right)$ 是去趋势后的地下水位; $\boldsymbol { W } \boldsymbol { T } ( t )$ 是监测点记录的原始地下水位数据； $m _ { T }$ 和 $b _ { { \scriptscriptstyle T } }$ 分别代表地下水位 $\boldsymbol { W } \boldsymbol { T }$ 与时间 $\mathbf { \chi } _ { t }$ 线性回归的斜率和截距; $\mathbf { \Psi } _ { t } \mathbf { \Psi } _ { t }$ 表示水位变化的时间。
+
+假设地下水恢复源水头的去趋势是一个常数，那么就可以根据 ${ E T } _ { \mathrm { g } }$ 为0时的去趋势化水位预测趋势化水位变化率，二者的关系函数如下所示：
+
+$$
+\Gamma ( W T _ { \mathrm { D T } } ) = \frac { \mathrm { d } W T _ { \mathrm { D T } } } { \mathrm { d } t }
+$$
+
+式中： $\mathrm { d } W T _ { \mathrm { D T } } / \mathrm { d } t$ 表示 ${ E T _ { \mathrm { g } } }$ 为0时去趋势水位的变化速率。出于分析的要求，假设该函数在小范围内的地下水位波动存在近似的线性相关。函数 $\Gamma$ （ $W T _ { \mathrm { D T } }$ )估算的最佳拟合时间是在估算当天及其之后的某天0：00—06：00。
+
+根据式(1）式（2）和式（3），地下水净补给速率可表示为：
+
+$$
+r ( t ) = S _ { y } [ \Gamma \big ( W T _ { \mathrm { D T } } ( t ) + m _ { T } \big ]
+$$
+
+式中： $\boldsymbol { r } ( t )$ 是地下水净补给速率; $\Gamma [ \mathbf { \mathop { W } T _ { \mathrm { D T } } } ( t ) ]$ 表示某一时刻的去趋势水位的变化速率。
+
+依据式(1)和式(4），可得到某一时刻 ${ E T } _ { \mathrm { g } }$ 的表达式：
+
+$$
+E T _ { _ \mathrm { g } } { \big ( } t { \big ) } = r { \big ( } t { \big ) } - S _ { y } { \frac { \mathrm { d } W T } { \mathrm { d } t } }
+$$
+
+Loheide方法可计算每小时地下水蒸散发，并且考虑了观测井和恢复源水头差异对 ${ E T } _ { \mathrm { g } }$ 的影响。因此，选取Loheide方法估算塔里木河下游荒漠河岸林地下水蒸散发。利用Loheide等[14]提出的方法来确定 $S _ { y }$ ，采集并分析了4个观测点水位附近土壤质地，基于土壤质地和水位埋深数据确定4个观测点特定给水度 $S _ { _ y }$ 值，分别为0.037（C6、D2）、0.026
+
+(D1、G5）。
+
+1.5.2 潜在蒸散发的计算 基于Penman-Monteith公式[35]，利用 $E T _ { 0 }$ -CalculatorV3.2 软件（http://www.fao.org/land-water/databases-and-software/eto-calculator/ $\mathrm { { ' } e n \mathrm { { / } } }$ )计算得到4个观测点每日参考蒸散发 $E T _ { 0 }$ 。
+
+1.5.3 数据统计方法采用Excel2016、SPSS19.0进行数据分析和统计，采用单因素方差分析进行显著性检验，使用LSD方法检验显著性水平（ $\alpha =$ 0.05），用SigmaPlot12.5软件来拟合和绘制图表。
+
+# 2结果与分析
+
+# 2.1 地下水位变化
+
+在生长季，4个观测井都显现出典型的地下水位(指地下水埋深)昼夜波动的现象。日出后，随着光照强度的增加，植物光合作用加强，地下水位逐渐下降；日落后，随着光合作用的减弱和地下水的补给,地下水位逐渐上升[9,15]。从图1可以看出,7月21日至8月12日地下水位整体呈下降趋势。这主要由于深根系植物吸收地下水来维持自身生长，从而造成水位下降。而8月12日后，在生态输水的影响下4个观测点地下水位开始迅速抬升，但水位仍保持昼夜波动，且波动幅度逐渐减小。其中，D1观测点地下水位首先抬升，这是因为D1观测点距离河道最近，最先受到河流侧向补给的影响。其次上升的是D2观测点，C6和G5观测点几乎同时开始抬升。并且在9月15日后地下水位日变化幅度减小,这可能是河岸林植被由生长盛期进入落叶期,植物蒸腾作用减弱，对地下水的利用较少引起的。
+
+![](images/0d9f34dd2f78f25d73e79d16a6e4d75226562dede3f7d40f59e06363a898cab1.jpg)  
+图14个观测井的地下水位波动  
+Fig.1Fluctuation of groundwater level in four observation wells
+
+图2为4个观测点连续3d地下水位的日变化，均表现出昼夜水位波动现象，在9：00一11：00后水位开始下降，并在18：00—20：00后开始抬升。4个观测点 $\mathrm { C 6 } , \mathrm { D 1 } , \mathrm { D 2 }$ 和G5连续3d日均水位变化幅度分别是 $5 6 , 9 9 , 7 0 \ \mathrm { m m }$ 和 $4 1 ~ \mathrm { m m }$ 。各观测点植被类型、覆盖度不同，但都呈现出相似的地下水位波动规律，且这种波动信号为估算河岸林地下水蒸散发方法提供了条件。与其他观测点相比，G5观测点的日水位波动幅度最小，这与其植被覆盖度最低中 $( 1 0 . 5 4 \%$ ),距河道距离最远( $8 0 0 \ \mathrm { m } { \mathrm { ~ , ~ } }$ 相对应。
+
+![](images/2771f4fce4d35ff0505ac14200a820425dd397ede5aae965c84faef6ace14ed5.jpg)  
+图24个观测点8月5—7日地下水位昼夜变化  
+Fig.2Diurnal-nocturnalfluctuationof groundwaterlevelat4observation sites in3consecutivedays fromAugust5to7
+
+# 2.2地下水蒸散发 ${ E T } _ { \mathrm { g } }$ 的时间变化
+
+2.2.1月变化研究中地下水蒸散发和潜在蒸散发月变化规律主要表现在植物生长盛期（7月21日至9月14日）和落叶期(9月15日至10月13日）[36]。图3 显示了胡杨群落、怪柳群落和胡杨 $^ +$ 怪柳群落2018年7月21日至10月13日 ${ E T _ { \mathrm { g } } }$ 的动态变化过程，并将其与潜在蒸散发 ${ E T } _ { 0 }$ 进行了比较。4个观测点的地下水蒸散发在生长盛期和落叶期的变化并不完全一致。例如，在生长盛期，C6和D1观测点， ${ E T } _ { \mathrm { g } }$ 虽有波动但整体呈增加趋势，而在D2 和G5观测点， ${ E T } _ { \mathrm { g } }$ 分别在 $3 . 4 \ \mathrm { m m } \cdot \mathrm { d } ^ { - 1 }$ 和 $2 . 1 \ \mathrm { m m }$ ：
+
+$\mathrm { ~ d ~ } ^ { - 1 }$ 上下波动,未显现出明显增减趋势,但在落叶期4个观测点的 ${ E T _ { \mathrm { g } } }$ 都呈减少趋势。从D2至G5观测点植被覆盖度在逐渐减小（表1），与之对应的地下水蒸散发 ${ E T _ { \mathrm { g } } }$ 也在逐渐的减小，且地下水蒸散发${ E T } _ { \mathrm { g } }$ 与潜在蒸散发 $E T _ { 0 }$ 的差值在逐渐变大（图3）。2.2.2日变化过程分别利用2018年生长季7月21日至10月13日逐时地下水蒸散发的平均值，来反映荒漠河岸林 $2 4 \mathrm { ~ h ~ }$ 地下水蒸散发过程的总体变化趋势（图4）。C6 柽柳群落，D1胡杨群落及D2、G5胡杨 $^ +$ 怪柳群落的 ${ E T _ { \mathrm { g } } }$ 日变化动态均呈单峰形，即白天随着日出和光照强度逐渐增强， ${ E T _ { \mathrm { g } } }$ 在08:00开始快速增加，并在12：00—16:00维持在一个较高水平；傍晚，随着日落和光照强度减弱， ${ E T } _ { \mathrm { g } }$ 在18：00以后快速下降。
+
+![](images/f881670245ea5290ab2e52d50249a94337f021041684146e7b02a43f736e4356.jpg)  
+图32018年生长季4个观测点地下水蒸散发( ${ E T _ { \mathrm { g } } }$ )及潜在蒸散发( $E T _ { 0 }$ ） Fig.3Groundwater evapotranspiration ( $\left( E T _ { \mathrm { g } } \right)$ ）and potential evapotranspiration ( $\phantom { } { E T _ { 0 } }$ ）at 4 observation sites in growing season 2018
+
+![](images/90d72b1e33c9b1b8d2bc8530200a9bef0b47bfd6292642b88ddf3052006d7d5d.jpg)  
+图4不同月份4个观测点地下水蒸散发的日动态变化  
+Fig.4Daily dynamic change of groundwater evapotranspiration at 4 observation sites in diferent months
+
+这一单峰形态在胡杨群落、柽柳群落和胡杨 $^ +$ 怪柳群落间存在差异。怪柳群落的单峰形态趋向于三角形，而胡杨和胡杨 $^ +$ 怪柳群落的单峰形态较平缓一些,近似于梯形。其中,胡杨群落 ${ E T _ { \mathrm { { g } } } }$ 的日变化与胡杨茎流的变化相一致[37]。从日蒸散量分析，观测期内 $\mathrm { C 6 } , \mathrm { D 1 } , \mathrm { D 2 }$ 和G5的 ${ E T _ { \mathrm { g } } }$ 平均分别为2.51、$3 . 1 2 , 3 . 2 0 \ \mathrm { m m } \cdot \mathrm { d } ^ { - 1 }$ 和 $1 . 8 9 \ \mathrm { m m } \cdot \mathrm { d } ^ { - 1 }$ 。虽然D1的${ E T } _ { \mathrm { g } }$ 高于C6,但由于D1胡杨群落覆盖度高于C6 柽柳群落(表1)，因此，这个数据不足以说明胡杨耗水量大于怪柳，还需考虑植被的叶面积指数等因素来进行分析[22]。对于胡杨 $^ +$ 怪柳群落而言（D2 和G5）,植被覆盖度越大，对应的 ${ E T _ { \mathrm { g } } }$ 值也就越大。从日蒸散量来看，各观测点日地下水蒸散发变化幅度在8月和9月均显著增加，10月变化幅度开始减小（图4）。
+
+# 2.3地下水蒸散发 ${ E T } _ { \mathrm { g } }$ 的空间变化
+
+不同植被类型和覆盖度会对地下水蒸散发的空间变化产生影响[9,11]。如图5所示,7月,D2（胡杨 $^ +$ 怪柳群落)日均 ${ E T _ { \mathrm { g } } }$ 为 $3 . 0 3 \ \mathrm { m m } \cdot \mathrm { d } ^ { - 1 }$ ,显著高于其余3个观测点（ $\textstyle P < 0 . 0 5 )$ ,这与其植被覆盖度最高相对应（表1）。在8月和9月，D2（胡杨 $^ +$ 怪柳群落）日均 ${ E T } _ { \mathrm { g } }$ 分别为 $3 . 6 6 \ \mathrm { m m } \cdot \mathrm { ~ d } ^ { - 1 }$ 和3.40$\mathbf { m } \mathbf { m } \cdot \mathbf { d } ^ { - 1 }$ ,虽然都显著高于C6 和G5（ $\textstyle P < 0 . 0 5 )$ ，但与D1间无显著差异( $\lceil P > 0 . 0 5 \rangle$ 。10月，D2（胡杨 $^ +$ 怪柳群落)显著高于其他3个观测点( $^ { \prime } P < 0 . 0 5 )$ 。G5 胡杨 $^ +$ 怪柳群落7—10月日均 ${ E T } _ { \mathrm { g } }$ 值都是最低的，这与其植被覆盖度最低相对应。
+
+![](images/3c03cb5e9cea9ab0fcda1c65febcf67b773c510c62867f58d55f14b3feeaf11d.jpg)  
+图5生长季不同观测点地下水蒸散发 Fig.5Groundwater evapotranspiration at different observation sites in growing season
+
+# 2.4影响日地下水蒸散发的因素
+
+地下水蒸散发的过程十分复杂，除了受太阳辐射、气温等主要气象因子驱动外[38],还受地下水位等的影响。以C6观测点为例分析了地下水蒸散发与地下水位，潜在蒸散发 $E T _ { 0 }$ 和气象因子的关系。
+
+图6显示了C6观测点 ${ E T } _ { \mathrm { g } }$ 与地下水位、潜在蒸散发 $E T _ { 0 }$ 、风速、气温、太阳辐射和饱和水气压差的关系。 ${ E T _ { \mathrm { g } } }$ 和地下水位表现为显著正相关（ $\boldsymbol { P } <$ 0.01），表明 ${ E T _ { \mathrm { g } } }$ 随着地下水位的加深( $4 . 2 \mathrm { ~ m ~ }$ 以内)而增加。 ${ E T _ { \mathrm { g } } }$ 和 $E T _ { 0 }$ 之间也存在显著正相关关系（ $\textstyle P < 0 . 0 1 { \big . }$ )，表明地下水蒸散发是荒漠河岸林蒸散发的重要组成部分。太阳辐射、气温和饱和水气压差与 ${ E T _ { \mathrm { g } } }$ 均呈显著正相关( $\textstyle P < 0 . 0 1 { \dot { } }$ )，其中太阳辐射和 ${ E T _ { \mathrm { g } } }$ 的相关系数最大( $R ^ { 2 } = 0 . 3 1$ )，其次是气温和饱和水气压差( $R ^ { 2 }$ 为0.18和0.13）。 ${ E T } _ { \mathrm { g } }$ 与风速之间无显著相关性( $\begin{array} { r } { P > 0 . 0 5 \} } \end{array}$ )，表明风速对其无显著影响。
+
+在整个观测期内，共有4次降水事件，降水量为$0 . 1 \sim 0 . 7 \ \mathrm { m m }$ 之间。降水事件后， ${ E T _ { \mathrm { g } } }$ 明显减少，然而降水量却远远小于 ${ E T } _ { \mathrm { g } }$ 的减少量，例如降水量在$0 . 1 \ \mathrm { m m }$ 和 $0 . 7 \ \mathrm { m m }$ 时， ${ E T _ { \mathrm { g } } }$ 相对前一天分别减少了$3 . 6 8 ~ \mathrm { m m } \cdot \mathrm { d } ^ { - 1 }$ 和 $2 . 7 1 \ \mathrm { m m } \cdot \mathrm { d } ^ { - 1 }$ （图7）。这表明雨后 ${ E T } _ { \mathrm { g } }$ 的减少并不是由降雨直接引起的，而很可能是由于雨天太阳辐射减弱，气温下降引起的。
+
+# 3讨论与结论
+
+# 3.1 地下水位的变化
+
+塔里木河下游地下水位的变化在7—10月可分为两个明显不同的阶段。在8月12日生态输水之前，由于荒漠植物对地下水的利用导致水位呈下降趋势[13];而随着8月的生态输水,在河水的侧向补给作用下,地下水位逐渐抬升(5,39-40]。在4个观测点均发现了地下水位昼夜波动现象。这一现象在干旱荒漠河岸林地区较为普遍[1141-42],但是在干旱区的沙地和半干旱地区的河岸林却难以观测到这种现象，并且这些地区往往为草本或浅根系植被所覆盖[1,19]。而在塔里木河下游,胡杨和怪柳都为地下水依赖性植物[43-45],以地下水为主要水源[46-47]这表明植被类型是影响干旱区荒漠河岸林地下水位动态变化的重要因素之一。
+
+# 3.2 ${ E T _ { \mathrm { { g } } } }$ 的时空差异性
+
+随着植被由生长盛期进入落叶期, ${ E T _ { \mathrm { g } } }$ 逐渐减
+
+5 厂 (a) 5 (b)   
+(-p.)/ 4 P2=0.16 %。 。 8 p P2=0.19 。 80 8 。 0 。 8 32 0 % 。。 。 00 9 08 9000 1 。 000 。 。 。 。 8 0 0 2.8 3.0 3.2 3.4 3.6 3.8 4.0 4.2 4.4 2 4 6 8 10 地下水位/m 潜在蒸散发 $E T _ { 0 } / ( \mathrm { m m } \cdot \mathrm { d ^ { - 1 } } )$ 5 广 (c) R²=0.18 5 (d) R²=0.000 8   
+（p：)/ 4 P<0.01 。 %。 00 。 p.w 。 °。。 。。 。。 。 0 。 P=0.80 80 。 。 。 。 。 3 。 。 。 2 8 。 6 。 b 00 o 8 o。 00 888% 00。 00 。 8° 8 & 18 。 b。 8 。 0 。 80 。 。 。 o。 00 00 。 1 。 。 。 。 0 。 。 0 0 5 10 15 20 25 30 35 0.5 1.0 1.5 2.0 2.5 3.0 3.5 气温/℃ 风速 $\mathrm { { ( } m \cdot s ^ { - 1 } ) }$ 5 【 (e) 5 厂 (f) 0 8。   
+P -p. 00 。。 。 。° 。 0 。 。 。。 。。 。 8 广 。 0 oo 。 8 。 Q 。 。 eQ 8 O 。 。 。 8 8 8 000 00 8° 0 9 。。 0 。 0 R²=0.31 。 R²=0.13 。 。 P<0.01 。 。 。 P<0.01 0 0 40 60 80 100 120 140 160 1 2 3 4 太阳辐射/ $( \mathrm { W } \cdot \mathrm { m } ^ { - 2 } )$ 饱和天气压差VPD/kPa
+
+![](images/513ad82153d20a75f3e5a4b997f6ae90d89e2fb5b722a7efabe6b082db52af1f.jpg)  
+图6C6观测点地下水蒸散发与地下水位 $\sqrt { E T _ { 0 } }$ 、温度、风速、太阳辐射和VPD间的关系 Fig.6Relationships between the groundwater evapotranspiration at observation site C6 and the groundwater level, $E T _ { 0 }$ ， temperature,wind speed,solar radiation and VPD   
+图72018年生长季C6观测点地下水蒸散发( $\langle E T _ { \mathrm { g } }$ )和降水量的变化
+
+Fig.7Changes in groundwater evapotranspiration ( $\cdot E T _ { \mathrm { g } }$ ）and precipitation at observation site C6 in growing season 2018小,表明 ${ E T } _ { \mathrm { g } }$ 的季节变化与植被的物候有关[24]。荒漠河岸林地下水蒸散发过程十分复杂，除了受植物覆盖度和物候影响外，还与植被类型、密度和生物活性等有关[38,48]。在空间上,不同观测点的 ${ E T _ { \mathrm { g } } }$ 存在显著差异，在D2处,植被覆盖度最高 $( 4 1 . 6 1 \%$ ），与之对应的 ${ E T _ { \mathrm { g } } }$ 也明显高于C6和 $\mathrm { D 1 }$ 。相同地，植被覆盖度最低的G5，其日均 ${ E T } _ { \mathrm { g } }$ 值也明显小于其他3个观测点。而在8—9月，D1植被覆盖度虽然低于D2,但由于D1距离河道最近( $5 0 \mathrm { ~ m } \mathrm { ~ }$ ），8月生态输水后，水位得到迅速拾升（图1），植被对地下水的利用程度增加[49],使得 D1与 D2 处 ${ E T } _ { \mathrm { g } }$ 无显著性差异（ $\textstyle P > 0 . 0 5 )$ 。这说明 ${ E T } _ { \mathrm { g } }$ 因植被类型、覆盖度的不同而在空间上存在差异，同时也受地下水位埋深的影响。
+
+# 3.3 ${ E T _ { \mathrm { { g } } } }$ 与地下水位及气象因子的关系
+
+本研究表明，地下水位与 ${ E T } _ { \mathrm { g } }$ 呈显著正相关关系,这与Yue 等["的研究结果不一致，可能是与两个研究区域植被类型的不同有关。在Yue等[的研究区，主要为柳枝稷等草本植物，当水位下降时，由于受根系深度的限制，植被对地下水的利用减少。而在本研究区，植物为深根系乔灌木，当水位下降时（在合理水位之内），胡杨和怪柳可能会吸收更多的地下水以应对干旱环境[47]，从而导致地下水位与${ E T } _ { \mathrm { g } }$ 呈正相关。
+
+太阳辐射是地下水蒸散发的主要动力[10],本研究结果也显示太阳辐射和 ${ E T } _ { \mathrm { g } }$ 存在较强的显著性正相关( $R ^ { 2 } = 0 . 3 1 , P < 0 . 0 1 )$ ，说明太阳辐射是影响塔里木河下游 ${ E T _ { \mathrm { g } } }$ 的关键因素。除此，气温和饱和水气压差与 ${ E T } _ { \mathrm { g } }$ 也存在显著正相关,表明 ${ E T } _ { \mathrm { g } }$ 的日变化主要受太阳辐射、气温和饱和水气压差的控制[9]。在干旱区的荒漠河岸林,地下水蒸散发 ${ E T _ { \mathrm { g } } }$ 与潜在蒸散发 ${ E T } _ { 0 }$ 通常呈正相关关系[1,16],本研究也发现二者之间存在这种线性关系，但是仍有大量的数据点偏离趋势线，而这一偏离很可能是由于其他环境因子(如地下水位)发生变化,影响了 ${ E T } _ { \mathrm { g } }$ 而未影响 $E T _ { 0 }$ 的结果。
+
+# 参考文献（References）：
+
+[1]HuangJT,Hou G C,LiHY,et al.Estimating subdaily evapotranspiration rates using the corrected diurnal water-table fluctuations in a shallow groundwater table area $[ \mathrm { C } ] / / 2 0 1 1$ International Symposium on Water Resource and Environmental Protection.Xi'an,China:IEEE,2011:3093-3099.
+
+[2]郭中小,魏永富,廖梓龙,等.锡林河流域地下水位管理阈值研 究[J].干旱区研究,2017,34（3）:479-486.[Guo Zhongxiao， Wei Yongfu,Liao Zilong,etal.Thresholdvaluesof groundwater level management in the Xilin River Basin[J].Arid Zone Research,2017,34(3) :479-486.]   
+[3]CooperDJ,Sanderson JS,Stannard DI,etal.Effectsof long-term water table drawdown on evapotranspiration and vegetation in an arid regionphreatophyte community[J]. Journal of Hydrology, 2006,325(1) :21 -34.   
+[4]Orellana F,Verma P,Loheide SP,et al. Monitoring and modeling water-vegetation interactions in groundwater-dependent ecosystems [J].Reviews of Geophysics,2012,50(3）:RG3003.   
+[5]Yuan GF,ZhangP,Shao MA,et al.Energy and water exchanges over a riparian Tamarix spp.stand in the lower Tarim River basin undera hyper-arid climate[J].Agricultural and Forest Meteorology,2014,194:144 - 154.   
+[6]Jiang X W,Sun Z C,Zhao K Y,et al.A method for estimating groundwater evapotranspiration and inflow in the discharge area using seasonal water table fluctuations[J]. Journal of Hydrology, 2017 ,548 :498 - 507.   
+[7] 邓铭江,杨鹏年,周海鹰,等.塔里木河下游水量转化特征及其 生态输水策略[J].干旱区研究,2017,34(4）:717-726.[Deng Mingjiang,Yang Pengnian,Zhou Haiying,etal. Water conversion and strategy of ecological water conveyance in the lower reaches of the Tarim River[J].Arid Zone Research,2017,34(4):717-726.]   
+[8]Nichols W D. Groundwater discharge by phreatophyte shrubs in the Great Basin as related to depth to groundwater[J].Water Resources Research,1994,30(12):3 265-3 274.   
+[9]Butler Jr JJ,Kluitenberg G J,Whittemore D O,et al.A field investigation of phreatophyte-induced fluctuations in the water table [J].Water Resources Research,2007,43（2）:299-309.   
+[10]Soylu ME,Lenters JD,Istanbulluoglu E,et al. On evapotranspiration and shallow groundwater fluctuations：A Fourier-based improvement to the White method[J].Water Resources Research, 2012,48(6):W06506.   
+[11]Yue WF,Wang TJ,Franz TE,et al. Spatiotemporal patterns of water table fluctuations and evapotranspiration induced by riparian vegetation in a semiarid area[J].Water Resources Research,2016, 52(3):1 948-1 960.   
+[12]Lautz L K,Siegel D1,BauerR L.Impact of debris dams on hyporheic interaction along a semi-arid stream[J].Hydrological Processes,2006,20(1):183-196.   
+[13]Wang P,Grinevsky S O,Pozdniakov SP,et al.Application of the water table fluctuation method for estimating evapotranspiration at two phreatophyte-dominated sites under hyper-arid environments [J].Journal of Hydrology,2014,519(1）:2 289-2 300.   
+[14]Loheide SP,Butler JrJJ,Gorelick SM.Estimationof groundwater consumption by phreatophytes using diurnal water table fluctuations:A saturated-unsaturated flow assessment[J].Water Resources Research,2005,41(7） :W07030.   
+[15]Cheng D H,Duan JB Qian K,et al.Groundwater evapotranspiration under psammophilous vegetation covers in the Mu Us Sandy Land,northern China[J].Journal of AridLand,2017,9(1）:1-12.   
+[16]Lautz L K .Estimating groundwater evapotranspiration rates using diurnal water-table fluctuations in a semi-arid riparian zone[J] Hydrogeology Journal,2008,16(3）:483 -497.   
+[17]Loheide II S P.A method for estimating subdaily evapotranspiration of shallow groundwater using diurnal water table fluctuations[J]. Ecohydrology,2008,1（1）:59 -66.   
+[18]Zhu JT,Yu JJ,Wang P,et al. Interpreting the groundwater attributes influencing the distribution patterns of groundwater-dependent vegetation in Northwestern China[J]. Ecohydrology,2012,5（5）: 628- 636.   
+[19]Cheng D H,Li Y,Chen X H,et al. Estimation of groundwater evaportranspiration using diurnal water table fluctuations in the Mu Us Desert,Northern China[J].Journal of Hydrology,2013,490: 106 -113.   
+[20]Yuan G F,Luo Y,Shao M A,et al.Evapotranspiration and its main controlling mechanism over the desert riparian forests in the lower Tarim River Basin[J]. Science China Earth Sciences,2015,58 (6) :1 032 -1 042.   
+[21]Zhang P,Yuan GF,Shao M A,et al.Performance of the white method for estimating groundwater evapotranspiration under conditions of deep and fluctuating groundwater[J]. Hydrological Processes,2016,30(1) :106 -118.   
+[22］袁国富,罗毅,邵明安,等.塔里木河下游荒漠河岸林蒸散规律 及其关键控制机制〔J].中国科学:地球科学,2015,45（5）： 695 -706.[Yuan Guofu,Luo Yi,Shao Mingan,et al. Evapotranspiration and its main controlling mechanism over the desert riparian forests in the lower Tarim River Basin[J].Science in China:Earth Sciences,2015,45(5):695-706.]   
+[23]Gribovszki Z,Szilagyi J,Kalicz P.Diurnal fluctuations in shallow groundwater levels and streamflow rates and their interpretation : A review[J]. Journal of Hydrology,2010,385(1）:371-383.   
+[24]Fan JL,Oestergaard K T,Guyot A,et al. Estimating groundwater recharge and evapotranspiration from water table fluctuations under three vegetation covers in a coastal sandy aquifer of subtropical Australia[J]. Journal of Hydrology,2014,519:1120-1129.   
+[25］陈亚宁,李卫红,徐海量,等.塔里木河下游地下水位对植被的 影响[J].地理学报,2003,58（4）：542-549.[Chen Yaning,Li Weihong,Xu Hailiang,et al.Influence of groundwater level on vegetation in the lower reaches of Tarim River[J].Journal of Geography,2003,58(4) :542-549.]   
+[26］陈亚宁,王强,李卫红,等.植被生理生态学数据表征的合理地 下水位研究——以塔里木河下游生态恢复过程为例〔J].科 学通报,2006,51（增刊1）:7-13.[Chen Yaning,Wang Qiang, Li Weihong,et al.Study on rational groundwater level characterization of vegetation physiologyand ecology data: Taking ecological restoration process in the lower reaches of Tarim River as an example[J]. Chinese Science Bulletin,2006,51(Suppl.1）:7 -13.]   
+[27］郝兴明,陈亚宁,李卫红,等.塔里木河中下游荒漠河岸林植被 对地下水埋深变化的响应〔J].地理学报,2008,63（11）：1123 -1 130.[Hao Xingming,Chen Yaning,Li Weihong,et al. Response of desert riparian forest vegetation to groundwater depth changes in the middle and lower Tarim River[J].Journal of Geography,2008,63（11) :1123-1130.]   
+[28]Hao X M,Li W H,Huang X,et al.Assessment of the groundwater threshold of desert riparian forest vegetation along the middle and lower reaches of the Tarim River,China[J].Hydrological Processes,2010,24(2):178 -186.   
+[29]Li W H,Zhou H H,Fu A H,et al.Ecological response and hydrological mechanism of desert riparian forest in inland river,Northwest of China[J].Ecohydrology,2013,6(6）:949-955.   
+[30]白玉锋,徐海量,张沛,等.塔里木河下游荒漠植物多样性、地 上生物量与地下水埋深的关系〔J].中国沙漠,2017,37（4)： 724-732.[Bai Yufeng,Xu Hailiang,Zhang Pei,etal.Relationship between desert plant diversity，aboveground biomassand groundwater depth in the lower reaches of the Tarim River[J]. Journal of Desert Research,2017,37(4）:724-732.]   
+[31］陈亚宁,郝兴明,李卫红,等.干旱区内陆河流域的生态安全与 生态需水量研究——兼谈塔里木河生态需水量问题[J].地球 科学进展,2008,23（7）:732-738.[Chen Yaning,Hao Xingming,Li Weihong,et al. Study on ecological security and ecological water demand in the Inland River Basin in Arid Areas:Also on the ecological water demand of the Tarim River[J].Advances in Earth Science,2008,23（7) :732-738.]   
+[32］陈亚宁.新疆塔里木河流域生态水文问题研究[M].北京：科 学出版社,2010.[Chen Yaning.Research on Ecological Hydrology in the Tarim River Basin of Xinjiang[M].Beijing:Science Press, 2010.]   
+[33］李卫红,郝兴明,覃新闻,等.干旱区内陆河流域荒漠河岸林群 落生态过程与水文机制研究〔J].中国沙漠,2008,28（6）： 1 113-1 117.[Li Weihong,Hao Xingming,Qin Xinwen,et al. Ecological process of desert riparian forest communities and its hydrological mechanism of Inland River Basin in Arid Area[J]. Journal of Desert Research,2008,28(6):1 113-1117.]   
+[34]Hao X M,Li W H.Impacts of ecological water conveyance on groundwater dynamics and vegetation recovery in the lower reaches of the Tarim River in Northwest China[J].Environmental Monitoring and Assessment,2014,186(11) :7 605 -7 616.   
+[35]Allen R G,Pereira L S,Raes D,et al. Crop evapotranspiration; Guidelines for Computing Crop Water Requirements.Irrigation and Drainage Paper No 56.Food and Agriculture Organization of the United Nations[M].Rome,Italy:FAO,1998:15   
+[36］买尔燕古丽·阿不都热合曼,艾里西尔·库尔班,阿迪力·阿 不来提,等.塔里木河下游胡杨物候特征观测[J].干旱区研 究,2008,25（4）:525-530.[Maryamgul Abdurahman,A lishir Kurban,Adil Ablat,et al. Observation of phenological characteristics of Populus euphratica in the lower reaches of the Tarim River [J].Arid Zone Research,2008,25(4）:525-530.]   
+[37］何斌,李卫红,陈永金,等.干旱胁迫下胡杨茎流日变化分 析——以塔里木河下游英苏断面为例[J].西北植物学报, 2007,27(2）:315-320.[He Bin,Li Weihong,Chen Yongjin,et al.Analysis of diurnal variation ofstem flow of Populus euphratica under drought stress: Taking the Yingsu Section in the lower reaches of Tarim River as an example[J].Acta Botanica Boreali-Occidentalia Sinica,2007,27(2）:315-320.]   
+[38]Brauman K A,Freyberg D L,Daily G C.Land cover effects on groundwater recharge in the tropics: Ecohydrologic mechanisms [J].Ecohydrology,2012,5(4）:435-444.   
+[39]Ye Z X,Chen Y N,Li W H,et al.Groundwater fluctuations induced by ecological water conveyance in the lower Tarim River, Xinjiang,China[J]. Journal of Arid Environments,20o9,73（8）: 726-732.
+
+[40]邓铭江，周海鹰，徐海量，等.塔里木河下游生态输水与生态调
+
+度研究[J].中国科学：技术科学,2016,46（8）：864.[Deng Mingjiang,Zhou Haiying,Xu Hailiang,et al.Research on the ecological operation in the lower reaches of Tarim River based on water conveyance[J].Chinese Science:Technical Sciences,2O16,46 (8):864.]   
+[41]Yin L H,Zhou Y X,Ge S M,et al.Comparison and modification of methods for estimating evapotranspiration using diurnal groundwaterlevel fluctuations in arid and semiarid regions[J].Journal of Hydrology,2013,496:9-16.   
+[42]Fahle M,Dietrich O.Estimation of evapotranspiration using diurnal groundwater level fluctuations:Comparison of different approaches with groundwater lysimeter data[J].Water Resources Research, 2014,50(1) :273 -286.   
+[43］王平,张学静,王田野,等.估算干旱区地下水依赖型植物蒸散 发的White 法评述[J].地理科学进展,2018,37（9)：1159- 1170.[Wang Ping,Zhang Xuejing,Wang Tianye,etal.A review of the White method for the estimation of evapotranspiration from phreatophytes in arid areas[J].Progress in Geography,2O18,37 (9):1 159 -1170.)   
+[44]Chen Y N,Pang ZH,Hao X M,et al.Periodic changes of stream flow in the last 4O years in Tarim River Basin,Xinjiang,China [J].Hydrological Processes,2008,22(21）:4 214-4 221.   
+[45]WangP,ZhangYC,YuJJ,etal.Vegetation dynamics induced by groundwater fluctuations in the lower Heihe River Basin,Northwestern China[J].Journal ofPlant Ecology,2011,4（1）:77-90.   
+[46]王玉阳，陈亚鹏,李卫红，等.塔里木河下游典型荒漠河岸植物 水分来源[J].中国沙漠,2017,37（6）：102－109.[Wang Yuyang,Chen Yapeng,Li Weihong,etal.Water sources of typical desert riparian plants in the lower reaches of the Tarim River[J]. Journal ofDesert Research,2017,37(6):102-109.]   
+[47]Chen Y P,Chen Y N,Xu C C,et al.The effects of groundwater depth on wateruptake ofPopuluseuphratica,and Tamarixramosissima,in the hyperarid region of Northwestern China[J].Environmental Science and Pollution Research,2016,23（17）:17 404- 17 412.   
+[48]Gou S,Miller G.A groundwater-soil-plant-atmosphere continuum approach for modelling water stress,uptake,and hydraulic redistribution in phreatophytic vegetation[J].Ecohydrology,2014,7（3）： 1029 -1 041.   
+[49]刘鹄,赵文智,李中恺.地下水依赖型生态系统生态水文研究 进展[J].地球科学进展,2018,33（7）：741-750.[Liu Hu, Zhao Wenzhi,Li Zhongkai.Ecohydrology of groundwater dependent ecosystems:A review[J].Advances in Earth Science,2O18,33（7）： 741 -750.]
+
+# Groundwater Evapotranspiration in Desert Riparian Forest in the Lower Reaches of the Tarim River
+
+SUN Hai-tao1²，CHENYa-peng²，CHENYa-ning1，ZHANG Ying1,²，HE Zhen-lei1,2 (1.State Key Laboratoryof Desert and Oasis Ecology,Xinjiang Instituteof Ecologyand Geography,Chinese Academyof Sciences,Urumqi 830011,Xinjiang,China; 2. University of Chinese Academy of Sciences,Beijing 10oo49,China)
+
+Abstract：Inthis study,the groundwater level atfour observation sites inthe lower reachesofthe Tarim River was monitored,and the values of groundwater evapotranspiration were estimated.The purposes of the study were to analyze the fluctuations of groundwater level and the groundwater evapotranspiration $( E T _ { \mathrm { g } } )$ ）as well as their main affecting factors.The results showed that: $\textcircled{1}$ A drawdown of groundwater level occurred holistically at the four observation sites before implementing the project of ecologic water conveyance;after implementing the project from July 21 to August12,however,the groundwater level was inasteady rising trend.There wasa diurnal-nocturnal fluctuation of groundwater level during the study period; $\textcircled{2}$ The curve of ${ E T _ { \mathrm { g } } }$ was unimodal, ${ E T _ { \mathrm { g } } }$ began to rapidly increase from 08:00,maintainedata high level from12:00to16:0,andrapidlydecreased after18:0.The highest value appeared at 14 :00 local time ; $\textcircled { 3 } E T _ { \mathrm { g } }$ varied significantly with different vegetation types and coverage,and was also affected by groundwater depth ; $\textcircled{4}$ Solar radiation,temperature and vapor pressure deficiency were the main factors affcting thedailyvariation of groundwater evapotranspiration inthelower reaches of the Tarim River,and the effect of wind speed on it was not significant.
+
+Key words:groundwater evapotranspiration；groundwater level； desert riparian forest；lower reaches of the Tarim River

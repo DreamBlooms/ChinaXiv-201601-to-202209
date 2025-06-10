@@ -1,0 +1,148 @@
+DOl :10. 11931/guihaia. gxzw201804024
+
+# 样品预处理方法对海岸典型沙生植物非结构性碳水化合物含量测定的影响
+
+王松1，杜建会1,2\*，秦晶1，张琪1，邵佳怡1(1．中山大学地理科学与规划学院；2.广东省城市化与地理环境空间模拟重点实验室,
+
+广州 510275)
+
+摘要：量化植物非结构性碳水化合物（non-structural carbohydrate,NSC）含量对研究其生长和适应策略具有重要的意义，但其预处理方法多样，导致不同研究结果之间可比性较差。该文以华南海岸典型沙生植物木麻黄、老鼠苏、海马齿和厚藤为例，研究苯酚-浓硫酸法测定过程中，是否去皮和过筛目数大小对其NSC 及组分含量测定的影响。结果表明：（1）不同龄级木麻黄样品去皮后提取的NSC、可溶性糖和淀粉含量均出现下降趋势，与对照相比，幼龄林和中龄林样品可溶性糖含量下降达到显著程度（ $\cdot P { < } 0 . 0 5$ ），而淀粉含量差异不显著，成龄林样品 NSC 及其组分含量差异均不显著。龄级越小，去皮预处理对树木NSC 及其组分提取影响越大，尤其以可溶性糖影响最为明显，建议乔木处理时统一保留树皮。（2）不同沙生植物枝（茎）样品提取的NSC 及其组分含量随过筛目数增大总体呈增加趋势，且木麻黄和老鼠苏枝（茎）过筛100 目相对18 目提取的 NSC 含量均达到显著水平（ $\scriptstyle P < 0 . 0 5 .$ ），而叶（同化枝）样品除老鼠苏外均变化不显著。（3）沙生植物器官机械组织含量越高，不同过筛目数提取的 NSC及其组分含量差异越大，综合考虑样品获取难度及NSC 含量的测定精度，建议所有沙生植物枝叶样品均过100目筛。
+
+关键词：沙生植物，非结构性碳水化合物，去皮，过筛目数，苯酚-浓硫酸法，平潭岛
+
+# Influence of sample pretreating methods on the determination of non-structural carbohydrate contents in typical coastal psammophytes
+
+WANG Song1，DU Jianhui1,2\*，QIN Jing1， ZHANG $\mathrm { Q i ^ { 1 } }$ ， SHAO Jiayil
+
+1.School of Geography and Planning，Sun Yat-Sen University，Guangzhou 510275，China:
+
+# 2.Guangdong Key Laboratory for Urbanization and Geo-simulation，Guangzhou 510275，China)
+
+Abstract: Quantification of non-structural carbohydrates (NSC) contents of plants is of great significance to the exploration of its growth and adaptive strategies. However, various pretreating methods often lead to the poor comparability among different results.In this paper, four typical psammophytes on the coast of South China including Casuarina equisetifolia, Spinifex littoreus, Ipomoea pes-caprae and Sesuvium portulacastrum were studied, and the effects of pretreating methods onthe determination of non-structural carbohydrates contents of plants by phenol-concentrated sulfuric acid method were analyzed, including the existence of the peel and mesh size. The results showed that: (1) When peeled, NSC,soluble sugar and starch contents of the Casuarina equisetifolia samples all had a decreasing trend compared with the control group, especially significant in the soluble sugar contents of the young-aged forest and the middle-aged forest $( P { < } 0 . 0 5 )$ , but made no difference in both their starch contents and all component contents in adult ones. The smaler the age of samples, the greater the effect of peeling pretreatment on NSC and its component contents in trees, especially affected on soluble sugar, so we suggest to preserve tree bark when samples processed. (2） The contents of NSC and its components of different psammophytes's branches (stem） all raised with the increase of mesh size，and there were significant differences between the Casuarina equisetifolia and Spinifex littoreus'branches (stem) samples which passed through the 100 and 18 mesh sieve $( P { < } 0 . 0 5 )$ . Except the Spinifex littoreus, all psammophytes’ leaves (assimilating branches） samples hadn't changed much under different mush sizes and had no significant difference.The higher the content of mechanical tissue in the samples,the more significant difference in the content of NSC and its components extracted by diferent mesh size,considering the difficulty in obtaining samples and the accuracy of the determination of NSC content, thus we suggest that all branches and leaves of psammophytes should be processed by 1OO mesh sieve. The conclusion of this study can guide the sample processing methods of related research in South China Coast, standardize experimental methods and improve the comparability between different studies.
+
+Key words: psammophytes，non-structural carbohydrates， peeled or not peeled，mesh size, phenol-sulfuric acid method,Pingtan Island
+
+非结构性碳水化合物（NSC）是植物生长和代谢的重要物质，主要包括可溶性糖和淀粉等（潘庆民等，2002）。其大小通常可反映植物整体的碳收支平衡关系及对外界环境胁迫的适应策略（Hartmann& Trumbore，2016），准确量化植物NSC 含量对研究其生长和适应策略均具有重要的意义。测定植物器官 NSC 含量的方法众多，其中以苯酚-硫酸法（Dubois etal，1956）和蒽酮比色法（Raessler et al，2010）使用较为普遍，前者在测定植物器官 NSC含量中具有操作简单、结果稳定和灵敏度高等优点，目前被许多学者广泛采用（Liu et al，1973；Xietal，2010）。该方法包括样品预处理和实验测定两个部分。
+
+从已有的研究来看，不同学者实验测定步骤大致相同，而样品预处理方法则差异较大，尤其在研磨和过筛阶段。在所筛选的97 篇相关文献中，研磨前有 $65 \%$ 进行了去皮处理(Rosaset al，2013）， $3 5 \%$ 则没有（欧阳明等，2014）。过筛时未说明目数的有 $46 \%$ （Li et al，2015）,通过18目到40目的有 $23 \%$ （Yemm&Wilis,1954)，通过60 目到80 目的有 $12 \%$ (McCreadyet al，1950），通过100目及以上的有 $1 9 \%$ （Giannoccaro et al，2006）。
+
+树皮与树芯NSC 含量本身存在很大差异（成方妍和王传宽，2016），且过筛目数不同导致实验所用样品比表面积也不一样，进而影响到其与酒精提取液的接触面积。在提取时间相同的情况下，同一样品提取率可能存在很大差异，导致不同研究结果之间缺乏可比性（Quentin etal，2015）。本研究以华南海岸典型沙生植物为例，采用改进的苯酚-浓硫酸法（Buysse＆Merckx，1993），研究预处理过程中是否去皮和过筛目数大小对不同沙生植物NSC 及其组分含量测定的影响，以期选择合理的预处理方法，准确量化不同沙生植物对于环境胁迫的响应差异，加强不同研究结果之间的可比性。
+
+# 1材料与方法
+
+# 1.1研究区概况
+
+研究区坛南湾地处福建省平潭岛东南侧 $( 2 5 ^ { \circ } 2 6 ^ { \prime } 3 6 ^ { \prime \prime } - 2 5 ^ { \circ } 2 6 ^ { \prime } 4 8 ^ { \prime \prime } \mathrm { N }$ ， $1 1 9 ^ { \circ } 4 6 ^ { \prime } 0 9 ^ { \prime \prime } -$ $1 1 9 ^ { \circ } 4 6 ^ { \prime } 2 1 ^ { \prime \prime } \mathrm { E } )$ ，属于南亚热带半湿润海洋性季风气候，植被以常绿阔叶林为主。年平均气温$1 9 . 5 ^ { \circ } \mathrm { C }$ ，年平均降水量 $1 1 5 1 ~ \mathrm { m m }$ ，年平均蒸发量 $1 3 0 0 \mathrm { m m }$ ，年平均风速 $6 . 9 \mathrm { m / s }$ ，多年平均大风日数 $9 8 . 2 \mathrm { d }$ （杨显基等，2017a）。也是目前我国海岸沙地生态系统保存最为完整的地区，长达 $1 . 9 \mathrm { k m }$ 的宽阔天然海岸线上，在季风的影响下草丛沙堆显著发育，近海发育阶段草丛沙堆高约 $2 \mathrm { ~ m ~ }$ ，距海越远沙堆越高，至后沿稳定阶段与海岸木麻黄（Casuarinaequisetifolia）防护林交界处其高度达 $4 \mathrm { m }$ 左右。各沙堆连片且呈带状分布，形成宽达 $3 0 0 \mathrm { m }$ 的典型草丛沙堆带。沙堆表面植物以老鼠苏（Spinifex littoreus）为主要优势种，而海滩前缘则主要以厚藤（Ipomoea pes-caprae）和海马齿（Sesuvium portulacastrum）等盐生植物为主。
+
+# 1.2研究方法
+
+# 1.2.1野外采样
+
+采样时间为2016年12月，考虑到距海远近不同，沙生植物呈现为明显的带状分布。沿着垂直于海岸线方向设置典型样带，从防护林到潮间带依次选择木麻黄、老鼠苏、厚藤和海马齿作为研究对象。具体采样方法如下：（1）对采样的木麻黄林地进行整体考察，根据其种植年限将木麻黄划分为幼龄林、中龄林和成龄林，其中幼龄林树龄为5年，中龄林树龄为15 年，成龄林树龄为30年，每个龄级各选择3株具有代表性的优势木。用高枝剪在树冠上、中、下三个冠层的东、西、南、北四个方向各随机剪下直径 $5 \mathrm { m m }$ 左右、长势良好的树枝;
+
+（2）根据老鼠苏沙堆的形态、植被和土壤性质等差异将其划分为雏形、发育和稳定3个阶段（杨显基等，2017b），在不同演化阶段沙堆迎风坡表面选择长势较为良好的老鼠芳地上部分植株，用剪刀整株剪下；（3）在海滩前缘采集样地内长势良好的厚藤和海马齿地上部分茎叶，所有样品均各取3份，就地编号后装入自封袋中，放入 $0 { - } 4 ^ { \circ } \mathrm { C }$ 的冷藏箱，快速带回实验室，然后采用人工将枝（茎）叶分离，擦净样品表面污物，采用微波炉进行高温（600W)90 s的杀青处理，随后将样品封装贴好标签带回实验室，用恒温烘箱在在 $6 5 ^ { \circ } \mathrm { C }$ 下烘干 $4 8 \mathrm { h }$ 至恒重，以备后续实验。
+
+# 1.2.2 室内实验
+
+（1）样品预处理
+
+去皮预处理：不同龄级木麻黄枝样品随机分成两份，部分采用人工去皮，将树皮和树芯分离，其余作为对照；过筛预处理：将去皮后的木麻黄成龄林、不同演化阶段沙堆表面老鼠苏、厚藤和海马齿样品按照枝(茎)叶分离。所有样品烘干后剪碎混匀，放入咖啡机(NMD226电动磨豆机）或研钵中研磨，之后均通过从上至下筛孔尺寸分别为18目、65目和100 目的3个网筛，其中通过18目不通过65目记为18目样品、通过65目不通过100目记为65目样品、通过100 目记为100 目样品。去皮预处理只选择100 目样品，过筛预处理保留三个不同目数的样品。每个样品采用分析天平（精度： $0 . 0 0 0 1 \mathrm { g }$ ）取 $2 0 ~ \mathrm { m g }$ 放入 $1 0 ~ \mathrm { m l }$ 已编号的离心管中以备测定。
+
+（2）样品测定
+
+在样品中加入 $1 \mathrm { m l } 8 0 \%$ 酒精并抽提过夜。然后在离心机中以 $3 5 0 0 \mathrm { r p m }$ 离心7分钟，吸取上清液至离心管中。残渣再加入酒精，同样的操作离心后，将上清液一并倒入 $1 0 ~ \mathrm { m l }$ 离心管，定容至 ${ 5 } \mathrm { m l }$ ；取剩余残渣，加入 $1 \mathrm { m l } 8 \%$ 盐酸于 $1 0 5 ^ { \circ } \mathrm { ~ C ~ }$ 沸水中煮 $2 \mathrm { h }$ ，待冷却后加入 $\mathrm { 1 ~ m l }$ 酒精后以 $3 5 0 0 \mathrm { r p m }$ 离心7分钟，吸取上清液至离心管中。残渣再加入酒精，同样的操作离心后，将上清液一并倒入 $1 0 ~ \mathrm { m l }$ 离心管，定容至 $5 \mathrm { m l }$ 。吸取 $1 \mathrm { m l }$ 样品液于试管中，按顺序分别加入 $0 . 5 { \mathrm { m l } }$ 苯酚、 $2 . 5 \mathrm { m l }$ 浓硫酸溶液，混匀显色30分钟后，在 $4 8 5 \mathrm { n m }$ 波长下采用紫外分光光度计（Spectrumlab752s型）进行测定，得到相应的吸光度值。
+
+（3）结果计算
+
+式（1）中： $C$ ——吸光度值经标准曲线换算后的糖含量， $\mathrm { m g }$ ;, $\boldsymbol { V } _ { T }$ ——提取液体积,ml； $\boldsymbol { V } _ { I }$ 吸取样品液体积， $\mathrm { m l }$ ； $W$ —选取的样品干重， $\mathrm { m g }$ 。
+
+# 1.2.3数据处理
+
+本文数据统计分析在WPSoffice 2016 和 SPSS 20.0 软件系统下完成，采用独立样本t检验研究是否去皮对不同龄级木麻黄枝样品提取的NSC及其组分含量的影响，采用单因素方差分析(One-way ANOVA)研究不同过筛目数对沙生植物样品提取的 NSC 及其组分含量的影响（ $P { = } 0 . 0 5$ ），论文图表由Origin9.0 绘制完成。
+
+# 2结果与分析
+
+2.1去皮处理对不同龄级木麻黄枝条NSC及其组分含量提取的影响
+
+去皮处理后，不同龄级木麻黄枝条提取的可溶性糖、淀粉和 NSC 含量均低于未去皮处理（图1）。从不同龄级来看，去皮后木麻黄幼龄林和中龄林枝条提取的可溶性糖含量下降幅度最大，与对照相比分别下降 $5 1 . 7 1 \%$ 和 $8 6 . 7 6 \%$ ，且达到了显著程度（ $_ { . P < 0 . 0 5 }$ ）（图1-A，B），成龄林虽有下降，但差异不显著（图1-C）；去皮后木麻黄提取的淀粉含量下降幅度较小，不同龄级差异均不显著；去皮后木麻黄幼龄林提取的 NSC 含量下降 $34 . 4 2 \%$ ，与对照相比差异达到显著程度 ( $\cdot P { < } 0 . 0 5 \$ ），而其它两个龄级差异不显著。龄级越小，去皮预处理对木麻黄提取的NSC 及其组分含量影响越大，尤其以可溶性糖含量影响最为明显。
+
+![](images/00c2569d71051b6dadef778189208bf8af2a2c30016a30211eb2258f95d4fbdd.jpg)  
+图1、木麻黄去皮-未去皮样品提取的可溶性糖、淀粉及NSC（可溶性糖 $+$ 淀粉）含量，柱状图上的不同字母表示在0.05 置信度下有显著性差异（向下的误差棒分别为可溶性糖及淀粉，向上的误差棒为NSC）。
+
+Fig.1Soluble suger,starch and NSC（soluble suger $^ +$ starch）contents extracted from Casuarina peeled - not peeled samples.Different letters on top of the column were considered significant at $\mathrm { P } { < } 0 . 0 5$ level （the error bars for soluble sugars and starch are both downward,and the upward error bars are for NSC）.
+
+2.2不同过筛目数对沙生植物枝（茎）与叶NSC及其组分含量提取的影响
+
+2.2.1不同过筛目数对沙生植物枝（茎）NSC及其组分含量提取的影响
+
+随着过筛目数增加，不同沙生植物枝（茎）提取的NSC 及其组分含量总体呈增加趋势（图2）。与18目相比，过筛100目后雏形、发育和稳定阶段沙堆表面老鼠苏茎提取的 NSC含量分别增加了 $5 3 . 8 \%$ 、 $4 5 . 2 \%$ 和 $3 6 . 1 \%$ （图2-A，B，C），成龄林木麻黄枝提取的NSC 含量增加幅度最大，达到了 $1 1 4 . 2 \%$ （图2-D），且均达到显著趋势（ $\cdot P { < } 0 . 0 5 \rangle$ ）；与18目相比，过筛100 目后发育和稳定阶段沙堆表面老鼠芳、成龄林木麻黄枝（茎）提取的可溶性糖含量分别增加 $59 . 4 \%$ 、 $56 . 5 \%$ 和 $2 8 4 . 8 \%$ ，雏形阶段沙堆表面老鼠苏茎提取的淀粉含量增加 $5 3 . 1 \%$ 且均达到显著趋势（ $\cdot P { < } 0 . 0 5$ ）。其它沙生植物枝（茎）样品随着过筛目数增加提取的可溶性糖、淀粉和 NSC 含量虽有增加，但变化均不显著（图2-E，F）。
+
+![](images/71a22424537b0f2b363dfd380d33952f02414f51ce255d9e7ec82419f35f9f33.jpg)  
+图2不同沙生植物枝样品提取的可溶性糖、淀粉及NSC（可溶性糖 $+$ 淀粉）含量，柱状图上的不同字母表示在0.05 置信度下有显著性差异（向下的误差棒分别为可溶性糖及淀粉，向上的误差棒为NSC）。
+
+Fig.2 Variation of soluble sugar,starch and NSC（soluble suger $^ +$ starch）contents extracted from branches of psammophytes passed through diferent mesh sreens.Diferent leters on top of the column were considered significant at $P { < } 0 . 0 5$ level.(the error bars for soluble sugars and starch are downward,and the upward error bars are for NSC）.
+
+# 2.2.2不同过筛目数对沙生植物叶片NSC及其组分含量提取的影响
+
+过筛目数对于不同沙生植物叶片提取的NSC 及其组分含量总体影响不大（图3）。随着过筛目数增加，不同演化阶段沙堆表面老鼠苏叶片提取的NSC及其组分含量均呈现轻微升高趋势，与18目相比，过筛 100目后雏形阶段沙堆表面老鼠苏叶片提取的淀粉含量升高了 $20 . 2 \%$ ，发育阶段沙堆表面老鼠苏叶片提取的可溶性糖含量升高了 $78 . 9 \%$ ，两者均达到了显著程度（ $\cdot P { < } 0 . 0 5$ ），稳定阶段沙堆表面老鼠苏叶片提取的NSC及其组分含量虽有轻微升高趋势，但变化均不显著（图3-A，B，C）。而木麻黄成龄林、厚藤和海马齿叶片（同化枝）提取的NSC 及其组分含量随过筛目数增加均无明显变化趋势（图3-D，E，F）。
+
+![](images/aac289b146377ac9ead34cb4261d8d52aa80c2a1052b21e9e583688c6183e748.jpg)  
+图3沙生植物叶片提取的可溶性糖、淀粉及NSC（可溶性糖 $+$ 淀粉）含量，柱状图上的不同字母表示在0.05置信度下有显著性差异（向下的误差棒分别为可溶性糖及淀粉，向上的误差棒为NSC）。
+
+Fig.3Variation of soluble sugar, starch and NSC（soluble suger $^ +$ starch）contents extracted from leaves of psammophytes passed through diferent mesh screens.Diferent leters on top of the column were considered significant at $\scriptstyle P < 0 . 0 5$ level.(the error bars for soluble sugars and starch are downward,and the upward error bars are for NSC）.
+
+# 3.讨论
+
+去皮处理后，不同龄级木麻黄枝条提取的NSC及其组分含量均低于未去皮处理，尤其以可溶性糖含量影响最为明显。NSC 在树干中的空间分布仍然存在着很多存在争议（Hartmann＆Trumbore，2016），但大部分研究认为，树皮中的NSC含量均显著高于木质部。成方妍等对黑龙江省帽儿山三个树种NSC 研究表明，树皮NSC 平均储量分别是边材和心材储量的3和5倍（成方妍和王传宽，2016）。本文样品采集时间为12月初，此时植物遭受的低温、干旱和盐分胁迫最为严重，树皮中较高的可溶性糖含量有助于其维持渗透压，从而保证水力传输的稳定（OBrienetal，2014），导致去皮后提取的可溶性糖含量出现了显著下降。与成龄林相比，幼龄林与中龄林根系均不发达，树干储存的NSC 总量也相对较少，对外界环境胁迫的适应能力相对较弱，而树皮中较高的可溶性糖含量有助于其维持一定的茎叶水势，保证碳水化合物的持续合成，进而有利于其稳定生长（Nardini etal，2016）。因此去皮后，幼龄林与中龄林提取的可溶性糖含量相对于成龄林下降更为显著。
+
+随着过筛目数增加，不同沙生植物枝（茎）样品提取的可溶性糖、淀粉和NSC 含量总体呈增加趋势，这与王文杰等人的研究结果较为一致（王文杰等，2009）。同样的提取时间内，过筛目数越大，样品颗粒越小，比表面积越大，待测组分越容易被提取（Mosharraf&Nystrom，1995）。本实验采用酒精提取不同沙生植物枝（茎）样品可溶性糖及淀粉，粒度不同则在相同时间下提取的可溶性糖含量也不同（岑沛霖等，1995）。因此样品过筛目数越大，其提取的 NSC 及其组分含量越大。此外，不同沙生植物枝（茎）样品解剖结构不同，其机械组织含量也有很大差异（沈广爽等，2014），本身也会阻碍相关组分的溶出，进而影响到提取的NSC及其组分含量。厚藤和海马齿茎部提取的NSC 及其组分含量随过筛目数的增加差异不显著。主要在于厚藤属于草质藤本，海马齿属于肉质草本，二者茎部木质化程度均较低，机械组织含量少，使得茎部的强度与韧性相对偏低（Wilson，1965），烘干后相对于木麻黄与老鼠苏更易磨碎，导致茎样品过筛不同目数后粒度差异相对较小，同样时间下提取的 NSC 及其组分含量差异不显著。而成龄林木麻黄及不同演化阶段沙堆表面老鼠苏枝（茎）样品提取的NSC及其组分含量均随着过筛目数增加呈增大趋势，且多个组分差异显著。主要在于木麻黄属于多年生常绿乔木，随着树木的生长，其枝条木质化程度增加，而老鼠苏属于多年生小灌木状草本（杨显基等，2017a），茎部粗壮、具有丰富的厚壁细胞和纤维，机械组织发达，保护地上部分在刮风期间不被吹折。但同时也导致样品烘干后极难磨碎，过筛不同目数后样品粒度异质性较大，同样提取时间下NSC 及其组分含量差异相对显著。
+
+随着过筛目数增加，除老鼠苏叶片提取的部分NSC 组分有显著增加外，厚藤、海马齿和木麻黄叶片提取的 NSC 及其组分含量均变化不大。主要在于老鼠芳属于旱生植物，革质叶，质坚而厚，呈刺状（沈广爽等，2014），发达的机械组织有助于其抵御海岸地区风割沙埋（宋玉霞等，1997），也可以减少人畜踩踏。受其叶片强度及韧性影响，烘干后难以研磨，导致过筛不同目数后，叶片提取的部分NSC 组分差异较大。而厚藤和海马齿均为盐生植物，其表皮细胞角质膜较薄，维管组织和机械组织均不发达(李瑞梅等,2010;欧阳蒲月等,2011)，烘干后极易磨碎；木麻黄的叶子严重退化成同化枝，叶丛由具规则节间的节相连（安平和薛东育，1990），烘干后同化枝在咖啡机刀片的打磨下极易沿着规则节间断裂，使得研磨后的样品粒度均匀性较高，因此过筛不同目数后其提取的NSC及其组分含量差异均较小。
+
+# 4.结论
+
+准确量化植物NSC 含量对于理解不同沙生植物的适应策略具有重要的意义。本文以华南海岸4种典型沙生植物为例，研究样品预处理方法对其提取的 NSC及其组分含量的影响。结果表明，不同样品预处理方法对华南海岸典型沙生植物 NSC 及其组分含量提取影响很大。去皮处理会降低木麻黄样品提取的NSC 及其组分含量，龄级越小，影响越大，建议统一保留树皮；随着过筛目数增加，沙生植物枝（茎）样品提取的NSC 及其组分含量总体呈增大趋势，而叶样品提取的 NSC 及其组分含量差异不大。样品机械组织含量越高，粉碎后其颗粒的不均匀性越大，过筛目数对实验结果的影响越显著。加上本实验样品用量仅为 $2 0 \mathrm { m g }$ 与过筛18目的样品相比，样品的不均匀性导致过筛100 目后提取的NSC 及其组分含量差异进一步放大。但过筛目数越高，样品获取越困难，建议所有沙生植物枝叶样品均采用100目筛进行处理，以加强不同研究结果之间的可比性。
+
+# 参考文献
+
+ANP,XUEDY,1990.Morphological anatomy of four kindsof Casuarina’s assimilating branches [J].Fujian For Sci Technol,61(3):34-36.[安平，薛东育,1990．四种木麻黄同化枝的形态解剖[J]．福建林业科技,61(3): 34-36.]   
+BUYSSE J, MERCKX R,1993.An improved colorimetric method to quantify sugar content of plant tissue[J]. J Exp Bot, 44:1627-1629.   
+CEN PL,WUJ,ZHANG J,1995.Kinetics of concentrated sulfuric acid hydrolysis of plant fibres[J]. Chem React Eng Technol,122:35-47.[岑沛霖，吴健，张军,1993．植物纤维浓硫酸水解动力学研究[J]．化学反应工程 与工艺 (1):34-41.]   
+CHENG FY, WANG CK,2016.Impacts of tree species and tisse on estimation of nonstructural carbohydrates storage in trunk[J].Sci Silv Sin,52(2):1-9.[成方妍，王传宽,2016.树种和组织对树干非结构性碳水化合 物储量估测的影响[J]．林业科学,52(2):1-9.]   
+DUBOIS M,GILLES KA,HAMILTON JK,et al,1956. Colorimetric method for determination of sugars and related substances[J]. Anal Chem,28(3):350-356.   
+GIANNOCCARO E, WANG Y J,CHEN PY,2006. Efects of solvent, temperature,time,solvent-to-sample ratio, sample size,and defatting on the extraction of soluble sugars in soybean[J]. JFood Sci,71:C59-C64.   
+HARTMANN H, TRUMBORE S,2016.Understanding the roles of nonstructural carbohydrates in forest trees-from what we can measure to what we want to know[J].New Phytol,211: 386- 403.
+
+LI FM,LI T,LI W,et al,2O15.Changes in antioxidant capacity,levels of soluble sugar,total polyphenol. organosulfur compound and constituents in garlic clove during storage[J]. Ind Crop Prod, 69:137-142.
+
+LI RM,ZHOU GQ,FU SP, et al,2010.Leaf anatomical structure of Sesuvium portulacastrum L.under salt stres[J].Acta Bot Boreal-Occident Sin,30(2):287-292.[李瑞梅，周广奇，符少萍，等,2010．盐胁迫下海 马齿叶片结构变化[J]．西北植物学报,30(2):287-292.]   
+LIU D，WONG PTS,DUTKA BJ,1973.Determinationof carbohydrate in lake sediment bya modified phenol-sulfuric acid method[J]. Water Res,7(5):741-746.   
+MCCREADY R M, GUGGOLZ J, SILVIERA V, et al,1950. Determination of starch and amylose in vegetables[J]. Anal Chem,22(9):1156-1158.   
+MOSHARRAF M,NYSTROM C,1995.The effect of particle size and shape on the surface specific dissolution rate of microsized practically insoluble drugs [J]. Int JPharm,122:35-47.   
+NARDINI A,CASOLO V,DAL BORGO A, et al, 2016. Rooting depth, water relations and non-structural carbohydrate dynamics in three woody angiosperms differentially affected by an extreme summer drought[J]. Plant Cell Environ, 39: 618-627.   
+OBRIEN MJ,LEUZINGER S,PHILIPSON C D,et al,2014. Drought survival of tropical tree seedlings enhanced by non-structural carbohydrate levels[J]. Nat Clim Change,4: 710-714.   
+OUYANG M, YANG QP,QI HY, et al,2014. A comparison of seasonal dynamics of nonstructural carbohydrates for deciduous and evergreen landscape trees in subtropical region, China[J]. JNanjing Fore Univ (Nat Sci Ed) (2):105-110.[欧阳明，杨清培，祁红艳,等,2014.亚热带落叶与常绿园林树种非结构性碳水化合物的季 节动态比较[J]．南京林业大学学报(自然科学版)(2):105-110.]   
+OUYANG PY,LIUN,ZHANG WW, et al,2011. Bio-physiological properties of Ipomoea Pescaprae [J]. JHunan Sci-Technol Univ (Nat Sci Ed),26(4):117-121.[欧阳蒲月，刘楠，张伟伟，等,2011．海滩植物厚藤 (Ipomoea pescaprae）的生物学及生理生态特性[J]．湖南科技大学学报(自然科学版),26(4):117-121.]   
+PAN QM, HAN XG,BAIYF,et al,2002. Advances in physiologyand ecology studies on stored non-structure carbohydrates in plants[J].Chin BullBot,19(1):30-38.[潘庆民，韩兴国，白永飞,等,2002．植物非结构性 贮藏碳水化合物的生理生态学研究进展[J]．植物学通报,19(1):30-38.]   
+QUENTIN AG, PINKARD EA, RYAN MG, et al, 2015. Non-structural carbohydrates in woody plants compared among laboratories[J]. Tree Physiol, 35:1146-1165.   
+RAESSLER M,WISSUWA B,BREUL A,et al,2010. Chromatographic analysis of major non-structural carbohydrates in several wood species-an analytical approach for higher accuracy of data[J]. Anal Methods,
+
+2(5):532-538.
+
+ROSAS T,GALIANOL,OGAYAR,et al,2013.Dynamicsofnon-structural carbohydrates in three Mediterranean woody species following long-term experimental drought[J]. Front Plant Sci, 4:1-16.
+
+SHEN GS,SHI XQ,GU S,et al,2014.Anatomical structures and ecological adaptability research of nine species of psammophytes on beach[J].Guihaia,34(2):263-268.[沈广爽，石雪芹，古松，等,2014.九种海滨沙生植 物解剖构造及其生态适应性研究[J].广西植物,34(2):263-268.]
+
+SONG YX,YUWP,YULY,etal,997.Ananatomicalstudyon xeromorphic structureof thediferentlifeformplants in Helan Mountain[J].Acta Bot Boreal-Occident Sin,17(5): 61-68.[宋玉霞，于卫平，王立英，等,1997．贺兰山 10 种不同生活型植物的旱生结构研究[J]．西北植物学报,17(5):61-68.]
+
+WANG WJ,SUN W, WANG Y,et al,20o9. Influences ofsample preparation methods on determinationof soluble sugars in trunk of korean pine by HPLC method[J].JNE For Univ,37(3):76-78.[王文杰，孙伟，王宇，等, 2009.样品制备方法对高效液相色谱法测定红松树干中可溶性糖的影响[J]．东北林业大学学报, 37(3):76-78.]
+
+WILSON D,1965.Nutritive value and the genetic relationships of cellulose content and leaf tensile strength in Lolium [J]. JAgr Sci, 65(3):285-292.
+
+XI XG,WEIXL,WANGYF,etal,2010.Determinationof tea polysaccharides in Camellia sinensis byamodified phenol-sulfuric acid method[J].Arch Biol Sci, 62(3):669-676.
+
+YANG XJ,DU JH, QIN J,etal,2017a.Theresponses of leaf water potential ofa typical psammophyte Spinifex litoreus to wind erosion,sand burial and sand flow abrasion in coastal area of Pingtan Island[J]. Chin JEcol, 36(5):1215-1223.[杨显基，杜建会，秦晶，等,2017a.海岸沙生植物老鼠苏(Spinifex litoreus)叶水势对风 蚀、沙埋和风沙流磨蚀的响应[J].生态学杂志,36(5):1215-1223.]
+
+YANG XJ,DUJH,QINJ,et al,2017b.Diurnal variation characteristicsofleaf water potentialof Spinifex lioreus on the nebkhas in different succession periods on the coast of Pingtan Island,Fujian Province, China[J]. Chin JAppl Ecol,28(10):3260-3266.[杨显基，杜建会，秦晶，等,2017b．福建平潭岛海岸不同演化阶段草丛 沙堆表面老鼠苏叶水势日变化特征[J]．应用生态学报,28(10):3260-3266.]
+
+YEMMEW,WILLIS AJ,1954.The estimation of carbohydrates in plant extracts by anthrone[J].Biochem J, 57(3):508-514.

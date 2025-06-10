@@ -1,0 +1,209 @@
+# Numerical experiments on the evolution in coronal magnetic configurations including a filament in response to the change in the photosphere \*
+
+Hong-Juan Wangl, Si-Qing Liu1, Jian-Cun Gong1 and Jun Lin²
+
+1 Center for Space Science and Applied Research, Chinese Academy of Sciences, Beijing 100190, China; whj@nssc.ac.cn 2 Yunnan Observatories, Chinese Academy of Sciences, Kunming 650011, China
+
+Received 2014 May 11;accepted 2014June 17
+
+Abstract We investigate equilibrium height of a flux rope,and its internal equilibrium in a realistic plasma environment by carrying out numerical simulations of the evolution of systems including a current-carrying flux rope.We find that the equilibrium height of a flux rope is approximately described by a power-law function of the relative strength of the background field. Our simulations indicate that the flux rope can escape more easily from a weaker background field. This further confirms that a catastrophe in the magnetic configuration of interest can be triggered by a decrease in strength of the background field. Our results show that it takes some time to reach internal equilibrium depending on the initial state of the flux rope.The plasma flow inside the flux rope due to the adjustment for the internal equilibrium of the flux rope remains small and does not last very long when the initial state of the flux rope commences from the stable branch of the theoretical equilibrium curve.This work also confirms the influence of the initial radius of the flux rope in its evolution; the results indicate that a flux rope with a larger initial radius erupts more easily. In addition, by using a realistic plasma environment and a much higher resolution in our simulations, we notice some different characteristics compared to previous studies in Forbes.
+
+Key words: Sun: eruptions - Sun: magnetic fields - magnetohydrodynamics (MHD)— numerical experiments
+
+# 1INTRODUCTION
+
+The most intense energetic activity in the solar system may be solar coronal mass ejections (CMEs). During this process, a large number of magnetized energetic plasmas (with a mass of up to $\mathrm { 1 0 ^ { 1 6 } ~ g }$ and an energy of $1 0 ^ { 3 2 }$ erg) are ejected into interplanetary space within a short timescale,and hence disturb the spatial and planetary magnetic field and significantly afect satellite operation,aviation equipment and flight paths, human space exploration,communication and so on (Chen et al. 2002; Schwenn 2006; Pulkkinen 2007; Lin 2007; Chen 2011; Mei et al.2012b; Shen et al.2013; Li & Zhang 2O13,and references therein).
+
+It is generally believed that two processes are involved in intense solar activities and eruptions. The first one is called the storage phase,in which the magnetic flux transported from the photosphere slowly accumulates in the corona, leading to a gradual increase of magnetic energy in the corona. The timescale of the magnetic storage phase is typically several days,so this phase can be considered as evolving through a series of equilibria in quasi-static processes. When the stored magnetic energy surpasses critical values,the equilibrium willbe broken,and the eruptive phase,i.e.the second process,willoccur.The system in this phase will promptly expand on a dynamic timescale of a few minutes (i.e.in Alfvén time scales)due to the loss of balance.Transition from the quasi-static evolution to the dynamic phase leads to a so-called catastrophe (e.g. Forbes & Isenberg 1991; Isenberg et al.1993; Forbes & Priest 1995; Forbes 1990,2000; Lin& Forbes 2000; Lin et al.2006; Yu 2012, and the references therein).
+
+It is well known that the motion of the photospheric material transports energy to the coronal magnetic field that drives the eruption, so triggering and the consequent propagation of CMEs are governed by changes in the photosphere.Recently,based on an MHD simulation, some authors (Zhang et al.2011; Welsch et al.2011; Kusano et al.2012; Kliem et al.2013,and references therein) investigated how physical features in the photosphere influence evolution in the coronal magnetic configuration,as well as the initiation of CMEs.However, without detailed observations or theoretical simulations,determinations of how the onset of CMEs occurs still remain unclear.
+
+The decay of the background magnetic field may cause the CME progenitor structure to deviate from equilibrium,as shown in Isenberg et al.(1993)and Lin et al.(1998). This decay could be a consequence of the magnetic diffusion that leads to the formation, as well as the eruption of a flux rope (Mackay & van Ballegooijen 2Oo6). Gradually decreasing the background field may also cause the state of the flux rope to transit catastrophically from the old equilibrium to the new one (Forbes & Isenberg 1991; Isenberg et al.1993).Lin et al. (1998)analytically extended this work to include the curvature force that creates an additional outward force,and further realized that, in addition to the impact of the background field,the radius of a flux rope plays an important role in its eruption. However, these results are constrained by the analytical method.Although Wang et al.(2009) and Mei et al.(2Ol2a) numerically investigated the evolution of a flux rope,the initial distribution of plasma density in the background field in their simulations is a bit far from the realistic case.
+
+In this paper we will numerically investigate the evolution of the magnetic configuration and a current-carrying flux rope while considering the effect of gravitational stratification and a more realistic distribution of plasma density in the background field.This approach is crucial for the generation of CMEs.Understanding the catastrophe model of CMEs can alow us to further study the solar-terrestrial relationship.In addition,a number of numerical experiments have also been carried out to study how variations in the background fields trigger the eruption of the flux rope and details of how the radius of the flux rope influences the eruption.In Section 2,we describe the physical model,formulae and numerical approaches.The numerical results are presented in Section 3. We provide a discussion and draw conclusions in Section 4.
+
+# 2PHYSICALMODEL ANDNUMERICALMETHOD
+
+We consider that a prominence or filament floating in the corona can be represented by a currentcarrying flux rope,and the photospheric background field can be represented by a linear dipole below the photosphere.We assume there is a two-dimensional magnetic configuration in a semiinfinite $x { - } y$ plane in Cartesian coordinates.In the coordinates, $y = 0$ is assumed to be the boundary between the photosphere and the chromosphere,and $y > 0$ corresponds to the chromosphere and the corona. The location of the flux rope in our simulations is assumed to be $y = h$ above the boundary $y = 0$ ,and the depth of the photospheric background field is $y = - d$ below $y = 0$ . The empirical atmosphere model described in Sitler & Guhathakurta (1999)(hereafter S&G) is used for the initial background field density $\rho _ { 0 } ( y )$ . The evolution of the magnetic system should satisfy the following
+
+ideal magnetohydrodynamic (MHD) equations:
+
+$$
+\begin{array} { r l } & { \frac { \partial \rho } { \partial \lambda } + \rho \nabla \cdot \boldsymbol { v } = \boldsymbol { 0 } , } \\ & { \rho \frac { \partial \boldsymbol { v } } { \partial t } = - \nabla p + \frac { 1 } { c } \boldsymbol { J } \times \boldsymbol { B } + \rho \frac { G \mathcal { M } _ { \odot } } { ( R _ { \odot } + y ) ^ { 2 } } , } \\ & { \rho \frac { \partial } { \partial t } ( { \boldsymbol e } / \rho ) = - p \nabla \cdot \boldsymbol { v } , } \\ & { \frac { \partial \boldsymbol { B } } { \partial t } = \nabla \times ( \boldsymbol { v } \times \boldsymbol { B } ) , } \\ & { \boldsymbol { J } = \frac { c } { 4 \pi } \nabla \times \boldsymbol { B } , } \\ & { p = ( \gamma - 1 ) \boldsymbol { e } , } \\ & { p = \rho K \boldsymbol { J } / m , } \end{array}
+$$
+
+where $B$ represents the magnetic field, $J$ the electric current density, $\rho$ the mass density, $\boldsymbol { v }$ the velocity of the flow, $p$ the gas pressure, $e$ the internal energy density, $\gamma$ the ratio of specific heats, $G$ the gravitational constant, $M _ { \odot }$ the solar mass, $R _ { \odot }$ the solar radius and $m _ { p }$ the proton mass. Equations in (1) are numerically solved by using the ZEUS-2D MHD code described in Stone & Norman (1992a,b); Stone et al. (1992).
+
+The magnetic configuration in our simulations is composed of the current-carrying flux rope, the image of the current inside the flux rope,and the background magnetic field.We assume that the background field is generated by a linear dipole below the bottom of the chromosphere (Forbes 1990; Wang etal.2OO9). The relative strength of the dipole field $M$ can be defined bya dimensionless parameter $M = m / ( I d )$ ,which is related to the ratio of the strength of the dipole field $m$ and the product of the filament current $I$ and the depth $d$ of the dipole field.
+
+The initial magnetic configuration from which the eruption occurs is given by
+
+$$
+\begin{array} { r l } & { B _ { x } = B _ { \phi } ( R _ { - } ) ( y - h _ { 0 } ) / R _ { - } - B _ { \phi } ( R _ { + } ) ( y + h _ { 0 } ) / R _ { + } } \\ & { \qquad - B _ { \phi } ( r + \Delta / 2 ) M d ( r + \Delta / 2 ) [ x ^ { 2 } - ( y + d ) ^ { 2 } ] / R _ { d } ^ { 4 } , } \\ & { B _ { y } = - B _ { \phi } ( R _ { - } ) x / R _ { - } + B _ { \phi } ( R _ { + } ) x / R _ { + } } \\ & { \qquad - B _ { \phi } ( r + \Delta / 2 ) M d ( r + \Delta / 2 ) 2 x ( y + d ) / R _ { d } ^ { 4 } , } \end{array}
+$$
+
+with
+
+$$
+\begin{array} { c } { { R _ { \pm } ^ { 2 } = x ^ { 2 } + ( y \pm h _ { 0 } ) ^ { 2 } , } } \\ { { R _ { d } ^ { 2 } = x ^ { 2 } + ( y + d ) ^ { 2 } . } } \end{array}
+$$
+
+As for the initial background plasma density $\rho _ { 0 } ( y )$ , we use an empirical atmosphere given by the S&G model:
+
+$$
+\begin{array} { l } { \rho _ { 0 } ( y ) = \rho _ { 0 0 } f ( y ) , \qquad } \\ { f ( y ) = a _ { 1 } z ^ { 2 } ( y ) e ^ { a _ { 2 } z ( y ) } [ 1 + a _ { 3 } z ( y ) + a _ { 4 } z ^ { 2 } ( y ) + a _ { 5 } z ^ { 3 } ( y ) ] , } \\ { z ( y ) = \cfrac { R _ { \odot } } { R _ { \odot } + y } , } \end{array}
+$$
+
+where $\rho _ { 0 0 } = 1 . 6 7 2 \times 1 0 ^ { - 1 3 } \ \mathrm { g \ c m ^ { - 3 } }$ ，which is about one order of magnitude smaller than that in our previous work $( \sim 1 0 ^ { - 1 2 } \ \mathrm { g \ c m ^ { - 3 } }$ ,Wang et al. 2009), and $a _ { 1 } = 0 . 0 0 1 2 7 2$ ， $a _ { 2 } \ = \ 4 . 8 0 3 9$ $a _ { 3 } = 0 . 2 9 6 9 6$ ， $a _ { 4 } = - 7 . 1 7 4 3$ and $a _ { 5 } = 1 2 . 3 2 1$ . The height $y$ is measured from the surface of the Sun. Equations (4) describe a slowly decreasing density distribution $f ( y )$ for the atmosphere in the lower corona.This density distribution was supported by the radio observations of type I bursts over a wide frequency band of a few kHz to $1 3 . 8 \mathrm { M H z }$ (Leblanc et al. 1998; Lin 2002). The density model considered in this work is more realistic than that used in previous work (Wang et al. 2009; Mei et al. 2012a).
+
+For the initial background atmosphere, there is a balance between the pressure gradient of gas and gravity
+
+$$
+\nabla p _ { 0 } ( y ) = - \rho _ { 0 } ( y ) \frac { G M _ { \odot } } { ( R _ { \odot } + y ) ^ { 2 } } .
+$$
+
+From Equations (4) and (5), we can find the relation between the initial background pressure $p _ { 0 } ( y )$ and the temperature distribution $T _ { 0 } ( y )$ as follows
+
+$$
+p _ { 0 } ( y ) = \frac { \rho _ { 0 } ( y ) } { m _ { p } } k T _ { 0 } ( y ) ,
+$$
+
+where $k$ is the Boltzmann constant.
+
+Subsequently the initial total pressure,including the gas pressure and the magnetic pressure, and the mass density can be written as
+
+$$
+\begin{array} { l } { { p = p _ { 0 } - \displaystyle \int _ { R _ { - } } ^ { \infty } B _ { \phi } ( R ) j ( R ) d R , } } \\ { { \rho = \rho _ { 0 } ( p / p _ { 0 } ) ^ { 1 / \gamma } . } } \end{array}
+$$
+
+$B _ { \phi } ( R )$ in Equations (2),(3) and (7) is determined by the electric current density distribution $j ( R )$ inside the flux rope,and reads as
+
+$$
+\begin{array} { r l } { B _ { \phi } ( R ) = \displaystyle - \frac { 2 \pi } { c } j _ { 0 } R , \mathrm { f o r } \ \mathfrak { q } \le R \le r - \Delta / 2 , } \\ { B _ { \phi } ( R ) = \displaystyle - \frac { 2 \pi j _ { 0 } R } { c R } \left\{ \frac { 1 } { 2 } \left( r - \frac { \Delta } { 2 } \right) ^ { 2 } - \left( \frac { \Delta } { \pi } \right) ^ { 2 } + \frac { 1 } { 2 } R ^ { 2 } + \frac { \Delta R } { \pi } \sin \left[ \frac { \pi } { \Delta } \left( R - r + \frac { \Delta } { 2 } \right) \right] \right. } \\ & { \quad \quad \quad \quad \left. + \left( \frac { \Delta } { \pi } \right) ^ { 2 } \cos \left[ \frac { \pi } { \Delta } \left( R - r + \frac { \Delta } { 2 } \right) \right] \right\} , \mathrm { f o r } r - \Delta / 2 < R < r + \Delta / 2 , } \\ { B _ { \phi } ( R ) = \displaystyle - \frac { 2 \pi j _ { 0 } R } { c R } \left[ r ^ { 2 } + ( \Delta / 2 ) ^ { 2 } - 2 ( \Delta / \pi ) ^ { 2 } \right] , \mathrm { f o r } r + \Delta / 2 \le R < \infty ; } \\ { j ( R ) = j _ { i } , \mathrm { f o r } \ \mathfrak { q } \le R \le r - \Delta / 2 , } \\ { j ( R ) = \frac { j _ { 0 } } { 2 } \cos \ln ( R - r + \Delta / 2 ) / \Delta ) + 1 , \mathrm { f o r } \ r - \Delta / 2 < R < r + \Delta / 2 , } \\ { j ( R ) = 0 , \mathrm { f o r } \ r + \Delta / 2 \le R < \infty . } \end{array}
+$$
+
+We take the computational domain to be $( - 4 L , 4 L ) \times ( 0 , 8 L )$ with $L = 1 0 ^ { 5 } ~ \mathrm { k m }$ ，and the arrangement of grid points to be $8 0 0 \times 8 0 0$ . A line-tied condition is applied to the bottom boundary at $y = 0$ ,while an open boundary condition is used for the other three.The initial values of the parametersin our simulations arelisted in Table 1.
+
+# 3RESULTS
+
+In this section, we present results of the numerical experiments.In order to understand the evolutionary process more comprehensively, we carried out a set of numerical experiments. The parameters and their values for the experiments are listed in Table 2.Totally,18 cases are investigated,in which two correspond to a stable equilibrium (cases 1 and 9),and the rest correspond to states of nonequilibrium.
+
+Table1 Initial Values for the Important Parameters in the Numerical Experiments   
+
+<html><body><table><tr><td>p00 (g cm-3)</td><td>Too (K)</td><td>j00 (statamp cm-2)</td><td>Y</td></tr><tr><td>1.672 × 10-13</td><td>106</td><td>1200</td><td>5/3</td></tr></table></body></html>
+
+Notes: $\rho _ { 0 0 }$ is the initial plasma density; $T _ { 0 0 }$ the initial temperature; $j _ { 0 0 }$ the initial electric current density,and $\gamma$ is the ratio of specific heats.
+
+Table2 Parameters and Their Values forDifferent Cases in the Simulations   
+
+<html><body><table><tr><td>Case</td><td>M</td><td>d (km)</td><td>ho/d</td><td>ro/d</td><td>ro/△</td></tr><tr><td>1</td><td>2.25</td><td>0.125 × 105</td><td>0.5</td><td>0.2</td><td>2</td></tr><tr><td>2</td><td>1.0</td><td>0.125 ×105</td><td>0.5</td><td>0.2</td><td>2</td></tr><tr><td>3</td><td>1.0</td><td>1.0 × 105</td><td>0.125</td><td>0.03</td><td>2</td></tr><tr><td>4</td><td>1.0</td><td>1.0 × 105</td><td>0.125</td><td>0.05</td><td>2</td></tr><tr><td>5</td><td>2.0</td><td>1.0 × 105</td><td>0.125</td><td>0.05</td><td>2</td></tr><tr><td>6</td><td>3.0</td><td>1.0 × 105</td><td>0.125</td><td>0.05</td><td>2</td></tr><tr><td>7</td><td>4.0</td><td>1.0 × 105</td><td>0.125</td><td>0.05</td><td>2</td></tr><tr><td>8</td><td>5.0</td><td>1.0 ×105</td><td>0.125</td><td>0.05</td><td>2</td></tr><tr><td>9</td><td>5.06</td><td>1.0 ×105</td><td>0.125</td><td>0.05</td><td>2</td></tr><tr><td>10</td><td>5.25</td><td>1.0 × 105</td><td>0.125</td><td>0.05</td><td>2</td></tr><tr><td>11</td><td>5.5</td><td>1.0 × 105</td><td>0.125</td><td>0.05</td><td>2</td></tr><tr><td>12</td><td>5.75</td><td>1.0 ×105</td><td>0.125</td><td>0.05</td><td>2</td></tr><tr><td>13</td><td>6.0</td><td>1.0 × 105</td><td>0.125</td><td>0.05</td><td>2</td></tr><tr><td>14</td><td>6.5</td><td>1.0 × 105</td><td>0.125</td><td>0.05</td><td>2</td></tr><tr><td>15</td><td>0.0</td><td>0.625× 104</td><td>2</td><td>0.8</td><td>2</td></tr><tr><td>16</td><td>1.0</td><td>0.625 ×104</td><td>2</td><td>0.8</td><td>2</td></tr><tr><td>17</td><td>1.5</td><td>0.625 × 104</td><td>2</td><td>0.8</td><td>2</td></tr><tr><td>18</td><td>2.0</td><td>0.625×104</td><td>2</td><td>0.8</td><td>2</td></tr></table></body></html>
+
+Now we take case 16 as an example to show how evolution progresses from its initial state to nonequilibrium.Figure 1 illustrates the evolution of the magnetic field and the plasma density as the eruption progresses for case 16.Black solid lines represent the magnetic field lines and shadings show the density distribution. In this case,the initial state is not in equilibrium.Because the magnetic compression outstrips the magnetic tension,the flux rope begins to rise quickly from the start of the experiment.The closed magnetic field lines become stretched with the lift-off of the flux rope, and the X-type neutral point appears on the boundary surface in the magnetic configuration with time progressing.This magnetic topology means that magnetic reconnection occurs,i.e. there exists magnetic diffusion, which can convert magnetic energy to heating and the kinetic energy of the plasma. In our experiments,although no physical diffusion is included in Equations (1), the results of numerical diffusion are equivalent to the result of physical diffusion (e.g.see the detailed discussions given by Wang et al.2Oo9).Moreover, we can notice in these panels that propagation of the fast shock Occurs,which appears as a crescent feature around the flux rope (Wang et al. 2Oo9 and Mei et al. 2012a).
+
+# 3.1Relation between Equilibrium Height of the Flux Rope and the Relative Strength of the BackgroundField
+
+In this section,we study the final height of the flux rope in equilibrium as a function of the relative background field $M$ (the ratio of the strength of dipole field $m$ to the product of the filament current $I$ and the depth $d$ of the dipole field). Since this study is based on the equilibria curve through theoretical analysis that is described in Forbes (199O),we choose the same radius and initial height of the flux rope, except for different values of parameter $M$ for cases 4-12. According to equation (3) in Forbes (199O),the flux rope is only in stable equilibrium for case 9.Cases 3-8 and 1O-12 are in nonequilibrium at the initial time.On the basis of equation (3) in Forbes (1990), $M = 5 . 0 6$ isa critical point, i.e. when $M < 5 . 0 6$ ,the final flux rope height is higher than the initial height; when $M > 5 . 0 6$ ,the final height is lower than the initial one.However,in our numerical experiment, the value of the critical point becomes $M \approx 5 . 2 5$ ：
+
+![](images/4210712197375fad90ae3208b82f6026a59e6f91788a4ec86fddbc41facf15e5.jpg)  
+Fig.1 Evolution of the magnetic field (black contours) and the plasma density (shadings) as the eruption progresses for case 16.Propagation of the fast-mode shock around the flux rope is clearly seen. An $\mathrm { \Delta X }$ -type neutral point is distinct at $t ~ = ~ 6 0 0 \mathrm { s }$ .The unit is second.The right color bar represents values of the density in $\log \rho ( \mathrm { g c m } ^ { - 3 } )$ ：
+
+In order to obtain visual information,we plot Figure 2,which displays the final height of the flux rope as a function of the relative dipole strength $M$ . Solid points indicate the final location of the flux rope.The starting point of the flux rope is at the location $h / d = 0 . 1 2 5$ . The dashed line is for the initial height. The red solid line is a fitting curve of the numerical results,which shows the power-law function $h / d = 1 0 ^ { - 0 . 1 } M ^ { - 1 . 1 }$ .From Figure 2, we can see that the final height of the flux rope is a power-law function of the relative strength of the dipole field $M$ when $M \leq 5 . 2 5$ As $M \leq 5 . 2 5 - 0 . 3$ ,the location at which the flux rope stops is higher than the starting location of the flux rope.However, when $M \geq 5 . 2 5 + 0 . 3$ ,the final location of the flux rope is lower than the starting location of the flux rope. For $M = 5 . 7 5$ , the stopping height of the flux rope is about 0.057, less than the initial height of 0.125. So at $M = 5 . 2 5 \pm 0 . 3$ ,there appears to be a transition in the height at which the flux rope stops. The transition from upward to downward motion takes place at about $M \approx 5 . 2 5$ ,which is close to $M = 5 . 0 6$ that is predicted by the vacuum equilibrium model for a filament or prominence with radius $0 . 0 5 d$ (see eq. (3) in Forbes 1990).
+
+![](images/e73e05deb575a1dd0a7fa51759b4bf71a8a76e7ce8dbf13f6fb4c176177b2f44.jpg)  
+Fig.2 The final height of the flux ropes as a function of the relative dipole magnetic field strength $M$ = Solid points indicate the final location of the flux rope.The dashed line denotes the initial height of the flux rope at $h / d = 0 . 1 2 5$ .The red solid curve is a freehand interpolation of the numerical results, and it displays the power-law function $h / d = 1 0 ^ { - 0 . 1 } M ^ { - 1 . 1 }$ ,where $d$ is the depth of the background dipole field,and $M$ is a dimensionless parameter which gives the relative strength between the dipole and the filament current.
+
+Our results indicate that, from $M \approx 5 . 0$ to $M \approx 5 . 2 5$ ,the final location of the flux rope is gradually changing,rather than steeply changing like in Forbes (199O). This is probably because of the much higher resolution in our simulations,resulting from the double grid and the increased number of grid points in the ZEUS-2D MHD code.
+
+# 3.2Evolution of the System with Different Background Fields
+
+In this section, we focus on the influence of the background field on the evolution of the magnetic system.First, in order to solve a few open questions in the work of Forbes (199O) and compare our results with his,we investigate the influence of the different $M$ on the evolution of the system.The cases 15-18 are presented with different $M$ given the same $d$ $h _ { 0 }$ and $r _ { 0 }$
+
+Figure 3 plots the height of the flux rope $h$ as a function of time with different $M$ . When the background field is equal to zero $M = 0 . 0 \AA$ ,the initial repulsive force on the flux rope is large, and the flux rope promptly rises at the beginning. This agrees with the result in Forbes (1990), when $M = 0 . 0$ ，at about $t = 2 . 0 \mathrm { s }$ the flux rope's speed begins to increase again. However, after about $t ~ = ~ 2 . 0 ~ \mathrm { s }$ ，our flux rope's trajectory differs from the result of Forbes (199O).Figure 8 in Forbes (1990) shows that at about $t = 2 . 0 \mathrm { ~ s ~ }$ and $M = 0 . 0$ ,the speed of the flux rope becomes warped. However, this warp is not represented in our simulations. The reasons why we have different results are: 1) this increase could be a numerical artifact of the open boundary conditions; or 2) it is because of the lack of a gravitationally stratified solar atmosphere.In this work,we used the same boundary conditions as Forbes (199O)and considered the gravitationally stratified background solar atmosphere.By comparing our numerical simulations with Forbes (199O),we find that the warp of the height of flux rope may be eliminated by the gravitational stratification effect.The flux rope when $M = 1$ in the work of Forbes (199O) stops at some height after it starts rising at the very beginning,and then moves slightly downward before continuing to rise further. Our results indicate that the gravitationally stratified medium can account for this phenomenon.
+
+At the beginning of the experiment, the flux rope keeps rising rapidly until the magnetic tension produced by the stretching of the line-tied field lines becomes large enough to slow down its upward motion. The Lorentz force $\pmb { J } \times \pmb { B }$ plays a main role in decreasing the initially upward velocity of the flux rope.From Figure 3,we see that for $M = 2$ the height of the flux rope remains almost constant after $t = 5 0 0 \mathrm { s }$ .This is because the flux rope reaches a new equilibrium state at that time. From equation (3) in Forbes (199O),we can further check whether the state of the flux rope is in equilibrium or not.We insert the height of the flux rope $h$ ,the depth of the dipole $d$ and the relative strength of the dipole $M$ at $t = 6 0 0$ s into equation (3) of Forbes (199O),and find that the left side almost equals the right side in that equation. This means that a new equilibrium state is achieved.
+
+![](images/875bd5b620126fff64911d9b12308adec1fef99866b86bcc698c23ed3ce494a0.jpg)  
+Fig.3 $h / d$ as a function of time. $h$ is the height of the flux rope. $d$ is the depth of the background dipolefield. $M$ is a dimensionless parameter which gives the relative strength between the dipole and the filament current.
+
+![](images/01ca985e9ce00107cdbfb90b92ff54717112f0015f3559bafdabd4444caa04c1.jpg)  
+Fig.4 $h / d$ asa function of time for different background fields $m$ $h$ is the height of the flux rope. $d \stackrel { - } { = } 0 . 6 \dot { 2 } 5 \times 1 0 ^ { 4 } ~ \mathrm { k m }$ and $I _ { 0 } = 3 \times 1 0 ^ { 1 1 }$ A are the depth of the background dipole field and the initial current strength of the flux rope respectively. The solid line corresponds to $m = 0$ , the dotted curve is for $m = d I _ { 0 }$ ,and the dashed curve is for $m = 2 d I _ { 0 }$ . The lower panel is an enlarged view for the time from O to $5 0 \mathrm { s }$
+
+![](images/67a00386524f722066536f38596f10ecdc3370d9f4ae2f1391a6738f0d2f452a.jpg)  
+Fig.5Evolutions of the magnetic configuration with different values of $m$ at $t = 6 0 0 \mathrm { s }$ The left and right panels show $m = 2 d I _ { 0 }$ and $m = d I _ { 0 }$ respectively. They correspond to the dashed and dotted curves in Fig. 4,respectively.
+
+Since the evolution of the system in the corona may be controlled by the background field, we need to investigate how the evolution of the magnetic system relies on the values of the background field strength, i.e. $m$ ：
+
+Figure 4 shows the height of the flux rope with different background field strengths $m$ . The depth of the background dipole field and the initial current strength of the flux rope are $d = 0 . 6 2 5 \times 1 0 ^ { 4 }$ km and $I _ { 0 } \overset { ^ { \cdot } } { = } 3 \times 1 0 ^ { \overset { \cdot } { 1 } 1 }$ A respectively. The solid line corresponds to $m = 0$ ,the dotted curve is for $m = d I _ { 0 }$ and the dashed curve is for $m = 2 d I _ { 0 }$ . From Figure 4,we can see that the height of the flux rope becomes higher when the background field strength gets smaller. This implies that the flux rope can escape more easily following a catastrophe if the background field is weak.
+
+To further demonstrate the relation between the strength of the background field and the flux rope, we studied the evolutions of the magnetic configuration in two cases in Figure 4.As shown in Figure 5,the magnetic field lines are represented by continuous contours.The left and right panels show $m = 2 d I _ { 0 }$ and $m = d I _ { 0 }$ ,and they correspond to the dashed and dotted curves in Figure 4, respectively.From Figure 5,we can notice that the flux rope in the right panel is higher than in the left one. In addition, we are also able to recognize the existence of the X-point in these two panels, which may result in fast energy dissipation via magnetic reconnection.
+
+# 3.3The Internal Evolution of the Flux Rope and the Effect of Its Radius
+
+The flux rope moves upward very quickly driven by the unbalanced magnetic compression at the beginning of our simulation, while a smal perturbation in the amplitude of the flux rope along its radial direction always occurs since the initial state within the filament is never in exact equilibrium. Flow always appears within the filament, almost at once,as shown in Figure 6. The upper panel in this figure shows velocity streamlines at two different times for stable equilibrium with $M = 2 . 2 5$ (case 1), while the lower panel shows velocity streamlines for the nonequilibrium case with $M = 1 . 0$ (case 2).The circle in each panel represents the position of the flux rope.At $t = 1 \mathrm { ~ s ~ }$ ，the flow speed for the stable case is about O.8 the speed for the nonequilibrium case.Meanwhile,the flow speed at $t = 2$ s for the stable equilibrium case equals approximately the speed at $t = 5 \mathrm { ~ s ~ }$ for the nonequilibrium case.These results show that the internal flow of the flux rope remains small and does not last very long when the initial state of the flux rope commences from the stable branch of the theoretical equilibrium curve.
+
+![](images/362597acb9a84667d2045a7872ec98c7ab1a38fc004b9980dcfaca70ce974d0b.jpg)  
+Fig.6Velocity streamlines at two different times for the stable equilibrium case with $M = 2 . 2 5$ (case 1) in (a) and (b),and the nonequilibrium case with $M = 1 . 0$ (case 2) in (c) and (d). The circles indicate the position of the flux rope.
+
+In order to understand the influence of the computational domain on the internal evolution of the flux rope, we also investigate the internal evolution of the flux rope in two different computational domains.
+
+Figure 7 shows the evolution of the height of the flux rope with respect to time for the stable equilibrium case with $M = 2 . 2 5$ (case 1) in the two computational domains $( ( - 4 L , 4 L ) \times ( 0 , 8 L )$ in (a) and $( - L , L ) \times ( 0 , 2 L )$ in (b))with the same set of $8 0 0 \times 8 0 0$ grid points.The solid curves are the evolution of the height of the flux rope with respect to time for case 1,and the dashed lines correspond to the initial height $h _ { 0 } = 0 . 0 6 2 5 \times 1 0 ^ { 5 } \mathrm { k m }$ for case 1.We can see that the readjustment of the height of the flux rope is completed by $t = 2$ s in (a). After $2 \mathrm { ~ s ~ }$ ,the flux rope remains stationary at a height of about $0 . 0 6 \times 1 0 ^ { 5 } \mathrm { k m }$ .However,after taking $t = 3$ s in (b),it becomes stationary at a height of about $\sim 0 . 0 6 2 5 \times 1 0 ^ { 5 } \mathrm { k m }$
+
+The information revealed by Figure 7 suggests that numerical diffusion is faster when the computational domain is larger. However,the numerical error is larger in (a) than (b),since the numerical error can be estimated by the ratio of the grid spacing to the initial height $\Delta x / h _ { 0 }$ ,i.e. $1 6 \%$ in (a) and $4 \%$ in (b).Because of numerical error, the stationary height of the flux rope is closer to the initial height in (b) than in (a).
+
+In order to investigate the influence of the radius of the flux rope on its evolution,we have performed two simulations (cases 3 and 4).We vary the radius of the flux rope in these two cases, while other parameters remain unchanged.The values of these parameters are listed in Table 2.
+
+Figure 8 displays the evolution of the height of the flux rope with respect to time in these cases. Curve $r _ { 0 } = 3 0 0 0 { \mathrm { k m } }$ is for case 3,while curve $r _ { 0 } = 5 0 0 0 { \mathrm { k m } }$ is for case 4.From this figure,we see that the flux rope with a larger radius apparently has faster upward velocity than that with a smaller radius, which means that greater radii can more easily result in the eruption of a flux rope.
+
+![](images/b503e5fc85000aa8c7efacea5e1c42d61e5e3e0b77a64fb045fd4eb310bd7a24.jpg)  
+Fig.7 The height of the flux rope $h$ as a function of time for the same stable equilibrium (case 1) in the different computational domains with the same grid points: the left panel represents $( - 4 L , 4 L ) \times$ $( 0 , 8 L )$ with $8 0 0 \times 8 0 0$ grid points,and the right panel depicts $( - L , \bar { L } ) \times ( 0 , 2 L )$ with $8 0 0 \times 8 0 0$ grid points.The solid curves are for case 1,and the dashed lines correspond to the initial height $\bar { h } _ { 0 } = \mathrm { 0 . 0 6 2 5 \times 1 0 ^ { 5 } k m }$ for case 1.
+
+![](images/6b8e2ac7ced45f678b5b6d0de9c7b3e14ade4c3d6a2fb548ccc6a9240469cc9f.jpg)  
+Fig.8 Variation of the flux rope height versus time for cases 3 and 4: curve $r _ { 0 } = 3 0 0 0 { \mathrm { k m } }$ is for case 3,and curve $r _ { 0 } = 5 0 0 0 \mathrm { k m }$ is for case 4. $d$ is the depth of the background dipole field,and it is the same for these two cases.
+
+# 4DISCUSSIONANDCONCLUSIONS
+
+We numerically investigate the evolution of the flux rope using the ZEUS-2D code for modeling a prominence or a filament in the corona, which may eventually erupt as a catastrophe.The empirical
+
+S&G atmosphere model is employed for the distribution of the density of the background field. Our present simulations have a higher resolution than the previous work,e.g.Wang et al. (2009) and Forbes (1990), due to the larger simulation domain and more grid points. We studied the influence of the strength of the background field and the radius of the flux ropes on the internal,overal equilibrium and escape of the flux ropes in the detailed simulations,including 18 cases for the different combinations of several important parameters.The main conclusions are drawn as follows.
+
+(1） In our simulations,by using a realistic plasma environment and a much higher resolution, we notice some different characteristics compared to previous studies in Forbes (199O).We find that the speed of the flux rope does not increase after $t = 2 . 0 \ : \mathrm { s }$ for $M = 0$ and for $M = 1$ （ $M$ is the ratio of the strength of the dipole field $m$ to the product of the filament current $I$ and the depth $d$ of the dipole field, i.e. $M = m / ( I d ) )$ ,which differs from the results in Forbes (1990). Instead,the flux rope keeps rising slowly, and stops at some height after some time, then moves downwards slightly before continuing to rise further.   
+(2）Among cases 4-12 (see nine solid points in Figure 2,each point represents one of the cases), the final height of the flux rope varies with $M$ described by a power-law function $h / d =$ $1 0 ^ { - 0 . 1 } M ^ { - 1 . { \bar { 1 } } }$ ：   
+(3）The flux rope can escape more easily if the background magnetic field is weaker. This implies that catastrophic behavior can be triggered by suppressing the strength of the background magnetic field,which is consistent with previous work by Forbes (199O),Isenberg et al.(1993), Lin et al. (1998); Lin (2007), Chen (2011). The decay of the photospheric magnetic field due to magnetic diffusion may result in the eruption of the flux rope (Mackay & van Ballegooijen 2006),and further explain why the peak rate of CME occurrence is usually delayed by $6 - 1 2$ （20 months with respect to the peak of the sunspot number (Robbrecht et al.2009).   
+(4）The initial radius of the flux rope may have a significant influence on its evolution. The results indicate that the flux rope with a larger initial radius erupts more easily.   
+(5） The internal flow of the flux rope remains small and does not last very long when the initial state of the flux rope commences from the stable branch of the theoretical equilibrium curve.We also find that the time and velocity of this flow are related to the computational domain.Provided that the grid points remain unchanged,the increase in the computational domain can result in a shorter time for the internal equilibrium of the flux rope,while the numerical error is in an expected range.
+
+Acknowledgements The authors appreciate C. Shen and Z.Mei for valuable discussons on the techniques of numerical simulation. They are also grateful to the referee for valuable comments and suggestions that improved this paper.This work was supported by the National Basic Research Program of China (973 program,2012CB825600 and 2011CB811406),and the Shandong Province Natural Science Foundation (ZR 2O12AQ016). JL's work was supported by the the National Basic Research Program of China (973 program，2011CB811403 and 2013CBA01503), the National Natural Science Foundation of China (Grant Nos.11273055 and 11333007) and grants KJCX2- EW-T07 and XDB09040202 from Chinese Academy of Sciences.
+
+# References
+
+Chen,P.F.2011,Living Rev. Solar Phys., 8,1   
+Chen,P.F.,Wu,S.T., Shibata,K.,& Fang,C.2002,ApJ,572,L99   
+Forbes,T.G.1990,J.Geophys.Res.,95,11919   
+Forbes,T.G.,&Isenberg,P.A.1991,ApJ,373,294   
+Forbes,T.G.,&Priest,E.R.1995,ApJ,446,377   
+Forbes,T.G.2000,J.Geophys.Res.,105,23153   
+Isenberg,P.A.,Forbes,T.G.,&Demoulin,P.1993,ApJ,417,368   
+Kliem,B., Su,Y.N., van Ballegooijen,A.A.,& DeLuca,E.E.2013,ApJ,779,129   
+Kusano,K.,Bamba,Y.,Yamamoto,T.T.,et al.2012,ApJ,760,31   
+Leblanc,Y.,Dulk,G.A.,& Bougeret,J.-L.1998,Sol.Phys.,183,165   
+Li,L.P.,& Zhang,J.2013,A&A,552,L11   
+Lin,J.,Forbes,T.G.,Isenberg,P.A.,& Démoulin,P.1998,ApJ,504,1006   
+Lin,J.,& Forbes,T.G.2000,J.Geophys.Res.,105,2375   
+Lin,J.2002,ChJAA(Chin.J.Astron. Astrophys.),2,539   
+Lin,J.,Mancuso, S.,& Vourlidas,A.2006,ApJ,649,1110   
+Lin, J. 2007, ChJAA(Chin. J. Astron. Astrophys.),7, 457   
+Mackay,D.H.,& van Ballegooijen,A.A.2006,ApJ,641,577   
+Mei,Z., Udo,Z.,&Lin,J.2012a,Science China Physics,Mechanics,and Astronomy,55,1316   
+Mei,Z.,Shen,C.,Wu,N.,et al.2012b,MNRAS,425,2824   
+Pulkkinen,T.2OO7,Living Rev. Solar Phys,4,1   
+Robbrecht,E.,Berghmans,D.,& Van der Linden,R.A.M.2009,ApJ,691,1222   
+Schwenn,R.2OO6,Living Reviews in Solar Physics,3,1   
+Shen, C.,Reeves,K.K.,Raymond,J.C.,et al.2013,ApJ,773,110   
+Sittler,E.C.,Jr.,& Guhathakurta,M.1999,ApJ,523,812   
+Stone,J.M.,& Norman,M.L.1992a,ApJS,80,753   
+Stone,J.M.,& Norman,M.L.1992b,ApJS,80,791   
+Stone,J.M.,Mihalas,D.,& Norman,M.L.1992,ApJS,80,819   
+Wang,H.,Shen,C.,&Lin,J.2009,ApJ,700,1716   
+Welsch,B.T.,Christe,S.,& McTiernan,J.M.2011,Sol.Phys.,274,131   
+Yu, C. 2012,ApJ,757,67   
+Zhang, Y.Z.,Feng, X. S.,& Song,W.B.2011,ApJ,728,21

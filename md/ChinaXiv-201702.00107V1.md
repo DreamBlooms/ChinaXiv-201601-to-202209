@@ -1,0 +1,253 @@
+# DOI:10.5846/stxb201508021630
+
+邓家军,张仕祥,张富生,张艳玲,胡锋,李辉信.烟草幼苗根系分泌自毒物质种类及PAEs对根系抗氧化性能的影响.生态学报,2017,37（2)：495-504.  
+DengJJ,ZhangSX,ZngFS,ZangY,HuF,LiHXutotoxisededfroosandthefetsofEsantioxidantcapacityiotsftobacco seedlings.Acta Ecologica Sinica,2017,37(2）:495-504.
+
+# 烟草幼苗根系分泌自毒物质种类及PAEs对根系抗氧化性能的影响
+
+邓家军1,²，张仕祥³，张富生²，张艳玲³，胡锋¹，李辉信1，\*
+
+1南京农业大学资源与环境科学学院土壤生态实验室，南京210095  
+2 江西省农产品质量安全检测中心，南昌330046  
+3中国烟草总公司郑州烟草研究院，郑州450001
+
+摘要：采用GC-MS 技术鉴定水培烟草 Burley及 K326在幼苗期不同生长阶段的根系分泌物;并用不同浓度邻苯二甲酸二丁酯(DBP）邻苯二甲酸二异辛酯(DIOP)溶液浇灌盆栽烟草幼苗,研究其根系抗氧化性能变化。结果如下：(1)Burley根系分泌物主要有3类化合物,其中自毒物质邻苯二甲酸酯(PAEs)在二叶龄期、四叶龄期、六叶龄期的相对含量分别为 $7 . 6 \%$ ） $0 . 3 \%$ 、未检出;而 K326 根系分泌物主要有9类化合物,PAEs 在二叶龄期、四叶龄期、六叶龄期的相对含量分别为 $3 5 . 6 \% . 5 1 . 3 \% . 2 . 2 \%$ 。(2)浓度高于 $0 . 1 \ \mathrm { m m o l / L }$ 的 PAEs使根中超氧阴离子自由基产生的速率显著( $P { < } 0 . 0 5 )$ 增加;随着DIOP及DBP 浓度的增加，超氧化物歧化酶、过氧化氢酶活性增加,在 $0 . 5 \ \mathrm { m m o l / L }$ 时达到最大,然后随着处理浓度的增加而下降。丙二醛的浓度随着这两种PAEs处理浓度的增加而增大。结果表明：烟草根系分泌的自毒物质PAEs达到 $0 . 5 \ \mathrm { m m o l / L }$ 时，能降低根系的抗氧化性能,造成根尖细胞膜系统的氧化损伤,引起根吸收功能等一系列生理生化变化,并最终表现出自毒作用。
+
+关键词：烟草;根系分泌物;自毒物质;抗氧化酶活性
+
+# Autotoxins exuded from roots and the effects of PAEs on antioxidant capacity in roots of tobacco seedlings
+
+DENG Jiajun1²，ZHANG Shixiang³,ZHANG Fusheng²， ZHANG Yanling³，HU Feng¹，LI Huixin'
+
+1SoilEcologboratoyolfsousdoetaleces，njicultualUesityjn   
+2Testing Center of Agro-Product Qualityand Safetyof Jiangxi Province，Nanchang 33o046,China   
+3Zhengzhou Tobacco Research Institute，China National Tobacco Corporation,Zhengzhou 45oo01,China
+
+Abstract:Root exudates of two varieties（Burley and K326）of tobaccoseedlings cultured in a hydroponic medium were collected，and identifiedusinggaschromatography-massspectrometry（GC-MS）.Further，theefectsof different concentrations of dibutyl phthalate（DBP）and disooctyl phthalate（DIOP）onrootantioxidantcapacity were assessed using pot culture experiments.Theresults revealed three main compounds in Burleyroot exudates.Therelative contentof autotoxin phthalate esters（PAEs）at the two-， four-，and six-leaf stages were $7 . 6 \%$ ， $0 . 3 \%$ ，and not detected，respectively. However,there were nine maincompounds in K326rotexudates.TherelativePAEcontent atthetwo-,four-,and six-leaf stages were $3 5 . 6 \%$ ， $5 1 . 3 \%$ ，and $2 . 2 \%$ ，respectively.PAEs such as DIOP and DBP were identified as the major autotoxins inrootexudatesofboth tobacco seedlings.Therateofsuperoxideanionradical generationinroots significantlyincreasedat concentrations greater than $0 . 1 \mathrm { \ m m o l / L }$ DIOP and DBP（ $P < 0 . 0 5$ ).Both superoxide dismutase and catalase activities increased with increasing DIOP concentrations，with a peak at $0 . 5 ~ \mathrm { \ m m o l / L }$ ，and subsequently decreased at higher concentrations.Accumulated malondialdehyde concentrations increased with increasing DIOPand DBP concentrations，and the magnitude of malondialdehyde content was DIOP $>$ DBP，which indicated the order of their toxic effect.Finally，our findings also revealed that when PAEs reached $0 . 5 \mathrm { \ m m o l / L }$ ，they decreased the antioxidant capacity of the root system, initiated oxidative damageof therootcell membranesystem,andcauseda furtherdecrease inrootabsorptionand mineral metabolism，and thereby led to autotoxicity in the tobacco plants.
+
+Key Words：tobacco；root exudates；autotoxins；antioxidant enzyme activity
+
+烟草（Nicotiana tabacumL.）属于茄科（Solanaceae），烟草属（Nicotiana）植物,是我国重要的经济作物之一。但随着耕地面积减少,加之种植制度、经济效益等因素影响,我国烟草连作问题相当突出。烟草长期连作,其根系分泌的某些物质在土壤中累积到一定浓度时,会对作物本身产生毒害[1-2],这就是烟草的自毒作用。自毒作用直接危害植株正常的生长发育,使烟叶产量及品质下降[3-4],是烟草产生连作障碍的主要原因之一。
+
+植物的自毒作用通常发生在幼苗阶段,因为幼苗很脆弱,容易受到自毒物质的影响[5]。目前,直接评价植物自毒作用的文献较少:Jia等[研究了连作烟草产生的自毒物质对种子活力、幼苗根系活力、根系的长度及数量、幼苗高度及生物量的影响。Sun等7研究了番茄的自毒物质对其生长、抗氧化酶活力及光合作用的影响。刘苹等[8]研究结果显示,当土壤中自毒物质长链脂肪酸含量达到一定浓度时,对花生植株的生长和土壤酶活性能产生显著地抑制作用。郭亚利等[9研究表明,烟草根系分泌物能显著降低其幼苗根系活力及对营养元素的吸收,且分泌物的不同组分的抑制效应存在显著差异,推测烟草根系分泌物中含有多种自毒物质。Yeasmin等[10]在连续移栽系统中以不同轮作方式培养两种芦笋（Asparagus officinalis L.）,发现所产生的自毒物质(草酸、琥珀酸和酒石酸等)对芦笋根和芽的生长及营养物质 $( \mathrm { P } , \mathrm { N } , \mathrm { K } , \mathrm { C a } , \mathrm { M g } )$ 的吸收产生不同程度的抑制作用。而环境中的pH值降低更易使根细胞膜脂受到伤害[11],Mazoleni 等[12]认为植物残体对同物种的抑制作用有两种：一种是由残体腐解出的不稳定的自毒物质所产生的非特异性抑制,另一种是由残体的 DNA 发起的特异性抑制。但烟草幼苗期各生长阶段自毒物质的分泌特征及自毒机制尚不明确。本研究拟对两个烟草品种Burley及K326幼苗期不同生长阶段的根系分泌物进行分离鉴定,并研究主要自毒物质对土培烟草根系中超氧阴离子产生的速率、抗氧化酶活性、脂质过氧化等的影响,从生理生化方面阐明烟草自毒作用可能的生理机制。此研究将对深入研究烟草根系分泌物中自毒物质的作用机理、减弱乃至消除烟草的自毒作用等方面具有重要意义。
+
+# 1材料与方法
+
+1.1供试植物烟草Burley和K326的种子，由中国烟草总公司郑州烟草研究院提供。
+
+# 1.2幼苗期烟草根系分泌物的鉴定
+
+# 1.2.1 收集根系分泌物
+
+预培养烟草 Burley及K326的种子,出芽后,分别放入装有适量无琼脂MS 培养基的玻璃培养皿中。无琼脂 MS 培养基成分为：
+
+(1)大量元素 $1 . 6 5 \ \mathrm { g \ N H _ { 4 } N O _ { 3 } , 1 . 9 \ g \ K N O _ { 3 } , 0 . 3 7 \ m g \ M g S O _ { 4 } \cdot 7 H _ { 2 } O , 0 . 1 7 \ g \ K H _ { 2 } P O _ { 4 } , 0 . 4 4 \ \mathrm { g \ C a C l _ { 2 } \cdot 2 H _ { 2 } O ; } }$ （204(2)微量元素 $\mathrm { 2 2 . 3 ~ m g ~ M n S O _ { 4 } \cdot 4 H _ { 2 } O , 0 . 8 3 ~ m g ~ K I , 0 . 0 2 5 ~ m g ~ C u S O _ { 4 } \cdot 5 H _ { 2 } O , 6 . 2 5 ~ m g ~ H _ { 3 } B O _ { 5 } , 0 . 0 2 5 ~ m g ~ ( C u , 0 . 0 2 5 ~ m ) }$ $\mathrm { C o C l \cdot 6 H _ { 2 } O , 8 . 6 5 ~ m g ~ Z n S O _ { 4 } \cdot 7 H _ { 2 } O , 0 . 2 5 ~ m g ~ N a _ { 2 } M o O _ { 4 } \cdot 2 H _ { 2 } O }$ ：
+
+http://www.ecologica.cn
+
+铁盐 $\mathrm { 2 7 . 8 \ m g \ F e S O _ { 4 } \cdot 7 H _ { 2 } O , 3 7 . 3 \ m g \ N a _ { 2 } E D T A }$ 蔗糖 $3 0 \mathrm { ~ g ~ }$ 于 $^ \mathrm { ~ 1 ~ L ~ }$ 水中,用Tris 调节 $\mathrm { \ p H }$ 至5.70,高压灭菌 $2 0 \ \mathrm { m i n } ^ { [ 1 3 ] }$ 。
+
+每个培养皿放入20颗,每种烟草设3个平行。然后将培养皿放入 $2 2 { - } 2 6 \mathrm { ~ \% ~ } { , } 1 6 \mathrm { ~ h ~ }$ 光照 $\mathbf {  { / 8 } }  { \mathrm { ~ h ~ } }$ 黑暗的光照培养箱中,每天更换1次培养基。当幼苗生长至2叶龄期、4叶龄期及6叶龄期时,分别将3个时期的烟苗从培养皿中的培养基中取出，冲洗干净后，放入去离子水中。分泌 $2 4 \mathrm { ~ h ~ }$ 后再将烟苗放回培养基中，收集含有根系分泌物的去离子水。
+
+# 1.2.2 $\mathrm { \ p H }$ 值测定
+
+采用 $\mathrm { \ p H }$ 值测定仪（BPH-200D，上海益伦环境科技有限公司),测定收集烟草幼苗各叶龄期根系分泌物时的培养基 $\mathrm { \ p H }$ 值。
+
+# 1.2.3 测试样品的制备
+
+取 $5 0 ~ \mathrm { m L }$ 含有烟草幼苗根系分泌物的水样及 $1 0 0 ~ \mathrm { { m L } }$ 正己烷,倒入 $2 5 0 ~ \mathrm { m L }$ 分液漏斗中,振荡 $3 0 ~ \mathrm { m i n }$ ,静置。分层后,将有机相通过装有无水硫酸钠的玻璃漏斗,接入旋转蒸发瓶中。水相再萃取1次,有机相转入旋转蒸发瓶,然后于 $4 5 ~ \mathrm { { ^ \circ C } }$ 水浴中旋转蒸发至干，正己烷定容至 $2 ~ \mathrm { m L }$ ，过 $0 . 2 2 ~ \mu \mathrm { m }$ 滤膜,经硅烷化处理后于 $^ { - 2 0 }$ $\mathcal { \mathrm { C } }$ 下保存待测。
+
+# 1.2.4 GC-MS检测
+
+检测仪器：气质联用仪450GC-320MS（BrukerDaltonicsInc.，USA）。
+
+色谱条件:DB-5MS 色谱柱（Agilent 19091S-433，HP-5MS, $5 \%$ Phenyl Methyl Siloxane, $3 0 \ \mathrm { m } { \times } 0 . 2 5 \ \mathrm { m m } { \times }$ （204号 $0 . 2 5 ~ \mu \mathrm { m }$ ,美国安捷伦公司);进样口温度 $2 5 0 ~ \mathrm { { ^ { \circ } C } }$ ;程序升温：柱温 $7 0 \ \mathrm { { ^ { \circ } C } }$ 保持 $4 ~ \mathrm { m i n }$ ，以 $5 \ \mathrm { { ^ c } / \operatorname* { m i n } }$ 升温至 $1 3 0 \ \mathrm { { ^ { c } } }$ ，保持 $5 ~ \mathrm { m i n }$ ,再以 $1 0 ~ \mathrm { ^ { \circ } C / m i n }$ 升至 $2 5 0 ~ \mathrm { { ^ { \circ } C } }$ ,保持 $1 5 ~ \mathrm { m i n }$ ;质谱接口温度为 $2 7 0 \ \mathrm { { ^ circ C } }$ ;载气为 $\mathrm { H e }$ ,流速为 $1 . 0 \ \mathrm { m L / m i n }$ 。
+
+质谱条件：EI源, $- 7 0 \ \mathrm { e V }$ ;扫描范围为 $\mathrm { m / z } ~ 5 0 { \mathrm { - } } 5 0 0 ~ \mathrm { a m u }$ ;扫描时间为0.5s;离子源温度为 $2 0 0 \ \mathrm { { ^ { \circ } C } }$ ;四级杆温度为 $1 5 0 \ \mathrm { { ^ \circ C } }$ ;传输线温度 $2 2 0 \ \mathrm { ^ { \circ } C }$ 。
+
+进样方式：不分流进样,进样量为 $1 ~ \mu \mathrm { L }$ C
+
+与标准质谱谱库Wiley $7 \mathrm { n . L }$ 及 NIST05.L比对,确定各种化合物,采用面积归一化法(JY/T003—1996)计算其相对含量。
+
+1.3邻苯二甲酸酯(PAEs)对烟草根系抗氧化酶活性的影响
+
+将6片真叶的K326幼苗移栽至直径 $1 1 \ \mathrm { c m } , 1 . 5 \ \mathrm { L }$ 的瓦盆中,内装有取自河南省郑州市郊土壤(表1）。每盆中移栽1株,随机置于温室中：每天光照 $^ { 1 6 \mathrm { ~ h ~ } }$ ,有效辐射为 $3 2 0 ~ { \mu \mathrm { m o l } } ~ { \mathrm { m } } ^ { - 2 } { \mathrm { s } } ^ { - 1 }$ ,温度范围为 $3 5 \mathrm { ~ } ^ { \circ } \mathrm { C } / 2 5 \mathrm { ~ } ^ { \circ } \mathrm { C }$ （昼/夜),相对湿度为 $6 0 \% ^ { [ 1 4 ] }$ 。在幼苗正常生长后,每星期浇 $1 0 0 ~ \mathrm { m L }$ 用邻苯二甲酸二丁酯(DBP）、邻苯二甲酸二异辛酯（DIOP）（优级纯，Aladdin试剂有限公司，中国上海）分别配制 $0 . 0 . 0 1 \mathrm { ~ . 0 . 1 ~ . 0 . 5 ~ . 1 . 0 ~ . 5 . 0 ~ m m o l / L }$ 及10.0mmol/L6个浓度梯度溶液,浓度参照烟草连作土壤中检测的浓度设置的[15],每个梯度有3个重复,连续浇 5周。然后采集植株根系，洗净、晾干后备用。
+
+表1供试土壤的基本理化性质  
+Table 1 The basic physico-chemical properties of the soil sample   
+
+<html><body><table><tr><td>pH</td><td>总有机C Total organic C/</td><td>总N Total N/</td><td>总P Total P/</td><td>有效P Available P/</td><td>总K Total K/</td><td>有效K Available K/</td></tr><tr><td>7.04±0.08</td><td>（g/kg) 20.33±0.78</td><td>（g/kg) 2.63±0.16</td><td>（g/kg)</td><td>（mg/kg）</td><td>（g/kg)</td><td>（mg/kg）</td></tr><tr><td></td><td></td><td></td><td>0.96±0.11</td><td>8.66±0.67</td><td>18.2±0.91</td><td>96.72±1.06</td></tr></table></body></html>
+
+超氧化物歧化酶(SOD,EC 1.15.1.1)活性测定采用氮蓝四唑法（NBT）[16],以抑制 NBT光化还原的 $5 0 \%$ 为1个SOD 活力单位（U）,用每克酶制剂所具有的酶活力单位数( $\mathrm { \Delta U / g } ^ { \cdot }$ ）表示 SOD 活性大小;过氧化氢酶（CAT，EC1.11.1.6)活性采用紫外吸收法测定[17]，以 $1 ~ \mathrm { m i n }$ 内 OD240 减少0.1的酶量为1个酶活力单位（U）；丙二醛（MDA)含量的测定参照 Heath 和 Packer 的方法[18];超氧阴离子（superoxide anion radical，‘ $\mathbf { O } _ { 2 } ^ { - }$ ）
+
+http://www.ecologica.cn产生速率可以用羟胺氧化法测得[19]。
+
+# 1.4 数据分析
+
+采用 SPSS 16.0（SPSS Inc.，Chicago，USA）的One-way ANOVA 分析不同处理之间的差异性( $P { < } 0 . 0 5 )$ 。同一梯度3个重复,用于计算平均值和标准偏差。
+
+# 2结果
+
+# 2.1根系分泌物的鉴定
+
+2.1.1Burley 幼苗期根系分泌物
+
+Burley幼苗期根系分泌物主要有3类（表2）。其中2叶龄期主要分泌2类物质：
+
+（1)烷烃;（2）邻苯二甲酸酯：邻苯二甲酸二异丁酯(DIBP）、邻苯二甲酸3-己基异丁酯。
+
+Burley4叶龄期主要分泌3类物质：（1)烷烃;(2）邻苯二甲酸酯：邻苯二甲酸异丁基壬酯;（3）2-甲氧基苯酚。
+
+Burley6叶龄期主要分泌2类物质：（1）烷烃;（2)邻苯二甲酸酯：邻苯二甲酸4-庚基异丁酯。
+
+表2Burley幼苗不同阶段的根系分泌物  
+Table 2Root exudates at different stages of Burley seedling   
+
+<html><body><table><tr><td>幼gtage</td><td>P峰ak</td><td>Reteon time/min</td><td>占总量的百分比 of total/%</td><td>化h合物eal compound</td></tr><tr><td>Burley 2叶龄期</td><td>1</td><td>6,181</td><td>3.977</td><td>Dodecane 十二烷</td></tr><tr><td>Burley two-leaf stage</td><td>2</td><td>23.868</td><td>4.753</td><td>邻苯二甲酸3-已基异丁酯Phthalic acid，3-hexyl isobutyl ester</td></tr><tr><td rowspan="12">Burley 4叶龄期</td><td>3</td><td>23.85</td><td>2.853</td><td>邻苯二甲酸二异丁酯（DIBP）1,2-Benzenedicarboxylic acid,bis （2-methylpropyl) ester</td></tr><tr><td>4</td><td>26.617</td><td>ND</td><td>三十一烷 Hentriacontane</td></tr><tr><td>5</td><td>27.166</td><td>3.911</td><td>三十一烷 Hentriacontane</td></tr><tr><td>6</td><td>28.028</td><td>6.382</td><td>三十一烷 Hentriacontane</td></tr><tr><td>7</td><td>28.998</td><td>13.855</td><td>三十一烷 Hentriacontane</td></tr><tr><td>1</td><td>8.669</td><td>20.248</td><td>2-甲氧基苯酚 2-methoxy-Phenol</td></tr><tr><td>Burley four-leaf stage 2</td><td>23.226</td><td>0.346</td><td>三十一烷 Hentriacontane</td></tr><tr><td>3</td><td>23.876</td><td>0.257</td><td>邻苯二甲酸异丁基壬酯 Phthalic acid,isobuty nonyl ester</td></tr><tr><td>4</td><td>22.065</td><td>0.141</td><td>3-乙基-3-甲基十九烷 3-Ethyl-3-methylnonadecane</td></tr><tr><td>5</td><td>24.306</td><td>0.405</td><td>3-甲基十一烷3-methyl-Undecane</td></tr><tr><td>6</td><td>25.313</td><td>0.973</td><td>十九烷 Nonadecane</td></tr><tr><td>7</td><td>26.266</td><td>2.126</td><td>二十四烷 Tetracosane</td></tr><tr><td rowspan="11">Burley 6叶龄期 Burley six-leaf stage</td><td>8</td><td>27.172</td><td>6.153</td><td>十七烷 Heptadecane</td></tr><tr><td>9</td><td>28.041</td><td>7.764</td><td>二十四烷 Tetracosane</td></tr><tr><td>10</td><td>29.003</td><td>6.271</td><td>三十一烷 Hentriacontane</td></tr><tr><td>1</td><td>6.172</td><td>3.881</td><td>2,5,9-甲基癸烷2,5,9-tnmethyl-Decane</td></tr><tr><td>2</td><td>23.852</td><td>ND</td><td>邻苯二甲酸4-庚基异丁酯Phthalic acid，4-heptyl isobutyl ester</td></tr><tr><td>3</td><td>26.242</td><td>2.385</td><td>三十一烷 Hentriacontane</td></tr><tr><td></td><td>27.158</td><td></td><td>正二十四烷 Tetracosane</td></tr><tr><td>4 5</td><td>28.027</td><td>16.182 30.8</td><td>二十八烷 Octacosane</td></tr></table></body></html>
+
+ND：not detected
+
+# 2.1.2 K326幼苗期根系分泌物
+
+K326 幼苗期根系分泌物主要有9类（见表3）。其中,2叶龄期根系分泌物中主要含有7类物质：（1）烷烃；（2）邻苯二甲酸酯：DIOP、邻苯二甲酸二正辛酯（DOP）、邻苯二甲酸丁基环己酯（BCHP)；（3）二十三烷酸甲酯;（4）十二烷基-三苯基溴化磷；（5）1,4-二醇，2，3-二甲基-5-三氟甲基苯；(6）十一丁基亚硫酸酯;（7）反油酸-苄基二甲硅基脂。
+
+http ://www.ecologica.cn
+
+表3K326幼苗不同阶段的根系分泌物  
+Table 3Root exudates at different stages of K326 seedling   
+
+<html><body><table><tr><td></td><td></td><td></td><td>占总量的百分比</td><td>化合物</td></tr><tr><td>幼苗阶段 Seedling stage</td><td>峰 Peak</td><td>保留时间 time/min</td><td>of total/%</td><td>Chemical compound</td></tr><tr><td>K3262叶龄期</td><td>1</td><td>6.172</td><td>ND</td><td>2,2,4,10,12,12-六甲基-7-(3,5,5-三甲基乙基已基)十三烷 Tridecane,2,2,4,10,12,12-hexamethyl-7-(3,5,5-trimethylhexyl)</td></tr><tr><td>K326 two-leaf stage</td><td>2</td><td>23.21</td><td>0.145</td><td>三十一烷 Hentriacontane</td></tr><tr><td></td><td>3</td><td>23.851</td><td>14.519</td><td>邻苯二甲酸二异辛酯 Bis(2-ethylhexyl）phthalate ester（DIOP)</td></tr><tr><td></td><td>4</td><td>24.29</td><td>0.218</td><td>2,6,10,15-四甲基十七烷 Heptadecane,2,6,10,15-tetramethyl</td></tr><tr><td></td><td>5</td><td>24.354</td><td>0.103</td><td>邻苯二甲酸丁基环己（BCHP）1,2-Benzenedicarboxylic acid, butyl cyclohexyl ester</td></tr><tr><td></td><td>6</td><td>25.297</td><td>0.454</td><td>三十一烷 Hentriacontane</td></tr><tr><td></td><td>7</td><td>26.251</td><td>1.205</td><td>三十一烷 Hentriacontane</td></tr><tr><td></td><td>8</td><td>26.846</td><td>1.219</td><td>十二烷基-三苯基溴化磷</td></tr><tr><td></td><td></td><td></td><td></td><td>（10-Carboxydecyl) triphenylphosphonium bromide</td></tr><tr><td></td><td>9</td><td>27.176</td><td>2.455</td><td>十一丁基亚硫酸酯 Sulfurous acid,butyl undecyl ester</td></tr><tr><td></td><td>10</td><td>28.028</td><td>0.54</td><td>二十四烷 Tetracosane</td></tr><tr><td></td><td>11</td><td>29.255</td><td>20.94</td><td>邻苯二甲酸二正辛酯（DOP)Di-n-octyl phthalate ester 1,4-二醇，2，3-二甲基-5-三氟甲基苯 Phen-1,4-diol,2,3-</td></tr><tr><td></td><td>12</td><td>29.511</td><td>0.75</td><td>dimethyl- 5-trifluoromethyl</td></tr><tr><td></td><td>13 14</td><td>29.602</td><td>1.715 1.996</td><td>反油酸-苄基二甲硅基脂 Elaidic acid,benzyldimethylsilyl ester 二十三烷酸 2-甲氧基甲酯 Tricosanoic acid,2-methoxy-,</td></tr><tr><td>K3264叶龄期</td><td>1</td><td></td><td>14.199</td><td>methyl ester 2,2-二甲基癸烷2,2-Dimethyloctadecane</td></tr><tr><td>K326 four-leaf stage</td><td></td><td></td><td></td><td>2,2,4,10,12,12-六甲基-7-(3,5,5-三甲基乙基已基)十三烷</td></tr><tr><td></td><td>2</td><td>6.172</td><td>ND</td><td>Tridecane,2,2,4,10,12,12-hexamethyl-7-(3,5,5-trimethylhexyl)</td></tr><tr><td></td><td>3 4</td><td>21.492</td><td>ND</td><td>柠檬酸三乙酯 Triethyl citrate 邻苯二甲酸二异丁酯(DIBP)</td></tr><tr><td></td><td></td><td>23.854</td><td>28.655</td><td>1,2-Benzenedicarboxylic acid,bis(2-methylpropyl） ester 邻苯二甲酸丁基环己酯</td></tr><tr><td></td><td>5</td><td>24.349</td><td>2.942</td><td>1,2-Benzenedicarboxylic acid,butyl cyclohexyl ester</td></tr><tr><td></td><td>6</td><td>24.843</td><td>19.678</td><td>邻苯二甲酸丁基庚酯 Phthalic acid,butyl 2-heptyl ester</td></tr><tr><td>K3266叶龄期</td><td>1</td><td>6.181</td><td>1.832</td><td>2,5-二甲基壬烷 Nonane,2,5-dimethyl</td></tr><tr><td>K326 six-leaf stage</td><td>2</td><td>23.204</td><td>ND</td><td>三十一烷 Hentriacontane</td></tr><tr><td></td><td>3</td><td>23.844</td><td>1.139</td><td>邻苯二甲酸二丁酯（DBP)Di-sec-butyl phthalate ester</td></tr><tr><td></td><td>4</td><td>24.284</td><td>1.561</td><td>Nonadecane 十九烷</td></tr><tr><td></td><td>5</td><td>24.843</td><td>1.047</td><td>邻苯二甲酸丁基己基酯 Phthalic acid，butyl 3-hexyl ester</td></tr><tr><td></td><td>6</td><td>25.292</td><td>3.499</td><td>十一丁基亚硫酸酯 Sulfurous acid,butyl undecyl ester</td></tr><tr><td></td><td>7</td><td>25.283</td><td>ND</td><td>三十一烷 Hentriacontane</td></tr><tr><td></td><td>8</td><td>26.255</td><td>8.203</td><td>三十一烷 Hentriacontane</td></tr><tr><td></td><td>9</td><td>27.134</td><td>20.129</td><td>三十一烷 Hentriacontane</td></tr><tr><td></td><td>10</td><td>28.023</td><td>31.508</td><td>Tetracosane 二十四烷</td></tr><tr><td></td><td>11</td><td>28.984</td><td>23.91</td><td>三十一烷 Hentriacontane</td></tr><tr><td></td><td>12</td><td>29.909</td><td>ND</td><td>2-十九烷酮-2,4-二硝基苯肼 2-Nonadecanone 2,4-dinitrophenylhydrazine</td></tr></table></body></html>
+
+ND：not detected
+
+K326 4叶龄期根系分泌物中主要含有3类物质：（1）烷烃；（2）邻苯二甲酸酯：DIBP、邻苯二甲酸丁基环己酯、邻苯二甲酸丁基庚酯；（3）柠檬酸三乙酯。
+
+K3266叶龄期主要含有4类物质：（1）烷烃；（2）邻苯二甲酸酯：DBP、邻苯二甲酸丁基已基酯；（3）2-十
+
+九烷酮-2,4-二硝基苯肤;(4)十一丁基亚硫酸酯。
+
+常见的自毒物质主要有水溶性有机酸、直链醇、脂肪族醛与酮、简单不饱和内酯、长链脂肪酸与多炔、葱醌与复合醌、简单酚、苯甲酸及其衍生物、肉桂酸及其衍生物、香豆素类、类黄酮、单宁、类萜及甾类化合物、氨基酸及多肽、生物碱与氰醇、硫化物与芥子油苷、嘌呤及核苷等[20-22]。在 Burley 幼苗期根系分泌物中具有自毒作用的是邻苯二甲酸酯及二甲氧基苯酚。邻苯二甲酸酯在二叶龄期及四叶龄期所占的比率分别为 $7 . 6 \%$ 及$0 . 3 \%$ ，而在六叶龄期未检出邻苯二甲酸酯。在 K326幼苗期根系分泌物中具有自毒作用的是邻苯二甲酸酯，分别在二叶龄期、四叶龄期、六叶龄期所占的比率为 $3 5 . 6 \% . 5 1 . 3 \% . 2 . 2 \%$ 。具有潜在自毒作用的是烷酸酯、柠檬酸三乙酯等。
+
+# 2.2烟草幼苗不同叶龄期培养基 $\mathrm { \ p H }$ 值
+
+烟草幼苗不同叶龄期培养基 $\mathrm { \ p H }$ 值如表4。本试验用于培养烟草幼苗的 MS 无琼脂培养基 $\mathrm { \ p H }$ 为5.70。Burley与K326两种烟草幼苗各个叶龄期培养基的 $\mathrm { \ p H }$ 值都比培养前低。两种烟草幼苗随着叶龄期的增加,培养基的 $\mathrm { \ p H }$ 值升高,但都比培养前低。
+
+表4Burley与K326幼苗不同叶龄期培养基的 $\mathbf { p H }$ 值  
+Table 4pH values in the mediums of Burley and K326 in different seedlings stages   
+
+<html><body><table><tr><td rowspan="2">类别 叶龄期</td><td colspan="3">Burley</td><td colspan="3">k326</td></tr><tr><td>二叶龄期</td><td>四叶龄期</td><td>六叶龄期</td><td>二叶龄期</td><td>四叶龄期</td><td>六叶龄期</td></tr><tr><td>Leaf stage</td><td>Two-leaf stage</td><td>Four-leaf stage</td><td>Six-leaf stage</td><td>Two-leaf stage</td><td>Four-leaf stage</td><td>Six-leaf stage</td></tr><tr><td>培养基pH值 pH values in the mediums</td><td>2.57±0.32b</td><td>2.66±0.17b</td><td>3.32±0.19a</td><td>2.53±0.09c</td><td>2.92±0.11b</td><td>3.57±0.22a</td></tr></table></body></html>
+
+表中不同字母表示烟草幼苗不同叶龄期培养基 $\mathrm { \ p H }$ 值在 $\scriptstyle P < 0 . 0 5$ 水平上差异显著,数据为平均值 $\cdot \pm$ 标准差 ${ \it n } = 3$ ）
+
+# 2.3 两种肽酸酯对烟草根系抗氧化活性的影响
+
+# 2.3.1两种肽酸酯对· $\mathbf { O } _ { 2 } ^ { - }$ 产生速率的影响
+
+随着处理浓度的提高,两种肽酸酯对烟草根系· $\mathbf { O } _ { 2 } ^ { - }$ 产生速率都起着显著( $\scriptstyle ( P < 0 . 0 5 )$ 的促进作用（图1），相比两种处理影响, $\mathrm { D B P > D I O P }$ 。两种试剂处理对· $\mathbf { O } _ { 2 } ^ { - }$ 产生速率的影响有显著性差异( $P { < } 0 . 0 5 )$ 。
+
+# 2.3.2 两种肽酸酯对SOD活性的影响
+
+烟草根系 SOD 活性随着DBP 浓度的增加而升高。而SOD 活性随着DIOP 浓度的增加分别在 $0 . 5 \ \mathrm { m m o l / L }$ 时达到最大,然后随着 DIOP 浓度的增大而降低（图2）。两种试剂处理对 SOD 活性影响有显著性差异( $P <$ 0.05)。
+
+![](images/76c69b6ea1072365a72e9698d451e7743956ee4c4b334198c93efd7e7cc8b9da.jpg)  
+图1两种肽酸酯对烟草根系， $\mathbf { \nabla } \cdot \mathbf { O } _ { 2 } ^ { - }$ 产生速率的影响
+
+![](images/099925070e300e6f4348717fa8db101f50e2725388a23b4fb0c2fa2d78c4ea05.jpg)  
+Fig.1Effects of two phthalate esters on rates of $\cdot \mathbf { O } _ { 2 } ^ { - }$ generation in tobacco roots   
+图2两种肽酸酯对烟草根系中SOD活性的影响  
+Fig. 2 Effect of two phthalate esters on SOD activity in tobacco roots
+
+图中不同字母表示相同处理不同PAE浓度在 $\scriptstyle P < 0 . 0 5$ 水平上差异显著，数据为平均值 $\pm$ 标准差( $n = 3$ );DBP：邻苯二甲酸二丁酯dibutylphthalate;DIOP：邻苯二甲酸二异辛酯diisooctyl phthalate
+
+图中不同字母表示相同处理不同PAE浓度在 $\scriptstyle P < 0 . 0 5$ 水平上差异显著,数据为平均值 $\pm$ 标准差( $n = 3$ );DBP：邻苯二甲酸二丁酯dibutylphthalate;DIOP：邻苯二甲酸二异辛酯diisooctyl phthalate
+
+# 2.3.3 两种肽酸酯对CAT活性的影响
+
+烟草根系CAT活性随着 DIOP 浓度的增加而急剧升高。可是,随着DBP 浓度的增加,CAT的活性在0.5mmol/L时达到最大,然后下降至与对照相似的水平（图3）。两种试剂处理对CAT活性影响有显著性差异$( P { < } 0 . 0 5 )$ 。
+
+# 2.3.4两种肽酸酯对烟草根系MDA含量的影响
+
+通常以MDA浓度表示脂质过氧化水平。与对照相比,两种试剂处理的6个浓度都能引起MDA浓度的显著变化( $P { < } 0 . 0 5 )$ ）,MDA浓度随着处理浓度的提高而增大（图4）。这和· $\mathbf { O } _ { 2 } ^ { - }$ 产生速率是一致，因为随着处理浓度的增大，· $\mathbf { O } _ { 2 } ^ { - }$ 产生速率也随之增大。当处理浓度大于 $0 . 5 \ \mathrm { m m o l / L }$ 时， $\mathbf { O } _ { 2 } ^ { - }$ 产生速率大于根系抗氧化防御体系的清除能力,使MDA的浓度显著( $P { < } 0 . 0 5 )$ 增加。相比两种试剂处理对MDA浓度的影响程度， $\mathrm { D I O P > D B P }$ 。但无显著性差异( $\scriptstyle ( P < 0 . 0 5 )$ 0
+
+![](images/7a1c78e7f0c45cc2110c5b146b4be699260cf3c17bff676bf0211dc0e8d7d2ce.jpg)  
+图3两种肽酸酯对烟草根系中CAT活性的影响
+
+图中不同字母表示相同处理不同PAE 浓度在 $\scriptstyle P < 0 . 0 5$ 水平上差异显著，数据为平均值 $\pm$ 标准差( $n = 3$ )；DBP（dibutylphthalate）：邻苯二甲酸二丁酯;DIOP（diisooctyl phthalate）：邻苯二甲酸二异辛酯
+
+![](images/18febbb5e15fa71b24018bc1d4683188a2c61aa78d372ba5886521e8e4d1b7b3.jpg)  
+Fig.3Effects oftwophthalateestersonCAT activityin tobacco roots   
+图4两种肽酸酯对烟草根系中MDA浓度的影响  
+Fig.4Effects of two phthalate esters on the concentration of MDA in tobacco roots
+
+图中不同字母表示相同处理不同PAE浓度在 $\scriptstyle P < 0 . 0 5$ 水平上差异显著，数据为平均值 $\pm$ 标准差( $n = 3$ )；DBP：邻苯二甲酸二丁酯dibutylphthalate:;DIOP：邻苯二甲酸二异辛酯 diisooctyl phthalate
+
+# 3讨论
+
+自毒作用是个体间为了利用有限的资源而进行的一种特殊形式的种内竞争,结果会导致竞争个体适合度的下降,通常表现为密度制约或自疏现象[23]。这将会调解种群数量,使种群由较健康、有活力、更适合周围环境、避免种内竞争的较大个体组成,这样的种群有利于自然选择[24]。
+
+自毒物质主要是通过挥发、淋溶、根系分泌及残体腐解等方式向环境释放[24-25]。而根系分泌物是根系和土壤进行物质、能量交换的重要媒介,是植物产生自毒物质的主要来源之一[26-27]。植物种类、栽培方式及生长阶段等因素能够影响其根系分泌物种类及数量的变化[28-29]。Schumacher 等[30]把野燕麦（Auena fatua）1叶龄期、2叶龄期、3叶龄期及4-叶龄期幼苗的根系分泌物,分别加到春小麦（Triticumaestium var.Fieldwin）生长的培养基中,发现加入了野燕麦2叶龄期、4-叶龄期的分泌物的春小麦，其根和叶的干重显著减少。此试验表明野燕麦在2叶龄期及4-叶龄期分泌的毒性物质较多。Cieslinski等[31]研究也发现：不同种小麦（Kyle和 Arcola）,在 Sutherland、Waitville及Yorkton3 种不同土壤中,其根系分泌低分子量有机酸的量不尽相同,都存在Yorkton $<$ Waitville<Sutherland 的规律。在本研究中,水培烟草 Burley 和 K326 幼苗不同叶龄期根系分泌物种类及相对含量也是不同的,且都在2叶龄期种类最丰富,所分泌的自毒物质PAEs,在二叶龄期相对含量也最高,并随着幼苗的生长呈现逐渐降低的趋势（表2,表3）。
+
+根系分泌的自毒物质主要通过苯丙烷代谢、异戊二烯代谢及生物碱合成等途径产生的次生代谢产物[20]。苯甲酸及其衍生物是常见的自毒物质[21」。烟草幼苗根系所分泌的邻苯二甲酸酯不仅具有自毒作用,同时也是环境内分泌干扰物，具有激素性作用[32]。当自毒物质达到一定浓度时,能够引起根细胞各种生理功能的改变[3-4],包括活性氧（reactive oxygen species，ROS）产生速率的变化。在胁迫条件下,ROS 的增加是共同的或普遍的是特征[35]。细胞的ROS有4种形式：· $\mathbf { O } _ { 2 } ^ { - }$ 、羟自由基 $( \mathbf { \partial } \cdot \mathrm { O H } )$ ）、 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 及单线态氧 $( 0 ^ { 1 } )$ ）。其中· $\mathbf { O } _ { 2 } ^ { - }$ 是生物体中第一个生成的氧自由基,它既能与体内的活性物质直接作用,又能经过一系列反应转化生成·OH、$\mathrm { H } _ { 2 } \mathrm { O } _ { 2 } \ b { \Omega } _ { 3 } ^ { 1 }$ 等其它的氧自由基,具有更大的危害性[36]。本研究在盆栽烟草试验中,由于施加了自毒物质 PAEs,使得烟草根细胞产生· $\mathbf { O } _ { 2 } ^ { - }$ 的速率显著( $P { < } 0 . 0 5 \mathrm { ~ ; ~ }$ )增加（图1）。这与Papadakis 和Roubelakis-Angelakis 研究的结果类似[37]。
+
+在正常的生理条件下,烟草根系产生的· $\mathbf { O } _ { 2 } ^ { - }$ 能够被其抗氧化防御系统有效清除。其中起主要作用的是SOD 和CAT,SOD 能清除· $\mathbf { O } _ { 2 } ^ { - }$ 使之形成 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ ，而 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 随后能被CAT 和过氧化物酶转化成 $\mathrm { H } _ { 2 } \mathrm { O } ^ { [ 3 8 ] }$ 。SOD 是细胞防御的第一步[39],是抗氧化防御系统的关键酶[40]。CAT 是细胞胁迫防御必不可少的,能够移除大量的 $\mathrm { ~ H } _ { 2 }$ （204号$\mathrm { ~ O } _ { 2 }$ ,尤其是在 $\mathrm { C } _ { 3 }$ 植物中[41]。在本研究中,随着自毒物质PAEs 处理浓度的增加,烟草幼苗根系中 SOD 和CAT活性逐渐增强,但在高浓度下又急剧下降（图2,3）,作物脂质过氧化指标的MDA含量也随着两种PAEs处理浓度的增大而显著( $P { < } 0 . 0 5 )$ 增大(图4)。这种现象的原因可能是：在中等胁迫下烟草根系产生的· $\mathbf { O } _ { 2 } ^ { - }$ 能够被其自身的抗氧化系统有效清除[42-43]。可是在更加严重的胁迫阶段( $\mathrm { > } 0 . 5 \mathrm { \ m m o l / L }$ ）,产生速率过快的· $\mathbf { O } _ { 2 } ^ { - }$ 及其产物 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 能使根系抗氧化系统的清除能力达到饱和,过量的· $\mathbf { O } _ { 2 } ^ { - }$ 和 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 一方面能进一步使酶失活[44],另一方面能破坏细胞间疏基,使存在于细胞质膜内磷脂双分子层中的不饱和脂肪酸链氧化分解而造成质膜结构的破坏,造成根尖细胞膜系统的氧化损伤（产物为MDA）,并进一步破坏细胞的内部结构（损伤的细胞也更容易受到有害细菌的侵染)[45]。Ye等[46]在用0.05—0.25 mmol/L的肉桂酸处理黄瓜幼苗作用后也发现：其根系中 SOD 与CAT 的活性,MDA与 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 的含量及· $\mathbf { O } _ { 2 } ^ { - }$ 的产生速率随着肉桂酸的浓度增加而显著增加,细胞膜质过氧化加剧,进而黄瓜镰孢霉萎蔫病(Fusariumwilt)也加剧了。
+
+值得注意的是,本试验用于培养烟草幼苗的 MS 无琼脂培养基 $\mathrm { \ p H }$ 值为5.7。在培养烟草幼苗过程中, $\mathrm { \ p H }$ 值普遍降低至3.0左右，而且随着幼苗的生长、发育， $\mathrm { \ p H }$ 值有升高的趋势(表4)。根据 $\mathrm { Y } \mathrm { u }$ 和Matsui47研究结果，“黄瓜根分泌物中的芳香酸衍生物能抑制黄瓜对 $\mathrm { N O } _ { 3 } ^ { - } , \mathrm { K } ^ { + } , \mathrm { M g } ^ { 2 + }$ 等离子的吸收, $\mathrm { \ p H }$ 的下降能加强抑制作用”,可以推测：烟草的自毒作用可能是由于其根系分泌的具有良好的亲脂性的PAEs及烟草植物生长介质下降的pH值等因素共同促成的。
+
+# 4结论
+
+烟草Burley及K326在幼苗期的不同叶龄期根系分泌物的种类及相对含量是不同的：Burley幼苗期根系分泌物主要有3种,K326幼苗期根系分泌物主要有9种。两种烟草不同叶龄期根系分泌物的种类和相对含量有显著性差别。而且这两种烟草都能产生自毒物质PAEs,及潜在自毒物质烷酸酯等。在烟草幼苗在生长过程中,所产生的PAEs 的相对含量逐渐减少。
+
+随着PAEs处理浓度的增加，烟草植物根系产生· $\mathbf { O } _ { 2 } ^ { - }$ 的速率逐渐增大，SOD和CAT活性也逐渐增强。但当处理浓度大于 $0 . 5 \ \mathrm { m m o l / L }$ 时,产生· $\mathbf { O } _ { 2 } ^ { - }$ 的速率超过自身抗氧化系统清除能力，造成根尖细胞膜系统的氧化损伤,从而使细胞质膜的通透性增加、离子渗漏增大,造成元素吸收的失衡等一系列生理生化的变化,并最终表现出烟草的自毒作用。
+
+# 参考文献（References）：
+
+[1]WalkerTS,BaisHP,GrotewoldE,VivancoJM.Root exudationandizospherebiologylantPhysiology，O0332（1):4-51.  
+[2]Xie X N,Kusumoto D，Takeuchi Y,Yoneyama K，Yamada Y，Yoneyama K. $2 ^ { \prime }$ -epi-orobanchol and solanacol，two unique strigolactones,germinatiostiulatsfrarasitcweedsroducdbyaccoualofgriculturalndFoodeistrOo,55（）：80.  
+[3］晋艳，杨宇虹，段玉琪，龙玉华，叶成碧.烤烟连作对烟叶产量和质量的影响研究初报.烟草科技，2002，（1)：41-45.  
+[4] 邓阳春，黄建国.长期连作对烤烟产量和土壤养分的影响.植物营养与肥料学报，2010，16(4)：840-845.  
+[5]Weir,arkSWViacoJocicalioicalassaedyeloecalutOinatlo，2004,7(4) : 472-479.
+
+http://www.ecologica.cn
+
+[6]JiaHaiatesa,87-96.  
+[7]SunYYJiagG，WeiXC,LiJGAtotoxitetsflotousloppdwitoatoelopathyJoal，（):135- 144.  
+[8］刘苹，赵海军，仲子文，孙明，庞亚群，马征，万书波.三种根系分泌脂肪酸对花生生长和土壤酶活性的影响.生态学报，2013，33(11)：3332-3339.  
+[9］郭亚利，李明海，吴洪田，袁玲，黄建国.烤烟根系分泌物对烤烟幼苗生长和养分吸收的影响.植物营养与肥料学报，2007，13（3)：458-463.  
+[10]YeasmnRkaatsK,tsotiS，isaEaotSfereeoflopatdtotoicitetaaasparagus（Asparagus officinalis L.），Australian Journal of Crop Science，2014,8(2）: 251-256.  
+[11]LiuP,WanSB,JiangLH,WangCB,LiuZH,ZoHJ,YuSF,YngLAutoxpotentialfrotexudatesofpeaut（AchisgeaL.).Allelopathy Journal,2010,26(2）:197-205.  
+[12]MazoleniS，BonanomiG,ncertiG,husanoML,TermolinoP,MingoA,SenatoreM,GianninoF，CarteniF,Rietkerk,otiV.Inhibitorydosftaelilit：efgatlaclst，（）1195-1210.  
+[13]MurashgT,oogF.ArevisedmdiumforapidgrowthndoassayswithobaccissecuresPhysiologiaPlantaru，96，5（）：473-497.  
+[14]Walch-LuemanG，ngerthF，EngelsCapidofnitrogenfooefoogeesisintobcoJoualofExpitalBotany，2000,51(343）:227-237.  
+15]YiJH,sl51-61.  
+[16]DindsS，atoeWDrouhtoeraceiooeladieaticfeceistidproatioJoualofptalBotany，1981,32(1)：79-91.  
+[17]BeersRFJzerIWsptrootometricetodformeasuringtebeadowofhydrgenperoxidebyatalase.TheJalfiolgicalChemistry，1952，195(1）：133-140.  
+8HeathceooedsetdBiophysics，1968,125（1）：189-198.  
+19]EstnerEFupeaofhroidoaedellwllehcialaGlb.(2): 175-180.  
+[20TangCakeakaantitoofactieeablitdistubedspeooateFraalfChemical Ecology，1983,9（8）:1247-1253.  
+[21]Rice E L. Alelopathy.2nd ed. Orlando,Florida:： Academic Press，1984.  
+[22]Inderjit.Plant phenolics in alllopathy.The Botanical Review，1996,62(2）:186-202.  
+2]Weleesefsiatosodadpas/ofAmerican Naturalist.1989,133(1)：20-41.  
+[24]SinghHtishKKtotiitoeptgsdolcai.rialveinlantS(6) : 757-772.  
+25]Inderjitlacatstotedestadgofasioldia(12): 574-580.  
+26]Kato-ccsaeaesisooalalti2004,161(3): 271-276.  
+27]El-alatHoafteftaooe（Odand tubercle development. Crop Protection，2006,25(5）： 501-507.  
+28]NemaGaoeartiEldVicaldtatstossfingprotdelotelupin.Planta，1999,208（3）：373-382.  
+29]TylerGrLifgoaciddatiopeexplsfuedfuavouofantasofta，)75-78.  
+[30]SchacerWJ,il,LeeGelopathicpotetialofidat（Aefatu）sprngeat（itiestiu）growJolfChemical Ecology，1983，9（8）：1235-1245.  
+[31]CiesliskiGnRsKCJigielsaAisartiG,uagLwoleular-etanccidsinsplfdurum wheat and their efect on cadmium bioaccumulation.Plant and Soil,1998,2O3(1）：109-117  
+[32] 屠振力，钟儒杰.环境激素邻苯二甲酸丁基苄酯对家蚕生殖的影响.生态学报，2014，34(19)：5470-5476.  
+33]AlasJosasautotoitysatdegeinstuiferLntd,282(1/2):327-332.  
+[34] MaYQ,JiaJNnY,WangZ,MaoJC.otentialfsomehybridmaizelinestoiducegerminationofSunflowerBroorape.Cropcienc,2013，53(1):260-270.  
+35]Foyouetotepoadc,Cell & Environment,1994,17(5）：507-523.  
+[36]Hallwell B,GuteridgeJM C.Free radicals in biology and medicine.4th ed.Oxford：Glarendon Press，1985.  
+37]PapadakisKoubelakis-gelakisKeiooftieoygseiesdifsinbacdapvieophllprotopsatPhysiology，1999，121（1）：197-206.  
+[38］邓家军，胡继伟，李继新，苏贤坤，黄先飞，刘峰.重金属离子对烤烟叶片中铜锌超氧化物歧化酶活性的影响.中国烟草学报，2010,16(3): 1-6.  
+39]Mobinidjphotosynthetic capacity subjected to cadmium stress.Journal of Plant Physiology，2007,164(5）：601-610.  
+[40] VanCampW,INZEDVanMntaguM.eregulationadfuctionoftobaccosuperoxidedismutasesFreeRadicaliologyndMedicine,97,23(3):515-520.  
+[41]Willekens H,Chamnongpol S,Davey M, Schraudner $\mathbf { M }$ , Langebartels C,Van Montagu M,INZE D,Van Camp W. Catalase is a sink for $\mathrm { H } _ { 2 } ^ { } ( \boldsymbol { 0 } _ { 2 }$ （20and is indispensable for stress defense in $\mathrm { C } _ { 3 }$ plants.the EMBO Journal,1997,16(16）：4806-4816.  
+[42] BaisHP，VepacheduR,GlroyS，CallwayRM,VivancoJM.Aelopathyndexoticplantinvasion；frommoleculesandgnestospeciesinteractions.Science，2003，301(5638）：1377-1380.  
+[43] 李志萍，张文辉，崔豫川.NaCl 和 $\mathrm { N a } _ { 2 } \mathrm { C O } _ { 3 }$ 胁迫对栓皮栎种子萌发及幼苗生长的影响.生态学报，2015，35(3)：742-751.  
+[44]FoyerCedDatcoIroidedutaeoaesfatosignalling.Physiologia Plantarum，1997,100(2）：241-254.  
+[45] BaziramakengaR,LerouGD,imadREfectsofenzicdiamiccidsoebraneeeabiltofsobeanrotsJoualofcalEcology，1995,21(9)：1271-1285.  
+[46]YeSF,ZoYYouLJadusesoidativetresicberotsndrotescdeefil.Environmental and Experimental Botany，2006,56(3）：255-262.  
+[47]YuJQatsufectsofoexuatescber（Cumisstis）dloalsouptakebcubealfChemical Ecology，1997,23(3）：817-827.

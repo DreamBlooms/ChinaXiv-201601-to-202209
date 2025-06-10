@@ -1,0 +1,410 @@
+[
+    {
+        "type": "text",
+        "text": "南极中山站全天信息采集系统",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王宇1,3,4，辛玉新1,3,4，姜鹏²，杨勇³，伦宝利1,5，王传军1.5，余晓光1,5，常亮1,3.5，范玉峰1,5(1.中国科学院云南天文台，云南 昆明 650011；2.中国极地研究中心，上海 200136；3．安徽省黄山市休宁县气象局，休宁 245400；4.中国科学院大学，北京 100049；5.中国科学院天体结构与演化重点实验室，云南昆明 650011）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：南极高原拥有独特的天文观测条件，为对南极中山站夜天文观测条件进行实测研究，中国科学院云南天文台特殊研制了一套具有耐低温、自动除雪除霜等适应南极气候性能的全自动全天信息采集系统。该系统可以提供实时的全天云量、天光背景和全天图像，并可将信息推送到网页实时显示。本文介绍了这套系统的研制，及为适应南极气候所进行的耐低温实验。后统计分析了中山站2016-2017两个年度的全天信息数据，初步得出中山站的可观测小时数、可观测夜数、天光背景及温湿度条件。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：全天信息；红外云量计；云量中图分类号：P111.33 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "理论和观测研究表明，南极大陆可能存在着地球上最好的天文台址资源[1]。主要体现在：一是南极大气稀薄、空气干燥、气温极低，适合进行红外和太赫兹波段的观测；二是极夜期间可以开展不间断的时序观测，对时域天文学有重要意义；三是大气边界层极低，具备极好的视宁度条件。中国先后在南极建立了长城站、中山站、昆仑站和泰山站，昆仑站位于地球上最好的观测点之一的冰穹A(Dome A)地区[3]，天文学家先后在昆仑站安装了PLATO(PLATeau Observatory）、CSTAR(Chinese Small Telescope ARray)、 SNODAR (Surfacelayer NOn-Doppler Acoustic Radar)和AST3(Antarctic Survey Telescope)等多台设备[4]昆仑站位于南极大陆最高点，海拔 $4 0 8 7 \\mathrm { { m } }$ ，气候条件极其恶劣，仅可供科考队员度夏。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中山站位于南极大陆边缘,平均海拔 $1 1 \\mathrm { m }$ ，距离昆仑站 $1 2 5 0 \\mathrm { k m }$ ，站上生活齐备，可供考察人员度夏及越冬，常年气温低、温差大、湿度小、风力强，具有明显的大陆性特征[5]。2015年年最低气温 $. - 4 0 ^ { \\circ } \\mathrm { C }$ ，年平均相对湿度 $5 9 . 8 \\% ^ { [ 6 ] }$ 。中山站有极昼和极夜现象，极昼和极夜持续约55天和58天[]。中山站主要开展极区高空大气物理、冰雪和大气、海洋、地质、地球化学（陨石）、地理、环境监测等科研观测和研究。为适应未来南极天文发展需求以及内陆考察发展趋势，有必要在中山站筹划建设南极天文运行保障和测试基地。“全天信息采集系统”作为首批运行在中山站的夜天文观测设备之一，将为南极天文中山站基地的规划设计提供重要的实测依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "全天信息采集系统集成了天文观测所关心的全天信息，如全天云量、天光背景、全天图像等，对开展天文观测和监测台址信息有着重要作用。同时系统拍摄的全天图像也可以提供丰富的信息，如云量、极光形态特征等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1中山站全天信息采集系统简介",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "南极中山站全天信息采集系统于2015年7月由云南天文台丽江天文观测站开始研制，8月底组装完成，随后经过多次耐低温实验及整体测试，10月10日成功交付中国极地研究中心天文研究室。并随第32次南极科学考察运至南极，最终于2016年3月20日在中山站红色房顶安装完毕，正式开始采集数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9d2e747bf6188de6117d9b2f0736d37db6f63f083f85865af29606f581086456.jpg",
+        "img_caption": [
+            "图1设备安装在中山站红色房顶",
+            "Fig.1 Equipment Installed on the red roof of Zhongshan Station "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "该系统可以对中山站全天云量和天光背景进行实时监控，并拍摄实时全天图像，提供全天信息监视功能，采集数据保存到本地硬盘，同时推送到网页显示。该系统实现了完全无人值守，具有自动除雪、除霜等功能，可以很好的适应南极气候条件。设备自安装在南极中山站后，设备运行状况良好，运行期间未出现严重故障。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1系统设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "全天信息采集系统由工控机进行集中控制、数据采集、存储和发布，外部通过两根电缆对设备进行供电和供网。系统内部硬件有电源、云量计、全天相机、天光计和双温度采集模块，系统框图[如图2所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1fde6bfcc4b5d9b601ed5fe4d2eb7478e960cde3577f5fc7339d69679f929232.jpg",
+        "img_caption": [
+            "图2全天信息采集系统框图[5]",
+            "Fig.2Architecture of All-Sky Information System "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "全天云量采集使用的是云南天文台自主研制的云量计[9]。设计原理是，云在红外波段的红外辐射特性相同，而大气的增温主要依靠吸收地面的长波辐射，天空中的云量越多,吸收的长波辐射就越多，温度就越高，和地面温度的差值就越小。利用MLX90614 $( \\pm 0 . 5 ^ { \\circ } \\mathrm { C } , - 7 0 ^ { \\circ } \\mathrm { C } \\sim$ $+ 3 8 0 ^ { \\circ } \\mathrm { C }$ )红外温度计得到天空温度 $T _ { s }$ ，再得到地表环境温度 $T _ { a }$ ，得到差值 $T _ { d } = T _ { a } - T _ { s }$ ,再根据云晴公式 $C = b - k \\times T _ { d }$ 计算出云量成数。式中 $T _ { d }$ 被定义为晴朗度， $c$ 为云量成数，将云量计探测到的天空面积作为10，若 $10 \\%$ 的面积有云，则 $C = 1$ ，若 $30 \\%$ 面积有云，则 $C = 3$ ; $b$ 和$k$ 为常数，与安装地点的地理环境和地形地貌有关，其确定方法是，根据已采集的全天图像，人为的确定与云量计相同探测范围的云量成数，统计相同时刻的晴朗度，得到云量和晴朗度的对应关系（见表1)，然后通过最小二乘法进行拟合，计算得出 $b$ 和 $k$ 的值。图3为云晴公式拟合图，在拟合过程中发现白天和晚上所适用的云晴公式有明显差别，因此对白天和夜晚的分别拟合。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1云量和晴朗度对应表",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/8876f1625cca0b9c4afe33889b6929848a27fb7d1e1103b4373832233ce4c56f.jpg",
+        "table_caption": [
+            "Tab.1 Cloudcover and Clearness Correspondence Table "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Cloud Cover of Daytime</td><td>Clearness of Daytime C</td><td>Cloud Cover of Night</td><td>Clearness of Night C</td></tr><tr><td>0</td><td>42</td><td>0</td><td>40</td></tr><tr><td>1</td><td>40</td><td>1</td><td>39</td></tr><tr><td>5</td><td>34</td><td>5</td><td>34</td></tr><tr><td>10</td><td>25</td><td>10</td><td>26</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/676deb67132de8a038d181b30e8e708a775191b6ed36f3d5ac723c4bf5d4711a.jpg",
+        "img_caption": [
+            "图3云晴公式拟合图",
+            "Fig.3TheFittingDiagramofCloudyFormula "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "全天相机(All-Sky Camera)[1o]由佳能700D单反相机和适马 $4 . 5 \\mathrm { m m } \\ \\mathrm { F } 2 . 8$ 鱼眼镜头组成，通过MiniUSB线将相机与工控机相连实现控制与数据传输，并给配有相机电源提供7.4V供电。全天相机对天顶距 $9 0 ^ { \\circ }$ 范围进行监控，每5分钟拍摄一副全天空图像 $3 6 0 ^ { \\circ } \\times 1 8 0 ^ { \\circ }$ 全天空视场),原图存储在控制计算机中，并生成一张缩略图，添加文字水印和时间发送到网页显示。全天相机可以根据天光亮度值来调整曝光参数，使得拍摄图像更清晰。佳能700D快门次数在10万次左右，附有单反相机备件可供更换。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "天光背景计采用加拿大Unihedron公司生产的SQM-LE夜天光检测仪器作为采集设备，可以不断探测天顶附近的可见光波段的天光背景，该仪器已经被国际暗夜协会定为天文夜天光背景的标准仪器之一，该仪器测量的数据可以同世界上绝大多数天文台站进行比较。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2系统参数",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/954c2e0172915d4e374447224aefdba828f6c172d7da8404f5f0efa4ecf368eb.jpg",
+        "table_caption": [
+            "Tab.2 System Parameters "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Physical Parameter</td><td>Sampling Rate</td><td>Measurement Accuracy</td><td>Operating temperature</td><td>Detection Range</td></tr><tr><td>Allsky Cloud Cover</td><td>1min</td><td>±10 %(Calculated with10 cloud amounts throughout the day, with</td><td>-45℃~75℃</td><td>Zenith Distance 60o</td></tr><tr><td>Darkness</td><td></td><td>an accuracy of 1 cloud amount)</td><td></td><td></td></tr><tr><td></td><td>1min</td><td>±10%(±0.1Mag/arcsec²)</td><td>-45℃~85℃</td><td>Zenith Distance 60o</td></tr><tr><td>Allsky Images</td><td>5min</td><td></td><td>-45℃~45℃</td><td>Zenith Distance 60o</td></tr><tr><td>Inside and Outside Temperature</td><td>1min</td><td></td><td>-45℃~45℃</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "系统参数如表2所示，该系统使用DS18B20 $( \\pm 0 . 5 ^ { \\circ } \\mathrm { C } , - 1 0 ^ { \\circ } \\mathrm { C } \\sim + 8 5 ^ { \\circ } \\mathrm { C } )$ 数字温度传感器作为双温度采集模块，可对设备内部和外部温度实时监控，内部温度计嵌入箱体，探测外部温度的探头完全裸露在箱体外侧。系统全部硬件均固定在PELI-1500防水箱内部（防水箱外部尺寸 $4 7 \\times 3 5 . 7 \\times 1 7 . 6 \\mathrm { c m }$ ，内部尺寸为 $4 2 . 5 \\mathrm { ~ x ~ } 2 8 . 4 \\mathrm { ~ x ~ } 1 5 . 5 \\mathrm { c m } \\rangle$ ，如图4所示。设备内部还安装有两个加热器、一个散热风扇，其中一个100W的加热器后端带上风扇，放在工控机上，对着相机镜头吹风，风扇是一直运转的，加热器由加热控制器控制；另一个150W的加热器固定在箱体上盖天光计旁，加热器型号为HV031，该加热器使用PTC加热片工作，具有热阻小、换热效率高的优点，寿命可达十年以上。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d7c74c9c5dfa8e35e30cde09dfa1c73372d33e0f9c3b6559634044858f405ba.jpg",
+        "img_caption": [
+            "图4 设备内部示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "箱体顶部开一个圆孔和矩形孔，圆孔处固定有具备三防功能（防水、防结露、防结霜)的半球形亚克力透明罩，全天相机可通过该透明罩拍摄全天图像，矩形孔固定透明玻璃罩，天光计可以透过该玻璃罩采集天光背景数据。底部开有小孔安装有12V散热风扇，由风扇控制器进行控制。侧面开四个孔固定传感器和连接线缆，如图5所示，侧面从左到右依次是温度传感器、云量传感器、220V供电电缆和RJ45网线。防水箱本身具有良好的密封性能，表面不易结露结霜，所有硬件均通过螺丝固定在防水箱内部，易维护、拆卸和更换，并对防水箱所有开孔位置使用耐低温胶进行固定。设备在交付时附有维护说明、以及部分故障解决办法，并提供了云量计、温度计、单反相机、单反相机电源模块、开关电源模块、220V和12V风扇、固定螺丝等原件的备件以供更换。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/980baf54e43c7181d02a9b8ee084c659eeca961cdf7c64f2011e33d86a7b6265.jpg",
+        "img_caption": [
+            "Fig.4 Schematic Diagram Inner Device ",
+            "图5全天信息采集设备",
+            "Fig.5 All-Sky Information Acquisition Equipment "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2耐低温实验 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为适应南极气候，全天信息采集系统各元件均选用耐低温硬件，并经过耐低温检测。低温检测选用上海品顿公司的GDW-165高低温试验箱，在丽江天文观测站精密仪器实验室进行，检测结果表明，系统所有原件和电缆都可以在 $- 4 5 ^ { \\circ } \\mathrm { C }$ 条件下正常工作。在系统封装完成后，同样对设备整体进行耐低温实验，实验过程中将设备放入高低温试验箱，通过远程桌面与设备内部工控机连接，运行采集程序，实时观察双温度采集模块采集的设备内外温度，以及通过全天相机拍摄的图像判定亚克力透明罩是否有结露、结霜现象。实验过程中，不断对设备进行调整，在设备内部放置干燥剂，调节加热器和散热扇启动温度来控制设备内部温度避免结露和结霜。最后确定将设备内加热器控制器温度设为 $1 5 \\mathrm { { ^ \\circ C } }$ ，设备内部温度低于 $1 5 \\mathrm { { ^ \\circ C } }$ 控制加热器对设备内部加热，风扇控制器控制温度设定在 $2 0 ^ { \\circ } \\mathrm { C }$ ，设备内部温度高于 $2 0 ^ { \\circ } \\mathrm { C }$ 时散热扇工作。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/abce6ab23feea05c517484fac1bf5853330ed6671232be69928d81d5d352d07c.jpg",
+        "img_caption": [
+            "图6左：GDW-165高低温试验箱；右：设备放置在实验箱中 Fig.6Left panel $\\because$ GDW-165High and low Temperature Test Chamber Right panel $\\because$ The Device is Placed in the Test Chamber "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.3数据存储与发布",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "全天信息采集系统按照软件设定的参数，自动采集全天云量、天光背景、双温度数据，保存到TXT文档中，每天分别生成一个文档存储在工控机硬盘中。每5分钟拍摄一副全天图像，每幅图像1.2M左右，以拍摄时间为文件名进行存储，一天数据量在346M左右。并通过WEB服务将站址信息和全天图像推送到网页实时显示，如图7，图片左栏是中山站当前全天信息，右侧是全天相机采集的实时全天图像。实现了本地和局域网访问、查看，及对全天信息的实时监控。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1816b5f7edb9d049d881829b19559cb36fd787dff77f884c1456018fcfb0400b.jpg",
+        "img_caption": [
+            "图7中山站全天信息采集系统网页",
+            "Fig.7 Zhongshan Station All-Sky Information Acquisition System Webpage "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2中山站全天信息分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "全天信息采集系统于2016年3月20日在中山站安装后，持续采集数据，积累了大量的全天信息数据，本文利用2016、2017两个年度的全天云量、天光背景、极光和温度数据，结合休宁县气象局的杨勇老师提供的2016年中山站相对湿度资料进行了统计分析。初步得出中山",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "站的可观测小时数、可观测夜数，以及天光背景、全年极光情况和温湿度条件。中山站位于南极圈内，存在极昼极夜现象，2016—2017年度极夜期为5月27日至7月15日，极昼期为11月21日至次年1月21日。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1可观测时间和可观测夜",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "可观测时间和可观测夜是衡量光学天文台址的重要指标，全天云量覆盖可以很好的反映台址的可观测时间，全天信息采集系统可以对中山站云量进行实时监测。可观测时间和可观测夜的定义不完全相同，这里按照云量 $\\leq 3$ 的标准来统计可观测小时数，其中每晚的可观测时间，如果是连续的，且超过3小时的，记为一个可观测夜，并且还必须满足风速 $\\leq 1 5 m / s$ 相对湿度 $< 9 0 \\% ^ { [ 1 1 ] }$ ，本文仅考虑了云量和湿度因素。图8和图9为中山站2016、2017年可观测小时数和可观测夜数，2016年可观测小时为772.2小时，可观测夜数为93；2017年可观测小时为437.38小时，可观测夜数为51。本文统计的是天文昏影终至天文晨光始时间段的可观测时间，即太阳地平高度 $\\le - 1 8 ^ { \\circ }$ ，中山站10月至次年2月太阳地平高度均大于等于 $- 1 8 ^ { \\circ }$ ，所以图中10月至2月的可观测时间为0。从图8和图9中可以看出中山站2016年和2017年4、5、8月的可观测小时数和可观测夜数有明显差异，通过对比两个年度相应月份的云量及全天图像发现设备并无故障，属客观现状，图10给出了中山站2016、2017年月均云量统计情况。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/4d4d8ae0f1d428339bbb12a3de6f01309a966668d7e155cfa6bc672cb7ff5488.jpg",
+        "img_caption": [
+            "图8 中山站2016、2017年可观测时间",
+            "Fig.8 Observable Hours of Zhongshan Station in 2016、2017 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/450756a3427b5b4ad7f200c6d35add8a78886476918adca33f2c675d56df37a4.jpg",
+        "img_caption": [
+            "图9中山站2016、2017年可观测夜数"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a652453b437a5f40932f85cdbfad70d8c93b9d6beeedd8227ef203a87493981a.jpg",
+        "img_caption": [
+            "Fig.9 Observable Days of Zhongshan Station in 2016、2017 ",
+            "图10 中山站2016、2017年月均云量",
+            "Fig.10 Monthly Average Cloud Cover of Zhongshan Station in 2O16、2017 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2天光背景 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "天光背景也称为夜天光亮度，也是衡量光学天文台址好坏的重要指标，主要影响天文观测的极限星等和信噪比。天光背景通常用每平方角秒的星等(Mag/arcsec2)来表示，背景越暗值越大，优秀的天文台址，V波段的天光背景亮度应达到 $2 1 . 5 { \\sim } 2 2 . 0 M a g / a r c s e c ^ { 2 } ^ { [ 9 ] }$ 。全天信息采集系统使用的天光背景计SQM-LE的中心波长为 $5 5 0 n m$ ，即V波段，在南极中山站测量的天光背景最大值（无月、晴朗夜晚）为 $2 2 . 1 3 M a g / a r c s e c ^ { 2 }$ ,采集日期为2017-07-03，如图11所示，其中 $1 6 { : } 1 0 { \\sim } 0 8 { : } 0 0$ 期间天光背景有抖动，对照全天图像发现是由于极光引起的。该天光计安装于全天信息采集系统内部，传感器对着天顶，透过亚克力透明罩测量天顶附近的天光背景数值。由于透明罩有一定的挡光效应，会导致SQM的测量结果偏暗，因此安装之初在不同暗度条件下测量了该亚克力遮罩的偏差值为-0.08，所以中山站天光背景最大真实值为 $2 2 . 0 5 ~ M a g / a r c s e c ^ { 2 }$ ，并且中山站两个年度的夜晚天光背景的均值和中值分别为17.02Mag/arcsec²和 $1 8 . 6 M a g / a r c s e c ^ { 2 }$ ，均为改正偏差后的真实值。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ea923836bc29ea851429224c42a63ce7310313b9a227dfd8a4d5f542ca02081.jpg",
+        "img_caption": [
+            "图11中山站2017年07月03日天光背景",
+            "Fig.11 Sky Darkness of Zhongshan Station on 2O17-07-03 ",
+            "图12 2016-2017年中山站气温月变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.3温度与相对湿度",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "全天信息采集系统配有双温度采集模块，可以实时采集设备内外温度，其中采集外部温度的探头在设备外部，其数值可以一定程度上反应中山站当前温度，本文根据设备外部温度数据简单分析中山站气温变化情况，同时中山站也设有符合中国气象局地面观测规范的气象站来进行气象观测工作。图12是中山站2016年3月—2017年气温逐月变化情况，图13是中山站气温日变化情况，其中2016-2017年平均气温为- $\\cdot 1 0 . 6 ^ { \\circ } \\mathrm { C }$ ，最高气温 $1 9 . 1 \\mathrm { { ^ \\circ C } }$ ，出现在2016年12月，极端最低气温 $. 4 4 ^ { \\circ } \\mathrm { C }$ ，出现在2016年9月，月平均最低气温出现在2016年6月，为- $1 9 . 9 9 ^ { \\circ } \\mathrm { C }$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "max:19.1C ★-avg:-10.6°C median:-11.2°C ★min:-44.0°C 20 19.1 18.5 17.1 15.3... 15.3 15.6 10 10.4 9.0 8.1/ 0 -26 -5.1 1.5 -3.5 -3. 022 35 416 /-0.3 4.31 4.16 00 06 3 4.5 -1.2 2.8 4.2 -3.5 -1.3 0.9 -0.2 -6.6. 72. 33 -3.4 7.05 /1.6   \n02 14.87 5 -11.6 76 -6.6 1 中 .5 1 -14.2 -2215 -19.6 -18.4 25.7 20.7 -23.1 -25.0 26.1   \n-30 -301 29.1 -323   \n-40 -38.4 -37.2 -36.1 -41.0 -41.2   \n-50 2016-03 2016-04 2016-05 2016-06 2016-07 2016-08 2016-09 2016-10 2016-11 2016-12 2017-01 2017-02 2017-03 2017-04 2017-05 2017-06 2017-07 2017-08 2017-09 2017-10 2017-11 2017-12 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.12 Monthly Temperature Distribution at Zhongshan Station in 2016-2017 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Max Median Min   \n−30   \n-40   \n-50   \n2016-03-22016-04-01 2016-05-01 2016-06-01 2016-07-01 2016-08-01 2016-09-01 2016-10-01 2016-11-01 2016-12-01 Max Avg Median Min VW \\N   \n-10   \n-20   \n-30   \n-40   \n2017-01-01 2017-02-01 2017-03-01 2017-04-01 2017-05-01 2017-06-01 2017-07-01 2017-08-01 2017-09-01 2017-10-01 2017-11-01 2017-12-01 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "图14是中山站2016年相对湿度月变化情况，可以看出中山站相对湿度较小，2016年平均相对湿度为 $5 5 . 2 \\%$ ，月最低平均相对湿度为 $4 6 . 6 \\%$ ，月平均相对湿度在 $4 6 \\% \\sim 6 5 \\%$ 之间。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/24ede961c08f7fc54d0b1b8d658842fd51503456827980754d6911e92919a753.jpg",
+        "img_caption": [
+            "图132016-2017年中山站气温日变化",
+            "Fig.13 Daily Temperature Distribution at Zhongshan Station in 2016-2017 ",
+            "图14 2016-2017年中山站相对湿度",
+            "Fig.14 Monthly Relative Humidity at Zhongshan Station in 2016 "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3总结与展望 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "南极中山站全天信息采集系统集成了全天图像、云量、天光背景、设备内外温度采集功能，易于安装和携带，并具有自动运行、除雪除霜等功能，对光学天文台址全天信息的实时监测有着重要意义。设备安装在中山站，传回数据显示设备可以适应南极极端的气候条件，并为中山站积累了大量实测数据，上述仅分析了2016、2017两个年度的数据，初步得出中山站的可观测时间、可观测夜数、天光背景条件和气温情况，为后续在中山站开展天文观测提供了实测依据，同时系统拍摄了大量的全天图像，后续可以通过图像处理得到更多信息。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1] Burton,M.G.Astronomy in Antarctica. Astron Astrophys Rev 18,417-469 (2010).  \n[2]Saunders,Willeta.\"WhereistebestsiteonEart?omes,B,CandFandidgesadB.\"ublicatiosoftheAstcalSociety of the Pacific121.883 (2009):976.  \n[3]Pei,Chong,etal. \"Developmentofautomatedsmal tlescopesasDomeASitetstingDIMM.\"Ground-basedandAirboeTelescopes II. Vol.7733.International Society for Optics and Photonics,2010.  \n[4]杜福嘉,李正阳,袁祥岩.中国南极天文进展和科考[J].天文学进展,2016.34(曾刊):43-50.  \n[5] 杨清华,etal．南极中山站气象要素变化特征分析.Diss.2010.  \n[6]沈辉,孙启振,董剑，田忠翔,赵杰臣,陈风云,韩晓鹏.2015年南极中山站气象和海冰特征分析[J].海洋预报,2017,34(06):27-38.  \n[7] 陆龙骅，卞林根,and 贾朋群.\"南极中山站极夜和极昼期间的辐射特征.\"科学通报 37.15(1992):1388-1391.  \n[8]辛玉新,范玉峰,伦宝利,等．一种便携式全天信息采集系统.ZL201520686520.2[P].2015-09-07.  \n[9]辛玉新,余晓光,业凯,等．一种全天域红外云量计及测量方法.ZL201711497699.7[P].2017-12-29.  \n[10]彭焕文,辛玉新,和寿圣,王传军,伦宝利,范玉峰.丽江天文观测站全天相机介绍[J].天文研究与技术,2015,12(01):89-95.  \n[11]谭徽松，李银柱，金振宇.实测天体物理[M].北京：国防出版社，2014：1-11.  \n[12]胡平,李锐,王娜,魏鹏.南山站的光学观测环境监测与分析[J].天文研究与技术,2017,14(04):495-501.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The All-Sky Information Acquisition System of ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Antarctic ZhongShan Station ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Wang $\\mathrm { Y u } ^ { 1 , 4 , 5 }$ , Xin Yuxin145, Jiang Peng², Yang Yong³,Lun Baoli1,5, Wang Chuanjun1,5, Yu Xiaoguang1,5,，Chang Liang145,FanYufeng1.5 (1.Yunnan Observatories, Chinese Academy of Sciences,Kunming 65oo11, China; 2.Polar Research Institute of China, Shanghai 2O0129,China 3.Meteorological Bureau of Xiuning County,Huangshan City,Anhui Province,Xiuning 245400 4.University of Chinese Academy of Sciences,Beijing,1Ooo49,China; 5.KeyLaboratory for the Structure and Evolution of Celestial Objects,Chinese ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Academy of Science,Kunming 650011,China) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The Antarctic Plateau has unique astronomical observation conditions.In order to conduct actual research on the night astronomical observation conditions of the Antarctic Zhongshan Station,the Yunnan Astronomical Observatory of the Chinese Academy of Sciences has specially developed a set of fully-automatic full-automatic fully adapted to Antarctic climate performance such as low temperature resistance,automatic snow and defrost Day information Acquisition system. The system can provide real-time al-sky cloudiness,skylight background and allday images,and can push the information to the webpage for real-time display. This paper introduces the development of this system and the experiment of low temperature resistance to adapt to Antarctic climate.After statistical analysis of Zhongshan Station's full-day information data in 2O16-2O17,the preliminary observation of Zhongshan Station's observable hours, observable nights, skylight background and temperature and humidity conditions. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Key words: All-day Information; Infrared Cloud Cover Meter; Cloud Cover ",
+        "page_idx": 11
+    }
+]

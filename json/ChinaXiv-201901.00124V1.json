@@ -1,0 +1,281 @@
+[
+    {
+        "type": "text",
+        "text": "基于核酸适配体的肿瘤免疫治疗进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吕海银，王腾飞，裴仁军\\*(中国科学院苏州纳米技术与纳米仿生研究所，纳米生物医学研究部,苏州215123)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要肿瘤免疫治疗是通过调节机体的免疫功能来控制和杀伤肿瘤的一种治疗手段。针对免疫检查点的治疗等一系列临床突破使得肿瘤的免疫治疗受到了广泛重视。目前，抗体治疗和过继性细胞治疗是肿瘤免疫治疗的主要方式，但是这些方法仍具有副作用较强，实体瘤治疗难以实现，治疗费用高昂等缺点。因此改进和发展更加高效、安全、低成本的新技术仍十分必要。适配体是利用指数富集的配体系统进化技术筛选得到的单链寡核苷酸，有核酸“抗体”之称。适配体具有低免疫原性，组织穿透力强，易于化学合成与修饰等优势，且与其靶标的结合具有较好亲和力和特异性，可像抗体一样实现肿瘤的免疫治疗。本文对适配体在肿瘤免疫治疗相关技术中的新应用作一综述，主要包括基于免疫检查点的抗肿瘤作用、双特异性适配体的肿瘤免疫治疗、适配体靶向递送 siRNA 的肿瘤免疫治疗和适配体联合抗体的肿瘤免疫治疗几个方面。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词适配体；肿瘤免疫治疗；双特异性适配体；免疫检查点 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "学科分类号Q5，R73",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "癌症一直是全球人口患病和致死的主要原因之一，据WHO统计，2015年全球因癌症死亡人口高达880万。癌症难以治愈，现有治疗方法副作用大的问题一直存在。因此，癌症的治疗仍是我们所需要攻克的一大难题。而肿瘤免疫疗法的发展改变了多种恶性肿瘤的治疗方式。肿瘤的治疗已不仅仅局限于手术切除放疗、化疗等副作用大的治疗方式，而是从细胞和分子层面上对肿瘤进行更为精准的靶向治疗。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1肿瘤免疫治疗概况 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "免疫治疗的主要方法包括非特异性免疫治疗、肿瘤疫苗、过继性细胞治疗和抗体治疗[I]。非特异性免疫治疗直接给予细胞因子以调节免疫细胞活化、增殖。但是细胞因子作用于全身，无特异性和靶向性，副作用大，失效快，在肿瘤局部浓度低，疗效差。肿瘤疫苗通过给患者体内导入肿瘤抗原增强机体免疫系统对肿瘤识别能力，激发特异性抗肿瘤免疫反应。但由于肿瘤抗原具有异质性，免疫原性低，抗肿瘤效果差，因此主要用于辅助治疗和预防治疗。而过继性细胞治疗和抗体治疗特异性强，抗肿瘤效果好，是近几年肿瘤免疫治疗的主要研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "方向。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "过继性细胞治疗是指将体外激活的自体或异体免疫效应细胞输入到患者体内杀伤肿瘤细胞，有TIL疗法（Tumor InfiltratingLymphocytes，TIL）、TCR-T疗法（T-cell receptor,TCR）和CAR-T 疗法（ChimericAntigen Receptor T-Cell Immunotherapy）。TIL 疗法是利用从患者肿瘤中提取出肿瘤浸润T淋巴细胞，经体外扩增回输到患者体内进行肿瘤治疗[2]。TCR-T疗法将受体基因转入T淋巴细胞中，使其能表达肿瘤特异性的T细胞受体，体外扩增培养后通过静脉注射回输到患者体内[2,3]。CAR-T疗法是从肿瘤患者外周血分离出T细胞，通过基因转导的方法，将能够特异性识别肿瘤抗原的CAR结构转入T细胞，体外扩增培养后，回输患者体内，这种经过CAR结构改造的T细胞能够高效而持久的杀伤具有相应特异性抗原的肿瘤细胞[1,4]。其中CAR-T疗法较为成熟有效，解决了TIL疗法和TCR-T疗法治疗范围小，副反应（如炎症反应，心源性休克甚至死亡)等问题[I]。截止目前，已有两种CAR-T细胞疗法（诺华治疗B细胞急性淋巴细胞白血病的CAR-T疗法tisagenlecleucel，CTLO19；Kite Pharma 公司治疗特定类型的大B细胞淋巴瘤成人患者的CAR-T疗法Yescarta，KTE-C10）获美国FDA批准用于临床治疗[5,6]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "抗体治疗通过调控免疫系统杀伤肿瘤细胞(通过受体阻滞、诱导凋亡、或药物的输送等机制)[7]。抗体可与肿瘤细胞表面过表达的受体（如EGFR，HER-2)结合，抑制肿瘤细胞增殖，抑制细胞转移[8]。抗体也可以与其它分子（如细胞因子等免疫相关调节因子）偶联，靶向递送药物分子，降低药物对正常组织细胞的杀伤作用，降低机体的耐药性[9-11]。双特异性抗体可识别两种细胞表面受体，募集T细胞发挥抗肿瘤作用，将T细胞招募至不含Fc受体的肿瘤细胞处，扩大了肿瘤免疫治疗的范围[12,13]。免疫检查点是调节肿瘤特异性免疫的重要信号通路，靶向免疫检查点的抗体能有效激活肿瘤免疫，杀伤肿瘤。目前有六款免疫检查点抑制剂已经获得了美国FDA 的批准。其中一款CTLA-4单抗Ipilimumab（治疗黑色素瘤），两款PD-1抑制剂Pembrolizumab（治疗晚期黑色素瘤、转移性非小细胞肺癌、复发或转移性头颈部鳞状细胞癌等）和Nivolumab（治疗晚期鳞状非小细胞肺癌、晚期或转移性黑色素瘤、肾癌以及经典型霍奇金淋巴瘤等），三款PD-L1抑制剂Atezolizumab（治疗膀胱癌、转移性非小细胞肺癌），Durvalumab（治疗晚期或转移性尿路上皮癌、无法切除的III期非小细胞肺癌）和Avelumab（治疗默克细胞癌、晚期或转移性尿路上皮癌）。Nivolumab是首个获得我国国家药品监督管理局批准进入中国的肿瘤免疫治疗药物，用于治疗非小细胞肺癌。我国首个自主研发的肿瘤免疫治疗药物PD-1抑制剂一君实生物的拓益（特瑞普利单抗注射液）获国家药品监督管理局批准上市销售，用于既往接受标准治疗失败的局部进展或转移性黑色素瘤的治疗。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "肿瘤的过继性细胞治疗和抗体治疗能够通过作用于免疫系统的方式，对恶性肿瘤产生持久的疾病控制，治疗癌症。但是，CAR-T治疗存在抗原逃逸，会靶向正常组织细胞，T细胞耗竭等问题。同时，CAR-T疗法面临实体瘤治疗难以实现，治疗费用高，CAR-T 制造过程高度可变等一系列挑战[4,14,15]。抗体治疗则易引起人体免疫反应，产生耐药性，且抗体生产价格高昂，治疗成本巨大[16,17]。而适配体作为核酸“抗体”能特异性识别细胞表面标志物，且具有分子量小、稳定性高、低免疫原性、组织穿透性强、易化学合成和易精准修饰等优势，有望提供新的思路和方法来解决国际性细胞疗法和抗体疗法所面临的挑战[18-21]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2核酸适配体简介",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "核酸适配体是从人工合成的随机单链DNA或RNA文库中利用指数富集的配体系统进化( systematic evolution of ligands by exponentialenrichment，SELEX）技术筛选得到的单链寡核苷酸[19,22,23]。适配体能够以其特异的二维结构与相应靶标结合，其靶标范围十分广泛，包括小分子、多肽、蛋白质乃至细胞等[23]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "适配体可作为药物载体，直接靶向运送药物到癌细胞，杀伤肿瘤。Ghahremani等利用适配体AS1411能特异性结合癌细胞表面的核仁素的能力，将运载的药物靶向运送到癌细胞部位[24,25]。适配体-药物偶联物能够在不损伤正常细胞的前提下将细胞毒性药物靶向递送至癌细胞，有效抑制或杀伤肿瘤[10,21,26]。适配体也能够与生长因子或其受体作用从而阻断肿瘤细胞的信号通路，抑制肿瘤生长。肿瘤血管生成是控制肿瘤生长和转移的关键因素，而血管内皮生长因子VEGF是控制血管生成的关键因子[27]。抗VEGF 的适配体通过与VEGF 结合后能够阻断VEGF与其受体相互作用从而抑制受体磷酸化，抑制相关的肿瘤血管形成。表皮生长因子受体EGFR是I型受体酪氨酸激酶，调节细胞生长与增殖，EGFR在多种恶性肿瘤中过表达[28]。EGFR适配体与EGFR胞外结构域结合阻断了受体磷酸化和下游信号转导，即PI3K/AKT和MAPK信号的转导，从而阻断了与肿瘤增殖和转移相关的部分信号通路，促进肿瘤细胞凋亡，抑制多种肿瘤如肺癌、乳腺癌的生长，发育和转移[28,29]。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/0215d8ae6dbb30348197258002bee8edf97ff95c4ca53134e412c87763a4c243.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3基于适配体的肿瘤免疫治疗 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "免疫系统能够识别并清除异常细胞，维持机体内环境稳态。而适配体能够通过调节免疫系统，增强免疫反应来间接杀伤肿瘤细胞。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1基于免疫检查点的抗肿瘤作用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "肿瘤细胞能通过细胞表面表达的共抑制配体激活免疫抑制检查点，抑制抗肿瘤免疫反应[30]。肿瘤细胞中通过共抑制受体免疫检查点来调节免疫反应的途径主要包含PD-1/PD-L1和CTLA-4/B7这两个信号通路。适配体可特异性阻断PD-1/PD-L1和CTLA-4/B7相结合，激活免疫反应，抑制肿瘤生长。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "程序性死亡受体1（PD-1）是T细胞上存在的一种抑制性受体，与其配体PD-L1结合可抑制T细胞的增殖、活化以及细胞因子的分泌。肿瘤细胞表面高表达的PD-L1结合PD-1后能够抑制T细胞的活化增殖，使T细胞丧失对肿瘤细胞的杀伤作用，引起免疫逃逸，增强肿瘤的转移能力、导致患者死亡率上升[7,31]。而aptPD-L1 （PD-L1 antagonistic DNA aptamer）特异性结合PD-L1，阻断了PD-1和PD-L1的结合，抑制抗原特异性T细胞凋亡，增强T细胞对肿瘤细胞的杀伤作用，从而抑制肿瘤生长[32]。对于肿瘤浸润性$\\mathrm { C D 4 ^ { + } }$ 和 $\\mathrm { C D 8 ^ { + } T }$ 细胞，aptPD-L1作用能升高瘤内的IL-2，TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ ，IFN-γ和趋化因子CXCL9和CXCL10的水平，恢复并改善肿瘤微环境。特异性化学修饰的适配体XA-PDL1-82具有与PD-L1抗体相同的能力，来结合胰腺肿瘤组织上表达的PD-L1，因此可以作为抗体的替代药物用于癌症的研究和治疗[31]。PD-1适配体MP7是PD-1的拮抗剂，能特异性结合T细胞表面受体PD-1，抑制PD-L1信号的传递，引发抗肿瘤免疫反应，抑制肿瘤生长[30]。细胞毒性T淋巴细胞相关抗原4（CTLA-4）是一种白细胞分化抗原，参与免疫反应下调，抑制T细胞活化[17]。CTLA-4适配体（aptCTLA-4）抑制CTLA-4与B7分子的结合，重塑生物体内免疫反应，发挥抗肿瘤作用[33]。研究表明，aptCTLA-4在血清中相对稳定，能够促进淋巴细胞增殖，并抑制动物模型中的肿瘤生长[33]。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/962380a50074cb2dd05f37f5784b0ae3c0a9661542ac4e628e39ba2c219302a3.jpg",
+        "img_caption": [
+            "Fig.1 The process of selecting aptamers 图1适配体筛选过程 ",
+            "Fig.2 The aptamers achieve anti-tumor effect through blocking PD1/PD-L1 immune checkpoint 图2适配体通过阻断PD1/PD-L1免疫检查点发挥抗肿 瘤作用 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2基于免疫细胞表面受体的抗肿瘤作用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "适配体也能够通过阻碍免疫细胞表面共刺激受体与其配体结合，调节免疫系统。OX40是肿瘤坏死因子（TNF）受体家族的成员，属于共刺激受体，存在于活化T细胞表面，与其配体OX40L相互作用，增强免疫功能，促进T细胞增殖和细胞因子的产生，但OX40-OX40L结合时间延长，虽然能够增强免疫调控，但极易引起炎症反应，有较大副作用[34]。OX40适配体以一个DNA作为支架结构连接两个RNA适配体单链，能够激活OX40，并阻断过度的OX40-OX40L相互作用[34,35]。通过这种方式，能够在增强T细胞增殖，促进T细胞存活和细胞因子IFN $\\cdot \\gamma$ 的分泌的前提下，不触发与炎症相关的信号级联反应，达到激活肿瘤免疫的同时极大的减轻了副作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2双特异性适配体的肿瘤免疫治疗 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "单一适配体只能特异性识别一种靶标，而双特异性适配体则可识别两种靶标，介导不同的分子与分子，分子与细胞，细胞与细胞之间相互作用，扩大了机体抗肿瘤作用途径，构建机体中不存在的全新肿瘤免疫方式。利用DNA纳米结构构建的多价适配体可以操纵细胞间的相互作用。例如，适配体TE02结合Ramos细胞（一种B细胞肿瘤细胞系），适配体LD201t1结合Jurket细胞（一种T细胞肿瘤细胞系），通过DNA纳米结构可诱导B细胞与T细胞两种细胞之间的相互作用[36]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4-1BB是促进活化的 $\\mathrm { C D 8 ^ { + } T }$ 细胞存活和扩增的主要共刺激受体[37,38]。通过两个单体适配体的缀合形成的4-1BB适配体的二聚体，能够刺激 $\\mathrm { C D 8 ^ { + } T }$ 细胞并促进肿瘤免疫反应。在免疫原性较低的皮下移植瘤和肺转移瘤的小鼠模型中，与前列腺特异性膜抗原（prostate-specific membrane antigen，PSMA）结合的适配体，通过与4-1BB配体二聚体嵌合，能够显著抑制肿瘤的生长[39]。基于此，免疫细胞可以与肿瘤细胞紧密接触,以快速高效触发对肿瘤细胞的免疫抑制、杀伤作用。PSMA-4-1BB双特异性适配体与无肿瘤靶向的适配体相比可降低治疗剂量，与 4-1BB 抗体相比，无不良反应[39,40]。同时，双特异性适配体有效刺激T细胞并靶向肿瘤部位，减弱肿瘤部位的Treg细胞对免疫系统的抑制作用，而不影响体内其他部位Treg 细胞的生理功能[39]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CD28是在T细胞上表达的蛋白质，提供T细胞活化和存活所需的共刺激信号[41,42]。CD28 的刺激可以为T细胞产生各种白细胞介素(特别是IL-6)提供有效信号。CD28与B7分子结合后提供共刺激信号，激活T细胞免疫应答，促进T细胞存活[43]。而CD28/B7共刺激信号缺陷将导致T细胞的无应答。基于此构建的CD28和肿瘤干细胞表面多药耐药相关蛋白1(multidrug resistance associated protein1,MRP1)双特异性的适配体，CD28-MRP1适配体，能够针对表达MRP1的细胞进行靶向，并能够为T细胞提供合适的共刺激信号，促进T细胞活化，从而达到对多药耐药性肿瘤的有效杀伤[19,41]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3适配体靶向递送siRNA的肿瘤免疫治疗 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "小干扰 RNA(small interfering RNA，siRNA)是一类双链RNA分子，能进入细胞并与相应蛋白质结合形成RNA诱导沉默复合体（RNA-InducedSilencingComplex，RISC），并在Dicer 酶的作用下形成单链siRNA，单链siRNA特异性结合靶mRNA，诱导mRNA降解，沉默相关基因和蛋白的表达。利用siRNA的特性，将适配体与siRNA结合，可以靶向递送siRNA，调节基因表达[44,45]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4-1BB 适配体能靶向识别表达4-1BB的 $\\mathrm { C D 8 ^ { + } T }$ 细胞，而CD25基因对于 $\\mathrm { C D 8 + T }$ 细胞分化成记忆细胞有重要的调节作用。利用4-1BBaptamer-CD25siRNA缀合物能够特异性识别表达了4-1BB的$\\mathrm { C D 8 ^ { + } T }$ 细胞，并下调其CD25的表达，促进 $\\mathrm { C D 8 ^ { + } T }$ 细胞分化成记忆细胞，控制肿瘤生长[37]。雷帕霉素靶蛋白(mammalian target of rapamycin,mTOR)能够调控细胞的生长，发育。因此靶向雷帕霉素靶蛋白复合物1(mTOR complex1)raptor 部位的 siRNA 与4-1BB适配体缀合成4-1BB-raptorsiRNA，能够特异性抑制 $\\mathrm { C D 8 ^ { + } T }$ 细胞中mTORC1基因的表达，促进T细胞分化形成记忆细胞，增强抗肿瘤免疫，控制肿瘤生长[46]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e2ec8000caeaad5e2ec4e643fa65e92e3ac3b0c88488d84595eb8d6a9c9c0e54.jpg",
+        "img_caption": [
+            "Fig.3siRNAisdeliveredbyaptamerstomediate the expression of targeted gene 图3适配体靶向递送siRNA调节基因表达 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4适配体联合抗体的肿瘤免疫治疗 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "适配体治疗与抗体治疗相结合能够发挥抗体与适配体双方的优点，互补双方的缺点，增强抗肿瘤作用。如在肿瘤治疗中，抗cotinine 的抗体cot-body与抗VEGF的适配体pegaptanib相结合形成抗体-适配体复合物oligobody[47]。在小鼠异种移植模型中，oligobody抑制肺癌新生血管的生成，诱导细胞凋亡，且对正常组织细胞无毒副作用。在Oligobody中，抗体延长了适配体在血清中的半衰期而不影响其亲和力。在肿瘤免疫治疗中，肝癌细胞H22特异性适配体TLS11a与抗CD3的单克隆抗体相结合形成适配体/抗体双特异性体系TLS11a/CD3，能特异性连接H22细胞与T细胞，促进T细胞活化，抑制肿瘤细胞免疫逃逸，靶向杀伤肿瘤细胞[48]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4结论与展望 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "核酸适配体作为一种新型的肿瘤诊断和治疗分子，为肿瘤免疫治疗提供了新的方法，在肿瘤免疫治疗方面具有独有的优势，克服了抗体治疗与过继性细胞治疗价格昂贵，易引发副作用的缺点。但适配体治疗仍面临挑战，如与某些靶标结合不够强或选择性不够高，半衰期短，全身给药的药代动力学差等[18]。不过，相较于抗体等药物，适配体具有结构简单，易于大量合成，低免疫原性，分子量小等优点。目前存在的一些问题，可以通过改进筛选方法提高亲和力和选择性，化学修饰增强适配体稳定性，多价适配体进一步提高亲和性等手段加以改进。例如：聚乙二醇（PEG）修饰的适配体通过减少肾小球滤过来增加血清中保留时间，保持适配体活性[49]。适配体治疗也可以作为一个补充，联合抗体治疗和过继性细胞治疗，提高抗肿瘤作用。Macugen 是首个FDA批准用的核酸适配体药物，用于治疗年龄相关性黄斑变性[29]。Macugen 作为首个应用于临床治疗的适配体药物为适配体治疗注入一剂“强心针”，肯定了适配体的临床应用价值。尽管在肿瘤免疫治疗方面仍有许多困难要克服，但不可否认的是，基于适配体的肿瘤免疫治疗作为一个新的肿瘤免疫治疗策略，具有较广阔的临床应用前景，对于肿瘤的个性化和精准化治疗有着无法忽视的重要意义。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] Johnson L A, June C H. Driving gene-engineered T cell immunotherapy of cancer. Cell Res,2017,27(1): 38-58.   \n[2] Yee C.Adoptive T cell therapy: points to consider. Curr Opin Immunol,2018,51:197-203.   \n[3] Ligtenberg MA,Pico De Coana Y, Shmushkovich T,et al. Self-Delivering RNAi Targeting PD-1 Improves Tumor-Specific T Cell Functionality for Adoptive Cell Therapy of Malignant Melanoma.Mol Ther,2018,26(6): 1482-1493.   \n[4] Vormittag P,Gunn R,Ghorashian S,et al.A guide to manufacturing CAR T cell therapies. Curr Opin Biotechnol,2018,53:164-181.   \n[5] Arabi F,Torabi-Rahvar M, Shariati A,et al.Antigenic targetsof CART Cell Therapy.A retrospective view on clinical trials.Exp Cell Res,2018,369(1):1-10.   \n[6] Ramello M C,Haura EB,Abate-Daga D.CAR-T cells andcombination therapies:What'snext inthe immunotherapy revolution?Pharmacol Res,2018,129: 194-203.   \n[7] Khalil D N, Smith E L,Brentjens R J,et al. The future of cancer treatment: immunomodulation, CARs and combination immunotherapy. Nat Rev Clin Oncol, 2016, 13(5): 273-290.   \n[8] Simpson A, Caballero O. Monoclonal antibodies for the therapy of cancer. BMC Proceedings, 2014, 8(Suppl 4): 06.   \n[9] Almagro JC,Daniels-Wels TR,Perez-Tapia S M, et al. Progress and Challenges in the Design and Clinical Development of Antibodies for Cancer Therapy. Front Immunol, 2017,8: 1751.   \n[10]Thomas A, Teicher B A,Hassan R. Antibody-drug conjugates for cancer therapy. The Lancet Oncology, 2016, 17(6): e254-e262.   \n[11]Nasiri H, Valedkarimi Z,Aghebati-Maleki L，et al. Antibody-drug conjugates: Promising and efficient tools for targeted cancer therapy. JCellPhysiol, 2018,233(9): 6441-6457.   \n[12]Krishnamurthy A, Jimeno A. Bispecific antibodies for cancer therapy:A review. Pharmacol Ther, 2018,185: 122-134.   \n[13] Kontermann R E,Brinkmann U. Bispecific antibodies. Drug Discov Today,2015,20(7): 838-847.   \n[14]Klebanoff C A, Rosenberg S A, Restifo N P. Prospects for gene-engineered T cell immunotherapy for solid cancers. Nat Med,2016,22(1): 26-36.   \n[15]Lyons JM, Schwimer JE,Anthony C T, et al. The role of VEGF pathways in human physiologic and pathologic angiogenesis. J Surg Res, 2010,159(1): 517-527.   \n[16]Groff K,Brown J，Clippinger A J. Modern affinity reagents:Recombinantantibodiesandaptamers. Biotechnol Adv,2015,33(8): 1787-1798.   \n[17]Lee A, Sun S, Sandler A, et al. Recent progress in therapeutic antibodies for cancer immunotherapy. Curr Opin Chem Biol,2018, 44: 56-65.   \n[18]Zhou Z, Liu M, Jiang J. The potential of aptamers for cancer research. Anal Biochem, 2018, 549: 91-95.   \n[19]Soldevilla M M, Villanueva H, Pastor F. Aptamers: A Feasible Technology in Cancer Immunotherapy.J Immunol Res,2016,2016: 1083738.   \n[20]Hu P P. Recent Advances in Aptamers Targeting Immune System. Inflammation,2017,40(1): 295-302.   \n[21]Kim M, Kim D M, Kim K S, et al. Applications of Cancer Cell-Specific Aptamers in Targeted Delivery of Anticancer Therapeutic Agents. Molecules, 2018, 23(4): 830.   \n[22] Pastor F.Aptamers: A New Technological Platform in Cancer Immunotherapy. Pharmaceuticals 2016,9(4): 64.   \n[23] Wu X, Shaikh AB,Yu Y, et al. Potential Diagnostic and Therapeutic Applications of Oligonucleotide Aptamers in Breast Cancer.Int JMol Sci,2017,18(9): 1851.   \n[24] GhahremaniF, Shahbazi-GahroueiD, Amirhosein Kefayat, et al. AS141l aptamer conjugated gold nanoclustersasatargetedradiosensitizerfor megavoltage radiation therapy of 4T1 breast cancer cells. RSC Advances, 2018, 8(8): 4249-4258.   \n[25]Ai J, Ga L, Wang Y. A dual-targeting AS1411-folic acid fluorescent nanocomposite for cancer cell and drug delivery. Analytical Methods,2018,10(17): 1949-1951.   \n[26] Yoon S, Huang K W, Reebye V, et al. Aptamer-Drug Conjugates of Active Metabolites of Nucleoside Analogs and Cytotoxic Agents Inhibit Pancreatic Tumor Cell Growth. Mol Ther Nucleic Acids,2017,6: 80-88.   \n[27] Kong D H, Kim MR, Jang J H, et al. A Review of Anti-Angiogenic Targets for Monoclonal Antibody Cancer Therapy. Int JMol Sci,2017,18(8): 1786.   \n[28] Zhang X, Peng L, Liang Z, et al. Effects of Aptamer to U87-EGFRvICellsontheProliferation, Radiosensitivity， and Radiotherapy of Glioblastoma Cells. Mol Ther Nucleic Acids,2018,10: 438-449.   \n[29] Morita Y, Leslie M,Kameyama H,et al. Aptamer Therapeutics in Cancer: Current and Future. Cancers 2018,10(3): 80.   \n[30] Prodeus A，Abdul-Wahid A， Fischer N W，et al. Targeting the PD-1/PD-L1 Immune Evasion Axis With DNA Aptamers as a Novel Therapeutic Strategy for the Treatment of Disseminated Cancers.Mol Ther Nucleic Acids,2015,4: e237.   \n[31]Wang H,Lam CH, Li X, et al. Selection of PD1/PD-L1 X-Aptamers. Biochimie,2018,145: 125-130.   \n[32] Lai W Y, Huang B T,Wang JW, et al. A Novel PD-L1-targeting Antagonistic DNA AptamerWith Antitumor Effects. Mol Ther Nucleic Acids,2016, 5(12): e397.   \n[33] Huang B T, Lai W Y, Chang Y C, et al. A CTLA-4 Antagonizing DNA Aptamer with Antitumor Effect. Mol Ther Nucleic Acids,2017,8: 520-528.   \n[34]Pratico E D, Sullenger B A, Nair S K. Identification and characterization of an agonistic aptamer against the T cell costimulatory receptor, OX40. Nucleic Acid Ther, 2013, 23(1): 35-43.   \n[35]Dollins C M, Nair S,Boczkowski D, et al. Assembling OX40 aptamers on a molecular scaffold to create a receptor-activating aptamer. Chem Biol, 2008,15(7): 675-682.   \n[36]Liu X, Yan H,Liu Y, et al. Targeted cell-cell interactions by DNA nanoscaffold-templated multivalent bispecifc aptamers. Small, 2011,7(12): 1673-1682.   \n[37]Rajagopalan A， Berezhnoy A， Schrand B,et al. Aptamer-Targeted Attenuation of IL-2 Signaling in （204号 $\\mathrm { C D 8 + }$ T Cells Enhances Antitumor Immunity. Mol Ther, 2017, 25(1): 54-61.   \n[38]Schrand B,Berezhnoy A, Brenneman R, et al. Targeting 4-1BB costimulation to the tumor stroma with bispecific aptamer conjugates enhances the therapeutic index of tumor immunotherapy. Cancer Immunol Res, 2014, 2(9): 867-877.   \n[39]Pastor F, Kolonias D, Mcnamara JO,et al. Targeting 4-1BB costimulation to disseminated tumor lesions with bi-specific oligonucleotide aptamers. Mol Ther, 2011, 19(10): 1878-1886.   \n[40]Pastor F. Tumor-targeted costimulation byusing bi-specific aptamers. Cancer Cell Microenviron, 2016, 3: e1333.   \n[41]Soldevilla M M， Vilanueva H, Casares N, et al. MRP1-CD28bi-specificoligonucleotide aptamers: target costimulation to drug-resistant melanoma cancer stem cells. Oncotarget, 2016, 7(17): 23182-23196.   \n[42]O'donnell J S, Smyth M J, Teng M WL. PD1 functions by inhibiting CD28-mediated co-stimulation. Clin Transl Immunology,2017, 6(5): e138.   \n[43]Khedri M, Rafatpanah H, Abnous K,et al. Cancer immunotherapyvianucleicacidaptamers.Int Immunopharmacol,2015,29(2): 926-936.   \n[44]AlshaerW,HillaireauH， Vergnaud J，etal. Aptamer-guidedsiRNA-loadednanomedicinesfor systemic gene silencing in CD-44 expressing murine triple-negative breast cancer model. J Control Release, 2018,271: 98-106.   \n[45]De Almeida C E B,Alves L N,Rocha H F,et al. Aptamer delivery of siRNA,radiopharmaceutics and chemotherapy agents in cancer. Int J Pharm,2017, 525(2):334-342.   \n[46] BerezhnoyA,Castro I,Levay A,et al.Aptamer-targeted inhibition of mTOR in T cells enhances antitumor immunity.J Clin Invest,2014,124(1): 188-197.   \n[47] Heo K,Min S W, Sung HJ,et al.An aptamer-antibody complex (oligobody） as a novel delivery platform for targeted cancer therapies.JControl Release,2016,229: 1-9.   \n[48] Hu Z,He J,Gong W,et al. TLS1la Aptamer/CD3 Antibody Anti-Tumor System for Liver Cancer.J Biomed Nanotechnol, 2018,14(9): 1645-1653.   \n[49] Keefe AD,Pai S,Ellington A.Aptamers as therapeutics. Nat Rev Drug Discov,2010,9(7): 537-550. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Progress in Aptamer based Tumor Immunotherapy ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "LVHai-yin, WANGTeng-fei, PEIRen-jun (SuzhouInstitutefnochdNaoBios)Cseadfieesiisiofobomedii,uzoua) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract Tumor immunotherapy is aimed to inhibit the proliferation of tumor cell and kill the tumors through regulating the immunity of the body. In recent years,tumor immunotherapy has gained great progress in clinical practice,especialy in the aspect of blocking the immune check point. The main methods for tumor immunotherapy are antibody therapy and adoptive celular therapy. However， there are some shortages in the present immunotherapy,such as high side efects and high cost for treatment.Therefore,it is necessary to develop new methods that are efficient,safe and low cost. Aptamers are signal-strand DNA or RNA oligo-nucleotides obtained throughout Systematic Evolution of Ligands by Exponential Enrichment (SELEX).The aptamers are similar to antibody,whichcan bind to their targets with high afinity and specificity.Moreover,aptamers have the advantages of low immunogenicity, penetrating tissues easily,convenient chemical synthesis and modification,and have the potential to take the similar roleas the antibody for tumor immunotherapy. Thisreview presents the new applications of aptamers in cancer immunotherapy，mainly including immune checkpoint immunotherapy, bispecific aptamer immunotherapy, aptamer-targeting siRNA immunotherapy and antibody-aptamer combination immunotherapy. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Key words aptamer; tumor immunotherapy; bispecific aptamer; immune checkpoint ",
+        "page_idx": 6
+    }
+]

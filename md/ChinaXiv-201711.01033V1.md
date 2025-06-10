@@ -1,0 +1,134 @@
+饲粮磷水平对育肥猪磷的标准回肠及全肠道消化率评定的影响刘正群」吕帅兵」　解竞静」 张祖翔²刘静波12张宏福1\*（1.中国农业科学院北京畜牧兽医研究所，动物营养学国家重点实验室，北京100193；2.
+
+西南科技大学生命科学与工程学院，绵阳621010)
+
+摘要：本试验旨在研究饲粮磷水平对育肥猪磷的标准回肠消化率（SID）及标准全肠道消化率（STTD）评定的影响。选用18头平均体重为（ $7 3 . 8 { \pm } 3 . 3 \$ ）kg、安装了简单T型瘘管的育肥猪，采用 $9 \times 4$ 不完全拉丁方设计，采用9种饲粮，进行4期试验。9种饲粮中无磷饲粮用于测定基础内源磷排泄量(EPL)，6种半纯合饲粮和2种混合饲粮用于测定磷的消化率。以三氧化二铬为指示剂测定EPL 和磷的消化率。结果表明：1）饲粮类型极显著影响育肥猪回肠磷排泄量、磷的表观回肠消化率（AID）及SID（ $_ { _ { P < 0 . 0 1 } }$ ；饲粮磷水平极显著影响育肥猪回肠磷排泄量（ $_ { ( P < 0 . 0 1 ) }$ ，但对磷的 AID 和 SID 影响不显著（ $. P { > } 0 . 0 5 )$ ；饲粮类型与饲粮磷水平的互作效应极显著影响育肥猪回肠磷排泄量、磷的AID及 SID（ ${ \cdot } P { < } 0 . 0 1$ 。2)饲粮类型极显著影响育肥猪全肠道磷排泄量、磷的表观全肠道消化率(ATTD)和 STTD（ $P { < } 0 . 0 1 \rangle$ ；饲粮磷水平极显著影响育肥猪全肠道磷排泄量、磷的ATTD（ $_ { . } P { < } 0 . 0 1 \$ ，但对磷的 STTD 的影响不显著（ $\scriptstyle P > 0 . 0 5 { \mathrm { . } }$ )；饲粮类型及饲粮磷水平的互作效应显著影响育肥猪的全肠道磷排泄量 （ $P { < } 0 . 0 1$ ）和磷的ATTD（ $. P { < } 0 . 0 5 \ '$ )，但对磷的STTD无显著影响（ $. P { > } 0 . 0 5 )$ ）由此可见，在本试验条件下，饲粮磷水平对育肥猪磷的AID、SID 及STTD 评定无显著影响，但饲粮磷水平显著影响育肥猪磷的 ATTD 评定。因此，在使用 STTD 评定猪饲料原料中磷的利用效率时可配制具有不同磷水平的试验饲粮。
+
+关键词：育肥猪；磷；表观消化率；标准消化率中图分类号：S816.17；S828 文献标识码：A 文章编号：
+
+22 为准确评定育肥猪对磷的标准回肠消化率（standardized ileal digestibility,SID）及标准全  
+23 肠道消化率（standardized total tract digestibility,STTD)，研究不同磷水平对育肥猪磷的消化
+
+率的影响十分重要。已有研究表明，饲粮不同粗蛋白质水平影响回肠内源氨基酸损失，从而影响生长猪氨基酸表观回肠消化率（apparent ileal digestibility,AID）的评定[1]。同样，饲粮不同磷水平也会导致猪内源磷排泄量（endogenous P losses,EPL）占其总磷排泄量的比例不同，从而影响 AID 及表观全肠道消化率（apparent totaltract digestibility,ATTD）的评定[2-3]。Shen 等[4和Dilger等[5研究表明，生长猪磷的回肠消化率和全肠道消化率无显著差异，表明磷的回肠消化率和全肠道消化率均可有效地评定饲粮中磷的利用效率，且 NRC（2012）[6]中推荐使用 STTD来评定猪对饲料原料中磷的生物学效价。造成生长猪磷的消化率评定在不同研究中存在显著差异的因素主要有饲粮类型、磷水平及钙磷比等[7-9]。已有研究指出，通过添加无机磷提高饲粮磷水平可显著提高猪的 AID 和 ATTD[10-1I]。因此，本研究假设在没有无机磷添加的基础上，饲粮不同磷水平可能会造成育肥猪对磷的 SID 和 STTD 的差异。以豆粕、菜籽粕、玉米干酒糟及其可溶物（distillrs dried grains with solubles,DDGS）作为单一磷来源的半纯合饲粮和玉米、豆粕、菜籽粕和玉米DDGS 作为磷来源组成的混合饲粮为试验饲粮，考察饲粮磷水平对育肥猪磷的 SID和STTD 评定的影响。
+
+# 1材料与方法
+
+# 1.1 试验设计和饲养管理
+
+试验选用18头平均体重为 $( 7 3 . 8 { \pm } 3 . 3 ) \mathrm { k g } .$ 、安装了简单T型瘘管的"杜 $\times$ 长 $\times$ 大"杂交阉公猪，根据体重随机分为9组，每组2个重复，每个重复1头猪。试验采用 $9 \times 4$ 不完全拉丁方设计，采用9种饲粮，进行4 期试验。9种饲粮分别为：1种无磷饲粮（phosphorus-freediet,PFD)，用来估计 EPL；6 种半纯合饲粮，即分别由豆粕、菜籽粕、玉米 DDGS 作为单一磷来源，并设置2个磷水平；2种混合饲粮，即由玉米、豆粕、菜籽粕和玉米DDGS作为磷来源，并设置2个磷水平。试验饲粮组成及营养水平见表1。选择三氧化二铬作为指示剂测定磷的消化率。试验动物于不锈钢代谢笼内饲养，自然光照，室温控制在20 ℃左右。试验期包括5d适应期、2d粪便收集期、2d食糜收集期，采食量根据试验动物体重的 $3 . 5 \%$ 计算得出，分2次分别于08:00 和17:00 饲喂，试验动物自由饮水。
+
+# 1.2样本收集和处理
+
+试验经过5d适应期后，收集试验动物在试验第6天和第7天08:00—18:00 排出的全部粪便，并收集试验动物在第8天和第9天08:00—18:00 的全部食糜。粪便样品和食糜样品
+
+收集后立即置于-20℃冰箱中冷冻保存，待试验结束后将每头猪的全部食糜和粪便样品分别混合均匀后，置于65℃烘箱干燥后粉碎待测。
+
+1.3测定指标与方法试验饲粮、食糜、粪便样品的常规营养成分及总磷含量参考张丽英[12测定方法测定，  
+三氧化二铬含量参考Fenton 等[13]提出的方法进行测定。
+
+# 1.4计算方法
+
+饲粮磷的AID和SID 按照如下公式进行计算：磷的AID $( \% ) = 1 0 0 - [$ （饲粮铬含量/食糜中铬含量） $\times$ (食糜中磷含量/饲粮中磷含量)
+
+$\times 1 0 0 ] ;$ （204号
+
+磷的 SID $( \% ) \ { = } \mathrm { A I D + } [$ （回肠EPL/饲粮磷含量） $\times 1 0 0 ]$ 。
+
+其中，回肠EPL $\ c =$ 食糜中磷含量 $\times$ 饲粮磷含量/食糜中铬的含量。
+
+磷的ATTD 和 STTD 按照如下公式进行计算：磷的ATTD $( \% ) = 1 0 0 - [$ （饲粮中铬含量/粪中铬含量） $\times$ (粪中磷含量/饲粮中磷含量)
+
+$$
+\times 1 0 0 ] ;
+$$
+
+磷的STTD $( \% ) \mathop { = } \mathrm { A T T D + }$ （全肠道EPL/饲粮磷含量） $\times 1 0 0$ 。其中，全肠道EPL $\vartriangle { \ v { x } }$ 粪中磷含量 $\times$ 饲粮磷含量/粪中铬的含量。
+
+# 1.5 数据统计与分析
+
+采用 SAS9.2统计分析软件中的一般线性模型（GLM）对试验数据进行方差分析和显著性检验，使用最小显著差异法（LSD）比较磷的回肠及全肠道消化率的差异，统计结果以平均值±标准误表示， $P { < } 0 . 0 5$ 为差异显著。
+
+2结果与分析
+
+2.1饲粮类型及磷水平对育肥猪采食量和干物质摄入量的影响由表2可见，各试验组之间育肥猪的体重、采食量及干物质摄入量均无显著差异  
+（ $. P { > } 0 . 0 5 )$ ）°
+
+2.2饲粮类型及磷水平对育肥猪磷回肠消化率的影响由表3可见，饲粮类型极显著影响育肥猪回肠磷排泄量、磷的AID和 SID（ $\cdot P { < } 0 . 0 1 \$ ）°在总磷摄入量相近的条件下，饲喂玉米 DDGS 饲粮的育肥猪回肠磷排泄量低于菜籽粕和混合饲粮组的回肠磷排泄量，导致饲喂玉米DDGS 饲粮的AID 和 SID 高于豆粕组、菜籽粕组和混合饲粮组。饲粮磷水平极显著影响育肥猪回肠食糜的磷排泄量（ $P { < } 0 . 0 1 \$ )，但对育肥猪磷的AID 和 SID 的影响差异不显著（ $. P { > } 0 . 0 5 .$ )。饲粮类型与磷水平的互作效应极显著影响育肥猪回肠磷排泄量、磷的AID及 SID（ $_ { . } P { < } 0 . 0 1 \rangle$ ）
+
+# 2.3饲粮类型及磷水平对育肥猪磷全肠道消化率的影响
+
+由表3可见，饲粮类型极显著影响育肥猪全肠道磷排泄量、磷的 ATTD 和 STTD（ $P { < } 0 . 0 1 \$ )，与饲粮类型对回肠磷排泄量和磷消化率的影响类似。饲喂玉米DDGS 饲粮的育肥猪全肠道磷排泄量低于菜籽粕组和混合饲粮组的全肠道磷排泄量，导致饲喂玉米 DDGS饲粮的育肥猪磷的 ATTD 和 STTD 高于其他饲粮组。饲粮磷水平极显著影响育肥猪全肠道磷排泄量 ( $P { < } 0 . 0 1 \rangle$ ，饲粮磷水平越高，全肠道磷排泄量越高，同时饲粮磷水平极显著影响磷的ATTD（ $_ { . } P { < } 0 . 0 1 \$ )，在豆粕组、菜籽粕组及玉米DDGS 组饲粮中，高磷水平组ATTD 高于低磷水平组。但饲粮磷水平对育肥猪磷的 STTD 的影响差异不显著（ $. P { > } 0 . 0 5 .$ )。此外，饲粮类型及磷水平的互作效应显著影响育肥猪的全肠道磷排泄量（ $P { < } 0 . 0 1$ ）和磷的ATTD（ $\cdot P { < } 0 . 0 5 )$ ，但对育肥猪磷的STTD无显著影响（ $P { > } 0 . 0 5 )$
+
+3讨论
+
+指示剂法和全收粪法是测定生长猪养分消化率的主要方法。采用全收粪法能比较准确地测定猪养分的消化率，但收集全部粪便工作强度较大，且受诸多条件限制。因此，早期研究多使用指示剂法测定生长猪磷的消化率[2-3]。由于小肠是磷的主要消化吸收部位，且大部分前期研究表明生长猪磷的全肠道消化率和回肠消化率之间无显著差异，因此 Shen 等[4]、Dilger 等[5提出磷的全肠道消化率和回肠消化率均可被用于评定生长猪对饲粮中磷的利用效率。使用回肠消化率和全肠道消化率评定生长猪对饲粮中磷的利用效率时各有利弊。使用回肠消化率来评定生长猪对磷的利用效率时需要收集其回肠食糜，收集回肠食糜可减少样品被污染的机率，但收集回肠食糜需要对猪只进行外科瘘管手术以及术后的护理工作，会相应增加试验的工作量。而使用全肠道消化率评定磷的利用效率时可省去瘘管手术的安装，从而减轻试验的工作量，但是粪便样品收集过程中容易受到尿液等的污染。NRC（2012）[提出通过使用 PFD 可测得生长猪 EPL，对磷的 ATTD 进行校正，从而得出磷的 STTD，该理论的假设是基于特定内源磷的排泄量不受饲粮类型和饲粮磷水平的影响。本研究通过比较不同磷
+
+水平的4种饲粮的回肠消化率和全肠道消化率，探讨饲粮磷水平对育肥猪磷的 SID 和 STTD评定的影响。  
+在本试验条件下，豆粕、菜籽粕及玉米 DDGS 饲粮组育肥猪磷的 AID 与 Bohlke 等[14]、Fan 等[15]和Yanez等[6]报道结果基本一致。通过饲喂PFD 测得育肥猪回肠基础EPL为 237.4mg/kg 干物质摄入量，低于 Shen 等[4通过线性回归方法测定的 $6 9 3 ~ \mathrm { { m g / k g } }$ 干物质摄入量。结果表明，饲粮磷水平对育肥猪磷的 AID 和 SID 无显著影响，而饲粮类型和磷水平的交互作用对磷的AID 和 SID 的影响显著。这说明在本试验条件下，使用磷的 SID来评定单一磷来源饲料原料磷的利用效率时可以不考虑饲粮磷水平的影响，但在不同磷来源饲料间使用磷的SID 评定磷的利用效率时仍需考虑饲粮磷水平的影响。
+
+本实验条件下豆粕、菜籽粕、玉米-DDGS 组育肥猪磷的 ATTD与Bohlke 等[14]、She 等[17]、Almeida 等[18]和 Xue 等[19]报道结果基本一致。通过饲喂育肥猪 PFD 测得其全肠道 EPL为 $2 7 5 . 8 ~ \mathrm { m g / k g }$ 干物质摄入量,高于目前报道通过饲喂 PFD 测定的基础EPL为 $1 3 9 { \sim } 2 1 1 ~ \mathrm { m g / k g }$ 干物质摄入量[20-21]，但低于 Shen 等[4]通过线性回归方法测定的 $6 7 0 \mathrm { \ m g / k g }$ 干物质摄入量。本试验通过PFD法测定的全肠道EPL高于文献报道中EPL的原因可能与本试验配制的PFD中仍含总磷 $0 . 0 7 \%$ 以及本试验采用的试验猪体重大于文献中所用的试验猪体重等有关。磷的ATTD 经过全肠道 EPL 校正后，得到的磷的 STTD 分别与 Bohlke 等[14]、She 等[17]和 NRC（2012）[中所提供的豆粕、菜籽粕及玉米DDGS 磷的 STTD 参考值基本一致。结果表明，饲粮磷水平显著影响育肥猪磷的ATTD，这可能是因为，当饲粮磷水平较低时，大部分磷已在小肠被消化吸收，而当饲粮磷水平较高时，未被小肠消化吸收的磷进入后肠依然可被动物利用。而磷的 STTD 只受饲粮类型的显著影响，不受饲粮磷水平及其互作效应的显著影响，故本试验条件下使用 STTD 值评定磷的利用效率时可以不用考虑试验饲粮中磷水平的影响，但该结论是否可推广使用还需要设置更多梯度磷水平的饲粮来验证。
+
+4结论
+
+$\textcircled{1}$ 本试验条件下饲粮磷水平对育肥猪磷的AID及SID 的评定无显著影响。$\textcircled{2}$ 当饲粮总磷水平低于育肥猪总磷需要量时，饲粮磷水平显著影响磷的ATTD评定，但对磷的 STTD 评定无显著影响。因此，在使用 STTD 评定猪饲料原料中磷的利用效率时可配制具有不同磷水平的试验饲粮。
+
+参考文献：   
+[1] STEIN H H,SEVE B,FULLER M F,et al.Invited review:amino acid bioavailability and digestibilityin pig feed ingredients:terminologyand application[J].Journal ofAnimal Science,2007,85(1):172-180.   
+[2] FAN M Z,ARCHBOLD T,SAUER W C,et al.Novel methodology allows simultaneous measurement of true phosphorus digestibility and the gastrointestinal endogenous phosphorus outputs in studies with pigs[J].The Journal of Nutrition,2001,131(9):2388-2396.   
+[3] 刘静波,杨跃奎,何健.日粮磷水平对线性回归法测定磷真消化率的影响[J).畜牧兽医学 报,2014,45(4):572-577.   
+[4] SHEN Y R,FAN M Z,AJAKAIYE A,et al.Use of the regression analysis technique to determine the true phosphorus digestibility and the endogenous phosphorus output associated with corn in growing pigs[J].The Journal of Nutrition,2002,132(6):1199-1206.   
+[5] DILGER R N,ADEOLA O.Estimation of true phosphorus digestibility and endogenous phosphorus loss in growing pigs fed conventional and low-phytate soybean meals[J].Journal of Animal Science,2006,84(3):627-634.   
+[6] NRC.Nutrient requirements of swine[S].11th ed.Washington,D.C.:The National Academies Press,2012.   
+[7] LIU J B,YANG Y K,HE J,et al.Comparison of two diet types in the estimation of true digestibility of phosphorus in soybean and canola meals for growing pigs by the regression method[J].Livestock Science,2014,167:269-275.   
+[8] LIU J,BOLLINGER D W,LEDOUX D R,et al.Effects of dietary calcium:phosphorus ratios on apparent absorption of calcium and phosphorus in the small intestine,cecum,and colon of pigs[J].Journal of Animal Science,2000,78(1):106-109.   
+[9] JOHNSTON S L,WILLIAMS S B,SOUTHERN L L,et al.Effect of phytase addition and dietary calcium and phosphorus levels on plasma metabolites and ileal and total-tract nutrient digestibility in pigs[J].Journal of Animal Science,2004,82(3):705-714. [10] 刘正群,刘静波,吕帅兵,等.饲粮类型和磷水平对生长猪后肠磷消化率的影响[J].动物营养 学报,2015,27(8):2509-2516.   
+[11] SEYNAEVE M,JANSSENS G,HESTA M,et al.Effects of dietary Ca/P ratio,P level and microbial phytase supplementation on nutrient digestibilities in growing pigs:breakdown of phytic acid,partition of $\mathrm { \bf P }$ and phytase activity along the intestinal tract[J].Journal of Animal Physiology and Animal Nutrition,2000,83(4/5):193-204.   
+[12] 张丽英.饲料分析及饲料质量检测技术[M].2版.北京:中国农业大学出版社,2003. [13] FENTON T W,FENTON M.An improved procedure for the determination of chromic oxide in feed and feces[J].Canadian Journal of Animal Science,1979,59(3):631-634.   
+[14] BOHLKE R A,THALER R C,STEIN H H.Calcium,phosphorus,and amino acid digestibility in low-phytate corn,normal corn,and soybean meal by growing pigs[J].Journal of Animal Science,2005,83(10):2396-2403.   
+[15] FAN M Z,SAUER W C.Additivity of apparent ileal and fecal phosphorus digestibility values measured in single feed ingredients for growing-finishing pigs[J].Canadian Journal of Animal Science,2002,82(2):183-191.   
+[16] YANEZ J L,BELTRANENA E,CERVANTES M,et al.Effect of phytase and xylanase supplementation or particle size on nutrient digestibility of diets containing distillers dried grains with solubles cofermented from wheat and corn in ileal-cannulated grower pigs[J].Journal of Animal Science,2011,89(1):113-123.   
+[17] SHE Y,SU Y B,LIU L,et al.Effects of microbial phytase on coefficient of standardized total tract digestibility of phosphorus in growing pigs fed corn and corn co-products,wheat and wheat co-products and oilseed meals[J].Animal Feed Science and Technology,2015,208:132-144. [18] ALMEIDA F N,STEIN H H.Performance and phosphorus balance of pigs fed diets formulated on the basis of values for standardized total tract digestibility of phosphorus[J].Journal of Animal Science,2010,88(9):2968-2977.
+
+[19] XUE P C,ADEOLA O.Phosphorus digestibility response of growing pigs to phytase supplementation of triticale distillers’ dried grainswith solubles[J].Journal of Animal Science,2015,93(2):646-651.
+
+[20] PETERSEN G I,STEIN H H.Novel procedure for estimating endogenous losses and   
+measurement of apparent and true digestibility of phosphorus by growing pigs[J].Journal of   
+Animal Science,2006,84(8):2126-2132.   
+[21] WIDMER M R,MCGINNIS L M,STEIN H H.Energy,phosphorus,and amino acid   
+digestibility of high-protein distillers dried grains and corn germ fed to growing pigs[J].Journal of   
+Animal Science,2007,85(11):2994-3003. Effects of Dietary Phosphorus Level on the Determination of Standardized Ileal and Total Tract Digestibility of Phosphorus for Fattening Pigs LIU Zhengqun1LYU Shuaibing1XIE Jingjing1ZHANG Zuxiang²LIU Jingbo1.2 ZHANG Hongfu1 \* (1. State Key Laboratory of Animal Nutrition, Institute of Animal Sciences of Chinese Academy of Agricultural Sciences, Beijing 100193, China; 2. Inititution of Life Science and Engineering, Southwest University of Science and Technology, Mianyang 621010, China)   
+Abstract: The present study was conducted to investigate the effects of dietary phosphorus (P)   
+level on the determination of standardized ileal digestibility (SID） and standardized total tract   
+digestibility (STTD) of P for fattening pigs. Eighteen fattening pigs with the average body weight   
+of $( 7 3 . 8 { \pm } 3 . 3 ) \$ kg were surgically fitted with simple T-cannulas at the distal ileum. According to a   
+incomplete Latin square design duplicated $9 \times 4$ ， nine diets and four periods were used in this   
+experiment. The 9 experimental diets consisted of one P-free diet (PFD), six semi-purified diets   
+and 2 mixed diets. PFD was used to estimate the basal endogenous $\mathrm { \bf P }$ losses (EPL),while other   
+diets were used to determine $\mathrm { \bf P }$ digestibility. Chromic oxide was included in diets to determine   
+EPL and $\mathrm { \bf P }$ digestibility. The results showed as follows: 1） dietary type extremely significantly   
+affected ileal $\mathrm { \bf P }$ output, apparent ileal digestibility (AID) and SID of P for fattening pigs $( P { < } 0 . 0 1 )$ ：
+
+Dietary $\mathrm { \bf P }$ level extremely significantly affected ileal $\mathrm { \bf P }$ output $( P { < } 0 . 0 1 )$ ，but had no significant influences on AID and SID of $\mathrm { \bf P }$ for fattening pigs $( P { > } 0 . 0 5 )$ . The interaction of dietary type and dietary P level extremely significantly affected ileal $\mathrm { \bf P }$ output, AID and SID of P for fattening pigs （2号 $( P { < } 0 . 0 1 )$ . 2) Dietary type extremely significantly affected total tract $\mathrm { \bf P }$ output, apparent total tract digestibility（ATTD） and STTD of $\mathrm { \bf P }$ for fattening pigs $( P { < } 0 . 0 1 )$ .Dietary $\mathrm { \bf ~ P }$ level extremely significantly affected total tract output and ATTD of $\mathrm { \bf P }$ （20 $( P { < } 0 . 0 1 )$ ,but had no significant influence on STTD of $\mathrm { \bf P }$ for fattening pigs $( P { > } 0 . 0 5 )$ . The interaction of dietary type and dietary $\mathrm { \bf P }$ level significantly affected total tract output $( P { < } 0 . 0 1 )$ and ATTD of $\mathrm { \bf P }$ $( P { < } 0 . 0 5 )$ ,but had no significant influence on STTD of $\mathrm { \bf P }$ for fattening pigs $( P { > } 0 . 0 5 )$ . In conclusion,under the condition of this experiment, dietary $\mathrm { \bf P }$ level has no significant influence on the determination of AID,SID and STTD of $\mathrm { \bf P }$ for fattening pigs. However, dietary $\mathrm { \bf P }$ level significantly affects the determination of ATTD of $\mathrm { \bf P }$ for fattening pigs. Therefore, experimental diets with different dietary $\mathrm { ~ \bf ~ P ~ }$ levels are needed when STTD is used for determining the efficiency of P in feed ingredients of pigs. Key words: fattening pigs; phosphorus; apparent digestibility; standardized digestibility
+
+Table 1Composition and nutrient levels of diets (air-dry basis) %   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td rowspan="2">无磷饲粮 PFD</td><td colspan="2">豆粕 Soybean meal</td><td colspan="2">菜籽粕 Rapeseed meal</td><td colspan="2">玉米干酒糟及其可溶物 Corn DDGS</td><td colspan="2">混合饲粮 Mixed diet</td></tr><tr><td>低磷LowP</td><td>高磷 High P</td><td>低磷Low P</td><td>高磷 High P</td><td>低磷Low P</td><td>高磷 High P</td><td>低磷LowP</td><td>高磷 High P</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>玉米Corm</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>84.81</td><td>54.17</td></tr><tr><td>玉米淀粉 Corn starch</td><td>72.55</td><td>77.58</td><td>59.40</td><td>73.74</td><td>51.82</td><td>65.59</td><td>35.53</td><td></td><td></td></tr><tr><td>豆粕 Soybean meal</td><td></td><td>18.00</td><td>36.00</td><td></td><td></td><td></td><td></td><td>3.40</td><td>13.50</td></tr><tr><td>菜籽粕 Rapeseed meal</td><td></td><td></td><td></td><td>21.70</td><td>43.30</td><td></td><td></td><td>3.40</td><td>13.50</td></tr><tr><td>玉米干酒糟及其可溶物 Corm</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>DDGS</td><td></td><td></td><td></td><td></td><td></td><td>29.30</td><td>58.50</td><td>3.40</td><td>13.50</td></tr><tr><td>纤维素 Cellulose</td><td>5.00</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>蔗糖 Sucrose</td><td>20.00</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>碳酸钾K2CO3</td><td>0.40</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>氧化镁MgO</td><td>0.10</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>豆油 Soybean oil</td><td></td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td></tr><tr><td>石粉 Limestone</td><td>0.80</td><td>0.27</td><td>0.45</td><td>0.41</td><td>0.73</td><td>0.96</td><td>1.82</td><td>0.84</td><td>1.18</td></tr><tr><td>三氧化二铬 Cr2O3</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr></table></body></html>
+
+<html><body><table><tr><td>预混料 Premix1)</td><td>0.25</td><td>0.25</td><td>0.25</td><td>0.25</td><td>0.25</td><td>0.25</td><td>0.25</td><td>0.25</td><td>0.25</td></tr><tr><td>氯化胆碱 Choline chloride</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td></tr><tr><td>食盐NaCl</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>干物质DM</td><td>90.30</td><td>89.96</td><td>90.96</td><td>89.85</td><td>90.62</td><td>92.04</td><td>92.33</td><td>90.22</td><td>91.12</td></tr><tr><td>粗蛋白质CP</td><td>2.87</td><td>8.87</td><td>17.23</td><td>8.74</td><td>16.38</td><td>8.47</td><td>15.93</td><td>11.44</td><td>19.17</td></tr><tr><td>总能 GE/(MJ/kg)</td><td>16.12</td><td>16.50</td><td>16.99</td><td>16.45</td><td>17.07</td><td>17.31</td><td>18.34</td><td>17.23</td><td>17.97</td></tr><tr><td>钙Ca</td><td>0.32</td><td>0.22</td><td>0.37</td><td>0.36</td><td>0.64</td><td>0.39</td><td>0.65</td><td>0.40</td><td>0.61</td></tr><tr><td>总磷TP</td><td>0.07</td><td>0.18</td><td>0.31</td><td>0.30</td><td>0.53</td><td>0.32</td><td>0.54</td><td>0.32</td><td>0.50</td></tr></table></body></html>
+
+1预混料为每千克饲粮提供 Premix provided the following per kilogram of diets：Cu（as $\mathrm { C u S O _ { 4 } }$ -5H20） $2 0 ~ \mathrm { m g }$ ，Fe（as FeSO4·7H2O） $1 2 0 ~ \mathrm { m g }$ ，Mn(as $\mathrm { M n S O _ { 4 } { \cdot } H _ { 2 } O }$ ） $3 0 ~ \mathrm { m g }$ Zn(as Zn $\mathrm { S O } _ { 4 }$ H20） $1 2 0 ~ \mathrm { m g }$ ，Se (as $\mathrm { N a } _ { 2 } \mathrm { S e O } _ { 3 }$ ） $0 . 5 ~ \mathrm { m g }$ ，I(as KI） $0 . 5 ~ \mathrm { m g }$ ，VA 8 000 IU, $\mathrm { V D } _ { 3 } 2 0 0 0 \mathrm { I U }$ ，VE 12 IU，VK3 $1 . 2 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 1 . 5 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 4 \mathrm { m g }$ ，VB6 2 mg， $\mathrm { V B } _ { 1 2 } 0 . 0 2$ （20mg，生物素 biotin $0 . 0 8 \mathrm { m g }$ ，泛酸 pantothenic acid $1 2 \mathrm { m g }$ ，烟酸 nicotinic acid $2 0 ~ \mathrm { m g }$ ，叶酸 folic acid $0 . 5 \mathrm { m g }$ 。
+
+Table 2Efects of dietary type and P level on feed intake and dry matter intake for growing pigs   
+
+<html><body><table><tr><td rowspan="3"></td><td rowspan="3"></td><td colspan="2">豆粕 Soybean meal</td><td rowspan="2" colspan="2">菜籽粕 Rapeseed meal</td><td colspan="2">玉米干酒糟及其可溶 物 Corn-DDGS</td><td rowspan="3">混合饲粮 Mixed diet</td><td rowspan="3"></td><td rowspan="3"></td><td rowspan="3">P值 P-value</td><td rowspan="3"></td><td rowspan="3"></td></tr><tr><td colspan="2">无磷饲粮</td><td colspan="2"></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>饲粮类型</td><td>饲粮磷水平</td></tr><tr><td></td><td>PFD</td><td>低磷</td><td>高磷</td><td>低磷</td><td>高磷</td><td>低磷</td><td>高磷</td><td>低磷</td><td>高磷</td><td></td><td>Dietary</td><td>Dietary P</td><td>Interactio</td></tr><tr><td>M 33</td><td></td><td>Low P</td><td>High P</td><td>Low P</td><td>High P</td><td>Low P</td><td>High P</td><td>Low P</td><td>High P</td><td></td><td>type</td><td>level</td><td>n</td></tr><tr><td>体BW/kg 1</td><td>74.72</td><td>74.62</td><td>73.58</td><td>74.02</td><td>73.58</td><td>73.81</td><td>73.51</td><td>72.52</td><td>74.32</td><td>3.34</td><td>0.998</td><td>0.999</td><td>0.976</td></tr><tr><td>采食量 Feed intake/(g/d) 干物质摄入量 DM</td><td>2 615</td><td>2 612</td><td>2575</td><td>2 591</td><td>2576</td><td>2 583</td><td>2573</td><td>2 538</td><td>2 601</td><td>116.93</td><td>0.998</td><td>0.999</td><td>0.976</td></tr><tr><td>intake/(g/d) 7</td><td>2 362</td><td>2 350</td><td>2 342</td><td>2328</td><td>2 334</td><td>2378</td><td>2 376</td><td>2290</td><td>2370</td><td>106.26</td><td>0.992</td><td>0.799</td><td>0.973</td></tr></table></body></html>
+
+表3饲粮类型及磷水平对育肥猪磷回肠、全肠道消化率的影响  
+Table 3Effects of dietary type and Plevel on ileal and total tract digestibility of P for fattening pigs   
+
+<html><body><table><tr><td></td><td colspan="9"></td><td colspan="4"></td></tr><tr><td></td><td colspan="2">豆粕 Soybean meal</td><td colspan="2">菜籽粕 Rapeseed meal</td><td colspan="2">物 Corn-DDGS</td><td colspan="2">混合饲粮 Mixed diet</td><td colspan="2"></td><td colspan="3">P值P-value</td></tr><tr><td>项目Items</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>SEM</td><td>饲粮类型</td><td></td><td></td><td></td></tr><tr><td></td><td>低磷</td><td>高磷</td><td>低磷</td><td>高磷</td><td></td><td>高磷</td><td></td><td>低磷</td><td>高磷</td><td>Dietary</td><td>磷水平</td><td></td><td>互作</td></tr><tr><td></td><td>Low P</td><td>High P</td><td>Low P</td><td>High P</td><td></td><td>Low P</td><td>High P</td><td>Low P</td><td>High P</td><td></td><td></td><td>P level</td><td>Interactior</td></tr><tr><td>总磷摄入量 Total P intake/(mg/d)</td><td>1 628</td><td>2 777</td><td>2712</td><td>4764</td><td></td><td>2972</td><td>4 998</td><td>2948</td><td>4 658</td><td>type</td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>回肠磷排泄量 Ileal Poutput/(mg/kg)</td><td>1094</td><td>1528</td><td>2 062</td><td>3 469</td><td>1 232</td><td>2 220</td><td>1866</td><td>3213</td><td>66.08</td><td><0.001</td><td><0.001</td><td><0.001</td></tr><tr><td>磷的表观回肠消化率 Apparent ileal</td><td>32.82</td><td>44.97</td><td>23.95</td><td>27.18</td><td>58.55</td><td>55.58</td><td>36.68</td><td>31.01</td><td>1.72</td><td><0.001</td><td>0.171</td><td><0.001</td></tr><tr><td>digestibility of P/% 磷的标准回肠消化率 Standardized ileal</td><td>47.40</td><td>53.52</td><td>32.71</td><td>32.16</td><td>66.54</td><td>60.33</td><td>44.74</td><td>36.10</td><td>1.72</td><td><0.001</td><td>0.062</td><td><0.001</td></tr><tr><td>digestibility of P/%1) 全肠道磷排泄量 Total tract P 3</td><td></td><td>1 655</td><td>1991</td><td>3 194</td><td>1084</td><td>1 770</td><td>2 007</td><td>3186</td><td>52.37</td><td><0.001</td><td><0.001</td><td><0.001</td></tr><tr><td>output/(mg/kg) 磷的表观全肠道消化率 Apparenttotal tract</td><td></td><td>40.40</td><td>26.60</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.001</td><td>0.030</td></tr><tr><td>digestibility of P/%</td><td></td><td></td><td></td><td></td><td>63.51</td><td>64.58</td><td>31.92</td><td>31.59</td><td>1.36</td><td><0.001</td><td></td><td></td></tr><tr><td></td><td></td><td>50.33</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>磷的标准全肠道消化率 Standardized total</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>20</td><td>51.26</td><td></td><td>36.76</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>38.74</td><td>72.79</td><td>70.10</td><td>41.28</td><td>37.51</td><td>1.36</td><td><0.001</td><td>0.164</td><td>0.175</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>tract digestibility of P/%2)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td></table></body></html>
+
+1'回肠内源磷排泄量为 $2 3 7 ~ \mathrm { m g / k g }$ 。 Ileal basal endogenous P loss was $2 3 7 \mathrm { m g / k g }$ 。
+
+2’全肠道内源磷排泄量为 276 mg/kg。Totaltract basal endogenous P loss was 276 mg/kg。

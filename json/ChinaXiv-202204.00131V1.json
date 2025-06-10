@@ -1,0 +1,552 @@
+[
+    {
+        "type": "text",
+        "text": "黄河流域旅游经济与生态环境协调发展时空演变及影响因素探究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "谷昊鑫¹，秦伟山¹²，赵明明¹，孙海燕}，王富喜1(1.鲁东大学资源与环境工程学院，山东 烟台264025；2.中国科学院地理科学与资源研究所,北京100101)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于黄河流域66个中心城市(市、地区、州、盟)旅游经济系统和生态环境系统的面板数据，运用耦合协调模型、空间自相关分析及地理探测器等方法，以2008、2013、2018年为时间节点，对黄河流域旅游经济系统与生态环境系统耦合协调水平的时空演变特征以及影响因素进行探析。结果表明：（1）2008年黄河流域 $9 5 \\%$ 的中心城市旅游经济系统与生态环境系统耦合协调水平均处于中度协调及以上等级;2013年黄河流域 $6 0 \\%$ 以上的中心城市2个系统耦合协调水平调整为高度协调等级，流域整体呈现“东高西低”的非均匀分布规律;2018年黄河流域 $8 8 \\%$ 以上的中心城市2个系统耦合协调水平处于高度协调及以上等级。(2)黄河流域旅游经济系统与生态环境系统协调发展的空间聚类情况逐年调整，流域内上游省(区)冷点显著区不断缩聚，呈组团分布在青海省东部、甘肃省中部等地区；中下游省(区)热点显著区持续向河南省中部、山东省西部等地区移动并聚拢。(3）政府对于旅游业扶持和对生态环境的保护与整治力度及近3a节能环保支出年均增长率依次是影响黄河流域2个系统协调发展最重要的驱动力，每万人发明专利拥有量、出租车保有量等驱动因子的影响效应呈现先缓升后减弱的态势，以科学研究与试验发展经费(Research and develop-ment,R&D)支出占国内生产总值(GDP)比重为表征的科技素质教育要素对黄河流域2个系统协调发展的影响较不显著。本研究探寻了黄河流域旅游经济与生态环境协调发展的路径，为进一步提升黄河生态经济带高质量发展水平提出理论参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：旅游经济；生态环境；时空演变；黄河流域",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄河流域生态保护和高质量发展已上升为国家战略，探究黄河流域旅游经济与生态环境协调发展具有重要意义[1]。旅游经济是一种新型的经济发展模式，是经济转型及高质量发展的新生动力。生态环境是人类生存及发展的载体，亦是人地关系探究的核心要素之一。旅游经济与生态环境是在特定的人-地关系下融合了区域性、综合性等多元化特性的相关联系统，是多种要素驱动下的结果。在经济发展理论及环保价值观的共同作用下，旅游经济与生态环境的协调发展机制逐渐成为国内外学者探究的核心课题之一。国内外学者对旅游经济与生态环境的关系进行了广泛的探索。加拿大学者Moulin等²提出旅游产业与生态系统融合发展的概念；学者Konan[3认为旅游经济的增长可以减轻生态压力的负担，即旅游经济与生态环境体系是双重影响、多因子交叉下的结果。基于我国独特的自然禀赋与人文基础，在不断探索新的测度方法与分析手段的同时，我国学者进而注重探究旅游经济系统与生态环境系统的协调原理及机制。郭晓东等4运用属性层次模型(Attributehierarchicalmodel,AHM)权重和熵值权重相结合的方法探析中国旅游经济与生态环境协调发展水平的空间差异与演变特征；",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周成等5运用加权TOPSIS法及运用灰色预测模型$\\mathrm { G M } ( 1 , 1 )$ ，评价并预测了长江经济带沿线各省市区域经济-生态环境-旅游产业三者的协调机制;吴文婕等运用熵值与聚类分析等方法探析了新疆维吾尔自治区公共服务资源空间配置与城乡互动的协调发展情况；王开泳等基于前人对黄河流域生态环境维度的研究结果,运用重标极差分析法(Rangeanalysis，R/S)等预测了黄河流域未来旅游经济的发展趋势与动向。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述，国内外学者对旅游经济与生态环境协调机制的探究呈现多元化、科学化的特征。研究视角与维度由定性研究趋向于定量探究；研究价值由水平测度分析过渡为多元要素探究及对未来发展的预测[8]。但现有研究仍有部分不足之处，即现有研究重心多侧重于旅游经济系统、生态环境系统的协调发展水平测度及时空规律，对二者协调发展的时空演变效应及驱动因素探究较少。鉴于此，本文从旅游经济与生态环境系统协调发展的视角出发，一方面，探究黄河流域内66个中心城市旅游经济与生态环境的协调关系，进而探索二者耦合协调的时空演变及影响因素；另一方面，以“两山\"理论为导向，以协调共促及高质量发展为维度，探寻一条适合黄河流域的生态环境与旅游经济协调高质量发展的路径。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "黄河流域是我国重要的地理生态区域，自西向东横跨青藏高原、内蒙古高原、黄土高原和黄淮海平原4个地貌单元，流经青海、四川、甘肃、宁夏、内蒙古、陕西、山西、河南、山东9省(区)。近年来全流域生态环境得到改善，黄河流域植被覆盖指数(Leafareaindex，LAI)显著提升，1982—2017年生态环境相对脆弱的上游地区LAI增加了 $2 2 . 8 \\%$ ，中下游地区增加了 $4 3 . 9 \\%$ 。依托得天独厚的自然资源禀赋，黄河流域旅游经济发展迅速。2008—2018年黄河流域9省(区)国内旅游收入年均复合增长率达到$1 0 . 7 \\%$ ,其中2015—2018年的年均复合增长率高于全国平均水平；旅游总收入占国内生产总值(GDP)的比重由 $8 . 1 3 \\%$ 增长至 $1 8 . 3 5 \\%$ ,10a间增加了$1 0 . 2 2 \\%$ 。生态环境保护与旅游经济协同发展已成为黄河流域生态保护和高质量发展这一国家战略",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "的重要推动力。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1数据来源与指标选取",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "旅游经济与生态环境是2个复杂的系统。其中旅游经济系统是旅游效益与旅游规模的综合体现，旅游效益表征着旅游经济投入与产出的对比情况，是旅游经济系统平稳运行的重要支撑；旅游规模是旅游承载力与旅游发展范畴的互动特征，是旅游经济系统的实力保障[8]。生态环境系统是生态资源与环境治理的要素集合，生态资源是自然资源禀赋的主要表征，环境治理是生态环境系统运行的核心保障。基于可获得性及要素禀赋理论，本文构建了黄河流域旅游经济系统与生态环境系统耦合协调度评级指标体系(表1)。为厘清黄河流域旅游经济系统与生态环境系统的内部要素差异，本体系将旅游经济系统与生态环境系统划分为旅游效益与旅游规模、生态资源与环境治理4个维度，详细选取了27个指标构建成评价指标体系(表1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文研究的原始数据源于2009、2014、2019年《中国城市统计年鉴》及《黄河年鉴》。鉴于个别年份相关数据有所缺失，还参考部分中心城市2009—2019年的统计年鉴和2008—2018年统计公报等相关文献资料(http://www.cnstats.org/）。本文选取的黄河流域66个中心城市(市、地区、州、盟)与《黄河年鉴》2019版的中心城市相符。黄河流域旅游经济系统与生态环境系统耦合协调度评价体系由多层次、多指标构成，为确定各级指标的权重，本文选取熵值法进行测算。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.1耦合协调度模型在确立了指标权重后，构建黄河流域旅游经济与生态环境2个子系统的耦合协调度模型[9-10],2个子系统的耦合关联度 $( C )$ 和耦合协调度 $( D )$ 计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC = 2 \\Biggl [ \\frac { U \\times G } { \\left( U + G \\right) ^ { 2 } } \\Biggr ] ^ { \\frac { 1 } { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD = { \\sqrt { C \\times T } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $C$ 为耦合关联度，表示2个子系统通过各自耦合因素产生彼此影响的程度; $U , G$ 分别为旅游经济系统、生态环境系统的综合评价指数； $D$ 为耦合协调度，表示2个子系统交互耦合的程度； $T$ 为反映2个",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干辛区地理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "子系统整体协同效应的综合评价指数，且 $\\scriptstyle { T = \\theta \\times U + }$ $\\gamma { \\times } G$ ，其中 $\\scriptstyle \\theta + \\gamma = 1$ ， $\\gamma$ 和 $\\theta$ 分别为2个子系统的权重。其中子系统1的权重 $\\theta$ 为0.5,子系统2的权重γ为0.5。根据耦合协调度的大小，可将2个系统分为4",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "个程度、10个等级(表2)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2空间自相关法为了更直观地探析黄河流域旅游经济与生态环境耦合协调度的空间格局特征，通过Getis-Ord $G _ { i }$ 识别出不同区域的高值和低值的",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/9f36f906b4272ee78fcae9069e2e1f1bcf4cdf7b2f42cfe7bc5d53811d6e5aa9.jpg",
+        "table_caption": [
+            "Tab.1 Evaluation index system of coupling coordination degre of tourism economic system and ecological environment system in the YellowRiver Basin "
+        ],
+        "table_footnote": [
+            "注：鉴于数据的可获得性，本文用公共交通客运总量表征城乡绿色出行指标，数据来源于《中国交通运输统计年鉴》。每万人城乡绿色出行数据由各中心城市公共交通客运总量/城乡总人口数量得出。"
+        ],
+        "table_body": "<html><body><table><tr><td>系统</td><td>一级指标</td><td>二级指标</td><td>单位</td><td>权重</td><td>指标性质</td></tr><tr><td>旅游经济系统</td><td>旅游效益</td><td>入境游客数</td><td>104人</td><td>0.1354</td><td>正</td></tr><tr><td></td><td></td><td>国内旅游人次</td><td>10人</td><td>0.1251</td><td>正</td></tr><tr><td></td><td></td><td>国内旅游收入</td><td>10元</td><td>0.1246</td><td>正</td></tr><tr><td></td><td></td><td>国际旅游收入</td><td>104USD</td><td>0.0732</td><td>正</td></tr><tr><td></td><td></td><td>旅游总收入占国内生产总值(GDP)比重</td><td>%</td><td>0.1549</td><td>正</td></tr><tr><td></td><td>旅游规模</td><td>旅行社数量</td><td>个</td><td>0.0977</td><td>正</td></tr><tr><td></td><td></td><td>4A级以上景区数</td><td>个</td><td>0.1058</td><td>正</td></tr><tr><td></td><td></td><td>4星级以上酒店数</td><td>个</td><td>0.0832</td><td>正</td></tr><tr><td></td><td></td><td>第三产业从业人数</td><td>人</td><td>0.1001</td><td>正</td></tr><tr><td>生态环境系统</td><td>生态资源</td><td>人均绿地面积</td><td>10人·m²</td><td>0.0596</td><td>正</td></tr><tr><td></td><td></td><td>建成区绿地覆盖面积</td><td>104 m²</td><td>0.0549</td><td>正</td></tr><tr><td></td><td></td><td>森林覆盖率</td><td>%</td><td>0.0567</td><td>正</td></tr><tr><td></td><td></td><td>生态造林面积</td><td>667m²</td><td>0.0593</td><td>正</td></tr><tr><td></td><td></td><td>河流河网密度</td><td>km·km-²</td><td>0.0528</td><td>正</td></tr><tr><td></td><td></td><td>水土流失面积</td><td>km²</td><td>0.0577</td><td>负</td></tr><tr><td></td><td>环境治理</td><td>工业废水排放量</td><td>104 t</td><td>0.0572</td><td>负</td></tr><tr><td></td><td></td><td>SO排放量</td><td>t</td><td>0.0537</td><td>负</td></tr><tr><td></td><td></td><td>年均空气污染指数</td><td>分</td><td>0.0609</td><td>负</td></tr><tr><td></td><td></td><td>工业烟粉尘排放量</td><td>t</td><td>0.0527</td><td>负</td></tr><tr><td></td><td></td><td>城乡每万人绿色出行</td><td>10人·次-1</td><td>0.0597</td><td>正</td></tr><tr><td></td><td></td><td>生活无害化垃圾处理率</td><td>%</td><td>0.0478</td><td>正</td></tr><tr><td></td><td></td><td>工业固废利用率</td><td>%</td><td>0.0554</td><td>正</td></tr><tr><td></td><td></td><td>环境空气质量综合指数</td><td>分</td><td>0.0542</td><td>正</td></tr><tr><td></td><td></td><td>空气质量优良率</td><td>%</td><td>0.0535</td><td>正</td></tr><tr><td></td><td></td><td>城镇生活饮用水达标率</td><td>%</td><td>0.0593</td><td>正</td></tr><tr><td></td><td></td><td>单位GDP电耗</td><td>kW·h·(104元)-</td><td>0.0585</td><td>负</td></tr><tr><td></td><td></td><td>城镇生活污水处理率</td><td>%</td><td>0.0461</td><td>正</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2旅游经济系统与生态环境系统耦合协调度等级及水平分类",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/08d306cccb55df57c92d10c558513605768a5577e47a5cc0a29ae40593831e50.jpg",
+        "table_caption": [
+            "表1黄河流域旅游经济系统与生态环境系统耦合协调度评价指标体系",
+            "Tab.2 Grade and level classification of coupling coordination degree of tourism ",
+            "economic system and ecological environment system "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>协调程度</td><td>耦合协调度(D)</td><td>协调等级</td><td>协调程度</td><td>耦合协调度(D)</td><td>协调等级</td></tr><tr><td rowspan=\"3\">低度协调</td><td>0.00~0.09</td><td>极度失调</td><td rowspan=\"3\">高度协调</td><td>0.50~0.59</td><td>勉强协调</td></tr><tr><td>0.10~0.19</td><td>严重失调</td><td>0.60~0.69</td><td>初级协调</td></tr><tr><td>0.20~0.29</td><td>中度失调</td><td>0.70~0.79</td><td>中级协调</td></tr><tr><td rowspan=\"2\">中度协调</td><td>0.30~0.39</td><td>轻度失调</td><td rowspan=\"2\">极度协调</td><td>0.80~0.89</td><td>良好协调</td></tr><tr><td>0.40~0.49</td><td>濒临失调</td><td>0.90~1.00</td><td>优质协调</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "聚集区，用于探索局部空间的关联程度即黄河流域旅游经济与生态环境协调发展效率的空间分布格局以及研究单元之间的空间依赖性[1-12],计算公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { i } ( d ) = \\frac { \\displaystyle \\sum _ { j = 1 } ^ { n } w _ { i j } ( d ) x _ { j } } { \\displaystyle \\sum _ { j = 1 } ^ { n } x _ { j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当 $i { \\neq } j$ 时， $G _ { i } ( d )$ 的标准式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ [ G _ { i } ( d ) ] = \\frac { G _ { i } ( d ) - E [ G _ { i } ( d ) ] } { \\sqrt { \\mathrm { V A R } [ G _ { i } ( d ) ] } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $G _ { i } ( d )$ 为空间相关值,其中 $d$ 为空间距离； $n$ 为空间单元的数目； ${ w _ { i j } ( d ) }$ 为空间权重矩阵，采用临近标准确定； $x _ { j }$ 为空间单元 $j$ 的属性值; $Z [ G _ { i } ( d ) ]$ 为 $G _ { i } ( d )$ 标准化处理后的结果; $E \\big [ G _ { i } ( \\boldsymbol { d } ) \\big ]$ 是数学期望; $\\operatorname { V A R } [ G _ { i } ( d ) ]$ 为变异数。如果 $Z [ G _ { i } ( d ) ]$ 为正且显著,表明 $i$ 位置周围值较高，属于高值空间集聚(热点区）,若 $Z [ G _ { i } ( d ) ]$ 为负且显著，表明 $i$ 位置周围值较低，属于低值空间集聚(冷点区）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.3地理探测器为探究黄河流域旅游经济系统与生态环境系统的协调发展关系，采用地理探测器中的因子探测器，通过不同影响因素的地理分层，分析黄河流域旅游经济系统与生态环境系统协调发展的影响因素[13]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为探索变量 $Y$ 的空间分层异质性，以及探测某因子 $X$ 多大程度上解释了变量 $Y$ 的空间分异。用 $q$ 值进行度量，计算公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nq = 1 - \\frac { \\displaystyle \\sum _ { h = 1 } ^ { L } N _ { h } \\sigma _ { h } ^ { 2 } } { N \\sigma ^ { 2 } } = 1 - \\frac { \\mathrm { S S W } } { \\mathrm { S S T } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $h { = } 1 , 2 , \\cdots , L$ 为变量 $Y$ 或因子 $X$ 的分层，即分类或分区； $N _ { h \\setminus } N$ 分别为层 $h$ 、全区的单元数； $\\smash { \\sigma _ { h _ { \\mathrm { ~ } } } ^ { 2 } } , \\sigma ^ { 2 }$ 分别为变量 $Y$ 在层 $h$ 、全区的方差；SSW、SST分别为层内方差之和、全区总方差。 $q$ 的值域为[0,1」，值越大，说明变量Y的空间分异越明显;如果分层是由自变量 $X$ 生成，则 $q$ 值越大表示 $X$ 和Y的空间分布越一致，自变量 $X$ 对属性Y的解释力越强，反之则越弱。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1耦合协调度空间分布特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为进一步探究黄河流域旅游经济系统与生态环境系统协调发展的时空演变特征，基于2008、2013、2018年3个时间节点，结合耦合协调度模型数据并进行计算[14],划分为5个等级,并绘制了空间分布图(图1)。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2eda499cc97f1c675f8e47cf6434edb17c8125adec96045ac48383905efc9ff3.jpg",
+        "img_caption": [
+            "图1黄河流域旅游经济系统与生态环境系统耦合协调程度的空间分布",
+            "Fig.1 Spatial distributions ofcoupling coordinated development of tourism economic system and ecological environment system in the Yellow River Basin "
+        ],
+        "img_footnote": [
+            "注：该图基于国家测绘地理信息局标准地图服务网站下载的审图号为GS(2019)1822号的标准地图制作，底图边界无修改。下同。"
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "近10a黄河流域旅游经济系统与生态环境系统耦合协调度等级呈逐年优化阶段。2008年，除下游地区部分城市耦合协调等级呈低度失调水平外，流域内其他中心城市的耦合协调等级均处于中度协调与高度协调等级，黄河流域各中心城市旅游经济系统与生态环境系统耦合协调度整体差距并不显著，综合表现一般。经过5a的调整与发展，2013年",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "除白银市耦合协调情况相对较弱外，其他中心城市耦合协调水平全部调整为中等协调及以上等级；2018年黄河流域各中心城市旅游经济系统与生态环境系统发展与优化的速率凸显， $9 0 \\%$ 以上中心城市的耦合协调水平提升至高度协调等级及以上层次。从典型情况上看，除黄河上游地区的玉树州、果洛州、黄南州等中心城市的系统指标相对发展较慢，濮阳市、鹤壁市、莱芜市受限于行政面积较小导致的旅游经济与生态环境指标较低外，流域内其他中心城市耦合协调程度均呈优化趋势。综上所述，通过测算研究表明：流域内各中心城市旅游经济系统与生态环境系统的协调发展水平存在相对波动性、内部分异性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2耦合协调水平空间聚类特征与演化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.1全局空间自相关为进一步分析黄河流域旅游经济与生态环境耦合协调发展水平的空间聚类特征及演化特征，借助全局Moran's $I _ { \\setminus }$ Getis-Ord $G _ { i }$ 等指数的相关数据[15-16],进行计算并得到了黄河流域旅游经济与生态环境协调发展水平全局自相关情况(表3)。黄河流域旅游经济系统与生态环境系统耦合协调水平的全局Moran'sI指数在样本选取的2008、2013、2018年 $3 \\mathrm { ~ a ~ }$ 均为正;各项指数通过 $P ( I ) \\leqslant$ 0.05且 $Z ( I ) { \\geqslant } 1 . 9 6$ 的显著性测验(其中 $P$ 值为显著性概率值, $Z$ 值为检验的统计值)[17-18],表明黄河流域旅游经济系统与生态环境系统耦合协调水平具有明显的空间自相关性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3黄河流域旅游经济系统与生态环境系统耦合协调度全局自相关情况",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f8c03da382fb6d36527a7049b09613897f919315867f85ce213ff2c09a7f0ade.jpg",
+        "table_caption": [
+            "Tab.3 Global autocorrelation of coupling coordination degree of tourism economy system and ecological environment system in the Yellow River Basin "
+        ],
+        "table_footnote": [
+            "注：Moran'sI为莫兰指数值;Z(I)为i范围的得分值; $P ( I )$ 为概率值;$G _ { i } ( d )$ 为空间相关值。"
+        ],
+        "table_body": "<html><body><table><tr><td>年份</td><td>Moran's I</td><td>Z()</td><td>P()</td><td>Gi(d)</td></tr><tr><td>2008</td><td>0.3329</td><td>2.4731</td><td>0.0013</td><td>0.1023</td></tr><tr><td>2013</td><td>0.3662</td><td>2.6731</td><td>0.0001</td><td>0.1069</td></tr><tr><td>2018</td><td>0.3515</td><td>2.8002</td><td>0.0001</td><td>0.1055</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "全局Moran'sI指数在2013年相比2008年明显上浮，表明耦合协调水平的集聚特征持续增强;2018年相比2013年降低0.0147，处于轻微下浮阶段，表明黄河流域内耦合协调度集聚特征略微削弱，但相比2008年仍呈现增长态势。从整体上看，黄河流域内耦合协调度集聚水平呈现缓增后缓慢态势，说明耦合协调度集聚效应依然存在，但近年耦合协调水平的集聚效应发展趋势呈弱化状态。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "全局 $G _ { i } ( d )$ 值随年份推移整体呈“上浮一平稳一下浮”的态势，表明黄河流域旅游经济系统与生态环境系统耦合协调水平存在高值聚集区与低值聚集区，为黄河流域局部空间自相关的探析奠定了基础。从整体上看，全局 $G _ { i } ( d )$ 值在2013年相比2008年轻微上浮并达到小高峰，2018年出现小幅度下浮，表明黄河流域旅游经济系统与生态环境系统耦合协调水平空间集聚趋势波动较大，呈现“先聚化后弱化\"态势。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.2局部空间自相关基于黄河流域全局自相关的上述分析，为进一步探究黄河流域旅游经济系统与生态环境系统耦合协调水平的内部空间分异、演化程度及内部元素自相关程度，根据公式(3)\\~(4)并以2008、2013、2018年3个年份为时间节点计算出黄河流域旅游经济与生态环境耦合协调水平Get-is-Ord $G _ { i }$ 值[19-20],运用ArcGIS10.2工具中的Manual划分法，将值域划分为7种类型：冷点高显著区、冷点中显著区、冷点低显著区、随机分布区、热点低显著区、热点中显著区、热点高显著区，绘制了旅游经济与生态环境耦合协调水平空间格局热点演变图（图2)。由图可知，随着研究年份的推移，黄河流域旅游经济系统与生态环境系统耦合协调水平局部空间格局呈“西冷东热\"阶梯状分布；黄南州、海北州等中心城市由于环境脆弱、经济欠发达在年份的推移下进一步集中;西安市、济南市、郑州市、太原市等中下游省会城市得益于良好的社会经济基础，其辐射带动能力逐年强化。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3旅游经济与生态环境协调发展的影响因素",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.1影响因子的选取旅游经济系统与生态环境系统协调发展是多种因素影响下的结果[21-24]。本文借用地理探测器方法，从经济发展水平、产业结构、科技素质教育、交通运输条件以及政策因素5个方面，选取12项指标作为影响因子。其中，经济发展水平选用人均GDP以及全体人均可支配收入来表征；产业结构选取第三产业占GDP比重及近3a节能环保支出年增长率来表示；科技素质教育选取全市每万人R&D人员活动数量、R&D经费支出占GDP比重及每万人发明专利拥有量来测算；交通运输条件以公共客运量、出租车保有量及高速公路路网密度来表征；政策因素选用政府报告中提及“旅游”及“环境\"等相关字样的次数作为表征。根据上述公式(5)进行计算，以2008、2013、2018年为时间节点，得到了黄河流域旅游经济与生态环境协调发展影响因子指标体系(表4)。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d6c8731a7834a96087f36890bcfbbc80cca48ec82433f6bb019a2d52eae6d477.jpg",
+        "img_caption": [
+            "图2黄河流域旅游经济系统与生态环境系统耦合协调水平空间格局的冷热点演变",
+            "Fig.2 Cold and hot spot evolution of coupling coordination level of tourism economic system and ecological environment system in the Yellow River Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "影响因子的原始数据主要来源于2009、2014、2019年《中国城市统计年鉴》。其中公共客运量、出租车保有量、高速公路路网密度等数据以各年度《中国交通运输统计年鉴》为基础；全体居民人均可支配收入数据来源于各中心城市的《国民经济与社会发展统计公报》;政策因素中政府报告中提及“旅游\"“环境\"相关字样次数的数据来源于2009、2014、2019年各中心城市的《政府工作报告》。驱动要素的选取及各项影响因子的作用机理是多元化视角下的结果，现有研究在驱动要素的选取上日臻完善。如选用航空及铁路运力等因子探析我国热门城市旅游经济空间分异情况25；选取建设用地扩张面积等因子对石河子市绿洲城镇空间扩张情况进行探析[26]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.2影响因素分析由表4可知，2008、2013、2018年黄河流域66个中心城市的全体居民人均可支配收入、第三产业占GDP比重、近3a节能环保支出年均增长率、全市每万人R&D人员活动数量、公共客运量、高速公路路网密度以及政府报告中提及“旅游”“环境\"相关字样次数8项影响因子 $q$ 值随着时间尺度的推移呈正相关增长。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于对耦合协调度影响要素的分析，结合黄河流域旅游经济系统与生态环境系统协调发展的实际情况[27-28],本文对经济发展水平、政策因素、产业结构、交通运输条件以及科技素质教育5个影响要素，即黄河流域旅游经济系统与生态环境系统协调发展的驱动因素及互动关系进行探析，结果表明：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）经济发展水平是均衡旅游经济系统与生态环境系统协调发展的主导性因素，人均GDP与人均可支配收入是经济发展水平的重要衡量标准。从时间尺度上看，2008—2018年对黄河流域旅游经济系统与生态环境系统协调机制影响值之一的人均GDP影响因子 $q$ 值呈先稳速上升后缓慢上升态势。人均可支配收入影响因子的 $q$ 值呈持续上浮态势，但 $q$ 值基数较小，说明后者影响旅游经济系统与生态环境系统协调发展的驱动效应相对较弱。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）产业结构是社会经济体系的重要组成部分。黄河流域各中心城市产业结构发展水平迥异，产业结构为旅游经济系统与生态环境系统协调发展提供实力支撑。2008—2018年黄河流域各中心",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/e4e4a91f32031db4d9634de920eedf1fbad7310b46949315a046b3cafbd87ace.jpg",
+        "table_caption": [
+            "表4黄河流域旅游经济系统与生态环境系统耦合协调发展影响因子指标体系",
+            "Tab.4Influencing factor index system of coupling coordinated development of tourism economic system and ecological environment system in the Yellow River Basin "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>影响因素</td><td>影响因子</td><td>2008年</td><td>2013年</td><td>2018年</td><td>q值平均值</td></tr><tr><td rowspan=\"2\">经济发展水平</td><td>人均国内生产总值(GDP)/元</td><td>0.6321</td><td>0.7121</td><td>0.7174</td><td>0.6872</td></tr><tr><td>全体居民人均可支配收入/元</td><td>0.3221</td><td>0.3721</td><td>0.4077</td><td>0.3673</td></tr><tr><td rowspan=\"2\">产业结构</td><td>第三产业占GDP比重/%</td><td>0.5302</td><td>0.5673</td><td>0.6198</td><td>0.5924</td></tr><tr><td>近3a节能环保支出年均增长率/%</td><td>0.4836</td><td>0.5989</td><td>0.7072</td><td>0.5965</td></tr><tr><td rowspan=\"3\">科技素质教育</td><td>全市每万人R&D人员活动数量/人</td><td>0.2321</td><td>0.2884</td><td>0.3392</td><td>0.2865</td></tr><tr><td>R&D经费支出占GDP比重/%</td><td>0.0982</td><td>0.1782</td><td>0.1596</td><td>0.1453</td></tr><tr><td>每万人发明专利拥有量/件</td><td>0.2011</td><td>0.2781</td><td>0.2661</td><td>0.2484</td></tr><tr><td rowspan=\"3\">交通运输条件</td><td>公共客运量/10人</td><td>0.3239</td><td>0.3729</td><td>0.4425</td><td>0.3797</td></tr><tr><td>出租车保有量/辆</td><td>0.1193</td><td>0.1471</td><td>0.1375</td><td>0.1328</td></tr><tr><td>高速公路路网密度/km·(100km)-1</td><td>0.5332</td><td>0.5812</td><td>0.6269</td><td>0.5804</td></tr><tr><td rowspan=\"2\">政策因素</td><td>政府报告中提及\"旅游\"相关字样次数/次</td><td>0.5121</td><td>0.6312</td><td>0.7191</td><td>0.6208</td></tr><tr><td>政府报告中提及\"环境\"相关字样次数/次</td><td>0.5512</td><td>0.6271</td><td>0.7592</td><td>0.6458</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "城市第三产业占GDP比重及近3a节能环保支出年均增长率 $q$ 值均浮动上升,其中后者的 $q$ 值增长率更快。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3）科技素质教育为黄河流域旅游经济系统与生态环境系统协调发展提供智力与创新支撑。基于科技素质教育要素3项指标的计算结果，全市每万人R&D人员活动数量、R&D经费支出占GDP比重与每万人发明专利拥有量对研究对象的影响因子 $q$ 值较小，即对旅游经济系统与生态环境系统协调发展机制的驱动效应相对较弱。其中，全市每万人R&D人员活动数量影响因子 $q$ 值稳速上升，R&D经费支出占GDP比重与每万人发明专利拥有量2项驱动指标的显著性呈现先上升后相对衰减态势。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(4)交通运输是疏通与贯穿黄河流域旅游经济系统与生态环境系统协调发展的“大动脉”。相比于2008年，2013年黄河流域各中心城市公共客运量、出租车保有量及高速公路路网密度3项影响因子均保持上浮状态。2013—2018年受居民交通方式转变及网约车平台悄然兴起的影响，出租车保有量的 $q$ 值呈相对缓减的态势，公共客运量及高速公路路网密度2项要素的影响效应显著增强，",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（5）政策因素是黄河流域旅游经济系统与生态环境系统协调发展的核心推动力。基于3个时间截面的演进，各中心城市的政府工作报告中提及“旅游”与“环境”相关字样次数的 $q$ 值持续上升，并在2018年浮升至各项影响因子排名顶端。政府工作报告是对各中心城市全年工作的总结、提炼以及对未来的规划与展望， $q$ 值持续性上升说明各市中心城市的政府对旅游经济系统与生态环境系统协同发展的重视。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为更加清晰地梳理影响黄河流域旅游经济系统与生态环境系统协调发展的驱动机制，结合政策性指导与理论性支撑，绘制了黄河流域旅游经济与生态环境协调发展驱动机制图(图3)。由图可知，旅游经济系统与生态环境系统的协调发展是各驱动要素相互作用下所追求的最佳结果",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论与建议",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究基于黄河流域66个中心城市(市、地区、州、盟)的旅游经济系统与生态环境系统，构建评价指标体系，根据3个时间截面的反馈效应表现，借助耦合协调度模型、空间自相关分析及地理探测器等方法，对黄河流域旅游经济系统与生态环境系统耦合协调度时空演变特征及驱动因素进行探究，得出以下结论：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）基于2008、2013、2018年3个时间截面的演变，黄河流域66个中心城市旅游经济系统与生态环境系统的耦合协调度等级整体呈提升态势。2008、2013年黄河流域各中心城市旅游经济系统与生态环境系统协调水平处于低度协调、中度协调、高度协调3个等级，经过旅游经济系统与生态环境系统优化与发展，2018年流域内低度协调等级消失，并",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/aada4cb2e7aac5f4cb405ba45dff0adf65f9665a23535e99817f091df772776b.jpg",
+        "img_caption": [
+            "图3黄河流域旅游经济系统与生态环境系统协调发展的驱动机制",
+            "Fig.3 Driving mechanism of coordinated development of tourism economic system and ecological environment system in the Yellow River Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "出现极度协调等级。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（2）在空间聚类及演化机制上，黄河流域旅游经济系统与生态环境系统协调发展空间格局的冷热点组团逐步形成。2008—2018年黄河流域上游省(区)冷点显著区不断向青海、甘肃等省(区)缩聚并形成协作组团;中下游省(区)热点显著区持续向陕西中部、河南北部、山东西部等省地区聚集，进而形成显著的热点组团，辐射效应逐年显著。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3）在协调度的驱动要素上，政策因素、产业结构、经济发展水平、交通运输条件、科技素质教育依次是影响黄河流域旅游经济系统与生态环境系统协调发展的重要驱动要素。经过10a的发展，政策性要素成为了影响黄河流域旅游经济系统与生态环境系统协调发展的最显著动力源;产业结构要素对旅游经济系统与生态环境系统协调发展的影响作用持续增强；经济发展水平要素对旅游经济系统与生态环境系统协调发展的影响较不稳定；交通运输条件要素对旅游经济系统与生态环境系统协调发展的影响作用相对较大；科技素质教育要素对旅游经济系统与生态环境系统协调发展的影响作用相对较弱。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2建议",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "根据上述结论，基于黄河流域生态保护和高质量发展的战略方针，以黄河流域上游、中游、下游为3个分区对黄河流域旅游经济与生态环境协调发展提出建议：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）针对上游地区各中心城市对矿产资源及水资源依赖突出问题，要深入推动生态保护修复与建设工程，促进黄河上游生态脆弱区与能源富集区的转型与升级；以生态保护与产业转型为契机，深入普及与推进清洁能源建设；以白银市、石嘴山市等资源枯竭城市为试点，推进产业绿色高质量发展；",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在生态环境治理与保护的基础上，上游地区各中心城市要依托独特的生态资源禀赋，将旅游资源与经济产业相融合，促进旅游经济高质量发展。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2）中游地区在黄河流域生态保护和高质量发展起到承上启下作用，水土流失及污染治理是中游地区生态环境亟需解决的问题。各中心城市要以环境保护与治理为核心，依托关中城市群、太原城市群2个战略支撑带动传统工业化模式转型升级;以黄河中游浓厚的文化底蕴为依托，将文化资源禀赋转化为新兴产业动能，进而推动沿黄文化产业带、旅游经济带建设。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（3）黄河流域下游地区受限于客观制约及工业化进程过快导致的人为因素，生态环境与经济发展矛盾较为突出。下游地区各中心城市要加大生态保护修复力度，以黄河三角洲湿地为生态保护样板，推动污染治理与环境保护双重发展；强化郑州市、济南市等省会城市的经济辐射带动作用，发掘与保护洛阳市、开封市等古都城市的旅游资源，促进产业经济与旅游资源的高效融合，提升下游地区各中心城市旅游经济的集聚与协调发展能力。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]陆大道,孙东琪.黄河流域的综合治理与可持续发展[J].地理学 报,2019,74(12):2431-2436.[Lu Dadao,Sun Dongqi.Development and management tasks of the Yellow River Basin:A preliminary understanding and suffestion[J].Acta Geographica Sinica,   \n2019,74(12): 2431-2436.] [2] Moulin C,Boniface P.Routeing heritage for tourism: Making heritage and cultural tourism networks for socio-economic development [J].International Journal of Heritage Studies,2O01,7(3): 237-48. [3] Konan D E.Limits to growth: Tourism and regional labor migration [J]. Economic Modelling,2010, 28(1): 473-481. [4] 郭晓东，李莺飞.中国旅游经济与生态环境协调发展水平的空 间差异与演变特征[J].中国人口·资源与环境,2014,24(增刊   \n2):356-359.[Guo Xiaodong,Li Yingfei. Spatial differences and evolution characteristics of tourism economy and ecological environment coordinated development level in China[J]. China Population,Resources and Environment,2014,24(Suppl.2): 356-359.] [5] 周成,冯学钢,唐睿.区域经济-生态环境-旅游产业耦合协调 发展分析与预测——以长江经济带沿线各省市为例[J].经济 地理,2016,36(3):186-193.[Zhou Cheng,Feng Xuegang,Tang Rui.Analysis and forecast of coupling coordination development among the regional economy-ecological environment- tourism industry:A case study of provinces along the Yangtze Economic Zone[J].Economic Geography,2016,36(3):186-193.]   \n[6]吴文婕,韩鹤,赵艳梅,等.新疆公共服务资源空间配置与城乡 互动耦合协调发展评价[J].干旱区地理,2020,43(4):1117- 1126.[Wu Wenjie,Han He,Zhao Yanmei,etal.Couplingcoordination evalution on public service resource spatial alocation and the urban-rural interaction development in Xinjiang[J].Arid Land Geography,2020,43(4): 1117-1126.]   \n[7]王开泳,张鹏岩,丁旭生.黄河流域旅游经济的时空分异与R/S 分析[J].地理科学,2014,34(3):295-301.[Wang Kaiyong,Zhang Pengyan, Ding Xusheng.The spatial-temporal variation of regional tourism and R/S analysisin the Huanghe River Basin[J].Geo graphical Sciences,2014,34(3): 295-301.]   \n[8]方创琳.《区域发展与区域规划:理论·方法·实践》评述[J].地理 学报,2008,63(10): 1008.[Fang Chuanglin.Review of “Regional development and regional planning: Theory,method and practice\" [J]. Acta Geographica Sinica,2008,63(10): 1008.]   \n[9]胡翠萍.基于AHP-变异系数法的我国副省级城市科技竞争力 评价研究[J].科技管理研究,2012,32(20):77-80.[Hu Cuiping. A study on evaluation of science and technology competitiveness of my sub-provincial cities in China based on AHP and coefficient of variance method[J]. Science and Technology Management Research,2012,32(20): 77-80.]   \n[10] 刘定惠,杨永春.区域经济-旅游-生态环境耦合协调度研究 一以安徽省为例[J].长江流域资源与环境,2011,20(7):892- 896.[Liu Dinghui, Yang Yongchun. Coupling corrdinative degree of regional economy-tourism-ecological environment: A case study of Anhui Province[J]. Resources andEnvironment in the Yangtze Basin, 2011, 20(7): 892-896.]   \n[11]孙黄平,黄震方,徐冬冬,等.泛长三角城市群城镇化与生态环 境耦合的空间特征与驱动机制[J].经济地理,2017,37(2):163- 170.[Sun Huangping, Huang Zhenfang,Xu Dongdong,et al. The spatial characteristics and driving mechanism of coupling between urbanization and ecological environment in the Pan Yangtze River Delta[J]. Economic Geography,2017,37(2): 163-170.]   \n[12]王辉,苑莹,刘帆,等.辽宁省人口、经济与环境协调发展的空间 自相关分析[J].人口与发展,2013,19(3):29-37.[Wang Hui,Yuan Ying,Liu Fan,et al. The spatial autocorrelation analysis of coordination development degree of population economic and environment in Liaoning Province[J].Populationand Development, 2013,19(3): 29-37.]   \n[13]王劲峰,徐成东.地理探测器:原理与展望[J].地理学报,2017, 72(1):116-134.[Wang Jinfeng,Xu Chengdong.Geodetector: Principlesand prospects[J]. Acta Geographica Sinica, 2017,72(1): 116-134.]   \n[14]樊杰,王亚飞,王怡轩.基于地理单元的区域高质量发展研究 一兼论黄河流域同长江流域发展的条件差异及重点[J].经 济地理,2020,40(1): 1-11.[Fan Jie,Wang Yafei,Wang Yixuan. High quality regional development research based on geographical units: Discuss on the diffrence in development conditions and priorities of the Yellow River Basin compared to the Yangtze River Basin[J]. Economic Geography,2020,40(1): 1-11.]   \n[15] 宋永永,薛东前,代兰海.生态脆弱能源区人居环境与经济协调 发展时空格局及演化机制——以晋陕蒙接壤区为例[J].干旱 区地理,2017,40(6): 1328-1337.[Song Yongyong,Xue Dongqian, Dai Lanhai. Spatial-temporal pattern and evolution mechanism of coordinated development of human settlement and economy in energy accumulation and vulnerable energy regions: A case of contiguous areas among Shanxi- Shaanxi- Inner Mongolia[J]. Arid Land Geography,2017,40(6): 1328-1337.]   \n[16] 方叶林,黄震方,王坤,等.基于PCA-ESDA的中国省域旅游经 济时空差异分析[J].经济地理,2012,32(8):149-154.[Fang Yelin,Huang Zhenfang,Wang Kun,et al.Spatial and temporal analysis of Chinese provincial tourism economy based on PCA-ESDA [J].Economic Geography,2012, 32(8): 149-154.]   \n[17] 周成,金川,赵彪,等.区域经济-生态-旅游耦合协调发展省际 空间差异研究[J].干旱区资源与环境,2016,30(7):203-208. [Zhou Cheng,Jin Chuan,Zhao Biao,et al.The provincial differences of coupling coordinative development of regional economyecology-tourism[J].Arid Land Resources and Environment, 2016, 30(7): 203-208.]   \n[18] 张玉萍,瓦哈甫·哈力克,党建华,等.吐鲁番旅游-经济-生态 环境耦合协调发展分析[J].人文地理,2014,29(4):140-145. [Zhang Yuping,Halik Wahap,Dang Jianhua,et al. Analysis on the coordinative development of Turpan tourism-economy-ecological environment coupling[J]. Human Geography,2014,29(4): 140- 145.]   \n[19]He G, Bao K Y, Wang W W,et al. Assessment of ecological vulnerability of resource-based cities based on entropy-set pair analysis[J]. Environmental Technology,2019,42(2): 1-22.   \n[20] 刘建华,黄亮朝,左其亭.黄河下游经济-人口-资源-环境和谐 发展水平评估[J].资源科学,2021,43(2):412-422.[Liu Jianhua,Huang Liangchao,Zuo Qiting. Evaluation of harmonious development of economy-population-resources-environment in the lower reaches of Yellow River[J].Resources Science,2021,43(2): 412-422.]   \n[21] 郭向阳,穆学青,丁正山,等.城市生态环境与旅游经济协调效 应及动态关系——以曲靖为例[J].经济地理,2020,40(7):231- 240.[Guo Xiangyang, Mu Xueqing, Ding Zhengshan, et al. Coordination effect and dynamic relationship of urban ecological environment and tourism economy: A case study of Qujing[J]. Economic Geography,2020,40(7): 231-240.]   \n[22] 赵胡兰,杨兆萍,韩芳,等.新疆旅游产业-经济发展-生态环境 耦合态势分析及预测[J].干旱区地理,2020,43(4):1146-1154. [Zhao Hulan,Yang Zhaoping,Han Fang,et al.Analysis and forecast of coupling situation among tourism industry-economic development-ecological environment in Xinjiang[J].Arid Land Geography,2020,43(4): 1146-1154.]   \n[23]贺小荣,彭坤杰.生态位理论视角下湖南省城市旅游脆弱性评 价[J].经济地理,2021,41(4): 174-182.[He Xiaorong,Peng Kunjie.Evaluation of urban tourism vulnerability in Hunan Province from the perspective of ecological niche theory[J]. Economic Geography,2021,41(4): 174-182.]   \n[24] 聂春霞,何伦志,甘昶春.城市经济、环境与社会协调发展评价 以西北五省会城市为例[J].干旱区地理,2012,35(3):517- 525.[Nie Chunxia,He Lunzhi, Gan Changchun. Evaluation on coordinated development of urban economy,environment and society:A case of five capital cities in northwest China[J].Arid Land Geography,2012,35(3): 517-525.]   \n[25] 王新越,孟繁卿,朱文亮.我国热门旅游城市旅游经济空间分异 及影响因素—基于地理探测器方法的研究[J].地域研究与 开发，2020,39(2):76-81.[Wang Xinyue,Meng Fanqing,Zhu Wenliang.Spatial differentiationand influencing factors of tourism economy in China's popular tourist cities: Based on geodetector method[J]. Regional Research and Development,2O20,39(2): 76-81.]   \n[26] 王莉红,张军民.基于地理探测器的绿洲城镇空间扩张驱动力 分析——以新疆石河子市为例[J].地域研究与开发,2019,38 (4): 68-74.[Wang Lihong, Zhang Junmin. Driving forces analysis of spatial expansion of oasis towns based on geographic detectors: Taking Shihezi City in Xinjiang asan example[J]. Regional Research and Development,2019,38(4): 68-74.]   \n[27] Zhao JH,Wang YF,Liu T,et al. Research on the coordinated development of resources,environment,and economy in the Yellow River Basin[J].IOP Conference Series:Earth and Environmental Science,2021,766(1): 766-771.   \n[28] 王胜鹏,乔花芳,冯娟,等.黄河流域旅游生态效率时空演化及 其与旅游经济互动响应[J].经济地理,2020,40(5):81-89. [Wang Shengpeng,Qiao Huafang,Feng Juan, et al. The spatialtemporal evolution of tourism eco-efficiency in the Yellow River Basin and its interactive response with tourism economy development level[J]. Economic Geography,2020,40(5): 81-89.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Spatial and temporal evolution and influencing factors of coordinated development of tourism economy and ecological environment in the Yellow River Basin ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "GU Haoxin'， QIN Weishan'²， ZHAO Mingming'， SUN Haiyan'， WANG Fuxi' (1.School of Resources and Environmental Engineering,Ludong University,Yantai 264025,Shandong,China; 2.Institute of Geographic Sciences and Natural Resources Research, CAS,Beijing 1Oolo1,China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: According to the panel data of tourism economic system and ecological environment system in 66 central cities (cities,prefectures and leagues) in the Yelow River Basin, China, this paper considered the years of 2008,2013,and 2018 as time nodes to analyze the spatiotemporal evolution characteristics and influencing factors of coupling coordination level between tourism economic and ecological environment systems in the Yellow River Basin using the coupling coordination model,spatial autocorrelation analysis,and geographic detector. The results showed that: (1) In 2008, $9 5 \\%$ of the central cities in the Yellow River Basin had a moderate coupling coordination level between tourism economic and ecological environment systems or above.In 2013, more than $60 \\%$ of the central cities in the Yellow River Basin adjusted to a high coordination level. The overall situation of the entire basin showed anonuniform distribution of“high in the east and low in the west\".In 2018, more than $88 \\%$ of the central cities in the Yellow River Basin had a high coupling coordination level or above. (2) The spatial clustering of tourism economic and ecological environment systems in the Yelow River Basin was adjusted yearly.Thecold spot-marked areas of upstream provinces in the basin clustered continuouslyand distributed in the eastern part of Qinghai Province and the central part of Gansu Province.Additionally,hot spot-marked areas of middle and lower provinces and regions continued to move and gather to the central part of Henan Province,the western part of Shandong Province,and other regions.(3) The govermment’s support for tourism and the protection and remediation of the ecological environment, annual growth of expenditure on energy conservation,and environmental protection were the most important driving forces affecting the coordinated development of the two systems in the Yellow River Basin successively.The influence of driving factors,such as the number of invention patents per lOoo0 people and the number of taxis,increased slowly and then weakened. The science and technology quality education represented by the proportion of research and development expenditure in gross domestic product influenced the coordinated development of the two systems in the Yellow River Basin indistinctively.This study investigated the path of the coordinated development between tourism economic and ecological environment systems in the Yellow River Basin. It provides a theoretical reference for the further improvement of the high-quality development of the Yellow River Ecological Economic Belt. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words: tourism economy； ecological environment; spatial and temporal evolution； the Yellow River Basin",
+        "page_idx": 10
+    }
+]

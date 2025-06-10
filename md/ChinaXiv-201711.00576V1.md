@@ -1,0 +1,280 @@
+1 饲料中胆固醇含量对淡水养殖凡纳滨对虾生长性能、抗弧菌和抗亚硝态氮胁迫能力的影响   
+2 王鑫磊」李　航」黄旭雄1,2.3\*赵利斌」闫明磊」　赵陆敏」　郑晓龙1
+
+（1.上海海洋大学农业部淡水水产种质资源重点实验室，上海201306；2.上海市水产养殖工程技术研究中心，上海 201306；3.水产动物遗传育种中心上海市协同创新中心(ZF1206)，上海 201306)
+
+6 摘要：为研究饲料中胆固醇含量对淡水养殖条件下凡纳滨对虾（Litopenaeus vannamei）生  
+7 长性能性能、抗弧菌和抗亚硝态氮胁迫能力的影响，在 $10 \%$ 鱼粉的基础上设计胆固醇添加  
+8 量分别为0（C0组）、1（C1组）、2（C2组）、3（C3组）和 $\mathrm { ~ 4 ~ g / k g }$ （C4组）的等氮等  
+9 能饲料（实测饲料中胆固醇含量依次为0.78、1.57、2.45、3.43 和 $4 . 1 8 ~ \mathrm { g / k g }$ ），分别投喂初  
+10 始体重为（ $0 . 1 6 0 { \scriptstyle \pm 0 . 0 0 2 }$ ）g的凡纳滨对虾 $5 0 \mathrm { ~ d ~ }$ 。每种试验饲喂投喂4个网箱，每个网箱养  
+11 殖凡纳滨对虾50尾。养殖试验结束后检测对虾的生长性能、肌肉常规组成以及急性哈维氏  
+12 弧菌（Vibrio harveyi）感染及亚硝酸氮胁迫下的死亡情况。结果表明：凡纳滨对虾的特定  
+13 生长率和存活率不受饲料胆固醇含量的显著影响（ $\scriptstyle \cdot { \cal P } > 0 . 0 5 )$ ），但C0组对虾的饲料系数显著  
+14 高于C2、C3 和C4组（ $\scriptstyle P < 0 . 0 5$ ）。随饲料胆固醇含量的增加，对虾肌肉中粗蛋白质含量  
+15 逐渐升高，C3、C4组显著高于C0组 $( P { < } 0 . 0 5 )$ ；肌肉中粗脂肪含量先升高后降低，C2组显  
+16 著高于其他组（ $\scriptstyle P < 0 . 0 5$ ）。肝胰腺和肌肉中胆固醇含量随饲料胆固醇含量的增加而显著升  
+17 高（ $\scriptstyle P < 0 . 0 5$ ），血清中胆固醇含量先升高后降低，且C2 组显著高于C0 组（ $P { < } 0 . 0 5$ ）。  
+18 急性感染哈维氏弧菌后，随饲料胆固醇含量的增加，各组对虾累积死亡率均先降低后升高，  
+19 C2 组在感染24、36、48、72和 $9 6 \mathrm { ~ h ~ }$ 后的累积死亡率均最低。在 $8 . 5 { \sim } 9 . 0 ~ \mathrm { m g / L }$ 亚硝态氮急  
+20 性胁迫下， $9 6 \mathrm { ~ h ~ }$ 后对虾累积死亡率与饲料中胆固醇含量呈负相关，且C0和C1组显著高于  
+21 C2、C3和C4组（ $\scriptstyle P < 0 . 0 5$ ）。综上所述，淡水养殖条件下， $1 . 5 7 ~ \mathrm { g / k g }$ 的饲料胆固醇含量即  
+22 可满足对虾生长的需求，但 $2 . 4 5 ~ \mathrm { g / k g }$ 的饲料胆固醇含量可使对虾获得最佳的抗弧菌能力和  
+23 理想的抗亚硝态氮胁迫能力。
+
+关键词：淡水；凡纳滨对虾；胆固醇；生长性能；抗弧菌能力；抗亚硝态氮胁迫能力中图分类号：S963 文献标识码：A 文章编号：
+
+26 凡纳滨对虾（Litopenaeusvannamei）是一种世界性养殖的经济对虾，对盐度的适应范  
+27 围非常广，经逐级驯化后可在淡水环境中养殖。2013年中国养殖凡纳滨对虾的产量高达  
+28 142.99万t，其中 $43 \%$ 的产量来自于淡水养殖[]。然而，盐度也会改变凡纳滨对虾的新陈代  
+29 谢和渗透压调节状态[2-3]，从而可能影响对虾体内营养物质的消耗及其对饲料中营养物质的  
+30 需求。胆固醇又称胆甾醇，是动物体内重要的甾醇，是一种环戊烷多氢菲的衍生物。胆固  
+31 醇是动物细胞膜的主要结构性成分之一，可降低细胞膜的流动性和质子及钠离子对细胞膜  
+32 的通透性[4]。细胞膜中的胆固醇在胞内转运过程中也发挥重要作用，且参与细胞间信号的  
+33 传递[5]。此外，胆固醇还是类固醇激素如雌激素、雄性激素、蜕皮激素、肾上腺皮质激素  
+34 等及维生素D 的前体，在生物体中具有重要的生理功能[]。虾类等节肢动物不能利用乙酸  
+J 合成胆固醇[7]，因此需要在饲料中补充胆固醇以满足其正常代谢需求。有关海水养殖条件下凡纳滨对虾对胆固醇的需求已有报道[8-121，饲料中胆固醇不足和过量均会造成凡纳滨对虾生长性能的下降[8-10]。然而，Gong 等[13]认为，饲料中过量添加胆固醇和磷脂可以改善凡纳滨对虾的渗透压调节能力，从而提高凡纳滨对虾在低盐度水体中的养殖成活率和生长速度。在淡水养殖系统中，饲料中额外添加胆固醇是否能够改善凡纳滨对虾的生长性能尚有待证实。近些年，人工养殖凡纳滨对虾病害频发，营养调控被认为是提高凡纳滨对虾免疫机能及抗病能力的重要措施[14]。有关饲料中胆固醇对凡纳滨对虾影响的报道多集中在生长速度、存活率和饲料系数等指标上，尚未见饲料中胆固醇对凡纳滨对虾抗感染能力和抗环境胁迫能力影响的报道。此外，由于鱼粉资源短缺，低鱼粉饲料是虾类等偏肉食性养殖动物配合饲料研发的热点。研究表明，凡纳滨对虾饲料中鱼粉使用量可以降到 $6 \%$ 而不影响其正常生长[15]，根据生长阶段和养殖模式，凡纳滨对虾商业性配合饲料中鱼粉用量一般在$1 0 \% \sim 2 5 \%$ 。在当前凡纳滨对虾养殖深受病害制约的形势下，研究在鱼粉含量为 $10 \%$ 的生产性饲料中添加胆固醇对淡水绿水（有藻类存在）养殖条件下饲料中凡纳滨对虾生长、抗弧菌和抗胁迫能力的影响，具有现实的生产指导意义。
+
+# 1材料与方法
+
+# 1.1 饲料制备
+
+按照表1饲料配方，制作5种不同胆固醇含量的等氮等能饲料。将各种原料破碎过 80目筛后采用逐级扩大的方法混匀，添加油脂后加水制成面团状，用绞肉机制成直径为1.5mm的面条， $9 0 \ \mathrm { ^ \circ C }$ 熟化 $2 0 ~ \mathrm { m i n }$ ，在阴凉避光处风干后，破碎成适合试验对虾摄食的粒径，真空包装， $- 2 0 \ { } ^ { \circ } { \mathrm { C } }$ 保存待用。
+
+# 表1试验饲料组成及营养水平(干物质基础)
+
+Table 1 Composition and nutrient levels of experimental diets (DM basis) g/kg 项目Items 饲料Diets
+
+CO C1 C2 C3 C4
+
+<html><body><table><tr><td>原Higredien</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>秘鲁鱼粉 Peru fish meal</td><td>100</td><td>100</td><td>100</td><td>100</td><td>100</td></tr><tr><td>肉粉 Meat meal</td><td>40</td><td>40</td><td>40</td><td>40</td><td>40</td></tr><tr><td>豆粕 Soybean meal</td><td>340</td><td>340</td><td>340</td><td>340</td><td>340</td></tr><tr><td>花生粕 Peanut meal</td><td>80</td><td>80</td><td>80</td><td>80</td><td>80</td></tr><tr><td>面粉Wheat flour</td><td>237</td><td>237</td><td>237</td><td>237</td><td>237</td></tr><tr><td>喷雾干燥血粉 Spray dried blood powder</td><td>30</td><td>30</td><td>30</td><td>30</td><td>30</td></tr><tr><td>磷酸二氢钙Ca(HPO4)2</td><td>20</td><td>20</td><td>20</td><td>20</td><td>20</td></tr><tr><td>大豆磷脂油 Soybean lecithin oil</td><td>20</td><td>20</td><td>20</td><td>20</td><td>20</td></tr><tr><td>鱼油Fish oil</td><td>20</td><td>20</td><td>20</td><td>20</td><td>20</td></tr><tr><td>啤酒酵母 Brewers yeast</td><td>30</td><td>30</td><td>30</td><td>30</td><td>30</td></tr><tr><td>豆油 Soybean oil</td><td>22</td><td>21</td><td>20</td><td>19</td><td>18</td></tr><tr><td>矿物质预混料 Mineral premix1</td><td>15</td><td>15</td><td>15</td><td>15</td><td>15</td></tr><tr><td>微生物预混料Vitamin premix2</td><td>10</td><td>10</td><td>10</td><td>10</td><td>10</td></tr><tr><td>维生素C 单磷酸酯L-ascorbate-2-</td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td></tr><tr><td>monophosphate3) 氯化胆碱Choline chloride</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>酵母提取物 Yeast extract4</td><td>3 30</td><td>3 30</td><td>3</td><td>3</td><td>3</td></tr><tr><td>胆固醇 Cholesterol5)</td><td></td><td>1</td><td>30</td><td>30</td><td>30 4</td></tr><tr><td>合计Total</td><td></td><td>1000</td><td>2</td><td>3</td><td>1000</td></tr><tr><td>营养水平 Nutrient levels6</td><td>1000</td><td></td><td>1000</td><td>1000</td><td></td></tr><tr><td>粗蛋白质 Crude protein</td><td>418.42</td><td>413.73</td><td>409.91</td><td>410.64</td><td>409.13</td></tr><tr><td>粗脂肪 Crude lipid</td><td>73.99</td><td>74.05</td><td>76.32</td><td>79.64</td><td>77.83</td></tr><tr><td>粗灰分Ash</td><td>98.13</td><td>98.85</td><td>96.55</td><td>97.27</td><td>97.83</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>胆固醇 Cholesterol</td><td>0.78</td><td>1.57</td><td>2.45</td><td>3.43</td><td>4.18</td></tr></table></body></html>
+
+57 1’每千克矿物质预混料含有 Contained the following per kg mineral premix： $\mathrm { ~ K ~ } 9 0 ~ \mathrm { g } , \mathrm { M g } ~ 1 2$   
+58 g,F $\mathtt { \beta } 1 . 0 \ \mathrm { g } , \mathrm { C u } \ 3 . 0 \ \mathrm { g } , \mathrm { Z n } \ 1 0 \ \mathrm { g } , \mathrm { C o } \ 0 . 8 \ \mathrm { g } , \mathrm { S e } \ 2 0 \ \mathrm { m g } \ \mathtt { c }$ （204号   
+59 2’每千克维生素预混料含有 Contained the following per $\mathrm { k g }$ vitamin premix:VA 8 000 000   
+60 IU,VD 2 000 000 IU,VE 50 g,VK 10 g,VB1 5 $\mathbf { g } , \mathbf { V } \mathbf { B } _ { 2 }$ 15 $\mathbf { g } , \mathbf { V } \mathbf { B } _ { 6 }$ 8 $\mathbf { g } , \mathbf { V } \mathbf { B } _ { 1 2 }$ $_ { \mathrm { ~ 0 . 0 2 ~ g } }$ 烟酰胺   
+61 nicotinamide $4 0 \ { \mathrm { g } } , D$ -泛酸钙calcium $D$ -pantothenate $2 5 \mathrm { ~ g ~ }$ 叶酸 folic acid $2 . 5 \ \mathrm { g } .$ ，生物素biotin   
+62 $0 . 0 8 { \mathrm { ~ g } } { \cdot }$ 肌醇 inositol $1 0 0 \ \mathrm { g }$ 。   
+63 3’维生素C单磷酸酯纯度为 $3 5 \%$ 。 $L$ -ascorbate-2-monophosphate purity reached $3 5 \%$   
+64 4酵母提取物组成 The composition of yeast extract:丙氨酸 Ala $3 . 1 6 \%$ 精氨酸Arg $3 . 7 9 \%$ ，天冬   
+65 氨酸Asp $3 . 7 5 \%$ ,半胱氨酸Cys $1 . 4 1 \%$ ,谷氨酸 $\mathrm { G l u } 7 . 5 1 \%$ ,甘氨酸Gly $2 . 6 3 \%$ ,组氨酸His $3 . 1 5 \%$   
+66 异亮氨酸 Ile $2 . 1 7 \%$ ,亮氨酸Leu $5 . 2 4 \%$ 赖氨酸Lys $4 . 9 0 \%$ ,蛋氨酸Met $0 . 4 7 \%$ ,苯丙氨酸Phe   
+67 $2 . 7 5 \%$ ，脯氨酸Pro $1 . 4 5 \%$ ,丝氨酸Ser $2 . 5 9 \%$ 苏氨酸 $\operatorname { T h r } 2 . 3 9 \%$ 酪氨酸Tyr $1 . 2 0 \%$ ,色氨酸Trp   
+68 $0 . 6 0 \%$ 氨酸 $\mathrm { V a l } 3 . 9 0 \%$ 。   
+5’胆固醇纯度 $2 9 5 \%$ 。Cholesterol purity $2 9 5 \%$ =   
+6营养水平为实测值。Nutrient levels were measured values.
+
+# 1.2养殖管理
+
+试验用凡纳滨对虾虾苗购自上海彰显渔业专业合作社的淡化苗（养殖水体盐度为5），将购买的虾苗放养在温室大棚中水体盐度为5的水泥池中，每天早晨加淡水 $2 0 ~ \mathrm { c m }$ 直至水深达到 $1 1 0 \ \mathrm { c m }$ ，之后每天换水 $3 0 \ \mathrm { c m }$ ，直至表观盐度为0。淡化期间投喂商用虾片，所进淡水均经 200 目筛绢过滤。虾苗暂养 $3 0 \mathrm { ~ d ~ }$ ，待幼虾规格达到（ $\mathrm { \Omega } _ { 0 . 1 6 0 \pm 0 . 0 0 2 } ^ { }$ ） $\mathrm { \bf ~ g }$ 时，挑选体质健康、规格整齐的对虾1000 尾，随机分配到温室大棚中悬挂在同一水池（ $5 . 0 \ \mathrm { m } { \times } 1 1 . 0$ $\mathrm { m } { \times } 1 . 2 \mathrm { m }$ ）的20个网箱（ $1 . 0 \mathrm { m } { \times } 1 . 0 \mathrm { m } { \times } 1 . 2 \mathrm { m }$ ）内，每个网箱50尾幼虾。分别投喂5种试验饲料，每种试验饲料投喂4个网箱，日投喂4次，分别在05:30、10:30、16:30和 22:30 投喂，日投喂量为虾体重的 $5 \% \sim 8 \%$ ，并根据天气和摄食情况进行调整。养殖试验持续 $5 0 { \mathrm { ~ d } } .$ 0为了维持养殖试验期间水体藻相和水质条件稳定，试验开始时水体中接种耐高温的四尾栅藻(Scenedesmus quadricauda)和多芒藻(Golenkinia radiata)，试验期间每5d换1次水，进水均用 200目筛网过滤，维持水体透明度 $2 0 { \sim } 4 0 ~ \mathrm { c m }$ 。养殖期间连续充气保持溶解氧浓度 ${ > } 6$ mg/L，氨氮浓度 ${ < } 0 . 2 \ \mathrm { m g / L }$ ， $\mathsf { p H }$ 为7.8\~8.3，水温（ $3 0 { \pm } 2$ ） $\mathrm { { } ^ { \circ } C }$ ，表观盐度为0。
+
+# 1.3样品的采集及指标测定
+
+# 1.3.1生长性能测定
+
+养殖试验结束后，停食 $2 4 \mathrm { h }$ ，逐个网箱称重、计数。然后从每个网箱随机取蜕皮间期的对虾8尾，先用 $1 \mathrm { m L }$ 注射器于围心腔处取血淋巴液于 $1 . 5 ~ \mathrm { m L }$ 离心管中；然后在冰盘上解剖分别取肝胰腺和肌肉组织，冰盒保存带回实验室。血淋巴经 $4 \mathrm { { ^ \circ C } }$ 、 $1 0 0 0 0 \mathrm { r / m i n }$ 离心$2 0 \mathrm { m i n }$ 取血清，将血清和肝胰腺样品保存在 $. 8 0 ~ \mathrm { { ^ \circ C } }$ 中用于后续检测分析。存活率(SR)、饲料系数（FCR）和特定生长率（SGR）的计算公式如下：存活率 ${ = } 1 0 0 { \times } N _ { \mathrm { f } } / N _ { \mathrm { i } }$ 饲料系数 ${ \cdot } { = } W _ { \mathrm { d } } / ( W _ { \mathrm { f } } - W _ { \mathrm { i } } )$ ：特定生长率 $_ { \mathrm { - } 1 0 0 \times }$ （lnWf/Nf-lnWi/Ni）It。式中： $N _ { \mathrm { f } }$ 为试验结束时整个网箱虾的尾数； $N _ { \mathrm { i } }$ 为试验开始时整个网箱虾的尾数； $W _ { \mathrm { d } }$ 每个网箱从试验开始到试验结束所投喂饲料的干重（g）；Wf试验结束时每个网箱中虾总重(g)；Wi试验开始时每个网箱中虾总重（g）； $t$ 为养殖试验的天数（d）。
+
+1.3.2饲料及肌肉常规组成分析
+
+饲料和虾体肌肉中水分含量采用 $1 0 5 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 烘箱干燥恒重法测定，粗脂肪含量采用氯仿-甲醇法测定，粗灰分含量采用 $5 5 0 \mathrm { ~ \textdegree C }$ 马弗炉灼烧法测定，粗蛋白质含量采用凯氏定氮法（KjeltecTM2300 定氮仪,瑞典）法测定。1.3.3饲料、肌肉、肝胰腺和血清中胆固醇含量测定
+
+102 饲料、肝胰腺、肌肉和血清中胆固醇含量的测定参照文献[16]的方法进行，具体操作  
+103 如下：准确称取冷冻干燥样品 $0 . 2 0 0 \ 0 { \sim } 0 . 5 0 0 \ 0 \ \mathrm { g }$ （血清 $0 . 1 ~ \mathrm { m L }$ ）于 $2 5 ~ \mathrm { m L }$ 比色管中，加入  
+104 $0 . 5 { \mathrm { ~ m L } }$ 的 $5 0 \%$ 氢氧化钾溶液后立即涡旋混匀；然后加入 $2 { \mathrm { ~ m L ~ } }$ 的无水乙醇，密封并涡旋混  
+105 匀后，在超声波振荡仪中 $6 5 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 水浴振荡 $3 0 ~ \mathrm { m i n }$ ；取出冷却至室温后依次加入 $0 . 5 { \mathrm { ~ m L } }$ （204号 $14 \%$   
+106 三氟化硼甲醇溶液和 $2 { \mathrm { ~ m L ~ } }$ 无水乙醇，混匀。继续在 $6 5 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 水浴中超声波振荡 $3 0 ~ \mathrm { m i n }$ ；取出  
+107 冷却后依次加入 $3 \mathrm { \ m L } 5 \%$ 氯化钠溶液和 $1 0 ~ \mathrm { m L }$ 石油醚，涡旋振荡混匀 $2 ~ \mathrm { m i n }$ ；静止分层，  
+108 取上层石油醚溶液 $4 ~ \mathrm { m L }$ 转移到 $1 0 ~ \mathrm { m L }$ 玻璃试管中， $5 0 \ \mathrm { ^ \circ C }$ 真空干燥后加入 $4 ~ \mathrm { m L }$ 甲醇超声波  
+109 振荡溶解，溶液用 $0 . 2 2 ~ { \mu \mathrm { m } }$ 的针式过滤器过滤后，采用Waters e2695 型液相色谱仪联合  
+110 Waters 2998光电二极管阵列检测器分析胆固醇含量。色谱柱为Waters Xbridge $\mathrm { . ^ { T M } C _ { 1 8 } }$ ， $5 ~ { \mu \mathrm { m } }$   
+111 $\times 4 . 6 ~ \mathrm { m m } { \times } 2 5 0 ~ \mathrm { m m }$ 。参照李黎等[17]的测定条件，流动相为 $100 \%$ 甲醇，检测波长 $2 0 5 ~ \mathrm { n m }$ ，流  
+112 速 $1 . 0 0 \ \mathrm { m L / m i n }$ ，柱箱温度 $3 8 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，进样 $5 0 ~ \mu \mathrm { L }$ ，时间 $1 5 ~ \mathrm { m i n }$ 。将胆固醇标准品（Aladdin,$2 9 9 \%$ ）用色谱纯甲醇配制成浓度分别为0.001、0.005、0.010、0.020、0.050、0.100、0.200和 $0 . 5 0 0 ~ \mathrm { m g / m L }$ 的标准溶液，上机检测并绘制标准曲线，计算回归方程。用外标法计算各个样品中的胆固醇含量。
+
+# 1.4哈维氏弧菌人工急性感染试验
+
+试验所用哈维氏弧菌来自上海海洋大学病原库。待 50d的养殖试验结束后，每组随机取蜕皮间期的对虾30尾，分成3个重复，每个重复10尾，以重复为单位暂养于容积为 50$\mathrm { c m } { \times } 3 0 \mathrm { c m } { \times } 8 0 \mathrm { c m }$ 的网箱中，每尾虾腹部注射 $2 0 \mu \mathrm { L } 2 . 5 { \times } 1 0 ^ { 7 } \mathrm { C F U / m L }$ 的哈维氏弧菌菌液。15个网箱悬挂在同一水泥池中，养殖水体表观盐度为0，水温为 $2 7 { \sim } 2 8 \ \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，并持续曝气。人工急性感染后连续观察对虾死亡情况，统计各组感染24、36、48、72 和 $9 6 \mathrm { ~ h ~ }$ 后的累积死亡率。
+
+# 1.5 亚硝态氮人工急性胁迫试验
+
+50 d的养殖试验结束后，每组另随机取蜕皮间期的对虾30尾，分成3个重复，每个重复10尾，以重复为单位暂养于容积为 $5 0 \mathrm { c m } { \times } 3 0 \mathrm { c m } { \times } 8 0 \mathrm { c m }$ 的网箱中，所有网箱悬挂于亚硝态氮浓度为 $8 . 5 { \sim } 9 . 0 ~ \mathrm { m g / L }$ 的同一水泥池 $( 2 . 8 ~ \mathrm { m } { \times } 4 . 5 ~ \mathrm { m } { \times } 1 . 5 ~ \mathrm { c m } )$ 中，每 $6 \mathrm { ~ h ~ }$ 测定水体亚硝态氮浓度1次。胁迫期间养殖水体表观盐度为0，水温 $2 7 { \sim } 2 8 \ \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，并持续曝气。人工急性胁迫后连续观察对虾死亡情况，统计各组胁迫24、36、48、72和 $9 6 \mathrm { h }$ 后的累积死亡率。
+
+# 1.6 数据处理和统计分析
+
+试验结果用平均值 $\pm$ 标准差（mean±SD）的方式表示，使用SPSS18.0分析软件对试验结果与饲料胆固醇含量之间的关系进行单因素方差分析（one-way ANOVA），若方差分析差异显著，则再进行Duncan 氏法进行多重比较， $P { < } 0 . 0 5$ 表示差异显著。
+
+# 2结果
+
+2.1饲料中胆固醇含量对凡纳滨对虾生长性能的影响
+
+由表2可知， $5 0 \mathrm { ~ d ~ }$ 养殖试验结束后，随着饲料中胆固醇含量的增加，各组间存活率无显著差异（ $P { > } 0 . 0 5$ ）；终末体重随着饲料中胆固醇含量的增加呈现逐渐升高的趋势，且C4 组显著高于CO 组 $( P { < } 0 . 0 5 )$ ；饲料系数随着饲料中胆固醇含量的增加呈现降低的趋势，C2、C3 和C4 组显著低于CO 组 $( P { < } 0 . 0 5 )$ ；特定生长率随着饲料中胆固醇含量的增加呈现逐渐升高的趋势，但各组间没有显著差异（ $P { > } 0 . 0 5 \$ ）。
+
+表2摄食不同胆固醇含量饲料的凡纳滨对虾的生长性能  
+Table 2 Growth performance of Litopenaeus vannamei which fed diets containing different   
+
+<html><body><table><tr><td colspan="6">cholesterol contents (n=4) 组别 Groups</td></tr><tr><td colspan="6">项目Items</td></tr><tr><td></td><td>C0</td><td>C1</td><td>C2</td><td>C3</td><td>C4</td></tr><tr><td>存活率 SR/%</td><td>97.0±2.0</td><td>97.0±1.4</td><td>97.5±1.9</td><td>98.5±1.9</td><td>98.0±2.3</td></tr><tr><td>终末体重</td><td>9.59±0.67b</td><td>9.58±0.51b</td><td>9.80±0.42ab</td><td>9.90±0.28ab</td><td>10.17±0.18a</td></tr><tr><td>FBW/g</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>饲料系数FCR</td><td>1.61±0.10a</td><td>1.55±0.02ab</td><td>1.49±0.02b</td><td>1.47±0.06b</td><td>1.48±0.05b</td></tr><tr><td>特定生长率</td><td>8.18±0.14</td><td>8.19±0.11</td><td>8.23±0.08</td><td>8.25±0.03</td><td>8.30±0.04</td></tr><tr><td>SGR/(%/d)</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+同行数据肩标相同或无小写字母表示差异不显著（ $P { > } 0 . 0 5$ ），不同小写字母表示差异显著（ $. P { < } 0 . 0 5$ ）。下表同。
+
+In the same row,values with the same or no small lettr superscripts mean no significant difference $( P { > } 0 . 0 5 ) _ { . }$ ),while with different small letter superscripts mean significant difference （ $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ ）.The same as below.
+
+2.2 饲料中胆固醇含量对凡纳滨对虾肌肉常规组成及组织中胆固醇含量的影响
+
+由表3可知，摄食不同胆固醇含量饲料后，各组对虾肌肉水分含量无显著差异（ $P >$ 0.05）；肌肉粗蛋白质含量总体上随着饲料胆固醇含量的增加逐渐增加，C2和C4 组显著高于CO 和C1组 $( P { < } 0 . 0 5 )$ ；肌肉粗脂肪含量随着饲料胆固醇含量的增加呈现先升高后降低的趋势，且C2 组显著高于其他组 $( P { < } 0 . 0 5 )$ ；C2 组肌肉粗灰分含量显著低于C3和C4 组（ $\cdot < 0 . 0 5$ ）。
+
+由表4可知，对虾肝胰腺及肌肉中胆固醇含量随着饲料中胆固醇含量的增加呈现显著增加的趋势（ $\scriptstyle P < 0 . 0 5$ ）；而血清中胆固醇含量则随饲料胆固醇含量的增加呈现先升高后降低的变化，C2组对虾血清胆固醇含量显著高于C0组（ $\cdot < 0 . 0 5$ ）。
+
+表3摄食不同胆固醇含量饲料的凡纳滨对虾的肌肉常规组成(干物质基础） Table 3 Proximate composition in muscle of Litopenaeus vannamei which fed diets containing different cholesterol contents (DMbasis, $n { = } 8$ ） $\%$
+
+项目Items
+
+C0 C1 C2 C3
+
+表4摄食不同胆固醇含量饲料的凡纳滨对虾的不同组织中胆固醇含量  
+
+<html><body><table><tr><td>水分Moisture</td><td>77.03±0.25</td><td>77.26±0.39</td><td>77.16±0.17</td><td>77.36±0.14</td><td>77.07±0.19</td></tr><tr><td>粗蛋白质Crude</td><td>85.16±0.79c</td><td>85.83±0.54b</td><td>86.69±0.81a</td><td>86.36±0.69ab</td><td>86.95±0.77a</td></tr><tr><td>protein 粗脂肪Crude</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>lipid</td><td>5.69±0.25b</td><td>5.76±0.24b</td><td>6.13±0.35a</td><td>5.79±0.23b</td><td>5.77±0.19b</td></tr><tr><td>粗灰分</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ash</td><td>5.69±0.11ab</td><td>5.78±0.04a</td><td>5.53±0.09b</td><td>5.80±0.09a</td><td>5.79±0.09a</td></tr></table></body></html>
+
+项目Items组别 Groups
+
+Table 4 Cholesterol content in different tissues of Litopenaeus vannamei which fed diets containing different cholesterol contents $( n { = } 8 )$ 门   
+
+<html><body><table><tr><td></td><td>C0</td><td>C1</td><td>C2</td><td>C3</td><td>C4</td></tr><tr><td>肌肉 Muscle/(mg/g)</td><td>5.82±0.27e</td><td>6.91±0.32d</td><td>7.60±0.08c</td><td>7.84±0.15b</td><td>8.07±0.08a</td></tr><tr><td>肝胰腺</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Hepatopancreas/(mg</td><td>3.31±0.05e</td><td>4.22±0.04d</td><td>4.72±0.14c</td><td>4.98±0.05b</td><td>5.86±0.05a</td></tr><tr><td>/g)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>血清 Serum/(mg/mL)</td><td>0.22±0.03c</td><td>0.25±0.04bc</td><td>0.32±0.05a</td><td>0.24±0.06bc</td><td>0.28±0.01ab</td></tr></table></body></html>
+
+2.3饲料中胆固醇含量对凡纳滨对虾抗弧菌能力的影响
+
+图1所示为摄食不同胆固醇含量饲料的凡纳滨对虾在人工急性感染哈维氏弧菌 $9 6 \mathrm { ~ h ~ }$ 内的累积死亡率曲线。各组对虾感染哈维氏弧菌后的累积死亡率随着饲料中胆固醇含量的增加呈现先降低后升高的趋势，C2 组对虾感染 24 和 $3 6 \mathrm { ~ h ~ }$ 后的累积死亡率显著低于C0、C3和C4组 $\scriptstyle ( P < 0 . 0 5 )$ 。C2 组对虾感染 48、72和 $9 6 \mathrm { ~ h ~ }$ 后的累积死亡率显著低于其他组（ $P <$ 0.05）。对虾感染 24、48、72和 $9 6 \mathrm { ~ h ~ }$ 后的累积死亡率在C0、C3和C4 组间没有显著差异（ $( P { > } 0 . 0 5 )$ ）。
+
+# ChinaXiv合作期刊
+
+同一时间点，数据点标注相同或无小写字母表示差异不显著（ $\cdot P { > } 0 . 0 5$ ），不同小写字母表示差异显著（ $P { < } 0 . 0 5$ ）。下图同。
+
+![](images/d6008e094ed2106355bc4122fba508fc741b18719e9bb117b0b641f9d28c001e.jpg)  
+图1摄食不同胆固醇含量饲料的凡纳滨对虾感染哈维氏弧菌后的累积死亡率曲线
+
+In the same time point, data points with the same or no small letters mean no significant difference $\mathrm { \langle } P { > } 0 . 0 5 \mathrm { \rangle }$ ,while with different small letters mean significant difference( $P { < } 0 . 0 5 )$ ： The same as below.
+
+Fig.1 Cumulative mortality curves of Litopenaeus vannamei which fed diets containing different cholesterol contents experienced $V .$ harveyi challenge $\scriptstyle ( n = 3 )$
+
+2.4饲料中胆固醇含量对凡纳滨对虾抗胁迫能力的影响
+
+图1所示为摄食不同胆固醇含量饲料的凡纳滨对虾在人工亚硝态氮胁迫 $9 6 \mathrm { ~ h ~ }$ 内的累积死亡率曲线。在亚硝态氮浓度为 $8 . 5 { \sim } 9 . 0 ~ \mathrm { m g / L }$ 的胁迫条件下，胁迫 $^ { 4 8 \mathrm { ~ h ~ } }$ 前各组累积死亡率无显著差异（ $P { > } 0 . 0 5 \$ ）；胁迫 $^ { 7 2 \mathrm { ~ h ~ } }$ 时 C3 和C4 组的累积死亡率显著低于C1组（ $P <$ 0.05；胁迫 $9 6 \mathrm { ~ h ~ }$ 时C0 和C1组累积死亡率较高，显著高于C2、C3和C4组（ $\cdot < 0 . 0 5$ ），同时C2组显著高于C4组（ $\scriptstyle \cdot < 0 . 0 5$ ）。
+
+![](images/efdcc30784b402df8747f7c9da4aae8cb45e072be3a2c545c6f0922d3d7be22b.jpg)
+
+Fig.2 Cumulative mortality curves of Litopenaeus vannamei which fed diets containing different cholesterol contents experienced nitrite nitrogen stress $( n { = } 3 )$
+
+# 3讨论
+
+3.1饲料中胆固醇含量对凡纳滨对虾生长性能的影响
+
+饲料中胆固醇含量对凡纳滨对虾生长和存活的影响已有报道。Duerr等[8在盐度为35的海水养殖系统中的研究表明，凡纳滨对虾获得最佳生长所需的胆固醇含量为 $2 . 3 { \sim } 4 . 2 ~ \mathrm { g / k g }$ 饲料（磷脂添加量为 $1 0 ~ \mathrm { g / k g }$ 饲料），低于或高于此范围对虾的生长均会受到抑制。用半纯化饲料在盐度为25的海水循环养殖系统中养殖凡纳滨对虾幼虾，其获得最佳生长所需的胆固醇含量与饲料中的磷脂添加量呈负相关：饲料中磷脂的添加量分别为50、30、15和0g/kg时，凡纳滨对虾获得最佳生长所需的饲料胆固醇含量分别为0.5、1.3、1.4和 $3 . 5 ~ \mathrm { g / k g }$ 饲料[9]。在盐度为30的海水养殖条件下，凡纳滨对虾获得最佳生长所需的饲料胆固醇含量为$1 . 1 0 { \sim } 1 . 5 5 ~ \mathrm { g / k g }$ 饲料（磷脂添加量为 $5 ~ \mathrm { g / k g }$ 饲料）[11]。在海水养殖条件下，饲料中胆固醇含量超过 $9 . 2 ~ \mathrm { g / k g }$ 对凡纳滨对虾的生长有抑制作用[10]。尽管不同学者得出的凡纳滨对虾胆固醇需求量并不完全一致，但海水养殖条件下凡纳滨对虾获得最佳生长所需的饲料胆固醇含量基本在 $0 . 5 { \sim } 4 . 2 ~ \mathrm { g / k g }$ 饲料，与日本囊对虾（Marsupenaeus japonicus）（胆固醇需求5$\mathbf { g } / \mathrm { k g }$ 饲料）[18]、长毛对虾（Penaeuspenicillatus）（胆固醇需求 $5 \sim 1 0 ~ \mathrm { g / k g }$ 饲料）[19]、斑节对虾（Penaeusmonodon）（胆固醇需求 $2 { \sim } 8 ~ \mathrm { g / k g }$ 饲料）[20]等海水虾类的胆固醇需求基本相当。饲料中过量添加胆固醇和磷脂可以改善凡纳滨对虾的渗透压调节能力，从而提高凡纳滨对虾在低盐度水体中的养殖成活率和生长速度[13]。然而，研究发现，在盐度为4的水体中分别在室内养殖系统和室外池塘中养殖凡纳滨对虾幼虾，与未添加胆固醇（同时未额外添加磷脂）组相比，饲料中胆固醇添加量为2和 $4 ~ \mathrm { g / k g }$ 的组（同时磷脂添加量分别为5和$1 0 ~ \mathrm { g / k g ^ { \prime } }$ 饲料）的生长性能均无显著改善[21]。本研究中，各组饲料中胆固醇含量介于 $0 . 7 8 \sim$ $4 . 1 8 ~ \mathrm { g / k g }$ ，对虾的生长速度无显著差异，经过50d的养殖，各组凡纳滨对虾均达到了商品规格。这表明，在淡水养殖条件下，饲料中添加胆固醇并不能显著改善凡纳滨对虾在淡水中的生长性能。
+
+本研究中，在淡水绿水（有藻类存在）养殖条件下，各组存活率均较高且组间无显著差异，这与前人研究结果[8-11,21]相符。上述结果表明，无论在海水、半咸水或淡水试验条件下。凡纳滨对虾的养殖存活率并不会因饲料中胆固醇含量的增加而提高或降低。推测其原因有二：一是凡纳滨对虾对饲料胆固醇缺乏或过量的敏感性相对其他营养素要小，可能机体具有较强的胆固醇调节机制，导致饲料胆固醇含量的变化对凡纳滨对虾存活率的影响作用较小。二是养殖系统中存在的藻类及饲料植物蛋白质中存在的植物甾醇平衡了饲料胆固醇的作用。植物蛋白质及微藻中往往含有丰富的植物甾醇，如麦角固醇、豆甾醇和β-谷甾醇等[22]。植物甾醇与胆固醇结构相似，一方面，虽然有报道称日本对虾体内不能从乙酸开始合成胆固醇，但可以通过脱烷烃作用将 $\mathbf { C } _ { 2 8 }$ 和 $\mathbf { C } _ { 2 9 }$ 固醇转化成胆固醇[23-24]；另一方面，植物甾醇具有抑制胆固醇的吸收、促进胆固醇的降解代谢和抑制胆固醇的生化合成等作用[25]。研究发现，摄食添加1g/kg胆固醇饲料的美洲螯龙虾（Homarusamericanus）的全虾总甾醇和胆固醇含量较摄食添加 $1 \ \mathrm { g / k g }$ 胆固醇和 $1 \ \mathrm { g / k g }$ 植物甾醇饲料的美洲螯龙虾低[26]。
+
+在本研究中，C2、C3和C4组的饲料系数显著低于C0组，表明饲料中胆固醇含量会影响凡纳滨对虾的饲料效率。类似的结果在海水养殖的凡纳滨对虾及日本囊对虾中也被证实。凡纳滨对虾在饲料胆固醇含量为 $1 0 . 0 6 1 { \sim } 0 . 1 5 5 ~ \mathrm { g / k g }$ 时，随着饲料中胆固醇含量的增加其饲料系数逐渐降低[1I]。在饲料胆固醇含量为 $0 . 4 { \sim } 4 . 3 ~ \mathrm { g } / \mathrm { k g }$ 时，日本囊对虾饲料转化率随饲料胆固醇含量的增加而升高[27]。在包含 $\beta$ -谷甾醇的饲料中添加少量的胆固醇可以提高日本囊对虾的饲料转化率[28]。在甾醇添加总量为 $1 0 ~ \mathrm { g / k g }$ 的基础上，随着胆固醇和β-谷甾醇的比值降低，日本对虾的饲料转化率逐渐降低[29]。
+
+3.2饲料中胆固醇含量对组织中胆固醇含量及肌肉常规组成的影响
+
+本研究表明，从胆固醇的组织分布看，肌肉中胆固醇含量要高于肝胰腺。用胆固醇被14C标记的饲料饲喂食用对虾（Penaeusesculentus）， $^ { 7 2 \mathrm { ~ h ~ } }$ 后有 $47 \%$ 在肌肉中，有 $4 0 \%$ 在肝胰腺中[30]。考虑到肌肉和肝胰腺组织占全虾的比例，这表明胆固醇被摄入后主要沉积在肌肉中。凡纳滨对虾肌肉和肝胰腺中胆固醇含量随饲料中胆固醇含量的增加而显著增加，但血清中胆固醇含量随饲料中胆固醇含量的增加先升高后降低。在饲料胆固醇含量为 $\phantom { } 0 . 4 \sim 4 . 3$ g/kg时，日本囊对虾全虾胆固醇含量与其所摄食饲料的胆固醇含量呈正相关[27]。斑节对虾全虾的胆固醇含量随着饲料中胆固醇含量的增加而增加[20]。然而，在磷脂和胆固醇对于凡纳滨对虾交互作用的研究中却分析饲料胆固醇含量对肝胰腺和肌肉中胆固醇含量均无显著影响，但磷脂及磷脂和胆固醇的交互作用对肌肉中胆固醇含量有显著影响[9]。这或许与磷脂在参与胆固醇运输中起着重要作用有关[311，磷脂含量的改变导致机体胆固醇运输能力发生变化。从食品营养角度来说，人体过量摄取胆固醇会引起一系列心血管疾病，而甲壳类肌肉中的胆固醇含量比鱼类更高[32]。本研究结果可以看出，适当降低饲料中的胆固醇含量，可以在不影响养殖对虾生长的情况下，获得相对低胆固醇含量的对虾产品。
+
+长毛对虾肌肉粗脂肪含量会随着饲料胆固醇添加量的增加而增加[19]；随着饲料胆固醇含量增加，凡纳滨对虾全虾粗脂肪含量也随之升高[10]。但是，也有研究表明饲料胆固醇含量显著影响凡纳滨对虾肌肉的粗脂肪含量，但它们之间不存在正相关性[9]。本研究中，对虾肌肉中粗脂肪含量随饲料中胆固醇含量的升高呈先升后降的变化；而肌肉中粗蛋白质含量总体上随着饲料中胆固醇含量的增加而逐渐增加，表现为肌肉粗蛋白质含量与肌肉胆固醇含量呈正相关。推测其原因可能与淡水养殖环境下凡纳滨对虾的渗透压调节机制有关。淡水中凡纳滨对虾内环境的渗透压要高于外环境，细胞需要阻止外界水分子进入或将进入细胞的水分子主动排出，胆固醇作为细胞膜的成分可以通过抑制脂肪链的运动和磷脂头部集团的旋转来阻止水分和钠离子的渗透，从而节省因主动向外泵水而消耗的ATP和能量[33-34]，使得能量更多用于蛋白质合成。同时，肌肉是甲壳动物最大的氨基酸库[35]，游离氨基酸在甲壳动物渗透压调节中也起着重要的作用[3]，胆固醇的渗透压调节作用使得机体无需产生更多的游离氨基酸用于平衡内外渗透压差，也是淡水环境中凡纳滨对虾肌肉粗蛋白质含量与肌肉胆固醇含量呈正相关的可能原因。
+
+# 3.3饲料中胆固醇含量对凡纳滨对虾抗弧菌及抗胁迫能力的影响
+
+饲料胆固醇含量对于水产动物抗菌能力的研究未见公开报道。在本研究中随着饲料胆固醇含量的增加，对虾肌肉和肝胰腺中胆固醇含量也随之增加，但在弧菌急性感染下对虾的累积死亡率随胆固醇含量的升高呈现先降低后升高的变化，饲料胆固醇含量为 $2 . 4 5 ~ \mathrm { g / k g }$ 时表现出最强的抗弧菌能力，过高或过低的饲料胆固醇含量均会削弱凡纳滨对虾的抗弧菌能力。机体对营养物质的生理反应与营养物质水平的关系呈抛物线关系，随营养物质的增加，生理反应在达到某个顶点后会反转[36]。机体的抗菌能力与体内多种效应因子如溶菌酶、一氧化氮及超氧阴离子等有关。一氧化氮可以迅速并有效地杀死凡纳滨对虾体内的哈维氏弧菌[37]。在对小鼠的研究中发现，增加饲料胆固醇含量可以使小鼠红细胞中黄嘌呤氧化酶活性显著增加，而黄嘌呤氧化酶活性的增加会使机体产生更多的超氧阴离子，发挥出更强的杀菌效果；但与此同时，过高的胆固醇含量也会抑制红细胞一氧化氮合成酶的活性，一氧化氮合成酶能催化L-精氨酸转化成L-瓜氨酸，并生成一氧化氮参与抑菌作用[38]。饲料胆固醇含量为 $2 . 4 5 ~ \mathrm { g / k g }$ 时凡纳滨对虾表现出最强的抗弧菌能力应该是体内各种免疫抗菌效应因子综合效能的表现。
+
+亚硝态氮是养殖水体中胁迫并毒害凡纳滨对虾的重要污染物。日本囊对虾虾体的水分含量会随着水体中亚硝态氮浓度的增加和胁迫时间的延长而增加，同时血淋巴中蛋白质和游离氨基酸含量也会降低，血淋巴渗透压也有所降低，最终导致机体因代谢紊乱而死亡[39]。本研究中，亚硝酸盐胁迫下各组凡纳滨对虾96h内的累积死亡率随着饲料中胆固醇含量的增加总体呈现逐渐降低的趋势，表明饲料中胆固醇含量的提升有助于增加淡水养殖环境下凡纳滨对虾的抗亚硝态氮胁迫能力。其作用机理可能与低渗环境中胆固醇有助于对虾的渗透压调节有关，更详细的机理有待进一步研究。
+
+4结论
+
+综上所述，在淡水养殖条件下，生产性饲料中 $1 . 5 7 \ : \mathrm { g / k g }$ 的胆固醇含量可满足凡纳滨对虾生长的需求，但 $2 . 4 5 ~ \mathrm { g / k g }$ 的胆固醇含量可获得最佳的抗弧菌能力和理想的抗亚硝态氮胁迫能力。
+
+参考文献:
+
+[1] 农业部渔业渔政管理局.2015中国渔业统计年鉴[M].北京:中国农业出版社,2015.[2] 陈垂坤,郜卫华,田罗.盐度和营养素对甲壳动物营养生理的影响研究进展[J].长江大学学报:自然科学版,2015,12(3):47-51.
+
+288 活性的影啊[J].水生生物字报,2009,33(3):532-538.   
+289 [4] LANGE Y,STECK T L.Cholesterol homeostasis and the escape tendency (activity） of   
+290 plasma membrane cholesterol[J].Progress in Lipid Research,2008,47(5):319-332.   
+291 [5] SIMONS K,IKONEN E.How cels handle cholesterol[J].Science,2000,290(5497):1721-   
+292 1726.   
+293 [6] 温小波,陈立侨.磷脂和胆固醇在虾蟹类营养中的研究进展[J].淡水渔   
+294 业,2000,30(5):25-27.   
+295 [7] TESHIMA S I,KANAZAWA A.Biosynthesis of sterols in the lobster,Panulirus   
+296 japonica,the prawn,Penaeus japonicus,and the crab,Portunus   
+297 trituberculatus[J].ComparativeBiochemistryand Physiology Part B:Comparative   
+298 Biochemistry,1971,38(3):597-602.   
+299 [8] DUERR E O,WALSH W A.Evaluation of cholesterol additions to a soybean meal-based   
+300 diet for juvenile Pacific white shrimp,Penaeus vannamei (Boone),in an outdoor growth   
+301 trial[J].Aquaculture Nutrition,1996,2(2):111-116.   
+302 [9] GONG H,LAWRENCE A L,JIANG D H,et al.Lipid nutrition of juvenile Litopenaeus   
+303 vannamei: I .Dietary cholesterol and de-oiled soy lecithin requirements and their   
+304 interaction[J].Aquaculture,2000,190(3/4):305-324.   
+305 [10] NIU J,CHEN P F,TIAN L X,et al.Excess dietary cholesterol may have an adverse effect   
+306 on growth performance of early post-larval Litopenaeus vannamei[J].Journal of Animal   
+307 Science and Biotechnology,2012, 3:19.   
+308 [11] MORRIS T C,SAMOCHA T M,DAVIS D A,et al.Cholesterol supplementsfor   
+309 Litopenaeus vannamei reared on plant based diets in the presence of natural   
+310 productivity[J].Aquaculture,2011,314(1/2/3/4):140-144.   
+311 [12] 王美凤.不同生长阶段凡纳滨对虾对卵磷脂、胆固醇和n-3HUFA需要量的研究[D].硕   
+312 士学位论文.湛江:广东海洋大学,2013:27-38.   
+313 [13] GONG H,JIANG D H,LIGHTNER D V,et al.A dietary modification approach to mprove   
+314 the osmoregulatory capacity of Litopenaeus vannamei cultured in the Arizona   
+315 desert[J].Aquaculture Nutrition,2004,10(4):227-236.   
+316 [14] 郭腾飞,黄旭雄,苏明,等.饲料中铜水平对凡纳滨对虾免疫相关基因表达和抗菌能力的   
+317 影响[J].水生生物学报,2012,36(5):809-816.   
+318 [15] SUAREZ J A,GAXIOLA G,MENDOZA R,et al.Substitution of fish meal with plant   
+319 protein sourcesand energy budget for white shrimp Litopenaeusvannamei   
+320 (Boone,1931)[J].Aquaculture,2009,289(1/2):118-123.   
+321 [16] 丁卓平,王明华,刘振华,等.食品中胆固醇含量测定方法的研究与比较[J].食品科   
+322 学,2004,25(1):130-135.   
+323 [17] 李黎,刘玉峰,唐华澄,等.高效液相色谱法测定食品中的胆固醇[J].食品科   
+Jr  
+325 [18] KANAZAWA A,TANAKA N,TESHIMA S,et al.Nutritional requirements of prawn.II.   
+326 requirementforsterols[J].BulletinoftheJapaneseSocietyofScientific   
+327 Fisheries,1971,37(3):211-215.   
+328 [19] CHEN H Y,JENN J S.Combined efects of dietary phosphatidylcholine and cholesterol   
+329 onthe growth,survival and body lipid composition of marine shrimp,Penaeus   
+330 penicillatus[J].Aquaculture,1991,96(2):167-178.   
+331 [20] SHEEN S S,LIU P C,CHEN S N,et al.Cholesterol requirement of juvenile tiger shrimp   
+332 (Penaeus monodon)[J].Aquaculture,1994,125(1/2):131-137.   
+333 [21] ROY L A,DAVIS D A,SAOUD I P.Effects of lecithin and cholesterol supplementation to   
+334 practical dietsforLitopenaeus vannamei reared in low salinity   
+335 waters[J].Aquaculture,2006,257(1/2/3/4):446-452.   
+336 [22] 周宝兰.植物淄醇的应用[J].中国油脂,1992(4):33-38.   
+337 [23] TESHIMA S I,KANAZAWA A,SASADA H.Nutritional value of dietary cholesterol and   
+338 other sterols to larval prawn,Penaeus japonicus Bate[J].Aquaculture,1983,31(/3/4):159-   
+339 167.   
+340 [24] TESHIMA S I,KANAZAWA A.Turnover of dietary cholesterol and $\beta$ -sitosterol in the   
+341 prawn[J].Nippon Suisan Gakkaishi,1987,53(4):601-607.   
+342 [25] 姚专.植物甾醇的开发现状和发展趋势[J].粮食与食品工业,2003(3):22-24.   
+343 [26] D'ABRAMO L R,BORDNER C E,CONKLIN D E,et al.Sterol requirement of juvenile   
+344 lobsters,Homarus sp.[J].Aquaculture,1984,42(1):13-25.   
+345 [27] TESHIMA S,ISHIKAWA M,KOSHIO S,et al.Assessment of cholesterol requirements in   
+346 the prawn,Penaeus japonicus[J].Aquaculture Nutrition,1997,3(4):247-253.   
+347 [28] TESHIMA S I,KANAZAWA A.Nutritive value of sterolsfor the juvenile   
+348 prawn[J].Nippon Suisan Gakkaishi,1986,52(8):1417-1422.   
+349 [29] TESHIMA S I,KANAZAWA A,KOSHIO S,et al.Nutritive value of sitosterol for the   
+350 prawn Penaeus japonicus[J].Nippon Suisan Gakkaishi,1989,55(1):153-157.   
+351 [30] DALL W,CHANDUMPAI A,SMITH D M.The fate of some $^ { 1 4 } \mathrm { C }$ -labelled dietary lipids in   
+352 the tiger prawn Penaeus esculentus[J].Marine Biology,1993,115(1):39-45.   
+353 [31] TESHIMA S I,KANAZAWA A,KAKUTA Y.Role of dietary phospholipids in the transport   
+354 of $[ ^ { 1 4 } \mathrm { C } ]$ cholesterol in the prawn[J].Nippon Suisan Gakkaishi,1986,52(4):719-723.   
+355 [32] 鸿巢章二,桥本周久.水产利用化学[M].郭晓风,邹胜祥，译.北京:中国农业出版   
+356 社,1994:92-93.   
+357 [33] HAINESTH.Water transportacrossbiologicalmembranes[J].FEBS   
+358 Letters,1994,346(1):115-122.   
+359 [34] PALACIOS E,RACOTTA I S.Salinity stress test and its relation to future performance   
+360 and different physiological responses in shrimp   
+361 postlarvae[J].Aquaculture,2007,268(1/2/3/4):123-135.
+
+[35] 王悦如,李二超,龙丽娜,等.中华绒螯蟹对盐度变化的适应及其渗透压调节的研究进展 [J].海洋渔业,2011,33(3):352-360.   
+[36] MERCER L P.The quantitative nutrient-response relationship[J].The Journal of Nutrition,1982,112(3):560-566.   
+[37] CHEN T,WONG N K,JIANG X,et al.Nitric oxide as an antimicrobial molecule against Vibrio harveyi infection in the hepatopancreas of Pacific white shrimp,Litopenaeus vannamei[J].Fish & Shellfish Immunology,2015,42(1):114-120.   
+[38] DEVRIM E,ERGUDER i B,OZBEK H,et al.High-cholesterol diet increases xanthine oxidase and decreases nitric oxide synthase activities in erythrocytes from rats[J].Nutrition Research,2008,28(3):212-215.   
+[39] CHENGS Y,CHEN J C.Effectsof nitrite exposure on the hemolymph electrolyte,respiratory protein and free amino acid levels and water content of Penaeus japonicus[J].Aquatic Toxicology,1998,44(1/2):129-139.   
+Effects of Dietary Cholesterol Content on Growth Performance, Vibrio and Nitrite Nitrogen Stress Resistant Abilities of Litopenaeus vannamei Cultured in Freshwater   
+WANG Xinlei1 LI Hang1 HUANG Xuxiong1,2.3\* ZHAO Libin1 YAN Minglei1 ZHAO Luminl ZHENG Xiaolong1 (1.Key Laboratory of Freshwater Fishery Germplasm Resources, Shanghai Ocean University, Ministry of Agriculture, Shanghai 2O1306, China; 2. Shanghai Engineering Research Center of Aquaculture, Shanghai 2O1306, China; 3. Aquatic Animal Genetic Breeding Center Collaborative Innovation Center in Shanghai (ZF1206), Shanghai 201306, China) Abstract: In order to assess the effects of dietary cholesterol content on the growth performance, Vibrio and nitrite nitrogen stress resistance abilities of Litopenaeus vannamei cultured in freshwater, five isonitrogenous and isoenergetic experimental diets based on $10 \%$ （20号 fish meal formula, supplemented 0 (CO group),1 (C1 group), 2 (C2 group), 3 (C3 group) and 4g/kg cholesterol(C4 group), respectively, were fed to the Litopenaeus vannamei with the initial body weight of $( 0 . 1 6 0 { \pm } 0 . 0 0 2 )$ ） $\mathrm { ~ g ~ } 5 0$ days.The measured cholesterol content of experimental diets in C0, C1, C2, C3 and C4 groups were 0.78,1.57,2.45,3.43 and $4 . 1 8 ~ \mathrm { g / k g }$ respectively. Each diet fed four net-cages and each net-cage had 5O shrimps. After feeding experiment, the growth performance,proximate composition of muscle,and the survival condition after acute Vibrio harveyi infection and nitrite nitrogen stress were investigated. The results showed as follows: there were no significant differences in survival ratio and specific growth rate among the groups $( P { > } 0 . 0 5$ )，while the feed conversion rate (FCR) of CO group was significantly higher than that of C2, C3 and C4 groups ( $\scriptstyle \sum ( 2 , 0 . 0 5 )$ . The crude protein
+
+content in muscle of shrimps was increased along with the dietary cholesterol content rising, and that of C3 and C4 groups displayed significantly higher than that of CO group $\scriptstyle ( P < 0 . 0 5 )$ ） The crude lipid content in muscle of shrimps was firstly increased then decreased along with the dietary cholesterol content rising,and that of C2 group was significantly higher than that of other group ( $\scriptstyle ( P < 0 . 0 5 )$ .The cholesterol content in hepatopancreas and muscle of shrimps was significantly increased with the dietary cholesterol content rising （ $\lceil P { < } 0 . 0 5 \rceil$ )，whilethe cholesterol content in serum was firstly increased then decreased,and that of C2 group was significantly higher than that of CO group $( P { < } 0 . 0 5 )$ ） When the shrimps were acute challenged with Vibrio harveyi, the cumulative mortality was firstly decreased and then increased along with the dietary cholesterol content rising,and the C2 groups always displayed the lowest cumulative mortality at 24,36, 48,72 and $9 6 \mathrm { ~ h ~ }$ after infection. There was a negative correlation between the cumulative mortality at $9 6 \mathrm { ~ h ~ }$ after stress and the dietary cholesterol content when the shrimps were stressed with 8.5 to $9 . 0 \mathrm { m g / L }$ nitrate nitrogen,and the cumulative mortality of CO and C1 groups was significantly higher than that of other groups ( $\scriptstyle \left. { \cal P } < 0 . 0 5 \right)$ ). It is therefore suggested that the diet containing $1 . 5 7 ~ \mathrm { g / k g }$ cholesterol will satisfy the normal cholesterol requirement for growth of Litopenaeus vannamei cultured in freshwater, and the diet containing $2 . 4 5 ~ \mathrm { g / k g }$ cholesterol display the strongest Vibrio resistance ability and the ideal nitrate nitrogen stress resistance ability.
+
+Key words: freshwater; Litopenaeus vannamei; cholesterol; growth performance； Vibrio resistance ability; nitrate nitrogen stress resistance ability

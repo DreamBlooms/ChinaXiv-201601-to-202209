@@ -1,0 +1,212 @@
+# DOI: 10.5846/stxb201703260520
+
+麻雪艳，周广胜.夏玉米叶片气体交换参数对干旱过程的响应.生态学报,2018,38(7)：2372-2383.  
+MaXY,Zhou GS.Efectofdroughtonleaf gasexchange inSummer Maize.ActaEcologicaSinica,2O18,38（7):2372-2383.
+
+# 夏玉米叶片气体交换参数对干旱过程的响应
+
+麻雪艳1,²，周广胜1,3，\*
+
+1中国气象科学研究院，北京100081  
+2南京信息工程大学，南京210044  
+3 南京信息工程大学气象灾害预警协同创新中心，南京210044
+
+摘要：目前已经开展了大量的干旱对作物叶片气体交换参数影响的研究,但关于作物叶片气体交换参数对干旱过程的响应及其关键阈值的研究仍较少。基于夏玉米七叶期开始的5个初始水分梯度的长时间持续干旱模拟实验资料,分析了不同强度持续干旱过程中夏玉米叶片气体交换参数(净光合速率 $P n$ ,气孔导度 $\quad G s$ ,蒸腾速率 $T r$ ,胞间 $\mathcal { \vec { \mathbf { \rho } } } _ { \mathbb { Z } } ^ { \widehat { \mathbf { \gamma } } }$ 浓度 $\boldsymbol { \mathscr { L } } _ { i } ^ { \cdot }$ 和气孔限制值 $L s$ )的变化规律及其关键阈值。结果表明,玉米的净光合速率( $\left( P n \right)$ ,蒸腾速率 $( T r )$ 和气孔导度 $( G s )$ 在干旱发生初期呈大幅度下降,但随着干旱持续会出现一定的适应性。利用统计容忍限方法确定了夏玉米拔节期 $P n , T r$ 和 $\hat { G } s$ 响应干旱的临界土壤相对湿度（0—$3 0 \mathrm { c m }$ )分别为 $5 3 \%$ · $5 1 \%$ 和 $4 8 \%$ ，对应的临界叶含水率分别为 $8 1 . 8 \%$ . $8 1 . 3 \%$ 和 $8 1 . 2 \%$ 。夏玉米光合作用由气孔限制向非气孔限制转换的0一 $3 0 \mathrm { c m }$ 土壤相对湿度均为 $4 4 \% \pm 2 \%$ ,对应的叶含水率均为 $7 7 . 6 \% \pm 0 . 3 \%$ 。研究结果可为夏玉米干旱发生发展过程的监测预警提供依据。 2
+
+关键词：叶片气体交换参数;响应；持续干旱;阈值;夏玉米
+
+# Effect of drought on leaf gas exchange in Summer Maize
+
+MA Xueyan1,²， ZHOU Guangsheng1,3 \*
+
+1 Chinese Academy of Meteorological Sciences，Beijing 10o081,China   
+2 Nanjing University of Information Science and Technology，Nanjing 210o44，China   
+3ColaboratiioeesU Nanjing 210044，China 冷)
+
+Abstract:A large number of studies havebeen carriedoutto investigate how crop photosynthesis responds todrought，but few have investigated the response of cropleaf gas exchange to drought processes，andtheir response thresholds.Based on a prolonged drought experiment in summer maize conducted in 2O13，which included five watering treatments，and began fromthe 7-leaf stage，weinvestigated how drought developed with diffrent initialamountsofirigation，and howleaf gas exchange parameterschangedas the drought progressed.Then，we determined the thresholdsof soil and leaf moisture content when leaf gasexchange parameters began to respond to drought.The results showed that treatments with diferent initialamountsof irigation induced different droughtprocesses.Droughtoccurredearlier，persisted longer，and wasmore severe with treatments receiving less irigation. The net photosynthetic rate $( P n )$ ，transpiration rate $\left( T r \right)$ ，and stomatal conductance（Gs）of summer maizeunder diferent wateringtreatments decreased sharplyattheinitial stageof drought; however，these parameters declined slower as drought prolonged，and tendedtobe almost identical to those growing under normal environmentconditions.Thisindicated theacclimationof maize photosynthesis inresponse to prolonged drought.The onsetof agriculturaldrought was typically markedbyadecline insoil moisturebelowacritical point，which significantly impactcrops.Asdrought progressd,the plantconstituentsand physiological procesescouldbealteredsequentiall,while lower-levelresponses wouldlead tochangesinhigher-levelresponses，andeventuallychangesatan individual plantlevel. Plantleaf gas exchange was found tobe more directlyafected byleaf water status than soil moisturecontent.Therefore，we identified thetipping points when maize leaf gasexchangeparametersstartedtobeaffectedby drought based on the tolerancelimitsof normal distribution；these werethenquantified bysoil moistureand leaf moisturecontent，respectively. The results showed that, $P n , T r$ ，and $G s$ decreased sharply when the relative soil moisture of O- $3 0 \mathrm { c m }$ depth was lower than $5 3 \%$ ， $5 1 \%$ ，and $48 \%$ ，respectively，and leaf moisture content was lower than $8 1 . 8 \%$ ， $8 1 . 3 \%$ ，and $8 1 . 2 \%$ ， respectively. At the initial stage of drought，the intercellular $\mathrm { C O } _ { 2 }$ concentration $( C i )$ decreased，and stomatal limitation value (Ls ) increased，indicating thatstomatal closureaccountedforthe majordecline inmaize photosynthesis.Asdrought progressed, （204号 $C i$ increased while $L s$ decreased， indicating that non-stomatal limitation，other than stomatal closure,contributes to the majordecreases in maize photosynthesis.The point at which the dominant limiting factorof maize photosynthesis converted fromstomatal tonon-stomatalvaried underdiferent treatments.Theconversion timewasearlierinmaizethatreceived lower initial amountsof irigation due tolonger persistenceand greaterseverityof drought，andlaterinmaizethatreceived relatively higher initialamountsof irigation.However，thethresholdsofrelativesoil moistureandleaf moisturecontent when theconversionoccurrd were almost identicalunder allfive treatmentsThecritical relativesoil moistureofO—30cm depth was about $4 4 \% \pm 2 \%$ and the corresponding leaf moisture content was about $7 7 . 6 \% \pm 0 . 3 \%$ . The results could provide reference information for drought monitoring and assessment of summer maize.
+
+Key Words: leaf gas exchange； responses； consecutive drought； thresholds ；summer maize
+
+干旱是世界范围内限制作物生长发育及产量形成的最主要因素[1]。选取恰当的作物生长指标,及时准确地监测评估作物干旱的发生发展过程,有助于科学制定防旱抗旱对策,减轻或避免干旱对粮食生产的影响[2]。目前,作物干旱监测多是基于作物产量或作物长势,如叶面积指数、生物量等生长指标[3-5]。但是,这些指标均是一段时间内干旱对作物生长影响的累积结果,其对干旱的指示具有一定的滞后,制约着作物干旱监测预警的时效性[6]。光合作用是决定作物干物质积累及产量形成的最关键环节,同时也是作物对干旱响应最敏感的生理过程之一[7-8]。了解作物光合作用对干旱的响应及其关键阈值,有助于提高作物干旱的监测预警能力。目前,关于干旱对玉米光合生理的影响研究多集中在特定发育期或特定干旱程度,对不同生育期不同强度和持续时间干旱过程,特别是较长持续时间干旱过程中玉米光合生理的响应研究仍较少[9-11]。并且,现有光合作用对干旱响应的阈值研究也多以土壤水分为衡量依据[6.10,12-14]。叶片是植物进行光合作用的主要部位,叶片的水分状况,如叶片含水率、叶水势、叶片相对含水量等能够直接反映植物的水分亏缺程度[8,15]。研究发现,作物叶片气体交换参数对叶含水率响应的敏感性高于土壤水分[16]。为此,本研究基于夏玉米七叶期开始的多梯度持续干旱模拟实验,分析不同强度持续干旱过程中夏玉米叶片气体交换参数的变化规律,明确夏玉米主要叶片气体交换参数响应干旱的关键转折点及其临界土壤水分和叶含水率,为夏玉米干旱过程的监测预警提供依据。
+
+# 1材料与方法
+
+# 1.1 研究地点
+
+本实验在中国气象科学研究院固城生态环境与农业气象试验站的大型可控式水分试验场开展。该站位于河北省保定市固城镇( $\mathrm { 3 9 ^ { \circ } 0 8 ^ { \prime } N , 1 1 5 ^ { \circ } 4 0 ^ { \prime } E }$ ,海拔 $1 5 . 2 \mathrm { m }$ )，属于暖温带大陆性季风性气候，夏季炎热多雨，冬季寒冷干燥，年平均气温 $1 3 . 6 ^ { \circ } \mathrm { C }$ ，全年 $\geqslant 1 0 ^ { \circ } \mathrm { C }$ 活动积温约 $4 9 1 0 \mathrm { ^ q C \cdot } \mathrm { d }$ ,年降水量 $4 9 4 \mathrm { { m m } }$ ，约 $70 \%$ 的降水集中在夏季,其中以7月份降水量最多（约 $1 5 0 \mathrm { m m }$ ),但年际变异系数高达 $6 2 . 9 \%$ 。试验场设有大型电动遮雨棚,占地 $7 5 0 \mathrm { m } ^ { 2 }$ ,共设42个试验小区，小区面积 $8 \mathrm { m } ^ { 2 } ( 4 \mathrm { m } { \times } 2 \mathrm { m } )$ ,小区之间筑有 $3 \mathrm { m }$ 深混凝土隔离墙,防止水分水平交换。试验场土壤类型为砂壤土,含有机碳 $1 3 . 6 7 \mathrm { g / k g }$ ，全氮 $0 . 8 7 \mathrm { g / k g }$ ,有效磷 $2 5 . 7 6 \mathrm { m g / k g }$ ,有效钾 $1 1 8 . 5 5 \mathrm { m g / k g }$ ，$\mathrm { \ p H }$ 值8.1,平均土壤容重 $1 . 3 7 \mathrm { g } / \mathrm { c m } ^ { 3 }$ ,0 $3 0 \mathrm { c m }$ 平均田间持水量为 $2 1 . 2 3 \% ^ { [ 1 7 ] }$ 。
+
+# 1.2实验设计
+
+供试玉米品种选择全国范围内种植面积最大的郑单958。2013年6月27日播种,10月8日收获。小区玉米行距 $5 0 \mathrm { c m }$ ,株距 $3 0 \mathrm { c m }$ ,每小区52株。播种前一次性施磷酸二铵 $3 0 0 \mathrm { k g / h m } ^ { 2 }$ 。玉米全生育期内利用大型电动遮雨棚遮挡自然降水,前期各小区适当灌溉,使0—50cm土壤相对湿度保持在适宜水平（田间持水量的$6 5 \%$ 左右）,保证苗齐、苗壮。7月24日（七叶期)分别按照5个梯度，即 $1 0 0 , 6 0 , 4 0 , 2 5 , 1 5 \mathrm { { m m } }$ 进行一次性灌水。每个梯度3个重复,不同处理的各小区随机排列。梯度灌水后以7—10d/次的频率进行各项目的观测，各次观测的时间及玉米所处发育期见表1。
+
+表1各次观测的时间及玉米所处发育期  
+Table1 Observation date and growth stages of maize   
+
+<html><body><table><tr><td>观测日期 Observation date</td><td>梯度灌水后天数/d Days after irrigation</td><td>发育期 Growth stage</td><td>观测日期 梯度灌水后天数/d Observation date Days after irrigation</td><td>发育期 Growth stage</td></tr><tr><td>7月30日July 30th</td><td>7</td><td>七叶末期</td><td>8月25日 August 25th 32</td><td>开花期</td></tr><tr><td>8月8日August 8th</td><td>15</td><td>拔节期</td><td>9月5日 September 5th 43</td><td>灌浆期</td></tr><tr><td>8月18日August 18th</td><td>25</td><td>抽雄期</td><td>9月20日 September 20th 58</td><td>乳熟期</td></tr></table></body></html>
+
+# 1.3 观测项目
+
+# 1.3.1 土壤水分
+
+土壤含水量采用烘干法测定。每次观测时,在小区内两行玉米中间随机选取1个取样点,各小区取样位置大致相同,每个处理共3个取样点。利用土钻每 $\mathrm { { 1 0 { c m } } }$ 分层钻取0— $5 0 \mathrm { { c m } }$ 土样,分别放入土壤盒,随即测定湿土重,并置于烘箱内 $1 0 5 \mathrm { ^ \circ C }$ 烘干至重量恒定后(烘干24h左右开始抽取上、中、下层土样3—6个，每隔 2h 称重1次,相邻2次重量差异 $\leqslant 0 . 0 2 \mathrm { g }$ 即可)进行干土样称重,计算绝对含水量,并除以田间持水量换算成土壤相对湿度(以下简称土壤湿度)。
+
+# 1.3.2叶片气体交换参数
+
+选择晴朗天气9:30—11:30进行观测。每次观测每小区随机选取1株标准株玉米,每个处理共3株。利用Li-6400 便携式光合作用系统（Li-cor，Lincoln，NE，USA）的标准叶室,在自然光下测定标准株玉米顶部第1片完全展开叶的净光合速率( $\left( P n \right)$ 、气孔导度( $G s \mathrm { \large ~ , \bigg ~ }$ ）、蒸腾速率 $\textit { ( T r ) }$ 和胞间 $\mathrm { C O } _ { 2 }$ 浓度 $( C i )$ 等叶片气体交换参数。 A7
+
+# 1.3.3 叶含水率
+
+选取与光合观测完全一致的玉米叶片,测定其叶鲜重,然后迅速装入牛皮纸袋,放入烘箱 $1 0 5 \mathrm { ^ { \circ } C }$ 中杀青1h, $8 0 ^ { \circ } \mathrm { C }$ 烘干 24h 后称取干重,并计算叶含水率 $( \% )$ ：
+
+叶含水率 $\mathbf { \Sigma } =$ (叶鲜重-叶干重)/叶鲜重 $\times 1 0 0 \%$
+
+# 1.4研究方法
+
+1.4.1叶片气体交换参数的受旱临界土壤水分和叶含水率
+
+利用One-way ANOVA方差分析及Duncan多重比较方法分析夏玉米不同叶片气体交换参数各次观测值的处理间差异。由于梯度控水前各处理玉米生长状况均无显著性差异,故梯度灌水后出现的处理间显著性差异是由于水分不同造成的。以梯度灌水后首次出现处理间显著性差异的数据为研究对象，该指标对干旱的响应阈值应位于与处理1有显著性差异的首个处理之前。因此,以该次观测数据中尚未受到干旱显著影响（与水分最好的处理1无显著性差异)的各处理全部的观测值为样本,利用正态统计容忍下限确定各叶片气体交换参数的受旱临界点[1-1],并利用二次多项式(式1)分别进行各气体交换参数与0—30cm 土壤相对湿度和叶含水率的回归拟合。基于回归方程及各气体交换参数的受旱临界值计算临界土壤湿度及叶含水率[2]。
+
+$$
+y = a x ^ { 2 } + b x + c
+$$
+
+式中， $y$ 为夏玉米叶片气体交换参数 $( P n / G S / T r )$ 的实测值； $x$ 为叶含水率或0- $3 0 \mathrm { c m }$ 土壤相对湿度的实测值;  
+a,b,c为回归方程的拟合系数。
+
+# 1.4.2 数据处理与分析
+
+夏玉米叶片气体交换参数的One-way ANOVA方差分析和Duncan 多重比较分析,夏玉米叶片气体交换参数与叶含水率的相关关系、回归拟合及置信区间的计算均通过 SPSS 17.0软件完成;利用 Matlab 软件计算气体交换参数对叶含水率响应的阈值;利用Origin8.5绘图。
+
+# 2结果与分析
+
+# 2.1夏玉米干旱发生发展过程
+
+选取 $_ { 0 - 3 0 \mathrm { c m } }$ 土壤相对湿度(RSH,Relative soil humidity)表征干旱,参照气象干旱等级国家标准（GB/T20481—2006)进行干旱强度划分：无旱( $\mathrm { R S H } { > } 6 0 \%$ )，轻旱 $( 5 0 \% < \mathrm { R S H } \leqslant 6 0 \% )$ ，中旱 $( 4 0 \% < \mathrm { R S H } \leqslant 5 0 \% )$ ，重旱 $3 0 \% < \mathrm { R S H } \leqslant 4 0 \% ,$ 和特旱( $\mathrm { R S H } \leqslant 3 0 \%$ )[23]。由图1可知,梯度灌水前1d $( 7$ 月23日),各处理的土壤湿度均在 $6 1 \%$ 1 $6 3 \%$ 之间未受干旱影响。梯度灌水后 $7 \mathrm { d } ( 7$ 月30日）,土壤水分梯度明显,处理间差异达到极显著水平。其中,处理1的土壤湿度高达 $90 \%$ 以上,处理2接近 $9 0 \%$ ,处理3为 $8 0 \%$ ,处理4—5分别为 $6 9 \%$ 和$6 3 \%$ ,各处理均未发生干旱。梯度灌水后15d（8月8日）,处理 $\overline { { 1 - 2 } }$ 的土壤湿度在 $6 5 \%$ 一 $70 \%$ 之间,尚无干旱发生;处理3的土壤湿度为 $5 9 \%$ ,开始出现轻旱;处理4和5的土壤湿度分别为 $54 \%$ 和 $5 1 \%$ ,已经发生轻旱。梯度灌水后25d(8月18日），水分梯度进一步缩小，处理1的土壤湿度在 $5 0 \%$ 一 $6 0 \%$ 之间,达到轻旱;处理2—5的土壤湿度处于 $4 0 \%$ 一 $5 0 \%$ 之间,达到中旱。梯度灌水后32d（8月25日），处理1—3的土壤湿度处于$4 0 \%$ 一 $5 0 \%$ ,达到中旱;处理4一5的土壤湿度已经低于 $4 0 \%$ ,发生重旱。梯度灌水后43d(9月5日），处理1—2 土壤湿度仍在 $4 0 \%$ 一 $5 0 \%$ 之间，受到中旱影响，处理3一5已经低于 $4 0 \%$ ,达到重旱级别。梯度灌水后58d同次观测无相同字母，代表在0.05水平上差异显著;处理1—5指七叶期(7月24日)分别按照 $1 0 0 , 6 0 , 4 0 , 2 5 \mathrm { { m m } }$ 和 $1 5 \mathrm { m m }$ 进行一次性灌水处理
+
+![](images/060646d1858338e9fdb73f40e977f5ae2251b9a11c878e131acf15ad0fa24fed.jpg)  
+图1处理1—5的 $\mathbf { 0 - 3 0 c m }$ 土壤相对湿度的变化规律  
+Fig.1Dynamics of relative soil moisture of O—30cm depth of the treatments 1 to 5
+
+（9月20日），处理1的土壤湿度在 $3 0 \%$ 一 $4 0 \%$ 之间，达到重旱程度。处理2一5土壤湿度均处于 $2 0 \%$ 一 $3 0 \%$ 之间,已经达到特旱级别。
+
+不同处理的土壤湿度变化不同,形成了不同的干旱发生发展过程。处理1于抽雄期出现干旱,至开花期发展为中旱,乳熟期发展为重旱。处理2拔节期之后发生干旱,抽雄至灌浆期持续中旱,乳熟期达到特旱。处理3于拔节期开始出现干旱,抽雄至开花期持续中旱,灌浆期发展为重旱,乳熟期达到特旱。处理4—5拔节期发生轻旱,抽雄期发展为中旱,开花期至灌浆期持续重旱,乳熟期达到特旱。 R
+
+# 2.2玉米叶片气体交换参数对干旱过程的响应
+
+# 2.2.1 净光合速率 $( P n )$
+
+净光合速率 $P n$ 是叶片瞬时光合能力的直接表现。玉米生育期内， $P n$ 呈先增加后下降的变化趋势（图2)。但不同干旱过程中 $P n$ 的变化速率不同。处理1一3净光合速率的最高值均出现在拔节期,此后随着各处理干旱发生发展速率的不同而出现不同程度的下降。至抽雄期,处理1的 $P n$ 受轻旱影响较拔节期下降了$5 . 1 9 \mu \mathrm { m o l } \ \mathrm { C O } _ { 2 } \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 }$ ,处理2—3已经发展为中旱, $P n$ 较拔节期分别下降了 $8 . 8 7 \mu \mathrm { m o l c O } _ { 2 }  { \mathrm { m } } ^ { - 2 }  { \mathrm { \ s } } ^ { - 1 }$ 和11.89$\mu \mathrm { m o l C O } _ { 2 } \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 }$ 。至开花期,处理1发展为中旱, $P n$ 较抽雄期下降了 $6 . 5 4 \mu \mathrm { m o l C O } _ { 2 } \mathrm { m } ^ { - 2 } \mathrm { \ s } ^ { - 1 }$ ,处理2—3 持续中旱,其中,处理2 的 $P n$ 较抽雄期下降了 $4 . 7 8 \mu \mathrm { m o l C O } _ { 2 } \mathrm { m } ^ { - 2 } \mathrm { ~ s } ^ { - 1 }$ ,而处理3的 $P n$ 较抽雄期增加了 $1 . 7 4 \mu \mathrm { m o l C O } _ { 2 } \mathrm { m } ^ { - 2 }$ $\mathbf { s } ^ { - 1 }$ 。至灌浆期,处理1—3 的 $P n$ 分别为1.28,1.08 和 $0 . 4 6 \mu \mathrm { m o l C O } _ { 2 } \mathrm { m } ^ { - 2 }$ s1,较开花期有微小幅度的下降。灌浆以后,处理1—3的 $P n$ 均呈下降趋势。处理4—5的 $P n$ 的最大值出现在七叶末期,随着干旱逐渐发生,至拔节期达到轻旱,其 $P n$ 较七叶末期分别下降了 $6 . 5 1 \mu \mathrm { m o l C O } _ { 2 } \mathrm { m } ^ { - 2 }$ s和 $1 2 . 5 2 \mu \mathrm { m o l C O } _ { 2 } \mathrm { m } ^ { - 2 } \mathrm { ~ s } ^ { - 1 }$ ,抽雄期达到中旱程度,其 $P n$ 较拔节期进一步下降了 $4 . 5 4 \mu \mathrm { m o l C O } _ { 2 } \mathrm { m } ^ { - 2 } \epsilon$ 1和 $5 . 0 2 \mu \mathrm { m o l C O } _ { 2 } \mathrm { m } ^ { - 2 } \mathrm { \ s } ^ { - 1 } ,$ 此后干旱持续发展,但处理4—5的 $P n$ 无明显下降趋势,开花期较抽雄期甚至增加了 $1 . 0 6 \mu \mathrm { m o l C O } _ { 2 } \mathrm { m } ^ { - 2 } \mathrm { s } ^ { - 1 }$ 和 $8 . 3 3 \mu \mathrm { m o l C O } _ { 2 } \mathrm { m } ^ { - 2 } \mathrm { ~ s } ^ { - 1 }$ 。进入灌浆期以后,处理4-5的 $P n$ 呈持续下降趋势。
+
+![](images/99cc2c2962123ccc7918dc4face606b1eea31c67422e703776e39b682b2a2a79.jpg)  
+图2夏玉米叶片净光合速率随干旱过程的变化规律   
+Fig.2Dynamics of leaf net photosynthetic rate of summer maize during drought development
+
+并且,同一时间不同处理的净光合速率因干旱强度及持续时间的不同也有明显的差异。梯度灌水后第7d,各处理均未发生干旱， $P n$ 尚无显著差异。梯度灌水后15d,处理1—5的 $P n$ 依次降低,其中处理5的 $P n$ 因受轻旱影响已经显著低于处理1。梯度灌水后25d,各处理均不同程度受到干旱影响， $P n$ 呈现出与土壤水分梯度完全一致的处理间差异,处理2—5分别为处理1的 $8 7 . 2 \%$ ， $6 6 . 5 \%$ ， $6 3 . 7 \%$ 和 $4 6 . 2 \%$ 。其中,处理3—5的 $P n$ 已显著低于处理1。梯度灌水32d以后,虽然不同处理的受旱程度及持续时间不同,但 $P n$ 的处理间差异已不再显著。
+
+# 2.2.2 气孔导度 $( G s )$
+
+气孔是叶片与外界进行气体交换的门户，其开度变化对植物水分状况及 $\mathrm { C O } _ { 2 }$ 同化有着重要影响。由图3可知,处理1一2的气孔导度 $G s$ 在观测时段内基本呈不断减小趋势,处理3—5 的 $G s$ 前期呈持续减小趋势,至开花期略有上升,分别较抽雄期增加了 $0 . 0 5 \ 、 0 . 0 3 \mathrm { m o l H } _ { 2 } \mathrm { O } \mathrm { \ m } ^ { - 2 } \mathrm { s } ^ { - 1 }$ 和 $0 . 0 9 \mathrm { m o l H } _ { 2 } \mathrm { O } \mathrm { \ m } ^ { - 2 } \mathrm { s } ^ { - 1 }$ ,此后基本呈下降趋势。并且,不同干旱过程中 $G s$ 的下降速率因干旱持续时间及受旱程度的不同而异。处理4一5的 $G s$ 因拔节期受轻旱影响出现最大幅度下降,较七叶期末分别下降了 $\mathrm { 0 . 1 0 m o l H _ { 2 } O \ m ^ { - 2 } s ^ { - 1 } }$ 和 $0 . 1 7 \mathrm { m o l H } _ { 2 } \mathrm { O } \mathrm { \ m } ^ { - 2 } \mathrm { s } ^ { - 1 }$ 。处理1—3拔节期几乎无干旱发生,因此七叶至拔节期间 $G s$ 的下降幅度较小,此后，因干旱逐渐发生发展而出现显著下降，拔节期至抽雄期之间出现最大降幅,分别减小了 $0 . 1 2 \ 、 0 . 1 1 \ 、 0 . 2 1 \mathrm { m o l H } _ { 2 } \mathrm { O \ m } ^ { - 2 } \mathrm { s } ^ { - 1 }$ ,而此期处理4—5气孔导度的下降幅度则较小,分别为 $0 . 0 8 \ 、 0 . 0 3 \mathrm { m o l H } _ { 2 } \mathrm { O \ m } ^ { - 2 } \mathrm { s } ^ { - 1 }$ 。 >
+
+![](images/82e5724f406617906710c85c80dc9c8f202e882bbfabcc67a083749160268d65.jpg)  
+图3夏玉米叶片气孔导度随干旱过程的变化规律   
+Fig.3Dynamics of leaf stomatal conductance of summer maize during drought development
+
+进一步比较同一时间不同处理的气孔导度 $G s$ 差异。梯度灌水后7d,各处理尚未受到干旱影响,虽然处理1—2的Gs大于处理 $3 { \ - } 5$ ,但未达到显著水平。梯度灌水后15d,处理4—5 的 $G s$ 受轻旱影响已经显著低于处理1，此时处理2—5的 $G s$ 分别为处理1的 $8 3 . 9 \%$ $8 2 . 9 \%$ ， $4 8 . 5 \%$ 和 $3 0 . 6 \%$ 。梯度灌水后25d,气孔导度的处理间差异进一步拉大,处理3-5 的 $G s$ 显著低于处理1—2,处理2—5的 $G s$ 分别为处理1的 $5 7 . 0 \%$ ， $3 0 . 4 \%$ ，$2 7 . 8 \%$ 和 $2 3 . 9 \%$ 。梯度灌水32d后，各处理的 $G s$ 不再有显著差异（图4）。
+
+# 2.2.3蒸腾速率 $( T r )$ （204号
+
+不同干旱过程的蒸腾速率 $T r$ 在梯度灌水后均随土壤湿度降低而下降,但下降幅度不同（图4)。其中处理4—5拔节期受轻旱影响,其 $T r$ 较七叶期分别降低了 $2 . 8 \mathrm { m m o l H } _ { 2 } \mathrm { O m } ^ { - 2 } \mathrm { s } ^ { - 1 }$ 和 $4 . 8 \mathrm { m m o l H } _ { 2 } \mathrm { O m } ^ { - 2 } \mathrm { s } ^ { - 1 }$ ,而拔节期尚未受到干旱影响的处理1—3的 $T r$ 较七叶期分别下降了 $1 . 2 , 1 . 0 , 2 . 4 , 0 . 8 \mathrm { m m o l H } _ { 2 } \mathrm { O m } ^ { - 2 } \mathrm { s } ^ { - 1 }$ 。各处理的 $T r$ 在抽雄或开花前后略有上升，此后持续下降。梯度灌水后7d,各处理的 $T r$ 尚无显著差异。梯度灌水后15d，处理4—5的 $T r$ 受轻旱影响已经显著低于处理1,仅为处理1的 $6 4 . 8 \%$ 和 $4 1 . 8 \%$ 。梯度灌水后 25d,处理3—5的 $T r$ 显著低于处理1。此后， $T _ { { r } }$ 的处理间差异逐渐减小,至梯度灌水后32d,处理间差异未通过显著性检验。
+
+![](images/077452cac3b6c041aa4250329f07f65adfa422b58efd63516b6d9485e68adaf3.jpg)  
+图4夏玉米叶片蒸腾速率随干旱过程的变化规律   
+Fig.4Dynamics of leaf transpiration rate of summer maize as drought development
+
+2.3 夏玉米光合作用主导限制因素的转折点
+
+干旱对光合作用的影响包括气孔限制和非气孔限制2类。前者指干旱引起气孔关闭,气孔导度降低，$\mathrm { C O } _ { 2 }$ 进入叶片受阻,导致光合作用减小。此时,叶肉细胞的最大光合能力和量子产率并未受到影响,因此复水后干旱对光合作用的抑制效应会很快解除。后者是指干旱诱发了活性氧自由基代谢失调,使得光合器官的结构与功能遭受破坏,细胞内物质和能量代谢失调,光合活性下降,即使复水也无法使光合速率恢复至无胁迫水平。一般而言,干旱初期植物主要受气孔限制,由于 $\mathrm { C O } _ { 2 }$ 供应减少使细胞内 $\mathbf { 0 } _ { 2 }$ 成为电子传递的受体而使活性氧自由基增加,诱发了非气孔限制的产生,随着干旱发展,非气孔限制逐渐成为光合速率的主要限制因素[24-25]。因此,确定气孔限制向非气孔限制的转折点可以作为玉米开始受到严重干旱的判定依据。根据Farquar的观点[26],胞间 $\mathrm { C O } _ { 2 }$ 浓度 $( \romannumeral 1 )$ 降低、气孔限制值（ $\ [ s )$ 升高,气孔限制起主导作用; $\boldsymbol { C } i$ 升高 $\phantom { } \cdot L s$ 下降,非气孔限制起主导作用。比较各处理 $\overrightarrow { C i }$ 和 $L s$ 的变化趋势可知,处理1在灌浆期之前呈 $\boldsymbol { C } i$ 下降 $\ 、 L s$ 上升的趋势,此后呈 $\boldsymbol { C } i$ 上升 $\mathcal { L }$ 下降的趋势;处理2的 $\boldsymbol { C } i$ 在开花期之前均呈现 $\boldsymbol { C } i$ 下降 $\ 、 L s$ 上升的趋势,此后 $\boldsymbol { C } i$ 上升， $L s$ 下降;处理3—5在抽雄期之前 $\boldsymbol { C } i$ 下降 $\phantom { } \cdot \phantom { } L s$ 上升,之后 $\boldsymbol { C } i$ 上升 $\phantom { } \cdot \phantom { } L s$ 下降。说明处理1的光合限制因素在灌浆期之前以气孔限制为主,之后非气孔限制起主导作用;处理2的光合限制因素在开花期之前以气孔限制为主,之后非气孔限制起主导作用;处理3—5的光合限制因素在抽雄期之前以气孔限制为主,之后非气孔限制起主导作用（图5）
+
+# 2.4叶片气体交换参数响应干旱的阈值
+
+夏玉米的净光合速率,蒸腾速率和气孔导度均于梯度灌水后第15d(8月8日)出现显著的处理间差异,因此,以该次观测的各指标数据作为研究对象。各指标用于阈值计算的样本均通过了正态性检验（ $P { > } 0 . 0 5 )$ （2号（表2)[27],通过计算各指标 $9 5 \%$ 置信水平,包含总体 $9 5 \%$ 的正态容忍下限可得净光合速率,蒸腾速率和气孔导度响应干旱的临界土壤相对湿度 $( 0 { - } 3 0 \mathrm { c m } )$ 分别为 $5 3 \%$ $5 1 \%$ 和 $4 8 \%$ ;临界叶含水率分别为 $8 1 . 8 \% , 8 1 . 3 \%$ 和 $8 1 . 2 \%$ (表3,图6—7)。进一步分析各处理光合限制主导因素发生转折时的土壤湿度和叶含水率发现,处理1—5的0— $3 0 \mathrm { c m }$ 土壤湿度均处于 $4 2 \% - 4 7 \%$ 之间,平均值为 $4 4 \% \pm 2 \%$ 。处理1—5的叶含水率分别为$7 7 . 9 \%$ ， $7 7 . 3 \%$ ， $7 7 . 5 \%$ ， $7 7 . 3 \%$ 和 $7 7 . 7 \%$ ,平均值为 $7 7 . 6 \% \pm 0 . 3 \%$ 。
+
+![](images/cfdcba8bf4e3197e12358ee6594358eacd83e30811d99135fe0eb28ffba2ffff.jpg)  
+图5夏玉米叶片胞间 $\mathbf { C O } _ { 2 } ^ { - }$ 浓度 $\boldsymbol { c } i$ 与气孔限制值 $L s$ 随干旱过程的变化规行
+
+Fig.5Dynamics of leaf intercellular CO concentration $\dot { c } i$ and stomatal limitation value $L s$ of summer maize during drought developmen
+
+# 3讨论
+
+植物光合作用对干旱的响应与干旱持续时间及干旱的发展过程密切相关[28]。本研究结果表明,干旱发生初期，夏玉米的净光合速率，蒸腾速率和气孔导度均出现明显下降。此时，胞间 $\mathrm { C O } _ { 2 }$ 浓度 $\boldsymbol { C } i$ 呈下降趋势，气孔限制值 $L s$ 呈上升趋势，气孔限制是光合作用的主导限制因素；随着干旱的发展， $\boldsymbol { C } i$ 呈上升趋势, $L s$ 呈下降趋势，光合作用的主导限制因素由气孔限制转为非气孔
+
+3.1夏玉米叶片气体交换参数对干旱过程的响应
+
+表2夏玉米拔节期光合生理指标观测样本Shapiro-Wilk正态性检验结果  
+Table2Normal test of the observation samples of photosynthetic indicators   
+
+<html><body><table><tr><td rowspan="2">光合生理指标 Photosynthetic indicators</td><td colspan="2">拔节期 Jointing stage</td></tr><tr><td>df</td><td>P</td></tr><tr><td>光合速率 Net photosynthetic rate</td><td>15</td><td>0.638</td></tr><tr><td>蒸腾速率 Transpiration rate</td><td>15</td><td>0.324</td></tr><tr><td>气孔导度 Stomatal conductance</td><td>15</td><td>0.603</td></tr></table></body></html>
+
+限制。这与已有研究结果基本一致[9,25,29-30]。随着干旱持续时间的增加,植物会通过基因表达、生理和形态的改变等增强对干旱的适应性,提高植株的水分关系及光合性能等,这可能会抵消短期干旱引起的植物光合作用的降低[28,31]。本研究表明,随着干旱持续时间延长,夏玉米的净光合速率,蒸腾速率和气孔导度的下降幅度减小,其值趋于稳定,最早受到干旱影响的处理3—5在开花期还略有增加,与正常水分条件下玉米在生育期内变化规律一致,反映出夏玉米光合性能对长时间的持续干旱产生了适应[32-33],这可能与气孔导度、叶肉导度(由气孔下腔至羧化中心的 $\mathrm { C O } _ { 2 }$ 导度）、以及最大羧化速率( $\mathrm { V c } _ { \mathrm { m a x } }$ )在长期干旱条件下的适应性有关[28,34]。夏玉米各干旱处理的净光合速率,蒸腾速率和气孔导度的差异在干旱初期随着干旱强度及持续时间的不同而不断增大,但至灌水后1个月左右,土壤水分的处理间差异消失,虽然各处理的干旱持续时间不同,但其净光合速率、蒸腾速率和气孔导度的差异不再显著,并且,各处理玉米光合主导限制因素发生转变的时间不同,但转折点对应的土壤湿度及叶含水率基本一致,这反映出玉米的叶片气体交换参数对干旱的响应更大程度上是一种瞬时响应，即主要与当前的水分状况相关。
+
+![](images/6615d33237b6f5e3ee3e3b969e17f24127908e90e595639b2e5f56a97b4c8dab.jpg)  
+图6夏玉米叶片光合生理指标气体交换参数与叶含水率的关系  
+Fig.6The relationships between leaf moisture content and leaf gas exchange parameters of summer maize
+
+表3夏玉米拔节期叶片气体交换参数受旱临界点及土壤水分、叶含水率阈值  
+The critical points and thresholds of leaf gas exchange parameters of summer maize at the jointi   
+
+<html><body><table><tr><td rowspan="3">叶片气体交换参数 Leaf gas exchange parameters</td><td></td><td colspan="2">叶含水率阈值 Leaf moisture content thresholds</td><td colspan="2">土壤湿度阈值 Soil moisture thresholds</td></tr><tr><td>临界值 Critical points</td><td>估计值</td><td>95%置信区间95%</td><td>估计值</td><td>95%置信区间95%</td></tr><tr><td>光合速率Net photosynthetic rate/</td><td></td><td>Estimated values</td><td>Confidence interval</td><td>Estimated values</td><td>Confidence interval</td></tr><tr><td>(μmolCOm-²s-1) 蒸腾速率 Transpiration rate/</td><td>29.29</td><td>81.8%</td><td>[82.2%,81.3%]</td><td>53%</td><td>[50%，56%]</td></tr><tr><td>(mmolH2Om-²s-1) 气孔导度 Stomatal conductance/</td><td>4.87</td><td>81.3%</td><td>[81.1%,80.3%]</td><td>51%</td><td>[44%，55%]</td></tr><tr><td>(molHOm-²s-</td><td>0.153</td><td>81.2%</td><td>[81.8%,80.0%]</td><td>48%</td><td>[40%，52%]</td></tr></table></body></html>
+
+# 3.2夏玉米叶片气体交换参数对干旱的阈值响应
+
+土壤水分是引起作物干旱的直接原因。当土壤水分低于某一临界点时,作物的生长状况会发生显著变化[14]。张文丽等[10]发现,当土壤相对湿度低于 $70 \%$ 时,玉米幼苗期光合速率和蒸腾速率会迅速降低,当土壤相对湿度低于 $3 5 \%$ 时,非气孔限制将成为光合作用的主导限制因素。麻雪艳等[22]指出夏玉米苗期净光合速率、蒸腾速率和气孔导度响应干旱的临界土壤湿度分别为 $6 0 \%$ ） $6 2 \%$ 和 $5 8 \%$ 。张仁和等发现土壤相对湿度在 $3 5 \%$ 1 $45 \%$ 之间时,非气孔限制是玉米光合作用的主导限制因素,高于此范围则气孔限制为主导因素。本研究发现夏玉米拔节期净光合速率,蒸腾速率和气孔导度开始受到干旱显著影响时的土壤水分分别为 $5 3 \%$ ，$5 1 \%$ 和 $4 8 \%$ ,夏玉米光合作用主导限制因素发生转折时的临界土壤湿度 $( 0 { - } 3 0 \mathrm { c m } )$ 为 $4 4 \% \pm 2 \%$ 。不同研究给出的土壤水分阈值并不完全一致,这与参考土层深度,玉米不同发育期对土壤水分的需求以及对干旱的敏感程度等有关[22]。随着干旱强度及持续时间的增加,作物的不同生理代谢过程、组织和器官会依次发生改变，较低层次的响应会导致较高层次的改变,最终引起植株个体水平的变化[8]。其中,叶片水分状况对光合作用的影响较土壤水分更加直接[16]。因此,叶片水分状况也常常作为作物光合性能的评价指标[35-37]。本研究采用正态统计容忍限方法确定了夏玉米拔节期主要气体交换参数净光合速率、蒸腾速率和气孔导度开始受到干旱显著影响时的临界叶含水率分别为 $8 1 . 8 \%$ ， $8 1 . 3 \%$ 和 $8 1 . 2 \%$ ,夏玉米光合作用主导限制因素发生转折时的临界叶含水率为 $7 7 . 6 \% \pm 0 . 3 \%$ ,该结果可以作为夏玉米拔节期光合作用受旱程度的判定依据。但是,研究表明,植物的受旱程度不仅取决于叶含水率，更与水分在叶肉细胞中的存在形式密切相关[38]。植物细胞内的水分以束缚水和自由水两种形式存在。束缚水与细胞内其他物质紧密结合,是细胞结构的组成成分,能维持植物结构的完整性及叶肉细胞壁的扩展性;自由水以游离形式存在,是参与细胞各种代谢过程的有效水分。束缚水越高,植物的抗逆性越强;自由水越高,植物的代谢越旺盛。干旱等逆境条件下植物细胞内束缚水/自由水的比例会提高,以增强植物的抗逆性[39]。可见,干旱条件下束缚水和自由水的含量及二者比例的变化能更真实地反映植物的受旱程度。因此,还应在今后的研究中进一步考虑叶片水分的有效性。
+
+![](images/00631c8e05ed2b394f8e7048f61047b1d27dd0b91a5d70431a8b630f173b8ba6.jpg)  
+图7夏玉米叶片气体交换参数与0一30cm土壤相对湿度的关系  
+Fig.7 The relationships between leaf gas exchange of summer maize and relative soil moisture of O—3Ocm depth
+
+# 4结论
+
+尽管目前已经开展了大量的植物叶片气体交换参数对干旱的响应研究,但关于植物叶片气体交换参数对干旱过程的响应及其阈值的研究仍较少。本研究基于夏玉米七叶期开始的多梯度持续干旱模拟实验,分析了夏玉米气体交换参数对干旱过程的响应规律及关键阈值。结果表明,不同水分处理的土壤湿度变化不同,形成了不同的干旱发生发展过程,总体随着夏玉米七叶期灌水量的减少，干旱发生时间提前、干旱持续时间及干旱程度依次增加。干旱发生初期，玉米的净光合速率,蒸腾速率和气孔导度均会出现显著下降，但随着干旱持续时间的延长，净光合速率，蒸腾速率，气孔导度的下降幅度逐渐减小并呈现与正常生长条件下基本一致的变化规律。利用统计容忍限的方法确定了夏玉米拔节期主要气体交换参数净光合速率、蒸腾速率和气孔导度开始响应干旱而显著降低时的临界土壤相对湿度 $( 0 { - } 3 0 \mathrm { c m } ) ^ { \prime }$ 分别为 $5 3 \%$ ， $5 1 \%$ 和 $4 8 \%$ ,相应的临界叶含水率分别为 $8 1 . 8 \%$ ， $8 1 . 3 \%$ 和 $8 1 . 2 \%$ 。干旱发生初期各处理均呈现 $\boldsymbol { C } i$ 下降 $\ 、 L s$ 上升的变化规律，气孔限制是光合速率的主导限制因素,随着干旱的发展,各处理开始呈现出 $\boldsymbol { C } i$ 上升 $\phantom { } \cdot L s$ 下降的变化趋势,非气孔限制开始起主导作用。各处理的夏玉米光合作用主导限制因素由气孔限制向非气孔限制转换的时间随着干旱持续时间及干旱程度的增加依次提前,但发生转换时的0一 $3 0 \mathrm { c m }$ 土壤相对湿度均为 $4 4 \% \pm 2 \%$ ,对应的叶含水率均为 $7 7 . 6 \% \pm 0$ （ $3 \%$ ,是夏玉米光合限制因素转换的临界条件。研究结果可为夏玉米干旱监测和预警提供依据。（
+
+致谢：感谢中国气象科学研究院固城农业气象与生态环境实验站提供的实验环境,感谢许振柱,张峰,蒋延玲，王秋玲,王敏政,李柏贞,石耀辉,周怀林,张利,刘涛,刘少军,唐隽,张淑杰,周莉,宋健在实验过程中给予的帮助。
+
+# 参考文献（References）：
+
+[1]AziiFbiaofhttrtcepsihdsetalof Agriculture Innovations and Research,2014,3(2）: 579-583.  
+[2］黄友昕，刘修国，沈永林，刘诗诗，孙飞.农业干旱遥感监测指标及其适应性评价方法研究进展.农业工程学报,2015,31（16)：186-195.  
+[3］张英普，何武全，韩健.玉米不同生育期水分胁迫指标.灌溉排水，2001，20(4)：18-20.  
+[4] 侯琼，李建军，王海梅，云文丽.春玉米适宜土壤水分下限动态指标的确定.灌溉排水学报，2015，34(6):1-5，34-34.  
+[5] 赵叶萌，刘晓英，钟秀丽，曹金峰，任图生，冯丹红.基于产量响应诊断冬小麦水分亏缺适宜土层及其水分阈值.农业工程学报，2014，30(20):147-154.  
+[6]ThompRldValLCdUigptaeauteldfagtblecrops using soil moisture sensors.Agricultural water management,2007,88(1/3）：147-158.  
+[7］武维华.植物生理学(第二版).北京：科学出版社，2008.  
+[8]Hsiao TC,Fereres E，Acevedo E，Henderson D W. Water stress and dynamics of growth and yield of crop plants $/ /$ Lange $_ { \mathrm { ~ 0 ~ L ~ } }$ ， Kappen L,Schulze E D,eds.Water and Plant Life.Berlin，Heidelberg：Springer-Verlag，1976:281-305.  
+[9］张仁和，郑友军，马国胜，张兴华，路海东，史俊通，薛吉全.干旱胁迫对玉米苗期叶片光合作用和保护酶的影响.生态学报，2011，31(5)：1303-1311.  
+[10] 张文丽，张彤，吴冬秀，张岁岐，山仑.土壤逐渐干旱下玉米幼苗光合速率与蒸腾速率变化的研究.中国生态农业学报，2006，14（2)：72-75.  
+[11］田琳，谢晓金，包云轩，胡继超，於俐，王金鑫.不同生育期水分胁迫对夏玉米叶片光合生理特性的影响.中国农业气象，2013,34（6)：655-—660.  
+[12] 张喜英，裴冬，由懋正.几种作物的生理指标对土壤水分变动的阈值反应.植物生态学报，2000,24（3)：280-283.  
+[13] 朱自玺，侯建新.夏玉米土壤水分指标研究.气象，1988，14(9)：13-16.14 SadrasO,MilroySPSl-waterthesholdsforheesponesofeafexpasioadgasechange:areview.FieldCrosResarch96,47(2/3): 253-266.  
+[15] AlamMA,asaSroblEDVickitVespsofolcaltriofetatecitudatfreiclstages.Kasetsart Journal：Natural Science，2014，48(2）：183-196.  
+[16] 王秋玲，周广胜，麻雪艳.夏玉米叶片含水率及光合特性对不同强度持续干旱的响应.生态学杂志，2015，34（11)：3111-3117.  
+[17]FangSB,SuH,LiuW,TanKY，RenSX.Infraredwarmingreducedwinterwheatyieldsandsomephysiologicalparameters，icheremitigated by irrigation and worsened by delayed sowing.PLoS One，2O13,8(7）：e67518.  
+[18]Young D S.Computing tolerance intervals and regions using R. Handbook of Statistics，2014,32：309-338.  
+[19] KrishnamorthyK,MathewT.StatisticalToleranceRegions：Theory，Applications，and Computation.Hoboken，NJ：Wiley，2009.  
+[20] ISOCopyrightOffce.ISO6269：2（E)Statisticalinterpretationofdata—art6：detematiooftisticaltoleranceinterals.Switzerland：ISO Copyright Office,2005.  
+[21]中华人民共和国国家质量监督检验检疫总局，中国国家标准化管理委员会.GB/T3359-209 数据的统计处理和解释 统计容忍区间的确定.北京：中国标准出版社，2009.  
+[22] 麻雪艳，周广胜.夏玉米苗期主要生长指标的土壤水分临界点确定方法.生态学杂志，2017,36(6)：1761-1768.  
+[23] 中国气象局.GB/T20481-2006气象干旱等级.北京：中国标准出版社，2006.  
+[24] 卜令铎，张仁和，常宇，薛吉全，韩苗苗.苗期玉米叶片光合特性对水分胁迫的响应.生态学报，2010,30（5)：1184-1191.  
+[25] Ghannoum O. $\mathrm { C } _ { 4 }$ photosynthesis and water stress.Annals of Botany，2009,103(4）：635-644.  
+[26] FarquharGD,SharkeyTD.Stomatalconductanceandphotosynthesis.Anual Reviewof PlantPhysiology，1982,33：317-345.  
+[27] 周洪伟.正态性检验的几种常用的方法.南京晓庄学院学报，2012，（3)：13-18.  
+[28] ZhouSX,MedlBE,PriceICLgeaterrsdstoiatioofdoughtssivityfpotosyeticapacityinutriparian Eucalyptus species.Annals of Botany，2016,117(1)：133-144.  
+[29] 刘庚山，郭安红，任三学，安顺清，赵花荣.夏玉米苗期有限水分胁迫拔节期复水的补偿效应.生态学杂志，2004,23（3)：24-29.  
+[30] 郭相平，郭枫，刘展鹏，郝树荣.水分胁迫及复水对玉米光合速率及可溶性糖的影响.玉米科学，2008，16(6)：68-70.  
+[31] FlexasJ,BotaJ，alsJedraoH,bsrb.Kepigsiebonacedererseoiosposfoiand respiration to water stress.Physiologia Plantarum，2006,127(3）：343-352.  
+[32] 李玉欣，师长海，乔匀周，董宝娣，翟红梅，刘孟雨.不同水分条件下作物蒸腾效率的比较研究.干旱地区农业研究，2010，28（6)：40-46.  
+[33] 吴玮，景元书，马玉平，俄有浩，孙琳丽，郑腾飞.干旱环境下夏玉米各生育时期光响应特征.应用气象学报，2013，24(6)：723-730.  
+[34] Cano FJ,Lopez R，Warren C R. Implications of the mesophyll conductance to $\mathrm { C O } _ { 2 }$ for photosynthesis and water-use eficiency during long-termwater stressandrecovery in twocontrasting Eucalyptus species.Plant，Cell&Environment，2O14，37(11）:2470-2490.  
+[35]CzajosiTdsB，lteitialitsoflwateavalbity（CLW）forfrestres-aroacsedoantwaeaus.Landbauforschung Volkenrode，2009,59(2）：87-94.  
+[36] BoyerJS.Diferingseiivityofpotosysistlowawaterpotentialsinoandobanantysioog，97,46（2）6-9.  
+[37] LawlorDW，CoicGotoseticarboiilatiodasocatedmetablisielatiotatereficitsigherplatslant，ellEnvironment，2002，25(2)：275-294.  
+[38］孙启忠.四种冰草体内水分状况的研究.内蒙古草业，1990，（3）：45-48.  
+[39]SingllospsieesIteeldexpansion rate.Field Crops Research，2006,96(2/3）：199-206.

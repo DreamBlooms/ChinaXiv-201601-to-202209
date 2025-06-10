@@ -1,0 +1,204 @@
+# 少年夫妻老来伴：夫妻依恋与留守老人孤独感
+
+谢其利1,2 李崇敬³全小山4何　飞っ江光荣1('华中师范大学心理学院，青少年网络心理与行为教育部重点实验室，湖北省人的发展与心理健康重点实验室，武汉 430079)(贵州师范学院心理健康教育与咨询中心，贵阳 550018)(贵州师范大学，贵阳550001)(4安顺学院教育科学学院，安顺 561000)( 贵阳幼儿师范高等专科学校，贵阳 550001)
+
+摘要为考察留守老人的夫妻依恋及其与孤独感的关系，采用问卷法对 510名留守老人进行调查。结果表明留守老人安全型夫妻依恋比例低于城市老年人，拒绝型夫妻依恋比例高于城市老年人；领悟社会支持在留守老人依恋安全和依恋回避与孤独感的关系中起中介作用、领悟社会支持和核心自我评价在留守老人依恋安全和依恋回避与孤独感的关系中起链式多重中介作用，核心自我评价在留守老人依恋焦虑与孤独感的关系中起部分中介作用。上述结果表明夫妻依恋与留守老人孤独感关系密切，结果有利于拓展老年人夫妻依恋的研究范围并为降低留守老人孤独感提供参考。
+
+关键词夫妻依恋；领悟社会支持；核心自我评价；孤独感；留守老人
+
+分类号 B844
+
+# 1引言
+
+截至 2014 年底，我国60 岁以上留守老人约 5000 万，这是一个数量巨大的弱势群体(中华人民共和国国家卫生和计划生育委员会,2015)。研究表明留守老人孤独感强烈(谢其利，宛蓉，张睿，2017；张春林，张国兵，李志，伍业光，2012)，孤独感是一种消极的情绪体验(Jaremka etal.,2013)，长期的孤独体验会对老年人的身心健康造成负面影响，如导致较高的抑郁和焦虑、较低的主观幸福感和生活满意度(Jaremka et al.，2013；Richard et al.，2017;Santini et al.，2016；谢祥龙，段慧，谷传华，2014)，增高阿尔兹海默症的患病率(Andrew &Rockwood，2010)，导致较高的心血管疾病患病率和死亡率(Moyle，Kellett，Ballantyne，&Gracia,2011; Perissinotto,Stijacic Cenzer,& Covinsky,2012)。因而，探讨影响留守老年人孤独感的因素，为降低留守老人孤独感提供参考非常有必要。
+
+受中国传统文化的影响(加之目前中国农村社会养老体系尚处于完善中)，农村老年人特别重视来自家庭的支持，来自家庭成员(如配偶、成年子女)的支持对维护农村老年人的心理健康具有重要作用(Lin, Yin,& Loubere,2014; Zhang,Chen,Ran,& Ma,2016)。在成年子女长期外出务工的情况下配偶成为留守老人最重要的社会支持来源(Connelly& Maurer-Fazio,2016;Lin et al.,2014；谢其利等,2017; Zhang et al.,2016)，已有研究表明与配偶共同生活的留守老人的孤独感比独居留守老人低(谢其利等，2017；张春林等，2012)。但是，目前对留守老人夫妻关系的状况以及夫妻关系是如何缓解留守老人孤独感的探讨较少，需要进一步探讨。
+
+夫妻之间的相互依恋程度是夫妻关系亲密程度的重要体现(Hazan& Shaver,1987；王大华，杨小洋，王岩,& Miller,2015)。“依恋"这一概念最初是指婴儿与主要抚养者之间建立的一种特殊情感联系(Bowlby，1969)，研究者认为这种婴儿时期形成的特殊情感联系以及婴儿与抚养者在互动过程中形成的内部工作模型对个体心理的影响稳定地贯穿整个生命发展全程(Bowlby,1969；Collins，1996)，大量实证研究也证明依恋对个体的身心健康有持续的影响(Antonucci, Akiyama,& Takahashi,2004; van Assche et al.,2013)。随着依恋研究的推进，研究者(Hazan& Shaver,1987)发现个体依恋的对象并不局限于生命早期的主要抚养者，生命发展过程中的其他重要他人(如家庭成员、恋爱伴侣、教师和朋友)也可能成为重要的依恋对象。自然而然，婚姻伴侣是成年人生活中最重要的依恋对象之一，夫妻依恋(romantic attchment)也是成年人最为重要的特定依恋之一(Hazan& Shaver,1987)。
+
+社会情绪选择理论 (Socioemotional Selectivity Theory，SST)认为，老年人以情绪目标为主导安排自己的社会交往，把更多的精力集中在重要关系(如夫妻关系、亲子关系)上，从而提升自己的积极体验(Carstensen et al.,2011)。事实的确如此，随着年龄的增加，老年人开始逐渐从社会生活中退出，开始丧失朋友和亲人、依恋对象的数量和类型逐渐减少，他们更加专注于家庭生活(van Assche etal.,2013)。基于一般依恋的研究结果表明安全的依恋与老年人心理健康水平正相关，不安全的依恋与老年人心理健康水平负相关(Bodner& Cohen-Fridel,2010; Kafetsios & Sideridis,2006; Mikulincer & Shaver,2007; van Assche et al.,2013)，安全的依恋有助于降低老年人的孤独感(Halat & Hovardaoglu,2010; Holtfreter, Reisig,& Turanovic,2016;Kuwert,Knaevelsrud,&Pietrzak,2014)。由于成年子女外出务工，留守老人日常生活中缺少了成年子女这一重要的依恋对象，依恋对象的数量比一般老年人更少，夫妻依恋对缓解留守老人孤独感的重要性更加凸显。
+
+依恋理论认为，安全的依恋就像一个基地，让个体可以放心地探索未知的世界，以积极的眼光看待外部世界(Bowlby，1969)。依恋安全水平较高的个体更容易主动与他人互动沟通并更多感知到来自他人的社会支持，与依恋安全水平较低的个体相比，依恋安全水平较高的个体拥有更真诚、更亲密的人际关系(Merz& Consedine,2009; Zhang et al.,2016)。良好的社会支持是缓解老年人孤独感、提高老年人心理健康的重要因素(Poulin,Deng,Ingersoll,Witt,& Swain,2012; Timm& Keile,2011; Zhang et al.,2016)，因而社会支持在老年人依恋与心理健康的关系中起中介作用(Kafetsios & Sideridis,2006;Merz& Consedine,2009; Zhang et al,2016)。已有研究(王大华，张明妍,2011)表明夫妻依恋与配偶支持关系密切，但是夫妻依恋这一特定的依恋是否会像一般依恋一样起着“基地"的作用，影响老年人更为广泛的社会支持是一个有趣的问题。夫妻依恋虽然和一般依恋有一定的区别，但也有诸多相似之处(Hazan&Shaver,1987；王大华等,2015；翟晓艳，李春花，魏红，王大华,2010)，因而一个有意思的假设是：夫妻依恋可能也会发挥“基地"的作用，让留守老人获得来自配偶以外的更为广泛的社会支持，社会支持可能在留守老人夫妻依恋与孤独感的关系中起中介作用。
+
+Judge,Erez,Bono 和Thoresen (2003)认为个体的核心自我评价由自尊、控制点、神经质和一般自我效能4种人格特质所构成，是个体对于自我持有的基本的、核心的价值判断。依恋的内部工作模型认为，拥有安全依恋的个体倾向于采用积极的工作模型评价自己和他人的价值，而拥有不安全依恋的个体倾向于采用消极的工作模型评价自己和他人的价值(Collins,1996; Schmitt et al.,2004)，拥有安全依恋的个体对自己的评价更高，而拥有不安全依恋的个体对自己评价较低(Mikulincer& Shaver,2007)。夫妻依恋大多在个体 20 岁以上才开始逐渐形成，此时个体的自我评价已经具有了一定的稳定性。但是个体的自己评价并非一成不变的、而是毕生发展的，在个体自我评价毕生发展的过程中，支持性、亲密的人际关系会显著提高成年个体的自我评价(Orth,Trzesniewski,&Robins,2010)。因而，拥有安全夫妻依恋的留守老人的核心自我评价可能更高。已有研究表明自我价值感与老年人孤独感关系密切，自我价值感高的老年人孤独感更少(McCarthy& Davies,2003；谢其利等,2017)。而且，在面临逆境时安全的依恋对个体的自我价值感有较好的保护作用，可以避免或减少个体的自我评价受到逆境的负面影响(McCarthy&Davies,2003)。因而，安全的夫妻依恋对处在留守这一逆境中的老年人的核心自我评价可能有保护作用，核心自我评价可能在留守老人夫妻依恋与孤独感的关系中起中介作用。
+
+依恋理论和实证研究均表明安全的依恋会让个体感知到更多的社会支持(Bowlby,1969;Merz&Consedine,2009; Zhang et al.,2016)。而来自他人的社会支持和反馈会显著影响个体自我价值的形成和维护，感知到更多社会支持和积极反馈的个体的自我价值感更高，缺乏社会支持以及经常感知到消极反馈的个体的自我价值感较低(Nguyen，Chatters，Taylor，&Mouzon,2016; Orth et al.,2010; Poulin et al.,2012)。自我价值感又与老年人的孤独感关系密切，自我价值感高的老年人孤独感更低(McCarthy &Davies,2003; Poulin et al.,2012；谢其利等,2017; Zhang et al.,2016)。因而，社会支持和核心自我评价可能会在夫妻依恋与留守老人孤独感的关系中起链式多重中介作用。
+
+综上所述，相关理论和在普通老年人群体中的实证研究均表明依恋与孤独感的关系密切，并且依恋可能会通过社会支持和核心自我评价间接影响老年人孤独感。但是，中国留守老人夫妻依恋的基本状况如何，夫妻依恋是否可以缓解留守老人孤独感以及通过何种途径缓解留守老人孤独感有待进一步探讨。此外，以城市社区老年人为研究对象的本土化研究(王大华等,2015；翟晓艳等,2010)表明中国老年人夫妻依恋包含安全、回避和焦虑三个维度(不同于传统依恋研究中依恋回避和依恋焦虑的两维结构)，但是，中国老年人夫妻依恋的三维结构未在农村老年人群体中验证过，而且中国老年人夫妻依恋的三个维度与孤独感的关系也不清楚，非常有必要进行探讨。因而，本研究拟探讨以下问题：1.在中国农村留守老人群体中验证老年人夫妻依恋的三维结构；2.留守老人的夫妻依恋基本情况；3.夫妻依恋与留守老人孤独感的关系以及夫妻依恋维度影响留守老人孤独感的路径。基于相关理论和已有研究，提出如图 $^ 1$ 的假设模型。
+
+![](images/8c5bda8c75168353e6d72622e90ebf3966de5ef8a418c22c1fb99e95cbe40aad.jpg)  
+图1假设模型图
+
+# 2研究对象与方法
+
+# 2.1 研究对象
+
+研究对象是60 岁以上、配偶健在(含再婚)的留守老年人，选取的标准是：子女及子女配偶外出务工、常年不在本村居住半年及以上，老人与配偶一起居住(Connelly&Maurer-Fazio,2016)。两所高校应用心理学专业志愿参与调查的学生利用假期在贵州、湖南、重庆、四川、河南、云南等6省市(以贵州省为主)77个区县的农村地区通过方便取样的方法进行调查，共调查510名留守老人,510名留守老人的年龄在60\~88岁间，平均年龄 $6 8 . 0 5 \pm 6 . 2 3 \$ 岁，平均婚龄 $4 1 . 2 3 \pm 4 . 3 7$ 年；性别：男性269人 $( 5 2 . 7 5 \% )$ ，女性241人 $( 4 7 . 2 5 \% )$ ；文化程度：文盲 173人 $( 3 3 . 9 2 \%$ ），小学275人 $( 5 3 . 9 2 \% )$ ，初中42人 $( 8 . 2 4 \% )$ ，初中以上20人 $( 3 . 9 2 \% )$ ；职业：农民$4 7 6 ( 9 3 . 3 3 \% )$ ，非农民34人 $( 6 . 6 7 \% )$ 。
+
+# 2.2 研究工具
+
+# 2.2.1 老年人夫妻依恋问卷
+
+采用符合中国老年人实际情况的《老年人夫妻依恋问卷》（王大华等，2015；翟晓艳等，2010)，原问卷含18个条目，被试根据自己与配偶的相处的实际情形进行7点评定( $1 =$ 完全不同意, $7 =$ 完全同意)，原问卷包含依恋安全、依恋回避和依恋焦虑3个维度,3个维度的重测信度在0.87\~0.91之间，总量表的重测信度为0.88。由于已有研究(王大华等,2015；翟晓艳等，2010)均是以城市社区老年人为研究对象，未在农村老年人群体中检验过该量表的结构，所以本研究采用和已有研究(王大华等,2015；翟晓艳等,2010)基本相同的方法在留守老人群体中对量表的结构进行检验。在平衡性别、年龄、婚龄、文化程度等人口学因素的基础上将510 份数据分半，255 份数据用于探索性因素分析(EFA)，255份数据用于验证性因素分析(CFA)。EFA 结果表明，18个条目可提取出4个特征根大于1的因素，4个因素累计可解释$6 1 . 5 1 \%$ 的总变异。进一步核查项目的因素载荷，发现第4个因素只有2个条目、且这2个条目均在两个因素上有大于0.40的负荷，另有1个条目也在两个因素上有大于0.40的负荷，有1个条目的因素负荷小于0.4，删除这4个条目重新EFA，结果表明可以提取3个特征根大于1的因素，3个因素可解释 $6 0 . 7 5 \%$ 的总体变异。3个因素分别为：依恋回避，解释 $3 3 . 5 1 \%$ 的总变异；依恋安全，解释 $1 6 . 2 9 \%$ 的总变异；依恋焦虑，解释 $1 0 . 9 5 \%$ 的总变异。14个条目均表现出题项单极化并且最大载荷均出现在原量表构想的维度上，因素载荷分布范围在$0 . 6 4 \mathrm { \sim } 0 . 8 7$ 之间。采用另一半数据进行CFA，结果表明, $\chi ^ { 2 } = 2 1 5 . 3 4 , d f = 7 4 , \chi ^ { 2 } / d f = 2 . 9 1$ RMSEA $= 0 . 0 7$ $\mathrm { N F I } = 0 . 9 0$ 、 $\operatorname { I F I } = 0 . 9 1$ 、 $\mathrm { C F I } = 0 . 9 2$ ，拟合良好。在本研究中，修改后问卷依恋安全维度的Cronbach's $\mathfrak { a }$ 系数为0.77，依恋回避维度的Cronbach's $\mathbf { \Delta } _ { a }$ 系数为0.79，依恋焦虑维度的 Cronbach's $\mathfrak { a }$ 系数为 $0 . 6 9$ 。
+
+# 2.2.2 领悟社会支持问卷
+
+问卷用于考察个体感受到的来自他人的社会支持(Dahlem,Zimet,&Walker,1991)。问卷含家庭支持、朋友支持和其他支持3个维度，每个维度4个条目，量表采用7级计分( $1 =$ 极不同意， $7 \ : = \ :$ 极同意)，项目累加求总分，总分越高表明个体感知的社会支持越强。本研究CFA 结果表明, $\chi ^ { 2 } = 2 0 8 . 1$ $d f = 5 1$ $\chi ^ { 2 } / d f = 4 . 0 6$ ,RMSEA $= 0 . 0 7$ $\mathrm { N F I } = 0 . 9 1$ 、 $\operatorname { I F I } = 0 . 9 0$ 、 $\mathrm { C F I } =$
+
+0.92，拟合良好。本研究中家庭支持维度的Cronbach's $\mathfrak { a }$ 系数为0.74，朋友支持维度的Cronbach's $\mathfrak { a }$ 系数为0.80，其他支持维度的Cronbach's $\mathfrak { a }$ 系数为0.76。
+
+# 2.2.3 核心自我评价量表
+
+量表由Judge 等(2003)编制，是一个单维量表，用于评定个体的自尊、控制点、神经质和一般自我效能等4种人格特质。本研究采用的修订后的问卷包含10个条目(杜建政，张翔，赵燕，2012)，量表采用4级评分( $1 =$ 完全不符合, $4 =$ 完全符合)，总分越高表明个体对自己的评价越积极。本研究CFA 结果表明, $\chi ^ { 2 } = 1 5 2 . 9 5$ ， $d f = 3 5$ $\chi ^ { 2 } / d f = 4 . 3 7$ ,RMSEA $= 0 . 0 8$ ,NFI $\mathbf { \Sigma } = \mathbf { \Sigma }$ 0.89、 $\mathrm { I F I } = 0 . 8 6$ 、 $\mathrm { C F I } = 0 . 8 9$ ，拟合较好。本研究中量表的Cronbach's $\mathfrak { a }$ 系数为0.71。
+
+# 2.2.4ULS-8孤独感量表
+
+量表由Hays 和DiMateo (1987)编制，是一个单维量表，周亮等(周亮，黎芝，胡宓，肖水源，2012)在中国农村群体中验证了该量表的信度和效度，量表包含8个条目，采用4级评分0 $1 =$ 完全不符合, $4 =$ 完全符合)，总分越高表明个体孤独感越强烈。本研究CFA结果表明， $\chi ^ { 2 }$ = 74.14, df= 20, $\chi ^ { 2 } / d f = 3 . 7 1$ ,RMSEA $= 0 . 0 7$ $\mathrm { N F I } = 0 . 8 9$ 、 $\mathrm { I F I } = 0 . 9 2$ 、 $\mathrm { C F I } = 0 . 9 0$ ，拟合良好。本研究中量表的Cronbach's $\mathfrak { a }$ 系数为 $0 . 7 7$ 。
+
+# 2.3 调查程序
+
+调查员由两所高校应用心理学专业志愿参与调查的学生担任，调查员利用假期的时间采用方便取样的方式入户调查。在正式调查前研究者共同讨论、编写调查指导手册，并由研究者对所有调查员进行个人调查的培训并强调调查的伦理问题(志愿参加、保密、确保问卷真实性等)。在调查前首先征得老年人的同意，排除不能理解题目、不能自主表达自己意思的留守老人。填写问卷前调查员讲清楚指导语，有能力自行填写问卷的老年人请其自行填写，不识字(或者由于视力等原因不能自行填写)的老年人由调查员逐条将题目读给老年人，老年人独立选择后由调查员将选项记录在量表上，填写完成后当场核查、回收问卷，调查结束后赠予参加调查的老年人一份小礼品。
+
+# 2.4共同方法偏差控制
+
+首先从测量程序方面对共同方法偏差进行控制，如整个调查匿名进行、对不同问卷的指导语、计分方式等进行适当的变换、部分条目使用反向计分。在进行数据正式分析前采用Harman单因素检验法进行检验(熊红星，张璟，叶宝娟，郑雪，孙配贞,2012)，对总体48个项目进行单因子验证性因素分析，结果显示模型拟合不佳 $( \chi ^ { 2 } = 6 7 5 8 . 7 6 , d f = 1 0 8 0 , \chi ^ { 2 } / d f = 6 . 2 6$ RMSEA $= 0 . 0 9 8$ ， $\mathrm { C F I } = 0 . 3 9$ ， $\mathrm { N F I } = 0 . 3 5$ ， $\mathrm { I F I } = 0 . 3 9 \$ )，表明本研究中共同方法偏差得到较好控制、共同方法偏差不明显。
+
+# 2.5 统计方法
+
+采用SPSS20.0统计软件和AMOS20.0统计软件进行数据管理和分析。
+
+# 3结果
+
+# 3.1留守老人夫妻依恋基本情况
+
+为了解留守老人的夫妻依恋风格，将留守老人的依恋维度分数转化成依恋类型(Becker,Billings,Evelrth,&Gilbert,1997；翟晓艳等,2010)。首先对留守老人在《老年人夫妻依恋问卷》三个维度上的分数进行标准分的计算，然后采用K-means 聚类法对夫妻依恋类型进行划分，聚类摘要见表1。聚类分析表明留守老人夫妻依恋可以分为3类(Beckeretal.，1997；翟晓艳等，2010)：(1）安全型夫妻依恋：在依恋焦虑和依恋回避维度上得分均较低，而在依恋安全维度上得分较高。表现为能自在地与老伴相处，遇到事情能主动向老伴寻求帮助和支持，相信自己值得老伴关心，相信老伴尊重、理解和喜欢自己。(2）拒绝型夫妻依恋：依恋焦虑和依恋回避维度分数均较高，依恋安全维度分数较低，表现为不喜欢和老伴有亲密的情感联结，喜欢和老伴保持距离。(3）焦虑型夫妻依恋：在三个维度上得分均较高。表现为不自信，担心老伴嫌弃自己，担心老伴不能真正理解自己。为了验证聚类结果的合理性，根据聚类的结果，以依恋维度为结果变量，以依恋类型为自变量进行多因素方差分析。结果表明，在依恋安全维度上，三种依恋类型之间存在显著差异, $F ( 2 , 5 0 8 ) = 4 9 3 . 5 3 \$ ， $p < 0 . 0 0 1$ ， $\mathfrak { \eta } ^ { 2 } = 0 . 6 6$ ；在依恋回避维度上，三种依恋类型之间存在显著差异, $F ( 2 , 5 0 8 ) = 2 7 5 . 1 6$ $p < 0 . 0 0 1$ ， $\mathfrak { \eta } ^ { 2 } = 0 . 5 2$ 在依恋焦虑维度上，三种依恋类型之间存在显著差异， $F ( 2 , 5 0 8 ) = 1 9 2 . 1 6 \$ ， $p \ < \ 0 . 0 0 1$ ， $\boldsymbol { \eta } ^ { 2 } =$ 0.43。表明本研究聚类的结果是合理的。
+
+表1留守老人夫妻依恋类型聚类分析摘要统计表  
+
+<html><body><table><tr><td>依恋维度</td><td>安全型夫妻依恋</td><td>拒绝型夫妻依恋</td><td>焦虑型夫妻依恋</td></tr><tr><td>依恋安全中心</td><td>0.73</td><td>-1.21</td><td>0.34</td></tr><tr><td>依恋回避中心</td><td>-0.94</td><td>0.37</td><td>0.72</td></tr><tr><td>依恋焦虑中心</td><td>-0.76</td><td>0.12</td><td>0.80</td></tr><tr><td>留守老人样本数(%)</td><td>193 (37.84%)</td><td>159 (31.18%)</td><td>158 (30.98%)</td></tr><tr><td>城市社区老人样本数(%)</td><td>244 (56.2%)</td><td>50 (11.5%)</td><td>140 (32.3%)</td></tr></table></body></html>
+
+注：城市社区老年人夫妻依恋类型数据来源：翟晓艳等(2010).
+
+表1表明，留守老年人安全型夫妻依恋人数为193人 $( 3 7 . 8 4 \% )$ ，拒绝型夫妻依恋人数为159人 $( 3 1 . 1 8 \% )$ ，焦虑型夫妻依恋人数为158人 $( 3 0 . 9 8 \% )$ 。将留守老人夫妻依恋类型情况和城市社区老年人夫妻依恋类型情况进行比较有助于更好地理解留守老人的夫妻依恋类型情况(见表1), $\chi ^ { 2 }$ 分析表明，留守老人和社区老人的夫妻依恋类型整体上存在差异 $( \chi ^ { 2 } = 5 8 . 7 1$ ， $d f =$ 2, $p < 0 . 0 0 1$ , Cramer's $\begin{array} { r } { \varphi = 0 . 2 4 { \mathrm { . } } } \end{array}$ ），留守老人安全型夫妻依恋类型的比例显著低于城市社区老年人 $( Z = - 5 . 6 3 , p < 0 . 0 0 1 )$ ，留守老人拒绝型夫妻依恋的比例显著高于城市社区老年人 $( Z =$ 7.01, $p \ < \ 0 . 0 0 1 \rangle$ ，留守老人焦虑型夫妻依恋的比例与城市社区老年人无显著差异 $( Z = - 0 . 4 5$ $p > 0 . 0 5 )$ 。
+
+# 3.2不同夫妻依恋类型留守老人领悟社会支持、核心自我评价和孤独感的差异
+
+表2表明，三种夫妻依恋类型留守老人的核心自我评价、领悟社会支持和孤独感均存在显著差异。进一步事后检验(LSD法)表明，安全型夫妻依恋留守老人的领悟社会支持和核心自我评价显著高于拒绝型和焦虑型夫妻依恋的留守老人；安全型夫妻依恋留守老人的孤独感显著低于拒绝型和焦虑型夫妻依恋的留守老人；焦虑型夫妻依恋留守老人的领悟社会支持高于拒绝型夫妻依恋留守老人。
+
+表2不同夫妻依恋类型留守老人领悟社会支持、核心自我评价和孤独感的差异  
+
+<html><body><table><tr><td>变量</td><td>1.安全型依恋</td><td>2.拒绝型依恋</td><td>3.焦虑型依恋</td><td>F值</td><td>n²</td><td>事后比较</td></tr><tr><td>领悟社会支持</td><td>5.10 (0.77)</td><td>4.27 (0.80)</td><td>4.67 (0.79)</td><td>46.52***</td><td>0.16</td><td>1>2,1>3,3>2</td></tr><tr><td>核心自我评价</td><td>2.87 (0.33)</td><td>2.62 (0.32)</td><td>2.67 (0.36)</td><td>24.57***</td><td>0.09</td><td>1>2,1>3</td></tr><tr><td>孤独感</td><td>2.21 (0.39)</td><td>2.51 (0.31)</td><td>2.47 (0.39)</td><td>33.31***</td><td>0.12</td><td>1<2,1<3</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$ 下同。
+
+# 3.3留守老人夫妻依恋、领悟社会支持、核心自我评价和孤独感的相关分析
+
+相关分析结果表明，留守老人夫妻依恋各维度与领悟社会支持各维度及总分、核心自我评价和孤独感的两两相关均显著(具体请见表 3)。
+
+表3留守老人各研究变量描述统计及相关分析  
+
+<html><body><table><tr><td>变量</td><td>M (SD)</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr><td>1.依恋安全</td><td>3.16 (0.66)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2.依恋回避</td><td>2.41 (0.74)</td><td>-0.34***</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3.依恋焦虑</td><td>2.61 (0.68)</td><td>-0.19***</td><td>0.52***</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.家庭支持</td><td>4.80 (1.02)</td><td>0.39***</td><td>-0.25***</td><td>-0.15**</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.朋友支持</td><td>4.52 (0.79)</td><td>0.28***</td><td>-0.16***</td><td>-0.08*</td><td>0.60***</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6.其他支持</td><td>4.78 (0.97)</td><td>0.41***</td><td>-0.27***</td><td>-0.11**</td><td>0.74***</td><td>0.52***</td><td></td><td></td><td></td><td></td></tr><tr><td>7.领悟社会支持</td><td>4.71 (0.86)</td><td>0.42***</td><td>-0.26***</td><td>-0.14**</td><td>0.91***</td><td>0.82***</td><td>0.87***</td><td></td><td></td><td></td></tr><tr><td>8.核心自我评价</td><td>2.19 (1.12)</td><td>0.26***</td><td>-0.24***</td><td>-0.24***</td><td>0.41***</td><td>0.27***</td><td>0.39***</td><td>0.42***</td><td></td><td></td></tr><tr><td>9.孤独感</td><td>2.35 (0.43)</td><td>-0.16***</td><td>0.29***</td><td>0.39***</td><td>-0.37***</td><td>-0.29***</td><td>-0.30***</td><td>-0.37***</td><td>-0.46***</td><td></td></tr></table></body></html>
+
+# 3.4结构方程模型的建立
+
+本研究中多个变量之间两两相关，采用结构方程模型分析变量之间的关系更为有效(吴明隆,2013)。为了控制由于潜变量的多个项目造成的膨胀测量误差，在进行模型建构前对题目较多的单维量表进行项目打包(吴艳，温忠麟,2011)。在项目打包之前，需要对单维量表进行理论核查和CFA 检验，如果检验结果不理想，应重新检查和提炼测量结构。CFA检验结果表明《核心自我评价问卷》和《ULS-8孤独感量表》均符合单维同质的打包前提(拟合情况请见研究工具部分)，因而采用"项目-结构平衡法"对《核心自我评价问卷》和《ULS-8 孤独感量表》进行打包处理(吴艳，温忠麟，2011)。结构方程检验表明测量模型与数据拟合良好，各因子载荷均显著(系数均在0.5 以上, $p$ 值均小于0.001，见图2)，表明观测变量较好地反映了所要观测的潜变量，可以进行结构方程分析。
+
+在检验包含中介变量的模型前，先检验夫妻依恋对留守老人孤独感的直接预测作用，分层回归分析结果表明，夫妻依恋的 3个维度均显著预测留守老人的孤独感(依恋安全， $\beta =$ $- 0 . 2 7 , p < 0 . 0 1$ ；依恋回避, $\beta = 0 . 4 5 , p < 0 . 0 0 1$ ；依恋焦虑, $\beta = 0 . 6 0 , p < 0 . 0 0 1 )$ 。接着，用农村留守老人数据拟合包含中介变量(领悟社会支持和核心自我评价)的模型，结果表明模型拟合良好， $\chi ^ { 2 } = 6 7 9 . 7 7 , d f = 1 9 4 , \chi ^ { 2 } / d f = 3 . 5 0 , \mathrm { N F I } = 0 . 8 9 ,$ ， $\operatorname { I F I } = 0 . 9 0$ 、 $\mathrm { C F I } = 0 . 9 1 \$ 、 $\mathrm { R M S E A } = 0 . 0 7$ ，但是部分路径系数不显著(依恋安全到孤独感, $\beta = - 0 . 1 2 , p > 0 . 0 5$ ；依恋安全到核心自我评价， $\beta$ $= 0 . 0 2 , p > 0 . 0 5$ ；依恋回避到孤独感， $\beta = 0 . 0 5 , p > 0 . 0 5$ ；依恋回避到核心自我评价， $\beta = - 0 . 0 1$ ，$p > 0 . 0 5$ ；依恋焦虑到领悟社会支持， $\beta = - 0 . 0 9 , p > 0 . 0 5 )$ 。为使模型更为简洁，尝试删除不显著的路径系数后重新拟合模型，结果表明模型拟合良好， $\chi ^ { 2 } = 6 8 7 . 4 8$ ， $d f = 1 9 9$ ， $\chi ^ { 2 } / d f = 3 . 4 5$ $\mathrm { N F I } = 0 . 9 0$ 、 $\mathrm { I F I } = 0 . 9 2$ 、 $\mathrm { C F I } = 0 . 9 1 \$ 、 $\mathrm { R M S E A } = 0 . 0 7$ 。两个模型的 $\Delta \chi ^ { 2 } = 7 . 7 1 , \Delta d f = 5 , \Delta \chi ^ { 2 } / d f =$ 1.54, $p > 0 . 0 5$ ，这表明删除不显著路径之后的简洁模型和假设模型整体上没有差异，但是简洁模型的部分拟合参数更优，所以删除不显著路径系数后的简洁模型为最优模型。留守老人各变量之间的标准化系数具体请见图2。
+
+![](images/5d50a5c551b38ad830eeedb2053606c0a4b3985c6fbb9e4f5269ec7d72acb71c.jpg)  
+图2夫妻依恋与留守老人孤独感结构方程模型图
+
+注：A1-14是《老年人夫妻依恋问卷》条目;CSE1-3是《核心自我评价量表》打包题目组;Lone1、2是《ULS-8孤独感量表》打包题目组，图中系数均在0.001水平上显著。
+
+# 3.5 中介效应检验
+
+采用偏差校正的Bootstrap 方法检验领悟社会支持和核心自我评价在留守老人夫妻依恋与孤独感之间的中介效应(方杰，张敏强,2012)。在农村留守老人的原始数据 $( N = 5 1 0 )$ 中抽取3000 个 Bootstrap 样本进行间接效应估计，表4显示了各个间接路径的估计值和中介效应的$9 5 \%$ 置信区间，如果 $9 5 \%$ 置信区间没有包括0，表明中介效应显著(方杰，张敏强,2012)。图 2和表4的结果表明，领悟社会支持在依恋安全、依恋回避与留守老人孤独感的关系中起中介作用；领悟社会支持和核心自我评价在依恋安全、依恋回避与留守老人孤独感的关系中起链式中介作用；核心自我评价在依恋焦虑与留守老人孤独感的关系中起部分中介作用，中介效应占总效应的比例为 $- 0 . 2 3 \times ( - 0 . 3 5 ) \div [ 0 . 4 1 + ( - 0 . 2 3 ) \times ( - 0 . 3 5 ) ] = 1 6 . 4 1 \%$ （204
+
+表4领悟社会支持、核心自我评价在夫妻依恋与留守老人孤独感之间中介效应检验的 Bootstrap 分  
+
+<html><body><table><tr><td rowspan="2">路径</td><td rowspan="2">标准化的间接效应估计</td><td colspan="2">95%置信区间</td></tr><tr><td>下限</td><td>上限</td></tr><tr><td>1.依恋安全—领悟社会支持—孤独感</td><td>0.44×(-0.21)= -0.09</td><td>-0.11</td><td>-0.08</td></tr><tr><td>2.依恋安全—领悟社会支持—核心自我评价—孤独感</td><td>0.44x0.53x(-0.35)= -0.08</td><td>-0.11</td><td>-0.05</td></tr><tr><td>3.依恋回避—领悟社会支持—孤独感</td><td>-0.15x(-0.21)= 0.03</td><td>0.01</td><td>0.05</td></tr><tr><td>4.依恋回避—领悟社会支持—核心自我评价—孤独感</td><td>-0.15x0.53x(-0.35)=0.03</td><td>0.02</td><td>0.05</td></tr><tr><td>5.依恋焦虑- 核心自我评价- 孤独感</td><td>-0.23x(-0.35)= 0.08</td><td>0.03</td><td>0.16</td></tr></table></body></html>
+
+# 4讨论
+
+本研究表明《老年人夫妻依恋问卷》的三维结构在农村留守老年人群体中成立，包含依恋安全、依恋回避和依恋焦虑三个维度。这一结果和在中国城市社区老人群体中的结果一致(王大华等，2015；翟晓艳等，2010)，与此前国外大多数成人依恋问卷包含依恋回避和依恋焦虑的两维结构不同(Mikulincer& Shaver,2007)。研究者(王大华等,2015；翟晓艳等,2010)认为在中国文化背景下的老年人夫妻依恋中的"依恋安全"维度体现了中国文化的特殊性。可能的原因是与个体主义文化背景下的老年人相比，集体主义文化背景下的中国老年人更关注和善于营造和睦的婚姻关系，有更多的积极情感体验，也更乐意报告较积极的情感体验(王大华等,2015；翟晓艳等,2010)。而且并不是所有的成人依恋问卷都是两维结构，例如成人依恋量表(AAS)就包含亲近、依赖和焦虑三个维度(Collins,1996)，不过在后期数据处理时将亲近和依赖维度进行了合并，Schmitt 等(2004)在 62 个国家和地区调查成年人夫妻依恋的结果也表明夫妻依恋的维度和类型均会受到文化背景的影响。本研究在留守老人群体中验证了《老年人夫妻依恋问卷》的三维结构，表明了中国老年人夫妻依恋三维结构的稳定性。但是本研究的结果和在城市社区老年人中的结果也有一些不同：因素分析的结果表明依恋回避维度是解释力最大的维度，和在城市社区老年人群体中依恋安全维度是解释力最大的结果不一致(王大华等,2015；翟晓艳等,2010)，这一结果可能和农村留守老人的夫妻依恋的特点有关，具体的原因有待进一步的研究进行探讨。
+
+本研究结果表明，农村留守老人安全型夫妻依恋类型的比例低于不安全型夫妻依恋(拒绝型和焦虑型)，这一结果和已有研究(王大华等,2015；翟晓艳等,2010)认为中国老年人夫妻依恋中安全型夫妻依恋占主要类型的结果不一致。进一步的分析表明，留守老人安全型夫妻依恋比例低于城市社区老人安全型夫妻依恋的比例、拒绝型夫妻依恋的比例高于城市社区老人(王大华等,2015；翟晓艳等，2010)。可能的原因是在子女外出务工的情况下，大多数留守老人需要照顾家庭、看管孙辈、承担更多的农活和家务，而在"男主外女主内"的传统家庭观念的分工下，农村男性老人在日常生活中要承担较多的农活，而女性老年人更多承担家务，夫妻在一起劳作、交流的时间较少，因而在空间和心理上和老伴保持一定的距离。此外，本研究结果表明拥有安全型夫妻依恋的留守老人社会支持和自我评价更高、孤独感更低，和以普通老年人为研究对象的研究结果一致(Halat& Hovardaoglu,2010;Holtfreter et al.，2016;Kuwert etal.，2014)，提示在成年子女长期外出的情况下经营安全夫妻依恋有助于降低留守老人的孤独感。
+
+本研究在已有研究(王大华等,2015；翟晓艳等,2010)的基础上进一步探讨中国文化背景下老年夫妻依恋的三个维度与孤独感之间的关系、并探讨领悟社会支持和核心自我评价的中介作用。相关分析表明依恋安全和领悟社会支持各维度及总分均显著正相关，表明拥有安全依恋的留守老人可以从家庭以外感知和获得更多的社会支持，安全的夫妻依恋确实起到了类似一般依恋的"安全基地"的作用(Bowlby,1969; Zhang et al.,2016)。中介效应分析表明依恋安全通过提高领悟社会支持的路径间接地降低留守老人的孤独感，此外，依恋安全还通过领悟社会支持、核心自我评价的链式中介路径降低孤独感，这一结果和我们的假设一致。已有研究(王大华等,2015；翟晓艳等,2010)表明依恋安全这一积极的维度是中国文化背景下独有的、积极的维度，本研究的结果证实老年人夫妻依恋的依恋安全维度确实会提高留守老人的社会支持并提高其对自身的评价，从而降低其孤独感，表明中国文化背景下的夫妻依恋安全维度对降低留守老人孤独感有积极作用。
+
+基于依恋两维结构的研究表明依恋回避和依恋焦虑影响个体心理的路径并不一样(Zhang etal.,2016)，本研究结果也表明中国文化背景下老年人夫妻依恋的安全、回避和焦虑三个维度影响留守老人孤独感的路径并不一致，依恋安全、依恋回避对孤独感的作用主要是通过领悟社会支持和核心自我评价间接起作用，而依恋焦虑的直接作用更大，核心自我评价在依恋焦虑与孤独感的关系中只起到部分中介的作用。本研究表明依恋回避与领悟社会支持负相关，说明夫妻依恋中的依恋回避行为会导致留守老人消极寻求社会支持和导致较低的社会交往技能(Gillath,Johnson,Selcuk,& Teel, 2011; Mallinckrodt & Wei,2005; Zhang et al.,2016)。依恋回避还通过降低社会支持的路径间接导致留守老人较高的孤独感，这一结果和已有研究认为依恋回避得分高会降低老年人心理健康水平的结果一致(Mallinckrodt& Wei,2005；Zhang et al.，2016)，此外，依恋回避还通过降低领悟社会支持进一步降低核心自我评价的途径导致留守老人较高的孤独感，提示要需要重视夫妻依恋回避行为对留守老人孤独感的影响。本研究表明夫妻依恋中的依恋焦虑维度除了直接预测留守老人孤独感外，还通过核心自我评价间接影响留守老人孤独感，依恋焦虑与核心自我评价负相关，而核心自我评价与孤独感负相关，和已有的结果一致(Mikulincer& Shaver,2007；Roberts,Gotlib,& Kassel,1996;Zhangetal.,2016)，这一结果在中国留守老人群体中部分验证了依恋的内部工作模型,表明在长期的夫妻共同生活中，夫妻依恋与留守老人的自我评价密切相关。
+
+本研究尚存在以下不足：首先，本研究没有选取农村非留守老人进行调查，无法考察子女外出对留守老人夫妻依恋的影响，本研究中用于比较的城市老年人样本取样时间与本研究相距时间较长且留守老人与城市社区老人的差异较大，后续研究应该选取包含农村和城市老年人的样本；其次，本研究是一个横断研究，只能在统计上证明中介效应和因果关系，后续研究应采用追踪范式进一步验证；此外，由于取样的困难，本研究采用方便取样，样本的代表性略显不足；另外，本研究采用的是自评量表，无法完全避免社会赞许效应，后续研究应结合他评的方式加以改进。
+
+尽管存在一些不足，但是本研究还是具有一定的意义的。首先，在中国留守老人群体中验证了《老年人夫妻依恋问卷》的三维结构，是对老年人夫妻依恋本土化研究的一个补充；其次，本研究初步了解了留守老人夫妻依恋的特点，并进一步探讨夫妻依恋3个维度与留守老人孤独感的关系以及领悟社会支持、核心自我评价的中介作用，为降低留守老人孤独感提供参考，具有一定的现实意义，也是对老年人夫妻依恋本土化研究的推进。
+
+# 5结论
+
+《老年人夫妻依恋问卷》具有稳定的三维结构(依恋安全、依恋回避和依恋焦虑)。夫妻依恋与留守老人孤独感关系密切，依恋安全维度和依恋回避维度通过领悟社会支持和核心自我评价间接影响留守老人的孤独感，依恋焦虑维度除了直接影响留守老人孤独感外还通过核心自我评价间接影响留守老人孤独感。在成年子女长期外出的情况下，安全的夫妻依恋有助于降低留守老人的孤独感。
+
+# 参考文献
+
+Andrew,M.K.,& Rockwood,K.(2Ol0).Social vulnerability predicts cognitivedecline in aprospective cohortof older Canadians.Alzheimer's & Dementia, 6(4),319-325.   
+Antonucci,T.C.,Akiyama, H.,& Takahashi, K. (2Oo4). Attachment and close relationships across the life span. Attachment & Human Development,6(4),353-370.   
+Becker,T.E.,Billngs,R.S.,Evelrth,D.M.,&Gilbert,N.W. (1997).Validityofscores onthree atachmenttyle scales: Exploratory and confirmatory evidence.Educational & Psychological Measurement, 57(3),477-493.   
+Bodner,E.,& Cohen-Fridel,S.(2O10).Relations between atachment styles,ageismand qualityoflife in late life. International Psychogeriatrics,22(8),1353-1361.   
+Bowlby, J.(1969). Attachment and loss: Vol.1. Attachment. New York: Basic Books.   
+Carstensen,L.L.,ura,B.,Scheibe,S.,Ram,N.,Ersner-Hershfield,H.,amanez-Larkin,GR,..Nesselroade,J. R. (2011). Emotional experience improves with age: Evidence based on over 10 years of experience sampling. Psychology and Aging, 26(1),21-23.   
+Colins,N.L. (1996). Working models of attachment: Implications for explanation, emotion,and behavior. Journal of Personality and Social Psychology,71(4),810-832.   
+Connelly,R.,& Maurer-Fazio,M. (2O16).Left behind,at-risk,and vulnerable elders in rural China. China Economic Review, 37,140-153.   
+Dahlem,N. W., Zimet, G D.,& Walker,R.R. (1991).The multidimensional scale of perceived social support: A confirmation study. Journal of Clinical Psychology, 47(6),756-761.   
+Du, J. Z., Zhang,X.,& Zhao,Y. (2012). Reliability,validation andconstruct confirmatory of core self-evaluations scale.Psychological Research, 5(3),54-60.   
+[杜建政，张翔，赵燕.(2012)．核心自我评价的结构验证及其量表修订．心理研究,5(3),54-60.]   
+Fang, J., & Zhang,M. Q. (2012).Assssing point and interval estimation for the mediating effect: Distribution of the product, nonparametric Bootstrap and Markov Chain Monte Carlo methods. Acta Psychologica Sinica, 44(10), 1408-1420.   
+[方杰，张敏强.(2012).中介效应的点估计和区间估计：乘积分布法、非参数 Bootstrap 和 MCMC 法．心理学 报,44(10),1408-1420.]   
+Gillath,O.,Johnson,D.K.,Selcuk,E.,& Teel, C.(2O11). Comparing old and young adults as they cope with life transitions: The links between social network management skills and attachment style to depression. Clinical Gerontologist, 34(3),251-265.   
+Halat,M.I.,& Hovardaoglu,S.(2O10).The relations between the atachment styles,causalityand responsibility attributions and loneliness of the married couples in the context of the investment model.Procedia-Social and Behavioral Sciences,5,2332-2337.   
+Hays,R.D.,& DiMatteo, M.R. (1987).A short-form measure of loneliness. Journal of Personality Assessment, 51(1),69-81.   
+Hazan, C.,& Shaver,P. (1987). Romantic love conceptualized as an atachment process. Journal of Personality and Social Psychology, 52(3),511-524.   
+Holtfreter,K.,Reisig,M.D.,& Turanovic,J.J. (2O16).Self-rated poor healthand loneliness in lateadulthood: Testing the moderating role of familial ties. Advances in Life Course Research, 27,61-68.   
+Jaremka,L. M.,Fagundes,C.P., Glaser,R.,Bennet,J.M.,Malarkey,W.B.,&Kiecolt-Glaser,J. K.(2013). Loneliness predicts pain, depression,and fatigue: Understanding the role of immune dysregulation. Psychoneuroendocrinology, 38(8),1310-1317.   
+Judge,T.A.,Erez,A.,Bono,J.E.,& Thoresen, C.J. (20o3).The core self-evaluations scale: Development of a measure.Personnel Psychology, 56(2),303-331.   
+Kafetsios, K., & Sideridis, G D. (2O06). Attachment, social support and well-being in young and older adults. Journal of Health Psychology, 11(6), 863-875.   
+Kuwert,P., Knaevelsrud, C.,& Pietrzak,R.H. (2O14).Loneliness among older veterans in the United States: Results from the national health and resilience in veterans study. American Journal of Geriatric Psychiatry, 22(6), 564-569.   
+Lin,K.,Yin,P.J.,&Loubere,N.(2O14).Social support and the ‘left behind' elderly in rural China: Acase study from Jiangxi province. Journal of Community Health, 39(4),674-681.   
+Mallinckrodt,B.,& Wei, M.F. (2Oo5).Attachment,social competencies,social support,and psychological dstres.
+
+Journal ofCounselingPsychology，52(3),358-367. McCarthy,G,& Davies,S. (2Oo3).Some implications of attchment theory for understanding psychological functioning in old age: An ilustration from the long-term psychological effects of World War Two. Clinical Psychology & Psychotherapy,10(3),144-155. Merz,E.M.,& Consedine,N.S. (2O09).The association offamily support and welbeing in later life depends on adult attachment style. Attachment & Human Development, 11(2),203-221. Mikulincer, M., & Shaver,P.R. (2Oo7). Atachment inadulthood: Structure, dynamics,and change.New York: Guilford Press. Moyle,W., Kellett U.,Ballantyne,A.,& Gracia,N. (2O11). Dementia and lonelines: AnAustralian perspective Journal of Clinical Nursing,20(9-10),1445-1453. National Health and Family Planning Commission of the People's Republic of China. (2015). China family development report (2015). Retrieved May 13,2017,from http://news.xinhuanet.com/video/sjxw/2015-05/18/c_127814513.htm [中华人民共和国国家卫生和计划生育委员会.(2015)．中国家庭发展报告(2015).2017-05-13取自 http://news.xinhuanet.com/video/sjxw/2015-05/18/c_127814513.html Nguyen,A. W., Chaters,L.M.,Taylor,R.J.,& Mouzon,D.M. (2016).Social support from familyand friends and subjective wel-being of older African Americans. Journal of Happiness Studies,17(3), 959-979. Orth, U., Trzesniewski, K.H.,& Robins,R. W. (2010).Self-Esteem development from young adulthood to old age: Acohort-sequential longitudinal study. Journal of Personality and Social Psychology, 98(4), 645658. Perissinotto, C.M., Stijacic Cenzer,I.,& Covinsky,K. E. (2012).Loneliness in older persons: A predictor of functional decline and death. Archives of Internal Medicine,172(14),1078-1084. Poulin,J.,Rong,D.,Ingersoll,T.S., Wit,H.,&Swain,M.(2O12).Perceivedfamilyand friend supportand the psychological well-being of American and Chinese elderly persons. Journal of Cross-Cultural Gerontology, 27(4), 305-317. Richard,A.,Rohrmann,S.,Vandeleur, C.L., Schmid,M.,Barth,J.,&Eichholzer,M. (2o17).Lonelinessis adversely associated with physical and mental health and lifestyle factors: Results froma Swiss national survey. PLoS One,12(7), e0181442. Roberts,J.E., Gotlib,I. H.,& Kassel, J.D.(1996).Adult atachment security and symptoms of depression: The mediating roles of dysfunctional atitudes and low self-esteem. Journal of Personality and Social Psychology, 70(2),310-320. Santini,Z.I.,Fiori,K.L,Feeney,J.,Tyrovolas,S.,Haro,J.M,& Koyanagi,A. (2O16).Socialrelationsips, loneliness,and mental health among older men and women in Ireland: A prospective community-based study. Journal of Affective Disorders,204,59-69. Schmitt,D.P.,Alcalay,L,Allensworth,.,Allik,J.,Ault,L.,Austers,I...Zupaneie,A. (2o4).Patternsand universals of adult romantic attachment across 62 cultural regions: Are models of self and of other pancultural constructs? Journal of Cross-Cultural Psychology, 35(4),367-402. Timm,T.M.,& Keiley,M. K. (2O11). The effects of differentiation of self,adult attachment,and sexual communication on sexual and marital satisfaction: A path analysis. Journal of Sex & Marital Therapy, 37(3), 206-223. van Assche,L.,Luyten,P.,Brufaerts,R.,Persoons,P.,van de Ven,L.,& Vandenbulcke,M. (2O13).Attachmentin old age: Theoretical assumptions, empirical findings and implications for clinical practice. Clinical Psychology Review, 33(1),67-81. Wang,D.H.,& Zhang, M.Y.(2O11).The features of spouse support and its relationship with marital attachment and marital satisfaction among older adults.Psychological Development and Education, 27(2),195-201. 「王大华张明妍（2011）老年人配偶支持的特占及其与去妻依亦．婚媚满音度的关系心理发展与教育
+
+27(2),195-201.]   
+Wang,D.H., Yang,X.Y., Wang,Y.,& Miller,R.B. (2015). The assessment of marital attachment and its relationship with general attachment among older adults. Acta Psychologica Sinica, 47(9),1133-1142.   
+[王大华，杨小洋，王岩,Miller,R.B.(2015).老年人夫妻依恋的测量及与一般依恋的关系．心理学报,47(9), 1133-1142.]   
+Wu, M.L. (2013). Structural equation model: Amos advanced practice. Chongqing, China: Chongqing University Press.   
+[吴明隆.(2013).结构方程模型:Amos实务进阶.重庆：重庆大学出版社.]   
+Wu,Y.,& Wen, Z.L.(2O11). Item parceling strategies in structural equation modeling. Advances in Psychological Science,19(12),1859-1867.   
+[吴艳，温忠麟.(2011).结构方程建模中的题目打包策略．心理科学进展,19(12),1859-1867.]   
+Xie, Q.L., Wan,R.,& Zhang,R. (2Ol7). The relationships between the personality trait, self-esteem and loneliness of the rural left-behind elderly. Chinese Journal of Gerontology,37(7),3338-3339.   
+[谢其利，宛蓉，张睿.(2017)．人格特质、自尊与农村留守老人孤独感的关系．中国老年学杂志,37(7), 3338-3339.]   
+Xie,X.L.,Duan,H.,& Gu, C.H. (2014). Older adults' atachment affects their satisfaction with life: The mediating effect of loneliness. Journal of Psychological Science,37(6),1421-1425.   
+[谢祥龙，段慧，谷传华.(2014).老年人依恋对生活满意度的影响：孤独感的中介作用．心理科学,37(6), 1421-1425.]   
+Xiong,H. X.,Zhang,J., Ye,B.J., Zheng,X.,& Sun,P. Z. (2012). Common method variance effects and the models of statistical approaches for controlling it. Advances in Psychological Science,2O(5),757-769.   
+[熊红星，张璟，叶宝娟，郑雪，孙配贞.(2012).共同方法变异的影响及其统计控制途径的模型分析．心理科 学进展,20(5),757-769.]   
+Zhai,X.Y.,Li, C.H., Wei,H.,& Wang,D.H. (2Ol0).The development ofthe questionnaire of marital attachment forolder adults.Psychological Development and Education,26(2),197-204.   
+[翟晓艳，李春花，魏红，王大华.(2010).老年人夫妻依恋问卷的编制．心理发展与教育,26(2),197-204.]   
+Zhang,C.L., Zhang, G B.,Li, Z.,& Wu, Y. G. (2012). Investigation of loneliness of 151 cases Zhuang staying behind elderly people in rural. Jilin Medical Journal, 33(19),4140-4141.   
+[张春林，张国兵，李志，伍业光.(2012).151名农村壮族留守老人孤独感调查．吉林医学,33(19),   
+4140-4141.]   
+Zhang,X., Chen, X., Ran, G M.,& Ma, Y. X. (2016). Adult children's support and self-esteem as mediators in the relationship between atachment and subjective well-being in older adults. Personality and Individual Differences,97,229-233.   
+Zhou,L.,Li,Z.,Hu,M.,& Xiao,S.Y. (2O12). Reliabilityand validityofULS-8 lonelinesscale in elderlysamples in a rural community. Journal of Central South University (Medical Science),37(11),1124-1128.   
+[周亮，黎芝，胡宓，肖水源.(2012).ULS-8 孤独感量表信效度检验及其应用．中南大学学报(医学版),37(11), 1124-1128.]
+
+# Couples when young and companions when aged: the relationship between marital attachment and loneliness of left behind elderly
+
+XIE Qili1,2; LI Chongjing²; QUAN Xiaoshan4; HE Fei5; JIANG Guangrong1 （ $^ 1$ School of Psychology, Central China Normal University; Key Laboratory of Adolescent Cyberpsychology and Behavior (CCNU), Ministry of Education; Key Laboratory of Human Development and Mental Health of Hubei Province,Wuhan 430079, China) ( $^ 2$ Department of Mental health education and consultation center, Guizhou Normal College, Guiyang 550018, China) ( $^ 3$ Guizhou Normal University, Guiyang 5500o1, China)(4 School of Educational Science,Anshun College,Anshun 5610oo, China)( Guiyang Children's Normal College,Guiyang 550001, China)
+
+# Abstract
+
+In rural areas of China, more than 5O million elderly people are left-behind,and they have a strong sense of loneliness. The relationship between husband and wife plays an important role in alleviating the loneliness feling of the elderly,therefore,it is crucial to understand the association between marital attachment and loneliness of left-behind elderly.Previous study showed that Chinese elderly's marital atachment was composed in three dimensions: security, avoidance and anxiety. However, the three-dimensional structure of Chinese elderly's marital attachment has not been tested in the rural elderly population. In addition, the association between Chinese elderly's loneliness and their three-dimensional marital atachment is also not clear. Therefore,further studies are needed.The current study,firstly, tested the three-dimensional structure of the Chinese elderly'smarital atachment，and secondly， investigated the relationship between marital attachment and loneliness of left-behind elderly.
+
+The Older Adults’Marital Attachment Scale， Scale of Perceived Social Support, Core Self-Evaluations Scale,and ULS-8 Loneliness Scale were administered to 510 left-behind elderly from rural areas in China. All cases were randomly asigned to two subsets: one set was for exploratory factor analysis,and the other was for confirmatory factor analysis.The SPSS 20.0 and AMOS 20.O were used for this analysis,and the structural equation model and the bootstrapping analysis were employed to examine the hypothesized mediating model.
+
+The key findings were as follows: (1） the 14-item revised OAMAS showed a three-dimensional construct of attachment, namely security， avoidance，and anxiety;(2） the marital attchment of left-behind elderly could be clustered into three types,including secure marital attachment $( 3 7 . 8 4 \% )$ , refusal marital attachment $( 3 1 . 1 8 \% )$ ,and anxious marital attachment $( 3 0 . 9 8 \% )$ . The proportion of secure marital attachment in left-behind elderly was significantly lower than that in community elderly $( Z = - 5 . 6 3 , p < 0 . 0 0 1 )$ ,and the proportion of refusal marital attachment in left-behind elderly was significantly higher than that in community elderly $( Z = 7 . 0 1$ ， $p < 0 . 0 0 1 ) \colon ( 3 )$ perceived social support fully mediated the association among security atachment, avoidance atachment and loneliness.Perceived social support and core self-evaluations had multiple mediation effects on the association among security atachment, avoidance attachment and loneliness.While the association between anxiety atachment and loneliness was partially mediated by core self-evaluations.
+
+The results indicated that three-dimensional structure of Older Adults' Marital Attachment Scale was an effective measurement of marital attachment in left-behind elderly group.There was a close relationship between the marital attachment and loneliness of the left-behind elderly,safe marital attachment could effectively relieve the loneliness of left-behind elderly. The results may help to expand the study range of elderly's marital attachment, and provide a reference for reducing the loneliness of the left-behind elderly. implications and limitations are discussed.
+
+Key words: marital attachment; perceived social support; core self-evaluation; loneliness; left behind elderly

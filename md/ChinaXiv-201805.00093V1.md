@@ -1,0 +1,287 @@
+# DOI:10.5846/stxb201705301000
+
+池源，石洪华，孙景宽,李捷，杨帆，付战勇.近30年来黄河三角洲植被净初级生产力时空特征及主要影响因素.生态学报,2018,38（8)：2683-2697.  
+ChiY,ShiH,guocedcectiYellow River Delta in recent 30 years.Acta Ecologica Sinica,2018,38(8):2683-2697.
+
+# 近30年来黄河三角洲植被净初级生产力时空特征及主要影响因素 C
+
+池源1,²，石洪华1,2,\*，孙景宽³，李捷4，杨帆4，付战勇³
+
+1国家海洋局第一海洋研究所，青岛266061  
+2 青岛海洋科学与技术国家实验室海洋地质过程与环境功能实验室,青岛266061  
+3 滨州学院山东省黄河三角洲生态环境重点实验室，滨州256603  
+4青岛理工大学环境与市政工程学院，青岛266033
+
+摘要：我国拥有丰富的海岸带蓝色碳汇,准确把握海岸带蓝碳生态系统净初级生产力(NPP)状况,辨识不同人为干扰下蓝碳生态系统NPP 的时空分布特征具有重要意义。以黄河三角洲为研究区,以近 $3 0 \mathrm { a }$ (1987年、1995年、2005年、2016—2017年)为时间尺度,通过遥感手段和现场调查,对黄河三角洲NPP时空变化特征及其主要影响因素进行研究。结果显示:(1)近30年来研究区 NPP均值和总量呈现先下降又略微增长的特征,2016—2017年度 NPP平均值为 $2 9 4 . 3 8 \mathrm { g } \mathrm { ~ C ~ m ~ } ^ { - 2 } \mathrm { ~ a } ^ { - 1 }$ ,总量为 $7 1 0 . 0 5 \mathrm { G g ~ C / a }$ ，表现出显著的季节差异。（2)研究区NPP在各行政区、保护区和地表覆盖类型中均表现出了明显的空间分异性;2016—2017年度NPP分区结果显示，不同分区面积由大到小依次为中生产力区( $4 9 . 5 \%$ ）、低生产力区( $3 8 . 3 \%$ )和高生产力区( $. 1 2 . 1 \% )$ 0（3)研究区NPP的时空分异性是地表覆盖类型和植被生长状况共同影响的结果,海陆交互作用、开发利用活动和近年来的生态建设是 NPP 时空变化的主要影响因素。（4)湿地植被和农田是研究区碳汇的主要贡献者,20世纪90年代以来二者 NPP 均值逐渐上升,在2016—2016年度分别达 $5 7 0 . 2 8 \mathrm { g } \mathrm { ~ C ~ m ~ } ^ { - 2 } \mathrm { a } ^ { - 1 }$ 和 $3 3 5 . 9 2 \mathrm { g } \mathrm { ~ C ~ m ~ } ^ { - 2 } \mathrm { a } ^ { - 1 }$ ;近 30 年来,湿地植被 NPP 总量逐渐减少,农田 NPP总量则逐渐增加。湿地植被是海岸带蓝碳的典型载体,农田作为位于滨海地区、由湿地植被转化而来、本身具有较高固碳能力和潜力的碳汇类型,可作为海岸带蓝碳的重要补充。
+
+关键词：海岸带蓝色碳汇;净初级生产力;时空特征;人类活动;黄河三角洲
+
+# Spatio-temporal characteristics and main influencing factors of vegetation net primary productivity in the Yellow River Delta in recent 3O years
+
+CHI Yuan12，SH Honghua1.2\*，SUNJingkuan³,LIJie4,YANG Fan4，FUZhanyong³   
+1 The First Institute of Oceanography， State Oceanic Administration， Qingdao 266061，China   
+2LaboratoryforMarine Geology，Qingdao National Laboratoryfor Marine Science and Technology，Qingdao 266061，China   
+3ShandongProincialeyboratoryofEcoEnromentalScienceforYellowRerDelta，nzouUniersitynzho6in   
+4 School of Environmental and Municipal Enginering，Qingdao Universityof Technology，Qingdao 266033，China
+
+Abstract:Salt marsh vegetation，mangrove，and sea grassin coastal areas are highly eficient carbon sinks；the carbon sequestrated bythese is describedascoastalbluecarbonand theirecosystemsare describedascoastalbluecarbon ecosystems.Thecoastlineof China islongand thecoastal bluecarbonecosystemsarewidely distributed.Withrapid development of economy and consistent increase in $\mathrm { C O } _ { 2 }$ emission，exploring the potential of coastal blue carbon has become an important way to increase the carbon sink and decrease the pressure of $\mathrm { C O } _ { 2 }$ emission. It is of great significance to identify the temporaland spatial characteristicsof net primaryproductivity（NPP）incoastal bluecarbon ecosystemsunder various andcomplex anthropogenic disturbances.Thestudy wasconducted in the Yelow River Delta，and therecent 3O years (1987,1995,2005and 2016—2017）was usedas the time scalefor analysis.The spatio-temporal characteristicsand main influencing factors wereanalyzed using data fromremote sensingand field investigations.Theresults indicated that:The mean valueand total amountof NPPdecreased firstand then increasedslightly during therecent3O years，andthe mean values of NPP in the summer of 1987，1995，2005，and 2016 were 94.93，63.90,64.56，and $6 9 . 5 4 \mathrm { g }$ C m² monthrespectively. The mean value and total amount of NPP in the year 2016—2O17 were $2 9 4 . 3 8 \mathrm { g } \mathrm { ~ C ~ m ~ } ^ { - 2 } \mathrm { a } ^ { - 1 }$ and $7 1 0 . 0 5 \mathrm { G g ~ C / a }$ ！ whichshowed distinctseasonal diferences.Obviousspatial heterogeneity existed in diferent districts，naturereserves，and landcover types.Comparingthediferent districts，Lijin Countypossessedlargertemporalfluctuationof NPPthantheother two districts.The mean value of NPP inside natural reserves was higher than that outside the naturalreserves，which was higher ntheexperimental zoneof the nature reserve than in the buferandcore Zones.Further,the meanvaluesof NPP were similar in oldand new estuaries in the year 2016—2017.Among the diferentland cover types，wetland vegetation posessed the highest mean value and total amountof NPP,folowed by farmland.The NPPvalues in otherlandcover types werelow.The results from NPP partitioning forthe year 2O16—2O17 showed that the proportion of area with medium NPP was the most $( 4 9 . 5 \%$ ），followed by low NPP ( $3 8 . 3 \%$ ），and high NPP（ $1 2 . 1 \%$ ). The spatio-temporal characteristics of NPP were determined byland cover types and vegetation growth conditions.The land-sea interaction，exploitation activities, and ecological establishmentinrecent years werethemain influencing factors of the spatio-temporal variations in NPP in he studyarea.Wetland vegetationand farmland were the main contributors of carbon sink and their mean values of NPP increased steadily since the 199Os，and reached $5 7 0 . 2 8 \mathrm { g } \mathrm { C ~ m } ^ { - 2 } \mathrm { a } ^ { - 1 } \mathrm { a n d } 3 3 5 . 9 2 \mathrm { g } \mathrm { C ~ m } ^ { - 2 } :$ a -l in the year 2016—2017.In the 30 years，the totalamountof NPPcontinuously decreased inwetland vegetationand increased in farmland.Wetland vegetation isthetypicalcarrierofcoastal bluecarbon.Meanwhile,farmland，whichislocated incoastalareas,transformed from wetland vegetation，and possesseshigh abilityand potential forcarbon sequestration，can be consideredasan important supplement for coastal blue carbon.
+
+KeyWords:coastal bluecarbon；net primary productivity（NPP）；spatio-temporal characteristics；humanactivities；the Yellow River Delta A
+
+气候变暖已经成为世界各国关注的热点,而温室气体浓度上升被认为是气候变暖的根本原因[1-2]。位于海岸带地区的盐沼湿地、红树林湿地和海草床生态系统是地球上高效的碳汇热点,其所固定的碳被称为“海岸带蓝色碳汇"或"海岸带蓝碳”[3],这些生态系统被称为“海岸带蓝碳生态系统”[4-6]。研究发现,盐沼、红树林和海草床生态系统单位面积碳埋藏速率分别为( $2 1 8 { \pm } 2 4 ,$ 、（ $2 2 6 { \pm } 3 9 .$ ） $( 1 3 8 \pm 3 8 ) \mathrm { g ~ C ~ m ~ } ^ { - 2 } \mathrm { a } ^ { - 1 }$ ,远高于深海和陆地森林生态系统[4,7]。我国海岸线绵长,海岸带蓝碳生态系统分布广泛，随着经济社会的快速发展以及$\mathrm { \bar { c } O } _ { 2 }$ 排放量的与日俱增,海岸带蓝碳的挖掘成为提升我国碳汇能力、减缓 $\mathrm { C O } _ { 2 }$ 排放压力的重要手段;与此同时，海涂围垦、植被破坏、污染物排放等人为干扰对海岸带蓝碳带来了严重影响[]。净初级生产力（Net primary1productivity，NPP)是植物通过光合作用产生全部有机质扣除自养呼吸的剩余量,反映了植物群落的生产能力和生态质量,是生态系统各成员生存繁衍的基础和调节生态过程的因子,也是判断生态系统碳源/汇的主要指标[8-9]。探明典型海岸带蓝碳生态系统NPP 状况以及不同人为干扰下蓝碳生态系统 NPP 的时空分布特征具有重要意义，不但可以揭示我国海岸带蓝碳潜力及其变化规律,还能够为规范海岸带人类开发利用活动、提升蓝碳能力提供依据。
+
+黄河三角洲是我国三大河口三角洲之一,是我国暖温带最完整、面积最大的新生盐沼湿地[10],也是我国海岸带蓝碳生态系统的典型代表。由于特殊的地理位置和大量的泥沙来源,黄河三角洲生态系统不仅具有丰富完整的湿地植被,还是众多珍稀濒危鸟类的重要栖息地,同时也具有明显的脆弱性特征[1-2]。近30 年来,黄河三角洲人为干扰愈加强烈,城乡建设、港口建造、石油开采、农田开垦、盐田围垦等使得区域地表覆盖类型日趋多样,人工景观逐渐增多,自然湿地面积逐年递减[13-15],尤其是大规模的农田和盐田不断侵占湿地植被空间,对自然生态系统带来显著影响[15-16]。与此同时,自然保护区的建立以及各项生态保护与管理措施又对提升湿地生态系统稳定性具有重要作用。在复杂的自然因素和人类活动影响下,黄河三角洲成为世界上河口三角洲海陆变迁最活跃、生态环境演变最迅速的地区之一[17]。当前,众多学者围绕黄河三角洲生态系统开展了一系列卓有成效的工作，其中不乏生态系统碳过程、土壤碳含量、NPP 空间分布等相关研究[10,18-2]。然而，对于较大时间和空间尺度下NPP 时空演变特征的研究仍有所不足,特别是缺乏NPP 在海陆交互作用、人类干扰以及人为调控影响下的变化特征分析。
+
+本文基于现代黄河三角洲范围,通过遥感手段和现场调查,对近30 年来黄河三角洲NPP 时间变化和空间特征进行研究,并剖析NPP时空变化的主要影响因素,以期从整体上揭示较大时间和空间尺度下黄河三角洲NPP变化规律，并为提升我国海岸带蓝碳提供一定参考。
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+黄河三角洲位于渤海湾南岸和莱州湾西岸,现代黄河三角洲是指以垦利县鱼洼为顶点、以挑河口和宋春荣沟口为端点构成的区域。本文基于现代黄河三角洲范围,结合地理完整性和实际情况,将研究区南侧端点由宋春荣沟口南延至垦利县滨海大道南端红光渔港处,研究区略大于现代黄河三角洲范围(图1)。研究区全部位于东营市境内，分别属于垦利区( $4 9 \%$ ）、河口区（ $4 4 \%$ 和利津县 $( 7 \% )$ ；所在区域属于暖温带季风气候区,年平均气温为 $1 2 . 1 \mathrm { { ^ { \circ } C } }$ ,无霜期196d,年平均降水量为 $5 5 1 . 6 \mathrm { m m }$ ,季节差异较大；研究区属于小清河以北黄泛平原区,地势平坦,海拔均低于 $1 5 \mathrm { m }$ ;土壤类型主要为潮土和盐土,植被以盐生植被为主,分布广泛并呈现明显的梯度性规律。1992年,黄河三角洲国家级自然保护区经国务院批准建立,重点保护新生湿地生态系统和珍稀濒危鸟类,总面积约 $1 5 3 0 \mathrm { k m } ^ { 2 }$ ,主要分布于现行黄河入海口（新河口)和黄河故道入海口(老河口）的两侧,可划分为核心区、缓冲区和实验区。多年来,保护区开展了积极的生态系统修复与建设工程,并制定了一系列管控措施。研究区近30年来人类开发利用活动日趋频繁,造成地表覆盖类型发生剧烈变化[15],进而对NPP 及其空间分布构成影响,因此本文以近30a为时间跨度,以约10a为时间间隔,基于现有数据资料特征，对1987年、1995 年、2005年、2016—2017 年研究区 NPP 变化规律及其主要影响因子进行分析。
+
+# 1.2 数据来源与处理
+
+# 1.2.1 遥感影像
+
+云层遮挡对 NPP的估算精度具有重要影响,根据现有数据资料,挑选近30年来覆盖研究区的无云或少云遥感影像,包括LANDSAT5卫星1987年8月、1995年9月、2005年7月以及LANDSAT8卫星2016年8月、10月和2017年1月、4月共7期遥感影像（图1)。通过ENVI5.3和ArcGIS10.0,对原始遥感影像进行辐射定标、波段融合等处理;以研究区顶点和端点的连线作为陆域界线,以海岸线和植被集中连片分布区的外缘线为陆海界线,形成不同时期研究区轮廓(图1);经影像剪切和波段计算后,得到研究区不同时期的归一化植被指数（Normalized Diffrence Vegetation Index,NDVI）。
+
+4 以1987年8月、1995年9月、2005年7月和2016年8月的遥感影像为基础,通过目视解译的方法,将研究区地表覆盖类型划分为湿地植被、农田、水域、盐田和养殖池、裸地、建筑用地、交通用地和工业用地8类。其中,湿地植被以芦苇（Phragmitesaustralis）为主要类型,夹杂有盐地碱蓬（Suaedasalsa）、柽柳（Tamarixchinensis）、罗布麻（Apocynumvenetum）、苣荬菜（Sonchusaruensis）、野大豆（Glycine soja）等其他植物;农田以水稻田、小麦田和藕池为主要类型,并种植有玉米、棉花等其他作物;水域包括黄河、黄河故道等自然水域和孤东水库、孤北水库、孤河水库等人工水域;盐田和养殖池集中分布于距离岸线较近的区域,以盐田为主;裸地包括分布于近岸区域的光滩以及研究区内部的裸土地;建筑用地主要是指城乡建筑分布地,包括黄河口镇、孤岛镇、仙河镇等城镇区以及诸多分散的农村居民点;交通用地包括公路和港口码头,公路主要有东营港疏港高速以及省道 S312、S310、S228等,港口主要为东营港;工业用地是指炼油厂等工厂分布区（图2）。
+
+![](images/8b5f48e41e8bf1259ea474ad48d895dd6cbf40fe41aa802707108d1b51d75a03.jpg)  
+图1 研究区不同时期的遥感影像和轮廓  
+Fig.1Remote sensing images and outlines of study area in different years
+
+# 1.2.2气象数据
+
+气象数据来源于东营及周边地区气象站的多年观测数据,引自东营地区的相关研究。其中,太阳总辐射、天文辐射、日照时数、可照时数引自文献[21]中近30年来不同月份的平均数据,气温、降水、蒸散量、相对湿度引自文献［22]中近50a来不同月份的平均数据。
+
+# 1.2.3 现场调查取样
+
+2017年初开展地表覆盖类型现场勘查工作。采用网格法,基于代表性和可达性,共开展了104个点位的现场勘察工作（图3)。使用手持GPS 记录点位的经纬度信息;记录每个样地的群落类型以及植物种类、多度等信息,对研究区地表覆盖类型进行校正。同时,在湿地植被集中分布区布设4个植物取样点位,并于2015年11月、2016年3月、11月和2017年2月开展了4次植物取样工作,每个样地随机设置3个 $\mathbf { 1 m } ^ { 2 }$ 的平行样方,使用标准样框,收割样框内的全部植物地上部分,烘干后,计算其生物量干重。
+
+![](images/caca868173d952bc131fe5299824cfb67361e24dcca2ff61a7e35cdbd188b956.jpg)  
+图2研究区不同时期地表覆盖类型  
+Fig.2Land cover typesof study area in different years
+
+# 1.3 NPP计算与分析
+
+# 1.3.1 NPP计算
+
+基于Carmegie-Ames-Stanford Approach（CASA)模型[23],采用遥感、气象和现场调查数据对研究区 NPP 进行估算。计算方法如下：
+
+$$
+\mathrm { N P P } ( x , t ) = \mathrm { A P A R } ( x , t ) \times \xi ( x , t )
+$$
+
+$$
+\mathrm { A P A R } ( x , t ) = \mathrm { P A R } ( x , t ) \times \mathrm { F P A R } ( x , t )
+$$
+
+$$
+\xi ( x , t ) = f t ( t ) \ \times f w ( t ) \ \times \xi _ { \operatorname* { m a x } }
+$$
+
+式中： $\mathrm { N P P } ( x , \ t )$ 为 $x$ 点 $\mathbf { \chi } _ { t }$ 月净初级生产力; $\mathrm { A P A R } ( x , t )$ 为 $x$ 点 $\mathbf { \chi } _ { t }$ 月吸收的光合有效辐射( $\mathrm { ~ M J ~ m ~ } ^ { - 2 }$ 月 $^ { - 1 }$ ） $\xi ( \boldsymbol { x } ,$ （204号$\mathbf { \Phi } _ { t } \mathbf { \dot { \sigma } } _ { t } .$ 为 $x$ 点 $\mathbf { \chi } _ { t }$ 月的实际光能利用率( $\mathbf { g } \mathrm { ~ C / M J }$ ） $\operatorname { P A R } ( x , \ t )$ 为 $x$ 点 $\mathbf { \chi } _ { t }$ 月的光合有效辐射（MJ $\mathrm { m } ^ { - 2 }$ 月"1）,可取太阳总辐射的 $5 0 \% ^ { [ 2 4 ] }$ $\mathrm { F P A R } ( x , t )$ 为 $x$ 点 $\mathbf { \chi } _ { t }$ 月光合有效辐射吸收比例 $\mathit { \Omega } ( \% ) { : } \mathcal { \hat { H } } ( \mathit { \Omega } _ { t } )$ 和 $f w \left( t \right)$ 分别为研究区 $\mathbf { \chi } _ { t }$ 月的气温胁迫因子和水分胁迫因子 $( \% )$ $\xi _ { \mathrm { m a x } }$ 为植被最大光能利用率( $\mathbf { \dot { g } _ { \lambda } C M J ^ { - 1 } }$ ）。
+
+(1)FPAR计算
+
+FPAR与NDVI和简单比值植被系数（SimpleRatioVegetation Index，SRVI)均存在明显的线性关系[25-26]可分别由NDVI和SRVI计算得到FPAR1与FPAR2,计算方法如下：
+
+$$
+\mathrm { \Delta V I _ { m i n } ) \ \times ( \ F P A R _ { \mathrm { m a x } } \mathrm { - F R A R _ { \mathrm { m i n } } ) + \ F P A R _ { \mathrm { m i n } } } }
+$$
+
+$$
+\mathrm { \langle ~ \boldsymbol { x } , ~ \boldsymbol { t } ~ \rangle = \langle ~ S R V I \left( \boldsymbol { x } , \boldsymbol { t } \right) - S R V I _ { \operatorname* { m i n } } ~ \rangle / ( \nabla { S R V I _ { \operatorname* { m a x } } } ~ - }
+$$
+
+$$
+\mathrm { S R V I } _ { \operatorname* { m i n } } \big ) \times \big ( \mathrm { \ F P A R } _ { \operatorname* { m a x } } - \mathrm { F P A R } _ { \operatorname* { m i n } } \big ) + \mathrm { F P A R } _ { \operatorname* { m i n } }
+$$
+
+式中： $\mathrm { { N D V I } } \left( x , t \right)$ 为 $x$ 点 $\mathbf { \chi } _ { t } ^ { }$ 月的NDVI值; $\mathrm { F P A R } _ { \operatorname* { m a x } }$ 和$\mathrm { F P A R } _ { \operatorname* { m i n } }$ 分别取0.95 和 $0 . 0 0 1 ^ { [ 2 3 ] }$ ;为了剔除异常值,削弱极值的影响， $\mathrm { \Delta N D V I _ { \mathrm { m a x } } }$ 和 $\mathrm { \Delta N D V I _ { \mathrm { { m i n } } } }$ 分别取所有NDVI值的$9 5 \%$ 和 $5 \%$ 百分位值； $\mathrm { S R V I } \left( x , t \right)$ 为 $x$ 点 $\mathbf { \chi } _ { t }$ 月的简单比值植被系数，由式6求得， $\mathrm { \ S R V I _ { \mathrm { m a x } } }$ 和 $\mathrm { \ S R V I _ { \mathrm { m i n } } }$ 分别取所有SRVI值的 $9 5 \%$ 和 $5 \%$ 百分位值。
+
+![](images/6f21d30dfe0a64247f00694136e0cd69e7a2a57592fe1bc6719665187ff695d0.jpg)  
+图3研究区调查点位 Fig.3 Survey sites of study area
+
+$$
+\operatorname { S R V I } ( x , t ) = { \frac { 1 + \operatorname { N D V I } ( x , t ) } { 1 - \operatorname { N D V I } ( x , t ) } }
+$$
+
+结合 FPAR1与 FPAR2 得到的FPAR具有更高的准确度[9,27],计算方法如下：
+
+$$
+\mathrm { F P A R } \left( x , t \right) = \mathrm { \Phi } \left( \mathrm { F P A R } \left( x , t \right) 1 \left( + \mathrm { F P A R } \left( x , t \right) 2 \right) \middle / 2 \right)
+$$
+
+$( 2 ) { \mathrm { } } f t$ 和 $f w$ 计算
+
+$\mathbf { \nabla } _ { f t }$ 计算方法如下：
+
+$$
+f t ( t ) = f t 1 ( t ) \times f t 2 ( t )
+$$
+
+${ \mathit { f t } } 1 \left( { \mathit { \Delta } } t \right)$ 反映在极端温度下植物的内在生物化学过程对光合作用的限制,进而影响 $\mathrm { N P P } ^ { [ 2 8 ] }$ ,计算方法如下[26]：
+
+$$
+f t 1 ( t ) = 0 . 8 \ + \ 0 . 0 2 \times T _ { \mathrm { { o p t } } } \ - \ 0 . 0 0 0 5 \times T _ { \mathrm { { o p t } } } ^ { 2 }
+$$
+
+式中： $T _ { \mathrm { o p t } }$ 为最适气温,取NDVI平均值最高月份(8月)的月平均气温
+
+（204 ${ \mathit { f t } } 2 ( t )$ 表示实际气温高于或低于最适气温时光能利用率受到的影响,计算方法如下[23,26]：
+
+$$
+f t 2 ( t ) { \stackrel { \longleftrightarrow } { = } } { \frac { 1 . 1 8 4 } { 1 + \exp \left[ 0 . 2 \times ( T _ { \mathrm { o p t } } - 1 0 - T ) \right] } } \times { \frac { 1 } { 1 + \exp \left[ 0 . 3 \times ( T - T _ { \mathrm { o p t } } - 1 0 ) \right] } }
+$$
+
+式中： $T$ 为当月实际平均气温,当某月平均气温 $T$ 比最适气温 $T _ { \mathrm { o p t } }$ 高 $1 0 ^ { \circ } \mathrm { C }$ 或低 $1 3 ^ { \circ } \mathrm { C }$ 时,该月的 ${ \mathit { f t } } 2 ( { \mathit { \Omega } } _ { t } )$ 值等于最适气温月份 $\widehat { f t 2 } ( t )$ 值的一半。
+
+fw 反映了植物所能利用的有效水分条件对光能利用率的影响,计算方法如下[29]：
+
+$$
+f w ( t ) = 0 . 5 + 0 . 5 \times E / E _ { p }
+$$
+
+式中： $E$ 为蒸散量,由已有气象数据中获取； $E _ { p }$ 为潜在蒸散量,计算方法如下[30]：
+
+$$
+E _ { p } = ( \sqrt { \frac { R _ { n } } { 0 . 5 9 8 } + \frac { r \times 0 . 3 6 9 ^ { 2 } } { 4 \times 0 . 5 9 8 ^ { 2 } } } - \frac { \sqrt { r } \times 0 . 3 6 9 } { 2 \times 0 . 5 9 8 } ) ^ { 2 }
+$$
+
+式中： $r$ 为降水量( $\mathbf { m m } ^ { \mathrm { ~ \large ~ . ~ } }$ ） $R _ { n }$ 为净辐射量 $( \mathrm { ~ M J ~ m ~ } ^ { - 2 } \mathrm { ~ d ~ } ^ { - 1 }$ ）。
+
+$R _ { n }$ 参考《喷灌工程设计手册》[31],计算方法如下：
+
+$$
+R _ { n } = R _ { n 1 } - R _ { n 2 }
+$$
+
+$$
+R _ { n 1 } = \left( 1 \mathrm { ~ - ~ } a \right) \left( 0 . 2 5 + 0 . 5 n / N \right) R _ { a }
+$$
+
+$$
+R _ { n 2 } = { \bf { \sigma } } { \bf { {sigma } } } \mathbf { { { T } _ { { k } } } } ^ { 4 } \times \left( { 0 . 3 4 \mathrm { ~ - ~ } 0 . 0 4 4 \sqrt { { { e _ { d } } } } } \right) \times \left( { 0 . 1 \mathrm { ~ + ~ } 0 . 9 n / N } \right)
+$$
+
+式中： $\boldsymbol { a }$ 为反射率,取 $2 3 \% ; n$ 为日照时数（h）， $N$ 为该纬度的可照时数（h）， ${ \cal R } _ { a }$ 为天文辐射( $\mathrm { M J / m } ^ { 2 }$ ）； $\mathbf { \sigma } _ { \mathbf { \sigma } } \mathbf { \sigma } _ { \mathbf { \sigma } }$ 为斯蒂芬-玻尔兹曼常数,取 $2 { \times } 1 0 ^ { - 9 } \mathrm { m m ~ d ^ { - 1 } ~ K ^ { - 4 } }$ ， $T _ { k }$ 为该月平均温度(K)； $\boldsymbol { e } _ { d }$ 为水汽压 $\left( \mathrm { { h P a } } \right)$ ,可由相对湿度和不同气温下的饱和水汽压计算得到。 7
+
+$( 3 ) \xi _ { \mathrm { m a x } }$ 的计算
+
+最大光能利用率 $( \xi _ { \operatorname* { m a x } } )$ 的取值对 NPP估算结果具有直接且重要的影响,不同植物的 $\xi _ { \mathrm { m a x } }$ 具有明显差异[32]。黄河口湿地植被以芦苇为优势种,其面积最大,分布最广,然而目前关于湿地植被最大光能利用率的专门研究总体较少,陈吉龙等[33]关于辽河口湿地芦苇群落的模拟结果显示,芦苇 $\xi _ { \mathrm { m a x } }$ 为 $1 . 6 6 7 \mathrm { g } \mathrm { \ C / M J _ { \circ } }$ 根据CASA 模型， $\xi _ { \mathrm { m a x } }$ 可由 NPP 实测结果以及模型中其他参数进行反推,公式如下：
+
+$$
+\xi _ { \mathrm { m a x } } = \frac { \mathrm { N P P } } { \mathrm { P A R } \times \mathrm { F P A R } \times \mathcal { \boldsymbol { f } } t \times \mathcal { f } w }
+$$
+
+根据相关研究,芦苇地上部分在每年10一11月份基本不再生长,生物量达到最大 $\ell ^ { 3 4 } \Big \vert ,$ 地上部分生物量即为地上部分的净初级生产力,地下部分净初级生产力一般地上部分的 $30 \% \_ 8 0 \%$ [35]，这里取 $5 0 \%$ ,另根据光合作用方程式推算得到芦苇的碳转换系数,根据4次取样的平均值得到各点位的全年NPP,进而计算得到研究区湿地植被的 $\xi _ { \mathrm { m a x } }$ 为 $0 . 8 5 9 \mathrm { g \ C / M J }$ 。由于植物取样点位相对较少,为了尽可能避免其带来的误差,结合现场实测和陈吉龙等[33]的研究,本文湿地植被的 $\xi _ { \mathrm { m a x } }$ 取二者平均值为 $1 . 2 5 7 \mathrm { g } \mathrm { - } \mathrm { C /  { M J _ { \circ } } }$ 其他地表覆盖类型的 $\xi _ { \mathrm { m a x } }$ 取值参考现有研究,其中 Running 等[36]和朱文泉等[32]的研究成果应用较为广泛[9,37-38],前者根据生态生理过程模型模拟了全球10 种植被类型的 $\xi _ { \mathrm { m a x } }$ 为 $0 . 6 0 4 { \mathrm { - } } 1 . 2 5 9 _ { \mathrm { g } } ^ { } \mathrm { C / M J }$ ,后者根据林业普查数据结合CASA模型模拟出中国不同植被的 $\xi _ { \mathrm { m a x } }$ 为 $0 . 3 8 9 { \mathrm { - } } 0 . 9 8 5 \mathrm { g } { \mathrm { ~ C / M J } }$ 。农田的 $\xi _ { \mathrm { m a x } }$ 采用二者的平均值 $0 . 5 7 3 \mathrm { g } \mathrm { ~ C / M J }$ ,交通用地、建筑用地、工业用地、水域、盐田和养殖池这些非植被区的地表覆盖类型最大光能利用率理论上为0,但由于采用遥感影像的分辨率为 $3 0 \mathrm { m }$ ,解译误差和混合像元等不可避免的问题使得这些地表覆盖类型中也存在一定的植被,因此采用最低的 $\xi _ { \mathrm { m a x } } 0 . 3 8 9 \mathrm { g \ C / M J }$
+
+# 1.3.2 NPP时空特征分析
+
+分别计算1987年、1995 年、2005 年夏季以及2016—2017年度不同季节的 NPP,并基于2016—2017年度不同季节的 NPP,得到 2016—2017年度全年 NPP 结果。此外,1987年遥感影像在研究区北部存在少量云层遮挡,对云层及其阴影所在区域的NPP估算带来了不小的误差;通过ArcGIS10.0对该区域的 NPP估算结果进行裁剪,采用反距离权重（Inverse Distance Weighted，IDW）内插法基于周边区域的 NPP 计算结果进行内插,计算出云层及其阴影所在区域的 NPP 内插结果,进而得到修正后的1987年 NPP 结果。
+
+根据1987年、1995年、2005年和 2016年夏季的 NPP估算结果,分析近30 年来研究区 NPP 的时间变化特征;根据 2016—2017年不同季节的 NPP 估算结果,分析不同季节研究区 NPP 的时间变化特征。分别以行政区、保护区和地表覆盖类型为单元,分析 NPP 在不同单元的特征和差异,探讨不同单元NPP 的时间变化规律。基于2016—2017年度全年 NPP 估算结果,将研究区划分为高生产力区( $\mathrm { N P P } \geqslant 6 0 0 \$ ）、中生产力区( $2 0 0 \leqslant$ NPP<600)和低生产力区( $\mathrm { N P P } { < } 2 0 0$ )，单位为 $\textrm { g C m } ^ { - 2 } \textrm { a } ^ { - 1 }$ 。
+
+# 2结果
+
+# 2.1NPP 时间变化
+
+NPP 估算结果显示,近30年来研究区NPP 均值和总量均呈现先下降又略微增长的特征,1987、1995、2005 和2016年夏季研究区 NPP 均值分别为 $9 4 . 9 3 _ { \times } 6 3 . 9 0 _ { \cdot } 6 4 . 5 6 _ { \cdot } 6 9 . 5 4 _ { \mathrm { g } } \mathrm { ~ C ~ m } ^ { - 2 }$ 月"1，总量分别为214.76、$1 4 3 . 9 6 \ 、 1 4 9 . 8 8 \ 、 1 6 7 . 7 5 \mathrm { G g ~ C }$ 月"。2016—2017年度NPP平均值和总量表现出明显的季节差异,夏季远高于其他季节,其次为春季和秋季,冬季 NPP 均值和总量偏低,可忽略不计（图4）。
+
+![](images/9ebb64e821004dd1e7f62413e18d4f535797fe3ac7ca5845bbe28683c4f3ef3d.jpg)  
+图4研究区整体和不同行政区NPP的变化特征  
+Fig.4Variation characteristics of NPP in whole study area and different districts
+
+# 2.2 NPP空间特征
+
+研究区不同年份和不同季节的NPP均表现出了明显的空间分异性(图5—图6)。不同行政区近30 年来NPP 均值显示,利津县相比其他二区表现出更大的波动性,其下降和增长都更为明显,其他二区与研究区总体特征较一致;就总量而言,由于研究区中利津县面积明显偏小,其总量也小于其他二区（图4）。
+
+各年度自然保护区内NPP均值均明显高于保护区外;近30年来,NPP均值在保护区内外均呈现先下降后上升的特征,保护区内部在1995—2005 年期间下降相较保护区外更加剧烈,但在 2005—2016 年期间上升更明显;不同季节中,夏季保护区内外 NPP的差别更加明显。保护区实验区NPP 均值高于缓冲区和核心区,在 2005—2016年期间实验区NPP有所上升,而核心区NPP 则有一个较明显的下降。老河口区NPP 均值在1987年与新河口区基本一致,在1995年和2005年明显较低,但在 2016年又恢复至与新河口区持平;不同季节新、老河口区 NPP 变化特征基本一致（图7）。
+
+不同地表覆盖类型 NPP 结果显示,湿地植被具有最高的 NPP 均值和总量,其次为农田,其他几种类型则明显偏低;近30年来,湿地植被和农田 NPP 均值表现出先减少后增加的特征,湿地植被 NPP 总量逐渐减少，农田 NPP 总量则逐渐增加(表1);同时,湿地植被和农田 NPP 在不同季节中具有较大差别,夏季显著高于其他季节,且农田 NPP 的季节差异更为明显（表2）。
+
+2016—2017年度研究区全年 NPP均值为 $2 9 4 . 3 8 \mathrm { g C ~ m } ^ { - 2 } \mathrm { ~ a } ^ { - 1 }$ ,总量为 $7 1 0 . 0 5 \mathrm { G g ~ C / a }$ ,其中湿地植被和农田NPP 总量占比达 $9 4 . 2 \%$ 。NPP分区结果显示,不同分区面积由大到小依次为中生产力区 $( 4 9 . 5 \%$ ）、低生产力区（ $3 8 . 3 \% \cdot$ )和高生产力区 $( 1 2 . 1 \% )$ （图8)。不同行政区中,利津县大部分位于中生产力区,垦利区和河口区主要分布于低、中生产力区,其中垦利区更多的区域位于中生产力区,河口区更多的区域位于低生产力区。就保护区而言,保护区内高生产力区比例明显高于非保护区,保护区实验区的中、高生产力区比例明显高于缓冲区和核心区,新河口区和老河口区生产力分区状况基本一致。不同地表覆盖类型中,湿地植被较为平均地分布在中生产力区和高生产力区,农田大部分位于中生产力区,其余类型则基本分布于低生产力区（表3)。
+
+![](images/b73c352a43e21ad7f8b2e76fe5ed09c933644d39e8205547fd2966fd90146393.jpg)  
+图5近30年来研究区NPP时空特征  
+Fig.5Temporal and spatial characteristics of NPP in recent 30 years
+
+表1近30年来不同地表覆盖类型NPP结果  
+Table 1NPP results of different land cover types in recent 30 years   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">均值 Mean value/(g C m-²月-1）</td><td colspan="4">总量 Total amount/(Gg C月-1)</td></tr><tr><td>1987</td><td>1995</td><td>2005</td><td>2016</td><td>1987</td><td>1995</td><td>2005</td><td>2016</td></tr><tr><td>湿地植被 Wetland vegetation</td><td>121.28</td><td>94.68</td><td>99.81</td><td>133.53</td><td>189.04</td><td>97.96</td><td>91.73</td><td>80.67</td></tr><tr><td>农田 Farmland</td><td>71.03</td><td>52.99</td><td>58.81</td><td>82.45</td><td>18.36</td><td>37.19</td><td>52.31</td><td>79.6</td></tr><tr><td>水域 Water area</td><td>14.18</td><td>13.23</td><td>10.81</td><td>9.71</td><td>1.13</td><td>1.39</td><td>1.46</td><td>2.35</td></tr><tr><td>盐田和养殖池 Salterm and pond</td><td>6.47</td><td>11.45</td><td>6.7</td><td>3.45</td><td>0.17</td><td>0.91</td><td>1.42</td><td>1.48</td></tr><tr><td>裸地 Bare land</td><td>16.99</td><td>19.31</td><td>14.64</td><td>8.88</td><td>5.14</td><td>5.45</td><td>1.65</td><td>0.47</td></tr><tr><td>建筑用地 Building land</td><td>24.27</td><td>20.93</td><td>24.18</td><td>30.18</td><td>0.81</td><td>0.93</td><td>1.13</td><td>2.24</td></tr><tr><td>交通用地 Traffic land</td><td>37.11</td><td>25.38</td><td>28.78</td><td>34.63</td><td>0.1</td><td>0.13</td><td>0.16</td><td>0.29</td></tr><tr><td>工业用地 Industrial land</td><td></td><td>14.73</td><td>16.25</td><td>17.57</td><td>一</td><td>0.01</td><td>0.03</td><td>0.65</td></tr></table></body></html>
+
+![](images/94b43f4bd14f96740552bf4c4df5c42b65e024c81f2b4ae9848d7387167deeaa.jpg)  
+图6不同季节研究区NPP时空特征  
+Fig.6Temporal and spatial characteristics of NPP in different seasons
+
+表22016一2017年度不同季节和全年不同地表覆盖类型NPP结果  
+ble2NPP results of diferent land cover types in different seasons and whole year in the year of 20:   
+
+<html><body><table><tr><td></td><td></td><td></td><td>均值 Mean value</td><td></td><td></td><td></td><td colspan="6">总量 Total amount</td></tr><tr><td></td><td></td><td colspan="3">gCm-²月-1</td><td></td><td>gC m-2 a-1</td><td colspan="3"></td><td>GgC月-1</td><td></td><td>Gg C/a</td></tr><tr><td>Items</td><td>春季 Spring</td><td>夏季 Summer</td><td></td><td>秋季 Autumn</td><td>冬季 Winter</td><td>全年 Whole year</td><td>春季 Spring</td><td>夏季 Summer</td><td>秋季 Autumn</td><td></td><td>冬季 Winter</td><td>全年 Whole year</td></tr><tr><td>湿地植被 Wetland vegetation</td><td>27.32</td><td>133.53</td><td></td><td>21.79</td><td>7.88</td><td>570.28</td><td>16.51</td><td>80.67</td><td>13.17</td><td></td><td>4.76</td><td>344.54</td></tr><tr><td>农田Farmland</td><td>14.37</td><td></td><td>82.45</td><td>10.88</td><td>4.18</td><td>335.92</td><td>13.88</td><td></td><td>79.6</td><td>10.5</td><td>4.03</td><td>324.3</td></tr><tr><td>水域 Water area</td><td>3.45</td><td></td><td>9.71</td><td>2.58</td><td>1</td><td>50.77</td><td>0.83</td><td></td><td>2.35</td><td>0.62</td><td>0.24</td><td>12.28</td></tr><tr><td>盐田和养殖池</td><td>2.17</td><td></td><td>3.45</td><td>1.58</td><td>0.99</td><td>24.68</td><td>0.93</td><td></td><td>1.48</td><td>0.68</td><td>0.43</td><td>10.56</td></tr><tr><td>Saltern and pond 裸地 Bareland</td><td>4.24</td><td></td><td>8.88</td><td>2.83</td><td>1.79</td><td>53.78</td><td>0.22</td><td></td><td>0.47</td><td>0.15</td><td>0.1</td><td></td></tr><tr><td>建筑用地 Building land</td><td>8.61</td><td></td><td>30.18</td><td>6.2</td><td>2.38</td><td>144.6</td><td>0.64</td><td></td><td>2.24</td><td>0.46</td><td>0.18</td><td>2.85 10.75</td></tr><tr><td>交通用地 Traffic land</td><td>7.57</td><td></td><td>34.63</td><td>5.25</td><td>2.1</td><td>161.69</td><td>0.06</td><td></td><td>0.29</td><td>0.04</td><td>0.02</td><td>1.35</td></tr><tr><td>工业用地 Industrial land</td><td>6.48</td><td></td><td>17.57</td><td>4.66</td><td>2.02</td><td>93.01</td><td>0.24</td><td></td><td>0.65</td><td>0.17</td><td>0.07</td><td>3.43</td></tr></table></body></html>
+
+![](images/6ab5fcb742ad6fab86846d35b9f86c78faffb7a4e9f3988802a25148b3010411.jpg)  
+图7自然保护区NPP的变化特征  
+Fig.7Variation characteristics of NPP about the nature reserve
+
+表32016—2017年度NPP分区统计结果 $\%$   
+Table 3Statistics results ofNPP partitioning in the year of 2016—2017   
+
+<html><body><table><tr><td>项目 Items</td><td>低生产力区 Low NPP area</td><td>中生产力区 Medium NPP area</td><td>高生产力区 High NPP area</td><td>项目 Items</td><td>低生产力区 Low NPP area</td><td>中生产力区 Medium NPP area</td><td>高生产力区 High NPP area</td></tr><tr><td>利津县 Lijin County</td><td>12.9</td><td>82.1</td><td>5.0</td><td>湿地植被 Wetland vegetation</td><td>5.2</td><td>46.9</td><td>47.9</td></tr><tr><td>垦利区 Kenli District</td><td>32.9</td><td>55.3</td><td>11.8</td><td>农田 Farmland</td><td>7.9</td><td>91.8</td><td>0.3</td></tr><tr><td>河口区 Hekou District</td><td>48.2</td><td>38.2</td><td>13.6</td><td>水域 Water area</td><td>95.5</td><td>4.4</td><td>0.2</td></tr><tr><td>保护区 Reserve</td><td>31.0</td><td>50.1</td><td>19.0</td><td>盐田和养殖池 Saltern and pond</td><td>99.7</td><td>0.3</td><td>0.0</td></tr><tr><td>非保护区 Nonreserve</td><td>41.1</td><td>49.3</td><td>9.5</td><td>裸地 Bareland</td><td>98.9</td><td>1.1</td><td>0.0</td></tr><tr><td>核心区Core zone</td><td>77.9</td><td>14.4</td><td>7.8</td><td>建筑用地 Building land</td><td>86.4</td><td>13.2</td><td>0.4</td></tr><tr><td>缓冲区 Buffer zone</td><td>59.0</td><td>24.1</td><td>17.0</td><td>交通用地 Traffic land</td><td>78.5</td><td>19.5</td><td>2.0</td></tr><tr><td>实验区 Experimental zone</td><td>27.3</td><td>53.1</td><td>19.6</td><td>工业用地 Industrial land</td><td>98.2</td><td>1.8</td><td>0.0</td></tr><tr><td>新河口 New estuary</td><td>30.4</td><td>51.0</td><td>18.7</td><td>总计 The whole</td><td>38.3</td><td>49.5</td><td>12.1</td></tr><tr><td>老河口 Old estuary</td><td>32.8</td><td>47.2</td><td>19.9</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 3讨论与结论
+
+# 3.1讨论
+
+研究区湿地植被以芦苇为优势种，2016—2017年度其 NPP 均值为 $5 7 0 . 2 8 \mathrm { g } \mathrm { ~ C ~ m ~ } ^ { - 2 } \mathrm { a } ^ { - 1 }$ ,且具有明显的季节差异，夏季NPP贡献达到 $7 0 \%$ 。湿地植被表现出了较高的固碳能力，这表明了黄河三角洲湿地作为海岸带蓝碳的重要价值；不过，其NPP均值低于采用相同方法得到的相似区域湿地植被 NPP 均值 $1 0 1 6 \mathrm { g \ c \ m } ^ { - 2 } \ \mathrm { a } ^ { - 1 [ 3 9 ] }$ 。究其原因，一方面可能是由于本文采用了不同季节遥感影像来计算全年的NPP结果，充分考虑了季节差异，而其他研究往往仅采用1期夏半年的遥感影像来代表全年 NPP状况使得结果偏高;另一方面，黄河三角洲湿地植被NPP依然存在较大的提升潜力。农田的NPP均值低于湿地植被,为 $3 3 5 . 9 2 \mathrm { g } \mathrm { ~ C ~ m ~ } ^ { - 2 } \mathrm { a } ^ { - 1 }$ ,与采用相同方法的其他结果相比,低于全国农田 NPP 均值 $4 2 6 . 9 \mathrm { g } \mathrm { ~ C ~ m } ^ { - 2 }$ a-1[32]、东北地区农田 NPP 均值 $5 0 3 \mathrm { g } \textrm { C m } ^ { - 2 } \textrm { a } ^ { - 1 [ 4 0 ] }$ 和内蒙古地区农田 NPP 均值 $4 0 5 . 7 \mathrm { g C ~ m } ^ { - 2 } \mathrm { ~ a } ^ { - 1 [ 3 8 ] }$ ,考虑到黄河三角洲普遍的土壤盐渍化问题,以及近年来研究区农田NPP逐渐提升的状况,黄河三角洲农田已经具备了相当的固碳能力。
+
+![](images/1b6aa93100c8f28014e552d553668990e8e381e228ad9f8e9827b60fa3646738.jpg)  
+图82016—2017年度 NPP分区  
+Fig.8NPP partitioning in the year of 2016—2017
+
+研究区 NPP表现出显著的时空分异性。地表覆盖类型和植被生长状况是NPP 的决定因素[41],二者受到自然和人为因子的共同影响。黄河携带大量泥沙冲积、海水对海岸侵蚀等剧烈的海陆交互作用以及人类开发利用行为不断地改变着黄河三角洲的形态[42-43],并对其地表覆盖类型产生影响（图1和图2）。1987—1995年期间,研究区轮廓变化主要表现在不同位置湿地植被的减少或增加,黄河入海口的不断推进带来了新增湿地,但入海口后侧因为泥沙来源的减少和海岸侵蚀作用,湿地面积明显减少,总体上研究区面积有所萎缩;1995—2005年期间,黄河南岸滨海区域盐田和养殖池的围垦造成了轮廓向外推移，而其他位置的海岸侵蚀也带来了湿地的减少;2005—2016 年期间，一方面围垦带来了盐田养殖池和裸地的继续增加,另一方面保护区湿地恢复区配套工程的建设使得水域面积有明显上升（表4）。
+
+表4研究区轮廓变化带来的地表覆盖类型变化/km2  
+Table 4 Variation of land cover types caused by outline change of study area   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="2">1987—1995</td><td colspan="2">1995—2005</td><td colspan="2">2005—2016</td></tr><tr><td>减少量 Decrement</td><td>增加量 Increment</td><td>减少量 Decrement</td><td>增加量 Increment</td><td>减少量 Decrement</td><td>增加量 Increment</td></tr><tr><td>湿地植被 Wetland vegetation</td><td>74.29</td><td>49.56</td><td>33.50</td><td>5.23</td><td>4.22</td><td>6.25</td></tr><tr><td>裸地 Bare land</td><td>1.11</td><td>9.15</td><td>3.15</td><td>4.54</td><td>0.29</td><td>25.20</td></tr><tr><td>水域 Water area</td><td>0.10</td><td>1.64</td><td>0.57</td><td>15.20</td><td>0.19</td><td>37.32</td></tr><tr><td>盐田和养殖池 Saltern and pond</td><td>0</td><td>5.45</td><td>0.41</td><td>81.59</td><td>0.13</td><td>26.48</td></tr><tr><td>交通用地 Traffic land</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0.52</td></tr><tr><td>总计 The whole</td><td>75.50</td><td>65.80</td><td>37.62</td><td>106.56</td><td>4.84</td><td>95.77</td></tr></table></body></html>
+
+研究区内部地表覆盖类型组成中，1987年湿地植被占据大部分比例 $( 6 8 . 9 \% )$ ，其次为裸地( $( 1 3 . 4 \% )$ 和农田 $( 1 1 . 4 \% )$ ,其余类型占比均不足 $10 \%$ 。这个时期,研究区地表覆盖类型更多地受到自然因素的制约,人类干扰程度相对较小。20世纪90年代以来，人类活动的逐渐增多对研究区地表覆盖类型带来了重要影响。1995年研究区湿地植被面积明显减小( $( 4 5 . 9 \% )$ ,农田开垦使得农田占比上升至 $3 1 . 2 \%$ ;2005 年湿地植被( $3 9 . 6 \%$ ）和农田 $( 3 8 . 3 \% )$ 面积几乎持平，盐田和养殖池占比也有所增加 $( 9 . 1 \% )$ ,裸地占比逐渐降低( $( 4 . 8 6 \% )$ ）。随着人类开发利用进程的不断加快,人类干扰逐渐成为影响地表覆盖类型的主要因子[14,44]。2016 年,农田成为研究区的主要地表覆盖类型( $4 0 . 0 \%$ ),湿地植被占比进一步降低 $( 2 5 . 1 \% )$ ，盐田和养殖池占比增加至 $1 7 . 8 \%$ ,裸地占比降低至 $2 . 2 \%$ （图9）。
+
+NDVI是植被生长状况的重要表征因子，具有便捷的获取渠道[45]。不同地表覆盖类型中,农田和湿地植被具有较高的NDVI,盐田养殖池和水域则明显偏低（图10)。近30年来，湿地植被和农田的NDVI均值呈现先下降再明显上升的趋势，在1995年降至最低，至2016年达到最高。这一方面是由于20世纪90年代黄河水资源供需矛盾突出，断流现象频繁，对黄河三角洲生态环境造成很大影响[12]；另一方面，90 年代也是黄河三角洲大规模开垦农田的初期阶段，严重的土壤盐渍化问题对农作物生长构成限制[46]。随着90年代以来黄河流域水资源的统一管理、自然保护区的建立与规范化管理以及21世纪以来多次黄河调水调沙和生态调水工程[12],再加上农田土壤盐渍化问题的持续治理[47]，区域的湿地植被和农田的NDVI不断上升;湿地植被和农田 NDVI在不同季节中差异很大,且农田的差异更明显(图10）。
+
+![](images/9c28fab96645658c3d772db1bc6431e5615005dd49fabb63340d427957edda77.jpg)  
+图9主要地表覆盖类型占比时间变化
+
+![](images/bf2932f9e69e85ae3d5e578eefd6bf60d2555437d91afb388a78850a96b4fead.jpg)  
+Fig. 9 Temporal variations of the proportions of main land cover types   
+图10不同地表覆盖类型NDVI变化特征  
+Fig.10Temporal variations of NDVI indifferent land cover types
+
+自然和人为影响下地表覆盖类型和植被生长状况的变化带来了研究区NPP 时空分异性特征。近 30 年来,研究区湿地植被面积不断缩减,农田面积不断增大;1987—1995 年期间,地表覆盖类型的变化和植被生长状况的不佳导致 NPP 出现明显的下降;1995—2005 年期间,地表覆盖类型继续转变,而植被生长状况有所好转,NPP均值变化不大;2005—2016年期间,植被生长状况提升带来的NPP上升超过了地表覆盖类型转变带来的 NPP下降,研究区NPP总体有所回升。同时,研究区各行政区和保护区的NPP也表现出了一定差异,这也是由其地表覆盖构成和生长状况决定的。利津县由于其占研究区面积较小,地表覆盖类型在1987年以湿地植被为主,而1995年以来以农田为主,造成了近30年来较大的NPP 波动。保护区内部拥有更多的湿地植被从而 NPP高于保护区外部;核心区位于更邻近海域的位置,并建有湿地恢复区配套工程,主要由水域构成，其植被 NPP 明显偏低,但对维护保护区湿地生态系统稳定性具有重要作用;老河口NPP在1995年和2005 年低于新河口,但随着近年来生态保护和管理工作的不断加强,特别是2010年开展的黄河故道生态补水工程有力地改善了老河口区域生态状况,使得 2016—2017年度老河口与新河口区域 NPP 基本一致。
+
+一般认为,湿地植被是海岸带蓝碳的重要组成,并具有生物多样性维持、产品供给、调节气候、景观美学等重要生态功能[1,48];而农田开垦是对原有湿地生态系统的破坏,造成湿地植被破坏、生物栖息地丧失、自然景观割裂等后果[49]。在现实条件下,基于农田开发现状,发现并肯定其生态正效应,充分利用并提升其碳汇能力,是平衡生态保护与开发利用,实现经济效益、社会效益和生态效益最大化的重要途径。本文研究结果也显示了20 世纪90年代大规模的农田开垦以来,农田 NPP均值逐渐提升,且在 2016—2017年度 NPP 总量占研究区的 $4 5 . 7 \%$ 。虽然从严格意义上来讲,农田并不属于典型蓝色碳汇,但这种位于滨海地区、由湿地植被转化而来、本身具有较高固碳能力和潜力的碳汇,也可归为广义的蓝色碳汇范畴,或者可称其为“次生蓝色碳汇”,而原有的盐沼湿地植被、红树林、海草等可称为“原生蓝色碳汇”。
+
+# 3.2结论
+
+（1)近30年来研究区NPP均值和总量均呈现先下降又略微增长的特征,1987、1995、2005 和2016年夏季研究区 NPP 均值分别为 $9 4 . 9 3 \ 、 6 3 . 9 0 \ 、 6 4 . 5 6 \ 、 6 9 . 5 4 \mathrm { g } \mathrm { ~ C ~ m } ^ { - 2 }$ 月"1;2016—2017年度 NPP平均值为 $2 9 4 . 3 8 \mathrm { g } \mathrm { ~ C ~ m ~ } ^ { - 2 }$ $\mathbf { a } ^ { - 1 }$ ,总量为 $7 1 0 . 0 5 \mathrm { G g ~ C / a }$ ,表现出明显的季节差异,夏季远高于其他季节。
+
+（2)研究区NPP具有明显的空间异质性。利津县NPP相比河口区和垦利区表现出更大的时间波动性；自然保护区内部 NPP均值明显高于保护区外,保护区实验区 NPP均值高于缓冲区和核心区,老河口区 NPP均值在2016—2017年度与新河口区持平;湿地植被具有最高的 NPP 均值和总量,其次为农田,其他几种类型则明显偏低;2016—2017年度 NPP分区结果显示,不同分区面积由大到小依次为中生产力区( $4 9 . 5 \%$ ）、低生产力区 $( 3 8 . 3 \% )$ )和高生产力区 $( 1 2 . 1 \% )$ )。研究区NPP的时空分异性是地表覆盖类型和植被生长状况共同影响的结果。在自然和人为要素共同驱动下,近30年来,研究区湿地植被面积不断缩减,农田、盐田和养殖池面积不断增大,这是造成研究区NPP 降低的主要原因;20世纪90年代以来植被生长状况的提升,又带来了研究区 NPP 的增长。 ）
+
+(3)湿地植被和农田是研究区分布最广的地表覆盖类型,也是碳汇的主要贡献者。二者 2016—2016 年度 NPP 均值分别为 $5 7 0 . 2 8 \mathrm { g } \mathrm { ~ C ~ m ~ } ^ { - 2 } \mathrm { a } ^ { - 1 }$ 和 $3 3 5 . 9 2 \mathrm { g } \mathrm { ~ C ~ m ~ } ^ { - 2 } \mathrm { a } ^ { - 1 }$ ,总量占比共计 $9 4 . 2 \%$ 。近30 年来,湿地植被 NPP总量逐渐减少,农田 NPP总量则逐渐增加。湿地植被是海岸带蓝碳的典型载体,农田作为位于滨海地区、由湿地植被转化而来、本身具有较高固碳能力和潜力的碳汇类型,可作为海岸带蓝碳的重要补充。
+
+# 参考文献（References）:
+
+[1]FrameDJ，StoneDA.Asessmentof tfirstconsensuspredictiononcliatechange.NatureClimate Change，2013,3(4):57-359.  
+[2 周晨昊，毛覃愉，徐晓，方长明，骆永明,李博.中国海岸带蓝碳生态系统碳汇潜力的初步分析.中国科学：生命科学,2016，46(4)：475-486.  
+3 邱广龙，林幸助，李宗善，范航清，周浩郎，刘国华.海草生态系统的固碳机理及贡献.应用生态学报，2014，25(6)：1825-1832.  
+4 McleodE,ChuaGL,BouillnS,SalR,ork,DarteC,LoveloCE,chlesingerWH,ilimanBR.Abueprintforbabotoward an improved understanding of the role of vegetated coastal habitats in sequestering $\mathrm { C O } _ { 2 }$ .Frontiers in Ecology and the Environment,2011,9(10):552-560.  
+[5]PendletoL,DatDC,MurryBC,roosS,JenkisW,Sfeet,raftC,FourqureaJW,KaumanJB,Marb,eggal,PidgeonE，HerrD,GordonD，BalderaA.Estimatingglobal“BueCarbon”emisionsfromcoversionanddegradationofvegetatedoastalecosystems.PLoS One，2012，7(9):e43542.  
+[6]DuarteCdIJHndiksE,azarblefstalplatcoiiefoatehgeigatiodtaioNature Climate Change，2013，3（11）：961-968.  
+[7］章海波，骆永明，刘兴华，付传城.海岸带蓝碳研究及其展望.中国科学：地球科学,2015,45(11)：1641-1648.  
+[8]FieldCeheedesJalowiraryprdiofseteatieestrlt
+
+Science，1998，281(5374):237-240.[9] 池源，石洪华，王晓丽，李捷，丰爱平.庙岛群岛南五岛生态系统净初级生产力空间分布及其影响因子.生态学报，2015，35（24)：8094-8106.[10] 蒋蕊竹,李秀启，朱永安，张治国.基于 MODIS 黄河三角洲湿地 NPP 与 NDVI相关性的时空变化特征.生态学报，2011，31（22）：6708-6716.[11] 孙万龙，孙志高，田莉萍，胡星云.黄河三角洲潮间带不同类型湿地景观格局变化与趋势预测.生态学报，2017,37(1)：215-225.[12] 安乐生，赵全升，周葆华，刘贯群.黄河三角洲 NDVI时空演化特征及其驱动因素.海洋与湖沼，2017,48(1)：1-7.[13] 蔡为民，唐华俊，陈佑启，张凤荣.近20年黄河三角洲典型地区农村居民点景观格局.资源科学，2004，26(5）：89-97.[14] 陈菁，傅新，刘高焕.黄河三角洲景观变化中人为影响力的时空分异.水土保持学报，2010，24（1)：134-138，144-144.[15] 王永丽，于君宝，董洪芳，栗云召,周迪，付玉芹，韩广轩,毛培利.黄河三角洲滨海湿地的景观格局空间演变分析.地理科学，2012，32(6) : 717-724.[16] 王海梅，李政海，韩国栋，韩经纬.黄河三角洲土地利用及景观格局的动态分析.水土保持通报，2007，27(1)：81-85.[17] 邓伟，白军红.典型湿地系统格局演变与水生态过程——以黄淮海地区为例.北京：科学出版社，2012：105-105.[18] 李远，章海波，陈小兵，涂晨，骆永明.黄河三角洲内陆到潮滩土壤中碳、氮元素的梯度分布规律.地球化学，2014，43(4)：338-345.[19] 李玉，康晓明，郝彦宾，丁恺，王艳芬，崔骁勇，梅旭荣.黄河三角洲芦苇湿地生态系统碳、水热通量特征，生态学报，2014，34（15)：4400- 4411.[20] 初小静，韩广轩，朱书玉，吕卷章，于君宝.环境和生物因子对黄河三角洲滨海湿地净生态系统 $\mathrm { C O } _ { 2 }$ 交换的影响.应用生态学报，2016,27(7): 2091-2100.[21] 张洪卫，张立清，刘春兰．东营市太阳能资源评估分析，浙江农业科学，2011，（6)：1404-1405.[22] 李高伟，韩美，张东启.1961—2013年黄河三角洲气候变化趋势研究.人民黄河，2017,39(1)：30-37.[23] PoterCS，RadersoJ,elCB，tson,ousek,ooyHA,KlosterS.Teestrialteprouctoroselbased on global satellite and surface data. Global Biogeochemical Cycles，1993,7(4):811-841.[24] BishopJKB,ossatialdalilitflceoare.JoualoficalacOas9996(C9）：16839-16858.[25] Ruimy A，Saugier B，Dedieu G. Methodology for the estimation of terrestrial net primary motelysensed data.Journal ofGeophysical Research：Atmospheres，1994，99（D3）:5263-5283.[26] FieldCB，RandersonJT，MalmstromCM.Globalnetprimaryproduction:combiningecologyandremotesensing.RemoteSensingofEnvironment，1995,51(1）:74-88.[27] 朱文泉，潘耀忠，张锦水.中国陆地植被净初级生产力遥感估算.植物生态学报，2007，31（3）：413-424.[28] BerryJBjokanO.otosteticesposenddaptatiototmperatureinigherpantsAualevieofanthsiolog98：491-543.[29] 朴世龙，方精云，郭庆华.利用CASA 模型估算我国植被净第一性生产力.植物生态学报，2001，25（5）：603-608.[30] 周广胜，张新时.全球变化的中国气候-植被分类研究.植物学报，1996，38(1)：8-17.[31] 《喷灌工程设计手册》编写组.喷灌工程设计手册.北京：水利电力出版社，1989：348-356.[32] 朱文泉，潘耀忠，何浩，于德永，扈海波.中国典型植被最大光利用率模拟.科学通报，2006，51(6):700-706.[33] 陈吉龙，李国胜，寥华军，王炳亮，崔林林.辽河三角洲河口湿地典型芦苇群落最大光能转化率模拟.生态学报，2015，37（7)：2263-2273.[34] HosoiY，KidoY，MikiM，SumidaM.Fieldexamiationonedgrowth，harvestandregenerationforutrientremoval.WaterScienceandTechnology,1998,38(1): 351-359.[35] 梅雪英，张修峰.长江口典型湿地植被储碳、固碳功能研究——以崇明东滩芦苇带为例.中国生态农业学报，2008，16(2)：269-272.[36] RunningSW,otonPE，maniR，GlassJM.Gloaleestrialgosandnetprimaryproductivityfrotheearthoervingsst/alaE, Jackson R B，Mooney HA，Howarth R W,eds.Methods in Ecosystem Science.New York: Springer Verlag，2000: 44-57.[37] 张镜锂，祁威，周才平，丁明军，刘林山，高俊刚,摆万奇，王兆锋，郑度.青藏高原高寒草地净初级生产力(NP)时空分异.地理学报，2013, 68(9) : 1197-1211.[38] 穆少杰，李建龙，周伟，杨红飞，章超斌，居为民.2001-2010年内蒙古植被净初级生产力的时空格局及其与气候的关系.生态学报，2013，33(12): 3752-3764.[39] 王莉雯，卫亚星.盘锦湿地净初级生产力时空分布特征.生态学报，2012，32（19)：6006-6015.[40] 张峰，周广胜.中国东北样带植被净初级生产力时空动态遥感模拟.植物生态学报，2008，32（4)：798-809.[41］池源，石洪华，王恩康，郭振，丰爱平，麻德明.庙岛群岛北五岛景观格局特征及其生态效应.生态学报，2017，37(4)：1270-1285.[42] 刘鹏，王庆，战超，王昕，杜国云，李雪艳.基于DSAS 和FA的1959—2002年黄河三角洲海岸线演变规律及影响因素研究.海洋与湖沼，2015,46(3):585-594.2431 韩广轩，栗云召,于君宝，许景伟，王光美，张志东，毛培利，刘玉虹.黄河改道以来黄河三角洲演变过程及其驱动机制.应用生态学报，2011, 22(2): 467-472.[44] 韩美，张翠，路广 刘玉斌，余灏哲.黄河三角洲人类活动强度的湿地景观格局梯度响应.农业工程学报，2017，33(6)：265-274.[45] 池源，郭振，石洪华，沈程程，刘永志.基于森林健康视角的北长山岛人工林生物量.中国环境科学，2016，36（8)：2522-2535.[46] 吴向东，陈小兵，郭建青，于君宝，颜坤，张立华.黄河三角洲农田土壤含水率空间变异特征研究.灌溉排水学报，2013，32（2)：48-51.[47] 李贻学，东野光亮，李新举.黄河三角洲盐渍土可持续利用对策.水土保持学报，2003，17(2)：55-58.[48] 刘红玉，李玉凤，曹晓，郝敬峰，胡俊纳，郑囡.我国湿地景观研究现状、存在的问题与发展方向.地理学报，2009,64（11)：1394-1401.[49] 尤民生，刘雨芳，侯有明.农田生物多样性与害虫综合治理.生态学报，2004，24（1)：117-122.

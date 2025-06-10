@@ -1,0 +1,296 @@
+[
+    {
+        "type": "text",
+        "text": "Low-voltage protonic/electronic hybrid indium zinc oxide synaptic transistors on paper substrates ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Guodong $\\boldsymbol { \\mathsf { W } } \\boldsymbol { \\mathsf { u } } ^ { 1 , 2 }$ , Changjin Wan1,2, Jumei Zhou², Liqiang Zhu² and Qing Wan1.2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Nanjing University, School of Electronic Science and Engineering,Nanjing 210093,Jiangsu People's Republic of China   \n2 Ningbo Institute of Material Technology and Engineering, Chinese Academy of Sciences, Ningbo, 315201,People's Republic of China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "E-mail: wanqing @nju.edu.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received17 June 2013,revised13 August2013   \nPublished12February 2014 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Low-voltage (1.5 V) indium zinc oxide (IZO)-based electric-double-layer (EDL) thin-film transistors（TFTs) gated by nanogranular proton conducting $\\mathrm { S i O } _ { 2 }$ electrolyte films are fabricated on paper substrates. Both enhancement-mode and depletion-mode operation are obtained by tuning the thickness of the IZO channel layer.Furthermore,such flexible IZO protonic/electronic hybrid EDL TFTs can be used as artificial synapses,and synaptic stimulation response and short-term synaptic plasticity function are demonstrated. The protonic/electronic hybrid EDL TFTs on paper substrates proposed here are promising for low-power flexible paper electronics,artificial synapses and bioelectronics. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(Some figures may appear in colour only in the online journal) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Recently,ionic/electronic hybrid devices including electricdouble-layer(EDL）thin-film transistors(TFTs)，resistive switching devices,etc have been paid much attention due to their potential applications in information processing systems, bioelectronics and neuromorphic systems [1-8]. In the case of EDL TFTs,the extremely strong electrostatic coupling between the mobile ions/protons in the gate dielectric and the carriers in the channel layer is crucial for low-voltage operation [9,1O].For example, $3 . 0 \\mathrm { ~ V ~ }$ operation of organic EDL TFTs was realized when $\\mathrm { P E O / L i C l O _ { 4 } }$ electrolyte was used as the gate dielectric [11].At the same time, this kind of ionic/electronic hybrid TFT could be used for mimicking the learning and memory functions of biological synapses [12,13].For example, Chen et al fabricated Si-based synaptic transistors by integratinga layer of $\\mathrm { R b A g _ { 4 } I _ { 5 } }$ ionic conductor and a layer of ion-doped MEH-PPV conjugated polymer into the gate dielectric. The signal processing and learning functions of biological synapses have been successfully emulated in such synaptic transistors [14]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "At the same time,paper is not only a cheap and widely used material,but also a natural and recyclable one [15]. Recently, there have been some reports on TFTs fabricated directly onto paper substrates,and such paperTFTs are promisingforlow-cost flexible and environmental-friendly electronics [16,17]. In our previous work,low-voltage oxide-based EDL TFTs gated bynanogranular $\\mathrm { S i O } _ { 2 }$ or chitosan electrolyte have been fabricated on paper substrates [18-21].However, no artificial synaptic function,such as paired-pulse facilitation, Wasstudied for these oxide-based EDL TFTs.Here,indium zinc oxide (IZO)-based protonic/electronic hybrid TFTs were fabricated on paper substrates by a simple one-shadow-mask process.A controllable operation mode was realized by tuning the thickness of the IZO channel layer.Furthermore,these flexible devices could also be used as artificial synapses, and synaptic stimulation response and short-term synaptic plasticity were successfully mimicked.These oxide-based protonic/electronic hybrid TFTs may greatly enrich the content offlexible oxide-based electronics. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. Experimental section ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The paper substrate used for protonic/electronic hybrid TFT fabrication was commercially available photo paper for inkjet printing. Radio-frequency (RF) magnetron sputtering and plasma-enhanced chemical vapor deposition (PECVD） were used for transistor fabrication. The entire fabrication process was performed at room temperature.Firstly,a $1 . 0 \\ – \\mu \\mathrm { m }$ -thick $\\mathrm { S i O } _ { 2 }$ buffer layer was deposited on the paper substrate for surface passivation and smoothness. Secondly, a $2 0 0 \\mathrm { n m }$ -thick IZO bottom gate film was deposited on the $\\mathrm { S i O } _ { 2 }$ passivated paper substrate by RF magnetron sputtering with a vacuum pressure of $0 . 5 \\mathrm { P a }$ .Thirdly,a nanogranular $\\mathrm { S i O } _ { 2 }$ -based electrolyte with a thickness of ${ \\sim } 5 5 0 ~ \\mathrm { n m }$ was deposited by the PECVD method; the detailed deposition conditions were described in our previous report [22]. Finally, the fabrication of the IZO-based TFTs on paper substrates was completed by RF sputtering of IZO source/drain electrodes through a nickel shadow mask with a designed channel width and length of $1 0 0 0 \\ \\mu \\mathrm { { m } }$ and $8 0 \\ \\mu \\mathrm { m }$ ,respectively. It should be pointed out that the reflection of IZO nanoparticles at the mask edge and the IZO nanoparticles with a low incident angle will lead to a self-assembled IZO channel between the IZO source and drain electrodes during RF sputtering deposition,as shown in figure 1(a). A photo of the bent oxide-based TFT arrays on paper substrates is shown in figure 1(b),which demonstrates a good flexible character. Electrical characterization of the nanogranular $\\mathrm { S i O } _ { 2 }$ solid electrolyte was performed by an impedance analyzer (Solartron 126O).All the electrical measurements of the oxide-based EDL transistor and synaptic behavior were made by using a semiconductor parameter analyzer (Keithley $4 2 0 0 \\ { \\mathrm { S C S } } ,$ ）at room temperature in air ambient ata relative humidity of $50 \\%$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1.Characterization of the nanogranular $S i O _ { 2 }$ electrolyte film ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The microstructure of the PECVD-deposited nanogranular $\\mathrm { S i O } _ { 2 }$ film was characterized by cross-sectional scanning electron microscopy (SEM) and transmission electron microscopy (TEM) in our previous report [22].Lots of aligned nanochannels were observed in the as-deposited nanogranular $\\mathrm { S i O } _ { 2 }$ films,which is favorable for proton migration.Figure 2(a) shows the impedance spectroscopy of the IZO/nanogranular $\\mathrm { S i O } _ { 2 } / \\mathrm { I Z O }$ sandwich testing structure. The proton conductivity of the nanogranular $\\mathrm { S i O } _ { 2 }$ film was determined from Cole-Cole plots collected as real $(  { \\mathrm { R e } } Z ^ { \\prime } )$ and imaginary $( \\mathrm { I m } Z ^ { \\prime \\prime } )$ components of the complex impedance,as shown in figure 2(b).An impedance real value $( R )$ of ${ \\sim } 3 0 5 ~ \\Omega$ is obtained when the impedance imaginary value is zero.The proton conductivity $( \\sigma )$ can be calculated from the following relation [23]: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma = \\frac { D } { ( R - R _ { 0 } ) A }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $D , A$ and $R _ { 0 }$ are the thickness of the nanogranular $\\mathrm { S i O } _ { 2 }$ film, the electrode surface area and the resistance of the electrode,respectively.The thickness $D$ is ${ \\sim } 5 5 0 ~ \\mathrm { n m }$ ， $A$ is ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/1038c8b18294a659f1c3d719ded6d8355c66177f038a1add11b4cf1df307ee55.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(b) ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/242e3fe61f673c8b76cad0383779f7e92f6ca219ed4515333605be8e3c1ced8d.jpg",
+        "img_caption": [
+            "Figure 1. Schematic of self-assembled protonic/electronic hybrid IZO-based EDL TFTs on paper substrates gated by nanogranular $\\mathrm { S i O } _ { 2 }$ proton conducting electrolytes;(b) a photo of the bended TFT arrays on the paper substrate. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\sim 1 . 5 \\times 1 0 ^ { - 3 } ~ \\mathrm { c m } ^ { 2 }$ ,while $R _ { 0 }$ is ${ \\sim } 3 0 ~ \\Omega$ .Therefore,the proton conductivity of the nanogranular $\\mathrm { S i O } _ { 2 }$ films is estimated to be $\\mathrm { { \\sim } 1 . 2 \\times 1 0 ^ { - 4 } ~ S ~ c m ^ { - 1 } }$ . Figure 2(c) shows the current leakage curve of the nanogranular $\\mathrm { S i O } _ { 2 }$ films in bias voltages from $- 1 . 5$ to $1 . 5 { \\mathrm { V } } .$ A relativelylow leakage current of ${ < } 4 . 0 \\mathrm { n A }$ was measured,which is much lower than that of ion gel dielectrics under the same conditions [24].The above results strongly indicate that the room-temperature deposited nanogranular $\\mathrm { S i O } _ { 2 }$ film is an electronically insulating but proton conducting solid electrolyte.In order to analyze the polarization mechanism of the proton conducting $\\mathrm { S i O } _ { 2 }$ film,the frequency-dependent specific capacitance of the nanogranular $\\mathrm { S i O } _ { 2 }$ film was tested, as shown in figure 2(d).The specific capacitance increases with decreasing frequency, and a maximum value of ${ \\sim } 6 . 2 \\mu \\mathrm { F } { \\mathrm c m } ^ { - 2 }$ is obtained at $1 . 0 \\mathrm { H z }$ .The high capacitance of the $\\mathrm { S i O } _ { 2 }$ proton conducting filmat low frequency is attributed to the formation of a Helmholtz layer with a thickness of ${ \\sim } 1 . 0 \\ \\mathrm { n m }$ at the $\\mathrm { S i O } _ { 2 } / \\mathrm { I Z O }$ interface [25]. Such large specific capacitance can provide strong capacitive coupling between the gate electrode and the IZO channel,which can greatly reduce the operation voltage of such TFTs.In order to further explain the polarization mechanism of the $\\mathrm { S i O } _ { 2 }$ -based proton conductor, the phase angle was measured as a function of the frequency,as shown in figure 2(d). It is well known that the phase angle of an ideal capacitor is $- 9 0 ^ { \\circ }$ while it is $0 ^ { \\circ }$ for an ideal resistor. Therefore,this phase-angle curve indicates a more resistive behavior when frequency ${ > } 6 0 ~ \\mathrm { k H z }$ $( \\theta ( f ) < 4 5 ^ { \\circ } ,$ ）， whereas a more capacitive behavior when frequency $< 6 0 \\mathrm { k H z }$ $( \\theta ( f ) > 4 5 ^ { \\circ } )$ .In the low-frequency region ( $\\zeta < 6 0 ~ \\mathrm { k H z }$ for $- \\theta ( f ) > 4 5 ^ { \\circ } )$ , the EDL formation is the dominant polarization mechanism.In this region, the mobile protons have enough time to migrate to the interface,which results ina larger EDL capacitance at the $\\mathrm { S i O } _ { 2 } / \\mathrm { I Z O }$ interface,whichisfavorable for low-voltage operation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b26bba5146b4a1ded8aa59ddb905b403b90c37c4b4329de5431e953a52b5771c.jpg",
+        "img_caption": [
+            "Figure 2. (a) Schematic of the IZO/nanogranular $\\mathrm { S i O } _ { 2 } / \\mathrm { I Z O }$ sandwich testing structure; (b) Cole-Cole plots of the nanogranular $\\mathrm { S i O } _ { 2 }$ electrolyte film;(c) leakage current curve of the $\\mathrm { I Z O / S i O _ { 2 } / I Z O }$ testing structure;(d) the frequency-dependent specific capacitance and phase-angle curves of the nanogranular $\\mathrm { S i O } _ { 2 }$ film. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.Electrical performance of the oxide-based EDLTFTson papersubstrates ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In our previous work,we found that the thickness of the channel layer could be controlled by changing the distance between the nickel mask and the substrate [26].In this work,IZO-based EDL transistors with two different channel thicknesses(15 and $3 0 ~ \\mathrm { { n m } }$ ）are self-assembledby tuning the distance between the shadow mask and the paper substrate. When the distance is $\\sim 5 0 ~ \\mu \\mathrm { m }$ ，the thickness of the selfassembled channel layer is estimated to be $\\sim 3 0 ~ \\mathrm { n m }$ .When the distance is reduced to $\\sim 3 0 ~ \\mu \\mathrm { m }$ ，the thickness of the self-assembled channel layer is ${ \\sim } 1 5 ~ \\mathrm { n m }$ .If the distance is too small $( < 1 0 \\ \\mu \\mathrm { { m } ) }$ ，the self-assembled channel gradually disappears.In our experiment, IZO channel layers are directly exposed to air ambient without surface passivation,which will result in oxygen adsorption on the channel surface. Therefore,the adsorbed oxygen can capture electron from the conduction band and result in channel surface depletion. At the same time,mobile protons in the $\\mathrm { S i O } _ { 2 }$ electrolyte canpartially deplete the IZO channel too.When the channel thickness( $\\left( 3 0 \\mathrm { n m } \\right)$ is larger than the total thickness of the two depletion layers,the channel is only partially depleted under zero gate bias and the device will operate in a depletion-mode. When the channel layer thickness is reduced to $1 5 \\ \\mathrm { { n m } }$ the channel layer is almost completely depleted under zero gate bias, then enhancement-mode operation can be obtained. Figure 3(a) shows the output characteristics of the device with the $1 5 \\ \\mathrm { n m }$ -thick IZO channel. The drain current $\\left( I _ { \\mathrm { d s } } \\right)$ versus drain voltage $( V _ { \\mathrm { d s } } )$ curves were measured at various gate voltages $( V _ { \\mathrm { g s } } )$ from O to $0 . 7 { \\mathrm { ~ V ~ } }$ with $0 . 1 \\mathrm { ~ V ~ }$ steps.This device exhibits $\\mathfrak { n }$ -type enhancement-mode characteristics.A quite high $I _ { \\mathrm { d s } }$ current of ${ \\sim } 1 3 0 \\ \\mu \\mathrm { A }$ is obtained at $V _ { \\mathrm { d s } } = 1 . 5 ~ \\mathrm { V }$ and $V _ { \\mathrm { g s } } = 0 . 7 \\ : \\mathrm { V }$ .Figure 3(b) shows the corresponding transfer characteristics at the fixed $V _ { \\mathrm { d s } }$ of $1 . 5 { \\mathrm { ~ V } } .$ It can be seen that the TFTs exhibit a high performance with a large current on/off ratio above $1 0 ^ { 6 }$ and a small subthreshold swing (SS) of ${ \\sim } 1 0 0 ~ \\mathrm { m V } ,$ /decade.An anticlockwise hysteresis with a small threshold voltage shift of ${ \\sim } 0 . 1 \\mathrm { v }$ is observed due to the mobile protons in the nanogranular $\\mathrm { S i O } _ { 2 }$ proton conductor. The field-effect mobility $( \\mu _ { \\mathrm { F E } } )$ in the saturation regime is estimated to be ${ \\sim } 1 0 . 3 \\mathrm { c m } ^ { 2 } \\mathrm { V } ^ { - 1 } \\mathrm { s } ^ { - 1 }$ by the following relation [27]: ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { \\mathrm { d s } } = \\left( \\frac { W C _ { i } \\mu _ { \\mathrm { F E } } } { 2 L } \\right) \\left( V _ { \\mathrm { g s } } - V _ { \\mathrm { t h } } \\right) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where the specific gate capacitance $( C _ { i } )$ is ${ \\sim } 6 . 2 ~ \\mu \\mathrm { F } ~ \\mathrm { c m } ^ { - 2 }$ and the width $( W )$ and length $( L )$ are $1 0 0 0 \\ \\mu \\mathrm { { m } }$ and $8 0 ~ \\mu \\mathrm { { m } }$ respectively.A threshold voltage $( V _ { \\mathrm { t h } } )$ of $0 . 3 1 ~ \\mathrm { V }$ is obtained from the $\\mathrm { \\Omega } ( I _ { \\mathrm { d s } } ) ^ { 1 / 2 }$ versus $V _ { \\mathrm { g s } }$ plot, indicating that the IZO TFT with $1 5 \\mathrm { n m }$ thick IZO channel works in an enhancement-mode. The low-voltage operation $( 1 . 5 { \\mathrm { ~ V } } )$ is attributed to the large ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/019db3a81058b47ed646efdf12780311dd0e64e5463a9b1b4af92899939e1ca9.jpg",
+        "img_caption": [
+            "Figure 3.(a) Output characteristics and (b)transfer characteristics of the IZO-based EDL TFTs on paper substrates with $1 5 \\mathrm { { n m } }$ -thick channellayers; (c)outputcharacteristicsand(d) transfercharacteristicsof the IZO-basedEDLTFTsonpaper substrate with $3 0 \\mathrm { n m }$ -thick channel layers. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "EDL electrostatic coupling effect of the $\\mathrm { S i O } _ { 2 }$ -based proton conductor. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figures 3(c) and (d) show the electrical characteristics forprotonic/electronic hybrid EDL paper transistors with $3 0 \\ \\mathrm { n m }$ -thick self-assembled IZO channels.The $I _ { \\mathrm { d s } }$ versus $V _ { \\mathrm { d s } }$ curves were measured at various gate voltages( $( V _ { \\mathrm { g s } } )$ from $- 0 . 2$ to $0 . 3 { \\mathrm { ~ V ~ } }$ with $0 . 1 \\mathrm { \\ V }$ steps,as shown in figure 3(c). The maximum current of ${ \\sim } 2 4 0 \\mu \\mathrm { A }$ is obtained at $V _ { \\mathrm { d s } } = 1 . 5 \\ : \\mathrm { V }$ and $V _ { \\mathrm { g s } } = 0 . 3 \\mathrm { ~ V ~ }$ .The corresponding transfer characteristics were performed ata fixed $V _ { \\mathrm { d s } }$ of $1 . 5 \\mathrm { V } .$ The current on/off ratio and subthreshold swing(SS) are determined to be ${ \\sim } 2 \\times 1 0 ^ { 6 }$ and ${ \\sim } 9 5 ~ \\mathrm { m V }$ /decade,respectively.The threshold voltage $( V _ { \\mathrm { t h } } )$ is determined to be ${ \\sim } - 0 . 3 5 \\mathrm { V } ,$ indicating that the device works in depletion-mode.The field-effect mobilityis estimated to be ${ \\sim } 1 4 . \\dot { 3 } \\mathrm { c m } ^ { 2 } \\mathrm { \\bf V } ^ { - 1 } \\mathrm { \\bf s } ^ { - 1 }$ · ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.Oxide-based paperTFTs forflexibleartificialsynapse applications ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Biological synapses are the connections between biological neurons.In our brain, signal processing,memory and learning functions are all achieved by modulating the ion flow in neurons and synapses.The ionic fluxes through the ion channels localized at synapses result in movements of neurotransmitters,modulating the synapse efficacy in establishing the relationship between pre-synaptic neurons and post-synaptic neurons [28]. The pre-synaptic neuron spikes would trigger ion excitatory post-synaptic currents (excitatory post-synaptic current,EPSC) in biological systems [29,30]. In our case, the gate electrode and channel layer can be regarded as the pre-synaptic neuron and post-synaptic neuron,respectively, while the protons within the nanogranular $\\mathrm { S i O } _ { 2 }$ films can be usedas theneurotransmitters,asshownin figure 4(a).Proton migration triggered by pre-synaptic spikes applied on the IZO gate electrode results in the establishment of inter-connections between the pre-synaptic neuron and the post-synaptic neuron. As shown in figure 4(b), this process is analogous to the spike modulated movement of the neurotransmitters in biological synapses,modulating the synapse effcacy in establishing the relationship between pre-synaptic neurons and the postsynaptic neurons. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To test the synaptic response of the oxide-based synaptic transistors,a pre-synaptic spike $( 1 . 0 \\mathrm { V } , 5 0 \\mathrm { m s } ) ,$ was applied on the gate electrode,as shown in figure 4(c).The post-synaptic current is measured with a constant drain-source bias of $0 . 5 ~ \\mathrm { V } .$ As shown in figure 5,the pre-synaptic spike triggers an excitatory post-synaptic current (EPSC) above the resting current ( $( \\sim 1 1 . 5 \\mathrm { \\ n A } )$ .The EPSC reaches a peak value of ${ \\sim } 1 9 0$ nA at the end of the spike,and gradually decays back to the resting current. Such EPSC behavior is quite similar to an EPSC process in a biological excitatory synapse.In the protonic/electronic hybrid synaptic transistor proposed here,protons in the nanogranular $\\mathrm { S i O } _ { 2 }$ proton conducting film sandwiched between the gate electrode and the IZO channel play an essential role in triggering the EPSC.When a pre-synaptic spike is applied on the gate electrode,positive charged protons are driven towards and accumulate at the $\\mathrm { S i O } _ { 2 } / \\mathrm { I Z O }$ interface,which attracts free electrons in the IZO channel and increases the post-synaptic current through the IZO channel.After the pre-synaptic spike,protons gradually drift back to their equilibrium positions in the $\\mathrm { S i O } _ { 2 }$ proton conductor, resulting in a decreased electron concentration in the IZO channel and a decreased post-synaptic current. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b7098dd7d36160975fb0891058c37358467cd800b77ca5d4e09daac0f5965cff.jpg",
+        "img_caption": [
+            "Figure4.(a)SchematicimageoftheIZO-basedsynaptictransistor;(b)ashematicimageofabiologicalsynapse;(c)thesymbolreprsnts the IZO-basedsynapse (a pre-synapticspike appliedonthe bottom IZO gate electrode triggers anEPSCin the IZOchanelayer). "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Paired-pulse facilitation (PPF) is a common form of shorttermsynaptic plasticity in biological synapses and is essential to decode temporal information in auditory or visual signals. When a pre-synapse receives two spikes in rapid succession, the post-synaptic response will commonly be larger for the second than for the first spike.With decreasing inter-spike duration time,a greater post-synaptic response or a higher PPF would be obtained [31,32].The synaptic transistors proposed here could also process temporally correlated spikes and generate temporal analog logic such as PPF.Figure 6(a) shows a scheme of the EPSCs triggered by a pair of temporallycorrelated pre-synaptic spikes in our IZO-based synaptic transistor. PPF is demonstrated by applying two successive pre-synaptic spikes(1.O V, 5O ms） with an inter-spike interval, $\\Delta t _ { \\mathrm { p r e } }$ ，ranging between 10 and $2 0 0 0 ~ \\mathrm { { m s } }$ .As shown in figure $6 ( \\boldsymbol { \\mathbf { b } } )$ ，the EPSC triggered by the second pre-synaptic spike is larger than the EPSC triggered by the first spike with the inter-spike duration of $1 0 0 ~ \\mathrm { { m s } }$ .ThePPF index,defined as the ratio of amplitudes between the second EPSC and the first EPSC,is plotted versus $\\Delta t _ { \\mathrm { p r e } }$ in figure 6(c). The PPF index reaches a maximum value of ${ \\sim } 1 9 5 \\%$ at $\\Delta t _ { \\mathrm { p r e } } = 1 0 ~ \\mathrm { m s }$ and gradually decreases with increasing $\\Delta t _ { \\mathrm { p r e } }$ .After the first spike,the protons within the nanogranular $\\mathrm { S i O } _ { 2 }$ electrolyte Would drift back to their equilibrium positions due to the concentration gradient.If the inter-spike interval is very short, the protons triggered by the first spike will still partially reside near the IZO channel. Thus, the protons triggered by the second spike are augmented by the residual protons triggered by the first spike.The longer $\\Delta t _ { \\mathrm { p r e } }$ would induce fewer residual protons near the IZO channel and result in a lower value of A2/A1. Thus,PPF and short-term synaptic plasticity are mimicked in our IZO synaptic transistors. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/72011a39cbbf3b958e8c2219f313c505637e3c1ce0f4b82fea20fdc87c948ce4.jpg",
+        "img_caption": [
+            "Figure5.A pre-synaptic spike( $\\mathrm { 1 . 0 ~ V , 5 0 ~ m s ) }$ applied on the bottom IZO gate electrode and the channel EPSC triggered by the spike are shown versus time.The insets illustrate the distributions of protons (cyan balls) in the nanogranular $\\mathrm { S i O } _ { 2 }$ gate dielectric and free electrons (red balls) in the IZO channel (a) before,(b) during,and (c) after the pre-synaptic spike is applied. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/86ee1a064e2bb17ec4423d4688f255855d308e7c7c9ecdaca48e0977948b2790.jpg",
+        "img_caption": [
+            "Figure 6. (a) Schematic image of the EPSCs triggered by a pair of temporally correlated pre-synaptic spikes;(b)a pair of pre-synaptic spikes and the triggered EPSC.A1 and A2 represent the amplitudes of the first and second EPSCs,respectively;(c) the PPF index (A2/A1) is plotted as a function of inter-spike interval $( \\Delta t _ { \\mathrm { p r e } } )$ （204号 between the two spikes. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Although two-terminal memristors have been reported to be good candidates for artificial synapse applications, two-terminal memristors shows similarities to ‘point-to-point' connected synapses.In two-terminal memristor devices, the conductance between the top and bottom electrodes is usually used as the synaptic weight. Three-terminal transistors show similarities to‘point-to-line’ connected dendrite synapses. These kinds of devices are also interesting for artificial synapses where the channel conductance is regarded as the synaptic weight.In a synaptic transistor, the gate is used as the pre-synaptic input terminal while the channel layer is regarded as the post-synaptic output terminal in a neuron's dendrite. For the construction of an artificial synapse network with many different pre-synaptic inputs,a three-terminal synaptic transistor with multiple gates is much better. Therefore our synaptic transistors are interesting for the realization of future neuromorphic computing systems. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In summary, flexible IZO-based protonic/electronic hybrid TFTs gated by nanogranular $\\mathrm { S i O } _ { 2 }$ proton conducting electrolyte were fabricated on paper substrates by a simple one mask process at room temperature.Depletion-mode to enhancement-mode transition was realized by reducing the distance between the metal mask and the paper substrate.Furthermore,such three-terminal devices can also be used as flexible ‘point-to-line’connected artificial synapses, and synaptic stimulation response and short-term synaptic plasticity function were experimentally demonstrated.Such IZO-based EDL TFTs on paper substrates may have potential applications in low-power paper electronics,flexible artificial synapses and neuromorphic systems. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The authors are grateful for the financial support from the National Program on Key Basic Research Project (2012CB933OO4) and the National Natural Science Foundation of China(11174300,11104288). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]RosenblattS,YaishY,ParkJ,GoreJ,SazonovaV and McEuenPL2002Nano Lett.2 869   \n[2]Ono S,Seki S,HiraharaR,TominariYand TakeyaJ2008 Appl.Phys.Lett. 92103313   \n[3]Kim SH,HongK,Xie W,Lee KH,Zhang SP,Lodge TP andFrisbieCD2013Adv.Mater 251822   \n[4]WuSM,TsuruokaT,TerabeK,HasegawaT,HillJP,ArigaK and Aono M2011 Adv. Funct.Mater. 21 93   \n[5] Loi A,ManunzaI and Bonfiglio A 2OO5 Appl. Phys. Lett. 86 103512   \n[6]Karnik R,Castelino Kand MajumdarA 2OO6 Appl.Phys.Lett. 88 123114   \n[7]IsakssonJ,KjallP,NilssonD,Robinson ND,Berggren Mand Richter-DahlforsA2007NatureMater.6673   \n[8]BernardsDA,MacayaDJ,NikolouM,DeFranco JA, TakamatsuSandMalliarasGG2Oo8J.Mater. Chem. 18 116   \n[9]BerggrenMand Richter-DahlforsA 2007 Adv.Mater:19 3201   \n[10]Lee J,Panzer MJ,HeYY,Lodge TP and Frisbie CD 2007 J.Am. Chem. Soc.1294532   \n11]PanzerMJandFrisbie CD20O8 Adv.Mater203177   \n[12] Tarabella G,MohammadiFM, Coppede N,Barbero F, Iannotta S,Santato Cand CicoiraF2013 Chem.Sci.41395   \n13]KimK,Chen CL,TruongQ, Shen AMand Chen Y 2013 Adv. Mater: 251693   \n14]LaiQX,ZhangL,LiZY,StickleWF,WilliamsRSand Chen Y2010 Adv. Mater: 222448   \n15]BerggrenM,NilssonD and RobinsonND 2OO7Nature Mater. 63   \n[16]BolandJJ201O NatureMater.9790   \n[17]TobjorkDandOsterbackaR2011Adv.Mater 231935   \n[18] Sun J,Wan Q,Lu AX and Jiang J2OO9 Appl.Phys. Lett. 95 222108   \n[19]LuAX,DaiMZ,SunJ,JiangJand Wan Q 2O11 IEEE ElectronDeviceLett.32518   \n[20] Jiang J, Sun J,Dou W,Zhou B and Wan Q 2O11 Appl.Phys. Lett. 98113507   \n[21]Dou W,ZhuLQ,JiangJand Wan Q 2013 Appl.Phys.Lett. 102 093509   \n[22] Zhu L Q, Sun J,Wu GD,Zhang HL and Wan Q 2013 Nanoscale 51980   \n[23] ZhangHL,WanQ,Wan CJ,Wu GD and ZhuLQ2013 Appl.Phys.Lett.102 052905 [24]ChoJH,LeeJ,XiaY,KimB,HeYY,Renn MJ,Lodge TP and Frisbie CD 2008 NatureMater: 7900 [25]HerlogssonL, Crispin X,Robinson ND, Sandberg M, Hagel OJ,Gustafsson G and Berggren M 20O7 Adv.Mater.   \n19 97 [26] Wu GD,ZhouJM,Zhang HL,Zhu LQand Wan Q 2012 IEEEElectronDeviceLett.331720 [27]Fortunato E,Barquinha P and Martins R 2O12 Adv.Mater.   \n24 2945 [28]BiGQand Poo MM1998 J.Neurosci.1510464 [29]AbbottLFandNelson SB 2OoO NatureNeurosci.31178 [30]Song S,MillerKD and AbbottLF2OOO Nature Neurosci.   \n3 919 [31] ZuckerR S and Regehr W G 2002 Ann.Rev.Physiol. 64 355 [32]Buonomano DV 2O00 J.Neurosci.201129 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

@@ -1,0 +1,376 @@
+[
+    {
+        "type": "text",
+        "text": "静电悬浮无容器方法测量热膨胀系数的研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孙一宁}²，王飞龙}²，孙志斌，于强，翟光杰（1.中国科学院复杂航天系统电子信息技术重点实验室中国科学院国家空间科学中心北京100190;",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.中国科学院大学北京 100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：传统接触测量的方法无法对高温范围的金属材料的热膨胀系数进行测量，结合静电悬浮无容器技术和图像测量方法，通过半导体激光器加热悬浮的样品，在加热的过程中利用CCD采集悬浮样品的图像，采用方向梯度算法提取图像中样品的边缘，并利用球谐函数拟合样品的体积，计算得到材料在不同温度下的热膨胀系数。采用纯锆的金属材料样品进行实验，在$7 5 0 \\mathrm { - } 1 8 0 0 ^ { \\circ } \\mathrm { C }$ 的温度范围内，测量得到固态样品锆的热膨胀系数随温度变化的表达式，验证了该测量方法的有效性和精度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：热膨胀系数；无容器方法；图像处理；热物性测量中图分类号：0551.3 文献标志码：A 文章编号：1674-5124(2016)00-0000-00",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Containerless measurement of thermal expansion by electrostatic levitation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wang Feilong1,2， Sun Yining1,2， Sun Zhibin'，Yu Qiang1， Zhai Guangjiel (1. Key Laboratory of Electronics and Information Technology for Space Systems,National Space Science ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Center, Chinese Academy of Sciences,Beijing 10o190, China; 2. University of Chinese Academy of Sciences, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Beijing 100049, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Traditional methods are difficult for the measurement of refractory metals in high temperatures.The containerless electrostatic levitation method is combined with image measurement technique.During the heating process,the levitated sample images are recorded by CCD camera.The image edge is extracted by direction gradient algorithm,and the volume can be calculated by a spherical harmonic function.Then thermal expansion coefficients at diferent temperatures can be calculated.The pure Zirconium sample is used to testthe measurement of thermal expansion coefficient in the range of $7 5 0 { - } 1 8 0 0 ^ { \\circ } \\mathrm { C }$ , the measuring method and accuracy are verified. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords：thermal expansion coeficient; containerless method; image processing;thermophysical properties measurement ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "热膨胀系数是材料基本的热物性参数之一，是工程设计、精密仪器制造、焊接、材料制备等领域中的不可忽略的重要参数[1,2]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "传统的热膨胀系数的测量方法包括顶杆法、干涉法和热膨胀法等[3]，这些方法都是采用加热装置与测量材料样品接触通过热传导的方式加热",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "样品，再利用光学等方法测量样品在不同温度下长度或体积的变化。由于测量过程样品与测试仪器的接触，能加热到的最高温度有限，并且在温度较高时材料样品的温度分布均匀性差，影响测量精度，导致有效的温度测量范围窄（一般温度测量范围低于1500K）。20世纪60年代，以电磁悬浮技术为代表的无容器非接触测量技术开始用于材料热物性的测量[4]。无容器技术利用气流[5]、声场[6]、电磁场[7]、静电场[8,9]等手段使样品悬浮起来，脱离与容器壁的接触，通过大功率的激光器加热使样品达到的温度范围更广甚至高于样品的熔点使样品熔化，另外悬浮的样品不易受器壁的遮挡，通过图像技术能够更高精度地测量样品体积的变化。对于温度范围较高的金属材料的热膨胀系数测量，需要在高真空环境下，一是真空环境下样品只通过辐射散热可以加热到更高的温度，二是防止样品氧化影响测量精度。气悬浮和声悬浮不适用于真空的环境，电磁悬浮技术的悬浮和加热是相耦合的，不能独立控制加热的温度，对于低温范围无法测量，并且电磁场产生的涡流式使熔化的样品形状不稳定，影响测量精度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文利用静电悬浮无容器材料实验装置[10]进行热膨胀系数的测量。静电悬浮技术解决电磁悬浮带来的问题，静电悬浮的加热是独立控制的，样品从加热到熔化都处于稳定的状态，该装置使用CCD相机与背景光源，从侧面获取清晰的样品图像并通过图像处理算法计算样品的体积变化。最后，通过对纯锆样品的实验，对该测量系统进行了验证和测试。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1实验装置",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对材料热膨胀系数的测量是基于静电悬浮材料科学实验平台，该实验装置包括真空腔体、悬浮位置控制系统、加热激光器、双波长测温仪和CCD测温仪，装置的结构如图1所示。真空腔体通过一组机械泵和分子泵保持在 $5 \\times 1 0 ^ { - 5 } \\mathrm { P a }$ 以下的高真空的实验环境。测试的材料为直径 $2 \\mathrm { - } 3 \\mathrm { m m }$ 的球形样品，在真空腔体内部有一组间距为 $1 0 \\mathrm { m m }$ 的高压平行极板，产生的高压电场使带电荷的测量样品在库仑力的作用下，抵消样品自身的重力悬浮起来，样品的位置通过反馈控制系统保持稳定[1]",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/fc43f186950cf7c5107ab62ad0872dd0614d9daa01fb91a0f689632ea47f0da4.jpg",
+        "img_caption": [
+            "图1静电悬浮装置结构图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "样品稳定悬浮之后，通过激光加热器对样品进行加热和双波长测温仪获取样品的温度。对测量样品的加热采用 $8 0 8 \\mathrm { n m }$ 的大功率半导体激光器，激光器的功率为90W，激光通过光纤引出，经过透镜聚焦到样品表面，对于金属材料最高加热温度可以达到 $2 5 0 0 ^ { \\circ } \\mathrm { C }$ 。样品加热温度的测量通过一台采样频率为 $5 0 \\mathrm { { H z } }$ 的双波长测温仪（SENSORTHERMMQ22）实现。双波长测温仪的利用两个临近波长的辐射度的比值计算样品的温度，所以不与样品的发射率、测量立体角等参数有关，测温精度较高。材料的热膨胀系数是在加热的过程中通过图像采集装置进行测量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/74008897c8ed6b6d06069cf154b65d150254225fbb776646872346f2ad1931cd.jpg",
+        "img_caption": [
+            "图2CCD相机采集到的加热样品的图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当样品在加热到很高温度之后，自身就会产生明亮的可见光，使图像边缘变得模糊。为了获得清晰的图像轮廓，采用卤素灯和毛玻璃作为背景光源，减弱样品自身发光的影响。由于样品处于无容器悬浮状态，即使样品熔化为液态，在表面张力的作用下仍保持近似球形，根据球形轴对称的性质，采集侧视的图像就可以通过图像处理算法精确得到样品的体积[12]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 图像处理算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了根据样品的图像精确测量样品的体积，需要通过图像处理的方法实现。首先，要从背景中提取样品的边缘，边缘提取根据像素点灰度值的梯度变化来确定边缘位置[13]，但梯度是具有方向的，通用的方法采用水平和垂直两个正交的方向计算梯度变化。由于样品为球形，在样品图像中垂直于边缘各点切线的方向具有最明显的梯度变化，所以只采用水平或垂直方向进行梯度变化的检测，对边缘的提取精度不够，本系统针对圆的边缘特点采用了方向梯度算法进行边缘像素点提取。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用360组从圆心 $( x _ { 0 } , y _ { 0 } )$ 发出的方向向量，每一组向量方向上将采集到一组具有方向特性的像素序列。 $( x _ { 0 } , y _ { 0 } )$ 是用来产生方向向量的近似圆心位置，可以采用外切矩形框的中心近似替代。产生的360组方向向量上的像素序列表示如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { x _ { i j } = r _ { j } \\sin \\theta _ { i } + x _ { 0 } } } \\\\ { { y _ { i j } = r _ { j } \\cos \\theta _ { i } + y _ { 0 } } } \\\\ { { \\theta _ { i } = 2 \\pi i / 3 6 0 } } \\end{array} \\Bigg ) , i = 1 , . . . , 3 6 0\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中 $i$ 是360组方向向量的索引， $j$ 是每一个方向向量上像素序列的索引， $x$ 和 $y$ 是水平和垂直的像素点坐标， $r _ { j }$ 是产生像素序列的半径，由于图像的像素点是离散的，半径 $r _ { j }$ 以一个像素点进行递增，直到产生的像素点到达图像的边缘。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "之后分别对每一组两维像素点序列作为一维的像素灰度值进行处理，对像素的灰度值进行微分得到该方向上梯度变化，样品的边缘就是在每一组方向向量上最大灰度梯度变化的像素点位置，处理得到360个边缘像素点坐标 $( x _ { i } , y _ { i } )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了提高边缘提取的精度， $x$ 和 $y$ 方向坐标的平均值用来作为新的近似中心点 $( x _ { 0 } , y _ { 0 } )$ ，用这个新的中心点重复式（1）的过程，重新产生360组向量并搜索边缘像素点。最终应用方向梯度算法得到样品图像边缘提取的结果如图3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8fa46d8a4316facbed847d5e0fc455dd06b81360487fd0e52c78b5db8f750f42.jpg",
+        "img_caption": [
+            "图3方向梯度算法提取样品图像的边缘"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过方向梯度方法得到边缘信息为一组像素点坐标，这些像素点坐标是离散的，即使采用高分辨率的CCD相机进行采集，像素点离散的特性也无法完全消除提取的图像边缘的锯齿状，这对精确计算样品的体积产生影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "系统采用球谐函数拟合的方法，通过有限的离散像素坐标点，通过拟合得到精确的球谐函数表示。球谐函数的表示形式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR ( \\theta ) = \\sum _ { n = 0 } ^ { 6 } c _ { n } P _ { n } ^ { 0 } ( \\cos \\theta )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $P _ { n } ^ { 0 } ( \\cos \\theta )$ 是阶数为 $n$ 的Legendre多项式，阶数越高拟合的精确度越高，但计算量也随之增大，系统采用6阶进行拟合， $c _ { n }$ 是需要拟合过程需要计算的系数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了对球谐函数进行拟合，需要把边缘提取得到的像素点从直角坐标转换为如下的极坐标形式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { R _ { i } = \\sqrt { ( x _ { i } - X _ { 0 } ) ^ { 2 } L _ { x } ^ { 2 } + ( y _ { i } - Y _ { 0 } ) ^ { 2 } L _ { y } ^ { 2 } } ~ } } \\\\ { { \\theta _ { i } = \\sin ^ { - 1 } [ { \\frac { ( x _ { i } - X _ { 0 } ) L _ { x } } { R _ { i } } } ] ~ } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $L _ { x }$ 和 $L _ { y }$ 是水平和垂直方向上的像素度量系数（毫米/像素），表示图像两个像素点之间的实际距离，和相机CCD芯片、与样品的距离以及镜头焦距等参数有关，通过对标准尺寸的样品进行标定得到， $X _ { 0 }$ 和 $Y _ { 0 }$ 是精确的像素坐标中心，需要通过拟合确定。由式（3）可以把样品图像边缘点由直径坐标 $( x _ { i } , y _ { i } )$ 转化为极坐标 $( R _ { i } , \\theta _ { i } )$ 来表示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过式（3）表示的极坐标点对式（2）中的系数进行拟合，拟合系数包括Legendre多项式的6阶系数 $c _ { 0 }$ 到 $c _ { 6 }$ 以及坐标中心 $X _ { 0 }$ 和 $Y _ { 0 }$ ，可以通过对如下的目标函数求取最小值来得到相关的拟合系数：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF ( X _ { 0 } , Y _ { 0 } , c _ { 0 } , . . . , c _ { 6 } ) = \\sum _ { i = 1 } ^ { 3 6 0 } [ R _ { i } - R ( \\theta _ { i } ) ] ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中，在角度 $\\theta _ { i }$ 的方向上，样品图像边缘点与对应的球谐函数的半径差值进行平方，对360组数据进行累加，对应目标函数的最小值就是拟合系数的最优解。首先，坐标中心 $X _ { 0 }$ 和 $Y _ { 0 }$ 用各像素点水平和垂直坐标的平均值进行初始化，根据式（2）， $R ( \\theta )$ 对于拟合系数是 $c _ { 0 }$ 到 $c _ { 6 }$ 是线性的，可以采用最小二乘法进行计算，得到初始 $X _ { 0 }$ 和 $Y _ { 0 }$ 下的最优系数解。分别改变 $X _ { 0 }$ 和 $Y _ { 0 }$ 的值，每次改变都需要重新对式（3）中的极坐标点进行计算，并采用最小二乘法重新计算使目标函数最小的一组新的Legendre多项式系数。经过拟合得到球谐函数式（2）的最优系数之后，可通过如下公式对样品图像轮廓半径的积分计算得到样品的体积：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV = \\frac { 2 \\pi } { 3 } \\int _ { 0 } ^ { \\pi } R ( \\theta ) \\ ^ { 3 } \\sin \\theta d \\theta\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "得到样品的体积之后，结合双波长测温仪采集温度变化数据，可以通过如下公式计算样品材料的膨胀系数：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta = \\frac { 1 } { V } ( \\frac { \\Delta V } { \\Delta T } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3实验过程和结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在实验开始之前，首先悬浮一个标准尺寸的不锈钢球样品对图像采集系统的分辨率进行标定，标定的样品悬浮稳定之后，调整CCD相机镜头的光圈、焦距和图像的对比度等参数，使样品图像清晰，一旦调整好在整个实验过程中都保持这些光学参数固定不变。通过测量标准样品在图像中的像素数，得到式（3）中水平和垂直方向上的像素度量系数 $L _ { x }$ 和 $L _ { y }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "系统经过标定后，放入经过真空电弧炉制备的纯锆样品（纯度 $9 9 . 9 9 \\%$ ），样品稳定悬浮状态下，通过半导体激光器加热直到完全熔化，然后关闭加热激光，样品通过辐射降温，紧接着凝固再辉。测温仪得到的熔点温度（ $\\mathrm { T } _ { m } { = } 1 8 5 2 ^ { \\circ } \\mathrm { C }$ ）与锆的熔点相符合。实验过程的激光加热和测温仪测量得到的温度数据如图4所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/167900a185475e16730e7a86be34e59a98b067c8c4e61a668cf2770cb1a3774f.jpg",
+        "img_caption": [
+            "图4实验过程样品加热和测量温度数据曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "测温仪温度的采集周期为 $2 0 \\mathrm { { m s } }$ ，系统每次从测温仪获取一次温度数据，就同步触发一次图像采集，这些图像数据连同对应的温度信息一起存储在计算机的硬盘上，待实验结束后对图像进行处理。由于装置的悬浮样品的位置稳定精度在 $\\pm$ $0 . 2 \\mathrm { { m m } }$ ，可以根据第一幅图像选定样品图像的处理区域并通过批处理的方法对每幅图像进行处理，根据式（5）计算样品的体积，结合温度信息得到样品体积随温度变化的曲线，如图5所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/54f7b6ee73e9d8b02314790d7a56796c9329f6c42d61ffebcf50e62f8ac7f20e.jpg",
+        "img_caption": [
+            "图5样品体积随温度变化曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在样品体积测量过程中，低温阶段和熔点温度附近测量精度较差，不对其进行计算，材料的热膨胀系数根据式（6）和体积与温度的测量数据进行计算，得到样品的热膨胀系数与温度的关系如图6所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3a3dad1710a8f09ceb9df80bacc42b65a1baa605c161a83bbb6c1afdf1216f62.jpg",
+        "img_caption": [
+            "图6样品热膨胀系数的变化曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于热膨胀系数的计算与样品的质量参数无关，所以其精度只取决于图像测量样品体积和双波长测温仪的精度。利用最小二乘法对图6中的数据进行线性拟合，得到固态样品锆的热膨胀系数随温度变化的表达式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta _ { Z r } = ( 1 . 5 7 3 \\times 1 0 ^ { - 5 } ) - ( 3 . 8 4 3 \\times 1 0 ^ { - 9 } ) \\times \\mathrm { T } \\pm 2 . 3 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( 7 5 0 { < } \\mathrm { T } { < } 1 8 0 0 ^ { \\circ } \\mathrm { C } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中，样品热膨胀系数 $\\beta _ { \\mathrm { z r } }$ 的单位为 $\\mathbf { K } ^ { - 1 }$ ，样品温度 $T$ 的单位为 $\\mathrm { { ^ \\circ C } }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文通过静电悬浮无容器的方法测量金属材料的热膨胀系数，提高了传统测量的方法的温度测量范围，最高有效温度达到2000K以上，并且比电磁悬浮等其他无容器测量方法精度更高，通过背景光源提高采集样品图像边缘的对比度，利用基于梯度的边缘提取算法和球谐函数拟合算法进一步提高样品体积的测量精度。最后，通过金属锆样品的实验验证了测量方法的有效性，为各领域的研究人员提供精确的高熔点合金材料的热膨胀系数测量数据和方法。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Physics Letters,2015(11):39-42.  \n[11]代斌,孙志斌，王飞龙，等.基于PSD的静电悬浮位置测量与控制系统设计[J].传感器与微系统，2015,34(3) :97-99.  \n[12]李小华.基于图像处理的MEMS微液滴体积测量方法［J]中国测试，2014(04)：37-41.  \n[13]唐艳丽，苏燕辰.数字图像处理在距离测量中的应用[J].中国测试,2009,35(1):63-67.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]陈桂生,廖艳,曾亚光,等.材料热物性测试的研究现状 及发展需求[J].中国测试,2010,36(5):5-8.   \n[2]朱玉英,李强,何云华,等.采用无容器凝固技术研究过 冷熔体热物理性质[J].材料导报,2009,23:78-81.   \n[3]杨新圆,孙建平,张金涛.材料线热膨胀系数测量的近代 发展与方法比对介绍[J].计量技术,2008(7):33-36.   \n[4]王青,戴剑锋,李维学,等.测定金属热膨胀系数的新方 法［J].物理,2003(10):32-34.   \n[5]胡亮,鲁晓宇,侯智敏.静电悬浮技术研究进展.物理, 2007,36(12) :944-950.   \n[6]Weber JKR,Hampton D S,Merkley D R，et al．Aero - acoustic levitation:A method for containerless liquid - phase processing at high temperatures [J]. Review of Scientific Instruments，1994,65(2):456 -465.   \n[7]Tian Y，Holt R G，Apfel R E.A new method for measuring liquid surface tension with acoustic levitation [J]. Review of Scientific Instruments, 1995，66(5) :3349-3354.   \n[8] Okress E C， Wroughton D M, Comenetz G， et al. Electromagnetic levitation of solid and molten metals ［J]． Journal of Applied Physics，1952, 23(5): 545-552.   \n[9] Rhim WK,Chung SK,BarberD,et al.An electrostatic levitator for high - temperature containerless materials processing in $\\mathrm { ~  ~ { ~ 1 ~ - ~ } ~ g ~ }$ ［J]．Review of Scientific Instruments，1993，64(10):2961-2970.   \n[10] Wang F L，Dai B,Liu X F，et al. Containerless heating process of a deeply undercooled metal droplet by electrostatic levitation[J].Chinese ",
+        "page_idx": 4
+    }
+]

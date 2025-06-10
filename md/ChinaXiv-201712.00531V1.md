@@ -1,0 +1,74 @@
+临床研究
+
+# 中西医结合治疗幽门螺杆菌感染的疗效观察
+
+卓少平广东省连平县中医院，广东河源517100
+
+摘要：目的探讨中西医结合在治疗幽门螺杆菌感染的临床疗效。方法将80例幽门螺杆菌感染患者按照抛硬币方法随机分为两组,标记为治疗组、对照组,每组40例。对照组患者采用西医疗法,治疗组患者采用中西医联合治疗，比较两组患者临床治疗效果。结果治疗组患者经过治疗后幽门螺杆菌根除率为 $9 5 . 0 \%$ ，对照组患者经过治疗后幽门螺杆菌根除率为 $7 0 . 0 \%$ ，两组患者间差异具有统计学意义（ $_ { \scriptstyle P < 0 . 0 5 } )$ 。治疗组患者恶心、食欲下降等并发症发生率为 $2 0 . 0 \%$ ，对照组患者恶心、食欲下降等并发症发生率为 $5 2 . 5 \%$ ,两组患者间差异具有统计学意义 $( P { < } 0 . 0 5 )$ 。结论中西医结合治疗幽门螺杆菌感染可明显提高临床治疗效果，提高幽门螺杆菌根除率,明显降低不良反应的发生，值得临床进一步推广应用。
+
+关键词：幽门螺杆菌感染；中西医结合；疗效
+
+# Effect of integrated Chinese and Western medicine for treatment of helicobacter pylori affection
+
+ZHUO Shaoping Chinese medicine hospital of Guangdong Lianping,Heyuan 5171oo, China
+
+Abstract: ObjectiveToexploretheeffectof Integrated Chineseand Western medicine fortreatmentof Helicobacter Pylori afection. Methods Eighty Helicobacter Pylori(HP)afected patients were randomly divided into2 groupsby tossing acoin, and were labeled with therapy group and control group, with 40 patients in each group. Western medicine was used in the control group,and Integrated Chinese and Western medicine wasused inthetherapy group.Theclinical efect wasompared between two groups. Results Eradication rate of HP in the therapy group was $9 5 . 0 \%$ after therapy,and the control group was $7 0 . 0 \%$ , respectively, with a significant difference $( P { < } 0 . 0 5 )$ . The commodity rate such as nausea, lower appetite in therapy group was $2 0 . 0 \%$ ， which was $5 2 . 5 \%$ in the control group, the difference between two groups was significant $_ { ( P < 0 . 0 5 ) }$ . Conclusion IntegratedChineseand WesternmedicineforHPtreatmentcanelevateclinicaltreatmentefect,improvetheeradicatioateof HP,and lower the adverse effect, and deserve popularizing in clinical works.
+
+Keywords:helicobacter pylori affection; integrated Chineseand Western medicine; treatment effect
+
+幽门螺杆菌感染是慢性胃炎发生的一个重要因素，它也是造成慢性胃炎临床治疗困难的一个重要因素。所以，根除就成了治疗慢性胃炎的一个必不可少的措施，而且大量临床实践表明，根除可明显提高慢性胃炎治疗的临床效果，明显降低其复发的可能性。本实验研究中西医结合在治疗幽门螺杆菌感染的临床疗效，取得满意效果，现将结果报告如下。
+
+# 1资料与方法
+
+# 1.1一般资料
+
+选择2012年8月\~2014年8月我院内科及门诊收治的慢性胃炎合并有幽门螺杆菌感染患者80例进行该项研究，均与患者签署知情同意书。将80例患者按照抛硬币方法随机分为两组，标记为治疗组、对照组。对照组40例患者．其中女15例，男25例，年龄18\~60岁，平均 $3 6 . 6 { \pm } 1 2 . 5 \$ 岁：治疗组40例患者，其中女14例，男26例，年龄19\~58岁，平均 $3 5 . 7 { \pm } 1 4 . 2 \$ 岁，两组患者在年龄、性别等一般资料方面差异无统计学意义（ $( P { > } 0 . 0 5 )$ ，具有可比性。
+
+# 1.2治疗方法
+
+对照组患者采用西医疗法,具体方案为：口服奥美拉唑 $4 0 ~ \mathrm { m g + }$ 克拉霉素 $0 . 5 ~ \mathrm { g } +$ 阿莫西林 $1 . 0 \ { \mathrm { g } } , 2$ 次/d,7 d为一个疗程，在治疗3个月后对患者进行电子胃镜检查。治疗组患者在对照组治疗的基础上加黄连、黄芩、大黄、公英、银花、藿香、佩兰、厚朴、半夏等具有清热解毒及清热燥湿等功效的中草药。冲服2次/d,28d为一个疗程,在治疗3个月后对患者进行电子胃镜检查[]。
+
+# 1.3疗效标准
+
+快速尿素酶实验以及病理组织学检查均没有发现幽门螺杆菌即可称之为根除幽门螺杆菌感染。
+
+# 1.4统计学方法
+
+采用SPSS16.0统计学软件对所有患者临床数据进行汇总、分析，计数资料选择率进行表示，行x检验。当$P { < } 0 . 0 5$ 时，表示两者之间差异具有统计学意义。
+
+# 2结果
+
+# 2.1两组患者幽门螺杆菌根除情况比较
+
+治疗组患者经过治疗后幽门螺杆菌根除率为
+
+$9 5 . 0 \%$ 。对照组患者经过治疗后幽门螺杆菌根除率为$7 0 . 0 \%$ 。两组患者间差异具有统计学意义 $\scriptstyle ( \chi ^ { 2 } = 4 . 5 2 7 , P <$ 0.05)。
+
+# 2.2两组患者治疗的不良反应发生情况
+
+表1两组患者治疗的不良反应发生情况 $( n { = } 4 0 )$   
+
+<html><body><table><tr><td>组别</td><td>恶心</td><td>食欲下降</td><td>腹部不适</td><td>皮疹</td></tr><tr><td>治疗组</td><td>5.02±3.21</td><td>2.17±2.15</td><td>1.26±0.18</td><td>0.12±1.26</td></tr><tr><td>对照组</td><td>8.24±4.33</td><td>7.23±3.26</td><td>4.36±1.28</td><td>2.13±1.26</td></tr><tr><td>x</td><td>1.26</td><td>2.31</td><td>3.21</td><td>2.16</td></tr><tr><td>P</td><td><0.05</td><td><0.05</td><td><0.05</td><td><0.05</td></tr></table></body></html>
+
+治疗组患者恶心、食欲下降等并发症发生率为$2 0 . 0 \%$ 。对照组患者恶心、食欲下降等并发症发生率为$5 2 . 5 \%$ 。两组患者间差异具有统计学意义 $\stackrel { \prime } { \chi } ^ { 2 } = 5 . 4 3 3 , P <$ 0.05,表1)。
+
+# 3讨论
+
+目前，中医药治疗幽门螺杆菌感染的药理作用及其机制的研究已经获得了重大的进展。目前大家公认为采用中医药治疗慢性胃炎、消化性溃疡合并幽门螺杆菌感染可明显提高临床治疗效果,有效降低疾病复发率，中医药的治疗作用主要体现为胃黏膜保护能力强，有效抑制胃酸分泌以及根除幽门螺杆菌感染等多方面。中西医联合治疗的最大优势在于治疗与抗复发同时存在[2-3]
+
+根据中医辨证理论分析，幽门螺杆菌感染属于郁热合并湿浊，所以在西医治疗的基础上加用一些清热解毒、清热燥湿等功效的中草药可明显提高临床治疗效果，方药:黄连、黄芩、大黄、公英、银花、藿香、佩兰、厚朴、半夏等都具有很好的清热解毒之功效[46。其中黄连、黄芩具有清热燥湿,泻火解毒功效,大黄具有攻积滞、清湿热、泻火、凉血、祛、解毒功效。公英具有清热解毒，利尿散结功效，银花具有宣散风热，清解血毒功效，藿香具有芳香化浊，和中止呕功效，佩兰具有芳香化湿,醒脾开胃的功效，厚朴具有行气消积，燥湿除满功效，半夏具有燥湿化痰，降逆止呕功效。在治疗的同时辩证加减用药，以及对患者进行饮食调理，尽可能少食用辛辣刺激性食物,禁烟酒，而且注重患者情绪的调理,这些措施对减少疾病复发均有一定的效果。实验研究结果显示治疗组患者恶心、食欲下降等并发症发生率与对照组患者间差异具有统计学意义[7-8]。说明中西医结合治疗慢性胃炎合并幽门螺杆菌感染临床疗效确切，而且可大大降低患者不良反应的发生。
+
+综上所述，中西医结合治疗可明显改善患者临床症状及体征，有效保护胃黏膜,特别是可很好地根除幽门螺杆菌感染,临床疗效明显,优于单纯西医治疗，并发症也减少,值得临床进一步推广应用[9-10]
+
+# 参考文献：
+
+[1］姚希贤.姚冬奇.中西医结合对幽门螺杆菌感染治疗价值的研究[J].医 学与哲学,2012,33(10):14-6.   
+[2]刘鹏程,林上助,王建中,等.中西药结合治疗幽门螺杆菌感染并功能 性消化不良[J].中国基层医药,2012,19(18):2787-8.   
+[3］林根友，肖兆群,陆维宏.中西医结合补救治疗幽门螺杆菌感染的临床 研究[J].中国现代医生，2013,51(18):93-6.   
+[4]张万岱,姚永莉.幽门螺杆菌感染的中西医结合治疗进展[C]/第二十 二届全国中西医结合消化系统疾病学术会谈沦文集,2010:20-4.   
+[5]Stammberger HR,Kennedy DW,Anatomic Terminology Group. Paranasal sinuses: anatomic terminology and nomenclature[J].Ann Otol Rhinol Laryngol Suppl,1995,167(6): 7-16.   
+[6]Wormald PJ.The agger nasi cell: the key to understanding the anatomy of the frontal recess [J].Otolaryngol Head Neck Surg, 2003,129(5):497-507.   
+[7]Choi BI,Lee HJ,Han JK,et al.Detection of hypervascular nodular hepatocellular carcinomas: value of triphasic helical CT compared with iodized-oil CT[J].AJR Am J Roentgenol,1997,168(1): 219-24.   
+[8]Khan MA，Combs CS,Brunt EM,et al．Positron emission tomography scanning in the evaluation of hepatocellular carcinoma [J].Ann Nucl Med,2000,32(5): 792-7.   
+[9]Tabit CE,Chung WB,Hamburg NM,et al. Endothelial dysfunction indiabetesmellitus:Molecularmechanismsand clinical implications[J].Rev Endocr Metab Disord,2010,11(1, SI): 61-74.   
+[10]Endemann DH, Schiffrin EL.Endothelial dysfunction[J].J Am Soc Nephrol,2010,15(8): 1983-92.

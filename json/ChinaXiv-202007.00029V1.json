@@ -1,0 +1,366 @@
+[
+    {
+        "type": "text",
+        "text": "干旱胁迫对 $\\mathrm { C } _ { 3 }$ 植物天山猪毛菜叶片C4光合酶和 $\\delta ~ ^ { 1 3 } \\mathrm { C }$ 值的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "闻志彬¹\\*，夏春兰1²，王玉兰1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1中国科学院新疆生态与地理研究所 中国科学院干旱区生物地理与生物资源重点实验室，乌鲁木齐830011；2中国科学院大学，北京101408)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以藜科猪毛菜属具有代表性的 $\\mathbf { C } _ { 3 }$ 荒漠半灌木植物天山猪毛菜（Salsola junatoviBotsch.)为研究对象，采用盆栽控水试验设置正常水分与轻度、中度和重度3种胁迫处理，测定不同程度干旱胁迫下叶片含水量、4 种C4光合酶[磷酸烯醇式丙酮酸羧化酶(PEPC)、NADP-苹果酸酶(NADP-ME）、NAD-苹果酸酶(NAD-ME)和磷酸烯醇式丙酮酸羧激酶(PEPCK)]的活性以及蛋白表达量、稳定碳同位素比值（ $\\delta ^ { 1 3 } \\mathrm { C }$ 值)；同时测定6个野外不同年平均降水量地区叶片的 $\\delta ^ { 1 3 } \\mathrm { C }$ 值，明确不同干旱胁迫对天山猪毛菜 $\\mathrm { C } _ { 4 }$ 光合酶和 $\\delta ^ { 1 3 } \\mathrm { C }$ 值的影响;探讨天山猪毛菜是否会通过增强 $\\mathrm { C } _ { 4 }$ 途径的表达来适应干旱胁迫。结果显示：（1）植物叶片含水量随干旱肋迫的加剧而降低；（2）4种光合酶，仅有PEPC 和NAD-ME 受到干旱胁迫的影响。这两种酶的活性和蛋白表达量变化趋势基本一致，它们均随着干旱胁迫程度的加剧先增加，并在中度干旱胁迫达到最大值，然后在重度干旱胁迫下急剧下降。NADP-ME 活性、PEPCK 活性及其蛋白表达量均不受干旱胁迫的影响；（3)尽管在轻度和中度干旱胁迫下天山猪毛菜叶片 $\\delta ^ { 1 3 } \\mathrm { C }$ 值升高，并在中度干旱胁迫下 $\\delta ^ { 1 3 } \\mathrm { C }$ 值最高，但在胁迫处理下 $\\delta ^ { 1 3 } \\mathbf { C }$ 值仍处于 $\\mathbf { C } _ { 3 }$ 植物范围内；野外样品叶片的 $\\delta ^ { 1 3 } \\mathrm { C }$ 值表明，年降水量相对较少的3个地区样品 $\\delta ^ { 1 3 } \\mathbf { C }$ 值高。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：光合碳同化途径； $\\mathrm { C } _ { 3 }$ 荒漠植物；干旱胁迫； $\\mathrm { C } _ { 4 }$ 光合酶；天山猪毛菜",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "被子植物的光合碳同化途径，可根据其 $\\mathrm { C O } _ { 2 }$ 同化过程中的最初产物与碳代谢差异，分为 $\\mathbf { C } _ { 3 }$ 途径、 $\\mathrm { C } _ { 4 }$ 途径和景天酸代谢途径（CAM）3种，相应的植物分别被称为 $\\mathbf { C } _ { 3 }$ 植物、 $\\mathrm { C } _ { 4 }$ 植物和 CAM 植物[1]。其中， $\\mathrm { { C _ { 4 } } }$ 途径被认为是由 $\\mathbf { C } _ { 3 }$ 途径经过60 多次独立进化形成的[2-3]。$\\mathrm { C } _ { 4 }$ 途径在被子植物每一科属中各自独立进化[4]，这种多源进化的特点表明光合途径由 $\\mathbf { C } _ { 3 }$ 途径向 $\\mathrm { C } _ { 4 }$ 途径的转变相对简单[5]。任何降低大气 $\\mathrm { C O } _ { 2 }$ 浓度和增强植物光呼吸的环境因子都会诱导 $\\mathrm { C } _ { 4 }$ 光合途径的出现[3]。光合途径由 $\\mathbf { C } _ { 3 }$ 途径向 $\\mathrm { C } _ { 4 }$ 途径转变，是植物对逆境的适应性进化结果，也是植物增强生存能力和竞争能力的需要[6。与 $\\mathbf { C } _ { 3 }$ 植物相比，具有 $\\mathrm { C O } _ { 2 }$ 浓缩机制的$\\mathrm { C } _ { 4 }$ 植物在高温、强光和低水分条件下具有更高效的光合效率和水分利用效率[7]，因此， $\\mathrm { C } _ { 4 }$ 植物在高温、强光和低水分条件下比 $\\mathbf { C } _ { 3 }$ 植物具有较强的竞争优势[]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一般来说，大部分植物只利用一种光合碳同化途径[，但在特定环境条件下，植物的光合碳同化途径会发生相应的改变[8]。在各种环境调控中以干旱引起的 $\\mathbf { C } _ { 3 }$ 、 $\\mathrm { C } _ { 4 }$ 途径之间的转化最多[8-12]，表现在光合结构、光合生理生化特征等方面。如莎草科的两栖生物 Eleocharisvivipara在陆生条件下叶片具有Kranz结构和很高的 $\\mathrm { C } _ { 4 }$ 光合作用酶（磷酸烯醇式丙酮酸羧化酶(PEPC)、丙酮酸磷酸双激酶（PPDK）和 NAD-苹果酸酶（NAD-ME)）活性，而在淹水条件下叶片没有Kranz 结构并且 $\\mathrm { C } _ { 4 }$ 光合酶活性很低[o];禾本科的毛颖草(Alloteropsis semialata)在低温多雨地区以 $\\mathrm { C } _ { 3 }$ 途径固定 $\\mathrm { C O } _ { 2 }$ ，而在高温干旱地区则经 $\\mathrm { C } _ { 4 }$ 途径固定 $\\mathrm { C O } _ { 2 } ^ { [ 1 ] }$ ： $\\mathbf { C } _ { 3 }$ 植物芦苇的光合碳同化途径随土壤水分胁迫强度的增加发生从 $\\mathbf { C } _ { 3 }$ 向 $\\mathrm { C } _ { 4 }$ 的转变，芦苇在沼泽环境中执行类似 $\\mathbf { C } _ { 3 }$ 途径，在盐化草甸环境中发展出 $\\mathrm { C } _ { 3 ^ { - } } \\mathrm { C } _ { 4 }$ 中间型偏 $\\mathbf { C } _ { 3 }$ 途径，在沙丘环境中发展出$\\mathrm { C } _ { 3 ^ { - } } \\mathrm { C } _ { 4 }$ 中间型偏 $\\mathrm { C } _ { 4 }$ 途径[11,13]。荒漠 $\\mathbf { C } _ { 3 }$ 植物细枝岩黄芪（Hedysarum scoparium）随着水分胁迫的加剧， $\\mathrm { C } _ { 4 }$ 光合酶（PEPC 和NAD-ME）活性逐渐升高，且与抗氧化保护酶系统协同作用来抵御逐渐加剧的干旱胁迫[14]。随干旱胁迫强度的增加会加大植物碳同化途径从 $\\mathbf { C } _ { 3 }$ 到 $\\mathrm { C } _ { 4 }$ 转变的可能，进而通过叶片解剖、超微结构和生理生化特性等一系列的改变来提高水分利用效率适应环境[15-18]。因此，光合碳同化途径转变的角度是分析植物如何适应干旱环境的重要切入点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物的光合碳同化途径易于受到环境的影响，其本身具有一定的环境调控性，与未来全球气候变化以及人类活动紧密相关[19]。在全球气候变化下， $\\mathbf { C } _ { 3 }$ 植物为了更好的生存和发挥其生态作用，它们的光合碳同化途径是否会发生趋向于 $\\mathrm { C } _ { 4 }$ 植物的适应性调整，这些涉及到植物对环境变化的适应性问题值得深入研究。干旱区是公认的、对全球变化最敏感的地区之一[20]。水分是荒漠区生态系统的主要驱动因子，对植物的生长发育起着至关重要的作用[21-22]。因此，该地区植物的生物学反应主要受水分可用性的调控，为研究植物适应全球变化的理想材料。天山猪毛菜（Salsola junatovii Botsch.）隶属于藜科猪毛菜属（SalsolaL.），中国特有种[23]，半灌木，典型的 $\\mathrm { C } _ { 3 }$ 荒漠植物，其稳定碳同位素比值（ $\\mathbf { \\delta } ^ { \\mathrm { \\delta \\delta } }$ 值）为 $2 0 . 4 \\text{‰}$ ，属于$\\mathrm { C } _ { 3 }$ 植物的稳定碳同位素比值（ $\\big \\langle \\delta ^ { 1 3 } \\mathbf { C }$ 值）范围（ $- 3 0 \\% \\sim - 2 1 \\%$ ）[25]。通过研究干旱胁迫下天山猪毛菜的 $\\mathrm { C } _ { 4 }$ 光合关键酶[PEPC，NAD-ME，NADP-苹果酸酶（NADP-ME）和磷酸烯醇式丙酮酸羧激酶PEPCK]的活性和蛋白表达量，以及 $\\delta ^ { 1 3 } \\mathrm { C }$ 值，试图回答：（1）不同干旱胁迫对天山猪毛菜 $\\mathrm { C } _ { 4 }$ 光合酶和 $\\delta ^ { 1 3 } \\mathrm { C }$ 值的影响；（2） $\\mathbf { C } _ { 3 }$ 植物天山猪毛菜是否会通过增强 $\\mathrm { C } _ { 4 }$ 光合途径的表达程度来适应干旱胁迫？预期成果有助于理解荒漠 $\\mathbf { C } _ { 3 }$ 植物天山猪毛菜在不同环境下的适应策略，对深入研究干旱区植物响应环境因子及其适应机制具有重要意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1供试材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "供试材料天山猪毛菜的种子于2015年10月采自新疆库车， $4 ^ { \\circ } \\mathrm { C }$ 条件下保存。水分控制实验于2017年在中国科学院新疆生态与地理研究所进行。在当年4月份将供试材料的种子在室外播种，试验所用塑料盆规格为 $3 0 \\mathrm { c m }$ （高） $\\times 2 6 \\mathrm { c m }$ （内径)，盆栽所用土壤为3:1（v:v)混合的基质土和沙土，田间持水量为 $2 4 . 5 \\%$ 。供试材料采取自然光照，盆栽苗的上方设有防雨棚，在试验期间对植物进行正常水分管理。正式水分胁迫处理前1周进行定苗，每盆保留3 株。对12周龄的试验材料进行干旱胁迫。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干旱胁迫试验设计参考闻志彬等[26],包括4个试验处理，正常(CK，田间持水量的 $80 \\%$ ）轻度干旱胁迫（T1，田间持水量的 $6 0 \\%$ )、中度干旱胁迫（T2，田间持水量的 $45 \\%$ ）和重度干旱胁迫（T3，田间持水量的 $3 5 \\%$ )，每个处理设置4个生物学重复。正式水分胁迫处理期间,每天用称重法补充损失的水分，使其维持在上述的处理条件，处理5d后于8月3日11:00收集植株的叶片。一部分叶片用于测定叶片含水量，立即拿回实验室进行处理；一部分CK处理下的叶片直接放入FAA（福尔马林:醋酸：酒精 $= 1 8 { : } 1 { : } 1$ ）进行固定，用于观察叶片的解剖结构；一部分叶片放入硅胶中干燥固定，经烘干研磨后用于 $\\delta ^ { 1 3 } \\mathbf { C }$ 值的测定；其余叶片立即放入液氮中，用于光合酶活性和蛋白表达量的测定。同时，在植株生长的过程中收集子叶，将完全开展10\\~12天的子叶放入FAA中进行固定，用于观测子叶的解剖结构。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "供试材料天山猪毛菜的野外样品根据年平均降水量（数据来自中国气象网和WorldClim）采自新疆的和静（YQ）、阿克陶（AKT）、库车（KC）、拜城（BC）、乌恰（WQ）和阿合奇(AHQ)。5个采样点的地理信息和年平均降水量见表1。采集的样品放入硅胶中干燥固定，用于后续的 $\\delta ^ { 1 3 } \\mathbf { C }$ 值测定。试验材料由笔者鉴定，鉴定标本存放在中国科学院新疆生态与地理研究所标本馆（XJBI)。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/0651520cd23820e8709533873a249e51fbbf01648f64d3074c36bed7ad708648.jpg",
+        "table_caption": [
+            "表16个不同降水量地区天山猪毛菜居群的基本信息及相应的叶片 $\\bar { \\mathsf { \\Omega } } ^ { 1 3 } \\mathsf { C }$ 值"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>居群 编号</td><td>采集地信息</td><td>纬度</td><td>经度</td><td colspan=\"2\">年平均降水量/mm</td><td>813C值/%</td></tr><tr><td>YQ</td><td>和静县巴伦台镇至焉</td><td>41°59'N</td><td>86°17'E</td><td>中国气象网 80</td><td>WorldClim 87</td><td>-21.114±0.145a</td></tr><tr><td>AKT</td><td>耆县七星峡途中 阿克陶县前往布伦口</td><td>38°57N</td><td>75°30'E</td><td>79.6</td><td>79</td><td>-21.267±0.234a</td></tr><tr><td>KC</td><td>乡途中 库车县阿格乡至天山</td><td>42°05'N</td><td>83°02'E</td><td>65</td><td>118</td><td>-21.408±0.158a</td></tr><tr><td>BC</td><td>大峡谷途中 拜城县城至铁热克镇</td><td>41°50'N</td><td>81°42'E</td><td>171.3</td><td>145</td><td>-24.285±0.256b</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ea6dc8d99e30f5008773803e25c4fc81e9e679835d93dfa1e37755f8c8d1cf3c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">途中</td></tr><tr><td>WQ</td><td>乌恰县巴音库鲁提乡</td><td>39°50'N</td><td>75°34'E</td><td>163</td><td>155</td><td>-24.226±0.208b</td></tr><tr><td>AHQ</td><td>阿合奇县色帕尔乡</td><td>40°56'N</td><td>78°35'E</td><td>185</td><td>177</td><td>-24.476±0.342b</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2研究方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.1子叶和叶片的解剖结构",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FAA 固定的子叶和真叶经过系列酒精梯度脱水、乙醇和二甲苯的透明处理以及二甲苯和蜡的渗蜡处理后，用旋转式薄片切片机（Leica2235）对包埋材料进行切片，厚度为 ${ 8 \\mu \\mathrm { m } }$ 经过番红和固绿双重染色以及二甲苯透明后，用中性树胶封片，制成永久切片[27]，然后在光学显微镜（OlympusDP70）下观察拍照，子叶和真叶各设3次重复。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.2叶片含水量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "取 2g 左右的新鲜叶片，用电子天平称重后，放入 $1 0 5 ^ { \\circ } \\mathrm { C }$ 烘箱内2h，然后于 $8 0 ^ { \\circ } \\mathrm { C }$ 烘箱内烘 8\\~10h 使叶片达到恒重,冷却后称其干重。计算公式为叶片含水量 $\\scriptstyle =$ （样品鲜重-样品干重)样品鲜重 $\\times 1 0 0 \\%$ 。重复3次测定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.3叶片 ${ \\sf C } _ { 4 }$ 光合酶活性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "酶的提取按Voznesenskaya 等[28]的方法稍微改进。取 $0 . 3 \\mathrm { g }$ 新鲜叶片，加少量石英砂和预冷的 $2 . 0 \\mathrm { m L }$ 的 $1 0 0 \\ \\mathrm { m m o l } \\cdot \\mathrm { L } ^ { - 1 }$ Tris-HCl缓冲液（ $\\mathrm { p H } ~ 7 . 8$ ，内含 $5 \\%$ 的甘油、 $1 \\%$ 聚乙烯吡咯烷酮PVP，1mmol‘ $\\cdot \\mathrm { L } ^ { - 1 }$ EDTA、 $1 0 \\mathrm { m m o l } \\cdot \\mathrm { L } ^ { - 1 }$ 巯基乙醇)，在冰浴上迅速研磨匀浆， $4 ^ { \\circ } \\mathrm { C }$ 、15000g下离心 $1 5 \\mathrm { m i n }$ ，取上清液待测。PEPC、NAD-ME 和 NADP-ME 的测定方法具体参考Wen等[29]。PEPCK的测定方法参考王莹等[30]。每个指标均重复3次。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. 2.4 ${ \\sf C } _ { 4 }$ 光合酶的蛋白表达量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "叶片蛋白的提取参考王莹等[30]。取 $0 . 1 \\mathrm { g }$ 叶片放入预冷的研钵中，加入液氮将其研磨成粉末，将其转移至含有 $1 \\mathrm { m L }$ 蛋白提取液的离心管中，充分混匀后，在 $4 ^ { \\circ } \\mathrm { C }$ 、 $1 5 0 0 0 \\mathrm { g }$ 下离心$1 5 \\mathrm { m i n }$ ，取上清液后加入一定量的蛋白上样缓冲液煮沸 $5 { \\sim } 1 0 \\mathrm { m i n }$ 。后续的电泳、转膜、封闭、孵育一抗和二抗的实验步骤参考Wen 等[29]，用ECL发光液曝光后拍照。图像用 ImageJ软件进行量化，将对照组设置为 $100 \\%$ 。每个指标均重复3次。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.5叶片 $\\delta \\ ^ { 1 3 } 0$ 值",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用稳定气体同位素质谱仪（DeltaVAdvantage）测定植物叶片的 $\\delta ^ { 1 3 } \\mathrm { C }$ 值。每个供试样品重复制备3次。计算公式为 $\\delta ^ { 1 3 } \\mathrm { C ( \\% o ) } { = } [ ( R _ { \\mathrm { s a m p l e } } ~ { - } ~ R _ { \\mathrm { s t a n d a r d } } ) / R _ { \\mathrm { s t a n d a r d } } ] \\times 1 0 ^ { 3 }$ 。公式中， $R _ { \\mathrm { s a m p l e } }$ 是样品同位素丰度比， $R _ { \\mathrm { s t a n d a r d } }$ 是标准的同位素丰度比[31-32]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3数据处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "使用 SPSS 22.0 对不同处理间的数据进行单因素分析（one-wayANOVA）和多重比较(LSD)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1天山猪毛菜子叶和真叶的解剖结构",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "天山猪毛菜子叶和真叶的解剖结构类型相似（图1)，都具有 $\\mathbf { C } _ { 3 }$ 植物解剖结构的典型特征，即不具有Kranz 结构，具有表皮，2\\~3层的栅栏细胞以及不连续的维管束鞘细胞。不同之处，与子叶相比，真叶解剖结构中贮水细胞更大。结合天山猪毛菜叶片的 $\\delta ^ { 1 3 } \\mathbf { C }$ 值，可以确定天山猪毛菜为 $\\mathbf { C } _ { 3 }$ 植物。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a81f511eade3a6876267b39fb8c746927c831da0735263af6cf4c4ab2964b9c.jpg",
+        "img_caption": [
+            "图1天山猪毛菜子叶（a）和真叶（b）的解剖结构注：BS，维管束鞘细胞；PM，栅栏组织；VB，维管束；WS，贮水组织，Fig.1 Anatomical structure of cotyledon (Up) and leaf (Down) of Salsola junatovii"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2干旱胁迫对叶片含水量的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "随着干旱胁迫的加剧，天山猪毛菜叶片含水量呈现逐渐下降的变化（图2)。与对照相 比，叶片含水量在轻度干旱胁迫下受到的影响较小，而在中度和重度干旱胁迫下分别下降了 $1 4 . 6 \\%$ 和 $3 7 . 7 \\%$ ( $P { < } 0 . 0 5 { \\mathrm { : } }$ ）° ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/5341108bf7ad5617128e06282411b2b2eab2bf0b259f347a90f76e6169506ee8.jpg",
+        "img_caption": [
+            "图2干旱胁迫下天山猪毛菜叶片含水量的变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Changes of leaf water contents of Salsola junatovii under soil drought stressCK、T1、T2和T3分别表示对照、轻度、中度和重度干旱胁迫处理；不同小写字母表示种内处理间在0.05水平存在显著性差异；每个值是平均值±标准差；下同",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3干旱胁迫对叶片 ${ \\sf C } _ { 4 }$ 光合酶活性的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图3可以看出，PEPC 活性随着干旱胁迫的加剧先增加后降低，对照与各个胁迫处理之间差异均显著;与对照相比，其PEPC 活性在轻度和中度干旱胁迫下分别显著增加了 $4 4 . 6 \\%$ 和 $5 4 . 5 \\%$ ，在重度干旱胁迫下显著降低了 $3 3 . 1 \\%$ （ $_ { _ { P < 0 . 0 5 } ) }$ 。天山猪毛菜 NADP-ME 活性在对照就非常低，为 $0 . 1 9 6 \\mu \\mathrm { m o l } { \\cdot } \\mathrm { m i n } ^ { - 1 } { \\cdot } \\mathrm { m g } ^ { - 1 } \\mathrm { C h l }$ 。干旱胁迫对 NADP-ME 的活性影响不大，其活性在对照与各个干旱胁迫之间差异均不显著（ $\\scriptstyle P > 0 . 0 5 { \\mathrm { . } }$ )。NAD-ME 活性随着干旱胁迫的加剧先增加后降低，并在中度干旱胁迫下达到最大值（ $0 . 7 5 4 \\ \\mu \\mathrm { m o l } { \\cdot } \\mathrm { m i n } ^ { - 1 } { \\cdot } \\mathrm { m g } ^ { - 1 } \\mathrm { C h l } )$ ，然后在重度干旱胁迫时急剧下降。与对照相比，其NAD-ME 活性在轻度和中度干旱胁迫下分别显著增加了 $2 4 . 5 \\%$ 和 $6 1 . 6 \\%$ ，在重度干旱胁迫下显著降低了 $3 7 . 5 \\%$ ( $P { < } 0 . 0 5 )$ 。干旱胁迫对PEPCK的活性影响不大，其活性在对照与各个干旱胁迫之间差异均不显著（ $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/abaee24160d7adc09933ac889d20481d7cddddbe0181dea5a514c48456f24357.jpg",
+        "img_caption": [
+            "图3干旱胁迫下天山猪毛菜叶片PEPC、NADP-ME、NAD-ME和PEPCK 活性的变化 Fig.3 Changes of PEPC,NADP-ME,NAD-ME and PEPCK activities of Salsola junatovii under soil drought stress "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4干旱胁迫对叶片 ${ \\sf C } _ { 4 }$ 光合酶蛋白表达量影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由图4可以看出,PEPC的蛋白表达量随着干旱胁迫的加剧先增加后降低，与对照相比，其PEPC 蛋白表达量在轻度和中度干旱胁迫下分别显著增加了 $7 . 6 \\%$ 和 $1 4 . 3 \\%$ ( $P { < } 0 . 0 5 )$ ，而在重度干旱胁迫下其蛋白表达量虽降低，但是与对照之间差异不显著（ $( P { > } 0 . 0 5 )$ )。NADP-ME在天山猪毛菜中没有检测出。NAD-ME 的蛋白表达量随着干旱胁迫的加剧先增加后降低，并在中度干旱胁迫下达到最大值，在重度干旱胁迫时急剧下降。与对照相比，其 NAD-ME的蛋白表达量在轻度和中度干旱胁迫下分别显著增加了 $9 . 7 \\%$ 和 $3 5 . 8 \\%$ ，在重度干旱胁迫下显著降低了 $7 . 4 \\%$ ( $_ { _ { P < 0 . 0 5 ) } }$ 。干旱胁迫对PEPCK 的蛋白表达量影响不大，在对照与各个干旱胁迫之间差异均不显著（ $. P { > } 0 . 0 5 \\$ ）",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8917e9cafc26e9a45181851b03705b6d97191222b77df0024f553573ccaf2f07.jpg",
+        "img_caption": [
+            "图4干旱胁迫下天山猪毛菜叶片PEPC、NAD-ME和PEPCK蛋白表达量的变化 Fig. 4 Changes of PEPC,NAD-ME and PEPCK protein of Salsola junatovii under soil drought stress "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5干旱胁迫对叶片 $\\bar { \\mathsf { \\Sigma } } ^ { 1 3 } \\mathsf { C }$ 值的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "随着干旱胁迫的增强，叶片 $\\delta ^ { 1 3 } \\mathbf { C }$ 值先缓慢降低，在中度干旱胁迫下降低到最大值（204号 $( - 2 3 . 3 5 \\text{‰}$ )。与对照相比，轻度和重度干旱胁迫下的叶片 $\\delta ^ { 1 3 } \\mathrm { C }$ 值差异不显著（ $. P { > } 0 . 0 5 \\$ 。中度干旱胁迫下与其他处理间差异显著 （ $. P { < } 0 . 0 5$ ）（图5）。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/cdb1b89c91d2bbd05f1624607f9bb7b32dade632ea04f5f8c2bf3458ecaf6895.jpg",
+        "img_caption": [
+            "图5干旱胁迫下天山猪毛菜叶片 $\\bar { \\mathsf { \\Sigma } } ^ { 1 3 } \\mathsf { C }$ 值的变化 Fig.5 Changes of $\\delta ^ { 1 3 } \\mathrm { C }$ values of Salsola junatovii under soil drought stress "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.6 野外不同降水量地区天山猪毛菜叶片的 $\\bar { \\mathsf { \\Sigma } } ^ { 1 3 } \\mathsf { C }$ 值",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "6 个野外样品叶片的 $\\delta ^ { 1 3 } \\mathrm { C }$ 值表明，年平均降水量较少的YQ，AKT和KC，其样品 $\\delta ^ { 1 3 } \\mathbf { C }$ 值的范围在 $- 2 1 . 5 7 \\% 0 \\sim - 2 0 . 9 7 \\%$ ，且这3个采集地样品的 $\\delta ^ { 1 3 } \\mathrm { C }$ 值之间差异不显著（ $P { > } 0 . 0 5 )$ ;年平均降水量相对较多的 BC、WQ 和 AHQ，其样品 $\\delta ^ { 1 3 } \\mathbf { C }$ 值的范围在 $- 2 4 . 8 2 \\% 0 \\sim - 2 4 . 0 2 \\%$ 且样品之间的 $\\delta ^ { 1 3 } \\mathbf { C }$ 值差异不显著（ $( P { > } 0 . 0 5 )$ 。但是年平均降水量存在较大差异的两组地区，其样品叶片的 $\\delta ^ { 1 3 } \\mathrm { C }$ 值差异显著（ $. P { < } 0 . 0 5$ ）(表1)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "PEPC、NADP-ME、NAD-ME 和PEPCK均是 $\\mathrm { C } _ { 4 }$ 途径中的关键光合酶。在 $\\mathrm { C } _ { 4 }$ 途径中，进入叶肉细胞的 $\\mathrm { C O } _ { 2 }$ 在细胞质中被催化为 $\\mathrm { H C O } _ { 3 } ^ { - }$ ，然后在PEPC的催化下，形成草酰乙酸根据催化脱羧反应酶的不同，将 $\\mathrm { C } _ { 4 }$ 途径分为3种类型，包括NADP-ME 型、NAD-ME 型和PEPCK 型，NADP-ME、NAD-ME 和PEPCK分别是上述类型中的脱羧酶[1]。本研究中，仅有 PEPC 和NAD-ME 受到干旱胁迫的影响。天山猪毛菜叶片PEPC 活性随着干旱胁迫程度的加剧先缓慢增加，并在中度干旱胁迫达到最大值，然后在重度干旱胁迫下急剧下降（图3)。在轻度和中度干旱胁迫下PEPC 蛋白表达量的变化趋势与酶活性一致，而在重度干旱胁迫下其蛋白表达量虽降低，但是与对照之间差异不显著（ $. P { > } 0 . 0 5$ ）（图4)。在轻度和中度干旱胁迫下，叶片PEPC 活性的增加，可能在一定程度上来源于PEPC蛋白合成的增加，毕竟PEPC基因转录水平的提高或蛋白磷酸化水平的提高也能引起 PEPC 活性的增加[29,33]。除了PEPC、NAD-ME酶，其蛋白含量也受干旱胁迫的影响，并且变化趋势基本一致，即 NAD-ME 活性/蛋白含量随着干旱胁迫的加剧先增加后降低，并在中度干旱胁迫下达到最大值，然后在重度干旱胁迫时急剧下降(图3和图4)。荒漠 $\\mathbf { C } _ { 3 }$ 植物细枝岩黄芪随水分胁迫的加剧,叶片PEPC和 NAD-ME 活性也逐渐升高[14]。荒漠 $\\mathbf { C } _ { 3 }$ 植物蒿叶猪毛菜（S.abrotanoides）随着干旱的加剧，叶片PEPC 的酶活性、基因表达量以及蛋白表达量逐渐升高，NADP-ME 酶活性升高，而 NAD-ME 酶活性和表达量均降低[12]。虽然上述物种受干旱胁迫影响的酶不尽相同，但一致的是，一定程度上干旱胁迫均会提高 $\\mathbf { C } _ { 3 }$ 植物的 PEPC 活性。 $\\mathbf { C } _ { 3 }$ 植物的光合酶中存在 $\\mathrm { C } _ { 4 }$ 型 PEPC 同工酶[34-35],并且该类植物中PEPC参与了 $\\mathrm { C O } _ { 2 }$ 的固定[36]。因此，该酶活性的提高，会引起 $\\mathbf { C } _ { 3 }$ 植物 PEPC 固定 $\\mathrm { C O } _ { 2 }$ 量的提高，进而会引起 $\\mathbf { C } _ { 3 }$ 植物中 $\\mathrm { C } _ { 4 }$ 途径的加强。本研究中天山猪毛菜叶片PEPCK 活性以及蛋白含量均不受干旱胁迫的影响（图3和图4)，在荒漠$\\mathbf { C } _ { 3 }$ 植物蒿叶猪毛菜中，PEPCK 的蛋白含量也不受干旱程度的影响[12]（该文未测 PEPCK 活性)。更有趣的是，在正常水分条件下，天山猪毛菜的 PEPCK 值为 $2 . 3 \\mu \\mathrm { m o l } \\cdot \\mathrm { m i n } ^ { - 1 } \\cdot \\mathrm { m g } ^ { - 1 } \\mathrm { C h l }$ 与该属 $\\mathrm { C } _ { 4 }$ 植物木本猪毛菜的值接近（ $2 . 5 \\mu \\mathrm { m o l } { \\cdot } \\mathrm { m i n } ^ { - 1 } { \\cdot } \\mathrm { m g } ^ { - 1 } \\mathrm { C h l }$ ，未发表数据)，这也从酶活性的角度说明，PEPCK可能还有其他的功能，而不仅是在 $\\mathrm { C } _ { 4 }$ 循环中起作用。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "植物叶片的 $\\delta ^ { 1 3 } \\mathbf { C }$ 值是常用的相对快捷的研究植物光合类型的指标之一。在 $\\mathbf { C } _ { 3 }$ 植物中，$\\delta ^ { 1 3 } \\mathbf { C }$ 值一般为 $3 0 \\% \\sim - 2 1 \\%$ ，而 $\\mathrm { C } _ { 4 }$ 植物的 $\\delta ^ { 1 3 } \\mathbf { C }$ 值一般为- $. 1 5 \\% \\sim - 1 0 \\% 0 ^ { [ 2 5 ] }$ 。造成其范围差异的原因是， $\\mathbf { C } _ { 3 }$ 和 $\\mathrm { C } _ { 4 }$ 植物在发生光合作用时，对 $\\mathrm { C O } _ { 2 }$ 的选择方式不同，从而导致了碳同位素分馏模式以及稳定碳同位素组成的不同[37-38]。在本研究中，与对照相比，在轻度和中度干旱胁迫下天山猪毛菜叶片 $\\delta ^ { 1 3 } \\mathbf { C }$ 值升高（图5)，这可能是由于在上述处理中，叶片 $\\mathrm { C } _ { 4 }$ 光合酶PEPC和NAD-ME 酶活性与蛋白含量均升高（图3和图4)，造成 $\\mathrm { C } _ { 4 }$ 途径随之加强，且随着$\\mathrm { C } _ { 4 }$ 途径的贡献增大，碳同位素分馏受到影响，使得 $\\delta ^ { 1 3 } \\mathbf { C }$ 值表现出升高趋势。但是在目前研究的干旱胁迫下，天山猪毛菜 $\\mathbf { C } _ { 3 }$ 光合途径仍然起到主导作用，其 $\\delta ^ { 1 3 } \\mathbf { C }$ 值处于 $\\mathbf { C } _ { 3 }$ 植物范围内。 $\\delta ^ { 1 3 } \\mathbf { C }$ 值也与植物的水分利用效率具有正相关性，可以反映植物水分利用效率的高低[12,37,39]。因此， $\\mathbf { C } _ { 3 }$ 植物天山猪毛菜在轻度和中度干旱胁迫下，通过发展 $\\mathrm { C } _ { 4 }$ 途径，进而提高水分利用效率。6个野外样品叶片的 $\\delta ^ { 1 3 } \\mathbf { C }$ 值表明，年平均降水量较少的地区（YQ、AKT和 KC)比年平均降水量相对较多的地区（BC、WQ 和 AHQ）样品 $\\delta ^ { 1 3 } \\mathbf { C }$ 值高(表1)。这也表明在一个更长期的尺度上，年平均降水量较少的地区天山猪毛菜的叶片具有较高的水分利用效率。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4参考文献（References）",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]武维华．植物生理学[M]．第二版．北京：科学出版社，2008:163-190.[Wu Weihua.Plant Physiology[M]. 2nd. Beijing: Science Press, 2008:163-190.] [2] Christin P A， Sage T L，Edwards E J,et al. Complex evolutionary transitions and the significance of $\\mathrm { C } _ { 3 ^ { - } } \\mathrm { C } _ { 4 }$ intermediate forms of photosynthesis in Molluginaceae[J].Evolution, ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2011, 65(3):643-660.   \n[3] Sage R F. The evolution of $\\mathrm { C } _ { 4 }$ photosynthesis[J]. New Phytologist, 2004,161:341-370.   \n[4] Kellogg E A. Phylogenetic aspects of the evolution of $\\mathrm { C } _ { 4 }$ photosynthesis[M]//Sage R F, Monson R K. $\\mathrm { C } _ { 4 }$ Plant Biology. San Diego: Academic Press,1999:411-444.   \n[5] Hibberd JM, Sheehy JE, Langdale J A. Using $\\mathrm { C } _ { 4 }$ photosynthesis to increase the yield of rice-rationale and feasibility[J]. Current Opinion in Plant Biology, 2008,11(2):228-231.   \n[6] 云建英，杨甲定，赵哈林．干旱和高温对植物光合作用的影响机制研究[J]．西北植物学报, 2006，26(3):641-648.[Yun Jianying， Yang Jiading, Zhao Halin. Research progress in the mechanism for drought and high temperature to aect plant photosynthesis[J]. Acta Botanica Boreali-Occidentalia Sinica,2006,26(3):641-648.]   \n[7] Sage R F, Christin P A, Edwards E J. The $\\mathrm { C } _ { 4 }$ plant lineages of plant Earth[J]. Journal of Experimental Botany, 2011, 62(9):3155-3169.   \n[8]李正理，李荣敖．我国甘肃九种旱生植物同化枝的解剖结构[J]．植物学报，1981, 23(3):181-185. [Li Zhengli, Li Rongao. Anatomical observation of assimilating branches of nine xerophytes in Gansu[J]. Acta Botanica Sinica,1981,23(3):181-185.]   \n[9] Monson R K, Rawsthorne S. Carbon dioxide assimilation in $\\mathrm { C } _ { 3 ^ { - } } \\mathrm { C } _ { 4 }$ intermediate plants[M]// Leegood R C, Sharkey T D, Caemmerer S. Photosynthesis: physiology and metabolism. The Netherlands: Kluwer Academic, 2000:533-550.   \n[10] Ueno O, Samejima M, Muto S,et al. Photosynthesis characteristics of an amphibious plant, Eleocharis vivipara: expression of $\\mathrm { C } _ { 4 }$ and $\\mathrm { C } _ { 3 }$ modes in contrasting environments[J]. Proceedings of the National Academy of Sciences of the United States of America,1998, 85(18):6733-6737.   \n[11] Zheng W J, Zheng X P, Zhang C L. A survey of photosynthetic carbon metabolism in 4 ecotypes of Phragmites australis in northwest China: Leaf anatomy， ultrastructure, and activities of ribulose 1， 5-bisphosphate carboxylase， phosphoenopyruvate carboxylase and glycolate oxidase[J]. Physiologia Plantarum,2000,110(2):201-208.   \n[12]王俊惠．蒿叶猪毛菜光合碳同化途径的适应性进化研究[D]．杨凌：西北农林科技大学， 硕士论文,2017.[Wang Junhui. The Adaptive Evolution of Photosynthetic Carbon Asimilating Pathway in Salsola abrotanoides[D]. Yangling: Northwest A& F University, 2017.]   \n[13]龚春梅，宁蓬勃，王根轩，等. $\\mathbf { C } _ { 3 }$ 和 $\\mathrm { C } _ { 4 }$ 植物光合途径的适应性变化和进化[J]．植物生态 学报,2009,33(1):206-221. [Gong Chunmei, Ning Pengbo, Wang Genxuan, et al. A review of adaptable variations and evolution of photosynthetic carbon assimilating pathway in $\\mathbf { C } _ { 3 }$ and $\\mathrm { C } _ { 4 }$ （204号 plant[J]. Chinese Journal of Plant Ecology, 2009,33(1):206-221.]   \n[14] Gong C M, Gao X W, Cheng D L, et al. $\\mathrm { C } _ { 4 }$ photosynthetic characteristics and antioxidative protection of $\\mathbf { C } _ { 3 }$ desert shrub Hedysarum scoparium in Northwest China[J]. Pakistan Journal of Botany,2006,38(3):647-661.   \n[15] 冯燕，王彦荣，胡小文．水分胁迫对两种荒漠灌木幼苗生长与水分利用效率的影响[J]. 草业学报,2011,20(4):293-298.[Feng Yan, Wang Yanrong,Hu Xiaowen. Efects of soil water stress on seedling growth and water use effciency of two desert shrubs[J]. Acta Prataculturae Sinaca, 2011,20(4):293-298.]   \n[16]刘美珍，张海敏，杨珊，等．浑善达克沙地 $\\mathbf { C } _ { 3 }$ 和 $\\mathrm { C } _ { 4 }$ 植物对干旱胁迫响应策略[J]．科技导 报,2011,29(25):48-53.[Liu Meizhen, Zhang Haimin, Yang Shan, et al. Response strategies of $\\mathrm { C } _ { 3 }$ and $\\mathrm { C } _ { 4 }$ plants to drought stress in Hunshandake Sandland[J]. Science & Technology Review, 2011, 29(25):48-53.]   \n[17] 严巧娣，苏培玺，陈宏彬，等．五种 $\\mathrm { C } _ { 4 }$ 荒漠植物光合器官中含晶细胞的比较分析[J]．植 物生态学报,2008,32(4):873-882.[Yan Qiaodi, Su Peixi, Chen Hongbin,et al. Comparative studies on crystal idioblasts of five desert $\\mathrm { C } _ { 4 }$ Plants[J]. Chinese Journal of Plant Ecology, 2008, 32(4):873-882.]   \n[18] 郁慧，刘中亮，胡宏亮，等．干旱胁迫对 5 种植物叶绿体和线粒体超微结构的影响[J]. 植物研究,2011,31(2):152-158.[Yu Hui,Liu Zhongliang,Hu Hongliang,et al.Effect of drought stress on the ultramicrostructures of chloroplasts and mitochondria of five plants[J]. Bulletin of Botanical Research,2011,31(2):152-158.]   \n[19] 严巧娣，苏培玺，高松．干旱程度对 $\\mathrm { C } _ { 3 }$ 植物红砂和 $\\mathrm { C } _ { 4 }$ 植物珍珠光合生理参数的影响[J]. 中国沙漠,2012,32(2):364-371.[Yan Qiaodi, Su Peixi, Gao Song. Response of photosynthetic characteristics of $\\mathrm { C } _ { 3 }$ desert plant Reaumuria soongorica and $\\mathrm { C } _ { 4 }$ desert plant Salsola passerina to different drought stress [J]. Journal of Desert Research,2012,32(2):364-371.]   \n[20] IPCC. 2014. Summary for policymakers. In Field C B,Barros V R,Dokken D J,et al. Climate change 2O14: impacts,adaptation and vulnerability. Part A: Global and sectoral aspects. Contribution of working group $\\mathrm { I I }$ to the $5 ^ { \\mathrm { t h } }$ assessment report of the intergovernmental panel on climate change [M]. Cambrige, UK, Cambridge University Press.   \n[21] Salguero-G6mez R, Siewert W, Casper B B, et al. A demographic approach to study effects of climate change in desert plants[J]. Philosophical Transactions of the Royal Society B-Biological Sciences, 2012, 367(1606):3100-3114.   \n[22] Reichmann L G, Sala O E. Differential sensitivities of grassland structural components to changes in precipitation mediate productivity response in a desert ecosystem[J]. Functional Ecology,2014,28(5):1292-1298.   \n[23]中国植物志编辑委员会．中国植物志：第二十五卷（2）分册[M].北京：科学出版社, 1979:1-192. [Flora of China Editorial Commitee.Flora of China: Vol 25(2)[M]. Beijing: Science Press,1979,1-192.]   \n[24] Pyankov V, Ziegler H, Kuz'min, et al. Origin and evolution of $\\mathrm { C } _ { 4 }$ photosynthesis in the tribe Salsoleae (Chenopodiaceae） based on anatomical and biochemical types in leaves and cotyledons [J]. Plant Systematics and Evolution,20O1, 230: 43-74.   \n[25] Sage R F,Li M R,Monson R K. The taxonomic distribution of $\\mathrm { C } _ { 4 }$ photosynthesis[M]//In Sage R F, Monson R K. $\\mathrm { C } _ { 4 }$ Plant Biology. Califonia, USA: Academic Press,1999:551-584.   \n[26] 闻志彬，张明理．干旱胁迫对 2 种光合类型 $\\mathrm { C } _ { 4 }$ 荒漠植物叶片光合特征酶和抗氧化酶活 性的影响[J]．西北植物学报，2015，35(9):1815-1822．[Wen Zhibin，Zhang Mingli. $\\mathrm { C } _ { 4 }$ （204号 photosynthetic enzymes and antioxidant enzymes activities in two photosynthetic subtypes of $\\mathrm { C } _ { 4 }$ desert plants under soil drought stress[J] Acta Botanica Boreali-Occidentalia Sinica, 2015, 35(9): 1815-1822.]   \n[27]郑国钼，谷祝平．生物显微技术[M]．第二版．北京：高等教育出版社，1994:1-447. [Zheng Guochang，Gu Zhuping. Biological Microscopy[M]. 2nd. Beijing: Higher Education Press, 1994:1-447.]   \n[28] Voznesenskaya E V,Artyusheva E G,Franceschi VR, et al. Salsola arbusculiformis, a $\\mathrm { C } _ { 3 ^ { - } } \\mathrm { C } _ { 4 }$ （204 intermediate in Salsoleae (Chenopodiaceae)[J]. Annals of Botany,2Oo1, 88(3):337-348.   \n[29] Wen Z B, Zhang M L. Possible involvement of phosphoenolpyruvate carboxylase and NAD-malic enzyme in response to drought stress. A case study: a succulent nature of the （20 $\\mathrm { C } _ { 4 }$ -NAD-ME type desert plant, Salsola lanata (Chenopodiaceae)[J]. Functional Plant Biology, 2017,44(12):1219-1228.   \n[30]王莹，王文杰，许慧男，等.3种 $\\mathbf { C } _ { 3 }$ 木本植物绿色组织 $\\mathrm { C } _ { 4 }$ 酶活性、色素含量及叶绿素荧 光参数的比较[J].植物研究,2011,31(4): 461-466.[Wang Ying,Wang Wenjie,Xu Huinan,et al. Comparison of 5 species $\\mathrm { C } _ { 4 }$ enzymes activities， pigments contents and chlorophyll fluorescence parameters in leaf and branch chlorenchyma of 3 species $\\mathbf { C } _ { 3 }$ woody plants[J]. Bulletin of Botanical Research, 2011,31(4):461-466.]   \n[31] Bender M M,Rouhani I, Vines $\\textbf { H M }$ et al. ${ } ^ { 1 3 } \\mathrm { C } / { } ^ { 1 2 } \\mathrm { C }$ ratio changes in Crassulaceae acid metabolism [J]. Plant Physiology,1973,52(5):427-430.   \n[32] Schulze E D, Elis R, Schulze W, et al. Diversity, metabolic type and $\\delta ^ { 1 3 } \\mathrm { C }$ carbon isotope ratios in the grass flora of Namibia in relation to growth form,precipitation and habitat conditions[J]. Oecologia,1996,106(3):352-369.   \n[33]Doubnerva V,Ryslava H. What can enzymes of $\\mathrm { C } _ { 4 }$ photosynthesis do for $\\mathrm { C } _ { 3 }$ plants under stress?[J]. Plant Science, 2011, 180(4):575-583.   \n[34] Ting IP, Burk JH. Aspects of carbon metabolism in Welsitschia[J]. Plant Science Lettrs, 1983,32(3):279-285.   \n[35] 程刚，兰海燕．异子蓬PEPC 基因原核表达及其重组菌在非生物胁迫下的耐受力解析[J]. 西北植物学报,2015, 35(9):1767-1775.[Cheng Gang,Lan Haiyan.Procaryotic expression of PEPC from halophyte Suaeda aralocaspica and analysis of stress tolerance of the recombinant strain [J]. Acta Botanica Boreali-Occidentalia Sinica, 2015,35(9):1767-1775.]   \n[36] Ting IP, Osmond C B.Photosynthetic phosphoenolpyruvate carboxylases characteristics of alloenzymes from leaves of $\\mathrm { C } _ { 3 }$ and $\\mathrm { C } _ { 4 }$ plants [J].Plant Physiology,1973,51(3):439-447.   \n[37] 殷树鹏，张成君，郭方琴，等．植物碳同位素组成的环境影响因素及在水分利用中的利 用[J].同位素,2008,21(1):46-53.[Yin Shupeng, Zhang Chengjun, Guo Fangqin,et al. Effect of environmental factors on stable carbon isotopic composition of plants and application in water use efficiency[J]. Journal of Isotopes,20o8, 21(1):46-53.]   \n[38]刘贤赵，李朝奎，徐树建，等．中国北方干湿气候区 $\\mathrm { C } _ { 3 }$ 草本植物 $\\delta ^ { 1 3 } \\mathrm { C }$ 值及其与湿润指数 的关系[J].植物学报，2011,46(6):675-687.[Liu Xianzhao,Li Chaokui,Xu Shujian,et al. Carbon isotope composition of $\\mathbf { C } _ { 3 }$ herbaceous plants and its relation to humidity index in arid and humid climate zones in Northern China[J]. Chinese Bulletin of Botany， 2011, 46(6):675-687.]   \n[39] Wang G A, Zhou L P, Liu M, et al. Altitudinal trends of leaf $\\delta ^ { 1 3 } \\mathrm { C }$ follow different patterns acrossa mountainous terrain in North China characterized by a temperate semi-humid climate[J]. Rapid Communications in Mass Spectrometry, 2010,24(11):1557-1564. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Changes of $\\mathbf { C _ { 4 } }$ photosynthetic enzymes and $\\delta ^ { 1 3 } \\mathrm { C }$ values of C3 desert plant Salsola ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "junatovii Botsch. under soil drought stress ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "WEN Zhi-bin1\\*,XIA Chun-lan1,2, WANG Yu-lan1.2 (1. Key Laboratory of Biogeography and Biological Resources under Chinese Academy of Sciences, Xinjiang Instituteof Ecologyand Geography, Chinese Academy ofSciences,Urumqi 830011, Xinjiang,China; 2.University ofChinese Academy of Sciences,Beijing1O1408,China) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Salsola junatovii Botsch.is a typical $\\mathrm { C } _ { 3 }$ desert subshrub,belonging to the genus Salsola L.of the family Chenopodiaceae. It was used to investigate the changes of four $\\mathrm { C } _ { 4 }$ photosynthetic enzymes including phosphoenolpyruvate carboxylase (PEPC),NAD-malic enzyme (NAD-ME), NADP-malic enzyme (NADP-ME), and phosphoenolpyruvate carboxykinase (PEPCK）and $\\delta ^ { 1 3 } \\mathrm { C }$ values in respond to soil drought stress (including mild, moderate and severe drought stress),and the survey of $\\delta ^ { 1 3 } \\mathrm { C }$ values of samples from six different precipitation areas, hoping to provide a view of understanding transition of photosynthetic carbon asimilation pathway from $\\mathrm { C } _ { 3 }$ to $\\mathrm { C } _ { 4 }$ under soil drought stress.The results were as follows:(1) leaf water content decreased as increasing of drought stress; (2) In these four photosynthetic enzymes,only PEPC and NAD-ME activities were affected by drought stress. Changes of activities and relative protein levels of PEPC and NAD-ME were consistent. They increased as increasing of drought stress and reached the maximum values under moderate drought stress, then, decreased sharply under severe drought stress.The activity of NADP-ME,and the activity and relative protein level of PEPCK were not affected by drought stress;(3) although the $\\delta ^ { 1 3 } \\mathrm { C }$ values increased under the mild and moderate drought stress,and reached the maximum values under moderate drought stress, the $\\delta ^ { 1 3 } \\mathrm { C }$ values were belonging to the range of $\\mathrm { C } _ { 3 }$ plants under drought stress; the $\\delta ^ { 1 3 } \\mathrm { C }$ values of samples from the three areas with relatively low annual precipitation were higher. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Key words: photosynthetic carbon assimilation pathway; $\\mathrm { C } _ { 3 }$ desert plant; soil drought stress; $\\mathrm { C } _ { 4 }$ photosynthetic enzymes; Salsola junatovii ",
+        "page_idx": 13
+    }
+]

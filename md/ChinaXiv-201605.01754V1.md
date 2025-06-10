@@ -1,0 +1,162 @@
+# Lepton-Specific Two-Higgs Doublet Model: Experimental Constraints and Implication on Higgs Phenomenology
+
+Junjie Cao $^ { 1 }$ ， Peihua Wan $^ { 1 }$ ，Lei Wu $^ { 1 }$ ， Jin Min Yang $^ { 2 , 3 }$ （20 （20 $^ { 1 }$ College of Physics & Information Engineering, Henan Normal University， Xinxiang 453007, China （20 $^ 2$ Key Laboratory of Frontiers in Theoretical Physics, Institute of Theoretical Physics， Academia Sinica， Beijing 100190, China （20 $^ 3$ Kavli Institute for Theoretical Physics China, Academia Sinica， Beijing 100190， China
+
+# Abstract
+
+We examine various direct and indirect constraints on the lepton-specific two-Higgs doublet model and scrutinize the property of the Higgs bosons in the allowed parameter space. These constraints come from the precision electroweak data, the direct search for Higgs boson,the muon anomalous magnetic moment, as wellas some theoretical consistency requirements. We find that in the allowed parameter space the CP-odd Higgs boson $A$ is rather light （ $m _ { A } < 3 0$ GeV with 95% possibility), which is composed dominantly by the leptonic Higgs and decays dominantly into （204号 $\tau ^ { + } \tau ^ { - }$ ； while the SM-like Higgs boson $h$ (responsible largely for electroweak symmetry breaking) decays dominantly in the mode $h  A A  4 \tau$ with a large decay width, which will make the Higgs discovery more difficult at the LHC. Whereas, this scenario predicts a branching ratio $B r ( Z $ $\tau ^ { + } \tau ^ { - } A$ ） ranging from $1 0 ^ { - 5 }$ to $1 0 ^ { - 4 }$ , which may be accessible at the the GigaZ option of the ILC.
+
+# I. INTRODUCTION
+
+The phenomenological success of the standard model (SM) has significantly limited the possibility of new physics except for the Higgs sector which remains untested. There are numerous speculations on the possible extensions of the Higgs sector，among which the simplest is to introduce one more Higgs doublet. Compared with the SM, such simple twoHiggs doublet models usually have much more complicated Higgs phenomenology. In the SM a single Higgs doublet is responsible for the electroweak symmetry breaking and the Higgs couplings with fermions and gauge bosons are completely determined by their masses, and therefore there is little guesswork in determining the discovery channels for the Higgs boson [1]. In the two-Higgs doublet models,however, the addition of new scalars and the modification of the Higgs interactions wil significantly complicate the Higgs discovery at the LHC [2]. Given the imminent running of the LHC, the phenomenological study of various such models is urgently important .
+
+In this paper we focus on a special two-Higgs doublet model called the lepton-specific two-Higgs doublet model (L2HDM) [3]. Since this model is arguably well motivated from some fundamental theory and also has some phenomenological virtues (e.g., it can provide a natural explanation for the leptonic cosmic ray signals reported by PAMELA and ATIC [4]), it has attracted much attention [5, 6]. We will check various constraints on the model parameters and then scrutinize the property of the Higgs bosons in the alowed parameter space. These constraints come from the precision electroweak data, the direct search for Higgs boson, the muon anomalous magnetic moment, as well as some theoretical consistency requirements. Our main observation is that in the allowed parameter space the CP-odd Higgs boson $A$ must be light ( $m _ { A } ~ < ~ 3 0$ GeV with $9 5 \%$ possibility），which is composed dominantly by the leptonic Higgs and decays dominantly into $\tau \bar { \tau }$ ; while the SM-like Higgs boson $h$ (responsible largely for electroweak symmetry breaking) decays dominantly in the mode $h  A A  4 \tau$ with a decay width usually exceeding several tens of GeV, which may make the Higgs discovery more difficult at the LHC.
+
+This paper is organized as follows. In Sec. II we recapitulate the L2HDM model. In Sec. III we examine various constraints on the parameter space and study the properties of the Higgs bosons in the allowed parameter space. Finally, In Sec. IV we give our conclusion.
+
+# II.THE LEPTON-SPECIFIC TWO-HIGGS DOUBLET MODEL
+
+The L2HDM is a special two-Higgs doublet model in which one Higgs doublet $\phi _ { 1 }$ couples only to leptons while the other doublet $\phi _ { 2 }$ couples only to quarks. Both Higgs doublets contribute to the electroweak symmetry breaking: $v ^ { 2 } = v _ { 1 } ^ { 2 } + v _ { 2 } ^ { 2 } = ( 2 4 6 \ \mathrm { G e V } ) ^ { 2 }$ with $v _ { 1 }$ and $v _ { 2 }$ being respectively the vacuum expectation values of $\phi _ { 1 }$ and $\phi _ { 2 }$ ； whereas their relative contributions can be quite different and can be parameterized by the ratio $\tan \beta = v _ { 2 } / v _ { 1 }$ So for a large $\tan \beta$ the lepton Yukawa couplings can be greatly enhanced.
+
+The Yukawa interactions and the Higgs potential are given by [6]
+
+$$
+\begin{array} { r c l } { { } } & { { } } & { { { \mathcal L } _ { Y } ~ = ~ - Y _ { e } ^ { i j } \bar { \ell } _ { i } \phi _ { 1 } e _ { j } - Y _ { u } ^ { i j } \bar { q } _ { i } \phi _ { 2 } ^ { c } u _ { j } - Y _ { d } ^ { i j } \bar { q } _ { i } \phi _ { 2 } d _ { j } + h . c . } } \\ { { } } & { { } } & { { V ~ = ~ m _ { 1 } ^ { 2 } | \phi _ { 1 } | ^ { 2 } + m _ { 2 } ^ { 2 } | \phi _ { 2 } | ^ { 2 } - \left( m _ { 3 } ^ { 2 } \phi _ { 1 } ^ { \dagger } \phi _ { 2 } + h . c . \right) + \displaystyle \frac { \lambda _ { 1 } } { 2 } | \phi _ { 1 } | ^ { 4 } + \displaystyle \frac { \lambda _ { 2 } } { 2 } | \phi _ { 2 } | ^ { 4 } } } \\ { { } } & { { } } & { { ~ + \lambda _ { 3 } | \phi _ { 1 } | ^ { 2 } | \phi _ { 2 } | ^ { 2 } + \lambda _ { 4 } | \phi _ { 1 } ^ { \dagger } \phi _ { 2 } | ^ { 2 } + \displaystyle \frac { \lambda _ { 5 } } { 2 } \left[ ( \phi _ { 1 } ^ { \dagger } \phi _ { 2 } ) ^ { 2 } + h . c . \right] , } } \end{array}
+$$
+
+where $i , j$ are generation indices, $Y _ { e }$ ， $Y _ { u }$ and $Y _ { d }$ are $3 \times 3$ Yukawa matrices, $q _ { i }$ and $\ell _ { i }$ denote respectively the the left-handed quark and lepton fields, $u _ { i }$ and $d _ { i }$ denote respectively the right-handed up- and down-type quark felds, $e _ { i }$ denotes the right-handed lepton fields,and （204 $m ^ { 2 }$ and $\lambda$ are free parameters.
+
+Just like the usual two-Higgs doublet model [7], the spectrum of the Higgs sector includes three massless Goldstone modes, which become the longitudinal modes of $W ^ { \pm }$ and $Z$ bosons, and five massive physical states: two $\boldsymbol { C P }$ -even states $h$ and $H$ , a pseudoscalar $A$ , and a pair of charged states $H ^ { \pm }$ . These states are related to the doublets $\phi _ { 1 }$ and $\phi _ { 2 }$ by
+
+$$
+\begin{array} { l } { { \displaystyle { \phi _ { 1 } ^ { 0 } = \frac { 1 } { \sqrt { 2 } } ( v _ { 1 } + H \cos \alpha - h \sin \alpha + i G ^ { 0 } \cos \beta - i A \sin \beta ) , } } } \\ { { \displaystyle { \phi _ { 2 } ^ { 0 } = \frac { 1 } { \sqrt { 2 } } ( v _ { 2 } + H \sin \alpha + h \cos \alpha + i G ^ { 0 } \sin \beta + i A \cos \beta ) , } } } \\ { { \displaystyle { \phi _ { 1 } ^ { \pm } = G ^ { \pm } \cos \beta - H ^ { \pm } \sin \beta , } } } \\ { { \displaystyle { \phi _ { 2 } ^ { \pm } = G ^ { \pm } \sin \beta + H ^ { \pm } \cos \beta , } } } \end{array}
+$$
+
+where $\alpha$ is the mixing angle that diagonalizes the mass matrix of the CP-even Higgs fields. Due to the constraint $v _ { 1 } ^ { 2 } + v _ { 2 } ^ { 2 } = ( 2 4 6 ~ \mathrm { G e V } ) ^ { 2 }$ , the eight free parameters in Eq. (2), i.e., $\lambda _ { i }$ 0 $( i = 1 , \dots , 5$ ）and $m _ { i } ^ { 2 }$ (i=1,2,3),reduce to seven. In our analysis we choose the following seven parameters as the input parameters of the L2HDM:
+
+$$
+m _ { h } , \ m _ { H } , \ m _ { A } , \ m _ { H ^ { \pm } } , \ \tan \beta , \ \sin \alpha , \ \lambda _ { 5 } ,
+$$
+
+where $m _ { h }$ ， $m _ { A }$ ， $m _ { H }$ ，and $m _ { H ^ { \pm } }$ are the masses of the corresponding physical states. Throughout this paper，we use $H \ ( h )$ to denote the Higgs boson with $\phi _ { 1 } ^ { 0 } \ \left( \phi _ { 2 } ^ { 0 } \right)$ as its dominant component, which means that we choose $\cos ^ { 2 } \alpha > 1 / 2$
+
+The interactions of the Higgs physical states with fermions are then given by [6]
+
+$$
+\begin{array} { r l } { \mathcal { L } _ { Y } } & { = - \frac { g m _ { e _ { 1 } } } { 2 m _ { W } \cos \beta } ( \cos \bar { \epsilon } _ { i } e _ { i } , H - \sin \bar { \epsilon } _ { i } e _ { i } , h ) } \\ & { \quad - \frac { g m _ { e _ { 1 } } } { 2 m _ { W } \sin \beta } ( \sin \alpha \bar { \epsilon } _ { i } \mu H + \cos \bar { \epsilon } _ { i } q h ) } \\ & { \quad + \frac { i g m _ { s _ { 1 } } } { 2 m _ { W } } \cot \beta \bar { \epsilon } _ { i } \gamma _ { 5 } \mu _ { W } A - \frac { i g m _ { d _ { 1 } } } { 2 m _ { W } } \cot \beta \bar { d } _ { * } \gamma _ { 5 } d _ { i } A } \\ & { \quad + \frac { i g m _ { e _ { 1 } } } { 2 m _ { W } } \tan \beta \bar { \epsilon } _ { i } \gamma _ { 5 } e _ { i } A } \\ & { \quad + \frac { g V _ { i j } } { \sqrt { 2 } m _ { W } } \cot \beta \bar { u } _ { i } ( m _ { n _ { 1 } } , P _ { I , \cos } m _ { d _ { 3 } } P _ { R } ) d _ { i } H ^ { + } } \\ & { \quad + \frac { g m _ { e _ { 1 } } } { \sqrt { 2 } m _ { W } } \tan \beta \bar { v } _ { i } P _ { R } e _ { i } H ^ { + } . } \end{array}
+$$
+
+Obviously, for a large $\tan \beta$ the lepton Yukawa couplings are greatly enhanced relative to the SM prediction. One can also check that the couplings of $Z Z h$ and $Z Z H$ are given by
+
+$$
+\begin{array} { c } { { V _ { Z Z h } = \displaystyle \frac { g m _ { Z } } { \cos \theta _ { W } } \sin ( \beta - \alpha ) , } } \\ { { V _ { Z Z H } = \displaystyle \frac { g m _ { Z } } { \cos \theta _ { W } } \cos ( \beta - \alpha ) , } } \end{array}
+$$
+
+which satisfy the sum rule $V _ { Z Z h } ^ { 2 } + V _ { Z Z H } ^ { 2 } = V _ { Z Z h _ { S M } } ^ { 2 }$ . For a large $\tan \beta$ (this is the case required by the experimental constraints, as shown below), the coupling $Z Z h$ is dominant over $Z Z H$ ， So $h$ is usually called the SM-like Higgs boson.
+
+# III. CONSTRAINTS ON THEL2HDM
+
+We note that both the theoretical consistency and the electroweak data have limited the parameter space of the L2HDM. In our study we consider the following theoretical constraints:
+
+(1） The perturbativity is valid in the Higgs sector, which requires $\lambda _ { i } < 4 \pi$ ( $i = 1 , \ldots , 5$ ） (2） The $S$ -matrix satisfes all relevant tree-unitarity constraints, which implies that the
+
+quartic couplings $\lambda _ { i }$ satisfy [8]
+
+$$
+\begin{array} { r l } & { 3 ( \lambda _ { 1 } + \lambda _ { 2 } ) \pm \sqrt { 9 ( \lambda _ { 1 } - \lambda _ { 2 } ) ^ { 2 } + 4 ( 2 \lambda _ { 3 } + \lambda _ { 4 } | ) ^ { 2 } } < 1 6 \pi , } \\ & { \lambda _ { 1 } + \lambda _ { 2 } \pm \sqrt { ( \lambda _ { 1 } - \lambda _ { 2 } ) ^ { 2 } + 4 | \lambda _ { 5 } | ^ { 2 } } < 1 6 \pi , } \\ & { \lambda _ { 1 } + \lambda _ { 2 } \pm \sqrt { ( \lambda _ { 1 } - \lambda _ { 2 } ) ^ { 2 } + 4 | \lambda _ { 5 } | ^ { 2 } } < 1 6 \pi , } \\ & { \lambda _ { 3 } + 2 \lambda _ { 4 } \pm 3 | \lambda _ { 5 } | < 8 \pi , } \\ & { \lambda _ { 3 } \pm \lambda _ { 4 } < 8 \pi , } \\ & { \lambda _ { 3 } \pm | \lambda _ { 5 } | < 8 \pi . } \end{array}
+$$
+
+(3) The scalar potential in Eq. (2) is finite at large field values and contains no flat directions,which translate into the bounds [7]
+
+$$
+\begin{array} { r l } & { \lambda _ { 1 , 2 } > 0 , } \\ & { } \\ & { \lambda _ { 3 } > - \sqrt { \lambda _ { 1 } \lambda _ { 2 } } , } \\ & { } \\ & { \lambda _ { 3 } + \lambda _ { 4 } - | \lambda _ { 5 } | > - \sqrt { \lambda _ { 1 } \lambda _ { 2 } } . } \end{array}
+$$
+
+On the experimental side, we consider the following constraints:
+
+(4） The lower mass bound on the charged Higgs bosons: $m _ { H ^ { + } } > 9 2$ GeV [9].   
+(5） The constraints from the LEP search for neutral Higgs bosons. We compute the signals from the Higgsstrahlung production $e ^ { + } e ^ { - } \ \longrightarrow \ Z H _ { i }$ ( $H _ { i } = h , H )$ with $H _ { i } \ \to$ （204号 $2 b , 2 \tau , 4 b , 4 \tau , 2 b 2 \tau$ [10,11] and from the associated production $e ^ { + } e ^ { - } \ \to \ H _ { i } A$ with （204号 $H _ { i } A \ \to \ 4 b , 4 \tau , 2 b 2 \tau , 6 b , 6 \tau$ [12] and compare them with their LEP data. We also consider the constraints from $e ^ { + } e ^ { - } \to Z H _ { i }$ by looking for a peak of $M _ { H _ { i } }$ recoil mass distribution of $Z$ -boson [13] and the constraint of $\Gamma ( Z  H _ { i } A ) < 5 . 8$ MeV when （204 $m _ { A } + m _ { H _ { i } } < m _ { Z }$ [14].
+
+(6) The constraints from the LEP search for a light Higgs boson via the Yukawa process （204号 $e ^ { + } e ^ { - } \to f \bar { f } S$ with $f = b , \tau$ and $S$ denoting a scalar [15]. These constraints can limit $f f S$ coupling versus $m _ { S }$ and thus can constrain the parameters of the L2HDM.
+
+(7） The constraints from the $W$ -boson mass. The L2HDM Higgs sector can shift the $W$ boson mass through radiative corrections. We require the corrected $W$ -boson mass to lie within the $2 \sigma$ range of the global-fit value. The SM prediction for the $W$ -boson mass is 80.363 GeV for $m _ { t } = 1 7 3$ GeV and $m _ { H } = 1 1 1$ GeV [16],and its fitted value is $8 0 . 3 9 8 \pm 0 . 0 2 5$ GeV [17]. We use the formula in [18] in calculating the mass and consider the effect of a different top quark mass (in our calculation we take $m _ { t } = 1 7 1 . 3$ （20 GeV).We also subtract the contribution from the SM Higgs boson to avoid double counting the contribution from the Higgs sector.
+
+(8） The constraints from $Z \tau ^ { + } \tau ^ { - }$ coupling. For a large $\tan \beta$ the L2HDM Higgs sector can give sizable radiative corrections to $Z \tau ^ { + } \tau ^ { - }$ coupling. We calculate such corrections and require the corrected $Z \tau ^ { + } \tau ^ { - }$ coupling to lie within the $2 \sigma$ range of its fitted value. The SM prediction for this coupling at $Z$ pole is given by $g _ { V } ^ { S M } = - 0 . 0 3 7 1 2$ and （204号 $g _ { A } ^ { S M } = - 0 . 5 0 1 2 7$ [16],and the fited value given respectively by $- 0 . 0 3 6 6 \pm 0 . 0 0 2 4 5$ （204号 and $- 0 . 5 0 2 0 4 \pm 0 . 0 0 0 6 4 | \$ 16]. We use the formula in [18] in our calculation.
+
+(9） The constraints from $\tau$ leptonic decay. We require the L2HDM correction to the branching ratio $B r ( \tau  e \bar { \nu } _ { e } \nu _ { \tau } )$ to be in the range of $- 0 . 8 0 \% \sim 1 . 2 1 \%$ [19]. We use the formula in [19] in our calculation.
+
+(10) The constraints from the muon anomalous magnetic moment $a _ { \mu }$ . Now both the theoretical prediction and the experimental measured value of $a _ { \mu }$ have reached a remarkable precision,butasignifcatdeviationstileists: $a _ { \mu } ^ { e x p } - a _ { \mu } ^ { S M } = ( 2 9 \pm 8 . 8 ) \times 1 0 ^ { - 1 0 }$ [20]. In our analysis we require the L2HDM to account for such difference at $2 \sigma$ level. Note that in the L2HDM, $a _ { \mu }$ gets additional contributions from the one-loop diagrams induced by the Higgs bosons and also from the two-loop Barr-Zee diagrams mediated by $A$ ， $h$ and $H$ [21]. If the Higgs bosons are not too light, the contributions from the Barr-Zee diagrams are more important. To account for the discrepancy of $a _ { \mu }$ ，one needs a light $A$ along with a large $\tan \beta$ to enhance the effects of the Barr-Zee diagram involving the $\tau$ -loop. The CP-even Higgs bosons are usually preferred to be heavy since their contribution to $a _ { \mu }$ is negative.
+
+(11） Since the CP-odd Higgs $A$ can be quite light and $h , H  A A$ may open up with a large decay width, we require the width of any Higgs boson in the L2HDM to be smaller than its mass (otherwise the Higgs boson may be too fat).
+
+With the above constraints, we scan the parameter space of the L2HDM in the ranges:
+
+$$
+\begin{array} { l } { { 1 < \tan \beta < 2 0 0 , \quad 5 \ \mathrm { G e V } < m _ { A } < 1 0 0 \ \mathrm { G e V } , } } \\ { { \mathrm { } } } \\ { { \mathrm { } 5 \ \mathrm { G e V } < m _ { h , H } < 3 5 0 \ \mathrm { G e V } , \quad 9 2 \ \mathrm { G e V } < m _ { H ^ { + } } < 3 5 0 \ \mathrm { G e V } , } } \\ { { \mathrm { } - \sqrt 2 / 2 < \sin \alpha < \sqrt 2 / 2 , \quad | \lambda _ { 5 } | < 4 \pi . } } \end{array}
+$$
+
+![](images/e4056dfd63b02cbc73db47fcdba6524cebf2598880b9347a763b79b791f99c33.jpg)  
+FIG. 1: Scatter plots of the allowed parameter space in the plane of $\tan \beta$ versus $m A$
+
+With $1 0 ^ { 1 2 }$ random samplings, we get the allowed parameter space shown in Figs.1-2. Fig.1 shows that the allowed parameter space has a light $A$ （ $m _ { A } \lesssim 8 0$ GeV) and a large tan $\beta$ ( （204 $3 7 \lesssim \tan \beta \lesssim 1 3 0$ ), which mainly comes from the explanation of the $a _ { \mu }$ discrepancy. Among the surviving samples displayed in Fig.1, about $9 5 \%$ satisfy $m _ { A } < 3 0$ GeV and about 70% satisfy $m _ { A } < 2 0$ GeV,which means that a very light $A$ is highly preferred by the constraints.
+
+Fig.2 shows the allowed parameter space projected in the planes of $m _ { h }$ and $m _ { H }$ versus $m _ { H ^ { + } }$ . Three characters should be noted about this figure. The first is that all the Higgs bosons are lighter than 350 GeV (lighter than 250 GeV for about 90% of the surviving samples),which is mainly due to the unitary requirement and the $a _ { \mu }$ constraint. The second is that $h$ and $H$ can be as light as 58 GeV because the LEP2 bound is relaxed significantly due to the weakened $Z Z h$ and $Z A H$ couplings by the seizable mixing angle $\alpha$ and the openup of the new decay mode $H , h  A A  4 \tau$ [29]. The third character is that the values of both $m _ { h }$ and $m _ { H }$ are close to the value of $m _ { H ^ { + } }$ ，which is helpful in reducing the L2HDM contribution to the precise electroweak data such as $m _ { W }$ and $Z \bar { \tau } \tau$ couplings at Z-pole. For （20 $m _ { H ^ { + } } > 2 5 0$ GeV, the data require $| \sin ( \beta - \alpha ) | \sim 1$ [23],and in this case, $m _ { h }$ has little effects on the data so that it can deviate significantly from $m _ { H ^ { + } }$ ：
+
+![](images/aeefd0f9c1844b210f45d6a016079739fd60709f265a81a92ebecb01fcf46ea7.jpg)  
+FIG. 2: Same as Fig.1, but projected in the planes of $m _ { h }$ and $m H$ versus $m _ { H ^ { + } }$ ：
+
+In summary, the above results indicate that the preferred parameter space of the L2HDM is $3 7 \lesssim \tan \beta \lesssim 8 0$ ， $m _ { A } \lesssim 3 0$ GeV and the other Higgs bosons lighter than 25O GeV. Note that the above favored region is obtained by considering all the constraints (1-11), instead of any individual constraint. For example, for $\tan \beta > 2 0 0$ ，our results indicate that the CP-odd Higgs boson $A$ as heavy as 120 GeV can still explain $a _ { \mu }$ ; but such a large tan $\beta$ is disfavored by the $Z \bar { \tau } \tau$ coupling at $Z$ -pole or by $\tau$ leptonic decay. Another point we should address is that in the L2HDM, the processes $B  X _ { s } \gamma$ and $\Upsilon  A \gamma$ cannot impose any further constraints [6]. The reason is that in the surviving parameter space, $\tan \beta$ must be larger than 37 and, consequently, the couplings of bottom quark with $H ^ { + }$ and $h$ are suppressed,as shown in Eq.(8). Finally, we would like to emphasize that in contrast to the L2HDM which has a large parameter space to account for the $a _ { \mu }$ discrepancy without conflicting with other experimental data, the popular type-II 2HDM is very difficult to do so [21]. This is one of the virtues of the L2HDM.
+
+# IV.IMPLICATION ON HIGGS PHENOMENOLOGY
+
+Eq.(8) indicates that the lepton couplings of $A$ ， $H$ and $H ^ { + }$ are enhanced by large tan $\beta$ ， while quark couplings are suppressed. Since the allowed parameter space has a large $\tan \beta$ ， the couplings of $\tau$ lepton with $A$ ， $H$ and $H ^ { + }$ are larger than the top quark couplings. So these scalars will decay dominantly into $\tau$ leptons rather than into top quarks (if kinetically allowed). Moreover， a light $A$ can change the phenomenology of other Higgs bosons by opening new decay modes like $h , H  A A$ ， $h , H  A Z$ and $H ^ { + }  A W ^ { + }$ . As discussed earlier, in case of a large $\tan \beta$ and a small $\alpha$ ， $h$ is the SM-like Higgs boson, mainly responsible for the electroweak symmetry breaking and couples to weak gauge bosons like the SM Higgs. Therefore，the phenomenology of $h$ is of primary importance and will be studied in the following.
+
+![](images/e66aadefa1d3a7b343a4d2b87ce657d21e37622efb4aa2e187a827900de32ee6.jpg)  
+FIG. 3: Same as Fig.1, but showing the branching ratio of $h  A A$ versus $m _ { h }$
+
+Fig.3 shows the branching ratio of $h  A A$ versus $m _ { h }$ . Here we have considered all the decay modes of $h$ including $h  V V , A Z , \tau \bar { \tau } , b b , t \bar { t }$ .This figure shows that for most of the allowed parameter space (about 999 $\mathit { \Omega } _ { 0 } ^ { \prime }$ ）， $h  A A  \tau \bar { \tau } \tau \bar { \tau }$ is the dominant decay mode. This will make the detection of $h$ diffcult at the LHC because the lightness of $A$ （20 (note $m _ { A } < 2 0$ GeV for about $7 0 \%$ surviving samples） will make the $\tau$ leptons from its decay highly collimated [2, 24]， which is usually regarded as a difficult scenario in Higgs discovery at the LHC in the next-to-minimal supersymmetric model 2]. Another reason for the detection difficulty of $h$ is that for more than 8O% of the allowed parameter space, the width of $h$ is found to be larger than 1O GeV. Such a wide width will smear the peak of the invariant mass distribution of $h$ -decay products and make the detection more difficult.
+
+We note that in the L2HDM, $A \to \mu ^ { + } \mu ^ { - }$ is the second largest decay mode of $A$ . So （20 $h  A A$ can give the multi-muon signal, like the scenario proposed in [25]. Unfortunately, in the L2HDM the branching ratio of $A \to \mu ^ { + } \mu ^ { - }$ is of order $1 0 ^ { - 3 }$ ，which will make the channel $h \to A A \to 4 \mu$ quite hopeless at the LHC. Note that some authors have considered the channels $h  A A  2 \mu + 2 \tau$ [22] and $h  A A  4 \tau  2 \mu + 2$ jets [26] as well as the diffractive Higgs production $p p  p p + h$ followed by $h  4 \tau$ [27] to detect such a $h$ ， but all these studies did not consider the worse case of a fat $h$ .We also checked that the branching ratio of $h  \gamma \gamma$ is usually suppressed to be less than $1 0 ^ { - 6 }$ and thus too small for the detection.
+
+![](images/0c9aeda0e4dd5db215ee7a5f2ea82d4a442d86a0b25349556fd464e55c0cc3dd.jpg)  
+FIG.4: Same as Fig.1, but showing the cross section of $H A$ associated production at the LHC versus $m H$ ：
+
+Furthermore, we examine other complementary new channels for detecting the Higgs sector of the L2HDM. Firstly, we check the associated $H A$ production at the LHC. The cross section of this process is shown in Fig. 4 and one can learn that for $m _ { H } < 1 4 0$ GeV the cross section is larger than 1Oo fb. The dominant decay of $H$ in this case is found to be
+
+$H  A A$ , with a branching ratio larger than 8O%, so the main signal of this process is $6 \tau$ Due to the lightness of $A$ ， great efforts are needed to analyze the signal and the backgrounds in order to detect this process at the LHC. Secondly, we note that $A$ is always lighter than $Z$ boson in the allowed parameter space and thus it may be produced from $Z$ decays. So we investigate the decay $Z \to \tau { \bar { \tau } } A$ and find its branching ratio ranging from $1 0 ^ { - 5 }$ to $1 0 ^ { - 4 }$ （204号 for $m _ { A } < 4 0$ GeV (corresponding to 98% of the allowed parameter space). Such a large rate is within the sensitivity of the GigaZ option at the proposed International Linear Collider [28].
+
+# V. CONCLUSION
+
+We examined various direct and indirect constraints on the lepton-specific two-Higgs doublet model and then checked the property of the Higgs bosons in the allowed parameter space. We found that the allowed space has a very light CP-odd Higgs boson $A$ ( $m _ { A } < 3 0$ （20 GeV with 95% possibility） which is composed dominantly by the leptonic Higgs and decays dominantly into $\tau ^ { + } \tau ^ { - }$ .The SM-like Higgs boson $h$ decays dominantly in the mode $h $ $A A \longrightarrow 4 \tau$ , which may make the Higgs discovery difficult at the LHC. We also checked other possibilities for testing the Higgs sector of this model and found that the decay $Z \to \tau ^ { + } \tau ^ { - } A$ （20 has a branching ratio ranging from $1 0 ^ { - 5 }$ to $1 0 ^ { - 4 }$ ，which may be accessible at the the GigaZ option of the ILC.
+
+# Acknowledgement
+
+This work was supported in part by the National Natural Science Foundation of China (NNSFC) under grant Nos.10505007,10821504,10725526 and 10635030, by HASTIT under grant No. 2009HASTIT004，by the Project of Knowledge Innovation Program (PKIP) of Chinese Academy of Sciences under grant No. KJCX2.YW.W10 and by an invitation fellwship of LHC Physics Focus Group, National Center for Theoretical Sciences, Taiwan.
+
+[2] U. Ellwanger, J.F.Gunion and C.Hugonie, JHEP 0507, O41 (2005).   
+[3] R.M. Barnett，et al., Phys. Lett.B 136,191 (1984)；R. M. Barnett,G. Senjanovic and D. Wyler, Phys. Rev. D 30, 1529 (1984); Y. Grossman, Nucl. Phys. B 426, 355 (1994).   
+[4] H. S. Goh,L. J. Hall and P. Kumar, JHEP 0905, 097 (2009).   
+[5] A.G. Akeroyd and W. J. Stirling, Nucl. Phys. B 447, 3 (1995); A. G. Akeroyd,Phys.Lett. B 377, 95 (1996); V. Barger, H. E. Logan and G. Shaughnessy, Phys. Rev. D 79, 115018 (2009); M. Aoki, et al.,arXiv:0902.4665 [hep-ph]. [6] S. Su and B. Thomas, Phys. Rev. D 79,095014 (2009)； H. E. Logan and D. MacLennan, Phys. Rev. D 79,115022 (2009).   
+[7] J. F. Gunion and H. E. Haber, Phys. Rev. D 67, 075019 (2003).   
+[8] A.G. Akeroyd,A. Arhrib and E. M. Naimi, Phys.Lett.B 490,119 (2000).   
+[9] G. Abbiendi, et al., Eur. Phys. J. C 32,453 (2004).   
+[10] R. Barate et al., Phys. Lett. B 565 (2003) 61.   
+[11] OPAL collaboration, Eur. Phys. J. C 27 (2003) 483.   
+[12] DELPHI Collaboration, Eur. Phys. J. C 38(2004） 1.   
+[13] D. Buskulic, et al., Phys. Lett.B 313(1993) 312;G. Abbiendi, et al., Eur.Phys. J.C 27 (2003) 311.   
+[14] K.Monig,DELPHI 97-174 PHYS 748.   
+[15] J.B. de Vivie and P. Janot [ALEPH Collaboration], PA13-027 contribution to the International Conference on High Energy Physics,Warsaw, Poland, 25-31 July 1996; J. Kurowska, O. Grajek and P. Zalewski [DELPHI Collaboration], CERN-OPEN-99-385.   
+[16] [ALEPH Collaboration and DELPHI Collaboration and L3 Collaboration], Phys. Rept. 427, 257 (2006).   
+[17] C. Amsler, et al., (Particle Data Group), Phys. Lett. B 667,1 (2008).   
+[18] J. Cao and J. M. Yang, JHEP 0812, 006 (2008).   
+[19] M. Krawczyk and D. Temes, Eur.Phys. J.C 44, 435 (2005).   
+[20] F. Jegerlehner and A. Nyffeler, Phys.Rept. 477,1 (2009).   
+[21] K. Cheung, et al., Phys. Rev. D 64, 111301 (2001); K. Cheung and O. C. W. Kong, Phys. Rev.D 68,053003 (2003).   
+[22] M. Lisanti and J.G. Wacker, Phys. Rev. D 79, 115006 (2009).   
+[23] F. Larios,G. Tavares-Velasco and C. P. Yuan, Phys.Rev. D 64, 055004 (2001).   
+[24] M. Carena， et al.， JHEP 0804,092 (2008)； P. W. Graham，A. Pierce and J.G.Wacker, arXiv:hep-ph/0605162.   
+[25] D.Hooper and T. Tait,arXiv:0906.0362 [hep-ph]; W. Wang,et al.，arXiv:0908.0486 [hep-ph].   
+[26] A. Belyaev, et al.,arXiv: O805.3505 [hep-ph].   
+[27] J.R. Forshaw,et al., JHEP 0804,090 (2008).   
+[28] J.A. Aguilar-Saavedra,et al.,hep-ph/O106315.   
+[29] For $m _ { A } < 1 0$ GeV,the constraint from LEP search for Higgs bosons is still strong and in this case, the lower mass bound of $h$ is 86 GeV [22].

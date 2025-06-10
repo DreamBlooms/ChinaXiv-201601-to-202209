@@ -1,0 +1,373 @@
+1 苜蓿多糖对夏季高温环境下蛋鸡生产性能及蛋品质的影响
+
+2 王朝栋 董晓芳\*佟建明
+
+3 （中国农业科学院北京畜牧兽医研究所，北京100193）
+
+4摘要：本试验旨在研究夏季高温环境下在饲粮中添加苜蓿多糖对蛋鸡生产性能及蛋品质的  
+5 影响。将540只156日龄海兰褐蛋鸡随机分成6组，每组6个重复，每个重复15只鸡。对  
+6 照组饲喂基础饲粮，试验组分别饲喂在基础饲粮中添加250、500、1000、2000 和 $4 0 0 0 \mathrm { m g / k g }$   
+7 首蓿多糖的试验饲粮。试验期为6周。结果显示：与对照组相比，1）饲粮中添加不同水平  
+8 苜蓿多糖对平均蛋重、平均日采食量、不合格蛋率和死淘率均无显著影响（ $. P { > } 0 . 0 5 \ '$ ，而添  
+9 加 500、1000 和 $4 0 0 0 \mathrm { m g / k g }$ 苜蓿多糖显著提高了蛋鸡的产蛋率 $( P { < } 0 . 0 5 )$ ，添加 500、1000、  
+10 2 000 和 $4 0 0 0 \mathrm { m g / k g }$ 苜蓿多糖显著降低了料蛋比（ $. P { < } 0 . 0 5$ )。2）饲粮中添加不同水平苜蓿多  
+11 糖对蛋白高度和哈夫单位均无显著影响（ $( P { > } 0 . 0 5 )$ ； $2 5 0 \mathrm { m g / k g }$ 苜蓿多糖添加组第4和6周末  
+12 的蛋黄颜色显著提高（ $P { < } 0 . 0 5 )$ ； $5 0 0 ~ \mathrm { m g / k g }$ 苜蓿多糖添加组第6周末的蛋形指数显著降低  
+13 （ $_ { _ { P < 0 . 0 5 } ) }$ ，第1、4和6周末的蛋黄颜色显著提高（ $. P { < } 0 . 0 5 )$ ； $1 0 0 0 \mathrm { m g / k g }$ 苜蓿多糖添加组  
+14 第4和6周末的蛋壳颜色显著加深（ $_ { . } { \cal P } { < } 0 . 0 5 )$ ，第1、2和4周末的蛋壳强度和蛋壳厚度显著  
+15 提高（ $P { < } 0 . 0 5 )$ ，第1和6周末的蛋形指数显著降低（ $_ { _ { P < 0 . 0 5 } ) }$ ，第1、2、4和6周末的蛋黄  
+16 颜色显著提高（ $P { < } 0 . 0 5 )$ ; $2 \ 0 0 0 \ \mathrm { m g / k g }$ 苜蓿多糖添加组第1和4周末的蛋壳厚度显著提高  
+17 （ $( P { < } 0 . 0 5 )$ ，第6周末的蛋形指数显著降低（ $_ { . P < 0 . 0 5 ) }$ ，第1、4和6周末的蛋黄颜色显著提  
+18 高（ $_ { , P < 0 . 0 5 ) }$ ; $4 0 0 0 \mathrm { m g / k g }$ 苜蓿多糖添加组第4周末的蛋壳颜色显著加深（ $. P { < } 0 . 0 5$ ）且蛋壳  
+19 强度显著提高（ $( P { < } 0 . 0 5 )$ ，第1和4周末的蛋壳厚度显著提高（ $( P { < } 0 . 0 5 )$ ，第6周末的蛋形指  
+20 数显著降低（ $_ { _ { P < 0 . 0 5 } ) }$ ，第1、4和6周末的蛋黄颜色显著提高（ $\scriptstyle \cdot { P < 0 . 0 5 }$ )。结果表明，夏季  
+21 高温环境下，在饲粮中添加适量的苜蓿多糖可以有效缓解蛋鸡的热应激，提高蛋鸡的生产性  
+22 能，改善蛋品质，且适宜添加量为 $1 0 0 0 \mathrm { m g / k g }$ L
+
+23 关键词：苜蓿多糖；蛋鸡；高温；生产性能；蛋品质中图分类号：S816 文献标识码：A 文章编号：
+
+近些年来随着全球气温的升高，高温对家禽业的危害日渐受到人们的关注。家禽有丰厚的羽毛而汗腺不发达，散热能力非常差。高温引发的热应激不仅会导致蛋鸡产蛋率和蛋重下降，还会导致蛋品质下降[2I，严重时也会引起死亡。高温造成蛋鸡养殖业很大的经济损失，制约了我国蛋鸡业的发展。缓解高温对家禽的危害可以降低生产损失，带来可观的经济效益。植物多糖是广泛存在于植物体内，经过提取纯化得到的一类具有抗氧化[3-4]、免疫调节[5]、抗肿瘤[6-7]、抗感染[8]等多种生物功能的活性物质。关于植物多糖缓解高温环境对动物的危害的研究越来越多，例如，白术多糖可以通过调节细胞因子和抗氧化酶活性减轻热应激对雏鸡的损伤[9]，枸杞多糖可以显著降低热应激下大鼠生殖细胞的凋亡[10]，苜蓿多糖（alfalfapolysaccharides,APS）可以显著提高热应激兔的生产性能及抗氧化性能[1]。苜蓿多糖作为一种具有生物活性的植物多糖，在动物生产中具有一定的开发应用价值。不过，关于高温环境下蛋鸡生产上应用苜蓿多糖的效果未见报道。因此，本试验通过在玉米-豆粕型基础饲粮中添加苜蓿多糖，研究其对高温环境下蛋鸡生产性能和蛋品质的影响，为降低高温环境对蛋鸡生产造成的损失提供一种有效的方法，也为首蓿多糖在蛋鸡生产上的合理应用提供一定的科学依据。
+
+1材料与方法
+
+# 1.1 试验材料
+
+试验材料选用头茬现蕾期紫花苜蓿(购自内蒙古土默特左旗大青山养殖专业合作社)，切割成为 $6 0 \mathrm { c m }$ 长的草段并风干，经水提、醇沉、脱蛋白质后得到苜蓿多糖粗提物，经苯酚-硫酸法测得其中苜蓿多糖含量为 $2 2 . 7 1 \%$ 。
+
+# 1.2试验动物及饲养管理
+
+采用单因子完全随机试验设计，将540只156日龄健康的海兰褐壳蛋鸡随机分为6组，每组6个重复，每个重复15只鸡，各组之间体重、产蛋率差异不显著（ $( P { > } 0 . 0 5 )$ 。对照组饲喂基础饲粮，试验组分别饲喂在基础饲粮中添加 250、500、1000、2000 和 $4 0 0 0 \mathrm { m g / k g }$ 首蓿多糖的试验饲粮。试验期为6周。参照 NRC（1994）蛋鸡营养需要量配制基础饲粮，其组成及营养水平见表1。
+
+# 表1基础饲粮组成及营养水平 (风干基础)
+
+Table1Composition and nutrient levels of the basal diet (air-dry basis) %
+
+项目Items 含量Content  
+原料Ingredients  
+玉米 Corn 64.00  
+豆粕 Soybean meal 24.00  
+豆油 Soybean oil 1.00  
+石粉 Limestone 8.50  
+磷酸氢钙 $\mathrm { C a H P O _ { 4 } }$ 1.20  
+食盐 NaCl 0.30  
+预混料 Premix1) 1.00  
+合计Total 100.00  
+营养水平 Nutrient levels2)  
+代谢能 ME/(MJ/kg) 11.53
+
+粗蛋白质CP 16.52  
+钙Ca 3.50  
+有效磷 AP 0.40  
+赖氨酸Lys 0.80  
+蛋氨酸Met 0.35  
+蛋氨酸 $^ +$ 半胱氨酸 $\mathbf { M e t + C y s }$ 0.65
+
+1预混料为每千克饲粮提供 The premix provided the following per $\mathbf { k g }$ of the diet: $\mathrm { M n } 6 3 . 6 \mathrm { m g }$ $\mathrm { Z n 6 9 ~ m g }$ Fe $3 0 \mathrm { m g }$ ， $\mathrm { C u } 6 . 2 5 \ : \mathrm { m g }$ ， $\mathrm { ~ I ~ } 0 . 4 ~ \mathrm { m g }$ ，Se $0 . 2 \mathrm { m g }$ ，VA 8 000 IU, $\mathrm { V D } _ { 3 } 3 0 0 0 \mathrm { I U }$ ，VE 15 IU, $\mathrm { V K } _ { 3 } 1 . 8 8 \mathrm { m g }$ ， ${ \mathrm { V B } } _ { 1 } 1 . 9 6 $ mg， $\mathrm { V B } _ { 2 } 4 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 3 . 9 2 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 1 ~ \mathrm { m g }$ ，泛酸钙 calcium pantothenate $1 1 . 7 6 \mathrm { m g }$ ，烟酸 nicotinic acid 39.8mg，叶酸 folic acid $0 . 9 8 \mathrm { m g }$ ，生物素biotin $0 . 1 ~ \mathrm { m g }$ ，胆碱choline $2 1 2 . 5 \mathrm { m g }$ 。
+
+2）营养水平均为计算值。Nutrient levels were all calculated values.
+
+57 饲养试验于2015年7—8月份(高温季节)在中国农业科学院北京畜牧兽医研究所昌平试  
+58 验基地进行，试验鸡舍内最高温度达 $3 5 . 0 \mathrm { ~ \textdegree C }$ ，最低温度为 $2 8 . 1 \mathrm { ~ \textdegree C }$ ，平均温度 $3 1 . 8 \mathrm { ~ \textdegree C }$ ，相  
+59 对湿度 $51 \% \sim 7 9 \%$ 。采用3层层叠式笼养，每笼3只鸡，每日喂料3次，自由采食和饮水。  
+50 采用自然光照加人工补光，恒定光照时间为 $1 6 \mathrm { ~ h ~ }$ (光照程序控制器控制)。自然通风，每隔  
+51 2d清粪1次，保持鸡舍清洁卫生，每天观察鸡群状态，记录鸡舍温度。
+
+1.3测定指标与方法
+
+1.3.1 生产性能
+
+试验期间，以重复为单位记录每天总产蛋数、蛋重、不合格蛋数及蛋鸡死淘数，每周结料1次，记录各重复的耗料量，计算平均日采食量、产蛋率、平均蛋重、料蛋比、不合格蛋率和死淘率。
+
+1.3.2 蛋品质
+
+在试验第1、2、3、4和6周末取当日产所有鸡蛋于 $8 \mathrm { ~ h ~ }$ 内测定蛋品质。采用蛋壳颜色测定仪（QCR,TSS 公司，英国)测定蛋壳颜色；采用蛋壳强度测定仪（Model-II,Robotmation公司，日本）测定蛋壳强度；采用蛋壳厚度测定仪（ModelP-1，OzakiMFG 公司，日本）测定蛋壳厚度；采用卵形系数测定器（FHK，FUJIHIRAINDUSTRY公司，日本）测定蛋形指数；采用蛋品质测定仪（EMT-2500，Robotmation 公司，日本）测定蛋白高度、哈夫单位和蛋黄颜色。
+
+# 1.4 数据统计分析
+
+采用 SAS9.3软件的ANOVA过程进行方差分析，用Duncan氏法进行组间的多重比较，显著性水平为 $P { < } 0 . 0 5$ 。试验结果以“平均值±标准差”来表示，其中产蛋率、不合格蛋率以及死淘率经反正弦转换后进行方差分析。
+
+2结果与分析  
+2.1苜蓿多糖对夏季高温环境下蛋鸡生产性能的影响
+
+由表2可知，经过6周的饲养后，与对照组相比，饲粮中添加 500、1000 和 $4 0 0 0 \mathrm { m g / k g }$ 苜蓿多糖使蛋鸡的产蛋率分别提高了 $7 . 7 6 \% . 1 1 . 4 8 \%$ 和 $8 . 3 6 \%$ ，差异达到显著水平( $. P { < } 0 . 0 5 )$ ）此外， $1 0 0 0 \mathrm { m g / k g }$ 苜蓿多糖添加组蛋鸡的产蛋率显著高于250 和 $2 0 0 0 \mathrm { m g / k g }$ 苜蓿多糖添加组（ $. P { < } 0 . 0 5 ^ { \cdot }$ ）
+
+与对照组相比，饲粮中添加500、1000、2000 和 $4 ~ 0 0 0 ~ \mathrm { m g / k g }$ 苜蓿多糖使料蛋比分别降低了 $5 . 9 1 \%$ 、 $8 . 3 7 \%$ 、 $5 . 4 2 \%$ 和 $7 . 8 8 \%$ ，差异达到显著水平（ $. P { < } 0 . 0 5 )$ )。此外， $1 0 0 0$ 和4000$\mathrm { m g / k g }$ 苜蓿多糖添加组蛋鸡的料蛋比显著低于 $2 5 0 \mathrm { m g / k g }$ 苜蓿多糖添加组（ $. P { < } 0 . 0 5 )$ 。
+
+与对照组相比，饲粮中添加不同水平的苜蓿多糖对蛋鸡的平均蛋重、平均日采食量、不合格蛋率和死淘率均未产生显著影响（ $( P { > } 0 . 0 5 )$ L。
+
+表2苜蓿多糖对夏季高温环境下蛋鸡生产性能的影响  
+Table2Efects of alfalfa polysaccharides onperformanceof layinghensunder high temperature environment in summer $\scriptstyle ( n = 6 )$   
+
+<html><body><table><tr><td rowspan="2">项目</td><td rowspan="2">对照组</td><td colspan="5">苜蓿多糖添加水平</td><td rowspan="2">P值</td></tr><tr><td></td><td colspan="3">The supplemental levels of alfalfa polysaccharides/(mg/kg)</td><td>P-value</td></tr><tr><td>Items</td><td>Control group</td><td>250</td><td>500</td><td>1000</td><td>2000</td><td>4 000</td><td></td></tr><tr><td>产蛋率 Egg production/%</td><td>75.51±3.40c</td><td>77.25±4.44bc</td><td>81.37±5.83ab</td><td>84.18±3.15a</td><td>78.66±3.66bc</td><td>81.82±2.91ab</td><td>0.007 1</td></tr><tr><td>平均蛋重 Average egg weight/g</td><td>51.14±1.70</td><td>51.44±1.23</td><td>51.95±1.26</td><td>52.03±1.86</td><td>51.88±1.52</td><td>52.40±1.20</td><td>0.740 4</td></tr><tr><td>平均日采食量 ADFI/g</td><td>78.20±4.33</td><td>78.03±5.01</td><td>80.62±6.66</td><td>81.45±3.66</td><td>78.35±5.15</td><td>80.38±4.93</td><td>0.759 6</td></tr><tr><td>料蛋比 Feed to egg ratio</td><td>2.03±0.06a</td><td>1.97±0.07ab</td><td>1.91±0.08bc</td><td>1.86±0.05c</td><td>1.92±0.06bc</td><td>1.87±0.06c</td><td>0.001 5</td></tr><tr><td>不合格蛋率 Unqualified egg rate/%</td><td>2.71±0.78</td><td>2.71±1.45</td><td>2.96±1.08</td><td>2.47±1.53</td><td>2.09±0.92</td><td>2.42±0.73</td><td>0.800 7</td></tr><tr><td>死淘率Mortality rate/%</td><td>1.11±2.72</td><td>2.22±5.44</td><td>2.22±3.44</td><td>1.11±2.72</td><td>1.11±2.72</td><td>1.11±2.72</td><td>0.983 7</td></tr></table></body></html>
+
+同行数据肩标不相字母表示差异显著（ $P { < } 0 . 0 5 \$ ，无或相同字母表示差异不显著（ $P { > } 0 . 0 5$ )。下表同。
+
+In the same row,values with different letter superscripts mean significant difference ( $( P { < } 0 . 0 5 )$ ,while with no or the same letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ . The same as below.
+
+2.2苜蓿多糖对夏季高温环境下蛋鸡蛋品质的影响
+
+2.2.1 苜蓿多糖对夏季高温环境下蛋鸡蛋壳颜色的影响
+
+由表3可知，与对照组相比，试验第4和6周末，饲粮中添加 $1 0 0 0 \mathrm { m g / k g }$ 苜蓿多糖显著加深了蛋壳颜色 $( P { < } 0 . 0 5 )$ ；试验第4周末，饲粮中添加 $4 0 0 0 \mathrm { m g / k g }$ 苜蓿多糖显著加深了蛋壳颜色（ $_ { _ { P < 0 . 0 5 } }$ )。各试验组之间相互比较发现，试验第6周末， $1 0 0 0$ 和 $4 0 0 0 \mathrm { m g / k g }$ 苜蓿多糖添加组蛋壳颜色显著深于 $2 5 0 ~ \mathrm { m g / k g }$ 苜蓿多糖添加组（ $P { < } 0 . 0 5 \rangle$ ）
+
+# 2.2.2苜蓿多糖对夏季高温环境下蛋鸡蛋壳强度的影响
+
+由表4可知，与对照组相比，试验第1、2和4周末，饲粮中添加 $1 \ 0 0 0 \ \mathrm { m g / k g }$ 苜蓿多糖显著提高了蛋壳强度（ $( P { < } 0 . 0 5 )$ ；试验第4周末，饲粮中添加 $4 0 0 0 \mathrm { m g / k g }$ 苜蓿多糖显著提高了蛋壳强度（ $. P { < } 0 . 0 5 \rangle$ )。各试验组之间相互比较发现，试验第1和2周末， $1 0 0 0 \mathrm { m g / k g }$ 首蓿多糖添加组蛋壳强度显著高于 $2 5 0 \mathrm { m g / k g }$ 苜蓿多糖添加组（ $. P { < } 0 . 0 5 )$ ；试验第2周末，1000$\mathrm { m g / k g }$ 苜蓿多糖添加组蛋壳强度显著高于 $5 0 0 \mathrm { m g / k g }$ 苜蓿多糖添加组（ $_ { . } { P } { < } 0 . 0 5 )$ 。
+
+# 2.2.3苜蓿多糖对夏季高温环境下蛋鸡蛋壳厚度的影响
+
+由表5可知，与对照组相比，试验第1、2和4周末，饲粮中添加 $1 \ 0 0 0 \ \mathrm { m g / k g }$ 苜蓿多糖显著提高了蛋壳厚度（ $. P { < } 0 . 0 5 )$ ；试验第1和4周末，饲粮中添加2000 和 $4 0 0 0 \mathrm { m g / k g }$ 首蓿多糖显著提高了蛋壳厚度（ $( P { < } 0 . 0 5 )$ 。各试验组之间相互比较发现，在试验第1和2周末，$1 0 0 0 \mathrm { m g / k g }$ 苜蓿多糖添加组蛋壳厚度显著高于 $2 5 0 \mathrm { m g / k g }$ 苜蓿多糖添加组（ $. P { < } 0 . 0 5 )$ ；试验第1周末，2000 和 $4 0 0 0 \mathrm { m g / k g }$ 苜蓿多糖添加组蛋壳厚度均显著高于 $2 5 0 ~ \mathrm { m g / k g }$ 苜蓿多糖添加组（ $P { < } 0 . 0 5 )$ ；试验第2和4周末， $4 0 0 0 \mathrm { m g / k g }$ 苜蓿多糖添加组蛋壳厚度显著高于250 和$5 0 0 \mathrm { m g / k g }$ 苜蓿多糖添加组（ $P { < } 0 . 0 5 \rangle$ ）°
+
+# 2.2.4苜蓿多糖对夏季高温环境下蛋鸡蛋形指数的影响
+
+由表6可知，与对照组相比，试验第1和6周末，饲粮中添加 $1 0 0 0 \mathrm { m g / k g }$ 苜蓿多糖显著降低了蛋形指数（ $_ { . } { P } { < } 0 . 0 5 )$ ；试验第6周末，饲粮中添加500、2000和 $4 ~ 0 0 0 ~ \mathrm { m g / k g }$ 苜蓿多糖显著降低了蛋形指数！ $( P { < } 0 . 0 5 )$ 。各试验组之间相互比较发现，试验第1和6周末，500、118 1000、2000和 $4 ~ 0 0 0 ~ \mathrm { m g / k g }$ 苜蓿多糖添加组蛋形指数显著低于 $2 5 0 ~ \mathrm { m g / k g }$ 苜蓿多糖添加组119 （ $. P { < } 0 . 0 5 )$ ；试验第6周末， $4 0 0 0 \mathrm { m g / k g }$ 苜蓿多糖添加组蛋形指数显著低于500、1000 和2120 $0 0 0 \mathrm { m g / k g }$ 苜蓿多糖添加组（ $_ { . P < 0 . 0 5 ) }$ ；试验第4周末，1000 和 $4 0 0 0 \mathrm { m g / k g }$ 苜蓿多糖添加组121 蛋形指数显著低于 $2 0 0 0 \mathrm { m g / k g }$ 苜蓿多糖添加组（ $_ { . } P { < } 0 . 0 5 )$ ）°
+
+# 2.2.5苜蓿多糖对夏季高温环境下蛋鸡蛋白高度和哈夫单位的影响
+
+由表7和表8可知，试验期间，各组之间蛋白高度和哈夫单位没有显著差异（ $( P { > } 0 . 0 5 )$ ）
+
+# 2.2.6苜蓿多糖对夏季高温环境下蛋鸡蛋壳颜色的影响
+
+由表9可知，与对照组相比，试验第1、2、4和6周末，饲粮中添加 $1 0 0 0 \mathrm { m g / k g }$ 苜蓿多糖显著提高了蛋黄颜色( $( P { < } 0 . 0 5 )$ ；试验第1、4和6周末，饲粮中添加500、2000和4000mg/kg 苜蓿多糖显著提高了蛋黄颜色（ $. P { < } 0 . 0 5 ^ { \cdot }$ ；试验第4和6周末，饲粮中添加 $2 5 0 \mathrm { m g / k g }$
+
+128 苜蓿多糖显著提高了蛋黄颜色 $( P { < } 0 . 0 5 )$ 。各试验组之间相互比较发现，试验第1周末，500、  
+129 1000、2000和 $4 ~ 0 0 0 ~ \mathrm { { m g / k g } }$ 苜蓿多糖添加组蛋黄颜色显著高于 $2 5 0 ~ \mathrm { m g / k g }$ 苜蓿多糖添加组  
+130 （ $\cdot P { < } 0 . 0 5 )$ ；试验第2周末,1000和 $2 0 0 0 \mathrm { m g / k g }$ 苜蓿多糖添加组蛋黄颜色显著高于 $2 5 0 \mathrm { m g / k g }$   
+131 苜蓿多糖添加组（ $P { < } 0 . 0 5 )$ 。
+
+Table 3Effects of alfalfa polysaccharides on eggshellcolor of laying hens under high temperature environment in
+
+表3苜蓿多糖对夏季高温环境下蛋鸡蛋壳颜色的影响  
+表4苜蓿多糖对夏季高温环境下蛋鸡蛋壳强度的影响  
+
+<html><body><table><tr><td colspan="7">summer (n=6) %</td></tr><tr><td></td><td colspan="6">苜蓿多糖添加水平</td></tr><tr><td>时间 Time</td><td>对照组 Control group</td><td></td><td>The supplemental levels of alfalfa polysaccharides/(mg/kg)</td><td></td><td></td><td></td><td>P值 P-value</td></tr><tr><td>第1周末 The</td><td>33.19±1.88</td><td>250 33.77±1.71</td><td>500 32.60±1.19</td><td>1000 31.50±1.94</td><td>2 000 33.80±1.61</td><td>4 000 32.85±2.05</td><td>0.2369</td></tr><tr><td>end ofweek1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第2周末The</td><td>35.12±1.91</td><td>35.41±1.47</td><td>35.32±1.40</td><td>34.41±2.40</td><td>36.09±1.92</td><td>33.98±1.36</td><td>0.391 5</td></tr><tr><td>end ofweek 2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第3周末The</td><td>31.49±1.48</td><td>31.89±1.72</td><td>32.17±1.64</td><td>30.31±1.45</td><td>32.84±0.24</td><td>31.32±1.99</td><td>0.126 0</td></tr><tr><td>end of week 3</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第4周末 The</td><td>39.18±1.60a</td><td>37.86±2.38ab</td><td>36.79±2.34ab</td><td>35.76±2.05b</td><td>37.86±1.82ab</td><td>35.58±1.34b</td><td>0.025 1</td></tr><tr><td>end of week 4</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第6周末The</td><td>34.75±1.68ab</td><td>35.24±2.23a</td><td>33.85±1.00abc</td><td>32.46±1.55c</td><td>34.42±1.42abc</td><td>33.08±1.25bc</td><td>0.0407</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+Table 4Effcts of alfalfa polysaccharides on eggshellstrength of laying hens under high temperature environment in
+
+表5苜蓿多糖对夏季高温环境下蛋鸡蛋壳厚度的影响  
+
+<html><body><table><tr><td rowspan="2">Time</td><td rowspan="2">Control group</td><td colspan="5">The supplemental levels of alfalfa polysaccharides/(mg/kg)</td><td rowspan="2">P-value</td></tr><tr><td>250</td><td>500</td><td>1000</td><td>2000</td><td>4000</td></tr><tr><td>第1周末The</td><td>37.04±3.18b</td><td>36.84±3.21b</td><td>38.95±2.16b</td><td>43.06±2.86a</td><td>39.61±3.86ab</td><td>40.58±3.61ab</td><td>0.019 9</td></tr><tr><td>end of week 1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第2周末 The</td><td>31.70±2.15b</td><td>31.85±2.99b</td><td>33.04±2.37ab</td><td>35.89±1.60a</td><td>34.59±2.23ab</td><td>34.16±3.04ab</td><td>0.0391</td></tr><tr><td>end ofweek2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第3周末 The</td><td>39.10±3.52</td><td>39.82±4.52</td><td>38.17±2.89</td><td>39.88±3.42</td><td>38.77±1.44</td><td>41.84±2.83</td><td>0.476 2</td></tr><tr><td>end of week 3</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第4周末 The</td><td>31.71±3.95b</td><td>35.49±4.36ab</td><td>35.62±3.90ab</td><td>37.46±1.65a</td><td>36.07±3.83ab</td><td>38.35±2.58a</td><td>0.048 4</td></tr><tr><td>end of week 4</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第6周末 The</td><td>37.14±3.81</td><td>38.55±4.12</td><td>36.63±3.12</td><td>39.68±4.28</td><td>38.63±2.57</td><td>38.50±4.77</td><td>0.773 0</td></tr></table></body></html>
+
+Table 5Effects of alfalfa polysaccharides on eggshellthicknessoflaying hens under high temperature environment in
+
+<html><body><table><tr><td colspan="7">summer (n=6) mm</td></tr><tr><td>时间</td><td>对照组</td><td colspan="4">苜蓿多糖添加水平</td><td>P值</td></tr><tr><td>Time</td><td>Control group</td><td></td><td>The supplemental levels of alfalfa polysaccharides/(mg/kg)</td><td></td><td></td><td>P-value</td></tr><tr><td></td><td></td><td>250</td><td>500</td><td>1000</td><td>2 000</td><td>4 000</td></tr><tr><td>第1周末</td><td>0.351±0.008b</td><td>0.350±0.010b</td><td>0.365±0.006a</td><td>0.366±0.006a</td><td>0.364±0.011a</td><td>0.366±0.007a 0.0014</td></tr></table></body></html>
+
+week 1   
+
+<html><body><table><tr><td>第2周末</td><td>0.332±0.005c</td><td>0.332±0.014c</td><td>0.338±0.015bc</td><td>0.346±0.006ab</td><td>0.338±0.008bc</td><td>0.351±0.009a</td><td>0.014 3</td></tr><tr><td>The end of</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>week 2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第3周末</td><td>0.363±0.005</td><td>0.367±0.010</td><td>0.361±0.005</td><td>0.368±0.008</td><td>0.362±0.005</td><td>0.371±0.008</td><td>0.098 9</td></tr><tr><td>The end of</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>week 3</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第4周末</td><td>0.329±0.015c</td><td>0.340±0.011bc</td><td>0.340±0.011bc</td><td>0.345±0.011ab</td><td>0.347±0.010ab</td><td>0.355±0.007a</td><td>0.007 3</td></tr><tr><td>The end of</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>week 4</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第6周末</td><td>0.350±0.010</td><td>0.359±0.010</td><td>0.360±0.010</td><td>0.363±0.013</td><td>0.364±0.006</td><td>0.359±0.010</td><td>0.265 0</td></tr><tr><td>The end of</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+Table 6Efects of alfalfa polysaccharides on egg shape index oflaying hens under high temperature environment in summer $\scriptstyle ( n = 6 )$
+
+表6苜蓿多糖对夏季高温环境下蛋鸡蛋形指数的影响  
+
+<html><body><table><tr><td rowspan="2">时间/周</td><td rowspan="2">对照组</td><td colspan="5">苜蓿多糖添加水平</td><td rowspan="2">P值</td></tr><tr><td></td><td>The supplemental levels of alfalfa polysaccharides/(mg/kg)</td><td></td><td></td><td></td></tr><tr><td>Time</td><td>Control group</td><td>250</td><td>500</td><td>1 000</td><td>2 000</td><td>4 000</td><td>P-value</td></tr><tr><td>第1周末 The</td><td>1.27±0.01ab</td><td>1.27±0.02a</td><td>1.25±0.01bc</td><td>1.24±0.01c</td><td>1.25±0.01bc</td><td>1.25±0.03bc</td><td>0.015 8</td></tr></table></body></html>
+
+<html><body><table><tr><td>第2周末 The</td><td>1.26±0.01</td><td>1.26±0.01</td><td>1.25±0.01</td><td>1.26±0.00</td><td>1.25±0.01</td><td>1.25±0.01</td><td>0.504 9</td></tr><tr><td>end of week 2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第3周末 The</td><td>1.27±0.01</td><td>1.27±0.01</td><td>1.27±0.01</td><td>1.26±0.01</td><td>1.27±0.01</td><td>1.26±0.01</td><td>0.532 0</td></tr><tr><td>end of week 3</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第4周末 The</td><td>1.27±0.00abc</td><td>1.28±0.01ab</td><td>1.27±0.01abc</td><td>1.26±0.01bc</td><td>1.28±0.01a</td><td>1.26±0.01c</td><td>0.028 3</td></tr><tr><td>end of week 4</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第6周末 The</td><td>1.29±0.02a</td><td>1.29±0.01a</td><td>1.28±0.01b</td><td>1.28±0.01b</td><td>1.28±0.01b</td><td>1.26±0.01c</td><td>0.000 1</td></tr><tr><td>end of week 6</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+蛋形指数为蛋的纵径与横径之比，表示蛋的形状。
+
+Egg shape index is the ratio of egg's longitudinal diameter to transverse diameter,denoting the shape of egg.
+
+表7苜蓿多糖对夏季高温环境下蛋鸡蛋白高度的影响
+
+Table7Efects of alfalfapolysaccarides on albumen height oflaying hensunder high temperature environmentin summer
+
+<html><body><table><tr><td colspan="8">(n=6) mm</td></tr><tr><td>对照组</td><td colspan="7">苜蓿多糖添加水平</td></tr><tr><td>时间 Time</td><td>Control group</td><td></td><td></td><td>The supplemental levels of alfalfa polysaccharides/(mg/kg)</td><td></td><td></td><td>P值 P-value</td></tr><tr><td></td><td></td><td>250</td><td>500</td><td>1000</td><td>2000</td><td>4 000</td><td></td></tr><tr><td>第1周末 The</td><td>7.90±0.33</td><td>7.80±0.24</td><td>8.02±0.23</td><td>8.10±0.30</td><td>7.70±0.30</td><td>7.88±0.38</td><td>0.299 0</td></tr><tr><td>end of week 1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第2周末 The</td><td>7.67±0.28</td><td>7.90±0.76</td><td>7.32±0.26</td><td>7.45±0.43</td><td>7.42±0.35</td><td>7.92±0.51</td><td>0.136 7</td></tr></table></body></html>
+
+表8苜蓿多糖对夏季高温环境下蛋鸡哈夫单位的影响  
+
+<html><body><table><tr><td>第3周末The</td><td>8.35±0.36</td><td>8.47±0.32</td><td>8.47±0.33</td><td>8.53±0.29</td><td>8.48±0.17</td><td>8.57±0.31</td><td>0.869 7</td></tr><tr><td>end of week 3</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第4周末 The</td><td>8.17±0.27</td><td>8.57±0.21</td><td>8.28±0.40</td><td>8.35±0.25</td><td>8.22±0.43</td><td>8.45±0.33</td><td>0.295 4</td></tr><tr><td>end of week 4</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第6周末The</td><td>7.60±0.22</td><td>7.36±0.61</td><td>7.47±0.45</td><td>7.35±0.24</td><td>7.28±0.33</td><td>7.47±0.25</td><td>0.728 6</td></tr></table></body></html>
+
+Table 8Effects of alfalfa polysaccharides on Haugh unit of laying hens under high temperature environment in summer $\scriptstyle ( n = 6 )$
+
+<html><body><table><tr><td rowspan="2">项目 Item</td><td rowspan="2">时间</td><td rowspan="2">对照组 Control group</td><td colspan="5">苜蓿多糖添加水平</td><td rowspan="2">P值</td></tr><tr><td colspan="5">The supplemental levels of alfalfa polysaccharides/(mg/kg)</td></tr><tr><td rowspan="8">哈夫单位 Haugh unit</td><td>Time</td><td></td><td>250</td><td>500</td><td>1000</td><td>2 000</td><td>4 000</td><td>P-value</td></tr><tr><td>第1周末 The end of week 1</td><td>90.67±1.70</td><td>89.82±1.72</td><td>91.60±1.46</td><td>92.02±1.46</td><td>90.52±1.59</td><td>90.62±2.27</td><td>0.301 0</td></tr><tr><td>第2周末 The</td><td>89.68±1.88</td><td>91.25±3.99</td><td>88.03±1.71</td><td>88.62±2.05</td><td>88.27±2.24</td><td>91.27±2.13</td><td>0.090 1</td></tr><tr><td>end of week 2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第3周末 The</td><td>92.75±2.27</td><td>93.85±1.96</td><td>93.60±2.32</td><td>93.63±1.82</td><td>93.42±1.48</td><td>94.00±2.04</td><td>0.916 5</td></tr><tr><td>end of week 3</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第4周末 The</td><td>92.25±1.88</td><td>94.55±1.80</td><td>92.72±2.17</td><td>93.45±2.11</td><td>92.12±2.34</td><td>93.63±1.63</td><td>0.290 3</td></tr><tr><td>end of week 4</td><td></td><td>87.22±3.75</td><td>87.63±2.70</td><td>87.28±1.04</td><td>87.17±2.66</td><td>87.97±1.21</td><td>0.965 6</td></tr></table></body></html>
+
+end of week 6
+
+Table9Efects of alfalfa polysaccarides on yolk color of laying hens under high temperature environment in summer $\scriptstyle ( n = 6 )$ （20
+
+表9苜蓿多糖对夏季高温环境下蛋鸡蛋黄颜色的影响  
+
+<html><body><table><tr><td>项目</td><td>时间</td><td>对照组</td><td colspan="5">苜蓿多糖添加水平</td><td>P值</td></tr><tr><td>Item</td><td>Time</td><td>Control group</td><td colspan="5">The supplemental levels of alfalfa polysaccharides/(mg/kg)</td><td>P-value</td></tr><tr><td rowspan="10">蛋黄颜色 Yolk color</td><td>第1周末The</td><td>6.67±0.31b</td><td>250 6.73±0.44b</td><td>500 7.50±0.11a</td><td>1000 7.48±0.12a</td><td>2 000 7.42±0.13a</td><td>4 000 7.45±0.10a</td><td><0.000 1</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>end of week 1</td><td>6.92±0.13bc</td><td>6.82±0.18c</td><td>7.03±0.20abc</td><td>7.18±0.15a</td><td>7.08±0.18ab</td><td>6.97±0.24abc</td><td></td></tr><tr><td>第2周末The</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.028 2</td></tr><tr><td>end of week 2 第3周末The</td><td>6.75±0.19</td><td>6.67±0.08</td><td>6.80±0.13</td><td>6.67±0.37</td><td>6.65±0.23</td><td>6.67±0.27</td><td>0.792 3</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>end of week 3</td><td>6.08±0.15b</td><td>6.47±0.16a</td><td>6.47±0.56a</td><td>6.52±0.35a</td><td>6.72±0.24a</td><td>6.87±0.18a</td><td>0.003 6</td></tr><tr><td>第4周末The</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>end of week 4</td><td></td><td>6.52±0.22a</td><td>6.55±0.16a</td><td>6.60±0.20a</td><td>6.65±0.19a</td><td>6.63±0.25a</td><td></td></tr><tr><td>第6周末The</td><td>5.98±0.15b</td><td></td><td></td><td></td><td></td><td></td><td><0.000 1</td></tr></table></body></html>
+
+155 3讨论
+
+3.1苜蓿多糖对夏季高温环境下蛋鸡生产性能的影响
+
+157 一般认为，蛋鸡生产最合适温度是 $1 9 { \sim } 2 2 \ \mathrm { ~ } ^ { \circ } \mathrm { C } ^ { [ 1 2 ] }$ ，当高于此温度范围时，热应激就可能  
+158 会出现。高温对蛋鸡生产性能有较大的危害，会导致产蛋率下降[13-14]和平均蛋重下降[14]。  
+159 高温导致采食量减少，是影响蛋鸡生产性能的主要因素之一。Song 等[15]对热应激状态下蛋  
+160 鸡采食调节肽的基因表达情况进行了研究，发现热应激会上调蛋鸡腺胃和空场的胃饥饿素基  
+161 因的表达水平，而胃饥饿素是一种使食欲降低的下丘脑神经肽，这也许是热应激蛋鸡采食量  
+162 降低的关键因素。在实际的蛋鸡养殖生产中，在 $2 1 { \sim } 3 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 范围内，气温每升高 $1 \ \mathrm { { ^ \circ C } }$ ，采食  
+163 量则下降 $1 . 6 \%$ ；在32\~38℃范围内，气温每升高 $1 \ \mathrm { { ^ circ C } }$ ，采食量则下降 $4 . 6 \% ^ { [ 1 6 ] }$ 。而采食量  
+164 下降会抑制功能性卵巢活动，原因是脑下垂体无法生产或释放促性腺激素，这些激素是促进  
+165 卵泡生长和排卵的物质[17]。另外，采食量下降会导致大黄色卵泡和小白色卵泡数量减少以  
+166 及卵巢缺陷[18]，而小白色卵泡和卵巢基质是雌二醇的主要来源[19]。Rozenboim 等[]和李永洙  
+167 等[20]分别研究发现，高温会导致蛋鸡血浆孕酮水平明显下降。鸡蛋的生产和孕酮、卵泡刺  
+168 激素、黄体生成素以及雌二醇这些生殖激素都密切相关，高温会导致生殖激素分泌失调[18]。  
+169 而植物多糖可以提高动物生殖激素的分泌水平[21-22],关于其具有改善动物生产性能的作用的  
+170 研究报道也比较多。杨秋霞等[23]报道，在蛋鸡饲粮中添加不同剂量的黄芪多糖可以显著地  
+171 降低料蛋比，不同程度地提高粗蛋白质表观消化率和钙表观消化率。陈强等[24]研究表明，  
+172 在肉鸡饲粮中添加 $8 0 0 \mathrm { m g / k g }$ 黄芪多糖可以显著地提高平均体重、平均日采食量和平均日增  
+173 重，并可显著降低料重比。梁英等[25研究发现，饲粮中添加适量的黄芩多糖在一定程度上  
+174 可以提高肉仔鸡的生产性能，其中添加 $2 0 0 ~ \mathrm { m g / k g }$ 黄芩多糖可以显著提高肉仔鸡 49 日龄平  
+175 均体重、平均日增重，并降低料重比。刘晴雪等[26]研究发现，饲粮中添加 $5 0 0 \mathrm { m g / k g }$ 苜蓿多  
+176 糖时肉仔鸡的平均体重、平均日增重显著高于对照组，料重比显著低于对照组。不过，关于  
+177 苜蓿多糖对高温环境下蛋鸡生产性能的影响还没有研究报道。本试验结果显示，整个试验阶  
+178 段，夏季高温环境下，在饲粮中添加500、1000、2000 和 $4 0 0 0 \mathrm { m g / k g }$ 苜蓿多糖可以显著降  
+179 低料蛋比，说明饲粮中添加适量的苜蓿多糖可以提高饲料转化率；另外，饲粮中添加 500、  
+180 1000 和 $4 0 0 0 \mathrm { m g / k g }$ 苜蓿多糖可以显著提高蛋鸡的产蛋率，虽然平均日采食量略有提升，但  
+181 差异不显著。苜蓿多糖并没有通过增加采食量来提高产蛋率，表明苜蓿多糖可能会通过一些  
+182 其他途径来调控生殖激素水平，如苜蓿多糖可能会通过抗感染、抗氧化、增强免疫力、增加  
+183 胃肠道益生菌数量等减少热应激对蛋鸡的损伤，进而调控生殖激素水平。饲料转化率的提升  
+184 表明苜蓿多糖可以增加饲料营养成分的有效利用率，这也是产蛋率提升的一个重要原因。  
+195 3）苦蒂名糖对首秀宫温环培下蛋鸡蛋品质的影响
+
+#
+
+准确评价蛋壳的质量需要结合众多指标的测定结果，这些指标通常包括蛋壳颜色、蛋壳强度、蛋壳厚度和蛋形指数等。影响蛋壳品质的因素有很多，如遗传、营养成分、年龄以及环境等。尽管蛋壳颜色不是蛋品质的一种内在反映，但是相比于白色鸡蛋，一些消费者更青
+
+189 睐于褐壳鸡蛋。褐壳蛋蛋壳中的色素组成主要包括原卟啉-IX、胆绿素-IX和锌螯合物，其中  
+190 原叶啉-IX由蛋壳腺的上皮细胞重新合成，而不是来源于衰老的红细胞，胆绿素-IX由衰老的  
+191 红细胞的血红素分解而成[27]，这3种色素按不同比例混合就可形成从紫蓝色到橄榄绿色的  
+192 不同颜色[28],它们分布在整个蛋壳上，在蛋壳形成过程中，色素添加到蛋壳的时间相当晚[29]。  
+193 当鸡蛋过早被排出体外时，可能会导致蛋壳颜色变浅[30]。进一步来说，蛋壳褐色的深浅度  
+194 取决于与角质层直接有关的色素含量，大约在产蛋前 $9 0 \mathrm { m i n }$ ，当蛋壳沉积达到高水平的稳定  
+195 状态时，富含色素的角质层开始沉积在蛋壳上[28]。本试验结果显示，饲粮中添加1000 和 4  
+196 $0 0 0 ~ \mathrm { m g / k g }$ 苜蓿多糖均可以显著地改善蛋壳颜色，其中以 $\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 添加量较好。蛋壳强  
+197 度是反映蛋品抗破损、蛋壳致密坚固性的重要指标，也是评价蛋壳质量最主要的指标，在禽  
+198 蛋保存、包装和运输中具有很重要的作用，其中钙含量是影响蛋壳强度的重要因素，与在子  
+199 宫中沉积的时间有关。已有很多试验证明植物多糖具有调控细胞内钙离子浓度的作用[31-32]。  
+200 蛋壳厚度是最早用于评价蛋壳质量的指标，也是一直作为评价蛋壳质量优劣的主要指标之一  
+201 [33]。本试验结果显示，夏季高温环境下，在饲粮中添加1000 和 $4 0 0 0 \mathrm { m g / k g }$ 苜蓿多糖可以  
+202 显著地提高蛋壳强度和蛋壳厚度，饲粮中添加 $2 0 0 0 \mathrm { m g / k g }$ 苜蓿多糖也能显著提高蛋壳厚度，  
+203 其中以 $1 ~ 0 0 0 ~ \mathrm { { m g / k g } }$ 苜蓿多糖添加量效果最好。蛋壳颜色、蛋壳强度和蛋壳厚度之间具有很  
+204 大的相关性，一般来说，蛋壳强度和蛋壳厚度呈正相关，蛋壳颜色越深，蛋壳强度和蛋壳厚  
+205 度就越大。Ingram等[34]研究发现，蛋壳颜色和蛋壳厚度具有显著的低度相关性。Yang 等[35]  
+206 也发现，蛋壳颜色和蛋壳强度、蛋壳厚度以及蛋壳重都具有显著的相关性，和蛋壳强度的相  
+207 关系数为-0.262，和蛋壳重的相关系数为-0.255，和蛋壳厚度的相关系数为-0.443，蛋壳颜色  
+208 越深，蛋壳强度、蛋壳重以及蛋壳厚度也越大。本试验结果和上述文献报道结论基本一致。  
+209 夏季高温环境下饲粮中添加苜蓿多糖可以改善蛋壳品质，原因可能有以下2个方面：1）苜  
+210 蓿多糖可能会调控色素分泌过程，进而调节色素比例来影响蛋壳颜色，还会通过调节钙离子  
+211 浓度，使得形成蛋壳的钙源增加，有利于蛋壳形成，增加蛋壳强度和蛋壳厚度；2）苜蓿多  
+212 糖可能会延长蛋壳形成时间，时间越长，色素和钙沉积的就越多，蛋壳颜色也就越深，蛋壳  
+213 强度和蛋壳厚度也就越大。
+
+蛋形指数也是评价蛋壳品质的一种指标，特定的鸡种具有一定的蛋形指数，对包装和运  
+输十分重要，适合的蛋形指数可以减少破蛋和裂纹蛋，而且它在一定程度上也会影响消费者  
+选择的。本试验结果显示，在夏季高温环境下，试验第1和6周末，饲粮中添加 $1 0 0 0 \mathrm { m g / k g }$   
+苜蓿多糖显著降低了蛋形指数，且在试验第6周末，饲粮中添加 500、2000 和 $4 0 0 0 \mathrm { m g / k g }$   
+苜蓿多糖也显著降低了蛋形指数。这说明饲粮中添加一定量的苜蓿多糖对蛋形指数是有一定  
+影响的，蛋形指数倾向于变小、变圆，一般来说，呈圆形的蛋通常蛋壳强度较强[27]，本试  
+验中1000和 $4 0 0 0 \mathrm { m g / k g }$ 苜蓿多糖添加组蛋壳强度确实显著高于对照组，也验证了这一点。国际上衡量禽蛋新鲜程度的指标有哈夫单位、蛋黄指数、气室高度、蛋白高度和整蛋密  
+度等生物学指标[36]。其中哈夫单位是根据蛋重和蛋白高度计算出来的，一般来说，蛋白高
+
+度越大，哈夫单位越大，蛋白质就越浓稠，蛋品质也就越好。本次试验采用蛋白高度和哈夫单位来衡量鸡蛋新鲜度，结果显示，在夏季高温环境下，饲粮中添加苜蓿多糖对鸡蛋蛋白高度和哈夫单位没有显著影响。蛋白高度和哈夫单位受贮藏时间和温度、年龄、疾病及药物等多种因素的影响，已有研究表明植物多糖可以提高鸡蛋蛋白高度和哈夫单位[37-39]，而本试验结果并没有和之前研究学者所得结果一致，这可能与多糖来源、添加剂量以及环境等有关系。蛋黄颜色的深浅取决于家禽从饲粮中摄取的类胡萝卜素和其他色素的数量和种类，用于形成和改善蛋黄颜色的类胡萝卜素物质家禽自身不能合成，需从外界摄入，饲粮中脂肪含量过高会使色素结构破坏而失去着色功能；另外，饲粮中的重金属离子及不饱和脂肪酸会使饲粮易被氧化，容易氧化叶黄素而使其失去着色功能，从而使蛋黄颜色变浅[40]。本试验结果显示，在夏季高温环境下，饲粮中添加250、500、1000、2000 和 $4 0 0 0 \mathrm { m g / k g }$ 苜蓿多糖均可以显著提高蛋黄颜色，其中以 $1 0 0 0 \mathrm { m g / k g }$ 苜蓿多糖添加量效果最好。但是，各组之间平均日采食量并没有显著差异，说明苜蓿多糖并不是通过增加饲粮的摄入量来增加蛋黄颜色的，可能是因为苜蓿多糖具有抗氧化作用，防止了叶黄素被氧化，从而增加了色素的沉积，提高了蛋黄颜色。
+
+4结论
+
+$\textcircled{1}$ 夏季高温环境下，在饲粮中添加 500、1000 和 $4 ~ 0 0 0 ~ \mathrm { m g / k g }$ 苜蓿多糖均能提高蛋鸡的产蛋率并降低料蛋比，其中最适添加量为 $\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 。$\textcircled{2}$ 夏季高温环境下，在饲粮中添加适量的苜蓿多糖可以显著改善蛋壳颜色、蛋壳强度、蛋壳厚度以及蛋黄颜色，也可以减小蛋形指数，但对蛋白高度和哈夫单位没有显著影响，其中最适添加量为 $1 0 0 0 \mathrm { m g / k g }$ 。$\textcircled{3}$ 综上所述，夏季高温环境下，在饲粮中添加苜蓿多糖可以起到缓解蛋鸡热应激的效果，适宜添加量为 $1 0 0 0 \mathrm { m g / k g }$ 。参考文献：[1]ROZENBOIM I,TAKO E,GAL-GARBER O,et al.The efect of heat stress on ovarianfunction of laying hens[J].Poultry Science,2007,86(8):1760-1765.48 [2]AJAKAIYE J J,PEREZ-BELLO A,MOLLINEDA-TRUJILLO A.Impact of heat stress on49 eggqualityinlayerhenssupplementedwith $L$ -ascorbicacidanddl-tocopherol50 acetate[J].Veterinarski Arhiv,2011,81(1):119-132.51 [3]CHEN R Z,LIU Z Q,ZHAO J M,et al.Antioxidant and immunobiological activity of52 water-solublepolysaccharidefractionspurifiedfromAcanthopanaxsenticosu[J].Food53 Chemistry,2011,127(2):434-440.54 [4]MATEOS-APARICIO I,MATEOS-PEINADO C,JIMENEZ-ESCRIG A,et al.Multifunctional55 antioxidant activity of polysaccharide fractions from the soybean byproduct okara[J].Carbohydrate56 Polymers,2010,82(2):245-250.
+
+257 [5]LI J E,NIE S P,YANG C,et al.Extraction optimization,characterization and bioactivity of   
+258 crude polysaccharides from Herba moslae[J].Carbohydrate Polymers,2011,83(3):1201-1206.   
+259 [6]ZONG A Z,CAO H Z,WANG F S.Anticancer polysaccharides from natural resources:a   
+260 review of recent research[J].Carbohydrate Polymers,2012,90(4):1395-1410.   
+261 [7]WANG L,LI X X,CHEN Z X.Sulfated modification of the polysaccharides obtained from   
+262 defated ricebran and theirantitumoractivities[J].International Journal ofBiological   
+263 Macromolecules,2009,44(2):211-214.   
+264 [8]MULVEY G,KITOV P I,MARCATO P,et al.Glycan mimicry as a basis for novel   
+265 anti-infective drugs[J].Biochimie,2001,83(8):841-847.   
+266 [9]XU D N,LI W Y,HUANG Y M,et al.The effect of selenium and polysaccharide of   
+267 Atractylodes macrocephala Koidz.(PAMK) on immune response in chicken spleen under heat   
+268 stress[J].Biological Trace Element Research,2014,160(2):232-237.   
+269 [10]TAN Q H,AN C X,XIAO Y,et al.Protective effect of lycium barbarum polysaccharides   
+270 against heat stress-induced germ cell apoptosis in rats and its mechanism[J].National Journal of   
+271 Andrology,2012,18(1):88-92.   
+272 [11]LIU H W,DONG X F,TONG J M,et al.Alfalfa polysaccharides improve the growth   
+273 performanceandantioxidantstatus ofheat-stressedrabbits[J].Livestock   
+274 Science,2010,131(1):88-93.   
+275 [12]CHARLES D R,WALKER A W.Responses to the thermal environment[M]//CHARLES D   
+276 R,WALKER A W.Poultry environment problems:a guide to solutions.Nottingham:Notingham   
+277 University Press,2002:1-16.   
+278 [13]FRANCO-JIMENEZ D J,SCHEIDELER S E,KITTOK R J,et al.Differential effects of heat   
+279 stressinthreestrainsoflayinghens[J].TheJournalofApplied Poultry   
+280 Research,2007,16(4):628-634.   
+281 [14]MASHALY M M,HENDRICKS G L,KALAMA M A,et al.Effect of heat stress on   
+282 productionparametersand immuneresponsesofcommercial layinghens[J].Poultry   
+283 Science,2004,83(6):889-894.   
+284 [15]SONG Z G,LIU L,SHEIKHAHMADI A,et al.Effect of heat exposure on gene expression of   
+285 feedintakeregulatorypeptidesinlayinghens[J].JournalofBiomedicineand   
+286 Biotechnology,2012,2012:484869.   
+287 [16]刘明信.高温对蛋鸡的影响及解决措施[J].现代畜牧科技,2016(5):20.   
+288 [17] CAMPBELL J R,KENEALY M D,CAMPBELL K L.Physiologyofegg   
+289 laying[M]//CAMPBELL JR,KENEALY M D,CAMPBELL K L.Animal sciences:the biology,care   
+290 and production of domestic animal.4thed.NewYork:Mcgraw-Hill Higher   
+291 Eaucatng,z0U3(4):283-294.   
+292 [18]OGUNTUNJI A O,ALABI O M.Influence of high environmental temperature on egg   
+293 production and shell quality:a review[J].World's Poultry Science Journal,2O10,66(4):739-750.   
+294 [19]SENIOR B E,FURR B JA.A preliminary assessment of the source of oestrogen within the   
+295 ovaryofthedomesticfowl,Gallusdomesticus[J].JournalofReproductionand   
+296 Fertility,1975,43(2):241-247.   
+297 [20]李永洙,CUIYQ.热应激对不同品种鸡繁殖性能、血液生殖激素及相关基因 mRNA表   
+298 达量的影响[J].中国农业大学学报,2013,18(1):134-141.   
+299 [21]张彩利,刘玉姣,王安忠,等.枸杞多糖对己烯雌酚生殖损伤仓鼠抗氧化能力及生殖激素   
+300 水平的影响[J].中国兽医学报,2014,34(8):1364-1368,1372.   
+301 [22]官丽辉,张立永,刘海斌,等.黄芪多糖对蛋鸡生产性能、生殖激素及血液生理生化指标的   
+302 影响[J].中国粮油学报,2015,30(7):70-76.   
+303 [23]杨秋霞,王洪芳,陈辉,等.黄芪多糖对蛋鸡生产性能和饲料表观消化率的影响[C]//第五届   
+304 (2011)中国蛋鸡行业发展大会论文集.青岛:中国畜牧业协会,2011:275-278.   
+305 [24]陈强,姜莉莉,肖银霞,等.黄芪多糖对肉鸡生产性能及血清免疫球蛋白的影响[J].饲料研   
+306 究,2013(3):50-52.   
+307 [25]梁英,姜宁,何雯娟,等.黄芩多糖对肉仔鸡生长性能和免疫功能的影响[J].动物营养学   
+308 报,2010,22(4):1031-1036.   
+309 [26]刘晴雪,董晓芳,佟建明,等.水溶性苜蓿多糖对肉仔鸡生长及免疫性能的影响[J].饲料研   
+310 究,2010(7):1-4,8.   
+311 [27]周光玉.蛋壳颜色、成分和结构与蛋壳质量关系的研究[D].硕士学位论文.扬州:扬州大   
+312 学,2010:6-20.   
+313 [28]李纯华.蛋壳颜色形成的机理探讨[J].四川畜牧兽医,2004,31(12):21-22.   
+314 [29]CAVERO D,SCHMUTZ M,ICKEN W,et al.Atractive eggshell color as a breeding   
+315 goal[J].Lohmann Information,2012,47(2):15-21.   
+316 [30]NYS Y,ZAWADZKI J,GAUTRON J,et al.Whitening of brown-shelled eggs:mineral   
+317 compositionofuterinefluidandrateofprotoporphyrindeposition[J].Poultry   
+318 Science,1991,70(5):1236-1245.   
+319 [31]雷丰丰,赵健雄,王学习,等.红芪总多糖诱导 S180 瘤细胞凋亡的实验研究[J].中成   
+320 药,2008,30(7):961-964.   
+321 [32]游如旭,张玉,汪柳,等.香菇多糖诱导鼠肝癌 H22 细胞凋亡机制的初步探讨[J].中国医院   
+322 药学杂志,2015,35(9):776-781.   
+323 [33]KHATKAR M S,SANDHU J S,BRAH G S,et al.Estimation of egg shell breaking strength   
+324 from egg characteristicsin layerchickens[J].IndianJournalofPoultry   
+325 Science,1997,32(1):111-113.   
+326 [34]INGRAM D R,HATTEN II L F,HOMAN K D.A study on the relationship between   
+327 eggshell color and eggshell quality in commercial broiler breeders[J].International Journal of   
+328 Poultry Science,2008,7(7):700-703.   
+329 [35]YANG H M,WANG Z Y,LU J.Study on the relationship between eggshellcolors and egg   
+330 qualityaswell asshell ultrastructureinYangzhou chicken[J].African Journalof   
+331 Biotechnology,2009,8(12):2898-2902.   
+332 [36]习岗,刘锴,徐永奎,等.生物超弱光子辐射在禽蛋新鲜度评价中的应用[J].农业工程学   
+333 报,2012,28(3):263-268.   
+334 [37] 王洪芳.黄芪多糖对蛋鸡生产性能、抗氧化酶活性、免疫机能及肠道主要菌群的影响[D].   
+335 硕士学位论文.保定:河北农业大学,2010:24-28.   
+336 [38]王翠菊,王洪芳,陈辉,等.黄芪多糖对蛋鸡抗氧化性能和蛋品质的影响[J].动物营养学   
+337 报,2011,23(2):280-284.   
+338 [39] 辛小青,董晓芳,佟建明.饲粮添加不同水平苜蓿粗多糖对蛋鸡生产性能和蛋品质的影响   
+339 [J].动物营养学报,2016,28(8):2465-2475.   
+340 [40]沈曼曼,王莹.影响蛋黄颜色沉积因素分析[J].广东饲料,2014,23(6):43-45.   
+341   
+342 Effects of Alfalfa Polysaccharides on Performance and Egg Quality of Laying Hens under High   
+343 Temperature Environment in Summer   
+344 WANG Chaodong DONG Xiaofang\*TONG Jianming   
+345 (Institute of Animal Sciences, Chinese Academy of Agricultural Sciences, Beijing 100193, China)   
+346 Abstract: This experiment was conducted to study the effects of dietary alfalfa polysaccharides   
+347 (APS)on performance and egg quality of laying hens under high temperature environment in   
+348 summer. Five hundred and forty 156-day-old Hy-Line Brown laying hens were randomly allocated   
+349 to 6 groups with 6 replicates per group and 15 hens per replicate. Hens in control group were fed a   
+350 basal diet, and those in experimental groups were fed the basal diet supplemented with 250, 500,1   
+351 000,2 000 and $4 ~ 0 0 0 ~ \mathrm { m g / k g }$ APS, respectively. The experiment lasted for 6 weeks.The results   
+352 showed as follows: compared with the control group,1) diet supplemented with different levels of   
+353 APS had no significant effects on average egg weight, average daily feed intake, unqualified egg   
+354 rate and mortality rate $( P { > } 0 . 0 5 )$ . However, diet supplemented with 50o0,1 000 and $4 ~ 0 0 0 ~ \mathrm { m g / k g }$ （204   
+355 APS significantly increased egg production $( P { < } 0 . 0 5 )$ ,and diet supplemented with 500,1 000,2   
+356 000 and $4 0 0 0 \mathrm { \ m g / k g }$ APS significantly decreased feed to egg ratio $( P { < } 0 . 0 5 )$ .2）Diet
+
+supplemented with different levels of APS had no significant effects on albumen height and Haugh unit $( P { > } 0 . 0 5 )$ .Diet supplemented with $2 5 0 ~ \mathrm { m g / k g }$ APS significantly increased yolk color at the end of week 4 and week 6( $( P { < } 0 . 0 5 )$ .Diet supplemented with $5 0 0 ~ \mathrm { m g / k g }$ APS significantly decreased egg shape index at the end of week 6 $( P { < } 0 . 0 5 )$ , meanwhile significantly increased yolk color at the end of week 1, week 4 and week 6 ( $( P { < } 0 . 0 5 )$ . Diet supplemented with $\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ APS significantly improved eggshell color at the end of week 4 and week 6 ( $( P { < } 0 . 0 5 )$ , significantly increased eggshell strength and thickness at the end of week 1，week 2 and week 4 $( P { < } 0 . 0 5 )$ ， significantly decreased egg shape index at the end of week 1 and week 6 $( P { < } 0 . 0 5 )$ ，and significantly increased yolk color at the end of week 1,week 2, week 4 and week 6 ( $( P { < } 0 . 0 5 )$ .Diet supplemented with $2 \mathrm { 0 0 0 m g / k g }$ APS significantly increased eggshell thickness at the end of week 1 and week 4 $( P { < } 0 . 0 5 )$ ， significantly decreased egg shape index at the end of week 6 $( P { < } 0 . 0 5 )$ ， and significantly increased yolk color at the end of week 1,week 4 and week 6 $( P { < } 0 . 0 5 )$ .Diet supplemented with $4 ~ 0 0 0 ~ \mathrm { { m g / k g } }$ APS significantly improved eggshell color and eggshell strength at the end of week 4 $( P { < } 0 . 0 5 )$ ,significantly increased eggshell thickness at the end of week 1 and week 4 $( P { < } 0 . 0 5 )$ ，significantly decreased egg shape index at the end of week 6 $( P { < } 0 . 0 5 )$ ，and significantly increased yolk color at the end of week 1,week 4 and week 6 $( P { < } 0 . 0 5 )$ . The results indicate that moderate APS supplementation can effectively alleviate heat stress of laying hens and improve performance as well as egg quality of laying hens under high temperature environment in summer, and the optimum supplemented level is $1 0 0 0 \mathrm { m g / k g }$ Key words: alfalfa polysaccharides; laying hens; high temperature; performance; egg quality

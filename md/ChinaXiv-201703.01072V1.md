@@ -1,0 +1,239 @@
+# Cr对Fe-Cr合金耐蚀性能影响的电子理论研究
+
+王 」李春福」林元华1² 曹 江
+
+1）西南石油大学材料科学与工程学院成都610500
+
+2）西南石油大学油气藏地质及开发工程国家重点实验室成都610500
+
+3）中国人民解放军驻四二O厂军事代表室成都610500摘要基于固体与分子经验电子理论(EET)，对Fe-Cr合金( $\mathrm { \mathop { C r } }$ 含量为 $0 { \sim } 3 0 \%$ ，原子分数)的价电子结构进行了半定量分析，利用界面电子密度差 $\Delta \rho$ 的计算方法，计算了Fe-Cr合金与 $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 、 $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ 钝化膜低指数晶面间的电子密度。结果表明，Fe-Cr合金固溶体的杂化原子轨道数 $\sigma _ { \mathrm { n } }$ ，最强键共价电子数 $n _ { \mathrm { A } }$ 和最强键键能 $E _ { \mathrm { A } }$ 均大于纯Fe, $\mathrm { C r }$ 能提高Fe基体的稳定性。当 $\mathrm { C r }$ 含量达到 $1 2 . 5 2 \%$ 和 $2 4 . 3 \%$ 时， $\mathrm { C r }$ 原子从低阶迁移到共价电子数少的高阶状态，不稳定性增加，时 $\mathrm { C r }$ 易偏离平衡位置与腐蚀介质作用形成钝化膜，造成 $\mathrm { F e - } 1 2 . 5 2 \% \mathrm { C r }$ 和 $\mathrm { F e } { - } 2 4 . 3 \% \mathrm { C r }$ 合金的耐腐蚀性能发生突变。Fe-Cr合金与 $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 、 $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ 钝化膜的 24个低指数界面中，只有 $\mathrm { F e - C r ( 1 1 2 ) / C r _ { 2 } O _ { 3 } ( \tilde { \it Q } \tilde { \it Q } \tilde { \it Q } }$ m $\mathrm { F e } _ { \mathsf { F } } \mathrm { C r } ( 1 1 2 ) / \mathrm { C r } _ { 2 } \mathrm { O } _ { 3 } ( 1 0 ^ { - } 0 ) _ { \mathrm { C r } }$ ， $\mathrm { F e - C r } ( 1 1 2 ) / \mathrm { F e } _ { 2 } \mathrm { O } _ { 3 } ( 1 1 \overline { { 2 } } 0 )$ 界面的 $\Delta \rho { < } 1 0 \%$ ，对于同等 $\mathrm { C r }$ 含量的基体， $\mathrm { F e } { - } C \mathrm { r } ( 1 1 2 ) / C \mathrm { r } _ { 2 } \mathrm { O } _ { 3 } ( 1 0 ^ { - } 1 0 ) _ { \mathrm { C r } }$ 界面 $\Delta \rho$ 最小，满足 $\Delta \rho { < } 1 0 \%$ 的杂化原子轨道数 $\sigma$ 最大。随着基体中 $\mathrm { C r }$ 含高，(C001) $\mathrm { F e - C r } ( 1 1 2 ) / \mathrm { F e } _ { 2 } \mathrm { O } _ { 3 } ( 1 1 \overline { { 2 } } \ 0 )$ 界面 $\Delta \rho$ 降低，$\sigma$ 增加， $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 、 $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ 与基体的界面更加稳定牢固，因此 $\mathrm { F e } { - } 2 4 . 3 \% \mathrm { C r }$ 合金的耐腐蚀性可跃迁至更高水平。欧 公价电子结构对Fe-Cr合金耐蚀性能变化的分析结果基本符合 Tammann 定律的述。
+
+关键词固体与分子经验电子理论，耐腐蚀性能，钝化膜，界面电子密度差，Tammann 定律
+
+中图分类号 71.15
+
+# Electronic Theoretical Study of the Inflaenceof Cr on Corrosion Resistance ofFe-CrAlloy
+
+WANG Yao’,LIChunfu1,LI Yuanhua‘2, CAO Jiang3
+
+1 School of Materials Science and Engineering, Southwest Petroleum University, Chengdu 6l050,China 2 State Key Laboratory of Oil and Gas Reservoir Geology and Exploitation, Southwest Petroleum University, Chengdu 610500, China
+
+3 PLA Military Representative Office Stationed 420 Factory, Chengdu 610503, China资助项目国家高技术研究发展计划项目No.2006AA06A105和西南石油大学油气藏地质及开发工程国家重点实验室基金项目No.PLN0609
+
+收稿日期2016-07-01定稿日期2017-03-03作者简介王，女，1993年生，博士通讯作者 林元华， $\mathrm { y h l i n } 2 8 @ 1 6 3 . \mathrm { c o m }$ ，主要从事...DOI10.11900/0412.1961.2016.00269
+
+Correspondent: LIN Yuanhua, professor, Tel: (O28)83032224, E-mail: yhlin28 @ 163.com Supported by High Technology Research and Development Program of China (No.2006AA06A105)and Fund of State Key Laboratory of Oil and Gas Reservoir Geology and Exploitation (No.PLN0609) Manuscript received 2016-07-01, in revised form 2017-03-03
+
+ABSTRACT Based on the empirical electron theory (EET） of solids and molecules,the valence electron structure caculation results of Fe-Cr alloy containing $( 0 { - } 3 0 \% ) \mathrm { C r }$ were analyzed semi-quantitatively. The electron density differences of interface $( \Delta \rho )$ between Fe-Cr alloy and $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ ， $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ passivation films were calculated. According to the results,adding $\mathrm { C r }$ to $\alpha$ -Fe matrix can strengthen the matix by improving the number of hybid atomic orbitals $\sigma _ { \mathrm { n } }$ ，the number c He strongest bond covalent electron pairs $n _ { \mathrm { A } }$ and the strongest covalent bond energy $E _ { \mathrm { { A } } }$ of Fe-Cr_alloy. C the content of $\mathrm { C r }$ rises up to $1 2 . 5 2 \%$ and $2 4 . 3 \%$ ，the corrosion resistance of Fe-Cr alloy is improved because of Cr being changed to a higher hybrid level, where $\mathrm { C r }$ becomes more unstable and easily withenvironment O to form a complete passivation layer of $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ Moreover, among the electronic density differences of 24 low-index faces between Fe-Cr and $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ ， $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ 风   
+only the $\Delta \rho$ of Fe-Cr(112)/ $\widetilde { C } \widetilde { \mathbf { f } _ { 2 } } \mathbf { O } _ { 3 } ( 0 0 0 \widetilde { \mathrm { I } } )$ ,Fe-Cr(112)/ $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ $( 1 0 \overline { { 1 } } 0 ) _ { \mathrm { C r } }$ ， $\mathrm { F e - C r } ( 1 1 2 ) \bigotimes _ { \bigstar } \bigoplus _ { \bigstar } \mathrm { O } _ { 3 } ( 1 1 \overline { { 2 } } 0 )$ are lower than （204号 $10 \%$ .For the matrix with same content of $\mathrm { C r }$ ,the $\Delta \rho$ between Fe-Cr(112)and $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 } \mathcal { A } 0 \overline { { 1 } } 0 ) _ { \mathrm { C r } }$ is the lowest, but the number of hybid atomic orbitals $\sigma$ satisfied $\Delta \rho { < } 1 0 \%$ is the largest. $\tilde { \Delta \beta ( \sigma ) }$ 方 of Fe-Cr(112)/ $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 } ( 0 0 0 1 )$ and $\mathrm { F e - C r } ( 1 1 2 ) / \mathrm { F e } _ { 2 } \mathrm { O } _ { 3 } ( 1 1 \overline { { 2 } } 0 )$ is decreased (increased） with the ing ofy therefore the interface bonding strength between $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ and matrix will be enhanced, it has_been found that the corrosion resistance of （20 $\mathrm { F e } { - } 2 4 . 3 \% \mathrm { C r }$ is better. The calculation results of variatidn Fe- corrosion resistance with $\mathrm { C r }$ content are in better agreement with Tammann's law.
+
+KEY WORDS EET,corrosion resistance, passivation film, interfacial electron density difference,Tammann's law
+
+不管是常规的奥氏体不锈钢、马氏体不锈钢、铁素体不锈钢、双相不锈钢，还是迅速发展的超纯铁素体不锈钢或者超级不锈钢，均是由Fe-Cr二元合金添加C、N、Ni、Mo、Nb、V等合金元素构成的。人类近百年的不锈钢生产和使用的历史证明，Cr是提高钢铁材料耐腐蚀性能的主要元素，通常不锈钢的设计要求Cr的质量分数大于 $1 1 . 7 \%$ ，即 $\mathrm { C r }$ 的原子分数大于 $12 \%$ 。这是因为按照 Tammann 定律所述[1],Fe-Cr二元合金中Cr原子含量为原子总含量的n/8（ $\scriptstyle { \overbrace { n = 1 } }$ ，2，3，..)时，合金的耐腐蚀性能会发生突变。Tammann 定律是基于大量实验数据提出的[2.3]，国内外针对 $\mathrm { C r }$ 与 Fe-Cr合金耐腐蚀性能关系的文献报道很多， $\mathrm { \Delta X u }$ 等发现，在 $8 0 ~ \mathrm { ^ { \circ } C }$ 和 $0 . 8 \mathrm { M P a }$ 的 $\mathrm { C O } _ { 2 }$ 中，只有当低 $\mathrm { C r }$ 合金钢的Cr含量达 $3 \%$ (质量分数)或更高时，才具有自发的预钝化特性，形成 $\mathrm { C r } ( \mathrm { O H } ) _ { 3 }$ 预钝化膜保护基体。 $\mathrm { \ K i m }$ 等[5的研究表明，FeSiBCr合金的耐蚀性能与腐蚀介质和Cr合金含量密切相关，在 $3 . 5 \% \mathrm { { N a C l } }$ 和 $0 . 5 \mathrm { \ m o l / L }$ （20 $\mathrm { H } _ { 2 } \mathrm { S O }$ 4溶液中，合金的耐蚀性能随着Cr含量的增加而增强，并且当 $\mathrm { C r }$ 含量高于 $6 \%$ (原子分数)时，NaCl溶液中的合金耐蚀性能突然提高，在 ${ \mathrm { H } } _ { 2 } { \mathrm { S O } } _ { 4 }$ 溶液中，则是在Cr含量高于 $8 \%$ (原子分数)时呈现突变。但这些研究还缺乏对耐蚀性能突变的现象进行深入分析，有关Tammann 定律存在的根本原因，至今尚未有合理的理论解释。
+
+研究指出，Fe、Cr 的成分决定了Fe-Cr合金在腐蚀介质中形成的Fe、Cr 的氧化物钝化膜的性质。Alekseev 和Plaskeev[7提出了钝态Fe-Cr合金腐蚀热力学模型，并认为当Cr含量 ${ < } 2 0 \%$ (质量分数)时，合金的钝化效果与钝化膜溶解后暴露出活性中心的微观过程有关，而这一微观过程是由Fe、Cr原子的相互作用决定的。可见，基体中Cr含量和表面钝化膜的结构是影响不锈钢耐蚀性能的主要因素。而基体和钝SA化膜的微观结构又与原子轨道电子状态密切相关 [89 因此，将Fe-Cr合金及其钝化膜的研究深入到电子结构层次，对研究不锈钢耐腐蚀性能的本质具有重的理论和实际意义。
+
+经验电子理论是在能带理论、共价键理论、电子理论的基础上，结合实验发展起来的一种研究电子结构的理论方法，与第一性原理等规电论研究方法不同，基于EET的理论研究具有建模简单、计算量小、运用面广的特点，是研究材料强韧性、磁性、界面结合等性能的重要方法[10-13]。本工作采用 EET麻对 Fe-Cr合金和 $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 、 $\mathrm { F e } _ { 2 } ^ { \prime } \mathbf { \widetilde { \Gamma } } \mathbf { \widetilde { \Gamma } } _ { 3 }$ 钝化膜进行价电子结构分析，半定量地阐述了Fe-Cr合金共价键分布及稳定性的影响，结合Fe、Cr原子所处价态和钝化膜与基体间的界面电子密度差分析了Cr含量对 Fe-Cr送依合金耐腐蚀性能的影响。本工作从价电子结构层次出发，探索了F合金及其钝化膜的电子结构与Tammann定律的联系，为Fe-Cr合金的腐蚀机制的研究积累数据和法。
+
+1晶体结构模型及计算方法
+
+# 1.1Fe-Cr合金的结构模型和计算方法
+
+金质
+
+为了避免引起晶体脆性，不锈钢中往往不会添加大量Cr，因此本工作只对Cr固溶量为 $0 { \sim } 3 0 \%$ (原子分数)的Fe-Cr 合金进行讨论。根据Fe-Cr 合金相图可知，该成分范围的合金在室温下仍保持bcc 晶体结构[4]。合金中Fe、Cr 原子的电负性和原子半径相似，Cr 可以任意取代晶格中的Fe，根据平均原子模型[15]，引入一设想原子 $M$ 作为Fe、 $\mathrm { C r }$ 组成的计权平均原子，这样 Fe-Cr 合金就可看做是由 $M$ 原子形成的晶体，图1为 $M$ 的晶胞结构， $M$ 原子的特征参数就是Fe、 $\mathrm { C r }$ 原子特征参数的计权平均值：
+
+$$
+R _ { M } \left( l \right) = ( 1 - x ) R _ { F e } \left( l \right) + x R _ { C r } \left( l \right)
+$$
+
+$$
+n _ { c M } = ( 1 - x ) n _ { { } _ { c F e } } + x n _ { { } _ { c C r } }
+$$
+
+式中， $x$ 是 $\mathrm { C r }$ 原子的原子分数； $R _ { M } ( l )$ 、 $R _ { \mathrm { F e } } ( l )$ 和 $R _ { \mathrm { C r } } ( l )$ 分别指 $M$ 、Fe和 $\mathrm { c r }$ 原子的单键半距； $n _ { \mathrm { c } M } .$ ， $n _ { \mathrm { c F e } }$ 和 $n _ { \mathrm { c C r } }$ 分别指 $M$ 、Fe和 $\mathrm { C r }$ 的共价电子数。由于固溶 $\mathrm { C r }$ 不会引起太大的晶格畸变， $M$ 晶胞的晶格常数近似等于 $\alpha$ -Fe的晶格常数 $a _ { 0 } { = } 0 . 2 8 6 6 4 \ \mathrm { n m }$ 。此晶胞中有2种不可忽略的共价键A、B，它们的共价键距和等效共价键数目分别为： $D _ { n _ { A } } ^ { M - M } = \sqrt { 3 } a _ { 0 } / 2$ ， $I _ { \mathrm { A } } { = } 8$ ； $D _ { n _ { B } } ^ { M - M } = a _ { 0 } , I _ { \mathrm { B } } = 6 _ { \circ }$ （20
+
+将 $M$ 原子所有杂化态对应的 $R _ { M } ( l )$ 、 $n _ { \mathrm { { c } } M \setminus }$ （20 $I _ { a }$ 和 $D _ { n _ { a } } ^ { M - M }$ 代入式(3)中的 $\boldsymbol { r } _ { a }$ 方程和 $n _ { \mathrm { A } }$ 方程，联立求解，得到各条键上的共价电子数 $n _ { a }$ 0 $\mathit { \Pi } _ { \left. a \right. }$ 为键序标号，可表示 A键或B键)。将所解得的 $n _ { \mathrm { A } }$ 代入键距公式可得出理论键距 $\overline { { D } } _ { n _ { a } } ^ { M - M }$ 。对比实验键距和理论键距，统计出符合键距差判据的 $M$ 原子的杂化原子轨道数 $\sigma _ { \mathrm { n } }$ 文献[10]中也叫做原子状态组数)，并计算得到各键的键能 $E _ { \mathrm { a } }$ ，整个计算过程所涉及的方程均列于式(3):
+
+$$
+\begin{array} { r l } & { \{ \overline { { D } } _ { n _ { a } } ^ { M - M } = R _ { M } ( l ) + R _ { M } ( l ) - \beta \mathbb { 1 } _ { \Xi } n _ { a }  } \\ & { \{ \mathrm { l g } _ { r _ { a } } = \mathrm { l g } \frac { n _ { a } } { n _ { d } } = \mathrm { L } ( D _ { n _ { a } } ^ { M - M } - D _ { n _ { c } } ^ { M - M } ) { l } / \beta  } \\ & {  \{ n _ { A } = \mathrm {  { T } } n _ { c k l } / \mathrm {  { L } } n _ { a } \mathrm {  { r } } _ { a }  } \\ & {  | \Delta D _ { n _ { a } } = | \overline { { D } } _ { n _ { a } } ^ { M - M } - D _ { n _ { a } } ^ { M - M } | < 0 . 0 0 5 n m   } \\ & {   [ E _ { a } - b j \overline { { D } } _ { n _ { a } } ^ { M } ]  } \end{array}
+$$
+
+式中， $\beta$ 取 0.006; $b$ 为电子对核电荷的屏蔽作用系数，由 Fe、 $\mathrm { C r }$ 原子的屏蔽作用系数计权平均得到; $f$ （204号?  
+为 $M$ 原子中杂化轨道的成键能力，是Fe、 $\mathcal { C } _ { \mathrm { r } }$ 原子杂化轨道成键能力的计权平均值。每种杂化状态的 M  
+原子都有确定的 Fe、 $\mathrm { C r }$ 特征参数与之对依据最小键距差选定 $M$ 原子状态后，将 $M$ 原子的特征参V  
+数与Fe、Cr杂化表对照，就可判断出Fe、Cr杂化状态及价电子分布，进而分析合金的性能。
+
+![](images/97cc591a445a90e84d87c17c2929d7eecbcbdc99814f627f1e4dd20e593a20ac.jpg)  
+图 $1 M$ 的晶体结构图(M为Fe、Cr原子组成的平均原子；A、B为不可忽略的共价键)
+
+Fig.1 Unit cell structure of $M$ (M is considered to be an average atom of Fe and Cr,
+
+A,B are the non-negligible covalent bonds)
+
+# 1.2晶面模型和计算方法
+
+合金表面形成的致密稳定钝化膜是良好耐蚀性能的保证。X射线光电子能谱测量数据证明，处于腐蚀介质中的Fe-Cr 合金，表面大多存在 $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 和 $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ 钝化膜[16]。 $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 、 $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ 同属于 $\mathbf { D } 5 _ { 1 }$ 型结构，是六方紧密堆积晶体， $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 的晶格常数为 $a _ { 0 } { = } 0 . 4 9 5 0 9 ~ \mathrm { n m }$ ， $c { = } 1 . 3 6 0 6 ~ \mathrm { n m }$ ， $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ 的晶格常数为 $a _ { 0 } { = } 0 . 5 0 2 5 ~ \mathrm { n m }$ ，$c { = } 1 . 3 7 7 4 \ \mathrm { n m }$ 。已有研究[17]表明， $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 的最强键共价电子数 $n _ { \mathrm { A } }$ 小于 $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ ，根据 EET 理论，最强键共价电子数越少的新相结构越容易形成，因此腐蚀介质中的O原子吸附到Fe-Cr合金表面后，更易与 $\mathbf { C r }$ 作用形成 $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 钝化膜。钝化膜形成和生长期间，基体的Fe、Cr原子不会立刻完全转化到钝化膜中，基体表面就形成了具有特殊晶体学位向关系的 $\mathrm { F e { - } C r / C r _ { 2 } O _ { 3 } }$ 或 $\mathrm { F e - C r / F e _ { 2 } O _ { 3 } }$ 界面。这些界面上的电子密度 $\rho { : }$ 号相对电子密度差 $\Delta \rho$ ，和满足界面连续的杂化原子轨道数 $\sigma$ 是衡量界面结合强度的标准。Fe-Cr 合金与$\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 、 $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ 低指数晶面间的界面电子密度 $\rho$ 是在已知共价键的共价电子数 $n _ { a }$ 和等效价电子数 $I _ { a }$ ，以及该晶面的面积 $S$ 的情况下，根据下式推算得到的：
+
+$$
+\rho = \frac { \Sigma n _ { a } \cdot I _ { a } } { S }
+$$
+
+由图1中Fe-Cr合金(110)、(100)、(112)面的原子排列情况，可以判断出各晶面的价键分布，其中(112)面经过延伸后，才能观察到A键在该面上的分布[18]。表1中列出了 $F e { - } 5 \% C \mathrm { r }$ (原子分数)合金各界面的界面电子密度的计算结果以作参考。图2所示为 $X _ { 2 } \mathrm { O } _ { 3 }$ （ $\scriptstyle \chi = \mathbf { C r }$ 、Fe)(0001)、(1010)o、 $( 1 0 \overline { { 1 } } 0 ) _ { X } ,$ (1120)面的原子排列情况[19]。据此可求得 $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 、Fe ${ } _ { 2 } \mathbf { O } _ { 3 }$ 各界的界面电子密度，结果汇于表2。将Fe-Cr合金与钝化膜 $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 、 $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ 的间的界面电子密度代入下式，便可运算得到各界面间的 $\Delta \rho$
+
+$$
+\Delta \rho = \frac { \left| \underset { \rho _ { ( h k l ) } } { \sum } - \rho _ { ( u \nu w ) } \right| } { ( \rho _ { ( h k l ) } + \rho _ { ( u \nu w ) } ) / 2 }
+$$
+
+式中， $\rho ( h k l )$ 和 $\rho _ { ( u \nu w ) }$ 分别表示Fe-Cr 荅金(110)(100)、(112)面和 $X _ { 2 } \mathbf { O } _ { 3 }$ $\scriptstyle \chi = \mathbf { C r }$ 、Fe) (0001)、(101 0)0、(101 0)x
+
+$( 1 1 \overline { { 2 } } 0 )$ 面的晶面电子密度
+
+参
+
+# 表 $1 \ : \mathrm { F e } { - } 5 \% \mathrm { C r }$ 的界面电子密度
+
+茶
+
+Tabel1 Interfacial electron density of $\mathrm { F e - } 5 \% \mathrm { C r }$ (atomic fractioh) on the lifferentcrystalfaces
+
+<html><body><table><tr><td>Crystal face</td><td>Bond</td><td>Ia</td><td>na</td><td>S/cm²</td><td>p/nm²</td></tr><tr><td>(110)</td><td>M-M</td><td>8</td><td>0.3875</td><td>0.1162</td><td>14.8559</td></tr><tr><td rowspan="2">(100)</td><td>M-M</td><td>2</td><td>Y 0882</td><td></td><td></td></tr><tr><td>M-M</td><td>4</td><td>0.0882</td><td>0.0822</td><td>4.2942</td></tr><tr><td>(112)</td><td>M-M</td><td>2-7</td><td>0.3875</td><td>0.0503</td><td>2.2004</td></tr></table></body></html>
+
+Note: $I _ { a }$ —-number of equivalent bond; $n _ { \mathrm { a } } .$ —-number of covalent electron pair； S—area; $\rho$ —interface electron density
+
+![](images/a8eed0a75803fad72dd616c006aac70e0aab179ea18279da5c983b1d39020997.jpg)  
+图 $2 X _ { 2 } \mathrm { O } _ { 3 } ( X = \bigotimes _ { \mathsf { C P } } ^ { \mathsf { A } } \mathsf { F e } )$ 晶面原子分布  
+表 $2 \mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ ， $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ 的界面电子密度
+
+Fig.2Atomic arrangement of $X _ { 2 } \mathrm { O } _ { 3 }$ （ $X { \equiv } \mathbf { C } \mathbf { r } .$ ，Fe) in different crystallographic faces
+
+海
+
+<html><body><table><tr><td rowspan="2">Crystal face</td><td rowspan="2">Bond</td><td rowspan="2">Ia</td><td colspan="3">na</td><td colspan="2">S/ cm²</td><td colspan="2">p/nm²</td></tr><tr><td>Cr2O3</td><td>Fe2O3</td><td>Formular</td><td>Ci</td><td></td><td>Cr2O3</td><td>Fe2O3</td></tr><tr><td>(0001)</td><td>01-03</td><td>6</td><td>0.0261</td><td>0.0340</td><td>√ 2 2</td><td>0.2123</td><td>0.2187</td><td>1.0930</td><td>1.2756</td></tr><tr><td></td><td>01-02</td><td>12</td><td>0.0063</td><td>0.0102</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(101 0)cr</td><td>01-02</td><td>6</td><td>0.0063</td><td>0.0102</td><td></td><td>0.6736</td><td>0.6921</td><td>0.0560</td><td>0.0884</td></tr><tr><td>(1010)x</td><td>X1-X2</td><td>2</td><td>0.4076</td><td>0.2186</td><td>aoc</td><td>0.6736</td><td>0.6921</td><td>1.9754</td><td>1.0957</td></tr><tr><td></td><td>X1-X3</td><td>2</td><td>0.2327</td><td>0.1456</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>X1-X4</td><td>2</td><td>0.0201</td><td>0.0111</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(1120)</td><td>X1-X5</td><td>2</td><td>0.0049</td><td>0.0039</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>X-02</td><td>4</td><td>0.9528</td><td>1.1290</td><td>3a0c</td><td>1.1667</td><td>1.1988</td><td>6.2157</td><td>6.2597</td></tr><tr><td></td><td>X-01</td><td>4</td><td>0.8024</td><td>0.6689</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>X-03</td><td>4</td><td>0.0032</td><td>0.0033</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>01-03</td><td>6</td><td>0.0261</td><td>0.0340</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>01-04</td><td>6</td><td>0.0103</td><td>0.0160</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+Note: $a _ { 0 }$ ,c-lattice constants
+
+# 2分析讨论
+
+# 2.1合金的稳定性
+
+按照 BLD法最终筛选出的Fe-Cr合金的一些理想价电子结构如表3所示。 $\sigma _ { \mathrm { n } }$ 是满足键距差 $\Delta D _ { n _ { a } } { < } 0 . 0 0 5$ nm 的杂化原子轨道数，即合金中可能存在的杂化原子轨道数。合金的 $\sigma _ { \mathrm { n } }$ 越大，意味着各原子能在更大范围内调整变动状态以适应外界条件的变化，因而合金更稳定[20]，在同种腐蚀环境下，越稳定的合金越不易被腐蚀。表3的数据表明，加入 $\mathrm { C r }$ 后， $\alpha$ Fe的 $\sigma _ { \mathrm { n } }$ 大大提高。混合 $M$ 晶胞的 $\sigma _ { \mathrm { n } }$ 是单质Fe的18\~26倍。如图3所示，随着 $\mathrm { C r }$ 含量的增加， $\sigma _ { \mathrm { n } }$ 先增再减，当 $\mathrm { C r }$ 含量为 $1 8 \%$ (原子分数)时达到最低值58，当Cr含量超过 $1 8 \%$ 后， $\sigma _ { \mathrm { n } }$ 又开始增加。由此可以判断，Fe中加入Cr，热力学稳定性增强，但随着Cr含量的增加，基体稳定性的变化是无规律的。
+
+表3Fe-Cr合金的价电子结构XTabel 3 Vanlance eleotron structures of Fe-Cr alloy  
+
+<html><body><table><tr><td rowspan="2">Atomic fraction of Cr / %</td><td colspan="3">Aic sta</td><td rowspan="2">On</td><td rowspan="2">nA</td><td rowspan="2">EA kJ-mol-1</td></tr><tr><td>Hybridization level of Fe</td><td>? ncFel7</td><td>Hybridization ncCr level of Cr</td></tr><tr><td>0</td><td></td><td>3.5955</td><td>-</td><td></td><td>303835</td><td>59.8761</td></tr><tr><td>1</td><td>8</td><td>3.5955</td><td>1 4</td><td>54</td><td>0.3840</td><td>60.0479</td></tr><tr><td>2</td><td>8</td><td>3.5955</td><td>1 4</td><td>54 4次</td><td>0.3844 布</td><td>60.2197</td></tr><tr><td>3</td><td>8</td><td>3.5955</td><td>1</td><td>海54</td><td>0.3848</td><td>60.3926</td></tr><tr><td>4</td><td>8</td><td>3.5955</td><td>3</td><td>.9515 54</td><td>0.3851</td><td>60.6105</td></tr><tr><td>5</td><td>8</td><td>3.5955</td><td></td><td>8779 54</td><td>0.3851</td><td>60.7721</td></tr><tr><td>6</td><td>8</td><td>3.5955</td><td>5</td><td>3.8779 54</td><td>0.3854</td><td>60.8624</td></tr><tr><td>7</td><td>8</td><td>3.5955</td><td>5</td><td>3.8779 54</td><td>0.3857</td><td>61.0289</td></tr><tr><td>8</td><td>7</td><td>3.5560</td><td>1</td><td>4 61</td><td>0.3831</td><td>60.1916</td></tr><tr><td>9</td><td>7</td><td>3.5560</td><td>1</td><td>4 65</td><td>0.3836</td><td>60.3758</td></tr><tr><td>10</td><td>7</td><td>3.5560</td><td>2</td><td>3.9851 65</td><td>0.3839</td><td>60.6539</td></tr><tr><td>11</td><td>7</td><td>3.5560</td><td>3</td><td>3.9515 67</td><td>0.3840</td><td>60.8699</td></tr><tr><td>12</td><td>7</td><td>3.5560</td><td>4</td><td>3.9360 67</td><td>0.3842</td><td>61.0611</td></tr><tr><td>12.50</td><td>7</td><td>3.5560</td><td>4</td><td>3.9360 68</td><td>0.3844</td><td>61.1598</td></tr><tr><td>12.52</td><td>9</td><td>3.7743</td><td>13</td><td>3.1290 68</td><td>0.3940</td><td>65.3692</td></tr><tr><td>13</td><td>9</td><td>3.7743</td><td>13</td><td>3.1290 68</td><td>0.3937</td><td>65.3777</td></tr></table></body></html>
+
+<html><body><table><tr><td>14</td><td>7</td><td>3.5560</td><td>5</td><td>3.8779</td><td>65</td><td>0.3841</td><td>61.3981</td></tr><tr><td>15</td><td>7</td><td>3.5560</td><td>5</td><td>3.8779</td><td>64</td><td>0.3845</td><td>61.6811</td></tr><tr><td>16</td><td>7</td><td>3.5560</td><td>5</td><td>3.8779</td><td>64</td><td>0.3848</td><td>61.7875</td></tr><tr><td>17</td><td>9</td><td>3.7743</td><td>11</td><td>3.2932</td><td>60</td><td>0.3939</td><td>65.9435</td></tr><tr><td>18</td><td>9</td><td>3.7743</td><td>11</td><td>3.2932</td><td>58</td><td>0.3934</td><td>65.9905</td></tr><tr><td>19</td><td>9</td><td>3.7743</td><td>10</td><td>3.3538</td><td>61</td><td>0.3941</td><td>66.2459</td></tr><tr><td>20</td><td>9</td><td>3.7743</td><td>10</td><td>3.3538</td><td>63</td><td>0.3937</td><td>66.3043</td></tr><tr><td>21</td><td>9</td><td>3.7743</td><td>10</td><td>3.3538</td><td>64</td><td>0.3932</td><td>66.3630</td></tr><tr><td>22</td><td>9</td><td>3.7743</td><td>9</td><td>3.3972</td><td>65</td><td>0.3938</td><td>66.5806</td></tr><tr><td>23</td><td>9</td><td>3.7743</td><td>9</td><td>3.3972</td><td>69</td><td>0.3934</td><td>66.5781</td></tr><tr><td>24</td><td>9</td><td>377</td><td></td><td>3.3972</td><td>71</td><td>0.3930</td><td>66.7128</td></tr><tr><td>24.3</td><td>10</td><td>3.9723 海</td><td>13</td><td>3.1290</td><td>71</td><td>0.4019</td><td>70.2113</td></tr><tr><td>25</td><td>10</td><td>3.972B</td><td>13</td><td>3.1290</td><td>73</td><td>0.4013</td><td>70.1827</td></tr><tr><td>26</td><td>盛</td><td>3.9723</td><td>12</td><td>3.1635</td><td>72</td><td>0.4013</td><td>70.3102</td></tr><tr><td>27</td><td>70</td><td>3.9723</td><td>12</td><td>3.1635</td><td>70</td><td>0.4004</td><td>70.2761</td></tr><tr><td>28</td><td>8</td><td>3.5955</td><td>6</td><td>3.680</td><td>75 布</td><td>0.3861</td><td>64.0870</td></tr><tr><td>29</td><td>8</td><td>3.5955</td><td>6</td><td>3.6807</td><td>76</td><td>0.3862</td><td>64.2539</td></tr><tr><td>30</td><td>8</td><td>3.5955</td><td>6</td><td>3.680078</td><td></td><td>0.3863</td><td>64.6460</td></tr></table></body></html>
+
+Note: $n _ { \mathrm { c F e } }$ -number of covalent electrons of Fe; $n _ { \mathrm { c C r } }$ -number of covalent electrons of Cr; $\sigma _ { \mathrm { n } } .$ -number of hybrid atomic orbitals satisfied $\Delta D _ { n _ { a } }$ $< 0 . 0 5 \ \mathrm { n m }$ $\mathrm { \mathtt { n _ { A } } }$ —number f conval Delectrons in the strongest bond; $E _ { \mathrm { A } } .$ —energy of the strongest bond
+
+![](images/2a276b35298284a628d419b3d0f8cd7429b90e670d797e69675f3d0e53e9ad99.jpg)  
+图3不同Fe-Cr金中杂化原子轨道数 $\sigma _ { \mathrm { n } }$ 和最强键键能 $E _ { \mathrm { A } }$ （204号Fig.3 Number of hybrid atomic orbital $\sigma _ { \mathrm { n } }$ and $E _ { \mathrm { { A } } }$ of different Fe-Cr alloys
+
+Fe-Cr 合金的腐蚀行为还与主键络的共价键能有关。主干键络是维持原子三维周期排列的重要共欧价键，键能越高，腐蚀介质拆散主千键络的可能性就越小，基体被腐蚀破坏概率就越低。M混合晶胞中，体心M原子与顶角 $M$ 原子之间的A键最强，且有8个等同键，它们是维持合金结构的主干键络。浅发纯 Fe 中，体心Fe原子与顶角8个Fe原子间的主干键络键能不到 $6 0 ^ { \circ } \widetilde { \mathbf { k } } \widetilde { \mathbf { g } } _ { \mathrm { m o l } }$ ，固溶Cr的混合晶胞，稳定性比纯Fe好，键能最高可达 $7 0 . 3 1 0 2 ~ \mathrm { k J / m o l }$ 。Cr可以增强单质Fe的强键键络，使基体不易被破坏。不1过在Cr含量为 $0 { \sim } 3 0 \%$ 的范围内，主干键络的键能并非随着Cr含量的增加而增加，而是如图3所示的关系。 金家
+
+由上述分析可知，纯Fe中加入合金元素Cr后，稳定性得到提升，但增大Cr的添加量，合金稳定性不会发生剧烈变化。这是由于 $\mathrm { C r }$ 与 $\alpha$ -Fe 形成无限固溶体，Cr的固溶量增加并不会产生强烈的晶格畸变，固溶强化效果也不明显，因此合金自身的热力学稳定性变化并不是导致合金耐蚀性能的阶梯式突变的直接原因。
+
+# $2 . 2 \mathrm { C r }$ 对钝化膜形成的影响
+
+$M$ 原子是Fe、Cr原子按照一定比例构成的， $M$ 原子的杂化状态实际上就是Fe、Cr原子状态的混合态，能反映出Fe、Cr原子间的成键规律。按照表3结果， $\mathrm { C r }$ 固溶量在 $0 { \sim } 3 0 \%$ 间时，甲种杂化的Fe 原子的杂阶在7\~10 阶变化，共价电子数 $n _ { \mathrm { c F e } }$ 的范围为 $3 . 5 5 6 0 { \sim } 3 . 9 7 2 3$ ，甲种甲次杂化的Cr 杂阶在1\~13 之间变化，共价电子数 $n _ { \mathrm { c C r } }$ 的变化范围为3.1290\~4。Fe、Cr原子的共价电子数的变化范围虽然相当，但随着Cr 原子添加量的变化，两原子的共价电子数并未向着相互靠近的趋势发展。图4中，Cr含量为 $1 2 . 5 2 \%$ 时，合金中的Fe原子杂阶为9，共价电子数为3.7743， $\mathrm { C r }$ 原子杂阶为13阶，共价电子数只有3.1290。Cr含量为 $2 4 . 3 \%$ 时，Fe原子杂阶升高到10，共价电子数 $n _ { \mathrm { c F e } }$ 升高到3.9723，Cr原子杂阶仍然位于13阶，可见，在 $\mathrm { F e - } 1 2 . 5 2 \% \mathrm { C r }$ 和 $\mathrm { F e } { - } 2 4 . 3 \% \mathrm { C r }$ 合金中,Fe、Cr间共价电子数的差异大，分别达到了0.6453和0.8433,而二元合金中，只有相邻原子间的共价电子数目大且相近，才能形成更多的共价电子数对，使基体维持在平衡态[21]。因此， $\mathbf { F e - } 1 2 . 5 2 \% \mathbf { C r }$ 和 $\mathrm { F e } { - } 2 4 . 3 \% \mathrm { C r }$ 合金中，共价电子数多的Fe 原子倾向于与同类原子结合，形成更稳定的键。大量的Fe-Fe 偏聚，将Cr原子排斥在外。
+
+![](images/0ea9e3bbab3a3f8439ee784b0c53a7279ad8e10f4d21d8cc124cc1bd4b4b0f47.jpg)  
+图4不同Fe-Cr合金的Fe、Cr原子杂阶  
+Fig.4Hybrid levels ofFe (a) and Cr (b) in differentFe-Cr alloys
+
+并且，Cr含量为 $12 . 5 2 \%$ 和 $2 4 . 3 \%$ 时，M晶胞的单键半距较大，遭到排挤的 $\mathrm { C r }$ 原子受到键距增长和共价电子对数减少的双重影响，稳定性不如Fe原子强，容易偏离平衡位置，呈现出向外扩散的趋势。当合金处于腐蚀边缘时，这种"孤立"的、结合薄弱的Cr 很容易遭受攻击。如果腐蚀溶液温度高，将引起Cr 原子在平衡位置周围振动，温度过高甚至会导致Cr原子脱离平衡位置，与吸附到表面的O、OH作用[22]。因此，当合金处于氧化性介质中时，Cr 也更易与向基体内部扩散的O结合形成致密的 $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 覆盖在表面，阻碍外界环境进一步破坏基体，这既减慢了Fe向外扩散的速度，又防止了Fe 原子的溶解，从而起到降低合金腐蚀速率的效果。研究[23]表明这种选择性溶解确实存在，Kasparova等[24]的研究更是指出，在 Fe-Cr 合金中增加Cr原子浓度，不仅会影响电子密度的再分配，还会改变合金的电子结构，从而导致钝化膜形成时，Fe、Cr 原子发生选择性溶解。由此可见，合金的耐蚀性能主要依赖于Fe-Cr合金的表面状态。
+
+$2 . 3 \mathrm { C r }$ 对钝化膜结合力的影响
+
+将表1中Fe-Cr 的界面电子密度和表2中 $X _ { 2 } \textcircled { \times } \textcircled { \times } \textcircled { \times } \textcircled { \times } \textcircled { \times } \textcircled { \times } \textcircled { \times } \textcircled { \times } \textcircled { \times } \textcircled { \times } \textcircled { \times } \textcircled { \times } \textcircled { \times } \textcircled { \times }$ 界面电子密度代入式(5)计算后发现，在一级近似条件下，除 Fe-Cr(112)面与 $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 } ( 0 0 0 1 )$ 、 $( 1 0 \overline { { 1 } } 0 ) _ { \mathrm { C r } }$ ， $\mathrm { F } _ { \pm } \mathrm { O } _ { 3 }$ $( 1 1 \overline { { 2 } } 0 )$ 面外，其它界面的 $\Delta \rho$ 均大于 $10 \%$ 。也就7 W 方是说，当基体的(112)面暴露在腐蚀环境中时，能形成连续稳定的 $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 和 $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ 膜，阻碍外界腐蚀离子的侵入。计算表明， $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 最强健和次强健的共价电子数相差不大，在横向和纵向上可形成强键链，在晶体内部也可链接成稳固的三维网露，原子间结合紧密。因此，与最强健和次强健相差大的 $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ 相比，$\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 的隔离保护作用更好、你
+
+表4所示为 $\mathrm { F e - C r ( 1 1 2 ) } \overline { { 7 } } \mathrm { C r } _ { 2 } \mathrm { O } _ { 3 } ( 0 0 0 1$ ）、 $\mathrm { F e - C r ( 1 1 2 ) / C r _ { 2 } O _ { 3 } ( 1 0 \overline { { { 1 } } } 0 ) _ { C r } }$ ， $\mathrm { F e - C r } ( 1 \mathfrak { R } _ { \mathfrak { L } } ^ { 2 } ) \mathfrak { A } _ { \mathbf { F } \mathbf { e } _ { 2 } \mathbf { O } _ { 3 } ( 1 1 \overline { { 2 } } 0 ) }$ 的界面电子密度差。比较各界面的 $\Delta \rho$ 和满足 $\Delta \rho { < } 1 0 \%$ 的杂化原子轨道数 $\sigma$ 可以发现，同等 $\mathrm { C r }$ 含量的基体与W（204号 $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 } ( 0 0 0 1 )$ 、 $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 } ( 1 0 \overline { { { 1 } } } 0 ) _ { \mathrm { C r } }$ ， $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 } ( 1 1 \overline { { 2 } } 0 )$ 的3个界面中， $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 } ( 1 0 \overline { { { 1 } } } \overline { { { 0 } } } \overline { { { y } } }$ 的 $\Delta \rho$ 最小， $\sigma$ 最大， $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 } ( 1 1 \overline { { 2 } } 0 )$ （20次之， $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 } ( 0 0 0 1 )$ 最弱。基体与 $( 1 0 \overline { { 1 } } 0 ) _ { \mathrm { C r } }$ 界面处的电子云更容易重叠设有大的界面应力，该界面的连节续性最好，界面也最稳定。高 $\mathrm { C r }$ 含量的 Fe-Cr 基体中， $\mathrm { F e ^ { - } C r ( 1 1 2 ) / C r _ { 2 } O _ { 3 } ( 1 0 \overline { { { 1 } } } 0 ) _ { C r } }$ 的 $\Delta \rho$ 和 $\sigma$ 甚至比（204号 $\mathrm { F e - C r } ( 1 1 2 ) / \mathrm { F e } _ { 2 } \mathrm { O } _ { 3 } ( 1 1 \overline { { 2 } } 0 )$ 大2个数量级。这可能是造成金表 ${ } _ { \mathrm { i } _ { 2 } \mathrm { O } _ { 3 } }$ 比 $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 钝化膜更容易溶解和剥落的实验现象[25]的原因之一。
+
+表4Fe-Cr合金与 $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ ， $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ 间的异相界面电子密度差 $\Delta \rho$
+
+Table 4 Interfacial electron density differences between $\scriptstyle \mathrm { F e - C r }$ alloy and $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$   
+
+<html><body><table><tr><td rowspan="2">Atomic fraction of Cr / %</td><td colspan="2">Fe-Cr(112)/Cr2O3(0001)</td><td colspan="2">Fe-Cr(112)/Cr2O3(10 1 0)cr</td><td colspan="2">Fe-Cr(112)/Fe2O3(112 0)</td></tr><tr><td>△pmin</td><td></td><td>△pmin</td><td></td><td>△pmin</td><td></td></tr><tr><td>0</td><td>0.1054</td><td></td><td>0.0202</td><td>1387</td><td>0.1003</td><td></td></tr><tr><td>5</td><td>0.0976</td><td>21</td><td>0.0186</td><td>1026</td><td>0.0979</td><td>51</td></tr><tr><td>10</td><td>0.0548</td><td>51</td><td>0.0124</td><td>1011</td><td>0.0704</td><td>270</td></tr><tr><td>15</td><td>0.0613</td><td>51</td><td>0.0020</td><td>1062</td><td>0.0718</td><td>38</td></tr><tr><td>2025</td><td>0.0483</td><td>422</td><td></td><td>11097</td><td>0.0503</td><td>303</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 海方
+
+人们普遍认为，钝化膜的性能和材料的耐蚀性能与钝化膜中是否富Cr有很大关系，因而鲜有针对基体含Cr量与钝化膜的研究报道。 $\mathrm { C r }$ 成膜，因此，基体中含 $\mathrm { C r }$ 量对钝化膜的影响也不可忽略[26]。本工作研究发现，不同Cr含量的Fe-Cr 合金表面形成等量钝化膜钝化膜对基体的保护作用是存在差异的。随基体含Cr 量的增加，X$\mathrm { F e { - } C r ( 1 1 2 ) / C r _ { 2 } O _ { 3 } ( 0 0 0 1 ) }$ 和 $\mathrm { F e - C r } ( 1 1 2 ) / \mathrm { F e } _ { 2 } \mathrm { O } _ { 3 } ( 1 1 ~ \overline { { 2 } } ~ 0 )$ 基本呈现 $\Delta \rho$ 下降，升的趋势，特别是$\mathrm { F e - C r } ( 1 1 2 ) / \mathrm { F e } _ { 2 } \mathrm { O } _ { 3 } ( 1 1 \overline { { 2 } } 0 )$ 界面， $\sigma$ 发生了数量级变化， $\mathrm { F e - C r ( 1 1 2 ) / C r _ { 2 } Q _ { 2 } } \rtimes \mathrm { ~ g ~ } \overline { { 1 } } ~ 0 ) \pounds \gtrsim$ 面的 $\Delta \rho$ 呈下降趋势， $\sigma$ （204始终维持在较高水平，可见， $\mathrm { F e - C r ( 1 1 2 ) / C r _ { 2 } O _ { 3 } ( 1 0 \overline { { { 1 } } } 0 ) _ { C r } }$ 界面结合仍然是三者中最为牢固的，并且，高Cr含量基体表面 $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 、 $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ 钝化膜的结合力更强。那么，实察到r基体的钝化膜更容易富Cr的现象就不难理解了，高 $\mathrm { C r }$ 含量基体的界面更为连续和稳定，为
+
+$2 . 4 \mathrm { C r }$ 对Fe-Cr合金耐蚀性能的影响
+
+当 $\mathrm { C r }$ 含量 $< 1 2 . 5 2 \%$ ，受到 $\mathrm { C r }$ 含量少和Cr不易扩散的限制，基体表面主要形成 $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ 钝化膜。这种钝化膜与基体的结合力比 $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 差，结构也不及 $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 紧密，难以阻碍O向内扩散，基体将被持续破坏，Cr含量达 $12 . 5 2 \%$ 时， $\mathrm { C r }$ 偏离平衡位置的趋势更大，与O结合的主动性强，在腐蚀介质的作用下，表面主要溶解 $\mathrm { C r }$ ，形成 $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 强烈阻碍腐蚀的继续进行，合金的腐蚀速率减小，耐蚀性能发生跃迁。从价电子结构出发得到的耐腐蚀性能第一次突变点，与 Tammann 定律完全吻合。
+
+如图4所示，除Cr含量为 $12 . 5 2 \%$ 外，当 $\mathrm { C r }$ 含量为 $2 4 . 3 \%$ 时，Fe-Cr 合金中 $\mathrm { C r }$ 原子杂阶也会上升至13 阶，表面遭受腐蚀后，高阶Cr易偏离平衡位置与O原子结合形成钝化膜。高Cr 含量既有利于合金表面形成致密完整的 $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 保护膜，也能保障基体与 $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 、 $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ 间的稳固结合，故 $\mathrm { F e } { - } 2 4 . 3 \%$ 合金的耐腐蚀性能跃迁到比 $\mathrm { F e - } 1 2 . 5 2 \% \mathrm { C r }$ 更高的水平。不过，Tammann 定律描述的第二次突变是在Cr 含量为 $2 5 \%$ 时，这与本工作结果不同，造成这种差异的原因尚不清楚，还需要更多实验和理论数据的对比分析。
+
+# 3结论
+
+(1）金属Fe固溶Cr后，杂化原子轨道数 $\sigma _ { \mathrm { n } }$ 增加了18-26倍，最强键键能 $E _ { \mathrm { A } }$ 也增强，Fe-Cr合金表现出比纯Fe更高的热力学稳定性。随着 $\mathrm { C r }$ 固溶量的增多，合金稳定性的变化不大且无规律，耐蚀性能的阶梯式突变与合金自身的稳定性无关。
+
+(2）当Cr含量在 $1 2 . 5 2 \%$ 和 $2 4 . 3 \%$ 附近时，Fe、 $\mathrm { C r }$ 间共价电子数的差异变大，使得Fe 原子倾向于与同类原子结合，形成更稳定的键。大量的Fe-Fe 偏聚，将 $\mathrm { C r }$ 原子排斥开。遭到排挤的 $\mathrm { C r }$ 原子在混合晶胞单键半距增大和共价电子对数减少的影响下，稳定性减弱。当合金处于腐蚀介质中时， $\mathrm { C r }$ 原子容易偏离平衡位置，与介质中的O原子结合形成 $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 。
+
+(3) $\mathrm { F e { - } C r ( 1 1 2 ) / C r _ { 2 } O _ { 3 } ( 0 0 0 1 }$ ),Fe-Cr(112)/Cr2O3(10)cr $\mathrm { F e - C r } ( 1 1 2 ) / \mathrm { F e } _ { 2 } \mathrm { O } _ { 3 } ( 1 1 \overline { { 2 } } \ : 0 )$ 的电子密度差 $\Delta \rho$ 远远小于一级近似下的 $10 \%$ ，其中 $\mathrm { F e - C r ( 1 1 2 ) } / \mathrm { C r } _ { 2 } \mathrm { O } _ { 3 } ( 1 0 \overline { { \mathcal { V } } } \underline { { 0 } } ) _ { \mathrm { C r } }$ 的 $\Delta \rho$ 最小，满足 $\Delta \rho { < } 1 0 \%$ 的杂化原子轨道数 $\sigma$ 最$\mathrm { C r }$ ${ \langle | \bigotimes _ { \ell \mathrm { e } ^ { 2 } \mathrm { C r } ( 1 1 2 ) } \bigotimes _ { / \mathrm { C r } _ { 2 } \mathrm { O } _ { 3 } ( 0 0 0 1 ) } ^ { \prime } }$ $\mathrm { F e - C r } ( 1 1 2 ) / \mathrm { F e } _ { 2 } \mathrm { O } _ { 3 } ( 1 1 \overline { { 2 } } 0 )$ $\Delta \rho$ $\sigma$ 更大。可见，钝化膜 $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ ， $\mathrm { F e } _ { 2 } \textcircled { \mathbf { \hat { \mathbf { \phi } } } }$ 与高基体的结合力更牢固。
+
+(4)Fe- $1 2 . 5 2 \% \mathrm { C r }$ 合金中 $\mathrm { C r }$ 原子第一次跃迁到高阶状态，当合金处于腐蚀环境中时，高阶 $\mathrm { C r }$ 易偏离平衡位置与吸附在表面的原子 ，使得 $\mathrm { F e } { - } 1 2 . 5 2 \% \mathrm { C r }$ 合金表面容易形成保护性钝化膜。当Cr 含量X为 $2 4 . 3 \%$ ， $\mathrm { C r }$ 原子杂阶再一次跃迁到高阶态， $\mathrm { F e } { - } 2 4 . 3 \% \mathrm { C r }$ 合金中Cr 固溶量更高， $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 、 $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ 与基体的结合力也更强，因此 $\mathrm { F e } { - } 2 4 . 3 \% \mathrm { C r }$ 合金的耐腐蚀性能优于Fe-12.52%合金e-Cr 合金及其钝化膜的价电子结构分析结果能在一定程度上解释Fe-Cr 合金耐蚀性能的 Tammann 规律。
+
+金预 医乐参考文献
+
+[1] Chen K M. Corrosion and Protection of Process Equipment [M]. Beijing: Chemical Industry Press,2001: 84 (陈匡民．过程装备腐蚀与防护 [M]．北京：化学工业出版,2001:84)
+
+[2] Chavchanidze A S,Krementulo A V. Influence of electron structure on the corosional resistance of iron-based solid solutions in aggressive media [J]. Steel. Transl., 2Ooo, 30: 74
+
+[3] ShcherbakovAI. Theory of dissolution of binary aloys and the Tamman rule[J].Prot.Met.,2O05,41: 30 [4] Xu L N, Wang B, Zhu J Y, et al. Effect of $\mathrm { C r }$ content on the corrosion performance of low-Cr alloy steel in a $\mathrm { C O } _ { 2 }$ environment [J]. Appl. Surf. Sci., 2016, 379: 39
+
+[5] Kim M，Kim S W, Yoon S H，et al. Efcts of Cr content in amorphous ribbons $( \mathrm { F e _ { 0 . 7 9 } C _ { 0 . 1 1 } S i _ { 0 . 0 2 } B _ { 0 . 0 8 } } ) 1 0 0 \ – \ x \mathrm { C r } x$ on their corrosion resistance [J]. Korean J.Met. Mater., 2014, 52: 129
+
+[6] Andreev Y Y,Safonov I A, Doub A V. Thermodynamic model for estimating the composition of passive films and flade potential on Fe-Cr alloys in aqueous solutions [J].Prot. Met.Phys. Chem. Surf.,2010,46: 509 [7] Alekseev YV,Plaskeev A V. On the interaction between components of an alloy during its dissolution in the passive state [J].Prot.Met., 2002,38: 310
+
+[8] Xiao K, Zhang X, Dong C F, et al. Localized electrochemical impedance spectroscopy study on the corrosion behavior of Fe-Cr alloy in the solution with Cl and ${ \mathrm { S O } _ { 4 } } ^ { 2 - }$ [J]. J. Wuhan Univ. Technol.-Mater. Sci. Ed., 2012, 27: 27   
+[9] Costa D,Ribeiro T,Mercuri F, et al. Atomistic modeling of corrosion resistance: a first principles study of $\mathbf { O } _ { 2 }$ reduction on the Al(11) surface covered with a thin hydroxylated alumina film [J]. Adv. Mater. Interfaces, 2014,1: 1300072   
+[10] Zhang R L.Empirical Electron Theory of Solids and Molecules [M].Changchun: Jilin Science and Technology Press,1993: 83 好   
+(张瑞林．固体与分子经验电子理论 [M].长春：吉林科学技术出版社,1993:83)   
+[11] Wang YF,Li Y K,Sun C,et al. Electronic theoretical mo del of static and dynamic strength of steels [J]. Acta Phys. Sin.,2014,63: 126101 家心   
+(王云飞，李云凯，孙 川等．钢动静态强度计算的电子理论模型 [J].物理学报,2014,63:126101) 风誉   
+[12] Li L, Xing S B. Catalytc effect analysis of metallic catalyst during diamond ngle crystal synthesis [J]. Acta. Metall. Sin. (Engl. Lett.),2014, 27: 161   
+[13] Du A, Ma R N, Wen M, et al. Corrosion mechanism of intermetallic comp pound $\mathrm { F e } _ { 2 } \mathbf { B }$ in liquid zinc [J]. J. Tianjin Univ., 2010, 43: 633 家收   
+(杜 安,马瑞娜，温 鸣等．金属间化合物 $\mathrm { F e } _ { 2 } \mathbf { B }$ 在液态锌中的腐蚀机制 [J]．天津大学学报,2010,43:633) 特   
+[14] Dai Y N. Binary Alloy Phase Diagrams [M]. Beijing Science Press,2009:240   
+(戴永年．二元合金相图集 [M]．北京：科学出版社,2009:240)   
+[15] Liu W D, Qu H, Liu Z L. Study on the stability of ductile $\beta$ phase and the behaviors of alloying elements [J]. Rare Met. Mater. Eng.,2005,34: 573   
+(刘伟东，屈 华，刘志林．延性 $\beta$ 相稳定性与合金元素合金化行为的研究[J]．稀有金属材料与工程, 2005,34: 573)   
+[16] Xiao K, Dong C F, Zhang X,et al. Corrosion of carbon stee under epoxy-varnish coating studied by scanning Kelvin probe [J]. J. Wuhan Univ. Technol.-Mater. Sci. Ed.,2012, 27: 825   
+[17] Qu X S.Research on valence electron theoretics of corrosion resistance of austenitic stainless steels [D]. Jinzhou: Liaoning Institute of Technology, 2007   
+(屈兴胜．奥氏体不锈钢耐腐蚀性能的价电子理论研究 [D]．锦州：辽宁工学院,2007)
+
+[18] Liu Z L,Li ZL,Liu W D. Interface Valence Electron Structure and Property [M]. Beijing: Science Press, 2002: 36
+
+(刘志林，李志林，刘伟东．界面电子结构与界面性能[M]．北京：科学出版社,2002:36)
+
+[19] Yin Y S, Gong H Y, Tan X Y, et al. Study on the interface electron structures of $\mathrm { F e _ { 3 } A l / A l _ { 2 } O _ { 3 } }$ nano/micro composite [J]. J. Synth. Cryst., 2003,32: 99
+
+(尹衍升，龚红宇，谭训彦等. $\mathrm { F e } _ { 3 } \mathrm { A l / A l } _ { 2 } \mathrm { O } _ { 3 }$ 纳微米复合材料的界面电子结构研究[J]．人工晶体学报，2003,32: 99)
+
+[20] Xu C Q, Cui C X. Investigation of the corrosion resistance of Mo-3oW alloy against molten zinc by EET and BLD [J]. Rare Met. Mater. Eng.,2007,36: 1558
+
+(许长庆，崔春翔．固体与分子经验电子论对Mo-30 合金耐液态锌腐蚀性能研究[J]．稀有金属材料与工程,2007,36:1558) 学方
+
+[21] Fan R H, Yin W Z,Sun K N,et al. Influence of disordering on the magnetic properties of ordered iron X   
+aluminides [J]. J. Synth. Cryst.,200S4: 606}
+
+(范润华，尹文宗，孙康宁等，无序化对有序铁铝金属间化合物磁性的影响[J]．人工晶体学报，2005，34:蒙606) 茶
+
+[22] Gao Y J, Zhao M, Huang C G, et al. The microscopic mechanism interpret on aprecipitate-free Zones of y 炭方 phase in Al-Ag alloy [J]. Precious Met., 2005,26(1): 1
+
+(高英俊，赵 妙，黄创高等.Al-Ag合金y相周围无沉淀带形成的机理[J]．贵金属,2005,26(1):1) 1   
+[23] Zhang Z G, Hou P Y, Niu Y. Oxidation of Fe-xCr-10Al ( $\scriptstyle \cdot = 0$ ,5,10) alloys at $9 0 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ : a novel example of   
+the third element effect [J]. Acta. Metall. Sin., 2005, 41:
+
+(张志刚,HouPY，牛 焱.Fe-xCr-10Al $( x { = } 0 , 5 , 1 0 )$ 合金在 $9 0 0 ^ { \circ } \mathrm { C }$ 的氧化：第三组元作用的新例子[J]．金属学报,2005,41:649)
+
+[24] Kasparova O V, Baldokhin Y V, Solomatin A S. On a correlation between the electronic structure and passivability of Fe-Cr alloys [J]. Prot. Met., 2005,41: 117
+
+[25] Zhang D Q， Xu JJ,Zhao G Q,et al. Oxidation characteristic of feritic-martensitic steel T91 in water-vapour atmosphere [J]. Chin.J.Mater.Res.,20O8,22:599
+
+(张都清，徐敬军，赵国群等.9Cr-1Mo 钢在含水蒸汽气氛中的氧化行为[J].材料研究学报,2008,22:599)[26]Zeng C L, Wang W, Wu W T. A study of the corrosion of Fe-Cr alloys in molten $( \mathrm { L i - K } ) _ { 2 } \mathrm { C O } _ { 3 }$ at $6 5 0 ^ { \circ } \mathrm { C }$ [J]Acta. Metall. Sin., 2000, 36: 651
+
+（曾潮流，王文，吴维.Fe-Cr合金在 $6 5 0 ^ { \circ } \mathrm { C }$ 熔融 $( \mathrm { L i - K } ) _ { 2 } \mathrm { C O } _ { 3 }$ 中的腐蚀行为[J]．金属学报,2000,36:651)

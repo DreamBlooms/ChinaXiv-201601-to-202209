@@ -1,0 +1,536 @@
+[
+    {
+        "type": "text",
+        "text": "Cosmological Evolution of Interacting Phantom Energy with Dark Matter ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zong-Kuan Guo\\* and Rong-Gen Cai Institute of Theoretical Physics，Chinese Academy of Sciences，P.O.Box 2735，Beijing 100080，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yuan-Zhong Zhang CCAST (World Lab.)，P.O. Box 8730, Beijing 100080 Institute of Theoretical Physics，Chinese Academy of Sciences, P.O. Box 2735， Beijing 100080, China (Dated:February 2, 2008) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We investigate the cosmological evolution of an interacting phantom energy model in which the phantom field has interaction with the dark matter.We discuss the existence and stability of scaling solutions for two types of specific interactions.One is motivated by the conformal transformation in string theory and the other is motivated by analogy with disspation.In the former case,there exist no scaling solutions.In the latter case,there exist stable scaling solutions,which may give a phenomenological solution of the coincidence problem.Furthermore,the universe either accelerates forever or ends with a singularity,which is determined by not only the model parameters but also the initial velocity of the phantom field. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers: 98.80.Cq,98.80.-k ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "have been many relevant studies on this topic [13] ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Scalar field plays an important role in modern cosmology. The dark energy can be attributed to the dynamics of a scalar field,for instance quintessence [1,2],which convincingly realize the present accelerated expansion by using late-time attractor solutions,in which the scalar field mimics the perfect fluid in a wide range of parameters.Much attention has been drawn to the case of exponential potentials. The exponential potentials allow the possible existence of scaling solutions in which the scalar field energy density tracks that of the perfect fluid (so that at late times neither component can be negligible). In particular,a phase-plane analysis of the spatially fat FRW models showed that these solutions are the unique late-time attractors whenever they exist [3，4]. Moreover,exponential potentials appear naturally in the low dimensional models of string/M-theory [5]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The recent SNe data seem to favor the dark energy with the present equation of state $w < - 1$ [6].Toobtain $w < - 1$ ,phantom field with a negative kinetic term may be a simplest implementing and can be regarded as one of interesting possibilities describing dark energy [7]. The physical background for phantom type of matter with strongly negative pressure would be found in string theory [8]. Phantom field may also arise in higher-order theories of gravity [9]，Brans-Dicke and non-minimally coupled scalar field theories [1O]. The cosmological models which allow for phantom matter appear naturally in k-essence models [11]. In spite of the fact that the field theory of phantom fields encounters the problem of stability which one could try to bypass by assuming them to be effective fields [12],it is nevertheless interesting to study their cosmological implication. Recently, there ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The physical properties of phantom energy are rather weird,as they include violation of the dominant energy condition and increasing energy density with the expansion of the universe. The latter ultimately leads to an unwanted future singularity called big rip.This singularity is characterized by the divergence of the scale factor in a finite time in future [14]. To avoid the cosmic doomsday,some phantom field models were proposed [15]. It requires a special class of phantom field potentials with a local maximum.Moreover,the energy density of the phantom field increases with time,while the energy density of the matter fluid decreases as the universe expands. Why are the energy density of dark matter and the phantom energy density of the same order just at the present epoch? This coincidence problem becomes more diffcult to solve in the phantom model. Therefore, from this point of view the cosmological scaling solution would be desirable for the history of the universe. Throughout this paper we use “scaling solution” as a meaning that the energy densities of the phantom field and the dark matter are proportional. However,as shown in Ref.[16],there exist no scaling solutions because the phantom energy increases while the matter energy decreases with time. But in the presence of the suitable interaction this case could be realized easily in Ref. [17]. In this paper we investigate the stability and existence of scaling solutions in the scenario of interacting phantom energy with dark matter.We consider two phenomenological models.One is motivated by the conformal transformation from the Jordan frame to Einstein frame in string theory and the other is motivated by analogy with dissipation.In the former model there exist no scaling solutions.However, in the latter model a phase-plane analysis shows that there exist two kinds of stable scaling solutions,which lead to two different fates of the universe.The universe either accelerates forever or ends with a big rip,which is determined by not only the model parameters but also the initial velocity of the phantom field. We will also discuss the physical consequences of these results. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "II. INTERACTINGPHANTOMENERGYWITH DARKMATTER ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where the prime denotes a derivative with respect to the logarithm of the scale factor, $N \\equiv \\ln a$ ，and the Fridemann constraint equation（1） becomes ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- x ^ { 2 } + y ^ { 2 } + z ^ { 2 } = 1 .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Let us consider a universe model where both the phantom field $\\phi$ and the dark matter $\\rho _ { m }$ are present.The Friedmann equation in a spatially flat FRW metric can be written as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ^ { 2 } = \\frac { \\kappa ^ { 2 } } { 3 } ( \\rho _ { p } + \\rho _ { m } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\kappa ^ { 2 } \\equiv 8 \\pi G _ { N }$ is the gravitational coupling and the energy density and pressure, $\\rho _ { p }$ and $P _ { p }$ ，of the homogeneous phantom field $\\phi$ are given by ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\rho _ { p } ~ = ~ - \\frac { 1 } { 2 } \\dot { \\phi } ^ { 2 } + V ( \\phi ) , } } \\\\ { { \\displaystyle P _ { p } ~ = ~ - \\frac { 1 } { 2 } \\dot { \\phi } ^ { 2 } - V ( \\phi ) , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "respectively,in which $V ( \\phi )$ is the phantom field potential. We postulate that the two components, $\\rho _ { p }$ and $\\rho _ { m }$ ， interact through the interaction term $Q$ according to ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\dot { \\rho } _ { m } + 3 H ( \\rho _ { m } + P _ { m } ) ~ = ~ Q , } } \\\\ { { \\dot { \\rho } _ { p } + 3 H ( \\rho _ { p } + P _ { p } ) ~ = ~ - Q . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Suppose the dark matter possesses the equation of state $P _ { m } = 0$ . The dynamics of the phantom field with an exponential potential ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ( \\phi ) = V _ { 0 } \\exp ( - \\lambda \\kappa \\phi )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "has been analysed in Ref.[16]. We assume the dimensionless constant $\\lambda$ is positive since we can make it positive through $\\phi \\to - \\phi$ if $\\lambda < 0$ . Here we generalize the analysis to the case in which the phantom field has interaction with the dark matter. As we will see, this gives rise to some interesting novel features. Following Ref.[3]，we define the following dimensionless variables ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx \\equiv \\frac { \\kappa \\dot { \\phi } } { \\sqrt { 6 } H } , \\qquad y \\equiv \\frac { \\kappa \\sqrt { V } } { \\sqrt { 3 } H } , \\qquad z \\equiv \\frac { \\kappa \\sqrt { \\rho _ { m } } } { \\sqrt { 3 } H } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Notice that $x ^ { 2 }$ ， $y ^ { 2 }$ and $z ^ { 2 }$ give the fraction of total energy density carried by the field kinetic energy, the field potential energy and the dark matter,respectively. Thus the fractional densities of $\\rho _ { p }$ and $\\rho _ { m }$ can be written as $\\Omega _ { p } = - x ^ { 2 } + y ^ { 2 }$ and $\\Omega _ { m } = z ^ { 2 }$ , respectively. The evolution equations (4) and (5) can be written as the following set of equations: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { x ^ { \\prime } ~ = ~ - 3 x \\left( 1 + x ^ { 2 } - { \\displaystyle \\frac { 1 } { 2 } } z ^ { 2 } \\right) + \\frac \\kappa { \\sqrt { 6 } } \\frac Q { H ^ { 2 } { \\dot { \\phi } } } - \\frac 3 { \\sqrt { 6 } } \\lambda y ^ { 2 } , } } \\\\ { { y ^ { \\prime } ~ = ~ - 3 y \\left( x ^ { 2 } + { \\displaystyle \\frac { \\sqrt { 6 } } { 6 } } \\lambda x - { \\displaystyle \\frac { 1 } { 2 } } z ^ { 2 } \\right) , } } \\\\ { { z ^ { \\prime } ~ = ~ - 3 z \\left( { \\displaystyle \\frac { 1 } { 2 } } + x ^ { 2 } - { \\displaystyle \\frac { 1 } { 2 } } z ^ { 2 } \\right) + \\frac \\kappa { 2 \\sqrt { 3 } } \\frac { Q } { H ^ { 2 } { \\sqrt { \\rho _ { m } } } } , ~ ( } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The critical points,where $x ^ { \\prime } = 0$ ， $y ^ { \\prime } = 0$ and $z ^ { \\prime } = 0$ ， correspond to an expanding universe with a scale factor $a ( t )$ given by $a \\propto t ^ { 2 / [ 3 ( 1 + w _ { \\mathrm { e f f } } ) ] }$ . The effective equation of state for the total comic fluid is ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { \\mathrm { e f f } } = - x ^ { 2 } - y ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Interaction terms $Q$ have been discussed in the literature within the context of inflation and reheating. In the_conventional reheating model,an interaction term $\\Gamma _ { \\phi } \\dot { \\phi } ^ { 2 }$ dominates at the end of inflation when the scalar field is oscillating about the minimum of its potential. During this reheating phase the energy transferred from the scalar field is completely converted into the matter. Within the context of exponential potentials,an interaction term of the form $Q = - c \\kappa \\rho _ { m } \\dot { \\phi }$ was considered in Ref.[18,19]. It was shown that the matter scaling solutions were stable solutions and the age of the universe is older when such the interaction term is included.Certain string theories in which the energy sources are separately conserved in the Jordan frame naturally lead to interaction terms in the Einstein frame; scalar tensor theory with matter terms may yield the same results [18,19]. An interaction term of the form $Q = 3 c H ( \\rho _ { p } + \\rho _ { m } )$ was proposed to look for a dynamical solution to the coincidence problem [2O].Such the interaction term might be motivated by analogy with dissipation.For example，a fluid with bulk viscosity may give rise to a term of this form in the conservation equation. Without an interaction term,it was shown that the dark matter could not track the phantom energy and would be quickly driven to zero [16]. It is of interest to study the cosmological consequences of the above two types of interactions in the phantom energy model. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "III. MODEL I ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Let us first consider the following interaction [18,19, 21] ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ = - c \\kappa \\rho _ { m } \\dot { \\phi } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $c$ is a dimensionless parameter. Such a coupling arises for instance in string theory [18],or after a conformal transformation of Brans-Dicke theory [19]. The evolution equations (8-1O) can then be written as an au",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "tonomous system: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { x ^ { \\prime } = - 3 x \\left( 1 + x ^ { 2 } - \\displaystyle \\frac { 1 } { 2 } z ^ { 2 } \\right) - \\displaystyle \\frac { 3 } { \\sqrt { 6 } } c z ^ { 2 } - \\displaystyle \\frac { 3 } { \\sqrt { 6 } } \\lambda y ^ { 2 } , } } \\\\ { { y ^ { \\prime } = - 3 y \\left( x ^ { 2 } + \\displaystyle \\frac { \\sqrt { 6 } } { 6 } \\lambda x - \\displaystyle \\frac { 1 } { 2 } z ^ { 2 } \\right) , } } \\\\ { { z ^ { \\prime } = - 3 z \\left( \\displaystyle \\frac { 1 } { 2 } + x ^ { 2 } - \\displaystyle \\frac { 1 } { 2 } z ^ { 2 } + \\displaystyle \\frac { \\sqrt { 6 } } { 6 } c x \\right) , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "which has three critical points as follows. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Point $A$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { A } = - \\frac { \\sqrt { 6 } } { 3 } c , \\qquad y _ { A } = 0 , \\qquad z _ { A } = \\sqrt { 1 + \\frac { 2 } { 3 } c ^ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This solution is physically meaningless since $\\Omega _ { m } > 1$ if （204 $c \\neq 0$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Point $B$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { B } = - \\frac { \\sqrt { 6 } } { 6 } \\lambda , \\qquad y _ { B } = \\sqrt { 1 + \\frac { \\lambda ^ { 2 } } { 6 } } , \\qquad z _ { B } = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Thiscritical point corresponds to thephantomdominated solution $\\Omega _ { p } = 1$ , which always exists for any $\\lambda$ and $c$ . The effective equation of state, $w _ { \\mathrm { e f f } } = - 1 - \\lambda ^ { 2 } / 3$ depends on the slope of the potential. To find out under what condition this fixed point is a stable solution, we study the behavior of small deviations from the solution.The linearization of system (14)-(16) about this fixed point yields two eigenvalues $m _ { 1 } = - ( 3 + \\lambda ^ { 2 } / 2 )$ and $m _ { 2 } = - ( \\lambda ^ { 2 } + 3 - c \\lambda )$ . Thus the phantom-dominated solution is stable for $c \\leq \\lambda + 3 / \\lambda$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Point $C$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { x _ { C } = \\displaystyle \\frac { 3 } { \\sqrt { 6 } ( \\lambda - c ) } , \\qquad y _ { C } ^ { 2 } = 1 - \\displaystyle \\frac { \\lambda } { \\lambda - c } - \\displaystyle \\frac { 3 } { 2 ( \\lambda - c ) ^ { 2 } } , } } \\\\ { { z _ { C } ^ { 2 } = \\displaystyle \\frac { \\lambda } { \\lambda - c } + \\displaystyle \\frac { 3 } { ( \\lambda - c ) ^ { 2 } } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This fixed point corresponds to the phantom-fluid scaling solution,which exists for ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc \\leq \\frac { \\lambda - \\sqrt { \\lambda ^ { 2 } + 1 2 } } { 2 } \\quad \\mathrm { o r } \\quad \\frac { \\lambda + \\sqrt { \\lambda ^ { 2 } + 1 2 } } { 2 } \\leq c \\leq \\lambda + \\frac { 3 } { \\lambda } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Substituting linear perturbations $x  x _ { C } + \\delta x$ ， $y $ $y _ { C } + \\delta y$ ，and $z  z _ { C } + \\delta z$ about the critical point into the system of equations (14)-(16),to first-order in the perturbations,gives the following two independent evolution equations of the linear perturbations: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { \\delta x ^ { \\prime } = - \\displaystyle \\frac { 3 } { 2 } \\left( 1 + 3 x _ { C } ^ { 2 } + y _ { C } ^ { 2 } + \\displaystyle \\frac { 4 } { \\sqrt { 6 } } c x _ { C } \\right) \\delta x } } \\\\ { { \\displaystyle - \\left[ 3 x _ { C } y _ { C } + \\displaystyle \\frac { 6 } { \\sqrt { 6 } } ( \\lambda - c ) y _ { C } \\right] \\delta y , } } \\\\ { { \\delta y ^ { \\prime } = - 3 y _ { C } \\left( \\displaystyle \\frac { \\sqrt { 6 } } { 6 } \\lambda + x _ { C } \\right) \\delta x - 3 y _ { C } ^ { 2 } \\delta y . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b7f02c049404e50a23791649d86abd05f9940fd1b376a44578eebff5e4952a86.jpg",
+        "img_caption": [
+            "FIG.1: The convergence of different initial conditions to the attractor solution in the $( x , y )$ phase space for the model I with $c = - 2$ and $\\lambda = 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6c4b11af8c890c7ebde89c26de9aea7dbd804f61057b995f3106bd6bcc6f3bd4.jpg",
+        "img_caption": [
+            "FIG.2:The evolution of the fractional densities of the phantom field(the dashed curve) and the dark matter (the solid curve) for the case in Fig.1. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The two eigenvalues of the coefficient matrix of the above equations determine the stability of the critical point.We find that the solution is unstable. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the cosmological model with the interaction (13) between phantom field and dark matter,the phantomdominated solution is the only attractor solution in the parameter space, $c \\leq \\lambda + 3 / \\lambda$ . In Figs.1-4,we plot the numerical results. Comparing Fig.2 to Fig.4,we see that the phantom energy more quickly dominates the universe when the parameter $c$ decreases.In Fig.1 and Fig.3, the trajectories converge at the same fixed point，which is only determined by the parameter $\\lambda$ . Hence energy transferwhether from the phantom field to the dark matter or vice versa yields the similar cosmological consequences. The stable critical point $B$ with $x _ { B } ~ < ~ 0$ indicates that the phantom field climbs up the exponent potential. The energy density of the phantom field increases as the universe expands,which leads to unwanted future singularity,and therefore the coincidence problem becomes more difficult. In the next section，we will investigate a phenomenal model, in which the cosmic doomsday is avoided and the coincidence problem may be alleviated. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/20d9c6986d8f1b4bd90e36f86795729016305f262fcb896fa42b44faa8706db3.jpg",
+        "img_caption": [
+            "FIG.3:The convergence of different initial conditions to the attractor solution in the $( x , y )$ phase space for the model I. Wechoose $c = 1$ and $\\lambda = 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a3a16832dceca6c4192e7d6cb80a2125f25f0762dd93edf7a253d2a106f97d69.jpg",
+        "img_caption": [
+            "FIG.4:The evolution of the fractional densities of the phantom field (the dashed curve) and the dark matter (the solid curve)for the case in Fig.3. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "IV.MODELII ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Now let us consider the specific interaction [17, 20, 22] ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "written as an autonomous system: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { x ^ { \\prime } ~ = ~ - 3 x \\left( 1 + x ^ { 2 } - { \\frac { 1 } { 2 } } z ^ { 2 } - { \\frac { 1 } { 2 } } c x ^ { - 2 } \\right) - { \\frac { 3 } { \\sqrt { 6 } } } \\lambda y ^ { 2 } , } } \\\\ { { y ^ { \\prime } ~ = ~ - 3 y \\left( x ^ { 2 } + { \\frac { \\sqrt { 6 } } { 6 } } \\lambda x - { \\frac { 1 } { 2 } } z ^ { 2 } \\right) , } } \\\\ { { z ^ { \\prime } ~ = ~ - 3 z \\left( { \\frac { 1 } { 2 } } + x ^ { 2 } - { \\frac { 1 } { 2 } } z ^ { 2 } - { \\frac { 1 } { 2 } } c z ^ { - 2 } \\right) , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "which has four critical points. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Point $A$ ：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { \\displaystyle x _ { A } ^ { 2 } ~ = ~ \\frac { 1 } { 2 } ( \\sqrt { 1 + 4 c } - 1 ) , ~ y _ { A } = 0 , } } } \\\\ { { { \\displaystyle z _ { A } ^ { 2 } ~ = ~ \\frac { 1 } { 2 } ( \\sqrt { 1 + 4 c } + 1 ) . } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This solution is physically meaningless since $\\Omega _ { p } < 0$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Points $B , C , D$ : The other three critical points are solutions of the following set of equations: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "wherewehavedefineda cubic function ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { f ( x ) ~ = ~ c , } } \\\\ { { { } } } \\\\ { { y ^ { 2 } ~ = ~ - x ^ { 2 } - \\displaystyle \\frac { \\sqrt { 6 } } { 3 } \\lambda x + 1 , } } \\\\ { { { } } } \\\\ { { { } z ^ { 2 } ~ = ~ 2 x ^ { 2 } + \\displaystyle \\frac { \\sqrt { 6 } } { 3 } \\lambda x , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ = 3 c H ( \\rho _ { p } + \\rho _ { m } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( x ) \\equiv x \\left( 2 x + \\frac { \\sqrt { 6 } } { 3 } \\lambda \\right) \\left( 1 - \\frac { \\sqrt { 6 } } { 3 } \\lambda x \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The critical point with $x _ { B } < 0$ , labelled by $B$ ,exists for ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 < c \\leq f ( \\frac { - \\lambda - \\sqrt { \\lambda ^ { 2 } + 1 2 } } { 2 \\sqrt { 6 } } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $c$ is a dimensionless parameter denoting the transfer strength. This type of interaction has been proposed to look for a dynamical solution to the coincidence problem in Ref. [20]. Then the equation system (8-1O) can be ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "There are two critical points with $x _ { C , D } > 0$ , one of which is physically meaningless, labelled by $D$ . The other point, labelled by $ { C }$ ，exists for ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 < c \\leq \\operatorname * { m i n } \\{ f ( \\frac { - \\lambda + \\sqrt { \\lambda ^ { 2 } + 6 } } { \\sqrt { 6 } } ) , f ( \\frac { - \\lambda + \\sqrt { \\lambda ^ { 2 } + 1 2 } } { 2 \\sqrt { 6 } } ) \\} .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We see that the point $B$ corresponds to a climbing-up phantom field,while the point $C$ corresponds to a rollingdown phantom field. In order to study the stability of the two critical points,we obtain the two independent evolution equations of the linear perturbations ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\delta x ^ { \\prime } = - \\displaystyle \\frac { 3 } { 2 } \\left( 1 + 3 x _ { B , C } ^ { 2 } + y _ { B , C } ^ { 2 } + \\displaystyle \\frac { c } { x _ { B , C } ^ { 2 } } \\right) \\delta x } } \\\\ { { { } } } \\\\ { { - \\left( 3 x _ { B , C } y _ { B , C } + \\displaystyle \\frac { 6 } { \\sqrt { 6 } } \\lambda y _ { B , C } \\right) \\delta y , } } \\\\ { { { } } } \\\\ { { \\delta y ^ { \\prime } = - 3 y _ { B , C } \\left( \\displaystyle \\frac { \\sqrt { 6 } } { 6 } \\lambda + x _ { B , C } \\right) \\delta x - 3 y _ { B , C } ^ { 2 } \\delta y . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8019196a9b2c9be48d412d60020445f58204c2ab730264eda778aeddfdf418cd.jpg",
+        "img_caption": [
+            "FIG.5: Stability regions of the $( \\lambda , c )$ parameter space for the model II. In the regions I,either the climbing-up scaling solution or the rolling-down scaling solution is the stable latetime attractor.In the region II, the climbing-up solution is the stable late-time attractor. The solutions are physically meaningless in the region III. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The corresponding eigenvalues of the coefficient matrix of the above equations indicate that the critical points $B$ and $C$ are always the late-time stable attractor solutions if they exist. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the case of the interaction form (22),there exist two kinds of stable scaling solutions, the climbing-up scaling solution with $x _ { B } ~ < ~ 0$ in Figs.6-8 and the rolling-down scaling solution with $x _ { C } > 0$ in Figs.9-11. As shown in Fig.7 and Fig.1O,the universe evolves from the matterdominated phase to the scaling solution,which is characterized by a constant ratio of the energy densities of the dark matter and the phantom feld. This may provide us with a phenomenological solution of the coincidence problem. These results agree with those in Ref.[17]. The different regions in the $( \\gamma , c )$ parameter space lead to different qualitative evolutions.In the region I of th parameter space in Fig.5,the critical point $B$ is a stable solution.However,in the region I both the points $B$ and $C$ are stable. Which one is the late-time stable attractor solution? The phantom field either climbs up or rolls down the exponent potential, which is determined by the initial velocity of the phantom field.If the phantom field initially climbs up,the effective equation of state $w _ { \\mathrm { e f f } }$ tends to below $- 1$ and realizes a transition from $w _ { \\mathrm { e f f } } > - 1$ to $w _ { \\mathrm { e f f } } < - 1$ in Fig.8. Thus the universe ends with a big rip.If the phantom field initially rolls down,the effective equation of state $w _ { \\mathrm { e f f } }$ tends to above $- 1$ and realizes a transition from $w _ { \\mathrm { e f f } } < - 1$ to $w _ { \\mathrm { e f f } } > - 1$ in Fig.11. In this case the cosmic doomsday is avoided and the universe accelerates forever. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "V.CONCLUSIONS AND DISCUSSIONS ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We have presented a phase-space analysis of the evolution for a spatially flat FRW universe driven by an interacting mixture of dark matter and phantom field with an exponent potential. We have discussed the existence and stability of the cosmological scaling solution for two types of interactions, namely $Q = - c \\kappa \\rho _ { m } \\dot { \\phi }$ motivated by the conformal relationships between the Jordan and Einstein frame in string theory,and $Q = 3 c H ( \\rho _ { p } + \\rho _ { m } )$ motivated by analogy with dissipation.In the former model,the phantom-dominated solution is the only attractor solution when $c \\leq \\lambda + 3 / \\lambda$ . Energy transfer whether from the phantom field to the dark matter (i.e. $c > 0$ )orvice versa (i.e. $c < 0$ ）leads to similar behavior,except that the phantom energy more quickly dominates the universe in the latter case than the former case.Since the phantom field climb up the exponent potential, the energy density of the phantom field quickly increases as the universe expands,which leads to an unwanted future singularity. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0fc57ec9a0e81ceb548c1180cffd478fd6b9e92fcaa6e8838a468e3addbb5132.jpg",
+        "img_caption": [
+            "FIG.6: The convergence of different initial conditions to the attractor solution in the $( x , y )$ phase space for the model II with $c = 0 . 2$ and $\\lambda = 1$ ．We choose initial conditions with （20 $x _ { 0 } < 0$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9bccd55c563dbfe976bff9d23383815b0876b252e58f6114387d71a95bda1a68.jpg",
+        "img_caption": [
+            "FIG.7:The evolution of the fractional densities of the phantom field(the dashed curve) and the dark matter (the solid curve) for the case in Fig.6. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/be94d72888df4a10e014744512146c2675aa7b7e8e1ead86eeacbf0373faa494.jpg",
+        "img_caption": [
+            "FIG.8: The evolution of the effective equation of state for the case in Fig.6. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a33a6570f69e7b593f6242fee6259a8925ec681a54ff16430878e49a82649a5.jpg",
+        "img_caption": [
+            "FIG.9:The convergence of different initial conditions to the attractor solution in the $( x , y )$ phase space for the model II with $c = 0 . 2$ and $\\lambda = 1$ .We choose initial conditions with $x _ { 0 } > 0$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/6d2882bb22617c1c551613b578ae295bd8eef93ad50eb3d877c42b9cb77a37f0.jpg",
+        "img_caption": [
+            "FIG.1O: The evolution of the fractional densities of the phantom field (the dashed curve) and the dark matter (the solid curve) for the case in Fig.9. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/4ef2f757a25c44a4bb87676597a52ee5a677c5e409f18decc734767e4f3fbf7a.jpg",
+        "img_caption": [
+            "FIG.11: The evolution of the effective equation of state for the case in Fig.9. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "However,in the model I with the interaction (22)between phantom field and dark matter,there exist two kinds of stable scaling solutions, the climbing-up scaling solution and the rolling-down scaling solution. The existence of a stable scaling solution requires a transfer of energy from the phantom field to the dark matter.In this model the universe evolves from a matter-dominated phase to a scaling solution,which is characterized by a constant ratio of the energy densities of the dark matter and the phantom feld. This may provide us with a phenomenological solution of the coincidence problem.Furthermore,in the climbing-up case,the effective equation of state $w _ { \\mathrm { e f f } }$ tends to below $- 1$ ，and then the universe ends with a big rip. The effective equation of state may realize a transition from $w _ { \\mathrm { e f f } } \\ > \\ - 1$ to $w _ { \\mathrm { e f f } } ~ < ~ - 1$ In the rolling-down case, the effective equation of state $w _ { \\mathrm { e f f } }$ tends to above $- 1$ and may cross $- 1$ .In this case the cosmic doomsday is avoided and the universe accelerates forever witha power-law form.What is theultimate fate of the universe? The universe either accelerates forever or ends with a big rip,which is determined by not only the model parameters but also the initial velocity of the phantom feld in the scenario of interacting phantom energy with dark matter. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Thisprojectwas in part supported by National BasicResearch Program of Chinaunder Grant No.2003CB716300，by NNSFC under Grant No.90403032，No.10325525 and No.90403029，and also by MSTC under Grant No.TG1999075401. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "82(1999) 896；P.J.Steinhardt，L.Wang and I.Zlatev, Phys.Rev.D59(1999)123504.   \n[3]E.J.Copeland,A.R.Liddle and D.Wands,Phys.Rev.D57 (1998)4686.   \n[4] Z.K.Guo，Y.S.Piao and Y.Z.Zhang，Phys.Lett.B568 (2003)1; Z.K.Guo, Y.S.Piao, R.G.Cai and Y.Z.Zhang, Phys.Lett. B576 (2003) 12; Z.K.Guo and Y.Z.Zhang JCAP 0408(2004) 010.   \n[5] C.M.Chen, P.M.Ho, I.P.Neupane, N.Ohta and J.E.Wang, JHEP 0310（2003）058；M.N.R.Wohlfarth，Phys.Rev. D69（2004) 066002;N.Ohta,hep-th/0411230.   \n[6] U.Alam, V.Sahni and A.A.Starobinsky, astro-ph/0403687; T.R.Choudhury and T.Padmanabhan， astro-ph/0311622；D.Huterer and A.Cooray， astro-ph/0404062； B.Feng， X.L.Wang and X.Zhang，astro-ph/0404224; Y.Gong,astro-ph/0405446.   \n[7]R.R.Caldwell,Phys.Lett.B545(2002) 23.   \n[8]L.Mersini,M.Bastero-Gil and P.Kanti,Phys.Rev.D64 (2001）O43508；F.Piazza and S.Tsujikawa，JCAP 0407 (2004)004.   \n[9] M.D.Pollock，Phys.Lett.B215（1988) 635；G.Calcagni, gr-qc/0410027.   \n10]D.F.Torres,Phys.Rev.D66(2002)043522；G.EspositoFarese and D.Polarski，Phys.Rev.D63(2001） 063504; E.Elizalde, S.Nojiri and S.D.Odintsov, Phys.Rev.D70 (2004) 043539.   \n11]T.Chiba，T.Okabe and M.Yamaguchi,Phys.Rev.D62 (2000）023511；J.M.Aguirregabiria，L.P.Chimento and R.Lazkoz,Phys.Rev.D70(2004) 023509.   \n12] G.W.Gibbons, hep-th/0302199； V.K.Onemliand R.P.Woodard，Phys.Rev.D70(2004)107301；S.Nojiri andS.D.Odintsov,Phys.Lett.B562(2003)147;S.Nojiri and S.D.Odintsov,Phys.Lett.B565(2003)1.   \n13] A.E.Schulz and M.White, Phys.Rev. D64 (2001) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "043514；B.McInnes，astro-ph/0210321；M.P.Dabrowski T.Stachowiak andM.Szydlowski,Phys.Rev.D68 (2003) 103519；Y.S.Piao and E.Zhou，Phys.Rev.D68 (2003) 083515；V.B.Johri，Phys.Rev.D70 (2004) 041303; Y.H.Wei and Y.Tian, Class.Quant.Grav.21 (2004) 5347; Y.S.Piao and Y.Z.Zhang,astro-ph/0401231;J.Lima and J.S.Alcaniz,astro-ph/0402265；M.Bouhmadi-Lopez and J.J.Madrid，astro-ph/0404540；B.Feng，M.Li,Y.S.Piao and X.Zhang,astro-ph/0407432. [14] R.R.Caldwell, M.Kamionkowski and N.N.Weinberg, Phys.Rev.Lett. 91(2003) 071301; P.F.GonzalezDiaz，Phys.Rev.D68（2003） 021303； M.Sami and A.Toporensky，Mod.Phys.Lett． A19 (2004)1509; H.Stefancic，Phys.Lett.B595 (2004)9；L.P.Chimento andR.Lazkoz，gr-qc/0405020; S.Nesseris and L.Perivolaropoulos,astro-ph/0410309. [15] S.M.Carroll， M.Hoffman and M.Trodden， Phys.Rev. D68(2003) 023509；P.Singh，M.Sami and N.Dadhich, Phys.Rev.D68 (2003) 023522；Z.K.Guo,Y.S.Piao and Y.Z.Zhang，Phys.Lett.B594 (2004) 247；I.Y.Arefeva, A.S.Koshelev and S.Y.Vernov,astro-ph/O412619. [16] Z.K.Guo, Y.S.Piao, X.Zhangand Y.Z.Zhang, astro-ph/0410654. [17] Z.K.Guo and Y.Z.Zhang,astro-ph/0411524. [18] C.Wetterich,Astron.Astrophys.301(1995） 321. [19]L.Amendola,Phys.Rev.D60(1999) 043501. [20]W.Zimdahl, D.Pavon and L.P.Chimento， Phys.Lett. B521(2001）133；L.P.Chimento，A.S.Jakubi，D.Pavon and W.Zimdahl,Phys.Rev.D67(2003) 083513. [21]A.P.Billyard and A.A.Coley， Phys.Rev. D61 (2000) 083503；S.Tsujikawa and M.Sami，Phys.Lett.B603 (2004) 113;H.Wei and R.G.Cai,hep-th/0412045. [22] R.G.Cai and A.Wang,hep-th/0411025. ",
+        "page_idx": 6
+    }
+]

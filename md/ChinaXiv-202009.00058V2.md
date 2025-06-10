@@ -1,0 +1,472 @@
+# 变分推断应用于教育测量模型
+
+代立扬
+
+华东师范大学调查与数据中心
+
+摘要 变分推断常用于机器学习，是一种仅需编写少量代码便能实现较快计算速度的参数估计算法。研究展示了黑盒变分推断和均摊变分推断在教育测量模型上的应用，开发了可生成任意方差协方差矩阵的潜变量网络、可作为先验分布的神经相关矩阵，基于 sigmoid 或softmax 的属性掌握模式网络等。实验结果显示变分推断在项目反应理论和部分DINA模型上的参数估计性能达到了顶尖水准。研究表明，变分推断能极大的帮助研究人员开发新的教育测量模型，也较适于普通用户在应用场景使用。
+
+关键词变分推断；项目反应理论；认知诊断模型；神经网络
+
+# 1引言
+
+教育测量模型的研究与应用离不开参数估计算法的开发。项目反应理论（IRT）和认知诊断模型（CDM）是当今主流教育测量模型，常用的参数估计方法有MCMC 算法、EM算法等。
+
+MCMC 是广泛应用于IRT 和CDM的参数估计算法(Lu等,2018;Luo 等,2017; Zhan 等,2019)。MCMC 的优势是有 STAN(Carpenter 等,2017)和 JAGS(Plummer,2003)等软件供研究者使用，研究者只需编写少量代码便能应用MCMC进行参数估计，因此研究者常用MCMC开发参数较多、结构较复杂的模型，例如HO-DINA 模型诞生之初便是应用MCMC 进行参数估计(Torre 等,2004)。MCMC 的缺点是计算耗时、内存消耗大，所以研究者开发新模型时需要拥有较大的耐心和较强的算力，而从用户的角度出发，MCMC 的这些缺点导致其难以应用于教育测量生产环境。
+
+EM算法是另一种常用的 IRT 和CDM参数估计算法(R.D.Bock 等,1982;R.DarrellBock等,1988;Torre,2009,2011)，并且在应用软件开发中取得了良好的效果(Chalmers,2012;Chung等,2020;Ma等,2020)。比较有名气的EM算法是R.D.Bock等(1982)开发的BAEM，此外EM 家族中还包括自适应积分算法(Schilling 等,2005)，拉普拉斯近似算法(Huber 等,2004),蒙特卡洛期望极大（MCEM）算法(Meng等,1996)等，这些算法的提出是为了处理高维潜变量 IRT 模型，但Cai (2010)指出上述算法依然不适用于高维 IRT 模型，所以Cai (2010)又开发了可以看作是随机EM的MHRM。另外，虽然已有基于随机优化的EM算法应用于教育测量模型(S.L.Zhang 等,2020)，但这些研究没有使用小批量优化（mini batch）和方差缩减技术，导致 EM 算法在大样本下的参数估计较为困难。最后，EM 算法对研究者的数学与代码功底有一定要求，所以研究者难以应用EM算法开发参数较多、结构较复杂的模型，典型案例是前面所提的 HO-DINA 模型，多年以后才有 EM 算法的参数估计实现形式(Ma 等,2020)。
+
+随着人工智能的发展，为解决大样本和多参数下贝叶斯模型的参数估计，计算机研究者发展了变分推断算法，并将该算法介绍给统计学研究者(Blei等,2017)，统计学研究者也开始使用变分推断(C.Zhang 等,2019)。教育测量领域也有研究者建议使用变分推断进行参数估计(Linden,2016)。随着概率编程软件的发展，变分推断的门槛不断降低，以至于可以像MCMC一样，研究者仅需编写少量代码，即可完成参数估计程序，易用性上超过EM算法，同时变分推断的运算时间少于MCMC 算法(C.Zhang 等,2019)，所以变分推断可能是非常适合教育测量模型的参数估计算法。
+
+目前关于变分推断应用于教育测量模型的研究较少(Wu等,2020)，大部分涉及变分推断的教育测量模型研究主要集中于坐标上升变分推断(Cho 等,2020;Hui等,2017;Imai等,2016;Yamaguchi,2020;Yamaguchi等,2020)，基于机器学习思想发展而来且可应用概率编程软件的黑盒变分推断（black box variational inference）与均摊变分推断(amortized variationalinference)的相关研究较少，仅有 IRT参数估计的相关研究(Chen,2017;Curi等,2019;Natesan等,2016;Wu等,2020)，CDM方面暂时还是一片空白（Minka (2009)曾经以变分推断的名义展示 DINA 模型的参数估计，但实际使用的是期望传播)。坐标上升变分推断(Blei 等,2017)需要研究者手动推导参数分布的期望解析式，有一定的技术门槛，且只适合可以求出参数分布期望解析式的模型，该算法通用性与易用性较差。黑盒变分推断与均摊变分推断可基于概率编程软件（pyro(Bingham 等,2019)、edward(Tran 等,2016)和 pymc3(Salvatier 等,2016)等）编写代码，易用性较高。黑盒变分推断与均摊变分推断在教育测量研究中存在的问题主要有：一是损失函数梯度的选取，Wu 等 (2020)和Curi 等 (2019)的梯度计算均是依据重参数算法(Kingma 等,2014)，CDM是否能应用重参数算法进行参数估计还亟待研究，此外，当前还缺乏应用 REINFORCE 梯度的研究，二是Wu等 (2020)和Curi等 (2019)的研究均是假设 IRT潜变量的后验方差协方差矩阵是对角矩阵，而对角矩阵的信息量明显低于任意方差协方差矩阵，三是 ${ \mathrm { W } } { \mathrm { u } } $ 等 (2020)和Curi等 (2019)没有进行参数返真性实验，关于 IRT参数的返真性问题还有待研究。
+
+综上所述，变分推断是极具潜力的教育测量模型参数估计方法。本研究进一步展示黑盒变分推断和均摊变分推断在IRT的应用，并补上黑盒变分推断和均摊变分推断在CDM上的应用空白。
+
+# 2变分推断
+
+# 2.1损失函数
+
+变分推断的原理是用简单的分布逼近复杂的真实分布。变分推断的损失函数称为ELBO（EvidenceLower Bound)，具体公式是
+
+$$
+\begin{array} { r } { \mathrm { E L B O } \equiv \mathbb { E } _ { q _ { \phi } ( \mathbf { z } ) } [ \log p _ { \theta } ( \mathbf { x } , \mathbf { z } ) - \log q _ { \phi } ( \mathbf { z } ) ] } \end{array}
+$$
+
+这个公式由计算简单的分布与复杂的真实分布的KL距离而来，即
+
+$$
+\begin{array} { r l } { \mathrm { K L } ( \mathtt { q } _ { \phi } ( \mathbf { z } ) \| \mathtt { p } _ { \theta } ( \mathbf { z } | \mathbf { x } ) ) } & { = \log p _ { \theta } ( \mathbf { x } ) - \mathrm { E L B O } } \end{array}
+$$
+
+上面的公式中， $\boldsymbol { \Phi }$ 是变分参数，对于IRT来说， $\boldsymbol { \Phi } = \{ \boldsymbol { \mu } , \boldsymbol { \sigma } \}$ ， $\mu$ 是正态分布的local参数，σ是正态分布的 scale 参数，对于CDM， $\boldsymbol \Phi = \{ \boldsymbol { \mathrm p } \}$ ，p可以是伯努利分布的参数，也可以是分类分布(categorical distribution)的参数。
+
+# 2.2 平均场
+
+变分推断用简单的近似分布拟合真实分布，而简单的近似分布通常描述成平均场的形式，假设参数为 $\Phi _ { \mathrm { i } }$ ，参数的分布为 $\mathbf { q } _ { \mathrm { i } } ( \phi _ { i } )$ ，则平均场为 $\begin{array} { r } { \mathrm { q } ( \boldsymbol { \Phi } ) = \prod _ { \mathrm { i } } \mathsf { q } _ { \mathrm { i } } ( \phi _ { i } ) } \end{array}$ 。平均场的优势：一是简化了近似分布的形式，二是可以利用动态图进行损失的反向传播(Wingate 等,2013)。
+
+# 2.3坐标上升变分推断
+
+Hui等 (2017)和Imai等 (2016)应用坐标上升变分推断实现了2参数 probit 模型的参数估计，Yamaguchi (2020); Yamaguchi 等(2020）利用坐标上升变分推断实现对 DINA 模型和MC-DINA模型的参数估计。
+
+坐标上升变分推断类似于Gibbs采样，即不断计算参数的期望，具体简略形式如下
+
+$$
+\log ( \phi _ { i } ( \theta _ { i } ) ) \propto \operatorname { E } _ { \phi _ { i } \notin \phi } ( \log ( f ( y | \phi ) ) + \log ( p ( \phi ) ) )
+$$
+
+坐标上升变分推断的缺点是难以推广到多参数IRT，也难以推广到基于logit函数的 IRT（严格来说可以用近似的方式处理，但较为复杂(Ormerod等,2010))。
+
+# 2.4黑盒变分推断
+
+黑盒变分推断是Ranganath 等 (2014)提出的算法。英语流利说(Chen,2017)和 Natesan 等(2016)应用概率编程软件 edward 和pyro 实现了一维IRT 的黑盒变分推断参数估计。黑盒变分推断的参数估计流程是，一是对变分参数 $\Phi$ 求梯度得到
+
+$$
+\nabla _ { \phi } \mathrm { E L B O } = \mathbb { E } _ { \mathbf { q } _ { \phi } ( \mathbf { z } ) } \{ [ \nabla _ { \phi } \log { \mathbf { q } _ { \phi } ( \mathbf { z } ) } ] [ \log { \mathbf { p } ( \mathbf { x } , \mathbf { z } ) } - \log { \mathbf { q } _ { \phi } ( \mathbf { z } ) } ] \}
+$$
+
+从分布 $\mathbf { q } _ { \Phi } ( z )$ 中采样 ${ \bf z } _ { s }$ ， $s = \{ 1 2 3 \ \dots \ \mathrm { { S } } \}$
+
+于是得到变分参数的近似梯度
+
+$$
+\nabla _ { \phi } \mathrm { E L B O } = \frac { 1 } { \mathrm { S } } \sum _ { s = 1 } ^ { s } \{ [ \nabla _ { \phi } \log { \bf q } _ { \phi } ( \mathbf { z } _ { s } ) ] [ \log { \bf p } ( \mathbf { x } , \mathbf { z } _ { s } ) - \log { \bf q } _ { \phi } ( \mathbf { z } _ { s } ) ] \}
+$$
+
+然后更新变分参数
+
+$$
+\phi = \phi + \rho \frac { 1 } { S } \sum _ { s = 1 } ^ { S } \{ [ \nabla _ { \phi } \log q _ { \phi } ( z _ { s } ) ] [ \log p ( \mathbf { x } , \mathbf { z } _ { s } ) - \log \mathbf { q } _ { \phi } ( \mathbf { z } _ { s } ) ] \}
+$$
+
+上式中p是RobbinsMonro 系数，主要应用于随机优化。
+
+重复上述步骤直至变分参数 $\Phi$ 收敛。
+
+# 2.5均摊变分推断
+
+黑盒变分推断的劣势是大样本下潜变量参数量会爆炸，同时如果遇到新样本，黑盒变分推断需要重新学习，所以研究者提出了均摊变分推断(C.Zhang 等,2019)。比较典型的均摊变分推断即变分自编码器(Kingma等,2014)，变分自编码器的思想是将神经网络作为分布参数的生成函数，这是利用了神经网络的万能逼近性质(Homik等,1989)。应用均摊变分推断，近似分布 ${ \mathfrak { q } } _ { \Phi _ { \mathrm { i } } } ( \mathbf { z } _ { \mathrm { i } } )$ 改写为 $\mathsf { q } _ { \mathrm { f } ( \mathbf { x } _ { \mathrm { i } } ) } ( \mathbf { z } _ { \mathrm { i } } )$ 。均摊变分推断常应用于图像生成等人工智能任务。
+
+# 2.6重参数化
+
+教育测量模型即包含项目参数，又包含潜变量参数，所以计算梯度时会遇到下式
+
+$$
+\nabla _ { \boldsymbol { \theta } , \phi } \mathrm { E L B O } = \nabla _ { \boldsymbol { \theta } , \phi } \mathbb { E } _ { q _ { \phi } ( \mathbf { z } ) } [ \log p _ { \theta } ( \mathbf { x } , \mathbf { z } ) - \log q _ { \phi } ( \mathbf { z } ) ]
+$$
+
+直接计算上式梯度较为困难，所以需要小技巧，例如重参数化。
+
+正态分布的重参数方法，假设 $\mathbf { z } \sim \mathcal { N } ( \mu , \sigma )$ ，令 $\mathbf { \epsilon } \in \sim \mathcal { N } ( 0 , 1 )$ ，则 $\mathbf { z } = \boldsymbol { \epsilon } * \boldsymbol { \sigma } + \boldsymbol { \mu } $ ，则ELOB的梯度为
+
+$$
+\nabla _ { \theta , \mu , \sigma } \mathrm { E L B O } = \mathbb { E } _ { q ( \epsilon ) } [ \nabla _ { \theta } \log p _ { \theta } ( \mathbf { x } , \mathbf { z } ) - \nabla _ { \mu , \sigma } ] \log q _ { \mu , \sigma } ( \epsilon * \mu + \sigma ) ]
+$$
+
+该重参数方法可应用于IRT，VIBO算法( $\mathrm { W u }$ 等,2020)便基于此重参数方法。
+
+离散潜变量的重参数方法，存在一种叫 Gumbel Softmax 的算法(Jang 等,2017)。GumbelSoftmax的流程是假设二维向量 $v$ ，从标准Gumbel分布中采样 $G _ { 1 } , G _ { 2 }$ ，对应相加得到新的向量 $v ^ { \prime } = [ v _ { 1 } + G _ { 1 } , v _ { 2 } + G _ { 2 } ]$ ，通过 softmax 函数计算概率大小得到最终的类别，即 $\sigma _ { \tau } ( v _ { i } ^ { \prime } ) =$ $\frac { e ^ { v _ { i } ^ { \prime } / \tau } } { \sum _ { j = 1 } ^ { n } e ^ { v _ { j } ^ { \prime } / \tau } } \textmd { e }$ 其中 $\tau$ 是温度参数。CDM理论上可以应用该方法的HARD 模式（StraightThroughGumbel-Softmax）。
+
+# 2.7REINFORCE
+
+REINFORCE是另一种计算梯度的方法。REINFORCE 梯度的数学形式如下$\nabla _ { \theta , \phi } \mathrm { E L B O } = \mathbb { E } _ { q _ { \phi } ( \mathbf { z } ) } \{ \nabla _ { \phi } \log q _ { \phi } ( \mathbf { z } ) [ \log p _ { \theta } ( \mathbf { x } , \mathbf { z } ) - \log q _ { \phi } ( \mathbf { z } ) ] + \nabla _ { \theta } \log p _ { \theta } ( \mathbf { x } , \mathbf { z } ) - \nabla _ { \phi } \log q _ { \phi } ( \mathbf { z } ) \}$
+
+该方法既可用于连续潜变量的梯度计算，也可用于离散潜变量的梯度计算。该方法在人工智能中常用于强化学习(Williams,1992)，缺点是随机梯度的方差较大，但是可以应用方差缩减技术尽力克服该缺点。
+
+# 2.8随机优化与方差缩减
+
+变分推断多应用于大规模数据集，所以研究者发展了随机优化和方差缩减的技术(Hoffman 等,2013;Ranganath 等,2014)，随机优化即每次从样本中采样小批量样本计算随机梯度。为了减少随机梯度的方差，研究者开发了包括 Rao-Blackwellization 和ControlVariates等方差缩减方法(Ranganath 等,2014)。
+
+# 3实验
+
+# 3.1模型
+
+模型公式中参数的下标i代表样本序号，下标j代表项目（试题）序号， $y _ { i j }$ 是输入数据（作答数据)。
+
+# 3.1.1项目反应理论
+
+实验选取的模型是2-4参数IRT模型。
+
+IRT模型的数学形式如下。
+
+$$
+\left. P ( y _ { i j } \left| X _ { i } ) \right. \right. = c _ { j } + \frac { d _ { j } - c _ { j } } { 1 + e x p ( X _ { i } \mathbf { a } _ { j } + b _ { j } ) } , 0 < c _ { j } < d _ { j } < 1
+$$
+
+上式中 $X _ { i }$ 是潜变量。
+
+# 3.1.2认知诊断模型
+
+实验选取的模型是DINA模型和HO-DINA模型
+
+DINA模型的数学形式如下。
+
+$$
+\mathrm { P } \big ( \mathrm { y _ { i j } } | \alpha _ { \mathrm { i } } \big ) = \mathrm { g _ { j } } ^ { 1 - \eta _ { \mathrm { i j } } } \big ( 1 - \mathrm { s _ { j } } \big ) ^ { \eta _ { \mathrm { i j } } } , 0 < g _ { j } < 1 , 0 < s _ { j } < 1 , 0 < g _ { j } + s _ { j } < 1
+$$
+
+或Torre (2011)的重参数化版本
+
+$$
+\mathrm { P } ( y _ { i j } | \alpha _ { i } ) = f _ { j } + d _ { j } \eta _ { i j } , 0 < f _ { j } < 1 , 0 < f _ { j } + d _ { j } < 1
+$$
+
+上式中 $\begin{array} { r } { \eta _ { \mathrm { i j } } = \prod _ { k = 1 } ^ { K } \alpha _ { \mathrm { i k } } ^ { \mathbf { q } _ { \mathrm { j k } } } } \end{array}$ ， $\alpha _ { i } = [ \alpha _ { i 1 } , \alpha _ { i 2 } , \ldots , \alpha _ { i K } ] \mathrm { ~ _ { c } ~ }$ （20号
+
+HO-DINA模型的数学形式如下
+
+$$
+\mathrm { P } ( \alpha _ { i k } | \theta _ { i } ) = \frac { \exp ( \theta _ { i } \lambda _ { 1 k } + \lambda _ { 0 k } ) } { 1 + \exp ( \theta _ { i } \lambda _ { 1 k } + \lambda _ { 0 k } ) } , \ : \alpha _ { i k } \sim \mathcal { B } e r n \sigma u \ell \ell i \big ( P ( a _ { i k } | \theta _ { i } ) \big )
+$$
+
+上式中 $\alpha _ { \mathrm { i } }$ 是离散潜在变量（属性掌握模式)， $q _ { j k }$ 是 $Q$ 矩阵的元素。
+
+# 3.2参数估计
+
+实验代码基于pyro 和pytorch 编写，损失函数梯度基于REINFORCE，仅在CDM中实验重参数梯度（基于Gumbel Softmax方法)，方差缩减基于Rao-Blackwellization方法。实验
+
+默认潜变量为随机参数，项目参数为确定参数，蒙特卡洛采样潜变量时只采样1个样本。
+
+# 3.2.1黑盒变分推断
+
+一维 IRT 模型。潜变量的先验分布是 $x _ { i } \sim \mathcal { N } ( 0 , 1 )$ ，潜变量后验分布是 $x _ { i } \sim \mathcal N ( \mu _ { i } , \sigma _ { i } ^ { 2 } )$ 。该方法与Wu等 (2020)的方法一致。
+
+多维IRT模型。潜变量的先验分布 $X _ { i } \sim \mathcal { N } ( 0 , I )$ 。后验分布 $X _ { i } \sim \mathcal { N } ( \mu _ { i } , \Sigma _ { i } )$ ， $\textstyle \sum _ { i }$ 是任意方差协方差矩阵。
+
+DINA 模型。一是参考 Culpepper (2015)的 Gibbs 算法实现， $\pmb { \alpha } _ { i } = [ \pmb { \alpha } _ { i 0 } , \pmb { \alpha } _ { i 1 } , \dots , \pmb { \alpha } _ { i m } ]$ $\pmb { \alpha } _ { i 0 } = [ 0 , 0 , \ldots , 0 ]$ ， $\pmb { \alpha } _ { i 0 } = [ 1 , 0 , \dots , 0 ]$ 等，若属性掌握模式的维度为 $K$ ，则 $\pmb { \alpha } _ { i }$ 列表中包含 $2 ^ { K }$ 个元素，随机的从 $\pmb { \alpha } _ { i }$ 中采样 ${ \pmb { \alpha } } _ { i h }$ ， $\pmb { \alpha } _ { i h } \sim c a t e g e r i c a t ( \operatorname { \lbrack p } _ { i 0 } , p _ { i 1 } , \dots , p _ { i m } ] )$ ， $\pmb { \alpha } _ { i h }$ 的先验分布是 ${ \pmb { \alpha } } _ { i h } \sim$ $c a t e g \sigma \mathcal { r } i c a \ell ( [ 1 , 1 , \ldots , 1 ] )$ ，该设定仅在低维属性掌握模式实验中使用；二是属性掌握模式的先验分布是 $\alpha _ { i k } \sim \mathcal { B } e r n \sigma u \ell \ell i ( 0 . 5 )$ ，属性掌握模式的后验分布是 $\alpha _ { i k } \sim \mathcal { B } e r n \sigma u \ell \ell i ( p _ { k i } )$ 该设定仅在高维属性掌握模式实验中使用。
+
+HO-DINA模型。同样参考Culpepper(2015)的Gibbs算法实现。高阶特质的先验分布是$\theta _ { i } \sim \mathcal { N } ( 0 , 1 )$ ，高阶特质后验分布是 $\theta _ { i } \sim \mathcal N ( \mu _ { i } , \sigma _ { i } ^ { 2 } )$ 。设 $\pmb { \alpha } _ { i h } = [ \alpha _ { i 1 } , \alpha _ { i 2 } . . . , \alpha _ { i k } , . . . ]$ ，则 $p _ { i h } =$ （204号 $\Pi \mathrm { P } ( \alpha _ { i k } | \boldsymbol { \theta } _ { i } )$ ，然后随机的从 $\pmb { \alpha } _ { i }$ 的列表中采样属性掌握模式 ${ \pmb { \alpha } } _ { i h }$ ， ${ \pmb { \alpha } } _ { i h } \sim$ $c a t e g o r r i c a \ell ( [ p _ { i 0 } , p _ { i 1 } , \dots , p _ { i m } ] ) \circ$
+
+# 3.2.2均摊变分推断
+
+一维IRT模型。与 ${ \mathrm { W } } { \mathrm { u } } $ 等 (2020)方案一致，先验分布是标准正态分布，后验分布参数的生成器模型
+
+$$
+h _ { i } = g ( y _ { i } )
+$$
+
+$$
+\log { \sigma _ { i } } ^ { 2 } = W _ { \sigma } h _ { i } + b _ { \sigma }
+$$
+
+上式中 $g$ 是激活函数。
+
+![](images/a4bbb76161dcd48c92e760be0b32eb6d8b04d0e62e9c332df139d7c6a89598b1.jpg)  
+图1多维IRT潜变量生成器
+
+多维IRT模型。后验分布local参数的生成器模型
+
+$$
+\begin{array} { l } { { h _ { i } = g ( y _ { i } ) } } \\ { { \ } } \\ { { \mu _ { i } = w _ { \mu } h _ { i } + b _ { \mu } } } \end{array}
+$$
+
+后验分布方差协方差矩阵参数的生成器
+
+$$
+\begin{array} { r } { \mathrm { t r i l } ( L _ { i } ^ { * } ) = W _ { L } h _ { i } + b _ { L } \qquad } \\ { L _ { i } = \mathrm { t r i l } _ { - } ( L _ { i } ^ { * } ) + \exp \bigl ( \mathrm { d i a g } ( L _ { i } ^ { * } ) \bigr ) \qquad } \\ { \Sigma _ { i } = L _ { i } L _ { i } ^ { T } \qquad } \end{array}
+$$
+
+tril代表取矩阵的下三角元素，tril_代表取矩阵下三角元素且不包括对角线元素。
+
+还有一种是潜变量共享方差协方差矩阵，生成器形式如下
+
+$$
+\begin{array} { l } { { \displaystyle \mathrm { t r i l } ( L ^ { * } ) = \frac { \mathrm { \sum t r i l } ( L _ { i } ^ { * } ) } { N } } } \\ { { L = \mathrm { t r i l } _ { - } ( L ^ { * } ) + \exp ( \mathrm { d i a g } ( L ^ { * } ) ) } } \\ { { \displaystyle \Sigma = L L ^ { T } } } \end{array}
+$$
+
+上式中 $N$ 是 minibatch 的大小。
+
+先验分布的设定，除了 $X _ { i } \sim \mathcal { N } ( 0 , I )$ ，均摊变分推断还引入 $\setminus X _ { i } \sim \mathcal { N } ( 0 , \Omega )$ 或 $X _ { i } \sim \mathcal { N } ( 0 , \Omega _ { \mathrm { i } } )$ $\Omega$ 是相关矩阵， $\Omega$ 的计算与约束参照 stan 软件的方案(StanDevelopmentTeam,2019)。使用神经网络计算的 $\Omega$ ，实验称为神经相关矩阵。
+
+![](images/40c36f38dbbacdaa5b522c7540c6e2d0467c787db7ed02f165ae7032718ada42.jpg)  
+图2神经相关矩阵
+
+该形式受离散变分自编码器的先验分布可以是受限玻尔兹曼机而启发。 $X _ { i } \sim \mathcal { N } ( 0 , I )$ 等价于 $L _ { 2 }$ 惩罚，所以先验分布是对没有量纲的潜变量参数进行约束(Baker等,2004)，相关矩阵的对角线保证了潜变量参数的量纲约束，而相关系数的自由估计又保证了更多信息的纳入。
+
+![](images/4bf853c0d75086336ae14aab7890952f3705a6efa558e96cfbb1440d765e3b71.jpg)  
+图3DINA模型属性掌握模式生成器1
+
+![](images/fd53fe3a19073438a27452fe5b907d7de55f2a99ce3910ac00b281e758502d02.jpg)  
+图4DINA模型属性掌握模式生成器2
+
+DINA模型。参考Culpepper (2015)实现的后验分布生成器是
+
+$$
+h _ { i } = g ( y _ { i } )
+$$
+
+$$
+p _ { i m } =  { \mathrm { s o f t m a x } } ( h _ { i } )
+$$
+
+与黑盒变分推断第二种形式一致的后验分布生成器
+
+$$
+\begin{array} { c } { { h _ { i } = g ( y _ { i } ) } } \\ { { \ } } \\ { { p _ { i k } = \mathrm { s i g m o i d } ( h _ { i } ) } } \end{array}
+$$
+
+先验分布与黑盒变分推断一致。
+
+HO-DINA模型。后验分布生成器和先验分布与一维项目反应模型一致。
+
+# 3.2.3缺失数据
+
+实验把所有缺失数据当作可以忽略的缺失数据。实验不删除存在缺失数据的样本，除非该样本所有数据为缺失数据。缺失数据带入神经网络计算时，将缺失数据赋值为-1。
+
+# 3.2.4模型识别
+
+实验采用与Fraser 等(1988)一致的多维 IRT模型识别方法，flexmirt和R包mirt 也采用此方法。
+
+# 3.2.5与VIBO的区别
+
+VIBO(Wu 等,2020)是另一种变分推断算法，现有的基于黑盒变分推断与均摊变分推断的教育测量模型参数估计算法均可以看作是VIBO。
+
+损失梯度。VIBO 基于重参数化,实验基于REINFORCE（除CDM会应用Gumbel Softmax重参数化进行实验)，VIBO无法应用于CDM，实验可以应用于CDM。
+
+多维IRT潜变量后验分布。VIBO的方差协方差矩阵为对角矩阵，实验的方差协方差矩阵为任意矩阵。
+
+多维IRT潜变量先验分布。VIBO的方差协方差矩阵是单位矩阵，实验的方差协方差矩阵有单位矩阵和和神经相关矩阵。
+
+缺失数据。VIBO较为复杂，实验实现较为简单。
+
+# 3.3真实数据
+
+# 3.3.1LSAT
+
+LSAT是Thissen(1982)发布的用于测试 IRT模型的作答数据，来源于美国法学院入学委员会的法学院入学考试。LSAT总共拥有1000 样本，5道试题。
+
+# 3.3.2PISA
+
+PISA 是OECD 进行的15岁学生阅读、数学、科学能力评价研究项目。实验选取的是Wu 等 (2020)清洗后的PISA 科学测试数据，二级计分，519334个样本，183题，其中有 73283个全部数据为空的样本，去除空样本后，最终保留 446051个样本，这些样本中包含69014909个缺失数据，总计缺失约 $8 5 \%$ 数据，仅有 $1 5 \%$ 的数据有效。
+
+# 3.3.3ECPE
+
+ECPE 全称英语水平证书考试（examination for the certificate of proficiency in English），总共包含 2922个样本，28 道试题，3种属性，已在Feng 等 (2014)等研究中使用过。
+
+# 3.4模拟数据
+
+如不加特殊说明，IRT模型的题量设定是50，CDM的题量设定是100，每次实验模拟10 份数据。
+
+# 3.4.1项目反应理论
+
+$a _ { k j } \sim u n i \# ( 0 . 5 , 3 ) , \ b _ { j } \sim \mathcal { N } ( 0 , 1 ) , \ c _ { j } \sim u n i \# ( 0 . 0 5 , 0 . 2 ) , \ d _ { j } \sim u n i \# ( 0 . 8 , 0 . 9 5 ) , \ d _ { k } \sim \ \# ( 0 . 0 2 )$ $a _ { k j }$ 是第$k$ 维度上的斜率， $X _ { i } \sim \mathcal { N } ( 0 , I )$ 或試 $\boldsymbol { X _ { i } } \sim \mathcal { N } ( 0 , \underset { c o r r } { \overset { 1 } { \underset { c o r r } { } } } \quad \overset { c o r r } { \underset { 1 } { \overset { 1 } { \prod } } } )$ ，corr取值0.3.0.507。
+
+# 3.4.2认知诊断模型
+
+第一种：gj\~unif(0,0.3)，sj～unif(0,0.3)，qkj～ bernoulli(0.5)， $\alpha _ { i k }$ ～bernoulli(0.5), $\lambda _ { i 0 } \sim \mathcal { N } ( 0 , 1 )$ ， $\lambda _ { i 1 } \sim u n i \beta ( 0 . 5 , 3 )$ ，属性掌握模式的维度设定为5。
+
+第二种：参考Li等 (2020)的模拟方案， $g _ { j } \sim u n i \beta ( 0 , 0 . 3 )$ ， $s _ { j } \sim u n i \ell ( 0 , 0 . 3 ) , ~ $ $Q$ 矩阵为$\mathrm { Q } = \left[ { \begin{array} { l } { I _ { K } } \\ { Q _ { 1 } } \\ { Q _ { 2 } } \end{array} } \right] \circ$ $I _ { K }$ 是 $K$ 维单位矩阵。 $Q _ { 1 } \in \{ 0 , 1 \} _ { K \times K }$ ， $Q _ { 1 }$ 元素下标为 $( i , i )$ 元素为1， $i = 1 , 2 , \dots , K$ ，下标为 $( i , i + 1 )$ 元素为1， $i = 1 , 2 , \dots , K - 1$ ，其余元素为0。 $Q _ { 2 } \in \{ 0 , 1 \} _ { K \times K }$ ， $Q _ { 2 }$ 元素下标为$( i , i )$ 元素为1， $i = 1 , 2 , \dots , K$ ，下标为 $( i , i + 1 )$ 元素为1， $i = 1 , 2 , \dots , K - 1$ ，下标为 $( i , i - 1 )$ 元素为1， $i = 2 , 3 , \dots , K$ ，其余元素为0。属性掌握模式的设定为 $\theta _ { i } = [ \theta _ { i 1 } , \theta _ { i 2 } , \dots \theta _ { i K } ]$ ， $\theta _ { i } \sim$ $\mathcal { N } ( 0 , \Omega )$ ， $\Omega$ 是除了对角线元素为1，其他元素为 $\boldsymbol { \rho }$ 的矩阵，实验设置 $\mathbf { \varepsilon } _ { \rho } = 0 . 3$ 。该设定仅用于实验维度较高的属性掌握模式。
+
+# 3.4.3缺失数据模拟
+
+缺失数据模拟设定缺失 $90 \%$ 的数据。
+
+# 3.5对照软件及算法
+
+IRT实验的主要对照软件是flexmirt3.6.2(Chung等,2020)和Wu等(2020)开发的VIBO。实验对照算法是 BAEM、MHRM和 VIBO。仅在四参数模型时用R包MIRT1.32.8(Chalmers,2012)代替 flexmirt。
+
+CDM实验的对照软件是R包GDINA2.8.0，对照算法是EM。
+
+# 3.6硬件环境
+
+实验环境的 CPU 是 Intel(R) Xeon(R) Gold 5217 3.00GHz，内存是 64G。
+
+# 4实验结果
+
+# 4.1真实数据
+
+对于真实数据,仅使用均摊变分推断进行参数估计。评测指标使用AUC(McClish,1989)。所有的真实数据均拆分成测试集和验证集，数据拆分比例是8:2。
+
+# 4.1.1项目反应理论
+
+实验应用二参数IRT对数据进行分析。
+
+表1LSAT参数估计拟合统计量  
+
+<html><body><table><tr><td rowspan="2">先验分布</td><td rowspan="2">维度</td><td colspan="2">测试集</td><td colspan="2">验证集</td></tr><tr><td>AUC</td><td>边际似然</td><td>AUC</td><td>边际似然</td></tr><tr><td rowspan="3">单位矩阵</td><td>1维</td><td>0.863</td><td>-2324</td><td>0.870</td><td>-586</td></tr><tr><td>2维</td><td>0.880</td><td>-2197</td><td>0.889</td><td>-555</td></tr><tr><td>5维</td><td>0.944</td><td>-2378</td><td>0.950</td><td>-597</td></tr><tr><td rowspan="2">神经相关矩阵</td><td>2维</td><td>0.903</td><td>-2180</td><td>0.911</td><td>-549</td></tr><tr><td>5维</td><td>1.0</td><td>-1292</td><td>1.0</td><td>-336</td></tr></table></body></html>
+
+表2PISA参数估计拟合统计量  
+
+<html><body><table><tr><td rowspan="2">先验分布</td><td rowspan="2">维度</td><td colspan="2">测试集</td><td colspan="2">验证集</td></tr><tr><td>AUC</td><td>边际似然</td><td>AUC</td><td>边际似然</td></tr><tr><td rowspan="3">单位矩阵</td><td>1维</td><td>0.832</td><td>-5607747</td><td>0.831</td><td>-1401557</td></tr><tr><td>2维</td><td>0.835</td><td>-5612647</td><td>0.835</td><td>-1402651</td></tr><tr><td>5维</td><td>0.835</td><td>-5625003</td><td>0.835</td><td>-1405852</td></tr><tr><td rowspan="2">神经相关矩阵</td><td>5维</td><td>0.860</td><td>-5343834</td><td>0.860</td><td>-1335769</td></tr><tr><td>10维</td><td>0.894</td><td>-4841089</td><td>0.894</td><td>-1211230</td></tr></table></body></html>
+
+表1和表2显示：（一）先验分布为神经相关矩阵比单位矩阵的拟合性能高；（二）高维模型比低维模型的拟合性能高。总体上，变分推断在LSAT和PISA上的拟合性能较为出色。
+
+![](images/50f7b139fa935e720dccd8c25f363e9b06a7e6b63fca75882583dd857e7aebdc.jpg)  
+图5PISA数据1O维参数分布
+
+# 4.1.2认知诊断模型
+
+表3ECPE参数估计拟合统计量  
+
+<html><body><table><tr><td rowspan="2">模型</td><td rowspan="2">高阶特质维度</td><td colspan="2">测试集</td><td colspan="2">验证集</td></tr><tr><td>AUC</td><td>边际似然</td><td>AUC</td><td>边际似然</td></tr><tr><td>DINA</td><td>NA</td><td>0.796</td><td>-31417</td><td>0.796</td><td>-7832</td></tr><tr><td>HO-DINA</td><td>1维</td><td>0.754</td><td>-40633</td><td>0.753</td><td>-10075</td></tr></table></body></html>
+
+<html><body><table><tr><td>2维</td><td>0.746</td><td>-40752</td><td>0.745</td><td>-10128</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+表3显示：DINA模型性能比HO-DINA 较好。总体上，变分推断在ECPE上的拟合性能尚可。
+
+# 4.2模拟数据
+
+实验结果中，BBVI代表黑盒变分推断，AI代表均摊变分推断， $a$ 、b、c、d、 $x$ 代表IRT 中相应的参数， $g$ 、s、 $\lambda _ { 0 }$ 、 $\lambda _ { 1 }$ 代表CDM中相应的参数。表格中的数字代表RMSE 的平均数，括号内的数字代表RMSE的标准差。
+
+# 4.2.1项目反应理论
+
+表4一维IRT参数估计返真RMSE  
+
+<html><body><table><tr><td>样本</td><td>模型</td><td>算法</td><td>a</td><td>b</td><td>C</td><td>d</td><td>平均耗时 (秒)</td></tr><tr><td rowspan="6">500</td><td></td><td>BBVI</td><td>0.24(0.03)</td><td>0.24(0.03)</td><td>0.05(0.005)</td><td>NA</td><td>12</td></tr><tr><td>3参数</td><td>AI</td><td>0.24(0.02)</td><td>0.23(0.03)</td><td>0.05(0.004)</td><td>NA</td><td>8</td></tr><tr><td></td><td>BAEM</td><td>0.31(0.05)</td><td>0.33(0.04)</td><td>0.07(0.007)</td><td>NA</td><td>3.5</td></tr><tr><td></td><td>BBVI</td><td>0.38(0.03)</td><td>0.38(0.05)</td><td>0.05(0.005)</td><td>0.06(0.005)</td><td>16</td></tr><tr><td>4参数</td><td>AI</td><td>0.36(0.04)</td><td>0.35(0.04)</td><td>0.05(0.006)</td><td>0.04(0.005)</td><td>12</td></tr><tr><td></td><td>BAEM</td><td>0.43(0.06)</td><td>1.02(0.74)</td><td>0.4(0.05)</td><td>0.04(0.06)</td><td>8</td></tr><tr><td rowspan="6">1000</td><td></td><td>BBVI</td><td>0.20(0.03)</td><td>0.19(0.03)</td><td>0.05(0.008)</td><td>NA</td><td>11</td></tr><tr><td>3参数</td><td>AI</td><td>0.19(0.02)</td><td>0.18(0.02)</td><td>0.05(0.007)</td><td>NA</td><td>8</td></tr><tr><td></td><td>BAEM</td><td>0.19(0.02)</td><td>0.25(0.04)</td><td>0.07(0.01)</td><td>NA</td><td>11</td></tr><tr><td></td><td>VI</td><td>0.37(0.04)</td><td>0.33(0.05)</td><td>0.05(0.005)</td><td>0.05(0.005)</td><td>24</td></tr><tr><td>4参数</td><td>AI</td><td>0.32(0.04)</td><td>0.28(0.03)</td><td>0.05(0.005)</td><td>0.05(0.005)</td><td>17</td></tr><tr><td></td><td>BAEM</td><td>0.35(0.03)</td><td>0.68(0.64)</td><td>0.04(0.004)</td><td>0.04(0.003)</td><td>1</td></tr></table></body></html>
+
+表5多维IRT参数估计返真RMSE  
+
+<html><body><table><tr><td>样本</td><td>模型</td><td>算法</td><td>a</td><td>b</td><td>平均耗时（秒)</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="2"></td><td colspan="4"></td></tr><tr><td rowspan="4">1000</td><td rowspan="4">2维2参数</td><td>BBVI</td><td>016(0.02)</td><td>0.09(0.01)</td><td>24</td></tr><tr><td>AI</td><td>0.14(0.02)</td><td>0.09(0.01)</td><td>24</td></tr><tr><td>VIBO</td><td>1.29(0.11)</td><td>0.11(0.03)</td><td>61</td></tr><tr><td>MHRM</td><td>0.13(0.01)</td><td>0.13(0.01)</td><td>54</td></tr><tr><td rowspan="3">2000</td><td rowspan="3">3维2参数</td><td>BBVI</td><td>0.17(0.04)</td><td>0.06(0.01)</td><td>95</td></tr><tr><td>AI</td><td>0.14(0.02)</td><td>0.08(0.01)</td><td>34</td></tr><tr><td>MHRM</td><td>0.13(0.01)</td><td>0.10(0.01)</td><td>126</td></tr><tr><td rowspan="3">3000</td><td rowspan="3">5维2参数</td><td>BBVI</td><td>0.25(0.03)</td><td>0.07(0.01)</td><td>115</td></tr><tr><td>AI</td><td>0.28(0.01)</td><td>0.08(0.02)</td><td>152</td></tr><tr><td>MHRM</td><td>0.34(0.07)</td><td>0.12(0.07)</td><td>271</td></tr></table></body></html>
+
+表6维度相关多维IRT参数估计返真RMSE  
+
+<html><body><table><tr><td>模型</td><td>相关系数</td><td>算法</td><td>a</td><td>b</td><td>平均耗时（秒)</td></tr><tr><td rowspan="7">2维2参数</td><td rowspan="2">0.3</td><td>AI</td><td>0.09(0.03)</td><td>0.05(0.02)</td><td>15</td></tr><tr><td>MHRM</td><td>0.12(0.00)</td><td>0.08(0.00)</td><td>272</td></tr><tr><td rowspan="2">0.5</td><td>AI</td><td>0.16(0.02)</td><td>0.07(0.03)</td><td>16</td></tr><tr><td>MHRM</td><td>0.30(0.03)</td><td>0.08(0.03)</td><td>352</td></tr><tr><td rowspan="2">0.7</td><td>AI</td><td>0.22(0.05)</td><td>0.06(0.02)</td><td>99</td></tr><tr><td>MHRM</td><td>0.55(0.03)</td><td>0.11(0.03)</td><td>270</td></tr><tr><td rowspan="2">0.3</td><td>AI</td><td>0.13(0.04)</td><td>0.08(0.02)</td><td>99</td></tr><tr><td>MHRM</td><td>0..25(0.04)</td><td>0.08(0.05)</td><td>391</td></tr><tr><td rowspan="2">3维2参数</td><td>0.5</td><td>AI</td><td>0.19(0.03) 0.05(0.00)</td><td>99</td></tr><tr><td>MHRM</td><td>0.56(0.02)</td><td>0.06(0.02)</td><td>404</td></tr><tr><td rowspan="2">0.7</td><td>AI</td><td>0.36(0.01)</td><td>0.10(0.06)</td><td>145</td></tr><tr><td>MHRM</td><td>0.94(0.04)</td><td>0.16(0.04)</td><td>303</td></tr></table></body></html>
+
+表7中等数据集IRT参数估计返真RMSE  
+
+<html><body><table><tr><td>样本</td><td>题量</td><td>模型</td><td>算法</td><td>a</td><td>b</td><td>平均耗时（秒)</td></tr><tr><td>100k</td><td>1k</td><td>1维2参数</td><td>AI</td><td>0.09</td><td>0.05</td><td>1251</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>EM</td><td>0.41</td><td>0.01</td><td>1918</td></tr><tr><td></td><td></td><td>MHRM</td><td>0.18</td><td>0.01</td><td>9878</td></tr><tr><td></td><td>3维2参数</td><td>AI</td><td>0.10</td><td>0.07</td><td>1450</td></tr><tr><td></td><td></td><td>MHRM</td><td>0.23</td><td>0.05</td><td>17429</td></tr></table></body></html>
+
+表4未显示MHRM，因为MHRM在一维多参数模型中表现不稳定（参数估计失败 2次)；表5未显示BAEM，因为BAEM在多维模型中过于耗时；表6中flexmirt软件设定潜变量协方差自由估计，变分推断使用神经相关矩阵作为先验分布。表4、表5、表6和表7显示：（1）维度相关模拟数据的参数返真，变分推断有较大优势且计算耗时低于 MHRM;（2）中等数据集的参数返真，变分推断有一定优势且计算耗时远低于BAEM和 MHRM;（3）一维多参数模型的参数返真，变分推断有一定优势，但计算耗时高于BAEM；（4）多维模型的参数返真，变分推断与MHRM基本一致，计算耗时低于MHRM；（5）VIBO 算法在二维模型中表现极其欠佳，证明了之前的猜测，VIBO 算法不适用多维IRT 模型。
+
+# 4.2.2DINA模型之重参数法VSREINFORCE
+
+表8重参数法VSREINFORCE梯度  
+
+<html><body><table><tr><td>样本量</td><td>梯度</td><td>g</td><td>S</td></tr><tr><td rowspan="2">1000</td><td>REINFORCE</td><td>0.01</td><td>0.02</td></tr><tr><td>Gumbel Softmax</td><td>0.16</td><td>0.54</td></tr></table></body></html>
+
+表8显示，Gumbel Softmax 重参数法难以应用于DINA模型，图7也验证了这个结果，图6的右图是属性掌握模式潜变量网络输出值与属性掌握模式真值的AUC 值。
+
+![](images/b8439323cecb845797edf3f618438ba78a77dff1d14ca09124ece49d009b184a.jpg)  
+图6重参数法VSREINFORCE梯度
+
+# 4.2.3DINA模型和HO-DINA模型
+
+表9DINA参数估计返真RMSE  
+
+<html><body><table><tr><td>样本量</td><td>算法</td><td>g</td><td>S</td><td>平均耗时 (秒)</td></tr><tr><td rowspan="3">500</td><td>BBVI</td><td>0.01(0.001)</td><td>0.03(0.005)</td><td>2</td></tr><tr><td>AI</td><td>0.01(0.001)</td><td>0.03(0.005)</td><td>10</td></tr><tr><td>EM</td><td>0.01(0.001)</td><td>0.03(0.002)</td><td>0.2</td></tr><tr><td rowspan="3">1000</td><td>BBVI</td><td>0.01(0.001)</td><td>0.02(0.005)</td><td>2</td></tr><tr><td>AI</td><td>0.01(0.001)</td><td>0.02(0.005)</td><td>10</td></tr><tr><td>EM</td><td>0.01(0.001)</td><td>0.02(0.002)</td><td>0.4</td></tr><tr><td rowspan="2">10000</td><td>AI</td><td>0.003(0.0003)</td><td>0.007(0.0009)</td><td>15</td></tr><tr><td>EM</td><td>0.003(0.0002)</td><td>0.006(0.0007)</td><td>3</td></tr></table></body></html>
+
+表10 HO-DINA参数估计返真RMSE  
+
+<html><body><table><tr><td>模拟</td><td>算法</td><td>g</td><td>S</td><td>20</td><td>11</td><td>平均耗时(秒)</td></tr><tr><td rowspan="3">500</td><td>BBVI</td><td>0.01(0.001)</td><td>0.02(0.003)</td><td>0.14(0.02)</td><td>0.26(0.11)</td><td>8</td></tr><tr><td>AI</td><td>0.01(0.001)</td><td>0.02(0.003)</td><td>0.12(0.02)</td><td>0.28(0.11)</td><td>11</td></tr><tr><td>EM</td><td>0.01(0.001)</td><td>0.02(0.003)</td><td>0.15(0.02)</td><td>0.35(0.1)</td><td>0.3</td></tr><tr><td rowspan="3">1000</td><td>BBVI</td><td>0.01(0.000)</td><td>0.02(0.001)</td><td>0.09(0.02)</td><td>0.23(0.05)</td><td>36</td></tr><tr><td>AI</td><td>0.01(0.000)</td><td>0.02(0.001)</td><td>0.09(0.03)</td><td>0.23(0.05)</td><td>31</td></tr><tr><td>EM</td><td>0.01(0.000)</td><td>0.02(0.001)</td><td>0.09(0.03)</td><td>0.23(0.05)</td><td>0.5</td></tr><tr><td rowspan="2">10000</td><td>AI</td><td>0.004(0.000)</td><td>0.006(0.001)</td><td>0.05(0.02)</td><td>0.16(0.06)</td><td>15</td></tr><tr><td>EM</td><td>0.003(0.000)</td><td>0.006(0.001)</td><td>0.03(0.01)</td><td>0.06(0.03)</td><td>4</td></tr></table></body></html>
+
+表9和表10显示，变分推断在CDM模型上的参数估计返真精度与EM基本一致，但是计算耗时远高于EM。
+
+# 4.2.4高维DINA模型
+
+<html><body><table><tr><td></td><td></td><td></td></tr><tr><td>样本量</td><td>属性掌握模式维度</td><td>S</td></tr><tr><td>1000</td><td>25</td><td>0.04</td></tr><tr><td>3000</td><td>0.02</td><td>0.06</td></tr><tr><td>10000</td><td>0.02</td><td>0.07</td></tr></table></body></html>
+
+EM在高维属性掌握模式DINA模型上的空间复杂度是 $O ( 2 ^ { N } )$ ，这导致EM难以应用于高维DINA，所以实验另尝试了基于随机游走的MCMC 算法，发现MCMC 算法是变分推断的 3-10 倍（约耗时 3-10 小时不等)，所以使用变分推断进行高维属性模式的参数估计是比较经济的选择。图7展示了高维属性掌握模式的返真程度。
+
+![](images/1e69fe6a5ca0a92f61698ab2ab5950bbeb04760cd443ff5452c8975e012a2f91.jpg)  
+图7高维属性掌握模式AUC
+
+# 4.2.5缺失数据
+
+IRT缺失数据实验题量设定为500，模型为一维二参数，随机缺失 $90 \%$ 的数据。HO-DINA缺失数据实验设定题量为500，随机缺失 $90 \%$ 的数据。
+
+表12IRT缺失数据参数估计返真RMSE  
+表13 HO-DINA 缺失数据参数估计返真RMSE  
+
+<html><body><table><tr><td>样本量</td><td>算法</td><td>a</td><td>b</td><td>平均耗时 (秒)</td></tr><tr><td rowspan="2">1000</td><td>BBVI</td><td>0.20(0.007)</td><td>0.12(0.004)</td><td>120</td></tr><tr><td>AI(500)</td><td>0.17(0.005)</td><td>0.12(0.004)</td><td>80</td></tr><tr><td>10000</td><td>AI(500)</td><td>0.09(0.009)</td><td>0.07(0.007)</td><td>100</td></tr></table></body></html>
+
+<html><body><table><tr><td>样本量</td><td>算法</td><td>g</td><td>S</td><td>1</td><td>1</td><td>平均耗时 (秒)</td></tr><tr><td rowspan="2">1000</td><td>BBVI</td><td>0.01(0.000)</td><td>0.03(0.003)</td><td>0.08(0.01)</td><td>0.22(0.03)</td><td>120</td></tr><tr><td>AI</td><td>0.01(0.000)</td><td>0.03(0.003)</td><td>0.08(0.01)</td><td>0.22(0.03)</td><td>120</td></tr><tr><td>10000</td><td>AI</td><td>0.004(0.000)</td><td>0.006(0.001)</td><td>0.04(0.02)</td><td>0.20(0.07)</td><td>180</td></tr></table></body></html>
+
+表12和表13显示，变分推断在处理缺失 $90 \%$ 的数据时依然能保持较好的参数返真性能。
+
+# 5结论与展望
+
+无论是真实数据实验，还是模拟数据实验，均显示变分推断在教育测量模型上有较高的预测性能和参数返真性能。实验开发的潜变量网络模型以及神经相关矩阵，展示了变分推断的灵活性和扩展性，研究者可以利用神经网络的万能逼近性质或黑盒变分推断的简易性任意开发自己想要的模型。研究限于篇幅没有展示代码，但代码已开源，研究者通过开源代码可以发现编写变分推断的参数估计程序与编写MCMC的参数估计程序并无太多区别，变分推断非常有潜力应用于教育测量研究环境或实验环境，可以帮助研究者开发新的教育测量模型。
+
+实验设计的算法在IRT领域达到了顶尖水准（the state of the art)，在运行时间和参数返真上均领先或不弱于flexmirt，所以极度推荐研究人员使用变分推断开发新的 IRT模型，也推荐普通用户在应用场景中使用变分推断算法。实验设计的算法在CDM的表现差强人意，仅在高维属性掌握模式上超越EM，尽管如此，还是推荐研究者使用变分推断开发新的CDM模型，毕竟变分推断能节省研究者的开发时间，至于普通用户，还是推荐使用GDINA 实现的EM算法。
+
+研究虽然显示了变分推断算法在教育测量领域拥有极大潜力，但还是存在一些问题，一是研究虽然给出了神经相关矩阵，并且通过模拟数据和真实数据实验获得良好效果，但是缺乏理论证明；二是实验设计的算法在CDM上的运行时间太长，这可能与实验采用的REINFORCE 梯度有关系（REINFORCE 梯度的方差太大)，而重参数方法在CDM上的使用不太理想，变分推断在CDM上的应用还需探索；三是标准化流（Normalizing Flow）的应用，潜变量的分布可能并不是简单的正态分布，所以可能需要标准化流来优化参数的分布，实验其实测试了基于神经网络的自回归流，但是并未发现神经自回归流的优越性，所以并未在正文中阐述标准化流，这个有待后续研究；四是研究展示了变分推断的随机优化，其实MCMC 和EM上也可以应用随机优化，即随机梯度MCMC以及随机EM算法，但是并未有相关研究在这两项参数估计技术应用于教育测量模型；最后，期望有更多的像变分推断这样的AI技术应用于教育领域。
+
+# 参考文献
+
+Baker,F.B.,& Kim,S.-H.(2004).Item Response Theory: Parameter Estimation Techniques.   
+Bingham,E.,Chen,J.P.,Jankowiak,M.,Obermeyer,F.,Pradhan,N.,Karaletsos,T.,..Goodman,N.D.(2019). Pyro: deep universal probabilistic programming.Journal of Machine Learning Research,20(28),973-978. Blei,D.M.,Kucukelbir,A.,&McAulife,J.D. (2017).Variational Inference: AReview for Statisticians.journalof the american statistical association,112(518),859-877. doi:10.1080/01621459.2017.1285773   
+Bock,R.D.,& Aitkin, M.(1982).Marginal maximum likelihood estimation of item parameters.Psychometrika, 473),369-369. doi:10.1007/BF02294168   
+Bock,R.D.,Gibbons,R.,& Muraki,E.(1988).Full-Information Item Factor Analysis.applied psychological measurement, 12(3),261-280.doi:10.1177/014662168801200305   
+Cai,L. (2010). High-Dimensional Exploratory Item Factor Analysis bya Metropolis-Hastings Robbins-Monro Algorithm. Psychometrika,75(1),33-57.doi:DOl10.1007/s11336-009-9136-x   
+Carpenter,B.,Gelman,A.,Hoffman,M.D.,Lee,D.,Goodrich,B.,Betancourt,M,.Riddel,A. (2017).Stan: A Probabilistic Programming Language.journal of statisticalsoftware,76(1),1-32.doi:10.18637/Jss.V076.l01 Chalmers,R.P.(2012).mirt: A Multidimensional Item Response Theory Package for the REnvironment. journal of statistical software,48(1),1-29.doi:10.18637/jSS.V048.106   
+Chen，L. (2017).Fast Item Response Theory (IRT) Analysis by using GPUs.Retrieved from https://ondemand.gputechconf.com/gtcdc/2017/presentation/dc7176-lei-chen-fast-item-response-theory-irtmodel-estimation-by-using-gpus.pdf   
+Cho,A.E.,Wang,C.,Zhang,X.,&Xu,G.J.(2020).Gaussian variational estimation for multidimensional item response theory.British Journal of Mathematical & Statistical Psychology.Retrieved from <Go to ISI>://WOS:000577623600001   
+Chung,S.,& Houts, C. (2020).flexMIRT: A Flexible Modeling Package for Multidimensional Item Response Models. measurement interdisciplinary research & perspective, 18(1), 40-54. doi:10.1080/15366367.2019.1693825   
+Culpepper,S.A.(2015).Bayesian Estimation of the DINA Model With Gibbs Sampling.Journal of Educational and Behavioral Statistics,40(5),454-476.Retrieved from $< \mathsf { G o }$ to $\vert \mathsf { S } \vert >$ ://WOS:000363883900002   
+Curi，M.，Converse，G.A.，Hajewski，J.，& Oliveira，S.(2019，14-19 July 2019).Interpretable Variational Autoencoders for Cognitive Models.Paper presented at the 2019 International Joint Conference on Neural Networks (IJCNN).   
+Feng,Y.,Habing,B.T.,& Huebner,A.(2014).Parameter Estimation of the Reduced RUM Using the EM Algorithm.applied psychological measurement, 38(2),137-150. doi:10.1177/0146621613502704   
+Fraser, C.,& McDonald,R.P. (1988).NOHARM: Least Squares Item Factor Analysis. multivariate behavioral research,23(2),267-269.doi:10.1207/S15327906MBR2302_9   
+Hoffman,M.D.,Blei,D.M.,Wang,C.,&Paisley,J.(2013).Stochastic variational inference.J.Mach.Learm.Res, 14(1), 1303-1347. Hornik,K.,Stinchcombe,M.,& White,H. (1989).Multilayer feedforward networksareuniversal approximators. neural networks,2(5),359-366.doi:10.1016/0893-6080(89)90020-8   
+Huber,P.，Roncheti,E.，& Victoria-Feser,M.-P.(2004).Estimation of Generalized Linear Latent Variable Models.journal of the royal statistical society series b statistical methodology，66(4)，893-908. doi:10.1111/J.1467-9868.2004.05627.X   
+Hui,F.K.C.,Warton,D.I.,Ormerod,J.T.,Haapaniemi,V.,&Taskinen,S. (2017).Variational Approximations for Generalized Linear Latent Variable Models.Journal of Computationaland Graphical Statistics, $2 6 ( 1 )$ ，35- 43. doi:10.1080/10618600.2016.1164708   
+Imai， K.,Lo,J.，& Olmsted,J. (2016).Fast Estimation of Ideal Points with Massive Data.american political science review,110(4), 631-656.doi:10.1017/S000305541600037X   
+Jang,E., Gu,S.，& Poole,B.(2017). Categorical Reparameterization with Gumbel-Softmax. Paper presented at the International Conference on Learning Representations.   
+Kingma,D.P.,& Weling,M. (2014).Auto-Encoding Variational Bayes. Paper presented at the International Conference on Learning Representations.   
+Li, C.,Ma, C.,& Xu, G. (202O). Learning Large $\$ 0\$ 1$ -matrix by Restricted Boltzmann Machines. In.   
+Linden,W.J.v.d. (2016). Handbook of Item Response Theory, Volume Two: Statistical Tools. In.   
+Lu,J.,Zhang,J.,& Tao,J. (2018).Slice-Gibbs sampling algorithm forestimating the parameters ofa multilevel item response model.Journalof Mathematical Psychology, 82， 12-25. doi:https://doi.org/10.1016/j.jmp.2017.10.005   
+Luo,Y.,& Jiao,H. (2017).Using the Stan Program for Bayesian Item Response Theory.Educational and Psychological Measurement, $7 8 ( 3 )$ ,384-408. doi:10.1177/0013164417693666   
+Ma,W.& Torre,J.d.I. (2020). GDINA: An R Package for Cognitive Diagnosis Modeling.journal of statistical software, 93(1),1-26. doi:10.18637/JSS.V093.114   
+McClish，D. K. (1989).Analyzing a portion of the ROC curve.medical decision making，9(3)，190-195. doi:10.1177/0272989X8900900307   
+Meng,X.-L.,&Schillng,S. (1996). Fiting Full-Information Item FactorModels andan Empirical Investigation ofBridge Sampling.journaloftheamericanstatisticalassociation， 91(435)， 1254-1267. doi:10.1080/01621459.1996.10476995   
+Minka,T.(2O09).Automating Variational Inference forStatisticsand Data Minin.Invitedtalkatthe74th Annual Meeting of the Psychometric Society (IMPs 2009).Retrieved from https://www.microsoft.com/enus/research/publication/automating-variational-inference-statistics-data-mining/   
+Natesan,P.,Nandakumar,R.,Minka,T.,&Rubright,J.D.(2016). Bayesian Prior Choicein IRTEstimation Using MCMC and Variational Bayes.Frontiers in Psychology，7.doi:ARTN1422   
+10.3389/fpsyg.2016.01422   
+Ormerod,J.T.,& Wand,M.P.(2010).Explaining Variational Approximations.the american statistician,64(2), 140-153.doi:10.1198/TAST.2010.09058   
+Plummer,M.(2003).JAGS: A program for analysis of Bayesian graphical models using Gibbs sampling.In. Ranganath，R.， Gerish，S.，& Blei，D.M. (2014).Black Box Variational Inference. Paper presentedat the International Conference on Artificial Intelligence and Statistics.   
+Salvatier,J., Wiecki,T.V.,& Fonnesbeck,C. (2016).Probabilistic Programming in Pythonusing PyMC3.peerj, 2.doi:10.7717/PEERJ-CS.55   
+Schilling,S.，& Bock,R.D.(20o5).High-dimensional maximum marginal likelihood item factor analysis by adaptive quadrature.psychometrika, 70(3), 533-555.doi:10.1007/S11336-003-1141-X   
+StanDevelopmentTeam. (2019). Cholesky Factors of Correlation Matrices. In Stan Reference Manual (v2.18 ed.).   
+Thissen，D. (1982).Marginal maximum likelihood estimation for the one-parameter logistic model. psychometrika,47(2),175-186.doi:10.1007/BF02296273   
+Torre,J.d.I.(20o9).DINA Model and Parameter Estimation:A Didactic.journal ofeducationaland behavioral statistics,34(1),115-130. doi:10.3102/1076998607309474   
+Torre，J.d. I. (2011). The Generalized DINA Model Framework.psychometrika，76(2)，179-199. doi:10.1007/S11336-011-9207-7   
+Torre,J.D.L,& Douglas,J.A. (2004).Higher-order latent trait models forcognitive diagnosis.psychometrika, 69(3),333-353.doi:10.1007/BF02295640   
+Tran,D.,Kucukelbir,A.,Dieng,A.B.,Rudolph,M.R.,Liang,D.,&Blei,D.M.(2016).Edward: Alibrary for probabilistic modeling,inference,and criticism.In.   
+Williams，R.J.(1992).Simple Statistical Gradient-Follwing Algorithms for Connectionist Reinforcement Learning.machine learning, $\boldsymbol { \mathcal { B } } ( 3 )$ ,229-256.doi:10.1007/BF00992696   
+Wingate,D.,&Weber,T. (2013).Automated Variational Inference in Probabilistic Programming.In. Wu,M.,Davis,R.L.,Domingue,B.W., Piech,C.,& Goodman,N.D. (202O).Variational Item Response Theory: Fast,Accurate,and Expressive. In.   
+Yamaguchi, K. (2020). Variational Bayesian inference for the multiple-choice DINA model.behaviormetrika, 47(1),159-187. doi:10.1007/S41237-020-00104-W   
+Yamaguchi,K.,&Okada,K.(202O).Variational Bayes Inference for the DINA Model.Journalof Educational and Behavioral Statistics,45(5),569-597.doi:doi: 10.3102/1076998620911934   
+Zhan,P.,Jiao,H.，Man, K.，& Wang,L. (2019). Using JAGS for Bayesian Cognitive Diagnosis Modeling: A Tutorial.JournalofEducationaland Behavioral Statistics,OnlineFirst.doi:10.3102/1076998619826040 Zhang,C.,Butepage,J.,Kjelstrom,H.,&Mandt,S.(2019).Advancesin VariationalInference.IEEETransactions on Pattern Analysis and Machine Inteligence,41(8),2008-2026.doi:10.1109/TPAMl.2018.2889774 Zhang,S.L.,Chen,Y.X.,&Liu,Y.(2020).Animproved stochastic EMalgorithm forlarge-scalefull-information itemfactoranalysis.British Journalof Mathematical&Statistical Psychology，73(1),44-71.Retrieved from <Go to ISI $>$ ://WOS:000509696500003

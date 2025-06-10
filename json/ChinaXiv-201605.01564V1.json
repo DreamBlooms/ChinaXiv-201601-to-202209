@@ -1,0 +1,365 @@
+[
+    {
+        "type": "text",
+        "text": "NUMERICAL SIMULATIONOFFAST-MODEMAGNETOSONICWAVESEXCITEL BYPLASMOIDEJECTIONSINTHE SOLARCORONA ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIPING YANG1,2,LEI ZHANG', JIANSEN $\\mathrm { H E } ^ { 1 }$ ,HARDI PETER³, CHUANYI $\\mathrm { T U } ^ { 1 }$ ， LINGHUA WANG1, SHAOHUA ZHANG4,AND XUESHANG FENG² 1Schoolof EarthandSpaceSciences,Peking University,00871 Beijing,China; jshept@gmail.com   \n2 SIGMA Weather Group,State Key Laboratory for Space Weather, Center for Space Science and Applied Research, Chinese Academy of Sciences,1OO190Beijing,China 3 Max-Planck-InstitutfurAeronomie,Max-Planck-Strasse,D-37191Katlenburg-Lindau,Gerany   \n4CenterofSacecatAsseblyIteatioandest,ChinaAcademyofaceTechologyeijinoina Received 2013 November 25;accepted 2014December 23;published 2015February 18 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Atmospheric Imaging Asembly instrument on board the Solar Dynamics Observatory has directly imaged the fast-propagating magnetosonic waves (FMWs) successively propagating outward along coronal magnetic funnels. In this study we perform a numerical investigation of the excitation of FMWs in the interchange reconnection scenario, with footpoint shearing flow being used to energize the system and drive the reconnection.The modeling resultsshowthatasaresultof magneticreconnection,theplasmainthecurrentsheetis heatedupbyJouledissipation to ${ \\sim } 1 0 \\mathbf { M } \\mathrm { K }$ and is ejected rapidly,developing the hot outflows.Meanwhile,the current sheet is torn into plasmoids, which are shot quickly both upward and downward.When the plasmoids reach the outflow regions,they impact and colide with the ambient magnetic feld there,which consecutively launches FMWs.TheFMWs propagate outward divergently away from the impact regions,with a phase speed of the Alfvén speed of ${ \\sim } 1 0 0 0 \\mathrm { k m s } ^ { - 1 }$ . In the $k { - } \\omega$ diagram of the Fourier wave power,the FMWs display a broad frequency distribution with a straight ridge that represents the dispersion relation.With the WKB approximation,at the distance of $1 5 \\mathrm { M m }$ from the wave source region, we estimate the energy flux of FMWs to be $\\bar { E ^ { \\sim } } 7 . 0 \\times 1 0 ^ { 6 }$ erg $\\mathrm { c m } ^ { - 2 } \\mathrm { s } ^ { - 1 }$ ,which is $\\sim 5 0$ times smaller than the energy flux related to the tube-channeled reconnection outflow.These simulation results indicate that energetically and dynamically the outflow is far more important than the waves. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: magnetic reconnection- Sun: corona- waves Supportingmaterial:animations ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the past decade,observational analysis and theoretical modeling have shown that the solar atmosphere supports the oscillation or propagation of various modes of magnetohydrodynamic (MHD) waves,such as slow-mode waves(Ofman et al. 1997; De Moortel et al. 2000; Wang et al. 2002, 2009, 2013; Ofman & Wang 2002; Marsh etal.2003; Ofman & Wang 2008), Alfvén waves(Tomczyk et al. 2OO7; De Pontieu et al. 2007; Cirtain et al. 2007; Okamoto et al. 2007; Jess et al. 2009; He etal.2009a,2009b;McIntosh etal.2011),and fast-mode waves (Schrijver et al. 1999;Williams et al. 2001,2002; Nakariakov et al.2003; McLaughlin et al. 2009).However, as a result of instrumental limitations,fast-propagating magnetosonic waves (FMWs) were scarcely observed in the past.To detect the fast magnetosonic waves, the field of view (FOV) of the instrument shouldbe comparableto thewavelengthsof thewaves,which are the characteristic size of magnetic structures (e.g., length of coronal loops),and the cadences should be shorter than the typical periods of the waves,which range from a few seconds toseveral minutes (Nakariakov& Verwichte 2005). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "On board the Solar Dynamics Observatory $( S D O )$ ， the new Atmospheric Imaging Assembly(AIA) has a $4 1 ^ { \\prime } \\times 4 1 ^ { \\prime }$ full-Sun FOV at $1 { : } 5$ resolution and high cadences up to $1 0 \\mathrm { s }$ ，which are all in favor of detecting fast propagating features.Using its EUV observations,Liu et al.(2O1O) firstly noted the FMWs in the low corona.As a first detailed analysis,Liu etal.(2O11) found that the FMWs are driven quasi-periodically at the base of the flaring region and propagate outward along open funnels with a phase speed of up to ${ \\sim } 2 2 0 0 \\mathrm { k m s ^ { - 1 } }$ .They also found that the main period of the FMWs coincides with quasi-periodic pulsations of the flare,suggesting a common origin of these phenomena. In greater detail, Shen & Liu (2O12) investigated an FMW event occurring on 2O11 May 3O,and they further demonstrated the common physical origin of the FMWs and the accompanying pulsation flare，which is possibly driven by quasi-periodic magnetic reconnection generated by several physical situations, such as the repeated generation of plasmoids,as well as their coalescence.Byreanalyzing this eventwith radio observations, Yuan et al. (2O13) found that the FMW pattern is comprised of distinct wave trains with varying periods and wavelengths,and revealed again that the generation of FMWs should be tightly related to energy release in magnetic reconnections.Recently, Shen et al. (2O13) presented observations of an FMW in multiple wavelengths and its interactionwith other magnetic structures. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "So far, great modeling efforts have been devoted to understanding the physics of FMWs in the solar magnetoatmospheres(Cargill et al. 1997; Wu et al. 2001; Bo et al. 2002; Nakariakov et al. 2003；Bogdan et al. 2OO3；Hasan et al. 2005;Khomenko & Collados 2OO6; Hasan & van Ballegooijen 2008;Schmidt & Ofman 2010;Fedun et al. 2011; Ofman et al. 2011; Vigeesh et al. 2012; Pascoe et al. 2013). To investigate slow and fast magnetoacoustic-gravity monochromatic wave propagation,transformation,and interaction in the solar photosphere and chromosphere,Bogdan et al.(2Oo3）presented two-dimensional (2D),isothermal MHD simulations with the magnetic configuration consisting ofalarge unipolar magnetic flux concentration surrounded on each side by two smaller concentrations of opposite-polarity field. To study the processes taking place around the magnetic canopy in a sunspot-like structure,Khomenko& Collados(2Oo6) conducted similarnumerical simulations of magnetoacoustic wave propagation from the photosphere to the low chromosphere.Witha global threedimensional(3D) MHD code,Schmidt& Ofman(201O) simulated a coronal mass ejection of Gibson & Low flux rope type (Gibson & Low 1998) to excite a global FMW. According to the observation results presented by Liu et al.(2O11), Ofman et al.(2O11） performed a 3D numerical simulation to study the FMW generation,propagation,and trapping in the dipole magnetic field and gravitationally stratified density at coronal temperature.Pascoe et al.(2O13） also performed 2D numerical simulations of impulsively generated fast magnetoacoustic perturbations to explore the dispersion of fast magnetoacoustic waves in waveguides.These simulations either used the imposed motions at the bottom boundary as an exciter to study the propagation of the FMWs,or used the large-scale perturbation to study the global nature of the FMWs. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "However, recent observations from the AIA indicate that the FMWs may originate from magnetic reconnections associated with the flare(Liu et al. 2011, 2012; Shen & Liu 2012;Yuan et al.2O13). This work aims to provide a numerical investigation of this scenario.Utilizing the developed MHD model（Yang et al.2O13a, 2O13b),we simulate the interchange flare scenario with the footpoint shearing flow to energize the system and drive the reconnection.The simulation results show that the plasmoid ejections from the X-point could provoke the FMWs propagating outward.By a comprehensive analysis of these, we find that the modeled FMWs share many features with the observed ones. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.NUMERICALMHDMODEL ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The details of the 2.5 dimensional (2.5D) numerical MHD model used here have been described in Yang et al.(2013a, 2013b). In brief, the model solves the conservation of mass, momentum,and energy, together with the induction equation. In the energy equation we account for ohmic heating with a switchon resistivity of the same form as in Yang et al. (2O13a). We also synthesize the coronal emission from the model as it would be observed with AIA/SDO using the temperature response function (Boerner et al.2O12), following the procedure of Peter &Bingert (2012). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The simulation region spans $0 \\mathrm { M m } \\leqslant x \\leqslant 8 0 \\mathrm { M m }$ in the horizontal dimension and $0 \\mathrm { M m } \\leqslant y \\leqslant 7 5 \\mathrm { M m }$ in the vertical dimension.Initially,the domain is covered by a nonuniform grid in both the $x$ and $y$ dimensions.The grid spacing is $\\delta x = \\delta y = 2 5 \\mathrm { k m }$ for $0 \\mathrm { M m } \\leqslant y \\leqslant 4 \\mathrm { M m }$ 1， $\\delta x = \\delta y = 5 0 \\mathrm { k m }$ for $4 \\mathrm { M m } \\leqslant y \\leqslant 6 \\mathrm { M m }$ ,and $\\delta x = \\delta y = 1 0 0 \\mathrm { k m }$ for $y \\geqslant 6  { \\mathrm { M m } }$ During the computation, the smallest grid cells are set in the region with the strongest current, with $\\delta x = \\delta y = 1 2 . 5 \\mathrm { k m }$ asa result of adaptive mesh refinement used in the numerical model. To solve the equations,we use a splitting-based finite-volume numerical scheme.The fluid partis solved by the second-order Godunov-type central scheme and the magnetic part by the constrained transport approach.The explicit second-order total variation diminishing Runge-Kutta time stepping is applied in time integration.Details about the numerics can be found in Feng et al. (2011) and Zhang et al. (2011). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For the initial conditions, the temperature is set as a hyperbolic tangent function as follows: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT ( y ) = T _ { \\mathrm { c h r } } + \\frac { 1 } { 2 } ( T _ { \\mathrm { c o r } } - T _ { \\mathrm { c h r } } ) \\left[ \\operatorname { t a n h } \\left( \\frac { y - y _ { \\mathrm { c o r } } } { w _ { t r } } \\right) + 1 \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $T _ { \\mathrm { c o r } }$ and $T _ { \\mathrm { c h r } }$ are the respective temperatures in the corona and chromosphere.We set $T _ { \\mathrm { c o r } } = 1 \\times 1 0 ^ { \\circ } \\mathrm { K }$ $T _ { \\mathrm { c h r } } = 2 \\times 1 0 ^ { 4 } \\mathrm { K } .$ $w _ { t r } \\ = \\ 1 . 5 \\mathrm { M m }$ ，and $y _ { \\mathrm { c o r } } ~ = ~ 3 . 0 \\mathrm { M m }$ 、On the basis of the given function of temperature $T ( y )$ ，the distributions of the pressure $p ( y )$ and density $\\rho ( y )$ are calculated from hydrostatic equilibrium and the ideal gas equation (Yang et al. 2013a, 2013b).The initial velocity is O. The initial magnetic field is constructed via the vector potential for a uniform background field and an infinite series of line dipoles as described by Edmondson et al.(2O1O） and used by Lynch & Edmondson (2013).For the boundary conditions,we use the same form as defined by Yang et al.(2O13b)，except for the footpoint shearing flow to energize the system.At the lower boundary of $y = 0  { \\mathrm { M m } }$ ， $V _ { z }$ is set to ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { z } = \\left\\{ \\begin{array} { c c } { 0 , } & { { | ( x - x _ { 0 } ) | \\geqslant d } } \\\\ { { 1 . 5 \\sin ( \\pi ( x - x _ { 0 } ) / d ) ( ( x - x _ { 0 } ) ^ { 2 } - d ^ { 2 } ) ^ { 2 } , } } & { { | ( x - x _ { 0 } ) | \\leqslant d , } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $x _ { 0 } = 2 7 \\mathrm { M m }$ and $d = 1 5 \\mathrm { { M m } }$ . The maximum magnitude of the shear flows is $( V _ { z } ) _ { \\mathrm { m a x } } = 1 5 \\mathrm { k m } \\mathrm { s } ^ { - 1 }$ . We note that this value is close to the one employed by Antiochos et al. (1999) and smaller than the one used byLynch & Edmondson (2013). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.NUMERICALRESULTS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1. Outflow from the Reconnection Site ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 shows the resulting distributions of temperature $T$ number density $N _ { \\astrosun }$ ，horizontal velocity $V _ { x }$ (see Animation 1), and vertical velocity $V _ { y }$ (see Animation 2） for a snapshot at $t = 7 . 1 3$ minutes.From the figure,we can see that the shearing of the loop causes its field lines to bulge outward,compressing and deforming the null point. The shearing is in the $z$ -direction, i.e., perpendicular to the plane shown in Figure 1.As a result, free magnetic energy and magnetic helicity are injected into the initial current-free system,and electric currents develop along the topological features, such as the null point and within the sheared loop.As the simulation progresses,the shearing motion elongates and strengthens the null-point current sheet, and magnetic reconnection with the creation of plasmoids due to tearing instability takes place.Then, the initiallyclosed shearedloop field lines open.Meanwhile,the initially open lines close down.Owing to Joule dissipation,the plasma near the null point is heated up to ${ \\sim } 1 0$ MK and is ejected to both sides of the null point, developing a pair of hot outflows,with one shooting upward and the other downward. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "From the distribution of the horizontal velocity $V _ { x }$ ，aswell as Animation 1 and Animation 2 available in the online version of the journal,it can be seen that multiple arc-shaped wave trains are consecutively and alternately launched from the simulated flare.The waves propagate radically outward in nearly circularfrontsand finallydiminishinamplitude andleave the computation domain successively.It should be noted that this phenomenon has been shown,directly or indirectly,in some studies involving a vertical current sheet (Barta et al. 2008; Karpen et al. 2O12),although those authors did not mention such waves explicitly. The distribution of the vertical velocity $V _ { y }$ and the corresponding Animation 2 show that the slow waves also emanate from the reconnection site,just as in our simulation of a chromospheric jet (Yang et al. 2013b). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2.WavesLaunched from the Reconnection Site ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 shows running difference images of temperature (top row),synthesized AIA emission at $1 7 1 \\mathrm { \\AA }$ (middle row),and (Animations of this figure are available.) ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/05a4af003dd5763b42340b131584de1128d5ce726ef249ace0938246ab00522a.jpg",
+        "img_caption": [
+            "Figure 1. Calculated distributions of temperature $T$ ，number density $N _ { \\astrosun }$ ，horizontal velocity $V _ { x }$ (see Animation 1),and vertical velocity $V _ { y }$ (see Animation 2) at $t \\ = \\ 7 . 1 3$ minutes,wherestreamlinessowemageticfeldlines.Thitedasedboxindicatestheselectedgionforuingdiferenceageand Fourier analysis. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "synthesized AIA emission at $2 1 1 \\textup { \\AA }$ (bottom row) in the white dashed box region outlined in Figure 1,which is at $t = 7 . 6 3$ 7.83,and 8.O3 minutes,respectively. To obtain the images at $1 7 1 { \\mathrm { \\AA } }$ and $2 1 1 \\textup { \\AA }$ , we apply a point-spread function (Gaussian with 1'4 FWHM) to the synthesized images (O'6),rebind the images to the AIA pixel size,and finally plot the time series with the same cadence as AIA would observe.It can be seen that the arc-shaped wavefronts of $V _ { x }$ are also observed in the images of temperature, the synthesized real emission at $1 7 1 \\mathrm { \\AA }$ ,and the synthesized real emission at $2 1 1 \\textup { \\AA }$ .At $t = 7 . 6 3$ minutes, one arc-shaped train enters the selected region.At $t = 7 . 8 3$ minutes, it arrivesatthecenterofview.At $t = 8 . 0 3$ minutes,the first arc-shaped train exits the view,and another one comes into view and behaves like the first one. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 shows temporal evolution of the perturbed velocity components (x: solid; y: dotted)，magnetic field components (same legend),and density at the point $( x \\ = \\ 1 5 \\mathrm { { M m } }$ $y = 4 5 \\mathrm { M m } )$ on the path of the waves.The perturbed components are obtained after background detrending.In our case at this point, the fast wave propagates in the upper-left direction, while the background magnetic field aligns quite closely to the $y$ -axis.Polarity relations of fast MHD waves predict that perturbed quantities $d B _ { x }$ and $d V _ { x }$ are in negative correlation, $d B _ { y }$ and $d V _ { x }$ are also in negative correlation,and the perturbed magnetic field is in positive correlation with the perturbed density(Marsch 1986).For fast MHD waves with plasma beta well below 1 like in the solar corona, the perturbed velocity component perpendicular to the background magnetic field $( B _ { 0 } )$ is much larger than the parallel component. In our case,at the position of our investigation, itis clear that $d V _ { x }$ (almost parallel to $B _ { 0 }$ )hasobviously stronger amplitude than $d V _ { y }$ (almost perpendicular to $B _ { 0 }$ ） ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "These features are also presented in Figure 4,and thus it is verified that these arc-shaped wave trains,emanated from the reconnection site,are FMWs. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To illustrate how the simulated FMWs are driven, Figure 4 presents the distributions of current density $J _ { z }$ ,vertical velocity $V _ { y }$ ，and horizontal velocity $V _ { x }$ (see Animation 3) at $t = 6 . 2 0$ 6.35,and 6.5O minutes,which are zoomed into the area around the reconnection region.In this figure,we can see that the collision between the ejected plasmoids and the field in the outflow region yields the FMW wave trains as shown in Figures 1 and 2. At $t = 6 . 2 0$ minutes,as a result of tearing instability,one plasmoid appears in the current sheet.Pushed by the reconnection outflow, this plasmoid moves upward along the current sheet with a speed of about $5 0 0 \\mathrm { k m s ^ { - 1 } }$ . On its way, the plasmoid expands itself. $\\mathbf { A } \\mathfrak { t } t = 6 . 3 5$ minutes,it reaches the outflow region and quickly collides and reconnects with the magnetic fields existing there,rapidly releasing its plasma with high thermal pressure.Meanwhile,velocity perturbations in $V _ { x }$ and $V _ { y }$ appear in the outflow region.Another plasmoid is generated in the current sheet and is ejected downward.At $t = 6 . 5 0$ minutes,the velocity perturbations evolve into the outward-propagatingarc-shaped wave trains,whose wavefronts could be fitted with an arc of a circle with its center at the site of the outflow region.At the same time, the downwardmoving plasmoid collides and reconnects with the magnetic field existing at the outflow region,producing the arc-shaped wave trains,which propagate along and across the closed loops. When other plasmoids come into the outflow region, the process mentioned above will be repeated.Animation 3 illustrates that the wave pulses are generated once a plasmoid collides with the outflow region. When traveling outward, the wave pulses evolve into distinguishable wavefronts and form multiple wave trains.It is also seen that the wave trains disappear after the coalescence into the outflow region. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c775ffdef113df1d7f534ffce1dd2ddb9e0e1c3d0de4e304e43c8d24677a101b.jpg",
+        "img_caption": [
+            "'igure 2.Running difference images of temperature (top row),synthesized real emission at $1 7 1 \\textup { \\AA }$ (middle row),and synthesized real emission at $2 1 1 \\mathring { \\mathrm { A } }$ (bottom row) n the white dashed box region shown in Figure 1,which is at $t = 7 . 6 3$ ,7.83,and 8.03 minutes,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To see whether the eigenmode oscillations existin the loops or not, we plot in Figure 5 the temporal profiles of $V _ { \\mathrm { p r o j } }$ (the velocity projected onto the slice） at different locations along the loops, with each plot showing the temporal profile at an equidistant position of $0 . 7 \\mathrm { M m }$ along the loops.The fluctuations in $V _ { \\mathrm { p r o j } }$ shown in this figure lack evidence of eigenmode oscillations, i.e.,the loop does not oscillate as a whole at fundamental or harmonic frequencies,because no identical frequency and relevant phase difference can be identified from the oscillations at various positions.At this point it is unknown why eigenmode oscillations are absent in our simulation.This might be due to strong local damping or expansion of the 2D closed loop.While the eigenmode oscillation of the closed field lines is absent, flare-like magnetic reconnection is found to release the energy in phase with the wave generation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 6 shows the calculated distribution of Alfvén speed $V _ { A }$ at $t = 7 . 1 3$ minutes, with streamlines representing magnetic field lines.The figure exhibits a rather complicated distribution of Alfven speed $V _ { A }$ ，where the Alfvén speeds vary in a wide range from tens to thousands of kilometers per second. Several strong $V _ { A }$ gradients across the magnetic field can be identified at the separatrices between different magnetic topologies. These gradients are formed self-consistently with the evolution of plasma and the magnetic field,rather than prescribed at the beginning.It can be seen that the waveguides confinedby the boundary with the large $V _ { A }$ gradient do not possess a narrow spatial distribution,but extend over large angles,which is different from the results of the previous MHD simulations such as Ofman et al.(2011）and Pascoe et al.(2013).The existence of broad waveguides to confine waves consequently allows the simulated waves to propagate nearly isotropically with wavefronts in arcs with large central angles,rather than only appearing in narrow funnels with limited angular extents as observed by SDO/AIA (Liu etal. 2011; Shen &Liu 2012). This figure also indicates that the wave dispersion may be induced by the inhomogeneity of the Alfvén speed adjacent to the wave source region.As the wavefronts travel farther, they become distinguishable from each other (see Animation 3) while the propagation speed increases,and they finally form the multiple wave trains. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.Energy Transport of the Waves and Outflow ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To analyze the kinematics of the FMWs,we extract the values of $d V _ { x } / V _ { A 0 } , d V _ { y } / V _ { A 0 } , d T / T _ { 0 }$ and $d N / N _ { 0 }$ along the direction of wave propagation defined by the right boundary of the dashed box region shown in Figure 1,and we stack the obtained profiles in time sequence.This gives the time-distance diagramsasdisplayed inFigure 7,showingthe steep,recurrent stripes resulting from the arc-shaped FMW wavefronts.The slopes of these stripes correspond to the propagating speeds of the FMWs.By adopting a linear fit with the points shown as the white cross in this figure,we measure the slope of each stripe and find that the first stripe has a slope of $1 0 5 7 \\pm 2 5 \\mathrm { k m s ^ { - 1 } }$ the second a slope of $9 6 0 \\pm 2 1 \\mathrm { k m } \\mathrm { s } ^ { - 1 }$ ,and the third a slope of $9 1 9 \\pm 1 6 \\mathrm { k m s ^ { - 1 } }$ .This gives an average propagating speed of the wave trains $( V _ { p h } )$ of about $1 0 0 0 \\mathrm { k m \\bar { s } ^ { - 1 } }$ ,which is the Alfven speed in the model.Based on the parameters of these FMWs and the WKB approximation, we can estimate their energy flux by $E = 0 . 5 \\rho ( \\dot { d } \\dot { v } ) ^ { 2 } V _ { p h }$ (with the nearly equal phase and group velocities seen below).Taking the number density of $1 0 ^ { 8 } \\mathrm { c m } ^ { - 3 }$ and $\\boldsymbol { d v }$ of $3 0 \\mathrm { k m s ^ { - 1 } }$ at the distance of $1 5 \\mathrm { M m }$ from the source, marked as the black cross in Figure 1, we obtain a wave energy flux $E \\sim 7 . 0 \\times 1 0 ^ { 6 }$ erg $\\mathrm { c m } ^ { - 2 } \\mathrm { s } ^ { - \\widetilde { 1 } }$ .This is $\\sim 5 0$ times smaller than the energy flux related to the tube-confined reconnection outflow at the nearby location marked as the white cross in Figure 1, which hasa speed of ${ \\sim } 3 5 0 \\mathrm { k m s ^ { - 1 } }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b67c9370fc7ae079c2beae3b09525106266a8f504fc38a1c5a645cee01e601cd.jpg",
+        "img_caption": [
+            "Figurebitsldoddt $( x = 1 5 \\mathrm { { M m } }$ $y = 4 5 \\mathbf { M m } )$ on the path of the waves. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Because the FMWs are generated impulsively, their transient nature might be interpreted as propagating wave packets in observations (Liu et al. 2011; Shen & Liu 2012). To investigate the recurrent period behavior of the FMWs,in Figure 8(a) we show a $k { - } \\omega$ diagram of a wave power.Like the analysis of FMW observations,an obvious linear steep ridge that describes the dispersion relation of the FMWs is visible in the simulated $k { - } \\omega$ diagram.This steep ridge can be fitted with a straight line passing through the origin point,which gives average phase （204号 $( v _ { p h } = \\nu / k )$ and group $( v _ { g r } = d \\nu / d k )$ velocitiesof theAlfvén speed of ${ \\sim } 1 0 0 0 \\bar { \\mathrm { k m } } \\bar { \\mathrm { s } } ^ { - 1 }$ . Figures 8(b)-(d) are the snapshots of the Fourier-fltered $\\boldsymbol { V } \\boldsymbol { x }$ images with a narrow Gaussian function centered at the peak frequencies of $0 . 0 5 \\mathrm { s } ^ { - 1 }$ ， $0 . 1 5 \\mathrm { s } ^ { - 1 }$ and $0 . 2 5 { \\mathrm { s } } ^ { - 1 }$ ,respectively. These highlight the corresponding FMW wave trains at different frequencies.Figure 9 plots the $k$ -averaged power spectrum to frequency, from the distribution displayed in Figure 8.We can see a continuous power spectrum, which basically decreases with increasing frequency without showing evident peaks. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.SUMMARYANDDISCUSSION ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this study we performed a numerical investigation of the excitation of FMWs in the interchange reconnection in the solar corona. The footpoint-shearing flow is used here to energize the system and drive the reconnection.We find that the FMWs are initiated by plasmoid ejections from the X-point and that the generated FMWs are comparable to the observations. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The modeling results show that the shearing of the loop causes its field lines to bulge outward,compressing and deforming the null point.As a result, the null-point current sheet forms and magnetic reconnection between sheared-loop field lines and open funnel lines takes place,with the creation of plasmoids due to tearing instability. The plasma near the null point is heated up by Joule dissipation to ${ \\sim } 1 0 \\mathbf { M } \\mathbf { K }$ and is ejected to both sides of the null point.As a result of the collision between the impacting plasmoids and the field in the outflow region, the multiple arc-shaped fast-mode magnetosonic wave trains are consecutively and alternately launched from the outflow region,quicklypropagating outward.Also, there is a one-to-one correlation between the energy release and the wave generation. In contrast, there are no evident eigenmode oscillations in the closed loop,which if they were present could be responsible for the wave excitation. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc70a9b840e25fa677261e6c8b59fa735ec36de8538e41d9e0588b8fe739d993.jpg",
+        "img_caption": [
+            "Figure 4.Distributions of current density $J _ { z }$ ,vertical velocity $V _ { y }$ ,and horizontal velocity $V _ { x }$ at $t = 6 . 2 0$ ,6.35,and 6.5O minutes,respectively, zoomed into the area aroundtherecoetioegion.ntisfre,tramlinessoageticfldisndblckosinteleodeoteteloity (An animation of this figure is available.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8fcb7e17f90019ec224b8cd102e92af8f23054e2a39731523121d91df4bd56d0.jpg",
+        "img_caption": [
+            "Figure 5. Temporal profiles of $V _ { \\mathrm { p r o j } }$ (thevelocityprojectedontotheslice)atdiferentlocationsalongthe loops.Panels (a)-(f)corrspond toslicesa-fshownin Figure 4and Animation 3,respectively.In each panel the horizontal axis rep resents time,the vertical one $V _ { \\mathrm { p r o j } }$ ; to distinguish the plots,they are stacked with a uniform increment.Each plot shows the temporal profile at an equidistant position of $0 . 7  { \\mathrm { M m } }$ along the loops.The lower curves correspond to a position closer to the inside of the loop. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/532830dcc7afd15a217acc12887b444ad756493c1edf230c67b1e324a10c2f1d.jpg",
+        "img_caption": [
+            "Figure6.Calculated distribution of Alfvén speed $V _ { A }$ at $t = 7 . 1 3$ minutes,where streamlines show the magnetic fieldlines. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The time-distance diagrams show that the average propagating speed of wave trains $( V _ { p h } )$ is about the Alfven speed of $1 0 0 0 \\mathrm { \\bar { k } m s ^ { - 1 } }$ .For number densities of $1 0 ^ { 8 } \\mathrm { c m } ^ { - 3 }$ and $\\boldsymbol { d v }$ of $3 0 \\mathrm { k m s ^ { - 1 } }$ , we found an energy flux of $E \\sim 7 \\times 1 0 ^ { 6 }$ erg $\\mathrm { c m } ^ { - 2 } \\mathrm { s } ^ { - 1 }$ with the WKB approximation.This energy flux is ${ \\sim } 5 0$ times smaller than the energy flux related to the outflow. The $k { - } \\omega$ diagram of the Fourier wave power shows a broad frequency distribution with a steep ridge that describes the dispersion relation,similar to observations.This steep ridge can be well ftted with a straight line passing through the origin,which gives the average phase ( $\\dot { v } _ { p h } = \\nu / k \\rangle$ and group $( v _ { g r } = d \\nu / d k )$ ）velocities of the Alfvén speed of $\\mathrm { { \\stackrel { . } { \\sim } } 1 0 0 0 \\mathrm { k i m s ^ { - 1 } } }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In this study, the adopted magnetic geometry is relevant to closed loops reconnecting with open funnels,rather than a vertical current sheet with a Y-type null at one end. Certainly, any geometry involving plasmoid-loop interactions will lead to the generation of fast-mode waves. Our adopted geometry is special and significant in that the generated fast-mode waves propagate not only radically outward along the open funnel but also across the closed loops，which conforms with the observations provided by Shen &Liu (2O12).Nevertheless,in the geometry involving a vertical current sheet, the generated waves propagate onlylaterallyand downward, shown indirectly byBärta et al. (2008) and Karpen et al. (2012). The proximity of our geometry lies in its two Y-type null points,with either one generating its own wave train,and the wave trains may superimpose in some positions and affect the frequency of waves detected there.However,we note that the wave trains produced at the downward Y-type null point are relatively weak, since fewer plasmoids collide at the downward Y-type null point, and even so they are still heavily decelerated while sinking into lower, denser layers (Barta et al.2OO8).We also note that even though a small portion of the wave trains can arrive at the left part of the sheared loops, they are not prone to propagate across it,asAlfvén speeds across this part differ greatly.As a result, the wave trains produced at the lower right Y-type null point mayaffect just slightly the results of Figure 8.Unfortunately, there arereflectedwavesfromtheleft-hand sideofthe sheared loops.The reflected waves are much weakeras compared to the excited waves,so their contribution to the Fourier analysis result in Figure 5 may be negligible.In addition,prior observations and simulations exhibit evidence of such reflection and bidirectional propagation (Liu et al. 2011; Ofman et al. 2011). The wave contribution from the other Y-type null to the perturbation in the selected region is also negligible in terms of relative fluctuation magnitude. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/1732a3557c6c50b1c61e66cc8aae6ae34586061e28fee07dd56c094d2a5a04e1.jpg",
+        "img_caption": [
+            "Figure 7. Running difference time-distance diagrams of horizontal velocity $d V _ { x } / V _ { A 0 }$ ,vertical velocity $d V _ { y } / V _ { A 0 }$ , temperature $d T / T _ { 0 }$ , and number density $d N / N _ { 0 }$ （20 (fortidiaaoteogf $V _ { A 0 }$ $T _ { 0 }$ ,and $N _ { 0 }$ are equal to $1 0 0 0 \\mathrm { k m s ^ { - 1 } }$ $1 0 ^ { 6 } \\bar { \\bf K }$ ,and $1 0 ^ { 8 } \\mathrm { c m } ^ { - 3 }$ ,respectively.The whitecrosses show the actual points that are used as the linearfits,and the yellow dashed lines indicate the wave propagation speeds. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/0be64cee7ac369cf733e18424671f8b7804cc5661b884812c747b17ea963cade.jpg",
+        "img_caption": [
+            "Figure 8.Fourier analysis ofFMWs in the dashed-box region shown in Figure 1. (a)Fourier power $( k { - } \\omega$ diagram)of a horizontal velocity field $V _ { x }$ from $t = 6 . 5$ minutes 0 $t = 1 0 . 0$ minutes. (b)-(d) $V _ { x }$ sample images,which are Fourier-filtered with a narrow Gaussian function centered at the peak frequencies of $0 . 0 5 \\mathrm { s } ^ { - 1 }$ $0 . 1 5 \\mathrm { s } ^ { - 1 }$ ,and $0 . 2 5 \\mathrm { s } ^ { - 1 }$ , respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/6d18b2b18f544c1ef9d3ffbbf1a34c360b823987df8841b57bee5efc4fbbcc16.jpg",
+        "img_caption": [
+            "Figure 9. $k$ -averaged power spectrum as a function of frequency,from the distribution displayed in Figure 8. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In this work,we note that the simulated waves propagate isotropically from the source,not appearing in funnels with narrow angular extents as mostly observed by $S D O / { \\mathrm { A I A } }$ (Liu et al. 2011; Shen & Liu 2012). This difference between the simulated and observed waves may affect their energy, propagation,and even frequencies and presents a possibility for improving our simulations in the future.In addition,we do not reproduce the observed power peaks of the $k { - } \\omega$ ridge. As suggested by Liu et al. (2011) and Shen & Liu (2012), the power peaks may be due to three-minute chromospheric oscillations or the leakage of the pressure-driven $p$ -mode oscillations from the photosphere into the low corona.In the future,we may incorporate these effects to investigate their possible modulation onreconnection and also the excitation of the FMWs.Another issue may arise as a result of the restriction of this work to a 2.5D simulation.Although it is a simple control of the processes at work, the loss of one degree of freedom may affect the energetics of the system and the excision of theFMWs,which has been mentioned in our previous studies (Yang et al.2013b). Our future works will include an attempt to extend this work to a fully 3D simulation,which will more self-consistently enforce magnetic reconnection between the sheared loop and the ambient fields. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "L.P.thanks B.Li for helpful discussions about eigenmode oscillations in the coronal loops.This work atPekingUniversity is supported by NSFC under contractNos.41304133,41231069, 41174148，40890162,41222032，and 41274172.L.P.is also supported by NSFC under contract Nos.41031066,41204127, and 412O41O5，as well as the China Postdoctoral Science ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Foundation.The numerical calculations have been completed on a computing system at Peking University. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Antiochos,S.K.,DeVore,C.R.,&Klimchuk,J.A.1999,ApJ,510,485   \nBarta,M.,Vrsnak,B.,&Karlicky,M.2008,A&A,477,649   \nBo,L.,Hui-Nan,Z.,& Shui,W.2002,ChPhL,19,1639   \nBoerner,P.,Edwards,C.,Lemen,J.,etal.2012,SoPh,275,41   \nBogdan,T.J.,Carlsson,M.,Hansteen,V.H.,et al.2003,ApJ,599,626   \nCargill,P.J.,Spicer,D.S.,& Zalesak,S.T.1997,ApJ,488,854   \nCirtain, J.W.,Golub,L.,Lundquist,L.,et al.2007,Sci,318,1580   \nDeMoortel,I.,Ireland,J.,&Walsh,R.W.200O,A&A,355,L23   \nDe Pontieu,B.,McIntosh, S.W.,Carlsson,M.,et al.2007,Sci,318,1574   \nEdmondson,J.K.,Antiochos,S.K.,DeVore,C.R.,& Zurbuchen,T.H.   \n2010, ApJ, 718, 72   \nFedun,V.,Shelyag,S.,& Erdélyi,R.2011,ApJ,727,17   \nFeng,X., Zhang,S.,Xiang,C., et al.2011,ApJ,734,50   \nGibson, S.E.,&Low,B.C.1998,ApJ,493,460   \nHasan, S.S.,& van Ballegooijen,A.A.2008,ApJ,680,1542   \nHasan, S.S.,van Ballegooijen,A.A.,Kalkofen,W.,& Steiner, O.2Oo5,ApJ,   \n631,1270   \nHe,J.,Marsch,E.,Tu,C.,& Tian,H.2009a,ApJL,705,L217   \nHe,J.-S.,Tu,C.-Y.,Marsch,E.,et al.2009b,A&A,497,525   \nJess,D.B.,Mathioudakis,M.,Erdélyi,R.,et al.2009,Sci,323,1582   \nKarpen,J.T.,Antiochos,S.K.,&DeVore,C.R.2012,ApJ,760,81   \nKhomenko,E.,&Collados,M.2006,ApJ,653,739   \nLiu,W.,Nitta,N.V., Schrijver, C.J., Title,A.M.,& Tarbell,T.D.201O,ApJL,   \n723,L53   \nLiu,W., Ofman,L., Nitta, N.V., et al. 2012, ApJ, 753, 52   \nLiu,W., Title, A.M., Zhao, J., et al. 2011, ApJL, 736, L13   \nLynch,B.J.,& Edmondson,J.K.2013,ApJ,764,87   \nMarsch,E.1986,A&A,164,77   \nMarsh,M.S.,Walsh,R.W.,DeMoortel,I.,&Ireland,J.2003,A&A,404,L37   \nMcIntosh,S.W.,de Pontieu,B.,Carlsson,M.,et al.2011,Natur,475,477   \nMcLaughlin,J.A.,De Moortel,I.,Hood,A.W.,&Brady,C.S.2009,A&A,   \n493,227   \nNakariakov,V.M.,Melnikov,V.F.,&Reznikova,V.E.2003,A&A,412,L7   \nNakariakov,V.M.,&Verwichte,E.20O5,LRSP,2,3   \nOfman,L.,Liu,W.,Title,A.,&Aschwanden,M.2011,ApJL,740,L33   \nOfman,L.,Romoli,M.,Poletto,G.,Noci,G.,& Kohl,J.L.1997,ApJL,   \n491,L111   \nOfman,L.,& Wang,T.2002, ApJL,580,L85   \nOfman,L.,&Wang,T.J.2008,A&A,482,L9   \nOkamoto,T.J., Tsuneta, S.,Berger, T.E.,et al.2007,Sci,318,1577   \nPascoe,D.J.,Nakariakov,V.M.,&Kupriyanova,E.G.2013,A&A,560,A97   \nPeter,H.,& Bingert, S.2012, A&A,548,A1   \nSchmidt,J.M.,& Ofman,L.2010,ApJ,713,1008   \nSchrijver, C.J.,Title,A.M.,Berger, T.E.,et al.1999,SoPh,187,261   \nShen,Y.,&Liu,Y.2012,ApJ,753,53   \nShen,Y.-D.,Liu,Y., Su,J.-T.,et al.2013, SoPh,288,585   \nTomczyk, S.,McIntosh, S.W.,Keil, S.L., et al. 2007, Sci,317,1192   \nVigeesh,G.,Fedun,V.,Hasan,S.S.,& Erdélyi,R.2012,ApJ,755,18   \nWang,T.,Ofman,L.,&Davila,J.M.2013,ApJL,775,L23   \nWang,T.,Solanki,S.K.,Curdt,W.,Innes,D.E.,&Dammasch,I.E.2Oo2,ApJL,   \n574,L101   \nWang,T.J.,Ofman,L.,&Davila,J.M.2009,ApJ,696,1448   \nWilliams,D.R.,Mathioudakis,M.,Gallagher,P.T.,et al.20O2,MNRAS,   \n336, 747   \nWilliams,D.R.,Phillips,K.J.H.,Rudawy,P., et al.20O1,MNRAS,326,428   \nWu, S.T.,Zheng,H.,Wang, S.,et al.2001,JGR,106,25089   \nYang,L.,He,J., Peter,H., et al. 2013a, ApJ, 770, 6   \nYang,L.,He,J.,Peter,H.,et al.2013b,ApJ,777,16   \nYuan, D., Shen, Y.,Liu, Y., et al. 2013,A&A,554,A144   \nZhang, S.-H.,Feng,X.-S.,Wang, Y.,& Yang,L.-P.2011,ChPhL,28,089601 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

@@ -1,0 +1,129 @@
+[
+    {
+        "type": "text",
+        "text": "伊马替尼治疗新型冠状病毒肺炎引起的急性呼吸窘迫综合征李中国科学院生物物理研究所",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：伊马替尼（Imatinib），酪氨酸激酶抑制剂，是一种小分子蛋白激酶抑制剂，临床用于治疗慢性髓性白血病和恶性胃肠道间质肿瘤。急性呼吸窘迫综合征（ARDS）是肺部的一种炎症过程，以低氧血症为显著特征的临床综合征。越来越多的证据显示，伊马替尼能有效缓解ARDS。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：伊马替尼，急性呼吸窘迫综合征 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "一、前言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "伊马替尼（Imatinib）是一种小分子抑制剂，以其阻断c-Abl、PDGFR和c-KIT的ATPase 活性而闻名，同时也能阻断ARG的活性。其中，c-AbI最著名的是其作为原癌基因的作用机制。Bcr和c-Abl基因的融合，产生了具有组成性活化的Abl酪氨酸激酶活性的嵌合Bcr-Abl蛋白l。虽然目前伊马替尼的适应症是Brc-Abl阳性白血病和恶性胃肠道间质肿瘤（GIST）[2.3]，但是越来越多的证据表明，伊马替尼能够通过阻滞ARG减少炎性状态下的细胞膜通透性，这为伊马替尼治疗新型冠状病毒肺炎引起的急性呼吸窘迫综合征提供了理论基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "急性呼吸窘迫综合征（ARDS）的特征是进展性的炎症过程，它可以由感染性和非感染性两种不同的途径引起，主要涉及肺中的肺泡上皮和血管内皮损伤。ARDS的直接后果是产生严重的低氧血症，肺顺应性降低，以及肺内分流和死腔增加。临床病理学方面包括肺泡-毛细血管屏障的严重炎性损伤、表面活性物质耗竭和充气肺组织的丧失。这些临床症状的集合，共同导致了严重和急性呼吸衰竭。ARDS的标志是肺毛细血管渗漏，导致肺水肿和气体交换障碍。此外，在ARDS的初始急性期，由于血管通透性增加，肺泡充满了富含蛋白质的液体，出现肺水肿，继而导致肺顺应性降低，引起严重的低氧血症，在胸部X线片上出现双侧充血。它还会导致【型细胞的肺泡上皮损伤，进一步导致肺水肿，并易引起菌血症和败血症。而Ⅱ型肺泡细胞的损伤则会使得表面活性剂合成和代谢受损，从而导致肺泡表面张力增加和肺泡塌陷。肺水肿是由内皮屏障功能障碍引起的，因此它实质上参与了ARDS的病理生理过程4。内皮细胞紧密地控制着血液从循环系统向周围组织的交换，这种屏障的功能障碍导致不受控制的液体外渗和水肿[5-7]。目前尚无针对内皮屏障功能障碍和水肿的治疗方法8]，但是已有个别案例报道了使用伊马替尼治疗后肺水肿快速消退[9]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "二、伊马替尼治疗血管渗漏和肺水肿 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abl是Abelson鼠白血病病毒癌基因同源物的首字母缩写，它是酪氨酸激酶家族的一种，在哺乳动物中有两个成员：即c-Abl（Abl1）和Abl相关基因（ARG）。c-Abl和ARG的酪氨酸激酶结构域具有 $94 \\%$ 的同一性，但是它们的相似性在C端有所不同。虽然c-Abl和ARG都包含钙蛋白同源F-肌动蛋白结构域，但c-Abl却具有DNA结构域和G-actin结构域，ARG则包含Talin蛋白样F-肌动蛋白结构域和微管结构域。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ARG与细胞骨架调节有关。例如，ARG活化通过F-肌动蛋白束缚导致肌动蛋白聚合和F-肌动蛋白丝的形成[10,1]。此外，ARG通过依赖于肌动蛋白的cortactin蛋白和N-WASp蛋白的磷酸化来调节肌动蛋白丝结构，使其在细胞运动（如迁移、细胞收缩、片状脂膜形成等）中发挥重要作用[12.13]。ARG在这个过程中的功能可能取决于ARG活性的空间分布和时间调控。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究人员报道，伊马替尼不仅可以降低人肺微血管内皮细胞（HPMVEC）和其他内皮系统中凝血酶诱导的高通透性，还可以减弱内皮连接的解离。类似地，在体外使用ARGsiRNA抑制ARG，可以显着降低凝血酶诱导的通透性。ARG基因敲除小鼠能够免受VEGF诱导的血管通透性过高的影响，进一步证明ARG是血管渗漏发展中的关键介质[I4]。这些数据表明，伊马替尼能够通过抑制ARG减弱凝血酶诱导的通透性。伊马替尼在炎症过程中有效地保护了人微血管肺内皮细胞以及肺血管渗漏和肺内皮屏障（表1,表2）。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/ca3e004864f94ead67f0bd8f48f1ea8aa48024c25c10cfa59cb4b631687c59f0.jpg",
+        "table_caption": [
+            "表1：关于伊马替尼对肺血管渗漏和ARDS影响的现有临床前数据概述（体外研究）"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Model</td><td>Effect of imatinib</td><td>Reference</td></tr><tr><td>Rat aortic endothelial cells</td><td>Protects endothelial barrier</td><td>Kurimoto, Am JPhysiol</td></tr><tr><td rowspan=\"2\">Human umbilical vein endothelial</td><td>Protects endothelial barrier</td><td></td></tr><tr><td>Improves cell-matrix adhesion</td><td></td></tr><tr><td>Human lung microvascular</td><td>Protects endothelial barrier</td><td>Aman, Circ 2012[16]</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/8379b4f80ee69b297392ed73d5e99ab2c64ec5ceb057ce571815b5c388c5b473.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>endothelial cells</td><td></td><td></td></tr><tr><td>Immortalizedendothelialcells</td><td>Protects endothelial barrier</td><td>Chislock,PLoS One 2013[17]</td></tr><tr><td>Human umbilical vein endothelial cells</td><td>Protects endothelial barrier</td><td>Kim,ATVB 2014[18]</td></tr><tr><td>Mouse lung microvascular endothelial cells</td><td>Protects endothelial barrier</td><td>Stephens, ATS 2014[19]</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/55face6b06d304d68598b539f86344b0da1def8d0047beba6cf5c685e2d77cc9.jpg",
+        "table_caption": [
+            "表2：关于伊马替尼对肺血管渗漏和ARDS影响的现有临床前数据概述（体内研究）"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Model</td><td>Effect of imatinib</td><td>Reference</td></tr><tr><td>Isolated perfused lung model (mouse)</td><td>Inhibits lung vascular leak</td><td>Aman, Circ 2012[16]</td></tr><tr><td>Miles assay (mouse)</td><td>Attenuates vascular leak in skin</td><td>Aman, Circ 2012[16]</td></tr><tr><td>Cecal Ligation & Puncture (Sepsis) (mouse)</td><td>Attenuates vascular leak in lungs, kidneys</td><td>Aman, Circ 2012[16]</td></tr><tr><td>Intratracheal LPS (mouse)</td><td>Attenuates pulmonary oedema</td><td>Kim, Crit Care 2013[20]</td></tr><tr><td rowspan=\"2\">Intravenous LPS (mouse)</td><td>Attenuates lung vascular leak</td><td rowspan=\"2\">Stephens, ATS abstract 2014[19]</td></tr><tr><td>Improves survival</td></tr><tr><td>Intratracheal LPS (mouse)</td><td>Attenuates lung vascular leak</td><td>Rizzo, ATS abstract 2014[21]</td></tr><tr><td>Miles assay (mouse)</td><td>Attenuates vascular leak in skin</td><td>Kim, ATVB 2014[18]</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "除此之外，有3例临床病例报告显示：伊马替尼治疗开始后不久，患者症状就出现了改善，最终通过逆转ARDS的两个主要体征（即：肺血管渗漏和肺水肿），有效缓解了ARDS。尽管这些都是个例报道，不能排除其他因素，但是在目前没有任何治疗方法情况下，伊马替尼是有益的（表3）。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/cef52696d67618f1124f493739cfe8658425df617fdd39868b666eb6d541faed.jpg",
+        "table_caption": [
+            "表3：关于伊马替尼对肺血管渗漏和ARDS影响的现有临床数据概述（人类病例报告）"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Condition/Disease</td><td>Effect of imatinib</td><td>Reference</td></tr><tr><td rowspan=\"2\">Pulmonary Veno-Occlusive Disease</td><td>Resolution of pulmonary oedema</td><td rowspan=\"2\">Overbeek, Eur Respir J 2008[10]</td></tr><tr><td>Improvement of oxygenation (<24h)</td></tr><tr><td>Bleomycin-induced pneumonitis / lung injury</td><td>Resolution of pulmonary oedema</td><td>Carnevale-Schianca, J Clin Oncol 2011[22]</td></tr><tr><td>Idiopathic Pulmonary Vascular Leak</td><td>Resolution of pulmonary oedema</td><td>Aman,Am JRespir Crit Care 2013[23]</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上所述，新型冠状病毒性肺炎引起的急性呼吸窘迫综合征（ARDS），是肺炎患者最重要的致死因素，最新《柳叶刀》报道的99例新冠肺炎患者中，就有17例是",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ARDS[24]。目前ARDS无药可治，因此控制ARDS是重症肺炎患者生命至关重要的一道防线。伊马替尼有可能显著降低ARDS引起的高死亡率和致残率，临床上已有多个成功案例伊马替尼已经在全球上市，其安全性数据详实，建议将ARDS作为伊马替尼老药新用的新增适应症申报临床，并组织医院共同参与伊马替尼应用ARDS的临床研究，以挽救更多的生命。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1] Lugo T , Pendergast A ， Muller A , et al. Tyrosine kinase activity and transformation potency of bcr-abl oncogene products[J]. Science,1990,247(4946):1079-1082.   \n[2] Schiffer C A. BCR-ABL tyrosine kinase inhibitors for chronic myelogenous leukemia. N Engl J Med, 2007,357(3):258-265.   \n[3] Druker B J,Talpaz M,Resta D J,et al. Efficacy and Safety of a Specific Inhibitor of the BCR-ABL Tyrosine Kinase in Chronic Myeloid Leukemia[J]. New England Journal of Medicine, 2001, 344(14):1031-1037.   \n[4] Matthay M A, Zemans R L . The Acute Respiratory Distress Syndrome: Pathogenesis and Treatment. Annual Review of Pathology: Mechanisms of Disease, 2011, 6(1):147-163.   \n[5] Goldenberg N M, Steinberg B E, Slutsky A S, et al. Broken Barriers: A New Take on Sepsis Pathogenesis. Science Translational Medicine, 2011, 3(88):88ps25-88ps25.   \n[6] Mehta, D,Malik, A.B. Signaling mechanisms regulating endothelial permeability. Physiol Rev 2006,86,279-367..   \n[7] Weis S M，Cheresh D A .Pathophysiological consequences of VEGF-induced vascular permeability. Nature, 2005, 437(7058):497-504.   \n[8] Goldenberg N M, Steinberg B E, Slutsky A S,et al. Broken Barriers: A New Take on Sepsis Pathogenesis. Science Translational Medicine, 2011, 3(88):88ps25-88ps25.   \n[9] Overbeek MJ,Van N A G P，Boonstra A，et al. Possible role of imatinib in clinical pulmonary veno-occlusive disease. European Respiratory Journal, 20o8,32(1):232-235.   \n[10] Wang Y , Miller A L ,Mooseker M S ,et al. The Abl-related gene (Arg) nonreceptor tyrosine kinase uses two F-actin-binding domains to bundle F-actin. Proceedings of the National Academy of Sciences, 2001, 98(26):14865-14870.   \n[11] Galkin V E, Orlova A,Koleske A J,et al. The Arg Non-receptor Tyrosine Kinase Modifies F-actin Structure. Journal of Molecular Biology, 2005,346(2):0-575.   \n[12] Lapetina S,Mader C C,Machida K ,et al. Arg interacts with cortactin to promote adhesiondependent cell edge protrusion. The Journal of Cell Biology, 2009,185(3):503-519.   \n[13] Miller M M,Lapetina S ，Macgrath S M，et al. Regulation of Actin Polymerization and Adhesion-Dependent Cell Edge Protrusion by the Abl-Related Gene (Arg) Tyrosine Kinase and NWASp. Biochemistry, 2010, 49(10):2227-2234.   \n[14] Aman, J PhD Thesis 2014, (htp://dare.ubvu.vu.nl/handle/1871/50668).   \n[15] Kurimoto N,Nan Y S,Chen Z Y,et al. Effects of specific signal transduction inhibitors on increased permeability across rat endothelial monolayers induced by neuropeptide Y or VEGF. Am J Physiol Heart Circ Physiol, 2004,287(1):H100-6.   \n[16] Aman J,Van Bezu J,Damanafshan A,et al. Effective Treatment of Edema and Endothelial Barrier Dysfunction With Imatinib. Circulation, 2012,126(23):2728-2738.   \n[17] Chislock E M, Pendergast A M .Abl Family Kinases Regulate Endothelial Barrier Function In Vitro and in Mice. PLOS ONE, 2013, 8.   \n[18] Kim JY,Choi J S, Song S H,et al. Stem Cell Factor Is a Potent Endothelial Permeability Factor. Arteriosclerosis, Thrombosis, and Vascular Biology, 2014, 34(7):1459-1467.   \n[19] Stephens R S, Johnston L,ServinskyL,et al.The tyrosine kinase inhibitor imatinib prevents lung injury and death after intravenous LPS in mice. Physiological Reports, 2015, 3(11).   \n[20] Kim IK，Rhee C K，Yeo C D，et al. Effect of tyrosine kinase inhibitors,imatinib and nilotinib, in murine lipopolysaccharide-induced acute lung injury during neutropenia recovery. Critical Care, 2013,17(3):R114.   \n[21] Rizzo A N，Letsiou E ，Sammani S，et al. Imatinib Inhibits LPS-Induced Endothelial Dysfunction And Acute Lung Injury. American Journal of Respiratory and Critical Care Medicine 2014;189:A2207.   \n[22] Carnevale-Schianca F，Gallo S，Rota-Scalabrini D ，et al. Complete Resolution of LifeThreatening Bleomycin-Induced Pneumonitis After Treatment With Imatinib Mesylate in a Patient With Hodgkin\\\"s Lymphoma: Hope for Severe Chemotherapy-Induced Toxicity?. Journal of Clinical Oncology, 2011,29(24):e691-e693.   \n[23] Aman J,Peters MJL,Weenink C ,et al. Reversal of Vascular Leak with Imatinib.American Journal of Respiratory and Critical Care Medicine, 2013,188(9):1171-1173.   \n[24] Nanshan Chen, Min Zhou, Xuan Dong,et al. Epidemiological and clinical characteristics of 99 cases of 2O19 novel coronavirus pneumonia in Wuhan, China: a descriptive study. The Lancet, 2020, 395(10223)15-21:507-513. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

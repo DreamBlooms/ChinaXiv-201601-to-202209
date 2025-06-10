@@ -1,0 +1,530 @@
+[
+    {
+        "type": "text",
+        "text": "毛乌素沙地不同土地利用类型的土壤粒度及有机质特征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "毛丽¹，苏志珠²，王国玲¹，马义娟³，李想¹（1．山西大学环境与资源学院,山西太原030006；2．山西大学历史文化学院,山西太原030006;3．太原师范学院地理科学学院,山西晋中030619)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在毛乌素沙地选择半固定沙丘地、留茬地、翻耕地及草地4种土地利用类型,采集土壤表层( $0 \\sim 5 ~ \\mathrm { c m } )$ 和亚表层 $( 5 \\sim 1 0 ~ \\mathrm { c m } )$ )实验样品,测试并分析粒度和有机质的含量变化及其二者之间的相关性。结果表明： $\\textcircled{1}$ 留茬地、翻耕地和草地的优势粒级为粉粒 $( 0 . 0 0 2 \\sim 0 . 0 5 ~ \\mathrm { m m } )$ 。表层土壤粉粒含量草地( $( 6 1 . 0 6 \\%$ ） $>$ 留茬地 $( 5 3 . 0 9 \\%$ ） $>$ 翻耕地( $4 8 . 2 8 \\%$ )；亚表层为草地( $6 1 . 2 5 \\%$ ） $>$ 翻耕地 $( 4 9 . 4 3 \\%$ ） $>$ 留茬地 $( 4 8 . 4 2 \\%$ )。半固定沙丘地的优势粒级为细砂 $( 0 . 1 \\sim 0 . 2 5 \\ \\mathrm { m m }$ )。其表层含量 $5 2 . 6 9 \\%$ ,亚表层含量 $5 4 . 5 3 \\%$ 。 $\\textcircled{2}$ 土壤有机质含量,表层草地( $^ { 1 8 . 7 5 \\mathrm { ~ g ~ } }$ ：$\\mathbf { k g } ^ { - 1 }$ ） $>$ 翻耕地 $( 1 2 . 5 3 \\mathrm { ~ g ~ } \\cdot \\mathrm { k g } ^ { - 1 } ) >$ 留茬地 $( 1 1 . 2 5 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 } )$ ） $>$ 半固定沙丘地 $( 8 . 1 3 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ )；亚表层草地（13.36$\\mathbf { g } \\cdot \\mathbf { \\mathrm { k g } } ^ { - 1 }$ ） $>$ 留茬地 $( 1 3 . 0 5 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 } )$ $>$ 翻耕地 $( 1 2 . 6 7 \\mathrm { ~ g ~ } \\cdot \\mathrm { k g } ^ { - 1 } )$ $>$ 半固定沙丘地 $( 7 . 7 3 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ）。 $\\textcircled{3}$ 土壤粒度与有机质的相关性表现为留茬地、半固定沙丘地的有机质与粉粒呈显著正相关,翻耕地有机质与中砂、细砂呈正相关，反映了翻耕地土壤有机质不稳定且易受其他因素影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：土壤粒度；土壤有机质；土地利用类型；毛乌素沙地",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "土壤有机质是作物所需的各种养料的源泉，能改善土壤的物理和化学性质，有机质含量的增加，能提高土粒间微结构的胶结力和土壤结构体间的抵抗离散力,并增加土壤的抗风蚀能力[1]。一般来说,荒漠化地区土壤有机质附着在土壤细颗粒中形成稳定的团聚体，而砂粒吸附有机质能力较差，受成土母质、生物气候作用以及土地利用变化等因素的影响，沙物质含量较多的土壤易受风蚀，使土壤表层粒度组成发生变化，即富含养分的细颗粒物质被吹蚀，并导致土壤结构性变差[2-3]。随着土壤细颗粒的损失，有机质也随之流失，土壤结构和团粒的稳定性受到破坏，土壤养分含量及有效性降低，最终使土地生产力进一步下降[4]。因此,研究土壤粒度与有机质含量变化及其二者之间的关系，对防治土壤风蚀有重要的现实意义。目前，有关土壤粒度与有机质的关系研究主要集中于河北坝上[5、科尔沁沙地[2]呼伦贝尔沙地[以及雅鲁藏布江风沙化土地等区域，并取得了显著进展。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "毛乌素沙地位于我国农牧交错带中部，区域生态脆弱，是我国京津冀风沙源区沙化土地治理关键技术研究与示范地区之一。该沙地土壤风蚀的研究成果较多,主要集中在沙地表土粒度特征[8]、生物结皮对风蚀的影响[9]、沙地土壤水分变化(10-1]、沙地土壤理化性质[12]、沙地气候因子对风蚀的影响[13]植被盖度与风蚀量关系[14]等方面的研究，但对不同土地利用类型的土壤粒度组成与有机质对土壤风蚀影响的研究仍有待深入。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由于土壤粒度组成是我国沙漠化监测与评价的重要指标之一，不同粒级组分含量既影响土壤的理化性质，也影响土壤有机质含量变化。为此，本项研究通过野外实地考察、样地选择、实验样品采集及室内测试分析，对毛乌素沙地不同土地利用类型（留茬地、翻耕地、草地、半固定沙丘地)的粒度和有机质特征及其二者之间的相关性进行分析，以期为区域土壤质量评价与管理以及风蚀防治提供基础数据和科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "毛乌素沙地 ( $3 7 ^ { \\circ } 2 7 ^ { \\prime } \\sim 3 9 ^ { \\circ } 2 2 ^ { \\prime } \\mathrm { ~ N ~ }$ ， $1 0 7 ^ { \\circ } 2 0 ^ { \\prime }$ \\~$1 1 1 ^ { \\circ } 3 0 ^ { \\prime } \\mathrm { E }$ )地处鄂尔多斯高原东南洼地与陕北黄土高原之间（图1），地势自西北向东南倾斜，包括内蒙古鄂尔多斯市辖区的伊金霍洛旗、乌审旗、鄂托克旗、鄂托克前旗,陕西省榆林市辖的榆阳区、神木县、横山县、靖边县和定边县以及宁夏盐池县东北部[15],沙地总面积约为 $4 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ 。气候区划上属温带半干旱大陆性季风气候，年平均气温为 $6 . 0 \\sim$ $8 . 5 ~ \\mathrm { { ^ { \\circ } C } }$ ,年平均降水量自东南部的 $4 0 0 \\sim 4 5 0 ~ \\mathrm { m m }$ 向西北递减为 $2 5 0 \\sim 3 0 0 ~ \\mathrm { \\ m m }$ ,全年降水量的 $6 0 \\%$ \\~$7 5 \\%$ 集中在7—9月,春季平均风速 $3 . 0 7 \\ \\mathrm { m \\cdot s ^ { - 1 } }$ ,最大风速可达 $2 0 \\sim 2 5 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,年大风日数 $2 0 \\sim 4 0 \\$ （204号 $\\mathrm { d } ^ { [ 1 6 ] }$ 。土壤区划上东部为栗钙土干草原地带,西部属棕钙土半荒漠地带,中部以非地带性的盐碱土、草甸土以及风沙土等占绝对优势,从西北向东南土壤类型从棕钙土过渡为淡栗钙土，再向东南过渡为黄土高原暖温带黑鲈土地带，土壤的分布表现出了显著的过渡性特征[16]。植物种类主要有油蒿（Artemi-sia ordosica）沙柳（Salix psammophila）锦鸡儿（Ca-raganaintermedia）旱柳（Salixmatsudana）芨芨草(Achnatherumsplendens）马蔺（Irislacteavar.chinensis）、小叶杨（Populussimonii）等,旱柳和小叶杨是毛乌素沙地优势的乔木，是该区生态恢复的主要树种[17] C",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2017年10一11月，在毛乌素沙地进行野外考察的基础上，选取研究区的留茬地（LC）、翻耕地(FG）草地(CD)和半固定沙丘地(SQ)4种代表性地类作为研究样地，样地环境状况见表1。其中，留茬地的茬高 $\\geqslant 1 0 \\ \\mathrm { c m }$ ,翻耕地均为未留茬的裸露农田地，草地的植被覆盖度在 $60 \\%$ 以上，半固定沙丘地的地表植被以油蒿群落为主。土壤样品采集按照多点采样法进行，即每块样地选取3个样方点，每个样方采样面积 $2 0 \\ \\mathrm { c m } \\times 2 0 \\ \\mathrm { c m }$ 。基于土壤风蚀深度考虑，均匀采集表层 $\\left( 0 \\sim 5 ~ \\mathrm { c m } \\right)$ 与亚表层 $( 5 \\sim 1 0 ~ \\mathrm { c m } )$ 土壤实验样品，单个样品重量 $3 0 0 \\sim 5 0 0 \\mathrm { ~ g ~ }$ ，将样品放入自封袋用于测试，使用GPS对每个样地进行定位，并详细记录各样地地表状况与周边环境因素。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土壤粒度采用英国Malvern公司生产的Master-sizer 3000 激光粒度仪测定[18]。具体步骤为： $\\textcircled{1}$ 称取 $\\mathrm { ~ 1 ~ } { \\sim } 3 \\mathrm { ~ g ~ }$ 原状土壤样品放入烧杯; $\\textcircled{2}$ 加入 $1 0 ~ \\mathrm { m L }$ 浓度为 $10 \\%$ 的 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 溶液,并放置在电热板上加热至无气泡溢出，以去除有机质及多余 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ ： $\\textcircled{3}$ 待其冷却后加入 $1 0 ~ \\mathrm { m L }$ 浓度为 $10 \\%$ 的HCl溶液，在电热板上加热至无气泡溢出，且颜色变为黄绿色，以去除次生碳酸盐类物质； $\\textcircled{4}$ 冷却后加入 $1 0 0 ~ \\mathrm { m L }$ 超纯水，静置 $2 4 \\mathrm { ~ h ~ }$ ,抽取上清液，除去过量酸,反复数次至中和;$\\textcircled{5}$ 加人 $1 0 ~ \\mathrm { \\ m L }$ 摩尔浓度为 $0 . \\ 0 5 \\ \\mathrm { \\ m o l } \\ \\cdot \\ \\mathrm { L } ^ { - 1 }$ 的0 $\\left( \\mathrm { N a P O } _ { 3 } \\right.$ ） $_ 6$ 溶液作为分散剂,并置入超声波清洗器中震荡 $1 0 \\ \\mathrm { m i n }$ $\\textcircled{6}$ 取烧杯中底浊物在Mastersizer3000激光粒度仪上进行测试。该仪器单量程检测范围$0 . 0 2 \\sim 3 ~ 5 0 0 ~ { \\mu \\mathrm { m } }$ ,重复测量误差小于 $2 \\%$ ,每个样品重复测定3次，取其平均值作为该样品的测定结果，单位以体积百分比表示。土壤颗粒组成划分为砾石0 ${ \\mathrm { \\Omega } } > 2 \\ 0 0 0 \\ { \\mu \\mathrm { m } }$ ）、极粗砂( $1 \\ 0 0 0 \\sim 2 \\ 0 0 0 \\ \\mu \\mathrm { m }$ ）、粗砂（ $( 5 0 0 \\sim 1 0 0 0 ~ \\mu \\mathrm { m } )$ ）、中砂（ $2 5 0 \\sim 5 0 0 ~ \\mu \\mathrm { m }$ ）、细砂( $1 0 0 \\sim 2 5 0 ~ \\mu \\mathrm { m } ,$ ）、极细砂 $( 5 0 \\sim 1 0 0 ~ \\mu \\mathrm { m } )$ ）、粉粒 $( 2 \\sim$ $5 0 ~ \\mu \\mathrm { m }$ ）和黏粒 $( \\mathbf { \\nabla } < 2 \\mathbf { \\mu } _ { \\mathrm { { u m } } }$ )[19]；土壤有机质采用$\\mathrm { K } _ { 2 } \\mathrm { C r } _ { 2 } \\mathrm { O } _ { 7 } - \\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }$ 法测定[20]；土壤粒度组分和有机质含量的相关分析采用Pearson相关系数法（IBMSPSSStatisticsV20.0），所有结果采用软件Origin8.5处理予以图示化。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/230160ba788d90abb1c4644a894dd1254f0965faa95780934fa49996e2b27718.jpg",
+        "img_caption": [
+            "图1毛乌素沙地位置与采样点示意图",
+            "Fig.1The location of the Mu Us Sandland and the distribution of sampling sites "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/1b56cfe62386ed4eb412c16a41494d72d1ef9d2412ace156e589061a2d487131.jpg",
+        "table_caption": [
+            "表1采样点位置及地表状况",
+            "Tab.1 Locations of the sampling sites and conditions of the land surface "
+        ],
+        "table_footnote": [
+            "注：留茬地LC-3、翻耕地FG-3和草地 CD-5位置相邻,故使用一个中心地理坐标;留茬地LC-5 与翻耕地FG-4毗邻,故使用一个中心地理坐标;半固定沙丘地SQ-1、SQ-2 和 SQ-3 的位置临近,故使用一个中心地理坐标。"
+        ],
+        "table_body": "<html><body><table><tr><td>土地利 用类型</td><td>样地 编号</td><td>地理坐标</td><td>地表状况</td><td>土地利 用类型</td><td>样地 编号</td><td>地理坐标</td><td>地表状况</td></tr><tr><td>留茬地 LC-1</td><td></td><td>38.59°N,109.27°E</td><td>玉米留茬地，茬高约10cm</td><td>草地</td><td></td><td>CD-1 38.19°N,107.71°E 地表植被以针茅为主</td><td></td></tr><tr><td></td><td>LC -2</td><td>37.54°N,108.98E</td><td>荞麦留茬地，茬高15~20cm</td><td></td><td>CD-2</td><td>39.08N,110.97°E</td><td>地表分布有油蒿、针茅等</td></tr><tr><td></td><td>LC-3</td><td>37.52°N,108.44E</td><td>向日葵留茬地,茬高约50 cm</td><td></td><td>CD-3</td><td></td><td>39.23°N,110.17E地表分布有油蒿、狗尾草等</td></tr><tr><td></td><td>LC -4</td><td>37.49°N,108.19E</td><td>玉米留茬地,茬高约10 cm</td><td></td><td></td><td></td><td>CD-4 38.03N,109.27°E地表分布有油蒿、针茅等</td></tr><tr><td></td><td>LC-5</td><td>37.49°N,107.96E</td><td>荞麦留茬地,茬高约15 cm</td><td></td><td>CD-5</td><td>37.52°N,108.44°E地表植被以针茅为主</td><td></td></tr><tr><td></td><td>翻耕地 FG-1</td><td>38.78°N,110.14°E</td><td>板蓝根翻耕地</td><td>半固定 沙丘地</td><td></td><td>SQ-1 38.69°N,109.05°E</td><td>半固定沙丘，以油蒿群落为 主，植被盖度约30%</td></tr><tr><td></td><td>FG-2</td><td>39.02°N,109.38E</td><td>西瓜翻耕地</td><td></td><td></td><td>SQ-2 38.69°N,109.05°E</td><td>半固定沙丘，以油蒿群落为 主，植被盖度约20%</td></tr><tr><td></td><td>FG-3</td><td>37.52°N,108.44°E</td><td>马铃薯翻耕地</td><td></td><td></td><td>SQ-3 38.69°N,109.05E</td><td>半固定沙丘，以油蒿群落为 主,植被盖度约40%</td></tr><tr><td></td><td></td><td>FG-437.49°N,107.96°E</td><td>荞麦翻耕地</td><td></td><td></td><td>SQ-4 38.77°N,109.11°E</td><td>半固定沙丘，以油蒿群落为 主，植被盖度约20%</td></tr><tr><td></td><td>FG-5</td><td>37.80°N,107.34°E</td><td>玉米翻耕地</td><td></td><td></td><td>SQ-5 38.87°N,109.22°E</td><td>半固定沙丘，以油蒿群落为 主，植被盖度约30%</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 土壤粒度特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1土壤粒度组分特征研究区4 种地类土壤粒度组成上有着明显差异（图2）。就土壤表层( $0 \\sim$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$5 \\ \\mathrm { c m }$ )而言，留茬地(LC）、翻耕地(FG)与草地（CD)粒度组成以粉粒为主。留茬地（LC），粉粒含量$5 3 . 0 9 \\%$ ,极细砂含量 $2 3 . 5 0 \\%$ ,其余粒径含量均不足 $1 0 . 0 0 \\%$ ;翻耕地（FG），粉粒含量 $4 8 . 2 8 \\%$ ,极细砂含量 $1 6 . 1 8 \\%$ ,细砂 $1 1 . 2 8 \\%$ ,其余粒径含量较少；草地（CD），粉粒含量61. $06 \\%$ ，极细砂含量$2 3 . 5 7 \\%$ ,细砂含量 $9 . 2 6 \\%$ ;半固定沙丘地(SQ)的细注：LC 为留茬地，FG为翻耕地，CD为草地，SQ为半固定沙丘地；柱状图的左侧为表层，右侧为亚表层。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1832ce891298ce1d8a387ffc6b67320cfe5ad5ef925b021e2e5b568b11960428.jpg",
+        "img_caption": [
+            "图2不同地类土壤颗粒组分含量分布Fig.2Distribution of soil particle composition indifferent land use types"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "砂、中砂含量较多，分别为 $5 2 . 6 9 \\%$ 和 $2 9 . 3 2 \\%$ ,其余粒径含量较少。对土壤亚表层 $( 5 \\sim 1 0 ~ \\mathrm { c m } )$ 而言，留茬地、翻耕地、草地的土壤粒度组成以粉粒为主，含量依次呈现出草地， $( 6 1 . 2 5 \\%$ ） $>$ 翻耕地( $( 4 9 . 4 3 \\%$ ）>留茬地 $( 4 8 . 4 2 \\%$ );半固定沙丘地粒度组成仍以细砂为主，含量为 $5 4 . 5 3 \\%$ 。同一地类土壤的表层$( 0 \\sim 5 ~ \\mathrm { c m } )$ 与亚表层 $( 5 \\sim 1 0 \\ \\mathrm { c m } )$ ，主要粒级组分的含量也存在着差异。留茬地，表层与亚表层的优势组分均为粉粒，含量表现出表层 $( 5 3 . 0 9 \\%$ ） $>$ 亚表层 $4 8 . 4 2 \\%$ ），极细砂含量表层( $2 3 . 5 0 \\%$ ） $>$ 亚表层(19. $7 7 \\%$ )；翻耕地，粉粒含量表现为亚表层$( 4 9 . 3 2 \\%$ ） $>$ 表层( $4 8 . 2 8 \\%$ )，极细砂含量表层（ $1 6 . 1 8 \\%$ ） $<$ 亚表层 $( 1 7 . 7 4 \\%$ );草地，表层的粉粒含量（ $6 1 . 0 6 \\%$ )略低于亚表层( $( 6 1 . 2 6 \\%$ ）,极细砂含量表层( $2 3 . 5 7 \\%$ ） $>$ 亚表层（ $( 1 8 . 7 6 \\%$ );半固定沙丘地，表层细砂含量( $5 2 . 6 9 \\%$ ） $\\angle$ 亚表层 $( 5 4 . 5 3 \\%$ ），中砂含量亚表层( $2 9 . 9 1 \\%$ ）>表层 $( 2 9 . 3 2 \\%$ ）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "不同地类土壤的表层( $\\mathrm { ( 0 \\sim 5 ~ c m ) }$ 和亚表层 $( 5 \\sim$ $1 0 ~ \\mathrm { c m } \\dot { } .$ )，其相同粒级的组分含量存在明显的变化。草地的土壤表层( $\\mathrm { ( 0 \\sim 5 ~ c m ) }$ 与亚表层 $( 5 \\sim 1 0 ~ \\mathrm { c m } )$ ，其细颗粒含量高于留茬地、翻耕地和半固定沙丘地;与草地相比,留茬地表层粉粒含量减少了 $7 . 9 7 \\%$ ，亚表层粉粒含量减少了 $1 2 . 8 4 \\%$ ；翻耕地的表层粉粒含量减少了 $1 2 . 7 8 \\%$ ,亚表层粉粒含量减少了$1 1 . 8 3 \\%$ ;半固定沙丘地，表层与亚表层的粒度组成均以细砂为主，比其他3种地类粒度组成要粗些。由此可以看出，土壤颗粒各粒级的含量不仅在同一地类不同深度的垂向上存在差异，而且在不同地类同一深度的横向上也表现出差异性，这除受成土母质影响外，也与土地利用方式有关。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.2土壤粒度分布曲线特征土壤颗粒频率分布曲线常用于分析颗粒大小分布情况,不仅可定性获取偏度、峰度等信息，还可以从曲线的波峰属性判断颗粒的沉积动力及物源情况。从4种地类土壤粒度分布曲线（图3)可以看出，对表层 $\\left( 0 \\sim 5 ~ \\mathrm { c m } \\right)$ 而言，半固定沙丘地(SQ)的土壤粒度分布呈较窄的单峰态，留茬地(LC）、翻耕地(FG）、草地（CD)的土壤粒度分布呈多峰态。按半固定沙丘地、留茬地、翻耕地、草地之顺序，粒度分布曲线上峰值逐渐偏向 $\\phi$ 值较大的一端,4种地类峰值对应的 $\\varphi$ 值分别为2.06、4.08、4.27和4.45，反映出土壤表层粒径有逐渐变细的趋势。从土壤亚表层( $5 \\sim 1 0 ~ \\mathrm { c m } ,$ 来看，半固定沙丘地仍呈较窄的单峰态，留茬地、翻耕地、草地表现为多峰态。按半固定沙丘地、留茬地、翻耕地、草地的顺序，粒度分布曲线上峰值逐渐偏向 $\\phi$ 值较大的细粒端，4种地类峰值对应的 $\\phi$ 值分别为$2 . 2 4 . 4 . 0 8 . 4 . 2 7$ 和4.63。不难看出，研究区4种地类表层 $\\left( 0 \\sim 5 \\ \\mathrm { c m } \\right) ,$ 与亚表层 $( 5 \\sim 1 0 ~ \\mathrm { c m } )$ 土壤颗粒均以草地粒径最细，半固定沙丘地粒径最粗，留茬地与翻耕地粒径介于两者之间。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2土壤有机质特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究区土壤有机质的测试分析结果（表2）显示,4种地类土壤有机质含量为 $6 . 0 6 \\sim 3 4 . 0 7 \\mathrm { ~ g ~ } \\cdot$ （204$\\mathbf { k g } ^ { - 1 }$ 。其中： $\\textcircled{1}$ 留茬地,土壤表层含量为 $5 . 9 6 \\sim$ $1 9 . 3 6 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ,平均值 $1 1 . 2 5 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ;土壤亚表层含量为 $6 . 5 2 \\sim 2 4 . 9 6 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ,平均值 $1 3 . 0 5 \\mathrm { ~ g ~ } \\cdot$ $\\mathbf { k g } ^ { - 1 }$ ,表现为表层有机质含量低于亚表层。 $\\textcircled{2}$ 翻耕地,土壤表层有机质含量为 $8 . 5 4 \\sim 2 0 . 5 0 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ，注：LC为留茬地;FG为翻耕地;CD为草地;SQ为半固定沙丘地。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a06fe43aa4e3f7cbaab0da918ad615eefae7db8d9f743468e2d3f348aac9ed95.jpg",
+        "img_caption": [
+            "图3不同地类土壤粒度分布曲线",
+            "Fig.3Distribution curves of soil granularity in different land use types "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b7e7efb97ca74a22beb1b347c629b1bcb4578567a892913e06d1c2a09ee71466.jpg",
+        "table_caption": [
+            "表2不同地类土壤有机质含量"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>样地类型</td><td>深度/cm</td><td colspan=\"5\">有机质含量/（g·kg-1）</td><td>平均值/(g·kg-1)</td></tr><tr><td>留茬地</td><td></td><td>LC -1</td><td>LC -2</td><td>LC-3</td><td>LC-4</td><td>LC -5</td><td></td></tr><tr><td></td><td>0~5</td><td>19.36</td><td>5.96</td><td>8.90</td><td>11.49</td><td>10.56</td><td>11.30</td></tr><tr><td></td><td>5~10</td><td>24.96</td><td>6.53</td><td>10.59</td><td>12.04</td><td>11.15</td><td>13.05</td></tr><tr><td>翻耕地</td><td></td><td>FG-1</td><td>FG-2</td><td>FG-3</td><td>FG-4</td><td>FG-5</td><td></td></tr><tr><td></td><td>0~5</td><td>12.31</td><td>20.50</td><td>8.54</td><td>11.13</td><td>10.16</td><td>11.53</td></tr><tr><td></td><td>5~10</td><td>12.37</td><td>21.70</td><td>10.32</td><td>10.80</td><td>8.16</td><td>12.67</td></tr><tr><td>草地</td><td></td><td>CD-1</td><td>CD-2</td><td>CD-3</td><td>CD-4</td><td>CD-5</td><td></td></tr><tr><td></td><td>0~5</td><td>15.43</td><td>19.16</td><td>11.00</td><td>34.07</td><td>14.14</td><td>18.75</td></tr><tr><td></td><td>5~10</td><td>13.24</td><td>17.82</td><td>4.46</td><td>20.25</td><td>11.06</td><td>13.36</td></tr><tr><td>半固定</td><td></td><td>SQ-1</td><td>SQ-2</td><td>SQ-3</td><td>SQ-4</td><td>SQ-5</td><td></td></tr><tr><td>沙丘地</td><td>0~5</td><td>7.49</td><td>6.06</td><td>12.87</td><td>7.14</td><td>7.10</td><td>8.13</td></tr><tr><td></td><td>5~10</td><td>6.73</td><td>6.15</td><td>11.37</td><td>7.17</td><td>7.23</td><td>7.73</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "平均值 $1 1 . 5 3 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ,土壤亚表层含量为 $8 . 1 6 \\sim$ $2 1 . 7 0 \\mathrm { ~ g ~ } \\cdot \\mathrm { k g } ^ { - 1 }$ ,平均值 $1 2 . 6 7 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ,呈现出土壤亚表层的有机质含量略高于表层。 $\\textcircled{3}$ 草地,土壤表层含量为 $1 1 . 0 0 \\sim 3 4 . 0 7 \\mathrm { ~ g ~ } \\cdot \\mathrm { k g } ^ { - 1 }$ ,平均值 $1 8 . 7 5 \\mathrm { ~ g ~ }$ ：$\\mathbf { k g } ^ { - 1 }$ ,土壤亚表层含量 $4 . 4 6 \\sim 2 0 . 2 5 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ,平均值 $1 3 . 3 6 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ,土壤表层有机质含量明显高于亚表层。 $\\textcircled{4}$ 半固定沙丘地，土壤表层有机质含量为$6 . 0 6 \\sim 1 2 . 8 7 \\textrm { g } \\cdot \\mathrm { k g } ^ { - 1 }$ ,平均值 $8 . 1 3 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k ~ g ~ } ^ { - 1 }$ ,土壤亚表层含量为 $7 . 7 3 \\sim 1 1 . 3 7 \\mathrm { ~ g ~ } \\cdot \\mathrm { k g } ^ { - 1 }$ ,平均值 $7 . 7 3 \\mathrm { ~ g ~ }$ ：$\\mathbf { k g } ^ { - 1 }$ ,表层的有机质略高于亚表层的含量。由此可以看出，4种地类的土壤表层有机质含量表现出草地 $>$ 翻耕地 $>$ 留茬地 $>$ 半固定沙丘地的规律,而土壤亚表层有机质含量则呈现出草地 $>$ 留茬地 $>$ 翻耕地 $>$ 半固定沙丘地的规律。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3土壤粒度组分与有机质的相关性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了解研究区4种地类土壤颗粒与有机质之间的关系，利用SPSS软件对不同地类土壤有机质与粒级组分做相关分析（表3和图4），予以揭示二者的相关性。由于4种地类土壤中砾石、极粗砂、粗砂含量均较少（图2），故不参与统计分析。从表3可以看出，不同地类土壤有机质与土壤粒级含量的相关性有着明显差异。其中，留茬地（LC），有机质与粉粒相关系数为0.556，呈显著正相关关系；翻耕地（FG），有机质与中砂相关系数为0.895，呈极显著正相关，有机质与细砂相关系数为0.905，呈极显著正相关关系，与粉粒相关系数为-0.793，呈极显著负相关;草地（CD），土壤有机质与黏粒相关系数为0.569，呈显著正相关；半固定沙丘地（SQ），土壤有机质与粉粒相关系数为0.696，呈显著正相关关系。由此可知，研究区4种地类中，粉粒是留茬地、半固定沙丘地有机质积累与否的关键粒级，黏粒是草地有机质积累的优势粒级，翻耕地有机质积累与中砂、细砂粒级组分有关。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3不同地类土壤有机质与粒度组分的相关性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/dd39f1b2270e2223e41209192d73ed835ae0fb093681f2beb837ec6714738d35.jpg",
+        "table_caption": [
+            "Tab.2Soil organic matter content in different land use types ",
+            "Tab.3The correlation between soil mechanical composition and organic matter content "
+        ],
+        "table_footnote": [
+            "注： $^ *$ 表示在0.05水平上显著相关；\\*\\*表示在0.01水平上显著相关。"
+        ],
+        "table_body": "<html><body><table><tr><td>颗粒径级</td><td>留茬地 (LC)</td><td>翻耕地 (FG)</td><td>草地 (CD)</td><td>半固定沙丘 地(SQ)</td></tr><tr><td>中砂 (0.5~0.25mm)</td><td>-0.087</td><td>0.895 **</td><td>0.199</td><td>0.052</td></tr><tr><td>细砂 (0.25~0.10 mm)</td><td>0.023</td><td>0.905 **</td><td>0.073</td><td>-0.323</td></tr><tr><td>极细砂 (0.10~0.05 mm)</td><td>-0.480</td><td>-0.284</td><td>0.420</td><td>0.407</td></tr><tr><td>粉粒 (0.05~0.02 mm)</td><td></td><td>0.556*-0.793 **</td><td>-0.502</td><td>0.696 *</td></tr><tr><td>黏粒 (<0.002 mm)</td><td>-0.372</td><td>-0.232</td><td>0.569 *</td><td>-0.092</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "土壤粒度和有机质是构成土壤综合体的重要组成部分，二者含量的多寡直接影响着土壤理化性质和结构的稳定性;同时，粒度组分与有机质之间有着相互关联性。在我国北方沙质荒漠化地区，通常黏粒含量较多的土壤，其有机质含量也相应较高；而有机质含量较高的土壤，其物理性质和结构也相对稳定[21]。土壤粒度组分及其分布特征主要受成土因素的影响，人类活动如土地利用方式、耕作制度、土壤培肥等对其影响也很深刻，不同地类土壤的粒度组成及其分布特征、有机质含量变化存在差异是必然的。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/75c8412c0ae3216422e18cf194bca8d60293821ad56b82525b8822580df3a666.jpg",
+        "img_caption": [
+            "图4不同地类土壤机械组成与有机质的相关性",
+            "Fig.4The correlation between soil mechanical composition and organic matter content in diferent land types "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "研究区不同地类土壤粒度组成中粒级含量变化表现为：4种地类土壤表层( $( 0 \\sim 5 \\ \\mathrm { c m } ) ,$ 和亚表层（ $5 \\sim$ $1 0 \\ \\mathrm { c m }$ )粒度组成中，除半固定沙丘地以细砂、中砂为主外，其他都是以粉粒（ $( 5 0 \\sim 2 ~ \\mu \\mathrm { m } )$ 和极细砂（ $( 5 0 \\sim 1 0 0 ~ \\mu \\mathrm { m } )$ )为主；其中，表层( ${ \\mathrm { ( 0 \\sim 5 ~ c m ) } }$ 粉粒含量,留茬地为 $5 3 . \\ 0 9 \\%$ 、翻耕地 $4 8 . \\ 2 8 \\%$ 、草地$6 1 . 0 6 \\%$ ；亚表层 $( 5 \\sim 1 0 ~ \\mathrm { c m } )$ 粉粒含量，留茬地为$4 8 . 4 2 \\%$ 、翻耕地 $4 9 . 4 3 \\%$ 、草地 $6 1 . 2 5 \\%$ 。据李占宏等[22]对毛乌素沙地不同地类表土粒度的研究,耕地以黏粒( $< 2 ~ \\mu \\mathrm { m } \\dot { }$ )为主，林地粉粒 $( 5 0 \\sim 2 ~ \\mu \\mathrm { m } )$ 含量最多,草地以极细砂( $( 7 5 \\sim 5 0 ~ \\mu \\mathrm { m } )$ )为主，半固定沙丘、流动沙丘的表层颗粒组成均以中砂( $7 0 0 \\sim 2 5 0$ $\\mu \\mathrm { m }$ )含量居多。高君亮等[8研究认为，毛乌素沙地草地、耕地表层粒度组成以粉粒、极细砂为主，而沙丘地以细砂、中砂为主。笔者的研究，除半固定沙丘地外的草地、留茬地、翻耕地土壤表层粒度组成均以粉粒、极细砂为主,这与李占宏等(22]和高君亮等(8)的研究结果相类似，半固定沙丘地表层粒度组成均以细砂、中砂组分为主,其结果与舒培仙等[23]、沈亚萍等[24]的研究相类似。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "不同地类土壤表层 $( 0 \\sim 5 ~ \\mathrm { c m } ) ,$ 和亚表层（5\\~10cm)的粒度组成存在差异。草地，表层 $\\left( 0 \\sim 5 \\ \\mathrm { c m } \\right)$ 粉粒含量略小于亚表层 $( 5 \\sim 1 0 ~ \\mathrm { c m } )$ ,这与杨志勇等[25]对乌兰布和沙漠、张志栋等[26对河北坝上草地土壤粒径的研究结果相似，原因主要在于草地的地表植被对大气降尘和细粒物质具有截存效应，其根系分泌的有机酸能改变土壤理化性质，增强土壤黏结性和结构的稳定性，也增强了地表的抗风蚀能力，并受根系和生物结皮的影响，土壤颗粒趋于细化。留茬地，土壤表层粉粒和极细砂含量均大于亚表层，这与作物留茬能够降低风速、增加地表粗糙度、减弱风蚀强度有关,使得表层细颗粒组分含量较多[27]。翻耕地，土壤表层的粉粒含量较亚表层略少，与留茬地相比，表层的粉粒含量减少，这主要是由于不断地翻耕破坏了表层土壤结构，土体颗粒间黏滞力降低，加之地表无植被覆盖,冬春季节易受大风吹蚀[28]。沙丘表面粒度不仅是风力对源区沙物质搬运和分选作用的反映，也是沙丘表面风沙动力过程的重要记录[29],研究区半固定沙丘地的表层与亚表层粒度组分都是以细砂、中砂为主，含量相差不大，这主要与成土母质为风成沙有关。显然，荒漠化地区农田翻耕后土壤表层细粒物质流失，留茬地可有效减少细颗粒物质的损失。对4种地类土壤颗粒频率分布曲线分析表明,留茬地、翻耕地、草地土壤粒度分布为多峰态，反映出土壤颗粒分选性较差、物质搬运动力条件和物源的差异性，如风化残积物和河湖沉积物都可能是成土母质,李占宏等[22]对毛乌素沙地不同地类表层土壤粒度累积频率曲线分析也认为，其与物源和风蚀程度有关;而该区半固定沙丘地表层粒度分布呈单峰态,这与学者们[22-24]的研究结果相一致，说明物源和风营力的一致性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "土壤有机质是作物所需的各种养料的源泉，它能改善土壤的物理和化学性质，有机质含量的增加，能提高土粒间微结构的胶结力和土壤结构体间的抵抗离散力，从而增加土壤的抗风蚀能力；土地利用方式对土壤有机质的含量有明显的影响[30],在干旱半干旱地区土地利用不当易引起土壤风蚀，使土壤有机质含量降低。研究区4种地类土壤有机质含量存在差异。草地，土壤表层 $( 0 \\sim 5 ~ \\mathrm { c m } )$ 有机质含量大于亚表层( $5 \\sim 1 0 ~ \\mathrm { c m } )$ ，且无论表层还是亚表层其含量均大于留茬地、翻耕地和半固定沙丘地。究其原因，一是草地植被减轻土壤风蚀，且大量枯落物残留地表被微生物分解为无机物后归还于土壤，使得有机质在土壤表层积聚；二是草地植被对降尘和细粒物质具有截存效应，有利于有机质在表层积累[2]。与草地相比,翻耕地、留茬地土壤表层(0 \\~5cm）与亚表层（ $5 \\sim 1 0 ~ \\mathrm { c m } ,$ 的有机质含量均较低。这是由于土壤有机质主要富集于细颗粒中，而细颗粒的损失则引起土壤有机质含量的降低[4],留茬地与翻耕地较草地更容易受风蚀影响，使土壤细颗粒被吹蚀，有机质含量随之降低；另外，机械耕作改变了土壤紧实度，使土壤温度与湿度发生变化，一定程度上促进了土壤呼吸作用,加速了土壤有机质的分解[31],有机质含量降低。耕作配肥措施可以增加土壤有机质含量，但土壤表层细颗粒物质遭受风蚀又降低了有机质的含量，二者之间的关系较为复杂，有待长期定位观测研究。半固定沙丘地，其土壤表层${ \\mathrm { ( 0 \\sim 5 ~ c m ) } }$ 与亚表层（ $5 \\sim 1 0 ~ \\mathrm { c m } ~ \\cdot \\nonumber$ )的有机质含量均较低,这是因为土壤颗粒较粗，以细砂和中砂为主，吸附有机质的能力较弱，加之地表植被盖度较小，返还土壤的凋落物较少，故土壤有机质含量较低。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "一般而言，土壤细颗粒对有机质的吸附和有机质的积累起着关键作用,二者之间存在着关联性,但不同地类的土壤粒度组成与有机质的相关性也存在差异。研究区4种地类中，留茬地、半固定沙丘地的土壤有机质与粉粒之间呈显著正相关关系，草地的土壤有机质与黏粒之间呈显著正相关关系。这种相关性在与毛乌素沙地类似的地区也有所体现,譬如,苏永中等[21]对科尔沁沙地不同沙化土地的农田有机质与粒度之间关系的研究，反映出有机质与砂粒呈负相关、与粉粒和黏粒呈正相关;呼伦贝尔沙质草地土壤有机质与粉粒和黏粒之间呈显著正相关性，相关系数为0.896。杨梅焕等[12 对毛乌素沙地东南缘榆阳区、靖边、横山等地土壤表层(0～5cm)粒度与有机质含量关系分析表明,黏粒含量与有机质之间存在显著相关性,在 $\\textstyle P < 0 . 0 1$ 显著性水平上相关系数为0.9202。这些事实说明，土壤细颗粒物质对有机质的吸附和积累具有重要作用。究其原因，一是单位体积的细颗粒土壤的比表面积大于单位体积的粗颗粒土壤,因此暴露出更多的正电荷位与带负电荷的腐殖质结合；二是土壤有机质易与细颗粒结合形成有机-无机复合体，且颗粒粒径越小，越易被腐殖质包裹；三是细颗粒键合的有机质更能抵抗微生物的分解，且细颗粒具有较差的孔隙度，这一特性使细颗粒一旦与有机质结合，则难以被微生物分解而易于积累。同时，也要考虑到土壤细颗粒对有机质积累的影响因素是多方面的，诸如粉粒与黏粒含量(32]、黏粒矿物种类及其性质[33]、土地利用方式[34]、气候因素[35]等。研究表明[2,21],与砂粒（204 ${ \\big ( } > 5 3 { \\mathrm { ~ } } \\mu \\mathrm { m } { \\big ) }$ )结合的有机质对表层土壤中植物残体的积累和根系分布的变化较敏感，最易受土地利用方式尤其是耕作的影响。值得指出的是,研究区翻耕地有机质与细砂、极细砂呈极显著正相关，这说明翻耕地土壤有机质不稳定,易受风蚀和耕作配肥的",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）研究区4种不同地类土壤粒度组分及参数特征存在显著差异。留茬地、翻耕地、草地地表下层优势粒级均为粉粒，表层含量表现为草地$( 6 1 . 0 6 \\% ) >$ 留茬地（53． $09 \\%$ ） $>$ 翻耕地L $4 8 . 2 8 \\%$ )，下层含量表现为草地 $( 6 1 . 2 5 \\%$ ） $>$ 翻耕地 $( 4 9 . 4 3 \\%$ ） $>$ 留茬地 $( 4 8 . 4 2 \\%$ )；半固定沙丘地的优势粒级为细砂，含量为表层 $( 5 2 . 6 9 \\%$ ） $\\angle$ 亚表层$( 5 4 . 5 3 \\%$ )。表明沙丘粒径最粗,草地粒径最细。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（2）研究区4种地类表层土壤有机质含量差异明显。草地土壤表层有机质含量较多，半固定沙丘地有机质含量最少。表层有机质含量总体上表现为草地 $>$ 翻耕地 $>$ 留茬地 $>$ 半固定沙丘地，亚表层表现为草地 $>$ 留茬地 $>$ 翻耕地 $>$ 半固定沙丘地，",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）研究区4种地类有机质与粒度组分之间相关性分析表明，留茬地有机质与粉粒相关系数为0.556，呈显著正相关关系；翻耕地，有机质与中砂相关系数为0.895，呈极显著正相关，有机质与细砂相关系数为0.905，呈极显著正相关关系;草地土壤有机质与黏粒相关系数为0.569，呈显著正相关；半固定沙丘地有机质与粉粒相关系数为0.696，呈显著正相关关系。表明土壤细颗粒对有机质有吸附作用，翻耕地土壤有机质不稳定，易受其他因素影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]袁晓宇,海春兴,刘广通.阴山北麓不同用地土壤有机质含量对抗风蚀的作用研究[J].水土保持研究，2007，14（6）：306-308.［Yuan Xiaoyu,Hai Chunxing,Liu Guangtong.Influence ofdifferent soil organic matters on resistance to wind erosion in Northfootof the Yinshan Mountain[J].Research of Soil andWater Con-servation,2007,14(6):306-308.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[2]苏永中,赵哈林,文海燕.退化沙质草地开垦和封育对土壤理化 性状的影响[J].水土保持学报,2002,16(4):5-8.[Su Yongzhong,Zhao Halin,Wen Haiyan.Cultivation and enclosure effectson soil physicochemical properties of degraded sandy grassland[J]. Journal of Soil and Water Conservation,2O02,16(4):5-8.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[3]吴建国,张小全,王彦辉,等.土地利用变化对土壤物理组分中有机碳分配的影响[J].林业科学，2002，38（4）：19-29.〔WuJianguo,Zhang Xiaoquan,Wang Yanhui,et al. The effects of landuse changes on the distribution of soil organic carbon in physicalfractionation of soil[J].Scientia Silvae Sinicae,2OO2,38（4）:19-29.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[4]赵哈林,周瑞莲,苏永中，等.科尔沁沙地沙漠化过程中土壤有 机碳和全氮含量变化[J].生态学报，2008，28（3）：976-982. [Zhao Halin,Zhou Ruilian,Su Yongzhong,et al.Changes of soil organic cand total in contents as affected by desertification in Horqin Sandland,North China[J].Acta Ecologica Sinica,2008,28 (3):976-982.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[5]杨钦,郭中领,王仁德,等.河北坝上不同土地利用方式对土壤风蚀的影响[J].干旱区资源与环境，2017，31（2）：185-190.[Yang Qin,Guo Zhongling,WangRende,etal.Influence of differ-entland uses on soil wind erosion in Bashang area,Hebei,China[J].Journal of Arid Land Resources and Environment,2O17,31(2):185-190.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[6]赵哈林,周瑞莲,赵学勇,等.呼伦贝尔沙质草地土壤理化特性的沙漠化演变规律及机制[J].草业学报，2012，21（2)：1-7.[Zhao Halin,Zhou Ruilian,Zhao Xueyong,et al.Desertificationmechanisms and process of soil chemical land physical propertiesinHulunbeir sandy grassland,Inner Mongolia[J].Acta Pratacultu-ra Sinica,2012,21(2):1-7.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[7]李海东,沈渭寿,邹长新,等.雅鲁藏布江山南宽谷风沙化土地 土壤养分和粒度特征[J].生态学报，2012，32（16）：4981- 4992.[Li Haidong,Shen Weishou,Zou Changxin,et al.Soil nutrients content and grain size fraction of aeolian sandy land in the Shannan wide valley of the Yarlung Zangbo River,China[J].Acta Ecologica Sinica,2012,32(16):4 981-4992.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[8]高君亮,高永,罗凤敏,等.表土粒度特征对风蚀荒漠化的响应[J].科技导报,2014,32（25）：20－25.[Gao Junliang，GaoYong,Luo Fengmin,et al.Response of surface soil grain size char-acteristics to wind erosion desertification[J].Science & Technolo-gy Review,2014,32(25）:20-25.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[9］杨永胜.毛乌素沙地生物结皮对土壤水分和风蚀的影响[D].杨凌：西北农林科技大学，2012.［YangYongsheng.EffectsofBiological Soil Crusts on SoilMmoistureandWind Erosionin Mu UsSandland[D].Yangling:Northwest A&F University,2012.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[10]符超峰，赵景波.毛乌素沙地东南缘不同类型沙丘土壤水分分布特征[J].干旱区研究，2011，28（3）：377-383.[FuChaofeng,Zhao Jingbo.Distribution of soil moisture content in differenttypes of sand dunes in the Southeastern marginal zone of the MuUsSandy Land[J].Arid Zone Research,2011,28（3）:377 -383.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[11]王志，王蕾，刘连友，等.毛乌素沙地南缘沙丘水分的时空分布特征[J].干旱区研究,2007,24（1）:61-65.[Wang Zhi,WangLei,Liu Lianyou,et al.Preliminary study on spatiotemporal distri-bution of moisture contents in sand dunes in the Southern marginalzone of the Mu Us Desert[J].Arid Zone Research,20O7,24（1）：61-65.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[12]杨梅焕，曹明明，朱志梅,等.毛乌素沙地沙漠化过程中土壤理 化性质分析[J].水土保持通报,2010,30(2）：169-172.[Yang Meihuan,Cao Mingming,Zhu Zhimei,et al. Soil physical and chemical properties in the process of desertification on the Southeastern edge ofMuUs Sand Land[J].Bulletin of Soil and Water ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Conservation,2010,30(2):169-172.][13]雷金银，吴发启，马璠,等.毛乌素沙地土壤风蚀的气候因子分析[J].水土保持研究,2007，14（2）：104-105.[LeiJinyin,WuFaqi,Ma Fan,et al.The analysis of climate factors effecting winderosion in Maowusu Sandy Land[J].Research of Soil and WaterConservation,2007,14(2）:104-105.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[14]黄富祥,牛海山，王明星,等.毛乌素沙地植被覆盖率与风蚀输 沙率定量关系[J].地理学报,2001,56(6）：700－710.[Huang Fuxiang,Niu Haishan,Wang Mingxing,etal.Therelationship between vegetation cover and sand transport flux at Mu Us Sandland 【J].Acta GeographicaSinica,2001,56(6）:700-710.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[15]朱震达，吴正，刘恕，等.中国沙漠概论[M].修订版.北京：科 学出版社，1981.［ZhuZhenda,WuZheng，Liu Shu,etal.Intro duction to Chinese Desert[M].Revised Edition.Beijing:Science Press,1981.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[16]杨永梅，杨改河，冯永忠.近45年毛乌素沙地的气候变化及其与沙漠化的关系[J].西北农林科技大学学报（自然科学版），2007,35(12）:87-92.[Yang Yongmei,Yang Gaihe,Feng Yongzhong.Climatic variation and its effect on desertification in 45 re-cent years in Mu Us sandland[J].Journal of Northwest A &FU-niversity(Natural Science Edition）,2007,35(12）:87-92.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[17］徐丹丹,尹立河,侯光才，等.毛乌素沙地旱柳和小叶杨树干液 流密度及其与气象因子的关系[J].干旱区研究,2017,34（2）： 375-382.[Xu Dandan,Yin Lihe,Hou Guangcai,et al.Relationshipsbetween sap flow densities in tree trunks of Salix matsudana andPopulussimonii and meteorological factors in the Mu Us Sandland[J].Arid Zone Research,2017,34(2):375-382.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[18］张惜伟，汪季，高永，等.呼伦贝尔沙质草原风蚀坑表层土壤粒度特征[J].干旱区研究，2017，34（2）：293-299.[ZhangXi-wei,Wang Ji,Gao Yong,et al.Grain size characteristics of topsoilinblowouts on sandy grasslands in Hulun Buir[J].Arid Zone Re-search,2017,34(2):293-299.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[19］成都地质学院陕北队.沉积岩(物)粒度分析及其应用[M].北 京：地质出版社,1978:46-56.[Chengdu Academy of Geology， North Shaanxi Team.Particle Size Analysis of Sedimentary Rocks and Its Application[M].Beijing:Geological Publishing House, 1978:46 -56.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[20]南京农学院.土壤农化分析[M］.北京：农业出版社，1985：31-52.[Nanjing College of Agriculture.Soil and Agriculture Chem-istry Analysis[M].Beijing:Agriculture Press,1985:31-52.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[21］苏永中，赵哈林.农田沙漠化过程中土壤有机碳和氮的衰减及其机理研究[J].中国农业科学,2003，36（8）：928-934.［SuYongzhong,Zhao Halin.Losses of soil organic carbon and nitrogenand their mechanisms in the desertification process of sandy farmlands in Horqin Sandy Land[J].Scientia Agricultura Sinica,2003,36(8):928 -934.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[22]李占宏,海春兴,丛艳静.毛乌素沙地表土粒度特征及其空间 变异[J].中国水土保持科学，2009，7（2）：74-79.［LiZhanhong,Hai Chunxing,Cong Yanjing.Topsoil particle-size distribution and its spatial variationin Mu Us Desert[J].Science of Soil and Water Conservation,2009,7(2):74-79.] [23]舒培仙，牛东风,李保生，等.毛乌素沙地现代沙丘沙的粒度特 征及其意义[J].中国沙漠，2016，36（1）：158-166.［ShuPeixian,Niu Dongfeng,Li Baosheng,et al.Grain size characteristics of modern dune sand and its significance in the Mu Su Sandy Land, China[J]. Journal of Desert Research,2016,36(1）:158-166.] [24]沈亚萍，张春来，李庆，等.中国东部沙区表层沉积物粒度特征 [J].中国沙漠,2016,36（1）：150-157.[Shen Yaping,Zhang Chunlai,Li Qin,et al.Grain-size characteristics of surface sediments in the EasternDesertRegionsof China[J].Journal ofDesert Research,2016,36(1):150-157.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[25]杨志勇，陈新闯，郭建英，等.乌兰布和沙漠不同土地利用类型粒度特征分析[J].中国水土保持,2015（7）：50-53.［YangZhiyong,Chen Xinchuang,Guo Jianying,et al.Grain size charac-teristics of different land use types in Ulanbuh Desert[J].Soil andWater Conservation in China,2015（7）:50-53.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[26]张志栋，常春平,郭中领,等.河北坝上农田、退耕地和天然草 地土壤的可风蚀性[J].中国沙漠，2018，38（1）：85－91. [Zhang Zhidong,Chang Chunping,Guo Zhongling,et al.Soil Wind erodibilityof farmland,abandonded farmland and glasslandin the Bashang Area of Hebei,China[J].Journal of Desert Research, 2018,38(1) :85 -91.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[27]刘目兴，刘连友.农田休闲期作物留茬对近地表风场的影响 [J].农业工程学报,2009,25（9）:295-300.[Liu Muxing，Liu Lianyou.Effect of crop stubble on wind field above field surface during fallow period of cropland[J].Transactions of the CSAE, 2009,25(9):295-300.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[28]董光荣，李长治，金炯，等.关于土壤风蚀风洞模拟实验的某些 结果[J].科学通报,1987,32（4）:297-301.[Dong Guangrong, Li Changzhi,Jin Jiong,et al. Some results on wind tunnel simulation experiments of soil erosion[J].Science Bulletin,1987,32 (4):297 -301.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[29]庞营军，屈建军，牛清河，等.敦煌月牙泉景区沙丘表面沙物质 的粒度特征[J].干旱区研究,2017,34（3）:701-706.[Pang Yingjun,Qu Jianjun,Niu Qinghe,et al.Grain size characters of dune surface sediment in the crescent spring scenic spot,Dunhuang [J].Arid Zone Research,2017,34(3):701-706.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[30]王清奎，汪思龙，高洪，等.土地利用方式对土壤有机质的影响 [J].生态学杂志,2005,24（4）:6-9.[WangQingkui,Wang Silong,Gao Hong,et al. Influence of land use on soil organic matter [J].Chinese Journal of Ecology,2005,24(4）:6-9.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[31]乔有明，王振群，段中华.青海湖北岸土地利用方式对土壤碳氮含量的影响[J].草业学报，2009，18（6）：105－112.〔QiaoYouming,Wang Zhenqun,Duan Zhonghua.Effect of different land-use types on soil carbon and nitrogen contents in the Northern Re-gion of Qinghai Lake[J].Acta Prataculturae Sinica,2Oo9,18（6）：105 -112. ]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[32]Six J,Christian Feller,Karolien Denef,et al. Soil organic mater, biota and aggregation in temperate and tropical soils:Effects of notillage[J].Agronomic,2002,22:755-775. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[33]Haider K,Kastanienallee,Guggenberger.Soil minerals and organic components:Impact on biological processes,human welfare and nutrition[J].Thailand,2002,8:314-321.   \n[34]Feller C,Beare MH.Physical control of soil organic matter dynam",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ics in the tropics[J].Geoderma,1997,79:69-116. [35]Hassink J. The capacity of soils to preserve organic C and N by their association with clay and silt particles[J].Plant Soil,1997, 191:77-87. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Soil Particle Size and Organic Matter Content of Different Land Use Types in the Mu Us Sandland ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "MAO Li'， SU Zhi-zhu²， WANG Guo-ling¹，MA Yi-juan³，LI Xiang (1．College of Environmental and Resources Sciences,Shanxi University,Taiyuan O3oo06,Shanxi,China; 2. College of History and Culture,Shanxi University,Taiyuan O3oo06,Shanxi,China; 3.College of Geographical Science,Taiyuan Normal University,Jinzhong O3o619,Shanxi,China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Inthe Mu Us Sandland,theecological environmentis fragile,thesoil wind erosion isserious,and the sandland is oneof the key areas for desertificationcontrol inthesand source area of Beijing-Tianjin zone.In this paper,the soil granularity,organic matter content and their relationshipunder diferent land use paterns were studied so as to provide the basicdataandthe scientific basis for rational landuse and desertification control.Through the field investigation inthe Mu Us Sandland,the topsoilsamples werecollected fromfourland usetypes,i.e.hesemifixed dune land,stubble land,ploughed land and grassland.The grain sizeand organic matercontent of soil were analyzed,and the relationship between soil organic mater content and soil particle size distribution was discussed. The results showed that : $\\textcircled { 1 } \\operatorname { S i l t } ( 0 . 0 0 2 - 0 . 0 5 \\ \\mathrm { m m } )$ was dominant in stubble land,ploughed land and grassland, and its content in topsoil was in an order of grassland $( 6 1 . 0 6 \\%$ ） $>$ stubble land $( 5 3 . 0 9 \\%$ ） $>$ ploughed land 0 $( 4 8 . 2 8 \\%$ ）,and that in sub-surface layer was in an order of grassland $( 6 1 . 2 5 \\%$ ） $>$ ploughed land ( $\\left( 4 9 . 4 3 \\% \\right) >$ stubble land ( $4 8 . 4 2 \\%$ ). Fine sand $( 0 . \\ 1 \\ - \\ 0 . \\ 2 5 \\ \\mathrm { \\ m m } )$ ）was dominant in semi-fixed dune land,its content was $5 2 . 6 9 \\%$ in topsoil and $5 4 . 5 3 \\%$ in sub-surface layer; $\\textcircled{2}$ Soil organic matter content in topsoil was generally in an order of grassland( $1 8 . 7 5 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ） $>$ ploughed land ( $1 2 . 5 3 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 } .$ ） $>$ stubble land ( $1 1 . 2 5 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ） $>$ semifixed dune land $( 8 . 1 3 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 } )$ ,and that in sub-surface layer was in an order of grassland $( 1 3 . 3 6 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 } ) >$ stubble land ( $( 1 3 . 0 5 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ） $>$ ploughed land ( $( 1 2 . 6 7 \\ \\mathrm { g \\cdot k g ^ { - 1 } }$ ） $>$ semi-fixed dune land $( 7 . 7 3 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 } \\cdot$ ; $\\textcircled{3}$ Correlationanalysis ofsoil granularityand organic matter content showed thatthere was asignificant positive correlation betweenorganic mater content and siltcontent in stubble land and semi-fixed dune land,and a very significant positive correlation between organic matter content and moderate sand and finesand in ploughed land,which revealed that the soil organic mater content in ploughed land was unstable and easily affected by other factors. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words:soil particle size； soil organic mater content; land use type; Mu Us Sandland",
+        "page_idx": 9
+    }
+]

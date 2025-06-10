@@ -1,0 +1,267 @@
+1 维生素A对青鱼幼鱼生长、代谢、抗氧化能力和免疫能力的影响
+
+2 陈　炼1,²　吴成龙²　张易祥²　邵仙萍²　陈书健1.2　王春琳」叶金云 2\*  
+3 (1.宁波大学海洋 学院，应用海洋生物学教育部重点实验室，宁波 315211;2.湖州师范学院  
+4 生命科学学院，浙江省水生生物资源养护与开发技术研究重点实验室，湖州 313000)  
+5 摘要：本研究以青鱼幼鱼为试验对象，探讨6种不同维生素 A含量(290、1033、1734、  
+6號 3 835、7662 和 $1 4 9 4 3 \mathrm { I U / k g ) }$ 的等氮等能饲料对青鱼幼鱼生长、代谢、抗氧化能力和免疫能  
+7 力的影响。选取540尾初始体重为（ $5 . 3 5 { \pm } 0 . 1 6$ ）g的青鱼幼鱼，随机分为6组，每组饲喂1  
+8 种饲粮，每组3个重复，每个重复30尾。试验期 $6 0 \mathrm { d }$ 。结果表明：1）随着饲料中维生素A  
+9 含量的增加，增重率、特定生长率、蛋白质效率都呈现先升高后下降的趋势，并在3835 IU/kg  
+10 维生素A时达到最高。折线模型分析结果显示，饲料中维生素A含量在 $2 2 4 6 . 6 4 \mathrm { I U / k g }$ 时，  
+11 能够获得最大增重率。2）饲料中维生素A含量从 $2 9 0 \mathrm { I U / k g }$ 增加到 $7 6 6 2 \mathrm { I U / k g }$ ，肝脏中的α  
+12 淀粉酶、胰蛋白酶、糜蛋白酶和弹性蛋白酶活性显著增加（ $_ { \cdot \textcircled { P } < 0 . 0 5 }$ ），肝脏中超氧化物歧化  
+13 酶（SOD）、过氧化氢酶（CAT）、谷胱甘肽过氧化物酶（GPX）、谷胱甘肽还原酶（GR）  
+14 活性和总抗氧化力（T-AOC）也呈现显著上调（ $. P { < } 0 . 0 5$ ）；肝脏中谷胱苷肽转移酶（GST）  
+15 和丙二醛（MDA）含量随着维生素A含量的增加均呈现先降低后升高的趋势，并均在3 835  
+16 IU/kg 组达到最低值。3）与 $2 9 0 \mathrm { I U / k g }$ 组相比，3835和 $7 6 6 2 \mathrm { I U / k g }$ 组血清中溶菌酶(LYZ)  
+17 活性、补体3（C3）和补体4（C4）含量显著提高（ $\scriptstyle \cdot P < 0 . 0 5$ ）；饲料中适量的维生素A（1 734、  
+18 3 835和 $7 6 6 2 \mathrm { I U / k g }$ ）能够显著提高血细胞中 $L Y Z .$ 、干扰素 $\mathfrak { a }$ （INFα）、铁调素（HEPC）、  
+19 天然抗性相关巨噬蛋白（NRAMP）、C3和补体9（C9）基因表达量（ $_ { \cdot \textcircled { P } < 0 . 0 5 }$ ）。因此，在  
+20 饲料中添加适量维生素A不仅能够促进青鱼幼鱼的生长和代谢，还能增强其抗氧化和非特  
+21 异性免疫能力;青鱼幼鱼饲料中维生素 A 适宜含量为 $2 2 4 6 . 6 4 \mathrm { I U / k g }$ （  
+22 关键词：维生素A；青鱼；需求量；抗氧化能力；免疫反应
+
+中图分类号：S963
+
+维生素A是维持鱼类生长所必需的脂溶性营养物质之一，它参与了细胞分化、骨骼发育、繁殖以及免疫等鱼类的多个重要生理过程[1-2]。维生素A缺乏或者过量会对鱼类生长产生不良影响[3]。若鱼类饲料中缺乏维生素 A或其前体——类胡萝卜素，可能导致其出现视力障碍、眼眶和鳍部出血、鳃盖变形以及死亡率增加等明显的症状[2-4]。如果鱼类摄食过量的维生素A，其肝脏和其他脂肪组织中则容易积累维生素 A[5]，导致鱼类脊柱损伤[6]、生长缓慢[7]以及繁殖能力下降[2]等。近些年来，有关维生素A最适需求量已经在草鱼（Ctenopharyngodon Idelus）[8]、玳瑁石斑（Epinephelus tauvina）[9]、团头鲂（Megalobrama amblycephala）[4]、罗非鱼(Oreochromisniloticus)[10]、虹鳟（Oncorhynchus mykiss）[1]和大口黑鲈（Micropterus salmoides）[12]等鱼类上报道。研究发现，维生素A对鱼类的视觉功能、上皮细胞分化、骨骼发育、脂质代谢以及免疫功能都有重要的作用[1,12-15]。同其他脊椎动物一样，鱼类自身不能合成维生素 A[15],且对维生素A的需求受品种、个体大小、年龄以及环境因子的影响[2]。因此，探究水产动物饲料中适宜维生素A的含量对鱼类生长、代谢和免疫功能具有重要的指导意义。青鱼（Mylopharyngodon piceus）是我国传统的“四大家鱼”中唯一肉食性经济鱼类，由于其具有增强体质、延缓衰老、补气养胃等营养价值而被广泛养殖[。目前，关于青鱼营养学物质需求量的研究主要涉及脂肪[17]、糖[18-20]、蛋白质和氨基酸[20]以及矿物质[21]等，而对维生素这种微量元素需求量的探究仍然很缺乏。关于青鱼饲料中添加适量维生素从而提高其生长和免疫的报道中主要包括维生素 $\mathrm { C } ^ { [ 2 2 ] }$ 、维生素 $\mathrm { D } ^ { [ 2 3 ] }$ 和维生素 $\mathrm { E } ^ { [ 2 4 ] }$ ，而有关维生素A的相关报道甚少。本研究以青鱼幼鱼作为主要试验对象，研究了饲料中不同含量的维生素 A对青鱼幼鱼生长、代谢、抗氧化能力的影响，同时探讨不同维生素A含量对青鱼幼鱼免疫能力的影响，为青鱼幼鱼的人工配合饲料中维生素A添加量提供参考，为青鱼营养全面和价格合理的人工配合饲料开发提供理论依据。
+
+1材料与方法
+
+1.1试验设计采用单因素试验设计，以无维酪蛋白和明胶为蛋白质源、以糊精为糖源、以豆油和卵磷脂为脂肪源，同时添加氨基酸混合物、矿物质预混料以及不含维生素A的维生素预混料等制成基础饲料，饲料1\~5中维生素A添加量分别为0、1000、2000、4000、8000、16 000
+
+IU/kg，经过高效液相色谱法（Agilent-1100，Agilent，美国）检测后的实际含量分别为290、1033、1734、3 835、7662和 $1 4 9 4 3 \mathrm { I U / k g }$ 。试验饲料组成及营养水平见表1。使用万能粉碎机将原粉碎，过筛，保证在40目以上，准确称取各种原料后进行充分混匀，将混合均匀的饲料原料用双螺杆挤条机加工制成直径为 $1 . 5 \mathrm { m }$ 的条状，冷冻后切割为 $2 { \sim } 3 ~ \mathrm { m m }$ 的颗粒，于 $4 0 ~ ^ { \circ } \mathrm { C }$ 热空气烘箱中干燥烘干，最后将饲料装在双层的塑料袋中密封，置于 ${ \displaystyle - 2 0 ~ } ^ { \circ } \mathrm { C }$ 中保存备用。
+
+表1试验饲料组成及营养水平 (风干基础)  
+Table 1Composition and nutrient levels of experimental diets (air-dry basis) %   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">饲料Diet</td><td rowspan="2">6</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>无维酪蛋白 Vitamin free caseinl'</td><td>36.00</td><td>36.00</td><td>36.00</td><td>36.00</td><td>36.00</td><td>36.00</td></tr><tr><td>明胶Gelatin²)</td><td>7.00</td><td>7.00</td><td>7.00</td><td>7.00</td><td>7.00</td><td>7.00</td></tr><tr><td>氨基酸混合物 Amino acids mixture3)</td><td>4.80</td><td>4.80</td><td>4.80</td><td>4.80</td><td>4.80</td><td>4.80</td></tr><tr><td>糊精Dextrin3)</td><td>30.00</td><td>30.00</td><td>30.00</td><td>30.00</td><td>30.00</td><td>30.00</td></tr><tr><td>豆油 Soybean oil4)</td><td>4.35</td><td>4.35</td><td>4.35</td><td>4.35</td><td>4.35</td><td>4.35</td></tr><tr><td>微晶纤维素 Microcrystalline cellulose2)</td><td>6.00</td><td>6.00</td><td>6.00</td><td>6.00</td><td>6.00</td><td>6.00</td></tr><tr><td>矿物质预混料 Mineral premix5)</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td></tr><tr><td>维生素预混料 Vitamin premix6</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>磷酸二氢钙 Ca(HPO4)2)</td><td>1.50</td><td>1.50</td><td>1.50</td><td>1.50</td><td>1.50</td><td>1.50</td></tr><tr><td>乙氧喹Ethoxyquin7)</td><td>0.05</td><td>0.05</td><td>0.05</td><td>0.05</td><td>0.05</td><td>0.05</td></tr><tr><td>诱食剂 Attractant8</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>卵磷脂Lecithin)</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>氯化胆碱 Choline chloride7)</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels9)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>维生素AVitamin A/(IU/kg)</td><td>290</td><td>1033</td><td>1 734</td><td>3 835</td><td>7 662</td><td>14 943</td></tr><tr><td>粗蛋白质 CP</td><td>38.81</td><td>38.58</td><td>38.25</td><td>38.88</td><td>38.92</td><td>38.36</td></tr><tr><td>粗脂肪 EE</td><td>4.98</td><td>5.09</td><td>5.1</td><td>4.93</td><td>5.11</td><td>5.09</td></tr><tr><td>粗灰分 Ash</td><td>2.58</td><td>2.65</td><td>2.59</td><td>2.61</td><td>2.65</td><td>2.67</td></tr><tr><td>总能Gross energy</td><td>14.97</td><td>14.93</td><td>14.89</td><td>14.83</td><td>14.81</td><td>14.86</td></tr></table></body></html>
+
+59 1)西格玛化工，美国 Sigma Chemical,USA。  
+60 2)化学试剂国药控股有限公司 Sinopharm Chemical Reagent Co.,Ltd.。  
+61 3)氨基酸混合物为每千克饲料提供 Amino acid mixture supplied the folowing for per kg of diets：赖氨酸 lysine  
+62 （204 $2 . 7 \ \mathrm { g }$ ，蛋氨酸 methionine $_ \textrm { l g }$ ，精氨酸 arginine $\mathsf { 1 0 . 3 g }$ 。  
+63 4中粮食品营销有限公司 Food Sales ＆ Distribution Co.,Ltd.。  
+64 5)矿物质预混料为每千克饲料提供Mineral mixture provided the following for per kg of diets：食盐 NaCl 100  
+65 mg, MgSO4:7H2O 1 200 mg, $\mathrm { C a ( H _ { 2 } P O _ { 4 } ) _ { 2 } { \cdot } H _ { 2 } O \ 3 \ _ }$ ， $\mathrm { F e S O _ { 4 } }$ $\cdot \mathrm { H } _ { 2 } \mathrm { O }$ 80 mg, $\mathrm { Z n S O _ { 4 } }$ （204号 $\mathrm { \cdot H } _ { 2 } \mathrm { O }$ 50 mg， MnSO4:H0 65 mg,  
+66 （204号 $\mathrm { C u S O _ { 4 } }$ 5H2O 10 mg， $\mathrm { C o C l } _ { 2 }$ ·6HO ( $1 \%$ $5 0 \mathrm { m g }$ ， $\mathrm { K I 0 . 8 \ m g }$ ， $\mathrm { N a _ { 2 } S e O _ { 3 } 0 . 8 m g }$ ，沸石zoelite $6 . 4 5 { \mathrm { ~ g } } { \cdot }$   
+67 6维生素预预混料为每千克饲料提供Vitamin premix provided the following for per $\mathbf { k g }$ of diets：硫胺素 thiamin
+
+$2 5 ~ \mathrm { m g }$ ，核黄素riboflavin $4 5 ~ \mathrm { m g }$ ，吡哆醇pyridoxine $2 0 \mathrm { m g }$ ，维生素 ${ \bf B } _ { 1 2 }$ vitamin $\mathbf { B } _ { 1 2 } 0 . 2 \mathrm { m g }$ ，维生素 ${ \mathrm { K } } _ { 3 }$ vitamin$\mathrm { K } _ { 3 } 1 0 \mathrm { m g }$ ，肌醇inositol $8 0 0 ~ \mathrm { { m g } }$ ,泛酸 pantothenic acid $6 0 ~ \mathrm { m g }$ ，烟酸niacin acid $1 0 0 ~ \mathrm { { m g } }$ ,叶酸 folic acid $2 0 \mathrm { m g }$ 生物素 biotin $1 0 \mathrm { m g }$ ，维生素 ${ \bf D } _ { 3 }$ vitamin $\mathrm { D } _ { 3 } 3 \mathrm { m g }$ ， $\mathfrak { a }$ 生育酚a-tocopherol $3 0 0 ~ \mathrm { { m g } }$ ，抗坏血酸ascorbic acid $_ \textrm { 1 g }$ 微晶纤维素 microcrystalline cellulose $2 . 4 5 ~ \mathrm { g } _ { \odot }$ （20  
+7)浙江一星饲料集团有限公司 Zhejiang Yixing Feed Group Co.,Ltd.。  
+8诱食剂成分 Atractant composition：牛磺酸 taurine:甜莱碱-盐酸 betain-HCl:甘氨酸 glycine=1:3:3。9计算值 Calculated values 。
+
+# 1.2 试验鱼及饲养管理
+
+试验选取个体规格相近、体质健壮的青鱼幼鱼540尾，初始体重为（ $5 . 3 5 { \pm } 0 . 1 6 \mathrm { g }$ ）。将其随机分成6组，每组3个重复，每个重复放养青鱼幼鱼30尾。试验在驯化1周后进行，驯化期间，每天投喂维生素A缺乏组（ $2 9 0 \mathrm { I U / k g }$ 组）饲料2次，分别在08:00 和17:00，日投喂量为每组鱼体重的 $3 \%$ 。养殖期间每日观察青鱼幼鱼的体征变化，记录摄食情况和死亡率。饲养期为 $6 0 \mathrm { d }$ ，试验期间每天换1次水，每次换水量为1/3，所换的水来自人工蓄水池中至少曝气1d的水，且均是反复循环状态的流动水，水温为 $2 6 { \sim } 3 3 ~ ^ { \circ } \mathrm { C }$ ，光照与自然光照同步，pH在7.2左右，溶氧为 $5 . 8 ~ \mathrm { m g / L }$ 以上。
+
+# 1.3样品采集以及分析
+
+饲养试验结束后，停止喂食 $2 4 \mathrm { h }$ 以排空肠道内容物，统计各缸内青鱼幼鱼总数，然后  
+称其总重量，并在其中随机选取5条，称量体重和体长并记录，解剖取其血液和肝脏，并且  
+称取肝脏重量，然后迅速投入到液氮罐中，之后转移至-80℃冰箱中保存。试验饲料和全鱼粗蛋白质、粗脂肪、粗灰分和水分含量检测方法如下：采用凯氏定氮法  
+（kjeltec-2200,FOSS，丹麦）测定粗蛋白质含量；采用索氏抽提法（soxtecTM-2043,FOSS，  
+丹麦）测定粗脂肪含量；采用105℃恒温烘干失重法测定水分含量；采用马弗炉 550℃14  
+h 灼烧法测定粗灰分含量。饲料以及全鱼中的维生素A含量采用高效液相色谱法检测，每个  
+样品测定2个重复。肝脏α淀粉酶、胰蛋白酶、糜蛋白酶、弹性蛋白酶等消化酶以及超氧化物歧化酶（SOD)、  
+过氧化氢酶（CAT）、谷胱甘肽过氧化物酶（GPx）、谷胱甘肽还原酶（GR）、谷胱苷肽  
+转移酶（GST）等抗氧化相关酶活性的检测均采用南京建成生物工程研究所商品化检测试剂
+
+盒。肝脏丙二醛（MDA）含量、总抗氧化能力（T-AOC）及血清溶菌酶（LYZ）、补体C3（C3）和补体C4（C4）含量也是采用南京建成生物工程研究所商品化检测试剂盒测定。
+
+1.4组织总RNA提取、反转录及相关基因表达量检测
+
+# 1.4.1 引物设计
+
+采用Primer5.0 和Oligo7.0 软件共同设计LYZ、干扰素 $\mathfrak { a }$ ( $\mathrm { I N F a }$ ）、铁调素（HEPC）、天然抗性相关巨噬蛋白（NRAMP）、C3 和补体C9（C9）等非特异性免疫基因的实时定量PCR 引物（表2）。所有引物均由上海博尚生物科技有限公司合成。以 $\beta$ -肌动蛋白（ $\beta$ -actin)作为管家基因，验证各组织表达稳定性。
+
+# 1.4.2总RNA 的提取
+
+血细胞总RNA采用 TRIZOL 试剂（Invitogen）提取，并用 $1 \%$ 琼脂糖变性胶来检测总RNA的提取质量。利用PrimeScriptTM反转录试剂盒（TaKaRa，日本），以 $3 ~ { \mu \mathrm { g } }$ 总RNA为模板，37℃15min， $8 5 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 5s反转合成cDNA。cDNA保存在 $- 2 0 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 用于基因检测。
+
+# 1.4.3 实时定量PCR
+
+实时定量PCR过程参考 ${ \sf W } { \sf u }$ 等[25]。反应在实时定量PCR仪（cfx96,Bio-Rad，美国）上进行，体系总体积是 $2 5 ~ \mu \mathrm { L }$ ，其中包括 $1 ~ \mu \mathrm { L }$ 的cDNA 溶液， $1 2 . 5 \mu \mathrm { L } 2 \times \mathrm { S Y B R }$ Green IRealtime PCRMaster Mix（TaKaRa，日本），正向引物 $0 . 2 \mu \mathrm { m o l / L }$ 和反向引物 $0 . 2 \ \mathrm { \mu m o l / L }$ ，补充加入水至 $2 5 \mu \mathrm { L }$ 。反应程序如下： $9 5 \ \mathrm { ~ \textbar ~ { ~ C ~ } ~ } 2 \operatorname* { m i n }$ ; $9 5 \mathrm { ~ \textdegree ~ }$ 5s, $5 9 ^ { \circ } \mathrm { C }$ $1 5 \mathrm { ~ s ~ }$ ，35个循环。基因表达相对定量采用 $2 ^ { - ^ { \Delta \Delta } \mathrm { { ^ { C t } } } }$ 法[26]。
+
+# 表2实时定量PCR引物
+
+Table 2Primers for real-time quantitative PCR   
+
+<html><body><table><tr><td>引物名称</td><td>Taoic2</td><td>序列</td><td>物种（GenBank登录号）</td></tr><tr><td>Primer name</td><td></td><td>Sequence(5’ -3')</td><td>Species（GenBank accession No.)</td></tr><tr><td>溶菌酶</td><td>F</td><td>TGCCTTGTTCAGATTTGCT</td><td>青鱼Mylopharyngodon piceus</td></tr><tr><td>LYZ</td><td>R</td><td>GTAACTATCCCAGGTGTCCC</td><td>(KT005997)</td></tr><tr><td>干扰素α</td><td>F</td><td>CCTTACCGAGGGTGATGG</td><td>青鱼 Mylopharyngodon piceus</td></tr><tr><td>IFN-α</td><td>R</td><td>GTTGAGCGTGAAGCAGACA</td><td>(KP192120)</td></tr><tr><td>铁调素</td><td>F</td><td>GCAGCCGTTCCATTCGT</td><td>青鱼Mylopharyngodon piceus</td></tr><tr><td>HEPC</td><td>R</td><td>GCCAGGGGATTTGTTTGT</td><td>(KP192117)</td></tr><tr><td>天然抗性相关巨噬蛋白</td><td>F</td><td>TCTGGTCTGGCGCTGTCT</td><td>青鱼Mylopharyngodon piceus</td></tr><tr><td>NRAMP</td><td>R</td><td>AACTCTGGCTGTTCGTCGTAG</td><td>(KP192119)</td></tr><tr><td>补体3</td><td>F</td><td>CAAGTGGCTGGTTCTCAA</td><td>青鱼Mylopharyngodon piceus</td></tr><tr><td>C3</td><td>R</td><td>ATGGCAATCACAATAAAGG</td><td>(KP192115)</td></tr><tr><td>补体9</td><td>F</td><td>TCAGAAATCACGACGACCAA</td><td>青鱼Mylopharyngodon piceus</td></tr><tr><td>C9</td><td>R</td><td>AGGGCATCCACATCATCCAA</td><td>(KP192116)</td></tr></table></body></html>
+
+$\beta$ -肌动蛋白 F CCTTCTTGGGTATGGAGTC 青鱼Mylopharyngodon piceus $\beta$ -actin R GTCAGCAATGCCAGGGTA (KP185128)
+
+1.5计算公式
+
+试验鱼的增重率（weight gain rate,WGR）、特定生长率（specific growth rate,SGR）、成活率（survival rate,SR）、饲料转化效率（feed conversion ratio,FCR）、肝体比（hepatosomaticindex,HSI）、蛋白质效率（protein efficiency ratio,PER）、肥满度（condition factor,CF）计算公式如下：
+
+WGR $( \% ) = 1 0 0 \times$ （终末均重一初始均重）/初始均重；  
+SGR $( \% / \mathrm { d } ) ~ { = } 1 0 0 { \times } [ \mathrm { l n }$ （终末均重）一ln（初始均重）]/试验天数;  
+SR $( \% ) = 1 0 0 \times$ 试验结束鱼尾数/试验开始鱼尾数;  
+$\mathrm { F C R } =$ 鱼体增重（湿重）/饲料摄取量；  
+$\mathrm { H S I } { = } 1 0 0 \times$ 肝重/体重；  
+$\scriptstyle \mathrm { C F = 1 0 0 \times }$ 末体重／（末体长）；  
+PER ${ \tt - } 1 0 0 \times$ 体重增加量（g）/饲料蛋白质摄取量（g，干重）。
+
+# 1.6数据统计与分析
+
+试验所获得各项数据采用 SPSS20.0软件进行单因素方差（one-way ANOVA）分析，差异显著时，采用Duncan 氏法进行多重比较，结果以平均值±标准差表示， $P { < } 0 . 0 5$ 表示差异显著。
+
+2结果
+
+2.1维生素A对青鱼幼鱼生长性能和体组成的影响
+
+表2 显示，饲料中维生素A含量为 $2 9 0 \mathrm { I U / k g }$ 时，青鱼幼鱼的WGR 和 SGR 显著低于其他各组（ $\cdot P { < } 0 . 0 5$ ）。随着饲料中维生素A含量的增加，WGR、SGR和PER都呈现先升高后下降的趋势，并在维生素A为 $3 ~ 8 3 5 ~ \mathrm { I U / k g }$ 时达到最高值。饲料维生素A含量为290\~1 734IU/kg 时，HSI呈现下降趋势，之后又逐渐升高；饲料维生素A含量为 $2 9 0 ~ \mathrm { { I U / k g } }$ 时，HSI与 $1 \ 0 3 3 \ \mathrm { I U / k g }$ 组相比较比差异不显著（ $P { > } 0 . 0 5$ ），但显著高于其他各组（ $P { < } 0 . 0 5$ ）。饲料维生素A含量的不同对CF没有造成显著影响（ $\cdot P { > } 0 . 0 5$ ）。随着饲料中维生素A含量的增加，FCR呈现先下降后升高的趋势，在 $7 6 6 2 \mathrm { I U / k g }$ 时获得最低值，但在饲料中维生素A含量为1734\~14943IU/kg 的各组之间没有显著差异（ $P { > } 0 . 0 5$ ）。随着饲料中维生素A含量的
+
+增加，SR先升高后降低，且在饲料维生素A含量为 $1 0 3 3 { \sim } 1 4 9 4 3 \mathrm { I U } / \mathrm { k g }$ 的各组间差异不显  
+著（ $P { > } 0 . 0 5$ ），同时在 $7 6 6 2 \mathrm { I U / k g }$ 时获得最高 SR。维生素A含量对青鱼幼鱼体组成的水分、粗脂肪和粗灰分含量没有显著影响( $\cdot P { > } 0 . 0 5 )$ ）。  
+随着饲料中维生素A含量的增加，青鱼幼鱼的粗蛋白质含量呈现先升高后降低的趋势，且  
+在饲料维生素A含量为 $7 6 6 2 \mathrm { I U / k g }$ 时，达到最高值，显著高于 $2 9 0 \mathrm { I U / k g }$ 组（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ ）。通过折线模型分析，得到青鱼幼鱼WGR与饲料中维生素A含量效应折线关系为：  
+$y { = } 0 . 1 0 4 3 x { + } 1 5 6 . 5 4$ ， $R ^ { 2 } { = } 0 . 9 5 3 ~ 5$ ; $y { = } { - } 0 . 0 0 5 ~ 9 x { + } 4 0 4 . 1 2$ ， $R ^ { 2 } { = } 0 . 9 7 0 ~ 5$ 。由此得出，青鱼幼鱼的维  
+生素A需求量为 $2 2 4 6 . 6 4 ~ \mathrm { I U / k g }$ （图1）。
+
+表3维生素A对青鱼幼鱼生长性能和体组成的影响  
+Table 3Effects of vitamin A on growth performance and body composition of juvenile black carp   
+
+<html><body><table><tr><td>151</td><td colspan="6">(Mylopharyngodon piceus)</td></tr><tr><td>项目</td><td colspan="6">饲料维生素 A 含量 Dietary vitamin Acontent/(IU/kg)</td></tr><tr><td>Items</td><td>290</td><td>1033</td><td>1 734</td><td>3 835</td><td>7 662</td><td>14 943</td></tr><tr><td>生长性能 Growth performance</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>初始体重 IBW/g</td><td>5.37±0.21a</td><td>5.33±0.12a</td><td>5.33±0.25a</td><td>5.27±0.21a</td><td>5.27±0.15a</td><td>5.27±0.06a</td></tr><tr><td>终末体重 FBW/g</td><td>14.90±1.09a</td><td>20.46±1.32bc</td><td>22.76±0.77cd</td><td>25.14±1.67d</td><td>24.53±1.41cd</td><td>21.80±1.21ab</td></tr><tr><td>增重率 WGR/%</td><td>177.47±9.74a</td><td>283.52±22.11b</td><td>327.56±27.85bcd</td><td>377.27±25.99d</td><td>365.64±17.37cd</td><td>314.01±22.99bc</td></tr><tr><td>特定生长率 SGR/(%/d)</td><td>1.62±0.05a</td><td>2.13±0.09b</td><td>2.30±0.10bcd</td><td>2.48±0.08d</td><td>2.44±0.06cd</td><td>2.25±0.09bc</td></tr><tr><td>肝体比 HSI/%</td><td>2.00±0.17b</td><td>1.75±0.10ab</td><td>1.69±0.06a</td><td>1.70±0.02a</td><td>1.71±0.03a</td><td>1.73±0.12a</td></tr><tr><td>蛋白质效率 PER/%</td><td>1.29±0.12a</td><td>1.61±0.17ab</td><td>1.70±0.21ab</td><td>1.95±0.24b</td><td>1.86±0.15b</td><td>1.84±0.21b</td></tr><tr><td>肥满度CF/（g/cm）</td><td>1.89±0.03</td><td>1.80±0.07</td><td>1.79±0.12</td><td>1.77±0.05</td><td>1.75±0.06</td><td>1.80±0.08</td></tr><tr><td>饲料转化率 FCR</td><td>3.10±0.08c</td><td>2.08±0.15b</td><td>1.88±0.10ab</td><td>1.70±0.08a</td><td>1.64±0.11a</td><td>1.89±0.09ab</td></tr><tr><td>成活率 SR/%</td><td>0.76±0.05a</td><td>0.90±0.03ab</td><td>0.95±0.07b</td><td>0.91±0.07b</td><td>0.99±0.02b</td><td>0.87±0.07ab</td></tr><tr><td>体组成 Body composition/%</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>水分 Moisture</td><td>77.72±0.26</td><td>77.59±0.49</td><td>76.94±0.56</td><td>76.97±0.68</td><td>76.61±1.00</td><td>77.06±0.69</td></tr><tr><td>粗蛋白质CP</td><td>14.53±0.14a</td><td>14.78±0.23ab</td><td>14.91±0.48ab</td><td>15.10±0.41ab</td><td>15.36±0.53b</td><td>15.00±0.44ab</td></tr><tr><td>粗脂肪 EE</td><td>4.14±0.12</td><td>4.07±0.08</td><td>4.15±0.17</td><td>4.23±0.07</td><td>4.24±0.15</td><td>4.23±0.06</td></tr><tr><td>粗灰分 Ash</td><td>2.97±0.19</td><td>3.06±0.12</td><td>3.11±0.11</td><td>3.13±0.15</td><td>3.17±0.11</td><td>3.13±0.18</td></tr></table></body></html>
+
+同行数据肩标无字母或相同字母表示差异不显著（ $_ { . \textcircled { P > } 0 . 0 5 }$ ），肩标不同字母表示差异显著（ $_ { . { P < } 0 . 0 5 }$ ）。
+
+Values in the same row with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ,while with different letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ .The same as below.
+
+![](images/c6ee6ccbc1717f8f8f17248df9555d78ec820c10b614238e8d8d920c91f6f1ba.jpg)  
+图1饲料维生素A含量与青鱼幼鱼增重率的关系
+
+Fig.1Relationship between dietary vitamin A content and WGR of juvenile black carp (Mylopharyngodon
+
+piceus)
+
+2.2维生素A对青鱼幼鱼肝脏代谢酶活性和抗氧化能力的影响
+
+表4显示，肝脏中的α淀粉酶、胰蛋白酶、糜蛋白酶和弹性蛋白酶活性都随着饲料中维生素 A 含量的升高而出现先增加后下降的趋势， $\mathtt { a }$ 淀粉酶和弹性蛋白酶活性均在 $3 8 3 5 \mathrm { I U / k g }$ 组达到最高值，胰蛋白酶和糜蛋白酶活性均在 $7 6 6 2 \mathrm { I U / k g }$ 组获得最大值。且这4种代谢酶活性在3835 IU/kg 组和 $7 6 6 2 \mathrm { I U / k g }$ 组之间没有显著差异（ ${ \cdot } P { > } 0 . 0 5$ ）。表5 显示，随着饲料维生素A含量的增加，肝脏CAT、GPx、GR 活性和 T-AOC 都呈现先升高后下降的趋势；饲料维生素A含量为 $3 8 3 5 \mathrm { I U / k g }$ 时，肝脏 T-AOC 达到最大值。饲料维生素A含量为 $7 6 6 2 \mathrm { I U / k g }$ 时，肝脏CAT、GPx 和GR 活性获得最高值。肝脏 SOD活性呈现持续增加的趋势，并在 $1 4 9 4 3 \mathrm { I U / k g }$ 组达到最高值，与290、1033、1734IU/kg 组差异显著（ $_ { . P < 0 . 0 5 }$ ）。肝脏GST活性和MDA含量随着饲料维生素A含量的增加均呈现先下降后升高的趋势，并在 $3 ~ 8 3 5 ~ \mathrm { I U / k g }$ 组达到最低值。在 $3 8 3 5 \mathrm { I U / k g }$ 和 $7 6 6 2 \mathrm { I U / k g }$ 组间，肝脏中抗氧化指标无显著差异（ $P { > } 0 . 0 5$ ）。
+
+项目Items
+
+表4维生素A对青鱼幼鱼肝脏代谢酶活性的影响  
+
+<html><body><table><tr><td colspan="5">Table 4Effects of vitamin A on activities of metabolic enzymes in lever of juvenile black carp (Mylopharyngodon piceus)</td></tr><tr><td colspan="5">U/g 饲料维生素A含量 Dietary vitamin A content/(IU/kg)</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>290 90.28±3.99a</td><td>1 033 115.72±8.72b</td><td>1 734 125.09±12.31bc</td><td>3 835 150.26±20.43d</td><td>7 662 141.13±10.36cd</td><td>14 943 121.17±8.66bc</td></tr><tr><td>18.80±0.66a</td><td>24.24±2.65b</td><td>27.40±2.40bc</td><td>30.92±1.69cd</td><td>32.25±1.56d</td><td>28.48±1.87c</td></tr><tr><td>1 817.61±28.18a</td><td>2 357.83±60.52b</td><td>2460.46±82.33bc</td><td>2 577.55±89.83cd</td><td>2 721.88±180.80d</td><td>2 588.53±53.1cd</td></tr><tr><td>osin</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2.66±0.44a</td><td>5.20±0.22b</td><td>6.52±1.19bc</td><td>8.49±0.77d</td><td>7.78±1.39cd</td><td>7.19±1.14cd</td></tr></table></body></html>
+
+α淀粉酶αamylase胰蛋白酶 Trypsin糜蛋白酶 Chymotrypsin弹性蛋白酶 Elastase
+
+5 Table 5Effects of vitamin A on antioxidant capacity in liver of juvenile black carp (Mylopharyngodon piceus)   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="6">饲料维生素 A 含量 Dietary vitamin Acontents/(IU/kg)</td></tr><tr><td>290</td><td>1 033</td><td>1 734</td><td>3 835</td><td>7 662</td><td>14 943</td></tr><tr><td>超氧化物歧化酶SOD/（U/mg prot)</td><td>193.58±18.15a</td><td>273.42±27.19b</td><td>340.11±22.11c</td><td>403.43±29.17d</td><td>392.81±27.57d</td><td>442.97±29.97de</td></tr><tr><td rowspan="2">过氧化氢酶 CAT/（U/mg prot) 谷胱甘肽过氧化物酶GPX/</td><td>17.79±1.21a</td><td>21.77±2.10b</td><td>26.85±2.39c</td><td>29.64±2.11cd</td><td>32.45±1.80d</td><td>27.19±1.27c</td></tr><tr><td>341.56±26.06a</td><td>387.62±34.09ab</td><td>469.33±23.21bc</td><td>558.34±66.74d</td><td>572.75±70.15d</td><td>515.21±33.00cd</td></tr><tr><td>(U/mg prot) 谷胱甘肽还原酶 GR/(U/g prot) 谷胱苷肽-S-转移酶 GST/(U/mg</td><td>113.20±11.29a</td><td>148.00±20.92ab</td><td>148.30±19.86ab</td><td>177.02±18.48bc</td><td>211.40±27.93c</td><td>162.79±24.18b</td></tr><tr><td>prot)</td><td>3 127.95±73.95c</td><td>2 940.60±124.74abc</td><td>2 825.24±66.31ab</td><td>2 716.00±130.51a</td><td>2 729.37±196.69a</td><td>3 038.70±198.52b</td></tr><tr><td>丙二醛 MDA/(nmol/mg prot)</td><td>13.22±1.80c</td><td>10.54±0.88b</td><td>8.46±0.93ab</td><td>7.97±1.29a</td><td>8.53±0.84ab</td><td>9.30±1.24ab</td></tr><tr><td>总抗氧化能力T-AOC/（U/mg</td><td>2.59±0.30a</td><td>3.16±0.24b</td><td>3.64±0.35bc</td><td>3.98±0.36c</td><td>3.92±0.27c</td><td>3.69±0.14bc</td></tr></table></body></html>
+
+2.3维生素A对青鱼幼鱼非特异性免疫能力的影响
+
+表6 显示，血清中LYZ、C3 和C4含量都随着饲料维生素A含量的升高而出现先增加后稳定的趋势，其中血清LYZ 和C3含量在 $3 8 3 5 \mathrm { I U / k g }$ 组达到最高值，血清C4含量在7662IU/kg 组获得最大值。
+
+Table 6Efects of vitamin Aon serum immune indexes in serum of juvenile black carp (Mylopharyngodon
+
+表6维生素A对青鱼幼鱼血清免疫指标的影响  
+
+<html><body><table><tr><td colspan="6">piceus) mg/L</td></tr><tr><td colspan="6">饲料维生素A 含量 Dietary vitamin Acontent/(IU/kg)</td></tr><tr><td>290</td><td>1 033</td><td>1734</td><td>3 835</td><td>7 662</td><td>14 943</td></tr><tr><td>4.88±0.29a</td><td>6.12±0.35ab</td><td>8.30±0.94bc</td><td>13.19±1.33d</td><td>13.05±1.39d</td><td>11.96±1.31cd</td></tr><tr><td>28.84±3.14a</td><td>30.95±4.11ab</td><td>41.32±4.60bc</td><td>49.61±3.18c</td><td>46.82±2.45c</td><td>43.51±4.90c</td></tr><tr><td>6.31±1.02a</td><td>7.99±0.69ab</td><td>12.13±1.83bc</td><td>12.55±2.11c</td><td>14.41±2.26d</td><td>11.45±1.40bc</td></tr></table></body></html>
+
+图2显示，血细胞中 $L Y Z$ 基因表达量呈现先升高后降低的趋势，并在 $3 8 3 5 \mathrm { I U / k g }$ 组达最高，显著高于其他各组（ $\scriptstyle P < 0 . 0 5$ ），但在1734、7662和 $1 4 9 4 3 \mathrm { I U / k g }$ 组间无显著差异（ $P { > } 0 . 0 5$ ）。 $I N F a$ 基因表达量在 $1 7 3 4 \mathrm { I U / k g }$ 组到达最高值，与3835和 $7 6 6 2 \mathrm { I U / k g }$ 组没有显著差异（ $P { > } 0 . 0 5$ ），显著高于其他各组（ $P { < } 0 . 0 5$ ）。HEPC基因的表达量在饲料维生素A含量为 $1 7 3 4 { \sim } 1 4 9 4 3 \mathrm { I U } / \mathrm { k g }$ 时差异不显著（ ${ \cdot } P { > } 0 . 0 5$ ），但在 $1 7 3 4 \mathrm { I U / k g }$ 组达到最高值，且与290和 $1 0 3 3 \mathrm { I U / k g }$ 组差异显著 （ $\cdot P { < } 0 . 0 5$ ）。NRAMP基因表达量呈现先升高后降低趋势，并在 $1 7 3 4 \mathrm { I U / k g }$ 组获得最高值，显著高于其他各组（ $\scriptstyle \cdot < 0 . 0 5$ ）。C3基因表达量在1734IU/kg组到达最高值，但与3835 和 $7 6 6 2 \mathrm { I U / k g }$ 组间无显著差异（ $P { > } 0 . 0 5$ ），显著高于其他各组（ $P { < } 0 . 0 5$ ）。 $2 9 0 ~ \mathrm { I U / k g }$ 组C9 基因表达量显著低于其他各组（ $. P { < } 0 . 0 5$ ），并在 $7 \ : 6 6 2 \ : \mathrm { I U / k g }$ 组到最高值，但在1734、7662和 $1 4 9 4 3 \mathrm { I U / k g }$ 组之间无显著差异（ $P { > } 0 . 0 5$ ）。
+
+数据柱形标注不同小写字母表示差异显著（ $_ { . } { \cal P } { < } 0 . 0 5$ ）。
+
+![](images/ead82c9273d95be5a5891e4626458aab4ce4b1e0371211e5422583d1d02308e8.jpg)  
+图2维生素A对青鱼幼鱼血细胞免疫相关基因表达量的影响
+
+'lue columns with different small letters mean significant difference $( P { < } 0 . 0 5 )$ ：
+
+Fig 2Effects of vitamin Aon gene expresson levels related to immunity in blood cell of juvenile black carp
+
+(Mylopharyngodon piceus)
+
+3讨论
+
+3.1维生素A对青鱼幼鱼生长性能和体组成的影响本研究结果显示，维生素A是促进青鱼幼鱼生长的必需营养素，能够显著影响青鱼幼鱼的 WGR、SGR、HSI、PER、FCR 和 SR 等指标，这与在其他鱼类中研究结果一致[4,8,12,27-28]。本研究以WGR为指标，采用折线模型分析，得出青鱼幼鱼的维生素A需求量为2246.64IU/kg，这与玳瑁石斑[9]和虹鳟[29]、大口黑鲈[12]、花鲈（Lateolabrax japonicus）[30]和团头鲂[4]等肉食性鱼类对饲料维生素A的需求量接近。同时青鱼幼鱼的维生素A需求量显著高于史氏鲟鱼（Acipenser schrencki）[28]，但显著低于牙鲆（Paralichthys olivaceus）[31]和杂交罗非鱼（Oreochromis niloticus×O.aureus）[32]，这表明维生素A的需求量差异可能与鱼类品种不同有关[12]。另外本研究发现，当维生素A含量仅为290 和 $1 0 3 3 \mathrm { \Pi U / k g }$ 时，青鱼幼鱼的生长受到显著抑制，这与在大口黑鲈[12]、建鲤（Cyprinus carpio var.Jian）[3]和牙鲆[31]中的研究结果相似。与适量维生素A组（ $3 8 3 5 \mathrm { I U / k g }$ 组）相比，过量维生素A（14943IU/kg）显著抑制青鱼幼鱼的生长，这与在牙鲆[33、斜带石斑鱼（Epinephelus coioides）[27]和美国红鱼（Sciaenops ocellatus）[34]中的研究结果一致。上述研究结果进一步证明了饲料中维生素A缺乏或过量均会导致养殖青鱼出现生长抑制现象[3]。但是对于维生素A缺乏或过量抑制鱼类生长的分子机制有待进一步深入研究。
+
+本研究结果显示，饲料中不同维生素A含量对青鱼幼鱼全鱼的水分、粗灰分和粗脂肪含量影响不显著。鱼体粗蛋白含量在 $7 6 6 2 \mathrm { I U / k g }$ 组达到最大值，与维生素A缺乏组差异显著，但与其他试验组间无显著差异，相似的研究结果也出现在建鲤[3]、大口黑鲈[12]和斜带石斑鱼[27]等鱼类中。同样在这几种鱼类中研究结果也显示，鱼体粗蛋白含量的变化趋势与 PER变化趋势一致，这说明维生素A的缺乏或过量都会降低青鱼幼鱼对蛋白质的利用，并且维生素 A参与了鱼体营养物质的代谢从而影响了鱼体组成[12.27]。此外，随着饲料中维生素 A的含量增加，青鱼幼鱼的粗脂肪含量呈现先升高后平稳的趋势，这与在大口黑鲈[12]、花鲈[2]和牙鲆[31]等鱼类中的研究结果一致，但是不同饲料维生素A含量对团头鲂[4]和草鱼[5.8]的鱼体组成无显著影响，这可能是鱼的种类不同而产生的生物学差异。
+
+# 3.2维生素A对青鱼幼鱼肝脏代谢酶活性的影响
+
+作为储存和代谢脂溶性维生素A的主要器官[35]，肝脏中代谢酶的活性较高[36]，能够更好地反映出养殖动物的代谢特征。本研究发现，青鱼幼鱼中肝脏α淀粉酶活性随着维生素 A含量的升高而呈现先升高后降低的趋势，这表明饲料中添加适宜剂量的维生素A能够改善青鱼幼鱼对碳水化合物的消化吸收和利用，这与在高等动物中的研究结论较为一致[37]。此外，随着饲料维生素A含量的升高，青鱼幼鱼中肝脏各类蛋白酶活性与鱼体粗蛋白含量和PER 的变化趋势一致，这表明饲料中添加适宜剂量的维生素A能够促进青鱼幼鱼对饲料蛋白质的消化、吸收和利用，进而促进鱼体的生长和蛋白的沉积[12.27,31]。而维生素A缺乏降低了青鱼的消化能力，从而降低其对营养物质(蛋白质等)的利用率，并产生生长抑制现象[3]。但是对于维生素A调控动物体代谢酶的分子机制仍需深入研究。
+
+3.3维生素A对青鱼幼鱼肝脏抗氧化能力的影响
+
+与其他耗氧生物一样，鱼类细胞也极易受到超氧阴离子、过氧化氢等活性氧分子的非特异性攻击。而鱼类在进化过程中也产生一系列抗氧化分子来抵御氧化损伤[38-39]，包括非酶性抗氧化分子（GSH等）以及抗氧化酶（如CAT、SOD、GST、GPx和GR 等）。SOD 主要催化超氧阴离子转化生成过氧化氢，从而降低超氧阴离子对细胞造成的氧化损伤。与在美国红鱼[34]、草鱼[8]、大口黑鲈[12]中的研究结果一致，本研究发现 SOD 活性随着维生素 A含量的增加也呈现先递增后趋于稳定的趋势，这也表明适量的维生素A有利于青鱼幼鱼抵抗氧化应激[14]。同时，CAT 和 $\mathbf { G P x }$ 可以将过氧化氢催化生成无毒副作用的水和氧气分子。肝脏CAT、GPx和GR活性在本研究中均呈现先升高后降低的趋势，表明在一定范围内维生素 A的添加可以提高抗氧化酶的活性。作为机体抗氧化能力的一个综合指标，T-AOC 也呈现与CAT、GPx 和GR活性相似的变化趋势，这表明饲料中添加适量的维生素A能够更好地清除鱼体内过多的活性氧自由基分子，进而促进抗氧化系统平衡[38]。肝脏GST活性和 MDA含量的高低能够直观地反映动物细胞受到氧化损伤的程度。本研究发现，与维生素A缺乏组（290IU/kg 组）相比，1734、3835和7662IU/kg的维生素A能够下调鱼体肝脏中GST活性和 MDA含盐量，随后在过量组（14 943 IU/kg 组）又出现升高，这与在大口黑鲈中的研究结果一致[12]。这表明适量的维生素A可在一定程度上减轻青鱼幼鱼细胞内过量活性氧自由基攻击造成的氧化受损[38]。因此，在饲料中适当添加维生素A可以提高青鱼幼鱼抗氧化反应能力。
+
+# 3.4维生素A对青鱼幼鱼非特异性免疫能力的影响
+
+LYZ 在鱼类非特异性免疫机制中担负重要角色，其基因表达量能够直接反映鱼类免疫反应的高低，并且已经成为水产动物免疫反应的重要指标[25,28]。本研究中，维生素A含量为3835IU/kg时，青鱼幼鱼血细胞中LYZ基因表达量以及血清中LYZ含量均达到最高,此结果与在罗非鱼和建鲤等鱼类[3,10,12]中的研究结果一致，这也证明适量的维生素A 能够通过提高 LYZ基因表达量和 LYZ 含量来增强动物体的免疫力。但 Thompson 等[40]在大西洋鲑(Salmo salarL.)中未发现类似现象，这可能是鱼类品种差异造成的。干扰素不仅是高等动物机体抵抗病原体尤其是病毒感染的第一道防线，也是低等脊椎动物-鱼类的重要防御因子和免疫细胞的激活因子[4I]，而且干扰素基因的高表达量也能够体现出动物体免疫能力的强弱[19]。结合上述发现以及本研究结果，可以进一步证明饲料中添加适量的维生素A可以通过提高青鱼幼鱼INFα基因表达量提高鱼类抗病力。NRAMP 和HEPC 是动物体内重要的抗菌肽和杀菌剂，在非特异性免疫调控和增强获得性免疫防御中发挥重要作用[42]。NRAMP 还能够激活巨噬细胞来提高抗菌剂活性分子——一氧化氮（NO）的生成量进而增强动物体的免疫力[43]。HEPC 能够通过结合铁转运蛋白进而提高巨噬细胞对病原体的内吞作用和蛋白质水解作用[42]。因此，饲料中添加适量的维生素A 能够通过提高NRAMP 和HEPC 基因表达量来增强青鱼的非特异性免疫防御能力[25]。作为动物体液免疫系统的重要因子，经旁路途径或裂解途径激活的补体分子首先与外源细菌结合，然后通过吞噬细胞表面相应受体来促进吞噬作用，实施对外源入侵物的裂解和破坏，进而提高动物体的免疫防御能力[445]。作为激活补体系统的关键分子，青鱼幼鱼血清中C3 和C4 含量能够被适量的维生素A显著提高，这与在团头鲂[4]、大西洋鲑鱼[40]、虹鳟[29]、真鲷(Sparus aura ta L.)[46]、牙鲆[47]和大口黑鲈[12]等鱼类中的研究结果一致。上述研究结果也显示，维生素A含量对青鱼幼鱼的非特异性免疫指标的影响较为一致，这进一步证明饲料中适量的维生素A对于维持青鱼幼鱼健康和免疫防御具有重要意义。
+
+4结论
+
+$\textcircled{1}$ 饲料中添加适量的维生素A能够显著促进青鱼幼鱼的生长、代谢并提高其抗氧化能  
+力和非特异性免疫能力。$\textcircled{2}$ 折线模型分析结果显示青鱼幼鱼饲料中维生素A适宜含量为 $2 2 4 6 . 6 4 ~ \mathrm { I U / k g }$ 。  
+参考文献：  
+[1] OLSON J A.Needs and sources of carotenoidsand vitamin A[J].Nutrition  
+Reviews,1994,52(2):S67-S73.  
+[2]美国科学院国家研究委员会.鱼类与甲壳类营养需要[S].麦康森,李鹏,赵建民，译.北京:
+
+[3]杨奇慧,周小秋.维生素A缺乏对建鲤生长性能及免疫功能的影响[J].中国水产科学,2005,12(1):62-67.
+
+[4] LIU B,ZHAO Z X,BROWN P B,et al.Dietary vitamin A requirement of juvenile Wuchang bream (Megalobrama amblycephala) determined by growth and disease resistance[J].Aquaculture,2016,450:23-30.
+
+[5]蒋明.草鱼幼鱼对维生素 A、D和K 需要量的研究[D].硕士学位论文.武汉:华中农业大 学,2007.   
+[6] SALEH G,ELERAKY W,GROPP J M.A short note on the effects of vitamin A hypervitaminosis and hypovitaminosis on health and growth of Tilapia nilotica (Oreochromis niloticus)[J].Journal of Applied Ichthyology,1995,11(3/4):382-385.   
+[7]DEDI J,TAKEUCHI T,SEIKAI T,et al.Hypervitaminosis and safe levels of vitamin A for larval flounder Paralichthys olivaceus fed Artemia nauplii[J].Aquaculture,1995,133(2):135-146. [8]WU F,ZHU W H,LIU M M,et al.Effects of dietary vitamin a on growth performance,blood biochemical indices and body composition of juvenile grass carp (Ctenopharyngodon Idellus)[J].Turkish Journal of Fisheries and Aquatic Sciences,2016,16(2):339-345.   
+[9]MOHAMED J S,SIVARAM V,ROY T S C,et al.Dietary vitamin A requirement of juvenile greasy grouper (Epinephelus tauvina)[J].Aquaculture,2003,219(1/2/3/4):693-701.   
+[10] GUO R,LIM C,XIA H,et al.Effect of various dietary vitamin A levels on growth performance and immune response of tilapia (Oreochromis niloticus)[J].Frontiers of Agriculture in China,2010,4(4):507-512.   
+[11] FALAHATKAR B,LOTFI A,AMLASHI A S,et al.Growth performance,carcass composition,hematological and biochemical indices of rainbow trout,Oncorhynchus mykiss juvenilesfed diet containing different levelsof vitamin premix[J].Iranian Society of Ichthyology,2016,3(1):53-63.   
+[12]连雪原,陈乃松,王孟乐,等.大口黑鲈维生素A需求量[J].动物营养学 报,2017,29(10):3819-3830.   
+[13]TAKEUCHI T,DEDI J,HAGA Y,et al.Effect of vitamin A compounds on bone deformity in larval Japanese flounder (Paralichthys olivaceus)[J].Aquaculture,1998,169(3/4):155-165. [14]刘梦梅,陈娇娇,朱文欢,等.维生素A 对养成期草鱼生长性能以及骨骼中钙磷含量变化 的影响[J].水生生物学报,2017,41(1):101-107.   
+[15]麦康森.水产动物营养与饲料学[M].2版.北京:中国农业出版社,2011:149.   
+[16] 陈建明,沈斌乾,潘茜,等.饲料蛋白和脂肪水平对青鱼大规格鱼种生长和体组成的影响 [J].水生生物学报,2014,38(4):699-705.   
+[17]王道尊,龚希章,刘玉芳.饲料中脂肪的含量对青鱼鱼种生长的影响[J].水产学 报,1987,11(1):23-28.   
+[18]WU C L,YE JY,GAO J E,et al.Effect of varying carbohydrate fractions on growth,body composition,metabolic,andhormonalindicesinjuvenileblackcarp,Mylopharyngodon piceus[J].Journal of the World Aquaculture Society,2016,47(3):435-449.   
+[19]WU C L,YE J Y,GAO J E,et al.The effects of dietary carbohydrate on the growth,antioxidant capacities,innate immune responses and pathogen resistance of juvenile Black carp Mylopharyngodon piceus[J].Fish & Shelfish Immunolog,2016,49:132-142.   
+[20] 王道尊,宋天复,杜汉斌,等.饲料中蛋白质和醾的含量对青鱼鱼种生长的影响[J].水产学 报,1984,8(1):9-17.   
+[21] 冷向军,王道尊.青鱼对铜需要量的研究[C]/第三届世界华人鱼虾营养研讨会论文集.上 海：中国水产学会,2007.
+
+[22]胡毅,黄云,文华,等.维生素C对青鱼幼鱼生长、免疫及抗氨氮胁迫能力的影响[J].水产 学报,2013,37(4):565-573.
+
+[23]吴成龙,叶金云.维生素D对青鱼幼鱼生长、抗氧化和非特异性免疫力的影响[C]//2015 年中国水产学会学术年会论文摘要集.杭州:中国水产学会,2015.   
+[24]黄云,胡毅,文华,等.维生素E对青鱼幼鱼生长、免疫及抗氨氮胁迫能力的影响[J].水生 生物学报,2013,37(3):507-514.   
+[25] WU C L,CHEN L,LU Z B,et al.The effects of dietary leucine on the growth performances,body composition,metabolic abilities and innate immune responses in black carp Mylopharyngodon piceus[J].Fish & Shellfish Immunology,2017,67:419-428.   
+[26]LIVAK K J,SCHMITTGEN T D.Analysis of relative gene expression data using real-time quantitative CR and the $2 ^ { - \triangle \triangle } \mathrm { C T }$ metod]   
+[27]侯鑫.斜带石斑鱼和罗非鱼对维生素A和肌醇的需求研究[D].硕士学位论文.广州:中山 大学,2009.   
+[28]高强.两种鲟鱼幼鱼维生素 A、C 和E 营养需要研究[D].硕士学位论文.重庆:西南农业 大学,2005.   
+[29]THOMPSON 1,CHOUBERT G,HOULIHAN D F,et al.The effect of dietary vitamin A and astaxanthin on the immunocompetence of rainbow trout[J].Aquaculture,1995,133(2):91-102. [30]张璐.鲈鱼和大黄鱼几种维生素的营养生理研究和蛋白源开发[D].博士学位论文.青岛: 中国海洋大学,2006.   
+[31]HERNANDEZ L H H,TESHIMA S 1,ISHIKAWA M,et al.Dietary vitamin A requirements of juvenile Japanese flounder Paralichthys olivaceus[J].Aquaculture Nutrition,2015,11(1):3-9. [32] HU C J,CHEN S M,PAN C H,et al.Effects of dietary vitamin A or $\beta$ -carotene concentrations on growth of juvenile hybrid tilapia,Oreochromis
+
+niloticus×O.aureus[J].Aquaculture,2006,253(1/2/3/4):602-607.
+
+[33] DEDI J,TAKEUCHI T,HOSOYA K,et al.Effect of Vitamin A levels in Artemia nauplii on the caudal skeleton formation of Japanese flounder Paralichthysolivaceus[J].Fisheries Science,2011,64(2):344-345.
+
+[34]周立斌,王安利,张伟,等.饲料维生素A对美国红鱼生长和免疫的影响[J].动物营养学 报,2008,20(4):482-488.   
+[35]魏玉婷.大菱鲆(Scophthalmus maximus)幼鱼对饲料中蛋氨酸、精氨酸、维生素A及维 生素E 需求量的研究[D].硕士学位论文.青岛:中国海洋大学,2010.   
+[36]叶元土,薛敏,林仕梅,等.草鱼肠道、肝胰脏对饲料蛋白质酶解速度的比较[J].中国水产科 学,2003,10(2):173-176.   
+[37]SOLIMAN M M,AHMED M M,EL-SHAZLY S A,et al.Effect of vitamin A and E on carbohydrate and lipid metabolism in diet-induced obese wistar rats[J].Advances in Bioscience and Biotechnology,2014,5(1):41633.   
+[38]MARTiNEZ-ALVAREZ R M,MORALES A E,SANZ A.Antioxidant defenses in fish:biotic and abiotic factors[J].Reviews in Fish Biology and Fisheries,2005,15(1/2):75-88.   
+[39]王菲,李向飞,李鹏飞,等.饲料维生素 $\mathbf { B } _ { 2 }$ 水平对团头鲂幼鱼生长性能、体组成、抗氧化 功能和肠道酶活性的影响[J].江苏农业科学,2016,44(5):319-324.   
+[40]THOMPSON I,FLETCHER T C,HOULIHAN D F,et al.The effect of dietary vitamin A on theimmunocompetence of Atlantic salmon (Salmo salar L.)[J].Fish Physiologyand Biochemistry,1994,12(6):513-523.   
+[41]ZHU L Y,NIE L,ZHU G,et al.Advances in research of fish immune-relevant genes:a comparative overview of innate and adaptive immunity in teleosts[J].Developmental & Comparative Immunology,2013,39(1/2):39-62.   
+[42]ZHU S Y,GAO B.Evolutionary origin of $\beta$ -defensins[J].Developmental & Comparative   
+Immunology,2013,39(1/2):79-84.   
+[43]BLACKWELL JM,BARTON C H,WHITE J K,et al.Genetic regulation of leishmanial and   
+mycobacterial infections:the Lsh/Ity/Bcg gene story continues[J].Immunology   
+Letters,1994,43(1/2):99-107.   
+[44]HOLLAND M C H,LAMBRIS JD.The complement system in teleosts[J].Fish & Shellfish   
+Immunol0gy,2002,12(5):399-420.   
+[45]AMAR E C,KIRON V,SATOH S,et al.Enhancement of innate immunity in rainbow trout   
+(Oncorhynchus mykiss Walbaum) associated with dietary intake of carotenoids from natural   
+products[J].Fish & Shelfish Immunology,2004,16(4):527-537.   
+[46]CUESTA A,ORTUNO J,RODRIGUEZ A,et al.Changes in some innate defence parameters   
+ofseabream (Sparusaurata L.） inducedby retinolacetate[J].Fish & Shelfish   
+Immunology,2002,13(4):279-291.   
+[47] HERNANDEZ L H H,TESHIMA S I,KOSHIO S,et al.Effects of vitamin A on   
+growth,serum anti-bacterial activity and transaminase activities in the juvenile Japanese   
+flounder,Paralichthys olivaceus[J].Aquaculture,2007,262(2/3/4):444-450. Effects of Vitamin A on Growth, Metabolism, Antioxidant Capacity and Immunity in Juvenile Black Carp (Mylopharyngodon piceus) CHEN Lian1,2 WU Chenglong²ZHANG Yixiang²SHAO Xianping² CHEN Shujian1.2 WANG Chunlin1YE Jinyun2 (1. Key Laboratory of Applied Marine Biotechnology of Education, School of Marine Sciences, Ningbo University, Ningbo 315211, China; 2. Zhejiang Provincial Key Laboratory of Aquatic Resources Conservation and Development, School of Life Science, Huzhou
+
+Abstract: The present trial was conducted to determine the effects of diets with six vitamin A contents (290,1 033,1 734,3 835,7 662 and $1 4 ~ 9 4 3 ~ \mathrm { I U / k g }$ ） on growth, metabolism, antioxidant capacity and immunity of juvenile black carp (Mylopharyngodon piceus). A total of 540 juvenile black carps with initial body weight of( $5 . 3 5 { \pm } 0 . 1 6 ^ { \cdot }$ ）g were divided into six groups, and carps in each were fed one of the six diets.Each group had 3 replicates with 3O carps per replicate. The experiment lasted for 6O days. The results showed as follows: with the increase of dietary vitamin A content, weight gain rate (WGR), specific growth rate (SGR) and protein efficiency ratio (PER) firstly increased and then decreased,and reached to the highest when dietary vitamin A was 3 835 IU/kg. Based on the broken-line regression analysis for WGR,the optimal content of dietary vitamin A was 2 246.64 IU/kg for the maximal WGR. 2） When dietary vitamin A content was increased from 290 to $7 ~ 6 6 2 ~ \mathrm { I U / k g }$ ， the activities of $\mathfrak { a }$ amylase, trypsin, chymotrypsin, elastase in liver were significantly increased $( P { < } 0 . 0 5 )$ ， similarly， the activities of superoxide dismutase (SOD),catalase (CAT),glutathione peroxidase (GPX) and glutathione reductase (GR), and total antioxidant capacities (T-AOC） in liver were also significantly up-regulated $( P { < } 0 . 0 5 )$ .The activities of glutathione-S-Transferase (GST) and content of malondialdehyde (MDA) were firstly decreased and reached to the lowest level when dietary vitamin A was $3 ~ 8 3 5 ~ \mathrm { I U / k g }$ ，and then increased.3） Compared with $2 9 0 ~ \mathrm { I U / k g }$ group, the activity of lysozyme (LYZ) and contents of complement component 3 (C3) and complement component 4(C4) in serum of in 3 835 and 7 662 IU/kg groups were significantly increased $( P { < } 0 . 0 5 )$ ). Proper contents of dietary vitamin A(1 734, 3 835 and 7 662 IU/kg) could also significantly up-regulate the gene expression levels of $L Y Z ,$ （2 interferon α (IFNα)， hepcidin (HEPC)，natural resistance-associated macrophage protein (NRAMP), C3 and complement component 9 $( C 9 )$ in blood cell $( P { < } 0 . 0 5 )$ . Therefore, adequate dietary vitamin A can significantly increase growth performances, improve metabolic abilities and then enhance non-specific immunity in juvenile black carp; the optimal content in diet for juvenile black carp is 2 246.64 IU/kg.
+
+Key words: vitamin A; Mylopharyngodon piceus; requirement ; antioxidant capacity; innate

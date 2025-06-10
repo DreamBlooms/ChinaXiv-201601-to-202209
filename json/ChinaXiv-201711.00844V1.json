@@ -1,0 +1,337 @@
+[
+    {
+        "type": "text",
+        "text": "黏蛋白侧链岩藻糖在肠道细菌与宿主互作过程中的作用王进波」李杨1,²齐莉莉」喻鹏飞」吴天星 1.2\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.浙江大学宁波理工学院，宁波315100；2.浙江大学化学系，杭州310027）摘要：消化道表面黏液层中含有大量黏蛋白，这些黏蛋白分子侧链往往被糖基化修饰，这些糖基在肠道菌的黏附、定植及免疫调节过程中发挥重要作用，岩藻糖是肠道黏蛋白分子侧链中的一种重要糖基。本文总结了岩藻糖作为肠道菌黏附靶位点和信号调节分子，以及调节肠道功能等方面的作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：岩藻糖；肠道细菌；宿主；互作",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S811.3 文献标识码： 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "人和动物肠道中生存着大量微生物，这些微生物的组成、种类十分复杂。研究表明，人体肠道共生菌种类超过1000 种，十二指肠中细菌的数量约为 $1 0 ^ { 4 }$ 个/g，结肠中细菌的数量约为 $1 0 ^ { 1 2 }$ 个 $/ \\mathrm { g } ^ { [ 1 - 2 ] }$ 。这些共生菌与宿主间存在着复杂而精细的互作关系，参与调节机体生理功能，对于维持机体的健康具有重要意义[3]。肠道菌群通过与机体肠道上皮互作，刺激肠道组织发育，调节机体肠道免疫功能，并可通过机体肠脑轴和肠肝轴调节中枢神经系统及肝脏功能[4-5]。近十年来，肠道微生态与机体健康的关系已成为国内外研究的热点。研究表明，肠道微生物与炎症性肠病[6-7]、食物过敏[8]、阿尔茨海默病[9]、肝性脑病[10]及肥胖症[11]等疾病密切相关。因此，揭示肠道菌群与机体的互作机制，对探究上述疾病的发病机理及其治疗均具有十分积极的意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1肠道菌与肠黏膜上皮互作机制概述",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "国内外学者对肠道细菌与机体的互作机制进行了较为广泛的研究。一般认为，肠道细胞可通过模式识别受体（PRRs）与细菌细胞壁组成成分相互识别，激活机体非特异性免疫应答反应，阻碍肠道细菌易位，防止其侵染肠道组织[1,12]。细菌的磷壁酸、肽聚糖、鞭毛蛋白、脂多糖等细胞壁成分可以被肠黏膜M细胞上的跨膜受体TolI样受体(TLRs)、C-型凝集素受体(CLRs)及细胞浆中的NOD 样受体（NLRs）和RIG-I样受体(RLRs)识别，进而刺激树突状细胞成熟，发挥其抗原呈递功能，激活肠道免疫应答反应[13,15]。肠道共生菌通过依赖于髓样分化因子(MyD88)的信号途径，调节肠道微生态，维持肠道菌群平衡[16]。研究发现，有的益生菌也可通过非依赖于MyD88 的信号途径，调节肠黏膜细胞的免疫机能[17-18]。这些研究结论揭示了细菌可通过与肠黏膜细胞中的相关受体的识别，激活肠道免疫应答反应，从而避免肠道中的细菌易位并侵染机体。然而，在正常情况下，人体肠道黏膜细胞会产生并分泌大量黏液，形成黏液层，覆盖在肠道黏膜细胞表面，仅有极少数细菌能够通过黏液层，被肠黏膜细胞的相关受体识别，调节肠黏膜免疫应答。绝大多数细菌并不与肠黏膜细胞直接接触，也就不能通过上述受体而与肠黏膜细胞互作[19-20]。这提示肠道细菌在肠道中的黏附与定植存在其他机制。结肠黏液层分为内层和外层，黏液内层与肠黏膜上皮细胞紧密结合，不具流动性，厚度为 $5 0 { \\sim } 1 0 0 ~  { \\mu \\mathrm { m } }$ ，是结构致密的无菌层；黏液外层位于黏液内层的肠腔侧，结构疏松，具有流动性，厚度为 $1 0 0 { \\sim } 7 0 0 ~ \\mu \\mathrm { m }$ ，其中有大量细菌存在（图1）[21-23]。肠道黏液内、外层的主要成分均为糖基化修饰的黏蛋白，其分子中的糖基可为细菌提供识别、黏附位点并将其限制于疏松的外层。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c6d1df76481d303c01961c22dabccff372903998c8ae7ebb021a1fe51065419b.jpg",
+        "img_caption": [
+            "",
+            "图1人体消化道表面黏液层",
+            "Fig.1The mucus in human digestive tract[21] "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2黏蛋白侧链岩藻糖是肠道细菌的重要黏附靶点",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "岩藻糖是黏蛋白糖链上的重要糖基，占糖基总数的 $4 \\% \\sim 1 4 \\%$ 。Abodinar等[24]研究发现，猪胃黏蛋白分子中岩藻糖占糖基总量的 $4 \\%$ 。细菌在消化道的识别、黏附及定植过程中，黏蛋白糖链上的岩藻糖基可能发挥着重要作用[25]。幽门螺杆菌的凝集素 BabA 能够识别胃黏膜表面黏蛋白分子中的岩藻糖基，从而黏附到体内[21,26]。空肠弯曲杆菌可通过与黏蛋白糖链上的岩藻糖基互作，从而黏附、定植到肠黏膜细胞表面，这可将细菌限制在肠道黏液层中，防正其易位感染[27]。绿脓杆菌可通过其产生的凝集素LecB，特异性地与岩藻糖基结合，从而黏附到组织表面[28]。多形拟杆菌可刺激人体肠道黏蛋白的岩藻糖基化修饰，使幼龄动物肠道黏蛋白的唾液酸水平降低，促进其肠道组织发育成熟，从而保护肠黏膜上皮免受肠道菌群的侵染[29]。Priori 等[30]研究发现，仔猪空肠黏蛋白分子的岩藻糖含量越多，肠致病性大肠杆菌（enterotoxigenic E.coli，ETEC）的黏附率就越高，而且黏蛋白岩藻糖含量与肠绒毛的高度有关。有研究表明，仔猪肠黏膜组织中 $_ { \\mathrm { a - 1 } , 2 }$ 岩藻糖基转移酶1（α-1,2-fucosyltransferases 1,FUT1）的基因型及其表达水平与ETEC 在肠黏膜上的黏附率密切相关，这提示仔猪肠道黏蛋白分子中的岩藻糖是ETECF18的黏附靶点[31]。这些研究表明，岩藻糖基可与致病菌特异性结合，阻碍细菌直接接触肠道组织，从而避免其引起的机体炎症反应。然而，目前的研究尚未对岩藻糖基在肠道益生菌抑制病原菌定植、侵染过程中的作用机制进行探索。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3岩藻糖作为信号分子调节肠道微生态 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "岩藻糖可作为信号分子和细菌碳源，参与机体肠道微生态调节[29]。Pacheco 等[32]研究发现，岩藻糖可诱导肠出血性大肠杆菌（enterohemorrhage E.coli，EHEC）的膜受体磷酸化，进而抑制 EHEC 毒力相关操纵子LEE 的激活，从而降低 EHEC 的致病性。岩藻糖可作为信号分子上调空肠弯曲杆菌（C.Jejuni）flaA 启动子的活性，增强该菌的毒力[25]。沙门氏菌及多形拟杆菌具有较为高效的岩藻糖操纵子，岩藻糖进入细菌体内后，诱导岩藻糖降解代谢相关酶的表达，从而激活岩藻糖降解途径，将其作为碳源[33]。岩藻糖可刺激多形拟杆菌产生一种可分泌因子，该因子可刺激肠道细胞岩藻糖基转移酶（FUT）-2基因的表达，从而提高黏蛋白糖链的岩藻糖基修饰水平[34]。空肠弯曲杆菌不具备一般细菌的糖代谢途径，仅能通过氨基酸或柠檬酸代谢途径获得生长所需的碳源，但该菌可将岩藻糖作为碳源，这是该菌唯一能够利用的碳水化合物[29]。Rodriguez-Diaz 等[35]研究发现，多数致病菌不产生岩藻糖苷酶，也就不能降解黏蛋白糖链上的岩藻糖苷键，而双歧杆菌等益生菌可产生高活性的岩藻糖苷酶，降解糖链上的岩藻糖苷键，释放游离的岩藻糖，这提示益生菌可能通过降解产生游离岩藻糖而发挥其肠道调节作用。从上述研究来看，岩藻糖可作为诱导物或碳源物质，调节肠道菌群平衡，但其作用机制仍不清楚。岩藻糖对病原菌毒力的调节作用尚无一致的结论，其在益生菌抑制致病菌毒力过程的作用也未见报道。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4岩藻糖与肠道疾病密切相关 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "黏蛋白糖链的岩藻糖基化修饰水平与炎症性肠病有关。对北欧相关病例的基因组分析表明，FUT-2缺陷型与炎症性肠病的发生直接相关[36]，同时，FUT-2缺陷型个体肠道菌群的组成也与正常人不同，这提示黏蛋白岩藻糖基可能通过肠道微生态调控，直接影响炎症性肠病的发生。Morrow 等37]对美国410例早产儿的研究发现，FUT-2缺陷型与新生儿坏死性小肠结肠炎（NEC）的发病率、死亡率高度相关，这说明岩藻糖基在新生儿肠道功能发育过程中具有十分重要的作用。FUT1是一种重要的FUT，其主要功能是对黏蛋白进行岩藻糖基化修饰。Hesselager 等[38]对仔猪的研究证明，肠黏膜组织中FUT1的基因型与仔猪的抗感染能力密切相关。当FUT1第307号核苷酸发生G到A的错义突变时，仔猪对ETEC 的抗感染能力显著提高[38]。这说明，黏蛋白岩藻糖侧链在仔猪抵抗病原菌感染过程中发挥重要作用。这些研究提示，黏蛋白岩藻糖基对于维持机体肠道健康具有重要作用，深入解析其作用机制，对于炎症性肠病等肠道疾病的诊断、预防及治疗均具有积极意义。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5小结 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "岩藻糖在肠道细菌的黏附、定植、免疫调节及微生态平衡过程中发挥重要作用。因此，从分子、细胞、组织、个体等多个层次研究岩藻糖基在肠道细菌黏附、定植过程中的作用，深入解析与黏蛋白岩藻糖基相互识别的菌体成分，将进一步明确肠道细菌的黏附机制。目前，关于黏蛋白分子中岩藻糖侧链与动物肠道健康及肠道菌群的关系研究报道较少，深入分析岩藻糖对维持动物肠道健康的重要作用，具有十分重要的理论和实践意义，将为利用益生菌预防、治疗动物肠道疾病提供更加明确的依据。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1] HATTORI M,TAYLOR T D.The human intestinal microbiome:a new frontier of human biology[J].DNA Research,2009,16(1):1-12. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[2] WATSON A J M,HALL L J.Regulation ofhost gene expression bygut microbiota[J].Gastroenterology,2013,144(4):841-844. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[3] CHEN X,D' SOUZA R,HONG S T.The role of gut microbiota in the gut-brain axis:current challenges and perspectives[J].Protein & Cell,2013,4(6):403-414. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[4]NICHOLSON J K,HOLMES E,KINROSS J,et al.Host-gut microbiota metabolic interactions[J].Science,2012,336(6086):1262-1267. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[5] BERCIK P,DENOU E,COLLINS J,et al.The intestinal microbiota aect central levels of brain-derived neurotropic factor and behavior in mice[J].Gastroenterology,2011,141(2):599-609.e3. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[6] WERNER T,WAGNER S J,MARTINEZ I,et al.Depletion of luminal iron alters the gut microbiota and prevents Crohn's disease-like ileitis[J].Gut,2011,60(3):325-333. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[7] BELLAGUARDA E,CHANG E B.IBD and the gut microbiota-from bench to personalized medicine[J].Current Gastroenterology Reports,2015,17:15. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[8] STEFKA A T,FEEHLEY T,TRIPATHI P,et al.Commensal bacteria protect against food allergen sensitization[J].Proceedings of the National Academy of Sciences of the United States of America,2014,111(36):13145-13150. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[9]HILL J M,LUKIW W J.Microbial-generated amyloidsand Alzheimer'sdisease (AD)[J].Frontiers in Aging Neuroscience,2015,7:9. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[10] VICTOR D W II,QUIGLEY E M M.Hepatic encephalopathy involves interactions among the microbiota,gut,brain[J].Clinical Gastroenterology and Hepatology,2014,12(6):1009-1011. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[11] NIEUWDORP M,GILIJAMSE P W,PAI N,et al.Role of the microbiome in energy regulation and metabolism[J].Gastroenterology,2014,146(6):1525-1533. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[12] NEISH A S.Microbes in gastrointestinal health and disease[J].Gastroenterology,2009,136(1):65-80. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[13] IVANOV I I,HONDA K.Intestinal commensal microbes as immune modulators[J].Cell Host & Microbe,2012,12(4):496-508. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[14] HEIMESAAT M M,NOGAI A,BERESWILL S,et al.MyD88/TLR9 mediated immunopathology and gut microbiota dynamics in a novel murine model of intestinal graft-versus-host disease[J].Gut,2010,59(8):1079-1087. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[15] ANITHA M,VIJAY-KUMAR M,SITARAMAN S V,et al.Gut microbial products regulate murine gastrointestinal motility via Toll-like receptor 4 signaling[J].Gastroenterology,2012,143(4):1006-1016.e4. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[16] VENTURA M,TURRONI F,MOTHERWAY M O,et al.Host-microbe interactionsthat facilitate gut colonization by commensal bifidobacteria[J].Trends in Microbiology,2012,20(10):467-476. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[17] GAO Q X,QI L L,WU T X,et al.Clostridium butyricum activates TLR2-mediated MyD88-independentsignalingpathway in HT-29cells[J].Molecularand Cellular Biochemistry,2012,361(1/2):31-37. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[18] GAO Q X,QI L L,WU T X,et al.An important role of interleukin-1O in counteracting excessive immune response in HT-29 cels exposed to Clostridium butyricum[J].BMC Microbiology,2012,12:100. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[19] VAISHNAVA S,YAMAMOTO M,SEVERSON K M,et al.The antibacterial lectin RegIIIy promotes the spatial segregation of microbiota and host in the intestine[J].Science,2011,334(6053):255-258. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[20] JOHANSSON M E,PHILLIPSON M,PETERSSON J,et al.The inner of the two Muc2 mucin-dependent mucus layers in colon is devoid of bacteria[J].Proceedings of the National Academy of Sciences of the United States of America,2008,105(39):15064-15069. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[21] MCGUCKIN M A,LINDEN S K,SUTTON P,et al.Mucin dynamics and enteric pathogens[J].Nature Reviews Microbiology,2011,9(4):265-278. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[22] JOHANSSON M E,LARSSON JM H,HANSSON G C.The two mucus layers of colon are organized by the MUC2 mucin,whereas the outer layer is a legislator of host-microbial interactions[J].Proceedings of the National Academy of Sciences of the United States of America,2011,108(Suppl):4659-4665. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[23] BERGSTROM K S B,KISSOON-SINGH V,GIBSON D L,et al.Muc2 protects against lethal infectious colitis by disassociating pathogenic and commensal bacteria from the colonic mucosa[J].PLoS Pathogens,2010,6(5):e1000902. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[24] ABODINARA,TOMMERAAS K,RONANDERE,etal.Thephysicochemical characterisation of pepsin degraded pig gastric mucin[J].International Journal of Biological Macromolecules,2016,87:281-286. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[25] MURAOKA W T,ZHANG Q J.Phenotypic and genotypic evidence for $L$ -fucose utilization by Campylobacter jejuni[J].Journal of Bacteriology,2011,193(5):1065-1075. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[26] AUDFRAY A,VARROT A,IMBERTY A.Bacteria love our sugars:interaction between soluble lectins and human fucosylated glycans,structures,thermodynamics and design of competing glycocompounds[J].Comptes Rendus Chimie,2013,16(5):482-490. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[27] DAY C J,TIRALONGO J,HARTNELL R D,et al.Differential carbohydrate recognition by Campylobacter jejuni strain 1168:influences of temperature and growth conditions[J].PLoS One,2009,4(3):e4927. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[28] JOHANSSON E M V,CRUSZ S A,KOLOMIETS E,et al.Inhibition and dispersion of Pseudomonas aeruginosa biofilms by glycopeptide dendrimers targeting the fucose-specific lectin LecB[J].Chemistry & Biology,2008,15(12):1249-1257. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[29] STAHL M,FRIIS L M,NOTHAFT H,et al.L-fucose utilization provides Campylobacter jejuni with a competitive advantage[J].Proceedings of the National Academy of Sciences of the United States of America,2011,108(17):7194-7199. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[30] PRIORI D,COLOMBO M,KOOPMANS S J,et al.The A0 blood group genotype modifies the jejunal glycomic binding pattern profile of piglets early associated with a simple or complex microbiota[J].Journalof Animal Science,2016,94(2):592-601. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[31] BAO W B,YE L,PAN Z Y,et al.The effect of mutation at M307 in FUT1 gene on susceptibility of Escherichia coli F18 and gene expression in Sutai piglets[J].Molecular Biology Rep0rts,2012,39(3):3131-3136. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[32]PACHECO A R,CURTIS M M,RITCHIE J M,et al.Fucose sensing regulates bacterial intestinal colonization[J].Nature,2012,492(7427):113-117. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[33] SCOTT K P,MARTIN J C,CAMPBELL G,et al.Whole-genome transcription profiling reveals genes up-regulated by growth on fucose in the human gut bacterium \"Roseburia inulinivorans\"[J].Journal of Bacteriology,2006,188(12):4340-4349. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[34] MENG D,NEWBURG D S,YOUNG C,et al.Bacterial symbionts induce a FUT2-dependent fucosylated niche on colonic epithelium via ERK and JNK signaling[J].American Journal of Physiology-Gastrointestinal and Liver Physiology,2007,293(4):G780-G787. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[35] RODRIGUEZ-DIAZ J,MONEDERO V,YEBRA M J.Utilization of natural fucosylated oligosaccharides by three novel $\\mathfrak { a }$ -L-fucosidases from a probiotic Lactobacillus casei strain[J].Applied and Environmental Microbiology,2011,77(2):703-735. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[36] MCGOVERN D P B,JONES M R,TAYLOR K D,et al.Fucosyltransferase 2 (FUT2) non-secretor status isassociated with Crohn’sdisease[J].Human Molecular Genetics,2010,19(17):3468-3476. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[37] MORROW A L,MEINZEN-DERR J,HUANG P W,et al.Fucosyltransferase 2 non-secretor and low secretor status predicts severe outcomes in premature infants[J].The Journal of Pediatrics,2011,158(5):745-751. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[38] HESSELAGER M O.EVEREST-DASS A V,THAYSEN-ANDERSEN M,et al.FUT1 genetic variants impact protein glycosylation of porcine intestinal mucosa[J].Glycobiology,2016,26(6):607-622. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Roles of Side Chain Fucose of Mucin in Interaction between Intestinal Bacteria and Host WANG Jinbol\\*LI Yang1,2QI LililYU PengfeilWU Tianxing2\\* ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1. Ningbo Institute of Technology, Zhejiang University, Ningbo 315100, China; 2. Department ofChemistry,ZhejiangUniversity,Hangzhou 31OO27,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract: There are many kinds of mucins in the mucus of the digestive tract, which are usually glycosylated. The mucin side chain sugar groups play many roles,such as bacteria adhesion, colonization and immunological regulation. Fucose is an important sugar group in the mucin side chains.This paper reviewed the roles of fucose acting as adhesion sites,signaling molecules and regulating intestinal functions. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Keywords: fucose; intestinal bacteria;host; interaction ",
+        "page_idx": 8
+    }
+]

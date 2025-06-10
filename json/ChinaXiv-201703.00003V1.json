@@ -1,0 +1,341 @@
+[
+    {
+        "type": "text",
+        "text": "基于文献计量学的液相激光熔蚀技术国际发展态势分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "代恩梅",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中国科学院合肥物质科学研究院信息中心，安徽合肥230031",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：随着液相激光熔蚀技术的发展，相关研究已从早期的基本原理探索和材料合成过程研究上升到新原理发现、新材料设计和新应用拓展。本文基于Web of Science 数据库，采用文献计量学方法，分析了1998～2016年发表液相激光熔蚀技术研究的主要国别、发表文章总量、研究方向、研究机构、研究热点等相关信息，并总结了主要前沿研究内容与发展趋势。本文为广大科研工作者迅速了解和掌握液相激光熔蚀技术发展趋势和研究热点提供了明确的数据支持。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：液相激光熔蚀技术，纳米材料，制备，应用，文献计量学，Webof Science",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "上世纪60年代，梅曼（T.H.Maiman）在美国休斯公司实验室成功研制成世界上第一台红宝石固态激光器[1]，自此，激光技术在科学研究与工业生产等众多领域得到广泛应用。从1965年，人们发现在真空或者特定气氛条件下，激光技术可用于制备薄膜，于是脉冲激光沉积（Pulsed Laser Deposition,PLD）技术开始兴起[2]。这预示着激光技术作为一种材料制备手段正式进入人们视野。PLD 技术利用激光的高能量将目标靶材瞬间汽化，进而形成等离子体羽，最终在固定基底上沉积成膜。通过这种方法，研究者成功制备了一系列高度结晶的薄膜，如陶瓷氧化物、氮化物、金属多层膜等[3]，相比于分子束外延、化学气相沉积等方法，PLD 技术的生产成本要低的多，因而受到广泛重视。直到90年代，纳米技术的兴起开启了微观材料合成设计研究的新时代，1993 年，Henglein 和Coton 分别尝试在水和不同溶剂中利用脉冲激光熔蚀金属靶材，并都成功获得金属胶体纳米溶液[4,5]。由于熔蚀过程同时包括物理与化学变化，涉及复杂的热力学和动力学过程，最终产物也区别于普通化学法",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引备得到的产物，这种独特之处使得液相激光熔蚀（Laser Ablation in Liquids,LAL)技术引起科学家的极大关注。通常情况下，LAL技术要求激光必须在液体环境下辐照目标靶材（见图1)，通过“热作用”使靶材料汽化或蒸发，并在靶与液体的界面即液-固界面处产生一个等离子体羽，由于被液体包围，等离子体羽的膨胀趋势受到束缚，从而使得在等离子体羽内部产生一个很大的附加压强，最终形成一个高温高压高密度的极端区域[6]。在这种条件下，经激光熔蚀而脱离靶材的物质有可能相互反应，也有可能与液体中的成分反应，还可能与液体分子在界面处反应，极易产生处于亚稳状态的纳米材料[6]。由于激光参数（波长、脉宽等）不同，LAL 过程中的作用机制与产物状态都会有很大差异，另外，改变液体环境或者外场条件，都可能导致出现新的物理现象。经过前期的知识积累和技术发展，LAL制备方法已经处于科学原理突破与重大技术创新的关键阶段。值得关注的是，我国科研人员在LAL纳米制备技术多个领域的研究具备前沿优势与特色。近几年，随着综合国力的提升，我国也在该技术领域加大扶持力度，LAL方向的探索与应用正不断深入。为此，关于这一技术领域的国内外最新发展状态亟需梳理与报道。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文根据文献计量学的统计方法，依托Web of Science数据平台，对国内外LAL技术的发展动态进行归纳总结，客观定量地体现相关学科发展的整体布局与发展趋势，以期为国内科研工作者提供可靠的参考数据，促进LAL 技术在纳米材料制备与应用领域的快速发展。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ad600ff8addefd1399fc936082355bbb9da72d73f0363837d2c9181dce6577fa.jpg",
+        "img_caption": [
+            "图1液相激光熔蚀技术原理示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据分析 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1．数据来源及检索方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究以Web of Science 数据库核心合集作为分析数据源，基于 SCI-Expanded数据库检索LAL 技术领域的相关文献，选择1998年1月至2016年12月出版的文献作为分析数据，最终通过Webof Science 数据库自带的引证报告进行分析，部分数据项用 Excel、Origin 等工具进行分析。需要注意的是，一方面，由于科学研究的出发点不同，很多研究者在文献中可能没有采用“Laser Ablation in Liquids”作为技术称谓，而是采用“Laserirradiation”、“Laser fragmentation”、“Laser generation”等其它术语；另一方面，“Laser Ablation”也可能涉及激光在电感耦合等离子体质谱（Inductively coupled plasma mass spectrometry，ICP-MS）等技术当中的应用，又或与脉冲激光沉积（Pulsed laser deposition,PLD）等技术具有十分接近的术语表达，而这些并非本研究所关注的内容，因此，在检索过程中，需要设置相当严格的条件限制，否则极有可能遗漏本技术领域的研究工作，也可能将其它技术领域的研究工作纳入本研究领域，使得统计数据偏离实际。表1列出了本研究所采用的检索词条。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/d34f08d6fef25f6b3ff6fc36c0bf0ab2dd9f9ab89067a469ed94372916e76b78.jpg",
+        "table_caption": [
+            "表1检索词条及检索条件列表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序数</td><td>检索词条</td><td>检索类别</td><td>逻辑关系</td><td></td><td>检索记录</td></tr><tr><td>1</td><td>laser*</td><td>OR 主题</td><td>主题</td><td></td><td>495280 177399</td></tr><tr><td>2</td><td>(generation OR generated generating OR fragmentation fragmentated OR fragmentating fabrication ORfabricated fabricating OR fragmentation fragmentated OR fragmenting ablation OR ablated OR ablating OR production OR produced producing)</td><td>OR OR OR OR OR OR</td><td></td><td>1 AND 2</td><td></td></tr><tr><td>3</td><td>(liquid* OR water OR solvent* OR colloid* OR hydrosol* hydro-sol* OR alkan* OR solution* OR propanol OR dispers* suspens* OR aqueous)</td><td>OR OR</td><td>主题</td><td>1 AND 2 AND 3</td><td>39610</td></tr><tr><td>4</td><td>(nanoparticle* OR nanocluster* OR nanocrystal* OR nanosphere* OR nanosphere)</td><td></td><td>主题 主题</td><td>1AND2AND 3 AND 4 1 AND 2 AND</td><td>5622 1554</td></tr><tr><td>5</td><td>(Inductively coupled plasma mass spectrometryOR gas phase* OR vacuum OR deposition OR pld OR surface OR structure* OR laser spectroscopy)</td><td></td><td></td><td>3 AND 4 NOT 5</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2．液相激光熔蚀（LAL）技术总体发展态势分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1液相激光烧蚀技术发文国家及发文量分布",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "按照上述方法进行检索，从1998年至2016年，涉及激光技术的液相体系下纳米材料合成及相关机理、应用研究的学术论文共 5622篇，经过进一步排除某些十分接近的技术领域但非本研究关注内容的文献，LAL 技术领域的实际发表文章共1554 篇。按照Web of Science 数据库自带的引证报告分析结果，我们首先分析了19 年来（1998-2016）各国发文总量的变化趋势。图2中列出了发表文章总量排名TOP11的国家或地区以及各自的发文总量情况。统计结果显示中国是发文总量最高的国家，高达 370篇，美国、日本以及德国分别位列第二、第三、第四。根据 Barcikowski研究小组在 2009 年的统计结果[7]，日本和欧盟的发文量都超过中国，美国排列第 4 位。这种情况说明近几年来，中国在LAL 技术领域的论文产出在不断提高。图3进一步分析了以上国家和地区的发文量年度涨落情况，在2003年以前，主要发文国家为美国、日本、德国、法国、意大利等，说明这些国家在LAL技术领域的研究起步较早。自 2003 年开始，中国、美国、日本、德国、韩国、印度、俄罗斯、法国、意大利、台湾、加拿大等国家或地区的论文产出都在逐步提高，说明该技术领域的研究工作越来越受到以上各国和地区的重视。值得注意的是，从2011年开始，中国的发文量已经能够与美国、日本、德国等研究最为活跃国家的相持平，到2015年，已经超过其它国家或地区的发文量，成为年度发文量排名第一的国家。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/956140c9417200fe7406b564213efa4e3c17cc6e2219f158971e3a74583f268b.jpg",
+        "img_caption": [
+            "图21998-2016年各国发文量数据图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e90699a9f275366f9943cbee3ee45f5cedbcee91b6036c4adf291c2ffb8a49ab.jpg",
+        "img_caption": [
+            "图31998-2016年各国每年发文量数据图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2液相激光烧蚀技术发文机构及地理位置分布",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据对检索文献所属研究机构的统计，我们也列出了发文量排名前50的研究机构名单（见表2）以及相应的地理分布情况（见图4)。这50个研究机构的发文量共为906篇，占全部发文量的比率为 $5 7 . 8 5 \\%$ ，说明它们主导了LAL 技术领域的前沿研究工作。我们注意到，由于Web of Science 数据库自带的引证报告分析结果中，将每篇文献所涉及的全部研究机构都进行了统计，部分研究机构在论文工作中可能只是合作单位，而非第一单位。因此，尽管图2中某些国家（如俄罗斯、意大利等）的发文量并不太高，但其研究机构依然具有较高的发文量，说明这些研究机构在相关领域的国际合作和交流活动中发挥重要作用。在图4中，我们根据地理区域的不同，对以上研究机构的分布进行了统计分析。在全球范围内，关于LAL 技术各项研究的主要活跃区域集中在中国、东南亚、欧洲以及北美洲。在中国，主要从事相关研究的研究机构是中国科学院以及某些沿海省、市的高校（如，中山大学、浙江大学、天津大学等)。在东南亚地区，日本和新加坡的高校及科研院所一直引领该区域内的相关研究活动。在欧洲，德国和法国的研究活跃度要明显强于其它国家。在北美洲，主要是美国的政府机构（国防部、能源部等）对相关领域的研究表现出较大的积极性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/47740ce57ca12c4521acf19818f69ee20ae51273ff7113685af665ec1080c77f.jpg",
+        "table_caption": [
+            "表2世界研究机构发文量数据表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>研究机构</td><td>发文量</td><td>研究机构</td><td>发文量</td><td>研究机构</td><td>发文量</td></tr><tr><td>中国科学院</td><td>71</td><td>浙江大学</td><td>17</td><td>东华大学</td><td>12</td></tr><tr><td>俄罗斯科学院</td><td>66</td><td>清华大学</td><td>17</td><td>西班牙高等科研理事会</td><td>12</td></tr><tr><td>法国国家科研中心</td><td>51</td><td>印度理工学院</td><td>17</td><td>卡塔尼亚大学</td><td>11</td></tr><tr><td>日本国家产业技术综合 研究所</td><td>41</td><td>上海交通大学</td><td>16</td><td>艾克斯-马赛大学</td><td>11</td></tr><tr><td>杜伊斯堡一埃森大学</td><td>27</td><td>蒙特利尔理工学院</td><td>16</td><td>马来西亚博特拉大学</td><td>11</td></tr><tr><td>九州大学</td><td>26</td><td>北海道大学</td><td>16</td><td>里昂大学</td><td>11</td></tr><tr><td>德国汉诺威激光中心</td><td>23</td><td>天津大学</td><td>15</td><td>美国国防部</td><td>11</td></tr><tr><td>复旦大学</td><td>22</td><td>南洋理工大学国家教育 学院</td><td>13</td><td>台湾中研院</td><td>11</td></tr><tr><td>中山大学</td><td>20</td><td>南洋理工大学</td><td>13</td><td>密苏里大学</td><td>10</td></tr><tr><td>京都大学</td><td>20</td><td>马克斯·普朗克科学促进 学会</td><td>13</td><td>东京工业大学</td><td>10</td></tr><tr><td>中国科学技术大学</td><td>19</td><td>日本科学振兴机构</td><td>13</td><td>瑞士联邦理工学院</td><td>10</td></tr><tr><td>美国能源部</td><td>19</td><td>伊斯兰自由大学</td><td>13</td><td>巴黎第六大学</td><td>10</td></tr><tr><td>大阪大学</td><td>19</td><td>加州大学</td><td>12</td><td>台湾大学</td><td>10</td></tr><tr><td>新加坡国立大学</td><td>19</td><td>日本东北大学</td><td>12</td><td>国立核能研究大学-莫斯</td><td>10</td></tr><tr><td>东京大学</td><td>18</td><td>莱斯大学</td><td>12</td><td>科工程物理学院 莫斯科物理技术研究所</td><td>10</td></tr><tr><td>蒙特利尔大学</td><td>18</td><td>浦项科技大学</td><td>12</td><td>韩国高等科学技术学院</td><td>10</td></tr><tr><td>意大利国家研究委员会</td><td>18</td><td>宾夕法尼亚州立大学</td><td>12</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b068e9d5c3cdd55cc8a15f88cc16966b288ab69e7147d4f011cadd6af48e81c.jpg",
+        "img_caption": [
+            "图4世界研究机构地理位置分布图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3液相激光烧蚀技术学科方向研究",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "按照Webof Science数据库的“分析检索结果”功能中的“研究方向”选项，我们对所有文献的研究方向进行统计分析，并在图5中列出了排名TOP10的结果。分析表明，LAL技术领域的研究主要集中在化学、物理学以及材料科学三个方向。涉及这三个方向的论文数量要明显高于其它研究方向的发文量，甚至高出一个数量级。另外，经过分析发现，在2012到 2016的5年里，各研究方向的发文量都明显高于前14年（1998-2011）的总量。该项结果表明，近几年来，LAL技术促进未来社会发展的巨大潜力越来越受到国际社会的认可，所受到的重视程度也明显提升，相关科学研究更加活跃。值得一提的是，该项技术在生物医药领域的发展速度不可小觑。由于Web of Science 数据库将生物医药领域划分为生物化学与生物分子学、药理学、细胞生物学、生物技术与应用微生物学、生物物理学、遗传学、毒理学、免疫学等众多细小的研究方向，所以在图5中并未给出整个生物医药领域的发文量信息。经过进一步统计得到，整个生物医药领域的发文总量为 214 篇，所占比例为 $1 3 . 7 7 \\%$ 。根据Barcikowski研究小组[7]在 2009 年的统计结果，生物医药领域发文量所占比例只有 $1 \\%$ 左右，这说明LAL 技术制备或改进的纳米材料在生物医药领域的应用研究近几年得到重视，应该引起我国科研人员的关注。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/234eebb9ae69fc71f148f3024082b8f7d94f01d9b0d13206c2682ef05184afce.jpg",
+        "img_caption": [
+            "图5液相激光熔蚀技术领域文献的研究方向分类"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4液相激光烧蚀技术在材料领域的应用",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "研究者一般使用科学引用索引（SCI）数据来评估学术论文和期刊的影响力，并获得相关的研究热点和发展趋势等相关信息。为了分析LAL技术领域的研究热点，我们在表3中列出了被引频次最高的15篇文献及其相关信息（包括发表期刊、发表年份、被引频次等)。分析表明，最受关注的研究材料为贵金属（Au、Ag等）体系，少数文献关注的是过渡族金属氧化物材料（CuO、ZnO 等）体系。研究内容主要集中在三个方面：1）胶体纳米颗粒的形成过程及尺寸、形貌调控研究；2）胶体纳米颗粒的表面活性及反应性研究；3）胶体纳米材料的性能应用研究。这些文献平均每年至少被引用13次，最高可达135次，说明它们自发表以来一直受到普遍关注。为了进一步分析目前的研究趋势，我们对这15篇文献全部施引文献的研究方向进行统计分析，并在图6中列出了排名 TOP10的研究方向。分析表明，尽管化学、材料科学、物理学依然是主要研究方向，但与图5中结果相比，材料科学方向的文献比例已经超过物理学方向，说明在施引文献中，相关研究工作更加集中在化学和和材料科学方面，引用者可能更加关注LAL技术的材料合成策略及其所涉及的化学过程。除此之外，电化学和光谱学方向的研究工作也明显增多，这也预示着LAL 技术制备的胶体纳米材料在其它相关应用领域的研究得到拓展。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/c234d8401c21092ee89113ae5e0248c9697b685816bbe5139ccefa8e5fadd87e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>作者</td><td>期刊</td><td>发表年</td><td>被引频次/年</td><td>被引频次</td></tr><tr><td>LinkS.; El-Sayed M.A.等</td><td>J． Phys. Chem. B</td><td>1999</td><td>135</td><td>2431</td></tr><tr><td colspan=\"5\">Spectral properties and relaxation dynamics of surface plasmon electronic oscillations in gold and silver nanodots and nanorods</td></tr><tr><td>Mafune F.; Kohno J.等</td><td>J． Phys. Chem. B</td><td>2000</td><td>30</td><td>495</td></tr><tr><td colspan=\"5\">Formation and size control of sliver nanoparticles by laser ablation in aqueous solution</td></tr><tr><td>Kamat P.V.; Flumiani M.等</td><td>J． Phys. Chem. B</td><td>1998</td><td>26</td><td>484</td></tr><tr><td colspan=\"5\">Picosecond dynamics of silver nanoclusters.Photoejection of electrons and fragmentation</td></tr><tr><td>Mafune F.； Kohno J.等</td><td>J． Phys. Chem. B</td><td>2001</td><td>23</td><td>365</td></tr><tr><td colspan=\"5\">Formation of gold nanoparticles by laser ablation in aqueous solution of surfactant</td></tr><tr><td>Hayakawa K.; Yoshimura T.等</td><td>Langmuir</td><td>2003</td><td>22</td><td>295</td></tr><tr><td colspan=\"5\">Preparation of gold-dendrimer nanocomposites by laser irradiation and their catalytic reduction of 4-nitrophenol</td></tr><tr><td>Link S.; Burda C.等</td><td>J． Phys. Chem. A</td><td>1999</td><td>17</td><td>290</td></tr><tr><td colspan=\"5\">Laser photothermal melting and fragmentation of gold nanorods:Energy and laser pulse-width dependence</td></tr><tr><td>Sylvestre J.P.; Poulin S.等</td><td>J． Phys. Chem. B</td><td>2004</td><td>22</td><td>284</td></tr><tr><td colspan=\"5\">Surface chemistry of gold nanoparticles produced by laser ablation in aqueous media</td></tr><tr><td>Hodak J.H.; Henglein A.等</td><td> J． Phys.Chem. B</td><td>2000</td><td>17</td><td>276</td></tr><tr><td colspan=\"5\">Laser-induced inter-diffusion in AuAg core-shell nanoparticles</td></tr><tr><td>Zeng H.B.; Cai W.P.等</td><td>J． Phys. Chem. B</td><td>2005</td><td>23</td><td>267</td></tr><tr><td colspan=\"5\">Composition/structural evolution and optical properties of ZnO/Zn nanoparticles bylaser ablation in liquid media</td></tr><tr><td>Kabashin A.V.; Meunier M.等</td><td> J. Appl. Phys.</td><td>2003</td><td>19</td><td>262</td></tr><tr><td colspan=\"5\">Synthesis of colloidal nanoparticles during femtosecond laser ablation of gold in water</td></tr><tr><td>Yeh M.S.; Yang Y.S.等</td><td>J． Phys. Chem. B</td><td>1999</td><td>14</td><td>241</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Click Here to upgrade to Unlimited Pages and Expanded Features ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/2be14a3d1c6692da449bf535e044e08090b99d474b984cbbaef7f7d652af3d69.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">Formation and characteristics of Cu coloids from CuO powder by laser irradiation in 2-propanol</td></tr><tr><td>Dolgaev S.I., Simakin A.V.等</td><td>Appl. Surf. Sci.</td><td>2002</td><td>16</td><td>233</td></tr><tr><td colspan=\"5\">Nanoparticles produced by laser ablation of solids in liquid environment</td></tr><tr><td>Tsuji T.; Iryo K.等</td><td>Appl. Surf. Sci.</td><td>2002</td><td>15</td><td>222</td></tr><tr><td colspan=\"5\">Preparation of silver nanoparticles bylaser ablation in solution: Influence of laser wavelength on particle size</td></tr><tr><td>Link S.; Wang Z.L.等</td><td>J． Phys. Chem. B</td><td>2000</td><td>13</td><td>209</td></tr><tr><td colspan=\"5\">How does a gold nanorod melt?</td></tr><tr><td>Sylvestre J.P.; Kabashin A.V.等</td><td>J. Am. Chem. Soc.</td><td>2004</td><td>17</td><td>203</td></tr><tr><td colspan=\"5\">Stabilization and size control of gold nanoparticles during laser ablation in aqueous cyclodextrins</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e09e77a56efd4e018247f9293ab9bd384f67f9b2bf4ad178fb75d801479560c.jpg",
+        "img_caption": [
+            "表3液相激光熔蚀技术领域被引频次最高的15篇文献汇总",
+            "图6液相激光熔蚀技术领域被引频次最高的15篇文献全部施引文献研究方向分类"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3．液相激光熔蚀（LAL）技术主要研究内容分析",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "尽管我们根据引用频次最高的15 篇文献（表3）简要分析了液相激光熔蚀技术领域的热门研究内容，但仍不足以总结整个领域内的研究状况。通过分析检索文献的摘要内容，我们发现，对LAL技术在不同条件下制备纳米材料的过程调控、机制分析及材料性能应用的相关研究一直是研究者们关注的核心问题。因此，根据检索得到的文献，我们进一步总结得到 LAL 技术领域的主要热门研究内容，并归纳为\"研究方法”、“材料体系\"和\"应用方向\"三个方面（见图7）。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d9785b81d0b13a6e2dcae2357ddcf00e2ace21e34d2d714e6441a5d2c4c3c7e3.jpg",
+        "img_caption": [
+            "图7液相激光熔蚀技术领域主要热门研究内容分类"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1液相激光烧蚀技术研究方法",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由于在液相体系下激光的熔蚀过程决定了所得纳米材料的尺寸、形貌、成分组成等，而它们不仅可以间接反馈形成机制相关信息，还与材料性能及应用潜力直接关联，所以，采用不同的方法来探索激光熔蚀过程，进而实现相关纳米材料的形成机制总结、合成过程调控、应用性能改进是LAL 技术领域最受关注的研究内容之一。对于早期的研究方法，人们主要关注的是如何调节激光波长、脉冲频率、能量密度等相关参数，从而在液相体系下获得特殊的纳米材料并总结分析相应的形成机制[8.9]，这部分研究工作所使用的方法也就是最为常见的\"熔蚀靶材”（见图 7)。前期研究表明，激光脉宽可以分为三类：超短脉宽激光（超快激光，即飞秒激光）、短脉宽激光（纳秒激光）、长脉宽激光（毫秒激光)，而且这三类脉冲激光的熔蚀过程有着本质的不同[6]。在此基础上，新的研究方法也在不断涌现，如对盐溶液、胶体等直接进行\"溶液辐照\"[10-13]，又或在电场/磁场下进行“外场辅助\"的激光熔蚀[14-16]，这两种研究方法都为纳米材料结构与性能的精确调控提供了契机；此外，还有两种方法也受到普遍关注，即\"溶剂诱导\"[17-19]和\"后续加工\"[20-22]，前者通过改变溶剂种类，从而调控胶体纳米颗粒的表面性质及生长过程，为胶体界面性质研究提供新的分析思路；后者主要通过水热、旋涂等途径将胶体纳米材料应用到不同领域，有利于进一步拓宽胶体纳米颗粒的应用领域，如生物传感、能源催化等。基于以上方法调控胶体纳米材料的形貌、尺寸及性能极大地丰富了LAL 技术的研究范畴。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2液相激光烧蚀技术材料体系",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "研究者们也十分关注不同材料在LAL 条件下组分、结构等变化规律的总结，这部分研究内容更侧重于材料本身各项参数演变。通过分析比较，研究最为广泛的材料体系为\"贵金属”、“半导体\"和\"磁性材料”（见图7）。对于\"贵金属\"体系而言，最具代表性的是Au、Ag、Pt及其合金。前期的研究表明，贵金属反应活性低，经激光熔蚀之后很难与液相或气相介质进行反应[23-25]，因此，相关工作主要集中在观察胶体纳米颗粒的尺寸、形貌、组成等在激光参数和溶剂种类等条件变化时的演变规律。近年来，由于LAL 技术制备的胶体纳米材料越来越凸显出绿色、高活性等优势，如何在贵金属纳米颗粒表面嫁接各种生物分子或与其它材料进行复合以实现多功能、高效能型的新材料逐渐成为研究最为集中的课题[26-28]。对于“半导体\"体系，涵盖范围十分广泛，如氧化物（ZnO[29]、CuO[30]、 $\\mathrm { T i O } _ { 2 } [ 3 1 ]$ 、 $\\mathrm { S n O } _ { 2 } [ 2 1 ]$ 等）、硫化物（PbS[32]等）、硒化物（ZnSe[33]、CdSe[34]等）、氮化物（InN[35]、GaN[36]、GaAs[37]等）、碳化物（SiC[38]等)。对于这些材料，研究重点在于如何构造不同微观结构或形成复合体系，以提升它们在光学、电学、化学等各方面的性能，例如， $\\mathbf { S } \\mathbf { n } \\mathbf { O } _ { 2 }$ 纳米颗粒与石墨烯复合之后的导电性能[21]等。另一种材料体系是“磁性材料”，主要包括Co[39]、Ni[40]等金属， $\\mathrm { M n } _ { 3 } \\mathrm { O } _ { 4 } [ 4 1 ]$ 、 $\\mathrm { F e O } _ { \\mathrm { x } } [ 4 2 ]$ 等氧化物以及FeNi[43]、AuCo[44]等合金材料。研究者们一方面关注这类材料磁学性能与结构尺寸的关联，另一方面也十分在意是否能够通过磁性来辅助控制合成新材料和发现新机制，并拓宽相关材料的应用范畴。通过以上分析可以发现，LAL 技术具有广泛的材料研究对象，充分体现了该技术的应用普适性。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "LAL 技术经过多年的发展，研究者已经就该技术成为一种制备高活性、绿色纳米材料的有效手段达成共识，而能否推进相关材料在各领域的应用发展也是目前最为关注的研究内容之一。针对\"应用方向\"方面的文献调研，我们通过所有检索文献总结出了三个主要的应用领域，即\"生物医药”、“能源催化\"和\"环境保护”（见图7)。在\"生物医药\"领域，纳米材料的毒理作用一直备受关注。通常采用化学法制备的纳米材料表面带有活性剂或其它合成前驱体的残留成分，导致难以直接说明纳米材料本身的毒性情况，成为纳米材料在“生物医药\"领域应用研究的首要障碍。然而，LAL 技术制备的纳米材料无需添加任何表面活性剂或者反应前驱体，能够从根本上解决上述困扰，因此，通过该技术获得的纳米材料在\"毒理分析\"方面的研究十分活跃[45,46]。研究表明，通过激光在含有生物分子的溶液中直接熔蚀金属靶材（如，金等）能够一步实现胶体纳米材料与生物分子的偶联[47]，也可以先制备胶体，再在其表面修饰生物分子[48]。因此，研究者可以在不与其它物质接触的前提下，设计得到具有多种功能的高活性生物材料，在“生物成像”、“生物传感\"以及“生物制药\"等方面都表现出巨大的应用潜力[49-52]。LAL技术在\"毒理分析”“生物成像”“生物传感\"以及“生物制药\"四个方面所发挥的积极作用使得该技术在“生物医药\"领域的地位逐步上升。目前，在此领域，研究工作较为突出的课题组主要集中在国外，如德国的 BarcikowskiStephan 课题组、加拿大的Kabashin Andrei V.和Meunier Michel 课题组等。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在\"能源催化\"领域，催化剂活性对于能量转化、物质分解、电子转移等各方面都十分关键。LAL 技术制备的纳米材料往往处于亚稳态，且表面干净、性质活泼，也开始在此领域崭露头角。现有研究表明，LAL 技术制备的纳米催化剂（如, ${ \\mathrm { A u - C e O } } _ { 2 }$ 、AuPt、PtCo、Pt-rGO 等)相对于普通化学法制备的纳米催化剂具有更高的活性[53-56]。利用该技术获得的催化剂主要应用于三个方面：“光解水”、“电池\"和\"工业催化”。在\"光解水\"方面，中国科学院梁长浩课题组成功将该技术与能源研究相结合，他们通过LAL 技术获取的胶体作为掺杂前驱体，在导电玻璃基底上制备的赤铁矿薄膜能够获得 $1 . 4 \\mathrm { \\ m A } / \\mathrm { c m } ^ { 2 }$ 的光电流密度[57]。中山大学的杨国伟课题组通过LAL方法同时实现 $\\mathrm { T i O } _ { 2 }$ 的还原以及与氧化石墨烯的复合，大大提高光解水制氢的效率[58]。天津大学的杜希文课题组基于 LAL技术开发的高活性 $\\overline { { \\mathbf { C o } _ { 3 } \\mathbf { O } _ { 4 } } }$ 催化剂的光解水产氧效率达到氧化钴材料的最高水平，甚至超过贵金属催化剂 $\\mathrm { R u O } _ { 2 } [ 5 9 ]$ 。这些研究工作都发表在国际一流期刊，受到同行的广泛认可。在\"电池\"研究方面，已有报道证明：LAL技术制备的 $\\mathrm { T i O } _ { 2 } [ 6 0 ]$ 、 $\\mathrm { S n O } _ { 2 } [ 6 1 ]$ 等可以用作锂离子电池的阴极材料；Au胶体可以代替生物酶氧化葡萄糖分子进而实现生物燃料电池功能[62]；在电泳技术辅助下， $\\mathrm { C u S e } _ { 2 }$ 胶体可以成膜并用于太阳能电池[63]。另外，在\"工业催化\"方面,主要的研究对象为甲醇、乙醇、甲酸等碳氢化合物[64-66]。值得一提的是，中国科学院的梁长浩课题组开发了一种高度分散的超细铂基催化剂，在甲醇氧化方面处于国际先进水平[56]。以上分析表明，在推进LAL 技术应用于“能源催化\"领域的研究工作当中，中国科学家已经开始进军世界前沿研究。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "由于LAL 技术制备的胶体能够用于检测和监视工业废水和汽车尾气的排放以及重金属和农药成分的残留，因此，其在“环境保护\"方面的研究往往受到工业生产部门的热切关注。现有研究表明：该技术制备的胶体纳米材料能够广泛实现对重金属离子、食品和水中污染物（如黄嘌呤、病原体、苯肼等[67-69]）以及易燃易爆气体（如CO、乙醇、HCl、 $\\mathrm { H } _ { 2 }$ 等[70-73]）的痕量检测。在这些研究当中，研究重点一方面在于如何提高纳米材料的选择性，另一方面在于如何实现同时检测和分辨多种污染物。LAL 在相关领域的技术优势已经引起世界范围内研究者的重视。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "总结",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "LAL 技术在“生物医药”、“能源催化”、“环境保护\"等拥有重大应用需求的领域中的潜力已经崭露头角。本研究从文献计量学角度对相关技术领域的发展趋势和研究热点内容进行了深入的分析。依托Webof Science 数据平台，总结了相关技术领域的主要文章发表国家、文章发表总量、研究方向、研究机构、研究热点以及主要研究内容等多方面信息，为加强科学工作者对相关领域的深入了解提供详实的数据，以期进一步推动LAL技术的发展。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1．Maiman T.H., Nature, 1960,187,493.   \n2. Smith H. M., Turner A. F., Appl. Optics, 1965, 4,14.   \n3. Chrisey D.B.,Hubler G.K.,Pulsed Laser Deposition of Thin Films,John Wiley & Sons, Weinheim,1994.   \n4. Fojtik A., Henglein A., Bunsen-Ges B., Phys. Chem.,1993, 97,252.   \n5. Neddersen J., Chumanov G., Cotton T. M., Appl. Spectrosc., 1993,47,1959.   \n6. Yang G. W., Prog. Mater: Sci., 2007, 52, 648.   \n7. Barcikowski S., Devesa F., Moldenhauer K., JNanopart Res., 2009,11,1883-1893.   \n8. Sylvestre J.P.,Poulin S., Kabashin A.V.,Sacher E.,Meunier M.,Luong J.H.T.,J.Phys.Chem.B,2004,108,   \n16864-16869.   \n9．Amendola A., Menegheti M., Phys. Chem. Chem. Phys.,2009,11, 3805-3821.   \n10. Zhang J.,WorleyJ.,DenommeeS.,Kingston C.,Jakubek Z.J.,Deslandes Y.,PostM.,SimardB.,J.Phys.Chem.B,   \n2003, 107, 6920.   \n11. Hada H., Yonezawa Y., Yoshida A., Kurakake A., J. Phys. Chem., 1976,80,2728   \n12.Kurihara K., Kizling J., Stenius P., Fendler J. H., J. Am. Chem. Soc., 1983,105,2574.   \n13.Eustis S.,Hsu H. Y.,El-Sayed M.A.,J.Phys. Chem.B,2005,109,4811.   \n14. Liu P., Cao Y. L., Chen X. Y., Yang G. W., Cryst. Growth. Des.,2009, 9,1390.   \n15. P. Liu, C. Wang, X. Chen, G. Yang, J. Phys. Chem. C,2008,112,13450.   \n16.Barcikowski S.,Baranowski T.,Durmus Y.,Wiedwald U., Gokce B.,J. Mater Chem. C,2015,3,10699-10704.   \n17. Liu J., Liang C.H., Zhu X. G., Lin Y., Zhang H., Wu S. L. Sci. Rep.,2016, 6, 32631.   \n18. Tsuji T., Hamagami T., Kawamura T., Yamaki J., Tsuji M., Appl. Surf. Sci.,2005,243, 214-219.   \n19. Amendola V., Polizzi S., Meneghetti M.,Langmuir, 2007,23, 6766-6770.   \n20. Cai Y.Y.,YeY. X.,Tian Z.F,LiuJ.,Liu Y.S.,Liang C.H.,Phys. Chem. Chem. Phys.,2015,46,20203-20209.   \n21. Ye Y. X.,Wang P. P.,Dai E.M.,Liu J.,Tian Z.F,Liang C.H.,Shao G.S.,Phys.Chem. Chem.Phys.,2014,16,   \n8801-8807.   \n22. Ye Y. X., Wang P P., Sun H. M., Tian Z.F., Liu J.,Liang C. H., RSC Adv.,2015,5,45038-45043.   \n23. Siskova K., Vlckova B., Turpin P Y.,Thorel A., Prochazka M.,J. Phys. Chem. C,2011,115,5404.   \n24. Siskova K., Vlckova B., Turpin P.Y., Fayet C., J. Phys. Chem. C, 2008,112, 4435.   \n25. Amendola V.,Polizzi S., Menegheti M., Langmuir, 2007,23, 6766.   \n26.Petersen S., Barcikowski S.,Adv. Funct. Mater.,2009,19,1167-1172.   \n27. Walter J. G., Petersen S. Stahl F, Scheper T., Barcikowski S., J. Nanobiotechnol.,2010, 8,21.   \n28.GamradL.,Rehbock C., Krawinkel J.,TumursukhB.,Heisterkamp A.,Barcikowski S.,J. Phys. Chem. C,2014,118,   \n10302-10313.   \n29.Usui H., Shimizu Y., Sasaki T., Koshizaki N.,J. Phys. Chem. B,2005,109,120-124.   \n30. Lin X. Z.,Liu P., Yu J. M., Yang G. W.,J. Phys. Chem. C, 2009, 113,17543.   \n31. Singh S. C., Swarnkar R. K., Gopal R., J. Nanosci. Nanotechno., 2009,9,5367-5371.   \n32. Yang J., Ling T., Wu W. T., Liu H. Gao M.R., Ling C., LiL., Du X. W., Nat. Commun., 2013,4,1695.   \n33. Mosmer F.,Torkamany M. J., Sabbaghzadeh J., Dorranian D.,J. Cluster Sci.,2013, 24, 905-914.   \n34.Semaltianos N. G.,Logothetidis S.,Perrie W,Romani S.,PoterR.J.,Sharp M.,FrenchP.,DeardenG., Watkins K.   \nG., Europhys. Lett., 2008, 84, 47001.   \n35.Alkis S., ChowdhuryF.1,Alevli M.,Dietz N.,Yalzay B.,Akturk S., Nayfeh A.,Okyay A. K.,J. Opt.,2015,17,   \n105903.   \n36. Demirel A., Oztas T., Kursungoz C., Yilmaz i.,Ortag B., J. Nanopart. Res.,2016,18,128.   \n37. Lalayan A. A., Appl. Surf. Sci., 2005, 248, 209-212.   \n38. Yang S., Cai W., Zeng H., Xu X., J. Mater Chem.,2009,19,7119-7123.   \n39. Zhang J., Lan C. Q., Mater: Lett., 2008, 62,1521-1524.   \n40. Singh M. K., Agarwal A., J. Mater: Chem., 2011, 21, 11074-11079.   \n41. Zhang H., Liang C., Tian Z., Wang G., Cai W., J. Phys. Chem. C,2010,114,12524-12528.   \n42.Pandey B. K., Shahi A. K., Shah J., Kotnala R. K., Gopal R., Appl. Surf. Sci.,2014,289, 462-471.   \n43.Barcikowski S.,Baranowski T.,Durmus Y., Wiedwald U., Gokce B.,J. Mater. Chem. C,2015,3,10699-10704.   \n44.Amendola V., Menegheti M.,BakrO.M.,RiellP.,Polizzi S.,Anjum D.H.,Fiameni S.,，Arosio P,Orlando T.,   \nFernandez C., Nanoscale, 2013, 5,5611-5619.   \n45.Taylor U.,Tiedemann D.,Rehbock C.,Kues W.A.,Barcikowski S.,Rath D.,Beilstein J. Nanotechnol.,2015,6,   \n651-664.   \n46.TiedemannD.,TaylorU.,RehbockC.,JakobiJ.,KleinS.,KuesW.A.,Barcikowski S.,RathD.,Analyst,2014,139, ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "931-942. 47. Walter J. G., Petersen S., Stahl F., Scheper T., Barcikowski S.,J. Nanobiotechnol.,2010,8,21. 48.Simao T., ChevallerP.,Lagueux J.,CoteM.F.,Rehbock C.,Barcikowski S.,FortinM.A.,GuayD,J. Mater: Chem. B,2016,4,6413—6427 49.Liu J., Tian X., Luo N., Yang C.， Xiao J., Shao Y., Chen X., Yang G.，Chen D., LiL.,Langmuir,2014,30, 13005-13013. 50.Luo N., Yang C.,Tian X., XiaoJ.,Liu J.,Chen F.,ZhangD., Xu D., Zhang Y., Yang G.,ChenD.,LiL., J. Mater Chem. B,2014,2,5891-5897. 51.Dallaire A. M., Rioux D.,RachkovA.,Patskovsky S., Meunier M.,J. Phys. Chem. C,2012,116,11370-11377. 52.Streich C.,Akkari L.,DeckerC.,Bormann J.,Rehbock C.,Muer-SchiffmannA.,NiemeyerF.C.,Nagel-StegerL., Willbold D., Sacca B., Korth C., Schrader T., Barcikowski S.,ACS Nano,2016,10, 7582-7597. 53. Hu S., Tian M., Ribeiro E.L.,Duscher G., Mukherjee D., J. Power Sources,2016,306, 413-423. 54. Zhang J., Chen G., Guay D., Chaker M., Ma D., Nanoscale,2014,6,2125-2130. 55. Zhang J., Chen G., Chaker M., Rosei F., Ma D., Appl. Catal. B,2013,132, 107-115. 56. Wu S. L., LiuJ., Tian Z.F, Cai Y. Y., Ye Y. X., Yuan Q. L., Liang C. H., ACS Appl. Mater Interfaces,2015,7, 22935-22940 57. Liu J., Cai Y.Y.,Tian Z. F.,Ruan G. S., Ye Y. X.,Liang C. H.,Shao G. S.,Nano Energy,2014,9,282-290. 58. Li L. H., Yu L. L., Lin Z. Y., Yang G. W., ACS Appl. Mater: Interfaces, 2016, 8, 8536-8545. 59. Zhou Y., Dong C. K., Han L. L., Yang J., Du X. W., ACS Catal., 2016, 6, 6699-6703. 60. Li L., Yu L., Lin Z., Yang G., ACS Appl. Mater: Interfaces, 2016, 8, 8536-8545. 61.Nowak A.P.,Lisowska-Oleksiak A.,Siuzdak K., Sawczak M., Gazda M., Karczewski J., Trykowski G., RSCAdv, 2015,5, 84321-84327. 62.Hebié S.,Holade Y., Maximova K.,Sentis M., Delaporte P., Kokoh K. B., Napporn T.W., KabashinA. V.,ACS Catal.,2015,5, 6489-6496. 63. Guo W., Liu B., ACS Appl. Mater Interfaces, 2012, 4, 7036-7042. 64.Kumar V.L.， Siddhardha R. S.S.，Kaniyoor A.，Podila R.，Molli M.，Kumar S.M.，Venkataramaniah K., Ramaprabhu S., Rao A. M., Electroanalysis,2014,26,1850-1857. 65.Sai Siddhardha R. S.,Anupam Kumar M.,Lakshminarayanan V., Ramamurthy S.S., J. Power Sources,2014,271, 305-311. 66.Oko D. N.,Zhang J.,， Garbarino S., Chaker M.，Ma D.,Tavares A. C., Guay D.,J. Power Sources,2014,248, 273-282. 67. Kamil Reza K., Singh M. K., Yadav S.K., Singh J.,Agrawal V. V., Malhotra B.D., Biosensor: Sens.Actuators B, 2013,177,627-633. 68.Patel M. K.,SinghJ.,Singh M. K.,Agrawal V V.,AnsariS. G.,MalhotraB.D,J. Nanosci. Nanotechnol.,2013,13, 1671-1678. 69. Tabassum R., Kaur P., Gupta B. D., Nanotechnology,2016, 27,215501. 70. Niu K. Y., Yang J., Kulinich S. A., Sun J., Du X. W., Langmuir, 2010, 26,16652-16657. 71. Wang Y., Zhang H., Zhu Y.,Dai Z.,Bao H., Wei Y., Cai W., Adv. Mater: Interfaces,2016,3,1500801. 72. Xiao J., Liu P., Liang Y., Li H. B., Yang G. W., Nanoscale,2012, 4, 7078-7083. 73. Liang Y., Zhu L. F.,Liu P.,LiH.B., XiaoJ.,Ji X. W., Yang G.W., Cryst. Growth. Des.,2013,15, 6131-6135. ",
+        "page_idx": 12
+    }
+]

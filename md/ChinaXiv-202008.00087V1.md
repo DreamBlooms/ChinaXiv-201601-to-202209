@@ -1,0 +1,367 @@
+# 整体运动知觉老化伴随颞中回静息态功能改变
+
+金花123 梁紫平123朱子良123严世振 123林琳 123 艾克旦·艾斯卡尔4尹建忠4姜
+
+云鹏123田鑫5
+
+(教育部人文社会科学重点研究基地天津师范大学心理与行为研究院；²天津师范大学心理学部；国民心理健康评估与促进协同创新中心，天津 300387)(4天津市第一中心医院放射科，天津 300192)(5天津师范大学体育科学学院，天津 300387)
+
+摘要 以个体整体运动一致性阈值为指标，探讨老年人整体运动敏感性（GMS）下降和静息态下兴趣脑区功能活动的关系。发现与阈值负相关且老年人低于青年人的指标主要有：MT/V5区的ReHo和ALFF 值，各网络拓扑属性；与阈值正相关且老年人显著高于青年人的有：MT/V5区与前运动皮层之间的、各兴趣脑区之间的功能连接。结果用“去分化”等观点进行了解释，提示老年人GMS 的下降可能不仅与安静状态下 MT/V5区的功能改变有关，还可能与全脑更广泛区域的功能改变有关。
+
+关键词整体运动知觉；老化；静息态功能磁共振成像；MT/V5区
+
+# 1引言
+
+整体运动知觉（global motion perception,GMP）指个体将视觉场景中局部运动元素的单个轨迹按照一定的规则进行选择性整合，从而形成更大的全局性的运动知觉（Cai etal.,2014; Hutchinson et al.,2012），并获得运动物体的方向和速度等信息（Narasimhan&Giaschi,2012）。它是视运动知觉的重要组成部分，其损伤可能反映并预示了老年个体注意力、认知能力的下降，如机动车驾驶中对危险的感知(Lacherez et al.,2014）、阿尔茨海默症患者临床评估的严重程度（Lietal.,2017）等。
+
+大量研究发现认知健康老年人的GMP 会出现自然老化的现象（综述：Hutchinson et al.,2012; Owsley,2011; Billino&Pilz,2019），且该老化不能用视觉系统上的年龄差异来进行解释（Willis &Anderson,2000;Kunchuli et al.,2019）。例如，Wills 和 Anderson（2000）的研究发现，老年被试的整体运动敏感性（globalmotion sensitivity，GMS）显著低于青年被试，且老年青光眼患者和年龄匹配组被试的GMS之间没有显著差异，说明与年龄相关的GMS下降可能不能完全归因于与年龄增长相关的视网膜照度的降低。
+
+然而，关于GMP老化的神经基础的研究仍然十分缺乏。目前少量的任务态研究发现，老年人加工整体运动信号时的脑激活模式不同于青年人，与“去分化”假设相符（Lindenberger& Baltes,1994），表现为各脑区的功能模块化程度降低，神经表征的特异性下降，刺激加工的选择性下降（Biehl etal.,2017; Kavcicet al.,2013;Ward et al.,2018）。Kavcic等（2013）采用事件相关电位技术（ERP）发现，与小于55岁的个
+
+1 体相比，大于55岁的个体在运动方向辨别任务中运动刺激诱发的P1反应在视皮层的头皮分布更广。Biehl  
+2 等（2017）首次使用功能性磁共振成像技术（fMRI）考察了健康老年人群径向GMP 的神经基础。该研究  
+3 发现被动地观看镶嵌在噪声中的径向运动点阵时，相对于青年人（ $2 0 { \sim } 3 0$ 岁），老年人（62\~78岁）脑颞  
+4 叶中部的激活增加，且还额外地募集了右额下回。Ward等(2018)借助功能性近红外光谱脑成像技术(fNIRS)  
+5號 的研究也得到了相似的结果。他们发现，在1.5、3和 $9 ^ { \circ }$ /s 三种点运动速度下，老年人（平均70岁）随  
+6號 机点阵中的行为反应均显著差于青年人（平均28岁）；fNIRS 结果发现，当点速度为 $9 ^ { \circ }$ /s 时，与中年（平均 50 岁）和青年相比，老年人表现出 HbO 反应的显著增加和脱氧血红蛋白浓度的显著下降，提示老年人需要募集更多的神经元。
+
+上述任务态的研究很好地揭示了老年人完成GMP 任务时脑的功能激活特征，但老化一般都伴随着认知和运动能力的下降（Woodard et al.,2010; Smith et al.,1999），任务状态下观察到的年龄相关的神经活动上的差异可能混杂了退化的行为和补偿过程。因此，无需认知任务和行为反应的静息态功能磁共振成像（Resting-state functional magnetic resonance imaging，rs-fMRI）技术在一定程度上能更好地反映老化相关的脑功能变化。如Yan等（2011）比较了青年人和老年人在任务态下（被动观看闪烁的棋盘格）和静息态下血氧依赖性信号的差异。结果发现，两组被试任务态下的BOLD反应之间不存在显著差异，但静息态下老年人在视觉区（棋盘格任务的激活区）的功能连接强度和局部一致性均显著弱于青年人。并且，静息态下的研究可能反映了大脑功能组织的一种内在属性，为稳定大脑的整体性，巩固过去发生的事件服务（Raichle& Snyder,2007）。事实上，rs-fMRI技术已被广泛应用于老化相关的研究（Peters et al.,2020;Farras-Permanyer et al,2019; Lee & Hsieh,2017；综述：Ferreira & Busatto,2013; Damoiseaux,2017）。如Farras-Permanyer等（2019）发现，随着年龄的增长（48～79岁），全脑静息态下的功能连接逐渐减弱。Lee 和 Hsieh（2017）的研究招募了72名健康成年人（40\~77岁），要求被试在磁体外完成一项信号停止任务（stop-signal task），结果发现信号停止反应时间和静息态下双侧额下回及部分默认网络的激活呈负相关。然而，安静状态下老年人GMP 相关脑区的功能活动是否也可能是其GMS 的有效指标尚不清楚。在此，我们采用 rs-fMRI技术，以被试在随机点阵任务中的一致性阈值为反映其GMS 的指标（阈值越高，GMS 越差），从兴趣脑区的局部功能变化（局部一致性、低频振幅）到功能连接，再到功能网络中兴趣区节点的局部拓扑属性以及全脑的全局拓扑属性，系统地比较安静状态下老年人和青年人在兴趣区和全脑的功能活动差异，以及这种差异和GMS 的关系，以揭示老年人GMS 的下降与静息态下脑功能变化的关系，为建构GMP老化的理论基础提供更为丰富的数据支撑。这里，兴趣区的选择以文献为依据：与观看静止刺激相比，观看运动刺激会诱发沿枕顶叶分布，从V1、V2、V3区经内侧颞叶 MT及其附属部分（如颞上皮层区，MST）投射至顶叶的视觉背侧通路（Kravitz etal.,2011）中的许多区域表现出更强的激活，包括MT、V3 及低水平的V1和V2区（见综述 Gril-Spector& Malach,2004）。
+
+基于老化的“去分化”假设（Lindenberger& Baltes,1994）和已有研究观察到的老年人静息态下脑功能特征（Yan et al.,2011; Farras-Permanyer et al.,2019; Achard & Bullmore,2007），以及老年人在进行 GMP任务时的脑激活特征（Biehl et al.,2017; Ward et al.,2018），我们提出以下假设：1）老年人GMS下降与其安静状态下GMP 加工相关脑区局部一致性或是低频振幅变化、功能连接强度变化有关；2）老年人GMS下降与其安静状态下脑网络拓扑属性的改变有关。
+
+# 2研究方法
+
+# 2.1被试
+
+本研究共招募了43名青年和 54名老年被试，并在正式实验前对所有被试进行视觉功能、简易精神状态量表（MMSE，老年被试）和磁共振检查禁忌症的筛查。其中，1名青年被试由于操作失误数据被剔除，13 名老年被试因脑结构存在异常被剔除（例如，脑萎缩、脑白稀、梗塞、囊肿）。另外，6名青年被试和10 名老年被试头动在平动方向超过 $1 \mathrm { m m }$ 、转动超过1°数据被剔除。最后，36名青年大学生被试（16男，$1 9 . 0 6 { \sim } 2 6 . 2 2$ 岁，平均年龄 $2 2 . 0 4 \pm 2 . 0 6$ 岁）和31名认知健康老年被试（10男，57.15\~74.68岁，平均年龄$6 5 . 0 5 { \pm } 4 . 4 4$ 岁；MMSE：25\~30分，平均 $2 8 . 8 7 \pm 1 . 1 8$ 分）的数据进入最终的统计分析。
+
+所有被试视力或矫正视力正常，无白内障、青光眼、黄斑变性等眼部疾病；无各种原因所致的智能障碍，MMSE 得分大于 24分（老年被试，Porter et al.,2017;Wang et al.,2020）；无精神病或神经症史；无MRI检查禁忌症，头颅MRI常规检查未见病灶，无因病所致的大脑结构变化，腔梗小于 $5 \mathrm { m m }$ 。所有被试均签署知情同意书，并在测试完成之后获得一定的报酬。
+
+# 2.2实验设计和实验逻辑
+
+单因素两水平设计，自变量为年龄组别（青年组和老年组）；行为因变量为被试在随机点阵整体运动方向判断任务中的行为表现（整体运动一致性阈值），神经层面的因变量为安静状态下与GMP 加工相关脑区的局部一致性（ReHo）、低频振幅（ALFF）、基于体素的功能连接（Voxel-wiseFC）、基于兴趣区的功能连接（ROI-wiseFC）、功能网络的局部拓扑属性（度 $K$ 、节点效率 $E _ { n o d a l }$ 、介数 $b$ ）及全脑的全局拓扑属性（小世界参数：聚类系数 $C _ { p }$ 、特征路径长度 $L _ { p }$ 、标准化聚类系数 $\gamma$ 、标准化特征路径长度 $\lambda$ 、小世界属性σ；网络效率：全局效率 $E _ { g l o b }$ 、局部效率 $E _ { l o c }$ ）。
+
+如果老年组安静状态下GMP 相关脑区（V1、V2、V3、MT/V5区）上述变量或者脑网络的属性显著不同于青年组，且这些脑区或者脑网络的功能活动和GMP 的行为阈值间存在显著的相关关系，则提示老年组GMS的下降可能与脑相关功能区安静状态下的功能活动改变有关。
+
+# 2.3行为实验刺激与任务
+
+被试在磁体外完成随机点阵整体运动方向判断任务。该任务的刺激为水平随机运动点阵，所有刺激呈
+
+现在刷新率为 $6 0 \mathrm { H z }$ ，分辨率为 $1 9 2 0 \times 1 0 8 0$ pixel 的电脑显示屏上，视距 $6 0 \mathrm { c m }$ 。在黑色屏幕中央呈现一个直径为 $1 2 \mathrm { { c m } }$ ，视角为 $1 1 . 4 2 ^ { \circ }$ 的白色圆框，内有100 个白色圆点。点的密度为0.88 点 $/ \mathrm { c m } ^ { 2 }$ ，大小为 2pixel。点阵内一部分点作为信号点以6°/s速度沿向左或向右方向做一致运动（Pilz et al.,2017;Bennet et al.,2007），其它点作为噪音点做无规则的随机运动，所有点的运动速度一致。运动信号的一致性水平指信号点占总点数的比例，被试达到程序设置的正确率所需要的一致性水平即为整体运动一致性阈值（简称“阈值”）。整体运动敏感性较低的被试需要更高比例的信号点才能对点阵的整体运动方向作出正确判断，即阈值越高敏感性越低。  
+实验在安静的房间中进行，程序启动后在黑色屏幕中央出现一个 ${ 5 0 0 } \mathrm { m s }$ 的红色注视点提醒被试实验开始，然后呈现 ${ 5 0 0 } \mathrm { m s }$ 的点阵，之后呈现白色圆点，白色圆点在被试做出反应之后持续 $2 0 0 \mathrm { { m s } }$ 以防止出现卡顿。接下来继续呈现 ${ 5 0 0 } \mathrm { m s }$ 的点阵，如此循环，如图1。要求被试在点阵出现之后，通过按键尽可能准确（不要求尽快）地指出点阵的整体运动方向是向左（按键F）还是向右（按键J）。并在实验之前告知被试点阵向左和向右运动随机出现且概率均等，在不能确定运动方向的情况下要根据自己的猜测做出最佳判断。
+
+![](images/82f16ac04f4652a4b8d5bcbff52ada39f1c2f7e1cfa6d62ed175c6bb082c8aae.jpg)  
+图1随机点阵整体运动方向判断实验流程
+
+实验采用2下1上的适应性阶梯来控制运动信号的一致性水平，即连续两次反应正确一致性降低一个步长，一次反应错误则上升一个步长，追踪 $70 . 7 1 \%$ 正确率水平下的运动一致性阈值（Lu&Dosher,1999）。要求被试共完成8次反转，点阵的起始一致性水平为 $100 \%$ ，前2次反转步长为 $10 \%$ ，从第3次反转开始步长变为 $5 \%$ 。计算步长为 $5 \%$ 的后6次反转的转折点处一致性的平均值为被试的整体运动一致性阈值，前2 次反转的值因不稳定而删除。
+
+# 2.4fMRI数据收集
+
+采用西门子Prisma3.0T磁共振扫描仪和64通道头线圈。被试取仰卧位，线圈内放置海绵垫以固定头  
+部，要求其在扫描过程中尽可能保持头部及身体静止、清醒、闭眼，不做任何系统的思考。1）两个常规扫描以排除存在脑结构性病变的个体（仅对老年人）。具体的序列和参数如下：T2常规  
+检查（\*tse2d1_15）， $\mathrm { T R } { = } 3 5 0 0 \mathrm { m s }$ ， $\scriptstyle \mathrm { { T E = } } 8 9 \mathrm { { m s } }$ ， $\mathrm { T A } { = } 6 8 \mathrm { s }$ ， $\mathrm { F A } { = } 1 5 0 ^ { \circ }$ ，slice thickness $\mathsf { \Omega } _ { \mathsf { s } = \mathsf { 5 } \mathsf { m m } }$ ，无间隔扫描,  
+$\mathrm { F O V } { = } 1 9 5 \mathrm { m m } { \times } 2 4 0 \mathrm { m m }$ ，matrix $= 2 5 0 \times 3 8 4$ ，slices $\scriptstyle \sum 2$ 层。T1常规扫描（\*fl2d1）， $\mathrm { T R } { = } 2 5 0 \mathrm { m s }$ ， $\mathrm { T E } { = } 2 . 4 3 \mathrm { m s }$ ，  
+$\mathrm { T A } { = } 7 0 \mathrm { s }$ ， $\mathrm { F A } { = } 8 5 ^ { \circ }$ ，slice thicknes $\scriptstyle \mathbf { s } = 5 \mathbf { m } \mathbf { m }$ ，无间隔扫描，！ $\mathrm { F O V } { = } 1 9 5 \mathrm { m m } { \times } 2 4 0 \mathrm { m m }$ ，matrix $= 2 5 0 \times 3 8 4$ ，slices $\scriptstyle \sum 2$
+
+1层。
+
+2)T1全脑结构像：采用 3D快速磁化预备梯度回波序列(magnetization-prepared rapid acquisition gradientecho，MPRAGE），矢状位扫描，从左到右采集，具体扫描参数为： $\mathrm { T R } { = } 2 5 3 0 \mathrm { m s }$ （学校磁共振设备）或$2 3 0 0 \mathrm { { m s } }$ （医院设备）， $\mathrm { T E } { = } 2 . 9 8 \mathrm { m s }$ ， $\mathrm { F A } { = } 7 ^ { \circ }$ ，slice thickness $\mathsf { \tau } _ { \mathsf { s } = 1 } \mathsf { m } \mathsf { m }$ ，无间隔扫描， $\mathrm { F O V } { = } 2 5 6 \mathrm { m m } { \times } 2 5 6 \mathrm { m m }$ matrix $= 2 5 6 \times 2 5 6$ ，voxel $\mathrm { s i z e { = } l m m { \times } l m m { \times } l m m }$ ，slices $\scriptstyle = 1 9 2$ 层。3)静息态功能像序列，采用快速梯度回波平面成像技术，扫描参数为： $\scriptstyle \mathrm { T R = } 2 0 0 0 \mathrm { m s }$ ,T $\mathrm { E } { = } 3 0 \mathrm { m s }$ $\mathrm { F A } { = } 9 0 ^ { \circ }$ ，slice thicknes $\scriptstyle \mathbf { s } = 2 \mathbf { m } \mathbf { m }$ ，无间隔扫描， $\scriptstyle \mathrm { F O V = } 2 2 4 \mathrm { m m } \times 2 2 4 \mathrm { m m }$ ，matrix $= 1 1 2 \times 1 1 2$ ，voxel size $\circleddash$ 2mm×2mm×2mm,slices $\scriptstyle : = 7 5$ 层，Time points $\scriptstyle 1 = 2 4 0$ （学校磁共振设备）或246（医院设备），加速因子 $^ { = 3 }$ 。数据采集在两台型号相同的3.0T磁共振扫描仪上完成。青年组的数据采集在天津师范大学功能磁共振实验室的设备上完成；老年组的数据采集在天津市第一中心医院功能磁共振检查室完成，以最大限度保障老年被试参与实验的安全性和激发他们参与积极性。
+
+# 2.5实验流程
+
+首先，向被试讲解实验目的和实验流程，被试签订知情同意书；然后，询问、记录被试的年龄、身体健康状态和视觉状态等信息，并进行MRI检查禁忌症筛查。老年被试需完成 MMSE，筛除得分低于 24分的个体；之后，按照磁共振检查的要求，对被试依次进行常规检查、静息态和结构像的扫描，大约持续 20分钟；最后，让被试休息片刻，确保无任何异常的情况下进行整体运动方向判断任务。
+
+# 2.6fMRI数据预处理
+
+在 Matlab R2013a（MathWorks，http://www.mathworks.com/）平台上， 使用 SPM12（http://www.fil.ion.ucl.ac.uk/spm）和 DPABI V4.3（htp://rfmri.org/dpabi: Yan et al.,2016）工具包对所有被试的数据进行预处理，具体步骤包括：1）格式转换：将原始数据转化成 NIFTI格式；2）删除时间点：剔除每个被试前10 个时间点的数据，且为了匹配两组被试的时间点，老年组额外删除最后6个时间点；3）时间层矫正：静息态采用3层同扫的加速扫描序列，所以使用matlab 查询每个被试每层扫描的时间点，找到中间时间点作为参考层，使用 SPM12进行时间层矫正；4）头动矫正：删除平动超过 $1 \mathrm { m m }$ ，转动超过 $1 ^ { \circ }$ 的被试数据;5）空间标准化：采用 DARTEL 将功能像标准化到MNI（Montreal Neurological Institute,MNI）空间，首先将每个被试的结构像配准到平均功能像中，然后将结构像分割成灰质、白质、脑脊液，并生成一个矩阵，最后使用分割结构像时产生的矩阵，将功能像标准化到 MNI标准空间，重采样的体素大小为$2 \mathrm { m m } { \times } 2 \mathrm { m m } { \times } 2 \mathrm { m m }$ ；6）空间平滑： $\mathrm { F W H M { = } } 6 \mathrm { m m } \times 6 \mathrm { m m } \times 6 \mathrm { m m }$ ；7）去线性漂移，提取并去除协变量：Friston24 头动参数、脑脊液、白质。
+
+# 3数据分析
+
+本研究主要对两组被试安静状态下的脑功能活动进行三个层次的比较：首先是GMP相关脑区（V1、V2、V3、MT/V5区）的局部功能活动特征，包括局部一致性（ReHo）和低频振幅（ALFF）；其次是局部脑区间的功能连接（Functionalconnectivity,FC),包括兴趣区与全脑其余各体素间的功能连接（voxel-wiseFC）和兴趣区相互之间的功能连接（ROI-wiseFC）；最后是全脑功能网络拓扑属性的比较，包括兴趣区的局部拓扑属性和全脑功能网络的全局拓扑属性。
+
+# 3.1ReHo分析
+
+1）采用标准化后未经平滑的数据，去除协变量（包括去线性趋势、Friston24头动参数、脑脊液、白质），然后进行 $0 . 0 1 { \sim } 0 . 1 \mathrm { H z }$ 的滤波，之后计算脑内各体素的肯德尔和谐系数即ReHo值，clustel $\scriptstyle \mathtt { \Lambda } = 2 7$ 。随后，对于标准化的过程，每一个体的ReHo 图像都要除以这个个体的平均ReHo 图像，得到mReHo。最后，对标准化之后的mReHo 进行空间平滑（ $\mathrm { F W H M } = 6 \mathrm { m m } { \times } 6 \mathrm { m m } { \times } 6 \mathrm { m m }$ ），得到全脑 smReHo值。2）将被试的FD Jenkinson 头动参数和性别作为协变量(下同),对青年组和老年组V1、V2、V3 和MT/V5 区的 smReHo值进行双样本 $t$ 检验，采用置换检验（5000 次）进行静息态功能指标显著性的多重校正 $( \boldsymbol { p } _ { \mathrm { F W E } } { < } 0 . 0 5 )$ ），连续体素 $k { > } 3 0$ 。根据 AAL（Automated Anatomical Labeling）模板和 Brodmann 模板对存在显著差异的激活簇进行解剖学标记（下同），得到老年组相对于青年组功能改变的脑区。3）以组间差异最大脑区为中心，6mm 为半径（下同），提取功能改变脑区的 smReHo值，将其与行为数据进行相关分析，得到其相关性。
+
+# 3.2ALFF分析
+
+1）采用平滑化后未滤波的数据，分别计算两组被试频率为 $0 . 0 1 { \sim } 0 . 1 \mathrm { H z }$ （ Zhang et al., 2011; Wang et al.,2015; Zang etal.,2007）之间的图像信号的 ALFF，降低低频漂移和高频物理噪声的影响。将其除以全脑均值，得到标准化的mALFF 值。2）统计检验的方法同ReHo分析，将头动参数和性别作为协变量，对青年组和老年组V1、V2、V3 和MT/V5 区的 mALFF 值进行双样本 $\mathbf { \chi } _ { t }$ 检验，采用置换检验（5000次）进行静息态功能指标显著性的多重校正 $( \boldsymbol { p } _ { \mathrm { F W E } } { < } 0 . 0 5$ ），连续体素 $k { > } 3 0$ ，得到老年组相对于青年组功能改变的脑区。3）提取功能改变脑区的mALFF值，将其与行为数据进行相关分析，得到其相关性。
+
+# 3.3FC分析
+
+# 3.3.1Voxel-wise FC分析
+
+1）采用平滑后的滤波数据，提取并去除协变量（包括去线性趋势、Friston24头动参数、脑脊液、白质），然后进行功能连接分析。选取V1、V2、V3 和MT/V5 区作为种子点，提取种子点的平均时间序列，计算其与全脑各体素的线性相关系数，再进行Fisher $\cdot z$ 转换，得到 zFC 值，使FC 值更加服从正态分布。2)分别对青年和老年数据同一ROI得到的 zFC 统计图进行双样本 $t$ 检验，采用置换检验（5000次）进行静息态功能指标显著性的多重校正 $( \boldsymbol { p } _ { \mathrm { F W E } } { < } 0 . 0 5$ ），连续体素 $k { > } 3 0$ ，得到4个不同ROI下老年组相对于青年组发生功能改变的脑区。3）提取功能连接改变脑区的 zFC值，将其与行为数据进行相关分析，得到其相
+
+关性。
+
+# 3.3.2ROI-wise FC分析
+
+1）前期处理同基于体素的功能连接分析，采用V1、V2、V3 和MT/V5区作为兴趣区，提取每个ROI的平均 BOLD信号时间序列。然后，对任意两个ROI的时间序列进行皮尔逊相关分析，得到4个兴趣区两两之间的相关矩阵。最后，将兴趣区相关矩阵进行Fisher-z转换，得到标准化之后的连接矩阵ROICorrelation_FisherZ，使其更加服从正态分布。2）兴趣区之间的功能连接形成一个小的连接网络，因此，我们使用 GRETNAv2.1（htp//www.nitrc.org/projects/gretna/; Wang et al.,2015）图论工具包中的连接分析对青年组和老年组基于兴趣区的功能连接矩阵进行双样本 $t$ 检验，设置显著性为FDR 矫正后 $\scriptstyle p < 0 . 0 5$ （Jacob etal.,2019），得到老年组相对于青年组发生改变的功能连接。3）提取存在显著差异的功能连接值，将其与行为数据进行相关分析，得到其相关性。
+
+# 3.4功能网络构建
+
+# 3.4.1节点和边的定义
+
+脑功能网络由节点和节点之间的边组成（Sporns et al.,2005;Yap et al.,2010）。其中，节点代表大脑区域(Barthelemy,2010; Vertes et al.,2012),边代表不同区域之间血氧水平依赖信号的统计相互依赖性(Friston,1994）。使用图论分析工具包GRETNAv2.1，基于AAL 模板将每个被试的大脑分成116个分区（每个半球包含 45个大脑分区和13个小脑分区），每个分区代表网络分析中的一个节点。
+
+基于预处理后的功能数据，计算所有可能的大脑区域对之间的局部时间序列的皮尔逊相关系数，以此来定义网络中的边，每个被试得到一个 $1 1 6 \times 1 1 6$ 的相关系数矩阵 $R _ { i j }$ $( i , j = 1 , 2 , 3 . . . N$ ， $N { = } 1 1 6$ ）。之后，根据预定的稀疏度范围（sparsity 的选择见3.4.2），将个体Fisher $Z$ 转换后的皮尔逊相关矩阵转换为二值化功能网络矩阵 $A _ { i j } { = } [ a _ { i j } ]$ 。其中，根据预先设定的稀疏度阈值范围，当节点 $i$ 和 $j$ 相关系数的绝对值大于阈值的时候， $a _ { i j }$ 为1，其它时候为0。
+
+# 3.4.2稀疏度的选择
+
+使用稀疏度阈值S到所有的相关矩阵。研究中没有选择单一的阈值，而是根据以下标准，在大范围的稀疏度范围内重复每个相关矩阵的阈值：1）网络平均度（节点的度是连接到节点的连接数）大于 2log（N)（ Zhang et al., 2011; Liao et al.,2013; Li et al., 2014）， $N$ 是节点的个数，这里 $N { = } 1 1 6$ ，得到 $\mathrm { S } { \geqslant } 0 . 0 8$ 。2）对于每个被试，小世界属性o大于1（Itahashi et al.,2014）。由小世界结果可知，所有青年被试在 $0 . 1 0 { \sim } 0 . 5 0$ 的稀疏度范围内小世界属性均大于1，但是老年被试仅在 $0 . 0 7 { \sim } 0 . 2 2$ 的稀疏度范围内小世界属性大于1。综合以上两条标准，得到 $0 . 0 8 { \leqslant } \mathbf { S } { \leqslant } 0 . 2 2$ ，该方法确定的阈值确保小世界的阈值网络是可以估计的，并且该稀疏性具有尽可能少的伪连接。后续的网络指标使用精确定义的小世界值 $0 . 0 8 { \leqslant } \mathbf { S } { \leqslant } 0 . 2 2$ ，间隔0.01，进行重复运行。
+
+# 3.4.3网络指标
+
+分别计算每个稀疏度水平下兴趣区节点的局部属性和脑网络的全局属性。相对于Brodmann 分区，AAL模板的分区更为详细，且为了将V1、V2、V3和MT/V5区都包含在内，选择 AAL模板的43\~56区（枕叶）和 79\~90区（颞叶）作为兴趣区。兴趣区节点的局部属性包括三个节点中心性指标：度 $K$ ，效率 $E _ { n o d a l }$ 和介数 $b$ 。全局属性包括1）小世界参数：聚类系数 $C _ { p }$ ，特征路径长度 $L _ { p }$ ，标准化聚类系数 $\gamma$ ，标准化特征路径长度入，和小世界属性σ；2）网络效率：全局效率 $E _ { g l o b }$ ，局部效率 $E _ { l o c }$ 。此外，由于多个阈值条件下无法得出统一直观的结果，我们计算了每个网络指标的曲线下面积（Area Under Curve，AUC），它为独立于单个阈值选择的大脑网络拓扑表征提供了一个综合标量。综合 AUC 指标已在以前的脑网络研究中使用，对检测脑疾病的拓扑变化很敏感（Achard& Bullmore,2007;He et al.,2009）。
+
+# 3.4.4网络指标的统计分析
+
+1）为了确定青年组和老年组不同网络指标之间是否存在显著的组别差异，将头动参数和性别作为协变量，对每个网络指标的AUC 进行双样本t检验，使用FDR 进行多重比较矫正（Jacob et al.,2019），确认存在组别差异的脑功能网络属性。2）当青年组和老年组的兴趣区节点的局部属性或全脑功能网络的全局属性之间存在显著差异时，将存在显著差异的指标与个体的整体运动一致性阈值进行相关分析，得到其与个体GMS 之间的相关性。
+
+# 4研究结果
+
+# 4.1行为结果
+
+对青年组和老年组的整体运动一致性阈值进行独立样本 $t$ 检验，结果显示老年组（ $M \pm S D { = } 5 6 . 8 8 { \pm }$ 18.32）的阈值显著高于青年组 $( M \pm S D { = } 3 9 . 0 5 { \pm } 1 6 . 6 5$ ， $t ( 6 5 ) { = } { - 4 . 1 7 }$ ， $p { < } 0 . 0 0 1$ ，Cohen's $d { = } 1 . 0 3$ ），表明老年组的GMS显著低于青年组。
+
+# 4.2fMRI结果
+
+# 4.2.1脑局部功能活动特征（ReHo、ALFF）的组间差异
+
+对青年组和老年组的ReHo值进行双样本 $t$ 检验，结果显示老年组个体双侧视觉联合皮层（V3区）和右侧次级视皮层（V2区）的小部分区域的局部一致性显著高于青年组，而双侧视觉联合皮层（V3区）的大部分区域和双侧颞中回（MT/V5区）的局部一致性显著低于青年组。对两组被试的ALFF 值进行比较发现，老年组双侧颞中回（MT/V5区）的低频振幅显著低于青年组。
+
+表1两组被试ReHo和ALFF存在显著差异的脑区  
+
+<html><body><table><tr><td>指标</td><td></td><td>AAL分区</td><td>BA分区</td><td>体素数量</td><td>t值</td><td>MNI坐标（x，y，z）</td></tr><tr><td>ReHo</td><td>增强脑区</td><td>左小脑_上端</td><td>19（V3)</td><td>视觉联合皮层</td><td>44</td><td>5.82</td></tr></table></body></html>
+
+![](images/b34276a7aeff069bad0fac29ae63b35d834d993071b8fe0ff7cdaa4196ed4f64.jpg)  
+图2 青年组和老年组的脑局部功能活动特征差异：ReHo存在差异的脑区（左）；ALFF存在差异的脑区（右）
+
+# 4.2.2脑功能连接特征（voxel-wiseFC、ROI-wiseFC）的组间差异
+
+Voxel-wiseFC分析发现，老年组V1区与右侧初级运动皮层，V2区与左侧初级运动皮层之间的功能连接强度均显著高于青年组；老年组V3区与左侧次级视皮层之间的功能连接强度显著高于青年组，而其与右侧视觉联合皮层之间的功能连接强度显著低于青年组；老年组MT/V5区与左侧前运动皮层的功能连接强度显著高于青年组，而其与右角回的功能连接强度显著低于青年组。
+
+表2两组被试voxel-wiseFC存在显著差异的脑区  
+
+<html><body><table><tr><td>种子点</td><td>AAL分区</td><td>BA分区</td><td>体素数量</td><td>t值</td><td>MNI坐标（x，y，z)</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>V1区</td><td>增强脑区</td><td>右中央旁小叶</td><td>4</td><td>初级运动皮层</td><td>721</td><td>6.95</td><td>4，-28，66</td></tr><tr><td>V2区</td><td>增强脑区</td><td>左中央旁小叶</td><td>4</td><td>初级运动皮层</td><td>1174</td><td>6.51</td><td>-8，-22，60</td></tr><tr><td>V3区</td><td>增强脑区</td><td>左距状裂周围皮层</td><td>18</td><td>次级视皮层</td><td>315</td><td>6.43</td><td>-26，-64，12</td></tr><tr><td></td><td>减弱脑区</td><td>右枕上回</td><td>19</td><td>视觉联合皮层</td><td>129</td><td>-6.91</td><td>28，-76，20</td></tr><tr><td>MT/V5区</td><td>增强脑区</td><td>左补充运动区</td><td>6</td><td>前运动皮层</td><td>1347</td><td>7.13</td><td>-8，-12，56</td></tr><tr><td></td><td>减弱脑区</td><td>右角回</td><td>39</td><td>角回</td><td>72</td><td>-6.32</td><td>42，-52，24</td></tr></table></body></html>
+
+![](images/182146f6d2d2c801e36b3318b0ca5dd7c47970a0b9046df45092ca8c57a23cfc.jpg)  
+图3青年组和老年组voxel-wiseFC存在显著差异的脑区
+
+1 ROI-wise FC 分析发现，两组被试上述区域之间的功能连接强度存在显著差异（ $\stackrel { \prime } { \cdot } t ( 4 0 0 ) = 3 . 0 2$ ， $\scriptstyle { p = 0 . 0 1 0 } .$ ）°  
+2 两两比较的结果显示，老年组V1和V2（ $t ( 6 5 ) \substack { = 3 . 0 3 }$ ， $\scriptstyle { p = 0 . 0 0 4 }$ ）、V1和V3（ $t ( 6 5 ) { = } 4 . 4 3$ ， $p { < } 0 . 0 0 1$ ）、V1  
+3 和MT/V5 （ $t ( 6 5 ) { = } 5 . 9 0$ ， $p { < } 0 . 0 0 1$ ）、V2和V3（ $t ( 6 5 ) { = } 3 . 4 3$ ， $\scriptstyle { p = 0 . 0 0 1 }$ ）、V2 和MT/V5（ $t ( 6 5 ) { = } 4 . 7 2$ ， $p { < } 0 . 0 0 1$ ）  
+4 以及V3和 MT/V5（ $t ( 6 5 ) { = } 4 . 2 9$ ， $p { < } 0 . 0 0 1$ ）之间的功能连接强度均显著高于青年组。
+
+![](images/ee426a7e93e45cc74f34dd5dbf1a888e3adfe404c3f91bfc3196d9df716b3131.jpg)  
+图4青年组和老年组存在显著差异的ROI-wise FC
+
+# 4.2.3脑功能网络的拓扑属性（局部、全局）的组间差异
+
+对两组被试兴趣区节点的局部属性进行比较发现，老年组枕叶区域的双侧初级视皮层、次级视皮层和视觉联合皮层的节点度均显著高于青年组，且右初级/次级视皮层的节点度、节点效率和介数均显著高于青年组，右视觉联合皮层的介数显著高于青年组。颞叶区域的右下脚后区（颞叶内侧的一小部分）、左颞极区/颞中回和左右颞极区/颞下回/颞中回的节点度和节点效率均显著低于青年组。此外，老年组右颞上回和右颞极区/颞中回的节点效率显著低于青年组，左视觉联合皮层/角回、左颞极区/颞中回、右颞中回/颞下回和右颞下回的节点介数显著低于青年组，兴趣区内其它节点属性之间不存在显著差异。
+
+表3两组被试兴趣区功能网络局部拓扑属性存在差异的脑区（t值）  
+
+<html><body><table><tr><td rowspan="2">AAL分区 BA分区</td><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">t值</td></tr><tr><td>度K</td><td>效率Enodal</td><td>介数b</td></tr><tr><td>老年组>青年组</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>左距状裂周围皮层</td><td>17/18</td><td>初级/次级视皮层</td><td>3.12**</td><td>1.89</td><td>1.04</td></tr><tr><td>右距状裂周围皮层</td><td>17/18</td><td>初级/次级视皮层</td><td>4.34***</td><td>2.91**</td><td>2.59*</td></tr><tr><td>右楔叶</td><td>18/19</td><td>次级/联合视皮层</td><td>3.09**</td><td>1.69</td><td>1.13</td></tr><tr><td>左舌回</td><td>18/19</td><td>次级/联合视皮层</td><td>2.27*</td><td>0.67</td><td>0.14</td></tr><tr><td>右舌回</td><td>18/19</td><td>次级/联合视皮层</td><td>3.47***</td><td>1.58</td><td>1.33</td></tr><tr><td>左枕中回</td><td>19/39</td><td>视觉联合皮层/角回</td><td>2.25*</td><td>-0.54</td><td>-2.95**</td></tr></table></body></html>
+
+<html><body><table><tr><td>右枕中回</td><td>19/39</td><td>视觉联合皮层/角回</td><td>2.39*</td><td>0.37</td><td>-0.42</td></tr><tr><td>右枕下回</td><td>19</td><td>视觉联合皮层</td><td>3.02**</td><td>0.85</td><td>2.42*</td></tr><tr><td>老年组<青年组</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>右颞横回</td><td>48</td><td>下脚后区</td><td>-2.27*</td><td>-3.73***</td><td>-1.26</td></tr><tr><td>右题上回</td><td>22</td><td>颞上回</td><td>-0.50</td><td>-2.01*</td><td>-0.33</td></tr><tr><td>颞极：左颞上回</td><td>38/21</td><td>颞极区/颞中回</td><td>-2.97**</td><td>-4.06***</td><td>-3.32**</td></tr><tr><td>颞极：右颞上回</td><td>38/21</td><td>颞极区/题中回</td><td>-1.79</td><td>-2.92**</td><td>-1.97</td></tr><tr><td>右颞中回</td><td>21/20</td><td>颞中回/颞下回</td><td>0.18</td><td>-1.50</td><td>-2.28*</td></tr><tr><td>颞极：左颞中回</td><td>38/20/21</td><td>颞极区/颞下回/颞中回</td><td>-2.33*</td><td>-3.24*</td><td>-1.52</td></tr><tr><td>颞极：右颞中回</td><td>38/20/21</td><td>颞极区/题下回/中回</td><td>-2.08*</td><td>-2.81**</td><td>0.05</td></tr><tr><td>右颞下回</td><td>20</td><td>颞下回</td><td>0.27</td><td>-1.35</td><td>-2.07*</td></tr></table></body></html>
+
+注：\*表示 $\scriptstyle { p < 0 . 0 5 }$ ， $^ { * * }$ 表示 $p { < } 0 . 0 1$ ， $\ast \ast \ast$ 表示 $p { < } 0 . 0 0 1$ 。
+
+本研究在 $0 . 0 8 { \leqslant } \mathbf { S } { \leqslant } 0 . 2 2$ 稀疏范围内确定了一个特异于数据的小世界机制。在该特定的稀疏度范围内，从功能整合方面来看，老年组特征路径长度（ $t ( 6 5 ) { = } 4 . 7 7$ ， $p { < } 0 . 0 0 1$ ）和标准化特征路径长度（ $\cdot t ( 6 5 ) { = } 1 2 7 . 6 0$ $p { < } 0 . 0 0 1$ ）均显著高于青年组，且老年组的全局效率显著低于青年组（ $t ( 6 5 ) { = } { - } 4 . 6 2$ ， $p { < } 0 . 0 0 1$ ），表明老年组的网络信息传递的最短路径长度显著长于青年组，使得其信息传递能力减弱，且老年组网络的并行信息传输能力存在下降。从功能分离的角度来看，老年组脑功能网络的聚类系数（ $t ( 6 5 ) { = } - 5 . 0 2$ ， $p { < } 0 . 0 0 1$ ）和标准化聚类系数（ $\cdot t ( 6 5 ) { = } - 5 . 3 6$ ， $p { < } 0 . 0 0 1$ ）显著低于青年组，且老年组索引节点的邻近节点间的连接效率（局部效率）显著低于青年组（ $t ( 6 5 ) { = } { - 7 . 0 1 }$ ， $p { < } 0 . 0 0 1$ ），表明老年组索引节点的邻近节点的连接情况（个数）显著小于青年组，且当索引节点被消除时，老年组个体每个子图的信息交换能力显著低于青年组；同时，老年组的小世界属性显著低于青年组（ $t ( 6 5 ) { = } { - 4 . 9 0 }$ ， $p { < } 0 . 0 0 1$ ），表明老年被试脑网络的功能整合和分离能力均显著低于青年被试。
+
+# 4.3脑功能指标与行为指标之间的关系
+
+这里依次将安静状态下的脑功能活动的三个层次的指标与行为指标进行相关分析：1）局部脑区的功能活动与行为指标的相关性：ReHo、ALFF；2）局部脑区间的功能连接与行为指标的相关性：Voxel-wise FC、ROI-wiseFC；3）脑功能网络拓扑属性与行为指标的相关性：局部拓扑属性、全局拓扑属性。
+
+# 4.3.1ReHo与行为指标之间的关系
+
+对组间差异最大脑区的 ReHo 值与个体的整体运动一致性阈值进行相关分析，并进行 Bonferroni 校正，结果显示个体左侧视觉联合皮层（ $r { = } 0 . 4 0$ ， $\scriptstyle { p = 0 . 0 0 1 }$ ）、右侧次级视皮层（ $_ { r = 0 . 3 4 }$ ， $\scriptstyle { p = 0 . 0 0 4 }$ ）和右侧视觉联
+
+1 合皮层（ $\scriptstyle \cdot = 0 . 3 4$ ， $\scriptstyle { p = 0 . 0 0 4 }$ ）小部分区域的局部一致性与阈值之间存在显著的正相关；个体右侧视觉联合皮  
+2 层的大部分区域（ $\scriptstyle \cdot = - 0 . 3 9$ ， $\scriptstyle { p = 0 . 0 0 1 }$ ）、右颞中回（ $\scriptstyle 1 = - 0 . 3 5$ ， $\scriptstyle { p = 0 . 0 0 4 }$ ）和左颞中回（ $r { = } { \_ } 0 . 4 4$ ， $\scriptstyle { p < 0 . 0 0 1 }$ ）
+
+3 的局部一致性与阈值之间存在显著的负相关，其它相关效应不显著。
+
+![](images/8627bdb4669a0017d2743e16a17877e164fcd63d3e48d963ef4d00aea831fca2.jpg)  
+图5个体的脑局部一致性与整体运动一致性阈值之间的相关性
+
+# 4.3.2ALFF与行为指标之间的关系
+
+对组间差异最大脑区的ALFF 值与个体的整体运动一致性阈值进行相关分析，并进行 Bonferroni校正，结果显示个体右颞中回（ $\scriptstyle \cdot = - 0 . 4 7$ ， $p { < } 0 . 0 0 1$ ）和左颞中回（ $\scriptstyle \cdot = - 0 . 4 6$ ， $p { < } 0 . 0 0 1$ ）的低频振幅与阈值之间均存在显著的负相关。
+
+![](images/34d2d2367923aa2df2e0e7a0fa2c6706a8a1d799039f28999c8482f519d1a216.jpg)  
+图6个体脑区的低频振幅与整体运动一致性阈值之间的相关性
+
+# 4.3.3Voxel-wiseFC与行为指标之间的关系
+
+对存在显著差异的基于体素的功能连接值与个体的整体运动一致性阈值进行相关分析，并进行Bonferroni校正，结果显示个体V2区与左初级运动皮层( $\scriptstyle \cdot = 0 . 3 0$ $\scriptstyle { p = 0 . 0 1 3 } .$ ，V3区与左次级视皮层 $\scriptstyle ( - 0 . 4 6$ $p { < } 0 . 0 0 1$ ），MT/V5区与左侧前运动皮层（ $\scriptstyle \cdot = 0 . 3 0$ ， $\scriptstyle { p = 0 . 0 1 5 }$ ）之间的功能连接强度与阈值之间均存在显著的正相关；个体V3区与右视觉联合皮层（ $\scriptstyle \cdot = - 0 . 3 7$ ， $\scriptstyle { p = 0 . 0 0 2 } .$ ），MT/V5区与右角回（ $\scriptstyle \cdot = - 0 . 4 2$ ， $p { < } 0 . 0 0 1$ ）之间的功能连接强度与阈值之间存在显著的负相关，其它相关效应不显著。
+
+![](images/d0ad6e40083251b763ffa47bb783597fb70852f735fd9d7c2fd7dd1c15d2ea59.jpg)
+
+![](images/e6473d0fb0063c63f46fec59ba5d4bd3de3cb30f2802c4b3203da110d3b406a3.jpg)  
+图7个体基于体素的功能连接与整体运动一致性阈值之间的相关性
+
+# 4.3.4ROI-wiseFC与行为指标之间的关系
+
+对兴趣区之间的功能连接值与个体的整体运动一致性阈值进行相关分析，结果显示个体V1区与V3区（ $\scriptstyle { r = 0 . 4 2 }$ ， $p { < } 0 . 0 0 1$ ）、V1区与MT/V5区（ $_ { r = 0 . 3 5 }$ ， $\scriptstyle { p = 0 . 0 0 4 }$ ）、V2区与V3区（ $\scriptstyle \cdot = 0 . 3 6$ ， $\scriptstyle { p = 0 . 0 0 3 }$ ）、V2 区与MT/V5区（ $_ { r = 0 . 3 1 }$ ， $_ { p = 0 . 0 1 2 }$ ）和V3区与MT/V5区 $\scriptstyle ( - 0 . 2 6$ ， $\scriptstyle p = 0 . 0 3 6 { \mathrm { . } }$ ）之间的功能连接强度与阈值之间均存在显著的正相关，但V2区与MT/V5 区和V3区与MT/V5区之间的功能连接与阈值之间的相关性未能通过Bonferroni校正。且V1区与V2区间的功能连接与阈值之间相关效应不显著（ $_ { r = 0 . 2 2 }$ ，$\scriptstyle { p = 0 . 0 7 8 } )$ ）。
+
+![](images/8f48e52fa0005677b39f6eac0b0ac0997ca4d4163d9f02afb3c98b154caaa50f.jpg)
+
+![](images/0b84e2ec78c3880c9f65c97d5ed9f5ee2e8b25675798e9ad41773e90366d1ca0.jpg)  
+图8个体基于兴趣区的功能连接与整体运动一致性阈值之间的相关性
+
+# 4.3.5兴趣区网络局部拓扑属性与行为指标之间的关系
+
+分别对脑网络局部属性存在显著差异的节点度 $K$ 、效率 $E _ { n o d a l }$ 和介数 $b$ 与个体的整体运动一致性阈值进行相关分析，结果显示个体左视觉联合皮层/角回（ $\cdot - 0 . 2 5$ ， $\scriptstyle { p = 0 . 0 4 0 }$ ）和左颞极区/颞中回（ $\scriptstyle 1 = - 0 . 2 8$ $\scriptstyle { p = 0 . 0 2 2 }$ ）的节点介数，右下脚后区（ $\cdot r { = } \ – 0 . 3 3$ ， $\scriptstyle { p = 0 . 0 0 6 }$ ）和右颞上回（ $\scriptstyle \cdot = - 0 . 3 7$ ， $\scriptstyle { p = 0 . 0 0 2 }$ ）的节点效率与阈值之间均存在显著的负相关。左初级/次级视皮层的节点度（ $_ { 1 r = 0 . 2 6 }$ ， $\scriptstyle { p = 0 . 0 3 6 }$ ），右初级/次级视皮层的节点效率（ $\scriptstyle \left. r = 0 . 2 4 \right.$ ， $\scriptstyle { p = 0 . 0 4 9 }$ ）与个体的阈值存在显著的正相关，但仅右下脚后区和右颞上回的节点效率与阈值之间的相关性能通过Bonferroni校正。其它相关效应不显著。
+
+![](images/50e247b1bdfb323e836ff0e8d104050117f2ba0a49d20f706528093ca38c9682.jpg)
+
+![](images/c114004c85c65eddeab7d6f66786bfde8b4c46b7dc3887128d056bed7df7035f.jpg)  
+图9个体脑网络局部拓扑属性与整体运动一致性阈值之间的相关性
+
+# 4.3.6全脑网络全局拓扑属性与行为指标之间的关系
+
+对存在显著差异的脑网络全局属性与个体的整体运动一致性阈值进行相关分析，并进行 Bonferroni 校正，结果显示脑网络的聚类系数（ $r { = } { \ - } 0 . 3 2$ ， $\scriptstyle { p = 0 . 0 0 9 }$ ）和局部效率（ $\scriptstyle \cdot = - 0 . 3 2$ ， $\scriptstyle { p = 0 . 0 0 9 }$ ）与个体的阈值之间存在显著的负相关，其它相关效应不显著。
+
+![](images/f0f0a048890cba4b369c86ed4c131e9020d2ddf7713255e44174685470462722.jpg)  
+图10个体脑网络的全局拓扑属性与整体运动一致性阈值之间的相关性
+
+# 5讨论
+
+研究采用随机点阵范式，首次运用静息态功能磁共振成像技术，探索性地对GMP老化的神经基础进行了系统分析。行为实验结果表明，老年组整体运动一致性阈值显著低于青年组，支持了GMP 存在老化的观点。Rs-fMRI结果表明，老年组GMS 的下降与安静状态下背侧神经通路的功能活动，尤其是MT/V5区的功能特点有关，并且还可能与脑网络的拓扑属性有关。
+
+# 5.1脑局部功能变化与整体运动知觉的老化
+
+ReHo 和ALFF均是基于体素的局部rs-fMRI数据分析方法，分别反映了局部神经元活动的时间同步性
+
+（Zang et al.,2004）和强度特征（Zang et al.,2007）。多个研究发现静息态下脑局部功能的变化和老年人认知功能或精神状态的改变存在相关性（Jia et al.,2015; Kong et al.,2017;Lee&Hsieh,2017）。如 Jia 等（2015）发现，轻度认知障碍老年患者左内侧额回的ALFF 值显著低于健康对照老年组，而其右侧颞下回及后扣带回的ALFF 值显著高于对照组。Lee和Hsieh（2017）发现，老年人停止行为反应和静息态下局部脑区（如颞下回、梭状回等）的ReHo、ALFF 间呈负相关。可见，虽然老化可能会改变大脑网络，但与年龄相关的大脑网络的自发活动仍然可以作为反映健康中老年人群中与行为表现下降相关的个体差异的一个有效指标。本研究发现，老年组双侧视觉联合皮层（V3区）和双侧颞中回（MT/V5区）的ReHo值和双侧MT/V5区的 ALFF值均显著低于青年组；且均与整体运动一致性阈值负相关，即阈值越大（GMS 越低），这些脑区的局部一致性越低。结果提示，GMP的老化可能和健康老年人双侧MT/V5区神经元活动的时间同步性下降和强度降低有关，本结果符合前人文献所述的MT/V5区和V3区的功能特征。先前研究发现，MT/V5区和V3区，尤其是颞顶枕联合区的MT/V5区，在整体运动知觉加工中起着更为重要的作用（Newsome &Paré,1998;Braddick & Qian,2001; Cai et al.,2014; Pitzalis etal.,2013; Chen et al.,2016）。如 Braddick 和 Qian（2001）的研究发现，相比于噪声运动，被试观看一致运动的随机点时V5 和V3a产生更强的激活，而噪声运动对V1区的激活更强。Cai等（2014）借助经颅磁刺激（cTBS）的研究发现，V3a刺激选择性地减弱了局部运动加工，而 MT+刺激选择性地减弱了整体运动加工。Ward等（2018）和Biehl等（2017）也发现，在GMP 任务态中，老年人在MT/V5 区的激活大于青年人。
+
+# 功能麻亦儿动知
+
+功能连接反映了不同脑区的血氧水平依赖信号（BOLD）随时间变化的同步活动程度（Friston,2011）。本研究发现，与青年组相比，老年组各兴趣区间的功能连接强度更高，且V1区与V3区、V1区与 MT/V5区、V2区与V3区间的连接强度与阈值均显著正相关，即功能连接强度越大，GMP 阈值越高，GMS 越差。兴趣区外，老年组MT/V5区与左侧前运动皮层的功能连接强度更高且与阈值显著正相关，MT/V5 区与右角回的功能连接强度更低且与阈值呈负相关。结果提示，GMP 的老化可能与安静状态下加工运动信号的脑区特别是负责整体运动加工的MT/V5区与其它脑功能区间的功能连接加强有关。先前研究也发现，老年人认知能力的下降和特定功能网络的连接增强有关（Damoiseaux et al.,2008; Antonenko et al.,2012）。例如，Damoiseaux 等（2008）的研究发现老年人在注意、执行功能和加工速度测试中的表现均显著差于青年人，同时老年人这些测试中的表现与默认网络前侧功能连接强度呈显著负相关。Antonenko 等（2012）以种子点为基础，分析双侧 Brodmann 44/45区间的功能连接，发现左右种子点之间的功能连接强度与老年人（64\~76岁）语法学习成绩呈显著的负相关。Fountain-Zaragoza 等（2019）发现老年人包含额顶叶、内侧额叶、默认模式和运动节点的注意加工子网络功能连接的增强与持续注意力预测模型中注意力控制能力的
+
+减弱相关。
+
+# 5.3脑功能网络的拓扑属性变化与整体运动知觉的老化
+
+本研究发现，老年人脑网络的拓扑属性与青年人存在很大差异，老年人脑网络的功能整合和分离能力均显著低于青年人，进一步支持了老年人大脑存在普遍性的功能衰退的观点（Liu et al.,2020; Cao et al.,2014; Geerligs et al.,2015; Ajilore et al.,2014; Achard & Bullmore,2007; Sala-Llonch et al.,2014）。例如，Achard 和 Bullmore（2007）的研究发现青年和老年被试均具有“小世界”属性，但是老年被试的各项网络属性均显著劣于青年被试。Ajilore 等（2014）的研究发现脑网络的局部效率随着年龄的增长逐渐降低，而局部和全局效率均与执行功能和信息加工速度存在显著地正相关（Wen et al.,2011）。Sala-Llonch 等（2014)发现，年龄与平均最短路径长度和聚类系数呈正相关，提示全局网络功能整合的下降和功能分离的升高。该研究还发现老年人远程连接的强度减弱，功能分离程度加强，似乎表明信息加工的局部聚类程度增高，且该增高与记忆表现呈负相关。Geerligs 等（2015）和Cao等（2014）均发现老年人脑网络局部效率低于青年人。
+
+更重要的是，本研究还发现了与老年人GMS变化有关的局部和全局网络属性的变化。脑网络局部拓扑属性的分析结果表明，老年组GMS 的下降与颞区的节点效率有关，颞区的节点效率越低，GMS 越低。结果提示，老年人GMS 的下降伴随着颞叶皮层节点信息传输能力的减弱，结果也再次证明了MT/V5 区的功能改变在老年组GMS 降低中的重要性。老年组全脑网络全局属性中的聚类系数和局部效率显著低于青年组，且均与个体的阈值之间存在显著的负相关。结果表明老年组GMS 下降的同时，全脑索引节点的邻近节点的连接情况（个数）显著小于青年组，且当索引节点被消除时，老年组个体每个子图的信息交换能力显著低于青年组。综合来看，老年人GMS 的下降不仅与背侧视觉通路关键节点如MT/V5区的功能改变有关，还可能与全脑更广泛区域的功能改变有关。
+
+# 5.4伴随GMP老化的脑自发功能变化的理论解释
+
+目前，主要有两种观点可以解释GMP老化相关的脑功能变化。一种是“背侧神经流脆弱”的观点，认为老年脑的这种变化有可能是视运动知觉本身的功能架构的发展性本质导致的。例如，Porter等（2017）用这一观点解释了阿尔兹海默症患者GMS 的损伤，指出相对于腹侧神经通道（加工整体形式知觉），背侧神经通道更为脆弱易损。Taylor等（2018）用这一观点解释了儿童的GMS 显著低于成年人，且儿童整体运动知觉任务中 MT/V5双侧激活程度和功能连接程度相对较高的结果。另一种是“去分化”的观点或假设，认为老年脑的这种变化可能反映了大脑功能去分化过程或补偿机制（Cabeza,2002;Farras-Permanyeret al.,2019；综述 Seidler etal.,2010）。例如，Meier等（2012）发现老年人（55\~86岁）感觉运动网络和任务控制网络之间的功能连接强度显著高于青年人（18\~35 岁），反映了老年人的认知系统对感觉运动能力的普遍下降的补偿作用。Farras-Permanyer 等（2019）用功能的补偿机制解释了80 岁以上老年人的功能
+
+1 连接稍强于48\~79岁人群的现象。Ward等（2018）和Biehl等（2017）也用“去分化”解释了老年人GMP  
+2 任务诱发的脑功能特征。据此，我们推测“背侧神经流脆弱”和“去分化”可能都和老年人GMS 的下降  
+3 有关，但更准确的作用机制，如二者各占着什么样的权重，或是在什么节点上起作用尚需要更多的实验研  
+4 究去探索。
+
+本研究发现老年人GMS 的下降伴随着脑局部和整体自发功能活动的变化，揭示了GMP老化和个体安静态下脑功能的关系，从另一角度证明了MT/V5区在GMP 加工中的重要性，也为大脑局部的自发活动有可能作为健康老年人群行为老化的一个有效指标的观点提供了新的证据。但本研究也存在一定局限性：如 $\mathrm { N g }$ 等（2016）跨时4年（2\~3个时间点）追踪了78名平均68.03岁老年人的静息态功能变化，发现执行控制和默认模式网络间的功能连接随年龄变化先降后升。Geerligs 等（2015）基于全脑发现59\~74 岁老年人的功能连接总体上逐渐下降。Farras-Permanyer 等（2019）发现，80岁以上人群的功能连接强度高于48\~79 岁人群。这些研究提示，静息态脑功能和年龄间的关系可能是非线性的。本研究局限性之一是采用横断研究设计难以获得老年人GMS 变化的动态过程，也难以考察年龄的中介效应；局限之二是就横断研究本身而言，本研究单组样本量相对较小（老年组31名，青年组36名），分组考察行为指标和脑静息态功能指标的相关性时较难得到显著性结果。在得到脑功能指标和行为指标的整体相关性后，本研究尝试了分组探讨老年人脑功能指标与行为指标的相关性、青年人脑功能指标与行为指标的相关性，但没有得到有意义的结果。今后有必要扩大研究对象的年龄范围（如从成年早期到老年晚期连续取样），并增加老年组每个年龄段的被试人数以进一步分组探讨GMS 在老年期的动态变化，更深入地探讨年龄在脑功能变化和行为变化间的中介作用；在条件许可时对被试进行长期的追踪研究以获得更为连续的数据、得到更为科学的结果。
+
+# 6结论
+
+本研究首次考察静息态下青年人和老年人GMP加工相关脑区的局部功能活动特征、功能连接强度、局部网络拓扑属性和全脑网络全局拓扑属性之间的差异，及其与个体GMP之间的关系。结果表明，老年人GMS 的下降可能不仅与安静状态下背侧视觉通路特别是MT/V5区的功能改变有关，还可能与全脑更广泛区域的功能改变有关，为进一步寻找缓解GMP老化的方法提供了神经层面的理论依据。
+
+# 致谢
+
+本研究的数据采集与分析过程得到了王正光、赵光、章鹏、李骋诗、邵梦灵、张琪涵、刘丽庆、张雪、贾丽娜、陈俊涛、魏士林、阴晓娟、张羽萍，贾熙泽，范阳等的帮助与指导，在此一并致谢。同时，非常感谢所有被试对本研究的支持。
+
+# 参考文献
+
+Achard,S.,&ullmore,E.(o).Efciencydcostofonomicalbrainfucionalnetworks.oomputationalology(2), e17.   
+Ajilore,O.,Lamar,M.&Kumar,A.(14).Associationofbainnetworkeiencywithagingdepresion,andcogione American Journal ofGeriatric Psychiatry,22(2),102-110.   
+Antonenko,D.,Meinzer,M.,Lindenberg,R.,Wite,A.V.,&Flel,A.(0l2).Grammarlearninginlderadultsislnkedtohite matter microstructure and functional connectivity. NeuroImage, 62(3),1667-1674.   
+Barthelemy,M.(2010). Spatial networks. Physics Reports, 499(1),1-101.   
+Benett,P.J.,Sekuler,R.&Sekuler,A.B.(27).Thefectsofagingonmotiondetectionanddirectionidentification.Vision Research,47(6),799-809   
+Biehl,S.C.,Andersen,M.,Waiter,G.D.&PilzK.S.(20l7).Neuralchangesrelatedtomotionprocesinginhalthyaging. NeurobiologyofAging,57,162-169.   
+Bilino,J.,&Pilz,K.S. (2019). Motion perceptionas a model for perceptual aging.Journalof Vision,19(4),1-28.   
+BraddickO.,&QianN. (20ol).Theorganizationofglobal motionandtransparency.In: ZankerJM.,ZeilJ. (Eds),Motion Vision (pp.85-112). Springer, Berlin, Heidelberg.   
+Cabeza,R. (2002). Hemisphericasymmetryreductioninlderadults:theHAROLmodel.PsychologyandAging,17(1),-100.   
+Cai,P.,Chen,N., Zhou,T.,Thompson,B.,&Fang,F.(2014).Global versus local: double dissociation between $\mathrm { m t ^ { + } }$ and v3a in motionprocessingrevealedusingcontinuous theta burst transcranial magnetic stimulation.Experimental Brain Research, 232(12), 4035-4041.   
+Cao,M.,Wang,.,DiZ,CaoX.,Jiang,LFan,F.,..HeY.().Topologicalorganzatioofthehumanbraifuctioal connectome across the lifespan. Developmental Cognitive Neuroscience, 7,76-93.   
+Chen,N.,Cai,P.,hou,T.,ompson,B,&Fang,F.(216).Perceptualleaing modifesthefunctionalspecialzatiosfvisal corticalreas.Proceedings oftheNational AcademyofSciencesofthe United StatesofAmerica,113(20),5724-5729.   
+Damoiseaux,J.S.(2O17).Efectsofaging on functional and structural brainconnectivity.Neurolmage,160,32-40.   
+Damoiseaux,J.S.BeckmaC.F.zArigita,E.J.,rkhof,F.,heltes,P.H.,Stam,C.J..obouts,S.A.R..0 Reducedresting-statebrain activity inthe "default network" in normal aging. Cerebral Cortex,18(8),1856-1864.   
+Farras-Permanyer，L.，Mancho-Fora,N.，Montala-Flaquer，M.，Bartres-Faz,D.，Vaqué-Alcazar，L.，Per6-Cebolero，M.，& Guardia-Olmos,J.(20l9).Age-relatedchanges inresting-statefunctionalconnectivityinolder adults.NeuralRegeneration Research,14(9),1544-1555.   
+Fereira,L.K,satG.(l).estigtateucioalotiityioalagigNerosience&oial Reviews,37(3),384-400.   
+Fountain-Zaragoza,S.,Samimy,S.,Rosenberg,M.D.,&Prakash,R.S.(2O19).Connectome-based modelspredictattentional control in aging adults. Neuroimage,186,1-13.   
+Friston.K.J. (1994).Functionalandefectivecoectivityinneuroimaging: asythesis.Humanbrain mapping,2(-2),5678.   
+Friston,K. J. (21).Functionalandeffectiveconectivity: areview.Brainconectivity1(1),13-36.   
+Gerligs,L.,enken,R.aliasi,E.,Maurits,N,&Lorist,M.(2O15).Abrain-widestudyofage-relatedchangesinfunctioal connectivity. Cerebral Cortex,25(),1987-1999.   
+Grill-Spector,K.,&Malach,R. (2o4).The human visual cortex. Annual Review ofNeuroscience,27(1),649-677.   
+He,Y.,Dagher,A.,Chen,Z,Charil,A.,Zjdenbos,A,WorsleyK.，&Evans,A.(2009).Impairedsmal-worldefficiencyin structural cortical networks inmultiple sclerosis associated with white matter lesionload.Brain,132(12),3366-3379.   
+Hutchinon,C.V.,Arena,A.Alen,H.A.&edgeway. (2).sychpysicalcorrelatesof gobal motioprocessingthe aging visual system: a critical review. Neuroscience and biobehavioral reviews, 36(4),1266-1272.   
+Itahashi,T.,YmadaWatanabe,H,akamura.,mboioda,S.asimoto. (4).terednetworktoplog and hub organization in adults with autism: a resting-state fMRI study. PloS ONE,9(4), e94115.   
+Jacob,Y.os,ag,K.heier,utS.VaG.daniP.(9).uraelattio in major depressive disorder: a brain network analysis. Neurolmage: Clinical,25,102142.   
+Jia,B.,LuZ,n,ang,ou.Y.Jia,J.(5).etscupuctureatreaauptste intrinsic brainactivityinmildcognitive impairment patients.Evidence-Based ComplementaryandAlternative Medicine,2015, 1-9.   
+Kavcic,V.,Martin,T.,&Zalar,B.(2O13).Agingefectsonvisualevokedpotentials (VEPs)formotiondirectiondiscriination International journal of psychophysiology,89(1),78-87.   
+Kong,X.,Xu,S.Sun,Y,Wang,K.，Wang,C.,Zhang,J...Xie,X.(217).Electroconvulsivetherapychangestheregioalesting state functionmeasuredbyregional homogeneity(ReHo)and amplitudeoflow frequency fluctuations (ALFF)in elderlymajor depressive disorder patients: An exploratory study. Psychiatry Research: Neuroimaging, 264,13-21.   
+Kravitz,D.J.,Saleem,K.S.,Baker,C.1,& Mishkin,M.(20l1).Anewneural frameworkforvisuospatial processing.Nature Reviews Neuroscience,12(4), 217-230.   
+Kunchulia,M.,Kotaria,N,iz,K.,Kotorashvili,A.,&rog,.H. (9).Associatisbetweegeneticariatiosdlobal motion perception. Experimental brain research, 237(10),2729-2734.   
+Lacherez,P.,uer,Lester,R.urs,Z.,&Wood,J..(4).Agerelatedchangesipercetionofovementiniving scenes. Ophthalmic & physiological optics,34(4),445-451.   
+LeeH.,& Hsieh,S. (2O17).Resting-state fMRIasociated with stop-signaltask performanceinhealthymiddle-agedand elderly people.Frontiers in Psychology, 8,766.   
+Li,M.,Cen,H，Wang,J.,iu.,ng,Z.，Wang,Y..hen,H.(4).andednes-andemisphererelatedercn small-world brain networks: a difusion tensor imaging tractography study. Brain connectivity,4(2),145-156.   
+Li,Y.,Guo,S., Wang,Y.,&Chen,H.(20l7).Altered motionrepulsion inazheimer'sdisease.ScientificReports,7(1)1-13.   
+Liao,W.,Zhang,,Mantini,D.,Xu,Q.,Wang,，hen,G..LuG. (23).Relationshipetweenlarge-salefunctonaland structural covariance networks in idiopathic generalized epilepsy. Brain connectivity,3(3),240-254.   
+Lindenberger,U.,&Baltes,P.B.(1994).Sensoryfunctioningandintellgenceinoldage:astrongconection.Psychologadagng 9(3),339-355.   
+Liu,X.,Si,S.,Hu,.,Zhao,H.,&ZuJ.().Agneratientworkmodeloftheumanbainnoralgingprocesset 12(1), 91.   
+Lu,Z.L.,&Dosher,B.A. (1999).Characterzing humanperceptualinefciencieswithqivalentinteraloise.Journalofthe Optical Society of America, 16(3),764-778.   
+Meier,T.B.,Desphande,A..,Vergun,S.,Nair,V.A,ong,J.swal,B..rabakaran,V. (2).upportvectracie classificationand characterizationofage-related reorganizationoffunctional brainnetworks.Neurolmage,60(1),601-613.   
+Narasimhan,S.,&Giaschi,D.(O12).Theefectofdotspeedanddensityonthedevelopmentof globalmotionperception.Vision Research,62,102-107.   
+Newsome,W.T.,&Pare,E.B.(988).Aselectiveimpairmentofmotionpereptionfollowinglesionsof themidletemporalvisual area (mt).Journal of Neuroscience the Official Journal of the Society for Neuroscience, 8(6),2201-2011.   
+Ng,K.K.,LoJ.C.,Lim,J.K.W.,Chee,M.W.L.,&Zhou,J. (216).Reducedfunctionalsegregationbetweenthedefaultode network and the executive control network in healthy older adults: a longitudinalstudy. Neurolmage,133,321-330.   
+Owsley, C. (2011). Aging and vision. Vision Research,51(13),1610-1622.   
+Peters,R.,White,D.J.,&Scholey,A.(02).Restingstatefirevealsdierentialeectsofglucoseadmiistrationocetral appetite signalling in young and old adults. Journal of Psychopharmacology,34(3), 026988111989454.   
+Pilz,K.S.,ilr,L,Agnew,H.C.(7).otiocohreneandirectiondiscrimnatininalhyging.JouralofVision 17(1), 31.   
+Pitzalis,S.,FatoriP,&alei,C.(3).ecialolftedialoioeaV6Frotirsinevialnece, 6,91.   
+Porter,G.,Wael,J,cO.J,s.).trjeor global form and global motion processing in aging,mildcognitive impairment and Alzheimer's disease.Neurobiologyofaging, 56, 17-24.   
+Raichle,M.E.,&Snyder,A.Z. (2Oo).Adefault modeofbrain function:abrief historyofan evolving idea.Neuroimage,37(4), 1083-1090.   
+Sala-Llonch,nque,rena-Uruo.da-eiros-Pedret,ClaciosE.BartresFa4). Changes in whole-brain functional networks and memory performance in aging.Neurobiology of Aging,35(10),2193-2202.   
+Seidler,R.D.,erard,J.A,Burutou,T.ing.WGordo,.Tin,J....ips,D..().otorold aging:Linkstge-relatedbrainructural,functionalndiohemicaleects.Nuroscience&iobeavioralRevie4(), 721-733.   
+Smith,C.DUmbegerG.H,ang,E.Levin,J.T.,Wekstein,D.Rhi,F.A,..sh,D..(9).Criaci in fine motor hand movements in human aging. Neurology, 53(7), 1458-1458.   
+Sporns,O.，Tononi,G.，&Koter,R.(20o5).Thegumanconectome:astructural descriptionof the humanbrain.PLoS Computational Biology, 1(4),e42.   
+Taylor, C.M.,Olulade,O.A.,Luetje,M.M.,&Eden,G.F.(018).Anfmristudyofcoherentvisualmotionprocsing inchildren and adults. Neuroimage, 173,223-239.   
+VertesP.E.,Alexander-loch,A.FGogtayN.Giedd,J.N,apoport,J.L,ullmore,E.T.(l2).implemdelsofn brain functionalnetworks.Proceedingsof theNationalAcademyof Sciencesof the United Statesof America109(15), 5868-5873.   
+Wang,J.,Wang,X,Xia,M.,Liao,X.,Evans,A.,&He,Y.(20l5).GRETNA:agraphtheoreticalnetworkanalysis toolboxfor imaging connectomics.Frontiers in human neuroscience, 9,386.   
+Wang,Q.,WeiHiu,DHa,angQ.u,J,&ing,Y.().unctioloivityinrkinson'easpatisi mild cognitive impairment. Research Square. Under review.   
+Ward,L.M.,orison,G.immers,A.J,&hahani,U.(2018).Age-relatedchangesinglobalmotioncoherence:conflicting haemodynamic and perceptual responses. Scientific reports,8(1),10013.   
+Wen,W.,Zu,,He,Y.Kocha,N.A.epernd,S.in,.J.chdev.().screteneuroaatoicaltr are associated with specific cognitive abilities in old age. Journal of Neuroscience,31(4),1204-1212.   
+Wilis,A.,&AndersonS.J.(o).Efectsofglaucomaandagingophotopicandsotopicmotionperception.Investigative Ophthalmology&Visual Science,41(1),325-335.   
+Woodard,J.L.eidenberg,.,ielson,K.A.mithJ.C.ntuonoP.,urgerian,S..ao..(2).Predictioof cognitive decline in healthy older adults using fMRI. Journal ofAlzheimer's Disease, 21(3),871-885.   
+Yan,C.G.,Wang,X.D.,Zuo,X.N.,Zang,Y.F. (2016).DPABI: dataprocesing&analysisfor(resting-state）brainimaging Neuroinformatics14,339-351.   
+Yan,L.,Zhuo,YWang,B.,&Wang,D.J.(2l1).Lossofcoherenceoflowfrequencyfuctuationsofboldfmri invisualcortexof healthy aged subjects. The Open Neuroimaging Journal, 5(Suppl 1),105-111.   
+Yap,P.T.,Wu,G,&Shen,D.(2l0).Humanbrainconnectomics: networks,techniques,ndapplications[lifesciences].EEE Signal Processing Magazine,27(4),131-134.   
+Zang,Y.,He,Y,Zhu,C.,Cao,Q.,Sui,M,Liang,M...Wang,Y.(2O7).AlteredbaseliebrainactivityinchildrenwithADHD revealed by resting-state functional MRI. Brain and Development,29(2), 83-91.   
+Zang,Y.,Jiang,T.,Lu,Y.,He,Y.,&ian,L.(24).egionalhomogeneityapproachtofIdataanalysis.Neurimage(1), 394-400.   
+Zhang, J,Wang,J.,Wu,Q.,Kuang,W.HuangX.,He,Y.,&Gong,Q.(l1).Dsruptedbraincoectivitynetworksindrugnaive, first-episode major depressive disorder. Biological Psychiatry, 70(4),334-342.
+
+# Aging of global motion perception is accompanied by the changes of
+
+# 2 resting-state functional activity in the middle temporal gyrus
+
+3 JIN Hua123; LIANG Ziping123; ZHU Ziliang123; YAN Shizhen123; LIN Lin123; AISIKAER Aikedan4; YIN   
+4 Jianzhong4; JIANG Yunpeng123; TIAN Xin5   
+5 (KeyReseaadecftcelU   
+6 300387,China)   
+7 (2Faculty ofPsychology,TianjinNormal University,Tianjin 30o387,China)   
+8 (CenterofColoieoiooesstdomooftalaltinlUeity   
+9 (4 DepartmentofRadiology,TianjinFirstCentral Hospital,Tianjin 3ooi92,China)   
+.0 (SchoolofSportsScience andPhysical Education,TianjinNormal University,Tianjin3oo387,China)
+
+# Abstract
+
+Global motion perception (GMP) is an important aspect of visual perception. Numerous studies have found that GMP of cognitively healthy elderly declines with aging and it cannot be explained by age diferences n the visual system.The neural mechanism of aging on GMP remains unclear. Resting-state fMRI has been widely used to detect the internal spontaneous activityoftheaging brain.Thus,whether the functional activity of brain regions related to the GMP forthe elderly in the resting state is an effective indicator of their global motion sensitivity (GMS)stillneeds further investigation.To reveal the neural basis of GMP decline for the elderly, the relationships between the resting-state functional activities of GMP related brain areas (Regions of Interest, ROI: V1, V2,V3, and MT/V5) and individuals' motion coherence threshold (MCT) were analyzed by using rs-fMRI technology.
+
+In this study, Random Dot Kinematogram (RDK) paradigm was used to evaluate an individual's GMS with the MCT as the indicator.A higher threshold of the RDK task meant lower sensitivity. Meanwhile,the rs-fMRI data of 36 younger adults ( $M = 2 2 . 0 4$ years old) and 31 older adults ( $M = 6 5 . 0 5$ years old) were acquired using rapid echo-planar imaging (EPI) sequence from a 3T Siemens Prisma magnetic resonance scanner, with $\mathrm { T R } { = } 2 \mathrm { s }$ $\mathrm { T E } { = } 3 0 \mathrm { m s }$ ，Time points $\scriptstyle 1 = 2 4 0$ (young) or 246 (old). Rs-fMRI data were preprocessed and processed using SPM (http://www.fil.ion.ucl.ac.uk/spm)and DPABI (htp://rfmri.org/dpabi) toolbox to obtain the functional activities of the ROIs,including ReHo,ALFF, voxel-wise FC,and ROI-wise FC.Then,the regional measures including three nodal centrality metrics (degree $K .$ ，efficiency $E _ { n o d a l }$ and betweenness $b$ ） and the global measures including small-world parameters (clustering coefficient $C _ { p }$ ， characteristic path length $L _ { p ; }$ , normalized clustering coefficient $\gamma$ normalized characteristic path length $\lambda$ ， and small-worldness $\sigma$ ）and network efficiency (Global efficiency $E _ { g l o b }$ （204 and Local efficiency $E _ { l o c . } \mathrm { ~ }$ ） were calculated using GRETNA (htp//www.nitrc.org/projects/gretna/） graph toolbox.
+
+To determine whether there were significant group diferences in these functional properties,two-sample t-tests were performed on each metric. When significant between-group differences in any functional metrics were obtained,the Pearson correlation coeffcients among these metrics and individuals’MCT were further calculated to assess the relationship between changes in brain function and GMP aging.   
+Results showed that 1) the ReHo values of right V3 and bilateral MT/V5 for older adults were significantly lower than that of younger adults,as well as the ALFF of bilateral MT/V5,and these functional metrics were significantly negatively corelated with individuals’ MCT; 2) The FCs between V2 and left primary motor cortex, V3 and left secondary visualcortex,MT/V5 and left premotor cortex,as well as theFCs between V1, V2, V3 and MT/V5 regions for the older adults were significantly stronger than that of younger adults,and these FCs were correlated with individuals’MCT；3） Older adults’ $K , \ E _ { n o d a 1 }$ and $b$ of most nodes in temporal lobe were significantly lower than younger adults,and the $E _ { n o d a l }$ of the right temporal cortex were significantly negatively correlated with individuals’MCT； 4) Older adults’ global network properties including small-world parameters $( C _ { p } , \gamma , L _ { p } , \lambda ,$ and $\sigma$ ）and network efficiency ( $\underbrace { E _ { g l o b } } _ {  { \left. { \left. \frac {  } { \left. } \mathrm { ~ \right. ~ } } \righ\right.t. } }$ and $E _ { l o c } \Dot { \mathbf { \Omega } }$ ） were all significantly lower than younger adults’,with $C _ { P }$ and $E _ { l o c }$ significantly negatively correlated with their MCT.
+
+These findings suggested that the decline of GMS for the elderly was associated not only with functional changes in the dorsal visual pathway,especialyin the MT/V5,but may also with functional changes in broader areas of the whole brain,which supported the theory of "dedifferentiation".
+
+Key wordsGlobal motion perception; aging; resting-state fMRI; MT/V5 area

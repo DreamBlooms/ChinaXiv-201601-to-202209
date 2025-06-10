@@ -1,0 +1,194 @@
+# A data pipeline for Optical and Near-infrared Solar Eruption Tracer
+
+Xinhua Wang1,²，Dong Chen¹， Tao Deng³，Hongbing Dai³，Yongyuan Xiang (1. Yunnan Astronomical Observatories, Chinese Academy of Sciences Kunming Yunnan 650011; 2．University of Chinese Academy of Sciences Beijing 100049; 3．School of Information, Yunnan University kunming Yunnan 650504)
+
+Abstract: With the advent of large astronomical equipments, the traditional development model for data reduction faces problems such as redundancy of programs and conflicting environmental dependencies; Besides as a cluster is a highly coupled computing resource,serious environmental conflicts can lead to the unavailability of the entire cluster.To address this problem, we have developed a new pipeline framework using the concept of microservices. This paper presents the ONSET data pipeline developed through this framework. To achieve near real-time data processing, we optimize the core program using MPI and GPU technologies and evaluate the final performance.The results show that this development model can be built in a short time to meet the requirements of the pipeline,and we believe that this development model has implications for future multi-band and multi-terminal astronomical data processing.
+
+Keywords: ONSET; data pipeline; container; GPU
+
+Chinese library classification number: P1 $\mathbf { 8 2 . 2 + 1 }$ TP751.2 Document code:A
+
+# 1. Introduction
+
+Large astronomical facilities lead astronomy to the era of big data. How to process these data become a major problem before the astronomical community at present. Hence,data pipeline is one of the key means for astronomers to understand the data.
+
+Normally,a data pipeline will be developed in either monolith or modular way.The pros and cons of these 2 approaches has been discussed for years. And modulization design for data pipeline is the main stream up to now.Besides,deploying a data pipeline is rather a hard work for most of times,as the dependency and other problems may arise with regard to OS of your platform.
+
+In order to tackle this situation,we try to apply a new framework based on virtualization technology for data pipeline development for ONSET at FSO. Some details of this new framework will be discussed in this paper. In section 2,we introduce the basic information of ONSET, some details of data pipeline based on new framework is presented in Section 3.Then in section 4 and 5,we show result of using CUDA for near-realtime data processing.Finally, we briefly discussed some possible improvements for the data pipeline for ONSET.
+
+# 2. Overview of ONSET
+
+The Fuxian Lake Solar Observatory (FSO) is located in Yunnan, China. FSO has two telescope, Optical and Near-infrared Solar Eruption Tracer (ONSET)[3] and 1m New Vacuum Solar Telescope (NVST). ONSET is jointly developed by Yunnan Observatory and Nanjing Institute of Astronomical Optics Technology，and funded by Nanjing University. Its effective diameter is $2 7 5 \mathrm { m m }$ and observe the sun in three wavelength: He I1O83OA,Ha and white-light at $3 6 0 0 \mathring { \mathrm { A } }$ and 4250A.show in Tab.1.The corona, chromosphere and photosphere can be observed simultaneously in a full-disk or partial-disk solar with a field of $1 0 ^ { , 9 }$ . At present, there are two acquisition cameras, namely Andor Neo and Flash4.O V3.Neo’ s conventional observation mode is to collect 1O sets of full-plane or partial images of the sun every minute,with an image size of $8 5 2 \mathrm { x } 8 5 2$ ； Flash's regular observation mode is to collect 1O sets of full-plane or partial images of the sun every 30 seconds, with an image size of 1700x1700.150 frames per group .data volume is shown in Tab.2.
+
+Since the data of ONSET and NVST have similar data processing flow, the pipeline framework designed can be used to develop the pipeline of ONSET. This has the advantage of reducing repetitive work and accelerating pipeline deployment. Next we describe the development of the ONSET pipeline.
+
+Table1ChannelsofONSET   
+
+<html><body><table><tr><td>Channels</td><td>Wavelength(A)</td></tr><tr><td>Ha</td><td>6562.8±5 Tunable</td></tr><tr><td>White light</td><td>3600，4250</td></tr><tr><td>Near ingrared</td><td></td></tr><tr><td></td><td>10830±0.85 Tunable</td></tr></table></body></html>
+
+Table 2 Sampling rate of ONSET   
+
+<html><body><table><tr><td>Camera</td><td>Data(8h/day)</td><td>Data Volume(200days)</td></tr><tr><td>Andor Neo</td><td>65GB</td><td>12.7TB</td></tr><tr><td>Flash4.0</td><td>258GB</td><td>50.4TB</td></tr></table></body></html>
+
+# 3. Data pipeline for ONSET
+
+At present, data products of ONSET are classified into three levels:
+
+$\bullet$ Level O data: raw data, unprocessed data collected by the cameras.   
+$\bullet$ Level O.5 data: level O data calibrated by flat and dark processing, then using frame selection and reconstruction by speckle interferometry and speckle masking.   
+$\bullet$ Level 1 data: According to filed situation of observations,add headers to level O.5 data and save them in FITS format. Level 1 data is science-ready data and can be used for scientific research.
+
+Transfer Node is responsible for saving the raw data to the storage device and sharing the mounting point to computing center via a high-performance network (1OGbE).Finally, the raw data is processed into science-ready data by computing center. Then science-ready data is archived
+
+![](images/0a1081ebb870a0258cb97f0fe4be5ecfada28cd9ad87ed57d00edbf1579c5d90.jpg)  
+Fig.1.Diagram of ONSET hardware structure
+
+In October 2O20, ONSET decided to develop a new data pipeline.The requirements of this new pipeline is as follows:
+
+1) Using speckle-masking method to process all the data acquired at ONSET;   
+2) At the beginning of development, ONSET will provide a Dell R73O server (56core $\mathbf { \sigma } _ { \mathrm { s + K 4 0 G } }$ PU) for test; and finally the 8-hrs daily observation is required to be processed within 3-5 days after observation;   
+3) The development of data pipeline will be based on Python;   
+4) The quality of science ready data will be assessed by the scientist from ONSET;
+
+# 3.1 Algorithm
+
+At present， speckle mask[4] and speckle interferometryl6] are the most widely used in high-resolution solar image reconstruction，The implementation isas follows. Speckle interferometry is used to reconstruct amplitude and the speckle masking reconstructs the phase. The high-resolution reconstructed images with this algorithm were termed Level O.5 data at ONSET, or science-ready data. The algorithm flow chart is shown in Fig.2.[7]
+
+![](images/9dd4bfe1f117d0d900c0658aef66d79d2980cd0880b2d70b644773f224110d79.jpg)  
+Fig.2.Level O.5 algorithmof ONSET
+
+# 3.2 Pipeline configuration file
+
+The Pipeline configuration file provides the ability for a user-defined pipeline structure in YAML format. The YAML format is a highly readable format for expressing data serialization and is ideal for writing configuration files.The keywords of pipeline configuration file is shown in Tab.3.
+
+The data exchange of microservices in data pipeline is based on ZeroMQ's message forwarding mechanism, so users need to determine the connection relationship between microservices and bind ports and required resources through pipeline configuration file then Pipeline Parser will generate executable script according to the pipeline configuration file， support scaling and automatically submit tasks.
+
+Table 3 pipeline configuration file keywords   
+
+<html><body><table><tr><td>keywords</td><td>Value</td><td>Comment</td></tr><tr><td>Pipeline</td><td>"*appname”</td><td>microservices name</td></tr><tr><td rowspan="8">parameters</td><td>"nodes"</td><td>number of nodes required</td></tr><tr><td>“ppn”</td><td>number of processors on a single node</td></tr><tr><td>“mem”</td><td>required memory</td></tr><tr><td>“scheduler"'</td><td>resource scheduler(PBS/SLURM)</td></tr><tr><td>“workdir”</td><td>working directory</td></tr><tr><td>"savedir"</td><td> saving directory</td></tr><tr><td>“sitf”</td><td>pathofspeckleimaging transfer function</td></tr><tr><td>"script"</td><td>path of script that created by PipePaser</td></tr><tr><td rowspan="9">*app</td><td>"name"</td><td>name of apps</td></tr><tr><td>"volume”</td><td>mount the host disks to singularity</td></tr><tr><td>“sif’</td><td>path of singularity image</td></tr><tr><td>“port”</td><td>mapped port</td></tr><tr><td>"retrieval"</td><td>find interested files implemented by</td></tr><tr><td>"branch”</td><td>glob modular in python core functions</td></tr><tr><td>“archive”</td><td>path of processed data</td></tr><tr><td>"request”</td><td>requested resources</td></tr><tr><td>"mpi”</td><td>use mpi or not</td></tr><tr><td rowspan="2">retrieval</td><td>“loc”</td><td>expression</td></tr><tr><td>"notin”</td><td>filter</td></tr></table></body></html>
+
+# 3.3 Containerization of microservices
+
+The most important concept in our new framework is microservices, which first came from the Internet and refers to applications that can handle specific requests and are relatively independent of each other. One of the benefits of microservices-based development is to decouple complex functional relationships into multiple subfunctions that are single-functional and easy to maintain, so that the number of corresponding microservices can be dynamically increased or decreased to achieve scaling when the load changes. More and more programs moved from the original host environment or virtual machine environment as acarrier to the container as a carrier[1ll. After research we choose singularity,a high-performance container technology developed by Lawrence Berkeley National Laboratory specifically for large-scale， cross-node (High-Performance Computing)HPC and (Deep Learning)DL workloads[5].
+
+Our framework is to combine the term of microservices and functions of pipelines wrapped with singularity. Each microservices is a function in the data reduction wrap in a singularity image. Besides other known advantages，another advantage of this framework is to increase the performance of the pipeline through scaling by using message passing model. In theory, GPU have more computing power than CPU but to achieve $100 \%$ GPU performance requires proficiency in grid computing and other professional GPU programming knowledge. In order to release the power of GPU,our solution is to use message preemption mechanism, which could increase GPU resource utilization through scaling by means of peripheral acceleration and significantly reduce data processing time. The data processing speed is linearly related to the number of microservices without exceeding the graphics memory,as shown in Fig.3. It can significantly improve GPU resource utilization when GPU resource utilization is low.
+
+The carrier of microservices is containers. The introduction of container technology in the pipeline solves the environment dependency problem that has long plagued developers and further increases the portability. The data pipeline consists of two modules:
+
+$\bullet$ Coordinator :prepare data for other microservices   
+$\bullet$ Pipeline Parser: Parse the defined pipeline configuration file,turn it into a PBS,Slurm or standalone script and submit the task
+
+![](images/0ca103ac19643f16400455667bba85191bc1e3c36f70db38d6c7b50952029531.jpg)  
+Fig.3.Utilization rate of the GPU
+
+We decouple the pipeline into microservices as follows $\bullet$ Dark:Dark fielding the raw data. $\bullet$ Flat:Flat fielding the raw data. $\bullet$ matching:matching the data with off band. $\bullet$ corel:levell algorithm for $6 5 6 3 \mathring { \mathrm { A } }$ $\bullet$ core2: levell algorithm for 360o A and 4250 A
+
+The pipeline structure diagram based on the container is shown in the Fig.4.
+
+![](images/4f156597daecf5fa822b5dad919c1550a69e14a7148f407dae3a316e2fb6f0a9.jpg)  
+Fig.4.The pipeline structure diagram based on the container
+
+microservices bind port through Pipeline_API, the main programs are shown in Tab.4. Table 4 Code implementation of bind port through Pipeline_API   
+
+<html><body><table><tr><td colspan="2">Code implementation of bind port through Pipeline_API</td></tr><tr><td>import Pipeline API as PA</td><td>#basic library for HPVDP</td></tr><tr><td>def AppProcess(pipefile):</td><td></td></tr><tr><td>pipeline = PA.read pipe(pipefile) port in = pipeline[ 'Pipeline'][ '* appname']'port' ][ 'in']</td><td>#convert the yaml format to a dictionary format</td></tr><tr><td>port out = pipeline[ 'Pipeline']['* appname']['port'][ 'out']</td><td>#input port</td></tr><tr><td>recv = PA.bindport(port in,'in")</td><td>#output port</td></tr><tr><td>send = PA.bindport(port out,out")</td><td>#bind the input port #bind the output port</td></tr></table></body></html>
+
+# 4 GPU Processing within mpi4py
+
+It will take a large number of short-exposure images with high-frequency information during every observation at ONSET. Then we adopt the speckle masking method to reconstruct the phase of the image,and speckle interferometry to reconstruct the amplitude of the image. The speckle mask method involves the calculation of a 4-dimensional double spectrum and phase recursion, which are very time-consuming. Hence we tried to use GPU and MPI technology to speed up the processing time of the program. The flow chart of core algorithm is shown in Fig.5.
+
+![](images/d02359583a00c86fd99a9aa21f65e7aea901a7926eeffe69cc7009583c0dfc7c.jpg)  
+Fig.5 Flow chart of core algorithm based on MPl and GPU
+
+Within the ONSET program, the whole flow contain these steps: image preprocessng, initial image alignment, seeing estimation,speckle interferometry transfer function calculation, image block processing,image stitching,and one of the most time-consuming process in the entire program is the image block processing. After analysis, we decide to use the CUDA architecture from Nvidia GPU to execute block processing in parallel. While improving GPU utilization, we also found that CPU utilization is at a low level. In order to improve CPU utilization, the MPI programming model is adopted. Fig.6. provides common methods of MPI.
+
+![](images/3412acc3e00747501c9849444d58ca6697163446c58e5f243cce731e6213ec38.jpg)  
+Fig.6. communication category of mpi4py
+
+In MPI programing model, one important thing to do is to scatter tasks to each node. In our case, that means to scatter task of image sub-block processing all over the nodes. The master node will divides the aligned observation images into sub-block groups； then it will assign the sub-block calculation tasks to the slave nodes. The master and slave nodes are responsible for calculating the sub-block processing,andthe result of the master and slave node calculation will return to master node. But there is a limitation in MPI which impedes parallelization of data chunks with more than $2 ^ { 3 1 } { = } 2 1 4 7 4 8 3 6 4 8$ elements because the MPI standard uses C int for element count, which has a maximum value of $2 ^ { 3 1 }$ for positive value[8]. When object bigger than that, the function will report an error. To avoid this,we divide the whole data into two part for separate processing.To make a reasonable task allcation, it wil first need to calculate the length of the task by the master node,and divide the length of the task by the number of cores involved in the calculation. If it can be divided, we use the scatter function and send it to each slave node evenly. If it can't be divided, this article uses the method of adding an empty array to make it can be divided,and then use the scatter function to evenly send it to each slave node. The subsequent calculations wil start, and each node returns the corresponding result part to the master node.
+
+# Algorithm1 Strategy for scatter
+
+1:procedure DIVIDE_ TASKs(tasks_list,cores)   
+2: task1_list $$ None   
+3: task2_list ← None   
+4: cores $$ cores   
+5: if comm_rank == O then   
+6: task1_list $\gets$ tasks[: $\mathrm { i n t } \big ( \mathrm { \frac { 1 } { 2 } } * \mathrm { l e n } ( \mathrm { t a s k s \mathrm { \mathrm { . } l i s t } } ) \big ) \big ]$   
+7: $\mathrm { t a s k 2 . l i s t }  \mathrm { t a s k s } [ \mathrm { i n t } ( \frac { 1 } { 2 } * \mathrm { l e n } ( \mathrm { t a s k s . l i s t } ) )$ 1   
+8: if $\mathrm { l e n } ( \mathrm { t a s k 1 \mathrm { . l i s t } } ) / / \mathrm { c o r e s } : = 0$ then   
+9: $\mathrm { P a d d i n g } ( \mathrm { t a s k 1 . l i s t } , 0 , \mathrm { c o r e s } )$ （204号   
+10: else if $\mathrm { l e n } ( \mathrm { t a s k 2 \mathrm { . l i s t } } ) / / \mathrm { c o r e s } : = 0$ then   
+11: （204号 $\mathrm { P a d d i n g } ( \mathrm { t a s k 2 . l i s t } , 0 , \mathrm { c o r e s } )$ （204号   
+12: end if   
+13: end if   
+14: thread_tasks = scatter(task1)   
+15: result_mid1 = StartReconstructed(thread_tasks)   
+16: result_final = gather(result)   
+17: thread_tasks = scatter(task2)   
+18: result_mid2 = StartReconstructed(thread_tasks)   
+19: result_mid3 = gather(result)   
+20: APPEND(result_final, result_mid3)   
+21: return result_final   
+22:end procedure
+
+# 5. Result
+
+In order to test our data pipeline,we used $\mathbf { G P U + C P U }$ and CPU to process the WH data for test. The whole environment is list here:
+
+Hardware: Intel(R) Xeon(R) Gold 5115 CPU $@$ 2.40GHz x2,128GB RAM,GeForce RTX 2080Ti 11GB x4;
+
+Software: Ubuntu 16.04.6 LTS,CUDA 10.1, GPU driver 430.40, Singularity 3.5.0, OpenMPI l.10.7, Python 3.6.10.
+
+Ten sets of 50 frames (1700x1700pixel) of WH-band data on October 10, 2020 were selected, and each frame was chunked in an overlapping fashion with 27O4 blocks (96x96pixel) in each set.The execution time is averaged for ten sets of data. Experiments have shown that $\mathrm { C P U + G P U }$ can improve program execution speed compared to CPU mode.results are shown in Tab.5. The introduction of MPI and GPU not only brings about performance improvement, but also consumes some time due to data preparation and MPI initialization. The statistical results are shown in Tab. 6. The result is that a smallamount of data transfer between the CPU and the GPU does not incur significant performance costs but using MPI to collect data and initialize parameters imposes a significant performance overhead.
+
+Table 5 Optimization results in two methods   
+
+<html><body><table><tr><td>Pattern</td><td>method</td><td>Elapse time(s)</td></tr><tr><td rowspan="2">Serial</td><td>CPU</td><td>4607</td></tr><tr><td>CPU+GPU</td><td>3150</td></tr><tr><td rowspan="2">Parallel(MPI with 20 cores)</td><td>CPU</td><td>477</td></tr><tr><td>CPU+GPU</td><td>360</td></tr></table></body></html>
+
+Table 6 Elapse time in data preparation and initial mpi   
+
+<html><body><table><tr><td colspan="2">Data preparation and initial mpi(CPU+GPU with 2O cores)</td><td>Elapse time(s)</td></tr><tr><td rowspan="3">Data transmission between host(CPU) and device(GPU) in the pipeline</td><td>Raw data(host to device)</td><td>1.02</td></tr><tr><td>Data for bispectrum and Modulus(host to device)</td><td>0.1</td></tr><tr><td>Data for phase recursion (device to host)</td><td>0.39</td></tr><tr><td colspan="2">Initial MPI</td><td>9</td></tr><tr><td colspan="2">Gather data by MPI</td><td>40</td></tr></table></body></html>
+
+To test the efficiency of the program optimization，we tested the effect of the number of processes on execution efficiency in $\mathbf { G P U + C P U }$ mode and CPU mode,and the results showed that the program running efficiency is less sensitive to the number of processes than in CPU mode when using $\mathbf { G P U + C P U }$ mode.Fig.7 shows the result. In order to show the reconstruction results, we selected HA and White band data respectively. The result is shown in Fig.8
+
+![](images/a0bfd6b400b946d9917df849cd84da00a8885edf7cbcee89d0c7d96e22790d77.jpg)  
+Fig.7.Acceleration ratio(left) and execution time(right) in CPU and $\mathrm { C P U + G P U }$ mode with lifferent number of processes
+
+![](images/f6150e2708c841493e57a2e88002d47ed0dc2fd6f6039968a532bf52eeec6e2d.jpg)  
+Note:HA band on the top,white light band on the bottom   
+Fig.8. Original images(left) vs Reconstructed images(right)
+
+# 6. Conclusion& Discussion
+
+In this article,we developed the prototype data pipeline using a container-based pipeline framework for ONSET and optimized the original CPU program using the GPU,resulting in a significant speedup of the original program. We are planning to deploy the data pipeline in near future.ONSET's GPU server contains a tesla $\mathrm { K 4 0 m }$ GPU and Xeon(R) CPU E5-2680 v4 $\textcircled { \omega } 2 . 4 \mathrm { G H z } ( 5 6 \$ cores). It takes 53s to reconstruct a set of HA-band images and 25Os to reconstruct a set of WH-band images in this environment, so a day's worth of data (8h) takes about 14h(HA) and 66h(WH) to process respectively. And the timing requirement for data reduction at ONSET is reached.
+
+For the whole image reconstruction at ONSET, the multiple layers of judgement and loops required by the image phase reconstruction is the most time-consuming.Obviously this logical operation is more efficiently executed by the CPU than the GPU,we are working on how to speed up this process with CPU now. In general, further improvements to the algorithm are necessary to enable near-realtime processing.
+
+From our practice, it was found that this development model allowed for flexible modifications to the microservices,which enables to add more required functionality to the pipeline in time without having to modify the entire program.We believe that this container-based development model will save a lot of time both in the development and deployment of the astronomical data pipelines， while astronomical facilitiesare nowmovingtowardsmulti-terminal and multi-wavelength.
+
+# 7. Acknowledgement
+
+This work is supported by the National Natural Science Foundation of China (U1831210, 11973088).
+
+# References
+
+[1].Liu Ying, Zhang Mo, Huang Maohai. Astronomical Data Archive System Test Based on Docker Technology. Astronomical Research and Technology,2020,17(2): 217-223.   
+[2]. Yao Kun, Dai Wei， Yang Qiuping， Mei Ying， Shi Congming，Wang Feng. Automatic Deployment Method of Astronomical Application Software Based on Container Technology. Astronomical Research and Technology, 2019,16(3): 321-328.   
+[3]. Cheng Fang, et.al. A new multi-wavelength solar telescope: Optical and Near-infrared Solar Eruption Tracer(ONSET).Research in Astron. Astrophys,2013,13(12):1509-1517   
+[4].Lohmann， A.W.，et.al. Speckle masking in astronomy: triple correlation theory and applications.Appl. Opt. 22,4028-4037   
+[5].Kurtzer, G.M, et.al. Singularity: Scientific containers for mobility of computer. PLOS ONE 12, 1-20.   
+[6]. Weigelt,G.， Modified astronomical speckle interferometry “speckle masking". Optics Communications 21, 55-59   
+[7]. Xiang Yongyuan .et.al. Reconstruction method of high resolution solar image. Progress In Astronomy, 2016,34(1)   
+[8].Alex M. Ascension and Marcos J. Ara u zo-Bravo.BigMPI4py: Python module for parallelization of Big Data objects.bioRxiv, (2019).
+
+# ONSET数据流水线
+
+王新华1,2，陈东1，邓涛3，代红兵3，向永源1
+
+（1.中国科学院云南天文台 云南 昆明 650011；2.中国科学院大学 北京 100049;3.云南大
+
+# 学信息学院 云南昆明650504）
+
+摘要：随着天文大科学设备的投入，传统的开发模式面临程序重复开发，环境依赖冲突等问题；另外，集群是一个高度耦合的计算资源，严重的环境冲突可能导致整个集群的不可用。为了解决这个问题，我们采用微服务的概念开发了新的流水线框架，这种框架可以实现短期内开发和部署新的流水线。本文介绍了通过这种框架开发的ONSET数据流水线，为了实现近实时数据处理，我们采用MPI和GPU技术对核心程序做了优化，并对最后的性能做了评估。结果表明这种开发模式可以在短期内搭建满足需求的流水线，并且我们相信这种开发模式对于未来多波段多终端的天文数据处理有借鉴意义。
+
+关键词：ONSET;数据流水线;容器;GPU

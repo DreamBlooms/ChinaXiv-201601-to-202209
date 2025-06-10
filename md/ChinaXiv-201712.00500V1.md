@@ -1,0 +1,91 @@
+临床研究
+
+# 支气管肺泡灌洗术治疗危重患者的生存分析
+
+华县龙，陈新玉，赖汝标广东省翁源县人民医院重症医学科，广东韶关512600摘要：目的探讨支气管肺泡灌洗术(BAL)治疗危重患者的生存期差异。方法 收集重症监护室149例使用呼吸机辅助呼吸的重症患者作为观察对象,分为BAL组及未使用BAL的对照组,对患者进行2年的随访,使用Kaplan-Meier法比较两组的生存期差异。结果治疗后两组的APACHEII及简化急性生理评分II评分均明显下降，且均以BAL组上述两项评分显著低于对照组( $P <$ 0.05)。两组分别有5例及7例患者治疗1周内死亡,分别占 $6 . 9 4 \%$ 及 $9 . 1 0 \%$ ,第1周病死率无统计学差异 $\scriptstyle \chi ^ { 2 } = 0 . 1 6 8 , P = 0 . 6 8 2 )$ 。BAL组最长生存期的患者大于124周，且该例患者删失;而对照组最长生存期为104周;BAL组的生存期的算术均数及中位数分别为43.5、30.0周,而对照组分别为33.2、25.0周,Kaplan-Meier生存分析显示BAL组的生存期显著长于对照组（ $\scriptstyle x ^ { 2 } = 4 . 4 1 9 , P =$ 0.036)。结论 尽管使用与不使用BAL短期内对患者的生存率无明显差异,但使用BAL治疗的患者的生存期显著长于不使用BAL者，提示BAL可改善危重患者的远期预后。
+
+关键词：支气管肺泡灌洗术；APACHE评分；SAPS评分；生存分析
+
+# Survival analysis on the critical patients underwent bronchoalveolar lavage
+
+HUAXianlong,CHENXinyu,LAI Rubiao Departmentof Severe Medical Science,Wengyuan County People's HospitalofGuangdong,Shaoguan 51260o,China
+
+Abstract: Objective To explore the diferenceofsurvival timebetween patients with severeandsevere patients treatedwith bronchoalveolarlavage (BAL).Methods Atotalof149 critical patients whoreceived mechanical ventilator were enrolld and divided into the BAL and non-BAL groups. We performed 2 years followed-upand compared the survival times of 2 groups through Kaplan-Meier analysis.Results The APACHE II and theacute physiology score II declined significantlyafter treatment for 2 groups.APACHE IIas well SAPS IIin the BAL group were significantly lower than tose in the non-BAL group. There were 5 $( 6 . 9 4 \% )$ and 7 $( 9 . 1 0 \% )$ patients died during the first week, but the difference of mortality between the two groups was not significant ( $\scriptstyle \chi ^ { 2 } = 0 . 1 6 8 ,$ $\scriptstyle P = 0 . 6 8 2 { \mathrm { , } }$ ). The longest survival time in BAL group was 124 weeks and the patient was censored,butthelongestsurvival timeinthenon-BALgroupwasjust104 weeks.Thearithmetic meanandmedianofsurvival time in BAL group were 332 and25.0 weks,respectively. Kaplan-Meier analysis showedthatthe survival times inthe BAL group were apparently longer than those in the non-BAL group $\scriptstyle ( \chi ^ { 2 } = 4 . 4 1 9 ,$ $P { = } 0 . 0 3 6 )$ . Conclusion Although there is no significant diference of survival rate between the BAL and non-BAL group, patients in the BAL group have significantly longersurvival imes thanthose in the non-BAL group.Our study indicates thatBALcanimprove the prognosis for the critical patients who received mechanical ventilator.
+
+Key words: bronchoalveolar lavage; APACHE score; SAPS scores; survival analysis
+
+尽管使用与不使用支气管肺泡灌洗术(BAL)短期内对患者的生存率无明显差异，但使用BAL治疗的患者的生存期显著长于不使用BAL者，提示BAL可改善危重患者的远期预后。随着交叉学科的发展，BAL在重症监护室(ICU)的使用日益增多。目前关于BAL的报道多数集中在观察其短期疗效,较长期的观察较少[2]ICU多为濒危患者，病死率较高，因此特别适合生存期及生存率的观察。经过长期随访，本研究通过Kaplan-Meier法分析了ICU重症患者的生存情况，发现接受
+
+BAL患者的生存期显著长于对照组，研究过程如下。
+
+# 1资料与方法
+
+1.1一般资料
+
+以2009年6月\~2014年1月我院ICU住院的危重患者作为观察对象，共入选149例，其中男89例，女60例，年龄39\~81岁。病因分别为：颅脑外伤后合并肺部感染51例，多发伤15例，胸部外伤9例，慢性阻塞性肺病并发呼吸衰竭21例，重症肺炎29例，肺癌8例，大面积脑梗死6例，脑出血3例，重度有机磷农药中毒5例，癫痫并吸入性肺炎2例。全部经胸片或胸部CT诊断为肺部感染、肺不张。按照患者是否接受BAL，分为BAL组及对照组3，经检验两组的性别构成及年龄均无统计
+
+学差异 $( P { > } 0 . 0 5 )$ 。
+
+# 1.2 治疗方法
+
+BAL组参考陈新玉等4的方法，采用日本OLYMPUSBFP40型纤支镜，术前予高流量鼻导管吸氧(机械通气者氧浓度调至 $8 0 \% \sim 1 0 0 \%$ )。人镜后先吸痰，随后将镜插入病变所在的肺段或亚段支气管开口处，再从活检孔快速注入灌洗液( $3 7 ~ \mathrm { ^ { \circ } C }$ 生理盐水 $\mathrm { 1 5 0 ~ m L + }$ 阿米卡星 $0 . 2 ~ \mathrm { g } +$ 盐酸氨溴索 $1 5 { \mathrm { ~ m g + } }$ 地塞米松 $5 \mathrm { m g }$ )，注入$1 0 { \sim } 2 0 ~ \mathrm { m L } / \mathcal { N K }$ ，保留15\~30s后再以 $5 0 { \sim } 1 0 0 ~ \mathrm { m m H g }$ 负压吸引回收液体。术中密切观察生命体征及血氧饱和度等指标变化。视情况反复分次分肺段进行灌洗。行BAL术2\~3次/周；对照组给予常规治疗。
+
+# 1.3评价与随访
+
+在入院ICU时及治疗 $^ { 7 2 \mathrm { ~ h ~ } }$ 后对所有患者进行APACHEII及SAPSII评分5；对两组患者进行随访，为期2年，方式为电话、邮件、到诊等方式，了解患者病情变化。比较两组的生存期(周);当在某个时间点确认该患者仍存活但后续失访，则该时间点记录为删失，用 $^ { \circ } +$ ，表示[。
+
+# 1.4 统计学方法
+
+定量资料采用均数 $\trianglerighteq$ 标准差表示，使用卡方检验比较性别构成差异；使用两独立样本 $t$ 检验比较两组间定量指标的差异，配对t检验比较治疗前后指标差异；使用Kaplan-Meier法分析两组患者的生存期中位数及累积生存率差异(删失赋值为"0”,死亡赋值为"1")[6-7]。运用SPSS17.0处理数据， $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+# 2.1APACHE与ASPS评分
+
+治疗前两组的APACHEII及SAPSII评分均无组间差异 $( P { > } 0 . 0 5 )$ 。与治疗前比较,两组患者治疗后的APACHEII及SAPSII评分均明显下降，差异有统计学意义 $( P { < } 0 . 0 5 )$ ，但治疗后BAL组APACHEII及SAPSII评分均显著低于对照组( $\scriptstyle - { P < 0 . 0 5 }$ ，表1)。
+
+表1两组患者一般情况及评分比较 $( \overline { { x } } \pm s )$   
+
+<html><body><table><tr><td rowspan="2">分组</td><td rowspan="2">n</td><td colspan="2">性别</td><td rowspan="2">年龄(岁)</td><td colspan="2">APACHE I评分</td><td colspan="2">SAPS I评分</td></tr><tr><td>男</td><td>女</td><td>治疗前</td><td>治疗72 h</td><td>治疗前</td><td>治疗72 h</td></tr><tr><td>BAL组</td><td>72</td><td>43</td><td>29</td><td>58.29±18.03</td><td>20.43±6.79</td><td>15.32±4.21*</td><td>41.56±13.72</td><td>34.67±9.17*</td></tr><tr><td>对照组</td><td>77</td><td>46</td><td>31</td><td>60.52±19.17</td><td>19.57±6.54</td><td>17.01±6.14*</td><td>40.91±14.05</td><td>38.49±11.36*</td></tr><tr><td>x</td><td></td><td>0.168</td><td></td><td>-2.892</td><td>2.335</td><td>-3.826</td><td>3.025</td><td>-4.192</td></tr><tr><td>P</td><td></td><td>0.682</td><td></td><td>0.079</td><td>0.083</td><td>0.038</td><td>0.069</td><td>0.029</td></tr></table></body></html>
+
+$^ { * } P { < } 0 . 0 5 \ v s$ 治疗前.
+
+# 2.2预后与随访情况
+
+两组分别有5例及7例患者治疗1周内死亡，分别占 $6 . 9 4 \%$ 、 $9 . 1 0 \%$ ,第1周病死率无统计学差异 $( \chi ^ { 2 } =$ $0 . 1 6 8 , P { = } 0 . 6 8 2 ,$ ),其中死因前3位分别为多器官功能障碍综合征、感染性休克、脑疝。BAL组有13例患者删失，删失率 $1 8 . 0 6 \%$ ；对照组有11例删失，删失率$1 4 . 2 9 \%$ ，两组删失率无统计学差异( $\scriptstyle P = 0 . 5 3 3 ,$ 。观察组最长生存期的患者大于124周，且该例患者删失；而对照组最长生存期为104周，该患者无删失。
+
+# 2.3Kaplan-Meier分析
+
+BAL组生存期的算术均数及中位数分别为43.5、30.0周，而对照组分别为33.2、25.0周(表2)。在随访的125周内，其中前10周的两组的累积生存率明显下降无明显差异(图1),但随着随访时间的延长，两组的累积生存率差距增大，且两组均明显下降。经Kaplan-Meier生存分析Logrank(Mantel-Cox)检验法(各时间点权重一样)，得出 $\chi ^ { 2 } { = } 4 . 4 1 9 , P { = } 0 . 0 3 6$ ,说明两组患者的生存期差异具有统计学意义。
+
+表2两组患者生存期均数及中位数比较  
+
+<html><body><table><tr><td rowspan="2">分组</td><td rowspan="2">n</td><td rowspan="2">最长存活期(周)</td><td colspan="4">生存期的算术均数(周)</td><td colspan="4">生存期的中位数(周)</td></tr><tr><td rowspan="2">均数</td><td rowspan="2">标准误</td><td colspan="2">95%可信区间</td><td rowspan="2">均数</td><td rowspan="2">标准误</td><td colspan="2">95%可信区间</td></tr><tr><td></td><td>下限</td><td>上限</td><td>下限</td><td>上限</td></tr><tr><td>BAL组</td><td>72</td><td>124+</td><td>43.468</td><td>6.896</td><td>29.952</td><td>56.984</td><td>30.000</td><td>5.382</td><td>19.451</td><td>40.549</td></tr><tr><td>对照组</td><td>77</td><td>104</td><td>33.246</td><td>4.654</td><td>17.125</td><td>35.368</td><td>25.000</td><td>6.666</td><td>1.935</td><td>28.065</td></tr></table></body></html>
+
+![](images/b6beb8835274d965a69a8881976958ec6aaf0dda4c379d4181c6ed56678202fb.jpg)  
+图1两组患者的累积生存率比较
+
+# 3讨论
+
+在ICU病房中，有相当高比例昏迷病人由于长期卧床或无力咳嗽，痰液常不能排除而滞留于支气管内，造成严重的肺部感染或肺不张，影响通气或换气功能，甚至呼吸衰竭死亡8。BAL被认为是一种安全、快速有效、简便实用的方法，尤其对于呼吸衰竭和严重肺部感染的危重患者，往往能大大提高危重病人的抢救成功率，明显缩短住院时间,疗效确切,值得在ICU中推广[9。然而，BAL的临床报道多为短期观察，究竟BAL对ICU患者的远期效果及预后影响如何，目前尚缺少相关探讨，使ICU医师深化认识BAL的临床价值有所欠缺。
+
+本研究发现，治疗前两组的性别构成、年龄、APACHEII及SAPSⅡI评分均无组间差异，说明两组具有较好的可比性。治疗后 $7 2 \mathrm { { h } }$ （以上患者均无在72h内死亡）,发现两组患者治疗后的APACHEII及SAPSII评分均明显下降，与方明等[报道具有一致性，提示不论是否接受BAL，两组患者均获得一定疗效，但治疗后BAL组APACHEII及SAPSII评分均显著低于对照组，这初步说明在治疗后 $7 2 \mathrm { { h } }$ ，使用BAL患者的病情改善更为明显，其原因可能是BAL在清除痰液的同时，还能够更好的清除急性肺损伤所产生的炎性物质，后者是引起全身瀑布式炎症反应的重要物质基础[]
+
+通过第1周病死率的比较，发现两组同样无统计学差异，且低于于洪涛等2报道的呼吸机相关性肺炎病死率，其原因是本研究的患者原发病为非呼吸系统疾病所占的比例稍高(约 $1 5 . 7 \%$ )。以上比较说明在1周内，BAL的优势未明显发挥。以上比较局限在短期亦即在院期间的比较，并不能很好的说明BAL的远期效果，因此通过为期2年的随访进一步比较两组的差异。随访发现BAL组删失率与对照组删失率无统计学差异，说明两组在随访过程中仍有较好的可比性。观察组最长生存期的患者大于124周且删失；而对照组最长生存期为104周并无删失，提示BAL组最长存活时间起码比对照组长20周。然而，该比较为个案层面，未能反映整组的差异，因此通过Kaplan-Meier生存分析进行比较。尽管在随访的前10周的两组的累积生存率明显下降无明显差异，但随着随访时间的延长，两组的累积生存率差距明显增大，且并发现BAL组的生存期的算术均数及中位数均明显长于对照组。经Kaplan-Meier生存分析最终发现两组患者的生存期差异具有统计学意义。
+
+尽管使用与不使用BAL短期内对患者的生存率无明显差异，但使用BAL治疗的患者的生存期显著长于不使用BAL者，提示BAL可改善危重患者的远期预后，故对于具有BAL适应症的患者，尽管其费用较高，且本院患者经济状况欠佳，但出于其优效的目的，应动员家属接受BAL治疗。
+
+# 参考文献：
+
+[1]Fukuhara N,Tachihara M, Tanino Y,et al.Cholesteryl palmitatecrystalsin bronchoalveolar lavage fluid smears as a possibleprognostic biomarkerfor chronic interstitial pneumonia:Apreliminary study[J].Respir Investig,2016,54(2):109-15.  
+[2]Mikerov AN,Phelps DS,Gan X,et al. Effect of ozone exposureand infection on bronchoalveolar lavage: sex differencesinresponse patterns[J]. Toxicol Lett,2014,230(2): 333-44.  
+[3］尹辉明,杨宏亮,刘继民,等.监测降钙素原与感染细胞在呼吸机相关性肺炎的早期诊断价值[J].中国呼吸与危重监护杂志,2013,12(5):454-6.  
+[4]陈新玉，赖汝标,林玉瑜,等.支气管镜介入治疗颅脑损伤后急性呼吸功能不全疗效观察[J].右江医学，2012,40(1):26-8.  
+[5]李 岩,李春盛.简化急性生理学评分Ⅲ与其他评分方法对急诊严重脓毒症患者28d死亡的预测能力比较[J].中华危重病急救医学,2015, 27(6): 454-9.  
+[6]李晓芸,罗刚健,黎尚荣,等.术前血肌酐和尿素氮正常患者肝移植早期急性肾损伤的发生与生存分析[J].中山大学学报:医学科学版,2013,34(3): 397-401.  
+[7] Tamai K,Tachikawa R,Tomii K,et al. Prognostic value ofbronchoalveolar lavage in patients with non-HIV pneumocystispneumonia[J]. Intern Med,2014,53(11): 1113-7.  
+[8］张宏伟,魏立友，刘淑正,等.保持呼吸机管路低位对预防呼吸机相关性肺炎的作用[J].中华急诊医学杂志,2015,24(1):68-71.  
+[9]占明.纤维支气管镜联合肺泡灌洗术治疗呼吸机相关性肺炎患者的临床疗效分析[J].中华肺部疾病杂志:电子版,2014,7(4):8-11.  
+[10]方 明,张 琳,王道标,等.急性肺损伤患者血清及肺泡灌洗液和肽素水平变化的临床分析[J].中华危重症医学杂志:电子版,2011,4(3):155-61.  
+[11]颜卫峰,秦龙,刘秋旻,等.纤维支气管镜在重症医学科临床诊断中的应用[J].中华医学杂志,2015,95(29):2372-4.  
+[12]于洪涛,贾金广，王敏,等.呼吸重症监护病房呼吸机相关性肺炎的危险因素分析[J].中国呼吸与危重监护杂志,2011,10(1):69-73.

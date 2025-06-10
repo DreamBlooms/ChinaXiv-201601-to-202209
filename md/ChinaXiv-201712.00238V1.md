@@ -1,0 +1,116 @@
+临床研究
+
+# 分期输尿管软镜钬激光碎石术与微通道经皮肾镜碎石术治疗2-4cm肾结石的随机对照临床研究
+
+李建伟，王芳，蔡芳震，高宏志福建医科大学附属第二医院泌尿外科，福建 泉州 362000摘要：目的 比较分期输尿管软镜/钬激光碎石术(FURS)与微通道经皮肾镜碎石术(m-PCNL)治疗 $2 { \sim } 4 ~ \mathrm { c m }$ 肾结石的有效性和安全性。方法 选取我院2013年1月\~2015年12月收治的符合纳人标准的肾结石患者70例,应用计算机程序随机分为A组（分期FURS)和B组(m-PCNL),每组各35例。观察比较两组的总治疗时间、总术后住院时间、总治疗费用、治疗成功率、术后血红蛋白下降程度和并发症发生率。结果在临床疗效方面,A、B两组的治疗成功率均为 $100 \%$ ，两组间差异无统计学意义 $( P { > } 0 . 0 5 )$ ，但是A组的完全结石清除率为 $6 5 . 7 1 \%$ ，B组为 $9 4 . 2 9 \%$ ,A组明显低于B组，两组间差异有统计学意义 ${ \scriptstyle \stackrel { \prime } { P } } { \scriptstyle < 0 . 0 1 } .$ ;A组无临床意义结石残留率为 $34 . 2 9 \%$ ，B组为 $5 . 7 1 \%$ ,A组明显高于B组，两组间差异有统计学意义 $( P { < } 0 . 0 1 )$ 。在治疗安全性方面，A组手术前后血红蛋白下降程度为 $3 . 3 7 { \pm } 1 . 5 6 ~ \mathrm { g / L , B }$ 组为 $1 1 . 9 3 { \pm } 2 . 2 4 ~ \mathrm { g / L } ,$ A组明显低于B组，两组间差异有统计学意义 ${ \scriptstyle \cdot } { \cal P } { \scriptstyle < } 0 . 0 1 .$ )。A组并发症发生率为 $6 . 2 5 \%$ ，B组为 $9 . 3 7 \%$ ，两组间差异无统计学意义 $( P { > } 0 . 0 5 )$ ，轻微并发症A组出现1例为发热，B组出现2例为自限性血尿;主要并发症A组出现1例为输尿管石街，B组出现1例为输血。A组两次治疗的总治疗时间为 $4 . 0 6 { \pm } 1 . 1 1 \$ 周，B组为 $1 . 2 6 \pm$ 0.47周,A组明显长于B组,两组间差异有统计学意义( $P { < } 0 . 0 1 \$ );A组的总术后住院时间为 $3 . 6 6 { \pm } 1 . 2 9 \mathrm { d } , \mathrm { B }$ 组为 $5 . 1 3 { \pm } 0 . 4 3 \mathrm { ~ d ~ }$ ，两组间差异无统计学意义 $( P { > } 0 . 0 5 )$ ;在总治疗费用方面,A组为 $5 4 ~ 2 9 1 . 0 0 { \scriptstyle \pm 6 1 4 9 . 0 0 }$ 元，B组为 $2 3 \ 4 8 2 . 0 0 { \pm } 2 3 1 7 . 0 0$ 元,A组明显高于B组，两组间差异有统计学意义（ $( P { < } 0 . 0 1 )$ 。结论FURS对于 $2 { \sim } 4 ~ \mathrm { c m }$ 肾结石有良好的疗效和安全性，分期手术对提高较大负荷肾结石的完全结石清除率是必要的，先进的技术设备和丰富的手术经验是治疗成功的关键。
+
+关键词：肾结石；微通道经皮肾镜；输尿管软镜；安全性；有效性；随机对照试验
+
+# Staged retrograde flexible ureteroscopic lithotripsy versus miniaturized percutaneous nephrolithotomy for renal stones of $2 { \cdot } 4 \ \mathbf { c m }$ in diameter: a randomized controlled trial
+
+LI Jianwei,WANGFang,CAI Fangzhen,GAO Hongzhi DepartmentofUrology,SecondAfiliatedHospitalofFujianMedical University,Quanzhou 362ooo,China
+
+Abstract: Objective To comparethe eficacyand safety of staged retrograde flexibleureteroscopic lithotripsy (FURS)and miniaturized percutaneous nephrolithotomy (m-PCNL) for treatment of renal stones of $2 { \cdot } 4 \ \mathrm { c m }$ in diameter. Methods This randomized controlled trial was conducted in 7O patients with renal stones of $2 { \cdot } 4 \ \mathrm { c m }$ in diameter admitted in our hospital between January 2013 and December 2015.The patients were randomized to receive staged FURS (35 cases) or $\mathbf { m }$ -PCNL (35 cases),andthetotal treatmenttime,total hospitalstayafter procedure,totalmedicalcost,treatmentsuccessdecrease in hemoglobin level and complications were compared between the two groups.Results The treatment success rate was $1 0 0 \%$ in both groups, but the complete stone-free rate was significantly lowered in FURS group than m-PCNL group ( $6 5 . 7 1 \%$ US $9 4 . 2 9 \%$ $P { < } 0 . 0 1 \rangle$ ). The average decrease in hemoglobin level was $3 . 3 7 { \scriptstyle \pm 1 . 5 6 ~ \mathrm { g / L } }$ in FURS group and $1 1 . 9 3 { \scriptstyle \pm 2 . 2 4 ~ \mathrm { g / L } }$ in m-PCNL group ( $P <$ 0.01). The overall complication rates in the two groups were $6 . 2 5 \%$ and $9 . 3 7 \%$ ，respectively $( P { > } 0 . 0 5 )$ . Minor complications (grade Iby Clavien-Dindo clasification)occurred in one case in FURS group (fever)and two cases in m-PCNL group (self-limiting hematuria); major complications (grade Il)ocurred inonecase inFURS group (steinstrase)andonecase in m-PCNL group (blood transfusion). In staged FURS and m-PCNL groups, the mean total treatment time was $4 . 0 6 { \pm } 1 . 1 1$ Us $1 . 2 6 \pm$ 0.47 weeks $( P { < } 0 . 0 1 )$ ， the mean hospital stay after procedure was $3 . 6 6 \pm 1 . 2 9$ Us $5 . 1 3 \pm 0 . 4 3$ days $( P { < } 0 . 0 1 )$ ，and the mean total medical cost was $\yen 54291.00 { \pm } 6149.00$ US $\yen 23482.00 { \pm } 2317.00$ $( P { < } 0 . 0 1 )$ , respectively. Conclusion FURS is safe and effective for treatment of renal stones of $2 { \cdot } 4 ~ \mathrm { c m }$ in diameter, and a staged procedure is necessary to achieve a stone-free status for large calculi. Both sophisticated equipment and rich surgical experience are essential to ensure treatment success.
+
+Key words:renal calculus; mini-percutaneous nephrolithotomy;flexibleureteroscopy;safety; eficacy;randomizedcontroled trial
+
+输尿管软镜/钬激光碎石术(FURS)具有微创、安全、恢复快及可重复治疗等优点[12],已被欧洲的结石治疗指南推荐为 $2 \mathrm { c m }$ 以下肾结石的一线治疗方法[3，对一些 $2 \mathrm { c m }$ 以上但不适合采取PCNL治疗的特殊类型肾结石患者也有较好的治疗效果[45]。但受输尿管软镜碎石效率低、耐用性差以及部分患者需要分期治疗等因素限制[67]，该治疗方式是否适用于 ${ \cdot > } 2 \ \mathrm { c m }$ 肾结石的常规治疗目前还存在争议[8-10]。为此,本文通过临床对照研究的方法评价了分期FURS和微通道PCNL(m-PCNL)治疗$2 { \sim } 4 ~ \mathrm { c m }$ 肾结石的有效性和安全性，旨在探讨分期FURS在 $2 { \sim } 4 \ \mathrm { c m }$ 肾结石治疗中的临床应用价值。
+
+# 1资料和方法
+
+# 1.1研究对象和分组
+
+1.1.1纳入标准 (1)直径在 $2 { \sim } 4 ~ \mathrm { c m }$ 的单发肾结石；(2)年龄在18\~65岁之间，男女不限；(3)签署知情同意书。
+
+1.1.2 排除标准 (1)患者年龄 $^ { < 1 8 }$ 岁或 $> 6 5$ 岁；(2)曾行PCNL治疗；(3)已知输尿管狭窄、严重畸形和肾脏解剖异常的患者；(4)合并严重尿路感染或肾积脓，重度肾积水，凝血功能障碍疾病的患者；(5)严重心脏疾病和肺功能不全，无法耐受手术者；(6)多发肾结石。
+
+1.1.3 随机方法通过计算机程序,按照1:1的比例将病例分入分期FURS(A组)和m-PCNL组(B组)。
+
+1.1.4分配隐藏采用第3人分配隐藏。计算机程序和病例分配由专人负责。接诊和治疗医生在随机分组前不知道病人将进入的组别。
+
+1.1.5盲法由于治疗前需向患者详细介绍治疗方法，同时实施FURS和m-PCNL的医生术前必须知道患者所选用的治疗方法，因此外科手术治疗无法实现患者和操作者盲。但我们对临床资料的整理、分析和结果评价者不告知患者所实施的治疗方法，即盲试验资料的分析和结果评价者。
+
+1.1.6研究对象患者来源于福建医科大学附属第二医院泌尿外科住院治疗的肾结石患者，结石直径和体积通过双源CT平扫后测量确认。纳入截止2015年12月30日。从2013年1月1日\~2015年12月30日共有92例患者符合本研究的纳入条件，但最终签署知情同意书的患者有70例，其中FURS组(A组)35例，m-PCNL组（B组)35例。对两组患者间的年龄、性别、体质量指数、结石直径、结石体积和结石CT值等基线资料进行统计学处理,组间差异均无统计学意义 $( P { > } 0 . 0 5 )$ ,具有可比性(表1)。
+
+1.1.7样本量估计和随机设计根据以前相关研究的数据决定本研究的样本量大小[11]。在m-PCNL组,血红蛋白下降程度平均为 $5 . 5 \%$ ,而在FURS组为 $1 . 5 \%$ 。经过计算，检验的显著性设为0.05,把握度为 $90 \%$ 时，每组最少患者量为30名。本研究共选取70名患者，通过计算机程序将患者随机分入 $\mathbf { m }$ -PCNL和分期FURS组，每组各35例。
+
+1.1.8伦理要求本研究获得福建医科大学附属第二医院伦理委员会批准，认为符合赫尔辛基宣言和地方法规的相关要求和标准。参与本研究患者在治疗前对研究目的、方法、过程及可能存在的风险均知情，并签署手术同意书和临床研究知情同意书。
+
+# 1.2 治疗方法
+
+所有患者的治疗均由两位FURS和m-PCNL手术经验分别超过100例的外科医师完成，患者均采用静-气复合麻醉。
+
+1.2.1FURS组手术方法患者取截石位，用 $\mathrm { F r 8 . 0 / 9 . 8 }$ Wolf输尿管硬镜逆行进入术侧输尿管至肾孟输尿管连接部，将0.035英寸斑马导丝插入肾集合系统。调整手术床至 $1 5 ^ { \circ }$ 头低斜坡位，然后在X线监视下沿导丝放置Fr12/14输尿管软镜通道鞘(Cook,American)，推入深度至肾盂输尿管连接部下 $1 \mathrm { c m }$ 处，退出内芯和导丝，沿软镜鞘置入纤维输尿管软镜(Olympus P5,Olympus,Japan)。观察镜鞘位置良好、无输尿管肾盂穿孔等损伤后，进入肾盂，确定结石位置。连接钬激光碎石机(LUMENIS Versa Pulse Power Suite 1OoW,Coherent,American)，将输尿管软镜退回至肾盂输尿管连接部，使镜体头部处于直线状态，置入 $2 0 0 ~ { \mu \mathrm { m } }$ 光纤进行碎石，碎石功率 $1 0 { \sim } 3 0 \ \mathrm { W } ( 0 . 6 { \sim } 1 . 0 \ \mathrm { J } / 2 0 { \sim } 3 0 \ \mathrm { H z } )$ 。术中使用注射器手工灌注生理盐水维持术野清洗。将结石粉碎至1\~$2 ~ \mathrm { m m }$ 碎块,较大结石碎片用1.9Fr取石篮(Zero TipM;BostonScientificMicrovasive)取出，常规行结石分析。单次手术时间 $6 0 ~ \mathrm { { m i n } }$ 左右，单次治疗目标为残留结石体积为原结石体积的 $1 / 3 { \sim } 1 / 2$ 。术后常规留置Fr5双J导管。术后第1天复查KUB,如无感染等并发症，则术后1\~2d出院，术后2周再行FURS治疗，方法同前。术后1个月复查KUB评估治疗成功率。确认治疗成功后拔出双J管。
+
+1.2.2m-PCNL组手术方法患者取截石位，以 $\mathrm { F r } 8 . 0 /$ 9.8Wolf输尿管硬镜向患侧输尿管置人Fr5输尿管导管至肾盂。再改为俯卧位，在B超引导下确定穿刺点，以18G穿刺针穿刺进人目标肾盏，退出针芯，留置斑马导丝。切开皮肤、皮下 $1 \mathrm { c m }$ ，退出针鞘，依次扩张至Fr18后将工作鞘送入目标肾盏。置入李逊镜(Fr8.5/11.5)，以铁激光或气压弹道碎石，经工作鞘冲出或以取石钳夹出较大碎石。检查各盏,清除所有残石，输尿管内置入Fr5双J导管，留置Fr14肾造瘘管，退出工作鞘，固定肾造瘘管。术后第1天复查KUB，如残留结石较多或存在直径 $> 4 ~ \mathrm { m m }$ 残石，则在2\~3周后通过原通道行二期m-PCNL。如复查无明显结石残留，则在术后3\~7d拔出肾造瘘管，术后2周拔出双J导管。
+
+# 1.3观察指标
+
+1.3.1主要指标 (1)治疗成功率：术后1个月复查KUB，完全无结石残留和有临床无意义结石碎片残留（ ${ < } 4 ~ \mathrm { m m }$ )患者的百分比；(2)并发症发生率：根据改良
+
+Clavien-Dindo评分分级,出现并发症患者的百分比[3-14]轻微并发症定义为自限性或仅需要轻微支持或Clavien-Dindo分级为GradeI级的并发症，如自限性血尿或需要抗生素治疗的尿路感染或需要给予止痛药进行止痛处理;主要并发症定义为需要进一步手术处理或术后需要严密监测或Clavien-Dindo分级为GradeⅡI级以上，如输尿管石街，输尿管穿孔，包膜下或肾周血肿形成,术中或术后严重失血需要输血或肾动脉栓塞等[15]。1.3.2次要指标 (1)总治疗费用：住院期间和术后门诊复查、辅助治疗(ESWL)及急诊治疗的费用之和；(2)总治疗时间：从首次住院治疗到最后一次住院治疗结束的时间；(3)总术后住院时间：术后第1天到出院的天数，分期治疗则累加；(4)平均血红蛋白下降水平：术前与术后第1天血常规检测Hb之差。
+
+# 1.4 统计学方法
+
+数据录入及统计学分析均采用SPSS17.0统计软件进行。计量资料用均数 $\cdot \pm$ 标准差表示，组间比较采用独立样本t检验，偏态分布数据采用Wilcoxon秩和检验；计量资料以率表示，组间比较采用 $\chi ^ { 2 }$ 检验分析， $P <$ 0.05为差异有统计学意义。
+
+# 2结果
+
+两组患者基线资料间差异无统计学意义( $\mathrm { \ P { > } 0 . 0 5 }$ 表1)。两组患者均顺利完成手术治疗，无中转开放手术患者。A组术后血红蛋白下降程度为 $3 . 3 7 { \pm } 1 . 5 6 ~ \mathrm { g / L } , \mathrm { B }$ 组为 $1 1 . 9 3 { \scriptstyle \pm 2 . 2 4 ~ \mathrm { g / L } }$ ,A组明显低于B组，两组间差异有统计学意义 $( P { < } 0 . 0 1 )$ 。A组患者手术治疗次数均为2次，总治疗时间为 $4 . 0 6 { \pm } 1 . 1 1$ 周,B组均为单次治疗，总治疗时间为 $1 . 2 6 { \pm } 0 . 4 7$ 周，A组总治疗时间明显长于B组,两组间差异有统计学意义（ $( P { < } 0 . 0 1 )$ 。A组术后总住院时间为 $3 . 6 6 { \pm } 1 . 2 9 \ \mathrm { d } , \mathrm { B }$ 组术后总住院时间为 $5 . 1 3 \pm$ 0.43d，两组间差异无显著性 $( P { > } 0 . 0 5 )$ 。在总治疗费用方面，A组为 $5 4 ~ 2 9 1 . 0 0 { \scriptstyle \pm 6 1 4 9 . 0 0 }$ 元，B组为 $2 3 ~ 4 8 2 . 0 0 \pm$ 2317.00元，A组明显高于B组，两组间差异有统计学意义（ $\scriptstyle { \overbrace { P { < } 0 . 0 1 } }$ ，表2)。
+
+在治疗成功率方面，两组均为 $100 \%$ ，两组间差异无统计学意义 $\left( P \mathrm { = } 1 . 0 \right)$ 。但A组完全结石清除率为$6 5 . 7 1 \%$ ，而B组为 $9 4 . 2 9 \%$ ,A组明显低于B组，两组间差异有统计学意义 $( P { < } 0 . 0 1 \$ );A组临床无意义结石残留率为 $3 4 . 2 9 \%$ ,B组为 $5 . 7 1 \%$ ,A组明显高于B组，两组间差异有统计学意义（ $\scriptstyle { \mathcal { P } } < 0 . 0 1$ ，表2)。
+
+在手术并发症方面，A组为 $6 . 2 5 \%$ 、B组为 $9 . 3 7 \%$ ，两组间差异无统计学意义 $( P { > } 0 . 0 5 )$ 。A组出现1例发热患者，体温为 $3 8 . 3 ~ \mathrm { { ^ { \circ } C } }$ ,Clavien分级为GradeI级，属轻微并发症，给予物理降温和抗生素(莫西沙星， $0 . 4 ~ \mathrm { g / d } )$ 治疗2d后体温及血像恢复正常；1例输尿管石街患者，
+
+表1分期FURS和 $\mathrm { m }$ -PCNL两组患者基线资料的比较 Tab.1 Comparison of the demographic and baseline clinical data between the two groups   
+
+<html><body><table><tr><td></td><td>StagedFURS</td><td>m-PCNL</td><td>P</td></tr><tr><td>Gender (M/F) (n)</td><td>21/14</td><td>19/16</td><td>0.602</td></tr><tr><td>Age (year, Mean±SD)</td><td>54.2±6.3</td><td>52.7±7.2</td><td>0.495</td></tr><tr><td>BMI (kg/m², Mean±SD)</td><td>28.4±2.6</td><td>29.5±4.7</td><td>0.385</td></tr><tr><td>Hydronephosis</td><td></td><td></td><td></td></tr><tr><td>Nil or mild (n)</td><td>35</td><td>32</td><td>0.316</td></tr><tr><td>Moderate or severe</td><td>0</td><td>3</td><td>0.528</td></tr><tr><td>Stone diameter (cm, Mean±SD)</td><td>2.81±0.53</td><td>3.17±0.82</td><td>0.130</td></tr><tr><td>Stone volume (cm, Mean±SD)</td><td>15.47±4.26</td><td>17.17±5.72</td><td>0.195</td></tr><tr><td>Stone hounsfield unit (HU,Mean±SD)</td><td>912.7±287.8</td><td>1047±246.8</td><td>0.171</td></tr><tr><td>Side (right/left, n)</td><td>10/15</td><td>16/14</td><td>0.537</td></tr></table></body></html>
+
+Clavien分级为GradeⅡ级，属主要并发症，因结石颗粒较小，石街长度小于 $2 \mathrm { c m }$ ，患者有轻度腰部胀痛不适，无发热等尿路感染症状，给予保守治疗成功;B组出现2例肉眼血尿时间超过 $4 8 \mathrm { ~ h ~ }$ 患者，但血红蛋白无明显下降，Clavien分级为GradeI级；1例术后血红蛋白持续下降至 $8 6 ~ \mathrm { g / L }$ 患者，CT平扫患侧肾周可见较明显血肿形成，行患侧肾动脉造影未见明显出血点，Clavien分级为GradeⅡ级，遂给予输浓缩红细胞 $4 \mathrm { { u } }$ 并给予止血药(邦亭，1U/次，1次/d)治疗后3d后尿色转清。
+
+# 3讨论
+
+随着输尿管软镜技术和辅助碎石设备的快速发展以及手术经验的积累，FURS的手术适应证逐步扩大，在临床实践中越来越多的医生开始将其用于 $2 { \sim } 4 \ \mathrm { c m }$ 肾结石的常规治疗[16-17]。但由于缺乏高等级证据支持,是否选择FURS多凭借医生的经验及患者的意愿。为此，本文通过临床对照研究的方法对比了分期FURS与m-PCNL治疗 $2 { \sim } 4 ~ \mathrm { c m }$ 肾结石的临床疗效，旨在探讨分期FURS替代 $\mathrm { m }$ -PCNL作为 $2 { \sim } 4 ~ \mathrm { c m }$ 肾结石一线治疗方式的可行性。
+
+治疗成功率是评价一种结石治疗方式临床疗效的最主要指标。为使评价更为全面，本研究首次将完全结石清除率(SF)和临床无意义结石碎片残留率(CIRF)同时做为评价指标，国内尚未见相关报道。我们的研究结果显示分期FURS组与m-PCNL组的治疗成功率无明显差别，均为 $100 \%$ ，但是分期FURS组的SF明显低于m-PCNL组( $6 5 . 7 1 \%$ vs $9 4 . 2 9 \%$ ， $P { < } 0 . 0 1 \$ ，而CIRF明显高于m-PCNL组( $3 4 . 2 9 \%$ vs $5 . 7 1 \%$ $\scriptstyle P < 0 . 0 1 { \dot { ) } }$ 。Ghani等[12]的研究结果也显示，即使通过套石篮进行主动取石，FURS术后SF也仅达到 $5 5 \% { \sim } 6 0 \%$ ,这与我们的研究结果一致。这是由于FURS重在碎石，强调将结石尽可能“粉末化”,以利于后期排石;而m-PCNL在碎石的同时多可将结石取净。对于FURS而言,结石碎片直径决定了其术后能否顺利排出和排出的时间。目前各家报道的临床无意义结石碎片直径有 $2 . 3 . 4 \ : \mathrm { m m }$ 不同标准，但多数研究采用 $4 \mathrm { m m }$ 作为临界值[12]。多位研究者对输尿管软镜或PCNL术后残留结石直径与需要再次外科处理的关系进行了研究。Rebuck等18对FURS术后CT平扫证实存在 ${ < } 4 ~ \mathrm { m m }$ 结石碎片的患者进行了平均19个月的随访，有 $20 \%$ 的患者出现了需要泌尿专科处理的结石相关事件， $60 \%$ 的患者无任何症状， $20 \%$ 的患者自行排出残留结石。Osman等[19]对75例PCNL术后经CT证实至少有1枚 $\leqslant 5 \ \mathrm { m m }$ 结石碎片的患者进行了平均36个月随访，发现残留结石 $\mathrm { > } 3 ~ \mathrm { m m }$ 是结石生长复发的独立危险因素，需要二期处理的患者超过1/3。在本研究中FURS组也出现1例Clavien评分为GradeI级的输尿管石街病例，但患者无明显腰痛、发热症状，石街长度约$2 \mathrm { c m }$ ，结石碎片直径均 ${ < } 4 ~ \mathrm { m m }$ ，遂予保守治疗，1周复查KUB显示，石街已完全排除。目前的研究结果提示虽然分期FURS与 $\mathrm { m }$ -PCNL两种治疗方式的临床疗效相当，但FURS术后发生结石相关事件和结石增大的风险高于m-PCNL，但也需要更长时间的随访观察。
+
+表2分期FURS和m-PCNL两组患者术中及术后各项指标的比较 Tab.2 Comparison of perioperative and postoperative data between staged FURS and m-PCNL groups   
+
+<html><body><table><tr><td>Variable</td><td>Group A(staged FURS)</td><td>Group B (m-PCNL)</td><td>P</td></tr><tr><td>Decrease in hemoglobin level (g/L,Mean±SD)</td><td>3.37±1.56</td><td>11.93±2.24</td><td><0.01</td></tr><tr><td>Total treatment time (weeks,Mean±SD)</td><td>4.06±1.11</td><td>1.26±0.47</td><td><0.01</td></tr><tr><td>Total hospital stay after procedure (days, Mean±SD)</td><td>3.66±1.29</td><td>5.13±0.43</td><td>0.137</td></tr><tr><td>Total medical cost (yuan,Mean±SD)</td><td>54 291.00±6149.00</td><td>23 482.00±2317.00</td><td><0.01</td></tr><tr><td>Treatment Success [n (%)]</td><td>35 (100)</td><td>35 (100)</td><td>1.0</td></tr><tr><td>Stone free [n (%)]</td><td>23 (65.71)</td><td>33 (94.29)</td><td><0.01</td></tr><tr><td>CIRF [n (%)]</td><td>12 (34.29)</td><td>2 (5.71)</td><td><0.01</td></tr><tr><td>Overall complications [n (%)]</td><td>2 (6.25)</td><td>3 (9.37)</td><td>0.341</td></tr></table></body></html>
+
+CIRF: Clinically insignificant residual fragments.Treatment success is defined as a stone-free+CIRF.
+
+并发症发生率是评价手术安全性的客观指标。改良Clavien-Dino分级系统是一种被广泛接受地能对外科并发症严重程度进行精确分级的标准化评分系统，亦普遍应用于外科术式安全性评价的临床研究报道中[13-14]。为使两种术式并发症的评价更具有可比性，本研究首次将其用于FURS和m-PCNL术后并发症的分级，国内尚未见相关报道。我们的研究结果显示两组患者总体的并发症发生率相近，分期FURS组为 $5 . 7 1 \%$ $\mathbf { m }$ -PCNL组为 $9 . 3 7 \%$ 。曾国华等[报道466例患者FURS术后并发症发生率为 $1 4 . 4 \%$ 。其中以发热最常见，发生率为$1 0 . 7 \%$ ，分层研究结果显示结石直径为 $2 { \sim } 3 \mathrm { c m }$ 组为 $1 3 . 5 \%$ $3 { \sim } 4 ~ \mathrm { c m }$ 组为 $1 4 . 6 \%$ 。高小峰等2报道99例 $2 { \sim } 4 ~ \mathrm { c m }$ 肾结石FURS术后发热的发生率为 $6 . 0 6 \%$ 。在我们的研究中，FURS组术后发热发生率为 $2 . 8 6 \%$ ,明显低于二位作者的报道。这与我们采用分期治疗策略，严格手术时间有关。本研究中分期FURS组单次手术时间均控制在$6 0 \mathrm { m i n }$ 左右。Zhong等2认为对于结石负荷过多( $\cdot > 2 \mathrm { c m } )$ 和结石成分为鸟粪石等感染性结石患者须严格控制手术时间，分期治疗可以有效降低术后全身炎症反应综合征的发生率。Sugihara等2也认为手术时间超过 $9 0 \mathrm { m i n }$ 会明显增加感染的发生率。本研究结果提示分期FURS由于严格控制单次手术时间，有效降低了术后感染的发生率。
+
+术后血红蛋白下降程度反映了手术过程中失血量的总体情况,也是组织损伤程度的体现[22]。本研究结果显示分期FURS组术后血红蛋白下降水平明显低于m-PCNL组 $\left. 3 . 3 7 \ v s \ 1 1 . 9 3 \ \mathrm { g / L } , P < 0 . 0 1 \right.$ 。这与输尿管软镜由于通过人体自然腔道进入肾脏集合系统进行碎石，避免了肾盂粘膜和肾实质的损伤有关。在本研究中m-PCNL组则出现1例因为血红蛋白明显降低而输血的患者，Clavien评分为GradeI级。本研究结果提示分期FURS手术创伤较m-PCNL更小，可以有效降低了发生严重出血等并发症的潜在风险，患者的接受程度更高，在安全性方面较m-PCNL更具有优势。
+
+在本研究中由于单次FURS的手术和麻醉时间均控制在 $6 0 ~ \mathrm { { m i n } }$ 左右，分期FURS术后患者恢复较m-PCNL组更快，单次术后住院时间更短，患者对治疗的接受程度更高。但分期FURS的缺点是总治疗时间长，需要两次麻醉，总治疗费用高；而m-PCNL的优势是单次治疗成功率高，碎石的同时可完成取石，治疗周期短，其缺点是手术损伤大，术后恢复慢，出血、感染等潜在风险高。
+
+本研究的主要缺陷是样本量较小，且是单中心研究，没有进行分层研究，缺乏长期随访资料。分期FURS是否具有临床应用和推广价值还需要大样本的多中心研究证实。
+
+综上所述，FURS对于 $2 { \sim } 4 ~ \mathrm { c m }$ 肾结石有良好的疗效和安全性，分期手术对提高较大负荷肾结石的完全结石清除率是必要的。先进的技术设备和丰富的手术经验是治疗成功的关键。
+
+# 参考文献：
+
+[1］曾国华,李佳胜,赵志健,等.逆行软性输尿管镜下钬激光碎石术治疗 肾结石的有效性与安全性分析[J].中华泌尿外科杂志,2015,36(6): 401-4.   
+[2]高小峰,李 凌,彭永涵,等.输尿管软镜联合钬激光治疗 $2 { - } 4 \ \mathrm { c m }$ 肾结 石疗效分析[J].微创泌尿外科杂志,2013,2(1):47-9.   
+[3]Tirk C,Petrik A,Sarica K,etal.EAU guidelines on interventional treatment for urolithiasis[J].Eur Urol,2016,69(3):475-82.   
+[4]程 跃,刘冠琳.输尿管软镜治疗上尿路结石的现状与进展[J].现代泌 尿外科杂志,2014,19(5):285-8.   
+[5]Zeng G, Zhu W,Li J,et al. The comparison of minimally invasive percutaneous nephrolithotomy and retrograde intrarenal surgery for stones larger than $2 \mathrm { c m }$ in patients with a solitary kidney:a matched-pair analysis[J].WorldJUrol,2015,33(8):1159-64.   
+[6]张艳平,刘凯隆,路保赛,等.软性输尿管镜和经皮肾镜治疗肾结石的 疗效及安全性对比分析[J].中华泌尿外科杂志,2014,35(11):845-8.   
+[7] Takazawa R,Kitayama S,Tsujii T.Appropriate kidney stone size for ureteroscopic lithotripsy:When to Switch to a percutaneous approach[J].WorldJ Nephrol,2015,4(1):111-7.   
+[8]Aboumarzouk OM, Monga M,Kata SG,et al. Flexible ureteroscopy and laser lithotripsy for stones $> 2 \mathrm { c m }$ ：asystematic review and meta-analysis[J].JEndourol,2012,26(10): 1257-63.   
+[9] Zheng CJ, Xiong B,Wang HZ, et al. Retrograde intrarenal surgery versus percutaneous stones>2 cm:a meta-analysis [J].UrolInt, 2014,93(4): 417-24.   
+[10]De SB,Autorino R,Kim FJ,et al. Percutaneous nephrolithotomy meta-analysis[J].EurUrol,2015,67(1): 125-37.   
+[11] Bryniarski P,Paradysz A,Zyczkowski M,et al.A randomized controlled study to analyze the saftey and efficacy of percutaneous nephrolithotripsyandretrogradeintrarenalsurgeryinthe management of renal stones more than $2 \ \mathrm { c m }$ in diameter[J].J Endourol,2012,26(1): 52-7.   
+[12]Ghani KR,Wolf JS,Wolf JS.What is the stone-free rate following flexible ureteroscopy for kidney stones [J]? Nat Rev Urol,2015,12 (5): 281-8.   
+[13] Ibrahim AK.Reporting ureteroscopy complications using the modified clavien classification system[J].Urol Ann,2015,7(1): 53-7.   
+[14]De La Rosette JJ,Opondo D,Daels FP,et al. Categorisation of complications and validation of the Clavien score for percutaneous nephrolithotomy[J].EurUrol,2012,62(2): 246-55.   
+[15]Oguz U,Resorlu B,Ozyuvali E,et al. Categorizing intraoperative complications of retrograde intrarenal surgery[J]. UrolInt, 2014,92 (2): 164-8.   
+[16]Dauw CA, Simeon L,Alruwaily AF,et al. Contemporary practice patterns of flexible ureteroscopy for treating renal stones: results of a worldwide survey[J].JEndourol,2015,29(11):1221-30.   
+[17]Karakoyunlu N,Goktug G,Sener NC,et al.A comparison of standard PCNL and staged retrograde FURS in pelvis stones over 2 cm in diameter: a prospective randomized study[J].Urolithiasis, 2015,43(3): 283-7.   
+[18]Rebuck DA,Macejko A,Bhalani V, et al. The natural history of renal stone fragments following ureteroscopy[J]. Urology,2011,77 (3): 564-8.   
+[19]Osman Y, Harraz AM,El-Nahas AR,et al. Clinically insignificant residual fragments: an acceptable term in the computed tomography era[J]? Urology,2013,81(4): 723-6.   
+[20] Zhong W,LetoG, Wang L,etal. Systemic inflammatoryresponse syndrome after flexible ureteroscopiy[J].JEndourol,2015,29(1): 25-8.   
+[21] Sugihara T, Yasunaga H, Horiguchi H,et al.A nomogram predicting severe adverse events after ureteroscopic lithotripsy[J].BJU Int, 2013, 111(3): 459-66.   
+[22]侯 祺,黄文涛,李茂胤,等.微通道经皮肾镜与输尿管软镜治疗肾结石 有效性和安全性的meta分析[J].中华腔镜泌尿外科杂志:电子版, 2015,9(3): 29-32. (编辑.孙昌明)

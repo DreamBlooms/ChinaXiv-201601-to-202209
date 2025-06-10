@@ -1,0 +1,308 @@
+# 基于差分进化的改进狼群算法研究\*
+
+王盈祥1，陈民铀1，程庭莉1，盛琪1，董龙昌‘，李哲²(1.重庆大学 电气工程学院 输配电装备及系统安全与新技术国家重点实验室，重庆 400044;2.国网重庆市电力公司电力科学研究院，重庆400044)
+
+摘要：针对传统狼群算法（WPA）存在易陷入局部最优解、计算资源耗费大、鲁棒性低等问题，提出一种基于差分进化的改进狼群算法（DWPA)。首先，通过引入探狼搜索因子、猛狼最大奔袭次数、自适应围攻步长、差分进化策略等对传统狼群算法进行了改进，降低算法计算耗费的同时提高了算法的全局搜索能力；然后，运用马尔可夫链理论证明了DWPA的收敛性；最后，对13个测试函数进行寻优测试并与WPA等4种算法进行对比分析。测试结果表明，DWPA具有良好的鲁棒性和全局搜索能力，在求解多峰、高维、不可分函数方面的寻优能力尤为突出。
+
+关键词：狼群算法；局部最优解；鲁棒性；差分进化；马尔可夫链 中图分类号：TP301.6 doi:10.3969/j.issn.1001-3695.2018.02.0083
+
+# Research of improved wolf pack algorithm based on differential evolution
+
+Wang Yingxiang1, Chen Minyou1, Cheng Tingli1, Sheng $\mathrm { Q i ^ { 1 } }$ ,Dong Longchangl,Li Zhe² (1.State KeyLaboratoryofPower Transmisson Equipment &System SecuritySchoolof Electrical Engineering,Chongqing University,Chongqing4044,China;2.ChongqingElectricPowerCompanyElectricPowerResearch InsituteoftateGrid, Chongqing 400044, China)
+
+Abstract: Aiming at the problems of traditional wolf pack algorithm (WPA) $\because$ easy to fall in to local optimal,large computational resourcecostand lowrobustnes,propose an improved wolf pack algorithm based on diferential evolution (DWPA).Firstof all,propose search wolf search factor,maximum numberofraid wolves,adaptive siege stepsizeanddiferential evolution strategyto improve the traditional wolfpack algorithm,whichcannotonlyreduce thecomputationalcostofthe algorithmbut also improve the global searchability.Then,prove theconvergenceofDWPAapplying the Markov process.Finalyconduct optimization teston 13 functionsand then compare it with WPAand other 4algorithms.The testresults show thatDWPA has greatrobustnessand global search abilityespeciallyhasanexcellentoptimizing ability inmulti-peak,high-dimension, indivisible functions.
+
+Key Words: wolf pack algorithm; local optimal; robustness; differential evolution; Markov process
+
+# 0 引言
+
+群集算法主要是通过模拟生物进化和生物种群行为来求解优化问题的智能算法[1]。常见的群集智能算法主要有粒子群算法（PSO）[2-4]、鱼群算法（FSA）[5.6]、蚁群算法（ACO）[7]、差分进化算法(DE)[8等，它们在解决优化问题时各有千秋，为某些复杂问题的解决提供了良好的思路。
+
+狼群算法最早是由Yang 等人[提出，2013年，吴虎胜等人[0在分析狼群分工协作围捕猎物行为的基础上，提出了一种全新的狼群算法（WPA)。算法虽问世时间较短，但由于其性能较好，已被广泛应用于无人机航迹规划[1]、水电站水库优化调度[12]等人类生产活动中。WPA通过模拟狼群分工协作捕猎的特征，抽象出游走、召唤、奔袭和围攻等行为与“胜者为王”的头狼产生机制和“强者生存”的群体更新机制来进行优化问题求解，具有较好的寻优性能。但也不可避免地存在一些不足之处：易陷入局部最优解、计算资源耗费大、鲁棒性低等。文献[13]提出一种改进的狼群算法，该算法根据传统狼群算法基本思想提出探狼更新规则并引入相位因子，同时优化了传统狼群算法步长的种类，设计了新的猛狼位置更新公式，通过测试函数仿真模拟验证了该算法的有效性。文献[14]结合文化算法提出了一种文化狼群算法，该算法可有效解决人工狼搜索的盲目性问题，通过对三个复杂函数的测试分析，验证了该文化狼群算法的有效性。文献[15]将PSO 算法中求解当前局部最优的思想引入到狼群算法的游走和召唤行为中，并利用混沌法对得到的次优解进行优化。改进后的算法大大提高了搜索的准确度并避免了陷入局部极值，并通过仿真验证了该算法的有效性。
+
+针对WPA存在的不足之处，本文提出一种基于差分进化的改进狼群算法（DWPA)。该算法在对传统WPA算法智能行为改进的基础上，引入差分进化中的交叉、变异、选择等操作，大大提高了算法的寻优性能及鲁棒性。
+
+# 1 DWPA算法原理
+
+DWPA算法继承了WPA算法的所有行为并对其进行了改进。主要改进如下：a)WPA中游走行为缺乏引导，一旦游走方向数h确定，游走方向便随之确定，无法全面搜索解空间，易使算法陷入局部最优，故在DWPA游走行为中引入探狼搜索因子，使得算法寻优能遍历整个空间;b)WPA中的奔袭行为需要分析计算人工狼与头狼之间的距离并要求所有人工狼与头狼之间距离小于临界距离时才结束奔袭行为，在面对高维函数的寻优时，必然造成大量计算资源的耗费，同时由于临界距离这一唯一行为终止条件的存在将可能使得算法无法跳出奔袭行为，降低算法的鲁棒性，故在DWPA奔袭行为中除去人工狼距离计算过程，并引入猛狼最大奔袭次数和头狼替换两个条件作为行为终止条件，防止算法陷入无限循环并提高计算效率和算法鲁棒性;c)WPA中围攻行为不具有自适应特性，决策变量取值范围和步长因子一旦确定，所有人工狼将以同一确定步长进行围攻，故在DWPA围攻行为中引入自适应围攻步长，使得距离头狼相对较远的人工狼以相对较大的步长向头狼靠近，距离头狼相对较近的人工狼以较小步长对头狼附近区域进行更加精细的搜索，兼顾了算法的局部搜索和全局搜索能力。同时，针对WPA算法本身易陷入局部最优的问题，结合差分进化算法在局部寻优方面的优势[8]，在改进WPA算法中加入差分进化的变异、交叉和选择操作，使算法能跳出局部最优，提高算法全局搜索能力。
+
+综上，DWPA算法由游走、召唤、奔袭、围攻、变异、交叉、选择等七种行为及“胜者为王”的头狼产生、“强者生存”的群体更新等两种机制组成。
+
+下面以最小值寻优问题为例，详细介绍DWPA算法的主要过程：
+
+1）狼群初始化
+
+采用式（1）进行狼群初始化，产生 $\mathfrak { n }$ 匹人工狼：
+
+$$
+\boldsymbol { X _ { i } ^ { t } } = \boldsymbol { X _ { i } ^ { L } } + r a n d \times \boldsymbol { \left( \boldsymbol { X _ { i } ^ { U } } - \boldsymbol { X _ { i } ^ { L } } \right) } , i = 1 , 2 , \cdots , n
+$$
+
+其中： $\boldsymbol { X } _ { i } ^ { t }$ 表示第t代种群中第i匹人工狼； $X ^ { L }$ 和 $X ^ { U }$ 分别为变量 $X = \left( x _ { 1 } , x _ { 2 } , \cdots , x _ { D } \right)$ 取值的下界和上界， $\mathrm { ~ \bf ~ D ~ }$ 为变量维数;
+
+rand∈(0,1)内的随机数。
+
+2）头狼产生规则
+
+在初始化产生的种群中，通过式（2）计算每一匹人工狼的适应度值，适应度值越小的位置视为猎物浓度越大，距离所求最优解越近，选取具有最优适应度值的人工狼作为本次迭代过程中的头狼，若有多匹人工狼适应度值都是最优值，则任选一匹作为头狼，头狼适应度值为 $Q _ { l e a d }$ ；在进化过程中，将每次进化后具有最优适应度值的人工狼与前一代中的头狼进行比较，若当前人工狼的适应度值更优，则该人工狼替代头狼成为新的头狼。对于最小值问题，当 $Q _ { i } < Q _ { l e a d }$ 时，视为 $Q _ { i }$ 优于 $Q _ { l e a d }$ 。
+
+$$
+Q = f { \big ( } X { \big ) }
+$$
+
+其中： $f ( \mathrm { { X } ) }$ 为所求最小值问题的目标函数。
+
+3）游走行为
+
+除头狼外，在当前猎物群中选取适应度值最优的 $S _ { n u m }$ 匹人工狼作为探狼，在空间中搜寻猎物。 $S _ { n u m }$ 取值为$\left[ n / \left( \alpha + 1 \right) , n / \alpha \right]$ 间的整数，其中， $\alpha$ 为探狼比例因子。探狼朝向 $\mathbf { h }$ 个方向分别前进一步并记录每前进一步后所处位置的适应度值，然后退回原位置，则向第 $\mathfrak { p } ( \mathfrak { p } { = } 1 , 2 , { \ldots } , \mathrm { h } )$ 个方向前进后，探狼i在第 $\mathsf { d } ( \mathsf { d } { = } 1 , 2 , . . . , \mathsf { D } )$ 维空间中所处的位置如式（3）所示。
+
+$$
+x _ { i d } ^ { P } = x _ { i d } + \gamma \times s t e p _ { a } ^ { d }
+$$
+
+其中： $s t e p _ { a }$ 为探狼游走步长，／为探狼搜索因子，为[-1,1]内的随机数。
+
+此时，探狼所处位置的适应度值为 $\mathrm { Q _ { i p } }$ ，选择适应度值最小且小于当前位置适应度值 $\mathrm { { Q } _ { i o } }$ 的方向前进一步，更新探狼信息$X _ { \mathrm { i \uparrow } }$ 。将一次游走行为结束后的具有最小适应度值 $\mathrm { Q } _ { \mathrm { m i n } }$ 的人工狼与头狼 $\mathrm { Q } _ { \mathrm { l e a d } }$ 进行比较，若 $\mathrm { Q } _ { \mathrm { m i n } } { < } \mathrm { Q } _ { \mathrm { l e a d } }$ ，则 $\mathrm { Q } _ { \mathrm { l e a d } } { = } \mathrm { Q } _ { \mathrm { m i n } }$ ，适应度值最小的探狼替代原头狼成为新的头狼，并发起召唤行为；否则，重复游走行为，直到某匹狼i所处的位置适应度值 $\mathrm { Q _ { i } { < } Q _ { l e a d } }$ ，或游走次数 $\mathrm { T } _ { 1 }$ 达到最大游走次数 $\mathrm { T } _ { \mathrm { l m a x } }$ 。需要指出的是，每匹探狼由于适应度值存在差异，其搜索方式也存在差异，故每匹探狼h的取值是不同的，将在 $[ \mathrm { h } _ { \mathrm { m i n } } , \mathrm { h } _ { \mathrm { m a x } } ]$ 内取随机整数，一般来说h 越大，探狼搜索越精细但也将影响算法运行速率。
+
+# 4）奔袭行为
+
+头狼通过嚎叫发起召唤行为，召集附近猛狼快速向头狼靠近。猛狼i在第 $\mathbf { k } { + } \mathbf { l }$ 次进化时，在第 $\mathsf { d } ( \mathsf { d } { = } 1 , 2 , . . . , \mathsf { D } )$ 维空间中所处的位置为如式（4）所示。
+
+$$
+x _ { i d } ^ { k + 1 } = x _ { i d } ^ { k } + s t e p _ { b } ^ { d } \times \left( g _ { d } ^ { k } - x _ { i d } ^ { k } \right) / \left| g _ { d } ^ { k } - x _ { i d } ^ { k } \right|
+$$
+
+其中： $s t e p _ { b }$ 为猛狼奔袭步长， $g _ { d } ^ { k }$ 为第 $\mathbf { k }$ 代群体头狼在第$\mathsf { d } ( \mathsf { d } { = } 1 , 2 , . . . , \mathsf { D } )$ 维空间中的位置。
+
+在猛狼奔袭的过程中，将每次奔袭结束后具有最小适应度值 $Q _ { \mathrm { m i n } }$ 的猛狼与头狼 $\mathrm { Q } _ { \mathrm { l e a d } }$ 进行比较，若 $\mathrm { Q } _ { \mathrm { m i n } } { < } \mathrm { Q } _ { \mathrm { l e a d } }$ ，则 $\mathrm { \Delta Q _ { l e a d } = Q _ { m i n } }$ 该猛狼成为新的头狼，奔袭行为结束，进入下一行为；否则继
+
+续奔袭直到某匹猛狼i的适应度值小于头狼适应度值或奔袭达到最大奔袭次数 $\mathrm { T } _ { 2 \mathrm { m a x } }$ 。
+
+# 5）围攻行为
+
+猛狼奔袭行为结束后，将联合所有的探狼，以头狼所在的位置为猎物移动位置，执行围攻行为。对于第 $\mathbf { k }$ 代狼群，假定头狼在第d $\scriptstyle ( \mathrm { d } \mathrm { = } 1 , 2 , \ldots , \mathrm { D } )$ 维空间中的位置为 ${ G } _ { d } ^ { k }$ ，则狼群的围攻行为如式（5）所示。
+
+$$
+x _ { i d } = x _ { i d } ^ { k } + \lambda \times s t e p _ { i } ^ { d } \times ( G _ { d } ^ { k } - x _ { i d } ^ { k } ) / \left| G _ { d } ^ { k } - x _ { i d } ^ { k } \right|
+$$
+
+其中：λ为[-1,1]间均匀分布的随机数； $s t e p _ { i }$ 为人工狼i执行围攻行为时的自适应围攻步长，距离头狼相对较远的人工狼以相对较大的步长向头狼靠近，距离头狼相对较近的人工狼以较小步长对头狼附近区域进行更加精细的搜索。以搜索空间上下界和搜索空间中的适应度最差值与最优值的差作为基准值，以自适应围攻步长与人工狼适应度值和头狼适应度值的差成正相关关系来建立自适应围攻步长 $s t e p _ { i }$ 如式（6）所示。
+
+$$
+s t e p _ { i } { = } ~ ( Q _ { i } { - } Q _ { l e a d } ) { \times } \frac { X ^ { U } - X ^ { L } } { \operatorname* { m a x } Q _ { o } { - } \operatorname* { m i n } Q _ { o } }
+$$
+
+其中： $\operatorname* { m a x } Q _ { o }$ 和 ${ \mathrm { m i n } } Q _ { o }$ 分别为算法初始化产生的人工狼的最差适应度值和最优适应度值。
+
+若围攻后的人工狼所处位置的适应度值小于原位置的适应度值，则更新人工狼位置信息，否则，人工狼位置不变。
+
+特别地：游走步长 $\mathbf { \ s t e p } _ { \mathrm { a } }$ ，奔袭步长stepb在待寻优空间中存在如式（7）所示关系：
+
+$$
+s t e p _ { a } = s t e p _ { b } / 2 = \left| X ^ { U } - X ^ { L } \right| / S
+$$
+
+其中：S为步长因子，表示人工狼在待寻优空间中搜索的精细程度。
+
+# 6）变异行为
+
+在执行围攻行为后的群体中，随机选择两匹不同的人工狼（第 $\mathbf { k }$ 代） $\boldsymbol { X } _ { 1 } ^ { k }$ 、 $\boldsymbol { X } _ { 2 } ^ { k }$ ，将两者的矢量差赋予权值后与第三匹随机选择的人工狼 ${ X } _ { 3 } ^ { k }$ 相加，得到人工狼变异矢量 $\nu _ { i } ^ { k + 1 }$ ，对于任意人工狼目标矢量 $X _ { i } ^ { k }$ 有
+
+$$
+\boldsymbol { \nu } _ { i } ^ { k + 1 } = \boldsymbol { X } _ { 3 } ^ { k } { + } \boldsymbol { F } * \left( \boldsymbol { X } _ { 1 } ^ { k } - \boldsymbol { X } _ { 2 } ^ { k } \right)
+$$
+
+其中： $F$ 为缩放因子，一般在[0,2]中取值，表示对矢量差的缩放程度。
+
+# 7）交叉行为
+
+狼群经过变异行为后，对于得到的人工狼变异矢量 $\nu _ { i } ^ { k + 1 }$ 和人工狼目标矢量 $X _ { i } ^ { k }$ ，按式（9）进行参数混合，生成人工狼试验矢量 $u _ { i } ^ { k + 1 }$ ：
+
+$$
+u _ { i j } ^ { k + 1 } = \left\{ \begin{array} { l l } { \nu _ { i j } ^ { k + l } } & { r a n d ( j ) \leq C R o r j = r a n d n ( i ) } \\ { x _ { i j } ^ { k } } & { r a n d ( j ) > C R o r j \neq r a n d n ( i ) } \end{array} \right.
+$$
+
+其中： $j$ 表示人工狼的第 $j$ 个变量， $r a n d n ( i ) \in [ 1 , 2 , \cdots , \mathrm { D } ]$ ，为随机选择的维数变量的标识； $C R$ 为交叉概率因子，一般在[0,1]中取值， $C R$ 越大越有利于算法进行局部搜索和加快收敛速度，
+
+$C R$ 越小越有利于保持狼群多样性和全局搜索。
+
+8）选择行为
+
+狼群经过交叉行为后，对于得到的人工狼试验矢量$u _ { i } ^ { k + 1 }$ 与人工狼目标矢量 $X _ { i } ^ { k }$ ，若试验矢量的适应度值小于目标矢量，则用 $u _ { i } ^ { k + 1 }$ 取代 $X _ { i } ^ { k }$ 成为第 $\mathbf { k } { + } \mathbf { l }$ 代并更新人工狼位置，否则，直接用 $\boldsymbol { X } _ { i } ^ { k }$ 作为第 $\mathbf { k } { + } \mathbf { l }$ 代更新，即式（10)。
+
+$$
+X _ { i } ^ { k + 1 } = \left\{ \begin{array} { l l } { u _ { i } ^ { k + 1 } } & { Q ( u _ { i } ^ { k + 1 } ) < Q ( x _ { i } ^ { k } ) } \\ { X _ { i } ^ { k } } & { Q ( u _ { i } ^ { k + 1 } ) \geq Q ( x _ { i } ^ { k } ) } \end{array} \right.
+$$
+
+对于得到的人工狼矢量 $X _ { i } ^ { k + 1 }$ ，找出其中具有最小适应度值$ { \mathrm { Q } } _ { \mathrm { m i n } }$ 的人工狼并与头狼适应度 $\mathrm { Q } _ { \mathrm { l e a d } }$ 进行比较，若 $\mathrm { Q } _ { \mathrm { m i n } } { < } \mathrm { Q } _ { \mathrm { l e a d } }$ 则 $\mathrm { Q } _ { \mathrm { l e a d } } { = } \mathrm { Q } _ { \mathrm { m i n } }$ ，适应度值最小的人工狼选为头狼。
+
+9）狼群更新机制
+
+狼群捕食得到的猎物，并不是平均分配给每一匹狼，将按照“肉弱强食”的原则进行食物分配，这就可能导致弱小的狼被饿死，这一原则通过在算法中去掉适应度值最差的R匹狼，同时按式（1）产生R匹人工狼来进行模拟。R为$\left[ n / \left( 2 \times \beta \right) , n / \beta \right]$ 之间的随机整数， $\beta$ 为狼群更新比例因子。通过以上行为，使得狼群不断进行更新进化，直到算法达到限定的最大迭代次数G或算法获得的最优值达到预设精度时结束，故有DWPA求解优化问题流程图如图1所示。
+
+![](images/d11f85a2a0515c3f8cc479cc72e27a5c12e6c9d9a85f61ce30c1237320f13de8.jpg)  
+图1DWPA求解优化问题流程图
+
+# 2 DWPA收敛性分析
+
+马尔可夫（Markov）链是一种无后效性的随机过程，常被用于证明算法的收敛性[16]。DWPA是不断重复游走、召唤、奔袭、围攻、交叉、变异、选择和狼群更新行为的过程，种群的每种行为都只与当前群体状态有关而与之前的状态无关，由此可知，DWPA种群序列符合Markov链。
+
+引理1文献[17]中证明了若某智能算法满足如下两个条件：a)对解空间中任意两解 $x _ { 1 }$ 和 $x _ { 2 }$ ， $x _ { 2 }$ 是 $x _ { 1 }$ 由算法中的各种算子可达的；b)种群序列 $\mathcal { Q } _ { 1 } , \mathcal { Q } _ { 2 } , \cdots , \mathcal { Q } _ { N }$ 是单调的。则该智能算法以概率1收敛于问题的全局最优解。
+
+通过以上结论可知，如果DWPA能够满足引理1的两个条件，则说明DWPA是以概率1收敛问题的全局最优解的。
+
+参考引理1的结论，对于DWPA收敛性问题，若其满足以下两个条件:a)DWPA种群序列的Markov 链是遍历的;b)DWPA的序列解是一个有限齐次Markov链。则DWPA将以概率1收敛于问题的全局最优解。
+
+假设DWPA搜索的解空间为 $\Omega$ ，游走、奔袭、围攻、交叉、变异、选择和狼群更新行为所引起的状态空间的状态转移分别用转移矩阵 $\smash { \gamma , B , W , \cup _ { s } V , \chi }$ 和 $\boldsymbol { \mathscr { G } }$ 表示，则DWPA种群的Markov链的转移矩阵定义为
+
+$$
+\boldsymbol { P } = \boldsymbol { Y } \times \boldsymbol { B } \times \boldsymbol { W } \times \boldsymbol { J } \times \boldsymbol { V } \times \boldsymbol { X } \times \boldsymbol { G }
+$$
+
+在证明DWPA的收敛性之前，首先给出以下几个定义：
+
+定义1假设 $P _ { _ { i j } }$ 为 Markov 链的转移概率矩阵，若有对于Ai, $j \in \Omega$ ， $\exists k \geq 1$ ，使得 $P _ { i j } ^ { k } > 0$ ，则称该Markov 链是不可约的。
+
+定义2假设有非空集合 $I = \left\{ k | k \geq I , P _ { i j } ^ { k } > 0 , \forall i , j \in \Omega \right\}$ ，若该集合 $I$ 的最大公约数为1，则称该Markov链是非周期的。
+
+定义3假设 $\mu _ { i } = \sum _ { k } ^ { \infty } k P _ { i j } ^ { k }$ ，对于常返状态 $i$ ，若有 $\mu _ { i } < + \infty$ ，则称 $\mu _ { i }$ 为正常返的。特别地，当 $i$ 为正常返的且非周期的，则该Markov链是遍历的。
+
+下面证明DWPA收敛性：
+
+推理1DWPA 种群序列的 Markov 链是遍历的。
+
+推理1的证明，将分以下三个步骤进行：
+
+a)证明DWPA的种群序列Markov链是不可约的。
+
+假设 $\mathcal { Q } _ { k } = \left\{ X _ { 1 } , X _ { 2 } , \cdots , X _ { N } \right\}$ 为算法的第 $\mathbf { k }$ 代种群， $X _ { i }$ 为第i匹人工狼的状态。由于种群Markov链的转移概率矩阵$P _ { i j } = P \big \{ Q _ { k + 1 } = j \big | Q _ { k } = i , k \geq 1 \big \}$ 只与始末状态 $i , j$ 相关，且显然有$Q _ { k } > 0$ 恒成立，则有种群转移概率矩阵 $\boldsymbol { p }$ 为正定矩阵，由定义1，DWPA种群序列的Markov链是不可约的。
+
+b)证明DWPA种群的Markov 链是非周期且不可约的。
+
+对于某一给定的 $k > 0$ ，由 $\textcircled{1}$ 中得到的算法Markov链是不可约的可知，必然j $\in \Omega$ ，使得 $P _ { i j } > 0$ 成立，结合定义2可知$k = 1$ 。因此可得I的最大公约数为1,故有DWPA种群的Markov链是非周期的，结合 $\textcircled{1}$ 可知DWPA种群的Markov链是非周期且不可约的。
+
+c)证明DWPA种群的Markov 链是遍历的。
+
+由于转移矩阵 $\gamma , \ B , \ W , \ J , \ V , \ X$ 和 $\boldsymbol { \mathscr { G } }$ 的值均在[0,1]内，且 $\bar { P } _ { _ { i j } }$ 为状态 $i$ 经过各种行为转化为状态 $j$ 的概率，必有 $0 \leq P _ { i j } \leq 1$ ， 设 $\sigma = \operatorname* { m a x } \left\{ P _ { i j } \ : | \forall i , j \in \Omega \right\}$ ，则由Canchy-Riemann 方程及定义3 可知： $\mu _ { i } = \sum _ { k } ^ { \infty } k P _ { i j } ^ { k } \leq \sum _ { k } ^ { \infty } k \sigma ^ { k } < \infty$ 0
+
+综上分析可知，DWPA种群序列的Markov 链是遍历的，推理1得证。
+
+推理2DWPA 得序列解是一个有限齐次Markov 链
+
+证明由于每一代种群 $Q _ { k }$ 都是有限的，故其 Markov 链必是有限的；其次，算法不断重复游走、召唤、奔袭、围攻、交叉、变异、选择和狼群更新行为的过程寻找更加优质的猎物，个体的更新都具有优质选择的特性。群体第 $\mathbf { k } { + } \mathbf { l }$ 代的产生仅与第 $\mathbf { k }$ 代有关，而与 $P _ { _ { i j } }$ 和 $\mathbf { k }$ 无关。DWPA经过反复迭代寻优，必能得到一组序列解，且该序列是一个有限齐次Markov链，推理2得证。
+
+综上推理1和2可知，DWPA种群序列的Markov 链是遍历的且其序列解是一个有限齐次Markov链，至此证明DWPA以概率1收敛于所求问题的全局最优解。
+
+# 3 DWPA算法仿真测试分析
+
+# 3.1基本测试函数介绍
+
+为了测试DWPA算法的性能及其有效性，本文选用13个数学特征和规模不同的标准单目标测试函数对其进行测试，各测试函数如表1所示；在表1特征栏中，“U”表示单峰函数，即该函数在定义域内只有一个极值，即全局最优值，没有局部最优值；“M”表示多峰函数，即该函数在定义域内有多个局部极值，主要用来检测算法的全局寻优和避免早熟的能力[18]；“S"表示可分函数，“N”表示不可分函数，若某具有 $\mathbf { \eta } _ { \mathrm { ~ n ~ } }$ 个变量的函数能用这n个单变量函数之和来表示该函数，则该函数为可分函数，否则，为不可分函数。不可分函数相对可分函数将更加复杂，在寻优过程中对算法的性能要求更高。在表1的定义域栏中，集合部分为变量取值范围，上标为函数的维数D，测试函数维数D越高，算法的运算复杂度越大，对算法性能的要求也越高。
+
+# 3.2算法对比验证及分析
+
+为了测试DWPA算法的性能，本文同时用DWPA、WPA、
+
+PSO、DE和FSA算法对以上13个函数分别重复进行100次寻优测试并记录寻优的最优值、最差值、平均值、标准差和计算成功率五个方面进行对比分析。实验环境为：Intel(RCoreTMi5-
+
+4590 CPU $@ 3 . 3 0 \mathrm { G H z }$ ，内存16GB，Win7专业版64位操作系统，MATLABR2013b。
+
+表1测试函数  
+
+<html><body><table><tr><td>函数名</td><td>函数表达式</td><td>特征</td><td>定义域</td><td>全局 最优</td></tr><tr><td>Sphere</td><td>1</td><td>US</td><td>[-10,10]²</td><td>0</td></tr><tr><td>Matyas</td><td>f=0.26(x²+x2）-0.48xx</td><td>UN</td><td>[-10,10]²</td><td>0</td></tr><tr><td>Booth</td><td>f=(x+2x-7）²+(2x+x-5)²</td><td>MS</td><td>[-10,10]²</td><td>0</td></tr><tr><td>Eggcrate</td><td>f4=x²+x²+25(sin²x,+sin²x）</td><td>MN</td><td>[-π,π]²</td><td>0</td></tr><tr><td>Trid6</td><td></td><td>UN</td><td>[-36,36]6</td><td>-50</td></tr><tr><td>Sumsquares-1</td><td>D i=/</td><td>US</td><td>[-10,10]10</td><td>0</td></tr><tr><td>Rastrigin</td><td>D f,=∑[x²-10cos(2πx)+10] i=1</td><td>MS</td><td>[-10,10]60</td><td>0</td></tr><tr><td>Griewank</td><td>f8=4000台</td><td>MN</td><td>[-600,600]100</td><td>0</td></tr><tr><td>Quadric</td><td>=x²</td><td>MS</td><td>[-30,30]100</td><td>0</td></tr><tr><td>Sumsquares-2</td><td></td><td>US</td><td>[-10,10]100</td><td>0</td></tr><tr><td>Rosenbrock</td><td>D-1 fu=∑[100(x+-x²）²+(x-1)²]</td><td>MN</td><td>[-30,30]100</td><td>0</td></tr><tr><td>Ackley-1</td><td></td><td>MN</td><td>[-32，32]100</td><td>0</td></tr><tr><td>Ackley-2</td><td>f=20） D D =1</td><td>MN</td><td>[-32，32]200</td><td>0</td></tr></table></body></html>
+
+计算成功率定义为成功计算次数占总计算次数的百分比[10]。对于每次寻优计算得到的结果Q，当Q满足式（12）时，表示此次寻优成功。
+
+$$
+\left\{ \begin{array} { l l } { \displaystyle \left| \frac { Q - Q _ { b e s t } } { Q _ { b e s t } } \right| < 1 E - 0 3 } & { Q _ { b e s t } \neq 0 } \\ { \displaystyle \left| Q - Q _ { b e s t } \right| < 1 E - 0 3 } & { Q _ { b e s t } = 0 } \end{array} \right.
+$$
+
+其中： $\boldsymbol { Q } _ { b e s t }$ 为所求函数的理论全局最优值。
+
+寻优计算的最大迭代次数设为2000，DWPA、WPA、PSO、DE 和FSA算法的种群规模设为50，其中：WPA算法的参数依据文献[10]选取，PSO算法的参数依据文献[2]选取，DE算法的参数依据文献[8]选取，FSA算法的参数依据文献[6]选取，整理如表2所示；五种算法对以上13个函数寻优计算的结果如表3所示。
+
+表2各算法参数对照表  
+
+<html><body><table><tr><td>算法</td><td>参数取值</td></tr><tr><td>PSO</td><td>惯性权重ω=0.7298，学习因子c=c=2，个体速度范 围[-0.5,0.5]</td></tr><tr><td>DE</td><td>缩放因子F=0.6，交叉概率因子CR=0.9</td></tr><tr><td>FSA</td><td>最多试探次数trynum=100,感知距离v=1，拥挤度因子 de=0.618，步长step=0.1</td></tr><tr><td>WPA</td><td>探狼比例因子α=4，最大游走次数Tmax=20.距离判定因 子ω=500，步长因子s=1000，更新比例因子 β=6</td></tr><tr><td>DWPA</td><td>探狼比例因子α=4，最大游走次数T1max=10,最大奔袭次 数T2max=10,步长因子S=1500，更新比例因子β=3，缩放因</td></tr></table></body></html>
+
+由表3中各种算法的寻优计算结果可以看出：
+
+a)对于单峰、低维的可分函数Sphere及不可分函数Matyas,5种算法都寻优成功且具有较好的性能，其中DWPA和
+
+WPA的寻优能力相当，尤其在求解不可分函数Matyas时，DWPA和WPA性能远高于其他三种算法。
+
+b)对于多峰、低维的可分函数Booth，5种算法都寻优成功且性能都较好，其中PSO寻优性能最佳，此时DWPA性能优势并不明显。
+
+c)对于多峰、低维的不可分函数Eggcrate,FSA存在由于陷入局部最优值而使寻优失败的情况，使其寻优成功率较低，其他四种算法全部寻优成功，此时DWPA具有最佳寻优性能。
+
+d）对于单峰、不可分函数Trid6，DWPA和PSO都寻优成功且性能较好，DE和WPA存在陷入局部最优而寻优失败的情况，FSA寻优完全失效。
+
+e)对于单峰、可分函数Sumsquares-1，DWPA、WPA、PSO、FSA都寻优成功，其中DWPA和WPA具有最佳寻优性能，DE寻优完全失效。对于高维函数，PSO、DE和FSA都无法跳出局部最优而导致寻优失败，不能获得较好的寻优效果；只有WPA和DWPA有一定的寻优能力，故以下只对比WPA和DWPA的寻优性能。
+
+表3各算法寻优结果  
+
+<html><body><table><tr><td>函数</td><td>算法</td><td>最优值</td><td>最差值</td><td>平均值</td><td>标准差</td><td>计算成功率</td></tr><tr><td></td><td>PSO</td><td>5.87E-108</td><td>2.51E-99</td><td>2.35E-100</td><td>6.30E-100</td><td>100%</td></tr><tr><td></td><td>DE</td><td>2.37E-23</td><td>6.24E-16</td><td>5.88E-18</td><td>8.38E-16</td><td>100%</td></tr><tr><td>Sphere （2维）</td><td>FSA</td><td>2.40E-16</td><td>4.73E-09</td><td>8.64E-10</td><td>7.53E-09</td><td>100%</td></tr><tr><td></td><td>WPA</td><td>o</td><td>0</td><td></td><td>0</td><td>100%</td></tr><tr><td></td><td>DWPA</td><td>0</td><td>0</td><td>0</td><td>0</td><td>100%</td></tr><tr><td></td><td>PSO</td><td>2.33E-13</td><td>9.70E-10</td><td>1.11E-11</td><td>2.01E-11</td><td>100%</td></tr><tr><td>Matyas</td><td>DE</td><td>1.97E-17</td><td>9.77E-15</td><td>5.01E-16</td><td>2.31E-16</td><td>100%</td></tr><tr><td>(2维）</td><td>FSA</td><td>8.33E-14</td><td>5.78E-11</td><td>9.89E-12</td><td>1.32E-11</td><td>100%</td></tr><tr><td></td><td>WPA</td><td>3.01E-101</td><td>6.18E-94</td><td>2.97E-96</td><td>1.12E-94</td><td>100%</td></tr><tr><td></td><td>DWPA</td><td>2.23E-101</td><td>5.65E-95</td><td>3.42E-97</td><td>7.20E-96</td><td>100%</td></tr><tr><td></td><td>PSO</td><td>o</td><td>0</td><td>0</td><td>0</td><td>100%</td></tr><tr><td>Booth</td><td>DE</td><td>6.55E-20</td><td>1.87E-17</td><td>2.56E-18</td><td>8.11E-17</td><td>100%</td></tr><tr><td>(2维）</td><td>FSA</td><td>1.67E-11</td><td>2.43E-09</td><td>5.98E-10</td><td>6.27E-10</td><td>100%</td></tr><tr><td></td><td>WPA</td><td>7.22E-10</td><td>6.46E-07</td><td>2.13E-08</td><td>1.71E-08</td><td>100%</td></tr><tr><td></td><td>DWPA</td><td>6.15E-11</td><td>5.45E-09</td><td>1.12E-10</td><td>1.33E-09</td><td>100%</td></tr><tr><td></td><td>PSO</td><td>2.52E-189</td><td>9.47E-182</td><td>5.21E-183</td><td>8.57E-183</td><td>100%</td></tr><tr><td>Eggcrate</td><td>DE</td><td>4.31E-22</td><td>6.66E-19</td><td>1.85E-19</td><td>1.74E-19</td><td>100%</td></tr><tr><td>（2维）</td><td>FSA</td><td>5.74E-07</td><td>9.49E+00</td><td>1.52E+00</td><td>3.51E+00</td><td>5%</td></tr><tr><td></td><td>WPA</td><td>1.27E-171</td><td>1.25E-164</td><td>2.65E-165</td><td>0</td><td>100%</td></tr><tr><td></td><td>DWPA</td><td></td><td>0</td><td>0</td><td>0</td><td>100%</td></tr><tr><td></td><td>PSO</td><td>-50</td><td>-50</td><td>-50</td><td></td><td>100%</td></tr><tr><td>Trid6</td><td>DE</td><td>-50</td><td>-49.9387</td><td>-49.9969</td><td>0.0134</td><td>97%</td></tr><tr><td>（6维）</td><td>FSA</td><td>-49.9498</td><td>-49.9395</td><td>-49.9476</td><td>0.0041</td><td>0</td></tr><tr><td></td><td>WPA</td><td>-50</td><td>-49.9497</td><td>-49.9975</td><td>0.011</td><td>96%</td></tr><tr><td></td><td>DWPA</td><td>-50</td><td>-50</td><td>-50</td><td>0</td><td>100%</td></tr><tr><td></td><td>PSO</td><td>2.21E-46</td><td>1.16E-34</td><td>5.92E-36</td><td>2.59E-35</td><td>100%</td></tr><tr><td>Sumsquares-1</td><td>DE</td><td>2.53E-02</td><td>1.34E-01</td><td>7.58E-02</td><td>2.11E-02</td><td>0</td></tr><tr><td>（10维）</td><td>FSA</td><td>2.13E-12</td><td>1.23E-07</td><td>2.12E-09</td><td>1.87E-09</td><td>100%</td></tr><tr><td></td><td>WPA</td><td></td><td>0</td><td>0</td><td>0</td><td>100%</td></tr><tr><td></td><td>DWPA</td><td>o</td><td></td><td></td><td>0</td><td>100%</td></tr><tr><td></td><td>PSO</td><td>1.80E+02</td><td>2.68E+02</td><td>2.25E+02</td><td>2.18E+01</td><td>0</td></tr><tr><td>Rastrigin</td><td>DE</td><td>4.80E+02</td><td>5.78E+02</td><td>5.33E+02</td><td>1.99E+01</td><td>0</td></tr><tr><td>（60维）</td><td>FSA</td><td>1.10E+02</td><td>1.22E+03</td><td>9.74E+02</td><td>5.85E+01</td><td>0</td></tr><tr><td></td><td>WPA</td><td>4.41E-09</td><td>3.37E-06</td><td>3.75E-07</td><td>7.48E-07</td><td>100%</td></tr><tr><td></td><td>DWPA</td><td></td><td>2.41E-12</td><td>1.58E-13</td><td>5.20E-13</td><td>100%</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>PSO</td><td>1.79E-01</td><td>2.55E-01</td><td>2.21E-01</td><td>2.06E-02</td><td>0</td></tr><tr><td></td><td>DE</td><td>3.27E-02</td><td>9.19E-01</td><td>1.01E-01</td><td>2.14E-02</td><td>0</td></tr><tr><td>Griewank</td><td>FSA</td><td>7.83E+03</td><td>1.01E+04</td><td>9.83E+03</td><td>4.54E+02</td><td>o</td></tr><tr><td>（100维）</td><td>WPA</td><td>3.11E-12</td><td>3.88E-01</td><td>1.49E-01</td><td>9.73E-02</td><td>94%</td></tr><tr><td></td><td>DWPA</td><td>2.44E-15</td><td>6.68E-12</td><td>1.59E-12</td><td>1.95E-12</td><td>100%</td></tr><tr><td></td><td>PSO</td><td>4.37E+02</td><td>1.13E+03</td><td>7.04E+02</td><td>1.50E+02</td><td>o</td></tr><tr><td>Quadric</td><td>DE</td><td>1.19E+05</td><td>2.30E+05</td><td>1.83E+05</td><td>3.29E+04</td><td>o</td></tr><tr><td>(100维）</td><td>FSA</td><td>1.31E+05</td><td>3.50E+05</td><td>2.78E+05</td><td>5.56E+04</td><td>0</td></tr><tr><td></td><td>WPA</td><td>5.93E-10</td><td>8.64E-07</td><td>2.33E-07</td><td>3.06E-07</td><td>100%</td></tr><tr><td></td><td>DWPA</td><td>4.15E-12</td><td>8.48E-08</td><td>1.11E-08</td><td>1.89E-08</td><td>100%</td></tr><tr><td></td><td>PSO</td><td>5.98E+02</td><td>1.14E+03</td><td>8.57E+02</td><td>1.34E+02</td><td>0</td></tr><tr><td>Sumsquares-2</td><td>DE</td><td>5.73E-01</td><td>4.72E+03</td><td>2.61E+03</td><td>1.23E+03</td><td>0</td></tr><tr><td>（100维）</td><td>FSA</td><td>3.03E+05</td><td>4.16E+05</td><td>3.61E+05</td><td>2.39E+04</td><td>0</td></tr><tr><td></td><td>WPA</td><td>5.02E-09</td><td>5.02E-07</td><td>1.21E-07</td><td>1.37E-07</td><td>100%</td></tr><tr><td></td><td>DWPA</td><td>7.15E-16</td><td>6.12E-12</td><td>8.78E-13</td><td>1.43E-12</td><td>100%</td></tr><tr><td></td><td>PSO</td><td>1.16E+01</td><td>1.45E+01</td><td>1.29E+01</td><td>5.83E-01</td><td>0</td></tr><tr><td>Rosenbrock</td><td>DE</td><td>5.11E+00</td><td>1.58E+01</td><td>9.01E+00</td><td>2.77E+00</td><td>0</td></tr><tr><td>(100维）</td><td>FSA</td><td>1.15E+01</td><td>1.52E+01</td><td>1.31E+01</td><td>6.88E-01</td><td>0</td></tr><tr><td></td><td>WPA</td><td>2.59E-11</td><td>5.26E-02</td><td>3.83E-02</td><td>8.48E-03</td><td>90%</td></tr><tr><td></td><td>DWPA</td><td>3.23E-13</td><td>2.82E-10</td><td>2.39E-11</td><td>6.20E-11</td><td>100%</td></tr><tr><td></td><td>PSO</td><td>5.04E+00</td><td>6.99E+00</td><td>6.08E+00</td><td>3.83E-01</td><td>0</td></tr><tr><td>Ackley-1</td><td>DE</td><td>1.92E+01</td><td>2.00E+01</td><td>1.98E+01</td><td>1.13E-01</td><td>0</td></tr><tr><td>(100维）</td><td>FSA</td><td>2.13E+01</td><td>2.15E+01</td><td>2.14E+01</td><td>3.42E-02</td><td>0</td></tr><tr><td></td><td>WPA</td><td>7.30E-13</td><td>6.36E-02</td><td>5.73E-02</td><td>1.76E-02</td><td>87%</td></tr><tr><td></td><td>DWPA</td><td>8.88E-16</td><td>8.88E-16</td><td>8.88E-16</td><td>0</td><td>100%</td></tr><tr><td></td><td>PSO</td><td>2.71E+00</td><td>3.29E+00</td><td>3.14E+00</td><td>1.42E-01</td><td>0</td></tr><tr><td>Ackley-2</td><td>DE</td><td>1.91E+01</td><td>1.98E+01</td><td>1.96E+01</td><td>1.13E-01</td><td>0</td></tr><tr><td>(200维）</td><td>FSA</td><td>2.13E+01</td><td>2.16E+01</td><td>2.14E+01</td><td>3.45E-02</td><td>0</td></tr><tr><td></td><td>WPA</td><td>1.52E-11</td><td>7.17E-01</td><td>2.39E-01</td><td>4.68E-01</td><td>75%</td></tr><tr><td></td><td>DWPA</td><td>8.88E-16</td><td>8.88E-16</td><td>8.88E-16</td><td>0</td><td>100%</td></tr></table></body></html>
+
+f)对于60 维的多峰、可分函数Rastrigin，DWPA和WPA寻优成功，DWPA寻优精度高于WPA，如图2所示。
+
+![](images/6c1bab5415dacf1b99b1d95f88e37cf71fb20dde20a22d0fb32bc515d920df16.jpg)  
+图2DWPA与WPA的Rastrigin函数平均迭代曲线
+
+g)对于高维、多峰的不可分函数Griewank和Rosenbrock，DWPA全部寻优成功且性能较稳定，WPA存在陷入局部最优的情况而使得寻优能力不稳定，如图3、4所示。
+
+![](images/a99877a474ae1b727f6d019841286e75581566978f5a634c03ada2ebc6f281b4.jpg)  
+图3DWPA与WPA的Griewank函数平均迭代曲线
+
+h)对于高维、多峰的可分函数Quadric和单峰的可分函数Sumsquares-2，DWPA和WPA寻优成功，且DWPA寻优精度高于WPA，如图5及图6所示所示。
+
+i)对于高维的多峰、不可分函数Ackley，DWPA寻优性能较稳定，WPA存在陷入局部最优的情况，且随着Ackley函数维数的增加，其陷入局部最优的可能性增加而导致寻优能力继续下降，如图7、8所示。
+
+综上所述，DWPA对各类单峰/多峰、低维/高维、可分/不可分函数都具有较好的寻优计算能力，与WPA相比，DWPA对于高维、不可分函数的求解不易陷入局部最优值，算法鲁棒性也得到加强。
+
+![](images/baa7f45aa94bbadfafa6ab4d5f72c90c880f3d5f24f648159f0d648b0e4c14b2.jpg)  
+图4DWPA与WPA的Rosenbrock函数平均迭代曲线
+
+![](images/4ac21fe70e6ed72c5c4e1b5cb2c634fcc8391c94430bfdcc9a482be91be779f5.jpg)  
+图5DWPA与WPA的Quadric函数平均迭代曲线
+
+![](images/e45de2ac51064bbdbbb6d82535b231651cdd0cc305fa0197d092040b54c4d8e9.jpg)  
+图6DWPA与WPA的Sumsquares-2函数平均迭代曲线
+
+![](images/235d835e58b8d14184959f0d5c70a3705532e0d41bc5469f336ba49a887f7daf.jpg)  
+图7DWPA与WPA的Ackley-1函数平均迭代曲线
+
+![](images/0a20e6d577c5c40f19711b89b332d71b22494791390f2e151a8cff123a882100.jpg)  
+图8DWPA与WPA的Ackley-2函数平均迭代曲线
+
+# 4 结束语
+
+为了提高狼群算法的寻优性能，本文提出一种基于差分进化的改进狼群算法(DWPA)，在游走行为中引入探狼搜索因子，使得算法寻优能遍历整个空间；在奔袭中除去人工狼距离计算过程，并引入猛狼最大奔袭次数和头狼替换作为两个行为终止条件，防止算法陷入无限循环并提高计算效率和算法鲁棒性；在围攻行为中引入自适应围攻步长，使得距离头狼相对较远的人工狼以相对较大的步长向头狼靠近，距离头狼相对较近的人工狼以较小步长对头狼附近区域进行更加精细的搜索，兼顾算法的局部搜索和全局搜索能力；并在改进WPA算法的基础上加入差分进化的变异、交叉和选择操作，使算法能跳出局部最优，提高算法全局搜索能力。通过13个测试函数对DWPA等5种算法进行了性能对比测试。测试结果表明，DWPA对各类单峰/多峰、低维/高维、可分/不可分函数都具有较好的寻优计算能力，其在求解多峰、高维、不可分函数时能有效跳出局部最优，为高维、不可分等复杂函数的求解提供了一种新的思路和高效的解决方法。但本文只在围攻行为中引入了自适应步长，如何对游走、奔袭行为中的固定步长进行改进以获得更佳的寻优效果需要进一步研究。
+
+# 参考文献：
+
+[1]丁建立，陈增强，袁著祉．智能仿生算法及其网络优化中的应用研究进 展[J]．计算机工程与应用，2003,39(12):10-15.(Ding Jianli,Chen Zengqiang, Yuan Zhuzhi. Research progress of intelligent bionic algorithm and its application in network optimization [J]. Computer Engineering and Applications,2003,39(12): 10-15.)   
+[2]Kennedy J,Eberhart R.Particle swarm optimization [C]//Proc of IEEE International Conference on Neural Networks.1995:1942-1948.   
+[3] 李炳宇，萧蕴诗，吴启迪．一种基于粒子群算法求解约束优化问题的混 合算法[J].控制与决策,2004,19(7):804-807.(LiBingyu,Xiao Yunshi, Wu Qidi.A hybrid algorithm based on particle swarm algorithm for solving constrained optimization problems [J]. Control and Decision,2oo4,19(7): 804-807. )
+
+[4]王俊伟，汪定伟．粒子群算法中惯性权重的实验与分析[J]．系统工程 学报,2005,20(2):194-198.(Wang Junwei,Wang Dingwei.Experiment and analysis of inertia weight in particle swarm optimization [J].Journal of
+
+Systems Engineering,2005,20 (2):194-198.)   
+[5]李晓磊．一种新型的智能优化方法-人工鱼群算法 [D].杭州：浙江大 学,2003.(Li Xiaolei.A new intelligent optimization method-artificial fish school algorithm [D].Hangzhou: Zhejiang University,2003.)   
+[6]Li Xiaolei, Shao Zhijiang,Qian Jixin.An optimizing method based on autonomous animate:fish swarm algorithm [J].Systems EngineeringTheory & Practice,2002 (11):32-38.   
+[7]段海滨，王道波，朱家强，等．蚁群算法理论及应用研究的进展[J]. 控制与决策,2004,19 (12):1321-1326.(Duan Haibin,Wang Daobo,Zhu Jiaqiang,etal.Advances in theoretical and applied research of ant colony algorithm[J].Control and Decision,2004,19 (12):1321-1326.)   
+[8]吴亮红．差分进化算法及应用研究[D].长沙：湖南大学,2007.(Wu Lianghong.Diferential evolution algorithm and its application [D]. Changsha: Hunan University,2007.)   
+[9]Yang Chenguang,Tu Xuyan, Chen Jie.Algorithm of marriage in honey bees optimization based on the wolf pack search [C]// Proc of International Conference on Intelligent Pervasive Computing.Washington DC:IEEE Computer Society,2007: 462-467.   
+[10]吴虎胜，张凤鸣，吴庐山．一种新的群体智能算法——狼群算法[J]. 系统工程与电子技术,2013,35(11):2430-2438.(Wu Husheng,Zhang Fengming,Wu Lushan.A new swarm intelligence algorithm:wolfland algorithm [J]. Systems Engineering and Electronics,2013,35 (11): 2430- 2438.)   
+[11]刘永兰，李为民，吴虎胜，等．基于狼群算法的无人机航迹规划[J]. 系统仿真学报,2015,27(8):1838-1843.(Liu Yonglan,Li Weimin,Wu Husheng,etal. Unmanned aerial vehicle trajectory planning based on wolf
+
+group algorithm[J].Journal of System Simulation,2015,27(8): 1838-1843.) [12]王建群，贾洋洋，肖庆元．狼群算法在水电站水库优化调度中的应用 [J]．水利水电科技进展,2015,35(3):1-4.(Wang Jianqun,Jia Yangyang, Xiao Qingyuan.Wolfpack algorithm in the optimal operation ofhydropower station reservoirs [J].Advances in Science and Technology of Water Resources,2015,35 (3): 1-4.)
+
+[13]惠晓滨，郭庆，吴娉娉，等．一种改进的狼群算法[J].控制与决策，   
+2017,32(7):1163-1172.(Hui Xiaobin,Guo Qing,Wu Pingping,et al.An improved wolf pack algorithm[J].Control and Decision,2017,32(7):1163-   
+1172.) [14]钱荣鑫．一种基于文化机制的狼群算法[J].信息技术,2015(12):98-   
+102.(Qian Rongxin.A wolf algorithm based on cultural mechanism [J]. Information Technology,2015 (12): 98-102.) [15]曹爽，安建成.改进狼群优化算法的Otsu 图像分割法[J].微电子学与 计算机,2017,34 (10): 16-21.(Cao Shuang,An Jiancheng. Otsu image segmentation method for improved wolf group optimization algorithm [J]. Microelectronics & Computer, 2017,34(10):16-21.) [16] Li Junhua,Li Ming. Convergence analysis and convergence rate estimate of cellular genetic algorithms [J].Pattern Recognition & Artificial Inteligence,   
+2012,25 (5): 874-878. [17] Galletly J. Evolutionary algorithms in theory and practice [J]. Complexity,   
+1996,2 (8): 26-27. [18] Solano-Arag6n C,Castillo O. Optimization of benchmark mathematical functions using the firefly algorithm with dynamic parameters [M]//Fuzzy Logic Augmentation of Nature-Inspired Optimization Metaheuristics.[S.   
+1.] :Springer International Publishing,2O15: 81-89.

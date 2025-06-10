@@ -1,0 +1,174 @@
+# DOI:10.5846/stxb201702060216
+
+曹永强,袁立婷,李维佳.基于文献计量的作物耗水研究现状及热点分析.生态学报,2018,38（5)：1874-1883.
+
+# 基于文献计量的作物耗水研究现状及热点分析
+
+曹永强\*，袁立婷，李维佳辽宁师范大学城市与环境学院，大连116029
+
+摘要：通过使用文献计量学的相关方法分析Webof Science 核心集合T数据库中1985—2016年“作物耗水"的相关文献,评估作物耗水领域的研究现状及热点,以期为该领域学者日后研究提供方向。分析结果表明,1985—2016年作物耗水相关文献的发表数量随时间呈增长趋势;从主要研究力量方面看,欧美等发达国家在研究力量构成上占有较大席位,发展中国家研究力量则以中国和印度为主;中国科学院、美国农业部(USDA)以及加利福尼亚大学为国际上作物耗水领域主要研究机构,在该领域内具有一定影响力。就目前研究状况看来,研究热点集中于作物灌溉、资源利用以及生物化学领域。在未来的研究发展趋势方面,作物耗水与能源供给间的关系、作物蒸散发和作物生长关系等方向将具有一定的研究价值和发展空间。
+
+关键词：文献计量学；作物耗水；研究现状；热点分析
+
+作物耗水是指作物生长过程中对水分的消耗,它是一个地区主要的水量支出,其历史演变特征将对当地水资源配置产生直接影响[1]。在水资源紧缺地区,作物耗水问题一直受到广泛的关注。我国作为农业大国,由大量农业用水和水资源短缺带来的供需矛盾问题威胁着农业生产可持续发展[2]。对农作物耗水规律的研究是农田生态系统水热平衡中的重要环节,在保证粮食高产的前提下如何合理配置水资源逐渐成为研究热点之一。国际上对作物耗水的研究起始于20世纪60年代末,逐渐发展于20世纪90年代,作为农田水利规划、设计和用水管理的重要依据,作物需水量长期以来深受水利及农业学界的广泛重视[3-7]。早期的研究多是针对于干旱地区,希望通过相关研究找到缓解干旱的方法。如 David等[8]在1993年,针对科罗拉南部半干旱区稀疏植被,利用S-W双源模型估算了该区植被的蒸散发。21世纪后,作物耗水研究逐渐延伸至农作物领域，多用于寻求满足作物增产与水资源配置的需求。Liu 等[9利用双作物系数法估算了禹城冬小麦和夏玉米的蒸散发,但未对作物蒸腾与土壤蒸发进行区分;Odhiambo等[10]不仅利用S-W双源模型估算了内布拉斯加州滴灌条件下大豆农田的蒸散发,且有效区分了作物蒸腾与土壤蒸发。目前对于作物耗水的研究多针对蒸散发展开,研究方法以水量平衡法、PM法、涡动相关实测法、模型模拟等方法较为多用[I-17]。近年来,对于作物耗水的规律性研究也呈逐渐发展态势,如白岩等[18]采用基于热平衡原理的包裹式茎流计,详细分析了典型生长葡萄树蒸腾耗水规律和葡萄地冠层蒸腾及蒸散发规律。
+
+文献计量学是借助文献特征的数量,采用数学与统计学方法来描述、评价和预测科学技术的现状与发展趋势的情报学分支学科[19]。文献计量学在多学科都有广泛应用[20-22],如陈宝明等[23]将其用于外来生物入侵危害与风险评估研究;唐霞等[24]采用文献计量方法,借助分析软件 TDA（Thomson Data Analyzer）和 UCINET软件对1985—2014年绿洲研究进展情况进行了分析;曹永强等[25]将文献计量学运用到生态修复现状研究中。计量学方法对于学科研究具有很好的指导作用,但目前国内发表的文献中鲜有针对作物耗水领域的文献计量分析。为了能够在总体上把握作物耗水领域的研究现状、热点和发展趋势,本文以Web of Science 核心集合T"数据库为数据源,对1985—2016年发表的作物耗水相关的文献进行计量分析,以期了解作物耗水领域研究的最新动态，并为作物耗水相关领域的进一步研究提供参考。
+
+# 1数据来源与研究方法
+
+# 1.1 数据来源
+
+本文数据来自汤森路透科技集团（Thomson Reuters）Web of Science 产品中的 Web of Science 核心集合TM数据库。影响因子IF取自Webof science 产品自带的发布于2015 年期刊引用报告 JCR（Jourmal CitationReports）。通过数据库检索各类作物耗水研究相关文献,检索方式为“主题检索”,检索式为：（“Crop waterconsumption”or“crop's water-consuming”or“Water consumption of crop”）,最终获得1985—2016 年期间的各类文献共计 2451项检索结果。 57>5
+
+# 1.2 研究方法
+
+本文采用文献计量的方法对作物耗水研究现状以及研究热点趋势进行分析,并进行可视化处理。由OllePersson开发的 Bibexcel软件不仅可以完成多种计量分析工作且便于与其他分析软件进行数据交换,因此本文将运用该软件统计关键词的词频并生成相关矩阵。本文的高频关键词共现网络可视图将借助Ucinet及Netdraw 软件得到以表达关键词间的联系。Ucinet 网络分析集成软件具有很强的矩阵分析功能,其包含的二维数据分析软件Netdraw得到的共现网络可视图可直观的表达关键词间的联系情况。关键词的关联度对可视化结果有一定的影响,需要按照特定的方法对关键词原始共现矩阵进行包容化处理,形成相似矩阵和相异矩阵,真正反映主题之间的紧密联系程度[26],目前对词频次进行包容化处理的方法主要有包容指数法、临近指数法和相似系数法(Ochiia系数)3种,本文采用应用较多的关联强度Ochia系数统计指数来减少这一影响[27],关联强度Ochia系数统计指数的公式如下：
+
+在此基础上,运用 SPSS 软件中的系统聚类方式对高频关键词进行聚类分析,得出系统聚类类别划分。
+
+# 2结果与分析
+
+# 2.1文献总体发文趋势分析
+
+1985—2016年作物耗水研究领域的发文数量情况如图1所示。该领域的发文数量在总体上呈上升趋势，在2000年以前，文章发表量的涨势是较缓慢的，且年际间年均发表量相差不大，该时期的作物耗水的研究仍处于初步阶段，更多的是作为辅助性研究为相近领域提供帮助。作物耗水的研究很多都被归化到农业生产、植物生长等大领域研究范围，对其单独性的研究较少，因此相关文章的发表量也较少。对比2000年前后该领域发文趋势线系数,可明显看出 2000 年以后的文献发表量的增涨趋势明显增高。进入21世纪以来，随着作物、植
+
+350。 发文量篇300Nrlegtgeres 250 □ 线性(发文量) □善 200 线性(发文量) □品150 □□100 品□ /□50□01980 19851990 1995 2000 2005 2010 2015 2020年份Year
+
+被与资源等领域研究的深入,学界对于作物耗水方面的研究逐步发展开来，使其逐步由辅助性的研究方向发展成为独立的领域。尤其在近几年农业发展迅速,农业耗水量增多与水资源短缺问题日益加剧的现状下,使作物耗水与其相关领域的研究逐步受到学术界的重视,对其针对性的研究逐渐增多。因而,该领域的发文量和文献数量的增长都有大幅度提高。
+
+为便于进一步分析文献在参与人次与文章质量等方面的发展情况,将1996—2016年发表的有关于作物耗水相关文献的基本特征总结如图2（1996年以前文献数量过低，不具有指向意义因此不计人统计)。由图2可以看出各项指标年际间的变化趋势,TP代表文献总数、AU为作者数、NR为引文数、PG为文献页数分别对应主坐标轴刻度,AU/TP、NR/TP、PG/TP 结果对应次坐标轴。由图2可知,篇均作者数由 2.83人增加到4.67人,有更多的学者参与到了相关研究中来;篇均引文数量年际间变化并不连续但整体呈现上涨趋势,引文数由最初的篇均1.93篇增涨到篇均27.47篇。随着研究工作的大量展开,学者在引用和参考他人研究成果的资源方面也随时间逐渐丰富起来,研究成果的增加是引文数增涨的重要原因;此外论文篇幅增涨趋势不明显,基本维持在10页左右。将图1与图2比较分析可以发现,自1996年以来论文数量和文献被引用量都有较大增长,除 2000 年以外,2008 年前后各项指标短时间内涨幅也较突出。这与2008年《世界发展报告》提出的在节能减耗背景下以农业促发展、大幅提高农作物生产效率的政策有关。欧、美、亚地区各国相继出台因地制宜的能源计划,使得领域内与作物、水资源等研究大量展开,并取得了相当数量的理论成果。／
+
+![](images/026ff0aa300f8d585e3a01bcf4f0624161e9f3907cdfab54c54a0369f55ac18e.jpg)  
+图21996—2016年历年发文基本特征  
+Fig.2 Documents basic features in 1996-2016
+
+TP:论文总数,Total number of papers;AU:作者,Authors;NR:参考文献数,Number of references;PG:文章页数,Pages
+
+# 2.2 主要研究力量分析
+
+# 2.2.1 主要研究国家/地区分析
+
+不同国家论文发表情况可以在某种程度上反应该国家对于某领域的重视程度及影响力。本文将发文量居前20位的国家/地区进行总结，如表1。其中 $\mathbf { h }$ 指数代表“高引用次数”，指一个国家(或机构、科研人员)最多有h篇论文分别被引用了最少h次。它是美国物理学家Hirsch于2005年提出的用于“评价科学家的科研绩效"的指标,h指数值越高,表明它的论文影响力越大[22]。由表1可知,发文量排名前20 的国家中,有4个美洲国家(美国、加拿大、巴西和墨西哥),6个亚洲国家(中国、日本、印度、伊朗、以色列和巴基斯坦),1个大洋洲国家(澳大利亚),9个欧洲国家(德国、英国、意大利、法国、荷兰、西班牙、瑞士、土耳其和希腊)。美国作为排名第一的国家,在文献数量、篇均被引用频次及h指数排名也均为首列,说明美国在作物耗水领域具有一定权威且在指导价值方面受到了领域学者的肯定。中国的发文数量位居世界前列,但在文献被引用频次方面与欧美国家存在差距。我国在国际上发表英文文献在时间上的滞后是影响文献被引用的次数的主要原因。另外,中国地域辽阔,环境、地理条件迥异致使很多针对我国区域性的作物耗水研究没有得到广泛的引用。
+
+理论上作物耗水相关技术的研发对农业国及发展中国家影响更为显著,但实际从学术领域研究现状来看,发达国家却占据更多的席位。这与诸多因素有关,其中,科技水平相对落后、资金短缺等原因使部分以农业为主的地区资金投人不足,难以支持更多的学术研究;再者,许多发展中国家的技术、资金及人才储备的不足等使其较难在该领域世界范围内占有很高的席位。但作为全球第二、第九大经济体[28]的中国和印度,也同是世界上最大且最具有代表性的发展中国家，二者在作物及其生长影响因素等方面的投入正在逐步加大，其相关研究也有迅猛的发展。
+
+为进一步明确发文量较高国家的研究进展,将位居前7位的国家1989—2016年的发文量变化绘制成图3(1989 年以前无文献发表)。可观察得出,作为农业出口型国家的德国,更早的开始在世界领域发表作物耗水方面的研究成果。欧洲各国相关研究起步时间较早与其早期相关政策的实施有关,欧共体于1991年6月即制定了首个“欧共体生态农业条例”使得欧洲很多国家在这一时期将注意力转向生态农业发展,对于作物与水资源的研究相继进展开来。整体上看,各国对作物耗水领域的研究多起步于20 世纪90年代初,中国相对较晚。受语言、科研环境和诸多因素影响,我国于20世纪90年代中后期才开始在世界范围内发表相关研究成果。各国在该领域研究进展程度上有所差异,2012年以前美国的发文量位居世界第一。我国自2012 年公布中央一号文件以来,大力提倡农田资源高效利用等研究,使2012年后我国对于农田作物等研究进入一个小高潮，相关文献发文数量反超美国，位居世界前列。
+
+表1“作物耗水"领域1985一2016年发文量居前20位国家/地区分布情况  
+
+<html><body><table><tr><td>toP£0 Tegio 国家 Country</td></tr><tr><td>篇均被引频次 论文数 Pot数占比/% Total d eqencey Average cited frequency</td></tr><tr><td>h指数 per paper Number of papers</td></tr><tr><td>美国USA 436 18.02 14276 32.52 59</td></tr><tr><td>中国 PEOPLESR CHINA 345 14.26 4835 13.85 33</td></tr><tr><td>西班牙 SPAIN 213 8.80 3407 15.92 28</td></tr><tr><td>意大利ITALY 164 6.78 1899 11.44 22 德国GERMANY 136 5.62 3249 23.72 24</td></tr><tr><td>5.50 1929 14.29 22</td></tr><tr><td>印度INDIA 133</td></tr><tr><td>巴西 BRAZIL 131 5.41 646 4.82 13</td></tr><tr><td>荷兰NETHERLANDS 120 4.96 3343 27.63 32</td></tr><tr><td>澳大利亚AUSTRALIA 108 4.46 2527 23.18 26</td></tr><tr><td>法国FRANCE 99 4.09 1758 17.94 22</td></tr><tr><td>英国 ENGLAND 97 4.01 3144 32.75 29</td></tr><tr><td>加拿大CANADA 84 3.47 2900 33.72 19</td></tr><tr><td>瑞士 SWITZERLAND 62 2.56 1038 16.74 15</td></tr><tr><td>日本JAPAN 57 2.36 1125 19.40 13</td></tr><tr><td>土耳其 TURKEY 51 2.11 416 8.16 10</td></tr><tr><td>伊朗IRAN 49 2.05 302 6.04 10</td></tr><tr><td>希腊GREECE 48 2.01 322 6.57 11</td></tr><tr><td>以色列 ISRAEL 44 1.80 490 11.14 14</td></tr><tr><td>墨西哥 MEXICO 44 1.80 370 8.41</td></tr><tr><td>10</td></tr><tr><td>巴基斯坦PAKISTAN 43 1.76 471 10.95 10</td></tr></table></body></html>
+
+# 2.2.2 主要研究机构分析
+
+将 1985—2016年作物耗水领域发文量位居前10的机构按其发文量高低逐一排列,分别列出其在该领域的发文数量、总被引次数、篇均被引次数以及 $\mathbf { h }$ 指数，如表2所示。发文数最多的前三个机构分别为：中国科学院（文献占比 $4 . 8 8 \%$ ）、美国农业部(文献占比 $2 . 9 9 \%$ )以及中国农业大学（文献占比 $2 . 3 4 \%$ )。总体上看，在文献排名前10 的机构中,中国相关机构共有3个,发文数量占比达 $9 . 0 2 \%$ ,我国机构在作物耗水领域研究上占有相当席位。
+
+本文从总引用频次、篇均引用频次以及 $\mathbf { h }$ 指数来分析机构影响力的大小。文章被引用最多的机构为美国的加利福尼亚大学,其次是美国农业部（USDA）、以及科学研究理事会。h指数排名前三位的机构分别为美国农业部（USDA）、科学研究理事会、中国科学院和加利福尼亚大学并列第三。较高的引用率在某种程度上可以说明文献的受认可程度较高,h指数大小可以看出其学科影响力的高低,在这两个方面美国加利福尼亚大学、美国农业部(USDA)和科学研究理事会均位列前三,证明该3个机构在该研究领域的影响力和受认可程度都较高。同时h指数排名第三的中国科学院在领域也具有相当的影响力,这4个机构均是作物耗水研究领域的权威机构。总体说来,科研机构影响力的高低与其发表的文献数量并不具有线性相关,但较高的发文量在某种程度上会使h指数增高从而使其影响力随之增大。
+
+![](images/2567a26db003115c08125d0cbc8c2a24da2e6b2d1928cf625a2962403ac81a90.jpg)  
+图31989-2016年各国发文量变化趋势  
+Fig.3The trend of the volume of papers issued in 1989-2016
+
+表2“作物耗水"领域1985一2016年发文量居前10位单位机构的分布情况  
+Table 2Distribution of the top 10 units of the document of Crop water consumption in1985—201   
+
+<html><body><table><tr><td>机构Institute</td><td></td><td>论文数 Number of</td><td>总被引频次 Tota eted</td><td>篇均被引频次 Average cited frequency per</td><td>h指数 h-index</td></tr><tr><td colspan="2">CHINESE ACADEMY OF SCIENCES</td><td>119</td><td>1846</td><td>paper 15.51</td><td>19</td></tr><tr><td colspan="2">UNITED STATES DEPARTMENT OF AGRICULTURE（USDA）</td><td>73</td><td>3271</td><td>44.81</td><td>25</td></tr><tr><td colspan="2">CHINA AGRICULTURAL UNIVERSITY</td><td>57</td><td>876</td><td>15.37</td><td>16</td></tr><tr><td colspan="2">CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS CSIC</td><td>53</td><td>1897</td><td>35.79</td><td>20</td></tr><tr><td colspan="2">UNIVERSITY OF CALIFORNIA SYSTEM</td><td>47</td><td>2876</td><td>61.19</td><td>19</td></tr><tr><td colspan="2">WAGENINGEN UNIVERSITY RESEARCH CENTER</td><td>46</td><td>1084</td><td>23.57</td><td>17</td></tr><tr><td colspan="2">NORTHWEST A F UNIVERSITY CHINA</td><td>44</td><td>579</td><td>13.16</td><td>12</td></tr><tr><td colspan="2">INSTITUT NATIONAL DE LA RECHERCHE AGRONOMIQUE INRA</td><td>35</td><td>1080</td><td>30.86</td><td>15</td></tr><tr><td colspan="2">COMMONWEALTH SCIENTIFIC INDUSTRIAL RESEARCH ORGANISATION CSIRO</td><td>33</td><td>995</td><td>30.15</td><td>14</td></tr><tr><td colspan="2">SWISS FEDERAL INSTITUTE OF TECHNOLOGY ZURICH</td><td>33</td><td>363</td><td>11.00</td><td>10</td></tr></table></body></html>
+
+# 2.2.3 主要刊载期刊分析
+
+将国际上刊载作物耗水领域相关文献数前10的期刊进行统计罗列，并分别列出其从1985—2016年间发表的相关文献数量及其占比,5年影响因子以及Webofscience类别。统计结果见表3。表中Quartilein
+
+715 rrrrirreririr iir lurnrlrrirlair ilnteirretrrearr lrrrnlrsiin   
+
+<html><body><table><tr><td>期</td><td></td><td>影响因子(5年)</td><td>Qua  aegry</td></tr><tr><td>AGRICULTURAL WATER MANAGEMENT</td><td>106(4.38）</td><td>3.37 AGRONOMY(U3RCE)(10/85)</td><td></td></tr><tr><td>SCIENCE OF THE TOTAL ENVIRONMENT</td><td>48(1.98)</td><td>ENVIRONMENTAL SCIENCES(32/225） ENGINEERING，ENVIRONMENTAL（5/50）</td><td>Q1</td></tr><tr><td>JOURNAL OF CLEANER PRODUCTION</td><td>31(1.28)</td><td>ENVIRONMENTAL SCIENCES（16/225） GREEN & SUSTAINABLE SCIENCE& TECHNOLOGY（5/29）</td><td>Q1</td></tr><tr><td>ENVIRONMENTAL SCIENCE TECHNOLOGY</td><td>25(1.03)</td><td>ENCINEERING, ELNVIRONMENTAL (3/50)</td><td>Q1</td></tr><tr><td>WATER RESOURCES MANAGEMENT</td><td>24(0.99)</td><td>ENGINEERING，CIVIL（13/126） WATERRESOURCES（12/85）</td><td>Q1</td></tr><tr><td>WATER SCIENCE AND TECHNOLOGY</td><td>22(0.91)</td><td>ENGINEERING，ENVIRONMENTAL(37/50) ENVIRONMENTAL SCIENCES(169/225）</td><td>Q3 Q4</td></tr><tr><td>ENVIRONMENTAL MONITORING AND ASSESSMENT</td><td>21(0.87)</td><td>WATER RESOURCES(54/85） ENVIRONMENTAL SCIENCES(117/225）</td><td>Q3 Q3</td></tr><tr><td>AGRICULTURE ECOSYSTEMS ENVIRONMENT</td><td>20(0.83)</td><td>AGRICULTURE， MULTIDISCIPLINARY（1/57） ECOL0GY（36/150） ENVIRONMENTAL SCIENCES(39/225)</td><td>Q1</td></tr><tr><td>INTERNATIONAL JOURNAL OF LIFE CYCLE ASSESSMENT</td><td>20(0.83)</td><td>4.056 ENGINRIN</td><td></td></tr><tr><td>ENVIRONMENTAL RESEARCHLETTERS</td><td>18(0.74)</td><td>ENVIRONMENTAL SCIENCES(28/225） 4.828 METEOROLOGY & ATMOSPHERIC SCIENCES（11/84)</td><td>Q1</td></tr></table></body></html>
+
+Category 数据来源于Thomson Reuters 公司的Journal Citation Reports?数据库。它是将期刊按照学科进行分区,即把某一学科的所有期刊按照上一年的影响因子降序排列,然后平均4 等分（各 $2 5 \%$ ）,分别为Q1,Q2,Q3,Q4的4个类别,通过分区可以快速的大致了解期刊的影响力情况。从文献发表前10位的期刊可以看出,关于“作物耗水”文章的刊载主要以环境类、农业类和水资源类杂志为主,其中位列前三位的期刊分别为：荷兰出版的《Agricultural Water Management》、《The Science of the Total Environment》以及美国的《JournalofCleaner Production》。Web of science 类别对应的分类主要集中于环境科学类、工程类、农业类和资源类。无论是杂志分类还是Webof science类别都可以看出,作物耗水所属的研究领域以环境和农业为主,另外水资源生态、气象等领域也有涉及。由表3还可得知,文献发表量前十的期刊的5年影响因子值普遍较高,平均值为3.84,且位于Q1区间的杂志占绝大多数,可知该领域高载文期刊普遍具有一定影响力。
+
+# 2.3 研究热点分析
+
+# 2.3.1 学科领域研究方向
+
+研究方向分析可以明确领域的研究侧重点,对于研究的热点具有一定的指向意义。在所有记录中结合发文数量及其占比情况,在排名前20的研究方向中研究最多的为农业方向,其次为环境生态学方向。大部分研究方向集中于资源、能源以及生物化学领域。同时大气科学、毒理学、计算机科学以及公共卫生等跨领域学科方向也有所涉及,说明作物耗水相关研究并不局限于自然环境,同时也多方面的涉及到了生产与生活等方面。选取排名前五的研究方向为代表,探讨其在作物耗水领域发文量位居前五的国家中的研究分布状况及近10年研究发展情况并绘制成分布图,如图4、图5所示。 A
+
+![](images/e2c69d9c484a0f1dad9cff7ddcb4a0a1f59257c9db00f2499dc2b4fb0a7c1c4e.jpg)  
+图4各国研究方向分布情况图
+
+![](images/7fce003169f8aa69e3db95b6b0eedfb79f62b83024b1b528dfd0ba4cf4cfe3c7.jpg)  
+图5近10年研究方向发展情况  
+Fig.4 The distribution of research directions   
+Fig.5The development of research in the past 1O years
+
+由图4可知,排名前五的研究方向在美国、中国、西班牙、意大利及德国的研究分布情况各有不同,但大体分布趋势与世界总体分布接近。其中与“作物耗水"最直接相关的研究方向“Agriculture（农业)”在各国占比均最高;中国在水资源及工程研究方面的侧重高于其余4国;西班牙与意大利更多的涉及到植物科学方向。从5个热点研究方向近10年发展情况可看出,各研究方向发展整体上随时间呈上升趋势,其中环境生态学的涨幅尤为明显。联合国政府间气候变化专门委员会(IPCC)第4、5次评估报告[29-30]多次提及全球气候变暖可能带来的极端气象灾害高发的问题,使学界对农林、环境生态等问题的注意力持续加强。2010—2011年各研究方向出现小幅攀升,2009 年召开的哥本哈根世界气候大会、2010年世界社会论坛以及第40 届"世界经济论坛"等世界性的论坛会议多次对农业、资源、环境生态问题提出高度重视,使这一时期各相关领域对于作物耗水问题的研究有更多的涉及。
+
+http://www.ecologica.cn
+
+# 2.3.2 关键词词频及可视化分析
+
+关键词作为学术型文章的重要部分,能够简洁且直观的表现出文章的主题和文章的写作方向。因此着重将“作物耗水”相关关键词进行统计并做进一步的分析。因出现频率小的关键词很难反映研究热点,故选用词频大于15的关键词,共计56个进行进一步分析。对于多词同义现象,本文给予了合并,如：“life cycleassessment”、“LCA"都是生命周期评价的意思,故统一用"LCA”表示。对合并后的48个关键词进行统计分析,这48个高频关键词在某种程度上可以反映目前作物耗水领域的研究核心与热点,统计结果见表4。
+
+作物耗水研究涉及最多的关键词为灌溉（irrgation）、耗水量（water consumption）、水资源（water resources）和蒸散量（evapotranspiration），分别占高频关键词的 $1 0 . 7 1 \% . 1 0 . 4 6 \% . 8 . 4 5 \%$ 及 $6 . 0 4 \%$ ,均高于平均占比数$2 . 0 8 \%$ 。表明这4种关键词涉及的研究方向是研究热点。而如能量（energy）、磷（phosphorus）、无土栽培（soilless culture)等词频小于20 的关键词,其词频占比均不足 $1 \%$ ,远小于平均值,说明该研究方向是比较深入和具体的,也可表明作物耗水研究可以进一步深入和拓展,有发展的空间。从关键词统计上看来,作物耗水研究领域热点为农业、水资源及土壤等方向。
+
+表4“作物耗水"期刊论文中高频关键词及词频   
+Table 4High-frequency keywords and frequency of Periodicals in Crop water consumption   
+
+<html><body><table><tr><td>词频 Word frequency</td><td>关键词 Key word</td><td>词频 Word frequency</td><td>关键词 Key word</td><td>词频 Word frequency</td><td>关键词 Key word</td></tr><tr><td>213</td><td>irrigation</td><td>32</td><td>sustainability</td><td>24</td><td>arsenic</td></tr><tr><td>208</td><td>water consumption</td><td>31</td><td>crop coefficient</td><td>22</td><td>nitrogen</td></tr><tr><td>174</td><td>water resources</td><td>30</td><td>groundwater</td><td>20</td><td>health risk</td></tr><tr><td>120</td><td>evapotranspiration</td><td>30</td><td>rice</td><td>20</td><td>maize</td></tr><tr><td>60</td><td>heavy metals</td><td>30</td><td>risk assessment</td><td>19</td><td>energy</td></tr><tr><td>52</td><td>agriculture</td><td>30</td><td>water management</td><td>19</td><td>phosphorus</td></tr><tr><td>50</td><td>LCA</td><td>30</td><td>water stress</td><td>19</td><td>wastewater</td></tr><tr><td>50</td><td>wheat</td><td>29 soil</td><td></td><td>19</td><td>water quality</td></tr><tr><td>48</td><td>yield</td><td>29</td><td>water balance</td><td>18</td><td>methane</td></tr><tr><td>43</td><td>climate change</td><td>29</td><td>waterproductivity</td><td>18</td><td>soilless culture</td></tr><tr><td>42</td><td>vegetables</td><td>28</td><td>biofuels</td><td>17</td><td>nitrous oxide</td></tr><tr><td>40</td><td>food security</td><td>28</td><td>greenhouse</td><td>17</td><td>tomato</td></tr><tr><td>35</td><td>virtual water</td><td>27 China</td><td></td><td>16</td><td>photosynthesis</td></tr><tr><td>34</td><td>drought</td><td>26</td><td>transpiration</td><td>15</td><td>bioaccumulation</td></tr><tr><td>34</td><td>salinity</td><td>25 crops</td><td></td><td>15</td><td>grain yield</td></tr><tr><td>33</td><td>A remote sensing</td><td>25</td><td>soil water content</td><td>15</td><td>lysimeter</td></tr></table></body></html>
+
+为便于了解高频关键词之间的内在关系,采用Bibexcel软件将48个关键词进行配对,统计它们的共现频次,利用Ucinet软件最终得到高频关键词共现网络可视图,如图6所示。
+
+图中节点的大小代表关键词出现的频率高低和与其他方向联系的紧密程度,通过双向箭头表达关键词配对情况。节点之间的连线表示节点之间两组关键词出现的频次,连线越粗、表明出现频次越高,代表两组关键词的关系就越密切[31]。较大节点显示的关键词,例如“irigation（灌溉）”、“water consumption（耗水量）”、“evapotranspiration(蒸散量)”等即为词频较大的关键词,说明这些方向的研究较为频繁且与其他领域关联较多;而如"bioaccumulation(生物富集)”、“lysimeter(蒸渗仪)”等节点较小且与其他关键词联系不紧密的词代表其研究方向涉及较少,或者属于某种特定的研究方法等。为明确关键词类别划分,对高频关键词进行系统聚类分析，得出作物耗水高频关键词整体分类情况。结果如表5所示。
+
+作物耗水文章涉及到的关键词大体可分为5类,群集1包含的内容较少,涉及到的大多是化学和气候领域的内容,分别为甲烷、氧化亚氮、气候变化、土壤和中国,有地域特性的显现。群集2所包含的内容涉及灌
+
+Sustainability Phosphorus Greenhouse Bioaccumulation Pollution Soilwater content WaterproductivityNitrogen Virtualwater Photosynthesis Riskassessment- Crops Methane a Irrigation ytl Rice Tomato Transpiration Cropcoefficient Waterbalance Soil Waterquality Salinity LCA Agriculturey Healthrisk Wastewater Drought Evapotranspiration Waterstress Remote sensing Groundwater Arsenic Biofuels Lysimeter Potato Watermanagement Climatechange Nitrous oxide Foodsecurity Grain yield Vegetables China Energy
+
+溉、水管理和作物栽培生长等诸多方面内容,主要是水资源、土壤等与作物种植领域较为贴切的方向。群集 3内容最少,主要为作物生长所需要的营养元素“氮（nitrogen）”和“磷（phosphorus）”。群集4 为农业风险相关内容,属于分支研究方向。集群5主要为作物生长环境方面,包括盐度（salinity）无土栽培（soilless culture)等方面。
+
+表5“作物耗水”聚类群体划分  
+Table 5Cluster classification of “crop water consumption"   
+
+<html><body><table><tr><td>群集Clusters</td><td>关键词Keyword</td></tr><tr><td>1</td><td>methane、nitrous oxide、climate change、soil、China irigation、sustainability、water consumption、crop_coeffcient、waterresources、groundwater、evapotranspiration、maize、energy、</td></tr><tr><td>2</td><td>agriculture water management、LCA、water stress、wheat、water quality、yield、water balance、water productivity、biofuels food security、virtual water、photosynthesis、drought、transpiration、bioaccumulation、grainyield、remote sensing、lysimeter、soil</td></tr><tr><td>3</td><td>water content nitrogen、phosphorus</td></tr><tr><td>4</td><td>risk assessment、wastewater、heavy metals vegetables、arsenic、rice、crops health risk bioaccumulation</td></tr><tr><td>5</td><td>Salinity、soilless culture、greenhouse、tomato</td></tr></table></body></html>
+
+# 3结论
+
+通过对作物耗水相关文献的统计与分析,并对结果进行总结归纳,得到如下结论：
+
+(1)从发文趋势上看,关于作物耗水的发文量在2000 年前后随时间均符合线性增长,2000年以后增势变强。学科受重视度与参与研究的学者人数均随时间逐步增高。
+
+(2)在领域研究力量方面,欧美等发达国家占有较大席位;属于发展中国家的中国和印度作为农业大国在作物耗水领域亦占有重要地位。主力科研机构分别为美国农业部（USDA）、中国科学院、科学研究理事会和加利福尼亚大学。但从整体方面来看,科研机构影响力的高低与其发表的文献数量并不具有线性相关。在发文期刊方面,相关文章刊载杂志的研究领域以环境和农业为主。
+
+(3)通过对作物耗水相关文献的研究方向和关键词分析得出：研究多以农业种植及其生产相关方向为主,其次为环境生态学方向。主要研究热点集中于作物灌溉、资源利用以及生物化学领域,较深入性的研究方向如某特定地区或某种作物的研究也有涉及。未来该领域在作物耗水与光合作用、作物蒸散发和作物生长关系等方向具有可拓展性。
+
+http ://www.ecologica.cn
+
+# 参考文献（References）：
+
+[1］陈博，欧阳竹，程维新，刘丽平.近50a华北平原冬小麦-夏玉米耗水规律研究．自然资源学报，2012，27（7)：1186-1199.  
+[ 2]Chen XP,CuiZL,FanMS,VitousekP,ZhaoM,MaWQ,Wang ZL,Zhang WJ,YanXY,YangJC,Deng XP,GaoQ,Zhang Q,GuoS W,Ren J,LiSQ,YeYL, Wang ZH,HuangJL,TangQY,SunYX,Peng XL,ZhangJW,He MR,ZhuYJ,XueJQ,Wang GL,WuL,AnN,WuLQ,MaL,Zhang WF,ZhangFS.Producing more grainwithlowerenviromentalcosts.Nature,2014,514(7523):486-489.  
+［3］李蒙，朱勇，黄玮.气候变化对云南气候生产潜力的影响.中国农业气象，2010,31（3)：442-446.  
+[4]QiuGY,Yano,omiK.Aniprovedethodlogteasureevapaiofroareolasedomarsofsufacetemperatureithdsoil surface.Journal of Hydrology，1998,210(1/4)：93-105.  
+[5]GoyalPK.Sensityofevapotraspiraiontoglobal waming:AcasestudyofaridzoneRajasthan（India）Agricultural WaterManagee2004,69(1): 1-11.  
+[6]XuCYongLB,gTChnD，SinghVAalysisofspatialdistributioandtmporaltrendofrefereceevaotraspraoadpnevaporation in Changjiang（Yangtze River） catchment. Journal of Hydrology，2006,327(1/2）：81-93.  
+[7]McVicar TR,Van Niel TG,LiLingtao,Hutchinson MF,Mu X M,Liu ZH.Spatialldistributing monthlyreference eva otranspiration and panevaporation considering topographic influences.Journal of Hydrology，2007，338(3/4）：196-220.  
+[8StanadD.Coparofe-oteithutleortWldodiedrstloapotraspiatodelsfriladvegetation in semiarid rangeland.Water Resources Research，1993,29(5）：1379-1392.  
+[9]LiuYJuoY.Aconsolidatedevaluationof teFO-5ualcocoefientapproachsingthelysimeterdatainteNorthCinalain.Agricultural Water Management，2010,97(1）：31-40.  
+[10]OdkSfedtlleefidgaporslresidue-covered subsurface drip-irigated Soybean field. Transactions of the ASABE,2011,54（3): 915-930.  
+[11］杨长刚，柴守玺，常磊.半干旱雨养区不同覆膜方式对冬小麦土壤水分利用及产量的影响.生态学报，2015，35(8)：2676-2685.  
+[12］王海波，马明国.基于遥感和Penman-Monteith模型的内陆河流域不同生态系统蒸散发估算.生态学报，2014，34（19）：5617-5626.  
+[13] 梁丽乔,李丽娟，张丽,李九一，姜德娟，胥铭兴，宋文献.松嫩平原西部生长季参考作物蒸散发的敏感性分析.农业工程学报，2008，24(5): 1-5.  
+[14] 袁小环，杨学军，陈超，武菊英.基于蒸渗仪实测的参考作物蒸散发模型北京地区适用性评价.农业工程学报,2014，30(13)：104-110.  
+[15] 徐俊增，彭世彰，丁加丽，魏征.基于蒸渗仪实测数据的日参考作物蒸发腾发量计算方法评价.水利学报，2010,41（12)：1497-1505.  
+[16]XJZ,PengSZ，DingJL，WeiQ，YuYMEvaluatioadcalbratioofsimplemetdsfordailyreferenceevapranspratiotiationinhumid East China. Archives of Agronomy and Soil Sc ，2013,59(6): 845-858.  
+[17] 赵丽雯，赵文智，吉喜斌.西北黑河中游荒漠绿洲农田作物蒸腾与土壤蒸发区分及作物耗水规律.生态学报，2015，35(4)：1114-1123.  
+[18] 白岩，朱高峰，张琨，马婷.基于树干液流及涡动相关技术的葡萄冠层蒸腾及蒸散发特征研究.生态学报，2015，35（23）：7821-7831.  
+[19]PandeyRPPandeyA，GalkateRV，ByunHR，MalBC.Integratinghydro-eteordogicalandpysiographicfactorsforessntfvulnerability to drought.Water Resources Management，2010,24（15）: 4199-4217.  
+[20］宋丽萍，王建芳.基于F1000与WoS 的同行评议与文献计量相关性研究.中国图书馆学报，2012,38（2）：62-69.  
+[21] 盛春蕾，吕宪国，尹晓敏，闫长平.基于web ofscience的189-2010年湿地研究文献计量分析.湿地科学,2012，10(1)：92-101.  
+[22］张树良，安培浚.国际地震研究发展态势文献计量分析.地球学报，2012,33（3）：371-378.  
+[23] 陈宝明，彭少麟，吴秀平，王鹏龙，马建霞.近20年外来生物入侵危害与风险评估文献计量分析.生态学报，2016，36(20)：6677-6685.  
+[24］唐霞，张志强.基于文献计量的绿洲研究发展态势分析.生态学报,2016,36(10):3115-3122.  
+[25] 曹永强，郭明，刘思然，杨俊.基于文献计量分析的生态修复现状研究.生态学报，2016,36(8)：2442-2450.  
+2[26] 马伯永，徐红艳，南青民.中国地质调查科技发展态势和关键词共词聚类分析.国土资源科技管理，2010,27（3)：103-110.  
+[27] 费钟琳，王京安.社会网络分析：一种管理研究方法和视角.科技管理研究，2010，30(24)：216-219.  
+[28] HirschJE.Andetoantfdiual'sietifsehoutputrocinofeNatalAcaefiencofthUnidtateoAmerica，2005，102(46）：16569-16572.  
+[29] IPCC.ClimateChange2O：Impacts，AdaptatioandVulnerabilityContriutionofWorkingrouptotheourthAsessmentReptfteIntergovernmental Panel on Climate Change.Brussels：IPCC,2007.  
+[30]IPCC.ClateCang4ct，AdaptatindVulnrabilityamidgeCmidgeUvesityPress，145-06]tww.ipcc.ch/report/ar5/wg2/.  
+[31］钟伟金，李佳，杨兴菊.共词分析法研究(三)——共词聚类分析法的原理与特点.情报杂志,2008，27（7)：118-120.

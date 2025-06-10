@@ -1,0 +1,187 @@
+临床研究
+
+# 基于16srRNA高通量测序分析糖尿病足骨髓炎感染骨组织中的病原微生物
+
+胡萍,邹梦晨，曹 瑛,潘彦伶，罗祥蓉，蒋 娅,薛耀明，高 方南方医科大学南方医院内分泌代谢科，广东广州510515摘要：目的 利用16s rRNA高通量测序技术分析糖尿病足骨髓炎(DFO)感染骨组织中病原微生物特点,为临床感染病原菌的鉴定及治疗提供快速、准确的方法。方法 收取2016年9月 ${ \sim } 2 0 1 7$ 年4月于本科室住院的16例DFO患者清创术中获取的感染骨标本,分别利用16s rRNA高通量测序技术和血培养分析仪进行病原微生物的鉴定,分析16srRNA测序结果中DFO的菌群特点，并与培养结果相比较。结果16s rRNA测序显示DFO骨组织病原微生物多样性较大,分布较为均匀，共获得优势菌属20种，占所有菌属的 $8 7 . 0 0 \%$ ,其中Prevotella是丰度最大的菌属。两种鉴定方法结果均显示DFO病原菌以革兰氏阴性菌为主。与培养法相比，16srRNA测序阳性率较高( $100 \%$ vS $8 8 . 2 4 \%$ ),平均每个样本病原菌数较多(12.56vs1.50),革兰氏阴性菌所占的比例较高 $67 . 1 6 \%$ vs $50 . 0 0 \%$ ）。此外,16s rRNA测序结果覆盖了除Escherichiacoli Serratiamarcescens及Enterobacter cloaca外的所有培养病原菌结果,甚至有高达13种菌属不存在于培养结果,其中Anaerococcus、Veillonella、Bacteroides、Fusobacterium、PorphyromonasFinegoldiaPrevotellPeptostreptococcusParvimonasPeptoniphilus和Bullidia均为专性厌氧菌或严格厌氧菌,而培养结果中并无厌氧菌的出现。但培养结果显示,DFO中多重耐药菌的比例高达 $58 . 3 3 \%$ 。结论16srRNA高通量测序能较好展示DFO骨组织中菌群微生态的多样性及丰度特点。DFO骨组织病原微生物多样性大，分布均匀,但优势菌属分布离散,以革兰氏阴性菌为主。与培养法相比,16s rRNA测序对病原菌的鉴定简单而准确,尤其在对革兰氏阴性菌和厌氧菌鉴定方面有显著的优势，可快速而准确地指导DFO感染治疗。
+
+关键词：糖尿病足骨髓炎；16srRNA基因;高通量测序技术;培养;病原菌
+
+# Pathogen analysis in patients with diabetic foot osteomyelitis using 16S rRNA highthroughput sequencing
+
+HU Ping,ZOU Mengchen,CAO Ying,PAN Yanling,LUO Xiangrong, JIANG Ya, XUE Yaoming, GAO Fang Departmentofndocrinologyndetabolism,NnfangHospital,outhernedicaliersity,Guangzhou5ina
+
+Abstract: ObjectiveToanalyzethecharacteristicsof pathogenic microorganisms intheinfectedbonetissues inpatints with diabetic foot osteomyelitis (DFO)using 16S rRNA high-throughputsequencing to facitate rapid and acurate detectionof pathogens andefectiveinfectioncontrol.Methods Betwee September,2016and April,2017,16patients withFO were admited in our department and infected bone specimens were obtained during debridement.The pathogenic microorganisms in the specimens were identified using both16S rRNAhigh-throughput sequencing and automatic blood culture analyzer,and thecharacteristicsofthe microflora were analyzed based on16SrRNAsequencingdata in comparison withtheresults of blood culture.Results The results of 16S rRNA sequencing showed that bone tissues of DFO contained diverse and uniformly distributed pathogenic organisms, among which 20 $( 8 7 \%$ ） dominant genera were identified with Prevotella as the most abundant pathogen. Both 16S rRNA sequencing and routine culture results suggested the domination of gram-negative bacteria among the pathogens in DFO bone tisues.16SrRNA sequencing,compared with routineculture, yieldeda higher positivity rate ( $1 0 0 \%$ US $8 8 . 2 4 \%$ ) and detected a greater average number of pathogens (12.56 vs 1.50) and a higher proportion of gram-negative bacteria ( $6 7 . 1 6 \%$ US $5 0 . 0 0 \%$ ) in the samples. 16S rRNA sequencing detected nearly all the pathogens identified byroutineculreeeptforchiciaolaimaceedEnterobacteracaded3ratatlde detectedbyroutinecultureinludinghbligateortrictaerobsAnaerococcusVeilonellacteroides，obactei, Porprooellec any anaerobes in the samples but identified multidrug-resistant strains in as many as $5 8 . 3 3 \%$ of the pathogens. Conclusions 16S rRNA high-throughput sequencing is capable of demonstrating the diversityand abundance of microflora in DFO bone tisues，where diverse and uniformly distributed pathogens canbe detected with a discrete distribution of the dominant 阿H./-/- 基金项目：国家自然科学基金(81600648)；广东省科技计划项目 (2016ZC0066)；广东省医学科学技术研究基金项目(A2017090) Supported by National Natural Science Foundation of China (81600648). 作者简介：胡萍,在读硕士研究生,E-mail:809353638@qq.com 通信作者:高方,副教授,副主任医师,E-mail:gfmhx96@fimmu.com
+
+genera, most of which are gram-negative. Compared with routine culture method, 16S rRNA sequencing allows more convenient and accurate identification of the pathogens (especiallygram- negative bacteria and anaerobes)，and can be useful in clinical decision on appropriate treatment of DFO.
+
+Keywords: diabetic foot osteomyelitis; 16S rRNA gene; high-throughput sequencing; culture; pathogens
+
+糖尿病足骨髓炎(DFO)是由糖尿病足软组织感染蔓延至深部骨及骨髓组织的糖尿病(DM)严重并发症[]。有研究显示，约 $20 \%$ 的糖尿病足溃疡患者合并有骨髓炎[2],且DFO患者的截趾/肢率高达 $5 9 . 4 \% ^ { [ 3 ] }$ 。近年研究表明，内科抗感染治疗可降低骨髓炎患者的截趾/肢率和截肢风险[4-5],而感染骨组织病原菌及抗生素敏感性的鉴定是其关键环节。据估计，生物界 $9 9 \%$ 以上的细菌和真菌目前无法进行人工培养[6,因而临床上基于培养法的微生物鉴别方式在鉴定某些新物种及难以培养微生物时存在一定的困难8，无法有效地指导感染的控制治疗，使半数以上的骨髓炎患者仍难以摆脱截肢的厄运。16srRNA基因普遍存在于原核微生物中，是研究微生物多样性应用最广泛的分子标记，可运用于微生物菌落及细菌分型。高通量测序较第1代测序通量高、速度快、读长长、准确度高，早在2010年已超过1200种细菌的全基因组被完整测序[10]。此前已有研究将16s rRNA测序技术运用于DFO病原微生物的分析，但其标本收集方法不统一，未阐明DFO病原微生物的分布特点，且对优势菌属的分析不够全面[。本研究统一采用临床上常用的清创术收集标本，并全面分析DFO病原微生物多样性及分布特点，深度探索16srRNA测序在菌群鉴定方面的优势。
+
+# 1资料和方法
+
+# 1.1研究对象
+
+2016年9月\~2017年4月于本院内分泌科住院治疗的16例确诊为DFO患者，男性9例，女性7例，年龄$6 0 . 6 9 { \scriptstyle \pm 9 . 6 9 }$ 岁，DM病程 $8 . 7 4 \pm 5 . 9 5$ 年，糖尿病足病程$1 7 . 5 0 ( 1 0 . 0 0 { \sim } 5 2 . 5 0 ) \mathrm { d } _ { \mathrm { c } }$ ，患者DM的诊断依据于1999年世界卫生组织(WHO)的诊断标准。
+
+# 1.2诊断标准
+
+1.2.1足部骨髓炎诊断依据[足部红肿、肿胀;感染指标[白细胞计数(WBC)、中性粒细胞计数(n)、降钙素原(PCT）C反应蛋白(CRP）、红细胞沉降率(ESR)等|升高；骨探针试验阳性或骨外露；X线显示骨质破坏;MRI显示骨髓炎性改变；骨微生物培养阳性或骨病理检查阳性。
+
+1.2.2 糖尿病周围神经病变(DPN)诊断标准[12] 明确的糖尿病病史或至少糖代谢异常证据；在诊断糖尿病时或之后出现的神经病变；临床症状和体征与DPN的表现相符;有临床症状(疼痛、麻木、感觉异常等)者，存在5项检查异常(温度觉异常、尼龙丝检查足部感觉减退或消失、震动觉异常、踝反射消失、神经传导速度有2项或2项以上减慢)中任1项及1项以上;或无临床症状者，存在5项检查异常中任2项及2项以上异常;排除其他病变如颈椎病变、脑梗塞等及药物引起的神经损害。
+
+1.2.3 糖尿病周围血管病变(PAD)诊断标准[13]有间歇性跛行、静息痛、坏疽等下肢血管病变表现;局部动脉搏动减弱或消失，皮温降低；踝肽指数 $( \mathrm { A B I } ) { \leqslant } 0 . 9$ ;血管超声、CTA、MRA或动脉造影等检查示血管硬化、阻塞或闭塞;排除血管闭塞性脉管炎等其它动脉性疾病。
+
+1.2.4 糖尿病视网膜病变(DR)诊断标准[12]眼底照相或眼底检查出现硬性渗出、棉绒斑、视网膜内微血管异常、微血管瘤、静脉串珠、新生血管、视网膜内出血、玻璃体积血、视网膜前出血、纤维增生等任一异常改变。
+
+1.2.5Wagner分级法[140级，目前尚无溃疡，但存在发生足溃疡的危险因素；1级，足部皮肤表面溃疡，临床上无感染；2级，较深的溃疡，常合并软组织感染，可累及肌肉、筋膜或关节，但并无脓肿或骨的感染;3级，深部溃疡，伴有深部脓肿或骨髓炎；4级，局限性坏疽；5级，全足坏疽。
+
+# 1.3纳入及排除标准
+
+1.3.1 纳入标准 年龄 $\scriptstyle \geq 1 8$ 岁；符合糖尿病足骨髓炎的诊断;存在感染骨暴露；患者全身状况较好;患者及家属均同意参与研究。
+
+1.3.2排除标准创面周围存在严重的皮肤病;入院前有使用较长时间的免疫抑制剂治疗；存在影响骨髓炎创面的肿瘤；患者不配合;根据医师判断不适合入组。
+
+# 1.4方法
+
+1.4.1主要试剂动物组织/细胞DNA磁珠提取试剂盒（深圳易瑞）、TransStart Fastpfu DNAPolymerase PCR试剂盒(北京全式金）蛋白酶K(Sigma)。
+
+1.4.2基本病例资料收集整理患者的病史、体格检查、物理检查、实验室检查、影像学检查等数据资料，包括性别、年龄、DM病程、糖尿病足病程、Wagner分级、ABI、糖化血红蛋白(HbAlc)、血常规、血生化、感染2项、肾功能、慢性并发症筛查等。
+
+1.4.3标本采集用大量生理盐水及过氧化氢溶液冲洗、消毒创面，清除创面周围坏死组织后，用无菌剪刀或咬骨钳取少量感染骨组织均分为3份，整个操作过程由专业清创师完成。其中两份分别立即送检验科进行培养鉴定和病理科进行病理组织学检查，另一份保存于 $- 8 0 \mathrm { { ^ { \circ } C } }$ 中以进行16srRNA测序。患者标本编号为Dd1、Dd2·· ··· Dd16。
+
+1.4.4微生物培养标本的接种、分离等过程由专业的检验科人员参照全国临床检验操作规程进行。仅做一般细菌及真菌的培养及鉴定(不包括厌氧菌等特殊细菌培养）,微生物及药敏鉴定采用BDphonex血培养分析仪和BD100全自动细菌鉴定药敏系统。
+
+1.4.516srRNA测序按照说明书用动物组织DNA提取试剂盒提取细菌基因组DNA， $1 \%$ 琼脂糖凝胶电泳检测后，用PCR试剂盒根据说明书使用特异性引物(341F: $5 ^ { \prime }$ -CCTAYGGGRBGCASCAG-3'和 806R:5'-GGACTACNNGGGTATCTAAT-3')对16s rRNAV3-V4区基因片段运用ABIGeneAmp9700PCR仪进行扩增。将获得的扩增产物再次进行 $1 \%$ 琼脂糖凝胶电泳检测，并混样、纯化,构建DNA文库，最后运用IlluminaHiseq2500测序平台检测(赛哲生物，广州)。
+
+# 1.5数据的整理与分析
+
+数据统计分析采用SPSS22.0软件包，计量资料用均数 $\cdot \pm$ 标准差(正态分布)或中位数(非正态分布)表示，采用t检验或非参数检验；计数资料用百分比表示，采用$\chi ^ { 2 }$ 检验。 $P { < } 0 . 0 5$ 为差异存在统计学意义。
+
+16srRNA测序数据分析：根据Barcode序列和PCR扩增引物序列从下机数据中拆分出各样品数据，截去Barcode序列和引物序列，对样品的reads进行拼接，得到的拼接序列为原始Tags数据，RawTags经过过滤处低质量，和不符合长度的tags,以及过滤嵌合体和宿主序列,得到高质量的Tags数据(CleanTags)。得到CleanTags后，基于CleanTags进行OTUs聚类分析。根据OTUs聚类结果，一方面对每个OTU的代表序列做物种注释，得到对应的物种注释信息和基于物种的丰度分布情况。同时，对OTUs进行丰度(统计，可视化）、Alpha多样性分析等，以得到样品内物种丰富度和均匀度信息、不同样品间的共有和特有OTUs信息等。另一方面，对OTUs进行多序列比对并构建系统发生树，并基于进化树信息和丰度信息进一步进行Beta多样性分析等，获得不同样品和分组的群落结构差异信息，通过PCoA和PCA、NMDS和距离矩阵热图等方式进行展示。
+
+# 2结果
+
+# 2.1 一般资料(表1)
+
+Wagner分级为3\~4级，3级与4级患者各8例；$6 8 . 7 5 \%$ 的患者入院前有抗生素治疗史；合并DPN、PAD和DR的患者分别占 $8 7 . 5 0 \% . 6 8 . 7 5 \%$ 和 $6 2 . 5 0 \%$
+
+# 2.216srRNA高通量测序结果
+
+2.2.1序列聚类分析(OTU分析）16例患者骨组织细菌16srRNAV3-V4区基因片段扩增后，经 $1 \%$ 琼脂糖凝胶电泳检测大小为 $5 0 0 { \sim } 6 0 0 ~ \mathrm { b p }$ 。将原始序列过滤后所得的序列在相似度为 $9 7 \%$ 的水平上进行聚类分析，共得到2488个操作分类单元(OTUs)和499896个优质序列。2.2.2Alpha多样性分析（图1、2）样本细菌OTU稀释曲线趋于平缓，表明本次测序已基本覆盖样本的所有物种，能较好的展现样本细菌的多样性和分布。同时，样本Shannon曲线已到达平台期，表明测序量趋于饱和，本次测序深度足够体现样本的多样性，即使增加测序深度也不会影响物种多样性。RankAbundance曲线在水平方向上跨度较大，在垂直方向上较为平缓，表明样本细菌OTU分类丰度较高，且分布较为均匀。
+
+表1患者的一般资料Tab.1 Demographic and clinical data of the patients $( n { = } 1 6 )$   
+
+<html><body><table><tr><td>Gender</td><td></td></tr><tr><td>Male (n/%)</td><td>9 (56.25%)</td></tr><tr><td>Female (n/%)</td><td>7 (43.75%)</td></tr><tr><td>Age (years)</td><td>60.69±9.69</td></tr><tr><td>DM duration (years)</td><td>8.74±5.95</td></tr><tr><td>Ulcer duration (days)</td><td>17.50 (10.00, 52.50)</td></tr><tr><td>WBC (×10/L)</td><td>14.98±10.02</td></tr><tr><td>N (×10%/L)</td><td>12.37±9.70</td></tr><tr><td>PCT (ng/mL)</td><td>0.25 (0.08,0.59)</td></tr><tr><td>CRP (mg/L)</td><td>117.13±98.81</td></tr><tr><td>Hb (g/L)</td><td>100.87±25.62</td></tr><tr><td>ALB (g/L)</td><td>32.03±6.98</td></tr><tr><td>Serum Cr (μmol/L)</td><td>101.38±36.25</td></tr><tr><td>Cys-c (mg/L)</td><td>1.44±0.57</td></tr><tr><td>BUN (mmol/L)</td><td>6.89±3.15</td></tr><tr><td>HbAlc (%)</td><td>10.22±2.28</td></tr><tr><td>Wagner degree</td><td></td></tr><tr><td>3 (n/%)</td><td>8 (50.00%)</td></tr><tr><td>4 (n/%)</td><td>8 (50.00%)</td></tr><tr><td>5 (n/%)</td><td>0</td></tr><tr><td>Previous antibiotics (n/%)</td><td>11 (68.75%)</td></tr><tr><td>Previous DPN (n/%)</td><td>14 (87.50%)</td></tr><tr><td>Previous PAD (n/%)</td><td>11 (68.75%)</td></tr><tr><td>Previous DR (n/%)</td><td>10 (62.50%)</td></tr></table></body></html>
+
+DPN:Diabetic peripheral neuropathy; PAD:Diabetic peripheral vascular disease;DR:Diabetic retinopathy.
+
+2.2.3 物种注释利用RDP比对注释软件根据16srRNA基因数据库将OTU聚类序列相对丰度分别在界、门、纲、目、科、属、种水平上进行注释，以相对丰度大于或等于 $1 \%$ 的物种为优势菌。16例样本中共得到20种优势微生物菌属，占所有菌属的 $8 7 . 0 0 \%$
+
+在按照各样本优势菌属的相对丰度制成的堆叠图中（图3)，样本Dd1\~Dd16的最主要优势菌属分别为Anaerococcus ( $3 7 . 5 1 \%$ ）、Pseudomonas( $4 6 . 2 0 \%$ ）、Prevotella( $5 9 . 2 7 \%$ ）、Finegoldia $4 8 . 0 4 \%$ ）、Prevotella1 $4 1 . 8 0 \%$ ）、Streptococcus $3 9 . 1 4 \%$ ）Prevotella $2 8 . 3 9 \%$ ）、Staphylococcus（ $94 . 8 2 \%$ ）、Prevotella（ $4 6 . 7 2 \%$ ）、Prevotella $( 6 1 . 0 3 \%$ ）、Citrobacter $( 5 2 . 3 1 \%$ ）Fusobacterium$( 4 4 . 5 7 \% )$ ）Porphyromonas $2 1 . 0 6 \%$ ）Prevotella $( 3 7 . 3 5 \% )$ ）Streptococcus $( 4 8 . 4 6 \%$ ）Enterococcus $7 0 . 1 2 \%$ ）
+
+![](images/31d4107029bf983c3ad248a0cd3b16e66386246834d006bc7a1faef08b4380e2.jpg)  
+图1OUT稀释曲线 Fig.1 Rarefaction curve of OTU.
+
+![](images/7345db6d6859e1d5b84cb2ced442661d5877c308b20ae50f5446816c8f60f0db.jpg)  
+图2Rank abundance 曲线Fig.2 Rank abundance curve of OTU.
+
+在根据计算各水平物种间的距离进行各水平物种聚类分析，并进行colunm标准化所得的热图中(图4)，在属水平上，各样本的优势菌属整体上分布较为离散，但Anaerococcus、VeillonellaDialister、PeptoniphilusStreptococcus和Enterococcus等菌属在样本中的分布较为集中。
+
+根据所有样本优势菌属相对丰度制成的箱形图（图5)可发现，优势菌属在各样本中的分布不均匀，呈偏态分布。Prevotella具有显著较高的相对丰度，占所有菌属的 $2 1 . 1 6 \%$ O
+
+# 2.316srRNA高通量测序与培养结果比较(表2)
+
+16例标本中，培养法的阳性率仅为 $8 8 . 2 4 \%$ (14/16)，而16srRNA测序法的阳性率高达 $1 0 0 \% ( 1 6 / 1 6 )$ O培养法和16srRNA测序法在优势菌属种类数上的区别相差不大，分别为16种和20种，但后者平均每个样本优势菌属的种类数是前者的8倍以上(12.56种 $\nu s \ 1 . 5 0$ 种)。两种微生物鉴定方法结果均表明革兰氏阴性菌所占比例高于革兰氏阳性菌，且16srRNA测序结果中革兰氏阴性菌所占比例高于培养法( $67 . 1 6 \%$ vS $50 . 0 0 \%$ ），但差异无统计学意义（ ${ \it P } { > } 0 . 0 5 { \it \Psi } )$ 。
+
+培养结果中Staphylococcusaureus( $12 . 5 0 \%$ )为最主要病原菌，其次为Enterococcusfaecalis、Streptococcus acidominimus、Escherichia coli、Proteus
+
+Actinomyces   
+Bacteroides   
+Porphyromonas   
+Prevotella   
+Staphylococcus   
+Staphylococcus   
+Streptococcus   
+Peptostreptococcus   
+Dialister   
+Veillonella   
+Anaerococcus   
+Finegoldia   
+Parvimonas   
+Peptoniphilus   
+Bulleidia   
+Fusobacterium   
+Citrobacter   
+Klebsiella   
+Proteus   
+Halomonas   
+Pseudomonas   
+Others
+
+![](images/8087ec16a7a3a09b9dd8ab0f05f98f8e27c162ea954511ba5c2b1e3392ad9581.jpg)  
+图3菌属相对丰度堆叠图Fig.3 Stack of relative abundance dominant genera.
+
+![](images/578790bb4a36dfeb40bc83cefdc709d0c8e17d321526d799693c1abb45fc3df1.jpg)  
+图4菌属相对丰度聚类热图Fig.4 Heatmap of relative abundance dominant genera.
+
+mirabilis和Serratiamarcescens（各 $8 . 3 3 \%$ ）；16srRNA测序结果中Halomonas( $7 . 9 6 \%$ )为最主要病原菌属，其次为Enterococcus、Finegoldia 和 Prevotella（各$6 . 9 7 \%$ )。两种微生物鉴定法中共同出现的病原菌属为Staphylococcus、Enterococcus、Streptococcus、ProteusPseudomonasKlebsiellaCitrobacter,培养法结果中仅有Escherichiacoli、Serratiamarcescens及Enterobactercloaca3种病原菌未通过16srRNA测序法检测出来，而高达13种病原菌仅出现在16srRNA测序法结果中，且其中的Anaerococcus、Veillonella、Bacteroides、Fusobacterium、Porphyromonas、Finegoldia、Prevotella、PeptostreptococcusParvimonasPeptoniphilus和Bulleidia均为专性厌氧菌或严格厌氧菌。仅培养法检测出真菌（占 $4 . 1 7 \%$ ),为Candidaalbicans。培养法中多重耐药
+
+菌(MDR)占 $5 8 . 3 3 \%$
+
+# 3讨论
+
+糖尿病足骨髓炎是糖尿病致残率及致死率均较高的并发症，近年研究表明有效的抗生素治疗能提高骨髓炎的治愈率、降低外科治疗风险，是降低截趾/肢率和死亡率的重要治疗手段[45,15]。了解临床上DFO创面病原生物菌群的多样性及分布特点，对于指导抗生素的使用有着重要的意义。本研究显示16srRNA高通量测序可展示DFO骨组织中病原微生物的多样性及分布特点。Alpha多样性分析表明本次测序的深度和广度基本覆盖样本的所有物种，各样本细菌OTU分类丰度较高，且分布较为均匀。但优势菌属在各样本中的分布并不均匀，呈偏态分布，各样本间的优势菌属种类及数量差异均较大。
+
+本研究无论是在16srRNA测序还是培养法结果中，DFO感染骨组织病原菌中革兰氏阴性菌所占比例均高于革兰氏阳性菌。在一些欠发达且气候显著温暖地区的研究中，DFO病原菌中革兰氏阴性菌的比例较高[1。此前也有研究揭示,糖尿病足创面主要病原菌会因Wagner级别的不同而有所差异：随着Wagner级别的升高,G-菌所占的比例逐渐增大[17-18]。黄莺等[19]进一步回顾性研究发现,糖尿病足感染一旦合并骨髓炎，其病原菌将从以革兰氏阳性菌为主转变为以革兰氏阴性菌为主。有趣的是，本研究中16srRNA测序G-菌属的比例高于培养法，且Anaerococcus、Veillonella、Bacteroides、Fusobacterium、Porphyromonas、FinegoldiaPrevotella Peptostreptococcus ParvimonasPeptoniphilus和Bulleidia等专性厌氧菌或严格厌氧菌仅出现于16srRNA测序结果中，而培养结果中并无厌氧菌的出现，表明16srRNA测序对于G-菌属及厌氧菌属的鉴定较培养法有显著的优势。
+
+研究发现16srRNA测序对细菌鉴定的敏感性是微生物培养的2倍，而且可分离出某些少见或含量较少、难以或不能培养的菌种[20]。本研究中,16srRNA测序结果平均每个样本病原菌种类数是培养法的8倍以上，除Escherichiacoli、Serratiamarcescens及Enterobactercloacae外,16srRNA测序结果覆盖了培养结果的所有病原菌,且Halomonas Peptostreptococcus、Parvimonas、FinegoldiaPrevotellaAnaerococcusDialisterVeillonellaBacteroides、Fusobacterium Porphyromonas、Peptoniphilus和Bulleidia等菌属仅出现在16srRNA测序结果中，进一步证实了16srRNA测序在病原微生物鉴定灵敏度方面的优越性，与Choi等2的结果一致。此外，16srRNA测序的阳性率高于培养法( $1 0 \% \ \nu s \ 8 8 . 2 4 \%$ )。需要指出的是，16srRNA测序目前并不能及时鉴定病原菌的抗生素敏感性，而培养法结果显示 $5 8 . 3 3 \%$ 的病原菌为多重耐药菌。有研究证实，长期抗生素使用史是多重耐药菌出现的危险因素[21],本研究中约高达 $6 8 . 7 5 \%$ 的患者入院前有抗感染治疗史，而有研究认为多重耐药菌的出现是导致抗感染治疗失败的重要因素[22]
+
+![](images/617aec8cb4332152c47dd716c342a6eae1bdfcd79ebe8343b0440d170729dc46.jpg)  
+图5菌属相对丰度箱式图Fig.5 Boxplot of relative abundance dominant genera.
+
+因此，对于DFO病原菌的鉴定，应常规结合一般细菌及厌氧菌培养，甚至其他它更为复杂的培养方法，因而取样要求严格，鉴定程序繁琐；而16srRNA测序仅通过一次测序即可完成鉴定，方法简单，不易漏诊，在对革兰氏阴性菌及厌氧菌的鉴定方面较培养法有显著的优势。由于16srRNA测序在对真菌及病原菌药物敏感性的鉴定方面仍存在不足，因而应结合药敏试验才能更准确地指导临床抗生素的选择。临床上DFO感染的控制应该在病原微生物及其药物敏感性的准确鉴定结果指导下进行，必要时首选以抗革兰氏阴性菌为主的抗生素作为经验性用药，并联合抗厌氧菌药物
+
+本研究并未进行抗生素洗脱，与临床活检条件完全一致，且16srRNA测序灵敏度高，不会因为抗生素的使用而出现假阴性结果，因而本研究的微生物分析结果更能反映临床DFO创面病原微生物的特征。16srRNA测序结果发现，DFO病原微生物的多样性较大，各样本间物种的种类及分布差异较大,Prevotella Streptococcus、StaphylococcusEnterococcus、Anaerococcus等菌属成为丰度最大的菌属，占所有菌属的 $4 9 . 0 9 \%$ 。与vanAsten等[的结果不同的是，本研究16srRNA测序中Staphylococcus并非最优势菌属，但Dowd等23认为导致DFO发生的可能不是某一个细菌，而是某一群细菌的共同作用。越来越多的研究认为，由多种细菌共同形成的生物膜及其代谢产物是导致骨髓炎发生的重要原因[24-25]。本研究中 $6 8 . 7 5 \%$ 的患者人院前有长期抗生素使用史，因而可能是由于抗生素的"挑选作用"使某些耐药的条件致病菌成为优势菌，但并不一定是致病的关键菌。此外，糖尿病患者本身的免疫力下降，组织微环境也发生了改变[26-27],因而更有利于其他条件致病菌的定植。
+
+尽管16srRNA测序法较传统培养法有显著优势，但仍然存在一系列亟待解决的问题。目前16srRNA测序法对病原菌的鉴定只能精确到属水平，对种水平的鉴定仍然不够完善；此外，尽管16srRNA高通量测序速度极快，但对产生的大量数据的分析和充分利用需要专业的数据分析团队。但是，16srRNA高通量测序技术仍然是一项有前景的微生物分析方法，不仅可指导抗感染治疗，还可进一步研究微生物物种间的相互关系和致病作用机制，开创新的控制感染方法[28]
+
+本研究中的病原微生物大多是条件致病菌，这些条件致病菌在骨髓炎的发生及发展过程中究竟扮演什么样的角色？此外，检测结果中某些丰度较大的微生物是否是真正导致骨髓炎难以清除的罪魁祸首？这些问题需待后期进一步实验进行探讨。
+
+# 参考文献：
+
+[1]Lipsky BA,Aragón-Sanchez J,Diggle M,et al. IWGDF guidance on the diagnosis and management of foot infections in persons with diabetes[J].Diabetes Metab Res Rev,2016,32(Suppl1):45-74.
+
+表2培养法与16srRNA测序结果中DFO病原菌分布的特点 Tab.2 Comparison of pathogen distribution in DFO bone tissues detected by routine culture and 16S rRNA sequencing   
+
+<html><body><table><tr><td rowspan="2">Pathogen</td><td colspan="2">Culture (n=14)</td><td colspan="2">16s rRNA (n=16)</td><td rowspan="2">P</td></tr><tr><td>Species</td><td>n (%)</td><td>Species</td><td>n (%)</td></tr><tr><td>n</td><td>-</td><td>14/16</td><td></td><td>16/16</td><td></td></tr><tr><td>G(+)</td><td></td><td>11 (45.83%)</td><td></td><td>66 (32.84%)</td><td>>0.05</td></tr><tr><td></td><td>Staphylococcus aureus</td><td>3 (12.50%)</td><td>Enterococcus spp.</td><td>14 (6.97%)</td><td></td></tr><tr><td></td><td>Enterococcus faecalis</td><td>2 (8.33%)</td><td>Streptococcus spp.</td><td>13 (6.47%)</td><td></td></tr><tr><td></td><td>Streptococcus acidominimus</td><td>2 (8.33%)</td><td>Staphylococcus spp.</td><td>12 (5.97%)</td><td></td></tr><tr><td></td><td>Staphylococcus intermedius</td><td>1 (4.17%)</td><td>Peptoniphilus spp.</td><td>11 (5.47%)</td><td></td></tr><tr><td></td><td>Streptococcus anginosus</td><td>1 (4.17%)</td><td>Peptostreptococcus spp.</td><td>8 (3.98%)</td><td></td></tr><tr><td></td><td>Enterococcus raffinosus</td><td>1 (4.17%)</td><td>Parvimonas spp.</td><td>4 (1.99%)</td><td></td></tr><tr><td></td><td>Streptococus agalactiae</td><td>1 (4.17%)</td><td>Bulleidia spp.</td><td>4 (1.99%)</td><td></td></tr><tr><td>G(-)</td><td>-</td><td>12 (50.00%)</td><td>-</td><td>135 (67.16%)</td><td>>0.05</td></tr><tr><td></td><td>Escherichia coli</td><td>2 (8.33%)</td><td>Halomonas spp.</td><td>16 (7.96%)</td><td></td></tr><tr><td></td><td>Proteus mirabilis</td><td>2 (8.33%)</td><td>Finegoldia spp.</td><td>14 (6.97%)</td><td></td></tr><tr><td></td><td>Serratia marcescens</td><td>2 (8.33%)</td><td>Prevotella spp.</td><td>14 (6.97%)</td><td></td></tr><tr><td></td><td>Pseudomonas aeruginosa</td><td>1 (4.17%)</td><td>Anaerococcus spp.</td><td>13 (6.47%)</td><td></td></tr><tr><td></td><td>Proteus vulgaris</td><td>1 (4.17%)</td><td>Klebsiella spp.</td><td>13 (6.47%)</td><td></td></tr><tr><td></td><td>Klebsiella pneumoniae</td><td>1 (4.17%)</td><td>Dialister spp.</td><td>11 (5.47%)</td><td></td></tr><tr><td></td><td>Citrobacter koseri</td><td>1 (4.17%)</td><td>Veillonella spp.</td><td>10 (4.98%)</td><td></td></tr><tr><td></td><td>Enterobacter cloacae</td><td>1 (4.17%)</td><td>Citrobacter spp.</td><td>10 (4.98%)</td><td></td></tr><tr><td></td><td></td><td></td><td>Bacteroides spp.</td><td>9 (4.48%)</td><td></td></tr><tr><td></td><td></td><td></td><td>Fusobacterium spp.</td><td>8 (3.98%)</td><td></td></tr><tr><td></td><td></td><td></td><td>Proteus spp.</td><td>7 (3.48%)</td><td></td></tr><tr><td></td><td></td><td></td><td>Porphyromonas spp.</td><td>5 (2.49%)</td><td></td></tr><tr><td></td><td></td><td></td><td>Pseudomonas spp.</td><td>5 (2.49%)</td><td></td></tr><tr><td>Fungus</td><td>Candida albicans</td><td>1 (4.17%)</td><td>-</td><td>-</td><td></td></tr><tr><td>Average</td><td></td><td>1.50</td><td></td><td>12.56</td><td></td></tr><tr><td>MDR</td><td>1</td><td>14 (58.33%)</td><td>-</td><td>-</td><td></td></tr></table></body></html>
+
+G $( + )$ :Gram positive bacteria; G(-):Gram negative bacteria; MDR:Multiple-resistant bacteria.
+
+[2]Lavery LA,Peters EJ,Armstrong DG,et al.Risk factors for developing osteomyelitis in patients with diabetic foot wounds[J]. Diabetes Res Clin Pract,2009,83(3):347-52.   
+[3]Mutluoglu M, Sivrioglu AK,Eroglu M,et al.The implications of the presence of osteomyelitis on outcomes of infected diabetic foot wounds[J]. Scand JInfect Dis,2013,45(7): 497-503.   
+[4]Lazaro-Martinez JL.Aragon-Sanchez J, Garcia-Morales E.antibiotics versus conservative surgery for treating diabetic foot osteomyelitis: a randomized comparative trial[J].Diabetes Care,2014,37(3): 789- 95.   
+[5]Jordano-Montanez Q,Muniz-Tatay M, Viade-Julia J,etal.Dibetic foot osteomyelitis:Is conservative treatment possible[J]? Enferm Infecc Microbiol Clin,2014,32(9): 555-9.   
+[6]Streit WR,Schmitz RA.Metagenomics--the key to the uncultured microbes[J].Curr Opin Microbiol,2004,7(5): 492-8.   
+[7]Amann RI,Ludwig W,Schleifer KH. Phylogenetic identification and in situ detection of individual microbial cells without cultivation [J].Microbiol Rev,1995,59(1): 143-69.   
+[8]Clarridge JE.Impact of 16S rRNA gene sequence analysis for identification of bacteria on clinical microbiology and infectious diseases[J].Clin Microbiol Rev,2004,17(4): 840.   
+[9］张军毅,朱冰川,徐 超,等.基于分子标记的宏基因组16SrRNA基因 高变区选择策略[J].应用生态学报,2015,26(11):3545-53.   
+[10]Liolios K,Chen I-,Mavromatis K,et al. The genomes on line database (Gold） in 20o9: status of genomic and metagenomic projects and their associated metadata[J].Nucleic Acids Res,2010, 38(1): D346-54.   
+[11]van Asten SA,La Fontaine J,Peters EJ,et al. The microbiome of diabetic foot osteomyelitis[J].Eur J Clin Microbiol Infect Dis, 2016,35(2): 293-8.   
+[12]中华医学会糖尿病学分会.中国2型糖尿病防治指南(2013年版)[J]. 中国医学前沿杂志:电子版,2015,30(3):26-89.   
+[13]Conte MS,Pomposelli FB,Clair DG,et al. Society for vascular surgery practice guidelines for atherosclerotic occlusive disease of the lower extremities:management of asymptomatic disease and claudication[J].J Vasc Surg,2015,61(3,S): 2S-41S.   
+[14]Wagner FW. The dysvascular foot: a system for diagnosis and treatment[J].Foot Ankle,1981,2(2): 64-122.   
+[15]Acharya S,Soliman M,Egun A,et al. Conservative management of diabetic foot osteomyelitis[J].Diabetes Res Clin Pract,2013,101 (3): e18-20.   
+[16]Aragon-Sanchez J,Lipsky BA,Lazaro-Martinez JL.Gram-Negative diabetic foot osteomyelitis: risk factors and clinical presentation[J]. Int JLow Extrem Wounds,2013,12(1): 63-8.   
+[17]李永恒,何利平,王 椿,等.糖尿病足合并感染患者532株病原菌分布 及耐药性分析[J].中华糖尿病杂志,2011,3(4):296-300.   
+[18]黄 莺,曹 瑛,邹梦晨,等.糖尿病足感染病原菌特点及耐药性15年变 迁[J].中华糖尿病杂志,2016(2):87-92.   
+[19]Huang Y, Cao Y, Zou M,et al.Distribution of pathogens in diabetic foot osteomyelitis and risk factors of osteomyelitis[J].Nan Fang Yi Ke Da Xue Xue Bao,2015,35(12): 1782-6.   
+[20] Choi SH, Sung H,Kim SH, et al.Usefulness of a direct l6S rRNA gene PCR assay of percutaneousbiopsies or aspiratesfor etiological diagnosis of vertebral osteomyelitis[J].Diagn Microbiol Infect Dis,2014,78(1): 75-8.   
+[21]Ertugrul BM,Oncul O,Tulek N,et al.A prospective,multi-center study:factors related to the management of diabetic foot infections [J].Eur JClin Microbiol Infect Dis,2012,31(9): 2345-52.   
+[22] Vardakas KZ,Horianopoulou M, Falagas ME.Factors associated with treatment failure in patients with diabetic foot infections:An analysis of data from randomized controlled trials[J].Diabetes Res Clin Pract,2008,80(3): 344-51.   
+[23]Dowd SE,Wolcott RD,Sun Y,et al.Polymicrobial Nature of chronic diabetic foot ulcer biofilm infections determined using bacterial tag encoded FLX amplicon pyrosequencing (bTEFAP)[J]. PLoS One,2008,3(10): e3326.   
+[24]Junka A,Szymczyk P, Ziolkowski G,et al.Bad to the bone: on in vitro and $E x$ vivo microbial biofilm ability to directly destroy colonized bone surfaces without participation of host immunity or Osteoclastogenesis[J].PLoS One,2017,12(1): e169565.   
+[25]Suleman L.Extracellular bacterial proteases in chronic wounds:A potential therapeutic target[J].Adv Wound Care (New Rochelle), 2016,5(10): 455-63.   
+[26]Lazaro JL,Izzo V,Meaume S,et al.Elevated levels of matrix metalloproteinases and chronic wound healing:an updated review of clinical evidence[J].JWound Care,2016,25(5): 277-87.   
+[27]Nielsen TB,Pantapalangkoor P, Yan J,et al. Diabetes exacerbates infection via hyperinflammation by signaling through TLR4 and RAGE[J].MBio,2017,8(4): 45   
+[28]Franz P,Betat H,Morl M.Genotyping bacterial and fungal pathogens using sequence variation in the gene for the CCA-adding enzyme[J].BMC Microbiol,2016,25(4): 47. (编辑:孙昌朋)

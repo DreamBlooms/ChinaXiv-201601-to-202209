@@ -1,0 +1,463 @@
+[
+    {
+        "type": "text",
+        "text": "Variations of precipitation characteristics during the period 1960-2014 in the Source Region of the Yellow River, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mudassar IQBAL1,2, WEN $\\mathrm { J u n } ^ { 3 ^ { * } }$ , WANG Shaoping2.4, TIAN Hui1, Muhammad ADNAN2.5 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Key Laboratory of Land Surface Processand Climate Change in Cold and Arid Regions,Northwest Institute of Eco-Environment and Resources,Chinese Academy of Sciences,Lanzhou 73oooo, China;   \n2University of Chinese Academy of Sciences, Beijing 100049,China;   \n3College of Atmospheric Sciences,Chengdu UniversityofInformation Technology,Plateau Atmosphere and EnvironmentKey   \nLaboratory of Sichuan Province,Chengdu 610225,China;   \n4 Division of Hydrology Water-Land Resources inCold and Arid Regions,Northwest Institute of Eco-Environment and   \nResources, Chinese Academy of Sciences,Lanzhou 73oooo,China;   \n5State KeyLaboratoryofCryospheric Science,Northwest Institute ofEco-Environment and Resouces,Chinese Academyof Sciences,Lanzhou 73000o,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Precipitation,a natural feature of weather systems in the Earth,is vitaly important for the environment of any region. Under global climate change condition,the characteristics of precipitation have changed as a consequence of enhanced global hydrological cycle. The source region of the Yellow River (SRYR),locating within the Qinghai-Tibet Plateau,is sensitive to the global climate change due to its complex orography and fragile ecosystem. To understand the precipitation characteristics and its impacts on the environment in the region, we studied the characteristics of rainy days and precipitation amount of different precipitation classes, such as light (O-5 and $5 { - } 1 0 ~ \\mathrm { m m }$ ),moderate (10-15,15-20 and $2 0 { - } 2 5 ~ \\mathrm { m m }$ ） and heavy $( \\ge 2 5 ~ \\mathrm { m m } )$ rains by analyzing the precipitation data of typical meteorological stations in the SRYR during the period 1961-2014,as wellas the trends of persistent rainfall events and drought events. Results showed that annual average precipitation in this area had a non-significant $( P { > } 0 . 0 5 )$ increasing trend,and $8 2 . 5 \\%$ of the precipitation occurred from May to September. Rainy days of the $0 { - } 5 ~ \\mathrm { m m }$ （204 precipitation class significantly decreased，whereas the rainy days of 5-10,10-15,and $2 0 { - } 2 5 ~ \\mathrm { \\ m m }$ （204号 precipitation classes increased and that of $\\geq 2 5  { \\mathrm { ~ m m } }$ precipitation class decreased insignificantly. The persistent rainfallevents of 1- or 2-day and more than 2-day showed an increasing trend, with the 1- or 2-day events being more frequent. Meanwhile, the number of short drought periods ( $\\leq 1 0$ days) increased while long drought periods $_ { ( > 1 0 }$ days) decreased. Since the $\\mathrm { 0 - 5 ~ m m }$ precipitation class had a huge impact on the grasslands productivity; the 5-10,10-15, and $2 0 { - } 2 5 ~ \\mathrm { m m }$ precipitation classes had positive effects on vegetation which rely on the deep soil water through moving nutrients and water into the root zone of these vegetation or through the plant-microbe interactions; the $\\geq 2 5 ~ \\mathrm { m m }$ precipitation class contributed to the floods; and more persistent rainfall events and fewer long drought events inferred positive effects on agriculture. Thus, these results indicate grassland degradation, less risk of floods, and the upgrading impact of climate change on agriculture. This study may provide scientific knowledge for policymakers to sustain the eco-environmental resources in the SYSR. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: precipitation characteristics; climate change; ecosystem; water resources; vegetation; source regionof the Yellow River ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Understanding of climate, variation of precipitation in space, time,amounts and duration, and their associated effects on the hydrological and ecosystem processes are vital in arid and semi-arid regions. Vegetation productivity in these regions is primarily limited by the availability of adequate rainfal and small variation in rainfall can have effects on the vegetation productivity and the entire ecosystem (Lazaro et al., 2OO1; Kwarteng et al., 2O09). Rainfall was classified as light, moderate,and heavy classes according to its rainfall amount, and the origin of the three rainfall types is different. For light rainfall, precipitation comes from column water vapor or from evaporation. While， for moderate or heavy rainfall， precipitation comes from moisture convergence by storm-scale circulation (Trenberth, 2O11).The variation of the rainfall results in different responses to the soil.Light rainfall can only moisture the surface soil and benefit the growth of grasses, while stable moderate precipitation permeates into the soil and is favorable for plants with deep roots. In contrast, heavy rainfall may result in local runoff and flooding but with the much drier soil at the end of the day (Trenberth,2O11). Characterized by the rising of air temperature,the global climate change alters the global hydrological cycle.As a vital part of the hydrological cycle,the intensity， frequency，and amount of precipitation are subject to the variations associated with the climate change (Pal and Al-Tabbaa, 2O11). Even with the same precipitation amount, the frequencies and intensities of precipitation can be different (Trenberth, 2011).Consequently， the environment and society can be affected by the variations in precipitation characteristics (Gajbhiye et al.,2Ol6).Thus,it is important to study the variations of precipitation in the context of climate change. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The source region of the Yellow River (SRYR) distributed within the Qinghai-Tibet Plateau, the largest and highest plateau in the world,where the mean temperature has raised by $0 . 3 ^ { \\circ } \\mathrm { C } ,$ decade since 195Os, being three times as that of the global average (Qiu, 2O08; Piao et al., 2011).The SRYR is surrounded by mountains in the north and south and by highlands in the west, and its elevation decreases from $6 2 5 3 \\mathrm { ~ m ~ }$ in the west to $2 6 6 6 \\mathrm { ~ m ~ }$ in the east (Zhou et al., 2005). The climate of the SRYR is hostile and harsh with the annual mean temperature ranging from $- 4 ^ { \\circ } \\mathrm { C }$ to $2 ^ { \\circ } \\mathrm { C }$ and the precipitation ranging from 200 to $8 0 0 ~ \\mathrm { { m m } }$ from the northwest to the southeast (Hu et al.,2011,2O12). The areas in high altitude are dominated by dry cold and wet warm climate and its vegetation is distinct and vulnerable.The SRYR is sensitive to global climate change due to the complex orography and fragile ecosystem (Beniston et al., 1997; Beniston, 2003; Hu et al., 2011). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Changes in the environment including glaciers retreat, decreases in lakes,wetlands and river flows， permafrost melting，hill slope instability， vegetation degradation，acceleration of desertification,salinization soil,and declination of grassland productivity were observed in the SRYR (Brierley et al., 2O16). Most of these changes are affected by precipitation characteristics. However, few literatures studied the impacts of monthly， seasonal,and annual precipitation amounts in the SRYR (Lan et al., 2010; Hu et al., 2012;Li et al., 2016; Meng et al.,2016). Moreover, precipitation during a limited period is not enough to reflect the effect of precipitation on hydrology and ecosystems, because the hydrological and ecosystem processes are mainly affected by the rainy days of specific intensity of precipitation such as light, moderate,heavy precipitation (Nandargi and Mulye,2O12). Thus this study aims to investigate the impact of precipitation characteristics on ecosystem in the SRYR during the period 1961-2O14 based on different precipitation classes (light,moderate,and heavy rains） and the rainy days of each precipitation class. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The SRYR situated in the northeast of Qinghai-Tibet Plateau $( 3 2 ^ { \\circ } 1 2 ^ { \\prime }  – 3 5 ^ { \\circ } 4 8 ^ { \\prime } \\mathrm { N } _ { \\mathrm { \\Omega } }$ $9 5 ^ { \\circ } 5 0 ^ { \\prime } { - } 1 0 3 ^ { \\circ } 2 8 ^ { \\prime } \\mathrm { E }$ Fig.1). The area of the SRYR is $1 2 1 , 9 7 2 \\mathrm { k m } ^ { 2 }$ and occupies $1 5 \\%$ of the whole Yellow River Basin. Climatically, the SRYR is semi-humid and dry. Mean annual sunshine duration is $3 0 2 8 \\mathrm { ~ h ~ }$ and the average annual precipitation is about $5 3 0 \\mathrm { m m }$ . The potential evaporation ranges from 8OO to 1200 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "mm. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The SRYR is occupied by glaciers, rivers,lakes/wetlands,and vegetation. The vegetation types are cold-tolerant perennial plants, which is majorly comprised by forest (needle leaf and broadleaf mixed forest, coniferous forest, and broadleaf forest) and grassland (typical alpine swamp, steppe, and shrub meadows).Forests cover about $1 1 . 4 \\%$ of total land area,whereas above $8 0 . 0 \\%$ area is covered by grassand, and grassland is the primary ecosystem type of the region (Li et al., 2013). Grasslands have degraded by the effect of climate warming and overgrazing (Zhou et al., 2005; Li et al.,2013). Wetlands including lakes,alpine meadow wetlands and peat lands account for about $8 . 2 \\%$ (i.e., $2 0 0 0 \\mathrm { k m } ^ { 2 }$ ）and glaciers occupies only about $0 . 1 1 \\%$ (i.e., $1 3 4 \\mathrm { k m } ^ { 2 } .$ )of the area. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "95E 96°E 97E 98E 99E 100E 101E 102E 103E 104°E 105E   \nNE Xinghai ut 150 Guoluo 150 Henan N Riv 150 100 uo! 100 01000 ellow sin (uu) Madoi 50 50 Bas g 100 50   \nN090 不 JFMAMJJASOND JFMAMJJASOND J FMAMJ JASOND N99 SRYR Month J FMAMJ JASOND Xinghai 150 150 Month (u) Maqu Qumaleb   \n320 Madoi 320 0JFMAMJJASOND Henan JFMAMJJA SOND   \nN00 Month ·Qumaleb Guoluo g150 Zoige N0 · Qingshuihe Maqu Rierogicau Jigzhi Zoige 0   \n330 Elevation (m) stations 100 50 150 Dari 100 150 Jigzhi Hongyuan 150 Hongyuan JFMAMJJASOND 230 6253 JFMAMJJASOND 50 Trrerteeonn 150   \n200 Prresd 50 200 JFMAMJJASOND 0 200 400 km Month JFMAMJJASOND JFMAMJJASOND Month 1 1 1 95E 96°E 97E 98E 99E 100E 101E 102E 103E 104°E 105E ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Data and methodology ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Daily precipitation data of 11 meteorological stations, i.e.,Madoi, Qingshuihe, Qumaleb, Jigzhi, Dari，Maqu,Henan，Hongyuan，Xinghai and Zoigé (Fig.1)，were colected from the China Meteorological Administration. Except Maqu station where the records were available from 1967, for the rest of stations, precipitation data during the period 1961-2Ol4 were selected.The missing data are less than $0 . 0 0 0 9 \\%$ ,and these missing data of a station were filled by developing simple linear correlation with its nearby stations. In detail, the station with missng data was regarded as dependent station,and its neighboring station (without missing values） as independent stations. Data of dependent station was named by $y$ ,and data of independent station by $x$ Linear regression equation $( y = \\mathbf { a } x + \\mathbf { b } )$ was derived using the data of dependent and independent stations over the same period. The neighboring station that has the highest correlation for the two time series between $x$ and $y$ was selected,and the related linear regression equation was applied to estimate the missing values of the dependent station (Wang et al.，2O17a). Second，annual total precipitation time series of all station were developed from the daily precipitation time series and inspected for homogeneities by double mass curve method (Buishand,1982; Yuan et al., 2015) to ensure if there is a clear signs of transfer of the stations and alteration of observational practices or instrumentation. Double mass curves for all the stations revealed almost straight lines and no apparent breakpoints were found in the time series,which confirms that all deployed datasets are reliable. Such results are also confirmed by previous studies in the SRYR (Hu et al.,2O12; Iqbal et al., 2018). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Thiessen （1911） polygon method can get more accurate results than those obtained by the simple arithmetic average by the use of weighting factors when the areal distribution of station in the catchment is uneven.This method has been widely used to estimate the areal average from observation data for hydrological and meteorological variables (Yuan et al.，2O15； Shi et al., 2016),and its detail is well documented in Thiessen (1911) and Brassel and Reif (1979). The areal annual series of precipitation variables of the SRYR in this study were derived by using the Thiessen polygon method. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Daily，monthly， seasonal, and annual precipitation data were analyzed during the period 1961-2014. In this study, only rainfall data were regarded as precipitation,and the other types of precipitation such as snow,fog,frost, and dew were excluded.Precipitation size classes were described as light rain (O-5 and $5 { \\mathrm { - } } 1 0 \\ \\mathrm { m m }$ ),moderate rain(10-15,15-20,and $2 0 { - } 2 5 ~ \\mathrm { m m }$ ，and heavy rain $( \\geq 2 5 ~ \\mathrm { m m } )$ . Rainy days in each year and month were calculated by considering a rainy day having daily precipitation larger than $0 . 1 \\mathrm { m m }$ .Similar approaches have been used in previous studies for arid and semi-arid regions,i.e. northern China (Gong et al.,2O04), Northwest China (Du et al., 2011） and Sultanate of Oman (Kwarteng et al.， 2O09).Additionally， since the precipitation intensity increases due to the changes in climate (Pal and Al-Tabbaa,2011; Trenberth,2O11),the relationship between total precipitation amount (daily precipitation $> 0 \\ \\mathrm { m m } ,$ 1 and wet days which have daily precipitation $\\mathrm { > } 1 \\ \\mathrm { m m }$ in the SRYR was also studied in the Section 3.5. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The possible trend in the time series of precipitation variables in this study was revealed by trend rate (Shi,1996) that represents the true slope of trend. The trend rate $a _ { 1 }$ was calculated through simple linear regression as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny = a _ { 1 } x _ { t } + a _ { 0 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $x$ is the value of precipitation variable during the period 1961-2O14,and $t$ ranges from 1 to 54.Before calculating the trend rate for these precipitation variables,the extreme values in the time series were excluded to avoid the efect of extreme values on the trend rates.Here,the extreme values are the values of studied precipitation variables which are around three times of the standard deviation of their entire time series (Wang et al.,2Ol7a).The significances of linear regression equations were tested by the test of goodness of fit. The range of $R ^ { 2 }$ is from O to 1. The large value of $R ^ { 2 }$ indicates the significance of linear regression equation. Significances of $a _ { 1 }$ were tested by $t \\cdot$ -test.A $P$ -value smaller than O.0O1 and O.O5of the associated $t \\cdot$ -value indicates that the associated $a _ { 1 }$ is significant at $9 9 . 9 \\%$ and $9 5 . 0 \\%$ confident levels,respectively(Wang et al., 2017b). Positive $a _ { I }$ indicates an increasing trend and negative $a _ { I }$ a decreasing trend (Mavromatis and Stathis,2011). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1Temporal and spatial variations of rainfall amount and rainy days in the SRYR ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 Temporal variation ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Monthly precipitation in the SRYR ranged from 3.0 to $1 1 0 . 0 \\ \\mathrm { m m }$ with an average of $4 4 . 5 ~ \\mathrm { m m }$ The lowest precipitation accounted for $0 . 5 \\%$ of annual and was occurred in December,while the highest precipitation occurred in July and accounted for $2 0 . 5 \\%$ of the annual precipitation (Figs. 2a-c).Annual precipitation amount and rainy days of the light precipitation class ( $\\left( 0 { - } 5 \\ \\mathrm { m m } \\right)$ were high (Fig.2; Table 1) and are important to the land resources especially for the vegetation of the region. Average annual precipitation ranged from $4 3 1 ~ \\mathrm { m m }$ in 2002 to $6 5 2 \\mathrm { m m }$ in 1981 during the period 1961-2014 with an average of $5 3 6 \\mathrm { m m }$ (Fig.2a).Annual precipitation had an insignificant $( P { > } 0 . 0 5 )$ increasing trend at the rate of $1 . 6 ~ \\mathrm { m m }$ /decade.The average annual rainy days ranged from 160 to 243 days with an average of 205 days and had a significant ( $( P { < } 0 . 0 0 1 )$ decreasing trend of 1O.7 days/decade during the studied period. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "Table1Contributions of each precipitation class to annual rainy days and to annual rainfall amount in the SRYR during the period 1961-2014 "
+        ],
+        "table_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b16f274e9546a4ecd11966c8aa36f98083bbf0926fe928fcf1f3099119bf026c.jpg",
+        "img_caption": [
+            "Fig.2Characteristics of precipitation in the SRYR.(a)annual precipitation,(b) rainy days,(c） monthly precipitation,and (d) frequency of different precipitation classes.Dashed lines indicate linear trends. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The seasonal total precipitation was estimated by considering the standard months of each season.Winter，spring，and summer presented increasing trends,while autumn showed a decreasing trend. In winter,precipitation varied from 5 to $2 5 ~ \\mathrm { m m }$ with an average of $1 4 ~ \\mathrm { m m }$ and presented a non-significant $( P { > } 0 . 0 5 )$ increasing trend at the rate of $0 . 8 2 ~ \\mathrm { m m }$ /decade (Fig.3a). In spring，precipitation varied from 70 to $1 3 6 ~ \\mathrm { m m }$ with an average of $9 8 \\ \\mathrm { \\ m m }$ and exhibited a non-significant increasing trend of $2 . 6 8 \\mathrm { \\ m m }$ decade (Fig. 3b). Summer precipitation ranged from 216 to $3 7 7 ~ \\mathrm { m m }$ with an average of $3 0 0 ~ \\mathrm { { m m } }$ and also presented a non-significant increasing trend of $1 . 3 0 ~ \\mathrm { m m } /$ decade (Fig. 3c). Finally,with the average of $1 2 5 ~ \\mathrm { m m }$ ，precipitation in autumn ranged from 83 to $2 1 3 ~ \\mathrm { \\ m m }$ during the period 1961-2O14,and presented a non-significant decreasing trend of $3 . 1 6 ~ \\mathrm { m m } /$ decade (Fig. 3d). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e3bbb96c871ea7fd0e9af095dd53132be5d70c9c682e454f19fff7e60a242022.jpg",
+        "img_caption": [
+            "Fig.3Variations in seasonal precipitation in the SRYR during the period 1961-2O14.Dashed lines indicate linear trends. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1.2Spatial variation ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The results of spatial distribution of trends and slopes for precipitation amount and rainy days in the SRYR during the period 1961-2O14 are shown in Figure 4. Change rates are presented beside the location of each station,and the significance of trend is marked and distinguished by filed circle which can represent different levels of significance. For precipitation amount,only Qumaleb and Madoi had significant trends at the $9 5 \\%$ confidence level $( P { < } 0 . 0 5 )$ from 1961 to 2014,while the other stations had no significant trends.The change rates of precipitation amount ranged from $- 1 3 . 2$ to $1 2 . 9 ~ \\mathrm { m m }$ /decade.The positive values were distributed in the high elevation areas (western part of the SRYR),while negative values were observed in the low elevation areas (eastern part of the SRYR). The largest decreasing rate was $- 1 3 . 2 \\ \\mathrm { m m }$ decade (Henan station), while the largest increasing rate was $1 2 . 9 ~ \\mathrm { m m }$ decade (Madoi station).It infers that the trends of precipitation amount in the high elevation areas dominated the entire SRYR.For rainy days,all stations had significant decreasing trends at the $9 9 . 9 \\%$ confidence level during the period 1961-2014. The change rates of rainy days ranged from $- 1 6 . 0$ to $- 7 . 1$ days/decade. The change rates of rainy days were noted in the following descending order: Qingshuihe (-16.O days/decade). Qumaleb (-11.6 days/decade), Maqu (-14.O days/decade), Dari (-13.6 days/decade) and Henan (-12.2 days/decade). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/addb9a49cbe7e6e4f816969ac7a2211e2fc73c096c59838e4b69699a9278281e.jpg",
+        "img_caption": [
+            "Fig.4Spatial distribution of trends and slopes for (a) precipitation amount (mm/decade) and (b) rainy days (days/decade) in the SRYR during the period 1961-2O14.Significances of trends at different level of $P$ values are marked and distinguished by filled circles. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 Variability of rainy days in different precipitation classes ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Therainy daysof lightrain(O-5 and $5 { \\mathrm { - } } 1 0 ~ \\mathrm { m m }$ ）were the highest compared to those of the other classes with the averages of 169.3 and 21.5 days,respectively (Table 2). Rainy days for 10-15 and $1 5 { - } 2 0 ~ \\mathrm { m m }$ precipitation classes were 5-9 times over $82 \\%$ and 2-4 times over $92 \\%$ of the studied years, respectively,while rainy days for $2 0 { - } 2 5 ~ \\mathrm { m m }$ precipitation classes were 1-2 times over $9 6 \\%$ and 1 times over $69 \\%$ of the studied years.Finally,rainy days for precipitation class $\\geq 2 5 ~ \\mathrm { m m }$ were zero over $6 \\%$ ，while for 1 times over $76 \\%$ of the years (Fig. 5). Annually, rainy days of 0-5 and $5 \\mathrm { - } 1 0 ~ \\mathrm { m m }$ rain events presented decreasing and increasing trends, respectively. The significant decreasing trend in the rainy days of $0 { - } 5 ~ \\mathrm { m m }$ rain event was 11.3 days/decade $( P { < } 0 . 0 0 1 )$ ，while decreasing trend in $5 { \\mathrm { - } } 1 0 ~ \\mathrm { m m }$ rain events was non-significant $( P { > } 0 . 0 5 )$ at the rate of 3 days/decade. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Trends of rainy days in moderate precipitation size classes showed both non-significant increasing for 1O-15 and $2 0 { - } 2 5 ~ \\mathrm { m m }$ classes and decreasing trend for $1 5 { - } 2 0 ~ \\mathrm { m m }$ class.Meanwhile, trends of rainy days for heavy precipitation class $( \\geq 2 5 \\ \\mathrm { m m } )$ ） showed non-significant and weak （204号 $( P { > } 0 . 0 5 )$ decreasing trend (Fig. 5). ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/fc95a21e061056bc19aa7358034ad4de055f3e426402464f49323cc47e82d47d.jpg",
+        "table_caption": [
+            "Table2Rainy days of different precipitation classes and their contributions to the total rainy days during the period 1961-2014 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Precipitation class (mm)</td><td colspan=\"3\">Number of rainy days</td><td rowspan=\"2\"></td><td colspan=\"3\">Contribution to the total rainy days (%)</td></tr><tr><td>Minimum</td><td>Maximum</td><td>Mean</td><td>Minimum</td><td>Maximum</td><td>Mean</td></tr><tr><td>0-5</td><td>117.8</td><td>222.5</td><td>169.3</td><td></td><td>73.2</td><td>89.8</td><td>82.8</td></tr><tr><td>5-10</td><td>11.9</td><td>33.8</td><td>21.5</td><td></td><td>5.7</td><td>18.0</td><td>10.5</td></tr><tr><td>10-15</td><td>2.3</td><td>15.2</td><td>8.3</td><td></td><td>1.0</td><td>7.8</td><td>4.0</td></tr><tr><td>15-20</td><td>0.1</td><td>7.8</td><td>3.2</td><td></td><td>0.0</td><td>4.4</td><td>1.5</td></tr><tr><td>20-25</td><td>0.0</td><td>4.2</td><td>1.3</td><td></td><td>0.0</td><td>2.2</td><td>0.6</td></tr><tr><td>≥25</td><td>0.0</td><td>3.9</td><td>1.1</td><td></td><td>0.0</td><td>2.0</td><td>0.5</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8278c9341fd8ae805edf631056ed8210f0cc49a255ce962857993f14996ebdb3.jpg",
+        "img_caption": [
+            "Fig.5Rainy days of different precipitation classes in the SRYR during the period 1961-2O14.Dashed lines indicate linear trends. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3Percentages of rainy days in different precipitation classes ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Table 2 and Figure 6 present the percentages of rainy days in the total rainy days for each precipitation class. In the SRYR, the most typical rain events observed are light rain events (O-5 and $5 { \\mathrm { - } } 1 0 ~ \\mathrm { m m } ,$ ）accounting for $8 2 . 6 \\%$ and $1 0 . 6 \\%$ ,respectively. Precipitation $1 0 { - } 1 5 ~ \\mathrm { m m }$ occurred regularly throughout the study period,and was observed at least once every year. Moderate and heavy rain events having daily precipitation $> 1 5 ~ \\mathrm { m m }$ were found to be irregular in the study area. Explicitly, events of no rain were $10 \\%$ ， $32 \\%$ ,and $44 \\%$ for the studied years in 15-20,20-25,and $\\geq 2 5 ~ \\mathrm { m m }$ classes,respectively. Therefore,in enlightenment of the above results the light rain events are not only the frequent events but also contribute to most of the percentage of rainy days. However, moderate and heavy rain events occur irregularly and contribute a small percentage of the rainy days. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4Precipitation amounts in different precipitation classes ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[n the SRYR, the maximum average annual precipitation ( $( 6 5 2 . 1 \\ \\mathrm { m m } )$ ）wasfoundin1981 and the minimum $( 4 3 1 . 5 ~ \\mathrm { m m } )$ ）in 2OO2.Precipitation amount of light rain(O-5 and $5 { \\mathrm { - } } 1 0 ~ \\mathrm { m m }$ ）contributed to $3 2 . 7 \\%$ and $2 8 . 4 \\%$ of the annual precipitation,respectively. And moderate and heavy rain accounted for $3 3 . 1 \\%$ and $5 . 7 \\%$ of the annual precipitation, respectively (Table 1). The time series of annual precipitation amount for each precipitation class defined in this study and their trends are presented in Figure 7.The magnitude and trend significance for each precipitation class are as follows: (1) $0 { - } 5 ~ \\mathrm { m m }$ ： $- 0 . 7 0 \\ \\mathrm { m m } / \\$ decade $( P { > } 0 . 0 5 )$ ； (2) $5 { - } 1 0 ~ \\mathrm { m m }$ ：： $+ 3 . 0 0 \\ \\mathrm { m m } / \\$ decade $( P { > } 0 . 0 5 )$ ； (3) $1 0 { - } 1 5 ~ \\mathrm { m m }$ ：， $+ 0 . 5 0 \\ \\mathrm { m m } / \\$ decade $( P { > } 0 . 0 5 )$ ；(4) $1 5 { - } 2 0 ~ \\mathrm { m m }$ ： $- 0 . 4 0 \\ \\mathrm { m m }$ /decade $( P { > } 0 . 0 5 )$ ; (5) 20-25 mm: $+ 0 . 0 7 \\ \\mathrm { m m } / \\cdot$ decade $( P { > } 0 . 0 5 )$ ； (6 $) { \\geq } 2 5 \\ \\mathrm { m m }$ $- 0 . 9 0 \\mathrm { m m }$ /decade $( P { > } 0 . 0 5 )$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/47f94fcc8f9e55d3a37ee1ac50bd5fb8aa5a1be966b084c715d1cb4deab7b45e.jpg",
+        "img_caption": [
+            "Fig.6Percent of rainy days of different precipitation classes in the SRYR during the period 1961-2014 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.5Relationship between total precipitation amount and the wet days ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In order to understand the rainfall condition over the region, we studied relationship between total precipitation amount and the wet days. Total precipitation amount and wet days have non-significant increasing trend in the SRYR during the studied period.The variation patterns in total precipitation amount and wet days were quite similar, indicating that high rainfall amount is the consequence of large number of wet days. For example, high precipitation amounts in the years 1967,1989,and 2005 correspond to the largest number of wet days (Fig.8a). Moreover, a good correlation between wet days and total precipitation amounts were also observed (Fig. 8b). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.6Contribution of each precipitation class to the monthly precipitation ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "If one precipitation class occurred every years of the studied period in a certain month, then the probability of the precipitation class occurs in that particular month is $100 \\%$ .Similarly，the probability is $50 \\%$ if this situation happened in a certain month in half of the studied years. Meanwhile,contribution of a precipitation class in a certain month is the average of the accumulated precipitation of a particular precipitation class to the total monthly precipitation. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The probability of different precipitation classes occurring in each month during the period 1961-2014 is presented in Table 3.Precipitation events having daily precipitation of O-5, 5-10, and $1 0 { - } 1 5 \\ \\mathrm { m m }$ occurred in every month and its probability to occur in months from April to October is much higher than in the other months.Precipitation events having daily precipitation of 15-20 and $2 0 { - } 2 5 ~ \\mathrm { m m }$ occurred from April to November, and that of $\\geq 2 5 ~ \\mathrm { m m }$ from May to October, and their probabilities to occur are higher in months from June to September than in the other months. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/19a2c30850c357d97f9a5cadc36b48a8f1a98c5010b61870a2eaf85325aaa316.jpg",
+        "img_caption": [
+            "Fig.7Precipitation amounts of different precipitation classes in the SRYR during the period 1961-2O14.Lines indicate linear trends. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b2060622dcee1d0bceee1ee315d5152e5637e3f8a94c8cd8d927339bad7fffd.jpg",
+        "img_caption": [
+            "Fig.8Time series of the total precipitation amount and rainydays (a),and the relationship between precipitation amounts and rainy days (b) in the SRYR during the period 1961-2014 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The contribution of precipitation of different precipitation classes to the monthly precipitation of each month during the period 1961-2O14 is showed in Table 4. The monthly precipitation in months from October to April was mainly contributed by $0 { - } 5 ~ \\mathrm { m m }$ precipitation class； that from May to September mainly received from the precipitation class of $5 { - } 1 0 ~ \\mathrm { m m }$ ，The contributions of the other precipitation classes to the monthly precipitation were comparatively low. For example, the precipitation classes of 15-20 and 20-25,and $\\geq 2 5 ~ \\mathrm { m m }$ had no contribution to the monthly precipitation for the months from December to March,and from November to April, respectively. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/0ff91d02dec891e819d6da60d6a0d97246b41507f23fe87ef35d0481a866fa37.jpg",
+        "table_caption": [
+            "Table3Probability of different precipitation classes occurring in each month during the period 1961-2014 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Month</td><td colspan=\"6\">Probability of precipitation class (%)</td></tr><tr><td>0-5 mm</td><td>5-10 mm</td><td>10-15 mm</td><td>15-20 mm</td><td>20-25mm</td><td>≥25 mm</td></tr><tr><td> January</td><td>67.2</td><td>3.8</td><td>0.2</td><td>0.0</td><td>0.0</td><td>0.0</td></tr><tr><td>February</td><td>78.9</td><td>7.8</td><td>0.8</td><td>0.0</td><td>0.0</td><td>0.0</td></tr><tr><td>March</td><td>91.9</td><td>29.1</td><td>3.2</td><td>0.0</td><td>0.0</td><td>0.0</td></tr><tr><td>April</td><td>96.8</td><td>58.9</td><td>18.4</td><td>4.5</td><td>1.0</td><td>0.0</td></tr><tr><td>May</td><td>100.0</td><td>91.8</td><td>55.7</td><td>26.0</td><td>7.7</td><td>5.0</td></tr><tr><td>June</td><td>100.0</td><td>96.1</td><td>78.7</td><td>45.0</td><td>19.4</td><td>14.3</td></tr><tr><td>July</td><td>100.0</td><td>97.1</td><td>84.2</td><td>56.1</td><td>33.1</td><td>30.3</td></tr><tr><td>August</td><td>99.0</td><td>94.4</td><td>77.8</td><td>52.2</td><td>29.7</td><td>30.8</td></tr><tr><td>September</td><td>100.0</td><td>96.2</td><td>70.8</td><td>35.2</td><td>20.7</td><td>17.4</td></tr><tr><td>October</td><td>98.4</td><td>71.6</td><td>30.3</td><td>10.8</td><td>3.5</td><td>2.2</td></tr><tr><td>November</td><td>71.7</td><td>13.0</td><td>1.9</td><td>0.7</td><td>0.3</td><td>0.0</td></tr><tr><td>December</td><td>47.2</td><td>1.8</td><td>0.3</td><td>0.0</td><td>0.0</td><td>0.0</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/a8bf304aaf79cf7c3a0c5de22740068d22a2e2042ade87e1729a8009f2295152.jpg",
+        "table_caption": [
+            "Table 4Contribution of different precipitation classes to monthly precipitation of each month during the period 1961-2014 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Month</td><td colspan=\"6\">Contribution of precipitation class (%)</td></tr><tr><td>0-5 mm</td><td>5-10 mm</td><td>10-15 mm</td><td>15-20 mm</td><td>20-25 mm</td><td>≥25 mm</td></tr><tr><td>January</td><td>90.6</td><td>8.6</td><td>0.8</td><td>0.0</td><td>0.0</td><td>0.0</td></tr><tr><td>February</td><td>86.9</td><td>11.5</td><td>1.6</td><td>0.0</td><td>0.0</td><td>0.0</td></tr><tr><td>March</td><td>76.9</td><td>19.7</td><td>3.4</td><td>0.0</td><td>0.0</td><td>0.0</td></tr><tr><td>April</td><td>56.8</td><td>30.0</td><td>9.8</td><td>2.5</td><td>0.9</td><td>0.0</td></tr><tr><td>May</td><td>35.0</td><td>35.1</td><td>16.8</td><td>8.4</td><td>2.6</td><td>2.2</td></tr><tr><td>June</td><td>24.2</td><td>30.4</td><td>23.1</td><td>11.5</td><td>5.3</td><td>5.5</td></tr><tr><td>July</td><td>19.0</td><td>26.4</td><td>21.3</td><td>13.4</td><td>8.2</td><td>11.7</td></tr><tr><td>August</td><td>18.3</td><td>26.6</td><td>19.7</td><td>14.1</td><td>8.7</td><td>12.5</td></tr><tr><td>September</td><td>25.0</td><td>32.1</td><td>20.8</td><td>9.6</td><td>5.8</td><td>6.7</td></tr><tr><td>October</td><td>44.8</td><td>32.9</td><td>13.8</td><td>5.5</td><td>1.8</td><td>1.2</td></tr><tr><td>November</td><td>74.1</td><td>19.7</td><td>3.5</td><td>1.9</td><td>0.8</td><td>0.0</td></tr><tr><td>December</td><td>90.8</td><td>6.1</td><td>3.2</td><td>0.0</td><td>0.0</td><td>0.0</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.7 Persistence of precipitation event ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In the SRYR,precipitation events do not occur for most of the days in a year.Most of the precipitation occurs as showers and over successive days.Persistent precipitation event lasts for 1 or 2 d were defined as short-duration precipitation events and that for more than $^ \\mathrm { ~ 2 ~ d ~ }$ as long-duration precipitation events. The definitions of short- and long-duration precipitation events were used to examine the persistence of precipitation events (Gong et al.， 2O04). During the period 1961-2O14,the frequency of short-duration precipitation events presented an apparent significant increasing trend $( P { < } 0 . 0 5 )$ at the rate of O.87 times/decade (Fig. 9a). The frequency of long-duration precipitation events showed a slightly non-significant increasing trend at the rate of 0.06 times/decade (Fig. 9b). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.8Frequency of dry spell ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In the SRYR,precipitation can be used for vegetation-ecosystem and hydrological restoration. Prolonged no precipitation periods will lead to vegetation degradation, wetlands reductions, and ecosystem stress. Periods without rain for $\\leq 1 0$ d were defined as short drought, and $> 1 0 \\mathrm { d }$ as long drought. The frequencies of these two kinds of droughts were determined during the period ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1961-2014. The changes in the frequency of short droughts showed significant $( P { < } 0 . 0 5 )$ increasing trend at the rate of 0.93 times/decade (Fig.1Oa), while that of long droughts showed slightly non-significant decreasing trend at the rate of O.O2 times/decade (Fig. 10b). ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/91a57323ed3f90ef2c625f5dd2f3deef7a3108dc4f7659278bc4bcbfb9e053de.jpg",
+        "img_caption": [
+            "Fig.9Changes in the daily precipitation persistence in the SRYR during the period 1961-2014. (a)Number of short-duration precipitation events and (b) number of long-duration precipitation events.Dashed lines indicate linear trends. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/6517b13b8b6d7af20c9e9405b4d5911b1c3c61fe25d6ca41cf1c3a8a049ccee0.jpg",
+        "img_caption": [
+            "Fig.10Changes in the frequency of dry spels in the SRYR during the period 1961-2O14.(a) Numbers of short dryspells $( \\leq 1 0$ days)and(b) numbersof long dry spells( $> 1 0$ days).Dashed lines indicate linear trends. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "An increasing non-significant trend in annual precipitation was found for the SRYR from 1961 to 2014 in this study. The result is consistent with the trend revealed by Li et al. (2O16) for the SRYR from 196O to 2013.However,the magnitude of the trend found in this study is 1.6 mm/decade,while that of previous study was $3 . 6 ~ \\mathrm { m m }$ decade.Moreover， the change rate of seasonal total precipitation found in this study were also consistent, except the increasing rate in summer was smaler and the decreasing rate in autumn was larger than those found by Li et al. (2016). This may be the reason why the less increasing rate of annual precipitation was found in this study. The non-significant increasing trend of annual precipitation was found in the SRYR, however, the rainy days (daily precipitation $> 0 . 1 \\ \\mathrm { m m }$ ） decreased significantly at the rate of 11.3 days/decade during the period 1961-2O14 at the confidence level of $9 9 . 9 \\%$ . It implies that the increase of intensity of daily precipitation could be the reason for the increasing annual precipitation amount. In addition, a good positive relationship between total precipitation amount and wet days was found.This further infers a strong evidence for the increase of rainfallintensity which also could be the reason for the increase in precipitation amount. Moreover,Dougherty et al.(1996) found that the increase in the occurrence of usable rain may have a positive effect on hydrological and ecological restoration. The number of 1-2-day precipitation events increased significantly at $9 5 \\%$ confidence level，and that of ${ > } 2$ -day precipitation events increased insignificantly,although the rainy days decreased significantly. The short droughts not more than 10 days increased,while the long droughts showed a slight decreasing trend implying that the duration of rainfall events reduced during the study period. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The average number of rainy days (daily precipitation $> 0 . 1 \\ \\mathrm { m m }$ ）inayearis2O5days,and that of light rain is 169.3 and 21.5 days for O-5 and $5 { - } 1 0 ~ \\mathrm { m m }$ ，respectively.Such a result indicates that the light precipitation class comprises $93 \\%$ of the total rainy days from which $0 { - } 5 ~ \\mathrm { m m }$ class contribute $83 \\%$ of the total rainy days.The O-5,5-10, 1O-15 mm rain events occurred regularly every year during the period 1961-2O14,suggesting that these precipitation events are the most important ones in the SRYR.The changes in these classes can have significant impacts over the environment of the SRYR,particularly, that of the light rain due to its higher contribution to the total rainy days.A significant decreasing trend (-11.3 days/decade) in small rainfall events for $0 { - } 5 ~ \\mathrm { m m }$ precipitation class can have an effect on grasslands. It implies that grasslands will reduce due to the decreasing trend of the rainy days of $0 { - } 5 \\ \\mathrm { m m }$ precipitation events as described elsewhere (Petrie et al.,2O15). A non-significant increasing trend of 3 days/decade was found for the $5 { \\mathrm { - } } 1 0 \\ \\mathrm { \\ m m }$ precipitation events；other precipitation classes had weak and non-significant changes in the rainy days during the period 1961-2014 (Fig.5). However, the amount of 5-10, 10-15 and $2 0 { - } 2 5 ~ \\mathrm { m m }$ precipitation events increased insignificantly at the rate of 3.0, O.5,and $0 . 0 7 ~ \\mathrm { m m } /$ decade,respectively (Fig. 7), inferring that the intensity of these precipitation events might increase slightly. These precipitation events can move nutrients and water into the root Zone of vegetation or through plant-microbe interactions (Petrie et al.,2O15), which might have a positive effect on vegetation relying on deep soil water. The decreasing trends in rainy days and amount of heavy rain also imply that the risk of floods in the SRYR is decreasing. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In the months from May to September, every class of rainfall events has a high occurrence probability and contributes more to the total rainfall amount as compared to the other months. In the months from October to next April, O-5,5-10,and $1 0 { - } 1 5 ~ \\mathrm { m m }$ precipitation events are the main events，and the total precipitation amount in these months are contributed by these precipitation events,not by 15-20,20-25,and $\\geq 2 5 ~ \\mathrm { m m }$ precipitation events.Thus,the annual precipitation amount concentrates in months from May to September when every class of precipitation events occurs.The time distribution of precipitation events in arid areas where the irrigation supply is often limited is important for the vegetation relying on precipitation. In such areas, reliable precipitation becomes vital for the ecosystem and vegetation production. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Frequency and magnitude of precipitation are the main factors for arid and semi-arid ecosystem processes (Fay et al., 2O0O; Heisler-White et al., 2O08). Small precipitation events are the most frequent events in the SRYR,and precipitation events with daily precipitation $0 { - } 5 \\ \\mathrm { m m / d a y }$ contribute to the largest percentage $( 8 3 \\% )$ of precipitation events in the SRYR and occur every month. These small precipitation events up-regulate the photosynthesis in plant (Sala and Lauenroth，1982） and controls the water balance processes in arid and semi-arid ecosystem. Under the warm climate,in the region where potential evaporation rate is higher than annual precipitation， the time of precipitation-derived soil moisture can be reduced， though total precipitation amount remains stable (Petrie et al., 2Ol2).Although soil moisture derived from small precipitation events may be proportionally less influenced by increasing evaporation than that derived from large rain events (Lauenroth and Bradford,2O12),it can result in lower the average soil moisture availability which has important effect on the key components of arid-land ecosystems such as biotic soil crust (Belnap et al.,2Oo5).Ecosystem metabolism (Lauenroth and Bradford, 2O12) and nutrient mobilization (Ivans et al.，2OO3）which are moisture-dependent processes may be constrained by future evaporative demand. Thence,biotic soil crust may provide less water and nutrition to plants,and grassland degradation and desertification could be the consequences. In the SRYR, the significant decreasing of precipitation events $\\mathrm { < } 5 \\ \\mathrm { m m } /$ day may impact the degradation of regional ecosystem. Both the frequencies of the short duration events $( P { < } 0 . 0 5 )$ and long duration ones $( P { > } 0 . 0 5 )$ showed increasing trends during the period 1961-2014 (Fig. 9). Additionally， the frequency of short droughts showed the increasing trend (non-significant),while that of long droughts showed slightly decreasing trend (non-significant). Such results have benefits for agriculture due to the increased persistent precipitation events and decreased long drought events. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Moreover, in this study,from the spatial distribution of precipitation amount and rainy days, it was found that the trends and slopes have significant variations among stations. Therefore, the spatial characteristics of precipitation variables and their impacts on the eco-environment are crucial and need to be future addressed in the future researches. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This study was carred out using the precipitation data of typically located meteorological stations from 1961 to 2O14.Precipitation classes were divided into light rain (O-5 and $5 { \\mathrm { - } } 1 0 \\ \\mathrm { \\ m m } )$ ， moderate rain (10-15，15-20 and $2 0 { - } 2 5 ~ \\mathrm { \\ m m } ,$ ，and heavy rain $( \\geq 2 5 ~ \\mathrm { ~ m m } )$ ．The temporal characteristics of annual, monthly,and seasonal precipitation were discussed first,and then that of the rainy days of each precipitation class.The important conclusions are as follows: A strong positive relationship between annual precipitation and wet days implies that the increase of daily precipitation intensity is the main reason for the increase of annual precipitation. More persistent precipitation events and less long drought events highlight that the climate play positive role to upgrade the vegetation of the region. The more pronounced events of $0 { - } 5 ~ \\mathrm { m m }$ class can have huge impact on the grasslands productivity. A significant decreasing trend in the $0 { - } 5 ~ \\mathrm { m m }$ precipitation events was found, which may hinder the vegetative growth and present challenges to desertification prevention in this area. The increasing trends of 5-1O,1O-15,and $2 0 { - } 2 5 \\ \\mathrm { m m }$ amount have a positive effect on vegetation relying on deep soil water, since these events can move nutrients and water into the root zone of vegetation or through plant-microbe interactions. Meanwhile, the decreased rainy days and amount of heavy rain $\\geq 2 5 ~ \\mathrm { m m }$ infers the less risk of floods in the SRYR.We believe that small rainfall events especially those up to $5 \\ \\mathrm { m m / d a y }$ play positive roles in the upper layer of soil to stimulate the ecosystem metabolism and nutrient mobilization. In a scenario of the SRYR where the light rainfall events are decreasing,sprinkler technology or artificial rain can be the supplement to the decreased smal rainfall events. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This study wassupported by the National Natural ScienceFoundation of China (41530529,41375022,41575013) and the Key Research Program of the Chinese Academy of Sciences (KZZD-EW-13).The authors thank to the editor and anonymous reviewers for their professional and pertinent comments and revision suggestions which are greatly helpful for further quality improvement of this manuscript. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "BelnapJ,WelterJR,Grimm NB,etal.2O05.Linkages between microbialand hydrologic proceses inaridandsemiarid watersheds.Ecology, 86(2): 298-307.   \nBeniston M,Diaz HF,BradleyRS.1997.Climaticchangeat high elevationsites:anoverview.ClimaticChange,36(3-4): 233-251.   \nBeniston M.20o3.Climaticchange in mountain regions: areview of posible impacts. Climatic Change,59(1-2): 5-31.   \nBrasselK E,Reif D.1979.A procedure to generate Thiessen polygons.Geographical Analysis,11(3): 289-303.   \nBrierleyGJ,LiXL,CullumC,etal.2O16.LandscapeandEcosystemDiversity,Dynamicsand ManagementintheYellow River Source Zone.Cham: Springer International Publishing,1-369.   \nBuishandTA.1982.Some methods for testing the homogeneityofrainfall records.Journalof Hydrology,58(1-2):11-27.   \nDoughertyRL,Lauenroth WK,Singh JS.1996.Responseof a grassland cactus to frequencyand sizeofrainfallevents ina North American shortgrass steppe.Journal of Ecology,84(2):177-183.   \nDuJH,YanP,DongYX.2011.Precipitationcharacteristicsanditsimpactonvegetationrestorationin Minqin CountyGansu Province,Northwest China. International Journal of Climatology,31(8):1153-1165.   \nFayPA,CarlisleJD,KnappAK,etal.2Ooo.Alteringrainfalltimigandquantityinamesic grassand ecosystem:designand performance of rainfall manipulation shelters.Ecosystems,3(3): 308-319.   \nGajbhiye S,MeshramC,SinghSK,etal.2Ol6.PrecipitationtrendanalysisofSindhRiverbasin,India,froml2-yearrecord (1901-2002).Atmospheric Science Letters,17(1): 71-77.   \nGong DY,ShiPJ,WangJA.2O04.Dailyprecipitationchanges in thesemi-aridregionover northernChina.Journalof Arid Environments, 59(4): 771-784.   \nHeisler-WhiteJL,KnappAK,KellyEF.2O08.Increasing precipitation event size increasesaboveground net prmary productivity in a semi-arid grassland. Oecologia,158(1):129-140.   \nHuYR,Maskey S,Uhlenbrook S,etal.2O11.Streamflowtrendsandclimate linkages in thesourceregionoftheYellowRiver, China.Hydrological Processes,25(22): 3399-3411.   \nHu YR,Maskey S,Uhlenbrook S.2O12.Trends in temperature andrainfall extremes intheYellow Riversourceregion,China. Climatic Change,110(1-2): 403-429.   \nIqbal M,Wen J,Wang X,etal.2O18.Assessmentof air temperature trendsin the Source Regionof Yellow Riverand its sub-basins,China.Asia-Pacific Jourmal of Atmospheric Sciences,54(1):111-123,doi:10.100/s13143-017-0064-x.   \nIvans CY,LelerAJSldingU,etal..RootrespossadrogenacqsitionyAtemisiatrdentataandAoon desertorum following small summer rainfall events. Oecologia,134(3): 317-324.   \nKwarteng AY,DorvlobAS,Vijaya KumaraGT.2009.Analysisofa27-yearrainfalldata (1977-2003)intheSultanateof Oman. International Journal of Climatology, 29(4): 605-617.   \nLan YC,Zhao GH,Zhang YN,etal.2Ol0.Responseof runoffinthe headwaterregionof theYellowRiver toclimate change and its sensitivity analysis. Journal of Geographical Sciences,2O(6): 848-860.   \nLauenroth WK,BradfordJB.20l2.Ecohydrologyof dryregionsof the United States: water balanceconsequencesof smal precipitation events. Ecohydrology,5(1): 46-53.   \nLazaro R,RodrigoFS,GutiérezL,etal.2O01.Analysisof a30-yearrainfallrecord(1967-1997)insemi-aridSE Spain for implications on vegetation.Journal of Arid Environments,48(3): 373-395.   \nLi Q,Yang MX,Wan GN,etal.2O16.Spatialandtemporal precipitationvariabilityinthesourceregionoftheYellowRiver. Environmental Earth Sciences,75(7): 594,doi: 10.1007/s12665-016-5583-8.   \nLi X L, Gao J, Brierley $\\mathbf { G }$ et al.2013.Rangeland degradation on the Qinghai-Tibet Plateau: implications for rehabilitation. Land Degradation & Development,24(1):72-80.   \nMavromatis T,Stathis D.2Ol1.Responseof the water balancein Greece totemperature and precipitation trends.Theoretical and Applied Climatology,104(1-2): 13-24.   \nMengFC,SuFG,YangDQ,etal.2016.Impactsofrecentclimatechangeonthe hydrologyin thesourceregionoftheYellow River basin. Journal of Hydrology: Regional Studies,6: 66-81.   \nNandargiS,Mulye S S.2O12.Relationships between rainydays,mean dailyintensityandseasonalrainfallover the Koyna Catchment during 1961-2005.The Scientific World Journal,2012:894313,doi:10.1100/2012/894313.   \nPalIAl-Tabbaa A.2ol1Asessingseasonal precipitation trends inIndiausing parametricandnon-parametricstatistical techniques.Theoretical and Applied Climatology,103(1-2): 1-11.   \nPetrie MD,BrunsellNA,Nippert JB.2O12. Climate change alters growing season flux dynamics in mesic grasslands. Theoretical and Applied Climatology,107(3-4): 427-440.   \nPetrie MD,CollinsSL,Litvak ME.015.The ecologicalroleofsmallrainfall events inadesert grassand.Ecohydrology, 8(8): 1614-1622.   \nPiaoSL,Cui MD,ChenAP,etal.2O11.Altitude andtemperature dependenceof change inthe springvegetationgree-update from 1982 to 2006 in the Qinghai-Xizang Plateau. Agricultural and Forest Meteorology,151(12): 1599-1608.   \nQiu J. 2008. China: the third pole. Nature,454(7203): 393-396.   \nSalaOE,Lauenroth WK.1982.Small rainfallevents: an ecological role insemiarid regions.Oecologia,53(3):01-304.   \nShi HY,LiTJ,WeiJH,etal.l6.SpatialandtemporalcharacteristicsofprecipitationovertheThre-RiverHeadwaters region during 1961-2014. Journal of Hydrology: Regional Studies,6: 52-65.   \nShi N.1996.Secularvariationof winteratmospheric teleconnectionpatern inthe Northern Hemisphereand its relation with China's climate change.Acta Meteorologica Sinica,54(6): 675-683 (in Chinese).   \nThiessen A H.1911. Precipitation averages for large areas.Monthly Weather Review,39(7): 1082-1984.   \nTrenberth KE.2O11. Changes in precipitation with climate change. Climate Research,47(1-2): 123-138.   \nWang SP,DingYJ,JiangFQ,etal.2O17a.Defiing indices fortheextremesnowfalleventsandanalyzingtheirtrendsin northern Xinjiang,China. Journal of the Meteorological Society of Japan.Ser. I,95(5): 287-299.   \nWang SP.DingYJ,IqbalM.2Ol7b.Definingrunof indicesandanalyzingtheirrelationships with associated precipitationand temperature indices forUpperRiver Basinsin the Northwest Arid Region of China.Water，9(8):618,doi: 10.3390/w9080618.   \nYuanFF,BerndtssonR,ZhangL,etal.2O15.Hydroclimatic trendandperiodicityfortheSourceRegionoftheYellowRiver. Journal of Hydrologic Engineering,20(10): 05015003,doi: 10.1061/(ASCE)HE.1943-5584.0001182.   \nZhou HK,Zhao X Q,TangYH,etal.2Oo5.Alpiegrassand degradationanditscontrolinthesourceregionof theYangtze and Yellow Rivers,China. Grassland Science,51(3):191-203. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

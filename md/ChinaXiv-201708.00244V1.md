@@ -1,0 +1,130 @@
+# 长期生态学研究和试验示范为草原生态保护和草牧业可持续发展提供科技支撑
+
+![](images/df43f5c7511b10574bfa0817829c8ca2c8279b8b7facad3b14e37597cb29064e.jpg)
+
+# 白永飞 王扬
+
+中国科学院植物研究所植被与环境变化国家重点实验室北京100093摘要长期以来，我国在畜牧业生产中过度利用草地的生产功能，忽视其生态功能，造成草地大面积退化，草-畜关系失衡，传统草原畜牧业难以为继，亟须探索适宜于牧区特点的生态保护与草牧业发展新模式，依靠科技创新推动草牧业发展。中科院内蒙古草原生态系统定位研究站（以下简称“内蒙古站”）自建站以来，立足于我国温带草原，长期开展草原生态系统水、土、气、生等要素监测，草原生态学基础研究，以及退化草地恢复、人工草地建设和生态系统管理等方面的应用研究，并通过示范推广为内蒙古草原的保护和可持续利用提供科技支撑。基于长期监测、养分添加和放牧控制试验，揭示了内蒙古草原生物多样性和生态系统稳定性的维持机制，主要发现：（1）不同物种和功能群之间的补偿效应是生态系统稳定性维持的重要机制；（2）物种和群落水平的化学计量内稳性是生态系统稳定性维持的基础，由化学计量内稳性高的物种占优势的群落，具有更高的生产力和稳定性；（3）混合利用方式（放牧和打草轮换）有利于多样性、生产力和生态系统稳定性的维持。基于以上基础研究和长期试验示范，内蒙古草原站研发了多年生混播人工草地的草种配置及高效人工草地建植技术体系。该体系提高了多年生人工草地的生产力和稳定性，延长了人工草地的利用年限，提高了牧草品质。为了进一步探索适宜于牧区特点的生态保护与草业发展新模式，内蒙古站提出了草地生产功能与生态功能合理配置技术体系。该体系通过建设高效人工草地和基本草牧场，解决饲草的生产问题，同时通过退化草地恢复和天然草地合理利用，提升草地的生态功能。这些研究成果不仅使我国的草地生态学研究达到国际先进水平，也使得内蒙古站成为草原科技成果转化的基地和开展国内外合作研究的重要平台。
+
+\*资助项目：国家重点研发计划课题（2016YFC050080004)  
+修改稿收到日期：2017年8月11日
+
+关键词补偿效应，化学计量内稳性，人工草地，物种配置，草地管理 DOI 10.16418/j.issn.1000-3045.2017.08.013
+
+我国拥有草地近 $4 \times 1 0 ^ { 8 } \mathrm { h m } ^ { 2 }$ ，约占国土总面积的$4 1 . 7 \%$ ，是耕地面积的 3.2倍、林地面积的2.5倍[1]。然而，我国的天然草地有 $90 \%$ 左右处于不同程度的退化之中，其中严重退化草地占 $60 \%$ 以上[23]。人为因素和气候干旱，特别是草地管理政策的偏差和管理水平的落后是导致我国北方草地退化的主要因素。针对我国传统的草原畜牧业难以为继的现实，亟须探索适宜于牧区特点的生态保护与草牧业发展新模式，依靠科技创新推动草牧业发展。
+
+中科院内蒙古草原生态系统定位研究站（以下简称“内蒙古站”），建于1979年3月，是我国在温带草原区建立的第一个草原生态系统长期定位研究站。经过近40年的发展，内蒙古站围绕草原生物多样性与生态系统功能的维持机制，草原生态系统对全球变化关键驱动因子的响应，以及退化草地恢复、草原生态系统适应性管理等基础科学研究和服务国家需求目标，开展了水、土、气、生等要素的长期监测和控制试验，揭示了草原生物多样性和生态系统功能的维持机制，以及全球变化生态系统功能和服务影响机制。同时，内蒙古站始终坚持把研究成果服务于社会，研发了休牧、轮牧、割草地轮刈、放牧一割草轮换利用等天然草地合理利用技术，沙地和沙化草地综合治理技术，多年生人工草地的草种配置和建植技术体系，以及草地生产功能和生态功能合理配置技术等生态草牧业技术体系；通过试验示范实现了科研成果的转化，为内蒙古草原的生态保护、科学利用和社会经济的可持续发展提供了有力的科技支撑，为草原牧区的生态文明建设提供了重要的科技支撑，得到了国家有关部门和内蒙古自治区各级政府的高度评价。
+
+# 1内蒙古草原生物多样性与生态系统稳定性的维持机制
+
+生物多样性和生态系统功能的稳定性维持机制是国际生态学研究和争论的热点[4,5]。长期以来，内蒙古站以蒙古高原草地生态系统为研究对象，通过对代表性草原类型的长期监测、养分添加试验、放牧控制的研究，揭示了蒙古高原草原生态系统生物多样性和生态系统稳定性的维持机制。
+
+内蒙古站研究团队在系统分析羊草（Leymuschinensis）草原群落和大针茅（Stipagrandis）草原群落连续24年（1980一2003年）长期定位监测数据的基础上，系统地研究了内蒙古草原生态系统稳定性与补偿效应的关系。主要发现：（1）每年1一7月份的降雨量是导致草原生态系统初级生产力波动的主要驱动因子；（2）生态系统稳定性沿不同组织水平，从植物种、功能群到群落，逐渐增加。成熟草原的群落，其物种多样性、初级生产力和生态系统稳定性均达到了最高；（3）不同物种和功能群之间的补偿效应是生态系统稳定性维持的重要机制（图1）[。该研究成果的科学意义主要体现在3个方面：（1）从理论上揭示了生物多样性的重要性及其对生态系统功能的影响机制，为指导草原生物多样性保护提供了详实的科学依据。（2）该成果对于指导退化草地的生物多样性恢复，提升其生产功能和生态功能，实现草地的可持续利用具有重要意义。（3）对于指导人工草地的建植具有重要意义。内蒙古站的重要技术成果“多年生混播人工草地建植技术”就是在这一理论指导下，充分利用了物种的补偿性效应。
+
+化学计量内稳性（环境或者食物中的养分组成发生变化而生物体维持元素相对不变的一种能力）是生物在长期进化过程中适应环境变化的结果，是生理和生化调节的反映。内蒙古站基于2年的氮磷添加试验，结合 $1 2 0 0 \mathrm { k m }$ 的样带调查和27年（1980—2007年）的长期监测数据，首次从时间和空间尺度研究了植物化学计量内稳性与生物多样性和生态系统功能的关系，证明了内稳性高的物种具有较高的优势度和稳定性，内稳性高的生态系统具有较高的生产力和稳定性（图2）。该研究拓展了生态化学计量学研究的范畴，也为生物多样性与生态系统功能关系的研究提供了重要的理论基础[]
+
+内蒙古站以羊草草原作为模式生态系统，依托植物
+
+27. Roderick, G. K, & Navajas, M. Genet controL.N,   
+28,J feree   
+29, Hudsenbck,J, P. & Ronquist, FMBAES: Bayesian inferene ofplogenetic trees.Biifemi 17, 754–755 (2001),   
+ln Nelenler. 1A A. MrMrvlehesr v1.0h /Hes aiv- 7nlnev 1lnr M67)
+
+Supplementary Information accompanies the paper on www.nature.com/nature.
+
+Acknawledgements WethankTCampbel,DCardace,P.Colbert,KdeQueiroz,A.Echteach JGkn Gonzalez,A.ToresBarboaandA, Wrightforadiceadassane, andtheNationalSienoe Foundation and the Environmental Protection Agency Science to Achieve Results (STAR) program for funding,
+
+Dempeting interests statement The aothors declare that they have no competing fiancial interests.
+
+Cerrespondenee and requests for materials should be addresed to J.K.   
+(kolbeFbiology:wastL.edu).
+
+# Ecosystem stability and compensatory effects in the Inner Mongolia grassland
+
+Yongfel Bal’, Xingguo Han’, Jianguo Wu1-2, Zuozhong Chen1 & Linghao Li
+
+1LaboratoryofQuantitative VegetationEcologInstitteofBotayCise AcademyofScieces,eji0, 2Facultyf ArizonaState University, Tempe, Arizona 85287-4501, USA
+
+Numerousstudieshave suggestedthat biodiversityreduces variabilityinecosystemproductivitythroughcompensatory effects1-6;that is, aspecies increases in its abundance inresponse to the reduction of another ina fluctuating environment17, But this viewhasbeenchallenged onseveral grounds8-10, Because most studies have been based on artificially constructed grasslands with short duration, long-term studies of natural ecosystems are needed. On the basis of a 24-year study of the Inner Mongolia grassland, here we present three key findings,First, thatJanuary-Julyprecipitation_isthe primary climatic factor causing fluctuations in community biomass production; second, thatecosystemstability (converselyrelated tovariabilityin community biomass production) increases progressively along the hierarchy of organizational levels (that is, from species to functional group to whole community); and finally, that the community-level stability seems to arise from compensatory interactions among major components at both species and functional grouplevels.Fromahierarchical perspective,our resultscorroborate someprevious findings of compensatory effects14l，Undisturbedmaturesteppeecosystemsseemto culminate withhigh biodiversity,productivityandecosystem stability concurrently, Because these relationshipsare correlational,further studiesarenecessarytoverify_thecausation amongthese factors. Our study provides new insightsfor better management and restoration of the rapidly degrading Inner Mongolia grassland.
+
+Theroleofcompensatory interactionsbetweenspecies6hasber a key issue in the debate concerning the diversity-stability relation· ship of an ecosystem. In particular, because different specie! respond toenvironmental fluctuations differently, thereductior in biomass of a certain species is more likely to be recompensed b)
+
+NATURE | VOL 431 |9 SEPTEMBER 2004 |www,nature.com/nature @2004 Nature Publishinat
+
+# letterstonature
+
+the increased biomass of other species in a species-rich rather than species-poorcommunitySuchompensaoryefectsheeen reportedforboth plant andanimal communitiest,-i4,However, others have argued that plant diversity has no consistent effect, or even a negative effect, on biomass production and ecosystem stabilityUolosabli on community composition but also on disturbance, nutrient supplyandaticdiidlot of natural ecosystemsareneeded forbeterunderstanding of compensatory effects and thus the diversity-stability relationship. Here we present the results of a long-term (1980–2003) study of two natural steppe communities in the Inner Mongolia grassland. Thefirst (siteA)isrzomegrassdomnatedcommunitydthe second (site B) is a bunchgrass-dominated community (see Methods). We classified species into the following five plant functional groups (PFGs) primarily on the basis of life forms: perennial rhizome grass (PR), perennial bunchgrasses (PB), perennial forbs (PF), shrubs and semi-shrubs (SS), and annuals and biennials (AB). PFGs also differ in plant stature, rooting depth, root-to-shoot ratio, water use eficiency,nutrient use efficiency and C:N:P stoichiometryl8-21(Supplementary Information).Our studyaddresses the following three questions: first, what are the most important climatic drivers for the aboveground biomass production of steppe communities? Second, how does biomass production respond to precipitationfluctuationsat diferent levelsoforganization (that is,at the species, plant functional group and community level)? And third, are there detectable compensatory effects reducing the variability in biomass production and thus increasing ecosystem stability?
+
+To address the first question, we used multiple regressions to examinehowtheabovegroundcommunitybiomass(Bcomm)was related to severalclimaticvariables: precipitation (annual,JanuaryJuly, January-August and May-August); cumulative temperature (°C), that is, the accumulated excess when temperature exceeded 0°C (January-July and January-August), 5°C (annual) and 10°C
+
+![](images/4547a2127166ccda005e0c399ee7f5d29988090613b4fa4d8e1a8d4c15ef8455.jpg)
+
+Figure 1 The relationship between January\~July precipitation and total community aboveground biomass(Bomn)for te Leymuscinensis(siteA)and Stpa granis(site B) steppe ecosystems of the Inner Mongolia grassland, using data from 1980 to 2003. Botompanel: Bonwas posively correlated to JanuaryJuly precipitationin site A (r²=0.25, P=001), but not in site B (r2=0.03, P=081; n=24),Error ars represent s.e.m.,andthe horizontal dashedline is the mean January-July precipitation from 1980 to 203. Top panel: a significant posive corelatin was found between Bconanlyiitfoed wet years (1990,1991, 1992 and1998).For site A(black dots) r2= 0.49, P <0.001, n = 19; for site B (open circles) r² = 0.35, P < 0.01, n = 19.
+
+# 图1内蒙古草原生态系统稳定性与补偿效应
+
+功能群剔除实验平台，进一步证明了补偿效应是草原生物多样性和生态系统功能维持的重要机制[8]。研究发现,随着植物功能群的剔除，生态系统的各项功能均表现为下降趋势，但其幅度因去除功能群的不同而存在显著差异：同时去除两个优势功能群会导致多个生态系统功能的显著降低，经过6年的时间各种功能尚不能恢复。
+
+放牧和打草是内蒙古草原的主要利用方式。内蒙古站通过分析连续17年（1982—1998年）的割草实验数据发现，人为干扰引起了群落结构的渐变式改变，而生态系统功能则在群落结构变化积累到一定程度后出现跃变式改变。草地生态系统依赖于群落结构的不断调整来维持其功能的相对稳定性，但群落结构变化到一定程度也会导致功能的衰退[。同时，基于长期放牧和割草控制实验研究发现，不同草地利用和管理方式（传统利用和混合利用）对物种多样性、生产力和稳定性具有重要影响。与传统的草地利用方式相比（即放牧场只放牧，打草场只打草），混合利用方式（放牧和割草每年轮换利用），更有利于物种多样性、生产力和生态系统稳定性的维持，进而有利于内蒙古草原的可持续利用[10]
+
+![](images/82c12e54cf421e533112b7e0a42d8ae941491dc0c443bb6ec1c4242952547176.jpg)  
+图2化学计量内稳性高的植物具有高的优势度和稳定性相关结果发表在Ecology Letters
+
+相关结果发表在Nature
+
+# 2多年生人工草地的草种配置与建植技术体系
+
+根据生态位理论、物种补偿作用和植物群落演替理论，内蒙古站提出了多年生混播人工草地草种科学配置的5个组合，即：长寿命草种与短寿命草种组合，深根型草种与浅根型草种组合，豆科与禾本科牧草组合，耐旱草种与喜湿草种组合，一年生草种与多年生草种组合（图3）。该技术体系通过草种科学配置显著提高了多年生人工草地的生产力和稳定性，延长了草地的利用年限，提升了牧草品质。在草地管理方面，实现了旱作条件下人工草地建植的全程机械化，不仅提高了播种质量，还通过机械化中耕和雨季施肥，实现了“肥跟水走”的科学理念，显著提高了草地的水分和养分利用效率，为实现人工草地的高产、稳产，以及延长草地的利用年限提供了科学依据和技术保障。该技术体系于
+
+2007年获得两项国家发明专利（专利号：ZL353706、ZL396567，图4）。
+
+![](images/947f54ec2c1fe563b3b44cc4c1a24885969e1af184cbbb38cce1f8deedb2eed1.jpg)  
+图3混播人工草地不同牧草品种组合 (A）及其效果 (B)
+
+该技术体系的创新之处主要体现在6个方面：（1）通过长寿命牧草与短寿命牧草组合，充分利用了人工草地群落不同演替阶段各牧草品种的产量优势，解决了目前人工草地在种植早期产草量低和后期衰退现象严重的关键问题，延长了人工草地的利用年限。（2）通过深根型牧草与浅根系牧草组合，以及非固氮的禾本科牧草与固氮的豆科牧草组合，发挥了不同牧草在水分和养分利用方面的互补性和互惠性，实现了对水分和土壤养分资源的高效利用。（3）通过一年生牧草的保护播种，在种植当年有效地抑制了田间杂草对多年生牧草幼苗的危害。同时，一年生牧草收获后的留茬较高，有利于冬季增加草地积雪覆盖，减少春季风蚀，进而有利于多年生牧草的越冬，并确保播种当年有一定产草量，提高了经济效益。（4）通过耐旱品种与喜湿品种间在不同年份产草量的补偿关系，降低了干旱年份与湿润年份的产草量差异，实现了人工草地的高产和稳产。（5）在牧草品种选择上，根据不同地区的生态环境条件，选择适应性较强的国产优良牧草品种，解决了进口牧草品种抗旱性差，越冬率低等方面的问题，也避免了盲目引进外来牧草品种可能带来的生态问题。（6）在人工草地的建植过程中，实现了精量播种、杂草防除、中耕、雨季施肥、收获与加工的全程机械化，提高了播种质量和田间管理水平。特别是通过机械化中耕和雨季施肥，提高了草地的水分利用效率，确保了“肥跟水走”，为人工草地实现高产和稳产提供了保障。
+
+![](images/da9a7e265df70878192583a0baa9d85fc0c361461adfafc31cfc10c4a81d798f.jpg)  
+图4多年生混播人工草地（ZL353706）和豆科牧草防倒伏(ZL396567）国家发明专利
+
+# 3草地生产与生态功能合理配置
+
+当前，我国的草牧业正经历着由草地传统利用和管理模式向现代草牧业发展模式的转型。在此过程中，退化草地恢复和天然草地的合理利用是基础，人工草地建设是关键，而草地生产功能和生态功能的合理配置是转型成功与否的标志[1]。所谓生产功能与生态功能的合理配置，就是在一定的地理区域内或行政管理单元（例如，牧民合作社、嘎查（行政村）、苏木（乡）、旗（县）、盟（市），通过在优质的土地上种植一定比例（1/20—1/10）的高产高效人工草地，在优质的天然草地上建设基本草牧场，把传统畜牧业对天然草地的依赖转移到人工草地和基本草牧场，由人工草地和基本草牧场承担起主要的生产功能，使大部分天然草地的功能回归到其本来的自然生态属性，恢复和提升其生态功能，从而实现我国草牧业的可持续发展。因此，高效人工草地和基本草牧场建设是实现生产功能与生态功能合理配置的关键，建设人工草地和基本草牧场可以大大提高草地的产草量，并改善牧草品质。例如，苜蓿人工草地的产量可达 $2 2 . 5 \mathrm { t / h m } ^ { 2 }$ ，是天然草地的11倍左右；羊草人工草地的产量可达 $2 4 \mathrm { t / h m } ^ { 2 }$ ，是天然草地的12倍；青贮玉米的干物质产量可达 $4 5 \mathrm { t / h m } ^ { 2 }$ ，是天然草地的 23倍[1]。由此可见，建设优质高效人工草地和基本草牧场可以使饲草产量提高10一20倍，有望解决草地的饲草生产问题，并从根本上遏制过度放牧引起的草地大面积退化，生态功能严重衰退等生态安全问题[]
+
+实现天然草地的合理利用，使天然草地发挥其生态功能，是实现生产功能与生态功能合理配置的基础。天然草地的合理利用技术包括：（1）退化草地封育技术。针对退化草地，通过建设围栏或禁止放牧等措施,免除草地继续受到家畜的干扰，依靠其自然修复能力，逐步提高草地生产力、多样性和稳定性。迄今，草地封育是最有效的退化草地恢复技术之一，也是其他恢复技术实施的前提。（2）划区轮牧技术。该技术是保护与利用相结合的、有计划的放牧利用技术；该技术使得牧场有一个休息恢复的时期，是天然草地合理利用的中心环节[10]。（3）季节性休牧技术。该技术包括春季休牧和秋季休牧。其中春季休牧是指每年牧草返青期（4月下旬一6月中旬）禁止放牧，使退化草地得以休养生息。秋季休牧是指每年秋季牧草进人结实期（8月中旬一9月中旬），停止放牧，使牧草的种子得以成熟入土，以维持草地土壤种子库具有充足的种源。（4）割草地轮刈技术。该技术有利于保存草地土壤种子库的密度，减缓连续刘割引起的草原群落退化，促进草地的长期利用。（5）沙地治理的“三分模式”。针对占1/3面积的风蚀坑、流动沙丘（光头顶）、半流动沙丘等，采取工程措施（生物网格 $^ +$ 固沙先锋植物）进行治理；对于占2/3面积的植被覆盖度较低的沙化退化草地通过围封禁牧，依靠其自我修复能力，加速植被的自然恢复，提升草地的生态功能。
+
+# 4结语
+
+“十三五”期间，内蒙古站将围绕中科院加快实现“四个率先”目标和中科院植物所建设“世界上有重要影响的一流研究机构”的发展目标，不断完善和提升野外台站基础设施建设，加强天-空-地一体化的生态系统监测和信息化管理系统建设，提高科研团队和技术辅助团队的能力建设和管理与服务水平。内蒙古站的发展目标是在长期生态学基础研究和解决国家需求方面达到国际同类研究领先水平，同时将内蒙古站建设成为草原科技成果的转化基地、国内外高水平合作研究的平台、优秀科学家团队的培养摇篮。
+
+# 参考文献
+
+1 杜青林.中国草业可持续发展战略.北京：中国农业出版社, 2006.   
+2中华人民共和国环境保护部.中国环境状况公报2005.北京: 中华人民共和国环境保护部,2006.   
+3韩俊.中国草原生态问题调查.北京：上海远东出版社,2011.   
+4Tilman D, Downing JA. Biodiversity and stability in grasslands. Nature,1994,367:363-365.   
+5McCann K S.The diversity-stability debate.Nature,20o0,405: 228-233.   
+6BaiYF,Han XG,Wu JG,et al.Ecosystem stability and compensatory effects in the Inner Mongolia grassland.Nature, 2004,431: 181-184.   
+7 Yu Q,Chen Q S,Elser JJ,et al.Linking stoichiometric homoeostasis with ecosystem structure,functioning and stability.   
+EcologyLetters,2010,13:1390-1399.
+
+8Pan QM, Tian D S,Naeem S,et al.Effects of functional diversity loss on ecosystem functions are influenced by compensation. Ecology,2016,97: 2293-2302.
+
+9Bao Y J,Li Z H, Zhong Y K.Compositional dynamics of plant functional groups and their effects on stability of community ANPP during 17 yr of mowing succession on Leymus chinensis steppe of Inner Mongolia,China.Acta Botanica Sinica,2004, 46(10): 1155-1162.
+
+10 Wan H W,Bai Y F, Schönbach P,et al.Effects of grazing management system on plant community structure and functioning in a semiarid steppe: scaling from species to community.Plant and Soil,2011,340:215-226.
+
+11 白永飞，潘庆民,邢旗.草地生产与生态功能合理配置的理论基础与关键技术.科学通报,2016,61:201-212.
+
+# Long-term Ecological Research and Demonstrations Support Protection and Sustainable Management of Grassland Ecosystems
+
+Bai YongfeiWang Yang
+
+（State Key Laboratory of Vegetation and Environmental Change,Institute of Botany,Chinese Academy ofSciences,
+
+Beijing 100093,China）
+
+AbstractThegraslandecosystems in Chinahaveexperienced widespreaddeteriorationin functioningandservices duringthelastfew decades,causdarilyeusigeprouctiouctiosfasadsattostofgicalfuntiosereforeitstly neededtodevelopanewparadigmforecologicalrestorationandsustaiablegraslandhusbandrybasedobasicresearchanddmonstrations ingrasslandscienceSncetheestablishmentin1979,thersearchatIerMongoliaGrassandEcosstemResearch Station(MR)of Chinese AcademyofSciencesfocusesonlong-termmonitoringofkeybioticandabioticfactorsdrivingecosystemprocessesintemperate graslands;reseouctueductiosfasdsvesisablitelatioipdspsdbacso grasslandcosstemstoobalclimateanges;developmentofpracticaluesforestoratiofgaddgassandsabliset of ultivatedpasturesndsustaablemanagement ofatural grassands.Themainfindngsincude: (ompensatoryinteractiosaog majorcompoentsatothspecisadfunctioalgopleveleimportantmechansotributigtoosstemstabilt;(2)stoetric homoeostasisatbothspciesadcommunitylevelsianimportantprocessmaintainingecosystemstabilityindicatigthatcomitis dominatebyhmoeostaticspeciestendtoaveighproductivityandhighstability; (3)mixedmanagementsystems (grazingandhaaking rotateaallgateucsoteadiidabilitydodt contributiontosstaiableland-useof grassands.Basedotefdingsfrobasicesearchaddmonstrations,MGEevelopdris ofefective techiquesforforageseciesdispositionandestablishmentofperenialmixedsowingpastures,whichincreasedproductivity andstabilityextendedproductivelife,andimproved foragequalityof thecultivatedpastures.IMGERSalsoproposedanewparadigm foroptimizingproductionfunctionsandecologicalfunctions ingrassandecosystems.Thenewparadigm include twomain priciples:(l) optimizingtheproductionfunctions through establishmentofproductivecultivated pasturesand primepastures;(2)improvingeological functions troughestoratioofdegadedgaandandsustaableutilzoofaturalgassndesereseachactivitiessupprt asafrontieringssandesearch,basefortrasatigsientificowledeofbsicesearchitopracticeofgrassandmanagetda platform for international collaborations.
+
+Keywordsompeatoeractiosotricomeoasisatedsurefrgesciessposiiondt白永飞中科院植物所研究员、博士生导师，中国科学院大学岗位教授，中科院内蒙古草原生态系统定位研究站站长。1966年10月出生。1998年在内蒙古农业大学获得博士学位，1998至2000年在中科院植物所从事博士后研究,2000年留所工作，2004—2006年赴美国亚利桑那州立大学开展合作研究。2008年国家杰出青年科学基金获得者，2010年入选中国科学院“百人计划”，2011年入选内蒙古自治区“草原英才”，2014年入选国家百千万人才工程国家级人选。近年来，主持和承担国家重点研发计划项目课题、国家重点基础研究发展计划（ $^ { \omega } 9 7 3 ^ { \prime \prime }$ ）项目课题、中科院战略性先导科技专项课题、自然科学基金重点和面上项目等10 余项，共发表各类研究论文140余篇，其中SCI论文90 余篇。目前担任中国植物学会植物生态学专业委员会主任、中国生态学会长期生态学研究专业委员会副主任，先后担任Rangeland Ecology&Management副主编（2009—2011年）、《植物生态学报》副主编（2009—2014年）、《植物学报》副主编（2015至今），以及JournalofArid Environments、《科学通报》《植物生态学报》《生态学报》《生物多样性》《植物科学学报》《生命世界》编委等学术兼职。E-mail:yfbai@ibcas.ac.cn
+
+BaiYongfeiPricipleIetigatordPuervisorofIstituteofotanysecadeyfieces(CAS),dre UniversityofCAS.HeisthedirectoroftheInerMongoliaGrassandEcosystemResearchStation,CAS.HereceivedhisPhD.froIer MongoliaAgltureUvesityi998,usdostdoalagistuteotayfro998todnodii ResearchFellowatScholofLifeSciences,ArizonaStateUniversityfrom004to2O6.Prof.BaiisrecognizedbytheNationalNatural ScienceFoundatioofChina(NSFC)asadistinguishedyoungscholar,the“OneHundredTalentsProgram”ofCAS,andanatioalmember ofthe“NewCenturyHundredsandThousandsofTlentsProject.HeisalsothePresidentofteplantecologybranchoftheChineseSociety forPlantSies.Hisaieachasieelatiosseplafctioalraitsuctioalvesitduot functions;sensiviitigation,nddaptatioofosytesicestolobalhangediver；nddaptieaagemetofa ecosystems.Heasublishedmorethan14papersinerreviewedjouals,chasNature,EcologyJouralofcologydGlobal Change Biology.E-mail: yfbai@ibcas.ac.cn

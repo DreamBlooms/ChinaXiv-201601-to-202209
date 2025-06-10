@@ -1,0 +1,294 @@
+# 小样本情况下错误先验信息对贝叶斯估计的影响：基于多层模型的研究
+
+郑舒方」张沥今」潘俊豪」 (通讯作者)1中山大学心理学系，广州，510006
+
+摘要在心理学、教育学和组织行为学等领域的研究中，研究者常常会遇到存在嵌套结构的多层数据，如被试可能嵌套于社区、班级、诊所等。如果不考虑数据本身的嵌套结构，可能导致一些统计模型违反其独立性假设，从而对模型参数的估计产生较大的偏差。因此，研究者往往需要利用多层模型解决多层数据中非独立性观测可能带来的问题，但由于客观条件的限制，实际研究中多层数据常常出现水平1或水平2样本量偏小的情况。基于传统频率学派的极大似然估计方法(Maximum Likelihood,ML)需要依赖大样本，在小样本下容易出现参数估计及模型收敛等方面的问题。贝叶斯估计在小样本的情况下往往具有更大的优势，但与此同时，也更容易受到先验信息主观设置的影响。为了探讨贝叶斯估计中错误先验信息可能带来的负面影响，并与传统方法进行对比，本文基于多层模型，利用蒙特卡洛模拟，研究不同数据类型(因变量分别为连续正态分布数据、连续非正态数据与二分变量的数据)、样本量和组内相关系数(Intraclass Correlation Coefficient, ICC)的情况下，设有不同信息强度和偏差程度的先验信息对贝叶斯估计的影响。总体结果显示，贝叶斯估计中均值严重偏离真值的先验分布会对参数估计带来较大的负面影响，特别是在ICC较大，以及群组样本量和先验分布方差较小的情况，且因变量为非正态分布或二分变量时，错误先验信息的负面影响更为明显。本文对多层模型中错误先验信息对贝叶斯估计的影响进行研究并提出建议，希望为贝叶斯估计中先验分布的设置提供一定的理论补充及实证参考。
+
+关键词多层模型；小样本；贝叶斯估计；错误先验信息
+
+# The Influence of Inaccurate Informative Priors on Bayesian Estimation in Small Samples: A Study Based on Multilevel Modeling
+
+Zheng Shufang1, Zhang Lijin1,Pan Junhaol 1.Department ofPsychology, Sun Yat-sen University, China
+
+# Abstract
+
+In the research of psychology，education,and organizational behavior, researchers often encounter multilevel data with hierarchical structures (e.g.， participants may cluster within communities, classes,or clinics).Ignoring the hierarchical structures of data may lead to a violation of the independence assumption of some models,resulting in biased parameter estimates.Therefore, researchers often need to conduct multilevel modeling to solve the statistical problems caused by non-independent observations.However,due to the limitation of objective conditions,in real studies, the sample sizes of level1 and/or level 2 are often small in hierarchical data.Traditional frequentistbased maximum likelihood (ML） approach, which relies on large-sample theory,might lead to problems in parameter estimation and model convergence in multilevel modeling with small samples.In contrast, Bayesian approach is often more advantageous in small samples,but it is also more susceptible to the subjective specification of priors.
+
+To investigate the potentially detrimental effects of inaccurate prior information on Bayesian approaches and compare their performance to the traditional approaches, we conducted a series of simulations under the multilevel model framework with different dependent variable types (i.e., continuous normal, continuous non-normal, and binary dependent variables),sample sizes and intraclass correlation coeficients (ICCs).In sum,the results revealed the devastating impacts of inaccurate prior information on Bayesian estimation,especially in the cases of larger ICC,smaller level 2 sample size,and smaller prior variance.When the dependent variable was non-normal or binary,these negative effects were more obvious. The present study investigated the impacts of inaccurate prior information on Bayesian estimation and provided advice on the specification of priors.We hope that it could contribute to strengthening the theoretical and practical understanding of prior specifications.
+
+Key Words Multilevel Modeling; Small Samples; Bayesian Modeling; Inaccurate Prior Information
+
+# 1引言
+
+在心理学、社会学和组织行为学等领域的研究中，常常会涉及到存在嵌套结构的数据，也称为多层数据(Aryee et al.,2012; Holtmann et al.,2016; Hox et al.,2017)。在这类数据中，被试可能来自不同的社区、班级、公司、家庭等，由于同一群组内的个体更倾向于得到一致的结果，在建模中考虑这种内部的一致性是很有必要的(Suton etal.,2013)。在多层数据中，如果不考虑数据本身的嵌套结构，同一群组内个体存在的依赖性会导致一些统计模型(如，多元线性回归模型)违反独立性假设(Cormfield,1978;Rutterford et al.,2015;Van Breukelen &Candel,2012)，从而使模型参数的估计产生较大的偏差(McNeish,2016)。为了解决由群组内部的非独立性观测所引起的统计方面的问题，研究者往往需要建立多层模型(MultilevelModeling; Ryu, 2015)。
+
+多层模型的传统估计方法是频率学派的方法(主要为极大似然估计,MaximumLikelihood,ML)，但它往往需要依赖较大的样本量，在群组样本量较小时容易出现模型收敛、参数估计等方面的问题。然而，多层数据的收集往往需要更大的经济成本、更高的收集难度，因此增大群组样本量十分困难(Campbell&Walters,2014)。特别是在群组随机控制实验(clusterRandomised Controlled Trials,cRCT)中，往往会出现群组样本量过小的问题(McNeish,2016)。事实上，心理学研究者常常需要通过设计实验研究，通过实验组和控制组的对比，探讨其实验控制或干预是否起到显著的效果。随机控制实验(Randomised Controlled Trials,RCT)正是实验研究设计的黄金标准(Campbell&Walters,2014;Ruterford et al.,2015)，但许多原因驱使研究者们更倾向于选择对群组而不是个体为单位进行实验。这些原因可能包括：研究受到地理环境的客观限制、希望降低“干预污染"(Treatment Contamination)的风险(Campbell,2019),以及希望提高干预的效率、便利性、参与者的依从性，减少伦理方面的争议等(Rutterford etal.,2015)。因此，在心理学、社会学和教育学的研究中，特别是在临床心理学领域，这种cRCT的实验设计都是十分常见的(Campbell,2019;Ribeiro et al.,2018)。
+
+考虑到传统方法在小样本中的局限性，有研究者提出可以利用贝叶斯的方法来解决小样本可能带来的问题(Depaoli & van de Schoot,2017; Kadane,2015; McNeish,2016; van de Schootet al.,2014)。有模拟研究表明，在多层模型中，相比ML，贝叶斯方法仅需要更少的群组样本量就可以得到较为准确的参数估计(Hox etal.,2012)。贝叶斯方法的另一优势在于它能结合前人研究的先验信息，提高参数估计的准确性(Depaoli& Clifton,2015;McNeish,2016)。然而，由于实证研究和理论依据的缺乏，先验分布的设置很难和真实情况完全一致，而错误的先验信息可能对模型参数的估计带来较大的影响。
+
+近年来，一些学者开始关注错误先验信息对特定模型可能造成的影响，如多质多法模型(Multitrait-Multimethod,MTMM; Holtmann et al.,2016)、潜发展模型(Depaoli,2014; Shi& Tong,2017)和带协变量的 CFA 模型(Multiple Indicators,Multiple Causes Model, MIMIC; Finch &Miller,2019)等。Holtmann 等人(2016)的研究主要基于MTMM的框架，对小样本条件下不同估计方法在多层模型中的表现进行比较。其研究表明，较强的错误先验信息(即先验分布的方差较小)会对模型参数估计带来毁灭性的结果，但对参数设定较弱(即先验分布的方差较大)的错误先验信息时，其估计结果可能优于无信息先验分布的情况。然而,Holtmann 等人(2016)的模型中只考虑了两因子结构的测量模型，没有设置协变量和回归路径，且假设认为水平 2的样本量较大(50-200)；但在一些多层模型的研究中(如 cRCT)，群组(水平 2)样本量一般小于 50，群组内部(水平1)的被试数量一般不超过 100(如，van der Putten et al.,2013; Ha et al,2017; Newton et al., 2018; Shen et al., 2019)。
+
+考虑到cRCT研究的普遍性和目前关于错误先验信息的影响研究的局限，本研究将建立以cRCT为背景的多层线性模型(McNeish,2016)，利用蒙特卡洛(Monte Carlo)的方法进行模拟研究。由于实证研究中先验分布的设置存在主观性，本模拟研究将关注多层线性模型中，不同信息强度以及对真实值不同偏差程度的错误先验信息对贝叶斯估计带来的影响，以考察贝叶斯估计对先验分布设置的容错性；同时，对贝叶斯和传统方法(ML)的表现进行对比，以帮助研究者在实际研究中更好地选择合适的估计方法。希望可以为小样本情况下估计方法的选择和贝叶斯方法中先验分布的设置提供借鉴和参考。
+
+# 2多层线性模型和贝叶斯估计
+
+# 2.1多层线性模型
+
+多层模型常用来对存在嵌套结构的数据进行分析，以解决由群组内部的非独立性观测所引起的统计方面的问题(Ryu,2015)。它可以将变量的变异来源分解为不同的水平(如，个体水平、群组水平以及其他更高的水平)，这些变异可以被不同水平的变量共同解释(Heck&Thomas,2015)，因此能灵活考虑不同水平变量之间的相互作用。
+
+考虑到研究结果的普适性，本研究将主要关注应用最为广泛的多层线性模型，并考虑不同群组间的随机截距和随机斜率效应。这一模型也是标准 cRCT 中的模型(McNeish,2016)。模型公式和路径图如下(McNeish,2016):
+
+$$
+Y _ { i j } = \beta _ { 0 { \dot { \jmath } } } + \beta _ { 1 j } X _ { 1 i j } + \beta _ { 2 j } X _ { 2 i j } + \beta _ { 3 j } X _ { 3 i j } + e _ { i j }
+$$
+
+$$
+\begin{array} { r l } & { \beta _ { 0 j } = b _ { 0 0 } + b _ { 0 1 } W _ { 1 j } + u _ { 0 j } } \\ & { \beta _ { 1 j } = b _ { 1 0 } + b _ { 1 1 } W _ { 1 j } + u _ { 1 j } } \\ & { \beta _ { 2 j } = b _ { 2 0 } + b _ { 2 1 } W _ { 1 j } + u _ { 2 j } } \\ & { \beta _ { 3 j } = b _ { 3 0 } + b _ { 3 1 } W _ { 1 j } + u _ { 3 j } } \end{array}
+$$
+
+![](images/033f9df7afadb1ab5e33d3a0b269bc5d4621e9677312b7bb4ec5bb552feddfd6.jpg)  
+图1多层线性模型
+
+其中， $W _ { \mathrm { 1 j } }$ 为水平2 的自变量，在cRCT 中一般为二分变量，表示实验组或者控制组； $X _ { \mathrm { 1 i j } }$ $X _ { 3 \mathrm { i j } }$ 均为水平1的自变量，表示被试的性别、年龄、变量前测数据等。 $\beta _ { 0 \mathrm { j } }$ 为随机截距， ${ \beta } _ { 1 { \dot { \mathrm { j } } } } \cdot$ $\beta _ { 3 \mathrm { j } }$ 为随机斜率，下标j表示这些截距和斜率项在不同群组间可能存在差异。 $u _ { 0 \mathrm { j } } – u _ { 3 \mathrm { j } }$ 分别对应为 $\beta _ { 0 j } – \beta _ { 3 j }$ 的残差项，服从均值为0，方差协方差矩阵为0的多元正态分布。
+
+传统上，多层模型常常利用频率学派的方法对未知参数进行估计(Depaoli& Clifton,2015)。然而，在ML 的理论框架下，参数的无偏估计需要满足数据渐近符合正态分布的前提，这对样本量要求较高(McNeish,2016)。在多层模型的分析中，对群组水平(Level2)的参数进行估计时还需将群组视为整体，因此ML方法往往还要求数据有足够的群组数目，从而才能满足渐近理论的假设(Asparouhov&Muthén,2010)。一般来说，随着多层模型中群组样本量的增多，整体数据更趋向于正态分布(Rutterford et al.,2015)，因此相对于组内样本量，增大群组的数量能更有效地增大实验的检验力(Ribeiro et al.,2018)。较多研究指出，ML 方法在总体样本量较小时的多层模型中表现较为糟糕(McNeish&Stapleton,2014)，特别是在水平1和水平2样本量均较小的情况下，传统 ML方法在多层模型中往往会遇到难以收敛的问题(Depaoli & Clifton,2015; Hox & Maas,2001; Hox et al.,2010; McNeish,2016; Schoeneberger,2015),而且可能会出现参数估计结果不可靠、不稳定的情况(Asparouhov&Muthen,2010; Hox& Maas,2001; McNeish, 2016)。
+
+# 2.2贝叶斯估计
+
+为了解决在群组样本量较小的多层模型中传统的频率学派方法在模型收敛、参数估计等方面的问题，研究者可以利用贝叶斯的方法来对模型进行估计(Depaoli& van de Schoot,2017;Kadane,2015; McNeish,2016; van de Schoot et al.,2014)。一般来说，在小样本情况下，贝叶斯估计在模型收敛、参数估计等方面的表现比传统方法更优(Lee& Song,2004;Muthen&Asparouhov,2012)，特别是多层模型中群组样本量较小的情况下(Asparouhov&Muthén,2010;Hox et al.,2012;Muthén＆Asparouhov,2012)。简单来说，贝叶斯方法认为未知参数是随机变量，可以利用先验信息和似然函数得到的后验分布来反映参数在不同取值上的可能性(Lynch,2007)。它和传统频率学派的基础理论框架不同，不依赖于频率学派的大样本渐近理论(McNeish,2016)。在贝叶斯估计中，参数取值概率的后验分布可以表示为(Lynch,2007):
+
+$$
+p ( \Theta | y ) \propto p ( y | \Theta ) p ( \Theta )
+$$
+
+其中，y表示观测变量向量，θ对应表示未知参数向量。 $p ( \boldsymbol { \Theta } | y )$ 表示取值概率的后验分布，它同时取决于先验信息 $p ( \boldsymbol { \Theta } )$ 和数据似然函数 $p ( y | \boldsymbol { \Theta } )$ (Lynch,2007)。一般来说，当样本量较大时，后验分布主要取决于似然函数，而随着样本量的减小，先验信息对参数后验估计的影响也逐渐增大。因此，在小样本的情况下，对于先验分布的设置需要更加慎重(Holtmann etal.,2016;McNeish, 2016)。
+
+贝叶斯方法不需要对参数的抽样分布做出假设，也不需要通过复杂的计算来得到参数估计的标准误，所以能很好地克服传统方法在小样本情况模型难以达到收敛的问题(Depaoli&Clifton,2015;Levy&Choi,2013)。贝叶斯方法的另一优势在于它能结合前人研究的先验信息，提高参数估计的准确性(Depaoli&Clifton,2015;McNeish,2016)。然而，先验分布的设置存在一定的主观性，且由于实证研究和理论依据的缺乏，很可能出现先验分布的设置和真实情况不一致的情况，即可能出现错误先验信息的情况。
+
+为了探究贝叶斯估计下，不同信息强度的先验分布(即先验分布方差大小的不同)可能带来的影响，一些研究者对不同情境下的模型进行了模拟研究(Depaoli&Clifton,2015)。如，McNeish(2016)曾以cRCT 为研究背景，建立多层模型，利用不同的估计方法对模型参数进行估计和比较，包括传统频率学派的 ML、限制性极大似然估计(Restricted MaximumLikelihood,REML)和贝叶斯估计；并在贝叶斯方法下，比较先验分布的不同信息强度对参数估计的影响。其模拟研究结果表明，先验分布中不同信息强度的设置对模型参数估计的影响较大，特别是在总体样本量较小、因变量为分类数据的情况下(Lynch,2007;McNeish,2016)。然而，和许多模拟研究一样，McNeish(2016)对于先验分布的影响研究，是基于其先验分布能提供正确先验的假设，而没有考虑错误先验信息可能带来的影响。一般来说，较强的错误先验信息会对模型参数估计带来毁灭性的结果，特别是在样本量较小的情况下。但也有研究指出，对参数设定较弱(即先验分布的方差较大)的错误先验信息时，其估计结果可能优于无信息先验分布的情况(Holtmann et al.,2016)。目前，对于贝叶斯估计中错误先验信息的影响仍有许多不明确的地方，需要更多相关研究来加深研究者们的认识(Finch& Miller,2019;Holtmann etal.,2016)。因此，本文将基于应用较为广泛的多层线性模型，展开一系列模拟研究，以探究不同数据条件下错误先验信息对贝叶斯估计的影响。
+
+# 3模拟研究
+
+# 3.1研究设计
+
+基于图1的多层线性模型'，本研究考虑以下因素的影响：不同样本量(包括水平1和水平2样本量)、组内相关系数(Intraclass Correlation Coefficient,ICC)以及估计方法。本文利用R 软件进行模拟数据的生成，并利用 Mplus 8.0(Muthen&Muthen,1998-2017)进行模型分析。为简化模型，本研究中因变量服从连续正态分布。
+
+# 样本量
+
+以“cluster Randomised Controlled Trials”和“multilevel”为关键词，在 Web of Science上对近5年(2015-2019 年)的核心期刊论文进行检索及初步筛选，得到95 篇相关文献。利用摘要、全文获取等方法，对有报告样本量的文献中的群组数量和群组内被试的平均数量进行编码，得到其样本量设置情况。如图2所示，近5年cRCT研究中的群组数量主要集中于10-40 之间，而群组内被试的平均数量大多小于100。因此，结合文献检索、编码的结果，以及 Depaoli 和Clifton(2015)的建议，本研究中水平2样本量分别设为20，30，40，50；水平1的样本量分别为：30，60，150。
+
+![](images/617aa290d00f8bb55138433b63919b003325cfb6b7cce71206f02c9a38ddb293.jpg)  
+图22015-2019年cRCT研究中的样本量统计
+
+ICC
+
+在多层模型的研究中，研究者往往还会关注不同水平的ICC可能对参数估计造成的影响。ICC 表示变量的总变异可以被水平2的变异解释的比例，其计算公式为 $\begin{array} { r } { \mathrm { I C C } = \sigma _ { \mathrm { B } } ^ { 2 } / ( \sigma _ { \mathrm { B } } ^ { 2 } + } \end{array}$ $\sigma _ { \mathrm { W } } ^ { 2 } \mathrm { \lambda }$ ，其中 $\sigma _ { \mathrm { W } } ^ { 2 }$ 和 $\sigma _ { \mathrm { B } } ^ { 2 }$ 分别表示水平1和水平2的方差。ICC 越大，变量在组间的差异相对于组内差异越大。多项前人研究表明，当ICC较小时，传统频率学派的方法可能出现参数估计以及模型收敛方面的问题(Hox& Maas,2001; Preacher et al.,2011; Koch et al.,2015)，而贝叶斯估计的方法可能可以在 ICC 较小时仍能得到准确的参数估计(Hox et al.,2012;Muthen &Asparouhov,2012)。有模拟研究的结果表明，ICC 越大，无信息先验的贝叶斯方法对水平 2参数的估计偏差可能反而越大(Depaoli&Clifton,2015)。另外，在多层 MIMIC 中，对于水平2 参数的估计偏差会随着 ICC 的增大而增大，检验力随着 ICC 的增大而减小(Cao et al.,2019;Finch&French,2011)。Fang 等人(2019)指出，未来研究可以进一步探讨在更多多层模型中，ICC 对于贝叶斯估计及其他估计方法表现的影响。
+
+一般来说，当 $\mathrm { I C C } \geq 0 . 0 5 9$ 时，需要考虑被试间的差异，使用多层模型对数据进行分析(Cohen,1988)。前人关于多层模型的模拟研究中，主要关注的 ICC 介于0.05到0.2之间(e.g.,Depaoli & Clifton,2015; Hox et al.,2010; Lüdtke et al.,2011; Preacher et al.,2011)，因此本研究中的ICC也将分为0.05、0.1和0.2三个水平。为了使得ICC 的水平分别为0.05、0.1和0.2,模型中各个水平变量的方差和残差方差随之发生变化(Depaoli&Clifton,2015)。
+
+估计方法
+
+模拟研究使用的估计方法为传统频率学派的 ML2估计以及贝叶斯方法。贝叶斯方法分为无信息先验和有信息先验的情况。在有信息先验的贝叶斯估计中，针对回归系数设置先验分布 $N ( \mu , \sigma ^ { 2 } )$ 。 $\mu$ 分 5个水平，即无偏；向左/右偏移回归系数真值1个标准差(StandardDeviation, $S D )$ ;以及向左/右偏移真值 $3 S D _ { \circ } \sigma ^ { 2 }$ 分3个水平,分别为对应回归系数真值的 $10 \%$ 、$20 \%$ 、 $50 \%$ (Depaoli, 2014)。以 $b _ { 0 1 }$ (真值为1.5)为例，其15 种不同偏差程度及信息强度的先验分布设置如图3所示。加上无信息先验的情况(按照 Mplus默认的设置，回归系数的先验分布均值为0，方差为无穷大)，贝叶斯方法有 $1 + 5 + 3 = 1 6$ 种先验分布的设置。再加上传统的估计方法(ML)，需要进行17 种估计方法的比较。
+
+![](images/fb4737e5309510e2e6498cec621eaef68a0edf793b525446b8e7a3db5074570f.jpg)  
+弱信息先验分布： $\sigma ^ { 2 } { = } 1 . 5 { ^ { * } } 5 0 \%$   
+图3不同偏差程度及信息强度的先验分布设置(以 $b _ { \theta I }$ 为例)
+
+综上，本研究包括 $3 ^ { * } 4 ^ { * } 3 ^ { * } 1 7 { = } 6 1 2$ 种模拟条件的组合。为了减少模型估计过程中的偶然性因素带来的偏差，本研究在每个条件下均生成100个重复样本进行估计。
+
+# 3.2结果评估指标
+
+为了对不同估计方法的参数估计表现进行评估，本文将首先对各条件下的收敛率进行检查，再根据达到收敛的结果，对5个方面指标进行整理、对比和分析。结果评估的指标包括系数估计的相对偏差(Relative Bias)、标准误比例、均方误差(Mean Square Error)、 $9 5 \%$ 置信区间(Confidence Interval)或可信区间(Credible Interval)覆盖率( $9 5 \%$ CI 覆盖率)和检验力(Power)。
+
+# 3.3结果
+
+多层线性模型较为简单，因此在本研究考虑的情况中，模型均能得到收敛。本文只针对回归系数进行不同先验分布的设置，因此同样只对回归系数的结果进行评估和分析。为了探究不同结果指标受到不同因素的影响程度及其交互作用，本文还对每个重复样本中各回归系数的结果评估指标进行方差分析(其中，考虑到各参数相对偏差可能出现正负抵消的情况，在方差分析中对相对偏差取绝对值后再进行分析)。如表1所示，总体来说，各结果评估指标在不同程度上受到ICC、水平1及水平2样本量、先验分布的方差大小、均值偏移真值的程度的影响，且不同因素之间可能相互影响。
+
+在cRCT中，研究者往往更关注水平2的自变量 $W _ { \mathrm { l j } }$ 对因变量的影响 $b _ { 0 1 }$ 。因此，为了使得结果的呈现和分析更清晰，以下结果均将以 $b _ { 0 1 }$ 为例，分别对其参数估计偏差、标准误比例等评估指标进行分析。
+
+# 相对偏差
+
+相对偏差指模型达到收敛的次数中，模型参数估计得到的均值相对于参数的真值的偏差，其计算公式为Relative $B i a s = ( \hat { \Theta } - \Theta ) / \Theta$ 。其中， $\widehat { \Theta }$ 表示模型达到收敛的次数中，参数的平均估计值；0表示对应的参数真值。相对偏差在 $\pm 1 0 \%$ 以内是可以接受的，可以视为无偏的估计(Flora & Curran, 2004)。
+
+总体来说，各参数估计的相对偏差变化呈现的规律大体一致。以 $b _ { 0 1 }$ 估计的相对偏差结果为例(图4)，ML 和无信息先验的贝叶斯估计表现较为接近，均不容易受到不同ICC 水平的影响。对于有信息先验的贝叶斯方法，其参数估计的偏差会受到水平2样本量、先验分布的方差大小以及其均值偏移真值的程度的共同影响，而水平1样本量的对相对偏差的影响并不明显。一般来说，随着水平2样本量和先验分布方差的增大，先验分布均值对真值的偏移程度对相对偏差的影响也逐渐减小。对于cRCT研究中最受关注的实验干预对因变量产生的效应 $( b _ { 0 1 } )$ ，其先验设置中的错误信息对相对偏差的负面影响会随着ICC 的减小而逐渐减小。但ICC 的这种影响趋势在其他回归系数中并不明显。
+
+# 标准误比例
+
+标准误比例是模型达到收敛的次数中，标准误估计的平均值(Standard Error,SE)和 SD 的比例。标准误估计越准确，二者的比例应越趋近于1。一般来说，标准误比例应介于0.9 和1.1 之间(Cham et al., 2012)。
+
+$b _ { 0 1 }$ 标准误比例的结果如图5所示。总体来看，有信息先验的贝叶斯估计往往高估标准误比例的大小，且远远超过可以被接受的范围。随着先验分布方差的增大，先验信息的强度逐渐减弱，标准误比例也逐渐减小并向1靠拢。水平2样本量的增大也能较大程度地减小有
+
+信息先验的贝叶斯估计中标准误比例的大小。当先验分布均值偏移参数本身真值的程度较大时，其标准误比例往往高于同等条件下正确先验信息的情况。随着ICC 的减小，错误先验信息对标准误比例的影响也逐渐减小。
+
+# 均方误差
+
+均方误差是模型达到收敛的次数中，参数估计的误差的均值。其计算公式为Mean Square Error $\mathrm { = \sum ( \hat { \theta } _ { i } - \theta _ { i } ) ^ { 2 } / }$ 收敛次数。其中， $\widehat { \mathsf { \theta } } _ { \mathrm { i } }$ 表示模型达到收敛时，第i个重复样本得到的参数估计值； $\theta _ { \mathrm { i } }$ 表示对应的参数真值。均方误差越小，参数估计越准确。
+
+如图6所示，在小样本的情况下，ML和无信息先验的贝叶斯估计更倾向于得到的较大的均方误差。正确先验信息的贝叶斯估计在均方误差方面表现最优，而错误先验信息会大大增加贝叶斯方法对参数估计的均方误差。随着ICC 的减小以及水平1、水平2样本量的增大，先验分布均值偏移真值的程度对均方误差影响也逐渐减小。相比水平2样本量的大小，水平1样本量对于均方误差的影响较弱。随着水平2样本量的增大，ICC 的增大对于错误先验信息负面影响的增强作用也逐渐减小。另外，先验分布的方差越大，错误先验信息对均方误差带来的负面影响也越弱。
+
+# 覆盖率
+
+在模型收敛的重复样本中，参数真值落在 $9 5 \%$ 置信区间或可信区间的概率即为 $9 5 \%$ CI覆盖率。简单来说，频率学派下通过计算得到的置信区间需要依赖渐进理论的前提假设，而贝叶斯学派下的可信区间直接根据参数后验分布的百分位值得到，因此不需要假设参数渐进服从某一分布。若区间估计准确， $9 5 \%$ 区间覆盖率应接近0.95。一般来说， $9 5 \%$ CI覆盖率大于 0.9 是可以被接受的(Collins et al.,2001)。
+
+如图7所示，总体来说，随着水平2样本量的增大，参数估计的 $9 5 \%$ CI 覆盖率逐渐增大，但水平1样本量的增大对于 $9 5 \%$ CI 覆盖率的影响并不明显。对于有信息先验的贝叶斯估计，一般来说，先验分布均值偏离真值的程度越大， $9 5 \%$ CI 覆盖率越低。当先验分布的均值偏离参数真值的程度不超过1个标准差时，参数估计的 $9 5 \%$ CI 覆盖率均处于可以被接受的范围(大于 $90 \%$ );而先验分布的均值偏离参数真值的程度较大时(偏离真值3个标准差)，参数估计的 $9 5 \%$ CI 覆盖率会受到较大程度的影响。随着ICC 的减小以及水平2样本量的增大，错误先验信息对 $9 5 \%$ CI 覆盖率的负面影响逐渐减小；然而，ICC 的这种影响趋势在其他回归系数中并不明显。
+
+# 检验力
+
+检验力指零假设为假的情况下，假设检验成功地拒绝零假设的概率。即当参数的真值不为0的情况下，在模型达到收敛的次数中，该参数估计得到的 $9 5 \%$ 置信区间(ConfidenceInterval)或可信区间(Credible Interval)不包括0的比例。检验力大于0.8一般是可以被接受的(Cohen,1988; Muthén & Muthén,2002)。
+
+如图8所示，当样本量较小、ICC较大时，ML和无信息先验的贝叶斯估计对参数的检验力较低。而对于提供正确先验信息的贝叶斯估计，即使在样本量较小的情况下，其参数估计的检验力仍处于可以被接受的范围(检验力高于 0.8)。低估参数效应的错误先验信息往往降低参数估计的检验力，高估参数效应的错误先验信息对应的检验力也较高，但同时可能导致较高的一类错误率。随着水平2样本量的增大以及ICC 的减小，错误先验信息对检验力的影响也逐渐减小。
+
+# 小结
+
+总的来看，对贝叶斯估计设置正确的有信息先验时，其各项评估指标的表现最优，特别是参数估计的偏差方面。无信息先验的贝叶斯估计和 ML 方法在参数估计上的表现呈现出较为相似的规律，其在均方误差和检验力方面表现不佳，特别是在样本量较小、ICC 较大的情况下。而先验分布均值对参数真值存在偏离时，较大的ICC 和较小的水平2样本量均会增大错误先验信息对参数估计带来的负面影响。先验分布的信息强度越强，其错误先验信息对参数估计的影响也越大。
+
+表1方差分析partial $\boldsymbol { \mathfrak { \eta } } ^ { 2 }$ 结果  
+
+<html><body><table><tr><td rowspan="2">效应</td><td colspan="3">估计偏差</td><td colspan="3">标准误比例</td><td colspan="3">均方误差</td><td colspan="3">95%CI覆盖率</td><td colspan="3">检验力</td></tr><tr><td>ML</td><td>BD</td><td>INF</td><td>ML</td><td>BD</td><td>INF</td><td>ML</td><td>BD</td><td>INF</td><td>ML</td><td>BD</td><td>INF</td><td>ML</td><td>BD</td><td>INF</td></tr><tr><td>ICC</td><td>0.004</td><td>0.005</td><td>0.001</td><td>0.016</td><td>0.022</td><td>0.024</td><td>0.014</td><td>0.013</td><td>0.135</td><td>0.002</td><td>0.001</td><td>0.008</td><td>0.000</td><td>0.007</td><td>0.001</td></tr><tr><td>L2</td><td>0.092</td><td>0.093</td><td>0.127</td><td>0.028</td><td>0.152</td><td>0.925</td><td>0.160</td><td>0.159</td><td>0.153</td><td>0.004</td><td>0.002</td><td>0.036</td><td>0.124</td><td>0.284</td><td>0.067</td></tr><tr><td>L1</td><td>0.036</td><td>0.037</td><td>0.020</td><td>0.007</td><td>0.010</td><td>0.690</td><td>0.064</td><td>0.064</td><td>0.014</td><td>0.001</td><td>0.002</td><td>0.004</td><td>0.065</td><td>0.085</td><td>0.019</td></tr><tr><td>mag</td><td></td><td></td><td>0.891</td><td></td><td></td><td>0.496</td><td></td><td></td><td>0.540</td><td></td><td></td><td>0.765</td><td></td><td></td><td>0.205</td></tr><tr><td>strength</td><td></td><td></td><td>0.386</td><td></td><td></td><td>0.956</td><td></td><td></td><td>0.058</td><td></td><td></td><td>0.077</td><td></td><td></td><td>0.108</td></tr><tr><td>ICC * L2</td><td>0.001</td><td>0.001</td><td>0.000</td><td>0.015</td><td>0.019</td><td>0.103</td><td>0.002</td><td>0.002</td><td>0.015</td><td>0.002</td><td>0.001</td><td>0.000</td><td>0.006</td><td>0.010</td><td>0.002</td></tr><tr><td>ICC * L1</td><td>0.001</td><td>0.001</td><td>0.000</td><td>0.009</td><td>0.011</td><td>0.136</td><td>0.001</td><td>0.001</td><td>0.001</td><td>0.002</td><td>0.001</td><td>0.000</td><td>0.001</td><td>0.002</td><td>0.000</td></tr><tr><td> ICC * mag</td><td></td><td></td><td>0.000</td><td></td><td></td><td>0.002</td><td></td><td></td><td>0.169</td><td></td><td></td><td>0.016</td><td></td><td></td><td>0.006</td></tr><tr><td> ICC * strength</td><td></td><td>-</td><td>0.000</td><td></td><td></td><td>0.000</td><td></td><td></td><td>0.008</td><td></td><td></td><td>0.001</td><td></td><td></td><td>0.000</td></tr><tr><td>L2 * L1</td><td>0.001</td><td>0.001</td><td>0.000</td><td>0.027</td><td>0.042</td><td>0.462</td><td>0.007</td><td>0.007</td><td>0.001</td><td>0.001</td><td>0.002</td><td>0.000</td><td>0.003</td><td>0.004</td><td>0.001</td></tr><tr><td>L2 * mag</td><td></td><td></td><td>0.167</td><td></td><td></td><td>0.256</td><td></td><td></td><td>0.185</td><td></td><td></td><td>0.095</td><td></td><td></td><td>0.001</td></tr><tr><td>L2 * strength</td><td></td><td></td><td>0.013</td><td></td><td></td><td>0.471</td><td></td><td></td><td>0.010</td><td></td><td></td><td>0.002</td><td></td><td></td><td>0.006</td></tr><tr><td>L1 * mag</td><td></td><td></td><td>0.024</td><td></td><td></td><td>0.007</td><td></td><td></td><td>0.010</td><td></td><td></td><td>0.008</td><td></td><td></td><td>0.000</td></tr><tr><td>L1 * strength</td><td></td><td></td><td>0.001</td><td></td><td></td><td>0.187</td><td></td><td></td><td>0.001</td><td></td><td></td><td>0.000</td><td></td><td></td><td>0.002</td></tr><tr><td>mag * strength</td><td></td><td>-</td><td>0.070</td><td></td><td></td><td>0.083</td><td></td><td></td><td>0.001</td><td></td><td></td><td>0.209</td><td></td><td></td><td>0.013</td></tr><tr><td>ICC * L2 * L1</td><td>0.002</td><td>0.002</td><td>0.000</td><td>0.031</td><td>0.030</td><td>0.098</td><td>0.002</td><td>0.002</td><td>0.000</td><td>0.002</td><td>0.004</td><td>0.001</td><td>0.004</td><td>0.004</td><td>0.001</td></tr><tr><td>ICC * L2 * mag</td><td></td><td></td><td>0.000</td><td></td><td></td><td>0.007</td><td></td><td></td><td>0.027</td><td></td><td></td><td>0.001</td><td></td><td></td><td>0.001</td></tr><tr><td>ICC * L2 * strength</td><td></td><td></td><td>0.000</td><td></td><td></td><td>0.011</td><td></td><td></td><td>0.007</td><td></td><td></td><td>0.000</td><td></td><td></td><td>0.001</td></tr><tr><td> ICC * L1 * mag</td><td></td><td></td><td>0.001</td><td></td><td></td><td>0.005</td><td></td><td></td><td>0.001</td><td></td><td></td><td>0.000</td><td></td><td></td><td>0.000</td></tr><tr><td> ICC * L1 * strength</td><td></td><td></td><td>0.000</td><td></td><td></td><td>0.011</td><td></td><td></td><td>0.000</td><td></td><td></td><td>0.000</td><td></td><td></td><td>0.000</td></tr><tr><td> ICC * mag * strength</td><td></td><td></td><td>0.000</td><td></td><td></td><td>0.000</td><td></td><td></td><td>0.006</td><td></td><td></td><td>0.002</td><td></td><td></td><td>0.000</td></tr><tr><td>L2 * L1 * mag</td><td></td><td></td><td>0.001</td><td></td><td></td><td>0.007</td><td></td><td></td><td>0.004</td><td></td><td></td><td>0.001</td><td></td><td></td><td>0.001</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="2">效应</td><td colspan="3">估计偏差</td><td colspan="3">标准误比例</td><td colspan="3">均方误差</td><td colspan="3">95%CI覆盖率</td><td colspan="3">检验力</td></tr><tr><td>ML</td><td>BD</td><td>INF</td><td>ML</td><td>BD</td><td>INF</td><td>ML</td><td>BD</td><td>INF</td><td>ML</td><td>BD</td><td>INF</td><td>ML</td><td>BD</td><td>INF</td></tr><tr><td>L2 * L1 * strength</td><td></td><td></td><td>0.000</td><td></td><td>-</td><td>0.024</td><td></td><td></td><td>0.000</td><td></td><td></td><td>0.000</td><td></td><td></td><td>0.000</td></tr><tr><td>L2 * mag * strength</td><td></td><td></td><td>0.014</td><td></td><td></td><td>0.027</td><td></td><td></td><td>0.005</td><td></td><td></td><td>0.002</td><td></td><td></td><td>0.007</td></tr><tr><td> L1 * mag * strength</td><td>-</td><td></td><td>0.001</td><td></td><td></td><td>0.001</td><td></td><td>-</td><td>0.000</td><td></td><td></td><td>0.001</td><td></td><td></td><td>0.001</td></tr><tr><td> ICC * L2 * L1 * mag</td><td>，</td><td></td><td>0.000</td><td></td><td></td><td>0.010</td><td></td><td>-</td><td>0.000</td><td></td><td></td><td>0.000</td><td></td><td></td><td>0.000</td></tr><tr><td>ICC * L2 * L1 * strength</td><td></td><td></td><td>0.000</td><td></td><td></td><td>0.009</td><td></td><td>-</td><td>0.000</td><td></td><td></td><td>0.000</td><td></td><td></td><td>0.000</td></tr><tr><td>ICC * L2 * mag * strength</td><td></td><td></td><td>0.000</td><td></td><td></td><td>0.001</td><td></td><td>-</td><td>0.011</td><td></td><td></td><td>0.001</td><td></td><td></td><td>0.000</td></tr><tr><td>ICC * L1 * mag * strength</td><td></td><td></td><td>0.000</td><td></td><td>-</td><td>0.001</td><td></td><td></td><td>0.000</td><td></td><td>，</td><td>0.000</td><td></td><td></td><td>0.000</td></tr><tr><td>L2 * L1 * mag * strength</td><td></td><td></td><td>0.000</td><td></td><td></td><td>0.001</td><td></td><td></td><td>0.000</td><td>-</td><td></td><td>0.000</td><td></td><td>-</td><td>0.000</td></tr><tr><td>ICC * L2 * L1 * mag * strength</td><td>-</td><td>-</td><td>0.000</td><td></td><td>-</td><td>0.001</td><td>-</td><td></td><td>0.000</td><td>-</td><td></td><td>0.000</td><td></td><td></td><td>0.000</td></tr></table></body></html>
+
+注： $\textcircled{1} \mathrm { M L }$ 为极大似然估计；BD 为无信息先验的贝叶斯估计；INF 为有信息先验的贝叶斯估计。 $\textcircled { 2 } \mathrm { I C C }$ 为组内相关系数；L1和L2 分别表示水平1和水平2样本量；mag 表示先验分布均值偏移真值的程度；strengt表示先验分布的方差大小。 $\textcircled{3}$ 加粗表示中等程度以上的效应量，即 partial $\boldsymbol { \mathfrak { \eta } } ^ { 2 }$ 大于0.06。
+
+![](images/44f98cd21f729e46015f4eba7cd3420ef945a1c5be259924a32673e5d3c529fe.jpg)  
+图4相对偏差结果示例
+
+注： $\textcircled { 1 } \mathrm { R B }$ 为相对偏差；BD为无信息先验的贝叶斯估计；L3为先验分布均值向左偏离真值3个标准差；L1向左偏离真值1个标准差；C表示提供正确先验信息；RI向右偏离真值1个标准差；R3向右偏离真值3个标准差。W表示先验信息分布的方差较大(真值的 $5 0 \%$ ，M表示先验信息分布的方差中等(真值的 $20 \%$ ，S 表示先验信息分布的方差较小(真值的 $1 0 \%$ 。 $\textcircled{2}$ 图中绿色虚线表示相对偏差恰好为0的参照；上下两条红色点划线对应的纵坐标分别为-10 和10，表示可接受的相对偏差的范围。
+
+![](images/daedaecd9f9fd404b07814fb2c88fb31ba729c09979ee09923c826c398217cb4.jpg)  
+图5标准误比例结果示例
+
+注： $\mathrm { \textcircled { 1 } S E } \_ { \mathrm { S D } }$ 为标准误比例；BD为无信息先验的贝叶斯估计；L3为先验分布均值向左偏离真值3个标准差；L1向左偏离真值1个标准差；C表示提供正确先验信息；R1向右偏离真值1个标准差；R3向右偏离真值3个标准差。W表示先验信息分布的方差较大(真值的 $50 \%$ )，M表示先验信息分布的方差中等(真值的 $20 \%$ )，S 表示先验信息分布的方差较小(真值的 $10 \%$ 加 $\textcircled{2}$ 图中绿色虚线表示标准误比例恰好为1的参照；上下两条红色点划线对应的纵坐标分别为0.9 和1.1，表示可接受的标准误比例的范围。
+
+图6均方误差结果示例  
+![](images/48431789e6b568417e244ab234bf9fde5dd6ddf0020539af98291fcc509c561e.jpg)  
+注：MSE为均方误差；BD为无信息先验的贝叶斯估计；L3为先验分布均值向左偏离真值3个标准差；L1向左偏离真值1个标准差；C表示提供正确先验信息；R1向右偏离真值1个标准差；R3向右偏离真值3个标准差。W表示先验信息分布的方差较大(真值的 $50 \%$ )，M 表示先验信息分布的方差中等(真值的 $20 \%$ )，S 表示先验信息分布的方差较小(真值的 $10 \%$ ）
+
+![](images/86b774dd2c65b359a098e5dab6b282af245308c6b60977411bffc31c5c35ed3f.jpg)  
+图 $7 9 5 \%$ CI 覆盖率结果示例
+
+注： $\textcircled{1} \mathrm { { B D } }$ 为无信息先验的贝叶斯估计；L3为先验分布均值向左偏离真值3个标准差；L1向左偏离真值1个标准差；C表示提供正确先验信息；R1向右偏离真值1个标准差；R3向右偏离真值3个标准差。W表示先验信息分布的方差较大(真值的 $50 \%$ ，M表示先验信息分布的方差中等(真值的 $20 \%$ ，S表示先验信息分布的方差较小(真值的 $10 \%$ 。 $\textcircled{2}$ 图中绿色虚线表示 $9 5 \% C \mathrm { I }$ 覆盖率为0.95的参照；红色点划线对应的纵坐标为0.9，表示可接受的 $9 5 \% C \mathrm { I }$ 覆盖率的最小值。
+
+图8检验力结果示例  
+![](images/287565b3a25a36b6f26f7b9c5852121bfbd345db72a6da9b61ff594369b4f83e.jpg)  
+注：BD 为无信息先验的贝叶斯估计；L3为先验分布均值向左偏离真值3个标准差；L1向左偏离真值1个标准差； 1向左偏离真值1个标准差；C表示提供正确先验信息；R1向右偏离真 表示提供正确先验信息；R1向右偏离真值1个标准差；R3向右偏离真值3个标准差。W表示先验信息分布的方差较大(真值的 $50 \%$ ，M表示先验信息分布的方差中等(真值的 $20 \%$ ，S表示先验信息分布的方差较小(真值的 $10 \%$ 加 $\textcircled{2}$ 红色点划线对应的纵坐标为0.8，表示可接受的检验力的最小值。
+
+# 4讨论
+
+在许多心理学实验(如cRCT)中，由于数据中可能存在的嵌套结构，研究者常常需要建立多层模型。而多层模型往往会面临样本量不足的问题，从而为研究者的数据分析造成较大的阻碍。贝叶斯估计能结合一定的先验信息，使得参数的估计更加精准，但先验分布设置的主观性可能导致错误先验信息的出现。本文基于多层模型，对不同样本量和组内相关系数条件下，错误先验信息对贝叶斯估计的影响进行研究，并给出相应的 Mplus 代码，为贝叶斯估计中先验分布的设置提出一定的建议和指导。当ICC 较大、水平1及水平2样本量较小时，错误先验信息对参数估计带来较大的偏差。先验分布的信息强度越强，其错误先验信息对参数估计的影响也越大。因此，在样本量较小以及ICC 较大的情况下，需要更加警惕错误先验信息带来的影响，更谨慎对待先验分布的设置。
+
+在模拟研究中，水平1及水平2样本量越大，错误先验信息对参数估计带来的风险也越低，这与 Holtmann 等人(2016)的结果相一致。贝叶斯方法认为未知参数是随机变量，可以利用先验信息和似然函数得到的后验分布来反映参数在不同取值上的可能性。样本量较小时，先验分布对后验分布存在较大的影响，但随着样本量的增大，先验分布的影响逐渐减弱，后验分布的形态逼近似然函数(Lynch,2007)。因此，当样本量较小时，先验分布的错误设置往往会带来更严重的后果，需要更加谨慎。
+
+对于cRCT研究中一般最受关注的效应 $b _ { 0 1 }$ ，ICC 较大时，错误先验信息对参数估计带来的负面影响较大。这与前人研究是一致的，即在多层模型中，随着ICC的增大，对于水平2效应的估计偏差随之增大，检验力随之减小(Cao et al.,2019; Finch&French,2011)。然而需要注意的是，对于模型中的其他回归系数，ICC 对其估计偏差及检验力等方面的影响可能呈现出不一致的规律。这与Cao 等人(2019)的研究结果同样是一致的，即对于纯粹的组内水平的效应，以及组间和组内变量的交互效应,ICC 对于其参数估计、检验力等方面的影响均没有达到显著。未来还需要通过进一步研究来更深入地探讨在多层模型中，不同水平的效应在不同ICC 水平下的表现，以及错误先验信息对其参数估计的影响。
+
+从不同先验分布设置的贝叶斯估计结果可以看出，先验分布的方差较大时，其错误信息带来的影响较弱。即使先验信息的设置对真实值产生一定的偏离，这种偏离带来的负面影响可以得到较好的抑制，而且随着样本量的增大，抑制的作用更明显。但当先验分布的方差较小时，即使较大的样本量也难以使得其错误先验信息的影响得到降低。因此，对参数设置方差相对较大的先验分布是更加保险的。
+
+标准误比例方面的表现与前人研究也大致一致。随着先验分布方差的减小，标准误比例逐渐增大。这表明有信息先验的贝叶斯方法的后验分布标准差(Posterior SDs)倾向于高估参数估计实际的标准差(Empirical SDs)。但这也可能是因为随着先验分布方差的减小，参数估计的标准差也逐渐减小，从而导致标准误比例的增大(Holtmann et al.,2016)。特别是在设有错误先验信息的情况下，贝叶斯估计更倾向于高估标准误。因此，在贝叶斯估计中，研究者往往需要通过可信区间来判断参数的显著性。
+
+# 5局限性与展望
+
+由于模拟研究无法穷尽所有的条件组合，本研究主要关注在cRCT的研究中最常见的样本量范围。然而，在实际研究中，可能出现其他样本量组合的情况。而且，本研究只考虑了不同群组内部样本量相等的情况，但实际研究中不同群组内的样本量往往很难达到平衡。未来可以进一步研究这种样本量不平衡的情况下，错误先验信息是否会带来更大的负面影响。另外，本研究在水平1样本量的设置上跨度较大，未来研究中可以在样本量方面进行更加精细的设置。
+
+为了简化模拟研究的条件，本文假设因变量服从连续正态分布。然而，在实证研究中，这一假设常常会被违背。例如，由于研究者主观上有意或无意的选择倾向，或者由于天花板效应、地板效应的存在，变量数据很可能存在一定程度的偏态(Fleishman,1978)。另外，在cRCT 中，可能出现结果变量为分类变量，特别是二分的变量的情况(Legare etal.,2015)。因此，未来研究可以进一步探讨因变量为不同数据类型的情况下，错误先验信息可能带来的影响。
+
+另外，考虑到cRCT 研究中一般最受关注的是实验干预对因变量产生的效应 $b _ { 0 1 }$ ，本文主要关注的也是 $b _ { 0 1 }$ 受到不同数据条件及因素的影响。然而，对于模型中的其他回归系数，ICC 对其估计偏差及检验力等方面的影响可能呈现出不一致的规律，未来需要对多层模型中不同水平效应参数受到的来自错误先验信息的影响进行更深入的探究。
+
+# 6研究结论
+
+本文聚焦于多层线性模型中不同信息强度和偏差程度的先验信息对贝叶斯估计的影响，通过进行一系列蒙特卡洛模拟，讨论了cRCT背景下的多层线性模型中不同样本量、ICC 和数据类型下错误先验信息对参数估计带来的影响，希望为贝叶斯估计中先验分布的设置提供一定的理论补充及实证参考。本文得出的结论如下：
+
+(1)在小样本的多层模型中，ML 和无信息先验的贝叶斯估计可能导致有偏的组间参数估计，因此在样本量较小的情况下建议尽可能对贝叶斯方法设定一定的先验信息。
+
+(2)严重错误的先验分布可能对贝叶斯参数估计带来毁灭性的结果，从而为实证研究带来一定的风险。在先验分布均值偏离真值程度较小(不超过1个标准差)的情况下，贝叶斯估计的总体表现大体可以被接受。
+
+(3)当水平2样本量及先验分布方差较小时，错误先验信息的设置会对参数估计带来较大的偏差。对于cRCT 研究中一般最受关注的干预效应 $b _ { 0 1 }$ ，ICC 的增大也会较大程度上增大错误先验信息的负面影响。因此，在这些情况下需要更加警惕错误先验信息带来的风险。
+
+(4)在现有先验信息不足、错误先验信息风险较大的情况下，实证研究者可以通过尽可能增大群组样本量，并适当增加先验分布的方差来降低错误先验信息可能带来的影响。
+
+#
+
+今兮乂酬   
+Asparouhov,T,t,.)eslisftbleodelsingus(hcalposio4)o http://www.statmodel.com/download/BayesAdvantages18.pdf   
+Aryee,S.,Walumbwa,FO.eid,E.Y.,&Otaye,L.E.(l2).mpactofg-pefomanceworksstemsonindividualda levelperformance:Testofamultilevel modelof intermediate linkages.JournalofAppliedPsychology,97,287-300.   
+Campbell,M.J.(2019). Cluster randomised trials.Medical Journal of Australia,210(4).   
+Campbell,M.J.,&Wars,S.J.(14).HowtoDesignAnalyendReportCusterRandomisedTrialsinMedicinendHalthelated Research. Wiley.   
+Cao,C.Ki,E.,YoJ,tark,.9).Elortoaeeratoue Models.Educational and Psychological Measurement,79(3),512-544.   
+Cham,H.West.Gan,L.)aigltetbleteactioolseedta:sof four approaches. Multivariate Behavioral Research,47(6),840-876.   
+Cohen,John.(1988).Statistical Power Analysis of the Behavioral Sciences ( $2 _ { \mathrm { n d } }$ Editor). Hillside,N.J.: Eribaum.   
+Collins,L.e,C).sodesie Psychological Methods,6(4),330-351.   
+Cohen,J.(19)atistcalpowealysisforeavioalsiences (dd).Hlale,:weceEbsotesnc.   
+Corfield,J.(978).Smpoohdpreetiotrials:dsinisusintiglifestyleitervetioadotiobyopfol analysis.American Journal of Epidemiology，108(2).   
+Depaoli,S.(214).TheImpactofIaccurate“nformative”PriorsforGrowthParameters inBayesian GowthMixtureModelingtructural Equation Modeling:A Multidisciplinary Journal,21(2),239-252.   
+Depaoli,S.,&Clifton,J.P.(O15).AByesianAproachtoultilevelructuralEquationodelingWithContinuousndDicotoous Outcomes.Structural Equation Modeling:A Multidisciplinary Journal,22(3),327-351.   
+Depaoli,S.,&hotR.).progtrasparelcatioiyststis:elistcl Methods,22(2).   
+Enders,CK,ftegbsoaeels:l Methods,12,121-138.   
+Fang,J,Wen,ZL,&HauK.T.(9).ediationEfctsI--utilevelodel:EvaluatnOfeativestiatiotods. Structural Equation Modeling-a Multidisciplinary Journal,26(4),591-606.   
+Finch,W.H,ch.(l1).tiatiooodelparaetersihulieeldataructualatioodeling 252.   
+Finch,W.H,ilrJE.9).UseoctIfoaiersinmaCdelaetersiallle Sizes.Structural Equation Modeling-a Multidisciplinary Journal,26(4),497-508.   
+Fleishman,A.(1978).Amethod for simulating non-normal distributions.Psychometrika,43(4),51-532.   
+Flora,D.B,&Jo).paleaeatiosttifotocasial data.Psychological methods,9(4),466.   
+Ha,A.S.,Losde,C,NgJYY,&bs,D.().hoobedoeipngprgadolents:sultsod trial.Preventive Medicine,10l,188-194.   
+Heck,R.H.&mas,S.L.015).AntroductiontultlevelodelingTqes:MndSEApprochsUsingMpluoutldge.   
+Holtmann,J.,Koch,T,cherK,&Eid,.(16).Comparisonof,VdBayesianMetosforulileveltrctural Equation Models in SmallSamples: A Simulation Study.Multivariate Behavioral Research,51(5),661-680.   
+Hox,J.J.,&aa,C.J.(o).eaccuracofultilevestructuralequationmodeligithpsedobalancedgroupsndaples. StructuralEquationodeling:Aultidisciplinaryoural,8(2),4.   
+Hox,J.JMas,C.J.&s,...).eectofaetddpleizeiltiectutio modeling.Statistica Neerlandica,64,157-170.   
+Hox,JJ,ebek,,&ndetR(7).ulteeis:qdlcao,:otdg   
+Hox,J.Jvanot,ats,.l).Hoousilldooparatiealsisoyseie Survey Research Methods,6(2),87-93.   
+Kadane,J.B.(2015).Bayesian methods for prevention research.Prevention Science,16,1017-1025.   
+Koch,T,le,sJbrts,.,d,5)ulieual Journal ofEducational and Behavioral Statistics,40(5),477-510.   
+Lee,S.-Y,&Song,X-Y.(o).EvauationoftheBayesianandmaximumlikelioodproachsinanalyzingstructuralequatioodels with small sample sizes.Multivariate Behavioral Research,39(4),653-686.   
+Legare,F.,Briere,acey,urass,HsrochesS.mont,S..oy.().provgDecisiaingOatiof CarewiththefrailElderlyandtheircaregivers(theOCEstudy):studyprotocolforacusterrandomizedcontroledtrial.Trials,6.   
+Levy,R,&ChoJ.).ByesiatrcturalquationmodelingIG.Hacock&Ouele(ds.)tructualqatiodeling A second course (2nd ed.,pp.563-623). Charlotte,NC: Information Age.   
+Lüdtke,O.,Marsh,H.W.,Robitzsch,A.,&Trautwein,U.(2011).A $\phantom { + } 2 \times 2$ taxonomy ofmultilevel latent contextual models: Accuracy-bias trade offs in fulland partial error correction models.Psychological Methods,16,444-467.   
+Lynch,S.M.(o).rouctiontedByeiastatisticsndtimationforocialienistsNewYork,:ge   
+McNeish,D.(16).OnUsingBayesianMethodstoddressSmallSmpleProblems.StructuralEquationModeling:AMultidisciplinay Journal,23(5),750.   
+McNeish,D.,&Stapleton,L..(O6).odelingusteredatawiteryfwusters.MultivariateehavioalResearch.Adaee publication.   
+Muthen,B.(2010).BayesiananalysisinMplus:Abrief introduction (Incompletedraft，Version1).Retrievedfrom https://dfs.semanticscholar.org/a941/cb99e52a8eafad701d4b0391347232779f9.pdf?_ga=2.137417013.467066868.1585970- 884182655.1568515547   
+Muthen,B.，&Asparouhov,T.(2012).Bayesianstructuralquationmodeling:Amoreflexiblerepresentationofsubstantivetheory. Psychological Methods,17(3),313-335.   
+Muthen,L.K.,&Muthen,B.O.(1998-2017).Mplus User’s Guide (EighthEdition).Los Angeles,CA: Muthen&Muthen   
+Muthen,L.K.,& Muthen,B.O. (o).Howtouseamontecarlostudytodecideonsmplesizeand determiepower.tructualEquation Modeling,9,599-620.   
+Newton,.K.EE.Li,e.)Ub theClimateandPreventure (CAP)study:custerrandomisedcontrolldtrial.SubstanceAbuseTreatmentPreventionandPolicy3.   
+Preacher,K.J,J)aioioetae SEM. Structural Equation Modeling,18,161-182.   
+Ruterford,Clare,Copas,Andrew,&Eldridge,andra.(015).etodsforsamplesizedeterminationinclusterrandomzedtrl. InternationalJournalofEpidemiology,44(3),051-1067.   
+Ribeiro,D.C,osaeic,.,botH.)mplezeimaifousterdozedcotroledralsuuloeletal Science and Practice,34,108-111.   
+Ryu,E.(015).TholeofCenteingforIteractioofLevelVrablesinultilevelStructuralEquationodelstructuralution Modeling-a Multidisciplinary Journal,22(4),617-630.   
+Schoeneberger,J.A.(2O15).Theimpactofsamplesizeandtherfactorswhenestimatingmultilevellogisticmodels.TheJournalof Experimental Education,84(3).   
+Shen,Y.WanoZu,ag,X,un.).eesordercageodi basedhealtheducatiotomprovehypertensivepatnts'medicatioderence:austerdandomiedontrolldtrial.PatientPreference and Adherence,13,1083-1092.   
+Shi,D.,&Tong,X.(2017).The impactofprior informationonBayesianlatentbasis growth model stimation.SAGEOpen,7,-14.   
+Sutton,C.JWatkis.&y.).stratigprobfcedyesh:ieofusteraddole trials.International Journal of Stroke,8(7),566-574.   
+VanBreukelenGJP&Cadel,.J.(1).Calclatigsaplesesforustedoedrals:wecanpitiplet JournalofClinical Epidemiology, 65(11),1211_2218.   
+vandeSo)eco Applications to developmental research.Child Development,85,842-860.   
+vanderPuttnGJJatCeL.beOs)s supervisedimplementationofanoralhealthcaregdelinincareomes;asingle-blindedcusterrandomizedcontrolledtrial.Clinical Oral Investigations,17(4),1143-1153.
+
+# 附录：贝叶斯多层模型 Mplus 语句
+
+TITLE: This is an example of Bayesian Multilevel Modeling
+
+DATA:FILE $\ c =$ data ef-nor-0.05-20-30_1.dat;
+
+VARIABLE:   
+NAMES $\mathbf { \Sigma } =$ GroupID MemID wlj x1 x2 x3 Y; USEVAR $\mathbf { \Sigma } = \mathbf { \Sigma }$ GroupID w1j x1 x2 x3 Y;   
+CLUSTER $\mathbf { \Sigma } = \mathbf { \Sigma }$ GroupID;   
+WITHIN $= \mathbf { x } 1 \mathbf { x } 2 \mathbf { x } 3$   
+BETWEEN $\ l =$ wlj;   
+ANALYSIS: TYPEISTWOLEVELRANDOM; ESTIMATOR $\ O =$ BAYES; PROCESSORS = 2;   
+BITERATIONS $\ c =$ 70000 (2000); MODEL:   
+$\% \mathrm { W I T H I N \% }$ Y；   
+b1j|Y ON x1; b2j |Y ON x2; b3j |Y ON x3; %BETWEEN% Y b1j b2j b3j;   
+[Y];   
+[b1j] (b10);   
+[b2j] (b20);   
+[b3j] (b30);   
+Y ON wlj (b01);   
+blj ON wlj (b11);   
+b2j ON wlj (b21);   
+b3j ON wlj (b31);   
+Y;   
+b1j-b3j; MODELPRIORS: b01\~N(1.5,0.75);   
+b11\~N(0.12,0.06);   
+b21\~N(-0.05,0.025);   
+b31\~N(-0.75,0.375); b10\~N(2.3,1.15);   
+b20\~N(-0.25,0.125);   
+b30\~N(-0.75,0.375);
+
+OUTPUT: TECH1 TECH8 CINT;

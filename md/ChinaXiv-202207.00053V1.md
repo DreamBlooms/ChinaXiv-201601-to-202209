@@ -1,0 +1,243 @@
+# 社区女性乳腺癌防治行为的潜在类别分析及其影响因素
+
+马佳慧’，刘国莲1\*，郑连花²，白亚茹’，买娟娟’，姚文莲（1.宁夏医科大学护理学院，宁夏，银川，750004；2.福建省龙岩市第一医院，福建，龙岩，3664000）
+
+[摘要］背景 我国乳腺癌发病呈上升趋势，严重威胁着女性的身心健康。提高防治行为是改变社区女性健康结局的重要手段，但个体存在行为异质性，如何有效的提高其防治行为有待探索。目的了解社区女性乳腺癌防治行为的潜在类别及影响因素，为社区女性乳腺癌防治给予针对性的干预措施提供依据。方法 采用自行编制经过信效度检验的宁夏地区妇女“两癌”防治知信行现状调查问卷对1327名社区女性进行横断面调查，基于调查结果对社区女性乳腺癌防治行为进行潜在类别分析，单因素、Logistic 多项回归分析不同类别的影响因素。结果社区女性乳腺癌防治行为可分为防治行为积极组 $( 3 8 . 2 \% )$ 、高危行为-就医积极组$( 3 2 . 3 \% )$ 、高危行为-就医消极组 $( 1 7 . 2 \% )$ 、防治行为一般组 $( 1 2 . 3 \% ) 4$ 个类别；以防治行为一般组作为参考，所在市、医保类型、已经生育、接受过激素替代治疗是防治行为积极组的影响因素 $_ { ( P < 0 . 0 5 ) }$ ；已经生育、接受过激素替代治疗、医保类型是高危行为-就医积极组的影响因素 $_ { ( P < 0 . 0 5 ) }$ ；文化程度、家庭人均月收入、医保类型为高危行为-就医消极组的影响因素 $( P { < } 0 . 0 5 )$ 。结论 社区女性乳腺癌防治行为具有明显的分类特征，其防治行为处于中等水平，社区应重点关注高危行为-就医消极组人群，对防治行为积极组、高危行为-就医积极组以及防治行为一般组也应针对存在的问题进行相应的干预，提高宁夏社区女性乳腺癌防治行为。
+
+[关键词］社区女性；乳腺癌；潜在类别分析；防治行为；影响因素分析
+
+# Potential Category Analysis and Influencing Factors of Breast Cancer Prevention and Treatment Behaviors of Community Women
+
+MA Jiahui1,LIU Guolian1\*,Zheng Lianhua² BAI Yaru1, MAI Juanjuanl,YAO Wenlian1 (1.School of Nursing, Ningxia Medical University, Yinchuan 75oo04, China；Longyan First Hospital, Fujian,Longyan, 3664000)
+
+[Abstract] Background The incidence of breast cancer is in a strong uptrend in China, which seriously threatens women's physical and mental health. It is an important means to improve prevention and treatment behavior to change the outcome of women in community. Because of heterogeneity, prevention and treatment behavior needs to be explored effectively. Objective To understand potential categories and influencing factors of breast cancer prevention and treatment behaviors of community women, in order to provide basis for targeted intervention measures for breast cancer prevention and treatment of community women. Methods A cross-sectional survey was conducted among 1327 community women in Ningxia based on a self-made questionnaire named the status of knowledge-attitude-practice in the prevention and treatment of "two cancers", and the questionnaire reliability and validity were tested. Based on the survey results, the potential categories of breast cancer prevention and treatment behaviors of community women were analyzed, and the influencing factors of different categories were analyzed by using single factor and Logistic regression. Results The prevention and treatment behavior of breast cancer among community women can be divided into four categories: positive prevention and treatment behavior group （204号 $( 3 8 . 2 \% )$ , high-risk behavior and active medical treatment group $( 3 2 . 3 \% )$ , high-risk behavior and negative medical treatment behavior group $( 1 7 . 2 \% )$ and general prevention and treatment behavior group $( 1 2 . 3 \% )$ . Taking the general prevention behavior group as a reference, living city, medical insurance type, fertility procreated and received hormone replacement therapy were the influencing factors of the positive prevention and treatment behavior group $( P { < } 0 . 0 5 )$ . Fertility procreated, received hormone replacement therapy and medical insurance type were the influencing factors of high-risk behavior and active medical treatment group $( P { < } 0 . 0 5 )$ . Education level, family per capita monthly income and medical insurance type were the influencing factors of high-risk behavior and negative medical treatment behavior group $( P { < } 0 . 0 5 )$ . Conclusion The prevention and treatment behaviors of breast cancer among community women have obvious classification characteristics, and their prevention and treatment behaviors are at a medium level. The community should focus on the population with high-risk behavior and negative medical treatment behavior group, besides taking intervene in the positive prevention and treatment behavior group,high-risk behavior and active medical treatment group and general prevention and treatment behavior group to improve prevention and treatment behaviors of breast cancer community women in Ningxia.
+
+[Key words] Community women； Breast cancer; Potential category analysis； Prevention and treatment behavior; Root cause analysis;
+
+乳腺癌是全球范围内女性最常见的恶性肿瘤之一l。2020 全球癌症统计报告中指出，女性乳腺癌的全球发病率已跃居第一，中国女性乳腺癌在发病谱顺位有上移趋势且在女性癌症死因谱上位居第4位，不但严重影响女性身心健康、带来沉重的疾病负担，甚者危及生命[24]。相关研究表明，一级预防与筛查是乳腺癌防治行为的重要手段之一，通过实施一级预防与筛查是降低其发病率和死亡率行之有效的方法[s]。而行为是指判断与决策的过程，其本身是一种复杂的表现，它不仅是态度的潜在表达，也是导致最终结果的直接因素[6，因此，通过提高防治行为来改变未发生或已发生乳腺癌女性的结局尤为重要。但由于存在个体行为差异，故而如何挖掘女性个体背后的多个复杂变量来分析外显变量，以便分析出具有相似特征的人群，可以制定出更具针对性的一、二级预防措施，从而提高预防行为。潜在类别分析(Latentclass analysis,LCA)是一种以个体为中心的研究方法，可根据条目作答模式分析其潜在分类并关注个体的异质性，基于模型和拟合指标鉴别出具有相似特征的潜在亚群，以此来分析防治行为的多样分组特征[7]。因此，本研究基于潜在类别分析社区女性乳腺癌的防治行为特征及影响因素，旨在为社区对不同类别人群进行有针对性的健康宣教提供借鉴意义，促使健康宣教效果达到最大化，提高社区女性乳腺癌防治行为。
+
+# 1.对象与方法
+
+1.1研究对象于2019年11月\~2020年8月，采用便利抽样的方法，选取银川市、中卫市的5个县（区）内15个乡镇/街道的社区女性作为此次调查对象。5个县区分别是兴庆区、西夏区、金凤区、沙坡头区、中宁县。对研究人员在问卷收集前统一培训，问卷收集时研究人员在居委会（村）工作人员协助下入户调研或在居委会（村）进行现场调研。纳入标准：无精神认知障碍者；知情同意自愿参与本研究；排除标准：患有乳腺癌的女性；正在参与乳腺癌干预相关研究的女性。本研究经过了宁夏医科大学伦理委员会的批准（宁医大伦理第 2018-39号），研究对象均签署了知情同意书。
+
+根据现状调查样本量计算公式： $\mathtt { n } = \mathtt { ( } \mathtt { z } ^ { 2 * } \mathtt { p q } \mathtt { ) } / \mathtt { d } ^ { 2 }$ ，以“乳腺癌预防行为及格率”进行计算，显著性水准 $\mathtt { a } = 0 . 0 5$ 时， $Z { = } 1 . 9 6$ ，查阅文献 $\mathrm { P } { = } 3 6 . 2 \% ^ { [ 8 ] }$ ， $\mathsf { q } { = } 1 { - } \mathsf { p }$ ， $\scriptstyle \mathrm { d = } 0 . 1 \mathrm { p }$ ，算得最小样本量约为677例，考虑 $20 \%$ 的失访量，最终确定样本量为812例。依据估算样本量及实际情况，共发放问卷1355份，剔除存在漏填选项、回答不一致的问卷，有效回收1327份，问卷有效回收率为 $98 \%$ 0
+
+1.2 研究方法 本研究以知信行理论为框架，依据相关防治指南及文献自行设计调查问卷，并对问卷内容进行2轮专家咨询，通过预实验调查结果完善问卷相关内容，最终形成宁夏地区妇女“两癌"防治知信行现状调查问卷，包含“两癌”防治知识条目40项，
+
+“两癌”防治信念条目34项，“两癌”防治行为条目23项，总条目97项[。本研究采用宁夏地区妇女“两癌”防治知信行现状问卷中的乳腺癌防治行为部分，包括一般人口学资料、乳腺癌防治行为调查表2 部分的结果进行潜在类别分析。 $\textcircled{1}$ 一般人口学资料包括：年龄、婚姻状况、家庭居住地、文化程度、职业、家庭人均收入等。 $\textcircled{2}$ 乳腺癌防治行为问卷：包括危险因素防治行为、是否有获取乳腺癌防治知识途径等，共13个条目，条目回答“是”计1分，“否”计0分，分值在0\~13分，其中第2、3条目为反向计分。宁夏地区妇女“两癌"防治知信行问卷Cronbach's $\mathfrak { a }$ 系数为0.911[9],乳腺癌防治行为问卷Cronbach's $\mathfrak { a }$ 系数为0.675。根据宁夏地区妇女“两癌”防治知信行现状问卷的得分标准[9]，并参考同类自行设计问卷的乳腺癌知信行研究对知、信、行各部分的得分定义[10-Il，本研究乳腺癌防治行为得分定义为防治行为得分 $< 8$ 分为低，8\~11为中， $> 1 1$ 为高。
+
+1.3 统计分析 采用Epidata3.1双人录入并核查数据。运用Latent GOLD4.5.0软件进行潜在类别分析。从初始模型开始逐步增加模型中的类别数目，进行模型的参数估计和适配性检验，直到模型拟合达到最佳。模型适配指标主要包括基于信息理论的赤池信息准则(AIC)和贝叶斯信息准则(BIC)，似然比 $\chi ^ { 2 }$ 值 $( \mathbf { G } ^ { 2 } )$ 。模型适配度指标中，AIC、BIC 值越小，模型拟合越好；样本量大于1000时，采用BIC 值指标的结果更佳； $\mathbf { G } ^ { 2 }$ 值与Pearsonx² 值越小，模型拟合效果越好[12]。将最终得出的类别作为因变量，将人口学特征作为自变量采用 SPSS22.0软件对数据分析。计量资料呈非正态分布的以中位数(下四分位数，上四分位数)[M(P25，P75)]表示；组间比较采用 $\chi ^ { 2 }$ 检验、Kruskal-WallisH检验；计数资料以相对数表示；采用多项Logistic回归分析影响因素，检验水准 $\scriptstyle { \mathfrak { a } } = 0 . 0 5$ ，以 $P < 0 . 0 5$ 为差异有统计学意义。
+
+# 2.结果
+
+# 2.1一般资料
+
+本研究中，社区女性年龄 $1 9 { \sim } 6 5$ 岁，身高 $1 4 0 { \sim } 1 7 6 \mathrm { c m }$ ，体重 $3 5 { \sim } 9 0 \mathrm { k g }$ 。具体见表1。
+
+表1社区女性一般资料调查表（ $\cdot _ { \mathrm { n } = 1 3 2 7 } )$   
+
+<html><body><table><tr><td colspan="2">项目</td><td>频数(%)</td></tr><tr><td rowspan="3">所在市</td><td>银川市</td><td>820(61.8%)</td></tr><tr><td>中卫市</td><td>507(38.2%)</td></tr><tr><td>已婚</td><td>1207(91.0%)</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="3"></td></tr><tr><td>婚龄（年）</td><td>离异/丧偶/其他</td><td>120(9.0%)</td></tr><tr><td></td><td><1</td><td>79(6.0%)</td></tr><tr><td></td><td>1~5</td><td>123(9.3%)</td></tr><tr><td></td><td>6~10</td><td>136(10.2%)</td></tr><tr><td>家庭居住地</td><td>>10</td><td>989(74.5%)</td></tr><tr><td></td><td>城镇</td><td>808(60.9%)</td></tr><tr><td>文化程度</td><td>非城镇</td><td>519(39.1%)</td></tr><tr><td></td><td>小学及以下</td><td>213(16.1%)</td></tr><tr><td></td><td>初中</td><td>308(23.2%)</td></tr><tr><td></td><td>高中/职高/中专</td><td>314(23.7%)</td></tr><tr><td></td><td>大专</td><td>345(26.0%)</td></tr><tr><td>职业</td><td>本科及以上</td><td>147(11.1%)</td></tr><tr><td></td><td>企事业单位职员</td><td>580(43.7%)</td></tr><tr><td></td><td>个体</td><td>106(8.0%)</td></tr><tr><td></td><td>工人</td><td>108(8.1%)</td></tr><tr><td></td><td>农民</td><td>390(29.4%)</td></tr><tr><td>家庭人均月收入（元）</td><td>其他</td><td>143(10.8%)</td></tr><tr><td></td><td><1000</td><td>262(19.7%)</td></tr><tr><td></td><td>1000~2999</td><td>652(49.1%)</td></tr><tr><td></td><td>3000~4999</td><td>275 (20.7%)</td></tr><tr><td></td><td>>5000</td><td>138(10.4%)</td></tr><tr><td>医保类型</td><td>职工医保</td><td>525(39.6%)</td></tr><tr><td></td><td>居民医保</td><td>710(53.5%)</td></tr><tr><td></td><td>商业保险</td><td>31(2.3%)</td></tr><tr><td></td><td>自费</td><td>50(3.8%)</td></tr><tr><td></td><td>其他</td><td>11(0.8%)</td></tr><tr><td>已经生育</td><td>是</td><td>1213(91.4%)</td></tr><tr><td></td><td>香</td><td>114(8.6%)</td></tr><tr><td>亲自哺乳</td><td>是</td><td>1122(84.6%)</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>香</td><td>205(15.4%)</td></tr><tr><td>接受过激素替代治疗</td><td>是</td><td>88(6.6%)</td></tr><tr><td></td><td>香</td><td>1239(93.4%)</td></tr><tr><td>曾经患过乳腺良性疾病</td><td>是</td><td>288(21.7%)</td></tr><tr><td></td><td>香</td><td>1039(78.3%)</td></tr></table></body></html>
+
+2.2社区女性乳腺癌防治行为的潜在类别分析
+
+以社区女性乳腺癌防治行为的13个条目各条目得分作为外显变量，建立探索性潜在类别分析模型，从类别数为1的模型数为基准，逐步增加模型中的类别数目，共拟合了5个模型。结果显示，随着类别数目的增加，BIC、AIC 及 $\mathbf { G } ^ { 2 }$ 均在不断减小,且 $P { < } 0 . 0 5$ ；由于本研究样本量为1327，因此以BIC 为模型拟合的主要适配指标，BIC在第四类模型中达到最小，排除模型5，故选取模型4为最佳拟合模型。4个潜在类别的潜在类别概率分别为 $3 8 . 2 \%$ 、 $3 2 . 3 \%$ 、 $1 7 . 2 \%$ 、 $12 . 3 \%$ 。见表2。
+
+表2社区女性乳腺癌防治行为潜在类别模型拟合指标  
+
+<html><body><table><tr><td>模型</td><td>BIC</td><td>AIC</td><td>Npar</td><td>G²</td><td>df</td><td>P</td><td>类别概率</td></tr><tr><td>1</td><td>18740.50</td><td>18673.02</td><td>13</td><td>4030.77</td><td>1314</td><td>0.00</td><td>1.0</td></tr><tr><td>2</td><td>17346.74</td><td>17206.59</td><td>27</td><td>2536.35</td><td>1300</td><td>0.00</td><td>0.509/0.491</td></tr><tr><td>3</td><td>17176.33</td><td>16963.51</td><td>41</td><td>2265.27</td><td>1286</td><td>0.00</td><td>0.443/0.312/0.245</td></tr><tr><td>4</td><td>17122.47</td><td>16836.99</td><td>55</td><td>2110.74</td><td>1272</td><td>0.00</td><td>0.382/0.323/0.172/0.123</td></tr><tr><td>5</td><td>17148.73</td><td>16790.57</td><td>69</td><td>2036.33</td><td>1258</td><td>0.00</td><td>0.371/0.199/0.172/0.152/0.106</td></tr></table></body></html>
+
+注：以 $\scriptstyle P < 0 . 0 5$ 表示有统计学意义
+
+根据条件概率的结果得出，第一类人群能正确回答条目1的概率为0.9651，除第2个条目、第9个条目概率值分别为0.7420、0.5064，其他条目的概率值均 ${ > } 0 . 8$ 说明该类人群具有积极的防治行为，故将第一类人群命名为防治行为积极组；第二类人群，第4条“为了控制您的体重，您是否经常锻炼”、第9条“您曾经是否定期进行乳房自我检查”概率值分别是0.5919、0.0250均为四组最低，且第7条“您是否掌握乳房自我检查的正确方法”概率值为0.1764，也较第一、四组低，说明该类人群具备一定程度的高危行为，但在第10条“发现乳房异常时，是否有及时去正规医院就诊”概率值为0.9065，仅次于第一类人群，说明该类人群就医行为较为积极，故将第二类人群命名为高危行为-就医积极组；第三类人群，在第1条、第4条和第6条“生活工作压力大时，您是否能有效地进行自我调节”“为了控制您的体重，你是否经常锻炼”“您平常是否有注意避免吃过多含脂肪量高的食物”概率值分别是0.6928、0.5976、0.5689，第1条、6条为四组最低，且集中相对较低的是第7条、第8条“曾经是否有主动进行乳房自我检查”、第9条的概率值分别为0.0092、0.0725、0.0279,说明该类人群同样具备高危行为，且在第10条概率值为四类人群中最低，为0.6191，故将第三类人群命名为高危行为-就医消极组；第四类人群在各条目中除第9条、第12 条正确回答的概率为0.3018、0.4430，其他条目概率均在 $0 . 5 { \sim } 0 . 7$ 之间，相比与第一类人群防治行为相对处于中等水平，故将第四类人群命名为防治行为一般组。见图1。
+
+# 2.3社区四类女性人群女性乳腺癌防治行为的得分情况
+
+社区女性乳腺癌防治行为中位得分总分为9.0(7.0,11.0)，其中防治行为积极组中位得分为11.0(11.0,12.0)分，高危行为-就医积极组中位得分为9.0 (8.0,10.0)分，高危行为-就医消极组中位得分为6.0(5.0,6.0)分，防治行为一般组中位得分为8.0(6.0,9.0)分，差异具有统计学意义 $( H { = } 1 0 0 8 . 4 9$ ， $P { < } 0 . 0 1$ ）
+
+![](images/e34da3b17be22afddde97f1d49134c5c7184ffca9756c814dbe53d0841f89683.jpg)  
+图1社区女性乳腺癌防治行为潜在类别条件概率分布
+
+注：BP指乳腺癌防治行为
+
+2.4社区女性乳腺癌防治行为类别的相关因素分析
+
+经潜在类别分析的4种类型的社区女性在所在市、年龄、身高、体重、婚姻状况、婚龄、家庭居住地、文化程度、职业、家庭人均月收入、医保类型、是否已经生育、是否亲自哺乳、是否接受过激素替代治疗、以及曾经是否患过乳腺良性疾病差异均有统计学意义（ $P { < } 0 . 0 5$ ）。见表3。
+
+表3社区女性乳腺癌防治行为类别的单因素分析 $[ \mathrm { n } ( \% ) , \mathrm { M } ( \mathrm { P } _ { 2 5 } , \mathrm { P } _ { 7 5 } ) ]$   
+
+<html><body><table><tr><td colspan="2">变量</td><td>防治行为积 极组</td><td>高危行为-就</td><td>高危行为-就</td><td>防治行为一</td><td>x/H值</td><td>P值</td></tr><tr><td>所在市</td><td>银川市</td><td>293(56.1%)</td><td>303(67.5%)</td><td>137(59.8%)</td><td>87(68.5%)</td><td>16.05</td><td><0.01</td></tr><tr><td></td><td>中卫市</td><td>229(43.9%)</td><td>146(32.5%)</td><td>92(40.2%)</td><td>40(31.5%)</td><td></td><td></td></tr><tr><td>年龄</td><td>≤29</td><td>49(9.4%)</td><td>90(20.0%)</td><td>58(25.3%)</td><td>30(23.6%)</td><td>93.85</td><td><0.01</td></tr><tr><td></td><td>30~39</td><td>161(30.8%)</td><td>147(32.7%)</td><td>46(20.1%)</td><td>36(28.3%)</td><td></td><td></td></tr><tr><td></td><td>40~49</td><td>177(33.9%)</td><td>124(27.6%)</td><td>37(16.2%)</td><td>31(24.4%)</td><td></td><td></td></tr><tr><td></td><td>50~59</td><td>109(20.9%)</td><td>74(16.5%)</td><td>58(25.3%)</td><td>22(17.3%)</td><td></td><td></td></tr><tr><td></td><td>60~65</td><td>26(5.0%)</td><td>14(3.1%)</td><td>30(13.1%)</td><td>8(6.3%)</td><td></td><td></td></tr><tr><td>婚姻状况</td><td>已婚</td><td>485(92.9%)</td><td>415(92.4%)</td><td>201(87.8%)</td><td>106(83.5%)</td><td>15.10</td><td><0.01</td></tr><tr><td></td><td>离异/丧偶/</td><td>37(7.1%)</td><td>34(7.6%)</td><td>28(12.2%)</td><td>21(16.5%)</td><td></td><td></td></tr><tr><td></td><td>其他</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>婚龄(年)</td><td><1</td><td>16(3.1%)</td><td>27(6.0%)</td><td>22(9.6%)</td><td>6(4.7%)</td><td>141.20</td><td><0.01</td></tr><tr><td></td><td>1~5</td><td>37(7.1%)</td><td>46(10.2%)</td><td>24(10.5%)</td><td>32(25.2%)</td><td></td><td></td></tr><tr><td></td><td>6~10</td><td>49(9.4%)</td><td>55(12.2%)</td><td>22(9.6%)</td><td>47(37.0%)</td><td></td><td></td></tr><tr><td></td><td>>10</td><td>420(80.5%)</td><td>321(71.5%)</td><td>161(70.3%)</td><td>42(33.1%)</td><td></td><td></td></tr><tr><td>家庭居住地</td><td>城镇</td><td>349(66.9%)</td><td>273(60.8%)</td><td>117(51.1%)</td><td>69(54.3%)</td><td>19.34</td><td></td></tr><tr><td></td><td>非城镇</td><td>173(33.1%)</td><td>176(39.2%)</td><td>112(48.9%)</td><td>58(45.7%)</td><td></td><td></td></tr><tr><td>文化程度</td><td>小学及以下</td><td>41(7.9%)</td><td>55(12.2%)</td><td>93(40.6%)</td><td>24(18.9%)</td><td>142.99</td><td><0.01</td></tr><tr><td></td><td>初中</td><td>127(24.3%)</td><td>101(22.5%)</td><td>48(21.0%)</td><td>32(25.2%)</td><td></td><td></td></tr><tr><td></td><td>高中/职高/</td><td>138(26.4%)</td><td>115(25.6%)</td><td>39(17.0%)</td><td>22(17.3%)</td><td></td><td></td></tr><tr><td></td><td>中专</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>大专</td><td>158(30.3%)</td><td>121(26.9%)</td><td>32(14.0%)</td><td>34(26.8%)</td><td></td><td></td></tr><tr><td></td><td>本科及以上</td><td>58(11.1%)</td><td>57(12.7%)</td><td>17(7.4%)</td><td>15(11.8%)</td><td></td><td></td></tr><tr><td>职业</td><td>企事业单位</td><td></td><td></td><td></td><td></td><td>69.44</td><td><0.01</td></tr><tr><td></td><td></td><td>246(47.1%)</td><td>223(49.7%)</td><td>61(26.6%)</td><td>50(39.4%)</td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>个体</td><td>48(9.2%)</td><td>32(7.1%)</td><td>17(7.4%)</td><td>9(7.1%)</td><td></td><td></td></tr><tr><td></td><td>工人</td><td>50(9.6%)</td><td>27(6.0%)</td><td>18(7.9%)</td><td>13(10.2%)</td><td></td><td></td></tr><tr><td></td><td>农民</td><td>127(24.3%)</td><td>110(24.5%)</td><td>113(49.3%)</td><td>40(31.5%)</td><td></td><td></td></tr><tr><td></td><td>其他</td><td>51(9.8%)</td><td>57(12.7%)</td><td>20(8.7%)</td><td>15(11.8%)</td><td></td><td></td></tr><tr><td>家庭人均月</td><td><1000</td><td>64(12.3%)</td><td>78(17.4%)</td><td>83(36.2%)</td><td>37(29.1%)</td><td>82.00</td><td><0.01</td></tr><tr><td>收入</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>1000~2999</td><td>266(51.0%)</td><td>237(52.8%)</td><td>101(44.1%)</td><td>48(37.8%)</td><td></td><td></td></tr><tr><td></td><td>3000~4999</td><td>134(25.7%)</td><td>79(17.6%)</td><td>36(15.7%)</td><td>26(20.5%)</td><td></td><td></td></tr><tr><td></td><td>>5000</td><td>58(11.1%)</td><td>55(12.2%)</td><td>9(3.9%)</td><td>16(12.6%)</td><td></td><td></td></tr><tr><td>医保类型</td><td>职工医保</td><td>237(45.4%)</td><td>200(44.5%)</td><td>58(25.3%)</td><td>30(23.6%)</td><td>83.80</td><td><0.01</td></tr><tr><td></td><td>居民医保</td><td>264(50.6%)</td><td>221(49.2%)</td><td>152(66.4%)</td><td>73(57.5%)</td><td></td><td></td></tr><tr><td></td><td>商业保险</td><td>9(1.7%)</td><td>5(1.1%)</td><td>5(2.2%)</td><td>12(9.4%)</td><td></td><td></td></tr><tr><td></td><td>自费</td><td>11(2.1%)</td><td>18(4.0%)</td><td>12(5.2%)</td><td>9(7.1%)</td><td></td><td></td></tr><tr><td></td><td>其他</td><td>1(0.2%)</td><td>5(1.1%)</td><td>2(0.9%)</td><td>3(2.4%)</td><td></td><td></td></tr><tr><td>已经生育</td><td>是</td><td>499(95.6%)</td><td>414(92.2%)</td><td>201(87.8%)</td><td>99(78.0%)</td><td>45.14</td><td><0.01</td></tr><tr><td></td><td>香</td><td>23(4.4%)</td><td>35(7.8%)</td><td>28(12.2%)</td><td>28(22.0%)</td><td></td><td></td></tr><tr><td>亲自哺乳</td><td>是</td><td>459(87.9%)</td><td>383(85.3%)</td><td>190(83.0%)</td><td>90(70.9%)</td><td>23.41</td><td><0.01</td></tr><tr><td></td><td>香</td><td>63(12.1%)</td><td>66(14.7%)</td><td>39(17.0%)</td><td>37(29.1%)</td><td></td><td></td></tr><tr><td>接受过激素替</td><td>是</td><td>29(5.6%)</td><td>21(4.7%)</td><td>20(8.7%)</td><td>18(14.2%)</td><td>17.05</td><td><0.01</td></tr><tr><td>代治疗</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>香</td><td>493(94.4%)</td><td>428(95.3%)</td><td>209(91.3%)</td><td>109(85.8%)</td><td></td><td></td></tr><tr><td>曾患乳腺良性</td><td>是</td><td>131(25.1%)</td><td>97(21.6%)</td><td>31(13.5%)</td><td>29(22.8%)</td><td>12.62</td><td><0.01</td></tr><tr><td>疾病</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>香</td><td>391(74.9%)</td><td>352(78.4%)</td><td>198(86.5%)</td><td>98(77.2%)</td><td></td><td></td></tr><tr><td>身高(cm)</td><td></td><td>160.0(160.0,</td><td>161.0(160.0,1</td><td>160.0(158.0,1</td><td>160.0(158.0,</td><td>14.40</td><td><0.01</td></tr><tr><td></td><td></td><td>165.0)</td><td>65.0)</td><td>64.0)</td><td>164.0)</td><td></td><td></td></tr><tr><td>体重(Kg)</td><td></td><td>60.0(54.8,</td><td>60.0(54.0,</td><td>60.0(53.0,</td><td>60.0(52.0,</td><td>9.66</td><td>0.02</td></tr><tr><td></td><td></td><td>65.0)</td><td>66.0)</td><td>65.0)</td><td>65.0)</td><td></td><td></td></tr></table></body></html>
+
+2.5社区女性乳腺癌防治行为类别影响因素的多项logistic回归分析
+
+以潜在类别分析得出的4个类别作为因变量，单因素分析得出的所在市、年龄、身高、体重、婚姻状况等有统计学意义的一般资料作为自变量，将其中的无序多分类自变量转化为哑变量（赋值见表4），并以防治行为一般组作为参考类别，进一步分析一般资料对类别的影响。结果显示，以防治行为一般组作为参考，所在市、医保类型、已经生育、接受过激素替代治疗是防治行为积极组的影响因素 $_ { ( P < 0 . 0 5 ) }$ ；已经生育、接受过激素替代治疗、医保类型是高危行为-就医积极组的影响因素 $_ { ( P < 0 . 0 5 ) }$ ；文化程度、家庭人均月收入、医保类型为高危行为-就医消极组的影响因素 $_ { ( P < 0 . 0 5 ) }$ 。见表5。Logistic 回归伪R²为0.267。
+
+表4社区女性乳腺癌防治行为类别影响因素的多项Logistic回归分析变量赋值表  
+
+<html><body><table><tr><td>变量 赋值</td></tr><tr><td>所在市 中卫市=0，银川市=1</td></tr><tr><td>年龄 ≤29=1，30~39=2，40~49=3，50~59=4，60~65=5</td></tr><tr><td>婚姻状况 已婚=0，离异/丧偶/其他=1</td></tr><tr><td>婚龄(年) <1=1，1~5=2，6~10=3，>10=4</td></tr><tr><td>家庭居住地 城镇=0，非城镇=1</td></tr><tr><td>文化程度 小学及以下=1，初中=2，高中/职高/中专=3，大专=4，本科及以上=5</td></tr><tr><td>职业 其他=(1,1,1,1)，企事业单位职员=(0,1,1,1)，个体=(1,0,1,1)，工人</td></tr><tr><td>=(1,1,0,1)，农民=(1,1,1,0)</td></tr><tr><td>家庭人均月收入 <1000=1，1000~2999=2，3000~4999=3，>5000=4</td></tr><tr><td>医保类型 职工医保=(1,1,1,1)，居民医保=(0,1,1,1)，商业保险=(1,0,1,1)，自费</td></tr><tr><td>=(1,1,0,1)，其他=(1,1,1,0)</td></tr><tr><td>已经生育 是=0，否=1</td></tr><tr><td>亲自哺乳 是=0，否=1</td></tr><tr><td>接受过激素替代治疗 是=0，否=1</td></tr><tr><td>曾患乳腺良性疾病 是=0，否=1</td></tr></table></body></html>
+
+表5社区女性乳腺癌防治行为类别影响因素的多项Logistic回归分析  
+
+<html><body><table><tr><td>因变量</td><td>自变量</td><td>β值</td><td>SE</td><td>Waldx²值</td><td>P值</td><td>OR(95%CI)</td></tr><tr><td>防治行为积</td><td>所在市(以银川市为参照)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>极组</td><td>中卫市</td><td>0.464</td><td>0.236</td><td>3.860</td><td>0.049</td><td>1.591 (1.001~2.527)</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="7"></td></tr><tr><td></td><td colspan="6">医保类型(以职工医保为参照)</td></tr><tr><td></td><td>居民医保</td><td>-0.780</td><td>0.299</td><td>6.798</td><td>0.009</td><td>0.458 (0.255~ 0.824)</td></tr><tr><td></td><td>商业保险</td><td>-2.272</td><td>0.556</td><td>16.698</td><td><0.01</td><td>0.103 (0.035~ 0.307)</td></tr><tr><td></td><td>自费</td><td>-1.314</td><td>0.562</td><td>5.463</td><td>0.019</td><td>0.269 (0.089~0.809)</td></tr><tr><td></td><td>其他</td><td>-2.620</td><td>1.239</td><td>4.473</td><td>0.034</td><td>0.073(0.006~0.825)</td></tr><tr><td></td><td colspan="6">已经生育(以否为参照)</td></tr><tr><td></td><td>是</td><td>1.466</td><td>0.567</td><td>6.680</td><td>0.010</td><td>4.332 (1.425~13.167)</td></tr><tr><td></td><td>接受过激素替代治疗(以否为参照)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>是</td><td>-0.813</td><td>0.360</td><td>5.113</td><td>0.024</td><td>0.443(0.219~0.897)</td></tr><tr><td>高危行为-就</td><td colspan="6">已经生育(以否为参照)</td></tr><tr><td>医积极组</td><td>是</td><td>1.242</td><td>0.547</td><td>5.514</td><td>0.023</td><td>3.462 (1.185~10.117)</td></tr><tr><td></td><td colspan="6">接受过激素替代治疗(以否为参照)</td></tr><tr><td></td><td>是</td><td>-0.963</td><td>0.371</td><td>6.718</td><td>0.010</td><td>0.382(0.184~0.791)</td></tr><tr><td></td><td colspan="6">医保类型(以职工医保为参照)</td></tr><tr><td></td><td>居民医保</td><td>-0.969</td><td>0.303</td><td>10.245</td><td>0.001</td><td>0.379(0.210~0.687)</td></tr><tr><td></td><td>商业保险</td><td>-2.591</td><td>0.620</td><td>17.464</td><td><0.01</td><td>0.075(0.022~0.253)</td></tr><tr><td></td><td>自费</td><td>-1.000</td><td>0.522</td><td>3.664</td><td>0.056</td><td>0.368(0.132~1.024)</td></tr><tr><td></td><td>其他</td><td>-1.180</td><td>0.833</td><td>2.009</td><td>0.156</td><td>0.307(0.060~1.571)</td></tr><tr><td>高危行为-就</td><td colspan="6">文化程度(以本科及以上为参照)</td></tr><tr><td>医消极组</td><td>小学及以下</td><td>1.595</td><td>0.607</td><td>6.910</td><td>0.009</td><td>4.929(1.501~16.194)</td></tr><tr><td></td><td>初中</td><td>0.618</td><td>0.567</td><td>1.188</td><td>0.276</td><td>1.856(0.610~5.640)</td></tr><tr><td></td><td>高中/职高/中专</td><td>0.856</td><td>0.539</td><td>2.521</td><td>0.112</td><td>2.354(0.818~6.773)</td></tr><tr><td></td><td>大专</td><td>0.054</td><td>0.482</td><td>0.012</td><td>0.912</td><td>1.055 (0.410~2.715)</td></tr><tr><td>家庭人均月收入(元，以>5000 为参照)</td><td colspan="6"></td></tr><tr><td></td><td><1000</td><td>0.988</td><td>0.522</td><td>3.592</td><td>0.058</td><td>2.687(0.967~7.468)</td></tr><tr><td></td><td>1000~2999</td><td>1.124</td><td>0.489</td><td>5.290</td><td>0.021</td><td>3.078(1.181~8.024)</td></tr><tr><td></td><td>3000~4999</td><td>0.893</td><td>0.515</td><td>3.009</td><td>0.083</td><td>2.442(0.890~6.699)</td></tr><tr><td></td><td colspan="6">医保类型(以职工医保为参照)</td></tr><tr><td></td><td>居民医保</td><td>-0.687</td><td>0.344</td><td>3.998</td><td>0.046</td><td>0.503(0.256~ 0.986)</td></tr></table></body></html>
+
+<html><body><table><tr><td>商业保险</td><td>-1.279</td><td>0.652</td><td>3.854</td><td>0.050</td><td>0.278(0.078~0.998)</td></tr><tr><td>自费</td><td>-0.792</td><td>0.571</td><td>1.923</td><td>0.166</td><td>0.453(0.148~1.387)</td></tr><tr><td>其他</td><td>-0.936</td><td></td><td>0.856</td><td>0.355</td><td></td></tr><tr><td></td><td></td><td>1.011</td><td></td><td></td><td>0.392 (0.054~2.847)</td></tr></table></body></html>
+
+# 3.讨论
+
+3.1社区女性乳腺癌防治行为总体处于中等水平
+
+现有关社区女性乳腺癌防治行为的群体分布特征研究主要是以变量为中心，一般根据问卷总分的高低或掌握率来判定个体防治行为的程度或据此进行分组，以一般资料作为自变量，问卷总分(掌握率)为因变量，这样不能很好地区分群体中不同特征的组群以及组群间存在的质性差异，划分出来的群体内部可能存在较大的异质性，相比而言，潜在类别分析可以以个体为视角，针对上述存在问题能进行一定程度的规避[13]，综合女性乳腺癌防治行为的特征进行最优分类，可以瞄准问题所在，进行针对性的干预达到效果最大化，满足女性乳腺癌防治的健康教育需求。
+
+本研究将乳腺癌防治行为分为四类，虽然其中防治行为积极组所占类别概率为$3 8 . 2 \%$ ，为四组中所占比例最大，但高危行为-就医积极组、高危行为-就医消极组、防治行为一般组这三组类别概率占总体的 $6 1 . 8 \%$ ，且防治行为中位得分为9分，说明社区女性乳腺癌防治行为处于中等水平，这与宋军等[14调查的中国6市县女性乳腺癌防治行为的结果基本一致，但低于薄婷婷等[1]调查的天津市滨海新区的女性。本研究中四类人群在定期进行乳房自我检查的防治行为概率值均为所有条目中得分最低，相对西方发达国家，我国女性乳腺癌筛查参与率、关注度较低、自检行为仍有待提高[1,11,15-16]，与本研究结果基本一致。但相关研究表明在乳腺癌病因未完全明了的情况下，早期发现并及时诊断和治疗是缓解对女性造成身心伤害、减轻经济及疾病负担的主要手段[17]，因此亟待加强对社区女性乳腺癌防治的健康宣教，提高其防治行为，使乳腺癌得已早发现、早诊断、早治疗。
+
+3.2社区女性乳腺癌防治行为的潜在类别及影响因素分析
+
+防治行为积极组类别概率为 $3 8 . 2 \%$ ，中位得分为11.0(11.0,12.0)分，这组社区女性防治行为水平较其他三组人群为最高且高于总体防治行为水平。防治行为积极组的特点为总体行为处于较高水平，但其中依旧存在部分防治行为如长期处于高危因素及定期乳房自检行为的问题有待提高。提示社区在进行健康宣教时除巩固这类人群已有较好的防治行为，还要注重尽可能在工作中要避免长期接触射线、化学物质等高危因素，或采取保护自我的措施。多因素结果显示，以防治行为一般组作为参考，中卫市社区女性更容易归为防治行为积极组 $O R { = } 1 . 5 9 1 \rangle$ ，这可能与中卫市积极响应国家政策方针，注重乳腺癌的防治宣传，在“两癌”免费筛查中注明了具体的检查项目、科普知识以及注意事项等，使社区女性能够积极主动进行筛检，提高了其健康意识有关。
+
+高危行为-就医积极组类别概率为 $3 2 . 3 \%$ ，中位得分为9.0(8.0,10.0)，这组社区女性的防治行为得分较防治行为积极组低。高危行为-就医积极组社区女性的主要特点为存在缺乏经常锻炼及乳房保健意识这类高危行为，但在发现乳房异常时，会及时去正规医院就诊。赫捷[18]、陈文娟[19]等研究同样表明体育锻炼是防治乳腺癌的保护因素，结合本组人群的人口学特征，这组人群中职业为企事业单位职员者占四组人群比例位居第二为 $2 2 3 ( 3 8 . 4 \% )$ ，占本组人群职业中的比例最高 $2 2 3 ( 4 9 . 7 \% )$ ，这可能与这组人群因职业原因长期久坐，缺乏体育锻炼有关。因此，在对这组人群进行健康宣教时应针对存在的问题，帮助这组人群掌握一些不限时间、不限地点、无需体育器材简单易行的体育锻炼方法，如健身操、深蹲、拉伸运动、慢跑等，要养成长期锻炼的习惯。此外，还需要帮助这类社区女性掌握乳房自检的正确方法及养成定期乳房保健习惯这些预防为主的防治行为。
+
+另外，多因素结果显示以防治行为一般组作为参考，有生育史比未有生育史的社区女性更容易成为防治行为积极组（ $\scriptstyle ( O R = 4 . 3 3 2 )$ 或高危行为-就医积极组( $O R { = } 3 . 4 6 2 )$ ，这与郭兰伟[20]、秦朝[211的研究结果相一致，有过生育史的女性参与筛查的行为越积极，这两组社区女性中已生育占四组比例最大，分别是 $4 9 9 ( 4 1 . 1 \% ) \setminus 4 1 4 ( 3 4 . 1 \% )$ ，差异有统计学意义。这可能与这类社区女性分娩后需哺乳婴儿，平时会主动关注乳房情况，并且考虑到婴儿的健康喂养，社区女性会主动学习相关知识，孙琴芳[22]等研究也表明，生育史是影响女性筛查认知的影响因素，筛查认知推动健康行为的产生，使社区女性有积极的防治行为，符合知信行理论。提示社区在进行健康宣教时要重点关注这两组人群中未生育的社区女性。
+
+接受过激素替代治疗也是影响社区女性防治行为的重要影响因素。研究结果表明，防治行为一般组与防治行为积极组、高危行为-就医积极组相比，接受过激素替代治疗比没有接受过激素替代治疗的社区女性更容易成为防治行为一般组。这可能与目前激素替代治疗对乳腺癌所产生的说法不一有关，如有研究表明雌激素治疗可能会降低乳腺癌风险，而雌孕激素治疗可能会增加乳腺癌的风险[231，社区女性无法得到明确的辨识认知，久而久之可能会漠视激素替代治疗对乳腺癌带来的风险，导致患者防治行为处于一般水平。也可能与患者对激素替代治疗带来的影响相关知识欠缺，使社区女性不会积极主动地采取乳腺癌防治行为，或社区女性关注地重点是通过补充激素替代治疗的疾病，而对乳腺产生的影响关注不高，从而不会产生积极的乳腺防治行为。但有研究发现，激素替代治疗期间定期行乳房检查发现早期乳腺癌一例[24],提示社区在进行健康宣教时对防治行为一般组的社区女性在激素替代治疗期间要加强乳腺自我检查，关注乳房变化，提高其防治行为。
+
+高危行为-就医消极组类别概率为 $1 7 . 2 \%$ ，防治行为中位得分为6.0(5.0,6.0)分，为四组防治行为中得分最低，且显著低于总防治行为水平。这组社区女性的主要特点为缺乏体育锻炼、膳食模式不合理、乳房保健意识差、不会主动关注防治相关政策等高危行为，且在发现乳房异常时不会主动就医。有研究表明，摄入脂肪类食物增加，而活动减少，会导致脂肪堆积在人体内，增加肥胖发病率，同时增加乳腺癌发病率[25]。提示这组人群是社区健康宣教的重点对象，在健康宣教时告知社区女性要注意适量的体育锻炼，避免吃过多含脂肪量的食物，保证膳食纤维、蛋白质、维生素等物质的均衡摄入，合理饮食。文化程度、家庭人均月收入为高危行为-就医消极组社区女性的影响因素。相对于防治行为一般组，小学及以下文化程度比本科的社区女性更易成为高危行为-就医消极组，这可能与文化程度较低者对健康宣教理解度及接受度不高，不易获取相关知识有关，导致无法形成良好的行为，而行为改变的意识欠缺也导致其不会积极主动地去寻求专业帮助。相关研究也表明文化程度较高者，筛查及自检行为等防治行为也较高[26-27]。此外，家庭人均月收入为1000\~2999元比 $> 5 0 0 0$ 元更容易成为高危行为-就医消极组，张雪莹等[27)研究同样表明，家庭收入较高比较低者更倾向实施乳腺筛查，这可能与迫于生计压力及受经济条件限制有关。因此，对于这组人群应结合人群特征，在进行健康讲座时使用通俗易懂地语言指导女性掌握乳房自检的正确方法并告知其积极主动定期进行自检的重要性，将传统媒体与新兴媒体相结合，以图画为主的宣传册、线下讲座与视频、微信、公众号推送等自媒体相结合，使文化程度低的女性更易理解学习的同时加强了学习效果，而且对于家庭收入低的女性，增加了其获取知识的途径，促进健康行为的产生，并且对于这类人群掌握乳房自检行为有助于早发现、早诊断、早治疗，减轻女性的经济负担。
+
+医保是减轻居民医疗负担、维护人们群众健康福祉的重大举措。医保类型中居民医保是社区女性乳腺癌防治行为的主要影响因素。与防治行为积极型、高危行为-就医积极组、高危行为-就医消极组相比，居民医保比职工医保的社区女性更易归为防治行为一般组这类人群。原因如下： $\textcircled{1}$ 可能相较于职工医保，有居民医保的社区女性工作不稳定，没有单位组织的定期体检及进行自我检查，平时不会主动进行乳腺的检查，对乳房健康的重视程度较低，因此居民医保的女性防治行为较为一般； $\textcircled{2}$ 可能由于公共卫生负担的医疗费用不纳入基本医疗保险基金支付范围，因此乳腺癌筛查作为预防类检查不属于医保支付范围[281，对于这类非住院的检查项目不报销使得居民医保的社区女性可能由于没有稳定的经济收入，为避免增加经济负担，平时不会主动的进行就医筛查，导致其防治行为处于一般水平。目前，我国正在初步探索公共卫生经费与医保资金的费用分担机制，为建立癌症筛查长效机制奠定基础[29]，有望提高社区女性乳腺癌早期筛查的依从性。
+
+# 4.建议
+
+# 4.1充分发挥社区、妇联等组织的联合作用
+
+社区是基层预防保健的重要一环，而妇联组织也是妇女权益保障的重要组织。通过社区、妇联等组织间的相互配合，广泛开展妇女乳腺癌防治相关政策和核心信息的宣传教育并进行追踪随访，形成全社会关心支持乳腺癌防治的良好氛围，提高女性乳腺癌防治行为[30]。
+
+# 4.2强化社区女性作为第一健康责任人的意识
+
+相关研究表明乳房自查是乳腺癌的重要自主预防行为，中国乳腺癌筛查指南中同样将乳腺触诊作为乳腺影像学筛查之前的初始手段，且推荐等级为B级[31.32]。四组人群中共同的特点为定期进行乳房自我检查的概率值最低，因此需要通过社区的健康宣教，使社区妇女掌握乳房自我检查的正确方法，告知其养成定期自我检查的重要性，进行自我健康管理，强化社区女性个体是自我健康的第一责任人。
+
+# 5.小结
+
+综上所述，社区卫生服务机构作为基层服务的重要机构，预防保健是其工作的主要内容之一，社区医护人员应针对不同类型的女性及其影响因素进行重点干预，提供具有针对的健康教育，如定期开展健康知识讲座，发放宣传手册，乳房自检方法的讲解等，提高并不断巩固社区女性乳腺癌防治知识，提升防治态度，从而进一步促进行为的改变，提高乳腺癌防治行为。
+
+作者贡献：马佳慧、刘国莲负责文章的设计；郑连花、白亚茹、买娟娟负责数据的收集与整理；马佳慧负责数据的分析及论文的撰写；马佳慧、刘国莲、姚文莲负责论文的质量控制及审校。
+
+本文无利益冲突。
+
+# 参考文献：
+
+[1]王彤彤,尹立红,Grace X.MA,等.南京社区女性乳腺癌筛查知信行现状及影响因素[J].中国公共卫生,2015,31(5):655-659.DOI:10.11847/zgggws2015-31-05-34.
+
+WANGTT,YINGLHGRACE X.MA,etal.Status and influencing factors ofknowledge,atitude,and practiceabout breast cancer screening among community women in Nanjing city[J].Chinese Journal of Public Health, 2015,31(5):655-659.DO1:10.11847/zgggws2015-31-05-34.
+
+[2]SUNG H,FERLAYJ,SIEGELR L,et al.Global Cancer Statistics 2020: GLOBOCANEstimates of Incidence and Mortality Worldwide for36Cancersin185Countries[J].CA:ACancer Journal forClinicians,2021,71(3):209-249.
+
+[3]刘宗超,李哲轩,张阳,等.2020 全球癌症统计报告解读[J].肿瘤综合治疗电子杂志,2021,7(2):1-14.  
+DOI:10.12151/JMCM.2021.02-01.
+
+LIU Z C,LI Z X,ZHANG Y,et al.Interpretationon the report of Global Cancer Statistics2020[J].Journal of Multidisciplinary Cancer Management(Electronic Version),2021,7(2):1-14.DOI:10.12151/JMCM.2021.02-01.
+
+[4]杨明艳,罗雪梅,杜建林,等.湘西社区女性乳腺癌防治知识及健康行为现况[J].中国老年学杂 志,2015,35(1):200-202.DOI:10.3969/j.issn.1005-9202.2015.01.097.
+
+YANG M Y,LUO X M,DU JL,et al.Awareness and health behaviors of breast cancer prevention of Xiangxicommunitywomen[J].Chinese Journalof Gerontology,2015,35(1):20-202.DOI:10.3969/j.issn.1005-9202.2 015.01.097.
+
+[5]周春兰,区洁霞,李晓瑾,等.高校女大学生乳腺癌预防知识行为现状及影响因素分析[J.中国健康教育,2017,33(5):461-465. DOI:10.16168/j.cnki.issn.1002-9982.2017.05.018.
+
+ZHOU C L,QU JX,LI X J,et al.The status and influencing factors of breast cancer prevention knowledge and behavioramong female university students[J].Chinese Journal of Health Education,2017,33(5):461-465. DOI:10.16168/j.cnki.issn.1002-9982.2017.05.018.
+
+[6]唐雨蓉,韩茜宇,唐思雨,等.新冠疫情下公众应对行为潜在类别分析[J].中国公共卫生,2021,37(7):1090-1095.DOI:10.11847/zgggws1133937.
+
+TANGYR,HAN X Y,TANG S Y,et al. Response behaviors during COVID-19 epidemic among the public in China:a latent clas analysis[J].Chinese Journal of Public Health,2021,37(7):1090-1095.DOI:10.11847/zgggws1133937.
+
+[7]陈娟,曹秉蓉,高庆,等.三级甲等医院护理人员智谋现状及潜在类别分析[J].护理学杂志,2020,35(11):49-53.   
+DOI:10.3870/j.issn.1001-4152.2020.11.049. CHEN J,CAO B R,GAO Q,et al.The level and latent classes of resourcefulnessamong tertiary hospital nurses[J].   
+Journal of Nursing Science,2020,35(11):49-53.DOI:10.3870/j.issn.1001-4152.2020.11.049.
+
+[8]区洁霞.女性乳腺癌的预防知信行现状及其危险因素评估模型的初步探讨[D].广州:南方医科大学,2018. QU JX.The current situation of knowledge-atitude-parctice for breast cancer prevention and preliminary study on risk assessment model in female breast cancer[D].Guangzhou:outhern Medical University,2018.
+
+[9]郑连花,刘赞赞,刘国莲,等.宁夏地区妇女“两癌”防治知信行现状及其影响因素[J].医学与社 会,2021,34(12):130-134.DOI:10.13723/j.yxysh.2021.12.027.
+
+Zheng LH,LIUYY,LIUGL.Status Quo and Influencing Factors of Knowledge,Atitude and Practice of Breast and Cervical Cancer Prevention and Control Among Women in Ningxia[J].Medicine and Society,2021,34(12):130- 134.DOI:10.13723/j.yxysh.2021.12.027.
+
+[10]薄婷婷,韩华.天津市滨海新区女性乳腺癌预防与筛查的知信行现状调查[J].中国妇幼保 健,2021,36(7):1610-1613.DOI:10.19829/j.zgfybj.issn.1001-4411.2021.07.047.
+
+[11]方琪,杜亚平,高强,等.杭州市女性乳腺癌筛查知信行现状及影响因素分析[J].中国预防医学杂志,2017,18(3):214-218.D01:10.16506/j.1009-6639.2017.03.012.
+
+FANG Q,DU Y P.GAO Q,et al.Analysis on KAP and its influencing factors of breast cancer screening for women in Hangzhou[J].Chinese Preventive Medicine,2017,18(3):214-218.DOI:10.16506/j.1009- 6639.2017.03.012.
+
+[12]汪瑞鸥,杜玉平,马武胜,等.马尔康市小学生包虫病防治知识及行为潜在类别分析[J].中国学校卫生,2018,39(12):1869-1872.DO1:10.16835/j.cnki.1000-9817.2018.12.031.
+
+[13]廖友国,王峥,陈建文,等.初中生外化问题行为的潜在类别及其影响因素[J].中国临床心理学杂志,2021,29(2):297-300+305.DO1:10.16128/j.cnki.1005-3611.2021.02.016.
+
+LIAO Y G,WANG Z,CHENJW,et al.Latent Profiles of Externalizing Problem Behavior and Its Effect Factors among Adolescents[J].Chinese Journal of Clinical Psychology,2021,29(2):297-300+305. DOI:10.16128/j.cnki.1005-3611.2021.02.016.
+
+[14]宋军,田甜,杨文蕾,等.中国6市县女性乳腺癌防治知信行情况调查及其关系研究[J].中国健康 教育,2017,33(12):1064-1068+1089.DOI:10.16168/j.cnki.issn.1002-9982.2017.12.002.
+
+SONG J,TIAN T,YANG W L,et al.Status and influencing factors of knowledge,atitude,and practice about breast cancer screening among women in 6-city-county of China[J].Chinese Journal of Health Education,2017,33(12):1064-1068+1089.DOI:10.16168/j.cnki.issn.1002-9982.2017.12.002.
+
+[15]陈雯,刘秀梅,于代友,等.沧州地区女性乳腺癌知-信-行调查分析[J].河南预防医学杂志,2015,26(4):259-263+268.DO1:10.13515/j.cnki.hnjpm.1006-8414.2015.04.007.
+
+CHEN W,LIU X M,YU D Y,et al.Investigation on knowledge, atitude and practice among fe
+
+male mammary cancer patients in Changzhou prefecture[J].Henan Journal of Preventive Medicine,2015,26(4):259-263+268.DO1:10.13515/j.cnki.hnjpm.1006-8414.2015.04.007.
+
+[16]Hubbard RA,O'Meara ES,Henderson LM,et al. Multilevel factors associated with long-term adherence to screening mammography in older women in the US[J].Prev Med,2016,89(1):169-177.
+
+[17]王敏怡,刘华章,林国桢,等.社区医疗机构女性乳腺癌知信行现状及其相关因素研究[J].中国慢性病预防与控制,2018,26(5):329-333.DOI:10.16386/j.cjpccd.issn.1004-6194.2018.05.003.
+
+WANG M Y,LIU H Z,LIN G Z,et al.Knowledge,atitude and practice and related factors offemale breast cancer in community health service centers[J].Chinese Journal of Prevention and Control of Chronic Diseases,2018,26(5):329-333.DO1:10.16386/j.cjpccd.issn.1004-6194.2018.05.003.
+
+[18]赫捷,陈万青,李霓,等.中国女性乳腺癌筛查与早诊早治指南(2021,北京)[J].中华肿瘤杂志,2021,43(4):357-382.D01:10.3760/cma.j.cn112152-20210119-00061.
+
+HE J,CHEN W Q,LI N,et al.China guideline for the screening and early detection of female breast cancer(2021,Beijing)[J].Chinese Journal of Oncology,2021,43(4):357-382.DOI:10.3760/cma. j.cn112152-20210119-00061.
+
+[19]陈文娟,王邦龙,王忠,等.中国女性乳腺癌发病可控危险因素的 Meta 分析[J].深圳中西医结合杂志,2020,30(24):14-19.DO1:10.16458/j.cnki.1007-0893.2020.24.007.
+
+CHEN W J,WANG B L,WANG Z,et al.Modifiable Risk Factors of Breast Cancer among Chinese Women:a Meta-analysis[J].Shenzhen Journal of Integrated Traditional Chinese and Western Medicine,2020,30(24):14-19.DOI:10.16458/j.cnki.1007-0893.2020.24.007.
+
+[20]郭兰伟,张韶凯,刘曙正,等.河南省城市地区乳腺癌筛查依从性及其影响因素分析[J].实用肿瘤学杂志,2021,35(4):307-313.DOI:10.11904/j.issn.1002-3070.2021.04.004.
+
+GUO L W,ZHANG S K,LIU S Z,et al.Analysis of compliance with breast cancer screening and its influencing factors in urban areas of Henan province[J].Practical Oncology Journal,2021,35(4):307- 313.DOI:10.11904/j.issn.1002-3070.2021.04.004.
+
+[21]秦朝,李江,郑亚迪,等.中国城市乳腺癌高危人群筛查依从性及其相关因素分析[J].实用肿瘤学 杂志,2021,35(4):291-296.D0I:10.11904/j.issn.1002-3070.2021.04.001.
+
+QIN C,LI J,ZHENG Y D,et al.Analysis of screening compliance and related factors in high risk populations of breast cancer in Chinese cities[J].Practical Oncology Journal,2021,35(4):291- 296.DOI:10.11904/j.issn.1002-3070.2021.04.001.
+
+[22]孙琴芳,丁秀芳,方晟昀.湖州地区成年女性对乳腺癌筛查方法认知能力及影响因素调查[J].中国
+
+妇幼保健,2020,35(15):2881-2883.DOI:10.19829/j.zgfybj.issn.1001-4411.2020.15.047.
+
+[23]陈醒,周应芳,白文佩.绝经期激素替代治疗的相关肿瘤风险研究进展[J].国际妇产科学杂志,2016,43(5):489-492+496.
+
+CHEN X,ZHOU Y F,BAI W P.Research Progress of the Risk of Tumors of Menopausal Hormone Replacement Therapy[J].Journal of International Obstetrics and Gynecology,2016,43(5):489-492+496.
+
+[24]吴玉团,李欣,孔令泉,等.激素替代治疗期间定期行乳房检查发现早期乳腺癌一例[J].中华内分 泌外科杂志,2016,10(3):264.DOI:10.3760/cma.j.issn.1674-6090.2016.03.024.
+
+WU Y T,LI X,KONG L Q,et al.One case of early breast cancer diagnosed through regular breast examination during hormone replacement therapy[J].Chinese Journal of Endocrine Surgery, 2016,10(3):264.DOI:10.3760/cma.j.issn.1674-6090.2016.03.024.
+
+[25]汤志英,万芳.乳腺癌发病流行病学影响因素调查及疗效分析[J].中国妇幼保健,2021,36(10):23 49-2353.DOI:10.19829/j.zgfybj.issn.1001-4411.2021.10.051.
+
+[26]朱友梅,吴雪华,王瑾,等.甲乳外科门诊就诊女性乳腺癌知识认知度与乳腺自检现状[J].华南预 防医学,2021,47(5):571-574+578.D0I:10.12183/j.scjpm.2021.571.
+
+ZHU Y M,WU X H,WANG J,et al.Cognition of breast cancer knowledge and status of breast selfinspection mong women in thyroid and breast surgery clinic[J].South China Journal of Preventive Medicine,2021,47(5):571-574+578.D0I:10.12183/j.scjpm.2021.571.
+
+[27]张雪莹.苏州市 40 岁以上女性乳腺癌筛查现状及影响因素分析[J].现代预防医学,2018,45(14):2554-2557+2576.
+
+ZHANG X Y.Analysis of breast cancer screening and associated factors among Suzhou women aged over 40 years [J].Modern Preventive Medicine,2018,45(14):2554-2557+2576.
+
+[28]中华人民共和国国家卫生健康委员会.对十三届全国人大四次会议第8901建议的答复[EB/OL].(2021-12-15)[2022-4-20].htp://www.nhc.gov.cn/wjw/jiany/202112/0c05b5bc81cc4786975384fdb44cf7a4.shtml.
+
+[29]中华人民共和国国家卫生健康委员会.对十三届全国人大四次会议第 8774号建议的答复[EB/OL].(2022-01-20)[2022-4-20].htp://www.nhc.gov.cn/wjw/jiany/202201/7e05490d44d04ceebc11a2803eefd19e.shtml.
+
+[30]妇幼健康司.国家卫生健康委办公厅关于印发宫颈癌筛查工作方案和乳腺癌筛查工作方案的通知[EB/OL].(2022-01-20)[2022-4-20].http://www.nhc.gov.cn/fys/s3581/202201/cad44d88acca4ae49el2dab9176ae21c/files/8bb19eea375f4edf80d9d01a1030d053.pdf.
+
+[31]Smith RA, Saslow D, Sawyer KA,et al.American Cancer Society guidelines for breast cancer screening:update 2003[J].CA CancerJClin,2003,53 (3) :141-169.
+
+[32] 黄育北,佟仲生,陈可欣,等.《中国女性乳腺癌筛查指南》解读(精简版)[J].中国肿瘤临床,2019, 46(9):433-441.DOI:10.3969/j.issn.1000-8179.2019.09.581.
+
+HUANG Y B,TONG Z S,CHEN K X,et al.Interpretation of guideline for breast cancer screening in Chinese women Chinese[J].Journal of Clinical Oncology,2019,46(9):433-441.DOI:10.3969/ j.issn.1000-8179.2019.09.581.

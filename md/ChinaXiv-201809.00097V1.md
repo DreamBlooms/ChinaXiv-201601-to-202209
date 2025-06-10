@@ -1,0 +1,125 @@
+# 越南苦苣苔科植物国家级分布新纪录 一大苞漏斗苣苔
+
+NGUYEN Khang Sinh²，温放 1,3\*
+
+（1.广西喀斯特植物保育与恢复生态学重点实验室，广西壮族自治区中国科学院广西植物研究所，中国广西桂林 541006；2. Institute of Ecology and Biological Resources,Academy of Science and Technology,18Hoang Quoc Viet Road,Cau Giay,Ha Noi,Vietnam；3．中国苦苣苔科植物保育中心,中国科学院桂林植物园，
+
+中国广西 桂林 541006)
+
+摘 要：漏斗苣苔属 Raphiocarpus Chun 是分布于中国至中南半岛一带的小属，主要产于我国华南西南抵越南北部至中部，但之前两国共有分布的本属物种仅有3种。大苞漏斗苣苔R.begonifolius (Levl.)Burt一度被认为是中国的特有种，仅分布在广西西北部、贵州西南部、云南东南部和湖北西北部，未见在越南的报道。本文首次报道了越南植物区系中大苞漏斗苣苔的国家级分布新纪录，使得两国共有分布的本属物种上升到了4个，并着重讨论了大苞漏斗苣苔与其近缘种长筒漏斗苣苔 R.macrosiphon (Hance)Burtt 的区别特征，进一步完善了越南所分布的漏斗苣苔属植物检索表。同时根据两国的各自与联合野外考察工作对本种的濒危现状进行了讨论，为中越两国开展该种乃至本属植物的保育提供了直接的证据。凭证标本存于越南生物资源与生态研究所标本馆（HN)。
+
+关键词：越南北部，漏斗苣苔属，越南植物区系，中国植物区系中图分类号：Q949 文献标识码：A
+
+# Notes on taxonomy of Raphiocarpus begoniifolius (Lévl.) Burtt(Gesneriaceae) from Vietnam
+
+NGUYEN Khang Sinh², WEN Fang 1,3\*
+
+(1.Guangxi KeyLaboratoryof Plant Conservationand Restoration Ecology in Karst Terrain,Guangxi Instituteof Botany, Guangxi Zhuangzu Autonomous Region and Chinese Academy of Sciences, Guilin 541006, Guangxi, China; 2. Institute of Ecology and Biological Resources,Academy of Science and Technology,18 Hoang Quoc Viet Road,Cau Giay,Ha Noi, Vietnam; 3.Gesneriad Conservation Centerof China(GCCC),Guilin Botanical Garden, Chinese Academy of Sciences, Guilin 541006, Guangxi, China)
+
+Abstract: Raphiocarpus Chun is a small genus includes all species from southern and southwestern China to northern and central Vietnam. However, there are only three species can be found in both countries formerly. R. begonifolius (Levl.） Burtt was once considered as an endemic species of China,and it is distributed in China (northwestern Guangxi,southwestern Guizhou,southeastern Yunnan and northwestern Hubei),but there is not reported on flora of Vietnam. This species is here reported as the first record for the flora of Vietnam,so it makes the codistributed species number of Raphiocarpus in both countries has been risen from three to four.
+
+基金项目：越南科学技术工程院生态生物资源研究所项目（IEBR.DT.03/G2-18)；广西自然科学基金（2015GXNSFBB139004)；广西喀斯特植物保育与恢复生态学重点实验室基金（17-259-23)；中国科学院科技服务网络计划项目（KFJ-3W-No1）[Supported by the Program of Institute ofEcology and Biological Resources, VAST(IEBR.DT.O3/G2-18); the Natural Science Foundation ofGuangxi (2O15GXNSFBB139004)； the Guangxi Key Laboratory of Plant Conservation andRestoration Ecology in Karst Terrain (17-259-23）；the STS Program of the Chinese Academy ofSciences (KFJ-3W-No1)]。
+
+作者简介：NGUYEN Khang Sinh (1980-),male,Doctor in Plant Biology, Major in Systematics，Evolution andConservation, (E-mail) nskhang @ gmail.com.  
+\*通信作者：温放，博士，研究员，从事植物分类学、园林植物与观赏园艺、植物保育与保护生物学等方面研究，(E-mail) wenfang760608@139.com。
+
+Notes on taxonomy and distinguishable discusson from its congener, R. macrosiphon (Hance) Burtt, are provided. The further improved key to species of Raphiocarpus in Vietnam is showed here.According to the field studies by both countries,respectively and/or jointly，we also discussed the endangered status of $R .$ begoniifolius so that it furnishes direct evidence for the conservation of this species and,even,this genus in China and Vietnam. The voucher specimens are hold in Herbarium of Institute of Ecology and Biological Resources (HN).
+
+Keywords: North Vietnam, Raphiocarpus Chun, flora of Vietnam, flora of China
+
+# 1. Introduction
+
+The genus, Raphiocarpus Chun, originally described as a monotypic genus (Chun, 1946). It was merged into Didissandra C.B.Clarke by Wang (198O) after three decades. However, the results showed that the Sino-Vietnamese species of Didissandra are not congeneric with the Malesian species (which themselves had to be split into two genera, Didissandra and Ridleyandra A.Weber & B.L.Burt） (Weber & Burtt， 1998). Thus，according to presently understanding, Raphiocarpus should include allspecies from China and Vietnam formerly placed in Didissandra. Further up, these species of the redefined Raphiocarpus are generally very ill-known and are quite possible that those species do not form a homogeneous group (Weber & Burt 1998,1997; Sontag & Weber,1998; Vitek et al,1998). In other words,the genus may prove artificial, when the species (and adjacent genera) are better known (Weber & Skog, 2007).
+
+At present， Raphiocarpus with fourteen currently recognized species， has its main distribution from southern and southwestern China to northern and central Vetnam (Li & Wang, 2004; Zhang et al, 2010; Pellegrin，1930; Ho,2000; Phuong,2005;Phuong & Xuyen，2010; Phuong et al, 2O12). Raphiocarpus petelotii (Pellegr.） B.L.Burt and $R$ ，sinicus Chun, do also occur in Vietnam (Li & Wang, 2004; Phuong,2005; Phuong & Xuyen,201O). The distribution area of $R$ longipedunculatus (C.Y. Wu ex H.W.Li) B.L.Burtt, R. maguanensis Y.M.Shui & W.H.Chen and R. jinpingensis W.H.Chen & Y.M.Shui in Chinese Yunnan (Pingbian, Maguan, Jinping,Lüchun) are very close to the border of Vietnam and these species might be discovered in Vietnam in the future (Li & Wang,2004; Wei et al, 201O; Zhang et al, 2010). Recently，we recognized and identified some species of this genus from the specimens of Gesneriaceae in the Hanoi Herbarium (HN).The‘Checklist of plant species of Vietnam’ includes five species of Didissandra C.B.Clarke, now Raphiocarpus,in Vietnam. They are Raphiocarpus annamensis (Pellegr.） B.L.Burtt, R. asper (Drake) B.L.Burtt, R. clemensiae (Pellegr.） B.L.Burtt, R. evrardii (Pellegr.） B.L.Burtt， R. petelotii, R. sinicus and R. tamdaoensis V.X.Phuong， D.T.Xuyen &
+
+Y.G.Wei (Phuong,2Oo5; Phuong et al, 2012). After consulting relevant literature (Pellegrin,1930; Burtt1954; Burt & Tan,1984; Wang & Li,1992,1998; Ho,2000; Weber,2004; Wei et al,2010; Zhang et al, 2010,Phuong & Xuyen, 2010; Phuong et al, 2012), as well as herbarium specimens in Vietnam and China,we considered that our unknown species from Vietnam should be $R$ begoniifolius (Lévl.) Burtt, which is new record to Vietnam.
+
+# 2. Results and analysis
+
+# 2.1 Taxonomy and specimens' information
+
+Raphiocarpusbegoniifolius(Lévl.）BurttinBeitr.Biol.Pflanze7O:173. 1998.—Didissandra begoniifolia Lévl. in Repert. Sp.Nov. 11: 495.1913;Burtt in Not. Bot. Gard. Edinb.23(3): 100.1960; Lauener & Burt in 1. c.38(3): 467.1980; K.Y. Pan in W. T. Wang, Fl. Reip. Pop. Sin. 69: 231, tab. 59: 5-9.1990; W. T. Wang et al. in Z. Y. Wu & Raven,Fl. China 18:282.1998.—Chirita chamydata W. W. Smith in Not. Bot. Gard. Edinb. 10: 170. 1918.- Loxostigma begoniifolium (Lévl.) Anthony in 1. c.18: 199.134. Type: CHINA. Yunnan, Red River from manmer. J. Esquirol 972 (E, holo!).
+
+Additional specimens examined: Vietnam: Ha Giang prov.，Quan Ba distr.， Cao Ma Po comm.，Vang Cha Phin vill.，subtropical evergreen broad-leaved forest on silicate mountain, around point $1 0 4 ^ { \circ } 4 9 ^ { \prime } 0 5 . 4 ^ { \prime \prime } \mathrm { E }$ ， $2 3 ^ { \circ } 0 5 ^ { \prime } 2 4 . 3 ^ { \prime \prime } \mathrm { N }$ ，elevation of 1 650 -1 700 m a.s.l. perennial herb about $3 0 { \mathrm { - } } 6 0 ~ { \mathrm { c m } }$ tall, flower purple,common in humid shaded areas of mountain slopes,Nguyen Sinh Khang, Nguyen Quang Hieu & Tu Bao Ngan, NSK 977, NSK 981, September 14, 2017.
+
+# 2.2Distribution and conservation
+
+Ecology: Grows on wet humus-soil or crevices of rocks covered with humus under thickets and subtropical evergreen broad-leaved forest on slopes,at an elevation of $1 ~ 2 0 0 { - } 2 ~ 1 0 0 ~ \mathrm { m }$ above sea level. Flowering: August - September; Fruiting: September - October.
+
+Distribution: CHINA(Guangxi, Yunnan, Guizhou and Hubei) and new to VIETNAM (Ha Giang prov., Quan Ba distr., Cao Ma Po comm.)
+
+Conservation status in China and Vietnam: Because the populations found in Guangxi, Guizhou, Yunnan and Hubei of China and North Vietnam,are growing well with abundant individuals in different populations,we estimate that this species will not easily become extinct. During our field work,although we found that farmlands and fruit plantations were expanding in these areas, which would result in deforestation, habitat lossand fragmentation of this species, the individuals and populations of $R$ .begoniifolius are abundant in two countries. Thus, following the IUCN (2O17） red list categories and criteria, the conservation status of this species is Least Concern (LC).
+
+# 2.3 Notes on taxonomy and the key of Raphiocarpus in Vietnam
+
+The vegetative organs of Raphiocarpus begoniifolius (Levl.） Burtt look similar to $R .$ （20 macrosiphon (Hance) Burtt if there is no flower, but the flowers of the latter are orange-red and are entirely different from the pale-purple or rusty lilac to purple flowers of the former. After a new species of Raphiocarpus,R. tamdaoensis V.X. Phuong， D.T. Xuyen & Y.G. Wei， was published by Phuong et al(2O12) and this new record was confirmed,there are nine species of Raphiocarpus in Vietnam in all Here we present the further promoted identification Key to all known species of Raphiocarpus occurring in Vietnam.
+
+# 3 Acknowledgments
+
+Authors would like to thank Prof.Wei Yi-Gang from Guilin Botanical Garden and Dr. Michael Moller from Royal Botanical Garden Edinburgh to identify and confirm those specimens of Raphiocarpus begoniifolius.
+
+# 参考文献：
+
+BURTT BL,1954. Studies in the Gesneriaceae of the old world I. General introduction, I. Types and lectotypes of certain genera and groups of lower rank[J]. Not R Bot Gard Edinb,21: 185-208.
+
+BURTT BL， TAN K,1984. Studies in the Gesneriaceae of the old world XLVIII. Calcium accumulation and excretion in Paraboea[J]. Notes R Bot Gard Edinb,41: 453-456.   
+CHUN WY, 1946. Gesneriacearum plantae novae Sinicarum[J]. Sunyatsenia 6(3\~4): 271-304.   
+HO PH,20oo. Didissandra (Gesneriaceae),An ilustrated flora of Vietnam [M]. Ho Chi Minh City: Tre Ho Chi Minh City Press, 3:16-17 (In Vietnamese).   
+LI ZY, WANG YZ, 2OO4. Plants of Gesneriaceae in China[M]. Zhengzhou: Henan Science and Technology Publishing House:80-84.[李振宇，王印政，2004．中国苦苣苔科植物[M]．郑 州：河南科学技术出版社：80-84.]
+
+PELLEGRINF,1930.Gesnéracées [M]//LECOMTEH,HUMBERTH, GAGNEPAINF.Flore générale deL'Indo-chine.Paris:Masson,4:487-565.
+
+PHUONG VX, 2005. Checklist of plant species in Vietnam[M]. Ha Noi: Agriculture Press,3: 235-246.
+
+PHUONG VX, XUYEN DT,2010. A new occurrence species Didissandra C.B. Clarke (Gesneriaceae Dumort） of the flora of Vietnam[J]. Tap Chi Sinh Hoc,32(2):60-62 (In Vietnamese).
+
+PHUONG VX， XUYEN DT，WEN F, et al, 2012. Raphiocarpus tamdaoensis sp. nov. (Gesneriaceae) from Vietnam[J]. Nordic JBot, 3O(6): 696-699.
+
+SONTAG S, WEBER A,1998. Seed coat structure in Didissandra, Ridleyandra and Raphiocarpus (Gesneriaceae)[J]. Beitr Biol Pfl, 70 (2-3): 179-190.
+
+VITEK E,WEBER A,BURTT BL，1998. Generic position of the species hitherto referred to Didissandra (Gesneriaceae)[J]. Beitr Biol Pfl,70(2-3): 275-291.
+
+WANG WT,1980. Notulae de Gesneriaceis Sinensibus (Continued)[J].Phytologia ，45(5):361-380.[王文采，1980．中国苦苣苔科植物的研究（续）[J].Phytologia,45(5):361-380.]WANG WT, 1990. Didissandra[M] // WANG WT. Flora Reipublicae Popularis Sinicae . Beijing:Science Press,69:227,229-233.[王文采，1990.漏斗苣苔属[M]// 王文采．中国植物志.北京：科学出版社，69：227,229-233.]
+
+WANG WT, LI ZY, 1992. Genus novum Gesneriaceae e Vietnam[J]. Acta Phytotax Sin, 30 (4): 356-361.[王文采，李振宇，1992．越南苦苣苔科一新属[J]．植物分类学报，30(4): 356-361.]
+
+WANG WT, PAN KY,LI ZY,1998. Gesneriaceae[M] // WU ZH,RAVEN PH. Flora of China. Beijing: Science Press, St.Louis: Miss. Bot. Gard.Press,18: 244-499.[王文采，潘开玉，李 振宇，1998.苦苣苔科[M] //吴征镒，RAVENPH.Flora of China.北京：科学出版社,St. Louis: Miss. Bot. Gard. Press,18: 244-499.]
+
+WEBER A,BURTT BL,1998.Didissandra: redefinition and partition of an artificial genus of Gesneriaceae[J]. Beitr Biol Pfl, 70(2-3): 153-177.
+
+WEBER A, BURTTBL,1997.Revision of the genus Didissandra (Gesneriaceae). Beitr. Biol. Pfl. 70.191-223.
+
+WEBER A, SKOG LE,2OO7 onw. The genera of Gesneriaceae.Basic information with ilustration of selected species. Ed. 2. http://www.genera-gesneriaceae.at.
+
+WEI YG, WEN F, MOLLER M, et al, 2010. Gesneriaceae of South China[M]. Nanning: Guangxi Science and Technology House:1-777.[韦毅刚，温放，MOLLER M,et al，2010.华南苦苣苔 科植物[M]．南宁：广西科学技术出版社：1—777.]   
+ZHANG MD, SHUI YM, CHEN WH, et al, 2010. Raphiocarpus maguanensis (Gesneriaceae), a new species from China[J]. Ann Bot Fennici, 47: 71-75.
+
+# Identification key to species of Raphiocarpus occurring in Vietnam
+
+1. Calyx separate,calyx lobes deeply divided to base or near base
+
+2. Calyx glabrous
+
+3. Peduncle about 5 cm long; corolla bluish green, 3 - 4 cm long .......1. R. annamensis 3.Peduncle very short, less than $1 \mathrm { { c m } }$ long; corolla whitish green or reddish, $1 2 - 1 5 \mathrm { m m }$ long.... .2.R.sinicus
+
+2. Calyx pubescent.
+
+4. Bract 2.O - 3.0 cm long; corolla whitish purple to violet....... ...3.R.begoniifolius   
+4.Bract less than $1 . 0 \mathrm { c m }$ long;corolla yellow, orange-red or white. 5.Ovary glabrous 6.Peduncle $1 0 - 2 0 \mathrm { c m }$ ; corolla yellow, $2 . 5 - 3 . 0 \mathrm { c m }$ ； fruit6-7cm long.. .4.R. asper 6.Peduncle $1 . 5 - 4 . 5 \mathrm { c m }$ ; corolla orange-red, $6 - 7 \mathrm { c m }$ ; fruit $3 . 0 - 5 . 0 \mathrm { c m }$ long. ..5.R.macrosiphon
+
+5. Ovary pubescent
+
+7. Cymes 1-flower; peduncle $3 . 0 - 5 . 0 \mathrm { c m }$ ; corolla yellowish, 3.0 - 4.0 cm long... .6.R.tamdaoensis 7. Cymes 3-5 flowers; peduncle $7 . 0 - 9 . 0 \mathrm { c m }$ long;corolla white,with violet longitudinal limes at throat, 4.O- 5.0 cm long .......7. R. evrardii 1. Calyx united at base,with tube funnel or cup form.
+
+8.Leave pubescent; calyx tube funnel form, $1 5 \mathrm { m m }$ long, calyx   
+lobe $5 \mathrm { m m }$ long;corolla yellowish, 3 $: . 5 - 4 . 5 \mathrm { c m }$ long.... 8. R. petelotii 8.Leave glabrous; calyx tube cup form, $6 - 9 \mathrm { m m }$ long, calyx lobe   
+$3 \mathrm { m m }$ long; corolla white, 2.5 -3.0 cm long. .........9.R. clemensiae
+
+![](images/ef672c1975a3503a9db9ac90023bbec65a4328f20274907310df028d7e98b91c.jpg)
+
+Note: A. Habitat; B. Habit and cymes; C. Frontal view of cymes; D. Lateral view of cymes; E. Frontal view of corolla in natural status.(Photoed by Dr.Khang Sinh Nguyen) Fig.1 Raphiocarpus begoniifolius (Lévl.) Burtt
+
+![](images/c4adcf03cb71ef907ccb0f322bbf3ac8b02fccab17c940ab0c48ec99b98c0447.jpg)
+
+Note: A. Abaxial and adaxial views of leaves; B, C. Cymes; D. Abaxial surface of bract; E. Adaxial surface of bract; F.Flower with corolla and calyx lobes; G.The secondary bracts; H. Lateral view of corolla and calyx lobes; I. Opened coroll showing stamens, staminodes,and pistil; J. A pair of stamens; K. Crossed section of ovary. (Photoed by Dr. Khang Sinh Nguyen) Fig.2 Exploded view of Raphiocarpus begoniifolius organs

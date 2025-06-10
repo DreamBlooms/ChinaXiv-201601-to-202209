@@ -1,0 +1,229 @@
+# 水稻关键化感物质稻壳酮的研究综述
+
+林娴慧1，庞勇滔²，卢凤来².3，丁朝晖1,²，曾任森1,2，宋圆圆1\*（1.福建农林大学 生命科学学院，福建 福州 350002；2.华南农业大学 热带亚热带生态研究所，广东 广州510642；3.广西植物研究所广西植物功能物质研究与利用重点实验室，广西桂林 541006)
+
+摘要：杂草给水稻（Oryza sativaL.）生产带来严重损失，利用水稻自身化感作用被认为是对环境友好的杂草控制方法。因此，研究水稻的化感作用及其关键化感物质具有重要意义。稻壳酮A和B是水稻抑制杂草的主要化感物质，其中稻壳酮B也是至今发现最高效的天然除草剂之一，具有很好的应用潜力。稻壳酮 B可以从水稻根系释放到土壤中抑制周围稗草等植物的种子萌芽和生长。稻壳酮 B 的浓度大于3 nmol·mL时，就能够抑制水芹和莴苣的根和胚轴生长。同时，稻壳酮A和B是水稻重要的植保素，可有效抑制水稻病原菌比如稻瘟病菌（Magnaporthe grisea）等。此外，稻瘟病菌感染也可诱导水稻合成更多的稻壳酮。该文主要对国内外有关水稻化感物质稻壳酮的性质、分布状况、化感作用、生物合成途径、检测方法、人工合成方法和影响因素等方面的研究进行了综述。在此基础上进一步探讨稻壳酮研究过程中简捷检测方法、诱导因子和人工合成等问题。
+
+关键词：水稻，化感物质，稻壳酮，植保素  
+中图分类号：S451；Q946.8文献标识码：A 文章编号：  
+DOI: 10.11931/guihaia.gxzw201801016
+
+# Review on momilactones of key allelochemicals in rice allelopathy
+
+LIN Xianhui1, PANG Yongtao²,LU Fenglai2.3,DING Chaohui1,2, ZENG Rensen1,2, SONG Yuanyuan1\*   
+(1 College ofLife Sciences,Fujian Agricultureand Forestry University,Fuzhou 3502,Fujian,China;² Instiute   
+of Tropical $\mathcal { k }$ Subtropical Ecology,South China Agricultural University,Guangzhou 510642, Guangdong,China;   
+3Guangxi Key LaboratoryofFunctional Phytochemicals Research and Utilization,Guangxi Institute of Botany, Guilin 541006,Guangxi, China)
+
+Abstract: Weeds in paddy fieldcause severe damage to rice(Oryza sativa L.) production. Use of rice allelopathy isconsidered the most environmentally friendly approach for weed control.Therefore，understanding rice alleopathy and its key allelochemicals has particularly ecological significance.Momilactones Aand B are key allelochemicals produced by rice plants,and momilactone $\mathbf { B }$ is the most effective natural phytotoxin with great potential to be usedas natural herbicides.Momilactone B can be released into rice rhizosphere and inhibit the germination and growth of barnyardgrassand other plants. It inhibited the root and hypocotyl growth of seedlings of cress and lettuce at concentrations ${ \geq } 3 ~ \mathrm { n m o l { \cdot } m L ^ { - 1 } }$ .Moreover, momilactone A and B are phytoalexins showing antifungal activity against blast pathogen Magnaporthe grisea.This paper reviewed important aspects in various fieldsof momilactoneresearch,including itscharacteristics,allelopathy,biosynthesis pathwaydetection,sythesis method and influencing factors. Some important issues in momilactone research including rapid and sensitive detection,induced factors and chemical synthesis are also discussed.
+
+Key words:rice,allelochemical,momilactones,phytoalexin
+
+水稻是世界上最为重要的粮食作物之一，也是近一半世界人口的主要营养来源。随着世界人口的不断增长，水稻生产的可持续发展成为当今世界农业研究的重要课题。水稻田杂草滋生，危害严重，尤其是近年来随着气候和栽培等方式的变化，稻田杂草群落发生演替，恶性杂草种群危害加剧，成为水稻高产、优质、高效生产的主要障碍之一（王强等，2000；林文雄等，2006）。对比运用严重破坏生态环境的除草剂控制杂草，利用作物化感作用控制杂草是一个前景广泛的新途径。这种方法既没有向生态系统中输入难降解的化学物质，又没有带来诸如劳力成本增加和食品安全等问题。因此，利用作物的化感作用控制农田杂草被视为21 世纪发展可持续农业的重要技术之一（林文雄等，2006；Dayan&Duke，2014）。
+
+近年来科学家们一直努力寻找具有化感作用的水稻品种，已从种质资源库中筛选出数千个具有化感作用的水稻品种（王大力，1998；Chou，1992，1998；Dilday etal，1998）；同时，科学家们也一直在探讨水稻化感作用中的关键化感物质（Kato-Noguchi etal，2002；Sealet al，2004；Xu et al，2012；Kato-Noguchi&Peters，2013；Niu etal，2017）。水稻化感物质有酚酸类、萜类、长链脂肪酸、甾类、糖甙和黄酮类等化合物（邓国富和李杨瑞，2006）。近年有部分研究，包括近代遗传学证据，均表明萜类植保素稻壳酮（Momilactones）是活性最强的化感物质，在水稻化感作用和诱导抗病中起着关键作用。稻壳酮包括稻壳酮A、B、D 和E，其中稻壳酮B 的作用更为显著，一些水稻品种每天每株能产生 $2 { \sim } 3 ~ \mathrm { m g }$ 稻壳酮B,这足以抑制稻田周边杂草的发芽和生长（Kato-Noguchi&Peters，2013）。因此，稻壳酮被认为有希望开发成为新的天然除草剂（Xuetal，2012；Dayan&Duke，2014）。
+
+鉴于水稻在农业发展中的重要性，其化感活性一直受到广泛研究，而稻壳酮作为化感活性最强的化感物质，其生物活性已取得较多研究成果，但由于含量过低、检测响应能力较弱，阻碍了其化感作用的深入研究。为此，本文在对稻壳酮的性质、合成、分布和生物活性及影响因素等综合分析的基础上，进一步总结了稻壳酮检测及人工合成的方法，以探讨稻壳酮研究过程中简捷的检测方法、诱导因子和人工合成等问题，旨在为该领域今后的研究方向提供参考。
+
+# 1稻壳酮的来源及其分布
+
+# 1.1稻壳酮的发现及其性质
+
+1973 年，稻壳酮A和B最先从水稻壳里面分离出来，并作为种子休眠抑制剂（Kato etal，1973；Takahashietal，1976）。1981年，稻壳酮A和B在水稻的叶片及秸秆中被分离获得，并定义为植保素（Cartwright et al，1981）。Nozakiet al（2007）首次在水稻以外的苔藓植物大灰藓（Hypnum plumaeforme Wils.）中分离出稻壳酮A和B（Momilactones AandB）。最新研究中，Choetal（2015）在水稻的根部分离得到稻壳酮D 和稻壳酮E。目前关于稻壳酮D和E的研究不多，下面着重对稻壳酮A和B的有关研究进行综述。
+
+自然条件下，稻壳酮的存在性质主要包括物理和化学性质：
+
+（1）物理性质：稻壳酮A 和B均为无色针状固体，易溶于乙醛、氯仿，可溶于甲醇，难溶于水，紫外照射下无荧光。稻壳酮A熔点 $2 3 8 { - } 2 3 9 \ \mathrm { ^ circ C }$ ，稻壳酮B熔点 $2 4 3 { - } 2 4 5 ^ { \circ } \mathrm { C }$ 。而稻壳酮D则为白色粉末，稻壳酮E为黄色无定形粉末（Choetal，2015）。
+
+（2）化学性质：稻壳酮A和B常温状态下稳定。薄层色谱层析TLC检测过程中，可发生硫酸显色反应，炭化后 $2 5 4 \mathrm { n m }$ 紫外照射下，稻壳酮A呈淡黄色，稻壳酮B呈亮黄色;同时，两者可发生香草醛硫酸显色反应，即使化合物中羧基脱水，增加双键结构，再经双键位移，双分子缩合等反应生成共轭双键系统，在酸作用下形成阳碳离子盐而显色，反应后稻壳酮A呈蓝黑色，稻壳酮B呈粉蓝色。 $2 5 4 \mathrm { n m }$ 紫外照射下，稻壳酮A呈橙黄色，稻壳酮B呈黄色。图1为稻壳酮A、B、D和E的化学结构。
+
+![](images/b4bcdb9e063f9fba698b01b2aa1f9b4dfa1860c52a4bdfe4905697a91050bc0d.jpg)  
+图1稻壳酮A、B、D和E化学结构图  
+Fig.1Structure of momilactone A(1), B(2), D(3) and E(4)
+
+# 1.2稻壳酮的生物合成
+
+水稻基因组中存在着两类萜烯类植保素合成基因，这在植物界中十分罕见（Osboum＆Field，2009）。由图2可见，稻壳酮是以焦磷酸香叶基香叶酯（GGPP）作为前体衍生而来的（Toyomasuetal，2014），GGPP由OsCPS4（OsCYC1）基因调控的syn-CDP酶催化生成顺式-柯巴基二磷酸（syn-CDP）。syn-CDP由OsKS4基因（稻壳酮合成的关键基因，位于第4号染色体上）编码的9β-海松-7,15-二烯合酶催化形成9β-海松-7,15-二烯（9β-pimara-7,15-diene）（Otomo et al，2004；Wilderman et al，2004），随后由CYP99A2、CYP99A3等细胞色素P450氧化酶诱导合成稻壳酮（Shimuraetal,2007；Wang etal,2011）。可以说稻壳酮合成途径一直是科学家的研究热点。
+
+![](images/562c9da456ec1c28fb6622c7022621420dd4cf6d7d56b092eaa98b0d6393fbbf.jpg)  
+图2稻壳酮A和B的生物合成途径  
+Fig.2Biosynthetic pathway of momilactone A and B
+
+# 1.3稻壳酮的分布状况
+
+# 1.3.1稻壳
+
+Chung et al（2005）在 $1 0 ~ \mathrm { k g }$ 的水稻谷壳能够分离得到 $1 5 0 ~ \mathrm { m g }$ 稻壳酮A、 $1 0 0 ~ \mathrm { { m g } }$ 稻壳酮B，而且研究发现成熟期的水稻颖壳是水稻植株中稻壳酮含量最高的组织部位。
+
+# 1.3.2水稻叶子和秸秆
+
+稻壳酮A和B从水稻的叶片及秸秆中分离获得后（Cartwright etal，1981），后续更多研究集中在水稻叶子中稻壳酮的合成与诱导。
+
+# 1.3.3水稻根分泌物
+
+最近的研究表明，水稻也通过根分泌向外界释放稻壳酮，进而抑制稗草的生长。水稻品种Koshihikari 根分泌物稻壳酮含量较高，稻壳酮A含量为 $1 . 4 5 \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 }$ ，稻壳酮B含量达到 $3 . 8 4 \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 }$ （Kato-Noguchi et al，2010）。
+
+# 1.3.4其它植物
+
+除水稻外，大灰藓（HypnumplumaeformeWils.）是首先被发现能够产生稻壳酮A和B的生物。苔藓干重中稻壳酮A和B的含量分别为 $5 8 . 7 \mu \mathrm { g } \cdot \mathrm { g } ^ { - 1 }$ 和 $2 4 . 3 ~ { \mu \ g \cdot \mathrm { g } ^ { - 1 } }$ （Kato-Noguchi &Kobayashi，2009）。对水稻伴生杂草稗草（Echinochloacrus-galli）的全基因组测序研究发现，稗草中也存在能够合成稻壳酮A的相关基因（Guo etal，2017），暗示了稗草也能和水稻一样向周围环境中释放稻壳酮，并利用稻壳酮的抑菌活性防御病原微生物入侵。
+
+# 1.4稻壳酮含量的影响因素
+
+目前研究证实影响稻壳酮A和B含量的因素包括以下几种：
+
+（1）品种研究发现，韩国普通水稻品种稻壳的稻壳酮总含量（包括稻壳酮A和B的含量）仅仅
+
+只有 $4 . 5 ~ \mu \mathrm { g } { \cdot } \mathrm { g } ^ { - 1 }$ ，而水稻品种 Baekna 的稻壳中稻壳酮 A 含量高达 $3 4 . 7 ~ { \mu \mathrm { g } } { \cdot } \mathrm { g } ^ { - 1 }$ ，品种Baekgwangok 的稻壳中稻壳酮B含量为 $3 7 . 8 \mu \mathrm { g } \cdot \mathrm { g } ^ { - 1 }$ （Chung et al，2002）。
+
+# （2）器官
+
+对水稻的根、嫩芽、叶子等器官进行稻壳酮含量检测，发现含量最多的器官为嫩芽，每株水稻嫩芽中稻壳酮A含量高达 $1 . 7 \mathrm { n m o l }$ ，而其根部含量仅仅为 $0 . 5 3 \mathrm { n m o l }$ （Kato-Noguchiet al，2008a）。
+
+# （3）生物因子诱导
+
+Zhao etal（2005）报道稗草能够诱导水稻稻壳酮含量提高。Kato-Noguchi（2011）发现稗草根系浸出物也能够诱导稻壳酮含量增加，增强水稻化感作用。
+
+Kanno etal（2012）报道白背飞虱（Sogatella furciferaHorvath）能够诱导水稻茉莉酸、水杨酸和稻壳酮的积累。Mahmood et al（2014）报道草食昆虫和昆虫唾液均可增加水稻叶片上的酚酸类化合物和稻壳酮的生物合成。
+
+此外，稻瘟病接种水稻叶片后，可增加稻壳酮的积累，而且稻瘟病非亲和性水稻品种的稻壳酮积累要比亲和性水稻品种要迅速得多（Umemura et al，2003；Hasegawa et al，2010）。
+
+# （4）非生物因子诱导
+
+在紫外照射处理下，无论是水稻的嫩芽还是根部产生的稻壳酮B都显著增加，而且随着处理时间的增长，释放量也显著增加，特别是对嫩芽进行 $9 0 \ \mathrm { m i n }$ 紫外照射处理后，稻壳酮B 释放量增加31.8 倍（Kato-Noguchi etal，2007）。
+
+使用 $\mathrm { C u C l } _ { 2 }$ 、 $\mathrm { F e C l } _ { 2 }$ 两种化合物对苔藓处理，重金属离子显著促进苔藓中稻壳酮的生物合成，铜离子的诱导效果更强（Kato-Noguchi&Kobayashi，2009）。另外，非金属元素硅同样能够增加水稻叶片稻壳酮的含量，同时表现出对稻瘟病的抗性（Rodrigues etal，2004）。
+
+茉莉酸作为一种植物防御信号激素（MacKintosh et al，1994；Rakwal etal，2001;Glazebrook，2005；Halim etal，2006）可增加水稻化感作用的活性（Bietal，2007）。茉莉酸和斑螯素，是一种蛋白质丝氨酸/苏氨酸磷酸酶抑制剂，已被证明在植物中能模拟诱导以及激活防御反应（MacKintosh etal，1994；Rakwal etal，2001），增加稻壳酮A和B的分泌率（Kato-Noguchi etal，2007）。外源水杨酸对水稻根部处理可有效地促进稻壳酮和其他水稻植保素（oryzalexins）的积累（Daw et al，20o8）。冠菌素（coronatine）同样可以诱导稻壳酮在水稻叶部的积累（Tamogami&Kodama，2000）。
+
+# 2稻壳酮的化感及抗菌作用
+
+稻壳酮A和B都具有很强的化感作用活性，但稻壳酮B的化感活性比稻壳酮A更强（Kato etal，1973；Takahashietal，1976）。浓度为 $1 0 \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 的稻壳酮A可以有效地抑制水芹的胚轴和根的成长（Kato-Noguchi，2008a）。相比之下，稻壳酮B的浓度仅需 $\geqslant 3$ nmol: $\mathrm { \ m L ^ { - 1 } }$ 即能抑制水芹和莴苣的根和胚轴生长，其抑制能力可达到脱落酸（ABA）的抑制效果，且随稻壳酮B 浓度的增大而增强(Kato-Noguchi,2004)。当稻壳酮B 浓度低至 $1 \mathrm { m g } { \cdot } \mathrm { L } ^ { - 1 }$ 时能够抑制浮萍生长，而当其浓度为 $2 0 \mathrm { m g \cdot L } ^ { - 1 }$ 时可以彻底抑制千金子（LeptochloachinensisL.）、反枝苋（Amaranthus retroflexus L.）和异型莎草（Cyperus difformisL.）三种杂草生长(Chung etal，2005)。在水稻整个生命周期中平均每一株水稻向周围环境释放 $1 0 0 \mu \ g$ 稻壳酮B（Kato-Noguchi& Takeshi，2005）。此外，从遗传证据上，Xu etal（2012）则应用反向遗传学，通过敲除双萜合成酶OsCPS4和OsKSL4，证明水稻稻壳酮参与了化感作用，可以抑制广泛存在的大田杂草稗草的生长，为稻壳酮的化感作用提供了有力的遗传学证据。
+
+然而，除了化感活性，稻壳酮还被认为是水稻中抑菌活性较强且含量高的二萜类植保素（Diterpenoid phytoalexins），与植物微生物防御相关。稻壳酮A和B对水稻稻瘟病菌和水稻纹枯病菌两种真菌的最低抑制浓度（MIC）值均为 $1 2 . 5 \mu \mathrm { g } \cdot \mathrm { m L } ^ { - 1 }$ ，稻壳酮B对小麦赤霉病菌（Blumeria graminearum）和青瓜枯萎病菌（Fusarium oxysporum sp.cucumebrium Owen）的MIC值低至 $6 . 2 5 \mu \mathrm { g } \cdot \mathrm { m L } ^ { - 1 }$ （夏小美，2013)。已有研究表明，稻壳酮合成缺陷突变体Oscps4-ko对水稻白叶枯病的敏感性显著低于野生型（Luetal，2018）。
+
+实际上，稻壳酮也是水稻诱导型抗菌物质(王巧兰和郭刚，2005)，当水稻受到稻瘟病菌感染时，同时也会诱导稻壳酮的产生，而且稻壳酮A的积累量较稻壳酮B更多（Hasegawa etal，2010）。除了病原菌感染，紫外光辐射也会诱导水稻中稻壳酮A和B的产生及内源性浓度的增加（Cartwright etal，1981）。
+
+除此以外，稻壳酮B还被视作一种潜在的人类结肠肿瘤化疗药物（Kimetal，2007）。
+
+![](images/dedf94887e92e5d0ef20c11734f84e89bb1c58ad263413158feffb55a381632a.jpg)  
+图3稻壳酮的化感作用和抗菌作用  
+Fig.3Allelopathic potential and antifungal activity of momilactones
+
+# 3稻壳酮的检测与人工合成
+
+# 3.1内源稻壳酮含量检测
+
+由于稻壳酮A和B在水稻中含量较低，而且对化学检测仪器的检测响应能力弱。此外，样品取样量大，样品前处理复杂，耗时多，化学检测仪器要求高，所以目前研究中有关样品处理和检测的方法较少。
+
+目前常用的前处理方法主要依据 Kato-Noguchi& Takeshi（2005）提供的方法，具体操作步骤如下：取 $1 0 \mathrm { { g } }$ 鲜重水稻幼苗，加入 $1 0 0 ~ \mathrm { { m L } }$ 的 $80 \%$ （V/V）甲醇溶液浸泡，双层滤纸抽滤得滤液，滤渣再以 $1 0 0 ~ \mathrm { { m L } }$ 的甲醇浸泡，抽滤，合并滤液， $3 5 \ \mathrm { { ^ \circ C } }$ 旋蒸，得到含水混合物。随后把含水混合物加入内径 $2 \mathrm { c m }$ 、高 $1 5 \mathrm { c m }$ 的HP20大孔吸附树脂柱中，分别用 $2 0 0 ~ \mathrm { m L }$ 蒸馏水洗脱、 $2 0 0 \mathrm { m L } 2 0 \%$ （V/V）甲醇溶液、 $2 0 0 \mathrm { \ m L 8 0 \% }$ （V/V）甲醇溶液和 $3 0 0 ~ \mathrm { m L }$ 甲醇洗脱，旋蒸甲醇洗脱液。得到的甲醇馏分用 $2 \mathrm { m L } 5 0 \%$ （V/V）甲醇溶液溶解，加入 $\mathbf { C } _ { 1 8 }$ 反相硅胶固相萃取小柱中，加入 $1 5 \mathrm { \ m L } 5 0 \%$ （V/V）甲醇溶液洗脱除杂，然后用 $2 0 ~ \mathrm { m L }$ 甲醇洗脱，旋蒸，得到的馏分用 $70 \%$ 甲醇溶液溶解，仪器测定待用。
+
+目前研究中采用的检测仪器有：LC-MS/MS（Tamogami& Kodama，2000）HPLC-APCI-MS/MS（Lee et al, 2002）、 HPLC（Kato-Noguchi et al，2002）、GC/MS（Chunget al，2002）等。
+
+# 3.2根系分泌物稻壳酮含量检测
+
+水稻根系在其整个生长周期都分泌稻壳酮A和B，随着生长发育的推进，分泌水平逐渐增加，直到生殖发育期水稻开花后分泌水平逐渐下降。但不尽人意的是，水稻分泌至根际的稻壳酮含量极低，直至水稻生长 $8 0 {  { \mathrm { ~ d ~ } } }$ （约开始开花）时稻壳酮A和B的分泌率才达到最高值，分别仅是 $1 . 1 \ \mu \mathrm { g } \cdot \mathrm { p l a n t } ^ { - 1 } \cdot \mathrm { d a y } ^ { - }$ 和 $2 . 3 ~ { \mu \mathrm { g } }$ plant-1·day-1（Kato-Noguchi et al，2008b）。可见，对水稻分泌液中稻壳酮含量检测具有一定难度性，需保证所收集水稻分泌液中稻壳酮的富集浓度较高，化学检测仪器检测灵敏度高。目前的水稻根系分泌物和根际土壤中稻壳酮含量检测方法不是很灵敏。
+
+现有较新的根系分泌物收集方法主要参照Luetal（2018）在近期研究中所提出的水稻根系分泌物收集方案，具体操作如下：首先，将5株水稻幼苗共同培养于玻璃管中，管内盛有国家水稻所水稻营养液，水培缓解7d后通过 $0 . 5 \mathrm { m M } \mathrm { C u C l } _ { 2 }$ 进行 $7 2 \mathrm { { h } }$ 诱导，收集分泌液。其次，将收集到的分泌液利用 $0 . 1 \ \mathrm { g } \ C 1 8$ 固相萃取柱过滤杂质，通过 $100 \%$ 甲醇洗脱后用氮气吹干，最后利用 $80 \%$ 甲醇重悬富集物，采用LC-MS/MS 进一步检测。
+
+# 3.3稻壳酮的人工合成
+
+稻壳酮A和B在稻壳中提取分离步骤复杂，原材料需求量大，耗时多，而且含量太低。因此，探讨人工合成稻壳酮A和B新方法很有必要。目前研究中，可运用化合物1和化合物2通过3套模块、19个反应步骤合成稻壳酮A（Germain&Deslongchamps，2002），如图4-6。
+
+![](images/87194658abb1b3fd0bc7457cfee3ed663140dc2c3721d10698924543087918ba.jpg)  
+6a：X=H，Y=OMOM，85%from4a 7a:X=H,Y=OMOM,40% 6b：X=OMOM $y = H$ 90%from4b 7b:X=OMOMY=H.60%
+
+注：合成条件(a）二异丙基胺基锂，四氢呋喃， $- 7 8 \ { } ^ { \circ } { \mathrm { C } }$ ，化合物2， $- 7 8 \ { } ^ { \circ } { \mathrm { C } }$ ；(b）氯甲醚，N，N-二异丙基乙胺， $\mathrm { C H } _ { 2 } \mathrm { C l } _ { 2 }$ ；(c）离子交换树酯 Dowex 50WX8，MeOH;(d)HCA，三苯基磷，四氢呋喃， ${ \bf - 4 0 \ ^ { \circ } C }$ ； (e) $\mathrm { C s } _ { 2 } \mathrm { C O } _ { 3 }$ ，$\mathrm { C H } _ { 3 } \mathrm { C N }$ ，回流。
+
+Note:Reagents and conditions:(a) LDA, THF, $- 7 8 \ { } ^ { \circ } { \mathrm { C } }$ ,then 2, $- 7 8 \ { } ^ { \circ } { \mathrm { C } }$ ; (b) MOMCI,DIPEA, $\mathrm { C H } _ { 2 } \mathrm { C l } _ { 2 }$ ; (c)Dowex 50WX8,MeOH; (d) HCA,PPh3,THF, $- 4 0 ~ \mathrm { { ^ \circ C } }$ ; (e) $\mathrm { C s } _ { 2 } \mathrm { C O } _ { 3 }$ $\mathrm { C H } _ { 3 } \mathrm { C N }$ ,reflux.
+
+![](images/d397beb0ad342b0aa0f2b74a528673ece5231dafc64c40c5e5d98766508e5b44.jpg)  
+图4稻壳酮A合成反应模块一  
+Fig.4Synthesis scheme 1 of momilactone A   
+图5稻壳酮A合成反应模块二Fig.5Synthesis scheme 2 of momilactone A
+
+注：合成条件(a)KOH，MeOH，四氢呋喃；(b)(i）氯化甲酸甲酯，三乙胺， $0 \mathrm { { ^ \circ C } }$ ，四氢呋喃， (ii) $\mathrm { N a B H _ { 4 } }$ ，四氢呋喃， $0 \mathrm { { ^ \circ C } }$ ；(c）乙烯基乙基醚，吡啶对甲苯磺酸， $\mathrm { C H } _ { 2 } \mathrm { C l } _ { 2 }$ ； (d) $\mathrm { L i A l H _ { 4 } }$ ，四氢呋喃， $0 \mathrm { { ^ \circ C } }$ ；(e）对甲苯磺酰氯，三乙胺，4-二甲氨基吡啶， $\mathrm { C H } _ { 2 } \mathrm { C l } _ { 2 }$ ，回流； (f) $0 . 5 \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 } \mathrm { H C l }$ ，四氢呋喃；(g) $\mathrm { N a B H _ { 4 } }$ ，二甲基亚矾， $8 0 ~ \mathrm { ^ { \circ } C }$ 。
+
+Note:Reagents and conditions: (a) KOH,MeOH,THF; (b)(i) MeOCOCl, $\mathrm { E t } _ { 3 } \mathrm { N }$ $0 \ \mathrm { { ^ \circ C } }$ ,THF, (ii) $\mathrm { N a B H _ { 4 } }$ ,THF, $0 { } ^ { \circ } \mathrm { C }$ 中 (c)ethyl vinyl ether, PPTS, $\mathrm { C H } _ { 2 } \mathrm { C l } _ { 2 }$ ； (d) $\mathrm { L i A l H _ { 4 } }$ ,THF, $0 \mathrm { { ^ \circ C } }$ ; (e) TsCl, $\mathrm { E t } _ { 3 } \mathrm { N }$ ,DMAP, $\mathrm { C H } _ { 2 } \mathrm { C l } _ { 2 }$ ,reflux; (f) $0 . 5 \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 }$ HCI, THF; (g) $\mathrm { N a B H _ { 4 } }$ ,DMSO, $8 0 ~ \mathrm { { ^ \circ C } }$ ：
+
+注：合成条件(a)HCl，MeOH, $6 0 ~ \mathrm { { ^ \circ C } }$ ；(b)N-溴代乙酰胺，醋酸银，醋酸；(c）戴斯-马丁试剂， $\mathrm { C H } _ { 2 } \mathrm { C l } _ { 2 }$ ， $0 \mathrm { { ^ \circ C } }$ ：   
+(d)三苯基溴甲苯，六甲基二硅基胺基钾，四氢呋喃；(e)(i）醋酸-水， $9 0 \ \mathrm { ^ { \circ } C }$ ， (ii) ${ \bf K } _ { 2 } \bf C O _ { 3 }$ ，MeOH; (f) $\mathrm { C s } _ { 2 } \mathrm { C O } _ { 3 }$ ， $\mathrm { C H } _ { 3 } \mathrm { I }$ ， $\mathrm { C H } _ { 3 } \mathrm { C N }$ ；(g）伯吉斯试剂，甲苯，回流。   
+Note:Reagents and conditions: (a) HCl,MeOH, $6 0 ~ ^ { \circ } \mathrm { C }$ ；(b) NBA, $\mathtt { A g O A c }$ ,AcOH; (c) Dess-Martin periodinane, $\mathrm { C H } _ { 2 } \mathrm { C l } _ { 2 }$ $0 { } ^ { \circ } \mathrm { C }$ ; (d) $\mathrm { P h } _ { 3 } \mathrm { P C H } _ { 3 } \mathrm { B r }$ ,KHMDS,THF;(e) (i) $\mathrm { \ A c O H - H _ { 2 } O }$ $9 0 ^ { \circ } \mathrm { C }$ ，(ii) $\mathrm { K } _ { 2 } \mathrm { C O } _ { 3 }$ ,MeOH; (f) $\mathrm { C s } _ { 2 } \mathrm { C O } _ { 3 }$ $\mathrm { C H } _ { 3 } \mathrm { I }$ $\mathrm { C H } _ { 3 } \mathrm { C N }$ ；(g)Burgess reagent,toluene,reflux.
+
+![](images/df0db7db072a2c2bd0c85927f2905f8f34b1d83faa92c6784e88051ca224d57c.jpg)  
+图6稻壳酮A合成反应模块三  
+Fig. 6Synthesis scheme 3 of momilactone A
+
+# 4.稻壳酮研究存在的问题和展望
+
+稻壳酮是我国主要农作物水稻的主要化感物质，在水稻化感作用和诱导抗病中具有重要作用，其生态学功能和生物合成调控广受关注。但由于稻壳酮在水稻中含量低，故探讨灵敏简便的检测方法非常重要。目前研究中沿用的稻壳酮检测方法样品取样量大，样品前处理复杂，耗时多，对化学检测仪器要求高，这在一定程度上限制了对稻壳酮的深入研究。所以结合国内外研究进展和现状，对我国的稻壳酮研究提出以下几方面的建议。
+
+（1）建立一套简捷的稻壳酮检测方法
+
+如上所述，建立一套具有简单批量操作、快速处理以及检测结果准确等特点的方法十分重要，同时可以结合其他萜类化感物质的检测，如水稻素（oryzalexins）或植物卡森（phytocassanes），可以更系统地了解稻壳酮在水稻化感作用和诱导抗病中的功能，进而推动稻壳酮等萜类化感物质的研究。
+
+（2）稻壳酮诱导因子的研究
+
+综上所述，稻壳酮在生物和非生物因子胁迫激发下，在植物的诱导防御中起了重要作用。所以进一步探究更多诱导水稻合成稻壳酮的生物或非生物因子，采用适当的诱导处理激发水稻自身产生更多的稻壳酮，提高水稻自身的防御机制成为现今研究热点。但对稻壳酮介导的水稻自身防御机制的研究还很少，为了更好地了解稻壳酮与水稻抗性防御间的关系，应研究茉莉酸和水杨酸等防御信号途径对水稻合成稻壳酮的调控机理。
+
+# （3）稻壳酮的人工合成
+
+稻壳酮除草活性强，但在水稻中含量低，分离困难，人工合成稻壳酮或稻壳酮类似物将可更好地发挥稻壳酮这类天然产物在植物化感作用除草和杀菌等方面的应用潜力。
+
+综上，通过对水稻关键化感物质稻壳酮的研究，可为后期较系统研究稻壳酮和水稻抗性关系、尤其深入研究稻壳酮在调节水稻与病虫害相互作用关系等方面提供理论依据。
+
+# 参考文献：
+
+BI HH,ZENG RZ,SU LM,et al,2007.Rice alelopathy induced by methyl jasmonate and methyl sali-c ylate [J]. J Chem Ecol,33(5):1089-1103.   
+CARTWRIGHT DW,LANGCAKE P,PRYCE RJ, et al,1981. Isolation and characterization of two phytoalexins from rice as momilactones A and B [J].Phytochemistry,20(3): 535-537.   
+CHO JG,CHABJ,MINLS,etal,2015. Diterpenes from the roots of Oryza sativa L.and their inhibition activity on NO production in LPS-stimulated RAW264.7 macrophages [J]. Chem Biodivers,12(9):1356-1364.   
+CHOU CH,1992.Allelopathy:Allelopathy in relation to agricultural productivity in Taiwan: problems and prospects [M]. Dordrecht: Springer: 179-203.   
+CHOU CH,1998.Alelopathy in Rice: Adaptive autointoxication mechanisms in rice [M]. Manila: International Rice Research Institute: 99-116.   
+CHUNG IM,KIM KH,AHN JK, et al, 2002. Screening of allelochemicals on barnyardgrass (Echinochloa crus-galli)and identification of potential compounds from rice (Oryza sativa)variety hull extracts [J]. Crop Prot, 21(10): 913-920.   
+CHUNG IM, HAHN SJ, ATEEQUE A,2005.Confirmation of potential herbicidal agents in huls of rice, Oryza sativa [J].JChem Ecol,31(6): 1339-1352.   
+DAW BD, ZHANGLH, WANG ZZ,2008. Salicylic acid enhances antifungal resistance to Magnaporthe grisea in rice plants [J].Australas Plant Pathol,37(6): 637-644.   
+DAYAN FE,DUKE SO,2014.Natural compounds as next-generation herbicides [J]. Plant Physiol,166(3): 1090-1105.   
+DENG GF, LI YR,2006. Progress and application of rice alllopathy [J]. Southwest China JAgric Sci,19(5): 962-968.[邓国富，李杨瑞，2006．水稻化感作用研究进展及展望[J]．西南农业学报，19(5)：962-968.]   
+DILDAY RH,YAN WG, KAK M, et al,1998. Alelopathy in Rice: Alelopathic activity in rice for controlling major aquatic weeds [M]. Manila: International Rice Research Institute: 7-26.   
+GERMAIN J, DESLONGCHAMPS P, 2002. Total synthesis of $( + / - )$ -momilactone A [J]. J Org Chem, 67(15): 5269-5278.   
+GLAZEBROOK J, 2005. Contrasting mechanisms of defense against biotrophic and necrotrophic pathogens [J]. Annu Rev Phytopathol, 43(1):205-227.   
+GUO L,QIUJ,YE C,et al,2017.Echinochloa crus-gali genome analysis provides insight into itsadaptation and invasiveness as a weed [J]. Nat Commun, 8(1): 1031-1038.   
+HALIM VA, VESS A,SCHEEL D,et al,2006.The role of salicylic acid and jasmonic acid in pathogen defence [J]. Plant Biol, 8(3): 307-313.   
+HASEGAWA M, MITSUHARA I, SEA S,et al, 2010. Phytoalexin accumulation in the interaction between rice and the blast fungus [J].Mol Plant Microbe Interaction,23(8): 1O0O-1011.   
+KANNO H,HASEGAWA M, KODAMA O， 2012. Accumulation of salicylic acid, jasmonic acid and phytoalexins in rice, Oryza sativa, infested by the white-backed planthopper, Sogatella furcifera (Hemiptera: Delphacidae)[J]. Appl Entomol Zool, 47(1): 277-298.   
+KATO T, KABUTO C, SASAKI N,et al,1973. Momilactones, growth inhibitors from rice,Oryza sativa L [J]. Tetrahedron Lett,14(39): 3861-3864.   
+KATO-NOGUCHI H, 2004.Allelopathic substance in rice root exudates: Rediscovery of momilactone B as an allelochemical [J]. JPlant Physiol,161(3): 271-276.   
+KATO-NOGUCHI H,2011. Barnyard grass-induced rice allelopathy and momilactone B[J].J Plant Physiol, 168(10): 1016-1020.   
+KATO-NOGUCHI H, INO T,NORIKO S,et al,2002. Isolationand identification of a potent alelopathic substance in rice root exudates [J]. Physiol Plant,115(3): 401-405.   
+KATO-NOGUCHI H,INO T, OTA K, 2008a. Secretion of momilactone A from rice roots to the rhizosphere [J]. J Plant Physiol,165(7): 691-696.   
+KATO-NOGUCHI H, INO T, OTA K,2008b.Release of momilactone A and B from rice plants into the rhizosphere and its bioactivities [J]. Allelopathy J, 22(3): 321-328   
+KATO-NOGUCHI H,KOBAYASHI K, 2009.Jasmonic acid， protein phosphatase inhibitor，metals and UV-irradiation increased momilactone A and B concentrations in the moss Hypnum plumaeforme [J].J Plant Physiol,166(10): 1118-1122.   
+KATO-NOGUCHI H, KUJIME H, INO T, 2007. UV-induced momilactone B accumulation in rice rhizosphere [J]. J Plant Physiol,164(11): 1548-1551.   
+KATO-NOGUCHI H, MORIFUMI H, TAKESHI I, et al, 2010. Contribution of momilactone A and B to rice allelopathy [J].JPlant Physiol,167(10): 787-791.   
+KATO-NOGUCHI H,PETERS RJ, 2013. The role of momilactones in rice allelopathy [J]. J Chem Ecol, 39(2): 175-185.   
+KATO-NOGUCHI H, TAKESHI I, 2005. Concentration and release level of momilactone B in the seedlings of eight rice cultivars [J]. JPlant Physiol,162(9): 965-969.   
+KIM SJ,PARK HR,PARK E, et al,20O7. Cytotomix and antitumor activity of momilactone B from rice huls [J]. J Agr Food Chem, 55(5): 1702-1706.   
+LEE CW,YONEYAMA K,TAKEUCHI Y,et al, 2002. Quantification of momilactones A and B in rice straw [J]. Korean JCrop Sci, 47(4): 283-285.   
+LIN WX,HE HB, XIONG J,et al,2006.Advances in the investigation of rice alelopathy and its molecular ecology[J].Acta Ecol Sin,26(8):2687-2694.[林文雄，何海斌，熊君，等，2006．水稻化感作用及其分子生 态学研究进展[J]．生态学报，26(8)：2687-2694.]   
+LU X, ZHANG J,BROWN B,et al,2018.Inferring roles in defense from metabolic allcation of rice diterpenoids [J]. The Plant Cell,30(5): 1119-1131.   
+MACKINTOSH C, LYON GD, MACKINTOSH RW,1994. Protein phosphatase inhibitors activate anti-fungal defense responses of soybean cotyledons and cell cultures [J]. Plant J,5(1): 137-147.   
+MAHMOOD K, KHAN MB,IJAZ M,et al,2014.Molecular, biochemical and bioassay based evidence of lower allelopathic potential in genetically modified rice [J]. JPlant Growth Regul,74(1): 73-82.   
+NIU JB,WANG RL, CHEN CY, et al, 2017. Over-expresson of OsCPS2 and OsCPS4 enhanced allelopathic potential in rice (Oryza sativa) [J]. Allelopathy J, 41(2): 259-268.   
+NOZAKI H, HAYASHI K, NISHIMURA N,et al, 2007. Momilactone A and B as alllochemicals from moss Hypnum plumaeforme: first occurrence in bryophytes [J]. Biosci Biotechnol Biochem,71(12): 3127-3130.   
+OSBOURN AE,FIELD B,2009. Operons [J]. Cell Mol Life Sci, 66(23): 3755-3775.   
+OTOMO K,KANNO Y,MOTEGI A,et al, 2004.Diterpene cyclases responsible for the biosynthesis of phytoalexins，momilactones A，B,and oryzalexins A-Fin rice [J].Biosci Biotechnol Biochem,68(9): 2001-2006.   
+RAKWAL R, SHI K, AGRAWAL GK, et al, 2001. Protein phosphatase inhibitors activate defense responses in rice (Oryza sativa) leaves [J]. Physiol Plant, 111(2): 151-157.   
+RODRIGUESFA,MCNALLYDJ,DATNOFF LE,et al,2004. Silicon enhances the accumulation of diterpenoid phytoalexins in rice:a potential mechanism for blast resistance [J].Phytopathology, 94(2): 177-183.   
+SEAL AN,TERRY H,PRATLEY JE,2O04.Evaluation of putative alelochemicals in rice root exudates for their role in the suppression of arrowhead root growth [J]. J Chem Ecol, 30(8): 1663-1678.   
+SHIMURA K, OKADAA, OKADA K, et al, 2007. Identification of a biosynthetic gene cluster in rice for momilactones [J]. JBiol Chem,282(47): 34013-34018.   
+TAKAHASHI N, KATO T, TSUNAGAWA M, et al, 1976. Mechanisms of dormancy in rice seeds, 2: New growth inhibitors,momilactone Aand B isolated from the hulls of rice seeds [J].Jpn JBreed,26(2): 91-98.   
+TAMOGAMI S, KODAMA O,2000.Coronatine elicits phytoalexin production in rice leaves (Oryza sativa L.) in the same manner as jasmonic acid [J]. Phytochemistry, 54(7): 689-694.   
+TOYOMASU T, USUI M, SUGAWARA C, et al, 2014. Transcripts of two ent-copalyl diphosphate synthase genes diferentially localize in rice plants according to their distinct biological roles [J]. JExp Bot, 66(1): 369-76.   
+UMEMURA K, OGAWA N, SHIMURA M,etal, 2003.Possible role of phytocassane,rice phytoalexin,in disease resistance of rice against the blast fungus Magnaporthe grisea [J]. Biosci Biotechnol Biochem,67(4): 899-902.   
+WANG DL,1998.The review ofrice alelopathy[J]. Acta Ecol Sin,18(3): 326-334.[王大力，1998．水稻化感作 用研究综述[J].生态学报，18(3)：326-334.]   
+WANG Q,HEJH,LI MS,etal,20o0. Weed species and their damage in rice fields in Zhejiang [J].Acta Agric Zhejiangensis,12(6):317-324.[王强，何锦豪，李妙寿，等，2000．浙江省水稻田杂草发生种类及危害[J]．浙 江农业学报，12(6)：317-324.]   
+WANG Q, HILLWIG ML,PETERS RJ,2011. CYP99A3: functional identification of a diterpene oxidase from he momilactone biosynthetic gene cluster in rice [J]. Plant J, 65(1): 87-95.   
+WANG QL,GUO G,2005. Progress on biological control of blast Fungus [J]. J Henan Agric Sci,34(10): 10-13. [王巧兰，郭刚，2005．水稻稻瘟病生物防治研究进展[J]．河南农业科学，34(10)：10-13.]   
+WILDERMAN PR, XU MM,JIN YH,et al, 2004.Identification of syn-pimara-7，15-diene synthase reveals functional clustering of terpene synthases involved in rice phytoalexin/alllochemical biosynthesis [J].Plant Physiol,135(4): 2098-2105.   
+XIA XM，2013．Isolation，identification and biological activities of allelochemicals from rice huls [D]. Guangzhou: South China Agricultural University:34-35.[夏小美，2013．水稻稻壳中化感物质的分离鉴定及 生物活性[D]．广州：华南农业大学：34-35.]   
+XU MM, GALHANO R,WIEMANN P,et al, 2012. Genetic evidence for natural product mediated plant-plant allelopathy in rice [J]. New Phytol,193(3): 570-575.   
+ZHAO H, LI HB,KONG CH, et al,2005. Chemical response of alelopathic rice seedlings under varying environmental conditions [J].Allelopathy J,15(1):105-110.

@@ -1,0 +1,645 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.13930/j.cnki.cjea.160928 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吴雨珊，龚万灼，杨文钰，雍太文，杨峰，刘卫国，武晓玲．带状套作复光后不同大豆品种干物质积累模型与特征分析[J]. 中国生态农业学报,2017,25(4):572-580   \nWu YS,Gong WZ,Yang WY,Yong TW,Yang F,Liu WG,Wu XL.Dynamic modeland characteristics analysis of dry mater productionafter lightrecoveryof diferentsoybeanvarieties inrelaystripintercroppingsystems[J].Chinese Jouralof Eco-Agriculture,2017, 25(4): 572-580 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "带状套作复光后不同大豆品种干物质积累模型与特征分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吴雨珊¹，龚万灼²，杨文钰1\\*\\*，雍太文¹，杨峰¹，刘卫国¹，武晓玲(1．四川农业大学农学院/农业部西南作物生理生态与耕作重点实验室/四川省作物带状复合种植工程技术研究中心成都611130;2.重庆市农业科学院特色作物研究所永川402160)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了研究套作下高产类型大豆复光后的干物质积累特征，本研究共采用14个高、中、低产量水平的大豆为材料，比较了不同大豆产量类型品种与玉米套作，复光后的干物质积累特征差异。结果表明：1)高产类型大豆复光后干物质积累量为 $3 2 . 9 9 \\mathrm { g \\cdot p l a n t ^ { - 1 } }$ ，较中、低产类型分别高 $2 6 . 8 2 \\%$ 和 $91 . 5 1 \\%$ (两年均值)。2)不同产量类型大豆复光后干物质积累速率均呈先增加后下降的趋势，复光后最大干物质积累速率和平均干物质积累速率呈高产类型 $>$ 中产类型 $>$ 低产类型，高产类型大豆最大干物重积累速率的时间大致在复光后41\\~42d，中低产类型则在复光后 $3 3 { \\sim } 3 7 \\mathrm { ~ d }$ ；高产类型大豆复光后干物质渐增期天数、积累速率和干物质积累量以及快增期和缓增期的积累速率和积累量均显著高于中、低产类型。3)产量与最大干物质积累速率、最大干物质积累速率时间、平均干物质积累速率、渐增期的持续时间及干物质增量、快增期平均积累速率及干物质增量、缓增期平均积累速率及干物质增量呈显著正相关。本研究表明，套作下高产类型大豆复光后较强的干物质积累优势主要表现在复光后渐增期，而复光后渐增期较强的干物质积累能力主要在于其较长的渐增期持续天数。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：套作；大豆；产量水平；品种；光照恢复；干物质生产中图分类号：S592 文献标识码：A 文章编号:1671-3990(2017)04-0572-09",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dynamic model and characteristics analysis of dry matter production after light recovery of different soybean varieties in relay strip intercropping systems ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WU Yushan1, GONG Wanzhuo², YANG Wenyu1\\*\\*, YONG Taiwen1, YANG Feng1, LIU Weiguo',WU Xiaoling1 (1.College ofAgronomy,Sichuan Agricultural University/KeyLaboratoryof Crop EcophysiologyandFarming Systemin Southwest China,MinistryofAgriculture/Sichuan EngineeringResearch CenterforCrop Strip Intercroppng System,Chengdu 611130,China;2.CharacteristicropsResearchInstitute,ChongqingAcademyofAgriculturalSciences,Yongchuan4026,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Maize-soybeanrelaystrip intercropping isa widespread practice insoybean productionareas insouthwesterandsouthe Chinaandhasbeenthe mainmodeofincreasing totaloutputofsoybeanin China.Toprovide theoreticalbasis for theselectionand breedingofhighyieldsoybeanvarieties forintercropping,thisstudyusedfourteensoybean varietieswithdiferent yieldlevels to analyze the characteristicsof dry mater productionafterlight recovery(after maize harvest)of diferent yield typesof soybean varitiesrelay strip intercropped with maize.Results indicated that average grain yieldof high yield soybean varieties was $1 ~ 4 0 8 . 1 7 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，which was $3 7 . 4 5 \\%$ and $5 7 . 2 5 \\%$ higher than those of medium and low yield varieties,respectively. Dry matter accumulation of high yield soybean varieties was on an average of $3 2 . 9 9 \\mathrm { g \\cdot p l a n t ^ { - 1 } }$ , which was $2 6 . 8 2 \\%$ and $91 . 5 1 \\%$ higher than those of medium and lowyieldvarieties,respectively.Logisticequation was usedtosimulate therelationshipbetween dry mattr weight and days after light recovery for three types of soybean varieties $( R ^ { 2 } \\geqslant 0 . 9 6 0 )$ .Paired $t$ -test for independent samples showed no significant differencebetweenthesimulatedandmeasuredvalues.Aferlghtrecoverytherateofdrymateraccmulationof tree typesofsoybean varieties increased before declining.Theorderof maximumrateofdry mattr accumulationand the meanrateof dry matter accumulation was high yield type $>$ medium yield type $>$ low yield type.The average time to maximum rate of dry matter accumulation afterlightrecoveryofthehigh yieldsoybean varieties was 41-42 days,whilethatofboth mediumandlowtypes was 33-37days.Thedurationaccumulationrateandaumulationamountofdrymaterofgradualincreasestage;theaccumulationrate andamountofdry materaccumulationofboth fastincrease andslow increase stages ofhighyieldsoybeanwere significantlyhigher thanthoseofothertwoyieldtypes ofsoybean.Theyieldhadasignificantlypositivecorrelation withthe maximumdrymater accumulationrate,timereaching themaximumdrymateraumulationrate,meandrymateracumulationrate,durationof gradual increasetage,drymater weightofgradualinrease stage,drymateracumulationrateand weightofbothfastandslowincrease stages.Twoyearsdataindicatedthatleafareaindex,lightinterceptionrate,population growthrateandleafareadurationof high yield soybean were $2 . 5 2 ~ \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { d } ^ { - 1 }$ ， $0 . 8 1 \\ \\mathrm { g } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 }$ ， $6 . 0 2 \\ \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { d } ^ { - 1 }$ and $3 1 7 . 8 4 ~ \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { d } { \\cdot } \\mathrm { m } ^ { - 2 }$ ,respectively,which were significantly higher than thoseofboth medum andlowyieldtypes.Ourresultssuggested thatgreaterdry mater accumulation mainlyoccurred at gradual increase stage afterlightrecoveryforhighyieldsoybeanvarieties,which wasmainlyatributedtothelongerduration of the stage. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeyWords: Relay strip intercropping; Soybean; Yield level; Variety;Light recovery; Dry matter production ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "大豆(Glycinemax)起源于中国，至今已有五千多年的种植史。大豆以其优良的营养价值，广泛应用于食品、医药、饲料及工业原料，需求量逐年增加。然而，受比较效益下降、进口冲击等影响，我国大豆生产出现下滑，产需缺口扩大，2015年，进口量达8169万t，同比增长 $1 4 . 4 \\%$ 。间套作大豆不仅能充分利用光热水资源，还能提高复种指数，是增加我国大豆总产量，缓解供需矛盾的主要途径之一[1-2]。其中，玉米(Zea mays)-大豆带状套作复合种植模式是我国西南、华南间套作大豆的重要代表模式。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在玉米-大豆带状套作系统中，大豆存在两个不同的生长阶段：与玉米的共生期和玉米收获后的单独生长期[3-4]。共生期内，低位作物大豆受高位玉米遮荫,荫蔽信号对大豆的形态生理产生显著影响[5]。研究发现，荫蔽环境下，大豆表现为叶片变小变薄[4,6]，茎长显著增加，茎粗、光合速率和地上部生物量显著下降[7-9]，随遮荫程度增加，大豆幼苗叶片的叶绿素含量和叶绿素 $\\mathbf { a } / \\mathbf { b }$ 值下降[10]；光合积累量减少，倒伏严重，强耐荫性品种在中度遮荫下能保持较高光合能力和抗倒伏能力[11]。玉米收获后的单独生长期，大豆获得补偿生长[3]。有研究表明，在间套作系统中，前茬作物收获后，后茬作物的生长得到恢复和补偿，最后产量达到或者超过相应单作[12-13]。这说明在间套作系统中,后期的补偿生长能弥补前期的负面影响，而补偿生长主要表现为较大的干物质积累。许多学者常采用作物生长模拟方程来解释干物质积累和产量的关系，但在间套作系统中多集中在分析种间互作[14]、养分积累[15]等方面，而用来描述作物补偿生长的研究还鲜见报道。因此，本研究以不同产量水平的大豆品种为材料通过建立干物质积累模型，分析与玉米套作复光后大豆干物质积累动态和光能截获特征，明确不同产量水平大豆在去掉遮荫复光后的生长差异，为筛选适宜套作的大豆品种提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验选取课题组收集的14个产量水平不同的大豆品种(系)作为试验材料，其中高产品种：‘南豆021-1'、‘特选 $_ { 1 3 } ,$ 、‘南豆12'和'贡选1号，平均产量为$1 ~ 4 0 8 . 1 7 ~ \\mathrm { k g } \\mathrm { \\cdot h m } ^ { - 2 }$ ；中产品种:‘小黄豆’、‘菜豆’、‘桂夏3号’、大圆豆'和‘罗泉黄'，平均产量为 $8 8 0 . 7 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ·低产品种:‘铅山乌豆’、‘南256-1'、‘大黄珠'、‘广 $1 5 ^ { \\circ }$ 和‘贡秋豆04-2'，平均产量为 $6 0 1 . 9 3 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验于2013—2015年在四川农业大学雅安校区教学科研园区进行。试验地土壤含全氮 $2 . 7 9 \\ : \\mathrm { g { \\cdot k g } ^ { - 1 } }$ 、全磷 $0 . 3 8 3 \\ \\mathrm { g { \\cdot } k g ^ { - 1 } }$ 、全钾 $1 2 . 8 9 \\mathrm { g { \\cdot } k g ^ { - 1 } }$ 速效氮 $1 6 8 . 6 \\mathrm { m g ^ { - 1 } } \\mathrm { k g } ^ { - 1 }$ 速效磷 $8 1 . 3 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ 、速效钾 $1 4 0 . 1 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ 、有机质",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$3 3 . 2 ~ \\mathrm { g \\cdot k g ^ { - 1 } }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "单因素随机区组设计，采用玉米-大豆 $( 2 : 2 )$ 带状套作模式(relay strip intercropping,RSI)，共14个大豆品种。试验设3次重复，小区面积 $1 2 \\mathrm { ~ m } ^ { 2 } ( 2 \\mathrm { ~ m } \\times$ $6 ~ \\mathrm { m }$ 。带状套作处理中的玉米品种为‘正红505'，3月28日育苗，4月9日移栽。移栽时2行玉米组成1带，行距 $0 . 5 \\mathrm { ~ m ~ }$ ，穴距 $0 . 4 \\mathrm { ~ m ~ }$ ，每穴2苗。每带玉米间隔$1 . 5 \\mathrm { m }$ ，玉米密度5万株 $\\mathrm { h m } ^ { - 2 }$ ,8月9日收获玉米。6月 20 日在玉米宽行内播种2行大豆，行距为 $0 . 5 \\mathrm { ~ m ~ }$ 窝距 $0 . 2 { \\mathrm { ~ m ~ } }$ ，每窝2株，密度为9.9万株 $\\cdot \\mathrm { h m } ^ { - 2 }$ 。带状套作玉米施肥量为纯氮 $2 4 0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、 $\\mathrm { P } _ { 2 } \\mathrm { O } _ { 5 } 7 0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 1$\\mathrm { K } _ { 2 } \\mathrm { O } 9 0 \\ k \\mathrm { g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，其中氮肥按底肥：拔节肥：穗肥$2 : 3 : 5$ 施用，磷、钾肥以底肥施用。大豆全生育期均不施肥，田间正常杂草病虫害管理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 测定项目与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分别于玉米收获当天，收获后第15d、30d、$4 5 \\mathrm { d } , 6 0 \\mathrm { d }$ 取样。每次取样前，于晴天的11:00—13:00进行PAR分布的测定，测定时，利用LI-1400光量子仪(Li-Cor，USA)，在各小区内大豆顶部以上 $3 0 ~ \\mathrm { c m }$ 处测定自然光强Io(探头面水平向上)和入射到冠层底部的光强I，用于计算光能截获率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "每次取样测定选择各小区长势一致的5株植株地上部进行。剪根后，单株按叶片、叶柄、茎分解植株，叶片经扫描获得单株叶面积用于计算叶面积指数，然后分别装入牛皮纸袋中，置于烘箱中$1 0 5 \\mathrm { ~ } \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 杀青 $3 0 ~ \\mathrm { m i n }$ 、 $7 5 \\ \\mathrm { { ^ \\circ C } }$ 烘干至恒重，称重并计算单株地上部干物质量。大豆成熟后每小区连续选取10株，风干后考察单株荚数、单荚粒数、百粒重，计算产量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 建模及检验 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "应用Logistic方程对复光后干物质积累过程进行拟合，并计算相应干物质特征参数进行生长分析。并采用回归分析和配对 $t$ 检验进行模型检验，模型模拟值与观测值间的一致性越好，说明模拟结果越准确。建模数据来自2013—2014年，模型检验数据来自2015年。Logistic方程为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW { = } A / ( 1 { + } B { \\times } \\mathrm { e } ^ { - C { \\times } t } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $t$ 为复光后天数(复光日计作 $t _ { 0 } { = } 0$ ； $W$ 为复光后干物质(复光日干物质计 ${ { \\cal { W } } _ { 0 } }$ ； $A$ 为理论最大干物质;B、 $C$ 为形状参数，由方程一阶导数和二阶导数推导出参数。具体公式如下[16]:",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干物质高峰开始日期 $t _ { 1 }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt _ { 1 } \\mathrm { = } ( \\mathrm { l n } B \\mathrm { - } 1 . 3 1 7 ) / C\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对应此时干物质 $W _ { 1 }$ 为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { 1 } { = } A / ( 1 { + } B { \\times } \\mathrm { e } ^ { - C { \\times } t _ { 1 } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干物质高峰结束日期 $t _ { 2 }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt _ { 2 } { = } ( \\ln B + 1 . 3 1 7 ) / C\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对应此时干物质 $W _ { 2 }$ 为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { 2 } { = } A / ( 1 { + } B { \\times } \\mathrm { e } ^ { - C { \\times } t _ { 2 } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "复光后干物质 $W$ 达 $9 9 \\%$ 时 $( A )$ 为有效积累期，其计算公式 $t _ { 3 }$ 为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt _ { 3 } { = } ( \\mathrm { l n } B { + } 4 . 5 9 5 ) / C\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对应此时干物质为 ${ { \\cal { W } } } _ { 3 }$ 。渐增期持续时间 $T _ { 1 }$ 为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathbf { } } T _ { 1 } { = } t _ { 1 } { - } t _ { 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "渐增期干物质增量为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\partial / _ { 1 } { = } W _ { 1 } { - } W _ { 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "渐增期平均积累速率 $\\nu _ { 1 }$ 为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu _ { 1 } { = } w _ { 1 } / T _ { 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "快增期持续时间 $T _ { 2 }$ 为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\scriptstyle { T _ { 2 } = t _ { 2 } - t _ { 1 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "快增期干物质增量 $w _ { 2 }$ 为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\partial / _ { 2 } { = } W _ { 2 } { - } W _ { 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "快增期平均积累速率 $\\nu _ { 2 }$ 为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu _ { 2 } { = } w _ { 2 } / T _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "缓增期持续时间 $T _ { 3 }$ 为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal T } _ { 3 } { = } t _ { 3 } { - } t _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "缓增期干物质增量 $w _ { 3 }$ 为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { 3 } { = } W _ { 3 } { - } W _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "缓增期平均积累速率 $\\mathbf { \\sigma } _ { \\nu _ { 3 } }$ 为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu _ { 3 } { = } w _ { 3 } / T _ { 3 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干物质积累速率最大时间 $T _ { \\mathrm { m a x } }$ 为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { \\mathrm { m a x } } { = } \\mathrm { l n } B / C\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干物质积累速率最大时生长量 $W _ { \\mathrm { m a x } }$ 为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { \\mathrm { m a x } } { = } A / 2\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "最大干物质积累速率 $R _ { \\mathrm { m a x } }$ 为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\operatorname* { m a x } } { = } C { \\times } W _ { \\operatorname* { m a x } } ( 1 { - } W _ { \\operatorname* { m a x } } / A )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "平均干物质积累速率 $\\nu _ { \\mathrm { m e a n } }$ 为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu _ { \\mathrm { m e a n } } { = } W _ { 3 } / t _ { 3 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "群体生长率和光合势计算公式为[17]:",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "光合势 $( \\times 1 0 ^ { 4 } \\mathrm { m ^ { 2 } } { \\cdot } \\mathrm { d } { \\cdot } \\mathrm { h m ^ { - 2 } } ) { = } 0 . 5 { \\times } ( L _ { 1 } { + } L _ { 2 } ) { \\times } ( t _ { 2 } { - } t _ { 1 } )$ (21)式中: $W _ { 1 }$ 和 $W _ { 2 }$ 为前后2次测定的干物质量 $\\left( \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { - 2 } \\right)$ ), $t _ { 1 }$ 和 $t _ { 2 }$ 为前后2次测定的时间(d), $L _ { 1 }$ 和 $L _ { 2 }$ 为前后2次测定的叶面积 $( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { h m } ^ { - 2 } )$ ）",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "光能截获率[18]计算公式为:",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "光能截获率 $: = 1 - I / I 0$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $I$ 为入射到冠层底部的光强， $I _ { 0 }$ 为冠层顶部的光强。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5 数据分析与处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验所得数据用SPSS17.0及MicrosoftExcel2013软件处理，采用Duncan's 新复极差(SSR)法检验显著性，Spearman检验相关性，线性回归分析及配对t检验进行模型检验。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1不同产量水平大豆品种复光后干物质积累特征",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 干物质积累量比较 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "复光后的干物质积累是影响产量的主要因素。图1表明，2013年，高产类型大豆复光后干物质积累量为 $2 9 . 3 9 \\ \\mathrm { g }$ 株-1，分别比中低产类型大豆高 $34 . 2 8 \\%$ 和 $107 . 9 0 \\%$ ；2014年高产类型大豆复光后干物质积累量为 $3 6 . 5 8 ~ \\mathrm { \\ g }$ 株-，分别比中低产类型大豆高$1 9 . 3 7 \\%$ 和 $7 5 . 1 4 \\%$ 0",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/43722b12e5d0e71ac646e5f1d52019b17394c509b78fb9150bb13b63a73ffaae.jpg",
+        "img_caption": [
+            "图1不同产量类型大豆品种与玉米套作复光后的干物质积累量"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Dry matter accumulation after light recovery of soybean varieties with different yield levels in maize-soybean relay strip intercropping system 不同小写字母表示在0.05水平上差异显著。Differentlowercase .etters mean significant differences at O.O5 level. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.2干物质Logistic模型的建立及检验",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "进一步运用Logistic方程对干物质积累过程进行模拟，以复光后天数(t)为自变量，干物质(W)为因变量。两年数据表明，方程拟合的决定系数都在0.960以上，说明Logistic方程能较好地拟合复光后大豆干物质积累过程(表1)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对‘特选13(高产)、‘罗泉黄(中产)、‘广 $1 5 ^ { , }$ （低产)复光后的干物质模拟值与实测值进行线性回归分析表明(图 2)，模拟的精确度(以 $R ^ { 2 }$ 表示)分别为0.975、0.988、0.943，相关系数均在0.971以上，且模拟值与实测值相关性达极显著水平。将模拟值与实测值进行配对 $t$ 检验发现, $P$ 值分别为0.909、0.886、0.900均大于0.05，差异不显著。说明该模型可准确地反映不同大豆品种复光后的干物质积累特征。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.3 干物质积累特征参数",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表2可知,2013年，高产类型大豆的最大干物质积累速率 $( R _ { \\mathrm { m a x } } )$ 和平均干物质积累速率 $( V _ { \\mathrm { m e a n } } )$ 分别为 $0 . 8 4 7 \\ \\mathrm { g } { \\cdot } \\mathrm { d } ^ { - 1 }$ ！ $0 . 4 6 2 \\mathrm { g } { \\cdot } \\mathrm { d } ^ { - 1 }$ ，均显著大于中产类型大豆的$0 . 5 5 3 \\mathrm { g } { \\cdot } \\mathrm { d } ^ { - 1 }$ 、 $0 . 3 3 1 \\mathrm { g } { \\cdot } \\mathrm { d } ^ { - 1 }$ 和低产类型大豆的 $0 . 4 5 4 \\mathrm { g } { \\cdot } \\mathrm { d } ^ { - 1 }$ /$0 . 2 7 3 \\ \\mathrm { g } { \\cdot } \\mathrm { d } ^ { - 1 }$ 。高产类型大豆在复光后 $3 0 \\mathrm { d }$ 达到最大干物质积累速率，此时最大干物质积累量为 $1 8 . 5 1 5 \\mathrm { g }$ 株-1。2014年，高产大豆‘特选13'的最大干物质积累速率$( R _ { \\mathrm { m a x } } )$ 、最大干物质积累速率时间 $( T _ { \\mathrm { m a x } } )$ 、干物质积累速率最大时间生长量（ $( W _ { \\mathrm { m a x } } )$ 、平均干物质积累速率1 $\\left( V _ { \\mathrm { m e a n } } \\right)$ 均显著大于中低产类型。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/3ef92ae04359d73f137114dc59aa36c4f5b2c8fa3d6503c3c4094b1268985577.jpg",
+        "table_caption": [
+            "表1不同产量类型大豆与玉米套作复光后干物质积累模拟方程 Table1Stimulationequations ofdrymateraccumulationafterlightrecoveryofsoybean varieties withdifferent yieldlevels in maize-soybean relay strip intercropping system "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>年份 Year</td><td>类型 Type</td><td>品种 Variety</td><td>拟合方程 Fitted equation</td><td>R²</td></tr><tr><td>2013</td><td>高产类型 High yield type</td><td>南豆021-1 Nandou021-1</td><td>Y=46.613/(1+17.469e-0.069t)</td><td>0.977</td></tr><tr><td rowspan=\"9\">中产类型 Middle yield type</td><td rowspan=\"5\"></td><td>特选13Texuan13</td><td>Y=28.475/(1+9.643e-0.067t)</td><td>0.999</td></tr><tr><td>南豆12 Nandou12</td><td>Y=38.184/(1+14.835e-0.113t)</td><td>0.995</td></tr><tr><td>贡选1号 Gongxuan-1</td><td>Y=34.855/(1+14.175e-0.118t)</td><td>0.986</td></tr><tr><td>小黄豆 Xiaohuangdou</td><td>Y=26.351/(1+7.852e-0.094t)</td><td>0.973</td></tr><tr><td>菜豆Caidou</td><td>Y=24.286/(1+8.039e-0.115t)</td><td>0.996</td></tr><tr><td></td><td>桂夏3号Guixia-3</td><td>Y=18.057/(1+9.672e-0.115t)</td><td>0.973</td></tr><tr><td></td><td>大圆豆Dayuandou</td><td>Y=15.306/(1+4.721e-009t)</td><td>1.000</td></tr><tr><td>低产类型</td><td>罗泉黄 Luoquanhuang</td><td>Y=34.389/(1+7.703e-0.064t)</td><td>0.999</td></tr><tr><td>Low yield type</td><td>铅山乌豆Qianshanwudou</td><td>Y=20.236/(1+6.389e-0112t)</td><td>0.981</td></tr><tr><td></td><td>南256-1 Nan256-1</td><td>Y=20.386/(1+7.850e-0.102t)</td><td>0.965</td></tr><tr><td rowspan=\"5\">2014</td><td></td><td>大黄珠 Dahuangzhu</td><td>Y=20.510/(1+5.575e-0.070t)</td><td>0.993</td></tr><tr><td></td><td>广15Guang15</td><td>Y=15.891/(1+6.597e-0.098t)</td><td>0.980</td></tr><tr><td></td><td>贡秋豆04-2 Gongqiudou04-2</td><td>Y=24.356/(1+11.246-0.072t)</td><td>0.992</td></tr><tr><td>高产类型 High yield type</td><td>特选13 Texuan13</td><td>Y=29.881/(1+10.884e-0.137t)</td><td>0.962</td></tr><tr><td>中产类型 Middle yield type</td><td>罗泉黄 Luoquanhuang</td><td></td><td></td></tr><tr><td></td><td>低产类型Low yield type</td><td>广15 Guang15</td><td>Y=38.186/(1+14.034e-0.127t) Y=29.27/(1+6.665e-0.066t)</td><td>0.965 0.996</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "35 50 30 u 特选13 Texuanl3 40 罗泉黄 Luoquanhuang 25 广15 Guang15 20 30 15 20 y=p=0831021 10 y=p=0941889 15 y==09205 ? · 0 0 0 1 0 5 10 15 20 25 30 35 051015 20 2530354045 50 0 5 10 15 20 25 30 实测值 Measured value (g·plant-1) ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/4ac6f187622bafe257a149516ba4065257229602faeca66ba95e9dd8cdc39f36.jpg",
+        "table_caption": [
+            "表2不同产量类型大豆与玉米套作复光后干物质积累特征参数 Table2ParametersofdrymateraccumulationcharacteristicsafterlightrecoveryofsoybeansVarieties withdiferentyieldlevelsi maize-soybean relay strip intercropping system "
+        ],
+        "table_footnote": [
+            "$R _ { \\mathrm { m a x } }$ ：最大干物质积累速率; $T _ { \\mathrm { m a x } }$ ：最大干物质积累速率时间； $W _ { \\mathrm { m a x } }$ ：干物质积累速率最大时间生长量; $V _ { \\mathrm { m e a n } }$ ：平均积累速率。 $R _ { \\mathrm { m a x } }$ maximum dry matter accumulation rate; $T _ { \\mathrm { m a x } }$ : time reaching the maximum dry matter accumulation rate; $W _ { \\mathrm { m a x } }$ : dry matter weight at the time ofmaximum dry matter accumulation rate; $V _ { \\mathrm { m e a n } }$ : mean dry matter accumulation rate."
+        ],
+        "table_body": "<html><body><table><tr><td>年份 Year</td><td>类型 Type</td><td>品种 Variety</td><td>Rmx (t·hm-2.d-1)</td><td>Tmax (d)</td><td>Wmax (g)</td><td>Vmean (t·hm-2.d-1)</td></tr><tr><td>2013</td><td>高产类型 High yield type</td><td>南豆021-1 Nandou021-1</td><td>0.805</td><td>41.403</td><td>23.307</td><td>0.428</td></tr><tr><td rowspan=\"9\"></td><td></td><td>特选13Texuan13</td><td>0.476</td><td>33.917</td><td>14.238</td><td>0.275</td></tr><tr><td></td><td>南豆12 Nandou12</td><td>1.083</td><td>23.765</td><td>19.092</td><td>0.588</td></tr><tr><td></td><td>贡选1号 Gongxuan-1</td><td>1.025</td><td>22.539</td><td>17.428</td><td>0.560</td></tr><tr><td>中产类型 Middle yield type</td><td>小黄豆Xiaohuangdou</td><td>0.617</td><td>22.004</td><td>13.176</td><td>0.367</td></tr><tr><td></td><td>菜豆Caidou</td><td>0.699</td><td>18.096</td><td>12.143</td><td>0.415</td></tr><tr><td></td><td>桂夏3号Guixia-3</td><td>0.520</td><td>19.708</td><td>9.029</td><td>0.300</td></tr><tr><td></td><td>大圆豆Dayuandou</td><td>0.378</td><td>15.722</td><td>7.653</td><td>0.243</td></tr><tr><td></td><td>罗泉黄Luoquanhuang</td><td>0.554</td><td>31.694</td><td>17.194</td><td>0.330</td></tr><tr><td>低产类型 Low yield type</td><td>铅山乌豆 Qianshanwudou</td><td>0.567</td><td>16.545</td><td>10.118</td><td>0.348</td></tr><tr><td rowspan=\"6\">平均 Average</td><td></td><td>南 256-1 Nan256-1 大黄珠 Dahuangzhu</td><td>0.520</td><td>20.210</td><td>10.193</td><td>0.309</td></tr><tr><td></td><td></td><td>0.358</td><td>24.623</td><td>10.255</td><td>0.224</td></tr><tr><td>广15 Guang15</td><td>0.389</td><td>19.270</td><td></td><td>7.946</td><td>0.238</td></tr><tr><td>贡秋豆 04-2 Gongqiudou04-2</td><td>0.438</td><td></td><td>23.658</td><td>12.178</td><td>0.247</td></tr><tr><td>高产类型 High yield type</td><td>0.847a</td><td></td><td>30.40a</td><td>18.515a</td><td>0.462a</td></tr><tr><td></td><td>中产类型 Middle yield type</td><td>0.553b</td><td>21.44b</td><td>11.838b</td><td>0.331b</td></tr><tr><td rowspan=\"4\">2014</td><td></td><td>低产类型Low yield type</td><td>0.454c</td><td>20.86b</td><td>10.137b</td><td>0.273c</td></tr><tr><td>高产类型 High yield type</td><td>特选13 Texuan13</td><td>1.213a</td><td>28.798a</td><td>19.092a</td><td>0.664a</td></tr><tr><td>中产类型 Middle yield type</td><td>罗泉黄Luoquanhuang</td><td>1.025b</td><td>20.776b</td><td>14.940b</td><td>0.581b</td></tr><tr><td>低产类型 Low yield type</td><td>广15 Guang15</td><td>0.481c</td><td>17.384c</td><td>14.635b</td><td>0.293c</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.4干物质积累阶段",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "依据Logistic曲线进一步将大豆复光后干物质积累过程分为渐增期、快增期和缓增期(表3)。3种类型大豆各阶段的干物质积累持续时间均为缓增期 $\\lvert >$ 快增期 $| >$ 渐增期；干物质积累速率均呈先上升后下降趋势，表现为快增期 $| >$ 渐增期 $| >$ 缓增期，干物质积累量则为快增期 $\\lvert >$ 缓增期 $>$ 渐增期。高产类型大豆渐增期持续时间最长，两年平均值为13.45d，缓增期持续时间两年平均值为40.54d，均显著高于低产类型，但快增期差异不显著。高产类型在3个时期的干物质积累速率和积累量均最大。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.5干物质积累参数和产量的相关分析 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对3种类型大豆的产量和各干物质积累参数进行相关分析发现(表4)，产量与最大干物质积累速率 $( R _ { \\mathrm { m a x } } )$ 、最大干物质积累速率时间 $( T _ { \\mathrm { m a x } } )$ 、干物质积累速率最大时生长量 $( W _ { \\mathrm { m a x } } )$ 、平均干物质积累速率$( V _ { \\mathrm { m e a n } } )$ 、渐增期持续时间 $( T _ { 1 } )$ 、渐增期干物质增量$\\left( w _ { 1 } \\right)$ 、快增期平均积累速率 $( \\nu _ { 2 } )$ 、快增期干物质增量$\\left( w _ { 2 } \\right)$ 、缓增期平均积累速率 $\\left( \\nu _ { 3 } \\right)$ 、缓增期干物质增量$\\left( w _ { 3 } \\right)$ 呈显著正相关。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2 不同产量水平大豆品种成熟期群体物质生产特征",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过计算大豆复光当天(0d)至大豆生理成熟(45d)这一阶段的群体物质生产特征发现(表5),2013年，高产类型大豆的叶面积指数、光能截获率、群体生长率及光合势分别为 $2 . 4 5 ~ \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 }$ 、0.80$\\mathrm { g } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 }$ 、 $5 . 5 5 \\ \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { d } ^ { - 1 }$ 和 $3 6 6 . 7 7 ~ \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { d } { \\cdot } \\mathrm { m } ^ { - 2 }$ ，分别大于中产类型的 $1 . 5 0 ~ \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { d } ^ { - 1 }$ 、 $0 . 6 7 \\ \\mathrm { \\ g } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 }$ 、3.37$\\mathbf { g } { \\cdot } \\mathbf { m } ^ { - 2 } { \\cdot } \\mathbf { d } ^ { - 1 }$ 、 $2 5 0 . 3 4 ~ \\mathrm { \\ m } ^ { 2 } { \\cdot } \\mathrm { d } { \\cdot } \\mathrm { m } ^ { - 2 }$ 和低产类型的1.11$\\mathbf { g } { \\cdot } \\mathbf { m } ^ { - 2 } { \\cdot } \\mathbf { d } ^ { - 1 }$ 、 $0 . 4 5 ~ \\mathrm { g } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 }$ 、 $2 . 7 4 ~ \\mathrm { g } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 }$ 和205.87$\\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { d } { \\cdot } \\mathrm { m } ^ { - 2 }$ 。2014 年，高产大豆‘特选 13'的叶面积指数、光能截获率、群体生长率及光合势分别为2.59$\\mathbf { g } { \\cdot } \\mathbf { m } ^ { - 2 } { \\cdot } \\mathbf { d } ^ { - 1 }$ 、 $0 . 8 3 \\ \\mathrm { \\ g } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { d } ^ { - 1 }$ 、 $6 . 5 0 ~ \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { d } ^ { - 1 }$ 和268.92$\\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { d } { \\cdot } \\mathrm { m } ^ { - 2 }$ ，均显著大于中、低产类型大豆。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/4f59c3f3741055acae9cfdab5b12697e9a4fbdd54d3631dadd903899510b416e.jpg",
+        "table_caption": [
+            "表3不同产量类型大豆与玉米套作复光后干物质积累3个阶段的特征参数 Table3Characteristicsparametersofthreedrymateraccumulationphasesafterlightrecoveryofsoybeansvarieties withdierent yield levels in maize-soybean relay strip intercropping system "
+        ],
+        "table_footnote": [
+            "（24号 $T _ { 1 }$ 、 $T _ { 2 }$ 和 $T _ { 3 }$ 分别代表渐增期、快增期和缓增期的持续时间; $\\nu _ { 1 } , \\ \\nu _ { 2 }$ 和 $\\nu _ { 3 }$ 分别代表渐增期、快增期和缓增期的平均干物质积累速率; $\\boldsymbol { w } _ { 1 } , ~ \\boldsymbol { w } _ { 2 }$ 和 $w _ { 3 }$ 分别代表渐增期、快增期和缓增期的干物质积累量。不同小写字母表示在0.05 水平上差异显著。 $T _ { 1 }$ ， $T _ { 2 }$ and $T _ { 3 }$ stand for dry matter acumulation durations of gradual increase stage,fast increase stage and slow increase stage of dry mater,respectively. $\\nu _ { 1 } , \\nu _ { 2 }$ and $\\nu _ { 3 }$ stand for mean dry matter accumulation rates of gradual increase stage,fast increase stage and slow increase stage of dry matter. $w _ { 1 }$ $w _ { 2 }$ and $w _ { 3 }$ stand for increased dry materweightsfadalicreasagefasticeasestaeandoieasestaeofdryatrierentlowecaseleterseaiiicat differences at 0.05 level. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">年份 Year</td><td rowspan=\"2\">类型 Type</td><td rowspan=\"2\">品种 Variety</td><td colspan=\"3\">Ggradua ncrease stage</td><td colspan=\"3\">Fast incrtase stage</td><td colspan=\"3\">Slow crae stge</td></tr><tr><td>T1</td><td>V1</td><td>W1</td><td>T</td><td>V2</td><td>W2</td><td>T</td><td>V</td><td>W3</td></tr><tr><td>2013</td><td>高产类型 High yield type</td><td>南豆021-1 Nandou021-1</td><td>14.34</td><td>0.26</td><td>5.78</td><td>38.12</td><td>0.71</td><td>26.91</td><td>47.45</td><td>0.20</td><td>9.39</td></tr><tr><td></td><td></td><td>特选13 Texuan13</td><td>12.21</td><td>0.33</td><td>1.85</td><td>32.42</td><td>0.82</td><td>16.44</td><td>42.06</td><td>0.22</td><td>5.73</td></tr><tr><td></td><td></td><td>南豆12 Nandou12</td><td>12.16</td><td>0.33</td><td>4.00</td><td>23.21</td><td>0.95</td><td>22.04</td><td>28.89</td><td>0.27</td><td>7.69</td></tr><tr><td></td><td></td><td>贡选1号 Gongxuan-1</td><td>11.34</td><td>0.23</td><td>2.65</td><td>22.39</td><td>0.90</td><td>20.12</td><td>27.87</td><td>0.25</td><td>7.02</td></tr><tr><td></td><td>中产类型 Middle yield type</td><td>小黄豆 Xiaohuangdou</td><td>7.94</td><td>0.34</td><td>2.70</td><td>28.12</td><td>0.54</td><td>15.21</td><td>35.00</td><td>0.15</td><td>5.31</td></tr><tr><td></td><td></td><td>菜豆Caidou</td><td>6.66</td><td>0.34</td><td>2.24</td><td>27.87</td><td>0.61</td><td>14.02</td><td>35.46</td><td>0.17</td><td>4.89</td></tr><tr><td></td><td></td><td>桂夏3号Guixia-3</td><td>8.27</td><td>0.12</td><td>0.99</td><td>26.87</td><td>0.46</td><td>10.42</td><td>34.47</td><td>0.13</td><td>3.64</td></tr><tr><td></td><td></td><td>大圆豆Dayuandou</td><td>6.38</td><td>0.24</td><td>0.57</td><td>26.68</td><td>0.33</td><td>8.84</td><td>33.21</td><td>0.09</td><td>3.08</td></tr><tr><td></td><td></td><td>罗泉黄 Luoquanhuang</td><td>8.25</td><td>0.28</td><td>3.10</td><td>30.88</td><td>0.49</td><td>19.85</td><td>36.89</td><td>0.14</td><td>6.92</td></tr><tr><td></td><td>低产类型 Low yield type</td><td>铅山乌豆Qianshanwudou</td><td>4.80</td><td>0.16</td><td>0.75</td><td>23.50</td><td>0.50</td><td>11.68</td><td>29.25</td><td>0.14</td><td>4.07</td></tr><tr><td></td><td></td><td>南 256-1 Nan256-1</td><td>7.29</td><td>0.07</td><td>0.52</td><td>25.83</td><td>0.46</td><td>11.77</td><td>32.15</td><td>0.13</td><td>4.10</td></tr><tr><td></td><td></td><td>大黄珠 Dahuangzhu</td><td>5.75</td><td>0.29</td><td>1.68</td><td>30.74</td><td>0.31</td><td>11.84</td><td>35.98</td><td>0.09</td><td>4.13</td></tr><tr><td></td><td></td><td>广15Guang15</td><td>5.82</td><td>0.12</td><td>0.70</td><td>26.90</td><td>0.34</td><td>9.17</td><td>33.49</td><td>0.10</td><td>3.20</td></tr><tr><td></td><td></td><td>贡秋豆 04-2 Gongqiudou04-2</td><td>6.34</td><td>0.03</td><td>0.43</td><td>30.63</td><td>0.38</td><td>14.06</td><td>35.60</td><td>0.11</td><td>4.90</td></tr><tr><td></td><td>平均 Average</td><td>高产类型 High yield type</td><td>12.51a</td><td>0.29a</td><td>3.56a</td><td>29.03a</td><td>0.84a</td><td>21.37a</td><td>36.31a</td><td>0.23a</td><td>7.45a</td></tr><tr><td></td><td></td><td>中产类型 Middle yield type</td><td>7.50b</td><td>0.26b</td><td>1.91b</td><td>28.08ab</td><td>0.48b</td><td>13.66b</td><td>35.01a</td><td>0.14b</td><td>4.76b</td></tr><tr><td>2014</td><td></td><td>低产类型Low yield type</td><td>5.99c</td><td>0.13c</td><td>0.81c</td><td>27.52b</td><td>0.39c</td><td>11.70c</td><td>33.29b</td><td>0.11c</td><td>4.08b</td></tr><tr><td></td><td>高产类型 High yield type</td><td>特选13 Texuan13</td><td>11.41a</td><td>0.49a</td><td>5.19a</td><td>30.71a</td><td>1.06a</td><td>22.04a</td><td>44.77a</td><td>0.29a</td><td>7.68a</td></tr><tr><td></td><td>中产类型 Middle yield type</td><td>罗泉黄 Luoquanhuang</td><td>8.80b</td><td>0.32b</td><td>3.52b</td><td>29.17a</td><td>0.69b</td><td>17.25b</td><td>35.78b</td><td>0.25b</td><td>6.01b</td></tr><tr><td></td><td>低产类型 Low yield type</td><td>广15 Guang15</td><td>5.79c</td><td>0.30c</td><td>2.65c</td><td>29.98a</td><td>0.42c</td><td>16.89c</td><td>33.87c</td><td>0.11c</td><td>5.89c</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/8e6e3ae337aff99bef43489907258c976d3044f73a47818cfefa8bd5dbf57300.jpg",
+        "table_caption": [
+            "表4与玉米套作的不同产量类型大豆产量与干物质积累因子的相关性Table4Corelationofyieldanddrymateraccumulationfactorsofsoybeans Varieties withdiferentyieldlevelsinmaize-soybeanrelay strip intercropping system"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">年份 Year</td><td colspan=\"11\">因子Factor</td></tr><tr><td>Rmax</td><td>Tmax</td><td>Wmax</td><td>Vmean</td><td>T</td><td>V1</td><td>W1</td><td>T</td><td>V</td><td>W2</td><td>T</td><td>V</td><td>W3</td></tr><tr><td>2013</td><td>0.690**</td><td>0.596*</td><td>0.825**</td><td>0.645**</td><td>0.727**</td><td>0.231</td><td>0.714**</td><td>0.226</td><td>0.690**</td><td>0.825**</td><td>0.226</td><td>0.690**</td><td>0.825**</td></tr><tr><td>2014</td><td>0.712**</td><td>0.664*</td><td>0.931**</td><td>0.597*</td><td>0.835**</td><td>0.588</td><td>0.812**</td><td>0.449</td><td>0.601**</td><td>0.774**</td><td>0.136</td><td>0.650**</td><td>0.819**</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$R _ { \\mathrm { m a x } }$ ：最大干物质积累速率; $T _ { \\mathrm { m a x } }$ ：最大干物质积累速率时间; $W _ { \\mathrm { m a x } }$ ：干物质积累速率最大时间生长量; $V _ { \\mathrm { m e a n } }$ ：平均积累速率。 $T _ { 1 } .$ ： $T _ { 2 }$ 和 $T _ { 3 }$ （204号 分别代表渐增期、快增期和缓增期的持续时间; $\\nu _ { 1 } , \\ \\nu _ { 2 }$ 和 $\\mathbf { \\sigma } _ { \\nu _ { 3 } }$ 分别代表渐增期、快增期和缓增期的平均干物质积累速率; $w _ { 1 } , \\ w _ { 2 }$ 和 $w _ { 3 }$ 分别代表 渐增期、快增期和缓增期的干物质积累量。\\*， $^ { * * }$ 分别代表在0.05和0.01水平上显著。 $R _ { \\mathrm { m a x } }$ : maximum dry matter accumulation rate; $T _ { \\mathrm { m a x } }$ : the time reaching the maximum dry matter accumulation rate; $W _ { \\mathrm { m a x } }$ : dry matter weight at the time of maximum dry matter accumulation rate; $V _ { \\mathrm { m e a n } }$ : mean dry matter accumulation rate. $T _ { 1 }$ ， $T _ { 2 }$ and $T _ { 3 }$ stand fordry mater accumulation durations of gradual increase stage,fast increase stage and slow increase stage of dry matter,respectively. $\\nu _ { 1 }$ $\\nu _ { 2 }$ and $\\nu _ { 3 }$ stand for mean dry matter accumulation rates of gradual increase stage,fast increase stage and slow increase stage of dry matter. $w _ { 1 }$ $w _ { 2 }$ and $w _ { 3 }$ stand for increased dry mater weights of gradual increase stage,fast increase stage,and slow increase stage of dry matter. \\*, $^ { * * }$ indicate significant differences at the O.05 and 0.01 probability levels,respectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/70b8e54940426803fb8afcb18953aeffeba7c379089833b16ade30e4dacac2fc.jpg",
+        "table_caption": [
+            "表5不同产量类型大豆与玉米套作复光后的光合积累特征 Table5Characteristicsofphotosyntheticaccumulationafterlightrecoveryofsoybeans Varieties withdiferent yieldlevels in maize- soybean relay strip intercropping system "
+        ],
+        "table_footnote": [
+            "不同小写字母表示在 0.05 水平上差异显著。Different lowercase letters mean significant differences at 0.05 level."
+        ],
+        "table_body": "<html><body><table><tr><td>年份 Year</td><td>类型 Type</td><td>品种 Variety</td><td>叶面积指数 Leaf area index</td><td>光能截获率 Light interception rate</td><td>群体生长率 Population growth rate</td><td>光合势 Leaf area duration</td></tr><tr><td>2013</td><td>高产类型 High yield type</td><td>南豆021-1 Nandou021-1</td><td>2.53</td><td>(%) 0.81</td><td>(g·m-2.d-1) 5.11</td><td>(m²-d·m-2) 351.45</td></tr><tr><td></td><td></td><td>特选13 Texuan13</td><td>1.86</td><td>0.81</td><td>5.38</td><td>274.44</td></tr><tr><td></td><td></td><td>南豆12 Nandou12</td><td>2.73</td><td>0.77</td><td>6.24</td><td>416.17</td></tr><tr><td></td><td>中产类型</td><td>贡选1号 Gongxuan-1</td><td>2.68</td><td>0.85</td><td>5.48</td><td>425.05</td></tr><tr><td></td><td>Middle yield type</td><td>小黄豆Xiaohuangdou</td><td>1.54</td><td>0.83</td><td>3.60</td><td>276.15</td></tr><tr><td></td><td></td><td>菜豆Caidou</td><td>1.70</td><td>0.75</td><td>3.68</td><td>297.09</td></tr><tr><td></td><td></td><td>桂夏3号Guixia-3</td><td>1.46</td><td>0.77</td><td>3.10</td><td>238.13</td></tr><tr><td></td><td>低产类型</td><td>大圆豆Dayuandou</td><td>0.97</td><td>0.37</td><td>2.39</td><td>178.29</td></tr><tr><td></td><td>Low yield type</td><td>罗泉黄 Luoquanhuang 铅山乌豆 Qianshanwudou</td><td>1.87</td><td>0.66</td><td>4.13</td><td>262.06</td></tr><tr><td></td><td></td><td>南 256-1 Nan256-1</td><td>1.55</td><td>0.52</td><td>3.08</td><td>268.76</td></tr><tr><td></td><td></td><td>大黄珠 Dahuangzhu</td><td>1.52</td><td>0.65</td><td>2.82</td><td>256.85</td></tr><tr><td></td><td></td><td>广15 Guang15</td><td>0.88</td><td>0.48</td><td>2.62</td><td>183.64</td></tr><tr><td></td><td></td><td></td><td>0.89</td><td>0.30</td><td>2.33</td><td>175.87</td></tr><tr><td></td><td>平均Average</td><td>贡秋豆04-2 Gongqiudou04-2</td><td>0.75</td><td>0.34</td><td>2.86</td><td>144.26</td></tr><tr><td></td><td></td><td>高产类型 High yield type</td><td>2.45a</td><td>0.80a</td><td>5.55a</td><td>366.77a</td></tr><tr><td></td><td></td><td>中产类型 Middle yield type</td><td>1.50b</td><td>0.67b</td><td>3.37b</td><td>250.34b</td></tr><tr><td>2014</td><td></td><td>低产类型Low yield type</td><td>1.11c</td><td>0.45c</td><td>2.74c</td><td>205.87c</td></tr><tr><td></td><td>高产类型 High yield type</td><td>特选13 Texuan13</td><td>2.59a</td><td>0.83a</td><td>6.50a</td><td>268.92a</td></tr><tr><td></td><td>中产类型 Middle yield type</td><td>罗泉黄 Luoquanhuang</td><td>2.04b</td><td>0.70b</td><td>4.64b</td><td>248.49b</td></tr><tr><td></td><td>低产类型 Low yield type</td><td>广15 Guang15</td><td>1.15c</td><td>0.42c</td><td>3.11c</td><td>174.24c</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1不同大豆品种复光后干物质积累模型的建立及特征参数",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "作物生长模型可描述作物生长发育特征，在大豆、水稻(Oryza sativa)、玉米(Zea mays)等作物上均有相关报道[17,19-20]。就大豆而言，唐江华等[21]基于Logistic 方程分析了不同耕作方式对夏大豆干物质积累与分配规律的影响。姜丽霞等[22根据Logistic方程建立了大豆干物质累积曲线从而预报大豆产量。本研究表明，3种产量类型大豆复光后干物质量通过Logistic方程的拟合效果较好 $\\cdot R ^ { 2 }$ 均大于0.960)，在此基础上,分析了不同产量类型大豆品种干物质生产特征。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "此前，基于作物生长模型对大豆干物质生产特征的描述多侧重于单作大豆的全生育期，而对套作大豆特别是套作复光后大豆干物质生产特征的研究还少见报道。本研究表明，大豆复光后干物质积累速率呈先上升后下降趋势，可分为渐增期、快增期和缓增期；高产类型大豆渐增期持续时间两年平均值为13.45d，均显著高于中、低产类型，最大干物质积累速率在复光后29d，且高产类型在3个时期的干物质积累速率和积累量均最大。有研究表明，对大豆营养生长期进行荫蔽处理会影响大豆形态特征及降低生物量积累，但对籽粒产量没有影响，而对生殖生长期进行遮荫则会显著降低产量[23-25]。也有报道表明，对大豆在生殖生长期进行光富集处理时能增加大豆产量，暗示大豆生殖生长期增强光照有利于提高产量[26-27]。对不同生育时期遮荫发现,大豆在出苗一盛花期间遮荫，主要影响主茎形态，对产量形成影响不大，且在盛花期前复光，有利于叶片光合能力的恢复[28]。根据大豆生育期发现，套作下高产类型大豆生育期较长，恢复光照时，高产大豆仍处于营养生长期，此时复光可以为生殖生长积累更多能量，而中低产大豆已进入生殖生长期，荫蔽环境严重影响了产量的形成。相关分析也表明，渐增期持续时间和积累量与产量呈极显著正相关。说明高产大豆在复光后较大的干物质积累量主要来自其较长的渐增期和较大的平均增长速率。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2不同大豆品种复光后群体光合物质生产差异",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "增加生殖生长期物质生产能力是提高大豆产量的有效途径[29]。叶面积指数、光能截获率、光合势、群体生长率等是表征群体光合生产能力的重要指标[30]。黄中文等[31]研究表明，高产品系在生殖生长期地下部和地上部生物量显著高于中、低产品系。也有研究表明，恢复光照后，大豆地上部干物质迅速增加,分配规律表现为“茎少叶多”，高产类型地上部干物质、叶面积、叶干重比例均显著大于低产类型[32-33]。本试验条件下，高产类型大豆产量两年平均值达$1 ~ 4 0 8 . 1 7 ~ \\mathrm { \\ k g ^ { . } h m ^ { - 2 } }$ ，较中、低产类型分别高 $3 7 . 4 5 \\%$ 和$5 7 . 2 5 \\% _ { \\textmd c }$ 、恢复光照后，叶面积指数、光能截获率、群体生长率和光合势均以高产类型显著大于中、低产类型。说明高产类型大豆叶面积较大，能截获较多的光照，从而促进更多干物质积累，为高产奠定了基础。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "套作下高产类型大豆在复光时仍处于营养生长期，复光可以为生殖生长积累更多能量。高产类型大豆在光照恢复后的干物质积累量、叶面积指数、光能截获率、群体生长率及光合势均显著高于中、低产类型。其复光后较强的物质积累优势主要体现在复光后的渐增阶段，且渐增阶段较强的物质积累能力主要在于其较长的渐增期天数。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献 References   \n[1］杨文钰，杨峰，雍太文．我国间套作大豆研究方向和发展 对策研讨会纪要[J]．大豆科技,2011,(1):35-36 Yang W Y, Yang F, Yong T W. Symposium of research and development countermeasure of interplanting soybean in China[J]. Soybean Science & Technology,2011,(1): 35-36   \n[2] 杨文钰，雍太文，任万军，等．发展套作大豆，振兴大豆产 业[J].大豆科学,2008,27(1):1-7 Yang W Y, Yong T W,Ren WJ,et al. Develop relay-planting soybean, revitalize soybean industry[J]. Soybean Science, 2008,27(1): 1-7   \n[3] Wu Y S,Gong W Z,Yang F,et al. Responses to shade and subsequent recovery of soya bean in maize-soya bean relay strip intercropping[J]. Plant Production Science,2016,19(2): 206-214   \n[4] 范元芳，杨峰，何知舟，等．套作大豆形态、光合特征对玉 米荫蔽及光照恢复的响应[J]．中国生态农业学报，2016, 24(5): 608-617 Fan Y F,Yang F,He Z Z,et al. Effects of shading and light recoveryonsoybeanmorphologyandphotosynthetic characteristics in soybean-maize intercropping system[J]. Chinese Journal of Eco-Agriculture,2016,24(5): 608-617   \n[5] 任梦露，刘卫国，刘小明，等．荫蔽信号对大豆幼苗生长和 光合特性的影响[J]．中国生态农业学报，2016，24(4): 499-505 Ren M L,Liu WG,Liu X M,et al. Effect of shading signal on growth and photosynthetic characteristics of soybean seedlings[J]. Chinese Journal of Eco-Agriculture,2016,24(4): 499-505   \n[6] Gong W Z,Qi P F,Du JB,et al. Transcriptome analysis of shade-induced inhibition on leaf size in relay intercropped soybean[J]. PLoS One,2014,9(6): e98465   \n[7] Gong W Z, Jiang C D, ${ \\sf W u } { \\mathrm { ~ Y ~ S ~ } }$ ,et al. Tolerance vs.avoidance: Two strategies of soybean (Glycine max） seedlingsin response to shade in intercroppng[J]. Photosynthetica, 2015, 53(2): 259-268   \n[8] Su B Y, Song Y X, Song C,et al. Growth and photosynthetic responses of soybean seedlings to maize shading in relay intercropping system in Southwest China[J].Photosynthetica, 2014,52(3): 332-340   \n[9] Yang F,Huang S,Gao R C,et al. Growth of soybean seedlings in relay strip intercropping systems in relation to light quantity and red: Far-red ratio[J].Field Crops Research, 2014,155: 245-253   \n10] 李瑞，文涛，唐艳萍，等．遮荫对大豆幼苗光合和荧光特性 的影响[J].草业学报,2014,23(6):198-206 Li R,Wen T，Tang Y P,et al. Effect of shading on photosynthetic and chlorophyll fluorescence characteristics of soybean[J].Acta Prataculturae Sinica,2014,23(6): 198-206   \n11]刘婷，刘卫国，任梦露，等．遮荫程度对不同耐荫性大豆品 种光合及抗倒程度的影响[J]．中国农业科学，2016，49(8): 1466-1475 Liu T,Liu WG,Ren ML,et al. Effects of shade degrees on photosynthesis and lodging resistance degree of different   \n49(8): 1466-1475 [12] Li L，Sun J H,Zhang F S,et al．Wheat/maize or wheat/soybeanstrip intercropping:I.Recoveryor compensation of maize and soybean after wheat harvesting[J]. Field Crops Research,2001,71(3):173-181 [13] Li L，Sun J H,Zhang F S,et al．Wheat/maize or wheat/soybean strip intercropping:I.Yield advantage and interspecificinteractionson nutrients[J].Field Crops Research,2001,71(2): 123-137 [14] Li C J,Yan D,Li H G,et al．The dynamic process of interspecific interactions of competitive nitrogen capture between intercropped wheat (Triticum aestivum L.）and faba bean (Vicia faba L.)[J].PLoS One,2014,9(12): e115804 [15] Corre-Hellou G,Faure M,Launay M,et al. Adaptation of the STICS intercrop model to simulate crop growth and N accumulationin pea-barleyintercrops[J].Field Crops Research,2009,113(1): 72-81 [16]王晓慧，张磊，刘双利，等．不同熟期春玉米品种的籽粒灌 浆特性[J]．中国农业科学,2014,47(18):3557-3565 Wang X H, Zhang L，Liu S L,et al. Grain filling characteristics of maize hybrids differing in maturities[J]. Scientia Agricultura Sinica,2014,47(18): 3557-3565 [17］韦还和，孟天瑶，李超，等．甬优粘粳杂交稻花后干物质积 累模型与特征分析[J]．作物学报,2016,42(2):265-277 Wei H H,Meng T Y,Li C,et al. Dynamic model and its characteristics analysis for dry matter production after heading of Indica/Japonica hybrid rice of Yongyou Series[J]. Acta Agronomica Sinica,2016,42(2):265-277 [18]金剑，刘晓冰，王光华,等．大豆高产群体的生态生理特征[J]. 中国油料作物学报,2003,25(3):109-114 JinJ,Liu XB,WangGH,etal.Eco-physiologicalcharacters of high yielding population in soybean[J]. Chinese Journal of Oil Crop Sciences,2003,25(3):109-114 [19]李向岭，赵明，李从锋，等．播期和密度对玉米干物质积累 动态的影响及其模型的建立[J]．作物学报，2010，36(12):   \n2143-2153 Li X L,Zhao M,Li C F,et al. Effect of sowing-date and planting density on dry matter accumulation dynamic and establishment of its simulated model in maize[J].Acta Agronomica Sinica,2010,36(12):2143-2153 [20] 杨萍，李杰，剡斌，等．胡麻/大豆间作体系下施氮对胡麻 干物质积累和产量的影响[J]．中国油料作物学报，2015,   \n37(4): 489-497 Yang P,Li J, Yan B,et al. Effects of applied nitrogen on dry matter accumulation and oil flax yield in flax/soybean intercropping system[J]. Chinese Journal of Oil Crop Sciences,2015,37(4): 489-497 [21]唐江华，苏丽丽，罗家祥，等．不同耕作方式对夏大豆干物 质积累及转运特性的影响[J]．核农学报，2015，29(10):   \n2026-2032 Tang J H,Su L L,Luo J X,et al. Effects of different tillage methods on dry matter accumulation and transfer characteristics of summer soybean[J].Journal of Nuclear Agricultural Sciences,2015,29(10): 2026-2032 [22] 姜丽霞，那济海，朱海霞，等．基于Logistic 方程的大豆产 量预报方法[J]．大豆科学,2008,27(3):414-419 Jiang L X,Na JH, Zhu H X,et al.Method for forecasting soybean yield based on logistic equation[J]. Soybean Science, 2008,27(3): 414-419   \n[23] Jiang HF,Egli D B.Shade induced changes in flower and pod number and flower and fruit abscission in soybean[J]. Agronomy Journal,1993,85(2): 221-225   \n[24] Jiang HF,Egli D B.Soybean seed number and crop growth rate during flowering[J]. Agronomy Journal，1995,87(2): 264-267   \n[25]王一，杨文钰，张霞，等．不同生育时期遮阴对大豆形态性 状和产量的影响[J]．作物学报,2013,39(10):1871-1879 Wang Y,Yang W Y,Zhang X,et al. Effects of shading at different growth stages on different traits and yield of soybean[J].Acta Agronomica Sinica,2013，39(10): 1871-1879   \n[26] Mathew JP,Herbert S J,Zhang S H,et al.Differential response of soybean yield components to the timing of light enrichment[J].Agronomy Journal,2000,92(6): 1156-1161   \n[27] Liu X B,Herbert S J, Hashemi A M,et al. Responses of soya bean yield and yield component distribution across the main axis under source-sink manipulation[J]. Journal of Agronomy and Crop Science,2006,192(2): 140-146   \n[28] 王一，张霞，杨文钰，等．不同生育时期遮阴对大豆叶片光 合和叶绿素荧光特性的影响[J]．中国农业科学，2016, 49(11): 2072-2081 Wang Y, Zhang X,Yang W Y,et al. Effect of shading on soybean leaf photosynthesis and chlorophyll fluorescence characteristicsatdifferentgrowthstages[J]. Scientia Agricultura Sinica,2016,49(11): 2072-2081   \n[29] Board JE,Modali H. Dry matter accumulation predictors for optimal yield in soybean[J]. Crop Science，2005,45(5): 1790-1799   \n[30] 凌启鸿．作物群体质量[M]．上海：上海科学技术出版社, 2000: 42-120 Ling Q H. Crop Population Quality[M]. Shanghai: Shanghai Scientific and Technical Publishers,20o0:42-120   \n[31] 黄中文，赵团结，盖钧镒．大豆不同产量水平生物量积累 与分配的动态分析[J]．作物学报,2009,35(8):1483-1490 Huang Z W, Zhao T J,Gai JY.Dynamic analysis of biomass accumulation and partition in soybean with diffrent yield levels[J]. Acta Agronomica Sinica, 2009,35(8): 1483-1490   \n[32]龚万灼，吴雨珊，雍太文，等．玉米-大豆带状套作中荫蔽 及光照恢复对大豆生长特性与产量的影响[J]．中国油料作 物学报,2015,37(4):475-480 Gong W Z,Wu Y S,Yong T W,et al.Effects of shade and lighting recovery on growth and yield of soybean in maize-aoybean relay strip intercropping[J]. Chinese Journal of Oil Crop Sciences,2015,37(4): 475-480   \n[33]吴雨珊，龚万灼，廖敦平，等．带状套作荫蔽及复光对不同 大豆品种(系)生长及产量的影响[J]．作物学报，2015, 41(11): 1740-1747 Wu Y S,Gong W Z,Liao DP,et al. Effects of shade and light recovery on soybean cultivars (Lines）and itsrelationship with yield in relay strip intercropping system[J].Acta Agronomica Sinica,2015,41(11): 1740-1747 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

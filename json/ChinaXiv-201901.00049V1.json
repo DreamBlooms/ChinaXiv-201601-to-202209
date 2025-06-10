@@ -1,0 +1,630 @@
+[
+    {
+        "type": "text",
+        "text": "结合评分比例因子及项目属性的协同过滤算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李淑芝‘，李志军‘，邓小鸿b(江西理工大学 a.信息工程学院;b.应用科学学院，江西 赣州 341000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对传统的协同过滤算法存在用户评分矩阵稀疏及未考虑项目属性之间关系的问题，提出了结合评分比例因子及项目属性的协同过滤算法。首先利用评分矩阵得出项目之间的共同与非共同评分用户数量比矩阵，以此增加项目共同评分用户的影响度，减少用户一项目评分矩阵的稀疏性对项目相似度计算带来的误差；然后对项目属性量化得出其对项目相似度的影响权重，提高项目相似度计算的准确性，根据以上两点提出了一种结合评分比例因子及项目属性权重作为项目相似度权重的算法。实验结果表明该算法在召回率和准确率上相比现有的方法分别提高了$5 . 1 \\%$ 和 $4 . 7 \\%$ ，算法适用于电商类网站的个性化推荐。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：协同过滤；稀疏矩阵；评分比例因子；项目属性 中图分类号：TP301.6 doi:10.3969/j.issn.1001-3695.2018.08.0627 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Collaborative filtering algorithm combined with score scale factor and item attribute ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Li Shuzhia, Li Zhijuna, Deng Xiaohongb (a.Collegeof Information Engineering，b.Colegeof Applied Science,Jiangxi Universityof Science&Technology, Ganzhou Jiangxi 341000, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Thereexists several issues intraditional colaborativefitering algorithms:a)Ithas the sparsityof userrating matrix;b)It ignores therelationshipbetween itematributes.Considering alltese problems,this paper proposed a novel collaborative filtering algorithm combining scoreratio factorand item atribute.Thealgorithmused the scoring matrix to obtain theratio matrix of common andnon-common score users betweenitems.Therefore,itincreased the influence degree ofthe users ofthe item common score,and reduced the errorcaused by the sparsityofthe user-item scoring matrix on the itemsimilaritycalculation.quantifyingtheitematributecouldobtain the weightof theitemsimilarity,and italsoimproved the accuracyof the item similaritycalculation.According tothe above two points,an algorithm combining scoring scale factorand itematribute weightasitemsimilarityweight isproposed.Experimentalresultsshowthat,itimprovedtherecall rate and accuracy of the algorithm by $5 . 1 \\%$ and $4 . 7 \\%$ respectively compared with the existing methods.The algorithm is suitable for personalized recommendation of e-commerce websites. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:collaborative filtering; sparse matrix; scoring scale factor; item attribute ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着电子商务规模的不断扩大，商品个数和种类快速增长，出现了“信息超载”问题。为了解决这些问题，个性化推荐系统应运而生[1-4]。协同过滤推荐算法是目前应用最广泛的个性化推荐算法，其出色的速度和健壮性，在全球互联网领域备受青睐。协同过滤的原理就是利用某种兴趣相投、拥有共同经验群体的喜好来推荐用户感兴趣的信息，个人通过合作的机制给予信息一定程度的回应（如评分）并记录下来以达到过滤的目的，进而帮助别人筛选信息。协同过滤算法可以分为基于用户（user-basedcollaborative filtering）和基于项目（item-based collaborative filtering）两方面[5\\~8]，这两方面都属于最近邻协同过滤推荐，通过评分相似的多个最近邻居的评分向用户产生推荐。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "但是随着用户（或项目）规模的急剧扩大，数据变得越来越稀疏，协同过滤推荐算法存在着一些缺陷，主要包括矩阵稀疏造成的推荐结果不精确；项目冷启动问题,即如何为新加入系统的用户推荐。针对以上问题，许多研究者从不同角度对协同过滤推荐算法进行了相应的改进和完善。Ha等人[9]提出将单个用户评价过的项目构建成项目网络图，根据项目网络图中用户已评分的项目预测其对未评分项目的喜好度并按照降序排名形成推荐集，提高了推荐结果的准确性，但是当用户评价的项目数量较少或者新用户没有评价无法构建项目网络图，存在着冷启动问题。Yagci等人[10]提出利用评分项目中频繁子集来代替传统的项目相似度矩阵，减少了计算复杂度和避免了传统项目相似度矩阵带来的误差，提高了推荐质量，但是支持度阈值需要动态迭代，算法在通用性方面存在不足。Polato 等人[11]提出了一种基于核方法的协同过滤，该算法在为用户推荐时考虑到了项目流行度的长尾分布及用户个人偏好，在准确率、召回率上得到了提高。孔欣欣等人[12]提出以标签权重评分的形式向用户展示推荐结果并作出合理的解释，证明了推荐结果的有效性。于金明等人[13]提出了一种基于评分相似性和结构相似性两部分构成的新的项目相似度量方法，该方法惩罚活跃用户的逆项目频率，考虑到共同评分用户对相似度的影响，有效地提高了推荐结果的准确性，但是该算法未考虑到项目属性之间的关系。Zhou等人[14]提出了一种基于置信加权偏差模型的在线协同过滤算法，将用户个人兴趣引入到相似度计算公式中，提高了相似度计算的准确性，缓解了数据稀疏问题以及提高了推荐准确性，但是未考虑到用户及项目属性之间的联系。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为解决上述文献计算相似度时未考虑项目属性及项目冷启动问题，本文提出了一种基于项目属性权重和用户评分比例因子作为项目相似性权重的协同过滤算法，克服了传统的项目相似性计算未能考虑项目属性内在联系及矩阵稀疏性带来的不准确问题。算法同时考虑到项目冷启动问题，通过在系统中找出与大多数用户都相似的用户，然后将这些用户选择的物品推荐给新用户的方式，来解决项目冷启动的问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1传统的协同过滤推荐算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1用户-项目评分数据表建立",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设有用户集合 $U = \\{ u _ { 1 } , u _ { 2 } , u _ { 3 } , \\cdots , u _ { n } \\}$ ，物品集合$I = \\{ i _ { 1 } , i _ { 2 } , i _ { 3 } , \\cdots , i _ { m } \\}$ ， $S _ { u i }$ 表示用户 $u$ 对物品 $i$ 的评分，用户对物品的评分值在 $1 { \\sim } 5$ ，用户未评分物品在评分数据中对应为“-”。建立的用户一项目评分数据表 $s$ 如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1用户-项目评分数据表",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/51c1966107ce7c12035ee5a78b2f9ee99f8ee83c47bc57c6b40a8d4a20d53364.jpg",
+        "table_caption": [
+            "Table1 User-item score table "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>i</td><td>i</td><td>i</td><td>：</td><td>im</td></tr><tr><td>u1</td><td>S11</td><td>S12</td><td>S13</td><td>：</td><td>-</td></tr><tr><td>u2</td><td>S21</td><td></td><td>S23</td><td>：</td><td>S2m</td></tr><tr><td>u3</td><td>S31</td><td>S32</td><td></td><td>：</td><td>S3m</td></tr><tr><td></td><td>…</td><td></td><td>…</td><td>：</td><td>…</td></tr><tr><td>un</td><td>Sn1</td><td>Sn2</td><td>-</td><td>…</td><td>Smm</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2相似度计算方式",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "相似度的计算是协同过滤推荐算法的关键步骤，最常用的相似度计算方法有余弦相似度、Pearson相关性以及修正的余弦相似度。在后面的实验中，本文将利用Pearson相关性来计算项目之间的相似度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "使用Pearson相关系数计算项目 $i$ 和 $j$ 之间的相似度如式(1)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns i m ( i , j ) = \\frac { { \\displaystyle \\sum _ { u \\in U _ { i j } } } ( s _ { u i } - \\overline { { s _ { i } } } ) ( s _ { u j } - \\overline { { s _ { j } } } ) } { { \\displaystyle \\sqrt { \\sum _ { u \\in U _ { u v } } ( s _ { u i } - \\overline { { s _ { i } } } ) ^ { 2 } } \\sqrt { \\sum _ { i \\in I _ { u v } } ( s _ { u j } - \\overline { { s _ { j } } } ) ^ { 2 } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $U _ { i j }$ 表示项目 $i$ 和 $j$ 的共同用户集合； $s _ { u i }$ 和 $S _ { \\mu j }$ 分别代表用户 $\\mathbf { \\Omega } _ { u }$ 对项目 $i$ 和 $j$ 的评分值； $\\overline { { s _ { i } } }$ 和 $\\overline { { s _ { j } } }$ 分别代表项目 $i , j$ 的平均评分。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3产生推荐集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "推荐集的产生方式分为基于用户和基于物品的两种方式。基于用户是通过对用户未评分项目进行预测评分并降序排名的方式为用户推荐。基于物品产生推荐集的方式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设根据式(1)计算得出物品相似度矩阵为 $M _ { i } ^ { m \\times \\mathrm { m } }$ ，用户 $\\boldsymbol { u }$ 的评分矩阵为 $\\boldsymbol { M } _ { u } ^ { m \\times 1 }$ ，用户 $u$ 对 $m$ 个物品的喜好程度矩阵 $L _ { u , m } ^ { m \\times 1 }$ 如式(2)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { u , m } ^ { m \\times 1 } = { M } _ { i } ^ { m \\times m } { M } _ { u } ^ { m \\times 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "首先去掉式(2)计算结果中用户 $u$ 已经评价过的物品，然后将剩余物品按照用户喜好度大小降序，选择排名在前top-N个物品形成推荐集为用户 $\\boldsymbol { u }$ 推荐。在后面的实验中，本文将利用基于物品的推荐集产生方式。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 改进后的协同过滤推荐算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1改进的物品相似度计算方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "传统的相似度计量方法当同时评价两个物品的共同用户数量非常少时，根据式(1)得到的物品相似度极大，结果并不",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "合理。为了解决这个问题，引入了两个物品的共同评分用户数量与非共同评分用户数量比例因子的概念。用户评分比例因子的定义如式(3)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF a c t o r _ { i , j } = \\left\\{ \\begin{array} { l l } { 0 } & { \\qquad N _ { i , j } = 0 } \\\\ { \\qquad N _ { i , j } } & { \\qquad N _ { i , j } \\leq N _ { i } + N _ { j } - 2 \\times N _ { i , j } } \\\\ { N _ { i } + N _ { j } - 2 \\times N _ { i , j } } & { \\qquad N _ { i , j } > N _ { i } + N _ { j } - 2 \\times N _ { i , j } } \\\\ { 1 } & { \\qquad N _ { i , j } > N _ { i } + N _ { j } - 2 \\times N _ { i , j } } \\end{array} \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：Factor是用户评分比例因子,它的值域是[0,1]； $N _ { i }$ 为评价过目标物品 $i$ 的用户数量； $N _ { j }$ 为评价过相似物品 $j$ 的用户数量； $N _ { i , j }$ 为同时评价过物品 $i$ ， $j$ 的用户数量； $N _ { i } { + } N _ { j } { - } 2 \\ X N _ { i , j }$ 为从评价过物品 $i , j$ 的用户当中去掉同时评价过物品 $i , j$ 的数量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "传统的基于物品的协同过滤算法未能考虑到项目属性内在的联系，为此本文引入了物品属性权重的概念。针对物品的属性，根据各个物品与之最相似的物品属性之间的关系，将物品属性进行量化，赋予物品属性一个权重。物品属性权重量化的步骤如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）将表1的用户-项目评分矩阵数据表进行矩阵转置转为项目一用户评分矩阵数据表，根据相似度计算式(1)计算各个物品的最相似物品，最相似物品集合记为$M I = \\{ s i m ( i _ { 1 } ) _ { \\mathrm { m a x } } , s i m ( i _ { 2 } ) _ { \\mathrm { m a x } } , \\cdots , s i m ( i _ { m } ) _ { \\mathrm { m a x } } \\}$ ,其中 $i _ { 1 } \\sim i _ { { \\scriptscriptstyle m } }$ 属于1.1中的定义物品集合 $\\boldsymbol { I } _ { \\circ }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）设物品的属性表如表2所示。 ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/2bb3136ab1c8eec9bb7e553745b8d9111dfbd6414f8391c758368ef20c699067.jpg",
+        "table_caption": [
+            "表2物品属性表",
+            "Table2Itemattribute table "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>P1</td><td>P2</td><td></td><td>Pk</td></tr><tr><td>i</td><td>1</td><td>0</td><td></td><td>1</td></tr><tr><td>i</td><td>0</td><td>1</td><td></td><td>1</td></tr><tr><td></td><td>：</td><td>：</td><td>：</td><td>：</td></tr><tr><td>im</td><td>1</td><td>1</td><td>…</td><td>0</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $p _ { 1 } \\sim p _ { k }$ 为物品的 $k$ 个属性，1表示对应的物品有对应的属性，0为对应的物品没有该属性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据表2可求得物品属性相似度，计算物品 $i$ 与 $j$ 的属性相似度方式如式(4)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP s i m ( i , j ) = \\frac { \\left| P N _ { i } \\cap P N _ { j } \\right| } { \\left| P N _ { i } \\cup P N _ { j } \\right| }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $P N _ { i }$ ， $P N _ { j }$ 分别为物品拥有的属性的量， $P N _ { i } \\cap P N _ { j }$ 为物品 $i$ 与 $j$ 共同拥有的属性的量， $P N _ { i } \\cup P N _ { j }$ 为物品 $i$ 与 $j$ 拥有的所有属性的量。如计算物品 $i$ 与 $j$ 的属性相似度，物品 $i$ 有属性物品 $j$ 有属性 $p _ { 1 } , p _ { 3 } , p _ { 4 }$ ，则计算方式如式(5)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP s i m ( i , j ) = \\frac { p _ { 1 } + p _ { 3 } } { p _ { 1 } + p _ { 2 } + p _ { 3 } + p _ { 4 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c）将 $1 { \\sim } k$ 全排列到 $p _ { 1 } \\sim p _ { k }$ ，赋予每个属性一个权重，再根据式(4)再次计算每个物品与其最相似物品的相似度。其每种排列下各个物品与其最相似的物品的相似度记为$V ( y ) _ { i , i \\operatorname* { m a x } }$ 。如物品1与其最相似的物品 $s i m ( i _ { 1 } ) _ { \\operatorname* { m a x } }$ 在第1种排列的情况下，计算的相似度记为 $V ( 1 ) _ { 1 , \\mathrm { { l m a x } } }$ 。其他物品标记方式类似于物品1，所有物品在第 $y$ 种排列的情况下的相似度的和记为 $C V ( y )$ 。 $C V ( y )$ 的计算方式如式(6)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC V ( y ) = \\sum _ { i = 1 } ^ { m } V ( y ) _ { i , i \\operatorname* { m a x } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "d）记在第 $h ( 1 \\leq h \\leq k ! )$ 排列情况下最大值为 $C V ( h ) _ { \\operatorname* { m a x } }$ 。$C V ( h ) _ { \\operatorname* { m a x } }$ 的计算如式(7)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC V ( h ) _ { \\mathrm { m a x } } = \\operatorname* { m a x } \\{ C V ( 1 ) , C V ( 2 ) , C V ( 3 ) , \\cdots , C V ( k ! ) \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在第 $h$ 种全排列的情况下，相似度的和取得最大值，大多数物品与其相似的物品都取得最大值，即此种排列情况下",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$p _ { \\mathrm { 1 } } \\sim p _ { \\mathrm { k } }$ 为求得的用户属性权重的最优解,此时的推荐更加符合实际情况。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e）根据d）求得的属性权重，可得物品属性相似度的计算如式(8)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM P s i m ( i , j ) = \\frac { \\displaystyle \\sum _ { p \\in p _ { i } \\cap p _ { j } } w _ { p } } { \\displaystyle \\sum _ { p \\in p _ { i } \\cup p _ { j } } w _ { p } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $w _ { p }$ 代表物品的某一种属性权重。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "最后根据引入的用户评分比例因子和物品属性权重，得出最后的物品相似度改进如式(9)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE I s i m ( i , j ) = F a c t o r _ { i , j } \\times M P s i m ( i , j ) \\times P e a s i m ( i , j )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $P e a s i m ( i , j )$ 为利用式(1)Pearson相关系数计算得到的物品相似度， $E I s i m ( i , j )$ 为最终得到的改进的物品相似度计算式。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "改进之后的算法首先需要计算 $n$ 个项目之间的相似度，然后又需要在维度为 $m$ 的用户评分向量上计算，所以时间复杂度为 $\\mathrm { { O } ( n \\times n \\times m ) }$ ，由于 $m$ 和 $n$ 数量级相同，所以最终时间复杂度为 ${ \\mathrm { O } } ( { \\mathrm { n } } ^ { 3 } )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2项目冷启动解决方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "针对项目的冷启动问题，本文引入了每个用户的相似用户的交集概念，具体的定义如下所示：设用户集合$U = \\{ u _ { 1 } , u _ { 2 } , u _ { 3 } , \\cdots , u _ { \\mathrm { n } } \\}$ ，采用式(1)计算用户 $i$ 的前 $k$ 个最相似用户集合为 $U _ { i , k } = \\{ u _ { i 1 } , u _ { i 2 } , u _ { i 3 } , \\cdots , u _ { i k } \\}$ ，相似用户集合所组成的集合为$U _ { n k } = \\{ U _ { 1 , k } , U _ { 2 , k } , U _ { 3 , k } , \\cdots , U _ { n , k } \\}$ ，记在 $U _ { n k }$ 中用户出现次数在 $[ n / 2 , n ]$ 的集合为 $U n i o n = \\{ u n i o n _ { 1 } , u n i o n _ { 2 } , \\cdots , u n i o n _ { l } \\}$ ,将Union集合当中 $L$ 个用户选择的物品按照类别相加并按照次数或者总评分降序结果推荐给系统新加入的用户。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3算法实现 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文改进的算法流程如图1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "开始  \n1  \n输入评  \n分数据  \n数据格式化成项目-用户  \n评分矩阵A  \n根据式(1)求出项目集合m  \n中各项目对应的最相似项  \n目集合m'  \n↓  \n根据式(4)列出集合m和  \nm’对应的m个项目属性多  \n项式并求和得到式(6)  \n↓  \n将1-k全排列代入k个属性  \n中，取(6)式最大值时的  \n属性值排列  \n1  \n根据式(9)得出项目相似  \n度矩阵B  \nF  \n根据式(2)得出用户喜好  \n度矩阵C  \n↓  \n将C按值大小降序选择top-  \nN个项目推荐  \n业  \n停止",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法结合评分比例因子及项目属性的协同过滤算法输入：项目-用户评分矩阵 $A$ ，用户-项目评分矩阵 $B$ ，用户集合 $U$ 项目集合1，推荐项目个数k。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "输出：top-N集合。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)利用式(1)Pearson相关系数计算项目相似度。  \nb)利用式(8)计算物品属性相似度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)评分比例因子计算: ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. factor=0; //评分比例因子  \n2. for S_i,S_j∈A do  \n3.//项目共同评分用户数量为0  \n4. if CO-USER(S_i,S_j)=0 then  \n5. factor=0;  \n6. //共同评分用户数量 $\\leqslant$ 非共同评分用户数量  \n8. else if CO-USER(S_i,S_j)≤Num|S_i|+Num|S_j|-2\\*  \n9. CO-USER(S_i,S_j) then  \n10. factor= CO-USER(S_i,S_j)/Num|S_i|+  \n11. Num|S_jl $2 ^ { * } \\mathrm { C O }$ -USER(S_i,S_j);  \n12. else  \n13. factor=1;  \n14. end if  \n15. end for  \nd)top-N 集合选择。  \n1. top- $\\mathbf { \\partial } \\cdot \\mathbf { N } = 0$ //推荐集初始为空  \n2. C[0..I.length][0..I.length]；//物品相似度矩阵  \n3. for $\\mathrm { i } \\in \\mathrm { I }$ do  \n4. for j $\\in \\mathrm { I }$ do  \n5. //项目相似度 $\\vdots =$ Pearson系数 $\\times$ 属性相似度 $\\times$ 评分比例因子  \n6. C[i_index]lj_index]=getPearson(i,j)\\*getProperty(i,j) \\*  \n7. getfactor(i,j);  \n8. end for  \n9. end for  \n10.//计算每个用户对项目喜好程度  \n11. for $\\mathbf { u } \\in \\mathbf { U }$ do  \n12. result[0..I.length];//用户对所有项目的喜好程度  \n13. u=B(:,u_score); /取出B中用户u的评分  \n14. //喜好度 $\\dot { \\mathbf { \\eta } } = \\mathbf { \\eta }$ 项目相似度矩阵·用户评分矩阵  \n15. result=Cu;  \n16. //将用户喜好度降序选择排名前 $k$ 个项目  \ntop-N=sorted(result.value,reverse=True,num=k);  \nend for",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 算法仿真实验 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1实验环境 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1）实验数据集及平台",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验采用经典的协同过滤推荐算法使用的MovieLens[15]和Jester两个数据集。MovieLens 数据集中包含了943个用户的个人信息，如年龄、性别、职业等；1628 部电影的基本信息；100000个用户对电影的评分，评分范围为 $1 { \\sim } 5$ ，数据集的评分稀疏性为 $1 - 1 0 0 0 0 0 / ( 9 4 3 \\times 1 6 8 2 ) = 9 3 . 7 \\%$ 。Jester数据集包含了24983个用户对100个笑话的评分，评分总数量为1761439个，评分范围为[-10,10]，数据集的稀疏性为$1 - 1 7 6 1 4 3 9 / ( 2 4 9 8 3 \\times 1 0 0 ) { = } 2 9 . 5 \\% ,$ 。实验是在Windows10操作系统下，基于Python3.6.4的环境下完成的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2）实验评价标准",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "推荐系统的好坏评价标准主要有统计精度度量和决策支持精度度量方法两类，统计精度度量方法中常用的是平均绝对偏差MAE(meanabsolute error)；决策支持精度度量方法中主要有召回率(recall)、准确率(precision）以及F1-measure[16\\~18]。本文的评价标准采用准确率和召回率来评估实验结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文假设用户 $u _ { i }$ 在测试集喜欢的项目集合为 $T _ { i }$ ，系统推荐的物品集合为 $N _ { i }$ ，则针对用户 $u _ { i }$ 的推荐召回率和准确率的计算方式分别如式(10)(11)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP ( u _ { i } ) = \\frac { T _ { i } \\cap N _ { i } } { N _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR ( u _ { i } ) = \\frac { T _ { i } \\cap N _ { i } } { T _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "整个系统的准确率和召回率是计算用户集合中的每个用户的准确率和召回率，然后取平均值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 实验结果及分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了验证本文算法的有效性，对MovieLens和Jester数据集的训练集和测试集的数据进行训练测试，在推荐物品个数top-N上取值为{10，15，20，25，30，40，50}。实验分为两部分，分别对只引入用户评分比例因子的结果分析和引入评分比例因子及项目属性结合的结果分析。实验与文献[13]提出的算法、Pearson 相关系数、基于Sigmoid 函数相关性改进的算法[19]及基于Jaccard系数改进的算法[20]对比。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验1用户评分比例因子有效性分析",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "首先利用召回率和准确率来验证式(3引进用户评分比例因子改进项目相似度的方法，采用上述的top-N集合验证。MovieLens数据集下得到的实验结果如图2、3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/57b0bcc70b24a998655cadbb94f6952cb17e3c0630446dbbaa1c6e483f6c0570.jpg",
+        "img_caption": [
+            "图2MovieLens数据集下准确率比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b2131177d182ed3e89fc572c0ffcce365e83ee1319232d78c11c80c0b5dab3ce.jpg",
+        "img_caption": [
+            "Fig.2Comparison of precision under movielens dataset "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在Jester数据集下得到的实验结果如图4、5所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图2和4可以看出，在Jester和MovieLens 数据集下，当top-N取值在[10.50]时，引入用户评分比例因子改进之后的准确率高于Pearson系数、文献[13,19,20]。改进后的曲线呈现下降趋势是由于在top-N取值较小的情况下，如测试当中的10，就能达到较高的准确率，导致式(10)的分母在变大，分子几乎不变，所以准确率越来越低。改进之后在top-N 取值为10的时候，准确率比当前改进较好的算法文献[13]提高了 $2 . 8 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在引入用户评分比例因子后，考虑到了项目的共同评分用户对计算项目相似度的影响，当项目共同评分用户与非共同评分用户数量比越大时，说明两个项目之间的相似度越大，从而避免了只依靠用户评分大小来计算相似度带来的不精确问题，提高了项目相似度计算的准确性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图3和5中可以看出，当top-N取值在[10.50]的情况下，召回率不断地增加，而且引入用户评分比例因子改进之后的得到的召回率大于Pearson系数、文献[13,19,20]算法改进得到的召回率。根据图2\\~5分析，可得到引入用户评分比例因子是有效的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验2项目属性及评分比例因子结合分析",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "然后在Jester和MovieLens数据集下，利用召回率和准确率来验证式(9)结合项目属性及评分比例因子改进之后的项目相似度计算方法是否正确，采用上述的top-N集合验证。在MovieLens数据集得到的准确率和召回率实验结果如图6、7所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d7b5eaa6703a650f01d38a856f9e6dff754e172b0cd07e82758899fc3aa399dc.jpg",
+        "img_caption": [
+            "图4Jester数据集下准确率比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ad2387abddcaf12fe23d52859d8633d176ae87afdc8ca83d94b15006b98af397.jpg",
+        "img_caption": [
+            "Fig.3Comparison of recall under movielens dataset ",
+            "Fig.4Comparison of precision under Jester dataset ",
+            "图5Jester数据集下召回率比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b262deac604f0637ff6a79a69cc8862102fac92a46f1093efabdcde4fa935163.jpg",
+        "img_caption": [
+            "图3MovieLens 数据集下召回率比较",
+            "Fig.5Comparison of recall under Jester dataset ",
+            "图6MovieLens数据集下准确率比较",
+            "Fig.6Comparison of precision under movielens dataset "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c2737afc2aa05e1abdd990d27af879b26794c3959b50cc9b9b43e97a4eca058a.jpg",
+        "img_caption": [
+            "图7MovieLens 数据集下召回率比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/adc65df3b5a0795224154cf63c429ccb4e386aaf6c9c579ff5e74f923cf1c3fc.jpg",
+        "img_caption": [
+            "Fig.7Comparison of recall under movielens datasetJester数据集下得到的实验结果如图8、9所示。",
+            "图8Jester数据集下准确率比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b45cf5066617ba2b9796fdcfe2b40bee059996496e77c1d59e1885de7667ad68.jpg",
+        "img_caption": [
+            "Fig.8Comparison of precision under Jester dataset ",
+            "图9Jester数据集下召回率比较",
+            "Fig.9Comparison of recall under Jester dataset "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过图6和8中可以看出，在Jester和MovieLens数据集下，结合评分比例因子及项目属性的改进方式在top-N 取值较小的情况下就能推荐出用户喜欢的物品，相比与只引入用户评分比例因子的改进，在MovieLens数据集下，推荐的准确性提高了 $1 . 9 \\%$ ，在Jester数据集下，提高了约 $4 . 7 \\%$ 。图6 和8中，本文方法在top-N取值[10，50]的情况下，呈现下降趋势的原因同实验1引入用户评分比例因子准确率下降的原因一样。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式(9)在式(3)的基础上，又引入了项目属性之间相似度作为项目相似度权重，提高了项目相似度计算的准确性，降低了仅使用稀疏评分矩阵计算相似度造成的误差，提高了推荐结果的准确性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图7和9中可以看出，当top-N取值在[10，50]的情况下，同样，式(9)与(7)、文献[13，19，20]及传统的item-CF相比，在召回率方面都更高一点。由于推荐出的物品是用户喜欢的物品越来多，即式(11)的分子不断地增加，所以召回率曲线呈上升趋势。说明在推荐数量相同的情况下，结合评分比例因子及项目属性改进之后的推荐效果更佳。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综合实验1和2可得出，本文提出的结合评分比例因子及项目属性的协同过滤算法考虑到了项目属性之间的内在关系以及同一个项目共同评分用户数量与非共同评分用户数量之间的关系，减少了仅使用评分矩阵带来的误差，使得推荐精度得到了提高，并且在较少的推荐集下就能取得较高的准确率，符合实际的推荐系统需求。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为解决传统的基于项目的协同过滤算法仅使用物品的同现矩阵与用户评分矩阵的乘积作为用户对物品的最终喜好程度、未考虑热门物品带来的影响以及物品内在属性之间的联系，本文提出了结合评分比例因子及项目属性的协同过滤算法。利用用户评分比例因子、物品属性权重以及Pearson 相关系数代替物品同现矩阵来计算物品相似度。实验结果表明，本文提出的算法在召回率以及准确率上较现有的协同过滤推荐算法得到了提高，证明了本文算法的正确性。未来考虑对结合评分比例因子及项目属性的协同过滤算法在推荐速度和准确性上作进一步的优化。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Hoic-Bozic N,Dlab MH,Mornar V.Recommender system and Web 2. O tools to enhance a blended learning model [J].IEEE Trans on Education,2016,59(1): 39-44.   \n[2]Aguilar J,Valdiviezo-Diaz P,Riofrio G.A General framework for intelligent recommender systems [J].Applied Computing & Informatics, 2016,13(2): 147-160.   \n[3]Liu Ang,Lu Stephen,Zhang Zhinan,et al.Function recommender systemforproductplanninganddesign[J]. CIRP Annals-Manufacturing Technology,2017,66(1) 181-184.   \n[4] Sun Zhoubao,Han Lixin，Huang Wenliang，et al.Recommender systems based on social networks [J].Journal of Systems & Software, 2015,99 (1): 109-119.   \n[5]Sun Ping,Li Zhengyu,Han Ziyang,et al.An overview of collaborative filtering recommendation algorithm [J].Advanced Materials Research, 2013,756-759:3899-3903.   \n[6]Shi Yue,Larson M,Hanjalic A.Collaborative filtering beyond the user-item matrix:a survey of the state of the art and future challenges [J].ACM Computing Surveys,2014,47(1): 1-45.   \n[7]Elahi M,BraunhoferM,Ricci F,et al.Personality-based active learning forcollaborative filtering recommendersystems[C]//Advancesin Artificial Intelligence.Cham:Springer International Publishing,2013: 360-371.   \n[8]Kurdija A S,Silic M,Vladimir K,et al.Efficient global correlation measures for a collaborative filtering dataset [J].Knowledge-based systems,2018,147(3):36-42.   \n[9]Ha Taehyun,Lee Sangwon. Item-network-based collaborative filtering: A personalized recommendation method based on a user's item network [J].Information Processing and Management, 2017,53(5): 1171-1184.   \n[10] YagciAM,Aytekin T,Gurgen FS.Scalable and adaptive collaborative filtering by mining frequent item co-occurrences in a user feedback stream [J]. Engineering Applications of Artificial Intelligence,2017,58 (1): 171-184.   \n[11] Polato M,Aiolli F.Exploiting sparsity to build efficient kernel based collaborativefilteringfortop-Nitemrecommendation[J]. Neurocomputing,2016,268 (6) 17-26.   \n[12]孔欣欣，苏本昌，王宏志,等．基于标签权重评分的推荐模型及算法 研究[J].计算机学报，2017,40(6):1440-1452.(Kong Xinxin，Su Benchang,Wang Hongzhi,et al.Research on the modelingand related algorithms of label-weight rating based recommendation system [J]. Chinese Journal of Computers,2017,40(6):1440-1452.)   \n[13]于金明，孟军，吴秋峰．基于改进相似性度量的项目协同过滤推荐 算法[J].计算机应用，2017，37(5):1387-1391，1406.(Yu Jinming, Meng Jun,Wu Qiufeng.Item collaborative filtering recommendation algorithm based on improved similarity measure [J].Journal of Computer Applications,2017,37(5):1387-1391,1406.)   \n[14] Zhou Xiuze,Shu Weibo,Lin Fan,et al.Confidence-weighted bias model for online collaborative filtering [J].Applied Soft Computing, 2017,17(4): 1-12.   \n[15]HarperFM,KonstanJA.The MovieLens datasets[J].ACM Trans on Interactive Intelligent Systems,2016,5(4): 1-19.   \n[16]朱郁筱，吕琳媛．推荐系统评价指标综述[J].电子科技大学报， 2012,41(2):163-175.(Zhu Yuxiao,Lyu Linyuan. Evaluation metrics for recommender [J].Journal of Universty of Electronic Science and Technology of China,2012,41(2):163-175.)   \n[17]肖文强，姚世军，吴善明．一种改进的 top-N协同过滤推荐算法 [J]．计算机应用研究,2018,35(1):105-108,112.(Xiao Wenqiang,Yao Shijun，WuShanming.Improved top-N collaborative filtering recommendation algorithm [J].Application Research of Computer, 2018,35(1):105-108,112.)   \n[18] Zhang Feng,Gong Ti,Zhao Gansen,et al.Fast algorithms to evaluate collaborative filtering recommender systems[J].Knowledge-Based Systems,2016,96(2):96-103.   \n[19] Yang Chong,Yu Xiaohui,Liu Yang,et al.Collaborative filtering with weighted opinion aspects [J].Neurocomputing,2016,210(5): 185-196.   \n[20]Hernando A, Ortega F.Collaborative filtering based on significances [J]. Information Sciences,2016,185(1): 1-17. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

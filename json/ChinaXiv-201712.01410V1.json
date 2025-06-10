@@ -1,0 +1,424 @@
+[
+    {
+        "type": "text",
+        "text": "轨道交通项目BIM+GIS云平台建设研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨国华 刘春艳",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（北京建设数字科技股份有限公司，北京100048）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】分析了BIM与GIS的特点及轨道交通信息化建设的模块构成，并在此基础上对数据标准建设，基础云平台建设进行了探讨，并对轨道交通项目BIM的应用、GIS的云应用分别进行了分析,最后给出了BIM与GIS 在轨道交通项目中的融合方法，对于轨道交通及大型工程云平台建设均具有一定的参考意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】BIM；GIS；信息化；轨道交通；云平台",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【中图分类号】TU17 【文献标识码】A 【文章编号】1674-7461(2017)02-0103-04   \n【DOI】10.16670/j.cnki.cn11 -5823/tu.2017.02.18 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来,GIS 技术为轨道交通项目的发展提供了良好技术支撑,由于GIS 系统基于空间数据库,对于大场景的显示具有很好的效率,但是对于细节的显示却一直存在较大的不足。而BIM技术先天具有显示精细，信息丰富的特点，为GIS技术更加深入的应用提供了有益的补充。轨道交通项目是BIM与GIS 技术应用的碰撞交融点,这里有必要对其进行深入研究，探讨轨道交通项目信息化在BIM、GIS两种技术驱动下的发展路径，以期改造轨交项目的规划、设计、施工、运维过程[1-2]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1轨道交通建设期的常见信息化构成",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "经过分析研究，我们认为一般轨道交通信息化",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "系统应有如下几个模块组成。除了 $\\mathrm { B I M } + \\mathrm { G I S }$ 外，还有其他常见的应用模块，这里主要对 $\\mathrm { B I M } + \\mathrm { G I S }$ 进行深入探讨[34]（图1）。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "轨道交通 $\\mathrm { B I M } + \\mathrm { G I S }$ 云平台主要有如下几方面的研究内容：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究轨道交通项目的BIM与GIS的内部数据标准及交互方法；",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为轨道交通提供全方位的 $\\mathrm { B I M } + \\mathrm { G I S }$ 咨询服务和技术服务；",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "构建智慧化轨道建设与运营管理云平台；",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "建设轨道交通工程数据中心;",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "对后期智慧化建设进行相关深入研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/1262386d47cb0db42388cef28c7ed66f02ea34ed5ac76d5555f975fdf532e997.jpg",
+        "img_caption": [
+            "图1"
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【基金项目】国家科技支撑计划课题“建筑行业设计服务共性技术集成平台研发与应用\"（编号：2014BAH25F01)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【作者简介】杨国华(1973-）,男,博士,主要研究方向;BIM信息化技术开发；刘春艳(1976-）,女,硕士,高级工程师,主要研究方向：BIM信息化和建筑设计管理软件交付和在线服务模式。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 建设原则",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "轨道交通项目 $\\mathrm { B I M } + \\mathrm { G I S }$ 系统整体应本着如下原则进行建设：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)强化能力，提高效率。强化管理能力建设，加强BIM、GIS、云平台、协同工作平台、相关数据管理及标准建设。(2)分工负责、分步实施。将规划目标分解为阶段性目标，通过整体规划、分步实施的方式实现建设目标的逐步落地。(3)整合资源，避免重复。充分将研究成果服务于规划、建设与运维阶段，并实现与现有其他相关已有系统的集成，整合资源，避免重复建设。（4)立足当前，着眼长远。立足当前，确保完成轨交项目示例项目的建设与运维；着眼长远，积累相关的 $\\mathrm { B I M } + \\mathrm { G I S }$ 使用经验，为其他项目的建设提供经验支撑。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3数据标准与内容",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据标准是整个系统运行的关键，数据标准涉及到的内容非常广泛，不仅包括BIM制图标准、配合标准、交付标准，还包括管理数据标准、技术数据标准、档案存储数据标准以及GIS各种存储标准等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）对于CAD设计标准需要建立图层,字体,打印样式,图框等各种标准，以确保各方的设计图纸具有统一的标准。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2)对于BIM标准建立技术及管理标准",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "技术标准主要包括：a)模型精度标准LOD；b)模型信息标准；c)建模标准；d)软件标准;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "管理标准主要包括：a)BIM应用权责分配（各参与方需要什么信息，怎么获取)；b)BIM管理流程（各参与方提供什么信息，怎么提供，各参与方如何在BIM平台上工作)；c)BIM招标文件辅助编制;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于各阶段的BIM软件兼容性上尚不成熟，为此,需要对使用的BIM软件进行深入探讨和二次开发，以确保各阶段的BIM软件数据能够实现最大限度的复用，减少成本，提高效率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "平台标准的内容非常宽泛，这里仅列出几个具有典型性的内容。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4基础云平台建设",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "BIM的核心价值在于对I（information）的有效利用与表达，云平台建设的构想也主要以客户的数据价值为核心，通过3D虚拟化、云系统加速机制、高性能并行存储架构、 ${ \\mathrm { I P S ~ } } +$ firewall的数据安全保护、数据的备份、云智能运维平台等部分有机结合，做到全工作流的有效数据传递与保护，使云平台更好地服务于轨道交通实践。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)3D 虚拟化云平台",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "主要由 HPC 服务器 $^ +$ NVIDIA高性能显卡组成，后端附带 SSD盘阵加速卡。有了3D云系统的支持，可以更好地将BIM软件移植到云环境中使用，提高工作效率降低总体成本，同时可以有效避免数据外泄。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2)云系统加速机制",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "云工作环境在客户体验上最大的障碍在于网络延迟,通过云加速解决方案，可以让桌面从云平台到客户的桌面的数据推送加快数倍，使得网络延迟的障碍得以有效解决;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3)高性能存储架构 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用高性能并行集群存储架构，此架构作为数据交换平台具有非常大的效益，主要有：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)可以保证用户对数据的高速并发访问，极大地提高了数据的并发吞吐量，对于同步设计、施工、审查等多用户协同工作模式非常适合，尤其是对BIM模型存储以及GIS应用的加速具有显著的效果；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)基于网络的有效负载均衡技术，避免数据访问的热点瓶颈;c)多节点架构保证了业务的可靠性和连续性；d)线性扩展能力，可以根据业务发展需求逐渐扩展业务服务器与存储；e)通用的数据协议接口可以为Autodesk、Catia等行业软件提供PLM/PDM的后台支撑;f)支持虚拟机在存储上的创建与快速部署，在提高虚拟机的使用效率并大为降低虚拟机成本；g)海量数据的负载能力，可以使大量的文档、视频等资料得到全生命周期的有效管理。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(4)数据安全防护",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于用户工作环境对于文件的写入会有多方渠道，如果将病毒和恶意代码携带入数据中心会导致后台数据有丢失或者被感染的可能，这将是灾难性的后果，这里采用的数据安全策略为 $\\mathrm { I P S } +$ Fire-Wall模式,避免单一防火墙或者防病毒软件的功能限制无法全面的保护数据安全与规避非法侵入和",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "违规行为。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(5)数据备份",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "作为全生命周期数据中心的最后一道防线以及数据的离线分析与应用的最佳机制，健全数据中心的备份机制非常重要，这里选用的存储服务器可以全面兼容Symantec NBU的备份引擎与异步云备份接口。有了数据的有效备份，可以将离线数据用于平台运维的数据分析之用，对于未来的数据挖掘服务做到有效的数据支撑。并且系统自带的数据重复删除功能可以将备份数据空间节省 $70 \\%$ 以上。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(6)云智能运维平台",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "地铁作为公共资源的基础平台汇集了大量的实时数据与信息，如何打造一个一体化的智能集中管理平台就显得尤为重要，这里专门打造了一款基于云服务技术的集中一体化管理平台，通过与BIM技术和GIS 的有机结合，做到对地铁全线数据的搜集、显示、管控，并有望通过云智能运维平台的研究打造一个国际领先的地铁云智能运维平台。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5BIM云平台应用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "建筑信息模型(BIM)技术在本项目应用的目标是,生成勘察、设计、施工、生产和运维阶段的 BIM大数据，依据这些数据进行分析和使用。BIM主要应用内容如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)勘察阶段.a)项目实施周边地形、管线和建构筑物的BIM  \n数据生成[5]；b)勘察BIM数据的应用。(2)设计阶段a)全专业BIM模型生成，碰撞检查和设计  \n纠错;b)BIM管线综合深化设计;c)BIM性能化分析；d)工程量统计。(3)施工阶段a)施工进度模拟;b)施工工艺模拟;c)施工过程BIM模型调整;d)工程量统计;e)竣工模型。(4)运营阶段a)BIM模型数据录入；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)BIM模型维护。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6 GIS云平台应用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "GIS作为整个轨道交通项目的数据整合集成的引擎平台，重点实现如下功能：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)基础地理信息数据管理：基于地方地理坐标系，高清航拍图、基础地形、地籍房籍数据、关键基础设施现状等基础信息一张图管理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)地下综合管线现状管理：根据沿线地下综合管线的勘测数据，基于基础地理坐标系，统一到GIS 平台中进行管理，基于先进的二三维一体化GIS地下综合管线管理，进行便捷查询、三维可视化表达、断面图自动生成等，为轨道设计、施工提供支持。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)轨道线路规划设计方案管理：基于统一基础地理坐标系，对轨道线路的站点、区间段精确走向、标高等规划方案进行一张图管理，建立图形空间规划要素的数据引擎，为后续与BIM集成、属性表格管理等提供依据，并提供规划设计方案的版本管理功能。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(4)轨道沿线物业综合开发规划信息管理：对于与轨道交通密切相关的轨道沿线物业综合开发用地、物业等规划信息，进行一张图管理，提供便捷的查询、便捷、统计等操作，实现物业综合服务。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(5)关联项目管理：基于上述地理数据库，对实施过程中的系列项目进行管理，提供项目计划、进度、资源等信息的统一管理，实现定期自动报表。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(6)CAD-GIS-BIM联动协同：建立基于GIS的相关空间要素对象的索引，实现与BIM的数据库联动；实现GIS2BIM、BIM2GIS、CAD2GIS的多向数据联动，保持平台数据的实时一致性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(7)实施竣工图GIS化管理：通过实时记录实施过程中的方案变更，建立日志，结合实际施工竣工情况，建立完整、精确的GIS一张图轨道设施数据库，为后续实现智慧轨道资产管理奠定良好基础。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上述功能模块，采用最新的云GIS技术架构进行部署，以 ${ \\mathrm { B / S } } +$ 移动APP/S结合的架构进行综合开发。为了实现二三维一体化GIS的高效网络化实施，需要高性能的服务计算、网络数据传输、以及软件开发加以支持，鉴于目前国内三维GIS基本仅实现C/S架构，该项目具有一定的开拓创新性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "要实现上述GIS云平台功能，需要的基本服务内容如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)面向轨道规划设计建设运营一体化的GIS  \n数据标准制定；(2)智慧轨道GIS平台系统方案规划设计与技  \n术标准选型;(3)基础数据加工处理：各种数据来源（现状、  \n规划、方案、竣工图等）类型、格式、坐标系的数据，  \n按标准统一纳入数据库；(4)软件定制开发打包：除了大部分已有产品  \n功能外（已有现成产品解决方案），个性化定制功能  \n的开发；(5)使用培训、运营维护技术支持等。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "7 BIM与GIS的融合",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "V GIS 和BIM的整合不是一件简单的事。最直观的一点，二者对图形表达的数据结构就完全不同。GIS用的是点线面；点有坐标；线有两点；面分几种，三角形、三角带、环等。这种结构的优点是可以方便地表示大量种类的图形。BIM对图形是基于一种关于 Swipe 和 Extrude 的理念。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "两者对信息的储存也完全不同。GIS使用空间数据库，点线面体功能分明，有各自的角色和属性。空间数据库可存储的数据量巨大，以TB,甚至PB来算。有强大的分级优化功能。而BIM存储数据使用的是文件系统，优点在于细节与对象属性的描述。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "T BIM与GIS的融合是一个非常复杂的课题，在轨道交通项目中我们采用的方案是在整体的轨道线的显示上采用GIS 技术,而在区域建筑,如地铁站房等采用BIM技术,也即会存在GIS与BIM的切换，这样可以同时发挥GIS与BIM系统的优势。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "BIM与GIS系统的显示融合也是一个非常大的课题，如何实现无缝切换甚至是同浏览器显示是需要深入研究的内容。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "无疑，BIM与GIS的融合是未来BIM与GIS技术发展的方向，未来GIS一定会越来越关注显示细节，而BIM也会加强对大数据量项目的支撑，甚至能发展出特殊的数据库。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "8小结 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "轨道交通项目基于 $\\mathrm { B I M } + \\mathrm { G I S }$ 云平台管理落地是个非常庞大的项目，涉及到的内容非常多，这里仅列出了几个相对关键的问题，尤其是对于数据标准的建设、云平台建设、对于BIM与GIS 的结合、BIM，GIS与BIM协同平台的结合等进行了阐述和分析。本文的分析成果对于轨道交通的云平台建设具有一定的参考，对于大型工程项目建设也有一定的借鉴意义。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "［1］王玉泽.BIM技术在轨道交通的应用探讨[J].铁路技术创新，2014.  \n［2］刘延宏．基于 $\\mathrm { B I M } + \\mathrm { G I S }$ 技术的铁路桥梁工程管理应用研究[J].交通世界：运输车辆，2015  \n［3］钱意.BIM与GIS的有效结合在轨交全寿命周期中的应用探讨[J].地下工程与隧道，2013.  \n［4］韦巍．基于 $\\mathrm { B I M } + \\mathrm { G I S }$ 技术的智慧城市之路[J].中国智慧城市建设技术，2015.  \n［5］张邻．基于BIM与GIS技术在场地分析上的应用研究[J].四川建筑科学研究，2014.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Research on BIM $+$ GIS Cloud Platform Construction for Rail Transit Project ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Yang Guohua，Liu Chunyan ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(Beijing Consmation Science & Technology Co.，Ltd.，Beijing 1OoO48，China） ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Abstract:This paper analyzes the characteristics of BIMand GIS andthe modular construction of rail transportationinformatization construction.Based onthis,theconstruction of datastandardand the construction of basic cloud platformare discussed.Finally,the integrationmethodof BIMandGIS inrail transit project is given,whichis of significant reference value for the construction of rail transit and large scale cloud platform. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Key Words:BIM；GIS；Informatization；Rail Transit；Cloud Platform ",
+        "page_idx": 3
+    }
+]

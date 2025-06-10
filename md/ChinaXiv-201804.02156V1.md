@@ -1,0 +1,145 @@
+# 基于改进的经验模态方法脑电信号分解
+
+王成龙a,b,c，韦巍a,b,c，李天永a,b,c
+
+（广西大学a.计算机与电子信息学院;b.广西多媒体通信与网络技术重点实验室;c.广西高校多媒体通信与信息处理重点实验室，南宁 530004)
+
+摘要：针对经验模态分解 (empirical mode decomposition，EMD)过程中存在的包络拟合问题，提出了一种消减欠冲现象的改进算法。该算法通过引入“伪极值点”，增加了极值点的数目，构成了新的极值序列，然后利用新的极值序列插值拟合得到新的包络线。最后通过仿真实验对比本文算法和经典拟合算法包络拟合产生的欠冲点数目。实验结果显示，与经典拟合算法相比，改进的算法产生的欠冲点数目减少了大约 $7 7 . 5 \%$ 。实验结果表明，此算法可以有效地消减欠冲点的数目，拟合出的包络线更加贴近原始信号，拥有更好的平滑性。
+
+关键词：EMD；欠冲现象；脑电信号；包络线拟合 中图分类号：TN911.7 doi:10.3969/j.issn.1001-3695.2018.01.0036
+
+# EEG signals decomposition based on improved ensemble empirical mode decomposition method
+
+Wang Chenglonga, b,c, Wei Weia, b,c, Li Tianyonga,b, c (a.SchoolofComputer,Electronics&Information,b.Guangxi KeyLaboratoryofMultimedia Communications&Network Technology,c.Guangxi Colleges & Universities Key Laboratoryof Multimedia Communications & Information Processing Guangxi University,Nanning 530004, China)
+
+Abstract: Due to theenvelope fiting problemexists in the processofempiricalmode decomposition,this paper proposed an improved algorithm which could eliminate theundershoot phenomenon exactly.Byintroducing "pseudo-extreme points",this algorithmincreased the number of extreme points and formed new extreme value sequence.Then it gotnew envelope byusing thenewextreme valuesequenceinterpolation.Theenvelopefitedbythis method wascloser totheoriginalsignalandhasbetter smoothness.Finally,Acontrastresult between cubic spline interpolation and this algorithm showed thatthe numberof undershoots decreased by about $7 7 . 5 \%$ ，which proved that this algorithm could effectively reduce the number of undershoot points.In addition,fiting the envelope could tightly wrap the original signal and have abeter envelope.
+
+Key words: EMD; undershoot phenomenon; EEG; envelope fitting
+
+# 0 引言
+
+脑电信号是一种非平稳、非线性的随机信号，单独的考虑时域特征或频域特征都是不全面的，所以越来越多的研究致力于脑电信号的时频特征的研究。EMD是Huang等提出的一种自适应信号的时频分析方法，它能把复杂的数据分解成若干个有限的本征模态函数（IMF)，分解的IMF能够体现信号的非线性、非平稳性特征[1-3]。因为信号的极值点序列的包络线直接影响着EMD分解的收敛速度和准确度，所以信号包络线的拟合[4]在 EMD 分解过程中至关重要。
+
+目前,研究人员已经提出了多种包络拟合改进的方法：B样条插值[5]、分段幂函数插值[6]、分段抛物线插值[、分段三次Hermite 插值[8]、最小长度约束[9]、二阶包络逆EMD[10]等等。
+
+这些方法在一定程度上改善了EMD分解过程中包络线的拟合特性，但在处理非线性、非平稳信号时，包络线的拟合特性没有明显改善，依然出现了许多欠冲现象。
+
+本文针对EMD分解非线性、非平稳信号的包络拟合问题，以脑电信号为例，从减少欠冲点的数目着手，提出了一种消减欠冲现象的改进方法。该方法通过引入“伪极大值点”和“伪极小值点”，以此扩大极值点序列，增加极值点数目，来消减欠冲现象。同时，由于极值点数目的增加，也提高了拟合曲线的平滑性。
+
+# 1 经典EMD算法的原理
+
+信号进行EMD分解后，将会获得一系列的频率范围不同的IMF分量，每一个IMF分量必须要满足两个条件[1]：a)在获取IMF信号的过程中，信号的局部极值点的个数和过零点的数目相等或最多相差1；b)在任意采样点处，由极大值构成的上包络线和由极小值构成的下包络线的均值为0。
+
+EMD 分解的具体过程[1I\~13]如下：a）求解原始信号 $x ( t )$ 的所有的局部极大值点和极小值点；b）对所求的极大值点和极小值点分别进行三次样条插值，求出上包络线 $x _ { \mathrm { u } } ( t )$ 和下包络线xi(t);c)计算上下包络线的均值m(t)=(t)+x(t) 将原始信号 $x ( t )$ 减去包络均值 $m _ { 1 } ( t )$ 得到一个去掉低频的信号$h _ { 1 } ( t ) = x ( t ) - m _ { 1 } ( t ) ; \mathbf { e } )$ 判断所求出的 $h _ { 1 } ( t )$ 是否满足IMF 定义的两个条件,如果满足， $h _ { 1 } ( t )$ 就是筛选出的第一个IMF分量，如果不满足，则 $h _ { 1 } ( t )$ 代替原始信号 $x ( t )$ ，重复上述过程 $k$ 次，直到$h _ { 1 k } \left( t \right)$ 满足IMF 分量的条件 $c _ { 1 } ( t ) = h _ { 1 k } ( t ) = h _ { 1 ( k - 1 ) } ( t ) - m _ { 1 k } ( t ) ; \mathrm { f } )$ 用原始信号 $x ( t )$ 减去 $c _ { 1 } ( t )$ 得到一个去掉高频成分的信号 $r _ { 1 } ( t ) \cdot$ （残差） $r _ { 1 } ( t ) = x ( t ) - c _ { 1 } ( t ) ; \mathbf { g } )$ 将 $r _ { 1 } ( t )$ 作为新的原始信号，重复上述过程，直到循环 $\mathfrak { n }$ 次得到的残差为一个单调函数或是常量为止，因此原始信号经过 EMD 分解后得到 $x \left( t \right) = \sum _ { i = 1 } ^ { { \mathrm { n } } } { { { \mathrm { c } } _ { i } } \left( t \right) } + { { r } _ { n } } \left( t \right) \mathrm { ~ , ~ }$
+
+![](images/603f8d6c62a0ea3898e97f93333171489d7103babb9557184fa38b19c46eb15f.jpg)  
+图1包络线拟合的欠冲现象
+
+从上述过程可知，包络线拟合贯穿着整个EMD分解的过程。但是，经典的EMD使用的三次样条插值拟合出来的包络线，不能有效的包裹原始信号，导致出现欠冲和过冲现象，进而会产生错误的极值点，影响原有极值点的位置，造成较大的EMD 分解误差，使得 EMD分解失去意义[14\~16]。
+
+# 2 包络线拟合的改进
+
+为了更直观地展现经典 EMD 算法包络拟合过程中，出现的欠冲现象，以一段来自Koelstra 等人[7提取的脑电情感分析数据库中的脑电信号为例。经典拟合算法进行包络拟合过程中出现的欠冲现象如图1所示。产生这一现象的原因[18有两个：a)进行包络拟合时只考虑了极值点的位置，没有对极值点之间的斜率进行约束；b)找出的极值点的位置并非是真正的极值点的位置。针对上述现象，本文针对EMD分解非线性、非平稳信号的包络拟合问题，以脑电信号为例，提出了一种消减欠冲现象的改进方法。该方法通过扩大极值点的范围，增大极值点数目，来消减欠冲现象。同时，由于极值点数目的增加，也提高了拟合曲线的平滑性。具体过程如下：
+
+a）提取原始信号 $x ( t )$ 的所有的局部极大值点和极小值点。
+
+b)计算相邻数据点之间的斜率。并计算原始信号数据点之间的斜率之比。
+
+$$
+k = \frac { \mathrm { d } ( \mathbf { x } ( t ) ) } { \mathrm { d } t }
+$$
+
+$$
+d = \frac { k _ { 2 } } { k _ { 1 } }
+$$
+
+c）由于原始信号数据点为极值点时，斜率之比小于零。并且前后斜率一致时，斜率之比为1，所以将计算后的斜率之比减去1，得到d（反映曲线的弯曲程度)。d的值越大，说明原始信号数据点前后越弯曲。如果d大于0并且d大于0.5，则判定该数据点为“伪极值点”，记为 $D ( m )$ 。
+
+$$
+D ( m ) = d > 0 \& d ^ { \prime } > 0 . 5
+$$
+
+d）对所求出的“伪极值点”进一步划分为“伪极大值点”和“伪极小值点”。如果原始信号数据点和原始信号数据点前后构成的曲线是凸的，则该数据点为“伪极大值点”；如果原始信号数据点和原始数据信号数据点前后构成的曲线是凹的，则该数据点为“伪极小值点”。
+
+$$
+\mathrm { m a x ^ { ' } } = x \big ( D ( m ) \big ) > \frac { x \big ( D ( m - 1 ) \big ) + x \big ( D ( m + 1 ) \big ) } { 2 }
+$$
+
+$$
+\mathrm { m i n ^ { \prime } } = x \big ( D ( m ) \big ) < \frac { x \big ( D ( m - 1 ) \big ) + x \big ( D ( m + 1 ) \big ) } { 2 }
+$$
+
+e）将求出的“伪极大值点”和“伪极小值点”与极大值点和极小值点分别结合，构成新的极值序列。
+
+由于扩大了极值序列的范围，采用改进的算法对信号 $x ( t )$ 进行包络拟合，拟合的曲线更加贴近原始信号。结果如图2所示。
+
+![](images/ebb810343ea82f6cff17bfc6a0bf75ee2bfbd98da322d1c92c8ae4af73ae14b4.jpg)  
+图2改进前后包络线拟合的对比图
+
+# 3 改进算法仿真结果分析
+
+为了验证本文提出的改进的包络拟合算法的有效性，以8064个采样点的脑电信号为例。将本文包络拟合的改进算法与经典包络拟合算法、分段抛物线插值拟合算法和三次Hermite插值拟合算法，进行了对比分析。具体结果如图3所示。
+
+图4EMD分解的结果  
+![](images/f2d885fa110e899f8668136bd9bf32ec1fb7913f57ad0b5cf8f55499352f6942.jpg)  
+图3相同采样点下几种包络拟合算法欠冲点数目的变化
+
+其中，图中横坐标表示采样点数目，纵坐标表示欠冲点数目。图中结果显示，EMD分解过程中，使用经典包络拟合算法（图中蓝色线条）进行拟合，产生的欠冲点数目，随着采样点数目的增加，欠冲点数目近似呈直线上升趋势。与经典包络拟合算法相比，分段抛物线插值拟合算法（图中红色线条）和三次Heimite插值拟合算法（图中绿色线条)，在一定程度上减少了欠冲点数目。而使用改进的包络拟合算法（图中黑色线条）进行拟合，随着采样点数目的增加，上升趋势缓慢。采样点数目为8000时，经典包络拟合算法产生的采样点数目大约是改进包络拟合算法产生的采样点数目的4.3倍。
+
+为了进一步验证本文算法的鲁棒性，采用脑电情感数据库（database of emotion analysis using physiological signals,DEAP）中四组不同情绪（两种正性情绪和两种负性情绪）的脑电信号进行了包络拟合，计算经典包络拟合算法、分段抛物线插值拟合算法、三次Heimite 插值拟合算法和本文算法在包络拟合时产生的欠冲点数目。结果如表1所示。
+
+表1采样点为2000时不同情绪标签的欠冲点数目  
+
+<html><body><table><tr><td>算法</td><td>love</td><td>exciting</td><td>depressing</td><td>hate</td></tr><tr><td>经典拟合</td><td>100</td><td>89</td><td>98</td><td>93</td></tr><tr><td>分段抛物线</td><td>64</td><td>55</td><td>46</td><td>47</td></tr><tr><td>三次Hermite</td><td>62</td><td>41</td><td>45</td><td>32</td></tr><tr><td>本文算法</td><td>30</td><td>19</td><td>17</td><td>18</td></tr></table></body></html>
+
+表2采样点为4000时不同情绪标签的欠冲点数目  
+
+<html><body><table><tr><td>算法</td><td>love</td><td>exciting</td><td>depressing</td><td>hate</td></tr><tr><td>经典拟合</td><td>180</td><td>169</td><td>193</td><td>185</td></tr><tr><td>分段抛物线</td><td>121</td><td>110</td><td>102</td><td>88</td></tr><tr><td>三次Hermite</td><td>107</td><td>90</td><td>85</td><td>74</td></tr><tr><td>本文算法</td><td>60</td><td>41</td><td>36</td><td>35</td></tr></table></body></html>
+
+表3采样点为6000 时不同情绪标签的欠冲点数目  
+
+<html><body><table><tr><td>算法</td><td>love</td><td>exciting</td><td>depressing</td><td>hate</td></tr><tr><td>经典拟合</td><td>268</td><td>271</td><td>273</td><td>296</td></tr><tr><td>分段抛物线</td><td>161</td><td>165</td><td>146</td><td>151</td></tr><tr><td>三次Hermite</td><td>143</td><td>145</td><td>128</td><td>132</td></tr><tr><td>本文算法</td><td>84</td><td>52</td><td>46</td><td>66</td></tr></table></body></html>
+
+表4采样点为8000时不同情绪标签的欠冲点数目  
+
+<html><body><table><tr><td>算法</td><td>love</td><td>exciting</td><td>depressing</td><td>hate</td></tr><tr><td>经典拟合</td><td>353</td><td>355</td><td>355</td><td>374</td></tr><tr><td>分段抛物线</td><td>206</td><td>212</td><td>194</td><td>197</td></tr><tr><td>三次Hermite</td><td>181</td><td>192</td><td>173</td><td>174</td></tr><tr><td>本文算法</td><td>105</td><td>59</td><td>65</td><td>90</td></tr></table></body></html>
+
+由表中可以看出，本文算法显著的减少了欠冲点数目。当采样点数分别为2000、4000、6000和8000时，4种不同情绪标签下使用本文算法对脑电信号拟合产生的欠冲点数目之和，与分段抛物线插值拟合算法产生的欠冲点数目相比，分别少了96个、184个、300个和401个；与三次Hermite 插值拟合算法产生的欠冲点数目相比，分别少了128个、249个、375个和490；与经典包络拟合算法产生的欠冲点数目相比，分别少了296个、555个、860个和1118个。
+
+显然，本文算法对不同情绪标签的脑电信号进行包络拟合的效果优于经典的包络拟合算法、分段抛物线插值拟合算法和三次Hermite 插值拟合算法。
+
+接着使用改进的包络拟合算法进行EMD分解，以分解的前两个IMF分量为例，结果如图4所示。从图中可以看出，使用改进的包络拟合算法进行EMD分解，每一个IMF分量能够很好地贴近原始信号。由以上仿真结果可知，本文提出的改进的包络拟合算法，显著的减少了欠冲点数目。而且由于增大了极值序列，使得包络拟合的曲线，更加贴近原始信号。
+
+20 e \$>>>><>><>><><>> Qy MM -20 0 20 40 60 80 100 120 140 160 180 200 10 <>>>>><\><?><>>>>>>>}>>>>>>><> -10 0 20 40 60 80 100 120 140 160 180 200 5 ZIII >>>>>>>>>>>><>>>>>>>>>>< -5 0 20 40 60 80 100 120 140 160 180 200   
+除   
+剩 0.5 0 0 20 40 60 80 100 120 140 160 180 200
+
+# 4 结束语
+
+本文针对非平稳随机的脑电信号，采用扩大极值点的范围的方法，增加了极值点数目，有效地减少了EMD分解过程中，包络拟合产生的欠冲点数目，得到的包络线有着更好的平滑性。仿真结果证明了本文改进的包络拟合算法的适用性和有效性。但本文算法，还有以下两个方面的问题需要解决：
+
+a）经验模态分解的“端点效应”[19]。由于信号在端点处在大多数情况下不是极值点，因此经验模态分解在进行包络线的插值拟合时，在信号的两端会产生发散现象。同时随着经验模态分解的不断筛选，引起较大的失真。
+
+b）求解“伪极值点”的效率。在对“伪极值点”进行判断时，对信号进行了遍历，因此效率不高。在后续研究工作中，将先找出欠冲点所在的区间，在欠冲点区间上进行"伪极值点”的判断。
+
+# 参考文献：
+
+[1]Huang NE,Shen Zheng,Long SR,et al. The empirical mode decomposition and the Hilbert spectrum for nonlinear and non-stationary time series analysis [J].Proceedings: Mathematical,Physical and Engineering Sciences, 1998,454 (1971): 903-995.   
+[2]Acharya UR,Fujita H, Sudarshan VK,et al.Application of empirical mode decomposition (EMD） for automated identification of congestive heart failure using heart rate signals [J].Neural Computing and Applications,2017, 28 (10): 3073-3094.   
+[3]Ben A J,Fnaiech N,Saidi L,et al.Application of empirical mode decomposition and artificial neural network for automatic bearing fault diagnosis based on vibration signals[J].Applied Acoustics,2015,89:16-27.   
+[4] 莫家玲，何经伟，胡维平，等．一种新的EMD包络定义及拟合方法[J]. 计算机应用研究,2016,33(5):1457-1460.   
+[5]Chen Qiuhui,Huang N,Riemenschneider S,et al.AB-spline approach for empirical mode decompositions[J]. Advancesin Computational Mathematics,2006,24(1):171-195.   
+[6]Qin SR, Zhong YM.Anew envelope algorithm of Hilbert-Huang transform [J].Mechanical Systems and Signal Processing,2006,20 (8):1941-1952.   
+[7]Xu Zhengguang,Huang Benxiong,Li Kewei. An alternative envelope approach for empirical mode decomposition [J]. Digital Signal Processing, 2010,20 (1): 77-84.   
+[8] 李天云，程思勇，杨梅．基于希尔伯特一黄变换的电力系统谐波分析 [J]．中国电机工程学报,2008,28(4):109-113.   
+[9]朱伟芳，赵鹤鸣，陈小平．一种最小长度约束的EMD包络拟合方法[J]. 电子学报,2012,40(9):1909-1912.   
+[10]何经伟，胡维平，莫家玲．基于二阶包络逆 EMD 算法改进与实现[J]. 振动与冲击,2017,36(6):128-133.   
+[11] Torse DA,Desai V,Khanai R.EEG signal classification into seizure and non-seizure class using empirical mode decomposition and artificial neural network [J]. Imperial Journal of Interdisciplinary Research,2017,3 (1): 1700-1704.   
+[12]吴贤规，王安娜，会国涛．经验模态分解中一种改进的包络线拟合算法 [J]．东北大学学报：自然科学版,2015,36(11):1535-1538.   
+[13]荣钦彪，刘昉，宿策．基于改进经验模态分解的 HHT 密集模态识别方 法[J].计算机应用研究,2018,35(12):1-2.   
+[14] Rato RT,OrtigueiraMD,BatistaAG.On the HHT,its problems,and some solutions [J].Mechanical Systems and Signal Processing,20o8,22(6): 1374-1394.   
+[15] Chu P C,Fan Chenwu,Huang N.Derivative-optimized empirical mode decomposition forthe Hilbert-Huangtransform [J].Journalof Computational and Applied Mathematics,2014,259: 57-64.   
+[16]王鹏，陈国初，徐余法，等.改进的 EMD及其在风电功率预测中的应 用[J].控制工程,2011,18(4):588-591,599.   
+[17] Koelstra S,Muhl C,Soleymani M,et al.DEAP:a database for emotion analysis；using physiological signals [J].IEEE Trans on Affective Computing,2012,3 (1): 18-31.   
+[18]何经伟．基于EMD 的包络相关算法研究[D].桂林：广西师范大学， 2015.   
+[19]王婷.EMD算法研究及其在信号去噪中的应用[D].哈尔滨：哈尔滨工 程大学,2010.

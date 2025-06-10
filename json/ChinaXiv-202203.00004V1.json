@@ -1,0 +1,771 @@
+[
+    {
+        "type": "text",
+        "text": "1 Impacts of cloud radiative processes on the convective and stratiform 2 rainfall associated with Typhoon Fitow (2013) ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Huiyan $\\mathrm { { X u ^ { 1 } } }$ , Dengrong Zhangl\\* 1Zhejiang Provincial Key Laboratory of Urban Wetlands and Regional Change, Hangzhou Normal University, Hangzhou, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "11 Key points: ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The control experiment is compared to the sensitivity experiment that excludes cloud radiative processes to study cloud radiative effects on heat budget. The reductions in divergence of heat flux and radiative cooling from the control experiment to the sensitivity experiment have similar vertical profiles. The reduced rainfall due to the cloud radiative effects was mainly associated with the reduced convective rainfall. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "20 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "21 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The three-dimensional Weather Research and Forecasting(WRF) model is used to conduct sensitivity experiments during the landfall of Typhoon Fitow (2013） to examine the impacts of cloud radiative processes on thermal balance. The vertical profiles of heat budgets, vertical velocity and stability were analyzed to examine the physical processes responsible for cloud radiative effects on surface rainfall for Typhoon Fitow (2013). The inclusion of clouds reduced radiative cooling in ice and liquid cloud layers via reducing outgoing radiation. The suppressed radiative cooling reduces from ice cloud layers to liquid cloud layers. This was conducive to enhancing instability. The decreased instability was associated with the reduced upward motions. The reduced upward motion led to the decreased vertical mass convergence. As a result,heat divergence was weakened to warm the atmosphere, this effects and the suppressed radiative cooling jointly suppressed net condensation and rainfall. Furthermore， the reduced rainfall due to the cloud radiative effects was mainly associated with the reduced convective and stratiform rainfall. The reduced convective rainfall was associated with the reduced net condensation， whilst the reduced stratiform rainfall was related to the constraint hydrometeor convergence. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Heat budget, radiative cooling, heat divergence, release of latent heat, ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Typhoon ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cloud radiative processes have important impacts in the development of convective clouds and associated precipitation through regulating vertical thermal stratification. They consist of both solar shortwave radiation and infer-red longwave radiation. Radiative cooling may affect development of clouds [Lilly, 1988; Xu and Randall， 1995a], convection [Gray and Jacobson, 1977; Fu et al.， 1995], surface rainfall [Dudhia,1989; Xu and Randall,1995b], relative humidity [Fu et al., 1995; Tao et al., 1996] ,and precipitable water [Gao et al., 2009; Gao and Li, 2010; Gao et al., 2009; Sui et al., 1998; Sui et al., 1997]. Heat budget is one of the most important physical constrains in linking radiative cooling to release of latent heat, sensible heat and divergence of heat flux. When the large-scale circulation is absent， the equilibrium modeling study showed that the release of latent heat is generally balanced out by the radiative cooling (e.g., Xin and Li 2016). The exclusion of cloud radiative processes of liquid or ice clouds may enhance the release of latent heat in response to the strengthened radiative cooling， and lead to the enhanced surface rainfall. Cloud radiation effects may also affect surface rainfall by impacting on hydrometeor distributions, e.g.， Yin et al. (2022) improved the 24-h heavy rainfall during the period from 0000 UTC 21 to 0000 UTC 22 July 2012 in East Asia Monsoon Region by improving raindrop and snow size distributions.   \nWhen cloud-resolving model is imposed by large-scale forcing, Sui et al. (1994) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "revealed that the release of latent heat is largely balanced out by the divergence of heat flux, while the radiative cooling is relatively less important in heat budget. Cloud in regulating changes in release of latent heat and the divergence of heat flux, and then affects surface rainfall. Wang et al. (2010) and Shen et al. (201la,2011b) conducted a series of sensitivity experiments of severe tropical storm Bilis (2O06) and a pre-summer torrential rainfall case over southern China, respectively, and they revealed that the exclusion of cloud radiative effects barely changes release of latent heat while the suppressed heat divergence corresponds to the enhanced radiative cooling, leading to the increased surface rainfall. Shen et al. (201O) examined the thermodynamics in tropical precipitation processes, and showed that in the case with mean water vapor divergence, the mean heat divergence mainly balances the mean latent heat, and afects surface rainfall. Wang et al. (2018) conducted sensitivity experiments of Typhoon Soudelor in 2015 to examine the responses of surface rainfall to radiative effects of different cloud species, and showed that different cloud species affect precipitation through different cloud radiation feedback mechanisms. The inclusion of radiative effects of cloud ice reduced vertical mass divergence and divergence of heat flux, as a result of reduced net condensation and rainfall, and vice versa when including radiative effects of snow (Wang et al., 2018). Zhu et al. (2018) investigated thermal and microphysical effects of ice clouds on rainfall through examining heat budgets of a torrential rainfall simulation in north China during July 2013,and showed that the thermal feedback of ice clouds is diffrent during the day and at night. Their results showed that the inclusion of latent-heat effects of ice clouds reduced surface rainfall by suppressing instability and upward motions at night, whilst rainfall by increasing instability and upward motions during early morning. Precipitation systems are decomposed into convective and stratiform rainfall to reach a deeper comprehension of convection-generated rainfall. Convective and stratiform rainfall are different in their distributions of vertical velocity, their microphysical processes, and rainfall characteristics. Steiner and Houze (1993) and Houze (1997) shows that stratiform rainfall generally has have weak horizontal gradients and/or a bright band, and vertical air motions are generally stronger in convective rainfall region than nonconvective rainfal region. Other studies shows that collection of cloud water and vapor deposition are dominant respectively in convective rainfall and stratiform rainfall (Houze, 1997; Li et al., 2014; Sui et al., 2007; Shu et al., 2020). Convective rainfall are dominant in hydrological cycle since they are prone to be intense, whilst stratiform rainfall are important in cloud radiation budgets since they are widespread with large cloud coverage (Feng et al., 2011). Understanding the the cloud radiation effects on convective and stratiform rainfall may be favorable to accurately predicting the convective rainfall intensity, and the rainfall coverage of stratiform rainfall, thus has potential effects in improving rainfall prediction. The cloud radiative processes may affect rainfall as well as convective and stratiform rainfall through changing atmospheric stratification. Motivated by the potentially different effects of cloud radiation on convective and stratiform rainfall, this paper will first investigate the cloud radiation effects on rainfall, and then analyze the cloud radiation effects on convective and stratiform rainfall. Unlike cloud-resolving models that are imposed by large-scale forcing, Weather Research and Forecasting (WRF) Model allows the interaction between clouds and environmental circulations. In this study, the WRF model is used to conduct a pair of sensitivity experiments of Typhoon Fitow (2013) during its landfall. The model and experimental designs are briefly described in section 2. The impacts of cloud radiative processes on thermal balance are analyzed in section 3.A summary is given in section 4. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2. Model and experiment design ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "lyphoon Fitow tormed on 3U September ZUl3 over eastern Philippines, strengthened to a typhoon around 210o UTC 2 October, and made landfall with a minimum pressure of $9 5 5 ~ \\mathrm { h P a }$ and a maximum wind speed of $4 2 \\mathrm { ~ m ~ s ^ { - 1 } }$ in Fuding, Fujian at 1715 UTC 7 October [see a detail overview in Yu et al. (2014)].   \nThe Weather Research and Forecating model of version 3.5.1 (WRFV3.5.1) is employed to investigate the impacts of cloud radiative processes on thermal balance associated with typhoon Fitow in this study. Three model domains with two-way nesting are used with horizontal grid resolutions of 27, 9 and $3 ~ \\mathrm { k m }$ and dimensions of $1 7 4 \\times 1 2 0$ in the west-east and south-north directions for domain 1 (d01), $2 1 1 \\times 1 9 6$ for domain 2 (do2） and $3 6 1 \\times 2 2 3$ for domain 3 (d03) [see Fig. la in Xu and Li (2017)]. The WRF model setups are summarized in Table 1. The control experiment has been validated with available observations in terms of typhoon track, minimum sea level pressure, surface precipitation, radar reflectivity， and vertical profiles of temperature, specific humidity and winds (Xu and Li 2017). In additional to the control experiment, three sensitivity experiments are conducted to examine how cloud radiative effects on thermal balance.The sensitivity experiment is identical to the control experiment except that cloud hydrometeor mixing ratios are set to zero in the calculations of both solar and infra-red radiative processes.   \nFor typhoon cases, the commonly used methods to partition convective or stratiform rainfall are those based on surface rainfall (Braun et al., 2O1O). Braun et al. (2010) (hereafter BraunlO) identified convective rainfall at grid points where surface rain rates are over $2 0 \\ \\mathrm { m m / h r }$ or at least twice as large as the mean value of their nearest 24 neighbors.The air columns with vertical velocity over $3 ~ \\mathrm { m / s }$ or cloud liquid water over $0 . 5 ~ \\mathrm { g / k g }$ also identified as convective rainfall. The remaining grid points are considered as stratiform where surface rain rate is over $0 . 1 \\ \\mathrm { m m / h r }$ More details about the Braun1O convective-stratiform rainfall partition scheme can be referred to Braun et al. (2010). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3. Results ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To examine cloud radiative effects on surface rainfall, the surface rainfall equation   \nand heat budget are first analyzed. Following Skamarock et al. (2o08)， Xu et al.   \n(2017)，and Wang et al. (2018)， the surface rainfall budget in 3D WRF model   \nframework can be written as ted $P _ { S } { = } Q _ { N C } { + } Q _ { C M }$ (1) Here, $P _ { S }$ is rain rate, $Q _ { N C }$ is net condensation, Qcm is cloud hydrometeor   \nconvergence/divergence. The inclusion of radiative effects of clouds reduces surface rainfall from NCR to   \nCTL.The rainfall decrease in the CTL experiment is mainly associated with the ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "decreased net condensation (Table 2). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To explain surface rainfall responses to the cloud radiative processes, the heat budget is analyzed. Following Skamarock et al. (2oo8), the heat budget can be written as ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { l o c } = F _ { h d } + F _ { r a d } + F _ { p b l } + F _ { m p } .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Here ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { l o c } = \\frac { \\partial T } { \\partial t } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fnd = π[-(V .v0)] ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { F _ { r a d } \\ = \\ \\pi F _ { r a d * } } \\\\ { F _ { p b l } \\ = \\ \\pi F _ { p b l * } } \\\\ { F _ { m p } \\ = \\ \\pi F _ { m p * } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Here $T$ and $\\theta$ are air temperature and potential temperature respectively; $\\vec { V }$ is a three-dimensional wind vector $\\pi = ( p / p _ { o } ) ^ { \\kappa }$ ， $p _ { o } { = } 1 0 0 0 \\ \\mathrm { h P a }$ ， $\\scriptstyle \\kappa = R ( c _ { p }$ . $R$ is the gas constant, $c _ { p }$ is the specific heat of dry air at constant pressure; $F _ { r a d ^ { * } }$ ，are is the tendency term due to radiation. $F _ { p b l ^ { * } }$ is sensible heat, and $F _ { m p ^ { * } }$ is latent heat. Eq. (1) states that temperature tendency $( F _ { l o c } )$ is associated with divergence of heat flux $( F _ { h d } )$ solar and infra-red radiative processes $( F _ { r a d } )$ ， sensible heat $( F _ { p b l } )$ and release of latent heat $( F _ { m p } )$ . Note that some terms including diffusion and Rayleigh damping are not included in Eq.(1) because they are negligibly small. The comparison of heat budgets between CTL and NCR (Fig. 1) reveals that the inclusion of cloud radiative processes reduces the radiative cooling in the troposphere (below $1 1 \\mathrm { k m } \\$ ).. The decreased net condensation (Table 2) was mainly associated with the weakened release of latent heat. The weakened release of latent heat was due to the reduced radiative cooling and the suppressed divergence of heat flux. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The above analysis indicates that the change in release of latent heat corresponds to the change in divergence of heat flux from NCR to CTL. Thus, the change in divergence of heat flux is further analyzed. The divergence of heat flux $( F _ { h d } )$ can be broken down into the three components: ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { _ { h d } } = x y t e n d + z t e n d .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The divergence of heat flux $( F _ { h d } )$ can be broken down into the divergence of horizontal (xytend) and vertical (ztend) heat flux. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 reveals that the reduction in divergence of heat flux from the sensitivity experiment to the control experiment is associated with the decrease in divergence of vertical heat flux. Thus, the decrease in the suppression in divergence in vertical heat flux corresponds to the reduction in radiative cooling. Total in all, the weakened divergence of heat flux from NCR to CTL below $1 1 ~ \\mathrm { k m }$ is mainly related to the suppressed divergence of vertical heat flux (Fig. 2). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The divergence of vertical heat flux can be decomposed to ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nz t e n d \\ = \\ \\overline { { { - \\frac { \\pi } { \\mu } } \\frac { \\hat { o } \\omega \\theta } { \\hat { o } \\sigma } } } \\ = z t e n d 1 + z t e n d 2 + z t e n d 3\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nz t e n d 1 = - \\overline { { { \\frac { \\pi } { \\mu } } } } \\overline { { { \\omega } } } \\frac { \\partial \\overline { { { \\theta } } } } { \\partial \\sigma } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nz t e n d 2 = - \\overline { { { \\frac { \\pi } { \\mu } } } } \\overline { { { \\theta } } } \\frac { \\partial \\overline { { { \\omega } } } } { \\partial \\sigma } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Here, $\\omega$ is vertical velocity in p-coordinate, overbar denotes domain mean, ztend1, ztend2 and ztend3 are mean vertical temperature advection, interaction between mean temperature and mean vertical divergence, and the divergence of perturbation vertical heat flux, respectively. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 shows that the reduction in ztend is related to the decrease in ztend2. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Thus,the decrease in interaction between mean temperature and mean vertical divergence is related to the reduction in radiative cooling. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ztend2 can be further expressed as ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Here ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { \\theta } = \\overline { { \\theta } }\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { _ { d \\omega } } = - \\frac { \\overline { { \\pi } } } { \\mu } \\frac { \\partial \\overline { { \\omega } } } { \\partial \\sigma }\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$F _ { \\theta }$ is mean temperature, ${ \\mathbf { } } ^ { F _ { d \\omega } }$ is mean vertical divergence. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 further shows that the vertical structure of the ztend2 change is related to that of the change of mean vertical divergence in the troposphere. We further analyze vertical profiles of vertical velocity (Fig. 4). The radiative cooling was suppressed from NCR to CTL in the upper troposphere and in the lower troposphere (Fig. 1), which leads to the weakened upward motions decrease from the upper troposphere to the lower troposphere (Figs. 4). As a result, less vertical mass convergence occurs from NCR to CTL (Fig. 3), which causes the increase in ztend2 from NCR to CTL. Since the difference between CTL and NCR is those in cloud radiative process, the reduced radiative cooling in the upper troposphere was larger than that in the lower troposphere (Fig.1), which led to the stability in the troposphere. Thus, the suppressed instability from NCR to CTL in the troposphere (Fig. 4) is associated with the suppressed radiative cooling (Fig. 1). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Total in all, although the enhanced radiative cooling from the sensitivity experiment to the control experiment occurs above 11km and the weakened radiative cooling from the sensitivity experiment to the control experiment appears below 11 km (Fig. 1), the tropopause usually is about 10-11 km where the radiative cooling is similar in both control experiment and sensitivity experiment. As a result, the weakened radiative cooling from the sensitivity experiment to the control experiment appears in the troposphere，which leads to the reduced upward motions from the sensitivity experiment to the control experiment (Fig. 4).   \nTo investigate the cloud radiation effects on convective and stratiform rainfall, we further separate the surface rainfall into convective and stratiform rainfall components. Table 3 shows temporally-spatially averaged rainfall budget in CTL and NCR and their difference. It shows that the reduced rainfall from NCR to CTL is mainly associated with the reduced convective rainfall. The reduced convective rainfall is about one magnitude larger than the stratiform rainfall. Namely, time-mean stratiform rainfall is not sensitive to cloud radiative processes. Reasons may be as follows, stratiform rainfall is only associated with ice clouds, where the radiative cooling is suppressed with increasing height from $6 ~ \\mathrm { k m }$ to $8 ~ \\mathrm { k m }$ but it is enhanced with increasing height from $8 ~ \\mathrm { k m }$ to $1 1 \\ \\mathrm { k m }$ .Furthermore，the reduced convective 12 rainfall was mainly related to the decreased net condensation over convective rainfall area (Table 3a).   \nTo examine the cloud radiation effects on convective and stratiform rainfall in more detail, figure 5 further shows temporal variations of spatially averaged rainfall budgets in CTL and NCR and their differences. It shows that the reduced rainfall from NCR to CTL is mainly associated with the reduced convective rainfal during the daytime, the stratiform rainfall plays a minor role. The reduced convective rainfall was mainly related to the decreased net condensation over convective rainfall area during the daytime (Figs. 5a-c). The stratiform rainfall mainly reduced from NCR to CTL during the daytime, whilst it occasionally increased. Therefore, the difference in stratiform rainfall is negligibly smaller than that in convective rainfall in area-mean analysis. The reduced stratiform rainfall from NCR to CTL is mainly associated with the decreased hydrometeor convergence, and the increased one is mainly related to the increased net condensation (Figs. 5d-f).   \nWe also made an attempt to know if the the explanation of cloud radiative effects on temporally-spatially averaged rainfall can be applied to the explanation of cloud radiative effects on temporal variation of spatially averaged rainfall, since cloud radiative effects may differ from daytime and nighttime. Since cloud solar radiative and infrared radiative effects on rainfall may be different. Fig. 6 shows that solar radiation is heating the whole troposphere, decreasing the top infrared cooling and reducing base warming,leads to the stability in the troposphere (Fig. 6a-c), whilst the infrared radiation increase top cooling and base warming, lead to a destabilizing effect on the troposphere(Fig. 6d-f). The solar radiation effects are more important than infrared radiation during the daytime, leading to the more stabilized troposphere and weaker upward motions (Fig. 7, Fig. 8), as a result of less rainfall during the daytime in the control simulation compared to the NCR simulation. On the contrary, infrared radiation are dominant during the nighttime (generally 10o0-160o UTC), leading to the more instabilized troposphere and stronger upward motions (Fig. 7, Fig. 8), as a result of more rainfall during the nighttme in the control simulation compared to the NCR simulation.   \nCloud radiative effects on temporally-spatially averaged rainfall are suppressed from NCR to CTL during the peak of rainfall. Namely, more radiative cooling due to the exclusion of cloud radiative effect causes stronger rainfallin NCR than in control, which is consistent with previous results about the effects of IR cooling on convection (e.g., Li et al., 1999; Tao et al.,1996). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4. Summary ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Sensitivity experiments of Typhoon Fitow (2013） are conducted with the three-dimensional WRF model to examine cloud radiative effects on heat budget and surface rainfall during its landfall. The simulation data are used to analyze the difference in heat budget between the control experiment and the sensitivity experiment excluding cloud radiative effects. The analysis shows that the reduction in divergence of heat flux from the experiment removing cloud radiative effects to the control experiment have similar magnitude and vertical profile to the reduction in ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "radiative cooling. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The inclusion of radiative effects of clouds reduces radiative cooling via reducing outgoing radiation. The enhanced radiative cooling decreases from the upper troposphere to the lower troposphere and the decreased instability increases from the mid troposphere to the lower troposphere, which reduces vertical mass convergence. The weakened mass convergence leads to the decrease in divergence of vertical heat flux that increases air temperature and saturation mixing ratio. As a result, net condensation and associated release of latent heat are reduced and the rainfall is decreased. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The rainfall is further partition into convective rainfall and stratiform rainfall. The cloud radiation afects on convective and stratiform rainfall is further analyzed. The inclusion of clouds radiation effects decreased rainfall, the decreased rainfall is associated with reduced convective and stratiform rainfall. Both convective and stratiform rainfall in nighttime increased due to the increased net condensation and hydrometeor convergence, respectively. The decreased convective rainfall is related to the reduced net condensation in daytime, whilst the decreased stratiform rainfall is associated with the reduced hydrometeor convergence in daytime.   \nIn summary, the inclusion of cloud radiative effects reduced latent heat release, as a result of constraint surface rainfall. Further partition of rainfall into convective and stratiform components shows that different processes affecting convective and stratiform rainfall. Decreased surface rainfall are mainly associated with decreased convective and stratiform rainfall. However, the constraint convective rainfall are ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "associated with the decreasing of net condensation, whilst the constraint stratiform rainfall are associated with the decreasing hydrometeor convergence (Figure 7). The caution should be exercised when the results are applied since the results are based on the case study of Typhoon Fitow in 2O13. Further examinations of more cases should be conducted to validate and generalize the results from this study. C ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments. Thank the three anonymous reviewer for their suggestive comments,which greatly helps us improving the quality of the manuscript. The best track data may be obtained from http://www.wztfl21.com/. The NCEP FNL data with $1 ^ { \\circ } \\times \\ 1 ^ { \\circ }$ horizontal resolution was obtained from the NCAR UCAR Research Data Archive Computational and Information System Lab (https://rda.ucar.edu/). All data are archived at the Training Center of Atmospheric Sciences of Zhejiang University, and are also available from the authors via xuhuiyan8888 $@$ 163.com. The authors thank the support from the training center of atmospheric sciences of Zhejiang University. This work was supported by the Natural Science Foundation of Zhejiang Province of China (Grants LQ2OD050001), and National Natural Science Foundation of China (42105004), and the Scientific Research Foundation of Hangzhou Normal University (No.2020QDL015). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "References: ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Dudhia J (1989). Numerical study of convection observed during the winter monsoon experiment using a mesoscale two-dimensional model. J. Atmos. Sci., 46: 3077-3107. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Dudhia J (1996). A multi-layer soil temperature model for MM5. Sixth Annual PSU/NCAR Mesoscale Model Users’ Workshop. Boulder: Colorado, 22-24.   \nFu Q， Krueger S K, and Liou K N(1995). Interactions of radiation and convection in simulated tropical cloud clusters. J. Atmos. Sci., 52: 1310-1328.   \nGao S, Cui X P, and Li X (2Oo9). A modeling study of diurnal rainfall variations during the 21-day period of TOGA COARE. Adv. Atmos. Sci., 26: 895-905.   \nBao X, Davidson N E, Yu H, Hankinson M C, Sun Z, Rikus L J, Liu J, Yu Z, and Wu D (2O15). Diagnostics for an Extreme Rain Event near Shanghai during the Landfallof Typhoon Fitow (2013). Mon. Wea. Rev., 143: 3377-3405.   \nBraun S A, Montgomery M T, Mallen K J, & Reasor P D (201O). Simulation and interpretation of the genesis of Tropical Storm Gert (2005) as part of the NASA Tropical Cloud Systems and Processes Experiment. J. Atmos. Sci., 67: 999-1025.   \nBu Y P, Fovell R G and Corbosiero K L (2014). Influence of Cloud-Radiative Forcing on Tropical Cyclone Structure. J. Atmos. Sci., 71: 1644-1662.   \nCecelski S F and Zhang D (2016). Genesis of Hurricane Julia (2010) within an African Easterly Wave: Sensitivity to Ice Microphysics. J. Appl. Meteor. Clim., 55: 79-92.   \nChen L, Li Y and Cheng Z. (2010). An Overview of Research and Forecasting on Rainfall Associated with Landfalling Tropical Cyclones. Adv. Atmos. Sci., 27: ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "967-976. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Chen L (2004)，An Overview of Tropical Cyclone and Tropical Meteorology Research Progress. Adv. Atmos. Sci., 21(3): 505-514. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Cui X and Li X (2O09). Diurnal responses of tropical convective and stratiform rainfall to diurnally varying sea surface temperature, Meteor. Atmos. Phys., 104: 53-61.   \nFeng Z, Dong X, Xi B， Schumacher C, Minnis P, and Khaiyer M (2011). Top-of-atmosphere radiation budget of convective core/stratiform rain and anvil clouds from deep convective systems. J. Geophys. Res.，116: D23202, doi:10.1029/2011JD016451.   \nFowler L D, and Randall D A (1996). Liquid and ice cloud microphysics in the CSU general circulation model. Part II: Impact on cloudiness, the earth's radiation budget, and the general circulation of the atmosphere. J. Clim., 9: 530-560.   \nFu Q, Krueger S K, Liou K-N (1995). Interactions of radiation and convection in simulated tropical cloud clusters. J. Atmos. Sci., 52: 1310-1328.   \nFuchs Z, Raymond D J(2002). Large-scale modes of a nonrotating atmosphere with water vapor and cloud-radiation feedbacks. J. Atmos. Sci., 59: 1669-1679.   \nGao S (2007). A three-dimensional dynamic vorticity vector associated with tropical oceanic convection. J. Geophys. Res., 112: D18109. DOI:10.1029/2006JD008247.   \nGao S and Li X (2008). Cloud-resolving modeling of convective processes. 206pp., Springer Science & Business Media, Dordrecht: Neth. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Gao S.and Li X (2O1O). Precipitation equations and their applications to the analysis of diurnal variation of tropical oceanic rainfall. J. Geophys. Res., 115: D08204, DOI:10.1029/2009JD012452 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Gao S, Cui X, Zhou Y, and Li X (20o5). Surface rainfall processes as simulated in a cloud-resolvingmodel.J.Geophys.Res.，110: D 10202 DOI: 10.1029/2004JD005467. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Gao S, Cui X, Zhou Y, Li X, and Tao W K (2005). A modeling study of moist and dynamic vorticity vectors associated with two-dimensional tropical convection, J. Geophys. Res., 110: D17104.DOI: 10.1029/2004JD005675 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Gray W M and Jacobson Jr. R W (1977). Diurnal variation of deep cumulus convection, Mon. Wea. Rev., 105(9): 1171-1188. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Houze Jr. R A (1997). Stratiform precipitation in regions of convection: A meteorological paradox? Bulletin of the American Meteorological Society， 78: 2179-2196. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Igel A L， Igel M R,and van den Heever S C (2015). Make it a double? Sobering results from simulations using single-moment microphysics schemes. J.Atmos. Sci., 72: 910-925. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Joyce R J, Janowiak J E, Arkin P A, and Xie P (2004). CMORPH: A method that produces global precipitation estimates from passive microwave and infrared data at high spatial and temporal resolution. J. Hydrometeor., 5: 487-503. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Kokhanovsky A. (2004). Optical properties of terrestrial clouds. Earth-Sci. Rev., 64: 189-241. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Li X (20o9). Dominant physical processes associated with phase differences between surface rainfall and convective available potential energy. J. Tropical Meteor., 15: 148-154. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Li X and Gao S (2011). Precipitation modeling and quantitative analysis, $2 3 5 ~ \\mathrm { p p }$ （ Springer Science & Business Media, Dordrecht: Neth. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Li X, Sui C H, Lau K M, and Chou M D (1999). Large-scale forcing and cloud-radiation interaction in the tropical deep convective regime. J. Atmos. Sci., 56: 3028-3042.   \nLi X, Zhai G, Gao S,and Shen X (2014). A new convective-stratiform rainfall separation scheme. Atmos. Sci. Lett., 15: 245-251.   \nLilly D K (1988). Cirrus outflow dynamics. J. Atmos. Sci., 45: 1594-1605.   \nLin Y, Farley R D and Orville H D (1983). Bulk Parameterization of the Snow Field in a Cloud Model. J. Appl. Meteor. Clim., 22: 1065-1092.   \nLiou K-N (2002). An introduction to atmospheric radiation. Academic Press, 583pp.   \nLou T,and Li X (2O16). Radiative effects on torrential rainfall during the landfall of Typhoon Fitow (2013). Adv. Atmos. Sci., 33: 101-109.   \nMlawer E J, Taubman S J, Brown P D, Iacono M J, and Clough S A (1997). Radiative transfer for inhomogeneous atmospheres: RRTM, a validated correlated-k model for the longwave. J. Geophys. Res., 102: 16663-16682. DOI: 10.1029/97JD00237.   \nNicholls M E (2015). An investigation of how radiation may cause accelerated rates of tropical cyclogenesis and diurnal cycles of convective activity. Atmos. Chem. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Phys., 15: 9003-9029. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Nicholls M E and Montgomery M T (2013). An examination of two pathways to tropical cyclogenesis occurring in idealized simulations with a cloud-resolving numerical model. Atmos. Chem. Phys., 13: 5999-6022. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Peters M E, and Bretherton C S (2005).A simplified model of the walker circulation with an interactive ocean mixed layer and cloud-radiative feedbacks. J. Clim., 18: 4216-4234. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Shen X, Wang Y, and Li X (2O11a). Effects of vertical wind shear and cloud radiative processes on responses of rainfall to the large-scale forcing during pre-summer heavy rainfall over southern China. Quart. J. Roy. Meteor. Soc., 137: 236-249. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Shen X, Wang Y and Li X (2O11b). Radiative effects of water clouds on rainfall responses to the large-scale forcing during pre-summer heavy rainfall over southern China, Atmos. Res., 99: 120-128. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Shen X, Wang Y， Zhang N，and Li X (2010). Roles of large-scale forcing, thermodynamics,and cloud microphysics in tropical precipitation processes, Atmos. Res., 97: 371-384. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Shu S, Xu H, and Zhang W (2020). Convective-stratiform rainfall of Typhoon Fitow (2013): sensitivity to rainfall partitioning methods. J. Geophys. Res.-Atmos., 125: e2019JD031510.https://doi.0rg/10.1029/2019JD031510 ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Skamarock W C, Klemp J B, Dudhia J., Gill D O, Barker D M, Duda M G, Huang X, Wang W, and Powers JG(2008). A description of the Advanced Research WRF version 3, NCAR Tech, Note NCAR/TN-475+STR (p. 113pp). ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Soong S and Ogura Y (1980). Response of tradewind cumuli to large-scale processes. J. Atmos. Sci., 37: 2035-2050. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Soong S and Tao W K (1980). Response of deep tropical cumulus clouds to mesoscale processes. J. Atmos. Sci., 37: 2016-2034. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Steiner M, & Houze Jr. R A(1993). Three-dimensional validation at TRMM ground truth sites: Some early results from Darwin，Australia. In Preprints, 26th Int. Conf. on Radar Meteorology, Norman, OK, Amer. Meteor. Soc., 417-40.   \nSui C H, Li X and Lau K M (1998). Radiative-convective processes in simulated diurnal variations of tropical oceanic convection. J. Atmos. Sci., 55: 2345-2357.   \nSui C H, Lau K M, Tao W K,and Simpson J (1994). The tropical water and energy cycles in a cumulus ensemble model. Part I: Equilibrium climate. J. Atmos. Sci., 51: 711-728.   \nSui C H, Lau K M, Takayabu Y N, and Short D A (1997). Diurnal variations in tropical oceanic cumulus convection during TOGA COARE,. J. Atmos. Sci., 54: 639-655.   \nSui C H,Tsay C T, and Li X (2O07). Convective-strati form rainfall separation by cloud content. J. Geophys. Res., 112: D14213, doi: 10.1029/2006JD008082.   \nTao W-K, and Simpson J (1993). The Goddard cumulus ensemble model. Part I: Model description. Terr. Atmos. Oceanic Sci., 4: 35-72.   \nTao W-K, Simpson J, Sui C-H, Ferrier B, Lang S, Scala J, Chou M-D, Pickering K (1993). Heating, moisture and water budgets of tropical and midlatitude squall lines: comparisons and sensitivity to longwave radiation. J. Atmos. Sci.， 50: ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "673-690. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Tao W-K, Lang S, Simpson J, Sui C H, Ferrier B,and Chou M D (1996). Mechanisms of cloud-radiation interaction in the tropics and midlatitudes. J. Atmos. Sci., 53: 2624-2651. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Wang B, Liu F,and Chen G (2016). A trio-interaction theory for Madden-Julian Oscillati0n. Ge0sci. Lett., 3: 34. DOI 10.1186/s40562-016-0066-z. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Wang B, Xu H, Zhai G, and Li X (2018). The rainfall responses of Typhoon Soudelor (2015) to radiative processes of cloud species. Journal of Geophysical Research: Atmospheres, 123: 4284-4293.https://doi.0rg/10.1029/2017JD027939 ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Wang D, Li X, Tao W-K (201O). Cloud radiative effects on responses of rainfall to large-scale forcing during a landfall of severe tropical storm Bilis (2o06). Atmos. Res., 98: 512-525. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Wang D, Li X and Tao W-K (201O). Torrential rainfall responses to radiative and microphysical processes of ice clouds during a landfall of severe tropical storm Bilis (2006). Meteor. Atm0s. Phys., 109: 107-114. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Wang J, Li X and Carey L D (20o7). Evolution, structure, cloud microphysical, and surface rainfall processes of monsoon convection during the South China Sea Monsoon Experiment. J. Atmos. Sci. 64: 360-380. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Xu H and Du B (2015). The Impact of Typhoon Danas (2013) on the Torrential Rainfall Associated with Typhoon Fitow (2013) in East China. Adv. Meteor., 2015, DOI: http://dx.doi.0rg/10.1155/2015/383712. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Xu H, and Li X (2O17). Torrential rainfall processes associated with a landfall of ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "typhoon Fitow (2013): a three-dimensional WRF modeling study. J. Geophys.   \nRes., 122(11): 6,004-6,024.   \nXu K M, Cederwall R T, Donner L J, Grabowski W W, Guichard F, Johnson D E, Khairoutdinov M, Krueger S K， Petch J C and Randall D A (2002). An intercomparison of cloud-resolving models with the Atmospheric Radiation Measurement summer 1997 Intensive Observation Period data. Quart. J. Roy. Meteorol. Soc., 128: 593-624.   \nXu K and Randall D A (1995a). Impact of interactive radiative transfer on the macroscopic behavior of cumulus ensembles. Part I: Radiation parameterization and sensitivity tests. J. Atmos. Sci., 52: 785-799.   \nXu K and Randall D A (1995b). Impact of interactive radiative transfer on the macroscopic behavior of cumulus ensembles. Part I: Mechanismsfor cloud-radiation interactions. J. Atmos. Sci., 52: 800-817.   \nYin J, Wang D, Zhai G, Wang H, Xu H, Liu C (2022). A Modified Double-Moment Bulk Microphysics Scheme toward the East Asia Monsoon Region. Adv. Atmos. Sci. Online. https://doi.0rg/10.1007/s00376-022-1402-1   \nYu Z (2014). Overview of Severe Typhoon Fitow and its Operational Forecasts, Tropical Cyclone Res. Rev.. 3: 22-34..   \nYue C,and Shou S (2011). Responses of precipitation to vertical wind shear, radiation, and ice clouds during the landfall of Typhoon Krosa (20o7). Atmos. Res., 99: 344-352.   \nZhang Y, Li Z and Macke A (2o02). Retrieval of surface solar radiation budget under ice cloud sky: uncertainty analysis and parameterization. J. Atmos. Sci., 59: 2951-2965.   \nZhou Y (2O11). Effects of vertical wind shear, radiation, and ice clouds on a torrential rainfall event over Jinan, China in July 2007. J. Geophys. Res., 116: D05118, doi:10.1029/2010JD014518. ?   \nZhou Y. and Li X (2Oo9). Sensitivity of convective and stratiform rainfall to sea surface temperature. Atmos.Res., 92: 212-219.   \nZhu H, Xu H, and Li X (2018). Thermal and microphysical effects of ice clouds on torrential rainfall over northern China. Journal of Geophysical Research: Atmospheres, 123: 12,228-12,235. https://doi.0rg/10.1029/2018JD029221 ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Table captions: ",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Table 1 Model setup ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Table 2 Daily and model domain means of surface rain rate $( \\mathrm { P s } )$ ，net condensation $( \\mathrm { Q } _ { \\mathrm { N C } } )$ ，and hydrometeor convergence/divergence $\\left( \\mathrm { Q } \\mathrm { c u } \\right)$ for surface rainfall in C CTL, and NCR, and their Differences (CTL-NCR). ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Table 2 Daily and model domain means of surface rain rate $( \\mathrm { P s } )$ ， net condensation (QNc)，and hydrometeor convergence/divergence (Qcm) for (a） convective rainfall and (b) stratiform rainfall in CTL，and NCR,and their Differences (CTL-NCR). ",
+        "page_idx": 24
+    },
+    {
+        "type": "table",
+        "img_path": "images/484e1794795d2237beedcf9bd9860f2e4e8d278cd7eb29f71a1b2d7bcad88ed7.jpg",
+        "table_caption": [
+            "522 Table 1 WRF Model setup "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Vertical levels</td><td>33</td></tr><tr><td>Model top</td><td>50 hPa</td></tr><tr><td>Shortwave radiation scheme</td><td>Dudhia (1989)</td></tr><tr><td>Longwave radiation scheme</td><td>Mlawer et al. (1997)</td></tr><tr><td>Cloud microphysical scheme</td><td>Lin et al. (1983)</td></tr><tr><td>Land surface scheme</td><td>Dudhia (1996)</td></tr><tr><td>Cumulus scheme</td><td>N/A</td></tr><tr><td>Data used for initial and lateral boundary conditions</td><td>National Centers for Environmental Prediction (NCEP) global forecast system (GFS) final (FNL) operational global analysis</td></tr><tr><td>Model integration period</td><td>0000 UTC 6 October -1200 UTC 7 October 2013</td></tr><tr><td>Data analysis period</td><td>1200 UTC 6 October-1200 UTC 7 October 2013</td></tr></table></body></html>",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Table 2 Daily and model domain means of surface rain rate $( \\mathrm { P s } )$ ， net condensation $( \\mathrm { Q } _ { \\mathrm { N C } } )$ ， and hydrometeor convergence/divergence $( \\mathrm { Q } \\mathrm { c } \\mathrm { _ M } )$ for surface rainfall in CTL, ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 26
+    },
+    {
+        "type": "table",
+        "img_path": "images/df7182f7305100c3c0101c3bb2636a85f991ee57369809f88434e55628b193c0.jpg",
+        "table_caption": [
+            "and NCR, and their Differences (CTL-NCR). "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>(a)</td><td>CTL NCR</td><td>CTL-NCR</td></tr><tr><td>Ps</td><td>69.550</td><td>72.710 -3.160</td></tr><tr><td>QNC</td><td>69.710</td><td>73.630 -3.920</td></tr><tr><td>QcM</td><td>-0.170</td><td>-0.890 0.720</td></tr></table></body></html>",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Table 3 Daily and model domain means of surface rain rate $( \\mathrm { P s } )$ ， net condensation $( \\mathrm { Q } _ { \\mathrm { N C } } )$ , and hydrometeor convergence/divergence $( \\mathrm { Q } \\mathrm { c u } )$ for (a) convective rainfall and (b) stratiform rainfall in CTL,and NCR, and their Differences (CTL-NCR). ",
+        "page_idx": 27
+    },
+    {
+        "type": "table",
+        "img_path": "images/bd0199ee2d072eb2a85429e74785ebd267ddb579b6684eb4da4af91361116bd3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">Convective rainfall</td></tr><tr><td>(a)</td><td>CTL</td><td>NCR CTL-NCR</td></tr><tr><td>Ps</td><td>52.330 55.430</td><td>-3.100</td></tr><tr><td>QNC</td><td>64.480 68.930</td><td>-4.450</td></tr><tr><td>QcM</td><td>-12.160 -13.470</td><td>1.310</td></tr></table></body></html>",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "581 ",
+        "page_idx": 27
+    },
+    {
+        "type": "table",
+        "img_path": "images/aaae173df7798b49a0702bd69a5e3648caf62137831e31a8e02c7efa1a940700.jpg",
+        "table_caption": [
+            "Stratiform rainfall "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>(b) CTL</td><td>NCR CTL-NCR</td></tr><tr><td>Ps 17.220</td><td>17.280</td></tr><tr><td>5.230</td><td>-0.06 0.53</td></tr><tr><td>QNC QcM 11.990</td><td>4.700 12.580 -0.59</td></tr></table></body></html>",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Figure captions: ",
+        "text_level": 1,
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Vertical profiles of differences in temperature tendency ( $F _ { l o c }$ ; blue) and its tendency due to heat divergence $F _ { h d ; }$ red),sensible heat $( F _ { p b l }$ ; green),latentheat 0 $\\cdot  { F _ { m p } }$ ; black) and radiative processes ( $F _ { r a d ; }$ ： orange) between the control experiment and the sensitivity experiment. Unit is $^ \\mathrm { { { o } } } \\mathrm { { C } }$ day-1. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Fig. 2 Vertical profiles of differences in divergence of heat flux ( $F _ { h d } ;$ red) and its components: divergence of horizontal heat flux (xytend; orange) and divergence of vertical heat flux (ztend; blue) between the control experiment and the sensitivity experiment. Unit is $^ { \\circ } \\mathrm { C }$ day-1. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Fig. 3 Breakdown of vertical profiles of divergence of vertical heat flux (ztend; black; Unit: $^ \\mathrm { { { o } C } }$ day-1): interaction between mean temperature and mean vertical divergence (ztend 2 ; red; Unit: $^ \\mathrm { { { \\circ } C } }$ day-1), mean temperature ( $F _ { \\theta }$ ; orange; $1 0 ^ { - 1 } { } ^ { \\mathrm { o } } \\mathrm { C } )$ ， vertical divergence ( $F _ { d \\omega }$ ; magenta; $1 0 ^ { - 2 }$ day-1), mean vertical temperature advection ( ztend1; blue; $1 0 ^ { - 1 } { } ^ { \\mathrm { o } } \\mathrm { C }$ day-l), divergence of perturbation vertical heat flux ( ztend3 ; green; $^ \\mathrm { { { o } } } \\mathrm { { C } }$ day-1) between the control experiment and the sensitivity experiment. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Fig. 4 Vertical profiles of differences in (a) -∂0s. /∂o (\\~∂θs. /Oz ; K) and (b) - ω $( \\sim w ; 1 0 ^ { - 3 } \\mathrm { P a s ^ { - 1 } } )$ between the control experiment and the sensitivity experiment. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Fig.5 Time series of domain-mean surface rain rate $( \\mathrm { P s } )$ , net condensation $( \\mathrm { Q } _ { \\mathrm { N C } } )$ , and hydrometeor convergence/divergence $( \\mathrm { Q } \\mathrm { c } \\mathrm { _ M } )$ for (a-c) convective rainfall and (d-f) stratiform rainfall in (a, d) CTL,and $( \\boldsymbol { \\mathsf { b } } , \\ \\boldsymbol { \\mathsf { e } } ) \\ \\mathrm { N C R }$ ，and(c, f） their Differences (CTL-NCR). ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Fig. 6 The temporal-vertical cross section of(a, d) control, (b, e) NCR,and (c, f) their difference (CTL-NCR) in spatially averaged (a, b, c) solar radiative heating and (d, e, f) infrared radiative cooling between CTL to NCR. Unit: $\\mathbf { K } { \\cdot } \\mathbf { h } ^ { - 1 }$   \nFig. 7 The temporal-vertical cross section of(a) control, (b) NCR, and (c) their difference (CTL-NCR) in spatially averaged temperature (unit: $\\mathrm { { ^ \\circ C } }$ )between CTL to NCR.   \nFig. 8 The temporal-vertical cross section of(a) control, (b) NCR,and (c) their difference (CTL-NCR) in spatially averaged vertical velocity $( \\sim w ; \\mathsf { c m } { \\cdot } \\mathsf { s } ^ { - 1 } )$ （204号 between CTL to NCR. ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Figure 9 A conceptual model for the probable mechanism of cloud radiation process affects precipitation. ",
+        "page_idx": 29
+    },
+    {
+        "type": "image",
+        "img_path": "images/523af13d7e0977385a367ea9f1f75716cc72550ac0b639a017c37efdcc5c33bd.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Vertical profiles of differences in temperature tendency ( $F _ { l o c }$ ； blue） and its tendency due to heat divergence ( $( F _ { h d } ;$ red), sensible heat $( F _ { p b l } ;$ green), latent heat $( F _ { m p } ;$ black) and radiative processes ( ${ \\mathrm { ' } } F _ { r a d } { ; }$ .orange） between the control experiment and the sensitivity experiment. Unit is $^ \\mathrm { { { o } } } \\mathrm { { C } }$ day-1 ",
+        "page_idx": 30
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9d941bdc4a306d6eeafbca30e839581967ff3b1a9c57825072f21239231bac8.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Vertical profiles of differences in divergence of heat flux( $( F _ { h d } ;$ red） and its components: divergence of horizontal heat flux (xytend; orange) and divergence of vertical heat flux (ztend; blue) between the control experiment and the sensitivity experiment. Unit is $^ \\mathrm { { { \\circ } C } }$ day-1 ",
+        "page_idx": 31
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f9e925bd8607ca0004114481bdb82f85e12edd8b7fe136f79b419caf02e6c6f.jpg",
+        "img_caption": [
+            "Fig. 3 Breakdown of vertical profiles of divergence of vertical heat flux (ztend; black; "
+        ],
+        "img_footnote": [],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Unit: $^ \\mathrm { { { o } C } }$ day-1): interaction between mean temperature and mean vertical divergence (ztend 2 ; red; Unit: $^ \\mathrm { { { \\circ } } } \\mathrm { { C } }$ day-1), mean temperature ( $F _ { \\theta }$ ; orange; $1 0 ^ { - 1 } ^ { \\mathrm { { o } } } \\mathrm { { C } } \\$ ), vertical divergence ( $F _ { d \\omega }$ ; magenta; $1 0 ^ { - 2 } \\mathrm { d a y ^ { - 1 } } .$ ), mean vertical temperature advection ( ztend1 ; blue; $1 0 ^ { - 1 } { } ^ { \\mathrm { o } } \\mathrm { C }$ day-1), divergence of perturbation vertical heat flux ( ztend3 ; green; $^ \\mathrm { { { o } } } \\mathrm { { C } }$ day-1) between the control experiment and the sensitivity experiment. ",
+        "page_idx": 32
+    },
+    {
+        "type": "image",
+        "img_path": "images/a3639bb4e3036dfb65f5250cdd3c4f83b2fd75f7a9eeeb2ce95f091ca4b6bf47.jpg",
+        "img_caption": [
+            "Fig. 4 Vertical profiles of differences in - @ $( \\sim w : 1 0 ^ { - 3 } \\ \\mathrm { P a s ^ { - 1 } ) }$ between the control "
+        ],
+        "img_footnote": [],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "experiment and the sensitivity experiment. ",
+        "page_idx": 33
+    },
+    {
+        "type": "image",
+        "img_path": "images/b47f1066e1ea56d9ce129c4992b13a28e69186383b7b1f92c099c6034918e821.jpg",
+        "img_caption": [
+            "Fig.5 Time series of domain-mean surface rain rate $( \\mathrm { P s } )$ , net condensation $( \\mathrm { Q } _ { \\mathrm { N C } } )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "and hydrometeor convergence/divergence $( \\mathrm { Q } \\mathrm { c } \\mathrm { m } )$ for (a-c) convective rainfall and (d-f) stratiform rainfall in (a, d) CTL, and (b, e) NCR, and (c, f) their Differences (CTL-NCR) ",
+        "page_idx": 34
+    },
+    {
+        "type": "image",
+        "img_path": "images/61eba456beb17a68399b3f01721b72d7402c1a3bc16f947ffa39f0bb170b93b2.jpg",
+        "img_caption": [
+            "Fig. 6 The temporal-vertical cross section of(a, d) control, (b, e) NCR,and (c, f) their "
+        ],
+        "img_footnote": [],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "difference (CTL-NCR) in (a, b, c) solar radiative heating and (d, e, f) infrared radiative cooling between CTL to NCR. Unit: K·h-1. ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 35
+    },
+    {
+        "type": "image",
+        "img_path": "images/c4e5d1de438da5e19924b8e404a4775b14b258c9ddb0580b744142410cd2b736.jpg",
+        "img_caption": [
+            "Fig. 7 The temporal-vertical cross section of(a) control, (b) NCR,and (c) their "
+        ],
+        "img_footnote": [],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "difference (CTL-NCR) in temperature (unit: $^ { \\circ } \\mathrm { C }$ ) between CTL to NCR. ",
+        "page_idx": 36
+    },
+    {
+        "type": "image",
+        "img_path": "images/12c50a2fbf3dac957f384680d41344eb590516542bd17fc4fb055493a25a10c8.jpg",
+        "img_caption": [
+            "Fig. 8 The temporal-vertical cross section of(a) control, (b) NCR,and (c) their "
+        ],
+        "img_footnote": [],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "difference(CTL-NCR) in vertical velocity $( \\sim w ; \\mathsf { c m } { \\cdot } \\mathsf { s } ^ { - 1 } )$ between CTL to NCR ",
+        "page_idx": 37
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff70d071534e3be330b320da99c2715852f392adf2b0dbf4fe9b3dc4ce3c1bbf.jpg",
+        "img_caption": [
+            "Figure 9 A conceptual model for the probable mechanism of cloud radiation process "
+        ],
+        "img_footnote": [],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "affects precipitation. ",
+        "page_idx": 38
+    }
+]

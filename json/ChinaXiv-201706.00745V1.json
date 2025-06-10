@@ -1,0 +1,719 @@
+[
+    {
+        "type": "text",
+        "text": "A 3D Numerical Study of $\\mathbf { L O } _ { 2 } / \\mathbf { G H } _ { 2 }$ Supercritical Combustion in the ONERAMascotte Test-rig Configuration ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abdelkrim Benmansour1,Abdelkrim Liazid1, Pierre-Olivier Logerais2\\*, Jean-Félix Durastanti² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.LaboratoryLTE,ENP-Oran,BP1523El Mnaouer 31000, Oran Algeria   \n2. Université de Paris-Est, CERTES,IUT de Sénart, rue Georges Charpak,77567 Lieusaint, France ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\copyright$ Science Press and Institute of Engineering Thermophysics, CAS and Springer-Verlag Berlin Heidelberg 2016 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cryogenic propellants $\\mathrm { L O x } / \\mathrm { H } 2$ are used at very high pressure in rocket engine combustion.The description of the combustion process in such application is very complex due essentiall to te supercritical regime.Ideal gas law becomes invalid. In order to try to capture the average characteristics of this combustion process, numerical computations are performed using a model based on a one-phase multi-component approach. Such work requires fluid properties and a corrct definition of the mixture behavior generally described by cubic equations of state with appropriated thermodynamic relations validated against the NISTdata.In this study we consider an alternative way to get the effect ofreal gas by testing the volume-weighted-mixing-law with association of the componenttransport properties using directly the NIST library data fiting including the supercritical regime range.The numerical simulations are caried out using 3D RANS approach associated with two tested turbulence models, the standard $\\mathbf { k }$ -Epsilon model and therealizable $\\mathbf { k }$ -Epsilon one.The combustion model is also associated with two chemical reaction mechanisms.The first one is a one-step generic chemical reaction and the second one is a two-step chemical reaction.The obtained results like temperature profiles,recirculation zones,visible flame lengths and distributions of OH species are discussed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Rocket engine; non-premixed combustion;supereritical regime; H2-O2 flame;transport properties ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Rocket-engine based on cryogenic propellant technology has been used for many years in launchers like those of Ariane 1 to 5.The use of liquid propellant allows significant progress due to its high performance and good flexibility. Cryogenic hydrogen as fuel and liquid oxygen as oxidizer are injected separately into the combustion chamber at a very high pressure beyond the thermodynamic critical point. This mixture condition is well known as an interesting solution that provides best efficiency and performance for a variety of launch applications [1].However, reaching equilibrium between lowcost and short-time development process remains a challenging issue. The degree of local mixing and the extent of the combustion reactions must be established in order to accurately predict the performances and the internal thermal environment of the engine.The lack of experiments to reproduce in the laboratory environment the conditions existing in the combustion chamber and the limited scientific knowledge in this field lead to numerical studies which are currently performed by space agencies.Some of these numerical simulations based on LES, DNS,or RANS approaches were detailed in [2]. For ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/9f53320dcda032d428579cbcbd74d4991999b7cea3a1dd020d5bdf7198ed23b2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Nomenclature</td><td rowspan=\"2\">F</td><td rowspan=\"2\">Formation</td></tr><tr><td>Cp,Cv</td><td>Specific heat capacity at constant pressure and volume, J.kg.K-1</td></tr><tr><td>D</td><td>Diameter of the injector, m</td><td>t</td><td>Turbulent</td></tr><tr><td>Da</td><td>Diffusion coefficient of a component a, m².s-1</td><td>a</td><td>Reynolds averaging</td></tr><tr><td>e</td><td>Internal energy, J.kg-1</td><td>a</td><td>Favre averaging</td></tr><tr><td>ha</td><td>Enthalpy of the component, J.kg-1</td><td></td><td>Fluctuation</td></tr><tr><td>k</td><td> Turbulent kinetic energy, m2.s-2</td><td>Notations</td><td></td></tr><tr><td>I</td><td>Identity tensor</td><td>AMR</td><td>Adaptive Mesh Refinement</td></tr><tr><td>M</td><td>Molecular weight, g.mol-1</td><td>BWR</td><td>Benedict-Webb-Rubin</td></tr><tr><td>Pr</td><td>Prandtl number</td><td>CERFACS</td><td>European Centre for Research and Ad- vanced Training in Scientific Computation</td></tr><tr><td>p</td><td>Static pressure, Pa</td><td>CFD</td><td>Computational Fluid Dynamics</td></tr><tr><td>q</td><td>Heat flux, W.m-²</td><td>DNS</td><td>Direct Numerical Simulation</td></tr><tr><td>Sc</td><td>Schmidt number</td><td>EDM</td><td>Eddy Dissipation Model</td></tr><tr><td>T</td><td>Temperature, K</td><td>GH2</td><td>Gaseous Hydrogen</td></tr><tr><td>ui</td><td>Velocity, i'h component, m.s-1</td><td>IWRCM</td><td>International Workshop on Rocket Com- bustion Modelling</td></tr><tr><td>V</td><td>Molar volume, m3.mol-1</td><td>Kε</td><td>Standard (k-ε) turbulence model</td></tr><tr><td>Y</td><td>Mass fraction of a component a</td><td>LES</td><td>Large Eddy Simulation</td></tr><tr><td>Greek symbols</td><td></td><td>LOX</td><td>Liquid Oxygen</td></tr><tr><td>Dissipation rate of k, m².s-3</td><td></td><td>LRE</td><td>Liquid Rocket Engine</td></tr><tr><td></td><td>Thermal conductivity, W.m-1K-1</td><td>NIST</td><td>National Institute of Standards and Tech-</td></tr><tr><td>从</td><td>Dynamic viscosity, kg.m-1.s-1</td><td>ONERA</td><td>nology Office National d'Etudes et de Recherches</td></tr><tr><td>@</td><td>Net production rate of a component,</td><td>PR</td><td>Aérospatiales Peng-Robinson state equation</td></tr><tr><td>p</td><td>kg.m³.s-1 Density, kg.m-3</td><td>RKE</td><td>Realizable (k-ε) turbulence model</td></tr><tr><td>T</td><td>Viscous stress tensor</td><td>SRK</td><td>Soave-Redlich Kwong equation</td></tr><tr><td>Subcripts</td><td></td><td>VWML</td><td>Volume Weigthed Mixing Law</td></tr><tr><td>C Critical</td><td></td><td></td><td></td></tr><tr><td colspan=\"2\"></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "example,five different simulations,grouped in the pro ject supported by the NASA agency and called Constellation [3] were compared to extract a global behavior. The results of this study point that the use of the LES or RANS codes shows no similarity in the results.One reason is due to subgrid models used for high pressure applications as they were originally developed for cases at low pressure.Other studies have been conducted at the European research center CERFACS by Thomas Schmitt [4].The first tests therefore show the importance of better understanding the various unknowns of the problem. Even if $\\mathrm { L O } _ { \\mathrm { X } ^ { - } } \\mathrm { H } _ { 2 }$ rocket engines have been relatively safe during the last years,the processes that control combustion are still not well understood [5].For instance,both for surrounding quiescent or moving gases and for supercritical shear flows such as those occurring in the rocket combustors,research works are in progress [6-9]. For one decade,a series of investigations have been per formed based on a research-test facilities with high pressure combustion of cryogenic propellants,namely with the well known Mascotte device(ONERA,France） and the European research and technology test bench P8 [10,11,12-17]. With the advantage of optical access to the combustion chamber, experimental visualization using advanced laser techniques are possible mainly like Co herent Anti-stokes Raman Spectroscopy (CARS), Planar Laser Induced Fluorescence (PLIF) and line-of-sight im aging (shadowgraphs and $\\mathrm { O H ^ { * } }$ emission).Also,accurate monitoring of $\\mathrm { L O x } / \\mathrm { G H } _ { 2 }$ flame shapes and lengths is allowed, as well as an identification of controlling factors. In the same way, several numerical investigations were done for turbulent mixing with crossing the critical fluid pressure or temperature [18,19]. Schmitt et al. investigated the effect of chamber pressure on the turbulent mixing LOx $/ \\mathrm { G H } _ { 2 }$ and examined the effect of injection temperature [2O]. The stabilization of the $\\mathrm { L O x } / \\mathrm { G H } _ { 2 }$ flame tip at the injector rim was investigated in [21-22]. Laminar counter flow diffusion flames have been studied to investigate the chemical structure of $\\mathrm { L O x } / \\mathrm { G H } _ { 2 }$ transcritical flame [23-26]. The coaxial jet flame was investigated using a RANS approach in [27-29]. Other researchers have performed numerical investigations to try to depict the complex mixing and combustion processes occurring in rocket combustion chambers.The main problem is to get the behavior of the propellant mixture at the supercritical conditions. Indeed, the evaluation of thermodynamic properties and transport parameters constitute the major diffculty to describe correctly the mixing and combustion processes.Since the year 2oo5,some studies [30-33] have used the LES approach to improve the understanding of fluid dynamics inside LREs.So,modern theory,however, still lacks a physically-based model to explain the phenomenology when fluid exceeds the thermodynamical critical condition [34].For instance,in references [35-41] studies are made on the behavior, modeling and analysis of turbulent supercritical mixing. Reference [4O] performed numerical investigations using DNS approach to study the temporal non-reacting mixing layers,the impact of real-gas thermodynamics on the characteristics of turbulent mixing and to determine the validity of closure terms for Large Eddy Simulation (LES).However, nowadays these methods are still too computationally expensive to be used in industrial applications knowing that it is currently impossible to achieve simulations identical to those of the Constellation project [3]. Currently, only DNS to our knowledge, which is applied to cryogenic engines,was carried out by Bellan's team [40] and F. Troadec [2] where the density ratio of the mixture $\\mathrm { ( O } _ { 2 } / \\mathrm { H } _ { 2 } \\mathrm { ) }$ hardly exceeds 26 and which is still very far from real applications where it is greater than 100. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This work deals with a numerical study carried out on the combustion processes occurring in the Mascotte test rig (V03). A 3D RANS study of $\\mathrm { L O } _ { 2 } / \\mathrm { G H } _ { 2 }$ supercritical combustion is accomplished.Real gas effects based on polynomial functions for transport parameters and density of pure species have been introduced into the commercial code Fluent through user defined functions.The homogenous multi-component, one-phase model associated with the volume-weighted mixing law is considered as a methodology to get in a simple way the combustion average characteristics. The Eddy-dissipation model is used to describe the turbulent combustion.A one-step chemical reaction is proposed. The obtained results are confronted to the available experimental data. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Configuration and operating conditions ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The test case RCM-3 presented at the second IWRCM workshop[14] is considered asa reference for validation (Figure 1).In this test case the single element combustor Mascotte VO3 is fed with liquid oxygen at $8 5 ~ \\mathrm { K }$ and gaseous hydrogen at $2 8 7 \\mathrm { ~ K ~ }$ Table 1.The high pressure combustion chamber is a square duct with a $5 0 ~ \\mathrm { m m }$ inner dimension and with a length of $4 0 0 ~ \\mathrm { { m m } }$ .At its downstream end, there is a nozzle of variable shape having a convergent length of $2 0 ~ \\mathrm { m m }$ and a throat diameter of 9 mm allowing a chamber pressure of about 6O bars. However, due to the lack of experimental data about the nozzle flow, it is replaced by a non-reflecting constantpressure outlet and the cooling film of the windows is neglected in the simulation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/59414f660e693e455cb5ab3105802968b67a66fdcb60ee0fadc5c7aefcc9831d.jpg",
+        "img_caption": [
+            "Fig.1 View of the Mascotte test-rig(V03)[1] "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/89ccab7b16ddfaa1722da1222ea5b0ce35c991ad384aa28a096f22d76dd01082.jpg",
+        "table_caption": [
+            "Table1 Operating conditions "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Operating conditions</td><td>H</td><td>O</td></tr><tr><td>Pressure [bar]</td><td>60</td><td>60</td></tr><tr><td>Temperature [K]</td><td>287</td><td>85</td></tr><tr><td>Mass flow rate [kg.s-1]</td><td>0.070</td><td>0.100</td></tr><tr><td>Velocity inlet [m.s-1]</td><td>236</td><td>4.35</td></tr><tr><td>Density at injector inlet [kg/m³]</td><td>5.51</td><td>1177.8</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Phenomenological trend ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As described in the references [2] and [30],mixing is a key point for thrust and efficiency of combustion systems.It becomes crucial in the case of liquid rocket engines because the pressure chamber often exceeds the critical point of loaded propellants. Mixing becomes an important scientific issue as fluid properties differ from classical ideal gas assumption.Liquid and gaseous phases are no longer separated above the critical pressure and the temperature of the mixture.Experimental investigations confirm that surface tension of the oxygen liquid-core vanishes [42]. The sharp distinction between gas and liquid disappears and the entire field becomes essentially a continuous environment,with no abrupt phase change involved in the burning process. On the liquid side of the critical isotherm, the material behaves more like a very dense gas than a liquid.Near the critical point, small state changes have great effects on transport properties and variables of state,leading to huge gradients of density and other thermodynamic variables during the mixing of trans or supercritical fluids [42]. These conditions make it very difficult to accurately predict the processes taking place.Currently some works are effectuated trying to give new theoretical description that qu antifies the effects of real-fluid thermodynamics on liquid fuel injection processes as a function of pressure at typical engine operating conditions [21,33,34,38,39,43-45]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Governing equations ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this study,a simplified approach based on stable supercritical fluid assumption is adopted.Mass,momentum，energy and chemical species governing equations are written respectively in a conservative form，for a compressible and fully turbulent flow. The body forces and the radiation effects are neglected.The surface ten sion is also negligible compared to aerodynamic forces (infinite Weber number). ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial \\rho } { \\partial t } + \\vec { \\nabla } \\cdot \\left( \\rho \\vec { u } \\right) = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial \\big ( \\rho \\vec { u } \\big ) } { \\partial t } + \\rho \\vec { u } \\Big ( \\vec { \\nabla } \\cdot \\vec { u } \\Big ) = - \\vec { \\nabla } p + \\vec { \\nabla } \\tau\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { \\tau } = \\frac { 2 } { 3 } \\mu \\left( \\vec { \\nabla } \\cdot \\vec { u } \\right) \\boldsymbol { I } + \\left( \\vec { \\nabla } \\cdot \\vec { u } + \\vec { \\nabla } ^ { t } \\cdot \\vec { u } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\tau$ and I are the viscous stress and the identity tensor respectively and $\\mu$ is the molecular dynamic viscosity; ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\hat { \\sigma } \\big ( \\rho h _ { t } \\big ) } { \\hat { \\sigma } t } - \\frac { \\hat { \\sigma } \\big ( p \\big ) } { \\hat { \\sigma } t } + \\rho \\vec { u } \\cdot \\vec { \\nabla } h _ { t } = - p \\vec { \\nabla } \\cdot \\vec { u } + \\tau c \\cdot \\vec { u } - \\vec { \\nabla } \\cdot \\vec { q }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $h _ { t }$ and $\\vec { q }$ are the specific total enthalpy and the total heat fluxes,respectively. When neglecting thermal diffusion caused by temperature gradient and molecular diffusion caused by species concentration gradient (Soret & Dufour effects), the heat flux can be expressed as: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\vec { q } = - \\lambda \\vec { \\nabla } T + \\sum _ { \\alpha } \\rho D _ { \\alpha } h _ { \\alpha } \\vec { \\nabla } Y _ { \\alpha }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { \\alpha } = \\intop _ { T ^ { 0 } } ^ { T } c _ { p \\alpha } ^ { d T } + h _ { \\alpha , F }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$h _ { \\alpha }$ is the partial enthalpy of the $i ^ { \\mathrm { t h } }$ species in the mixture; ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\hat { \\sigma } \\left( \\rho Y _ { \\alpha } \\right) } { \\hat { \\sigma } t } + \\rho \\vec { u } \\cdot \\vec { \\nabla } Y _ { \\alpha } = \\vec { \\nabla } \\cdot \\left( \\rho D _ { \\alpha } \\vec { \\nabla } Y _ { \\alpha } \\right) + \\dot { \\omega } _ { \\alpha }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\dot { \\omega } _ { \\alpha }$ is the instantaneous rate of production of the $i ^ { t h }$ chemical species due to the reaction. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Favre decomposition leads to the mean quantities of the reactive flow. Every extensive quantity $\\pmb { \\varphi }$ (except density and pressure),can be decomposed into a mean part $\\tilde { \\varphi }$ and a fluctuation part $\\pmb { \\varphi }$ as: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varphi = \\tilde { \\varphi } + \\varphi ^ { \\prime \\prime }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Favre (mass weighted) averaging form is defined as: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\tilde { \\varphi } } = { \\frac { \\overline { { \\rho \\varphi } } } { \\overline { { \\rho } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Favre decomposition generates constraints due to the appearance of fluctuation terms that need to be modeled. Hence,the momentum governing equation decomposition leads to the following constraint: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- \\overline { { \\rho u _ { \\iota } ^ { \\prime } u _ { J } ^ { \\prime \\prime } } } = \\mu _ { t } \\left( \\frac { \\partial \\tilde { u } _ { i } } { \\partial x _ { j } } + \\frac { \\partial \\tilde { u } _ { j } } { \\partial x _ { i } } - \\frac { 2 \\delta _ { i j } } { 3 } \\frac { \\partial \\tilde { u } _ { k } } { \\partial x _ { k } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "forwhich the selectedclosed model in this work is the $\\left( k \\mathrm { - } \\mathcal { E } \\right)$ turbulence model. The other constraints corresponding to species and enthalpy fluctuations are modeled by the following gradient expressions: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { \\rho u _ { t } ^ { \\prime } u _ { \\alpha } ^ { \\prime \\prime } } } = \\frac { \\mu _ { t } } { S c _ { t } } \\frac { \\partial \\tilde { Y } \\alpha } { \\partial x _ { j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { \\rho u _ { J } ^ { \\prime \\prime } h ^ { \\prime \\prime } } } = \\frac { \\mu _ { t } } { P r _ { t } } \\frac { \\partial \\tilde { h } } { \\partial x _ { j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\boldsymbol { S c } _ { t }$ and $P r _ { t }$ are the turbulent Schmidt and Prandtl numbers which are supposed to be identical to treat turbulent diffusion processes for heat and species in the same way. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Properties evaluation ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fluid mixture properties at critical regime are difficult toobtain and the experimental data on multi-component mixtures are particularly scarce.For such regime,properties of hydrogen and oxygen differ significantly from those at subcritical conditions,so the ideal state equation describing the fluid mixture behavior becomes invalid. To describe the real gas behavior, many equations of state are available such as the SRK[46] or the PR [47] which are often used in the supercritical CFD applications. More accurate equations of state exist such as BWR [48] but they are more complex because they comprise the critical compressibility factor as third parameter in addition to the critical pressure and critical temperature.R.N. Dahms and J.C.Oefelein [45] have conducted a study using a modified 32-term BWR equation of state.This study provides some new indications on the breakdown of the $\\mathrm { L O x } { \\cdot } \\mathrm { H } _ { 2 }$ molecular interfaces.The cubic equations SRK and PR have some limitations; for example,the densities of the fluids are not properly evaluated.This is observable in Figures 2 and 3 where the evolution of oxygen and hydrogen densities according to temperature, obtained from the NIST library,are confronted to those obtained from PR and SRK equation of states.Instead, it can be noted in the graphs that the application range of the cubic equations is limited to relatively diluted zones. In these zones,results obtained with the PR and with the SRK equations are superposed on the data retrieved from the NIST database [49]. In the dense phase, the results are in contrast.PR and SRK equations slightly overestimate the density of $\\mathrm { H } _ { 2 }$ .For $\\mathrm { O } _ { 2 }$ they have an opposite behavior, PR equation overestimates the $\\mathrm { O } _ { 2 }$ density whereas SRK equation underestimates it. To overcome these limitations,we have estimated the hydrogen and oxygen property variations according to temperature at 6O bars using a polynomial fitting from the NIST database (see Appendix Figures A1 to A8） instead of exploiting the corrected forms of cubic equations which will be validated using NIST data. The description of pure oxygen density requires multiple polynomials implemented in Ansys-Fluent software as a user defined function (UDF). In contrast to subcritical conditions, the rate of combustion at supercritical conditions is mainly governed by the mixing process.Experimental investigations indicate that the rate of combustion is governed by the process “mixing-limited”[50,51]. For the mixing law, the density is computed using the Volume Weighted Mixing Law (VWML) model as: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho = \\frac { 1 } { \\sum _ { i } \\frac { Y _ { i } } { \\rho _ { i } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The transport properties of the mixture like viscosity, thermal conductivity, specific heat and mass diffusion are based on a simple mass fraction average of the pure component species given by expressions (14),(15),(16) and (17) respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { \\displaystyle { \\mu = \\sum _ { i } Y _ { i } \\mu _ { i } } } \\\\ { \\displaystyle { \\lambda = \\sum _ { i } Y _ { i } \\lambda _ { i } } } \\\\ { \\displaystyle { c _ { p } = \\sum _ { i } Y _ { i } c _ { p , i } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\vec { J } _ { i } = - \\Bigg ( \\rho D _ { i , m } + \\frac { \\mu _ { t } } { S c _ { t } } \\Bigg ) \\nabla Y _ { j }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $D _ { i , m }$ is the diffusion coefficient for species $i$ in the mixture.Itis provided from polynomial fitting of hydrogen and oxygen diffusion coefficients (see appendix Figures A9 and A1O). Figure 4 shows our results concerning the density evolution for cold flow using both mixing law and cubic equations of state(SRK and PR).It can be noticed that for both PR and SRK equations of state,result of mixture density evolution differ remarkably from the VWML in the first portion of axial distance. According to the experimental visualizations [51]where the presence of the dense core (which supposes a higher density level) is clearly illustrated along the axial distance of the combustion chamber $x = 0$ to $x = 0 . 1 \\mathrm { ~ m ~ }$ ，itcan bededuced that the results of density profile showed by Figure 4 are underestimated. However, the VWML provides slightly better density results near the injector orifice but remains still insufficient after the axial distance $x = 0 . 0 2 5 \\mathrm { ~ m ~ }$ like PR and SRK equations. The asymptotic value of mixture density is about $2 0 ~ \\mathrm { k g / m } ^ { 3 }$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Combustion model ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The Eddy-Dissipation model is used. Reaction rates areassumed to be controlledby the turbulent mixingand the Arrhenius chemical kinetic calculations can be avoided.Hence,most of the fuels are fast burning.The net production rate of species $i$ due to reaction $r$ is given by the smallest result delivered by equations (18） and (19).The chemical reaction rate is governed by the large eddy mixing time-scale $( k / \\varepsilon )$ .Combustion proceeds whenever $k / \\varepsilon > 0$ and an ignition source is not required to initiate combustion.Fluent sets the product mass fractions to O.O1 which is usually sufficient to start the reaction. ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { \\omega } _ { i , r } = \\nu _ { i , r } ^ { \\prime } M _ { \\omega , i } A \\rho \\frac { \\varepsilon } { k } \\mathrm { m i n } _ { R } \\left( \\frac { Y _ { R } } { \\nu _ { i , r } ^ { \\prime } M _ { \\omega , i } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { \\omega } _ { i , r } = \\nu _ { i , r } ^ { \\prime } M _ { \\omega , i } A B \\rho \\frac { \\varepsilon } { k } \\frac { \\sum _ { p } Y _ { p } } { \\sum _ { j } ^ { N } \\nu _ { i , r } ^ { \\prime \\prime } M _ { \\omega , i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $Y _ { p }$ is the mass fraction of any product species $p , Y _ { R }$ is the mass fraction of a particular reactant $R$ $\\it { i ^ { \\prime } } _ { i , r }$ and $i ^ { \\prime \\prime } { } _ { i , r }$ are respectively, the stoichiometric coefficient for reactant $i$ in the reaction $r$ and the stoichiometric coefficient for product $i$ in the reaction r. $M _ { \\dot { u } , i }$ is the molecular weight. $A$ and $B$ are empirical constants equal to 4.O and O.5 re spectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d9c8a29bc489f4f7bc58c42845e16ce729fa6618b1825e4335f8d3cfab820ec.jpg",
+        "img_caption": [
+            "Fig.2Pure $\\mathrm { O } _ { 2 }$ density evolution( $\\mathrm { P } = 6 0$ bars) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c3545e22d90bf4e9cc476f373641423c457ea64a6bf43d9baf1e1661fc1c693.jpg",
+        "img_caption": [
+            "Fig.3Pure hydrogen density evolution ( $\\mathrm { P } = 6 0$ bars) "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/652e7a55c473d74ac63adaa9bcb40d88703488dceef185f6d871f803d5e47405.jpg",
+        "img_caption": [
+            "Fig.4Mixture density (cold flow simulation, $ { \\mathrm { P } } = 6 0$ bars) "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Simulations ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This work is performed with the CFD code AnsysFluent. The RANS approach is considered due to its significant advantages over the computing time and the possibility to simulate large computing domains.The closure model (k-ε) is selected here due to its advantage of being used in harsh conditions of industrial-type flows with complex geometries and high Reynolds numbers.Due to the chamber symmetry,only one quarter of the whole volume is considered in order to reduce the computational cost. The 3D computing domain is displayed in Figure 5. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "MeshingMethod ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The mesh was created so as to havea flagged and adjusted boundary to dispose of the real geometry. The grid control and refinement process is achieved using the AMR technique in order to improve the quality of the results in the zones of strong gradients.The AMR algo rithm creates adaptively finer grids depending on where an extra solution is needed in the domain according to a user defined error estimator. In the present work，the AMR is activated for the mean reaction rate.The original cell size (Figure 6a), which is determined before the simulation, starts with cell size of $0 . 1 5 \\mathrm { m m }$ at the injector exit and becomes coarse in the X,y, and $z$ directions with the goal of capturing mixing layers (Figure 6b). AMR is activated because it is difficult to determine a priori during the simulation where embedding should be added. AMR algorithms automatically add the embedding where the flow field is the most under-resolved or where the sub-grid is the largest. Consequently, the cell size and the total number of cells are not constant and change during the simulation.For example: the total cell number at the start of simulation was 794270 cells,and it became 915349 cells at the end of the computation.Figure 6c shows the final computational grid domain with unstructured mesh. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f284ac1822dd4d4ba46fe2a66f6d155dd7331853c7cdbf8aff05648e0e9954b6.jpg",
+        "img_caption": [
+            "Fig.5Geometrical modeling and boundary conditions "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Boundary Conditions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In order to solve the previous governing equations, boundaries and boundary conditions must be specified for each equation.The type of wall boundary is set as stationary and smooth boundaries.Law of the wall is used for gas temperature and velocity. Both for velocity profile of $\\mathrm { G H } _ { 2 }$ and LOx at the inlet of the combustion chamber, preliminary simulationsofinjectorswere achieved. This work is done separately with extracting the injector to simulate flows in order to deduce the velocityprofiles of $\\mathrm { G H } _ { 2 }$ and LOx.The inlet and outlet conditions of the injector flow are imposed respectively according to the injector feed conditions(Table 1) and the combustion chamber conditions (pressure).Figure 7 shows the semi-profile velocity of $\\mathrm { G H } _ { 2 }$ and LOx along the radial direction. The initial turbulence parameters are chosen according to those suggested at the second IWRCM workshop [14] for the test case RCM-3. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ded215bd7c346eac712b1538c08a2ac3688b33edd30e7ee8ad8a56e916487f46.jpg",
+        "img_caption": [
+            "Fig.6Computational grids,a. Original mesh,b.Region marked to refinement,c.Final mesh "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Results and discussions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/31b9fe575094972746250bc37eefe56a0507041b3599fdd620185b00fbecc4e2.jpg",
+        "img_caption": [
+            "Fig.8Axial velocity field on $4 5 ^ { \\mathrm { { \\circ } } }$ inclined plane $\\mathrm { ( y } = 2 5 ~ \\mathrm { m m }$ （204号 $\\mathbf { z } = 2 5 \\mathrm { m m }$ 0 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To ensure a good initial computation for the hot flow simulation,the first step consists in solving species transport equation（7） without considering the chemical source term.This resolution is called cold flow simulation.In this case, the contour of the axial velocity (Figure 8) obtained using the (k-ε) model shows clearly a recirculation zone near the chamber corner due to the presence of the wall,and fluid recirculation zone which extends to the downstream of the mixing layer. This is considered as a consequence of the shearing between the propellant flows. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e6320d1dc21d2f6a6236b744ccc2bef2e0c1482c24bff3d198c07ff71f688e7.jpg",
+        "img_caption": [
+            "Fig.7Velocity profile,a. $\\mathrm { G H } _ { 2 }$ ,b.Lox "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For hot flow simulation, the combustion model EDM predicts the maximum temperature of about $4 2 0 0 \\mathrm { ~ K ~ }$ by using a one-step chemical reaction only with $_ \\mathrm { H } _ { 2 } \\mathrm { O }$ as combustion product.This value is higher than the hydrogen/oxygen adiabatic flame temperature which is about $3 6 0 0 ~ \\mathrm { K }$ obtained from the computer program [52]. So, the dissociation effect is not taken into account and con sequently the reaction requires additional products. The integrating of detailed chemical kinetics model from Chemkin [53] significantly adds to the computational time.Hence,a two-step chemical reaction is considered by adding new species. Several mechanisms have been tested [28,53-55]. Among them, the model used by Benarous et al.[35] has provided acceptable results with the additional species OH. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\mathrm { H } _ { 2 } + 0 . 5 \\mathrm { O } _ { 2 } \\to \\mathrm { H } _ { 2 } \\mathrm { O } } } \\\\ { { \\mathrm { H } _ { 2 } + \\mathrm { O } _ { 2 } \\to 2 \\mathrm { O H } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "According to this mechanism，the obtained flame temperature was improved. Moreover, we have proposed and tested the following one-step generic chemical reaction including hydrogen peroxides $\\mathrm { ( H } _ { 2 } \\mathrm { O } _ { 2 } )$ and OH. This schema has also provided acceptable results with less computational cost: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n2 . 5 \\mathrm { H } _ { 2 } + 2 \\mathrm { O } _ { 2 }  \\mathrm { H } _ { 2 } \\mathrm { O } + \\mathrm { O H } + \\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 9illustrates the evolution of axial temperature. It can be observed that the obtained results using the ge neric reaction are better than those with the two stepreactions. Itis shown that the axial temperature evolution of the flame resulting from EDM model provides a maximum temperature at the axial position of ${ \\sim } 1 0 0 ~ \\mathrm { m m }$ from the injector and it can be recognized that this position indicating the flame tip is located at about the same axial location $( \\sim 1 0 0 \\ \\mathrm { m m } )$ according to the temperature measurements [51]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The experimental data [1] indicate that typical $\\mathrm { G H } _ { 2 } / \\mathrm { L O x }$ flames are directly attached at the tip of the LOx post in contrast to what is generally observed for hydrocarbon flames which are lifted-off and the general structure of the flame can be characterized as a thin sheath around the dense gaseous oxygen.This intensive reaction zone results from the absence of atomization for a supercritical fluid,which leads to the occurrence of only thin mixing layers between LOx and $\\mathrm { G H } _ { 2 }$ .Asa consequence,even for fully turbulent flow cases，the flame thickness not far from the orifice remains limited and its front is confined close to the LOx jet. The flames resulting from numerical simulations using the generic one-step chemical reaction and the two-step reaction model are shown in Figure 1O.Itis clear that the flame is stretched with the use of the (k-ε) realizable turbulence model. The flame obtained using the standard (k-ε) tur bulence model is better and with a realistic flame length. Figure 11 confronts the obtained OH species distribution with the experimental visualization. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/1f09d8c60732104f2c8ac5780073b24d1ea5ae67630d18ba30f0c02b0d10d8ff.jpg",
+        "img_caption": [
+            "Fig.9Axial temperature evolution "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a4216397c3e595d35b33e8ceb571dcf1525bd2fa27bfc017f848676676e58422.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Along the axial direction, the density and the dense core were differently reported in experimental investigations. Flow visualization indicates that at high pressure, the LOx jet is no more purely liquid,but becomes a supercritical fluid,even if it remains very cold and dense [56], but more accurate information about the axial density is still difficult to capture.Figure 12 depicts axial density as a function of temperature and Figure 13 displays the axial evolution of the mixture density both for cold and hot flow.The cold density profile shows a two-step density evolution, rapid and slow decrease, indicating the transition of oxygen from transcritical to supercritical regime close to the injector tip.The hot flow density shows a progressive decreasing curve,which could be explained by the presence of the flame sheath which prevents crossing oxygen gas or ligament. It can be observed that the hot flow density seems to be incorrect far from the injector which indicates the limit of the VWML approach. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Figure 14 shows a qualitative comparison of the radial density with available experimental investigations [51] using the light intensity transmitted by the flow at $x / D _ { L O x } { = } 0 . 2$ .The light intensity transmitted by the $\\mathrm { L O } _ { \\mathrm { X } }$ jet can exhibit density gradients.For dark location, the light absorption is strong and the intensity remains small indicating the presence of the dense core.For gaseous phase, intensity becomes higher for small densities. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/7feef1dcd0414dda591e8f21ff1ad589e75ab76a94c1448a77ffdf52650fea87.jpg",
+        "img_caption": [
+            "Fig.11 OH concentration. (a) Experimental visualization [37]. (b）Present simulation (generic one-step chemical reaction with standard (k-ε) model) "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/f6018a4a9819b888b1c0502a03f431e4a819ba919ff285a9bdcaef4894b4073b.jpg",
+        "img_caption": [
+            "Fig.10Contour of temperature ",
+            "Fig.12Mixture density confronted to pure hydrogen and oxygen density along the centerline "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0f4efc557ebabf038e972d23af5775d91418af5c6d84a255043e1e42572ecc0.jpg",
+        "img_caption": [
+            "Fig.13Mixture density comparison "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/b689dcff659f385ee5524050ec9913a3c770460a579f7cba309be862ec782fb4.jpg",
+        "img_caption": [
+            "Fig.14 Density at the position $x / D _ { L o x } = 0 . 2$ confronted to measured light intensity "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A 3D RANS study of $\\mathrm { L O } _ { 2 } / \\mathrm { G H } _ { 2 }$ supercritical combustion is performed using the one-phase multi-component approach on the Mascotte test-rig(VO3) case.Polynomial fitting of the pure components $\\mathrm { O } _ { 2 }$ and $\\mathrm { H } _ { 2 }$ properties has been accurately accomplished with the NIST library database,especially close to the critical temperature since propellant properties have an important influence on results. These polynomials are implemented in AnsysFluent software as a user defined function.The numerical study is carried out in two steps.Firstly, the cold flow simulation is realized to appreciate the quality of the turbulence model and to get best starting conditions for hot flow computations.The hot flow simulation is achieved using the EDM combustion model associated with two chemical reaction models.The first one is the two-step chemical reaction scheme already used by [35] in a 2D simulation and the second one proposed in this work is a generic one-step chemical reaction. Compared to the cubic equations of state, the obtained results indicate a better estimation of the mixture density close to the injection orifice when the volume-weighted mixing law is used. Results concerning centerline temperature are in good agreement with experimental data and the OH concentration has a good qualitative concordance with the ob served one.The radial evolution of the density at the nondimensional axial station $x / D _ { L o x } { = } 0 . 2$ where experimental data are available also seems to have an acceptable evo lution.However,much work needs to be carried out in order to better capture the hot mixture density in the whole combustion chamber by improving the mixture rule (VWML) and/or the cubic equation of state. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]J.Haidn,M.Habiballah,Research on high pressure cryogenic combustion,Aerospace Science and Technology,vol. 7, pp.473-491,2003.   \n[2]F.Troadec.Simulationnumériquedirected'un écoulement supercritique pour validation des approches RANS et LES.Doctorate thesis,Rouen University,2010.   \n[3]P.K. Tucker, S.Menon, C.L.Merkle,J.C.Oefelein, and V.Yang.An approach to improve credibility of CFD simulations for rocket injector design.43rd AIAA/ASEE Joint propulsion conference and exhibit, Cincinnati, OH, USA, pp. 1-23,2007.   \n[4]T. Schmitt, L.C. Selle, B. Cuenot,and T. Poinsot. Largeeddy simulation of transcritical flows. C.R. Mecanique, 337:528-538,2009.   \n[5]G. Lacaze and J.C. Oefelein.A non-premixed combustion model based on flame structure analysis at supercritical pressures. Combustion and Flame,159:2087- 2103,2012.   \n[6]J.Daou, P. Haldenwang, C. Nicoli,“Supercritical burning of liquid oxygen $( \\mathrm { L } _ { \\mathrm { O X } } )$ droplet with detailed chemistry”, Combust. Flame.Vol.101, pp.153-169,1995.   \n[7]J. P. Delplanque,W.Sirignano,“Numerical study of transient vaporization of an oxygen droplet at sub and supercritical Conditions\", Int. J.Heat Mass Transfer, vol. 36, no. 2, pp.303-314,1993.   \n[8]R.S.Miller, G. Harstad, J. Bellan,“Evaluation of Equilibrium and Non equilibrium evaporation models for many droplet gas-liquid flow simulations”,Int.J. Multiphase Flow. vol. 24, no.6, pp.1025-1055,1998.   \n[9]V. Yang,“Modeling of super critical vaporization, Mixing and combustion processes in liquid- fueled propulsion systems”，Proceedingsof the Combustion Institute, Pittsburgh, Penn, USA. pp.925-942,2000.   \n10]S. Candel, G. Herding, R. Snyder, P. Scouflaire, J.C. Rolon,L.Vingert,M.Habiballah,F.Grisch,M.Pealat,P. Bouchardy et al.“Experimental investigation of shear coaxial cryogenic jet flames”, J. Propul. Power, pp. 826- 834,1998.   \n11]A. Haberzettl, D. Gundel, K. Bahlmann,P. Vuillermoz, “European research and technology test bench P8 for high pressure liquid rocket propellants\".Paris, France,29 Nov- 01 Dec. 1999, $3 ^ { \\mathrm { r d } }$ European Conference on Space Transportation Systems.   \n[12]M. Habiballah, L. Vingert, JC. Traineau,P. Vuillermoz, “A MASCOTTE test bench for cryogenic combustion research”, In IAF, $4 7 ^ { \\mathrm { t h } }$ International Astronautical Congress,Beijing, China,1996.   \n[13]M. Habiballah, L. Vingert,V. Duthoit and P. Vuillermoz, “Research as a key in the design methodology of liquid propellant combustion devices\",J. Prop. Power, vol. 14, no.5, pp.782-788,1998.   \n[14]J.L.Thomas, S. Zurbach. Test case RCM3: Supercritical spray combustion at 6O bars at Mascotte; Proceedings, $2 ^ { \\mathrm { n d } }$ International Workshop on Rocket Combustion Modeling, Lampoldhausen, Germany, pp.13-23,2001.   \n[15]L.Vingert,M. Habiballah,P.Gicquel,E. Brisson， S. Candel, G. Herding,R. Snyder,P. Scouflaire, C. Rolon, D., Stepowskiet et al.,“Optical diagnostics for cryogenic liquid propellants combustion”, In AGARD conference proceedings,Advanced non-intrusive instrumentation for propulsion engines: Propulsion and energetics panel, Symposium $\\mathrm { \\bf n } ^ { \\circ } 9 0$ ,Brussels,Belgium, pp.44-1,1998.   \n[16]L.Vingert,M. Habiballah, J.C. Traineau,Mascote,“A research test facility for high pressure combustion of cryogenic propellants\". In AAAF/CEAS, European AerOspace Conference，Paris,France,Nov.29-Dec.1,1999, ONERA,TP, numéro 2000-15,2000.   \n[17]L. Vingert, M. Habiballah and P. Vuillermoz. Upgrading of the Mascotte cryogenic test bench to the LOX/ Methane combustion studies.In 4th International Conference on Launcher Technology“Space Launcher Liquid Propulsion”,Liege,Belgium, 2002.   \n[18]N. Zong,H. Meng,Shih-Yang Hsieh and V. Yang.“A numerical study of cryogenic fluid injection and mixing under supercritical conditions\".Physics of Fluids,16, 4248-4261,2004.   \n[19] N. Zong and V. Yang.“Cryogenic fluid jets and mixing layers in transcritical and supercritical environments\". Combust. Sci. Tech.,178, pp.193-227,2006.   \n[20]T. Schmitt,L. Selle,A. Ruiz and B. Cuenot.“Large-Eddy Simulation of Supercritical-Pressure Round Jets\".AIAA Journal, Vol. 48, $\\boldsymbol { \\mathrm { n } } ^ { \\circ } \\boldsymbol { 9 }$ ,pp.2133-2144,2010.   \n[21] J.C. Oefelein and V. Yang.“Modeling High-Pressure Mixing and Combustion Processes in Liquid Rocket Engines\". J.Prop.Power,14,5,1998.   \n[22]M. Juniper and S. Candel.“Edge difusion flame stabilization behind a step over a liquid reactant\". Journal of propulsion and power, vol.19, no.3, pp.332-341,2003.   \n[23]G. Singla, P. Scouflaire,JC.Rolon and S. Candel.“Flame stabilization in high pressure $\\mathrm { L O x } / \\mathrm { G H } 2$ and GCH4 combustion\". Proceedings of the Combustion Institute, Vol. 31, no. 2, pp.2215-2222,2007.   \n[24]M. Juniper, N.Darabiha and S.Candel.“The extinction limits of a hydrogen counterflow diffusion flame above liquid oxygen\". Combust. Flame,Vol．135，no.1-2, pp.87-96,2003.   \n[25]L. Pons, N. Darabiha and S. Candel.“Pressure effects on non premixed strained flames\". Combust. Flame, vol. 152, $ { \\mathrm { n } } ^ { \\circ } \\ 1 { - } 2$ pp.218-229,2008.   \n[26]G. Ribert, N. Zong, V. Yang,L. Pons,N. Darabiha and S. Candel.“Counterflow diffusion flames of general fluids: Oxygen/hydrogen mixtures”, Combustion and Flame, Vol. 154, ${ \\mathrm { ~ n } } ^ { \\circ } 3$ ,pp.319-330,2008.   \n[27]V. Giovangigli, L. Matuszewski and F. Dupoirieux.“Detailed modeling of planar transcritical H2-O2-N2 flames\". Combustion Theory and Modelling,vol. 15, ${ \\mathrm { \\ n } } ^ { \\circ } 2$ ，141- 182,2011.   \n[28]M. Poschner, M. Pfitzner,Real gas CFD simulation of supercritical H2-LOX combustion in the Mascotte Single-Injector Combustor using a commercial CFD code, （204号 $4 6 ^ { \\mathrm { t h } }$ AIAA Aerospace Sciences Meeting and Exhibit, Reno, NV, USA, paper 2008-952, 2008.   \n[29] A.Minotti, C.Bruno,“Comparison between real and ideal sub and supercritical combustion simulations of （204号 $\\mathrm { L o } _ { 2 } \\mathrm { - C h } _ { 4 }$ LRE Flames at $1 5 \\ \\mathrm { M P a } ^ { \\prime }$ ，， $4 6 ^ { \\mathrm { t h } }$ AIAA Aero space Science and Meeting,Reno, NV, USA, 2008.   \n[30]X. Petit, G Ribert, G. Lartigue,P. Domingo $\\because$ Large-eddy simulation of supercritical fluid injection. Journal of Supercritical Fluids.84: 61-73.2013.   \n[31]S.Matsuyama,J. Shinjo, Y. Mizobuchi and S. Ogawa.A Numerical Investigation on Shear Coaxial LOx/GH2 Jet Flame at Supercritical Pressure. In 44th AIAA Aerospace Sciences Meeeting and Exhibit, Reno,Nevada,761,2006   \n[32]S. Matsuyama,J. Shinjo,S. Ogawa and Y. Mizobuchi. Large Eddy Simulation of LOX/GH2 Shear-Coaxial Jet Flame at Supercritical Pressure.In 48th AIAA Aerospace Sciences Meeting Including the New Horizons Forum and Aerospace Exposition,Orlando,Florida,208,2010.   \n[33]J.C. Oefelein. Large Eddy Simulation of Complex Thermophysics in Advanced Propulsion and Power Systems. 8th US National Combustion Meeting Organized by the Western States Section of the Combustion Institute and hosted by the University of Utah May 19-22,2013. Sandia National Laboratories,Livermore,CA 94551- 0969.   \n[34] J.C. Oefelein, G Lacaze,R. Dahms,A. Ruiz, et al.,Effects of Real-Fluid Thermodynamics on High-Pressure Fuel Injection Processes. SAE Int. J. Engines 7(3): 1125- 1136,2014.   \n[35] A. Benarous,A. Liazid. $\\mathrm { H } _ { 2 } { \\cdot } \\mathrm { O } _ { 2 }$ Supercritical combustion modeling using a CFD code, Thermal Science C vol. 13, （204号 $\\mathrm { n } ^ { \\circ } 3$ ,pp.139-152,2009.DOI:10.2298/TSCI0903139B   \n[36]M. Masquelet, S. Menon, Y. Jin and R. Friedrich.Simulation of unsteady combustion in a LOX-GH2 fueled rocket engine. Aerospace Science and Technology, 2009.   \n[37]T. Schmitt, Y. Méry,M. Boileau and S.Candel. LargeEddy Simulation of oxygen/methane flames under transcricai conaiuons.Proceeaings oi tne Compuston institute,2010.   \n[38]J.Bellan.Supercritical (and subcritical) fluid behavior and modeling: drops, streams,shear and mixing layers, jets and sprays.Progress in energy and combustion science, 2000.   \n[39]J. Bellan. Theory, modeling and analysis of turbulent supercritical mixing. Combust. Sci. Tech，vol. 178,pp. 253-281,2006.   \n[40]J. Bellan,N. Okong'o,and K.G. Harstad.Direct numerical simulations of O2/H2 temporal mixing layers under supercritical condition. AIAA Journal, 40:914-926,2002.   \n[41]M.Pourouchottamane,V.Burnley，F.Dupoirieux,M. Habiballah,L.Vingert,“Numerical analysis of the 10 bar MASCOTTE flow field\",Heilbronn,Germany，26-27 March 2001. $2 ^ { \\mathrm { n d } }$ International Workshop on Rocket Combustion Modeling.   \n[42]M.Mayer, H. Tamura.Propellant injection in a liquid oxygen/gaseous hydrogen rocket engine; Journal of Propulsion and Power, vol.12 No.6, pp.1137-1147,1996.   \n[43]J.C.Oefelein. Mixing and Combustion of Cryogenic Oxygen-Hydrogen Shear Coaxial Jet Flames at Supercritical Pressure, Combustion Science and Technology, Vol.178,No.1-3, pp.229-252,2006.   \n[44]X.Petit, G. Ribert,P.Domingo.Framework for real-gas compressible reacting flows with tabulated thermochemistry.Journal of Supercritical Fluids.DOI:10.1016/j.supflu 2015.02.017   \n[45]R.N. Dahms,J.C.Oefelein. Theory and Analysis of Liquid-Oxygen--Hydrogen Interface Dynamics in Liquid Rockets at Supercritical Pressures. Sandia National Laboratories; Livermore CA 94551, USA.   \n[46]G. Soave,“Equilibrium constants from a modified Redlich-Kwong equation of state\". Chem. Eng. Sci. vol. 27, $\\mathrm { n } ^ { \\circ } 6$ ,pp.1197-1203,1972.   \n[47] D.Y. Peng,D.B. Robinson,“A new two-constant equation of state\".Ind.Eng. Chem.Fundam.vol.15,59-64, 1976.   \n[48]M. Benedict, G.B. Webb, L.C.Rubin,“An Empirical equation for thermodynamic properties of light hydrocarbons and their mixtures II. Mixtures of Methane, Ethane, Propane,and n-Butane\".J. Chem.Phys.10 747,1942.   \n[49]E.W.Lemmon,M.O.Mc Linden,D.G.Friend,“Thermophysical Properties of Fluid Systems\".NIST Chemistry WebBook,National Institute of Standards and Technology, (http://webbook.nist.gov).   \n[50]S.Candel, M. Juniper, G. Singla,P. Scouflaire,C.Rolon, “Structure and dynamics of cryogenic flames at supercritical pressure\". Combust. Sci. Technol. vol. 178, pp. 161-192,2006.   \n[51]M.Habiballah,M. Orain,F.Grisch,L.Vingert,P.Gicquel,“Experimental studies of high-pressure cryogenic flames on the Mascotte facility”,Combust. Sci.and Tech, vol. 178,pp.101-128,2006.   \n[52]S.Gordon,B.J.McBride,“Computer program for calculation of complex chemical equilibrium compositions and applications”，NASA Reference Publication $\\mathrm { N } ^ { \\circ } 1 3 1 1$ ， Lewis Research Center, Cleveland, Ohio.,USA,1994.   \n[53]N.Marinov, C.Westbrook,W.Pitz.Detailed and global chemical kinetics model for hydrogen. Transport Phenomena in Combustion,1,92,1996.   \n[54]C.R. Rogers,W. Chinitz. On the use of a global hydrogen-air combustion model in the calculation of turbulent reacting flows. $2 0 ^ { \\mathrm { t h } }$ Aerospace Sciences Meeting and Exhibit; AIAA 1982-0112, Orlando,FL, January 1982.   \n[55]R.J.Kee,F. M.Rupley,J.A.Miller. Chemkin-II:A FORTRAN Chemical Kinetics Package for the Analysis of Gas-Phase Chemical Kinetics, Sandia National Laboratories Report No. SAND 89-8009,1989.   \n[56]P. Gicquel, L. Vengert,Flow investigation of cryogenic spray in combustion at sub and supercritical condition, Illas-Europe,2000. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Appendix A ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Properties of pure hydrogen and oxygen presented atthe pressre of 60 bars.Figures A1 to A8 show density,specific heat,thermal conductivityand viscosity evolutions (NIST Chemistry WebBook).Figures A9 and A10 show the difusivity evolution [21]. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb4a3be2dcca75b15fe4666f724e0bb29f069f5297bed21428dd3eb0a3af621a.jpg",
+        "img_caption": [
+            "Fig.A1 Hydrogen density atconstant pressure [60 bars] "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f95f1a5aea5cda51ba7c66ece2627ff2c5a0edef6639df63452ab8ad633c812.jpg",
+        "img_caption": [
+            "Fig.A3 Hydrogen specific heat at constant pressure [60 bars] "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/cf5214958be6fde0504618883ff9f4eca8952a858e92d922ec78d11998f56410.jpg",
+        "img_caption": [
+            "Fig.A2 Oxygen density at constant pressure [60 bars] "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/97b78367cffbbf758673fe1dd4aa1b55b85c4c3fa1d3388794b87ba0b334d650.jpg",
+        "img_caption": [
+            "Fig.A5 Hydrogen thermal conductivity at constant pressure 60 bars] "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/d475bf0b511e1a87559ec55d0d0271c2f14dd7174db35d5e6ea7a23d9677c9d6.jpg",
+        "img_caption": [
+            "Fig.A4 Oxygen specific heat at constant pressure [60 bars] "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/ca9494f8b7934b596f289831a3e8274e035e26e254804f6b3a2f25e7b086c216.jpg",
+        "img_caption": [
+            "Fig.A6 Oxygen thermal conductivity at constant pressure [60 bars] "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/142eab4224b58d58c5ea22378a2b66db7f686148c92b6a4a7db5c2ebde028317.jpg",
+        "img_caption": [
+            "Fig.A7 Hydrogen viscosity at constant pressure [60 bars] "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/24f9869d6f5cfcd343a4bc4497e979edf805969f08c7748db3a050c09dc82c17.jpg",
+        "img_caption": [
+            "Fig.A8 Oxygen viscosity at constant pressure [6o bars] "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/a5e7c9d857d9e513e654715c15a8a77b0a25e70decf19af8249a96695a3e3582.jpg",
+        "img_caption": [
+            "Fig.A9 Hydrogen diffusivity at constant pressure [60 bars] "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/7fd6c45f76f42110f95ae346e73b16144722208b12fce9f94570219086388a0d.jpg",
+        "img_caption": [
+            "Fig.A10 Oxygen diffusivity at constant pressure [60 bars] "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    }
+]

@@ -1,0 +1,245 @@
+# 攻击动机对特质愤怒与反应性攻击关系的
+
+# 中介作用：一项纵向研究
+
+李芮 夏凌翔
+
+(西南大学心理学部，认知与人格教育部重点实验室，重庆400715)
+
+摘要 特质愤怒是影响反应性攻击的重要人格因素，反应性攻击的提出是基于攻击动机，但是特质愤怒影响反应性攻击的动机机制尚不清楚。本研究假设特质愤怒可以通过增强反应性攻击的特异性动机(即敌意性动机)以及反应性攻击与主动性攻击的共同性动机（即道德准许动机)来纵向预测反应性攻击。为了检验该假设，对五个省市共1007名大学生的特质愤怒、敌意归因偏向(代表敌意性动机)和道德推脱(代表道德准许动机)、反应性攻击与主动性攻击进行了3次追踪调查。结果显示：(1)在控制性别后，第一个时间点的特质愤怒可以通过第二个时间点的敌意归因偏向和道德推脱预测第三个时间点的反应性攻击； (2)敌意归因偏向只能纵向预测反应性攻击，而不能跨时间预测主动性攻击；(3)道德推脱可以纵向预测反应性攻击和主动性攻击。这一结果支持了特质愤怒影响反应性攻击的动机模型，发展了人格与攻击关系的理论与研究，对于揭示反应性攻击形成的动机机制具有积极作用。关键词特质愤怒，反应性攻击，动机，敌意归因偏向，道德推脱
+
+# 1问题提出
+
+攻击指存在伤人意图的伤害行为反应或倾向(Anderson& Bushman,2002; Buss& Perry,1992)。根据动机的不同，可以将攻击划分为反应性攻击和主动性攻击(Dodge&Coie,1987;Wang et al.,2020)。反应性攻击又被称为敌意性攻击，是个体用带有敌意与愤怒情绪的伤害行为来对感知到的激惹或威胁进行反应的行为或倾向(Dodge&Coie,1987; Smeijers et al,2018)。路怒、激情杀人和自卫反击等是其典型表现。反应性攻击给受害者(Hammock et al.,2015;Martinelli et al.,2018)和攻击者(Babcock et al.,2014; Crick & Nelson,2002)都会带来损害，而且反应性攻击与主动性攻击的危害、影响因素和形成机制都有明显差异(Dambacheret al.,2015;Hubbard et al.,2010)，因此很有必要专门探索其影响因素及作用机制，以便全面、深入地了解攻击产生的机制，发展攻击理论，并做针对性的预防和干预。
+
+人格是公认的影响攻击的重要因素(Ferguson&Dyck,2012; Tackett et al.,2014)。其中,特质愤怒是一种受到广泛认可的反应性攻击的易感性人格因素，有学者还专门提出了特质愤怒与反应性攻击的综合认知模型(Integrative Cognitive Model,ICM; Wilkowski & Robinson,2010)。但是到目前为止，特质愤怒对反应性攻击的纵向预测作用及其背后的心理机制仍不是很清楚。因此，本研究尝试在已有理论和研究的基础上进一步探索特质愤怒与反应性攻击的纵向关系及其背后的中介机制。
+
+# 1.1特质愤怒和反应性攻击
+
+特质愤怒指在日常生活中容易感到愤怒的倾向，是一种相对稳定的人格特质(Spielberger et al.,1999)。横断面调查显示，特质愤怒与反应性攻击的相关显著(Bondu &Richter,2016)；实验研究也发现，在低激惹且饮酒的条件下，特质愤怒可以显著预测个体在泰勒攻击范式中的反应性攻击行为(Giancola,2002)。在总结以往研究和理论的基础上，特质愤怒和反应性攻击的综合认知模型(Wilkowski&Robinson,2010)提出，敌意解释、反思注意和努力控制是特质愤怒影响反应性攻击的中介变量。
+
+虽然已有研究在特质愤怒和反应性攻击的关系方面做出了不少有价值的工作，但仍有以下几个方面值得发展。第一，在研究方法方面，之前的研究多采用横断面调查法和实验法，还缺乏对特质愤怒与反应性攻击关系的纵向研究。第二，在中介机制方面，虽然综合认知模型指出了特质愤怒引发反应性攻击的认知路径，但是目前尚未见到揭示特质愤怒引发反应性攻击的动机路径的理论和研究。如上所述，反应性攻击与主动性攻击的区别在于动机的不同，因此，从动机角度才能更好地揭示特质愤怒引发反应性攻击的心理机制，并与人格影响攻击的一般中介机制区分开。这对于揭示反应性攻击产生与形成的基本心理机制具有重要的理论价值，并对指导反应性攻击的预防和干预具有实践意义。因此，本研究旨在探索特质愤怒预测反应性攻击的动机路径。
+
+# 1.2反应性攻击的动机
+
+反应性攻击的动机主要有两种。一种是敌意性动机，
+
+个体在敌意、愤怒或恐惧等情绪的驱动下，想要通过伤害行为来消除激惹或威胁刺激以保护自己的需要或倾向。其是由威胁或激惹刺激引发的报复与防御性动机(Anderson&Bushman,2002;Smeijers etal.,2018)，包括认知和情绪两个基本成分。敌意性动机是反应性攻击区别于主动性攻击的特有动机(Crick&Dodge,1994,1996;Dodge& Coie,1987)。
+
+敌意归因偏向是敌意性动机的主要认知成分(Crick&Dodge,1994,1996;Dodge＆Coie,1987),
+
+在模糊情境中将他人的行为意图解释为有意伤害自己的认知反应或倾向(Crick&Dodge,1994)。社会信息加工模型(Social Information Processing model, SIP; Crick & Dodge,1994,1996)提出，敌意归因偏向是引发反应性攻击的主要认知因素，且与主动性攻击的关系不大，是反应性攻击的特有动机。这一观点已经获得了大量研究的支持(e.g.,Babcock etal.,2014;Wilkowski&Robinson,2010)。据此可以认为，敌意性动机这种反应性攻击的独特性动机通常是个体在对他人的激惹意图做敌意归因的过程中形成和发展起来的。因此，敌意归因偏向可以作为敌意性动机的代表性因素。
+
+反应性攻击的另一种动机是道德准许动机(Lagerspetz etal.,1988;Lagerspetz&Westman,
+
+1980)，指想要避免、减少或消除道德对攻击等不道德行为潜在的或现实的抑制作用的需要或倾向。其通常是个体想要或正在从事伤害他人等不道德行为时，为了减少道德压力和内部冲突而产生的一种道德性动机(Bandura,1999)。道德准许动机是反应性攻击与主动性攻击的共同性动机，因为反应性与主动性攻击都会涉及伤人意图及行为(Anderson＆Bushman,2002;Wang etal.,2020)，这通常与个体或社会的道德准则矛盾，就会引发心理冲突，为了恢复心理平衡，解除道德抑制，进一步驱动攻击行为，个体就会产生道德准许动机。换句话说，道德准许动机就是一种想要避免、减少或消除攻击行为带给自己的道德压力(如，因攻击行为而受到良心或社会的谴责)，想为自己的攻击行为提供道德上的合理性的需要或倾向。
+
+道德推脱是道德准许动机的主要认知成分，指将伤害行为认知重构为良好的或应当的，以帮助个体摆脱道德上的自我惩罚或控制(Bandura,1999,2002)。其既是一种道德认知，也是一种道德动机，个体通常都会通过道德推脱来获得道德准许(Bandura et al.,2001; Capraraet al.,2014;Pormari&Wood,2010)。根据认知失调理论(Festinger,1957)和道德推脱理论(Bandura,1999,2002)的观点，当个体因受到激惹而产生攻击意图时，就会出现诸如“伤害行为有必要”与“伤害行为不道德”的认知冲突，为了恢复认知平衡，帮助个体顺利实施攻击行为，人们就会出现道德准许的需要，并以道德推脱的方式表现出来。因此，道德推脱可以作为道德准许动机的代表性变量。
+
+综上所述，反应性攻击产生的动机包括敌意性动机和道德准许动机两种，两者共同推动了反应性攻击的产生和发展。敌意性动机和道德准许动机可能在一定程度上互相影响。因为敌意性动机促使个体通过伤害行为来进行报复或防御，伤害行为通常都存在道德风险这就可能会引发个体的道德准许动机，以减少道德压力和内部冲突。与此同时，道德准许动机可能会帮助个体将自己的伤人意图合理化，这可能就会增强个体的敌意性动机。
+
+# 1.3特质愤怒影响反应性攻击的动机路径假设
+
+基于以上分析，首先，我们假设特质愤怒可以通过以敌意归因偏向为代表的敌意性动机来推动反应性攻击的形成与发展。这一假设涉及到了特质愤怒与敌意归因偏向以及敌意归因偏向与反应性攻击的关系。
+
+特质愤怒能够促进敌意归因偏向的观点已经获得了以往研究的支持(e.g.,Gagnon et al.,2016;Veenstra etal.,2017)。特质愤怒会影响敌意归因偏向的原因可能有两个。第一，特质愤怒会促使个体对环境和他人进行负性评价(Hazebroek et al.,2001)，而对模糊的激惹情境中他人行为和意图的敌意性解释就属于一种负性评价。第二，特质愤怒的个体在面对威胁相关的信息时会有感知偏见(Smith&Waterman,2003)，特质愤怒也被发现与敌意性社会线索的选择性注意有关(Wenzel& Lystad,2005;Wilkowski et al.,2007)。据此可以推测，特质愤怒会促使个体在模糊情境中更多注意到敌意性线索，并对他人做负性评价，因而也就更容易将他人的行为意图解释为敌意的。敌意归因偏向会导致反应性攻击是社会信息加工模型的一个基本观点(即当个体认为别人对自己有敌意时，其就会试图采用攻击来报复他人)，并获得了不少研究的支持(e.g.,AlMoghrabi etal,2018; Thomas & Weston,2019;Wilkowski etal,2015)。例如，经过敌意归因偏向训练的被试在实验任务中的反应性攻击水平显著提高(AIMoghrabi etal,2018;Wilkowski etal,2015)。可见，特质愤怒会增加个体对他人的行为或意图进行敌意性解释的可能性，敌意归因偏向则会进而增加个体在遭遇激惹或威胁后进行反应性攻击的频率或可能性。
+
+其次，我们认为特质愤怒可以通过增强以道德推脱为代表的道德准许动机来推动反应性攻击的形成与发展。这个观点包括了特质愤怒可以增加道德推脱和道德推脱可以促进反应性攻击两个推论。
+
+一般攻击模型(Anderson&Bushman,2002)指出，攻击相关的人格因素如特质愤怒会影响个体的道德辩护和非人性化等心理活动。道德辩护和非人性化是道德推脱的两种机制。这可能就是特质愤怒可以促进道德推脱的原因。我们认为道德推脱可以影响反应性攻击是因为：第一，已有大量研究显示，道德推脱会增加身体攻击、言语攻击和社会攻击等多种形式的攻击（Anderson& Bushman,2002;Wang etal.,2017)，这些攻击形式大多都涉及到反应性攻击；第二，如前所述，道德推脱会减少道德系统对攻击行为的抑制作用，因此也可以减轻个体在进行反应性攻击时的道德压力，从而利于个体做出反应性攻击行为。可见，特质愤怒会促进个体进行认知重构，将自己的反应性攻击合理化，以减少道德压力和心理冲突，增强的道德推脱又推动了反应性攻击的形成与发展。
+
+综上所述，特质愤怒可能会通过增强反应性攻击动机(即敌意性动机和道德准许动机)来提高个体在日常生活中做出反应性攻击的可能性或频率。敌意归因偏向和道德推脱则是这两种动机的代表性变量。
+
+# 1.4本研究
+
+本研究拟通过对来自五个省市的大学生的三次时间间隔为6个月的纵向调查来考察特质愤怒对反应性攻击的纵向预测作用，以及敌意性动机(以敌意归因偏向为代表)和道德准许动机(以道德推脱为代表)在其中的中介作用。此外，根据上述的敌意性动机与道德准许动机可以相互影响的观点，我们假设敌意归因偏向和道德推脱是相互预测的，是特质愤怒预测反应性攻击的两种平行中介因素。
+
+# 2研究方法
+
+# 2.1被试
+
+本研究的数据来自一项大型的联合追踪调查。本研究变量的调查是基于反应性攻击的动机模型。
+
+该调查使用整群抽样法，施测对象为来自北京、重庆、贵州、广西和四川五个省市共5所高校的本科生。初次施测共获得被试1100名，平均年龄为 $1 9 . 0 0 { \scriptstyle \pm 0 . 9 9 }$ 岁，年龄在16.67${ \sim } 2 5 . 1 7 \$ 岁之间，每隔6个月进行下一次施测，总共收集了三次数据。最终获得在本研究关注的变量上有效的被试1007人 $( 7 1 . 1 \%$ 为女性， $2 8 . 9 \%$ 为男性)，保留率为 $91 . 5 5 \%$ 。对流失与保留的被试在特质愤怒、敌意归因偏向、道德推脱、反应性攻击和主动性攻击上的得分差异进行检验的结果表明，流失与保留被试在时间点1的特质愤怒 $( t ( 1 0 9 8 ) = - 0 . 5 5$ ， $p =$ 0.583)、敌意归因偏向 $( t ( 1 0 9 7 ) = 1 . 1 6$ ， $p = 0 . 2 4 6 )$ 、道德推脱 $( t ( 1 0 9 8 ) = 0 . 6 6$ ， $p = 0 . 5 1 0 \}$ 、反应性攻击 $( t ( 1 0 9 8 ) = - 0 . 6 3$ ， $p = 0 . 5 3 2 )$ 和主动性攻击 $( t ( 1 0 9 8 ) = 1 . 1 1$ ， $p = 0 . 2 6 6 )$ 上的差异均不显著，说明被试不存在系统性流失问题。该研究通过了西南大学心理学部伦理委员会的审核。
+
+# 2.2研究工具
+
+# 2.2.1特质愤怒
+
+采用 Spielberger等(1999)编制的状态-特质愤怒量表(State-Trait Anger ExpressionInventory，STAXI-2)中的特质愤怒分量表测量特质愤怒。该问卷共10 个题目，如“我脾气暴躁”。问卷采用李克特4点计分，被试需根据自己的真实想法，选择“1(几乎从不)"至“4(几乎总是)”。计算项目均分，分数越高代表特质愤怒水平越高。在国内研究中，该量表被证实具有良好的信效度(侯璐璐等，2017)。验证性因素分析显示，该量表的单因素结构对本研究数据的拟合良好： $\chi ^ { 2 } = 3 . 3 5 4 \sim 6 . 9 9 4 , d f = 2 , \chi ^ { 2 } / d f = 1 . 6 7 7 \sim 3 . 4 9 7$ ,RMSEA( $90 \%$ $\mathrm { C I } ) = 0 . 0 2 6 { \sim } 0 . 0 5 0$ (0.000, 0.092), $\mathrm { C F I } = 0 . 9 9 5 \sim 0 . 9 9 5$ 。， $\mathrm { T L I } = 0 . 9 8 6 { \sim } 0 . 9 9 6$ ， SRMR $= 0 . 0 0 8 \sim$ 0.012。在本研究中，该量表在三个时间点的Cronbach's $\mathfrak { a }$ 系数分别是0.78、0.82、0.83。
+
+# 2.2.2敌意归因偏向
+
+采用Dillon 等(2015)编制的字词句子联想范式敌意量表(The Word Sentence AssociationParadigm-Hostility Scale，WSAP-Hostility)的敌意归因偏向分量表测量敌意归因偏向。该分量表共有16个题目，如“有人在你的面前摔门侮辱的”，要求被试判断每一个句子和后面出现的词语的相关程度。量表为李克特6点计分，1代表“完全不相关”，6代表“非常相关”。计算项目均分，分数越高代表越倾向于进行敌意归因。该量表已经被证实具有良好的信效度(权方英，夏凌翔，2019)。验证性因素分析显示，该量表的单因素模型对数据的拟合良好： $\chi ^ { 2 } = 7 . 9 9 6 \substack { \longleftarrow 9 . 3 7 0 , d f = 2 , \chi ^ { 2 } / d f = 3 . 9 9 8 \sim 4 . 6 8 5 }$ ,RMSEA $( 9 0 \% \mathrm { C I } ) = 0 . 0 5 5 \sim 0 . 0 6 1$ (0.019,0.102), $\mathrm { C F I } = 0 . 9 9 5 \sim 0 . 9 9 6 , \mathrm { T L I } = 0 . 9 8 5 \sim 0 . 9 8 9$ ,SRMR=0.008～0.011。在本研究中，该量表在三个时间点的Cronbach's $\mathfrak { a }$ 系数均为0.87、0.89、0.92。
+
+# 2.2.3道德推脱
+
+采用Caprara等(2009)编制的公民道德推脱问卷(CivicMoralDisengagementQuestionnaire，CMD)测量道德推脱。该问卷共有32个题目，如“用强硬措施让那些讨厌的人安静下来是合情合理的”，要求被试根据实际情况进行选择。量表为李克特5点评分，1代表“完全不同意”，5代表“完全同意”。计算项目均分，分数越高代表道德推脱的水平越高。该问卷被证实具有良好的信效度(方杰，王兴超，2020)。验证性因素分析显示，该量表的单因素结构对数据的拟合良好： $\chi ^ { 2 } { = 6 . 4 5 8 \sim 7 . 9 3 5 , d f { = 2 } }$ ， $\chi ^ { 2 } / d f = 3 . 2 2 9 \sim 3 . 9 6 8$ RMSEA $( 9 0 \% \ \mathrm { C I } ) = 0 . 0 4 7 \sim 0 . 0 5 4$ (0.009, 0.096), $\mathrm { C F I } = 0 . 9 9 7 \sim 0 . 9 9 8$ ， $\mathrm { T L I } = 0 . 9 9 2 \sim 0 . 9 9 4$ $\mathrm { S R M R } = 0 . 0 0 6 \sim 0 . 0 0 8$ 。在本研究中，该问卷在三个时间点的Cronbach's $\mathfrak { a }$ 系数分别为0.92、0.91、0.93。
+
+# 2.2.4反应性攻击与主动性攻击
+
+采用Raine 等(2006)编制的反应性-主动性攻击问卷(Reactive-Proactive AggressionQuestionnaire)来测量反应性攻击和主动性攻击。该量表共有 23个题目，其中11个题目用于测量反应性攻击(如“因为正当防卫而还手打人”)，12个题目测量主动性攻击(如“为了显得很酷而打群架”)，要求被试根据实际情况进行选择。调查采用了李克特6点评分，1代表“完全不符合”，6代表“完全符合”。计算项目均分，分数越高代表反应性攻击水平越强。在国内研究中，该量表被证实具有良好的信效度(权方英，夏凌翔，2019)。验证性因素分析显示，该量表的二因素模型对数据的拟合良好： $\chi ^ { 2 } = 3 . 2 3 5 \sim 7 . 1 1 7 , d f = 2 , \chi ^ { 2 } / d f =$ $1 . 6 1 8 \sim 3 . 5 5 9$ ，RMSEA $( 9 0 \% \ \mathrm { C I } ) = 0 . 0 2 5 \sim 0 . 0 5 1$ (0.000, 0.097), $\mathrm { C F I } = 0 . 9 9 7 \sim 0 . 9 9 9$ ，TLI $\mathbf { \Sigma } = \mathbf { \Sigma }$ $0 . 9 9 2 { \sim } 0 . 9 9 8 , \mathrm { S R M R } = 0 . 0 0 4 { \sim } 0 . 0 1 0$ 。在本研究中，该反应性攻击分量表在三个时间点的Cronbach's $\mathfrak { a }$ 系数分别为0.84、0.87、0.87；主动性攻击分量表在三个时间点的Cronbach's $\mathfrak { a }$ 系数分别为0.90、0.95、0.95。
+
+# 2.3研究程序
+
+本研究实验主试为经过培训的研究助理，在获得了被试的知情同意后，以班级为单位进行施测，被试被要求完成包括上述4个问卷在内的一系列问卷，之后填写人口统计学变量。回答完全部问卷后由主试当场收回，被试获得一定金额的报酬。相邻两次施测的时间间隔为6个月，一共收集了3次数据。
+
+# 2.4数据处理与分析
+
+研究采用 SPSS 20.0 和Mplus 7.0 对数据进行分析。未能参加全部的三次调查，承认未认真作答以及规律作答的被试数据被删除。首先，使用 SPSS 20.0进行描述统计、相关分析以及共同方法偏差检验。使用Mplus 7.0进行验证性因素分析和结构方程模型分析。为了简化模型和提高模型拟合度，对题项进行项目打包处理，所有变量均使用随机打包法。使用全息极大似然估计(Full Information Maximum Likelihood)对非正态数据和缺失值进行处理。采用抽取5000 次的偏差校正的Bootstrap 方法检验潜变量模型的中介效应。
+
+# 3结果
+
+# 3.1共同方法偏差检验
+
+因为本研究的数据均为大学生的自我报告，因此采用Harman单因素检验法进行共同方法偏差检验。结果显示，在三次测量中，第一因子的解释率分别为$1 9 . 0 1 \%$ 、 $2 1 . 0 6 \%$ 、 $23 . 2 6 \%$ ，均小于 $40 \%$ 的临界值，因此本研究的数据不存在严重的共同方
+
+法偏差问题。
+
+# 3.2描述统计和相关分析
+
+本研究涉及变量的平均数、标准差和皮尔逊相关结果如表1所示。三个时间点的特质愤怒、敌意归因偏向、道德推脱、反应性攻击和主动性攻击两两之间均存在显著正相关。
+
+表1特质愤怒、敌意归因偏向、道德推脱、反应性攻击、主动性攻击的平均数、标准差及相关  
+
+<html><body><table><tr><td>变量</td><td>SD</td><td>1</td><td>2</td><td>3 4</td><td></td><td>5</td><td>6</td><td>7</td><td></td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td></tr><tr><td>1.T1特质愤怒</td><td>0.40</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2.T2特质愤怒</td><td>0.42</td><td>0.64**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3.T3特质愤怒</td><td>0.42</td><td>0.53**</td><td>0.62**</td><td>0.2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.T1敌意归因偏向</td><td>0.81</td><td>0.29**</td><td>0.18**</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.T2敌意归因偏向</td><td>0.81</td><td>0.27**</td><td>0.33**</td><td>0.2 8</td><td>0.55**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6.T3 敌意归因偏向</td><td>0.87</td><td>0.26**</td><td>0.28**</td><td>0. 2</td><td>0.53**</td><td>0.63**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7.T1道德推脱</td><td>0.48</td><td>0.32**</td><td>0.23**</td><td>0.2 3</td><td>0.27**</td><td>0.28**</td><td>0.24**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>8.T2道德推脱</td><td>0.47</td><td>0.26**</td><td>0.33**</td><td>0.2 5</td><td>0.21**</td><td>0.36**</td><td>0.29**</td><td>0.49**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>9.T3道德推脱</td><td>0.50</td><td>0.25**</td><td>0.24**</td><td>0.2 8</td><td>0.20**</td><td>0.30**</td><td>0.33**</td><td>0.52**</td><td>0.58**</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>10.T1反应性攻击</td><td>0.89</td><td>0.58**</td><td>0.42**</td><td>0.3</td><td>0.32**</td><td>0.27**</td><td>0.28**</td><td>0.41**</td><td>0.25**</td><td>0.27**</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>11.T2反应性攻击</td><td>0.89</td><td>0.47**</td><td>0.57**</td><td>45*</td><td>0.24**</td><td>0.40**</td><td>0.36**</td><td>0.35**</td><td>0.43**</td><td>0.32**</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>12.T3反应性攻击</td><td>0.88</td><td>0.35**</td><td>0.42**</td><td>4*</td><td>0.24**</td><td>0.34**</td><td>0.45**</td><td>0.35**</td><td>0.37**</td><td>0.45**</td><td>0.5 1**</td><td>0.62**</td><td></td><td></td><td></td></tr><tr><td>13.T1主动性攻击</td><td>0.52</td><td>0.39**</td><td>0.28**</td><td>0.2 9</td><td>0.21**</td><td>0.15**</td><td>0.15**</td><td>0.54**</td><td>0.32**</td><td>0.39**</td><td>0.4 0**</td><td>0.28**</td><td>0.27**</td><td></td><td></td></tr><tr><td>14.T2主动性攻击</td><td>0.63</td><td>0.25**</td><td>0.47**</td><td>0.2 4</td><td>0.16**</td><td>0.25**</td><td>0.17**</td><td>0.33**</td><td></td><td></td><td>0.1</td><td></td><td>0.25**</td><td>0.46**</td><td></td></tr><tr><td>15.T3 主动性攻击</td><td></td><td></td><td>0.27**</td><td>0.3 2</td><td>0.14**</td><td>0.14**</td><td>0.22**</td><td>0.32**</td><td>0.62**</td><td>0.34**</td><td>7** 0.1</td><td>0.47**</td><td>0.48**</td><td>0.42**</td><td>0.44**</td></tr></table></body></html>
+
+注：T1、T2和 T3为三次测量时间， $^ { * * } p < 0 . 0 1$ 。
+
+# 3.3交叉滞后模型分析
+
+首先，我们构建了包含三个时间点的特质愤怒、敌意归因偏向、道德推脱和反应性攻击的交叉滞后模型。在逐步删除不显著的路径之后，最终获得的交叉滞后模型可以拟合数据： $\chi ^ { 2 } = 3 6 5 2 . 6 3 4$ ， $\mathrm { d } f = 1 0 9 1$ ， $\chi ^ { 2 } / \mathrm { d } f = 3 . 3 4 8$ ,RMSEA $( 9 0 \% \mathrm { C I } ) = 0 . 0 4 8$ (0.047, 0.050), $\mathrm { C F I } =$ 0.916, $\operatorname { T L I } = 0 . 9 0 9$ ， $\mathrm { S R M R } = 0 . 0 5 6$ 。图1的结果显示，在控制了性别后，特质愤怒(T1)可以预测敌意归因偏向(T2) $( \beta = 0 . 1 0 , p = 0 . 0 0 3 )$ 和道德推脱(T2) $( \beta = 0 . 1 2 , p < 0 . 0 0 1 )$ ，敌意归因偏向(T2) $( \beta = 0 . 1 1 , p = 0 . 0 0 1 )$ 和道德推脱(T2) $( \beta = 0 . 0 9 , p = 0 . 0 0 7 )$ 可以预测反应性攻击(T3)，道德推脱(T1)可以预测敌意归因偏向(T2) $( \beta = 0 . 1 0 , p = 0 . 0 0 1 )$ ，敌意归因偏向(T2)可以预测道德推脱(T3) $\beta = 0 . 0 9$ $p = 0 . 0 0 5 \$ )。Bootstrap 分析的结果显示，敌意归因偏向(T2)( $( { \mathrm { a b } } =$ 0.01, $p = 0 . 0 2 6$ ， $9 5 \% \mathrm { C I } = 0 . 0 0 1 \substack { - 0 . 0 2 0 }$ )和道德推脱(T2) $( \mathbf { a b } = 0 . 0 1$ $p = 0 . 0 3 3$ ， $9 5 \% C I = 0 . 0 0 1 \cdot$ 0.021)在特质愤怒(T1)对反应性攻击(T3)的预测中的间接效应显著。
+
+![](images/0b4076cba695055629fd7659e9ce44a60f3983230502608dfd038e1f372b7eaf.jpg)  
+图1特质愤怒、敌意归因偏向、道德推脱和反应性攻击的交叉滞后模型注：仅呈现显著的标准化路径系数； $^ { * } p < 0 . 0 5$ ， $^ { * * } p < 0 . 0 1$ ，\*\* $^ { * } p < 0 . 0 0 1$
+
+其次，我们将模型中的反应性攻击替换为主动性攻击后再次进行了交叉滞后分析，结果显示，特质愤怒、敌意归因偏向和道德推脱纵向预测主动性攻击的路径均不显著。
+
+最后，我们对道德推脱和主动性攻击进行了3个时间点的交叉滞后分析，结果显示，道德推脱(T1)可以显著预测主动性攻击(T2)： $\beta = 0 . 0 7 6$ $p = 0 . 0 2 2$ 。
+
+# 4讨论
+
+本研究的结果显示，在控制性别后，特质愤怒(T1)可以间接预测12个月后的反应性攻击，这一结果与以往的横断面研究(Bondu& Richer,2016;Wang et al.,2017)与实验研究(Parrott& Zeichner,2002;Wilkowski et al.,2007)获得的结果相符。不过，据我们所知，目前还没有关于两者纵向关系的研究。因此，本研究为特质愤怒和反应性攻击的关系补充了来自纵向研究的证据。此外，我们还发现，道德推脱可以在一定程度上纵向预测主动性攻击但特质愤怒和敌意归因偏向则不能纵向预测主动性攻击，这为相关变量的关系提供了新的证据。
+
+# 4.1敌意归因偏向的中介作用
+
+图1结果显示，特质愤怒可以预测6个月后的敌意归因偏向，这一结果与以往实验研究发现的特质愤怒能够预测敌意归因偏向的结果相符(Gagnon et al.,2016;Hazebroek et al.,2001;Wilkowski& Robinson,2007)，并支持了一般攻击模型(Anderson& Bushman,2002)的基本观点，即人格特质可以作为个体输入变量影响攻击相关的认知。据我们所知，未有研究揭示特质愤怒与敌意归因偏向的纵向关系，因此本研究为该领域提供了新的证据。特质愤怒能够预测敌意归因偏向可能主要是因为特质愤怒会促使个体对事件进行敌意性的认知加工(Veenstra et al.,2018)，因此，在模糊的情境中，特质愤怒可能会使个体从消极角度对感知到的激惹和挑衅进行解释，将他人的行为或意图解释为敌意性的。
+
+本研究的结果显示，敌意归因偏向能够跨时间预测反应性攻击，但不能纵向预测主动性攻击。这一结果与之前的研究一致(Gagnon&Rochat,2017; Martinelli et al.,2018)。例如,敌意归因偏向可以预测一年后的包括反应性攻击在内的长期性的攻击行为(Dodge et al,2015)。敌意归因偏向能够预测反应性攻击可能主要是因为个体在感知到外界的敌意时，就会试图采取攻击来对感知到的激惹(如他人所致的伤害、威胁和挫折等)进行防御、报复或者反抗(Gagnon et al., 2016)。
+
+本研究的结果还显示，敌意归因偏向(T2)在特质愤怒(T1)对反应性攻击(T3)的预测中起到中介作用。这一结果支持了我们的假设，同时也符合一般攻击模型(Anderson&Bushman,2002)和特质愤怒与反应性攻击的综合认知模型(Wilkowski&Robinson,2010)的基本观点。这提示，特质愤怒会增加个体在模糊情境中对他人行为意图进行敌意归因的频率或可能性并进而导致个体在面对日常生活中的激惹或威胁情境时更频繁或更倾向于做出反应性攻击。
+
+# 4.2道德推脱的中介作用
+
+图1的交叉滞后模型分析的结果显示，特质愤怒可以纵向预测道德推脱。这可能是因为特质愤怒会影响个体对不道德行为相关信息的认知加工，即促使个体改变道德标准，将不符合道德标准的不道德行为解释为合理或道德的。这一结果支持了我们的研究假设，发展了特质愤怒功能的研究，提示特质愤怒除了会影响情绪相关的心理因素还会影响个体的道德心理。
+
+图1显示，道德推脱可以预测6个月后的反应性攻击。此外，道德推脱与主动性攻击的交叉滞后分析显示，第一次测量的道德推脱可以预测第二次测量的主动性攻击。虽然已有一些研究探索了道德推脱与攻击的关系(e.g.,Hymel et al.,2005; Perren& Gutzwiller-Helfenfinger,2012;Wachs,2012)，但是据我们所知，仅有一项横断面研究直接探索了道德推脱与反应性攻击的关系(张栋玲，王美芳，2013)。目前还没有研究探索过二者间的纵向关系。本研究的结果支持并发展了已有研究。道德推脱可以纵向预测反应性与主动性攻击可能是因为它可以帮助个体缓解攻击意图或行为带来的道德压力，降低道德系统对攻击行为的抑制作用，帮助或促进个体实施反应性与主动性攻击行为。
+
+图1显示，道德推脱(T2)可以中介特质愤怒(T1)对反应性攻击(T3)的预测。这支持了我们的研究假设，并提示特质愤怒会促使个体对攻击行为进行认知重构，将伤害等不道德行为感知为合适的或合理的，从而避免自责、内疚和舆论谴责等道德惩罚，被特质愤怒增强的道德推脱则会进而增加个体以攻击来对激惹进行反应的行为频率或倾向。
+
+# 4.3敌意归因偏向与道德推脱的预测关系
+
+图1的交叉滞后模型分析的结果表明，道德推脱(T1)能够显著预测敌意归因偏向(T2)，敌意归因偏向(T2)能够显著预测道德推脱(T3)。这些结果在一定程度上支持了敌意归因偏向和道德推脱之间存在相互预测关系的假设。敌意归因偏向与道德推脱之间存在相互预测关系可能是因为：第一，道德推脱使得伤害意图合理化，这可能会增强和巩固个体的伤害/攻击图式，并进而促进敌意归因偏向的产生和发展。第二，对他人行为意图的敌意解释可以为个体的道德推脱提供依据和理由，使个体更容易将不道德的伤害行为重新解释为合理的或不违反道德的，这些都会增强个体道德推脱的水平。此外，敌意归因偏向也可以促进伤害/攻击图式的发展和强化，并同时促进道德推脱的增加。据此可以进一步推测，敌意性动机和道德准许动机会在一定程度上相互预测。
+
+# 4.4特质愤怒纵向预测反应性攻击的动机路径分析
+
+综上所述，特质愤怒可以通过增强个体的敌意性动机和道德准许动机来增加个体反应性攻击的行为频率或倾向。其中，敌意性动机是反应性攻击的独特性动机，而道德准许动机则是反应性和主动性攻击的共同性动机。本研究以敌意归因偏向和道德推脱作为这两种动机的代表性变量来考察该观点。研究结果在一定程度上支持了我们的假设，并提示敌意性动机和道德准许动机是特质愤怒预测反应性攻击的两条平行中介路径。
+
+除了通过增强敌意归因偏向这种敌意性动机的认知成分来增强敌意性动机外，特质愤怒很可能还可以直接增强敌意性动机相关的情绪体验。敌意性的认知与情绪这两个敌意性动机的基本成分则会使个体在日常生活中更多采用攻击来应对激惹。因此，特质愤怒会通过增强个体的敌意性动机来增加其在日常生活中做出反应性攻击的频率或可能性。特质愤怒是否会直接通过愤怒、怨恨等敌意性动机的情绪因素来预测或影响反应性攻击则需要进一步的研究来检验。
+
+除了增强道德推脱外，特质愤怒对道德准许动机的促进作用可能还会表现在促进道德基础与标准切换、增强道德清洗等，以减弱或消除个体的攻击意图或行为带来的道德冲突和失调。增强的道德准许动机则会使个体在遭遇激惹时更容易做出反应性攻击。至于特质愤怒还可以通过哪些道德准许动机的因素来预测反应性攻击则需要进一步的研究来探究。
+
+# 4.5研究意义
+
+在理论方面，本研究从动机的角度提出了特质愤怒增强反应性攻击的中介机制，建构了人格与反应性攻击的动机模型。这一模型发展和深化了人格与攻击关系的理论，为深入理解人格促进攻击行为的动机机制提供了理论框架，不仅可以用于整合和解释已有的人格影响攻击的中介机制，还可以激发进一步的系列实证研究。
+
+此外，本研究结果对于攻击的预防和干预也具有两个方面的实践意义。一方面，本研究提示家长和教师应关注大学生的人格特征，特别是特质愤怒这类与攻击相关的易感性人格因素。同时应注意对幼儿或儿童的人格培养，以避免形成诸如特质愤怒等攻击性人格。另一方面可以通过预防和干预学生的反应性攻击动机(包括敌意性动机和道德准许动机)来减少攻击，特别是高特质愤怒学生的攻击。例如，可以采用认知矫正的方法，引导学生进行全面、合理的归因，减少敌意归因来抑制其敌意性动机以及通过加强道德教育，减少道德推脱来抑制其道德准许动机。采用这些教育措施利于降低学生在遭遇激惹时出现激烈的反应性攻击的可能性。
+
+# 4.6不足与展望
+
+本研究还存在一些局限和值得改进的地方。第一，特质愤怒纵向预测反应性攻击的动机模型还没有得到交叉滞后模型分析的完全支持。具体地说，特质愤怒(T1)到反应性攻击(T2),特质愤怒(T2)到敌意归因偏向(T3)和道德推脱(T3)，敌意归因偏向(T1)到道德推脱(T2)，以及道德推脱(T2)到敌意归因偏向(T3)的路径均不显著。出现这些不符合预期的结果的原因可能是本研究中交叉滞后模型纳入的变量较多，一些变量的纵向预测效应较低，某些预测效应可能会因为测量误差和随机误差等原因变得不显著。此外，本研究相邻两次调查的时间间隔不够长，被预测变量的变化可能较小，因此某些预测效应就会相对较小，未来研究应该增加时间间隔。总之，特质愤怒预测反应性攻击的动机模型还需要进一步检验第二，本研究的研究对象为大学生，特质愤怒增强反应性攻击的动机机制是否适用于其他群体有待进一步探索，未来研究应该考虑在儿童、青少年以及社区成人等其他群体中检验该中介机制。第三，本研究只使用了自我报告的方法，未来研究应该考虑将自我报告与他评以及实验任务等测评方法结合起来检验该动机路径。第四，本研究仅探索了敌意归因偏向和道德推脱这两个典型的反应性攻击的动机因素的中介作用，未来研究可以进一步探索其他的反应性攻击的动机因素，例如敌意、恐惧、愤怒、愤怒沉浸、道德标准切换、道德清洗等是否也具有(链式)中介作用。
+
+# 5结论
+
+动机是界定反应性攻击的核心概念，揭示人格预测攻击的动机机制具有重要的理论价值与实践意义。通过3次调查的纵向研究发现，特质愤怒可以通过两种反应性攻击动机(以敌意归因偏向为代表的敌意性动机和以道德推脱为代表的道德准许动机)的平行中介作用来
+
+纵向预测反应性攻击。
+
+参考文献   
+AlMoghrabi，N.，Huijding,J.，& Franken,I. H. (2018). The effects of a novel hostile interpretation bias modification paradigm on hostile interpretations, mood,and aggressive behavior. Journal of Behavior Therapy and Experimental Psychiatry,58,36-42.   
+Anderson, C.A., & Bushman, B.J. (2002). Human aggression. Annual Review of Psychology, 53(19),27-51.   
+Babcock, J. C., Tharp,A.L.,Sharp, C., Heppner, W.,& Stanford, M. S. (2014). Similarities and diferences in impulsive/premeditated and reactive/proactive bimodal clasifications of aggression. Aggression and Violent Behavior, 19(3),251-262.   
+Bandura,A. (1999). Moral disengagement in the perpetration of inhumanities.Personalityand Social Psychology Review, 3(3),193-209.   
+Bandura,A. (o02). Selective moral disengagement in the exercise of moral agency. Journal ofMoral Education, 31(2), 101-119.   
+Bandura, A., Caprara, G.V.,Barbaraneli, C. Pastoreli, C.,& Regalia, C. (2oo1). Sociocognitive self-regulatory mechanisms governing transgressive behavior. Journal of Personality and Social Psychology,80(1),125-135.   
+Bondu,R.,& Richter,P. (2o16). Interrelationsofjustice,rejection,provocation,and moral disgust sensitivityand their links with the hostile attribution bias,trait anger,and aggression. Frontiers in Psychology,7,1-15.   
+Buss,A. H.,&Perry, M. (1992). Theaggression questionnaire. Journalof ersonality and Social Psychology 63(3), 452-459.   
+Caprara,G. V.，Fida,R., Vecchione, M.， Tramontano, C.，& Barbaranell, C. (2009). Assessing civic moral disengagement: Dimensionality and construct validity. Personality and Individual Diferences,47(5),504-509.   
+Caprara,G.V.,Tisak,M.S.,Alessandri, G.,Fontaine,R. G.,Fida,R.,&Paciello,M. (2014). The contributionof moral disengagement in mediating individual tendencies toward aggression and violence. Developmental Psychology,50(1),71-85.   
+Crick,N. R., & Dodge, K.A. (1994). A review and reformulation of social information-processing mechanisms in children's social adjustment. Psychological Bulletin,115(1),74-101.   
+Crick,N. R.，& Dodge,K.A. (1996). Social information-processing mechanisms in reactive and proactive aggression. Child Development, 67(3), 993-1002.   
+Crick,N.R.,& Nelson,D.A. (2o02). Relational and physical victimization within friendships: Nobody told me there'd be friends like these. Journal of Abnormal Child Psychology,30(6),599-607.   
+Dambacher,F.,Schuhmann,T.,Lobbestael,J.,Arntz,A., Brugman, S.,& Sack,A.T. (2015). Reducing proactive aggression through non-invasive brain stimulation. Social Cognitiveand Afective Neuroscience,10(10),1303- 1309.   
+Dodge,K. A.,& Coie, J. D. (1987). Social-information-processing factors inreactive and proactive aggression in children's peer groups. Journal of Personality and Social Psychology, 53(6),1146-1158.   
+Dillon,K.H.,Allan,N.P., Cougle,J.R.,& Fincham,F.D.(2016). Measuring hostile interpretation bias: The WSAP-hostility scale.Assessment, 23(6),707-719.   
+Dodge,K.A.,Malone,P.S.,Lansford,J.E.，Sorbring,E.,Skinner,A.T.,Tapanya,S.，..Pastoreli,C.(2015). Hostile atributional bias and aggressive behavior in global context. Proceedings of the National Academy of Sciences,112(30),9310-9315.   
+Fang,J.& Wang, X. C. (2020). Association between callous-unemotional traits and cyberbullying in college students: The moderating effect of moral disengagement. Chinese Journal of Clinical Psychology,28(2),281- 284.   
+[方杰,王兴超.(2020).冷酷无情特质与大学生网络欺负行为的关系：道德推脱的调节作用.中国临床心理学 杂志,28(2),281-284.]   
+Ferguson, C. J.,& Dyck, D. (2012). Paradigm change in aggression research: the time has come to retire the general aggression model. Aggression and Violent Behavior, 17(3),220-228.   
+Festinger,L. (1957). A theory of cognitive dissonance (Vol. 2). Stanford university press.   
+Gagnon,J,Aubin,M.,Emond,F.C.,Derguy,S.,Brochu,A.F.,Bessette,M.,&Jolicoeur,P.(2016).An ERPstudy on hostile atribution bias in aggressive and nonaggressive individuals.Aggresive Behavior,43(3),217-229.   
+Gagnon, J.，& Rochat, L.(2017). Relationships between hostile atribution bias, negative urgency, and reactive aggression.Journal of Individual Differences,38(4),211-219.   
+Giancola,P.R.(2o02). The influence of trait anger on the alcohol-aggression relation in men and women. Alcoholism: Clinical and Experimental Research,26(9),1350-1358.   
+Hammock, G.S., Richardson, D.S., Williams, C.,&Janit, A.S. (2015). Perceptions of psychological and physical aggression between heterosexual partners. Journal ofFamily Violence, 30,13-26.   
+Hazebroek,J.F., Howels,K.,&Day,A. (20o1).Cognitive appraisals associated with high trait anger.Personality and Individual Differences,30(1),31-45.   
+Hou,L.L. Jang,Q., Wang, H. Z.，& Li, C. Z. (2017). The relationship between trait anger and aggressive behavior: Based on the perspective of the integrative cognitive model. Acta Psychologica Sinica,49(12),1548- 1558.   
+[侯璐璐,江琦,王焕贞,李长燃.(2017).特质愤怒对攻击行为的影响:基于综合认知模型的视角.心理学报, 49(12), 1548-1558.]   
+Hubbard, J.A., McAulife, M. D., Morow, M.T.,& Romano,L. J. (2010). Reactive and proactive aggression in childhood and adolescence: Precursors, outcomes, processes， experiences, and measurement. Journal of Personality, 78(1), 95-118.   
+Hymel，S.，Rocke-Henderson，N.，& Bonanno，R.A.(20o5).Moral disengagement: A framework for understanding bullying among adolescents. Journal of Social Sciences, 8(1),1-11.   
+Lagerspetz, K. M. J.,& Westman, M. (1980). Moral approval of aggressive acts: A preliminary investigation. Aggressive Behavior, 6(2),119-130.   
+Lagerspetz, K. M. J., Bjorkqvist, K., Bjorkqvist, H., &Lundman, H. (1988). Moral approval of aggressionand sex role identity in oficer trainees,conscientious objectors to military service,and in a female reference group. Aggressive Behavior, 14(5),303-313.   
+Martinelli, A.,Ackermann,K.,Bernhard,A.,Freitag, C.M., Schwenck, C. (2018). Hostile atributionbiasand aggression in children and adolescents: A systematic literature review on the influence of aggression subtype and gender. Aggression and Violent Behavior, 39,25-32.   
+Parrott,D.J.,& Zeichner,A.(202).Effects of alcohol and trait angeron physicalaggression in men. Journal of Studies on Alcohol, 63(2),196-204.   
+Perren,S.，& Gutzwiller-Helfenfinger，E.(2012).Cyberbullying and traditional bullying in adolescence: Diferential roles of moral disengagement, moral emotions, and moral values. European Journal of Developmental Psychology, 9(2),195-209.   
+Pornari,C.D.,& Wood,J. (2010).Peer and cyber aggresson in secondary school students: The roleof moral disengagement, hostile atribution bias,and outcome expectancies.Aggressive Behavior, 36(2), 81-94.   
+Quan,F. Y.，& Xia,L. X.,(2019). The prediction of hostile atribution bias on reactive aggression and the mediating role of revenge motivation. Journal of Psychological Science, 42(6),1434-1440.   
+[权方英,夏凌翔.(2019).敌意归因偏向对反应性攻击的预测及报复动机的中介作用.心理科学,42(6),1434- 1440.]   
+Raine,A.,Dodge,K.,Loeber,R., Gatzke-Kopp,L.,Lynam, D.,Reynolds,C...Liu,J. (2006). The reactiveproactive aggression questionnaire:Differential correlates of reactive and proactive aggression in adolescent boys. Aggressive Behavior, 32(2), 159-171.   
+Smeijers,D.,Brugman, S., von Borries,K., Verkes,R.J.,& Bulten,E. (2018).Lack of correspondence between thereactive proactive questionnaire and the impulsive premeditated aggression scale among forensic psychiatric outpatients.Aggressive Behavior,4(5), 471-480.   
+Smith,P.，& Waterman, M.(2oo3). Processing bias for aggression words in forensic and nonforensic samples. Cognition and Emotion,17(5), 681-701.   
+Spielberger, C.D.,Sydeman,S.J.,Owen,A.E.,& Marsh,B.J. (1999). Measuring anxiety and anger with the State-Trait Anxiety Inventory (STAI) and the State-Trait Anger Expresson Inventory (STAXI). In M.E. Maruish (Ed.), The use of psychological testing for treatment planning and outcomes assssment (p. 993- 1021). Lawrence Erlbaum Associates Publishers.   
+Tackett, J.L., Kushner,S.C.,Herzhoff,K.mack,A.J.,&Reardon, K. W. (2014). Viewing relationalaggrsion through multiple lenses: temperament， personality， and personalitypathology. Development and Psychopathology, 26(3), 863-877.   
+Thomas,R. A.，& Weston,R.(2019). Exploring the association between hostile atribution bias and intimate partner violence in colege students: Romantic relationships and friends with benefits.Journal of Aggression, Maltreatment and Trauma, 29(5), 557-576.   
+Veenstra,L.,Bushman, B.J.,& Koole,S.L. (2018). The facts on the furious: a brief review of the psychology of trait anger. Current Opinion in Psychology,19, 98-103.   
+Veenstra,L. Schneider, I. K.，Bushman,B.J.，& Koole,S.L. (2017). Drawn to danger: Trait anger predicts automatic approach behaviour to angry faces. Cognition and Emotion,31(4), 765-771.   
+Wachs,S. (2012).Moral disengagement and emotional and social diffculties in bullying and cyberbullying: Diferences by participant role. Emotional and Behavioural Diffculties,17(3-4),347-360.   
+Wang,X., Yang,L., Yang, J., Wang,P.,& Lei, L. (2O17). Trait anger and cyberbulying among young adults: A moderated mediation model of moral disengagement and moral identity. Computers in Human Behavior, 73,
+
+519-526.
+
+Wang,Y.,Cao,S., Zhang, Q.,& Xia,L. X.(202O).The longitudinal relationship between angry rumination and reactive-proactive aggression and the moderation efect of consideration of future consequences-immediate. Aggressive Behavior, 46(6),476-488.   
+Wenzel,A.,&Lystad, C. (2oo5).Interpretation biases in angry and anxious individuals.Behaviour Research and Therapy,43(8),1045-1054.   
+Wilkowski,B.M.,&Robinson,M.D.(2o07).Keepingone'scooltrait anger,hostile thoughts,and the recruitment of limited capacity control.Personality and Social Psychology Bulletin,33(9),1201-1213.   
+Wilkowski, B.M.，Robinson,M.D., Gordon,R.D.,& Troop-Gordon, W.(2007).Tracking the evil eye: Trait anger and selective atention within ambiguously hostile scenes.Journal of Research in Personality, 41(3), 650-666.   
+Wilkowski, B. M., Crowe, S.E.,& Ferguson, E.L. (2015). Learning to keep your cool: Reducing aggression through the experimental modification of cognitive control. Cognition and Emotion,29(2),251-265.   
+Wilkowski,B.M.,& Robinson,M.D. (2010).The anatomy of anger: An integrative cognitive model of trait anger and reactive aggression. Journal of Personality, 78(1),9-38.   
+Zhang,D.,& Wang,M.F.(2O13).Relationship between moral disengagement and reactive/proactive aggression in middle school students. Chinese Journal School Health,34(12),1467-1469+1472.   
+[张栋玲,王美芳.(2013).初中生道德脱离与主动性攻击反应性攻击的关系.中国学校卫生,34(12).1467- 1469+1472.]
+
+# The mediating effect of aggressive motivation on the relationship between trait anger and reactive aggression: A longitudinal study
+
+LI Rui, XIA Lingxiang
+
+(FacultyofsyhologyouthwestUversityKeyLboratoryofognitiondersonalityofinistryofducationoging 400715, China)
+
+# Abstract
+
+Trait anger is a widely recognized susceptibility personality factor for reactive aggression. However, to the best of our knowledge, the longitudinal effect of trait anger on reactive aggression is unclear. More importantly, even though reactive aggression difers from proactive aggression by their motivations, the motivation mechanism underlying the effect of trait anger on reactive aggression is not known.Thus,the present study attempts to explore the longitudinal efect of trait anger on reactive aggression, and the mediating role of reactive aggression motivation, as well as the relationship between the two different motivations.Reactive aggression refers to the behavior or tendency to respond to perceived provocation with hostile and angry feeling. It is also called impulsive， hostile，or hot-blooded aggression. The motivation of the reactive aggression is comprised of hostile motivation (unique motivation) and moral approval motivation (common motivation). Hostile atribution bias is a typically representative variable of hostile motivation, and moral disengagement is the representative variable of moral approval motivation.
+
+A three-wave longitudinal study with the time interval of 6 months was conducted to test our hypotheses.A total of 1oo7 undergraduates (mean $\mathrm { a g e } = 1 9 . 0 0$ years, $S D = 0 . 9 9$ ）from5provinces in China completed a series of questionnaires concerning trait anger, hostile atribution bias, moral disengagement, reactive aggression, and proactive aggression in their classrooms. SPSS 20.0 was used to conduct churn rate, reliability,and common method bias tests,and to calculate descriptive statistics. Mplus 7.0 was used to conduct item parceling and structural equation modeling. A crosslagged model was developed for trait anger predicting reactive aggression from hostile atribution bias and moral disengagement. Moreover, longitudinal relationships among trait anger, hostile attribution bias, moral disengagement, and proactive aggression were also tested.
+
+The results indicate that there is no serious churn problem for participants,for all variables considered.All measurements show good reliability, and there is no serious common method bias. Moreover, trait anger at Wave 1 significantly predicts hostile attribution bias and moral disengagement at Wave 2， hostile atribution bias and moral disengagement at Wave 2 significantly predict reactive aggression at Wave 3, moral disengagement at Wave l significantly predicts hostile attribution bias at Wave 2,and hostile atribution bias at Wave 2 significantly predicts moral disengagement at Wave 3. After controlling for gender, trait anger at Wave 1 significantly predicts reactive aggression at Wave 3 through hostile atribution bias and moral disengagement at Wave 2. Furthermore, the path of hostile attribution bias predicting proactive aggression is non-significant. Moral disengagement at Wave 1 significantly predicts proactive aggression at Wave 2.
+
+This study supports that idea that trait anger would facilitate reactive aggression, and further suggests that trait anger could longitudinally predict reactive aggression through the mediating role of reactive aggression motivation (including hostile motivation represented by hostile attribution bias and moral approval motivation represented by moral disengagement). The present study constructs a motivational model of personality and reactive aggression, and hence develops the theories and study of personality and aggression. Moreover, the findings of this study suggest that prevention of,and interventions for， reactive aggression could usefully focus on the personality and motivational factors of aggression.
+
+Key wordstrait anger， reactive aggression， motivation， hostile atribution bias, moraldisengagement

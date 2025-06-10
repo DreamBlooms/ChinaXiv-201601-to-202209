@@ -1,0 +1,354 @@
+# Shadows of rotating Hayward-de Sitter black holes with astrometric observables
+
+Peng-Zhang He, Qi-Qi Fan，Hao-Ran Zhang,and Jian-Bo Deng\*   
+Institute of Theoretical Physics & Research Center of Gravitation, Lanzhou University， Lanzhou T30o0o, China (Dated: September 9,2020) Abstract
+
+Motivated by recent work on rotating black hole shadow [Phys. Rev. D101, O84029 (2020)]，we investigate the shadow behaviors of rotating Hayward-de Sitter black hole for static observers at a finite distance in terms of astronomical observables. This paper uses the newly introduced distortion parameter in [arXiv:2006.00685] to describe the shadow's shape quantitatively. We show that the spin parameter would distort shadows and the magnetic monopole charge would increase the degree of deformation. At the same time,the distortion could be relieved because of the cosmological constant and the distortion would increase with the distance from the black hole. Besides,the spin parameter, magnetic monopole charge and cosmological constant increase will cause the shadow to shrink.
+
+Keywords: Rotating Hayward-de Sitter black holes, Shadows of black holes, Observable
+
+# I.INTRODUCTION
+
+According to General Relativity (GR), the most interesting celestial body predicted may be black holes. There is a strong gravitational field in the region near a black hole that can bend light rays. Due to the highly bending light rays in the strong gravity field, shadows cast by black holes usually appear in the observer's sky [1]. The light rays received come from the black hole's unstable photon orbits, or the photon region [2, 3]. The first image of a black hole taken by Event Horizon Telescope (EHT) [4] confirmed the existence of black holes,attracting more researchers to study the observable effcts of the black holes, e.g.,the shadows of black holes,gravitational deflection of light or massive particles and the like.
+
+For the simplest black hole, spherical black hole, the shadow's boundary is a perfect circle. In the sixties of the last century, Synge considered a static observer to calculate the angular radius of the Schwarzschild black hole's shadow in his seminal paper [5]. For rotating black holes,the shadow's shape is no longer circular but somewhat fattened on one side because of the “dragging” of null geodesics by black holes. Bardeen first gave the shadow's shape of the Kerr black hole for a distant observer; one can find the results in Chandrasekhar's book [6] and in [7]. Since those pioneer works, shadows of objects have been extensively studied; one can refer to the Refs. [8-27].
+
+Very recently, the authors of Refs. [28, 29] proposed a new method for calculating the size and shape of shadow in terms of astrometric observables for finite-distant observers and introduced a new distortion parameter to describe the shadow's deviation from circularity. The shadows of the Kerr-de Sitter black hole for static observers were revisited in this way without introducing tetrads [28]. Furthermore, the appearance of the shadow of a static spherical black hole and the Kerr black hole was discussed in a unified framework [29].
+
+This paper aims to apply this method to study the shadows of rotating Hayward-de Sitter black holes and examine the parameters' effects on the shadow's size and distortion.
+
+We organize this article as follows. In Sec. II, we review the method of calculating black hole shadows using astronomical observables briefly. In sec. III, we apply this approach to rotating Hayward-de Sitter black holes to analyze the influences of parameters on the shadow's shape and size. We conclude our results in Sec. IV. In this paper we set $G = c = 1$
+
+# II. SHADOWS OF ROTATING BLACK HOLES
+
+In order to make this article self-suffcient, we briefly introduce some basics in this section. One can read Refs. [28, 29] for details.
+
+In astrometry, the angle $\epsilon$ between two incident light rays can be expressed by the following formula [31]:
+
+$$
+\cos \epsilon \equiv \frac { \gamma ^ { * } w \cdot \gamma ^ { * } k } { | \gamma ^ { * } w | | \gamma ^ { * } k | } = \frac { w \cdot k } { ( u \cdot w ) ( u \cdot k ) } + 1 .
+$$
+
+Here, $k$ and $w$ are tangent vectors of the two light rays, respectively. $\gamma ^ { * }$ is the projection operator, $\gamma _ { \nu } ^ { \mu } = \delta _ { \nu } ^ { \mu } + u ^ { \mu } u _ { \nu }$ , for a given observer, whose 4-velocity is denoted by vector $u$ ：
+
+Generally speaking, the metric of a rotating black hole can be written as
+
+$$
+\mathrm { d } s ^ { 2 } = g _ { 0 0 } \mathrm { d } t ^ { 2 } + g _ { 1 1 } \mathrm { d } r ^ { 2 } + g _ { 2 2 } \mathrm { d } \theta ^ { 2 } + g _ { 3 3 } \mathrm { d } \phi ^ { 2 } + 2 g _ { 0 3 } \mathrm { d } t \mathrm { d } \phi .
+$$
+
+The 4-velocity of a static observer is $\begin{array} { r } { u = \frac { 1 } { \sqrt { g _ { 0 0 } } } \partial _ { t } } \end{array}$ . For the asymptotically de Sitter spacetime, there is a cosmological horizon. The observer is fixed at the so-called domain of outer communication that is the region between the event horizon and the cosmological horizon. When the observer located at $\theta = 0$ , it will find that the shadow is a disk and the angular radius is
+
+$$
+\cot \psi = \mathrm { s g n } \left( \frac { \pi } { 2 } - \psi \right) \sqrt { \frac { g _ { 1 1 } } { g _ { 2 2 } \left( \frac { l ^ { 2 } } { l ^ { 1 } } \right) ^ { 2 } + \left( g _ { 3 3 } - \frac { g _ { 0 3 } ^ { 2 } } { g _ { 0 0 } } \right) \left( \frac { l ^ { 3 } } { l ^ { 2 } } \right) ^ { 2 } } }  .
+$$
+
+Here,we have choose a light ray $l ~ = ~ ( l ^ { 0 } , l ^ { 1 } , l ^ { 2 } , l ^ { 3 } )$ comes from the photon region.“sgn" represents the sign function. For a observer located at $\theta > 0$ ， the shadow's silhouette is not a perfect circle as a consequence of the frame dragging effect. As an example,assume the observer located at $\theta = \pi / 2$ .Let $k = ( k ^ { 0 } , k ^ { 1 } , 0 , k ^ { 3 } )$ represent a light ray from a prograde orbit which moves in the same direction as the black hole's rotation,and $w = ( w ^ { 0 } , w ^ { 1 } , 0 , w ^ { 3 } )$ represent a light ray from a retrograde orbit that moving against the black hole's rotation. One can get the angle of the two light rays,in such a way that
+
+$$
+\cot \gamma = \mathrm { s g n } ( k , w ) \sqrt { \frac { \left( \frac { g _ { 1 1 } } { K - W } + \left( g _ { 3 3 } - \frac { g _ { 0 3 } ^ { 2 } } { g _ { 0 0 } } \right) \frac { 1 } { \frac { 1 } { W } - \frac { 1 } { K } } \right) ^ { 2 } } { g _ { 1 1 } \left( g _ { 3 3 } - \frac { g _ { 0 3 } ^ { 2 } } { g _ { 0 0 } } \right) } } ,
+$$
+
+wher $\begin{array} { r } { \gtrsim K \equiv k ^ { 3 } / k ^ { 1 } , \mathscr { W } \equiv w ^ { 3 } / w ^ { 1 } , \mathrm { a n d } \mathrm { s g n } ( k , w ) = \mathrm { s g n } \left( \cos \gamma \right) = \mathrm { s g n } \left( g _ { 1 1 } + \left( g _ { 3 3 } - g _ { 0 3 } ^ { 2 } / g _ { 0 0 } \right) / g _ { 0 0 } \right) . } \end{array}$ （20
+
+Similarly, the angle $\alpha$ between a light ray $l = ( l ^ { 0 } , l ^ { 1 } , l ^ { 2 } , l ^ { 3 } )$ from the photon region and $k$
+
+is
+
+$$
+\cot \alpha = \operatorname { s g n } ( k , l ) \sqrt { \frac { \left( g _ { 1 1 } \frac { 1 } { K - \mathcal { L } _ { 3 } } + \left( g _ { 3 3 } - \frac { g _ { 0 3 } ^ { 2 } } { g _ { 0 0 } } \right) \frac { 1 } { \frac { l } { \mathcal { L } _ { 3 } } - \frac { 1 } { \mathcal { K } } } \right) ^ { 2 } } { g _ { 2 2 } \left( g _ { 1 1 } \left( \frac { \mathcal { L } _ { 2 } } { K - \mathcal { L } _ { 3 } } \right) ^ { 2 } + \left( g _ { 3 3 } - \frac { g _ { 0 3 } ^ { 2 } } { g _ { 0 0 } } \right) \left( \frac { \mathcal { L } _ { 2 } } { 1 - \frac { \mathcal { L } _ { 3 } } { \mathcal { K } } } \right) ^ { 2 } \right) + g _ { 1 1 } \left( g _ { 3 3 } - \frac { g _ { 0 3 } ^ { 2 } } { g _ { 0 0 } } \right) } } ;
+$$
+
+and the angle $\beta$ between the light ray $l$ and $w$ is
+
+$$
+\cot \beta = \operatorname { s g n } ( w , l ) \sqrt { \frac { \left( g _ { 1 1 } \frac { 1 } { W - \bar { C _ { 3 } } } + \left( g _ { 3 3 } - \frac { g _ { 0 3 } ^ { 2 } } { g _ { 0 0 } } \right) \frac { 1 } { \frac { L _ { 3 } } { L _ { 3 } } - \frac { 1 } { w } } \right) ^ { 2 } } { g _ { 2 2 } \left( g _ { 1 1 } \left( \frac { \mathcal { L } _ { 2 } } { W - \bar { C _ { 3 } } } \right) ^ { 2 } + \left( g _ { 3 3 } - \frac { g _ { 0 3 } ^ { 2 } } { g _ { 0 0 } ^ { 2 } } \right) \left( \frac { \mathcal { L } _ { 2 } } { 1 - \frac { \bar { C _ { 3 } } } { W } } \right) ^ { 2 } \right) + g _ { 1 1 } \left( g _ { 3 3 } - \frac { g _ { 0 3 } ^ { 2 } } { g _ { 0 0 } } \right) } } .
+$$
+
+In above equatior $\mathrm { l s } , \mathcal { L } _ { 2 } \equiv l ^ { 2 } / l ^ { 1 } , \mathcal { L } _ { 3 } \equiv l ^ { 3 } / l ^ { 1 } , \mathrm { s g n } ( k , l ) = \mathrm { s g n } \left( \cos \alpha \right) = \mathrm { s g n } \left( g _ { 1 1 } + \left( g _ { 3 3 } - g _ { 0 3 } ^ { 2 } / g _ { 0 0 } \right) K \mathcal { L } _ { 3 } \right) ,$ and $\operatorname { s g n } ( w , l ) = \operatorname { s g n } { \bigl ( } \cos \beta { \bigr ) } = \operatorname { s g n } { \bigl ( } g _ { 1 1 } + { \bigl ( } g _ { 3 3 } - g _ { 0 3 } ^ { 2 } / g _ { 0 0 } { \bigr ) } \mathcal { W } \mathcal { L } _ { 3 } { \bigr ) } .$
+
+（204 $\gamma$ ， $\alpha$ and $\beta$ can provide us the shadow of black hole in the celestial sphere. For the sake of convince in researching the shadow, one can use the following stereographic projection for the celestial coordinates to describe the shape of shadow in a $2 D$ -plane [28].
+
+$$
+\begin{array} { l } { { \displaystyle Y _ { \mathrm { s h } } = \frac { 2 \sin \Phi \sin \Psi } { 1 + \cos \Phi \sin \Psi } } } \\ { { \displaystyle \ = \frac { 2 \cos \beta \sin \gamma - 2 \cot \gamma \sqrt { \sin ^ { 2 } \gamma \sin ^ { 2 } \beta + ( \cos ( \beta + \gamma ) - \cos \alpha ) ( \cos ( \beta - \gamma ) - \cos \alpha ) } } { 1 + \cos \beta \cos \gamma + \sqrt { \sin ^ { 2 } \gamma \sin ^ { 2 } \beta + ( \cos ( \beta + \gamma ) - \cos \alpha ) ( \cos ( \beta - \gamma ) - \cos \alpha ) } } , } } \end{array}
+$$
+
+$$
+\begin{array} { r l r } {  { Z _ { \mathrm { s h } } = \frac { 2 \cos { \Psi } } { 1 + \cos { \Phi } \sin { \Psi } } } } \\ & { } & { = \frac { 2 \csc { \gamma } \sqrt { ( \cos { \alpha } - \cos ( \beta + \gamma ) ) ( \cos ( \beta - \gamma ) - \cos { \alpha } ) } } { 1 + \cos { \beta } \cos { \gamma } + \sqrt { \sin ^ { 2 } { \gamma } \sin ^ { 2 } { \beta } + ( \cos ( \beta + \gamma ) - \cos { \alpha } ) ( \cos ( \beta - \gamma ) - \cos { \alpha } ) } } . } \end{array}
+$$
+
+Here, $\Phi$ and $\Psi$ are azimuth angle and polar angle in celestial coordinate system.
+
+In order to quantitatively describe shadow's shape, a distortion parameter $\Xi$ in terms of （204 $\alpha$ ， $\beta$ and $\gamma$ is introduced,
+
+$$
+\cos \Xi \equiv { \frac { 1 + \cos \gamma - \cos \alpha - \cos \beta } { 2 \sqrt { ( 1 - \cos \alpha ) ( 1 - \cos \beta ) } } } ,
+$$
+
+where $\Xi$ ranges from $0$ to $\pi$ . The $\cos \Xi = 0$ for that shadow's shape is circular in the celestial sphere. For the non-vanished $\cos \Xi$ , it can quantify the deviation from circularity. The authors of Ref. [29] first proposed this kind of quantity for the shadow. Now, we can use $\gamma$ and $\Xi$ to represent the sizes and shapes of shadows without confusion.
+
+In this section, we willapply this method described in the previous section to obtain the shadows of rotating Hayward-de Sitter black holes without introducing tetrads.
+
+The metric of rotating Hayward-ds Sitter black holes in the Boyer-Lindquist coordinates $( t , r , \theta , \phi )$ is [30]
+
+$$
+{ \cal I } s ^ { 2 } = - \frac { \Delta _ { r } } { \Sigma } \left( d t - \frac { a \sin ^ { 2 } \theta } { \rho } d \phi \right) ^ { 2 } + \frac { \Sigma } { \Delta _ { r } } d r ^ { 2 } + \frac { \Sigma } { \Delta _ { \theta } } d \theta ^ { 2 } + \frac { \Delta _ { \theta } \sin ^ { 2 } \theta } { \Sigma } \left( a d t - \frac { r ^ { 2 } + a ^ { 2 } } { \rho } d \phi \right) ^ { 2 } ,
+$$
+
+where
+
+$$
+\Sigma = r ^ { 2 } + a ^ { 2 } \cos ^ { 2 } \theta , \quad \rho = 1 + \frac { \Lambda } { 3 } a ^ { 2 } ,
+$$
+
+$$
+\Delta _ { r } = \left( r ^ { 2 } + a ^ { 2 } \right) \left( 1 - \frac { \Lambda } { 3 } r ^ { 2 } \right) - 2 \tilde { m } \left( r \right) r , \quad \Delta _ { \theta } = 1 + \frac { \Lambda } { 3 } a ^ { 2 } \cos ^ { 2 } \theta ,
+$$
+
+$$
+\tilde { m } \left( r \right) = M \left( \frac { r ^ { 3 } } { r ^ { 3 } + g ^ { 3 } } \right) .
+$$
+
+Here, $M$ represents the mass of black hole, $a$ is the black hole spin parameter, $\Lambda$ is cosmological constant, and the parameter $g$ is the magnetic monopole charge arising from the nonlinear electrodynamics.
+
+# A. Null geodesic equations and photon regions
+
+The motion equations of photons in the spacetime, determined by the metric (10),can be given by the Lagrangian,
+
+$$
+{ \mathcal L } = \frac { 1 } { 2 } g _ { \mu \nu } \dot { x } ^ { \mu } \dot { x } ^ { \nu } ,
+$$
+
+where an overdot denotes the partial derivative with respect to an affine parameter. For the metric (10),one can obtain the momenta $( p _ { \mu } = g _ { \mu \lambda } \dot { x } ^ { \lambda }$ )are
+
+$$
+\begin{array} { r } { p _ { t } = \left( \frac { a ^ { 2 } \Delta _ { \theta } \sin ^ { 2 } \theta } { \Sigma } - \frac { \Delta _ { r } } { \Sigma } \right) \dot { t } + \left( \frac { a \Delta _ { r } \sin ^ { 2 } \theta } { \rho \Sigma } - \frac { a \left( a ^ { 2 } + r ^ { 2 } \right) \Delta _ { \theta } \sin ^ { 2 } \theta } { \rho \Sigma } \right) \dot { \phi } , \quad } \\ { \mathrm { ~ } \Leftrightarrow \left( \frac { a \Delta _ { r } \sin ^ { 2 } \theta } { \rho \Sigma } - \frac { a \left( a ^ { 2 } + r ^ { 2 } \right) \Delta _ { \theta } \sin ^ { 2 } \theta } { \rho \Sigma } \right) \dot { t } + \left( \frac { \left( a ^ { 2 } + r ^ { 2 } \right) ^ { 2 } \Delta _ { \theta } \sin ^ { 2 } \theta } { \rho ^ { 2 } \Sigma } - \frac { a ^ { 2 } \Delta _ { r } \sin ^ { 4 } \theta } { \rho ^ { 2 } \Sigma } \right) \dot { \phi } . \quad } \\ { p _ { r } = \frac { \Sigma } { \Delta _ { r } } \dot { r } , \quad } \\ { p _ { \theta } = \frac { \Sigma } { \Delta _ { \theta } } \dot { \theta } , \quad } \end{array}
+$$
+
+where $p _ { t } = - E$ ， $p _ { \phi } = L _ { \phi }$ denote energy and angular momentum, respectively. Combining the momenta and Hamilton-Jacobi equation, we can get null geodesics equations.
+
+The Hamilton-Jacobi equation takes the following general form:
+
+$$
+- \frac { \partial S } { \partial \lambda } = \frac { 1 } { 2 } g ^ { \mu \nu } \frac { \partial S } { \partial x ^ { \mu } } \frac { \partial S } { \partial x ^ { \nu } } ,
+$$
+
+where $\lambda$ is an affine parameter and $S$ is the Jacobi action which can be decomposed as a sum,
+
+$$
+S = - \frac { 1 } { 2 } m ^ { 2 } \lambda - E t + L _ { \phi } \phi + S _ { \theta } \left( \theta \right) + S _ { r } \left( r \right) ,
+$$
+
+if $S$ is separable. $m$ is the mass of particle,which is zero for photons. From (19) and (20), one can get
+
+$$
+\Delta _ { \theta } \left( \frac { \partial S _ { \theta } } { \partial \theta } \right) ^ { 2 } + \frac { \left( L _ { \phi } \rho \csc \theta - a E \sin \theta \right) ^ { 2 } } { \Delta _ { \theta } } = \mathcal { Q } ,
+$$
+
+and
+
+$$
+\Delta _ { r } \left( \frac { \partial S _ { r } } { \partial r } \right) ^ { 2 } - \frac { \left( \left( a ^ { 2 } + r ^ { 2 } \right) E - a \rho L _ { \phi } \right) ^ { 2 } } { \Delta _ { r } } = - \mathcal { Q } ,
+$$
+
+where $\mathcal { Q }$ is a constant of separation called Carter constant， and $\partial S / \partial x ^ { \mu } = p _ { \mu }$ .With the Hamilton-Jacobi equation, it is not diffcult to get the null geodesic equations as
+
+$$
+\begin{array} { c } { \left( \Sigma \right) ^ { 2 } = R , } \\ { \left( \Sigma \right) ^ { 2 } = \Theta , } \\ { \Sigma i = E \left( \frac { \left( a ^ { 2 } + r ^ { 2 } \right) \left( a ^ { 2 } + r ^ { 2 } - a \lambda \rho \right) } { \Delta _ { r } } + \frac { a \left( \lambda \rho - a \sin ^ { 2 } \theta \right) } { \Delta _ { \theta } } \right) , } \\ { \Sigma \dot { \phi } = \rho E \left( \frac { a \left( a ^ { 2 } + r ^ { 2 } \right) - a ^ { 2 } \lambda \rho } { \Delta _ { r } } + \frac { \left( \lambda \rho - a \sin ^ { 2 } \theta \right) } { \Delta _ { \theta } \sin ^ { 2 } \theta } \right) , } \end{array}
+$$
+
+where
+
+$$
+\begin{array} { r } { R = E ^ { 2 } \left( \left( a ^ { 2 } + r ^ { 2 } - a \lambda \rho \right) ^ { 2 } - \eta \Delta _ { r } \right) , } \\ { \Theta = E ^ { 2 } \left( \Delta _ { \theta } \eta - ( \lambda \rho \csc \theta - a \sin \theta ) ^ { 2 } \right) , } \end{array}
+$$
+
+and
+
+$$
+\lambda \equiv \frac { L _ { \phi } } { E } , \quad \eta \equiv \frac { \mathcal { Q } } { E ^ { 2 } } .
+$$
+
+Forsphericalorbits,
+
+$$
+R \left( r _ { c } \right) = 0
+$$
+
+and
+
+$$
+\left. \frac { d R \left( r \right) } { d r } \right| _ { r = r _ { c } } = 0
+$$
+
+must be satisfied,which lead to
+
+$$
+\lambda = \left. \frac { - 4 r \Delta _ { r } + \left( a ^ { 2 } + r ^ { 2 } \right) \Delta _ { r } ^ { \prime } } { a \rho \Delta _ { r } ^ { \prime } } \right| _ { r = r _ { c } } ,
+$$
+
+where $\Delta _ { r } ^ { \prime }$ denotes the derivative of $\Delta _ { r }$ with respect to $r$ ，and $r _ { c }$ is the location of photon sphere.Furthermore,we can rewrite $R ^ { \prime \prime } \left( r _ { c } \right)$ as
+
+$$
+R ^ { \prime \prime } \left( r _ { c } \right) = 8 E ^ { 2 } \left( r ^ { 2 } + \frac { 2 r \Delta _ { r } \left( \Delta _ { r } ^ { \prime } - r \Delta _ { r } ^ { \prime \prime } \right) } { { \Delta _ { r } ^ { \prime } } ^ { 2 } } \right) \bigg \vert _ { r = r _ { c } } .
+$$
+
+A spherical null geodesic at $\boldsymbol { r } = \boldsymbol { r } _ { c }$ is unstable with respect to radial perturbations if $R ^ { \prime \prime } \left( r _ { c } \right) >$ $0$ ， and stable if $R ^ { \prime \prime } \left( r _ { c } \right) < 0$ . Unstable photon orbits determine the contour of shadow. The range of $r _ { c }$ (photon region) can be determined by $\Theta \ge 0$ from (24) and (28),which is
+
+$$
+\left( \left( 4 r \Delta _ { r } - \Sigma \Delta _ { r } ^ { \prime } \right) ^ { 2 } - 1 6 a ^ { 2 } r ^ { 2 } \Delta _ { r } \Delta _ { \theta } \sin ^ { 2 } \theta \right) _ { r = r _ { c } } \leq 0 .
+$$
+
+From (34) and (35)，we can get $r _ { c - } \leq r _ { c } \leq r _ { c + }$ ，where $r _ { c - }$ and $r _ { c + }$ are the minimum and maximum radial position of the photon region. If limiting the light rays from the photon region, one can regard $p ^ { \mu } = \dot { x } ^ { \mu }$ as functions of $x ^ { \mu }$ ， $E$ ，and $r _ { c }$
+
+# B. Sizes of shadow
+
+For $\theta = 0$ , one can rewrite (35) as
+
+$$
+\left( 4 r \Delta _ { r } - \left( r ^ { 2 } + a ^ { 2 } \right) \Delta _ { r } ^ { \prime } \right) _ { r = r _ { c } } = 0 .
+$$
+
+This means that the photon region becomes photon sphere, and $r _ { c } = r _ { c - } = r _ { c + }$ . Substituting the metric (10) and geodesic equations into (3), one can calculate the angular radius of the shadow in the following form,
+
+$$
+\cot \psi = \sqrt { \frac { \left( a ^ { 2 } + r ^ { 2 } - a \lambda \rho \right) ^ { 2 } - \eta \Delta _ { r } } { \Delta _ { r } \eta + a \lambda \rho \left( 2 a ^ { 2 } + 2 r ^ { 2 } - a \lambda \rho \right) } } ,
+$$
+
+where $\lambda$ and $\eta$ are function of $r _ { c }$ . Here, we only consider shadow in the view of observers located outside of the photon region.
+
+![](images/ea439c7f81fd62a5bce33a38108191644b3763f9c2f4cc500f508215da7fcee7.jpg)  
+Figure 1. The angular radius $\psi$ of shadow as a function of the distance from the rotating Hayward-de Sitter black holes for selected parameters, and the observers are located at inclination angle $\theta = 0$ The vertical dotted lines are the outer boundaries and the cosmological horizons. Here we set $M = 1$ ：
+
+In Fig. 1, we plot the shadow's angular radius as a function of the distance from the black hole. The figures reflect that the photon sphere radius of the Schwarzschild black hole is the largest,and it's shadow has the largest size among the shadows observed at the same position. Besides, no matter which of $a$ ， $g$ ，and $l$ increases, the size of shadow will become smaller.
+
+The situation of the observer locates at the equatorial plane ( $\theta = \pi / 2$ ）will be more complicated. In this case,(35) can be rewritten as
+
+$$
+\Bigl ( \left( 4 r \Delta _ { r } - r ^ { 2 } \Delta _ { r } ^ { \prime } \right) ^ { 2 } - 1 6 a ^ { 2 } r ^ { 2 } \Delta _ { r } \Bigr ) _ { r = r _ { c } } \le 0 .
+$$
+
+Then one can obtain $r _ { c - } \leq r _ { c } \leq r _ { c + }$ . From (4),we get the angular diameter $\gamma$ ，
+
+$$
+\cot \gamma = \sec \left( 1 + \frac { \Delta _ { r } ^ { 2 } } { \rho ^ { 2 } \left( \Delta _ { r } - a ^ { 2 } \right) } K \mathcal { W } \right) \left| \frac { \rho \sqrt { \Delta _ { r } - a ^ { 2 } } } { \Delta _ { r } } \frac { 1 } { K - \mathcal { W } } + \frac { \Delta _ { r } } { \rho \sqrt { \Delta _ { r } - a ^ { 2 } } } \frac { 1 } { \frac { 1 } { \mathcal { W } } - \frac { 1 } { \mathcal { K } } } \right| ,
+$$
+
+where
+
+$$
+\mathcal { K } = \left. \frac { p ^ { \phi } } { p ^ { r } } \right| _ { r _ { c } = r _ { c - } } ,
+$$
+
+$$
+{ \mathcal { W } } = \left. { \frac { p ^ { \phi } } { p ^ { r } } } \right| _ { r _ { c } = r _ { c + } } .
+$$
+
+From (24) and (26),we get
+
+$$
+\frac { p ^ { \phi } } { p ^ { r } } = \frac { \dot { \phi } } { \dot { r } } = \frac { \rho \left( a ^ { 3 } + a \left( r ^ { 2 } - \Delta _ { r } \right) - a ^ { 2 } \lambda \rho + \Delta _ { r } \lambda \rho \right) } { \Delta _ { r } \sqrt { \left( a ^ { 2 } + r ^ { 2 } - a \lambda \rho \right) ^ { 2 } - \Delta _ { r } \eta } } .
+$$
+
+It is worth noting that $\lambda$ and $\eta$ can be regarded as functions of $r _ { c }$ ，so(42) is a function of $r$ and $r _ { c }$ . Fig. 2 shows that the angular parameter $\gamma$ changes with the increase of the distance from the black hole. It is not difficult to find that the angular parameter $\gamma$ decreases with the increase of $a$ ， $\Lambda$ and $g$ ， and the outer boundary of the photon region $r _ { c + }$ is larger than the radius of the photon sphere in Schwarzschild spacetime. Therefore, the size of the black hole shadow will decrease with the increase of $a$ ， $\Lambda$ and $g$ ， and the shadow of the Schwarzschild black hole has the largest size.
+
+![](images/1fdda778d968bf688b77e6487528d3b2c1b43c899987cade8bb98f150216197d.jpg)  
+Figure 2. The angular diameter $\gamma$ of shadow as a function of the distance from the rotating Haywardde Sitter black holes for selected parameters,and the observers are located at inclination angle $\theta = 0$ The vertical dotted lines are the outer boundaries and the cosmological horizons. Here we set $M = 1$
+
+# C. Shadow's shape
+
+In this part, we will consider the shadow's shape in diferent situations. The observers located at inclination angle $\theta = 0$ would see the shadows as a perfect circle,while the observers located at $\theta = \textstyle { \frac { \pi } { 2 } }$ would find that the shadows are distorted. according to (5) and (6）,the angular distances $\alpha$ and $\beta$ can be read as
+
+$$
+\cot \alpha = \mathrm { s g n } \left( 1 + \frac { \Delta _ { r } ^ { 2 } } { \left( \Delta _ { r } - a ^ { 2 } \right) \rho ^ { 2 } } K \mathcal { L } _ { 3 } \right) \frac { \left| \frac { \Delta _ { r } } { \rho \sqrt { \Delta _ { r } - a ^ { 2 } } \frac { 1 } { \hat { x } _ { 3 } } - \frac { 1 } { K } } + \frac { \rho \sqrt { \Delta _ { r } - a ^ { 2 } } } { \Delta r } \frac { 1 } { K - \mathcal { L } _ { 3 } } \right| } { \sqrt { 1 + \left( \frac { \mathcal { L } _ { 2 } } { 1 - \frac { \mathcal { L } _ { 3 } } { K } } \right) ^ { 2 } \Delta r + \frac { \left( \Delta r - a ^ { 2 } \right) \rho ^ { 2 } } { \Delta r } \left( \frac { \mathcal { L } _ { 2 } } { K - \mathcal { L } _ { 3 } } \right) ^ { 2 } } } ,
+$$
+
+and
+
+$$
+\cot \beta = \mathrm { s g n } \left( 1 + \frac { \Delta _ { r } ^ { 2 } } { \left( \Delta _ { r } - a ^ { 2 } \right) \rho ^ { 2 } } \mathcal { W } \mathcal { L } _ { 3 } \right) \frac { \left| \frac { \Delta _ { r } } { \rho \sqrt { \Delta _ { r } - a ^ { 2 } } \frac { 1 } { \hat { L } _ { 3 } } - \frac { 1 } { \hat { w } } } + \frac { \rho \sqrt { \Delta _ { r } - a ^ { 2 } } } { \Delta _ { r } } \frac { 1 } { \mathcal { W } - \mathcal { L } _ { 3 } } \right| } { \sqrt { 1 + \left( \frac { \mathcal { L } _ { 2 } } { 1 - \frac { \mathcal { L } _ { 3 } } { \mathcal { W } } } \right) ^ { 2 } \Delta _ { r } + \frac { \left( \Delta _ { r } - a ^ { 2 } \right) \rho ^ { 2 } } { \Delta _ { r } } \left( \frac { \mathcal { L } _ { 2 } } { \mathcal { W } - \mathcal { L } _ { 3 } } \right) ^ { 2 } } } ,
+$$
+
+where $\mathcal { K }$ and $\mathcal { W }$ are given by (40), (41) and
+
+$$
+\mathcal { L } _ { 2 } \equiv \frac { p ^ { \theta } } { p ^ { r } } \bigg | _ { r _ { c } } ,
+$$
+
+$$
+\mathcal { L } _ { 3 } \equiv \frac { p ^ { \phi } } { p ^ { r } } \bigg | _ { r _ { c } } ,
+$$
+
+with
+
+$$
+\frac { p ^ { \theta } } { p ^ { r } } = \frac { \dot { \theta } } { \dot { r } } = \pm \sqrt { \frac { \eta - ( \lambda \rho - a ) ^ { 2 } } { \left( a ^ { 2 } + r ^ { 2 } - a \lambda \rho \right) ^ { 2 } - \Delta _ { r } \eta } } .
+$$
+
+In Fig. 3, we set $g = 0$ and get the same results as the Kerr(-de Sitter) black holes in Ref. [28]. In Figs. 4 and 5, we scale the shadows appropriately so that the degree of distortion of these shadows can be compared qualitatively. The upper parts of Figs. 4 and 5 are the shadows after scaling, with diferent parameters selected, and the lower parts are the images of the corresponding distortion parameters vary with $\Phi / \gamma$ , which are the quantitative description of the shadow's distortion. In Fig. 4, the observers are not far from the photon regions of the black holes,and in Fig.5,the observers are far away from the black holes. It is not difficult to find that the shadow's distortion will decrease as the cosmological constant increases. In contrast, the distortion will increase with an increase of $g$ or $a$
+
+In Fig. 6, we plot the shapes and distortion parameters of the shadows for observers at different distances from the center of the black hole. It can be seen that the distortion parameter would increase with distance. Through the above discusson，we know that when the parameters $g$ and $a$ of rotating Hayward-de Sitter black holes are maximum，and the cosmological constant is zero, the distortion of the shadow is the largest.
+
+# IV. CONCLUSIONS AND DISCUSSIONS
+
+In this article, we calculated the size and shape of rotating Hayward-de Sitter black hole shadow for static observers at a finite distance in terms of astronomical observables. For （204号 $\theta \ : = \ : 0$ ， the shadow’s boundary is a perfect circle, but for $\begin{array} { r } { \theta \ = \ \frac { \pi } { 2 } } \end{array}$ ， the shadow’s boundary will be distorted. To quantitatively describe the distortion of the shadows,we plotted the distortion parameter affected by the black hole's parameters, quantifying the distortion of the shape from circularity. We found that no matter which parameter increases, the size of the shadow will shrink. At the same distance, a Schwarzschild black hole has the largest shadow.
+
+![](images/0415adb56d4f4fa39a51e426a97e4ad4980e6537aee4723c1ba9334410c9b2e5.jpg)  
+Figure 3. Shadows of rotating Hayward-de Sitter black holes with $g = 0$ on projective plane $( Y , Z )$ for selected parameters. $r$ is the distance from the observer to the black holes. Here we set $M = 1$ .(a) Shadows of rotating Kerr(-de Sitter） black holes for selected spin parameters for distant observers. (b) Shadows of rotating Kerr-de Sitter black holes for observers located at $r = 4$ ：
+
+Furthermore, the parameters $g$ and $a$ of rotating Hayward-de Sitter black holes are maximum, and the cosmological constant is zero,the distortion of the black hole shadow is the largest, and the distortion parameter would increase with distance.
+
+![](images/6f658046751c7edc65841e096e540f0e1f57d9c3a09fb10166f90de24d89431d.jpg)  
+Figure 4. The shape of shadows and corresponding distortion parameters $\Xi$ as function of $\frac { \Phi } { \gamma }$ for selected different parameters for observers located at $r = 4$ . Here we set $M = 1$ .(a) Shadows and distortion parameters of rotating Hayward-de Sitter black holes of selected different cosmological constants. (b） Shadows and distortion parameters of rotating Hayward-de Sitter black holes of selected diffrent magnetic monopole charges. (c) Shadows and distortion parameters of rotating Hayward-de Sitter black holes of selected different the spin parameters.
+
+We only considered static observers fixed at inclination angle $\theta = 0$ and $\begin{array} { r } { \theta = \frac { \pi } { 2 } } \end{array}$ ，but this method is suitable for arbitrary observers. Studying the shadows of black holes is an important way for studying the properties of black holes,from which one can obtain rich information about space-time geometry.
+
+# CONFLICTSOFINTEREST
+
+The authors declare that there are no conflicts of interest regarding the publication of this paper.
+
+![](images/d589c0a550442d5dd9862750e36f17f914720553a36f33ed1309502c51530849.jpg)
+
+Figure 5. The shapes of shadows and corresponding distortion parameters $\Xi$ as function of $\frac { \Phi } { \gamma }$ for selected different parameters for distant observers.Here we set $M = 1$ .(a) Shadows and distortion parameters of rotating Hayward black holes of selected different spin parameters for observers located at $r = 4 0$ . (b) Shadows and distortion parameters of rotating Hayward black holes of selected different magnetic monopole charges for observers located at $r = 4 0$ . (c) Shadows and distortion parameters of rotating Hayward-de black holes of selected diferent spin parameters for observers located at $r = 6 . 3 1$ . (d) Shadows and distortion parameters of rotating Hayward-de black holes of selected different the magnetic monopole charges for observers located at $r = 6 . 3 1$ ：
+
+# ACKNOWLEDGMENTS
+
+We would like to thank the National Natural Science Foundation of China (Grant No.11571342) for supporting us on this work.
+
+![](images/a1416dcb7172c1a4cd2bf03b479a1bc4ac5493cda4d1b4ee1de208c1ced41908.jpg)  
+Figure 6. The shapes of shadows and corresponding distortion parameters $\Xi$ as function of $\frac { \Phi } { \gamma }$ for observers at selected position $r$ ：
+
+# REFERENCES
+
+[1] P. V. P. Cunha and C. A. R. Herdeiro, Shadows and Strong Gravitational Lensing: A Brief Review, Gen Relativ Gravit 50,42 (2018).
+
+[2] A.Grenzebach, V.Perlick,and C.Lämmerzahl, Photon Regions and Shadows of Kerr-NewmanNUT Black Holes with a Cosmological Constant, Physical Review D 89, (2014).   
+[3] A. Grenzebach, V. Perlick, and C. Lämmerzahl， Photon Regions and Shadows of Accelerated Black Holes, International Journal of Modern Physics D 24, 1542024 (2015).   
+[4] Event Horizon Telescope Collaboration, Astrophys. J. Lett. 875,L6 (2019).   
+[5] J. L. Synge, The Escape of Photons from Gravitationally Intense Stars, Mon Not R Astron Soc 131, 463 (1966).   
+[6] Chandrasekhar S.， The mathematical theory of black holes,(Oxford University Press, New York, 1998).   
+[7] J. M. Bardeen,in Black Holes (Les Astres Occlus), edited by C.Dewitt and B.S.Dewitt (Gordon and Breach,New York, 1973), pp. 215-239.   
+[8] V. Perlick, O. Yu. Tsupko, and G. S. Bisnovatyi-Kogan, Black Hole Shadow in an Expanding Universe with a Cosmological Constant, Physical Review D 97, (2018).   
+[9] Z. Chang and Q.-H. Zhu, Black Hole Shadow in the View of Freely Falling Observers, Journal of Cosmology and Astroparticle Physics 2020, 055 (2020).   
+[10] P. V. P. Cunha, C. A. R. Herdeiro, E. Radu, and H. F. Runarsson, Shadows of Kerr Black Holes with Scalar Hair, Phys. Rev. Lett. 115, 211102 (2015).   
+[11] J. Badia and E. F. Eiroa, Influence of an Anisotropic Matter Field on the Shadow of a Rotating Black Hole, Physical Review D 102, (2020).   
+[12] R.A. Konoplya, Shadow of a Black Hole Surrounded by Dark Mater, Physics Letters B 795,1 (2019).   
+[13] A. Abdujabbarov, M. Amir,B. Ahmedov,and S. G. Ghosh, Shadow of Rotating Regular Black Holes, Phys.Rev. D 93,104004 (2016).   
+[14] F.Atamurotov, A. Abdujabbarov,and B. Ahmedov, Shadow of Rotating Non-Kerr Black Hole, Physical Review D 88, (2013).   
+[15] G. S. Bisnovatyi-Kogan and O. Yu. Tsupko, Shadow of a Black Hole at Cosmological Distances, Physical Review D 98, (2018).   
+[16] Z. Younsi, A. Zhidenko, L. Rezzolla,R. Konoplya, and Y. Mizuno, New Method for Shadow Calculations: Application to Parametrized Axisymmetric Black Holes, Phys. Rev. D 94, 084025 (2016).   
+[17] A. A. Abdujabbarov, L. Rezzolla, and B. J. Ahmedov, A Coordinate-Independent Characterization of a Black Hole Shadow, Monthly Notices of the Royal Astronomical Society 454, 2423 (2015).   
+[18] V.Perlick, O. Yu. Tsupko,and G. S. Bisnovatyi-Kogan, Infuence of a Plasma on the Shadow of a Spherically Symmetric Black Hole, Physical Review D 92, (2015).   
+[19] U.Papnoi, F. Atamurotov,S. G. Ghosh, and B. Ahmedov, Shadow of Five-Dimensional Rotating Myers-Perry Black Hole, Phys. Rev. D 90, 024073 (2014).   
+[20] P.V. P. Cunha, C. A. R. Herdeiro, B. Kleihaus, J. Kunz, and E. Radu, Shadows of EinsteinDilaton-Gauss-Bonnet Black Holes, Physics Letters B 768, 373 (2017).   
+[21] P.V. P. Cunha, C.A. R. Herdeiro, and E. Radu, Fundamental Photon Orbits: Black Hole Shadows and Spacetime Instabilities, Phys. Rev. D 96, O24039 (2017).   
+[22] F.Atamurotov, B. Ahmedov,and A. Abdujabbarov, Optical Properties of Black Holes in the Presence of a Plasma: The Shadow, Phys. Rev. D 92, 084005 (2015).   
+[23] M. Amir and S.G.Ghosh, Shapes of Rotating Nonsingular Black Hole Shadows, Phys. Rev. D 94,024054 (2016).   
+[24] M. Sharif and S. Iftikhar, Shadow of a Charged Rotating Non-Commutative Black Hole, Eur. Phys. J. C 76, 630 (2016).   
+[25] G. Z. Babar, A. Z. Babar, and F. Atamurotov, Optical Properties of Kerr-Newman Spacetime in the Presence of Plasma, Eur. Phys. J. C 80, 761 (2020).   
+[26] R. Kumar and S. G. Ghosh, Rotating Black Holes in 4D Einstein-Gauss-Bonnet Gravity and Its Shadow, J. Cosmol. Astropart. Phys. 2020, 053 (2020).   
+[27] B.P. Singh and S. G. Ghosh， Shadow of Schwarzschild-Tangherlini Black Holes， Annals of Physics 395, 127 (2018).   
+[28] Z. Chang and Q.-H. Zhu, Revisiting a Rotating Black Hole Shadow with Astrometric Observables, Physical Review D 101, (2020).   
+[29] Z. Chang and Q.-H. Zhu, Does the Shape of the Shadow of a Black Hole Depend on Motional Status of an Observer?, ArXiv:2006.00685 [Gr-Qc] (2020).   
+[30] M. S. Ali and S. G. Ghosh， Thermodynamics and Phase Transition of Rotating Hayward-de Siter Black Holes, ArXiv:1906.11284 [Gr-Qc] (2019).   
+[31] D. Lebedev and K. Lake， On the Influence of the Cosmological Constant on Trajectories of Light and Associated Measurements in Schwarzschild de Siter Space, ArXiv:1308.4931 [Gr-Qc]

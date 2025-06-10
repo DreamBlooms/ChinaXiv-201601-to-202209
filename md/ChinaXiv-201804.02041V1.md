@@ -1,0 +1,246 @@
+# 基于Teager能量算子的改进阈值函数的去噪算法研究
+
+罗元a，谭琴，张毅b(重庆邮电大学 a.光电工程学院;b.先进制造工程学院，重庆 400065)
+
+摘要：针对传统阈值去噪中出现的信号与噪声小波包系数的混叠现象、阈值函数在阈值处不连续、小波包系数估计值与原始值存在恒定偏差等问题，提出了一种基于Teager 能量算子的改进阈值函数的去噪算法。该算法首先对小波包分解后的小波包系数进行Teager能量算子的计算，使语音与噪声系数间的差异变大，利于阈值的选择；再对软、硬阈值函数导致的伪吉布斯效应、恒定偏差等问题进行改进，提出了一种改进的阈值函数，该函数不仅克服了常用函数的不连续性和恒定偏差问题，且具有更加优越的数学特性。实验结果显示，改进的算法信噪比提高且均方误差有所降低，表明了该算法在最大程度去除噪声的同时也避免了信号的失真，具有较高的实用价值。
+
+关键词：混叠现象；不连续性；恒定偏差；能量算子；信噪比；均方误差 中图分类号：TN911.4 doi:10.3969/j.issn.1001-3695.2017.12.0754
+
+# Improved threshold function denoising algorithm based on Teager energy operator
+
+Luo Yuana, Tan Qina, Zhang ${ \mathrm { Y i } } ^ { \mathrm { b } }$ (a.CollegeofOptoelectronicEngineering,b.CollgeofAdvancedManufacturingEngineering,Chongqing UniversityofPosts & Telecommunications, Chongqing 40o065, China)
+
+Abstract:Forthe problemssuchas thealiasing phenomenonofsignalandnoise waveletpacketcoeficients,thresholdfunction discontinuityatthreshold,andconstanteviationbetweenorginalcoefficientandestimationcoeficientintaditionaltesold denoising,this paper proposed an improved wavelet packetthreshold denoising algorithm.The algorithm firstcalculated the Teager energyoperator forthe wavelet packetcoeffcients,making the differencebetween voiceand noisecoeficients larger, whichis favorable forthreshold selection.Then,for the problemsof pseudo Gibbsefect and constant deviation,this paper proposed an improved threshold function,which not onlyovercomes the problem of discontinuity and constant deviation of commonlyused functions,butalsohassuperiormathematicalcharacteristics.Theexperimentalresultsshowthatthe improved algorithmhas higher signal-to-noiseratioandrduces the mean square error,which demonstrates the algorithm eliminates the noise to the greatest extent and avoids the signal distortion,and has higher practical value.
+
+Key Words:aliasingphenomenon; discontinuity;constantdeviation; energyoperator;signal-to-noiseratio; meansquareero
+
+# 0 引言
+
+语音信号在实际的采集及传输过程中极易受到噪声的干扰，严重影响了其质量和可懂度，因此，去噪是语音信号处理过程中的重要环节。近几年，小波分解以其多分辨率的特点广泛地应用于信号的去噪处理，它在时域与频域都能表现出良好的信号局部特征，且能有效地提取信号中的瞬态信息，适合对非平稳信号进行细致分析，所以小波变换常用于信号的去噪处理[1-4]。但小波分解只对每次分解后的低频部分做进一步的分解，导致高频部分的频段分辨率较差。小波包分解是对小波分解的进一步延伸，它能够同时对信号的低频和高频部分进行分解，使频带划分更为精细，也更好地模拟了人耳的听觉效应，所以，
+
+近年来，小波包阈值去噪广泛地应用于信号的去噪算法中，且取得了较好的去噪效果[5]。
+
+在常用的小波包阈值去噪算法中，由于阈值和阈值函数的选择不当，会导致语音信号的去噪效果不理想。经小波包分解后的小波包系数中，一些代表信号细节的小波包系数与噪声较多区域的噪声系数差别较小，容易产生混叠现象，不利于阈值的选择；其次，常用的阈值函数也存在许多不足：硬阈值函数不连续，处理后的语音信号在重构时可能会出现震荡效应，且去噪不完整；软阈值函数处理后的小波包系数估计值与原始小波包系数之间存在偏差，导致重构信号的准确度较低；一些改进的阈值函数把绝对值小于阈值的系数直接置零，使信号的高频部分缺失。为此，本文提出改进的小波包阈值去噪算法，首先对混叠区内差别较小的信号与噪声的小波包系数进行 Teager能量算子的计算，加大了语音和噪声小波包系数的差异，更利于阈值的选择，然后，提出一种改进的阈值函数，该函数能够克服硬、软阈值函数的不连续性和恒定偏差等问题。实验结果表明，本文提出的算法能最大程度去除噪声，更好地保留信号的细节部分。
+
+# 1 小波包变换及小波包阈值去噪原理
+
+# 1.1小波包变换
+
+一个含噪语音信号可用如下模型表示：
+
+$$
+\textstyle f ( t ) = s ( t ) + n ( t )
+$$
+
+其中： $f ( t )$ 表示带噪语音信号， $s ( t )$ 表示纯净语音信号， $n ( t )$ 为噪声信号，并且假定 $n ( t )$ 的均值为零，且服从高斯分布。小波包阈值去噪的过程就是从带噪语音信号 $f ( t )$ 中恢复出原始语音信号 $s ( t )$ 。
+
+小波包分解过程如下：
+
+$$
+d _ { j + 1 , 2 n } ( k ) = \sum _ { l \in Z } d _ { j , n } ( m ) h ( 2 k - l )
+$$
+
+$$
+d _ { j + 1 , 2 n } ( k ) = \sum _ { l \in Z } d _ { j , n } ( m ) g ( 2 k - l )
+$$
+
+其中： ${ d _ { j , n } ( k ) }$ 代表了第 $j$ 层第 $n$ 个节点处的小波包系数， $h ( k )$ 表示 $0 \sim \frac { \pi } { 2 }$ 之间的低通滤波器， $g ( k )$ 表示 ${ \frac { \pi } { 2 } } \sim \pi$ 之间的高通滤波器。
+
+小波包的重构算法如下：
+
+$$
+d _ { j , n } ( k ) = \sum _ { l \in { \cal Z } } d _ { j + 1 , 2 n } ( l ) \stackrel { - } { h } ( k - 2 l ) + \sum _ { l \in { \cal Z } } d _ { j + 1 , 2 n + 1 } \stackrel { - } { g } ( k - 2 l )
+$$
+
+# 1.2小波包阈值去噪原理
+
+小波包变换具有很强的去数据相关性，经小波包分解后，信号与噪声的能量分别集中在一些特定的小波包系数中，总体上，代表信号的小波包系数比噪声的要大，即幅值较大的系数一般以信号为主，幅值较小的可认为是噪声。因此，可选择合适的阈值和阈值函数对小波包系数进行处理，对代表噪声的系数进行萎缩，保留并增强代表信号的系数，以达到去噪的目的，最后再通过反变换对保留的系数进行重构，得到去噪信号[6-7]。图1为小波包阈值去噪的基本原理框图。
+
+阈值和阈  
+带噪语 小波 值函数量 小波包反 去噪语  
+音信号 包分解 变换重构 音信号化处理
+
+如图1所示，小波包阈值去噪主要有以下几个步骤：
+
+a)对语音信号进行小波包分解。确定合适的小波包基及分解层数，对带噪语音信号进行离散小波包分解，得到各层的小波包系数 $w _ { j , k }$ ，它由两部分组成，一部分代表了语音信号的小波包系数，另一部分代表噪声对应的系数。
+
+b)对小波包系数进行阈值量化处理。选择合适的阈值及阈值函数，对小波包系数进行阈值量化处理，得到小波包系数的估计值wj,k ；
+
+c)小波包系数的重构。对小波包系数的估计值进行小波包的重构计算，得到去噪后的语音信号。
+
+在上面的几个步骤中，最关键的就是阈值和阈值函数的选择，这直接关乎去噪效果的好坏[8]。
+
+# 2 小波包阈值去噪算法的改进
+
+# 2.1对小波包系数的处理
+
+在小波包阈值去噪过程中，经小波包分解后的小波包系数，较大的系数一般代表语音信号的细节，较小的系数一般代表了噪声。分布在两端差异较大的小波包系数一般不会产生信号与噪声之间的误判，而分布在中间值域的信号与噪声间的系数差异较小，容易产生语音与噪声系数之间的误判，导致代表信号的一些系数容易被当做噪声被滤除掉，影响了语音信号的重构质量。为了克服这个问题，本文将分解后的小波包系数进行变换处理，加大信号与噪声之间的差异，使阈值的选择更加合理。
+
+Teager 能量算子(TEO)是由Kaiser最先提出来的一种非线性算子，它能够对信号的能量特征进行跟踪，对信号的幅度包络变化较为敏感。以语音信号为主的小波包系数TEO值较大，以噪声为主的系数TEO值较小。所以，将小波包系数经过Teager能量算子变换处理后，能使信号与噪声混叠区内小波包系数间的差异变大，以便更好地确定阈值[9]。Teager能量算子的计算公式为
+
+$$
+\psi [ x ( n ) ] { = } [ x ( n ) ] ^ { 2 } - x ( n + 1 ) x ( n - 1 )
+$$
+
+则对小波包系数计算TEO值为
+
+$$
+T _ { j , m } ( k ) = \psi [ w _ { j , m } ( k ) ]
+$$
+
+# 2.2 阈值的计算
+
+对小波包系数进行Teager能量算子的计算后，信号与噪声混叠区域内小波包系数间的区分度被放大，避免了阈值的过大或者过小而产生的语音与噪声间误判，使阈值的选择更加合理。阈值的求取主要通过以下几个步骤：
+
+a)通过式(2)(3)对带噪语音信号进行小波包分解;
+
+b)按照式(5)(6)对分解后的小波包系数计算TEO值;
+
+c)对TEO值作平滑处理，让其通过汉明窗，汉明窗窗口的长度根据不同的层次来进行选取，即第j层的窗长为2i，其中，$\scriptstyle \mathrm { j = } 3 , 4 , 5$ ，得到了 $M = T ^ { * } H$ ，其中， $*$ 表示卷积， $H$ 表示汉明窗，再对 $M$ 进行归一化处理得到 $\mathbf { \Omega } _ { M } ^ { ' }$ ：
+
+$$
+ M _ { j , m } ^ { ' } ( k ) = \frac { M _ { j , m } ( k ) } { \operatorname* { m a x } ( \left| M _ { j , m } ( k ) \right| ) }
+$$
+
+d)求阈值门限。自适应阈值可用如下表达式：
+
+$$
+T H _ { j , m } ( k ) = \lambda _ { j , m } ( 1 - \alpha _ { j } M ^ { ' } { } _ { j , m } ( k ) )
+$$
+
+其中： $j , m$ 分别表示第 $j$ 层、第 $m$ 个子带， $\alpha _ { j }$ 为基于各层的调节参数， $m { = } 1 , 2 { \mathrm { . . . } } 1 7$ ，表示一共有17 个频带组。
+
+$$
+\lambda _ { j , m } = \sigma _ { j , m } ( \sqrt { 2 \log N _ { j , m } } ) / \log ( j + 1 )
+$$
+
+其中： $\boldsymbol { N } _ { j , m }$ 为第 $j$ 层第 $m$ 个子带的长度。 $\sigma _ { j , m }$ 代表高斯噪声的标准差：
+
+$$
+\sigma _ { j , m } = \frac { m e d i a n ( \left| \boldsymbol { w } _ { j , k } \right| ) } { 0 . 6 7 4 5 }
+$$
+
+# 2.3传统的阈值函数
+
+小波包阈值去噪过程中最常用的阈值函数主要包括硬阈值函数和硬阈值函数，其表达式分别为
+
+$$
+\tilde { w _ { j , k } } = \left\{ \begin{array} { l l } { w _ { j , k } , } & { \left| w _ { j , k } \right| \ge \lambda } \\ { 0 , } & { \left| w _ { j , k } \right| < \lambda } \end{array} \right.
+$$
+
+$$
+\begin{array} { r } { w _ { j , k } = \left\{ \begin{array} { l l } { \mathrm { s g n } ( w _ { j , k } ) ( \left| w _ { j , k } \right| - \lambda ) \quad \left| w _ { j , k } \right| \ge \lambda } \\ { 0 \quad \qquad \left| w _ { j , k } \right| < \lambda } \end{array} \right. } \end{array}
+$$
+
+其中：λ表示阈值， $w _ { j , k }$ 表示小波包系数的值， $\tilde { \mathbf { \Gamma } } _ { w _ { j , k } } ^ { \sim }$ 表示阈值量化后小波包系数的估计值。
+
+软、硬阈值函数在实际中得到了广泛地应用，也取得了较好的去噪效果，但同时也存在各种缺陷。在硬阈值函数处理中，函数在 $\pm \lambda$ 处不连续，在信号重构时容易产生伪吉布斯效应，且去噪后仍有较明显的噪声残留；软阈值函数有较好的连续性，去除噪声也比较彻底，但处理后的小波包系数估计值 $\underset { w _ { j , k } } { \sim }$ 与原始小波包系数 $w _ { j , k }$ 之间存在恒定的偏差，对重构信号与真实信号之间的逼近度有较大的影响，出现失真[10-I1]。
+
+# 2.4改进阈值函数的构造
+
+通过以上的分析，希望阈值去噪阈值函数具有较好的连续性，且希望随着 $\left| w _ { j , k } \right|$ 值的不断增大， $\underset { w _ { j , k } } { \sim }$ 与 $w _ { j , k }$ 之间的偏差能够越来越小，且在 $\left| w _ { j , k } \right| < \lambda$ 的区域不是直接将函数值置0。基于上面的思想，本文提出了一种新的阈值函数，其表达式如下所示：
+
+$$
+\tilde { w _ { j , k } } = \left\{ \begin{array} { l l } { \displaystyle \mu w _ { j , k } + ( 1 - \mu ) s i g n ( w _ { j , k } ) \big \| w _ { j , k } \big \| - \lambda \log 2 \big ( \frac { \lambda } { w _ { j , k } } \big | ^ { n } + 1 ) \big ] } & { \bigg | w _ { j , k } \bigg | > \lambda } \\ { \displaystyle \operatorname { s g n } ( w _ { j , k } ) \frac { w ^ { 3 } j _ { j , k } } { \lambda ^ { 2 } } } & { \bigg | w _ { j , k } \bigg | \le \lambda } \end{array} \right.
+$$
+
+其中, $\mu$ 为调节因子, $\mu = 1 - e ^ { - \hat { \sigma } ( \left| w _ { j , k } \right| - \lambda ) ^ { 2 } }$
+
+考察函数的数学特性：
+
+1）函数的连续性
+
+$$
+\begin{array} { r l } & { \underset { w _ { j , k }  + \bar { x } ^ { + } } { \operatorname* { l i m } } \ \underset { w _ { j , k }  + \bar { x } ^ { + } } { \sim } \quad \underset { w _ { j , k }  + \bar { x } ^ { + } } { \operatorname* { l i m } } \{ \mu w _ { j , k } + }  \\ & { ( 1 - \mu ) s i g n ( w _ { j , k } ) [ | w _ { j , k } | - \lambda \mathrm { l o g } _ { 2 } \biggr \{ \frac { \lambda } { w _ { j , k } } \biggr | ^ { n } + 1 \} ] \} = } \\ & { \underset { w _ { j , k }  - \bar { x } ^ { + } } { \operatorname* { l i m } } \{ \mu w _ { j , k } + ( 1 - \mu ) [ w _ { j , k } - \lambda \mathrm { l o g } _ { 2 } ( \frac { \lambda } { w _ { j , k } } ) + 1 ) ] \} } \\ & { = w _ { j , k } } \\ & { = w _ { j , k } , } \end{array}
+$$
+
+且当 $w _ { j , k } = \lambda$ 时， $w _ { j , k } = w _ { j , k }$ ，因此，有$\operatorname * { l i m } _ { w _ { j , k }  + \lambda ^ { + } } = \operatorname * { l i m } _ { w _ { j , k }  + \lambda ^ { - } } = w _ { j , k }$ lim,=Wj,k，所以，函数在λ处连续。
+
+$$
+\begin{array} { c c l } { { } } & { { \displaystyle \operatorname* { l i m } _ { w _ { j , k } \to - \lambda ^ { + } } \quad _ { w _ { j , k } } = \quad \operatorname* { l i m } _ { w _ { j , k } \to - \lambda ^ { + } } \{ \mu w _ { j , k } + } }  \\ { { } } & { { } } \\ { { } } & { { ( 1 - \mu ) s i g n ( w _ { j , k } ) \| w _ { j , k } \| - \lambda \log _ { 2 } ( \left| w _ { j , k } \right| ^ { n } + 1 ) ] \} = } } \\ { { } } & { { } } \\ { { } } & { { \displaystyle \operatorname* { l i m } _ { w _ { j , k } \to - \lambda ^ { + } } \{ \mu w _ { j , k } + ( 1 - \mu ) ( - 1 ) [ ( - w _ { j , k } ) - } }  \\ { { } } & { { } } \\ { { } } & { { \lambda \log _ { 2 } [ ( - w _ { j , k } ) ^ { n } + 1 ] \} } } \\ { { } } & { { } } \\ { { } } & { { = - w _ { j , k } } } \end{array}
+$$
+
+且当 $w _ { j , k } = - \lambda$ 时， $w _ { j , k } = - w _ { j , k }$ ，因此，有$\operatorname * { l i m } _ { w _ { j , k }  - \lambda ^ { + } } = \operatorname * { l i m } _ { w _ { j , k }  - \lambda ^ { - } } = - w _ { j , k }$ =-Wj,k，所以，函数在-λ处也连续。
+
+通过上面的分析可知，新阈值函数在 $\pm \lambda$ 处都是连续的，克服了硬阈值函数不连续的缺点。
+
+2）函数的渐进性
+
+当 $w _ { j , k } \to + \infty$ 时，有
+
+$$
+\begin{array} { r l } { \underset { w _ { j , k } \to + \infty } { \operatorname* { l i m } } } & { \frac { w _ { j , k } } { j _ { k } } = \underset { w _ { j , k } \to + \infty } { \operatorname* { l i m } } } \\ &  - \frac { \underset { j _ { k } w _ { j , k } + ( 1 - \mu ) \{ w _ { j , k } \dots \middle \} \{ w _ { j , k } \dots \middle \} \} ^ { n } + 1 \mathrm { l i } } { w _ { j , k } } = } \\ & { \underset {  w _ { j , k } \dots + \infty } { \operatorname* { l i m } } ( ( 1 - \mu ) \lambda \log 2 [ ( \frac { \lambda } { w _ { j , k } } ) ^ { n } + 1 ] ) } \\ & { \underset { ( 1 ) \dots + \infty } { \operatorname* { l i m } } ( \mu + ( 1 - \mu ) - \frac { ( 1 - \mu ) \lambda \log 2 [ ( \frac { \lambda } { w _ { j , k } } ) ^ { n } + 1 ] } { w _ { j , k } } ) } \\ & { = 1 } \end{array}
+$$
+
+当 $w _ { j , k } \to - \infty$ 时，有：
+
+$$
+\begin{array} { r l } { \underset { w _ { j , k } \to - \infty } { \overset { \sim } { \operatorname* { i m } } } \frac { w _ { j , k } } { w _ { j , k } } = } & { \operatorname* { l i m } _ { j , k } \frac { \mu w _ { j , k } - ( 1 - \mu ) \{ - w _ { j , k } - \lambda \} \mathbf { \Theta } \mathbf { \Theta } \mathbf { \Theta } \mathbf { \Theta } \mathbf { \Theta } \mathbf { \Theta } \mathbf { \Theta } ^ { \lambda } ( \frac { \lambda } { w _ { j , k } } ) ^ { n } + 1 ] } { w _ { j , k } } } \\ { \underset { \mathrm { = } } { \overset { \sim } { \operatorname* { i m } } } \frac { w _ { j , k } } { w _ { j , k } \cdots \infty } ( \underset { w _ { j , k } \sim - \infty } { \overset { \mu \mu } { \operatorname* { i m } } } - 1 - \mu ) \frac { \log 2 [ ( \frac { \lambda } { w _ { j , k } } ) ^ { n } + 1 ] } { w _ { j , k } } } \\ & { = \underset { w _ { j , k } \sim - \infty } { \overset { \mathrm { i m } } { \operatorname* { i m } } } ( \mu + ( 1 - \mu ) + ( 1 - \mu ) \lambda \frac { \log 2 [ ( \frac { \lambda } { w _ { j , k } } ) ^ { n } + 1 ] } { w _ { j , k } } ) } \\ & { = 1 } \end{array}
+$$
+
+通过以上分析可知，有 $\operatorname* { l i m } \quad \frac { w _ { j , k } } { \ d t } = \quad \operatorname* { l i m } \quad \frac { w _ { j , k } } { \ d t } = 1$ Wjk=1，即函（204号 $w _ { j , k }  + \infty \ w _ { j , k } \quad w _ { j , k }  - \infty \ w _ { j , k }$
+
+数(13)是以 $\tilde { \mathbf { \Gamma } _ { w _ { j , k } } } = w _ { j , k }$ 为渐近线的，所以，随着 $\left| w _ { j , k } \right|$ 的值不断变大， $\tilde { \mathbf { \Gamma } } _ { w _ { j , k } } ^ { \sim }$ 的值不断逼近 $w _ { j , k }$ ，克服了软阈值函数中的恒定偏差问题。
+
+且在 $\left. w _ { j , k } \right. \leq \lambda$ 的区域，不是简单地将函数值直接置0，而是通过一个非线性的函数实现对阈值的压缩处理，在保证了函数连续性的同时也避免了函数的直接截断而引起的震荡效应，降低了重构语音信号与原始信号之间的误差。
+
+综上分析，新阈值函数较好地克服了软、硬阈值函数各自的缺点，提高了信号的重构精度，取得更好的去噪效果，具有较好的应用前景。
+
+# 3 实验结果及分析
+
+本文的语音样本是通过cooledipro 软件在实验室安静的环境下录制的一段“语音信号的处理过程"9.091s的语音信号，其采样频率为 $1 6 ~ \mathrm { k H z }$ ，采样精度为16位。采用Daubechies20小波进行5层分解。
+
+图2表示纯净语音信号波形图，图3表示添加了信噪比为5dB 的带噪语音信号波形图，图4表示硬阈值法去噪后的语音信号波形图，图5表示软阈值法去噪后的语音信号波形图，图6表示改进算法去噪后得到的语音信号波形图。从图6可以看出，本文的改进算法去噪后得到语音信号更加光滑，且噪声几乎被全部滤除，证明了该方法的有效性。
+
+另一方面，对去噪后的语音信号进行试听，通过对三种不同改进算法去噪后的语音信号清晰度和可懂度都是最高的，且最接近原始语音信号。
+
+![](images/8dfe7d2b390932084d16525b43518cf5da17638ec0de0df17927b8d277960d0c.jpg)  
+图2纯净语音信号
+
+![](images/e3543e9a67ad34b19e70bb25ef391c0a9ff8c136f8310af83436dd8dd18223fb.jpg)  
+图3带噪语音信号
+
+![](images/31b20b6cb3e8aa09e92b5733e4a9ae38a64695879abe0c74dd5dabaf63783a74.jpg)  
+图4硬阈值去噪算法
+
+![](images/7e995c976d98fde8aa97ebb38671c47626434e019c42b10e31c945cc7e0fbde4.jpg)  
+图5软阈值去噪算法
+
+![](images/0caf1093560b99a2c994da327f54cb865649e6d6c4fe57dc618034503c05365d.jpg)  
+图6改进算法的去噪效果
+
+为了进一步证明该方法的优越性，引入了信噪比和均方误差两个重要基准。信噪比(SNR)是信号能量与噪声能量之间的比例，反映的是信号的感知质量，其值越大越好；均方误差(RMSE)表示去噪后的估计值与实际值之间的相似程度，其值越小相似程度越高。输出信噪比和均方误差的定义式分别为
+
+$$
+S N R _ { o u t } = 1 0 1 \mathbf { g } \frac { \displaystyle \sum _ { k = 1 } ^ { N } s ^ { 2 } ( k ) } { \displaystyle \sum _ { k = 1 } ^ { N } [ s ( k ) - s ( k ) ] ^ { 2 } }
+$$
+
+$$
+R M S E = \sqrt { \frac { 1 } { 2 N } \sum _ { k = 1 } ^ { N } ( [ s ( \tilde { k } ) - s ( k ) ] ^ { 2 } ) }
+$$
+
+其中： $s ( k )$ 表示纯净语音信号， $\underset { s ( k ) } { \sim }$ 表示去噪后得到的语音信号。表1表示在相同条件下，当输入信噪比分别为-5.0,5,10dB时，3种去噪算法去噪后的SNR和RMSE间的对比。
+
+表1各种方法对语音信号的去噪指标  
+
+<html><body><table><tr><td rowspan="2">输入信噪比 SNRin|dB</td><td colspan="4">输出信噪比 SNRout dB</td><td colspan="2">均方误差</td></tr><tr><td colspan="2">硬阈值法</td><td colspan="2">软阈值法</td><td colspan="2">本文改进算法</td></tr><tr><td></td><td>SNR</td><td>RMSE</td><td>SNR</td><td>RMSE</td><td>SNR</td><td>RMSE</td></tr><tr><td>10</td><td>11.1501</td><td>0.0032</td><td>14.28</td><td>0.0021</td><td>21.3725</td><td>0.0012</td></tr><tr><td>5</td><td>8.2598</td><td>0.0046</td><td>9.79</td><td>0.0037</td><td>12.3502</td><td>0.0020</td></tr><tr><td>0</td><td>5.4367</td><td>0.0068</td><td>5.63</td><td>0.0065</td><td>7.8061</td><td>0.0038</td></tr><tr><td>-5</td><td>1.8796</td><td>0.0096</td><td>2.1298</td><td>0.0084</td><td>4.8205</td><td>0.0042</td></tr></table></body></html>
+
+从表1中可以看出，当输入信噪比相同时，本文提出的算法去噪效果明显，较好地还原出原始信号。以输入信噪比为0dB 进行具体分析：改进算法的输出信噪比为7.8061dB，是硬阈值算法的1.34倍，软阈值算法的1.39倍；改进算法的均方误差为0.0038，是硬阈值算法的0.37倍，软阈值算法的0.58倍，可见，本文提出的算法去噪效果最好。此外，本文还对几种去噪算法的时间复杂度进行了分析，硬阈值去噪算法在仿真时间上为 $0 . 5 4 7 5 \mathrm { s }$ ，软阈值去噪算法的时间为 $0 . 5 5 3 0 \mathrm { s }$ ，本文的算法去噪时间为0.7612s,这是由于涉及到对小波包系数进行Teager能量算子的计算，阈值的求解较为复杂，运算量有所增加，所以在运算速度上较前面两种算法稍微慢一点，但本文的改进算法在去噪效果上比其他两种算法均有很大的改善，总的来说，本文的去噪效果更好，具有更高的实用性。
+
+# 4 结束语
+
+本文提出了一种基于Teager能量算子的改进阈值函数的去噪算法，该算法针对常用去噪算法中小波包系数的混叠、阈值函数的不连续和恒定偏差等问题进行研究，首先通过计算小波包系数的Teager能量算子加大信号与噪声间系数的差距，利于阈值的选择，再通过构造的新阈值函数克服软硬阈值函数的伪吉布斯效应和恒定偏差等问题。通过实验对比分析了硬阈值法、软阈值法和改进算法的去噪效果，实验结果表明改进算法在信噪比与均方误差上均有较大的提升，证明了该算法的有效性。
+
+# 参考文献：
+
+[1]王蓓，张根耀，李智，等．基于新阈值函数的小波阈值去噪算法[J]. 计算机应用,2014,34(5):1499-1502.   
+[2]Stefan W, Chen K W, Guo HB,et al. Wavelet-based de-noising of positron emission tomography scans [J].Journal of Scientific Computing,2012,50 (3): 665-677.   
+[3]袁开明，舒乃秋，孙云莲，等．基于阈值寻优法的小波去噪分析[J] 武汉大学学报：工学版,2015,48(1):74-80.   
+[4]邵鸿翔，高宏峰．改进小波阈值去噪方法处理 FBG 传感信号[J].激光 与红外,2014,44 (1):73-76.   
+[5]Sanam T F, Shahnaz C.Noisy speech enhancement based on an adaptive threshold and a modified hard thresholding function in wavelet packet domain [J]. Digital Signal Processing,2013,23 (3): 941-951.   
+[6] 江虹，苏阳．一种改进的小波阈值函数去噪方法[J]．激光与红外,2016, 46 (1): 119-122.   
+[7]陈晓曦，王延杰，刘恋．小波阈值去噪法的深入研究[J].激光与红外, 2012,42(1):105-110.   
+[8]Lu Jingyi,Lin Hong,Ye Dong,et al.A new wavelet threshold function and denoising application [J].Mathematical Problems in Engineering,2016, 2016 (3): 1-8.   
+[9]Om H, Biswas M.An improved image denoising method based on wavelet thresholding [J]. Journal of Signal and Information Processing,2O12,3(1): 109-116.   
+[10]陈晓娟，王文婷，贾明超，等．基于小波熵自适应阈值的语音信号去噪 新算法[J].计算机应用研究,2014,31(3):753-755.   
+[11] Badiezadegan S,Rose R C.A wavelet-based thresholding approach to reconstructing unreliable spectrogram [J]. Speech Communication,2015,67: 129-142.

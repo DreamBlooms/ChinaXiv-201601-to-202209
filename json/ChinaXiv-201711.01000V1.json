@@ -1,0 +1,284 @@
+[
+    {
+        "type": "text",
+        "text": "回字形建筑在地震作用下的设计研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张秀华 张国辉",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（大连经济技术开发区规划建筑设计院，大连116000）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】本项目主楼平面尺寸为 $9 9 \\mathrm { ~ m ~ x ~ } 7 9 \\mathrm { m }$ ，高度为 $6 0 \\mathrm { m }$ ，由四个刚度不同的塔楼组成的回字形结构。针对工程的特点、超限情况，基于性能化结构抗震设计，在多遇地震作用下采用阵型分解反应谱法和弹性时程分析方法进行结构整体计算分析、稳定分析，对以上分析结果中的薄弱部位及关键部位采用相应构造措施，以保证抗震性能目标的实现。结果表明该结构体系是安全、可行的。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】超长结构；复杂工程；时程分析；大底盘；多塔楼",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【中图分类号】TU318【文献标识码】A 【文章编号】1674-7461（2016)01-0083-04  \n【DOI】10.16670/j.cnki.cn11-5823/tu.2016.01.15",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 项目概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "大名工业园项目位于大连市金州新区黄海西六路与东北大街交界处，为新区产业园配套的集办公、科研研发、公寓宿舍项目。回字形结构主楼为产业园标志性建筑。单体建筑总面积约7万 $\\mathbf { m } ^ { 2 }$ ，地上建筑面积约6万 $\\mathbf { m } ^ { 2 }$ ，地下建筑面积约1万 $\\mathbf { m } ^ { 2 }$ 。其中地下一层局部为核6级、常6级甲类防空地下室，局部为配套附属用房。地上一层功能为入户、办公大厅，层高 $6 \\mathrm { m }$ ；地上二层－五层功能为科研研发，层高 $5 . 4 \\mathrm { { m } }$ ；地上六层及以上为公寓宿舍，层高$5 . 4 \\mathrm { { m } }$ 。共计十一层，建筑总高度 $6 0 \\mathrm { m }$ ，建筑物平面呈回字形（见图1），尺寸为 $9 9 \\mathrm { ~ m ~ x ~ } 7 9 \\mathrm { m }$ ，其中内庭尺寸为 $5 1 \\mathrm { m } \\mathrm { ~ x ~ } 4 7 \\mathrm { m }$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 结构体系",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "工程所在地抗震设防烈度为7度，设计地震分组为第一组，设计基本地震加速度值为 $0 . 1 5 \\mathrm { g }$ ，水平地震影响系数最大值为0.12（多遇地震作用下），场地类别：二类(场地特征周期为0.35s），结构阻尼比为0.05，整体结构呈回字形，属于平面不规则形状建筑，同时结构平面尺寸超出《混凝土结构设计规范》GB50010-2010条文8.1.1伸缩缝最大间距较多。整体上柱网尺寸约为 $5 . 7 \\mathrm { m } \\mathrm { x } 8 . 1 \\mathrm { m }$ ，局部布置少许剪力墙。由于建筑物使用功能所限东、西建筑物（图2中第2、4塔楼）地上一层为入户大厅等大空间，同时地下室为机械车位，布置剪力墙受限，只能采用框架结构；竖向高度超过《高层建筑混凝土结构技术规程》JGJ3-2010条文3.3.1中A级框架最大适用高度 $20 \\%$ 。南、北建筑物（图二中第1、3塔楼)充分利用竖向交通房间布置剪力墙，可以采用框架-剪力墙结构。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/92b5f498aea7c1e0a6ef51637d076abab673de58c14e3dacdfb74404e600e0b3.jpg",
+        "img_caption": [
+            "图1标准层建筑平面图"
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/baa46981a631d08fe5979b5604433c8528e6578be8a992f8851771230153249f.jpg",
+        "img_caption": [
+            "图2结构方案一"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/598553dc9aeb4aa4c9002bb676bb4d27b65eb3bcb530744f84ffc44b3fa68167.jpg",
+        "img_caption": [
+            "图3结构方案二"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "功能要求高端、复杂的同时给结构设计造成很多困难。经过多方案的比较，最终确定上部结构不设缝，结构为一整体大塔楼（见图3），这样在结构设计上虽为一整体，但是四部分刚度相差较悬殊，通过增减剪力墙使其整体结构双方向动力特性接近，同时对薄弱部位进行加强，方便达到抗震设防目标。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "结构主体计算高度为 $6 0 \\mathrm { ~ m ~ }$ ，根据计算确定为框架-剪力墙结构，钢筋混凝土主梁 $^ +$ 大板楼面体系，框架柱截面采用 $9 0 0 \\sim 6 0 0 \\mathrm { m m }$ ，核心筒及剪力墙墙体厚 $4 0 0 \\sim 2 0 0 \\mathrm { m m }$ ，混凝土采用C50-30混凝土。为控制主体扭转和侧向位移，结合主体内庭凹角处设置阴角抗拉加腋梁板。加腋梁板单向全截面纵向总配筋率均不小于 $1 \\%$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3结构设计与计算",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为确保工程安全可靠，全面分析本项目各种地震作用的不利情况，对本项目结构方案选取做了专门分析，结构方案一为设置四条伸缩缝，将主体切割成四个独立矩形结构塔楼（见图2），采取各自独立结构体系分析计算，结构方案二为整体不设缝，按回字形楼设计（见图3）对主体进行薄弱计算，针对薄弱部位采取相应加强措施。两种方案主要计算结果见表1、2、3。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/5c5c97ce3414b57aa44aa31f3d2a8ca5e0b263ca6f6c5569d7cea7585933295e.jpg",
+        "table_caption": [
+            "表1整体结构总质量、基底剪力、有效质量系数表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>位置</td><td>总质量 （t）</td><td>X向基底 剪力（KN)</td><td>Y向基底 剪力（KN）</td><td>有效质量 系数</td></tr><tr><td>塔楼1</td><td>49153.434</td><td>10566.66</td><td>12995.35</td><td>>90%</td></tr><tr><td>塔楼2</td><td>12793.325</td><td>2711.36</td><td>2784.65</td><td>>90%</td></tr><tr><td>塔楼3</td><td>53917.504</td><td>10798.86</td><td>13577. 61</td><td>>90%</td></tr><tr><td>塔楼4</td><td>15979.977</td><td>3565.37</td><td>3480.12</td><td>>90%</td></tr><tr><td>方案二整体</td><td>128184.742</td><td>36024.86</td><td>28006.80</td><td>>90%</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/0f78771bb106a2ebf23be76c3876f81e6e107377420f3486be305a866a43e59c.jpg",
+        "table_caption": [
+            "表2最大层间位移角、最大位移比表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>位置</td><td>X最大层 间位移角</td><td>Y最大层 间位移角</td><td>X最大 位移比</td><td>Y最大 位移比</td></tr><tr><td>塔楼1</td><td>1/1124 （层8）</td><td>1/1386 （层8）</td><td>1.11 （层1）</td><td>1.21 （层1）</td></tr><tr><td>塔楼2</td><td>1/799 （层4）</td><td>1/605 （层4）</td><td>1.21 （层1）</td><td>1.03 （层11）</td></tr><tr><td>塔楼3</td><td>1/1082 （层8）</td><td>1/1242 （层8）</td><td>1.39 （层12）</td><td>1.25 （层1）</td></tr><tr><td>塔楼4</td><td>1/775 （层4）</td><td>1/581 （层4）</td><td>1.18 （层3）</td><td>1.03 （层11）</td></tr><tr><td>方案二整体</td><td>1/1390 （层8）</td><td>1/1055 （层7）</td><td>1.28 （层1）</td><td>1.09 （层1）</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/2144d522241cad56c747685fe3eaef6505b6b4f352e107c8c63521175c078037.jpg",
+        "table_caption": [
+            "表3整体结构周期表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>位置</td><td>第一周期 (s)</td><td>第二周期 (s)</td><td>第三周期 (s)</td><td>周期比</td></tr><tr><td>塔楼1</td><td>1.79(X)</td><td>1.58(Y)</td><td>1.40(N)</td><td>0.78</td></tr><tr><td>塔楼2</td><td>2.73(Y)</td><td>2.28(X)</td><td>2.12(N)</td><td>0.78</td></tr><tr><td>塔楼3</td><td>1.91(X)</td><td>1.71(Y)</td><td>1.53(N)</td><td>0.80</td></tr><tr><td>塔楼4</td><td>2.78(Y)</td><td>2.42(X)</td><td>2.29(N)</td><td>0.82</td></tr><tr><td>方案二整体</td><td>1.99(Y)</td><td>1.78(N)</td><td>1.47(X)</td><td>0.89</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用结构方案一，问题主要集中在二、四塔楼，由于布置Y方向剪力墙受限，仅X方向布置剪力墙，这样的结构布置严重不符合《高规》7.1.1条文抗震设计时，不应采用仅单向有墙的结构布置要求，且结构两方向结构动力特性相差悬殊，不具备良好的空间工作性能，结构体系只能采用框架结构，这本身是不利的，超出了《高规》条文3.3.1条A级框架最大适用高度 $5 0 \\mathrm { m }$ 较多，对这类结构应通过专门研究，需要采取型钢混凝土构件、钢管混凝土构件等有效加强措施，并按建设部要求做专项审查。在实际中方案一是不可采用的结构方案，但是可以看出在脱离整体的独立二、四塔楼纯框架结构自身的安全可靠度和柱底剪力反应。方便与其他结构方案比较时提供对结构有利的数据分析。通过结构计算数据可知针对本工程而言周期明显过大、基底剪力过小导致整体结构过柔。也证明《高规》对框架结构最大适用高度的规定合理性。通过规范及结合地区经验，抗震设防烈度7度区，地震加速峰值为 $0 . 1 5 \\mathrm { g }$ 地区纯框架结构超过 $3 0 \\mathrm { m }$ 结构整体刚度已经较弱，且不经济实用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "结构方案二为本工程实际方案，对其进行着重分析，首先取消四条伸缩缝，这样可以使刚度较弱的第二、第四塔楼依附在刚度较强的第一、第三塔楼使其形成一个大的整体塔楼，整体做成框架-剪力墙结构。这样可以避免超高框架的专项审查，也避免了结构体系的不合理性。从整体的计算结果可以看出，结构的刚度比、位移比、受剪承载力比等各项比值均符合规范要求。与方案一相比，总质量基本没有差别，但是方案二的X方向基底剪力大于方案一的基底剪力之和，Y方向基底剪力与方案一的基底剪力相当的原因是整体计算时方案二Y向剪力墙有减少导致。进一步分析结构方案二各阵型的结构地震作用的贡献。通过各阵型下的结构振动情况可以看出，结构第一、三阵型以平动为主。第二阵型便提前出现平扭结合的混合振动。其余高阶振型下地震作用均较小。考虑到本项目体量模型较大，高度较矮，且局部存在层间梁。第二周期提前出现扭转分子很难避免，周期比0.89满足《高规》3.4.5条不大于0.9要求。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4弹性动力时程分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "针对本项目平面较不规则，且竖向层高较高，在进行地震反应谱计算的同时也对整体结构进行多遇地震下弹性动力时程分析补充计算，主要与反应谱计算结果的基底剪力、楼层剪力、和层间位移角进行比较，并对相关部位的构件内力和配筋做相应的调整。根据工程场地实际情况再结合频谱特性、有效峰值和持续时间选用分析软件内存的两条地震波TH1TG040、TH2TG040，和一条人工波RH3TG040三组加速度时程曲线，从分析结果中可以看出，补充计算出来的最大层间位移角、最大楼层位移均符合规范要求（图4）。计算结果在结构主方向的平均底部剪力不小于振型分解反应谱法计算的结果的$80 \\%$ ，单条地震波输人的计算结果均大于 $6 5 \\%$ ，同时单条输入单条地震波计算结果均不大于 $1 3 5 \\%$ ，平均每条地震波计算结果不大于 $120 \\%$ （图5）。三组时程波的平均地震影响系数与振型分解反应谱法所用的地震影响系数曲线相比，在对应的结构主要振型的周期点上相差小于 $20 \\%$ （图6）。符合时程分析结果的最低安全要求。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2a70308c1054292fd6072a09b27f992ac45d80ce41590e39f108a71320ac11b4.jpg",
+        "img_caption": [
+            "图4最大楼层位移曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fb583fcd2ee4f72b5cd4f1946614eab10b326884be3578272668b70e9ef38d72.jpg",
+        "img_caption": [
+            "图5最大楼层剪力曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fc6d9ca7145feeea63d9cfbd107fbad8dbf5cb3ac461e6d76d52b5fc1db57690.jpg",
+        "img_caption": [
+            "图6规范谱与地震波谱对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "弹性时程分析计算结果与阵型分解反应谱结果相比较，Y方向最大楼层剪力在天然波TH1TG040作用下，3层 $\\sim 8$ 层地震力比反应谱作用下地震力约大 $3 \\% \\sim 1 1 \\%$ ；在天然波TH2TG040作用下，9层～12层地震力比反应谱作用下地震力约大 $2 5 \\%$ \\~$3 3 \\%$ 。 $\\mathrm { \\Delta X }$ 方向最大楼层剪力在天然波TH2TG040作用下，9层～12层地震力比反应谱作用下地震力约大 $20 \\% \\sim 3 0 \\%$ 。对于顶部楼层的剪力大于反应谱计算的部分，反映了高柔结构高振型的强烈反应即整体结构鞭梢效应明显。结构设计时将取用计算结果的包络值，在反应谱基础上将内力放大调整，进行构件补充计算。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5结语 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "随着科学技术的进步，房屋的高度可以越建越高，体量模型可以越建越大，这是自然规律。规范、规程中各种结构体系的“最大适用高度”并非“限制高度”。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "所谓“最大适用高度”的含义更多的是指综合考虑不同结构体系的抗震性能、经济性和合理适用及震害经验诸多方面的适用最大高度，若本项目采用方案一进行分缝设计，二、四塔楼采用框架结构不是不可以设计成 $6 0 \\mathrm { m }$ ，是明显不合理且存在缺陷的。不合理的方案必然有不合理的结果，分缝带来的后果是还有一、三塔楼会形成核心筒偏置的框架-剪力墙结构，使其部分框架柱产生拉应力，对结构自身不利和给基础产生没必要的负担，需要增加部分足够刚性的剪力墙等措施来调整改善结构性能。同时目前软件程序仍然存在对多塔楼结构分析功能不完善的情况。而如果从另一个角度看本项目，把回字形看成一个大方减去一个小方（无缝设计），只需考虑有哪些不利因素即可。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "工程方案目前已通过专项审查，进入施工图设计阶段。本项目结合实际情况做了两种方案进行比较。在多遇地震作用下分别采用阵型分解反应谱法和弹性时程分析方法进行结构整体计算分析，并采用包络设计以保证抗震性能目标的实现。通过计算结果表明该结构体系是安全、可行的。由于篇幅所限，本工程针对超长结构、少墙框架结构采取加强等措施将会后续写作。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1］GB50010-2010混凝土结构设计规范[S]．北京：中国建筑工业出版社，2010.  \n[2］GB50010-2010建筑抗震设计规范[S].北京：中国建筑工业出版社，2010.  \n［3］JGJ3-2010高层建筑混凝土结构技术规程[S]．北京：中国建筑工业出版社，2010.  \n[4］《PMCAD用户手册及技术条件》.中国建筑科学研究院PKPMCAD工程部编.  \n[5］《SATWE用户手册及技术条件》.中国建筑科学研究院PKPMCADT程部编.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Research on the Design of the Back-Shaped Building under Earthquake ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Zhang Xiuhua，Zhang Guohui ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(Dalian Economicand Technical Zone Architectural Design&Plan Institute,Dalian116oo,China） ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The main building of this project is $9 9 \\mathrm { ~ m ~ x ~ } 7 9 \\mathrm { m }$ with a height of $6 0 \\mathrm { m }$ . The structure is composed of towersof4diferent rigidity.This paper investigatesthesystemcharacteristicsandthe seismicperformances of the structure.Under theactions of multipleearthquakes,thedecompositionreactionanalysisand elastictimehistory， analysisareused to carryout calculation and stability analysisof thewhole structure.Some constructional measures were employed to enhancethe seismic performances of weak components soas to ensure the seismic safety of the building.The results indicate that this structure systemis safeand feasible. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:Super-long Structure；Complex Engineering；Elastic Time History Analysis；Enlarged Base； Multi-tower Building ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "万方数据",
+        "page_idx": 3
+    }
+]

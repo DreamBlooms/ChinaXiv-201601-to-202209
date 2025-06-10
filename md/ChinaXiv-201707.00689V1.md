@@ -1,0 +1,146 @@
+# 干细胞3D支架的研究进展
+
+Advances in Stem CelI 3D Scaffolds1徐竹 诸葛启 黄李洁
+
+Xu Zhu，Zhuge Qichuan，Huang Lijie（温州医科大学附属第一医院神经外科温州325000）
+
+(Departmentof Neurosurgery，First Afiliated Hospital，Wenzhou Medical University，Wenzhou 3250o,China）
+
+摘要干细胞是一类增殖潜力无限，可自我更新的细胞，不同的培养或诱导条件下能够分化成为不同的细胞类型。目前，随着医学治疗手段以及干细胞研究的不断发展，发现干细胞可运用于很多疾病的治疗，干细胞临床应用日益广泛，逐渐成为科研工作者研究的热点。然而干细胞移植进入生物体后繁殖效率很低，无法达到需求的量，因此如何对干细胞在生物体外进行大量培养扩增、在生物体内如何更稳定地增殖分化成为迫切需要解决的难题。当前干细胞最主要的培养方法仍是2D培养，2D培养无法模拟体内的3D微环境，繁殖效率较低，正是由于2D培养局限性太多，促使国内外学者对3D培养技术和3D支架材料进行深入探索，并取得了大量成果，本文便是对3D培养技术在干细胞中的发展与应用进行综述。
+
+Abstract Stem cells are a class of proliferative potential infinite, self-renewing cells that can differentiate into different cell types under different culture or induced conditions.At present,with the development of medical treatment and stem cell research， it is found that stem cells can be used in the treatment of many diseases, and the clinical application of stem cells is becoming more and more popular. However, stem cell transplantation into the living body after the breeding efficiency is very low,can not meet the demand， so how to expand stem cells,make them more stable proliferation and differentiation into an urgent need in vivo is waiting us to solve. Currently，the main culture method of the stem cells is still 2D culture. 2D culture can not simulate the 3D microenvironment in the body，and the breeding efficiency is low. It is because of the limitations of 2D culture,which makes the domestic and foreign scholars to carry out 3D culture technology and 3D scaffold Depth exploration, and achieved a lot of results, this article is mainly about 3D culture technology in stem cells in the development and application.
+
+关键词 干细胞　3D微环境　3D培养　支架Key Words stem cell； 3D microenvironment； 3D culture; scaffold
+
+目前，干细胞的培养大部分是在2D培养基或2D培养环境下进行的，而其在生物体内的增殖分化的天然环境应为3D体系，普通的2D培养仅在一个平面上支持干细胞生长，无法再现生物体内三维立体微环境境。2D培养环在生物活性，培养基结构、营养物质的释放等很多方面均远不及3D培养，使干细胞逐渐丧失其原有的性状、形态、结构和功能，其研究的结果与体内试验结果经常不一致，精确性较低，所提供的培养环境与生物体内微环境千差万别，必然对干细胞的增殖分化产生负面作用。关于细胞3D培养的研究已变得更加至关重要和富有成效"，如今3D干细胞细胞培养技术受到广泛关注，且发展迅速，这种培养方法获得的细胞在研究细胞的生物关联性、细胞数量监控，生存能力，形态学，增殖分化，对刺激的应答，基因表达，蛋白质合成等方面相对于2D培养具有显著优势[2。3D干细胞培养不仅可以精确模拟，再现体内干细胞生长的物质结构，还可以使培养的微环境更好的贴近于体内水平，对于细胞的稳定性提高及寿命延长具有显著意义，正是由于3D培养的精确性高，能为组织工程研究提供准确可靠的实验数据，所以将干细胞运用到医学治疗领域的关键在于如何
+
+构建适宜的3D支架，使干细胞在生物体内稳定地增殖分化。
+
+# 1 3D 培养技术
+
+干细胞在生物体内扩增、发育、功能再现主要通过生物微环境中的细胞、分子彼此之间的作用。干细胞在3D培养支架中的生长状态接近于自然生长状态，相对于传统的2D培养，干细胞在形态学，功能结构，基因表达等方面的表现更加优异。3D培养支架中适宜的空隙结构、表面活性、机械强度及生物相容性，使干细胞更好地在3D材料上粘附、增殖、分化，建立支架内部各组分与干细胞间的紧密联系及动态相互作用，形成一定的3D结构。3D培养所提供的生物微环境与体内细胞生长环境相似度较高，可以更清晰地观察干细胞的表型和功能，除此之外，通过改变3D培养的微环境，可以研究细胞活力，形态的变化情况，以及对细胞的增殖、分化、凋亡和细胞形态发生等的影响[3]。所构建的3D培养环境高度还原体内微环境，对于干细胞生长的监视，控制较直观。3D支架材料的不断涌现，使3D培养技术发展迅猛，3D支架适宜的物理、化学和生理条件，以及独特的空间建构，让干细胞处于生长繁殖的最佳状态，从而获取大量功能正常、可用于医学治疗干细胞。
+
+# 2 支架材料
+
+# 2.1 天然材料
+
+天然材料大部分为细胞外基质（ECM），在细胞各项生命活动中扮演重要角色，主要包含蛋白，多糖和蛋白聚糖等物质，不仅构成细胞骨架，维持细胞形态，还可以影响细胞迁移、增殖分化，调节细胞的生理功能。
+
+胶原：胶原是细胞外最重要的基质之一，是3D支架构建中应用最多的材料，现在已有19种胶原被鉴定识别，最常见的是I、II、IⅢ型，组织工程中使用较多的是I型。胶原凝胶制作的3D支架所构建的微环境适宜细胞的生长，其结构功能与机械性能良好，在生物相容性、免疫原性等方面表现均比较良好,来源于生物体内，故毒性低，生物可降解性好[4]。GuanJ等5以胶原为支架构建的3D培养系统，联合骨髓间充质干细胞BMSCs导入生物体内治疗神经系统疾病。
+
+透明质酸：透明质酸是ECM中普遍存在的一种多糖类物质，呈酸性。其降解速率适宜，机械强度和生物活性均较为理想[。透明质酸凝胶可形成疏松多孔的3D微环境，维持干细胞的球形状态，更重要的是有利于保持干细胞在长期体外培养过程中的增殖能力和未分化状态，维持干细胞的分化潜能。研究表明透明质酸支架很好地支持多能干细胞、神经干细胞生长，并诱导其分化发挥治疗作用[]。
+
+纤维蛋白：在介导细胞之间的信号传递方面，纤维蛋白优于其他细胞外基质，很早便作为支架材料应用于生物医学领域，组织相容性好，易于体内降解[8]。研究表明纤维蛋白支架尤其适合培养 BMSCs[9]，改变支架中纤维蛋白原、凝血酶和钙离子浓度可明显影响支架的结构和功能，因此将三者合理搭配便可得到组织工程所需的适宜的支架，通过它们对干细胞的增殖分化进行调节。
+
+壳聚糖：是一种碱性多糖，来源较广泛，现在广泛应用于组织工程领域[0]，亲水性、可降解性、生物相容性等方面表现良好[1]，能促进细胞的增值与分化。Malafaya 等以壳聚糖所构建的3D支架，导入生物体内展现了良好的机械性能，在一定压力负荷下仍然可以保持较好的弹性[12]，目前壳聚糖支架广泛运用于骨髓间充质干细胞的培养，且用于修复骨、软骨和肌腱的损伤[13]。
+
+# 2.2 合成材料
+
+合成材料有良好的生物降解性、机械性能可控以及便于加工等优点[14,在生物体内，降解产物为水和二氧化碳，因而毒性作用很小，几乎不会蓄积于生物体内，是安全的高分子材料，适合作为3D支架材料。
+
+聚乳酸（PLA)化学性质稳定，导入生物体内可稳定存在，其生物相容性、可降解性、可吸收性良好[15]。与胶原和纤维蛋白等细胞外基质相比，PLA具有明显优势，比如PLA可适应不同的要求，通过其分子量的调节，而且具有丰富的加工手段，因而成为最具竞争力的生物材料之一，广泛应用于支架、医药等领域。
+
+聚己酸内酯（PCL）抗压性能高，有较好的可塑性和细胞粘合性，且加工方式简便，所构建的3D支架对细胞生长繁殖有很好的促进作用,生物相容性好，因此其研制与开发日益受到人们的重视。
+
+聚乳酸-羟基乙酸（PLGA）其优势降解速度可控，生物体内可水解为乳酸和羟基乙酸，均为生物体代谢产物，因此毒性低，既可作为支架材料也可作为细胞因子缓释的载体，国内学者通过实验表明PLGA作为载体具备良好的生物学活性支持骨髓间充质干细胞（BMSCs）增殖分化，且BMSCs复合PLGA支架导入脊髓损伤大鼠体内观察到脑源性神经营养因子表达明显增多[16]。
+
+聚乙烯对苯二甲酸酯（PET）作为3D的支架材料其优势在于在较宽的温度范围内仍然具备良好的力学性能，而且支架渗透性好，孔隙率高，其独特的三维结构可提供给细胞一个仿生的生物微环境。Ouyang等用PET支架培养，扩增胚胎干细胞（ESCs），通过实验表明PET支架可使细胞免受剪切力的损伤，且ESCs 在孔径小的PET 支架上生长速度较快[1]。
+
+# 2.3 新型复合材料
+
+复合支架，是将几种不同的材料通过化学或物理方法所合成的新支架，新型复合支架主要包括两大类，一类为天然材料ECM之间相复合，另一类为天然材料ECM与合成材料复合形成的混合支架材料。单一材料均存在各自的缺陷，单独构建3D支架局限性较多，无法较好的模拟生物体内特殊的3D微环境。新型支架能克服彼此的缺点，优势相互结合，达到扬长避短，促使干细胞在最接近生物内环境的3D体系中增殖分化。比如：ECM组织相容性好，干细胞粘附增殖效果好，但力学性能差，降解速度较难控制；合成材料力学性能优异，降解速度可调控，但组织相容性差，通过组织工程手段将两者复合既提高了生物活性，又可控制降解速率。故复合支架是如今3D干细胞培养研究的热门，所构成的微环境对于干细胞的粘附、分化、增殖具有明显的优势[18]。
+
+# 2.3.1天然材料相互复合
+
+不同的天然材料共混是提高3D干细胞培养支架的重要手段，不同的材料按不同的比例进行共混所得到的支架各方面性能均有改善，随着3D培养的需求和发展更多的复合支架势必涌现出来，常见的几种天然材料复合如下：
+
+丝素蛋白／壳聚糖：壳聚糖细胞粘附性较差，丝素蛋白容易吸附细胞，但降解速度慢，且对干细胞增殖分化有促进作用。两者共混形成的支架，可很好的改善壳聚糖粘附性差的缺点，促进干细胞增殖分化，两种材料优势互补，形成吸水量高，水分氧气通透性好的支架。
+
+胶原／纤维蛋白：胶原虽然应用最广泛，但缺陷在于中性环境中很难降解，导致细胞因子和蛋白分散不均，外部营养物质较难扩散到支架内部。纤维蛋白力学强度差，当胶原与纤维蛋白复合后证实力学强度较好，同时可保证营养物质的可控制释放。研究表明，新支架三维结构清晰、空隙的大小均匀，脐带间充质干细胞在新支架上生长良好，还有利于各种细胞因子的缓释[19]。
+
+透明质酸／丝素蛋白：研究表明两者共混可形成多孔支架[20]，有利于间充质干细胞的铺展、粘附、增殖，具备合适的空隙、孔隙率，生物相容性。最大优势在于相对于单纯的丝素蛋白而言，共混支架拥有更优异的多孔三维结构，对于干细胞培养优势明显。
+
+# 2.3.2天然材料与合成材料复合
+
+天然材料与合成材料复合是干细胞支架研究的热门，天然材料的生物相容性固然优异但机械强度普遍较差，合成材料非生物体内组分故生物活性稍差，但经化学工艺加工后力学强度明显优于天然材料。除此之外，合成材料虽毒性低，但部分移植入生物体后可引起炎症排斥反应，研究表明包被ECM后有效减少了合成材料与组织的接触，有效减轻炎症反应。两者复合正好取长补短。所构建的新型支架各方面性能均有显著提高，随着组织工程的进步，其他有机材料加入进一步对支架进行修饰，使干细胞的生长微环境无限接近自然状态，对其大规模、高质量培养具有深远意义。常见的天然材料复合合成材料支架如下：
+
+聚己内酯PCL／壳聚糖：PCL力学性能虽好，但生物活性差且高度疏水，经壳聚糖进行修饰后，支架的亲和性明显提高，并更有利于干细胞在支架上粘附增殖。经研究发现，相对于单纯的合成材料，PCL／壳聚糖支架的空隙内生长的细胞数量更多[21]，同时，壳聚糖修饰后，支架的生物疏水性得到改善。
+
+PLGA/丝素蛋白：丝素蛋白作为支架材料降解速度较慢，因此移植入生物体内之后影响组织的生长，研究者将PLGA与丝素蛋白结合起来22，新的支架降解速度可控。丝素蛋白充足的力学性能加上PLGA对降解速度的控制，新型支架优势明显提高，且研究发现MSC(间充质干细胞)粘附效果有改善。
+
+聚乳酸／丝素蛋白：丝素蛋白作为天然高分子物质，机械性能好，易降解，可很好地改善聚乳酸机械性能欠佳的缺点。且复合支架亲水性好，可使支架保持高水性，当丝素蛋白和聚乳酸按40：60的质量比进行复后后对细胞增殖的效果尤其明显。
+
+纤维蛋白／聚己内酯PCL：研究者将PCL支架在 $\mathrm { 4 ^ { \circ } C }$ 环境中包被纤维蛋白24h，分别将造血干细胞接种于复合支架以及2D培养基中，造血干细胞总细胞数目增加前者是后者的1. 5倍[23]。
+
+PLGA／胶原：胶原机械强度差，复合PLGA后机械强度接近人松质骨，且人来源的骨髓间充质干细胞（hBMSCs）在支架上粘附效果较好，与2D培养相比，hBMSCs在新型支架上培养7天后细胞总量翻了七倍[24]。
+
+# 33D细胞培养技术在干细胞中的研究
+
+# 3.13D干细胞培养支架特征
+
+以培养皿或孔板为介质的2D平面培养如今仍是干细胞培养最常见的方式，这种培养方式操作简单，而且价格便宜，细胞进行传代、计数等操作较方便，但最大的缺点是生物体内的3D微环境无法模拟，干细胞接种的效率很低，不利于干细胞的大批量扩增，属于静止培养，使得细胞的传质受到很大的限制，不易放大。随着蛋白修饰的运用以及纳米材料的发展[25,3D培养的扩增效果进一步提升，较传统的干细胞培养方法，3D干细胞培养技术使干细胞的产量得到很大的提升，3D 干细胞培养支架必须满足以下特征[2627]：
+
+(1)三维多孔结构，适宜的空间结构和孔隙率，有利于干  
+细胞的黏附、生长增殖。(2)较好的生物相容性，支架材料对干细胞无毒性作用，  
+可以和干细胞稳定结合，且干细胞在生物体内不会诱发排斥  
+或炎症反应等。(3)具备生物可降解性，支架可在生物体内自行降解。降  
+解速度应保持一个适宜范围内，过慢会蓄积体内影响组织生  
+长，过快则无法起到支持干细胞生长的效应。(4)良好的表面活性，有利于干细胞与支架结合，可附带  
+更多的生长因子，对其表达和释放也具有较好的促进作用。
+
+(5)良好的成型能力和合适的力学强度，良好的力学强度是其能够维持细胞生长空间的先决条件。支架的强度需和生物体内力学强度相匹配，这样才能长期稳定存在，否则无法承受生物体内负荷而损坏。
+
+# 3.2 3D干细胞培养系统
+
+3.2.1旋转式细胞培养系统（ROTARYCELLCULTURE SYSTEM，RCCS)
+
+通过反应器的不断旋转，从而在普通实验室内，模拟微重力环境，系统内的各种成分混合均匀，细胞在微重力环境可向任意方向进行生长，营养物质传递效率高，很好的促进细胞增殖，同时减少细胞的凋亡 $2 6 ^ { [ 2 8 ] }$ 。
+
+# 3.2.2搅拌式生物反应器
+
+搅拌式生物反应器本身具备混匀功能，使培养基中各种成分混合均匀，从而保证干细胞生长环境中的各项指标在其生理范围内。搅拌式生物反应器另一个优势在于当培养基某一成分发生变化时，通过内部监测仪器可进行清楚监测，并通过人工干预及时纠正，适用范围广，悬浮细胞、贴壁细胞均可用该反应器培养[29]。
+
+# 3.2.3灌注生物反应系统
+
+最突出的优势在于系统内的营养物质可不断进行补充，同时将旧的培养液不断引出系统，废弃的培养液中不含细胞，这样不仅使细胞的养分充足，还可以减少毒性产物的蓄积，使细胞保持在最佳的生长状态，培养细胞的密度及质量可明显得到提高[30]。
+
+# 4结束语
+
+传统的2D培养已无法满足我们对于干细胞的需求，且存在很多缺陷，因而3D干细胞培养的研究越来越受到重视和推广，对于3D干细胞培养而言，其先决条件是构建适宜的3D支架。作为强有力的体外模型，随着组织工程技术的不断成熟，各种人工合成的高分子材料的涌现，3D干细胞培养系统发展必将有一个飞跃式的发展，但目前存在较多问题，比如细胞外基质（ECM）的成分与干细胞之间的作用机制探索不够彻底，所构建3D培养环境与生物体内的天然环境仍然存在明显差异，如何进一步优化，模拟体内环境；干细胞在支架上的分布如何才能更加均匀；如何对支架材料进行改善，使其不仅和干细胞稳定结合，还能在生物体内稳定存在。如果这些问题都能得到圆满的解决，相信干细胞应用于临床治疗的前景必将十分光明，对于现代医学的发展也将产生极大的促进作用。
+
+[1]Marlow R,Dontu G. Modeling the breast cancer bone metastatic niche in complex three-dimensional cocultures. Methods in molecular biology，2015, 1293:213   
+[2]AntonD，BurckelH,JossetE，etal. Three-Dimensional Cell Culture:A Breakthrough in Vivo. International Journal of Molecular Sciences, 2015，16(3): 5517-27.   
+[3] Elliott N T,Yuan F.A review of three -dimensional in vitro tissue models for drug discovery and transport studies.Journal of Pharmaceutical Sciences，2011，100(1):59-74.   
+[4] Glowacki J, Mizuno S. Collagen scaffolds for tissue engineering. Biopolymers， 2008,89(5):338 - 44.   
+[5]Guan J， Zhu Z, Zhao R C,et al. Transplantation of human mesenchymal stem cells loaded on collagen scaffolds for the treatment of traumatic brain injuryin rats.Biomaterials， 2013， 34(24): 5937 - 46.   
+[6] Laurent T C,Lanrent UB, Fraser JR. Functions of hyaluronan. Annals of the Rheumatic Diseases,1995, 54(5): 429-32.   
+[7] Lam J，Lowry WE,Carmichael S T,et al.Delivery of iPS-NPCs to the Stroke Cavity withina Hyaluronic Acid Matrix Promotes the Differentiationof Transplanted Cells. Advanced Functional Materials, 2014，24(44):7053-62.   
+[8] Banihashemi M, Mohkam M, Safari A， etal. Optimization of Three Dimensional Culturing of the HepG2 Cell Line in Fibrin Scaffold.Hepatitis Monthly，2015，15(3).   
+[9]BensaiD W,Triffitt J T,Blanchat C,et al．A biodegradable fibrin scaffold for mesenchymal stem cell transplantation.Biomaterials，2003,24(14) : 2497-502.   
+[10]Dhandayuthapni B, Krishnan U M, Sethuraman S. Fabrication and characterization of chitosan-gelatin blend nanofibers for skin tissue engineering.Journalof Biomedical Materials 参考文献 Research Part B Applied Biomaterials,2010,94(1): 264-72.   
+[11] Chen Z, Zhao M, Liu K,et al．Novel chitosan hydrogel formed by ethyleneglycol chitosan, 1,6-diisocyanatohexan and polyethylene glycol-400 for tissue engineering scaffold: in vitro and in vivo evaluation.Journal of Materials Science Materials in Medicine,2014，25(8):1903-13.   
+[12] Malafaya P B, Oliveira JT,Reis R L. The effect ofinsulin-loaded chitosan particle-aggregated scaffolds in chondrogenic differentiation. Tissue Engineering Part A, 2010,16(2): 735-47.   
+[13] Charbord P,Livne E,Gross G,et al． Human Bone Marrow Mesenchymal Stem Cells:A Systematic Reappraisal Via the Genostem Experience. Stem Cell Reviews & Reports，2011，7(1):32-42.   
+[14] Hu J， Ma P X. Nano-Fibrous Tissue Engineering Scaffolds Capable of Growth Factor Delivery. Pharmaceutical Research, 2011， 28(6): 1273-81.   
+[15]Llorens E.Polybiguanide (PHMB）loaded in PLA scaffoldsdisplaying highhydrophobic, biocompatibility and antibacterial properties. Materials Science & Engineering C Materials for Biological Applications，2015，50:74-84.   
+[16]Kim Y C,Kim Y H,Kim JW,et al.Transplantation of Mesenchymal Stem Cells for Acute Spinal Cord InjuryinRats:ComparativeStudybetween IntralesionalInjectionandScaffoldBased Transplantation. Journal of Korean Medical Science, 2016,31(9): 1373-82.   
+[17]Ouyang A, Ng R,Yang S T. Long-Term Culturing of UndifferentiatedEmbryonicStemCellsin Conditioned Media and Three-Dimensional Fibrous Matrices Without Extracellular Matrix Coating. Stem Cells，2007，25(2): 447-54.   
+[18] Prewitz M, Seib F P,Pompe T，et al. Polymeric BiomaterialsforStemCellBioengineering. Macromolecular Rapid Communications, 2012, 33(17): 1420-31.
+
+[19]南文滨，陈红丽，刘瑞，等．胶原-纤维蛋白胶膜复合 脐带间充质干细胞修复小鼠全层皮肤创面的实验研究， 中华损伤与修复杂志：电子版，2015(1):50-55. NanW B,Chen H L,Liu R,et al.Umbilical cord mesenchymal stem cell combined with collagen-fibrin double layer membrane accelerates wound healing. Chinese Journal of In jury Repair and Wound Healing, 2015(1):50-55.
+
+[20] Fan Z,Feng Z,Tao L，et al．Effect of hyaluronan molecular weight on structure and biocompatibility of silk fibroin/hyaluronan scaffolds. International Journal of Biological Macromolecules, 2014，65(5):516-23.
+
+[21］姚海军，赵阳，周哲,等．聚己内酯/壳聚糖与聚己内酯/聚乳酸支架与人脂肪来源干细胞的生物相容性研究.中国男科学杂志，2015，29(8)：18-22.Yao H J,ZhaoY,Zhou Z,etal.Biocompatibiltyanalysis of human adipose-derived stem cells andPolycaprolactone/chitosan orPolycaprolactone/Polylactidescaffold. ChineseJournal of Andrology，2015，29(8):18-22.
+
+[22] Sambit S， Siew L T, Hong G J C. PLGA nanofiber-coated silk microfibrous scaffold for connective tissue engineering. Journal of Biomedical Materials Research Part B Applied Biomaterials，2010,95(1)：19-28.
+
+[23]Mousavi S H, Abroun S, Soleimani M, et al. Expansionofhuman cordblood hematopoietic stem/progenitor cells in three-dimensional Nanoscaffold coated with Fibronectin. 2015,9(2): 72-9.
+
+[24] Bhuiyan D B,Middleton JC,Tannenbaum R,et al. Mechanical properties and osteogenic potential of hydroxyapatite-PLGA-collagen biomaterial for bone regeneration.Journal of Biomaterials Science Polymer Edition，2016,1-33.   
+[25]张宇，高思丹，李俊玲．纳米材料在组织修复及再生 中的应用．生物技术世界，2015,(7)：227-8. Zhang Y,Gao S D,Li JL.Application of Nanomaterials in Tissue Restoration and Regeneration. Biotech World,2015(7) :227-8.   
+[26] Yang S,Leong K F，Du Z，et al．The design of scaffolds for use in tissue engineering. Part I. Traditional factors.Tissue Engineering,2001,7(6) : 679-89.   
+[27] Yang S,Leong K F，Du Z，et al．The design of scaffolds for use in tissue engineering. Part II. Rapid prototyping techniques.Tissue Engineering, 2002，8(1):1-11.   
+[28] Jessup J M, Frantz M, Sonmez-alpan E,et al. Microgravityculturereducesapoptosisand increases the differentiation of a human colorectal carcinomacell line.InVitroCellular& Developmental Biology- Animal， 2000， 36(6): 367-73.   
+[29]Vunjak-novakovic G,Freed L E,Biron R J，et al. Effects of mixing on the composition and morphology of tissue-engineered cartilage.Aiche Journal,2004, 42(3):850-60.   
+[30] Pathi P,Ma T,Locke BR. Role of nutrient supply on cell growth in bioreactor design for tissue engineering of hematopoietic cells. Biotechnology & Bioengineering，2005，89(7)：743-58.

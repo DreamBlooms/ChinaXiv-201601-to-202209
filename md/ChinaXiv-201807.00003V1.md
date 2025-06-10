@@ -1,0 +1,131 @@
+# 铜绿假单胞菌V型分泌系统的研究进展
+
+方雪瑶 胡龙华 杭亚平 俞凤 陈艳慧 钟桥石(南昌大学第二附属医院检验科，江西省检验医学重点实验室，南昌330006)
+
+摘要：铜绿假单胞菌是一种能引起多部位急慢性感染且难以用抗生素控制的机会致病菌，近年来已成为院内感染的主要致病菌之一。大量研究表明，细菌将毒力因子精准输送至宿主细胞是其致病的关键，分泌系统在这一过程中扮演重要作用，其中近期发现的VI型分泌系统(Type VI secretion system,T6SS)在铜绿假单胞菌与宿主间的相互作用和促进生物膜的形成等机制中发挥重要作用，已引起国内外学者高度关注。着重对铜绿假单胞菌T6SS 的结构组成、效应功能和调节机制等相关研究进行简要综述，旨在为铜绿假单胞菌感染患者的治疗提供新策略。
+
+# 关键词：铜绿假单胞菌；VI型分泌系统；效应蛋白
+
+# Research progress of Type VI secretion system in Pseudomonas aeruginosa
+
+Fang Xue-yao,Hu Long-hua,Hang Ya-ping,Yu Feng,Chen Yan-hui, Zhong Qiao-shi (Department of Clinical Laboratory Medicine,the Second Afiliated Hospital of Nanchang University,Key Laboratory of laboratory medicine in Jiangxi Province,Nanchang 33oo06,China) Abstract In recent years, Pseudomonas aeruginosa has become one of the main pathogens of nosocomial infections, which is an opportunistic pathogen can cause acute or chronic multiple infections and is hard to be controlled by antibiotics. Studies have shown that the key to pathogenicity is the precise delivery of virulence factors to host cells by bacteria, while the secretory system plays an important role in this process. Among them, the recently discovered Type VI secretion system (T6SS) is a type of secretion system that has drawn great attention from domestic and foreign ,which plays an important role not only in the interaction between Pseudomonas aeruginosa and the host but also in the mechanism of promoting biofilm formation. Focusing on the studies of the structure,functions and regulatory mechanisms of Pseudomonas aeruginosa T6SS,a brief review was conducted to provide a new strategy for the treatment of patients with Pseudomonas aeruginosa infection.
+
+Key words:Pseudomonas aeruginosa; Type VI secretion system;effectors前言
+
+铜绿假单胞菌为临床常见条件致病菌，能产生多种毒力因子，引起皮肤、呼吸道、消化道、泌尿道等多部位的急、慢性感染。铜绿假单胞菌对多种抗菌药物天然耐药，临床治疗面临严峻挑战。研究表明，铜绿假单胞菌致病的主要机制与其编码的5型（包括Ⅰ、II、III、V、VI型）分泌系统密切相关[1]。其中，VI型分泌系统(TypeVIsecretionsystem,T6SS)是最近发现的分泌系统，除能产生毒力蛋白外，还能促进铜绿假单胞菌生物被膜的形成，对铜绿假单胞菌的致病性及耐药性发挥重要作用。因此，了解T6SS 的效应功能及其调节机制，将有助于铜绿假单胞菌所致感染的控制。本文就T6SS的发现、结构、效应功能及调控机制等方面的最新研究进展综述如下。
+
+# 1铜绿假单胞菌中T6SS的发现及命名
+
+2006 年，Mougous 等[2]发现铜绿假单胞菌中存在一种效应蛋白分泌系统，且该分泌系统在与宿主的致病过程中发挥着重要作用，将其命名为VI型分泌系统。早在2003 年Badergroen 等[3]在研究根瘤菌时发现了一个固氮作用受损的基因簇，命名为IAHP（IcmF-associated homologous protein）簇；该基因簇与编码IV型分泌系统(T4SS)的组分(IcmF 样蛋白)同源。2006年Pukatzki等[4]对霍乱弧菌感染的研究中也发现，霍乱弧菌的效应蛋白溶血素共调节蛋白(Hemolysin coregulated protein,Hcp)和-甘氨酸重复蛋白G(Valine-glycinerepeat protein G,VgrG)的分泌，需要 IAHP 簇的参与才能发挥对 Dictyostelium amoebae 的细胞毒性，表明霍乱弧菌与铜绿假单胞菌中IAHP基因簇可编码一种新型分泌系统，并正式命名为T6SS。
+
+# 2T6SS的结构、装配及分泌作用
+
+T6SS 是一种在结构上和功能上相对保守的复杂大分子装置，形成一种倒置镶嵌在细菌细胞膜上的噬菌体样结构，并通过该装置直接将效应蛋白注入宿主细胞内发挥生物学效应。
+
+# 2.1 T6SS的结构
+
+大量研究发现，不同物种间的T6SS基因簇组成成分略有差异，但其中13个保守基因（TssA—TssM）是T6SS 发挥正常功能所必须的[5]，所以各种病原菌的T6SS在电子显微镜下具有相似结构。根据功能的不同，将铜绿假单胞菌编码T6SS蛋白的基因簇大致可分为3类；第一类为编码跨膜相关蛋白：TssL，TssM及脂蛋白TssJ等，这些蛋白相互作用形成膜-锚定复合体以横跨整个细胞膜[6，是整个分泌装置装配的起点，发挥固定基板、建立跨膜通道的作用[7,8]；第二类为编码类噬菌体尾部结构相关蛋白，根据功能不同又可将其大致分为3组：（1）噬菌体注射器样结构主要由 Hcp 和VgrG 组成[9]；其中Hcp类似于 T4噬菌体的尾管蛋白 $\mathrm { { g p } } 1 9 \$ ，可形成内径为 $4 \mathrm { n m }$ 的六聚体管状结构蛋白，是效应蛋白的转运通道；VgrG类似于T4噬菌体的 $\mathtt { g p 5 / g p 2 7 }$ 尾钉蛋白，位于Hcp 管道末端，经Hcp 管道将效应蛋白注入靶细胞内。此外，Hcp-VgrG 结构的末端还有一个圆锥形的针头蛋白脯氨酸-丙氨酸-丙氨酸-精氨酸重复蛋白（Proline Alanine Alanine Arginine，PAAR），使“注射器”结构更加尖锐、稳定[10,11]。（2）噬菌体尾鞘样结构：主要成分为TssB/TssSC 二聚体，该二聚体与噬菌体蛋白 $\mathrm { \ g p 1 8 }$ 高度相似，其形成的管状结构蛋白包绕在Hcp外侧，通过收缩方式将“注射器样结构”喷射至靶细胞表面，从而刺穿靶细胞的细胞膜，同时将效应蛋白注入胞浆内[12-14]。（3）噬菌体基板样结构：主要包括 TssA、TssSE（也被称为HsiF）、TssF、TssG和TssK等，位于细胞质内，形成与噬菌体 $\mathtt { g p 2 5 }$ 类似的基板样结构[6,15]。第三类为编码装置中能量供应的蛋白：目前已知的主要为ClpV，ClpV通过水解 ATP驱动 TssB/TssC的重构，使 TssB/TssC 的构象在收缩-舒张-收缩的循环状态[16,17]。此外，研究证实ClpV还具有水解细胞内异常的鞘管作用，以确保 T6SS 分泌作用[18]。
+
+# 2.2T6SS 的装配
+
+目前的研究普遍认为T6SS 的噬菌体样注射装置是病原菌在某些外界因子刺激下而暂时形成的，因此T6SS的装配显得非常重要。然而，该结构的详细装配机制尚无定论。有研究认为，T6SS 注射装置可能是在某些因素（低浓度铁、QS、竞争菌攻击等）刺激下被激活，首先TssL，TssM及脂蛋白TssJ形成跨膜结构，随后TssA，TsSE，TssF，TssG和TssK 等蛋白形成基座部分，VgrG、PAAR及效应蛋白被招募到基座复合物上，从而稳定了整个复合物；Hcp蛋白以VgrG三聚体为聚合起点形成跨膜的六聚体孔道，最后TssB/TssC也随着Hcp 管状物的延伸而聚合到其外围，从而完成整个装配过程[19]。在整个过程中主要由ClpV水解ATP为系统的组装提供能量。（详见图1）
+
+图1T6SS的结构及装配示意图(改编自参考文献[19])  
+![](images/bf7c3abfe24fa5d4c3cb4c9abb793f0c6cb9f27c294836f70db0238a8f049f25.jpg)  
+注：IM为内膜；OM为外膜；PG为肽聚糖
+
+# Fig.1 Schematic Representation of the Structure and Mechanism of the Type VI Secretion System (adapted from reference[19])
+
+# 2.3T6SS的分泌作用
+
+T6SS 中部分蛋白(Hcp，VgrG，TssE 等)的构造和折叠与T4 噬菌体的核心结构(gp 蛋白)高度相似，提示 T6SS具有与噬菌体注射遗传物质方式类似的效应蛋白分泌过程。铜绿假单胞菌中T6SS 的分泌首先在其他结构蛋白的辅助下，噬菌体样尾鞘结构收缩引起Hcp 管向细胞外延伸，使VgrG-PAAR“针头"样结构注射入宿主细胞内，所携带的效应蛋白则利用ClpV水解ATP时释放的能量穿过Hcp孔道进入宿主细胞，或在外膜脂蛋白的协助下进入外界环境中；当一整轮分泌过程完成后，ClpV蛋白将部分外鞘和Hcp 管状物解聚，剩余未被注射的Hcp管状物及基底复合物则在下一轮注射过程中被持续利用[19]。
+
+# 3铜绿假单胞菌T6SS的效应蛋白
+
+Bingle等人[20]发现铜绿假单胞菌中存在3种进化上完全不同的T6SS基因群（分别为H1-T6SS、H2-T6SS 和H3-T6SS），导致它们效应功能上具有一定差异性，如H1-T6SS 能够抑制同一环境中竞争菌的生长（仅作用于原核细胞），而H2、H3-T6SS在原核细胞及真核细胞的致病过程中均有重要作用。效应蛋白在铜绿假单胞菌的T6SS中起到关键作用，因此各型T6SS所分泌的效应蛋白的组成、功能成为研究热点。
+
+# 3.1铜绿假单胞菌H1-T6SS的效应蛋白
+
+2010年Hood等[21]首次发现铜绿假单胞菌的毒力基因H1-T6SS 能编码产生3种效应蛋白（Tse1、Tse2和Tse3），通过直接注入同一宿主其他细菌的胞浆内发挥溶菌效应，使铜绿假单胞菌得以优势生长。Tse1和Tse3能够分别降解细菌肽聚糖结构中的肽侧链和糖主链部分，最终导致细菌降解；而Tse2是一种能够有效抑制竞争菌体中DNA增殖的胞质内效应器，引起竞争菌繁殖状态受限，同一环境中的铜绿假单胞菌成为优势菌群[22,23]。有趣的是，铜绿假单胞菌为了避免被自身分泌的Tse效应蛋白所杀伤，其菌体还能产生3种对应的免疫蛋白（Tsil、Tsi2 和 Tsi3）作为自我防御机制，如 Tsil与Tsel在胞内相互反应，在晶体结构上阻碍 Tse1酶活性位点，导致其失活[23]。在对H1-T6SS 的进一步研究中又发现了4种效应蛋白（Tse4—Tse7），这些蛋白在抑制竞争菌效应中也发挥重要作用[24-26]。综上所述，H1-T6SS具有强大的抗竞争菌作用，能使铜绿假单胞菌在多种细菌混合生长环境中呈明显优势生长。
+
+# 3.2铜绿假单胞菌H2-T6SS、H3-T6SS的效应蛋白
+
+磷脂酶是一种广泛存在于真核、原核生物体内的，具有水解甘油磷脂的功能的一类酶，是病原体致病的主要毒力因素之一。Russell等[27研究发现，磷脂酶能够在细菌 T6SS中介导抗菌活性，因此将这类蛋白超家族命名为VI 脂肪酶效应器（Type VIlipaseeffectors,Tle），并归为5类（Tle1-Tle5）；其中磷脂酶A（phospholipase A,PldA）是铜绿假单胞菌 H2-T6SS 的效应蛋白，也属于Tle 超家族[28]。Jiang 等[2]在进一步研究中发现，H2-T6SS 分泌的PldA是一种即能转位到原核细胞内，又能跨界转位到真核细胞的效应蛋白，揭示了PldA在真核、原核细胞中均发挥毒性作用。PldA在原核生物中主要通过降解磷脂酰乙醇胺（phosphatidylethanolamine,PE），破坏细菌细胞膜，发挥拮抗其他细菌的作用[27]；一旦H2-T6SS 将 PldA作为效应蛋白“注射”入真核细胞内，可激活 PI3K-Akt 信号通路，使铜绿假单胞菌能够轻易侵入到上皮细胞内，最终引起皮肤、肺等组织器官感染29。除PldA外， $\mathrm { \ V g r { G 2 b } }$ 也被证实是铜绿假单胞菌 H2-T6SS 的效应蛋白；铜绿假单胞菌H2-T6SS中 $\mathrm { \Delta V g r G }$ 可分为2个亚组，分别为 $\mathrm { \Delta V g r G 2 a }$ 和 $\mathrm { \ V g r G { 2 b } }$ ，其中 $\mathrm { \Delta V g r G 2 a }$ 作为H2-T6SS注射器样结构的组成成分， $\mathrm { \ V g r { G 2 b } }$ 则通过与宿主细胞的 $\gamma$ -微管蛋白复合体相互作用，促进铜绿假单胞菌对真核细胞的入侵，从而发挥效应作用[30]。
+
+国内外对铜绿假单胞菌 T6SS 研究的热点主要集中于H1-T6SS、H2-T6SS，而对 H3-T6SS的效应蛋白及功能相关研究相对较少，现研究发现其分泌的效应蛋白仅磷脂酶B（phospholipase B,PldB）一种。PldB与 PldA的效应功能相同，通过激活PI3K-Akt 信号通路促使铜绿假单胞菌感染真核细胞，然而对原核细胞产生毒性的作用机制尚无研究报道[29]。值得一提的是，铜绿假单胞菌在产生 H2-T6SS 和H3-T6SS 效应蛋白的同时，也会分泌具有中和效应蛋白作用的同源性免疫蛋白，防止菌体自身受到攻击[20，31]。
+
+# 4铜绿假单胞菌T6SS的调控
+
+# 4.1QS对T6SS的调控
+
+群体感应系统（quorum sensing systems,QS）是一种能够实现细菌对宿主环境适应能力增强的细菌间通讯系统，铜绿假单胞菌QS至少包括三种子系统，即 AHL信号依赖的las 系统、rhl系统和AQ信号依赖系统（PQS系统，又称喹诺酮信号系统）[32]。在QS子系统的共同参与调控下，铜绿假单胞菌的毒力因子（如碱性蛋白酶、外毒素A、弹性蛋白酶等）及次级代谢产物（鼠李糖脂溶血素、绿脓菌素）的释放和菌体生活方式等发生适应性改变。已有研究表明QS能够调控铜绿假单胞菌T6SS基因的表达，但对不同种T6SS 基因簇的调控存在差异。B.Lesic等[33研究发现，H1-T6SS 的基因表达受PQS系统转录活化因子MvfR和las系统转录活化因子LasR的负向调控；而H2-T6SS 和H3-T6SS的基因表达则受las/rhl系统和MvfR的正向调控[34]。
+
+# 4.2Fur对T6SS的调控
+
+铁是细菌生长所必需的微量元素。细菌通过铁吸收调节蛋白(ferric uptake regulator,Fur)调控菌体内铁离子代谢的平衡，因此Fur对细菌生长和防止铁毒性起重要作用。研究发现，Fur除具有调节细菌的铁离子代谢的功能外，还参与多种毒力基因的表达，其中铜绿假单胞菌H2-T6SS启动子区域存在2个Fur基因盒；当铁缺乏或利用受抑制时，H2-T6SS基因可受到Fur的调控并表达，最终增强铜绿假单胞菌对宿主细胞的致病性[35]。
+
+# 4.3RpoN对T6SS的调控
+
+细菌的氮代谢调控因子（RpoN或o-54因子）是一类可选择性识别启动子序列的°因子，主要参与氮代谢、鞭毛和菌毛的生物合成等环境适应过程，同时与病原菌的致病性密切相关[36]；有研究表明，RpoN能够通过间接调控QS系统使铜绿假单胞菌耐药性、毒力因子表达发生改变[37,38]。Sana 等[35]研究发现，RpoN在 T6SS基因簇的转录过程中具有调控作用，其中RpoN 能够负向调控H2-T6SS 和部分H3-T6SS 的表达，而对另一部分H3-T6SS 的表达起上调作用；此后CaiZ等[39]证实RpoN的靶位点包含编码QS的调控子和 T6SS 的结构蛋白（hcpA和hcpB）等的代谢基因，进一步表明RpoN对T6SS的调控具有重要意义。
+
+# 4.4RsmA对T6SS的调控
+
+二元调控系统是一种可通过对环境刺激作出适应性反应的跨膜信号转导机制；其中Rets 和Lads为存在于铜绿假单胞菌中的杂交感受器激酶，二者均可经GacSA-RsmY/Z-RsmA 级联通路对铜绿假单胞菌的鞭毛运动和生物膜形成等产生调控[40,41]。在这一调控过程中，Lads 引起通路的关键调控因子——游离态RsmA浓度减低；Rets 则发挥截然相反的调控作用。有研究证实，RsmA对铜绿假单胞菌的T6SS分泌及生物膜的形成中具有负向调控作用，而在T3SS的分泌及鞭毛运动中发挥正向调控作用，与铜绿假单胞菌引起宿主的急、慢性感染具有密切联系[42,43]。因此，Rets 和Lads 能够分别通过对 RsmA的间接调控，进而影响铜绿假单胞菌T6SS的分泌。
+
+# 5铜绿假单胞菌T6SS的主要生物学功能
+
+铜绿假单胞菌的T6SS在受到不同水平的调控后，通过装配形成的噬菌体样结构将效应蛋白“注射”入靶细胞内而发挥各类生物学作用[44]。目前研究公认的至少有2种主要的生物学功能：一种为在细菌微环境中发挥竞争性作用，使铜绿假单胞菌在宿主体内能够优势生长；另一种为通过水解细胞膜脂质成分，使铜绿假单胞菌对宿主的感染能力增强[21,35]；此外，研究还表明铜绿假单胞菌的 T6SS 效应蛋白的作用与宿主的生存期呈负相关，并且具有T6SS分泌能力的铜绿假单胞菌能够促进生物膜的形成和绿脓素等次级代谢产物的产生[45]，进一步提示T6SS在铜绿假单胞菌的致病力中具有重要作用。
+
+# 6 T6SS的治疗策略
+
+由于T6SS在铜绿假单胞菌对宿主的感染、致病及生存等各环节均发挥重要作用，因此针对其致病机制的研究具有重大意义。现阶段，国内、外针对T6SS介导的铜绿假单胞菌感染暂无有效的治疗方案。最新研究显示，纳米体nb25能通过与T6SS膜-锚定复合体中
+
+的脂蛋白TssJ竞争性结合TssM位点，使T6SS分泌装置的装配受到限制，导致T6SS无法发挥有效作用[46]。因此对T6SS 抑制剂的研究，将为治疗由T6SS介导的铜绿假单胞菌感染性疾病提供新思路。
+
+# 7小结与展望
+
+铜绿假单胞菌能够产生多种蛋白分泌系统，并在抗菌药物治疗过程中极易变异而形成多重耐药菌，控制铜绿假单胞菌所致感染已成为一个难点。本文回顾了铜绿假单胞菌T6SS的起源、装配、调控和效应作用等，证实T6SS参与了铜绿假单胞菌感染宿主、致病及生物膜形成等过程中发挥关键作用。因此，T6SS可作为治疗铜绿假单胞菌感染性疾病的新靶标。近年来对T6SS抑制剂的研究逐渐增多，有望发展有效药物控制T6SS介导的铜绿假单胞菌感染性疾病。
+
+# 参考文献：
+
+[1] Golovkine G, Reboud E, Huber P. Pseudomonas aeruginosa Takes a Multi-Target Approach to Achieve Junction Breach[J]. Front Cell Infect Microbiol,2017,7:532.   
+[2] Mougous J D, Cuff M E, Raunser S, et al. A virulence locus of Pseudomonas aeruginosa encodes a protein secretion apparatus[J]. Science,2006,312(5779):1526-1530.   
+[3] Bladergroen M R, Badelt K, Spaink H P. Infection-blocking genes of a symbiotic Rhizobium leguminosarum strain that are involved in temperature-dependent protein secretion[J]. Mol Plant Microbe Interact,2003,16(1):53-64.   
+[4] Pukatzki S, Ma A T, Sturtevant D, et al. Identification of a conserved bacterial protein secretion system in Vibrio cholerae using the Dictyostelium host model system[J]. Proc Natl Acad Sci U S A,2006,103(5):1528-1533.   
+[5] Boyer F, Fichant G, Berthod J, et al. Dissecting the bacterial type VI secretion system by a genome wide in silico analysis: what can be learned from available microbial genomic resources?[J]. BMC GENOMICS,2009,10(104).   
+[6] Brunet Y R, Zoued A, Boyer F, et al. The Type VI Secretion TssEFGK-VgrG Phage-Like Baseplate Is Recruited to the TssJLM Membrane Complex via Multiple Contacts and Serves As Assembly Platform for Tail Tube/Sheath Polymerization[J]. PLoS Genet,2015,11(10):e1005545. [7] Logger L, Aschtgen M S, Guerin M, et al. Molecular Dissection of the Interface between the Type VI Secretion TssM Cytoplasmic Domain and the TssG Baseplate Component[J]. J Mol Biol,2016,428(22):4424-4437.   
+[8] Zoued A, Duneau J P, Durand E, et al. Tryptophan-mediated Dimerization of the TssL Transmembrane Anchor Is Required for Type VI Secretion System Activity[J]. J Mol Biol,2018,430(7):987-1003.   
+[9] Brunet Y R, Henin J, Celia H, et al. Type VI secretion and bacteriophage tail tubes share a common assembly pathway[J]. EMBO Rep,2014,15(3):315-321.   
+[10] Shneider M M, Buth S A, Ho B T, et al. PAAR-repeat proteins sharpen and diversify the type VI secretion system spike[J]. Nature,2013,500(7462):350-353.   
+[11] Cianfanell F R, Alcoforado D J, Guo M, et al. VgrG and PAAR Proteins Define Distinct Versions of a Functional Type VI Secretion System[J]. PLoS Pathog,2016,12(6):e1005735.   
+[12] Ge P, Scholl D,Leiman P G, et al. Atomic structures of a bactericidal contractile nanotube in its pre- and postcontraction states[J]. Nat Struct Mol Biol,2015,22(5):377-382.   
+[13] Brackmann M, Wang J, Basler M. Type VI secretion system sheath inter-subunit interactions modulate its contraction[J]. EMBO Rep,2018,19(2):225-233.   
+[14] Salih O, He S, Planamente S, et al. Atomic Structure of Type VI Contractile Sheath from Pseudomonas aeruginosa[J]. Structure,2018,26(2):329-336.   
+[15] Lossi N S, Dajani R, Freemont P， et al. Structure-function analysis of HsiF, a gp25-like component of the type VI secretion system, in Pseudomonas aeruginosa[J]. Microbiology,2011,157(Pt 12):3292-3305.   
+[16] Pietrosiuk A, Lenherr E D, Falk S, et al. Molecular basis for the unique role of the AAA+ chaperone ClpV in type VI protein secretion[J]. J Biol Chem,2011,286(34):30010-30021.   
+[17] Corbitt J, Yeo J S, Davis C I, et al. T6SS dynamics reveals a novel secretion mechanism in Pseudomonas aeruginosa[J]. J Bacteriol,2018,200(11):e000744-17.   
+[18] Kapitein N, Bonemann G, Pietrosiuk A, et al. ClpV recycles VipA/VipB tubules and prevents nonproductive tubule formation to ensure efficient type VI protein secretion[J]. Mol [19] Cianfaneli F R, Monlezun L, Coulthurst S J. Aim, Load, Fire: The Type VI Secretion System, a Bacterial Nanoweapon[J]. Trends Microbiol,2016,24(1):51-62.   
+[20] Bingle L E, Bailey C M, Pallen M J. Type VI secretion: a beginner's guide[J]. Curr Opin Microbio1,2008,11(1):3-8.   
+[21] Hood R D, Singh P, Hsu F, et al. A type VI secretion system of Pseudomonas aeruginosa targets a toxin to bacteria[J]. Cel Host Microbe,2010,7(1):25-37.   
+[22] Lu D, Shang G, Yu Q, et al. Expression, purification and preliminary crystallographic analysis of the T6SS effector protein Tse3 from Pseudomonas aeruginosa[J]. Acta Crystallogr Sect F Struct Biol Cryst Commun,2013,69(Pt 5):524-527.   
+[23] Russell A B, Peterson S B, Mougous J D. Type VI secretion system efectors: poisons with a purpose[J]. Nat Rev Microbiol,2014,12(2):137-148.   
+[24] Whitney J C, Beck C M, Goo Y A, et al. Genetically distinct pathways guide effctor export through the type VI secretion system[ 1. Mol Microbiol,2014,92(3):529-542.   
+[25] Whitney J C, Quentin D, Sawai S, et al. An interbacterial NAD(P) $( + )$ glycohydrolase toxin requires elongation factor Tu for delivery to target cels[J]. Cell,2015,163(3):607-619.   
+[26] Lacourse K D, Peterson S 3, Kulasekara H D, et al. Conditional toxicity and synergy drive diversity among antibacterial effectors[J]. Nat Microbiol,2018,3(4):440-446.   
+[27] Russell A B, Leroux M, Hathazi K, et al. Diverse type VI secretion phospholipases are functionally plastic antibacterial effectors[J]. Nature,2013,496(7446):508-512.   
+[28] Wilderman P J, Vasil A I, Johnson Z, et al. Genetic and biochemical analyses of a eukaryotic-like phospholipase D of Pseudomonas aeruginosa suggest horizontal acquisition and a role for persistence in a chronic pulmonary infection model.[J]. Molecular Microbiology,2001,39(2):291-303.   
+[29] Jiang F， Waterfield N R， Yang J， et al. A Pseudomonas aeruginosa type VI secretion phospholipase D effector targets bothprokaryotic and eukaryotic cells[J]. Cell Host Microbe,2014,15(5):600-610.   
+[30] Sana T G, Baumann C, Merdes A, et al. Internalization of Pseudomonas aeruginosa Strain PAO1 into Epithelial Cells Is Promoted by Interaction of a T6SS Efector with the Microtubule Network[J]. MBio,2015,6(3):e712.   
+[31] Kierbel A, Gassama-Diagne A, Rocha C, et al. Pseudomonas aeruginosa exploits a PIP3- dependent pathway to transform apical into basolateral membrane[J]. J Cell Biol,2007,177(1):21-27. [32] Lee J, Zhang L. The hierarchy quorum sensing network in Pseudomonas aeruginosa[J]. Protein Cell,2015,6(1):26-41.   
+[33] Lesic B, Starkey M, He J, et al. Quorum sensing differentially regulates Pseudomonas aeruginosa type VI secretion locus I and homologous loci I and II, which are required for pathogenesis[J]. Microbiol0gy,2009,155(Pt 9):2845-2855.   
+[34] Gallique M, Bouteiler M, Merieau A. The Type VI Secretion System: A Dynamic System for Bacterial Communication?[J]. Front Microbiol,2017,8:1454.   
+[35] Sana T G, Hachani A, Bucior I, et al. The second type VI secretion system of Pseudomonas aeruginosa strain PAO1 is regulated by quorum sensing and Fur and modulates internalization in epithelial cells[J]. J Biol Chem,2012,287(32):27095-27105.   
+[36] Kustu S, Santero E, Keener J, et al. Expression of sigma 54 (ntrA)-dependent genes is probably united by a common mechanism[J]. Microbiol Rev,1989,53(3):367-376.   
+[37] Viducic D, Murakami K, Amoh T, et al. RpoN modulates carbapenem tolerance in Pseudomonas aeruginosa through Pseudomonas quinolone signal and PqsE[J]. Antimicrobial Agents & Chemotherapy,2016,60(10):5752-5764.   
+[38] Zhao C, Yang L, Yicai C, et al. RpoN Regulates Virulence Factors of Pseudomonas aeruginosa via Modulating the PqsR Quorum Sensing Regulator[J]. International Journal of Molecular Sciences,2015,16(12):28311-28319.   
+[39] Shao X, Zhang X, Zhang Y, et al. RpoN-dependent direct regulation of quorum sensing and the Type VI secretion system in Pseudomonas aeruginosa PAO1[J]. J Bacteriol,2018,in pres,doi: 10.1128/JB.00205-18.   
+[40] Al G, M M, M H, et al. Direct interaction between sensor kinase proteins mediates acute and chronic disease phenotypes in a bacterial pathogen.[J]. Genes Dev,2009,23(2):249-259.   
+[41] Allsopp L P, Wood T E, Howard S A, et al. RsmA and AmrZ orchestrate the assembly of all three type VI secretion systems in Pseudomonas aeruginosa[J]. Proc Natl Acad Sci U S A,2017:7707-7712. [42] Brencic A, Mcfarland K A, Mcmanus H R, et al. The GacS/GacA signal transduction system of Pseudomonas aeruginosa acts exclusively through its control over the transcription of the RsmY and RsmZ regulatory small RNAs[J]. Molecular Microbiology,2009,73(3):434-445.   
+[43] Y I, M S, An E, et al. Pseudomonas aeruginosa biofilm matrix polysaccharide Psl is regulated transcriptionallybyRpoS and post-transcriptionallyby RsmA.[J]. Molecular Microbiology,2010,78(1):158-172.   
+[44] Unterweger D, Kostiuk B, Pukatzki S. Adaptor Proteins of Type VI Secretion System Effectors[J]. Trends Microbiol,2017,25(1):8-10.   
+[45] Lin J, Cheng J, Chen K, et al. The icmF3 locus is involved in multiple adaptation- and virulencerelated characteristics in Pseudomonas aeruginosa PAO1[J]. Front Cell Infect Microbiol,2015,5:70. [46] Nguyen V S, Logger L, Spinelli S, et al. Inhibition of type VI secretion by an anti-TssM llama nanobody[J]. PLoS One,2015,10(3):e122187.

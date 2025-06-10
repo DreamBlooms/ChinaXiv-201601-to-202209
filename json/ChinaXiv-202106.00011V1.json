@@ -1,0 +1,512 @@
+[
+    {
+        "type": "text",
+        "text": "Monitoring fire regimes and assessing their driving factors in Central Asia ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YIN Hanmin12, Jiapaer GULI1,2.3\\*, JIANG Liangliang1,2, YU Tao1,2, Jeanine UMUHOZA1,2, LI $\\mathrm { X u } ^ { 1 , 2 }$ （204号 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 State Key Laboratory of Desertand Oasis Ecology, Xinjiang Instituteof Ecology and Geography,Chinese Academyof Sciences,Urumqi 830011,China;   \n2University of Chinese Academy of Sciences, Beijing 100039,China;   \n3Research Center for Ecologyand EnvironmentofCentral Asiaof Chinese Academyof Sciences,Urumqi 830011,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Relatively litle is known about fire regimes in grassland and cropland in Central Asia. In this study,eleven variables of fire regimes were measured from 2O01 to 2O19 by utilizing the burned area and active fire product, which was obtained and processed from the GEE (Google Earth Engine) platform, to describe the incidence,inter-annual variability, peak month and size of fire in four land cover types (forest, grasslad,cropland and bare land).Then all variables were clustered to define clusters of fire regimes with unique fire attributes using the K-means algorithm. Results showed that Kazakhstan (KAZ) was the most affected by firein Central Asia.Fire regimes in cropland in KAZ had the frequent,large and intense characters, which covered large burned areas and had a long duration. Fires in grassland mainly occurred in central KAZ and had the small scale and high-intensity characters with diferent quarterly frequencies. Fires in forest were mainly distributed in northern KAZ and eastern KAZ.Although fires in grassland underwent a shift from more to less frequent from 2001 to 2019 in Central Asia,vigilance is needed because most fires in grassland occur suddenly and cause harm to humans and livestock. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: fire regime; burned area; active fire; K-means algorithm; Central Asia ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fire regimes can be generalized to a particular combination of fire characteristics, including the frequency, intensity, variability,seasonality,size, extent, duration and pattern of fire (Krebs et al., 2010).With global climate change,the frequent occurrence of extremely dry weather and the unreasonable use of fire by humans,and the instability of the factors influencing fire regimes is increasing (Flannigan et al.,20oo; Flannigan et al.,2006; Moreira et al.,2011). Fire regimes are becoming the topics of worldwide concern because the occurrence of fire causes a series of social, environmental and economic problems (Pausas and Fernandez-Munoz, 2O12; Chuvieco et al., 2014). Fire also poses serious threats in Central Asia, especially in Kazakhstan (KAZ). To better understand and manage fire regimes,there is an increasing interest in monitoring fire distribution and assessng potential drivers (Calvino-Cancela et al.， 2O17). However, to date, large-scale schemes for fire regimes are limited,and few studies have considered the impact of fire on ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "grassland in Central Asia. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Data for mapping fire regimes can be obtained from historical records (interviews, diaries and literature searches), palaeoecological evidence (charcoal in lakes, soil sediments and tree scars), and remote sensing data of fire patterns (Morgan et al.， 2OO1). Considering the integrity, availability， spatial convergence and relative cost of data records， satellite data are often employed for reconstructing maps of fire regimes (Downing et al., 2Ol7). In recent years, as the algorithms for burned area of fires,including MCD45A1，MCD64A1 and FireCCI5.1，have become more powerful and been widely calibrated (Justice et al.,2OO2), products have been used to map fire regimes in real time and with spatial extents (Morgan et al., 2OO1； Levin and Heimowitz,2012; Chen et al., 2017),and extensive research on biomass burning at a spatial resolution of $5 0 0 \\mathrm { ~ m ~ }$ and approximately $2 5 0 \\mathrm { ~ m ~ }$ has been conducted (Archibald et al.，2009; Petrenko et al., 2012; Vadrevu et al.,2012; Grégoire et al.,2013; Lehmann et al.,2014; Oliveras et al.,2014; Yang et al.,2014; Hantson et al.,2015; Chen et al.,2016; Andela et al.,2017).Active fire represents the approximate central site of a fire,but the shape and size of a large fire cannot be accurately portrayed (Roy et al.,2O13). Therefore, burned area products play a key role in mapping medium and large fire regimes.To address the limitations of these products,researchers applied active fire and burned area data to map fire regimes in numerous studies (Devineau et al., 2010; Chen et al.,2O17).The Landsat satelite has a high spatial resolution,which allows fire regimes to be monitored using spectral indices, including the normalized burn ratio (NBR) index, burned area index (BAI),mid-infrared burn index and global environment monitoring index (GEMI).And the effects of a single fire analyzed by carbonization after burning and the disappearance of plants or by analyzing ecological recovery across a region was estimated (Chuvieco et al.,2002; Bastarrika et al., 2011; Schepers et al.,2014; Chen et al.,2017; Downing et al.,2017; Musyimi et al.,2O17; Argibay et al., 2O20). However, Landsat images are typically used to analyze the diferences between pre- and post-fire images in a specific research region. Due to the contamination of Landsat cloud images and a limited time scale that cannot distinguish between new and old fire scars, MODIS (Moderate Resolution Imaging Spectroradiometer） is more popular method for characterizing the temporal and spatial distribution of fire regimes in very broad geographical regions (CHUVIECO et al., 2008). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As fire is rarely studied in Central Asia, the results of this study will aid in filling this research gap. In this study, we analyzed all the available time series images (FireCCI5.1, Fire Information for Resource Management System (active fire data) of Central Asia in Google Earth Engine (GEE))(1) to develop an easy and robust method to map fire regimes; (2) to utilize this method to reconstruct and characterize maps of fire regimes in Central Asia;(3） to analyze the monthly number of active fires in different land cover types (grassland and cropland) from 2Oo1 to 2019 in Central Asia; and (4) to discuss the impact of fire on grassland productivity,the effects of drought on fires in grassland,and seasonal differences of fires in cropland in Central Asia. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Central Asia $( 3 5 ^ { \\circ } 0 7 ^ { \\prime } - 5 5 ^ { \\circ } 2 6 ^ { \\prime } \\mathrm { N }$ ， $4 6 ^ { \\circ } 2 9 ^ { \\prime } { - } 8 9 ^ { \\circ } 1 9 ^ { \\prime } \\mathrm { E } )$ is located in the Eurasian mainland and has a semi-arid and arid climate (Qi et al.，2O12). The study area includes five countries (KAZ, Kyrgyzstan (KGZ), Tajikistan (TJK), Turkmenistan (TKM) and Uzbekistan (UZB))，which are collctively referred to as Central Asia in this study. As shown by the MODIS land cover product in 2018(Fig.1),approximately $7 5 \\%$ of the land in Central Asia is covered by grassland,but the coverage density is uneven based on the mean value of leaf area index (LAI). Forest is mainly located in eastern KAZ, northern KAZ and Aqmola in KAZ. According to an analysis of the annual forest area from 2001 to 2018 based on the MODIS MCD12Q1 V6 product, it is surprising to find that the area of forest in KAZ has undergone a process of large-scale deforestation and gradual recovery. Agriculture can be roughly divided into two types in Central Asia. Rainfed cropland is mainly distributed in the northern KAZ, including North KAZ, Aqmola and Qostanay in KAZ, which mainly grows wheat and barley, and this region is also one of the most important wheat exporters in the world. Irrigated cropland is mainly located in central and southern Central Asia, (Jiang et al., 2017). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As indicated by the long-term climate record, the climate of Central Asia is generally arid, especially in the southern UZB and northern TKM, where the average annual precipitation is less than $1 0 0 ~ \\mathrm { { m m } }$ ，but there are relatively humid regions, such as the northern KAZ (approximately $4 0 0 ~ \\mathrm { { m m } ) }$ ）and eastern mountainous regions of Central Asia ( $6 0 0 { - } 8 0 0 ~ \\mathrm { m m } )$ (Klein et al., 2012). In recent decades,Central Asia has experienced severe and growing water deficits with increasing temperature and variable precipitation patterns, causing frequent drought events (Guo et al., 2015; Guo et al., 2O17). Simultaneously, unmanaged fires in cropland put great pressure on firefighting in Central Asia. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2282bee57989810a938c10832ffe1199da15b7b81b745941df894df8015bdeba.jpg",
+        "img_caption": [
+            "Fig.1Main types of land use in Central Asiain 2O18(a)and fire burn scars based on Landsat 8 images in central KAZ (b-g,marked as A-F in Figure la).A,northeastern Aktobe; B,northeaster Aktobe; C,southern Qostanay;D,southern Qaraghandy；E,southern Qaraghandy；F, East Kazakhstan.KAZ,Kazakhstan； UZB, Uzbekistan； TKM,Turkmenistan；KGZ,Kyrgyzstan； TJK,Tajikistan. Abbreviations are the same as in the following figures. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Data sources ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Three MODIS products were used in this study: (1) MODIS active fire data originating from the Fire Information for Resource Management System; (2) burned area FireCCI5.1 product; and (3) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MODIS land cover type product collection 6 (MCD12Q1 V6). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Fire Information for Resource Management System (FIRMS) dataset contains the active fire product processed by Land Atmosphere Near Real-time Capability for EOS (LANCE） that integrates MOD14/MYD14 fire and thermal anomaly products in raster form,and the active fire location represents the centroid of a $1 { \\cdot } \\mathrm { k m }$ pixel (Davies et al., 2009). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The FireCCI5.1 products, which originated as part of the European Space Agency (ESA) Climate Change Initiative (CCI) program,are new monthly global burned area products at a resolution of approximately $2 5 0 \\mathrm { ~ m ~ }$ (Lizundia-Loiola et al.,2O2O). To analyze the characteristics of fire regimes including the duration, size,area, variability and seasonality, we processed burned area (Fire CCI 5.1) and active fire (FIRMS) products from 2001 to 2019. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The MCD12Q1 collction from six land cover products (MCD12Q1 V6),which is generated using supervised classifications of MODIS Terra and Aqua reflectance data, provides annually updated global land cover data from 2OO1 to 2O19 at a spatial resolution of $5 0 0 \\mathrm { ~ m ~ }$ (Zeng et al., 2020). The MCD12Q1 V6 improved upon those previous versions and contained five global land clasification systems.The International Geosphere-Biosphere Program (IGBP） classification scheme is selected in this study. The seventeen land cover classes from the IGBP classification scheme were merged into four types of land cover with vegetation: forest, grassland, cropland and bare land. Non-vegetation land cover types containing permanent wetland, urban areas, built-up areas,permanent snow, ice and water body were precluded from the study.These variables were obtained from GEE and resampled to a resolution of $2 5 0 \\mathrm { m }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Methods ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Eleven variables were measured to characterize the fire regimes and their atributes that roughly reflect the time,space,size and peak month of fires in Central Asia (Table 1). These atributes consider the annual average characteristics of fires,inter-annual variability,size distribution, fire duration, peak month and effects of vegetation. Variables 1,3 and 5 were calculated using burned area data, while variables 2,4,6,7,8,9,1O and 11 were calculated using active fire data. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/bd5cbc678cb961e4b14b3435515dd6a4216236a91e0314c0f43450dec3496815.jpg",
+        "table_caption": [
+            "Table1 List of fire variables from 20O1 to 2019 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>No.</td><td>Type</td><td>Abbreviation</td><td>Variable</td><td>Unit</td></tr><tr><td>1</td><td rowspan=\"2\">Fire incidence</td><td>ABAY</td><td>Average annual burned area</td><td>hm2/a</td></tr><tr><td>2</td><td>AFOF</td><td>Average annual active fire frequency</td><td>counts/a</td></tr><tr><td>3</td><td rowspan=\"2\">Inter-annual variability</td><td>CVBA</td><td>Inter-annual coefficient of variance in annual burned area</td><td rowspan=\"9\">d</td></tr><tr><td>4</td><td>CVFP</td><td>Itet</td></tr><tr><td>5</td><td></td><td>Gini index</td><td></td></tr><tr><td>6</td><td>Fire size Active fire</td><td>GI FPSD</td><td>Seasonal duration of fires</td></tr><tr><td>7</td><td>seasonality</td><td>FPDT</td><td>Peak month of fires</td></tr><tr><td>8</td><td rowspan=\"4\">Vegetation type</td><td>PFAF</td><td>Percentage offorestactive fires</td></tr><tr><td>9</td><td>PGAF</td><td>Percentage of grassland active fires</td></tr><tr><td>10</td><td></td><td></td></tr><tr><td></td><td>PCAF PBAF</td><td>Percentage of cropland active fires Percentage of bare land active fires</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Gini index (GI) concerns fire size and characterizes the fire size distribution tendency. In other words, GI is applied to characterize the extent to which the burned area is concentrated on a small number of larger fires or is recognized as a large number of smaller fires rather than a single large fire (Chen et al., 2Ol7).A higher GI value indicates that the burned area is concentrated in some large fire regions.The duration of active fire involves monitoring the duration of the period from the occurrence to the duration of the fire using the confidence band of FIRMS dataset from $10 \\%$ to $90 \\%$ (Chen et al.,2O17).We calculated the peak month of fires based on the month in which the total number of active fires in each month from 2O0l to 2019 was the largest in a specific location (Chen et al.,2O17). The percentage of each of the four types of vegetation affected by fires is based on the ratio of the active fire counts in each vegetation type to the total active fire counts in the grid cell (Chen et al., 2017). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The eleven calculated indicator maps were integrated into a multiband image in GEE.The tool for the unsupervised classification K-means algorithm in GEE will be applied to classify images using 50oO sample points. Computing the Euclidean distance between the sample points allows the smaller similarity and discrepancy to be gathered into one class,and multiple clusters are eventually formed so that the sample within the same cluster has high similarities and large diferences among different clusters.The advantages of this classification method are its simple principle,easy implementation, fast convergence speed and obvious differences among classifications (Steinley, 2006)，which is very effective for processing high-dimensional images. Moreover, this method effectively conserves the original cluster structure (Steinley, 2Oo6). Therefore, K-means algorithm is applied in this study. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In terms of the given $k$ clusters， the K-means algorithm classifies the given data. However, choosing the right number of clusters is very important for classifying results.A high $k$ value does not necessarily signify a better quality of information (Benmouiza and Cheknane, 2O13). On the contrary,a small number of clusters can cause ambiguous results that do not convey the true meaning. Based on the 5OoO sample points obtained from the image,we determined the optimal number of clusters through analysis to obtain the most robust K-means results. The clusGap function in the R language cluster function package uses Gap statistics to determine the number of $k$ (Furihata et al.,2O19) and uses bootstrap sampling of the data to compare internal differences (500 samples are selected in this article). This method is considered more effective for determining the value of $k$ than other methods (Tibshirani et al., 2OO1). The results of the evaluation are mainly based on silhouette analysis and the number of cluster statistics according to Gap statistics. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Characteristicsof fire regime variables ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figures 2 and 3 showed the annual fire incidence in Central Asia and its respective inter-annual coefficient of variance from the burned area products and active fire products.In Figure 2, the ABAY reveals that the largest burned area occurred in KAZ and the Nukus Irrigation District in UZB. In addition, ABAY also occurred in the Ahal and Mary regions of TKM. KAZ was the country with the worst fires in Central Asia,especially in the eight states in the north-central region of KAZ (West KAZ, Aqtobe, Qostanay, North KAZ, Aqmola, Pavlodar, Qaraghandy and East KAZ) and the Syr Darya and Chuhe River basins. Similarly, Figure 3 shows AFOF in each year, confirming the frequent fires in the abovementioned areas of Central Asia.In TJK and KGZ, the area and frequency of fires were low. It is possible that the fire burn algorithm of FireCCI5.1 has a high threshold in the mountainous area and could not detect an active fire or burned area there. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As expected, in the regions with high fire occurrences i.e.，ABAY and AFOF, the observed inter-annual coeficients of variance are generally lower,and in regions with low fire occurrences, the stability of the coeficient of inter-annual variability is weak,especially in the inter-annual coefficient of variance in active fires,i.e., CVFP.The inter-annual coefficients obtained from different datasets in the central region of KAZ were found to show a strong variability. The coeficient of variation around the northern region of KAZ is small,and the same phenomenon is also found in the Chuhe River Basin in KAZ and Nukus Irrigation Districts in UZB and in the Ahar and Mary regions of TKM. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In Figure 4, the FPDT occurred in spring in northern KAZ (Qostanay, North KAZ and Aqmola), the Syr Darya and Chuhe River basins in KAZ,and the Nukus Irrigation District in UZB.In summer, FPDT was mainly distributed in the central region of KAZ, including West KAZ, Aqtobe, Qostanay, Qaraghandy and East KAZ. Moreover, Tashkent city and the Fergana Valley in KGZ had a high-density region of fire. In TKM, FPDT was unevenly distributed and mainly occurred in winter and summer seasons. Overall, depending on the month, the locations of high-density fires varied. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8795eec57a241b4c026ca14df7a9ad80869207dcfe41efc5cf7ccd512bb89b00.jpg",
+        "img_caption": [
+            "Fig.2Average annualburned area (ABAY,a)and its inter-annual coeficient of variance(CVBA,b) in Central Asia based on FireCCI5.1 burned area data "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f13a547e143649366c385cb1494e54ef2ccf55e59a1fb29c082b6c2e1515415a.jpg",
+        "img_caption": [
+            "Fig.3Average annual active fire frequency (AFOF,a)and its inter-annualcoeficient of variance (CVFP,b) in Central Asia based on MODIS active fire data "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/6cec485d77320f5726532a0742a41e50fa793cf6448699f72e447ad9716c86d2.jpg",
+        "img_caption": [
+            "Fig.4Peak month of fires (FPDT) in different months in Central Asia based on MODIS active fire data "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "FPSD result is presented in Figure 5. The regions with the longest durations in KAZ include North KAZ, Qostanay, Aqmola, East KAZ, Chuhe River Basin, Syr River Basin and the region bordering KAZ and KGZ. The regions with the longest durations include the Nukus Irrigation District and near Tashkent city in UZB.The longest durations are in the states of Ahal and Mary in TKM. Active fires in central KAZ have shorter durations. In Figure 5, GI shows that in KAZ region, especially in the northern part of Qostanay, North KAZ,Aqmola, Chuhe River Basin, Syr River Basin and the border region of KAZ and KGZ, GI value is high. In addition, GI is high in the Nukus Irrgation District of UZB.In central KAZ, GI is low, indicating that there are many small fires and that the burned area is more evenly distributed or that there are few fires in the region. In addition, GI value in parts of KGZ and TJK was high this time, indicating that fires in the region were concentrated and that there were a few large fires. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c7581700cfd80ac205d0ecf5aadc827af11138848c5dd9ab833e962a725c9b91.jpg",
+        "img_caption": [
+            "Fig.5Seasonal duration of fires (FPSD,a) and Gini index (GI,b)in Central Asia based on MODIS burned area data and active fire data "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The vegetation type affected by fire was obtained from the annual MODIS land classification IGBP product. The forest distributed in Central Asia is relatively smalland less affected by fires, and major fires were found in the states of East KAZ and North KAZ (Fig. 6). The vegetation type most affected by fires in Central Asia was grassland, especially in KAZ,as well as in the Nukus Irrigation District and the Ahar and Mary regions in TKM. Farmland burning and fires occurred at about the same time in the region. And it was found that the frequency of farmland burning was generally high. The occurrence of farmland burning is extremely frequent in Central Asia. Moreover, fires in cropland differed in the time of burning straw due to the ripening variation (Fig. 6). ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/237c273ef855a80e9b7e8d297a4626de7408e86457f5eb6adc8640c2009cf336.jpg",
+        "img_caption": [
+            "Fig.6Vegetation types affected by fires in Central Asia based on MODIS active fire data. PFAF,percentage of forest active fires; PGAF,percentage of grassland active fires; PCAF,percentage of cropland active fires; PBAF, percentage of bare land active fires. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 Clustering of fire regimes ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 7 shows that fires in Central Asia present an unbalanced spatial distribution,and many indicators have outliers. The figure shows that three variables (ABAY, AFOF and GI) reached the highest or the lowest values in few locations, indicating that fire burned areas,frequency and fire size in few regions were much larger or smaller than those in other regions in Central Asia. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The K-means algorithm is classified by selecting an appropriate number of clusters. Gap statistics are calculated by the clusGap function to obtain the best classification number. A higher silhouete value is considered to be one of the prerequisites for successful clustering (Benmouiza and Cheknane,2O13). A 0.6O silhouete value is a good result for clusters (Lleti et al.,2004). Surprisingly， the silhouete value obtained in this experiment is O.88,which meets the requirements of experimental analysis.After silhouette analysis, $k { = } 5$ is the best classification. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e127ef9cb475089792b3ee6641cfa0a8450136db40ecf537367d22171df1b267.jpg",
+        "img_caption": [
+            "Fig.7Box plot distribution of fire variable values.The black center mark indicates the median,while the bottom and top edges of the green box and line indicate the $2 5 ^ { \\mathrm { t h } }$ and $7 5 ^ { \\mathrm { t h } }$ percentiles,respectively. Outliers (if any) are indicated by red plus signs. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In terms of the median tendency of eleven variables,we divided the characteristics of the five fire clusters into three to four quantitative levels,and the results are summarized in Table 2. Finally, a map of fire regimes in Central Asia is given in Figure 8.It is concluded that $43 \\%$ of the land in Central Asia is threatened by fires.Table 2 lists five types offire regimes that are different from the above clustering process. The five types of fire regimes are described as follows: ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fire regime 1: Mainly distributed in bare land, these areas are less threatened by fires and have low fire frequency, which may be affected by the low-density fuel bed,accounting for $5 7 . 0 \\%$ of the overall fire-affected area. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fire regime 2: This regime represents fires in cropland, including medium burned areas, frequent active fires,high inter-annual variabilities in burned areas,large intense fires and low fire duration, occupying $5 . 8 \\%$ of the overall fire-affected area in the southwest of Central Asia. The peak months of fires are mainly in winter and summer, which may be caused by crop ripening and farming habits,which are discussed later. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fire regime 3: This regime is characterized by a large burned area, a medium frequency and inter-annual variability of active fire,and by more frequent long duration of fires in grassland in July,and it mainly occurs in central KAZ, with $1 7 . 9 \\%$ of the overall fire-affected area. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fire regime 4: This regime is characterized by an irregular burned area,low frequency small fires,and more fires in grassland in July，with a high inter-annual variability,accounting for $1 5 . 8 \\%$ of the overall fire-affected area. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fire regime 5: This regime is mainly distributed in northern KAZ, the Syr River Basin and Nukus Irrigation District, which belongs to the agricultural area in Central Asia. This regime is characterized by large burned areas and a high frequency of fires that are large and intense, with long duration, and it accounts for approximately $4 . 0 \\%$ of the overall fire-affected area. The peak months of fire mainly occur in spring. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/07e153d8f2f4b1cbaf68d7885e46ae25e0093421c015051e1f3adf7e4f2bf35c.jpg",
+        "table_caption": [
+            "Table 2Fire regime variables and classification of fire regimes "
+        ],
+        "table_footnote": [
+            "Note:-,no value; high-,medium-and low-grade medians are shown in brackets. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Index</td><td colspan=\"5\">Fire regime</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>ABAY (hm²/a)</td><td>Low (0.10)</td><td>Medium (0.30)</td><td>High (0.50)</td><td>Medium (0.30)</td><td>High (0.34)</td></tr><tr><td>AFOF (counts/a)</td><td>Low (0.10)</td><td>High (0.20)</td><td>Medium (0.15)</td><td>Low (0.10)</td><td>High (0.30)</td></tr><tr><td>CVBA</td><td>Low (2.00)</td><td>High (4.20)</td><td>Low (2.80)</td><td>High (4.00)</td><td>Medium (3.00)</td></tr><tr><td>CVFP</td><td>Low (1.70)</td><td>Medium (3.00)</td><td>Medium (2.80)</td><td>High (4.20)</td><td>Low (1.90)</td></tr><tr><td>GI</td><td>Low (0.71)</td><td>High (0.85)</td><td>Medium (0.82)</td><td>Low (0.65)</td><td>High (0.88)</td></tr><tr><td>FPSD (d)</td><td>0.00</td><td>Low (0.45)</td><td>High (3.00)</td><td>Medium (2.00)</td><td>High (5.00)</td></tr><tr><td>FPDT</td><td></td><td>1.00</td><td>7.00</td><td>7.00</td><td>4.00</td></tr><tr><td>Vegetation type</td><td>Bare land</td><td>Cropland</td><td>Grassland</td><td>Grassland</td><td>Cropland</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/8764a0bf7b2516edd25bf52a10aea116f99525e8f9e85367633d182dd3540129.jpg",
+        "img_caption": [
+            "Fig.8Distribution of fire regime in Central Asia "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3Time series of active fires in grassland and cropland ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "As fires in grassland occur very suddenly and are destructive, time series analysis is expected to provide valuable information for fire prevention and control. The number of monthly active fires from 2001 to 2O19 in Central Asia was used to analyze seasonal changes of fires in grassland and cropland.Figure 9 shows that the fire regime conditions across the countries exhibit different seasonal changes over time. Before 2O1O, prairie fires in KAZ were mainly concentrated in April to October,after which the number of active prairie fires suddenly decreased. Before 2O08, KGZ had many active fires in April, August, September and October, after which the number of active fires gradually decentralized. The year 2Oo7 was an important turning point for active fire distribution. Before 2OO7, the active fires in TJK mostly occurred in March,and from June to November, the fires in grassland in UZB were concentrated from March to October, while for TKM, the active fires were mainly distributed in the two periods of February to March and June to October. After 2OO7,the active fires were concentrated in March,August and September for TJK,March to April for UZB,and February to March for TKM. In general, the active fires in grassland significantly decreased in recent years in Central Asia. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Figure 1O shows that in Central Asia, all the countries used seasonal straw burning to improve soil quality. The months of straw burning in KAZ are concentrated between April and May. For KGZ, the months of straw burning are March to April and August to October, and the straw burning period in TKM is similar to that in KGZ,concentrated in the periods from February to March and June to July. In UZB,this practice takes place in July. Different from the other countries, the months of straw burning in TJK is relatively scattered. However, straw burning not only pollutes the air but also causes large-scale fires in grassland. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/7518cf9ac9cd0d0c0d8bc23f0a7440dbaa6409866b4fafb4f6b53ad8bfc14853.jpg",
+        "img_caption": [
+            "Fig.9Monthly active fires in grassland in Central Asia "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.1Impact of fire on grassland productivity ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fire cannot only quickly reduce or remove the biomass on the surface, but it does increase the soil temperature,resulting in a decrease in the soil water content and affecting the water use efficiency of vegetation (Zavala et al.,2O14). Some scholars have stated that fire promotes the renewal of grassland ecosystems and even produce dependence (Pereira et al.,2Ol3). In the central region of KAZ, grasslands are frequently burned by fire.To explore the impact of fire on the productivity of grassland in the region, we selected the annual MODIS net primary productivity (NPP) product of vegetation (MOD17A3HGF V6) to study how the NPP of vegetation varies after the grassland has been burned by fires. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/dedc5d5535ac0c8d8676173e24e977270bec7c18c3730bef50003f8b32da89d6.jpg",
+        "img_caption": [
+            "Fig.10Monthly active fires in cropland in Central Asia "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "All six regions including northeastern Aktobe (A and B)， southern Qostanay (C)，southern Qaraghandy (D)， southern Qaraghandy (E） and East KAZ (F） were burned from August to September 2016 (Fig. 11). Of these regions,A,B and C belong to Fire Regime 3 and are characterized by a large burned area, high-intensity and long-duration fires.D,E and F belong to Fire Regime 4 and are characterized by an irregular burned area and smallow-intensity fires. A, B and C were burned in 2O16,and the results show that the grassland NPP began to decline in 2017, which reflects the poor recovery ability of vegetation. However, for Fire Regime 4, the NPP of grassland began to decrease in 2O16 after burning and then gradually increased,which indicates that moderate-scale fires are conducive to regeneration and restoration in grassland. Of course,the influencing factors of grassland productivity have a considerable relationship with precipitation, temperature, grazing and human activities (Stavi, 2O19). Nevertheless, in the long run,Fire Regime 4 leads to the better vegetation recovery ability than Fire Regime 3 after a fire. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.2 Seasonal differences of fires in grasslands across countries ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "n Central Asia,active agricultural fires are closely related to straw burning. Due to the large volume of straw and high transportation costs, burning is the least expensive method of removing straw to prepare land after harvesting crops (Long et al, 2O16). The burning time of straw is closely related to the local planting and harvesting times. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/fc275cf48cda2717913e0746ffd2fdb72de4f2138d4331e02a133ec868b58674.jpg",
+        "img_caption": [
+            "Fig.11Net primary productivity (NPP)of vegetation in grassand from 2016 to 2019 based on different fire regimes.A,northeastem Aktobe (25 August,2016)； B,northeastern Aktobe (15 August,2016); C,southerm Qostanay (4 September,2016); D,southern Qaraghandy (21 August,2O16); E,southern Qaraghandy(11 August, 2016);F,East Kazakhstan (1 September,2016). "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Normalized difference vegetation index (NDVI) in agricultural areas reflects a phenological cycle of crops from growth to ripening (Zhang et al., 2O19). In other words, there is a crest in the time series,which means that the crops in the region ripen once a year. If there are two crests,it means that the region has two ripening events once a year. If there are three peaks, it means that there are three ripening events once a year (Zhang et al.,2O19). To explore the reasons for the seasonal differences of fires in cropland in Central Asia,we obtained long-term NDVI products (MOD13Q1 V6) from GEE,and drawn NDVI change trends on the platform in major agricultural regions. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In Figure 12, there is a peak in KAZ and KGZ, indicating that the main agricultural regions of the countries ripen once a year, which explains why the time of straw burning of both countries occurred in spring and autumn. In UZB,there is a peak in the Nukus Irrigation District,and there are two peaks in southern Tashkent and the Fergana Valley，which shows that the land will be replanted in summer when straw burning occurs. In UZB,the agricultural areas where can be planted twice a year are larger than that of Nukus Irrigation District, where can be planted once a year,and more fires occur in summer. The agricultural areas of TKM and TJK planted crops twice a year and fires in cropland occur in summer twice too. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.3 Effects of drought on fires in grassland ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Drought is an important factor that causes frequent natural fires. In drought-prone regions, such as Central Asia (Guo et al.， 2O18a,b,2019)，due to long-term high temperatures and scarce precipitation， the vegetation dries quickly，which makes these areas more prone to fires. To explore whether or not drought severity is more likely to lead to a fire,we further discussed the relationship between fire regime and drought conditions in grassand in KAZ at the annual and monthly scales.The Palmer Drought Severity Index (PDSI) (Palmer,1965) was used to judge the drought condition because it can successfully quantify the severity of droughts across different climates (Wang et al., 2015). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Figure 13a show the PDSI (Palmer Drought Severity Index) drought index change from 2001 to 2018,which indicates that the ratios of near normal years,wet years and drought years are 0.39, 0.22 and O.39,respectively. The values suggest that Central Asia was dominated by drought from 2001 to 2O18.Does a higher degree of drought mean a higher risk of fire?We further analyzed the correlation between PDSI of annual fire accumulation frequency and cumulative area (Fig.13b), and found that the annual cumulative burned area and fire frequency in grassland do not correlate well with drought. Therefore,at the annual scale,the drought condition is not the main factor affecting the cumulative burned area and frequency of fires in grassland in Central Asia. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/e2995e512d4fdeff5442f299b4145052e12e5b5787eaae2d3f69590ee20d01e8.jpg",
+        "img_caption": [
+            "Fig.12Time series of normalized diference vegetation index (NDVI) in the agricultural areas of Central Asia from 2015 to 2019 based on MOD13Q1 V6 products.KAZ1, northern Kazakhstan; KAZ2, Syr Darya Valley; KGZ1,northern Kyrgyzstan; KGZ2, Uzgen City; UZB1,Nukus Irigation District; UZB2,southern Tashkent City; UZB3, Fergana Valley. "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/c9c33639b4037ac145d2bd162b1cf61d46460cb4e18ca67b634220aae736c7a8.jpg",
+        "img_caption": [
+            "Fig.13Relationship between PSDI(Palmer Drought Severity Index)and annual burned area in grassand.(a), PDSI change from 200l to 2018;(b),correlations of PDSI with frequencyand cumulative area of fires in grassland in Kazakhstan. "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The relationship between burned area in grassland and PSDI indicates that near normal and humid conditions occurred in most months，while the distribution of dry months gradually changed from random to concentrated. From Figure l4a, we can see that drought was mainly concentrated from April to October, especially in June and September, which is consistent with the high-frequency active fires in grassland (Fig.14b). In winter, regardless of drought or wet conditions,the burned area in grassland was very small. In summer,persistent droughts often result in large-scale fires in grassland. According to statistics,when PDSI reveals a moderate or more severe drought event in summer,the probability that the burned area in grassland will exceed $5 0 0 0 ~ \\mathrm { k m } ^ { 2 }$ is $7 3 . 3 \\%$ ，which may be related to the highest vegetation biomass at the time. Moreover,it was found that the large monthly burned area in grassland $( 1 { \\times } 1 0 ^ { 4 } – 3 { \\times } 1 0 ^ { 4 } \\ \\mathrm { k m } ^ { 2 } )$ is negatively correlated with PDSI $( r = - 0 . 4 1$ $P { = } 0 . 0 1 7 \\cdot$ and strongly positively correlated with PDSI 0 $\\scriptstyle \\overbrace { r = 0 . 8 2 }$ ， $P { = } 0 . 0 2 0 \\$ ）after more than $3 5 , 0 0 0 ~ \\mathrm { k m } ^ { 2 }$ monthly burned area in grassland.It can be seen that a certain scale of burned grassland is closely related to the drought at the monthly scale. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/f4f2edeb7a852bb404a53e78f6a0ac27b1cfb9d364ca93b5917c59bfc368822f.jpg",
+        "img_caption": [
+            "Fig.14Relationship between PDSI (Palmer Drought Severity Index)and monthly burned area in grassland.(a), monthly PDSI from 2001to 2018; (b)monthly burned area in grassland from 2001 to 2018 in Kazakhstan. "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The overall distribution of fires in Central Asia is uneven,and KAZ is the country most threatened by fires. Grassand in KAZ is the most afected vegetation type by fire.The fires in grassand in five countries have gradually decreased in recent years, which show that the fire control by government has achieved remarkable results. The fires in cropland are mainly caused by straw burning,and the burning time of straws in different countries is inconsistent. However, due to the suddenly occurrence of fires in grassland and huge effects on humans and livestock, vigilance is needed. There are still some shortcomings in our study,especially the fact that ignition source as an important component of a fire regime was not involved in the work, because of the lack of ground fire survey data.Therefore,it is difficult to distinguish between natural fire sources and man-made fire sources only by remote sensing data. As a research topic to be explored in the next stage of work,a fire risk analysis will be carried out under the interactive influence of human activities and natural factors.Moreover,we willuse a variety of indicators and algorithms to test the correlation between fire variables and ecological and human factors. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "This reearch was supported by the Strategic Priority Research Program of Chinese Academy of Sciences (XDA19030301). We are very grateful for vector data from countries and states provided by the Center for Spatial Sciences at the UniversityofCalifornia,Davis.We thank theFire Information for Resource Management System (FIRMS)for sharing data on Google Earth Engine (GEE).We also acknowledge the GEE platform for providing various processng services.We are also very grateful to Prof.John ABATZOGLOU and others for providing the Terraclimate dataset on the GEE platform. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "AndelaN,MortonDC,GiglioL,etal.2O17.Ahuman-drivendeclinein globalburnedarea.Science,356(6345):1356-1362.   \nArchibaldS,RoyDP,vanWilgenBW,etal.2Oo9.Whatlimitsfire?AnexaminationofdriversofburntareainSoutherAfrica. Global Change Biology,15(3):613-630.   \nArgibayD S,Sparacino J,EspindolaG M.2O20.A long-term assessment offireregimes ina Brazilianecotone between seasonally dry tropical forests and savannah.Ecological Indicators,113:106151.   \nBastarrika A,Chuvieco E,Martin MP.2O11.Mapping burned areas from Landsat $\\mathrm { T M / E T M + }$ data with a two-phase algorithm: Balancing omission and commission errors.Remote Sensing of Environment,115(4):1oo3-1012.   \nBenmouiza K,Cheknane A.2O13.Forecasting hourly global solarradiationusing hybrid k-means andnonlinearautoregressive neural network models.Energy Conversion and Management,75:561-569.   \nCalvino-CancelaM,Chas-AmilMLGarcia-artiezED,etalO7.Interactingefectsoftoporaphegetationuan activities and wildland-urban interfaces on wildfire ignition risk.Forest Ecologyand Management,397:10-17. Applied Geography, 85: 14-26.   \nChen G,He Y,de Santis A,et al.2O17.Assessng the impact of emerging forest disease on wildfire using Landsat and KOMPSAT-2 data.Remote Sensing of Environment, 195: 218-229.   \nChen Y,MortonDC,Andela N,et al.2O16.How much global burned areacan be forecast onseasonal timescales usingsea surface temperatures? Environmental Research Letters,11(4): 045001.   \nChuviecoE,MartinMP,PaaciosA.2Oo2.Asessmentofdifferentspctralindices intheed-near-infraredspectraldominfor burned land discrimination.International Journal of Remote Sensing,23(2): 51O3-5110.   \nChuvieco E,GiglioL,JusticeC.2008.Global characterizationof fire activity:towarddefining fireregimes from Earth observation data. Global Change Biology,14(7):1488-1502.   \nChuvieco E,Martinez S,Roman MV,etal.2014.Integrationof ecologicalandsocio-economicfactors toassess global vulnerability to wildfire. Global Ecology and Biogeography,23(2): 245-258.   \nDavies DK,Ilavajhala S,Wong MM,etal.2Oo9.Fire Informationforresource managementsystem:archivinganddistriuting MODIS active fire data. IEEE Transactions on Geoscience and Remote Sensing,47(1): 72-79.   \nDevineauJL,FournierA,Nignan S.20l0.Savanna fireregimesassssmentwith MODIS firedata:Theirrelationshiptoland coverand plantspeciesdistribution in western BurkinaFaso(West Africa).Journalof AridEnvironments,74(9):1092-1101.   \nDowning TA,Imo M, Kimanzi J.2017.Fire occurrenceon Mount Kenya and paterns of burning. GeoResJ,13:17-26.   \nFlaniganMD,StocksBJ,WotonBM.20o0.Climatechangeand forestfires.ScienceoftheTotalEnvironment,262(3): 221-229.   \nFlannigan M D,Amiro B D,Logan K A,et al.2006.Forest fires and climate change in the $2 1 ^ { \\mathrm { s t } }$ century. Mitigation and Adaptation Strategies for Global Change,11: 847-859.   \nFurihataS,KasaiA,HidakaK,etal.O19.Ecologicalrisksofinsecticideontamiationinwaterandsdimentaroudf irrigated rice paddy fields. Environmental Pollution,251: 628-638.   \nGregoireJM,EvaHD,BelwardAS,etal.2O13.Efectofland-coverchangeonAfrica's burntarea.International Jouralof Wildland Fire,22:107.   \nGuo H,Chen S,BaoAM,etal.2O15.Inter-comparisonofhigh-resolutionsateliteprecipitation productsoverCentral Asia. Remote Sensing,7(6): 7181-7211.   \nGuo H,BaoAM,NdayisabaF,etalOl7.Systematicalevauationofsatelite precipitationestimatesovercentralAsiausingan improved eror-component procedure. Journal of Geophysical Research: Atmospheres,122(20):10906-10927.   \nGuoH,BaoAMFelixN,etal.Ol8apace-timecharacterizationofdroughteventsandtheirimpactsonvegetationiCetal Asia. Journal of Hydrology, 564: 1165-1178.   \nGuo H,BaoAM,LiuT,etal.2018b.Spatialand temporalcharacteristicsof droughts in CentralAsia during1966-2015. Science of the Total Environment,624:1523-1538.   \nGuo H,BaoAM,LiuT,etal.2O19.Determining variable weights foran Optimal Scaled DroughtCondition Index(OSDCI): Evaluation in Central Asia.Remote Sensing of Environment,231: 111220.   \nHantson S,Pueyo S,Chuvieco E.2O15.Global firesizedistributionis driven by human impact and climate.Global Ecology and Biogeography, 24(1): 77-86.   \nJiangLL,GuliJP,BaoAM,etal.2O17.Vegetationdynamicsandresponses tocimatechangeand humanactivitiesinCentral Asia. Science of the Total Environment, 599-60O: 967-980.   \nJusticeCO,GiglioL,KorontziS,etal.02.The MODISfireproducts.Remote SensingofEnvironment,83(1-2):244-26.   \nKlein I,Gesser U,Kuenzer C.2012.Regional land cover mappingand change detection in Central Asiausing MODIS time-series.Applied Geography,35(1-2): 219-234.   \nKrebsP,Pezzati GB,Mazzoleni S,etal.2Ol0.Fireregime:historyanddefinitionofakeyconceptindisturbance ecology. Theory in Biosciences,129: 53-69.   \nLehman CE,AndersonTM,Sankaran M,etal.2O14.Savanna vegetation-fire-climate relationships diferamongcontinents. Science,343(6170): 548-552.   \nLevin N,Heimowitz A.2012.Mapping spatialand temporal pattersof Mediterranean wildfires from MODIS.Remote Sensing of Environment,126:12-26.   \nLizundia-LoiolaJ,OtonGRamoR,etal.2O2o.Aspatio-temporalactive-fireclusteringapproach forglobalburnedarea mapping at $2 5 0 \\mathrm { m }$ from MODIS data. Remote Sensing of Environment,236:111493.   \nLleti R,Ortiz M C,Sarabia L A, et al. 2004. Selecting variables for $\\mathbf { k }$ means cluster analysis by using a genetic algorithm that optimizes the silhouettes.Analytica Chimica Acta,515(1): 87-100.   \nLong X,Tie X X,CaoJL,etal.2016.Impact of crop field burning and mountains on heavy hazein the North China Plain: a case study. Atmospheric Chemistry and Physics,16: 9675-9691.   \nMoreiraF,ViedmaO,Arianoutsou M,etal.2O11.Landscape-wildfire interactions insouthern Europe:Implications for landscape management. Journal of Environmental Management, 92(1O): 2389-2402.   \nMorgan P,HardyCC,Swetnam TW,et al.2Ool.Mappng fireregimes acrosstime and space: Understanding coarse and fine-scale fire patterns.International Journal of Wildland Fire,1O(3-4): 329-342.   \nMusyimi Z,SaidMY,ZidaD,etal.2O17.Evaluating fire severity in Sudanian ecosystems of BurkinaFaso usingLandsat8 satellite images.Journal of Arid Environments,139,95-109.   \nOliveras I, AndersonLO,Malhi Y.2O14.Applicationof remotesensing tounderstanding fireregimes and biomass burning emissions of the tropical Andes.Global Biogeochemical Cycles,28(4): 480-496.   \nPalmer WC.1965.Meteorological Drought. U.S.Department of Commerce: Weather Bureau Research Paper,45: 45-58.   \nPausasJG,Fernandez-Munoz S.2Ol2.Fireregimechanges in the Western Mediterrnean Basin:from fuel-limitedto drought-driven fire regime.Climatic Change,11O: 215-226.   \nPereira P,CerdaA,JordanA,etal.2Ol3.Spatio-temporalvegetationrecuperationafteragrassandfireinLithuania.Procedia Environmental Sciences,19: 856-864.   \nPetrenko M,KahnR,ChinM,etal.2O12.Theuseofsatelite-measuredaerosoloptical depth toconstrainbiomassburnng emissions source strength in the global model GOCART.Journal of Geophysical Research: Atmospheres,117(D18):23-24.   \nQi J,BobushevTS,KulmatovR,etal.2O12.Addressng globalchangechallnges forCentral Asiansocio-ecosystems. Frontiers of Earth Science,6(2):115-121.   \nRoy DP,BoschetiL,Smith AM S.2O13.Satelite remote sensingoffires.Fire Phenomena and the Earth System,77-93.   \nSchepersL,HaestB,Veraverbeke S,etal.2O14.Burnedarea detectionand burnseverityassssmentofaheathland firein Belgium using airborne imaging spectroscopy (APEX). Remote Sensing, 6(3): 1803-1826.   \nStaviI.2019.Wildfiresigaslandsandsrublands:Arviewofimpactsonvegetation,oil,hydrologyandgeomoolog Water,11(5):1042.   \nSteinleyD.26.K-means clustering:ahalf-centurysynthesis.TheBritish Jouralof Mathematicaland Statistical Psychology, 59: 1-34.   \nTibshiraniR,WaltherG HastieT.2Oo1.Estimating thenumberof clusters inadatasetvia thegapstatistic.Journalof theRoyal Statistical Society: Series B (Statistical Methodology), 63(2): 411-423.   \nVadrevuKP,ElicottE,GigioL,etal.l.Vegetationfiresinthemalayaregion-Aerosolloadblackcarboo and smoke plume heights.Atmospheric Environment,47: 241-251.   \nWangHJ,ChenYN,PanYP,etal.2Ol5.Spatialandtemporal variabilityofdroughtinthearidregionofChinaandits relationships to teleconnection indices.Journal of Hydrology,523:283-296.   \nYang J,TianHQ,TaoB,etal.2O14.Spatialand temporal paternsof globalburedareainresponse toanthropogenicand environmental factors:Reconstructing global fire history for the $2 0 ^ { \\mathrm { { u } } }$ and early $2 1 ^ { \\mathrm { s t } }$ centuries.Journal of Geophysical Research: Biogeosciences,119(3): 249-263.   \nZavalaLMM,deCelis SilviaR,etal.2014.How wildfiresafectsoil properties.Abrief review.Cuadermos deinvestigacion geografica/Geographical Research Letters,40(2): 311-331.   \nZeng Y,Yang XK,angNF,etal.2O20.Large-scaleafforestationsignificantlyincreasespermanentsurfacewaterinChina's vegetation restoration regions.Agricultural and Forest Meteorology,29O:108001.   \nZhang HX,ChenTX,Jiang XD,etal.2O19.Asymmetricinterannual variationtrendof NDVIintwo-cropping farmlandin eastern China and its potential climaticcauses.JournalofJiangsu Agricultural Sciences,47:242-247. (in Chinese) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    }
+]

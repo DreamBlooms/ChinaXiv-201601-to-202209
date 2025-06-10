@@ -1,0 +1,604 @@
+[
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高晔1.2 李碧波²\\*黄帅」王荣斌王冬4 李琴芳屈雷1\"",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3 （1.榆林学院生命科学研究中心，榆林 719000；2.西北农林科技大学动物科技学院，杨凌  \n4 712100；3.陕西省榆林市畜牧兽医研究与技术推广站，榆林 719000；4.陕西省榆林市府谷县  \n5 府谷镇兽医站，榆林 719000；5.陕西省榆林市佳县动物疫病预防控制中心，榆林 719000)  \n6 摘要：本试验旨在研究陕北白绒山羊羯羊能量和蛋白质的需要量，为制定其饲养标准提供  \n7 数据。选取36只体重相近、健康状况良好的陕北白绒山羊周岁羯羊，按 $3 { \\times } 3 ($ 能量 $\\times$ 蛋白质)  \n8 完全随机设计分为9组，每组4个重复，每个重复1只。各组饲粮消化能和粗蛋白质水平分别  \n9 参照NRC（1981）推荐量的 $100 \\%$ 、 $1 1 0 \\%$ 、 $120 \\%$ 和 $90 \\%$ 、 $1 1 0 \\%$ 、 $1 3 0 \\%$ 设定。预试期7d，正  \n10 试期46d。结果表明：1）饲粮能量水平对周岁羯羊的干物质采食量和平均日增重都有极显  \n11 著影响 $( P { < } 0 . 0 1 )$ ，蛋白质水平对干物质采食量影响显著 $( P { < } 0 . 0 5 )$ ；饲粮能量和蛋白质水平对  \n12 干物质采食量有显著的互作效应（ $P { < } 0 . 0 5$ )。2）低能量水平组的可消化氮显著低于中能量水  \n13 平组与高能量水平组 $( P { < } 0 . 0 5 )$ ；低蛋白质水平组的进食氮、可消化氮、沉积氮、氮表观消化  \n14 率均极显著低于中蛋白质水平组和高蛋白质水平组 $( P { < } 0 . 0 1 )$ 。3）总能消化率和总能代谢率  \n15 均随着能量水平的提高而极显著地升高（ $_ { P < 0 . 0 1 } \\dot { } .$ )；高蛋白质水平组的总能代谢率和消化能  \n16 代谢率显著低于低蛋白质水平组（ $P { < } 0 . 0 5 \\mathrm { ~ }$ ；能量和蛋白质水平对总能消化率、总能代谢率  \n17 和消化能代谢率均产生显著或极显著的互作效应（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ )。本试验得到了陕北白  \n18 绒山羊周岁羯羊能量和蛋白质需要量的回归方程，饲粮的消化能和代谢能分别以 $8 . 8 0 \\sim 1 0 . 6 1 \\$   \n19 MJ/kg和 $1 7 . 3 4 \\sim 8 . 7 6 \\mathrm { M J / k g }$ 较为适宜，粗蛋白质和可消化粗蛋白质分别以 $1 0 . 0 0 \\%$ 和 $1 7 . 3 4 \\%$ 为宜。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：陕北白绒山羊；周岁羯羊；能量；蛋白质；需要量",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S826",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "我国是世界山羊绒生产和出口大国，过去绒山羊多以放牧为主，随着国家封山禁牧政策的施行，舍饲逐渐成为主要饲养方式[-]。陕北白绒山羊是以辽宁绒山羊为父本，陕北黑山",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "羊为母本，历经25年培育而成的绒肉兼用型优质绒山羊品种，具有绒质优秀，肉质鲜嫩无膻味等特点[3]。陕北白绒山羊已成为陕北地区的主导产业，其中羯羊肉非常畅销，越来越受到消费者的欢迎，产出的\"横山羊肉\"被认定为全国地理标志产品保护产品[4]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "虽然部分山羊品种的羯羊营养已经有了相关研究，张振伟等[5指出中卫山羊羯羊的饲粮消化能（DE）水平在8.71\\~9.53MJ/kg时肥育效果最好，张兵等[发现在中蛋白质水平下，中卫山羊羯羊生长性能与屠宰性能最佳。但是在绒山羊营养需要量方面，我国舍饲条件下绒山羊的国家饲养标准仍未建立起来，对羯羊而言，仅研究了内蒙古白绒山羊羯羊的钙、磷需要量，其蛋白质和能量需要量的研究尚未见到相关报道，造成实际生产中羯羊育肥期发生尿结石、消化不良和酸中毒等现象，引发蛋白质饲料过度浪费、饲料成本升高、环境污染等问题[8]，严重地制约了绒山羊产业健康和科学的发展。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本试验采用饲养试验和消化代谢试验相结合的方法，研究舍饲条件下陕北白绒山羊羯羊的能量和蛋白质需要量，为制定我国绒山羊饲养标准奠定基础，从而为最大限度地提高我国绒山羊的健康、生产性能以及饲料利用效率提供理论基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验动物及试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "于陕西省陕北绒山羊工程技术研究中心选取36只健康无病、体况中等、体重接近的周岁羯羊，作为试验羊，按 $3 { \\times } 3 0$ 能量 $\\times$ 蛋白质)完全随机试验设计将其分成9组，每组4个重复，每个重复1只羊。试验在榆林学院生命科学研究中心试验羊场进行。试验共进行53d，其中预试期7d，正试期 $4 6 \\mathrm { d }$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本试验按照析因法进行周岁羯羊能量、蛋白质需要量的研究。根据营养学原理，羯羊能量或蛋白质需要量主要由维持需要和生长需要量2部分构成，维持需要和生长需要量分别与羊的代谢体重（ $\\mathbf { W } ^ { 0 . 7 5 } \\mathbf { , k g }$ ）和平均日增重（ $\\mathrm { \\ A D G , g / d }$ ）呈线性关系，可用下式表示：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$E$ 或 $P { = } \\mathrm { a } { \\times } \\mathrm { W } ^ { 0 . 7 5 } { + } \\mathrm { b } { \\times } \\mathrm { A D G } { _ { \\circ } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $E$ 为DE（MJ/d）或代谢能（ME，MJ/d)； $P$ 为粗蛋白质（CP，g/d）或可消化粗蛋白质（DCP，g/d)；a为维持需要常数；b为生长需要常数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2试验饲粮及饲养管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验采用 $3 { \\times } 3$ （能量×蛋白质）完全随机试验设计，以NRC（1981）山羊饲养标准的维持需要基础上，能够满足 $1 0 0 ~ \\mathrm { g / d }$ ADG作为推荐量，饲粮DE 和CP水平分别为推荐量的$100 \\%$ 、 $1 1 0 \\%$ 、 $120 \\%$ 和 $90 \\%$ 、 $1 1 0 \\%$ 、 $1 3 0 \\%$ 设定。试验饲粮组成及营养水平见表1。其中I、I 和II组的精粗比约为2:8， $\\mathrm { I V }$ 、V和VI组的精粗比约为4:6，VII、VI和IX组的精粗比约为5:5。试验前对羊舍进行彻底的消毒，并对试验羊进行统一驱虫接种疫苗并打耳号。试验羊全部采用单栏饲养。于08:00与16:00每日饲喂2次，早晚各1次，先精后粗，保证每只羊的投料量略有剩余。试验期间每天供给试验羊充足洁净的饮水，准确记录给料量和剩料量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/6472bbd460cf845d3ed4b65766e60b549438a5e85344b1a237b1f49e39d4ca86.jpg",
+        "table_caption": [
+            "Table 1Composition and nutrient levels of experimental diets $\\%$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"9\">组别Groups</td></tr><tr><td>I</td><td>II</td><td>Ⅲ</td><td>IV</td><td>V</td><td>VI</td><td>VII</td><td>VII</td><td>IX</td></tr><tr><td>原料 (风干基础)</td><td>Ingredients (air-dry basis)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>玉米秸秆 Corn straw</td><td>78.00</td><td>78.00</td><td>78.50</td><td>33.00</td><td>33.00</td><td>33.00</td><td>20.80</td><td>20.00</td><td>20.0g</td></tr><tr><td>苜蓿干草 Alfalfa hay</td><td></td><td></td><td></td><td>30.00</td><td>30.00</td><td>30.00</td><td>30.00</td><td>30.00</td><td>30.00</td></tr><tr><td>玉米Corn</td><td>7.80</td><td>2.87</td><td></td><td>29.20</td><td>25.00</td><td>20.80</td><td>43.47</td><td>37.80</td><td>34.50</td></tr><tr><td>麦麸 Wheat bran</td><td>9.80</td><td>8.80</td><td>6.37</td><td>6.57</td><td>6.82</td><td>6.82</td><td>2.80</td><td>5.87</td><td>5.47</td></tr><tr><td>豆粕 Soybean meal</td><td>3.27</td><td>9.20</td><td>14.00</td><td></td><td>4.00</td><td>8.20</td><td></td><td>3.50</td><td>7.20</td></tr><tr><td>食盐 NaCl</td><td>0.40</td><td>0.40</td><td>0.40</td><td>0.40</td><td>0.40</td><td>0.40</td><td>0.4Q</td><td>0.40</td><td>0.4Q</td></tr><tr><td>石粉 Limestone</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.35</td><td>0.35</td><td>0.35</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.35</td><td>0.30</td><td>0.30</td><td>0.40</td><td>0.30</td><td>0.30</td></tr><tr><td>花生油 Peanut oil</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.50</td><td>1.50</td><td>1.50</td></tr><tr><td>预混料Premixl)</td><td>0.13</td><td>0.13</td><td>0.13</td><td>0.13</td><td>0.13</td><td>0.13</td><td>0.13</td><td>0.13</td><td>0.13</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td colspan=\"10\">营养水平(干物质基础) Nutrient levels (DMbasis）2)</td></tr><tr><td>消化能DE/(MJ/kg)</td><td>8.53</td><td>8.61</td><td>8.54</td><td>9.64</td><td>9.66</td><td>9.74</td><td>10.81</td><td>10.77</td><td>10.53</td></tr><tr><td>粗蛋白质CP</td><td>8.78</td><td>10.07</td><td>11.33</td><td>8.46</td><td>9.99</td><td>11.38</td><td>8.37</td><td>9.93</td><td>11.40</td></tr><tr><td>消化能/粗蛋白质DE/CP</td><td>0.97</td><td>0.86</td><td>0.75</td><td>1.14</td><td>0.97</td><td>0.86</td><td>1.29</td><td>1.08</td><td>0.92</td></tr><tr><td>钙Ca</td><td>0.68</td><td>0.70</td><td>0.71</td><td>0.69</td><td>0.69</td><td>0.69</td><td>0.70</td><td>0.67</td><td>0.68</td></tr><tr><td>磷P</td><td>0.26</td><td>0.28</td><td>0.28</td><td>0.26</td><td>0.27</td><td>0.29</td><td>0.26</td><td>0.27</td><td>0.28</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1每千克预混料中含有 One kilogram of premix contained the following:FeSO4\\*7HO $1 7 0 \\ \\mathrm { g }$ ， $\\mathrm { C u S O _ { 4 } }$ 5H0 70 g，MnSO4·HO 203 g, $\\mathrm { { Z n S O _ { 4 } } }$ 7HO240g，CoCl $6 \\mathrm { H } _ { 2 } \\mathrm { O }$ 510 mg，NazSeO3 $1 3 0 \\mathrm { m g }$ ，KI $2 2 0 \\mathrm { m g }$ ，载体carrier 278.1g，VA30 000 000 IU，VD37800 000 IU，VE 30 000 IU。 2消化能、粗蛋白质为实测值，其余为计算值。DE and CP were measured value，while the others were calculated values. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3消化代谢试验 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/5925799c439832393a9a8a4ff5d48963c4ec753b9efb73654bc19465b01e264a.jpg",
+        "table_caption": [
+            "表1试验饲粮组成及营养水平"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>删除的内容：78.0</td></tr><tr><td>删除的内容：78.0</td></tr><tr><td>删除的内容：78.5</td></tr><tr><td>删除的内容：33.0</td></tr><tr><td>删除的内容：33.0</td></tr><tr><td>删除的内容：33.0</td></tr><tr><td>删除的内容：20.8</td></tr><tr><td>删除的内容：20.0</td></tr><tr><td>删除的内容：20.0</td></tr><tr><td>删除的内容：30.0</td></tr><tr><td>删除的内容:30.0</td></tr><tr><td>删除的内容：30.0 删除的内容：30.0</td></tr><tr><td>删除的内容：30.0</td></tr><tr><td>删除的内容:30.0</td></tr><tr><td>删除的内容：7.8</td></tr><tr><td>删除的内容：2.9</td></tr><tr><td>删除的内容：29.2</td></tr><tr><td>删除的内容：25.0</td></tr><tr><td>删除的内容：20.8</td></tr><tr><td>删除的内容：43.5</td></tr><tr><td>删除的内容：37.8</td></tr><tr><td>删除的内容：34.5</td></tr><tr><td>删除的内容：9.8</td></tr><tr><td>删除的内容：8.8</td></tr><tr><td>删除的内容：6.4</td></tr><tr><td>删除的内容：6.6</td></tr><tr><td>删除的内容:6.8</td></tr><tr><td>删除的内容：6.8</td></tr><tr><td>删除的内容：2.8</td></tr><tr><td>删除的内容：5.9</td></tr><tr><td>删除的内容：5.5</td></tr><tr><td>删除的内容：3.3</td></tr><tr><td>删除的内容：9.2</td></tr><tr><td>删除的内容：14.0</td></tr><tr><td>删除的内容：4.0 删除的内容：8.2</td></tr><tr><td>删除的内容：3.5</td></tr><tr><td>删除的内容：7.2</td></tr><tr><td>删除的内容：0.4</td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在饲养试验的最后14d采用全收粪、尿法进行消化代谢试验（前7d为预试期），每组取3只体重相近、精神状态较为一致的试羊于专门的消化代谢笼中进行。试验期间，每天07:00和19:00各收集粪、尿样1次，准确称重并记录。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4样品收集与处理",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "饲粮按常规方法取样，每天将剩料样取出1部分，以羊只个体为单位进行收集保存，待饲养试验结束后，混合均匀并按照 $10 \\%$ 的比例以四分法取样。将采集的粪样和尿样分别称重后混合均匀，并按照粪样 $1 0 \\%$ 的量进行采样后加入 $1 0 \\%$ 的盐酸固氮，65℃烘箱中连续烘8h至恒重，回潮 $2 4 \\mathrm { h }$ ，成风干粪样后粉碎过筛，样品袋中保存。收集的尿样用纱布过滤杂质后按 $1 0 \\%$ 取样，并加入 $\\mathrm { { 1 m o l / L } }$ 硫酸，以调整尿液pH低于3，注明日期和动物编号， $- 2 0 \\mathrm { ~ \\textdegree ~ }$ 保存待用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5指标测定",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.1 ADG ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分别于试验开始及试验结束时，连续3d对空腹试验羊准确称重，以3d的平均值作为试验羊的初重和末重，计算各组母羊在试验期的ADG。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.2饲粮、剩料、粪和尿中常规营养成分",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "饲粮中常规营养成分按照杨胜[10]的饲料分析及饲料检测技术进行测定，粪和尿中干物质、CP和总能（GE）参考贺建华[II介绍的方法进行测定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.3氮表观消化率、GE 消化率、GE代谢率、DE代谢率",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "氮表观消化率 $( \\% ) \\ = 1 0 0 \\times$ （进食氮-粪氮）/进食氮;GE消化率 $( \\% ) \\ = 1 0 0 \\times$ （GE-粪能）/GE;GE代谢率（ $\\%$ ） $\\mathtt { \\Pi = 1 0 0 \\times }$ （GE-粪能-尿能-甲烷能）/GE;DE代谢率（%） $= 1 0 0 \\times$ (GE-粪能-尿能-甲烷能）/(GE-粪能)。其中，甲烷能采用 Blaxter 法[2]估算，公式为：甲烷能占GE百分比（ $\\% ) \\ = 3 . 6 7 \\substack { + 0 . 0 6 2 \\times \\mathrm { G E } }$ 消化率。经估算可知，本试验中试羊的甲烷能平均值为GE 的 $7 . 6 7 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.4CP 和 DCP 的摄入量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据试验记录和消化代谢试验，按照下列公式计算羊每天的CP和DCP的摄入量：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CP摄入量（g/d) $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ 采食量×饲粮中CP含量;  \nDCP摄入量（g/d) $\\scriptstyle = \\mathbf { C P }$ 摄入量 $\\times \\mathrm { C P }$ 消化率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5.5DE和ME摄入量",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据试验记录和消化代谢试验，按照下式进行计算羊每天的DE 和ME的摄入量：DE摄入量（MJ/d） $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ 干物质采食量×饲粮能量水平 $\\mathbf { \\sigma } \\times \\mathbf { G E }$ 消化率；ME摄入量（MJ/d） $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ 干物质采食量 $\\mathbf { \\tilde { \\Sigma } } _ { \\times } { \\mathbf { \\Sigma } } _ { \\times }$ 饲粮能量水平 $\\mathbf { \\sigma } \\times \\mathbf { G E }$ 代谢率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.6数据处理与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试验数据采用Excel2013进行初步处理后，采用 SPSS17.0统计软件中的ANOVA进行双因子方差分析（two-way ANOVA)，多重比较与线性回归相关性分析采用Duncan 氏法，以 $P { < } 0 . 0 5$ 为差异显著， $P { < } 0 . 0 1$ 为差异极显著。结果用\"平均值±标准差（mean $\\pm \\mathrm { S D }$ ）\"形式表示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1生长性能",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，I组试验羊干物质采食量最低，与其他组差异极显著（ $_ { \\scriptstyle P < 0 . 0 1 }$ ）；IX组试验羊ADG最高，显著高于I和IV组（ $_ { _ { P < 0 . 0 5 } }$ ）。低能量水平组的干物质采食量极显著低于中能量水平组 $( P { < } 0 . 0 1 )$ ，显著低于高能量水平组 $( P { < } 0 . 0 5 )$ ；低能量水平组的ADG 显著低于高能量水平组 $( P { < } 0 . 0 5 )$ 。低蛋白质水平组的干物质采食量极显著低于中蛋白质水平组 $( P { < } 0 . 0 1 )$ ，显著低于高蛋白质水平组 $( P { < } 0 . 0 5 )$ ；饲粮蛋白质水平对ADG的影响不显著（ $P { > } 0 . 0 5$ )。能量和蛋白质对干物质采食量有极显著的互作效应（ $_ { \\scriptstyle P < 0 . 0 1 }$ )。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/d0b46de53ece1fa1e5dd6ee992bc112f7861c3780e929b18e35010367a8a1e2e.jpg",
+        "table_caption": [
+            "表2饲粮能量和蛋白质水平对陕北白绒山羊羯羊生长性能的影响",
+            "Table2Efects of energy and protein levels on growth performance of Shanbei white cashmere goats "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目 Items</td><td></td><td>干物质采食量 DMI/(g/d)</td><td>初重Initial weight/kg</td><td>末重Final weight/kg</td><td>平均日增重 ADG/g</td></tr><tr><td rowspan=\"5\"></td><td>I</td><td>884.05±31.21Aa</td><td>23.28±1.62</td><td>25.02±1.38a</td><td>54.58±12.72a</td></tr><tr><td>II</td><td>932.79±20.17Bb</td><td>24.68±1.99</td><td>26.81±4.12ab</td><td>66.67±101.61ab</td></tr><tr><td>IⅢI</td><td>940.88±16.03Bb</td><td>24.88±1.96</td><td>27.71±2.41ab</td><td>88.67±17.13ab</td></tr><tr><td>IV</td><td>949.06±11.35Bb</td><td>23.85±1.79</td><td>25.63±1.90a</td><td>55.42±69.83a</td></tr><tr><td>V</td><td>948.01±7.29Bb</td><td>23.33±2.03</td><td>26.08±1.24ab</td><td>86.08±25.76ab</td></tr><tr><td rowspan=\"5\">Groups</td><td>VI</td><td>944.50±11.76Bb</td><td>23.60±1.49</td><td>26.42±1.60ab</td><td>88.00±17.03ab</td></tr><tr><td>VII</td><td>931.21±15.98Bb</td><td>25.08±2.12</td><td>28.28±2.24ab</td><td>100.00±37.88ab</td></tr><tr><td>VII</td><td>947.28±11.76Bb</td><td>23.80±1.01</td><td>27.16±1.18ab</td><td>105.00±29.00ab</td></tr><tr><td>IX</td><td>933.75±14.84Bb</td><td>25.05±0.66</td><td>29.34±0.68b</td><td>134.08±0.69b</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/2c5711141d518646ee1669f83569245cd8ffb737e3b1b471369c754fd21c9cde.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>SEM</td><td></td><td>4.06</td><td>0.28</td><td>0.37</td><td>7.84</td></tr><tr><td>P值</td><td>能量Energy</td><td>0.001</td><td>0.322</td><td>0.036</td><td>0.062</td></tr><tr><td>P-values</td><td>蛋白质Protein</td><td>0.010</td><td>0.689</td><td>0.199</td><td>0.218</td></tr><tr><td rowspan=\"2\"></td><td>能量×蛋白质 Energyxprotein</td><td>0.007</td><td>0.563</td><td>0.653</td><td>0.975</td></tr><tr><td>低Low</td><td>919.24Aa</td><td>24.28</td><td>26.51ab</td><td>69.97a</td></tr><tr><td>能量 Energy</td><td>中Medium</td><td>947.19Bb</td><td>23.59</td><td>26.04a</td><td>76.50ab</td></tr><tr><td></td><td>高High</td><td>937.41ABb</td><td>24.64</td><td>28.26b</td><td>113.03b</td></tr><tr><td>蛋白质</td><td>低Low</td><td>921.44Aa</td><td>24.07</td><td>26.31</td><td>70.00</td></tr><tr><td>Protein</td><td>中 Medium</td><td>942.69Bb</td><td>23.93</td><td>26.68</td><td>85.92</td></tr><tr><td></td><td>高High</td><td>939.71ABb</td><td>24.51</td><td>27.82</td><td>103.58</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2氮代谢 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，能量水平对进食氮、粪氮、尿氮、沉积氮与氮表观消化率影响均不显著（ $\\cdot P { > } 0 . 0 5 \\$ ，但是低能量水平组的可消化氮显著低于中能量水平组与高能量水平组( $_ { ( P < 0 . 0 5 ) }$ 。低蛋白质水平组的进食氮、沉积氮、可消化氮、氮表观消化率极显著低于中蛋白质水平组和高蛋白质水平组 $( P { < } 0 . 0 1 \\dot { ) }$ ;中蛋白质水平组的进食氮和可消化氮极显著低于高蛋白质水平组$( P { < } 0 . 0 1 )$ ，中蛋白质水平组的沉积氮和氮表观消化率与高蛋白质水平组差异不显著( $( P { > } 0 . 0 5 )$ ·低蛋白质水平组和中蛋白质水平组的尿氮极显著低于高蛋白质水平组 $( P { < } 0 . 0 1 )$ ，2组间差异不显著 ( $_ { \\cdot P > 0 . 0 5 }$ )°",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/8179bc254e4ec9e48963074ab6442574bca21e1a231b3ebde5cca7579554f1bb.jpg",
+        "table_caption": [
+            "表3饲粮能量和蛋白质水平对陕北白绒山羊羯羊氮代谢的影响",
+            "Table3Efects of energy and protein levels on nitrogen metabolism of Shanbei white cashmere goats "
+        ],
+        "table_footnote": [
+            "同列数据肩标不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，不同大写字母表示差异极显著（ $P { < } 0 . 0 1 \\ \\cdot$ ，相同或 ） 无字母表示差异不显著（ $P { > } 0 . 0 5 \\rangle$ 。下表同。 In the same column,values with different smalletter superscripts mean significant difference( $. P { < } 0 . 0 5 )$ ,and with different capital letter superscripts mean extremely significant difference $( P { < } 0 . 0 1 )$ ，while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ .The same asbelow. "
+        ],
+        "table_body": "<html><body><table><tr><td>项 目 Items</td><td></td><td>进食氮 N intake/(g/d)</td><td>粪氮Fecal N/(g/d)</td><td>尿氮Urinary N/(g/d)</td><td>沉积氮 Retained</td><td>可消化氮 Digestible</td><td>氮表观消化率 N apparent</td></tr><tr><td>组别</td><td>I</td><td>12.38±0.08Aa</td><td>3.93±0.31</td><td>2.25±0.09ABa</td><td>N/(g/d) 6.20±0.14ABCa</td><td>N/(g/d) 8.44± 0.22Aa</td><td>digestibility/%</td></tr><tr><td>Groups</td><td>I</td><td>15.03±0.08Bb</td><td>4.14±0.81</td><td>2.58 ±.02ABa</td><td>8.31±1.77BCDb</td><td>10.88±0.77Bb</td><td>68.24±2.26ab 72.44±5.29abcd</td></tr><tr><td rowspan=\"6\"></td><td>Ⅲ</td><td>16.91±0.05Cc</td><td>4.65 ±0.19</td><td>4.06±.76BCbc</td><td>8.20±1.00BCDb</td><td>12.26±0.24BCDc</td><td>72.52±1.20abcd</td></tr><tr><td>IV</td><td>12.52±0.11Aa</td><td>3.88±0.41</td><td>2.92±.33ABCab</td><td>5.72±0.05ABa</td><td>8.64±0.31Aa</td><td>69.00±3.00abc</td></tr><tr><td>V</td><td>15.15±0.13Bb</td><td>3.67±0.40</td><td>1.97±0.75Aa</td><td>9.51±1.28Db</td><td>11.48±0.53Bbc</td><td>75.73±2.83bed</td></tr><tr><td>VI</td><td>17.18±0.08Cc</td><td>3.85±0.99</td><td>4.61±0.74Cc</td><td>8.72±1.82CDb</td><td>13.32±1.08CDe</td><td>77.55±5.90cd</td></tr><tr><td>VII</td><td>12.03±0.62Aa</td><td>4.08±1.29</td><td>3.22±0.61ABCab</td><td>4.73±0.06Aa</td><td>7.95±0.67Aa</td><td>66.36±9.03a</td></tr><tr><td>VII</td><td>15.02±0.31Bb</td><td>2.97±0.57</td><td>2.87±0.79ABCab</td><td>9.18±1.03Db</td><td>12.05±0.31BCc</td><td>80.26±3.42d</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/7b86115bc4ccc4043c5cf7eb72c1de40fef9e161a94be8d9a4ae140f5a0e110b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>IX</td><td>17.04±0.57Cc</td><td>3.57±0.57</td><td>3.25±.90ABCab</td><td>10.23±0.91Db</td><td>13.47±0.01De</td><td>79.11±2.68d</td></tr><tr><td>SEM</td><td></td><td>0.38</td><td>0.14</td><td>0.19</td><td>0.39</td><td>0.40</td><td>1.18</td></tr><tr><td></td><td>能量Energy</td><td>0.230</td><td>0.131</td><td>0.826</td><td>0.619</td><td>0.044</td><td>0.162</td></tr><tr><td>P值</td><td>蛋白质 Protein</td><td>0.000</td><td>0.392</td><td>0.001</td><td>0.000</td><td>0.000</td><td>0.000</td></tr><tr><td>P-value</td><td>能量×蛋白质</td><td>0.678</td><td>0.483</td><td>0.071</td><td>0.101</td><td>0.078</td><td>0.393</td></tr><tr><td>S</td><td>Energyxprotein</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>能量</td><td>低Low</td><td>14.77</td><td>4.24</td><td>2.96</td><td>7.57</td><td>10.53a</td><td>71.07</td></tr><tr><td>Energy</td><td>中 Medium</td><td>14.95</td><td>3.80</td><td>3.17</td><td>7.98</td><td>11.14b</td><td>74.10</td></tr><tr><td></td><td>高High</td><td>14.70</td><td>3.54</td><td>3.11</td><td>8.04</td><td>11.15b</td><td>75.24</td></tr><tr><td>蛋白质</td><td>低Low</td><td>12.31Aa</td><td>3.97</td><td>2.79Aa</td><td>5.55Aa</td><td>8.34Aa</td><td>67.86Aa</td></tr><tr><td>Protein</td><td>中Medium</td><td>15.06Bb</td><td>3.60</td><td>2.47Aa</td><td>9.00Bb</td><td>11.47Bb</td><td>76.14Bb</td></tr><tr><td></td><td>高High</td><td>17.04Cc</td><td>4.02</td><td>3.97Bb</td><td>9.05Bb</td><td>13.02Cc</td><td>76.39Bb</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3 能量消化代谢 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，VI组的粪能极显著的低于其他各组（ $P { < } 0 . 0 1$ )，VII组的GE 消化率和GE代谢率最高，与其他各组差异极显著（ $_ { \\cdot  { P } < 0 . 0 1 }$ )。这说明VI组的能量和蛋白质比最佳，能量和蛋白质水平更加有利于绒山羊的消化代谢。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "低能量水平组GE 极显著低于中能量水平组和高能量水平组（ $P { < } 0 . 0 1$ ）；甲烷能、GE消化率和GE 代谢率均随着能量水平的提高而极显著地升高（ $P { < } 0 . 0 1$ ）,粪能极显著地下降中 $_ { | P < 0 . 0 1 \\rangle }$ ；低能量水平组的DE代谢率显著低于高能量水平组（ $P { < } 0 . 0 5$ )，与中能量水平组差异不显著（ $. P { > } 0 . 0 5$ )。高蛋白质水平组的尿能显著高于中蛋白质水平组 （ $P { < } 0 . 0 5 \\mathrm { { ; } }$ ，GE代谢率和DE代谢率显著低于低蛋白质水平组（ $P { < } 0 . 0 5$ )。能量和蛋白质对粪能、尿能、甲烷能、GE 消化率、GE代谢率和DE代谢率均产生显著或极显著的互作效应( $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1 )$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/8c654391565e483215f85e97d7356b771837d3026e00bfa5dc4e91c1e2b250cb.jpg",
+        "table_caption": [
+            "表4饲粮能量和蛋白质水平对陕北白绒山羊羯羊能量消化代谢的影响",
+            "Table 4Effects of energyand protein levels on energy digestion and metabolism of Shanbei white cashmere "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">315</td><td colspan=\"5\">goats</td><td colspan=\"2\"></td></tr><tr><td>项目</td><td></td><td>总能 GE/(MJ/d)</td><td>粪能 FE/(MJ/d)</td><td>尿能</td><td>甲烷能</td><td>总能消化率 GE</td><td>总能代谢率</td><td>消化能代谢率</td></tr><tr><td>Items</td><td></td><td></td><td></td><td>UE/(MJ/d)</td><td>E-CH4/(MJ/d)</td><td>digestibility/%</td><td>GE metabolic rate/%</td><td>DE metabolic rate/%</td></tr><tr><td>组别</td><td>I</td><td>13.93±0.06Aa</td><td>5.81±0.15Ce</td><td>0.53±0.15abc</td><td>1.01±0.01Aa</td><td>58.25±1.18Aa</td><td>47.13±2.17Aa</td><td>80.89±2.06Aa</td></tr><tr><td>Groups</td><td>Ⅱ</td><td>14.02±0.16ABab</td><td>5.40±0.44BCde</td><td>0.36±0.02a</td><td>1.05±0.03ABa</td><td>61.46±2.98ABb</td><td>51.45±2.89ABb</td><td>83.68±0.70ABCcd</td></tr><tr><td></td><td>Ⅲ</td><td>13.93±0.09Aa</td><td>5.85±0.42Ce</td><td>0.46±0.09ab</td><td>1.01±0.04Aa</td><td>58.01±3.31Aa</td><td>47.44±2.50Aa</td><td>81.80±0.36ABCabc</td></tr><tr><td></td><td>IV</td><td>14.46±0.05ABCbc</td><td>5.27±0.11BCcd</td><td>0.37±0.10ab</td><td>1.10±0.01BCb</td><td>63.56±0.85BCbc</td><td>53.40±1.41BCbc</td><td>84.01±1.19BCd</td></tr><tr><td></td><td>V</td><td>14.30±0.21ABCabe</td><td>5.21±0.18BCbcd</td><td>0.43±0.09ab</td><td>1.10±0.01BCb</td><td>63.76±0.76BCbc</td><td>53.15±0.24BCbc</td><td>83.36±0.87ABCbed</td></tr><tr><td></td><td>VI</td><td>14.60±0.11BCcd</td><td>5.00±0.21Bbcd</td><td>0.65±0.08c</td><td>1.13±0.01Cbc</td><td>65.71±1.33BCDcd</td><td>53.50±1.75BCbc</td><td>81.40±1.05ABab</td></tr><tr><td></td><td>VI</td><td>14.60±0.38BCcd</td><td>3.81±0.10Aa</td><td>0.49±0.03abc</td><td>1.21±0.03Ed</td><td>73.94±0.24Ee</td><td>62.33±0.40Ee</td><td>84.29±0.28Cd</td></tr><tr><td></td><td>VIII</td><td>15.01±0.11Cd</td><td>4.71±0.13Bb</td><td>0.52±0.09abc</td><td>1.19±0.01DEd</td><td>68.65±1.00Dd</td><td>57.29±0.38Cd</td><td>83.46±0.77ABCcd</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/31cfd4bea457bd82d28ffc55a342984890b2f9ad5a8d67c98bb9685303353caa.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>IX</td><td>14.63±0.60BCcd</td><td>4.81±0.41Bbc</td><td>0.55±0.12bc</td><td>1.15±0.04CDc</td><td>67.17±1.68CDd</td><td>55.61±2.24BCcd</td><td>82.77±1.29ABCabcd</td></tr><tr><td rowspan=\"2\">SEM</td><td></td><td>0.08</td><td>0.12</td><td>0.02</td><td>0.01</td><td>0.98</td><td>0.92</td><td>0.92</td></tr><tr><td>能量 Energy</td><td>0.000</td><td>0.000</td><td>0.325</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.044</td></tr><tr><td>P值</td><td>蛋白质 Protein</td><td>0.502</td><td>0.163</td><td>0.036</td><td>0.392</td><td>0.182</td><td>0.054</td><td>0.023</td></tr><tr><td>P-values</td><td>能量×蛋白质</td><td>0.358</td><td>0.002</td><td>0.030</td><td>0.015</td><td>0.001</td><td>0.002</td><td>0.030</td></tr><tr><td></td><td>Energyxprotein</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>能量</td><td>低Low</td><td>13.96Aa</td><td>5.68Cc</td><td>0.45</td><td>1.02Aa</td><td>59.23Aa</td><td>48.67Aa</td><td>82.12a</td></tr><tr><td rowspan=\"2\">Energy</td><td>中Medium</td><td>14.47Bb</td><td>5.16Bb</td><td>0.48</td><td>1.10Bb</td><td>64.34Bb</td><td>53.34Bb</td><td>82.92ab</td></tr><tr><td>高High</td><td>14.74Bc</td><td>4.43Aa</td><td>0.51</td><td>1.18Cc</td><td>69.92Cc</td><td>58.41Cc</td><td>83.51b</td></tr><tr><td>蛋白质</td><td>低Low</td><td>14.33</td><td>4.96</td><td>0.46ab</td><td>1.10</td><td>65.25</td><td>54.28b</td><td>83.06b</td></tr><tr><td rowspan=\"2\">Protein</td><td>中 Medium</td><td>14.47</td><td>5.10</td><td>0.43a</td><td>1.11</td><td>64.62</td><td>53.96ab</td><td>83.50b</td></tr><tr><td>高High</td><td>14.38</td><td>5.22</td><td>0.55b</td><td>1.09</td><td>63.63</td><td>52.18a</td><td>81.99a</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4能量、蛋白质摄入量",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表5可知，饲粮营养水平对GE 摄入量、DE 摄入量、ME 摄入量和CP摄入量都有极显著的影响 ( $_ { \\scriptstyle P < 0 . 0 1 }$ )；其中，DE 摄入量和 ME 摄入量以VII组最高。GE 摄入量、DE 摄入量和ME 摄入量随饲粮能量水平的提高而极显著提高（ $_ { \\scriptstyle P < 0 . 0 1 }$ )；低能量水平组的CP 摄入量极显著低于中能量水平组和高能量水平组（ $P { < } 0 . 0 1$ )。CP 摄入量随饲粮蛋白质水平的提高而极显著增加 ( ${ \\cal P } { < } 0 . 0 1$ )；低蛋白质水平组和中蛋白质水平组的 ME 摄入量极显著高于高蛋白质水平组（ $P { < } 0 . 0 1 \\$ )，中蛋白质水平组ME 摄入量显著高于低蛋白质水平组（ $\\scriptstyle P < 0 . 0 5 .$ ；中蛋白质水平组和高蛋白质水平组的GE 摄入量极显著高于低蛋白质水平组（ $P { < } 0 . 0 1$ ，两者之间差异不显著（ $P { > } 0 . 0 5$ )。能量和蛋白质水平对GE 摄入量、DE 摄入量、ME 摄入量均产生了极显著的互作效应（ $_ { \\cdot \\cdot P < 0 . 0 1 \\rangle }$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表5饲粮能量和蛋白质水平对陕北白绒山羊羯羊能量、蛋白质摄入量的影响(干物质基础)",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/781a20c70fda490436357449cd33a4d3548a96926c550be9277b228313acea0a.jpg",
+        "table_caption": [
+            "Table 5Effects of energy and protein levels on energy and protein intakes of Shanbei white cashmere goats (D "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">basis)</td></tr><tr><td>项目</td><td></td><td>消化能摄入量 DEI/ (MJ/d)</td><td>代谢能摄入量 MEI/(MJ/d)</td><td>总能摄入量 GEI/(MJ/d)</td><td>粗蛋白质摄入量 CPI/ (g/d)</td></tr><tr><td rowspan=\"9\">Items 组别 Groups</td><td>I</td><td>7.55±0.26Aa</td><td>6.11±0.21Aa</td><td>1 2.97±0.45Aa</td><td>74.26±1.59Aa</td></tr><tr><td>II</td><td>8.45±0.18Cc</td><td>7.07±0.15Cc</td><td>13.75±0.29Bb</td><td>93.59±1.03Cc</td></tr><tr><td>III</td><td>8.04±0.13Bb</td><td>6.57±0.11Bb</td><td>13.86±0.23Bb</td><td>105.44±0.82Dd</td></tr><tr><td>IV</td><td>9.15±0.11Dd</td><td>7.69±0.09Dd</td><td>14.40±0.17Cc</td><td>77.96±0.77Bb</td></tr><tr><td>V</td><td>9.16±0.07Dd</td><td>7.63±0.06Dd</td><td>14.36±0.11Cc</td><td>94.42±0.69Cc</td></tr><tr><td>VI</td><td>9.48±0.12De</td><td>7.71±0.10Dd</td><td>14.42±0.18Cc</td><td>106.43±1.18Dd</td></tr><tr><td>VII</td><td>10.80±0.19Gf</td><td>9.10±0.16Gg</td><td>14.61±0.26Ccd</td><td>76.76±1.39ABb</td></tr><tr><td>VII</td><td>10.20±0.13Fg</td><td>8.53±0.11Ff</td><td>14.86±0.19Cd</td><td>93.78±1.38Cc</td></tr><tr><td>IX</td><td>9.83±0.16Eh</td><td>8.14±0.13Ee</td><td>14.63±0.24Ccd</td><td>107.15±2.12Dd</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/6a315e50219ef4964cfb6a3b5c4e41144c791e6b46679a4c13542232492174fe.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>SEM</td><td></td><td>0.167</td><td>0.150</td><td>0.100</td><td>2.096</td></tr><tr><td></td><td>能量Energy</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.004</td></tr><tr><td>P值</td><td>蛋白质 Protein</td><td>0.072</td><td>0.000</td><td>0.005</td><td>0.000</td></tr><tr><td>P-values</td><td>能量×蛋白质 Energyxprotein</td><td>0.000</td><td>0.000</td><td>0.005</td><td>0.126</td></tr><tr><td>能量</td><td>低Low</td><td>8.015Aa</td><td>6.587Aa</td><td>13.527Aa</td><td>91.094Aa</td></tr><tr><td>Energy</td><td>中Medium</td><td>9.263Bb</td><td>7.680Bb</td><td>14.395Bb</td><td>92.935Bb</td></tr><tr><td></td><td>高High</td><td>10.276Cc</td><td>8.591Cc</td><td>14.699Cc</td><td>92.561Bb</td></tr><tr><td></td><td>低Low</td><td>9.169</td><td>7.635Bb</td><td>13.992Aa</td><td>76.323Aa</td></tr><tr><td>蛋白质</td><td>中Medium</td><td>9.270</td><td>7.746Bc</td><td>14.323Bb</td><td>93.928Bb</td></tr><tr><td>Protein</td><td>高High</td><td>9.115</td><td>7.476Aa</td><td>14.304Bb</td><td>106.338Cc</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "92.5陕北白绒山羊羯羊能量、蛋白质需要量",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由表2和表5相关数据建立了陕北白绒山羊周岁羯羊的DE 和ME 需要量，与 $\\mathbf { W } ^ { 0 . 7 5 }$ 和ADG的回归方程如下：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { D E ( M J / d ) } { = } 0 . 5 0 4 \\mathrm { W } ^ { 0 . 7 5 } { + } 0 . 0 4 0 \\mathrm { A D G } ( R ^ { 2 } { = } 0 . 9 9 8 ) ;$ （20  \n$\\mathrm { M E ( M J / d ) } { = } 0 . 3 9 6 \\mathrm { W } ^ { 0 . 7 5 } { + } 0 . 0 3 6 \\mathrm { A D G } ( R ^ { 2 } { = } 0 . 9 9 7 ) { \\circ }$ （20",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CP 需要量与 $\\mathbf { W } ^ { 0 . 7 5 }$ 和 ADG 的回归方程如下：$\\mathrm { C P ( g / d ) } { = } 1 . 4 1 0 \\mathrm { W } ^ { 0 . 7 5 } { + } 0 . 8 8 1 \\mathrm { A D G } ( R ^ { 2 } { = } 0 . 9 9 9 ) \\circ$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由表3可数据可知陕北白绒山羊周岁羯羊的氮表观消化率平均值为 $7 3 . 4 6 \\%$ ，结合CP需要量得出DCP需要量方程如下：",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { D C P ( g / d ) } { = } 1 . 0 3 6 \\mathrm { W } ^ { 0 . 7 5 } { + } 0 . 6 4 7 \\mathrm { A D G } ( R ^ { 2 } { = } 0 . 9 9 9 ) { \\circ }\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1饲粮能量和蛋白质水平对陕北白绒山羊羯羊生长性能的影响",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "饲粮的能量水平不同会造成胃肠道紧张程度和消化道食糜成分及吸收养分浓度的变化，而影响山羊干物质采食量。对于反刍动物而言，能量水平低时，如采食粗饲料，采食量随能量水平增加而增加，此时主要靠胃肠道紧张程度来调节。能量水平超过一定阈值时，采食量随能量水平增加而降低，此时主要通过消化道食糜成分及吸收养分浓度的变化来实现[13]。本试验结果表明，饲粮能量水平对干物质采食量有极显著影响，总体随能量水平增加呈现先上升后下降的曲线变化，这与张振伟等[5]和巩峰等[14]等的研究结果相一致。蛋白质水平对干物质采食量存在显著影响，随蛋白质水平升高也呈现先升高后降低的趋势。但是赵智华等[15]用 $8 . 2 3 \\%$ 、 $1 0 . 4 2 \\%$ 和 $1 2 . 5 2 \\%$ 3组不同的蛋白质水平的饲粮，饲喂3月龄的重庆黑山羊，结",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "果表明随着蛋白质水平的提高，采食量有提高趋势但差异不显著，这些研究结果均与本试验研究结果存在差异，这可能与试验动物及蛋白质添加水平不同有关。另外，在本试验中，随着能量水平的升高，饲粮的精粗比也逐渐升高，精粗比变化也对试羊的干物质采食量有一定影响。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "饲粮能量和蛋白质水平对山羊ADG 的影响结果各不相同，刘占发等[研究结果表明，试验羊的ADG 随着饲粮中能量水平的提高而提高，差异不显著；刘海滨等[17研究结果表明，饲粮不同蛋白质水平对辽宁绒山羊体增重无显著影响；赵智华等[15]研究结果表明，随着饲粮中蛋白质水平提高，重庆黑山羊ADG有增加趋势，差异不显著。本试验结果与前人研究结果一致，能量和蛋白质水平对 ADG 影响均不显著，随着饲粮中能量水平的提高，ADG有增加的趋势。但是俞春山等[18研究结果表明，饲粮能量水平提高，中卫山羊羯羊体重先增加后降低，差异不显著。综合分析可能是由以下原因造成的：第一，能量过高，会降低干物质采食量，从而影响羊的 ADG。第二，羊对营养物质的需要量与品种有关，不同品种羊的能量和蛋白质的维持需要不同。第三，由于各组饲粮的配方不同，如精粗比的变化，可能导致适口性各不相同。有关能量与蛋白质互作效应对山羊生产性能的影响尚未见到报道，有待进一步研究。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2饲粮能量和蛋白质水平对陕北白绒山羊羯羊氮代谢的影响",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "很多研究表明，饲粮蛋白质水平对试羊的氮代谢会产生重要影响。马涛等[19]研究肉羊在不同精粗比条件下沉积氮和尿嘌呤衍生物的排出规律时得到了随饲粮精粗比的提高，尿氮和沉积氮显著提高的结果；彭津津等[20]利用消化代谢试验和限饲饲喂方法，得到了粪氮、尿氮、吸收氮、沉积氮及氮的总利用率均随饲喂水平升高而增加的结论。本试验也得到了相似的结果。本试验中试验羊进食氮高蛋白质水平组>中蛋白质水平组 $. >$ 低蛋白质水平组，各组间差异极显著，这是由于饲粮蛋白质水平不同所致。可消化氮的变化规律同进食氮。高蛋白质水平组的尿氮极显著高于其他两组，这可能是由于该组试羊进食氮高，利用率低。中蛋白质水平组和高蛋白质水平组的沉积氮极显著高于低蛋白质水平组，而中蛋白质水平组和高蛋白质水平组间无显著差异。这是因为低蛋白质水平组的饲粮CP含量较低，不能满足绒山羊生长的需要；而高蛋白质水平组试羊尽管其可消化氮最高，但大部分氮通过尿氮排出，故沉积氮与中蛋白质水平组无显著差异。但也有学者得到了不同的结果，彭玉麟等[21选用内",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "蒙古白绒山羊羯羊，研究3种不同蛋白质水平（ $7 . 1 4 \\%$ 、 $9 . 4 1 \\%$ 、 $1 0 . 7 7 \\%$ ）的饲粮对其营养物质消化代谢的影响，结果表明当饲粮CP为 $8 . 8 7 \\%$ 时，沉积氮可获最佳值。这可能是由于饲粮蛋白质水平设置梯度、能氮比例、氮的利用率等不同而造成的。在本试验中，各组试验羊的氮消化率、可消化氮和沉积氮均随着饲粮能量水平的提高而提高。施立成[22]在内蒙白绒山羊能量利用的研究中也发现提高能量的摄入水平能促进绒山羊对养分的消化，促进氮的沉积。这表明在合适的能氮比条件下，提高能量水平可以促进蛋白质的代谢。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3饲粮蛋白质能量水平对陕北白绒山羊羯羊能量消化代谢的影响 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "研究在特定饲养环境和当地饲料资源条件下羯羊对能量的利用率，对羯羊在特定的生长阶段充分利用本地饲料资源进行饲粮配制有重要意义。Tovar-Luna等[23]研究表明，饲喂高营养水平饲粮的试验组，其能量消化率高于低营养水平组；王惠[24在空怀期及妊娠期陕北白绒山羊能量需要量研究中指出，随着饲粮能量摄入量的逐步提高，母羊对饲料中能量的消化率和代谢率均呈升高趋势。本试验也得出了相似的结果。但是赵敏孟等[25]研究指出，对生长期杜泊羊分别饲喂DE 水平为9.78、10.66 和 $1 1 . 6 2 \\mathrm { \\ M J / k g \\ 3 }$ 种饲粮时，中能量水平组的GE 消化率和GE 代谢率均显著高于低能量水平组，且以中能量水平组的最高，这表明提高饲粮能量水平提高了杜泊羊的GE 消化率和GE 代谢率，但能量水平到达较高值后GE 消化率和GE 代谢率又出现下降的趋势。本试验结果并未出现以上\"拐点”，这可能与本试验的饲粮的营养水平设置有关，本试验饲粮的能量水平并未并未达到影响动物消化液分泌和养分充分消化的\"临界水平”，故随着饲粮DE 水平的提高，GE 消化率和代谢率呈现逐渐升高的变化趋势。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "对反刍动物而言，饲粮中能量和蛋白质在满足动物需要的基础上，还应保持适宜的能氮比，比例不当会导致动物对营养物质的利用效率下降，严重失衡时会引起动物营养障碍。刘海滨等[17]研究显示，随饲粮中蛋白质水平的增加，能量的消化率会随蛋白质的消化率的升高而下降，两者呈负相关。在本试验中，随着饲粮蛋白质水平由低到高，GE 代谢率和 DE代谢率显著低于低蛋白质水平组，与刘海滨等[1研究结果一致。造成该结果可能的原因是过高的蛋白质水平饲粮会影响绒山羊瘤胃正常功能，造成过多的蛋白质代谢产物排泄，加重了肝、肾的负担，从而影响营养物质的消化代谢。这也进一步指出了饲粮中能氮比的重要性。。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "33.4陕北白绒山羊羯羊与其他山羊能量和蛋白质需要量的比较 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "由本试验结果可知，陕北白绒山羊周岁羯羊维持DE 和 ME 分别是0.504 和 $0 . 3 9 6 \\mathrm { M J / k g }$ $\\mathbf { W } ^ { 0 . 7 5 }$ ，ADG 每增加 $1 \\mathrm { g / d }$ 需要DE ${ 0 . 0 4 0 } \\mathrm { M J }$ 、ME 0.036 MJ。这比 NRC(1981)[9]山羊饲养标准推荐的山羊维持ME 需要 $0 . 4 2 4 ~ \\mathrm { M J / k g } ~ \\mathrm { W } ^ { 0 . 7 5 }$ 要低，ME 增重需要与NRC(1981)[9]推荐（0.030$3 \\ \\mathrm { M J / g }$ ）相差不大。聂海涛等[26]研究杜泊羊和湖羊杂交 $\\mathrm { F } _ { 1 }$ 代公羊能量和蛋白质需要量时指出，其ME 维持需要为 $0 . 4 6 9 \\mathrm { \\ M J / K g \\ W ^ { 0 . 7 5 } }$ ；Fernandes 等[27]研究显示， $2 0 { \\sim } 3 5 ~ \\mathrm { k g }$ 波萨杂交山羊ME 维持需要为 $0 . 4 3 1 ~ \\mathrm { M J / k g } ~ \\mathrm { W } ^ { 0 . 7 5 }$ ，均高于本试验结果。这是因为 NRC(1981)[9主要以安哥拉山羊、肉山羊和奶山羊作为研究对象，肉羊代谢活动比较旺盛，其维持需要比其他品种山羊要高，而杜泊羊和湖羊杂交羊与波萨杂交羊都是肉羊，因此得出以上结果。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "NRC(1981)[9]山羊饲养标准推荐的 CP 和 DCP 维持需要（g/d，下同）分别为 $4 . 1 5 \\mathrm { W } ^ { 0 . 7 5 }$ （204号和 $2 . 8 2 \\mathrm { W } ^ { 0 . 7 5 }$ ，生长需要（ $\\mathrm { g / d }$ ，下同）分别是0.284ADG 和0.195ADG。杨在宾等[28]研究得出生长期青山羊的 CP 和 DCP 维持需要分别是 $2 . 9 2 \\mathrm { W } ^ { 0 . 7 5 }$ 和 $1 . 7 9 \\mathrm { W } ^ { 0 . 7 5 }$ ，生长需要分别是0.560ADG 和0.350ADG；本试验结果表明，陕北白绒山羊周岁羯羊CP和DCP 维持需要分别是 $1 . 4 1 0 \\mathrm { W } ^ { 0 . 7 5 }$ 和 $1 . 0 3 6 \\mathrm { W } ^ { 0 . 7 5 }$ ，生长需要分别是0.881ADG 和0.647ADG。比较可知，本试验得出的CP 和 DCP 的维持需要低于NRC(1981)[推荐，而生长需要却比推荐值高；与青山羊相比，也得出类似结论。陕北白绒山羊是在陕北自然环境条件下经多年培育而成的以产绒为主、绒肉兼用型绒山羊新品种，具有耐寒冷、耐粗饲、抗病力强等特点，所以其蛋白质维持需要较低；另外，陕北白绒山羊选育程度较低，对蛋白质的利用效率较低，故生长需要较高。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.5陕北白绒山羊羯羊能量、蛋白质需要量的确定",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "王惠[24]研究空怀期陕北白绒山羊饲粮中DE 和 ME 分别以 $9 . 1 7 { \\sim } 1 0 . 1 4 \\ \\mathrm { M J / k g }$ 和 $7 . 7 0 \\sim$ $8 . 6 0 \\mathrm { M J / k g }$ 较为适宜；柴贵宾等[29]关于不同能量水平对舍饲辽宁绒山羊营养代谢率的影响研究中发现辽宁绒山羊饲粮中适宜的 ME 水平为 $8 . 6 ~ \\mathrm { M J / k g }$ ；俞春山等[18]研究结果表明中卫山羊羯羊生长期适宜的DE 水平为 $8 . 7 1 { \\sim } 1 0 . 4 1 \\ \\mathrm { M J / k g }$ 。在本试验条件下，试验羯羊的ADG 为$8 6 . 5 0 ~ \\mathrm { g / d }$ ，结合回归方程可知， $2 0 { \\sim } 3 0 \\mathrm { k g }$ 陕北白绒山羊羯羊的DE和ME 需要量分别为 $8 . 2 3 \\sim$ $9 . 9 2 \\mathrm { M J / d }$ 和 $6 . 8 6 { \\sim } 8 . 1 9 \\mathrm { M J / d }$ ；本试验中试验羯羊的平均干物质采食量为 $9 3 4 . 6 1 ~ \\mathrm { g / d }$ ，从而可知 $2 0 \\sim 3 0 ~ \\mathrm { k g }$ 陕北白绒山羊羯羊饲粮中DE 和ME 水平分别为 $8 . 8 0 { \\sim } 1 0 . 6 1 ~ \\mathrm { \\ M J / k g }$ 和 $7 . 3 4 \\sim$ $8 . 7 6 \\mathrm { M J / k g }$ 。本试验研究结果与上述试验结果基本一致，证明本试验饲粮设计较为合理，饲",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "粮的能量水平能满足陕北白绒山羊的营养需要。本试验是在舍饲条件下单笼饲养，在实际生产中，要根据饲料情况、饲养方式作适当调整可能会达到更好的效果。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "周利勇等[30]关于空怀期陕北白绒山羊母羊CP和DCP 需要量分别以 $8 . 2 9 \\% \\sim 1 0 . 4 3 \\%$ 和$5 . 4 3 \\% \\sim 6 . 8 3 \\%$ 较为适宜；贾志海等[31认为不同山羊品种的CP 适宜水平为 $8 \\%$ 。在本试验中,从回归方程可知 $2 0 \\sim 3 0 ~ \\mathrm { k g }$ 陕北白绒山羊周岁羯羊饲粮中CP和DCP水平分别为 $9 . 5 8 \\% \\sim$ $1 0 . 0 9 \\%$ 和 $7 . 0 4 \\% \\sim 7 . 4 1 \\%$ ，并且从本试验结果可以看出，但饲粮中CP水平高于 $10 \\%$ 时，饲粮的GE 代谢率和DE 代谢率均显著下降，因此本试验认为陕北白绒山羊羯羊的CP水平以$10 \\%$ 为宜。但俞春山等[18研究结果表明中卫山羊羯羊生长期适宜的蛋白质水平为 $1 1 . 4 1 \\%$ 高于本试验结果及上述试验结果，原因可能是品种以及生理阶段不同造成的。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 陕北白绒山羊周岁羯羊DE和ME 需要量分别为：$\\mathrm { D E ( M J / d ) } { = } 0 . 5 0 4 \\mathrm { W } ^ { 0 . 7 5 } { + } 0 . 0 4 0 \\mathrm { A D G } ( R ^ { 2 } { = } 0 . 9 9 8 ) ;$ （204号$\\mathrm { M E ( M J / d ) } { = } 0 . 3 9 6 \\mathrm { W } ^ { 0 . 7 5 } { + } 0 . 0 3 6 \\mathrm { A D G } ( R ^ { 2 } { = } 0 . 9 9 7 ) { \\circ }$ 陕北白绒山羊周岁羯羊CP和DCP的需要量分别为：$\\mathrm { C P ( g / d ) } { = } 1 . 4 1 0 \\mathrm { W } ^ { 0 . 7 5 } { + } 0 . 8 8 1 \\mathrm { A D G } ( R ^ { 2 } { = } 0 . 9 9 9 ) ;$ $\\mathrm { D C P ( g / d ) } { = } 1 . 0 3 6 \\mathrm { W } ^ { 0 . 7 5 } { + } 0 . 6 4 7 \\mathrm { A D G } ( R ^ { 2 } { = } 0 . 9 7 8 ) \\circ$ ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 在正常生长水平条件下，陕北白绒山羊周岁羯羊饲粮中的 DE 和 ME 水平分别以$8 . 8 0 { \\sim } 1 0 . 6 1 \\mathrm { M J / k g }$ 和 $7 . 3 4 { \\sim } 8 . 7 6 \\mathrm { M J / k g }$ 较为适宜;陕北白绒山羊周岁羯羊饲粮中的CP和DCP水平分别以 $1 0 . 0 0 \\%$ 和 $7 . 3 4 \\%$ 较为适宜。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[1]宗泽君,尚庆华,白音,等.舍饲绒山羊生产性能测定[J].中国草食动物,2004,24(1):26-28.[2]白音,王军,陶红梅,等.舍饲绒山羊饲草料的配制与饲养技术[J].畜牧与饲料科学,2005,26(2):20-21.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[3]闫昱,屈雷.陕北白绒山羊产业发展现状和策略研究[J].榆林学院学报,2008,18(2):10-15.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[4]薛瑞,朱海舰,王托平,等.横山羊肉的品质特征与历史渊源[J].中国畜禽种业,2010(11):63-66.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "456[5] 张振伟,叶勇,闫宏.不同能量水平日粮对中卫山羊羯羊肥育效果的影响[J].中国草食动物",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "7 科学,2013,33(5):76-77.  \n8 [6] 张兵,俞春山,张琪,等.不同日粮蛋白质水平对中卫山羊羯羊生长与屠宰性能的影响[J].饲  \n9號 料广角,2010(19):25-26.  \n0 [7]赵智力.内蒙古白绒山羊生长羯羊钙、磷需要量的研究[D].硕士学位论文.呼和浩特:内蒙  \n1 古农业大学,2006.  \n2 [8]邹洪芝,赵艳娇,李红.辽宁绒山羊舍饲后的不正常现象及纠正方法[J].黑龙江动物繁  \n3 殖,2010,18(1):15-16.  \n4 [9]NRC,Nutrient requirement of goats[S].Washington,D.C.:National Academy Press,1981.  \n5 [10]杨胜.饲料分析及饲料质量检测技术[M].北京:中国农业大学出版社,1994:19-23.  \n6 [11]贺建华.饲料分析与检测[M].北京:中国农业出版社,2008.  \n7 [12] BLAXTER K L,CLAPPERTON JL.Prediction of the amount of methane produced by  \n8 ruminants[J].British Journal of Nutrition,1965,19:511-522.  \n9 [13]杨凤.动物营养学[M].2版.北京:中国农业出版社,2005.  \n0 [14]巩峰,王建民,王桂芝,等.饲粮不同能量水平对育肥奶山羊公羊生长性能和血清生化指标  \n1 的影响[J].动物营养学报,2013,25(1):208-213.  \n2 [15]赵智华,左福元,周勤飞.饲粮蛋白质水平对重庆黑山羊生产性能和血液生化指标的影响  \n3 [J].畜牧与兽医,2009,41(2):25-28.  \n4 [16]刘占发,张振伟,叶勇,等.日粮不同能量水平对中卫山羊育成母羊增重与屠宰性能的影响  \n5 [J].中国草食动物,2011,31(2):26-27.  \n6 [17]刘海滨,胡锐,蔡凤坤,等.日粮不同蛋白水平对舍饲辽宁绒山羊生产性能及营养物质消化  \n7 率的影响[J].西北农林科技大学学报:自然科学版,2009,37(3):43-48.  \n8 [18]俞春山,叶勇,贾弟林,等.日粮能量水平对中卫山羊羯羊生长与屠宰性能的影响[J].中国草  \n9 食动物,2011,31(1):31-33.  \n0 [19]马涛,刁其玉,邓凯东,等.应用 $^ { 1 5 } \\mathrm { N }$ 和嘌呤估测肉羊微生物 N 产量的研究[J].畜牧兽医学  \n1 报,2012,43(12):1910-1916.  \n2 [20] 彭津津,韩杰,张英杰,等.不同饲喂水平对无角陶赛特羊与小尾寒羊杂交二代公羔代谢产  \n3 物及氮代谢的影响[J].中国草食动物科学,2012(S1):343-345.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[21]彭玉麟,贾志海,卢德勋,等.不同蛋白质水平的日粮对内蒙古白绒山羊消化代谢的影响[J].  \n畜牧兽医学报,2002,33(4):321-326.  \n[22]施立成.内蒙古白绒山羊能量利用的研究[D].硕士学位论文.北京:中国农业大学,2003.  \n[23]TOVAR-LUNA I,GOETSCHAL,PUCHALAR,et al.Effectsof moderate feed restriction on  \nenergyexpenditureby2-year-oldcrossbredBoergoats[J].Small Ruminant  \nResearch,2007,72(1):25-32.  \n[24]王惠.空怀期及妊娠期陕北白绒山羊能量需要量研究[D].硕士学位论文.杨凌：西北农林科技大学,2012.  \n[25] 赵敏孟,杨在宾,杨维仁,等.杜泊羊生长期能量的代谢规律和需要量[J].动物营养学  \n报,2013,25(6):1243-1250.  \n[26]聂海涛,游济豪,王昌龙,等.育肥中后期杜泊羊湖羊杂交Fi代公羊能量需要量参数[J].中国  \n农业科学,2012,45(20):4269-4278.  \n[27]FERNANDES M H,RESENDE K T,TEDESCHI L O,et al.Energy and protein requirements  \nformaintenanceandgrowthofBoercrossbredkids[J].JournalofAnimal  \nScience,2007,85(4):1014-1023.  \n[28] 杨在宾,杨维仁,张崇玉,等.青山羊能量和蛋白质代谢规律研究[J].中国养羊,1997(2):17.  \n[29]柴贵宾,李建云,张微,等.不同能量蛋白水平对舍饲辽宁绒山羊产绒性能和营养物质代谢  \n率的影响[J].中国畜牧杂志,2011,47(11):29-32.  \n[30]周利勇,王永军,王惠,等.空怀期陕北白绒山羊母羊蛋白质需要量研究[JJ.西北农林科技大  \n学学报：自然科学版,2012,40(11):1-6.  \n[31] 贾志海,安民,SAHLU T,等.日粮蛋白质水平对不同品种山羊氮平衡和生产性能影响[J].中  \n国农业大学学报,1996,1(3):99-104.Energy and Protein Requirements of Shanbei White Cashmere Wether GoatsGAO Yel.2LIBibo2\\*HUANG ShuailWANG Rongbin3WANG Dong4LIQinfang5QU Lei1\\*\\*(1.Engineering and Technology Research Center of Yulin College,Yulin7190oo,China; 2.CollegeofAnimal Science and Technology,NorthwestA&FUniversity,Yangling7121oo,China;",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "3.Aniamal Husbandry and Veterinary Research and Technology Promotion Instituteof Yulin City, Shanxi Province,Yulin 719ooo,China; 4.The Veterinary Station ofFugu Town,Fugu Country, Shanxi Provice,Yulin 719ooo,China;5.Animal Disease Prevention and Control Center of Jia County,Yulin City,Shanxi Province,Yulin719oOo,China) ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This experiment was conducted to investigate the requirements of energy and protein of Shanbei white cashmere wether goats so as to provide data for establishing them.Thirty-six healthy one-year-old Shanbei white cashmere wether goats with similar body weight were randomly divided into 9 groups according to a $3 { \\times } 3$ (energyxprotein） completely random experiment design,and each group had 4 replicates with 1 goat per replicate. digestible energy (DE) level in diet was formulated at $100 \\%$ ， $1 1 0 \\%$ and $120 \\%$ of NRC（1981） recommendation, respectively;and crude protein (CP) level was formulated at $90 \\%$ $1 1 0 \\%$ and $1 3 0 \\%$ of NRC (1981) recommendation,respectively.The pretest lasted for7days,and the test lasted for 46 days.The results showed as follows: 1) energy level in diet had extremely significant effects on dry matter intake (DMI) and average daily gain (ADG) $( P { < } 0 . 0 1 )$ ，and protein level significantly affected DMI $( P { < } 0 . 0 5 )$ ; there was significant interaction on DMI between energy and protein levels in diet （204 $( P { < } 0 . 0 5 )$ . 2)Digestible nitrogen (N) in low energy group was significantly lower than that in medium and high energy groups( $_ { ( P < 0 . 0 5 ) }$ ； N intake, digestible N,retained N,N apparent digestibility in low protein group were extremely lower than those of medium and high protein groups $( P { < } 0 . 0 1 )$ .3）Gross energy (GE）digestibility and metabolic rate were extremely significantly increased with energy level improving $( P { < } 0 . 0 1 )$ ; metabolic rates of GE and DE in high protein group were significantly lower than these in low protein group $( P { < } 0 . 0 5 )$ ; There was significant interactions of energyXprotein on GE digestibility，GE metabolic rate and DE metabolic rate ( $_ { \\scriptstyle P < 0 . 0 5 }$ or $P { < } 0 . 0 1$ ).We establish regression equations of energy and protein requirement of one-year-old Shanbei white cashmere wether goats,the proper range of DE and ME levels in diet are 8.80 to $1 0 . 6 1 ~ \\mathrm { M J / k g }$ and 7.34 to $8 . 7 6 \\mathrm { M J / k g }$ ,respectively,and the appropriate CP and digestible CP levels are $1 0 . 0 0 \\%$ and $7 . 3 4 \\%$ ,respectively. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Key words: Shanbei white cashmere goat; one-year-old wether goats; energy； protein; ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "\\*Contributed equally \\*\\*Corresponding author，professor，E-mail: ylqulei@126.com (责任编辑 王智航) ",
+        "page_idx": 16
+    }
+]

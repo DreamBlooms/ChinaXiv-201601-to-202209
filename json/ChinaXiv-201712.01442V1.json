@@ -1,0 +1,374 @@
+[
+    {
+        "type": "text",
+        "text": "基于BIM的三维地质模型与桩长校核应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "饶嘉谊1 杨远丰² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.广东省建筑设计研究院,广州510010；2.广州优比建筑咨询有限公司,广州 510000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】传统桩长设计根据地质勘探报告数据分析计算,计算工作大量且繁琐,易导致数据出现偏差。为保证数据的准确性,我们通过BIM技术建立三维地质模型,模拟土层与岩层的分布，同时根据已有设计条件建立桩基础模型。二者结合，实现基于BIM的三维地质模型与桩长校核应用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】BIM;Revit；桩基管理；三维地质",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【中图分类号】TU17 【文献标识码】A 【文章编号】1674-7461(2017)03-0038-05   \n【DOI】10.16670/j.cnki.cn11-5823/tu.2017.03.06 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2传统桩长设计根据地质勘探报告数据分析计算，计算工作大量且繁琐。面对地质勘探报告数据的二次增加，设计人员需重新进行桩长计算或复核作。反复大量的计算工作,容易导致数据出现偏差，加大数据出错率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为解决这个问题，我们在深国际前海智慧港先期项目中探索一种新的方式，即通过BIM技术建立三维地质模型，模拟土层与岩层的分布，同时根据已有设计条件建立桩基础模型。二者结合，实现基于BIM的三维地质模型与桩长校核应用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "显然这种方式理论上是可行的，但实际上面临着很大的困难，首先是三维地质模型的建立绝非易事；其次，大量桩基础（项目中共有3542根)的建立也非常繁琐；再次，大量桩基础的桩长各不相同，要一一确定也是巨大的工作量。我们通过研究开发,通过在Revit平台上面开发了一系列的插件来解决这些难题，顺利实现了上述目标。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 BIM技术概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BIM技术自引入国内起，一直被建筑行业持续关注。因其实现了建筑信息模型在建筑全生命周期内的复操作性，实现了电子数据流畅且无缝对接的交换、管理和反馈的流畅且无缝对接。无论是建设方、设计方、施工方或者运营方，都希望通过BIM技术的引入,形成一套适用的企业级精细化管理体系。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，在国内关于BIM的研究与应用，主要集中在主体建筑结构及设施，应用的技术手段也相对成熟,包括绿色性能分析、可视化设计、施工管理、进度管理、5D管理等。在结构基础部分，应用点较为薄弱，常用于地基与桩基础的碰撞检查。关于岩土勘察方面的研究更为鲜见，因为现实环境中地质的分布形态各异,全是不规则曲面,极难建立三维模型[1]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3基于BIM的三维地质建模 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "传统的地质分析，往往是根据勘察单位提供的剖面图、数据表、报告进行基础设计分析[2]。对于岩土地质分布不复杂的工程区域，所需分析时间较短，工作效率较高。若遇到岩土分布非常复杂的工程区域，单是分析就需要耗费非常多的工作时间，严重影响工作效率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "其实,面对复杂的岩土分布，采用三维地质模型进行分析比传统分析方式更为优越。因其具有的可视化特性，可实现工程区域岩土的任意剖切、查看、分析。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/6986bf1c2cc977d703203b897a5bfe91e586f902b1ad0fd0414513fec87755b8.jpg",
+        "img_caption": [
+            "图1工程地质剖面图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "0 钻孔柱状图第1更1  \n工名称编号 JSZH20160915 钻孔号 ZK56印n 0.65 4 X:15697.01 工日期 建定水性深 P408排p直nm 121.0 g Y:9349656 工日期 8.26 测量水位  \ngn:rix1190 点回时代 昌点街& 尼威滚泉 性送 收白筝 以定书白0045：，，师、，特5%0，580%。221 科城1、，0、25%%、，中，时、15%  \n小 中 11d4 n+ 大不购20%，1-91%。@ +1 全 全，，气③ 重 U S S %，，其版，，中e0.10%",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过读取勘察报告中的每一个钻孔数据，在Revit软件中编写插件，以插值的方式生成BIM三维地质，将数据转换成可视化模型，直观体现各土层的几何分布，便于统计各土层工程量（如淤泥量），对开挖成本核算具有一定的参考价值。地质区域可任意剖切，对整体的地质环境进行更细微的观察及分析[3]",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/38226a774796809aa9a6a51fe9bdee2793d0a4ef36c6c4ddee87c2721da84ce8.jpg",
+        "img_caption": [
+            "图3 BIM三维地质图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d8699b89496ef60fbc1c561405088fbf1fd67f17c8f5103a8a76ef2ace2699ca.jpg",
+        "img_caption": [
+            "图2钻孔柱状图",
+            "图4BIM三维地质剖面图",
+            "图5土方量统计表"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/7157359593a1df579dfb1055e820c79cc0bebbd1625967902b373e0c087647dc.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">土方量统计表</td></tr><tr><td>土方名称</td><td>体积（m）</td></tr><tr><td>1填土(填石)</td><td>203441.75</td></tr><tr><td>2淤泥</td><td>255208.01</td></tr><tr><td>3-1黏土</td><td>219183.72</td></tr><tr><td>3-2砾砂</td><td>214911.43</td></tr><tr><td>4砂质黏性土</td><td>356768.75</td></tr><tr><td>5-1 全风化花岗岩</td><td>380067.33</td></tr><tr><td>5-2 强风化花岗岩</td><td>499911.32</td></tr><tr><td>5-3 中风化花岗岩</td><td>175131. 72</td></tr><tr><td>5-4微风化花岗岩</td><td>17446.73</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4BIM桩基础批量生成",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "解决三维地质模型一大难题后，我们面临的是第二大难题一一桩基础模型建立。如前所述,本项目共有3542根桩，重复建模工作量大，并且桩顶相对标高数据多（有 $- 1 0 . 9 \\mathrm { m } _ { \\mathrm { ~ , ~ } } - 1 1 \\mathrm { m } _ { \\mathrm { ~ , ~ } } - 1 1 . 2 \\mathrm { m } _ { \\mathrm { ~ , ~ } } - 1 1 . 4 \\mathrm { m } _ { \\mathrm { ~ , ~ } }$ $\\mathbf { - 1 1 . 4 0 5 m }$ 等），如果全部采用人手建立的情况下，无法保证一次性建模准确率，可能需要反复核对才能保证模型得以交付。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了解决这个难题，我们通过编写插件，读取设计图上的桩基础坐标及参数信息，在Revit平台上实现桩基础批量生成，减少人手建模工作量，降低模型出错率，提高BIM桩基础模型工作质量与效率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5基于BIM的三维地质模型与桩长校核应用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2起初,我们开发三维地质和桩基础批量生成插件，是用于实现土方量统计以及桩基础碰撞检查。在BIM协调会上，业主方希望我们能提供基于BIM的桩长数据，除了用于校核设计参考桩长以外，更可用来作为桩基施工管控底层基准数据[4]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": ">因场地区各土层分布不一定均匀，尤其是持力层埋深的区别，设计人员一般会对桩长赋予参考范围值，称之为设计参考桩长。设计桩长的数据取决于地质勘探报告，钻孔数量越多，分布越紧凑，提供的设计桩长越接近实际桩长。如果增加了钻孔数量，设计人员需要重新花费大量的时间对原有桩长数据进行检验分析，过程繁琐且数据不一定满足实际施工。一般情况下，施工方只能通过实际施工桩长值进行数据记录。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "经研究发现，如果结合BIM三维地质模型与桩基础模型，理论上能够实现提取BIM桩长数据，同时赋予设计参考桩长，利用明细报表进行比对分析，为施工管理及成本管理提供具有价值的参考数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在已知的计算规则及约束条件下，BIM三维地质模型作为底层数据，批量生成BIM桩基础模型，赋予各类数据信息，如桩类型、桩编号、设计参考桩长、BIM参考桩长、差值、终压值等。同时预留施工阶段需要的数据接口，如：施工桩长、施工分区、混凝土超灌高度等。各项数据均通过计算机进行计算或预留，降低人工出错率，保证数据的准确性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "桩类型：承压兼抗拔桩  \n桩编码：GZ0416  \nL参：16.0m  \nLbim:19.3m  \n差值：-3.3m  \n终压值：2.2倍  \nL施工：19.5m  \n混凝土超灌高度： $\\geqslant 0 . 8 \\mathfrak { m }$   \n施工分区：施工分区一",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "除在平面图提供桩基础数据外，我们针对桩基础进行批量剖切，所得的剖面信息包含各土层信息、桩编号、桩顶标高、桩端标高，以及全断面入岩标高。最终形成图纸及报表的形式提供至业主及施工方进行桩基管理及施工。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "? 3 园 6000 4350 4350 6100 Z-18   \n②② 1 T 女 4 2 i50tt 150 ? XZ-16 XZ-16   \n® 0062 -13-200 13-2 5 国 2 00   \n? 国国 / 5 00 30 福 X7-16 4800 二 -16 -16 5 0 0018 国 XZ-16 4 国 0 -13.600 L=23 oo 4 50   \n国 书 1000 5 150 P 20 ? 50 ? 6000 4350 4.350 6100 面 ? ? ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/269ce919d9379a929f955e016d1c833d8bee075df650ab344dea57862f79d668.jpg",
+        "img_caption": [
+            "图8 BIM桩长剖面图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a00fe8ced4c8246642955fe293b730e0f2e10f6358fe2e0872aa69a36f860e91.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">2 桩长数据明细表</td></tr><tr><td>桩类型</td><td>桩号</td><td>设计桩长参考值</td><td>BIM桩长参考值</td><td>差值</td></tr><tr><td>xz-10</td><td>X10091</td><td>23</td><td>21</td><td>2</td></tr><tr><td>xz-10</td><td>X10092</td><td>24</td><td>22</td><td>2</td></tr><tr><td>xz-10</td><td>X10093</td><td>22</td><td>21</td><td>1</td></tr><tr><td>XZ-10</td><td>X10094</td><td>28</td><td>27</td><td>1</td></tr><tr><td>XZ-10</td><td>X10095</td><td>28</td><td>27</td><td>1</td></tr><tr><td>XZ-10</td><td>X10096</td><td>28</td><td>25</td><td>3</td></tr><tr><td>xz10</td><td>X10097</td><td>25</td><td>24</td><td>1</td></tr><tr><td>XZ-10</td><td>X10098</td><td>25</td><td>24</td><td>1</td></tr><tr><td>XZ-10</td><td>X10099</td><td>25</td><td>25</td><td>0</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6基于BIM的三维地质与桩长校核应用的优势",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在当前的技术条件下，基于BIM三维地质与桩长校核在数据信息表达上有着明显的优势，桩基和勘察的BIM的技术应用研究往前端发展迈进了一步。随着科技的进度，这类型的应用也会逐渐普及。本文认为此应用对工程设计及管理质量的提升有以下几个方面：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1)便于发现二维图纸的错误对于相交底层标高对不上、地质界线和相应剖面图对不上等问题,采用BIM三维地质，反映更为直观。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2)地质成果形象具体，提高沟通效率 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过BIM三维模型可视化的优势，减少专业人员内部沟通时间，提高沟通效率。对于专业与非专业人员之间的沟通更为显著。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3)桩长数据适应钻孔的数量增加而变化",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为确认项目中住宅区域直径1.6m或以上的灌注桩地质情况，业主方增加了73个钻孔数据。项目钻孔数量，从原来的119个增加至192个。钻孔数量越多，生成的三维地质模型越接近实际，其提取的桩长数据也更准确。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(4)提高数据准确率及工作效率",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "BIM三维地质及桩基础模型主要通过计算机生成，无需通过人手，降低人为错误。BIM工程师仅需进行数据检验工作即可，极大地提高工作效率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(5)数据参考价值高，便于施工管理",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "提供BIM桩长数据以勘探报告数据为基础，并与设计桩长进行比对，施工方在施工时，除参考设计提供的桩长数据外，更能同时参考BIM顾问方提供的桩长数据，降低因设计误差而导致的施工桩长数据误差。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f04486ea90a7f14798bd3a254e22757861e9964505edb4464920188d7199cc5.jpg",
+        "img_caption": [
+            "图10 BIM三维地质图（旧）"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c687b7b6ac71b81a8a2adc547848c9efbba3577be5a77cef39831a514dacddf.jpg",
+        "img_caption": [
+            "图9旋挖桩桩长数据明细表",
+            "图11 BIM三维地质图（新）"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/6a05b69c0d516d0921c1ae0ccfcdc4d386c4226caa007602416a531cf63a6e32.jpg",
+        "table_caption": [
+            "图12BIM桩长数据表（旧）"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">桩长数据明细表</td></tr><tr><td>桩号</td><td>设计桩长参考值 （m）</td><td>BIM桩长参考值 （m）</td><td>差值 （m）</td></tr><tr><td>X10091</td><td>23</td><td>21</td><td>2</td></tr><tr><td>X10092</td><td>24</td><td>22</td><td>2</td></tr><tr><td>X10093</td><td>22</td><td>21</td><td>1</td></tr><tr><td>X10094</td><td>28</td><td>27</td><td>1</td></tr><tr><td>X10095</td><td>28</td><td>27</td><td>1</td></tr><tr><td>X10096</td><td>28</td><td>25</td><td>3</td></tr><tr><td>X10097</td><td>25</td><td>24</td><td>1</td></tr><tr><td>X10098</td><td>25</td><td>24</td><td>1</td></tr><tr><td>X10099</td><td>25</td><td>25</td><td>0</td></tr><tr><td>X10100</td><td>25</td><td>21</td><td>4</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/ad04d3ea3634cca7ca11d8a94f14bc9a4f7d373fed59714a064f5e864bc72978.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">旋挖桩桩长数据明细表</td></tr><tr><td>号 N</td><td>设计桩长参考值</td><td>BIM桩长参考值</td><td>差值</td></tr><tr><td>X10091</td><td>26</td><td>25</td><td>1</td></tr><tr><td>X10092</td><td>26</td><td>25</td><td>1</td></tr><tr><td>X10093</td><td>26</td><td>25</td><td>1</td></tr><tr><td>X10094</td><td>26</td><td>23</td><td>3</td></tr><tr><td>X10095</td><td>26</td><td>25</td><td>1</td></tr><tr><td>X10096</td><td>26</td><td>24</td><td>2</td></tr><tr><td>X10097</td><td>26</td><td>25</td><td>1</td></tr><tr><td>X10098</td><td>26</td><td>25</td><td>1</td></tr><tr><td>X10109</td><td>27</td><td>26</td><td>1</td></tr><tr><td>X10110</td><td>27</td><td>26</td><td>1</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(6)实现基于BIM的桩基精细化管理",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在原有的设计数据基础上，丰富至施工及管理类的信息接口，为业主管理提供便捷方法，实现基于BIM的桩基精细化管理。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "7 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "BIM被认为是继CAD技术后，建筑行业的第二次革命性技术。按照现行的《建筑工程施工质量验收统一标准》（GB50300-2013），建筑工程包括地基与基础工程、主体结构工程、建筑屋面工程建筑装饰装修工程等10个分部工程。因此，在BIM的应用层面上，不应局限在主体建筑结构及设施上。对于地基与基础，以及岩土勘探分析等前端设计，BIM技术的应用价值还有很大的可发掘空间。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "［1］武强，徐华.三维地质建模与可视化方法研究[J].中国科学，2004，34（1）：54-60.  \n［2］郑若飞.BIM技术在地质勘察中的应用研究[J].企业技术开发，2016，35（12）：50-51.  \n[3」林孝城.BIM在岩土工程勘察成果三维可视化中的应用[J].福建建筑，2014(6):111-113.  \n[4］寇广辉，苏章，颜虞，等.基于BIM的工程桩施工技术[J].施工技术,2014,43（1）：38-40.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "BIM-Based Application of 3D Geological Model and Pile Length Checking ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Rao Jiayi1 ，Yang Yuanfeng",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1. Architectural Design and Research Institute of Guangdong Province， Guangzhou 51O010， China; 2.Guangzhou U-BIM Construction Consulting Co., Ltd.，Guangzhou 51o0oo，China) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The traditional pile length design is calculated based on the geological prospecting report data, which is always massive and cumbersome，and can easily lead to data deviation.For the accuracy of data，a3D geological model is established byusingthe BIM technologyto simulatethe distribution of soil and rock，andthe pile foundation is also modeled basedon theexisting design conditions.Through the combination of the two modelsabove，we realized the application of BIM-based 3D geological model in pile length checking. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Key Words:BIM；Revit； Pile Foundation Management； 3D Geology",
+        "page_idx": 4
+    }
+]

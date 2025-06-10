@@ -1,0 +1,361 @@
+[
+    {
+        "type": "text",
+        "text": "带电雾淞覆冰后分裂导线电场分布模型分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张满冉军德 田芝华费夕刚邹灿胡飞（国网重庆市电力公司检修分公司重庆400039）",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/91fdab61e09cbcb331f849f66bb5470008a68187c0d105cb39220bac027d409d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张满男1988年生，工程师，主要从事电力设备、超高压变电站及输电线路运行安全维护及设备运维方面的工作。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：雾淞覆冰后的导线表面变得极为粗糙，冰树枝的生长将使导线表面电场发生严重畸变，从而增大导线表面电场，对电力系统安全运行造成严重危害。本文在多功能人工气候试验室内完成了对单、双及三分裂导线不同覆冰程度带电雾淞覆冰参数试验，并根据冰树枝形态变化建立有限元模型，再利用有限元分析法进行仿真分析。结果表明：雾淞冰树枝尖端将严重增大分裂导线表面电场，雾淞形成的冰树枝越长越尖则引起导线电场畸变越严重；覆冰完成后导线表面电场在覆冰电场增加过程中呈波动趋势；相同电场下覆冰，覆冰程度的增加会减小导线表面电场，但减小速度逐渐减慢；分裂数越多的导线覆冰后表面场强越低。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：分裂导线 带电覆冰 雾淞电场分布有限元法中图分类号：TM85",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Study of the Model of Electrical Field Distribution of Bundle Conductor After Energized Rime Icing ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/8015030e06e3345ac1d927a78a3217524238b9d1aa641400b6189964df6214a9.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhang Man Ran Junde Tian Zhihua Fei Xigang Zou Can HuFei (State Grid Chongqing Maintenance Company Chongqing 400039 China ） ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "冉军德男 1964年生，高级工程师，主要从事电网规划、电力设备运行维护及检修类管理方面的工作。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Rime makes conductor surface become extremely rough, growth of ice tree can distort the electrical field seriously and cause harm to safe operation of the power system. Therefore a series test for single,double and triple bundle conductors are implemented in the artificial climate chamber,combining with the rime morphology to establish icing trees'electrical field model, using finite element method for simulation analysis.The results shows that the tip of icing tree will seriously increase the bundled conductor'surface electrical field. Ice-tree growing longer and sharper will make the electric field distorted more serious. Conductor surface electrical field increases fluctuant with the icing electric increasing. More sub-conductors will get lower surface electrical field than others. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Bundle conductor, energized icing, rime,electric field distribution, finite element method ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "我国微气象条件多样且地形复杂，南方冬季极易发生冻雾天气，使得输电线路安全运行长期受到雾淞冰灾的威胁。随着我国超高压、远距离输电的不断发展，导线覆冰后的电晕问题变得更加突出[1-3];雾淞属于干增长覆冰，覆冰后的导线表面变得非常粗糙，冰树枝尖端将使导线表面电场畸变加重，即使在很低的电压下运行时也会出现局部电晕放电，由此引起的能量损耗及对周边坏境造成的电磁污染必须受到重视[4-6]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前国内外针对积污、淋雨和高海拔等条件下的导线电晕起始特性进行了较为深入的研究，同时也针对导线覆冰进行了大量的试验[7-10]，但大多数成果忽略了输电线路常常发生带电覆冰的事实，故所得结论也与工程实际存在差异，且尚未研究带电雾淞覆冰后冰树枝对导线电场畸变规律的影响[11-12]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[13]研究表明实际导线表面由于覆冰产生的尖端使得电场畸变，即使电压不是很高，导线也会出现很多局部的电晕点，但并未深入研究覆冰对导线电场的变化规律；文献[14]研究了交流电场对导线雾淞覆冰形态的影响，并测量了不同雾淞形态下的电晕放电量，得出了冰树枝越长越尖则导线越容易在较低的电压下发生起晕现象的结论；文献[15]考虑了自然条件下的覆冰对导线电晕放电量的影响，结果表明覆冰之后导线起晕电压会降低。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为探求不同电压等级下带电雾淞覆冰对分裂导线电场分布的影响规律，本文在人工气候室内完成了不同交流电场下雾凇覆冰后的形态对单、双及三分裂导线的表面电场影响试验，并测量相关参数，根据不同雾淞形态建立有限元模型进行仿真计算，得到导线表面场强最大值及其变化趋势。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 试验装置、试品及试验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验在内径为 $2 . 0 \\mathrm { m }$ 、内长为 $3 . 8 \\mathrm { m }$ 的小型多功能人工气候室内进行，人工气候室内的温度可调，且室内安装有按国际电工委员会（IEC）推荐制作的标准喷头，用来喷雾并形成覆冰条件；气候室内的吹风装置即可使室内温度及雾粒分布均匀；试验电压从人工气候室一侧装设的穿墙瓷套管引入。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将导线置于电晕笼中心进行覆冰，试品采用长度为 $2 \\mathrm { m }$ 的LGJ-70/40型绞线，参数见表1，分裂导线间距为 $3 5 \\mathrm { c m }$ ，导线末端安装均压环以消除端部效应；实际高压输电线路表面场强一般为",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$1 5 \\sim 2 0 \\mathrm { k V / c m }$ ，为得到电场强度对覆冰特性影响的一般规律，本文设置了导线覆冰初始场强 $0 \\mathrm { k V / c m }$ ，5kV/cm、 $1 0 \\mathrm { k V / c m }$ 、 $1 5 \\mathrm { k V / c m }$ 和 $2 0 \\mathrm { k V / c m }$ 四个场强等级；环境参数采用PTU200型数字化温度、湿度和气压综合测量仪测量，水滴直径和液态水含量采用激光粒度仪进行测量，雾淞覆冰条件见表2；试品及试验布置如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/30b8c2a44c9af07e21107cc4853fcfd3171c6162717f47b6aebb81ec55ed90fa.jpg",
+        "table_caption": [
+            "Tab.1 Parameters of sub-conductor "
+        ],
+        "table_footnote": [
+            "注：2a为单股铝线直径；2b为单股钢芯直径；2c为绞线外径； $n$ 为绞线最外层股数。"
+        ],
+        "table_body": "<html><body><table><tr><td>型号</td><td>2a/mm</td><td>2b/mm</td><td>2c/mm</td><td>n/股</td></tr><tr><td>LGJ-70/40</td><td>2.72</td><td>2.72</td><td>13.60</td><td>12</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/7cdbf767730debc6e99e56f4d5943ac45b21d37bbf522d56c228d3895aabe958.jpg",
+        "table_caption": [
+            "表1分裂子导线基本参数",
+            "表2雾淞覆冰形成条件",
+            "Tab.2Forming conductions for rime icing "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>水滴直径</td><td>液态水含量</td><td>温度</td><td>覆冰电导率</td></tr><tr><td>d/um</td><td>W/(g/cm)</td><td>T/℃</td><td>Y20/(uS/cm)</td></tr><tr><td>20</td><td>2.5</td><td>-15</td><td>30 400 800 1200</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/429208b621336b056722d5a5ae96d26a63f3e83ebdce70904b4570597feb9867.jpg",
+        "img_caption": [
+            "Fig.1Arrangement of bundle conductor for the test "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 试验结果及分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "导线表面施加不同电压时，形成的雾淞冰树枝形态将受到表面电场强度的影响而改变，不同电压等级下雾淞冰树枝形态如图2所示（ $3 0 \\mathrm { { m i n } }$ 覆冰），",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/4112bb24808428e4e0694d023be216b32d0616304bc81376358d735cfcdc48ac.jpg",
+        "img_caption": [
+            "图1分裂导线试验布置图",
+            "图2不同电场下的雾淞覆冰形态",
+            "Fig.2Rime icing morphology under different electric field "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "所得的分裂导线雾凇带电覆冰形态参数见表3。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表3不同电场分裂导线雾淞带电覆冰系数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/69f1e07613b3421874bd1cd3ef849f0ad9454b41009b49a94170748aa9401ce8.jpg",
+        "table_caption": [
+            "Tab.3Coefficient of bundle conductor after energized icing under different electrical field "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">场强／ (kV/cm)</td><td rowspan=\"2\">单导线</td><td colspan=\"2\">双分裂</td><td colspan=\"3\">三分裂</td></tr><tr><td>1#</td><td>2#</td><td>1#</td><td>2#</td><td>3#</td></tr><tr><td rowspan=\"4\">冰厚</td><td>0</td><td>4.5</td><td>4.6</td><td>4.5</td><td>4.6</td><td>4.5</td><td>4.6</td></tr><tr><td>5</td><td>5.8</td><td>5.9</td><td>5.8</td><td>5.9</td><td>5.7</td><td>5.8</td></tr><tr><td>10</td><td>6.5</td><td>6.4</td><td>6.2</td><td>6.5</td><td>6.2</td><td>6.4</td></tr><tr><td>15</td><td>5.2</td><td>5.3</td><td>5.1</td><td>5.3</td><td>5</td><td>5.1</td></tr><tr><td rowspan=\"4\"></td><td>20</td><td>4.6</td><td>4.7</td><td>4.6</td><td>4.7</td><td>4.6</td><td>4.7</td></tr><tr><td>0</td><td>1.55</td><td>1.53</td><td>1.56</td><td>1.53</td><td>1.53</td><td>1.54</td></tr><tr><td>5</td><td>1.56</td><td>1.55</td><td>1.54</td><td>1.57</td><td>1.56</td><td>1.53</td></tr><tr><td>10</td><td>1.54</td><td>1.52</td><td>1.56</td><td>1.54</td><td>1.54</td><td>1.54</td></tr><tr><td>/mm</td><td>15</td><td>1.57</td><td>1.55</td><td>1.58</td><td>1.53</td><td>1.53</td><td>1.56</td></tr><tr><td rowspan=\"4\"></td><td>20</td><td>1.54</td><td>1.57</td><td>1.55</td><td>1.54</td><td>1.55</td><td>1.55</td></tr><tr><td>0</td><td>1.45</td><td>1.43</td><td>1.45</td><td>1.44</td><td>1.42</td><td>1.44</td></tr><tr><td>5</td><td>2.54</td><td>2.51</td><td>2.53</td><td>2.53</td><td>2.54</td><td>2.51</td></tr><tr><td>10</td><td>5.15</td><td>5.17</td><td>5.13 1.81</td><td>5.17</td><td>5.19 1.85</td><td>5.18 1.83</td></tr><tr><td>/mm</td><td>15 20</td><td>1.83 1.01</td><td>1.79 1.1</td><td>1.07</td><td>1.82 1.07</td><td>1.05</td><td>1.03</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图2可知，不同覆冰电场下雾淞覆冰后的冰树枝形态并不相同；雾淞覆冰使得导线表面变得极为不光滑，细小的冰树枝会增加导线的粗糙度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "随着覆冰电场的增加，冰厚和冰树枝高度均出现先增大再减小的趋势(见表3)，这是由于当表面电场为低场强时，水滴由于受到电场吸引力的作用导致相同时间内雾淞冰厚迅速增加，使得导线等效直径变粗；表面覆冰电场较高时，冰厚跟低场强时相比增加并不多，但冰树枝却出现明显的变长变尖（见图2c）；当为高场强下覆冰时，导线覆冰厚度随场强的增加而减小，这是由于强场强下冰树枝电晕活动剧烈，大量的离子轰击和泄漏电流将使得冰树枝尖端出现退化现象。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4冰树枝尖端电场模型及有限元计算",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.1冰树枝尖端电场模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为研究冰树枝引起的电场畸变效应，通过对比雾淞覆冰形态数据及表面覆冰照片发现，雾淞冰树枝可以简化等效为圆锥体形状，如图3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.2雾淞有限元模型建立及计算",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据本文第3.1节中雾淞冰树枝形态及尖端电场分布模型，利用Maxwell软件进行有限元建模，将已覆冰的三分裂导线置于直径为 $2 \\mathrm { m }$ 的同轴电极中，则三分裂导线不同电场覆冰后电场分布计算如图4所示。图4a中，施加 $6 9 \\mathrm { k V }$ （有效值）交流电时，未覆冰的三分裂导线表面电场为 $1 5 \\mathrm { k V / c m }$ ，与实际运行导线表面电场相一致；导线材料设为铝，冰厚及冰树枝材料为 $\\boldsymbol { I _ { \\mathrm { c e } } }$ 相对介电常数为75，场域背景区域设为真空，同轴电极边界设为气球边界条件，即无限远处电位为零，然后采用网格自动剖分，最后进行计算。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b6ca6d77c13cf2d6910ccb3fde1455b2ed61444f8bab16f6e4b95a83eaa2c969.jpg",
+        "img_caption": [
+            "图3雾淞覆冰形态模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e5563f158d39a63ac3a0e34868a9b2b87e4dcfc6d47b6239ba0af9cda270dba5.jpg",
+        "img_caption": [
+            "Fig.3 Electric field model for rime icicle tips "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "不带电覆冰时，随着覆冰时间的增加，表面电场如图5所示。施加69kV（有效值）交流电时，未覆冰的三分裂导线表面电场为 $1 5 \\mathrm { k V / c m }$ ，而带电覆冰后的导线若继续在该电压下运行则表面电场分别为$2 0 . 7 1 \\mathrm { k V / c m }$ 、19.56kV/cm、 $2 0 . 6 5 \\mathrm { k V / c m }$ 、 $2 0 . 2 \\mathrm { k V / c m }$ 和 $1 9 . 7 6 \\mathrm { k V / c m }$ ，呈波动趋势，如图 $5 6 \\sim 5 \\mathrm { f }$ 所示，这是由于覆冰电场为 $0 \\sim 5 \\mathrm { k V / c m }$ 覆冰时，水滴受到电场吸引力的作用导致雾淞冰厚迅速增加和雾淞冰树枝长度增加，但较粗的直径会弱化冰树枝的电场畸变作用，故运行表面电场会出现第一次降低；当覆冰电场为 $1 0 \\mathrm { k V / c m }$ 覆冰时，冰厚较 $5 \\mathrm { k V / c m }$ 时增加并不多，但冰树枝却出现明显的变长变尖，故导线表面电场受冰树枝尖端畸变作用更大，导致表面电场增加到最大值；在场强 $1 5 \\sim 2 0 \\mathrm { k V / c m }$ 下覆冰时，导线覆冰厚度随场强的增加而减小，理论上导线运行表面场强应该降低，但由于强场强下冰树枝电晕活动剧烈，大量的离子轰击和泄漏电流将使得冰树枝尖端出现退化现象，故对导线表面的畸变效应会逐渐减小，导致运行表面场强逐渐上升。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4ac59544cd4f082ec7797f40fe419034f4dfc85a4f602e4fa50647d1ea52e70e.jpg",
+        "img_caption": [
+            "(a）未覆冰时"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a3b8465609338e9af3b105f1078c746ba0af33fe2cc680de2851eb67d7c6b445.jpg",
+        "img_caption": [
+            "Fig.4Electric field distribution of rime icing under different electric field ",
+            "Fig.5Field distribution of triple bundle conductor after rime icing "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图5中， $0 \\mathrm { k V / c m }$ 电场下 $0 \\sim 6 0 \\mathrm { { m i n } }$ 覆冰后的三分裂导线若继续在67kV电压下运行，则表面电场分别为 $2 2 . 4 \\mathrm { k V / c m }$ 、 $2 0 . 6 \\mathrm { k V / c m }$ 、 $1 9 . 8 \\ \\mathrm { k V / c m }$ 和$1 9 . 3 \\mathrm { k V / c m }$ ，呈逐渐减小趋势，但减小速度逐渐变慢；这是由于导线等效直径的增加会弱化冰树枝尖端电场畸变效应，这与覆冰所得的平均参数结果趋势分析相吻合。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在导线表面电场均为 $1 5 \\mathrm { k V / c m }$ 情况下进行$3 0 \\mathrm { m i n }$ 雾凇覆冰，覆冰之后均运行于 $6 9 \\mathrm { k V }$ 电压下，则三种导线表面电场如图6所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bbf8d3b2e413b297a451c10131d09532bd16c89037eaf6196be23e3fdd61cc9d.jpg",
+        "img_caption": [
+            "(b）双分裂 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/cdd6b2b02669956e6cac4cc9f2a73d61a6876055912aced79ab39f48f6ba1d86.jpg",
+        "img_caption": [
+            "图6三种导线覆冰 $3 0 \\mathrm { m i n }$ 表面电场分布 Fig.6Field distribution of three kinds of wires after 30 minutes icing "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图6可知，三种导线在表面电场为 $1 5 \\mathrm { k V / c m }$ 覆冰 $3 0 \\mathrm { m i n }$ 后，施加69kV交流电后发现覆冰导线最大电场分别为 $2 2 . 5 \\mathrm { k V / c m }$ 、 $2 1 . 3 \\mathrm { k V / c m }$ 和 $2 0 . 2 \\mathrm { k V / c m }$ ，呈逐渐减小趋势，这是因为相同覆冰时间内，冰树枝对分裂数多的导线畸变越小，故相同电压等级下分裂多的导线表面电场较小，且不容易发生起晕现象。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）雾淞覆冰使得导线表面变得极为不光滑，细小的冰树枝会增加导线的粗糙度，由于雾淞冰树枝尖端使得导线表面电场畸变严重，在很低的电压下冰面即会出现电晕放电，进而出现严重的电晕效应。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2）随着覆冰电场的增加，形成的雾淞冰树枝形态各异，冰厚和冰树枝高度均出现先增大再减小的趋势。低场强时，水滴主要受到电场吸引力的作用导致雾凇冰厚迅速增加；较高场强时，冰树枝出现明显的变长变尖；强场强下冰树枝电晕活动剧烈，大量的离子轰击和泄漏电流将使得冰树枝尖端出现退化现象，覆冰厚度随场强的增加而减小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3）导线表面电场在覆冰电场增加过程中成波动趋势；相同电场下覆冰时，覆冰程度的增加会减小导线表面电场，但减小速度逐渐减慢；分裂数越多的导线覆冰后表面场强越低，故越不容易起晕。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] 黄新波，刘家兵，蔡伟，等．电力架空线路覆冰雪的国内外研究现状[J]．电网技术．2008，32(4)：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "23-28. Huang Xinbo,Liu Jiabing,Cai Wei, et al. Present research situation of icing and snowing of overhead transmission lines in China and foreign countries[J]. Power System Technology,2008,32(4): 23-28.   \n[2] 刘振亚．特高压电网[M]．北京：中国经济出版社, 2005.   \n[3] Ndiaye I, Fofana I, Farzaneh M. Contribution to the study of the appearance and development of corona discharges on a surface of ice[C]. IEEE Conference on Electrical and Computer Engineering (IEEE CCECE) Canada,2003,1: 639 - 642.   \n[4] 李成榕，吕玉珍，崔翔，等．冰雪灾害条件下我 国电网安全运行面临的问题[J]．电网技术，2008, 32(4)，14-22. Li Chengrong,Lü Yuzhen, Cui Xiang,et al. Research issues for safe operation of power grid in China under ice-snow disasters[J]. Power System Technology,2008,32(4),14-22.   \n[5] 曾庆禹．特高压输电线路电气和电晕特性研究[J]. 电网技术，2007，31(19)：1-8. Zeng Qingyu. Study on electric characteristic and corona performance of UHV AC transmission line[J]. Power System Technology, 2007,31(19): 1-8.   \n[6] 阳林，郝艳捧，黎卫国，等．输电线路覆冰与导 线温度和微气象参数关联分析[J]．高电压技术， 2010，36(3)，775-781. Yang Lin, Hao Yanpeng,Li Weiguo, et al. Relationships among transmission line icing, conductor temperature and local meteorology using grey relational analysis[J]. High Voltage Engineering, 2010,36(3), 775-781.   \n[7] 胡琴，舒立春，蒋兴良，等．不同大气参数及表 面状况下导线交流起晕电压的预测[J]．高电压技 术，2010，36(7)：1669-1673. Hu Qin, Shu Lichun, Jiang Xingliang,et al. Conductor's AC corona onset voltage prediction under different atmospheric parameters and conductor surface conditions[J]. High Voltage Engineering,2010,36(7): 1669-1673.   \n[8] Phan C L,Laforte JL.The influence of electrofreezing on ice formation on high-voltage DC transmission lines[J]. Cold Regions Science and Technology, 1981,4(1): 15-25.   \n[9] Farzaneh M,Laforte JL.Ice accretion on energized conductors by AC or DC: a laboratory investigation of ice treeing[J]. International Journal of Offshore and Polar Engineering,1994,4(1): 40-47.   \n[10]尤少华，刘云鹏，律方成，等．不同海拔下电晕 笼分裂导线起晕电压的计算分析[J]．中国电机工 程学报，2012，32(4)：169-177. You Shaohua,Liu Yunpeng,Lu Fangcheng, et al. Calculation and analysis on corona onset voltage of corona cage bundle conductors at different altitudes[J]. Proceedings of the CSEE,2012,32(4): 169-177.   \n[11]郑天茹．特高压输电线路上尖端电晕放电的研究 [D]．山东：山东大学，2010.   \n[12]蒋兴良，舒立春，孙才新．电力系统污秽与覆冰 绝缘[M]．北京：中国电力出版社，2009.   \n[13]Trinh N G, Maruvada P S, Poirier B A. Comparative study of the corona performance of conductor bundles for $1 2 0 0 ~ \\mathrm { k V }$ transmission lines[J]. IEEE Transactions on Power Apparatus and Systems, 1974, 93(3): 940-949.   \n[14]舒立春，李特，蒋兴良，等．交流电场强度对导 线雾淞覆冰特性的影响[J]．中国电机工程学报, 2012，32(19):140-147. Shu Lichun,Li Te, Jiang Xingliang, et al. Influences of AC electric field strength on conductor rime icing performance[J]. Proceedings of the CSEE,2012, 32(19): 140-147.   \n[15]Gunn R.The electrification of precipitation and thunderstorms[J]. Proceedings of the IRE,1957(S): 1331-1358. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

@@ -1,0 +1,381 @@
+[
+    {
+        "type": "text",
+        "text": "“嫦娥三号”任务及其初步科学成果",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/b2f91f0e4e1f162ecca8eb1568427df1dbc196bd48c207ce08ad2005c8b48c30.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张巧玲1.2",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1中国科学院国家天文台北京100012  \n2中国科学院月球与深空探测总体部北京100012",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要“嫦娥三号”月球探测器自2013年12月成功着陆月球之后，已在月球停留超过3年时间，创下在月球表面工作时间最长的世界纪录。与此同时，“嫦娥三号”探测器搭载的8台科学载荷获得了大量的科学探测数据。为推进“嫦娥三号”任务科学探测数据的应用和研究，力争出好成果、快出成果，中科院在“嫦娥三号”任务执行前集中全国优势力量组建了由科学家、科学载荷研制单位技术人员和负责科学探测数据处理的地面应用系统技术人员组成的5个科学应用核心团队，并设立“‘嫦娥三号’任务探测数据科学应用研究”重点部署项目。经过两年多的时间，“嫦娥三号”任务核心科学家团队在月球地形地貌、浅表层地质结构、月基天文观测以及地球等离子体观测等方面取得了一系列创新性研究成果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词“嫦娥三号”任务，核心科学家团队，科学成果",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DOI 10.16418/j.issn.1000-3045.2017.01.011 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1“嫦娥三号”任务的科学目标及有效载荷配置",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "“嫦娥三号”探测器是中国第一个月球软着陆的无人登月探测器，由着陆器和月面巡视器（又称“玉兔号”月球车）组成。“嫦娥三号”成功着陆月球并进行了就位和巡视探测，实现了我国探月工程“绕、落、回”发展战略的第二步战略目标，在我国航天事业发展史上具有重要里程碑意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2002年，中科院牵头组织论证并提出了探月工程二期的科学目标，2008年工程立项启动后，又组织开展了“‘嫦娥三号’任务有效载荷与科学目标专题”研究，最终确定了“嫦娥三号\"任务的三大科学目标，即：月表形貌与地质构造调查、月表物质成分和可利用资源调查、地球等离子层探测和月基光学天文观测。这3个科学目标也被概括为“测月、观天、看地”。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为了完成以上科学目标，“嫦娥三号”探测器共搭载了8台有效载荷，其中，着陆器上搭载了地形地貌相机、降落相机、极紫外相机、月基光学望远镜，巡视器上搭载了全景相机、测月雷达、粒子激发X射线谱仪和红外成像光谱仪。这8台载荷中，月基光学望远镜、极紫外相机和测月雷达都是国际上首次应用于月球科学探测的科学仪器",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "北京时间2013年12月2日1时30分，“嫦娥三号”探测器从西昌卫星发射中心成功发射，12月14日21时11分成功软着陆在西经 $1 9 . 5 1 ^ { \\circ }$ 、北纬 $4 4 . 1 2 ^ { \\circ }$ 的月球雨海北部虹湾预选着陆区位置，标志着我国首次实现了在地外天体的软着陆，12月15日着陆器与巡视器（月球车）成功分离。随后，着陆器与巡视器搭载的8台科学仪器陆续开机并获取科学探测数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "巡视器在着陆区自北、向东、向南、向西、向北开展了月面巡视探测，第二月昼期间，巡视器出现故障，只累积行驶约 $1 1 4 . 8 \\mathrm { m }$ （图1）。粒子激发X射线谱仪只探测了2个点，红外成像光谱仪只探测了4个点；极紫外相机于2014年6月第七月昼期间出现故障，2014年7月份以后没有获得观测数据，近6个月期间正常工作约230小时，共获取了1300多幅科学探测图像数据，而且由于热控等原因，该载荷并未像预期那样实现全天候即每个月昼14天的观测，只能在月球的早上和傍晚期间开机观测。目前，唯一仍在正常且超期工作的是安装于着陆器上的月基光学望远镜。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/715f97741d90c9cc2f30ceac95fffe92bf5b82a147f89024c99e75314f0b0af6.jpg",
+        "img_caption": [
+            "图1“嫦娥三号”巡视器实际行驶路线"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "据统计，2013年12月2日—2016年6月30日，“嫦娥三号”探测器共计开展了32个月球白昼的科学探测工作。截至2016年6月30日，地面应用系统归档“嫦娥三号”各类数据共计 $7 . 0 7 \\mathrm { T B }$ 。其中，原始数据 $1 . 9 7 \\mathrm { T B }$ ○",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 探索管理新模式，做好先导示范",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "“嫦娥三号”任务的成功实施让中国在深空探测的舞台上又迈上新台阶。作为实施我国探月工程主要力量之一，中科院在“嫦娥三号”任务中牵头负责论证和制定了科学目标，规划了科学探测任务，并承担了地面应用系统、有效载荷分系统和VLBI（甚长基线干涉测量）测轨分系统的研制建设和运行。与此同时，中科院在“嫦娥三号”的科学应用研究管理模式上也展开了全新的探索。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2013年9月，在探月工程领导小组、探月工程总体部的领导下，在“嫦娥三号”探测器发射前夕，作为科学目标的论证及主要实现单位，中科院在第一时间组织了由中国地质大学、南京大学、山东大学（威海）、澳门科技大学、北京大学以及中科院相关研究所的近百名专家学者组成的“嫦娥三号”任务核心科学家团队，以迅速对“嫦娥三号”获取的科学探测数据展开深入研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "核心科学家团队由探月工程月球应用科学首席科学家负责、中科院月球与深空探测总体部具体组织落实，围绕“月球地形地貌与地质构造研究”“月面化学特征及其演化规律研究”“月球区域地球化学与构造动力学演化模型研究”“地球等离子体层特征及其与太阳风相互作用研究”“月基光学天文研究”5个方向，组建了由科学家、载荷技术专家、科学探测数据处理专家组成的5支核心团队。这种“三位一体”的管理模式能更有效地推动“嫦娥三号”探测数据的科学应用工作的开展。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2013年10月，中科院自筹经费设立“‘嫦娥三号'任务探测数据科学应用研究”重点部署项目，专门用于支持核心团队开展研究工作。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "据不完全统计，经过两年多的时间，“嫦娥三号”核心科学家团队在月球地形地貌、浅表层地质结构、月基天文观测以及地球等离子体观测等方面取得一系列创新成果，共发表学术论文近百篇，其中SCI论文62篇（含国际SCI论文31篇），国际会议论文60多篇。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 “嫦娥三号” 主要科学成果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1月面探测取得系列成果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2015年10月15日，国际天文学会（IAU）正式批准将“嫦娥三号”着陆点周边区域，即雨海北部地区（ $3 4 0 . 4 9 ^ { \\circ } \\mathrm { E }$ ， $4 4 . 1 2 ^ { \\circ } \\mathrm { N }$ ）命名为“广寒宫”。“玉兔号”月球车踏足“广寒宫”是自阿波罗登月后时隔40多年人类航天器首次登临月面开展巡视勘察。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用“玉兔”月球车搭载的全景相机、测月雷达、可见一近红外成像光谱仪、粒子激发X射线谱仪这4台科学载荷，开展了着陆区形貌、成分和月壳浅层结构探测，获得了第一手月表就位探测数据。科学家利用这些数据获取了一系列科学应用研究成果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.1获得了月壤分层结构和浅层月岩的分层结构剖面图",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2015年3月13日，中国地质大学（武汉）肖龙教授及其团队和澳门科技大学、中科院电子学所、中科院国家天文台等单位的研究人员利用测月雷达、全景相机等科学仪器的探测数据，在国际上首次剖析了“嫦娥三号”着陆区浅层结构特性及其地质演化历史，揭示了巡视区地质特征（图2、图3），相关成果以“‘嫦娥三号’揭示雨海北部年轻的多层地质结构体”为题发表在Science杂志上。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.2揭示了着陆区浅表层结构特征及地质演化历史，对月球晚期岩石活动和地质演化过程提出了新的认识",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2015年4月13日，中科院地质与地球物理所林杨挺研究员带领的“嫦娥三号”科学应用核心团队利用“玉兔”月球车上4台科学仪器的探测数据，在国际上首次揭示月球雨海区的火山演化历史，相关研究成果被《美国科学院院刊》作为封面文章刊发（图4）。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/58444705478de7b7748b93d5f221b118c8f2224ce68ccedb4aeafaf53022516d.jpg",
+        "img_caption": [
+            "图2“嫦娥三号”着陆区地质图及主要地质事件"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/91dc614a85bbb1090f700398a12851a53790e3cd7213483e09d4394d7a5854dc.jpg",
+        "img_caption": [
+            "图3“嫦娥三号”测月雷达数据解译和地质剖面图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea622099f460e8fe3028ad875ef6450a1e2d144d83fd89c0c0b4eef06d37d932.jpg",
+        "img_caption": [
+            "图4《美国科学院院刊》以封面文章形式发表\"嫦娥三号\"研究成果"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "成果显示，月球在晚至25亿年左右仍存在大规模火山喷发，可能与该区域极富放射性元素有关，着陆区的月壤厚度也明显高于以往估算。这一研究结果对理解月球演化有重要意义（图5）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "着陆区位于月球雨海盆地北部，该区域的玄武岩流（深黑色）年龄为20亿一30亿年，距北部低铁钛玄武岩（亮灰色）仅10公里左右。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.3发现一种新的岩石类型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "山东大学空间科学研究院行星科学团队与国内外7家单位合作，利用粒子激发X射线谱仪和红外成像光谱仪探测数据（图6），发现“嫦娥三号”着陆区由“紫微”撞击坑溅射出的岩石是一种全新的月球玄武岩（图7），成果在2015年12月23日的《自然—通讯》（NatureCommunications）上刊出后，引起了学术界广泛的关注。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2在国际上首次实现月基近紫外巡天观测",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "“嫦娥三号”在国际上首次实现了月基近紫外巡天观测，填补了国际上GALEX卫星巡天在低银纬天区的部分空白（图8）。月基光学望远镜也是“嫦娥三号”上目前唯一仍在正常工作的科学仪器，截至2016年6月，该仪器进行了约4940小时的巡天观测，获得23.3万张图像数据，取得2项主要成果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）2015年，由中科院国家天文台魏建彦研究员带领的月基光学望远镜研究团队在《行星与空间科学》发表最新研究成果，提出月球外逸层中的羟基（水）密度的上限（柱密度 $< 1 0 ^ { 1 1 } \\mathrm { c m } ^ { 2 }$ ，体密度不高于 $1 0 ^ { 4 } \\mathrm { c m } ^ { 3 }$ ）。探测精度比哈勃望远镜的结果提高2个量级、比印度“月船一号”的结果提高5个量级，是迄今为止这一领域的最好结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（2）月基光学望远镜的另一最大亮点是变星研究上发现的一系列新的天文现象。如：发现一个罕见的处于双星快速物质交流演化过程中的天体，发现一批处于双星慢速物质交流演化过程中的样本，发现一个处于六星系统中的半相接型密近双星，发现密近双星普遍存在于多星系统的可能性等。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/44cfbcff9ecfda452021888638bac54670ce84fa4b3544f3377f9fc12d043d71.jpg",
+        "img_caption": [
+            "图5月球雨海盆地影像，红色十字为“嫦娥三号”着陆区位置"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/65fc7ba039854ec256cffe506e3dba2195264fd52f2c73d4bb435555c837875f.jpg",
+        "img_caption": [
+            "图6“玉兔号”月球车在“广寒宫”巡视路线和物质成分就位探测数据"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（a）“玉兔号”月球车在月表巡视路线；（b）粒子激发X射线谱仪（APXS）在CE3-0006位置获取的光谱及指认；（c）红外成像光谱仪（VNIS）在4个位置获取的光谱数据及采集的图像",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/72db96cef99420d9a6108e5a2cbf8ae4928ff1e333901898547b6a627e4bb4e1.jpg",
+        "img_caption": [
+            "图7“嫦娥三号”着陆区由“紫微”撞击坑溅射出的岩石是一种全新的月球玄武岩"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3解译地球等离子体的奥秘 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "地球等离子体层（Plasmasphere）是位于内磁层（图9）的一个环状的冷等离子体聚集区域，主要成分来自被地球磁场俘获的南北纬60度以下的地球电离层离子。它的外面被环电流和辐射带包围（图10）。“嫦娥三号”是国际上首次实施月面定点、大视场对地球等离子体层的极紫外观测。从2013年12月23日至2014年6月12日，安装于“嫦娥三号”着陆器上的极紫外相机累计观测约230小时，共获取1300多张地球等离子体层图像（图11）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用这些数据，中科院国家天文台王华宁研究员带领的研究团队获得了一系列成果，首次发现地球等离子体层边界在磁层亚暴的影响下发生凸起。据悉，地球等离子体层是磁层与电离层的耦合区域，其结构对于地磁活动（磁暴或亚暴）非常敏感。2014年4月20—22日，“嫦娥三号”极紫外相机获得大尺度和子午面视角的地球等离子体层观测资料。期间由日冕物质抛射引发多次磁层亚暴。结合其他天基和地基观测数据，研究人员开展了地球等离子体层对磁层亚暴响应研究。结果显示，地球等离子体层边界发生凸起与磁层亚暴的影响密切相关。2016年8月31日《自然·科学报告》（ScientificReports）在线发表了这一成果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其次，研究人员还确认地球等离子体层的尺度与地磁活动强度反相关，进而认为等离子体层的空间结构受地球磁场和电场的约束和控制。利用“嫦娥三号”全部观测数据分析地球等离子体层边界的变化，可以明确地验证地球等离子体层的尺度与地磁活动强度呈反相关。极紫外相机成像数据显示，地球等离子体层的空间结构受到地球磁场和电场的约束和控制。磁层活动平静期，等离子体层可以扩展至地心距离6.5倍地球半径。随着磁层活动的增强，等离子体层在空间上收缩；在观测到的磁层活动最强期（2014年2月21日），等离子体层顶至地心距离下降为3.5倍地球半径。这些探测结果与等离子体层经验模式及其他卫星就位探测结果基本一致。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b7b97aa5f28985751162975d5abafe5e99ec5ceb2d3f0a98d22b2c4aba21cfe1.jpg",
+        "img_caption": [
+            "图8月基光学望远镜巡天观测覆盖的天区(中心红点为月球的北极）"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c353dcf117f7715a88581e85aada2ca917a37407066ee968cb40e1920d4e8aca.jpg",
+        "img_caption": [
+            "图9地球磁层活动的基本结构"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/57462147b582d92c255261a110452861411c361b1abe49c80d08b8bf07a5846e.jpg",
+        "img_caption": [
+            "图10地球等离子体层结构示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b5be2236c0fe87550ced72bc68e5fa43d006503e439a9bfffff7bba5a1c81fdf.jpg",
+        "img_caption": [
+            "图 $^ { 1 1 }$ “嫦娥三号”极紫外相机观测到的地球等离子体层"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在中科院积极有效的组织管理以及大力支持下，“嫦娥三号”任务科学探测数据的应用和研究工作实现了“快出成果、多出成果、出好成果”的目标。“嫦娥三号”任务取得的丰硕科学成果得到了国际同行专家的认可和高度评价，并将我国月球科学研究又推上了一个新台阶。不仅如此，“嫦娥三号”着陆器搭载的月基光学望远镜仍在开展巡天观测，其他科学应用研究工作也并没有结束，许多深入研究工作仍在继续开展。相信，随着“嫦娥三号”研究工作的继续深入开展，后续还会有更多的亮点成果不断涌现。更重要的是，“嫦娥三号”探索的科学应用与研究的管理模式必将为我国今后的月球与深空探测工程的科学应用研究工作提供很好的借鉴。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Preliminary Scientific Achievements of Chang'e-3 Mission ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Zhang Qiaoling1,2 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1 National Astronomical Observatories, Chinese Academy of Sciences,Beijing 10ool2, China; ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2 General Office ofthe Lunar and Deep-Space Exploration,Chinese AcademyofSciences,Beijing 10o012,China）",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "AbstractChang'e-3spacecraftlandedontheMoonon14December2O13,andsetaworldrecordforthelongest workinghoursonthe surfaceofthemoon.TheeightscientificpayloadsoftheChange-3haveachievedalargeamountofscientificexplorationdata.Inoderto promotetheaplcatioandresearchof teseexplorationdata,ndstrieforsoundandquickresults,ChineseAcademyofSiencsucted thekeydeploymentprojetofaplicationesearchonthesientificdatafromCE-3bforelunch.Fivecoreamsofsientistscosistedof scientists,itfcstrutsdodahndplcatiotcalpsoel.Tioetaseced ofinovativachsultsaropgagoittureardsrooicalsetiodarthplaatioi years. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "KeywordsChang'e-3 mission, the core team of scientists,scientific achievements张巧玲中科院国家天文台高级工程师，目前就职于中科院月球与深空探测总体部，主要负责新闻宣传及科普方面的工作。E-mail:qlzhang@bao.ac.cn",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ZhangQiaolingSeniorEngineerofNationalAstronomicalObservatories,ChineseAcademyofScienes,worksonpublicityand popularization of science in General Officeofthe Lunar and Deep-Space Exploration, Chinese Academy of Sciences. E-mail: qlzhang@bao.ac.cn ",
+        "page_idx": 5
+    }
+]

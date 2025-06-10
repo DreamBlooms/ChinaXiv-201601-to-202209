@@ -1,0 +1,430 @@
+[
+    {
+        "type": "text",
+        "text": "1 饲粮中添加绿狐尾藻对肥育猪生长性能、血清生化指标和胴体品质的影响  \n2 吴飞」 陈家顺1.2\\* 刘 锋」李裕元」吴金水1\\*\\* 肖润林」姚　康1\\*\\* 印遇龙1\\*\\*  \n3 (1.中国科学院亚热带农业生态研究所，中国科学院亚热带农业生态过程重点实验室，湖南省畜  \n4 禽健康养殖工程技术中心，农业部中南动物营养与饲料科学观测实验站，长沙 410125；2.湖南  \n5 农业大学动物科学技术学院，长沙 410128)  \n6號 摘要:本试验旨在研究饲粮中添加绿狐尾藻对肥育猪生长性能、血清生化指标和胴体品质的影响。  \n7 采用单因子完全随机试验设计，选用40头初始体重为 $( 5 5 . 2 0 { \\pm } 2 . 1 8 ) \\mathrm { k g }$ 的健康“杜 $\\mathbf { \\nabla } _ { \\cdot } \\times$ 长 $\\times$ 大”三元杂交  \n8 猪，随机分为4个组，每组10个重复，每个重复1头猪。Ⅰ组（对照组）饲喂基础饲粮，II、II和IV  \n9 组饲粮在基础饲粮中分别添加 $5 \\%$ 、 $10 \\%$ 和 $1 5 \\%$ 绿狐尾藻，试验期 $6 0 \\mathrm { ~ d ~ }$ 。结果表明：1）与对照组相  \n10 比， $\\mathrm { I I }$ 和ⅢI组肥育猪的终末体重、平均日增重和料重比均无显著差异 $( P { > } 0 . 0 5 )$ ；IV组的终末体重和  \n11 平均日增重显著降低 $( P { < } 0 . 0 5 )$ ，料重比显著增加 $( P { < } 0 . 0 5 )$ 。2）各组肥育猪的血清总蛋白、尿素氮、  \n12 总胆固醇、甘油三酯、低密度脂蛋白、高密度脂蛋白含量和谷草转氨酶活性均无显著差异 $( P { > } 0 . 0 5 )$ ：  \n13 与对照组相比，组的血清谷丙转氨酶活性和IV组的血清白蛋白含量显著降低 $( P { < } 0 . 0 5 )$ 。3）各组  \n14 肥育猪的胴体率、瘦肉率、屠宰率、胴体斜长、肉色、剪切力和大理石纹评分均无显著差异 $( P { > } 0 . 0 5 )$ ：  \n15 与对照组相比，III和IV组的平均背膘厚和IV组的眼肌面积显著降低 $( P { < } 0 . 0 5 )$ ，II组的滴水损失有降  \n16 低趋势 $( P { > } 0 . 0 5 )$ ，Ⅱ和Ⅲ组的 $\\mathrm { p H } _ { 4 5 \\mathrm { m i n } }$ 、 $\\mathfrak { p H } _ { 2 4 \\mathrm { h } }$ 有增加趋势 $( P { > } 0 . 0 5 )$ 。由此可见，饲粮中添加 $10 \\%$ 绿狐  \n17 尾藻对肥育猪的生长性能无显著影响，可改善血清生化指标，降低平均背膘厚，减缓肌肉 $\\mathfrak { p H }$ 下降",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "收稿日期：2017-03-27",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：国家973项目专题（2013CB127306)；国家自然科学基金面上项目（31472107)；湖南省“湖湘青年科技创新人才”项目（2015RS4053)；中科院“百人计划”项目；中科院重点部署项目(KFZD-SW-307)；湖南省战略性新兴产业重大成果转化项目（2015GK1014)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作者简介：吴飞（1988—），男，湖北武穴人，硕士研究生，从事单胃动物营养与饲料研究。E-mail:E-mail:363100902@qq.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*同等贡献作者",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*\\*通信作者：吴金水，研究员，博士生导师，E-mail: jswu@isa.ac.cn；姚康，研究员，博士生导师，E-mail: yaokang@isa.ac.cn；印遇龙，院士，博士生导师，E-mail: yinyulong@isa.ac.cn",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "速度，降低滴水损失，改善猪肉品质。  \n关键词：绿狐尾藻；肥育猪；生长性能；血清生化指标；胴体品质中图分类号：S816.5；S828",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着畜牧养殖业的迅猛发展，饲料资源短缺问题一直影响着畜牧业的可持续发展，已成为我国畜牧业面临的一大挑战，因此，根据不同非常规饲料原料的营养特性和养殖动物的生理特点，科学利用新饲料资源是十分必要的。绿狐尾藻（Myriophyllum elatinoides Gaudich.）俗称绿羽毛草、青凤凰草，为小二仙草科狐尾藻属，系多年生沉水或浮水草本植物，原产于南美洲，其生长速度快、产量高，具有对水体中氮、磷吸收能力强的特点[1-2]。我国绿狐尾藻资源十分丰富，每年产量达150000 t以上[2-3]。绿狐尾藻营养价值高，干草中粗蛋白质含量达 $20 . 1 5 \\%$ ，粗纤维含量为 $2 0 . 8 2 \\%$ ，且富含必需氨基酸和矿物质元素等营养成分[4-5]，其营养价值相当于紫花苜蓿，可作为动物的饲料原料使用[5-6]。若能将其作为饲料添加剂应用于动物生产，不仅可以处理养殖污水、有效改善水体环境，还可能对动物的生长性能和机体状况产生有利影响，同时缓解饲料原料资源紧张的状况，降低饲料成本，具有良好的环境和经济效益。目前，中国科学院亚热带农业生态研究所针对我国农业、农村环境污染实情研发了绿狐尾藻湿地净化系统的核心治污技术，在水体生态治理和资源优化方面取得了一定的成果[7]。此外，丁春华等[8报道，将绿狐尾藻作为青饲料喂养猪，可以降低养殖成本，提高经济效益。鲁将等[3]也报道，利用绿狐尾藻给猪做\"补品”，生猪增肥效果显著，肉质更佳。在鱼虾蟹塘按垄种植绿狐尾藻，鱼虾生长速度快、味道鲜美。可见，绿狐尾藻是一种极具潜力的新型饲料原料。目前，苜蓿草、桑叶等优质粗饲料在猪饲粮中的应用已有报道，这些粗饲料对猪的生长性能、血清生化指标、胴体组成和肉品质等方面均有积极作用[9-12]，然而，有关绿狐尾藻在猪饲粮中的应用研究尚未见报道。鉴此，本试验旨在研究饲粮中添加绿狐尾藻对肥育猪生长性能、血清生化指标和胴体品质的影响，初步探讨绿狐尾藻在养殖业饲粮化的潜力，为其在养殖生产中推广应用提供数据参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验材料绿狐尾藻：由中国科学院亚热带农业生态研究所长沙农业环境站提供。绿狐尾藻和紫花苜蓿的主要营养成分见表1。绿狐尾藻的17种氨基酸含量如下：天冬氨酸 $1 . 8 2 \\%$ 、谷氨酸 $1 . 4 1 \\%$ 、亮氨酸$1 . 1 3 \\%$ 、赖氨酸 $0 . 8 8 \\%$ 、精氨酸 $0 . 8 0 \\%$ 、氨酸 $0 . 8 1 \\%$ 、丙氨酸 $0 . 7 0 \\%$ 、甘氨酸 $0 . 6 9 \\%$ 、组氨酸 $0 . 4 2 \\%$ ，丝氨酸 $0 . 6 1 \\%$ 、苏氨酸 $0 . 5 9 \\%$ 、酪氨酸 $0 . 5 3 \\%$ 、蛋氨酸 $0 . 1 4 \\%$ 、苯丙氨酸 $0 . 7 3 \\%$ 、异亮氨酸 $0 . 7 6 \\%$ 、脯氨酸 $0 . 6 1 \\%$ 和半胱氨酸 $0 . 4 4 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b3ed308f98d3de3ce29c0caf14e62813e572780501ddc6ed635d1307ad204524.jpg",
+        "table_caption": [
+            "Table 1Major nutritional components of Myriophylum elatinoides and alfalfa (Medicago sativa) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"8\">49 (air-dry basis)</td></tr><tr><td>项目</td><td>代谢能</td><td>粗蛋白质</td><td>粗脂肪</td><td>粗纤维</td><td>粗灰分</td><td>钙</td><td>磷</td></tr><tr><td>Items</td><td>ME/(MJ/kg)</td><td>CP/%</td><td>EE/%</td><td>CF/%</td><td>Ash/%</td><td>Ca/%</td><td>P/%</td></tr><tr><td>绿狐尾藻</td><td>13.16</td><td>19.13</td><td>3.59</td><td>20.45</td><td>8.32</td><td>1.05</td><td>0.57</td></tr><tr><td>Myriophyllumelatinoides</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>紫花苜蓿</td><td>13.02</td><td>20.48</td><td>2.85</td><td>25.80</td><td>7.80</td><td>1.41</td><td>0.46</td></tr><tr><td>Alfalfa (Medicago sativa)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "50 1.2 试验饲粮 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选用普通玉米作为淀粉来源，豆粕作为蛋白质来源。根据《中国饲料营养成分及营养价值表》（2015 年第 26版）和《猪饲养标准》(NY/T65—2004)配制试验饲粮。I组（对照组）饲喂基础饲粮，II、II和IV组饲粮在基础饲粮中分别添加 $5 \\%$ 、 $10 \\%$ 和 $1 5 \\%$ 绿狐尾藻，试验饲粮组成及营养水平见表2。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/20a85ce542dcd777b2b4c7a4ae8c5cb8f1a7bdfd6c5080d1449659d38df802ff.jpg",
+        "table_caption": [
+            "表1绿狐尾藻和紫花苜蓿的主要营养成分(风干基础)",
+            "表2试验饲粮组成及营养水平(风干基础)",
+            "Table 2Composition and nutrient levels of experimental diets (air-dry basis) % "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目 Items</td><td colspan=\"4\">组别Groups</td></tr><tr><td>I</td><td>II</td><td>IⅢI</td><td>IV</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td><td></td></tr><tr><td>豆粕 Soybean meal</td><td>21.00</td><td>25.00</td><td>25.00</td><td>23.00</td></tr><tr><td>玉米Corm</td><td>63.00</td><td>66.00</td><td>61.00</td><td>58.00</td></tr><tr><td>膨化大豆 Extruded soybean</td><td>4.00</td><td></td><td></td><td></td></tr><tr><td>麦麸Wheat bran</td><td>8.00</td><td></td><td></td><td></td></tr><tr><td>绿狐尾藻Myriophyllumelatinoides</td><td></td><td>5.00</td><td>10.00</td><td>15.00</td></tr><tr><td>预混料 Premix1)</td><td>4.00</td><td>4.00</td><td>4.00</td><td>4.00</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/676240fed7fa4759ccd82361a08bf3bc01189c74631569bd215f0480ca6ab09e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td><td></td></tr><tr><td>消化能 DE/(MJ/kg)</td><td>13.14</td><td>12.98</td><td>12.85</td><td>12.79</td></tr><tr><td>粗蛋白质CP</td><td>16.79</td><td>16.88</td><td>17.33</td><td>17.08</td></tr><tr><td>粗纤维 CF</td><td>4.05</td><td>4.24</td><td>4.34</td><td>4.46</td></tr><tr><td>粗灰分 Ash</td><td>5.41</td><td>6.38</td><td>6.21</td><td>6.15</td></tr><tr><td>赖氨酸Lys</td><td>0.82</td><td>0.78</td><td>0.76</td><td>0.74</td></tr><tr><td>蛋氨酸Met</td><td>0.26</td><td>0.26</td><td>0.25</td><td>0.24</td></tr><tr><td>钙Ca</td><td>0.85</td><td>0.88</td><td>0.91</td><td>0.90</td></tr><tr><td>有效磷 AP</td><td>0.43</td><td>0.41</td><td>0.39</td><td>0.38</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1)预混料为每千克饲粮提供 Premix provided the following per $\\mathbf { k g }$ of diets: Fe $1 5 5 \\mathrm { m g }$ ， $\\mathrm { C u } 2 0 0 \\ : \\mathrm { m g }$ $Z n ~ 1 4 0 ~ \\mathrm { m g }$ ， $\\mathrm { M n } 5 0 ~ \\mathrm { m g }$ ，VA 17 500 IU，VD3 400 IU，VE $2 0 ~ \\mathrm { I U }$ ，核黄素 riboflavin $3 . 6 ~ \\mathrm { m g }$ ，烟酸nicotinic acid $2 7 \\mathrm { m g }$ ，泛酸 pantothenic acid $1 3 ~ \\mathrm { m g }$ $\\mathrm { V B } _ { 1 2 } 0 . 0 9 \\ : \\mathrm { m g }$ ，生物素 biotin $0 . 1 5 \\mathrm { m g }$ ，胆碱choline0.92 mg",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2)消化能、有效磷为计算值，其余为实测值。DE and AP were calculated values,while the others were measured values. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 试验动物和试验设计",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用单因子完全随机试验设计，选用40头初始体重为 $( 5 5 . 2 0 \\pm 2 . 1 8 ^ { \\cdot }$ ）kg的健康“杜 $\\mathbf { \\nabla } _ { \\cdot } \\times$ 长 $\\times$ 大”三元杂交猪，随机分为4个组，每组10个重复，每个重复1头猪。试验期 $6 0 { \\mathrm { ~ d } }$ 0",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4饲养管理",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验在中国科学院亚热带农业生态研究所动物实验楼代谢室内进行。试验猪均单栏饲养于不锈钢代谢笼内，每天08:30和16:30各喂料1次，自由采食和饮水。试验期间每天准确记录每头猪的实际采食量，观察猪群健康情况。室内消毒、清扫按常规程序进行，并保持猪舍通风、清洁。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5 测定指标及方法",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.1 生长性能",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "于试验第1天开始时，早晨对每头猪进行空腹称重，为初始体重，饲养60d后再次称重，记录猪的终末体重，并计算每组猪的平均日增重（ADG）；记录每头猪每天的给料量和剩料量，计算每组猪的平均日采食量(ADFI)以及料重比(F/G)。计算公式如下：平均日增重 ( $\\mathbf { \\underline { { g } } / d } ) \\mathbf { \\Psi } = \\mathbf { \\Psi }$ （终末体重-初始体重）/试验天数；平均日采食量（ $\\mathbf { g } / \\mathrm { d } ) =$ 总采食量/试验天数;料重比（F/G） $\\scriptstyle { \\frac { } { } } = { }$ 平均日采食量/平均日增重。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5.2 血清生化指标",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "于试验第60天，从每组试验猪中随机挑选8头，空腹 $1 2 \\mathrm { { h } }$ 后，通过耳静脉采血，血样室温放置2h后再离心 $1 0 \\mathrm { m i n } ( 4 \\mathrm { ~  ~ { ~ C ~ } ~ } , \\mathrm { ~ 3 ~ 0 0 0 \\ r / \\mathrm { m i n } ) }$ ，制备血清， $- 2 0 \\mathrm { ~ \\textdegree C }$ 冰箱保存。血清总蛋白(TP)、白蛋白(ALB)、尿素氮(UREA)、总胆固醇(TC)、甘油三酯(TG)、低密度脂蛋白（LDL)、高密度脂蛋白(HDL)含量以及谷丙转氨酶(ALT)、谷草转氨酶(AST)活性均采用南京建成生物工程研究所的试剂盒进行测定，具体测定方法见说明书。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5.3 胴体品质 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "于试验第60天结束时，随机从每组选取体重相近的8头猪，禁食 $1 2 \\mathrm { h }$ 后进行屠宰。胴体品质测量及计算方法参照《猪生产学》[13]。按常规屠宰方法去头、蹄、尾及内脏(留肾和板油)，测定并计算屠宰率、胴体斜长、胴体率、瘦肉率、平均背膘厚和眼肌面积[14]。pH 采用便携式酸度计(OPTO-STAR，德国R.Matthaus 公司)测定。大理石纹评分根据\"大理石纹评分图”，给出相应的分值。剪切力于屠宰 $7 2 \\mathrm { { h } }$ 后采用 TA-XTPlus 质构仪(英国 Stable Micro System 公司)测定。肉色在屠宰后 $1 { \\sim } 2 \\mathrm { ~ h ~ }$ 内用目测评分的方法对背最长肌的横断面的肉色评分，评分标准见表 $3 ^ { [ 1 5 ] }$ 。滴水损失测定取背最长肌，剔除背最长肌肌膜，将样本修剪为 $3 \\ \\mathrm { c m } { \\times } 2 \\ \\mathrm { c m } { \\times } 1 \\ \\mathrm { c m }$ 的肉块，再将肉样用金属钩吊起，外套1个塑料袋，袋口系紧，将肉样封在袋内，避免肉样与口袋接触，记录肉样挂前重；然后在4℃冰箱中悬挂 $2 4 \\mathrm { h }$ 后去掉塑料袋，用滤纸吸去肉样表面水分再称重，记录滴水后的肉样挂后重，最后计算滴水损失，计算公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "滴水损失 $( \\% ) =$ ［（肉样挂前重一肉样挂后重）/肉样挂前重」 $\\times 1 0 0$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3肌肉肉色评分标准",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/899a03b62b63230fb59e5a7ec12ec774b361b4d9f5d30e5618d889b15b571ab9.jpg",
+        "table_caption": [
+            "Table 3 Scoring criteria of meat color "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>1分</td><td>2分</td><td>3分</td><td>4分</td><td>5分</td></tr><tr><td>Item</td><td>One point</td><td>Two points</td><td>Three points</td><td>Four points</td><td>Five points</td></tr><tr><td>肉色 Meat color</td><td>灰白色</td><td>轻度灰白</td><td>正常鲜红色</td><td>正常紫红色</td><td>色暗淡色</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（异常肉色）",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.6 数据分析 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "试验数据用 Excel 2013 进行初步处理，采用 SPSS 20.0 统计分析软件中的单因素方差分析（one-way ANOVA)程序进行差异显著性检验，差异显著时采用Duncan 氏法进行多重比较。 $P { < } 0 . 0 5$ 为差异显著，试验数据以“平均值 $\\pm$ 标准误”表示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1饲粮中添加绿狐尾藻对肥育猪生长性能的影响 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，各组肥育猪的初始体重无显著差异 $( P { > } 0 . 0 5 )$ ；经 $6 0 \\mathrm { d }$ 的饲养试验，与对照组相比，II和I组的终末体重无显著差异 $( P { > } 0 . 0 5 )$ ，IV组的终末体重显著降低 $( P { < } 0 . 0 5 )$ ；平均日增重随饲粮中绿狐尾藻添加量的增加逐渐降低，ⅡI和Ⅲ组的平均日增重与对照组相比无显著差异 $( P { > } 0 . 0 5 )$ ，IV组的平均日增重显著低于对照组 $( P { < } 0 . 0 5 )$ ；与对照组相比，Ⅱ和IⅢ组的料重比无显著差异 $( P { > } 0 . 0 5 )$ ，V组的料重比显著增加 $( P { < } 0 . 0 5 )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/0e8f18271da6554251de2972a6a528410ced0f78bdde5ead627bdde0fe1bcaab.jpg",
+        "table_caption": [
+            "表4饲粮中添加绿狐尾藻对肥育猪生长性能的影响",
+            "Table 4Effects of dietary Myriophyllum elatinoides on growth performance of fattening pigs "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"4\">组别 Groups</td></tr><tr><td>I</td><td>II</td><td>III</td><td>IV</td></tr><tr><td>初始体重 Initial weight/kg</td><td>54.39±2.01</td><td>55.21±2.60</td><td>55.48±2.94</td><td>55.23±2.69</td></tr><tr><td>终末体重 Final weight/kg</td><td>101.31±2.51a</td><td>100.49±2.88a</td><td>99.47±2.70a</td><td>93.66±2.62b</td></tr><tr><td>平均日增重 ADG/(g/d)</td><td>773.54±11.89a</td><td>754.67±9.06a</td><td>743.14±18.48a</td><td>640.45±10.34b</td></tr><tr><td>平均日采食量 ADFI/(g/d)</td><td>2 339.42±32.67</td><td>2 301.78±42.89</td><td>2 288.46±26.59</td><td>2 087.78±29.48</td></tr><tr><td>料重比F/G</td><td>3.02±0.19b</td><td>3.05±0.33b</td><td>3.12±0.18b</td><td>3.26±0.60a</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "同行数据肩标无字母或相同字母表示差异不显著（ $P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著中 $_ { , P < 0 . 0 5 ) }$ ，不同大写字母表示差异极显著（ ${ \\mathrm { . } } P { > } 0 . 0 1 { \\ }$ )。下表同。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the same row,values with no lettr or the same lettr superscripts mean no significant difference （204 $( P { > } 0 . 0 5 )$ ，and with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，while with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ ). The same as below. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2饲粮中添加绿狐尾藻对肥育猪血清生化指标的影响 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表5可知，各组肥育猪的血清总蛋白、尿素氮、总胆固醇、甘油三酯、低密度脂蛋白、高密度脂蛋白含量和谷草转氨酶活性均无显著差异 $( P { > } 0 . 0 5 )$ ；与对照组相比，IⅢ组的血清谷丙转氨酶活性和IV组的血清白蛋白含量显著降低 $( P { < } 0 . 0 5 )$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/75117216a0104bfb9a940c8d3b4f0e03ee9a7748c520c05741be7a351807a993.jpg",
+        "table_caption": [
+            "Table 5Effects of dietary Myriophyllum elatinoides on serum biochemical indexes of fatening pigs "
+        ],
+        "table_footnote": [
+            "2.3 饲粮中添加绿狐尾藻对肥育猪胴体品质的影响 "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"4\">组别 Groups</td></tr><tr><td>I</td><td>II</td><td>IⅢI</td><td>IV</td></tr><tr><td>总蛋白 TP/(g/L)</td><td>72.39±3.33</td><td>73.57±1.37</td><td>74.36±2.28</td><td>70.63±2.44</td></tr><tr><td>白蛋白 ALB/(g/L)</td><td>34.73±2.12a</td><td>33.35±1.78a</td><td>33.26±1.98a</td><td>31.21±2.07b</td></tr><tr><td>尿素氮 UREA/(mmol/L)</td><td>241.81±5.20</td><td>230.01±9.31</td><td>228.15±10.89</td><td>216.59±20.89</td></tr><tr><td>总胆固醇 TC/(mmol/L)</td><td>2.51±0.24</td><td>2.43±0.20</td><td>2.49±0.18</td><td>2.42±0.27</td></tr><tr><td>甘油三酯 TG/(mmol/L)</td><td>0.32±0.04</td><td>0.26±0.03</td><td>0.27±0.02</td><td>0.28±0.04</td></tr><tr><td>低密度脂蛋白 LDL/(mmol/L)</td><td>1.52±0.19</td><td>1.55±0.17</td><td>1.47±0.09</td><td>1.51±0.13</td></tr><tr><td>高密度脂蛋白 HDL/(mmol/L)</td><td>0.82±0.11</td><td>0.71±0.17</td><td>0.83±0.10</td><td>0.80±0.11</td></tr><tr><td>谷丙转氨酶 ALT/(U/L)</td><td>37.11±1.21a</td><td>36.22±0.98ab</td><td>32.42±0.99b</td><td>35.11±1.29ab</td></tr><tr><td>谷草转氨酶 AST/(U/L)</td><td>45.23±1.87</td><td>43.48±1.56</td><td>42.72±3.89</td><td>41.28±1.28</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表6可知，各组肥育猪的胴体率、瘦肉率、屠宰率、胴体斜长、肉色、剪切力和大理石纹评分均无显著差异 $( P { > } 0 . 0 5 )$ ；与对照组相比，II和IV组的平均背膘厚和IV组的眼肌面积显著降低$( P { < } 0 . 0 5 )$ ，IⅢ组的滴水损失有降低趋势 $( P { > } 0 . 0 5 )$ ；饲粮中添加绿狐尾藻可减缓宰后肌肉pH的下降速度，Ⅱ和Ⅲ组的 $\\mathrm { p H } _ { 4 5 \\mathrm { m i n } }$ 、 $\\mathrm { p H } _ { 2 4 \\mathrm { h } }$ 与对照组相比有增加趋势 $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表6饲粮中添加绿狐尾藻对肥育猪胴体品质的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/a4d9ffb10fdcc74bab33c983f654ed9a4ef95d5c360c49500b1888416c03e2d3.jpg",
+        "table_caption": [
+            "表5饲粮中添加绿狐尾藻对肥育猪血清生化指标的影响",
+            "Table 6Effects of dietary Myriophyllum elatinoides on carcass quality of finishing pigs "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"4\">组别Groups</td></tr><tr><td>I</td><td>I</td><td>Ⅲ</td><td>IV</td></tr><tr><td>胴体率 Carcass percentage/%</td><td>72.70±1.67</td><td>72.76±1.31</td><td>73.09±1.69</td><td>71.04±1.56</td></tr><tr><td>瘦肉率 Lean meat percentage/%</td><td>60.09±1.59</td><td>61.64±0.57</td><td>62.95±1.54</td><td>63.03±2.80</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/93d365117b1fe94ba8fdd9fae5b65ac38f183d759ba0c0bb3473698121a9b51a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>屠宰率 Dressing percentage/%</td><td>72.87±0.68</td><td>72.23±0.79</td><td>73.19±0.98</td><td>73.73±0.69</td></tr><tr><td>胴体斜长</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>79.09±0.62</td><td>78.89±0.98</td><td>79.00±1.09</td><td>78.10±0.88</td></tr><tr><td>Carcass oblique length/cm</td><td></td><td></td><td></td><td></td></tr><tr><td>平均背膘厚</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>2.25±0.07a</td><td>2.17±0.12a</td><td>2.04±0.09b</td><td>1.99±0.11b</td></tr><tr><td>Average backfat thickness/cm</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>眼肌面积 Loin eye area/cm²</td><td>39.40±1.32a</td><td>38.83±2.32a</td><td>38.34±1.53a</td><td>36.89±1.29b</td></tr><tr><td>pH45 min</td><td>6.21±0.12</td><td>6.36±0.09</td><td>6.45±0.11</td><td>6.33±0.13</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>pH24 h</td><td>5.55±0.04</td><td>5.63±0.07</td><td>5.69±0.09</td><td>5.53±0.09</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>滴水损失 Drip loss/%</td><td>2.34±0.08</td><td>2.14±0.11</td><td>2.08±0.07</td><td>2.17±0.12</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>肉色 Meat color</td><td>3.0</td><td>3.0</td><td>3.0</td><td>3.0</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>大理石纹评分 Marbling score</td><td>2.76±0.33</td><td>2.68±0.26</td><td>2.64±0.13</td><td>2.59±0.19</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>剪切力 Shear force/(kgf)</td><td>12.23±1.38</td><td>12.67±3.67</td><td>12.59±2.89</td><td>12.07±3.22</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "129 3讨论 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1饲粮中添加绿狐尾藻对肥育猪生长性能的影响 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "目前，绿狐尾藻作为一种大型水生植物，其在动物生产中的应用研究较少。已有研究表明，以  \n> 不同水生植物为原料，应用于畜禽配合饲粮中，可以提高动物的生长性能。王文丹等[1研究表明，饲粮中添加 $4 \\%$ 浒苔能够提高蛋鸭的生产性能。盛清凯等[17研究发现，饲粮中添加 $0 . 5 \\%$ 螺旋藻可提  \n1 高仔猪的平均日增重，降低料重比。贾红梅等[18研究表明，饲粮中添加 $4 \\%$ 龙须眼子菜能提高樱桃  \n5 谷肉鸭的平均体重和平均采食量。此外，猪的肠道内有大量纤维降解菌群，具有较强的纤维消化能  \n） 力[19]，且肥育猪肠道发育已经完善，能够充分消化利用纤维饲料。绿狐尾藻的营养成分分析表明，  \n7 其营养价值比较高，氨基酸组成相对平衡，粗蛋白质含量介于能量饲料和蛋白质饲料之间，但粗纤  \n3 维含量比较高，其营养价值相当于紫花苜蓿[5]。许娅虹等[20]研究表明，饲粮中添加 $10 \\%$ 紫花苜蓿不  \n） 影响生长肥育猪的平均日增重。顾丽群等[21研究发现， $8 0 { \\sim } 1 1 0 ~ \\mathrm { k g }$ 肥育猪按饲粮干物质的 $6 . 7 4 \\%$ 添  \n） 加紫花苜蓿鲜草(按 $20 \\%$ 干物质估算)，平均日增重和料重比与对照组相比无显著差异。本试验中，在饲粮主要营养水平基本一致的情况下添加绿狐尾藻，经过60d的饲养试验，结果发现，与对照组  \n> 相比，饲粮中添加 $10 \\%$ 绿狐尾藻对肥育猪的平均日增重和料重比无显著影响，但平均背膘厚降低，",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "瘦肉率提高，这与上述研究结果相似，原因可能是绿狐尾藻中粗纤维含量比较高，能量水平相对较低，不利于脂肪的沉积，但具体的作用机制还有待进一步研究。同时，本试验结果说明，将绿狐尾藻添加到肥育猪配合饲粮中是可行的，饲粮中添加适宜水平的绿狐尾藻不影响肥育猪的生长性能。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2饲粮中添加绿狐尾藻对肥育猪血清生化指标的影响  \n血清生化指标是评价动物机体健康水平及营养物质代谢情况的重要指标。谷草转氨酶和谷丙转氨酶参与机体内转氨基作用，主要分布在肝脏、肾脏等组织中，其活性的高低与肝细胞的炎症、变性和坏死等密切相关，是血清中反映肝脏健康状态的重要指标。在正常情况下只有少量谷草转氨酶和谷丙转氨酶进入血液中，当肝脏发生病变或受到损伤引起细胞膜通透性增加时，渗透压调节能力和物质主动转运机制削弱以致消失，甚至细胞解体，肝脏组织细胞中的谷草转氨酶和谷丙转氨酶进入血液中，血液中这2种酶的活性升高[22]。本试验中，饲粮中添加绿狐尾藻降低了肥育猪的血清谷草转氨酶和谷丙转氨酶活性，其中添加 $10 \\%$ 的绿狐尾藻使血清谷丙转氨酶活性显著低于对照组，表明饲粮中添加一定水平的绿狐尾藻对肥育猪肝脏的正常功能没有显著影响，还有一定的保健作用，与孙建凤[23]的研究结果相似。血清总蛋白包括白蛋白和球蛋白，其含量的高低反映动物体内蛋白质的合成、消化、吸收以及机体的生长性能和免疫力状况。本试验中，各组肥育猪的血清总蛋白含量差异不显著，表明饲粮中添加绿狐尾藻对动物的消化和免疫功能无显著影响。白蛋白由肝脏合成，与动物的健康密切相关， $1 5 \\%$ 绿狐尾藻组血清白蛋白含量显著低于对照组，说明饲粮中绿狐尾藻的添加水平不宜过高。血清尿素氮含量反映动物体内蛋白质代谢和氨基酸的平衡状态[24]，当蛋白质降解增加时，血液尿素氮含量增加。孙建凤等[23研究发现，饲喂添加不同水平浒苔饲粮后肉鸡血清尿素氮含量变化不显著但有下降趋势。本试验结果显示，饲粮中添加绿狐尾藻，肥育猪的血清尿素氮含量无显著变化但有降低趋势，说明绿狐尾藻对肥育猪的蛋白质沉积和合成具有一定的促进作用。血清胆固醇、甘油三酯、高密度脂蛋白和低密度脂蛋白含量的变化能反映动物机体的脂质代谢水平。本试验中，饲粮中添加绿狐尾藻对血清甘油三酯、总胆固醇、高密度脂蛋白和低密度脂蛋白含量均无显著影响，这与许娅虹等[25]的研究结果相一致，表明饲粮中添加绿狐尾藻对肥育猪的正常脂质代谢无显著影响，但其机理尚未明确，有待进一步探讨。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3饲粮中添加绿狐尾藻对肥育猪胴体品质的影响 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "大量试验表明，饲喂适当纤维含量的饲粮能够改善动物的胴体组成和肉品质[26-30]。王成章等[9]研究表明，饲粮中添加 $1 5 \\%$ 紫花苜蓿草粉可以提高肥育猪的屠宰率和瘦肉率。杨青春等[15]研究表明，",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "饲粮中添加 $10 \\%$ 构树叶粉能够显著降低肥育猪的背膘厚和眼肌面积，并提高瘦肉率。李有贵等[31]研究发现，饲粮中添加 $10 \\% \\sim 2 0 \\%$ 桑叶显著降低了肥育猪的背膘厚度和眼肌面积。这与本试验结果相似，本试验结果表明，肥育猪饲粮中添加绿狐尾藻，肥育猪的平均背膘厚略有降低，但瘦肉率有小幅度提升；当绿狐尾藻添加水平为 $1 5 \\%$ 时，肥育猪的眼肌面积显著降低，屠宰率略有升高但与对照组差异不显著。这可能是因为随着饲粮中绿狐尾藻添加水平的增加，饲粮中粗纤维含量也随之增加，从而降低了肌肉中脂肪的合成，故瘦肉率有一定的提高。  \n大理石纹评分、pH、肉色、剪切力等是猪肉品质评定常用的指标，也是肉的食用品质和最终适口性的综合反映，决定着消费者对肉品的接受程度[32]。刚屠宰的生猪，由于机体糖原、脂肪分解代谢产生大量乳酸，使肌肉pH急剧下降，宰后 $4 5 \\sim 6 0 \\mathrm { \\ m i n }$ 的肉样pH是公认的区分生理正常和异常肉质的重要指标，其正常范围为 $6 . 0 { \\sim } 6 . 5 ^ { [ 1 3 ] }$ 。若pH下降过快，易造成蛋白质变性、肌肉失水、肉色灰白,降低肉品营养价值。因此，延缓肌肉pH下降速度将有助于减少白肌肉(PSE)和黑干肉(DFD)等低品质猪肉的产生[33]。李有贵等[31研究表明，饲粮中添加桑叶可减缓肥育猪屠宰后肌肉pH下降速度，且 $10 \\%$ 添加组肌肉 $\\mathrm { \\ p H } _ { 4 5 } \\mathrm { \\ m i n }$ 、 $\\mathrm { p H } _ { 2 4 }$ h有高于对照组的趋势。本试验中，饲粮中添加绿狐尾藻可减缓肥育猪屠宰后肌肉pH下降速度，且与对照组相比， $10 \\%$ 绿狐尾藻添加组的肌肉 $\\mathrm { p H } _ { 4 5 \\mathrm { m i n } }$ 、 $\\mathrm { p H } _ { 2 4 \\mathrm { h } }$ 有升高的趋势，与上述研究结果相一致。此外，滴水损失与pH、肉色和大理石纹评分显著相关，滴水损失越小，肉的持水性越好，肉品外观越鲜艳有光泽，肉质越鲜嫩[34-35]。本试验结果显示，饲粮中添加绿狐尾藻对肥育猪的pH、肉色和大理石纹评分无显著影响，而 $10 \\%$ 绿狐尾藻添加组的肌肉滴水损失有降低的趋势，原因可能是由于较高的pH导致蛋白质变性降低，从而导致滴水损失降低[36]。这说明肥育猪饲粮中添加适宜水平的绿狐尾藻在一定程度上可以改善猪肉的品质。4结论",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "饲粮中添加适宜水平的绿狐尾藻对肥育猪的生长性能无显著影响，可改善血清生化指标，降低平均背膘厚，减缓肌肉 $\\mathsf { p H }$ 下降速度，降低滴水损失，改善猪肉品质。在本试验条件下，肥育猪饲粮中绿狐尾藻的适宜添加水平为 $10 \\%$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]厉金炳,徐小燕,袁金钱,等.利用狐尾藻综合治理规模养殖场污水的原理及效果分析[J].浙江畜牧兽医,2014,39(5):72-73.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[2] 罗开武,邹爱华,邹昀华,等.绿狐尾藻治理猪场废水效果观察[J].湖南畜牧兽医,2016(1):22-24.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[3]鲁将,胡栋.狐尾藻的养殖与应用研究[J].中国园艺文摘,2016,32(4):225-226.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[4] 贺承友.绿狐尾藻生态治污技术的推广应用[J].贵州畜牧兽医,2016,40(2):60-61.  \n[5] 贾红梅.龙须眼子菜对樱桃谷肉鸭的营养与阻害作用研究[D].硕士学位论文.呼和浩特:内蒙古农业大学,2007.  \n[6] 杨雨鑫,王成章,廉红霞,等.紫花苜蓿草粉对产蛋鸡生产性能、蛋品质及蛋黄颜色的影响[J].华中农业大学学报,2004,23(3):314-319.  \n[7] 张树楠,肖润林,刘锋,等.生态沟渠对氮、磷污染物的拦截效应[J].环境科学,2015,36(12):4516-4522.  \n[8]丁春华,龙礼香.峡江:“绿狐尾藻\"破解养猪治污难题[J].江西农业,2015(2):57.  \n[9]王成章,徐向阳,杨雨鑫,等.苜蓿草粉对肥育猪胴体品质及血清指标的影响[J].中国农业科学,2008,41(5):1554-1559.  \n[10]王彦华,程宁宁,郑爱荣,等.苜蓿草粉和苜蓿皂苷对肥育猪生长性能和抗氧化性能的影响[J].动物营养学报,2013,25(12):2981-2988.  \n[11] 赵静.添加苜蓿草粉对育肥猪生产性能和肉品质的影响[J].草业科学,2015,32(5):809-815.  \n[12]宋琼莉,韦启鹏,邹志恒,等.桑叶粉对育肥猪生长性能、肉品质和血清生化指标的影响[J].动物营养学报,2016,28(2):541 - 547.  \n[13]杨公社.猪生产学[M].北京:中国农业出版社,2002:55-58.  \n[14] 尹佳,毛湘冰,余冰,等.饲粮纤维源对育肥猪生长性能、胴体组成和肉品质的影响[J].动物营养学报,2012,24(8):1421-1428.  \n[15]杨青春,陈绍红,刘铀.构树叶对育肥猪生产性能、肉品质及营养物质表观消化率的影响[J].河南农业科学,2014,43(7):133 - 137.  \n[16] 王文丹,林英庭,宋晓雯,等.浒苔对蛋鸭代谢能及养分利用率的影响[J].中国畜牧杂志,2016,52(13):60-64.  \n[17]盛清凯,刘雪,韩红,等.螺旋藻对仔猪生长性能、免疫性能及粪便菌群的影响[J].动物营养学报2017,29(3):843 - 849.  \n[18]贾红梅,杨晓虹,曹平,等.龙须眼子菜对樱桃谷肉鸭生产性能影响研究[J].内蒙古科技与经济,2007(12):9-10.  \n[19]VAREL V H,YEN J T.Microbial perspective on fiber utilization by swine[J].Journal of AnimalScience,1997,75(10):2715-2722.  \n[20] 许娅虹,孔凡勇，周仕钰,等.紫花苜蓿对杜长大生长肥育猪生长性能及胴体品质的影响[J].养猪,2014(2):13-17.  \n[21] 顾丽群,杨正德,王嘉福,等.日粮中添加紫花苜蓿和苦荞对猪生产性能的影响[J].贵州农业科学,2011,39(11):158-161.  \n[22] 叶坤,王秋荣,谢仰杰,等.饲料脂肪水平对黄姑鱼幼鱼生长性能、肌肉组成和血浆生化指标的影响[J].动物营养学报,2017,29(4):1418-1426.  \n[23]孙建凤,赵军,祁茹,等.日粮中浒苔添加水平对肉鸡免疫功能和血清生化指标的影响[J].动物营养学报,2010,22(3):682-688.  \n[24] STANLEY C C,WILLIAMS C C,JENNY B F,et al.Effects of feeding milk replacer once versustwice daily on glucose metabolism in Holstein and Jersey calves[J].Journal of DairyScience,2002,85(9):2335-2343.  \n[25] 许娅虹,孔凡勇,周仕钰,等.紫花苜蓿鲜草对杜长大仔猪生长性能及血液理化指标的影响[J].养猪,2014(2):9-12.  \n[26] 陈继红.苜蓿草粉对肉兔生产性能、消化生理及肉品质的影响[D].硕士学位论文.郑州:河南农业大学,2007.  \n[27] 杨桂芹,孙佳易,郭东新,等.饲粮纤维源及粗纤维水平对肉兔颗粒饲料质量、生长性能和肉品质的影响[J].动物营养学报,2015,27(10):3084-3093.  \n[28] 郭建凤,刘雪萍,王彦平,等.不同粗纤维水平饲粮对鲁烟白猪肥育性能及胴体肉品质的影响[J].养猪,2016(2):10-13.  \n[29]胡喜峰,王成章,张春梅,等.不同水平苜蓿草粉对团头鲂生长性能及肉品质的影响[J].西北农林科技大学学报:自然科学版,2005,33(11):49-56.  \n[30] 陶璐璐,李荣芳,赵卫国,等.日粮中添加桑叶粉对獭兔生长性能、血液生化、屠宰性能及肉品质的影响[J].江苏农业科学,2016,44(12):283 - 286.  \n[31] 李有贵,张雷,钟石,等.饲粮中添加桑叶对育肥猪生长性能、脂肪代谢和肉品质的影响[J].动物营养学报,2012,24(9):1805-1811.  \n[32] EGEA M,LINARES M B,GARRIDO M D,et al.Feeding Iberian×Duroc cross pigs with crude",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "giycermne:eiiects Ol uet anu genuer on carcass anu meat quaitylJj.ivieat Science,zUio,Il1: /0-04.   \n[33] 林荣泉,徐勇.生猪宰前皮温、宰后肉温及pH值对肉品质量影响[J].肉类工业,2008(9):5-6.   \n[34] PIESZKA M,SZCZUREK P,BEDERSKA-LOJEWSKA D,et al.The effect of dietary supplementation with dried fruit and vegetable pomaces on production parameters and meat quality in fattening pigs[J].Meat Science,2017,126:1-10. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[35] COSTA F A D,DEVILLERS N,DA COSTA M J R P,et al.Effects of applying preslaughter feed withdrawal at the abattoir on behaviour,blood parameters and meat quality in pigs[J].Meat Science,2016,119:89-94. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[36] LIU Y,LI JL,LI Y J,et al.Efects of dietary supplementation of guanidinoacetic acid and combination of guanidinoacetic acid and betaine on postmortem glycolysis and meat quality of finishing pigs[J].Animal Feed Science and Technology,2015,205:82-89. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Effects of Dietary Myriophyllum elatinoides on Growth Performance, Serum Biochemical Indexes and Carcass Quality of Finishing Pigs ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "WU Fei1 CHEN Jiashun1.2\\* LIU Feng1 LI Yuyuan1 WU Jinshui1\\*\\* XIAO Runlin' YAO Kang1 YIN Yulong1 1\\*\\* ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1. Key Laboratory of Agro-Ecological Processes in Subtropical Region, Provincial Engineering   \nResearch Center of Healthy Livestock, Scientific Observing and Experimental Station of Animal Nutrition   \nand Feed Science in South-Central, Ministry of Agriculture, Institute of Subtropical Agriculture, Chinese   \nAcademy of Sciences, Changsha 410125, China; 2. Colege ofAnimal Science and Technology, Hunan Agricultural University, Changsha 410128, China) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This experiment was conducted to study the effects of dietary Myriophyllum elatinoides on growth performance, serum biochemical indexes and carcass quality of finishing pigs. Forty healthy \"DurocxLandrace $\\times$ Yorkshire” hybrid pigs with initial weight of $( 5 0 . 2 0 { \\scriptstyle \\pm 2 . 1 8 }$ ） kg were randomly divided into four groups with ten replicates per group and one pig per replicate according single factor complete \\*Contributed equally \\*\\*Corresponding authors: WU Jinshui, professor,E-mail: jswu@isa.ac.cn; YAO Kang, professor,E-mail: yaokang@isa.ac.cn; YIN Yulong, academician, E-mail: yinyulong@isa.ac.cn (责任编辑 李慧英) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "randomized trial design. The pigs in group I (control group) were fed a basal diet, while the others in group II， II and $\\mathrm { I V }$ were fed the basal diet supplemented with $5 \\%$ ， $10 \\%$ and $1 5 \\%$ Myriophyllum elatinoides.The experiment lasted for 6O days. The results showed as follows: 1） compared with the control group,final weight, average daily gain and the ratio of fed to gain of finishing pigs in groups II and I had no significant differences $( P { > } 0 . 0 5 )$ . Compared with the control group, final weight and average daily gain in group $\\mathrm { I V }$ were significantly decreased $( P { < } 0 . 0 5 )$ , and the ratio of feed to gain in group IV was significantly increased $( P { < } 0 . 0 5 )$ . 2） There were no significant differences in the contents of total protein,urea nitrogen,total cholesterol, triglyceride,high density lipoprotein and low density lipoprotein and the activity of aspartate aminotransferase in serum of finishing pigs between all groups （204号 $( P { > } 0 . 0 5 )$ . The activity of alanine aminotransferase in serum in group II and the content of albumin in serum in group $\\mathrm { I V }$ were significantly lower than that in the control group ( $( P { < } 0 . 0 5 )$ ).3） There were no significant differences in carcass percentage, lean meat percentage, dressing percentage, carcass oblique length,meat color, shear force and marbling score of finishing pigs between all groups $( P { > } 0 . 0 5 )$ ： Compared with the control group,average backfat thickness in groups Il and $\\mathrm { I V }$ and loin eye area in group IV were significantly decreased $( P { < } 0 . 0 5 )$ ，and drip loss in group II had a decrease trend （204 $( P { > } 0 . 0 5 )$ ，and $\\mathrm { p H } _ { 4 5 \\mathrm { m i n } }$ and $\\mathrm { p H } _ { 2 4 \\mathrm { h } }$ in groups $\\mathrm { I I }$ and III had an increase trend $( P { > } 0 . 0 5 )$ . In conclusion, dietary $10 \\%$ Myriophyllum elatinoides has no significant effects on growth performance, can improve serum biochemical indexes, reduce average backfat thickness, decrease the speed of muscle $\\mathfrak { p H }$ ，reduce drip loss and improve pork quality of finishing pigs. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Key words: Myriophyllum elatinoides; finishing pigs; growth performance; serum biochemical indexes; carcass quality ",
+        "page_idx": 13
+    }
+]

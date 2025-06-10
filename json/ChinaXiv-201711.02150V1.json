@@ -1,0 +1,534 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.13930/j.cnki.cjea.170146 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "宋亚娜，林艳，陈子强．氮肥水平对稻田细菌群落及 ${ \\bf N } _ { 2 } \\mathrm { O }$ 排放的影响[J]．中国生态农业学报,2017,25(9):1266-1275Song Y N, Lin Y, Chen Z Q. Effect of nitrogen fertilizer level on bacterial community and $\\mathrm { N } _ { 2 } \\mathrm { O }$ emission in paddy soil[J].Chinese Journal of Eco-Agriculture,2017,25(9): 1266-1275",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "氮肥水平对稻田细菌群落及 ${ \\bf N } _ { 2 } { \\bf O }$ 排放的影响 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "宋亚娜，林艳，陈子强(福建省农业科学院生物技术研究所 福州 350003)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：作为土壤氮素转化的驱动者，微生物群落结构关系着稻田氮素利用及温室气体 ${ \\bf N } _ { 2 } \\mathrm { O }$ 排放等问题。本研究分别基于高通量测序和荧光定量 PCR 技术，分析了不同氮肥水平[CK(不施氮)、N(施 $\\mathrm { ~ N ~ } ~ 1 8 0 ~ \\mathrm { \\ k g { \\cdot h m } ^ { - 2 } } ,$ 人2/3N(施 $\\mathrm { ~ N ~ } 1 2 0 \\mathrm { ~ k g } { \\cdot } \\mathrm { h m } ^ { - 2 } .$ 、1/3N(施 $\\mathrm { ~ N ~ } 6 0 \\mathrm { ~ k g } { \\cdot } \\mathrm { h m } ^ { - 2 } )$ ]下稻田细菌群落及硝化反硝化关键微生物功能基因丰度的变化。结果显示：氮肥水平提高增加了稻田细菌物种丰富度Chaol指数和群落多样性 Shannon指数，改变了细菌群落组成，其中与硝化作用相关的硝化螺菌门 Nitrospirae 和嗜酸的醋杆菌门 Acidobacteria的相对丰度随氮肥水平提高而增加，但甲烷氧化菌Methylosinus 的相对丰度随氮肥水平提高而降低。氮肥水平对稻田硝化作用关键微生物氨氧化细菌amoA基因丰度的影响较大， $0 { \\sim } 5 ~ \\mathrm { c m }$ 和 $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 深度土层中的amoA基因丰度均随氮肥用量增加而提高；反硝化作用关键微生物功能基因nirS、qnoB和nosZ的丰度在不施肥处理(CK)中显著低于施肥处理(1/3N、2/3N 和 N) $( P { < } 0 . 0 5 )$ ，但1/3N、2/3N和 $\\mathrm { ~  ~ N ~ }$ 处理的稻田nirS基因丰度没有明显差异; $0 { \\sim } 5 \\ \\mathrm { c m } \\ \\pm$ 层中qnoB和nosZ基因丰度存在随氮肥水平提高而增加的趋势， $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层中nosZ基因丰度在2/3N和N处理下显著高于1/3N 处理 $( P { < } 0 . 0 5 )$ 。 $\\mathrm { ~  ~ N ~ }$ 处理的稻田 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放通量显著高于2/3N及1/3N处理 $( P { < } 0 . 0 5 )$ ，后者又显著高于CK处理 $( P { < } 0 . 0 5 )$ 。相关分析结果表明稻田 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放通量与 $0 { \\sim } 5 ~ \\mathrm { c m }$ 土层中硝化螺菌门Nitrospirae相对丰度及 $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层中amoA基因丰度存在显著相关性 $( P { < } 0 . 0 5 , n { = } 1 0 )$ 。综上所述，氮肥水平提高增加了稻田细菌群落多样性，促进了稻田 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 排放，且本研究稻田中硝化作用微生物群落及丰度变化与稻田 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 排放的关系更为密切。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：氮肥水平；稻田土壤；微生物群落；氨氧化细菌基因；反硝化细菌基因; $\\mathbf { N } _ { 2 } \\mathbf { O }$ 排放；高通量测序；荧光定量PCR中图分类号：S154.3 文献标识码:A文章编号:1671-3990(2017)09-1266-10",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effect of nitrogen fertilizer level on bacterial community and ${ \\bf N } _ { 2 } \\mathbf { O }$ emission in paddy soil\\* ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SONG Yana, LIN Yan, CHEN Ziqiang (Institute of Biological Technology,Fujian Academy of Agricultural Sciences,Fuzhou 35ooo3,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Microbialcommunity structuresarerelevant fortheutilizationof nitrogen (N)and theemisionof nitrous oxide $( \\mathrm { N } _ { 2 } \\mathrm { O } )$ in paddy soils.Nitrification and denitrification are the main ways to produce ${ \\bf N } _ { 2 } \\mathrm { O }$ in soils and nitrification bacteria and denitrifyingbacteriarespectivelydrivetheprocessesof nitrificationanddenitrification.Inthisstudychanges inbacterial communitiesandtheabundanceof nitrificationbacteriaordenitrifying bacteriaunderdiferent nitrogenfertilizerlevels [CK (no N fertilization), 1/3N (N application of $6 0 \\ \\mathrm { k g \\cdot h m } ^ { - 2 }$ ), 2/3N (N application of $1 2 0 \\mathrm { \\ k g { \\cdot h m } } ^ { - 2 }$ and $\\mathrm { ~  ~ { ~ N ~ } ~ }$ (N application of 180 $\\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 } ]$ in paddysoils were analyzed respectively by high-throughput sequencingandreal-time PCR.The analysis in abundance of nitrificationbacteriaordenitrifying bacteria wasbasedonammonia-oxidizing bacterial amoA geneanddenitrifying bacterial nirS geneorqnoB geneor nosZgene.Theresultsshowedthat increase inapplicationof nitrogen fertilizer enhanced Chaol index andShanon diversity index ofbacterial communities andchangedthecompositionofbacterialcommunities in paddysoil.The relativeabundanceofNitrospiraeandAcidobacteria increased with improvementofnitrogen fertilizers,whilethatof Methylosinus decreased with improvementofnitrogen fertilizers in paddysoils.There was greater impact ofincreased useof nitro gen fertilizer on theabundance ofamoA gene inpaddy soils.The abundanceof amoA gene increased with increasing nitrogen application in the $0 { - } 5 ~ \\mathrm { c m }$ or $1 0 { - } 2 0 ~ \\mathrm { c m }$ depths of soil. The abundances of nirS gene, qnoB gene and nosZ gene in no-fertilizer soil (CK) were significantly lower than those in fertilizer soils (1/3N,2/3N and N) $( P < 0 . 0 5 )$ .There was no significant difference in theabundanceofnirSgeneamong1/3N,2/3NandNtreatments.However,therewasanicreasingtendencyinteabundanceofqnoB gene and nosZ gene with increasing application of nitrogen fertilizer in the $0 { - } 5 ~ \\mathrm { c m }$ depth of soil. The abundance of nosZ gene in the $1 0 { - } 2 0 ~ \\mathrm { c m }$ depth of soil under both 2/3N and N treatments were significantly higher than that in $1 / 3 \\mathrm { N }$ treatment $( P < 0 . 0 5 )$ ). At the same time,the emission of $\\mathrm { N } _ { 2 } \\mathrm { O }$ under $\\mathrm { ~ N ~ }$ treatment was significantly higher than that under $2 / 3 \\mathrm { N }$ or $1 / 3 \\mathrm { N }$ treatment $( P < 0 . 0 5$ ),and the latter two were also higher than that under CK $( P < 0 . 0 5$ ).Correlation analysis showed that the emission of ${ \\bf N } _ { 2 } \\mathrm { O }$ was markedly correlated with the relative abundance ofNitrospirae in the $0 { - } 5 \\ \\mathrm { c m }$ depth of soil and the abundance of amoA gene in the 10-20 cm depth of soil ( $\\left( P < 0 . 0 5 \\right.$ $n = 1 0$ ). In summary, increasing nitrogen application improved the diversity of bacterial communities and the emission of $\\mathrm { N } _ { 2 } \\mathrm { O }$ in the studied paddy soils.Also there was a closer correlation between changes in abundance of nitrification bacteria and the emission of ${ \\bf N } _ { 2 } \\mathrm { O }$ .The results suggested that the influence of nitrification bacteria on the emission of $\\mathrm { N } _ { 2 } \\mathrm { O }$ in the studied paddy soils was greater than that of denitrifying bacteria. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywors: Nitrogen fertlizerlevel; Paddysoil; Microbialcommunity;Ammonia-oxidizing bacterial gene; Denitrifyingbac terial gene; Nitrous oxide emission; High-throughput sequencing; Real-time PCR ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "氮肥不仅是提高作物产量的关键因素，也是决定农田 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放量的重要因素。 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 是重要的农业温室气体之一，旱地和非饱和水稻土是 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 的主要农业排放源，由于氮肥投入量的增加，农业 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 的排放量到2030年预计将增加 $3 5 \\% { \\sim } 6 0 \\% ^ { [ 1 ] }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由微生物驱动的硝化作用和反硝化作用是土壤释放 ${ \\bf N } _ { 2 } \\mathrm { O }$ 的两个最重要的途径[2-4]。在硝化作用的氨氧化过程中经过一系列反应经由羟胺形成中间产物$\\mathbf { N } _ { 2 } \\mathbf { O }$ ，含有氨单加氧酶基因amoA的微生物在这一过程中起主要驱动作用[5]。土壤中的反硝化细菌在将$N O _ { 3 } ^ { - } { - } N$ 或 $N O _ { 2 } ^ { - } { - } N$ 还原为 $\\mathbf { N } _ { 2 }$ 的过程中产生 $\\mathrm { N } _ { 2 } \\mathrm { O }$ ，亚硝酸还原酶nirS基因、氧化氮还原酶qnoB基因和氧化亚氮还原酶nosZ基因是常作为检测环境中反硝化细菌的标记基因[6]。研究表明施用氮肥有助于提高稻田土壤氨氧化细菌amoA基因丰度7，但对反硝化细菌各功能基因多样性的影响各不相同。如，长期施用氮肥明显提高红壤稻田nirS基因群落多样性[8];施氮可改变紫潮泥水稻土反硝化基因nosZ的丰度，但并未明显影响红黄泥水稻土反硝化基因nosZ丰度[9。硝化反硝化作用直接关系到稻田 ${ \\bf N } _ { 2 } \\mathrm { O }$ 的排放，硝化反硝化微生物各功能基因多样性及丰度的变化与稻田 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放的相关性值得深入研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在土壤微生物群落研究中，与一般的DNA指纹图谱技术相比高通量测序技术具有数据产出通量高、信息量大的特点。高通量测序技术的发展实现了大规模土壤微生物基因直接测序，为土壤微生物物种、结构、功能和遗传多样性的研究提供了丰富的信息[10-11]。高通量测序在稻田细菌多样性的研究中已大量应用，如，在生物黑炭对红壤性稻田根际微生物的研究中，发现一些对植物生长有益的促生菌有增加的趋势[12]；采用Illumina miseq高通测序技术对细菌的16S保守区进行测序，发现轮作土壤微生物丰富度(Chao1)远高于连做[13]。应用高通量测序技术必将有助于稻田 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 释放相关微生物多样性的深入研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "化学氮肥是决定农田 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放量的重要因素通过对我国单季稻、稻-旱轮作中的水稻及双季稻等378个点位的 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放量的估算，表明氮肥用量对排放结果具有极显著的影响[14]，而且氮肥施用后也会在短期内引起 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 排放量的显著增加[15]。但是在施用氮肥增加稻田 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放过程中有关土壤微生物的作用还不十分清楚，尤其是硝化与反硝化微生物群落结构变化所发挥的作用更需深入探讨。本研究利用最新的分子生物学技术分析了稻田土壤微生物群落结构的变化及其对稻田 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放的影响。我们以田间试验为对象，通过高通量测序和荧光定量",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PCR技术分析不同氮肥水平下稻田土壤细菌的种类、群落结构、多样性及硝化和反硝化细菌功能基因丰度，评价氮肥水平对稻田微生物群落结构与功能的影响及其与稻田 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放的相关性。为深入探讨稻田氮素地球生物化学循环中的温室气体排放及持续农业发展提供理论依据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 田间试验 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究在位于福建省福州市前洋村 $( 2 6 ^ { \\circ } 1 1 ^ { \\prime } \\mathrm { N }$ $1 1 9 ^ { \\circ } 1 6 ^ { \\prime } \\mathrm { E } )$ 的福建省农业科学院试验基地水稻田进行。供试土壤为红壤，基本理化性状为：有机质含量$1 5 . 7 7 ~ \\mathrm { g { \\cdot } k g ^ { - 1 } }$ 、 $\\mathrm { p H } ~ 5 . 8 2 \\$ 、全氮 $1 . 2 8 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ 、全磷0.27$\\mathbf { g } { \\cdot } \\mathbf { k } \\mathbf { g } ^ { - 1 }$ 、全钾 $1 8 . 3 5 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ 、碱解氮 $1 5 3 . 6 \\mathrm { m g ^ { . } k g ^ { - 1 } }$ 、有效磷 $1 5 . 6 7 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ 、速效钾 $7 7 . 9 8 ~ \\mathrm { m g { \\cdot k g } ^ { - 1 } }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "依据当地常规的氮肥用量设置 $\\mathrm { N } [ 1 8 0 \\mathrm { k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } ] .$ $2 / 3 \\mathrm { N } [ 1 2 0 \\mathrm { \\ k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } ]$ 、 $1 / 3 \\mathrm { N } [ 6 0 \\mathrm { \\ k g ( N ) { \\cdot } h m ^ { - 2 } } ]$ 和对照CK(不施氮磷钾肥)4个处理。氮肥种类为尿素，磷肥和钾肥种类为过磷酸钙和氯化钾，全部磷钾肥和1/2氮肥用做基肥，1/2氮肥在水稻分蘖后期追肥。磷肥和钾肥均分别为 $5 0 \\mathrm { k g } ( \\mathrm { P } _ { 2 } \\mathrm { O } _ { 5 } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 和 $1 0 0 \\mathrm { k g } ( \\mathrm { K } _ { 2 } \\mathrm { O } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。每个处理重复3次，共12个田间小区随机排列，小区面积$2 0 ~ \\mathrm { m } ^ { 2 }$ ，种植密度为175000株 $\\cdot \\mathrm { h m } ^ { - 2 }$ 。供试水稻品种为‘荟丰优 3301'(Oryza sativa L.Huifengyou3301)，按当地常规进行水稻栽培的水分及田间管理。田间试验于5月初播种，6月初插秧，10月初收获。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 土壤样品采集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "于水稻生长最旺盛的开花灌浆期，每个小区随机选5个点采集土壤样品，为了更好区分表层和根层土壤，用土钻分别采集 $0 { \\sim } 5 ~ \\mathrm { c m }$ 和 $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 深度的土层土壤，将5点采集的土壤混合为1个样品。12个小区取得 $0 { \\sim } 5 \\ \\mathrm { c m }$ 和 $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层土样各12个，共24个土壤样品。田间采集的土样放入 $4 \\mathrm { { ^ \\circ C } }$ 冰盒中保存，于实验室内将混合后的土壤去除根系、杂草、土壤动物和石块等杂质并混匀后于 $- 7 0 \\ \\mathrm { { ^ \\circ C } }$ 冷冻保存用于土壤微生物分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 土壤微生物DNA提取",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤微生物总DNA提取采用FastDNASPINKit(ForSoil)(QBIOgene)的试剂盒方法，称取 $0 . 5 \\ \\mathrm { g }$ 解冻后的土壤样品，按试剂盒的试验步骤进行土壤微生物总DNA提取,DNA样品 $- 2 0 \\ \\mathrm { { ^ circ C } }$ 冰箱保存待用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4土壤微生物的高通量测序",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将冻存的稻田土壤DNA样品用干冰包装后，送至北京诺禾致源生物信息科技有限公司，进行微生物",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "16S扩增子高通量测序。利用通用引物338F:ACTCCTACGGGAGGCAGCAG和806R:GGACTACHVGGGTWTCTAAT对细菌16S的V3-V4区进行扩增[16],PCR 采用高保真酶 Phusion High-Fidelity PCRMaster Mix with HF Buffer $2 5 ~ \\mu \\mathrm { L }$ 、DMSO $3 ~ { \\mu \\mathrm { L } }$ 、F/R引物各 $3 ~ \\mu \\mathrm { L }$ 、DNA模板 $1 0 ~ \\mu \\mathrm { L }$ 、加无菌水至 $5 0 ~ \\mu \\mathrm { L }$ 的反应体系。PCR扩增条件为： $9 8 \\ \\mathrm { { } ^ { \\circ } C } , 3 0 \\ \\mathrm { { s } ; 3 0 \\times ( 9 8 \\ { } ^ { \\circ } C }$ 15 s; $5 8 \\ \\mathrm { { ^ \\circ C } }$ ， $1 5 ~ \\mathrm { s } ; 7 2 ~ \\mathrm { ^ { \\circ } C }$ ,15 s); $7 2 \\ \\mathrm { { ^ \\circ C } }$ ， $1 \\mathrm { { m i n } _ { \\mathrm { { c } } } }$ PCR产物采用Illumina公司MiSeq测序系统上机分析。利用QIIME(version 1.8.0)对原始序列进行分析[17]，所有样本的序列随机抽取到30000，然后进行各项分析，在 $9 7 \\%$ 置信度下将每个样品所有的16SrRNA基因序列进行分类，获得门、纲、目、科和属各水平下的分类单元。同时利用QIIME计算Alpha多样性，包括物种丰富度Chao1、香农指数 Shannon 和辛普森指数Simpson 等；并进行样品间差异分析，通过STAMP生成主成分分析PCA图[18]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5土壤微生物的荧光定量PCR",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用氨氧化细菌amoA基因及反硝化细菌的nirS、qnoB 和 nosZ基因的特异引物[6,19-21(表1)，在ABIPRISM7500Real-TimePCRSystem扩增仪上进行绝对荧光定量PCR分析。反应体系为 $2 5 ~ \\mu \\mathrm { L }$ ，其中 $2 \\mu \\mathrm { L }$ 稀释5倍的DNA模板加反应液 $2 3 ~ \\mu \\mathrm { L }$ ，反应液包括 $1 2 . 5 ~ \\mu \\mathrm { L }$ SYBR Premix Ex TaqTM $( 2 \\times )$ ， $0 . 5 ~ \\mu \\mathrm { L }$ ROX Reference Dye II $( 5 0 ~ \\times )$ ，前、后引物各 $1 ~ \\mu \\mathrm { L } ( 5$ pmol $\\cdot \\mathrm { L } ^ { - 1 }$ ，英骏生物工程公司，上海)和 ${ 8 \\mu \\mathrm { L } }$ 超纯水。标准曲线的建立依照He 等[22]的方法。分别对土壤DNA用各个基因的特异引物进行PCR扩增，将PCR扩增产物克隆到pMD-18(TaKaRa，大连)载体中，然后对插入正确片段的克隆进行质粒DNA 提取，用Nanodrop ND-1000UV-Vis 测定质粒DNA 浓度，计算质粒DNA拷贝数，按10倍梯度稀释质粒DNA制作标准曲线。本试验中amoA、nirS、qnoB和 nosZ基因的标准曲线范围分别为 $9 . 0 9 { \\times } 1 0 ^ { 8 } { \\sim } 9 . 0 9 { \\times } 1 0 ^ { 4 }$ copies $\\cdot \\mathrm { L } ^ { - 1 }$ 、 $3 . 6 7 { \\times } 1 0 ^ { 9 } { \\sim } 3 . 6 7 { \\times } 1 0 ^ { 5 }$ copies $\\cdot \\mathrm { L } ^ { - 1 }$ 、 $5 . 2 4 \\times 1 0 ^ { 9 } ,$ ）$5 . 2 4 \\times 1 0 ^ { 5 }$ copies $\\cdot \\mathrm { L } ^ { - 1 }$ 和 $7 . 1 9 { \\times } 1 0 ^ { 9 } { \\sim } 7 . 1 9 { \\times } 1 0 ^ { 5 }$ copies $\\mathrm { L } ^ { - 1 }$ 。amoA、nirS、qnoB和nosZ基因标准曲线的 $R ^ { 2 }$ 均达0.99，扩增效率分别为1.01、0.98、0.99和1.01。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.6 ${ \\bf N } _ { 2 } \\mathbf { O }$ 排放通量监测 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "于土壤样品采集当天，采用静态密闭箱法采集稻田 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 的排放样品。 ${ \\bf N } _ { 2 } \\mathrm { O }$ 浓度采用气相色谱(AgilentTechnologies7890BGC system，美国)测定,检测器是电子捕获检测器(ECD)，检测器温度$3 3 0 \\mathrm { ~ \\textdegree C }$ ，气相色谱的分离材料是PQ 填充柱，柱温",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/1d7579d353c06dded6ea8c3f56f150a2a727db977eeb37e587c95c48a03283c8.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>目标基因 Target gene</td><td>引物序列</td><td>扩增长度 Length of amplification (bp)</td></tr><tr><td>氨氧化细菌amoA基因</td><td>Primer sequence amoA1F:GGGGTTTCTACTGGTGGT</td><td>491</td></tr><tr><td>Ammonia-oxidizing bacterial amoA gene 反硝化细菌nirS基因</td><td>amoA2R:CCCCTCKGSAAAGCCTTCTTC nirS4F:TTCRTCAAGACSCAYCCGAA</td><td>336</td></tr><tr><td>Denitrifying bacterial nirS gene 反硝化细菌qnoB基因</td><td>nirS6R:CGTTGAACTTSCCGGT qnoB2F:GGN CAY CAR GGN TAY GA</td><td></td></tr><tr><td>Denitrifying bacterial qnoB gene</td><td>qnoB5R:ACCCANAGRTGNACNACCCACCA</td><td>262</td></tr><tr><td>反硝化细菌nosZ基因 Denitrifying bacterial nosZ gene</td><td>nosZF:CGYTGTTCMTCGACAGCCAG nosZ1662R:CGSACCTTSTTGCCSTYGCG</td><td>470</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$5 5 \\ \\mathrm { ^ \\circ C }$ 。标准气体由大连大特气体有限公司提供。 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放通量计算公式为[23-24]:",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF { = } \\rho { \\times } h { \\times } d C / d t { \\times } 2 7 3 / ( 2 7 3 + T )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $F$ 为 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放通量 $[ \\mathrm { g } \\cdot ( \\mathrm { m } ^ { 2 } \\cdot \\mathrm { h } ) ^ { - 1 } ]$ · $\\rho$ 为 ${ \\bf N } _ { 2 } \\mathrm { O }$ 标准状态下的密度 $( 1 . 9 6 4 ~ \\mathrm { k g } { \\cdot } \\mathrm { m } ^ { - 3 } )$ ） $h$ 为经过田间水层高度调整后采样箱顶部距水面的实际高度 $( \\mathrm { m } )$ ;dC/dt为采样过程中采样箱内 ${ \\bf N } _ { 2 } \\mathrm { O }$ 浓度变化率[L $\\cdot ( \\mathrm { m } ^ { 3 } \\cdot \\mathrm { h } ) ^ { - 1 } ]$ ，即罩箱后密闭时间与箱内气体浓度进行线性回归方程的斜率;T为采样箱内的平均温度 $\\mathrm { ( ^ { \\circ } C ) }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.7 数据分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用MicrosoftExcel2007和SPSS13.0软件进行数据处理分析和制图，处理之间的平均值差异采用one-wayANOVA单因素方差分析，用Excel2007中的CORREL公式计算相关系数，以相关系数显著性检验表确定相关系数的显著性水平。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1不同施氮水平下稻田细菌群落变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 多样性变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究通过对16SrRNA的V3-V4区的高通量测序共测得有效序列1998211条，平均每个样品的测序深度为83258条有效序列。测序所得的一些多样性指数如表2所示。Chao1指数表示物种丰富程度，其值越高表明物种的丰富度越高；Shannon指数(Shannondiversityindex)反映样品的多样性程度，值越高表明群落的多样性越高；Simpsom指数(Simpsondiversityindex)反映物种的优势度，数值越高说明多样性越单—[13]。结果表明稻田细菌的菌种丰富度指数Chao1在CK处理下最低，1/3N处理下即显著提高 $( P { < } 0 . 0 5 )$ ,2/3N和 $\\mathrm { \\Delta N }$ 处理间差异虽不显著但二者均显著 $( P { < } 0 . 0 5 )$ 高于1/3N处理；同时，稻田土壤细菌群落的Shannon指数随氮肥水平的提高也显著增加，N处理显著 $( P { < } 0 . 0 5 )$ 高于2/3N和1/3N处理，后者又显著 $( P { < } 0 . 0 5 )$ 高于CK处理；与Shannon指数相对应的Simpson指数则呈现出施用氮肥的3个处理显著 $( P { < } 0 . 0 5 )$ 低于不施肥的CK处理；且上述指标在 $0 { \\sim } 5 ~ \\mathrm { c m }$ 和 $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 两个深度土层中都具有相同的变化规律。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 群落结构分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究测得的稻田土壤细菌主要菌门包括：变形菌门(Proteobacteria)、浮霉菌门(Planctomycetes)、硝化螺菌门(Nitrospirae)、厚壁菌门(Firmicutes)、绿弯菌门(Chloroflexi)、放线菌门(Actinobacteria)和醋杆菌门(Acidobacteria)。这7类菌门占样品总菌量的$7 9 . 6 0 \\% { \\sim } 8 9 . 3 0 \\%$ ，平均 $8 4 . 7 8 \\%$ 。其中变形菌门、醋杆菌门和绿弯菌门在各样品中所占比例较高，依次均占 $2 6 . 9 4 \\%$ ！ $2 2 . 0 8 \\%$ 和 $1 8 . 5 5 \\%$ 。可见变形菌门、醋杆菌门和绿弯菌门是本研究的稻田土壤微生物中的优势种群。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/28e4729cdaf201c77b25098826c46a1fbfd1e3a6b7833fe09df62063b47ecd8e.jpg",
+        "table_caption": [
+            "表1荧光定量PCR的引物 Table1Primers for real-time PCR ",
+            "表2不同氮肥水平下稻田不同深度土壤细菌丰富度及多样性Table 2Richness and diversity indexes of bacteria in $0 { - } 5 \\ \\mathrm { c m }$ and $1 0 { - } 2 0 ~ \\mathrm { c m }$ depths of paddy soil under differentnitrogen fertilizer levels"
+        ],
+        "table_footnote": [
+            "） $\\surd \\colon 1 8 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ， $2 / 3 \\mathrm { N } \\colon 1 2 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ; 1/3N: $6 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ; CK $: 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ．同一土层同一列数值字母不同差异显著 $( P { < } 0 . 0 5 )$ 。Valuein the same column for the same depth of soil followed by different letters are significantly different $( P < 0 . 0 5$ ）"
+        ],
+        "table_body": "<html><body><table><tr><td>土层深度 Depth of soil (cm)</td><td>氮肥水平 Nitrogen fertilizer level</td><td>物种丰富度指数 Chaol index</td><td>香农指数 Shannon diversity index</td><td>辛普森指数 Simpson diversity index</td></tr><tr><td rowspan=\"4\">0~5</td><td>CK</td><td>9 144±1 093c</td><td>11.04±0.15c</td><td>0.001 5±0.000 1a</td></tr><tr><td>1/3N</td><td>12 940±238b</td><td>11.55±0.20b</td><td>0.000 6±0.000 02b</td></tr><tr><td>2/3N</td><td>15 192±604a</td><td>11.76±0.10b</td><td>0.000 7±0.000 1b</td></tr><tr><td>N</td><td>15 503±636a</td><td>11.95±0.01a</td><td>0.000 6±0.000 01b</td></tr><tr><td rowspan=\"4\">10~20</td><td>CK</td><td>9 742±342c</td><td>11.50±0.04c</td><td>0.001 0±0.000 1a</td></tr><tr><td>1/3N</td><td>12 660±576b</td><td>11.66±0.06b</td><td>0.000 6±0.000 08b</td></tr><tr><td>2/3N</td><td>14 693±369a</td><td>11.70±0.03b</td><td>0.000 7±0.000 04b</td></tr><tr><td>N</td><td>14 957±747a</td><td>11.82±0.05a</td><td>0.000 7±0.000 03b</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图1显示了不同处理的土壤细菌各菌门的组成及其平均相对丰度。占土壤细菌总量比例较高的醋杆菌门在 $0 { \\sim } 5 ~ \\mathrm { c m }$ 和 $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 两个土层中均存在随氮肥水平提高其相对丰度逐渐增加的趋势，相对丰度分别从CK处理的 $1 8 . 4 0 \\%$ 人 $1 7 . 8 0 \\%$ 提高到 $\\mathrm { ~  ~ N ~ }$ 处理的 $2 5 . 5 0 \\%$ （ $30 . 0 0 \\text{‰}$ 不同处理的变形菌门的变化趋势与醋杆菌门相反，在两个深度土层中其相对丰度分别从CK处理的 $3 5 . 5 0 \\%$ 有 $2 8 . 2 0 \\%$ 降低到N处理的$2 2 . 8 0 \\%$ 、 $2 1 . 4 0 \\%$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "此外，不同处理的硝化螺菌门的相对丰度也存在较明显的变化规律， $0 { \\sim } 5 ~ \\mathrm { c m }$ 和 $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 两个土层中的硝化螺菌门的相对丰度分别从CK处理的$2 . 8 0 \\%$ 和 $3 . 0 0 \\%$ 逐渐提高到 $\\mathrm { ~  ~ N ~ }$ 处理的 $5 . 7 0 \\%$ 和$4 . 9 0 \\text{‰}$ （20",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7684592b865856b0c6bd3e5e31ed020572f962e4ae2a1907f1c65d0fd5c7e76c.jpg",
+        "img_caption": [
+            "图1不同氮肥水平下稻田不同深度土壤细菌群落门组成",
+            "Fig.1Composition of bacteria at phylum level in $0 { - } 5 \\mathrm { c m }$ and $1 0 { - } 2 0 ~ \\mathrm { c m }$ depths of paddy soil under different N application level N: $1 8 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ; 2/3N: $1 2 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ; 1/3N: $6 0 \\mathrm { ~ k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ; CK: $0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图2进一步显示了比例最高的前10个属的细菌在 $0 { \\sim } 5 ~ \\mathrm { c m }$ (图2a)和 $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ (图2b)土层的构成情况。总体而言，两个深度土层中均存在3个属的菌[互营杆菌(Desulfobacca)、梭菌属(Clostridium)和甲烷氧化菌(Methylosinus)]的相对丰度在氮肥水平提高时降低，其中甲烷氧化菌的相对丰度在 $0 { \\sim } 5 ~ \\mathrm { c m }$ 土层中存在明显的 $\\mathrm { N } { \\leqslant } 2 / 3 \\mathrm { N } { \\leqslant } 1 / 3 \\mathrm { N } { \\leqslant } \\mathrm { C K }$ 的变化趋势；而其余7个属的菌[4—29、分支菌属(Mycobacterium)、厌氧粘细菌属(Anaeromyxobacter)、GOUTA19、地杆菌属(Geobacter)、醋杆菌属(Candidatus)和红游动菌属(Rhodoplanes)]总体呈氮肥水平提高相对丰度增加的趋势。其中，属于硝化螺菌门的4—29和GOUTA19两个属的菌的相对丰度，在 $0 { \\sim } 5 \\ \\mathrm { c m }$ 和$1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 两个土层中均呈现出较高氮肥用量(N 或2/3N)显著高于较低的氮肥用量(1/3N)或不施肥的对照(CK) $( P { < } 0 . 0 5 )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于高通量测序的稻田土壤细菌群落组成的主成分分析PCA结果如图3所示。结果显示，CK处理的细菌群落组成与 $1 / 3 \\mathrm { N } , 2 / 3 \\mathrm { N }$ 和N处理的细菌群落组成在变异较大的PC1方向上分布差异明显，CK处理单独聚类；1/3N处理与2/3N及 $\\mathrm { ~  ~ N ~ }$ 处理在PC1方向上也存在一定分布差异；2/3N处理与 $\\mathrm { ~  ~ N ~ }$ 处理在PC1方向上几乎没有分布差异，仅在变异较小的PC2方向上存在分布差异。此外,CK和1/3N处理的$0 { \\sim } 5 ~ \\mathrm { c m }$ 土层细菌群落组成与 $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层的细菌群落组成在PC2方向上也存在一定差异；2/3N及N处理的不同深度土层的细菌群落组成几乎没有分布差异。说明随氮肥水平的提高稻田细菌群落组成在逐渐发生变化，不施氮肥的稻田细菌群落组成与施用氮肥的稻田细菌群落组成差异最大，在施用氮肥的不同处理间，中、高氮肥处理的稻田细菌群落组成较为接近，与低氮处理存在一定差异，但差异不显著。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2稻田硝化反硝化微生物功能基因丰度分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用荧光定量PCR技术分析了与稻田氮素转化及 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放相关的关键微生物功能基因的丰度。驱动土壤氮素硝化过程关键步骤的amoA基因丰度如图4a所示。在 $0 { \\sim } 5 ~ \\mathrm { c m }$ 和 $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 两个深度土层中氨氧化细菌amoA基因丰度均随氮肥用量的提高而增加。 $0 { \\sim } 5 ~ \\mathrm { c m }$ 土层中CK处理的氨氧化细菌amoA基因丰度显著 $( P { < } 0 . 0 5 )$ 低于1/3N 处理，1/3N 处理又显著 $( P { < } 0 . 0 5 )$ 低于 $2 / 3 \\mathrm { N }$ 和 $\\mathrm { ~  ~ { ~ N ~ } ~ }$ 处理; $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层中各个处理间的差异都到达了显著水平 $( P { < } 0 . 0 5 )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9309ec18ac7e0919bd6c0b0a5940a989ea366298488bc244f5c554f796398015.jpg",
+        "img_caption": [
+            "图2不同氮肥水平下稻田土壤 $\\mathbf { 0 . 5 \\ c m ( A ) }$ 和 $\\mathbf { 1 0 { \\sim } 2 0 \\ c m ( B ) }$ 土层细菌群落属组成 Fig.2Composition of bacteria at genus level in $0 { - } 5 \\ \\mathrm { c m }$ (A) and $1 0 { - } 2 0 ~ \\mathrm { c m }$ (B) depths of paddy soil under different $\\mathrm { \\Delta N }$ application levels N: $1 8 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ; 2/3N: $1 2 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ; 1/3N: $6 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ; CK: $0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ．同一属不同字母表示差异显著 $( P { < } 0 . 0 5 ) _ { \\circ }$ Different letters ibove bars at the same genus indicated significant difference $( P < 0 . 0 5 )$ 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2800b0976e84a4270aa2b019fbfd61c5aabfd8219ee9ef40b554c851d738832e.jpg",
+        "img_caption": [
+            "图3不同氮肥水平下稻田不同深度土层细菌群落结构的主成分分析",
+            "Fig.3PCAanalysis of bacterial community in $0 { - } 5 \\mathrm { c m }$ and 10-20 cm depths of paddy soil under differentN application levels N: $1 8 0 \\mathrm { ~ k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ; 2/3N: $1 2 0 \\mathrm { ~ k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ · $1 / 3 \\mathrm { N }$ $6 0 \\mathrm { ~ k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ CK: $0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ · "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "同时，本研究测定了驱动反硝化过程的3个主要微生物功能基因nirS、qnoB和nosZ的丰度。图4b显示了反硝化细菌nirS基因丰度的变化，在 $0 { \\sim } 5 ~ \\mathrm { c m }$ 和$1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 两个深度土层中不施肥的CK处理均显著$( P { < } 0 . 0 5 )$ 低于其余施肥的处理，但在1/3N、2/3N和N处理间反硝化细菌nirS基因丰度没有明显差异。结果表明施用氮肥可显著提高稻田土壤硝化细菌nirS基因丰度，但氮肥用量多少的影响不显著。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "不同氮肥水平下的稻田反硝化细菌qnoB基因丰度在 $0 { \\sim } 5 ~ \\mathrm { c m }$ 土层中变化较大，随氮肥水平提高而增加，呈现 $\\mathrm { N } \\geq 2 / 3 \\mathrm { N } \\geq 1 / 3 \\mathrm { N } { > } \\mathrm { C K }$ 的变化趋势，其中N处理显著高于1/3N和CK处理 $( P { < } 0 . 0 5 )$ ,2/3N和1/3N处理又显著高于CK处理 $( P { < } 0 . 0 5 )$ 图 $^ { 4 \\mathrm { c } ) }$ ；而在 $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层中 $1 / 3 \\mathrm { N }$ 、2/3N和 $\\mathrm { ~  ~ N ~ }$ 处理间的qnoB基因丰度差异不显著，但三者均显著 $( P { < } 0 . 0 5 )$ 高于CK 处理(图4c);此外，各个处理均呈现出 $0 { \\sim } 5 ~ \\mathrm { c m }$ 土层qnoB基因丰度显著 $( P { < } 0 . 0 5 )$ 高于 $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层。表明稻田表层土壤中的qnoB基因丰度较高且变化较活跃。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "稻田反硝化细菌nosZ基因丰度的测定结果显示(图4d)： $0 { \\sim } 5 ~ \\mathrm { c m }$ 和 $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 两个深度土层中均存在$N { > } 1 / 3 N { > } \\mathrm { C K }$ 的显著变化趋势 $( P { < } 0 . 0 5 )$ ；对2/3N处理而言，在0\\~5cm土层中处于N和1/3N之间，与这二者的差异都不显著；在 $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层中2/3N 处理的nosZ基因丰度显著 $( P { < } 0 . 0 5 )$ 高于1/3N处理，但与N处理间差异不明显。表明稻田土壤中的nosZ基因丰度变化较为活跃。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/66503b07bb5dee97cc2a1aa18ad3a7fdb643b54b629d4ac68f73eb7abd12fe2f.jpg",
+        "img_caption": [
+            "图4不同氮肥水平下稻田不同深度土壤氨氧化细菌amoA基因(A)和反硝化细菌nirS基因(B)、qnoB基因(C)、nosZ基因(D)丰度"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3 稻田 ${ \\bf N } _ { 2 } \\mathbf { O }$ 排放状况 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究在水稻生长最旺盛的开花灌浆期分析了土壤微生物群落的变化，同时监测了稻田 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 的排放状况。结果显示氮肥水平提高促进了稻田 ${ \\bf N } _ { 2 } \\mathrm { O }$ 的排放，$\\mathrm { ~  ~ N ~ }$ 处理的 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 排放通量显著 $( P { < } 0 . 0 5 )$ 高于其他处理1/3N和2/3N处理的 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 排放通量差异不显著，但二者也均显著 $( P { < } 0 . 0 5 )$ 高于不施肥的对照(CK) (图5)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "将稻田 ${ \\bf N } _ { 2 } \\mathrm { O }$ 排放通量与土壤硝化反硝化细菌各功能基因拷贝数及硝化螺菌门、属(本研究中比例最高的前10个属中的硝化螺菌4—29和GOUTA19)相对丰度进行相关分析，结果如表3所示。可见， $0 { \\sim } 5 ~ \\mathrm { c m }$ 土层中硝化螺菌门相对丰度与 ${ \\bf N } _ { 2 } \\mathrm { O }$ 排放通量的相关系数最高且达到显著性水平 $( P { < } 0 . 0 5 , n { = } 1 0 )$ ), $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层中的氨氧化细菌amoA基因拷贝数与 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放通量的相关系数最高也达到显著性水平 $\\scriptstyle ( P < 0 . 0 5$ ， $n { = } 1 0$ 0。其余指标与 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放通量的相关性不显著。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d0ca98c2fe1e824d2d3cb6b7ec48813111307d565e66e83d4ad3130c849f26c.jpg",
+        "img_caption": [
+            "Fig.4Abundances ofammonia-oxidizingbacterialamoA gene(A)anddenitrifyingbacterial nirS gene (B),qnoBgene(C)nosZ gene (D) in $0 { - } 5 ~ \\mathrm { c m }$ and $1 0 { - } 2 0 ~ \\mathrm { c m }$ depths of paddy soil under different $\\mathrm { \\Delta N }$ application levels N: $1 8 0 ~ \\mathrm { \\ k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ·， $2 / 3 \\mathrm { N }$ $1 2 0 ~ \\mathrm { \\ k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ；1/3N: $6 0 ~ \\mathrm { \\ k g ( N ) ^ { . } h m } ^ { - 2 }$ ； CK: $0 ~ \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ．同一深度土层内各柱上不同字母表示差异显著 $_ { ( P < 0 . 0 5 ) }$ 。Different letters above bars at the same depth of soil indicated significant differences $( P < 0 . 0 5 )$ ！ ",
+            "图5不同氮肥水平下稻田 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 排放通量Fig.5 $\\mathrm { N } _ { 2 } \\mathrm { O }$ emission in paddy soil under different $\\mathrm { \\Delta N }$ applica-tion levelsN: $1 8 0 \\ \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ $2 / 3 \\mathrm { N }$ ： $1 2 0 \\mathrm { \\ k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ; 1/3N: $6 0 \\ \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ CK:0 $\\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ．柱上不同字母表示差异显著 $( P { < } 0 . 0 5 )$ 。Differentletters above bars indicated significant differences $( P < 0 . 0 5 )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3 讨论和结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "随着DNA测序技术的发展，高通量测序技术逐渐成为研究土壤微生物多样性及评价土壤质量的重要手段和方法。本研究利用高通量测序技术分析了不同氮肥水平下稻田土壤细菌群落的变化情况。发现水稻开花灌浆期内，施肥的稻田细菌物种丰度程度和多样性都明显高于不施肥的稻田，且氮肥水平提高有助于增加土壤细菌丰富程度，但当氮肥水平较高后土壤细菌丰富度的增加不再明显。与不施肥的稻田土壤比较，施肥的稻田土壤养分(速效氮、磷、钾)及有机碳含量都会增加，可以为细菌生存和生长提供更多的宜居微环境，使土壤细菌种群多样性增加[25-26]。本试验稻田土壤中变形菌门、醋杆菌门和绿弯菌门是占土壤细菌比例较高的3个主要细菌门。其中醋杆菌门相对丰度受氮肥水平影响最大，氮肥用量增加促进了醋杆菌门相对丰度的提高。醋杆菌是一类嗜酸的细菌，氮肥水平提高有助于降低土壤pH增加土壤酸性[7]，从而促进了醋杆菌门相对丰度的增加。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/e0f6093d55c5844465fa002c7598c667d477e015f8bb027e2745384a085bd23b.jpg",
+        "table_caption": [
+            "表3稻田不同深度土层功能基因拷贝数及硝化螺菌相对丰度与 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 排放通量的相关系数Table3Correlation coefficients between $\\mathrm { N } _ { 2 } \\mathrm { O }$ emission flux and functional genes copies or relative abundance ofNitrospirae in $0 { - } 5 \\ \\mathrm { c m }$ and $1 0 { - } 2 0 ~ \\mathrm { c m }$ depths of paddy soil"
+        ],
+        "table_footnote": [
+            "\\*显著性检验水平达0.05，自由度为 $1 0 _ { \\circ }$ \\*: significant level is up to 0.05,freedom degree is 10. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"2\">土层深度 Depth of soil (cm)</td></tr><tr><td>0~5</td><td>10~20</td></tr><tr><td>amoA基因拷贝数amoAgenecopies</td><td>0.425 5</td><td>0.6364*</td></tr><tr><td>nirS 基因拷贝数 nirS gene copies</td><td>0.2168</td><td>0.243 0</td></tr><tr><td>qnoB基因拷贝数qnoB gene copies</td><td>0.5221</td><td>0.5252</td></tr><tr><td>nosZ基因拷贝数nosZ gene copies</td><td>0.4307</td><td>0.302 6</td></tr><tr><td>4-29 相对丰度 Relative abundance of 4-29</td><td>0.382 7</td><td>0.217 2</td></tr><tr><td>GOUTA19 相对丰度 Relative abundance of GOUTA19</td><td>0.382 4</td><td>0.411 8</td></tr><tr><td>硝化螺菌门相对丰度 Relative abundance of Nitrospirae</td><td>0.6290*</td><td>0.444 8</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "与氮素转化密切相关的硝化螺菌门相对丰度在稻田细菌中所占比例虽然不高，但对氮肥水平的提高响应强烈，其相对丰度随氮肥用量增加而显著提高。同时，在稻田土壤细菌中所占比例最高的10个细菌属中的4—29和GOUTA19都属于硝化螺菌门,且氮肥水平提高促进了这二者相对丰度的增加。硝化螺菌是驱动土壤硝化过程的主要微生物，其相对丰度的提高可能增强稻田硝化作用，而在硝化作用过程中伴有 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 的释放。相关分析结果显示稻田表层土壤中硝化螺菌门相对丰度与稻田 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放量有显著相关性 $( P { < } 0 . 0 5$ ， $n { = } 1 0$ )。由此可见，本研究中硝化螺菌门相对丰度的增加对稻田 $\\mathbf { N } _ { 2 } \\mathbf { O }$ 释放应存在一定贡献。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "此外，在细菌属水平的分析中还发现氮肥水平提高抑制了稻田土壤中的甲烷氧化菌属，尤其在$0 { \\sim } 5 ~ \\mathrm { c m }$ 的表层土中甲烷氧化菌属相对丰度随氮肥水平提高显著降低。这可从微生物群落方面解释氮肥抑制甲烷氧化的机制[27]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究同时利用荧光定量PCR技术分析了稻田土壤中驱动硝化反硝化的微生物功能基因丰度的变化。发现硝化作用限制性步骤氨氧化过程关键酶amoA基因的丰度变化与氮肥用量密切相关，不同深度土层中均呈现出随氮肥水平提高amoA基因丰度增加的明显趋势，尤其在深度 $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土中不同氮肥水平处理间的差异都达到显著水平 $( P { < } 0 . 0 5 )$ 。反硝化作用是在硝酸盐还原酶、亚硝酸盐还原酶、氧化氮还原酶和氧化亚氮还原酶4个酶的连续作用下将土壤中 ${ \\mathsf { N O } } _ { 3 } ^ { - } { \\mathsf { - N } }$ 或 $N O _ { 2 } ^ { - } { - } N$ 还原为 $\\Nu _ { 2 }$ 的过程。对其中3个关键酶基因丰度的测定发现，不施肥稻田土壤中亚硝酸还原酶nirS基因、氧化氮还原酶qnoB基因和氧化亚氮还原酶nosZ基因的丰度都显著低于其他施肥处理稻田。而在施肥处理的稻田中，qnoB基因和nosZ基因的丰度对氮肥用量增加的响应程度明显强于nirS基因，前2个基因丰度在 $0 { \\sim } 5 ~ \\mathrm { c m }$ 土层中均存在随氮肥用量提高而增加的趋势，且$1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层中的nosZ基因在中、高氮处理下显著提高；但nirS基因丰度对氮肥用量的增加没有明显响应，高、中、低氮肥水平间没有差异。说明本研究稻田中驱动反硝化过程的氧化氮还原酶qnoB基因和氧化亚氮还原酶nosZ基因受氮肥用量的影响较大。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "硝化和反硝化过程被认为是土壤释放 ${ \\bf N } _ { 2 } \\mathrm { O }$ 的重要途径，通过与驱动硝化反硝化的微生物相对丰度及功能基因丰度的相关分析，发现在本研究中稻田$\\mathrm { N } _ { 2 } \\mathrm { O }$ 排放量与硝化作用微生物功能基因丰富程度的相关性更高，表现在 $0 { \\sim } 5 ~ \\mathrm { c m }$ 土层中的硝化螺菌门相对丰度及 $1 0 { \\sim } 2 0$ cm土层中氨氧化细菌amoA基因丰度与 ${ \\bf N } _ { 2 } \\mathrm { O }$ 排放通量的相关性均达到显著性水平1 $( P { < } 0 . 0 5$ ， $n { = } 1 0$ )。许多试验研究表明反硝化微生物功能基因丰度与土壤 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 释放之间无明显相关性，如不同季节土豆地反硝化基因(nirK、nosZ和cnorB)丰度变化与 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 释放量无关[28]；利用实时PCR技术研究发现短期内 $( 7 2 \\mathrm { ~ h } )$ 农田土壤反硝化基因(nosZ，nirS)丰度变化和 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 释放量之间没有相关性[29]; $70 \\%$ WFPS条件下的湿地反硝化基因nosZ丰度与 ${ \\bf N } _ { 2 } \\mathrm { O }$ 释放之间没有明确的相关性[30]。本研究中施用氮肥或氮肥用量增加引起的反硝化微生物nirS、qnoB和nosZ基因丰度的提高与稻田 ${ \\bf N } _ { 2 } \\mathrm { O }$ 释放量也都没有相关性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "综上说述，本研究通过对水稻开花灌浆期内稻田土壤的分析，发现与无氮和低氮相比较高的氮肥用量能促进稻田细菌群落多样性提高及改变细菌群落组成，同时可增加稻田温室气体 ${ \\bf N } _ { 2 } \\mathrm { O }$ 的排放，且稻田土壤中参与硝化作用的微生物群落组成与丰度的变化与 ${ \\bf N } _ { 2 } \\mathrm { O }$ 排放增加的关联更为密切。但因为土壤 ${ \\bf N } _ { 2 } \\mathrm { O }$ 的产生有多种途径，由多个酶催化进行，不同途径的不同酶催化反应间存在相互制约或促进的复杂关系。因此，还需要通过对水稻生长过程中参与土壤 ${ \\bf N } _ { 2 } \\mathrm { O }$ 产生的关键微生物功能基因多样性及其作用进行系统的分析研究。此外，从DNA水平研究硝化反硝化微生物基因群落仅能代表微生物的潜在生理功能，仍需通过RNA水平深入研究硝化反硝化细菌各功能基因多样性与 $\\mathrm { N } _ { 2 } \\mathrm { O }$ 释放的相关性。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献References",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]FAO.World Agricultural: Towards 2015/2030:An FAO Perspective[M].Rome:Earthscan Press,2003:358-360   \n[2]Firestone $\\mathrm { ~ M ~ K ~ }$ ,Davidson E A.Microbiological basis of NO and $\\mathrm { N } _ { 2 } \\mathrm { O }$ production and consumption in soil[M]//Andreae M O,Schimel D S.Exchange of Trace Gases Between Terrestrial Ecosystems and the Atmosphere.Chichester: Wiley, 1989: 7-21   \n[3]朱永官，王晓辉，杨小茹，等．农田土壤 ${ \\bf N } _ { 2 } \\mathrm { O }$ 产生的关键微 生物过程及减排措施[J]．环境科学,2014,35(2):792-800 Zhu Y G,Wang XH, Yang XR,et al.Key microbial processes in nitrous oxide emissions of agricultural soil and mitigation strategies[J]. Environmental Science,2014,35(2): 792-800   \n[4] Zhu X,Burger M,Doane T A,et al.Ammonia oxidation pathways and nitrifier denitrification are significant sources of $\\mathbf { N } _ { 2 } \\mathbf { O }$ and NO under low oxygen availability[J]. Proceedings of the National Academy of Sciences of the United States America,2013,110(16):6328-6333   \n[5]Stephen JR,McCaig AE,Smith Z,et al.Molecular diversity of soil and marine l6S rRNA gene sequences related to beta-subgroup ammonia-oxidizing bacteria[J]. Applied and Environmental Microbiology,1996,62(11): 4147-4154   \n[6] Braker G,Tiedje JM.Nitric oxide reductase (norB)genes from pure cultures and environmental samples[J].Applied and Environmental Microbiology,2003,69(6):3476-3483   \n[7]Song Y N,Lin Z M.Abundance and community composition of ammonia-oxidizers in paddy soil at different nitrogen fertilizer rates[J].Journal of Integrative Agriculture,2014,13(4): 870-880 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[8]罗希茜，陈哲，胡荣桂，等．长期施用氮肥对水稻土亚硝酸",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "还原酶基因多样性的影响[J]．环境科学，2010，31(2): 423-430   \nLou X Q,Chen Z,Hu RG,et al.Effect oflong-term fertilization on the diversity of nitrite reductase genes (nirK and nirS) inpaddy soil[J]. Environmental Science, 2010,31(2): 423-430   \n[9]郑燕，侯海军，秦红灵，等．施氮对水稻土 ${ \\bf N } _ { 2 } \\mathrm { O }$ 释放及反硝 化功能基因(narG/nosZ)丰度的影响[J].生态学报，2012, 32(11): 3386-3393 Zheng Y, Hou H J, Qin H L,et al. Effect of N application on the abundance of denitrifying genes (narG/nosZ) and ${ \\bf N } _ { 2 } \\mathrm { O }$ emission in paddy soil[J]. Acta Ecologica Sinica,2012, 32(11): 3386-3393   \n[10]楼骏，柳勇，李延．高通量测序技术在土壤微生物多样性 研究中的研究进展[J]．中国农学通报，2014，30(15): 256-260 Lou J,Liu Y, Li Y. Review of high-throughput sequencing techniques in studies of soil microbial diversity[J].Chinese Agricultural Science Bulletin,2014,30(15): 256-260   \n[11]郑燕，贾仲君．新一代高通量测序与稳定性同位素示踪 DNA/RNA 技术研究稻田红壤甲烷氧化的微生物过程[J]. 微生物学报,2013,53(2):173-184 Zheng Y,Jia Z J. Next generation sequencing and stable isotope probing of active microorganisms responsible for aerobic methane oxidation in red paddy soils[J]. Acta Microbiologica Sinica,2013,53(2): 173-184   \n[12]陈庆荣，王成己，陈曦，等．施用烟秆生物黑炭对红壤性稻 田根际土壤微生物的影响[J]．福建农业学报，2016,31(2): 184-188 Chen Q R，Wang C J,Chen X,et al.Effect of tobacco stalk-derived biochar on microbes in rhizosphere soil at red paddy fields[J].Fujian Journal of Agricultural Sciences,2016, 31(2): 184-188   \n[13]张芳，林绍艳，徐颖洁．水稻连作对江苏地区稻田土细菌 微生物多样性的影响[J]．山东农业大学学报：自然科学版, 2014,45(2): 161-165 Zhang F, Lin S Y, Xu Y J. The effect of continuous cropping rice on diversity of soil bacteria microbial in Jiangsu Province[J]. Journal of Shandong Agricultural University: Natural Science Edition,2014,45(2): 161-165   \n[14]廖千家骅，王书伟，颜晓元．中国稻田水稻生长季 ${ \\bf N } _ { 2 } \\mathrm { O }$ 排 放估算[J]．农业环境科学学报,2012,31(1):212-218 Liao QJH,Wang S W,Yan XY.Estimation of $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions from paddy fields during rice growing season in China[J]. Journal of Agro-Environment Science,2012,31(1): 212-218   \n[15] Yano M,Toyoda S,Tokida T,et al. Isotopomer analysis of production，consumption and soil-to-atmosphere emission processes of ${ \\bf N } _ { 2 } \\mathrm { O }$ at the beginning of paddy field irrigation[J]. Soil Biology and Biochemistry,2014,70: 66-78   \n[16] Fadrosh D W，Ma B,Gajer P,et al.An improved dual-indexing approach for multiplexed 16S rRNA gene sequencing on the Ilumina MiSeq platform[J]. Microbiome, 2014,2: 6   \n[17]Caporaso JG,Kuczynski J, Stombaugh J,et al. QIIME allows analysis of high-throughput community sequencing data[J]. Nature Methods,2010,7(5):335-336   \n[18]Parks DH,Tyson G W,Hugenholtz P,et al. STAMP: Statistical analysis of taxonomic and functional profiles[J].Bioinformatics,2014,30(21):3123-3124   \n[19]Braker G,Zhou J Z,Wu L Y,et al.Nitrite reductase genes (nirK and nirS) as functional markers to investigate diversity of denitrifying bacteria in Pacific northwest marine sediment communities[J]. Applied and Environmental Microbiology, 2000,66(5):2096-2104   \n[20]Rotthauwe JH,Witzel K P,Liesack W.The ammonia monooxygenase structural gene amoA as a functional marker: Molecular fine-scale analysis of natural ammonia-oxidizing populations[J]. Applied and Environmental Microbiology, 1997,63(12):4704-4712   \n[21]Throbäck IN,Enwall K,Jarvis A,et al.Reassessing PCR primers targeting nirS,nirK and nosZ genes for community surveys of denitrifying bacteria with DGGE[J].FEMS Microbiology Ecology,2009,49(3): 401-417   \n[22]He J Z,Shen JP,ZhangL M,et al.Quantitative analyses of the abundance and composition of ammonia-oxidizing bacteria and ammonia-oxidizing archaea of a Chinese upland red soil under long-term fertilization practices[J].Environmental Microbiology,2007,9(9): 2364-2374   \n[23] Zheng X H,Wang M X,Wang Y S,et al.Comparison of manual and automatic methods for measurement of methane emission from rice paddy fields[J].Advances in Atmospheric Sciences,1998,15(4): 569-579   \n[24]石生伟，李玉娥，李明德，等．早稻秸秆原位焚烧对红壤晚 稻田 $\\mathrm { C H } _ { 4 }$ 和 ${ \\bf N } _ { 2 } \\mathrm { O }$ 排放及产量的影响[J]．土壤，2011，43(2): 184-189 Shi S W,LiY E,Li MD,et al. Influence of early rice straw burning on $\\mathrm { C H } _ { 4 }$ and $\\mathbf { N } _ { 2 } \\mathbf { O }$ emissions and grain yield of later rice fields in red soil[J]. Soils,2011,43(2):184-189   \n[25]袁红朝，秦红灵，刘守龙，等．长期施肥对红壤性水稻土细 菌群落结构和数量的影响[J].中国农业科学,2011,44(22): 4610-4617 Yuan $\\textrm { H Z }$ ，Qin $\\mathrm { ~ H ~ L ~ }$ ,Liu $\\mathrm { ~ S ~ L ~ }$ ,et al.Response of abundance and composition of the bacterial community to long-term fertilization in paddy soils[J]. Scientia Agricultura Sinica,2011, 44(22): 4610-4617   \n[26] Hardin G.The competitive exclusion principle[J].Science, 1960,131(3409): 1292-1297   \n[27]丁维新，蔡祖聪．氮肥对土壤氧化甲烷的影响研究[J]．中 国生态农业学报,2003,11(2):50-53 DingWX,CaiZ C.Effect of nitrogen fertilizers on methane oxidation in soils by methanotrophs[J].Chinese Journal of Eco-Agriculture,2003,11(2): 50-53   \n[28]Dandie C E,Burton DL,Zebarth BJ,et al.Changes in bacterial denitrifier community abundance over time in an agricultural field and their relationship with denitrification activity[J]．Applied and Environmental Microbiology，2008, 74(19): 5997-6005   \n[29]Henderson SL,Dandie C E,Patten CL,et al.Changes in denitrifier abundance,denitrification gene mrna levels,nitrous oxide emissions,and denitrification in anoxic soil microcosms amended with glucose and plant residues[J].Applied and Environmental Microbiology,2010,76(7):2155-2164   \n[30]Ma WK,Bedard-Haughn A,Siciliano SD,etal.Relationship between nitrifier and denitrifier community composition and abundance in predicting nitrous oxide emissionsfrom ephemeral wetland soils[J].Soil Biology and Biochemistry, 2008,40(5):1114-1123 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "欢迎订阅2018年《大豆科学》",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "《大豆科学》是由黑龙江省农业科学院主管主办的大豆专业领域学术性期刊，也是被国内外多家重要数据库和文摘收录源收录的重点核心期刊。主要刊登有关大豆遗传育种、品种资源、生理生态、耕作栽培、植物保护、营养肥料、生物技术、食品加工、药用功能及工业用途等方面的学术论文、科研报告、研究简报、国内外研究述评、学术活动简讯和新品种介绍等。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "《大豆科学》主要面向从事大豆科学研究的科技工作者，大专院校师生、各级农业技术推广部门的技术人员及科技种田的农民。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "《大豆科学》为双月刊,16开本，国内外公开发行，国内每期定价：20.00元，全年120.00元，邮发代号:14-95。国外每期定价：10.00美元(含邮资)，全年60.00美元，国外代号:Q5587。全国各地邮局均可订阅，也可向编辑部直接订购。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "热忱欢迎广大科研及有关企事业单位刊登广告，广告经营许可证号:2301030000004。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "地址：哈尔滨市南岗区学府路368号《大豆科学》编辑部(150086）电话:0451-86668735网址:www.haasep.cnE-mail: ddkxbjb@126.com",
+        "page_idx": 9
+    }
+]

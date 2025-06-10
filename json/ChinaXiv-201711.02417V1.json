@@ -1,0 +1,817 @@
+[
+    {
+        "type": "text",
+        "text": "Rapid Generation of a novel DPP-4 inhibitor with long-acting property: SAR study and PK/PD evaluation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hui Xiea, Shaogao Zengʰ, Guicheng Zhangʰ,Lili Zengb, Guifa Zhongb,Junling Zhaob, Xin Zhaoc, Hongjiang $\\mathrm { { X u } ^ { d } }$ ， Ling Yangd, Xiquan Zhangd， Shanchun Wangd， Wenhui Huc\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\"The First Affiliated HospitalofGuangzhou edical University,151Yanjiang Road,Guangzhou,51ol20,China. bGuangzhou Institutes of Biomedicine and Health, Chinese Academy of Science,190 Kaiyuan Avenue, Guangzhou, 510530, China.   \nC Key Laboratory of Molecular Clinical Pharmacology &the Fifth Afliated Hospital, Guangzhou Medical University. Guangzhou, 511436,China.   \ndJiangsu Chia-Tai Tianqing Pharmaceutical Co.Ltd,No.8 Julong North Rd. Xinpu Lianyungang Jiangsu,22006, China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GRAPHICABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/a83b9732e26fb35c7875a36160eb1dec39d3857d95d57c6f68da3fdb0db47f71.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "124,with IC5oof 0.76nMand competent in vivo effcacy with Trelagliptin 加体内药效图 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Compound 124 with $\\mathrm { I C } _ { 5 0 }$ of $0 . 7 6 \\mathrm { n M }$ and competent in vivo efficacy with Trelagliptin. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Drug compliance is critical for the patients with chronic diseases like diabetes.In our continuous effort to find beter glucose lowering agents,an exploration for long-acting DPP-4 inhibitor had been launched. Based on our previous reported compound 111 bearing a pyrrolopyrimidine scaffold,lead compound 114 $( \\mathrm { I C } _ { 5 0 } = 2 . 3 \\ \\mathrm { n M }$ $\\mathbf { t } _ { 1 / 2 ( \\mathrm { r a t } ) }$ （20 $= 5 . 4 6 \\mathrm { ~ h ~ } ,$ ）was rapidly determined with the pharmacokinetic superiority.Further SAR study indicated that the pyrrole ring was generally tolerable for variation, in which the $\\beta$ -substitution gave a better DPP-4 affinity. In depth evaluation on $\\beta$ position of pyrrole ring brought up with highly potent compound 124 $\\mathrm { ( I C _ { 5 0 } = 0 . 7 6 \\ n M }$ $\\mathbf { t } _ { 1 / 2 ( \\mathrm { r a t } ) } = 7 . 8 9 \\mathrm { ~ h ~ }$ ). In vivo pharmacodynamics tests demonstrated a similar or even slightly better sustained DPP-4 nhibition of compound 114 and 124 compared with the first marketed once-weekly drug Trelagliptin in this category, indicating that improvement of DPP-4 inhibitory activity or pharmacokinetic profile might be both feasible ways to rapid generation of long-acting DPP-4 inhibitors. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KEYWORDS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DPP-4 inhibitor; type 2 diabetes; SAR; long-acting; in vivo efficacy ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1．Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Diabetes melitus is a chronic metabolic diseases characterized by hyperglycemia and has reached a world prevalence of 415 milion patients.Moreover,this population is expected to rise rapidlyto 642 million by 2040. Type 2 diabetes (T2D),which accounts for up to $90 \\%$ of diabetes patients,is due to the insuficient response to insulin[1][待完整后更换为 IDF Diabetes Atlas - $\\cdot$ edition. Available from http://www.diabetesatlas.org/l. Undiagnosed T2D and the multisystem complications caused by hyperglycemia are the leading reason for patients' disability and mortality.Dipeptidyl peptidase-4(DPP-4) inhibitor is a typeof weight neutral and well tolerated glucose-lowering agents,functioned dominantly by inhibition of cleavage of glucagon like peptide-1 (GLP-1). GLP-1,an important incretin hormone,has multiple glucose regulation functions: stimulate insulin release in a glucose dependent way,increase the sensitivity of insulin,and reduce glucagon secretion [2,3]. Currently,DPP-4 inhibitor are recommended as an add-on therapy with metformin，or as the first-line therapy in patients contradicted of metformin [4]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "However,despite of many drugs available,poor adherence has led to the unsatisfying glycaemic control in around half of the T2D patients [5]. Combination treatment and reduction of dosing frequency are the common strategies to improve patients’adherence [6]. Thus long-acting glucose-lowering agents have been marketed successively,including once-weekly DPP-4 inhibitor.Trelagliptin and Omarigliptin were the first two long-acting DPP-4 inhibitor that received marketing authorization in Japan in 2O15(Fig.1)[7,8]. Up to dataclinical trials of these two drugs demonstrated their superior efficacy to placebo and were not asociated with any severe adverse events [9].Though comparing with the regular DPP-4 inhibitors,once-weekly Trelagliptin and Omarigliptin didn't show significantly beter eficacyin termof glyceamic control[10,11],and Omarigliptin was reported to be linked with potential safety issues [12][ 待完整后更换为 Advera Health Analytics.Pipeline drug evidence review: marizev (omarigliptin) vs. Januvia (sitagliptin). Available from: http://info.adverahealth.com/marizev-evidence-review [last accessd 25 July 2O17],both manufacturers abandoned their marketing plans in other countries with the consideration of high financial costs [9]. Nonetheles,long-acting DPP-4 ihibitors stillhave the necessityto be goon developing for the sake of the fast escalating T2D patients, providing more choice for therapeutic drug treatment regardless of concerns [13]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b6ff21415f7a16ca89aebac80cd5eecdc52154d9e6d0c5d6a94371613e2ad1a.jpg",
+        "img_caption": [
+            "Figure1.Marketedonce-weeklyDPP-IVinhibitors. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Previously，we reported a series of pyrrolopyrimine analogues based on a pharmacokinetic(PK) property-driven optimization.And the basal scafold is represented by compound 111 (Fig. 2）[14]. In our continuous drug discovery effort for oral,potent, DPP-4 inhibitors with long-acting property, we started from the pyrrolopyrimine scafold which bearsa fine PK profile.Inspired by the discovery of Trelagliptin，5-floro substitution was simply added to the cyanobenzyl group and generated the lead compound 114 ( $\\mathrm { I C } _ { 5 0 } { = } 2 . 3 \\ \\mathrm { n M }$ ）， which displayed a similar half-life with Trelagliptin in rat PK experiment.Expand structure-activity relationship (SAR) study was carried out around compound 114 and indicated that $\\beta$ -substitution on pyrrole ring brought improvement of DPP-4 afinity and was open to wild variation. Eventually the thienyl substituted compound 124 was proved to have a sustained in vivo DPP-4 inhibition in the pharmacodynamics (PD)assays,similar or slightly better than Trelagliptin. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. Chemistry ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The synthesis of compounds 4a-d is outlined in Scheme 1.1a-d were hydrolyzed with aqueous sodium hydroxide to give 2a-d,and 2a-b were changed to $2 \\mathbf { a } ^ { \\circ } \\mathbf { - } \\mathbf { b } ^ { \\prime }$ by protection with Di-tert-butyl pyrocarbonate. Selective N-alkylation of $2 \\mathbf { a } ^ { \\bullet } \\mathbf { - } \\mathbf { b } ^ { \\bullet }$ and 2c-d with 2-(bromomethyl)-4-fluorobenzonitrile provided precursor 3a-d, The final compounds 4a-d,were obtained by the amination of the chloro-precursors 3a-d with 3-(R)-aminopiperidine. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d2a259b6009aab777af92e085e94d10c597aa518d3d51f1a2843b44dc44b1216.jpg",
+        "img_caption": [
+            "Scheme 1. Synthesis of compounds 4a-d. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Reagents: (i) NaOH, $\\mathrm { H } _ { 2 } \\mathrm { O }$ ， $1 0 0 ^ { \\circ } \\mathrm { C }$ ； (ii) $\\mathbf { B o c } _ { 2 } \\mathbf { O }$ ,TEA,DMAP,DMF,rt;(iii) 2-(bromomethyl)-4-fluorobenzonitrile, NaH,LiBr,DMF/DME; (iv) 3-(R)-aminopiperidine, ${ \\mathrm { N a H C O } } _ { 3 }$ ,EtOH, $1 2 0 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The synthesis of compounds 7aand 7b are outlined in Scheme 2.6a and 6b were obtained by the amination with morpholino and dimethylamine respectively,of the fluoride 5 which were obtained by protection with Di-tert-butyl pyrocarbonate from compound 4a.The final compounds 7a and 7b,were obtained byde-protection with HCl/MeOH solution from 6a and 6b. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac82a815391d2af64f6d835bb6963fc245a03e148b6818ab5c4c886915da778a.jpg",
+        "img_caption": [
+            "Scheme 2. Synthesis of compounds 7a-b. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Reagents: (i) $\\mathbf { B o c } _ { 2 } \\mathbf { O }$ ，TEA，DCM,rt;(ii）Morpholino or dimethylamine,CuI, ${ \\bf K } _ { 2 } \\bf C O _ { 3 }$ ，DMSO, $1 2 0 ^ { \\circ } \\mathrm { C }$ ； (ii) HCl/MeOH, rt. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The synthesis of compounds 9a-f are outlined in Scheme 3. Compound 3a was changed to compounds 8a and 8b with N-bromosuccinimide(NBS)by bromination,and to compounds 8c and 8d with selectfluor by fluorination, and to compounds 8e and 8f with methanesulfonyl chloride and 2-(bromomethyl)-4-fluorobenzonitrile by Sulfonation and N-alkylation respectively.The final compounds 9a-f were obtained by the amination of the chloro-precursors 8a-f with 3-(R)-aminopiperidine. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5ec900f83d11fdba6cf1db4d6d5e25c1bcbca6baa03d94fd021faf82aae3830f.jpg",
+        "img_caption": [
+            "Scheme 3. Synthesis of compounds 9a-f. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Reagents: (i) 8a-b: NBS,DMF,rt; 8c-d: Selectfluor, $\\mathrm { Z r C l _ { 4 } }$ ， $\\mathrm { C H } _ { 3 } \\mathrm { C N }$ ， $8 0 ^ { \\circ } \\mathrm { C }$ ; 8e: $\\mathrm { C H } _ { 3 } \\mathrm { S O } _ { 2 } \\mathrm { C l }$ ,TEA,DMF,rt; 8f: 2-(bromomethyl)-4-fluorobenzonitrile,NaH,DMF, $8 0 ^ { \\circ } \\mathrm { C }$ ; (ii) 3-(R)-aminopiperidine, ${ \\mathrm { N a H C O } } _ { 3 }$ ,EtOH, $1 2 0 ^ { \\circ } \\mathrm { C }$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The synthesis of compounds $\\mathbf { 1 2 a - j }$ are outlined in Scheme 4.1la-j were obtained by Suzuki reaction with various phenylboric acid respectively from the bromide 10, which were obtained by protection with Di-tert-butyl pyrocarbonate from compound 9a. The final compounds 12a-j, were obtained by de-protection with HCl/MeOH solution from 1la-j. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/fd1aaa4b7b6e5cf51b6f68de8c520258415fa28474ae3ac8c6672f86cffa680b.jpg",
+        "img_caption": [
+            "Scheme 4. Synthesis of compounds 12a-j. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Reagents: (i) $\\mathtt { B o c } _ { 2 } \\mathrm { O }$ ，TEA,DCM,rt;(ii）Arylboronic acid,dppf $\\mathrm { P d C l } _ { 2 }$ ， $\\mathrm { K } _ { 2 } \\mathrm { C O } _ { 3 }$ ，1,4-dioxane $/ \\mathrm { H } _ { 2 } \\mathrm { O }$ ， $1 0 0 ^ { \\circ } \\mathrm { C }$ ； (iii)HCI/MeOH, rt.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.Rapid generation of the lead compound114 ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b7c486cbff356706340d1fb3f3b6e7f51e0fec3012d033c7c7496364b6acaf0.jpg",
+        "img_caption": [
+            "Figure 2.Rapid generation of lead compound 114. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In our approach to enrich the alternatives of glucose-lowering agents,several DPP-4 inhibitors bearing different scafolds or pharmacophores have been identified based on various medicinal chemistry strategies [14-17].Pyrrolopyrimidine scaffold was firstly being considered in this successive exploration of long-acting DPP-4 inhibitor due to its favorable PK property within our chemotypes,represented by compound 111 (Fig. 2) [14].Tentative variation on cyanobenzyl group and heterocyclic ring were carried out on a small scale (Table 1). Reviewing the discovery of Trelagliptin from Aloglitpin,simple 5-fluoro substitution on the cyanobenzyl group resulted ina much prolonged in vivo DPP-4 inhibition.Despite without ilustration of fluorine atom's contribution to long-acting property,several researches have discussd the SAR on benzyl group of xanthine based scaffolds. Consistently,2-cyano,5-fluoro- substitution provided with the best potency[18,19].DPP-4 crystal structure with trelagliptin revealed that the fluorine atom laid in the S1 pocket and have potential VanderWaals force with Tryp659,Tyr631，and Val656.Besides,electrical attraction between fluorine (partial negative） and ligand or protein might contributed to the increase of DPP-4 activity as well [7]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Asto our small scale variation listed in Table 1，5-fluoro substitution on cyanobenzyl group in pyrrolopyrimidine scaffld were of the better activity(compound 114-117 vs compound 112-113),consistently with the published result. Substitution with large steric hindrance (compound 112)or partial positive charge (compound 113)resulted in a remarkable decrease in potency.In adition,increase the number of hetero atoms didn't improve the potency in the same direction (compound 116-117). Nanomole level in vitro activity distinguished the pyrolopyrimidine scaffold compounds 114 and 115. Among them,compound 114 was selected to be the lead in view of close distance between the hetero atom of pyrrole ring and the caybonyl group,which might bring beter absorption permeability through a hydrogen bond according to our previous experience [14]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/86eeffcbdf4593677be8fc0a5adcf19087c55ae4f9dd427b589a57fc0597a2da.jpg",
+        "table_caption": [
+            "Table 1.DPP-4 inhibitory profiles of compounds 4a-d and 7a-b. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">R 0 CN N NH2</td></tr><tr><td>No.</td><td>X</td><td>Y</td><td>R</td><td>Inhibitory IC5o of DPP-4 (nM)</td><td></td></tr><tr><td>112-7a</td><td>NH</td><td>CH</td><td></td><td>>100</td><td></td></tr><tr><td>113-7b</td><td>NH</td><td>CH</td><td></td><td>>100</td><td></td></tr><tr><td>114-4a</td><td>NH</td><td>CH</td><td>F</td><td>2.3</td><td></td></tr><tr><td>115-4b</td><td>CH</td><td>NH</td><td>F</td><td>2.4</td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/65bc5a7e83ef6e96fd9667c2585d2a108d074787b3ab51b54cb0723bac4617be.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>116-4c</td><td>N</td><td>S</td><td>F</td><td>6.8</td></tr><tr><td>117-4d</td><td>NCH3</td><td>N</td><td>F</td><td>15.3</td></tr><tr><td>Trelagliptin</td><td></td><td>一</td><td></td><td>1.43</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Datarepresent means of atleast two independent experiments. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2Preliminary assessmentof lead compound 114 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Preliminary assessment of compound 114 were carried out subsequently， including in vitro activity, selectivity,and in vivo PKandPDevaluation.Inhibitionof DPP-4 related proteases (DPP-8,DPP-9)was reported to link with multiple organ and immune system toxicities [2O]. Inhibitory $\\mathrm { I C } _ { 5 0 }$ values of compound 114 against DPP-8/9 were determined to be over $3 0 0 ~ { \\mu \\mathrm { M } }$ ,over 10 folds than that against DPP-4. And enzymatic kinetic assay indicated that compound 114 inhibited DPP-4 via a reversible non-covalent mechanism with a Ki of $2 . 9 \\ \\mathrm { n M }$ ，the same with Trelagliptin [7].Diference laid in the specific inhibitory mode inour assay,that compound 114 inhibited DPP-4 in a mixture mode while Trelagliptin inhibited in a substrate-competitive way (Fig.3A).The hepatic stability was evaluated in the pooled liver microsome of different species.Though species variation existed, compound114 generally bore a good in vitro metabolic stabilityas expected in the pyrrolopyrimidine scaffold. The good performance in the human liver microsome indicated a probably better PK profile in human (Fig 3B, Table 3).In the PK experiment,we were pleased to see that compound 114 had a similar oral half-life than Trelagliptin $( \\mathrm { t } _ { 1 / 2 ( \\mathrm { r a t } ) }$ ： $5 . 4 6 \\mathrm { ~ h ~ }$ vs $5 . 3 6 \\mathrm { ~ h ~ }$ ,Fig. 3C, Table 4). Accordingly，compound 114 displayed similar DPP-4 inhibition with Trelagliptin in a 52 hours PD tests,both in mice and rat (Fig.3D,Table 5). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "待编号确定后上图",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 3.Preliminary evaluation of compound 114. A. DPP-4 enzymatic kinetic assay. B. Metabolic stability in pooled liver microsome. C. Concentration- time curves in PK study. D. Blood DPP-4 inhibitory-time cures in rat and mouse. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.Further optimization and SAR study ofcompound114. ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Xanthine based DPP-4 inhibitors were mainly discovered through structural based design.The active function sites interacted with DPP-4 were generally unambiguous and nearly identical, no mater in the co-complex crystal studies of Aloglitpin and Trelagliptin,or the docking prediction of our previous study[7,17,21]. Aminopiperidine forms a salt bridge to the Glu2O5 and Glu206.Cyanobenzyl with or without F-substitution lies in the S1 pocket formed by Val656,Tyr631,Trp659,Tyr666,and Val711 and interacted with Argl25. Carbonyl group and the backbone NHof Tyr631 constitutes an important hydrogen bond which is critical for the activity.The unsaturated scaffold conjugates $\\pi$ -stacking with Tyr547.Thus the pyrrolopyrimidine scaffold is supposed to be open to the structure variation,especially on the fused heterocycle. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/e9190951342dd7b0bdce992375da63ac3c810c6dd0dbe36e86b57bdcad194951.jpg",
+        "table_caption": [
+            "Table 2.DPP-4 inhibitory profiles of compounds 118-133. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>R2 No.</td><td>R1</td><td>、NH2 R2 R</td><td></td><td>Inhibitory IC50</td><td>No. R1</td><td>R2</td><td></td><td>R</td><td>Inhibitory IC50</td></tr><tr><td>118- 9a</td><td>H</td><td>Br</td><td>H</td><td>of DPP-4 (nM) 0.79</td><td>126- 12c</td><td>H</td><td></td><td>H</td><td>of DPP-4 (nM) 0.54</td></tr><tr><td>119- 9b</td><td>Br</td><td>Br</td><td>H</td><td>1.67</td><td>127- 12d</td><td>H</td><td>O=S=O</td><td>H</td><td>0.72</td></tr><tr><td>120-</td><td>H</td><td>F</td><td>H</td><td>0.77</td><td>128- 12e</td><td>H</td><td></td><td>H</td><td>1.58</td></tr><tr><td>9c 121- 9d</td><td>F</td><td>F</td><td>H</td><td>1.25</td><td>129- 12f</td><td>H</td><td>O</td><td>H</td><td>0.61</td></tr><tr><td>122- 9e</td><td>H</td><td>H</td><td>O= 0=O</td><td>18.0</td><td>130- 12g</td><td>H</td><td></td><td>H</td><td>1.69</td></tr><tr><td>123- 9f</td><td>H</td><td>H</td><td>CN</td><td>26.6</td><td>131- 12h</td><td>H</td><td>H2N- 0</td><td>H</td><td>1.61</td></tr><tr><td>124- 12a</td><td>H</td><td>H</td><td></td><td>0.76</td><td>132- 12i</td><td>H</td><td>F 0 =O</td><td>H</td><td>1.45</td></tr><tr><td>125-</td><td>H</td><td></td><td>H</td><td>0.54</td><td>133-</td><td>H</td><td>。</td><td>H</td><td>0.77</td></tr><tr><td>12b</td><td></td><td></td><td></td><td></td><td>12 j</td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Data represent means of at least two independent experiments. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Initially we attempted to evaluate the effect of substitutions on $\\mathrm { N } \\mathrm { . }$ ， $\\mathbf { 0 . }$ ， ${ \\beta } \\cdot$ :of pyrrole ring on the DPP-4 activity (compound 118-123).Substitutions were generally tolerable except for the N-substitution which decreased the activity into double-digit $\\mathrm { I C } _ { 5 0 }$ value in compound 122 and 123. Single $\\beta$ -substitution or $\\mathbf {  { a } }$ ， $\\beta$ -substitution kept a well DPP-4 affinity with $\\beta$ -substitution a bit better (compound 118/120 v.s.compound 119/121). Hence,extended variation on $\\beta$ -substitution was undertaken and lead to compounds 124 to 133.It's pleased to see that $\\beta$ -position could tolerate a range of wide variation with good activityat single-digit nanomole level despite of steric hindrance or polarity of substituent group.All the $\\beta$ -substituted compounds were delivered to examine their metabolic stability in both rat liver microsome (RLM) and human liver microsome (HLM).With two compounds with poorer stability in HLM than that in RLM(compound125,130),the rest compounds in Table3were not supposed to suffer from severe hepatic clearance and put into in vivo pharmacokinetic study. During the course of PK screening,compound 124 displayed longer half-life than Trelagliptin in rat and was chosen to receive the in vivo PD evaluation (Table 4& 5). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "why not choose 128,131 for next test? ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/8454a94eca7203b1a8babbfc5fac4d21718a17f4c875ef9ac2f742d350f7635b.jpg",
+        "table_caption": [
+            "Table 3.In vitro metabolic stability of $\\beta$ -substituted compounds in pooled liver microsome. "
+        ],
+        "table_footnote": [
+            "RLM: pooled rat liver microsome.HLM: human pooled liver microsome.Data represent as the average of three duplicates. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">No.</td><td colspan=\"2\">Calculated t1/2 (min)</td><td rowspan=\"2\">No.</td><td colspan=\"2\">Calculated t1/2 (min)</td></tr><tr><td>RLM</td><td>HLM</td><td>RLM</td><td>HLM</td></tr><tr><td>114</td><td>45.2</td><td>>200</td><td>128</td><td>197.1</td><td>>200</td></tr><tr><td>118</td><td>37.5</td><td>132.7</td><td>129</td><td>98.9</td><td>>200</td></tr><tr><td>120</td><td>50.3</td><td>98.2</td><td>130</td><td>>200</td><td>43.3</td></tr><tr><td>124</td><td>47.0</td><td>160.0</td><td>131</td><td>>200</td><td>>200</td></tr><tr><td>125</td><td>36.52</td><td>35.1</td><td>132</td><td>166.9</td><td>>200</td></tr><tr><td>127</td><td>72.3</td><td>180.8</td><td>133</td><td>95.2</td><td>>200</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.4.PK/PD evaluation of compound124. ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Compound 124 is a potent DPP-4 inhibitor with $\\mathrm { I C } _ { 5 0 }$ value of $0 . 7 6 \\mathrm { n M }$ and good selectivity against DPP-8/9. The hepatic stability is generally acceptable with calculated half-life of $4 7 ~ \\mathrm { { m i n } }$ and $1 6 0 ~ \\mathrm { { m i n } }$ in RLM and HLM incubation respectively.Moreover,in the pharmacokinetic study,compound 124 showed a prolonged half-life compared with Trelagliptin in a same batch ( $\\mathrm { \\bf ~ t } _ { 1 / 2 }$ : 7.89 h v.s.5.13h,Fig. 4A,Table 4).The 52 hours'in vivo PD test inrat and mouse both demonstrated that compound 124 had a similar or slightly better DPP-4 inhibition than Trelagliptin,both in the totalDPP-4 inhibitionand the point DPP-4 inhibition oflast sampling at 52 hours (Fig.4B, Table 5). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "待编号完整后上图",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Figure 4. In vivo PK and PD evaluation of compound 124. A. Concentration- time curves in PK study. B. Blood DPP-4 inhibitory-time cures in rat and mouse. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Table 4.Pharmacokinetic profiles of compound114,124,and Trelagliptin ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/8190fc923e1b08a1a902f12536e3b9d791f0ee606e6ad097d5c30437510f7b9f.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "i.v., intravenous injection; p.o. oral administration.Dose: 5 and $2 5 \\mathrm { m g / k g }$ for i.v. and p.o. respectively. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>oral T1/2 (h)</td><td>Tmax (h)</td><td>poAUC0-t (μg·h·mL-1)</td><td>CLp (L·h−1·kg²1)</td><td>VZ/F (L·kg-1)</td><td>F%</td></tr><tr><td>114</td><td>5.46 ± 3.74</td><td>0.14 ± 0.10</td><td>1.88 ± 0.06</td><td>13.3 ± 0.41</td><td>105.5 ± 74.2</td><td>10.6</td></tr><tr><td>124</td><td>7.89 ±5.41</td><td>2.33 ± 0.57</td><td>2.92 ± 0.56</td><td>8.80 ± 1.81</td><td>103.5 ± 80.2</td><td>33.4</td></tr><tr><td>Trelaglitpin</td><td>5.13 ± 1.74</td><td>0.70 ±0.14</td><td>6.82 ± 1.96</td><td>7.66 ± 2.82</td><td>48.2 ± 20.15</td><td>46.9</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.5.Potential factors contributed to the long-acting ofpyrrolopyrimine scaffold based DPP-4 inhibitors. ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Patient adherence is very important to the progressof the chronic diseases,especially for the T2D.Although the advantage is under controversy,the development of long-acting DPP-4 inhibitors should stillbe on the way,at least for those first diagnosed T2D patients who had metformin contradiction and invalid lifestyle alteration [13]. Firstly,we hypothesized that a slow-binding or dissociation between compound and DPP-4 enzyme might be a possible mechanism of long-acting.Preliminary drug-target binding kinetics evaluation were conducted on typical once-weekly drugs Omarigliptin,Trelagliptin,and regular once-dailiy Sitagliptin and Aloglitpin.However,the dissociation rate constant $( \\mathbf { k _ { \\mathrm { o f f } } } )$ data between these two types of drugs did have a distance in our research, but not distinguishable enough.This conclusion also coincided with the later published evaluations of Trelaglitpin [7,22]. Thus we turned our atention back to the traditional PK-PD strategy.During the course of optimization,it's quite challenging to determine the specific PK parameters to improve.In our initial pharmacokinetic comparison between once-weeklyand once-dailyDPP-4 inhibitors inrat,we noticed alonger half-life and alower clearance in once-weekly Trelaglitpin and Omarigliptin. But the diferences of half-life and clearance weren't capable enough to sustain the week-long efficacy.Then we had to mainly rely on the in vivo measures to screen these batch of compounds. Considering that $\\beta$ -substituted pyrrolopyrimidine compounds kept an excellent in vitro DPP-4 inhibitory activity,we delivered thecompounds whose half-life were similar or better than Trelagliptin to the in vivo PD tests and discovered compound 114 and124. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Reviewing the research and development of long-acting pyrolopyrimidine based DPP-4 inhibitors，we afirmed optimization of PK profile is a feasible way to obtain long-acting compounds first of all.Half-life is an important parameter.But it's hard to take it as a decisive factor based on the available data.And it's not a fine parameter for high throughput screening,which couldn't be easilycorelated with invitro indicators like hepatic stability.Asoral administrated drugs,bioavailability seemed nottobeadeterminant for sustained efficacy (Table 4). Secondly,it's generally believed that the glycaemic benefitsof DPP-4 inhibitors are related to the residual inhibitionof the enzyme at the end of the dosing interval[13].Inthe 52 hours'PD evaluations,compound 114 and ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "124 both had a stronger inhibition than Trelagliptin at the last sampling point except for the $1 0 \\mathrm { m g / k g }$ dosing group in rat (Table 5). Hence,long duration of in vitro DPP-4 inhibition test might be a probable way to screen long-acting compounds after establishment of a reliable long duration in vitro reaction system.Finally, compreensive evaluation of Trelagliptin reminded that the potency partiallycontributed to the in vivo efficacy due to a stronger inhibition at a lower concentration.For this concept,compound 114 and 124 displayed a lower and a better $\\mathrm { I C } _ { 5 0 }$ values than Trelagliptin in our assay, yet a similar in vivo efficacy. Though the three compounds were at the same level of potency,the contribution of DPP-4 afinity couldn't be drawn solidly.We believed that the higher potency is meaningful for the sustained long efficacy. ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/2bbe8f75062a6f90876a58e9fe8d0d9216d5554d2c4ba199d49415b603ad6809.jpg",
+        "table_caption": [
+            "Table 5.Pharmacodynamic evaluation of compounds 114 and 124. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">DPP-4 inhibition (%)</td><td colspan=\"2\">rat</td><td colspan=\"2\">mouse</td></tr><tr><td>3 mg/kg</td><td>10 mg/kg</td><td>3 mg/kg</td><td>10 mg/kg</td></tr><tr><td rowspan=\"3\">In total</td><td>114</td><td>28.71%</td><td>36.57%</td><td>21.76%</td><td>20.12%</td></tr><tr><td>124</td><td>28.31%</td><td>37.83%</td><td>10.0%</td><td>17.25%</td></tr><tr><td>Trelaglitpin</td><td>21.75%</td><td>39.46%</td><td>2.5%</td><td>12.13%</td></tr><tr><td rowspan=\"3\">At 52 hours</td><td>114</td><td>14.32%</td><td>38.54%</td><td>23.06%</td><td>17.94%</td></tr><tr><td>124</td><td>13.25%</td><td>46.56%</td><td>11.35%</td><td>15.73%</td></tr><tr><td>Trelaglitpin</td><td>2.14%</td><td>72.63%</td><td>-8.33%</td><td>1.03%</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.Conclusion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In the continuation of our discovery of long-acting DPP-4 inhibitors,previously reported pyrrolopyrimidine scaffold based compound 111 was chosen to be the hit compound due to pharmacokinetic superiority. Inspired by the discoveryofTrelagliptin,entativevariationonpoleingavethladcompod4 $\\mathrm { I C } _ { 5 0 } = 2 . 3 \\ \\mathrm { n M }$ $\\mathbf { t } _ { 1 / 2 ( \\mathrm { r a t } ) }$ （204 $= 5 . 4 6 \\mathrm { ~ h ~ }$ ).With the consideration of binding mode between xanthine based compounds and DPP-4,extensive lead optimization was conducted. $\\beta$ -substitution on pyrrole ring was determined to be a good position open to wild variation. Meanwhile excellent DPP-4 inhibitory activity was kept of $\\beta$ -substituted compounds represented by compound 124 $\\mathrm { ( I C _ { 5 0 } = 0 . 7 6 \\ n M }$ $\\mathbf { t } _ { 1 / 2 ( \\mathrm { r a t } ) } = 7 . 8 9 \\mathrm { h }$ ). In vivo pharmacodynamics study demonstrated a similar or slightly beter sustained efficacy compared with Trelagliptin. Reviewing the development course,improved pharmacokinetic profile was important to prolong the efficacy of pyrrolopyrimidine or xanthine based DPP-4 inhibitors,especially for the half-life or the DPP-4 inhibition after a long duration.Based on this preliminary data,compound 114 and 124 will be delivered into more comprehensive evaluation in the due course.And in depth dose-response relation research will be carried out to evaluate the action nature of these compounds. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5.Experimental section ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5.1. Chemistry ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "All commercially available compounds and solvents were of reagent grade and were used without further treatment unless otherwise noted. Reactions were monitored by TLC using Qing Dao Hai Yang GF254 silica gel plates ( $5 \\mathrm { ~ x ~ } 1 0 \\ \\mathrm { c m }$ )；zones were detected visuallyunder ultraviolet irradiation（ $2 5 4 ~ \\mathrm { n m }$ ）andby sprayingwithan ethanol solution of 2,4-DNP or ninhydrin orby fuming with an iodine steam. Silica gel column chromatography was performed on silica gel (2O0-30O mesh) from Qing Dao Hai Yang.NMR spectra were recorded on a Bruker NMR AVANCE 400（ $4 0 0 ~ \\mathrm { { M H z } }$ ）oraBrukerNMRAVANCE 500( ${ 5 0 0 } \\mathrm { M H z }$ ). Chemical shifts (δ) were recorded in ppm and coupling constants(J） in hertz $\\mathrm { ( H z ) }$ . Splitting patterns describe apparent multiplicities and are designated ass (singlet),d(doublet),t (triplet),q (quartet),m (multiplet)orbr(broad).MS data were measured on an AgilentMSD-1200 ESI-MS system. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5.1.1.2-(2-chloro-4-oxo-4,5-dihydro-3H-pyrrolo[3,2-d]pyrimidin-3-yl)methyl)-4-fluorobenzonitrile (3a) ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "NaH ( $60 \\%$ in oil, $0 . 4 6 \\ \\mathrm { g } , 1 1 . 5 \\ \\mathrm { m m o l }$ ）wasadded to a stirred solution of $\\mathbf { 2 } \\mathbf { a } ^ { \\prime }$ （ $2 . 7 0 ~ \\mathrm { g }$ ,10.0 mmol) in DME(40 mL)and DMF ( $\\mathrm { 1 0 ~ m L }$ at $0 ^ { \\circ } \\mathrm { C }$ . Twenty minutes later,LiBr $( 1 . 7 4 ~ \\mathrm { g } , 2 0 . 0 ~ \\mathrm { m m o l } )$ ）was added,and the mixture was allowed to warm to room temperature. After $1 5 ~ \\mathrm { m i n }$ , 2-(bromomethyl)-4-fluorobenzonitrile $( 2 . 4 6 \\ \\mathrm { g } , 1 1 . 5 \\ \\mathrm { m m o l } )$ （204号 was then added,and the mixture was heated at $6 5 ^ { \\circ } \\mathrm { C }$ overnight. After cooling,the mixture was poured into water $2 5 0 ~ \\mathrm { m L }$ ）andextractedwith ethylacetate( $2 5 0 ^ { * } 3 ~ \\mathrm { m L }$ ).The organic layerwas combined and dried with anhydrous sodium sulphate，and filtered.The resulting filtrate wasconcentrated in vacuo and then purified by flash chromatography to yield the title compound 3a as white powder ( $2 . 2 7 \\ \\mathrm { g }$ yield $7 5 . 2 \\%$ ） $\\mathrm { ^ 1 H }$ NMR (400 MHz, $\\mathrm { C D C l } _ { 3 }$ 8: 10.28 (s,1H),7.76-7.23(m,1H),7.40-7.39 (m,1H),7.14-7.09 (m,1H),6.85-6.82 (m,1H),6.55-6.54 (m,1H), 5.77 (s,2H); ESI-MS calculated for $\\mathrm { ( C _ { 1 4 } H _ { 8 } C l F N _ { 4 } O ) }$ 0 $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ ,302.04,found 303.0. 5.1.2.(R)-2-(2-(3-aminopiperidin-1-yl)-4-oxo4,-dhydro-3H-pyrolo3,-dpyrimidin-3-yl)methyl)-4-fluorbezo nitrile (4a) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "A mixture of 3a (3.03 g，10.O mmol),3-(R)-aminopiperidine dihydrochloride $( 2 . 0 7 \\mathrm { ~ g } , \\ 1 2 . 0 \\mathrm { ~ m m o l } )$ and ${ \\mathrm { N a H C O } } _ { 3 }$ (2.10 g,25.O mmol) in a sealed tube containing $3 0 ~ \\mathrm { m L }$ of ethanol was heated at $1 2 0 ^ { \\circ } \\mathrm { C }$ overnight. The reaction mixture was subsequently cooled to room temperature and filtered.The resulting filtrate was concentrated ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "in vacuo and then purified by flash chromatography to yield compound 4a as white foam $( 2 . 3 3 \\ \\mathrm { g }$ ,yield $6 3 . 5 \\%$ ） $\\mathrm { ^ 1 H }$ NMR (400 MHz,MeOD) 8: 7.85-7.81 (m,1H), 7.37 (s,1H),7.22-7.18 (m,1H), 6.76-6.74 (d, $J = 9 . 6 ~ \\mathrm { H z }$ ，1H), 6.40 (s,1H),5.60 (s,2H),3.26-3.23 (m,1H),3.06-3.03 (m,1H),2.86-2.75 (m,2H),2.66-2.61(m,1H),1.96-1.94 (m,1H),1.78-1.75 (m,1H),1.63-1.60 (m,1H),1.29-1.24 (m, 1H); $^ { 1 3 } \\mathrm { C }$ NMR (125 MHz, MeOD) δ: 166.32,164.29, 155.46,154.27,145.45,143.39,135.58,128.52,116.14,114.94,114.05,106.64,102.45,58.26,53.32,51.3,4.85, 32.52,22.84; ESI-MS calculated for $\\mathrm { \\ C _ { 1 9 } H _ { 1 9 } F N _ { 6 } O ) }$ $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ ,366.16, found 367.1.   \n5.1.3.(R)-2-(-(3-mnpiperidin-1-yl)-oxo-4,-dihydro3H-pyrrolo2,3-dpyrimidin3-yl)methyl)-4-fuoben nitrile (4b). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Compound 4b was prepared in a manner identical to that described for 4a as yellow powder. Yield: $5 3 . 3 \\%$ # $\\mathrm { ^ 1 H }$ NMR (400 MHz, $\\mathrm { C D C l } _ { 3 }$ )8: 9.65 (s,1H),7.64-7.63 (m,1H),7.45-7.42 (m,1H),7.31-7.29 (m,1H),7.03-7.01 (d,J $= 6 . 4 \\ : \\mathrm { H z }$ ,1H), 6.82-6.81 (d, $J { = } 2 . 4 ~ \\mathrm { H z }$ ,1H), 6.64-6.63 (d, $J { = } 2 . 4 \\ : \\mathrm { H z }$ ,1H), 5.59-5.52 (dd, $J { = } 4 . 4 \\ : \\mathrm { H z }$ $J = 1 7 . 2 \\mathrm { H z }$ 2H),3.16-3.14 (m,1H),2.98-2.93 (m,2H),2.75-2.71(m,1H),2.65-2.61(m,1H),1.92(s,2H),1.74-1.71(m,1H), 1.64-1.59 (m,1H), 1.24-1.22 (m,1H); $^ { 1 3 } \\mathrm { C }$ NMR ( $1 2 5 ~ \\mathrm { M H z }$ $\\mathrm { C D C l } _ { 3 }$ ） 8: 160.28,156.33,147.09,141.79,133.16, 132.79,127.47,126.87,119.28,117.36,110.63,104.45,103.78,58.48,51.70,47.35,45.71,33.32,23.06;ESI-MS calculated for $\\mathrm { \\langle C _ { 1 9 } H _ { 1 9 } F N _ { 6 } O _ { \\cdot } ^ { \\cdot } }$ 1 $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ ,366.16, found 367.1. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5.1.4.(R)-2-(5-(3-amnopiperidin-1-yl)-7-oxothiazolo[5,4-dpyrimidin-6(7H)-yl)methyl)-4-fluorobenzonitrile (4c). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Compound 4c was prepared in a manner identical to that described for 4a as yellow oil. Yield: $3 6 . 4 \\%$ ： $\\mathrm { ^ 1 H }$ NMR( $ { 4 0 0 } ~  { \\mathrm { M H z } }$ ， $\\mathrm { C D C l } _ { 3 }$ ）8:8.48 (s,1H),7.68-7.67 (m,1H),7.43-7.41 (m,1H),7.09 (s,1H),5.74 (s,2H), 4.41-4.37 (m,1H),3.79-3.63 (m,2H),3.09-3.03 (m,1H),2.87 (s,1H),1.97 (s,2H),1.83-1.76 (m,1H),1.49-1.47 (m,1H),1.24-1.22 (m,1H); $^ { 1 3 } \\mathrm { C }$ NMR (125 MHz, CDCl3) 8: 167.08,163.47,156.81, 152.55,147.56, 143.78, 133.64,119.05,115.88,114.63,114.25,106.82, 50.90,50.13,42.75,37.10,36.43,23.07; ES1-MS calculated for （ $\\mathrm { ( C _ { 1 8 } H _ { 1 7 } F N _ { 6 } O S }$ ） $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ ,384.12, found 385.1. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5.1.5.(R)-2-(2-(3-aminopiperidi--yl)--methyl-6-oxo-67-dihydro-1H-purin--yl)methyl)-4-fluorobenzoitrile (4d). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Compound 4d was prepared in a manner identical to that described for 4a as yellow oil. Yield: $3 8 . 3 \\%$ $\\mathrm { ^ 1 H }$ NMR(400 MHz, $\\mathrm { C D C l } _ { 3 }$ )8: 8.04 (s,1H),7.81 (s,1H),7.39 (s,1H),7.11-7.04 (m,1H),5.49 (s,2H),4.73 (s,3H), 4.30-4.17 (m,1H),3.43 (s,1H),2.96 (s,2H),2.76(s,1H),1.99 (s,2H),1.63 (s,1H),1.41 (m,1H),1.22 (s,1H); $^ { 1 3 } \\mathrm { C }$ NMR (125 MHz, CDCl3) 8: 167.06,163.12, 156.84,152.09,147.54, 144.43,133.68,115.84,115.51,114.28, ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "106.85, 50.92, 50.12, 42.72, 36.48, 33.34, 23.07; ES1-MS calculated for $\\cdot$ $\\left[ \\mathbf { M } + \\mathbf { H } \\right] ^ { + }$ ，381.17, found   \n382.2. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.1.6.2-(2-chloro-4-oxo-4,5-dihydro-3H-pyrrolo[3,2-d]pyrimidin-3-yl)methyl)-4-fluorobenzonitrile (5) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Di-tert-butyl dicarbonate $( 2 . 6 2 \\mathrm { ~ g } , 1 2 . 0 \\mathrm { ~ m m o l } )$ was dropped to a mixture of 4a ( $3 . 6 6 \\mathrm { ~ g ~ }$ ，10.0 mmol） and triethylamine $( 1 . 1 1 \\ \\mathrm { g } , 1 1 . 0 \\ \\mathrm { m m o l } )$ ina round flask containing $6 0 ~ \\mathrm { m L }$ of dichloromethane in room temperature,and the solution was stirred in room temperature overnight.The reaction mixture was poured into water ( $\\mathrm { 1 0 0 ~ m L }$ ）and extracted with ethyl acetate ( $1 0 0 ^ { * } 3 \\mathrm { ~ m L }$ ).The organic layer was combined and dried with anhydrous sodium sulphate,and filtered.The resulting filtrate wasconcentrated in vacuo and then purified by flash chromatography to yield the title compound 5 as white foam ( $ { 4 . 2 1 \\mathrm { ~ g ~ } }$ yield $9 0 . 4 \\%$ ） $\\mathrm { ^ { 1 } H }$ NMR(400 MHz,DMSO- ${ \\bf \\ddot { d } } _ { 6 }$ )8: 11.97 (s,1H), 7.98-7.94 (m,1H),7.38-7.37 (m,1H),7.35-7.29 (m,1H),6.86-6.79 (m,2H),6.32-6.31(m,1H),5.48-5.42 (m,2H), 3.39-3.37 (m,1H),3.09-2.99 (m,2H),2.66-2.54 (m,2H),1.77 (m,1H),1.75 (m,1H),1.72-1.68 (m,1H), 1.53-1.47 (m,1H),1.36-1.35 (m,1H),1.34 (s,9H);ESI-MS calculated for $( \\mathrm { C } _ { 2 4 } \\mathrm { H } _ { 2 7 } \\mathrm { F N } _ { 6 } \\mathrm { O } _ { 3 } )$ 1 $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ ，466.21, found 467.1. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.1.7. (R)-tert-butyl 1-(3-(2-cyano-5-morpholinobenzyl)-4-oxo-4,5-dihydro-3H-pyrrolo[3,2-lpyrimidin-2-yl)piperidin-3-ylcarbmate (6a) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "A mixture of 5 $( 2 . 3 3 ~ \\mathrm { g } , 5 . 0 ~ \\mathrm { m m o l } )$ ,morpholine (1.31 g,15.0 mmol),CuI ( $2 . 8 6 \\ \\mathrm { g }$ ，15.0 mmol) and ${ \\bf K } _ { 2 } \\bf C O _ { 3 }$ （204号 $( 1 . 3 8 \\mathrm { ~ g } , \\ 1 0 . 0 \\mathrm { ~ m m o l } )$ in a sealed tube containing $3 0 ~ \\mathrm { m L }$ of methylsulfinylmethane was heated at $1 2 0 ^ { \\circ } \\mathrm { C }$ in $\\mathbf { A r } _ { 2 }$ atmosphere overnight. The reaction mixture was subsequently cooled to room temperature and poured into water $\\mathrm { 8 0 ~ m L }$ ）and extracted with ethyl acetate ( $\\mathrm { 8 0 ^ { * } 3 \\ m L }$ ). The organic layer was combined and dried with anhydrous sodium sulphate,and filtered.The resulting filtrate was concentrated in vacuo and then purified by flash chromatography to yield the title compound 6a as light-yellow solid ( $1 . 2 6 \\ \\mathrm { g }$ yield $4 7 . 4 \\%$ ） $\\mathrm { ^ 1 H }$ NMR ( ${ \\bf \\zeta } ^ { } 4 0 0 ~ \\mathrm { M H z }$ $\\mathrm { C D C l } _ { 3 }$ )8: 10.59 (s,1H),7.52-7.50 (m,1H),7.34-7.32 (m,1H),6.73-6.70 (m,1H),6.44-6.43 (m,1H),6.38 (s,1H), 5.53 (s,2H),4.91 (s,1H),3.77 (s,1H),3.74-3.72 (m,4H),3.40-3.37 (m,1H),3.11-3.09(m,4H),3.01 (s,1H), 2.88-2.86 (m,2H),1.82 (s,2H),1.70 (s,1H),1.48 (m,1H),1.42 (s,9H); ESI-MS calculated for $( \\mathrm { C } _ { 2 8 } \\mathrm { H } _ { 3 5 } \\mathrm { N } _ { 7 } \\mathrm { O } _ { 4 } ,$ [M $+ \\mathrm { H J } ^ { + }$ ,533.28,found 534.3. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.1.8.(R)-2-(2-(3-amnpiperidin-1-yl)-4-oxo-4,5-dhydro-3H-pyrolo[32-dprimidin--yl)methyl)-4-morpolino benzonitrile hydrochloride (7a) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Compound 6a $( 1 . 2 0 \\ \\mathrm { g } , 2 . 2 \\ \\mathrm { m m o l } )$ ）was dissolved in $3 0 \\mathrm { m L }$ saturated HCl/MeOH solution and stirred overnight at room temperature.The reaction solution was concentrated in vacuo to give a yelow solid.The solid was suspended in $5 0 \\mathrm { m L }$ aether and filtered. The filter cake was washed by aether and dried to yield the title compound 7a as light-yellow solid $_ { ( 0 . 9 1 \\mathrm { ~ g ~ } }$ yield $8 5 . 8 \\%$ ） $\\mathrm { ^ 1 H }$ NMR ( ${ \\bf \\zeta } 4 0 0 ~ \\mathrm { M H z }$ ,DMSO ${ \\bf \\cdot d } _ { 6 }$ )S: 12.05-11.98 (m,1H),8.26-8.14 (m,3H),7.59-7.57 (m,1H),7.37-7.36 (m,1H),6.93-6.91(m,1H),6.53-6-51(m,1H),6.32 (s,1H),5.39-5.26 (m, 2H),3.46-3.42 (m,4H),3.35-3.26 (m,1H),3.13-3.12 (m,2H),3.03-3.01(m,4H),2.96-2.93 (m,2H),2.67 (m,1H), 1.98 (s,1H),1.75-1.73 (m,1H),1.54-1.51 (m, 2H); $^ { 1 3 } \\mathrm { C }$ NMR(125 MHz,MeOD) 8: 155.41,153.64,152.64, 140.54,134.33,133.09,131.18,129.75,118.24,115.31,114.55,113.31,97.69,66.08,51.88,50.95,50.08,46.61, 29.74,27.35,22.13; ESI-MS calculated for $( \\mathrm { C } _ { 2 3 } \\mathrm { H } _ { 2 7 } \\mathrm { N } _ { 7 } \\mathrm { O } _ { 2 } )$ $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ ,433.22, found 434.2. 5.1.9.(R)-2-(-(-aminopiperidin-1-yl)-4-oxo-4,5-dihydro-3H-pyrrolo[3,2-dlpyrimidin-3-yl)methyl)-4-(dimethyla mino)benzonitrile (7b). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Compound 7b was prepared in a manner identical to that described for $\\mathbf { 7 a }$ as yellow solid. Yield (two steps): $3 5 . 3 \\%$ $\\mathrm { ^ { 1 } H }$ NMR (400 MHz, CDCl3) 8: 11.08 (s,1H), 7.44-7.42 (d, $J = 8 . 8 \\ \\mathrm { H z }$ ,1H), 7.25-7.24 (d, $J = 2 . 8 ~ \\mathrm { H z }$ ,1H), 6.50-6.47 (dd, $J = 8 . 8 \\ \\mathrm { H z }$ $J = 2 . 4 ~ \\mathrm { H z }$ ，1H),6.40-6.39 (d, $J = 2 . 8 ~ \\mathrm { H z }$ ,1H),6.40-6.39 (d, $J { = } 2 . 8 \\ \\mathrm { H z }$ ,1H),6.07-6.06 (d, $J = 2 . 4 ~ \\mathrm { H z }$ ,1H),5.55-5.46 (m,2H),3.24-3.21 (m,1H),3.06-3.02 (m,1H),2.99 (s,2H),2.88 (s,1H),2.82 (s, 6H),2.77-2.72 (m,2H),1.92-1.89 (m,1H),1.77-1.75 (m,1H),1.66-1.58 (m,1H),1.35-1.25 (m,1H); $^ { 1 3 } \\mathrm { C }$ NMR (125 MHz, ${ \\mathrm { C D C l } } _ { 3 } + .$ MeOD)8:156.14,154.29,152.82,143.33,142.39,134.05,128.51,119.25,115.17,110.27, 108.32,103.13,95.33,56.85,51.78,46.95,45.74,39.62,29.60,22.59;ES1-MS calculated for $( \\mathbf { C } _ { 2 1 } \\mathbf { H } _ { 2 5 } \\mathbf { N } _ { 7 } \\mathbf { O } ) ,$ $[ \\mathbf { M } + \\mathbf { \\Gamma }$ $\\mathrm { H J } ^ { + }$ ,391.21,found 392.2. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5.1.10.(R)-2-(2-(3-aminopiperidin-1-yl)--bromo-4-oxo-4,5-dihydr-3H-pyrrolo[3,2-dpyrimdin-3-yl)methyl)-4-fl uorobenzonitrile hydrochloride (9a). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Compound 9a was prepared in a manner identical to that described for 4a as yellow solid with one hydrochloride. Yield (last step): $6 3 . 2 \\%$ ： $^ 1 \\mathrm { H }$ NMR ( ${ \\bf \\Psi } _ { 4 0 0 } \\bf { M H z }$ ,DMSO- ${ \\bf { \\cdot d } } _ { 6 }$ )8:12.43 (s,1H),8.23 (s,3H), 7.97-7.93 (m,1H), 7.58-7.57 (d, $J { = } 3 . 2 \\mathrm { H z }$ ,1H),7.35-7.30 (m,1H),7.00-6.98 (m,1H),5.52-5.33 (dd, $J = 1 6 . 0 \\mathrm { H z }$ $J = 6 3 . 6$ （204号 Hz,2H),3.45-3.38 (m,1H),3.26 (m,1H),3.02 (s,2H),2.74 (s,1H),1.98-1.97(m,1H),1.80 (s,1H),1.57(s,2H); $^ { 1 3 } \\mathrm { C }$ NMR ( $1 2 5 ~ \\mathrm { M H z }$ ${ \\mathrm { C D C l } } _ { 3 } + .$ MeOD) 8: 165.96,163.94,154.58,145.87,140.13,136.39,128.32,117.10,115.96, 115.64,115.37,106.99,90.12, 52.70,52.04,46.86,45.91,27.65,22.15;ES1-MS calculated for $( \\mathrm { C _ { 1 9 } H _ { 1 8 } B r F N _ { 6 } O } )$ （20 $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ ,444.07,446.07, found 445.1, 447.1. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5.1.11.(R)-2-(2-(3-aminopiperidin-1-yl)-6-dibrom-4-oxo4,-dihydro-3H-pyrolo3-dpyrimidin--yl)mthl) ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "-4-fluorobenzonitrile hydrochloride (9b). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Compound 9b was prepared in a manner identical to that described for 4a as yellw solid with one hydrochloride. Yield (last step): $6 6 . 2 \\%$ $\\mathrm { ^ { 1 } H }$ NMR (400 MHz,DMSO- $\\cdot \\mathbf { d } _ { 6 }$ )8: 13.32 (s,1H),8.36 (s,3H),7.92 (s,1H), 7.30 (s,1H),7.02-7.01 (m,1H),7.00-6.98 (m,1H),5.49-5.30 (dd, $J = 1 4 . 4 \\ : \\mathrm { H z }$ $J = 6 2 . 4 \\ : \\mathrm { H z }$ ,2H),3.38 (s,1H),3.23 (s,1H),3.00-2.98 (m,2H),2.73 (s,1H)，1.97 (s,1H),1.79 (s,1H),1.56 (s,2H); $^ { 1 3 } \\mathrm { C }$ NMR( $1 2 5 ~ \\mathrm { M H z }$ CDCl3+MeOD) 8: 165.90,163.88,155.15,153.64,145.54,140.73,136.41,117.01,116.71,115.51,115.33,114.46, 106.89,93.25,52.56,51.96,46.81,46.16,27.67,22.14;ES1-MS calculated for $( \\mathrm { C _ { 1 9 } H _ { 1 7 } B r _ { 2 } F N _ { 6 } O } \\$ 0 $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ ,523.98, found 525.0. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "5.1.12.(R)-2-(2-(3-aminopiperidin-1-yl)-7-fluoro-4-oxo4,5-dihydro-3H-pyrolo3,-dpyrimidin-3-yl)methyl)-4-fl uorobenzonitrilehydrochloride $( 9 c )$ ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Compound 9c was prepared in a manner identical to that described for 4a as yellw solid with one hydrochloride. Yield (last step): $5 6 . 2 \\%$ $\\mathrm { ^ 1 H }$ NMR ( ${ \\bf \\dot { 4 0 0 M H z } }$ ,DMSO- ${ \\bf { \\cdot d } } _ { 6 }$ )8: 12.35-12.34 (d, $J { = } 2 . 4 \\ : \\mathrm { H z }$ ,1H),8.23 (s, 3H), 7.97-7.94 (m,1H), 7.57-7.56 (d, $J = 3 . 2 \\ \\mathrm { H z }$ ,1H),7.36-7.31 (m,1H),7.07-6.97 (m,1H), 5.52-5.33 (m,2H), 3.41-3.37 (m,1H),3.25 (s,1H),3.07-3.03 (m,2H),2.74 (s,1H),2.00-1.98 (m,1H),1.80 (s,1H),1.59 (s,2H); $^ { 1 3 } \\mathrm { C }$ NMR(125 MHz,MeOD)8:166.57,164.14,154.99,154.01,144.88,138.39,135.67,125.82,116.31,115.34, 114.82,106.71,105.12,51.89,51.19,45.67,33.31,27.54,21.29; ES1-MS calculated for $\\left( \\mathrm { C _ { 1 9 } H _ { 1 8 } F _ { 2 } N _ { 6 } O } \\right) \\left[ \\mathrm { M } + \\mathrm { H } \\right] ^ { + }$ 384.15, found 385.1. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "5.1.13.(R)-2-(2-(3-aminopiperidin-1-yl)-6,-difluor-4ox-4,5-diydr-3H-pyrrolo[3,2-dpyrimidin-ylthyl   \n4-fluorobenzonitrile(9d). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Compound 9d was prepared in a manner identical to that described for 4a as white foam. Yield (last step): $5 8 . 9 \\%$ $\\mathrm { ^ 1 H }$ NMR (400 MHz, $\\mathrm { C D C l } _ { 3 }$ )8: 7.68-7.66 (m,1H),7.06-7.02 (m,1H),6.66-6.63 (m,1H),5.57 (s,2H),3.63 (s,2H),3.24-3.22 (m,1H),3.06-2.99 (m,2H),2.90-2.84 (m,1H),2.78-2.73 (m,1H),1.96-1.93(m,1H),1.80-1.77 (m,1H),1.67-1.58 (m,1H),1.33-1.25 (m,1H); $\\cdot$ NMR(125 MHz, CDCl3) δ: 166.34, 163.57, 154.98, 154.32, 145.36,139.05,135.90,126.45,116.97,115.42,114.21,106.98,105.77,52.47,51.72,46.01,34.29,27.56,21.39; ESI-MS calculated for $\\mathrm { ( C _ { 1 9 } H _ { 1 7 } F _ { 3 } N _ { 6 } O ) }$ $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ ,402.14,found 403.1. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "5.1.14.2-(2-chloro-5-(methylsulfonyl)-4-oxo-4,5-dihydro-3H-pyrrolo[3,2-dpyrimidin-3-yl)methyl)-4-fluorobe nitrile (8e) ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Methanesulfonyl chloride $( 2 . 2 8 \\mathrm { \\ g } , 2 0 . 0 \\mathrm { \\ m m o l } )$ was dropped to a mixture of 3a $( 3 . 0 3 \\mathrm { ~ g } , 1 0 . 0 \\mathrm { ~ m m o l } )$ and triethylamine ( $2 . 2 3 { \\mathrm { ~ g } }$ ，22.0 mmol) in a round flask containing $6 0 ~ \\mathrm { m L }$ ofN,N-dimethylformamide in $0 ^ { \\circ } \\mathrm { C }$ ，and the solution was stirred in room temperature overnight.The reaction mixture was poured into water ( $\\mathrm { 1 0 0 ~ m L }$ ）and extracted with ethyl acetate ( $\\mathrm { 1 0 0 ^ { * } 3 ~ m L }$ ).The organic layer was combined and washed with saturated sodium carbonate aqueous solution,water,and saturated salt solution successively,and dried with anhydrous sodium sulphate,and filtered.The resulting filtrate wasconcentrated in vacuo and then purified by flash chromatography to yield the title compound 8e as white solid ( $3 . 2 6 \\ \\mathrm { g }$ yield $8 5 . 7 \\%$ ） $\\mathrm { ^ 1 H }$ NMR(400 MHz,DMSO- $\\mathbf { \\cdot d } _ { 6 }$ )8: 8.06-8.03 (m,1H), 7.94-7.93 (d, $J { = } 2 . 8 ~ \\mathrm { H z }$ ,1H),7.43-7.39 (m,1H), 7.31-7.29 (d, $J = 9 . 6$ Hz,1H),6.73 (s,1H),5.60 (s,2H), 3.85 (s,3H);ESI-MS calculated for $( \\mathrm { C _ { 1 5 } H _ { 1 0 } C l F N _ { 4 } O _ { 3 } S } )$ 0 $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ ,380.01,found 381.0. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "5.1.15.(R)-2-(2-(3-aminopiperidin-1-yl)-5-(methysulfonyl)-4-oxo-4,5-dihydr-3H-pyrrolo[3,2-dpyrimidi--yl)m ethyl)-4-fluorobenzonitrile $( 9 e )$ ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Compound 9e was prepared in a manner identical to that described for 4a as white solid. Yield: $6 7 . 5 \\%$ ： $\\mathrm { ^ 1 H }$ NMR(400 MHz,MeOD) δ: 7.85-7.83 (m,1H),7.80-7.79 (d, $J { = } 3 . 2 \\mathrm { H z }$ ,1H),7.24-7.20 (m,1H),6.98-6.95 (d, $J =$ 9.6 Hz, 1H), 6.55-6.54 (d, $J { = } 2 . 8 \\mathrm { H z }$ ,1H),5.78 (s,2H),3.72 (s,3H),3.38-3.33 (m,1H),3.19 (s,1H),2.94-2.89 (m, 1H),2.86-2.80 (m,1H),2.70-2.65 (m,1H),1.99-1.97(m,1H),1.80-1.77 (m,1H),1.70-1.61(m,1H),1.33-1.25 (m, 1H); $^ { 1 3 } \\mathrm { C }$ NMR (125 MHz, Me0D) 8: 166.31,164.28,155.44,154.26,145.44,143.38,135.59,128.53,116.15, 115.10,114.07,106.61,102.45,58.12,51.34,47.03,32.68,32.23,23.18;ES1-MS calculated for $( \\mathrm { C } _ { 2 0 } \\mathrm { H } _ { 2 1 } \\mathrm { F N } _ { 6 } \\mathrm { O } _ { 3 } \\mathrm { S } )$ $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ ,444.14, found 445.1. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "5.1.16.(R)-25-(-(3-amnopiperidin-1-yl)-4-oxo-3H-pyrrolo[3,2-dpyrimidine-,5(4H)-diyl)bis(methylene)bis(4-fl uorobenzonitrile) hydrochloride(9f). ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Compound 9f was prepared in a manner identical to that described for 9e as white solid with one hydrochloride. Yield (last step): $5 8 . 9 \\%$ ： $\\mathrm { ^ 1 H }$ NMR(400 MHz,MeOD) δ: 7.69-7.67 (m,1H),7.65-7.64 (m,1H), 7.54 (s,1H),7.20-7.18 (m,1H),7.16-7.10 (m,2H),6.49 (s,2H),5.66 (s,2H),5.39-5.31 (m,2H),3.82-3.81 (m, 1H),3.58 (s,1H),3.46-3.44 (m,1H),3.32-3.30 (m,1H),3.19 (s,1H),2.19-2.17 (m,1H),1.96-1.93(m,1H), 1.86-1.85 (m,1H),1.70-1.69 (m,1H); $^ { 1 3 } \\mathrm { C }$ NMR(125 MHz,MeOD) δ:166.10,165.82,164.07,163.78,155.20, 153.18,144.73,143.33,135.54,133.90,117.59,116.32,115.92,115.75,114.67,114.48,114.09,106.87,106.42, 99.83,51.93,51.02,49.40,48.49,46.58,27.35,21.97;ES1-MS calculated for $( \\mathrm { C } _ { 2 7 } \\mathrm { H } _ { 2 3 } \\mathrm { F } _ { 2 } \\mathrm { N } _ { 7 } \\mathrm { O } ) _ { \\downarrow }$ 1 $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ ,499.19, found 500.2. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "5.1.17. (R)-tert-butyl 1-(7-bromo-3-(2-cyano-5-fluorobenzyl)-4-oxo-4,5-dihydro-3H-pyrrolo[3,2-dpyrimidin-2-yl)piperidin-3-ylcarbam ate (10). ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Compound10 was prepared from 9a in a manner identical to that described for 5 as yelow solid.Yield: $8 8 . 7 \\%$ $\\mathrm { ^ 1 H }$ NMR ( ${ \\bf \\dot { 4 0 0 } M H z }$ $\\mathrm { C D C l } _ { 3 }$ ) 8: 10.87 (s,1H),7.71-7.68 (m,1H),7.34-7.33 (d, $J = 2 . 8 ~ \\mathrm { H z }$ ,1H), 7.06-7.02 (m,1H),6.69-6.67 (d, $J = 7 . 6 ~ \\mathrm { H z }$ ,1H),5.56 (s,2H),5.08 (s,1H),3.77 (s,1H),3.37-3.33 (m,1H),3.09 (s,1H), 3.03-2.96 (m,2H),1.84 (s,2H),1.56-1.53 (m,1H),1.41 (s,9H),1.27-1.26 (m,1H);ESI-MS calculated for （204号 $( \\mathrm { C } _ { 2 4 } \\mathrm { H } _ { 2 6 } \\mathrm { B r F N } _ { 6 } \\mathrm { O } _ { 3 } )$ 0 $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ ,544.12, 546.12, found 545.1, 547.1. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "5.1.18. (R)-tert-butyl 1-(3-(2-cyano-5-fluorobenzyl)-4-oxo-7-(thiophen-3-yl)-4,5-dihydro-3H-pyrrolo3,2-dpyrimidin--ylpiperidin--y lcarbamate (lla). ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Amixture of 10 (1.09g， 2.0mmol)， thiophen-3-ylboronicacid (0.31g， 2.4mmol), 1,1'-Bis(diphenylphosphino)ferrocene-palladium(II)dichloride dichloromethane complex ( $\\mathrm { P d } ( \\mathrm { d p p f } ) \\mathrm { C l } _ { 2 }$ .DCM,0.10 （204 $\\mathrm { g } , 0 . 1 2 \\mathrm { m m o l } _ { . }$ and $\\mathrm { K _ { 2 } C O _ { 3 } } \\left( 0 . 6 9 \\ \\mathrm { g } , 5 . 0 \\ \\mathrm { m m o l } \\right) ,$ in a sealed tube containing $1 0 ~ \\mathrm { m L }$ of 1,4-dioxane and 2mL water was heated at $1 0 0 ^ { \\circ } \\mathrm { C }$ in $\\mathbf { A r } _ { 2 }$ atmosphere overnight. The reaction mixture was subsequently cooled to room temperature and poured into water $\\mathrm { 8 0 ~ m L }$ ）and extracted with ethyl acetate ( $1 0 0 ^ { * } 3 \\ \\mathrm { m L }$ ). The organic layer was combined and washed with saturated sodium carbonate aqueous solution,water,and saturated salt solution successively,and dried with anhydrous sodium sulphate,and filtered.The resulting filtrate was concentrated in vacuo and then purified by flash chromatography to yield the title compound 1la as white solid( $ { \\mathbf { 0 . 8 6 \\mathrm { ~ g ~ } } }$ yield $78 . 3 \\%$ ） $\\mathrm { ^ 1 H }$ NMR (400 MHz, $\\mathrm { C D C l } _ { 3 }$ ) 8: 11.54 (s,1H), 7.98-7.97 (d, $J { = } 2 . 0 \\ \\mathrm { H z }$ ,1H),7.68 (s,1H),7.56-7.55 (m,2H),7.37-7.36 (m, 1H),7.01-6.99 (m,1H),6.74-6.72 (m,1H),5.68-5.53 (m,2H),4.76 (s,1H),3.86 (m,1H),3.41-3.39 (m,1H), 3.06-3.01 (m,2H),2.90(s,1H),1.88-1.83 (m,2H),1.74(s,1H),1.47 (s,1H),1.41(s,9H);ES-MS calculated for （204 $( \\mathrm { C } _ { 2 8 } \\mathrm { H } _ { 2 9 } \\mathrm { F N } _ { 6 } \\mathrm { O } _ { 3 } \\mathrm { S } )$ $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ ,548.20, found 549.2. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "5.1.19.(R)-2-(2-(3-aminopiperidin-1-yl)-4-ox-7-(tiophen-3-yl)-4,5-dhydro-3H-pyrrolo[3,2-dlpyrimidin--yl)e thyl)-4-fluorobenzonitrilehydrochloride $( I 2 a )$ ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Compound 12a was prepared from 1la in a manner identical to that described for7a as white solid.Yield: $8 9 . 1 \\%$ $\\mathrm { ^ 1 H }$ NMR(400 MHz,DMSO- $\\mathrm { d } _ { 6 }$ )S: 12.13-12.12 (d, $J = 2 . 8 ~ \\mathrm { H z }$ ,1H), 8.16 (s,1H),8.02 (d, $J = 1 . 2 \\ : \\mathrm { H z }$ ，1H), 8.01-7.96 (m, 1H), 7.86-7.85 (d, $J = 2 . 8 ~ \\mathrm { H z }$ ,1H),7.74-7.73 (m,1H)，7.60-7.58 (m,1H),7.377.32 (m，1H), 6.98-6.95 (m,1H),5.56-5.38 (m,2H),3.48-3.46 (m,1H),3.36 (s,1H),3.09-3.03 (m,2H),2.82 (s,1H),1.99 (s, 1H),1.84 (s,1H), 1.60-1.58 (m, 2H); $^ { 1 3 } \\mathrm { C }$ NMR ( $1 2 5 ~ \\mathrm { M H z }$ DMSO- ${ \\bf \\cdot d } _ { 6 } +$ MeOD) 8:166.04,164.02,154.91,154.09, 146.17,139.64,136.41,134.66,126.73,116.23,115.33,112.97,107.16,52.85,52.15,46.96,45.73,27.84,22.28; ESI-MS calculated for $( \\mathrm { C } _ { 2 3 } \\mathrm { H } _ { 2 1 } \\mathrm { F N } _ { 6 } \\mathrm { O S }$ ） $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ ,448.15, found 449.1. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "5.1.20.(R)-2-(2-(3-aminopiperidin-1-yl)-4-ox-7-(tiophen-3-yl)-4,5-dhydro-3H-pyrrolo[3,2-dlpyrimidin--yl)e thyl)-4-fluorobenzonitrilehydrochloride(12b). ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Compound 12b was prepared in a manner identical to that described for 12a as white solid. Yield (two steps): $6 2 . 6 \\%$ $\\mathrm { ^ 1 H }$ NMR (400 MHz,DMSO-d6)8: 12.21 (s,1H),8.30 (s,3H),7.93 (s,1H),7.75 (s,1H),7.65-7.43 (m,1H), 7.36-7.31 (m,2H),7.06-6.85 (m,2H),5.54-5.36 (m,2H),3.26-3.15 (m,2H),3.09-3.00 (m,2H),2.82(s,1H),1.97 (s,1H),1.82 (s,1H),1.58 (s, 2H); $^ { 1 3 } \\mathrm { C }$ NMR ( $1 2 5 ~ \\mathrm { M H z }$ ,DMSO- ${ \\bf \\cdot d } _ { 6 }$ ） 8:166.08,164.04,154.86,154.24,146.04, 139.10,136.48,135.73,127.70,125.27,123.66,122.87,117.15,116.14,115.35,111.83,107.14,52.94,52.13, 46.83,45.86,27.89,22.24;ESI-MS calculated for $( \\mathrm { C } _ { 2 3 } \\mathrm { H } _ { 2 1 } \\mathrm { F N } _ { 6 } \\mathrm { O S } ^ { \\cdot }$ ） $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ ,448.15, found 449.1. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "5.1.21.(R)-2-(2-(3-aminopiperidin-1-yl)-7-(4-fluorophenyl)-4-oxo-4,5-dihydr-3H-prrolo[3,2-dpyrimidin--yl) ethyl)-4-fluorobenzonitrilehydrochloride(12c). ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Compound 12c was prepared in a manner identical to that described for 12a as white solid.Yield (two steps): （204 $6 6 . 3 \\%$ $\\mathrm { ^ { 1 } H }$ NMR ( ${ \\bf \\dot { 4 0 0 M H z } }$ ,DMSO $\\cdot \\mathbf { d } _ { 6 }$ ) 8: 12.21 (s,1H),8.25 (s,3H),8.12 (s,2H),7.95 (s,1H),7.88 (s,1H),7.3 (s,1H),7.22-7.20 (m,2H),6.99-6.97 (m,1H),5.54-5.38 (m,2H),3.46-3.44 (m,2H),3.07-3.01 (m,2H),2.84 (s, 1H),1.98 (s,1H),1.83 (s,1H),1.59 (s,2H); $^ { 1 3 } \\mathrm { C }$ NMR ( ${ 1 2 5 } \\mathrm { M H z }$ ,DMSO- ${ \\bf \\ddot { d } } _ { 6 }$ ）8:161.88,160.05,154.95,153.99, 146.19,139.67,136.47,130.90,128.04,126.16,117.19,116.66,115.75,115.21,107.16,52.93,51.98,46.84, 45.77,27.89,22.13;ESI-MS calculated for $( \\mathrm { C } _ { 2 5 } \\mathrm { H } _ { 2 2 } \\mathrm { F } _ { 2 } \\mathrm { N } _ { 6 } \\mathrm { O } ) ;$ $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ ,460.18,found 461.2. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "5.1.22.(R)-2-(-(-aminopiperidin-1-yl)-7-(4-(methylsulfonyl)phenyl)-4-ox-4,5-dhydro-3H-pyrrolo[,-dpimi din-3-yl)methyl)-4-fluorobenzonitrile hydrochloride(12d). ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Compound 12d was prepared in a manner identical to that described for 12a as white solid. Yield (two steps): $6 4 . 8 \\%$ ： $\\mathrm { ^ 1 H }$ NMR (400 MHz, MeOD) 8: 8.47 (s,2H),8.06 (s,3H),7.94 (s,1H),7.76 (s,2H),7.68 (s,1H),7.34 (s, 1H),7.13 (s,1H),5.73-5.64 (m,2H),3.73-3.65 (m,2H),3.31 (s,1H),3.26 (s,1H),3.26 (s,3H),2.26 (s,1H), 2.00-1.92 (m,2H),1.77 (s,1H); $^ { 1 3 } \\mathrm { C }$ NMR( $1 2 5 ~ \\mathrm { M H z }$ ，DMSO $\\mathbf { \\cdot d _ { 6 } } \\mathbf { + M e O D }$ ）8:166.22,164.22,154.04，140.50, 139.73,137.34,135.86,132.42,127.34,127.06,126.33,116.73,115.46,114.96,106.86,52.60,51.83, 47.12, 45.70,43.41,27.79,22.04;ESI-MS calculated for $( \\mathrm { C } _ { 2 6 } \\mathrm { H } _ { 2 5 } \\mathrm { F N } _ { 6 } \\mathrm { O } _ { 3 } \\mathrm { S } )$ 0 $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ ,520.17,found 521.2. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "5.1.23.(R)-2-(2-(3-aminopiperidin-1-yl)--(-(methylsulfonyl)phenyl)-4oxo-4,5-dihydro-3H-pyrrolo[3,-dpi din-3-yl)methyl)-4-fluorobenzonitrile $( I 2 e )$ ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Compound 12e was prepared in a manner identical to that described for 12a as light-yelow solid. Yield (two steps): $7 0 . 5 \\%$ $\\mathrm { ^ 1 H }$ NMR (400 MHz, MeOD) S: 8.23-8.21 (d, $J { = } 8 . 0 \\mathrm { H z }$ ,1H),7.86-7.82 (m,1H),7.78-7.74 (m,1H), 7.70-7.68 (m,2H),7.65-7.61 (m,1H),7.26-7.22 (m,1H),7.00-6.97 (d, $J { = } 9 . 2 \\operatorname { H z }$ ,1H), 5.67-5.56 (m,2H),3.31 (s, ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "2H),3.31 (s,1H),3.10-3.08 (m,2H),2.89 (s,3H),2.86-2.77 (m,2H),2.00-1.97 (m,1H),1.79-1.62 (m,2H),   \n1.40-1.32 (m, 1H); $^ { 1 3 } \\mathrm { C }$ NMR ( $1 2 5 ~ \\mathrm { M H z }$ ，MeOD)8:166.33,164.30,155.68,154.39,145.33，145.26,141.63,   \n139.81,135.75,134.59,132.80,129.71,128.18,127.48,116.28,115.26,115.08,114.92,114.73,113.56,106.62,   \n55.38,51.28,46.95,45.47,41.89,30.34,22.26; ES1-MS calculated for $( \\mathrm { C } _ { 2 6 } \\mathrm { H } _ { 2 5 } \\mathrm { F N } _ { 6 } \\mathrm { O } _ { 3 } \\mathrm { S } )$ $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ ,520.17, found   \n521.2. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "5.1.24.()-2-(2-(3-aminopiperidin-1-yl)--(3-(methylsulfonyl)phenyl)-4ox-4,5-diydro-3H-pyrrolo[,-dprimi din-3-yl)methyl)-4-fluorobenzonitrile(12f). ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Compound 12f was prepared in a manner identical to that described for 12a as light-yelow solid.Yield (two steps): $7 2 . 8 \\%$ $\\mathrm { ^ 1 H }$ NMR (400 MHz, MeOD) δ: 8.98 (s,1H), 8.31-8.29 (d, $J = 7 . 6 ~ \\mathrm { H z }$ ,1H), 7.91 (s,1H), 7.86-7.82 (m,1H), 7.80-7.78 (d, $J { = } 8 . 0 \\mathrm { H z }$ ,1H),7.66-7.62 (m,1H),7.24-7.19 (m,1H),6.91-6.89 (dd, $J { = } 2 . 0 \\mathrm { H z }$ $J { = } 8 . 4 \\ : \\mathrm { H z }$ 1H),5.65-5.60 (m,2H),3.50-3.48 (m,1H),3.20 (s,3H),3.18 (s,1H),3.15-3.11 (m,1H),2.95-2.89 (m,1H), 2.87-2.81 (m,1H),2.06-2.02 (m,1H),1.82-1.72 (m,2H),1.38-1.36 (m,1H); $^ { 1 3 } \\mathrm { C }$ NMR ( $1 2 5 ~ \\mathrm { M H z }$ ,MeOD) δ: 166.34,164.31,155.72,154.33,145.26,140.89,135.65,135.57,130.18,129.22,126.17,124.52,123.71,116.26, 115.23,115.05,114.65,114.38,106.78,57.28,51.43,46.98,45.38,43.15,31.70,22.99;ES1-MScalculated for $( \\mathrm { C } _ { 2 6 } \\mathrm { H } _ { 2 5 } \\mathrm { F N } _ { 6 } \\mathrm { O } _ { 3 } \\mathrm { S } )$ $\\mathrm { [ M + H ] } ^ { + }$ ,520.17,found 521.2 ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "5.1.25.(R)-2-(2(3-aminopiperidin--l)--(4-(isopropylsulfonyl)phenyl)--oxo4,5-dhydro-3H-pyrolo,pi midin-3-yl)methyl)-4-fluorobenzonitrilehydrochloride $( I 2 g )$ 元 ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Compound $\\mathbf { 1 2 g }$ was prepared in a manner identical to that described for 12aas light-yellow solid. Yield (two steps): $5 8 . 5 \\%$ ： $\\mathrm { ^ 1 H }$ NMR ( ${ \\bf \\dot { 4 0 0 } M H z }$ ,DMSO- ${ \\bf \\cdot d } _ { 6 }$ )8: 12.48-12.47 (d, $J = 2 . 8 ~ \\mathrm { H z }$ ,1H),8.43-8.41 (d, $J = 8 . 4 ~ \\mathrm { H z }$ ,2H), 8.32 (s,3H),8.13-8.12 (d, $J = 3 . 2 ~ \\mathrm { H z }$ ,1H),7.98-7.94 (m,1H), 7.83-7.81 (d, $J = 8 . 4 ~ \\mathrm { H z }$ ,2H),7.36-7.31 (m,1H), 7.04-7.01 (m,1H),5.55-5.39 (m,2H),3.54-3.51(m,1H),3.44-3.42 (m,1H),3.40-3.37(m,1H),3.15-3.07 (m,2H), 2.87 (s,1H),1.98 (s,1H),1.84 (s,1H),1.62 (s,2H),1.19-1.17 (d, $J = 2 6 . 8 ~ \\mathrm { H z }$ ，6H); $^ { 1 3 } \\mathrm { C }$ NMR ( $1 2 5 ~ \\mathrm { M H z } .$ DMSO- $\\cdot \\mathbf { d } _ { 6 }$ ）8: 166.87,164.54,154.88,154.47,147.85,140.35,140.03,136.41,133.35,129.35,127.79,126.13, 117.13,115.97,115.49,114.20,107.10,54.69,51.87,49.14,46.67,45.98,27.25,22.36,15.74;ES1-MScalculated for $( \\mathrm { C } _ { 2 8 } \\mathrm { H } _ { 2 9 } \\mathrm { F N } _ { 6 } \\mathrm { O } _ { 3 } \\mathrm { S } )$ 0 $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ ,548.20, found 549.1. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "5.1.26.(R)-4-(2-(3-aminopiperidin-1-yl)-3-(-cyano5-flurobenzl)-4-ox-4,5-dhydro-3H-pyrrolo[3,2-dpimidi $n$ -7-yl)benzenesulfonamidehydrochloride(12h). ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Compound 12h was prepared in a manner identical to that described for 12a as light-yelow solid.Yield (two steps): $6 0 . 8 \\%$ ， $^ 1 \\mathrm { H }$ NMR(400 MHz,DMSO- ${ \\bf \\ddot { d } } _ { 6 } ^ { \\cdot } { \\bf \\dot { d } } _ { 6 } ^ { \\cdot }$ ）S:12.40 (s,1H),8.29 (s,3H),8.29-8.27 (d, $J = 8 . 4 ~ \\mathrm { H z }$ ，2H), ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "8.05-8.04 (d, J= 3.2 Hz,1H), 7.98-7.95 (m,1H), 7.83-7.81 (d, $J = 4 . 2$ Hz, 2H),7.37-7.36 (m,1H), 7.34-7.32 (m   \n2H),7.04-7.01(m,1H),5.55-5.38 (m,2H),3.51-3.49 (m,1H),3.38-3.36 (m,1H),3.14-3.04 (m,2H),2.83(s,1H),   \n2.01-1.98 (m,1H),1.84 (s,1H),1.60-1.59 (m, 2H); $^ { 1 3 } \\mathrm { C }$ NMR ( $1 2 5 ~ \\mathrm { M H z }$ ,DMSO- $\\mathbf { \\cdot d } _ { 6 }$ ） 8:165.97,163.95,154.89,   \n154.31,146.01,141.15,140.14,137.92,136.40,127.24,126.33,126.01,117.14,115.95,115.43,114.70,107.09, ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "52.80,51.97,46.76,45.89,28.05,22.45;ES1-MS calculated for $( \\mathrm { C } _ { 2 5 } \\mathrm { H } _ { 2 4 } \\mathrm { F N } _ { 7 } \\mathrm { O } _ { 3 } \\mathrm { S } )$ 0 $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ ,521.16,found 522.1. 5.1.27.(R)-2-(-(-minopiperidin-1-yl)-7-(3-fluoro-4-(methylsulfonyl)phenyl)-4-ox-4,5-dihydro-3H-pyrrolo,2- dlpyrimidin-3-yl)methyl)-4-fluorobenzonitrile hydrochloride (12i). ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Compound12i was prepared in a manner identical to that described for 12a as light-yelow solid.Yield (two steps): $6 0 . 8 \\%$ $\\mathrm { ^ 1 H }$ NMR (400 MHz,DMSO- ${ \\bf \\ddot { d } } _ { 6 } ^ { \\cdot } { \\bf \\dot { d } } _ { 6 } ^ { \\cdot }$ )8: 12.57-12.56 (d, $J { = } 2 . 4 \\ : \\mathrm { H z }$ ,1H),8.26 (s,3H),8.23-8.23 (m,2H), 8.20-8.19 (d, $J = 3 . 2 ~ \\mathrm { H z }$ ,1H),7.98-7.94 (m,1H),7.85-7.81 (m,1H),7.37-7.32 (m,1H),7.07-7.04 (m,1H), 5.55-5.38 (m,2H),3.51 (s,1H),3.39 (s,1H),3.33 (s,3H),3.07 (s,2H),2.86 (s,1H),2.00-1.98 (m,1H),1.84(s, 1H),1.60-1.59 (m, 2H); $^ { 1 3 } \\mathrm { C }$ NMR( $1 2 5 ~ \\mathrm { M H z }$ ，DMSO- ${ \\bf \\ddot { d } } _ { 6 }$ ）8:163.94,160.51，158.52,154.81,143.07,140.40, 136.41,136.33,129.74,128.35,124.68,121.86,117.11,117.07,115.97,115.79,115.37,113.31,107.05, 52.74, 51.95,46.75,46.07,44.32,27.77,27.24; ES1-MS calculated for $( \\mathrm { C } _ { 2 6 } \\mathrm { H } _ { 2 4 } \\mathrm { F } _ { 2 } \\mathrm { N } _ { 6 } \\mathrm { O } _ { 3 } \\mathrm { S } )$ $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ ,538.16,found 539.1. 5.1.28.(R)-2-(-(3-aminopiperidin-1-yl)-7-(3-fluoro-4-(methylsulfonyl)phenyl)-4-oxo4,-dihydro-3H-pyl,- dlpyrimidin-3-yl)methyl)-4-fluorobenzonitrile (12j). ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Compound 12j was prepared in a manner identical to that described for 12aas light-yelow solid.Yield (two steps): $6 3 . 3 \\%$ $\\mathrm { ^ 1 H }$ NMR (400 MHz,MeOD) δ: 8.96 (s,1H), 7.92 (s,1H), 7.84 (m,2H), 7.77 (s,1H), 7.24 (s, 2H), 7.04-7.02 (d, $J { = } 9 . 2 \\mathrm { H z }$ ,1H),5.68-5.56 (m,2H),3.61-3.58 (m,1H),3.45 (s,1H),3.20 (s,3H),3.20-3.13 (m,2H), 2.94 (s,1H),2.16-2.14 (m,1H),1.89-1.83 (m,2H),1.62-1.60 (m,1H); $^ { 1 3 } \\mathrm { C }$ NMR(125 MHz, MeOD) δ: 166.30, 164.27,157.75,155.40,154.25,145.02,141.18,138.53,135.74,130.08,129.60,127.49,122.84,116.39,115.38, 115.19,114.40,108.59，106.78,53.74，,51.71，45.64，43.01，35.18,28.80，22.20；ES1-MS calculated for （20 $( \\mathrm { C } _ { 2 6 } \\mathrm { H } _ { 2 4 } \\mathrm { F } _ { 2 } \\mathrm { N } _ { 6 } \\mathrm { O } _ { 3 } \\mathrm { S } )$ ） $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ ,538.16, found 539.1. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "5.2.In vitro inhibition ofDPP-4,DPP-8 andDPP-9 ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Solutions of test compounds at varying concentrations (final concentration $\\leq 1 0 \\ \\mathrm { m M }$ ）were prepared in   \ndimethyl sulfoxide (DMSO) and diluted into assay buffer containing $2 0 ~ \\mathrm { m M }$ Tris (pH 7.4),20 mM KCl,and 0.1   \n$\\mathrm { m g / m L }$ BSA.Human DPP-IV( $\\mathrm { 2 . 1 \\ n M }$ final concentration） was added to the dilutions and pre-incubated for 10   \nminutes at ambient temperature before the reaction was initiated by the addition of Gly-Pro-AMC 21 ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(H-glycyl-prolyl-7-amino-4-methylcoumarin,Sigma-Aldrich, $1 0 ~ \\mu \\mathrm { M }$ final concentration). The total volume of the reaction mixture was $1 0 0 ~ \\mu \\mathrm { L }$ . The kinetics of the reaction were monitored (excitation at $4 0 0 ~ \\mathrm { n m }$ ,emission at 505 nm) for 5-1O minutes,or an endpoint was measured after 1O minutes.Inhibition constants $( \\mathrm { I C } _ { 5 0 } )$ were calculated from enzyme progress curves using standard mathematical models. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "5.3.In vitro DPP-4 inhibitory kinetic assay ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Solutions of test compounds at varying concentrations (final concentration ≤l0 mM) were prepared in dimethyl sulfoxide (DMSO) and diluted into assay buffer containing 20 mM Tris (pH 7.4),20 mM KCl, and 0.1 mg/mL BSA. Human DPP-IV (0.1 nM final concentration) was added to the dilutions and pre-incubated for 10 minutes at ambient temperature before the reaction was initiated by the addition of Gly-Pro-AMC (H-glycyl-prolyl-7-amino-4-methylcoumarin, Sigma-Aldrich, 10 μMfinal concentration). The total volume of the reaction mixture was 100 μL. The kinetics of the reaction were monitored (excitation at 400 nm, emission at 505 nm) for 5-10 minutes, or an endpoint was measured after 10 minutes. Inhibition constants ( $\\mathrm { ( } \\mathrm { C } _ { 5 0 } )$ were calculated from enzyme progress curves using standard mathematical models. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "5.4In vitro hepatic stability study ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Adult male SD rats ( $\\mathrm { \\tilde { n } } =$ 4/group) were administered the test compounds dissolved in distilled water at a single dose of $2 5 ~ \\mathrm { { m g / k g } }$ by oral administration and $5 ~ \\mathrm { m g / m L }$ by injection.Blood samples of $1 0 0 { - } 2 0 0 ~ \\mu \\mathrm { L }$ were collected from the orbit at 1 time points within 24 hours.The blood concentration of the test compounds was determined by LC-MS/MS. The PK parameters were obtained from the pharmacokinetic software DAS.2.0. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "5.5In vivo pharmacokinetic study ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Adult male SD rats ( $\\mathrm { \\tilde { n } } { = } 4 /$ group)were administered the test compounds dissolved in distilled water at a single dose of $2 5 ~ \\mathrm { m g / k g }$ by oral administration and $5 ~ \\mathrm { m g / m L }$ by injection. Blood samples of $1 0 0 { - } 2 0 0 ~ \\mu \\mathrm { L }$ were collected from the orbit at 11 time points within 24 hours.The blood concentration of the test compounds was determined by LC-MS/MS.The PK parameters were obtained from the pharmacokinetic software DAS. 2.0. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "5.6 In vivo efficacy study ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Adult male ICR mice (at least $\\mathrm { \\ n } { = } 4$ per group) were orally gavaged with the test compounds dissolved in   \ndistilled water at a single dose of $1 ~ \\mathrm { m g / k g }$ or $3 ~ \\mathrm { m g / k g }$ .Blood samples of $2 0 { - } 2 5 ~ \\mu \\mathrm { L }$ were collected from the   \norbit at the time points indicated in Figure 6 for 24 hours and the plasma fraction was kept frozen until   \nDPP-IV activity measurement. The plasma DPP-IV activity was determined by cleavage rate of   \nGly-Pro-AMC (H-glycyl-prolyl-7-amino-4-methylcoumarin； Sigma-Aldrich). Plasma $( 1 0 ~ \\mu \\mathrm { L } )$ was mixed 22 ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "with $1 4 0 \\mu \\mathrm { L }$ of150 $\\mu \\mathrm { M }$ Gly-Pro-AMCin assaybufferthatwascomposedof25mM tris(hydroxymethyl)-aminomethane HCl (PH 7.4), $1 4 0 \\ \\mathrm { m M }$ NaCl, $1 0 \\ \\mathrm { m M }$ KCl and $0 . 1 \\%$ bovine serum albumin,the fluorescence was determined by using Thermo Scientific Fluoroskan Ascent FL (excitation at $4 0 0 ~ \\mathrm { { n m } }$ and emission at $5 0 5 ~ \\mathrm { n m }$ ). One unit of activity is defined as the amount of enzyme that produces 1 $\\mu \\mathrm { M }$ products per minute.The DPP-IV relative activity in plasma was described as activity (indicated time points)/activity (initial point). ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "This research was supported by the National Natural Science Foundation of China(81402795） and Grant from the Bureau of Education of Guangzhou Municipality (12O1630308). ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "References and notes ",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "[1] J.da Rocha Fernandes, K.Ogurtsova, U.Linnenkamp,L. Guariguata,T.Seuring,P. Zhang, D. Cavan, L.E.Makaroff,IDF Diabetes Atlas estimates of 2O14 global health expenditures on diabetes,Diabetes Res Clin Pract,117 (2016) 48-54.   \n[2] B. Kreymann,G.Williams,M.A.Ghatei, S.R. Bloom,Glucagon-like peptide-1 7-36: a physiological incretin in man, Lancet, 2 (1987) 1300-1304.   \n[3] B.Ahren, DPP-4 inhibitors, Best Pract Res Clin Endocrinol Metab,21 (2007) 517-533.   \n[4] S.E.Inzucchi, R.M.Bergenstal,J.B.Buse,M.Diamant, E.Ferrannini,M.Nauck,A.L.Peters,A.Tsapas, R.Wender， D.R.Matthews，Management of hyperglycaemia in type 2 diabetes，2015:a patient-centred approach. Update to a position statement of the American Diabetes Association and the European Association for the Study of Diabetes, Diabetologia,58 (2015) 429-442.   \n[5] J.A.Cramer, A systematic review of adherence with medications for diabetes, Diabetes Care，27 (2004) 1218-1224.   \n[6] M.E.Kruk,N. Schwalbe,The relation between intermitent dosing and adherence: preliminary insights, Clin Ther,28 (2006) 1989-1995.   \n[7] C.E.Grimshaw,A. Jennings,R. Kamran，H. Ueno,N. Nishigaki，T. Kosaka，A. Tani，H. Sano,Y. Kinugawa，E. Koumura，L. Shi，K. Takeuchi， Trelagliptin (SYR-472， Zafatek)，Novel Once-Weekly Treatment for Type 2 Diabetes,Inhibits Dipeptidyl Peptidase-4 (DPP-4) via a Non-Covalent Mechanism, PLoS One,11 (2016) e0157509.   \n[8]T. Biftu,R.Sinha-Roy, P. Chen, X. Qian,D.Feng,J.T. Kuethe,G.Scapin, Y.D.Gao,Y.Yan,D. Krueger, A. Bak,G.Eiermann,J. He,J.Cox,J. Hicks,K. Lyons, H. He,G.Salituro,S.Tong,S.Patel,G. Doss,A.Petrov, J.Wu,S.S. Xu,C.Sewal, X. Zhang,B. Zhang,N.A.Thornberry,A.E.Weber, Omarigliptin (MK-3102): a novel long-acting DPP-4 inhibitor for once-weekly treatment of type 2 diabetes,JMed Chem,57 (2014) 3205-3212.   \n[9] D.Stoimenis,T. Karagiannis,A. Katsoula,E.Athanasiadou,K.Kazakos,E.Bekiari, D.R.Matthews,A. Tsapas,Once-weekly dipeptidyl peptidase-4 inhibitors for type 2 diabetes: a systematic review and meta-analysis, Expert Opin Pharmacother,18 (2017) 843-851.   \n[10] I.Gantz，T. Okamoto， Y. Ito，K.Okuyama，E.A.O'Neill，K.D. Kaufman，S.S. Engel，E.Lai，G. Omarigliptin Study,Arandomized,placebo-and sitagliptin-controlled trial of the safetyand efficacy of omarigliptin,a once-weekly DPP-4 inhibitor, in Japanese patients with type 2 diabetes,Diabetes Obes ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Metab,(2017). ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "[11] N.Inagaki, H. Onouchi, H. Maezawa,S. Kuroda, K. Kaku, Once-weekly trelagliptin versus daily alogliptin in Japanese patients with type 2 diabetes:a randomised，double-blind，phase 3, non-inferiority study, Lancet Diabetes Endocrinol,3 (2015) 191-197.   \n[12] Y. Ito，M. Mori， Y. Matsumoto,T. Okamoto，Pharmacological action and clinical results of Omarigliptin (MARIZEV(R) tablet),a novel dipeptidyl peptidase-4 inhibitor for once-weekly treatment of Type 2 diabetes, Nihon Yakurigaku Zasshi, 149 (2017) 128-137.   \n[13]A.J.Garber,The importance of incretin therapies for managing type 2 diabetes,Lancet Diabetes Endocrinol, 2 (2014) 95-97.   \n[14] H. Xie,L. Zeng,S. Zeng, X.Lu,G. Zhang,X. Zhao,N.Cheng,Z.Tu,Z.Li, H. Xu,L.Yang,X. Zhang, M. Huang,J. Zhao,W. Hu,Novel pyrrolopyrimidine analogues as potent dipeptidyl peptidase IV inhibitors based on pharmacokinetic property-driven optimization,Eur JMed Chem,52 (2012) 205-212. [15] J. Deng,L.Peng, G.Zhang, X. Lan,C.Li,F.Chen,Y. Zhou,Z. Lin,L.Chen,R.Dai, H. Xu,L.Yang, X. Zhang，W. Hu，The highly potent and selective dipeptidyl peptidase IV inhibitors bearing a thienopyrimidine scaffold effectively treat type 2 diabetes, EurJMed Chem,46 (2011) 71-76. [16] S. Zeng, H. Xie,L.L. Zeng, X. Lu, X. Zhao,G.C. Zhang,Z.C.Tu,H.J. Xu,L.Yang, X.Q. Zhang,W. Hu, Discovery of potent dipeptidyl peptidase IV inhibitors through pharmacophore hybridization and hit-to-lead optimization, Bioorg Med Chem,21 (2013)1749-1755.   \n[17] H. Xie,L. Zeng,S. Zeng, X. Lu, X. Zhao,G. Zhang,Z.Tu,H. Xu,L.Yang, X. Zhang,S.Wang,W. Hu, Highly potent dipeptidyl peptidase IV inhibitors derived from Alogliptin through pharmacophore hybridization and lead optimization, EurJMed Chem,68 (2013) 312-320.   \n[18] Z.Zhang, M.B.Wallace,J.Feng,J.A.Stafford,R.J.Skene,L.Shi,B.Lee, K.Aertgeerts,A.Jennings,R. Xu, D.B.Kassel,S.W. Kaldor, M. Navre, D.R.Webb,S.L. Gwaltney, Design and synthesis of pyrimidinone and pyrimidinedione inhibitors of dipeptidyl peptidase IV,JMed Chem,54 (2011) 510-524.   \n[19] Y. Nishio, H. Kimura,S.Tosaki, E.Sugaru,M.Sakai, M. Horiguchi, Y. Masui, M.Ono,T. Nakagawa,H. Nakahira, Discovery of new chemotype dipeptidyl peptidase IV inhibitors having (R)-3-amino-3-methyl piperidine as a pharmacophore, Bioorg Med Chem Lett, 20 (2010) 7246-7249.   \n[20] G.R. Lankas, B.Leiting, R.S. Roy, G.J. Eiermann,M.G. Beconi,T. Biftu, C.C.Chan,S.Edmondson, W.P. Feeney, H. He,D.E. Ippolito,D. Kim, K.A. Lyons, H.O.Ok, R.A. Patel, A.N. Petrov, K.A. Pryor, X. Qian, L.Reigle，A.Woods，J.K.Wu,D. Zaller, X. Zhang,L. Zhu，A.E.Weber，N.A.Thornberry, Dipeptidyl peptidase IV inhibition for the treatment of type 2 diabetes: potential importance of selectivity over dipeptidyl peptidases 8 and 9, Diabetes,54 (2005) 2988-2994.   \n[21] J. Feng,Z. Zhang, M.B.Wallace,J.A.Stafford,S.W. Kaldor, D.B. Kassel, M.Navre,L. Shi,R.J.Skene,T. Asakawa, K.Takeuchi, R. Xu, D.R. Webb,S.L.Gwaltney,2nd,Discovery of alogliptin: a potent,selective, bioavailable,and efficacious inhibitor of dipeptidyl peptidase IV,JMed Chem,50 (2007) 2297-2300. [22] G. Schnapp,T. Klein, Y. Hoevels, R.A. Bakker, H. Nar, Comparative Analysis of Binding Kinetics and Thermodynamics of Dipeptidyl Peptidase-4 Inhibitors and Their Relationship to Structure,JMed Chem, 59 (2016) 7466-7477. ",
+        "page_idx": 23
+    }
+]

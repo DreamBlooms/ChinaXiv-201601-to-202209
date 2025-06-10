@@ -1,0 +1,202 @@
+枯草芽孢杆菌与铜协同作用对5\~16周龄五龙鹅生长性能、屠宰性能、营养物质利用率及肉品质的影响
+
+张泽楠 王宝维\* 葛文华张名爱　岳　斌　郑惠文 张洋洋（青岛农业大学优质水禽研究所，国家水禽产业技术体系营养与饲料功能研究室，青岛
+
+266109)
+
+摘要：本试验旨在研究枯草芽孢杆菌与铜协同作用对 ${ 5 } \mathrm { \sim } 1 6$ 周龄五龙鹅生长性能、屠宰性能、营养物质利用率及肉品质的影响，旨在探索一种低饲粮铜添加水平的方法。试验选用 5周龄五龙鹅360只，随机分为6组，每组6个重复，每个重复10只（公母各占1/2)。Ⅰ组为对照组（铜添加水平为 $1 6 ~ \mathrm { m g / k g }$ ，未添加枯草芽孢杆菌)； $\mathrm { I I } \sim \mathrm { V I }$ 组为枯草芽孢杆菌添加组（枯草芽孢杆菌添加水平为 $2 5 0 \ \mathrm { g / t } )$ ，铜添加水平分别为0、4、8、12、16 mg/kg。试验期12 周。结果表明：1）枯草芽孢杆菌添加组中铜添加水平为 $8 ~ \mathrm { m g / k g }$ 时平均日增重与料重比最佳。2）IV组、V组、VI组屠宰率、半净膛率显著或极显著高于I组（ $. P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1 \$ ）°
+
+3）IV组的粗蛋白质利用率显著高于I组（ $. P { < } 0 . 0 5 )$ ， $\mathrm { I V }$ 组、 $\mathrm { \Delta V }$ 组、VI组粗纤维利用率、酸性洗涤纤维利用率、铜表观消化率显著或极显著高于I组（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ )。4）IV组的沉积氮和氮利用率显著或极显著高于I组（ $_ { \cdot \cdot P < 0 . 0 5 }$ 或 $P { < } 0 . 0 1$ )，粪氮显著低于I组（ $P { < } 0 . 0 5 )$ 。由此可见，饲粮中添加枯草芽孢杆菌可以提高铜利用率，从而降低饲粮中铜添加水平，提高生长性能、屠宰性能和营养物质利用率；建议5\~16 周龄肉鹅在饲粮中添加 $2 5 0 \ \mathrm { g / t }$ 枯草芽孢杆菌条件下，铜适宜添加水平为 $8 ~ \mathrm { m g / k g }$
+
+关键词：枯草芽孢杆菌；铜；鹅；生长性能；屠宰性能；肉品质；营养物质；利用率中图分类号：S835
+
+铜是动物必需的微量元素之一，不仅以酶辅助因子的形式参与体内30多种酶的组成和活化，并通过酶的活性中心或激活剂的形式来影响动物的造血、消化、生长、繁殖、免疫等生理功能；铜还能增强动物垂体释放生长激素(GH)、促甲状腺释放激素(TPH)、胰岛素样生长因子(IGF)，影响肾上腺皮质类固醇和儿茶酚胺的合成「1’。在动物生产方面，铜促进生长作用受到了广泛的重视，在生长猪饲粮中添加 $2 5 0 \mathrm { m g / k g }$ 铜可改进仔猪的生长速度和饲料利用率[2]。然而，高铜饲粮在提高畜禽生长性能的同时，导致排泄物中铜含量明显升高，污染环境[3]；其次，添加高剂量的铜可能会导致家畜的铜中毒以及家畜肉产品中铜的沉积量上升，作为食物直接威胁到人体的健康 $^ { [ 4 ] }$ 。为此，寻求一种能够减少饲粮中铜添加水平的方法具有重要的健康与生态营养意义。枯草芽孢杆菌作为微生态制剂的一种，可以有效地改善肠道菌群的组成，促进机体对营养物质的吸收。Asuncion 等「5]研究指出，芽孢杆菌属菌株均有强大的吸附金属能力，这是因为金属离子能够与该菌细胞表面上的阴离子相互作用而被固定。赵颖等也研究表明，枯草芽孢杆菌对铜离子具有很强的吸附作用。迄今为止，饲粮中添加枯草芽孢杆菌对畜禽微量元素消化吸收影响的研究报道还较少，枯草芽孢杆菌对铜消化利用率影响的研究还处于空白，对鹅屠宰性能的影响也未见报道。为此，本试验以 $5 \sim$ 16 周龄五龙鹅为研究对象，通过在其饲粮中添加枯草芽孢杆菌与铜，研究其协同作用对肉鹅生长性能、屠宰性能、肉品质、营养物质利用的影响，以探索低饲粮铜添加水平的方法。
+
+# 1材料与方法
+
+# 1.1 试验动物与试验设计
+
+选择5周龄健康且体重相近的五龙鹅（豁眼鹅）360只，采用随机分配编号法，随机分为6组，每组6个重复，每个重复10只（公母各占1/2)。Ⅰ组为对照组（参照徐晨晨等[7]研究结果，铜添加水平为 $1 6 \ \mathrm { m g / k g }$ ，未添加枯草芽孢杆菌)；ⅡI\~VI组为枯草芽孢杆菌添加组，枯草芽孢杆菌添加水平均为 $2 5 0 \mathrm { g / t }$ ，铜添加水平分别为0、4、8、12、 $1 6 \mathrm { m g / k g }$ 。试验期12 周。试验鹅由青岛农业大学优质水禽研究所育种基地提供，试验用枯草芽孢杆菌形态为粉末状，活菌数为 $2 { \times } 1 0 ^ { 9 } \mathrm { C F U / g }$ ，购自山东苏柯汉生物工程股份有限公司；试验用铜源为五水硫酸铜，购自浙江新维普添加剂有限公司（其有效成分含量为 $9 8 . 5 \%$ ）。
+
+# 1.2 试验饲粮
+
+基础饲粮参照NRC（1994)家禽营养需要量设计配方。基础饲粮组成及营养水平见表1。采用等离子体发射光谱仪测得基础饲粮中铜含量为 $7 . 3 2 \mathrm { m g / k g }$ 0
+
+# 表1基础饲粮组成及营养水平 (风干基础)
+
+Table 1 Composition and nutrient levels of the basal diet (air-dry basis) %   
+
+<html><body><table><tr><td>原料 Ingredients</td><td>含量Content</td><td>营养水平 Nutrient levels2)</td><td>含量Content</td></tr><tr><td>玉米 Corn</td><td>61.97</td><td>代谢能ME/（MJ/kg)</td><td>11.29</td></tr><tr><td>豆粕 Soybean meal</td><td>22.00</td><td>粗蛋白质CP</td><td>16.00</td></tr><tr><td>鱼粉 Fish meal</td><td>1.50</td><td>粗纤维CF</td><td>4.98</td></tr></table></body></html>
+
+<html><body><table><tr><td>次粉Wheat middling</td><td>4.00</td><td>钙Ca</td><td>0.70</td></tr><tr><td>玉米秸秆 Corn straw</td><td>8.00</td><td>有效磷 AP</td><td>0.32</td></tr><tr><td>磷酸氢钙CaHPO4</td><td>0.78</td><td>食盐 NaCl</td><td>0.38</td></tr><tr><td>石粉Limestone</td><td>0.95</td><td>赖氨酸Lys</td><td>0.82</td></tr><tr><td>食盐 NaCl</td><td>0.30</td><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.53</td></tr><tr><td>微量元素 Trace elements1)</td><td>0.20</td><td>蛋氨酸 Met</td><td>0.26</td></tr><tr><td>多维Multivitamin1)</td><td>0.30</td><td>苏氨酸Thr</td><td>0.58</td></tr><tr><td>合计 Total</td><td>100.00</td><td>铜Cu/ (mg/kg)</td><td>7.32</td></tr></table></body></html>
+
+1’多维和微量元素为每千克饲粮提供 The multivitamin and trace elements provided thefollowing per kg of the diet: VA $1 5 0 0 \mathrm { m g }$ ， $\mathrm { V D } _ { 3 } 2 0 0 \mathrm { I U }$ ，VE $1 2 . 5 \mathrm { m g }$ ， $\mathrm { V K } _ { 3 } 1 . 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 2 . 2 \ : \mathrm { m g }$ $\mathrm { V B } _ { 2 } 5 . 0 \ : \mathrm { m g }$ ，烟酸 nicotinic acid $6 5 ~ \mathrm { m g }$ ，泛酸 pantothenate $1 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 2 \log$ ，生物素 biotin$0 . 2 \mathrm { m g }$ ，叶酸 folic acid $0 . 5 \mathrm { m g }$ ，胆碱choline $1 0 0 0 \mathrm { m g }$ ，Fe $8 5 ~ \mathrm { m g }$ ， $ { \mathrm { M n } } 8 0  { \mathrm { m g } }$ ， $\mathrm { Z n 8 0 ~ m g }$ ，I$0 . 4 2 \mathrm { m g }$ ，Se $0 . 3 \mathrm { m g }$ ，Co $2 . 5 \mathrm { m g }$ 。  
+2"铜为实测值，其他营养水平为计算值。 $\mathtt { C u }$ was a measured value, while the other nutrient levelswere calculated values 。
+
+# 1.3 饲养管理
+
+试验前对鹅舍进行全面消毒；全期采取舍饲，地面厚垫料分栏饲养；试验鹅自由饮水和采食；少添喂勤；注意观察鹅群的生长状况。
+
+# 1.4 测定指标及方法
+
+# 1.4.1 生长性能
+
+16 周龄末，分别以重复为单位对试验鹅进行空腹称重，计算 $5 \sim 1 6$ 周龄的平均日增重(ADG)；每日统计饲料消耗量，计算平均日采食量(ADFI)；每天记录各组死亡及淘汰情况。结合死淘情况计算料重比(F/G)[8]。
+
+# 1.4.2 屠宰性能
+
+16 周龄末，空腹称重，各组每个重复随机选择2只鹅，6个试验组共72只，翅静脉采血后对各组试验鹅进行屠宰；宰前禁食 $1 2 \mathrm { h }$ ，按照《家禽生产性能名词术语和度量统计方法》(NY/T 823一2004)测定屠体重、半净膛重、全净膛重、腹脂重、胸肌重和腿肌重，并计算屠宰率、全净膛率、半净膛率、腹脂率、腿肌率和胸肌率6项屠宰性能指标。
+
+# 1.4.3 肌肉品质
+
+16 周龄末，待鹅屠宰后采用《肉制品检测标准》(GB/T 9695.7—2008)测定肌肉品质。把整个胸肌从胸骨上剥离，取前端胸大肌作为肉样，用日本全自动色彩色差计测定胸肌肉色，用物性测试仪（TA-XTPLUS）测定剪切力，用HANHA-HI9025 便携式酸度计测定pH，用
+
+压力计测失水率。
+
+# 1.4.4营养消化代谢试验
+
+14周龄时，从各组随机抽取6只鹅（公母各3只）移入代谢笼（专利号：200720177297）进行饲养，试验阶段预试期4d，禁食1d，正试期3d，自由饮水，定量采食。采用全收粪法连续收集4d的排泄物。在代谢笼下放置集粪盘，每天定时收集，盐酸固氮，混合后取粪样。
+
+待测饲料粉碎至 $4 0 \mathrm { m m }$ ，低温干燥保存。粪样在 $6 5 { \sim } 7 5 \ \mathrm { ~ \textdegree C }$ 烘箱中烘干，自然状态下回潮 $2 4 \mathrm { ~ h ~ }$ ，制成风干粪样，然后用小型万能粉碎机将干粪样粉碎。总能（GE）采用氧弹法进行测定；粗蛋白质（CP）含量采用的FOSS TECATORQUALITYASSUR-ANCE 设备进行检测；粗纤维（CF）、中性洗涤纤维（NDF）、酸性洗涤纤维（ADF）含量采用ANKOM公司生产的ANKOM2000 Fiber Analyzer(NY14450)设备进行检测；粗脂肪（EE）含量采用乙醚浸提法进行测定；铜表观消化率采用美国PE 公司生产的等离子体发射光谱仪（ICP)测定；营养物质利用率计算公式参照文献[9]。
+
+# 1.5 统计分析
+
+采用 SPSS17.0 软件中单因素方差分析(one-wayANOVA)中的LSD 法进行多重比较。试验数据以“平均值 $\pm$ 标准差”表示。 $P { < } 0 . 0 5$ 和 $P { < } 0 . 0 1$ 分别为差异显著和极显著水平。
+
+# 2结果与分析
+
+2.1枯草芽孢杆菌与铜协同作用对鹅生长性能的影响
+
+由表2可知， $5 \sim 1 6$ 周龄，IV组、 $\mathrm { \Delta V }$ 组体重显著或极显著高于I组（ $. P { < } 0 . 0 5$ 或 ${ \cal P } { < } 0 . 0 1$ )；IV组、 $\mathrm { \Delta V }$ 组平均日增重显著或极显著高于I组 ( $. P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1 \$ )；IV组料重比极显著低于ⅡI组（ $P { < } 0 . 0 1 \mathrm { \dot { \Omega } }$ )；各组间平均日采食量和死淘率差异不显著（ $. P { > } 0 . 0 5 \$ ）°
+
+通过二次曲线拟合和回归方程分析发现，生长性能与饲粮中铜添加水平之间的曲线拟合不具有显著性（ $( P { > } 0 . 0 5 )$ 。
+
+以上结果表明，由于V组、 $\mathrm { \Delta V }$ 组、VI组间体重、料重比、平均日采食量差异不显著1 $. P { > } 0 . 0 5 \$ )，且IV组取得较高的体重、平均日增重以及较小的料重比。从最佳生长性能考虑，饲粮中枯草芽孢杆菌添加水平 $2 5 0 \ \mathrm { g / t }$ 和铜添加水平 $8 \ \mathrm { m g / k g }$ 时效果最好，比饲粮铜添加水平 $1 6 \mathrm { m g / k g }$ 的I组好。
+
+表2枯草芽孢杆菌与铜协同作用对鹅生长性能的影响  
+Table 2Effects of Bacillus subtilis cooperate with copper on growth performance of geese   
+
+<html><body><table><tr><td>组别</td><td>体重</td><td>平均日增重</td><td>平均日采食量</td><td>料重比</td><td>死淘率</td></tr></table></body></html>
+
+<html><body><table><tr><td>Groups</td><td>BW/kg</td><td>ADG/g</td><td>ADFI/g</td><td>F/G</td><td>Mortality rate/%</td></tr><tr><td>I</td><td>3.88±0.19ab</td><td>30.12±2.05ab</td><td>203.37±14.65</td><td>6.75±0.16abc</td><td>0.03</td></tr><tr><td>I</td><td>3.80±0.13a</td><td>29.27±1.53a</td><td>200.81±12.12</td><td>6.86±0.16c</td><td>0.05</td></tr><tr><td>III</td><td>3.90±0.20abc</td><td>30.26±2.25ab</td><td>205.32±16.33</td><td>6.78±0.10bc</td><td>0.00</td></tr><tr><td>IV</td><td>4.14±0.22d</td><td>33.04±2.48d</td><td>217.19±13.86</td><td>6.58±0.14a</td><td>0.02</td></tr><tr><td>V</td><td>4.12±0.20cd</td><td>33.02±2.64c</td><td>220.96±23.14</td><td>6.68±0.20ab</td><td>0.00</td></tr><tr><td>VI</td><td>4.09±0.19bcd</td><td>32.50±2.22ab</td><td>217.93±16.39</td><td>6.70±0.11abc</td><td>0.03</td></tr><tr><td>P值</td><td>0.014</td><td>0.015</td><td>0.169</td><td>0.049</td><td></td></tr><tr><td>P-value</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+同列数据肩标相同小写字母或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，相邻小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，相间小写字母表示差异极显著 $( P { < } 0 . 0 1 )$ 。下表同。
+
+In the same column, values with the same small or no lettr superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ，while with adjacent small letter superscripts mean significant difference （20 $( P { < } 0 . 0 5 )$ ，and with alternate small letter superscripts mean significant difference $( P { < } 0 . 0 1 ) ,$ .The same as below.
+
+# 2.2枯草芽孢杆菌与铜协同作用对鹅屠宰性能的影响
+
+由表3可知， ${ 5 } \mathrm { \sim } 1 6$ 周龄，IV组、V组、VI组屠宰率、半净膛率显著或极显著高于I组（ $P { < } 0 . 0 5$ 或 ${ \cal P } { < } 0 . 0 1$ )，且枯草芽孢杆菌添加组随着饲粮铜添加水平增加有升高的趋势；各枯草芽孢杆菌添加组的全净膛率、胸肌率、腿肌率与I组相比较均有所提高，且随着饲粮铜添加水平的增多有升高的趋势，VI组均显著高于I组（ $P { < } 0 . 0 5$ )。V组腹脂率显著低于I组（ $. P { < } 0 . 0 5 )$ ）°
+
+IV组、V组、VI组间比较，各屠宰性能指标没有显著差异（ $_ { \cdot \cdot P > 0 . 0 5 } )$ ，以上结果表明，在饲粮枯草芽孢杆菌添加水平 $2 5 0 \ \mathrm { g / t }$ 时，铜添加水平为 $8 ~ \mathrm { m g / k g }$ 可以获得较高的屠宰性能。
+
+表3枯草芽孢杆菌与铜协同作用对鹅屠宰性能的影响
+
+Table 3Effects of Bacillus subtilis cooperate with copper on slaughter performance of   
+
+<html><body><table><tr><td colspan="4">geese</td><td colspan="3">%</td></tr><tr><td>组别</td><td>屠宰率</td><td>半净膛率</td><td>全净膛率</td><td>胸肌率</td><td>腿肌率</td><td>腹脂率</td></tr><tr><td>Groups</td><td>Dressed percentage</td><td>Percentage of half-eviscerated</td><td>Percentage of eviscerated</td><td>Percentage of</td><td>Percentage of</td><td>Percentage of</td></tr><tr><td></td><td></td><td>yield</td><td>yield</td><td>breast muscle</td><td>leg muscle</td><td>abdominal fat</td></tr><tr><td>I</td><td>84.86±3.97a</td><td>79.06±3.44a</td><td>74.83±2.97a</td><td>11.64±0.57a</td><td>12.62±0.59a</td><td>2.19±0.29b</td></tr><tr><td>I</td><td>85.76±4.32ab</td><td>80.45±4.37ab</td><td>76.31±4.24ab</td><td>11.85±0.30ab</td><td>12.86±0.39a</td><td>2.07±0.36ab</td></tr><tr><td>IⅢI</td><td>87.36±4.33abc</td><td>82.11±3.91abc</td><td>76.95±3.70ab</td><td>11.92±0.24ab</td><td>12.95±0.34ab</td><td>1.96±0.30ab</td></tr><tr><td>IV</td><td>89.35±3.37bc</td><td>84.18±3.78bc</td><td>79.00±3.82b</td><td>11.98±0.29ab</td><td>13.03±0.47ab</td><td>1.94±0.38ab</td></tr><tr><td>V</td><td>90.70±2.40c</td><td>84.26±2.09bc</td><td>79.04±2.28b</td><td>12.04±0.42ab</td><td>13.17±0.39ab</td><td>1.74±0.48a</td></tr><tr><td>VI</td><td>90.57±2.86c</td><td>85.03±3.27c</td><td>79.53±2.56b</td><td>12.13±0.51b</td><td>13.44±0.55b</td><td>1.91±0.26ab</td></tr></table></body></html>
+
+<html><body><table><tr><td>P值</td><td>0.032</td><td>0.039</td><td>0.127</td><td>0.426</td><td>0.081</td><td>0.378</td></tr><tr><td>P-value</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+2.3枯草芽孢杆菌与铜协同作用对鹅营养物质利用率和能量利用率的影响
+
+由表4可知， ${ 5 } \mathrm { \sim } 1 6$ 周龄，IV组的CP利用率显著高于I组（ $. P { < } 0 . 0 5 \rangle$ ，提高了 $4 . 2 6 \%$ 。IV组、 $\mathrm { \Delta V }$ 组、VI组CF利用率、ADF利用率、铜表观消化率显著或极显著高于I组（ $. P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ )。各枯草芽孢杆菌添加组与I组EE 利用率差异均不显著（ $. P { > } 0 . 0 5 \ '$ )。IV组NDF利用率显著高于I组（ $P { < } 0 . 0 5 )$ 。
+
+Table 4Effects of Bacillus subtilis cooperate with copper on nutrient availability of   
+
+<html><body><table><tr><td colspan="4">geese</td><td colspan="3">%</td></tr><tr><td>组别</td><td>粗蛋白质利</td><td>粗脂肪利用</td><td>粗纤维利用</td><td>中性洗涤纤</td><td>酸性洗</td><td>铜表观</td></tr><tr><td>Groups</td><td>用率</td><td>率</td><td>率</td><td>维利用率</td><td>涤纤维利用</td><td>消化率</td></tr><tr><td></td><td>CP</td><td>EE</td><td>CF</td><td>NDF</td><td>率</td><td> Apparent</td></tr><tr><td></td><td>availability</td><td>availability</td><td>availability</td><td>availability</td><td>ADF</td><td>digestibility of copper</td></tr><tr><td>I</td><td>66.67±2.58ab</td><td>66.68±2.27ab</td><td>20.42±2.82a</td><td>55.41±2.31a</td><td>availability 40.80±1.59a</td><td>26.38±2.02a</td></tr><tr><td>II</td><td>65.47±2.21a</td><td>63.35±2.97a</td><td>20.98±2.48ab</td><td>56.15±2.25a</td><td>42.08±1.85ab</td><td>27.00±2.29ab</td></tr><tr><td>IⅢI</td><td>66.84±2.74ab</td><td>67.33±2.80b</td><td>22.51±3.07abc</td><td>56.93±2.46ab</td><td>43.70±2.22bc</td><td>28.18±2.36abc</td></tr><tr><td>IV</td><td>70.93±3.44c</td><td>70.48±2.97b</td><td>25.28±2.64c</td><td>59.75±2.26b</td><td>45.54±2.16c</td><td>29.87±2.53bc</td></tr><tr><td>V</td><td>70.12±3.12bc</td><td>68.86±3.89b</td><td>24.86±2.58c</td><td>58.18±2.87ab</td><td>44.79±2.13</td><td>30.16±3.23c</td></tr><tr><td>VI</td><td>69.63±3.46bc</td><td>68.25±4.31b</td><td>24.21±2.88bc</td><td>57.48±2.49ab</td><td>44.54±2.54bc</td><td>31.04±2.32c</td></tr><tr><td>P值</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P-value</td><td>0.015</td><td>0.018</td><td>0.016</td><td>0.063</td><td>0.004</td><td>0.015</td></tr></table></body></html>
+
+由表5可知， $5 \sim 1 6$ 周龄，IV组的沉积氮和氮利用率显著或极显著高于I组（ ${ \cdot } P { < } 0 . 0 5$ 或$P { < } 0 . 0 1$ )，粪氮显著低于I组（ $_ { . } { \cdot } { \cdot } { \cdot } 0 . 0 5 \rangle$ ，各组间食入氮差异不显著（ $( P { > } 0 . 0 5 )$ 。
+
+表4枯草芽孢杆菌与铜协同作用对鹅营养物质利用率的影响  
+表5枯草芽孢杆菌与铜协同作用对鹅氮利用率的影响  
+Table 5Effects of Bacillus subtilis cooperate with copper on nitrogen availability of gee   
+
+<html><body><table><tr><td>组别 Groups</td><td>食入氮 Nitrogen intake/(g/d)</td><td>粪氮 Nitrogen from excrement/(g/d)</td><td>沉积氮 nitDgen/(g/d)</td><td>氮利用率 Availaity f</td></tr><tr><td>I</td><td>2.69±0.01</td><td>0.90±0.07bc</td><td>1.79±0.07ab</td><td>66.67±2.58ab</td></tr><tr><td>I</td><td>2.69±0.01</td><td>0.93±0.06c</td><td>1.76±0.06a</td><td>65.47±2.21a</td></tr><tr><td>Ⅲ</td><td>2.70±0.02</td><td>0.89±0.07bc</td><td>1.80±0.08abc</td><td>66.84±2.74ab</td></tr><tr><td>IV</td><td>2.69±0.01</td><td>0.78±0.09a</td><td>1.91±0.09d</td><td>70.93±3.44c</td></tr><tr><td>V</td><td>2.69±0.01</td><td>0.80±0.09ab</td><td>1.89±0.08cd</td><td>70.12±3.12bc</td></tr><tr><td>VI</td><td>2.69±0.02</td><td>0.82±0.09ab</td><td>1.88±0.09bcd</td><td>69.63±3.46bc</td></tr><tr><td>P值 P-value</td><td>0.896</td><td>0.016</td><td>0.018</td><td>0.015</td></tr></table></body></html>
+
+由表6可知， $5 \sim 1 6$ 周龄，各枯草芽孢杆菌添加组的食入GE、粪便GE、内源能值、表观代谢能、真代谢能和GE利用率与I组无显著差异（ $( P { > } 0 . 0 5 )$ 。
+
+以上结果表明， $5 \sim 1 6$ 周龄，饲粮枯草芽孢杆菌添加水平在 $2 5 0 ~ \mathrm { g / t }$ ，当铜添加水平为8$\mathrm { m g / k g }$ 时，能显著提高CP利用率、CF利用率、铜表观消化率、氮利用率，显著降低粪氮;极显著提高 ADF利用率。
+
+Table 6Effects of Bacillus subtilis cooperate with copper on energy availability of geese   
+
+<html><body><table><tr><td>组别 Groups</td><td>食入总能 GE intake/ (kJ/d)</td><td>粪便总能 GE excretion from excrement/ (kJ/d)</td><td>内源能值 EEf/ (kJ/d)</td><td>表观代谢能 AME/(kJ/d)</td><td>真代谢能 TME/(kJ/d)</td><td>总能利用率 Availability of GE/%</td></tr><tr><td>I</td><td>1 707.21±15.90</td><td>555.75±22.64ab</td><td>1.73±0.03</td><td>1 151.46±22.01</td><td>1 153.19±21.99</td><td>67.45±1.24ab</td></tr><tr><td>II</td><td>1 713.83±22.46</td><td>572.85±26.02b</td><td>1.75±0.02</td><td>1 140.98±33.80</td><td>1142.73±33.80</td><td>66.57±1.56a</td></tr><tr><td>IⅢI</td><td>1 707.55±15.30</td><td>560.04±22.86b</td><td>1.78±0.07</td><td>1 147.51±31.97</td><td>1149.29±32.00</td><td>67.20±1.48ab</td></tr><tr><td>IV</td><td>1 698.49±18.69</td><td>531.28±21.37a</td><td>1.72±0.09</td><td>1 167.22±35.12</td><td>1 168.94±35.10</td><td>68.71±1.47b</td></tr><tr><td>V</td><td>1 715.84±21.06</td><td>546.63±25.75ab</td><td>1.73±0.06</td><td>1 169.21±38.17</td><td>1 170.94±38.18</td><td>68.13±1.67ab</td></tr><tr><td>VI</td><td>1 697.68±12.99</td><td>549.82±23.88ab</td><td>1.75±0.05</td><td>1 147.86±30.84</td><td>1 149.61±30.86</td><td>67.61±1.51ab</td></tr><tr><td>P值 P-value</td><td>0.409</td><td>0.099</td><td>0.513</td><td>0.587</td><td>0.589</td><td>0.224</td></tr></table></body></html>
+
+2.4枯草芽孢杆菌与铜协同作用对鹅肉品质的影响
+
+由表7可知， $5 \sim 1 6$ 周龄，各枯草芽孢杆菌添加组肉品质与I组无显著差异（ $( P { > } 0 . 0 5 )$ ）。各枯草芽孢杆菌添加组黄度 $( \boldsymbol { \mathbf { b } } ^ { * }$ ）值、剪切力、pH 和失水率比I组低，说明添加枯草芽孢杆菌对鹅肉品质有一定的影响。
+
+以上结果表明， $5 \sim 1 6$ 周龄，饲粮中添加枯草芽孢杆菌组的肉品质比最适铜添加水平的I组还要好。
+
+表6枯草芽孢杆菌与铜协同作用对鹅能量利用率的影响  
+表7枯草芽孢杆菌与铜协同作用对鹅肌肉品质的影响  
+Table 7Effects of Bacillus subtilis cooperate with copper on meat quality of geese   
+
+<html><body><table><tr><td>组别</td><td>亮度</td><td>红度</td><td>黄度</td><td>剪切力</td><td>pH</td><td>失水率</td></tr><tr><td>Groups</td><td>L*</td><td>a</td><td>b*</td><td>Shear</td><td></td><td>Water loss</td></tr><tr><td></td><td></td><td></td><td></td><td>force/kgf</td><td></td><td>rate/%</td></tr></table></body></html>
+
+<html><body><table><tr><td>I</td><td>49.36±3.96</td><td>12.69±0.92ab</td><td>2.88±0.56</td><td>5.03±0.46</td><td>6.10±0.11</td><td>31.95±2.47</td></tr><tr><td>II</td><td>50.89±6.26</td><td>12.81±0.71ab</td><td>2.70±0.67</td><td>4.92±0.23</td><td>6.09±0.13</td><td>30.73±1.78</td></tr><tr><td>ⅢI</td><td>49.13±3.51</td><td>13.32±1.17ab</td><td>2.46±0.51</td><td>4.82±0.36</td><td>6.06±0.08</td><td>29.78±1.75</td></tr><tr><td>IV</td><td>54.17±3.16</td><td>13.85±1.53b</td><td>2.45±0.76</td><td>4.72±0.60</td><td>6.02±0.12</td><td>30.34±1.17</td></tr><tr><td>V</td><td>49.42±4.03</td><td>12.75±0.79ab</td><td>2.54±0.37</td><td>4.77±0.54</td><td>6.04±0.18</td><td>29.64±1.72</td></tr><tr><td>VI</td><td>53.07±4.66</td><td>12.55±0.94a</td><td>2.30±0.44</td><td>4.73±0.55</td><td>6.04±0.13</td><td>30.88±1.28</td></tr><tr><td>P值</td><td>0.238</td><td>0.273</td><td>0.560</td><td>0.841</td><td>0.874</td><td>0.254</td></tr><tr><td>P-value</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 3讨论
+
+3.1枯草芽孢杆菌与铜协同作用对鹅生长性能的影响
+
+铜作为动物生理代谢的催化剂，可通过与营养物质和能量代谢相关酶的作用而促进动物的生长。甘伯中等[10]报道，在基础饲粮中添加 $1 0 0 { \sim } 2 0 0 ~ \mathrm { m g / k g }$ 的铜能显著提高毛兔的日增重。徐晨晨等[7报道，5\~16 周龄五龙鹅饲粮中铜添加水平为 $1 6 . 2 5 ~ \mathrm { m g / k g }$ 时，可获得最佳生长性能，铜对鹅促生长作用不是通过提高采食量增加而是通过提高饲料利用率而产生影响，这与本试验结果一致。枯草芽孢杆菌是农业部公布的12种可直接饲喂动物的饲料级微生物添加剂之一，对提高动物生长性能、饲料转化率等效果明显 $[ \imath _ { 1 1 - 1 2 } ]$ 。Ho0ge 等[13］研究证实了枯草芽孢杆菌制剂对肉鸡、肉鹅的促生长作用；雷剑等[14]研究证实了枯草芽孢杆菌制剂在提高蛋鸡、蛋鸭产蛋率和改善料蛋比方面的效果。
+
+本研究表明，枯草芽孢杆菌添加组在铜添加水平为 $8 ~ \mathrm { m g / k g }$ 时获得最佳生长性能；饲粮中添加枯草芽孢杆菌可以提高铜利用率，降低饲粮中铜添加水平；铜的促生长与枯草芽孢杆菌促生长作用协同作用使鹅获得更高的生长性能。二者协同作用机理有待于继续研究。
+
+3.2枯草芽孢杆菌与铜协同作用对鹅屠宰性能的影响
+
+屠宰性能是从表观上反映营养物质在不同组织及同一组织的不同部位中沉积量差异的一组指标，而影响沉积量的因素很多。徐晨晨等7研究表明，五龙鹅饲粮中添加 $3 0 \ \mathrm { m g / k g }$ 铜，16 周龄屠宰性能最佳。
+
+本试验结果表明，各枯草芽孢杆菌添加组屠宰性能优于徐晨晨等[7报道的最适铜添加水平的Ⅰ组，且当铜添加水平超过 $8 ~ \mathrm { m g / k g }$ 时，屠宰率和半净膛率显著高于Ⅰ组，说明枯草芽孢杆菌能够显著提高鹅屠宰率、半净膛率；并且在一定范围内，提高铜添加水平有提高屠宰性能的趋势。枯草芽孢杆菌对铜吸收的影响和对屠宰性能影响的机理还有待进一步研究。
+
+3.3枯草芽孢杆菌与铜协同作用对鹅营养物质利用率和代谢能的影响动物营养物质利用率直接反映动物的代谢速率和生长性能[15]。Kirchgessner等[16研究表明，在体外，适宜的铜离子浓度能激活胃蛋白酶，增加蛋白质的水解。Luo 等[17研究发现，铜可显著提高断奶仔猪小肠脂肪酶和磷脂酶A的活性，增加必需脂肪酸的吸收从而提高饲粮 EE的消化率。
+
+枯草芽孢杆菌具有很强的蛋白酶、脂肪酶、淀粉酶等活性，能产生抗菌素和乳酸，抑制有害菌的增殖，在动物肠道内具有较强生物夺氧能力，这些特性对促进动物营养的消化吸收、提高动物的饲料转化率和防病、促进生长起到重要作用[18-20]。有研究报道，仔猪饲粮中添加$0 . 1 0 \%$ 的枯草芽孢杆菌可以显著提高断奶仔猪增重、改善饲料转化率、提高断奶仔猪的抗病能力[21]。另外，几乎所有的细胞活动进程都需要酶的参与，以提高效率。与其他非生物催化剂相似，酶通过降低化学反应的活化能来加快反应速率，大多数的酶可以将其催化的反应之速率提高上百万倍；事实上，酶是提供另一条活化能需求较低的途径，使更多反应粒子能拥有不少于活化能的动能，从而加快反应速率。枯草芽孢杆菌菌体自身能够合成 $\mathfrak { a }$ -淀粉酶、蛋白酶、脂肪酶、纤维素酶等酶类，在消化道中与动物体内的消化酶类一同发挥作用。正由于上述原理，饲粮中添加适宜枯草芽孢杆菌与铜协同作用，致使营养物质利用率和生长性能提高。
+
+本试验结果表明，饲粮中添加 $2 5 0 \ \mathrm { g / t }$ 的枯草芽孢杆菌和 $8 \ \mathrm { m g / k g }$ 的铜，能显著提高鹅的CP 利用率、CF利用率、铜表观消化率和氮利用率，显著减少粪氮，极显著提高ADF 利用率，与上述研究结果具有一致性；这说明枯草芽孢杆菌与铜协同作用能够促进养分利用吸收，减少铜排放，有利于生态环境保护；周桂莲等[22]研究报道，铜在生物体内不是以离子的形式被机体吸收，而是要先与一些配位体结合成可吸收螯合物，再被小肠吸收进入机体，枯草芽孢杆菌对于二价铜离子具有吸附作用，可能正因为如此，枯草芽孢杆菌自身分泌的菌体蛋白或氨基酸等络合剂与铜离子结合，促进了铜离子的吸收。枯草芽孢杆菌与铜离子络合方式与吸收机理有待于继续研究。
+
+# 3.4枯草芽孢杆菌与铜协同作用对鹅肉品质的影响
+
+铜作为多种酶的组成成分，是机体代谢的直接参与者。如铜是酪氨酸酶辅基，缺铜则酪氨酸酶活性下降，ATP 生成减少，造成皮肤和毛色减退[23-24]。与铜抗氧化有关的蛋白质和酶有血浆铜蓝蛋白和超氧化物歧化酶（SOD)。血浆铜蓝蛋白是血浆中最丰富的蛋白质，有铁氧化酶作用和抗氧化作用；SOD具有较强的抗氧化能力，氧自由基在 SOD 的作用下生成过氧化氢（ $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 } \rangle$ ， $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 被过氧化氢酶和谷胱甘肽过氧化物酶降解和清除，完成机体抗氧化过程[25]。有研究表明，枯草芽孢杆菌具有清除机体羟自由基、过氧化氢酶以及抗脂质过氧化的能力[26-28]。任列娇等[29]研究发现，剪切力越低，肉品质越好。
+
+本试验结果表明， $5 \sim 1 6$ 周龄，饲粮中添加枯草芽孢杆菌添加水平在 $2 5 0 ~ \mathrm { g / t }$ 时，低铜添加水平试验组的肉品质比最适铜添加水平的I组还要好。然而，目前关于铜及枯草芽孢杆菌对于鹅肉品质影响的报道还比较少，只能确定一个大致的肉色范围。李同树等[30测定五龙鹅肌肉 $\mathrm { \ p H }$ 在 $5 . 9 0 { \sim } 6 . 2 8$ 之间，王健等[31测定五龙鹅肌肉的失水率在 $2 7 . 8 4 \% \sim 2 8 . 2 2 \%$ 之间。本试验结果显示， $\mathrm { \ p H }$ 在 $6 . 0 2 \sim 6 . 1 0$ 之间，失水率在 $2 9 . 6 4 \% \sim 3 1 . 9 5 \%$ 之间，与上述的测定结果基本一致。
+
+4结论
+
+$\textcircled{1}$ 枯草芽孢杆菌与铜协同作用对鹅平均日增重和料重比具有显著影响。$\textcircled{2}$ 饲粮中添加枯草芽孢杆菌，显著提高了鹅的CP利用率、CF利用率、铜表观消化率、氮利用率，极显著提高了ADF利用率；显著降低了粪氮。$\textcircled{3}$ 饲粮中添加枯草芽孢杆菌可以提高铜利用率，从而降低饲粮中铜添加水平，并减少铜的排泄量。$\textcircled{4}$ 建议 $5 \sim 1 6$ 周龄肉鹅在饲粮枯草芽孢杆菌添加水平 $2 5 0 \ \mathrm { \ g / t }$ 时，铜适宜添加水平为8mg/kg。
+
+参考文献：
+
+[1]ZHOU W,KORNEGAY E T,VAN LAAR H,et al.The role of feed consumption and feed efficiency in copper-stimulated growth[J].Journal of Animal Science,1994,72(9):2385-2394. [2]田允波,曾书琴.高铜改善猪生产性能和促生长机理的研究进展[J].粮食与饲料工 业,2000(10):31-33.   
+[3] 王幼明,王小龙.高铜的应用对畜禽的慢性中毒作用及对环境生态的影响[J].中国兽医杂 志,2001,37(6):36-38.   
+[4]KALISINSKA E.Concentration of iron,zinc,copper and lead in the brain of wild and domestic geese[J].Archivum Veterinarium Polonicum,1994,34(1/2):107-116.   
+[5]LOPEZ A,LAZARO N,MORALES S,et al.Nickel biosorption by free and immobilized cells of Pseudomonasfluorescens 4F39:a comparativestudy[J].Water,Air,and Soil Polluti0n,2002,135(1/2/3/4):157-172.   
+[6]赵颖,王仁国,陈沿利,等.枯草芽孢杆菌对 $\mathrm { C u } ^ { 2 + }$ 的吸附及菌体表面基团分析[J].环境污染与 防治,2011,33(11):72-77,81.   
+[7]徐晨晨,王宝维,葛文华,等.铜对5\~16周龄五龙鹅生长性能、屠宰性能、营养物质利用率 和血清激素含量的影响[J].动物营养学报,2013,25(9):1989-1997.   
+[8]王璐,易路,王波,等.家禽料重比不同测定方法的比较研究[J].中国家 禽,2015,37(17):31-34. [9]杨凤.动物营养学[M].2版.北京:中国农业出版社,1999.   
+[10]甘伯中.不同铜添加水平对毛兔生产性能、消化代谢、组织器官和血液成分的影响[D]. 硕士学位论文.兰州:甘肃农业大学,2000.   
+[11]周映华,李秋云,陈娴,等.不同芽孢杆菌生理功能比较[J].饲料博览,2007(19):47-49. [12]WU L Y,TAN R B,SHI K J.Efect of a dried Bacillus subtilis culture on gosling growth performance[J].British Poultry Science,2008,49(4):418-422.   
+[13]HOOGE D M,ISHIMARU H,SIMS M D.Influence of dietary Bacillus subtilis C-3102 spores on live performance of broiler chickens in four controlled pen trials[J].Journal of Applied Poultry Research,2004,13(2):222-228.   
+[14]雷剑,秦艳,李卫芬,等.枯草芽孢杆菌对产蛋高峰期绍兴鸭生产性能、免疫力和抗氧化能 力的影响[C]//中国畜牧兽医学会动物微生态学分会第四届第九次全国学术研讨会暨饲料和 动物源食品安全战略论坛论文集.新乡:中国畜牧兽医学会,2008:383-387.   
+[15]王瑞晓,郑诚.鹅、鸡对不同饲料养分利用率的比较测定[J].中国饲料,2001(19):8-9. [16]KIRCHGESSNER M,BEYER M G,STEINHART H.Activation of pepsin (EC3.4.4.1)by heavy-metal ions including a contribution to the mode of action of copper sulphate in pig nutrition[J].British Journal of Nutrition,1976,36(1):15-22.   
+[17]LUO X G,DOVE C R.Efect of dietary copper and fat on nutrient utilization,digestive enzymeactivities,andtissuemineral levelsinweanlingpigs[J].JournalofAnimal Science,1996,74(8):1888-1896.   
+[18]周映华,吴胜莲,贺月林,等.饲用枯草芽孢杆菌发酵条件的优化[J].湖南农业科 学,2010(11):21-23.   
+[19]OHTA A,OHTSUKI M,BABA S,et al.Calcium and magnesium absorption from the colon andrectumareincreasedinratsfedfructooligosaccharides[J].TheJournalof Nutriti0n,1995,125(9):2417-2424.   
+[20]李梓慕,姜军坡,周曙光,等.Bacillus subtilis Z-27制剂对仔猪肠道酶活及消化性能的影响 [J].饲料工业,2012,33(20):41-45.   
+[21]黄雪泉.添加枯草芽孢杆菌制剂对仔猪生产性能的影响[J].中国畜牧兽 医,2010,37(7):212-214.   
+[22]周桂莲,杜忠亮.影响动物体铜吸收利用的因素及评价动物体铜营养的标识(I)[J].饲料 博览,1994(3):11-13.   
+[23]刘凌云,郑光美.普通动物学[M].4版.北京:高等教育出版社,2009.   
+[24]帅江冰,张晓峰,徐晶靓,等.2005-2008 年浙江省生猪主产区猪戊型肝炎血清流行病学调 查[J].畜牧兽医学报,2009,40(7):1037-1042. [25]张思聪,马德磊,李福昌.铜的代谢及营养生理作用[J].饲料研究,2012(6):17-19.   
+[26]SHEN W Y,FU L L,LI W F,et al.Effect of dietary supp lem entation with Bacillus subtilis on growth performance,immune response and antiox idant activities of the shrimp (Litopenaeus vannamei)[J].Aquaculture Research,2010,41(11):1691-1698.   
+[27]ITO M,OHISH I K,YOSHIDA Y,et al.Antiox idative effects of lactic acid bacteria on the colonic mucosaofiron-overloadedmice[J].JournalofAgricultureand Food Chemistry,2003,51(15):4456-4460.   
+[28]CHEN W,ZHU X Z,WANG J P,et al.Effects of Bacillus subtilis var.natto and Saccharomyces cerevisiae fermented liquid feed on growth performance,relative organ weight,intestinal microflora,and organ antioxidant status in Landes geese[J].Journal of Animal Science,2013,91(2):978-985.   
+[29]任列娇,赵素梅,胡洪,等.肌纤维类型及其对猪肉品质影响的研究进展[J].云南农业大学 学报,2010,25(1):124-131.   
+[30]李同树,曾勇庆,唐辉,等.五龙鹅产肉性能与肉质特性的研究[J].中国畜牧杂 志,2000,36(4):15-17.   
+[31]王健,段修军,龚道清,等.豁眼鹅早期生长发育规律及肉用特性研究[J].江苏农业科 学,2008(4):185-190.
+
+Effects of Bacillus subtilis Cooperate with Copper on Growth Performance, Slaughter Performance,Nutrient Availability and Meat Quality of Wulong Geese Aged 5 to 16 Weeks ZHANG ZenanWANG Baowei\* GE Wenhua ZHANG Ming' ai YUE Bin ZHENG Huiwen ZHANG Yangyang (Nutrition and Feed Laboratory of China Agriculture Research System, Institute of High Quality Waterfowl, Qingdao Agricultural University, Qingdao 2661O9, China)
+
+Abstract: This experiment was conducted to study the effects of Bacillus subtilis cooperate with copper on growth performance, slaughter performance, nutrient availability and meat quality of Wulong geese aged from 5 to 16 weeks,and to find a method to reduced dietary copper supplemental level. A total of 36O five-week-old Wulong geese were randomly divided into 6 groups with 6 replicates per group and 1O geese per replicate (half male and half female). Geese in the group I (control group） were fed an optimal supplemental level of copper (copper supplemental level was $1 6 ~ \mathrm { m g / k g }$ ,without Bacillus subtilis); and geese in groups I to VI were fed Bacillus subtilis $( 2 5 0 ~ \mathrm { g / t } )$ , and were fed the diets supplemented with O, 4,8,12,16 mg/kg copper, respectively.The experiment lasted for 12 weeks. The results showed as follows: 1) in the Bacillus subtilis supplemental groups,when dietary copper supplemental level was $8 ~ \mathrm { m g / k g }$ ， the average daily gain and feed to gain ratio reached the best. 2) The dressed percentage and percentage of half-eviscerated yield in groups IV,V and VI were significantly higher than those in group I 0 $_ { ( P < 0 . 0 5 }$ or ${ P \mathrm { { < } } } 0 . 0 1 \$ ). 3） The crude protein availability in group $\mathrm { I V }$ was significantly higher than that in group I $_ { ( P < 0 . 0 5 ) }$ , the crude fiber availability,acid detergent fiber availability and copper apparent digestibility in groups IV,V and VI were significantly higher than those in group I 0 $_ { ( P < 0 . 0 5 }$ or $P { < } 0 . 0 1$ ). 4） The deposited nitrogen and availability of nitrogen in group IV were significantly higher than those in group I ( $_ { P < 0 . 0 5 }$ or $P { < } 0 . 0 1$ )，and the nitrogen from excrement was significantly lower than that in group I $( P { < } 0 . 0 5 )$ . In conclusion, added Bacillus subtilis to diet can promote the availability of copper, reduce the dietary supplemental level of copper, promote growth performance, slaughter performance and nutrient availability. The optimal supplemental level of Bacillus subtilis is $2 5 0 ~ \mathrm { g / t }$ and the level of copper is $8 ~ \mathrm { m g / k g }$
+
+Key words: Bacillus subtilis; copper; geese; growth performance; slaughter performance; meat quality; nutrient; availability

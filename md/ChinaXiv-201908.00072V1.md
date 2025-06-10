@@ -1,0 +1,243 @@
+# 动词论元结构复杂性加工的认知神经机制
+
+王鑫 杭明丽 梁丹丹(南京师范大学文学院，南京 210097)
+
+摘要动词论元结构复杂性表现在论元数量、论元范畴选择模式、题元角色指派模式和映射方式四个方面。大部分实证研究表明，更多的论元数量、选择性论元范畴、选择性题元角色指派以及非典型映射，使动词论元结构加工的认知神经机制更复杂。多论元加工功能脑区主要涉及左侧额下回和外侧裂周后部；选择性论元范畴加工功能脑区主要涉及左侧额下回、额叶中后部、颞上回和颞叶中后部；选择性题元角色指派加工功能脑区主要涉及外侧裂周后部、左侧额叶中后部和额下回；非典型映射加工功能脑区主要涉及左侧额下回、颞上回、颞中回和颞叶后部。左侧额下回可能涉及初始句法加工、动词次范畴确定、句法移位和非宾格动词语义加工，左侧额叶中后部可能涉及初始句法加工和动词次范畴确定，左侧颞上回和颞叶中后部可能涉及表层句法加工和表层论元句法-语义整合，外侧裂周后部可能涉及论元语义表征。动词论元结构加工过程和动词词汇特征表明，复杂性某些方面存在交互作用。动词论元结构复杂性与加工难易的对应关系、复杂性加工难度层级和交互作用的认知神经机制以及汉语动词论元结构复杂性加工认知神经机制等议题，有待进一步探讨。
+
+关键词 动词；论元结构复杂性；加工；认知神经机制
+
+# 1引言
+
+动词论元结构具体表现在论元数量、论元承担的题元角色和论元所属的语法范畴三个方面(黄正德,2007)。如在"Tom hitLily"这一结构中，动词"hit"带有"Tom"和"Lily"两个论元，这两个论元承担的题元角色分别是施事(agent)和受事(patient)，所属语法范畴都是名词。动词论元结构在句子乃至自然语言的加工过程中居于核心地位(郝暾,2018；何文广，陈宝国,2013;Blanco-Elorrieta, Kastner,Emmorey&Pylkkänen,2018;Friederici,2011)，因此，动词论元结构复杂性加工的认知神经机制长期以来一直是认知神经科学领域关注的议题之一(Malyutina&den Ouden,2017)。与国外学界相比，汉语学界围绕上述议题开展的实证研究相对较少，而汉语动词论元结构复杂性及其加工的神经机制可能具有本体特异性(柏晓鹏，薛念文,2015；陈蓓,2017；韩景泉,2019；沈家煊,2018)。关注动词论元结构复杂性加工认知神经机制的研究现状，不仅有助于及时了解当前研究态势以推进自然语言加工研究进程，也能在一定程度上为开展汉语动词论元结构复杂性加工认知神经机制研究提供参考。
+
+# 2动词论元结构复杂性四个方面加工的认知神经机制
+
+考察动词论元结构复杂性认知神经机制的实证研究，包括不同论元数量下、不同论元范畴选择模式下、不同题元角色指派模式下以及不同映射方式下动词论元结构加工认知神经机制四个方面的内容。
+
+# 2.1不同论元数量下动词论元结构加工的认知神经机制
+
+句法分析认为，不同动词，带有的论元数量不同，构成了不同的论元结构。(la)、(1b)和(lc)表明，不及物动词、及物动词和三元动词分别构成了单论元、双论元和三论元三种不同的句法结构。同时，论元结构带有几个论元，就会有几个充当特定题元角色的语义被表征。因此，论元数量越多，论元结构的句法结构和论元语义表征就越复杂(Thompson,Riley,den Ouden,Meltzer-Asscher,&Lukic,2013)。以此为理论依据，不同论元数量下动词论元结构加工的认知神经机制，主要通过比较不及物动词、及物动词和三元动词论元结构加工的认知神经机制来体现。
+
+(1a)Tom cried./汤姆哭了。(NP1(施事) $+ \mathrm { V }$ 门   
+(1b)Tom hitLily./汤姆打了莉莉。(NP1(施事) $\scriptstyle 1 + \mathrm { V } + \mathrm { N P } 2$ (受事))   
+(lc)Tom gave Lilya present./汤姆送莉莉礼物。(NP1(施事) $\scriptstyle 1 + \mathrm { V } + \mathrm { N P } 2$ （与事） $^ +$ NP3(受事))
+
+大量实证研究表明，论元数量越多，论元结构加工消耗的认知神经资源就越多。任会启和梁丹丹(2014)通过单幅图画描述任务，考察了汉语智障儿童不及物、及物动词和三元动词论元结构的产出情况。结果发现，智障儿童产出及物和三元动词论元结构时，主语论元遗漏的数量明显多于不及物动词。Barbieri,Brambilla,Thompson 和Luzzatti(2019)以意大利健康人群为研究对象，借助类似的实验设计发现，被试产出三元动词论元结构的反应时最长，产出及物动词论元结构的反应时时长居中，产出不及物动词论元结构的反应时最短。词汇主义句法观认为，动词词汇信息中包含与之对应的论元结构信息。因此，单个动词的加工情况能够反映其论元结构加工情况(Bachrach,Roy,& Stockall,2014; Thompson etal.,2013)。大量研究借助词汇命名任务发现，健康被试和失语症患者产出三元动词的困难最大，产出及物动词的困难次之，产出不及物动词的困难最小(Barbieri etal.,2019; Caley,Whitworth,& Claessen, 2017; Malyutina, Richardson,& den Ouden,2016; Thompson et al.,2013; Wang& Thompson,2016)。同时，Thompson 等人(2013)指出，失语症患者加工不同数量论元时表现出的差异性，很有可能与其病灶区回有关。Caplan,Alpert,Waters,& Olivieri(20o0)和 Dronkers,Wilkins,VanValin,Redfern,&Jaeger(2004)等研究表明，很多情况下，失语症患者的病灶在左侧额下回(left inferiorfrontal gyri,IFG)和外侧裂周(perisylvian regions)附近。因此，左侧额下回和外侧裂周，可能与多论元认知神经加工有关(Thompson et al.,2013)，该结论也得到来自 fMRI研究的证据支持。为了排除句子长度等因素的影响,考察不同论元数量结构加工认知神经机制的fMRI研究(den Ouden,Fix,Parrish,&Thompson,2009; Meltzer-Asscher, Mack, Barbieri,& Thompson,2015; Tompson et al.,2007; Thompson,Bonakdarpour,&Fix,2010)，均以词汇主义句法观为依据，研究单个动词的加工情况。
+
+词汇判断任务下的fMRI研究，考察了被试加工英语不及物动词(die/fade/sit/sneeze)、及物动词(achieve/adopt/hold/explore)和三元动词(borrow/bring/buy/teach)时的脑区激活情况(Meltzer-Asscher etal.,2015;Tompson et al.,2007)。结果发现，与不及物动词相比，被试加工及物动词时，左侧外侧裂周后部显著激活。被试加工及物动词和三元动词时，在双侧外侧裂周后部出现显著激活。采用同 2007年相似的实验设计，Tompson 等人(2010)分别考察了失语症患者(9人的病灶区位于左侧额颞区域，3名的病灶区不详)和健康被试加工英语不及物动词、及物动词和三元动词(语料与 Tompson 等人(2007)相同)时的脑区激活情况。结果与 2007年所作研究相似，健康被试加工论元数量较多的动词时，外侧裂周后部显著激活。其中，4名失语症患者外侧裂周后部只出现了单侧激活(1名左侧，3名右侧)，这可能与其左侧或右侧的对应脑区存在损伤有关。其中，右侧外侧裂周区出现激活的的3名患者左侧颞顶区域存在损伤，左侧外侧裂周区出现激活的1名患者右侧额颞区域存在损伤。此外，den Ouden等人(2009)通过图-词匹配任务，考察了被试加工零语境下英语及物动词(kiss/stir/cut/put)和不及物动词(cry/sleep/laugh/jump)的脑区激活情况。结果发现，与不及物动词相比，被试加工及物动词时，外侧裂周后部和左侧额下回显著激活。
+
+大脑词库中的词项经过推导形成初始句法(深层句法),初始句法经过特定的映射规则形成表层句法。Friederici(2011)以及 Friederici和 Kotz (2003)等研究发现，左侧额下回与初始句法的加工有关。前文句法分析表明，论元数量不同，初始句法结构不同。因此，多论元加工时引起左侧额下回激活，表明该脑区可能涉及动词论元结构加工过程中初始句法结构加工(den Ouden et al.,2009)。同时，相关元分析显示，外侧裂周后部与事件结构核心名词的语义表征密切相关(Binder,Desai,Graves,&Conant,2009)。前文句法分析表明，论元数量不同，论元语义表征不同。因此，论元数量较多的论元结构加工时引起外侧裂周后部激活，表明该脑区可能涉及动词论元结构加工过程中论元语义表征(den Ouden et al., 2009; Meltzer-Asscher et al., 2015; Tompson et al., 2010)。
+
+新近研究还发现，左侧额下回与复杂语义加工有关(王穗苹，黄建,2019)。上述fMRI实验任务均在零语境下进行，很难排除语义因素的影响。这似乎表明，上述研究发现的左侧额下回，有可能与动词语义加工有关。但上述情况存在的可能性很小，因为从语义角度分析，及物动词和不及物动词中的非作格动词都表示动作行为，语义具象性都很高，加工难度应该相似。及物动词与不及物动词中表状态的非宾格动词相比，动作的具象性更高，加工应该更容易。但上述实验结果均表明，及物动词比不及物动词更难加工。
+
+另外，Meltzer-Asscher 等人(2015)指出，虽然 Tompson 等人(2007)选取的语料一致性区别在论元数量，但部分动词(如及物动词和选择性非宾格动词)在题元角色指派方面的复杂性也有不同。鉴于此，Meltzer-Asscher 等人(2015)只选用了简单非宾格动词，因为该类动词与一般及物动词一样，只有一种题元角色指派情况。但该研究中部分及物动词(如accept)，与不及物动词相比，除了在论元数量方面存在差异，在论元范畴选择模式也存在差异。虽然这些动词所占比例不大，但也有可能影响实验结果。
+
+# 2.2不同论元范畴选择模式下动词论元结构加工的认知神经机制
+
+句法分析认为，从论元所属语法单位性质的专一性和选择性来看，不同动词的论元范畴选择模式不同。(2a)表明，对于专一性论元范畴动词而言，论元范畴选择只能是名词(短语)或小句。(2b)则表明，对于选择性论元范畴动词而言，论元结构的范畴选择既可以是名词或名词性短语，也可以是小句。上述两类动词的不同，决定了动词论元结构表层和初始句法结构的不同。前者表层和初始句法是惟一的，后者的则具有选择性。因此，后者与前者相比，论元结构的句法更复杂(Bachrach et al,2014)。以此为理论依据，不同论元范畴选择模式下动词论元结构加工的认知神经机制，主要通过比较专一性和选择性论元范畴动词论元结构加工的认知神经机制来体现。
+
+(2a)Tom hitLily. $\mathrm { \Delta N P + V + N P }$
+
+Tom thought Lily is beautiful./汤姆认为莉莉漂亮。(NP1+V+clause)
+
+(2b)TomhatedLily./汤姆讨厌莉莉。 $( \mathrm { N P + V + N P } )$ 4号
+
+Tom hated that his parents lied./汤姆讨厌他父母撒谎。( $\mathrm { \Delta N P ^ { \scriptstyle + V + } }$ clause)
+
+相关实证研究表明，论元范畴选择模式越复杂，论元结构加工消耗的认知神经资源就越多。Malyutina 等人(2016)通过对叙述性话语材料的大样本分析发现，与专一性论元范畴动词相比，失语症患者产出选择性论元范畴动词论元结构的数量更少，正确率更低。这表明，论元范畴选择越多的动词，论元结构加工的认知神经过程就越复杂。早期行为实验研究(Chodorow,1979)和 fMRI实验研究(Malyutina etal.,2017; Shetreet et al.,2010b)也表明，被试在加工选择性论元范畴动词论元结构时，需要消耗更多的认知神经资源。同时，fMRI研究表明，选择性论元范畴加工对应的功能脑区，主要涉及左侧额下回、左侧额叶中后部(left middle-posterior frontal lobe)、左侧颞上回(left superior temporalgyrus,STG)和左侧颞叶中后部(left middle-posterior temporal lobe)。
+
+早期 fMRI研究，通过听觉刺激任务，让被试判断句子内容是否发生在家中，考察了希伯来语 专一性论元范畴动词句(Dan hidlik [esh] [b-a-kirayim]/Dan lit [fire]theme [in-the-stove]adjuct)、选择性论 元范畴 动词句 (Gal syima[et ha-sefer] [b-a-xacot]/Gal finished[the-book]theme [in-the-midnight]adjmcl/Sara nista [et ha-kova] [b-a-xanut]/Sara tried [the-hat]theme [in-the-shop]adjmct)的 加工情况(Shetreet,Friedmann,& Hadar,201Ob; Shetreet,Palti,Friedmann,& Hadar,2007)。结果发现， 与前一类句子相比，被试加工后一类句子时，左侧颞上回和左侧额下回显著激活。新近研究借助句 子合理性判断任务，考察了被试对英语专一性论元范畴动词句(The user completed the survey.)和选择 性论元范畴动词句(The swimmer hated the referee.)的加工情况(Malyutina et al.,2017)。结果发现，相较 于前一种句子，后一种句子加工时激活了左侧额叶中后部、左侧颞叶中后部和颞-顶区域 (temporo-parietal areas)。
+
+如前所述，左侧额下回与初始句法的加工密切相关(Friederici,&Kotz,2003)，有关歧义结构的句法研究则发现，左侧额叶中后部主要与选择性句法的初始句法加工密切相关(Mason,Just,Keller,&Patricia,2003)。前文句法分析表明，论元范畴选择情况不同，初始句法结构的复杂性不同。因此，选择性论元范畴加工时激活左侧额下回和左侧额叶中后部，表明上述脑区可能涉及动词论元结构加工过程中初始句法加工(Shetreet et al.,2007; Thompson & Meltzer-Asscher,2014)。Rodd, Olivia,Bill,&Lorraine(2010)则发现，左侧颞叶与选择性句法的表层结构加工有关。前文句法分析显示，论元范畴选择情况影响表层句法结构的复杂性。因此，选择性论元范畴加工激活左侧颞上回和颞叶中后部，表明上述脑区可能涉及动词论元结构加工过程中表层句法加工(Shetreet etal.,2010b,2007;Malyutinaet al., 2017)。
+
+# 2.3不同题元角色指派模式下动词论元结构加工的认知神经机制
+
+题元角色指动词指派给论元的语义角色，如施事、受事、客体等。句法分析认为，从动词对题元角色指派情况的专一性和选择性看，不同动词对题元角色指派的模式不同。(3a)表明，简单动词指派题元角色的情况只有一种，呈现出专一性模式。(3b)则表明，选择性动词，具有及物动词和不及物动词两个次范畴小类，指派题元角色的情况有两种，呈现出选择性模式(Cuervo,2014;Fadlon,2016;Rappaport-Hovav&Levin,2011)。因此，与简单动词相比，选择性动词的论元语义表征和句法结构更复杂。以此为理论依据，不同题元角色指派模式下动词论元结构加工的认知神经机制，主要通过比较简单动词和选择性动词论元结构加工的认知神经机制来体现。
+
+(3a)[Tom] [hitLily.]([施事][V客体])
+
+(3b)[Theworker][opened the door.]/工人打开了那扇门。([施事][V客体])
+
+[The door][opened.]/那扇门打开了。([客体][V])
+
+大部分实证研究表明，选择性题元角色指派与专一性题元角色指派相比，加工所需的认知神经资源更多。Wang＆Thompson(2016)以词汇主义句法观为依据，通过词汇命名任务，分别考察了失语症患者对简单动词和选择性动词的加工情况。结果发现，失语症患者加工后一类动词更困难。另一项以健康被试为考察对象的研究借助类似的实验设计发现，被试产出选择性动词的反应时长于简单动词(Barbierie tal.,2019)。同时，fMRI研究发现，选择性题元角色指派加工激活了额外功能脑区，也表明更多的题元角色指派情况加工时，需要消耗更多的认知神经资源。
+
+以词汇主义句法观为依据，Meltzer-Asscher,Schuchard,den Ouden,& Thompson,(2013)通过词汇判断任务，比较了英语选择性动词(break/rol/tear/sink)和简单动词(laugh/cry/wink/snif)加工时的脑区激活情况。结果发现，与简单动词相比，选择性动词加工时激活了双侧外侧裂周后部和左侧额叶中后部。Malyutinaet al.(2017)则借助句子合理性判断任务，考察了被试加工英语选择性动词句(Thescientist collected the samples.)和简单动词句(The maid cleaned the room.)时的脑区激活情况。结果发现，与简单动词句相比，被试加工选择性动词句时，左侧额下回和左侧额叶中后部显著激活。
+
+前文分析显示，左侧额下回主要与初始句法加工密切相关(Friederici&Kotz,2011)。有关兼类词加工机制的fMRI研究发现，左侧额下回和左侧额叶中后部与动词次范畴的确定有关（Mason& Just，2007）。Thompson 和 Meltzer-Asscher(2014)则指出，左侧额叶中后部也有可能涉及初始句法加工。前文句法分析表明，题元角色指派模式不同，初始句法结构复杂性和动词次范畴可选项的多少不同。因此，选择性题元角色指派加工引起左侧额下回和左侧额叶中后部激活，表明上述脑区可能涉及动词论元结构加工过程中初始句法加工和动词次范畴的确定(Malyutina et al.,2017)。此外，前文分析还显示，后外侧裂周区涉及事件结构核心名词语义表征(Binder etal.,2009)。前文句法分析表明，题元角色指派模式不同，论元语义表征也不同。因此，选择性题元角色指派加工激活后外侧裂周区，表明该脑区可能与动词论元结构加工过程中论元语义表征有关(Meltzer-Asscher etal.,2013)。
+
+此外，Malyutina等人(2017)指出，虽然 Meltzer-Asscher等人(2013)关注的议题是不同题元角色指派模式下论元结构的加工情况，但该研究中部分简单动词为非作格动词，部分选择性动词为非宾格动词，这两类动词的映射方式不同。因此，该研究中额外激活的脑区除了有可能反映不同题元角色指派模式的加工差异，还有可能反映不同映射方式的加工差异。但上述情况存在的可能性很小，因为 Meltzer-Asscher等人(2013)考察的是零语境下的动词，论元没有出现，而非宾格动词映射方式的实现与论元密切相关。
+
+# 2.4不同映射方式下动词论元结构加工的认知神经机制
+
+句法分析认为，深层结构带有特定题元角色的论元映射到表层结构特定的句法位置，施事论元往往映射到表层主语位置，客体论元则往往映射到表层宾语位置。遵守论元承担的题元角色与表层句法位置之间常规对应关系的映射即典型映射，违背论元承担的题元角色与表层句法位置之间常规对应关系的映射即非典型映射(王鑫，杨亦鸣,2018)。与非作格和及物动词相比，非宾格和被动式动词的论元结构，均属于非典型映射论元结构(Momma,Robert,&Philips,2018;Perlmutter,1978;Vermice,&Guasti,2015)。(4a)表明，非宾格动词论元被指派客体的题元角色，在深层结构处于内论元位置；非作格动词论元被指派施事的题元角色，在深层结构处于外论元位置。所以，虽然非宾格动词和非作格动词论元结构的语表形式均为 $\mathrm { \Delta ^ { \cdot } v p + V ^ { \prime } } ,$ ，但前者表层主语由深层内论元句法移位得到，承担的题元角色为客体，属于非典型映射论元结构，后者表层主语则由深层外论元直接映射得到，承担的题元角色为施事，属于典型映射论元结构。同时，及物动词带上被动标记后就变成了被动式动词，如"was hit”。被动式动词也具有非宾格性(Chomsky,1981)。(4b)表明，被动式动词论元结构中的受事论元，经历了由内论元到表层主语的句法移位，承担的题元角色为受事。因此，被动式动词论元结构的映射也属于非典型映射。由于非典型映射论元结构中表层论元占据的句法位置(表层主语的位置)与其承担的题元角色(受事或客体)之间的对应关系不对称，与典型映射论元结构相比，非典型映射论元结构的映射过程以及表层论元句法-语义整合更加复杂(Momma,2018;Vermice,& Guasti,2015)。以此为理论依据，不同映射方式下动词论元结构加工的认知神经机制，主要通过比较非宾格和非作格动词论元结构以及被动句和主动句加工的认知神经机制体现。
+
+(4a)[(主语/施事)Tom][cried.](非作格动词深层论元结构) [(主语/施事)Tom][cried.](非作格动词表层论元结构) [e][died(宾语/客体)Tom.](非宾格动词深层论元结构) [(主语/客体)Tomi][died(宾语/客体)ti]/汤姆死了。(非宾格动词表层论元结构)   
+(4b)[(主语/施事)Tom][hit(宾语/受事)Lily.](及物动词深层论元结构) [(主语/施事)Tom][hit(宾语/受事)Lily.](及物动词表层论元结构) [e][washit(宾语/受事)Lily.](被动式动词深层论元结构) [(主语/受事)Lilyi][washit(宾语/客体)ti](被动式动词表层论元结构)
+
+# 2.4.1非宾格动词和非作格动词论元结构加工的认知神经机制
+
+当前实证研究表明，非宾格动词论元结构加工功能脑区主要涉及左侧额叶和颞叶。首先，词汇命名任务(Sung,2016; Thompson,2003)和图-句匹配任务(McAlister,Bachrach,Waters,Michaud,&Caplan,2009; Sulivan,Walenski,Love,& Shapiro,2017)下的失语症研究均表明，与健康被试相比，失语症患者产出非宾格动词论元结构的数量更少、正确率更低、反应时更长。此外，Lee 和Thompson(2011)通过眼动(eye tracking)技术，考察了健康被试和失语症患者产出非宾格动词句(Theblack tube is floating)和非作格动词句(The black dog is barking)时的眼动情况。实验结果显示，与健康被试相比，失语症患者产出非宾格动词时，眼动注视时间更长，表现出明显延迟。Thompson 和Meltzer-Asscher(2014)指出，失语症患者加工非宾格动词论元结构时表现出困难，可能与其病灶脑区有关。失语症患者的病因通常与布洛卡区(以左侧额叶为主)和韦尼克区(以左侧颞叶为主)的损伤有关。因此，Thompson 和 Meltzer-Asscher(2014)进一步指出，失语症患者加工非宾格动词论元结构的能力受损表明，左侧额叶和颞叶涉及非宾格动词论元结构的认知神经加工。这一结论也得到来自fMRI研究的证据支持。同时，fMRI研究结果显示，与非作格动词相比，非宾格动词论元结构加工更复杂。
+
+早期fMRI研究通过听觉刺激任务，让被试判断希伯来语非宾格动词句(ha-yeled nafal[me-ha-mita ha-xadasha]/The boy fell[from the new bed] adjunct)、非作格动词句(ha-yalda hit'atsha [alha-shatiax ha-adom]/The girl sneezed [on the red carpet] adjunct)和及物动词句(ha-yeled nish'an [al ha-echa-gavoah]/The boy leaned [on the talltree] complement)表达的内容是否发生在家中,考察了非宾格动词论元结构加工情况。结果发现，与非作格动词句和及物动词句相比，被试加工非宾格动词句时，左侧额下回与颞中回(left middle temporal gyrus,MTG)明显激活，被试加工非作格动词句和及物动词句时，脑区激活情况无显著性差异(Shetreet,Friedmann,&Hadar,2010a)。随后，采用同 2010 年相似的实验设计，Shetreet 和Friedmann(2012)分别考察了希伯来语非宾格动词句(Dana hitmoteta [ba-rexovha-rashi]/Dana collapsed [in the main street] adjunct+modifier)、非作格动词句(Dana hit'amla [ba-rexovha-rashi]/Dana exercised [in the main stret] adjunct+modier)和反身动词(reflexive verbs)句(Dana hitgarda[ba-rexov ha-rashi]/Dana scratched herself [inthe main street] adjumct+modifer)加工时的脑区激活情况。结果发现，与非作格和反身动词句(论元结构映射类型为典型映射)相比，非宾格动词句加工时，左侧额下回和颞中回显著激活；新近研究采用同 Shetreet 等人(2010)相似的实验设计，分别考察了表层句法结构均为"NP+V+Det+N+PP"的非宾格动词句、非作格动词句(文章只给出了各类动词而没有给出语料例句)加工时脑区激活情况(Agnew,Van de Koot,McGettigana,& Scott2014)。实验结果显示，与非作格动词句相比，被试加工非宾格动词句时，显著激活了颞上回。另一项新近研究则以词汇主义句法观为依据，借助词汇判断任务，比较了被试加工零语境下英语简单非宾格动词(appear/arrive/come/died)、非作格动词(sneeze/kneel/blink/rest)和及物动词(accept/adopt/build/collect)时的脑区激活情况(Meltzer-Asscher etal.,2015)。结果发现，与非作格动词和及物动词相比，非宾格动词加工时激活了左侧额下回。结合 Shetreet 和Friedmann(2012)等研究结论，Meltzer-Asscher 等人(2015)认为，上述研究结果表明，非宾格动词论元结构的映射方式为非典型映射，动词词汇信息中包含论元句法移位的句法信息。上述分析似乎有待商榷，因为论元结构的非典型映射过程是通过客体论元的句法移位实现的，而Meltzer-Asscher等人(2015)考察的是单个非宾格动词，不包含客体论元。实际上，非宾格动词和非作格动词，在语义方面也有很大差别。前者表达非自主性的状态，后者表达自主性的动作。前者语义具象性较低，加工更复杂。而前文提到，左侧额下回与复杂语义的加工也有关系(王穗苹，黄健,2019)。因此，Meltzer-Asscher等人(2015)实验结果中的左侧额下回，可能反映了非宾格动词的语义加工。
+
+另外，除了Meltzer-Asscher等人(2015)之外，上述 fMRI研究中的其他几项研究，所选非宾格动词中均存在选择性动词，这使实验语料中部分动词论元结构复杂性的差异，既可能表现在非典型映射方面，又可能表现在题元角色指派模式方面。
+
+# 2.4.2被动句和主动句论元结构加工的认知神经机制
+
+相关实证研究表明，相较于主动句，被动句论元结构的加工过程更复杂。早期一项失语症研究借助图-句匹配任务发现，与主动句相比，失语症患者产出被动句的错误率更高(Friederici& Graetz,1987)。Cho-Reyes & Tompson(2012)通过句子启动实验(sentence priming study)发现，失语症患者产出被动句的错误率，明显高于主动句。其他研究也得到了类似的实验结果(Faroqi-Shah& Thompson,2003;Grodzinsky,2000)。新近研究借助眼动技术，考察了健康被试和失语症患者理解主动句和被动句时的眼动情况(Mack,Andrew,Gutierrez,& Thompson,2016)。实验结果显示，与主动句相比，失语症患者理解被动句时，眼动注视时间更长，说明失语症患者加工被动式动词论元结构时消耗的认知神经资源更多。刘涛和杨亦鸣(2016)借助 ERP技术手段，利用句子合理性判断任务，考察了被试加工汉语兼语式被动句(客户被老板指使员工赶走了)和主动兼语句(经理和老板同意员工出国了)时的脑电诱发情况。实验结果表明，相对于典型映射得到的主动兼语句，非典型映射得到的被动兼语句，在VP2(如例句中的"赶走")处诱发出更大的前部负波和相对较小的P600成分,在VP1(如例句中的"指使")处则只诱发出前部负波效应。分析认为，前部负波效应反映了从工作记忆中提取移位成分的加工，P600 效应反映了移位成分与语迹构建句法关联后的句法整合加工。因此，被动句论元结构加工，消耗的认知神经资源更多。采用与上述研究类似的实验设计，另一项考察汉语空语类加工认知神经机制的 ERP研究，比较了被试加工汉语一般被动句(窗户被母亲擦了两遍)和一般主动句(昨天母亲擦了桌子时的脑电诱发情况。结果发现，与主动句相比，被动句句尾处(如例句中的"两遍")诱发了明显的 P600-like效应。分析认为，P600-like 效应反映了非典型映射过程中移位成分从工作记忆中提取出来后与其语迹建立句法关联，并被整合到动词论元结构中的认知神经加工(刘涛，江火,2016)。此外，由于失语症患者的病因通常与左侧额叶和颞叶的损伤有关，Mack et al.(2016)指出，失语症患者被动结构加工能力受损，表明被动式动词论元结构加工功能脑区涉及左侧额叶和颞叶。上述观点同样得到了fMRI研究的证据支持。
+
+Mack,Meltzer-Asscher,Barbieri 和 Thompson(20l3)利用听觉刺激任务，让被试听到英语中的主动句(The boy is hugging the girl)和被动句(The girl was hugged by the boy)后执行图-句匹配任务并作出按键反应。结果发现，与主动句相比，被试加工被动句时，左侧额下回与颞枕皮层(left temporo-occipitalcortex)出现明显激活。新近研究采用与Mack等人(2013)相似的实验设计，考察了汉语主动句(小狗把骨头叼走了)、被动句(骨头被小狗叼走了)和一般陈述句(小狗叼走了骨头)论元结构加工时的脑区激活情况(Feng et al.,2015)。结果发现，与一般陈述句相比，被试加工被动句时，在左侧的额叶和颞叶处出现了显著激活。与主动句相比，被试在加工被动句时，在左侧额下回和颞上回后部(left posteriorsuperior temporal gyrus)处出现了显著激活。
+
+考察句法移位加工机制的研究发现，左侧额下回与句法移位操作密切相关(Constable etal.,2004;Friedmann＆ Shapiro,2003)。前文句法分析表明，非典型映射经历了句法移位。因此，非典型映射论元结构加工引起左侧额下回激活，表明该脑区可能涉及论元结构加工过程中句法移位的操作(Feng etal.,2015;Mack etal.,2013;Meltzer-Asscher etal.,2015; Shetreet et al.,2010a)。考察表层句法-语义整合机制的研究则发现，左侧颞叶与表层句法结构主宾语的句法-语义整合有关(Caplan,2010; Hirotani,Makuuchi,Ruschemeyer,&Friederici,2011)。前文句法分析表明，非典型映射论元结构表层论元的句法-语义整合更复杂。因此，非典型映射论元结构加工激活左侧颞上回、左侧颞中回和左侧颞叶后部，表明上述脑区可能涉及论元结构加工过程中表层论元的句法-语义整合(Agnew etal.,2014;Feng et al.,2015;Mack et al., 2013; Meltzer-Asscher et al., 2015; Shetreet et al., 2010a)。
+
+# 2.5总结和对动词论元结构复杂性交互作用的构想
+
+# 2.5.1总结
+
+句法分析认为，论元数量的多少、论元范畴选择模式、题元角色指派模式和映射方式，体现了动词论元结构的复杂性。以上回顾的实证研究表明，论元结构越复杂，其加工的认知神经机制就越复杂。现有fMRI和部分失语症研究结果显示，论元结构复杂性各方面所涉功能脑区及其可能参与的认知加工环节如表1所示。
+
+表1动词论元结构复杂性、功能脑区、认知神经加工对应关系  
+
+<html><body><table><tr><td>动词论元结构复杂性</td><td>功能脑区</td><td>所涉认知神经加工</td></tr><tr><td>多论元</td><td>外侧裂周后部</td><td>论元语义表征</td></tr><tr><td rowspan="3">选择性论元范畴</td><td>左侧额下回</td><td>初始句法加工</td></tr><tr><td>左侧颞上回和颞叶中后部</td><td>表层句法加工</td></tr><tr><td>左侧额下回</td><td>初始句法加工</td></tr><tr><td rowspan="3">选择性题元角色指派</td><td>左侧额叶中后部</td><td>初始句法加工</td></tr><tr><td>外侧裂周后部</td><td>论元语义表征</td></tr><tr><td>左侧额下回</td><td>初始句法加工、动词次范畴确定</td></tr><tr><td rowspan="3">非典型映射</td><td>左侧额叶中后部</td><td>初始句法加工、动词次范畴确定</td></tr><tr><td>左侧颞上回、颞中回和颞叶后部</td><td>表层论元句法-语义整合</td></tr><tr><td>左侧额下回</td><td>句法移位、非宾格动词语义加工</td></tr></table></body></html>
+
+注：当前考察论元结构复杂性各方面的实证研究，语料的一致性区别在于考察的复杂性具体方面。因此，其所得实验结果和结论应该具有参考性。此外，前文研究大都结合前人研究结果，讨论具体功能脑区与动词论元结构认知神经加工过程的对应关系，所得结论相对间接。
+
+2.5.2关于论元结构复杂性交互作用的构想
+
+表1同时表明，论元语义表征可能与论元数量和题元角色指派有关；初始法加工可能与论元数量、论元范畴选择和题元角色指派有关；表层论元句法-语义整合以及映射过程可能与映射方式有关；表层句法加工可能与论元范畴选择有关。Thompson 和 Meltzer-Asscher(2014)指出，表层句法加工与论元数量也有关系。上述一系列关联性显示，动词论元结构复杂性某些方面涉及相同的认知神经加工过程，存在交互作用。结合Meltzer-Asscher et al.(2015)等研究，动词论元结构加工(产出和理解)过程涉及论元语义表征、初始句法结构加工(建立和解构)、映射(逆向映射，映射指初始句法到表层句法的过程，逆向映射指表层句法到初始句法的过程)、表层句法结构加工(建立和解构)以及表层论元句法-语义整合等环节。基于此，从动词论元结构产出过程看，上述交互作用可能表现如下：题元角色指派影响论元数量，论元数量影响论元语义表征，并影响初始句法建立。论元范畴选择也影响初始句法结构建立，并影响表层句法的建立。映射方式影响映射过程，并影响表层论元句法-语义整合。从动词论元结构理解过程看，上述交互作用可能表现如下：题元角色指派影响论元数量，论元数量影响表层句法解构，并影响初始句法解构和论元语义表征。论元范畴选择也影响表层句法解构，并影响初始句法解构。映射方式影响表层论元句法-语义整合，并影响逆向映射。同时，从词汇特征层面看，同一动词论元结构复杂性往往表现在多个方面(Bachrach et al.,2014；Malyutina et al.,2017)，如"break"论元结构复杂性既表现在题元角色指派方面，又表现在映射方式方面，还表现在论元数量方面。当"break"题元角色指派为"[施事][V 客体]”，其表层论元结构由典型映射实现，带有两个论元；当"break"题元角色指派为"[客体][V]”，其表层论元结构由非典型映射实现，带有一个论元。因此，立足词汇特征层面，题元角色指派影响映射方式和论元数量。综上，动词论元结构产出和理解过程中复杂性交互作用情况可能分别如图1和图2所示。
+
+![](images/c14e6b599a7439a437e74d27a39cb9c058d0cce2fe15f87f0c4e0aec759bccd9.jpg)  
+图1动词论元结构产出过程中复杂性交互作用示意图
+
+![](images/cd1570135469aece5e7a14928da7836c3ea1bd39a09eb56d68dad9aebdea1c5c.jpg)  
+图2动词论元结构理解过程中复杂性交互作用示意图
+
+注：图中黑色字体表示动词论元结构复杂性各方面，红色字体表示动词论元结构加工过程各环节，并用黑色直线联系各环节，浅蓝色箭头表示"影响”。
+
+考虑到动词论元结构复杂性某些方面存在交互作用，后续研究考察复杂性具体某一方面加工认知神经机制时，最好考虑将动词论元结构复杂性的其他方面保持一致。如在考察非典型映射这一复杂性加工情况时，选取"die"和"come”作为对照组，比选取"break"和"come"要好很多，因为前一组动词只在映射方式上存在差异，后一组动词在映射方式和题元角色指派模式方面都存在差异。
+
+# 3研究展望
+
+学界对动词论元结构复杂性加工认知神经机制的研究，在取得上述成果的同时，也留下了一些有待进一步探讨的议题。
+
+# 3.1动词论元结构复杂性与加工难易的对应关系
+
+虽然大量实证研究表明，动词论元结构复杂性越高，加工难度就越大。但部分研究得出了相左的结论。新近fMRI研究通过词汇判断任务发现，与及物动词相比，被试加工不及物动词时，左侧额叶和颞叶显著激活(Hernandez,Fairhall,Lenci,Baroni,& Caramazza,2014)。Rodriguez-Ferreiro,
+
+Llorenc 和 Sanz-Torren(2014)则借助词汇判断任务发现，与及物动词相比，被试加工不及物动词时的正确率较低，反应时较长。由此，与论元结构复杂性较低的不及物动词相比，复杂性较高的及物动词更容易加工。Hermandez 等人(2014)和Rodriguez-Ferreir 等人(2014)均认为，论元数量较多的动词，语义信息更丰富，更容易通达。另一项新近fMRI研究利用词汇判断任务，考察了被试加工单个英语选择性动词和简单动词时的脑区激活情况(Malyutina etal.,2017)。结果显示，与简单动词相比，被试加工选择性动词时，左侧颞叶显著激活。同时，Malyutina et al.(2017)借助词汇判断任务，考察了被试对英语专一性和选择性论元范畴动词的加工情况。结果发现，与后一类动词相比，被试加工前一类动词时，在双侧额叶区域出现显著激活。作者指出，虽然选择性动词和选择性论元范畴动词的论元结构复杂性更高，但语义信息也更丰富，因而零语境下词汇的语义更容易通达。综上，动词论元结构复杂性与加工难度的对应关系，仍存在分歧。而上述分歧的辨正，可以为词汇表征和动词论元结构加工模型精细化构建提供参考。因此，上述分歧可能是后续研究的议题之一。后续研究或许可以借助 ERP技术手段，考察不同复杂性动词论元结构的加工情况，在与fMRI等实证研究结果形成对照的同时，扩宽研究路径。
+
+# 3.2动词论元结构复杂性加工难度层级和交互作用的认知神经机制
+
+与及物动词相比，非宾格动词论元结构加工引起了额外功能脑区的激活(Meltzer-Asscher et al,2015; Shetreet etal.,2010a)，这表明，非典型映射加工难度高于多论元加工，动词论元结构复杂性不同方面的认知神经加工难度可能具有层级性。但当前的实证研究，只是单独考察论元结构复杂性的某一方面，这同时也使复杂性交互作用的认知神经机制缺乏直接的实证支持。而观照复杂性加工难度层级和复杂性交互作用的认知神经机制，可以深化对动词论元结构加工认知神经机制的认识。因此，上述议题或许是后续研究努力的方向之一。观照论元结构复杂性加工难度层级这一议题时，或许可以借鉴 Europa,Gitelman,Kiran 和 Thompson(2019)考察句法移位加工难度层级时的思路，借助fMRI等技术手段，先比较同一方面高复杂性相比低复杂性论元结构的脑区激活情况，然后将每一复杂性方面的比较结果再做一次比较。观照论元结构复杂性交互作用这一议题时，则可以比较单方面复杂性对照组的脑区激活情况与多方面复杂性对照组的脑区激活情况。此外，后续句法研究或许可以从词汇演变和语法化的角度，阐释动词论元结构复杂性交互作用的形成动因和发生机制，与实证研究形成映照。
+
+# 3.3汉语动词论元结构复杂性加工的认知神经机制
+
+当前以汉语为研究对象，考察动词论元结构复杂性加工认知神经机制的研究，还相对少见。同时，汉语动词论元结构复杂性，在很多方面表现出鲜明的本体特异性，这些特异性有待实证研究进一步考察或辨正。具体分析如下：
+
+# 3.3.1汉语非宾格动词论元结构的映射方式
+
+汉语非宾格动词可以带宾语构成"显性非宾格结构”，如"来了客人”。汉语非作格动词也能带宾语，如"我们宿舍睡了两个人”。因此，汉语非宾格和非作格动词论元结构均属于典型映射结构(沈家煊,2018)。但新近研究认为，汉语非宾格动词论元结构属于非典型映射结构(韩景泉,2019)。考虑到"非宾格假说"的规定性，是相对语表形式为"NP-V"的"隐性非宾格结构"(如"客人来了")而言的。因此，后续研究或许可以借助fMRI和ERP 等技术手段，比较汉语隐性非宾格结构和非作格结构加工时的脑区激活情况。如果隐性非宾格结构与非作格结构诱发了相似的脑电成分或激活了相似的功能脑区，则表明其属于典型映射结构。如果隐性非宾格结构与非作格动词结构相比，加工时诱发了P600 等反映句法移位的脑电成分，或激活了左侧额下回等反映句法移位的功能脑区，则表明其属于非典型映射结构。
+
+# 3.3.2汉语领主属宾句论元结构的映射方式
+
+汉语领主属宾句(如"王冕死了父亲")论元结构的句法特征是，核心不及物动词兼有主语和宾语(韩景泉,2019)。对于这一特殊论元结构,有研究者认为其是典型映射结构(韩景泉,2019；任鹰,2009)，有研究者则认为，其映射时包含隐现的表"经历"意义的轻动词，属于轻动词论元结构(王奇,2006)，还有研究者认为，其映射时经历了领有名词(如例句中的"王冕")移位，属于非典型映射结构(田启林，2018)。ERP 研究发现,轻动词论元结构加工会在 500-900ms 时间窗内诱发出一个前部负波(Wittenberget al.,2014)。fMRI研究则发现，轻动词论元结构加工激活了左侧额中回(封世文，杨亦鸣,2011)。后续研究或许可以借助ERP或fMRI等技术手段，考察汉语领主属宾句论元结构的映射方式。如果领主属宾句与典型映射结构(如"王冕骗了父亲")相比，加工时诱发了相似的脑电成分或激活了相似的功能脑区，则说明其属于典型映射结构。如果领主属宾句与典型映射结构相比，加工时诱发了反映轻动词加工、时间窗为500-900ms左右的前部负波，或激活左侧额中回等反映轻动词加工功能脑区，则说明其属于轻动词论元结构。如果领主属宾句与典型映射结构相比，加工时诱发了P600等反映句法移位的脑电成分，或激活了左侧额下回等反映句法移位的功能脑区，则说明其属于非典型映射结构。
+
+# 3.3.3 汉语V $^ +$ 事件NP"论元结构的映射方式
+
+在诸如"做报告”、“加以批评”、“得到表扬"和"发生争论"等"汉语 $\mathrm { V } +$ 事件NP"论元结构中，动词“做”、“加以”、“得到”和"发生"表达了“轻重"不同的语义信息。因此，此类论元结构的生成受动词语义轻重的影响。这表明，该论元结构与动词均无实义的英语轻动词论元结构(如"giveakis"中，动词“give"无实义)具有不同的映射方式(柏晓鹏，薛念文,2015)。上述理论设想有待实证检验。相关研究发现，与语义具体的动词相比，语义抽象的动词加工时需要消耗更多的认知神经资源(Alyahya,Halai,Conroy,& Lambon Ralph,2018;Rodriguez-Ferreir et al.,2014)。因此，后续研究也许可以借助 fMRI 和ERP 等技术手段，考察动词词义"轻重"不同的"V+事件NP"论元结构加工时的认知神经机制。如果语义较轻的论元结构加工激活额外的脑区或诱发显著的脑电成分，则表明汉语 $^ { 6 6 } \mathrm { V } +$ 事件NP"论元结构加工难度具有等级性，从而说明该论元结构的映射方式与英语轻动词论元结构不同。
+
+# 3.3.4汉语非典型宾语论元结构的题元角色指派情况
+
+汉语非典型宾语论元结构(如"吃食堂”、“写毛笔”、“喝大碗")，与典型宾语论元结构(如"吃米饭”、“买毛笔")相比，宾语与动词似乎并不直接发生语义关系，不是动词的直接论元(陈蓓,2017)，其题元角色指派过程更复杂。上述理论设想有待实证检验。后续研究也许可以借助 fMRI、ERP等技术手段，比较汉语不同宾语类型论元结构加工时的脑区激活情况或脑电成分，如果与典型宾语论元结构相比，非典型宾语论元结构加工时，激活诸如左侧额中回等反映复杂语义整合的功能脑区(王小，何代丽，2017)或诱发诸如N400 等反映复杂语义整合的脑电成分(王渊博，闻素霞，贾德梅,2017)，则表明其题元角色指派更复杂，宾语位置上的名词可能不是动词的直接论元。
+
+# 4结语
+
+本文重点回顾了围绕动词论元结构复杂性认知神经机制开展的实证研究，以期及时了解相关研究热点和态势。同时，基于当前研究现状和汉语本体实际，本文提出了后续研究可能努力的方向。以期在观照人类语言普遍性和汉语本体特异性的基础上，一定程度上推进对动词论元结构复杂性加工认知神经机制的探讨。
+
+# 参考文献
+
+柏晓鹏，薛念文.(2015).多语言视角下汉语"V+事件 NP 宾语"的论元结构研究．外国语,(5),2-13.   
+陈蓓.(2017).现代汉语非典型宾语的界定．华中学术,(3),176-184.   
+封世文，杨亦鸣.(2011).基于功能性磁共振成像的汉语轻动词及其神经机制研究．语言文字应用,(2),43-53.   
+韩景泉.(2019).汉语非宾格动词的论元结构及其句法推导．外语教学与研究,(1),31-43.   
+郝暾.(2018).论元结构构式在汉语母语者与二语学习者句子理解中的作用．语言教学与研究,(4),90-101.   
+何文广，陈宝国.(2013).句子加工中核心名词动物性效应及其认知机制．心理科学进展21(3),437-447.   
+黄正德.(2007).汉语动词的题元结构与其句法表现．语言科学,(4),4-21.   
+刘涛，江火.(2016).句法移位的脑神经加工机制——来自汉语被动句的 ERPs研究．语言科学,(6),612-624.   
+刘涛，杨亦鸣.(2016).基于事件相关电位的空语类分类的神经机制研究．外语研究,(5),14-21.   
+任会启，梁丹丹.(2014)．智障儿童动词论元遗漏的实验研究．语言科学,(5),449-460.   
+任鹰.(2UUy).领属 与"仔现：从概芯的大耿到构式的大联 也从"土免死」义汞 的生成刀式说起．世乔汉语教字， (3), 309-321.   
+沈家煊.(2018).比附"主谓结构"引起的问题．外国语,(6),2-15.   
+田启林.(2018)．移还是不移—领主属宾句的生成方式探析．外文研究,(3), $1 - 6 + 1 4 + 1 0 5$ ：   
+王奇.(2006).“领主属宾句"的语义特点与句法结构．现代外语,(3), $2 3 0 - 2 3 8 + 3 2 8$   
+王穗苹，黄健.(2019).语言理解中的语义加工：不同模态神经影像的研究.生理学报,(1),127-139.   
+王小潞，何代丽.(2017).汉语隐喻加工的 fMRI研究．北京第二外国语学院学报,(4), $7 0 - 9 4 + 1 3 3$   
+王鑫，杨亦鸣.(2018).动词研究新视野——《构建论元:动词论元结构的跨学科研究》述评．语言与翻译,(4),89-94.   
+王渊博，闻素霞，贾德梅.(2017).汉—维非熟练双语者非目标语言语音激活与语义激活差异的 ERP研究．心理科学, (6), 1282-1288.   
+Agnew,Z. K., Vande Koot,H.,McGetigana,C.,& Scott，S.K. (2014).Dosentence withunaccusative verbs involve syntactic movement? Evidence from neuroimaging. Language,Cognition and Neuroscience, 29(9),1035-1045.   
+Alyahya,R.S.W., Halai,A.D.,Conroy,P.,&Lambon Ralph,M.A.(2O18).Thebehavioural paterns and neuralcorrelates of concrete andabstract verb processing inaphasia: Anovel verb semanticbattery.Neuroimage Clinical,1781-825.   
+Bachrach,A.,Roy,1.,&Stockal,L. (214).Structuring theargument: Multidisciplinaryresearchonverbargumentstructure. Amsterdam: John Benjamins Publishing Company.   
+Barbieri,E.rambill,1,hompson,C.K,&Luzzati, C. (19).Verbandsntence proceing paterns inhealthyalian participants: Insight from the Northwestern Assessment of Verbs and Sentences (NAVS).Journal of Communication Disorders, 79,58-75.   
+Binder,J.R.,Desai,R.H.,Graves,W.W.,& Conant,L.L.(2o09).Where is the semantic system?A critical reviewand meta-analysis of 120 functional neuroimaging studies. Cerebral Cortex, 19, 2767-2796.   
+Blanco-Elorreta,E.,Kaster,I,EmmoreyK.,&Pylkkanen,L.(2O18).Sharedneuralcorrelatesforbuildingphasesin signed and spoken language.Shared neural correlates for building phrases in signed and spoken language.Scientific Reports,8(1),1-10.   
+Caley, S., Whitworth,A.,& Claessen, M. (2O17). Can weseparate verbs from their argument structure?A groupstudy in aphasia. International Journal of Language & Communication Disorders,52(1),59-70.   
+Caplan,D.(2010).Task effects on BOLD signal corelates of implicit syntactic processing.Language andCognitive. Processes,25,866-901.   
+Caplan,D.,Alpert,N.,Waters,G.,&Olivieri,A.(O).ActivationofBroca'sareabysytacticprocessingunderconditions of concurrent articulation. Human Brain Mapping, 9(2), 65-71.   
+Chodorow,M.S. (1979). Time-compressed speech and the study of lexicaland syntactic procesing. In W.E. Cooper &E. C. T. Walker (Eds.)Sntence processing: Psycholinguisticstudiespresented toMerrillarett(pp.7-11). Hsale,NJ: Erlbaum.   
+Chomsky,N. (1981). Lectures on government and binding. Dordrecht: Foris.   
+Cho-Reyes,S.，& Thompson, C.K. (2012). Verb and sentence productionand comprehension in aphasia: Northwestern Assessment of Verbs and Sentences (NAVS). Aphasiology, 26(10),1250-1277.   
+Constable,R.T.,Pugh,K.R,Beroya,E.,Mencl, W.E.,Westerveld,.,Ni,W.J.,etal.(4).Sentencecomplexitand input modality efects in sentence comprehension: An fMRI study. NeuroImage,22(1):11-21.   
+Cuervo, M. C. (2014). Alternating unaccusatives and the distribution of roots.Lingua,141(1),48-70.   
+den Ouden,D.B.,Fix.S,Parrish,T.B.,&Thompson,C.K.(2o9).Argument structure effectsin actionverbnaming in static and dynamic conditions. Journal of Neurolinguistics 22(2),196-215.   
+Dronkers,N.F.,Wilkins,D.P.,VanValin,R.D,Jr.,Redfer,B.B,&Jager,JJ.(O4).Lesionanalysisofthebrainareas involved in language comprehension. Cognition, 92(1-2),145-177.   
+Europa,E., Gitelman,D.R.,Kiran,S.,& Thompson,C.K.(2O19). Neural connectivity insyntactic movement proesing. Frontiers in Human Neuroscience,(l3),13-27.   
+Fadlon,J. (20l6).The transitiveunaccusativealternation: Across-modal priming study.Psycholinguist,，45(3),671-696.   
+Faroqi-Shah,Y.,&Thomson,C.K.(2Oo3).Efectoflexical cues ontheproductionofactive and pasive sentences inBroca's and Wernicke's aphasia. Brain and Language, 85(3), 409-426.   
+Feng,S.,Legault,J.,Yang,Y.,Zu,J.,hao,K.&Yang,L.(20l5).Diferencesingrammaticalprocessingstrategiesfor active and passve sentences: An fMRI study. Journal of Neurolinguistics, 33(S1),104-117.   
+Friederici, A.D.(O1).The brain basis of language processing: From structure to function. Physiological Reviews,91(4), 1357-1392.   
+Friederici,A.D.，& KotzS.A. (2o03).The brain basisof syntactic processes:Functional imaging and lesion studies. Neuroimage,20, 8-17.   
+Friederici,A.D, & Graetz,P.A.(987).Processing passivesentences inaphasia: deficitsand strategies.Brain andLanguage, 30(1),93-105.   
+Friedman N., Shapiro L. P.(2003). Agrammaticcomprehension of simple activesentences with moved constituents: Hebrew OSV and OVS structures. Journal of Speech Language & Hearing Research , 46(2):288-297.   
+Grodzinsky,Y. (20oo). Syntax in the brain: Linguistic versus neuroanatomical specificity. Behavioral and Brain Sciences, 23(1), 1-21.   
+Hernandez,M.,Fairhal,S.L.,Lenci,A.,Baroni,M.,& Caramazza,A. (2014).Predication drives verbcorticalsignatures. Journal of Cognitive Neuroscience, 26(8),1829-1839.   
+Hirotani,M.,Makuuchi,M.,Ruschemeyer,S.A.,&Friederici,A.D.(20l1).Who was the agent?The neural corelatesof reanalysis processes during sentence comprehension. Human Brain Mapping, 32(11),1775-1787.   
+Lee,J.，& Thompson，C.K.(201).Real-time production of unergative and unaccusative sentences in normal and agrammatic speakers: An eyetracking study. Aphasiology, 25(6-7), 813-825.   
+Mack,J.E.,Andrew,Zu-Sern Wei,Gutierez,K.&Tompson,C.K.(20l6).Tracking sentencecomprehension:Tstretest reliability in people with aphasia and unimpaired adults. Journal of Neurolinguistics, 40, 98-111.   
+Mack,J.E.,eltz-sshr,A.,rbieri,E,oon,C.K. ().eralreatesofproceingassetc. Brain Sciences, 3(3),1198-1214.   
+Malyutina,S.,&den Ouden,D.(20l7).Task-dependentneuraland behavioral efectsof verbargument structure features. Brain & Language, 168, 57-72.   
+Malyutina,S.,Richardson,J.D.,& den Ouden,D.(2016).Verb Argument Structure in Narrative Speech: Mining Aphasia Bank.Seminars in Speech and language,37(1),34-47.   
+Mason,R.,& Just, M.(2007).Lexical ambiguity in sentence comprehension. Brain Research,1146,15-127.   
+Mason,R.,Just,M.,Keler,T.,&Patricia,A. (2O3).CarpenterAmbiguityintheBrain:WhatBrain ImagingRevealsAbout the Processingof Syntactically Ambiguous Sentences. Journal of Experimental Psychology: Learning, Memory，and Cognition,29(6),1319-1338.   
+McAllister,T.,Bachrach,A.,Waters,G.,ichaud,J.,&Caplan,D.(o9).Productionandcomprehensionofunaccsatives in aphasia. Aphasiology,23,989-1004.   
+Meltzer-Assher,A.，Schuchard,J.，den Ouden,D.B.，& Thompson,C.K.(2013).The neural substrates of complex argument structure representations: Procesing‘alternating transitivityverbs.Language and Cognitive Processes,28(8), 1154-1168.   
+Meltzer-Asscher,A.,ack,J.E.,Barbieri,E,&hompson,C.K.(20l5).Howthebrainprocessesdiferentdimensiosof argument structure complexity: Evidence from fMRI. Brain & Language, 142, 65-75.   
+Momma,S.,Robert,S.L.,&Philips,C. (O18). Unaccusativity insentence production.Linguistic Inquiry,49(1)181-194.   
+Perlmuter, D.(1978). Impersonal passives and the unaccusative hypotheses.Paper presented at theFourth Annual Meeting of the Berkeley Linguistics Society.   
+Rappaport-Hovav,M.,&Levin,B.(2011).Lexicon uniformityand thecausative alternation.In Everart,M.,Marelj,M.,& Siloni,T. (Eds.),The Theta system: Argument structure at the interface [C]. Oxford:Oxford UniversityPress.   
+Rodd,J.M.,Olivia,A.L.illR.,&Lorraine,K.T.(2ol).hefunctionalorganisationofthefrontotemporallanguage system: Evidence from syntactic and semantic ambiguity. Neuropsychologia, 48(5),1324-1335.   
+Rodriguez-Ferriro,J.,Llorenc,A.，& Sanz-Torrent，M.(2014).Argument structureand the representationof abstract semantics. PlosOne, 9(8),1-7.   
+Shetreet,E.，&Friedmann,N.(2O12).Stretched,jumped,and fel:An fMRI investigationofreflexive verbsandother intransitives.NeuroImage, 60,1800-1806.   
+Shetreet,E.，Friedmann，N.,& Hadar,U.(2Ol0a).The neural correlatesof linguisticdistinctions:Unaccusativeand unergative verbs.Journal of Cognitive Neuroscience,22(10),2306-2315.   
+Shetreet,E.,Friedmann,N.,&Hadar,U.(Olob).Therepresentationofoptionalcomplements:Thetheoreticalcontribution of fMRI. Human Brain Mapping, 31(5),770-785.   
+Shetret,E.，Palti，D.，Friedmann，N.，& Hadar Ui.(2007).Cortical representationofverb processing insentence comprehension: Numberofcomplements,subcategorizationandthematic frames.Cerebral Cortex,17(8),1958-1969.   
+Sulivan,N.,Walenski,M.,Love,T.,&Shapiro,L.P.(207).Thecomprehensionof sentences withunacusativeerbs in aphasia: a test of the intervener hypothesis .Aphasiology,31(1),67-81.   
+Sung,J.E.(20l6).The effectsofverbargumentcomplexityonverb production inpersons with aphasia: Evidence from a subject-object-verb language. Journal of Psycholingustic Research, 45(2),287-305.   
+Thompson,C.K.(2oo3). Unaccusative verb production in agrammatic aphasia: A syntactic acount of verb production deficits. Journal of Neurolinguistics,16(S1),151-167.   
+Thompson,C.K.,Bonakdarpour,B.,Fix,S.Blumenfeld,H.,arish,T.,Giteman,D.,etal.(27).Neuralcorelatef verb argument structure processing. Journal of Cognitive Neuroscience,19,1753-1767.   
+Thompson, C.K. Bonakdarpour,B.,& Fix,S.F. (20l0).Neural mechanisms of verb argument structure processing in agrammatic aphasic and healthy age-matched listeners. Journal ofCognitive Neuroscience,22(9),1993-2011.   
+Thompson, C.K.,& Meltzer-Asscher,A. (2014).Neurocognitive mechanisms of verbargument structure processing. In A. Bachrach,I.Roy,&L.Stockall(Eds.)ructuringtheargument: Multidisciplinaryresearchonverbrgumentstructure (pp.141-168). Amsterdam: John Benjamins Publishing Company.   
+Thompson,C.K.,Riley,EA,den Ouden,D.B.,Meltzer-Assher,A.,&Lukic,S.(2013).Training verbargumentstructure production in agrammatic aphasia: Behavioral and neural recovery patterns. Cortex, 49(9),2358-2376.   
+Vernice,M.,& Guasti,M.T.(2015).Theacquisitionof SVorder in unacusatives: Manipulating thedefinitenessof the NP argument. Journal of Child Language, 42(1),210-237.   
+Wang,H.,& Thompson,C.K. (2016).Assing syntactic deficits in Chinese Broca's aphasia using the Northwestern Assessment of Verbs and sentences-Chinese(NAVS-C).Aphasiology, 30(7),815-840.   
+Wittenberg,E.，JackendoffR.，Kuperberg，G.，Paczynski,.M.，Snedeker,J.,& Wiese，H.(2014).Theprocesingand representation of light verb constructions.In A.Bachrach,I. Roy,&L. Stockall(Eds.)，Structuring the argument: Multidisciplinary research on verb argument structure (pp. 63-80).Amsterdam: John Benjamins Publishing Company.
+
+# The cognitive neural mechanisms of verb argument structure complexity processing
+
+WANG Xin; HANG Mingli; LIANG Dandan
+
+(School of Chinese Language and Culture, Nanjing Normal University, Nanjing 210o97, China)
+
+Abstract: Verb argument structure complexity is manifested in four aspects: the number of arguments, the selection mode of arguments subcategorization， the asignment mode of 0-roles and the mapping of argument structure. Most empirical studies show that more arguments， alternating arguments subcategorization,alternating assignment of 0-roles and noncanonical mapping make the cognitive neural mechanisms of verb argument structure processing become more complicated.The main functional brain regions corresponding to processing of more arguments involve left inferior frontal gyrus and posterior perisylvian regions,the main functional brain regions corresponding to processing of alternating argument subcategorizations involve left inferior frontal gyrus,middle-posterior frontal lobesuperior temporal gyrus and middle-posterior temporal lobe，the main functional brain regions corresponding to processing of alternating assgnment mode of 0-roles involve posterior perisylvian regions,left middle-posterior frontal lobe and inferior frontal gyrus，the main functional brain regions corresponding to processng of noncanonical mapping involve left inferior frontal gyrus,superior temporal gyrus, middle temporal gyrus and posterior temporal lobe. Perhaps,left inferior frontal gyrus involves initial syntactic procesing, the determination of the subcategory of verbs, syntactic movement processing and semantic processing of unaccusative verbs， left middle-posterior frontal lobe involves initial syntactic processng and the determination of the subcategory of verbs ,left superior temporal gyrus and middle-posterior temporal lobe involve surface syntactic structure processing and argument syntax-semantic integration, posterior perisylvian regions involve argument semantic reprensatation. The process of verb argument structure processing and lexical properties of verbs indicate that there are interaction effects between or among some complexities.Some other issues need further exploration, including the corrsponding relationship between the complexity of the verb argument structure and the difficulty of its processing, the difficulty hierarchy of verb argument structure complexities processing and the cognitive neural mechanisms of interaction effects of them, as well as the cognitive neural mechanisms of Chinese verb argument structure complexity processing.
+
+Key words: verb; argument structure complexity; processing; cognitive neural mechanisms

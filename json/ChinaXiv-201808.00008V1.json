@@ -1,0 +1,297 @@
+[
+    {
+        "type": "text",
+        "text": "X射线天体源观测时间估计方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵海升 黄跃",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（中国科学院高能物理研究所 北京 100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：空间探测器对X射线天体源的有效观测时间主要受到空间环境因素的制约。制约有效观测时间的主要因素包括太阳避免角，地球对源的遮挡及南大西洋异常区等；然而卫星处于一些高粒子本底区域，太阳与地球之间的光照区及视场指向接近地球时，本底水平很高而且难以确定，这些时间的数据也是难以使用的。本文利用orbitTools函数库预测轨道，利用HEAsoft下的attitude函数库计算空间环境变量，利用这些空间环境变量对源的观测时间进行估计，并通过与实际观测比较，证明本方法估计的观测时间能够比较好的与实际情况一致。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：观测时间，地磁截止刚度，观测约束中图分类号：p171.5",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A Method to Estimate the Observable Time of X-ray Sources Zhao Haisheng， Huang Yue ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Laboratory of Particle Astrophysics， Institute of High Energy Physics, Chinese Academy of Sciences，Beijing 100049，China Abstract: The observation constraints for astronomical satellite are always due to space environment， such as Sun angle constraint， the time occulted by the Earth and the time passing through South Atlantic Anomaly. There are also some time periods， such as the time in high background region， the time when satellite between the Sun and the Earth,and the time when field of view of the satellite is close to the surface of the Earth，which can’ t be used for scientific analysis since the background level is very high or the background model has a great of uncertainties. In this work， we establish an interface for these variations to estimate observable time of X-ray sources, and use orbitTools library to generate orbital data and HEAsoft’ s attitude library to calculate these variations. Compared with the actual observation， the predicted time of this work is consistent well with the time of observed data. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: observation time， cut off rigidity， observation constraints ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "硬X射线调制望远镜（Hard X-ray Modulation Telescope，HXMT）卫星[l]在 2017年6月发射升空，开启了中国在X射线波段对天体源的观测研究。目前爱因斯坦探针卫星[3]（EP）已经正式立项，并希望于2022年升空，增强型X射线时变与偏振天文台（eXTP)也在预研阶段。这些卫星的轨道高度大多处于地球内辐射带范围[4]，卫星载荷容易受到南大西洋异常区（SAA）及地磁场的影响[5]，使得卫星获取的数据质量很差（本底高且形状难以确定），甚至不能获取数据，比如，多数卫星进入SAA区后停止采集数据或者直接关机。同时这些卫星的一个重要任务是对源进行定点观测，而源的可见时间主要受到太阳及地球的影响：卫星的热控不允许载荷指向太阳，而是需要避开太阳一定角度，比如 HXMT有遮阳板，并同时要求卫星指向避开太阳，这决定着观测源需要远离太阳位置；地球会遮挡卫星视场，使源的光子无法被载荷获取。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "过去，天体源观测时间的估计主要集中在对源可见时间的估计上，通常的做法是引入观测约束，可见时间即为经过约束条件筛选之后的时间，这些观测约束包括地球对视场的遮挡，太阳和月球对视场的遮挡以及对热控的约束，和经过南大西洋异常区的时段。实际上这些约束是不够的，源的观测时间还要排除一些特定的区域，比如高粒子本底区域，而这些约束一般在数据分析时才考虑，比如对低轨天文卫星 Swift[7]，Suzaku8]，在它们发布的数据分析手册中均给出地磁截止刚度（COR）的筛选范围（以排除高本底区域）。这样，一个X射线天体源的观测时间估计需要从数据质量（包括本底水平及本底形状不确定性）及可见时间两方面着手。但是数据质量的约束条件与载荷的工作机制及所在能区是有关系的，不同的载荷需要不同的约束条件，比如，HXMT 的低能望远镜[10]，当卫星处于太阳和地球之间时，其 SCD（Swept Charge Device）阵列会受到不同程度的漏光，所以需要排除此部分时间。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文主要关注低轨天文卫星所在的空间环境对源观测时间的影响，并从可见时间和数据质量两个方面给出估计方法，这将有助于观测计划的制定，提高天文卫星的利用，促进科学成果的获取。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1天文卫星影响因素分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "观测时间估计中，我们只考虑空间环境因素的影响，实际上卫星指向的晃动及载荷温度的变化也会带来观测时间的下降，但这些因素与望远镜结构性质有关，不在本文讨论范围内。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1地球对观测时间的影响",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "这主要表现在三个方面：（1）地球将视场遮挡，源光子不能进入视场；（2）卫星视场靠近大气层时，散射的太阳X射线光子或者可见光进入视场内，导致本底难以估计;（3）源的光子经过大气层吸收也会导致辐射的畸变。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一般用 ELV，DYE_ELV，NTE_ELV表示地球的影响，它们分别为视场指向与地球最小的角度，指向与地球明亮区（太阳照射的一面）最小的角度，和指向与地球阴暗区最小的角度，如果后两者不存在，则一般设为 $1 2 0 ^ { \\mathrm { o } }$ 或者 $2 0 0 ^ { \\mathrm { o } }$ 。ELV及DYEELV一般越大，地球对观测的影响越小，但是观测时间也会降低。对于X射线探测器，如果探测能区比较低，ELV 可以适当大一些以降低对低能端能谱的影响，时变分析可以要求ELV适当降低；DYE ELV主要反映太阳弥散X射线本底和可见光对仪器的影响，这对CCD型探测器影响比较大。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2太阳及月球的影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "太阳对卫星的影响是巨大的，主要影响热控，而且太阳X射线也会对X射线探测器有影响，尤其是对低能区探测器影响比较大。一般约束卫星的姿态使其上面的载荷偏离太阳视场指向与太阳中心的夹角（SUN_ANG表示）越大越好。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "月球（MOON_ANG，指向与月球夹角表示）会散射太阳X射线和可见光，对视场有$0 . 5 ^ { \\mathrm { { \\circ } } }$ 立体角的遮挡影响，一般越大越好。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3南大西洋异常区的影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SAA区有很高的粒子本底背景，对载荷的损坏很大，一般载荷经过它时要关机。SAA的边界不明显，接近SAA时，粒子本底会逐渐变大，这一段时间也是不可用的；离开SAA区时，卫星的一些材料因为受到 SAA区粒子的影响而活化加重，使得活化本底很高，然而活化衰减也比较快，从出SAA到活化衰减到一定程度所用的时间往往也是不可用的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SAAFLAG，T SAA和TNSAA表示卫星是否在SAA，出 SAA的时间长度，和进下一次 SAA的时间长度，一般此三量表示 SAA的影响，需要注意这两个量与指定的 SAA区大小有关。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4高粒子本底区域的影响",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "除了SAA区的影响，一些高粒子本底区域，比如高纬度地区，对数据质量影响也很大。COR是描述地球磁场阻挡宇宙线能力的量，粒子要进入地磁场中的某一位置就必须大于此处的地磁刚度，它一般用最小动量表示。因为宇宙线会引起仪器本底增多，所以COR比较低的地方，本底会比较高。另一方面，一般不能直接测量载荷的本底，而是利用模型估算本底，COR比较低的地方，因受低能电子、质子影响大，本底形状不确定性也就很大。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "卫星处于高的粒子本底区域，光照区及视场接近地球边缘时，本底水平一般比较高，且形状难以估计，使得卫星采集的数据难以使用，这会使得观测时间的估计与真实差别比较大。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2观测时间估计方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "我们的目的是估计某一源或者多个源在某段时间内的观测时间。这一实现将有助于对多个观测源进行观测效率（观测时间与总时间之比）优化，从而制定高效率的运行计划。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "我们利用orbitTools[1]软件包对卫星轨道进行预测，利用HEAsoft[12]下的atitude软件包对空间环境进行参量估计。orbitTools 软件包基于SGP4/SDP4 模型，分别对低轨和高轨卫星进行轨道预测，输入为两行轨道根数及参考时间。两个软件包均采用 $\\mathrm { c / c ^ { \\ l + \\ + } }$ ，方便集成。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1源信息及约束条件的定义",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "观测时间估计中源信息其实不是特别重要，重要的是卫星指向信息，这在偏轴观测中尤为特别，所以这里指的源信息其实是卫星指向信息。我们定义在J2000下：z轴为卫星指向方向，y轴为卫星某一轴（比如卫星本体坐标系下x轴）指向太阳的方向。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了使处理流程是按时序进行的，我们将SAA区域扩大，从而简化T_SAA和TN SAA。实际中单纯通过硬件触发识别SAA是存在问题的，卫星靠近SAA区域（而不经过SAA），载荷计数也会发生畸变，最好的方法是积累大量数据之后通过分析数据进而定义SAA。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "这样源及约束信息为RA，DEC，ELV，DYE_ELV，COR，SAA，MOON_ANGLE，SUN_ANGLE，其中RA，DEC为卫星指向位置，SAA表示几种 SAA的模型之一，模型可以由用户定义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2轨道及运行参数定义",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "我们利用orbitTools软件包进行轨道预测，它的输入为两行轨道根数（TLE）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "运 行 参 数 包 括 ：t1，t2，stepsec，year，month，day，hour，min，second，mjdO，output。其中，tl，t2 表示自参考时刻秒的累计量，估计的观测时段从t1开始至t2结束；参考时刻由year，month，day，hour，min，second 表示，比如对于HXMT，它们分别为2012，1，1，0，0，0，second可以为浮点数；mjd0为参考时刻的MJD时间，对于HXMT为 55927；output为输出文件的名称，本设计中它的格式为天文数据格式FITS[13]；stepsec为时间步长（整数），单位为秒，表示每积累 stepsec 秒计算一次观测效率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "轨道预测中所有时间均为相对于参考时刻的秒累计量（UTC时间），但是在计算 ELV等量的时候需要将这些UTC转换为MJD时间，需要考虑的是两者之间存在跳秒。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于目前的一些商业软件（比如 STK）或者一些机构（中国科学院空间中心）专门可以对轨道进行预报，轨道也可以使用第三方，这样程序最好也可以读入FITS格式的轨道文件，其需要包括时间（TIME）和位置（X，Y，Z）信息，而且需要在J2000坐标系下，这与orbitTools产生的轨道坐标系一致（当然，也可以根据时间将J2000转换到地固坐标系）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3实现策略",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "软件的参数读取采用文件读取方法，将源及约束条件，两行轨道根数及运行参数分别设计成配置文件（源及约束条件文件，TLE文件和运行参数文件）。如果要估计多个源同时段的观测时间，可以将多个源位置及其各自约束写入到源及约束条件文件中。如果轨道预测不采用orbitTools库，则直接读入轨道数据，对于轨道数据点之外的点用线性插值方法计算得到其位置。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "程序首先初始化，读入上述配置文件，找到UTC与MJD对应关系，指定效率计算的起止时间，利用TLE及MJD0初始化orbitTools各个模块，同时设置约束条件的取值；然后计算一次时间步长（stepsec）内的轨道点及其时间（即1s一个轨道点），计算这些点的ELV，COR等值并与约束条件比较，统计符合约束的点数目。时间步长中的所有点判断完成后，观测效率即为符合约束的点与总的点（即 stepsec）比值。时间步长如果比较小（比如1s），则计算的观测效率要么为0要么 $100 \\%$ 。时间步长应该从t1开始，直到超过t2为止；最后将每段观测效率及其时间（中间时间表示）写入文件。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "COR与卫星轨道有关，我们采用了 $\\mathrm { I G R F } 2 0 0 5 ^ { \\mathrm { [ 9 ] } }$ 产生的结果，该结果的纬度范围比较广，这对一些倾角比较大的卫星HXMT（卫星倾角 $4 3 ^ { \\mathrm { { o } } }$ ）比较合适。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3预测结果及讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "我们采用HXMT卫星的高能望远镜在2017年8月底的一次Crab 观测结果与本方法进行比较，同时要求 ${ \\mathrm { E L V } } { > } 1 0 ^ { \\circ }$ ， $\\mathrm { C O R } { > } 8 \\mathrm { G V }$ ，RA，DEC分别为255.705667和-48.7896。图1为实际结果与预测结果的比较，横坐标为时间（单位为秒），自上而下分别为Crab 原始的观测光变（NaI事例，扣除了地球遮挡及SAA区），利用HXMT用户数据分析软件[14]筛选后的光变，本方法预测的观测时间（观测效率）。原始光变来自HXMT提供的1级数据产品，经过筛选后有相当多的时间被扣除，而本方法计算的效率或者说可用时间与筛选后的结果比较一致。需要说明的是本方法的姿态是按卫星本体坐标系下x轴指向太阳，并随着时间姿态会有所变化，而实际观测中，姿态一旦确定，整个观测是不变的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2400 NUN   \n2200   \n2000   \ns/sun 三   \n1200   \n1800   \n1700   \n1600 7   \nC/ssun 1400 1500 WW   \n大   \n1300   \nV   \n1200   \nHA   \n1100   \n1000 /   \n1.4   \nW   \n1.2   \n人   \n/J 0.8 1   \n0.6   \n0.4   \n0.2 5000 10000 15000 20000 25000 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig1，Comparison between Crab observation data and the predicated efficiency.The top panel shows the Crab Nal light curve,the middle panel shows light curve after event screening by HXMT useranalysis software,while the bottom panel shows the predicated efficiency by this work. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "可见时间的估计不同于观测时间，观测时间还需要关注数据质量，特别是对于一些低能探测器，比如CCD型探测器，它可能存在漏光，这使得DYE_ELV角度非常重要，而且还考虑了COR等的影响，使得效率直接反映出数据的使用情况。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "但是轨道预测的精度受到TLE 的影响，但另一方面即使TLE准确，卫星因为受到大气影响，地球重力不均匀等因素，长时间预测也是不准的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目前卫星能源供给比较充裕，一般情况下可以允许卫星在一轨中多次调向，这对提高卫星的观测效率是相关重要的，以本方法为基础，在一轨中考虑如何提高观测效率，特别是对一些机动性能比较好的小卫星，比如EP，是至关重要的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文没有考虑太阳观测卫星的观测时间估计，事实上太阳也是一颗X射线天体源。另外本文也没有考虑地面大功率设施对卫星数据的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1] Li Ti-Pei，Wu Mei. The hard X-ray modulation telescope mission [J].   \nPhysics， 2008，37(09) :648-651; ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[2] Li Ti-Pei. HXMT:A Chinese High-Energy Astrophysics Mission [J]， Nuclear Physics B， 2007， 166:131-139. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[3]袁为民，张臣，陈勇，等．爱因斯坦探针：探索变幻多姿的×射线宇宙[J]．中国科学:物理学，力学，天文学，2018，48：039502.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Yuan W M， Zhang C， Chen Y， et al. Einstein Probe: Exploring the ever-changing X-ray Universe. Sci Sin-Phys Mech Astron， 2018， 48: 039502.   \n[4] 邹鸿,陈鸿飞,邹积清等．星内粒子探测器观测结果与辐射带模型的比较．地球物理学 报，2007，50(3) :678-683.   \nZou H， Chen H F， Zou J Q， et al. Comparison between the observation of the particle detector inside ZY-1 satellite and the model of the radiation belt. Chinese J. Geophys，2007，50(3) :678-683.   \n[5] SMITH E， STARK M， GILES B. South Atlantic anomaly entry and exit as measured by the X-ray timing explorer [C] //NASA Conference Publication， Flight Mechanics/Estimation THeory Symposium， 1996: 249-256   \n[6] Lu， YU.， Zhang，Wen Zhao. et al. Observation constraints of the hard X-ray modulation telescope HXMT， Sci． China Phys. Mech. Astron. (2010) 53(Suppl 1): 31-35   \n[7] M.Capalbi,et al. The Swift XRT data Reduction Guide,verson 1.2， April 2005 [8] The Suzaku Data Reduction Guide,   \nhttp://heasarc. gsfc. nasa. gov/docs/suzaku/analysis/abc/   \n[9] R.A. Nymmik， M.I. Panasyuk，V.V. Petrukhin，B.Yu. Yushkov，A Method of Calculation of Vertical Cutoff Rigidity in the Geomagnetic Field [J]， Cosmic Research，2009，Vol．47，No.3，pp.191-197.   \n[10] Yang Yan-Ji，Lu Jing-Bin， et al. Proton irradiation effect on SCDs [J], Chinese Physics C，2014，Vol． 38，No.8，086004.   \n[11] Michael F. Henry. The OrbitTools Libraries NORAD SGP4/SDP4 Implementations in $\\complement + +$ and C [0L]， （2014-04-01）[2014-04-01].   \nhttp://www. zeptomoby.com/satellites/.   \n[12] NASA’ s HEASARC software packages [OL]． [2014-03-11].   \nhttp://heasarc. gsfc. nasa. gov/docs/software. html.   \n[13] Mei Ying，Liu Donghao，et al. A Study of the FlTS-IDl Format for the Chinese Spectral Radio Heliograph[J]. Astronomical Research & TechnologyPublications of National Astronomical Observatories of China， 2014 11(4) :388- 395.   \n梅 盈，刘东浩，等．中国频谱射电日像仪 FITS IDI文件格式研究[J]．天文研究与技术- 国家天文台台刊，2014 11(4)：388-395.   \n[14] ZHAO Haisheng，LI Chengkui，LI Xiaobo，NIE Jianyin，GE Mingyu， PAN Yuanyue， SONG Liming. High Energy X-ray Telescope data analysis method. Chin. J. Space Sci.，2016，36(6): 938-944. ",
+        "page_idx": 4
+    }
+]

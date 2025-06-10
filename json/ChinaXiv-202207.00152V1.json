@@ -1,0 +1,320 @@
+[
+    {
+        "type": "text",
+        "text": "绝经后高血压危险因素的Meta分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "10.12114/j.issn.1007-9572.2022.0495 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘霜雪¹，李琰华²\\*，张港玮¹，赵琳」1．310053 浙江省杭州市，浙江中医药大学第二临床医学院2．310005浙江省杭州市，浙江中医药大学附属第二医院（浙江省新华医院）全科医学科\\*通信作者：李琰华，主任医师，硕士生导师；E-mail：liyanhua330@163.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】背景 高血压是世界范围内一个日益严重的公共卫生问题，且流行病学研究表明，绝经后女性的高血压患病率高于老年男性。近年来，有关绝经后高血压的临床表现、病理特征、发病机制、治疗方法等受到越来越多的关注，但由于受到研究设计、样本量、人群特征、资源不足等因素的影响，其危险因素的研究结果不一致且缺乏全面报道。目的 运用系统评价方式探讨女性绝经后高血压危险因素，为更好地预防和管理绝经后高血压提供循证证据。方法 计算机检索中国知网、万方数据知识服务平台、中国生物医学文献服务系统、PubMed、Embase、TheCochraneLibrary、Web of Science 电子数据库，获取从建库起至 2022年5月20日与绝经后高血压危险因素相关的队列及病例对照研究，根据纳排标准筛选文献，采用 Newcastle-0ttawa Scale（NOS）文献质量评价量表进行质量评价，将得分 $\\geqslant 6$ 分（高质量）的文献纳入研究，最后采用RevMan5.3对其进行Meta分析。结果共纳入10篇文献，总样本量34864人。经Meta分析结果显示，绝经后高血压的危险因素为：hs-CRP（ $\\mathrm { R R } { = } 1 . 3 8$ ， $9 5 \\% C \\mathrm { I }$ [1.04，1.83]）、年龄（ $\\mathrm { 0 R = 1 . 3 9 }$ ， $9 5 \\% C \\mathrm { I }$ [1.11，1.74]）、BMI（ $0 \\mathrm { R } { = } 1 . 6 1$ ， $9 5 \\% C \\mathrm { I }$ [1.19，2.18]）、胆固醇（ $\\mathrm { 0 R = 1 . 3 5 }$ ， $9 5 \\% C \\mathrm { I }$ [1.14,1.59]）、甘油三酯（ $0 \\mathrm { R } { = } 2 . 1 7$ ， $9 5 \\% C \\mathrm { I }$ [1.03，4.59]）、糖尿病史（ $0 \\mathrm { R } { = } 1 . 7 0$ ， $9 5 \\% C \\mathrm { I }$ [1.27，2.27])；保护因素为：脂联素（ $\\mathrm { R R } { = } 0 . 8 3$ ， $9 5 \\% C \\mathrm { I }$ [0.70，0.99]）、绝经年龄（ $\\mathrm { \\cdot 0 R { = } 0 . 9 0 }$ ， $9 5 \\% C \\mathrm { I }$ [0.82，0.98])。结论 高hs-CRP、高龄、高 BMI、高胆固醇、高甘油三酯、患有糖尿病是绝经后高血压的独立危险因素，因此控制上述一些可变的危险因素可有效降低绝经后高血压发生风险。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】绝经后期；高血压；危险因素；队列研究；病例对照；Meta分析",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Risk Factors of Postmenopausal Hypertension: a Meta-analysisLIU Shuangxue'，LI Yanhua，ZHANG Gangwei, ZHAO Lin ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. The Second School of Clinical Medicine， Zhejiang Chinese Medical University， Hangzhou 310053， China 2.DepartmentofGeneral Medicine,The Second Affiliated Hospitalof Zhejiang Chinese Medical University (Xinhua Hospital of Zhejiang Province)，Hangzhou 310oo5,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*Corresponding author:LI Yanhua， Chief physician， Master supervisor；E-mail:liyanhua330@163.com 【Abstract】 Background Hypertension is a progressively serious public health problem worldwide，and epidemiologic studies have shown that the prevalence of high blood pressure in postmenopausal women is more than that in older men. In recent years，more and more attention has been paid to the clinical manifestations，pathological features，pathogenesis，and treatment of postmenopausal hypertension,but due to the influence of research design, sample size， population characteristics， lack of resources, and other factors， the results of risk factors are inconsistent and lack of comprehensive reports. Objective Using a systematic evaluation to explore risk factors of postmenopausal hypertension in women approach to provide evidence-based evidence for better prevention and management of postmenopausal hypertension.Methods Seven databases including CNKI, Wanfang，CBM, PubMed, Embase,The CochraneLibrary, and Web of Science were searched by computer.The cohort studies and case-control studies related to the risk factors of postmenopausal hypertension from the establishment of the databases to May 20,2022, were obtained. Select literature according to inclusion criteria and exclusion criteria. The Newcastle-Ottawa Scale (NOS) was used to evaluate the quality，and the literature with a score $\\geqslant 6$ (high quality）was included in the study.And finally，RevMan5.3 was used to analyze the risk factors of postmenopausal hypertension. Results 10 pieces of literature were included, with a total sample size of 34864 people. According to the results of meta-analysis， the risk factors of postmenopausal hypertension were hs-CRP（ $\\mathrm { R R } { = } 1 . 3 8$ ， $9 5 \\% C \\mathrm { I }$ [1.04，1.83])，age（ $\\mathrm { \\langle O R { = } 1 . 3 9 }$ ， $9 5 \\% C \\mathrm { I }$ [1.11，1.74]），BMI（ $\\mathrm { \\langle O R = 1 . 6 1 }$ ， $9 5 \\% C \\mathrm { I }$ [1.19，2.18]），cholesterol（ $\\mathrm { { O R } = 1 . 3 5 }$ ， $9 5 \\% C \\mathrm { I }$ [1.14，1.59])，triglyceride( $\\mathrm { { ( 0 R { = } 2 . 1 7 } }$ ， $9 5 \\% C \\mathrm { I }$ [1.03, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4.59])，diabetes history （ $\\mathrm { \\langle 0 R = 1 . 7 0 }$ ， $9 5 \\% C \\mathrm { I }$ [1.27,2.27]). The protective factors were adiponectin ( $\\mathrm { ' R R { = } 0 . 8 3 }$ $9 5 \\% C \\mathrm { I }$ [0.70，0.99]） and menopausal age（ $\\mathrm { { . O R = } } 0 . 9 0$ ， $9 5 \\% C \\mathrm { I }$ [0.82，0.98])． Conclusion High hs-CRP levels, old age,high BMI, high cholesterol levels,high triglyceride levels,and diabetes are independent risk factors of postmenopausal hypertension， so controlling some of the above variable risk factors can effectively reduce the risk of postmenopausal hypertension. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "【Key Words】 Postmenopause； Hypertension; Risk Factors； Cohort Studies； Case-Control Studies;Meta-analysis",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "据估算，2010 年全球约有 $3 1 . 1 \\%$ 的成年人患有高血压，总计13.9亿人，它现已成为世界范围内心血管疾病和各地人群过早死亡的主要原因。有研究表明，高血压在全球范围内流行和控制方面存在巨大差距，尤其在低、中等收入国家，高血压意识、治疗和血压控制的比例都要比高收入国家低得多[2]，并且一项国际人口健康检查调查报告称绝经后女性的高血压患病率高于老年男性[3]。但是高血压是一个可控可防的危险因素，因此实施创新、成本效益高和可持续的高血压预防和控制计划应该是全球公共卫生的优先事项。目前有关绝经后高血压发病的相关因素、病理机制及诊疗方案等多个方面仍处于探讨之中，由于受到研究设计方案、样本量、人群特征、资源不足等因素的影响，其危险因素的研究结果尚未得到统一结论，且缺乏综合全面的报道。因此本研究采用 Meta分析对绝经后女性的高血压危险因素进行系统评价，旨在为绝经后高血压的早期预防和基层管理提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1资料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 纳入与排除标准 纳入标准：（1）研究对象：绝经后女性，包括自然绝经（生理性绝经1年后，即闭经至少12个月以上的永久停止月经）和手术绝经（双侧卵巢切除)；（2）研究类型：队列研究、病例对照研究；（3）暴露因素：可能导致女性绝经后发生高血压事件的危险因素；（4）结局指标：符合高血压诊断标准，即收缩压 $\\geqslant 1 4 0$ mmHg和/或舒张压 ${ \\geqslant } 9 0 ~ \\mathrm { m m H g }$ 或目前服用降压药物治疗；（5）研究数据：相对危险度（relativerisk，RR）、风险比（HazardRatio，HR）或优势比（oddsratio，OR）和相应的 $9 5 \\%$ 置信区间（confidenceinterval，CI）。排除标准：（1）数据异常无法提取或利用的文献；（2）重复发表的文献、综述、会议文献或社论等；（3）研究对象或结局指标定义不明确的文献。  \n1.2文献检索 计算机全面检索中国知网（CNKI）、万方数据知识服务平台、中国生物医学文献服务系统（CBM）、PubMed、Embase、The Cochrane Library、Web of Science 七大电子数据库，以“主题词 $+$ 自由词”的形式检索从建库起至2022年5月20日关于绝经后高血压危险因素的队列研究和病例对照研究，无语种限定。中文主题词：绝经后期、高血压、危险因素。英文主题词：Postmenopause、Hypertension、Risk Factors；研究设计类型：Cohort Studies、Case-Control Studies。检索策略以PubMed为例，见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/10f8d25e0d9736ca6c88fc95f0996e569d07b3f4b2f67cc41cbe17fd944e9f1f.jpg",
+        "table_caption": [
+            "表1PubMed的检索策略",
+            "Table 1 Search strategy in PubMed "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>步骤</td><td colspan=\"5\">检索式</td></tr><tr><td>#1</td><td>\"Postmenopause\"[Mesh] OR postmenopausal\"[Title/Abstract] OR \"Post Menopause\"[Title/Abstract]OR</td><td>\"postmenopausal</td><td>period\"[Title/Abstract]</td><td>OR \"postmenopausal</td><td>\"period</td></tr><tr><td>#2</td><td colspan=\"5\">period\"[Title/Abstract] OR \"period post menopausal\"[Title/Abstract] \"Hypertension\"[Mesh]OR\"blood pressurehigh\"[Title/Abstract] OR \"blood pressures high\"[Title/Abstract]OR \"high blood pressure\"[Title/Abstract] OR \"high blood</td></tr><tr><td>#3</td><td colspan=\"5\">pressures\"[Title/Abstract] \"Risk Factors\"[Mesh] OR Factor* Risk[Title/Abstract] OR Risk Factor*[Title/Abstract] OR Social Risk Factor*[Title/Abstract] OR Factor* Social Risk[Title/Abstract] OR Risk Factor* Social[Title/Abstract] OR Health Correlates[Title/Abstract] OR Correlates</td></tr><tr><td>#4</td><td colspan=\"5\">Health[Title/Abstract] OR Population* at Risk[Title/Abstract] OR Risk Score*[Title/Abstract] OR Score* Risk[Title/Abstract] OR Risk Factor Score*[Title/Abstract] \"Heredity\"[Mesh] ORHeredity[Title/Abstract]OR\"AgeFactors\"[Mesh] OR Age Factor*[Title/Abstract] OR Factor* Age[Title/Abstract] OR Age Reporting[Title/Abstract] OR high sodium diet[Title/Abstract] OR salt intake[Title/Abstract] OR \"Tobacco Smoking\"[Mesh] OR Smoking</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/fed9b5f47b7748c5bd78f5d4b55aac5bcd63b5c3ecd64b8cbc4c557b532deba1.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>\"Exercise\"[Mesh] OR Physical Exercise*[Title/Abstract] OR Physical Activit*[Title/Abstract] OR</td><td></td><td></td></tr><tr><td></td><td></td><td>Exercise Training*[Title/Abstract] OR Fitness Workout[Title/Abstract] OR Chronic Mental</td><td></td><td></td></tr><tr><td></td><td>Tension[Title/Abstract]</td><td></td><td>ORPsychologicalStress*[Title/Abstract]ORPsychologic*</td><td></td></tr><tr><td></td><td>Stress[Title/Abstract]</td><td>OR Psychological</td><td>Stressor*[Title/Abstract]</td><td>OR Mental</td></tr><tr><td></td><td></td><td></td><td>Stress*[Title/Abstract] OR Mental Tension[Title/Abstract] OR Psychic Stress[Title/Abstract] OR</td><td></td></tr><tr><td></td><td>Psychic Tension[Title/Abstract]</td><td></td><td></td><td></td></tr><tr><td>#5</td><td>#3 OR #4</td><td></td><td></td><td></td></tr><tr><td>#6</td><td>\"Cohort Studies\"[Mesh] OR Cohort Stud*[Title/Abstract] OR Concurrent Stud*[Title/Abstract] OR</td><td></td><td></td><td></td></tr><tr><td></td><td>Closed Cohort Stud*[Title/Abstract] OR Birth Cohort Stud*[Title/Abstract] OR Historical Cohort Stud*[Title/Abstract] OR Incidence Stud*[Title/Abstract] OR \"Follow-Up Studies\"[Mesh] OR Follow</td><td></td><td></td><td></td></tr><tr><td></td><td>Up Stud*[Title/Abstract] OR Follow-Up Stud*[Title/Abstract] OR Followup Stud*[Title/Abstract]</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>OR\"Longitudinal Studies\"[Mesh] OR Longitudinal Stud*[Title/Abstract] OR Longitudinal</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Survey*[Title/Abstract] OR \"Prospective Studies\"[Mesh] OR Prospective Stud*[Title/Abstract] OR</td><td></td><td></td></tr><tr><td>#7</td><td></td><td>\"Retrospective Studies\"[Mesh] OR Retrospective Stud*[Title/Abstract]</td><td></td><td></td></tr><tr><td></td><td></td><td>\"Case-Control Studies\"[Mesh] OR Case-Control Stud*[Title/Abstract] OR Case Control</td><td></td><td></td></tr><tr><td></td><td></td><td>Stud*[Title/Abstract]ORCase-ComparisonStud*[Title/Abstract]</td><td>OR Case</td><td></td></tr><tr><td></td><td>Stud*[Title/Abstract]ORCase-ReferentStud*[Title/Abstract]</td><td></td><td>OR</td><td>Comparison</td></tr><tr><td></td><td>Stud*[Title/Abstract] OR Nested Case-Control Stud*[Title/Abstract] OR Nested Case Control</td><td></td><td></td><td>Case Referent</td></tr><tr><td></td><td>Stud*[Title/Abstract] OR Matched Case-Control Stud*[Title/Abstract] OR Matched Case Control</td><td></td><td></td><td></td></tr><tr><td></td><td>Stud*[Title/Abstract] OR Case-Base Stud*[Title/Abstract] OR Case Base Stud*[Title/Abstract]</td><td></td><td></td><td></td></tr><tr><td>#8</td><td>#6 OR #7</td><td></td><td></td><td></td></tr><tr><td>#9</td><td>#1 AND #2 AND #5 AND #8</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3文献筛选与数据提取所有检索到的文献都被导入EndNoteX9，使用EndNoteX9中“查找重复项”自动去重。文献筛选和数据提取工作由2名研究员独立自主完成，工作过程中严格按照事先制定的纳排标准进行逐层、有序的筛选，然后使用 Excel表格进行数据提取，数据提取表的内容包括：作者、发表年份、国家、研究类型、人群特征、纳入人数、相关危险因素、RR/HR 及 $9 5 \\% C \\mathrm { I }$ 或OR及 $9 5 \\% C \\mathrm { I }$ 、是否校正混在因素。若数据不完整则主动联系原始作者获取数据，若无法提供所需数据则排除此文献。两项任务均独立完成之后进行汇总、交换审核，如意见不一致时请第三方仲裁。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4纳入文献的偏倚风险评价采用Newcastle-Ottawa Scale（NOS）文献质量评价量表对所提取的队列及病例对照研究进行偏倚风险评估。NOS 量表针对这两类研究分别有2张独立量表，均包含3方面内容：研究人群选择（4分）、组间可比性（2分）和暴露（3分)。评价过程由2名研究员独立进行，之后交换审核，如意见不一致时请第三方仲裁，最终将得分 $\\geqslant 6$ 分（高质量）的文献纳入分析研究。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5统计分析采用 RevMan5.3软件对所提取的研究数据进行统计分析。若纳入研究已校正混杂因素则提取的效应指标为调整最多混杂因素后的效应量；若纳入研究未校正混杂因素，则提取原始效应量作为研究数据。当效应指标为 HR 值时，将其直接与RR值等同后进行后续分析；当效应指标为OR值时，不进行额外处理。若所纳入的同一研究中对单一危险因素进行分层分析，且仅报告了每一组的效应指标，则使用固定效应模型4将分层数据合并成一个总效应指标，然后再与其他文献的研究数据进行分析。具体方法为采用通用逆方差法，即将纳入研究中所报告的RR/OR值和 $9 5 \\% C \\mathrm { I }$ 进行自然对数变换，并使用RevMan5.3软件中“Calculator”工具计算对数 RR/OR 值的标准误差(SE)。结合Q检验（检验水准 $\\scriptstyle \\mathbf { q } = 0 . \\ 1$ ）和 $\\boldsymbol { \\mathrm { I } } ^ { 2 }$ 检验对研究间的异质性进行量化，当 $\\mathrm { P } { > } 0 . 1$ 且 $\\mathrm { I } ^ { 2 } { < } 5 0 \\%$ ，则研究间具有同质性，选用固定效应模型；当 $\\mathrm { P } { \\leqslant } 0 . 1$ 或 $\\mathrm { I } ^ { 2 } { \\geqslant } 5 0 \\%$ ，则研究间存在异质性，选用随机效应模型。通过采用逐篇排除文献法对所有危险因素进行敏感性分析以评估结果的稳定性和可靠性，对单个危险因素纳入研究数 $\\geqslant 1 0$ 篇的采用漏斗图进行报告偏倚评价。 $\\mathrm { P } { < } 0 . 0 5$ 时认为差异有统计学意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 文献检索结果 全面检索七大电子数据库后共获得1200篇文献，经过去重、逐层筛选，最终纳入10篇文献（5篇队列研究[5-9]和 5篇病例对照研究[10-14]）进行 Meta 分析，具体筛选流程见图1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2纳入研究的基本特征及偏倚风险评价结果表2显示了共纳入10篇文献及各项研究NOS 的评分结果，分别有5篇队列研究和 5篇病例对照研究，共涉及16 个危险因素，其中2篇文献[12，13]在研究过程中将研究对象按照种族分为白种人和黑种人分别进行病例对照研究，因此这2篇文献在进行Meta分析时各自被纳入为2项研究，故10 篇文献共包含12项研究，总样本量34864人，且均为高质量文献。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 Meta分析结果 纳入10篇文献，共包含12项研究，Meta分析结果显示，hs-CRP、脂联素、年龄、BMI、胆固醇、甘油三酯、绝经年龄、糖尿病史与女性发生绝经后高血压的风险有关，具有统计学意义。其中，高hs-CRP、高龄、高 BMI、高胆固醇、高甘油三酯、患有糖尿病是发生绝经后高血压的危险因素，较高水平的脂联素和绝经年龄较迟是发生绝经后高血压的保护因素。Meta分析结果详见表3。森林图以脂联素、BMI为例，见图2、图3。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4 敏感性分析 采用逐篇排除文献法对危险因素的合并效应量逐一进行敏感性分析，结果提示，IL-6、当前饮酒史、当前吸烟史这3个危险因素在排除对总体效应量造成显著异质性的研究后其结果发生实质性改变，而其余危险因素在逐篇排除所有文献后其总体效应量未见明显改变，表明结论具有稳健性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5 报告偏倚 涉及的16个危险因素因各自纳入的文献过少，进行报告偏倚分析无意义，故本次研究不进行报告偏倚分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1血清生物标记物与发生绝经后高血压的关系 Meta分析结果提示，高hs-CRP、高胆固醇、高甘油三酯是绝经后女性发生高血压的危险因素，而较高水平的脂联素是绝经后高血压的保护因素。目前大家公认内皮功能障碍导致的血管舒缩反应降低是高血压的病理生理学特征，而导致内皮功能障碍存在多种机制[15]。其中有研究证明高水平的CRP可通过抑制 AMPK-eNOS 信号通路诱导内皮功能障碍和高血压的发生[16]。而脂联素是一种由脂肪组织分泌,具有抗炎特性的蛋白质，可通过改善内皮功能障碍、增加一氧化氮（NO）产生、促进抗炎巨噬细胞表型和抑制交感神经系统活动来调节血压[1],在一项队列研究中也同样证明较高水平的脂联素与较低的高血压发病风险相关( $\\mathrm { R R } { = } 0 . 8 1$ ， $9 5 \\%$ CI[0.68，0.96]）[18]。并且有多项研究发现hs-CRP 与脂联素在循环中含量呈负相关[518]，这也正恰恰验证了这两者的特性，说明炎症在驱动高血压事件中具有潜在作用。另外，高胆固醇血症不仅可以降低NO的生物利用度，从而降低血管的舒张能力，还可还可刺激血浆和组织中肾素-血管紧张素-醛固酮系统（RAAS）的活性，增加血管紧张素Ⅱ的合成，导致血压升高[19,20]。虽然当前尚没有明确机制说明高甘油三酯与高血压之间的关系，但在一项西班牙队列研究中发现高甘油三酯是高血压发病的危险因素[21]，这与本研究结果一致。因此，在预防女性绝经后高血压事件发生的管理中，全科医生可以将监测全身慢性低度炎症指标和控制血脂水平作为其中关键的一环。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 绝经后女性人口学特征与发生绝经后高血压的关系 Meta 分析结果提示，高龄、高 BMI是绝经后女性发生高血压的危险因素，而绝经年龄较迟是绝经后高血压的保护因素。这是由于当女性步入中老年之后，机体功能最明显的变化表现在卵巢功能的衰退，绝经后雌激素水平大幅下降，从而剥夺了雌激素对血管的保护作用。已有研究发现，在女性群体中，与年龄相关的内皮功能下降仅在绝经后才明显[22]，这可能是由于围绝经期早期阶段的雌激素水平可能足以提供一定程度的内皮保护，而围绝经期晚期至绝经后，随着卵巢功能的衰退和雌激素缺乏时间的延长会引发内皮功能的迅速恶化，导致血压的升高。另外BMI是反映全身脂肪总量和是否肥胖的指标之一，本研究的敏感性分析结果表明剔除因统计学方法不同而造成较大异质性的研究后其总效应量未出现显著改变，提示研究结果具有稳健性，表明脂肪组织引起的超重或肥胖是绝经后高血压的危险因素。瘦素是脂肪组织分泌，参与血压控制的产物之一，有多项研究报告血浆瘦素水平可作为高血压发病的预测因子，在年龄调整的模型中，基线瘦素浓度每增加1个单位，绝经后女性患高血压的风险显著增加 $5 5 \\%$ 5,23]。肥胖可通过交感神经系统、肾脏和肾上腺功能、内皮细胞、脂肪因子和胰岛素抵抗等多种机制影响血压[24]。除遗传因素外，高BMI往往与饮食习惯、生活方式等密切相关，全科医生在针对此类人群的预防保健工作中应更加注重对健康生活的宣教，帮助绝经后女性养成良好的生活习惯。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3绝经后女性合并疾病与发生绝经后高血压的关系Meta 分析结果提示，患有糖尿病是绝经后女性发生高血压的危险因素。糖尿病和高血压是常见的合并症，Ning 等人从代谢组学方面解释糖尿病在高血压发病中的作用机制，指出它们可能共享潜在的代谢途径，氨基酸、脂类代谢物、肉碱、胆汁酸等相关代谢物可导致胰岛素抵抗、组织炎症增加、活性氧产生、内皮功能障碍、RAAS 上调、交感神经系统激活和能量代谢改变[25]。Petrie 等人从易患这两种疾病的血管机制出发，表明引起糖尿病微血管和大血管并发症的氧化应激、炎症和纤维化，也可导致高血压的血管重塑和功能障碍[26]。另外有一项前瞻性队列研究发现高于正常范围的空腹血糖也是女性发生高血压的独立危险因素[27]，这与本结论方向一致。因此在慢性病的管理过程中，全科医生可选择促进血管健康的针对性策略，使用一些可能对糖尿病具有血管保护治疗潜力的新药物，以降低高血压的发病率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4 尚不确定是否与绝经后女性发生高血压相关的因素 本研究Meta分析结果尚不能确定IL-6、当前饮酒史、当前吸烟史与绝经后女性发生高血压的相关性，其敏感性分析结果提示结论不稳健，可能与纳入的研究太少有关，今后还需要更多相关的研究和资料进行补充和完善。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.5 与绝经后高血压发生无关的因素 Meta 分析结果提示，日常活动量、受教育程度、初潮年龄、高血压家族史、心血管疾病史与绝经后高血压发生无显著关系。目前已有大量研究证明抗阻训练[28]，有氧训练[29]以及两者联合训练[30]等多种形式的运动训练都可改善绝经后女性的高血压情况。但Loaiza等[31]针对运动训练对围绝经期和绝经后女性血压的影响进行的Meta分析结果发现：联合训练能起到显著的降压效果，但有氧训练未改善此类人群的血压情况。因此该方面的研究尚未得到统一结论。而本研究纳入的仅日常活动的能量消耗指标，与抗阻、有氧等多种运动形式存在一定的差异，虽然 Meta 分析结果提示日常活动量与绝经后高血压的发生无显著关系，但由于纳入研究数量少，此结论仍待商榷，并且各类体力活动的形式、耗能量、强度等多个方面对血压的影响仍待更多的验证。另外，尽管既往有大量证据表明较高的教育水平是高血压的保护因素[7,32]，但 Zambrana 等[8]在队列研究中发现，以低于高中学历为对照组，受教育程度与基线时高血压的患病率成反比，但与随访时间内绝经后高血压的发病率成正比，这表明接受高等教育的人虽然能够掌握更多的自我保健知识和拥有更好的医疗资源，有利于维护他们的健康，但是他们所承受的工作强度、竞争压力等多个方面往往比低学历的人群更大，这也可能会导致不利的健康状况。因此当下尚不能确定受教育程度是否为绝经后高血压发生的独立危险因素，仍需要在未来进行大样本、随访时间更长的研究来明确两者之间的关系。此外，有相关研究证明初潮年龄与高血压患病率呈负相关，其机制主要通过 BMI、肥胖等因素介导[，本研究结果与先前研究不一致，可能与纳入研究数量过少有关，两者关系仍待进一步验证。另外，本文所纳入的研究均表明高血压家族史和心血管疾病史是绝经后高血压的危险因素，但由于各自纳入文献数量仅2篇，无法通过逐篇排除文献法进行敏感性分析，且异质性检验提示存在较大异质性，可能与研究类型不一致、种族人群不同等多种因素有关，因而结论不可靠，今后仍需进行更多大规模的队列研究去检验两者对绝经后高血压的影响。3.6 本研究的局限性和展望（1）本研究符合纳排标准的文献数量较少，涉及每个危险因素相关的研究数量少，无法进行报告偏倚分析，可能存在发表偏倚；（2）本研究绝大多数研究都进行了混杂因素的校正，仅辛佳蔚 2013[1]未校正混杂因素，但每项研究的混杂因素校正策略不同，故研究结果需待进一步论证；（3）在未来需进一步进行大规模、多中心、前瞻性队列研究。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述，高hs-CRP、高龄、高BMI、高胆固醇、高甘油三酯、患有糖尿病是发生绝经后高血压的危险因素，较高水平的脂联素和绝经年龄较迟是发生绝经后高血压的保护因素，因此可在针对绝经后女性的预防保健工作中将此结果作为参考依据制定健康保健工作的重点。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "作者贡献：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "刘霜雪：提出研究思路，研究命题，负责文献资料的收集和整理，文章构思与写作，统计学策略制定和分析，对主要研究结果进行分析与解释，绘制研究中所有图、表，参与文章修订；李琰华：负责评估方案的可行性，把控整体文章质量，对整个过程进行监督管理；张港玮：负责文献筛选，数据提取，对纳入文献进行质量评价，参与文章修订；赵琳：负责文献筛选，数据提取，对纳入文献进行质量评价。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文无利益冲突。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f44d475c4c702f777ae3802844d084a7a0c472c3366447b92873a0b1084bc6c0.jpg",
+        "img_caption": [
+            "图1文献筛选流程及结果 ",
+            "Figure 1 Literature screening process and results "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2纳入研究的基本特征及偏倚风险评价",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Table 2 Basic characteristics and bias risk assessment of included studies ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b2e165f7272967be9eed110d26c1e96df4515b47b8fddde09d9a1f7817ce350d.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：(1)高敏C 反应蛋白(high-sensitivity C-reactive protein，hs-CRP)；(2)白细胞介素 $^ { - 6 }$ (Interleukin-6,IL-6)；(3)脂联素；(4)初潮年龄；(5)日常活动量；(6)年龄；（7)身体质量指数（Body Mass Index，BMI)；（8)胆固醇；(9)甘油三酯；(10)绝经年龄；(11)受教育程度；(12)高血压家族史；(13)糖尿病史；(14)当前吸烟史；(15)当前饮酒史； (16)心血管疾病史"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">人数</td><td rowspan=\"2\">组间可比 性（2分）</td><td rowspan=\"2\">暴露 （3分）</td><td rowspan=\"2\">总 分</td></tr><tr><td>Gordon 2021[5]</td><td>美国</td><td>前瞻性队列研究</td><td>471</td><td>(2)、(3)</td><td>择（4分） 3</td><td>2</td></tr><tr><td>Zhang 2020[6]</td><td>中国</td><td>回顾性队列研究</td><td>15361</td><td>(4)</td><td>4</td><td>2</td><td>2 3</td><td></td><td>7 9</td></tr><tr><td>Xu 2017[7]</td><td>中国</td><td>回顾性队列研究</td><td>8046</td><td>(4)、(6)、（7)、 (8)、(9)、(10)、 (11)、(12)、(14)、</td><td></td><td>3</td><td>2</td><td>2</td><td>7</td></tr><tr><td>Zambrana</td><td>美国</td><td>前瞻性队列研究</td><td></td><td>(15) 2706</td><td>(5)、(6)、（7)、 (8)、(11)、(13)、</td><td>3</td><td>2</td><td>3</td><td>8</td></tr><tr><td>2014[8] Lee 2013[9]</td><td>日本</td><td>回顾性队列研究</td><td></td><td></td><td>(14)、(15)、(16) (5)、(6)、（7)、</td><td></td><td></td><td></td><td></td></tr><tr><td>张春雪 2016[10]</td><td>中国</td><td>病例对照研究</td><td>4318</td><td>(9)</td><td>(10)、(14)、(15)</td><td>2 3</td><td>2</td><td>2 3</td><td>6</td></tr><tr><td>辛佳蔚 2013[]</td><td>中国</td><td>病例对照研究</td><td>456 121</td><td>(7)、(13)</td><td></td><td>3</td><td>2 0</td><td>3</td><td>8 6</td></tr><tr><td>Wang 2012[12]（白</td><td>美国</td><td>病例对照研究</td><td>800</td><td>(3）</td><td></td><td>4</td><td>2</td><td>3</td><td>9</td></tr><tr><td>种人） Wang 2012[12]（黑</td><td>美国</td><td>病例对照研究</td><td>800</td><td>(3</td><td></td><td>4</td><td>2</td><td>3</td><td>9</td></tr><tr><td>种人） Wang 2011[13]（白</td><td>美国</td><td></td><td></td><td>(1)、(2)</td><td></td><td>4</td><td>2</td><td>3</td><td>9</td></tr><tr><td>种人） Wang 2011[13]（黑</td><td>美国</td><td>病例对照研究</td><td>800</td><td>(1)、(2)</td><td></td><td>4</td><td></td><td>3</td><td>9</td></tr><tr><td>种人） Al-Saleh</td><td>沙特</td><td>病例对照研究</td><td>800</td><td></td><td></td><td></td><td>2</td><td></td><td></td></tr><tr><td>2005[14]</td><td>阿拉 伯</td><td>病例对照研究</td><td>185</td><td>(12)、(16)</td><td>(5)、(6)、(11)、</td><td>3</td><td>2</td><td>3</td><td>8</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/903fbc3911d968e9de058011685be5ddee6c8102487864e373eb83bc74cdab97.jpg",
+        "table_caption": [
+            "表3绝经后高血压危险因素的Meta分析结果",
+            "Table 3 Meta-analysis of risk factors for postmenopausal hypertension "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">危险因素</td><td rowspan=\"2\">研究数量</td><td colspan=\"2\">异质性检验</td><td rowspan=\"2\">效应模型</td><td rowspan=\"2\">RR/OR</td><td rowspan=\"2\">95%CI</td><td colspan=\"2\">总体效应检验</td></tr><tr><td>P值</td><td>I²</td><td>Z值</td><td>P值</td></tr><tr><td>hs-CRP*</td><td>2[13]</td><td>0.13</td><td>57%</td><td>随机</td><td>1.38</td><td>[1.04，1.83]</td><td>2.25</td><td>0.02</td></tr><tr><td>IL-6*</td><td>3[5,13]</td><td>0.001</td><td>85%</td><td>随机</td><td>1.25</td><td>[0.84，1.85]</td><td>1. 12</td><td>0.26</td></tr><tr><td>脂联素*</td><td>3[5,12]</td><td>0.62</td><td>0%</td><td>固定</td><td>0.83</td><td>[0.70,0.99]</td><td>2.05</td><td>0.04</td></tr><tr><td>初潮年龄</td><td>2[6,7]</td><td>0.12</td><td>59%</td><td>随机</td><td>0.97</td><td>[0.88，1.06]</td><td>0.71</td><td>0.48</td></tr><tr><td>日常活动量</td><td>3[8，9,14]</td><td>0.70</td><td>0%</td><td>固定</td><td>0.92</td><td>[0.82，1.03]</td><td>1. 44</td><td>0.15</td></tr><tr><td>年龄</td><td>4[7-9,14]</td><td>< 0.00001</td><td>96%</td><td>随机</td><td>1.39</td><td>[1. 11，1.74]</td><td>2.84</td><td>0.005</td></tr><tr><td>BMI</td><td>4[7-9,11]</td><td><0.00001</td><td>93%</td><td>随机</td><td>1.61</td><td>[1.19,2.18]</td><td>3.10</td><td>0.002</td></tr><tr><td>胆固醇</td><td>27,8]</td><td>0.39</td><td>0%</td><td>固定</td><td>1.35</td><td>[1.14，1.59]</td><td>3.47</td><td>0.0005</td></tr><tr><td>甘油三酯</td><td>2[7, 101</td><td>< 0.00001</td><td>98%</td><td>随机</td><td>2.17</td><td>[1.03，4.59]</td><td>2.03</td><td>0.04</td></tr><tr><td>绝经年龄</td><td>2[7,9]</td><td>0.72</td><td>0%</td><td>固定</td><td>0.90</td><td>[0.82，0.98]</td><td>2.31</td><td>0.02</td></tr><tr><td>受教育程度</td><td>3[7, 8,14]</td><td>0.0006</td><td>87%</td><td>随机</td><td>0.99</td><td>[0.69，1.41]</td><td>0.06</td><td>0.95</td></tr><tr><td>高血压家族史</td><td>2[7,14]</td><td>0.08</td><td>68%</td><td>随机</td><td>4.43</td><td>[0.74，26.45]</td><td>1.63</td><td>0.10</td></tr><tr><td>糖尿病史</td><td>28.11</td><td>0.17</td><td>46%</td><td>固定</td><td>1.70</td><td>[1.27,2.27]</td><td>3.60</td><td>0.0003</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/38df8f676f0b1925498de75b84cb6d41c6c16544bcb66f67477db0d716e0a422.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：\\*：效应指标为RR 值 "
+        ],
+        "table_body": "<html><body><table><tr><td>当前吸烟史</td><td>3[7-9]</td><td>0.005</td><td>81%</td><td>随机</td><td>0.85</td><td>[0.59，1.24]</td><td></td><td>0.82</td><td>0.41</td></tr><tr><td>当前饮酒史</td><td>3[7-9]</td><td>0.009</td><td>79%</td><td>随机</td><td>1. 11</td><td>[0.80，1.53]</td><td></td><td>0.64</td><td>0.52</td></tr><tr><td>心血管疾病史</td><td>2[8.14</td><td>0.08</td><td>67%</td><td>随机</td><td>2.76</td><td>[0.63，12.10]</td><td></td><td>1.35</td><td>0.18</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Risk Ratio Risk Ratio Study or Subgroup log[Risk Ratio] SEWeight VFixed,95%Cl V.Fixed,95% Cl Gordon 2021 -0.03050.3245 7.4% 0.97 [0.51, 1.83] Wang（白种人）2012 -0.11650.1281 47.7% 0.89 [0.69, 1.14] Wang（黑种人）2012 -0.2744 0.132 44.9% 0.76 [0.59, 0.98] Total (95% Cl) 100.0% 0.83 [0.70, 0.99] Heterogeneity: Chia= 0.97, df= 2 (P = 0.62); I\\*= 0% 0.2 0.5 1 2 5 Test for overall efect: Z = 2.05 (P = 0.04) 脂联素水平低脂联素水平高 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 Correlation between adiponectin and postmenopausal hypertension ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Odds Ratio Odds Ratio Study or Subgroup log[Odds Ratio] SEWeightV,Random,95% CI V,Random,95% Cl Lee 2013 0.2151 0.0082 31.7% 1.24 [1.22, 1.26] ■ Xu 2017 0.6259 0.0817 29.1% 1.87 [1.59, 2.19] Zambrana 2014 0.6098 0.091 28.6% 1.84 [1.54, 2.20] 辛佳蔚2013 0.5008 0.387 10.6% 1.65 [0.77, 3.52] Total (95% Cl) 100.0% 1.61[1.19, 2.18] Heterogeneity: Taua= 0.07; Chi= 43.83, df= 3 (P < 0.00001); P= 93% 0.2 0.5 1 2 5 Test for overall effect: Z= 3.10 $( \\mathsf { P } = \\mathsf { 0 } . \\mathsf { 0 } 0 2 )$ 正常超重或肥胖 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 Correlation between BMI and postmenopausal hypertension ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]MILLS KT,STFANESCUA,HEJ.Theglobal epidemiologyof hypertension[J].Nature Reviews Nephrology,2020,16(4): 223-237.D0l: 10.1038/s41581-019-0244-2.   \n[2]MILS KTBUNDD,KELYTN,etal.GlobalDisparitiesofHypertensionPrevalenceandControl:AystematicAlysisf Population-BasedStudies From90Countries[J].Circulation,2016,134(6):441-450.DOl:10.1161/CIRCULATlONAHA.115.018912. [3]SINGHG,ANAElGELRIPM,etal.eageaociationsofboodpressure,cholesterolandgucosealysisf healthexaminationsurveysfrominternational populations[J].Circulation，2012，125(18):2204-2211.DOl: 10.1161/CIRCULATIONAHA.111.058834.   \n[4]Higins」PT,Thomas J，ChandlerJ，etal.Cochrane Handbook for Systematic Reviews of Interventions version6.3 [EB/OL].(2022-02)[2022-03-11].htps://training.cochrane.org/handbook/current/chapter-23#section-23-3-5.   \n[5]GORDONJH,LAMONTE MJ,ZHAO J，et al.Theassociation between serum inflammatory biomarkersand incident hypertensionamong postmenopausal womeninthe BufaloOsteoPerio Study[J].Journalof Human Hypertension,2021,35(9): 791-799.D0l:10.1038/s41371-020-00422-2.   \n[6]ZHANGL,LIY,ZHOUW,etal.MediationefectofBMIontherelationshipbetweenageatmenarcheandhypertension:The Henan Rural Cohort Study[J].Journalof Human Hypertension,2020,34(6):448-456.DOl: 10.1038/s41371-019-0247-2. [7]XUB,CHENY,lONGJ,etalAsociationofFemaleReproductiveFactorswithHypertension,DiabetesandLQTcininese Women [J]. Scientific Reports,2017,7: 42803.DOl: 10.1038/srep42803.   \n[8]ZAMBRANA RE，L6PEZL，DINWIDDIE GY，et al.Prevalenceand incident prehypertensionandhypertensionin postmenopausal Hispanicwomen:results fromtheWomen's Health Initiative[J].AmericanJournalofHypertension,2014,27(3): 372-381.DOl: 10.1093/ajh/hpt279.   \n[9]LEEJS,HAYASHIK,MSHAG,etal.Idependentassociationbetweenageatnaturalmenopauseandhypercholesterolemia hypertension,anddiabetesmelitus:Japannurses'healthstudy[J].JournalofAtherosclerosis&Thrombosis，2013,20(2): 161-169.DOl: 10.5551/jat.14746.   \n[10]张春雪，王晨菲，李晓岚，等．绝经后女性血清 25(OH)D 水平与高血压的相关性分析 [J].现代生物医学进展，2016, 16(23):4498-4501DOl:10.13241/j.cnki.pmb.2016.23.027.ZHANGCXWANGCF,LIXL,etal.Correlation AnalysisofSerum25 (OH)D Level andPostmenopausal Women with HighBlood Pressure[J].Progress inModern Biomedicine，2016, 16(23):4498-4501.DOl: 10.13241/j.cnki.pmb.2016.23.027.   \n[11] 辛佳蔚，章军建，杨英，等．雌激素受体β基因多态性与老年女性高血压的相关性[J]．中华医学杂志，2013,93(21): 1657-1659.DOl:10.3760/cma.j.isn.0376-2491.2013.21.017.XINJW,ZHANGJ,ANGY,etal.Associationofestrogenceptor $\\beta$ genepolymorphisms with hypertension inpostmenopausal women[J].National Medical Journal of China，2013，93(21): ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1657-1659.DOl: 10.3760/cma.j.issn.0376-2491.2013.21.017. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[12] WANGL，MANSON」E，GAZIANO」M,etal.Plasma adiponectinandtherisk of hypertension in whiteandblack postmenopausal women [J]. Clinical Chemistry,2012,58(10): 1438-1445.DOl: 10.1373/clinchem.2012.191080. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[13] WANGL,MANSONJE,GAZANOJM,etal.Circulating Inflammatoryand Endothelial MarkersandRiskof Hypertensionin Whiteand BlackPostmenopausal Women[J].ClinicalChemistry2011,57(5):729-736.DOl:10.1373/clinchem.2010.156794. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[14]AL-SALEHI,INWARIN,MASHHOURA,etal.Isleadconsideredasariskfactorforhighbloodpressureduringmeopause ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "periodamong Saudiwomen?[J].International Journalof Hygieneand Environmental Health，2005，208(5):341-356.DOl: 10.1016/j.ijheh.2005.04.004. [15]WATSONTGOONPK,LPGY.Endothelialprogenitorcels,endothelialdyfunctionflammation,andxidativete in hypertension [J]. Antioxidants & Redox Signaling,2008,10(6): 1079-1088.DOl: 10.1089/ars.2007.1998. [16]CHENGLWANGL,GUOM,etal.ClinicalyrelevanthighlevelsofhumanC-reactiveprotein inducesedothelialdsfunction andhypertensionbyinhibitig theAMPK-eNOaxis[J].ClinicalSience,2020,134(13):1805-1819.DOl:10.1042/CS20200137. [17]KIMDH,CDNGEL,etal.Adiponectinlvelsndteriskofhypertension:astematicrevieandmeta-aalysis[]. Hypertension,2013, 62(1): 27-32.DOl: 10.1161/HYPERTENSIONAHA.113.01453. [18]PERI-OKONYPA,AYERSCMAALOUFN,etal.Adiponectinprotectsagainstincidenthypertensionindependentofbodyfat distribution:observations from the Dalas Heart Study[J].Diabetes/Metabolism Research Reviews，2017，33(2):e2840.DOl: 10.1002/dmrr.2840.   \n[19]IVANOVIC B,TADIC M.Hypercholesterolemiaand Hypertension:Two Sidesof the SameCoin [J].American Journal of Cardiovascular Drugs, 2015,15(6): 403-414.DOl: 10.1007/s40256-015-0128-1.   \n[20]BORGHIC,URSOR,CICEROAF.Renin-angiotensinsystematthecrossroadof hypertensionandhypercholesterolemia[J]. Nutrition Metabolism & Cardiovascular Diseases,2017,27(2):115-120.DOl: 10.1016/j.numecd.2016.07.013. [21] SaNCHEZ-IGOL, NAVARRO-GONZaLEZD,PASTRANA-DELGADOJ,etal.Associationof triglyceridesandnewlipidmarker withtheincidence of hypertension ina Spanishcohort [J].Journalof Hypertension，2016，34(7):1257-1265.DOl:   \n10.1097/HJH.000000000000941. [22]MOREAUKL,HILDRETHKL,MEDITZAL,etal.Endothelialfunctionisimpairedacross the stagesof the menopause transitioninhealthy women[J].Journalof ClinicalEndocrinology&Metabolism，2012，97(12):4692-4700.DOl:   \n10.1210/jc.2012-2244.   \n■[23]ASFERGC,MGELVANGR,FLVJERGA,etal.Leptin,notadiponectin,predictshypertensionintheCopenhagenCityHeart   \nStudy[J]. American Journal of Hypertension,2010,23(3): 327-333.DOl: 10.1038/ajh.2009.244.   \n[24] SERAVALLE G，GRASslG．Obesity andhypertension[J].Pharmacological research，2017，122:1-7.DOl:   \n10.1016/j.phrs.2017.05.013. [25]NINGZ,SONGZ,WANGC,etal.HowPerturbatedMetabolitesinDiabetesMeliusAectthePathogenesisofHypertesion? [J]. Frontiers in Physiology,2021,12: 705588.DOl: 10.3389/fphys.2021.705588. [26] PETRIEJR,GUZIKTJ，TOUYZR M.Diabetes，Hypertension，and Cardiovascular Disease: Clinical Insightsand Vascular Mechanisms [J]. Canadian Journal of Cardiology,2018,34(5): 575-584.DOl: 10.1016/j.cjca.2017.12.005. [27] 王若楠，张德生，白朝，等．甘油三酯、空腹血糖及甘油三酯葡萄糖乘积指数与高血压发病风险的前瞻性队列研究[]. 中华流行病学杂志,2021,42(03): 482-487.DOl: 10.3760/cma.j.cn112338-20200401-00491.WANG RN,ZHANG DS,BAl Z,et al. Prospectivecohort studyofrelationshipoftrglyceride,fasting blood-glucoseand triglycerideglucoseproductindex withriskof hypertension[J].Chinese Journalof Epidemiology,2021,42(03):482-487.DOl:10.3760/cma.j.cn112338-20200401-00491. [28]SONWM,PEKASEJ,PARKSY.Twelve weeksof resistanceband exercise trainingimprovesage-associatedhormonadecline, blood pressure,andbodycomposition in postmenopausal women with stage1 hypertension:arandomized clinicaltrial[J]. Menopause,2020,27(2): 199-207.D0l: 10.1097/GME.0000000000001444. [29]WONGA,UEROAA,SONWM,etal.heefectsoftairbingoarterialstiffessbloodpressure,ndlgstrgthin postmenopausal womenwithstage2hypertension[J].Menopause，2018,25(7):731-737.DOl: 10.1097/GME.0000000000001072. [30] SONWM,UNGKD,CHO」M,etal.Combinedexercisereducesarterialstifnesbloodpressure,andbloodmarkersfor cardiovascularrisk inpostmenopausal womenwithhypertension[J]．Menopause，2017，24(3):262-268.DOl: 10.1097/GME.0000000000000765. [31] LOAIZA-BETANCURAF，CHULVI-MEDRANOI,DIAZ-LOPEZVA,etal.Theefectof exercisetrainingonbloodpressure in ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "menopauseand postmenopausal women:A systematic review of randomizedcontrolled trials[J].Maturitas，2021，149:40-55.DOl: 10.1016/j.maturitas.2021.05.005.  \n[32] VANOORT S，BEULENS」WJ,VANBALLEGOOENAJ,etal.Associationof CardiovascularRisk FactorsandLifestyleBehaviorsWithHypertension:AMendelianRandomizationStudy[J].Hypertension，2020，76(6):1971-1979.DOl:10.1161/HYPERTENSIONAHA.120.15761.",
+        "page_idx": 8
+    }
+]

@@ -1,0 +1,1251 @@
+[
+    {
+        "type": "text",
+        "text": "Master integrals for the four-loop Sudakov form factor ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Rutger H. Boels $\\mathrm { a }$ , Bernd A. Kniehl $\\mathbf { a }$ , Gang Yangb,c ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（204号 $\\mathbf { \\mu } ^ { a }$ II.Institut fir Theoretische Physik, Universitat Hamburg Luruper Chaussee 149,22761 Hamburg，Germany （204号 $\\boldsymbol { b }$ Institut fir Physik,Humboldt Universitat zu Berlin IRIS-Gebäude, Zum Groβen Windkanal 6,12489 Berlin,Germany $c$ State Key Laboratory of Theoretical Physics, Institute of Theoretical Physics, Chinese Academy of Sciences,Beijing 100190, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The light-like cusp anomalous dimension is a universal function in the analysis of infrared divergences. In maximally ( $\\mathcal { N } = 4$ ）supersymmetric Yang Mills theory (SYM) in the planar limit,it is known,in principle,to all loop orders. The non-planar corrections are not known in any theory, with the first appearing at the four-loop order. The simplest quantity which contains this correction is the four-loop two-point form factor of the stress tensor multiplet. This form factor was largely obtained in integrand form in a previous work for $\\mathcal { N } = 4$ SYM,up to a free parameter.In this work,a reduction of the appearing integrals obtained by solving integration-by-parts (IBP) identities using a modified version of Reduze is reported. The form factor is shown to be independent of the remaining parameter at integrand level due to an intricate pattern of cancellations after IBP reduction. Moreover, two of the integral topologies vanish after reduction. The appearing master integrals are cross-checked using independent algebraic-geometry techniques explored in the Mint package. The latter results provide the basis of master integrals applicable to generic form factors, including those in Quantum Chromodynamics. Discrepancies between explicitly solving the IBP relations and the MINT approach are highlighted. Remaining bottlenecks to completing the computation of the four-loop non-planar cusp anomalous dimension in ${ \\mathcal N } = 4$ SYM and beyond are identified. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Form factors,Four-loop non-planar cusp anomalous dimension ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1．Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Maximally ( $\\mathcal { N } = 4$ ）supersymmetric Yang-Mills theory(SYM) offers perhaps the best chance of truly solving an interacting four-dimensional quantum field theory. In addition，it is a proven stepping stone to pioneer new computational technology,as the large amount of supersymmetry renders many computations much simpler than their non-supersymmetric counterparts. In many cases, the resulting technology has transformed computational power in generic quantum field theories. For instance, in QCD, recent years have seen a boom of next-to-leading-order (NLO） computations considered unfeasible only a few years before, inspired ultimately by Witten's twistor string [1]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The focus of this paper is the computation of the Sudakov form factor, which is an observable that involves one gauge-invariant operator from the stress tensor multiplet and two on-shell massless states, ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { F } _ { 2 } = \\langle p _ { 1 } , p _ { 2 } \\vert \\mathcal { O } \\vert 0 \\rangle .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In $\\mathcal { N } = 4$ SYM, this form factor was first discussed and computed at the two-loop order in [2]. It is noteworthy that the three-loop form factor was first computed in QCD [3],almost three years after the master integrals were found in [4]. This result was then adapted to provide the three-loop answer in $\\mathcal { N } = 4$ SYM in [5]. The latter computation cleanly shows that the computation within $\\mathcal { N } = 4$ SYM is technically much more straightforward, especially when employing modern unitarity-based methods instead of Feynman graph techniques. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Since there is only a single scale in the problem of computing the Sudakov form factor, the dependence on this scale is fixed by dimensional analysis. Hence,the form factor evaluates to a function which only depends on the dimensional regularization parameter $\\epsilon$ ( $D = 4 - 2 \\epsilon$ ),the coupling constant and the number of colors $N _ { c }$ .Moreover,the dependence on $\\epsilon$ is governed to a large extent by the known structure of infrared (IR) divergences. The divergent structure through $\\textstyle { \\frac { 1 } { \\epsilon ^ { 2 } } }$ , for instance, is determined by the so-called cusp (or soft） anomalous dimension,which gets its name from its appearance in the computation of the light-like cusped Wilson line [6,7]. The cusp anomalous dimension is a function which is universal for a given quantum field theory. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In $\\mathcal { N } = 4$ SYM,an integral equation which determines the leading planar part of the cusp anomalous dimension in principle exactly was derived from integrability [8]. This is to date the most powerful and precise manifestation of the cluster of ideas known as the AdS/CFT correspondence [9]. However,much less is known about the non-planar part of the cusp anomalous dimension. At weak coupling,an immediate problem is that the first non-planar correction appears at four loops and has never been calculated to date,in any theory. Further motivation comes from a conjecture [10] that this correction may in fact vanish. This is based on the assumed completeness of the dipole contributions,which is consistent with the analysis of IR divergences in Yang-Mills theories explored through three-loop order, see also [11]. However, there is evidence from the Regge limit analysis in [12] that this naive dipole summation is not sufficient at four loops. It is important to settle this issue by explicit computation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The integrand of the form factor was obtained in [13] using color-kinematic duality [14,15,16] as an ansatz generator. The coefficients in the ansatz were fixed by a choice of unitarity cuts,up to one remaining parameter. To evaluate the integral, a major next step is to perform the integral reduction, in particular using integration-by-parts (IBP) reduction [17, 18]. This turns out to be highly non-trivial due to the complexity of four-loop integrals. The success of this reduction is a major achievement of this paper. In particular, this reduces the challenging non-planar cusp anomalous dimension problem down to the computation of an explicit set of master integrals. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Based on the IBP reduction result, surprisingly, the free parameter in the integrand turns out to be truly free: it drops out of the full form factor after the reduction. This completes the determination of the integrand of the $\\mathcal { N } = 4$ SYM form factor at four loops. In other words,we prove that there is a one-parameter family of four-loop form factor integrands which satisfy color-kinematic duality. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The master integrals are also explored independently by algebraic techniques. While the results are consistent with the IBP reduction in majority, some rare examples of mismatch present interesting open questions to understand further. The results from algebraic methods,with some qualifications, provide the master integrals of four-loop form factors in generic quantum field theory, including QCD. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The remaining problem of computing the four-loop form factor in ${ \\mathcal { N } } = 4$ SYM is the evaluation of the master integrals. Many techniques are available to compute Feynman integrals, see [19] and references cited therein for an Overview. However, the basis integrals of the four-loop form factor are rather non-trivial. They include non-planar four-loop integrals with up to quadratic irreducible numerators, the majority of which, to our knowledge, have never been integrated. We present partial numerical results and briefly survey the challenges involved in completing the computation，while leaving the full evaluation to future work. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This article is structured as follows.First, the connection between form factor and cusp anomalous dimension is reviewed in section 2. This section also introduces some of the language to study Feynman integrals and discusses the issue of graph symmetry. In section 3,we report on the IBP reduction of the Feynman integrals in the four-loop form factor in $\\mathcal { N } = 4$ （204 SYM based on the Reduze package [20]. The independence of the sum on the free parameter reported in [13] is elucidated. We then proceed, in section 4, to study the basis of master integrals using algebraic techniques explored in [21]. A brief survey of the numerical evaluation is given in section 5. Appendices contain information on a three-loop cross-check and an alternative choice of basis integrals. In the supplementary material section, there are several ancillary files which contain results for the basis of master integrals. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2. Review and setup ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the following,extensive use will be made of the results in [13] for the four-loop form factor in ${ \\mathcal N } = 4$ SYM, in particular of the graphics and tables in section 5 of that paper. The numbering of the integral topologies refers to that paper. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the course of writing this paper,a typo was discovered in Table 5 of [13]: the entry for the color factor of integral topology 26 should be $2 4 N _ { c } ^ { 2 } \\delta _ { a _ { 1 } a _ { 2 } }$ . In particular, this integral topology does not contribute to the planar cusp anomalous dimension. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1. Relation between form factor and cusp anomalous dimension ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Sudakov form factor is an observable which here involves one gaugeinvariant operator from the stress tensor multiplet and two on-shell massless states, ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { F } _ { 2 } = \\langle p _ { 1 } , p _ { 2 } \\vert \\mathcal { O } \\vert 0 \\rangle .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the present paper, we focus on the four-loop Sudakov form factor in ${ \\mathcal { N } } = 4$ （204号 SYM, for which the integrand was obtained in [13].1 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Sudakov form factor for the stress tensor multiplet can be written as the tree-level form factor times a scalar function, ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { F } _ { 2 } = \\mathcal { F } _ { 2 } ^ { ( 0 ) } F _ { 2 } ( g , N _ { c } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It is this function $F _ { 2 }$ which will be computed. In momentum space, $F _ { 2 }$ is a function of the only scale in the problem, $q ^ { 2 } = ( p _ { 1 } + p _ { 2 } ) ^ { 2 }$ ，the coupling constants, group theory Casimirs and $\\epsilon$ . Here, $q$ is the momentum associated with the gauge-invariant operator. Note that it does not obey a mass-shell condition,in contrast to the momenta of the gluons, $p _ { 1 } ^ { 2 } = p _ { 2 } ^ { 2 } = 0$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The cusp anomalous dimension $\\gamma _ { \\mathrm { c u s p } }$ is related to the two-point form factor through the universal exponentiation of IR divergences [40, 41, 42, 43]. which,in dimensional regularization,takes the form ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { L o g } [ F _ { 2 } ] = \\sum _ { l } ( - q ^ { 2 } ) ^ { - l \\epsilon } { \\frac { - g ^ { 2 l } \\gamma _ { \\mathrm { c u s p } } ^ { ( l ) } } { 4 ( l \\epsilon ) ^ { 2 } } } + { \\mathcal O } ( \\epsilon ^ { - 1 } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The cusp anomalous dimension can be calculated as a perturbative series in the coupling constant. Displaying the dependence on group theory quantitiesup to fourth order,it reads ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma _ { \\mathrm { c u s p } } = \\sum _ { l } g ^ { 2 l } \\gamma _ { \\mathrm { c u s p } } ^ { ( l ) } = a _ { 1 } g ^ { 2 } C _ { A } + a _ { 2 } g ^ { 4 } C _ { A } ^ { 2 } + a _ { 3 } g ^ { 6 } C _ { A } ^ { 3 } + g ^ { 8 } \\left( a _ { 4 } ^ { \\mathrm { P } } C _ { A } ^ { 4 } + a _ { 4 } ^ { \\mathrm { N P } } d _ { 4 4 } \\right) + { \\mathcal O } ( g ^ { 1 0 } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $C _ { A }$ is the Casimir which, for the $\\mathrm { S U } ( N _ { c } )$ gauge group, simply has value $N _ { c }$ . The quantity $d _ { 4 4 }$ is a particular group theory Casimir invariant which, for $\\mathrm { S U } ( N _ { c } )$ , has the value $N _ { c } ^ { 4 } + 3 6 N _ { c } ^ { 2 }$ . In previous works, the constants $a _ { 1 }$ ， $a _ { 2 }$ ， $a _ { 3 }$ and $a _ { 4 } ^ { P }$ were calculated in perturbation theory [7,44,45,46, 47] $^ 2$ and using integrability [8]. In 't Hooft's planar limit [51], $N _ { c }  \\infty$ with $g ^ { 2 } N _ { c }$ fixed,it is clear that the first subleading color correction to the cusp anomalous dimension occurs at four loops. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "From the general exponentiation formula in equation (4), this non-planar correction can be isolated from the non-planar part of the form-factor at four-loop order at order $\\textstyle { \\frac { 1 } { \\epsilon ^ { 2 } } }$ in the $\\epsilon$ expansion. Since the integrals present in the form factor naively diverge as $\\textstyle { \\frac { 1 } { \\epsilon ^ { 8 } } }$ , this gives an important check on any computation of the non-planar form factor: the first six orders in the $\\frac { 1 } { \\epsilon }$ expansion must vanish. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The planar correction to the cusp anomalous dimension at four loops can be expressed as a sum of rational coefficients times either $\\zeta ( 3 ) ^ { 2 }$ or $\\pi ^ { 6 }$ [45, 46, 47], which are both constants of transcendentality six. Based on the maximal-transcendentality principle [48], it is natural to conjecture that the four-loop non-planarcorrection $a _ { 4 } ^ { \\mathrm { N P } }$ is given byacombination of thesame transcendental numbers, if not vanishing. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2. Feynman integrals ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "An $L$ -loop Feynman integral with $n$ so-called indices $a _ { 1 } , \\ldots , a _ { n }$ is an integral which can be written as ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI ( a _ { 1 } , \\ldots , a _ { n } ) \\equiv \\int d ^ { D } l _ { 1 } \\ldots d ^ { D } l _ { L } ( 1 / D _ { 1 } ) ^ { a _ { 1 } } \\ldots ( 1 / D _ { n } ) ^ { a _ { n } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $D _ { i }$ are inverse propagators. For future reference,we define the absolute value of the sum over positive and negative indices to be $t$ and $s$ （20 respectively. The parameter $s$ is the numerator power and $t$ is the propagator power. In this article, the indices are strictly integer valued. Integrals which have the same non-zero indices for propagators are said to belong to the same sector. In the special case where all propagator powers are one, theintegral is referred to as the corner integral of the sector. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The problem under study in this article consists of a series of four-loop twelve-propagator integrals. For each integral topology, one can construct a basis by starting with a parametrization of the loop momenta of the graphs. Then,one needs to pick six additional propagators to get a complete set. These additional propagators are important for expressing irreducible numerators. Given a numerator, one can express this uniquely into the basis. The choice of numerators is by nature somewhat arbitrary. If one focuses solely on additional propagators which are products of differences of two momenta, then this can be done by trial and error. A more systematic approach is needed, if the aim is to include graph symmetry. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As an example, let us consider integral topology 26. Its propagators can be parametrized as: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\quad l _ { 6 } ^ { 2 } , l _ { 5 } ^ { 2 } , l _ { 4 } ^ { 2 } , l _ { 3 } ^ { 2 } , ( - l _ { 4 } + l _ { 5 } ) ^ { 2 } , ( l _ { 3 } - l _ { 4 } ) ^ { 2 } , ( - l _ { 5 } + p _ { 1 } ) ^ { 2 } , ( - l _ { 6 } + p _ { 2 } ) ^ { 2 } , } \\\\ & { \\big ( - l _ { 4 } { + } l _ { 5 } { + } l _ { 6 } \\big ) ^ { 2 } , ( - l _ { 3 } { + } p _ { 1 } { + } p _ { 2 } ) ^ { 2 } , ( l _ { 3 } { - } l _ { 4 } { + } l _ { 6 } { - } p _ { 2 } ) ^ { 2 } , ( - l _ { 3 } { + } l _ { 4 } { - } l _ { 5 } { - } l _ { 6 } { + } p _ { 1 } { + } p _ { 2 } ) ^ { 2 } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This topology has two independent permutation symmetries,as will be discussed later. It can be checked that the following six additional propagators parametrize all irreducible numerators: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( l _ { 3 } - l _ { 5 } ) ^ { 2 } , ( l _ { 3 } - l _ { 6 } ) ^ { 2 } , ( l _ { 5 } - l _ { 6 } ) ^ { 2 } , ( l _ { 4 } - p _ { 1 } ) ^ { 2 } , ( l _ { 4 } - p _ { 2 } ) ^ { 2 } , ( l _ { 5 } - p _ { 2 } ) ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In section Appendix C, choices of propagators are explicitly given for all 34 topologies. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A useful step toward computing the Feynman integrals is the so-called $\\alpha$ representation, see e.g. [19]. The result is an integral over $\\alpha$ parameters, one for each propagator, ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI ( a _ { 1 } , \\ldots , a _ { n } ) \\propto \\frac { 1 } { \\prod _ { i } \\Gamma [ a _ { i } ] } \\int _ { 0 } ^ { \\infty } d \\alpha _ { 1 } \\ldots d \\alpha _ { n } \\prod _ { i } \\alpha _ { i } ^ { a _ { i } - 1 } U ^ { - D / 2 } e ^ { - \\mathrm { i } F / U } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where the normalization constant,which is unimportant for our purposes, has been suppressed. $U$ and $F$ are certain polynomials of the $\\alpha$ parameters of homogeneity $L$ and $L + 1$ , respectively. See [19] for further discussion and [52] for a Mathematica code to compute them from given propagators. As is customary, the labels on the $\\alpha _ { i }$ parameters correspond to the position in a given ordered list of propagators, such as the one in equation (7) for integral topology 26. Equation (9) can cover negative indices, that is,numerators as well. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3. Graph symmetry ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Several of the graphs in the set under study have a graph symmetry: the graphs are mapped to themselves under a permutation of some of the edges and external legs. Exploiting graph symmetry can be of great help in simplifying and cross-checking computations if it is present. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In [13],graph symmetry was indicated briefly by the symmetry factor. These symmetries can be checked or found by using the built-in capabilities of Mathematica. These permutations can include permutations of the external legs. An alternative strategy is to compute the $U$ and $F$ polynomials of the $\\alpha$ parameter integral, equation (6). Then, one can simply check all possible permutations and see if they leave these polynomials invariant. Due to the factorial growth of this problem,the feasibility of this analysis strongly depends on the algorithm: a naive implementation ran out of steam for ten propagators. A faster algorithm is presented in [53]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A symmetry of the graph of an integral can correspond to a symmetry of a corresponding Feynman integral. For a given parametrization of the loop momenta of the graph,a permutation symmetry of the graph may be undone by a shift of the loop momenta, combined with a permutation of the external legs. If the latter leaves the integral invariant, the result is a symmetry of the Feynman integral. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For the example of topology 26, the two independent permutations are generatedfrom ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { l } { l _ { 6 } } & {  l _ { 5 } , } \\\\ { l _ { 4 } } & {  - l _ { 4 } + l _ { 5 } + l _ { 6 } , } \\\\ { l _ { 3 } } & {  - l _ { 3 } + p _ { 1 } + p _ { 2 } , } \\\\ { p _ { 1 } } & {  p _ { 2 } , } \\end{array} \\qquad \\begin{array} { r l } { } & { l _ { 6 } } & {  - l _ { 5 } + p _ { 1 } , } \\\\ { l _ { 5 } } & {  - l _ { 6 } + p _ { 2 } , } \\\\ { l _ { 4 } } & {  l _ { 3 } - l _ { 4 } , } \\\\ { p _ { 1 } } & {  p _ { 2 } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "as can be checked explicitly in equation (7). Since the integrals,by dimensional analysis,only depend on $( p _ { 1 } + p _ { 2 } ) ^ { 2 }$ ，they are left invariant by the permutation of $p _ { 1 }$ and $p _ { 2 }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The momentum map given above corresponds to a simple permutation pattern for a given list of propagators. Let us consider, for instance, the scalar integral in topology 26,with the propagators as listed in equation (7). The two independent permutation symmetries of the graph correspond to the following cycles: ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\{ \\{ 1 , 7 \\} , \\{ 2 , 8 \\} , \\{ 3 , 6 \\} , \\{ 5 , 1 1 \\} , \\{ 9 , 1 2 \\} \\} , } \\\\ & { \\{ \\{ 1 , 2 \\} , \\{ 3 , 9 \\} , \\{ 4 , 1 0 \\} , \\{ 6 , 1 2 \\} , \\{ 7 , 8 \\} \\} . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Together with the trivial permutation and their product, these form a fourelement representation of the permutation group. A given propagator can be mapped to other propagators in the set,but only if they are in the orbit of the given permutation. The orbits of the above permutation group are ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\{ 1 , 2 , 7 , 8 \\} , \\{ 3 , 6 , 9 , 1 2 \\} , \\{ 4 , 1 0 \\} , \\{ 5 , 1 1 \\} \\right\\} .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This can be used to simplify the sector decomposition method employed in FIESTA, for instance,as will be shown in section 5.1. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Given a permutation symmetry of a particular topology, ideally, additional propagators would be found which yield a complete basis of propagators and also incorporate the permutation symmetry. One can search for symmetric numerators systematically. Permutation symmetries either leave propagators invariant or interchange two propagators. Hence, the six propagators to be added to the set contain either zero, one, two or three pairs of interchanges and, consequently, six, four, two or zero invariant propagators. Starting from a generic linear combination of all four loop momenta and two external momenta, one can construct the most general pair combination as well as the most general invariant propagator in terms of a number of free variables. Since propagators are only determined up to a sign by the appearance of the square, there are two times two possible (pairs of） polynomials which come out of this. Hence, all possible appearances of the permutation symmetry can be parametrized. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Then,one checks if the resulting set of eighteen propagators is linearly independent. In several cases (e.g. topology 2O)，no set exists at all. In addition, there are integrals with multiple permutation symmetries which do not permit a choice of six additional propagators with all permutation symmetries manifest. In cases in which there are sets of numerators with explicit permutation symmetries, typically many free variables exist. These may then be fixed by hand aiming for propagators as simple as possible. Care should be exercised not to choose parameters such that accidental linear dependencies in the total set of propagators are introduced. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For the example of topology 26, the momentum maps in equation (10) do not map the additional numerators in equation (8) into a permutation of themselves. The following set of additional numerators has explicit permutation symmetry: ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l l } { { ( l _ { 3 } + 2 l _ { 5 } - 3 p _ { 1 } ) ^ { 2 } , ~ } } & { { ~ ( l _ { 3 } + 2 l _ { 5 } - p _ { 2 } ) ^ { 2 } , } } \\\\ { { ( - l _ { 3 } + 2 l _ { 6 } + p _ { 2 } ) ^ { 2 } , ~ } } & { { ~ ( l _ { 3 } - l _ { 4 } + l _ { 5 } - p _ { 2 } ) ^ { 2 } , } } \\\\ { { ( l _ { 3 } - 2 l _ { 6 } - p _ { 1 } + 2 p _ { 2 } ) ^ { 2 } , ~ } } & { { ~ ( l _ { 4 } - l _ { 6 } - p _ { 1 } + p _ { 2 } ) ^ { 2 } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This example shows a general principle: the price of manifest permutation symmetry can be a much more complicated numerator structure. It would be very interesting to fix guiding principles for choosing sets of numerators. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The considerations above result in two sets of propagators. For each integral topology, there is a choice of eighteen propagators which can be used to express any integral in this particular topology. In particular, any numerator can be expressed in terms of the basis. In the first set, the aim was to include numerators as simple as possible,while, in the second, permutation symmetries were taken into account as much as possible. Obtaining the symmetric set is the result of a fairly lengthy computation. The simplest choice in the first set is listed in section (Appendix C).All results reported here were obtained with this set,unless explicitly mentioned otherwise. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.IBP reduction and its output ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The set of Feynman integrals in equation (6) is over-complete,as there are relations between different Feynman integrals. A particular example are ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "the IBP relations [17,18],which follow from ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 = \\int d ^ { D } l _ { 1 } \\ldots d ^ { D } l _ { L } \\ \\frac { \\partial } { \\partial l _ { i } ^ { \\mu } } X .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Working out the right-hand side leads to a linear relation of different Feynman integrals. By solving a system of such equations, one may express a general Feynman integral in terms of some basic integrals. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A different way of phrasing the problem is to envision the system of IBP relations as a large matrix equation,with the integrals combined into a vector. The standard way of solving a problem of this type is Gaussian elimination. However, the output of this algorithm for a non-invertible matrix problem,such as the one under study here, depends on the ordering of the integrals in the vector. This is the essence of Laporta's algorithm for IBP reduction [54]: one picks an ordering of the integrals. This ordering should be such that complicated integrals are expressed in terms of simpler ones in general. For instance, integrals with smaller values of the parameter $s$ (measuring numerator powers） are preferred,as are integrals with less numbers of different propagators. In addition， smaller values of the parameter $t$ (measuring propagator powers) are to be preferred. Within these general choices,in practice, the exact criteria can differ between two different implementations of Laporta's algorithm. The results of these two implementations are, therefore,in general not the same, but related by a change of basis. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Given a system of equations, the output of Laporta's algorithm is a reduction of all integrals in a given set down to integrals which cannot be further reduced from the given equations using the given ordering. The leftover integrals are known as master integrals. These integrals depend on the given set of equations,although typically, if the given set of equations is large enough, the set of master integrals tends to converge. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Various private and public implementations of Laporta's algorithm exist, such as AIR [55], FIRE [56,57, 58] and Reduze [20, 59]. See LiteRed [60, 61] for an alternative approach to IBP reduction. We explored FIRE, Reduze and LiteRed in some detail for the four-loop form factor problem. Only Reduze succeeded in solving the problem,probably due to its better parallelisation implementation. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1.Relevant implementation details ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Reduze is designed to run in massive parallel mode on a cluster. As an input，it takes a family of integrals. This family is treated as an ordered set: lower integrals in the set are considered simpler. Integrals are reduced as far as possible to lower integrals. This cuts down on the computational workload considerably, especially in a large-scale problem such as the one under study here. As parameters, Reduze takes a range of propagator powers (the $t$ variable) as well as a range of numerator powers (the $s$ variable） and constructs out of these all possible IBP relations for a given sector. These are then solved sector by sector,starting from the simplest sector, which is the bottom sector of the first member of the integral family. The number of relations tends to grow very quickly along either the $t$ or the $s$ axis. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A problem we encountered in the public version of Reduze in parallel mode was that it tended to crash when handling many large files on the cluster file system during the identity generation stage. Due to this problem it is unfeasible to obtain an IBP reduction with the public version of Reduze,and a fix is needed. The problem was that a file was reported as not present in the file system,while a manual check thereafter did uncover this particular file. This is due to the internal file handling structure of Reduze,’ where al processes are allowed to read from and write to disc. As a work-around, the program can be forced $^ 4$ to sleep for a time-out of fifty seconds,followed by a 5oo-second time-out if the file is still not found. This two-stage timeout resolved the crashing problem due to disk space usage. The loss of productivity for a few minutes is a small price to pay to prevent the total collapse of the computation. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "During the running of the four-loop reduction, Reduze still crashed occasionally when handling integrals in sectors with many, typically twelve or eleven propagators. These integrals require a large memory usage each, which can easily overwhelm one of the nodes of the cluster. Sometimes this can be due to bad scheduling of processes,with all root processes which consume most memory running on a single node; this situation can somewhat be avoided at start-up by passing scheduling instructions to the messagepassing-interface (MPI) program.5 By contrast, for lower propagator count, the limiting factor for speed is mostly CPU time. These two situations require opposite numbers of allowed parallel processes,which in turn requires occasional input by the user during running. It should be noted that，although Reduze works in parallel, there is a limit to the number of cores which are assigned to a single process while still increasing computational speed. This saturation is sector dependent,but certainly under a hundred cores. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The chosen IBP relations are in the range $t \\leq 1 2$ and $0 \\leq s \\leq 2$ ，with some extensions to $t \\ : = \\ : 1 3$ for specific integral topologies. Since Reduze features a choice of used relations,there can be problems with the reduction at the outer edges of these relations: there can be unresolved integrals.A simple check of this is to observe the file size of the reductions in a sector and compare it to the average for other integral topologies in a sector with the same numbers of propagators. A sudden increase in file size tends to indicate unreduced integrals: the unreduced integrals appear with much more complicated prefactors than the others, typically involving polynomial ratios with polynomial orders an order of magnitude above the norm. This is more than just a nuisance. The abnormal prefactors tend to be highly divergent in the limit $\\epsilon  0$ ,typically $\\propto \\frac { 1 } { \\epsilon ^ { 1 5 } }$ or worse. Since theform factor itself is expected to diverge at worst as $\\textstyle { \\frac { 1 } { \\epsilon ^ { 8 } } }$ , this implies massive cancellations among the integrals. This particular problem occurred in the basis of section Appendix C in integral topologies 2O and 26, for integrals with at most ten propagators. This problem was resolved using consistency conditions， see two paragraphs down. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "We reduced using the set of numerators in section Appendix C.A secondary computation using numerators with explicit permutation symmetries failed; at a certain eleven-propagator integral, the MPI protocol ran into an issue with maximal size of a single message,which is set by the maximum size of an integer on a 32-bit machine, see [62] for an explanation of the problem and a possible resolution. This is a result of a choice of protocol and not related to the physical architecture used. In principle,this problem could be circumvented by rewriting the Reduze code to handle messages of this size. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Since the set of numerators with the simplest structures was used, integral relations from permutation symmetries are not explicit. This allowed a simple check on the results: take a graph symmetry relation and use the IBP reduction. If Reduze found the relation, the result must be zero. We checked permutation symmetry on maximal-propagator integrals with upto-quadratic numerators. Surprisingly, one single additional relation was found which involved exactly all master integrals with abnormal prefactors. Plugging this relation into the reduction eliminated the abnormal prefactors, reducing them to much more normal-looking ones. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2. Results ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The computation led to a result after several months of computation on a fairly large cluster.6 The complete list of the master integrals obtained with this reduction is attached, both in the planar and non-planar sectors,as well as a sample result for topology 25. Overall, the integrals which appear after reduction are simpler. There are two integrals with two numerator powers. One of these contains only eight propagators and is easy to integrate numerically. The other, however, has the full twelve propagators and occurs in integral topology 26. It turns out that this particular integral can be integrated numerically (see section 5.1). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Any basis of master integrals listed is arbitrary to some extent. For a given sector, an obvious first choice for a master integral is its corner integral. Beyond this, there is a choice of a (typically single) numerator or doubledup propagator. The statistics in Table 1 relates to the direct output of Reduze, taking into account the one extra relation found from permutation symmetry. The statistics is split into those integrals which contribute to the planar and non-planar parts of the form factor. ",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/dee22c4dfcd3242cc04f4bae08b10e5170611c8155fd4cd8856915dde99795f9.jpg",
+        "table_caption": [
+            "Table 1: Master integral statistics of obtained IBP reduction. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">(a) planar form factor</td><td colspan=\"4\">(b) non-planar form factor</td></tr><tr><td>#props</td><td>s=0</td><td>s=1 s=2</td><td></td><td>#props</td><td>s=0</td><td>s=1</td><td>s=2</td></tr><tr><td>12</td><td>8</td><td>6</td><td>0</td><td>12</td><td>10</td><td>10</td><td>1</td></tr><tr><td>11</td><td>18</td><td>2</td><td>0</td><td>11</td><td>13</td><td>3</td><td>0</td></tr><tr><td>10</td><td>43</td><td>9</td><td>0</td><td>10</td><td>34</td><td>10</td><td>0</td></tr><tr><td>9</td><td>49</td><td>1</td><td>0</td><td>9</td><td>29</td><td>1</td><td>0</td></tr><tr><td>8</td><td>51</td><td>4</td><td>1</td><td>8</td><td>32</td><td>3</td><td>1</td></tr><tr><td>7</td><td>25</td><td>0</td><td>0</td><td>7</td><td>13</td><td>0</td><td>0</td></tr><tr><td>6</td><td>8</td><td>0</td><td>0</td><td>6</td><td>7</td><td>0</td><td>0</td></tr><tr><td>5</td><td>0</td><td>0</td><td>0</td><td>5</td><td>1</td><td>0</td><td>0</td></tr><tr><td>sum</td><td>203</td><td>22</td><td>1</td><td>sum</td><td>139</td><td>27</td><td>2</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In these tables, there is quite some double counting of integrals which appear both in the planar and non-planar sectors. Using the known result for the sum of the integrals in the planar sector, one can eliminate several of the integrals in the non-planar sector. This is more efficient than might be expected, as there are four integral topologies (21, 25, 30 and 31) which each appear with the same overall color factor, $2 N _ { c } ^ { 4 } + 2 4 N _ { c } ^ { 2 }$ . This can be used to eliminate these integral topologies from the non-planar sector in favor of the integrals in the purely planar sector and the known planar-form-factor result. The resulting sum contains more integrals (26O in total) than the non-planar sector by itself. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The choice of master integrals in the provided results is taken from the output of Reduze. It is possible to choose other sets of master integrals, in particular the ones with numerators, to aim at simplifying, for instance, the prefactors of the integrals in the form factor or to make use of a permutation symmetry of the scalar skeleton of the integral. In particular, one aim could be to make these as weakly divergent as possible in the limit $\\epsilon  0$ .The power of divergence in this limit determines the order to which the integral is to be expanded to get the cusp anomalous dimension. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Cross-check: Multiple reductions ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The IBP reduction was run twice, with a second reduction involving a reshufling of the integral topologies to put planar topologies first. It was checked that the two reductions commute: reducing with the second reduction followed by the first gives the same result as reducing with the first,after taking into account the extra relation found from permutation symmetries. Before taking into account this relation， there are seeming mismatches between several of the integrals which appear in the full fourloop form factor: these mismatches are all proportional to the extra relation. This is a consistency check for the IBP reduction. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.3.Cancellations in the form factor after IBP reduction ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The IBP reduction displays two separate patterns of interesting cancellations for the form factor result: one pattern takes place within the separate integral topologies,while the second is between different integral topologies. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The first pattern is that, for integral topologies 18 and 20, the contributions to the form factor vanish after IBP reduction. Generically, the Feynman integrals in these topologies do not vanish; there are twelve-propagator master integrals. However, the specific combination of the integrals in the $\\mathcal { N } = 4$ SYM form factor reduce to zero. Considering the complicated numerators for topologies 18 and 20, this is rather nontrivial and not obvious at all at the integrand level. It should be noted that these integrals already do not contribute to the form factor: their color factors are also zero. Such cancellations,however,do not happen for the other four zero-color-factor topologies,8, 11， 15 and 16,whose integrals reduce to nontrivial results. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "It would be very interesting to find an explanation for these vanishing integrals,as,in physics,a zero almost always has a physical and important symmetry explanation. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Another intriguing pattern emerges when tracking the dependence on the single free parameter in the form factor integrand which was left in [13]. There,the free parameter in the form factor multiplies a combination of 24 out of 34 different integral topologies which obeys all the physical constraints imposed in [13] separately. In particular, this combination is color-kinematic dual by itself. One may expect that，by applying other, more complicated cuts which are not exploited in [13], this parameter may be fixed uniquely. The surprise is that,when summed with the correct color and symmetry factors (and only then), the dependence on the free parameter drops out of the form factor after IBP reduction. This means that the colorkinematic-dual representation of the four-loop form factor contains a truly free parameter! ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "This detailed cancellation involves an order of fifty different master integrals with up to ten propagators and occurs in both the planar and nonplanar sectors. Most of the cancellations of the coefficients of the master integrals involve integrals out of all of the eighteen integral topologies which involve the free parameter and have nontrivial color factors. As an intricate example, consider the coefficient of the master integral ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { I N T } [ 2 , \\{ - 1 , 0 , 1 , 1 , 1 , 1 , 0 , 0 , 1 , 1 , 0 , 0 , 1 , 0 , 0 , 0 \\} ] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "which occurs in topologies 12, 14,15,17 and 19. The coefficient in topology 12 reads: ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { - 2 4 2 + 2 8 6 1 \\epsilon - 4 9 0 6 \\epsilon ^ { 2 } - 3 7 5 1 9 \\epsilon ^ { 3 } + 1 3 3 7 0 6 \\epsilon ^ { 4 } - 1 8 5 2 0 \\epsilon ^ { 5 } - 3 7 8 2 0 0 \\epsilon ^ { 6 } + 3 6 6 0 0 0 \\epsilon ^ { 7 } } { 2 1 \\epsilon ^ { 4 } ( 1 + 4 \\epsilon ) ( - 1 + 5 \\epsilon ) ( 1 + 5 \\epsilon ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "which is exactly $- 2$ times the coefficient of this master integral in topology 19. Taking into account the symmetry factors of topologies 12 and 19, which are 2 and 1, respectively, this leads to a cancellation. Similarly, the coefficients of this master integral in topology 14 cancels against that in topology 17, while the color factor of topology 15 is zero. The other master integrals typically involve much more intricate cancellations. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "It would be very interesting to reach a better understanding of the uncovered cancellations. On a practical level, this pattern completes the determination of the form factor integrand [13]. To our knowledge, this is the first example of a color-kinematic-dual integrand representation that contains a free parameter. It would be fascinating to see if there is any deeper physical meaning of the free parameter, for example,as due to some gauge symmetries. This free parameter can be set to any value at the start of the computation. A natural value is $- 1$ ，which simplifies the naive appearance of the integrals. This cancellation provides strong evidence for consistency of both the integrand result in [13] and the IBP reduction performed in the present paper. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4. Counting master integrals using algebraic techniques ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In [21], Lee and Pomeransky developed a method to count the number of master integrals using a technique adapted from algebraic geometry. This is partially based on previous work by Baikov [63]. This method only relies on the topology of the integral and, therefore, applies for arbitrary values of $t$ and $s$ .In particular,it is independent of obtaining an explicit IBP reduction and, hence,of the results of the previous section. This idea was also implemented in a Mathematica package called Mint [21]. In this section, we develop and apply this method to count the number of master integrals of four-loop form factors. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Similarly to the start of IBP reduction, one first needs to determine the unique physical sectors for a given integral topology. As described in [21], it is convenient to perform this step using LiteRed [60, 61]. In particular, LiteRed determines the sector symmetries,which can be taken into account automatically in Mint. In the next step, the counting of master integrals is done independently for each physical sector. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Let us consider a physical sector of $L$ -loop topology and $m$ propagators. From the associated polynomials $U$ and $F$ in equation (9),one can define a new polynomial7 ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG ( \\vec { \\alpha } ) = U ( \\vec { \\alpha } ) + F ( \\vec { \\alpha } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "which has polynomial degree $L + 1$ .Using the duality of homology and cohomology (see [21] for more details)，the number of master integrals is related to the number of independent integral contours. The latter depends on the analytic structure of the polynomial $G$ and is characterized by the so-called proper critical points. These are the stationary points at which $G$ （204号 does not vanish and are, thus, defined as the solutions of ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial G } { \\partial \\alpha _ { i } } = 0 ( i = 1 , \\ldots , m ) \\qquad \\mathrm { a n d } \\qquad G \\neq 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Proper critical points may or may not exist for a given $G$ polynomial.If there is no critical point, this implies that the corner integral of the sector is reducible,so that this sector does not contribute a master integral. On the other hand, if critical points do exist, the corner integral is irreducible with respect to IBP. This condition of irreducibility was first shown in [63]. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "A proper critical point may have a multiplicity which is measured by a topological invariant, the so-called Milnor number at the critical point. The number of master integrals is the sum over the Milnor numbers $M _ { i }$ of all proper critical points, ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\# \\mathrm { ~ o f ~ m a s t e r ~ i n t e g r a l s } = \\sum _ { i \\in \\mathrm { p r o p e r ~ c r i t i c a l ~ p o i n t s } } M _ { i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "provided that the proper critical points are isolated. We will explain the meaning of isolated critical point shortly. In the case of non-isolated critical points,more work is required [21],see also an explicit example in section 4.1 below. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Thus, the problem of counting master integrals is reduced to the one of computing the critical points of a system of nonlinear polynomial equations given by equation (18)，which is usually highly nontrivial to solve. Fortunately, one can apply powerful algebraic approaches to make this job simple, based on the so-called Grobner basis technique. Readers who are not familiar with the Grobner basis and related concepts may consult [64] for a pedagogical introduction. Here, only the basic procedure is outlined. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The solution space of a system of polynomial equations is called affine variety associated with an ideal determined by the equations. For the system of equations (18), the ideal can be defined as ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI = \\left. \\frac { \\partial G } { \\partial \\alpha _ { 1 } } , \\dots , \\frac { \\partial G } { \\partial \\alpha _ { m } } , \\alpha _ { 0 } G - 1 \\right. ,\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "where,in the last term,one introduces an additional parameter $\\alpha _ { 0 }$ which forces the polynomial $G$ to be non-vanishing at the critical point. The solutions of the affine variety can be obtained by computing the Grobner basis of equation (20), ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname { g b } ( I ) = \\left\\{ g _ { 1 } , g _ { 2 } , . . . , g _ { k } \\right\\} .\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Once the Grobner basis is obtained, it becomes relatively trivial to find the solutions. In our problem，we only concern ourselves with the number of solutions. This, in practice,can be conveniently obtained by counting the number of irreducible monomials in the Grobner basis.8 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The above-described procedure is implemented in Mint [21] and applies straightforwardly to many simple cases; for example,applying it to the three-loop form factor, we obtain the result summarized in Table 2. The numbers of master integrals are consistent with the reduction of LiteRed. ",
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/8ff6b91d790799ffe6c056a5f8fa4e38a01739753fe0c768045eacb7c1786431.jpg",
+        "table_caption": [
+            "Table 2: Master integral counting for the six three-loop form factor topologies given in Figure 5 of [13]. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>topology</td><td>(1) (2) (3) (4) (5) (6)</td></tr><tr><td># MIs via Mint</td><td>9 10 10 10 14 10</td></tr></table></body></html>",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "For the four-loop form factor, however,one encounters two problems when trying to apply the Mint package. The first problem is that the set of criticalpoints can form an affine variety of dimension $\\geq 1$ .This corresponds to the non-isolated critical-point case. Mint cannot deal with such cases automatically in its present version， but denotes them as Indeterminate. The number of such cases for the integral topologies at hand are summarized in Table 3. Although the absolute number of these cases is low, they tend to occur in the more complicated sectors. They require some further work as described in [21]. We employed a similar procedure and present an explicit example in subsection 4.1. ",
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/76e0effa09eb9c696658a5fe01ed17f2eb8359bbe5e13af0e070f152751dd5a3.jpg",
+        "table_caption": [
+            "Table 3: Indeterminate sectors from Mint for the 34 topologies given in Figures 8 and 9 of [13]. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>topology</td><td>(14) (15)</td><td>(16)</td><td></td><td>(17)</td><td>(18)</td><td>(20)</td><td>(22)</td><td>(23)</td><td>(24)</td></tr><tr><td># Indeterminate</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>2</td><td>1</td><td>1</td><td>1</td></tr><tr><td>topology</td><td>(25)</td><td>(26)</td><td>(27)</td><td>(28)</td><td>(29)</td><td>(30)</td><td>(32)</td><td>(33)</td><td>(34)</td></tr><tr><td># Indeterminate</td><td>1</td><td>3</td><td>1</td><td>1</td><td>3</td><td>1</td><td>1</td><td>1</td><td>1</td></tr></table></body></html>",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Another problem is that, in quite a lot of cases,Mint gets stuck at the step of Constructing Grobner basis .... This is due to the complexity of fourloop integrals for which Mathematica cannot finish the computation of the corresponding Grobner basis. There are many known other packages which can compute a Grobner basis more efficiently. We applied Macaulay2 [65], which can be conveniently used in Mathematica through mathematicaM2.m [66],and we employed Singular [67] in several most complicated cases. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Based on Mint and with some extra effort to solve the above two problems,we obtained the numbers of master integrals for the 34 different topologies as summarized in Table 4. ",
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/fe599597c2edf621b143f5c39279d6e4ea6e09b7660b2af4a80e9d969ee8ad4c.jpg",
+        "table_caption": [
+            "Table 4: Master integral statistics: Mint results for the 34 topologies given in Figures 8 and 9 of [13]. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>topology</td><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(5)</td><td>(6)</td><td>（7)</td><td>(8)</td><td>(9)</td><td>(10)</td><td>(11)</td><td>(12)</td></tr><tr><td>#MIs</td><td>28</td><td>35</td><td>38</td><td>34</td><td>39</td><td>48</td><td>71</td><td>52</td><td>55</td><td>69</td><td>52</td><td>95</td></tr><tr><td>topology</td><td>(13)</td><td>(14)</td><td>(15)</td><td>(16)</td><td>(17)</td><td>(18)</td><td>(19)</td><td>(20)</td><td>(21)</td><td>(22)</td><td>(23)</td><td>(24)</td></tr><tr><td>#MIs</td><td>76</td><td>87</td><td>95</td><td>93</td><td>106</td><td>84</td><td>105</td><td>89</td><td>45</td><td>66</td><td>41</td><td>75</td></tr><tr><td>topology</td><td>(25)</td><td>(26)</td><td>(27)</td><td>(28)</td><td>(29)</td><td>(30)</td><td>(31)</td><td>(32)</td><td>(33)</td><td>(34)</td><td></td><td></td></tr><tr><td>#MIs</td><td>55</td><td>78</td><td>92</td><td>69</td><td>93</td><td>84</td><td>35</td><td>33</td><td>31</td><td>39</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Given the number of master integrals,Mint can also generate a set of master integrals. In most cases,a sector contains only one master integral, in which case the corner integral is chosen as the master integral. If there are more than one master integrals in a sector, Mint suggests integrals with higher powers of propagators (while Reduze typically chooses integrals with numerators). However, the choice of a double-propagator integral is rather heuristic; therefore,to find out whether it is a genuine master integral requires further checks. In our case,we could check them by using Reduze,as will be discussed shortly. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "To obtain the master integrals for the four-loop form factor, we still need to combine the master integrals of Table 4 together. Obviously, same master integrals may appear in different topologies of Table 4. This may be detected by comparing their graph topology: if two graphs are isomorphic to each other,they are the same integral. After this step,we find that there are only 280 non-isomorphic master integrals: 244 with only simple propagators plus 36 containing a double propagator.9 ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Here,one should be cautious that there could be relations between integrals which are apparently not due to graph isomorphism, see e.g. [20, 53] for some explicit examples. Such relations can be found by considering Feynman parameter representations of integrals and checking if the two representations are related to each other by a permutation of Feynman parameters.A fast algorithm for such a check was proposed in [53]. Alternatively, one can also consider the so-called graph matroid technique to detect such hidden relations between different integrals,as implemented in Reduze [2O]. For us, there is an easier way to detect such relations,namely applying Reduze to reduce the basis integrals obtained by Mint.We checked that all 244 corner integrals correspond to basis integrals as determined by Reduze. Thus, they are indeed master integrals. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "As mentioned above, the choice of master integrals with double propagators by Mint requires further checks. We applied Reduze to the 32 doublepropagators integrals which do not appear in the twelve-propagator sector of topology 26 and found that four of the suggested master integrals are actually reducible.10 This does not change the number of Mint master integrals, but simply means that a different integral from this sector must be chosen as a master integral. By changing the position of the double propagator, we indeed found irreducible integrals. The twelve-propagator sector of integral topology 26 is analyzed further below. Thus,we obtained the final list of 280 genuine master integrals. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "We would like to emphasize that the counting of master integrals based on Mint only relies on the topologies of given integrals and applies to arbitrary numerators; therefore,it applies to any theory, including QCD.We remind that the counting of Reduze given in Table 1 concerns particular master integrals appearing in the reduction of the ${ \\mathcal N } = 4$ SYM form factor result. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Aninteresting mismatch between Reduze and Mint ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Some caution is needed when assessing the output of Mint: this package is known to under-report the number of master integrals in very rare cases. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "To check this,we collected all master integrals appearing in the IBP reduction by Reduze,with $t = 1 2$ and $s = 2$ and with $t = 1 3$ and $s = 1$ .It turns out that Reduze yields more master integrals. Many of them consist of twelve propagators and one to several numerators. They are at the edge of the reduction setting,and it is very likely that they may be reduced by including more IBP identities. These will not be discussed further here, details are available on request. What is unexpected is that there are nine corner integrals with only ten or less propagators,for example ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { I N T } [ 2 , \\{ 0 , 0 , 1 , 1 , 1 , 1 , 1 , 0 , 0 , 0 , 1 , 0 , 0 , 1 , 0 , 0 , 0 \\} ] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "with only eight propagators. Mint shows that they contain no proper critical points,while Reduze and FIRE5 take them as master integrals. Due to the low number of propagators,most related IBP identities should already be taken into account by Reduze. Therefore,it is likely that these integrals are truly master integrals.11 This would mean that the counting method of Mint requires some modification,although it is correct in the vast majority of cases. We cannot rule out， however, that there are integral relations which render this set of nine corner integrals reducible. It would be very interesting to understand this issue and see which is right. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "In addition, there is one more master integral in the Reduze basis,which appears to be an artifact of the way we solved the permutation symmetry consistency condition. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "4.1. Two worked-out examples ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Here,we give further details by considering two examples which cannot be computed directly by Mint. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Let us first consider an example corresponding to an indeterminate case: a subsector of topology 26 with eleven propagators, ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { I N T } [ 2 6 , \\{ 1 , 1 , 1 , 0 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 0 , 0 , 0 , 0 , 0 , 0 \\} ] .\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "From $G = U + F$ ，which are polynomials of $\\alpha _ { i }$ ? $( i = 1 , \\ldots , 1 1$ ）and of homogeneity five,one can construct the ideal $I$ defined in equation (2O). The corresponding Grobner basis cannot be computed by Mathematica, but can be calculated using Macaulay2 [65]. The quotient space of the resulting ideal $\\mathcal { T } = \\mathrm { G B } ( I )$ turns out to be infinite dimensional.12 One then computes the primary decomposition of $\\mathcal { T }$ (e.g. using Macaulay2),which gives ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { I } = \\mathcal { I } _ { 1 } \\cap \\mathcal { I } _ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathcal { Z } _ { 1 } = \\langle 1 8 6 6 2 4 \\alpha _ { 0 } - 3 1 2 5 , \\alpha _ { 1 } , 5 \\alpha _ { 2 } + 1 2 , 5 \\alpha _ { 3 } - 1 2 , 5 \\alpha _ { 4 } + 1 2 , 5 \\alpha _ { 5 } - 1 2 , \\alpha _ { 6 } , 5 \\alpha _ { 7 } + 1 2 , } \\\\ & { \\qquad 5 \\alpha _ { 8 } + 1 2 , 5 \\alpha _ { 9 } - 1 2 , 5 \\alpha _ { 1 0 } + 1 2 , 5 \\alpha _ { 1 1 } + 1 2 \\rangle , } \\\\ & { \\mathcal { Z } _ { 2 } = \\langle 7 2 9 \\alpha _ { 0 } - 1 6 , 2 \\alpha _ { 1 } + 2 \\alpha _ { 8 } + 3 , \\alpha _ { 2 } + 2 \\alpha _ { 1 1 } + 6 , \\alpha _ { 3 } - 3 , 2 \\alpha _ { 4 } - 2 \\alpha _ { 8 } + 3 , \\alpha _ { 5 } - 3 , } \\\\ & { \\qquad 2 \\alpha _ { 6 } + 2 \\alpha _ { 1 1 } + 3 , \\alpha _ { 7 } + 2 \\alpha _ { 8 } + 6 , 2 \\alpha _ { 1 1 } \\alpha _ { 8 } + 3 \\alpha _ { 8 } + 3 \\alpha _ { 1 1 } + 9 , 2 \\alpha _ { 9 } - 3 , 2 \\alpha _ { 1 0 } - 2 \\alpha _ { 1 1 } + 3 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "The quotient space of the first ideal is one-dimensional,which is obvious, since there is only one solution of the corresponding polynomial system. On the other hand, the quotient space of the second ideal is infinite dimensional. This can be treated as the example discussed in [21]. Rather than considering the full ideal $\\mathcal { T } _ { 2 }$ ，one can simply consider the variety determined by the equation $\\tilde { G } ( \\alpha _ { 8 } , \\alpha _ { 1 1 } ) = 0$ ，where ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { G } ( \\alpha _ { 8 } , \\alpha _ { 1 1 } ) = 2 \\alpha _ { 1 1 } \\alpha _ { 8 } + 3 \\alpha _ { 8 } + 3 \\alpha _ { 1 1 } + 9\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "is the only quadratic element in $\\mathcal { T } _ { 2 }$ . Then,one computes the dimensionality of the quotient space of the ideal ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { I } = \\left. \\partial \\tilde { G } / \\partial \\alpha _ { 8 } , \\partial \\tilde { G } / \\partial \\alpha _ { 1 1 } , \\alpha _ { 0 } \\tilde { G } - 1 \\right. ,\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "which turns out to be one. Altogether,one finds that the number of bases is two. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "As another illustrative example,we consider the sector of topology 26 with full twelve propagators. In this case, the computation of the Grobner basis turns out to be hard even for Macaulay2. In this case,we apply Singular,which solves the problem in less than a minute using the method slimgb. The quotient space of the resulting Grobner basis $ { \\mathcal { T } } = \\operatorname { G B } ( I )$ is seven-dimensional. One still needs to consider the symmetry which may reduce the number of independent master integrals. In order to make the symmetry obvious, one can compute the primary decomposition of $\\mathcal { T }$ ，which gives ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { I } = \\mathcal { I } _ { 1 } \\cap \\mathcal { I } _ { 2 } \\cap \\mathcal { I } _ { 3 } \\cap \\mathcal { I } _ { 4 } \\cap \\mathcal { I } _ { 5 } \\cap \\mathcal { I } _ { 6 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\begin{array} { r l } & { \\sum _ { i = 1 } ^ { n } ( \\lambda ^ { 2 } \\operatorname* { d e t } _ { 3 } - 1 \\xi , \\mathbf { A } + 1 ) + 3 , \\mathbf { a } _ { 1 } = 3 , \\mathbf { a } _ { 2 } = 3 , \\mathbf { a } _ { 3 } = 3 , \\mathbf { a } _ { 4 } , \\mathbf { A } \\cos _ { 3 } + \\mathbf { a } _ { 4 } , \\mathbf { a } _ { 5 } - 3 , \\mathbf { a } _ { 7 } - 3 , \\mathbf { a } _ { 8 } = 4 , \\mathbf { a } _ { 5 } + \\mathbf { a } _ { 7 } + 3 , \\mathbf { a } _ { 7 } } \\\\ & { \\quad 2 \\alpha _ { 1 5 } = 3 , \\mathbf { a } _ { 1 } + 6 , \\mathbf { a } _ { 2 } \\mathbf { a } _ { 1 2 } \\textbf { i } ^ { \\mathbf { y } } , } \\end{array} } \\\\ & { \\begin{array} { r l } & { \\sum _ { 1 = 1 } ^ { n } ( - 4 \\alpha _ { 1 } - 3 , \\mathbf { a } _ { 1 } + 6 , 2 \\alpha _ { 1 2 } + 9 ,  } \\\\ & {  2 \\alpha _ { 1 5 } - 3 , \\mathbf { a } _ { 1 } - 3 , 2 \\alpha _ { 1 3 } + 9 ,  } \\\\ & {  2 \\alpha _ { 1 6 } - 3 , 4 \\alpha _ { 1 1 } + 9 , \\mathbf { a } _ { 1 2 } + 3  } \\end{array} } \\\\ & { \\begin{array} { r l } & {  3 , \\mathbf { a } _ { 1 } - 1 6 , \\mathbf { a } _ { 2 } - 1 8 , \\mathbf { a } _ { 3 } + 3 6 , \\mathbf { a } _ { 1 2 } , \\mathbf { a } _ { 2 } + 8 , \\mathbf { a } _ { 4 } , \\mathbf { a } _ { 5 } - 3 , \\mathbf { a } _ { 1 4 } , \\mathbf { a } _ { 7 } + 3 \\alpha _ { 1 } - 3 , \\mathbf { a } _ { 2 } \\mathbf { a } _ { 4 } + 5 , } \\\\ & {  4 \\alpha _ { 1 5 } - 3 , \\mathbf { a } _ { 1 6 } - 3 , 2 \\alpha _ { 1 } + 9 ,  } \\\\ & {   ( \\alpha _ { 2 } - 3 , \\mathbf { a } _ { 1 } + 2 \\alpha _ { 1 2 } + 8 , \\mathbf { a } _ { 2 } ) ) \\textbf { a } _ { 1 } ) } \\end{array} } \\\\ &  \\begin{array} { r l } & { \\gamma _ { 1 6 } + ( 7 2 6 8 n - 1 6 , 0 8 + 1 6 , 0 8 + 1 6 , 0 8 + 1 8 , 0 8 + 1 8 , 0 8 + 9 , 0 8 + 8 , 0 8 ) } \\\\ &   \\begin{array} { r l } & { 0 . 0 6 } \\\\ &  \\mathbf { a } _ { 2 } - 3 , \\mathbf { a } _ { 1 0 } , \\mathbf { a } _ { 2 } ( \\mathbf { a } _ { 1 } + 9 , \\mathbf { a } _  1  \\end{array} \\end{array} \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "The quotient space of the last ideal is two-dimensional, while the others are all one-dimensional. So, naive counting would give seven master integrals. Topology 26, however,has permutation symmetry, see equation (11). It is not hard to see that the first four ideals are all related to each other by this symmetry; therefore, they contribute only one independent master integral. In total, one finds that there are four independent master integrals in this sector. For this integral topology, Reduze picks four twelve-propagator integrals as master integrals: the corner integral, two linear-numerator integrals and one with a quadratic numerator. Hence, the number of master integrals matches between Mint and Reduze. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "5.Towards numerical integration ",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Given a set of master integrals, the next step is to perform the integration.A significant part of the master integrals obtained in the previous sections are very complicated and seem to be on or slightly over the very edge of what current integration methods can achieve. There are various methods to perform numerical integration in the literature,see [19] for an overview. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "It should be said that, in principle,Melin-Barnes (MB) representations, which can be used very efficiently in solving planar topology integrals [69, 70, 71,72], may be the optimal weapon of choice for four-loop integrals, if the difficulties in obtaining effcient MB representations for non-planar integrals without hidden singularities can be resolved. See [19],page 124, for a brief description of the problem.Progress in obtaining up to and including some three-loop non-planar representations in an automatic way was reported in [73]. This may be used, at least in principle, to obtain MB representations for those integral topologies containing either a bubble or a triangle with two on-shell legs. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "We mostly explored numerical integration using sector decomposition [74]. In general, this is a method to turn a highly divergent integral into a sum over finite integrals,by resolving the singularities of the Feynman parameter integral. These finite integrals can then be integrated, for instance, using the CUBA library [75]. We are aware of three different implementations of this idea in public codes: sector_decomposition [76], SecDec [77, 78,79] and FIEsTA [80, 81, 82]. Only the latter program in its latest versions (3.x) was able to handle some of the most difficult integrals of the problem at hand. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "5.1.Relevant implementation details ",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "There are various strategies for resolving the singularities of a given Feynman integral. FIESTA offers a choice of these. Most relevant here are strategies $\\boldsymbol { S }$ [80] and $X$ [74]. Strategy $K U$ [83],which,in principle,is highly efficient in terms of sectors,did not resolve any of the sectors of the most complicated integrals (the corner integral of topology 25） in either of its three variants and was not pursued further. Strategy $X$ ,if it terminates, tends to yield better results in terms of the number of sectors than strategy $S$ ： ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "FIESTA splits the Feynman parameter integral in equation (9） into different primary sectors. In each primary sector,one particular Feynman parameter is smaller than the others. If the integrand is invariant under a permutation of the $\\alpha$ parameters, then these primary sectors may be related. A particular permutation symmetry of the $\\alpha$ parameters descends from the parent graph. This symmetry may then be used to reduce the computational workload. Let us recall the symmetry property of the scalar integral of topology 26 given in equation (11). From its orbits of the permutation group in equation (12), ",
+        "page_idx": 23
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\{ 1 , 2 , 7 , 8 \\} , \\{ 3 , 6 , 9 , 1 2 \\} , \\{ 4 , 1 0 \\} , \\{ 5 , 1 1 \\} \\right\\} .\n$$",
+        "text_format": "latex",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "we can see that, instead of computing primary sectors 1, 2, 7 and 8 separately, one better just computes one of these,as the others will give the same numerical answer. In practice, it can matter which coefficient is picked, since the structure of the integrand for the $\\alpha$ parameters is different；this can result in different numbers of sectors. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "The integration time varies; for integrals with twelve propagators, the preparation time alone is typically measured in days to weeks. By contrast, all integrals with less than eleven propagators are highly tractable using FIESTA, typically requiring less than a day. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Quadratic-numerator integral in topology 26 ",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "The quadratic-numerator integral in topology 26 is naively expected to be one of the hardest integrals in the full set. It can be integrated using FIESTA. Integral topology 26 has two permutation symmetries, see equation (10). To make use of this, one needs to pick a symmetric quadratic numerator. That is,one needs a numerator which is mapped to itself under both symmetries and which is related to the quadratic-numerator master integral in the output of Reduze by IBP reduction. Moreover, to facilitate the computation of the double derivative in the $\\alpha$ parametrization,it is advantageous to pick a numerator that is linear in the loop momenta. It is easy to check that ",
+        "page_idx": 24
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( l _ { 3 } \\cdot ( p _ { 1 } - p _ { 2 } ) \\right) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "transforms into itself under the symmetries in equation (1O). We checked that this is related to the quadratic master integral from the explicit IBP reduction. With the symmetries in place, one only needs to compute four out of twelve primary-sector coefficients in FIESTA. We picked the coefficients $\\{ 4 , 0 , 4 , 2 , 2 , 0 , 0 , 0 , 0 , 0 , 0 , 0 \\}$ for the order of propagators in equation (7), basically choosing the lowest from the orbits in equation (28). ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "The resulting integral can be integrated with some numerical effort, giving the result ",
+        "page_idx": 24
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { { \\mathrm { I N T } _ { 2 6 } [ ( l _ { 3 } \\cdot ( p _ { 1 } - p _ { 2 } ) ) ^ { 2 } ] = \\left( - 0 . 0 3 2 9 8 6 \\pm 2 \\cdot 1 0 ^ { - 7 } \\right) \\epsilon ^ { - 8 } + ( 0 . 0 6 9 4 4 5 6 \\pm 1 . 0 1 \\cdot 1 0 ^ { - 5 } ) \\epsilon ^ { - 7 } } } & { { } } \\\\ { { + \\left( 1 . 3 5 0 6 \\pm 0 . 0 0 0 2 \\right) \\epsilon ^ { - 6 } + \\left( - 2 . 6 8 8 0 4 \\pm 0 . 0 0 3 1 7 \\right) \\epsilon ^ { - 5 } } } & { { } } \\\\ { { + \\left( - 6 . 2 3 7 0 7 \\pm 0 . 0 4 0 1 3 \\right) \\epsilon ^ { - 4 } + ( 1 2 . 6 7 6 3 \\pm 2 . 0 7 8 2 ) \\epsilon ^ { - 3 } } } & { { } } \\\\ { { + \\left( 1 2 3 4 . 4 9 \\pm 3 2 . 9 7 \\right) \\epsilon ^ { - 2 } + \\mathcal { O } ( \\epsilon ^ { - 1 } ) . } } & { { ( 3 0 ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Preparing for the numerical integration takes about five days. The integration time itself strongly depends on the integration parameters in the ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Vegas integration algorithm of the CUBA library.13 We checked by running with different numbers of evaluation points that the first five coefficients are numerically stable under variations of the relevant parameters,especially maxeval. In other words, it is likely that their errors are in the reported ranges. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "6.Summary and discussion ",
+        "text_level": 1,
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "In this paper,we obtained an explicit integral reduction for the fourloop Sudakov form factor in $\\mathcal { N } = 4$ SYM based on the integrand result in [13] and by exploiting the Reduze package [2O]. This reduces the challenging four-loop problem,in particular the computation of the unknown non-planar cusp anomalous dimension, down to the evaluation of an explicit set of given master integrals. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "We also obtained master integrals by using the algebraic method introduced in [21]. This provides a first non-trivial implementation of the method to a complete observable. Limits of the Mint package and their resolutions are explained. The resulting integrals are, with some qualifications, the master integrals of quite generic form factors. For instance，they are expected to cover all integrals which appear in the QCD result. By comparing with the results of IBP reduction, we found interesting mismatches, namely, existing masters integrals from IBP reduction are taken to be reducible by the Mint package. It would be important to understand the reason of this discrepancy. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Based on the reduction result, we furthermore observed surprising cancellations in the form factor. First, the form factor integrand obtained in [13] contains a free parameter. While it was unclear whether this parameter could be uniquely fixed by further physical constraints,we showed that the terms depending on this parameter all magically cancel upon using IBP identities. Therefore, this parameter is truly free and gives the frst example of a color-kinematic-dual integrand with such a free parameter. Furthermore, two integrals,corresponding to topologies 18 and 20, turn out to be exactly zero,which is not obvious at all at the integrand level. It would be very interesting to have a physical understanding of these intriguing cancellations. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "What remains to be done is to compute the master integrals. However, for many of them, this is currently just out of reach for publicly available (implementations of） integration methods. There is an important analogue to the three-loop case, which we would like to draw attention to. In that case,a reduction to master integrals was obtained in [4]. Their integration was first performed almost three years later in [3],using partly numerical methods. An analytic result was then reported in [84],with an important cross-check in [85]. Currently, the three-loop form factor integrals often appear as an example application of new integration and organization methods, e.g. in [86, 87]. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "A new feature in the four-loop case is the appearance of several master integrals beyond corner integrals. These can be taken to be either doubledup propagators or single numerators. The latter can, in principle,be traded for higher-dimensional scalar integrals using the Feynman parametrization in equation (9). The problem is that these scalar integrals feature four dots: there is a sum over integrals with four doubled-up propagators. Without an IBP reduction of these integrals down to the basis, this is an unpractical result. An explicit IBP reduction with up to four dots would enable the use of several methods. For instance, one could use dimensional recurrences [88] to either compute the integrals numerically [89] or to express the form factor in terms of a quasi-finite basis [87]. An explicit quasi-finite integral reduction for the three-loop form factor has been announced [9o]. The needed IBP reductions at four loops seem very hard to obtain within the current version of Reduze and simply out of reach for anything else on the public market. See [91] for a proposal of an improved algorithm which is particularly suitable for single-scale reduction problems. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "There is a practical issue when calculating the form factor which concerns the choice of master integrals. There are several choices of master integrals one could make as for both linear numerators and doubled propagators. Which one to choose should then be guided by integrability, i.e. by which of these choices they can actually be integrated. Moreover, as for numerical evaluation, there are issues of precision and speed to be considered. One would expect doubled-up propagators to give simpler Feynman parameter integrals,while linear numerators tend to give less divergent coefficients. A canonical example of the two choices are the master integrals of the doublebox-integral topology. One can either choose a doubled-propagator basis element,as first done in [92]. Alternatively, one can use a linear-numerator integral, as in [93]. The latter has a less divergent prefactor as a function of $\\epsilon$ . Which choice is the more practical must be decided on a case-by-case basis though: we observed cases where no difference in expansion order is present. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "There are various other avenues to be explored which may lead to a full computation of the cusp anomalous dimension through the form factor route. One would be to explore MB representations of four-loop non-planar integrals. An obstacle here is that naive implementations of this idea quickly lead to high-order MB representations containing an order of one hundred MB integrations. Any algorithm which could curb this number would offer a way forward. While numerical evaluation may have the precision issue, analytic methods would be more desirable. Linearly reducible integrals may be evaluated analytically by HypInt [94]. This works particularly efficiently for integrals of less singular behavior [87]. An alternative route for computing the cusp anomalous dimension is to extend integration techniques based on differential equations [95] to form factors by making one extra leg off-shell and then taking the massless limit. Controlling this limit after integration might also be an obstacle. Apart from that,IBP reduction，a necessary step in constructing the differential equation, would be more challenging for deformed integrals. See [86] for an application to the three-loop case. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "We would like to thank Oleg Tarasov for collaboration at the initial stages of this project. It is a pleasure to thank Roman Lee,Andreas von Manteuffel， Sven Moch，Volodya Smirnov, Alexander Smirnov and Yang Zhang for discussions. This work was supported in part by the German Science Foundation (DFG) through the Collaborative Research Center SFB 676 “Particles, Strings and the Early Universe: the Structure of Matter and Space-Time” and a DFG grant in the framework of the SFB 647 “Space - Time - Matter”. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Appendix A.Three-loop form factor check ",
+        "text_level": 1,
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "The three-loop form factor was first computed in [3]；we started from the expression obtained in [13],which can be shown to be equivalent. The problem consists of six integrals with at most a single numerator. The integrals contain nine propagators, and three additional numerators have to be specified to obtain a definite basis. Five of these integrals have a single permutation symmetry. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "IBP reduction using Reduze on a part of our local computing cluster running in parallel mode took about 1.5 days. The reduction yielded a set of master integrals, the most complicated of which indeed correspond to those obtained in [4]. These integrals were then computed using FIESTA, running for a few days with their standard precision setting. The result for ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "the form factor is ",
+        "page_idx": 28
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { \\mathrm { 2 , n u m } } ^ { ( 3 ) } = - \\frac { 0 . 1 6 6 6 0 6 } { \\epsilon ^ { 6 } } - \\frac { 0 . 0 0 0 1 2 } { \\epsilon ^ { 5 } } + \\frac { 0 . 0 0 0 5 4 } { \\epsilon ^ { 4 } } + \\frac { 1 . 1 0 1 8 2 } { \\epsilon ^ { 3 } } + \\frac { 0 . 9 3 7 8 8 } { \\epsilon ^ { 2 } } + O \\left( \\frac { 1 } { \\epsilon } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "which is to be compared to the known result, e.g. from [5], ",
+        "page_idx": 28
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { \\mathrm { 2 , e x a c t } } ^ { ( 3 ) } = - { \\frac { 1 } { 6 \\epsilon ^ { 6 } } } + { \\frac { 1 1 \\zeta ( 3 ) } { 1 2 \\epsilon ^ { 3 } } } + { \\frac { 2 4 7 \\pi ^ { 4 } } { 2 5 9 2 0 \\epsilon ^ { 2 } } } + O \\left( { \\frac { 1 } { \\epsilon } } \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "The difference between the exact answer and the numerical approximation is ",
+        "page_idx": 28
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta F _ { 2 } ^ { ( 3 ) } = \\frac { 0 . 0 0 0 0 6 0 } { \\epsilon ^ { 6 } } - \\frac { 0 . 0 0 0 1 2 } { \\epsilon ^ { 5 } } + \\frac { 0 . 0 0 0 5 4 } { \\epsilon ^ { 4 } } - \\frac { 0 . 0 0 0 0 6 } { \\epsilon ^ { 3 } } + \\frac { 0 . 0 0 9 6 4 } { \\epsilon ^ { 2 } } + O \\left( \\frac { 1 } { \\epsilon } \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Note that the final coefficient is only off by about one percent. With more numerical effort, this could be brought down more. For the purposes of this article, it is important that the calculational pipeline works,at least in principle. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Appendix B.Alternative choice of numerators ",
+        "text_level": 1,
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "The following choice of numerator factors for master integrals optimizes the power series expansions of the coefficients to some extent. This choice is guided by the following principles: ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "choose the numerators linear in the loop momenta to minimize the complexity of the Feynman parameter integrals;   \nwhen expressed in the master integral basis preferred by Reduze,the coefficient of the linear-numerator master integral comes with a negative power of $\\epsilon$ if possible;   \nwhen expressed in the master integral basis preferred by Reduze,the coefficient of the scalar version of the linear-numerator master integral comes with a negative power of $\\epsilon$ ，   \npreserve permutation symmetry if possible. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "This leads to the following list, where the coordinates are in the basis of the integral topologies given in appendix Appendix C: ",
+        "page_idx": 29
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 29
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } &  \\mathrm  I N T [ 2 R , \\{ 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 \\} , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 , 1 \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "This choice leads to a significant reduction in the IBP computational workload, at the expense of introducing non-symmetric numerators. ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Appendix C. Basis ",
+        "text_level": 1,
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "This appendix contains the main basis used in the reduction. The numbering of the equations corresponds to the topologies in [13]. In each case, the twelve entries given in the first line parametrize the twelve propagators of the respective integral and the six entries in the second line the chosen numerators. Note that the numerators do not respect the symmetries of the diagram topology corresponding to the first twelve propagators，with the exception of topology 1. We have defined $q = p _ { 1 } + p _ { 2 }$ ",
+        "page_idx": 29
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\{ l _ { 6 } , ~ l _ { 5 } , ~ l _ { 4 } , ~ { l _ { 3 } } , ~ { l _ { 6 } } - { l _ { 5 } } , ~ { l _ { 4 } } - { l _ { 3 } } , ~ p _ { 1 } - { l _ { 6 } } , ~ { l _ { 5 } } - { l _ { 4 } } , ~ - { l _ { 6 } } + { q } , - { l _ { 4 } } + { q } , - { l _ { 3 } } + { q } , - { l _ { 5 } } + { q } , } \\\\ { \\ } & { \\ } \\\\ { \\ } & { { l _ { 3 } } - { l _ { 5 } } , ~ { l _ { 3 } } - { l _ { 6 } } , ~ { l _ { 6 } } , ~ { l _ { 4 } } - { l _ { 6 } } , ~ { l _ { 3 } } - { p _ { 2 } } , ~ { l _ { 4 } } - { p _ { 2 } } , { l _ { 5 } } - { p _ { 2 } } \\} , ~ ( { C } . 1 ) } \\\\ { \\{ l _ { 6 } , ~ l _ { 5 } , ~ { l _ { 4 } } , ~ { l _ { 3 } } , ~ { l _ { 5 } } - { l _ { 4 } } , ~ { l _ { 6 } } - { l _ { 5 } } , ~ { p _ { 1 } } - { l _ { 6 } } , { l _ { 3 } } - { l _ { 4 } } , - { l _ { 3 } } + { q } , - { l _ { 6 } } + { q } , - { l _ { 5 } } + { q } , - { l _ { 3 } } + { l _ { 4 } } - { l _ { 5 } } + { q } , } \\\\ { \\ } & { \\ } { { l _ { 3 } } - { l _ { 5 } } , ~ { l _ { 3 } } - { l _ { 6 } } , ~ { l _ { 6 } } - { l _ { 6 } } , ~ { l _ { 4 } } - { l _ { 6 } } , ~ { l _ { 4 } } - { p _ { 1 } } , ~ { l _ { 5 } } - { p _ { 2 } } , { l _ { 3 } } - { p _ { 2 } } \\} , ~ ( { C . 2 } ) } \\\\ { \\{ l _ { 6 } , ~ { l _ { 5 } } , ~ { l _ { 4 } } , ~ { l _ { 3 } } , { l _ { 4 } } - { l _ { 3 } } , { l _ { 4 } } - { l _ { 5 } } , ~ { l _ { 6 } } - { l _ { 5 } } , ~ { l _ { 6 } } - { l _ { 4 } } + { q } , - { l _ { 6 } } + { q } , - { l _ { 3 } } + { q } , - { l _ { 4 } } + { l _ { 5 } } - { l _ { 6 } } + { q } , } \\\\ { \\ } & { { l _ { 5 } } - p _ { 1 } , ~ l _ { 3 } - p _ { 2 } , ~ l _ { 4 } - p _ { 2 } , ~ l _ { 5 } } - p _  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "$\\{ l _ { 6 } , l _ { 5 } , l _ { 4 } , l _ { 3 } , p _ { 1 } - l _ { 6 } , l _ { 4 } - l _ { 3 } , l _ { 5 } - l _ { 6 } , l _ { 5 } - l _ { 4 } , - l _ { 5 } + l _ { 6 } + p _ { 2 } , - l _ { 5 } + q , - l _ { 3 } + q , - l _ { 4 } + q , -$ $l _ { 3 } - l _ { 5 } , l _ { 3 } - l _ { 6 } , l _ { 4 } - l _ { 6 } , l _ { 3 } - p _ { 2 } , l _ { 4 } - p _ { 2 } , l _ { 6 } - p _ { 2 } \\} , ( { \\bf C . 4 } )$   \n$\\{ l _ { 6 } , l _ { 5 } , l _ { 4 } , l _ { 3 } , l _ { 3 } - l _ { 4 } , l _ { 5 } - l _ { 4 } , p _ { 1 } - l _ { 6 } , l _ { 5 } - l _ { 6 } , - l _ { 5 } + q , - l _ { 5 } + l _ { 6 } + p _ { 2 } , - l _ { 3 } + q , - l _ { 3 } + l _ { 4 } - l _ { 5 } + q , - l _ { 6 } + q , - l _ { 6 } - q , - l _ { 7 } - q , l _ { 8 } - q , - l _ { 8 } - q , - l _ { 9 } - q , - l _ { 9 } - q , - l _ { 9 } - q , 0 \\}$ $l _ { 3 } - p _ { 2 } , l _ { 3 } - l _ { 6 } , l _ { 4 } - l _ { 6 } , l _ { 4 } - p _ { 1 } , l _ { 4 } - p _ { 2 } , l _ { 6 } - p _ { 2 } \\} ,$ (C.5)   \n{6,l5,l4, $l _ { 3 } , p _ { 1 } - l _ { 5 } , l _ { 4 } - l _ { 5 } , l _ { 4 } - l _ { 3 } , p _ { 2 } - l _ { 6 } , - l _ { 3 } + q , - l _ { 4 } + q , - l _ { 4 } - l _ { 6 } + q , +$ -15-l6+q, $l _ { 3 } - l _ { 5 } , l _ { 3 } - l _ { 6 } , l _ { 4 } - l _ { 6 } , l _ { 5 } - l _ { 6 } , l _ { 3 } - p _ { 2 } , l _ { 4 } - p _ { 2 } \\} ,$ (C.6)   \n$\\{ l _ { 6 } , l _ { 5 } , l _ { 4 } , l _ { 3 } , p _ { 1 } - l _ { 5 } , l _ { 4 } - l _ { 5 } , l _ { 4 } - l _ { 3 } , p _ { 2 } - l _ { 6 } , - l _ { 4 } + q , - l _ { 4 } + l _ { 5 } + l _ { 6 } , - l _ { 3 } + q , - l _ { 5 } - l _ { 6 } + q , - l _ { 7 } - l _ { 8 } , 0 , 1 \\} ,$ （204号 $l _ { 3 } - l _ { 5 } , l _ { 3 } - l _ { 6 } , l _ { 5 } - l _ { 6 } , l _ { 3 } - p _ { 2 } , l _ { 4 } - p _ { 2 } , l _ { 5 } - p _ { 2 } \\} , ( { \\mathrm { C . 7 } } )$   \n$\\{ l _ { 6 } , l _ { 5 } , l _ { 4 } , l _ { 3 } , p _ { 2 } - l _ { 6 } , l _ { 4 } - l _ { 5 } , l _ { 4 } - l _ { 3 } , p _ { 1 } - l _ { 5 } , - l _ { 4 } + q , - l _ { 3 } + q , - l _ { 4 } - l _ { 6 } + q , l _ { 4 } - l _ { 5 } + l _ { 6 } - p _ { 2 } , \\ldots \\} _ { k } \\} _ { 4 } .$ 1 $\\begin{array} { r l } { \\mathrm { ~ } _ { 3 } - l _ { 5 } , l _ { 3 } - l _ { 6 } , l _ { 4 } - l _ { 6 } , l _ { 5 } - l _ { 6 } , l _ { 3 } - p _ { 2 } , l _ { 5 } - l } \\end{array}$ p2}，(C.8)   \n$\\{ l _ { 6 } , l _ { 5 } , l _ { 4 } , l _ { 3 } , l _ { 4 } - l _ { 3 } , p _ { 1 } - l _ { 5 } , l _ { 4 } - l _ { 5 } , - l _ { 5 } + q , - l _ { 3 } + q , - l _ { 4 } - l _ { 6 } + q , l _ { 5 } + l _ { 6 } - q , - l _ { 3 } - l _ { 6 } + q , - l _ { 6 } - q \\} ,$ $l _ { 3 } - l _ { 5 } , l _ { 3 } - p _ { 2 } , l _ { 4 } - p _ { 2 } , l _ { 4 } - l _ { 6 } , l _ { 5 } - l _ { 6 } , l _ { 6 } - p _ { 2 } \\} , \\mathrm { ( C . 9 ) }$   \n（24号 $\\{ l _ { 6 } , l _ { 5 } , l _ { 4 } , l _ { 3 } , l _ { 4 } - l _ { 5 } , p _ { 1 } - l _ { 5 } , l _ { 3 } - l _ { 4 } , l _ { 3 } - l _ { 4 } + l _ { 6 } , - l _ { 3 } + q , - l _ { 5 } + q , - l _ { 3 } - l _ { 6 } + q , l _ { 3 } - l _ { 4 } \\}$ +l5+l6-q, $l _ { 5 } - l _ { 6 } , p _ { 2 } - l _ { 6 } , l _ { 3 } - l _ { 5 } , l _ { 4 } - p _ { 2 } , l _ { 3 } - p _ { 2 } , l _ { 4 } - l _ { 6 } \\} ,$ (C.10)   \n{l6,l5,l4, $l _ { 3 } , l _ { 4 } - l _ { 5 } , p _ { 1 } - l _ { 5 } , l _ { 4 } - l _ { 3 } , - l _ { 3 } + q , - l _ { 5 } + q , l _ { 5 } + l _ { 6 } - q , - l _ { 3 } - l _ { 6 }$ +q, l3-l4+l5+l6-q, $l _ { 3 } - l _ { 5 } , l _ { 3 } - p _ { 2 } , l _ { 4 } - p _ { 1 } , l _ { 4 } - p _ { 2 } , l _ { 5 } - l _ { 6 } , l _ { 6 } - p _ { 2 } \\} , \\ : \\ : \\ : \\mathrm { ( C . 1 1 ) }$   \n￥ $[ l _ { 6 } , l _ { 5 } , l _ { 4 } , l _ { 3 } , p _ { 2 } - l _ { 6 } , p _ { 1 } - l _ { 5 } , l _ { 3 } - l _ { 4 } , l _ { 5 } - l _ { 4 } , - l _ { 3 } + q , - l _ { 4 } + l _ { 5 } + l _ { 6 } , - l _ { 5 } - l _ { 6 } + q , - l _ { 3 } + l _ { 4 } - l _ { 5 } - l _ { 6 } + q , - l _ { 6 } + l _ { 6 } ] ,$ $l _ { 3 } - l _ { 6 } , l _ { 5 } - p _ { 2 } , l _ { 3 } - p _ { 2 } , l _ { 4 } - p _ { 1 } , l _ { 4 } - p _ { 2 } , l _ { 6 } - p _ { 1 } \\} , \\mathrm { ( C . 1 2 ) }$   \n$\\{ l _ { 6 } , l _ { 5 } , l _ { 4 } , l _ { 3 } , l _ { 3 } - l _ { 4 } , p _ { 2 } - l _ { 6 } , p _ { 1 } - l _ { 4 } , l _ { 6 } - l _ { 5 } , - l _ { 3 } + q , - l _ { 4 } - l _ { 6 } + q , - l _ { 3 } - l _ { 5 } + q , - l _ { 4 } - l _ { 5 } + q , - l _ { 7 } - l _ { 8 } + q , - l _ { 9 } - l _ { 9 } - q \\} ,$ $l _ { 3 } - l _ { 6 } , l _ { 3 } - p _ { 2 } , l _ { 4 } - p _ { 2 } , l _ { 5 } - p _ { 1 } , l _ { 5 } - p _ { 2 } , l _ { 6 } - p _ { 1 } \\} , \\mathrm { ( C . 1 3 ) }$   \n（24号 $\\{ l _ { 6 } , l _ { 5 } , l _ { 4 } , l _ { 3 } , p _ { 2 } - l _ { 6 } , p _ { 1 } - l _ { 4 } , l _ { 3 } - l _ { 4 } , l _ { 6 } - l _ { 5 } , - l _ { 3 } + l _ { 4 } + l _ { 5 } , - l _ { 3 } + q , - l _ { 4 } - l _ { 5 } + q , - l _ { 4 } - l _ { 6 } + q ,$ （204号 $l _ { 4 } - l _ { 5 } , l _ { 3 } - l _ { 6 } , l _ { 4 } - l _ { 6 } , l _ { 3 } - p _ { 2 } , l _ { 4 } - p _ { 2 } , l _ { 5 } - p _ { 2 } \\} ,$ (C.14)   \n{l6,l5,l4, l3,P2-l6,P1-l4, l3-l4,l5-l6，-l3+q，-l4-l5+l6+p1，-l3-l5+q，-l4-l5+q,   \n$l _ { 3 } - l _ { 6 } , l _ { 3 } - p _ { 2 } , l _ { 4 } - p _ { 2 } , l _ { 5 } - p _ { 1 } , l _ { 5 } - p _ { 2 } , l _ { 6 } - p _ { 1 } \\} , \\mathrm { ( C . 1 5 ) }$ $l _ { 6 } , \\ l _ { 5 } , \\ l _ { 4 } , \\ l _ { 3 } , \\ p _ { 2 } - l _ { 6 } , \\ p _ { 1 } - l _ { 4 } , \\ l _ { 6 } - l _ { 5 } , \\ l _ { 3 } - l _ { 4 } , \\ - l _ { 3 } + q , \\ l _ { 3 } - l _ { 4 } + l _ { 5 } - l _ { 6 } , \\ - l _ { 3 } - l _ { 5 } + q , \\ - l _ { 4 } - l _ { 6 } + q , \\ - \\ $ $l _ { 3 } - l _ { 6 } , l _ { 3 } - p _ { 2 } , l _ { 4 } - l _ { 5 } , l _ { 4 } - p _ { 2 } , l _ { 5 } - p _ { 1 } , l _ { 6 } - p _ { 1 } \\} , \\quad ( { \\mathrm { C . 1 6 } } )$   \nY $\\bar { l } _ { 6 } , l _ { 5 } , l _ { 4 } , l _ { 3 } , p _ { 2 } - l _ { 6 } , l _ { 5 } - l _ { 4 } , p _ { 1 } - l _ { 5 } , l _ { 4 } - l _ { 3 } , - l _ { 3 } + q , - l _ { 5 } - l _ { 6 } + q , - l _ { 3 } + l _ { 4 } - l _ { 5 } + q , - l _ { 3 } + l _ { 4 } - l _ { 5 } ,$ -l6+q, $l _ { 3 } - p _ { 2 } , l _ { 4 } - l _ { 6 } , l _ { 5 } - p _ { 2 } , l _ { 4 } - p _ { 1 } , l _ { 4 } - p _ { 2 } , l _ { 6 } - p _ { 1 } \\} , \\mathrm { ( C . 1 7 ) }$ ",
+        "page_idx": 30
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { l _ { 3 } - p _ { 2 } , l _ { 3 } - l _ { 5 } , l _ { 4 } - l _ { 6 } , l _ { 4 } - p _ { 2 } , l _ { 5 } - p _ { 2 } , l _ { 6 } - p _ { 1 } \\} , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "！ $[ l _ { 6 } , l _ { 5 } , l _ { 4 } , l _ { 3 } , p _ { 2 } - l _ { 6 } , p _ { 1 } - l _ { 5 } , l _ { 4 } - l _ { 5 } , l _ { 3 } - l _ { 4 } , - l _ { 4 } + l _ { 5 } + l _ { 6 } , - l _ { 3 } + q , - l _ { 3 } + l _ { 5 } + l _ { 6 } , - l _ { 5 } - l _ { 6 } + q , - l _ { 6 } + l _ { 6 } + l _ { 6 } ] ,$   \n$l _ { 3 } - l _ { 6 } , l _ { 5 } - l _ { 6 } , l _ { 4 } - p _ { 1 } , l _ { 3 } - p _ { 2 } , l _ { 4 } - p _ { 2 } , l _ { 5 } - p _ { 2 } \\} , \\ : \\ : \\ : ( \\mathrm { C . 1 9 } )$   \n$\\{ l _ { 6 } , l _ { 5 } , l _ { 4 } , l _ { 3 } , p _ { 2 } - l _ { 6 } , l _ { 4 } - l _ { 3 } , p _ { 1 } - l _ { 5 } , l _ { 5 } - l _ { 4 } , - l _ { 3 } + l _ { 5 } + l _ { 6 } , - l _ { 3 } + q , - l _ { 3 } + l _ { 4 } + l _ { 6 } , - l _ { 5 } - l _ { 6 } + q , - l _ { 6 } , 1 \\} ,$ $l _ { 4 } - l _ { 6 } , l _ { 5 } - l _ { 6 } , l _ { 4 } - p _ { 1 } , l _ { 3 } - p _ { 2 } , l _ { 4 } - p _ { 2 } , l _ { 5 } - p _ { 2 } \\} ,$ (C.20)   \n{6,l5,l4, ${ } _ { 3 } ^ { \\prime } , p _ { 1 } - l _ { 4 } , l _ { 3 } - l _ { 4 } , p _ { 2 } - l _ { 6 } , l _ { 5 } + l _ { 6 } , - l _ { 4 } - l _ { 5 } + p _ { 1 } , - l _ { 3 } + q , - l _ { 3 } + l _ { 6 }$ +p1，-l3-l5+p1, $l _ { 3 } - p _ { 2 } , l _ { 4 } - p _ { 2 } , l _ { 5 } - p _ { 2 } , l _ { 6 } - p _ { 1 } , l _ { 4 } - l _ { 6 } , l _ { 3 } - l _ { 5 } \\} ,$ (C.21)   \n$\\{ l _ { 6 } , l _ { 5 } , l _ { 4 } , l _ { 3 } , l _ { 3 } - l _ { 4 } , l _ { 5 } + l _ { 6 } , p _ { 2 } - l _ { 6 } , p _ { 1 } - l _ { 4 } , - l _ { 3 } + l _ { 6 } + p _ { 1 } , - l _ { 3 } + q , - l _ { 4 } - l _ { 5 } + p _ { 1 } , - l _ { 3 } + l _ { 4 } + l _ { 6 } , \\} ,$ $- l _ { 3 } + l _ { 4 } + l _ { 5 } + l _ { 6 }$ $l _ { 3 } - l _ { 5 } , l _ { 3 } - p _ { 2 } , l _ { 4 } - p _ { 2 } , l _ { 5 } - p _ { 1 } , l _ { 5 } - p _ { 2 } , l _ { 6 } - p _ { 1 } \\} , \\mathrm { ( C . 2 2 ) }$   \n$\\{ l _ { 6 } , l _ { 5 } , l _ { 4 } , l _ { 3 } , l _ { 6 } - p _ { 2 } , p _ { 1 } - l _ { 4 } , l _ { 6 } - l _ { 5 } , l _ { 3 } - l _ { 4 } , - l _ { 3 } + q , l _ { 3 } - l _ { 4 } - l _ { 5 } , - l _ { 3 } + l _ { 6 } + p _ { 1 } , - l _ { 3 } + l _ { 5 } + p _ { 1 } , \\} = 0$ $l _ { 3 } - p _ { 2 } , l _ { 4 } - p _ { 2 } , l _ { 5 } - p _ { 1 } , l _ { 6 } - p _ { 1 } , l _ { 5 } - p _ { 2 } , l _ { 4 } - l _ { 6 } \\} , \\quad ( { \\bf C . 2 3 } )$   \n$\\{ l _ { 6 } , l _ { 5 } , l _ { 4 } , l _ { 3 } , p _ { 2 } - l _ { 6 } , l _ { 5 } + l _ { 6 } , l _ { 3 } - l _ { 4 } , p _ { 1 } - l _ { 4 } , - l _ { 3 } - l _ { 5 } + p _ { 1 } , - l _ { 4 } - l _ { 5 } + p _ { 1 } , - l _ { 3 } + q , - l _ { 3 } - l _ { 5 } - l _ { 6 } , - l _ { 6 } , - l _ { 7 } \\} ,$ 6+q， $l _ { 3 } - p _ { 2 } , l _ { 4 } - l _ { 6 } , l _ { 4 } - p _ { 2 } , l _ { 5 } - p _ { 1 } , l _ { 5 } - p _ { 2 } , l _ { 6 } - p _ { 1 } \\} , ( { \\mathrm { C . 2 4 } } )$   \n{l6, l5, l4, $l _ { 3 } , p _ { 1 } - l _ { 5 } , l _ { 5 } - l _ { 4 } , p _ { 2 } - l _ { 6 } , l _ { 3 } - l _ { 4 } , - l _ { 4 } + l _ { 5 } + l _ { 6 } , - l _ { 3 } + q , - l _ { 3 } + l _ { 4 } - l _ { 5 } + p _ { 1 } , - l _ { 3 } + l _ { 4 } - l _ { 5 } - l _ { 6 } + q ,$ $l _ { 3 } - l _ { 5 } , l _ { 3 } - l _ { 6 } , l _ { 5 } - l _ { 6 } , l _ { 4 } - p _ { 1 } , l _ { 4 } - p _ { 2 } , l _ { 5 } - p _ { 2 } \\} ,$ (C.25)   \nn $\\phantom { 0 } 6 , \\ l _ { 5 } , \\ l _ { 4 } , \\ l _ { 3 } , \\ l _ { 5 } { - } l _ { 4 } , \\ l _ { 3 } { - } l _ { 4 } , \\ p _ { 1 } { - } l _ { 5 } , \\ p _ { 2 } { - } l _ { 6 } , \\ { - } l _ { 4 } { + } l _ { 5 } { + } l _ { 6 } , \\ { - } l _ { 3 } { + } q , \\ l _ { 3 } { - } l _ { 4 } { + } l _ { 6 } { - } p _ { 5 } , \\ l _ { 5 } { - } l _ { 6 } \\geq 0 .$ 2   \n$\\begin{array} { r } { { } - l _ { 3 } + l _ { 4 } - l _ { 5 } - l _ { 6 } + q , l _ { 3 } - l _ { 5 } , l _ { 3 } - l _ { 6 } , l _ { 5 } - l _ { 6 } , l _ { 4 } - p _ { 1 } , l _ { 4 } - p _ { 2 } , l _ { 5 } - p _ { 2 } \\} , } \\end{array}$ （204号 (C.26)   \n$\\{ l _ { 6 } , l _ { 5 } , l _ { 4 } , l _ { 3 } , l _ { 5 } + l _ { 6 } , p _ { 2 } - l _ { 6 } , p _ { 1 } - l _ { 4 } , l _ { 3 } - l _ { 4 } , - l _ { 4 } - l _ { 5 } + p _ { 1 } , - l _ { 3 } + q , - l _ { 3 } + l _ { 4 } + l _ { 5 } + p _ { 2 } , - l _ { 3 } + l _ { 4 } - l _ { 5 } + p _ { 3 } , - l _ { 6 } \\} ,$ 4+l5+l6, $l _ { 4 } - l _ { 6 } , l _ { 3 } - p _ { 2 } , l _ { 4 } - p _ { 2 } , l _ { 5 } - p _ { 1 } , l _ { 5 } - p _ { 2 } , l _ { 6 }$ -p1}， (C.27)   \n{6, $l _ { 5 } , l _ { 4 } , l _ { 3 } , l _ { 3 } - l _ { 4 } , p _ { 1 } - l _ { 4 } , p _ { 2 } - l _ { 6 } , l _ { 5 } - l _ { 6 } , - l _ { 3 } + q , l _ { 3 } - l _ { 4 } + l _ { 5 } - p _ { 2 } , - l _ { 3 } - l _ { 5 } + q , - l _ { 3 } + l _ { 4 } - l _ { 6 } + p _ { 2 }$ $l _ { 3 } - p _ { 2 } , l _ { 4 } - l _ { 5 } , l _ { 4 } - l _ { 6 } , l _ { 4 } - p _ { 2 } , l _ { 5 } - p _ { 2 } , l _ { 6 } - p _ { 1 } \\} ,$ (C.28)   \n{6, $l _ { 5 } , l _ { 4 } , l _ { 3 } , p _ { 1 } - l _ { 4 } , l _ { 4 } - l _ { 3 } , p _ { 2 } - l _ { 6 } , l _ { 5 } + l _ { 6 } , - l _ { 4 } - l _ { 5 } + p _ { 1 } , - l _ { 3 } + q , - l _ { 3 } + l _ { 4 } - l _ { 6 } + p _ { 2 } , - l _ { 4 } - l _ { 5 } , p _ { 1 } - l _ { 6 } + p _ { 3 } ,$ 3-15-l6+q， $l _ { 3 } - p _ { 2 } , l _ { 4 } - l _ { 6 } , l _ { 4 } - p _ { 2 } , l _ { 5 } - p _ { 1 } , l _ { 5 } - p _ { 2 } , l _ { 6 } - p _ { 1 } \\} , \\quad ($ C.29)   \n$\\{ l _ { 6 } , l _ { 5 } , l _ { 4 } , l _ { 3 } , l _ { 3 } - l _ { 4 } , l _ { 5 } + l _ { 6 } , p _ { 2 } - l _ { 6 } , p _ { 1 } - l _ { 4 } , - l _ { 3 } + q , - l _ { 4 } - l _ { 5 } + p _ { 1 } , - l _ { 3 } + l _ { 4 } + l _ { 5 } + p _ { 2 } , - l _ { 3 } + p _ { 3 } , \\} ,$ 4-l6+p2, $\\begin{array} { r } { l _ { 3 } - p _ { 2 } , l _ { 4 } - l _ { 6 } , l _ { 4 } - p _ { 2 } , l _ { 5 } - p _ { 1 } , l _ { 5 } - p _ { 2 } , l _ { 6 } - p _ { 1 } \\} , \\left( \\begin{array} { c } { \\Omega } \\end{array} \\right) } \\end{array}$ C.30)   \n（204号 $\\{ l _ { 6 } , l _ { 5 } , l _ { 4 } , l _ { 3 } , l _ { 3 } - p _ { 1 } , p _ { 2 } - l _ { 6 } , l _ { 5 } + l _ { 6 } , l _ { 4 } - l _ { 5 } - p _ { 2 } , - l _ { 3 } - l _ { 5 } + p _ { 1 } , - l _ { 3 } + q , l _ { 4 } + l _ { 6 } - p _ { 2 } , - l _ { 3 } - l _ { 6 } , l _ { 5 } - p _ { 3 } \\}$ -l4+q, $l _ { 3 } - l _ { 6 } , l _ { 4 } - p _ { 1 } , l _ { 4 } - p _ { 2 } , l _ { 5 } - p _ { 1 } , l _ { 5 } - p _ { 2 } , l _ { 6 } - p _ { 1 } \\} , \\mathrm { ( C . 3 1 ) }$ $l _ { 6 } , l _ { 5 } , l _ { 4 } , l _ { 3 } , l _ { 3 } - p _ { 1 } , p _ { 2 } - l _ { 6 } , l _ { 5 } + l _ { 6 } , - l _ { 3 } - l _ { 5 } + p _ { 1 } , - l _ { 4 } + l _ { 5 } + p _ { 2 } , - l _ { 3 } + q , l _ { 4 } - l _ { 5 } - l _ { 6 } , - l _ { 3 } - l _ { 4 } +$ b $l _ { 3 } - l _ { 6 } , l _ { 4 } - p _ { 1 } , l _ { 4 } - p _ { 2 } , l _ { 5 } - p _ { 1 } , l _ { 5 } - p _ { 2 } , l _ { 6 } - p _ { 1 } \\} , \\ : \\ : \\ : \\mathrm { ( C . 3 2 ) }$   \n{l6,l5,l4,l3,P2-l6,l5+l6,l3-P1,-l3+q,l4+l6-P2,-l3-l4+q,l4+l5+l6-P2，-l3-l4-l5-l6+G $\\begin{array} { r } { l _ { 3 } - l _ { 6 } , l _ { 4 } - p _ { 1 } , l _ { 4 } - p _ { 2 } , l _ { 5 } - p _ { 1 } , l _ { 5 } - p _ { 2 } , l _ { 6 } - p _ { 1 } \\} , } \\end{array}$ (C.33) ",
+        "page_idx": 31
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { { [ l _ { 6 } , l _ { 5 } , l _ { 4 } , l _ { 3 } , p _ { 2 } - l _ { 6 } , l _ { 3 } - p _ { 1 } , l _ { 5 } + l _ { 6 } , l _ { 4 } + l _ { 6 } - p _ { 2 } , - l _ { 3 } - l _ { 5 } + p _ { 1 } , - l _ { 3 } + q , - l _ { 3 } - l _ { 4 } + q , - l _ { 3 } - l _ { 4 } - l _ { 6 } , - l _ { 7 } ] [ } } & { { } { } { } } \\\\ { { l _ { 3 } - l _ { 6 } , l _ { 4 } - p _ { 1 } , l _ { 4 } - p _ { 2 } , l _ { 5 } - p _ { 1 } , l _ { 5 } - p _ { 2 } , l _ { 6 } - p _ { 1 } \\} . } } & { { } { } { } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Appendix D.List of ancillary files ",
+        "text_level": 1,
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "· List of master integrals appearing in the form factor obtained by Reduze   \nList of master integrals as suggested by Mint   \n· IBP reduction of all integrals appearing in integral topology 25 for the （20 ${ \\mathcal { N } } = 4$ SYM form factor ",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "[1] E. Witten, Perturbative gauge theory as a string theory in twistor space, Commun.Math.Phys.252 (2004) 189-258. arXiv:hep-th/0312171, doi:10.1007/s00220-004-1187-3.   \n[2] W.van Neerven, Infrared Behavior of On-shell Form-factors in a $N =$ 4 Supersymmetric Yang-Mills Field Theory， Z.Phys. C30(1986) 595. doi:10.1007/BF01571808.   \n[3] P.Baikov，K.Chetyrkin，A. Smirnov，V. Smirnov,M. Steinhauser, Quark and gluon form factors to three loops,Phys.Rev.Lett.102 (2009) 212002. arXiv:0902.3519,doi:10.1103/PhysRevLett.102.212002.   \n[4] T.Gehrmann，G.Heinrich，T.Huber，C.Studerus，Master integrals for massless three-loop form-factors: One-loop and two-loop insertions，Phys.Lett. B640 (2006) 252-259. arXiv:hep-ph/0607185, doi:10.1016/j.physletb.2006.08.008.   \n[5] T.Gehrmann,J.M.Henn，T.Huber,The three-loop form factor in N=4 super Yang-Mills，JHEP 1203 (2012) 101. arXiv:1112.4524, doi:10.1007/JHEP03(2012)101.   \n[6] G.P. Korchemsky，A.V.Radyushkin，Loop Space Formalism and Renormalization Group for the Infrared Asymptotics of QCD,Phys. Lett.B171 (1986) 459-467. doi:10.1016/0370-2693(86)91439-5.   \n[7] G.P. Korchemsky, A. V. Radyushkin, Renormalization of the Wilson Loops Beyond the Leading Order， Nucl. Phys. B283 (1987) 342-364. doi:10.1016/0550-3213(87)90277-X.   \n[8] N.Beisert，B. Eden，M. Staudacher，Transcendentality and Crossing， J.Stat.Mech. 0701 (2007） P01021.arXiv:hep-th/0610251, doi:10.1088/1742-5468/2007/01/P01021.   \n[9] J. M. Maldacena， The Large N limit of superconformal feld theories and supergravity， Int.J.Theor.Phys. 38（1999) 1113-1133. arXiv:hep-th/9711200, doi:10.1023/A:1026654312961.   \n[10] T.Becher, M. Neubert, On the Structure of Infrared Singularities of Gauge-Theory Amplitudes, JHEP 0906(2009) 081. arXiv:0903.1126, doi:10.1088/1126-6708/2009/06/081,10.1007/JHEP11(2013)024.   \n[11] E. Gardi, L. Magnea, Factorization constraints for soft anomalous dimensions in QCD scattering amplitudes， JHEP 03 (2009）079. arXiv:0901.1091, doi:10.1088/1126-6708/2009/03/079.   \n[12] S. Caron-Huot,When does the gluon reggeize?, JHEP 1505 (2015) 093. arXiv:1309.6521,doi:10.1007/JHEP05(2015)093.   \n[13] R.H. Boels,B.A. Kniehl, O.V. Tarasov,G. Yang,Color-kinematic Duality for Form Factors,JHEP 1302 (2013) 063. arXiv:1211.7028, doi:10.1007/JHEP02(2013)063.   \n[14] Z.Bern， J. Carrasco，H. Johansson， New Relations for GaugeTheory Amplitudes,Phys.Rev. D78 (2008) 085011. arXiv:0805.3993, doi:10.1103/PhysRevD.78.085011.   \n[15] Z.Bern, J. J.M. Carrasco,H. Johansson,Perturbative Quantum Gravity as a Double Copy of Gauge Theory, Phys. Rev. Lett.1O5 (2010) 061602. arXiv:1004.0476, doi:10.1103/PhysRevLett.105.061602.   \n[16] Z.Bern，J. J.M. Carrasco,L. J. Dixon,H. Johansson，R.Roiban, Simplifying Multiloop Integrands and Ultraviolet Divergences of Gauge Theory and Gravity Amplitudes， Phys. Rev. D85 (2012） 105014. arXiv:1201.5366, doi:10.1103/PhysRevD.85.105014.   \n[17] K. Chetyrkin, F. Tkachov，Integration by Parts: The Algorithm to Calculate beta Functions in 4 Loops, Nucl.Phys. B192 (1981) 159-204. doi:10.1016/0550-3213(81)90199-1.   \n[18] F.Tkachov，A Theorem on Analytical Calculability of Four Loop Renormalization Group Functions， Phys.Lett. B100 (1981） 65-68. doi: 10.1016/0370-2693(81)90288-4.   \n[19] V.A. Smirnov,Analytic tools for Feynman integrals,Springer Tracts Mod.Phys. 250 (2012) 1-296. doi:10.1007/978-3-642-34886-0.   \n[20] A.von Manteuffel, C. Studerus,Reduze 2 - Distributed Feynman Integral ReductionarXiv: 1201.4330.   \n[21] R. N. Lee， A. A. Pomeransky， Critical points and number of master integrals， JHEP 1311 (2013）165. arXiv:1308.6676, doi:10.1007/JHEP11(2013)165.   \n[22] A.Brandhuber,B.Spence,G. Travaglini,G. Yang，Form Factors in N=4 Super Yang-Mills and Periodic Wilson Loops, JHEP O1 (2011) 134.arXiv:1011.1899, doi:10.1007/JHEP01(2011)134.   \n[23] L. V. Bork， D. I. Kazakov， G. S. Vartanov， On form factors in N=4 sym， JHEP 02 (2011） 063. arXiv:1011.2440, doi:10.1007/JHEP02(2011)063.   \n[24] A. Brandhuber, O.Gurdogan, R. Mooney, G. Travaglini, G. Yang, Harmony of Super Form Factors, JHEP 10 (2011) 046. arXiv:1107.5067, doi:10.1007/JHEP10(2011)046.   \n[25] L. V. Bork，D. I. Kazakov,G. S. Vartanov，On MHV Form Factors in Superspace for $\\backslash \\ : = \\ : 4$ SYM Theory，JHEP 10（2011）133. arXiv:1107.5551, doi:10.1007/JHEP10(2011)133.   \n[26] J.M. Henn, S.Moch, S.G.Naculich, Form factors and scattering amplitudes in N=4 SYM in dimensional and massive regularizations, JHEP 12(2011) 024. arXiv:1109.5057, doi:10.1007/JHEP12(2011)024.   \n[27] A. Brandhuber，G. Travaglini,G. Yang， Analytic two-loop form factors in N=4 SYM， JHEP 05 (2012) 082. arXiv:1201.4170, doi:10.1007/JHEP05(2012)082.   \n[28] L.V. Bork，On NMHV form factors in N=4 SYM theory from generalized unitarity， JHEP 01 (2013) 049.arXiv:1203.2596, doi:10.1007/JHEP01(2013)049.   \n[29] O.T.Engelund，R.Roiban，Correlation functions of local composite operators from generalized unitarity， JHEP O3 (2013） 172. arXiv:1209.0227, doi:10.1007/JHEP03(2013)172.   \n[30] B.Penante,B.Spence, G. Travaglini, C. Wen, On super form factors of half-BPS operators in N=4 super Yang-Mills, JHEP 04 (2014) 083. arXiv:1402.1300, doi:10.1007/JHEP04(2014)083.   \n[31] A.Brandhuber，B. Penante，G. Travaglini，C. Wen，The last of the simple remainders， JHEP 08 (2014) 100.arXiv:1406.1443, doi:10.1007/JHEP08(2014)100.   \n[32] L. V. Bork, On form factors in ${ \\mathcal { N } } = 4$ SYM theory and polytopes, JHEP 12 (2014) 111. arXiv:1407.5568, doi:10.1007/JHEP12(2014)111.   \n[33] L. F. Alday, J. Maldacena, Comments on gluon scattering amplitudes via AdS/CFT， JHEP 11 (2007） 068.arXiv:0710.1060, doi:10.1088/1126-6708/2007/11/068.   \n[34] J. Maldacena， A. Zhiboedov， Form factors at strong coupling viaa Y-system， JHEP 11 (2010) 104. arXiv:1009.1139, doi:10.1007/JHEP11(2010)104.   \n[35] Z. Gao,G. Yang,Y-system for form factors at strong coupling in $A d S _ { 5 }$ （204号 and with multi-operator insertions in $A d S _ { 3 }$ ，JHEP 1306（2013）105. arXiv:1303.2668, doi:10.1007/JHEP06(2013)105.   \n[36] M. Wilhelm，Amplitudes,Form Factors and the Dilatation Operator in $\\mathcal { N } ~ = ~ 4$ SYM The0ry， JHEP 02(2015) 149. arXiv:1410.6309, doi:10.1007/JHEP02(2015)149.   \n[37] D. Nandan, C. Sieg,M. Wilhelm,G. Yang, Cutting through form factors and cross sections of non-protected operators in ${ \\mathcal N } = 4$ SYM, JHEP 06 (2015) 156. arXiv:1410.8485, doi:10.1007/JHEP06(2015)156.   \n[38] F. Loebbert，D. Nandan，C. Sieg，M. Wilhelm，G. Yang，OnShell Methods for the Two-Loop Dilatation Operator and Finite Remainders， JHEP 10 (2015) 012. arXiv:1504.06323, doi:10.1007/JHEP10(2015)012.   \n[39] R. Frassek, D. Meidinger, D. Nandan, M. Wilhelm, On-shell Diagrams, Graβmannians and Integrability for Form FactorsarXiv:15o6.08192.   \n[40] A. H. Mueller, On the Asymptotic Behavior of the Sudakov Formfactor, Phys.Rev.D20 (1979) 2037. doi:10.1103/PhysRevD.20.2037.   \n[41] J. C. Collins,Algorithm to Compute Corrections to the Sudakov Formfactor,Phys.Rev.D22(1980) 1478. doi:10.1103/PhysRevD.22.1478.   \n[42] A. Sen，Asymptotic Behavior of the Sudakov Form-Factor in QCD, Phys.Rev.D24(1981) 3281. doi:10.1103/PhysRevD.24.3281.   \n[43] L. Magnea, G. F. Sterman， Analytic continuation of the Sudakov form-factor in QCD， Phys.Rev. D42 (1990) 4222-4227. doi:10.1103/PhysRevD.42.4222.   \n[44] Z. Bern，L. J. Dixon，V. A. Smirnov，Iteration of planar amplitudes in maximally supersymmetric Yang-Mills theory at three loops and beyond,Phys.Rev. D72 (2005) 085001. arXiv:hep-th/0505205, doi:10.1103/PhysRevD.72.085001.   \n[45] Z.Bern，M. Czakon，L. J. Dixon， D. A. Kosower，V. A. Smirnov, The Four-Loop Planar Amplitude and Cusp Anomalous Dimension in Maximally Supersymmetric Yang-Mills Theory, Phys. Rev. D75 (2007) 085010. arXiv:hep-th/0610248, doi:10.1103/PhysRevD.75.085010.   \n[46] F. Cachazo， M. Spradlin， A. Volovich， Four-loop cusp anomalous dimension from obstructions，Phys. Rev. D75 (2007） 105011. arXiv:hep-th/0612309,doi:10.1103/PhysRevD.75.105011.   \n[47] J.M.Henn，T.Huber，The four-loop cusp anomalous dimension in $\\mathcal { N } ~ = ~ 4$ super Yang-Mills and analytic integration techniques for Wilson line integrals, JHEP 09 (2013) 147. arXiv:1304.6418, doi:10.1007/JHEP09(2013)147.   \n[48] A. V. Kotikov, L. N. Lipatov,A. I. Onishchenko,V. N. Velizhanin, Three loop universal anomalous dimension of the Wilson operators in N=4 SUSY Yang-Mills model， Phys. Lett. B595 (2004) 521- 529,[Erratum: Phys. Lett.B632,754(2006)]. arXiv:hep-th/0404092, doi:10.1016/j.physletb.2004.05.078.   \n[49] S.Moch, J. A. M. Vermaseren,A. Vogt, The Three loop splitting functions in QCD: The Nonsinglet case,Nucl. Phys. B688(2004) 101-134. arXiv:hep-ph/0403192, doi:10.1016/j.nuclphysb.2004.03.030.   \n[50] A.Vogt, S. Moch, J.A.M. Vermaseren, The Three-loop splitting functions in QCD: The Singlet case，Nucl. Phys. B691 (2004) 129-181. arXiv:hep-ph/0404111, doi:10.1016/j.nuclphysb.2004.04.024.   \n[51] G.'t Hooft， A Planar Diagram Theory for Strong Interactins, Nucl.Phys. B72 (1974) 461. doi:10.1016/0550-3213(74)90154-0.   \n[52] A. V. Smirnov, https://science.sander.su/Tools.htm.   \n[53] A.Pak，The Toolbox of modern multi-loop calculations: novel analytic and semi-analytic techniques, J.Phys.Conf.Ser. 368 (2012) 012049. arXiv:1111.0868, doi:10.1088/1742-6596/368/1/012049.   \n[54] S.Laporta，High precision calculation of multiloop Feynman integrals by difference equations, Int.J.Mod.Phys. A15 (2000) 5087-5159. arXiv:hep-ph/0102033, doi:10.1016/S0217-751X(00)00215-7.   \n[55] C. Anastasiou， A. Lazopoulos, Automatic integral reduction for higher order perturbative calculations， JHEP O407 (2004） 046. arXiv:hep-ph/0404258, doi:10.1088/1126-6708/2004/07/046.   \n[56] A．Smirnov, Algorithm FIRE FeynmanIntegral REduction， JHEP 0810 (2008) 107. arXiv:0807.3243, doi:10.1088/1126-6708/2008/10/107.   \n[57] A. Smirnov, V. Smirnov, FIRE4, LiteRed and accompanying tools to solve integration by parts relations, Comput.Phys.Commun. 184 (2013) 2820-2827. arXiv:1302.5885, doi:10.1016/j.cpc.2013.06.016.   \n[58] A. V. Smirnov, FIRE5:a $\\mathrm { C } { + } { + }$ implementation of Feynman Integral REduction， Comput.Phys.Commun. 189 (2014） 182-191. arXiv:1408.2372, doi:10.1016/j.cpc.2014.11.024.   \n[59] C. Studerus, Reduze - Feynman integral reduction in C++, Comput.Phys.Commun. 181 (2010) 1293-1300.arXiv:0912.2546, doi:10.1016/j.cpc.2010.03.012.   \n[60] R. Lee, Presenting LiteRed: a tool for the Loop InTEgrals REDuctionarXiv:1212.2685.   \n[61] R. N. Lee,LiteRed 1.4:a powerful tool for reduction of multiloop integrals, J.Phys.Conf.Ser. 523 (2014) 012059. arXiv:1310.1145, doi:10.1088/1742-6596/523/1/012059.   \n[62] J. R. Hammond, A. Schafer, R. Latham, To int_max... and beyond!: Exploring large-count support in mpi, in:Proceedings of the 2O14 Workshop on Exascale MPI，ExaMPI’14， IEEE Press，Piscataway，NJ，USA， 2014， pp.1-8. doi:10.1109/ExaMPI.2014.5. URL http://dx.doi.org/10.1109/ExaMPI.2014.5   \n[63] P. A. Baikov, A Practical criterion of irreducibility of multiloop Feynmanintegrals， Phys. Lett. B634(2006) 325-329. arXiv:hep-ph/0507053, doi:10.1016/j.physletb.2006.01.052.   \n[64] D. A. Cox, J. Little, D. OSHEA, Ideals, varieties,and algorithms: an introduction to computational algebraic geometry and commutative algebra,Springer Science & Business Media, 2007.   \n[65] D.R. Grayson，M.E. Stillman，Macaulay2， a software systemforresearchinalgebraicgeometry，Availableat http://www.math.uiuc.edu/Macaulay2/.   \n[66] Y.Zhang，Interfacetomacaulay2frommathemtica, https://bitbucket.org/yzhphy/mathematicam2 (2015).   \n[67] W. Decker，G.-M. Greuel, G. Pfister，H. Schonemann， SINGULAR 4-0-2 — A computer algebra system for polynomial computations, http://www.singular.uni-kl.de (2015).   \n[68] V.A. Smirnov,Private communication.   \n[69] M. Czakon，AutomatizedanalyticcontinuationofMellinBarnesintegrals， Comput.Phys.Commun. 175(2006) 559-571. arXiv:hep-ph/0511200, doi:10.1016/j.cpc.2006.07.002.   \n[70] A.V. Smirnov,V.A. Smirnov, On the Resolution of Singularities of Multiple Mellin-Barnes Integrals,Eur. Phys. J. C62 (2009) 445-449. arXiv:0901.0386, doi:10.1140/epjc/s10052-009-1039-6.   \n[71] J. Gluza, K. Kajda, T. Riemann, AMBRE: A Mathematica package for the construction of Mellin-Barnes representations for Feynman integrals, Comput.Phys.Commun. 177 (2007) 879-893. arXiv:0704.2423, doi:10.1016/j.cpc.2007.07.001.   \n[72] J. Gluza, K. Kajda, T. Riemann， V. Yundin， Numerical Evaluation ofTensorFeynman Integralsin Euclidean Kinematics，Eur.Phys.J. C71(2011）1516. arXiv:1010.1667, doi:10.1140/epjc/s10052-010-1516-y.   \n[73] J. Blmlein，I. Dubovyk,J. Gluza,M. Ochman,C. G. Raab,et al., Non-planar Feynman integrals, Mellin-Barnes representations, multiple sums, PoS LL2014 (2014) 052. arXiv:1407.7832.   \n[74] T.Binoth,G. Heinrich，An automatized algorithm to compute infrared divergent multiloop integrals, Nucl.Phys.B585 (2000) 741-759. arXiv:hep-ph/0004013, doi:10.1016/S0550-3213(00)00429-6.   \n[75] T.Hahn, CUBA: A Library for multidimensional numerical integration, Comput.Phys.Commun. 168 (2005) 78-95. arXiv:hep-ph/0404043, doi:10.1016/j.cpc.2005.01.010.   \n[76] C. Bogner, S. Weinzierl, Resolution of singularities for multi-loop integrals,Comput.Phys.Commun. 178 (2008) 596-610. arXiv:0709.4092, doi:10.1016/j.cpc.2007.11.012.   \n[77] J. Carter， G. Heinrich， SecDec:A general program for sector decomposition， Comput.Phys.Commun. 182 (2011） 1566-1581. arXiv:1011.5493,doi:10.1016/j.cpc.2011.03.026.   \n[78] S. Borowka， J. Carter， G. Heinrich， Numerical Evaluation of Multi-Loop Integrals for Arbitrary Kinematics with SecDec 2.0, Comput.Phys.Commun. 184 (2013) 396-408.arXiv:1204.4152, doi:10.1016/j.cpc.2012.09.020.   \n[79] S.Borowka，G.Heinrich，S. P. Jones， M. Kerner，J. Schlenk, T.Zirke， SecDec-3.O: numerical evaluation of multi-scale integrals beyond one loop，Comput. Phys. Commun. 196 (2015） 470-491. arXiv:1502.06595, doi:10.1016/j.cpc.2015.05.022.   \n[80] A．Smirnov，M.Tentyukov， FeynmanIntegralEvaluation byaSectordecomposiTionApproach (FIESTA)，Comput.Phys.Commun. 180(2009) 735-746. arXiv:0807.4129, doi:10.1016/j.cpc.2008.11.006.   \n[81] A. Smirnov,V. Smirnov，M. Tentyukov, FIESTA 2: Parallelizeable multiloop numerical calculations,Comput.Phys.Commun. 182 (2011) 790-803. arXiv:0912.0158, doi:10.1016/j.cpc.2010.11.025.   \n[82] A.V. Smirnov, FIESTA 3: cluster-parallelizable multiloop numerical calculations in physical regions, Comput.Phys.Commun. 185 (2014) 2090-2100. arXiv:1312.3186, doi:10.1016/j.cpc.2014.03.015.   \n[83] T. Kaneko,T. Ueda,A Geometric method of sector decomposition, Comput.Phys.Commun. 181 (2010) 1352-1361.arXiv:0908.2897, doi:10.1016/j.cpc.2010.04.001.   \n[84] R.Lee,A. Smirnov,V. Smirnov,Analytic Results for Massless ThreeLoop Form Factors， JHEP 1004 (2010) 020.arXiv:1001.2887, doi:10.1007/JHEP04(2010)020.   \n[85] T.Gehrmann,E.Glover, T.Huber,N. Ikizlerli, C. Studerus,Calculation of the quark and gluon form factors to three loops in QCD, JHEP 1006 (2010) 094. arXiv:1004.3653, doi:10.1007/JHEP06(2010)094.   \n[86] J.M. Henn,A. V. Smirnov,V.A. Smirnov, Evaluating single-scale and/or non-planar diagrams by differential equations, JHEP 1403 (2014) 088. arXiv:1312.2588, doi:10.1007/JHEP03(2014)088.   \n[87] A. von Manteuffel, E. Panzer， R. M. Schabinger， A quasi-finite basis for multi-loop Feynman integrals, JHEP 1502 (2015） 120. arXiv:1411.7392, doi:10.1007/JHEP02(2015)120.   \n[88] O.Tarasov，Connection between Feynman integrals having different values of the space-time dimension, Phys.Rev. D54(1996) 6479-6490. arXiv:hep-th/9606018, doi:10.1103/PhysRevD.54.6479.   \n[89] R. Lee,Space-time dimensionality D as complex variable: Calculating loop integrals using dimensional recurrence relation and analytical properties with respect to D，Nucl.Phys. B830 (2010) 474-492. arXiv:0911.0252, doi:10.1016/j.nuclphysb.2009.12.025.   \n[90] A. von Manteuffel, Talk at radcor/loopfest 2015, 2015.   \n[91] A.von Manteuffel, R. M. Schabinger， A novel approach to integration by parts reduction， Phys. Lett. B744 (2015） 101-104. arXiv:1406.4513, doi:10.1016/j.physletb.2015.03.029.   \n[92] V. A. Smirnov, O. Veretin,Analytical results for dimensionally regularized massless on-shell double boxes with arbitrary indices and numerators,Nucl.Phys. B566 (2000) 469-485. arXiv:hep-ph/9907385, doi:10.1016/S0550-3213(99)00686-0.   \n[93] C.Anastasiou，J. Tausk，M. Tejeda-Yeomans，The On-shell massless planar double box diagram with an irreducible numerator, Nucl.Phys.Proc.Suppl. 89 (2000) 262-267. arXiv:hep-ph/0005328, doi:10.1016/S0920-5632(00)00853-7.   \n[94]E. Panzer， Algorithmsforthesymbolic integration ofhyperlogarithmswith applicationsto Feynman integrals, Com",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "put. Phys. Commun. 188(2014) 148-166. arXiv:1403.3385, doi:10.1016/j.cpc.2014.10.019. [95] J. M. Henn,Multiloop integrals in dimensional regularization made simple，Phys.Rev.Lett. 110 (25)(2013) 251601. arXiv:1304.1806, doi:10.1103/PhysRevLett.110.251601. ",
+        "page_idx": 41
+    }
+]

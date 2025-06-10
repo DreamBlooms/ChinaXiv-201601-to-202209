@@ -1,0 +1,371 @@
+[
+    {
+        "type": "text",
+        "text": "单脉冲搜索在CRAFTS巡天数据研究与应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张彬1,梁楠12,于徐红1，陈宗浩1,刘志杰1,游善平1\\*（贵州师范大学贵州省信息与计算科学重点实验室，贵州贵阳，550001）‘（中国科学院云南天文台，云南 昆明，650216）²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：对大规模射电天文巡天项目产生的数据进行单脉冲搜索会产生数以亿计的脉冲星候选体。本文处理了CRAFTS（The Commensal Radio Astronomy FAST Survey）巡天的32万个超宽带数据文件，得到5万个脉冲星候选体。针对CRAFTS单脉冲搜索实验结果中脉冲星候选体仅有 $1 . 5 \\%$ 真正具有脉冲星信号的问题，提出三个显著区分脉冲星信号与干扰的特征，并应用到单脉冲筛选流程中。实验表明，改进后的单脉冲筛选工具将需要人工检查脉冲星候选体的数量降低了 $20 \\%$ ，一定程度上提升了CRAFTS巡天数据的单脉冲搜索效率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：单脉冲搜索；脉冲星；色散；CRAFTS；信噪比；射频干扰 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "脉冲星是一种快速旋转、高磁化的中子星，被认为是理解超密度物质的关键，可以用于各种基础物理实验[2]。目前，脉冲星搜索方法主要分为周期性搜索和单脉冲搜索两大类。其中，周期性搜索通过应用快速傅里叶变换（FFT）将时间序列转化到频域，以识别周期性信号。然后在确定的周期内对原始时间序列数据进行折叠，以放大周期性信号的信噪比（SNR）[3]。而单脉冲搜索寻找强的，非周期的脉冲，并未使用快速傅里叶变换和折叠。单脉冲搜索非常适合发现周期性搜索中无法发现的孤立爆发。它的应用导致了旋转射电暂现源（Rotating Radio Transients，RRAT）[4]和快速射电暴的（FastRadio Bursts，FRB)的发现，从而激起人们对单脉冲搜索的兴趣。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2003年，Cordes和McLaughlin首次提出了一个理论框架，运用单脉冲搜索方法来探测射电天文观测数据中的脉冲星信号[]。Deneva在2009年把单脉冲搜索方法应用到阿雷西博（Pulsar AreciboL-band Feed Arry，PALFA）七波束观测数据上，并发现7颗脉冲星[7]。同样，Keane在2010年使用单脉冲搜索方法对帕克斯（Parkes Multibeam Pulsar Survey，PMPS)多波束数据文件进行重新分析，发现10颗RRAT8]。2015年，Karako和Argaman在单脉冲理论基础上，设计出针对RRAT的搜索工具RRATtrap，应用在绿岸(Green Bank Telescope，GBT)350MHZ数据，最终探测到18颗RRAT9]。2016年，Devine首次将单脉冲搜索与机器学习结合，提出RAPID筛选工具，实现了自动化筛选脉冲星候选体，并探测到6个潜在的发现[10]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2016年9月位于贵州喀斯特山区的五百米口径球面射电望远镜（Five-hundred-meter ApertureSpherical radio Telescope,FAST）进入科学运行阶段，先后配置了超宽带接收机和L波段19波束接收机设备[10]。为充分利用FAST的优异的探测能力，2018年李药等人设计并实施了“FAST多科学目标同时扫描巡天”（The Commensal Radio Astronomy FAST Survey,简称CRAFTS）[1]。即同时使用多个数字终端采集脉冲星、中子氢、分子谱线、旋转射电暂现源、FRB等多个科学目标的观测数据。鉴于单脉冲搜索方法在各大射电望远镜的成功应用，本文对CRAFTS超宽带数据文件的单脉冲搜索结果进行研究，发现CRAFTS单脉冲搜索筛选得到脉冲星候选体存在数以万计的假阳性样本。因此，我们根据脉冲星信号在色散量与信噪比曲线大致是高斯曲线以及信噪比数据分布是高斯分布的假",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "设，构造三个显著区分脉冲星信号与干扰的特征，旨在缓解出现大量假阳性样本的问题。实验表明添加特征值判断的单脉冲筛选工具与传统方法相比，假阳性样本数量减少了 $20 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2CRAFTS超宽带数据单脉冲搜索实验",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在射电天文观测数据中发现脉冲星通常分为四个阶段：收集、消色散、周期性或单脉冲搜索和人工检查[2]。在第一阶段，原始数据以电压时间序列的形式由射电望远镜收集。第二阶段，由于脉冲辐射通过星际介质（InterstellarMedium，ISM）的色散效应，导致较低频率的脉冲比较高频率晚到达[12]。消色散是消除这些与频率有关的延迟效应的影响。第三阶段，使用周期性搜索或单脉冲搜索寻找出数据中的脉冲星候选体。第四阶段，对上面判断为脉冲星候选体的数据再进行一次人工检查。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1数据处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "我们先使用 PRESTO（Pulsar Exploration and Search Toolkit）脉冲星搜索工具处理了CRAFTS2017年8月至2018年5月的超宽带数据，处理流程包括：去干扰、消色散、单脉冲搜索等步骤；然后，应用单脉冲筛选工具RRATtrap 从PRESTO 的 Single_pulse_search.py 输出文件中筛选出脉冲星候选体。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "单脉冲筛选工具RRATtrap 根据脉冲星信号如下特性，将脉冲星信号与干扰区分开。1、脉冲星信号出现在一定（Dispersion Measure,DM）范围内。在最佳的DM时检测到峰值信噪比，而在该DM上下信噪比下降，这是由于脉冲在不正确的DM消色散导致脉冲展宽造成的。2、由于信号在最佳DM检测到峰值信噪比，预计来自地面的信号（即射频干扰）将在DM为 $0 p c \\ c m ^ { - 3 }$ 达到峰值。同时射频干扰不会受到色散效应的影响，因此出现在一个非常大的DM范围内[]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图1是单脉冲筛选工具RRATtrap探测到已知脉冲星PSR $8 0 5 4 0 \\substack { + 2 1 }$ 的诊断图。左侧子图纵坐标为试验DM范围，横坐标为观测时间，CRAFTS 超宽带数据每个观测文件为52秒，右侧子图描述试验DM对应的信噪比大小。可以看到呈仿锤状的单脉冲事件组（在相邻的DM与时间窗口内所有信噪比大于5的事件）在最佳DM78pccm取得峰值信噪比68，而在该DM上下，信噪比下降。其中，强的脉冲星信号被标记为Excellent；弱的脉冲星信号被表标记为Very good；不规则的脉冲星信号被标记为Good或Ok；射频干扰被标记为RFI；宇宙噪音被标记为Noise。在图2中，我们看到在较宽的DM范围上极强的射频干扰的实例。此外，发现在 $t = 2 0 - 4 0 s$ ，极强的射频干扰被错误标记为脉冲星信号。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a14fa2655f0d5461650796a51ae11d796df0d977a21ec6179ca8c67412cb2451.jpg",
+        "img_caption": [
+            "图1RRATtrap-探测到脉冲星P $5 { \\mathsf { R } } { \\mathsf { B 0 5 4 0 } } { \\mathsf { + 2 1 } }$ 诊断图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig1 Diagnostic picture of the pulsar PSR $8 0 5 4 0 + 2 1$ detected by RRATtrap - ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9cb0107635ec88623b8322edddad91b8b1ab0cbeb5e48058b9a08dad170b7816.jpg",
+        "img_caption": [
+            "图2RRATtrap筛选出假阳性实例诊断图",
+            "Fig2 RRATtrap screened out false positive case diagnosis diagram "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本次实验选取CRAFTS2017年8月至2018年5月共计约32万个超宽带数据文件进行单脉冲搜索实验。由于本次处理的数据规模较大，对所有数据进行全面的人工检查工作量非常大。因此，我们先使用单脉冲筛选工具RRATtrap初步筛选出脉冲星候选体。然后，我们对数据文件中标记为Excellent、VeryGood、Good、Ok共计约5万颗脉冲星候选体的诊断图进行手工检查，发现仅有772个诊断图真正具有脉冲星信号，对应101颗已知脉冲星。通过式1计算的假阳性率达到 $9 8 . 5 \\%$ ，意味着每100个脉冲星候选体中，仅有1至2个包含脉冲星信号（已知或新发现的）。由于CRAFTS超宽带数据文件中包含的具体脉冲星数量未知，本文未对假阴性情况进行分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF P R = \\frac { F P } { F P + T P }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $F P$ 是没有脉冲星信号的数据文件被标记为候选脉冲星的文件数量； $T P$ 是含有脉冲星信号的数据文件被标记为候选脉冲星的文件数量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3区分脉冲星信号与干扰的特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CRAFTS超宽带数据单脉冲搜索结果表明：脉冲星候选体仅有 $1 . 5 \\ \\%$ 真正具有脉冲星信号，这主要是未能成功区分脉冲星信号与干扰造成的，如图2所示。本节首先探讨了不正确的DM对信噪比的影响。然后，构造了三个显著区分脉冲星信号与干扰的特征。并在探测到的101颗脉冲星样本中选取同时具有脉冲星信号、射频干扰和宇宙噪音的79 颗脉冲星作为样本，计算它们在三个特征取值情况。最后，根据脉冲星信号、射频干扰和宇宙噪音在三个特征取值分布的差异，提出合理阈值应用在单脉冲筛选工具上，对脉冲星候选体进行进一步筛选。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1DM与信噪比的曲线",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cordes 与 McLaughlin 探讨了不正确的DM对单个脉冲信噪比的影响[。通常，对一个特定的DM 的时间序列进行多次下采样并重新搜索，当有效的采样时间最接近脉冲宽度时，脉冲达到最高的信噪比。在不同的DM信道中，随着试验DM与真实DM的偏差越大，信噪比越小，如图1所示。测量的信噪比 $S ( \\delta D M )$ 与真正的信噪比 $s$ 比值与DM的偏差δDM 满足如下关系[5]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { S ( \\delta D M ) } { S } = \\frac { \\sqrt \\pi } { 2 } \\zeta ^ { - 1 } e r f \\zeta\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "这里：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\zeta = 6 . 9 1 \\times 1 0 ^ { - 3 } \\delta D M \\frac { \\Delta \\nu _ { _ { M H z } } } { W _ { m s } \\nu _ { _ { G H z } } ^ { 3 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中，erf是误差函数；&DM 是实验DM与真实DM偏差； $\\Delta \\nu$ 是总带宽； $\\boldsymbol { \\underline { \\boldsymbol { \\nu } } }$ 是中心频率;  \nW 是脉冲宽度，单位为毫秒。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用这两个式(2)(3)，给出天体物理脉冲的信噪比和宽度，我们可以计算出预期的DM 偏差δDM。在图3中，展示了在中心频率 $5 4 6 M H z$ ，时间分辨率为 $1 0 0 u s$ 和匹配滤波使用30的PSR $\\mathbf { B } 2 0 0 0 { + } 4 0$ 一组单脉冲事件预期和拟合信噪比下降曲线。在这两种情况下，信噪比峰值处的DM被认为是真正的DM。我们计算预期的信噪比下降，利用峰值信噪比和匹配滤波得到脉冲宽度，这和实际脉冲宽度很接近。另一方面，为了计算拟合的信噪比下降，首先，使用非线性最小二乘法（NLS）对原始数据进行回归得到拟合的峰值，然后，使用相同的方程计算拟合的信噪比下降。图3可以看出，预期和拟合的DM与信噪比曲线大致是高斯曲线。使用观测到的峰值信噪比和匹配滤波得到脉冲宽度，预期的信噪比下降与拟合值在峰值右侧相当接近，但在左侧出现偏差。这是匹配滤波得到的脉冲宽度与实际脉冲宽度的偏差造成的。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9976b0938a78e3885e6a7ecaa061c56bc330873c884456649ecf31422a4556cb.jpg",
+        "img_caption": [
+            "图 $3 \\mathsf { P S R } \\mathsf { B 2 0 0 0 + } 4 0$ 一组单脉冲事件色散与信噪比曲线图",
+            "Fig 3 PSR B2OoO+40 a set of single pulse event dispersion and signal-to-noise ratio curve "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2三个显著特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Lorimer 指出脉冲星的轮廓可以简化为高斯型（对大多数脉冲星来说是一个合理的近似）[14]。按照Cordes与McLaughlin提出单脉冲搜索理论，天体物理脉冲的DM和信噪比曲线大致是高斯曲线[5],如图3所示。由于高斯曲线通常是对称,DiPang提出了两种对称特征， $S I _ { { D M } }$ 和 $S I _ { { _ { S / N } } }$ ，来表征单脉冲事件组的DM与信噪比曲线的对称性[15]。 $S I _ { { D M } }$ 与 $S I _ { s / N }$ 的计算方法如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ S I } _ { _ { D M } } = \\frac { \\mathrm { m i n } ( \\mathrm { m a x } D M - p e a k D M , p e a k D M - \\mathrm { m i n } D M ) } { \\mathrm { m a x } ( \\mathrm { m a x } D M - p e a k D M , p e a k D M - \\mathrm { m i n } D M ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "这里，peakDM 是信噪比峰值对应的 DM；max $D M$ 是单脉冲事件组最大的 DM;$\\operatorname* { m i n } D M$ 是单脉冲事件组最小的DM。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS I _ { _ { S / N } } = \\frac { \\operatorname* { m i n } ( \\sum S / N _ { _ { l e f t } } , \\sum S / N _ { _ { r i g h t } } ) } { \\operatorname* { m a x } ( \\sum S / N _ { _ { l e f t } } , \\sum S / N _ { _ { r i g h t } } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "这里， $\\sum S / N _ { \\mathit { l e f t } }$ 是信噪比峰值左侧所有单脉冲事件的信噪比求和； $\\sum S \\mathrm { ~ / ~ } N _ { r i g h t }$ 是信噪比峰值右侧所有单脉冲事件的信噪比求和。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由式（4）和（5）定义的 $S I _ { { D M } }$ 和 $S I _ { \\scriptscriptstyle S I N }$ 的取值范围都在0到1，这两个特征取值越高，则越对称，相反不遵循方程（2）描述规律的射频干扰，通常在DM与信噪比空间是单调递减（或递增）。所以，它们通常具有接近于0的对称值，可以与脉冲星信号进行区分。如图4和5所示，分别展示了脉冲星样本的 $S I _ { { D M } }$ 和 $S I _ { s / N }$ 对称值，并对脉冲星信号，射频干扰和噪音进行了对比。可以看出：脉冲星信号通常具有较大的对称值，而射频干扰和噪音的对称值相对较小，这表明脉冲星信号比干扰更对称。此外，发现一些噪音具有大的对称值，这些通常是高斯噪声。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2  \n0.81 一 ==二  \n4422 ！ 文山射频干扰脉冲星信号  \n0.00 20 40 60 80脉冲星样本编号",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d53db573f719e68bd3666dc00bcf056b085cd6b3c3a7526c4d84c864584aa83.jpg",
+        "img_caption": [
+            "图5脉冲星样本 $S I _ { s / N }$ 对称值Fig 5 $S I _ { s / N }$ Symmetry values of pulsar samples"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Cordes 与McLaughlin 预测在没有任何宇宙噪音和射频干扰的情况下，信噪比的数据分布是高斯分布。峰度是描述总体数据分布与高斯分布的陡缓程度统计量。为了判断脉冲星样本信噪比的数据分布是否符合高斯分布，我们使用 kurtosis 峰度值来表征单脉冲事件组内信噪比的数据分布与高斯分布的符合程度。kurtosis 峰度值的计算方法如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk u r t o s i s [ S / N ] = E \\left[ \\left( \\frac { S / N - \\mu } { \\sigma } \\right) ^ { 4 } \\right] = \\frac { E \\left[ \\left( S / N - \\mu \\right) ^ { 4 } \\right] } { \\left( E \\left[ \\left( S / N - \\mu \\right) ^ { 2 } \\right] \\right) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "这里， $S / N$ 是单脉冲事件的信噪比； $\\mu$ 是单脉冲事件组内平均信噪比； $\\sigma$ 是单脉冲事件组内信噪比的方差。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9a4afe8b3feb01e9b587b626866f8588a79f414a310cbfa53e0c7ae102232f2e.jpg",
+        "img_caption": [
+            "图6脉冲星样本kurtosis峰度值 Fig 6 kurtosis value of pulsar sample "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "当式（6）定义的kurtosis 峰度值是3时，信噪比的数据分布服从高斯分布，随着 kurtosis峰度值与3的差距越大，其分布形态的陡缓程度与高斯分布的差异程度越大。如图6所示，用箱线图展示了脉冲星样本的kurtosis 峰度值分布情况，并对脉冲星信号，射频干扰和噪音进行了对比。可以看出：脉冲星信号峰度值集中于3 附近，而射频干扰和噪音的峰度值分散，且与 3差距较大。表明脉冲星信号信噪比数据分布近似服从高斯分布，而大部分干扰与噪音不具有此规律。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图4、5、6可以明显看出脉冲星信号、射频干扰和宇宙噪音在三个特征分布的差异。因此，我们根据脉冲星信号与干扰特征值的分布区间，如表1所示，选择合适的特征阈值，剔除不满足阈值的脉冲星候选体，从而达到降低假阳性率的目的。（比如：设置脉冲星信号特征 $S I _ { { D M } }$ 最小值0.1作为阈值，对低于阈值的候选体视为干扰处理。那么，特征值在0.02到0.1区间的射频干扰将不会被错误的标记为脉冲星候选体。）同时，我们选取不同阈值进行实验，并统计其对应的假阳性率和遗漏脉冲星信号的结果，如图7所示。可以看出：随着阈值变大或者阈值区间缩小，假阳性率不断减小；与此同时，遗漏发现的脉冲星数量在不断增加。而我们做脉冲星搜寻工作，首要前提是保证观测数据中所有脉冲星信号不被遗漏。因此，我们选取表1中脉冲星信号特征 $S I _ { { D M } }$ 最小值0.1， $S I _ { { _ { S / N } } }$ 最小值0.29 作为阈值；特征kurtosis的区间-1.54\\~27.11作为阈值区间，对低于阈值或不在阈值区间的脉冲星候选体视为射频干扰或宇宙噪音处理。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/f92f6405fa3ebe43e04e9e9d96208161ff9e925556265bd11e2dd4320ab6f20a.jpg",
+        "table_caption": [
+            "表1三个特征在三种类别的分布区间",
+            "Table 1 Value ranges of the three characteristics in the three categories "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>特征</td><td colspan=\"2\">脉冲星信号</td><td>射频干扰</td><td>宇宙噪音</td></tr><tr><td></td><td>CRAFTS</td><td>PMPS</td><td>CRAFTS</td><td>CRAFTS</td></tr><tr><td>SI DM</td><td>0.10~0.97</td><td>0.25~0.90</td><td>0.02~0.92</td><td>0.01~0.94</td></tr><tr><td>SIs/N</td><td>0.29~0.96</td><td>0.26-0.96</td><td>0.01~0.99</td><td>0.02~0.54</td></tr><tr><td>kurtosis</td><td>-1.54~27.11</td><td>-0.81~23.38</td><td>-0.80~28.95</td><td>0.74~31.58</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e0dd6936ba0e6c997277225f1a8c6e29537d29d4c17dee1a41c99678815103ba.jpg",
+        "img_caption": [
+            "图7各个特征在不同阈值假阳性和遗漏脉冲星的情况，其中红色竖线代表所选择的阈值 Fig 7 Each feature has different thresholds for false positives and missing pulsars,where the red vertical line represents the selected threshold "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "此外，为了证实我们所述特征是否在其它观测数据有效，我们对帕克斯多波束数据进行了实验。根据张松波公开的帕克斯单脉冲数据库[16]，构建了一个 PMPS（Parkes Multibeam Pulsar",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Survey）数据集，其中包含帕克斯发现的部分脉冲星信号。我们计算得到PMPS 数据集中脉冲星信号在三个特征值的分布情况，并与CRAFTS进行对比，如表1所示。可以发现：它们的特征值分布十分接近，尽管它们在消色散网格、周围射频干扰的环境等存在显著差异。因此，我们所述的特征阈值同样能够将帕克斯数据中脉冲星信号从干扰中区分开。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "我们将上述阈值和阈值区间应用到单脉冲筛选工具上，对脉冲星候选体进行重新筛选。实验结果如表2所示：可以看出添加单个特征阈值判断的单脉冲筛选工具能在一定程度上降低假阳性率；并且三个特征阈值组合判断假阳性率从 $9 8 . 5 \\%$ 降低到 $7 8 . 4 \\%$ 。表明添加特征阈值判断的单脉冲筛选工具提升了脉冲星搜索效率。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/adea286bdca8d2653ef7743c8b708718808c7c78357760f4bb56df3770b32ae0.jpg",
+        "table_caption": [
+            "表2添加特征后假阳性率结果",
+            "Table 2False positive rate results after adding features "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>特征</td><td>假阳性率 （FPR）</td></tr><tr><td>SI DM</td><td>97.9%</td></tr><tr><td>SIsIN</td><td>93.8%</td></tr><tr><td>kurtosis</td><td>82.5%</td></tr><tr><td>SI Dm + SIs/N + kurtosis</td><td>78.4%</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4总结与展望 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文使用PRESTO的单脉冲搜索方法对CRAFTS超宽带数据文件进行的实验表明，现有的单脉冲筛选工具难以区分真实的信号与噪音或射频干扰返回的信号，造成数以方计的假阳性样本出现，使得脉冲星的发现变得困难。因此，我们先提出三个显著区分脉冲星信号与干扰的特征。并选取同时具有脉冲星信号、射频干扰和宇宙噪音的79颗脉冲星样本，计算它们在三个特征取值情况。然后，根据脉冲星信号、射频干扰和宇宙噪音在三个特征取值分布的差异，提出合理阈值应用在单脉冲筛选工具上，用于对脉冲星候选体进行严格的判断。最后，使用添加特征阈值判断的单脉冲筛选工具对脉冲星候选体进行重新实验。结果表明：在保证所有脉冲星信号都不被遗漏的情况下，假阳性率从 $9 8 . 5 \\%$ 降低到 $7 8 . 4 \\%$ 。因此，本文所述三个特征在实验的验证下证明了具有实用性和有效性，可以助益于单脉冲搜索在CRAFTS巡天数据的应用。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "致谢：本工作在FAST（500米口径球面射电望远镜）数据基础上完成。FAST是由中国科学院国家天文台运行和管理的国家大科学装置。我们感谢中国科学院天文大科学研究中心FAST重大成果培育项目对本工作的资助。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References (参考文献) ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] Li D， Wang P,Qian L，et al. FAST in space: Considerations for a Multi-beam multipurpose Survey using china’s $5 0 0 \\mathrm { - m }$ aperture spherical radio telescope (FAST)[J]. IEEE Microwave Magazine， 2018,19(3):112-119.   \n[2] Lorimer D R, Kramer M. Handbook of Pulsar Astronomy[M].Cambridge: Cambridge University Press. 2004.   \n[3] Larsson S. Parameter estimation in epoch folding analysis[J]. Astronomy and Astrophysics Supplement Series，1996，117(1) :197-201.   \n[4] McLaughlin M A, Lyne A, Lorimer D,et al. Transient radio bursts from rotating neutron stars[J].Nature，2006，439，817-820.   \n[5」 Lorimer D R, Bailes M, McLaughlin M A,et al. A bright millisecond radio burst of extragalactic origin[J]. Science，2007，318，777 -780.   \n[6] Cordes JM, McLaughlinMA. Searches for Fast Radio Transients[J].The Astrophysical Journal， 2003，596(2):1142-1154.   \n[7] Deneva JS，Cordes JM，Mclaughlin M A，et al. Arecibo Pulsar Survey Using ALFA: Probing Radio Pulsar Intermittency and Transients[J]. The Astrophysical Journal, 2009，703(2):2259-2274.   \n[8] Keane EF,Ludovici D A,et al. Further searches for Rotating Radio Transients in the Parkes Multi-beam Pulsar Survey[J]. Monthly Notices of the Royal Astronomical Society，2010，401(1):1057-1068.   \n[9] Karako-Argaman C,et al. Discovery and Follow-up of Rotating Radio Transients with the Green Bank and LOFAR Telescopes[J]. The Astrophysical Journal， 2015, 809(2) :67-85.   \n[10]Devine T R, Katerina G P， Maura ML .Detection of Dispersed Radio Pulses: A machine learning approach to candidate identification and classification[J]. Monthly Notices of the Royal Astronomical Society， 2016， 459(1) :1519 -1532.   \n[11]刘鹏,王培,李药,等．FAST 19 波束脉冲星漂移扫描巡天模拟［J]．天文学进展，2018, 36(2): 173-188.   \n[12]南仁东，李会贤.FAST的进展——科学、技术与设备[J].中国科学：物理学 力学 天文学， 2014，44（10）；1063-1074.   \n[13] James M Cordes.Pulsar observations-Propagation Effects,searching.Distance Estimates,Scintillations and VLBI [J]. The Astronomical Society of the Pacific. 2002，278-286.   \n[14]Lorimer D R，Faulkner A J，et al. The Parkes Multibeam Pulsar Survey - VI. Discovery and timing of 142 pulsars and a Galactic population analysis[J]. Monthly Notices of the Royal Astronomical Society， 2006，372(2) :777-800.   \n[15]Di Pang, Katerina Goseva-Popstojanova,et al. A novel single-pulse search approach to detection of dispersed radiopulses using clustering and supervised machine learning[J]. Monthly Notices of the Royal Astronomical Society， 2018, 459 (2) :1519-1541.   \n[16] Zhang S B, Hobbs G,et al. Parkes transient events: I. Database of single pulses, initialresultsand missing FRBs［J].TheAstrophysicalJournal, 2020,888(1) :62-74. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Research and Application of Single Pulse Search in CRAFTS Sky Survey Data ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Zhang Bin1,Liang Nan1.2, Yu Xuhong', Chen Zonghao1,Liu Zhijie,You Shanping1 (Guizhou Provincial Key Laboratoryof Informationand Computing Science,Guizhou Normal University,Guiyang 550001)1 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（Yunnan Observatories,Chinese Academy of Sciences,Kunming,Yunnan 650216）² ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: A single pulse search on the data generated by the large-scale radio astronomy survey project will generate hundreds of millions of pulsar candidates.This paper processed 320,000 ultra-wideband data files of the CRAFTS (The Commensal Radio Astronomy FAST Survey) survey,and obtained 5O,OoO pulsar candidates.In order to solve the problem that only $1 . 5 \\%$ of the pulsar candidates in the results of CRAFTS single pulse search experiment really have pulsar signal ,three features that distinguish pulsar signals from interference are proposed and applied to the single pulse sifting process. Experiments show that the improved single pulse sifting method will reduce the number of pulsar candidates that need to be manually checked by $20 \\%$ ，which improves the single pulse search efciency of CRAFTS survey data to a certain extent. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Keywords: single pulse search; pulsar； dispersion； CRAFTS； signal-to-noise ratio； Radiofrequency interference",
+        "page_idx": 9
+    }
+]

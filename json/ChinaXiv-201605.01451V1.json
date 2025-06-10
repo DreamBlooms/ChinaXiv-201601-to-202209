@@ -1,0 +1,176 @@
+[
+    {
+        "type": "text",
+        "text": "A Designed Metalloenzyme Achieving the Catalytic Rate of a Native Enzyme ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yang Yu,| Chang Cui,S, Xiaohong Liu, Igor D. Petrik,\\$ Jiangyun Wang,\\*† and Yi Lu\\*\\$,S ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Laboratoryof No-coding RA,Istituteofiophysics,ChineseAcademyofSiences15 DatunRoad,Chaoang District,eiing 100101,P.R.China   \nCenter of Biophysicsand Computational Biologyand DepartmentofChemistry, Universityof Iinoisat Urbana-Champaign, Urbana,Illinois 61801, United States ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3 Supporting Information ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT: Terminal oxidases catalyze four-electron reduction of oxygen to water， and the energy harvested is utilized to drive the synthesis of adenosine triphosphate. While much effort has been made to design a catalyst mimicking the function of terminal oxidases, most biomimetic catalysts have much lower activity than native oxidases. Herein we report a designed oxidase in myoglobin with an $\\mathrm { O } _ { 2 }$ reduction rate $( 5 \\breve { 2 } \\ s ^ { - 1 } )$ comparable to that of a native cytochrome (cyt) $c b { \\boldsymbol { b } } _ { 3 }$ oxidase $( \\hat { 5 } 0 \\ s ^ { - 1 } )$ under identical conditions. We achieved this goal by engineering more favorable electrostatic interactions between a functional oxidase model designed in sperm whale myoglobin and its native redox partner，cyt $b _ { 5 } ,$ resulting in a 400-fold electron transfer (ET) rate enhancement. Achieving high activity equivalent to that of native enzymes in a designed metalloenzyme offers deeper insight into the roles of tunable processes such as ET in oxidase activity and enzymatic function and may extend into applications such as more efficient oxygen reduction reaction catalysts for biofuel cells. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "oxidases are among the most efficient oxygen reduction reaction （ORR）catalysts，having the lowest overpotentials and using earth-abundant metal ions such as iron and copper, unlike the best industrial ORR fuel cell catalysts,which require precious platinum. To understand the efficiency of this important class of metalloenzymes，many synthetic models have been made to mimic their structures and functions,with particular focus on the heme-copper center at the active site of most oxidases.7 Despite years of effort by many groups, the activities of the biomimetic compounds in homogeneous solution are still far below those of native oxidases. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "As an alternative approach to biomimetic studies of native enzymes using small organic molecules,we use small, stable proteins such as myoglobin (Mb）as scaffolds to design structural features that mimic those of native enzymes.49 Mb functions as an $\\mathrm { O } _ { 2 }$ storage protein in biology. To transform Mb into an oxidase，we have introduced conserved structural elements of heme-copper oxidases，one Tyr and two His residues,into the distal pocket ofMb.One such variant,L29H/ F43H/G6SYMb (called $\\mathsf { G 6 5 Y - C u _ { B } M b }$ ),wasabletoreduce $\\mathrm { O } _ { 2 }$ to water with a catalytic oxygen reduction rate of $0 . 3 0 \\ s ^ { - 1 }$ (Figure S1) and $> 1 0 0 0$ turnovers using ascorbate as a reductant and $N , N , N ^ { \\prime } , N ^ { \\prime }$ -tetramethyl- $p$ -phenylenediamine（TMPD）as a redox mediator.4 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Meeeis even though the metalloenzymes use only a limited number of physiologically available metal ions or metal-containing cofactors.Rational design of metalloenzymes that mimic native enzymes allows the elucidation of structural features and mechanisms responsible for the high activity and efficient use of earth-abundant metal cofactors and facilitates the design of more robust and cost-effective catalysts for many applications.1 A key measure of success in this endeavor is the activity of the designed enzymes compared with the native enzymes that they model. While tremendous progress has been made in the field, most reported metalloenzymes display activities that are far below those of the native enzymes that they mimic. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Excellent examples of metalloenzymes of interest are terminal oxidases in the respiratory chain，in which $\\mathrm { O } _ { 2 }$ is reduced to $\\mathrm { H } _ { 2 } \\mathrm { O }$ in a four-electron $( 4 \\mathrm { e } ^ { - } )$ process and the energy harvested from this reduction is converted into a proton gradient that drives the synthesis of adenosine triphosphate, the universal source of energy for most biological processes.² In addition to their important role in bioenergetics，terminal oxidases are also of interest to biofuel cell research because the ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "While the above results demonstrate that we can rationally design a functional enzyme with a high number of turnovers, the catalytic rate $( 0 . 3 0 ~ \\mathrm { { s } ^ { - 1 } ) }$ is still far below that of native enzymes (e.g., cytochrome (cyt) $c b { \\boldsymbol { b } } _ { 3 }$ oxidase from Rhodobacter sphaeroides has an $\\mathrm { O } _ { 2 }$ reduction rate of $5 2 ~ \\mathsf { s } ^ { - 1 } )$ .10Our preliminary investigationsof $\\mathrm { G 6 5 Y - C u _ { B } M b }$ and similarly designed Mb model enzymes suggest that electron transfer (ET) into the catalytic center may be rate-limiting.This finding is consistent with studies of native cyt c oxidasel and some synthetic models showing that electron delivery into the active site might be a rate-limiting step.7b,12In searching for new redox partners of Mb to increase the ET rate and potentially the catalytic activity，we were excited to learn of the work by Hoffman and co-workers，who replaced three negatively charged amino acids(Asp44,Asp60,and Glu85）in myoglobin with three positively charged lysines to improve electrostatic interactions between the Mb and its redox partner，cyt $b _ { 5 } ,$ which is negatively charged.13 Such a D44K/D60K/E85K variant，called $\\mathbf { M } \\mathbf { b } \\left( + 6 \\right)$ ，enhanced the rate of ET from the triplet state of $Z \\mathbf { n }$ -deuteroporphyrin-substituted Mb to ferric cyt $b _ { 5 }$ by $^ { > 2 }$ orders of magnitude (from $5 . 5 \\times 1 0 ^ { 3 }$ to ${ \\sim } 1 . 0 \\times 1 0 ^ { 6 }$ $\\mathbf { s } ^ { \\dot { - } 1 \\dot { } } .$ 3aInspiredbytisworkeeporthereinthattheD4K D60K/E85K mutant of G65Y- ${ \\mathrm { C u } } _ { \\mathrm { B } } { \\mathrm { M b } }$ (named $\\mathrm { G 6 5 Y - C u _ { B } M b } .$ （2 $\\left( + 6 \\right)$ hereafter; see Figure la） exhibited dramatically enhanced oxidase activity， from 0.30 to $5 2 ~ { \\mathsf { s } } ^ { - 1 } .$ ，making it a designed metalloenzyme with activity comparable to its target native enzymes. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ead2c979ba002201fc8ca258a3be406386ebbfee634d249787475b732e3c591f.jpg",
+        "img_caption": [
+            "Figure 1.(a） Structures of $\\mathrm { G 6 5 Y - C u _ { B } M b } \\left( + 6 \\right)$ ，showing the engineered lysines in blue,and cyt $b _ { 5 }$ (PDB IDs 1CYO for cyt ${ b _ { 5 } } ^ { 3 }$ and 4FWY for $\\mathrm { F 3 3 Y - C u _ { B } M b ; } ^ { 4 }$ rendered through $\\mathrm { V M D } ^ { 5 }$ ).(b)Oxidase activity of G ${ 6 5 } \\mathrm { Y - C u _ { B } M b } \\left( + 6 \\right)$ in comparison with those of native cyt $c b { \\boldsymbol { b } } _ { 3 }$ oxidase and $\\mathrm { G 6 5 Y - C u _ { B } M b }$ at the same concentration under the typical conditions of: $\\mathrm { \\Delta N A D H }$ $2 \\mathrm { m M } ;$ cyt $b _ { 5 }$ reductase, $8 0 ~ \\mathrm { n M } ;$ cyt $b _ { 5 } ,$ 5 $\\mu \\mathrm { M } ;$ $\\mathrm { G 6 5 Y - C u _ { B } M b } ( + 6 ) ,$ ： $5 0 \\ \\mathrm { \\ n M } .$ The black arrows indicate the addition of reductant and the double arrow shows the injection of native cyt $c b { b } _ { 3 }$ oxidase. ",
+            "Figure 2. Studies of ET between cyt $b _ { 5 }$ and $\\mathrm { G 6 5 Y - C u _ { B } M b }$ or $\\mathrm { G 6 5 Y C u B M b } ( + 6 ) .$ (a)Representative stopped-flow UV-vis spectra of cyt $b _ { 5 }$ oxidation catalyzed by $\\mathrm { G 6 5 Y - C u _ { B } M b } \\left( + 6 \\right)$ and(inset） time traces atcharacteristic wavelengths.(b) Time traces of cyt $b _ { 5 }$ oxidation represented by the absorption at $5 5 6 ~ \\mathrm { { n m } }$ ，overlaid with global spectroscopic fitting (red lines). "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The construction，expression，and purification of G65Y$\\mathrm { C u _ { B } M b } ( + 6 )$ were carried out using a protocol reported previously.4 The mutations were confirmed by DNA sequencing，and the corresponding protein containing the mutations was corroborated by mass spectrometry (calculated $\\begin{array} { l } { \\mathrm { M W } } \\end{array} = \\begin{array} { r } { 1 7 4 7 7 , } \\end{array}$ ；observed $\\mathrm { M W } \\ = \\ 1 7 4 7 6 )$ .The UV-vis electronic absorption spectra of $\\mathrm { G 6 5 Y - C u _ { B } M b } \\left( + 6 \\right)$ in both the ferric and ferrous forms are similar to those of G6SY${ \\mathrm { C u } } _ { \\mathrm { B } } { \\mathrm { M b } }$ (Figure S2a）and the EPR spectrum of ferric G65Y$\\mathrm { C u _ { B } M b } ( + 6 )$ is similar to that of $\\mathrm { G 6 5 Y - C u _ { B } M b }$ (Figure S3), suggesting that the mutations cause minimal perturbation of the overall protein structure and the structure of the heme active site. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To determine the oxidase activity as measured by the rate of $\\mathrm { O } _ { 2 }$ reduction，we used an $\\mathrm { O } _ { 2 }$ -selective electrode commonly employed to monitor the catalytic activity in native oxidases.1014Ithepreeceof $8 0 ~ \\mathrm { n M }$ NADH-cyt $b _ { 5 }$ reductase, the physiological redox partner of cyt $b _ { 5 } , ^ { 1 5 }$ and $5 \\mu \\mathrm { M }$ cyt $b _ { 5 } ,$ the concentration of $\\mathrm { O } _ { 2 }$ in the presence of $5 0 ~ \\mathrm { ~ n M }$ G65Y$\\mathrm { C u _ { B } M b } ( + 6 )$ decreased rapidly (Figure Ib)，and the rate of $\\mathrm { O } _ { 2 }$ reduction was $5 2 \\thinspace s ^ { - 1 }$ .The reaction was carried out in $\\boldsymbol { 5 } \\mathrm { m M }$ potassium phosphate buffer $\\left( \\mathsf { p H } \\ 6 \\right)$ ,which has been shown to be the optimal $\\mathrm { \\tt p H }$ for $\\mathrm { O } _ { 2 }$ reduction in this and other ${ \\mathrm { C u } } _ { \\mathrm { B } } { \\mathrm { M b } }$ variants.4 The activity decreased at higher ionic strength (Figure S4)，suggesting that the ionic strength affects the electrostatic interactions between Mb and cyt $b _ { 5 } ,$ which is consistent with the results reported by Hoffman and co-workers in the similar system.16 Therefore, low ionic strength $( 5 ~ \\mathrm { m M } )$ （204号 was used in this study. Similar to $\\mathsf { G 6 5 Y - C u _ { B } M b } , ^ { \\mp }$ which has been shown to mimic copper-independent cyt bd oxidase,17 the addition of copper to $\\mathrm { G 6 5 Y - C u _ { B } M b } \\left( + 6 \\right)$ did not increase the oxidase activity.4 As a result， no copper was added to the reaction mixture.In contrast, $\\mathrm { G 6 5 Y - C u _ { B } M b }$ without the D44K/ D6OK/E85K mutations exhibited a rate of $0 . 3 \\ \\mathrm { ~ s ~ } ^ { - 1 }$ under the same conditions.Furthermore,the protein without the G6SY mutation, $\\mathrm { C u _ { B } M b } ( + 6 ) .$ ，also exhibitedalow $\\mathrm { O } _ { 2 }$ reduction rate of $8 . 1 \\ s ^ { - 1 }$ ,which affirms the importance of the G6SY mutation for oxidase activity.4 Remarkably，the $\\mathrm { O } _ { 2 }$ reduction rate of $\\mathrm { G 6 5 Y - C u _ { B } M b } \\left( + 6 \\right) \\left( 5 2 { \\mathrm { ~ s } } ^ { - 1 } \\right)$ is so high that it is similar to that of native $c b { \\boldsymbol { b } } _ { 3 }$ oxidase $( 5 0 ~ \\mathrm { ~ s ~ } ^ { - 1 } )$ measured under the same conditions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To confirm that the dramatic increase in the oxidase activity of $\\mathrm { G 6 5 Y - C u _ { B } M b } \\left( + 6 \\right)$ is due to enhanced ET,we first repeated the above experiment by systematically removing each protein component involved in the $\\mathrm { O } _ { 2 }$ reduction.As shown in Figure SS，minimal $\\mathrm { O } _ { 2 }$ reduction occurred in the absence of either NADH-cyt $b _ { 5 }$ reductase，cyt $b _ { 5 } ,$ or $\\mathrm { G 6 5 Y - C u _ { B } M b } \\left( + 6 \\right) ,$ （2号 suggesting that all three proteins are essential for the enzymatic activity.Furthermore,we monitored the oxidation of cyt $b _ { 5 }$ in the presence of either G65Y $\\mathbf { \\cdot C u _ { B } M b }$ or $\\mathrm { G 6 5 Y - C u _ { B } M b } \\left( + 6 \\right)$ through stopped-flow UV-vis spectroscopy in order to estimate the rates of ET between cyt $b _ { 5 }$ and the two Mb variants (Figure 2 and Figure S6).We first found that the ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(a) 52 0.52 ferric cyt b5:413 nm 0.39 0.39- 00.26 ferrous cyt b5:422 nm 60.26 0.13- ferrous cyt b5:556 nm A 0.00 0.2 0.4 0.6 0.8 1.0 0.13- time/s 0.00- 400 450 500 550 600 650   \n(b) wavelength/nm   \nan ggs tept psegaaen 40- autooxidation of cyt b 35 30 cyt $b _ { _ 5 }$ oxidation catalyzedby ${ \\mathsf { G } } 6 5 { \\mathsf { Y } } { \\mathsf { - C } } { \\mathsf { u } } _ { \\mathsf { B } } { \\mathsf { M } } { \\mathsf { b } }$ 25 20 cyt b,oxidation catalyzedby G65Y-Cu_Mb(+6) 15- 0.0 0.5 1.0 1.5 2.0 2.5 time/s ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "pseudo-first-order rate constant for ET between 5 $\\mu \\mathbf { M }$ cyt $b _ { 5 }$ and $\\mathrm { G 6 5 Y - C u _ { B } M b } \\left( + 6 \\right)$ increased linearly as the concentration of $\\mathrm { G 6 5 Y - C u _ { B } } \\big ( + 6 \\big )$ increased (Figure S7),13 consistent with a bimolecular reaction as observed previously.Then we used the same concentration of cyt $b _ { 5 }$ as in the oxidase activity assay （5 $\\mu \\mathrm { M } )$ but increased the concentration of the Mb variant from 50 nM to $0 . 5 \\mu \\mathrm { M } ,$ which is still a fraction of the cyt $b _ { 5 }$ concentration. The pseudo-first-order rate constant for ET between cyt $b _ { 5 }$ and $\\bar { \\mathrm { G 6 5 Y - C u _ { B } M b } } ( + 6 )$ was determined to be $\\left( 1 . 2 \\pm 0 . 2 \\right) \\times 1 0 ^ { 1 } \\ s ^ { - 1 } .$ ，which is ${ \\sim } 4 0 0$ -fold faster than that of $\\mathrm { G 6 5 Y - C u _ { B } M b }$ 0 $( 3 . 0 \\pm 0 . 5 ) \\times 1 0 ^ { - 2 } \\ s ^ { - 1 } )$ . This 400-fold increase is on the same order of magnitude as that reported by Hoffman and co-workers (180-fold increase).13 The slight difference is attributable to the differences in the Mb mutations and redox cofactors (heme vs $Z \\mathrm { n }$ porphyrin） used in the two studies. More importantly,this ET rate enhancement is similar to the rate enhancement of $\\mathrm { O } _ { 2 }$ reduction,which strongly suggests that the enhanced ET rate is responsible for the increased oxidase activity. The reduction potentials of $\\Game _ { \\mathrm { 4 6 5 Y - C u _ { B } M b } } ( + 6 )$ and $\\mathrm { G 6 5 Y - C u _ { B } M b }$ were determined to be $\\left( 1 1 5 \\pm 1 1 \\right)$ and ( $( 1 2 9 \\pm$ 5）mV，respectively，by spectroelectrochemical methods (Figure S8). Since the reduction potentials of the two mutants are similar, these results suggest that the major contributor to the increased ET rate is the enhanced electrostatic interaction between the negatively charged cyt $b _ { 5 }$ and positively charged $\\mathrm { G 6 5 Y - C u _ { B } M b } \\bar { ( + 6 ) }$ rather than a difference in the ET driving force. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To investigate whether $\\mathrm { O } _ { 2 }$ reduction in the Mb variant is a $4 \\mathrm { e } ^ { - }$ process,as in native oxidases,we measured the amount of $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ produced from the reaction using an amperometric $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ sensor.Under the same conditions as in the $\\mathrm { O } _ { 2 }$ reduction experiment shown in Figure $^ { \\mathrm { 1 b , } }$ G65Y $\\mathbf { \\cdot } \\mathbf { C u } _ { \\mathrm { B } } \\mathbf { M } \\mathbf { b } ( + 6 )$ generated $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ at a rate of $3 . 5 \\ s ^ { - 1 }$ (Figure 3a)， or $7 \\%$ of the total $\\mathrm { O } _ { 2 }$ reduced， while $\\mathrm { G 6 5 Y - C u _ { B } M b }$ produced $2 2 \\%$ $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ (Figure S1).4 Furthermore, since the NADH used in the $\\mathrm { O } _ { 2 }$ reduction experiment isa two-electron reductant,the ratio of the rate of ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e73bf3b48b49507f01f8e67cd580d6d9991f7579c849ce49e3956e33ad9603e.jpg",
+        "img_caption": [
+            "Figure 3.(a)Measurementof $\\mathrm { O } _ { 2 }$ reduction and $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ production in the $\\mathrm { O } _ { 2 }$ reduction reaction.(b） Representative kinetic UV-vis spectra of reaction solution with $1 0 0 ~ \\mu \\mathrm { M }$ NADH, sampled at $0 . 5 \\mathrm { ~ s ~ }$ intervals over $1 0 0 \\ s$ 、The inset shows NADH oxidation and oxygen reduction catalyzed by $\\mathrm { G 6 5 Y - C u _ { B } M b } \\left( + 6 \\right)$ = "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "NADH consumed in the reaction to that of the $\\mathrm { O } _ { 2 }$ reduced can be used to determine whether the $\\mathrm { O } _ { 2 }$ reduction isa $4 \\mathrm { e } ^ { - }$ process，as demonstrated in other heme enzymes.18 The NADH oxidation was monitored using the absorption at 352 nm (see Figure 3b).18 The rate of the reaction was compared with that of $\\mathrm { O } _ { 2 }$ reduction using an $\\mathrm { O } _ { 2 }$ -selective electrode under the same conditions as in Figure 3b.As shown in the Figure 3b inset, the ratio of the rate of NADH oxidation to that of $\\mathrm { O } _ { 2 }$ reduction was $1 . 9 1 \\pm 0 . 0 5$ for $\\mathrm { G 6 5 Y - C u _ { B } M b } \\left( + 6 \\right)$ .This result is consistent with the low percentage of $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ directly probed by the above electroanalytical method.Together, these two results strongly suggest that $\\mathrm { O } _ { 2 }$ reduction by $\\mathrm { G 6 5 Y - C u _ { B } M b } \\left( + 6 \\right)$ isa $4 \\mathrm { e } ^ { - }$ process that produces $_ \\mathrm { H } _ { 2 } \\mathrm { O }$ as in native oxidases.Finally, 50 $\\mathrm { \\ n M \\ G 6 5 Y { \\cdot } C u _ { B } M b } ( + 6 )$ was able to reduce $2 2 0 ~ \\mu \\mathrm { M } ~ \\mathrm { O } _ { 2 }$ in the reaction system (Figure lb)，corresponding to $> 4 4 0 0$ turnovers. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The rational design of proteins that mimic native enzymes both structurally and functionally is both exciting and challenging because nature has had millions of years to evolve enzymes to carry out complex reactions like $\\mathrm { O } _ { 2 }$ reduction. Therefore,any progress in protein design that moves closer to the properties of native enzymes is encouraging，with the ultimate goal being to match the activities of native enzymes while using the models to understand and explore potential applications.While most biochemical studies of native enzymes use site-directed mutagenesis to find residues that lower the activity of the enzyme,biosynthetic modeling seeks to uncover residues that result in a gain of function and increase the activity; the two approaches therefore complement each other. For example,while ET is known to play a critical role in oxidase activity,the exact mechanism is not well understood.A report byBrunori and co-workers indicated that the internal ET rate accounts for the turnover number and that the ET rate and turnover number display the same pH and temperature dependence.19 Another report by Fabian and co-workers provided evidence that the rate-limiting step is the initial electron transfer to the catalytic site.20 The present results using biosynthetic models strongly suggest that the rate of ET into the active site plays a critical role in increasing the enzymatic activity ina mechanism like that of a native oxidase.A related and exciting area of research is to immobilize native enzymes and their variants onto electrodes to understand the protein一 protein and protein-electrode interactions for efficient ET in applications such as biofuel cels.Im,21 Since our biosynthetic models are much smaller and more robust that native oxidases and their variants,the ability to design biosynthetic models that match the $\\mathrm { O } _ { 2 }$ reduction activity of native enzymes may open a newavenue to explore applications in biofuel cells. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In conclusion,we have succeeded in engineering $\\mathbf { M } \\mathbf { b }$ ，which nativelybinds $\\mathrm { O } _ { 2 }$ reversibly,into an oxidase that displays the $\\mathrm { O } _ { 2 }$ reduction activity of a native oxidase with a similar rate and $4 \\mathrm { e } ^ { - }$ reduction process.We achieved the goal by enhancing the ET rate through engineering of more favorable electrostatic interactions between Mb and its redox partner cyt $b _ { 5 }$ following the introduction of similar structural elements (conserved His and Tyr） from the native enzyme into Mb.By demonstrating our ability to design a protein whose activity matches that of the native enzyme,we have obtained a deeper understanding of structural features that are important for oxidase activity,which may allow engineering of artificial enzymes for biochemical and biotechnology applications such as more efficient ORR catalysts for biofuel cells. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ASSOCIATEDCONTENT ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\otimes$ Supporting Information   \nThe Supporting Information is available free of charge on the   \nACS Publications website at DOI: 10.1021/jacs.Sb07119. Experimental details of protein expression，purification, and spectroscopic characterization (PDF) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "AUTHORINFORMATION ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Corresponding Authors   \n\\*jwang@ibp.ac.cn   \n\\*yi-lu@illinois.edu   \nAuthor Contributions   \nIY.Y., C.C., and X.L. contributed equally.   \nNotes   \nThe authors declare no competing financial interest. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We gratefully acknowledge U.S.National Institutes of Health Grant GM06221 to Y.L.； grants from the Major State Basic Research Program of China (2015CB856203)，the National Natural Science Foundation of China (21325211,91313301, and 81302687)，and the Innovation Fund for Technology Based Firms（14C26211100178）as well as Tianjin Municipal Grants 14ZCZDSY00059 and 14JCYBJC43400 to J.W.；and grants from the National Natural Science Foundation of China (31270859） and the Youth Innovation Promotion Association of the Chinese Academy of Sciences to X.L.We also thank Prof.Robert B.Gennis and Prof.Alexander Scheeline for helpful discussions,Dr.Hanlin Ouyang for providing native cyt $c b { \\boldsymbol { b } } _ { 3 }$ oxidase for control experiments,and Mr.Evan Mirts for proofreading. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1)(a)Reedy,C.J.;Gibney,B.R. Chem.Rev.2004,104,617-650. (b）Ueno，T.；Abe，S.；Yokoi,N.；Watanabe,Y.Coord.Chem.Rev. 2007，2S1,2717-2731.(c)Das,R.；Baker,D.Annu.Rev.Biochem. 2008,77,363-382.(d) Lu,Y.;Yeung,N.; Sieracki,N.;Marshall,N. M.Nature 2009,460,855.(e) Heinisch,T.; Ward, T.R Curr.Opin. Chem.Biol.2010，14，184-199.(f)Kiss，G.；Celebi-Olciim，N.; Moretti, R.； Baker,D.; Houk,K.N.Angew. Chem.,Int.Ed.2013,S2, 5700-5725.(g) Zastrow,M.L.； Pecoraro,V.L. Coord. Chem.Rev. 2013,257,2565-2588.(h) Diirrenberger,M.;Ward, T.R. Curr. Opin. Chem.Biol.2014,19,99-106.(i) Petrik,I.D.; Liu,J.; Lu,Y.Curr. Opin. Chem.Biol.2014,19,67-75.(j) Zastrow,M.L.; Peacock,A. F.; Stuckey,J.A.; Pecoraro,V.L.Nat.Chem.2012,4,118-123.(k)Joh, N.H.; Wang, T.; Bhate,M.P.; Acharya,R;Wu,Y.; Grabe,M.; Hong, M.;Grigoryan,G.；DeGrado,W.F. Science 2014,346,1520-1524. (1)Kleingardner,J.G.; Kandemir,B.；Bren,K.L.J.Am. Chem. Soc. 2014,136,4-7.(m) Bachmeier,A.；Armstrong,F.Curr. Opin.Chem. Biol.2015,2S,141-151.(n) Ray,K.; Heims,F.; Schwalbe,M.; Nam, W. Curr. Opin. Chem. Biol. 2015,25,159-171. (2）(a）Fabian，M.；Skultety，L.; Jancura,D.；Palmer，G.Biochim. Biophys.Acta，Bioenerg.2004，1655，298-305.(b）Brzezinski，P.; Gennis,R.B.J.Bioenerg.Biomembr.2008,40,521-31.(c) Wikstrom, M.Biochim.Biophys. Acta,Bioenerg.2012,1817,468-75.(d) Yoshikawa, S.;Shimada,A.Chem.Rev.2015,115,1936-1989. (3）Durley，R.C.；Mathews，F.S.Acta Crystallogr.，Sect.D:Biol. Crystallogr.1996, 52, 65-76. (4) Miner, K.D.; Mukherjee,A; Gao,Y.G.; Nul, E.L.; Petrik, I. D.; Zhao,X.; Yeung,N.; Robinson,H.; Lu, Y.Angew. Chem.,Int.Ed.2012, 51, 5589-5592. (5)Yu,H.； Schulten,K.PLoS Comput.Biol. 2013,9,e1002892. (6)Kjaergaard, C.H.; Rossmeisl,J.; Norskov,J.K.Inorg. Chem.2010, 49,3567-3572. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(7)(a)Kim,E.; Chufan,E.E.; Kamaraj,K; Karlin,KD.Chem.Rev.2004,104,1077-133.(b) Collman,J.P.; Devaraj,N.K; Decréau,Ra.;Yang, Y.; Yan,Y.-L.；Ebina,W.; Eberspacher, T.a.; Chidsey, C.E.D.Science 2007,315,565-8. (c) Nagano,Y.; Liu,J.-G.； Naruta,Y.;Ikoma, T.; Tero-Kubota, S.; Kitagawa, T.J.Am. Chem. Soc.2006,128,14560-14570.  \n(8) Collman, J. P.; Ghosh, S.; Dey, A.; Decréau, R.A.; Yang, Y. J. Am.Chem. Soc.2009,131, 5034-5035.  \n(9)(a) Sigman,J.A.; Kim,H.K.; Zhao,X.; Carey,J.R.; Lu,Y.Proc.Natl.Acad.Sci.U. S.A.2003,100,3629-34.(b) Sigman,J.A.; Kwok,B.C.; Lu,Y.J. Am.Chem. Soc.2000,122,8192-8196.(c) Wang, N.;Zhao,X.; Lu,Y.J.Am.Chem.Soc.2005,127,16541-16547. (d) ZhaoX.；Nilges,M.J.; Lu, Y. Biochemistry 2005,44, 6559-6564. (e) Zhao,X.; Yeung, N.; Wang, Z.; Guo,Z.; Lu, Y.Biochemistry 2005,44,1210-1214. (f) Liu, X; Yu,Y.; Hu, C.; Zhang, W.; Lu,Y.; Wang, J.Angew.Chem.，Int.Ed.2012,S1,4312-4316.(g)Yu,Y.；Mukherjee,A.；Nilges,M.J.; Hosseinzadeh,P.; Miner,K.D.; Lu, Y.J.Am. Chem. Soc.2014，136，1174-1177. (h) Bhagi-Damodaran，A.； Petrik,I. D.;Marshall,N. M.；Robinson,H.； Lu, Y.J.Am.Chem. Soc.2014,136,11882-11885. (i) Yu，Y.；Lv，X.；Li，J.；Zhou，Q.；Cui，C.;Hosseinzadeh, P.；Mukherjee,A；Nilges,M. J.；Wang, J.; Lu,Y.J.Am. Chem. Soc.2015,137, 4594-4597.(j) Yu, Y.; Zhou,Q; Wang, L.;Liu, X.; Zhang,W.; Hu,M.; Dong,J.; Li,J.; Lv,X;Ouyang,H.; Li,H.;Gao,F.; Gong,W.; Lu,Y.;Wang, J. Chem. Sci. 2015,6,3881-3885.(10) Lee,H.J.; Gennis,R B.; Adelroth,P.Proc.Natl.Acad. Sci. U. S.A. 2011,108,17661-17666.  \n(11)Ferguson-Miller,S.; Babcock,G.T.Chem.Rev.1996,96,2889-2908.  \n(12)(a) Decreau,R.A.; Collman, J.P.; Hosseini, A. Chem. Soc. Rev.2010,39,1291-1301. (b) Sengupta, K.；Chatterjee, S.； Samanta, S.;Dey,A. Proc.Natl.Acad.Sci. U. S.A. 2013,110,8431-8436.  \n(13) (a) Nocek,J. M.; Knutson,A.K; Xiong,P.; Co,N.P.; HfmanB.M.J. Am. Chem. Soc.2010,132,6165-6175.(b) Xiong,P.; Nocek,J.M.; Vura-Weis,J.; Lockard,J.V.;Wasielewski,M.R; Hoffman,B.M. Science 2010,330,1075-8.  \n(14)Pawate,A. S.; Morgan, J.; Namslauer,A.； Mils,D.; Brzezinski,P.； Ferguson-Miller,S.； Gennis,R.B. Biochemistry 2002,41,13417-13423.  \n(15）(a) Takesue,S.； Omura,T.J.Biochem.1970,67,267-276.(b) Livingston, D.J.; McLachlan, S.J.; La Mar, G.N.; Brown,W. D.J.Biol. Chem.1985,260,15699-15707.  \n(16)Wheeler,K. E.； Nocek, J.M.；Cull,D.A.；Yatsunyk,L.A.;Rosenzweig,A. C.；Hoffman,B. M. J. Am. Chem. Soc.2007，129,3906-3917.  \n(17)Hill,J.J.; Alben,J. O.; Gennis,R.B.Proc.Natl. Acad. Sci. U. S.A.1993, 90, 5863-5867.  \n(18) Grinkova, Y. V.; Denisov, I. G.； McLean, M. A.； Sligar, S. G.Biochem.Biophys.Res. Commun.2013,430,1223-1227.  \n(19)Malatesta,F.； Sarti,P.；Antonini, G.； Vallone,B.；Brunori, M.Proc.Natl.Acad. Sci. U. S.A. 1990,87, 7410-7413.  \n(20) Jancura,D.;Antalik,M.; Berka,V.; Palmer, G.; Fabian,M.J. Biol.Chem. 2006,281,26768.  \n(21) (a) Cracknel,J. A.; Vincent, K. A.; Armstrong,F. A. Chem. Rev.2008,108,2439-2461.(b) Bren，K.L. Interface Focus 2015，5,20140091.(c) Fukuzumi, S. Curr. Opin. Chem. Biol. 2015,25,18-26.",
+        "page_idx": 3
+    }
+]

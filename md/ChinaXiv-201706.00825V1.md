@@ -1,0 +1,190 @@
+# DOI: 10.5846/stxb201612132562
+
+王军,钟莉娜.景观生态学在土地整治中的应用研究进展.生态学报,2017,37（12)：3982-3990.  
+WangJ,otdtctlofddoctaoc：3982-3990.
+
+# 景观生态学在土地整治中的应用研究进展
+
+# 王军1，\*,钟莉娜1,2
+
+1国土资源部土地整治中心土地整治重点实验室，北京100035  
+2中国地质大学(北京)土地科学技术学院，北京100083
+
+摘要;在土地整治中融人景观生态学理念是推动土地整治生态建设的必然要求。阐述了土地整治中的景观生态学原理,分析了相关文献变化和研究重点,总结了中国土地整治中的景观生态学研究现状,提出了土地整治中的景观生态学研究展望：（1)重视土地整治中景观生态学的基础理论研究,构建土地整治的景观生态学理论与技术体系;(2)加强土地整治的景观动态与生态效应机制研究,建立适用土地整治景观生态影响的方法和模型;（3)强化土地整治的多尺度和长序列景观生态研究,揭示土地整治过程中的尺度效应和多尺度耦合机制;(4)加强土地整治中多种生态系统服务的集成与优化,强化用于指导土地整治生态规划设计与管理工作,以期为深化土地整治中的景观生态学研究提供借鉴和启示。
+
+关键词：土地整治；景观生态效应；生态系统服务；生态安全
+
+# Current status and prospects for practical research of landscape ecology in land consolidation
+
+WANG Jun1,\*， ZHONG Lina1,2 1KeyLaboratoryofLandConsolidationandRehabilitation，MinistryofLandandResources，Beijing10oo35,China 2School ofLand Science and Technology，China UniversityofGeosciences，Beijing 1Ooo83,China
+
+Abstract：Thelandconsolidation project in Chinawas initiatedinthelate199Osandlargelyimplementedafter 208.It was regarded asoneofthelargest human-induced land-usechange projects that have had profound efectsonlocal andregional ecosystems.However，in comparison with the studies in developed countries，studies from the practical perspectiveof landscapeecology inthelandconsolidationprojectionsarequite limitedin China.Itisnecessarytointegrate theconceptof landscape ecology into land consolidation practices to promote the constructionof ecologicalcivilization.Landscape ecology inlandconsolidation has becomean important partofthe practicesof landscape ecologyin China.This paper elaborated the principles of landscapeecology in land consolidation，analyzed thequantityofliteratureandthe mainhotspots of he application of landscape ecology inlandconsolidation practices，and provided abrief overviewof current research in China. Our findings revealed thatcurrently，research on theapplicationof landscape ecology to landconsolidation in China is facing unprecedented development opportunities and also severe challnges.Thus，we put forward four developmental strategies for practicallandscapeecologyresearch inland consolidationas folows:（1）Promotethe studyof the basic theories of landscape ecologyin landconsolidation，and constructrelated theoryand technology systems.Summarize he theories of landscapeecologyaccording tothecharacteristicsofthelandconsolidationprojects，recognizelandscape-level ecologicaleffectsof diferentlandconsolidationmethods，anddevelopandimplementlandconsolidation planning，whichis morein linewith ecological civilization.（2）Enhance the studyof the mechanismof landscapeecologyin land consolidation，and establish methodsand modelsof the landscape ecological impactof landconsolidation.Explore energy, physical，and biological proceses byestablishing long-termobservation parcels inthelandconsolidationarea；analyze the mechanism of theimpactof landconsolidationonecologicaleffects.Then，establishamodel toquantifytheimpactof land consolidationonecological processes.（3）Strengthen themulti-scaleand long-term studyof landscapeecology in land consolidation，and reveal itsscale efectand multi-scale coupling mechanism.Conduct long-term observationsand experiments on project scale，establish a scientific field experiment and data analysis program atthe vilage，county，and regional scale，and conductanalysisof scaleefectand multi-scale coupling through model simulationand precision verification.（4）Emphasize integrationand optimizationresearch inanalyzing multiple ecosystemservicesof land consolidation inorder toguideecological planning，design，and managementof landconsolidation.Disclose theecosystem services valueoflandconsolidation areas basedonthe models ofInVESTand ARIES,among others,andreveal the changes in ecosystemservicevalues beforeand after theland consolidation project with thesupportof MatlabandArcGISsoftware platforms to evaluate the efectoflandconsolidation ontherelationships among supplyservices，support services，regulatory services，and cultural services. S
+
+Key Words: land consolidation； landscape ecological effect；ecosystem service；ecological security
+
+景观生态学是一门由生态学、地理学、环境科学、资源科学、管理科学等多学科交叉的学科,运用生态系统原理与系统学方法研究景观的结构与功能、景观动态变化及其相互作用,研究景观的美化格局、优化结构、合理利用与保护[1-2]。土地整治是对土地资源的再组织和再优化,是缓解人地矛盾,实现社会、经济、资源和生态可持续发展的基础。德国土地整治历史悠久,早期的土地整治以改善耕地条件为主要目标。20 世纪 70 年代,随着土地退化、环境污染和景观受损等生态问题的出现,荷兰、德国等发达国家将景观生态保护等内容纳入土地整治的目标,并形成了较为科学的认知、理念和管理方法[3]。在荷兰,《土地整理条例》明确要求采取必要的措施保护土地景观。德国的土地整治特别重视土地整治对景观生态的保护,土地整治中包括环境与自然保护项目,强调土地整治与整治区的自然生态环境相适应,防止对景观的持久改变和破坏。德国强调土地整治过程中要注重生态环境和土地文化的保护与发展,并要同本地区的生态平衡和更大区域乃至国家的发展规划紧密衔接,体现生态、协调、发展与共享的发展理念[4]。世界发达国家的土地整治呈现出明显的景观生态保护和多功能协调的发展趋势。
+
+中国 20 世纪90年代后期正式提出并开始运作土地整治,特别是2008 年以来,土地整治工作纳入党中央层面的战略布局,开始大规模实施土地整治。土地整治已成为中国当前最大规模改变土地利用和生态系统的人类活动之一,深刻影响着项目区乃至区域的景观生态环境[5-7]。与发达国家相比,中国土地整治中的景观生态研究相对滞后。在土地整治中融入景观生态学的理念,推动土地整治的生态转型,是对传统土地整治理论的发展，也是推动生态建设的必然要求。
+
+本文总结了中国土地整治中景观生态学的研究现状,并在此基础上对土地整治中景观生态学研究的发展趋势予以展望,以期为深化土地整治中的景观生态学研究提供借鉴和启示。
+
+# 1土地整治中的景观生态学原理
+
+土地整治是景观生态学的重要应用领域之一,二者之间有许多相通之处。（1)研究对象有交叉。土地整治的研究对象是土地,景观生态学的研究对象是景观。土地是指地球表层的陆地部分及其以上、以下一定幅度空间范围内的全部环境要素,以及人类社会生产生活活动作用于空间的某些结果所组成的自然一经济综合体。景观由相互作用的生态系统镶嵌体构成,并以类似形式重复出现具有高度空间异质性的区域,景观是土地的具体一部分,两者都具有地域综合体和尺度的含义[8]。（2)研究方法有重叠。景观生态学作为地理学和生态学的交叉学科,景观生态学的研究方法主要是地理学的空间分析法与生态学的模型构建法。而地理学的空间分析法与生态学的模型构建法也是分析土地整治的景观生态效应的重要方法。（3)研究目标相似。景观生态学的目标是研究景观的美化格局、优化结构、合理利用与保护,实现景观利用的优化组合和可持续；在生态文明建设的背景下,土地整治是优化土地利用格局、保护土地资源、保障粮食安全、促进生态建设的基础平台和重要手段[9]。
+
+与土地整治相关的景观生态学原理主要体现在;基于景观结构空间镶嵌性理论即景观的“斑块-廊道-基质"理论,分析土地整治导致的景观结构空间变化;基于景观系统的整体性与异质性理论,分析土地整治引起的景观时空异质性;基于景观格局与生态过程相互关系以及尺度效应理论,研究土地整治引起的土地利用格局和生态过程变化以及尺度耦合机制;基于景观生态安全理论、岛屿生物学理论和复合种群理论等,进行土地整治的生态评价和景观安全格局构建。景观生态学原理在土地整治的生态效应、土地整治的景观生态规划设计及土地整治的生态安全研究等方面应用广泛。
+
+# 2文献分析
+
+土地整治曾用过“土地整理”“土地开发整理"或“土地整理复垦开发”的概念,为避免概念名词的混乱，本文将涉及到“土地整理”、“土地开发整理”或“土地整理复垦开发”之处统一为"土地整治”。本文以中国学术期刊全文数据库(CNKI)为文献检索平台，分别以“关键词 $\ c =$ 土地整治&景观”和"关键词 $\mathbf { \sigma } = \mathbf { \sigma }$ 景观”作为检索项,检索时段从2000年开始至2016年12月。以往中国对土地整治中的景观生态学关注较少,2000年以来，中国景观生态学蓬勃发展,从发展和思索阶段全面进人独立思考和创新阶段[10],景观生态学的发展推动了土地整治中景观生态学研究的发展。分析图1发现,景观生态文献数量和土地整治中的景观生态学文献数量整体上均呈现上升趋势,土地整治中的景观生态学文献数量占景观生态文献数量的比例由 2000 年的 $3 . 1 7 \%$ 上升到2016年的 $1 0 . 3 6 \%$ ,土地整治中的景观生态学研究已成为中国景观生态学的重要组成部分。从图中可以看出,2008 年以后土地整治中的景观生态学文献数量明显增多。土地整治初期,更多重视粮食生产能力的提高,对土地整治中的景观生态研究关注不足。但随着人们对土地整治生态环境效应的关注,景观生态学在土地整治研究中的应用越来越广,土地整治中景观生态学研究的文献数量也逐年增加。专家学者重点研究了土地整治对景观格局[-12]、生物多样性[13-16]等要素的影响以及土地整治的生态规划设计[17-19]等内容,近年来,从生态系统服务的角度探讨土地整治生态效应的研究也越来越多[20-24]。土地整治景观生态研究指出并改进了传统土地整治理念和方法的不足,为生态型土地整治规划设计和模式的实施提供了科学依据。
+
+![](images/bd1900c534fa7b45d9954952835c727497007d5a3362923c79901bbe7b4ba2cf.jpg)  
+图12000—2016年文章发表情况  
+Fig.1Trends of articles from 2ooo to 2016
+
+# 3景观生态学在土地整治中的应用
+
+# 3.1土地整治的景观生态效应研究
+
+# 3.1.1 土地整治与景观格局
+
+景观格局主要指构成景观的生态系统或土地利用/土地覆被类型的形状、比例和空间配置[25]。景观格局既是景观异质性的重要表现,又是各种生态过程在不同尺度上作用的结果[26]。土地整治的实施必然会引起项目区景观斑块、基质、廊道的显著变化。斑块数、斑块密度、边界密度、分维数等斑块特征指数和丰富度、优势度、Shannon 多样性等景观异质性指数是定量描述景观格局变化的重要方法[7.1,27-29],在土地整治对景观格局影响的研究中应用广泛[30]。相比国内研究,除斑块特征指数和景观特征指数等景观格局指数之外,国外学者还针对土地整治工程的特点结合6种几何参数建立了地块形状指数以分析土地整治对景观格局的影响用来指导土地整治规划[31]。土地整治是短期内对土地利用的强烈扰动,与长期缓慢的景观格局变化存在差异。因此,针对土地整治工程的特点建立相应的景观格局指数是实现土地整治中景观格局与生态过程耦合的关键。
+
+# 3.1.2土地整治与生态系统服务
+
+土地整治对生态系统的影响既有正向的也有反向的,既有可逆的也有不可逆的。因此,土地整治对某一种或多种生态因子的评价难以全面客观地评价土地整治对景观生态的影响。土地整治对生态系统服务影响的研究是在自然等级组织理论、景观异质性理论、协同与权衡关系理论等的指导下,基于生态系统服务开展土地整治对土壤、植被、水、生物多样性等生态因子影响的综合权衡与评价[32],可以直接反映土地整治对生态环境的综合影响,进而指导土地整治实践。
+
+(1)土地整治对生态系统服务的影响。土地整治通过增加耕地面积[334]、改善农业生产条件[35]、优化农业生产结构、改善生态环境以提高粮食抵御自然灾害的能力来保证耕地的粮食供给能力[3-38]。土地整治工程中的道路或者沟渠的物理硬化工程以及基础设施的建设会导致项目区地表温度的升高;农田防护林能够减缓风力,避免农作物直接接触强风,有利于花粉的传播。土地整治对水质、小气候调节功能[24],动植物物种丰富度[39-40],渗透、深渗透和地表径流等水文过程,区域水资源配置和水环境的质量等生态系统调节服务均有明显的影响[41-42]。另外,中国近年来推行的生态型土地整治更重视乡村景观特征的提升、乡村休闲旅游的发展以及乡村基础设施与生活条件的改善,土地整治成为提高乡村景观审美、促进乡村娱乐和生态旅游的重要手段[43]，对提高项目区的文化服务具有重要意义。
+
+由于生态系统服务动态模型在空间分析、评估精度等方面的优势,国外研究在分析土地整治对生态系统服务影响时多采用 InVEST（Integrated Valuationof Ecosystem Services and Tradeofs）、ARIES（Artificialintellgence for ecosystem services）、MIMES(Multiscale integrated Earth Systems model)等模型[446]。与国外研究相比,国内采用生态系统服务动态模型分析土地整治对生态环境影响的研究较少[47],市场价格法、影子价格法、单位面积生态服务价值系数法等仍是分析土地整治对生态系统服务影响的主要方法[24,4852]（表1）。土地整治中的生态系统服务评估多是基于土地整治引起的土地利用变化评价土地整治前后生态系统服务价值变化,尚需针对土地整治的特点对模型进行修订,以提高模型评估土地整治生态系统服务价值变化的精度。
+
+(2)土地整治对不同生态系统服务之间关系的影响。土地整治对土地利用结构或格局的改变会直接造成生态系统服务之间的空间竞争，或间接影响多种服务类型之间的因果关系，从而引起多种生态系统服务之间权衡关系的改变。但在有些土地整治实践中，一些多功能的自然和半自然的生态系统被转变为农作物生产功能较为突出的农田,重视生态系统的经济效益,忽视了其他服务[53]。目前土地整治对生态系统服务影响的研究多以分析土地整治前后生态系统服务价值变化为主要内容[54-55],分析土地整治对多种生态系统服务之间关系影响的研究较少,情景分析法是中国较常采用的生态系统服务权衡与协同分析方法[56]（表1)。在协同与权衡关系、自然等级组织等理论的指导下,基于情景分析法、图形比较法等方法探究土地整治与多种生态
+
+# 系统服务之间的权衡与协同关系,对通过土地整治实现各项生态系统服务的共赢具有重要意义。
+
+Table1 Research on ecosystem services in land consolidation   
+
+<html><body><table><tr><td>主要内容 Main contents</td><td>景观生态学原理 Principles of landscape ecology</td><td>研究方法 Research methods</td><td>文献 References</td></tr><tr><td>土地整治对生态系统服务的影响</td><td rowspan="4">自然等级组织理论、景观异质性 理论等</td><td>替代法、市场定价法、影子价格</td><td rowspan="4">[48-50] [51-52]</td></tr><tr><td>The impact of land consolidation</td><td>法等 生态系统服务价值系数法</td></tr><tr><td>on ecosystem services</td><td></td></tr><tr><td>InVST模型 对比分析法</td><td>[47]</td></tr><tr><td>土地整治对生态系统服务之间关系的影响 The impact of land consolidation on the</td><td>协同与权衡关系理论、自然等级 组织理论等</td><td></td><td>[24,48-49,54-55]</td></tr><tr><td rowspan="2">relationship among ecosystem services</td><td rowspan="2"></td><td>情景分析法</td><td rowspan="2">[56]</td></tr><tr><td></td></tr></table></body></html>
+
+# 3.1.3土地整治对景观生态影响的尺度效应
+
+景观生态学研究必须考虑尺度的作用,某一尺度上得到的概括性结论必须经过尺度转换研究才能推广到另外一种尺度上应用。土地整治对景观格局和生态过程影响的研究具有较强的尺度依赖性。景观生态学中，尺度多以小区、斑块、景观、区域等为研究尺度,但在土地整治的景观生态研究中主要以村域或项目区[57-59]、县域[51,0-62]、市域[63-65]和区域[59,6-6]等作为研究尺度（表2）。中国土地整治对项目尺度的研究最多,其次是对县域和市域尺度的研究[32]。严慎纯[68]、张贞[69]等通过多尺度对比分析发现,不同尺度上,土地整治景观生态效益的研究结果并不一致。因此,某一尺度上土地整治生态效应的研究结果并不能直接应用到其他尺度。针对土地整治研究尺度的特点探索不同尺度上景观生态效益的耦合机制对建立普适性的指标体系或模型,开展多尺度耦合研究具有重要意义。
+
+表1土地整治中的生态系统服务研究  
+表2土地整治中的景观尺度研究  
+Table 2Study on landscape scale effects in land consolidation   
+
+<html><body><table><tr><td>主要内容 Main contents</td><td>景观生态学原理 Principles of landscape ecology</td><td>研究方法 Research methods</td><td>研究尺度 Research scales</td><td>文献 References</td></tr><tr><td rowspan="4">土地整治对景观生态影响的尺度尺度效应理论，自然等级 效应研究 The scale impact of land consolidation on landscape</td><td rowspan="4">组织理论等</td><td>替代法、市场定价法、生态系统 服务价值系数法、多尺度对比等</td><td>项目区和村域尺度</td><td>[57-59]</td></tr><tr><td></td><td>县域</td><td>[51,60-62]</td></tr><tr><td></td><td>市域尺度</td><td>[63-65]</td></tr><tr><td></td><td>区域尺度 多尺度</td><td>[59,66-67] [68-69]</td></tr></table></body></html>
+
+# 3.2土地整治中的景观生态规划设计
+
+基于景观生态学的土地整治规划设计是指运用景观生态学的相关原理,通过对原有景观要素进行优化整合或引人新的景观要素,调整或构建更加合理的景观格局,优化景观的生态、美观等功能[70-72]。基于景观生态学的土地整治规划设计与土地整治初期的规划设计,在模式设计的思路与工程设置方面存在明显差异。最初的土地整治规划设计对景观设计和生态保护注重不足,追求“田成方、路成网、渠相通、树成行"的标准化建设问题,导致了土地整治项目区景观类型的单一化和景观格局的重复化[73]。基于景观生态学的土地整治规划设计以格局一过程理论、景观生态安全理论及景观异质性等理论为基础,其目标具有明显的景观性、生态性和综合性特征,能够有效改善项目区生态系统的功能,提高生态系统的生产力和稳定性。大尺度（国家和省级)上的土地整治更多的是规划层面的控制和制约,即在自然生态环境不受危害的前提下,分析项目区的后备资源、水土资源等,确定土地整治的重点区域以及重大工程布局;中尺度(市、县)的土地整治工程在大尺度
+
+http ://www.ecologica.cn
+
+确定的土地整治重点区域以及重大工程布局的基础上,对土地整治项目的空间布局进一步细化,使之更符合当地经济发展的需求和自然环境特征;小尺度(项目区和田块)上土地整治的重点是在提高土地综合生产力的同时,对整治区生物组合与空间配置技术及其综合集成体系进行设计,例如土地整治区农田防护生态工程的设计、生物栖息地保护工程设计、自然景观生态工程设计等[74-75]（图2）。为尽量降低土地整治对生态环境带来的负面影响,土地整治的景观生态规划设计要围绕改善生态环境的核心目标,重视景观格局重构、生态功能重建和乡村污染控制。
+
+![](images/287f9429465d4083a8d7754e8bc4bbdbf7ccbb9080fd2182496b072f3589db1d.jpg)  
+图2土地整治景观生态规划设计的内容  
+Fig.2Contents of landscape ecological planning and design of land consolidation
+
+# 3.3土地整治中的景观生态安全研究
+
+生态安全包含两重含义，一方面是生态系统自身的安全,即在外界因素作用下生态系统是否处于不受或少受损害或威胁的状态,并保持功能健康和结构完整;另一方面是生态系统对于人类的安全,即生态系统提供的服务是否满足人类生存和发展的需要[767]。土地整治与生态安全之间的关系是一种措施与目标之间的关系。在生态环境脆弱区,土地整治的主要目标是保障区域生态安全,而生态安全目标的实现依赖于土地整治的各项措施。土地整治通过土地利用结构调整(退耕还林还草等)、土地整治工程(坡改梯等)、土地产权调整(将天然林保护区的土地征为国有等)影响项目区的生态安全(图3）。可持续农业被视为是一项既能提高环境质量、节约自然资源、维护生态安全,又能满足日益变化人类需求的管理措施。国外土地整治中的景观生态安全研究多集中在农业可持续性研究方面,环境可持续性指数、农业可持续发展指数等是进行农业可持续评价的重要方法[79]。与国外研究相比,国内土地整治中的景观生态安全研究仍处于起步阶段,研究主要集中在土地整治对生态安全评价与生态安全格局构建方面。生态安全评价模型较多,但缺少针对土地整治生态安全评价的原创性模型。
+
+# 4中国土地整治中的景观生态学研究展望
+
+中国的景观生态学研究已走上了影响和引领国际景观生态学发展的舞台[10]。景观生态学的发展有力的促进了中国土地整治中的景观生态学研究。中国地域辽阔、地形复杂多样,并且从2008年开始大规模推行土地整治,为土地整治中的景观生态学研究提供了丰富多样的区域和案例。同时，“大力推进生态文明建设”的战略决策也为土地整治中的景观生态学发展提供了良好的契机。中国学者对土地整治中的景观生态学研究进行了诸多有益的探索,未来中国土地整治中景观生态学研究的主要方向为：
+
+(1)重视土地整治中景观生态学的基础理论研究,构建土地整治的景观生态学理论与技术体系。在吸收借鉴景观结构的空间镶嵌性、景观异质性、格局与过程关系、尺度效应和景观生态安全等景观生态学理论的基础上,针对土地整治的工程特点,全面研究不同尺度土地整治引起的景观格局与生态过程变化,揭示二者之间的关系和耦合机制,开展土地整治景观生态规划设计和景观生态工程建设研究,研发和集成土地整治生态工程技术,构建和形成土地整治的景观生态学理论与技术体系。
+
+![](images/8052dd41d8ffd546df1388a0afa6464ff0b0f4f1b4e47738f16c85f33d021347.jpg)  
+图3土地整治与生态安全的关系（根据杨庆媛修改后重绘[78]  
+Fig.3The relationship between land consolidation and ecological security
+
+(2)加强土地整治中的景观动态与生态效应机制研究,建立适用土地整治景观生态影响的方法和模型。土地整治是在短期内有目的的通过工程、生物等措施深刻改变景观格局和生态过程的工程,需要针对土地整治工程特点选取景观格局指数、景观过程评价以及评价标准,定量研究土地整治中的能量、物质和生物流过程,深入分析土地整治对景观生态的影响机制,并在此基础上建立土地整治对景观生态影响的方法和模型,这对推动生态型土地整治规划设计、实现区域经济-社会-生态的协调可持续发展具有重要意义。
+
+(3)强化土地整治的多尺度和长序列景观生态研究,揭示土地整治过程中的尺度效应和多尺度耦合机制。与景观生态研究中的小区、斑块、景观、区域等研究尺度不同,土地整治研究通常以项目区、村域、县区和区域等作为研究尺度,通常会涉及到社会经济因素。而且,土地整治实施对整治区景观的影响不仅仅是景观结构和数量的变化,更重要的是景观过程和功能的变化。土地整治实施后,土壤水文过程、植物种类等处于动态变化中,其生态效应需要长期定点观测和分析的积累。因此,根据土地整治工程尺度划分的特点,在项目区尺度上开展长期定点的观测与实验,在村域、县域、区域等尺度上结合土地整治项目实施方案、野外采样、遥感影像以及社会经济数据等,构建科学的取样方法和数据分析方案,通过模型模拟揭示土地整治过程中的尺度效应和多尺度之间的耦合机制与规律。
+
+(4)加强土地整治中多种生态系统服务的集成与优化,强化用于指导土地整治生态规划设计与管理工作。加强土地整治中的多种生态系统服务之间的权衡与协同关系研究,基于InVEST、ARIES 等生态系统服务模型评估土地整治区的生态系统服务价值,结合图形比较法、情景分析法和模型模拟等方法在 Matlab、ArcGIS等软件平台的支持下,分析不同区域土地整治对不同生态系统服务的冲突与协同关系,开展整治区和区域的生态系统服务集成与优化,服务于土地整治区的景观生态规划设计和区域的土地整治项目时空配置,促进土地整治的健康有序发展。
+
+# 参考文献（References）：
+
+[1]TurerMG.Landscapeecology:theefectofpatemonprocessAnualReviewofEcologyandSystematics，989,20:71-197.  
+[2]Turner MG.Landscape ecology in North America:past，present，and future.Ecology,2005,86(8）：1967-1974.  
+[3]VitikainenA.AovervieofndcosoldationinEurope.NodicJoualofSurveyingndRealEstateResearch,O14,（)：-44.  
+[4］叶红玲.我们如何理解现代意义的土地整治？——霍尔格·马格尔教授访谈录.中国土地，2016,（5）：4-7.Tianmen City of Hubei Province，China.Land Use Policy，2014，4O：74-82.  
+[6］王军，严慎纯，白中科，余莉，郭义强.土地整理的景观格局与生态效应研究综述.中国土地科学,2012，26（9)：87-94.  
+[7] 杨晓艳，朱德举，郧文聚，程锋.土地开发整理对区域景观格局的影响.农业工程学报，2005，21（9)：67-71.  
+[8] Wu JG.Landscape ecology，cross-disciplinarity，and sustainability science.Landscape Ecology，2006,21（1)：1-4.  
+[9] CayT,Uyan M.EvauatiofrealocatiociteriainlandosolidationsuiesusingtheAalyticerarcyProcss（AH)LandUePolicy,2013，30(1): 541-548.  
+[10] 陈利顶，李秀珍，傅伯杰，肖笃宁，赵文武.中国景观生态学发展历程与未来研究重点.生态学报，2014，34（12)：3129-3141.  
+[11] 宁秀红，赵敏.土地整治驱动下土地利用和景观格局变化研究——以上海市合庆镇为例.长江流域资源与环境，2016,25（1）：79-87.  
+[12] 王皓玥，师学义，钱铭杰.土地整治视角下流域土地利用变化研究综述.中国人口·资源与环境，2016，26(S1)：190-193.  
+[13] 罗文斌，吴次芳.农村土地整理项目绩效评价及影响因素定量分析.农业工程学报,2014，30(22)：273-281.  
+[14]YuQW,ZengQ，YuGM.TheifuenceoflandconsolidationonioassandecologicalenviroentResearchJoualofApledSciencEngineering and Technology，2014，7（17）：3656-3662.  
+[15] ZhangQQ,LuoH,anJItegatigivesityoseatiointondosolidatioinillreasasestdyinsoutesiactaEcologica Sinica,2012,32(6):274-278.  
+[16]陈浒，熊康宁，刘忠斌，邱杰，陈永毕，肖时珍，杨洪.基于生物多样性保护的河头喀斯特土地整理探索.地球与环境，2011，39（4)：450-455.  
+[17] LiuYS,GuoYJ,iYR,LiYH.Gbasedefetaessmentofsilrosionbeforeandafergullandconsoidation:aasesdyofWangjiagou project region，Loess Plateau. Chinese Geographical Science，2015,25(2）：137-146.  
+[18] 唐秀美，任艳敏，潘瑜春.基于景观格局与限制性因素分析的土地整治规划设计.北京大学学报：自然科学版，2015,51（4)：677-684.  
+[19] 张文瑞.土地生态化整治与农业景观设计实证研究.中国农业资源与区划，2016，37(4)：224-227.  
+[20] 王军，严慎纯，余莉，张亚男.土地整理的生态系统服务价值评估与生态设计策略- 以吉林省大安市土地整理项目为例.应用生态学报，2014，25(4)：1093-1099.  
+[21] 刘世梁，安南南，王军.土地整理对生态系统服务影响的评价研究进展.中国生态农业学报，2014，22（9)：1010-1019.  
+[22] 李正，王军，白中科，郭义强，余莉.贵州省土地利用及其生态系统服务价值与灰色预测.地理科学进展,2012,31（5)：577-583.  
+[23] 郭贝贝，金晓斌，林忆南，杨绪红，周寅康.基于生态流方法的土地整治项目对农田生态系统的影响研究.生态学报，2015，35（23)：7669- 7681.  
+[24] 王思又.基于生态系统服务价值理论的土地整治生态效益评价[D].武汉：华中师范大学，2013.  
+[25] 傅伯杰，陈利顶，王军，孟庆华，赵文武.土地利用结构与生态过程.第四纪研究，2003，23（3)：247-255.  
+[26] Turner MG,Gardner R H,O'neillRV.Landscape Ecology in Theory and Practice.New York：Springer-Verlag,2001.  
+[27] 刘勇，吴次芳，岳文泽，叶艳妹.土地整理项目区的景观格局及其生态效应.生态学报，2008，28（5)：2261-2269.  
+[28] WangJ，YanS,GoQiJSunGQeectsofndosolidatiootholgicaloctityadoeosteseriuecase studyof Da'anlandconsolidation projectin Jilinprovince.Journalof Geographical Sciences，2O15,25（5）：603-616.  
+[29］蒋良群，翟有龙，舒成强，王佑汉.四川丘陵地区土地整理项目景观格局变化分析——以仪陇马鞍镇南海村土地整理项目为例.资源开发与市场，2013，29（9)：985-988.  
+[30]安晨，刘世梁，李新举，邱杨.景观生态学原理在土地整理中的应用.地域研究与开发，2009，28(6)：68-74.  
+[31] DemetriouD,eeL,StillellJ.Aparcelshapeidexforuseinlandconsoidationplaing.TansactionsinG01,7(6)：6-882  
+[32] 王军，钟莉娜.中国土地整治文献分析与研究进展.中国土地科学，2016,30(4)：88-96.  
+[33] 陈百明，谷晓坤，张正峰，周小平，柴铎.土地生态化整治与景观设计.中国土地科学,2011，25(6)：10-14.  
+[34] 张正峰，刘静，耿巧丽.土地整治中的生态问题及安全调控机制.江西农业学报，2011，23（11)：196-199.  
+[35] 王军,顿耀龙，郭义强，窦森.松嫩平原西部土地整理对盐渍化土壤的改良效果.农业工程学报，2014，30(18)：266-275.  
+[36] Li $\mathrm { ~ \AE ~ C ~ }$ ，Chen ZJ,LiFX.Land consolidation；an approach for sustainable development inrural China.Ambio,2011,40（1)：93-95.  
+37 VialaE.WaterffoatefoifopsietofateagtiuevdelEartddInterationalWateragntIstute,oo13：97-46rgatioadDageStes，08，22（：9.  
+[38］吴昊.东北土地整理与国家粮食安全.中国土地，2014，（5）：38-39.  
+[39]FirbankL,BradburyRB，cCrackenD,StoateC.DeliveringmultilecosystemservicesfromEnclosedarmlandintheUKgiculure,Ecosystems & Environment，2013,166：65-75.  
+[40]StylesD,Bresson,D'hertefed,irhoerK，DberJ，das,atilagella,PeterssonLBeckP,VeekuteRosenqvistH.Climateegulation，enerprovisiongandwaterpurifction：quantfingosstmsviceeliveryofboeergywilowgowonriparian bufer zones using life cycle assessment.Ambio,2016,45(8）：872-884.  
+[41]BronstertA，VlerSngerJevieoftpctfndcosatiouoffpructiondinginGyicd  
+[42］罗明，张惠远.土地整理及其生态环境影响综述.资源科学，2002，24(2）：60-63.  
+[43]郧文聚，宇振荣.中国农村土地整治生态景观建设策略.农业工程学报，2011,27(4)：1-6.  
+[44]Ruckelsus,ckenieE，Talls,uerrA,DilyG,KareivaP,PlaskS,ickes,agabatiN，WoodS,errdtfrthefield:lesonsaedfrousingeossteseviceappoachstoifoeal-worlddecisios.EcologicalEonoics，15,1：-1.  
+[45]LehMDK,atD,mnEC,NallyLLQuanifmaingmecosecgeinestAfaclu,Ecosystems & Environment,2013,165: 6-18.  
+[46]MaS,DuganJM,EichelbergerBA，McNallBW,FosterJR，PepiE，ConteMN,DailyGC，ZivG.Valuationofecosystemservicestoinform management of multiple-use landscapes.Ecosystem Services，2016,19:6-18.  
+[47]钟莉娜，王军.基于InVEST模型评估土地整治对生境质量的影响.农业工程学报，2017，33(1)：250-255.  
+[48] 王瑷玲，刘文鹏，纪广韦，李英.山东低山丘陵土地整治区耕地生态价值评价.农业工程学报，2013，29(S1)：244-250.  
+[49] 张正峰，王琦，谷晓坤.秀山自治县土地整治生态系统服务价值响应研究.中国土地科学，2012,26(7)：50-55．  
+[50] 张贞，高金权，杨威，魏朝富.土地整理工程影响下农业生态系统服务价值的变化.应用生态学报，2010,21（3)：723-733.  
+[51] 洪娟，李正.土地整治生态系统服务价值变化研究——以霍城县北山沟灌区萨尔布拉克镇土地整治项目为例.中国国土资源经济，2016,29(8) : 48-53.  
+［52］顿耀龙，王军，白中科，陈晓辉，郭义强.基于灰色模型预测的矿区生态系统服务价值变化研究- 以山西省平朔露天矿区为例.资源科学，2015，37(3)：494-502.  
+[53] 傅伯杰，张立伟.土地利用变化与生态系统服务：概念、方法与进展.地理科学进展，2014，33(4)：441-446.  
+[54] 唐秀美，潘瑜春，郝星耀，刘玉．中国耕地整治生态潜力测算方法.农业工程学报，2015,31（17)：270-277.  
+[55] 赵微，闵敏，李俊鹏.土地整理区域生态系统服务价值损益规律研究.资源科学，2013，35（7)：1415-1422.  
+[56] Zheng H,LiYF,RobinsonBE,LiuG,MaDC,WangFC,LuF,OuyangZYDailyGC.Usingecosysteservicetrade-ofstoiforaterconservation policies and management practices.Frontiers in Ecology and the Enviro ent，2016，14(10):527-532.  
+[57］谷晓坤，刘静，张正峰，蔡梦婉，刘伟.大都市郊区景观生态型土地整治模式设计.农业工程学报，2014，30(6)：205-211.  
+[58] 何如海，聂雷，何方.生态涵养型土地整治综合效益评价——以安徽省池州市贵池区项目为例.中国农业大学学报，2013，18（4)：232-237.  
+[59] 蔡联.西南丘陵山区生态化土地整治规划设计研究——以重庆市涪陵区义和镇朱砂村土地整治项目为例[D].重庆：西南大学,2014.  
+[60] 石剑，张路路，刘瑞卿，白立佳，刘磊，许.基于模糊模型识别的太行山山前平原区土地整治生态效益评价——以河北省顺平县为例.土壤通报，2012，43(6）：1300-1304.  
+[61] 高淑梅.乡域土地整治的生态环境影响研究[D].呼和浩特：内蒙古师范大学，2014.  
+[62] 汤鹏程.三峡库区土地整治生态效益评价研究——以重庆市忠县为例[D].重庆：西南大学，2013.  
+[63] 张志宏.土地整治中的生态环境与景观保护研究—以广西壮族自治区桂平市为例.资源节约与环保，2014，（1)：146-147.  
+[64] 杜薇，李浩华，殷爽.土地整治对于农村生态环境的影响——基于南京市的调查研究.科技创新与应用,2013，（17)：131-131.  
+[65] 李兼权.地级市辖区土地整治战略和模式优化研究[D]．泰安：山东农业大学，2015.  
+[66] 谷晓坤.湖北省不同类型土地整治生态效应评价.应用生态学报，2012，23（8)：2263-2269.  
+[67] 李培霞，陈国建，韦杰，郑红丽，杨敏.重庆市三峡库区移土培肥工程的后评价研究.贵州农业科学,2013,41（3)：64-68.  
+[68］严慎纯.不同尺度下土地整理的生态服务价值与景观格局关系研究[D].北京：中国地质大学(北京)，2013.  
+[69］张贞.丘陵区多尺度土地质量评价研究[D].重庆：西南大学，2009.  
+[70]Gagné S A, Eigenbrod ${ \bar { \operatorname { F } } } ,$ Bert D G,CunningtonGM,Olson L T,Smith AC，FahrigL.A simple landscape design framework for biodiversityconservation. Landscape and Urban Planning，2015，136：13-27.  
+[71]MarullJFtC，ellE,FulaNoenE，oslnE.owadsedspeitegatedalyssEplobetwensocetabolicditubanceandandsapeeolgypefoance（Mallca，Spain，956-11）andsapeEcolg16，（2）:317-336.  
+72]LandisDsiglaldapesfdiestdosesicddoo2016.07.005.  
+[73］／勋文聚，宇振荣.土地整治加强生态景观建设理论、方法和技术应用对策.中国土地科学，2011，25(6)：4-9.  
+[74] 王军.土地整治呼唤景观生态建设.中国土地科学，2011，25(6)：15-19.  
+[75］张慧，付梅臣.土地整理项目中的景观生态规划设计.山东农业大学学报：自然科学版，2005，36(2)：270-274.  
+[76] 张虹波，刘黎明.土地资源生态安全研究进展与展望.地理科学进展，2006,25(5）：77-85.  
+[77] 曲格平.关注生态安全之一：生态环境问题已经成为国家安全的热门话题.环境保护，2002，（5）：3-5.  
+[78］杨庆媛.西南丘陵山地区土地整理与区域生态安全研究.地理研究，2003，22(6)：698-708.  
+[79]NndiSModeiclualpractisdisustablyaseudfrokutrctfWstengalAsanJalofllStudies，2016,4（7）：113-120.

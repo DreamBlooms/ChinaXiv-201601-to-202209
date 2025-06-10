@@ -1,0 +1,172 @@
+酵母硒和纳米硒对育肥后期乳鸽生长性能、肉中微量元素含量及血清抗氧化指标的影响曲湘勇1,2陈继发1.2徐勋 $^ { 1 , 2 }$ 何亮1,2方全民3
+
+（1.湖南农业大学动物科学技术学院，长沙 410128；2.湖南畜禽安全生产协同创新中心，长沙 410128；3.湖南全民鸽业有限公司，岳阳 414000)
+
+摘要：本试验旨在研究酵母硒和纳米硒对育肥后期乳鸽生长性能、肉中微量元素含量及血清抗氧化指标的影响。将210只21日龄健康的美国王鸽，随机分成7组，每组3个重复，每个重复10只。试验采用2（硒源） $\times 4$ （水平）双因素随机试验设计，饲粮硒源分别为酵母硒和纳米硒，硒添加水平分别为0（对照，饲喂硒含量为 $0 . 0 8 \mathrm { m g / k g }$ 的基础饲粮）、0.1、0.3、 $0 . 5 \mathrm { m g / k g }$ （以硒计）。预试期3d，正试期7d。结果表明：1）各组乳鸽平均日采食量、平均日增重和料重比无显著差异（ $P { > } 0 . 0 5$ ）。2）各加硒组乳鸽肉中硒含量均显著高于对照组（ $P { < } 0 . 0 5$ ），且随着硒添加水平的升高而增加，硒源和添加水平之间存在显著交互作用（ $P { < } 0 . 0 5$ ）；与对照组相比， $0 . 1 , \ 0 . 3 , \ 0 . 5 \mathrm { m g / k g }$ 硒的酵母硒组肉中硒含量分别显著提高了$2 8 . 7 2 \% , 6 2 . 0 9 \% , 1 0 6 . 0 5 \% , 0 . 1 , 0 . 3 , 0 . 5 \mathrm { m g / k g }$ 硒的纳米硒组分别显著提高了 $1 9 . 8 3 \% . 2 6 . 1 2 \%$ $4 5 . 6 5 \%$ ( $P { < } 0 . 0 5$ ），且酵母硒组肉中硒的含量显著高于纳米硒组（ $_ { . } P { < } 0 . 0 5$ ）。3）与对照组相比，0.3、 $0 . 5 \mathrm { m g / k g }$ 硒的酵母硒和纳米硒组乳鸽血清总超氧化物歧化酶、谷胱甘肽过氧化物酶、过氧化氢酶活性及总抗氧化能力均显著提高（ $P { < } 0 . 0 5$ ），血清丙二醛含量显著降低（ $P { < } 0 . 0 5$ ）；与对照组、 $0 . 1 \mathrm { m g / k g }$ 组相比，0.3、 $0 . 5 \mathrm { m g / k g }$ 组过氧化氢酶活性、总抗氧化能力显著提高（ $P { < } 0 . 0 5$ ），丙二醛含量显著降低（ $P { < } 0 . 0 5$ ）。综上，饲粮中添加酵母硒和纳米硒均能显著增强乳鸽血清抗氧化性能，显著提高鸽肉中硒的含量。
+
+关键词：乳鸽；酵母硒；纳米硒；生长性能；微量元素；抗氧化中图分类号：S816.72
+
+硒是人和动物生长发育所必需的微量元素之一，具有增强机体抗氧化能力、提高免疫功能、延缓衰老、抗应激和促进生长等多重作用[1-4]。补硒不仅可以提高动物的生产性能，而且能够生产富硒畜禽产品，提高经济效益[5-6]。近年来，随着畜禽补硒研究的不断深入，得知有机硒相比无机硒具有更高的生物利用率和生物安全性[7-8]。酵母硒（selenium yeast,SY)
+
+是通过硒富集在生长酵母的细胞蛋白结构内生产的；纳米硒（nano-selenium,NS）是以蛋白质为核、红色元素硒为膜和以蛋白质为分散剂的红色元素硒的纳米粒子，粒径一般在 $8 0 \mathrm { n m }$ 以内，是纳米级的单质硒。酵母硒和纳米硒是当前开发的优质有机硒源，具有吸收率高、安全低毒、环境友好等特点，有望取代无机硒[。作为安全高效的有机硒源，酵母硒和纳米硒作为饲料添加剂具有足够的优势。目前，二者在猪、鸡和鹅上的应用研究较多，而在肉鸽生产中的应用鲜有报道；此外，有研究指出，纳米硒的吸收率及在机体中的沉积效果优于酵母硒[0]，但二者在乳鸽生产中的应用效果比较也尚未报道。因此，本试验在乳鸽饲粮中添加不同水平的酵母硒和纳米硒，探讨二者对育肥后期乳鸽生长性能、肉中微量元素含量及血清抗氧化指标的影响，为高效硒源研究与应用提供理论依据，同时也为肉鸽安全补硒及生产富硒鸽肉提供参考。
+
+# 1材料与方法
+
+# 1.1试验设计与饲养管理
+
+本试验采用2（硒源） $\times 4$ （水平）双因素随机试验设计，210只21日龄健康的美国王鸽随机分成7组，每组3个重复，每个重复10只。饲粮硒源分别为酵母硒和纳米硒，硒添加水平分别为0（对照，饲喂硒含量为 $0 . 0 8 \mathrm { m g / k g }$ 的基础饲粮）、0.1、0.3、 $0 . 5 \mathrm { m g / k g }$ （以硒计）。预试期3d，各组统一饲喂基础饲粮，每天对鸽群进行观察，并及时调整鸽群，使各组乳鸽的饲料消耗量、体重差异不显著。正试期7d（乳鸽一般30日龄左右即上市），根据试验设计饲喂各组试验饲粮。基础饲粮参照NRC（1994）家禽营养需要配制，其组成及营养水平见表1。
+
+试验用鸽舍为双列式鸽舍，鸽笼为单箱式，试验鸽分上、中、下3层进行笼养，每笼饲养10 只乳鸽，每笼为1个重复。乳鸽自由采食，每日喂料（干料）5次（以刺激采食），采用杯式饮水器，自由饮水，每日清扫鸽舍1次，清洗料槽、饮水器1次，每周对鸽舍喷雾消毒2次。
+
+表1基础饲粮组成及营养水平 (风干基础)  
+Table 1Composition and nutrient levels of the basal diet（air-dry basis ）   
+
+<html><body><table><tr><td>原料 Ingredients</td><td>含量Content</td><td>营养水平 Nutrient levels2</td><td>含量 Content</td></tr><tr><td>玉米Corn</td><td>44.00</td><td>代谢能 ME/(MJ/kg)</td><td>11.98</td></tr><tr><td>豌豆Pea</td><td>39.00</td><td>粗蛋白质 CP</td><td>16.04</td></tr><tr><td>小麦Wheat</td><td>7.00</td><td>赖氨酸Lys</td><td>0.90</td></tr></table></body></html>
+
+<html><body><table><tr><td>石粉 Limestone</td><td>1.20</td><td>蛋氨酸Met 0.31</td></tr><tr><td>酵母粉 Yeast powder</td><td>4.00</td><td>钙Ca 1.01</td></tr><tr><td>磷酸氢钙CaHPO4</td><td>2.50</td><td>有效磷 AP 0.56</td></tr><tr><td>食盐 NaCl</td><td>0.30</td><td>硒 Se/(mg/kg) 0.08</td></tr><tr><td>预混料 Premixl)</td><td>2.00</td><td></td></tr><tr><td>合计 Total</td><td>100.00</td><td></td></tr></table></body></html>
+
+1)预混料为每千克饲粮提供 The premix provided the following per $\mathrm { k g }$ of the diet: VA 3 000 IU,VD3 6 400IU, $\mathrm { V C ~ 0 . 2 4 ~ m g , V K ~ 0 . 2 ~ m g , V B _ { 1 2 } ~ 0 . 8 ~ m g , V B _ { 6 } ~ 3 . 2 ~ m g , V B _ { 2 } ~ 2 2 ~ m g , V B _ { 1 } ~ 2 0 ~ m g . }$ 生物素biotin $8 0 ~ { \mu \mathrm { g } } .$ 烟酸nicotinicacid $4 \ : \mathrm { m g }$ 叶酸 folic acid $\mathrm { 2 \ m g , M g \ 1 0 0 \ m g , C u 5 0 \ m g , Z n 4 0 \ m g , M n 1 0 0 \ m g , I 0 . 5 0 \ m g \cdot }$ （20
+
+2)硒为实测值，其他营养水平均为计算值。Se was a measured value,while the other nutrient levels were calculated values.
+
+# 1.2 试验材料
+
+试验用的有机硒源分为酵母硒（有效成分硒含量 $2 \text{‰}$ ）和纳米硒（有效成分硒含量 $1 \text{‰}$ 呈球状均匀分布，无团聚现象，由投射电子显微镜观察，平均粒径为 $5 0 { \sim } 1 0 0 ~ \mathrm { n m }$ ），均为市售产品。 $0 . 1 , 0 . 3 , 0 . 5 \mathrm { m g / k g }$ 硒的酵母硒和纳米硒组饲粮硒的含量经测定分别为0.185、0.375、0.596、0.187、0.378、0.598 mg/kg。
+
+# 1.3 测定指标与方法
+
+# 1.3.1生长性能
+
+在预试期末、正试期末分别对每个重复乳鸽进行称重；每日记录各组（以重复为单位）日采食量、死淘只数，并计算统计期内的平均日采食量（ADFI）、平均日增重（ADG）、料重比（F/G）。
+
+# 1.3.2微量元素含量
+
+试验结束时，每个重复随机选取3只乳鸽，供水、禁食 $1 2 \mathrm { ~ h ~ }$ 后放血并进行解剖，采集胸肌，－20 C保存待测微量元素含量。参照GB/T 5009.90-2003、GB/T9695.20-2008、GB/T13883-2008，采用火焰原子吸收光谱法测定肉中铁、锌、硒含量。肌肉预处理采用湿消化法，在测定微量元素之前，按照火焰原子吸收仪器（SP-AA3800)操作先进行标准液配制和测定，用于绘制标准曲线。
+
+# 1.3.3抗氧化指标
+
+试验期末，分别从每个重复随机选取3只乳鸽静脉采血 $3 \mathrm { m L }$ ，倾斜采血管，静置 $3 0 \mathrm { m i n }$ 后，于 $3 5 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ ，吸取上清液 $0 . 5 { \sim } 1 . 0 \mathrm { m L }$ ，分装于 $0 . 5 ~ \mathrm { m L }$ 离心管中，标记组别日期，置于一20℃冰箱保存，用于测定血清抗氧化指标。采用酶标仪（Multiskan GO,赛默飞世尔科技公司，美国）和南京建成生物工程研究所的试剂盒测定血清中谷胱甘肽过氧化物酶（GSH-Px）、总超氧化物歧化酶（T-SOD）、过氧化氢酶（CAT）活性及总抗氧化能力（T-AOC）和丙二醛（MDA）含量。
+
+# 1.4 数据处理与分析
+
+所有数据均采用SAS9.2统计软件进行分析，并以"平均值"和"集合标准误（SE）"表示，采用GLM模型检验硒源和添加水平的主效应及交互效应。根据LSD 法对差异显著( $. P { < } 0 . 0 5 .$ ）的数据进行多重比较。
+
+# 2结果
+
+2.1酵母硒和纳米硒对乳鸽生长性能的影响
+
+由表2可知，饲粮酵母硒和纳米硒对乳鸽平均日采食量、平均日增重、料重比均无显著影响( $P { > } 0 . 0 5$ ）。
+
+表2酵母硒和纳米硒对乳鸽生长性能的影响  
+Table 2Effects of SY and NS on growth performance of squabs   
+
+<html><body><table><tr><td>硒源 Se source</td><td>添加水平 Supplemental level/(mg/kg)</td><td>平均日采食量 ADFI/g</td><td>平均日增重 ADG/g</td><td>料重比 F/G</td></tr><tr><td>对照 Control</td><td>0</td><td>41.32</td><td>5.26</td><td>8.85</td></tr><tr><td rowspan="3">酵母硒 SY</td><td>0.1</td><td>41.56</td><td>5.18</td><td>8.19</td></tr><tr><td>0.3</td><td>41.87</td><td>5.56</td><td>8.34</td></tr><tr><td>0.5</td><td>41.55</td><td>5.22</td><td>9.25</td></tr><tr><td rowspan="3">纳米硒 NS</td><td>0.1</td><td>41.59</td><td>5.06</td><td>8.74</td></tr><tr><td>0.3</td><td>41.67</td><td>4.82</td><td>8.80</td></tr><tr><td>0.5</td><td>41.76</td><td>5.12</td><td>8.93</td></tr><tr><td rowspan="2">集合标准误Pooled SE</td><td></td><td>0.89</td><td>0.27</td><td>0.41</td></tr><tr><td>酵母硒 SY</td><td>41.66</td><td>5.32</td><td>8.59</td></tr><tr><td rowspan="2">硒源 Se source 集合标准误Pooled SE</td><td>纳米硒 NS</td><td>41.67</td><td>5.00</td><td>8.82</td></tr><tr><td></td><td>0.78</td><td>0.23</td><td>0.36</td></tr><tr><td rowspan="3">硒水平 Se level</td><td>0</td><td>41.32</td><td>5.26</td><td>8.85</td></tr><tr><td>0.1</td><td>41.58</td><td>5.12</td><td>8.47</td></tr><tr><td>0.3</td><td>41.77</td><td>5.69</td><td>8.57</td></tr><tr><td rowspan="2">集合标准误Pooled SE</td><td>0.5</td><td>41.66</td><td>5.17</td><td>8.59</td></tr><tr><td></td><td>0.84</td><td>0.26</td><td>0.34</td></tr><tr><td rowspan="2">P值P-value</td><td>硒源 Se source</td><td>0.917</td><td>0.486</td><td>0.417</td></tr><tr><td>硒水平 Se level 硒源×硒水平 Se sourcexSe level</td><td>0.813 0.892</td><td>0.338 0.617</td><td>0.364 0.582</td></tr></table></body></html>
+
+同列数据肩标不同字母表示差异显著（ $P { < } 0 . 0 5$ ），相同或无字母表示差异不显著（ $P { > } 0 . 0 5$ ）。下表同。In the same column, values with different letter superscripts mean significant diference( $P { < } 0 . 0 5$ ），whilewith the same or no letter superscripts mean no significant difference( $P { > } 0 . 0 5$ ）.The same as below.
+
+# 2.2酵母硒和纳米硒对乳鸽肉中微量元素含量的影响
+
+由表3可知，饲粮硒源对乳鸽肉中铁、锌含量均无显著影响（ $. P { > } 0 . 0 5$ ）。酵母硒和纳米硒组乳鸽肉中硒含量均显著高于对照组（ $P { < } 0 . 0 5$ ），且随着硒添加水平的升高而增加，硒源和添加水平之间存在显著交互作用（ $P { < } 0 . 0 5 \$ ）；0.1、0.3、 $0 . 5 \mathrm { m g / k g }$ 硒的酵母硒组肉中硒含量分别提高了 $2 8 . 7 2 \%$ 、 $6 2 . 0 9 \%$ 、 $1 0 6 . 0 5 \%$ ，0.1、0.3、0.5mg/kg硒的纳米硒组分别提高了$1 9 . 8 3 \%$ 、 $2 6 . 1 2 \%$ 、 $4 5 . 6 5 \%$ 。2 种硒源之间比较，酵母硒组乳鸽肉中硒含量显著高于纳米硒组（ $. P { < } 0 . 0 5$ ），高出了 $2 6 . 8 6 \%$ 。
+
+表3酵母硒和纳米硒对乳鸽肉中微量元素含量的影响  
+'able 3Effects of SYand NS on trace element contents in meat of squak   
+2.3酵母硒和纳米硒对乳鸽血清抗氧化指标的影响  
+
+<html><body><table><tr><td>硒源 Se source</td><td>添加水平 Supplemental level/(mg/kg)</td><td>硒 Se/ (μg/kg)</td><td>铁Fe/（mg/kg)</td><td>锌 Zn/ （mg/kg)</td></tr><tr><td rowspan="2">对照Control</td><td>0</td><td>165.4e</td><td>8.01</td><td>1.97</td></tr><tr><td>0.1</td><td>212.9cd</td><td>7.93</td><td>1.95</td></tr><tr><td rowspan="3">酵母硒 SY</td><td>0.3</td><td>268.1b</td><td>7.88</td><td>2.00</td></tr><tr><td>0.5</td><td>340.8a</td><td>8.17</td><td>1.90</td></tr><tr><td>0.1</td><td>198.2d</td><td>8.34</td><td>1.97</td></tr><tr><td rowspan="3">纳米硒 NS 集合标准误Pooled SE</td><td>0.3</td><td>208.6d</td><td>8.09</td><td>1.91</td></tr><tr><td>0.5</td><td>240.9bc</td><td>8.27</td><td>1.95</td></tr><tr><td></td><td>9.0</td><td>0.07</td><td>0.02</td></tr><tr><td>硒源 Se source</td><td>酵母硒 SY</td><td>273.9a</td><td>7.98</td><td>1.95</td></tr><tr><td rowspan="2">集合标准误Pooled SE</td><td>纳米硒 NS</td><td>215.9b</td><td>8.23</td><td>1.94</td></tr><tr><td></td><td>7.0</td><td>0.10</td><td>0.03</td></tr><tr><td rowspan="3">硒水平 Se level</td><td>0</td><td>165.4a</td><td>8.01</td><td>1.97</td></tr><tr><td>0.1</td><td>205.5b</td><td>8.14</td><td>1.96</td></tr><tr><td>0.3</td><td>238.4c</td><td>7.97</td><td>1.96</td></tr><tr><td rowspan="2">集合标准误Pooled SE</td><td>0.5</td><td>290.8d</td><td>8.22</td><td>1.93</td></tr><tr><td></td><td>8.6</td><td>0.12</td><td>0.03</td></tr><tr><td rowspan="3">P值 P-value</td><td>硒源 Se source</td><td><0.001</td><td>0.343</td><td>0.655</td></tr><tr><td>硒水平 Se level</td><td><0.001</td><td>0.009</td><td>0.920</td></tr><tr><td>硒源×硒水平 Se sourcexSe level</td><td><0.001</td><td>0.668</td><td>0.235</td></tr></table></body></html>
+
+由表4可知，与对照组相比，各加硒组血清GSH- $\mathbf { \cdot P x }$ 活性均显著提高（ $P { < } 0 . 0 5 \$ ）；0.3、$0 . 5 \mathrm { m g / k g }$ 硒的酵母硒和纳米硒组血清T-AOC 和CAT 活性均显著提高( $( P { < } 0 . 0 5 )$ ，血清MDA含量显著降低（ $. P { < } 0 . 0 5$ ）；除 $0 . 1 \mathrm { m g / k g }$ 硒的酵母硒组外，其余加硒组血清 T-SOD 活性均显著提高( $( P { < } 0 . 0 5 )$ ）。血清GSH $\mathbf { \cdot P x }$ 、T-SOD 活性随着硒添加水平的增加而显著提高( $( P { < } 0 . 0 5 )$ ;与对照组、 $0 . 1 \mathrm { m g / k g }$ 组相比，0.3、 $0 . 5 \mathrm { m g / k g }$ 组 CAT 活性、T-AOC 均显著提高（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ ），MDA含量显著降低（ $. P { < } 0 . 0 5$ ）。不同硒源之间比较，酵母硒组血清GSH-Px 活性显著高于纳米硒组 ( $P { < } 0 . 0 5$ ），纳米硒组T-SOD 活性和T-AOC 显著高于酵母硒组（ $_ { \cdot \cdot P < 0 . 0 5 }$ ）。
+
+表4酵母硒和纳米硒对乳鸽血清抗氧化指标的影响  
+
+<html><body><table><tr><td colspan="6">Table 4 Effects of SY and NS on serum antioxidant indices of squabs</td></tr><tr><td>硒源 Se</td><td>添加水平</td><td>谷胱甘肽过氧化物</td><td>总抗氧化能力</td><td>总超氧化物歧化酶</td><td>过氧化氢酶</td><td>丙二醛</td></tr><tr><td rowspan="2">source</td><td>Supplemental</td><td>酶</td><td>T-AOC/(U/mL)</td><td>T-SOD/(U/mL)</td><td>CAT/(U/mL)</td><td>MDA/(mmol/</td></tr><tr><td>level/(mg/kg)</td><td>GSH-Px/(mU/mL)</td><td></td><td>52.00d</td><td></td><td>mL</td></tr><tr><td>对照 Control</td><td>0</td><td>609.76e</td><td>6.75d</td><td></td><td>2.58℃ 3.00c</td><td>7.48a 7.10a</td></tr><tr><td rowspan="3">酵母硒 SY</td><td>0.1</td><td>714.58cd</td><td>7.56cd</td><td>54.60d</td><td></td><td></td></tr><tr><td>0.3</td><td>738.90abc</td><td>9.18℃</td><td>61.27℃</td><td>4.96b</td><td>6.03bc</td></tr><tr><td>0.5</td><td>768.56a</td><td>11.02b</td><td>67.20ab</td><td>4.54b</td><td>5.70cd</td></tr><tr><td rowspan="3">纳米硒 NS</td><td>0.1</td><td>677.96d</td><td>8.14cd</td><td>60.84c</td><td>2.98c</td><td>7.36a</td></tr><tr><td>0.3</td><td>720.65bed</td><td>9.19℃</td><td>63.00bc</td><td>4.37b</td><td>6.46b</td></tr><tr><td>0.5</td><td>759.76ab</td><td>12.93a</td><td>69.87a</td><td>6.00a</td><td>5.21d</td></tr><tr><td>硒源 Se</td><td>集合标准误PooledSE</td><td>9.35</td><td>0.36</td><td>1.10</td><td>0.22</td><td>0.15</td></tr><tr><td></td><td>酵母硒 SY</td><td>740.68a</td><td>9.25b</td><td>61.03b</td><td>4.16</td><td>6.34</td></tr><tr><td>source 集合标准误Pooled SE</td><td>纳米硒 NS</td><td>719.46b</td><td>10.08a</td><td>64.57a</td><td>4.45</td><td>6.28</td></tr><tr><td></td><td></td><td>6.93</td><td>0.29</td><td>0.98</td><td>0.22</td><td>0.12</td></tr><tr><td>硒水平</td><td>0</td><td>609.76d</td><td>6.75c</td><td>52.00d</td><td>2.58b</td><td>7.48a</td></tr><tr><td>Se level</td><td>0.1</td><td>696.27℃</td><td>7.85℃</td><td>57.72℃</td><td>2.99b</td><td>7.23a</td></tr><tr><td></td><td>0.3</td><td>729.77b</td><td>9.19b</td><td>62.14b</td><td>4.67a</td><td>6.24b</td></tr><tr><td>集合标准误Pooled SE</td><td>0.5</td><td>764.16a</td><td>11.97a</td><td>68.54a</td><td>5.27a</td><td>5.45c</td></tr><tr><td></td><td></td><td>8.49</td><td>0.36</td><td>1.20</td><td>0.27</td><td>0.15</td></tr><tr><td rowspan="3">P值P-value</td><td>硒源 Se source</td><td>0.040</td><td>0.046</td><td>0.016</td><td>0.316</td><td>0.700</td></tr><tr><td>硒水平 Se level</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td></tr><tr><td>硒源x硒水平 Se</td><td>0.514</td><td>0.152</td><td>0.389</td><td>0.015</td><td>0.074</td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1酵母硒和纳米硒对乳鸽生长性能的影响
+
+目前，有关不同硒源在乳鸽上的应用研究很少。本试验表明，添加 $0 . 1 { \sim } 0 . 3 \ \mathrm { m g / k g }$ 硒的酵母硒和纳米硒对育肥后期乳鸽生长性能均无显著影响，且不同硒源之间也无显著差异；与王宝维等[]在鹅饲粮中添加 $0 . 3 ~ \mathrm { m g / k g }$ 、张乙山等[12]在猪饲粮中添加 $0 . 3 { \sim } 0 . 8 \ \mathrm { m g / k g }$ 硒的酵母硒、纳米硒的研究结论基本一致；而曲湘勇等[13]在鹑上的研究表明，酵母硒和纳米硒均能显著提高鹌鹑的产蛋性能，且纳米硒的效果优于酵母硒。Upton 等[14]和骆先虎等[15]研究表明，酵母硒显著提高了爱拔益加肉鸡、樱桃谷鸭的饲料转化率，降低了料重比；王福香等[16]研究发现，纳米硒显著提高了肉鸡日增重和饲料消耗量，添加 $0 . 1 5 { \sim } 1 . 2 0 \ \mathrm { m g / k g }$ 硒的纳米硒料重比显著降低；而夏枚生等[17]研究指出，添加 $0 . 1 { \sim } 0 . 3 ~ \mathrm { m g / k g }$ 硒的纳米硒对岭南黄肉鸡生长性能没有显著影响。因不同动物及品种对硒的吸收、转运和生物利用率存在差异，同时，不同研究者使用的硒产品、添加剂量、试验条件及试验周期等不同，造成了试验结果不尽相同。综上得出，酵母硒和纳米硒在一定程度上提高了畜禽的生产性能，且2种硒源之间无显著差异。
+
+# 3.2酵母硒和纳米硒对乳鸽肉中微量元素含量的影响
+
+富硒肉作为补硒的重要媒介之一，当前，国内外学者对富硒禽肉的开发主要集中于鸡肉。田金可等[18]和寇庆等[19]研究表明，添加 $0 . 3 \mathrm { \ m g / k g }$ 硒的酵母硒显著提高了鸡肉中硒含量;Zhou 等[20]、胥保华等[211分别报道，饲粮中添加 $0 . 3 ~ \mathrm { { m g / k g } , ~ 0 . 1 { \sim } 1 . 0 ~ \mathrm { { m g / k g } } }$ 硒的纳米硒显著增加了肉鸡组织中的硒含量，改善了肉品质，且硒含量随着添加水平的提高而增加。本试验得出，饲粮中添加 $0 . 1 { \sim } 0 . 5 \ \mathrm { m g / k g }$ 硒的酵母硒或纳米硒均能显著提高乳鸽胸肌中硒的含量，且随硒添加水平的升高而增加，与以上研究的结论基本一致。有机硒因类似于含硫氨基酸，在蛋白质合成中能够替代含硫氨基酸而结合于蛋白质中，因而增加了机体总硒的贮存量；而无机硒代谢过程中，大部分会进入肾脏而排出体外，仅有少量结合于机体蛋白质中[22]，因此无机硒在体组织的沉积效果不如有机硒。纳米硒和酵母硒是当前开发的优质有机硒源，目前，二者在鸽肉中沉积效果的比较尚未见报道，曲湘勇等[13]研究表明，纳米硒在鹑蛋中的沉积效果优于酵母硒；而孙庆艳等[23]报道，酵母硒在产蛋前期海兰蛋鸡的鸡蛋中沉积效率高于纳米硒；本试验结果也表明，酵母硒在乳鸽胸肌中的沉积量比纳米硒高。造成以上差异的可能原因是不同用途及种类的家禽对微量元素的沉积能力不同，此外与试验周期、营养水平及管理等有关。本试验还发现，添加酵母硒或纳米硒对乳鸽肌肉中铁、锌含量均无显著影响，提示以上2种硒源对机体铁、锌的沉积无显著影响。
+
+3.3酵母硒和纳米硒对乳鸽血清抗氧化指标的影响
+
+机体的抗氧化系统包括酶促体系和非酶促体系2部分，硒在酶促抗氧化体系中扮演了重要角色，能够通过具有酶功能的含硒蛋白、硒核酸等发挥作用。本试验结果表明，饲粮中添加酵母硒和纳米硒均显著提高了机体的抗氧化酶活性，与曲湘勇等[13]、Jing 等[24]、Wang[25]的研究结果一致。MDA是自由基触发脂质过氧化物反应生成的终产物，其含量可反映机体脂质过氧化的程度，间接反映机体的抗氧化能力。本试验表明，添加0.3、 $0 . 5 \mathrm { m g / k g }$ 硒的酵母硒和纳米硒均显著降低了MDA 含量，且2种硒源之间无显著差异，与王宝维等[11在鹅饲粮中添加 $0 . 3 \mathrm { \ m g / k g }$ 硒的酵母硒或纳米硒的研究结论一致；而孙庆艳等[23]报道，添加 0.3mg/kg上述2种硒均没有显著降低产蛋鸡血浆中MDA含量。造成结果差异的原因可能是试验动物、硒的有效成分、饲养条件及机体自身状况等不同。T-AOC是衡量机体抗氧化能力的综合性指标，饲粮中添加酵母硒和纳米硒均能显著提高血浆中 T-AOC[23]。本试验中 2 种硒源均显著提高了乳鸽血清中 T-AOC，且纳米硒组显著高于酵母硒组，与孙庆艳等[23]的研究结果基本一致。酵母硒作为有机硒源能更容易进入体内发挥作用，而纳米硒不仅具有高效的吸收方式，还能直接清除体内的自由基[26]，纳米硒的抗氧化效果是否优于酵母硒还需进一步探讨。
+
+4结论
+
+$\textcircled{1}$ 饲粮中添加酵母硒和纳米硒对育肥后期乳鸽生长性能均无显著影响。
+
+$\textcircled{2}$ 乳鸽肉中硒含量随饲粮硒添加水平的升高而增加，酵母硒的沉积效率优于纳米硒，且硒源和添加水平之间存在交互作用。
+
+$\textcircled{3}$ 添加0.3、 $0 . 5 \mathrm { m g / k g }$ 硒的酵母硒和纳米硒均显著增强了机体的抗氧化性能。
+
+$\textcircled{4}$ （204号 从生产富硒鸽肉考虑，建议乳鸽育肥后期饲粮中添加 $0 . 5 \mathrm { m g / k g }$ 硒的酵母硒为宜。参考文献：:
+
+[1]FAN C,YU B,CHEN D W.Effects of different sources and levels of selenium on performance,thyroid function and antioxidant status in stressed broiler chickens[J].International Journal of Poultry Science,2009,8(6):583-587.
+
+[2] KIREMIDJIAN-SCHUMACHER L,ROY M,WISHE H I,et al.Supplementation with selenium augmentsthe functionsof natural kilerand lymphokine-activated killer cells[J].Biological Trace Element Research,1996,52(3):227-239.
+
+[3] ARTEEL G E,SIESH.Thebiochemistryofselenium and theglutathione system[J].Environmental Toxicology and Pharmacology,20o1,1O(4):153-158.
+
+[4]WILSON M E,ROZEBOOM K J,CRENSHAW T D.Boar nutrition for optimum sperm production[J].Advances in Pork Production,2004,15:295-306.
+
+[5]郭军蕊,刘国华,郑爱娟,等.不同硒源及水平对肉鸡生长性能、血浆和组织硒含量及血浆谷胱甘肽过氧化物酶活性的影响[J].动物营养学报,2014,26(7):1950-1961.
+
+[6]李丽辉,林亲录.我国富硒食品的研究进展[J].中国食物与营养,2007(2):23-25.
+
+[7]SPALLHOLZ J E,PALACE V P,REID T W.Methioninase and selenomethionine but not se-methylselenocysteine generate methylselenol and superoxide in an in vitro chemiluminescent assay:implications for the nutritional carcinostatic activity of selenoamino acids[J].Biochemical Pharmacology,2004,67(3):547-554.
+
+[8]HOFFMAN D J.Role of selenium toxicity and oxidative stress in aquatic birds[J].Aquatic Toxicol0gy,2002,57(1/2):11-26.
+
+[9]王亮,单安山.纳米硒在动物营养中的研究进展[J].中国畜牧兽医,2011,38(4):38-42.
+
+[10]SHI L G,XUN W J,YUE W B,et al.Efect of sodium selenite,se-yeast and nano-elemental selenium on growth performance,se concentration and antioxidant status in growing male goats[J].Small Ruminant Research,2011,96(1):49-52.
+
+[11]王宝维,王娜,葛文华,等.不同硒源对鹅早期生产性能、屠宰性能、肉品质、肌肉常规养分、免疫与抗氧化功能的影响[J].中国农业科学,2011,44(14):3016-3026.
+
+[12]张乙山,边连全,游思亲.三种硒源对生长肥育猪组织硒沉积及抗氧化能力的影响[J].饲料工业,2008,29(1):18-20.
+
+[13]曲湘勇,蔡超,何俊,等.酵母硒和纳米硒对鹌鹑产蛋后期生产性能、蛋品质、蛋中硒含量及血清抗氧化指标的影响[J].动物营养学报，2014,26(3):732-738.
+
+[14] UPTON J R,EDENS F W,FERKET P R.Selenium yeast effect on broiler performance[J].International Journal of Poultry Science,2Oo8,7(8):798-805.
+
+[15]骆先虎,张雷.酵母硒在肉鸭中的应用[J].饲料研究,2011(10):43-44.
+
+[16]王福香,朱风华,姜建阳,等.纳米硒对肉鸡生长、屠宰性能和养分消化率的影响[J].青岛农
+
+业大学学报:自然科学版,2009,26(2):119-123.
+
+[17]夏枚生,潘金敏,胡彩虹,等.纳米硒对肉鸡生长、肝脏脱碘酶I活性和血清甲状腺激素的影响[J].西北农林科技大学学报：自然科学版,2005,33(4):24-28.
+
+[18]田金可,HUSSAIN A,李伟,等.不同硒源及水平对肉鸡组织硒含量及抗氧化功能的影响[J].动物营养学报,2012,24(6):1030-1037.
+
+[19]寇庆,梁咪娟,陶亮亮.酵母硒对肉鸡组织硒含量及抗氧化能力的影响[J].粮食与饲料工业,2012(1):48-50.
+
+[20]ZHOU X,WANG Y.Influence of dietary nano elemental selenium on growth performance,tissue selenium distribution,meat quality,and glutathione peroxidase activity in guangxi yellow chicken[J].Poultry Science,2011,90(3):680-686.
+
+[21]胥保华,夏枚生,胡彩虹,等.纳米硒对肉鸡组织硒含量和谷胱甘肽过氧化物酶活性的影响[J].动物营养学报,2005,17(1):49-53.
+
+[22]蔡菊,李奎,张雷.富硒猪肉的最新研究进展[J].饲料研究,2011(2):44-46.
+
+[23]孙庆艳,武书庚,张海军,等.饲粮中添加不同硒源对产蛋鸡生产性能和抗氧化能力的影响[J].动物营养学报,2016,28(4):1177-1185
+
+[24]JING C L,DONG X F,WANG Z M,et al.Comparative study of DL-selenomethionine vs sodium selenite and seleno-yeast on antioxidant activity and selenium status in laying hens[J].Poultry Science,2015,94(5):965-975.
+
+[25] WANG Y B.Differential effects of sodium selenite and nano-Se on growth performance,tissue se distribution,andglutathione peroxidaseactivity of avian broiler[J].Biological Trace Element Research,2009,128(2):184-190.
+
+[26]HUANG B,ZHANG J S,HOU J W,et al.Free radical scavenging efficiency of Nano-Se in vitro[J].Free Radical Biology and Medicine,2003,35(7):805-813.
+
+Effects of Selenium Yeast and Nano-Selenium on Growth Performance, Meat Trace Element Contents and Serum Antioxidant Indices of Squabs in Latter Finishing Period QU Xiangyong1,2CHEN Jifa1,2XU Xun1.2HE Liang12FANG Quanmin3   
+(1. College of Animal Science and Technology, Hunan Agricultural University, Changsha
+
+410128, China; 2. Hunan Collaborative Innovation Center of Safety Animal Production, Changsha 410128, China; 3. Hunan Quanmin Pigeon Industry Co. Ltd., Yueyang, 414000, China)
+
+Abstract: This experiment was conducted to study the effects of selenium yeast (SY） and nano-selenium (NS) on growth performance, meat trace element contents and serum antioxidant indices of squabs in later finishing period. A total of 210 healthy 21-day-old King pigeons were selected and randomly divided into 7 groups with 3 replicates per group of 10 squabs per replicate. A $2 { \times } 4$ factors random design was employed in this trail, including 2 sources (SY and NS) and 4 levels [O (control), 0.1, 0.3 and $0 . 5 ~ \mathrm { { m g / k g } ] }$ of selenium (Se). The pretrial lasted for $3 \mathrm { ~ d ~ }$ ,and the trial lasted for 7 d. The results showed as follows: 1） there were no significant differences in average daily feed intake, average daily gain and feed to meat ratio of squabs $( P { > } 0 . 0 5 )$ .2) Compared with control group,the supplementation of Se significantly increased Se content in meat of squabs $( P { < } 0 . 0 5 )$ ; Se content in meat was increased with the increase of Se supplemental level; there was a significant interaction between Se sources and Se level about Se content in meat （2号 $( P { < } 0 . 0 5 )$ ; compared with control group, Se content in meat of groups O.1, O.3 and $0 . 5 \mathrm { m g / k g }$ of SY was significantly increased by $2 8 . 7 2 \%$ ， $6 2 . 0 9 \%$ ， $1 0 6 . 0 5 \%$ $( P { < } 0 . 0 5 )$ ，respectively， and that of groups 0.1, 0.3 and $0 . 5 ~ \mathrm { { m g / k g } }$ of NS was significantly increased by $1 9 . 8 3 \%$ $2 6 . 1 2 \%$ and $45 . 6 5 \%$ （20 （2号 $( P { < } 0 . 0 5 )$ , respectively; the content of Se in meat of SY group was significantly higher than that in NS group $( P { < } 0 . 0 5 )$ . 3) Compared with control group, the activities of catalase, total superoxide dismutase, glutathione peroxidase and total antioxidant capacity in serum of groups O.3 and 0.5 mg/kg of SY and NS were significantly increased $( P { < } 0 . 0 5 )$ ,and the content of malondialdehyde in serum was significantly decreased $( P { < } 0 . 0 5 )$ . Compared with control group and $0 . 1 ~ \mathrm { { m g / k g } }$ group, catalase activity and total antioxidant capacity in serum of O.3 and $0 . 5 \mathrm { \ m g / k g }$ groups were significantly increased $( P { < } 0 . 0 5 )$ ，and serum content of malondialdehyde was significantly decreased $( P { < } 0 . 0 5 )$ . In conclusion， dietary supplementation of SY and NS can significantly enhance serum antioxidant capability and increase the content of Se in meat of squabs.
+
+Key words: squab； selenium yeast; nano-selenium; growth performance； trace elements;
+
+# ChinaXiv合作期刊
+
+antioxidant

@@ -1,0 +1,508 @@
+[
+    {
+        "type": "text",
+        "text": "人源类溶菌酶蛋白6的功能研究及生理特性分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄鹏」，杜望春1，施尉珺1，饶玉良²，孙庆文³，张宁 2\\*\\*(1 上海健康医学院临床医学院 上海 201318)(2上海健康医学院基础医学院 上海 201318)(3 复旦大学生命科学院 上海 200438)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要对人源类溶菌酶蛋白6（human lysozyme-like protein 6，LYZL6）在受精过程中的作用进行研究，并对重组LYZL6蛋白（recombinantLYZL6，rLYZL6)的生理特性进行分析，从而揭示其生理功能。细胞免疫荧光法确定LYZL6定位于成熟精子头部的顶体后区域，反转录PCR（RT-PCR）分析表明精子表面的LYZL6蛋白来源于辜丸和附辜的分泌，Westernblot法分析表明精子获能前后表面LYZL6的量无明显改变。半透明带结合实验和精子穿透实验分析表明兔抗LYZL6血清未明显抑制人精子结合透明带，但可明显抑制精卵融合。利用毕赤酵母表达系统成功表达了rLYZL6，使用甲壳素亲和层析和凝胶过滤层析可从发酵上清中纯化到具有生物活性的rLYZL6。酶联免疫吸附法（ELISA）分析显示rLYZL6不具有透明质酸结合能力、透明质酸水解能力和自由基清除活性，但具有较强的肽聚糖结合能力和异肽酶活性。LYZL6由辜丸和附辜分泌后定位于成熟精子头部的顶体后区域，可以参与精卵融合，并具有肽聚糖结合能力和异肽酶活性，提示LYZL6可能通过多种机制参与精子功能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词人源类溶菌酶蛋白6 顶体受精毕赤酵母 异肽酶活性中图分类号：Q492.41",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Functional Studies of Human Lysozyme-like Protein 6 and Characterization of Its Physiological Properties ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "HUANG Pengl, DU Wang-chun1, SHI Wei-jun1, RAO Yu-liang², SUN Qing-wen³, ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Ning² ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1 School of Clinical Medicine, Shanghai University of Medicine and Health Sciences, Shanghai 201318, China) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2 School of Basic Medicine, Shanghai University of Medicine and Health Sciences, ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Shanghai 201318, China) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3 School of Life Sciences, Fudan University, Shanghai 200438, China) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AbstractThe aim is to identify the possible performance of human lysozyme-like protein 6 (LYZL6） in fertilization and to characterize its physiological properties. Immunofluorescent staining with a specific antiserum localized the LYZL6 protein on the postacrosomal membrane of mature spermatozoa, which was secreted by testis and epididymis as demonstrated by the reverse transcription polymerase chain reaction (RT-PCR). No significant decrease of LYZL6 after capacitation was observed by Western blot analysis. Immunoneutralization of LYZL6 showed no effect on the binding of spermatozoa to the hemizona, but significantly decreased the numbers of human spermatozoa fused to zona-free hamster eggs in a dose-dependent manner. The Pichia expression system was utilized to produce recombinant LYZL6 (rLYZL6). After induction with methanol, rLYZL6 waspurified from the fermentation supernatant by chitin affinity in combination with gel-filtration chromatography. Invitroassaysindicated thatrLYZL62possessedno hyaluronan-binding ability, hyaluronidase activity and free radical scavenging activity, but peptidoglycan-binding ability and isopeptidase activity. In conclusion, we report here that LYZL6,a human sperm-related protein, not only plays a role in sperm-egg fusion but also has peptidoglycan-binding ability and isopeptidase activity, suggesting it might contribute to diverse sperm functions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key wordsHuman lysozyme-like protein 4AcrosomeFertilization Pichia pastorisIsopeptidase activity ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在哺乳动物的辜丸中，未分化的生殖细胞要发育成为成熟的精子细胞要经过一个复杂的过程，辜丸及附辜组织分泌的许多蛋白也定位与精子细胞上，这些分子可以直接参与精子与卵子的相互作用，在受精过程中发挥重要作用，类溶菌酶蛋白就是其中之一。类溶菌酶蛋白是最近在哺乳动物生殖系统中发现的一种球蛋白，属于c型溶菌酶/α乳清蛋白家族。目前已经从人体内克隆到五种类溶菌酶蛋白的编码基因（LYZL2，LYZL4，LYZL5，LYZL6，SPACA3）[I]，初步的研究表明类溶菌酶蛋白在组织分布、存在形式、杀菌活性和生理功能方面均与溶菌酶有所不同[2-4]。在哺乳动物中，溶菌酶广泛分布于各种组织和体液，其主要通过破坏细菌细胞壁引起细菌裂解死亡而参与生物体先天性免疫防御[5-6]。与之不同，目前已报道的类溶菌酶蛋白则存在于雄性哺乳动物（如小鼠、大鼠和人）的生殖系统，定位于睾丸、附睾和精子上，主要与精子功能相关，在受精过程中发挥一定作用[7-11]。如：人 SPACA3 基因编码人精子类溶菌酶蛋白1（human spermlysozyme-like protein1，SLLP1）并不具有杀菌活性，其被表达后分布于精子头部顶体区域，能够在受精过程中发挥作用[7]。人类溶菌酶蛋白4（humanlysozyme-like protein6，LYZL4）在体外也没有显示杀菌活性，由辜丸和附辜组织表达后，定位于圆形精子细胞及长形精子细胞的顶体上，提示其可能与顶体结构或功能相关[11]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本课题组初步研究表明人类溶菌酶蛋白6（human lysozyme-like protein 6,LYZL6）具有杀菌活性，其被辜丸和附辜表达后分布于精子头部顶体后区域，并可能在受精过程中发挥作用[8-10]。与 SLLP1和LYZL4 相比，LYZL6 可能具有更多的功能。本研究拟对LYZL6在受精过程中的作用做进一步研究，并对其生理特性进行深入分析，从而揭示LYZL6的生理功能。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.1菌株及试剂表达rLYZL6 的重组毕赤酵母、兔抗LYZL4 免疫血清、甲壳素亲和层析介质由本研究室制备并保存；核酸和蛋白分子量标准、PyrobestDNA聚合酶、辣根过氧化物酶（HRP）标记的羊抗兔IgG 购自TaKaRa公司;所有引物由 Sangon Biotech 公司合成；BMGY 培养基按 Invitrogen 公司的毕赤酵母实验操作手册配制；罗丹明标记的羊抗兔IgG、络合异硫氰酸荧光素的碗豆凝集素（FITC-PSA）、胰蛋白酶、透明质酸酶（haluronidase，HAase）、LYZ标准品、透明质酸、肽聚糖、1,1-二苯基苦基苯胖（DPPH）和L-γ-谷氨酰-对硝基苯胺（L-γ-Glu-pNA）均购自 Sigma-Aldrich 公司；ECL 检测试剂盒购自Beyotime公司；溶壁微球菌由本研究室保存；Isolate试剂盒购自Irvine Scientific 公司；3,5-二硝基水杨酸（3,5-dinitrosalicylic acid，DNS）、邻苯二胺等化学试剂均为国产分析纯。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.1.2 实验动物 金线仓鼠购自上海松联实验动物中心。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.1.3样本来源健康成年男性精液样本和体外授精剩余的人成熟卵细胞由上海曙光医院东院生殖医学中心提供，样本的获取及使用均得到捐献者书面知情同意。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.1精子免疫荧光分析将新鲜收集的精液用Isolate 试剂盒分离精子细胞，$4 0 0 \\times g$ 离心 $1 5 \\mathrm { m i n }$ ，收集细胞沉淀，用 $\\mathrm { p H } 7 . 4$ 的磷酸盐缓冲液(phosphate bufferedsaline，PBS）洗涤两次后重悬；取 $1 5 \\mu \\mathrm { L }$ 细胞悬液涂布多聚赖氨酸处理过的载玻片，室温干燥 $1 5 \\mathrm { m i n }$ $3 \\%$ 牛血清白蛋白溶液封闭 $1 0 \\mathrm { m i n }$ ，滴加 ${ 5 0 \\mu \\mathrm { L } }$ 兔抗LYZL6血清（1:100稀释）孵育过夜，用免疫前兔血清作为阴性对照；PBS洗涤三次后，加滴加 ${ 5 0 \\mu \\mathrm { L } }$ 罗丹明标记的羊抗兔IgG（1:200 稀释)，暗室静置 $^ { \\textrm { 1 h } }$ ；PBS洗涤三次后，滴加 $6 \\%$ 的FITC-PSA，暗室静置 $^ { \\textrm { 1 h } }$ 后加盖玻片后荧光显微镜拍照。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.2RT-PCR精子、附辜和辜丸的cDNA由本研究室制备。正向引物RT-LYZL6-F和反向引物RT-LYZL6-R根据LYZL6基因序列设计（GenBankaccessionno.NM_020426.3），扩增产物为 $3 1 9 ~ \\mathrm { b p }$ 。以甘油醛-3-磷酸脱氢酶（Glyceraldehyde 3-phosphate dehydrogenase，G3PDH）作为内对照，扩增产物为$2 4 7 \\mathrm { b p }$ 。扩增条件为： $9 4 ~ \\mathrm { ^ { \\circ } C }$ 预变性 $5 \\mathrm { m i n }$ $9 4 ~ \\mathrm { ^ { \\circ } C }$ 变性 $3 0 ~ \\mathrm { s }$ ， $6 5 ^ { \\circ } \\mathrm { C }$ 退火45 s, $7 2 \\ \\mathrm { { ^ \\circ C } }$ 延伸 $3 0 ~ \\mathrm { s }$ ，反应进行35个循环， $7 2 \\ \\mathrm { { ^ \\circ C } }$ 延伸 $5 \\mathrm { m i n }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.3精子蛋白提取物制备将两份 $1 . 5 ~ \\mathrm { m L }$ 精液样本 $6 0 0 0 \\times g$ 离心 $1 5 \\mathrm { m i n }$ ，用PBS 洗涤精子细胞沉淀两次， $6 0 0 \\times g$ 离心 $8 \\mathrm { m i n }$ ，收集细胞沉淀。向其中一份细胞沉淀中加入 $2 5 0 ~ \\mu \\mathrm { L }$ 含有 $1 \\times$ 蛋白酶抑制剂的RIPA缓冲液重悬，超声处理 $4 5 \\mathrm { ~ s ~ }$ 室温裂解 $2 0 \\mathrm { m i n }$ ， $1 2 0 0 0 \\times g$ 离心 $1 0 \\mathrm { m i n }$ ，吸取顶部上清液作为精子蛋白提取物样品， $- 8 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 冻存。将另一份细胞沉淀重悬于Biggers,Whitten,and Whittingham（BWW）培养基（含 $3 0 ~ \\mathrm { m g / m L }$ 人体血清白蛋白）中过夜获能，之后离心收集沉淀，按上述方法制备获能后精子蛋白提取物样品。将蛋白样品进行SDS-PAGE电泳后，在Bio-Rad电转移系统中转移至硝酸纤维素膜，进行Western blot分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表1研究所用引物序列",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/915036d2d3d5dd0ebe45e03f08fa3afd44754c94ac4bb4678b36b7c4ba6fa4df.jpg",
+        "table_caption": [
+            "Table 1 Primers used in this study "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Primer name</td><td>Primer sequence (5'-3')</td></tr><tr><td>RT-LYZL6-F</td><td>ATGACAAAGGCGCTACTCATC</td></tr><tr><td>RT-LYZL6-R</td><td>GAAGGTTGGGATTCAGCAGATC</td></tr><tr><td>GAPDH-F</td><td>CGTGGAAGGACTCATGACC</td></tr><tr><td>GAPDH-R</td><td>GAGGCAGGGATGATGTTCTG</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.4精子穿透试验将精液样本与BWW培养基（含 $5 \\mathrm { m g / m L }$ 人体血清白蛋白)混合后置 $3 7 \\ \\mathrm { { ^ \\circ C } }$ 培养箱（含 $5 \\% \\mathrm { C O } _ { 2 }$ ）孵育 $2 \\mathrm { h }$ ，收集游出的精子细胞后， $6 0 0 \\times$ $g$ 离心 $8 \\mathrm { m i n }$ ，收集细胞沉淀， $8 ~ \\mathrm { m L }$ 的相同培养基洗涤两次。然后将精子细胞重悬于BWW培养基（含 $3 0 ~ \\mathrm { m g / m L }$ 人血清白蛋白）中过夜获能（浓度为 $2 \\times 1 0 ^ { 5 }$ 个 $/ \\mathrm { m L }$ )。首先向金线仓鼠注射 $3 0 \\mathrm { I U }$ 的eCG， $7 2 \\mathrm { { h } }$ 后注射hCG以超排卵子，16h后处死动物并分离丘-卵复合体。用透明质酸酶（ $1 \\mathrm { m g / m L }$ ）处理复合体 $3 \\mathrm { m i n }$ 以去除卵丘细胞，将获得的卵子置于矿物油中用培养基冲洗，用胰蛋白酶（1$\\mathrm { m g / m L ) }$ ，处理30s后洗涤3次，然后将卵子随机分组。将获能的精子与不同浓度的兔抗LYZL4血清混合后置 $3 7 \\ \\mathrm { { ^ \\circ C } }$ 培养箱（含 $5 \\% \\mathrm { C O } _ { 2 }$ ）孵育 $^ { \\textrm { 1 h } }$ ，用兔免疫前血清作为对照，然后加入去除透明带的仓鼠卵子细胞继续孵育 $3 \\mathrm { h }$ 。孵育结束后洗涤卵子细胞以去除未结合的精子，然后将卵子细胞置于载玻片上并加盖玻片，观察并计数融合的精子数，精子头部膨大作为与卵子融合的判断依据。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.5半透明带结合实验在显微操作仪下将人卵细胞对切成两半，以微吸管吸净卵细胞浆，得到2个完全相同的半透明带。向载有配对半透明带的载玻片板（预涂多聚赖氨酸）上分别加入1:50稀释的兔抗LYZL6血清，用免疫前兔血清作为阴性对照，在 $3 7 \\ \\mathrm { { ^ circ C } }$ 培养箱（含 $5 \\% \\mathrm { C O } _ { 2 }$ ）孵育 $2 \\mathrm { h }$ 。向清洗后的半透明带分别滴加 $1 0 0 ~ \\mu \\mathrm { L }$ 获能的精子悬液（浓度为 $2 \\times 1 0 ^ { 5 }$ 个 $/ \\mathrm { m L }$ )，并以矿物油覆盖， $3 7 ^ { \\circ } \\mathrm { C }$ 孵育 $^ { 4 \\mathrm { h } }$ 。用BWW培养基冲洗半透明带以去除松散结合的精子，在倒置显微镜下观察与半透明带紧密结合的精子并计数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.6重组蛋白表达纯化将表达rLYZL6的重组毕赤酵母菌株克隆接种BMGY 种子培养基， $3 0 \\ \\mathrm { ^ { \\circ } C }$ 摇床培养 $3 6 \\mathrm { h }$ 后转接至含有2.5LBMGY培养基中，发酵罐高密度培养至甘油耗尽，每隔12h添加 $0 . 5 \\%$ 甲醇进行诱导表达，96h后结束发酵。将发酵液 $5 0 0 0 \\times g$ 离心 $3 0 \\mathrm { m i n }$ ，收集上清，与一定体积甲壳素亲和介质混合，室温搅拌、静置；将甲壳素介质装填层析柱，使用PBS 灌洗柱床后，换用 $0 . 0 1 \\mathrm { m o l / L }$ 醋酸溶液洗脱，将洗脱液收集后装入透析袋中对PBS透析，使用Amicon $\\textsuperscript { \\textregistered }$ Ultra 超滤管（截留分子量 $3 \\mathrm { { k D a } } ,$ ）浓缩；将浓缩液上SephadexG-75析柱洗脱，监控 $\\mathbf { A } _ { 2 8 0 \\mathrm { n m } }$ 并收集独立洗脱峰，超滤浓缩后进行SDS-PAGE分析。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.2.7肽聚糖和透明质酸结合能力测定使用 $4 0 ~ \\mu \\mathrm { g / m L }$ 的肽聚糖溶液或 $1 0 0 ~ \\mu \\mathrm { L }$ 的 $1 0 0 ~ \\mathrm { \\mu g / m L }$ 的透明质酸溶液包被96孔酶联板， $3 7 \\ \\mathrm { { ^ \\circ C } }$ 孵育过夜；加入 $2 0 0 ~ \\mu \\mathrm { L }$ 的 $1 \\mathrm { m g / m L }$ 牛血清白蛋白封闭 $2 \\mathrm { h }$ ；分别加入 $1 0 0 \\mu \\mathrm { L }$ 醋酸盐冲液 $\\langle \\mathrm { p H } 5 . 0 \\rangle$ 配制的 $0 . 2 5 \\mathrm { \\mu m o l / L }$ ， $0 . 5 \\mu \\mathrm { m o l / L }$ 和 $1 \\ \\mu \\mathrm { m o l / L }$ 的rLYZL6液，室温孵育 $3 \\mathrm { h }$ ；每孔加入$1 0 0 ~ \\mu \\mathrm { L }$ 兔抗LYZL6免疫血清， $3 7 \\ \\mathrm { { ^ circ C } }$ 孵育 $^ \\textrm { \\scriptsize 1 h }$ ；每孔加入 $1 0 0 ~ \\mu \\mathrm { L }$ 1:1000 稀释的HRP标记的羊抗兔 $\\mathrm { I g G }$ ， $3 7 ^ { \\circ } \\mathrm { C }$ 孵育 $^ { \\textrm { 1 h } }$ 。以上各步骤间均用含 $0 . 0 5 \\%$ Tween-20 的PBS 洗涤3次。最后加入邻苯二胺显色液显色，酶标仪测 $\\mathbf { A } _ { 4 5 0 \\mathrm { n m } }$ 计算ELISA指数。ELISA 指数（ELISAIndex） $\\ c =$ 测试样品的平均 $\\mathrm { A } _ { 4 5 0 \\mathrm { n m } } /$ 空白对照的平均 $\\mathbf { A } _ { 4 5 0 \\mathrm { n m } _ { \\cdot } }$ （20以HAase和LYZ为对照，实验重复两次。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.2.8透明质酸水解活性测定向 $0 . 5 ~ \\mathrm { m L }$ 的透明质酸溶液（ $0 . 1 5 \\%$ ，w/v）中分别加入 $0 . 5 ~ \\mathrm { m L }$ 的 $1 \\ \\mathrm { \\mu m o l / L }$ ， $5 ~ { \\mu \\mathrm { m o l / L } }$ 和 $1 0 ~ \\mathrm { \\textmu m o l / L }$ 的 rLYZL6 溶液， $3 7 ^ { \\circ } \\mathrm { C }$ 反应$2 4 \\mathrm { h }$ ，煮沸 $1 0 \\mathrm { m i n }$ 停止反应， $5 0 0 0 \\times g$ 离心 $1 0 \\mathrm { m i n }$ 以沉淀变性蛋白；取上清液$0 . 5 ~ \\mathrm { m L }$ ，加入 $1 \\mathrm { m L }$ DNS 溶液,煮沸 $1 0 \\mathrm { m i n }$ 使其完全显色，冷却后立即测定 $\\mathrm { A } _ { 5 4 0 \\mathrm { n m } }$ 以HAase酶、LYZ和PBS为对照，实验重复两次。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.2.9自由基清除活性测定用甲醇配置 $0 . 0 5 \\%$ 的 DPPH溶液，向 $2 { \\mathrm { m L } }$ DPPH溶液中分别加入 $1 \\ \\mu \\mathrm { m o l / L }$ ， $5 \\mu \\mathrm { m o l / L }$ 和 $1 0 \\mathrm { \\ : \\mu m o l / L }$ 的rLYZL6溶液 $0 . 5 ~ \\mathrm { m L }$ ，室温下暗处静置 $3 0 \\mathrm { m i n }$ ，记录反应后 $\\mathbf { A } _ { 5 1 9 \\mathrm { n m } }$ ，自由基清除率 $( \\% ) \\ = \\ \\mathrm { ( A _ { 0 } { - } A _ { 3 0 } m i n ) } \\ \\mathrm { / A _ { 0 } }$ $\\times 1 0 0 \\%$ ， $\\mathbf { A } _ { 0 }$ 和 $\\mathbf { A } _ { 3 0 \\mathrm { m i n } }$ 分别为加入样品溶液时和 $3 0 \\mathrm { m i n }$ 后测定的吸光值，以LYZ和 PBS为对照，实验重复两次。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.2.10异肽酶活性测定使用 $0 . 0 5 \\mathrm { \\ m o l / L }$ 的3-（N-吗啉基）丙磺酸缓冲液(MOPS, $\\mathrm { p H } 7 . 0$ ，含有 $0 . 0 1 \\mathrm { m o l / L N a C l } ;$ ）配制 $0 . 0 1 7 5 \\mathrm { m o l / L }$ 的 $L - \\gamma$ -Glu-pNA 底物溶液。取rLYZL6溶液 $1 0 0 ~ \\mu \\mathrm { L }$ 与 $2 . 5 ~ \\mathrm { m L }$ 底物溶液混合，室温反应1h,每 $1 0 \\mathrm { m i n }$ 记录 $\\mathbf { A } _ { 4 0 5 \\mathrm { n m } }$ 上升值（ $\\langle \\Delta \\mathbf { A } _ { 4 0 5 \\mathrm { n m } } )$ ，以LYZ和PBS为对照，绘制吸光度曲线。1.2.11统计学分析所得数据用 SPSS17.0 统计软件分析。组间比较采用配对样本 $t$ 检验， $P < 0 . 0 5$ 为差异有统计学意义。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1精子免疫荧光检测对精子细胞进行计数后，在 $9 5 \\%$ 以上的精子细胞检测到免疫荧光，荧光位于精子头部顶体后区域（图1）。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a151bcb39c9d58ae53d73dbdcb2408fbd7990f3725c509b961ae5dd50847b2c.jpg",
+        "img_caption": [
+            "图1精子细胞LYZL4免疫荧光染色",
+            "Fig.1 Immunofluorescence staining of LYZL4 in spermatozoa "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2RT-PCR分析为检测精子上LYZL6的来源，本研究使用RT-PCR分析LYZL6基因在男性生殖系统的表达情况。结果显示在辜丸和附辜中均检测到LYZL6基因表达，辜丸的表达水平高于附辜，未检测到在精子中的表达，表明精子表面的LYZL6蛋白来源于辜丸和附辜的分泌（图2）。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8bcc5dc6f76fdb527a833290744a97a62bf97b78647446f99412417150241d3d.jpg",
+        "img_caption": [
+            "图2LYZL6在男性生殖系统中的表达谱分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Expression profile of LYZL6 in male reproductive system ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "M: DL2000 DNA marker; 1, testicular cDNA; 2: epididymal cDNA; 3: sperm cDNA ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3精子LYZL6免疫检测本研究通过Western blot检测获能前后精子蛋白提取物中LYZL6的改变。结果表明获能后精子表面LYZL6的量无明显改变(图3)。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/10b0a55329ac083a22183af62ec4dbf1f4b11620fbe50a6ea8c1b59d2a3cd4e6.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "capacitation ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4仓鼠卵精子穿透试验使用1:100，1:200 和1:400 稀释度的兔抗LYZL6 血清孵育获能精子后，与卵子融合的精子数明显下降，与对照组相比分别下降了$6 5 . 4 \\%$ ， $6 1 . 9 \\%$ 和 $51 . 5 \\%$ ，1:800和1:1600稀释度的抗血清没有引起明显下降；因此，兔抗LYZL6血清对精卵融合有剂量依赖的抑制作用（图4)。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/25642dcc89cd961d8c2f981fb84f161e5288b4a138b55afaecedc1391d5efe7f.jpg",
+        "img_caption": [
+            "图4抗LYZL6血清对精卵融合的影响 $\\scriptstyle ( \\mathbf { n } = 3 )$ （204号"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "\\* P < 0.05 vs the control group ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.5半透明带结合试验实验表明经1:10，1:50及1:200 稀释度的抗LYZL6 血清孵育精子后，平均有62、46和56个精子与半透明带结合，而以免疫前兔血清孵育的精子进行的配对半透明带试验，平均结合精子数分别为54、52和49。统计学分析提示各种稀释度的抗LYZL6血清均不能显著地抑制精子与透明带结合（图5）。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/26776b54ed7dc4c8115d416c9408e16cf9a5d881dc9ca2e428c9b6576e01091a.jpg",
+        "img_caption": [
+            "Fig. 4Effect of LYZL6 antiserum on sperm-egg fusion $\\scriptstyle ( { \\mathbf { n } } = 3 )$ （204号",
+            "图5抗LYZL6血清对精子透明带结合的影响 $\\scriptstyle ( \\mathbf { n } = \\mathbf { 8 } )$ ",
+            "Fig.5Effect of LYZL6 antiserum on sperm-hemizona binding $\\scriptstyle ( \\mathbf { n } = \\mathbf { 8 } )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.6重组蛋白表达纯化通过 SDS-PAGE 可在发酵液上清检测到 ${ \\sim } 1 4 . 8 \\mathrm { k D a }$ 的目的蛋白表达，分子量与LYZL6预期大小一致（图6）。采用甲壳素亲和层析和分子筛层析纯化后能够得到相同分子量蛋白，免疫印迹检测确认其为rLYZL6（图7）。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae8abfd6aade946b9b5447a835d5524f78972df789fcda6d9981acde2718d1c6.jpg",
+        "img_caption": [
+            "图6发酵液上清 SDS-PAGE电泳"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "M: Molecular weight marker; 1: Supernatant before induction; 2-6: Supernatant after ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/59e5f0c5d68f5947826b6995c8bb5d1b91d8cccbb05ea322f7618751b559598d.jpg",
+        "img_caption": [
+            "Fig. 6SDS-PAGE of the fermentation supernatant ",
+            "图7 纯化产物SDS-PAGE",
+            "Fig. 7SDS-PAGE of purified product "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "M: Molecular weight marker; 1-2: purified rLYZL6 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.7肽聚糖结合能力测定测定结果表明，在 $\\mathrm { p H } 5 . 0$ 条件下，rLYZL6的肽聚糖结合能力明显高于LYZ （图8)。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/dd11ab1f73167c4d1dbda1daa3d1043fb2e8aa56d91cfeb69d36a2761e5b5f9f.jpg",
+        "img_caption": [
+            "图8肽聚糖结合能力测定"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "\\* $P < 0 . 0 5$ vs the LYZ group ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.8透明质酸结合能力测定测定结果表明，HAase 具有较强的透明质酸结合能力，LYZ具有较弱的透明质酸的结合能力，rLYZL6的透明质酸结合能力最弱，明显低于HAase 和LYZ （图9)。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/eaf1e2828382e63dffd4e5104d11d62a8062f34647b99c17dcfde6673b062044.jpg",
+        "img_caption": [
+            "Fig. 8Assays of peptidoglycan binding ability ",
+            "图9透明质酸结合能力测定",
+            "Fig.9Assays of hyaluronan binding ability "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "＊ $P < 0 . 0 5$ vs the HAase group and the LYZ group ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.9透明质酸水解活性测定结果表明，透明质酸酶显示了浓度依赖的透明质酸水解活性，rLYZL6和LYZ均未检测到明显的透明质酸水解活性，两者无明",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "显差别（图10）。",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/017bc07140e9b67569d56a22bbb024559811f2eaf1df1cfc5e18d23f5a5e0c34.jpg",
+        "img_caption": [
+            "图10透明质酸水解活性测定"
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "\\* P < 0.05 vs the HAase group ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2.10自由基清除活性测定结果表明，LYZ 显示了浓度依赖的自由基清除活性，但未观察到rLYZL6有明显的自由基清除活性（图11）。",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/235f9724515181cc86668282b50dd37998cc069deaa711388e0c1e57c17af86e.jpg",
+        "img_caption": [
+            "Fig.10Assays of hyaluronan hydrolyzing activity ",
+            "图11 自由基清除活性测定",
+            "Fig.11Assays of free radical scavenging activity \\* P<0.05 vs the LYZ group "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2.11异肽酶活性测定结果表明，LYZ显示了较弱的异肽酶活性，rLYZL6 则显示了较强的浓度依赖的异肽酶活性，明显高于LYZ（图12）。",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/b85d4c167233477d5406eaf19428d2c363898338ab919fe5ba0eb0c1fbbdac02.jpg",
+        "img_caption": [
+            "图12 异肽酶活性测定",
+            "Fig. 12Assays of isopeptidase activity \\* P < 0.05 vs the LYZ group "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "本课题组此前采用免疫组化方法在辜丸中的晚期精母细胞及圆形精子细胞检测到LYZL6的定位，通过免疫荧光染色进一步确认了其定位于精子头部顶体后区域[10]。结合已有的研究可以发现，类溶菌酶蛋白被分泌后均定位于精子细胞上，但具体的亚细胞定位却不完全相同。如SLLP1被分泌后定位于精子头部的顶体细胞膜上，小鼠LYZL4定位于精子头部顶体和尾部，而LYZL6的定位与两者并不相同，这可能意味着各种类溶菌酶蛋白有不同的功能[3,7]。虽然利用Western blot法在睾丸和附睾组织以及精子的蛋白提取物中可检测到了LYZL6，但无法判定精子上的LYZL6的确切来源。本研究利用RT-PCR分析表明LYZL6并非由精子表达，而是由辜丸和附辜组织分泌后附着于精子头部顶体后区域。由于精子在进入女性生殖道后经历了获能过程，其表面分子会发生各种变化，一些早期附着在精子上的蛋白分子如糖蛋白Glycodelin-S 发生丢失[12-13]。如果LYZL6存在这种情况，则有可能并不会在后续的受精过程中发挥作用。本研究通过检测获能前后精子蛋白提取物中的LYZL6，确认了其在获能后并未发生丢失，因此LYZL6仍然有可能在受精过程中发挥作用。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "对于成功的受精，精子需要依次经历一系列步骤，包括获能、穿过卵丘、结合透明带ZP蛋白、发生顶体反应、穿过透明带、与卵细胞膜结合等，在每个阶段都有各种分子发挥关键作用[14-15]。本研究使用了仓鼠卵精子穿透试验和半透明带结合试验来初步调查LYZL6是否参与受精过程。使用抗LYZL6血清孵育精子后，明显降低了与卵细胞膜融合的精子数，这与此前的研究结果一致[10]；但使用抗LYZL6血清孵育精子后并不影响精子与透明带的结合，这意味着LYZL6对于受精过程而言可能仅在其中少数阶段（如精卵融合）中发挥作用。已有研究表明SLLP1可以在受精过程的精卵结合阶段发挥作用[7]，本课题组也发现LYZL4也显示了类似的功能 (结果尚未发表)，所以推测类溶菌酶家族蛋白能够在在受精过程的不同阶段发挥作用；此外，由于SLLP1能够通过与卵子细胞膜上的配体蛋白结合而在精卵结合中发挥作用，不排除LYZL6可以通过类似结合配体的方式在受精过程中发挥作用[16]。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "有研究表明，辜丸和附辜中的一些蛋白会结合于精子上，在多种水平上影响精子功能，其中最重要的就是调节精子的生成和成熟[17-18]。除了这些功能，有些分子还具有抗菌作用，从而在男性生殖系统先天性免疫中发挥重要作用，如HE2、EPPIN 和PATE 家族蛋白[19-22]。LYZ 是男性生殖道分泌液中大量存在的分子之一，其除了可以发挥杀菌活性之外，还可以调解精液的粘度[23]。就目前研究所知，类溶菌酶蛋白的功能与LYZ并不相同。如SLLP1和LYZL4不具有明显的胞壁质酶活性，因此其不能水解细菌细胞壁中N-乙酰胞壁酸和 N-乙酰葡萄糖胺之间β-1，4-糖苷键，从而丧失了杀菌活性[7]。本课题组此前的研究表明LYZL6具有杀菌活性，且最适条件为酸性。本研究证明与LYZ 相比，在低pH条件下LYZL6具有较强的肽聚糖结合能力，这正是保证其具有较强的杀菌活性的前提条件；此外，由于LYZL6发挥最大活性pH条件与女性阴道接近，因此有可能在精子进入女性生殖道后发挥一定的精子保护作用。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "本研究还发现LYZL6具有较强的异肽酶活性。目前仅发现少数无脊椎动物型（invertebrate type，i型）溶菌酶兼具异肽酶活性，如在花蛤和东部牡蛎中分离到的i型溶菌酶[24-25]。LYZL6 的异肽酶活性对于精子功能有何影响还尚待进一步研究，但已知的是，纤维蛋白的赖氨酸残基和谷氨酸残基的侧链间通过异肽键(isopeptidebond）相交联，异肽酶能够异肽键，使纤维蛋白得到溶解，具有溶解血栓的作用，这意味着LYZL6为血栓治疗提供了一种潜在的选择。值得注意的是，类溶菌酶家族蛋白似乎具有不同的生理特性，如LYZL4并不具有异肽酶活性（结果尚未发表)；此外，虽然LYZL6不能结合透明质酸和清除自由基，但本课题组发现LYZL4具有较强的透明质酸结合能力和自由基清除能力，这提示不同的类溶菌酶蛋白在功能上有显著的差异性。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "总的来看，本研究进一步证实LYZL6由辜丸和附辜分泌后定位于成熟精子头部的顶体后区域，可能在受精过程的精卵融合阶段发挥作用，除了具有杀菌活性之外还具有异肽酶活性，提示LYZL6可能通过多种机制参与精子功能。本课题组后续将对LYZL6在受精过程中的作用机制及其酶学活性的生理意义进行探讨，以期促进对类溶菌酶家族蛋白功能的理解。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[1] Zhang K X, Gao R, Zhang H X, et al. Molecular cloning and characterization of three novel lysozyme-like genes, predominantly expressed in the male reproductive system of humans, belonging to the c-type lysozyme/alpha-lactalbumin family. Biology of Reproduction, 2005, 73(5): 1064-1071.   \n[2] Narmadha G, Muneswararao K,Rajesh A, et al. Characterization of a novel lysozyme-like 4 gene in the rat. PLoS One, 2011, 6: e27659.   \n[3] Sun R L, Shen R L,Li J, et al. Lyzl4, a novel mouse sperm-related protein, is involved in fertilization. Acta Biochimica et Biophysica Sinica, 2011, 43(5): 346-353.   \n[4] Wei J, Li S J, Shi H, et al. Characterisation of Lyzls in mice and antibacterial properties of human LYZL6. Asian Journal of Andrology, 2013,15(6): 824-830.   \n[5] Jolles P, Jolles J. What's new in lysozyme research? Molecular and Cellular Biochemistry, 1984, 63(2): 165-189.   \n[6] Prager E M, Jolles P.Animal lysozymes c and g: an overview. In: Jolles P (ed). Lysozymes: Model Enzyme in Biochemistry and Biology. Birkhauser Verlag, Basel, Switzerland, 1996:9-31.   \n[7] Mandal A, Klotz KL, Shetty J, et al. SLLP1,a unique, intra-acrosomal, nonbacteriolytic, c lysozyme-like protein of human spermatozoa. Biology of Reproduction, 2003; 68(5): 1525-1537. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[8] 黄鹏，李文姝，谢君，等．人源类溶菌酶蛋白6在毕赤酵母中的重组表达及 活性分析．中国生物工程杂志,2015,35(8):30-37. Huang P, Li W S, Xie J, et al. Expression of human lysozyme-like protein 6 in Pichia pastoris and analysis of enzymatic activity of the protein. China Biotechnology, 2015, 35(8): 30-37. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[9] 黄鹏，李文姝，杨智昉，等．人源类溶菌酶蛋白6在男性生殖系统中的表 达．中华男科学杂志,2016,22(7): 584-590. Huang P, Li W S, Yang Z F, et al. Expression of human lysozyme-like protein 6 in the male reproductive system. National Journal of Andrology, 2016, 22(7) 584-590. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[10] Huang P, Li W S, Yang Z F,et al. LYZL6, an acidic, bacteriolytic, human sperm-related protein, plays a role in fertilization. PLoS One, 2017,12(2): e0171452.   \n[11]黄鹏，杨智昉，徐一新，等．人源类溶菌酶蛋白4的多克隆抗体制备及其表 达分析．中华男科学杂志,2017,23(1):3-10. Huang P, Yang Z F, Xu Y X, et al. Preparation of a polyclonal antibody against human LYZL4 and its expression in the testis. National Journal of Andrology, 2017, 23(1): 3-10.   \n[12] Chiu P C N, Tsang H Y, Chung MK, et al. Glycodelin-S in human seminal plasma reduces cholesterol efflux and capacitation of spermatozoa. Journal of Biology Chemistry, 2005, 280(27): 25580-25589.   \n[13]Visconti P E, Westbrook V A, Chertihin O, et al. Novel signaling pathways involved in sperm acquisition of fertilizing capacity. Journal of Reproductive Immunol0gy,2002, 53(1-2): 133-150.   \n[14] Stein K K, Primakoff P, Myles D. Sperm-egg fusion: events at the plasma membrane. Journal of Cell Science, 2004, 117(26): 6269-6274.   \n[15]Rubinstein E, Ziyyat A, Wolf J-P,et al. The molecular players of sperm-egg fusion in mammals. Seminars in Cell & Developmental Biology, 2006, 17(2): 254-263.   \n[16]Sachdeva M, Mandal A,Mulders S, et al. Oocyte specific oolemmal SAS1B ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "involved in sperm binding through intra-acrosomal SLLP1 during fertilization. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Developmental Biology,2012, 361(1): 40-51.   \n[17]Dacheux JL, Dacheux F, Druart X. Epididymal protein markers and fertility. Animal Reproduction Science, 2016, 169: 76-87.   \n[18]Dacheux JL, Dacheux F. New insights into epididymal function in relation to sperm maturation. Reproduction, 2014, 147(2): R27-42.   \n[19]Rajesh A, Yenugu S. Effect of immunization against prostate- and testis-expressed (PATE) proteins on sperm function and fecundity in the rat. Journal of Reproductive Immunology, 2015,110: 117-129.   \n[20]Yenugu S, Hamil K G, French F S, et al. Antimicrobial actions of the human epididymis 2 (HE2) protein isoforms,HE2alpha, HE2betal and HE2beta2. Reproductive Biology and Endocrinology, 2004, 2: 61.   \n[21] Guo C, Diao H, Lian Y, et al. Recombinant expression and characterization of an epididymis-specific antimicrobial peptide BIN1b/SPAG11E.Journal of Biotechnol0gy, 2009,139(1): 33-37.   \n[22]Yenugu S,Richardson R T, Sivashanmugam P, et al. Antimicrobial activity of human EPPIN, an androgen-regulated, sperm-bound protein with a whey acidic protein motif. Biology of Reproduction, 2004, 71(5): 1484-1490.   \n[23]Mendeluk G R, Blanco A M, Bregni C. Viscosity of human seminal fluid: role of lysozyme. Archives Andrology, 1997, 38(1): 7-11.   \n[24]Takeshita K, Hashimoto Y, Ueda T, et al. A small chimerically bifunctional monomeric protein: Tapes japonica lysozyme. Cellular and Molecular Life Sciences, 2003,60(9): 1944-1951.   \n[25] Xue Q G, Itoh N, Schey KL, et al. A new lysozyme from the eastern oyster (Crassostrea virginica) indicates adaptive evolution of i-type lysozymes. Cellular and Molecular Life Sciences,2007, 64(1): 82-95. ",
+        "page_idx": 16
+    }
+]

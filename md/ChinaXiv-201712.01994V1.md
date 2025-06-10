@@ -1,0 +1,226 @@
+# 中间锦鸡儿CibHLH027基因的克隆和功能研究\*
+
+杨天瑞1’李娜1’张秀娟²杨杞」王瑞刚」李国婧1\*\*\*(1内蒙古农业大学生命科学学院呼和浩特 0100182内蒙古生物技术研究院呼和浩特010010）
+
+摘 要叶片衰老是植物生长发育的最后阶段，黑暗、干旱和极端温度等会加速叶片衰老过程，严重影响植物的生长发育和作物产量。bHLH（basichelix-loop-helix）属于转录调控因子中的一个大家族，因具有保守性较高的bHLH结构域而得名，广泛存在于真核生物界。本研究在中间锦鸡儿（Caragana intermedia）转录组数据库中，得到一条候选bHLH基因全长序列，将其命名为CibHLHO27。正常和黑暗诱导的情况下，CibHLH027-OE株系较WT相比叶片衰老明显，并且黑暗处理后叶绿素含量下降、离子渗透率增大、细胞膜受损严重，说明CibHLH027参与了叶片衰老调控过程。
+
+关键词：中间锦鸡儿；CibHLH027；黑暗；叶片衰老
+
+# Cloning and Functional Characterization of CibHLHO27 Involved in Leaf Senescence from Caragana intermedia
+
+YANG Tian-rui1\* LI Na1\* ZHANG Xiu-juan² YANG Qi1 WANG Rui-gang1
+
+LI Guo-jing1\*
+
+(1 College of Life Sciences,Inner Mongolia Agricultural University,Hohhot O1oo18,China)
+
+(2 Inner Mongolia Institute of Biotechnology,Hohhot O1oo10,China)
+
+AbstractLeaf senescence is the last phase of plant development, environmental factors such as dark, drought, extreme temperature can promote leaf senescence,which may influence the plant growth and crop yield. Basic/helix-loop-helix （bHLH） transcription factors（TFs） belong to a superfamily of transcriptional regulators, it is named bHLH for its highly conserved bHLH domain,and widely exists in the eukaryotes.In this study, a candidate bHLH encoding gene, CibHLH027,was screened from the transcriptome library of Caragana intermedia. Compared with wild type， CibHLH027-OE promoted leaf senescence under both light and darkness, with reduced chlorophyll content, increased ion leakage and cell death under darkness,indicates that CibHLH027 is involved in leaf
+
+senescence.
+
+Key words: Caragana intermedia;CibHLH027;darkness; leaf senescence
+
+植物生长发育的最后阶段，在多种内源因素影响下会表现出一系列衰老现象，如肉眼可见的叶绿素降解，相关衰老基因的诱导表达，胞内分子、代谢方面的变化，细胞程序性死亡，最终结束植物的生命史[,2]。干旱、水涝、极端温度、太阳辐射、贫瘠的土壤和黑暗等逆境胁迫会加速叶片衰老的进程[1,3]。
+
+高等植物叶绿素通常包括两部分：呈现蓝绿色的叶绿素a和黄绿色的叶绿素b[4]，叶绿素降解使叶片变黄是可直接观察得的植物叶片衰老指标[21。叶绿素的降解过程为：叶绿素在叶绿素酶（CLH）的催化下脱去植醇基形成Chlide，随后Chlide在金属螯合物（MCS）的辅助下去除镁离子形成脱镁叶绿酸a（Pheidea)，该产物由脱镁叶绿酸a加氧酶（PAO）催化生成不稳定的红色叶绿酸代谢产物（RCC)，后由红色叶绿素代谢产物还原酶（RCCR）催化得到叶绿素荧光代谢产物（pFCC），经过几番修饰后形成非荧光叶绿素代谢产物（NCCs）储存在液泡中[5,8]。近年，随着基因NYC1（NON-YELLOWCOLORING1）和NOL（NYC1-LIKE）的克隆与功能挖掘，发现NOL所编码的蛋白具有叶绿素b还原酶活性，NOL与NYC1为同源基因，推测NYC1编码的蛋白也是叶绿素b还原酶[6,7]。
+
+叶片在适宜生长条件下出现衰老现象，一般认为是由于发育或叶龄依赖导致的，任何环境胁迫因素都可诱导植物叶片衰老[3,9]。人为诱导植物衰老的研究中，黑暗诱导模式较为常用，黑暗诱导的衰老能部分模拟叶龄依赖的自然衰老过程，表现出与自然衰老相似的现象，如：叶绿素流失以及蛋白降解[10,1]。拟南芥突变体株系ore10，在黑暗诱导叶片衰老过程中，参与调节光捕获的复合体II（LHCII）降解，表现出叶绿素降解延缓的现象[12]。另有研究显示，在黑暗诱导下，AtWRKY22过表达株系明显表现出衰老表型，且衰老相关基因表达量显著上升，而AtWRKY22的突变体株系则表现为衰老延缓[13]。
+
+bHLH转录因子于1989 年首次于从动物中鉴定，因含有bHLH结构域而得名[14]。bHLH结构域由大约60个氨基酸组成，分为碱性氨基酸区域（basic)和 $\mathfrak { a }$ 螺旋-环 $\mathbf { \alpha } \cdot \mathbf { a }$ -螺旋区（HLH)。碱性氨基酸区位于bHLH结构域的N-端，长度约为15个氨基酸，主要负责参与DNA的结合。HLH区位于该结构域的C-端，由大约40 个氨基酸组成，具有形成二聚体的特性[14-16]。植物中，bHLH转录因子在逆境胁迫应答及信号传导的调控中都发挥重要作用[]。如拟南芥中过表达编码 MYC-like bHLH转录因子的ICE1（Inducerof CBF expression1）基因，过表达株系的耐冷性增强[18]。2014年报道的PebHLH035基因[19],在拟南芥中过表达以后，通过控制气孔密度、开度、光合作用及生长过程来正调控干旱胁迫应答过程。在信号转导方面，bHLH转录因子PIF4和PIF5作为光敏色素互作因子，受光信号调控[20]。BEE1、BEE2和BEE3参与对油菜素内酯的响应，并且这三个基因在油菜素内酯的信号传导中功能冗余[21]。
+
+以锦鸡儿属中的中间锦鸡儿为实验材料，从转录组数据库中筛选出受干旱、高盐等非生物胁迫诱导的CibHLH027基因，克隆得到了该基因的全长cDNA序列，并将该基因导入到拟南芥，初步观察表型发现，CibHLH027过表达株系较野生型率先出现叶片变黄，为明确CibHLH027的功能，对CibHLH027参与调控植物叶片衰老过程进行了进一步探究。
+
+# 1材料与方法
+
+# 1.1 材料
+
+1.1.1植物材料、菌株、质粒
+
+拟南芥（Arabidopsisthaliana）col-0由本实验室保存；中间锦鸡儿种子采集于内蒙古自治区乌兰察布市四子王旗。
+
+大肠杆菌感受态细胞Trans-T1购于北京全式金公司，农杆菌GV3101 由实验室保存。
+
+克隆载体pEASY-Blunt-simple购于北京全式金公司，表达载体pCanG-HA由中国科学院遗传与发育研究所谢旗研究员惠赠，pCambia1302由实验室提供。
+
+# 1.1.2试剂
+
+限制性内切酶SalI、SpeI、NcoI购于Thermo公司；T4连接酶购于NEB（NewEngland Biolabs)公司 ; PrimeSTAR HS DNA Polymerase、DNase I (RNase free)、Rnase Inhibitor、Oligo(dT)18、反转录酶M-MLV、dNTPs、DNA Marker等均购于大连宝生物工程公司（TaKaRa）；胶回收和质粒提取试剂盒均购于宝泰克公司（BioTeke）；潮霉素（Hygromycin)，卡那霉素（Kanamycin）购自Sigma公司；PCR引物由上海生物工程有限公司合成。
+
+# 1.2方法
+
+# 1.2.1中间锦鸡儿处理方法
+
+中间锦鸡儿种子种于混合土（营养土：蛭石 $^ { = 1 }$ ：2）中，在 $2 2 ^ { \circ } \mathrm { C }$ 、光照16/黑暗8h的植物培养室内培养20-30天，取长势良好的幼苗进行处理。
+
+热处理：取生长于培养钵中的幼苗，置于温度为 $4 0 ^ { \circ } \mathrm { C }$ 的光照培养箱中进行处理；ABA、高pH、NaCl处理：取出若干培养钵中的幼苗，在清水中小心洗去植物根系周围的泥土，随后将幼苗根系浸泡于 $1 0 0 ~ \mu \mathrm { M }$ ABA、高 $\mathsf { p H }$ （由NaHCO3配制， $\mathrm { \tt p H } = 1 0 \$ 及 $3 0 0 \ \mathrm { m M \ N a C l }$ 溶液中，以未经浸泡的幼苗作为对照；黑暗处理：将生长 $2 0 { \mathrm { ~ d ~ } }$ 的中间锦鸡儿幼苗，置于恒温无光照培养箱中继续生长，黑暗处理完毕，将植物生长环境恢复正常光照，在特定时间进行取样；上述热、ABA、高 $\mathfrak { p H }$ 和 NaC1取样时间点为 $0 \mathrm { ~ h ~ }$ 、 $0 . 5 \mathrm { ~ h ~ }$ 、 $^ { \textrm { 1 h } }$ 、 $^ { 3 \mathrm { ~ h ~ } }$ 、 $6 \textup { h }$ 、 $1 2 \mathrm { ~ h ~ }$ 、$2 4 \mathrm { ~ h ~ }$ 、 $^ { 4 8 \mathrm { ~ h ~ } }$ ；黑暗处理取样时间点为： $0 \mathrm { ~ d ~ } , \ 2 \mathrm { ~ d ~ } , \ 4 \mathrm { ~ d ~ } , \ 6 \mathrm { ~ d ~ } , \ 8 \mathrm { ~ d ~ } .$ 、恢复光照 $2 \mathrm { ~ d ~ }$ 后。每个时间点的样品取3株幼苗的地上部分。
+
+# 1.2.2拟南芥胁迫处理方法
+
+CibHLH027过表达株系遗传转化背景为拟南芥Col-0生态型，待植物3周大时，做黑暗处理，参考Xiang等[13]方法，略有不同。
+
+离体莲座叶处理：取各株系单株植物离体的总莲座叶或第3、4片莲座叶，置于塑料培养皿中，培养皿底部附有两张滤纸，并加 $3 ~ \mathrm { m L }$ ddH20 浸湿滤纸，封口膜封口，随后用锡箔纸包裹培养皿，于原培养环境黑暗处理。整株植株处理：取各株系于培养钵中正常生长3周大的植株若干株置于 $2 2 ^ { \circ } \mathrm { C }$ 培养箱中（无光照）培养，每隔数日观察植物生长变化情况。
+
+# 1.2.3中间锦鸡儿和拟南芥总RNA提取与反转录
+
+采用Trizol试剂提取中间锦鸡儿样品总RNA，利用超微量紫外分光光度计对RNA进行浓度测定，琼脂糖凝胶电泳检测RNA质量。采用RNAPCRkit进行cDNA第一链的合成，详细步骤参照试剂盒说明书进行操作。
+
+# 1.2.4CibHLH027cDNA 的 ORF克隆
+
+根据干旱转录组数据库中得到的CibHLH027基因的cDNA序列设计特异性引物:F-CibHLH027（gcGTCGACATGGAGAATATTGGTAATGAGTACA）和 R-CibHLH027（gcACTAGTTCAGATGCTCATAGGGCTTAG)，以中间锦鸡儿cDNA为模板，利用高保真酶PrimeSTAR进行PCR扩增。反应程序如下： $9 8 ^ { \circ } \mathrm { C }$ 预变性 $1 ~ \mathrm { m i n }$ ， $9 8 ^ { \circ } \mathrm { C }$ 变性 $1 0 \mathrm { ~ s ~ }$ ， $5 8 . 6 ^ { \circ } \mathrm { C }$ 退火 $1 0 \mathrm { ~ s ~ }$ ， $7 2 ^ { \circ } \mathrm { C }$ 延伸 $1 ~ \mathrm { m i n }$ ，30个循环， $7 2 ^ { \circ } \mathrm { C }$ 补充延伸 $5 ~ \mathrm { m i n }$ 。
+
+# 1.2.5基因表达分析
+
+将中间锦鸡儿cDNA稀释16倍（ $1 6 \times )$ 作为目的基因表达分析的模板，目的基 因 引 物 为 CibHLH027-F（GGGGATTGGATGAGGCGTT）、CibHLH027-R（TGTTGGGGACCACTGATCTAAGA），中间锦鸡儿内参基因引物为CiEF1α[22]（F:CAAAAAGTCCCCTCGTTGTCTC，R:AGCAATCGTTCTTC CTAATGATCTAA）， 拟 南 芥 内 参 引 物 AtEF1α( AtEF1α:AT5G60390 ）（ F: AGAAGGGTGCCAAATGATGAG ，R:GGAGGGAGAGAGAAAGTCACAGA），体系如下：模板 ${ 5 \mu \mathrm { L } }$ ，SYBR $\textsuperscript { \textregistered }$ PremixEx TaqTM $1 0 \mu \mathrm { L }$ ， $1 0 \mu \mathrm { M }$ 引物各 $0 . 8 \mu \mathrm { L }$ ，DEPC水补至 $2 0 \mu \mathrm { L }$ 。反应程序如下：$9 5 ^ { \circ } \mathrm { C }$ 预变性 $1 ~ \mathrm { m i n }$ ， $9 5 ^ { \circ } \mathrm { C }$ 预变性5s， $6 0 ^ { \circ } \mathrm { C }$ 退火 $3 0 ~ \mathrm { s }$ ， $7 2 ^ { \circ } \mathrm { C }$ 延伸 $1 0 \ \mathrm { { s } } , \ \ 4 0$ 个循环。
+
+# 1.2.6植物表达载体重组构建
+
+利用目的基因两端预先加的SalI、SpeI酶切位点，将CibHLH027从克隆载体 pEASY-Blunt-simple上酶切，再与线性的植物表达载体 pCanG 进行重组，构建pCanG-CibHLH027。将序列两端加有NcoI、SpeI酶切位点的CibHLH027从克隆载体pEASY-Blunt-simple载体上酶切，后与线性pCambial302表达载体进行重组，构建pCambia1302-CibHLH027。
+
+# 1.2.7拟南芥转化及纯合体株系鉴定
+
+通过农杆菌花粉管侵染转化拟南芥，收获种子后，于含有 $2 5 ~ \mathrm { { m g / L } }$ 卡那霉素的 $1 / 2 ~ \mathrm { M S }$ 培养基上进行筛选，得到纯合体T3代，分别以cDNA及 $1 6 \times$ 的cDNA为模板，进行纯合体鉴定以及各株系表达量的鉴定。
+
+# 1.2.8拟南芥原生质体制备及转化
+
+拟南芥原生质体制备参考 $\mathrm { w } _ { \mathrm { u } }$ 等[23]方法，略有不同。利用Time tape 和Magic Tape小心剥离叶片的下表皮，将其余部分浸泡在酶解液中，室温下轻缓振荡培养 $^ \textrm { \scriptsize 1 h }$ ，使原生质体解离到液体中；随后离心并清洗沉淀，提取完成后，取稀释过的原生质体 $0 . 2 ~ \mathrm { m L }$ 与 $3 0 ~ { \mu \mathrm { g } }$ 质粒混匀，加入等体积PEG，轻缓混匀，在室温下静置 $5 { \cdot } 1 0 \ \mathrm { m i n }$ ；再次清洗沉淀后于室温下培养16h，次日在荧光显微镜下观察转化情况。
+
+# 1.2.9拟南芥叶绿素含量的提取
+
+此提取方法参考张宪政[24]的丙酮-乙醇混合液提取法，略有改动：
+
+取来自各株系若干株植株上处理过的第3、4片莲座叶，于液氮预冷的研钵中进行研磨，准确称取 $\boldsymbol { 0 . 1 \mathrm { \textrm { g } } }$ 样品于加有 $1 0 ~ \mathrm { m L }$ 丙酮-乙醇混合液（丙酮：无水乙醇 $= 1 { : } 1$ ）的 $1 5 ~ \mathrm { m L }$ 离心管中；放置黑暗、室温下浸提 $^ { 5 \mathrm { ~ h ~ } }$ ；观察管内样品叶绿素提取完全后，于室温， $6 0 0 0 ~ \mathrm { r p m }$ ，离心 $1 0 ~ \mathrm { m i n }$ ；缓慢吸取上清于新离心管，在 $6 0 0 ~ \mathrm { { n m } }$ 可见光处测吸光值。
+
+# 1.2.10拟南芥离子渗透率检测方法
+
+该实验方法参考Sakuraba等[20]的方法：取各株系胁迫处理的第3、4片莲座叶10片于离心管，每管加 $6 ~ \mathrm { m L }$ 的
+
+$0 . 4 \mathrm { ~ M ~ }$ 甘露醇 (需用去离子水配制)；室温轻微振荡 $^ { 3 \mathrm { ~ h ~ } }$ ；将第一次测量的离子渗透率记为C1；沸水浴 $1 0 ~ \mathrm { { m i n } }$ ，液体冷却后进行第二次离子渗透率测量，记为C2；根据C1/C2的比值计算每个样品的相对离子渗透率。
+
+# 1.2.11拟南芥叶片细胞死亡率检测方法
+
+此检测方法参考 Zhang等[25]、刘楠等[26]的检测方法，略有改变。
+
+称取 $0 . 1 5 \mathrm { ~ g ~ }$ 处理后的叶片，完全浸没在 $0 . 1 \ \%$ （W/V）的 Evans Blue 染液中；放入真空泵中，经过2次5-min 循环抽真空，随后在真空环境下静置$3 0 ~ \mathrm { m i n }$ ；叶片经蒸馏水冲洗3次，每次 $5 \mathrm { - } 1 0 ~ \mathrm { m i n }$ ，洗去叶片表面吸附的染液，用滤纸吸去叶片表面的水分；小心取叶片于新离心管中，加入无水乙醇-甘油（9:1）混合液 $1 0 ~ \mathrm { m L }$ ，沸水浴 $3 0 ~ \mathrm { m i n }$ ，脱去叶片中的叶绿素，使叶片底色显白；经蒸馏水冲洗2次，将叶片放入加有 $6 ~ \mathrm { m L }$ 的 $5 0 \% \mathrm { ( V / V ) }$ 甲醇 $- 1 \% ( \mathrm { W / V } )$ （204号SDS的溶液中萃取EvansBlue染液；在 $6 0 0 \ \mathrm { n m }$ 可见光处检测吸光度；以在沸水中煮沸 $1 5 ~ \mathrm { m i n }$ 的叶片做对照。
+
+# 2结果与分析
+
+# 2.1CibHLH027基因全长克隆及表达载体的构建
+
+以中间锦鸡儿cDNA为模板，通过PCR 克隆该基因，扩增得到 738bp片段，经测序比对，与转录组数据库中序列一致，编码245个氨基酸，GeneBank登录号为：MF981082。酶切重组质粒，获得的片段大小均约 750bp,与CibHLH027大小一致，说明CibHLH027-pCambial302重组质粒与CibHLH027-pCanG重组质粒均构建成功,如图1。
+
+![](images/48223c4bb4416d7f6acd1af77a8283db171e6e4f9b6a949ec86cbcc6bf111cff.jpg)  
+图1CibHLH027基因 PCR产物及 CibHLH027-pCambia1302、CibHLH027-pCanG载体的酶切验证M1：DNA wide range(100-6000) Marker；M2,M3：DL 5000 Marker；泳道 1:CibHLH027基因 PCR 产物；泳道 2:NcoI、SpeI酶切产物；泳道3:CibHLH027-pCambia1302 重组质粒对照；泳道4:SalI、SpeI酶切产物；泳道 5:
+
+# CibHLH027-pCanG重组质粒对照
+
+Fig.1Gel electrophoresis of the PCR products of the candidate CibHLH027 and binary vectors
+
+CibHLH027-pCambia1302、CibHLH027-pCanG
+
+M1:DNA wide range (100-6000) Marker; M2,M3:DL 5000 Marker; Lane 1: PCR products of the candiadate CibHLH027;Lane 2: products digest with NcoI、Spe I;lane 3:vector controlof CibHLHo27-pCambial302;lane 4: products digest with Sal I、Spe I;lane 5:vector control of CibHLHo27-pCanG
+
+# 2.3 CibHLH027基因对逆境胁迫响应分析
+
+通过对中间锦鸡儿幼苗进行ABA、NaC1、高 $\mathfrak { p H }$ 、热、黑暗及干旱处理，采用实时荧光定量PCR检测CibHLH027在逆境胁迫下的响应情况。结果表明，在ABA和高pH胁迫下，CibHLH027被迅速诱导，且上调程度较明显，其表达量均在受到胁迫的 $^ \textrm { \scriptsize 1 h }$ 时达到响应的最大值，随后下降。在NaC1和热诱导下，CibHLH027同样被迅速诱导且表达量在 $0 . 5 \mathrm { ~ h ~ }$ 时达到响应的最大值，随后明显呈下降趋势。在黑暗处理的第2d到第8d，CibHLH027的表达量与对照相比明显持续下降，恢复光照2d后，该基因表达量迅速回升至与对照基本一致的水平。CibHLH027对干旱响应较微弱，在处理过程中以及复水后，该基因表达量变化与对照组相比变化不明显，如图2所示。
+
+![](images/fe2ced84be622824037ea6b519b226c5d956d9bcab8e513aa16050be4a548a18.jpg)
+
+A:ABA处理B：NaCl处理C：高pH处理D：热处理E：黑暗处理(R1表示恢复光照2d）F：干旱处理（R2表示复水 3 d)
+
+Fig.2qRT-PCR analysis of CibHLH027 in response to abiotic stress
+
+A:ABA treatment B:NaCl treatment C:high pH treatment D:hot treatment E:dark treatment (Rl indicates 2 days after recover illuminance) F:drought treatment (R2 indicates 3 days after rewater)
+
+# 2.4 CibHLH027的亚细胞定位观察
+
+将构建好的CibHLH027-GFP载体与35S:GFP载体分别转化拟南芥叶肉原生质体，培养 $1 6 \mathrm { ~ h ~ }$ 后在荧光显微镜下观察亚细胞定位。如图3所示，对照组中GFP在拟南芥叶肉细胞中大量表达，使得荧光分布于整个细胞，而CibHLH027-GFP的荧光主要集中在细胞核中，结果表明CibHLH027-GFP定位于细胞核中，这与其作为转录因子的功能是一致的。
+
+![](images/015a51e8cb1b4d3b52ae4b51d835e6f480178342dbce21ae18ce5eb4b0808715.jpg)  
+图2qRT-PCR 检测CibHLH027对非生物胁迫的响应情况  
+图3CibHLH027-GFP在拟南芥原生质体中的亚细胞定位  
+Fig.3Subcellular localization of CibHLH027 fused with GFP in Arabidopsis mesophyllprotoplast
+
+# 2.5 CibHLH027-OE株系纯合体鉴定
+
+对8个CibHLH027的过表达纯合体株系进行表达量检测，如图4A所示阴性对照（野生型拟南芥以及转pCanG空载体拟南芥）未扩增到目的条带，纯和株系均扩增到目的条带。OE-57表达量相对较高，OE-101和OE-105次之，OE-85最低，在后续研究中，选择株系57、85和101进行功能验证。
+
+![](images/e2497255d2022daf24d26346653577a2994f0c8d7c0b7ad7137b2b0d17662e54.jpg)  
+图4CibHLH027-OE 转基因株系的鉴定图A：CibHLH027-OE转基因植物(T3)RT-PCR检测
+
+M：DNADL2000 Marker，泳道1、2：阴性对照（依次为野生型拟南芥、转 pCanG 拟南芥cDNA)，泳道3：阳性对照（中间锦鸡儿cDNA)，泳道4-11：转基因植物株系108、74、51、57、45、105、85和101图B：CibHLH027-OE 转基因(T3)qRT-PCR检测
+
+Fig.4 Identification of the CibHLH027-OE transgenic plants
+
+A:RT-PCR analysis of CibHLHo27-OE in transgenic plants
+
+M: DNADL20oo Marker,Lane1、2: negative control,Lane3: positive control,Lane 4-11: transgenic lines 108、 74、51、57、45、105、85和101 B:qRT-PCR analysis of CibHLHo27-OE in transgenic plants
+
+# 2.6 CibHLH027基因参与叶片衰老的功能分析
+
+在前期研究中发现，正常生长条件下的CibHLH027-OE转基因株系较WT表现出叶片提前衰老的现象，如图5所示，推测CibHLH027参与调控植物叶片衰老过程，在代谢水平上促进了叶绿素降解。
+
+![](images/9b82fb6b32bf1e109cbc1e36e4c30aac61549e6f33bb8f488c8483786f54a008.jpg)  
+图5 CibHLH027叶片衰老现象  
+Fig.5 CibHLH027 leaf senescence phenotype
+
+2.6.1CibHLH027-OE株系在黑暗诱导衰老中的表型分析
+
+接着以3周大的CibHLH027-OE转基因拟南芥与WT为材料，将整株植株于黑暗条件下处理3d、6d及9d；或者将所有离体莲座叶或第3、4片莲座叶黑暗处理 $3 \mathrm { ~ d ~ }$ ，由图6，可观察到相似的表型，CibHLH027-OE株系叶片黄化程度较WT明显。以上述株系离体黑暗处理3d的第3、4片莲座叶为样品，检测叶绿素的含量，发现处理后CibHLH027-OE株系叶绿素含量明显低于WT，且OE-57最明显。这表明CibHLH027在黑暗条件下对拟南芥的衰老起促进作用。
+
+![](images/3c285617c483de46e027267ab660d79515075c013b6a7a2d2260009545973d72.jpg)  
+图6黑暗诱导下CibHLH027过表达株系与野生型衰老表型比较
+
+图A：整株植物黑暗处理3、6、9d后叶片表型；图B：整株植物离体莲座叶黑暗处理3d；图C：CibHLH027过表达株系离体的第3、4片莲座叶黑暗处理的表型;图D:黑暗处理离体的第3、4片莲座叶后检测叶绿素含量,3次生物重复（ $^ { * } \mathrm { P } { < } 0 . 0 5$ $^ { * * } \mathrm { P } { < } 0 . 0 1$ ）
+
+Fig.6Senescence phenotype comparison of wild type and CibHLH027 overexpression lines dark
+
+induction
+
+A:Symptoms of the whole plant with 3,6and 9days in darkness B:Detached rosette leaves from the whole plant   
+of diferent ages with 3days in darkness C: Detached the three orfour rosette leaves of CibHLHo27 transgenic plants   
+treatment in the darkness D:Chlorophyll content determined of detached the three orfour rosete leaves in darkness, three independent replicates $( ^ { * } \mathrm { P } { < } 0 . 0 5 , ^ { * * } \mathrm { P } { < } 0 . 0 1 )$ （20
+
+# 2.6.2黑暗诱导下渗透率和细胞死亡检测
+
+为了进一步阐明CibHLH027在参与调控衰老过程中受黑暗诱导的影响程度，检测3周大植株离体的第3、4片莲座叶经黑暗诱导3d后的渗透率和细胞死亡情况。如图7A，7B，7C所示，CibHLH027过表达株系离子渗透率较野生型增大，死细胞明显增多，说明CibHLH027-OE株系的细胞在黑暗处理后受损伤程度较WT严重。
+
+![](images/638b9a9634030697868cee44e5b695d9fba4396f3ff2afc7d7e607c7b7f581ee.jpg)  
+图7黑暗处理后CibHLH027-OE株系和野生型拟南芥叶片离子渗透和细胞死亡比较图A：离体的第3、4片莲座叶黑暗处理3天后检测离子渗透率；图B：伊文思蓝染色死细胞；图C：分光光度法检测伊文思蓝 $\mathrm { \Delta O D } _ { 6 0 0 }$ ，3次生物重复( $\ast \mathrm { { P } } { < } 0 . 0 5$ ， $^ { * * } \mathrm { P } { < } 0 . 0 1$
+
+Fig. 7Comparison of ion leakage and cell death of CibHLH027-OE and wild type Arabidopsis leaves
+
+afterdark induction
+
+A:Ion leakagerates of the detachedthree or fourrosete leaves were transferredto darkness for3days;B:Evans Blue staining dead cells; C:using spectrophotometer measured dead cells staining with Evans Blue $\mathrm { O D } _ { 6 0 0 }$ ,three independent replicates ( $^ { * } \mathrm { P } { < } 0 . 0 5$ ， $^ { * * } \mathrm { P } { < } 0 . 0 1$ ）
+
+# 3讨论
+
+CibHLH027-OE株系在正常生长条件下表现出的提前衰老现象，暗示着CibHLH027参与了植物叶片衰老的调控。黑暗处理中间锦鸡儿2d后，CibHLH027的表达量明显下降；恢复光照2d使植物处于正常的生理状态后，CibHLH027的表达量明显回升。这说明正常生理状况下CibHLH027在中间锦鸡儿中应该促进植物衰老的，当中间锦鸡儿处于逆境胁迫引起的非自然衰老过程时，植物为了减缓衰老过程，减少黑暗处理对自身的伤害，通过降低CibHLH027的表达量来延缓衰老。过表达株系与野生型黑暗诱导下的叶片离子渗透率较高和细胞死亡数量较多的实验结果进一步证实了CibHLH027参与植物叶片衰老的调控，促进植物叶片的衰老。
+
+有文献报道，拟南芥bHLH转录因子PIF4（AT2G43010/AtbHLH009）和PIF5（AT3G59060/AtbHLH065）作为光敏色素因子，参与黑暗诱导的叶片衰老，也参与自然衰老过程[20]。而CibHLH027与拟南芥的PIF4/PIF5 并不是同一亚家族，二者在参与促进叶片衰老过程中所具有的调控作用是否相似还需要进一步探究。
+
+叶片衰老过程中，叶绿素降解是一个多级催化的途径，也被称为PAO途径，由定位在叶绿体上的多种反应组成。在叶绿素降解过程中，PPH、PAO、NYC1、NOL、RCCR和HCAR分别编码六个叶绿素催化酶（Chlcatabolicenzymes,CCEs）[28]。我们对3周龄大CibHLH027-OE 和WT 进行3、6、9d的黑暗处理后，检测了叶绿素降解及衰老相关基因CCEs、SGR1、SGR2、SAG12、SAG13的表达量。发现诱导前后上述基因的表达量在CibHLH027-OE株系与WT中并没有明显区别，我们依然不确定CibHLH027是否在转录水平直接或间接调控这些参与叶片衰老相关基因的表达。在后续实验计划中，我们希望通过转录水平的检测与蛋白互作来同时鉴定CibHLH027调控的靶基因，进一步完善对CibHLH027参与调控叶片衰老的研究。
+
+# 参考文献
+
+[1] Munne-Bosch S,Alegre L.Die and let live: leaf senescence contributes to plant survival under drought stress.Funct Plant Biol ,2004,31(3):203-216   
+[2]Lim PO, Kim HJ, Nam HG. Leaf senescence. Annual Review of Plant Biology ,2007, 58: 115-136   
+[3]Zhang H, Zhou C.Signal transduction in leaf senescence. Plant Molecular Biology ,2013, 82(6):539-545   
+[4]王平荣，张帆涛，邓晓建,等．高等植物叶绿素生物合成的研究进展．西北植物学 报,2009(03):629-636 WANG Ping—rong,ZHANG Fan-tao,GA0 Jia—XU,et al.An overview of chlorophyll biosynthesis in higher plants.Acta Bot Boreal-Occident Sin, 2009(03):629-636   
+[5]Hortensteiner S. Chlorophyll degradation during senescence. Annual Review of Plant Biology ,2006, 57:55-77   
+[6]Kusaba M, Ito H, Nishimura M ,et al.Rice NON-YELLOW COLORING1 is involved in light-harvesting complex II and grana degradation during leaf senescence. The Plant Cell ,2007, 19(4):1362-1375   
+[7]Sato Y, Morita R， Kusaba M,et al .Two short-chain dehydrogenase/reductases, NON-YELLOW COLORING 1 and NYC1-LIKE，are required for chlorophyll $b$ and light-harvesting complex II degradation during senescence in rice. The Plant Journal : for Cell and Molecular Biology ,2009, 57(1):120-131   
+[8]Liu F, Guo FQ.Nitric oxide deficiency accelerates chlorophyll breakdown and stability loss of thylakoid membranes during dark-induced leaf senescence in Arabidopsis. PloS One ,2013, 8(2):e56345   
+[9]Guo Y, Gan S.Leaf senescence: signals, execution， and regulation. Current Topics in Developmental Biology ,2005, 71:83-112   
+[10]于娟,拟南芥 JAZ7基因参与黑暗诱导叶片衰老的分子机制研究以及玉米转录组学数据 整合分析平台的初步构建．北京：中国农业大学，2014 Study of molecular mechanism for JAZ7 mediated dark-inducte leaf senescence and construction of maize transcriptomics data analysis plaform.Beijing:China Agricultural University,2014   
+[11]Buchanan-Wollaston V, Page T, Ishizaki K， et al.Comparative transcriptome analysis reveals significant differences in gene expression and signalling pathways between developmental and dark/starvation-induced senescence in Arabidopsis. The Plant Journal : for cell and molecular biology ,2005, 42(4):567-585   
+[12]Oh MH, Moon YH, Lee CH. Increased stability of LHCI by aggregate formation during dark-induced leaf senescence in the Arabidopsis mutant， orel0. Plant & Cell Physiology ,2003, 44(12):1368-1377   
+[13]Zhou X, Jiang Y, Yu D. WRKY22 transcription factor mediates dark-induced leaf senescence in Arabidopsis. Molecules and Cells ,2011, 31(4):303-313   
+[14]Murre C， McCaw PS，Baltimore D.A new DNA binding and dimerization motif in immunoglobulin enhancer binding， daughterless， MyoD,and myc proteins. Cell ,1989, 56(5):777-783   
+[15]Ferre-D'Amare AR, Pognonec P, Burley SK,et al.Structure and function of the b/HLH/Z domain of USF. The EMBO Journal ,1994,13(1):180-189   
+[16]Toledo-Ortiz G. The Arabidopsis Basic/Helix-Loop-Helix Transcription Factor Family. The Plant Cell Online ,2003,15(8):1749-1770 [17]刘晓月，王文生，傅彬英.植物 bHLH转录因子家族的功能研究进展．生物技术进展,   
+2011(06):391-397 LIU Xiao yue,WANG Wen sheng,FU Bin ying. Research Progress of Plant bHLH Transcription Factor Family.Current Biotechnology, 2011(06):391-397 [18]Chinnusamy V, Ohta M, Zhu JK,et al. ICE1: a regulator of cold-induced transcriptome and freezing tolerance in Arabidopsis. Genes & Development ,2003,17(8):1043-1054 [19]Dong Y, Wang C, Yin W,et al. A novel bHLH transcription factor PebHLH35 from Populus euphratica confersdrought tolerance through regulating stomatal development, photosynthesis and growth in Arabidopsis. Biochemical and Biophysical Research Communications ,2014, 450(1):453-458 [20]Sakuraba Y, Jeong J, Choi G,et al. Phytochrome-interacting transcription factors PIF4 and PIF5 induce leaf senescence in Arabidopsis. Nature Communications ,2014, 5:4636 [21]Friedrichsen DM, Nemhauser J， Chory J,et al. Three redundant brassinosteroid early response genes encode putative bHLH transcription factors required for normal growth. Genetics, 2002, 162(3):1445-1456 [22]Yang Q, Yin J, Li G,et al.Reference gene selection for qRT-PCR in Caragana korshinskii Kom. under different stress conditions. Molecular Biology Reports, 2014, 41(4):2325-2334 [23]Wu FH, Shen SC, Lin CS,et al. Tape-Arabidopsis Sandwich - a simpler Arabidopsis protoplast isolation method. Plant Methods ,2009, 5:16 [24]张宪政.植物叶绿素含量测定——丙酮乙醇混合液法．辽宁农业科学,1986(03):26-28 Zhang Xian zheng: Using Acetone and Ethanol Mix SolutionMeasures the Contents of Plant Chlorophyl.Liaoning Agricultural Sciences, 1986(03):26-28 [25]Zhang Y, Liu Z，Bi Y,et al. PHYTOCHROME-INTERACTING FACTOR 5 (PIF5) positively regulates dark-induced senescence and chlorophyll degradation in Arabidopsis. Plant Science : An International Journal of Experimental Plant Biology ,2015,237:57-68 [26]刘楠，林植芳.用伊文思蓝染色法检测植物整体叶片的细胞活性．植物生理学报,   
+2011(06):570-574 Liu Nan, Lin Zhi-Fang.Use of Evans Blue for Testing Cell Viability of Intact Leaves of Plant.Plant Physiology Journal, 2011(06):570-574 [27]Heim MA， Jakoby M, Bailey PC,et al. The basic helix-loop-helix transcription factor family in plants: a genome-wide study of protein structure and functional diversity. Molecular Biology and Evolution ,2003, 20(5):735-747 [28]Sakuraba Y， Han SH, Paek NC,et al.Arabidopsis NAC016 promotes chlorophyll breakdown by directly upregulating STAYGREEN1 transcription. Plant Cell Reports ,2016,   
+35(1):155-166

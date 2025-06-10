@@ -1,0 +1,431 @@
+[
+    {
+        "type": "text",
+        "text": "Physiological responses of Arundo donax ecotypes to drought: a common garden study ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MATTHEW HAWORT $\\boldsymbol { \\mathrm { ~ H ~ } ^ { 1 } }$ ,SALVATORE LUCIANO COSENTINO²,GIOVANNI MARINO $^ 1$ / CECILIA BRUNETTI1'3,DANILO SCORDIA²,GIORGIO TESTA²,EZIO RIGGI1, GIOVANNI AVOLA¹,FRANCESCO LORETO4 and MAURO CENTRITTO1 1TrsandTmberIstitute,NationalResearchCouncil(CNR-VAL)ViaMadonnadelPino1SestoFiorentino0019 Firenze,Italy,ipartimentodigricoltura,imentaionembiente (i3A),noersitaegliudiditaai Valdisaooia5，53Cataia,ItalyDepartmentofgfodProductioandEiomentalSences (DiA),sityf FlorenceVieellesteie,lyepamentofolgygriclturedFd National Research Council,-0o185 Rome 7,taly ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Genetic analyses have suggested that the clonal reproduction of Arundo donax has resulted in low genetic diversity. However,an earlier common garden phenotyping experiment identified specimens of A. donax with contrasting biomass yields (ecotypes 6and 2O).We utilized the same wel-established stands to investigate the photosynthetic and stress physiology of the A.donax ecotypes under irigated and drought conditions.Ecotype 6 produced the largest yields in both treatments. The $A$ . donax ecotypes exhibited identical high leaf-level rates of photosynthesis $( P _ { \\mathrm { N } } )$ and stomatal conductance $( G _ { \\mathrm { s } } )$ in the well-watered treatment. Soil drying induced reductions in $P _ { \\mathrm { N } }$ and $G _ { \\mathrm { s } } ,$ decreased use of light energy for photochemistry,impaired function of photosystem I and increased heat disipation similarly in the two ecotypes.Levels of biologically active free-abscisic acid (ABA) and fixed glycosylated-ABA increased earlier in response to the onset of water deficit in ecotype 6; however,as drought progresed,the ecotypes showed similar increases in both forms of ABA.This may suggest that because of the low genetic variability in A.donax the genes responding to drought might have been activated similarly in thetwo ecotypes,resulting in identical physiological responses to water deficit.Despite the lack of physiological ecotypic differences that could be associated with yield, $A$ . donax retained a high degree of $P _ { \\mathrm { N } }$ and biomass gain under water deficit stress conditions. This may enable utilization of $A$ . donax as a fast growing biomass crop in rain-fed marginal lands in hot drought prone climates. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:abscisiccid,bioma,bioenergy,isoprene,photosynthesis,stomatal conductance,waterdeicit ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received 3 November 2015; revised version received 14 January 2016 and accepted 25 January 2016 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The development of giant reed (Arundo donax)asa perennial biomass crop in drought-prone marginal lands requires physiological analysis of its responses to waterdeficitandidentificationof those traits that confer resistance to drought. The rapid growth of $A$ donaxis sustainedbyhighleaf-level rates of photosynthesis $( P _ { \\mathrm { N } } )$ and accompanied by significant transpirative water-loss due to concurrent stomatal opening (Rossa et al., 1998; Haworth et al.,2016).However, the clonal reproduction of A.donax has resulted in a low genetic diversity (Ahmad et al.,20o8;Mariani et al.,2010; Saltonstall et al., 2010;Pilu et al.,2014) that may account for observations of similarities in productivity and drought tolerance in plants collected from different regions (Cosentino et al., ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2006;Sänchez et al.,2015).Low genetic variability may also constrain the development of more productive and/or drought tolerant $A$ ，donaxvarieties.Indeed,the genetic background of $A$ .donax is much less explored than other biomass crops (e.g. Chen et al., 1997; Souch & Stephens,1998;Zhang et al.,2004).For example,it is currently unclear whether sufficient genetic variation occurs in A. donax to warrant the use of genotype or ecotype as a descriptive term (e.g. Khudamrongsawat et al.,2004;Ahmad et al.,2008).Here,we will use the term ecotype in respect of the ecological differences in habitat and any associated genetic variation represented by the A.donax accessions.Analysis of the photosynthetic and stress physiology of $A$ . donax ecotypes under field conditions is crucial to the characterization of the species and understanding its potential as a biomass crop. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Soil drying induces an increase in the flow of abscisic acid(ABA） from the roots to the leaves (Davies& ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhang，1991)，and increased conversion of biologically inactive ‘fixed' glucose-conjugated ABA (GE-ABA） in the vacuole to biologically active free ABA within the cytosol of the leaves (Dietz et al.，2OoO;Seiler et al., 2011).This increased foliar concentration of [ABA] causes stomatal closure (Zhang & Davies,1990) reducing transpirative water-loss,but also leading to a reduction in the uptake of $\\mathrm { C O } _ { 2 }$ for photosynthesis (Pinheiro $\\&$ Chaves，2011;Lauteri et al.，2014)．Arundo donax grown in $5 \\mathrm { ~ L ~ }$ pots exhibited declines in $P _ { \\mathrm { N } }$ from ${ \\sim } 2 0 { \\it - } 3 0 $ to ${ \\sim } 1 { - } 2 \\ \\mu \\mathrm { m o l \\ m } ^ { - 2 } \\ s ^ { - 1 }$ that corresponded to reductions in $G _ { \\mathrm { s } }$ of $0 . 3 5 \\mathrm { - } 0 . 4 5$ to ${ \\sim } 0 . 0 1 \\ \\mathrm { m o l } \\ \\mathrm { m } ^ { - 2 } \\ s ^ { - 1 }$ after constant water deficit was maintained for 6O days (Sanchez et al., 2015).Arundo donax ecotypes from an arid and warmhumid environment grown in $5 0 \\mathrm { ~ L ~ }$ pots in a common garden experiment exhibited identical declines in $P _ { \\mathrm { N } }$ and $G _ { \\mathrm { s } }$ after water was withheld over a three-week period.Despite the contrasting nature of their habitats no difference was observed in leaf gas-exchange,but a difference in xylem traits was recorded，suggesting that despite the low genetic diversity of A.donax,some ecotypic differences in response to water deficit do occur (Haworth et al.，2016).These studies indicate that $A$ donax possesses highly effective physiological stomatal control to prevent desiccation (Haworth et al.，2015, 2016).However，at present there is little information regarding the possible role of ABA in the drought response of A.donax. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As $P _ { \\mathrm { N } }$ decreases under drought,the available photo synthetic sinks for intercepted light energy decline. Consequently,energy dissipation as heat via non-photochemical quenching (NPQ） increases (Demmig-Adams &Adams,2ooo).Pot grown A. donax exhibited concomitant reductions in foliar relative water content (RWC) and the performance of photosystem II (Nackley et al., 2014).Extended drought may degrade the protective systems leading to damage to the photosynthetic apparatus (Pinheiro & Chaves，2011).During drought，A donax undergoes morphological changes such as leafroll and loss to reduce transpiration by decreasing the area of exposed leaf surface (Cosentino et al.,2014).If the severity of drought increases，A.donax loses the above ground parts of the plant and sequesters carbohydrates and nutrients in the rhizome below-ground until growth conditions improve (Mann et al.,2013). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The emission of isoprenoid biogenic volatile organic compounds reduces the deleterious impact of heat and oxidative stress (Sharkey et al.,20o8).Not all plants emit isoprenoids，but emitters possess greater tolerance of oxidative stress associated with excess excitation energy (Centritto et al.,2014) and especially characterizes fastgrowing plants (Loreto & Fineschi,2015).Analysis of $^ { \\bar { 1 } 3 } \\mathrm { C }$ labelling, in leaves fumigated with $^ { 1 3 } { \\mathrm { C } } ,$ indicates that isoprene is derived from recently synthesized photosynthatein well-watered plants (Brilli et al.,2007).Isoprene emission may also be linked to the production of foliar ABA via the methyl-erythritol phosphate pathway (Barta & Loreto,2Oo6).The rate of emission of isoprene ispositively related to the level of $P _ { \\mathrm { N } }$ (Loreto& Sharkey,199O),and this relationship is observed not only in A.donax (Hewitt etal.,199O)butacrosstheArundineae tribeof the Poaceae (Ahrar etal.，2015).Arundo donax occupies habitats that receive high levels of photosynthetically active radiation and also exhibits high rates of $P _ { \\mathrm { N } }$ (Rossa et al.,1998).However,rates of isoprene emission in pot-grown A. donax in a glasshouse (Ahrar et al., 2015）were not significantly greater than other fast growing species such as Populus nigra with similar rates of $P _ { \\mathrm { N } }$ (Centritto et al.,2011).The role of isoprene emission in the water deficit response of $A$ .donaxand any protective function is currently unclear. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Since April 1997,the University of Catania has hosted a collection of 39 ecotypes of $A$ .donax collected from contrasting habitats in Southern Italy.These A.donax plants have grown in a common garden phenotyping experiment for 18 years in a semi-arid Mediterranean climate. The results from the first 2-years of growth indicated that ecotype 20 was one of the two most productive A. donax specimens，while ecotype 6 was amongst the least productive (Cosentino et al.，2006). Thus,we investigated the gas-exchange responses and yield of ecotypes 6 and 2O under irrigated and water deficit conditions.The identification of crop varieties with high leaf-level rates of $P _ { \\mathrm { N } }$ is important to the development of more productive cultivars (Hubbart et al.,2007;Lauteri et al.，2014).We hypothesized that the more productive ecotype 20 might exhibit greater leaf-level rates of $P _ { \\mathrm { N } }$ and stomatal conductance $( G _ { \\mathrm { s } } ) _ { \\mathrm { \\ell } }$ while the less productive ecotype 6 might be less susceptible to water stress，possibly due to lower $G _ { \\mathrm { s } }$ and growth rate. The aim of this study was to: i) assess physiological and morphological response to drought in ecotypes 6 and 20;ii) quantify isoprene emission rates and changes in amounts of foliar free-ABA and GEABA during water deficit,and ii) identify any physiological traits in ecotypes 6 and 20 that may be related to biomass production under well-watered and water deficit conditions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materialsandmethods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Plant material and growth conditions ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In 1997,rhizomes of 39 ecotypes of A.donax were collected from a range of sites (lakes,rivers and uncultivated areas) in Sicily and Calabria, Southern Italy.These rhizomes were planted in a common garden experiment at the experimental farm of the Universityof Catania $\\langle 3 7 ^ { \\circ } 2 5 ^ { \\prime } \\mathrm { N }$ （204 $1 5 ^ { \\circ } 0 3 ^ { \\prime } \\mathrm { E }$ .The rhizomeswere planted directly into the soil ata depth of $3 0 \\ \\mathrm { c m }$ in $2 . 5 \\times 3 . 0 \\mathrm { ~ m ~ }$ plotsat a densityof 2.67 plants $\\mathrm { m } ^ { - 2 }$ with plants placed at a distance of $0 . 7 5 \\mathrm { ~ m ~ }$ between rows and $0 . 5 \\mathrm { ~ m ~ }$ in each row.In the first year the plots were fertilized with $1 0 0 ~ \\mathrm { k g ~ h a } ^ { - 1 }$ of phosphate, and 80 of $\\mathrm { { k g \\ h a } ^ { - 1 } }$ nitrogen were supplied during the first and second years.Supplementary irrigation was also provided during the first two years to enable the rhizomes to more fully establish.Irrigation and fertilization were not applied for the next15 years.Biomass production and morphology of the $A$ donax specimens was assessed from 1997 to 1998.Full details of the site,soil and experimental set-up are given in Cosentino et al.(2006). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the first two years of the study,ecotype 20 produced the greatest biomass yield,while ecotype 6 was amongst the least productive. The two ecotypes were collected from contrasting environments:ecotype 2O from a coastal habitat and ecotype 6 from the slopes of Mount Etna (Fig.1). In the summer of 2014 all plots received supplementary irrigation equivalent to $100 \\%$ of potential evapotranspiration during July to August. Evapo transpiration (ETc.) was calculated each day as: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E T c . } = E _ { o } * K _ { p } * K _ { c }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $E _ { \\mathrm { o } }$ is the evaporation of water from a class-A pan (mm); $K _ { p }$ is the pan coefficient,and; $K _ { c }$ is the crop growth stage (between O.7 and 1.1).Daily rain-fall was subtracted from the daily calculation of water to be supplied as irrigation (Allen et al, 1998;Cosentino et al.,2015). On average $4 . 4 9 4 ~ \\mathrm { m } ^ { 3 } \\mathrm { h a } ^ { - 1 }$ of water was supplied each day.On the 20th of September (day 20 in Fig.2) irrigation was ceased in one of the two plots for each ecotype and allowed to continue in the remainder.Measurements were conducted prior to the cessation of irrigation (time O)and over the next 4O days as the soil dried (time 1 and 2). Soil sampleswere collected from three depths $\\mathrm { [ 0 - 3 0 ~ c m } ,$ ：30- $6 0 \\ \\mathrm { c m } ,$ and; $6 0 { \\ - } 9 0 ~ \\mathrm { c m } )$ at the mid-point of each time period, the soil water content determined gravimetrically by drying in a ventilated oven at $1 0 5 ~ ^ { \\circ } \\mathrm { C }$ .The available soil water content for plant growthwas thendetermined followingKlute (1986)and Killi et al. (2014) (Fig.2). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4c1f80274e464a0b58f594045a47aff29ff597ca2d5945b21c912e0bfd668f72.jpg",
+        "img_caption": [
+            "Fig.1 Map showing the original location where the Arundo donax clonal populations used in this study were collected.Ecotype6 was collected from Piedimonte Etneo $3 7 ^ { \\circ } 4 8 \\mathrm { N }$ （204 $1 5 ^ { \\circ } \\mathrm { 1 0 E } _ { \\cdot }$ $3 4 8 \\mathrm { ~ m ~ }$ a.s.l.)，and ecotype 20 was collected from Capo D'Orlando $( 3 8 ^ { \\circ } 0 8 \\mathrm { N } ~ 1 4 ^ { \\circ } 4 3 \\mathrm { E } ;$ $8 \\mathrm { ~ m ~ }$ a.s.l.).Re-drawn from Cosentino et al. (2006). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Leaf gas-exchange and chlorophyll-fluorescence ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Measurements of $P _ { \\mathrm { N } } , G _ { \\mathrm { s } } ,$ the internal sub-stomatal concentration of $\\left[ \\mathrm { C O } _ { 2 } \\right]$ （204号 $\\left( C _ { \\mathrm { i } } \\right)$ and electron transport rate (ETR)were performed on the mid-section of the second fully expanded leaf from the flag leaf usingaLiCor Li640oXT fitted with a $2 { \\mathrm { ~ c m } } ^ { 2 }$ leaf cuvette (Li-Cor,Inc.,Nebraska,USA). Four replicate plants from the centre of each plot were analysed for each ecotype and treatment. Cuvette settings of 400 ppm $\\left[ \\mathrm { C O } _ { 2 } \\right] .$ $2 0 0 0 \\ \\mu \\mathrm { m o l \\ m } ^ { - 2 } \\ \\mathrm { s } ^ { - 1 }$ of photosyntheticallyactive radiation $10 \\%$ blue and $9 0 \\%$ red light) and a leaf temperature of $3 0 ~ ^ { \\circ } C$ were used.To reduce diffusive leaks through the chamber gasket,a supplementary gasket was added and the IRGA exhaust air was fed into the interspace between the chamber and the supplementary gaskets (Rodeghiero et al.，2007).Gas-exchange measurements were performed between 10.00 and 12.00 each day when the plants exhibited the highest levels of $P _ { \\mathrm { N } }$ and $G _ { \\mathrm { s } }$ .The maximum $( F _ { \\mathrm { v } } /$ $F _ { \\mathrm { m } } )$ and the actual quantum yield of photosystem II (@PSII: △F/ $\\mathrm { F ^ { \\prime } m } ,$ ,and the dissipation of light energy as non-photochemical quenching (NPQ) were recorded usinga Hansatech FMS-2 (saturating pulse of $1 0 , 0 0 0 \\ \\mu \\mathrm { m o l \\ m } ^ { - 2 } \\ s ^ { - 2 } )$ and dark adaptation clips (Hansatech,King's Lynn,UK) after $3 0 ~ \\mathrm { m i n }$ of dark adaptation and exposure to actinic light of $2 0 0 0 \\ \\mu \\mathrm { m o l \\ m } ^ { - 2 } \\ \\mathrm { s } ^ { - 2 }$ for a minimum of $1 0 ~ \\mathrm { { m i n } }$ after the first saturating pulse (Genty et äal., 1989;Maxwell & Johnson,2000). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Isoprene emission ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The emission of isoprene was measured in the field from the same leaves of $A$ . donax used for gas-exchange analysis,but a LiCorLi6400 fitted with a $6 ~ \\mathrm { c m } ^ { 2 }$ cuvette and LED light unit was used.Four replicate plants from the centre of each plot were analysed for each ecotype and treatment.Cuvette settings of $4 0 0 ~ \\mathrm { p p m }$ $\\left[ \\mathrm { C O } _ { 2 } \\right]$ $2 0 0 0 \\ \\mu \\mathrm { m o l \\ m } ^ { - 2 } \\ \\mathrm { s } ^ { - 1 }$ of photosynthetically active radiation $( 1 0 \\%$ blue and $9 0 \\%$ red light) and a leaf temperature of $3 0 ~ ^ { \\circ } \\mathrm { C }$ were used.The match tube on the LiCor cuvette was detached,and air from the leaf passed througha biphasic adsorbent trap containing $3 0 ~ \\mathrm { m g }$ of Tenax and $2 0 ~ \\mathrm { m g }$ of Carboxen (GERSTEL GmbH& Co.KG,Mülheim an der Ruhr,Germany). A pump (Elite 5;A.P. Buck, Orlando,FL,USA) was used to pass $2 \\mathrm { ~ L ~ }$ of air through each trap at a rate of $2 0 0 ~ \\mathrm { m L ~ m i n ^ { - 1 } }$ .Measurements of the concentration of isoprene in the ambient air (blanks) were performed using an empty leaf cuvette before and after each measurement. The traps were then stored at $4 ~ ^ { \\circ } \\mathrm { C }$ prior to analysis in the laboratory.The volatiles collected in the trapswere analysed usinga gas chromatographer-mass spectrometer(GC-MS)withanAgilentHP-INNOWAX $( 3 0 ~ \\mathrm { m } \\times 0 . 3 2 ~ \\mathrm { m m } \\times 0 . 1 5 ~ \\mu \\mathrm { m } )$ GCcolumn.A 5977A mass selective detector with electron ionization operating at $7 0 ~ \\mathrm { e V }$ was used for analysis.Isoprene was identified by matching the spec trum peak with a library spectral database (NIST 11.L）and through comparison of the retention time and mass spectrum with an isoprene analytical standard (Sigma Aldrich, St.Louis, MO,USA) injected into the GC-MS at different concentrations. The data were analysed using Agilent MassHunter Workstation software (Agilent 7890A;Agilent Technologies,Santa Clara,CA, USA). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/945e443bbce8be41533bd03eb396378bd5b704168ddc627c25b2fd86b6089a5b.jpg",
+        "img_caption": [
+            "Fig.2Growth conditions during the study period:(a)daily temperatureat the site-theupperdashed lineshows the maximum dailytemperature,thesolid lineshows themeandailytemperatureandthelowerdashedlineshows theminimumdailytemperature;(b)dailyifalland;(c)gravimetricmeasurementsofsoilwatercontenttakenattheid-pintofachmeasuremetpriod. ThemeasurementperiodbeganonthelstSeptember(day1),irigationceasedonthe2OthSeptember(endoftimeO)andaalysisof thephysiologicalresponsetosoildryingoftheArundodonaxecotypeswasprformedduringtime1(4thSeptember to9thOctober) and time 2 (10th to 30th October). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Abscisic acid analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "At the end of each measurement period,leaf samples were collected from four replicates for each treatment and ecotype using the second and third fully expanded leaves from the flag leaf of stems from the rhizomes adjacent to those used for gasexchange and isopreneanalyses.Leaf samples for time O were collected on the 20th September,time 1 on the 9th October and time 2 on the 31st October between 10:00 and $1 2 { : } 0 0 \\mathrm { ~ h ~ }$ .Theleaves were frozen in liquid nitrogen and then stored at $- 8 0 ~ ^ { \\circ } C$ To determine concentrationsoffree-ABAandGE-ABA, ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$3 0 0 { - } 3 5 0 ~ \\mathrm { m g }$ of leaf tissue was added to $4 0 ~ \\mathrm { n g }$ of d6-ABA and $4 0 ~ \\mathrm { n g }$ of d5-ABA-GE (ABA and derivatives provided by Prof. Zaharia,National Research Council of Canada) and ground in liquid nitrogen using a pestle and mortar. Once ground, $3 ~ \\mathrm { m L }$ of $\\mathrm { C H _ { 3 } O H : H _ { 2 } O }$ （20 $( 5 0 { : } 5 0 ; \\mathrm { p H } 2 . 5 \\$ with HCOOH) was added to the leaf homogenate and left at $2 ^ { \\circ } \\mathrm { C }$ for $3 0 ~ \\mathrm { m i n }$ .The extract was then purified using Sep-Pak C18 cartridges (Waters,Milford, MA，USA)，and the eluate dried and rinsed with $5 0 0 ~ \\mu \\mathrm { L }$ $\\mathrm { C H } _ { 3 } \\mathrm { O H } { : } \\mathrm { H } _ { 2 } \\mathrm { O }$ (50:50) $\\mathrm { p H } 2 . 5$ (modified protocol of Xiong et al., 2014).To quantifyABA and ABA-metabolites,3 $\\mu \\mathrm { L }$ of the eluate was then injected into a LC-ESI-MS/MS,using UPLC (Nexera UPLC Shimadzu Corporation) coupled with an MS/MS detector (TQ 803O) equipped with an ESI source (all from Shimadzu Corporation, Kyoto, Japan).Analyses were performed in the negative ion mode.The compounds were separated in a Poroshell $\\mathrm { C _ { 1 8 } }$ column $( 3 . 0 \\times 1 0 0 ~ \\mathrm { m m } , 2 . 7 ~ \\mu \\mathrm { m }$ i.d.; Agilent) using a binary solvent system consisting of water with $0 . 1 \\%$ of HCOOH (solvent A）and acetonitrile/methanol $( 1 / 1 )$ (added with $0 . 1 \\%$ of HCOOH, solvent B).The solvent gradient was programmed to change linearly from $9 5 \\%$ A to $100 \\%$ B during a 30-min run at a flow-rate of $0 . 3 ~ \\mathrm { m L ~ m i n ^ { - 1 } }$ .The GC operated at a He flow rate of $1 \\ \\mathrm { m L } \\ \\mathrm { m i n } ^ { - 1 }$ . The GC was programmed with an initial oven temperature of $4 0 ~ ^ { \\circ } C$ ? $\\mathrm { \\nabla } 5 \\mathrm { \\ m i n }$ hold)，which was then increased $5 ~ { } ^ { \\circ } { \\bf C } ~ \\operatorname* { m i n } ^ { - 1 }$ up to $2 5 0 ~ ^ { \\circ } \\mathrm { C }$ (4 min hold). Quantification was conducted in the multiple reaction mode (MRM) using a calibration curve constructed from analysis of standards following the pro tocol ofLópez-Carbonell et al.(2009). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Foliarwater content and biomassharvest ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Therelativewater content (RWC) of leaves from the A.donax ecotypes was measured for time O on the 2Oth September, time 1 on the 9th October and time 2 on the 31st October.The second fully expanded leaf from the flag leaf was removed from four plants for each ecotype and treatment (plants adjacent to those used for gas-exchange were sampled) and the RWC determined using the approach of Diaz-Pérez et al.(1995).The biomass and morphological parameters of the $A$ .donax ecotypes were measured in February 2015- the period of the year when the moisture content of the stems is lowest and drying of the plants would require the least energy,a critical consideration in the commercial exploitation of $A$ .donax (Cosentino et al.,2006).A border of $5 0 ~ \\mathrm { c m }$ was removed from each plot, to eliminate bordereffects influencing the determination of yield.Three central sub-plots of $1 ~ \\mathrm { m } ^ { 2 }$ were then sampled for each ecotype and treatment. Stem density was determined by counting the total number of stems in each sub-plot.Three stems in each sub-plot were randomly selected and stem height and basal stem diameter were measured. Dry mass yield was calculated by collecting sub-samples of the stems and leaves from sub-plots of each ecotype and treatment and then oven drying them at $1 0 5 ~ ^ { \\circ } \\mathrm { C }$ until their weight remained constant.The susceptibility to drought of each ecotype was calculated using the susceptibility index (S) of Fischer&Maurer (1978): ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS = { \\frac { 1 - \\left( { \\frac { Y } { Y _ { p } } } \\right) } { 1 - \\left( { \\frac { X } { X _ { p } } } \\right) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where: $Y =$ yield under stress; $Y _ { p } =$ yield without stress,and; $X$ and $X _ { p }$ signify the yield of all ecotypes under stress and nonstress conditions,in this case values of 13.2 and $1 7 . 9 \\mathrm { ~ t ~ h a } ^ { - 1 }$ were utilized for $A$ .donax under drought and irrigated conditions,respectively,as reported by Cosentino et al.(2014) in a study performed at the same site over three growing seasons. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Statisticalanalyses ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Statistical analyses were performed using SPSS 20 (IBM, Armonk,NY,USA).To test the effect of water deficit on $A$ donax ecotypes 6 and 20 we used one-way ANovAs with an LSD post-hoc test to assess differences in variance between samples associated with either ecotype or treatment effects. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Arundo donax ecotypes6 and20 exhibitedhighlevels of $P _ { \\mathrm { N } }$ $( \\sim 3 3 - 3 8 \\ \\mu \\mathrm { m o l \\ m } ^ { - 2 } \\ s ^ { - 1 } )$ and $G _ { \\mathrm { s } }$ $( 0 . 5 4 8 - 0 . 7 7 0 \\ \\mathrm { m o l \\ m } ^ { - 2 } \\ s ^ { - 1 } ; \\$ at time O prior to the cessation of irrigation in the drought treatment; no statistical difference in $P _ { \\mathrm { N } }$ or $G _ { \\mathrm { s } }$ valueswas observed between the two well-watered ecotypes. These ratesof $P _ { \\mathrm { N } }$ and $G _ { \\mathrm { s } }$ weremaintainedunderwell-watered conditions,with the exception of the latter stages of time 2 where temperatures were lower (Fig. 3). The soil water content available for plant growth in all layers declined by ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Ecotype 20 Ecotype 6 Irrigated △ ■ Water deficit △ □ Time 0 Time 1 Time 2   \n(a) 40 (-s 1 30 1   \nz-wndur) 2010 金 A 点 去 互 重   \n(b) 0 0.8 A (-s z-u) 0.6 工 打 王   \njou) 0.4 M 0.2 台 点白   \n(c) 0.0 250 1 H 200 秘长 p 150 强 全 100 点 - 方 H 50 直   \n(d) 0 10 强 FF/PP 互 8 1 A □ 6 4 中 理 工 T 一 2 20 30 40 50 60 Days ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$5 5 . 3 \\mathrm { - } 7 5 . 0 \\%$ over the course of the study; the lowest reduction was in the upper $3 0 \\ \\mathrm { c m }$ where rain-falls were more effective in restoring higher soil water availability (Fig. 2). As soil drying progressed, the two ecotypes showed identical declines in both $P _ { \\mathrm { N } }$ and $G _ { \\mathrm { s } }$ .Photosynthesis reduced by $6 6 . 7 \\%$ (Fig. 3a) and $G _ { \\mathrm { s } }$ fell by $9 1 . 2 \\%$ by time 2 (Fig. 3b). Stomatal conductance during the entire study was positivelyrelated to $P _ { \\mathrm { N } }$ (Fig. 4). Stomatal closure resulted in reductions in $C _ { \\mathrm { i } }$ of water-stressed leaves， indicating increasing stomatal limitation of photosynthesis (Fig. 3c). As drought progressed and $P _ { \\mathrm { N } }$ declined the amount of electrons not utilized in photochemistry of photosynthesis rose,as signifiedbyanincreasein theratio of theETR to $P _ { \\mathrm { N } }$ (Fig. 3d)；however, $\\mathrm { E T R } / \\mathrm { P _ { N } }$ values were comparatively low,possibly due to high cuvette PAR and temperature.Soil drying did not affect the maximal yield of photosystem II asindicatedby the $F _ { \\mathrm { v } } / F _ { \\mathrm { m } }$ ratio (Fig. 5a). However, the quantum yield of photosystem IIin the light (ΦPSII) declined, most significantly in ecotype 20 (Fig. 5b), while NPQ increased in both ecotypes (Fig. 5c). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/132c00313a705cebfde6d66bd3674b2b8fe9a3a9d18d593fcbfe9869d7469d8b.jpg",
+        "img_caption": [
+            "Fig.4 The relationship between photosynthesis and stomatal conductance in irrigated (solid symbols）and drought (grey symbols at time 1;white symbols at time 2) Arundo donax ecotypes 6 and 2O grown in the field.In theory the relationship between $P _ { \\mathrm { N } }$ and $G _ { \\mathrm { s } }$ should originate at zero; however,drought stress under field conditions did not progress this far and we have decided to not extrapolate beyond the limits of our observable dataset and therefore a linear regression was applied: the solid black line indicates the linear regression and the grey lines either side of the linear regression indicate $9 5 \\%$ confidence intervals of the regression line. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Levels of ABA during drought were different in the two ecotypes (Fig. 6). In the first stage of soil drying, concentrations of free and GE-ABA were higher in the leaves of ecotype 6.However，as drought stress progressed in time 2，the leaves of ecotype 20 showed greater concentrations of both forms of ABA that correlated with a decline in $G _ { \\mathrm { s } }$ values but no alteration in $P _ { \\mathrm { N } }$ (Fig. 3).It is noteworthy, that levels of ABA in the irrigated plants also rose during time 2,possibly due to a reduction in mean daily temperature (Fig.2) (Lim et al., 2007).However,this higher concentration of ABA also corresponded with reduced $G _ { \\mathrm { s } }$ in time 2 (Figs 3 and 6). Rates of isoprene emission were relatively variable, preventingobservationofanysignificant differences between treatment and ecotype (Fig. 7);although the levels of isoprene release found in this experiment were consistent with those observed in previous studies (Hewitt et al.,1990;Ahrar et al.,2015).However,during the initial period of soil drying in time 1,ecotype 6 showed a $3 4 . 6 \\%$ increase in mean isoprene emission, while ecotype 20 reduced isoprene emission by $1 5 . 1 \\%$ while these findings are not statistically significant, they do indicate proportional and directional difference in the response of isoprene emission to drought between the two ecotypes.In time 2 isoprene emission was broadly similar across treatment and ecotype. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/6d6d675ef2c3b2679f258a7a3bdf70d33d738461ab7d62a495aa36177e9abf3e.jpg",
+        "img_caption": [
+            "Fig.5Chlorophyllfluorescenceparametersat time2ofArundodonaxecotypes20(white)and6(grey)underdrought (hatched)and irrigated (open) conditions: (a) the efficiency of photosystem II $( F _ { \\mathrm { v } } / F _ { \\mathrm { m } } ) .$ ： (b) quantum yield of photosystem II (ΦPSII: $\\Delta \\mathrm { F } / \\mathrm { F ^ { \\prime } m } )$ ,and (c) disipationofenergyas non-photochemicalquenching(NPQ).Erorbarsindicateonestandarddeviationeithersideofthemean.Letters indicate significant difference using a one-way ANovA and LSD post-hoc test. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Foliar RWC of the two $A$ .donax ecotypes also differed at the mid-point of the study.At time 1,no significant effect of drought was observed in ecotype 20 while ecotype6 exhibited a significant $3 . 6 \\%$ reduction in RWC (Fig. 8).At time 2 both $A$ .donax ecotypes showed statistically identical leaf RWC values of $8 7 . 1 \\substack { - 8 9 . 9 \\% }$ ，which were significantly lower than in well-watered plants. The ecotypes did display differences in biomass and morphology，as ecotype 6 performed better than ecotype 20 under both well-watered and drought conditions (Fig. 9). In ecotype 6,stem height was respectively 17.7 and $3 3 . 9 \\%$ greater in the irrigated and drought treatments than in ecotype 2O (Fig.9a). The density (Fig.9c)and diameter(Fig.9b) of stemswere not affected by ecotype or treatment: the greater stem height in ecotype 6 (Fig. 9a)was not associated with any difference in the number or thickness of stems.Dry mass yield was also greater in ecotype 6 than 2O under both irrigated and drought conditions (Fig.9d). Calculation of the susceptibility index (S） suggests that ecotype 6 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "0 $S = 1 . 0 6 7 \\$ was more strongly affected by drought than ecotype 20 ( $\\begin{array} { r } { S = 0 . 8 5 3 \\mathrm { , } } \\end{array}$ ). This signifies a greater proportional decline in yield in ecotype 6.However,drought yieldin ecotype6is greater than that foundin irrigated ecotype 20 during the study period; suggesting that the faster growing ecotype 6，while proportionally more vulnerable to water deficit,was the more effective bio mass crop during drought experienced in this study period. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The two A.donax ecotypes analysed in this study exhibited contrasting biomass responses,with ecotype 6 more productive in both the irrigated and drought treatments (Fig.9d).This result contrasts with the observations of Cosentino et al.(2006) in the first two-years of the common garden study involving the $A$ .donax ecotypes, where ecotype 20 generated the highest yields. This result may be due to a number of factors such as growth conditions favouring ecotype 6 during this study (Fig. 2),more favourable establishment of ecotype ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b58a74345781dde7fe2038467e4c3582f4e35c4eb64f1c1e3444a4ab09fea926.jpg",
+        "img_caption": [
+            "Fig.6Theamountofre-andGE-ABAinleavesof Arundo donax ecotypes 20 (white)and 6(grey)perunit dry mass(DW)under drought (atched)andirrgated(open)condions.Errorbars indicateonestadarderroreithesideofte mean.Letters indicatesignificant difference between free-and GE-ABA in all ecotypes/treatment usingaone-way ANoVAand LSD post-hoc test. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f8330ec3527bb133413e9ea7119757462cf3a812eed4dfcecfa462fc27ceea3f.jpg",
+        "img_caption": [
+            "Fig.7Rates of isoprene emission in field grown Arundo donax ecotypes 20(white) and 6 (grey) under drought (hatched) and irrigated (open） conditions.Error bars indicate one standard erroreither side of the mean.Letters indicate significant difference using a one-way ANovA and LSD post-hoc test. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "20 in the first few years of the common garden experiment (e.g.Mann et al.,2013),possible differences in the physiology of the two ecotypes (Figs 6 and 7） or the general lack of genetic diversity present in $A$ donax (e.g. Mariani et al.，2010;Pilu et al.，2014)associated with highphenotypicplasticity (Ghalamboret al.，2007) resulting in a lack of consistency in year-on-year biomass during phenotyping studies (Cosentino et al., 2006).Both ecotypes showed identical rates of $P _ { \\mathrm { N } }$ and $G _ { \\mathrm { s } }$ onaleaf-area basisunder well-watered and drought conditions (Fig.3).In irrigated conditions,the high rate of carbon assimilation accounts for the high biomass production observed in A.donax in comparison to other species (Angelini et al.，20o9；Mantineo et al.，2009; Smith et al.,2015).As already observed when addressing the issue of dry mass yield, similar $P _ { \\mathrm { N } }$ and $G _ { \\mathrm { s } }$ of the two ecotypes may confirm low genetic diversity in $A$ donax (e.g. Ahmad et al.,2008;Mariani et al.,2010;Pilu et al.,2014). The obtained yields,both in rainfed and irrigated condition,are in accordance to the asymptotic non-linear relationship developed by Cosentino et al. (2014) to predict biomass yields of giant reed as function of crop water use in semi-arid Mediterranean environment. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Soil drying induced $\\mathord { \\sim } 9 0 \\%$ reductions in $G _ { \\mathrm { s } } ,$ suggesting that the plants under drought conditions experienced moderate to severe drought (Haworth et al., 2016).The internal sub-stomatal concentration of $\\left[ \\mathrm { C O } _ { 2 } \\right]$ of both $A$ .donax ecotypes decreased under drought, consistent with stomatal closure inducing increasing diffusive limitations to $\\mathrm { C O } _ { 2 }$ entry in the leaves,while suggesting no onset of biochemical limitations (known to invert the trend in $C _ { \\mathrm { i } }$ )(Flexaset al.,2002).Thereduction in $G _ { \\mathrm { s } }$ induced by increased [ABA] may be indicative of biochemical protection to maintain foliar water content before soil water availability declines to critical levels (Maseda&Fernandez,2oo6).Waterdeficitdidnotaffect $F _ { \\mathrm { v } } / F _ { \\mathrm { m } }$ values of the ecotypes (Fig.5） despite the observed reductions in RWC and $G _ { \\mathrm { s } } ,$ indicating stability of photochemistry of photosynthesis. In fact, declines in the $F _ { \\mathrm { v } } / F _ { \\mathrm { m } }$ ratio of pot grown $A$ .donax only occurred at RWCs below $6 0 \\%$ (Nackley et al.，2014).Nonetheless, the quantum yield of photosystem I in the light and NPQ were more sensitive to reductions in water availability (e.g. Souza et al.，2004). This would reflect a decrease in the proportion of energy utilized by photochemical reactions driving photosynthesis and photorespiration (Fig. 3d) and increase in energy dissipated as heat (Fig. 5c),whereas it does not represent permanent damage of the photosynthetic apparatus of waterstressed plants.As rates of $P _ { \\mathrm { N } }$ are comparatively higher in $A$ .donax than other species this may have reduced selective pressures related to carbon assimilation on a leaf-area basis between varieties with contrasting leaflevel rates of $P _ { \\mathrm { N } }$ (Haworth et al.,2011; Galmes et al., 2014)．A study of $8 7 \\ A$ .donax specimens from Italy found no geographic genetic variability,but did observe variation and heritability in stem height and diameter (Pilu et al.,2014).This may indicate that while the photosynthetic physiology of $A$ .donax shows little variability，ecotypes 6 and 20 may vary in terms of stem morphology (Fig. 9a),if not photosynthetic physiology (Fig.3),thus accounting for the differences observed in yield (Fig. 9d). ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a1eda0e27e3bf914a13fb3c4b9bccc05669a59741332b3f0ec2ca35dd113ec02.jpg",
+        "img_caption": [
+            "Fig.8Relative water content of leaves of Arundo donax ecotypes 20 (white) and 6 (grey) under drought (hatched) and irrigated (open） conditions.Error bars indicate one standard deviation either side of the mean.Letters indicate significant difference using a one-way ANovA and LSD post-hoc test. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The rapid decline in $G _ { \\mathrm { s } }$ of both $A$ . donax ecotypes, with $7 0 . 9 \\%$ of the reduction occurring 5 days after the cessation of irrigation (Fig.3b)，suggests that $A$ . donax does not progressively adjust its water use efficiency to thedevelopment of drought (e.g. Mahmood et al.,2015) and instead employsa‘use it orlose it'water use strategy(Bacelar et al.,2012) dependent upon a high degree of stomatal functionality to prevent desiccation (Franks & Farquhar,2oo7).This may reflect large changes of ABA，the hormone that is known to control stomatal closure in water stress conditions (Davies & Zhang, 1991).Indeed，stomatal closure occurred alongside increases in the concentration of free- and GE-ABA (Fig.6). Ecotype 6 exhibited more pronounced rises in free- and GE-ABA than ecotype 2O in the first stage of drought at time 1,indicating a more rapid root-to-shoot signal of soil drying (e.g.Fujita et al.，2005)，possibly accounting for increased yield in the drought-stressed plants (e.g. Chen et al.,1997). The rise in conjugated GEABAin ecotype6 mayalso reflect greaterdrought tolerance through increased storage of the stress hormone ABA(Seiler et al.,2011).The concentrations of free-and GE-ABA in the drought-stressed plants were higher in both plants in time 2， suggesting a progression of drought (Liuet al.,2oo5),and/orareduction in temperature towards the latter stages of the study (Fig.2) as the amount of ABA also increased in the well-watered plants (Lim et al.,2007).This rise in ABA in the plants grown under irrigated conditions in time 2 also corresponded to reduced $G _ { \\mathrm { s } }$ (Fig. 3).The higher amounts of free-ABAinecotype6 at time1mayberelatedtolower foliar RWC developing more rapidly in this ecotype than in ecotype 20 (Fig. 8). Increased leaf [ABA] during drought often occurs prior to any declines in RWC(Liu et al.， 2005)，but stomatal sensitivity to [ABA]is increased at low water potentials (Tardieu & Davies, 1992);possibly suggesting that the influence of freeABA on stomatal closure in A. donax was more pronounced in time 2.The higher foliar concentrations of free-and GE-ABA in ecotype 6 at time 1 also coincided with a $3 4 . 6 \\%$ increase in isoprene emission of droughtstressed plants，in respect to well-watered plants (Fig.7).In contrast,levels of ABA remained constant in ecotype20， whereasisopreneemissiondeclined, although non-significantly,in drought-stressed leaves at time 1 (Fig.7). This suggests that part of foliar ABA synthesized under early stress is generated by a labile pool of carbon that is also used to form isoprene within the methyl eritrythol phosphate(MEP） pathway，confirming that isoprene may be used as a proxy of ABA formation under certain circumstances (Barta & Loreto, 2006).However,due to the variable nature of isoprene emissions (Sharkey& Loreto,1993),further characterization of isoprene emission in A.donax in response to stress under more highly controlled conditions would be required before any firm conclusion could be drawn. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/71c0551ccf1e8b88f36f9bb9b3108e7f4fba845f2827965887a1b2367b4f52f3.jpg",
+        "img_caption": [
+            "Fig.9MorphologicalcharacteristicsofArundodonaxecotypes2O(white)and6(grey)underdrought (hatched)andirigated(open) fieldconditios:(a)temeight;(b)tedameter;(c)tedensityfstemswithinthesub-plotsnd;(d)drybiomasyieldor indicateone standarderroreithersideof the mean.Lettrs indicatesignificantdiferenceusingaone-wayANovAandLSDpost hc test. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The emission of isoprene plays a protective role in the reduction of oxidative and heat stress in many plants (Sharkey et al.，20o8)．As isoprene is derived from recently assimilated carbon,emissions generally do not increase during soil drying (Centritto et al., 2011;Brilli et al.,2013).However,in the A.donax ecotypes isoprene emission remained stable during the development of drought, indicating an increasing proportion of photosynthetic carbon feeding isoprene biosynthesis during the occurrence of stress. Only when water deficit stress is severe,as $P _ { \\mathrm { N } }$ approaches zero,the emission of isoprene declines before increasing during re-watering (Brilli et al., 2007). In our case, increased emission in drought-stressed ecotype 6 at time 1 is not surprising as $P _ { \\mathrm { N } }$ $( 1 7 - 2 1 \\ \\mu \\mathrm { m o l \\ m } ^ { - 2 } \\ s ^ { - 1 } )$ provided sufficient carbon for isoprene biosynthesis. However，as isoprene increasesphotoprotectionof photosyntheticmachineryunderstressconditions (Velikova et al.，2011)，we maintain that ecotype 6 might have developed a better strategy to protect photosynthesis from transient water stress. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The two $A$ .donax ecotypes analysed in this study exhibited largely identical photosynthetic and gasexchange responses to growth under well-watered and drought conditions.Photosynthetic rates in droughtstressed $A$ .donax remained comparatively high into time 2 $( \\sim 1 1 { - } 1 5 \\ \\mu \\mathrm { m o l \\ m } ^ { - 2 } \\ s ^ { - 1 } )$ possibly due to its extensive root system permitting extraction of water from deep within the soil profile (Mann et al.,2013). The protective dissipation of heat (Fig. 5c) and emission of isoprene (Fig.7) permitted the retention of photosynthetic function (Fig.3a） and reductions in biomass yield of ${ \\sim } 3 0 { \\it - } 3 5 \\%$ (Fig.9） that are significantly lower than the $4 8 . 2 \\%$ proportional loss experienced by 5 year-old Miscanthus $\\mathbf { \\boldsymbol { x } }$ giganteus under similar conditions (Mantineo et al.，20o9).In general，the yield of irrigated and drought-stressed A.donax was greater than that of other fast growing bioenergy crops such as Cynara cardunculus and Miscanthus $\\mathbf { \\boldsymbol { x } }$ giganteus (Cosentino et al.,2007; Mantineo et al., 2009). This suggests that $A$ .donax possesses the physiological adaptation to serve as an effective biomass crop in drought-prone semi-arid areas with a hot Mediterranean climate. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Physiological analysis of the most (2O) and least (6) productive $A$ . donax ecotypes from the study of Cosentino et al.(2oo6) under rain-fed and irrigated conditions produced an unexpected result. Ecotype 6 generated higher biomass yields than ecotype 20 in both treatments during the study period.This faster growth in ecotype 6 was not associated with significant differences in leaf-area levels of $P _ { \\mathrm { N } }$ or $G _ { s } ,$ function of photosystem I or emission of isoprene. This lack of variation in photosynthetic physiologi cal parameters may reflect low genetic diversity in $A$ donax.The contrast in biomass results from the earlier study may also reflect this lack of genetic variability, resulting in an absence of consistency in yield measurements when phenotyping A. donax ecotypes. Future studies should employ a wider geographical collection of specimens and present results over a greater time period to ensure that the most consistently productive ecotypes are identified.Despite the lack of a physiological ecotypic difference in this study,both ecotypes exhibited rapid rates of $P _ { \\mathrm { N } }$ under well-watered conditions,and as soil dried the signalling of drought via ABA and protective mechanisms ensured that the rain-fed plants retained comparablyhigh rates of $P _ { \\mathrm { N } }$ and only experienced reductions in yield of $3 0 { - } 3 5 \\%$ .The stress physiology of $A$ .donax isadaptable to growth in semi-arid hot Mediterranean climates,making it a viable crop species for biomass production in drought-prone marginal lands. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We are grateful for the assistance of the staff of the Di3A (University of Catania）Experimental Field and Salvatore La Rosa (CNR-IVALSA).The comments of three anonymousreferees significantly improved this manuscript. This work was funded by the EU FP7 projects WATBIO (Development of improved perennial non-food biomass and bioproduct crops for water stressed environments - no.311929)and OPTIMA (Optimization of perennial grasses for biomass production - no.289642)and the Ministero dell'Istruzione dell'Universita e della Ricerca of Italy projects PRIN 2010-2011 PRO-ROOT,and Progetto Premiale 2012 CNR-Aqua. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Ahmad R,Liow P-S, Spencer DF, Jasieniuk M (2o08) Molecular evidence fora single genetic clone of invasive Arundo donax in the United States.Aquatic Botany,88, 113–120.   \nAhrar M, Doneva D,Koleva D et al. (2015) Isoprene emission in the monocot Arundineae tribe in relation to functional and structural organization of the photosynthetic apparatus.Environmental and Experimental Botany,19,87-95.   \nAllenRG,Pereira LS,RaesD,Smith M (1998) Crop Euapotranspiration-Guidelines for Computing Crop Water Requirements-FAO Irigation and Drainage paper 56.FAO, Rome,300,D05109.   \nAngelini LG,Ceccarini L,Di Nassa NNO,Bonari E (2009) Comparison of Arundo donax L.and Miscanthus $x$ giganteus in a long-term field experiment in Central Italy:analysis of productive characteristics and energy balance.Biomass and Bioenergy,33,635-643. reira HM,Correia CM(2012) Wateruse strategies of plantsunder drought conditions.In:Plant Responses to Drought Stress:From Morphological to Molecular Features (eds Aroca R),pp.145-170.Springer,London.   \nBarta C,Loreto F(2006)The relationship between the methyl-erythritol phosphate pathway leading to emission of volatile isoprenoids and abscisic acid content in leaves.Plantsiology,41,6766.   \nBrilli F, Barta C,Fortunati A, Lerdau M, Loreto F, Centritto M (2O07) Response of isoprene emisson and carbon metabolism to drought in white poplar (Populus alba) saplings.New Phytologist,175,244-254.   \nBrilli F, Tsonev T,Mahmood T,Velikova V,Loreto F,Centritto M(2013) Ultradian variation of isoprene emission, photosynthesis,mesophyll conductance,and optimum temperature sensitivity for isoprene emission in water-stressed Eucalyptus citriodorasaplings.Journal of ExperimentalBotany,64,519-528.   \nCentrito M,rilliFodaleR,LoretoF()Difrentsensitivityofsoeeis sion,respiration and photosynthesis to high growth temperature coupled with drought stress in black poplar (Populus nigra) saplings.Treephysiology,31,275- 286.   \nCentritto M, Haworth M,Marino G et al. (2014) Isoprene emission aids recovery of photosynthetic performance in transgenic Nicotiana tabacum following high intensity acute UV-B exposure.Plant Science,226,82-91.   \nChen S,Wang S,Altman A,Huittermann A (1997) Genotypic variation in drought tolerance of poplar inrelation toabscisic cid.Tre physiology,17,797-803.   \nCosentino SL,Copani V, D'agosta GM, Sanzone E,Mantineo M (2006) First results on evaluation of Arundo donax L. clones collected in Southern Italy. Industrial Crops and Products,23,212-22.   \nCosentino SL,Patane C,Sanzone E,Copani V,Foti S (2oo7) Effects of soil water contentand nitrogen supply on the productivity of Miscanthus $\\times$ giganteus Greef et Deu.in a Mediterranean environment. Industrial Crops and Products,25,75-88.   \nCosentino SL,Scordia D,Sanzone E,Testa G,Copani V (2014) Response of giant reed (Arundo donax L.)to nitrogen fertilization and soil water availability in semiarid Mediterranean environment. European Journal of Agronomy,60,22-32.   \nCosentino SL,Copani V,Testa G,Scordia D (2015) Saccharum spontaneum L.sp.aegyptiacum (Willd.） Hack.a potential perennial grass for biomass production in marginal land insemi-arid Mediterranean environment.Industrial Crops and Products, 75, 93–102.   \nDavies WJ, Zhang JH(1991) Root signals and the regulation of growth and development of plants in drying soil.Annual Review of Plant Physiology and Plant Molecular Biology,42, 55–76.   \nDemmig-Adams B,Adams WW (20o) Harvesting sunlight safely. Nature,303,371- 374.   \nDiaz-Pérez JC,ShackelKA,Sutter EG (1995)Relative watercontentand water potentialof tissue1.JurnalofExperimental Botany,46,.   \nDietz KJ, Sauter A,Wichert $\\mathrm { K } ,$ Messdaghi D,Hartung W (20o0) Extracellular β-glucosidase activity in barley involved in the hydrolysis of ABA glucose conjugate in leaves.JournalofExperimental Botany,51,97-944.   \nFischer R,Maurer R (1978) Drought resistance in spring wheat cultivars.I. Grain yield responses.Crop and Pasture Science,29,897-912.   \nFlexas J Bota J,Escalona JM, Sampol B,MedranoH (2o02) Effectsof droughton photosynthesis in grapevines under field conditions: an evaluation of stomatal and mesophyllimitations.Functional Plant Biology,29,461-471.   \nFranks PJ, Farquhar GD (2Oo7) The mechanical diversity of stomata and its significance in gas-exchange control. Plant Physiology,143,78-87.   \nFujita Y,Fujita M,Satoh R et al.(2Oo5)AREB1 is a transcription activator of novel ABRE-dependent ABA signaling that enhances drought stress tolerance in Arabidopsis.The Plant Cell,17,3470-3488.   \nGalmes J, Kapralov MV,Andralojc P, Conesa MA,Keys AJ,Parry MA,Flexas J (2014)Expanding knowledge of the Rubisco kinetics variability in plant species: environmental and evolutionary trends.Plant,Cell and Environment,37,1989- 2001.   \nGenty B, Briantais J-M, Baker NR (1989) The relationship between the quantum yield of photosynthetic electron transport and quenching of chlorophyllfluorescence. Biochimica et Biophysica Acta (BBA)- General Subjects,990,87-92.   \nGhalambor CK,Mckay JK,Carroll SP,Reznick DN (2007)Adaptive versus nonadaptive phenotypic plasticity and the potential for contemporary adaptation in newenvironmnts.FunctionalEology,7.   \nHaworth M,Elliott-Kingston C,Mcelwain JC (2011) Stomatal control as a driver of plant evolution. Journal of Experimental Botany,62,2419-2423.   \nHaworth M,Killi D,Materassi A,Raschi A (2015) Co-ordination of stomatal physiological behavior and morphology with carbon dioxide determines stomatal control. American Iournal of Botanu.102.677-688. rlaworu vI,nui urpnoiogy ueternunes the drought response of two Arundo donax ecotypes from contrasting habitats. GCB Bioenergy,doi: 10.111/gcbb.12322.In Press.   \nHewitt CN,Monson RK,Fall R (1990) Isoprene emissions from the grass Arundo donax L.are not linked to photorespiration.Plant Science, 66,139-144.   \nHubbart S,Peng S,HortonP,ChenY,Murchie EH(2007)Trends in leaf photosynthesis in historical rice varieties developed in the Philippines since 1966. Journal of Experimental Botany,58,3429-3438.   \nKhudamrongsawat J,Tayyar R,Holt JS (2004) Genetic diversity of giant reed (Arundo donax) in the Santa AnaRiver,California.Weed Science,52,395-405.   \nKilli D,Anlauf R, Kavdir Y,Haworth M (2014) Assessing the impact of agro-industrial olive wastes in soil water retention: implications for remediation of degraded soilsand water availability forplant growth.International Biodeterioration and Biodegradation,94,48–56.   \nKluteA(1986) Methodsof Soil Analysis.Part1.Physical andMineralogical Methods. American Society of Agronomy, Inc., Madison.   \nLauteri M, Haworth M,Serrj R, Monteverdi MC,Centrito M(2014) Photosynthetic diffusionalconstraints affect yield in drought stressed rice cultivars during flowering.PLoS ONE,9,e109054.   \nLim PO,Kim HJ,Gil Nam H (2o07)Leaf senescence.Annual Review ofPlant Biology, 58, 115-136.   \nLiu F, Jensen CR, Shahanzari A,Andersen MN, Jacobsen S-E (2005) ABA regulated stomatal control and photosynthetic water use eficiency of potato (Solanum tuberosumL.)duringprogressivesoildrying.Plant Sience,168,1-836.   \nLópez-Carbonell M, Gabasa M, Jauregui O (2009) Enhanced determination of abscisic acid (ABA) and abscisic acid glucose ester (ABA-GE) in Cistus albidus plants by liquid chromatography-mass spectrometry in tandem mode.Plant Physiology and Biochemistry,47,56-261.   \nLoreto F,Fineschi S (2015)Reconciling functions and evolution of isoprene emission in higher plants.New Phytologist,206,578-582.   \nLoreto F,Sharkey TD (1990)A gas-exchange study of photosynthesis and isoprene emission in Quercus rubra L.Planta,182,523-531.   \nMahmood T,Saeed A,Saleem AR,Rasool H, Haworth M,Centrito M(2015) Divergent gas-exchange,physiological, isotopic and compositional responses of two wood-crop species to water deficit: Ziziphus nummularia and Corymbia citriodora. International Journal of Agriculture and Biology,17,681-690.   \nMann JJ,Barney JN,Kyser GB,Di Tomaso JM(2013)Miscanthus $\\mathrm { ~  ~ x ~ }$ giganteus and Arundo donax shoot and rhizome tolerance of extreme moisture stress.Global Change Biology Bioenergy,5,693-700.   \nMantineo M,D'agosta GM,Copani V,Patane C,Cosentino SL (2009) Biomass yield and energy balance of three perennial crops for energy use in the semi-arid Mediterranean environment.Field Crops Research,114,204-213.   \nMariani C,Cabrini R, Danin A et al. (201o) Origin,diffusion and reproduction of the giant reed (Arundo donax L.): a promising weedy energy crop.Annals of Applied Biology,157,191-202.   \nMaseda PH,Fernandez RJ (2O06) Stay wet or else: three ways in which plants can adjusthydraulically to their environment. Journal of Experimental Botany,57,3963- 3977.   \nMaxwellK,JsnGoorllfuoresece-practicaldeoual of Experimental Botany,5,.   \nNackley LL,VogtKA,Kim S-H(2014)Arundo donax water use and photosynthetic responses to drought and elevated $\\mathrm { C O } _ { 2 }$ Agricultural Water anagement,36,13 22   \nPilu R,Cassani E,Landoni Met al. (2O14)Geneticcharacterizationof an Italian giant reed (Arundo donax L.）clones collection: exploiting clonal selection.Euphytica, 196, 169–181.   \nPinheiro C, Chaves MM (2011)Photosynthesis and drought: can we make metabolic connections fromavailabledata? JournalofExperimental Botany,62,69-882.   \nRodeghiero M,Niinemets U,Cescati A (2007) Major diffusion leaks of clamp-on leaf cuvettes still unaccounted: how erroneous are the estimates of Farquhar et al. model parameters? Plant,Cell & Environment,30,1006-1022.   \nRossa B,Tuiffers A,Naidoo G, Willrt D (1998) Arundo donax L. (Poaceae)—a C3 species with unusually high photosynthetic capacity. Botanica acta,111,216-221.   \nSaltonstall K,Lambert A,Meyerson LA (2010) Genetics and reproduction of common (Phragmites australis)and giant reed (Arundo donax).Inoasioe Plant Science and Management,3,495-505.   \nSanchez E,Scordia D,Lino G,Arias C, Cosentino S,Nogues S (2015) Salinity and water stress effects on biomass production in different Arundo donax L.clones. Bioenergy Research,8,1461-1479.   \nSeiler C,Harshavardhan VT,Rajesh K et al.(2O11) ABA biosynthesis and degradation contributing to ABA homeostasis during barlev seed develonment under control and terminal drought-stress conditions. Journal of Experimental Botany, 62, 2615-2632.   \nSharkey TD,Loreto F(1993)Water stress,temperature,and light effects on the capacity for isoprene emission and photosynthesis of kudzu leaves. Oecologia, 95, 328-333.   \nSharkey TD,Wiberley AE,Donohue AR (2oo8) Isoprene emission from plants: why and how. Annals of Botany,1o1,5-18.   \nSmith LL,Allen DJ, Barney JN (2015) Yield potential and stand establishment for 20 candidate bioenergy feedstocks.Biomass and Bioenergy,73,145-154.   \nSouch C, Stephens W (1998) Growth,productivity and water use in three hybrid poplar clones. Tree physiology,18,829-835.   \nSouza R,Machado E,Silva J,Lagoa A,SilveiraJ(2o04) Photosynthetic gas exchange, chlorophyll fluorescence and some associated metabolic changes in cowpea (Vigna unguiculata) during water stressand recovery.Environmental and Experimental Botany,51,45-56.   \nTardieu F, Davies WJ (1992) Stomatal response to abscisic acid is a function of current plant water status.Plant Physiology,98,540-545.   \nVelikovaV,VarkonyiZ,Szabo Met al.(2011) Increased thermostabilityof thylakoid membranes in isoprene-emitting leaves probed with three biophysical techniques. Plant Physiology,157,905-916.   \nXiong D-M,Liu Z,Chen H,Xue J-T,Yang Y,Chen C,Ye L-M (2014) Profiling the dynamics of abscisic acid and ABA-glucose ester after using the glucosyltransferase UGT7iC5 to mediate abscisic acid homeostasis in Arabidopsis thaliana by HPLC-ESI-MS/MS. Journal of Pharmaceutical Analysis,4,190-196.   \nZhang J Davies W (1990) Changes in the concentration of ABA in xylem sap as a function of changing soil water status can account for changes in leaf conductance and growth. Plant,Cell and Environment,13,277-285.   \nZhang X, Zang R,Li C (2004) Population differences in physiological and morphological adaptations of Populus davidiana seedlings in response to progressive drought stress.Plant Science,166,791-797. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

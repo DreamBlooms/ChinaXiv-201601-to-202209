@@ -1,0 +1,240 @@
+# Additional tsaganomyid, cylindrodontid and ctenodactyloid rodent materials from the Erden Obo section, Erlian Basin (Nei Mongol, China)
+
+LI Qian12
+
+(1KeyLaboratoryofVertebrateEvolutionand HumanOriginsofChineseAcademyofSciences,InstituteofVertebrate Paleontology and Paleoanthropology,ChineseAcademy ofSciences Beijinglooo44 liqian@ivpp.ac.cn) (2 CAS Center for Excellence in Life and Paleoenvironment Beijing 100044)
+
+Abstract To improve the Paleogene biochronological framework of the Erlian Basin,Nei Mongol and clarify the diversity of fosil rodents in this region, new tsaganomyids (Cyclomylus lohensis, Coelodontomys asiaticus) from the “Upper White” beds, cylindrodontids (Gobiocylindrodon sp., Proardynomys sp.,and Cylindrodontidae gen. et sp.indet.） from the“Middle Red”and “Lower Red”beds,and ctenodactyloids (Yuomys sp.） from the “Lower White”beds of the Erden Obo section are reported.The appearance of $C .$ lohensis and $C o$ .asiaticus from the Erden Obo section confirms that the age of the“Upper White”beds is Early Oligocene.The“Upper White” beds of the Erden Obo section and the top bed of the Nom Khong Obo are confrmed to belong to the same formation by both lithofacies and mammalian fossils.The different kinds of cylindrodontids found from the different horizons of the Erden Obo section show that the cylindrodontids had a high diversity and a relative continuous evolution in Eocene Asia.
+
+Key wordsNei Mongol, Erden Obo,Eocene-Oligocene,tsaganomyid, cylindrodontid, ctenodactyloid
+
+Citation Li Q,in press.Additional tsaganomyid,cylindrodontid and ctenodactyloid rodent materials from the Erden Obo section,Erlian Basin (Nei Mongol, China). Vertebrata PalAsiatica.DOI:10.19615/j.cnki.1000-3118.200710
+
+# 1 Introduction
+
+The Erden Obo section became well known in the 192Os after the Central Asiatic Expeditions and it is a key to the understanding of the stratigraphy and faunal evolution from Paleocene to Early Oligocene in the Erlian Basin,Nei Mongol, China. Osborn (1929) first reported the Erden Obo ( $\mathbf { \bar { \rho } } = \mathbf { \bar { \rho } }$ Urtyn Obo) section and subdivided its deposits into 8 units,termed in descending order as the“Upper White”,the“Upper Red”,the “Middle White or Grey", the “Middle Red”,the“Lower White”,the“Lower Red",the“Basal White”and the“Basal Red”
+
+beds.After Osborn, many researchers (Chang,1931; Pei et al.,1963;Jiang,1983; Qi,1990; Qiu and Wang,2007; Wang et al., 2012) divided the strata from the Erden Obo section into different stratigraphic formations and ages.However, the formal division and correlation of the stratigraphic units in the Erden Obo section has yet to be completed. At the present, we continue to use the descriptive terms of Osborn to denote the beds yielding the fossils reported on here.
+
+Over the last thirteen years,a joint team led by IVPP has carried out a comprehensive investigation in the Erden Obo section. Numerous rodent fossils have been collected from the different horizons of the Erden Obo section. We have systematically reported on ctenodactyloids,cricetids,and dipodids from the “Basal Red” to “Upper White”Beds (Li, 2018;Li et al.,2016,2017),cylindrodontids from the “Upper White” and “Upper Red” beds (Li, 202O),and other rodent assemblages from the lower part of the Erden Obo section (Li et al., 2018). This study focused exclusively on documenting the new rodent materials from the “Lower Red’ to“Upper White”beds in the Erden Obo section. The new rodent fossils reported here provide important evidence for determining the stratigraphic division and age estimation of the fossiliferous beds,and for expanding their geographic distribution.
+
+# 2 Material and methods
+
+All specimens were collected in several field expeditions from 2007-2012 by a team from the IVPP, AMNH, Carnegie Museum of Natural History,and Northern Ilinois University. All specimens belong to and are housed in the IVPP and are available for examination by qualified researchers.Dental terminology in the description generally follows Wang (2001) for tsaganomyids,Dashzeveg and Meng (1998) for cylindrodontids,and Li and Meng (2015) for ctenodactyloids.Measurements of the teth were taken using a reticle with an accuracy of $0 . 1 \mathrm { m m }$ mounted in an Olympus SZX7 microscope. The specimens were CT-scanned using the $2 5 0 \mathrm { K V }$ micro-computerized tomography (developed by the Institute of High Energy Physics, Chinese Academy of Sciences) at the Key Laboratory of Vertebrate Evolution and Human Origins of the Chinese Academy of Sciences, IVPP. The graphic processing was done using the VGstudio Max 2.1 software (Volume Graphics).
+
+Abbreviations: AMNH,American Museum of Natural History; IVPP, the Institute of Vertebrate Paleontology and Paleoanthropology, Chinese Academy of Sciences; PSS, Paleontology and Stratigraphy section of Geological Institute,Mongolian Academy of Sciences; V, prefix to the fossil vertebrate collections stored in the IVPP.
+
+# 3 Systematics Paleontology
+
+RodentBowdich,1821 TsaganomyidaeMatthew&Granger,1923
+
+# CyclomylusMatthew& Granger,1923 CyclomyluslohensisMatthew&Granger,1923
+
+Pseudotsaganomys turgaicus Vinogradov & Gambaryan,1952,p.20-22,figs.7-10 Pseudotsaganomysmongolicus Vinogradov&Gambaryan,1952,p.22 Cyclomylusmashkovae Shevyreva,1994,p.112,fig.1c-f Tsaganomys altaicus Bryant & McKenna,1995 (part), p.5-16,fig.10B
+
+Holotype AMNH 19096,a skull badly preserved; the Hsanda Gol Formation,lower rec strata,Loh,Tsagan Nor Basin,Mongolia.
+
+Referred specimen IVPPV 26551, left mandible with dp4-m1.
+
+Locality and horizonErden Obo section, Siziwangqi, Nei Mongol; “Upper White' beds.
+
+Description and comparisonTooth measurements (length/width in mm): dp4 (4.75/3.45); ml (4.15/3.95). The occlusal patern of the dp4 and ml are recognized (Fig. 1A), the two roots of the dp4 and ml are closed,and the extending direction of the i2 is crossed with the lower cheek teeth row (Fig.1B). The dp4 is moderately unilaterally hypsodont, and the protoconid and metaconid of the dp4 are distinct and united by a complete metalophid I1. The trigonid basin of the dp4 is narrower than the talonid.It is diffcult to determine whether the metalophid I is present or absent because the anterior part of the trigonid is broken. The entoconid is separated from the metaconid by a shallow notch.The middle valley opens lingually. The hypoconid is large and anterobuccally extended. The short and transversal hypolophid is complete and joins the ectolophid. The hypoconid is joined to the entoconid by a complete posterolophid.
+
+The ml is similar to the dp4 in general morphology. The trigonid is transversely narrower than the talonid on the ml,but the difference in width between the trigonid and the talonid is less pronounced on the dp4. On the ml,the well-developed metalophid I and metalophid I connect the two trigonid cusps anteriorly and posteriorly,respectively,and the trigonid is closed. The middle and posterior valley are closed. The external valley (=hypoflexid) shifts anteriorly and is strongly oblique posterolingually.
+
+![](images/88f1b06c65a6a143d0c1f1b5c6b9bfd0fcf5e73b1f200211788f4b85ca1c46fc.jpg)  
+Fig.1 Cyclomylus lohensis (IVPP V26551) from the“Upper White”beds of the Erden Obo section A.occlusal view of the left mandible with $\mathrm { { d p 4 - m 1 } }$ ， B.CT slice showing the roots of $\mathrm { { d p 4 - m l } }$ ,and the spatial relation between the i2 and $\mathrm { \ d p 4 - m l }$
+
+The V 26551 from the“Upper White” beds of the Erden Obo section shares many features with Cyclomylus that includes three species: C. lohensis (Mathew & Granger, 1923), C. intermedius and C. biforatus (Wang,2001). The V 26551 differs from C. biforatus in having two roots on the $\mathrm { { d p 4 } }$ and m1. The $\mathrm { ~ V ~ } 2 6 5 5 1$ is a juvenile showing the dp4 and an erupting ml, so here the enamel height on the buccal side and the height difference between the buccal and lingual enamel based on the dp4. The enamel height on the buccal side of the dp4 of V 26551 is lower than that in $C .$ intermedius. The buccal-lingual enamel height difference in the dp4 of V 26551 is similar to that in $\mathsf { p 4 }$ of $C .$ ，lohensis in which the height difference of the enamel varies from $4 \mathrm { m m }$ to $6 . 4 \mathrm { m m }$ ,but less than that in the $\mathfrak { p } 4$ of $C .$ .intermedius.The ml ofV 26551 is similar to that in $C .$ .lohensis in having a prominent protoconid and metaconid that are widely separated and a distinct and posterolingually oblique external valley. In addition,in V 26551 the angle between the lower cheek teeth row and the extending direction of lower incisors is similar to that in $C .$ 、lohensis,and it is smaller than that in $C$ 、intermedius.InFig.1Bthe $\mathrm { m } 2$ is erupting,so the eruption intervals of the cheek teeth in $\mathrm { ~ V ~ } 2 6 5 5 1$ are short. Wang (2001) pointed out that the eruption intervals of the cheek teeth in $C .$ lohensis are shorter than those in C.intermedius. The new specimen from the “Upper White” beds was referred to $C$ lohensis.
+
+Coelodontomys Wang, 2001 Coelodontomys asiaticusWang,2001
+
+Tsaganomys altaicus Mathew & Granger,1923,p.2 (part), figs.1 (part),2 (part),3,4A; Vinogradov &   
+Gambaryan,1952,p.23 (part); Shevyreva,1974,p.56,figs.1v,g,6,7,8; Bryant & McKenna,1995,p.6   
+(part),figs.3 (part)   
+Cyclomylus lohensis Matthew & Granger,1923,p.5 (part)   
+Tsaganomys altaicus Emry et al.,1998,p.308-310,fig.8B
+
+Holotype AMNH 21675,a nearly complete skull from the Hsanda Gol Formation, Field No. 531, Grand Canyon, north of Tsagan Nor,Mongolia.
+
+Refereed specimensIVPP V 26552.1,a partial skull and paired lower jaws; V26552.2, fragmentary maxilae with left and right P4-M1s; V 26552.3-6, four isolated upper cheek teeth; V 26552.7-8,two isolated lower cheek teeth.
+
+Locality and horizonErden Obo section, Siziwangqi, Nei Mongol; “Upper White" beds.
+
+Description and comparison Medium sized tsaganomyid and the skull is protrogomorphous.
+
+Dorsal view (Fig.2A): The long nasals (na) taper posteriorly. The nasal-frontal suture is not very clear in V 26552.1, but it is nearly straight and almost in one line with the premaxillary-frontal suture.The dorsal part of the premaxilla (pm) is bordered by a distinct laterodorsal crest (pmldc),which extends from the anterosuperior corner of the infraorbital foramen to the anterolateral border of the upper incisor alveolus.The right zygomatic arch is complete and strongly expanded.The posterior border of the upper branch of the anterior root of the zygomatic arch is slightly concave, with its posterior most point aligned at the same transverse line with the premaxillry-frontal suture.The distinct frontal crest (fc) originates from the lacrimal tubercle.The sagittal crest (sc) is prominent. The parietal (p) has a smooth surface.The infraorbital foramen is small.
+
+Ventral View (Fig. 2B): The left and right antepremolar crests (aoc) are convergent anteriorly, but do not merge together. The premaxillary-maxillary suture crosses the antepremolar crest.The diastema between incisor and the P4 is longer than the length of the P4-M3.The zygomatic plate is broad and concave,and a well-developed curved rim bounds
+
+![](images/d9c8949ed9ba072154e881f5eedc32af1425d48841fa14445a9ecdde54624fbb.jpg)  
+Fig.2 The skull with the mandible of Coelodontomys asiaticus from the“Upper White”beds of the Erden Obo section (IVPP V 26552.1)
+
+A.dorsal view of the skull; B.ventral view ofthe skull; C.crown viewofthe mandibles; D.buccal view of the   
+right mandible.Abbreviations: ab.auditory bulla;aoc.antepremolar crest; bo.basioccipital; bs.basisphenoid; fc.frontal crest; mtf. mental foramen; mr. masseteric ridge; na.nasal; occ.occipital condyle; p.parietal; pm. premaxilla; pmldc. premaxillary laterodorsal crest; sc.sagittal crest
+
+its anterior border. The left and right cheek tooth rows are slightly convergent posteriorly. The basisphenoid (bs) and basioccipital (bo) form an anteriorly narrowing trapezoid.A sagittal ridge can be seen on the basioccipital. The auditory bulla (ab) is moderately inflated. The occipital condyle (occ) is wide and short in ventral view side,and the two condyles are close to each other.
+
+The mandible is hystricognathous,and the coronoid and the condyloid processes are broken (Fig.2C,D).The horizontal ramus is short and thick.The symphysis extends forwards and upwards. In the posterior margin of the symphysis, there is an ovoid concavity, which may provide insertions for digastric muscles.The mandibular diastema is subequal to the lower cheek tooth row in length.The masseteric fossa is large and deep,with distinct dorsal and ventral masseteric ridges (mr)(Fig. 2D).The anterior apex of the masseteric fossa extends to a position between the ml and $\mathrm { m } 2$ . On the lateral surface of the jaw, two mental foramina (mtf) are anteroventral to the p4.The lower incisor extends below the lower cheek teeth and posteriorly ends in the condyloid process.The lower molars originate buccal to the lower incisor.
+
+Dentition: The cheek teeth are strongly unilaterally hypsodont. The occlusal surface is circular and covered by very thin enamel (Figs.2B,3A).After wear, the occlusal cusp-loph structure is lost.The left p4 of V 26552.1 is unworn, its trigonid is narrower than the talonid, and it has a short and transverse hypolophid (Fig.2C). The external valley is nearly transverse on the $\mathbf { m } 3$ . The cheek teeth have open roots. The dentine part is very short in height and the pulp cavity is well developed. The ratio of the dentine part to the pulp cavity is very small (Fig.3B).Based on the CT scan for V26552.1,the P4 extends to the buccal side of the upper incisor,whereas M1-3 extend to the medial side of the upper incisor (Fig.3C,D). In the mandible,the right p4 grows above the i2,and the left p4 extends buccal to the i2 (Fig. 3E).
+
+The new specimens from the “Upper White”beds of the Erden Obo section differ from Cyclomylus (Wang, 2Oo1) in having distinct antepremolar crests,the thin enamel on the occlusal pattern,and the open roots of the cheek teeth. The differences between the new specimens and Tsaganomys (Wang, 2001) are also distinct. The antepremolar crests in V 26552.l are nearly straight and only slightly convergent toward the incisive foramen,but they are curved and merge into one longitudinal crest in Tsaganomys. The pulp cavity of the cheek teeth is well developed in new materials from the Erden Obo section,and the ratio of the dentine part to the pulp cavity is obviously smaller than that in Tsaganomys. In V 26552.1 the root of the P4 lies on the buccal side of the upper incisor, but in Tsaganomys the P4 extends to the medial side of the upper incisor. The trigonid of the p4 is narrower than the talonid in V 26552.1, but in Tsaganomys the width of the trigonid and talonid of the p4 are similar. The above differences are also seen between Coelodontomys and Tsaganomys,so the new specimens are referred to Coelodontomys. Coelodontomys was described by Wang (2001),and it now includes $C o$ 、asiaticus.The characters of the skull and mandible in the new specimens are identical to those of $C o$ 、asiaticus,and the size is also within the range of variation for $C o$ asiaticus (see Table 1).
+
+Table1 Measurementsof cheek teethofCoelodontomys asiaticus (mm)   
+
+<html><body><table><tr><td>Coelodontomys asiaticus</td><td colspan="4"></td><td colspan="2">Coelodontomysasiaticus (Wang,2001)</td></tr><tr><td></td><td></td><td colspan="2">V 26552.1</td><td colspan="2">V26552.2</td><td></td><td>mean</td></tr><tr><td></td><td></td><td>left</td><td>right</td><td>left</td><td>right</td><td>range</td><td></td></tr><tr><td>P4</td><td>L</td><td>3.90</td><td>3.45</td><td>5.10</td><td>5.00</td><td>3.24-5.20</td><td>4.03</td></tr><tr><td></td><td>W</td><td>3.80</td><td>3.55</td><td>4.00</td><td>4.20</td><td>3.30-6.15</td><td>4.89</td></tr><tr><td>M1</td><td>L</td><td></td><td></td><td>5.80</td><td>6.10</td><td>3.12-5.46</td><td>3.97</td></tr><tr><td></td><td>W</td><td></td><td></td><td>3.60</td><td>3.80</td><td>4.10-7.34</td><td>5.65</td></tr><tr><td>p4</td><td>L</td><td>4.50</td><td></td><td></td><td></td><td>4.06-5.50</td><td>4.57</td></tr><tr><td></td><td>W</td><td>4.40</td><td></td><td></td><td></td><td>4.63-6.57</td><td>5.55</td></tr><tr><td>ml</td><td>L</td><td>4.50</td><td></td><td></td><td></td><td>3.46-5.60</td><td>4.23</td></tr><tr><td></td><td>W</td><td>4.50</td><td></td><td></td><td></td><td>4.90-7.17</td><td>5.97</td></tr><tr><td>m2</td><td>L</td><td>4.00</td><td></td><td></td><td></td><td>3.78-5.50</td><td>4.24</td></tr><tr><td></td><td>W</td><td>4.50</td><td></td><td></td><td></td><td>4.50-6.14</td><td>5.32</td></tr><tr><td>m3</td><td>L</td><td>4.30</td><td></td><td></td><td></td><td>3.35-4.34</td><td>3.69</td></tr><tr><td></td><td>W</td><td>4.50</td><td></td><td></td><td></td><td>4.20-5.95</td><td>4.88</td></tr></table></body></html>
+
+![](images/f94ac6f7af30bf990de2a484664dd6bd81f7af2fe4b98ac3300bfddb53271c11.jpg)  
+Note:The information is not available for the measurementof the isolated tooth because it is diffcult to identifya tooth after severe wear.   
+Fig.3 Cheek teeth of Coelodontomys asiaticus from the“Upper White"beds of the Erden Obo section A. Occlusal view of the maxillae with left and right P4-M1s (IVPPV26552.2); B.sagitalsection of the left P4 (V 26552.2); C.buccal view of the left maxilla showing the P4 to the buccal side of the I2(V 26552.1); D.medial view of the left maxilla showing M1-3 to the medial side of the I2 (V 26552.1); E.anterior view of the mandibles showing the positions of the i2 and p4 (V 26552.1)
+
+CylindrodontidaeMiller&Gidley,1918 Gobiocylindrodon Li etal., 2019 Gobiocylindrodon sp. (Fig. 4)
+
+SpecimensIVPP V 26553.1, right mandible with m1-3; V 26553.2, left mandible with $\mathrm { m } 2 { - } 3$
+
+Locality and horizon Erden Obo section, Siziwangqi, Nei Mongol; “Lower Red" beds.
+
+Description and comparison m1-3 in V 26553.1 are completely preserved (Fig. 4A,B). In the lower molars,the metalophid II is short and extends anterolingually to reach the buccal side of the metaconid; the ectolophid is short and no mesoconid is present. The hypolophid is transverse.It extends to the hypoconid in the ml,but extends to the ectolophid anterior to the hypoconid in $\scriptstyle \mathrm { m } 2 - 3$ . The hypoconulid on $\mathrm { m } 1 { - } 2$ occurs as a distinct swelling on the posterolophid. In ml-3 the posterosinusid is closed,the mesosinusid is wide,and the sinusid is deeper than the mesosinusid and the posterosinusid.There is a distinct mesostylid in the $\mathbf { m } 3$ of V 26553.2 (Fig. 4C).
+
+The new specimens differ from Yuomys magnus (Li, 2019) in the same horizon in having a smaller size (see Table 2), the hypolophid extending further backwards,and a narrower posterosinusid. The metalophid II in both the new materials and Yuomys magnus are short; however, it extends anterolingually in the new materials, whereas it extends posterolingually in Y. magnus.The new specimens from the “Lower Red” beds share the following features with Gobiocylindrodon: a short metalophid I, short ectolophid lacking mesoconid, less-expanded hypoconid,and closed posterosinusid.The most obvious difference between Gobiocylindrodon and other primitive cylindrodontids is that the p4 hypolophid is connected to the hypoconulid in Gobiocylindrodon. Unfortunately, the p4 isn't preserved in the new specimens. Here the new materials from the“Lower Red”beds are tentatively referred to Gobiocylindrodon, but presently considered to be indeterminate at the specific level.
+
+![](images/82a3e558b51c7de8285bf1f687988ff4b568ed8a57b2ad60c516353d81bfc0dd.jpg)  
+Fig.4 Gobiocylindrodon sp.from the“Lower Red’beds of the Erden Obo section A,B.IVPP V 26553.1,occlusal(A) and buccal(B) views of the right mandible with ml-3; C.V26553.2,occlusal view of the left mandible with $\mathrm { m } 2 { - } 3$
+
+Table 2 Molar measurements and comparisons of Gobiocylindrodon and Yuomys magnus (mm)   
+
+<html><body><table><tr><td></td><td></td><td colspan="2">Gobiocylindrodon sp.</td><td colspan="2">Gobiocylindrodonulausuensis (fromUlaUsuWest,Lietal.,2019)</td><td colspan="2">Yuomys magnus (Li, 2019)</td></tr><tr><td></td><td></td><td>V26553.1</td><td>V26553.2</td><td></td><td>mean</td><td>range</td><td>mean</td></tr><tr><td></td><td>L</td><td>3.10</td><td></td><td>range 3-3.1</td><td>3.07</td><td></td><td></td></tr><tr><td>m1</td><td>W</td><td>2.95</td><td></td><td>3-3.1</td><td>3.02</td><td></td><td></td></tr><tr><td>m2</td><td>L</td><td>3.20</td><td>3.45</td><td>3-3.5</td><td>3.24</td><td>4.3</td><td>4.3</td></tr><tr><td></td><td>W</td><td>3.15</td><td>3.30</td><td>3.1-3.5</td><td>3.25</td><td></td><td></td></tr><tr><td>m3</td><td>L</td><td>4.25</td><td>3.85</td><td>4.2</td><td>4.2</td><td>5.4</td><td>5.4</td></tr><tr><td></td><td>W</td><td>3.40</td><td>3.00</td><td>3.2-3.45</td><td>3.35</td><td>4.7-4.75</td><td>4.73</td></tr></table></body></html>
+
+# ProardynomysDashzeveg&Meng,1998 Proardynomys sp.
+
+(Fig. 5)
+
+SpecimensIVPPV 26554.1, right m1-2; V 26554.2, left m2; V 26554.3, left m2; V 26554.4, right m1 (or m2); V 26554.5, fragmentary right mandible with $\mathrm { m } 2 { - } 3$
+
+Locality and horizon Erden Obo section, Siziwangqi, Nei Mongol; “Middle Red" beds.
+
+Description and comparisonThe straight metalophid I in $\mathrm { m } 1 { - } 3$ connects the protoconid and metaconid. The metalophid II extends to the buccal side of the metaconid and encloses the trigonid posteriorly. The mesoconid is absent. The hypolophid is transverse and complete,extending from the entoconid to the ectolophid. The posterolophid is strong,but the hypoconulid is weak.The hypoconid is less anterobuccally inflated. The posterosinusid between the hypolophid and posterolophid is narrow.
+
+The new materials from the“Middle Red” beds of the Erden Obo section have a complete metalophid II, weak hypoconulid, narrow posterosinusid, and anterobucally extending hypoconid. Based on these features,they are consistent with Proadynomys.Proardynomys (Dashzeveg and Meng,1998) was established based on materials from the Middle Eocene Mergen locality of the Eastern Gobi, Mongolia. Compared to the holotype of Proadynomys borkhoii, the specimens reported here are smaller, and the length/width ratio of $\mathrm { m } 1 { - } 2$ is smaller as well(see Table 3). The new materials are thus referred to Proardynomys sp.
+
+The new specimens differ from Gobiocylindrodon sp.in the “Lower Red’ beds in having a more developed metalophid I extending to the metaconid and a weaker hypoconulid on the posterolophid. Compared to Pseudocylindrodon yihesubuensis and Ardynomys olseni (Li, 2020) in the “Upper Red” beds,the size of the new specimen is larger than $P .$ yihesubuensis and the crown is lower than that in $P .$ yihesubuensis and $A$ .olseni. The hypoconid in thenew materials is slightly anterobuccally stretched,whereas it is more prominent in $P .$ yihesubuensis and A. olseni. In addition, $P .$ yihesubuensis and $A$ .olseni have a shorter and more lingually displaced ectolophid.
+
+![](images/5a64c69ef3738752dc3675e5f00683f7f3f1b3f6c23170ec24e02179d99cb243.jpg)  
+Fig.5Proardynomys sp.from the“Middle Red"beds of the Erden Obo section A.IVPP V26554.1,right mandible with m1-2; B.V26554.2,left m2; C.V26554.3,left m2; D.V 26554.4,right m1 (or m2); E.V 26554.5, right mandible with $\scriptstyle \mathrm { m } 2 - 3$ （204号
+
+Table 3 Molar measurements and comparisons of Proardynomys (mm)   
+
+<html><body><table><tr><td colspan="6">Proardynomys sp.</td><td colspan="2">Proardynomys borkhoii (Dashzeveg and Meng,1998)</td></tr><tr><td></td><td></td><td>n</td><td>range</td><td>mean</td><td></td><td>PSS 41-30</td><td>PSS 41-29</td></tr><tr><td>ml</td><td>L</td><td>3</td><td>3.20-3.30</td><td>3.23</td><td></td><td>3.82</td><td>3.54</td></tr><tr><td></td><td>W</td><td>3</td><td>3.20-3.50</td><td>3.33</td><td></td><td>3.44</td><td>3.00</td></tr><tr><td>m2</td><td>L</td><td>3</td><td>3.20-3.50</td><td>3.40</td><td></td><td>4.10</td><td>3.70</td></tr><tr><td></td><td>W</td><td>3</td><td>3.50</td><td></td><td>3.50</td><td>3.46</td><td>3.14</td></tr><tr><td>m3</td><td></td><td></td><td></td><td>4.60</td><td></td><td>4.36</td><td></td></tr><tr><td></td><td>L W</td><td></td><td></td><td>3.50</td><td></td><td>3.45</td><td></td></tr></table></body></html>
+
+# Cylindrodontidae gen.et sp. indet.
+
+(Fig. 6)
+
+SpecimensIVPP V 26555.1, fragmentary left maxilla with M1 (or M2); V 26555.2, right M3.
+
+Locality and horizon Erden Obo section, Siziwangqi, Nei Mongol;“Middle Red” beds.
+
+Description and comparisonV 26555.1 can be identified as the M1 (L/W in mm: 3.50/4.90) or M2 by the presence of contact facets on the anterior and posterior wals. The protocone is transversely compressed, and it is higher than the paracone and metacone. No hypocone is present. The complete protoloph extends from the paracone to the buccal side of the protocone,and a small paraconule appears on the protoloph. The metaloph is slightly longer than the protoloph,and a distinct metaconule is present on the metaloph.A mesostyle is well-developed and connects with the paracone through a thin ridge. The anterior and posterior cingula are lower than the protoloph and metaloph, respectively.
+
+![](images/e902e84f955a801f488fa12c65859fcb277a037a8fbda3a3708f771b1b52f49f.jpg)  
+Fig.6 Cylindrodontidae gen. et sp.indet. from the“Middle Red”beds of the Erden Obo section A.IVPPV26555.1, fragmentary left maxilla with M1 (or M2); B.V 26555.2, right M3
+
+The characters of V 26555.2 are similar to that of most of the cylindrodontid M3s. The length is shorter than the width (L/W in mm: 3.65/3.85) in V 26555.2.A weak hypocone is more buccally positioned and a well-developed protocone occupies the lingual side.A small metaconule is present on the metaloph. The protoloph and metaloph converge at the protocone.
+
+The teeth structures of V 26555.1 and V 26555.2 display the typical dental pattern of cylindridontids. Proardynomys (Dashzeveg and Meng,1998) only has M1 (L/W in mm: 3.70/4.24). V 26555.1 differs from the M1 of Proardynomys in having a more developed metaconule and mesostyle,and wider crown. V 26555.1 differs from Gobiocylindrodon (Li et al.,2019) in lacking a hypocone,having a well-developed mesostyle,and a smaler length/ width ratio of the M1. Compared with the known species of Ardynomys,V 26555.1 is similar to Ardynomys occidentalis (Burke,1936;Wood,1970,1974) in having a small protoconule and distinct metaconule and mesostyle,but the size of V 26555.1 is larger than A. occidentails. V 26555.1 is also larger than Pseudocylindrodon (Black,1965; Kowalski,1974; Storer,1984, 1988;Li, 2019).
+
+Here V 26555.1 and V 26555.2 are tentatively referred to the family Cylindrodontidae, but cannot be further identified at the genetic and specific levels.
+
+Ctenodactyloidea Simpson, 1945 Yuomys Li, 1975 Yuomys sp. (Fig. 7)
+
+SpecimensIVPP V 26556.1, fragmentary right maxilla with P4; V26556.2, right m1; V
+
+26556.3, right m2.
+
+Locality and horizonErden Obo section, Siziwangqi, Nei Mongol; “Lower White” beds.
+
+Description and comparisonThe occlusal surface of the P4 (L/W in mm: 3.70/4.70) is quadrangular. A small hypocone is present posterior to the protocone,and the sinus between the protocone and the hypocone is shallow.A small paraconule,weaker than the metaconule, is present on the protoloph.The protoloph is complete,extending from the protocone to the paracone.The metacone is connected to the metaconule by a short metaloph that fails to contact the protocone. The precingulum rises to form a distinct parastyle at the buccal end.
+
+V 26556.1 differs from most of the P4s of cylindrodontids in having a distinct hypocone and a short metaloph that is not connected to the protocone.V 26556.1 is similar to the primitive cylindrodontid Gobiocylindrodon (Li et al.,2019) in having a distinct metaconule, but it differs from Gobiocylindrodon in having a more developed parastyle,larger hypocone and lacking a complete metaloph extending to the protocone; however, V 26556.1 possesses many characters common in the P4s of Yuomys (Li, 1975), such as a prominent hypocone, a short metaloph and a distinct metaconule.The size of V 26556.1 is smaller than that of the P4 of Y. magnus from the“Lower Red"beds of the Erden Obo section (Li, 2019).
+
+The lower cheek teeth measurements (length/width in mm) are: 3.50/3.20 for the ml （V 26556.2) and 3.90/3.70 for the m2 (V 26556.3). The metalophid II on the ml and $\mathrm { m } 2$ is short so that the trigonid basin is not fuly enclosed.A complete and transversely aligned hypolophid is present in the talonid basin,and the hypolophid contacts the ectolophid. There is a distinct hypoconulid on the posterolophid.All aforementioned features further show these specimens should be referred to Yuomys. These specimens differ from those of Proadynomys sp.from the “Middle Red” beds and Gobiocylindrodon sp. from the“Lower Red” beds of the Erden Obo section in having a shorter metalophid II that extends posterolingually and a more developed hypoconulid.
+
+![](images/47a94cdd1a806bcaee1d8b6846e882e7bc575e6112df0ea20bb4fdec70aad2ff.jpg)  
+Fig.7.Yuomys sp.from the“Lower White”beds of the Erden Obo section A.IVPP V26556.1,fragmentary right maxilla with P4; B.V26556.2,right ml; C.V26556.3,right m2
+
+Here these teeth from the“Lower White”beds are tentatively referred to an indeterminate species of Yuomys.
+
+# 4 Discussion and conclusion
+
+# 4.1 Age and formation of the “Upper White” beds
+
+The tsaganomyid rodent Cyclomylus lohensis and Coelodontomys asiaticus from the “Upper White” beds of the Erden Obo section are described here. Cyclomylus lohensis appeared in the Early Oligocene (Wang,20ol). Coelodontomys asiaticus occurred widely in the late Early Oligocene upper part of the Ulantatal Formation and the upper member of the Wulanbulage Formation in China,and in the Early Oligocene Hsanda Gol Formation in Mongolia and Buran Formation in Kazakhstan (Wang,2Ool). In a recent study, Ulantatalian was suggested as a representative of the Early Oligocene of China, and $C .$ lohensis and $C o$ asiaticus were restricted to the Ulantatalian (Wang et al., 2019).
+
+The “Upper White” beds were once referred to as the “Upper Naogangdai’ formation by Jiang (1983),and this view was supported by Qiu and Wang (2007) and Wang et al. (2012). Based on the mammalian fossils including Paraceratheruim granger, Schizotherium cf. S. avitum, and Critetops dormitor (Granger and Gregory, 1936; Coombs, 1978; Qiu and Wang, 2007; Bai et al.,2018; Li,2018) from the“Upper White”beds in the Erden Obo section, the age of this horizon is generally considered to be Early Oligocene. Cyclomylus lohensis and $C o$ asiaticus from the Erden Obo provide solid evidence to back this opinion.
+
+Wang (2003） suggested that the top beds of both the Erden Obo and Nom Khong Obo probably belong to the same formation,but considering the distance of about $8 0 ~ \mathrm { k m }$ between the two sections,she felt this suggestion should be tested further. The lithology of the “Upper White”beds in the Erden Obo section is composed of gray and yellow coarse sand,and it is similar to that of the top bed of the Nom Khong Obo.Fossils from the top bed of the Nom Khong Obo include Tsaganomys altaicus, Cyclomylus intermedius, Paraceratherium granger, Ardynia kazachstanensis and Entelodon gobiensis (Wang, 20o3; Qiu and Wang,2007). Paraceratherium granger is shared by the“Upper White”beds of the Erden Obo section and the top bed of the Nom Khong Obo. Cyclomylus lohensis is present in the “Upper White”beds, while $C .$ intermedius occurs in the top bed of the Nom Khong Obo. Consequently, the“Upper White”beds of the Erden Obo and the top bed of the Nom Khong Obo should belong to the "Upper Naogangdai” formation based on both lithology and mammalian fossils.
+
+# 4.2 Cylindrodontid rodents in the Erden Obo section
+
+The oldest known cylindrodontid rodent is Tuscahomys (Dawson and Beard, 2007; Beard and Dawson, 20o9; Anemone et al.,2012), which occurred in Early Eocene Wasatchian mammal faunas from Wyoming and eastern Mississippi in North American.Previously, most cylindrodontids were found in North American and relatively rarely seen in Asia. This was changed by the discovery of several cylindrodontid taxa from the Eocene to Oligocene of Asia.The primitive cylindrodontid Gobiocylindrodon was described from the Ula Usu West in the Erlian Basin,Nei Mongol (Li et al.,2019). Some fragmentary cylindrodontid materials were found from the Shipigou fauna that is generally considered to be of the Irdinmanhan of Chinese Land Mammalian Ages (Tong,1997),and they are referred to Orientocylindrodon, cf. Pareumys sp.and cf. Mysops spp. Anomoemys was found from the Oligocene of the Ulantatal in Nei Mongol (Wang,1986; Huang,1993) and Ardynomys (Wang and Meng,2009) was reported from a locality four miles north of Baron Sog Lamasary in the Erlian Basin,Nei Mongol.
+
+Presently,different cylindrodontids have been found from the different horizons of the Erden Obo section: Gobiocylindrodon sp. from the “Lower Red” beds, Proardynomys sp. and Cylindrodontidae gen. et sp. indet. from the“Middle Red”beds,and Pseudocylindrodon yihesubuensis, Ardynomys olseni, and Ardynomys sp. from the “Middle White” and "Upper Red” beds (Li, 202O).Although certain species are still rare, cylindrodontids have already shown a high diversity in the Eocene and Oligocene of China. The cylindrodontid materials from the Erden Obo section may demonstrate a relatively continuous evolution of cylindrodontids in Asia. The relationship between the North American cylindrodontids and Asian forms is still uncertain.The oldest known cylindrodontid rodent was found in North America,but Pseudocylindrodon and Ardynomys are present in both North America and Asia. It is clear that the cylindrodontids dispersed between Asia and North America several times during the Eocene.
+
+AcknowledgementsI thank Bai Bin, Jin Xun,Li Ping, Meng Jin, Wang Yuanqing, Mao Fangyuan, Beard K. C., Gebo D.L., Ni Xijun, Chen Wei, Zhou Wei, Li Shejie,Cao Qiang, Gao Wei, Sun Chenkai,Wang Yongxing,Li Yan and Li Qi for their assistance with the fieldwork, Wang Yongfu for specimen preparation,and Hou Yemao for assistance in CT scanning. Schiebout A. J. helped to improve the manuscript.
+
+# 内蒙古二连盆地额尔登敖包剖面新增查干鼠类、圆柱齿鼠类及梳趾鼠类化石材料
+
+李茜12
+
+(1中国科学院古脊椎动物与古人类研究所，中国科学院脊椎动物演化与人类起源重点实验室北京100044)(2中国科学院生物演化与环境卓越创新中心北京100044)
+
+摘要：为完善内蒙古二连盆地古近纪生物年代框架和明晰该地区啮齿类化石多样性，报道了二连盆地额尔登敖包剖面新发现的啮齿类化石材料，包括上白层中的查干鼠类(Cyclomylus lohensis,Coelodontomys asiaticus),中红层和下红层中的圆柱齿鼠类(Gobiocylindrodon sp.,Proardynomys sp.和 Cylindrodontidae gen.et sp. indet.),及下白层中的梳趾鼠类(Yuomys sp.)。上白层中发现的查干鼠类证实了上白层时代为早渐新世。基于额尔登敖包上白层与脑木根敖包顶部岩层岩性相似，动物群中有部分相同的组成，进一步确认二者应当属于同一个组。额尔登敖包剖面圆柱齿鼠类化石以不同的组合出现在不同的层位中，这些标本表明始新世时在亚洲圆柱齿鼠类已经有较高的分异度，同时该类群在亚洲可能有相对连续的演化序列。
+
+关键词：内蒙古，额尔登敖包，始新世-渐新世，查干鼠类，圆柱齿鼠类，梳趾鼠类
+
+# References
+
+Anemone RL,Dawson MR,Beard KC,2012.The earlyEcene rodent Tuscahomys (Cylindrodontidae)from the Great Divide Basin,Wyoming: phylogeny,biogeography,and paleoecology.Ann Carnegie Mus,80:187-205   
+Bai B,WangYQ,LiQetal.,20l8.BiostratigraphyanddiversityofPaleogeneperissodactyls fromtheErlian BasinofInner Mongolia, China.Am Mus Novit,3914: 1-60   
+Beard KC,Dawson MR,2009.Early Wasatchian mammals of the Red Hotlocal fauna,uppermost TuscahomaFormation, Lauderdale County,Mississippi.Ann Carnegie Mus,78:193-243   
+Black CC,1965.Fosil mammals from Montana.Pt.2.Rodents from the early Oligocene Pipestone Springs local fauna. Ann Carnegie Mus,38:1-48   
+Bryant JD,McKenna MC,1995.Cranialanatomyand phylogenetic positionof Tsaganomys altaicus (Mammalia: Rodentia) from the Hsanda Gol Formation (Oligocene), Mongolia.Am Mus Novit,3156:1-42   
+Burke JJ,1936.Ardynomys and Desmatolagus in North American Oligocene.Ann Carnegie Mus,25:135-154   
+Chang HC,1931.Abriefsummaryof the Tertiry formationofInner Mongoliaandtheir corelation with Europe and North American.Bull Geol Soc China,10: 301-316   
+CoombsMC,1978.Aditional Schizotheriummaterial from China,andareviewofSchizotheriumdentitions (Perissodactyla, Chalicotheriidae).Am Mus Novit, 2647: 1-18   
+DashzevegD,Meng J,1998.Anew Eocene cylindrodontrodent(Mammalia,Rodentia)fromthe Eastern GobiofMongolia. Am Mus Novit,3253:1-18   
+Dawson MR,Beard K C,2007.Rodentsof the family Cylindrodontidae (Mammalia) from theearliest Eocene of the Tuscahoma Formation,Mississippi.Ann Carnegie Mus,76:135-144   
+EmryRJ,Lucas SG,TyutkovaLetal.,1998.TheErgilian-Shandgolian(Eocene-Oligocene)transitioninthe Zaysan Basin, Kazakstan.Bull Carnegie Mus Nat Hist,34: 298-312   
+Granger W,Gregory WK,1936.Further notes onthe gigantic extinct rhinoceros Baluchitherium,from the Oligoceneof Mongolia.Bull Am Mus Nat Hist, 72(1): 1-73   
+HuangXS,1993.Cylindrodontidae (Rodentia,Mammalia)fromthe MiddleOligoceneof Ulantatal,NeiMongol.Vert PalAsiat, 20(4): 33-43   
+Jiang HX,1983.Division of thePaleogene in the Erlian Basin ofInner Mongolia.GeolNei Mogol,2:18-36   
+Kowalski K,1974.Results of the Polish-Mongolian paleontological expeditions.P.V.Middle Oligocene rodents from Mongolia.Palaeontol Pol,30: 147-178   
+Li C K,1975.Yuomys,anew ischyromyoid rodent genus from the upper Eoceneof north China.Vert PalAsiat,13(1): 58- 70   
+Li Q,2018.Additionalcricetidanddipodid rodent materialfromtheErden Obosection,Erlian Basin (Nei Mongol,China) and its biochronological implications.Palaeoworld,27: 490-505   
+Li Q,2019.Eocenectenodactyloidrodentassemblagesanddiversification from ErdenObo,NeiMongol,China.HistBiol, 31(7): 813-823   
+Li Q,2020.New lateEocenecylindrodontidrodents fromtheErlian Basin (Nei Mongol,China).PalaeobioPaleoenv,doi: 10.1007/s12549-020-00424-5   
+Li Q,Meng J,2015.New ctenodactyloid rodents from the Erlian Basin,Nei Mongol, China,and the phylogenetic relationships of Eocene Asian ctenodactyloids.Am Mus Novit,3828:1-58   
+Li Q,Meng J,WangYQ,2016.New cricetid rodents fromstrata neartheEocene-Oligocene Boundary inErdenObo section (Nei Mongol, China). PLoS One,11(5): e0156233,doi:10.1371/journal.pone.0156233   
+Li Q,Gong YX,Wang YQ,2017.Newdipodid rodents from the Late Eoceneof Erden Obo (Nei Mongol,China).Hist Biol, 29(5): 692-703   
+Li Q,MaoFY,WangYQ,2018.First recordof Eocene fosilrodent assemblages from the lower partof the ErdenObo section,Erlian Basin (NeiMongol,China)and its biochronological implications.Palaeobio Paleoenv,98(2):259- 276   
+Li Q,Wang YQ,Mao F Yet al.,2019.A new Eocene cylindrodontid rodent from the Erlian Basin (Nei Mongol,China)and its implications for phylogeny and biochronology.J Vert Paleont,39:el680990,doi: 10.1080/02724634.2019.1680990   
+Matthew WD, Granger W,1923.New Bathyergidae from the Oligocene of Mongolia.Am Mus Novit,101:1-5   
+Osborn HF,1929.Embolotherium,gen.nov.,of the Ulan Gochu,Mongolia.Am Mus Novit,353:1-20   
+Pei W Z,Chow MC,Zheng JJ,1963.The Chinese Cenozoic Eratherm.Beijing: Science Press.1-31   
+QiT,1990.APaleogene sectionat Erden Obo,Nei Mongol andonthe discoveryof Pastoralodon lacustris (Pantodonta, Mammalia) in that area. Vert PalAsiat,28(1): 25-33   
+Qiu Z X,Wang BY,2007.Paracerathere fosils of China.Palaeont Sin,New Ser C,20:1-396   
+ShevyrevaN S,1974.About taxonomic place of Tsaganomys altaicus.Basedonanalysis of molar teth microstructures of several species in family Cylindrodontidae (Rodentia,Mammalia).In: Kamarenko NNed.Mesozoic and Cenozoic Faunas and Biostratigraphy of Mongolia.The Joint Societ-Mongolian Paleontological Expedition, Transaction. Moscov: Nauka Press.46-59   
+ShevyrevaN S,1994. New rodents (Rodentia, Mammalia) from the Lower Oligocene of the Zaysan Depresion (Eastern Kazakhstan). Paleontol J, 28(4): 111-126   
+Storer JE,1984.Mammals of the Swift Current Creek local fauna (Eocene: Uintan),Saskatchewan.Nat Hist Contrib Saskatchewan Mus Nat Hist,7: 1-158   
+StorerJE,1988.The rodentsof theLac Peletierlowerfauna,lateEocene (Duchesnean)ofSaskatchewan.JVertPaleont,8: 84-101   
+Tong Y S,1997.Middle Eocene smallmammals from Liguanqiao Basin of Henan Provinceand Yuanqu Basin of Shanxi Province, Central China.Palaeont Sin, New Ser C,26:1-256   
+VinogradovBS,GambaryanPP,1952.Oligotsenovyie tailindrodontyi MongoliiIKzakhstana(Cylindrodontidae,Gires, Mammalia).Tr Palaeont Inst Akad Nauk SSSR,41:13-42   
+Wang BY,1986.On the systematic position of Prosciurus lohiculus.VertPalAsiat,24(4):285-294   
+Wang B Y,2001.On Tsaganomyidae (Rodentia,Mammalia) of Asia.Am Mus Novit,3371:1-50   
+WangBY,20o3.Oligocene rodents from the Nomogen( $\mathit { \check { \Psi } } = \mathit { \Psi }$ Nom Khong) Area of Nei Mongol, China,and comments on related stratigraphy. Vert PalAsiat,41(3): 211-219   
+Wang B Y,Meng J,2009.Ardynomys (Cylindrodontidae,Rodentia) from Nei Mongol,China.Vert PalAsia,47(3): 240-244   
+Wang YQ,LiQ,BaiBetal.,2O19.Paleogene integrative stratigraphyand timescaleof China.Sci China,Earth Sci,62: 287-309   
+WangYQ,MngJ,JinX,0l2.CommentsonPaleogenelocaitiesandstratigraphyintherliaBasin,Neiongol,ina. Vert PalAsiat, 50(3): 181-203   
+Wood AE,1970.Theearly Oligocene rodent Ardynomys (Family Cylindrodontidae) from Mongolia and Montana.Am Mus Novit,2418:1-18   
+WoodAE,1974.EarlyTertiaryvertebrate faunas,Vieja Group,Trans-Pecos Texas:Rodentia.BullTexas Mem Mus,21: 1-112

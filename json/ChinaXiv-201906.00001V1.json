@@ -1,0 +1,562 @@
+[
+    {
+        "type": "text",
+        "text": "道德概念具身隐喻及其影响因素：来自元分析的证据",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "丁凤琴 王冬霞",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(宁夏大学教育学院,银川 750021)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 采用元分析技术探讨道德概念具身隐喻及其影响因素。通过文献检索和筛选，共有 65篇文献153个独立样本符合元分析标准 $\\scriptstyle ( N = 8 6 5 9 )$ 。元分析结果显示，道德概念具身隐喻的始源域与目标域存在中等程度正相关 $( r { = } 0 . 3 4 )$ ；调节效应检验表明，道德概念具身隐喻受文化背景和隐喻维度的影响，但不受隐喻映射方向、研究范式和感觉通道的影响。以上研究结果表明，道德概念具身隐喻具有心理现实性，并且受文化背景和隐喻维度的调节，具体而言，东方文化背景下个体的道德概念具身隐喻更强，道德概念与空间维度和大小维度的隐喻联结程度更高。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词具身隐喻；道德概念；元分析；调节作用",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1问题提出",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "具身隐喻(embodied metaphors)是指个体自动将身体经验有关的具体概念(例如视觉、触觉、温度觉等)与抽象概念(例如明暗、软硬、冷热等)形成联结的过程(王继瑛，叶浩生，苏得权,2018)。具身隐喻不仅是一种内隐映射，更是一种言语表征(范琪，叶浩生,2014)。具身隐喻由于建立起身体经验始源域与抽象概念目标域之间的关联，个体依据身体感知经验激活已经存在的隐喻表征，实现具身隐喻更快更准确的言语表征，甚至个体可以借助隐喻映射创造出新事物的内涵与意义。正如研究者所言：具身隐喻承载了言语表征、内隐认知和隐喻创造的叠加功能(范琪，叶浩生,2014)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "值得注意的是，道德概念具身隐喻也具有心理现实性。如研究发现，道德概念与黑白体验具有隐喻现实性(Chiou & Cheng,2013；殷融，叶浩生,2014; Zhong,Bohns,& Gino,2010);道德概念与垂直空间体验自动形成隐喻联结(Chasteen,Burdzy,& Pratt,2010; Hill& Lapsley,2009；鲁忠义，贾利宁，翟冬雪，2017)；身体洁净体验与道德概念之间具有隐喻映射(Lee &Schwarz,201O; Schnal, Benton,& Harvey,2008; Zhong,Strejcek,& Sivanathan, 201O)。 但也有研究认为，大小概念与道德概念的隐喻联结还存在争议(鲁忠义，郭少鹏，蒋泽亮,2017)；清洁启动是否会导致更为宽松的道德判断尚有质疑(Johnson，Cheung，& Donnellan，2014;Schnallet al.，2008)；洁净与道德概念隐喻联结还存在跨文化不一致现象(Fayard，Bassi,Bernstein,&Roberts,2009;Gamez,Diaz,&Marrero,2011)。因此，道德概念具身隐喻的相关研究仍存在一定的分歧。而且，随着道德概念具身隐喻研究数量的不断增加，毫无疑问此类分歧将会日益加剧。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "那么，道德概念与具身体验之间的隐喻关系强度究竟如何？二者之间是如何形成隐喻联结的？哪些因素影响了二者之间的关系？其作用程度如何？亟需研究者进一步考察。本研究采用元分析(meta-analysis)系统探讨道德概念具身隐喻及其影响因素，目的在于：其一，可以整合多项道德概念具身隐喻实证研究成果，以有效降低单一研究结果中存在的测量误差和抽样误差；其二，基于大量研究成果的定量回顾和元分析技术，有利于完整、准确地认识和把握道德概念具身隐喻及其影响因素；其三，通过研究以期为道德概念具身隐喻提供新的研究思路与方向，并为道德教育与干预提供实践指导。具体而言，本元分析试图回答以下两个问题：第一，道德概念具身隐喻的强度究竟如何；第二，哪些因素对道德概念具身隐喻具有调节作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1具身隐喻 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "具身隐喻是基于具身认知理论和概念隐喻理论基础上发展而来的。具身认知(embodiedcognition)理论强调，抽象概念源于人类普遍的身体经验，身体感知觉是抽象概念形成的基础(Gibbs,2006; Lakoff & Johnson,1999)。概念隐喻理论(Conceptual Metaphor Theory,CMT)认为，隐喻是人们借助具体的、有形的始源域概念来表达抽象的、无形的目标域概念，从而实现抽象思维(Lakoff&Johnson,1999)。始源域是指熟悉的、具体的、直接体验的认知域，如颜色、重量、空间方位等。目标域则是指抽象的、难以理解和表征的认知域，如道德概念、社会感情、权威地位等。个体通过始源域和目标域的相互隐喻映射，从而在身体经验和抽象概念之间建立关联。因此，具身认知理论与概念隐喻理论异曲同工，均强调身体经验对认知的影响。基于以上两种理论，具身隐喻所要探究的是身体经验与抽象概念如何形成隐喻联结以及隐喻影响机制如何。研究者甚至认为，最抽象的心理学概念也依赖于身体经验的隐喻映射而形成(Williams＆Bargh,2008)。还有研究认为，身体经验与隐喻认知在大脑形成了特定的神经回路(Lakoff,2014)，表明具身隐喻已经具有了大脑神经生理基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2道德概念具身隐喻 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "道德概念具身隐喻主要涉及道德与洁净、道德与颜色、道德与空间、道德与明暗隐喻等方面(陈潇，江琦，侯敏，朱梦音,2014)。首先，道德概念净脏隐喻强调道德概念和身体洁净以及不道德概念与身体肮脏之间的自动联结。如人们常用洁净描述一个人的道德，用肮脏描述一个人的不道德(Lakoff& Johnson,1999)；“清白”“邪恶”等抽象道德概念最初都是藉由身体干净和肮脏的具体体验发展而来的(Haidt＆ Joseph,2004; Schnallet al.,2008；杨继平,郭秀梅，王兴超,2017; Zhong&Liljenquist,2006)；通过手完成不道德行为后，被试对手部清洁用品的需求增加，而通过嘴完成不道德行为后，被试对口部清洁用品的需求增加(Lee &Schwarz,2010)。其次，道德颜色隐喻强调道德概念与视觉颜色之间的隐喻映射。研究发现，黑白颜色隐喻表征对积极词与消极词判断产生影响，即白色词与积极词匹配、黑色词与消极词匹配时易化个体的判断(Meier,Robinson,&Clore,2004)；中国被试身上存在黑白颜色与道德概念的自动隐喻联结，将白色与道德词、黑色与不道德词进行隐喻表征(殷融，叶浩生，2014)。第三，空间隐喻也是表征道德概念的重要维度。空间隐喻是以空间概念为始源域进行抽象目标域概念的隐喻映射(Lakoff& Turmer,1989)；道德概念的大小空间隐喻联结是自动化的(鲁忠义等,2017)；被试倾向于将道德词与上方、不道德词与下方相联系(Meier,Sellbom,&Wygant,2007；王锂，鲁忠义,2013)。最后，明暗亮度也影响道德概念具身隐喻。以往研究发现，道德概念与“明亮”存在隐喻联结，不道德概念则与“黑暗”存在隐喻联结(牛怡然，2014)；相比回忆道德事件，被试回忆不道德事件后会将实验环境判断为更黑暗(Banerjee,Chatterjee,&Sinha,2012)。而目前并无研究从元分析视角探究身体经验是否会对道德概念具身隐喻产生影响。本研究假设：身体体验始源域与道德概念目标域之间的隐喻关系具有心理现实性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3道德概念具身隐喻的影响因素",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "隐喻映射方向：关于隐喻的方向，目前主要存在以下观点：(1)隐喻映射是单向的。隐喻只能从始源域映射到目标域(Lakoff&Johnson,1999)。研究发现，被试情绪启动可以影响其垂直空间概念的加工，但反过来则不然(Meier&Robinson,2004)；同样，大小知觉始源域与道德概念目标域之间存在单向隐喻映射(鲁忠义等,2017)。(2)隐喻映射是双向的、灵活的。隐喻既可以从始源域映射到目标域，也可以从目标域映射到始源域(Black,1993)。研究证实，鱼腥味会诱发被试的怀疑和破坏合作，而社会怀疑也能提高被试对鱼腥味的正确识别(Lee&Schwarz,2012)；权力和尺寸大小之间存在隐喻的双向性(He,Chen,&Li,2015)；道德概念与垂直空间隐喻相互映射(贾宁，蒋高芳，2016)。(3)隐喻映射是不平衡的。研究表明，道德概念垂直空间隐喻映射的力量是不平衡的，从始源域到目标域的映射力量要弱于从目标域向始源域的映射(鲁忠义等，2017)；儿童的空间和时间隐喻映射也是不对称的，空间信息对时间概念隐喻的影响大于时间信息对空间概念隐喻的影响(Casasanto,Fotakopoulou,& Boroditsky,2010)。至此可知，道德概念具身隐喻的方向性还存在不一致，隐喻映射的方向不同，可能对道德概念具身隐喻的影响强度也不同。由此我们推测，隐喻映射的方向可能对身体经验和道德概念之间的隐喻关系产生不同的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "文化背景：文化不但影响个体的具身隐喻(Gibbs,1999)，甚至影响思维与语言的隐喻表征(尹新雅，鲁忠义，2015)。研究者将由于文化而异的概念隐喻称为复杂隐喻(ComplexMetaphors)(Lakoff,2014)。复杂隐喻是不同文化积淀的结果，反映了隐喻映射的文化差异。如西方文化主张人性本恶，主张“抑恶”(尹新雅，鲁忠义,2015)，个体对“不道德是下”（相比于“道德是上”)的具身体验更为强烈(Hill&Lapsley,2009)；而与西方的抑恶文化不同，东方文化主张人性本善，主张“扬善”和对美德的追求，久而久之便强化了个体对“道德是上”的具身体验(王锂，鲁忠义,2013)。东方文化中，脸面象征着公开的自我形象，个体面部清洁具有特别强烈的道德效应；西方文化下的被试没有表现出清洁面部带来的道德显著性差异(Lee et al.,2015)。目前，尚无研究探究文化背景是否会调节身体经验与道德概念隐喻之间的关系。本研究假设：不同文化背景可能在道德概念与具身隐喻之间的关系中具有调节作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "隐喻维度：以往研究发现，道德概念具身隐喻涉及到了空间、净脏、大小等维度(陈潇等,2014；杨继平等，2017)。由于身体根植于地球引力之中，上下空间位置组成了人类最基本的经验(Gibson，1969)。研究也发现，儿童的上下垂直空间概念隐喻大于时间概念隐喻(Casasanto et al.,2010)。上下隐喻维度与个体的道德概念关系最为密切(鲁忠义等,2017)。众多的研究也表明，“道德在上而不道德在下”(Chasteen et al.,2010;Meier et al.,2007；鲁忠义等，2017；王锂，鲁忠义,2013；杨继平等,2017)。但也有研究发现，道德概念与空间大小之间没有隐喻联结(徐闯，2012)。而相较于大小隐喻，净脏隐喻与道德概念的内隐联结更为强烈(殷宏淼,2014)。此外，道德概念与黑白(Meier et al.,2004)、香臭(Liljenquist, Zhong，&Galinsky,2010)、重量(丁汝楠,2018)、温度(栾子烟,2013)、甜苦(赵伯妮,2009)等维度也密切相关。由此可知，道德概念的大小、净脏、空间、黑白、香臭、重量等隐喻具有心理现实性。但不同隐喻维度下道德概念具身隐喻是否一致？不同隐喻维度对道德概念具身隐喻的影响强度究竟如何?以往鲜有研究进行探讨。本研究假设，不同隐喻维度对道德概念具身隐喻具有调节作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究范式：道德概念具身隐喻的研究范式包括 Stroop 范式、IAT范式、情境操纵范式和心境诱发范式(陈潇等,2014；李顺雨,2014)。研究者采用IAT 范式证明了道德概念与垂直空间位置存在隐喻联结(Meier et al.,2007)。基于 Stroop 范式的研究发现，不道德是下，但道德不一定是上(Hill&Lapsley，2009)。还有研究分别采用情境操作范式和心境操作范式分别对洁净背景与洁净自身和道德概念的隐喻关系进行研究，结果发现，洁净自身组比洁净背景组对道德两难故事主人公的道德判断更严格，说明与自身洁净相关的心境操作范式对个体道德判断影响更大(丁凤琴，王喜梅，刘钊,2017)。此外，有研究通过心境操作范式启动被试净脏的身体体验，结果发现，自身洁净组比自身航脏组被试对不道德行为的判断更为苛刻(Zhonget al.,2010)。采用情境操作范式的研究也发现，处于肮脏背景的被试比洁净背景的被试对不道德行为表达了更为强烈的谴责(Schnall etal.,2008)。对此，研究者认为，洁净概念(如概念清洁、环境清洁)的启动范式不同也是导致研究结果不一致的重要原因(陈玉明，郭田友，何立国，燕良轼,2014)。但迄今为止，隐喻研究范式影响道德概念具身隐喻的作用机制是否相同尚不明确。本研究将不同研究范式作为调节因素考察其对道德概念具身隐喻的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "感觉通道：感觉通道对道德概念具身隐喻影响的研究结论也不尽一致。研究者探究身体清洁(肤觉)和语义清洁(视觉)启动条件下道德概念隐喻的差异，结果发现，相比于语义清洁启动，身体清洁启动条件下被试的道德概念更为宽松(Leung,2013)。也有研究发现，不同感觉通道对道德概念具身隐喻没有显著影响(苏彦捷，孙芳芳,2014)。此外，还有研究发现，相比于环境(视觉)洁净启动，被试在自身(肤觉)洁净启动条件下对道德两难故事的判断更加严厉(丁凤琴等，2017)。研究者甚至认为，个体的触觉、视觉、嗅觉等具体感知觉均会影响道德认知和概念(杨继平等，2017)。以上研究均说明，道德概念具身隐喻已辐射到了视觉、肤觉、空间知觉等多种身体感知觉，并且不同身体感知觉对道德概念具身隐喻的作用不同。由此我们假设，不同感觉通道可能是道德概念具身隐喻的调节因素。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2研究方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1文献搜集",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用中文和英文文献检索的方式全面地进行文献检索。检索时间跨度为2006年9月到2018年9月。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "中文文献检索包括：中国学术期刊网数据库、万方数据库、维普中文科技期刊数据库，以隐喻、道德隐喻、道德概念隐喻、道德概念、具身隐喻、具身道德、具身认知、概念隐喻为关键词进行搜索。英文检索的数据库包括：SpringerLink、ElsevierSD、Wiley、Emerald、ProQuest 博硕士论文全文数据库、SCI数据库、互联网 google 学术数据库，以 metaphor、moral metaphor、moral concept metaphor、moral judgment、embodied metaphor、embodiedmorality、embodied cognition、conceptual metaphor为关键词进行搜索，没有全文的文献以邮件通过馆际互借的方式获得。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2文献纳入与排除标准",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将获得的文献通过以下标准进行筛选：(1)研究必须考察了道德概念具身隐喻的实证研究，数据资料完整，样本大小明确，排除纯理论和文献综述类文章。(2)研究对象为正常人群体，其他特殊群体被排除在外；(3)文献考察了道德具身隐喻，并明确报告了 $\\boldsymbol { r }$ 值或能转化为 $\\boldsymbol { r }$ 的 $F$ 值、 $t$ 值或 $\\chi ^ { 2 }$ 值，不包括运用结构方程模型、回归分析及其它统计方法获得的数据，并删除 2个标准差以外的数据；(4)考虑到入选文章的同质性，排除以生理反应为指标的道德词汇研究；(5)文献中所涉及的数据不可重复(如使用同一批数据反复发表研究，则只统计一次)。最终获得满足元分析标准的文献65篇，包括中文文献 33篇，英文文献 32 篇，共153个独立效应量，具体文献检索及筛选流程见图1。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0b4fb24fe2d5d65119fdde132558695002e54db52b0098322f050ed4c8974386.jpg",
+        "img_caption": [
+            "图1文献筛选流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3文献编码",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对纳入元分析的文献进行如下编码：(1)文献信息(作者名 $+$ 发表年限)；(2)样本量；(3)文化背景；(4)隐喻映射方向；(5)隐喻维度；(6)感觉通道；(7)研究范式；(8)效应值 Zr(见表1)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "效应值的提取遵循以下标准：(1)独立样本编码一次，若一篇论文同时报告了多个独立样本，则分开编码；如果一个独立样本有两个统计指标则选取保守(相对不显著)的统计指标。(2)依据统计正态分布的原则将 $\\boldsymbol { r }$ 转化得到FisherZ。(3)数据重复发表的只取其一，若学位论文发表在学术期刊上，则以发表的期刊论文为准；文献编码的有效性主要通过两位编码者的一致性来进行考察。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究中，两位编码者的一致性为 $9 5 . 4 5 \\%$ ，说明本研究文献编码是比较有效而准确的。此外，两位编码者对编码不一致的文献也进行了认真探讨，并最终达成了共识。最终纳入元分析的文献 65 篇，其中，中文文献 33 篇，英文文献 32篇(见表 1)。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/67958897520420ccb4f72c62ec31ecca995e22fa91d1590a7ed3214cd03e0480.jpg",
+        "table_caption": [
+            "表1纳入元分析研究的基本资料"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>样本量</td><td>文化背景</td><td>隐喻映射方向</td><td>隐喻维度</td><td>感觉通道</td><td>研究范式</td><td>效应值Zr</td></tr><tr><td>杨继平,2017</td><td>31</td><td>E</td><td>S-T</td><td>C</td><td>V</td><td>Str</td><td>0.18</td></tr><tr><td></td><td>24</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>Str</td><td>0.46</td></tr><tr><td></td><td>28</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>Str</td><td>0.43</td></tr><tr><td>方激,2016</td><td>30</td><td>E</td><td>S-T</td><td>C</td><td>V</td><td>Str</td><td>0.41</td></tr><tr><td></td><td>63</td><td>E</td><td>S-T</td><td>C</td><td>V</td><td>Sit</td><td>0.04</td></tr><tr><td></td><td>27</td><td>E</td><td>S-T</td><td>C</td><td>V</td><td>Str</td><td>0.38</td></tr><tr><td>易兰新,2017</td><td>34</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>Sit</td><td>0.36</td></tr><tr><td></td><td>74</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>Sit</td><td>0.36</td></tr><tr><td></td><td>62</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>Sit</td><td>0.27</td></tr><tr><td>顾倩,2015</td><td>20</td><td>E</td><td>T-S</td><td>S</td><td>V</td><td>Sit</td><td>0.02</td></tr><tr><td></td><td>20</td><td>E</td><td>T-S</td><td>S</td><td>V</td><td>Sit</td><td>0.20</td></tr><tr><td>鲁忠义,2017</td><td>31</td><td>E</td><td>T-S</td><td>Si</td><td>V</td><td>Str</td><td>0.71</td></tr><tr><td></td><td>28</td><td>E</td><td>T-S</td><td>Si</td><td>V</td><td>Str</td><td>0.79</td></tr><tr><td></td><td>36</td><td>E</td><td>T-S</td><td>Si</td><td>V</td><td>M</td><td>0.55</td></tr><tr><td></td><td>28</td><td>E</td><td>S-T</td><td>Si</td><td>V</td><td>M</td><td>0.02</td></tr><tr><td>丁凤琴,2017</td><td>36</td><td>E</td><td>S-T</td><td>Cl</td><td>V</td><td>Str</td><td>0.80</td></tr><tr><td></td><td>58</td><td>E</td><td>S-T</td><td>Cl</td><td>V</td><td>Sit</td><td>0.27</td></tr><tr><td></td><td>62</td><td>E</td><td>S-T</td><td>Cl</td><td>Sk</td><td>M</td><td>0.28</td></tr><tr><td>鲁忠义,2017</td><td>26</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>Str</td><td>0.23</td></tr><tr><td></td><td>32</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>Str</td><td>0.59</td></tr><tr><td></td><td>24</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>Str</td><td>1.49</td></tr><tr><td>孙浩雄,2016</td><td>28</td><td>E</td><td>T-S</td><td>S</td><td>V</td><td>IAT</td><td>0.76</td></tr><tr><td></td><td>17</td><td>E</td><td>T-S</td><td>S</td><td>V</td><td>IAT</td><td>1.67</td></tr><tr><td>贾宁,2016</td><td>37</td><td>E</td><td>T-S</td><td>S</td><td>V</td><td>Sit</td><td>0.48</td></tr><tr><td></td><td>31</td><td>E</td><td>T-S</td><td>S</td><td>V</td><td>Sit</td><td>0.83</td></tr><tr><td></td><td>23</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>Sit</td><td>0.47</td></tr><tr><td>王锂,2013</td><td>19</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>Str</td><td>0.89</td></tr><tr><td></td><td>33</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>Str</td><td>0.38</td></tr><tr><td>杨继宇,2014</td><td>30</td><td>E</td><td>T-S</td><td>S</td><td>V</td><td>M</td><td>0.63</td></tr><tr><td></td><td>35</td><td>E</td><td>T-S</td><td>S</td><td>V</td><td>M</td><td>0.56</td></tr><tr><td></td><td>34</td><td>E</td><td>T-S</td><td>S</td><td>V</td><td>M</td><td>0.56</td></tr><tr><td>殷融,2014</td><td>30</td><td>E</td><td>T-S</td><td>C</td><td>V</td><td>M</td><td>0.68</td></tr><tr><td></td><td>30</td><td>E</td><td>T-S</td><td>C</td><td>V</td><td>M</td><td>0.57</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/969398a4a694b75f08ba04b0552959f8d2b0489633c8a8017e9ed8f2077d0081.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>52</td><td>E</td><td>S-T</td><td>C</td><td>V</td><td>Sit</td><td>0.29</td></tr><tr><td></td><td>64</td><td>E</td><td>S-T</td><td>C</td><td>V</td><td>Sit</td><td>0.30</td></tr><tr><td>肖玉珠,2015</td><td>19</td><td>E</td><td>T-S</td><td>S</td><td>V</td><td>M</td><td>0.42</td></tr><tr><td></td><td>22</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>M</td><td>0.50</td></tr><tr><td>郭少鹏,2015</td><td>31</td><td>E</td><td>S-T</td><td>Si</td><td>V</td><td>Str</td><td>0.71</td></tr><tr><td></td><td>28</td><td>E</td><td>S-T</td><td>Si</td><td>V</td><td>Sit</td><td>0.79</td></tr><tr><td></td><td>36</td><td>E</td><td>T-S</td><td>Si</td><td>V</td><td>M</td><td>0.55</td></tr><tr><td></td><td>28</td><td>E</td><td>T-S</td><td>Si</td><td>V</td><td>M</td><td>0.02</td></tr><tr><td>丁慧萍,2016</td><td>39</td><td>E</td><td>S-T</td><td>C</td><td>V</td><td>Sit</td><td>-0.53</td></tr><tr><td></td><td>41</td><td>E</td><td>S-T</td><td>C</td><td>V</td><td>Str</td><td>-0.35</td></tr><tr><td></td><td>37</td><td>E</td><td>T-S</td><td>C</td><td>V</td><td>Str</td><td>-0.36</td></tr><tr><td>吴保忠,2013</td><td>90</td><td>E</td><td>S-T</td><td>F</td><td>0</td><td>M</td><td>0.33</td></tr><tr><td>冯新明,2013</td><td>30</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>Sit</td><td>1.01</td></tr><tr><td></td><td>32</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>Sit</td><td>0.43</td></tr><tr><td></td><td>36</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>Sit</td><td>0.53</td></tr><tr><td>牛怡然,2014</td><td>41</td><td>E</td><td>S-T</td><td>L</td><td>V</td><td>Str</td><td>0.36</td></tr><tr><td></td><td>42</td><td>E</td><td>T-S</td><td>L</td><td>V</td><td>Str</td><td>0.49</td></tr><tr><td></td><td>37</td><td>E</td><td>T-S</td><td>L</td><td>V</td><td>Str</td><td>-0.64</td></tr><tr><td>李文静,2016</td><td>18</td><td>E</td><td>S-T</td><td>C</td><td>V</td><td>Sit</td><td>0.04</td></tr><tr><td></td><td>18</td><td>E</td><td>T-S</td><td>C</td><td>V</td><td>M</td><td>0.06</td></tr><tr><td></td><td>18</td><td>E</td><td>S-T</td><td>C</td><td>V</td><td>Str</td><td>0.34</td></tr><tr><td>陈换娟,2015</td><td>40</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>Sit</td><td>0.33</td></tr><tr><td></td><td>30</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>Sit</td><td>0.40</td></tr><tr><td></td><td>45</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>Sit</td><td>0.33</td></tr><tr><td></td><td>35</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>Sit</td><td>0.40</td></tr><tr><td>李顺雨,2014</td><td>78</td><td>E</td><td>T-S</td><td>L</td><td>V</td><td>M</td><td>0.38</td></tr><tr><td></td><td>82</td><td>E</td><td>T-S</td><td>L</td><td>V</td><td>Sit</td><td>0.29</td></tr><tr><td></td><td>62</td><td>E</td><td>T-S</td><td>L</td><td>V</td><td>Sit</td><td>-0.15</td></tr><tr><td>蒋高芳,2014</td><td>37</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>Sit</td><td>0.48</td></tr><tr><td></td><td>31</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>Sit</td><td>0.35</td></tr><tr><td></td><td>23</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>Sit</td><td>0.57</td></tr><tr><td>李楠,2014</td><td>99</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>M</td><td>1.62</td></tr><tr><td></td><td>73</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>M</td><td>1.35</td></tr><tr><td>霍志兵,2017</td><td>37</td><td>E</td><td>T-S</td><td>S</td><td>V</td><td>M</td><td>0.48</td></tr><tr><td></td><td>40</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>Sit</td><td>0.34</td></tr><tr><td>李海伦,2016</td><td>37</td><td>E</td><td>S-T</td><td>Cl</td><td>Sk</td><td>M</td><td>0.17</td></tr><tr><td></td><td>37</td><td>E</td><td>S-T</td><td>Cl</td><td>Sk</td><td>Sit</td><td>0.21</td></tr><tr><td>赵伯妮,2009</td><td>70</td><td>E</td><td>S-T</td><td>Sw</td><td>T</td><td>M</td><td>0.08</td></tr><tr><td></td><td>66</td><td>E</td><td>S-T</td><td>Sw</td><td>T</td><td>M</td><td>0.06</td></tr><tr><td></td><td>62</td><td>E</td><td>S-T</td><td>Sw</td><td>T</td><td>M</td><td>0.11</td></tr><tr><td>刘钊,2016</td><td>126</td><td>E</td><td>S-T</td><td>We</td><td>Sk</td><td>M</td><td>0.17</td></tr><tr><td></td><td>130</td><td>E</td><td>S-T</td><td>We</td><td>Sk</td><td>M</td><td>0.23</td></tr><tr><td>叶红燕,2016</td><td>38</td><td>E</td><td>S-T</td><td>Cl</td><td>Sk</td><td>M</td><td>0.16</td></tr><tr><td>唐芳贵,2017</td><td>69</td><td>E</td><td>S-T</td><td>S</td><td>Sk</td><td>M</td><td>0.43</td></tr><tr><td></td><td>51</td><td>E</td><td>S-T</td><td>S</td><td>Sk</td><td>M</td><td>0.48</td></tr><tr><td></td><td>48</td><td>E</td><td>S-T</td><td>S</td><td>Sk</td><td>M</td><td>0.36</td></tr><tr><td>丁汝楠,2018</td><td>86</td><td>E</td><td>S-T</td><td>We</td><td>V</td><td>Sit</td><td>1.65</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/a663a21015c361335d6d1dc7d2b67d0e5baaecf8e0d07922b60499ef1207a831.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>34</td><td>E</td><td>S-T</td><td>We</td><td>V</td><td>Sit</td><td>-0.46</td></tr><tr><td></td><td>177</td><td>E</td><td>S-T</td><td>We</td><td>V</td><td>M</td><td>0.16</td></tr><tr><td></td><td>104</td><td>E</td><td>T-S</td><td>We</td><td>V</td><td>M</td><td>0.16</td></tr><tr><td></td><td>135</td><td>E</td><td>T-S</td><td>We</td><td>V</td><td>M</td><td>0.21</td></tr><tr><td rowspan=\"2\">冯晓慧,2018</td><td>30</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>Str</td><td>0.05</td></tr><tr><td>30</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>Str</td><td>0.59</td></tr><tr><td>栾子烟,2013</td><td>105</td><td>E</td><td>T-S</td><td>Te</td><td>Sk</td><td>M</td><td>0.30</td></tr><tr><td></td><td>184</td><td>E</td><td>S-T</td><td>Te</td><td>Sk</td><td>M</td><td>0.16</td></tr><tr><td>贾宁,2018</td><td>40</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>M</td><td>0.33</td></tr><tr><td></td><td>30</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>M</td><td>0.40</td></tr><tr><td></td><td>45</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>M</td><td>0.34</td></tr><tr><td></td><td>35</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>M</td><td>0.40</td></tr><tr><td>Lee, 2010</td><td>82</td><td>W</td><td>T-S</td><td>Cl</td><td>Sk</td><td>M</td><td>0.36</td></tr><tr><td>Nakamura, 2014</td><td>47</td><td>W</td><td>S-T</td><td>Te</td><td>Sk</td><td>M</td><td>0.36</td></tr><tr><td></td><td>41</td><td>W</td><td>S-T</td><td>Te</td><td>Sk</td><td>M</td><td>0.30</td></tr><tr><td>Fayard,2009</td><td>210</td><td>W</td><td>T-S</td><td>Cl</td><td>Sk</td><td>M</td><td>-0.03</td></tr><tr><td>Li, 2017</td><td>182</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>Sit</td><td>0.67</td></tr><tr><td></td><td>162</td><td>E</td><td>S-T</td><td>S</td><td>V</td><td>Sit</td><td>0.75</td></tr><tr><td>Schnall, 2008</td><td>40</td><td>W</td><td>S-T</td><td>Cl</td><td>V</td><td>M</td><td>0.30</td></tr><tr><td></td><td>44</td><td>W</td><td>S-T</td><td>Cl</td><td>V</td><td>M</td><td>0.41</td></tr><tr><td>Leung, 2013</td><td>75</td><td>E</td><td>S-T</td><td>Cl</td><td>V</td><td>M</td><td>0.27</td></tr><tr><td>Iachini, 2015</td><td>36</td><td>W</td><td>T-S</td><td>S</td><td>V</td><td>M</td><td>0.31</td></tr><tr><td>Zhong, 2010</td><td>58</td><td>W</td><td>S-T</td><td>Cl</td><td>Sk</td><td>M</td><td>0.28</td></tr><tr><td></td><td>323</td><td>W</td><td>S-T</td><td>Cl</td><td>Sk</td><td>M</td><td>0.15</td></tr><tr><td></td><td>136</td><td>W</td><td>S-T</td><td>Cl</td><td>Sk</td><td>M</td><td>0.18</td></tr><tr><td>Zhong,2010</td><td>84</td><td>W</td><td>S-T</td><td>L</td><td>V</td><td>Sit</td><td>0.51</td></tr><tr><td></td><td>50</td><td>W</td><td>S-T</td><td>L</td><td>V</td><td>Sit</td><td>0.28</td></tr><tr><td></td><td>83</td><td>W</td><td>S-T</td><td>L</td><td>V</td><td>M</td><td>0.30</td></tr><tr><td>Zhong,2008</td><td>65</td><td>W</td><td>S-T</td><td>Te</td><td>Sk</td><td>M</td><td>0.25</td></tr><tr><td></td><td>52</td><td>W</td><td>S-T</td><td>Te</td><td>Sk</td><td>M</td><td>0.30</td></tr><tr><td>Wang, 2016</td><td>24</td><td>E</td><td>T-S</td><td>S</td><td>V</td><td>IAT</td><td>-0.86</td></tr><tr><td></td><td>21</td><td>E</td><td>T-S</td><td>S</td><td>V</td><td>IAT</td><td>0.51</td></tr><tr><td>Sekulak, 2017</td><td>60</td><td>W</td><td>T-S</td><td>Cl</td><td>Sk</td><td>Sit</td><td>0.07</td></tr><tr><td></td><td>60</td><td>W</td><td>T-S</td><td>Cl</td><td>Sk</td><td>Sit</td><td>0.38</td></tr><tr><td></td><td>90</td><td>W</td><td>T-S</td><td>Cl</td><td>Sk</td><td>Sit</td><td>0.21</td></tr><tr><td>Denke, 2016</td><td>37</td><td>W</td><td>T-S</td><td>Cl</td><td>Sk</td><td>M</td><td>0.42</td></tr><tr><td>Webster, 2012</td><td>30</td><td>W</td><td>S-T</td><td>L</td><td>V</td><td>Sit</td><td>0.50</td></tr><tr><td></td><td>30</td><td>W</td><td>S-T</td><td>L</td><td>V</td><td>Sit</td><td>0.37</td></tr><tr><td>Lobel, 2015</td><td>30</td><td>W</td><td>S-T</td><td>Cl</td><td>Sk</td><td>M</td><td>0.42</td></tr><tr><td></td><td>147</td><td>W</td><td>S-T</td><td>Cl</td><td>Sk</td><td>M</td><td>0.19</td></tr><tr><td>Chiou, 2013</td><td>54</td><td>E</td><td>S-T</td><td>L</td><td>V</td><td>Sit</td><td>0.28</td></tr><tr><td></td><td>58</td><td>E</td><td>S-T</td><td>L</td><td>V</td><td>Sit</td><td>0.31</td></tr><tr><td></td><td>48</td><td>E</td><td>S-T</td><td>L</td><td>V</td><td>Sit</td><td>0.35</td></tr><tr><td>Lee, 2015</td><td>105</td><td>W</td><td>S-T</td><td>Cl</td><td>Sk</td><td>M</td><td>0.16</td></tr><tr><td></td><td>90</td><td>W</td><td>S-T</td><td>Cl</td><td>Sk</td><td>M</td><td>0.63</td></tr><tr><td></td><td>70</td><td>W</td><td>S-T</td><td>Cl</td><td>Sk</td><td>M</td><td>0.24</td></tr><tr><td>Xu, 2014</td><td>65</td><td>W</td><td>T-S</td><td>Cl</td><td>Sk</td><td>M</td><td>0.48</td></tr><tr><td>Helzer, 2011</td><td>60</td><td>W</td><td>S-T</td><td>Cl</td><td>Sk</td><td>M</td><td>0.38</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/6bc8187ead8993987fd4e6d8f823be78878dd7253d6328bf9ae50e7fd1c41dc8.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：(1）为了减少篇幅，元分析文献只列出了第一作者。 $( 2 ) { \\mathrm { E } } =$ 东方文化；W $\\ c =$ 西方文化。(3) $S { \\mathrm { - } } \\mathrm { T } = { }$ 从始源域到目标域； $\\scriptstyle \\mathrm { { T - S } = }$ 从目标域到始源域。 $( 4 ) \\mathrm { C } =$ 颜色维度； $s =$ 空间维度；Si=大小维度； $\\mathrm { { C l } = }$ 净脏维度； $\\mathrm { L } =$ 明度维度； $\\mathrm { F = }$ 香臭维度； ${ \\mathrm { W e } } = .$ 重量维度； $\\mathrm { T e } =$ 温度维度；Sw=甜苦维度。 $( 5 ) \\mathrm { V } =$ 视觉； $\\mathbf { S } \\mathbf { k } \\mathbf { = } .$ 肤觉； $\\scriptstyle { \\mathrm { O } } =$ 嗅觉；T=味觉。 $( 6 ) \\mathrm { S t r } =$ Stroop 范式；IAT=内隐联想范式； $\\mathrm { S i t } =$ 情境操作范式；M=心境操作范式。"
+        ],
+        "table_body": "<html><body><table><tr><td>Kaufmann, 2014</td><td>40</td><td>W</td><td>S-T</td><td>We</td><td>Sk</td><td>M</td><td>0.31</td></tr><tr><td>Eskine,2012</td><td>60</td><td>W</td><td>T-S</td><td>Sw</td><td>T</td><td>M</td><td>0.30</td></tr><tr><td>Williams,2008</td><td>53</td><td>W</td><td>T-S</td><td>Te</td><td>Sk</td><td>M</td><td>0.57</td></tr><tr><td>Steidle,2013</td><td>80</td><td>W</td><td>S-T</td><td>L</td><td>V</td><td>Sit</td><td>-0.25</td></tr><tr><td></td><td>58</td><td>W</td><td>S-T</td><td>L</td><td>V</td><td>Sit</td><td>-0.34</td></tr><tr><td></td><td>48</td><td>W</td><td>S-T</td><td>L</td><td>V</td><td>Sit</td><td>-0.31</td></tr><tr><td></td><td>62</td><td>W</td><td>S-T</td><td>L</td><td>V</td><td>Sit</td><td>-0.31</td></tr><tr><td>Eskine,2011</td><td>53</td><td>W</td><td>S-T</td><td>Sw</td><td>V</td><td>M</td><td>0.56</td></tr><tr><td>Liljenquist, 2010</td><td>28</td><td>W</td><td>S-T</td><td>F</td><td>0</td><td>M</td><td>0.50</td></tr><tr><td></td><td>99</td><td>W</td><td>S-T</td><td>F</td><td>0</td><td>M</td><td>0.23</td></tr><tr><td>Michael, 2015</td><td>35</td><td>W</td><td>T-S</td><td>Cl</td><td>Sk</td><td>M</td><td>0.37</td></tr><tr><td>Zhong, 2006</td><td>60</td><td>W</td><td>T-S</td><td>Cl</td><td>Sk</td><td>M</td><td>0.15</td></tr><tr><td></td><td>45</td><td>W</td><td>T-S</td><td>Cl</td><td>Sk</td><td>M</td><td>0.38</td></tr><tr><td></td><td>32</td><td>W</td><td>T-S</td><td>Cl</td><td>Sk</td><td>M</td><td>0.51</td></tr><tr><td>Gamez,2011</td><td>47</td><td>W</td><td>T-S</td><td>Cl</td><td>Sk</td><td>M</td><td>-0.04</td></tr><tr><td></td><td>36</td><td>W</td><td>T-S</td><td>Cl</td><td>Sk</td><td>M</td><td>-0.04</td></tr><tr><td></td><td>45</td><td>W</td><td>T-S</td><td>Cl</td><td>Sk</td><td>M</td><td>0.15</td></tr><tr><td>Skarlicki, 2013</td><td>76</td><td>W</td><td>T-S</td><td>Sw</td><td>T</td><td>M</td><td>0.27</td></tr><tr><td></td><td>136</td><td>W</td><td>T-S</td><td>Sw</td><td>T</td><td>M</td><td>0.24</td></tr><tr><td></td><td>119</td><td>W</td><td>T-S</td><td>F</td><td>0</td><td>M</td><td>0.20</td></tr><tr><td>Lee,2012</td><td>34</td><td>W</td><td>S-T</td><td>F</td><td>0</td><td>M</td><td>0.41</td></tr><tr><td></td><td>46</td><td>W</td><td>S-T</td><td>F</td><td>0</td><td>M</td><td>0.45</td></tr><tr><td>Banerjee,2012</td><td>40</td><td>W</td><td>T-S</td><td>L</td><td>V</td><td>M</td><td>0.32</td></tr><tr><td></td><td>74</td><td>W</td><td>T-S</td><td>L</td><td>V</td><td>Sit</td><td>0.31</td></tr><tr><td>Ackerman,2010</td><td>43</td><td>W</td><td>S-T</td><td>W</td><td>Sk</td><td>M</td><td>0.46</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.3数据处理与分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究采用CMA 3.0 (comprehensive meta-analysis 3.0)软件进行元分析。元分析以 $\\boldsymbol { r }$ 作为效应值，如果在编码过程中，一些文献没有直接报告道德隐喻始源域与目标域之间的相关系数，而是报告了 $F$ 值、 $\\mathbf { \\Psi } _ { t }$ 值或 $\\chi ^ { 2 }$ 值，则采用已有研究方法(Shadish,Robinson,&Lu,1999)将其进行转换。具体转换公式如下： $r = \\left[ t ^ { 2 } / ( t ^ { 2 } + d f ) \\right] ^ { 1 / 2 }$ ， $d f = { \\tt n } 1 + { \\tt n } 2 - 2$ ； $r = \\left[ F / ( F { + } d f ( \\mathrm { e r r o r } ) \\right] ^ { 1 / 2 }$ $r = \\mathrm { [ } \\chi ^ { 2 } / ( \\chi ^ { 2 } + \\mathrm { N } ) ] ^ { 1 / 2 }$ 。其次，因为相关系数 $\\boldsymbol { r }$ 的样本分布呈偏态，且研究中的方差依赖于相关，所以需要通过相关系数合成的方法( $\\dot { \\boldsymbol { r } }$ -Fisher $Z )$ 得到效应值 $Z \\mathrm { r }$ (Borenstein, Hedges, Higgins,&Rothstein, 2009)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3研究结果",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1同质性检验结果",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "表2同质性检验结果表明：道德概念具身隐喻的Q值达到显著水平 $( p { < } 0 . 0 0 1 )$ ，说明各效应量之间异质。异质性的程度由 $I ^ { 2 }$ 进行区分， $7 5 \\%$ 、 $5 0 \\%$ 、 $2 5 \\%$ 是区分高、中、低异质性的分界(Higgins,Thompson,Deeks,& Altman,2003)。道德概念具身隐喻的 $I ^ { 2 }$ 值是84.10，表明观察变异中 $8 4 . 1 0 \\%$ 是由效应值的真实差异造成的， $1 5 . 9 0 \\%$ 是由随机误差造成的。 $\\mathrm { T a u } ^ { 2 }$ 值是0.10，说明研究间变异有 $10 \\%$ 可以用来计算权重加权的随机效应模型的研究。由于各效应值呈现高等异质性，本研究采用随机效应模型。",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/f47ad334e3f4b098777de5e215a611e67b99b11b8ee04f6b9ff85507be7fc2c0.jpg",
+        "table_caption": [
+            "表2效应值同质性检验结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">结果变量</td><td rowspan=\"2\">K</td><td colspan=\"4\">异质性</td><td colspan=\"4\">Tau-squared</td></tr><tr><td>Q</td><td>df</td><td>P</td><td>1</td><td>Tau²</td><td>SE</td><td>方差</td><td>Tau</td></tr><tr><td>道德概念具身隐喻</td><td>153</td><td>956.05</td><td>152</td><td><0.001</td><td>84.10</td><td>0.10</td><td>0.02</td><td><0.001</td><td>0.32</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.2出版偏倚检验",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "首先，通过漏斗图(funnelplot)来检查效应值的分布情况，结果如图2所示。从漏斗图来看，效应值主要分布在漏斗图的顶端，大致左右对称。此分布特点表明，针对两者关系的研究可能不存在发表偏倚。由于漏斗图只能从主观定性的角度初步检查发表偏差，为了获得更准确的检验结果，需要采用失安全系数法(Classic Fail-safe $\\boldsymbol { \\cal N }$ 与 Egger's回归法进行检验，结果见表3。从ClassicFail-safe $N$ 值来看，道德概念具身隐喻的文献研究需要再纳入大量(>30000)涉及两者关系的研究文献才可能使总效应量不显著。并且从Egger's回归法检验的结果来看，道德概念具身隐喻的研究均不存在严重的发表偏倚 $( p > 0 . 0 5 )$ 。",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/22d2d69c59881269a2de3d6dea256c1f13722eb4fff2fb9ce99eb8b52ce12a47.jpg",
+        "table_caption": [
+            "表3发表偏倚检验结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>结果变量</td><td>Classic Fail-safe N</td><td>Egger'sIntercept</td><td>SE</td><td>LL</td><td>UL</td><td>P</td></tr><tr><td>道德概念具身隐喻</td><td>32343</td><td>0.85</td><td>0.63</td><td>-0.40</td><td>2.10</td><td>0.18</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/cb56a4a4d30d73decfa63c48b0386a1c82e27e93f8f9c5baebdb4a714e06843a.jpg",
+        "img_caption": [
+            "图2道德概念具身隐喻的效应值分布漏斗图"
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.3主效应检验结果",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "表4结果显示，道德概念具身隐喻的始源域与目标域的相关关系 $r { = } 0 . 3 4 ( C I { = } 0 . 2 8 { \\sim } 0 . 4 0 , Z$ $= I I . 9 3$ $p { < } 0 . 0 0 1 \\$ )，二者之间存在中等程度的正相关关系。",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/9461b2b22a1a6f1d660789b112bf4253b7b26821e678a3e3ed47085731ef5c87.jpg",
+        "table_caption": [
+            "表4随机效应模型分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">结果变量</td><td rowspan=\"2\">K</td><td rowspan=\"2\">N</td><td colspan=\"3\">效应值及95%置信区间</td><td rowspan=\"2\"></td><td colspan=\"2\">双尾检验</td></tr><tr><td>点估计</td><td>下限</td><td>上限</td><td>Z值</td><td>p值</td></tr><tr><td>道德概念具身隐喻</td><td>153</td><td>8659</td><td>0.34</td><td>0.28</td><td>0.40</td><td></td><td>11.93</td><td><0.001</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.4调节效应检验结果",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "由于本研究文献的异质性，调节效应的检验与整体效应一样也采用随机效应模型。借鉴以往研究(Fernandez-Castilla et al.,2018;Garcia-Argibay,Santed,& Reales,2018)进行调节效应检验，检验结果见表5。表5结果表明，隐喻映射方向的调节作用不显著 $( Q _ { b } { = } 0 . 6 7 , p { = } 0 . 4 1 )$ ：文化背景对道德概念具身隐喻的调节作用显著 $( Q _ { b } { = } 4 . 4 7$ ， $p { < } 0 . 0 5 )$ ，相比于西方文化背景（204号 $\\scriptstyle ( r = 0 . 2 6 )$ ，东方文化背景下道德概念具身隐喻的联结更强 $_ { ( r = 0 . 3 9 ) }$ ；不同维度对道德概念具身隐喻具有调节作用 $\\scriptstyle ( Q _ { b } = 3 1 . 6 6$ ， $p { < } 0 . 0 1 \\rangle$ ，隐喻联结程度最高的是空间维度 $( r { = } 0 . 5 2 )$ 和大小维度$_ { ( r = 0 . 5 2 ) }$ ，颜色维度的隐喻联结程度最低 $( r { = } 0 . 1 4 )$ ；不同研究范式 $( Q _ { b } { = } 1 . 4 3$ ， $\\scriptstyle { p = 0 . 7 0 ) }$ 和感觉通道 $\\cdot Q _ { b } { = } 3 . 1 5$ $\\scriptstyle { p = 0 . 3 7 ) }$ 的调节作用不显著。",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/9aa1eba514ede178bb9884d66d52105320b1504381a4e14c1492e498a4a11d56.jpg",
+        "table_caption": [
+            "表5道德概念具身隐喻的调节效应"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>调节变量</td><td>类别</td><td>k</td><td>r</td><td>95%CI</td><td>Qw</td><td>Qb</td><td>P</td></tr><tr><td>隐喻映射方向</td><td></td><td></td><td></td><td></td><td></td><td>0.67</td><td>0.41</td></tr><tr><td></td><td>S-T</td><td>101</td><td>0.36</td><td>0.29~0.43</td><td>10.22***</td><td></td><td></td></tr><tr><td></td><td>T-S</td><td>52</td><td>0.31</td><td>0.21~0.40</td><td>6.26***</td><td></td><td></td></tr><tr><td>文化背景</td><td></td><td></td><td></td><td></td><td></td><td>4.47</td><td>0.03</td></tr><tr><td></td><td>E</td><td>100</td><td>0.39</td><td>0.32~0.45</td><td>10.98***</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/6c6873f9e21380a7f754fa2b995ae42117ca3df70632bfc7741afa449d809030.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>W</td><td>53</td><td>0.26</td><td>0.17~0.35</td><td>5.66***</td><td></td><td></td></tr><tr><td>隐喻维度</td><td></td><td></td><td></td><td></td><td></td><td>31.66</td><td>0.00</td></tr><tr><td></td><td>C</td><td>14</td><td>0.14</td><td>-0.04~0.32</td><td>1.53</td><td></td><td></td></tr><tr><td></td><td>S Si</td><td>50</td><td>0.52</td><td>0.43~0.62</td><td>11.00***</td><td></td><td></td></tr><tr><td></td><td>Cl</td><td>8</td><td>0.52</td><td>0.28~0.76</td><td>4.31***</td><td></td><td></td></tr><tr><td></td><td>F</td><td>32</td><td>0.27</td><td>0.16~0.38</td><td>4.90***</td><td></td><td></td></tr><tr><td></td><td></td><td>5</td><td>0.37</td><td>0.09~0.65</td><td>2.61**</td><td></td><td></td></tr><tr><td></td><td>L</td><td>20</td><td>0.15</td><td>0.01~0.29</td><td>2.17*</td><td></td><td></td></tr><tr><td></td><td>We</td><td>9</td><td>0.33</td><td>0.13~0.53</td><td>3.24**</td><td></td><td></td></tr><tr><td></td><td>Sw</td><td>8</td><td>0.23</td><td>0.01~0.44</td><td>2.07*</td><td></td><td></td></tr><tr><td>研究范式</td><td>Te</td><td>7</td><td>0.32</td><td>0.09~0.55</td><td>2.69**</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>1.43</td><td>0.70</td></tr><tr><td></td><td>Str</td><td>21</td><td>0.40</td><td>0.24~0.56</td><td>4.93***</td><td></td><td></td></tr><tr><td></td><td>IAT</td><td>4</td><td>0.48</td><td>0.10~0.87</td><td>2.50*</td><td></td><td></td></tr><tr><td></td><td>Sit</td><td>46</td><td>0.31</td><td>0.21~0.41</td><td>5.87***</td><td></td><td></td></tr><tr><td>感觉通道</td><td>M</td><td>82</td><td>0.34</td><td>0.26~0.41</td><td>8.80***</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>3.15</td><td>0.37</td></tr><tr><td></td><td>V</td><td>99</td><td>0.38</td><td>0.31~0.45</td><td>10.54***</td><td></td><td></td></tr><tr><td></td><td>Sk</td><td>43</td><td>0.28</td><td>0.18~0.38</td><td>5.41***</td><td></td><td></td></tr><tr><td></td><td>0</td><td>4</td><td>0.34</td><td>0.01~0.67</td><td>1.99*</td><td></td><td></td></tr><tr><td></td><td>T</td><td>7</td><td>0.23</td><td>-0.01~0.48</td><td>1.81</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.5调节变量的元回归分析",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "借鉴以往研究(Fernandez-Castilla et al.,2018; Garcia-Argibay et al.,2018)进行调节变量的元回归分析，结果显示(见表6)，文化背景和隐喻维度对道德概念具身隐喻有显著影响（20 $( p { < } 0 . 0 0 1 )$ 。因此，元回归分析结果与上述调节效应的研究结果一致。",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/3f99a44cbdd1e87e18b4a76304f293b3cb7688feb8d1d040ba4ad0bd4e649b3e.jpg",
+        "table_caption": [
+            "表6调节变量的元回归分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>结果变量</td><td>调节变量</td><td>Beta</td><td>SE</td><td>Z</td><td>P</td></tr><tr><td rowspan=\"2\">道德概念具身隐喻</td><td>文化背景</td><td>-0.16***</td><td>0.02</td><td>-7.12</td><td>0.00</td></tr><tr><td>隐喻维度</td><td>-0.03***</td><td>0.00</td><td>-7.06</td><td>0.00</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.讨论",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.1道德概念具身隐喻的心理现实性",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "本元分析发现，道德概念具身隐喻的始源域与目标域存在中等程度正相关 $( r { = } 0 . 3 4$ $p { < } 0 . 0 0 1 \\rangle$ ，说明道德概念具身隐喻的始源域与目标域关系密切，与以往研究结果(Banerjee etal.，2012；Haidt & Joseph,2004;Lee & Schwarz,2010;Lee et al.，2015；鲁忠义等，2017;Meieret al.,2004; Schnall etal.,2008；殷融，叶浩生,2014; Zhonget al.,2010)吻合，表明道德概念具身隐喻具有心理现实性。原因在于：一方面，人类认识世界的基本途径是用熟悉的始源域经验去理解抽象的目标域概念，道德抽象概念的理解也需要借助具体熟悉的身体体验，道德概念与身体体验自然联结；另一方面，日常语言表达强化了个体道德概念与身体体验的语义联结，如个体习惯用“高”“上”等具体的空间方位词描述一个人的“高尚”“高风亮节”等道德品质；用“低”“下”等具体的空间方位词描述一个人的“低贱”“下流”等不道德品质；将没有劣迹的人赞誉为“白玉无瑕”，将歹毒贪婪的人称为“黑心肠”等。如此，为道德概念与身体经验的自动隐喻联结提供了心理现实基础，长此以往，道德概念具身隐喻联结在现实生活中也可得到具体应用。如道德概念净脏隐喻可以与思政教育相结合，通过干预个体自身与环境洁净体验为学校道德教育提供切实可行的实现途径。此外，也可将此干预活动延伸到家庭、社区和社会，多视角多方面进行道德洁净隐喻的日常辐射，以提升个体的道德修养。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "此外，本研究结果与具身认知的观点也是一致的，具身认知理论强调，个体认知无法脱离身体体验而独立存在。所以，对道德概念的理解也基于身体体验。如“洁净近于美德”，就是借助“洁净”这一具体的身体体验来表达抽象的道德概念“美德”。此外，认知神经科学方面的研究为道德概念与身体体验的内在联结提供了生理支持(Borg,Lieberman,& Kiehl,2008)。总之，无论从现实层面、理论层面还是生理机制层面均支持了道德概念具身隐喻的心理现实性。为此，今后应积极建构“道德”和“洁净体验”的联结，揭示二者关系潜在的心理机制，以净化个体心灵，增强个体道德思想，提升个体道德水平，促进个体道德概念的积极映射。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.2道德概念具身隐喻的影响因素",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.2.1隐喻映射方向",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "调节效应检验表明，不同隐喻映射方向对道德概念具身隐喻没有显著影响 $( Q _ { b } { = } 0 . 6 7$ $\\scriptstyle { p = 0 . 4 1 } ,$ ，该研究结果也支持了道德概念具身隐喻映射的双向性，即隐喻既可以由始源域向目标域映射，也可以由目标域向始源域映射(Black,1993;Lee＆ Schwarz,2012)。首先，个体隐喻语言表达的初期可能是单向的，主要借助具体概念来理解抽象概念，如借助“光明正大\"表达个体的高尚品德，但随着语言的不断强化，个体也能进行隐喻的逆向表达，如“道德高尚”的个体也是光明磊落的。其次，从心理现实性而言，隐喻映射一旦形成，始源域和目标域之间的激活和映射都将成为可能(鲁忠义等，2017)。因此，从隐喻的语言现实性和心理现实性来说，隐喻映射是双向的。此外，Faueonnier(1998)认为，隐喻映射是借助语义激活而实现的。所以，即便最初产生的始源域与目标域的隐喻映射方向可能是单向的，但由于个体在思维和语言表达中反复强化，使得始源域与目标域的联结越紧密，彼此之间更容易激活，隐喻映射方向的调节作用并没有凸显。此研究结果支持了道德概念隐喻的双向性(Black,1993;",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Lee & Schwarz,2012；贾宁，蒋高芳,2016)，强调人类具身经验和抽象概念之间的对应关系。今后在道德教育实践中，既要注重洁净身体体验对道德认知和判断的促进作用，同时，也要积极进行道德认知、道德情感与道德行为教育，以此来激发个体洁净心灵及其对美好社会环境感知的积极影响。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.2.2文化背景",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "文化背景的调节效应表明，东西方文化背景对道德概念具身隐喻有显著的影响 $( Q _ { b } { = } 4 . 4 7$ $p { < } 0 . 0 5 )$ 。相较于西方文化背景 $( r { = } 0 . 2 6 )$ ，东方文化背景下个体道德概念具身隐喻联结更强$( r { = } 0 . 3 9 )$ 。以往研究也表明，东西文化背景对道德概念具身隐喻的影响是不同的(Lee et al.,2015)。主要原因在于：首先，隐喻具有文化差异性。我们很难将隐喻从文化起源中分离出来，因为隐喻是个体思维和语言的表征，而文化影响着个体的思维和语言。研究发现，西方文化背景下被试思考时间采用水平隐喻，东方文化背景下被试更喜欢采用垂直空间隐喻(Boroditsky,2001)。其次，具身隐喻存在文化差异性。身体体验具有很强的文化情境性，以身体体验为基础的具身隐喻自然也会受文化的影响。文化影响个体对隐喻的具体体验(Gibbs,1999)。不同文化背景下，个体的交谈方式、走路、站立等身体体验不尽相同，产生的具身隐喻也同样具有文化差异性。如西方文化背景下，蜷缩身体姿势隐喻的是被排斥感、弱小；而在东方儒家文化背景下，蜷缩身体姿势隐喻的是对别人的尊敬(黎晓丹，杜建政，叶浩生，2016)。最后，道德概念具身隐喻也存在文化差异性。如西方文化倾向于“抑恶”的文化价值观，个体“不道德是下”的具身隐喻更为强烈(Hill＆Lapsley,2009)；东方文化主张“扬善”，更强调“道德是上”的具身隐喻(王锂，鲁忠义,2013)。可见，文化背景对道德概念具身隐喻具有显著的调节作用，东方文化背景下被试的道德概念具身隐喻更强更有意义。因此，中国文化背景下的个体更要继承和传播儒家文化，重视高尚道德修养和追求优秀道德品行，尤其在解释道德爬坡和道德下滑的文化差异问题时，更要树立儒家文化自信。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.2.3隐喻维度",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "元分析结果表明，不同隐喻维度对道德概念具身隐喻有显著的影响 $( Q _ { b } { = } 3 1 . 6 6 , p { < } 0 . 0 1 )$ 隐喻联结程度最高的是空间维度 $_ { ( r = 0 . 5 2 ) }$ 和大小维度 $( r { = } 0 . 5 2 )$ ，颜色隐喻联结程度最小$_ { ( r = 0 . 1 4 ) }$ 。以往研究认为，不同隐喻维度对道德具身隐喻没有显著影响(苏彦捷，孙芳芳,2014)，与本研究结果不一致。首先，以往研究只包含明度和净脏两个隐喻维度(苏彦捷，孙芳芳,2014)，本研究涉及八个隐喻维度，较为全面和细化，可能是造成差异的重要原因。其次，本研究发现，空间维度和大小维度的道德隐喻联结程度最高。以往研究也认为，空间隐喻在抽象概念的形成中占据中心地位(Lakoff&Johnson,2003)，空间维度与道德概念的隐喻联结最强(Hill&Lapsley,2009；王锂，鲁忠义,2013)。早期经验观也认为，隐喻映射可能源自于婴幼儿期的基本经验(Fiske，2004)。相对于温暖、洁净感知经验而言，空间和大小感知是个体的原始感觉，个体空间和大小维度的道德概念隐喻联结更为强烈。再者，颜色隐喻的关联最小，这与以往研究结果不一致(Banerjee et al.,2012; Sherman& Clore,2009)。这可能是由于以往研究更多倾向于道德概念黑白颜色隐喻研究，即白色与道德概念联系，黑色与不道德概念联系。本研究中的颜色不仅包含黑白颜色，还包含其它颜色，颜色隐喻的指向性与针对性不明是造成相关较低的重要原因。最后，从本元分析纳入的实证研究来看，研究者更多关注空间 $( k = 5 0 )$ 和净脏 $( k = 3 2 )$ 隐喻维度，而对香臭 $( k = 5 )$ 、温度 $( k = 7 )$ 等其他隐喻维度的关注度较低，样本数量也限制了对不同隐喻维度下道德概念与身体体验关系的理解，并可能会引起研究结果的偏差，隐喻维度调节效应的有效性尚需进一步探索。今后的研究需要细化和明确不同隐喻维度与道德概念的联结，以便于我们判断究竟哪种隐喻维度训练更为有效地提升个体的道德判断。此外，也可具体研究哪几种隐喻维度对道德判断的提升具有叠加效应，这将有助于全面地了解道德概念与身体体验之间的隐喻映射关系。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4.2.4研究范式",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "不同研究范式对道德概念具身隐喻没有显著的调节作用 $( Q _ { b } { = } 1 . 4 3$ ， $\\scriptstyle { p = 0 . 7 0 } ,$ )。以往研究对此也存在争议，如有研究认为，研究范式对道德概念具身隐喻有显著影响(Meier et al.,2007;王锂，鲁忠义,2013)；另一些研究却发现，研究范式对道德概念具身隐喻没有显著的影响(贾宁，蒋高芳,2016；殷融，叶浩生,2014)。原因在于：首先，研究范式和实验材料指向不明是导致研究结果不一致的重要原因。毕竟，道德概念具身隐喻不但受研究范式的影响，还受不同实验材料的影响(贾宁等,2018)。其次,不同研究范式的研究目的和控制变量不同。如 Stroop范式能够更好地测查个体在无意识状态下的真实反应，可以较好地避免无关变量的干扰带来的偏差影响(李顺雨,2014)；由于抽象概念是通过隐喻构建的(Lakoff& Johnson,1999)，IAT范式是在无意识层面验证道德概念具身隐喻的联结较好的范式之一；而身体经验与周围环境相互作用，涉及实验室环境、明亮、光线等身体经验与周围环境的相互作用就要考虑情境操作范式；心境诱发范式更多涉及身体感知觉变化对个体道德心理的影响(陈潇等，2014)。但情境操纵范式和心境诱发范式具有主观性，容易受到情境和心境干扰变量的影响而出现估计偏差，使得情境操纵范式和心境诱发范式下的道德概念具身隐喻的研究结果不稳定。总之，随着实证研究文献的丰富，研究者对研究范式调节效应的进一步验证十分必要。同时，研究者尽可能致力于标准化研究范式，采用更为严谨有效的研究范式，以减少研究范式对道德概念隐喻效果的干扰。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4.2.5感觉通道",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "感觉通道的调节效应不显著，表明不同的感觉通道对道德概念具身隐喻没有显著的影响$\\cdot Q _ { b } { = } 3 . 1 5$ ， $\\scriptstyle { p = 0 . 3 7 }$ 。以往研究认为，身体经验同道德概念等心理过程相互嵌入和相互影响，当某个抽象概念被激活时，与之相关的多通道系统的感知觉信息也将同时被激活(殷融，曲方炳，叶浩生,2012)。与此相应，道德抽象概念被激活的感觉通道并不是单一的，而是多种感觉通道相互作用，发挥总体整合功能，使单个感觉通道的作用没有凸显出来。例如，当个体加工“玫瑰”这一概念时，大脑多通道系统的视觉(红色)、触觉(刺)、嗅觉(香气)等感知觉信息都同时被激活，以实现对“玫瑰”这一概念的理解(殷融，苏得权，叶浩生,2013)。同样“洁净近于美德”，对“洁净”概念激活的感觉通道同时涉及视觉(看到的洁净)、肤觉(感知的洁净)和嗅觉(闻到的洁净)等多种感觉通道，在此基础上形成的“美德”具身隐喻依赖于这些感觉通道的综合作用。也正是由于多种感觉通道的交互作用，才使得个体能够更适应所体验的环境。因此，对道德概念具身隐喻加工的感觉通道是交互整合的，不同的感觉通道对道德概念具身隐喻没有显著的影响。这启示我们，要通过多种感觉通道的联合作用以形成道德概念隐喻。如通过眼睛看到的整洁、皮肤触摸的洁净、鼻子嗅到的清新、嘴部说出的净语等多种具身体验的整合来提升个体道德意识与境界。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4.3研究不足及展望",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "研究不足：(1)本研究未发表的文献可能有所遗漏。虽然使用了多数据库、作者检索等多重检索，但是难以避免有一些未发表的研究被忽略；(2)道德概念具身隐喻的影响因素较多，但是本研究根据已有的文献只选取了5个影响因素进行探究，还有一些影响因素没有涉及到，如不同道德事件的类型和道德事件主体对道德概念具身隐喻也有影响(Tobia,2015；张凤华，叶红燕,2016)；(3)本研究进行道德概念具身隐喻的东西方文化差异考察，并未囊括本土文化差异的考察，如东方文化下中国的汉族被试和朝鲜族被试对长幼概念的空间隐喻和重量隐喻的理解就存在显著的差异(汪新筱，严秀英，张积家，董方虹,2017)。未来研究：(1)采用多渠道，更系统、全面的搜集元分析所需要的文献；(2)全面探究道德概念具身隐喻的影响因素；(3)揭示不同国家甚至是不同地区道德概念具身隐喻的本土文化差异；(4)拓展道德概念具身隐喻的干预研究，如对有道德负罪感的个体进行洁净干预，不仅可以维持其身体健康，还可以提升其道德自我意象，为道德教育的有效干预提供参考依据。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "5.结论",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "本研究通过元分析方法探讨了道德概念具身隐喻及其影响因素，得出如下结论： (1)整体上来看，道德概念具身隐喻的始源域和目标域存在中等程度正相关；(2)文化背景和隐喻维度对道德概念具身隐喻有显著的调节作用，其中，东方文化背景下个体的道德概念具身隐喻更强，并且道德概念与空间维度和大小维度的隐喻联结更高，但不同隐喻映射方向、研究范式和感觉通道的差异对道德概念具身隐喻的影响不显著。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "带\\*的文献表示元分析中纳入的文献  \n\\*陈换娟.(2015)．隐含动态垂直空间信息句子的加工对道德词汇分类任务的影响(硕士学位论文).河北师范大学，石家庄.  \n陈潇，江琦，侯敏，朱梦音.(2014).具身道德：道德心理学研究的新取向．心理发展与教育,30(6),664-672.  \n陈玉明，郭田友，何立国，燕良轼.(2014).具身认知研究述评．心理学探新,34(6),483-487.  \n\\*丁凤琴，王喜梅，刘钊.(2017).道德概念净脏隐喻及其对道德概念的影响.心理发展与育,33(6),666-674.  \n\\*丁慧萍.(2016)．道德概念与颜色概念的隐喻关联及其可控性(硕士学位论文).鲁东大学，烟台.  \n\\*丁汝楠.(2018)．道德概念的重量隐喻研究(硕士学位论文).浙江大学，杭州.  \n范琪，叶浩生.(2014).具身认知与具身隐喻认知的具身转向及隐喻认知功能探析．西北师大学报(社会科学版),51(3), 117-122.  \n\\*方激.(2016)．彩色对道德概念的影响及其神经机制的研究(硕士学位论文)．浙江理工大学，杭州.  \n\\*冯晓慧.(2018)．隐喻的一致性效应是基于概念隐喻理论还是极性理论(硕士学位论文).河北师范大学，石家庄.  \n\\*冯新明.(2013)．视觉空间关系加工道德概念中的垂直空间隐喻(硕士学位论文).河北师范大学，石家庄.  \n\\*顾倩.(2015).道德概念垂直空间隐喻的心理现实性——来自ERP 的证据(硕士学位论文).河北大学，石家庄  \n\\*郭少鹏.(2015)．德概念大小隐喻的心理现实性及其映射关系(硕士学位论文).河北师范大学，石家庄.  \n\\*霍志兵.(2017)．注意指向对道德概念垂直空间隐喻一致性效应的影响(硕士学位论文).河北大学，石家庄.  \n\\*贾宁，陈换娟，鲁忠义.(2018).句子启动范式下的道德概念空间隐喻：匹配抑制还是匹配易化?心理发展与教育,34(5),541-547.  \n\\*贾宁，蒋高芳.(2016).道德概念垂直空间隐喻的心理现实性及双向映射.心理发展与教育,32(2),158-165.  \n\\*蒋高芳.(2014)．传统道德概念垂直空间隐喻的实验研究(硕士学位论文).河北师范大学，石家庄.  \n\\*李海伦.(2016)．身体洁净和文化启动对大学生情境性道德敏感的影响研究——以昆明某高校为例硕士学",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "位论文).云南师范大学，昆明.\\*李楠. (2014).马基雅维利主义与道德概念垂直空间隐喻的关系研究(硕士学位论文).河北师范大学，石家庄\\*李顺雨.(2014)．道德/不道德行为回忆对明度知觉的影响及其心理机制(硕士学位论文).广西师范大学，桂林.\\*李文静.(2016).颜色对道德概念加工的影响：来自ERP 的证据(硕士学位论文).河南师范大学，新乡.黎晓丹，杜建政，叶浩生.(2016).中国礼文化的具身隐喻效应：蜷缩的身体使人更卑微.心理学报,48(6),746-756.\\*刘钊,丁凤琴.(2016).大学生道德概念的重量与洁净隐喻．中国健康心理学杂志,24(4),533-536.\\*鲁忠义，郭少鹏，蒋泽亮.(2017)．道德概念大小隐喻的心理现实性及映射关系．华南师范大学学报(社会科学版), (2),70-78.\\*鲁忠义，贾利宁，翟冬雪.(2017).道德概念垂直空间隐喻理解中的映射：双向性及不平衡性.心理学报，49(2), 186-196.\\*栾子烟.(2013)．道德温度：身体冷暖与青少年道德决策(硕士学位论文).华东师范大学，上海.\\*牛怡然．(2014)．汉语道德概念亮度隐喻表征及其对亮度知觉的影响(硕士学位论文)．河北师范大学，石家庄.苏彦捷，孙芳芳.(2014).道德具身性的元分析研究．华东师范大学学报(教育科学版),32(2),88-96.\\*孙浩雄.(2016)．道德概念垂直空间隐喻的神经基础(硕士学位论文).河北师范大学，石家庄.\\*唐芳贵.(2017).高上会使人更高尚吗?—垂直空间的道德隐喻.苏州大学学报(教育科学版)(4),106-111.王继瑛，叶浩生，苏得权.(2018)．身体动作与语义加工：具身隐喻的视角.心理学探新,38(1),15-19.汪新筱，严秀英，张积家，董方虹.(2017).平辈亲属词语义加工中长幼概念的空间隐喻和重量隐喻——来自中国朝鲜族和汉族的证据.心理学报,49(2),174-185.\\*王锂，鲁忠义.(2013).道德概念的垂直空间隐喻及其对认知的影响.心理学报,45(5),538-545.\\*吴保忠.(2013).气味对个体道德概念的影响(硕士学位论文).湖北大学，武汉.\\*肖玉珠.(2015).道德概念的水平人际距离隐喻表征的双向性(硕士学位论文).河北师范大学，石家庄.徐闯.(2012)．道德人格的隐喻表征维度研究(硕士学位论文).广西师范大学，桂林.\\*杨继平，郭秀梅，王兴超.(2017).道德概念的隐喻表征——从红白颜色、左右位置和正斜字体的维度.心理学报,49(7), 875-885.\\*杨继宇.(2014).道德概念的垂直空间隐喻对空间记忆的影响(硕士学位论文).河北师范大学，石家庄.\\*叶红燕.(2016).“洗”出来的效应：清洁启动对道德判断的影响(硕士学位论文)．江西师范大学，南昌.\\*易兰新.(2017).道德“高上”：位置高低对道德概念和道德行为的影响(硕士学位论文).广西师范大学，桂林.殷宏淼.(2014)．道德概念的隐喻表征研究(硕士学位论文)．上海师范大学，上海.",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "殷融，曲方炳，叶浩生.(2012).具身概念表征的研究及理论述评.心理科学进展,20(9),1372-1381   \n殷融，苏得权，叶浩生.(2013).具身认知视角下的概念隐喻理论.心理科学进展,21(2),220-234.   \n\\*殷融，叶浩生.(2014).道德概念的黑白隐喻表征及其对道德认知的影响.心理学报,46(9),1331-1346.   \n尹新雅，鲁忠义.(2015).隐喻的具身性与文化性.心理科学,38(5),1081-1086.   \n张凤华，叶红燕.(2016).“洗”出来的效应：清洁启动对道德概念作用方向不同的影响因素探析.心理科学 39(5),1236-1241.   \n\\*赵伯妮.(2009)．味觉和道德概念：情绪与自我概念的作用(硕士学位论文).广西师范大学，桂林.   \n\\*Ackerman,J.M.,Nocera, C.C.,& Bargh,J.A.(2OlO). Incidental haptic sensations influence social judgments and decisions.Science, 328(5986),1712-1715.   \n\\*Banerjee,P., Chaterjee,P.,&Sinha,J.(2O12). ISsitlight or dark?Recallng moralbehavior changes perception of brightness.Psychological Science,23(4),407-409.   \nBlack，M. (1993). Moreabout metaphor: In A.Ortony (Ed.)，Metaphor and Thought(pp.19-41). Cambridge: Cambridge University Press.   \nBorenstein,M.,Hedges,L.V.,Higgins,J.P.T.,& Rothstein,H.R.(2009).Efct sizes based on means.In M. Borenstein,L. V. Hedges, J. P. T. Higgins,& H. R.Rothstein (Eds.)， Introduction to meta - analysis (pp. 21-32). United Kingdom: John Wiley & Sons,Ltd.   \nBorg,J.S.,Lieberman,D.,&Kiehl,K.A. (2oo8).Infection,incest,and iniquity: Investigating the neuralcorrelates of disgust and morality. Journal of Cognitive Neuroscience, 20(9),1529-46.   \nBoroditsky，L.(2oo1). Does language shape thought? mandarin and english speakers' conceptions of time.Cognition Psychology,43(1),1-22.   \nCasasanto,D.,Fotakopoulou,O.,& Boroditsky,L. (2O10).Space and time in the child's mind: Evidence for a crossdimensional asymmetry. Cognitive Science, 34(3),387-405.   \nChasteen,A.L.,Burdzy,D.C.,&Prat,J. (2010).Thinking of god moves atention. Neuropsychologia, 48(2),627 - 630.   \n\\*Chiou,W.B.,& Cheng,Y.Y. (2O13).Inbroad daylight, we trust inGod! Brightness,the salience of morality,and ethical behavior. Journal of Environmental Psychology,36,37-42.   \n\\*Denke,C.,Rote,M., Heinze,H. J.，& Schaefer, M. (2016). Lying and the subsequent desire for toothpaste: Activityin the somatosensory cortex predicts embodiment of the moral-purity metaphor.Cerebral Cortex,26(2),477-484.   \n\\*Eskine,K.J.,Kacinik,N.A.,& Prinz,J.J. (2o11). A bad tastein the mouth gustatorydisgust influences moral judgment. Psychological Science,22(3),295-299.   \n\\*Eskine,K.J., Kacinik,N.A.,& Webster,G D. (2012). The bitter truth about morality: Virtue,not vice,makes a bland beverage tastenice. PloS one, 7(7), e41159.   \nFaueonnier, G. (1998). Mental Space,language modalities,and conceptual integration. InM.Tomaselo(Ed.),The NewPsychologyof Language(pp. 251-279). Mahwah, NJ: Lawrence Erlbaum.   \n\\*Fayard,J. V.,asi,A.K.erstein,D.M,&oberts,B.W. (9).IsealinssnexttogodlinessDspelling old wives'tales: Failure to replicateZhong and Liljenquist (2006). Journal of Articles in Support of the Null Hypothesis,6,21-29.   \nFernandez-Castilla,B.,Aloe,A.M.,Declercq,L., Jamshidi,L.,Onghena,P.,Beretvas,S.N.,&VandenNoortgate, W. (208). Concealed correlations meta-analysis: a new method for synthesizing standardized regression coefficients. Behavior Research Methods,51(1),316-331.   \nFiske,A. P. (2004). Relational models theory. In N. Haslam (Ed.)， Relational models theory: A contemporary overview(pp. 3-25). London, United Kingdom: Erlbaum.   \n\\*Gamez,E.,Diaz,J.M.,& Marrero,H. (2O11).The uncertain universalityof the Macbeth efect with a Spanish sample.The Spanish Journal of Psychology,14(1),156-162.   \nGarcia-Argibay,M.,Santed,M.A.,&Reales,J.M. (2o18).Efficacyofbinaural auditorybeats in cognition,anxiety, and pain perception: A meta-analysis. Psychological Research,83(2),357-372.   \nGibbs,R. W. (2006). Metaphor interpretation as embodiedsimulation. Mind and Language,21(3),434-458.   \nGibbs,R. W.,& Berg,E. A. (1999). Embodied metaphor in perceptual symbols. Behaviral and Brain Sciences, 22(4), 617-618.   \nGibson,E. J. (1969). Principles of Perceptual learning and Development. New Jersey: Prentice Hall Inc.   \nHaidt,J.,& Joseph,C.(2OO4). Intuitive ethics: How innately prepared intuitions generate culturally variable virtues. Daedalus,133(4), 55-66.   \nHe, X.L.,Chen,J.,Zhang,E.T.,&Li,J.N. (2015). Bidirectional associations of powerandsize ina primingtask. Journal of Cognitive Psychology, 27(3),290-300.   \n\\*Helzer,E.G.，& Pizaro,D.A.(2O1). Dirty liberals! Remindersof physical cleanliness influence moral and political attitudes. Psychologicalscience, 22(4),517-522.   \nHiggins,J.P.T.,Thompson,S.G.,Deeks,J.J.,&Altman,D.G. (2oo3).Measuring inconsistency in meta-analyses. British Medical Journal, 327(7414),557-560.   \nHill,P.L.,& Lapsley,D. K. (2O09).Theups and downs of the moral personality: Why it's notsoblack and white. Journal of Research in Personality, 43(3),520-523.   \n\\*Iachini, T.,Pagliaro,S.,& Ruggiero, G (2O15). Near or far?It depends on my impression: Moral information and spatial behavior in virtual interactions. Acta Psychologica,161,131-136.   \nJohnson,D.J., Cheung,F.,& Donnellan,M.B.(2O14).Does cleanliness influence moral judgments?A direct replication of schnal, benton,and Harvey. (2008).Social Psychology, 45(3),209-215.   \n\\*Kaufmann,L. M.，& Allen， S. (2014). Adding weight to judgments: The role of stimulus focality on ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "weight-related embodied cognition. Journal of Applied Psychology,10(1),41-48.   \nLakoff, G (2014). Mapping the brain's metaphor circuitry: Metaphorical thought in everyday reason.Frontiers in Human Neuroscience,8,958.   \nLakoff,G.，& Johnson,M. (1999).Philosophy in the flesh: The embodied mind and its challenge to western thought. Chicago: University of Chicago Press.   \nLakoff,G.,& Johnson, M. (2003).“Afterword\". Metaphors We Live By.Chicago: University of Chicago Press.   \nLakoff,G, & Turner, M. (1989). More than cool reason: Afield guide to poetic metaphor. Chicago: University of Chicago Press.   \n\\*Lee,S.W.,& Schwarz, N. (2010). Dirty hands and dirty mouths embodiment of the moral-purity metaphor is specific to the motor modalityinvolved in moral transgression. Psychological Science, 21(10),1423-1425.   \n\\*Lee,S.W.，& Schwarz,N.(2012). Bidirectionality, mediation,and moderation of metaphorical effects: The embodiment of social suspicionand fishy smells. Journal of Personality and Social Psychology， 103(5), 737-749.   \n\\*Lee,S.W. S., Tang, H.H., Wan, J., Mai, X. Q,& Liu, C. (2015). A cultural look at moral purity: Wiping the face clean. Frontiers in Psychology, 6,577-582.   \n\\*Leung,M. S. (20l3). Effct of physical cleanliness and cognitive cleanlinesson moral judgment(Unpublished master's thesis). Retrieved from City University of Hong Kong, City University of InstitutionalRepository.   \n\\*Li,H.，& Cao,Y. (2O17). Who's holding the moral higher ground: Religiosity and the vertical conception of morality.Personality and Individual Differences,106,17-18.   \n\\*Liljenquist,K., Zhong, C.B.,& Galinsky,A. D.(010).The smellof virtue clean scents promote reciprocityand charity. Psychological Science,21(3),381-383.   \n\\*Lobel,T.E.,Cohen,A., Kalay Shahin,L., Malov,S., Golan,Y.,& Busnach,S.(2O15).Being clean and acting dirty: The paradoxical effect of self-cleansing. Ethics & Behavior, 25(4),307-313.   \nMeier,B.P.,& Robinson,M.D. (2004). Why the sunny side is up: Associations between affect and vertical position. Psychological Science,15(4),243-247.   \nMeier,B. P., Robinson, M. D.，& Clore, G. L. (2004). Researcharticle why good guys wear white automatic inferencesabout stimulus valence based on brightness.PsychologicalScience,15(2),82-87.   \nMeier,B.P.,Sellbom, M.,& Wygant,D.B.(20o7).Failing totake the moral high ground: Psychopathy and the verticalrepresentation ofmorality.Personality and Individual Differences,43(4),757-767.   \n\\*Michael,S.,Michael,R.,Hans-Jochen,H.,&Claudia,D. (2015). Dirty deeds and dirtybodies: Embodimentof the macbeth efect is mapped topographically onto the somatosensory cortex. Scientific Reports,5,18051.   \n\\*Nakamura, H., Ito,Y., Honma,Y.,Mori,T.,& Kawaguchi,J. (2014). Cold-hearted or coo-headed: Physical coldness promotes utilitarian moral judgment.Frontiers in Psychology, 5(5),1086.   \n\\*Schnall, S.，Benton,J.,& Harvey,S.(2O08). With aclean conscience cleanliness reduces the severityof moral judgments.PsychologicalScience,19(12),1219-1222.   \n\\*Sekulak,M.(2017). Metaphorical association between physical and moral purity in the context of one's own transgressions and immoral behavior of others. Psychology of Language and Communication, 21(1),152-170.   \nShadish, W. R., Robinson, L.,& Lu, C. (1999). User's manual for ES: A computer program for effct size calculation. St. Paul, MN: Assessment Systems.   \nSherman, G D.,& Clore, G.L. (2009). The color of sin: White and black are perceptual symbols of moral purity and pollution. Psychological Science, 20(8),1019-1025.   \n\\*Skarlicki,D.P.,Hoegg,J.,Aquino,K.,&Nadisic,T. (2O13).Does injustice affect your sense of taste and smell? The mediating role ofmoral disgust. Journal of Experimental Social Psychology, 49(5),582-859.   \n\\*Steidle,A.，Hanke,E.V.,& Werth,L.(2013).In the dark we cooperate: The situated nature of procedural embodiment . Social Cognition,31(2),275-300.   \nTobia,K.P. (2O15).The effects of cleanlinessand disgust on moral judgment. Philosophical Psychology,28(4), 556-568.   \n\\*Wang,H. L.,Lu, Y.Q.,& Lu,Z. Y.(2016). Moral-up first,immoral-down last: The time course of moral metaphors on a vertical dimension.Neuroreport, 27(4), 247-256.   \n\\*Webster, G.D., Urland, GR.,& Correl,J. (2O12). Can uniform color aggression? Quasi-experimental evidence from professionalice hockey. Social Psychological and Personality Science,3(3), 274-281.   \n\\*Williams,L.E., & Bargh,J. A. (2008). Experiencing physical warmth promotesinterpersonal warmth. Science, 322(5901),606-607.   \n\\*Xu,H.,Begue,L.,& Bushman,B.J. (2O14).Washing the guilt away:Effects of personal versus vicarious cleansing on guilty feelings and prosocial behavior.Frontiers in Human Neuroscience,8(3), 97.   \n\\*Zhong,C.B., Bohns, V. K.，& Gino,F. (2010). Good lamps are the best police: Darknessincreases dishonesty and self-interested behavior. Psychological Science,21(3),311-314.   \n\\*Zhong，C.B.，& Leonardeli，G J. (2O08).Cold and lonely:Doessocial exclusion literally feel cold? Psychological Science,19(9),838-842.   \n\\*Zhong, C.B.,& Liljenquist, K.A. (2O06). Washing away your sins: Threatened morality and physicalcleansing. Science, 313(5792),1451-1452.   \n\\*Zhong, C.B., Strejcek, B.,& Sivanathan,N. (2O10). A clean self can render harsh moral judgment. Journal of Experimental Social Psychology,46(5),859-862. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Embodied metaphors of moral concepts and its influential factors: A systematic review and meta-analysis ",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "DING Fengqin; WANG Dongxia ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(School of Education, Ningxia University, Yinchuan 75oo21, China) ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The meta-analysis was designed to explore the embodied metaphors of moral concepts and its influential factors.Through literature retrieval, 65 cases and 153 independent efect sizes which met the inclusion criteria of meta-analysis were selected ( $\\mathbf { \\mathit { N } } = 8 6 5 9$ ). Overall,the results showed that there existeda moderate positive correlation between source domain of embodied metaphors of moral concepts with the target domain $( r { = } 0 . 3 4 )$ .Embodied metaphors of moral concepts were moderated by cultural background and metaphorical dimension，but not by metaphorical mapping direction， research paradigm and sensory channel.The above results indicate that the embodied metaphors of moral concepts reflect psychological reality,and the following studies should focus on the diferent roles of cultural background and metaphorical dimension, specifically, the individual moral concept metaphor is stronger under the background of oriental culture,and the metaphorical connection between moral concepts and spatial dimension and dimension is higher. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Key words: embodied metaphors; moral concepts; meta-analysis; moderate effect ",
+        "page_idx": 23
+    }
+]

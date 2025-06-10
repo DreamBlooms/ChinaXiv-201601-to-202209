@@ -1,0 +1,156 @@
+# 创造力产生过程中的神经振荡机制
+
+叶超群 林郁泓 刘春雷\*(曲阜师范大学心理学院，曲阜273165)
+
+摘要创造力究竟是怎么产生的，目前尚未得出一致的结论。神经电生理技术因其高时间分辨率，可以准确地揭示创造力产生进程中的神经振荡机制，从而帮助人们更深刻地理解创造力的本质。近年来的研究发现，单节律alpha神经振荡会随着创造力的增加而增强，这反映了创造力产生过程中的内部信息加工需求增加、自上而下的抑制控制增强。同时，多频段神经振荡交叉节律耦合体现了创造性产生过程中额叶、颞叶和顶叶等多脑区之间信息交流的动态变化。未来研究应该以整合理论框架为基础，结合多层次多方法的研究工具，引进更生态化的数理计算方法，并利用计算神经科学建模来预测个体创造力发展趋势，从而全面深刻地认识创造力的本质。
+
+关键词 创造力，神经振荡，脑电图，alpha神经振荡，交叉节律耦合分类号 B842; B845
+
+# 1引言
+
+创造力(creativity)通常被定义为在一定社会背景下产生新颖独特且具有社会价值和适用性产品或想法的能力(Runco& Jaeger,2012; Stermberg,1996)。它既是决定一个人成就高低的重要因素，又是人类文明基石和社会经济发展进步的不竭动力(Runco&Acar,2012)。鉴于创造力的重要作用，有关创造力产生的认知神经机制的研究在近几十年来喷涌而出。对创造力认知神经机制的探究是了解创造力本质的主要途径，但遗憾的是尚未得出一致的结论。
+
+创造力的产生涉及诸多认知过程，如注意、记忆提取、工作记忆等，他们在创造力产生过程中起着至关重要的作用。一个新颖创意的产生依赖于打破旧有的思维框架或概念连接，重新建立一种新颖独特且具有意义的新型思维框架或远距离语义概念连接的能力(Benedek,Konen,& Neubauer,2012;Mednick,1962)。个体为了生成创造性想法，首先需要知觉或者意识到某个问题，能够对其展开分析并重新定义它；然后通过某些认知加工过程（如发散性思维、远距离联想等）产生一些可供选择的想法或者解决方案；最后对以上想法或者方案进行评估，选择那些具有独创性、适用性的方案，抛弃陈旧、无效的想法(Beaty,Benedek,Silvia,& Schacter,2016;Luft,Zioga,Thompson,Banissy,&Bhatcharya,2018)。此外，大量神经影像研究也表明创造力的产生依赖于多个认知加工过程并涉及到多个脑区的激活和协同作用，比如功能磁共振成像(functional magnetic resonance imaging,fMRI)证据表明创造力的大脑结构和功能基础包括涉及情景记忆和语义记忆内外侧颞叶系统；负责语义检索和控制的外侧顶叶和背外侧前额叶、腹外侧前额叶系统；涉及工作记忆、抑制等认知功能的执行控制网络；以及负责情绪、人格和内驱力的内侧默认网络(陈群林,2017)。但关键问题是：这些大脑神经网络彼此之间是如何在短时间内实现神经信息交流，以保证神经活动在精确的时间进程上协同合作产生创造力的呢？在创造力产生的时间进程中多种认知功能又是如何协同作用的呢？创造力产生过程中的神经振荡(neuronal oscillations)在其中扮演着重要的角色(Agnoli et al,2020; Fink&Benedek,2014;Friston,Bastos,Pinotsis,&Litvak,2015)。神经振荡是一种集群神经元树突或胞体膜电位相对去极化水平的节律性变化，能够反映大脑认知活动的基本规律与内在机制(Buzsaki& Draguhn,2004; Tiesinga,Fellous,& Sejnowski, 2008; X.J. Wang,2010),可以使我们更加了解神经信息交流的动态变化过程。
+
+探究创造力产生过程中的神经振荡机制，有助于揭示创造力产生时间进程中多种认知功能的协同作用以及多脑区之间信息交流的动态变化，从而探究创造力产生背后的神经机制。近年来，越来越多的实证研究采用高时间分辨率的脑电图(electroencephalography,EEG)技术探究创造力产生进程中的神经振荡机制(Agnoli et al.,2020; Arden, Chavez,Grazioplene,&Jung,2010; Benedek,Beaty, et al.,2O14; Benedek, Bergner,Konen, Fink,& Neubauer, 2011;Benedek, Jauk, etal.,2014; Brinkman, Stolk,Dijkerman,de Lange,& Toni,2014; Dietrich & Kanso,2010; Fink et al.,2017; Grabner, Krenn,Fink,Arendasy,& Benedek,2018; Lechinger et al.,2016;Lustenberger, Boyle,Foulser, Mellin,& Froehlich,2015; Rominger et al.,2019; Schwab,Benedek,Papousek,Weiss,&Fink,2014; X.Wang et al.,2019; Zhou et al.,2019)，并逐步对创造力产生的神经振荡机制有了一定的了解。本文基于过去十几年间创造力研究领域取得的研究进展，从单节律神经振荡和多节律神经振荡交叉耦合两个层次对创造力产生进程中神经振荡机制进行综述，并从理论基础、研究工具、更具生态性统计方法、以及结合相关学科研究进展等方面对未来的研究方向进行了展望，以便更好地理解创造力产生过程中所涉及到的神经振荡机制。
+
+# 2创造力产生过程中的单节律神经振荡
+
+人类所有认知活动都受到大脑中枢神经系统的调控，其核心组织为大量神经元集群构成的大脑皮层。集群中的神经元通过兴奋性或抑制性突触相互连接以进行各种电生理信息传递与交流，并由此按照一定的电生理节律被激活或者抑制。神经元集群的这种节律性的电生理行为被称为神经振荡(neuronal oscillation)。在实际分析中，神经振荡常常被简化为五个节律，即delta $( 0 . 5 { \sim } 4 \mathrm { H z } )$ 、theta $( 4 { \sim } 8 \mathrm { H z } )$ 、alpha $( 8 \mathrm { \sim } 1 2 \mathrm { H z } )$ ）、beta $( 1 3 { \sim } 2 8 \mathrm { H z } )$ 和 gamma $( 2 8 \mathrm { \sim } 1 0 0 \mathrm { H z } )$ 。在创造性研究的早期，研究者们旨在发现与创造力产生过程相关的神经振荡频段，其中发现最多的是alpha 频段神经振荡。
+
+# 2.1Alpha 神经振荡及其认知机制
+
+Alpha频段 $( 8 \mathrm { \sim } 1 2 ~ \mathrm { H z } )$ 神经振荡是最为人所熟知的宏观层面的神经元集群活动。早期的EEG 实验研究发现当个体在安静放松、休息或者睡眠状态下,alpha神经振荡活动异常强烈，而在清醒警醒的状态下alpha神经振荡反而减弱。因此，当Martindale 首次运用 EEG 进行创造力研究，发现高创造力个体相比于低创造力个体展现了更强的alpha 神经振荡时(Martindale＆Hines,1975)，早期研究者认为创造力相关的 alpha 频段的神经振荡增强可能反映了一种大脑认知加工解怠(cortical idling)或者是大脑信息加工强度降低的状态(Dietrich,2003; Martindale,1999; Mendelsohn,1976; Pfurtscheller & Lopes da Silva,1999)。并由此提出了创造力的低唤醒理论(law arousal theory of creativity)和联系性加工理论(the associativetheory)，这些理论认为低皮质唤醒、散焦注意力以及较低水平的抑制控制有助于创造性或原创性的观点产生(Mednick,1962)。
+
+但如今，越来越多的研究证据表明这种解释过于简单(Dietrich&Kanso,2010;Fink&Benedek,2014;Palva,2007)。近十几年来大量与创造力相关的 EEG 研究表明：相比于推理、计算或记忆提取等常规任务，个体在完成创造力任务（比如较为经典且广为使用的AUT任务）时伴有更强烈的 alpha 频段神经振荡(Fink&Benedek,2014)。例如,Fink 等人(2007,2009)在创造力研究中发现个体完成 AUT 任务(altermate uses task,AUT)比完成常规言语智力任务时额叶展现了更强烈的 alpha 神经振荡(Fink,Benedek,Grabner,Staudt,&Neubauer,2007; Fink,Grabner,et al.,2009)。Fink,Graif 和 Neubauer (2009)发现被试在完成即兴舞蹈创作的创造力任务比在完成标准华尔兹的任务时，额叶和顶叶也产生了更强的alpha 神经振荡。在创造力产生进程中，额顶叶 alpha频段神经振荡会随着新颖观点的产生而增强(Fink&Neubauer, 2006;Grabner,Fink,& Neubauer,2007)。在创造力研究领域内关于alpha1和 alpha 2两个子频段神经振荡的认知机制还未发现一致的结论(Fink etal.,2006;Fink etal.,2011)。绝大多数创造力研究发现对 alpha1和 alpha2子频段的区分并未对创造力造成显著性差异的影响(Agnoli etal.,2020; Fink& Neubauer,2008; Jauk et al.,2012; Rominger et al.,2019)。这进一步反映了创造力与alpha 神经振荡之间的密切关系。这些研究证据表明创造力产生过程中的 alpha 神经振荡与创造力任务需求是正相关关系(Fink et al.,2007;Jauk etal.,2012; Martindale&Hasenfus,
+
+1978)，并且高创造力个体维持在额叶和顶叶的 alpha 神经振荡增强的时间也要显著长于低创造力个体(Camarda et al.,2018)。一项经颅交流电刺激(transcranial alternating current brainstimulation,tACS)研究表明，当以 $1 0 ~ \mathrm { H z }$ 的 tACS 交流电流作用于额叶使 alpha 神经振荡增强时，可以显著地提升被试的创造力任务表现(Lustenberger etal.,2015)，直接证实了alpha 神经振荡在创造力产生过程中的重要作用。Fink 等人(2009)通过结合EEG 和 fMRI两种研究手段，进一步探究创造力产生过程中alpha神经振荡增强的神经机制。他们发现个体在完成创造力任务时额叶alpha神经振荡显著增强，并在完成同一个创造力任务时额叶脑区的血氧水平显著提高。这进一步表明，创造力产生过程中的alpha 神经振荡增强反映了一种积极的大脑认知加工过程，而不是大脑皮层消极的认知加工懈怠(cortical idling)。
+
+此外，有研究者对创造力产生进程中alpha神经振荡的时间变化趋势进行探究。研究发现在创造力产生进程中alpha 神经振荡存在一种类似倒U型的序列顺序效应(Kraus,Cadle,&Simon-Dack,2019; Rominger et al., 2019; Schwab et al., 2014; M. Wang, Hao, Ku, Grabner, &Fink,2017)，但在整体上alpha 神经振荡是显著增加的。这反映了在创造性产生进程中，个体在不同的阶段采取了不同的策略和涉及到的大脑不同的认知功能。在创造力产生初期主要采用大范围发散的策略，依赖于对以往的知识经验和长期记忆的提取；第二阶段采用筛选剔除的策略，通过对诸多想法的比较，筛选出更具创造力的想法，剔除一般的、常规的、缺乏创造力的想法；第三阶段再次对答案进行揣摩反思。可以发现在创造力产生过程中抑制控制发挥着关键的作用(Benedek& Neubauer,2013;Fink& Benedek,2014)。为了证实这一点，研究者将经颅交流电刺激(transcranial alternating current brain stimulation,tACS)与 EEG 的结合起来，发现使用alpha 频段 $( 1 0 ~ \mathrm { H z } )$ 的经颅交流电刺激右侧颞叶可以提升被试在远距离联想任务(remote associates task,RAT)中的表现，直接证实了抑制控制在创造力产生过程的重要作用及其神经机制(Luft etal.,2018)。此外空间定位更精准的 fMRI研究结果也证实了创造力产生过程中抑制控制的重要性。通过 fMRI可以较准确地观察到创造力产生过程中额叶下回(inferior fontal gyrus,IFG)的激活程度(Aron,Robbins,&Poldrack,2004,2014)与被试提出的创意独创性成正相关(Benedek,Jauk,etal.,2014)，而 IFG 则是一个典型的与抑制控制相关的大脑区域。另外从LFP 层面(Bonnefond &Jensen,2012;de Pesters et al.,2016; Dougherty, Cox,Ninomiya, Leopold, & Maier, 2017; Haegens, Nacher, Luna, Romo, & Jensen, 2011; Samaha &Postle,2015)和神经元层面(Watson,Ding,& Buzsaki,2018)展开的研究，也表明 alpha 神经振荡与抑制功能密切相关，认为alpha 神经振荡来源于一种以 $1 0 \mathrm { H z }$ 左右的频率进行放电并释放抑制性神经递质的神经元集群。最直接的证据来自于 Haegens 等人(2011)的研究。他们发现，LFP 中的alpha 振荡活动能够使神经元的放电频率降低。因此，研究者们认为，alpha 神经振荡强度与抑制功能的强度有关：alpha 神经振荡强度越高，抑制性神经元集群活动的同步性越高，抑制功能越强。这与创造力产生过程中alpha 神经振荡与认知控制的关系也是一致的。
+
+# 2.2其他频段神经振荡及其认知机制
+
+在完成创造力任务时，除了alpha频段神经振荡的增加外，也存在其他频段神经振荡的变化。Boot, Baas,Muhlfeld,Dreu 和 Gaal (2017)通过一个新实验范式来探究在创造力产生过程中创造性思维转变时个体神经振荡的变化趋势。研究发现，相比于聚合性思维，个体进行发散性思维时delta 神经振荡减弱。另外一项研究也有类似的发现，研究者发现当参与者为电脑屏幕上显示的各种不寻常的场景提供新颖标题时，额叶中部脑区theta 神经振荡会随着创造力得分的提高而降低。但重要的是这项研究发现额-枕联合区theta频段的功能连接强度会随着创造力的增加而增强(Wokke,Padding,& Ridderinkhof,2019)。一般而言，不同节律神经振荡既可提供神经元集群在不同时段的交流活动信息，也能反映其在不同空间尺度的信息交流规律。低频节律神经振荡因其周期较长从而可调节较大时间窗口的信息交流，反之高频节律神经振荡周期较短，信息交流时只能调节较小时窗。类似地，有研究指出低频节律神经振荡可以调节较大空间范围神经元集群的信息交流，而高频节律神经振荡则只能调节局部区域(即较小空间尺度)的神经元集群信息交流(Buzsaki& Draguhn,2004;Csicsvari, Jamieson,Wise,&Buzsaki,2003;Jensen&Colgin,2007)。因此低频 theta 频段的神经振荡活动可以实现较大范围的神经信息交流，有利于高级脑区对低级脑区自上而下的认知调控，以便调节多脑区协同合作，进而构建创造力产生的神经基础。因此，创造力的产生是与创造力有关的大范围脑区之间进行长时间信息交流和整合的结果。除此之外，一般认为这种起源于额叶的 theta活动是认知控制的神经基础，反映了大脑用于实现认知控制的神经计算(Cavanagh&Frank2014)，这也进一步表明抑制控制在创造力产生过程中的重要地位。Zabelina 和Ganis (2018)研究也表明创造力表现与注意灵活转换能力成正相关。beta 神经振荡与发散性思维密切相关，有研究表明个体在完成发散性思维任务时额叶和顶叶的 beta 神经振荡会显著增强(Razumnikova,2007)。关于创造力产生进程中 gamma 神经振荡的研究发现主要集中在一些艺术创造力领域，有研究发现通过给被试枕叶施加 gamma(40Hz)频段的神经交流电刺激，可以显著提高个体自由绘画的创造性表现(Luft, Zioga, Banissy,& Bhattacharya,2019)，这可能与枕叶 gamma 神经振荡参与多物体的感知加工有关(Tallon& Bertrand,1999)。
+
+以上研究表明，从创造力目前的众多研究中可看出，要准确一致地总结出创造性的认知神经机制实属不易。但创造力产生过程中的 alpha神经振荡对于创造力产生的异常敏感以及alpha 神经振荡强度随着创造力的增加而增强这一研究发现，是目前为止整个研究领域较为一致支持的研究结论。创造力产生进程中的额叶 alpha 神经振荡增强被认为反映了大脑一种自上而下的认知控制，积极抑制与任务无关的活动，排除无关动作、心理活动等对当前任务的干扰；或者对分心刺激进行抑制，使注意聚焦于当前的任务(Klimesch,Sauseng,&Hanslmayr,2007; Sauseng et al.,2005)。颞叶 alpha 神经振荡增强更多反映了一种打破原有僵化思维框架或者使得远距离语义概念连接增强的自上而下的认知控制，即抑制占优势地位的“常见”语义概念或观点的产生，增强远距离语义概念连接可能性(Beaty& Silvia,2012;Benedek,Franz,Heene,& Neubauer,2012; Gilhooly,Fioratou,Anthony,& Wynn, 2007)，从而利于形成新颖独创的创造性观点或者想法(Benedek& Neubauer,2013;Fink&Benedek,2014)。但是需要注意的是，内部处理和自上而下的抑制控制并不特定于创造力产生过程，它们也与其他认知任务相关。可以认为，内部认知加工需求和自上而下的认知控制是创造力产生的必要特征，但肯定不是唯一特征。与此同时，不容忽视的是其他频段神经振荡在创造力产生过程中的重要作用，比如 theta 神经振荡代表的大范围脑区连接强度的神经生理意义以及gamma、beta 等频段在创造力产生过程中的重要作用，这也是未来创造力认知神经机制研究中重要且不可忽视的部分。
+
+# 3创造力产生过程中的交叉节律耦合
+
+相同节律神经振荡在不同脑区间的相互调制影响主要表现为相位同步，可以调节其间的信息交流(Fries,2005;Gregoriou,Gotts,Zhou,& Desimone,2009)，而不同节律神经振荡在相同或不同脑区之间的相互作用则主要表现为交叉节律耦合(cross-frequency coupling，CFC)。由于不同频率的神经振荡具有各自生理学意义，故其在神经信息传递、处理及存储等过程扮演不同角色。CFC 可能整合了更多的神经振荡特色信息，有利于深入了解创造力产生过程中认知功能信息传递、处理与存储等过程中的特殊机制与规律。
+
+Bhattacharya 和Petsche (2005)在运用 EEG 探究成年职业画家和普通人在进行艺术画构思和不进行艺术构思之间的差异，研究发现画家比非画家表现出显著的 delta(<4Hz)频段短时和长时的同步化增强，非画家在额叶区域表现出 beta(13\~28Hz)频段和 gamma(30\~70Hz)频段的短时的同步化增强。进一步分析揭示画家在操作艺术创造力任务时，其后侧颞枕叶(posterior occipitotemporal regions)出现了更多的delta神经振荡增强，右侧颞叶出现了更多的beta 和 gamma 神经振荡增强；非画家则是在额叶出现这些高频同步波。结果说明delta-beta与gamma 频段出现了交叉节律耦合中的能量-能量(幅值-幅值)耦合(amplitude-amplitudecoupling,AAC)，即较高节律振荡幅值(能量)变化受到低节律振荡的幅值(能量)调制。最近的一项研究也发现了类似的现象，Rosen 等人(2020)采用 SPM-EEG 结合的方法，探究双通道加工对爵士乐即兴创作这一创造力产生过程的影响。结果发现高质量的爵士乐创作与大脑左半球区域的高频神经振荡(beta 频段和 gamma 频段)相关，低质量的爵士乐创作表现与右半球颞顶叶联合皮层和右半球额极区域上更大的 beta频段和 gamma 频段神经振荡有关(Rosenet al.,2020)。这种在不同脑区之间的低频调制高频的 AAC 现象表明艺术创造力和个体前额叶、颞叶和少数枕叶或枕颞联合皮层脑区的关系十分密切，同时也表明经验丰富的艺术创作者和普通人在创造性任务中大脑不同脑区之间、不同脑区的内部联系以及半球间功能耦合的认知功能协作模式有一定的差异(Bhattcharya&Petsche,2005)。在一项运用 EEG 和 fMRI结合来探究顿悟与一般分析性试误思维之间差异的研究中，研究者首次发现了顿悟与试误之间的神经特异性证据。当被试解决RAT任务采用的是顿悟时，fMRI影像学证据表明，个体大脑主要激活了右半球前颞上回(anterior superior temporal gyrus,aSTG)；EEG 证据表明，在顿悟过程中伴随着alpha频段神经振荡的减弱，在顿悟前0.3秒时会突然产生高频 gamma 神经振荡(Jung-Beeman et al.,2004)。这反映了在与物体进入意识时，Gamma 神经振荡可能提供结合物体特征的手段(Tallon& Bertrand,1999)，与此同时 Gamma 神经振荡也与感觉和记忆过程有关，包括自上而下和自下而上的信息匹配(Herrmann,Munk,&Engel,2004)，从而表明alpha 与 gamma 节律耦合反映了顿悟产生过程中可能涉及信息的潜意识关联，以及随后将该信息绑定到感知中的认知机制。此外，在一项从静息态EEG来预测个体解决字谜问题和CRA任务时采用顿悟和试误思维倾向的研究中，通过拉普拉斯变换发现个体在使用顿悟的思维方式解决创造性问题时，在左侧颞极区域展现出 alpha 频段和 theta 频段神经振荡同步耦合增强的现象(Erickson et al.,2018)。这一现象表明左颞叶区域低节律 theta 神经振荡通过调节alpha 频段神经振荡，实现了远距离联想抑制能力增强，促进个体更远距离的语义连接，这与 theta 振荡在大范围大脑网络连接过程中的重要作用密切相关(Solomon et al.,2017)。
+
+综合以上，可以发现目前创造性研究领域中有关创造力产生过程中多频段神经振荡交叉节律耦合现象的研究较少，但这种现象却不能忽视，综合来看创造力产生过程中多频段神经振荡交叉节律耦合可能更多反映了额叶、颞叶、顶叶等多脑区之间信息交流的动态变化以及多种认知功能的协同作用机制，但具体准确的神经机制有待进一步研究。但值得注意的是创造力产生过程中的不同脑区间、同一脑区内部以及不同神经振荡间的CFC 现象都是一个十分值得未来研究关注并且深入研究的方向，创造力产生过程中的CFC可能更深刻地反映了一种更复杂的认知神经机制，能够促使我们更好地理解创造力的本质。
+
+# 4总结与展望
+
+通过上面对创造力产生过程中神经振荡相关研究的梳理和讨论，可以发现创造力作为一种高级的认知功能，其神经基础也并不局限于单一脑区，而是涉及多个脑区、多个脑网络的动态协作(Beaty et al.,2016; Sun et al.,2019)，它和个体额叶、颞叶和顶叶(少数顶枕联合区)有密切关系。借助高时间分辨率的神经电生理技术可以有效地探究在创造力产生过程中各个脑区之间的信息交流和动态协作。但创造力产生过程中神经振荡机制的研究结果仍存在一定差异，造成这种差异的结果可能因为：1)不同的实证研究中所采取的创造性任务的不同。不同的创造力任务测量所偏倚的重点是不同的,比如常见的AUT任务侧重于检测发散性思维，RAT 任务则更多侧重于语义的远距离连接，故多用来检测聚合性思维或者顿悟，而其他具体的艺术创造力任务多用于检测某一方面的艺术创造力。但问题就在于这些创造力任务所测得的"创造力"并不位于同一个架构体系下,有的侧重于一般的创造力领域(比如AUT、RAT),而有的则专注于衡量某一方面特殊的创造力，比如构思一副艺术画像或创作一首原创音乐等(刘春雷，王敏，张庆林,2009);2)不同的实证研究中所采取的实验的具体参数不同。虽然 EEG研究参数已经逐渐趋于统一，例如国际统一的10-20\10-10的电极位置以及参考电极的选择，但是不同研究之间的一些具体的参数以及具体的数据分析技术，比如事件相关同步化或去同步化以及不同脑区的功能连接、神经振荡耦合等技术，仍是具有一定的差异性，这也是创造性产生过程中神经振荡机制出现不一致结果的原因之一(Dietrich& Kanso,2010;Fink &Benedek,2014)；3)不同创造力实证研究中刺激材料、控制条件、时间、反应模式等因素的差异性，也是导致难以识别与创造力相关的可靠和可重复结果的重要原因，有研究者从神经效能的角度对这种差异性进行解释，认为神经效能在创造过程中起着重要作用，主要表现为大脑可通过控制信息加工自上而下的传输来对创造性观点生成过程中的认知资源进行分配，从而导致被试所激活创造力的脑区以及神经振荡因任务、刺激材料、控制条件、时间、反应模式等因素的不同而存在一定的差异(Fink& Neubauer,2006；沈汪兵，刘昌，陈晶晶,2010)。但与此同时，这也说明了alpha频段对于创造力产生的敏感性。
+
+随着认知神经科学技术发展和实验范式的逐步完善，创造力的认知神经机制也终将越来越清晰。但不可否定的是，在人们真正认识创造力之前还是有着诸多的问题和争议需要解决，未来探究创造力本质的研究可进一步从以下几方面进行努力。
+
+第一，在理论基础方面，要注意创造力的理论整合，建构统一的理论框架。到目前为止创造力的认知神经科学研究中出现的诸多问题，都源于缺乏一个整合的理论框架，对异质性问题进行解释。虽然目前大多数研究者将创造力定义为“在一定社会背景下产生新颖独特且具有社会价值和适用性的产品或想法的能力”，但不同的研究者对创造力的本质有着不同的理解。比如 Guilford 发散性思维理论(Guilford,1950)、Mednick 远距离联想理论(Mednick,1962)、以及Martindale 的低皮质唤醒理论(Martindale,1999)等等，这种研究理论的差异不仅是当下整合创造力研究理论框架的阻碍，更是加剧了人们对于创造力本质认识的困惑。因此，要积极促进实证研究与理论基础的紧密结合，理论与实证互相印证。此外，也应当借鉴其他学科领域研究成果，比如社会认知神经科学(Melloni,Lopez,& Ibanez,2014)揭示了不同的社会文化对于创造力产生的影响及其背后的神经机制(Ivancovsky,Kleinmintz,Lee,Kurman,&Shamay-Tsoory,2018)，全方位多角度地认识创造力的本质。
+
+第二，在研究手段层次，要注重多层次多手段联合。例如，除了从整体的角度关注创造力任务态与静息态之间的神经振荡差异外，也可以从局部的角度更细致地关注创造力产生过程中神经振荡随时间变化的动态过程，比如发散性思维产生过程中序列顺序效应的神经振荡机制。此外在运用神经电生理技术探究创造力本质时，应当注重动态与静态相结合的研究策略。在复杂的大脑神经网络中，神经振荡反映的是大脑神经网络信息流的大小和方向描述，是一种动态的信息传输特征，而大脑解剖学结构的连接可以被认为反映的是静态特征(Smith,Yu, Smulders,Hartemink,&Jarvis,2006)，将动态和静态两种特征结合起来，将能够更好地诠释神经信息流的方向变化，进而更精确地探索创造力的认知神经机制。除此之外，在创造力研究中应该适当地将神经电生理技术与神经调控技术结合起来，比如 EEG与tACS 相结合用于探究某一脑区神经振荡变化对创造力产生的影响，实现了从相关研究到因果研究的跨越(Herrmann,Struber,Helfrich,& Engel,2016)，进而为创造力人才培养提供了更加直接有效的科学依据。
+
+第三，在对创造力产生过程中的神经振荡进行研究时，应当根据不同的实验条件和研究目的适当地选择EEG 数据处理的算法。因为大脑神经元的活动信号具有很高的非线性特征，所以仅基于功率谱分析的神经振荡在某种层次上时难以揭示大脑活动的非线性动力学特征，可以使用更复杂的算法，比如计算大脑网络变化复杂度的样本熵(SampEn)算法。样本熵(SampEn)是用来度量神经元活动非线性特征的方法之一。原则上认为，SampEn 值越大，非线性程度越高，脑电信号越复杂；SampEn 值越小，自我相似性越高，非线性程度越低，信号越简单。样本熵统计量的精确性使其适用于分析脑电和其他复杂时间序列数据。比如国内邱江团队借助大样本脑影像(Gene-Brain-Behavior,GBB dataset)数据库，通过对某一大脑区域静息态大脑熵值(SampEn)的测量，发现发散性思维与负责认知灵活性的左背侧前扣带回皮质(left dorsal anterior cingulate cortex,dACC)和抑制控制的背外侧前额叶皮层(left dorsolateralprefrontal cortex,DLPFC)的采样熵之间存在显著的正相关关系。并且创造性各子维度分数(灵活性、流畅性和独创性)还与语义相关网络(MTG,IFG)的熵值之间呈正相关。另外。该结果在中国大学生数据集和美国宾夕法尼亚州立大学样本库上得到了良好的验证。该研究结果表明 SampEn 值与个体发散性思维成正比，静息态 SampEn 值越大，个体发散性思维越好(Shiet al.,2019)。故通过全脑范围内的静息态 EEG采样熵值或者额叶、顶叶等与创造性密切相关脑区的静息态EEG采样熵值对创造力认知机制进行研究，研究结果的生态性会更优秀，可以更加准确地探究创造力产生进程中的神经振荡机制。
+
+第四，在创造力研究领域中，除了任务态EEG的研究之外，创造性研究领域中静息态EEG 的研究应用也变得越来越重要。静息态EEG与任务态EEG 数据不同，静息态EEG 是一种完全随机信号。完全随机信号的频率、幅值、相位都是随机的，因此从理论上讲，不具备直接进行傅里叶变换的条件，无法采用时频分析和相位谱分析等方法表述其神经振荡机制。而是采用高阶的信号处理办法，比如多尺度熵(Multiscale entropy,MSE)、功率谱密度(power spectrum density, PSD)和拉普拉斯变换(surface Laplacian transformation)等。多尺度熵(MSE)与上文提到的样本熵(SampEn)类似，也是一种测量复杂度的算法。创造力可能涉及不同神经网络之间的各种复杂联系，而多尺度熵(MSE)可以表征具有多个时间序列尺度下的EEG 动力学固有的复杂性。在这种背景下，Ueno 等人(2015)首次尝试使用多尺度熵(MSE)来衡量高低创造力差异的老年被试在静息态下不同脑区的脑电EEG 的时间序列复杂性，来阐明健康老年个体创造力的神经生理学基础(Ueno et al.,2015)。Erickson 等人(2018)通过对被试静息态 EEG 数据进行拉普拉斯变换处理，通过 beta，theta 和 alpha 神经振荡差异性的神经生理标记，提前几周对人们在解决字谜问题和CRA任务是采用顿悟还是试误的问题解决方式的个体差异性进行了有效地预测(Erickson etal.,2018)。此外，最近的一项研究，Prent 和Smit (2020)采用 PSD 的算法处理个体静息态 EEG 数据数据，通过对不同个体静息态alpha 频段的功率谱密度 $( P ( f ) \propto f ^ { - \beta } )$ 的幂指数 $( \beta )$ 的差异性，成功地预测了高低创造力个体的差异(Prent & Smit,2020)。以上多尺度熵(MSE)、功率谱密度(PSD)和拉普拉斯变换(surface Laplacian transformation)等对于复杂静息态 EEG数据的处理算法，除了为我们未来从预测这个层面对于创造性本质的研究提供了有效的解决途径之外，更重要的是拓宽了我们未来的研究视野。
+
+第五，应当加强计算神经科学与大数据分析对创造力研究的推动作用。定量分析创造性产生过程中多频段神经振荡交叉耦合之间的耦合强度和方向的变化，探讨创造力产生与CFC指数之间更深刻的关系。与此同时可以通过神经生理学实验及计算结果反映对应的生理过程、机制以及潜在的生理学意义。在这基础之上，将神经生理学数据与行为学数据结合，然后通过计算神经建模和当下大热的决策树(Decision Tree)、随机森林(Random Forests)、支持向量机(support vector machine,SVM)等机器学习(Machine Learning)方法进行结合，通过大数据分析来实现对个体创造力发展的有效预测，从另一个视角为我们更加严谨精确地解释创造力产生过程中的神经振荡机制。
+
+# 参考文献
+
+陈群林.(2017)．预测创造性的脑影像指标体系的研究(博士学位论文)．西南大学，重庆.   
+刘春雷，王敏，张庆林.(2009)．创造性思维的脑机制．心理科学进展,17(1),106-111.   
+沈汪兵，刘昌，陈晶晶.(2010).创造力的脑结构与脑功能基础．心理科学进展,18(9),1420-1429.   
+Agnoli,S., Zanon,M.,Mastria,S.,Avenanti,A.,& Corazza,G.E.(2O2O).Predicting response originality through brain activity: An analysis of changes in EEG alpha power during the generation of alternative ideas. Neuroimage, 207,116385.   
+Arden，R.， Chavez,R. S.，Grazioplene，R.，& Jung，R.E. (2010). Neuroimaging creativity: A psychometric view. Behavioural Brain Research, 214(2),143-156.   
+Aron,A.R.,Robbins,T.W.,& Poldrack,R.A.(2Oo4). Inhibition and the right inferior frontal cortex. Trends in Cognitive Sciences, 8(4),170-177.   
+Aron,A.R.,Robbins, T. W.,& Poldrack,R.A. (2014). Inhibition and the right inferior frontal cortex: One decade on. Trends in Cognitive Sciences, 18(4),177-185.   
+Beaty,R.E.,Benedek,M., Silvia,P.J.,& Schacter, D.L. (2016). Creative cognition and brain network dynamics. Trends in Cognitive Sciences, 20(2), 87-95.   
+Beaty，R. E.，& Silvia, P. J. (2012). Why do ideas get more creative across time? An executive interpretation of the serial order efect in divergent thinking tasks.Psychology of Aesthetics, Creativity, and the Arts, 6(4),309-319.   
+Benedek, M.,Beaty,R., Jauk,E., Koschutnig, K.,Fink,A., Silvia,P.J.,... Neubauer, A. C.(2014). Creating metaphors: The neural basis of figurative language production. Neuroimage, 90, 99- 106.   
+Benedek,M.,Bergner,S., Konen,T.,Fink,A.,& Neubauer,A. C.(2011).EEG alpha synchronization is related to top-down processing in convergent and divergent thinking. Neuropsychologia, 49(12), 3505-3511.   
+Benedek,M.,Franz,F.,Heene,M.,& Neubauer,A. C.(2012).Differential effcts of cognitive inhibition and intelligence on creativity. Personality and Individual Differences, 53-334(4), 480-485.   
+Benedek,M.,Jauk,E.,Fink,A., Koschutnig,K.,Reishofer, G.,Ebner,F.,& Neubauer,A.C.(2014).To create or to recall? Neural mechanisms underlying the generation of creative new ideas. Neuroimage, 88,125-133.   
+Benedek，M.，Konen， T.，& Neubauer,A. C. (2012). Associative abilities underlying creativity. Psychology of Aesthetics, Creativity, and the Arts, 6(3),273-281.   
+Benedek, M.,& Neubauer, A.C. (2013). Revisiting Mednick's model on creativity-related differences in associative hierarchies. Evidence for a common path to uncommon thought. Journal of Creative Behavior; 47(4), 273-289.   
+Bhatacharya, J.,& Petsche, H. (20o5). Drawing on mind's canvas: Differences in cortical integration patterns between artists and non-artists. Human Brain Mapping, 26(1),1-14.   
+Bonnefond, M.,& Jensen, O. (2012). Alpha oscillations serve to protect working memory maintenance against anticipated distracters. Current Biology, 22(20),1969-1974.   
+Boot,N., Baas,M.，Muhlfeld, E., de Dreu, C.K.W.，& van Gaal, S. (2017). Widespread neural oscilations in the delta band dissociate rule convergence from rule divergence during creative idea generation. Neuropsychologia, 104, 8-17.   
+Brinkman,L., Stolk,A., Dijkerman, H. C., de Lange,F. P.,& Toni, I. (2014). Distinct roles for alphaand beta-band oscilations during mental simulation of goal-directed actions. Journal of Neuroscience, 34(44), 14783-14792.   
+Buzsaki, G.,& Draguhn,A. (20o4). Neuronal oscilations in cortical networks. Science (New York, N.Y.), 304(5679), 1926-1929.   
+Camarda,A.,Salvia,E., Vidal,J., Weil,B.,Poirel, N.,Houde,O.,...Cassoti,M. (2018). Neural basis of functional fixedness during creative idea generation: An EEG study. Neuropsychologia, 118, 4-12.   
+Cavanagh,J. F.,& Frank, M. J. (2014). Frontal theta as a mechanism for cognitive control. Trends in Cognitive Sciences, 18(8), 414-421.   
+Csicsvari,J., Jamieson,B., Wise,K.D.,& Buzsaki, G. (20o3). Mechanisms of gamma oscilations in the hippocampus of the behaving rat. Neuron, 37(2),311-322.   
+de Pesters,A., Coon, W.G., Brunner,P., Gunduz,A.,Ritaccio,A.L., Brunet,N.M.,.. Schalk, G.(2016). Alpha power indexes task-related networks on large and smal scales: A multimodal ECoG study in humans and a non-human primate. Neuroimage, 134,122-131.   
+Dietrich，A. (2oo3). Functional neuroanatomy of altered states of consciousness: The transient hypofrontality hypothesis. Consciousness and Cognition, 12(2), 231-256.   
+Dietrich,A.,& Kanso, R. (2010). A review of EEG, ERP, and neuroimaging studies of creativity and insight. Psychological Bulletin, 136(5), 822-848.   
+Dougherty, K., Cox, M. A.,Ninomiya,T.,Leopold, D.A.,& Maier,A. (2017). Ongoing alpha activity in V1 regulates visually driven spiking responses. Cerebral Cortex, 27(2),1113-1124.   
+Erickson,B., Truelove-Hill,M.,Oh,Y., Anderson,J., Zhang,F. Z.,& Kounios,J. (2018). Resting-state brain oscillations predict trait-like cognitive styles. Neuropsychologia, l20,1-8.   
+Fink,A.，& Benedek,M. (2014). EEG alpha power and creative ideation. Neuroscience and Biobehavioral Reviews, 44,111-123.   
+Fink,A.， Benedek，M.，Grabner,R. H.， Staudt，B.，& Neubauer, A.C. (2007). Creativity meets neuroscience: Experimental tasks for the neuroscientific study of creative thinking. Methods, 42(1), 68-76.   
+Fink, A., Grabner, R. H., Benedek, M.,& Neubauer, A. C. (20o6). Divergent thinking training is related to frontal electroencephalogram alpha synchronization. European Journal of Neuroscience, 23(8), 2241-2246.   
+Fink,A., Grabner, R. H., Benedek,M., Reishofer, G., Hauswirth, V., Faly, M.,... Neubauer, A.C. (2009). The creative brain: Investigation of brain activity during creative problem solving by means of EEG and fMRI. Human Brain Mapping, 30(3), 734-748.   
+Fink,A., Graif, B.,& Neubauer,A. C.(2009). Brain correlates underlying creative thinking: EEG alpha activity in professional vs. novice dancers. Neuroimage, 46(3), 854-862.   
+Fink,A.,& Neubauer, A. C. (20o8). Eysenck meets Martindale: The relationship between extraversion and originality from the neuroscientific perspective. Personality and Individual Differences, 44(1), 299-310.   
+Fink,A., Schwab,D., & Papousek, I. (2011). Sensitivity of EEG upper alpha activity to cognitive and affective creativity interventions. International Journal of Psychophysiology, 82(3),233-239.   
+Fink,A., Weiss,E.M., Schwarzl, U., Weber, H.,de Assuncao, V.L.,Rominger, C.,...Papousek,I. (2017). Creative ways to wel-being: Reappraisal inventiveness in the context of anger-evoking situations. Cognitive Afective & Behavioral Neuroscience, 17(1), 94-105.   
+Fries,P. (2005). A mechanism for cognitive dynamics: Neuronal communication through neuronal coherence. Trends in Cognitive Sciences, 9(10), 474-480.   
+Friston, K.J.,Bastos,A. M.,Pinotsis,D.,& Litvak,V. (2015).LFP and oscillations—what do they tell us? Current Opinion in Neurobiology, 31,1-6.   
+Gilhooly, K. J., Fioratou, E.,Anthony,S. H.,& Wynn, V. (2007). Divergent thinking: Strategies and executive involvement in generating novel uses for familiar objects. British Journal of Psychology, 98(4), 611-625.   
+Grabner, R.H., Krenn, J.,Fink,A.,Arendasy, M.,& Benedek, M. (2018). Efects of alpha and gamma transcranial alternating current stimulation (tACS) on verbal creativity and intelligence test performance. Neuropsychologia, 118,91-98.   
+Gregoriou, G. G., Gots, S.J., Zhou,H. H.,& Desimone,R.(2009). High-frequency,long-range coupling between prefrontal and vsual cortex during attention. Science, 324(5931),1207-1210.   
+Guilford,J. P. (1950). Creativity. American Psychologist, 5(9), 444-454.   
+Haegens,S., Nacher, V.,Luna,R.,Romo,R.,& Jensen, O. (2011).Alpha-Oscilations in the monkey sensorimotor network influence discrimination performance by rhythmical inhibition of neuronal spiking. Proceedings of the National Academy of Sciences of the United States of America, 108(48),19377-19382.   
+Herrmann, C. S., Munk, M. H.,& Engel, A. K. (2004). Cognitive functions of gamma-band activity: Memory match and utilization. Trends in Cognitive Sciences, 8(8),347-355.   
+Herrmann, C.S., Struber,D., Helfrich,R.F.,& Engel,A. K. (2016). EEG oscillations: From correlation to causality. International Journal of Psychophysiology, 103,12-21.   
+Ivancovsky, T.，Kleinmintz, O., Lee,J.， Kurman, J.,& Shamay-Tsoory， S.G. (2018). The neural underpinnings of cross-cultural differences in creativity. Human Brain Mapping, 39(11),4493- 4508.   
+Jauk,E., Benedek, M.,& Neubauer,A. C.(2012). Tackling creativity at its roots: Evidence for different patterns of EEG alpha activity related to convergent and divergent modes of task processing. International Journal of Psychophysiology, 84(2), 219-225.   
+Jensen, O.,& Colgin, L. L. (20o7). Cross-frequency coupling between neuronal oscilations. Trends in Cognitive Sciences, 11(7),267-269.   
+Jung-Beeman, M.,Bowden,E. M.,Haberman,J.,Frymiare,J.L.,Arambel-Liu, S., Grenblatt,R.,. Kounios,J. (2004). Neural activity when people solve verbal problems with insight. PLoS Biology, 2(4), E97.   
+Klimesch,W.， Sauseng,P.，& Hanslmayr, S. (2007). EEG alpha oscilations: The inhibition-timing hypothesis. Brain Research Reviews, 53(1), 63-88.   
+Kraus,B.,Cadle, C.,& Simon-Dack,S. (2019).EEG alpha activity is moderated by the serial order effect during divergent thinking. Biological Psychology, 145,84-95.   
+Lechinger,J., Wielek,T.,Blume,C.,Pichler,G.,Michitsch, G.,Donis,J.,...Schabus,M. (2016).Eventrelated EEG power modulations and phase connectivity indicate the focus of attention in an auditory own name paradigm. Journal of Neurology, 263(8), 1530-1543.   
+Luft, C. D.B., Zioga, 1., Banissy, M. J.,& Bhatacharya, J. (2019). Spontaneous visual imagery during meditation for creating visual art: An EEG and brain stimulation case study. Frontiers in Psychology, 10,210.   
+Luft, C. D.B., Zioga,I., Thompson, N. M.,Banissy, M.J., & Bhattacharya,J. (2018). Right temporal alpha oscillations as a neural mechanism for inhibiting obvious associations. Proceedings of the National Academy of Sciences of the United States of America, 115(52), E12144-E12152.   
+Lustenberger, C., Boyle, M.R.,Foulser,A. A., Mellin,J. M.,& Froehlich,F. (2015). Functional role of frontal alpha oscillations in creativity. Cortex, 67, 74-82.   
+Martindale, C. (1999). Biological bases of creativity. Cambridge, U.K.: Cambridge University Press.   
+Martindale, C.,& Hasenfus,N. (1978). EEG differences as a function of creativity,stage of the creative process,and effort to be original. Biological Psychology, 6(3),157-167.   
+Mednick, S.A. (1962). The associative basis of the creative process. Psychological Review, 69,220-232.   
+Melloni, M.，Lopez, V.，& Ibanez, A. (2014). Empathy and contextual social cognition. Cognitive Affective & Behavioral Neuroscience, 14(1),407-425.   
+Mendelsohn, G. A. (1976). Associative and atentional processes in creative performance. Journal of Personality, 44.   
+Palva, S.,& Palva, J. M.(2007). New vistas for $\mathfrak { a }$ frequency band oscillations. Trends in Neurosciences, 30(4), 0-158.   
+Pfurtscheller, G.，& Lopes da Silva, F. H. (1999). Event-related EEG/MEG synchronization and desynchronization: Basic principles. Clinical Neurophysiology, 110(11),1842-1857.   
+Prent, N., & Smit, D. J.A. (2020). The dynamics of resting-state alpha oscilations predict individual differences in creativity. Neuropsychologia, 142,107456.   
+Razumnikova, O. M. (2007). Creativity related cortex activity in the remote associates task. Brain Research Bulletin, 73(1-3),96-102.   
+Rominger, C.,Papousek,1., Perchtold, C.M.,Benedek,M., Weiss,E.M.,Schwerdtfeger,A.,&Fink,A. (2019). Creativity is associated with a characteristic U-shaped function of alpha power changes accompanied by an early increase in functional coupling. Cognitive Affective & Behavioral Neuroscience, 19(4),1012-1021   
+Rosen，D. S.，Oh,Y.，Erickson, B.， Zhang,F.，Kim,Y. E.，& Kounios,J. (2020). Dual-process contributions to creativity in jazz improvisations: An SPM-EEG study. Neuroimage, 213.   
+Runco,M. A., & Acar, S. (2012). Divergent thinking as an indicator of creative potential. Creativity Research Journal, 24(1), 66-75.   
+Runco,M.A., & Jaeger, G. J. (2012). The standard definition of creativity. Creativity Research Journal, 24(1), 92-96.   
+Samaha, J.,& Postle,B.R. (2015).The speed of alpha-band oscillations predicts the temporal resolution of visual perception. Current Biology, 25(22), 2985-2990.   
+Sauseng,P.,Klimesch, W., Doppelmayr, M., Pecherstorfer,T.,Freunberger,R.,& Hanslmayr, S. (2005). EEG alpha synchronization and functional coupling during top-down processing in a working memory task. Human Brain Mapping, 26(2),148-155.   
+Schwab,D.,Benedek,M.,Papousek,I., Weiss,E.M.,& Fink,A. (2014).The time-course ofEEG alpha power changes in creative ideation. Frontiers in Human Neuroscience,8,310.   
+Shi,L.,Beaty,R.E., Chen, Q., Sun, J., Wei,D., Yang, W.,& Qiu,J. (2019).Brain Entropy is Associated with Divergent Thinking. Cerebral Cortex, 30(2), 708-717.   
+Smith, V.A., Yu,J.,Smulders,T. V., Hartemink,A. J.,& Jarvis,E.D. (2006). Computational inference of neural information flow networks.Plos Computational Biology, 2(11),1436-1449.   
+Solomon, E.A., Kragel, J. E., Sperling, M.R., Sharan,A., Worrel, G., Kucewicz, M.,.. Stein, J. M. (2017). Widespread theta synchrony and high-frequency desynchronization underlies enhanced cognition. Nature Communications, 8(1), 1704.   
+Sternberg, R. J. (1996). Striving for creativity. Science (New York, N.Y.), 272(5270),1857-1858.   
+Sun, J. Z.,Liu,Z. W., Rolls,E.T.,Chen,Q.L.,Yao, Y., Yang, W.J.,... Qiu,J. (2019). Verbal creativity correlates with the temporal variability of brain networks during the resting state. Cerebral Cortex, 29(3),1047-1058.   
+Tallon,B.,& Bertrand. (1999). Oscillatory gamma activity in humans and its role in object representation. Trends in Cognitive Sciences, 3(4), 151-162.   
+Tiesinga,P.,Fellous, J. M.,& Sejnowski, T. J. (20o8). Regulation of spike timing in visual cortical circuits. Nature Reviews Neuroscience, 9(2), 97-109.   
+Ueno，K.， Takahashi,T.，Takahashi，K.，Mizukami,K.， Tanaka， Y.，& Wada， Y. (2015). Neurophysiological basis of creativity in healthy elderly people: A multiscale entropy approach. Clinical Neurophysiology, 126(3), 524-531.   
+Wang,M., Hao,N., Ku, Y., Grabner,R. H.,& Fink,A. (2017). Neural correlates of serial order effect in verbal divergent thinking. Neuropsychologia, 99, 92-100.   
+Wang,X.,Duan,H., Kan, Y., Wang,B., Qi, S.,& Hu, W. (2019). The creative thinking cognitive process influenced by acute stress in humans: An electroencephalography study. Stress, 22(4), 472-481.   
+Wang,X. J. (2010). Neurophysiological and computational principles of cortical rhythms in cognition. Physiological Reviews, 90(3),1195-1268.   
+Watson, B. O., Ding, M. X.,& Buzsaki, G. (2018). Temporal coupling of field potentials and action potentials in the neocortex. European Journal of Neuroscience, 48(7),2482-2497.   
+Wokke,M. E., Padding,L.,& Ridderinkhof, K. R. (2019). Creative brains show reduced mid frontal theta.bioRxiv 370-494.   
+Zabelina,D.L.,& Ganis, G. (2O18). Creativity and cognitive control: Behavioral and ERP evidence that divergent thinking, but not real-life creative achievement, relates to better cognitive control. Neuropsychologia, 118,20-28.   
+Zhou, Z., Hu,L., Sun, C.,Li, M., Guo,F.,& Zhao, Q. (2019). The effect of Zhongyong thinking on remote association thinking: An EEG study. Frontiers in Psychology, 10, 207.
+
+# Neural oscillation mechanism of creativity
+
+YE Chaoqun, LIN Yuhong, LIU Chunlei\* (School ofPsychology, Qufu Normal University,Qufu,273165,China)
+
+Abstract: Consensus on the origin of creativity has not been reached. Taking the advantage of high temporal resolution, electroencephalography can accurately reveal the neural oscillation mechanism in the process of creative production， which facilitates a deep understanding on the nature of creativity. In recent years, studies have revealed that alpha rhythm of neural oscillation increases along with increased creativity, which reflects an increased demand for internal processing and the top-down cognitive control during creativity generation. Meanwhile, cross-frequency coupling of neural oscillation reflects the dynamic exchange of information among multiple brain regions, such as frontal, temporal, and parietal lobes,during creative production. Future research,based on integrated theoretical framework as wellas multi-level and multi-approach research tools, needs to be conducted to introduce more ecological mathematical calculation methods,and to effectively predict the trend of individual creativity development through computational neuroscience modeling, which facilitates a more comprehensively and profoundly understanding of creativity.
+
+Key words: creativity, neural oscillation, electroencephalography (EEG),alpha neural oscillation, cross-frequency coupling (CFC)

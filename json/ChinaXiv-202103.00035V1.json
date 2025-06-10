@@ -1,0 +1,427 @@
+[
+    {
+        "type": "text",
+        "text": "半干旱沙地樟子松林降雨再分配特征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孙姗姗}²，刘新平'，王翠萍³，张铜会'，何玉惠'，吕朋¹2,车力木格1²，张腊梅4，王明明12，程莉1.2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.中国科学院西北生态环境资源研究院奈曼沙漠化研究站，甘肃 兰州73000；2.中国科学院大学,北京100101；3.国家林业和草原局西北调查规划设计院,陕西 西安710048；4.甘肃省通渭县林业和草原服务中心，甘肃 定西743300)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：森林植被的降雨再分配过程是影响区域水资源利用效率以及生态系统生产力的重要因素。于2018年5—8月观测27a生樟子松人工林降雨再分配特征，探究降雨再分配的比例变化对林地水分平衡的影响机制，分析、量化林内穿透雨、林冠截留、树干径流、枯落物层入渗部分产生的阈值。结果表明：樟子松林内穿透雨量占同期降雨量的 $8 6 . 4 5 \\%$ ，穿透雨量随着降雨量的增加呈线性增加趋势，降雨量 ${ > } 0 . 6 3 ~ \\mathrm { m m }$ 时产生穿透雨；林冠截留量和树干径流量分别占降雨量的 $10 . 4 4 \\%$ 和$2 . 5 4 \\%$ ，树干径流量与降雨量之间呈正线性关系，降雨量 ${ > } 1 . 1 9 ~ \\mathrm { m m }$ 时，产生树干径流；枯落物层截留量占降雨量的 $12 . 3 7 \\%$ ，枯落物层截留量随着降雨量的增加而增加；枯落物在 $0 { \\sim } 2 4 \\mathrm { h }$ 内平均吸水速率为 $1 . 8 3 ~ \\mathrm { m m ^ { . } h ^ { - 1 } }$ ，其最大持水量为 $3 . 2 3 ~ \\mathrm { m m }$ ,并且枯落物层截留量占其最大持水量的 $42 . 3 7 \\%$ 。从林冠到枯落物各层截留总量为 $2 5 . 3 5 \\%$ ,其中有 $7 4 . 6 5 \\%$ 的雨水最后从枯落物层入渗进入地表，用于补充土壤水分、下渗或补充地下水。半干旱沙地樟子松林可以有效地发挥截留降雨、贮存雨水的功能，继而改善沙地土壤含水量和地下水的有效补给量，提高森林生态系统生产力。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关 键词：樟子松林；降雨再分配；冠层截留；枯落物层截留；科尔沁沙地",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "降水是影响半干旱沙地森林植被生长的重要因子[1],同时，森林生态系统对降雨再分配过程、区域水分平衡机制有重要的调节作用[2]。在全球气候变化背景下，水资源的利用格局以及水文循环模式发生了变化，继而加剧了降水在全球范围内的不均匀分布[3]。林业用地在保护水资源方面具有非常重要的作用[4],构建合理的植被系统减少区域水土流失是有效的生物固沙措施[5]。樟子松(Pinussylves-trisvar.mongolicaLitv.)对科尔沁沙地极端降水环境的适应性较强，是该地区优良的防风固沙和水土保持树种[6-9]。研究显示,结构合理的森林生态系统可以通过不同层次的截留降低雨水直接冲刷地表的作用力，以及通过复杂的根系系统在一定程度上固持着土壤,减少水土流失[10-1]。焦树仁[12]研究发现樟子松林地土壤水分降低和较大的蒸腾作用导致了林地水分亏缺问题，森林水文学研究的重点趋势是在发挥人工林保持水土功能的同时降低植被系统对水分的消耗[13-15],然而目前对于樟子松林系统对天然降水利用机理的研究相对较少。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "森林冠层、枯落物层分别是影响降雨传输的第1、2个作用层，大气降雨通过林冠层后形成林冠截留、穿透雨和树干径流，最后形成枯落物层截留，这些截留过程改变了降雨特性，削减部分降雨动能，进而影响森林降雨再分配特征[16-17],起到防止土壤",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "侵蚀和涵养地区水源的作用[15.18]。我国干旱、半干旱地区降水较少，受全球气候变化影响，极端降水事件发生频率有所增加，因此关于区域降水特征及森林生态系统水文调节作用的研究亟待实施，旨在更好的了解森林生态系统对区域水资源的调节状况,提高植被水分利用效率,减少水土流失[16.19]。科尔沁沙地水资源短缺、水位下降问题严重[20],樟子松林植被群落系统的降雨再分配过程将会影响该沙区的生态环境现状。近年来樟子松人工林密植不合理等问题日益严重，导致人工林生长不完全甚至提前死亡，继而引起土壤干化、水分亏缺等一系列问题。然而目前关于干旱、半干旱地区樟子松林降雨截留机制的研究相对较少，并且仅仅集中于森林冠层单层或枯落物层单层的降雨截留效应[1.21-23]。鉴于以上问题，本文研究了科尔沁沙地樟子松人工林降雨再分配特征，旨在更加深入地了解一定林龄、种植密度的樟子松林冠层和林内枯落物层整体的截留、贮存雨水能力，从而进一步地完善樟子松人工林降雨截留机制的研究，对半干旱沙地樟子松林合理密度配置及其对天然降水的有效利用提供基础理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况与研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究于2018年在中国科学院奈曼沙漠化研究站 $\\langle 1 2 0 ^ { \\circ } 4 3 ^ { \\prime } \\mathrm { E } , 4 2 ^ { \\circ } 5 5 ^ { \\prime } \\mathrm { N }$ ；海拔 $3 6 0 \\mathrm { m }$ )樟子松人工林内进行，实验站位于科尔沁沙地中南部。研究区多年平均气温为 $5 . 8 { \\sim } 6 . 4 ~ ^ { \\circ } \\mathrm { C }$ ,平均降水量为 $3 5 1 . 7 \\ \\mathrm { m m }$ ，其中5一8月的降水约占年降水总量的 $7 9 . 4 4 \\%$ 。研究区属于温带半干旱大陆性季风气候[24]。研究区年平均蒸发量为 $1 9 7 2 . 8 ~ \\mathrm { m m }$ ,年平均风速为 $3 . 5 ~ \\mathrm { m \\cdot s ^ { - 1 [ 2 5 ] } }$ ○土壤类型以风沙土、栗钙土为主[26]。研究区樟子松人工林内，零星分布有灌木植物小叶锦鸡儿（CaraganamicrophyllaLam）,生长着优势植物狗尾草［Se-tariaviridis（L.）Beauv.]、画眉草[Eragrostispilosa(L.）Beauv.var.pilosa]、虎尾草（ChlorisvirgataSw.）、达乌里胡枝子［Lespedeza davurica（Laxm.）Schindl.]等[27]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1样地设置本研究于2018年5月选取奈曼沙漠化研究站内27a生樟子松人工林样地开展实验[8]。樟子松林密度为1765株· $\\mathrm { h m } ^ { - 2 }$ 、林冠投影面积为 $6 . 9 7 \\mathrm { m } ^ { 2 }$ ,通过踏查整个后山樟子松人工林，根据樟子松生长状况划分具有代表性的5块面积为20$\\mathrm { m } { \\times } 2 0 \\mathrm { ~ m ~ }$ 、条件相似的实验标准区域，样地之间距离大于 $1 0 0 \\mathrm { m }$ 。每个样地内选择长势良好的樟子松树木9株，一共选取45株樟子松标准木测量树干径流量。樟子松林样地概况如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2树干径流本研究在5块面积为 $2 0 ~ \\mathrm { m } { \\times } 2 0 ~ \\mathrm { m }$ 样地内，分别选取9株树干胸径在 $9 . 5 5 { \\sim } 1 6 . 5 5 ~ \\mathrm { c m }$ 之间的樟子松林标准木，共选取45株樟子松林标准木用于测量树干径流实验。实验将直径 $5 \\mathrm { c m }$ （厚度3$\\mathbf { m } \\mathbf { m }$ )的聚乙烯塑料软管沿纵面剖开，紧密缠绕在距离标准木基部 $1 \\mathrm { m }$ 的树干位置，用聚氨酯泡沫填充剂将塑料软管填充固定，用凡士林封严树皮与塑料软管之间的缝隙;同时，在软管下端口用内径 $8 ~ \\mathrm { m m }$ （厚度 $2 ~ \\mathrm { m m }$ )的透明橡胶管将雨水引流至地面 $1 0 \\mathrm { ~ L ~ }$ 的白色塑料桶内，待降雨结束后量取桶内雨量，并计算树干径流量(S)。计算公式为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS { = } V / A _ { 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中：S为树干径流量( $\\mathrm { { ( m m } }$ ； $V$ 为降雨结束后量取的桶内雨量(L); $A _ { 1 }$ 为树冠投影面积 $( \\mathbf { m } ^ { 2 } )$ O",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3林冠截留采用水量平衡法，测定并计算林冠截留量。采用梅花型布点，每个样地选取6个均匀点布置量雨筒测量林内穿透雨量 $( T )$ 。分别在每个样地外的空旷地带布置1个量雨筒量取(林外)降雨量 $( P )$ 。待每次降雨结束后量取量雨筒内雨量，并分别计算林内穿透雨量和林外降雨量。根据水量平衡公式，计算林冠截留量 $( C )$ 。计算公式为：",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/e783c4c0bd470417436dc44c2e480b6f8f75b78a35948196d7721fec53edf122.jpg",
+        "table_caption": [
+            "表1樟子松林生长特征",
+            "Tab.1 Growing characteristics of Pinus sylvestris var. mongolica forest "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">样地</td><td rowspan=\"2\">株数</td><td rowspan=\"2\">平均胸径/cm</td><td rowspan=\"2\">平均株高/m</td><td colspan=\"2\">冠幅</td><td rowspan=\"2\">林冠投影面积/m</td></tr><tr><td>东西/m</td><td>南北/m</td></tr><tr><td>1</td><td>69</td><td>12.63</td><td>5.99</td><td>3.84</td><td>1.91</td><td>5.85</td></tr><tr><td>2</td><td>73</td><td>13.38</td><td>6.10</td><td>4.06</td><td>2.13</td><td>6.81</td></tr><tr><td>3</td><td>55</td><td>12.27</td><td>5.54</td><td>4.36</td><td>2.04</td><td>7.05</td></tr><tr><td>4</td><td>90</td><td>12.88</td><td>5.77</td><td>4.79</td><td>2.26</td><td>8.63</td></tr><tr><td>5</td><td>66</td><td>12.22</td><td>5.59</td><td>3.97</td><td>2.08</td><td>6.51</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC = P - T - S\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $C$ 为林冠截留量( $\\mathrm { i m m }$ ）； $P$ 为林外降雨量 $( \\mathrm { m m } )$ ； $T$ 为林内穿透雨量！ $( \\mathrm { m m }$ ）； $s$ 为树干径流量 （204号 $\\left( \\mathrm { m m } \\right)$ 。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.4枯落物截留樟子松林内枯落物种类以樟子松针叶为主，樟子松球果、狗尾草、画眉草、虎尾草等物种为辅。实验使用 $2 0 \\thinspace \\mathrm { c m } { \\times } 2 0 \\thinspace \\mathrm { c m }$ 的正方形铁铲将林内枯落物平铺在 $2 0 \\mathrm { c m } { \\times } 4 0 \\mathrm { c m }$ 的长方形塑料盆内(盆底沿中心线裁有2个直径 $5 \\mathrm { m m }$ 的圆孔)，称取枯落物干重( ${ \\bf \\Xi } ( W _ { 1 } )$ 后，放置于每个样地测量穿透雨的量雨筒的位置两侧，待每次降雨结束后，立即称取盆内枯落物鲜重（ $( W _ { 2 } )$ ,得出枯落物的截留量 $( L )$ ○",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验同时测量枯落物不同时间段吸水速率。使用 $2 0 \\thinspace \\mathrm { c m } { \\times } 2 0 \\thinspace \\mathrm { c m }$ 的正方形铁铲将林内枯落物平铺在 $2 0 \\thinspace \\mathrm { c m } { \\times } 4 0 \\thinspace \\mathrm { c m }$ 的长方形塑料盆内，带回实验室测量。分别称取60个长方形塑料盆的枯落物干重$\\left( w _ { 1 } \\right)$ ，并且将盆内枯落物分别浸泡0.25、0.5、1、2、4、$6 、 8 、 1 0 、 2 4 \\mathrm { h }$ 和 $4 8 \\mathrm { { h } }$ 后称取盆内枯落物鲜重 $\\left( \\omega _ { 2 } \\right)$ ，计算枯落物不同时间段吸水速率 $( \\nu )$ 。枯落物截留量与枯落物不同时间段吸水速率的计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL = ( W _ { \\mathrm { 2 } } - W _ { \\mathrm { 1 } } ) \\div A _ { \\mathrm { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu = ( w _ { 2 } - w _ { 1 } ) \\div t \\div A _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $L$ 为枯落物截留量( $\\mathrm { i m m }$ ）； $W _ { 1 }$ 为枯落物干重$( \\mathrm { k g } ) ; W _ { \\mathrm { 2 } }$ 为枯落物鲜重 $( \\mathrm { k g } )$ 。 $\\mathbf { \\nabla } \\cdot \\mathbf { A } _ { 2 }$ 为枯落物盆面积$( \\mathbf { m } ^ { 2 } ) ; \\nu$ 为枯落物不同时间段吸水速率( $\\cdot \\mathrm { m } \\mathrm { m } \\cdot \\mathrm { h } ^ { - 1 }$ ) $w _ { 1 }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为枯落物干重 $( \\mathrm { k g } )$ ； $w _ { 2 }$ 为枯落物不同时间段鲜重$( \\mathrm { k g } )$ ;t为枯落物吸水时间(h)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1大气降雨与林内穿透雨特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "樟子松林观测实验于2018年5—8月持续进行，期间共有42次降雨，总降雨量为 $2 7 9 . 4 0 \\mathrm { m m }$ ，平均降雨强度为 $1 . 6 3 ~ \\mathrm { m m ^ { \\cdot } h ^ { - 1 } }$ 。其中有效降雨(降雨量$> 5 ~ \\mathrm { m m } \\dot { }$ )为14次，总有效降雨量为 $2 4 6 . 0 0 \\ \\mathrm { m m }$ ,平均有效降雨量为 $1 7 . 5 7 \\ \\mathrm { m m }$ ，平均有效降雨强度为4.11$\\mathbf { m } \\mathbf { m } \\cdot \\mathbf { h } ^ { - 1 }$ ，每次降雨量与降雨强度情况如图1所示。实验观测期间，14次有效降雨中有6次小雨( $5 \\mathrm { m m } <$ 降雨量 $< 1 0 \\ \\mathrm { m m }$ )，共计 $4 4 . 4 0 \\mathrm { m m }$ ，占总有效降雨量的$1 8 . 0 5 \\%$ ；4次中雨( $1 0 ~ \\mathrm { m m } <$ 降雨量 $< 2 5 \\ \\mathrm { m m } ,$ ，共计$6 4 . 0 0 \\ \\mathrm { m m }$ ，占总有效降雨量的 $2 6 . 0 2 \\%$ ;4次大雨（25$\\mathrm { m m } <$ 降雨量 $< 5 0 ~ \\mathrm { m m } ,$ ，共计 $1 3 7 . 6 0 ~ \\mathrm { m m }$ ，占总有效降雨量的 $5 5 . 9 3 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验期间，共观测到林内穿透雨14次，林外降雨总量为 $2 2 7 . 5 0 ~ \\mathrm { m m }$ ，林内穿透雨总量为196.69$\\mathbf { m } \\mathbf { m }$ ，占同期林外降雨量的 $8 6 . 4 5 \\%$ 。其中，林内穿透雨量最大值为 $4 3 . 6 3 ~ \\mathrm { m m }$ （降雨量为 $4 8 . 7 0 \\mathrm { m m }$ ，占林外降雨量的 $8 9 . 5 9 \\%$ ;林内穿透雨量最小值为1.53$\\mathbf { m } \\mathbf { m }$ （降雨量为 $2 . 4 0 \\ \\mathrm { m m } ,$ ），占林外降雨量的$6 3 . 7 5 \\%$ 。林外降雨量的大小会直接影响林内穿透雨量。根据实测数据分析表明，林内穿透雨量随着降雨量的增加呈线性增加的趋势，两者之间存在明显的正线性相关关系（ $R ^ { 2 } { = } 0 . 9 9 6 1$ ， $P { < } 0 . 0 0 0 1$ ；图2a)。由穿透雨量与降雨量的拟合回归方程 $y =$ $0 . 8 9 9 4 x { - } 0 . 5 6 5 5$ 可得,降雨量大于 $0 . 6 3 \\mathrm { m m }$ 时才会产生穿透雨。与14次穿透雨量相对应，穿透率与降雨量之间的拟合回归方程为 $y { = } 8 8 . 3 2 7 1 \\times \\left( 1 - \\mathrm { e } ^ { - 0 . 5 3 3 4 x } \\right)$ 中 $R ^ { 2 } { = } 0 . 6 8 2 5$ ， $P { < } 0 . 0 0 1$ ;图2b)。穿透率随着降雨量的增加先呈线性增加的趋势，当降雨量约为 $1 5 . 0 0 \\mathrm { m m }$ 时，穿透率随着降雨量的增加达到 $8 7 . 0 \\%$ ，而后趋于平缓。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/420bfd8abc0878815316a98f7325e223157a90f2ec976c60980f3d9098edd0cb.jpg",
+        "img_caption": [
+            "图1科尔沁沙地2018年5—8月降雨情况",
+            "Fig.1Precipitation characteristics of Horqin Sandy Land from May to August of 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/57cbc68785f6b64354580946a77ed1954ff7e496a458e096549a61e6f5a73ba5.jpg",
+        "img_caption": [
+            "干旱区地理"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2树干径流特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验期间，共观测到树干径流14次，树干径流总量为 $6 . 2 4 \\ : \\mathrm { m m }$ ，占林外降雨量的 $2 . 5 4 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中，最大树干径流量为 $1 . 2 5 ~ \\mathrm { m m }$ （降雨量为$4 6 . 2 0 ~ \\mathrm { m m }$ )，占林外降雨量的 $2 . 7 0 \\%$ ;最小树干径流量为 $0 . 1 0 \\mathrm { m m }$ （降雨量为 $5 . 4 0 \\mathrm { m m }$ )，占林外降雨量的$1 . 8 5 \\%$ 。通过曲线拟合树干径流与次降雨的关系、分析和比较后，得出：树干径流量随着大气降雨量的增加，呈显著的线性增加趋势，并且两者的拟合线性回归方程为 $y = 0 . 0 2 7 3 x - 0 . 0 3 2 4$ （ $R ^ { 2 } { = } 0 . 9 4 9 1$ ， $P <$ 0.0001;图3），由方程可得，当降雨量 ${ > } 1 . 1 9 ~ \\mathrm { m m }$ 时，开始产生树干径流。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/38176be1a1dd135ef04afc5c9cda842632d1510db1dafcab73134f635e70ff7e.jpg",
+        "img_caption": [
+            "图2穿透雨量、穿透率与降雨量的关系",
+            "图3树干径流量与降雨量的关系",
+            "Fig.3Relationship between stemflow and precipitation "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3林冠截留特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "樟子松林林冠层会截留部分大气降雨。实验期间，共观测到樟子松林林冠截留14次，林冠截留总量为 $2 9 . 9 8 ~ \\mathrm { m m }$ ,林外降雨总量为 $2 8 7 . 2 3 ~ \\mathrm { m m }$ ,樟子松林林冠截留量占林外降雨量的 $1 0 . 4 4 \\%$ 。其中，林冠截留量最大值为 $5 . 0 1 \\ \\mathrm { m m }$ （降雨量为 $2 3 . 2 0 ~ \\mathrm { m m }$ ），占林外降雨量的 $2 1 . 6 0 \\%$ ;林冠截留量最小值为0.40$\\mathbf { m } \\mathbf { m }$ （降雨量为 $1 2 . 6 0 \\ \\mathrm { m m } ,$ ），占林外降雨量的$3 . 1 3 \\%$ 。林冠截留量随着降雨量的增加而增加，通过曲线拟合林冠截留与次降雨的关系，发现幂函数模拟两者的关系效果最佳，其拟合方程为 $\\scriptstyle { y = 1 . 4 9 7 8 \\times }$ $\\left( 1 - \\mathrm { e } ^ { - 0 . 0 5 2 6 x } \\right)$ （ $R ^ { 2 } { = } 0 . 8 2 3 0$ $P { < } 0 . 0 0 0 1$ ，图4）。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/83a08bd44a8819a304b2b30d01f08c27301a697f76c09fd602a95137ca776eeb.jpg",
+        "img_caption": [
+            "Fig.2Relationship between throughfall, throughfall ratio and precipitation ",
+            "图4林冠截留量与降雨量的关系 Fig.4 Relationship between canopy interception and precipitation "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4枯落物截留特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验观测期间，樟子松林内枯落物截留总量为$2 4 . 4 7 ~ \\mathrm { m m }$ ，占同期林外降雨量的 $1 2 . 3 7 \\%$ 。其中，枯落物截留量最大值为 $4 . 9 0 \\ \\mathrm { m m }$ （降雨量为46.20$\\mathbf { m m } .$ )，占林外降雨量的 $1 0 . 6 1 \\%$ ;枯落物截留量最小值为 $0 . 0 5 \\mathrm { m m }$ （降雨量为 $1 . 2 0 \\ : \\mathrm { m m }$ )，占林外降雨量的$3 . 7 5 \\%$ 。樟子松林内枯落物截留量随着降雨量的增加而增加，并且两者之间存在幂函数关系，其拟合回归方程为 $y { = } 4 . 1 5 8 0 \\times \\left( 1 - \\mathrm { e } ^ { - 0 . 0 5 4 5 x } \\right)$ （ $R ^ { 2 } { = } 0 . 8 5 3 6$ ， $P <$ 0.0001；图5a）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "室内模拟实验中，樟子松林内枯落物不同时间段吸水能力的结果显示，樟子松林内枯落物一开始的吸水速率高达 $8 . 3 0 \\ \\mathrm { m m ^ { . } h ^ { - 1 } }$ ，在 $0 { \\sim } 1 5 ~ \\mathrm { m i n }$ 内吸水速率最大随后降低， $0 { \\sim } 2 4 \\mathrm { ~ h ~ }$ 的平均吸水速率为1.83$\\mathbf { m } \\mathbf { m } \\cdot \\mathbf { h } ^ { - 1 }$ ，浸水 $2 4 \\mathrm { ~ h ~ }$ 达到饱和。林内枯落物最大持水量为 $3 . 2 3 ~ \\mathrm { m m }$ ,林内枯落物截留量占其最大持水量的 $4 2 . 3 7 \\%$ 。枯落物不同时间段吸水速率与吸水时间存在幂函数关系，其拟合回归方程为 $\\scriptstyle y = 0 . 4 2 4 8 +$ $1 2 . 8 0 8 4 \\mathrm { e } ^ { - 2 . 0 5 5 6 x } ( R ^ { 2 } { = } 0 . 9 7 9 8 , P { < } 0 . 0 0 0 1$ ;图5b)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1冠层截留特征 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "樟子松林冠层是影响降雨再分配的第一个作用层，森林生态系统的冠层截留作用将降雨再分配为林冠截留、穿透雨和树干径流。不同森林类型的林冠截留量占降雨量的比例中，针叶林 $2 0 \\% { \\sim } 5 0 \\%$ ）总体上高于阔叶林( $1 0 \\% { \\sim } 3 5 \\%$ )[13],并且林龄相同的林冠截留能力与森林种植密度成正比。樟子松林平均穿透雨量占大气降雨量的 $5 1 \\% { \\sim } 7 8 \\% ^ { [ 2 8 ] }$ 。然而，本研究中樟子松林林冠截留量仅占降雨量的$1 0 . 4 4 \\%$ ，低于针叶林树冠平均截留水平；林内穿透雨量占大气降雨量的 $8 6 . 4 5 \\%$ ，高于平均穿透率。这可能由于降雨气象条件及林木林冠生长差异所致[29]。实验中樟子松林龄为 $2 7 \\mathrm { a }$ ,其他研究中樟子松林平均林龄为 $3 5 \\mathrm { ~ a } ^ { [ 1 1 , 2 2 - 2 3 ] }$ ,在植被生长期间,林木冠幅随着林龄的增加而增加，并且林木冠幅大小与林冠截留率存在正相关关系[14.30]。27a林龄的樟子松林冠幅与生长成熟的林木相比较低，对应地，林冠对大气降雨的拦截能力减弱，导致穿透雨率增加和林冠截留率降低。其次，研究观测到的14次有效降雨中，共有8次中雨和大雨，所占比例较大，利于穿透率的增加。较高的穿透雨量将会富集更多的土壤水分和养分，被植物根系所利用，进而促进森林植被的生长和发展。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "樟子松林树干径流可以为其根部土壤和林内植物生长提供营养物质[17.31]。树干径流量的变化与树干胸径、树皮粗糙程度、枝干分枝数等林木性质有关[32]。当林冠面积达到最大、相邻树木之间不存在相互影响、树皮最光滑时，将会产生最大的树干径流[18.33]。研究中樟子松林树干径流量随大气降雨量的增加而增加，呈线性正相关关系，不同于其他樟子松林降雨再分配研究结果[1,22-23]。Richard 等[34]的研究证明，森林年平均树干径流量不会超过年平均降水量的 $5 \\%$ ，本实验结果中树干径流率 $( 2 . 5 4 \\% )$ 0高于樟子松林平均径流率 $( 0 . 8 \\% { \\sim } 1 . 2 6 \\%$ )。实验选取的樟子松林树干胸径大小为 $9 . 5 5 { \\sim } 1 6 . 5 5 \\ \\mathrm { c m }$ ，显著低于其他研究中樟子松林平均胸径 $( 2 1 . 0 0 \\mathrm { c m } )$ ，当降雨量小于某一阈值时，树干径流率随树干胸径的降低而增大[17]。其次,年龄较低的樟子松林木生长状况不同于成熟林木，其吸水能力较强，在不同降雨梯度 $( 5 、 1 0 、 1 5 、 2 0 、 3 0 \\mathrm { m m }$ 和 $4 5 ~ \\mathrm { m m }$ )条件下，树干径流率随降雨量的增加线性增加。本研究中的树",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/180961eee787ee1a284282e6b93740c3fd0f73105752192515db021aab5e7a78.jpg",
+        "img_caption": [
+            "图5枯落物截留量以及枯落物不同时间段吸水速率",
+            "Fig.5Litter interception and the litter water absorption rate "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "干径流产生阀值 $( 1 . 1 9 \\mathrm { m m } )$ )显著低于其他研究结果$( 2 . 4 4 { \\sim } 5 . 2 0 ~ \\mathrm { m m } )$ )。鉴于本实验樟子松人工林生长状况分析可得：本实验中林木平均高度 $\\left( 5 . 8 0 \\mathrm { c m } \\right)$ 显著低于其他研究的平均株高( $1 1 . 4 0 ~ \\mathrm { c m } )$ ，低树高和低胸径的樟子松林在雨水径流过程中消耗雨水量少，并且较小的降雨量即可润湿树干基部继而产生树干径流。其次,该研究中樟子松人工林树种单一，生长均匀，冠幅较小，均使得降雨量较小时产生树干径流。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2枯落物层截留特征 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "樟子松林枯落物层是森林生态系统水文作用的第2层[35]，枯落物层对降雨的截留作用使得降雨缓慢入渗进入土壤继而增加土壤含水率[36。枯落物截留量受森林植被组成结构和降雨特征的影响[37]。枯落物层降雨截留过程与模拟吸水速率过程相似， $0 \\sim$ $5 \\mathrm { m i n }$ 内迅速吸水后缓慢吸水至饱和状态，最后滴落至地表土壤。研究显示，山杨(Populusdavidiana)枯落物的截留率为 $7 . 7 0 \\% \\sim 1 8 . 9 0 \\%$ ，白桦次生林的枯落物截留率为 $1 2 . 6 6 \\% { \\sim } 2 6 . 0 7 \\%$ ,本研究中樟子松林内枯落物截留率为 $1 2 . 3 7 \\%$ ,达到森林枯落物层平均截留水平。实验结果显示，林内枯落物截留量与降雨量之间存在正相关关系。由于实验观测期间，降雨强度均集中在 $1 . 6 0 \\mathrm { m m ^ { \\cdot } h ^ { - 1 } }$ 附近，降雨强度的单一性使得实验结果并未发现枯落物截留率与降雨强度成反比关系[38]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "森林生态系统地表的枯落物层最大持水量在$3 { \\sim } 5 ~ \\mathrm { m m }$ 的变化范围内[35.39],本实验中樟子松林枯落物层最大持水量为 $3 . 2 3 ~ \\mathrm { m m }$ ，达到林地枯落物层的平均持水能力。实验结果显示，林内枯落物截留量占其最大持水量的 $4 2 . 3 7 \\%$ ，达到森林生态系统枯落物层有效截流量占最大持水量的平均水平( $40 \\%$ 车$91 \\%$ )[40]。同时,枯落物的吸水速率随着浸泡时间的增加而显著降低，两者之间呈幂函数关系[41]，吸水$2 4 \\mathrm { h }$ 后达到饱和状态，吸水速率不再变化。理想状态下，当降雨量大于 $3 . 2 3 ~ \\mathrm { m m }$ 时枯落物层的雨水才会开始人渗进人地表，其余输人枯落物层的降雨被枯落物拦截，贮存在林内，可以避免地表在缺水时过度干旱、降低地表蒸发。实际降雨过程中，樟子松林内枯落物层随着降雨的输入在满足自身吸水需求的同时，不可避免的为地表输人雨水，该动态变化过程可以有效地提高土壤入渗量，降低地表径流。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "27a林龄的樟子松人工林穿透雨量、林冠截留量、树干径流量、枯落物层截留量分别占降雨量的$8 6 . 4 5 \\%$ 、 $1 0 . 4 4 \\%$ ） $2 . 5 4 \\%$ 和 $1 2 . 3 7 \\%$ ，并且根据各部分截留量与降雨量的拟合方程计算可得，穿透雨量、树干径流量和枯落物层入渗部分产生的阈值分别为 $0 . 6 3 \\cdot 1 . 1 9 \\mathrm { m m }$ 和 $3 . 2 3 ~ \\mathrm { m m }$ 。林冠对降水的再分配过程较为复杂，受林分特性和降雨特性的影响，会对樟子松人工林区域的水分循环产生重要影响。林冠对降雨的截留最终蒸发到大气，减少了林地的实际雨量和对土壤水分的补充。穿透雨量与林外降雨量呈明显的线性相关关系。树干径流的“点”式输入提高了林地土壤的水溶性养分离子，促进林地植物生长和养分循环。半干旱沙地樟子松林可以有效地发挥截留降雨、贮存雨水的功能，同时，密度配置合理的樟子松林具有较高的有效降雨量(穿透雨量和树干径流量)和较低的无效降雨量(林冠截留量)，可以提高其对天然降水的利用效率、进而提高森林生态系统生产力。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] Chen C F,Son N T,ChangL Y,et al.Monitoring of soil moisture variability in relation to rice cropping systems in the Vietnamese Mekong Delta using MODIS data[J].Applied Geography,2011,31 (2):463-475.   \n[2] Crockford R H,Richardson D P.Partitioning of rainfall into throughfall,stemslowed interception effect of forest type,ground cover and climate[J]. Hydrological Processes，20oo,14(1617): 2903-2920.   \n[3] Arnell N W. Climate change and global water resources: A new assessment[J]. Global Environmental Change,1999,9(99): S31-S49.   \n[4] 何常清,薛建辉,吴永波,等.岷江上游亚高山川滇高山栎林的 降雨再分配[J].应用生态学报,2008,19(9):1871-1876.[He Changqing,Xue Jianhui,Wu Yongbo,et al.Rainfall redistribution insubalpine Quercus aquifolioides forest inupper reaches of Minjiang River[J]. Chinese Journal of Applied Ecology,2OO8,19(9): 1871-1876.]   \n[5] Wang MC,Liu CP,Shen BH.Characterization of organic matter inrainfall, throughfall,stemflow,and streamwater from three subtropical forest ecosystems[J]. Journal of Hydrology,2OO4,289(1- 4): 275-285.   \n[6]移小勇,赵哈林,崔建垣,等.科尔沁沙地不同密度(小面积)樟 子松人工林生长状况[J].生态学报,2006,26(4):1200-1206. [Yi Xiaoyong,Zhao Halin,Cui Jianyuan,etal.Growth of small reaPinus sylvestris var.mongolica artificial forest under different densities inHorq SandyLand,northofChina[J].Acta colgica Sinica,2006,26(4): 1200-1206.] [7]于兴修,杨桂山,王瑶.土地利用/覆被变化的环境效应研究进 展与动向[J].地理科学,2004,24(5):627-633.[Yu Xingxiu, Yang Guishan, Wang Yao. Advances in researches on environmental effcts of land use/cover change[J]. Scientia Geographica Sinica,2004,24(5): 627-633.] [8]刘新平,何玉惠,魏水莲,等.科尔沁沙地樟子松(Pinus sylvestris var.mongolica)生长对降水和温度的响应[J].中国沙漠,   \n2016,36(1): 57-63.[Liu Xinping,He Yuhui, Wei Shuilian, et al. Growth response of Pinus sylvestris var.mongolica to precipitation and air temperature in the Horqin Sandy Land[J]. Journal of Desert Research,36(1): 57-63.] [9]马成忠,邓继峰,丁国栋,等.不同初植密度樟子松人工林对毛 乌素沙地南缘土壤粒度特征的影响[J].水土保持学报,2017,   \n31(1): 230-235.[Ma Chengzhong,Deng Jifeng, Ding Guodong,et al.Effectsof different planting densities ofmongolan pine on the soil particle size characteristics in southern Mu Us Desert[J]. Journal of Soil and Water Conservation,2017,31(1): 230-235.] [10] 赵海蓉,帅伟,李静,等.华西雨屏区几种典型人工林降雨截留 分配特征[J].水土保持学报,2014,28(6):94-100.[Zhao Hairong,Shi Wei,Li Jing,et al.Distribution characteristics of several typical plantation intercept rainfall in west China rain screen area [J]. Journal of Soiland Water Conservation,2014,28(6): 94-10.] [11] 刘亚,阿拉木萨,曹静.科尔沁沙地樟子松林降雨再分配特征 [J].生态学杂志,2016,35(8): 2046-2055.[Liu Ya,Alamusa, Cao Jing. Characteristics of rainfall partitioning by Pinus sylvestris var. mongolica forest canopy in Horqin Sandy Land,northern China[J]. Chinese Journal of Ecology,2016,35(8): 2046-2055.] [12]焦树仁.樟子松沙地造林技术综述[J].防护林科技,2010(6):   \n52-54.[Jiao Shuren. Review of afforestation technology of Pinus sylvestris var.mongolica[J].Protection Forest Science and Technology,2010(6): 52-54.] [13] 孙向阳,王根绪,李伟,等.贡嘎山亚高山演替林林冠截留特征 与模拟[J].水科学进展,2011,22(1):23-29.[Sun Xiangyang, Wang Genxu,Li Wei,et al. Measurements and modeling of canopy interception in the Gongga Mountain subalpine succession forest[J].Advances in Water Science,2011,22(1): 23-29.] [14] 赵鸿雁,吴钦孝,刘国彬.黄土高原人工油松林枯枝落叶层的水 土保持功能研究[J].林业科学,2003,39(1):168-172.[Zha0 Hongyan,Wu Qinxiao,Liu Guobin. Studies on soil and water conservation functions of litter in Chinese pine stand on Loess Plateau [J]. Scientia Silvae Sinicae,2003,39(1): 168-171.] [15] 蔡体久,朱道光,盛后财.原始红松林和次生白桦林降雨截留分 配效应研究[J].中国水土保持科学,2006,4(6):61-65.[Cai Tijiu, Zhu Daoguang,Sheng Houcai. Rainfall redistribution in virgin Pinus koaiensis forest and secondary Betual platyphylla forest in northeast China[J]. Science of Soil and Water Conservation,2006 4(6): 61-65]   \n[16]万师强,陈灵芝.东灵山地区大气降水特征及森林树干茎流[J]. 生态学报,200,20(1):62-68.[Wan Shiqiang,Chen Lingzhi. Characteristics of precipitation and forest stemflow of Dongling Mountainous area[J]. Acta Ecologica Sinica, 200o,20(1): 62-68.]   \n[17]孙忠林,王传宽,王兴昌,等.两种温带落叶阔叶林降雨再分配 格局及其影响因子[J].生态学报,2014,34(14):3978-3986. [Sun Zhonglin,Wang Chuankuan,Wang Xingchang,etal. Rainfall redistribution paterns and their influencing factors of two temperate deciduous forests[J]. Acta Ecologica Sinica,2014,34(14): 3978-3986.]   \n[18]郝帅,张毓涛,刘端,等.不同郁闭度天山云杉林林冠截留量及 穿透雨量特征研究[J].干旱区地理,2009,32(6):917-923.[Hao Shuai, Zhang Yutao,Liu Duan,et al. Characteristics of canopy interception and throughfall of Picea schrenkiana var.tianschanica (Rupr.）Chen et Fu[J].Arid Land Geography,2009,32(6): 917- 923.]   \n[19] 胡珊珊,于静洁,胡堃,等.华北石质山区油松林对降水再分配 过程的影响[J].生态学报,2010,30(7): 1751-1757.[Hu Shanshan, Yu Jingjie,Hu Kun,et al. Impacts of Chinese pine (Pinus tabulaeformis） plantations on rainfall redistribution processes:A case study for the mountainous area of north China[J]. Acta Ecologica Sinica,2010,30(7): 1751-1757.]   \n[20] 张继义,赵哈林,崔建垣,等.科尔沁沙地樟子松人工林土壤水 分动态的研究[J].林业科学,2005,41(3):1-6.[Zhang Jiyi,Zhao Halin,Cui Jianyuan,et al.Community structure,soil water dynamics and community stability of Pinus sylvestris var.mougolica plantation in Horqin Sandy Land[J]. Scientia Silvae Sinicae,2005,41 (3): 1-6.]   \n[21] 曾德慧,裴铁璠,范志平,等.樟子松林冠截留模拟实验研究[J] 应用生态学报,1996,7(2):134-138.[Zeng Dehui,Pei Tiefan, Fan Zhiping. Simulation of canopy interception by Mongolian pine [J]. Chinese Journal of Applied Ecology,1996,7(2): 134-138.]   \n[22] 李奕,蔡体久,满秀玲,等.大兴安岭地区天然樟子松林降雨截 留再分配特征[J].水土保持学报,2014,28(2):40-44.[Li Y, Cai Tijiu,Man Xiuling,etal. Canopy interception and its distribution characteristics of Scotch pine forest in Da Xin'an Mountains [J]. Journal of Soil and Water Conservation,2014,28(2): 40-44.]   \n[23]Li Y,Cai TJ, Man XL,et al. Canopy interception loss in a Pinus sylvestris var. mongolica forest of northeast China[J]. Journal of Arid Land,2015,7(6): 831-840.   \n[24] Liu XP, He YH, Zhao X Y, et al. Characteristics of deep drainage and soil water in the mobile sandy lands of Inner Mongolia, northern China[J]. Journal of AridLand,2015,7(2): 238-250.   \n[25] 吕朋,左小安,张婧,等.放牧强度对科尔沁沙地沙质草地植被 的影响[J].中国沙漠,2016,36(1):34-39.[Lu Peng,Zuo Xiaoan, Zhang Jing,et al. Eects of grazing intensity on vegetation in sandy grassland of Horqin[J]. Journal of Desert Research,2016, 36 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1): 34-39.] ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[26] 吕朋,左小安,孙珊珊,等.科尔沁沙地退化植被恢复过程中碳 氮化学计量特征的变化[J].干旱区地理,2019,42(3):606-614. [Lu Peng,Zuo Xiaoan, Sun Shanshan,et al. Changes of carbon and nitrogen stoichiometry in the restoration process of degraded vegetation in Horqin Sandy Land[J].Arid Land Geography,2019, 42(3): 606-614.]   \n[27] 黄刚,赵学勇,苏延桂,等.科尔沁沙地樟子松人工林对微环境 改良效果的评价[J].干旱区研究,2008,25(2):212-218.[Huang Gang,Zhao Xueyong,Su Yangui, et al. Assessment on the effects of Pinus sylvestris var.mongolica plantation on microenvironment improvement in the Horqin Sandy Land[J].Arid Zone Reseach, 2008,25(2): 212-218.]   \n[28] Cape JN, Brown A HF,Robertson S MC,et al.Interspecies comparisons of throughfall and stemflow at three sites in northern Britain[J].Forest Ecology and Management,1991,46(3): 165-177.   \n[29] 鲍文,何丙辉,包维楷,等.森林植被对降水的截留效应研究[J]. 水土保持研究,2004,11(1):193-197.[Bao Wen,He Binghui, Bao Weikai,et al.Review on rainfall interception researches of forest vegetation[J].Research of Soil and Water Conservation, 2004,11(1): 193-197.]   \n[30] 赵鸿雁,吴钦孝,刘国彬.山杨林的水文生态效应研究[J].植物 生态学报,2002,26(4): 497-500.[Zhao Hongyan,Wu Qinxiao,Liu Guobin. Studies on hydro-ecological efects of Populous davidiana stand[J]. Acta Phytoecologica Sinica,2002,26(4): 497-450.]   \n[31]Nanko K,Onda Y,Ito A,et al. Spatial variability of throughfall under a single tree: Experimental study of rainfall amount, raindrops, and kinetic energy[J]. Agricultural and Forest Meteorology,2011, 151(9): 1173-1182.   \n[32] SilesP,Vaast P,Dreyer E,et al. Rainfallpartitioning into throughfall,stemflow and interception loss in a coffee (Coffea arabica L.) monoculture compared to an agroforestry system with Inga densiflora [J]. Journal of Hydrology (Amsterdam),2010,395(1-2):39-48.   \n[33]Abaol JR, Morales D,Hernandez M,et al. The measurement and modelling of the variation of stemflow in a laurel forest in Tenerife, Canary Islands[J]. Journal of Hydrology,1999,221(3-4): 161-175.   \n[34]Richard L.Forest hydrology[M].New York: Columbia University Press,1980.   \n[35] 李奕,满秀玲,蔡体久,等.大兴安岭山地樟子松天然林土壤水 分物理性质及水源涵养功能研究[J].水土保持学报,2011,25 (2): 87-96.[Li Yi, Man Xiuling, Cai Tijiu,et al.Research on physical properties of soil moisture and water conservation of scotch pine forest in Da Xing'an Mountains[J].Journal of Soil and Water Conservation,2011,25(2): 87-96.] [36] Das T,Das A K.Litter production and decomposition in the forested areas of traditional homegardens: A case study from Barak Valley,Assam, northeast India[J].Agroforestry Systems,2O10,79(2):   \n157-170. [37] 田风霞,赵传燕,冯兆东,等.祁连山青海云杉林冠生态水文效 应及其影响因素[J].生态学报,2012,32(4):1066-1076.[Tian Fengxia, Zhao Chuanyan,Feng Zhaodong,et al. Eco-hydrological effects of Qinghai spruce (Picea crassfolia) canopy and its influence factors in the Qilian Mountains[J].Acta Ecologica Sinica,   \n2012,32(4): 1066-1076.] [38] 季冬,关文彬,谢春华.贡嘎山暗针叶林枯落物截留特征研究 [J].中国水土保持科学,2007,5(2): 86-90.[Ji Dong,Guan Wenbin,Xie Chunhua,et al.Litters interception capability of dark coniferous in Gongga Mountain[J]. Science of Soil and Water Conservation,2007,5(2): 86-90.] [39] 陈书军,陈存根,邹伯才,等.秦岭天然次生油松林冠层降雨再 分配特征及延滞效应[J].生态学报,2012,32(4):1142-1150. [Chen Shujun,Chen Cungen, Zou Bocai,et al. Time lag effcts and rainfall redistribution traits of the canopy of natural secondary Pinus tabulaeformison precipitation in the Qinling Mountains, China[J]. Acta Ecologica Sinica,2012,32(4): 1142-1150.] [40] 牛勇,刘洪禄,张志强.北京地区典型树种及非生物因子对枯 落物水文效应的影响[J].农业工程学报,2015,31(8):183-189. [Niu Yong,Liu Honglu, Zhang Zhiqiang.Effects of typical tree species and abiotic factors on hydrologic characters of forest litter in Beijing[J]. Transactions of the Chinese Society of Agricultural Engineering (Transactions of the CSAE),2O15,31(8):183-   \n189.] [41] 时忠杰,王彦辉,徐丽宏,等.六盘山主要森林类型枯落物的水 文功能[J].北京林业大学学报,2009,31(1):91-99.[Shi Zhongjie,Wang Yanhui,Xu Lihong,etal.Hydrological functions of litter layer of typical forest types in the Liupan Mountains of Ningxia,northwestern China[J]. Journal of Beijing Forestry University. 2009,31(1): 91-99.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Precipitation redistribution characteristics of Pinus sylvestris var. mongolica in semiarid sandy land ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "SUN Shanshan'²，LIU Xinping'，WANG Cuiping'， ZHANG Tonghui'，HE Yuhui', LYU Peng¹²， Chelmeg¹²， ZHANG Lamei4， WANG Mingming1²， CHENG Li¹²2 (1.NaimanDesertificationResearch Station,Northwest InstituteofEco-Environmentand Resources,Chinese Academyof Sciences,Lanzhou 730oo,Gansu,China;2.UniversityofChinese Academy ofSciences,Beijingl0ol01,China; 3.NorthwestSurveying,PlaningandDesigningInstituteofNationalForestryand GrassandAdministration,Xi'an70048, Shaanxi,China;4.ForestryandGrassandSrviceCenterinTongweiCountyGansuProvince,Dingxi7433oo,Gansu,Cina) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The precipitation redistribution process of forest vegetation is an essential factor affecting regional water use eficiency and ecosystem productivity，which can also regulate the mechanism of water resource balance.The precipitation interception by vegetation during and after rain events is an important component of the hydrological cycle of forest ecosystems in arid and semiarid sandy grassland. Pinus sylvestris var. mongolica Litv. is the main water and soil conservation species in the semiarid sandy land.It plays a significant role in regulating regional hydrological processes. There was the water resource deficit and water level drop in Horqin Sandy Land,the precipitation interception by Pinus sylvestris var. mongolica planted forest can affect the regional ecological environment.We investigated the precipitation redistribution characteristics of Pinus sylvestris var. mongolica planted forest in Horqin Sandy Land from May to August in 2O18.The study aims to analyze and quantize precipitation redistribution paterns (throughfall,canopy interception,stemflow,and liter layer iterception) of Pinus sylvestris var.mongolica.Simultaneously,we calculated how many precipitation magnitudes distributed to the surface soil,to evaluate the regional soil water content and efective supply of groundwater in the planted forest of Pinus sylvestris var. mongolica.A canopy of Pinus sylvestris var. mongolica is the first layer affecting precipitation redistribution. Canopy interception rate decreased and then stabilized with the precipitation increase,which also can be linearly corelated with canopy closure and leaf area index,which is affected by its canopy structure. The atmospheric precipitation passes through the forest canopy to form throughfall, canopy interception, stemflow.Throughfallof Pinus sylvestris var. mongolica accounted for $8 6 . 4 5 \\%$ of the total precipitation,and linearly increased with the precipitation $( y = 0 . 8 9 9 4 x - 0 . 5 6 5 5$ $R ^ { 2 } { = } 0 . 9 9 6 1$ ， $P { < } 0 . 0 0 0 1$ ） Throughfall occurred when the precipitation exceeded $0 . 6 3 ~ \\mathrm { \\ m m }$ .The canopy interception and stemflow accounted for $10 . 4 4 \\%$ and $2 . 5 4 \\%$ of the total precipitation，respectively. There was the power function relationship between canopy interception and precipitation $( y = 1 . 4 9 7 8 \\times ( 1 - \\mathrm { e } ^ { - 0 . 0 5 2 6 x } )$ ， $R ^ { 2 } { = } 0 . 8 2 3 0$ $P { < } 0 . 0 0 0 1 \\$ ,and the positive linear relationship between stemflow and precipitation $( y = 0 . 0 2 7 3 x - 0 . 0 3 2 4$ ， $R ^ { 2 } { = } 0 . 9 4 9 1$ ， $P { < } 0 . 0 0 0 1 \\$ )， stemflow occurred when the precipitation exceeded $1 . 1 9 ~ \\mathrm { m m }$ .The litter is the second active layer affecting the precipitation redistribution, the interception of the litter layer accounted for $12 . 3 7 \\%$ of the total precipitation and increased with precipitation $( y { = } 4 . 1 5 8 0 \\times ( 1 { - } \\mathrm { e } ^ { - 0 . 0 5 4 5 x } )$ ， $R ^ { 2 } { = } 0 . 8 5 3 6$ ， $P { < } 0 . 0 0 0 1$ ). The average water absorption rate of litter in the range of $0 - 2 4 \\mathrm { ~ h ~ }$ was $1 . 8 3 ~ \\mathrm { m m } \\cdot \\mathrm { h } ^ { - 1 }$ . The maximum water holding capacity was $3 . 2 3 ~ \\mathrm { m m }$ ，and the interception of the litter layer accounted for $4 2 . 3 7 \\%$ of its maximum water holding capacity. The total interception from the canopy to the litter was $2 5 . 3 5 \\%$ . The remaining $74 . 6 5 \\%$ precipitation finally infiltrated into the soil surface from the liter layer to replenish soil moisture and groundwater.We obtained that the rainfall redistribution paterns of Pinus sylvestris var.mongolica forest varied with the precipitation characteristics (such as precipitation amountand intensity)and its canopy structure characteristics.The Pinus sylvestris var. mongolica forest can efectively intercept and store precipitation.Thus,increasing water effective rechargeof forest land wil improve the relationship between vegetation and precipitation to enhance the productivity of the forest ecosystem. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words: Pinus sylvestris var.mongolica; precipitation redistribution; canopy layer interception; liter layer interception; Horqin Sandy Land ",
+        "page_idx": 8
+    }
+]

@@ -1,0 +1,153 @@
+# 基于波纹管的气压式力促动器设计与实测
+
+王正兰'，杨德华，吴常铖¹，金振宇²(1.南京航空航天大学自动化学院，江苏 南京 211106)
+
+(2.中国科学院云南天文台，云南昆明650011)
+
+摘要：针对 $2 m$ 环形太阳望远镜主镜轴向支撑设计需求和指标，研制了一种基于波纹管的气压式力促动器，开展了全面实验测试。该气压式力促动器采用可伸缩高强度高弹性金属波纹管作为核心器件，采用线性轴承作为导向机构，并集成单向压力传感器作为力反馈元件，同时在设计中考虑了安装调整工艺便捷性。经测试，该气压式力促动器单向输出力达200N，输入气压与输出力线性度误差小于 $2 \%$ ，力分辨率小于0.23N，闭环力精度优于$\pm 0 . 3 N$ 。测试结果验证了该气压式力促动器原理和结构简单，安装维护工艺良好，达到了设计指标，可满足 $2 m$ 环形太阳望远镜主镜轴向支撑的需求。研制工作为气压式力促动器的设计细节改进及主镜支撑系统的工艺优化奠定了基础，并可为其它精密光学镜面支撑系统的工程应用提供参考。
+
+关键词：太阳望远镜；轴向支撑；波纹管；力促动器；气压式力促动器中图分类号：TH751文献标识码：A 文章编号：1672-7673(2018)03
+
+云南天文台 $2 m$ 环形太阳望远镜[1-4主镜外径 $2 0 2 0 \mathsf { m m }$ ，边缘厚度 $1 5 0 \mathsf { m m }$ ，中孔直径$1 3 0 0 \mathsf { m m }$ 。轴向支撑系统拟采用一种半主动式轴向支撑方式5，即采用36个气压式力促动器作为主镜轴向支撑机构，同时，采用3个位移促动器实现主镜的轴向位置及倾斜姿态的调整和定位[，但不对主镜提供支撑力。前期对 $2 m$ 环形主镜支撑系统开展了设计方案优化设计，优化分析表明，当主镜水平时，每个轴向支撑点支撑力最大，为161.86N，反射面精度为3nmRMS；而要保证镜面反射面精度达 $1 0 \mathrm { ~ n m ~ R M S }$ ，轴向支撑力均匀随机误差应不超出（-0.5， $+ 0 . 5$ ） $N ^ { [ 8 ] }$ 。
+
+前期优化设计的分析结果，为其轴向支撑力促动器提供了具体设计指标和要求。经力促动器设计方案分析，确定了采用气压式力促动器作为主镜轴向支撑单元部件9；开展了基于波纹管作为核心功能器件的气压式力促动器的具体设计，完成了全面的测试实验，并采用该气压式力促动器设计构建了一套简化的9点式主镜轴向支撑系统样机系统。促动器测试结果表明，闭环输出力的精度达到了设计指标，且结构简单，具有良好的加工工艺；可从镜室背面安装和拆卸，安装高度调整方便，具有良好的安装和维护工艺性。
+
+# 1力促动器方案分析
+
+目前，天文望远镜镜面或其它精密光学镜面常用力促动器的形式主要包括电动机械式、压电式、液压式和气动式等。电动机械式力促动器采用步进电机结合丝杠实现线性位移精确输出实现，具有结构简单、精度较高等特点，但机械部件需要很高的润滑要求，维护成本较高；压电式力促动器基于智能陶瓷材料的逆压电效应实现位移精确输出，并采用弹簧元件转化为力输出，具有高精度、高频率的特点，但造价较昂贵；液压式力促动器造价较高，防漏工艺复杂，泄露将会对仪器和环境造成难以处理的污染。气压式力促动器具有原理和结构简单，性能稳定，造价成本低，系统清洁，具有良好的可靠性和可维护性。针对
+
+2m 环形太阳望远镜主镜支撑系统支撑状态变化极其缓慢、动态性能要求极低的特性，确定采用气压式力促动器作为主镜轴向支撑核心单元部件。
+
+# 2气动力促动器设计
+
+# 2.1设计指标及工艺要求
+
+$2 m$ 环形镜面与传统全口径镜面或中孔相对较小的镜面对支撑性能的需求有所差异，2m 环形主镜对支撑系统的灵活性和灵敏性要求更高。前期主镜支撑系统方案设计和分析表明，每个轴向支撑点最大理论支撑力为161.86N，因此取力促动器最大输出力不小于200N；轴向支撑力均匀随机误差要求在（-0.5， $+ 0 . 5$ ）N内方可保证镜面反射面精度达10nm RMS，因此要求力促动器输出力误差不超过 $\pm 0 . 5 ~ \mathsf { N }$ ；输出力的分辨率应不大于其误差的1/3，因此取力分辨率设计要求为不大于 $0 . 3 \mathsf { N }$ 。力促动器设计方案还应考虑到安装工艺良好和高度调整方便，要求力促动器可从镜室背面安装和拆卸；且由于镜室的安装面高低及气动力促动器本身长度存在误差等因素，要求其可调高度范围为 $\pm 2 \mathsf { m m }$ 。
+
+# 2.2设计方案
+
+根据2m环形太阳望远镜的技术需求，设计了带测压反馈元件的气压式力促动器。见图1（a）气压式力促动器设计图，为克服传统气缸-活塞式结构的固有摩擦和迟滞的缺点，采用了高强度高弹性金属波纹管作为核心可伸缩气密压力输出器件，下文称之为弹性气缸，采用线性轴承作为轴向导向机构，为减小促动器总体高度，并使设计紧凑，将线性导向轴承从下方固连在上端盖下侧。鉴于2m环形太阳望远镜主镜仅采用气压式力促动器提供轴向支撑，仅工作于压缩状态，因此，采用单向压力传感器作为测力反馈元件；同时，设计中考虑了加工、安装及维护等工艺便捷性，气压式力促动器由镜室板下侧穿过对应安装孔，采用螺钉将法兰固连于镜室板底面。可稍稍转动气压式力促动器以调整高度一致，轴向安装位置可调量不小于4mm，采用锁紧螺母锁紧。电磁比例阀压缩空气由底部气孔供气。图1（b）为气压式力促动器的三维设计。
+
+1.镜面，2.殷钢垫，3.单向压力传感器，4.导向杆，5.外筒，6.线性轴承，7.上端盖，8.上封盖，9.金属波纹管，10.镜室，11.法兰，12.调高和锁紧螺母，13.下封盖，14.入气孔
+
+![](images/d7dcc7c83c00ffbdba96b8ef29a72be66140c88ff8c2c50dfc34cb56f129cf5e.jpg)  
+图1（a）气压式力促动器结构设计图；（b）气压式力促动器三维设计；  
+Fig.1 (a) Design of the pneumatic force actuator;(b)3D illstrationof the pneumatic force actuator
+
+根据气压式力促动器最大输出力要求与测力灵敏度要求，以及环形天文主镜的支撑系统动态性能极低的特性，选用了量程范围为 $0 \sim 2 0 0 \mathsf { N }$ 的应变式膜盒荷重传感器。该力传感器的灵敏度为 $1 . 0 { \sim } 1 . 5 { \pm } 0 . 0 5 \mathsf { m V } / \mathsf { V }$ ，全量程线性度误差为 $\pm 0 . 3 \% 7 5$ ，即最大误差优于0.6N。根据输出力幅值要求，设计该气压式力促动器弹性气缸内腔充气气压范围为 $1 \sim 3 \mathsf { b a r }$ 。图2为实物。
+
+![](images/4fa2f84c676089ae6b5b8be342a111c6c4cd7532a69702b9ea9a4b9548b6a00f.jpg)  
+图2气压式力促动器实物图  
+Fig.2A photo of the pneumatic force actuator
+
+# 3测试方法和测试内容
+
+为检测气压式力促动器是否达到设计指
+
+，能否满足工程应用性能需求，设计了测试方案，建立了测试平台，开展了相应的性能测试。气压式力促动器性能测试主要包括开环控制状态下输出力范围量程测试、全量程线性度测试与分辨率测试；弹性气缸在竖直及水平两种极限工作状态下内部充气气压不同时静刚度特性测试。
+
+具体采用位移输入和气压加载相结合的方式进行测试，检测弹性气缸轴向压缩位移与输出力之间的关系、内腔充气气压与输出力之间的关系及闭环控制下响应时间与输出力之间的关系。图3为搭建的实验测试平台。测试系统包括气压式力促动器、微位移促动器、微位移促动器驱动器、激光位移传感器、单向压力传感器、USB数据采集卡以及电压型电磁比例阀、气源等。微位移促动器用于对气压式力促动器施加轴向压缩位移，并采用Keyence H050型激光位移传感器进行位移检测；同时采用USB数据采集卡采集由压力传感器反馈的力促动器输出力。微位移促动器名义位移分辨率40nm/步，行程 $6 \ : \mathrm { m m }$ ；激光位移传感器测量范围 $0 ^ { \sim } 1 0 \mathsf { m m }$ ，全量程线性度 $\pm 0 . 0 2 \% 7 5$ ，重复定位精度25nm；电压型电磁比例阀供给压力范围 $0 . 0 1 \sim 5 { \mathsf { b a r } }$ ，最大流量6L/min，灵敏度为0.01bar，全量程线性度误差为±1%FS。
+
+开环控制状态下的主镜轴向支撑系统由于扰动、摩擦等非线性因素，气压式力促动器实际输出力与理想值存在不确定性误差。实验对气压式力促动器进行输出力的闭环控制测试。
+
+![](images/1e3d3842e52629527120406e26ff0ad88a5712bdc276c6e5ebdf59df5276277d.jpg)  
+图3气压式力促动器测试实验平台。（a）竖直安装；（b）水平安装
+
+# 4气压式力促动器测试结果和分析
+
+4.1输出力范围及线性度测试
+
+![](images/2d433357be4796039bc4615b950965f622ce1f913f1fb2d7f0f0c7a29e4e02ef.jpg)  
+Fig.3Theexperimentalsetupforthe pneumatic force actuator. (a)Vertical installation;(b)Horizontalinstalation   
+图4不同压缩位移下充气气压与输出压力关系曲线  
+Fig.4 Curves of input pressure Vs.output force at different compressed displacements
+
+为了测试气压式力促动器弹性气缸元件金属波纹管处于不同压缩状态下，其内腔充气气压与输出力范围和线性度关系。测试系统采取波纹管轴向压缩位移量为 $0 . 5 ~ \mathsf { m m }$ 、1.0mm、 $1 . 5 \mathsf { m m } 3$ 种状态，电磁比例阀对波纹管弹性气缸内腔从Obar（相对现场大气压）充气加压至1.5bar并排气降压至0bar进行采样测试。由于气体的可压缩性，气压式力促动器的响应速度较慢，选取加压或降压0.1bar并等待10s后监控的输出力数值稳定再记录数据。波纹管内腔充气气压与输出力之间的关系曲线及误差拟合曲线参见图4和图5。
+
+![](images/5690d6aad035f08ddf57e64507e5346307117b2fb1e97b0ef216e0a317ece354.jpg)  
+图5全量程线性度拟合误差曲线。（a）加压；（b）降压  
+Fig.5 Curves of linearity error under the full range.(a)Increasing pressure;(b) Reducing pressure
+
+对图4不同压缩位移下充气气压与输出压力关系曲线分析得到，波纹管处于不同压缩状态下，内部充气气压与输出力之间线性关系良好；但在相同轴向压缩位移下，降压所测输出力比升压所测输出力高约1.5N，超出设计指标要求。这是由于正反向运行时，导向线性轴承的摩擦力和可能存在的波纹管外表面与外壳内壁之间的摩擦力都发生方向改变造成的。
+
+图5线性度拟合误差曲线表明，在不同轴向压缩位移，输出力的最大非线性误差不超过 $2 \%$ ；气压式力促动器有效输出力范围为 $0 \sim 2 0 0 \mathsf { N }$ ，且在工作范围内系统输出力线性度良好。
+
+# 4.2输出力分辨率测试
+
+气压式力促动器的输出力精度与电磁比例阀分辨率直接相关。在稳定工作状态下，调节输入气压引起输出力的最小变化量即为输出力分辨率。测试逐步减小输入气压变化量，直至输出力无明显变化。表1列出输入气压变化量对应输出力变化最大值、最小值及平均变化值。
+
+# 表1输出力的分辨率
+
+Table1 Output force resolution   
+
+<html><body><table><tr><td colspan="2">输入气压变化量△P/bar</td><td>0.1000</td><td>0.0500</td><td>0.0250</td><td>0.0125</td><td>0.0050</td><td>0.0025</td><td>0.0015</td><td>0.0010</td></tr><tr><td>输出压 力变化量</td><td>最大值</td><td>13.6482</td><td>6.9967</td><td>3.7651</td><td>1.9622</td><td>1.0096</td><td>0.5499</td><td>0.3241</td><td>0.3116</td></tr><tr><td>△F/N</td><td>最小值</td><td>12.9486</td><td>6.2051</td><td>2.7981</td><td>1.2314</td><td>0.4113</td><td>0.2052</td><td>0.1004</td><td>0.0005</td></tr><tr><td></td><td>平均值</td><td>13.3908</td><td>6.7118</td><td>3.3716</td><td>1.6714</td><td>0.6883</td><td>0.3372</td><td>0.2269</td><td>0.1055</td></tr></table></body></html>
+
+表1可见，随着输入气压变化量的减小，输出力的变化量随之减小，呈良好的线性关系。当输入气压变化量为0.0015bar，输出力变化均值为0.23N为0.001bar时，输出力存在无明显变化，可以判断气压式力促动器的输出力分辨率为0.23N，达到力分辨率设计要求。
+
+# 4.3静刚度特性测试
+
+刚度为波纹管抵抗弹性变形的能力，即引起单位位移的作用力。波纹管内腔充气加载不同，微位移促动器对气压式力促动器施加轴向压缩位移，由激光位移传感器进行位移检测，位移促动器全量程不小于 $3 \mathsf { m m }$ ；同时由单向压力传感器反馈输出力，分析波纹管轴向压缩位移与输出力的变化关系。按步长0.25bar测试 $0 ^ { \sim } 1 . 5$ bar范围内的7种压强状态，波纹管轴向压缩位移 $0 . 2 \mathsf { m m }$ 记录数据进行静刚度特性测试。图6和图7为气压式力促动器分别处于两种极限工作状态下，即竖直与水平方向的静刚度特性曲线及线性拟合误差曲线。
+
+![](images/cbf33cf1251ee12da97cbb907491341cb601e5c48cfbcc4f0414fb7bb81766f6.jpg)  
+图6竖直方向不同气压下全量程静刚度测试。（a）输入位移与输出压力关系曲线；（b）拟合误差曲线
+
+![](images/e7e98351961df27e65a22a1a98923bc19d9088cfd1ff350fe53c15555307fe5e.jpg)  
+Fig.6Curvesofstaticstiffesintheverticaldirectioninfullrange.(a)Inputdisplacementvsoutputforce;(b)Inputdisplacementvs. forceerror   
+图7水平反向不同气压下全量程静刚度测试。（a）位移与输出力关系曲线；（b）拟合误差曲线
+
+Fig.7Curvesofstaticstfnessintheorizontaldirectioninfullrange.(a)Inputdisplacementvs.outputfoce;(b)lputdisplacmentvs. force error
+
+对图6（a）和图7（a）分析，气压式力促动器内腔充气气压相同，压缩量不同，全位移量程输出力变化量处于 $3 . 5 \sim 7 . 6 N$ 之间。分析图6（b）、7（b）拟合误差曲线可得，在两种工作状态下静刚度最大非线性度误差均达 $1 7 \%$ ，表明该气压式力促动器静态刚度特性线性不理想。这也是由于导向线性轴承的摩擦和波纹管外表面与外壳内壁之间可能存在摩擦造成的，并导致开环下的力精度达不到设计要求，因此，需要进一步开展闭环测试。
+
+4.4输出力闭环精度测试
+
+开环状态下目标输出力与实测输出力存在输出误差，超出输出力 $+ / - 0 . 5 N$ 的精度要求,也说明该气压式力促动器在基于开环控制模式下难以达到2m环形镜面面形的精度要求。因此对之进行了输出力闭环控制测试。图8为气压式力促动器控制结构图，系统包括2个反馈控制环路。
+
+# 图8闭环气动控制结构框图
+
+Fig.8Block diagram of closed-loop control systemfora pneumatic force actuator
+
+当力促动器处于工作状态，根据主镜面位姿要求，限定波纹管压缩状态，为实现力的精确输出，通过单向压力传感器测得力促动器实际输出力反馈至计算机控制系统与目标输出力比较，控制电磁比例阀进行气压补偿，直至符合设计指标要求。
+
+在目标输出力全量程范围 $0 \sim 2 0 0 \mathsf { N }$ 进行闭环控制测试。基于开环控制状态，电磁比例阀根据输入气压控制气压式力促动器充放气，系统采集力反馈元件单向压力传感器实际输出力进行闭环递归补偿，直至系统输出力误差在 $_ { \pm 0 . 3 \mathsf { N } }$ 范围内。图9为输出力闭环控制测试曲线。
+
+![](images/31b81d9109d3f8410651fd2fe033f196b168b16057d5a10ca2e75b4a4446aca4.jpg)  
+图9闭环反馈系统校正曲线。（a）充气加压；（b）放气降压
+
+Fig.9Output force curves of closed-loop test.(a) Increasing pressure;(b) Reducing pressure
+
+系统测试结果如表2。测试结果表明，气压式力促动器结合单向压力传感器反馈元件组成的闭环控制系统，可实现预期设计指标 $\pm 0 . 3 { \mathsf { N } }$ 的输出力精度要求，控制简单，稳定可靠。
+
+# 表2测试结果
+
+Table2Testresults   
+
+<html><body><table><tr><td>测试指标</td><td>数值</td></tr><tr><td>位移行程</td><td>±2mm</td></tr><tr><td>输出力范围</td><td>0~200N</td></tr><tr><td>输入气压与输出力的线性误差</td><td>≤2%</td></tr></table></body></html>
+
+<html><body><table><tr><td>力的分辨率</td><td>≤0.23N</td></tr><tr><td>静态刚度线性误差</td><td>≤17%</td></tr><tr><td>闭环力控制精度</td><td>≤±0.3N</td></tr></table></body></html>
+
+# 5结论
+
+本文根据 $2 m$ 环形太阳望远镜的技术需求与设计指标，基于气动原理研制的气压式力促动器，选用金属波纹管作为核心气密压力元件，具有结构简单、安装和维护工艺便捷的特点。经全面测试，气压式力促动器输出力线性度良好，但不同压力下的静刚度线性不佳，这也说明，由于导向机构的摩擦力和波纹管与外壳间存在摩擦力，使得气压式力促动器在基于开环控制模式下尚不能达到 $2 m$ 环形主镜面形精度及支撑力精度的要求。而基于输出力闭环控制的测试结果表明，气压式力促动器在闭环控制模式下可实现输出力满足设计指标的控制精度，且系统简单，工作稳定可靠，可望工程应用，目前，已基于该力促动器构建了9点支撑的轴向支撑系统样机平台。下一步工作将在该样机平台中进行小系统级闭环调试，并优化该气压式力促动器结构设计和工艺细节。
+
+# 参考文献：
+
+[1] Liu Zhong, Deng Yuanyong,Jin Zhenyu, et al. Introduction to the Chinese giant solar telescope[C]//Proceedings of SPlE.2012:31-36.   
+[2] Liu Zhong, Jin Zhenyu.Simulation of Chinese giant solar telescope[C]//Proceedings of SPIE.2011:1413-1417.   
+[3] 刘清,姜爱民.光学综合孔径望远镜光程探测方法研究[J].天文研究与技术, 2017,14(4):519-525. Liu Qing, Jiang Aimin. Experimental research on piston detecting method for optical synthetic aperture systems[J]. Astronomical Research & Technology,2017,14(4):519-525.   
+[4] 杨长春,李正刚,陈宇超,等.一米新真空太阳望远镜光谱扫描观测系统设计[J].天文研究 与技术,2016,13(2):257-265. Yang Changchun, Li Zhenggang, Chen Yuchao,et al.The design of spectrum observation system for the New Vacuum Solar Telescope[J]. Astronomical Research & Technology, 2016,13(2):257-265.   
+[5] 杨德华,王正兰,吴常铖,等.半主动式反射镜面支承和定位系统：中国， 201710112098.3[P].2017-02-28.   
+[6] Cheng Jingquan. The principles of astronomical telescope design[M].New York: Springer, 2009.   
+[7] Yoder Jr P R. Opto-mechanical systems design[M].3rd ed. Boca Raton: CRC Press, 2005.   
+[8] Yang Dehua, Jin Zhenyu, Liu Zhong.Support optimization of the ring primary mirror of a 2-m solar telescope[C]//Proceedings of SPlE.2016.   
+[9] Lousberg GP, Moreau V, Schumacher JM. Design and analysis of an active optics system for a 4-m telescope mirror combining hydraulic and pneumatic supports[C]//Proceedings of SPIE.2015.
+
+# Design and Test of a Bellow-based Pneumatic Force Actuator
+
+Wang Zhenglan¹,Yang Dehua¹,Wu Changcheng1, Jin Zhenyu² (1. College of Automation Engineering，Nanjing University of Aeronautics and Astronautics，Nanjing 211106，China，Email:zhenglanwang@nuaa.edu.cn;
+
+2.Yunnan Observatories，ChineseAcademy ofSciences， Kunming 650011，China)
+
+Abstract: According to the design requirements and technical specification for the axial support of the primary mirror of the2-m Ring Solar Telescope (RST),a Bellow-based Pneumatic Force Actuator (BPFA) was developed and comprehensive tests were carried out.A metal bellow was used as a tensile core pneumatic cylinder of high-strength and high-elasticity.With a linear bearing as the guide for force output, the BPFA integrated a pressure sensor to force detection and feedback.The convenience of installation,adjustment and maintenance have also been considered to be .The test results showed that the output pushing force of the BPFA is up to 200N with a full scale linearity error less than $2 \%$ . And the closed-loop correction output force falls within the range of $\pm 0 . 3 \mathsf { N }$ ,with a force resolution of O.23N.The tests have verified the feasible design by its clear principle,simple structure, easy installation and maintenance of the pneumatic force actuator. The BPFA meets the axial support technical requirements of the ring primary mirror of the $2 \cdot m \mathsf { R S T } .$ The development and research of the BPFA paved a concrete way for the improvement of its detailed design and the optimization of the axial support system for the ring mirror,it shall also provide a reference for other precision optical mirror support systems.
+
+Key words:Solar telescope; Axial support; Bellow; Force actuator; Pneumatic force actuator

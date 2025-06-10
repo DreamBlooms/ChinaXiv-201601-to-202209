@@ -1,0 +1,217 @@
+# Effects of Bending-torsional Duct-induced Swirl Distortion on Aerodynamic Performance of a Centrifugal Compressor
+
+HOU Hongjuan1, WANG Leilei1\*, WANG Rui1, YANG Yanzhao²
+
+1. College of Mechanical and Equipment Engineering，Hebei University ofEngineering,Handan O56038,China.;   
+2. Kangyue Technology Co., Ltd, Shouguan 262711, China.
+
+$\copyright$ Science Press and Institute of Engineering Thermophysics, CAS and Springer-Verlag Berlin Heidelberg 2017
+
+A turbocharger compressor working in commercial vehicles,especially in some passenger cars,often works together with some pipes with complicated geometry as an air intake system,due to limit of available space in internal combustion engine compartments.These pipes may generate various distortions of physical parameters of the air at the inlet of the compressor and therefore the compressor aerodynamic performance deteriorates.Sometimes,the turbocharging engine fails to work at some operation points.This paper investigates the effects of various swirl distortions induced by diffrent bending-torsional intake ducts on the aerodynamic performance of a turbocharger compresor by both 3D numerical simulations and experimental measurements. It was found that at the outletof the pipes the diffrent inlet ducts can generate diffrent swirl distortions,twin Vortices and bulk-like vortices with different rotating directions.Among them,the bulk-like vortices not only affect seriously the pressure distribution in the impeler domain,but also significantly deteriorate the compressor performance, especially at high flow rate region.And the rotating direction of the bulk-like vortices is also closely associated with the efficiency penalty.Besides the efficiency,the transient flowrate through a single impellerchannel,or the asymmetric mass flow crossing the whole impeller,can be influenced by two disturbances. One is from the upstream bending-torsional ducts; other one is from the downstream volute.
+
+# Keywords: bending-torsional duct,centrifugal compressor, swirl distortion,relative flow angle
+
+# Introduction
+
+Some bent pipes have to be chosen to connect filters to inlet of turbocharger compressor in some passenger cars, due to limits of complicate available space and compact layout. But the application of the bent duct often generates unexpected distribution of some physical parameters of the flow at the compressor inlet, inlet distortion, which is closely associated with aerodynamic performance, operation range,aeroacoustic noise and reliability
+
+In the past decades,much research work of the inlet distortion was carried out not only on centrifugal compressors but also on axial compressors and some conclusions have been drawn.For instance, Ariga et al1l experimentally studied the effects of inlet total pressure distortion on the performance characteristics and the surge margin ofa centrifugal compressor and indicated that the inlet distortion exerts unfavorable influences on both the efficiency and the surge margin, though the influence of the radial distortion is much stronger than that of the circumferential one. Qiao et al[2] tested an axial compressor withinlet distortionand found that the radial distribution of unsteady profile pressure is different and the strongest aerodynamic force always appears near the blade tip.
+
+Zemp et al.l3」 numerically investigated the temporal evolution of the dynamic load on the blade surface caused by the inlet distortion,and their results suggested that the forcing function is most sensitive in the leading edge region and towards the impeller stability line, the separation flow on the suction side of main blade considerably alters the amplitude. Kammerer and Abhari[4] addressed experimental investigation of forced response in centrifugal compressors with inlet distortion and revealed the similar conclusions. Kim et al.[5] analyzed the internal flow of a centrifugal compressor with $9 0 ^ { \circ }$ bent duct and then indicated that the inlet distortion caused by the bend seriously deteriorates the centrifugal compressor performance. Zhou et al.[6,7] reported experimental investigations of the effects of radial total pressure distortions at inlet on the performance and surge margin of a centrifugal compressor,and indicated that a special radial distortion can not only improve both pressure ratio and efficiency, but broaden the operation range as well. The authors’team studied the effect of different inlet pipes, including straight pipe, $9 0 ^ { \circ }$ and $1 8 0 ^ { \circ }$ bending pipes,on a turbocharger compressor by numerical and experimental methods. Our previous results revealed that the compressor performance penalty is concerned in the relative positions between inlet bent pipe and downstream volute[8.9]； the inlet distortion changes the flow angle at compressor inlet and therefore the incidence angle with which the flow enters impeller inducer varies[io,i1] the intensity of the pressure on the blade surface fluctuating with time increases[12] and its FFT analysis suggests that the spectral distribution is redistributed[13].
+
+Both $9 0 ^ { \circ }$ and $1 8 0 ^ { \circ }$ bending pipes almost generate swirl distortion with twin vortices at the compressor inlet. Compared with them， the bending-torsional ducts can generate more complicated distorted structure at the inlet of centrifugal compressors,resulting in different performance penalties by means of inducing some novel aero dynamic interactions which, so far,are not fully understood.Hu et al[14] investigated the effects of bulk swirl distortion on the compressor performance and reported that the clockwise and anti-clockwise vortices have op posite influences on the compressor performance including flow rate, pressure ratio and operation range.
+
+The bending-torsional pipes have already been used in some commercial vehicles,but their influence on turbochargers and turbocharging engines is not fully clear. A detailed understanding of the internal flow and aerodynamic interaction inside a turbocharger compressor with more complicated geometry of the inlet pipe is necessary for the aim of designing advanced turbocharging system to improve turbocharging engine efficiency.
+
+# Distortion structure at bent pipe outlet
+
+Some bent pipes are often to be used in many commercial vehicles as a part to connect turbocharger compressor with other devices. The complicated geometry of the pipe of this sort can seriously complicate internal flow in the compressor by means of influencing the distribution of Mach number and velocity vector.
+
+# Illustrationofcombinedbent duct
+
+Fig1 shows some typical pipes which were often used at the inlet of a turbocharger compressor.Fig.la shows a $1 8 0 ^ { \circ }$ bent duct which consists of two $9 0 ^ { \circ }$ bends with an inner diameter of $6 1 ~ \mathrm { m m }$ 1 $\mathit { \check { d } } = 6 1 \ \mathrm { m m }$ ，the same with the diameter of compressor inlet),and a radius of curvature of $8 5 \mathrm { m m }$ 1 $\mathit { r } = 8 5 \mathrm { m m }$ . The central lines of those two $9 0 ^ { \circ }$ bends are locating in the same section so that their shape is like U. Their connecting section is marked with1-1. Fig.lb shows different bending-torsional ducts which are obtained by rotating one $9 0 ^ { \circ }$ bent duct around the connecting ring relative to the other one.Here, $\varphi$ stands for the rotational angle and $\mathrm { U P } _ { \varphi }$ is for a bending-torsional duct with a rotational angle of $\varphi$ .For instance, $\mathrm { U P } _ { 0 }$ is corresponding to the $1 8 0 ^ { \circ }$ bent duct (U-like pipe).
+
+![](images/a2976a65406f375ca55b78ec47aff55d46dedc922348322c5651ce46cede7834.jpg)  
+Fig.1Schematic diagram of the construction of the bend-torsion duct
+
+In this paper, only five kinds of rotational angle $( 0 ^ { \circ }$ $4 5 ^ { \circ }$ ， $9 0 ^ { \circ }$ ， $1 3 5 ^ { \circ }$ and $1 8 0 ^ { \circ }$ ）were modeled and investigated, though the $\varphi$ can be any value within the range from $0 ^ { \circ }$ to $1 8 0 ^ { \circ }$ . In order to analyze the internal flow of a centrifug al compressor with bending-torsional duct under the condition of no significant disturbance from boundary conditions,the domain is completed with the extrusion of pipe ducts at the inlet and outlet of the given compressor. All computational mesh was generated by a commercial mesh generator named as IGG and the RANS solver embedded into the FINE/Turbo was employed. The butterfly technology was used to improve the quality of the mesh inside ducts and volute.
+
+# Bending-torsional ductinduceddistortion
+
+Fig.2 shows the distributions of streamlines and total pressure at the bending-torsional pipe outlet (exit of the section A).The word,‘inside',stands for the side of the inner arc of $9 0 ^ { \circ }$ bend and the word,‘outside'，corresponds to the side of the outer arc.
+
+During crossing a $1 8 0 ^ { \circ }$ bent duct which was shown in Fig.1, the centrifugal force caused by high velocity forces air to move from inner radius to outer one,meanwhile, the high pressure near outer radius drives the air to flow along the wall to inner radius.So the strong secondary flow structure with features of a twin of vortices is generated and total pressure distortion at the duct outlet is formed.
+
+Compared with the case of $\mathrm { U P } _ { 0 }$ ,asthe $\varphi$ increases, the flow inside the duct has a trend of turning to be more complicated.From the pictures in Fig.2, it can be found that twin vortices appear only in the cases of $\mathrm { U P } _ { 0 }$ and $\mathrm { U P } _ { 1 8 0 }$ .In contrast, some eccentric vortices generate in other three models, $\mathrm { U P } _ { 4 5 }$ ， $\mathrm { U P } _ { 9 0 }$ and $\mathrm { U P } _ { 1 3 5 }$ .It should be noticed that a large,bulk-like vortex appears and covers most area of the cross-section when $\varphi$ equals to $9 0 ^ { \circ }$ .For such a large vortex,when the direction of the vortex is the same with the rotational direction of downstream impeller, the positive pre-whirl angle may form while a negative one probably generates when its direction is opposed to the impeller's rotation.
+
+Besides the changed vortices,the total pressure distor tion also changes with different $\varphi$ value.
+
+![](images/68b0e9319f2efb80da1341cfd0c4334e08f8723892a24e566a641b177b0e3c04.jpg)  
+Fig.2Form of the flow distortion at the outlet cross section of the bent-torsion duct, $0 . 3 8 \mathrm { k g / s }$
+
+# Inlet swirl distortion's influence on compressor performance
+
+# Numericalmodelsand scheme
+
+The research model used in this paper was from a commercial turbocharger compressor,which has been widely used in some internal combustion engines.It has a vaneless diffuser and its design rotational speed is 80 $\mathrm { { k r / m i n } }$ . Some major parameters of its geometry are listed in Table1.Acommercial CFD software,NUMECA,was employed to simulate the internal flow of the compressor, andmore information about the 3D numerical simulation used in this paper can be found in reference[15]. More involved information about the validations was stated in reference[16].
+
+# Numerical geometry
+
+Among the structures of vortices at the exit of the inlet duct with which the fluid exiting the complicated ducts, the effect of the two different vortices which were embedded into the eccentric vortices on the compressor performance is not stronger than that of the twin vortices, but the influence that each vortex of the twin vortices has isweaker than thatofbulkvortexat the duct exit,for the structure of eccentric vortices is halfway between the twin vortices and bulk vortex.Considering the different intensity of the vortices’impact on the compressor, the $\mathrm { U P } _ { 0 }$ $\mathrm { U P } _ { 9 0 }$ and $\mathrm { U P } _ { 1 8 0 }$ models were analyzed closely in the following sections.Beside those research models mentioned above, one more case in which the $\varphi$ equals to $2 7 0 ^ { \circ }$ was also focused and modeled, since the geometry of downstream volute is asymmetric.
+
+Table1Main geometry parameters of the compressor   
+
+<html><body><table><tr><td>Item</td><td>Unit</td><td>Value</td></tr><tr><td>Main blade number</td><td>1</td><td>7</td></tr><tr><td>Splitter blade</td><td>1</td><td>7</td></tr><tr><td>Impeller exit backswept angle</td><td>0</td><td>35</td></tr><tr><td>Design speed</td><td>krpm</td><td>80</td></tr><tr><td>Impeller inlet diameter Di</td><td>mm</td><td>61</td></tr><tr><td>Impeller exit diameter D2</td><td>mm</td><td>90</td></tr><tr><td>Impeller exit radius R</td><td>mm</td><td>45</td></tr><tr><td>Diffuser inlet diameter D</td><td>mm</td><td>108</td></tr><tr><td>Volute inlet diameter D4</td><td>mm</td><td>144</td></tr></table></body></html>
+
+Five different models shown in Fig.3 were investigated by both numerical and experimental methods. Among them, the compressor with straight pipe that was marked with ‘ZP’ was introduced into this research project due to the necessary of comparing the compressor performance penalties caused by the inlet distortion.The straight pipe has the same diameter and length with other ducts.For last four models,the first $9 0 ^ { \circ }$ bend which is connected directly with the compressor inlet (the Section A in Fig.1) parallels with the O-O section of volute,and this position is also the starting point of circumferential angle ( $\mathrm { { \dot { 0 } ^ { \circ } } }$ ,shown in Fig.4).
+
+According to the structure of inlet ducts together with the distortion patterns that they generate,it can be logically deduced that the direction of dominant vortex existing in $\mathrm { U P } _ { 9 0 }$ case should be opposite with the rotational direction of the impeller and the main vortex should have the same direction of rotation with rotor in the case of $\mathrm { U P } _ { 2 7 0 }$ .The first phenomenon is like the negative pre-whirl at the impeller inlet and the second one has the similar effect with the positive pre-whirl.
+
+# Compressorperformance
+
+Steady tests on the research compressor with different inlet ducts were carried out ona turbocharger flow bench to obtain their aerodynamic performances and internal time-averaged pressure distribution.More information about the experimental devices,operations,locations of the monitoring point and some validation work can be found inreference[16,7]published previouslybyourre search team.
+
+The circumferential reference angles of the volute were defined as shown in Fig.4.According to this definition, the volute tongue locates at about $5 0 ^ { \circ }$ ：
+
+# Experimental results
+
+# Compressor performance penalty
+
+Fig.5 shows the performances of the compressor with different ducts,which were measured on the turbocharger flow bench in the turbocharger laboratory in Beijing Institute of Technology. The measured rotational speed is the same with that at the design point. From Fig.5a it can be found that, compared with baseline model (ZP model, compressor with straight pipe), the pressure ratio of the compressor with $\mathrm { U P } _ { 9 0 }$ is lower at some operation points along the constant rotational speed line while it is a little higher at other operation points.It should be noticed that those deviations are less than the measurement uncertainties,so the raise in the pressure ratio is probably caused by the measuring error. Other cases never showed any gain in pressure ratio than the baseline model,and the penalties in the pressure ratio are obviously beyond the margin of the errors.The inlet bending-torsional pipes, therefore,probably have an unfavorable effect on the centrifugal compressor performance.
+
+![](images/ba9e21e800c7776ee7aa56698ab20886ac042a3ff8741049195199185859c9e4.jpg)  
+Fig.3Compressor numerical models with different intake ducts
+
+![](images/0b83f78cb0031ced8d00b34f28f1dd2943feb644d8f5a3bf5e3ef604ce1b5bff.jpg)  
+Fig.4Illustration of circumferential angle relative to volute
+
+When operating near surge point, the penalty in pressure ratio is relatively less compared with the baseline model.In contrast, the deviation in pressure ratio turns to be more significant when the compressor operates near choke.The order of the pressure ratio deteriorations from high to low is the following: compressor with $\mathrm { U P } _ { 2 7 0 } >$ compressor with $\mathrm { U P } _ { 0 } \mathrm { > }$ compressor with $\mathrm { U P } _ { 1 8 0 } >$ compressor with $\mathrm { U P } _ { 9 0 }$ . At the operation point near the choke, the gap between the compressor with $\mathrm { U P } _ { 2 7 0 }$ and baseline model is the largest and rises up to 25 percent.
+
+The lines corresponding to the efficiency of the compressor with different inlet ducts in Fig.5b clearly indicate that all kinds of inlet bent pipe can cause compressor efficiency penalty compared with the baseline model. Not only is the efficiency penalty different between the two typical operation regions which are separately close to the surge and chock points,but the order of its degree is opposite at two ends of the constant rotational speed. For instance,when operating near the chock point, the order of the efficiency deteriorations from high to low is the relationship: compressor with $\mathrm { U P } _ { 2 7 0 } >$ compressor with $\mathrm { U P } _ { 0 } \mathrm { > }$ compressor with $\mathrm { U P } _ { 1 8 0 } >$ compressor with $\mathrm { U P } _ { 9 0 }$ .However, they show a reverse order in compressor efficiency penalties when the compressor operated near chock point. The largest efficiency deterioration corresponds to the compressor with $\mathrm { U P } _ { 2 7 0 }$ and is about 25 percent at the operation point near the chock.
+
+Those different efficiency penalties reveal that the bulk-like vortex structure has a relatively weak impact on the compressor efficiency deterioration when its direction is different from the impeller's rotation while it can cause more compressor efficiency reduction when its rotation has the same direction with the rotor. Although the various twin vortices probably induce different penalties in compressor efficiency, the magnitude of the compressor efficiency penalty caused by the twin vortices is always between the results of the bulk-like vortices with two kinds of the rotational directions.
+
+![](images/6c1ceff0682a982e5bc13c84c92ef102c6e1e589468816e7c092eef31c81b3ba.jpg)  
+Fig.5Comparions of the compressor performances for different intake ducts at the rotational speed of $8 0 ~ \mathrm { k r / m i n }$
+
+# Pressurevariationsatmeasuring locationsfordifferent ducts
+
+Fig.6 compares the distributions of pressure around the compressor inlet for the compressor with different ducts at two operation points which are separately near the chock and surge points.From the pressure distribution corresponding to the compressor with straight pipe (ZP model),it is fairly clear that the asymmetrical geometry of downstream volute is able to affect the pressure at the impeller inlet thus causing a circumferentially non-uniform pressure distribution,even though the inducer inlet locates in the upstream of the domain and is a little far away from the volute.When operating near the surge point, the volute has a relatively weak effect on the pressure at the impeller inlet, for the pressure distribution at the inducer inlet is dominantly decided by the recirculation flow existing in the inducer tips and closely asso ciated with rotating stall. At the operation point near chock，however,a relatively obvious raise in pressure appears around a circumferential angle of $1 8 0 ^ { \circ }$ ，which is the result of the asymmetrical volute's effect.
+
+Compared with the straight pipe,the bending- torsional pipes are able to distort the pressure distribution at its exit and therefore induce a circumferentially non-uniform distribution of the static pressure at the inducer inlet. When operating near the surge point, some relatively small penalties in the static pressure occur at some circumferential positions.Among them, the largest pressure deficit corresponds to the case of the compressor with $\mathrm { U P } _ { 2 7 0 }$ ． At the operation point near chock,however, the more serious pressure penalties were induced by the bending- torsional pipes by means of generating complicated distortions at their exit (at the impeller inlet). Compared with the baseline model,the order of the pressure penalties from high to low is the following: compressor with $\mathrm { U P } _ { 2 7 0 } >$ compressor with $\mathrm { U P } _ { 0 } \mathrm { > }$ compressor with $\mathrm { U P } _ { 1 8 0 } >$ compressor with $\mathrm { U P } _ { 9 0 }$
+
+Besides, the curves corresponding to the compressor with $\mathrm { U P } _ { 0 }$ or $\mathrm { U P } _ { 1 8 0 }$ models are not asymmetric with respect of $1 8 0 ^ { \circ }$ , and there is a large gap between the curves marked with $\mathrm { U P } _ { 9 0 }$ and $\mathrm { U P } _ { 2 7 0 }$ .This phenomenon proves that the potential field of the moving impeller has an effect on the pressure distribution at the exit of the bending-torsional pipe(or the impeller inlet).
+
+According to the above analyses,the pressure distribution at the impeller inlet is collectively contributed by the distortion caused by the upstream bending-torsional pipe,the potential field of the moving impeller and the asymmetric pressure distribution induced by the downstream volute.Among them, the first two elements are more dominant.
+
+![](images/a36d7733f32f82b6d44647a7e29cf6ad2f40d6503f65a6fc0e40f5d917e49ef1.jpg)  
+Fig.6Pressure response at impeller inlet to the different ducts   
+Fig.7Variations of pressure on the casing surface for the compressor with different ducts
+
+Fig.7 shows the comparison of the static pressure along the meridian line on the casing surface from inducer to diffuser for two typical operation points.It is clear that there are some small deviations occurring at the point near the surge and the more obvious gaps locate in the diffuser rather than inside the impeller. The largest deficit in the static pressure is for the case of the compressor with $\mathrm { U P } _ { 2 7 0 }$
+
+2.0 mid-diffuser 1.8 impeller outlet ddd essss bsges 1.6 splitter blade 好 1.4 leading edge 一ZP main blade 丨丨UP 1.2 leading edge △—UP90 1.0 —UP180 0.8 一丨UP270 0.6 1 0.0 0.2 0.4 0.6 0.8 1.0 Measure point distribution (a) Near the surge point 2.0 一ZP mid-diffuser UP 1.8 丨△丨UP90 impeller outlet 4—UP180 1.4 UP270 splitter blade leading edge 1.2 main blade 1.0 -leading edge 0.8 T Y 0.6 Y 1 0.0 0.2 0.4 0.6 0.8 1.0 Measure point distribution (b) Near the chock point
+
+For the operation point near the chock,however, the impact of the bending-torsional pipe on the profile pressure of the casing turns to be more serious, for the sig nificant reduction in the pressure can be found in Fig.7b. Among all the cases involved in this research project, compared with the baseline model (compressor with ZP), the $\mathrm { U P } _ { 9 0 }$ model has the smallest effect on the pressure distribution, for its pressure data is similar with that from baseline model in most flow domain except the small region upstream of the impeller exit where some small deviation occurs.More significant reduction in the casing profile pressure can be observed in other cases,and the order of the pressure penalties from large to small is the following sequence: compressor with $\mathrm { U P } _ { 2 7 0 } >$ compressor with $\mathrm { U P } _ { 0 } \mathrm { > }$ compressor with $\mathrm { U P } _ { 1 8 0 } >$ compressor with $\mathrm { U P } _ { 9 0 }$
+
+# Numerical results
+
+# Numerical geometries and research points
+
+According to the above analyses of the structures of the inlet distortion and the variations of the compressor performance,three typical cases,in which $\varphi$ equals to $0 ^ { \circ }$ $9 0 ^ { \circ }$ and $2 7 0 ^ { \circ }$ ，were focused and further investigated in this section, for they can respectively generate twin vortices,the bulk-like vortices with different rotating direction.In addition,considering that the bending-torsional pipe has a more unfavorable effect on the compressor performance at high flow rate regions, the 3D numerical simulations used in this section were performed at an operation point near chock, $0 . 3 8 \mathrm { k g / s }$ =
+
+# Internal flow responses to inlet distortion
+
+The combined-bend pipe at the compressor inlet is possible to generate a complex distortion that consists of the total pressure and the vortex distortions.Those two typical distortions work together to distort the static pressure distribution，and therefore the unsteady flow downstream of inlet ducts may change.
+
+# Variations of static pressure in the impeller domain
+
+(1）Variations of the static pressure on casing surface along circumferential direction
+
+The circumferential distribution of the static pressure is one of the indicators to reveal the asymmetrical characteristics of the air flow inside the impeller. Fig.8 shows the distribution of the dimensionless static pressure on the casing surface at several chordwise locations, $10 \%$ ， $50 \%$ and $90 \%$ chord from the leading edge of the inducer. The solid line stands for the time-averaged dimensionless static pressure and the dash line is the result of mean value of the circumferentially time-averaged dimensionless static pressure.
+
+For the compressor with straight pipe, some circumferential fluctuations of the static pressure occur at different chordwise locations,due to the pressure disturbance that is induced by downstream volute and propagated upstream along the impeller channels.The propagation of the pressure disturbance was well marked with arrows in Fig.8.When it was installed at the compressor inlet, the bending-torsional duct can induce various inlet distortions to the impeller and therefore the circumferential distribution of the static pressure on the casing surface varies withdifferent inlet ducts.
+
+Compared with the case of the compressor with straight pipe,the use of bending-torsional duct at compressor inlet has no significant effect on the propagation of the pressure disturbance from downstream volute.No matter which duct was applied, the same trend of the static pressure is noticed increasing within the range of circumferential angle from $0 ^ { \circ }$ to $1 8 0 ^ { \circ }$ ，and the intensity of static pressure fluctuating with circumferential angle is the strongest in the compressor with $\mathrm { U P } _ { 9 0 }$
+
+Tab.2 lists some detailed data about the pressure variations at $50 \%$ chord-wise position. Among four cases, only the model of the compressor with $\mathrm { U P } _ { 0 }$ causes worse asymmetric distribution of the static pressure than the case of the compressor with ZP,and other two kinds of the bending-torsional pipes induce a relatively better non-uniform distribution in circumferential direction. This comparison proves that the compressor with $\mathrm { U P } _ { 0 }$ has the most unfavorable effect on the circumferential uniform distribution of the flow field in the impeller domain.
+
+The last column in Table 2 listed the dimensionless static pressure at the circumferential position of $9 0 ^ { \circ }$ Thesedatareveal the same trend with the result shown in Fig.7.This good agreement indicates that each bending-torsional duct has a significant effect on the profile pressure of the casing.
+
+(2)Coupling of disturbances from both inlet duct and volute
+
+The pressure disturbance caused by the inlet distortion may propagate downstream. Meanwhile,one induced by downstream volute is possible to move upstream. So a coupling effect may occur when both two pressure disturbances arrive at one position at the same moment. The time-space plot of the static pressure along chordwise line at $90 \%$ span was shown in Fig.9 exhibiting well those coupling phenomena. The abscissa and ordinate are the dimensionless chordwise distance from the impeller inlet and the periodicity of the impeller rotating over one revolution,respectively. The solid line marked with ML indicates the location of the leading edge of main blade and another one signed with SL is the leading geometry of split blade. Some lines with arrows reveal the propagations of the pressure disturbance.
+
+Fig.9 well visualizes the propagation of the pressure disturbance from downstream volute and its effect on the asymmetric flow field at the mass flow of $0 . 3 8 ~ \mathrm { k g / s }$ .The static pressure fluctuates with the rotation of the impeller due to the volute's disturbance.This disturbance enters impeller exit and propagates upstream along the impeller channel. When it arrives at the leading edge of the inducer, the disturbance is rotated to the circumferential angle of $1 8 0 ^ { \circ }$ at the time of O.5 and then moves upstream along the impeller channel.
+
+For the compressor with $\mathrm { U P } _ { 0 }$ ，thepressure fluctuation around the impeller exit still occurs,for it is mainly attributed to the downstream volute.And no significant change can be found in the propagation of the pressure disturbance from exducer to inducer between the compressor with ZP or $\mathrm { U P } _ { 0 }$ .But some obvious deviations in pressure distribution can be found in the inducer. The result is that the asymmetric distribution of the static pressure turns to be worse in the compressor with $\mathrm { U P } _ { 0 }$ =
+
+For the compressor with $\mathrm { U P } _ { 9 0 }$ model,the similar pressure disturbances from both the inlet duct and downstream volute can be found inside the impeller channel as well.After comparing the propagations of pressure disturbancewithdifferent directions,itisclearthat the time that they cross the impeller is different,for their absolute velocity is decided by the local velocities of sound and the fluid.In addition,similar phenomena can also be found in the case of the compressor with $\mathrm { U P } _ { 2 7 0 }$
+
+![](images/084163fcabfcc107e99b907f13cc62f14a0b41aece1c3a94e2883f87755f4606.jpg)  
+Fig.8Circumferential distribution of the static pressure on the casing surface
+
+Table 2Comparison of the distribution of the static pressure along pitchwise direction on the casing surface $( p / p _ { 0 } )$ at $50 \%$ chord   
+
+<html><body><table><tr><td></td><td>Max value</td><td>Min value</td><td>Mean value</td><td>Deviation</td><td>p/poat 90</td></tr><tr><td>ZP model</td><td>0.921</td><td>0.72</td><td>0.819</td><td>0.201</td><td>0.862</td></tr><tr><td>UPo model</td><td>0.932</td><td>0.687</td><td>0.795</td><td>0.246</td><td>0.833</td></tr><tr><td>UP90 model</td><td>0.910</td><td>0.746</td><td>0.831</td><td>0.164</td><td>0.876</td></tr><tr><td>UP270 model</td><td>0.794</td><td>0.651</td><td>0.703</td><td>0.143</td><td>0.738</td></tr></table></body></html>
+
+![](images/2e9d22fe4cc5cf6b98bc29f9b2df6be95e87e3ffa76fd575f34b67dc3b2f4c81.jpg)  
+Fig.9Time-space plots of the static pressure along the impeller channel at $90 \%$ span for different inlet ducts, at $0 . 3 8 \mathrm { k g / s }$
+
+(3)Variations of static pressure at impeller exit
+
+Fig.10 compares the static pressure distribution around the impeller exit $( \mathrm { R } / \mathrm { R } _ { 2 } { = } 1 . 0 4 5 )$ at half span. The word, ‘TP'，in Fig.1O stands for the location of the volute's tongue.Here, the static pressure was normalized by its circumferentially averaged value.
+
+For the compressor with the straight pipe, the nonuniformed distribution of the static pressure around the impeller exit forms due to the asymmetric geometry of volute.This asymmetry causes a region with the high pressure occurring near the tongue of the volute,and therefore the favorable pressure gradient starts at this high pressure region and ends at the volute exit. The static pressure distribution of this sort still exists at the impeller exit, even though some bending-torsional pipes were installed at the compressor inlet.The only difference caused by the bending-torsional pipe is the phenomenon that some deviations appear. For instance，the circumferential range with high or low pressure expands and the negative peak drops significantly, resulting in larger pressure gradient in circumferential direction,as shown in Fig.10.Among four models, the $\mathrm { U P } _ { 0 }$ inlet pipe has the weakest effect on the pressure distribution, due to the small deviations between the two lines marked separately with ZP and $\mathrm { U P } _ { 0 }$ ； the worst distribution of the static pressure around the impeller exit is corresponding to the compressor with $\mathrm { U P } _ { 2 7 0 }$ ，for the amplitude in the pressure fluctuation becomes the largest in that case.
+
+![](images/d8937279d26a1f4eb58464c32b208e86bbecbb1044760b7a8d3a5a6eff3300c4.jpg)  
+Fig.10Time-averaged static pressure at the impeller exit
+
+# Unsteady flow rate through a single impeller channel
+
+The static pressure distributions at both inlet and outlet of impeller may influence the flow inside impeller channels,and cause high unsteadiness of flow rate crossing each impeller channel, even if the total mass flow through the impeller keeps the same.To quantify the unsteady characteristics, the flow rate through a single im peller channel is displayed in Fig.11 varying with the rotation of the impellerwithin one revolution.The flow rate was normalized by the following equation:
+
+$$
+\dot { m } = m / ( m _ { a c o r } / 7 )
+$$
+
+Where,m is the dimensionless flow rate through a single impeller channel, $m$ the transient flow rate crossing single impeller channel, $m _ { \mathrm { a c o r } }$ the total mass flow across the whole impeller.
+
+![](images/ac5976f9268ee4d70e0f6f8585310941fc485683ebff1382c72b755d46c17905.jpg)  
+Fig.11Fluctuation of flow rate crossing single impeller channel with rotation of impeller
+
+For the compressor with straight pipe (ZP model),no inlet distortion forms at the inducer inlet,and therefore the only reason to contribute the highly unsteady flow rate crossing a single impeller channel is the circumferentially non-uniformed distribution of the static pressure in both the volute and the diffuser caused by the asymmetric volute.During passing the tongue of the volute where the static pressure is high，the exducer goes through that high pressure region, resulting in high pressure ratio across the single impeller channel which can sharply reduce the transient flow rate. This is why the unsteady flow drops seriously in the region near the tongue of volute.When the exducer leaves away from the high pressure region (around tongue), the transient flow rate crossing the single channel gradually recovers and rises until the circumferential position where the channel exit is influenced by the tongue again.
+
+Other three lines deviating from the baseline model (ZP,compressor with straight pipe) proves that the inlet distortion caused by the inlet bent ducts has an effect on the unsteady flow rate across a single impeller channel. Among the research models,the compressor with $\mathrm { U P } _ { 0 }$ causes the highest unsteadiness of the flow rate through a single channel. This phenomenon means that the circumferential distributionof the massflow through thewhole impeller should be the worst. According to the above findings,a conclusion can be drawn herein that the unsteady flow rate crossing a single impeller channel, the circumferential distribution of the mass flow through the whole impeller,are attributed to both the inlet distortion caused by the inlet ducts and the circumferentially nonuniformed distortion of static pressure in the vaneless diffuser and the volute induced by the asymmetric geometry. The clocking effect between inlet bent duct and downstream volute in a turbocharger compressor with inlet duct was reported by Zhao et al.[18land their findings partially support the above analyses.
+
+# Conclusions
+
+When the bulk-like vortex generated by the bending torsional duct has the same rotating direction with the impeller, thecompressor performanceincludingthe pressure ratio and the efficiency shows some relatively small deficits while the large performance penalty occurs when its direction is opposite to the rotor. Both the pressure ratio and the efficiency drop down by as much as 25 percent in the current research model.Besides, the compressor performance penalty caused by the twin vortices varies as the different matching status of the two vortices. But the ranges never beyond the two extreme values caused by the bulk-like vortices.
+
+When the operation point shifts from the low flow rate point to an operation point near chock along constant speed,the inlet bending-torsional pipe not only further deteriorates the non-uniformed distribution of the static pressure at the impeller inlet,but also causes the casing profile pressure along the meridian line to drop with different degrees.Among all kinds of swirl distortions, the bulk-like vortex distortions are more typical, for their rotating directions are closely associated with the impact they have on the compressor performance,the largest effect being for the same rotating direction between the bulk-like vortices and the impeller, the smallest one corresponding to the opposite rotating behaviors.
+
+All kinds of the inlet bending-torsional pipes manage to affect the circumferentially asymmetric flow inside the compressor, and,among them, the bending-torsional pipe which can generate the twin vortices has a stronger effect, resulting in the highest fluctuation of the pressure along the circumferential direction on the casing surface at some chordwise locations.Two pressure disturbances are found inside the impeller channels coming from two sources. One is the high pressure region in diffuser which is induced by the downstream volute and never shifts with different inlet ducts; other one is from the inlet distortion,especially the bulk-like vortices distortionin which the low pressure regions are relatively concentrated and the distortion degree is the worst.
+
+The inlet distortion coupling with the circumferentially non-uniformed distribution of the pressure caused by the downstream volute changes the pressure distribution at the impeller exit on one hand; on the other hand, they can decide the transient flow rate crossing each impeller channel. Compared with the bulk-like vortices with different rotating directions,the twin vortices existing at the impeller inlet have a stronger effect on the unsteady flow rate across the impeller passages.
+
+# Acknowledgements
+
+This research was sponsored by the Key Projects of Hebei Provincial Department of Education (No.ZD2016095) and the Program of Science and Technology Research and Development of Handan (1621212047-2).
+
+# References
+
+[1]ArigaI,Kasai N,Masuda S,etal.The Effect of Inlet Distortion on the Performance Characteristics of a Centrifugal Compressor[J]. Journal of Engineering for Gas Turbines and Power,1983,105(2): 223-230.   
+[2]QIAO Wei-yang,CAI Yuan-hu,CHEN Zhi-min,et al. Numerical Modeling of the Unsteady Aerodynamic Loads in Axial Flow Compressor with Inlet Distortions [J]. Journal of propulsion technology,2001,22(5): 392-396.   
+[3]Zemp A,KammererA,AbhariR S.Unsteady CFD Investigation on Inlet Distortion in a Centrifugal Compressor[R].ASME Turbo Expo 2Oo8:Power for Land, Sea, and Air.Berlin,Germany, June 9-13,2008,ASME Paper, GT2008-50744   
+[4]Kammerer Albert,Abhari Reza S.Blade Forcing Function and Aerodynamic Work Measurements in a High Speed Centrifugal Compressor with Inlet Distortion[J]. JournalofEngineering for Gas Turbines and Power,2010, 132(9): 559-572.   
+[5]Kim Yunbae,Engeda Abraham,Aungier Ron,et al. The Influence of Inlet Flow Distortion on the Performance of a Centrifugal Compressor and the Development of an Improved Inlet Using Numerical Simulations[J].Proceedings of the Institution of Mechanical Engineers,Part A: Journal ofPower and Energy,2001,215(3):323-338.   
+[6]ZHOU Song-dong,WEN Quan.The Effects of Inlet Total Pressure Radial Distortions on the Performance Characteristics of a Centrifugal Compressor[J].Gas Turbine Experiment and Research,2005,18(3): 10-14.(in Chinese) [7]ZHOU Song-dong,An Experimental Study of a Centrifugal Compressor with Five Different Types of Radial Diffusers[J]. Gas Turbine Experiment and Research,2005, 18(1): 21-26. (in Chinese) [8] YANG C, ZHAO B,MA C C, et al. Effect of Different Geometrical Inlet Pipes on a High Speed Centrifugal Compressor[C]. ASME Turbo Expo 2013: Turbine Technical Conference and Exposition. San Antonio, Texas, USA, June 3-7,2013,ASME Paper, GT2013-94254. [9] ZHAO B, Yang C, Hu L, et al. A novel clocking effect between inlet bend and volute in an automotive turbocharging system[J]. Journal of Mechanical Science and Technology,2016,30(5): 2335-2342.   
+[10]LI Du, YANG Ce, CHEN Shan, QI Ming-xu. Numerical simulation on inlet distortion of centrifugal compressor with 90 degree bent pipe[J]. 2007, Journal of Aerospace Power,2010,25(11): 2556-2563. (in Chinese)   
+[11]LI Du, YANG Ce, CHEN Shan, MA Chaochen.Unsteady characteristics on Bend-Pipe Inlet Distortion of Centrifugal Compressor[J]. Transactions of CSICE. 2011, 29(5): 468-474   
+[12]Li Du, YANG Ce, ZHOU Mi, et al. Numerical and Experimental Research on Different Inlet Configurations of High Speed Centrifugal Compressor[J]. Science China Technological Sciences,2012,55(1): 174-181.   
+[13]WANG Lei-lei, YANG Ce, ZHAO Ben, et al. The Change of the Inlet Geometry of a Centrifugal Compressor Stage and Its Influence on the Compressor Performance[J]. Journal of Thermal Science,2013,22(3): 197-208.   
+[14]HU Wei-bo, CHENG Bang-qin, CHEN Zhi-min, et al. Investigation on Effects of Bulk swirl Distortion on Compressor Performance [J].Journal of propulsion technology,2015,36(9): 1324-1330.   
+[15]KANG Shun , LIU Qiang, QI Mingxu. CFD Validation of a high speed centrifugal compressor impeller [J]. Journal of Engineering Thermophysics, 2005, 26 (3): 400-404. (in Chinese).   
+[16] WANG Lei-lei, LAO Da-zhong,LIU Yi-xiong,et al. Non-axisymmetric Flow Characteristics in Centrifugal Compressor.[J]. Journal of Thermal Science, 2015,24(4): 313-322.   
+[17]WANG Lei-lei, LAO Da-zhong,LIU Heng, et al. The Influence of Different Installation Angles of the $1 8 0 ^ { \circ }$ Inlet Bend Pipe on the Centrifugal Compressor Performance [J]. Journal of Engineering Thermophysics, 2014.35(9): 1717-1721.   
+[18]ZHAO Ben, et al. Investigation of Inlet Bent-pipe's Effect on a Turbocharger Compressor: Unsteadiness of Mass Flow and Location of Main Flow Loss[C]. ASME Turbo Expo 2014: Turbine Technical Conference and Exposition. Düsseldorf, Germany, June 16-20,2014,ASME Paper, GT2014-26580.

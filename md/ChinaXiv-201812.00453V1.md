@@ -1,0 +1,161 @@
+1饲粮 2-羟基-4-(甲硫基)丁酸异丙酯添加水平对山羊生长性能、营养物质表观消化率及血清生 化指标和激素水平的影响
+
+陈　东」李四元1\*陈美庆」张佩华1\*李新化」米　慧」沈维军」张　倩²李四文3（1.湖南农业大学动物科学技术学院，长沙410123；2.安迪苏生命科学制品（上海）有限公司，上海 200127；3.茶陵汇旺农牧发展有限公司，株洲 412000)
+
+摘要：本试验旨在研究饲粮 2-羟基-4-(甲硫基)丁酸异丙酯（HMBi）添加水平对山羊生长性能、营养物质表观消化率及血清生化指标和激素水平的影响，以确定山羊饲粮中HMBi的最佳添加水平。选择36只2.5月龄左右、平均体重为（ $1 3 . 3 3 { \pm } 1 . 7 1 \$ ）kg 的山羊，随机分为4组，每组3个重复，每个重复3只（公阉羊1只，母羊2只），各组山羊分别饲喂HMBi添加水平为0（对照组）、 $0 . 0 5 \%$ 、 $0 . 1 0 \%$ 、 $0 . 2 0 \%$ （干物质基础）的试验饲粮。预试期 $1 0 \mathrm { d }$ 正试期40d。结果显示：1) $0 . 1 0 \%$ 组山羊的平均日增重最高，为 $1 5 8 . 8 9 \mathrm { g / d }$ ，料重比最低，为4.82，经济效益最佳，且其平均日增重和毛收益均显著高于对照组（ $P { < } 0 . 0 5$ ），其余各组的平均日增重分别为： $0 . 2 0 \%$ 组， $1 4 1 . 1 1 \mathrm { g / d }$ ； $0 . 0 5 \%$ 组， $1 4 0 . 5 6 ~ \mathrm { g / d }$ ；对照组， $1 1 9 . 4 4 \mathrm { g / d }$ 。2）干物质、中性洗涤纤维、酸性洗涤纤维和消化能表观消化率各组间均无显著差异（ $P >$ 0.05）。 $0 . 1 0 \%$ 组的粗蛋白质表观消化率显著高于对照组（ $P { < } 0 . 0 5$ ）。3）试验第1天，各组山羊血清尿素氮（UN）、葡萄糖（GLU）、甘油三酯（TG）、总胆固醇（TC）、游离脂肪酸（NEFA）、总氨基酸（TAA）含量及生长激素（GH）与类胰岛素生长因子-I（IGF-I）水平均无显著差异（ $. { \cal P } { > } 0 . 0 5$ ）。试验第31天， $0 . 2 0 \%$ 组山羊血清TG含量显著高于其他3组（ $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ ）； $0 . 2 0 \%$ 组山羊血清TC 含量显著低于对照组（ $\scriptstyle P < 0 . 0 5$ ）； $0 . 2 0 \%$ 组山羊血清NEFA含量极显著高于对照组（ $\cdot P { < } 0 . 0 1$ ），显著高于 $0 . 0 5 \%$ 组（ $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ ）； $0 . 0 5 \%$ 、 $0 . 1 0 \%$ 和
+
+$0 . 2 0 \%$ 组山羊血清TAA含量显著高于对照组（ $P { < } 0 . 0 5$ ）； $0 . 0 5 \%$ 和 $0 . 1 0 \%$ 组血清GH水平显著高于对照组（ $\scriptstyle \cdot < 0 . 0 5$ ）， $0 . 2 0 \%$ 组血清GH水平与对照组相比有增加的趋势（ $\scriptstyle P = 0 . 0 8 4 .$ ）；血清IGF-I水平各组之间无显著差异（ $P { > } 0 . 0 5$ ）。由此说明，饲粮中添加HMBi有利于提高山羊对蛋白质的消化利用，促进山羊生长，且添加水平为 $0 . 1 0 \%$ （干物质基础）时经济效益最佳。
+
+关键词：山羊；HMBi；添加水平；生长性能；血清生化指标；激素中图分类号：S816 文献标识码：A 文章编号：
+
+反刍动物饲粮中蛋白质或氨基酸在瘤胃内部分被降解，过瘤胃的氨基酸和微生物蛋白在小肠内被吸收和转化，小肠吸收的氨基酸对于反刍动物维持生长、育肥、繁殖等生命活动极为重要。目前，研究已证实蛋氨酸（methionine，Met）作为反刍动物重要的限制性氨基酸对充分发挥动物生产潜能、缓解蛋白质饲料资源紧缺现状起着巨大作用[1-3]。在动物生长发育和新陈代谢过程中有大量蛋氨酸参与，而其又是大豆饼（粕）等饲料原料中最易缺乏的一种氨基酸[4]。饲粮中直接添加蛋氨酸会被瘤胃微生物部分或完全降解，最终到达小肠可被吸收利用的量较少[5]。因此，如何提高反刍动物过瘤胃蛋氨酸的含量和蛋氨酸在小肠中的吸收率，在反刍动物营养中尤为重要。研究发现，在饲料中添加过瘤胃保护性蛋氨酸可以增加小肠中蛋氨酸的量，提高吸收率，从而克服必需氨基酸短缺带来的氨基酸之间的不平衡，提高反刍动物的生产性能。目前氨基酸过瘤胃保护方法主要有物理包被和化学保护方法，在羊的研究中，蛋氨酸主要为物理包被的过瘤胃蛋氨酸。
+
+2-羟基-4-（甲硫基）-丁酸[2-hydroxy-4-(methylthio) butyri acid，HMB]是一种蛋氨酸羟基类似物，在反刍动物瘤胃中易被降解，其降解率为 $5 0 \% { \sim } 9 9 \% ^ { [ 7 - 8 ] }$ ，因此，HMB 在反刍动物生产上不是理想的蛋氨酸添加剂。2-羟基-4-甲硫基丁酸异丙酯[2-hydroxy-4-(methylthio)butanoic acid isopropylester，HMBi]是用异丙醇与HMB发生酯化反应后生成的，在反刍动物体内先被瘤胃壁迅速吸收，之后分解为HMB，然后经转氨基反应生成蛋氨酸，可以弥补HMB 较易被瘤胃微生物降解的缺点[9]，是一种具有较高生物学价值的蛋氨酸添加剂[10]。目前，对HMBi在反刍动物上的研究与应用主要集中在奶牛上。一般认为饲粮中添加HMBi能够提高奶牛产奶量、乳蛋白率和乳脂率[1-12]。HMBi鲜见在羊上的研究报道，因此，本试
+
+验通过研究饲粮HMBi添加水平对山羊生长性能、营养物质表观消化率及血清生化指标和激素水平的影响，以确定山羊饲粮中HMBi的最佳添加水平，旨在为HMBi作为一种饲料添加剂应用于生长阶段山羊提供参考。  
+1材料与方法  
+1.1试验动物与饲粮  
+在长沙市浏阳淳丰养殖合作社选择36只2.5月龄左右健康浏阳黑山羊作为试验动物，平均体重为（ $1 3 . 3 3 { \pm } 1 . 7 1 \$ ）kg。采用单因素试验设计，将试验羊随机分为4组，每组3个重复，每个重复3只羊（公阉羊1只，母羊2只）。参考NRC（2007）和我国《肉羊饲养标准》（NY/T816-2004）中 $1 5 \mathrm { k g }$ 体重、平均日增重为 $1 1 0 \mathrm { g / d }$ 的育肥羊营养需要量，配制满足试验期山羊育肥阶段营养需要的试验饲粮，试验饲粮组成及营养水平见表1。各组试验羊分别饲喂HMBi添加水平为0（对照组）、 $0 . 0 5 \%$ 、 $0 . 1 0 \%$ 、 $0 . 2 0 \%$ （干物质基础）的试验饲粮，试验饲粮均制备成全混合颗粒饲料（颗粒直径为 $8 \mathrm { m m }$ ，长度为 $1 0 \mathrm { m m }$ ）饲喂。上述试验饲粮成本依次为1901.1、1938.6、1976.1和2051.1元/t，活羊价格为25元/kg。
+
+表1试验饲粮组成及营养水平 (风干基础)  
+Table 1Composition and nutrient levels of experimental diets (air-dry basis)   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">HMBi 添加水平 HMBi supplemental level/%</td></tr><tr><td>0</td><td>0.05</td><td>0.10</td><td>0.20</td></tr><tr><td>原料Ingredients</td><td></td><td></td><td></td><td></td></tr><tr><td>稻草 Straw</td><td>31.00</td><td>31.00</td><td>31.00</td><td>31.00</td></tr><tr><td>苜蓿干草Alfalfa</td><td>19.00</td><td>19.00</td><td>19.00</td><td>19.00</td></tr><tr><td>玉米Corn</td><td>36.00</td><td>36.00</td><td>36.00</td><td>36.00</td></tr><tr><td>油糠 Bran oil</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td></tr><tr><td>豆粕 Soybean meal</td><td>9.50</td><td>9.50</td><td>9.50</td><td>9.50</td></tr><tr><td>碳酸钙 CaCO</td><td>0.40</td><td>0.40</td><td>0.40</td><td>0.40</td></tr><tr><td>食盐 NaCl</td><td>0.40</td><td>0.40</td><td>0.40</td><td>0.40</td></tr><tr><td>磷酸氢钙CaHPO4</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td colspan="3">0.05 0.10</td><td>0.20</td></tr><tr><td>2-羟基-4-甲硫基丁酸异丙酯HMBi 预混料 Premix1)</td><td>0.50</td><td>0.45</td><td>0.40</td><td>0.30</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td><td></td></tr><tr><td>代谢能 ME/(MJ/kg)</td><td>10.33</td><td>10.33</td><td>10.33</td><td></td></tr><tr><td>粗蛋白质CP</td><td></td><td></td><td></td><td>10.33</td></tr><tr><td>粗脂肪 EE</td><td>11.13</td><td>11.30</td><td>11.14</td><td>11.60</td></tr><tr><td>中性洗涤纤维 NDF</td><td>1.54 35.82</td><td>1.81</td><td>1.55</td><td>1.85</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>23.40</td><td>37.44</td><td>35.09</td><td>34.36</td></tr><tr><td></td><td></td><td>25.57</td><td>24.42</td><td>23.31</td></tr><tr><td>钙Ca</td><td>0.60</td><td>0.81</td><td>0.68</td><td>0.68</td></tr><tr><td>磷P</td><td>0.37</td><td>0.34</td><td>0.33</td><td>0.32</td></tr></table></body></html>
+
+1)预混料为每千克饲粮提供 The premix provided the following per $\mathrm { k g }$ of diets: $\mathrm { ~ I ~ 0 . 1 5 ~ m g }$ Co 0.15 mg, Cu 15.00 mg, Fe $3 5 . 0 0 \mathrm { m g }$ ， $Z \mathrm { n 6 0 . 0 0 m g }$ ， $\mathrm { M n \ 8 0 . 0 0 \ m g }$ ，Se $0 . 0 5 \mathrm { m g }$ ，VA 11 000.00IU，生物素 biotin $0 . 0 6 \mathrm { m g }$ ，VE 28.94IU，VD 3 3327.50 IU，烟酰胺 nicotinic acid $4 . 3 4 \mathrm { m g }$ 瘤胃素 rumensin 18.80 mg。2)代谢能为计算值，其余为实测值。ME was a calculated value,while the others weremeasured values.1.2饲养管理本试验在长沙市浏阳淳丰养殖合作社进行，预饲 $1 0 \mathrm { d }$ 后开始正式试验，试验期 $3 0 \mathrm { d }$ 0试验羊在购买时打好耳标，预饲前免疫注射三连四防疫苗，并灌服伊维菌素溶液（ $2 . 5 \mathrm { m L } /$ 只)进行驱虫处理。试验羊每3只为1圈饲养，每圈占地 $1 2 \mathrm { m } ^ { 2 }$ ，饲喂时间分别为每天的08:00和17:00，每天根据前1天料槽内剩余料重调整饲喂量，确保料槽每天有 $10 \%$ 左右的剩料，自由饮水。饲养试验结束后，各组分别选取6只体况相近的羊只（3只公阉羊，3只母羊），置于消化代谢笼内，可自由饮水，连续进行5d的消化试验，每天准确记录羊只的采食量，用全收粪法记录粪量并采样，消化试验饲粮组成及饲喂方法与饲养试验相同。
+
+# 1.3 指标测定
+
+# 1.3.1生长性能测定
+
+试验开始和结束日分别于晨饲前空腹称重作为初重和末重，计算平均日增重（averagedaily gain，ADG）；每日饲喂前清理料槽并称重剩料，计算平均日采食量（average daily feedintake，ADFI），并根据 ADFI和ADG 计算料重比（F/G）。以每天增重收益减去每天饲粮成本所获得的毛收益作为经济效益的度量指标。
+
+ADG(g/d)=[(末重-始重)/试验天数 $\lvert \times 1 0 0 0$ ADFI(g/d)=(正试期总采食量/试验天数) $) \times 1 0 0 0$ 料重比 $\underline { { = } }$ ADFI/ADG;毛收益[元/(只·d)] $\ c =$ 增重收益-饲粮成本。
+
+# 1.3.2营养物质表观消化率测定
+
+消化试验期间每天08:00和17:00对代谢笼中的粪便收集并称重记录，每日饲喂前从饲粮中随机取样，将5d的样品混匀后备测。消化试验中采集的饲粮、粪便样品进行总能（grossenergy，GE）、干物质（dry matter，DM）、粗蛋白质（crude protein，CP）、粗脂肪（etherextract，EE）、中性洗涤纤维（neutral detergent fiber，NDF）、酸性洗涤纤维（acid detergentfiber，ADF）、钙（Ca）和磷（P）含量测定，测定方法参照《饲料分析及饲料质量检测技术》[13]进行。饲粮中各营养物质表观消化率计算公式如下：饲粮中某养分的表观消化率 $( \% ) = [$ （食入饲粮中该养分含量一粪便中该养分含量）/食入饲粮中该养分含量 $] { \times } 1 0 0$ 。
+
+# 1.3.3血清生化指标和激素水平的测定
+
+试验开始第1天和第31天每组随机选择3只母羊，于晨饲前颈静脉抽血 $1 0 ~ \mathrm { m L }$ ，静置$1 5 \mathrm { m i n }$ ， $3 \ : 0 0 0 \ : \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ ，分离血清，于-20℃冰箱保存，待测血清生化指标及激素水平。血清生化指标包括尿素氮（urea nitrogen，UN）、葡萄糖（glucose,GLU）、甘油三酯（triglycerides,TG）、总胆固醇（total cholesterin,TC）、游离脂肪酸（non-esterified fattyacid,NEFA）、总氨基酸（total amino acid,TAA）含量，血清激素指标包括生长激素（growthhormone,GH）和类胰岛素生长因子- $\mathrm { ~ I ~ }$ （insulin-like growth factor-I,IGF-I）。上述指标均按照相应试剂盒说明书测定，试剂盒由北京安迪华泰生物科技有限公司提供。
+
+# 1.4数据统计分析
+
+试验数据利用Excel2007进行初步整理，以平均值 $\cdot ^ { \pm }$ 标准差表示，采用SAS9.0软件进行统计分析，并采用ANOVA程序进行单因素方差分析，Duncan氏法进行多重比较，分别以 $P { < } 0 . 0 5$ 和 $P { < } 0 . 0 1$ 作为差异显著和极显著的判断标准。
+
+# 2结果与分析
+
+2.1饲粮HMBi添加水平对山羊生长性能和经济效益的影响由表2可知，4组山羊的始重、末重和平均日采食量均无显著差异（ $\cdot { \cal P } { > } 0 . 0 5 .$ ）， $0 . 1 0 \%$ 组山羊 ADG 显著高于对照组( $\cdot P { < } 0 . 0 5 \$ )，其中 $0 . 1 0 \%$ 组ADG为 $1 5 8 . 8 9 \mathrm { g / d }$ ，对照组为119.44g/d； $0 . 1 0 \%$ 组山羊F/G 显著低于对照组（ $P { < } 0 . 0 5$ ），其中 $0 . 1 0 \%$ 组 $\mathrm { F / G }$ 为4.82，对照组为  
+6.61； $0 . 0 5 \%$ 和 $0 . 2 0 \%$ 组的ADG、F/G与对照组均无显著差异（ $P { > } 0 . 0 5$ ）。由表3可知，山羊饲粮中添加HMBi后，各组之间饲粮成本差异不显著（ $P { > } 0 . 0 5 \$ ），经过饲喂试验， $0 . 1 0 \%$ 组增重收益和毛收益最高，均显著高于对照组（ $P { < } 0 . 0 5 \$ ）， $0 . 1 0 \%$ 组增重收益为3.97元／（只·d），比对照组高出0.98元／（只·d）； $0 . 1 0 \%$ 组毛收益为2.35元/（只·d），比对照组高出0.79元／（只·d）， $0 . 0 5 \%$ 组和 $0 . 2 0 \%$ 组的增重收益和毛收益次之，对照组最低。
+
+表2饲粮HMBi添加水平对山羊生长性能的影响  
+Table 2Effects of HMBi supplemental level on growth performance of goats   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">HMBi添加水平HMBi supplementallevel/%</td><td rowspan="2">P值 P-value</td></tr><tr><td>0</td><td>0.05</td><td>0.10</td><td>0.20</td></tr><tr><td>始重Initial weight/kg</td><td>13.90±1.59</td><td>13.45±1.30</td><td>12.95±1.30</td><td>13.00±2.30</td><td>0.787</td></tr><tr><td>末重Final weight/kg</td><td>17.48±1.52</td><td>17.67±1.17</td><td>17.72±1.19</td><td>17.23±2.70</td><td>0.971</td></tr><tr><td>平均日增重 ADG/(g/d)</td><td>119.44±27.78b</td><td>140.56±15.92ab</td><td>158.89±15.83a</td><td>141.11±17.81ab</td><td>0.043</td></tr></table></body></html>
+
+<html><body><table><tr><td>平均日采食量 ADFI/(g/d)</td><td>735.80±86.99</td><td>797.25±20.86</td><td>801.44±101.01</td><td>867.28±110.23</td><td>0.547</td></tr><tr><td>料重比F/G</td><td>6.61±1.62a</td><td>5.45±0.79ab</td><td>4.82±0.73b</td><td>5.31±0.96ab</td><td>0.094</td></tr></table></body></html>
+
+同行数据肩标无字母或相同字母表示差异不显著 $( P { > } 0 . 0 5 )$ ,不同小写字母表示差异显著（ $P { < } 0 . 0 5$ ），不同大写字母表示差异极显著（ $_ { \cdot  { P } < 0 . 0 1 }$ ）。下表同。In the same row, values with no letter or the same letter superscripts mean no significantdifference ( $P > 0 . 0 5$ ),while with different small letter superscripts mean significant difference ( $P$ $< 0 . 0 5 )$ , and with different capital letter superscripts mean significant difference ( $( P < 0 . 0 1 )$ ). Thesame as below.
+
+Table 3Effects of HMBi supplemental level on economic benefit of goats 元/(只·d)   
+
+<html><body><table><tr><td colspan="5">项目</td></tr><tr><td>Items</td><td>0</td><td>0.05</td><td>HMBi 添加水平 HMBi supplemental level/% 0.10</td><td>0.20</td><td>P值 P-value</td></tr><tr><td>增重收益 Gain benefit</td><td>2.99±0.69b</td><td>3.51±0.40ab</td><td>3.97±0.40a</td><td>3.53±0.45ab</td><td>0.043</td></tr><tr><td>饲粮成本 Dietary cost</td><td>1.40±0.17</td><td>1.55±0.04</td><td>1.58±0.20</td><td>1.78±0.23</td><td>0.257</td></tr><tr><td>毛收益 Gross returns</td><td>1.56±0.65b</td><td>1.96±0.39ab</td><td>2.35±0.30a</td><td>1.75±0.46ab</td><td>0.036</td></tr></table></body></html>
+
+2.2饲粮HMBi添加水平对山羊营养物质表观消化率的影响
+
+由表4可知，饲粮DM、NDF、ADF和DE表观消化率各组间无显著差异（ $\cdot P { > } 0 . 0 5 \$ ）。$0 . 1 0 \%$ 组的CP表观消化率最高，为 $7 5 . 8 6 \%$ ，显著高于对照组（ $\cdot P { < } 0 . 0 5 \rangle$ ）， $0 . 0 5 \%$ 组和 $0 . 2 0 \%$ 组的CP表观消化率次之，分别为 $7 2 . 7 6 \%$ 和 $71 . 5 9 \%$ ，对照组的CP表观消化率最低，为$6 9 . 6 8 \%$ 。
+
+表3饲粮HMBi添加水平对山羊经济效益的影响  
+表4饲粮HMBi添加水平对山羊营养物质表观消化率的影响  
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="4">HMBi 添加水平 HMBi supplemental level/%</td></tr><tr><td>0</td><td>0.05</td><td>0.10</td><td>0.20</td></tr><tr><td>干物质 DM</td><td>56.46±0.83</td><td>55.59±1.81</td><td>57.26±2.08</td><td>58.25±3.83</td></tr><tr><td>粗蛋白质 CP</td><td>69.68±1.71a</td><td>72.76±2.34ab</td><td>75.86±1.11b</td><td>71.59±2.79ab</td></tr><tr><td>中性洗涤纤维NDF</td><td>27.97±7.04</td><td>28.82±10.06</td><td>31.18±1.09</td><td>26.57±3.84</td></tr></table></body></html>
+
+Table4Effects of HMBi supplemental level on nutrient apparent digestibility of goats %
+
+<html><body><table><tr><td>酸性洗涤纤维 ADF</td><td>32.37±6.85</td><td>36.84±1.01</td><td>36.09±5.22</td><td>24.48±6.43</td></tr><tr><td>消化能 DE</td><td>59.29±2.24</td><td>64.72±1.56</td><td>60.28±1.78</td><td>58.03±2.71</td></tr></table></body></html>
+
+2.3饲粮HMBi添加水平对山羊血清生化指标的影响
+
+由表5可知，试验第1天，血清UN、GLU、TG、TC、NEFA 和 TAA含量各组之间均无显著差异（ $. P { > } 0 . 0 5$ ）。试验第31天， $0 . 0 5 \%$ 组、 $0 . 1 0 \%$ 组和 $0 . 2 0 \%$ 组山羊血清TAA含量显著高于对照组 （ $\scriptstyle . P < 0 . 0 5 .$ ），3个试验组之间无显著差异（ $. { \cal P } { > } 0 . 0 5$ ），表明饲粮添加HMBi能显著提高山羊血清TAA含量。试验第31天， $0 . 2 0 \%$ 组山羊血清 TG含量为 $0 . 9 3 \mathrm { \ m m o l / L }$ ，极显著高于 $0 . 1 0 \%$ 组( $\cdot P { < } 0 . 0 1$ ），显著高于其他3组（ $P { < } 0 . 0 5$ ）， $0 . 1 0 \%$ 组山羊血清TG含量最低，为 $0 . 7 7 \mathrm { m m o l / L }$ 。试验第31天， $0 . 2 0 \%$ 组山羊血清TC 含量为 $2 . 4 7 \mathrm { m m o l / L }$ ，显著低于对照组（ $_ { \cdot \textcircled { P } < 0 . 0 5 }$ ），其余各组之间差异不显著（ $. { \cal P } { > } 0 . 0 5$ ）。试验第31天， $0 . 2 0 \%$ 组山羊血清NEFA含量为 $0 . 3 9 \mathrm { m m o l / L }$ ，极显著高于对照组（ $_ { \cdot  { P } < 0 . 0 1 }$ ），显著高于 $0 . 0 5 \%$ 组( $_ { . P < 0 . 0 5 ) }$ ），其余各组之间差异不显著（ $P { > } 0 . 0 5$ ）。
+
+表5饲粮HMBi添加水平对山羊血清生化指标的影响  
+Table5Effects of HMBi supplemental level on serum biochemical indices of goats   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td rowspan="2">试验阶段</td><td colspan="4">HMBi 添加水平 HMBi supplemental level/%</td></tr><tr><td>Test period 0</td><td>0.05</td><td>0.10</td><td>0.20</td></tr><tr><td>尿素氮</td><td>第1天Day 1</td><td>6.69±0.39</td><td>6.73±0.34</td><td>6.40±0.41</td><td>6.33±0.37</td></tr><tr><td>UN/（mmol/L)</td><td>第31天</td><td>5.91±0.28</td><td>5.75±1.26</td><td>5.39±0.42</td><td>5.42±0.99</td></tr><tr><td></td><td>Day 31 第1天Day</td><td>36.75±0.13</td><td>36.50±0.89</td><td>37.56±1.14</td><td>37.72±2.50</td></tr><tr><td>总氨基酸 TAA/(mg/dL)</td><td>1 第31天</td><td>34.45±2.99a</td><td>38.58±1.20b</td><td>39.42±4.04b</td><td>39.48±2.96b</td></tr><tr><td></td><td>Day 31 第1天Day</td><td>3.73±0.85</td><td>4.19±0.44</td><td>4.21±0.56</td><td>4.08±0.87</td></tr><tr><td>葡萄糖 GLU/（mmol/L)</td><td>1 第31天</td><td>3.23±0.53</td><td>2.62±0.11</td><td>3.19±0.50</td><td></td></tr><tr><td></td><td>Day 31</td><td>1.00±0.02</td><td>0.98±0.04</td><td></td><td>2.77±0.61</td></tr><tr><td>甘油三酯</td><td>第1天Day 1</td><td></td><td></td><td>1.05±0.04</td><td>1.23±0.13</td></tr><tr><td>TG/（mmol/L)</td><td>第31天 Day 31</td><td>0.83±0.03ABa</td><td>0.80±0.04ABa</td><td>0.77±0.03Aa</td><td>0.93±0.02Bb</td></tr><tr><td></td><td>第1天Day</td><td>3.37±0.17</td><td>3.23±0.07</td><td>3.36±0.21</td><td>3.19±0.06</td></tr><tr><td>总胆固醇 TC/（mmol/L)</td><td>1 第31天</td><td>2.81±0.08b</td><td>2.67±0.15ab</td><td>2.63±0.17ab</td><td>2.47±0.10a</td></tr><tr><td></td><td>Day 31</td><td></td><td></td><td></td><td></td></tr><tr><td>游离脂肪酸</td><td>第1天Day</td><td>0.32±0.08</td><td>0.28±0.01</td><td>0.31±0.01</td><td>0.30±0.01</td></tr></table></body></html>
+
+<html><body><table><tr><td>第31天 0.31±0.01Aa</td><td></td><td>0.31±0.03Aa</td><td>0.36±0.03ABab</td><td>0.39±0.02Bb</td></tr><tr><td>Day 31</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+2.4饲粮HMBi添加水平对山羊血清激素水平的影响
+
+由表6可知，试验第1天，血清GH和IGF-I水平各组之间差异不显著（ $\scriptstyle P > 0 . 0 5 { \mathrm { . } }$ ）；试验第31天， $0 . 0 5 \%$ 组和 $0 . 1 0 \%$ 组血清GH水平显著高于对照组（ $_ { . } P { < } 0 . 0 5 { \ : } )$ ）， $0 . 2 0 \%$ 组与对照组相比有增加的趋势（ $\scriptstyle P = 0 . 0 8 4$ ），表明饲粮中添加HMBi能提高山羊血清GH水平。试验第1天和第31天，血清IGF-I水平各组之间均无显著差异（ $. { \cal P } { > } 0 . 0 5$ ）。
+
+表6饲粮HMBi添加水平对山羊血清激素水平的影响  
+Table 6Effects of HMBi supplemental level on serum hormone levels of goats   
+
+<html><body><table><tr><td rowspan="2">指标 Items</td><td colspan="2">试验阶段</td><td colspan="4">HMBi 添加水平 HMBi supplemental level/%</td></tr><tr><td>Test period</td><td></td><td>0</td><td>0.05</td><td>0.10</td><td>0.20</td></tr><tr><td rowspan="4">生长激素 GH/(ng/dL)</td><td>第1天</td><td></td><td>0.46±0.01</td><td>0.48±0.01</td><td>0.47±0.02</td><td>0.50±0.02</td></tr><tr><td>Day 1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第31天</td><td>Day 31</td><td>0.51±0.01a</td><td>0.53±0.01b</td><td>0.55±0.03b</td><td>0.54±0.02ab</td></tr><tr><td></td><td>第1天</td><td>0.50±0.03</td><td>0.50±0.30</td><td>0.52±0.02</td><td>0.49±0.04</td></tr><tr><td rowspan="3">类胰岛素生长因子-I IGF- I /(ng/dL)</td><td>Day 1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>第31天</td><td>0.49±0.02</td><td>0.52±0.01</td><td>0.52±0.05</td><td>0.51±0.02</td></tr><tr><td></td><td>Day 31</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+3讨论
+
+3.1饲粮HMBi添加水平对山羊生长性能的影响
+
+已有研究显示，在饲粮中添加不同形式的蛋氨酸可在一定程度上提高动物的增重效益和经济效益。例如：唐波等[14]在犊牛精补料中添加HMBi，发现添加组特牛的总增重和日增重分别比对照组提高 $1 4 . 8 2 \%$ 和 $1 4 . 9 3 \%$ ，但差异均不显著。王萌等[15]在舍饲育肥滩羊羔羊饲粮中添加包被蛋氨酸包被物为棕榈油，蛋氨酸含量约为 $40 \%$ ），发现添加包被蛋氨酸能显著提高滩羊羔羊的全期总增重，对滩羊的生产性能具有促进作用。燕磊等[16在9月龄小尾寒羊饲粮中添加包被蛋氨酸（包被物为动物油，蛋氨酸含量约为 $70 \%$ ）能显著提高小尾寒羊的 ADG，其中 $0 . 4 8 5 \%$ 添加组（基础饲粮基础上添加）的 ADG 极显著高于对照组。Han 等[17]在生长阶段荷斯坦公牛饲粮中添加HMBi[添加量分别为15、25g/（d·头）]，发现试验组能极显著提高荷斯坦公牛的末重、总增重、ADG。郗伟斌等[18]在奶牛饲粮中添加HMBi[围产前期5g/（d头），泌乳高峰期 $\mathrm { 1 0 ~ g / }$ （d·头）]，发现HMBi能显著提高奶牛的产奶性能及牛奶品质，从而提高奶牛的经济效益。本试验结果表明，饲粮添加HMBi能促进山羊的生长，且在添加水平为 $0 . 1 0 \%$ 时ADG和F/G显著高于对照组，而当添加水平增加到 $0 . 2 0 \%$ 时，山羊的增重速度与添加水平为 $0 . 1 0 \%$ 时相比有所下降。这主要是因为饲粮中大部分蛋白质被瘤胃微生物降解，只有小部分被小肠吸收利用，饲粮中补充过瘤胃氨基酸是一种有效提高反刍动物饲粮蛋白质水平的方式。本研究结果也表明在山羊饲粮中添加HMBi促进了山羊的生长，这与以往的研究结果一致。但当HMBi的添加水平超过一定量时，山羊的生长速度放缓，这可能是因为：一方面，当超出动物单位代谢体重对蛋氨酸的需要量时，动物机体需动用自身能量来消耗多余氨基酸；另一方面，机体多余氨基酸会造成蛋白质代谢紊乱，进而影响动物的生长发育。欧阳佩珍等[19]研究表明，高剂量的蛋氨酸会引起大鼠甘氨酸甲基转移酶活性显著提高，从而大量消耗甘氨酸，最终引起机体氨基酸失衡。
+
+3.2饲粮HMBi添加水平对山羊营养物质表观消化率的影响
+
+Eltahawy 等[20]研究发现，在羔羊每千克精料中添加 $3 . 3 0 ~ \mathrm { g }$ 过瘤胃蛋氨酸能显著提高羔羊的增重，试验羊的 DM、有机物质(OM)、CP、EE 和无氮浸出物(NFE)表观消化率均显著高于对照组。王慧媛等[21研究发现，与对照组相比，在肉羊饲粮中添加过瘤胃蛋氨酸（蛋氨酸含量大于 $84 \%$ ）后DM、CP、EE、NDF和ADF表观消化率无显著变化。Baghbanzadeh-Nobari等[22]研究发现，在母羊饲粮中添加HMBi（添加量为 $1 . 8 ~ \mathrm { g / k g ~ D M }$ ）能显著提高OM、CP 和NDF 表观消化率，有提高DM和ADF表观消化率的趋势。本研究结果显示，对照组相比， $0 . 1 0 \%$ 组CP表观消化率显著高于对照组，说明饲粮中添加 $0 . 1 0 \%$ 的HMBi 能增加CP 的表观消化率，故其相应的增重效果最好；饲粮中HMBi添加水平达 $0 . 2 0 \%$ 时，各营养物质的表观消化率与对照组相比均差异不显著，可见HMBi添加水平在 $0 . 2 0 \%$ 以内时对山羊的营养物质表观消化率并无不利影响。
+
+3.3饲粮 HMBi添加水平对山羊血清生化指标的影响  
+血清UN 是蛋白质代谢后的产物，血清UN 含量可在一定程度上反映动物体内蛋白质代谢和饲粮氨基酸的平衡状况[23]。蛋白质利用率的高低以及体内氨基酸平衡与否，决定血清UN 含量的高低，当蛋白质利用率高或体内氨基酸平衡时，血清UN 含量降低，反之则升高，此外，血清UN含量还与体内氮沉积有密切相关性[24]。肝脏是氨基酸代谢的主要器官，血清TAA 含量在一定程度上能够反映蛋白质及氨基酸的代谢状况，以及肝脏的健康状况。McCollum 等[25]在绵羊饲粮中添加液体 HMB，发现绵羊对氮的吸收能力增强。Oke 等[26]在绵羊饲粮中添加过瘤胃蛋氨酸，随着添加水平的提高，绵羊机体的氮沉积水平提高。Baghbanzadeh-Nobari等[22]在母羊饲粮中添加HMBi(添加量为 $1 . 8 ~ \mathrm { g / k g ~ D M } \$ ,发现添加HMBi能显著降低血清UN含量。Feng 等[27]在6月龄辽宁绒山羊饲粮中添加HMBi（添加量为1.27%），发现添加HMBi能显著降低血浆中UN含量。夏科等[28]研究发现在干奶后期奶牛饲粮中添加HMBi对血清 TAA 含量无显著影响。本研究结果表明，饲粮添加 HMBi对山羊血清UN 含量的降低效果不显著，可能与添加水平、试验所采用的基础饲粮以及动物自身情况的差异有关。但从试验结果来看，随着饲粮中HMBi添加水平的增加，表现为血清UN 含量不断降低，说明添加HMBi可能存在降低血清UN含量的效果。与对照组相比，3个试验组山羊血清 TAA 含量均显著增加。本研究中血清UN 和 TAA 含量的变化进一步佐证了添加HMBi能促进山羊的生长。  
+血清GLU、TG、TC 和 NEFA是动物机体糖脂代谢相关的重要指标，反映机体能量的动态平衡。血清GLU含量在一定程度上和生长速度呈正相关。血清TC 含量反映机体脂质代谢状况，血清TG 是脂肪代谢的产物，是反映脂肪消化吸收状态的直接指标，其含量越高，表明机体脂肪利用率越低[29]，NEFA 是脂肪水解的产物，其含量越高，表明脂肪分解越强。脂肪分解过程中会产生大量的 NEFA，产生的NEFA进入血液及肝脏，肝脏是合成脂肪的主要部位，肝脏可以利用脂肪酸合成 TG。Baghbanzadeh-Nobari 等[2]研究发现，在母羊饲粮中添加HMBi（添加量为 $1 . 8 ~ \mathrm { g / k g }$ DM）能显著提高血清GLU 含量，显著降低血清 TG含量。唐波等[14]和王群等[30]研究均发现,添加HMBi组血清TG含量在试验后期极显著低于对照组，表明 HMBi有利于山羊的脂肪沉积。郗伟斌等[18]通过在奶牛饲粮中补充HMBi发现，与对照组相比，试验组血清 NEFA、TC 和 TG 含量无显著变化，但奶牛血清 NEFA 和 TC 含量有降低趋势。本研究发现，饲粮中添加 HMBi对山羊血清GLU 含量无显著影响，这与郗伟斌等[18]得出的在奶牛干奶期饲粮中添加HMBi对奶牛血清GLU 含量影响较小的结果相一致。本研究发现，试验第1天，各组山羊血清 NEFA、TG、TC 含量无显著差异；试验第31天，0.20%组山羊血清 TG 含量显著高于其他3组， $0 . 2 0 \%$ 组山羊血清 TC 含量显著低于对照组，0.20%组山羊血清 NEFA 含量极显著高于对照组，显著高于 $0 . 0 5 \%$ 组，表明饲粮添加 HMBi能显著或极显著提高山羊血清 NEFA 含量，显著提高山羊血清 TG 含量，显著降低山羊血清TC 含量，该结果与生长性能的结果是相一致的。  
+3.4饲粮 HMBi添加水平对山羊血清激素水平的影响  
+GH的促生长作用是通过IGF-I介导的,而IGF-I可以扩大GH的促生长作用[31]。Rausch等[32]研究表明，通过外源方式给肉牛注射GH，可以提高肉牛生长速度，改善饲料转化率，提高血清中 IGF-I水平。耿忠诚等[33]在辽宁绒山羊饲粮中添加过瘤胃蛋氨酸，发现添加试验组可显著提高绒山羊血液GH水平,且添加水平为 $1 0 \mathrm { g / d }$ 时对绒山羊的血液激素水平的影响较大。Han 等[17]在生长阶段荷斯坦公牛饲粮中添加 HMBi，发现 HMBi 添加水平为15 g/（d·头）时能极显著提高血清GH水平。本研究发现，试验第1天，各组之间血清GH 和IGF-Ⅰ水平差异不显著；试验第31天， $0 . 0 5 \%$ 组和 $0 . 1 0 \%$ 组血清GH水平显著高于对照组，这与 Han等[17]的研究结果一致，说明饲粮中添加 HMBi对山羊的生长具有促进作用，但本试验中添加HMBi后对山羊血清 IGF-I水平无显著影响，这与Rausch 等[32]的研究结果不一
+
+致，关于HMBi对山羊血清激素水平产生影响的机理目前尚不清楚，有待进一步研究。
+
+4结论
+
+$\textcircled{1}$ 与对照组相比，饲粮中添加 $0 . 1 0 \%$ 的HMBi能显著提高山羊的ADG，可获得较好的经济效益。
+
+$\textcircled{2}$ 与对照组相比，饲粮中添加 $0 . 1 0 \%$ 的HMBi能显著提高山羊CP表观消化率，显著升高血清TAA含量和GH水平。
+
+参考文献：   
+[1] 董贤文,左福元.过瘤胃蛋氨酸的研究与应用[J].饲料广角,2012(8):30-32.   
+[2] 杨志林,李蓓蓓,冯建芳.过瘤胃氨基酸在反刍动物生产中的应用研究[J].饲料博 览,2016(8):18-20.   
+[3] 胡诚军,江青艳,孔祥峰.畜禽蛋氨酸代谢及其生理功能研究进展[J].饲料工 业,2016,37(15):23-27.   
+[4]朱中胜,李吕木.蛋氨酸研究进展[J].饲料博览,2015(7):11-17.   
+[5]卢玉飞,张雪元,马婷婷,等.过瘤胃蛋氨酸在反刍动物中的营养研究进展[J].饲料工 业,2014,35(17):13-18.   
+[6]褚永康,林英庭,陈俏俏.过瘤胃氨基酸在反刍动物饲料中的应用[J].中国饲   
+料,2012(6):36-39.   
+[7] JONES B A,MOHAMED O E,PRANGE R W,et al.Degradation of methionine hydroxy analog in the rumen of lactating cows[J].Journal of Dairy Science,1988,71(2):525-529.   
+[8] KOENIG K M,RODE L M,KNIGHT C D,et al.Ruminal escape,gastrointestinal absorption, and response of serum methionine to supplementation of liquid methionine hydroxy analog in dairy cows[J].Journal of Dairy Science,1999,82(2):355-361. [9] GRAULET B,RICHARD C,ROBERT J C.The isopropyl ester of methionine hydroxy-analogue is absorbed through the rumen wall in the cow[J].Journal of Animal & Feed Sciences,2004,13(1S):269-272.   
+[10]林奕,王之盛,周安国.2-羟基-4-甲硫基丁酸异丙酯(HMBi)以及2-羟基-4-甲硫基丁酸 (HMB)在反刍动物中的应用[J].中国奶牛,2008(11):11-15.   
+[11]杨保奎,热合木塔依,奚雨萌,等.蛋氨酸羟基类似物异丙酯对奶牛产奶性能和血清生化 指标的影响[J].福建农林大学学报（自然科学版）,2017,46(1):89-94.   
+[12]谢小峰,周玉明,王明亮.日粮添加过瘤胃蛋氨酸对奶牛生产性能的影响[J].畜牧与兽 医,2014,46(4):50-51.   
+[13]张丽英.饲料分析及饲料质量检测技术[M].3版.北京:中国农业大学出版社,2007. [14]唐波,王群,奚雨萌,等.蛋氨酸羟基异丙酯对犊牛生长、血清生化指标和激素水平的影响 [J].江苏农业学报,2014(3):567-573.   
+[15]王萌,周玉香,张艳梅,等.过瘤胃蛋氨酸对舍饲滩羊生产性能的影响[J].家畜生态学 报,2017,38(1):36-38.   
+[16] 燕磊,杨维仁,杨在宾,等.不同水平瘤胃保护性蛋氨酸对小尾寒羊氮代谢及生产性能的 影响[J].家畜生态学报,2005,26(6):27-30.   
+[17]HAN Z Y,YANG B K,YANG Z,et al.Effects of 2-hydroxy-4-(methylthio) butanoic acid isopropyl ester on growth and blood components in growing Holstein steers[J].Animal Science Journal,2016,88(2):286-293.   
+[18]郗伟斌,夏科,张永根,等.平衡赖氨酸、蛋氨酸对奶牛生产性能及血液生化指标的影响[C]. 张沅.中国牛业健康发展与科技创新——中国畜牧兽医学会第七届养牛学分会2009年学术研 讨会论文集,南京：南京农业大学乳牛科学研究所，2009：101. [19]欧阳佩珍,唐漾波.过量蛋氨酸对大鼠肝、脑组织 $^ 3 \mathrm { H } \cdot$ -亮氨酸掺入量的影响[J].营养学 报,1993(3):304-308.   
+[20] ELTAHAWY A S,ISMAEIL A M.Methionine-supplemented diet increases the general performanceand valueofRahmani lambs[J].Iranian Journalof Applied Animal Science,2013,3:513-520.   
+[21] 王慧媛,张英杰,刘月琴,等.日粮添加过瘤胃蛋氨酸对肉羊生产性能及营养物质消化率 的研究[J].饲料工业,2014,35(3):51-54.   
+[22] BAGHBANZADEH-NOBARI B,TAGHIZADEH A,KHORVASH M,et al.Digestibility,ruminal fermentation,blood metabolitesandantioxidantstatusinewes supplemented with $D L$ -methionine orhydroxy-4 (methylthio） butanoicacid isopropyl ester[J].Journal of Animal Physiology and Animal Nutrition,2017,101(5)266-277.   
+[23]STANLEY C C,WILLIAMS C C,JENNY B F,et al.Effects of feeding milk replacer once versus twice daily on glucose metabolism in holstein and jersey calves[J].Journal of Dairy Science,2002,85(9):2335-2343.   
+[24]严昌国,金泽林,金太花,等.外源生长激素在延边黄牛上的试验研究(III) -对血液生理 生化指标的影响[J].中国畜牧杂志,2005,41(3):6-9.   
+[25] MCCOLLUM MQ,VAZQUEZ-ANON M,DIBNER J J,et al.Absorptionof 2-hydroxy-4-(methylthio) butanoic acid by isolated sheep ruminal and omasal epithelia[J].Journal of Animal Science,2000,78(4):1078-1083.   
+[26]OKE B O,LOERCH S C,DEETZ L E.Effects of rumen-protected methionine and lysine on ruminant performance and nutrient metabolism[J].Journal of Animal Science,1986,62(4):1101-1112.   
+[27]FENG Y L,SUN Y,DENG H W,et al.Promotion of cashmere growth by sulfur supplements   
+incashmere goats[J].Revista Brasileira De Zootecnia,2013,42(11):792-797.   
+[28]夏科,张永根,王燕,等.日粮添加 HMBi对奶牛血液指标及健康状况的影响[J].中国饲 料,2010(12):9-12.   
+[29]KNOWLES T A,SOUTHERN L L,BIDNER T D,et al.Effect of dietary fiber or fat in low-crude protein,crystalline amino acid-supplemented diets for finishing pigs[J].Journal of Animal Science,1998,76(11):2818-2832.   
+[30]王群,尹军力,唐波,等.不同蛋白质水平日粮中添加 2-羟基-4-(甲硫基)丁酸异丙酯对奶牛 生产性能及血液生化指标的影响[J].南京农业大学学报,2014,37(3):126-132.   
+[31] 孙伟,马文健,宋恩亮,等.饲喂不同水平热处理大豆对肉牛体组织和血清中类胰岛素生 长因子-I、生长激素、胰岛素和瘦素水平的影响[J].草食家畜,2011(2):35-39.   
+[32]RAUSCH M I,TRIPP M W,GOVONI K E,et al.The influence of level of feeding on growth and serum insulin-like growth factor I and insulin-like growth factor-binding proteins in growingbeefcattlesupplementedwithsomatotropin[J].JournalofAnimal Science,2002,80(1):94-100.   
+[33] 耿忠诚,刘丽丽,张虎,等.过瘤胃蛋氨酸对绒山羊血液激素的影响[J].黑龙江八一农垦大 学学报,2011,23(2):20-23. Effects of 2-Hydroxy-4-(Methylthio) Butanoic Acid Isopropyl Ester Supplemental Level on Growth Performance, Nutrient Apparent Digestibility, Serum Biochemical Indices and Hormone Levels of Goats CHENDong1LI Siyuan1\*CHEN Meiqing1ZHANG Peihual\*LI XinhualMI Hui1
+
+(1. College of Animal Science and Technology, Agricultural University of Hunan, Changsha 410123, China; 2. Adisseo Life Science (Shanghai) Co., Ltd.,Shanghai 200127, China; 3. Chaling Huiwang Agriculture and Animal Husbandry Development Co., Ltd., Zhuzhou 41200o, China) Abstract: This experiment was conducted to investigate the effects of 2-hydroxy-4-(methylthio) butanoic acid isopropyl ester (HMBi） supplementation level on growth performance， nutrient apparent digestibility，serum biochemical indices and hormone levels of goats， aiming to determine the optimal supplemental level of HMBi in diets for goats. Thirty-six goats of about 2.5-month-old with an average body weight of $( 1 3 . 3 3 \pm 1 . 7 1 \$ ） kg were randomly assigned to 4 groups with 3 replicates within each group, and one male goat and two female goats within each replicate. The goats in the 4 groups were fed the experimental diets containing O (control group), （204 $0 . 0 5 \%$ ， $0 . 1 0 \%$ and $0 . 2 0 \%$ HMBi on dry matter basis, respectively. The pre-experiment lasted for 10 days,and the formal experiment lasted for 40 days.The results showed as follows: 1） the average daily gain of the control group, $0 . 0 5 \%$ group, $0 . 1 0 \%$ group and $0 . 2 0 \%$ group was 119.44, 140.56, 158.89 and $1 4 1 . 1 1 \ \mathrm { g / d }$ , respectively. The $0 . 1 0 \%$ group had the greatest average daily gain, the lowest feed/gain of 4.82,and the best economic benefit. The average daily gain and gross returns of the $0 . 1 0 \%$ group were significantly greater than those of the control group $( P { < } 0 . 0 5 )$ . 2) No significant differences were found in apparent digestibility of dry matter, neutral detergent fiber, acid detergent fiber and digestible energy among groups $( P { > } 0 . 0 5 )$ . The apparent digestibility of crude protein of the $0 . 1 0 \%$ group was significantly higher than that of the control group （2 $( P { < } 0 . 0 5 )$ . 3) There were no significant differences among all groups on the 1st day of the test in terms of the contents of urea nitrogen, glucose, triglycerides,total cholesterin, non-esterified fatty acid, total amino acid,and the levels of growth hormone and insulin-like growth factor-1 in serum
+
+（20 $( P { > } 0 . 0 5 )$ . On the 31st day of the test, the serum triglycerides content of the $0 . 2 0 \%$ group was significantly higher than that of the other three groups $( P { < } 0 . 0 5 )$ ；the serum total cholesterin content of the $0 . 2 0 \%$ group was significantly lower than that of the control group $( P { < } 0 . 0 5 )$ ; the serum non-esterified fatty acid content of the $0 . 2 0 \%$ group was significantly higher than that of the control group $( P { < } 0 . 0 1 )$ and the $0 . 0 5 \%$ group $( P { < } 0 . 0 5 )$ ; the serum total amino acid content of the control group was significantly lower than that of the other groups $( P { < } 0 . 0 5 )$ ; the serum growth hormone level of the control group was significantly lower than that of the $0 . 0 5 \%$ and $0 . 1 0 \%$ groups $( P { < } 0 . 0 5 )$ ；the $0 . 2 0 \%$ group tended to have increased serum growth hormone level compared with the control group $\scriptstyle ( P = 0 . 0 8 4 )$ ； there was no significant difference in serum insulin-like growth factor- Ilevel among all groups $( P { > } 0 . 0 5 )$ . It is concluded that dietary supplementation of HMBi can improve the digestive utilization of protein, and then promote the growth of goats.Moreover, supplementation of $0 . 1 0 \%$ HMBi on the dry matter basis shows the best economic benefits.   
+Key words: goat; HMBi; supplemental level; growth performance; serum biochemical indices; hormone

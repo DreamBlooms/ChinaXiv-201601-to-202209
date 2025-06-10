@@ -1,0 +1,536 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201612112547 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘雅婷,王赛鸽,陈彬.基于投入产出分析的北京市虚拟水核算.生态学报,2018,38(6)：1930-1940.  \nLiuYT,WangSG,ChenB.VirtualwateranalysisforBeijingbsedoniputoutpumodel.ActaEologicaSica,01,8（6)931940.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于投入产出分析的北京市虚拟水核算",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘雅婷，王赛鸽,陈彬\\*北京师范大学环境学院，环境模拟与污染控制国家重点实验室，北京100875摘要：城市化进程的加快与工农业的迅速发展使城市水消耗量日趋增加。水资源短缺不仅会造成居民生活质量下降,还会制约社会经济的可持续发展。从贸易和消费的角度核算虚拟水可为研究城市水资源管理提供新的视角。通过投入产出分析了构建了城市系统虚拟水核算模型,利用虚拟水直接和完全用水系数、虚拟水消费量等指标分析城市虚拟水消耗和虚拟水进出口特征。以北京市为例,利用2012年北京市投入产出表和部门的水资源消耗数据核算不同部门的用水系数 最终消费虚拟水量、虚拟水进出口贸易量及部门间虚拟水流转量。结果表明:北京市为虚拟水净进口城市,净进口虚拟水量 $\\overline { { 6 . 7 7 \\times 1 0 ^ { 9 } \\mathrm { ~ m ~ } ^ { 3 } } }$ ,相当于北京市虚拟水用水总量( $8 . 2 5 \\times 1 0 ^ { 9 } ~ \\mathrm { m } ^ { 3 } .$ 的 $8 2 \\%$ ,农业和制造业为主要虚拟水进口部门;北京市虚拟水出口结构存在不合理之处，经济投入产出表中各部门出口总额占最终消费的 $7 9 . 9 \\%$ ,但出口产品消耗的虚拟水占了最终消费隐含虚拟水的 $8 5 . 0 4 \\%$ ,其中农产品消耗 $6 . 7 \\%$ 虚拟水但经济收益仅占 $1 \\%$ ,说明北京市出口以较大的虚拟水消耗量换取了较少的经济收益,需要减少虚拟水含量较大但经济价值不高的产品出口(如农产品);识别出的主要虚拟水流出-流入关系部门包括农业-制造业,农业-服务业和制造业-建筑业等部门的关联关系,可成为减少间接水消耗的关键路径。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：虚拟水；投入产出分析；水贸易；北京水消耗",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Virtual water analysis for Beijing based on input-output model ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIU Yating，WANG Saige，CHEN Bin School of Environment，Beijing Normal University,Beijing1oo875,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Urban water consumption has increased along with growing urbanizationand therapid developmentof industry andagriculture.Water resources shortage has been a strict constraint for sustainable urbandevelopment.Accounting for the water embodied in trade or final demandcan provide a new perspective forurban water consumption.In this paper，we proposedanurban virtual water accounting framework tocalculate the water usecoeficient，virtual water consumption and virtual water trade yolume basedoninput-output （IO）analysis.WeusedtheIOtableof Beijing in2O12andsectoral water consumption to study thesectoral Virtual water consumption and virtual water flowsamong sectors.The resultsshow that Beijing is a net importer of virtual water, importing $6 . 7 7 \\times 1 0 ^ { 9 } \\mathrm { m } ^ { 3 }$ ，equal to $82 \\%$ of the total virtual water in 2012 ( $8 . 2 5 \\times 1 0 ^ { 9 }$ （204 （204号 $\\mathbf { m } ^ { 3 }$ ). Agriculture（Ag）and manufacturing（Ma）are the main import sectors.The export structure of Beijing needs to be adjusted due to its huge virtual water exports，which accounted for $7 9 . 9 \\%$ of the final demand,whilst $8 5 . 0 4 \\%$ virtual water consumption was used for final demand，and，agricultural products create only $1 \\%$ economic benefits with $6 . 7 \\%$ virtual water consumption.Theseresults indicatethatBeijingbenefits litlefrom thelarge amountof virtual water exports，and the exports of virtual water-intensified products should be reduced.The main outflow-inflow pairs,including Ag-Ma, $\\mathrm { A g }$ -Se and Ma-Co，could be critical pathways for the reduction of indirect urban water consumption. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: virtual water； input-output analysis；water trade；water consumption in Beijing",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "水是自然生态系统和人类社会经济系统赖以生存和发展的重要自然资源。随着城市规模的不断扩大和工农业迅速发展,城市水消耗量日趋增加,统计数据表明我国142个百万级人口的城市 2006至2015年间用水总量平均增加约 $5 . 7 \\%$ ,而其水资源总量同比下降约 $2 . 6 \\%$ ,全国三分之二的大中城市面临水资源短缺的难题[-2]。目前共有2种方法解决水资源短缺问题：一种是从实体水资源角度出发,通过跨流域调水、海水淡化、污水回用、雨水蓄用等工程手段实现水资源的节约和再分配;另一种是利用非工程手段,通过调整商品进出口贸易实现水资源的可持续分配[3],如针对缺水地区制定节水策略时可考虑相对减少水消耗密度较大产品的出口,从而减缓水资源压力。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "北京市位于华北平原的北部边缘,属于海河流域,为半干旱半湿润的大陆性季风气候,多年平均降雨量$5 8 5 \\mathrm { m m }$ ,水资源由入境地表水、境内地表水和地下水组成。近年来,随着城市和人口规模的不断扩大,城市水消费总量持续增加,2013年北京市实体水直接用水量为36.4亿立方米[4],而本地人均水资源量仅为全国平均水平的 $1 / 1 7 ^ { [ 2 , 5 ] }$ ,水资源供需矛盾已成为制约北京发展的一个关键因素。本文依据基于投人产出分析的计算方法,分析北京市经济活动中直接及隐含的水资源消耗、进出口状况以及部门间的虚拟水流动情况,以期为北京市减少水资源消耗、缓解水资源压力提供定量依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1虚拟水核算现状 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "虚拟水由 Allan在1993 年正式提出[6],定义为生产农产品所需的水量。1996年,Allan 将虚拟水的概念从农业拓展到全部商品和服务中,定义为生产产品或服务过程中所消耗的水资源量[7]。虚拟水从产品消费角度核算人类对水的真实需求情况,将经济活动及其对水资源的消耗纳入统一的研究体系,对协调城市水资源配置格局与经济发展格局具有战略指导意义[8-9]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前定量研究产品中所含虚拟水的方法主要有两类,分别是以生产树法为代表的自下而上的方法和以投人产出法为代表的自上而下的方法[3,.0-1]。其中,生产树法主要用于计算特定生产部门的产品水足迹,将最终产品生产链上的各个环节用水进行统计与累加[12-13]。而足迹是指一个地区的居民消费的产品和服务中所包含的全部直接和间接的水资源量（即这些产品和服务所蕴含的虚拟水)[1415],由 Hoekstra 在虚拟水的研究基础上,比照生态足迹的概念提出,并且应用这个方法首次对大量农作物的水足迹进行了全球尺度的评价[14]。该方法从产品角度研究其用水量,对农业产品(或牲畜)核算较为准确,但难于研究工业产品的虚拟水贸易量和消费量,主要原因在于工业产品虚拟水含量较小且计算过程复杂。此外,水足迹方法难以从整个国民经济系统把握各种产品虚拟水间的流动关系[16-17]。基于投人产出分析法（Input-output analysis,以下简称IOA）核算虚拟水贸易和消费分可以有效地克服以上不足。该方法最早由 Leontief 提出,利用国民经济投人产出表来分析产业网络中各部门之间直接和间接的关联[18],可以计算所有直接、间接地包含于产品消费中的资源使用。由于投入产出方法实现了经济内部商品流转的模拟,因此在宏观尺度的环境核算研究（特别是水资源核算研究)中得到了非常广泛的应用,其中不乏核算不同尺度（如产业园区、流域、行政区、国家或者全球)虚拟水的研究[19-23]。国家尺度上,赵旭等[16]利用IOA 核算了中国 2002 年虚拟水消费量,结果表明中国作为虚拟水净输出国,其主要虚拟水净出口部门为轻工业和服务业;虚拟水直接系数和虚拟水含量最大的两个部门为农业及电热气、水的生产供应业。地区尺度上,黄晓荣等[24]建立了IOA 计算地区虚拟水的模型,测算了2002年宁夏虚拟水贸易的出口量和虚拟水的消费情况。Dietzenbacher 等应用IOA 模型核算了西班牙城市安达卢西亚的虚拟水贸易量，发现每年 $9 0 \\%$ 的水消费都源自农业部门,而超过 $5 0 \\%$ 的农业最终需求出口到西班牙的其它地区或国外,并据此提议减少农业产品的虚拟水出口[25],Velazquez 结合能源使用模型对原有 IOA模型进行了扩展,并利用该模型分析了安达卢西亚城市分部门的直接和间接虚拟水消费,并辨识出虚拟水消费最大的一些部门[26]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "现有的虚拟水核算研究多计算单个部门虚拟水直接和间接消耗[3，16]。从系统的角度出发,虚拟水的流动实质上是一种产业需求的转移,部门间的关联性体现为虚拟水流动量的大小,因此部门间的虚拟水流动研究对于识别虚拟水流动关键路径和目标部门,调控虚拟水消耗有重要的指导意义。一些学者对于部门间的虚拟水流动关系做了不少有益的探索,如马忠等应用张掖市投入产出表,通过构建水资源投入产出模型计算了当地产业间虚拟水的净转移量以及区域虚拟水的调入调出,构造了产业间虚拟水转移矩阵,量化了各产业间虚拟水的转移去向[27]。其他学者对产业间虚拟水转移量化分析发现农业是虚拟水最大的净转移部门,其中大部分流向了制造业[28-30]。虚拟水的流动实际上是一种产业需求的转移,已有研究划分部门的方式不同,如部分研究笼统地将产业部门划分为第一产业、第二产业、第三产业有的研究没有将水供应业与交通业等具有不同属性且与其他各部门虚拟水流动较为频繁的部门列出[21,27-29],亟需进一步识别部门间虚拟水流动的关联性。本文为明晰城市内部经济系统用水关联,利用 2012 年北京市投人产出表,根据各部门用水关联程度[27-30],将42部门划分为8部门,构建了基于投入产出分析的城市系统虚拟水核算模型,分析区域内部经济系统的虚拟水流动特征。 2",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2虚拟水核算 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 数据来源",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文运用《2012年北京市投人产出表》,其中共划分42部门,结合所获得用水数据及各部门属性将原有IOA 表中的42个部门合并为8个部门（表1),其中农业部门实际用水数据采用《2012年北京市水资源公报》中农业用水量,其余7个部门的用水数据通过间接的方式计算获得。建筑业、水供应业、服务业、交通业的用水数据是基于北京市《第一次水务普查公报》2011年用水量,按照各部门经济产值增加值及经济产值占比同比例推求所得,鉴于这四个部门的用水量与经济增长呈正相关的关系,且相差一年的用水量变化不会很大,故按照经济增长情况对 2012年该四个部门的用水量进行估算,会存在些许误差但不至于影响整体分析;北京市矿业、制造业和电力供应业用水数据来自 2013 年《北京统计年鉴》,以上所得用水数据均通过文献[30-31]进行数据校准。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f41f4b1e5b3454ae2e6dac72f4f19a3f40335a39a89f460df7f46d9dde468cce.jpg",
+        "table_caption": [
+            "表1北京市42部门合并结果表",
+            "Table 1Compilation of sectors in the urban system "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>合并后部门划分(8部门) 5 Aggregated 8 sectors</td><td>原投入产出表中42部门 42 sectors in the original IO table</td><td>42 部门代码 Code of 42 sectors</td></tr><tr><td>农业 Agriculture</td><td>农林牧渔产品和服务</td><td>01</td></tr><tr><td>矿业 Mining</td><td>煤炭采选产品</td><td>02</td></tr><tr><td></td><td>石油和天然气开采产品</td><td>03</td></tr><tr><td></td><td>金属矿采选产品</td><td>04</td></tr><tr><td>制造业 Manufacturing</td><td>非金属矿和其他矿采选产品</td><td>05</td></tr><tr><td></td><td>食品和烟草</td><td>06</td></tr><tr><td></td><td>纺织品</td><td>07</td></tr><tr><td></td><td>纺织服装鞋帽皮革羽绒及其制品</td><td>08</td></tr><tr><td></td><td>木材加工品和家具</td><td>09</td></tr><tr><td></td><td>造纸印刷和文教体育用品</td><td>10</td></tr><tr><td></td><td>石油 炼焦产品和核燃料加工品</td><td>11</td></tr><tr><td></td><td>化学产品</td><td>12</td></tr><tr><td></td><td>非金属矿物制品</td><td>13</td></tr><tr><td></td><td>金属冶炼和压延加工品</td><td>14</td></tr><tr><td></td><td>金属制品</td><td>15</td></tr><tr><td></td><td>通用设备</td><td>16</td></tr><tr><td></td><td>专用设备</td><td>17</td></tr><tr><td></td><td>交通运输设备</td><td>18</td></tr><tr><td></td><td>电气机械和器材</td><td>19</td></tr><tr><td></td><td>通信设备、计算机和其他电子设备</td><td>20</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/3a72e5592587a152ee743b3a4d233b3c8a4861e40c595c60fda6121534b7754d.jpg",
+        "table_caption": [
+            "6期"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">续表</td></tr><tr><td>合并后部门划分(8部门) Aggregated 8 sectors</td><td>原投入产出表中42部门 42 sectors in the original IO table</td><td>42部门代码 Code of 42 sectors 21</td></tr><tr><td>电气供应业 Electricity and gas supply 水供应业 Water supply 建筑业 Construction 交通业 Transport 服务业 Services</td><td>仪器仪表 其他制造产品 废品废料 金属制品、机械和设备修理服务 电力、热力的生产和供应 燃气生产和供应 水的生产和供应 建筑 交通运输、仓储和邮政 批发和零售 住宿和餐饮 信息传输、软件和信息技术服务 金融</td><td>22 23 24 25 26 27 28 30 29 31 32 33 34 35 36 37 38 39 40 41 42</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 计算方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在投入产出表基础上，将可获得的各产业部门的用水量归纳到表中,在投入产出模型之外横向构造单独的水资源利用分析模块,生成水资源投入产出表[17（表2)。表中增加的用水数据 $W _ { 1 } { - } W _ { n }$ 主要表明各经济部门水资源直接使用情况。基于北京市水资源投入产出表,从用水系数、虚拟水消费量、虚拟水贸易量和部门间虚拟水转移量4个方面对 2012年北京市的虚拟水进行核算,各指标的内容与相互关系如图1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9e2c4c4be06b59d3bb619191f476059a4a0920c7e91803a7a2146023abf6dd45.jpg",
+        "table_caption": [
+            "",
+            "表2北京市水资源投入产出表",
+            "Table 2Input-output table for Beijing's water consumption "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">S</td><td colspan=\"6\">投入Input</td><td rowspan=\"7\"></td></tr><tr><td></td><td colspan=\"3\">中间使用 Intermediate use</td><td colspan=\"3\">最终使用Final demand 最终消费支出</td><td></td><td></td><td></td><td></td></tr><tr><td>部门1</td><td></td><td>部门n</td><td colspan=\"3\">Final consumption expenditure 农村居民消费城镇居民消费</td><td></td><td>资本形 成总额</td><td>出口</td><td>进口</td><td>总产出 Gross output</td></tr><tr><td>Sector1</td><td></td><td>Sector n</td><td>consumption</td><td>Rural household Urban household</td><td></td><td>政府消费 Government consumption</td><td>Captial stock</td><td>Export</td><td>Import</td><td></td></tr><tr><td>中间投 部门</td><td>：</td><td>X1n</td><td></td><td>consumption</td><td></td><td></td><td></td><td></td><td></td><td>X</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Xn1</td><td></td><td>Xm</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>Xn</td></tr><tr><td>部门n 增加值 Value added</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总投人 Gross input</td><td></td><td>Xn</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>用水量Water withdrawal</td><td></td><td>Wn</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用水系数是部门用水强度的测度指标,表征各部门生产活动对水资源的依赖程度,反映水在各部门的利用效率[16]。直接用水系数反映的是各产业门单位经济产出的直接用水量。完全用水系数包含了直接与间接用水量,是计算虚拟水进出口贸易量、最终消费量及部门间转移量的重要基础。地区最终消费虚拟水量包括了城镇居民、农村居民、政府消费、资本形成与出口所包含的消费量,其中前4项反映了本地区内部的最终消费情况,最后一项反映本地区与外地的贸易情况。通过对比经济型投入产出表中最终消费的各项经济占比，可识别出虚拟水消耗较大而创造经济价值较小的产业部门[17,21]。计算虚拟水贸易量可反映某一地区与外部的产品贸易中所隐含的虚拟水量，从而识别出向外部输送大量虚拟水或主要依赖于从外部进口虚拟水的产业部门[29]。同时,部门间虚拟水转移量可以反映出某一地区内部部门间的虚拟水转移情况,可为识别行业间用水量的关联性、减少部门间接水消耗提供理论依据[27]。 （）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c01aec0ec56a9bd941c5673cccf4f803fb11547c5119eea7c8ea65db353d945.jpg",
+        "img_caption": [
+            "城市系统虚拟水网络",
+            "图1城市虚拟水指标框架拓扑关系图",
+            "Fig.1The topological relations of urban virtual water indicator framework "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 部门用水系数",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "直接用水系数可以采用万元产值用水量表示,反映各经济部门的单位产量对自然形态下的水资源的直接使用水平,但这一指标仅反映产业部门的部分虚拟水消耗情况。其表达式为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk _ { j } = W _ { j } / X _ { j } \\qquad ( j = 1 , 2 , \\cdots , n )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $k _ { j }$ 为第 $\\acute { j }$ 部门直接用水系数， $\\boldsymbol { W } _ { j }$ 为第 $j$ 部门用水量， $X _ { i }$ 为第 $j$ 部门经济总产出。计算所有 $\\mathbf { \\Omega } _ { n }$ 个部门的直接用水系数，即可获得1行 $\\mathbf { \\Omega } _ { n }$ 列的用水系数向量。其行向量为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk = k _ { 1 } , k _ { 2 } , \\cdots , k _ { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "完全用水系数也称虚拟水含量,是基于IOA的虚拟水核算的重要参数之一,能够反映出一个部门的产品在其整个生命周期阶段增加单位最终需要所需的直接和间接水资源量的总和。其表达式为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk ^ { \\prime } = k \\left( I - A \\right) ^ { - 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\na _ { i j } = \\frac { x _ { i j } } { X _ { j } } \\qquad ( i , j = 1 , 2 , \\cdots , n )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk _ { m } = k ^ { \\prime } - k\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， $k ^ { \\prime }$ 为完全用水系数行向量; $k$ 为直接用水系数行向量; $I$ 是 $\\mathbf { \\Omega } _ { n }$ 阶单位矩阵; $a _ { i j }$ 为直接消耗系数,某一产品部门在生产经营过程中单位总产出直接消耗的各产品部门的产品或服务的数量； $\\boldsymbol { \\mathscr { A } }$ 为由 $a _ { i j }$ 构成的直接消耗系数矩阵; $x _ { i j }$ 为 $i$ 部门经济上提供给 $j$ 部门生产或劳务活动中的数量,单位为万元， $x _ { j }$ 为 $j$ 部门的经济总投入； $k _ { { \\scriptscriptstyle m } }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为间接用水系数，等于完全用水系数与直接用水系数之差。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 虚拟水消费量",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从投入产出表可以看出,消费部门有城镇居民消费、农村居民消费以及政府消费。各部门消费所包含的虚拟水量计算公式如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "城镇居民消费虚拟水量：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { r } ^ { c } = k _ { j } ^ { \\prime } R\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "农村居民消费虚拟水量：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { s } ^ { c } = k _ { j } ^ { \\prime } S\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "政府消费虚拟水量：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { t } ^ { c } = k _ { j } ^ { \\prime } T\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "虚拟水总消费量：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ ^ { c } = Q _ { r } ^ { c } + Q _ { s } ^ { c } + Q _ { t } ^ { c }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中， $R$ ， $s$ 和 $T$ 分别表示城镇居民消费、农村居民消费以及政府消费量,单位为万元或亿元， $k _ { j } ^ { \\prime }$ 为完全用水系数。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.3 虚拟水贸易量",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "经济贸易中,产品的输入与输出过程中隐藏着大量的虚拟水,因此可通过地区间贸易的形式输入或输出水资源以缓解水资源短缺问题。虚拟水贸易量可以通过经济贸易量与虚拟水完全用水系数计算得到。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "虚拟水输出量：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "虚拟水输入量：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "虚拟水净输出量：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中， $E$ 和 $I$ 分别表示当年产品调出量和产品调人量,单位为万元或亿元， $k _ { j } ^ { \\prime }$ 为完全用水系数。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.4 虚拟水转移量",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "虚拟水产业部门转移矩阵,等于完全需水矩阵与其自身转置矩阵之差,计算公式如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nv w _ { i j } = k \\times X \\times ( I - A ) ^ { \\ - 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中,VW为完全需水矩阵, $k$ 为直接用水系数行向量， $X$ 为中间投入矩阵,单位为万元， $I$ 是 $\\mathbf { \\Omega } _ { n }$ 阶单位矩阵,A为直接消耗系数矩阵,TVW是主对角线元素为零的对称矩阵（表示自身转移为零),其元素 $t v w _ { i j }$ 从行方向看，表示i部门向 $j$ 部门的输出的虚拟水数量，从列方向看，表示 $j$ 部门从 $i$ 部门虚拟水的输入量,行方向之和等于i部门虚拟水净转移量。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结果与讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1 部门用水系数",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表3列明了2012年北京市8个部门的直接和完全用水系数。图2是北京市 2012年8个部门的各类用水系数的示意图,可以看出水供应、农业、矿业、电力供应部门是完全用水系数最大的4个部门,其中水供应部门和农业部门因为直接用水系数导致完全用水系数较大,而矿业部门和电力供应部门则因为间接用水系数的",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "关系导致完全用水系数较大。水供应部门和农业部门既是完全用水系数最大的两个部门也是直接用水系数最大的2个部门,其间接用水系数相对较少，分别只有两个部门完全用水系数的 $2 6 \\%$ 和 $10 \\%$ 。间接用水系数与直接用水系数占完全用水系数比例差距最大的部门集中在制造业、建筑业、服务业3个部门,其间接用水系数分别占其完全用水系数的 $9 1 \\% . 9 1 \\% . 9 2 \\%$ 。已有的虚拟水相关研究中农产品因直接用水消耗较大受到广泛关注,当考虑间接用水后,制造业、建筑业、服务业等从直接用水角度制定节水措施时被忽略的部门得以凸显,因此需同时关注直接用水系数和间接用水系数较大的部门,以从整个产业链的生命周期角度出发制定合理有效的节水措施。 2",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/09b4f79682aabd6387315739fc0b4ab700ac8331b4a6fc50ed63a60c96e9432d.jpg",
+        "table_caption": [
+            "表3基于IOA的2012年北京市虚拟水核算主要结果",
+            "Table 3 Main results of virtual water based on IOA in Beijing "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>部门</td><td>W/m</td><td></td><td>（m/元）</td><td>（m/元）</td><td>农村居民 consumption qi/m</td><td>城镇居民 consumption qi/m</td><td>qi/m</td><td></td><td>进 qi/m3</td><td></td></tr><tr><td>农业</td><td>2.17×109</td><td>3.96×1010</td><td>5.48×10-2</td><td>7.38×10-2</td><td>1.01×108</td><td>2.23×109</td><td>4.39×107</td><td>6.69×109</td><td>1.04×1010</td><td>3.68×109</td></tr><tr><td>Agriculture 矿业 Mining</td><td>5.96x108</td><td>1.45×1011</td><td>4.10×10-3</td><td>1.72×10-2</td><td>2.30×107</td><td>7.81×106</td><td>0</td><td>2.64×1010</td><td>2.74×1010</td><td>9.67×108</td></tr><tr><td>制autactaing</td><td>1.26×109</td><td>1.37×1012</td><td>9.20×10-4</td><td>1.05×10-2</td><td>1.76×108</td><td>2.31×109</td><td>0</td><td>3.92×1010</td><td>4.50×1010</td><td>5.82×109</td></tr><tr><td>电气供应业 Electricity and gas supply</td><td>7.27×108</td><td>3.70×1011</td><td>1.96×10-3</td><td>1.24×10-2</td><td>1.86×107</td><td>1.54×108</td><td>0</td><td>2.76×109</td><td>2.40×109</td><td>-3.64×108</td></tr><tr><td>水供应业 Water supply</td><td>4.41×108</td><td>5.72×109</td><td>7.71×10-2</td><td>8.54×10-2</td><td>7.52×106</td><td>1.08×108</td><td>0</td><td>1.67×106</td><td>9.64E+01</td><td>-1.67×106</td></tr><tr><td>建筑业 Construction</td><td>3.49×108</td><td>4.16×1011</td><td>8.39×10-4</td><td>9.53×10-3</td><td>4.81×106</td><td>9.36×107</td><td>0</td><td>1.63×106</td><td>1.59×107</td><td>1.43×107</td></tr><tr><td>交通业 Transport</td><td>1.76×109</td><td>3.18×1011</td><td>5.54×10-3</td><td>1.32×10-2</td><td>1.10×107</td><td>2.15×108</td><td>7.46×107</td><td>4.38×109</td><td>3.62×109</td><td>-7.66×108</td></tr><tr><td>服务业 Services</td><td>9.49×108</td><td>2.58×1012</td><td>3.67×10</td><td>4.64×10</td><td>8.81×107</td><td>1.34×109</td><td>2.04×109</td><td>5.89×109</td><td>3.31×109</td><td>-2.58×109</td></tr><tr><td>总量Total</td><td>8.25×109</td><td>5.25×1012</td><td>1.46x10-1</td><td>2.27×10</td><td>4.30×108</td><td>6.46×109</td><td>2.16×109</td><td>8.54×1010</td><td>9.21×1010</td><td>6.77×109</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 虚拟水消费量",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "基于投入产出分析的虚拟水核算建立了消费与虚拟水消耗之间的联系，为从调整消费结构的角度节约水资源提供了可能性。图3分别表示了最终消费经济占比及其对应所耗虚拟水的占比，表4详列了2012年北京市8个部门经济的最终需求比例及其对应的虚拟水消费比例，从纵向看政府消费和资本形成消耗的虚拟水较少 $( 8 . 1 \\% )$ ），经济上占最终使用的比例较大( $1 3 . 2 \\% \\cdot$ ，但出口总额占最终消费的 $7 9 . 9 \\%$ ,却消耗了最终消费所需虚拟水的 $8 5 . 0 4 \\%$ ,其中农产品消耗 $6 . 7 \\%$ 虚拟水但仅创造 $1 \\%$ 经济效益，说明北京市出口以较大的虚拟水消耗量换取了较少的经济收益，出口结构存在不合理的地方，需要调控虚拟水含量较大但经济价值不高的产品出口（如农产品、矿选产品等）。从横向看，服务业以较少的虚拟水消耗（ $1 0 . 5 \\%$ ）创造了较高的经济价值",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e8ea281a57025d78789e41aa4dff5b138a1a7f92a6985dd399400892e07eec60.jpg",
+        "img_caption": [
+            "图22012年北京市各部门虚拟水用水系数",
+            "Fig.2 Virtual water use coefficient at the sectoral level of Beijing in 2012 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.农业，Agriculture;2.矿业,Mining;3.制造业，Ma；4.电气供应业,Electricity and gas supply;5.水供应业,Water supply;6.建筑业，Construction;7.交通业,Transport;8.服务业,Services",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（ $2 5 . 3 \\%$ )，而农业和矿业则以较大的虚拟水消耗（分别为 $9 . 1 \\%$ ， $2 6 . 4 \\%$ )创造了很低的经济价值（分别为$1 . 4 \\%$ ， $1 7 . 1 \\%$ ),结合纵向结果应将农业和矿业部门作为重点节水对象。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/0a883dba28f1f26533d3725e9ff72293eb3afa4ce7282b143de441680c112ae5.jpg",
+        "table_caption": [
+            "表4最终需求比例及其对应的虚拟水消费比例 $\\%$ ",
+            "Table 4Proportion of final demands and their corresponding proportion of virtual water consumptior "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">Table 4 Proportonolhnar andtnen espondngpr waterconsumpuon</td></tr><tr><td>部门</td><td>农村居民消费 consumption</td><td>城镇居民消费d consumption</td><td>政府消费 consumption</td><td>C资本形ck</td><td>出rt</td><td>总体</td></tr><tr><td colspan=\"7\">最终需求比例 Final demands proportion</td></tr><tr><td>农业 Agriculture</td><td>0.015</td><td>0.337</td><td>0.007</td><td>0.011</td><td>1.009</td><td>1.379</td></tr><tr><td>矿业 Mining</td><td>0.015</td><td>0.005</td><td>0</td><td>0.041</td><td>17.087</td><td>17.148</td></tr><tr><td>制造业 Manufacturing</td><td>0.186</td><td>2.450</td><td>0</td><td>1.106</td><td>41.499</td><td>45.240</td></tr><tr><td>电气供应业</td><td>0.017</td><td>0.138</td><td>0</td><td>0.006</td><td>2.485</td><td>2.646</td></tr><tr><td>Electricity and gas supply 水供应业 Water supply</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>建筑业 Construction</td><td>0.001 0.006</td><td>0.014 0.109</td><td>0 0</td><td>0 4.125</td><td>0 0.002</td><td>0.015 4.242</td></tr><tr><td>交通业 Transport</td><td>0.009</td><td>0.182</td><td>0.063</td><td>0.021</td><td></td><td></td></tr><tr><td>服务业 Services</td><td>0.211</td><td>3.207</td><td>4.884</td><td>2.935</td><td>3.706</td><td>3.981</td></tr><tr><td>总量Total</td><td>0.460</td><td>6.442</td><td>4.953</td><td>8.245</td><td>14.111 79.900</td><td>25.348 100.000</td></tr><tr><td colspan=\"7\">虚拟水消费比例 Virtual water consumption proportion</td></tr><tr><td>农业 Agriculture</td><td>0.101</td><td>2.224</td><td>0.044</td><td>0.073</td><td>6.667</td><td>9.108</td></tr><tr><td>矿业 Mining</td><td>0.023</td><td>0.008</td><td>0</td><td>0.063</td><td>26.336</td><td>26.430</td></tr><tr><td>制造业 Manufacturing</td><td>0.175</td><td>2.305</td><td>0</td><td>1.040</td><td>39.046</td><td>42.567</td></tr><tr><td>电气供应业</td><td>0.018</td><td>0.153</td><td>0</td><td>0.006</td><td>2.751</td><td>2.929</td></tr><tr><td>Electricity and gas supply 水供应业 Water supply</td><td>0.007</td><td>0.107</td><td>0</td><td>0</td><td>0.002</td><td>0.116</td></tr><tr><td>建筑业 Construction</td><td>0.005</td><td>0.093</td><td></td><td>3.521</td><td>0.002</td><td>3.621</td></tr><tr><td>交通业 Transport</td><td>0.011</td><td>0.214</td><td>0.074</td><td>0.025</td><td>4.364</td><td>4.689</td></tr><tr><td>服务业 Services</td><td>0.088</td><td>1.334</td><td>2.031</td><td>1.220</td><td>5.867</td><td>10.540</td></tr><tr><td>总量Total</td><td>0.428</td><td>6.438</td><td>2.149</td><td>5.950</td><td>85.035</td><td>100.00</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0a2ce337c09f29a7c031d7d5fd4ba1ef6ce0393b18c31ffc491793e9818fef7.jpg",
+        "img_caption": [
+            "图3最终需求比例及其对应的虚拟水消费比例 $\\%$ ",
+            "Fig.3Proportion of final demands and its corresponding proportion of virtual water consumption "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3虚拟水贸易量",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表3列明了北京市 2012年8个部门的虚拟水进出口贸易量,按照所有行业进行计算,北京市是虚拟水净进口地区,净进口虚拟水量 $6 . 7 7 \\times 1 0 ^ { 9 } \\ \\mathrm { m } ^ { 3 }$ ,相当于北京市虚拟水用水总量 $\\left( 8 . 2 5 \\times 1 0 ^ { 9 } \\ \\mathrm { m } ^ { 3 } \\right.$ 的 $8 2 \\%$ 。图4描绘了2012 年北京市各部门虚拟水净进口量,北京市虚拟水净进口量较大的部门有制造业(Ma)和农业( $\\mathbf { \\nabla } \\cdot \\mathbf { A } \\mathbf { g } \\mathbf { \\nabla } )$ ,农业部门净进口虚拟水量达 $3 . 6 8 \\times 1 0 ^ { 9 } \\mathrm { ~ m ~ } ^ { 3 }$ ,其从地区外进口了大量农产品，而农产品又属于虚拟水消耗密度较大的产品,因此北京市农业部门消耗的大量虚拟水 $( 2 . 1 7 \\times 1 0 ^ { 9 } ~ \\mathrm { m } ^ { 3 } \\cdot$ )主要来自于地区外进口( $\\left. 1 . 0 4 \\times 1 0 ^ { 1 0 } \\mathrm { m } ^ { 3 } \\right.$ 。交通运输业( $\\left( \\mathrm { T r } \\right)$ 和服务业(Se)为虚拟水的主要输出部门,其中服务业以较少的虚拟水消耗创造了较高的经济产值,因此在进行调入水分配时应优先考虑第三产业需求。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.4虚拟水转移量",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图5反映的是北京市部门间虚拟水流动量。通过图中流的宽度，可以识别出部门间虚拟水的流动量及其占某一个部门总虚拟水量的比例，流动的方向可以说明各部门在城市系统中的角色。农业部门是最大的虚拟水输出部门，共计为区域内其余7个部门净输出 $1 . 5 8 \\times$ $1 0 ^ { 9 } \\mathrm { m } ^ { 3 }$ 虚拟水，主要流向包括制造业( $2 6 \\%$ )和建筑业（ $2 4 \\% )$ ,此外北京市大部分的虚拟水流向了建筑业，以农业和制造业为代表，所有部门均有不同数量的虚拟水流人建筑业，这一现象与城市化的快速发展息息相关。部门间主要的流出-流入组合包括农业-制造业，农业-建筑业，农业-服务业，水供应-农业，制造业-建筑业，在制定节水措施时应考虑这些部门间的关联性，调控虚拟水流终点部门的虚拟水使用量和使用效率，从而达到节水的目的。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/1a6a1e5a883b25600a6ef5705a1c5b864760871aeffca7556828e9f31def9b13.jpg",
+        "img_caption": [
+            "图42012年北京市各部门虚拟水净进口量",
+            "Fig.4Net virtual water import volume at the sector level of Beijing in 2012 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1.农业，Agriculture;2.矿业,Mining;3.制造业，Ma；4.电气供应业,Electricity and gas supply;5.水供应业,Water supply;6.建筑业,Construction;7.交通业,Transport;8.服务业,Services",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "虚拟水的提出和应用为调控有限水资源,缓解水资源压力的研究提供了新的视角和思路,如从产品消费角度出发改变或调整消费结构（减少、替换或转变某些高耗水部门及产品的消费）、从地区贸易角度调整进出口策略(增加需水密集度高的产品的进口、减少其出口)。本文参考已有虚拟水研究成果,提出了基于投入产出分析的城市部门尺度虚拟水核算的定量模型,并以北京市为例,计算了其2012年的虚拟水直接及完全用水系数、最终消费的虚拟水量、虚拟水的进出口量以及部门间虚拟水转移量。主要结论及建议如下：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "水供应业和农业是完全用水系数和直接用水系数最大的两个部门,而服务业、制造业、建筑业则间接用水占比较高(间接用水系数占完全用水系数的比例分别为 $9 2 \\% . 9 1 \\% . 9 1 \\% \\rangle$ ，因此重点减小农业等直接用水系数较大部门的同时,应减少制造业、建筑业和服务业部门的间接用水消耗,根据部门在产业链的地位从整个产业链的角度制定合理的节水措施。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "从北京市8个部门的虚拟水消费在最终需求所占的比例来看,农业和矿业以较大的虚拟水消耗（分别为9.1% , $2 6 . 4 \\%$ )创造了很低的经济价值（分别为 $1 . 4 \\% , 1 7 . 1 \\%$ ）,应作为重点节水对象。北京市出口总额占最终消费的 $7 9 . 9 \\%$ ,却消耗了最终消费所需虚拟水的 $8 5 . 0 4 \\%$ ,出口结构存在不合理的地方-以较大的虚拟水消耗量换取了较少的经济收益,例如农产品以 $6 . 7 \\%$ 虚拟水的消耗创造了仅占最终消费 $1 \\%$ 的经济效益,北京市应减少农产品、金属及非金属矿选产品等虚拟水含量较大而经济利润较小的产品生产。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "北京市为虚拟水净进口地区,净进口虚拟水量 $6 . 7 7 \\times 1 0 ^ { 9 } \\ \\mathrm { m } ^ { 3 }$ ,相当于北京市虚拟水用水总量( $\\left. 8 . 2 5 \\times 1 0 ^ { 9 } \\right.$ $\\mathbf { m } ^ { 3 }$ )的 $8 2 \\%$ 。净进口虚拟水的主要部门有农业( $\\mathbf { \\nabla } _ { \\mathbf { A } \\mathbf { g } _ { \\mathbf { \\lambda } } } ^ { * } ( \\mathbf { A } \\mathbf { g } _ { \\mathbf { \\lambda } } )$ 和制造业( $\\mathbf { \\hat { M } a } \\mathbf { \\hat { \\Pi } } )$ ,北京市农业部门因进口较多虚拟水消耗密度较大的农产品,其消耗的大量虚拟水主要来自于地区外进口。交通运输业（Tr）和服务业（Se）为虚拟水的主要输出部门，其中服务业以较少的虚拟水消耗( $1 0 \\% )$ 产生了较高的经济产值( $2 5 \\% )$ ），在进行调入水分配时应优先考虑第三产业需求。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/3d09d800e17455d1135203761749b8e791e508e3b06c2b0575a0769e07461dd4.jpg",
+        "img_caption": [
+            "图5北京市部门间虚拟水流动量 $\\mathbf { M t } / 1 0 ^ { 6 } \\mathrm { m } ^ { 3 }$ ",
+            "Fig.5 Virtual water flows among sectors of Beijing in 2012 "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从区域内部门间虚拟水流转关系来看,农业部门是最大的虚拟水输出部门,共计为区域内其余7个部门净输出 $1 . 5 8 \\times 1 0 ^ { 9 } \\mathrm { m } ^ { 3 }$ 虚拟水,主要流向包括制造业( $2 6 \\% )$ 和建筑业( $2 4 \\%$ ),考虑到这些行业对农业的间接拉动,在采取缩小农业规模、提高农业节水效率及调整区域产业结构的情况下,应将减少消费端的物质消费因素考虑进去,通过调控虚拟水流动目标部门的虚拟水使用量等间接手段达到节水目的。部门间主要的流出-流入包括农业-制造业,农业-建筑业,农业-服务业,水供应-农业,制造业-建筑业,这些部门间的强关联关系是制定节水措施的关键路径,是调控虚拟水流终点部门的虚拟水使用量和使用效率进而减少水消耗的杠杆点。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1] 中华人民共和国水利部.中国水资源公报—2015.北京：中国水利水电出版社，2016.[2] 国家统计局.环境保护部.中国环境统计年鉴—2013.北京：中国统计出版社，2013.[3] 杨志峰，支援，尹心安.虚拟水研究进展.水利水电科技进展，2015，35（5)：181-190.[4] 北京市水务局.北京市水资源公报—2013.北京：北京市水务局，2014.[5] 北京市统计局.国家统计局北京调查总队.北京统计年鉴—2013.北京：中国统计出版社，2013.[6] AllaJA.Fratelyerearubstutefoteroerwirhdicalfuresoldposible//ProcdingofteofeePriorities for Water Resources Allcation and Management.London，United Kingdom：ODA，1993：13-26.[7]AllnJAVrtualwater'AlongtesolutioforwatershortMideEstecoos//Paperpresentedatt97BrissoatioFestival of Science.Leeds，UK:RogerStevensLecture Theatre,UniversityofLeeds，WaterandDevelopmentSesion，9971-100.  \n[8]FengL,ChenB，Hayat T，AlsaediA，AhmadB.Thedriving forceof water fotprintundertherapidurbanization proces structuraldecompositionanalysis for Zhangye cityin China.Jourmal of CleanerProduction,2015,doi：10.1016/j.jclepro.2015.09.047.[9]ZhaoCF,ChenB.DrivingForceAnalysisfthAgricultural WaterFtprintinChinaBaseontheLMDMethodEviroentalScience&Technology，2014，48（21）：12723-12731.[10] YangH,ZehnderA.“Virtual water\"：Anunfoldingconceptinintegratedwaterresourcesmanagement.WaterResourcesResearch，2007,43(12):W12301.[11]ZhaoX,nB,angZFtioalwaterfptiputoututfraewosedyolcaldeli(2):245-253.[12]Eganettaldldotaoiltal181-182.[13]Feng L,Chen B. Scarce Water Fooprint of Energy Production in China. Energy Procedia,2016,88：176-181.[14]Hoekstra A Y,Hung PQ. Virtual water trade;a quantification of virtual water flows between natior relation to international crop trade：Value ofwater research report series No.11.Delft，the Netherlands：UNESCO-IHE，2002.[15]HoekstraAY，ChapagainAK.Waterfotprntsofatios：WaterusebypeopleasfuctionofteirosumptionpateWaterResoureManagement，2007，21(1）：35-48.[16] 赵旭，杨志峰，陈彬.基于投入产出分析技术的中国虚拟水贸易及消费研究.自然资源学报，2009，24（2)：286-294.[17] 刘冠飞.基于投入产出模型的天津市虚拟水贸易分析[D].天津：天津大学，2009.[18] Leontief W W.The structure of American economy:1919-1929.America:New York Oxford University Press，1941.[19] FangDL,ChenBEologicalnetorkaalysisfalwatertworkEnviotalSiee&Tchog15,49（)：6-0.[20] Duan CC,Chen B.Virtual Water Embodied in International Energy Tradeof China.EnergyProcedia,2O16,88：94-99.[21] 雷玉桃，蒋璐.基于投入产出分析的中国城乡居民虚拟水消费研究.生态经济，2012，（11)：78-81.[22] LiJS,XiaXH,ChenGQlsaediA，HayatTOptialembodiedeegbatementstrategforeijgooyBaseoataleipt-output analysis.Renewable and Sustainable Energy Reviews，2016,53：1602-1610.  \n[23]LiJS,ChenB,ChenGQ,Wei WD,WangXB,GeJP,DongKQ,XiaHH,XiaX H.Tracking mercuryemisionflowsitheglobalsupplychains：A multi-regional input-output analysis.Journal of Cleaner Production,2017,140：1470-1492.[24] 黄晓荣，裴源生，梁川.宁夏虚拟水贸易计算的投入产出方法.水科学进展，2005，16(4)：564-568.[25] DietzenbacherE，VelzqezEalyngAndalusianvirtalwatertradeinaputoutputframeworkRegioalSudies，Oo41（）8196.[26] VelzqueE.Aipuutodeloftersumpt：AalingtesealteratiossidasiaolcalEoo,56(2) : 226-240.[27] 马忠，张继良.张掖市虚拟水投入产出分析.统计研究，2008，25（5）：65-70.[28] 王文静，石培基，马忠.基于区域投入产出模型的甘肃省水资源状况分析.水土保持通报，2012，32(6)：296-300.[29] 王双英，陆文聪.江西虚拟水消费与贸易研究——基于投入产出分析.长江流域资源与环境，2011,20（8)：933-937.  \n>[30] WangSG,ChnBe-ateesofbagloeatiosdultiregaliputuputablsdolgcalekasstudy of the Beijing-Tianjin-Hebei region.Applied Energy，2016,178：773-783.[31] Wang SG,CaoT,Chen B.Urbaenergy-waternexusbasedonmodified input-outputanalysis.AppliedEnergy，2O17,196:208-217",
+        "page_idx": 10
+    }
+]

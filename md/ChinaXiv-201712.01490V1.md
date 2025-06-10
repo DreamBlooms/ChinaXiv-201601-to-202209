@@ -1,0 +1,266 @@
+# DOI:10.5846/stxb201609271955
+
+汪舟，方欧娅.山东蒙山森林冠层绿度与树干径向生长的关系.生态学报,2017,37(22):7514-7527.   
+WangZ,FangOaiosforestaostredaothintansfaorvcalca Sinica,2017,37(22):7514-7527.
+
+# 山东蒙山森林冠层绿度与树干径向生长的关系
+
+汪舟1,²，方欧娅1，\*
+
+1中国科学院植物研究所植被与环境变化国家重点实验室，北京100093  
+2中国科学院大学，北京100049
+
+摘要：森林冠层绿度和树木年轮宽度是描述森林生长过程的重要指标，它们之间存在怎样的关系以及这种关系的稳定性如何目前还没有清晰的回答。森林冠层绿度通过遥感影像计算,在空间上连续,而树木年轮宽度是树木健康的综合指标,样点上具有代表性。森林冠层绿度和树木年轮宽度的关系的研究能增进对森林生长的多角度理解和森林生长状况的尺度转换。在山东蒙山地区采集了4个赤松（Pinus densiflora）林样点的树木年轮样本,获得了树木年轮宽度数据,分析了增强型植被指数（Enhanced Vegetation Index，EVI）与树木年轮宽度的关系。结果显示:1)对于健康森林,4月和6月的冠层绿度与树木年轮宽度存在因果关系;森林不健康时,两者关系较为复杂;2)其他月份冠层绿度与树干径向生长不存在因果关系,而是共同受其他环境因子,如气候因子的驱动;3)弱冠层绿度降低后5年内有显著的径向生长恢复,但是恢复年份少;强冠层绿度降低之前,树干径向生长已经开始降低,之后的5年内有着持续的径向生长降低。这些结果表明森林冠层绿度的降低并不能反映树干径向生长降低的开始,只有健康的森林冠层绿度和年轮宽度有相关关系。冠层绿度的降低对森林健康有强烈的影响,冠层绿度降低导致的径向生长的降低很难恢复。
+
+关键词：年轮宽度;增强型植被指数;格兰杰因果分析;叠加事件分析;森林衰退;赤松林
+
+# Relationships between forest canopy greenness and tree radial growth in the Mengshan Mountains of Shandong Province
+
+WANG Zhou1,²， FANG Ouyal, \*
+
+1LaboratoryofVegetatioandEnironmentalChange，nstituteofBotany，ChineseAcademyofciences，BeijingOo，China   
+2 University of Chinese Academy of Sciences，Beijing 10oo49,China
+
+Abstract:Forest canopy greenness and tree-ring widths are important indices describing the processes of forest growth. Questionsabout therelationships betweenthetwo indicesandtheir temporal stabilityare stillnotcompletelyanswered.The canopygreenness index calculated from remote sensing maps is continuous inspace，whereas tree-ring width isa comprehensive index that represents the health of the sample sites.Research concerning the relationship betwen canopy grenness and tree-ring width could enhance theunderstandingof growth conditions from multi-perspectivesand help transformgrowth conditionsofforestsatdiferent spatial scales.Wecolectedincrementcores fromaPinus densifloraforest atfoursamplesiteswith diferent health conditions inthe Mengshan Mountainsof Shandong Provinceandanalyzed the relationships between enhanced vegetation indicesand tre-ring widths.We foundthat1）the variation intre-ring width was significantlycausedbythe variation inforestcanopygreennessinApriland Juneforhealthyforestsascalculatedusing the Grangercausalityanalysis，whereas therelationship was complicatedforunhealthy forests.Apriland Junerepresentthe green-upperiodof thegrowth season，andaccording to theresults，this gren-upperiod was closelyrelated toradical growth；2）canopygreennessinother monthsandradial growth did not haveacausalityrelationship,rathertheywere both drivenbyotherenvironmental factors，especiallyclimatic factors；and3）weused superposed epochanalysis todetermine theinfluence of canopy greenness decrease eventson radical growth，andradical growth recovery folowing thecanopy greenness decrease events.Moderate canopy greenness decreases were not alwaysaccompanied by a decrease in radial growth；however,ifradial growthhadalreadystarted todeclinebefore thesevere greenness loss，then thedecrease would continue for five years after canopy grennessdecreaseevent.Radial growth experienced dificult recovery after moderate canopy greenness decrease events.We identified twoor threesevere canopy grennessdecrease events during 2Oo0 to 2014. Aftertheseevents，radial growth significantlydecreasedand continued to decrease foryears.Radial growth wasnot completelyrecoveredfive years after severe canopy grennessdecrease events.The results showed that changes in forest canopy grennesscould notrepresent the begining of forest stress orthe process offorest restoration.Correlations between canopygreennessand tree radial growth existedonly in healthy forests.Declines incanopygreennesstronglyinfluenced radical growth and was difficult to recover after losses in greenness.
+
+KeyWords:tree-ring widths（TRI）；enhanced vegetation index（EVI）；Grangercausality analysis；superposed epoch analysis；forest decline；Pinus densiflora forest
+
+森林的健康生长关系到其生态服务功能的发挥和维护,对森林健康的评估是保护生态学研究的重要内容之一。对于森林的健康状况,从外观上可以通过森林冠层绿度得到直接反映,从树木内部也可通过树木年轮宽度来反映。过去的研究表明森林冠层绿度与树木年轮宽度之间存在一定的相关关系[1-3],但另一些研究发现冠层绿度的短暂变化并不能监测到病虫害导致的树干径向生长的变化[4]。目前对于森林冠层绿度与树干径向生长的关系还缺乏清晰的认识。
+
+森林冠层绿度是森林光合作用活力和冠层结构的代用指标[5」,可以表示森林外在的健康状况,用增强型植被指数(Enhanced Vegetation Index，EVI)度量。衰退的森林在外观上主要表现为新叶、叶量、绿叶数的减少,不正常落叶,树体结构不完整,小枝和枝干的死亡甚至有些情况下整株树的死亡[6-7]。EVI能较好的反映冠层结构包括叶面积指数和冠层结构的变化[5]。同类的植被指数在森林健康状况的研究中也有着广泛的应用[5,7-11]。植被指数可以通过遥感数据获得,在时间和空间上连续,有利于评估大范围植物生长的状况。
+
+树木年轮宽度可以表示树木径向生长,其时间尺度较长。树木年轮宽度指数(Tree Ring Index，TRI)是测量树木生理健康的指标[12-13],广泛应用于森林衰退的研究中[14-20]。外观上冠层绿度降低而表现出来的森林衰退是容易观察到的,但是径向生长量的变化需要通过每年监测或者钻取树芯精确检测。树木年轮宽度与植被指数在反映森林健康的不同方面,树木年轮相比于植被指数能反应较长时间尺度上的趋势,能比较准确的反应森林健康程度[12-13];植被指数有年周期，能反应短时间上冠层绿度的变化[7]。对于不同健康状况的森林,植被指数与树木年轮宽度指数的关系并不清楚,冠层绿度对树木年轮宽度的影响也不清楚。
+
+2014 年在山东蒙山地区进行森林生态调查时发现该地的赤松林存在不同程度的斑块状衰退现象,外观上表现为冠层绿度降低、落叶、小枝和枝干的枯死,甚至个体的死亡。森林冠层绿度的降低是否一定同时伴随着树木径向生长的降低？冠层绿度与树木径向生长的关系是否在时间上稳定？针对这些问题,选择了不同健康程度的赤松林为研究对象,采集了树木年轮样本,并分析冠层绿度与树木年轮的关系。
+
+# 1研究区概况
+
+蒙山位于山东省中部，位于 $1 1 7 ^ { \circ } 3 5 ^ { \prime } - 1 1 8 ^ { \circ } 2 0 ^ { \prime } \mathrm { E }$ 和 $3 5 ^ { \circ } 1 0 ^ { \prime } { \mathrm { - } } 3 8 ^ { \circ } 0 0 ^ { \prime } \mathrm { N }$ 之间，蒙山山脉呈西北-东南走向，是泰沂山脉的支脉,绵延 $7 5 ~ \mathrm { k m }$ ,面积 $1 1 2 5 ~ \mathrm { k m } ^ { 2 }$ ,跨费县、沂南、平邑和蒙阴4县。蒙山主峰龟蒙顶海拔 $1 1 5 6 \mathrm { ~ m ~ }$ ，为山东省第二高峰。研究区内地质构造复杂,山体主要为片麻岩、花岗片麻岩等,山脚有石灰岩覆盖。土壤类型以棕壤为主,中性至微酸[21]。蒙山属暖温带半湿润季风气候,年平均气温约 $1 3 . 2 \mathrm { ^ { \circ } C }$ ,无霜期约196d,年降雨量约 $7 5 0 ~ \mathrm { m m }$ ,最高温度和最高降雨量均出现于7月份。蒙山森林覆盖率达 $8 5 \%$ 以上，因较长时间的封山育林,蒙山植被发育良好,主要有人工落叶阔叶林、人工针叶林、山地灌草丛及小面积的次生落叶阔叶杂木林[22]。
+
+本研究的树种为赤松,赤松是我国暖温带沿海地区温性针叶林的主要建群种之一,赤松林是山东地带性的针叶林之一,也是山东省面积最大、分布最广、资源最丰富的天然森林群落。赤松的年轮清晰,尤其适合树木年轮生态学研究[23]。采样点所在的塔山林场和大青山林场主要树种为赤松,造林时间为20 世纪 50 年代末60 年代初。林分密度,覆盖度较为一致,种源和林龄相同,后期人为干扰较少。
+
+![](images/28bd72c5a71dd547e98d11f18edb8e7c1c9903e96b9ed3ee11e8669d3d2d990f.jpg)  
+图1采样点概况图  
+Fig.1Forests of the tree-ring sampling sites
+
+(a)采样点位置和地势示意图;(b)大青山林场五彩山(FXWC)森林衰退景观,山顶灰褐色为衰退的林分,山下近处可见衰退树；(c)大青山 林场小旺(FXXW)道路旁森林衰退景观
+
+# 2数据与方法
+
+# 2.1树木年轮数据
+
+选择4个树木年轮采样点,分别在蒙山塔山林场内水库上的低山山顶(FXTS),塔山林场葫芦崖山腰(FXHL）,大青山林场内的五彩山（FXWC)和小旺（FXXW）,见图1。在这4个采样点中,FXTS 样点的树木外观比较健康,树体结构完整,针叶深绿,FXHL样点的树木有落叶、褐色枯叶的衰退现象,而费县大青山林场的两个采样点FXWC和FXXW的树木在外观上表现出高比例的落叶、褐色枯叶、死枝等衰退现象。FXXW 和FXWC 的树木在1976 年爆发病虫害。
+
+http://www.ecologica.cn
+
+采样时,用生长锥在树木胸高处与山坡走向平行方向钻取树芯。将取到的树芯放置在塑料管内,并在管上标注编码。在实验室内,将树芯置于阴凉处风干,用白乳胶将样条粘到木槽上,使树芯的木纤维方向与槽面垂直,用细绳将树芯缠绕固定在木槽上。待白乳胶干后,拆下绳子,用280一600目的砂纸进行打磨,直到树轮在显微镜下清晰可见。各点采样的样本量见表1。
+
+在实验室内,使用年轮宽度测量仪LinTab5[24]测量每个树芯样本的年轮宽度,测量精度为 $0 . 0 0 1 \ \mathrm { m m }$ 。根据样芯最后一年的解剖学特征确定靠近树皮最外一个年轮的形成年份。用树木年轮学通用的标记符号标记伪轮,窄轮,缺年等。之后用骨架示意图进行交叉定年[25]。用COFECHA软件对定年和测量结果进行了检验,保证定年与测量的准确性。从树木年轮上看,大青山林场五彩山和小旺的部分树木在2014 年采样时有极窄的年轮或已经不再有径向生长。大青山林场五彩山有3个树芯在1985年和1992 年存在缺轮,大青山林场小旺有4个树芯在1991年,1992 年和1993 年存在缺轮。
+
+平均采样点各样芯年轮宽度指数可以得到理论平均值为1的无量纲树轮宽度标准年表[26]。因为要研究冠层绿度与树木径向生长的关系，本文主要采用了水平去趋势的方法，即树芯每年的年轮宽度除以整个时间序列的平均年轮宽度,这样可以保留长时间树木个体的生长趋势[17,27]。对有明显年龄趋势的树芯仍用负指数函数去趋势。
+
+表1采样点信息表  
+Table1Information of sampling sites and tree-ring samples   
+
+<html><body><table><tr><td>采样点 Sample sites</td><td>纬度 Latitude</td><td>经度 Longitude</td><td>海拔/m Elevation</td><td>坡度/(°) Slope</td><td>坡向/(°) Aspect</td><td>样本量 Sample depth</td><td>起始结束年 Start-end year</td><td>样本长度 Sample length</td></tr><tr><td>塔山水库(FXTS)</td><td>35°26.127'</td><td>118°01.494'</td><td>434</td><td>4</td><td>107</td><td>30</td><td>1962—2014</td><td>53</td></tr><tr><td>塔山葫芦崖(FXHL)</td><td>35°26.586'</td><td>11802.076'</td><td>483</td><td>38</td><td>164</td><td>31</td><td>1936—2014</td><td>79</td></tr><tr><td>大青小旺(FXXW)</td><td>35°23.762'</td><td>118°09.351'</td><td>345</td><td>34</td><td>300</td><td>18</td><td>1966—2014</td><td>49</td></tr><tr><td>大青五彩山(FXWC)</td><td>35°23.508'</td><td>118°10.691'</td><td>676</td><td>25</td><td>140</td><td>29</td><td>1974—2014</td><td>50</td></tr></table></body></html>
+
+FXTS：费县塔山林场水库;FXHL：费县塔山林场葫芦崖：FXXW：费县大青山林场小旺；FXWC：费县大青山林场五彩山
+
+# 2.2植被指数数据及冠层绿度降低
+
+植被指数产品选用 MOD13Q1-EVI[28]数据,引用自美国航空航天局（NASA)数据中心（htps://lpdaac.usgs.gov/dataset_discovery/modis/modis_products_table/mod13q1_v006）,其空间分辨率为 $2 5 0 \ \mathrm { m } { \times } 2 5 0 \ \mathrm { m }$ ,时间分辨率为 $1 6 \mathrm { ~ d ~ }$ 。MOD13Q1在每个像元上提供了6种植被指数,本文采用的是其中的增强植被指数（EVI）。该指数已做太阳辐射矫正,大气矫正和气溶胶的影响的低,最大限度地减少了冠层背景变化,保持高植被密度的敏感性，更适用于高植被覆盖区。
+
+EVI应用于植物群落时代表该地区森林绿度,即反映该地区植被数量和植被健康程度或生长状态。EVI的单年变化显示了植被冠层由春季开始绿度上升至夏季结束绿度下降的过程,反映了植被的物候特征。异常的气候条件或突发的虫害会显著影响植被的频谱特征[7]。本研究中,年际尺度的EVI变化用于监测和发现森林冠层绿度的变化。
+
+尽管16d最大值合成的 MODIS 地表反射率数据在一定程度上去除了云和大气的影响,但仍然可能受太阳高度角、观测角度、气溶胶等一些随机因素的干扰,使得时间序列数据的变化呈不规则状态,通常表现为EVI曲线短期起伏很大[29」,这是不符合植被正常生长状况的,因而需要对合成的MODIS EVI数据产品进一步滤波,去除噪声干扰。本文选用 Savitzky-Golay 滤波函数平滑时间序列 $\mathrm { E V I } ^ { [ 3 0 ] }$ （图2）。
+
+部分研究者[31]用生长季植被指数的变化量表征冠层绿度降低,由于EVI短期起伏大,部分年份存在“高尖”现象,会产生误差。部分研究者[32]利用生长季EVI的累积 $\mathrm { E V I _ { g s } }$ （growth season EVI)表示单年植被生长季绿度的积累,这种绿度的积累一定程度上表示了光合产物的积累[7,33]。
+
+综上,本文预选两种冠层绿度降低指标,一种是生长季4—10月份的逐月EVI值。另一种是生长季EVI的累积 $\mathrm { E V I _ { g s } }$ ,表示年植被生长季冠层绿度的积累。EVI值大于0.25的时间段作为生长季（表2）,继而对生长季的滤波后的EVI进行积分,积分后的值作为植被健康指标,以年为时间分辨率。这些备选的冠层绿度指标用于探究冠层绿度与年轮宽度的稳定关系。
+
+![](images/d952808a69216ec9a0e24c103ac3fd1a6b698b12c08b2a46bc01c59208b78783.jpg)  
+图2EVI原始时间序列及 Savitzky-Golay 滤波后的时间序列(以塔山林场葫芦崖为例) Fig.2Raw time series of 16-day EVIand time series through Savitzky-Golaysmoothing(FXHL asan example)
+
+表2蒙山4个采样点森林从2000—2014年从16dEVI提取的生长季长度  
+Table2Length of growth season of four forest sample sites extract from 16-day EVI since 2ooo to 2014   
+
+<html><body><table><tr><td>采样点 Sample sites</td><td>2000</td><td>2001</td><td>2002</td><td>2003</td><td>2004</td><td>2005</td><td>2006</td><td>2007</td><td>2008</td><td>2009</td><td>2010</td><td>2011</td><td>2012</td><td>2013</td><td>2014</td></tr><tr><td>塔山水库 FXTS</td><td>176</td><td>192</td><td>192</td><td>176</td><td>192</td><td>192</td><td>208</td><td>192</td><td>224</td><td>192</td><td>192</td><td>192</td><td>192</td><td>160</td><td>192</td></tr><tr><td>塔山葫芦崖 FXHL</td><td>160</td><td>192</td><td>224</td><td>192</td><td>224</td><td>176</td><td>192</td><td>224</td><td>208</td><td>208</td><td>208</td><td>208</td><td>208</td><td>160</td><td>240</td></tr><tr><td>大青小旺FXXW</td><td>144</td><td>144</td><td>160</td><td>144</td><td>160</td><td>160</td><td>160</td><td>160</td><td>176</td><td>160</td><td>160</td><td>160</td><td>160</td><td>112</td><td>112</td></tr><tr><td>大青五彩山 FXWC</td><td>176</td><td>144</td><td>176</td><td>144</td><td>144</td><td>192</td><td>176</td><td>176</td><td>192</td><td>176</td><td>176</td><td>176</td><td>192</td><td>112</td><td>112</td></tr></table></body></html>
+
+# 2.3增强型植被指数与年轮宽度指数的因果关系分析
+
+格兰杰因果关系检验以随机过程的线性回归模型来度量时间序列之间的因果性[34]。如果一个时间序列的过去值对另外一个时间序列的将来值的预测有促进作用,则这两个时间序列就存在着一定的因果关系。年轮宽度指数序列(TRI)与增强型植被指数序列(EVI)为两个在生理上相关的时间序列,本文采用格兰杰因果关系检验探索年轮宽度与冠层绿度的因果关系。
+
+在使用格兰杰检验方法进行检验时,欲判断可能的原因要素是否引起了一个结果要素,则是在考察被观察的结果要素自身过去值对当前值的解释度的基础上,加入原因要素的滞后值,看新的回归方程是否能够显著增加对结果要素的解释程度。因果关系的成立需要满足以下两个条件：一是原因要素的加入能够显著增加回归方程对结果要素的解释度;二是结果要素不能够有助于对原因要素的预测。
+
+在格兰杰因果检验前,需要检验时间序列的平稳性,通过自相关和偏相关检验、单位根检验,单月的EVI和滤波后EVI生长期累积 $\mathrm { E V I _ { g s } }$ 为平稳时间序列。一般来说树木年轮也是平稳时间序列。
+
+构建格兰杰因果关系检验的随机过程的线性回归模型：
+
+$$
+\mathrm { E V I } _ { i j t } = \alpha + \beta \mathrm { E V I } _ { i j t - 1 } + \mu _ { i t }
+$$
+
+$$
+\mathrm { E V I } _ { i j t } = \alpha + \beta _ { 1 } \mathrm { E V I } _ { i j t - 1 } + \beta _ { 2 } \mathrm { T R I } _ { i t - 1 } + \mu _ { i t }
+$$
+
+$$
+\mathrm { T R I } _ { i t } = \alpha + \beta \mathrm { T R I } _ { i t - 1 } + \mu _ { i t }
+$$
+
+$$
+\mathrm { T R I } _ { i t } = \alpha + \beta _ { 1 } \mathrm { T R I } _ { i t - 1 } + \beta _ { 2 } \mathrm { E V I } _ { i j t - 1 } + \mu _ { i t }
+$$
+
+$$
+F = \frac { ( \mathrm { R S S } _ { _ R } - \mathrm { R S S } _ { _ { U R } } ) / q } { \mathrm { R S S } _ { _ { U R } } / ( t - 2 q - 1 ) }
+$$
+
+其中公式(1)和(3)是限制条件的回归,即公式(5)中的R,公式(2)和(4)是无限制条件的回归,即公式（5)中的UR。其中 $\mathrm { E V I } _ { i j t }$ 表示 $i$ 采样点， $\mathbf { \Phi } _ { t }$ 年 $j$ 月份， $\mathrm { T R I } _ { i t }$ 是 $i$ 采样点 $\mathbf { \chi } _ { t }$ 年的年轮宽度指数。 $\alpha , \beta , \beta _ { 1 } , \beta _ { 2 }$ 是回归系数 ${ } , { \mu }$ 是回归残差项。假设检验为 $F$ 检验（公式(5)），其中 $q$ 为自回归滞后， $\mathbf { \chi } _ { t }$ 为时间序列长度。
+
+假设检验采用 $F$ 检验(公式(5)），对于回归公式(1)和(2），检验原假设 $H _ { 0 }$ ：TRI不是引起EVI变化的格兰杰原因,等价于检验 $H _ { 0 } : \beta _ { 1 } = \beta _ { 2 } = \cdots = \beta _ { q } = 0$ ,备择假设 $\boldsymbol { H _ { \mathrm { ~ 0 ~ } } ^ { \prime } }$ ：TRI 是引起EVI变化的格兰杰原因。对于回归公式（3)和(4），原假设 $H _ { \mathfrak { r } }$ ：EVI不是引起TRI变化的格兰杰原因,备择假设 $\boldsymbol { H ^ { \prime } } _ { 1 }$ ,EVI是引起TRI变化的格兰杰原因。
+
+检验EVI和TRI的格兰杰因果关系,有4种可能的关系：(1)拒绝 $H _ { 0 }$ ，且接受 $\boldsymbol { H _ { \mathrm { ~ 0 ~ } } ^ { \prime } }$ ,则冠层绿度的变化导致年轮宽度的变化;(2)接受 $H _ { 0 }$ ,拒绝 $\boldsymbol { H _ { \mathrm { ~ 0 ~ } } ^ { \prime } }$ ,则年轮宽度的变化导致冠层绿度的变化;(3)拒绝 $H _ { 0 }$ ，且拒绝$\boldsymbol { H _ { \mathrm { ~ 0 ~ } } ^ { \prime } }$ ,则冠层绿度和年轮宽度协同变化,互为因果;(4)接受 $H _ { 0 }$ ,且接受 $\boldsymbol { H _ { \mathrm { ~ 0 ~ } } ^ { \prime } }$ ,则某变量导致冠层绿度和年轮宽度两者的变化。
+
+# 2.4冠层绿度降低与径向生长的叠加事件分析
+
+叠加事件分析用来检验平均树木生长对某事件响应的显著性[35-37],该方法将年轮宽度根据"关键事件"分成几类,径向生长对关键事件的响应会从均值中显现出来,而其他的噪音会消失,其置信度是利用分块自举法重新取样10000次计算得到。叠加事件分析的关键事件是每个采样点冠层绿度降低发生的年份。
+
+# 3结果
+
+3.1增强型植被指数与年轮宽度指数的因果关系
+
+通过格兰杰因果关系分析,本研究对蒙山4个采样点的增强型植被指数与年轮宽度指数的关系进行了探究。
+
+![](images/b8022bdfb8f8212cb046c8a8563927287fd35b6d0fd963e85019b73113075010.jpg)  
+图3蒙山4个采样点的年轮宽度指数(TRI)和增强型植被指数(EVI)的格兰杰因果关系检验( ${ \boldsymbol { P } } = 0 . 1$ ）  
+Fig.3TheGrangerCausaityTestbetweenRingWidthIndexandEnhancedVegetationIndexoffoursamplesitesinMengshanMountais $\textrm { \textbf { P } } = 0 . 1$ ）
+
+塔山林场水库上的低山山顶(FXTS)采样点的树木外观比较健康,格兰杰因果检验结果表明4月份,6月份和7月份,EVI引起了TRI的变化，而TRI没有引起EVI的变化。EVI和TRI是第1种关系；冠层绿度的变化导致了年轮宽度的变化。
+
+塔山林场葫芦崖(FXHL)采样点的树木有落叶、褐色枯叶的衰退现象，格兰杰因果检验结果表明4月份和6月份EVI引起了TRI的变化,而TRI没有引起EVI的变化。属于第1种关系：冠层绿度的变化导致了年轮宽度的变化。5月份，7—10月份以及 $\mathrm { E V I _ { g s } }$ 格兰杰检验得EVI和TRI是第4种关系：某种变量导致了冠层绿度和年轮宽度两者的变化。大青山林场小旺(FXXW)采样点的树木外观表现出严重的衰退,5—10月份以及 $\mathrm { E V I _ { g s } }$ 格兰杰因果检验结果得EVI和TRI是第4种关系：某种变量导致了冠层绿度和年轮宽度两者的变化。大青山林场五彩山(FXWC)采样点的树木外观表现出严重的衰退,5—10 月份以及 $\mathrm { E V I _ { g s } }$ 格兰杰因果检验结果得EVI和TRI是第4种关系：某种变量导致了冠层绿度和年轮宽度两者的变化。综上,对于健康的森林,4月份和6月份EVI是TRI变化的格兰杰原因( $\scriptstyle P < 0 . 1 { \ : } )$ ,对于衰退的森林,EVI和TRI互相不是变化的原因,可能由于某种变量导致了EVI和TRI的变化。
+
+![](images/6fbef1a0efa32513a8c2dcd53fba11f03c6316e0a17b29f0002655194c4272a1.jpg)  
+图4FXTS的年轮宽度和逐月温度、降水的相关性分析  
+5.4The correlation of ring width index of FXTS and monthly temperature and precipitation in meteorological stat
+
+气候因子与年轮宽度指数生长季4—10月份的滑动相关系数用自举法计算,窗口长度为20,滑动步长为2年。如图4—图7,从逐月的临沂气象站(1951—1997年)和费县气象站(1998—2014年)实测温度和降水与年轮宽度指数的相关关系上来看,4月份温度,6月份的温度和6月份的降水与年轮宽度指数没有在时间上稳定的相关性,有些年份正相关,有些年份负相关。4月份的降水和年轮宽度指数时间上稳定的相关性。
+
+# 3.2，冠层绿度降低年份
+
+根据格兰杰因果检验的结果,4月份和6月份的森林冠层绿度是径向生长的原因,故用4月份和6月份的EVI值来确定冠层绿度降低事件发生的年份。4月份和6月份的EVI极低值大多发生在相同的年份,或者是相差1年。若6月份的EVI极低值发生在当年,后一年4月发生EVI极低值时,EVI极低年份确定为当年，因为很可能在冠层绿度快速增加的4月受前一年绿度达到最高的月份6—8月份的生物量积累影响,如果前一年的物质积累不够,当年生长季开始绿度增加也会不够。若极低值在4月份和6月份发生的年份不同,两者的极低值年都作为极端年。根据极低值的排序,确定弱的冠层绿度降低事件和强的冠层绿度降低事件。强的冠层绿度降低事件设定为4月份EVI的降低和6月份EVI的降低接连发生或4,6两月份中有极低的EVI。在阈值的设定上,参考了Tovar对衰退森林植被绿度的研究[38]。弱的冠层绿度降低事件设定为4月份EVI小于0.23且6月份EVI小于0.37或4月份和6月份两月都有较低的EVI。根据冠层绿度降低年份的确定条
+
+![](images/a8501f13454a90cfd30335fdc75f08ebe09c2045cf7e11976c10a8824df1e947.jpg)  
+图5FXHL的年轮宽度和逐月温度、降水的相关性分析
+
+Fig.5Thecorrelationof ring width indexofFXHLand monthlytemperatureand precipitationinmeteorological stations件,塔山林场水库（FXTS），塔山林场葫芦崖（FXHL），大青山林场小旺(FXXW），大青山林场五彩山（FXWC)的强的冠层绿度降低事件分别发生在2000年，2009年,2012 年;2009 年,2013 年；2007 年,2013 年；2003年,2008年,2012年。弱的冠层绿度降低事件分别发生在2003 年,2006年；2001年,2014年；2000年，2003年，2010年；2001年，2005年。
+
+# 3.3冠层绿度降低与径向生长的叠加事件分析
+
+确定了冠层绿度降低事件发生的时间后，通过叠加事件分析来分析冠层绿度降低事件对径向生长的影响。在冠层绿度降低事件的前5年内，径向生长可能已经有降低的预兆，在冠层绿度降低事件的后5年内，径向生长可能在一些年份恢复，也可能很难恢复。冠层绿度降低的强弱程度以及森林健康状况对树木径向生长的恢复有显著的影响。
+
+在弱的冠层绿度降低事件之后，4个采样点的森林径向生长都有某些年份的显著恢复，两个健康的采样点在显著的恢复年恢复力较强,FXTS 恢复年的年轮宽度指数相比前一年增长0.88,FXHL 年轮宽度指数增长达0.91。两个衰退的采样点在显著的恢复年恢复力弱,年轮宽度指数增长未达0.50（图9）。
+
+![](images/ad5829adff741a435da311c61cb17098686558348293bbb92a16ee701db91947.jpg)  
+图6FXXW的年轮宽度和逐月温度、降水的相关性分析 Fig.6The correlation of ring width index of FXXW and monthly temperatureandprecipitation inmeteorological stations
+
+对于健康的森林,年轮宽度指数与冠层绿度降低事件有相关关系,冠层绿度降低当年年轮宽度指数显著降低。因为冠层绿度降低前后都有年轮宽度指数显著降低,故冠层绿度降低与树干径向生长降低不存在因果关系。在强的冠层绿度降低事件之后,4个采样点年轮宽度都有显著的降低，并且是连续的持续时间长的显著降低。4个采样点中强的冠层绿度降低事件之前的1年径向生长都降低了。在强的冠层绿度降低事件之后径向生长在近5年几乎不存在恢复。2000—2014年中2—3个强的冠层绿度降低事件影响的时间长,强度
+
+![](images/8409e8d592a575d6af9162cafcd8b9062bee04196668ca999c00b302288d2d9b.jpg)  
+图7FXWC的年轮宽度和逐月温度、降水的相关性分析
+
+Fig.7Thecorrelationof ring width index ofFXWCandmonthly temperatureand precipitation in meteorological stations
+
+![](images/f16ad5135f2a88627f97c4f2d7e267a896a6273a135aca5c86e2a28852d12071.jpg)  
+图84个采样点的年轮宽度指数(TRI），4月份，6月份增强型植被指数(EVI)的时间序列
+
+Fig.8Average ring width index and enhanced vegetation index time series of April and June offour sample sites
+
+![](images/285be2b865b664b223041b5c20241d08985a40aae9b2366038efbb28443eac2b.jpg)  
+图94个采样点年轮宽度指数与弱冠层绿度降低的叠加事件分析  
+图104个采样点年轮宽度指数与强冠层绿度降低的叠加事件分析
+
+Fig.9 Superposed Epoch Analysis between ring width index andmoderatecanopy greenloss eventsof foursample sites in Mengshan Mountains L
+
+黑色表示显著的年份，灰色表示不显著的年份， $P _ { \mathrm { \ell } } = 0 . 0 5$
+
+1.0 1.0塔山水库 塔山葫芦崖0.5 0.5015 -1.0 T 0 -1.0rrrr irir lirnren -1.5 -1.5喜 -2.0 -2.0-5 -4 -3 -2 -10 1 2 345 -5-4 -3 -2 -10 1 23451.0 大青小旺 1.0 大青五彩山0.5 0.50 中 0-0.5 -0.5-1.0 -1.0-1.5 -1.5-2.0 -2.0-5 -4 -3 2 0 1 2 7 -5 4 -3 -2 -1 0 1 2 3 4 5滞后年Lag year/a
+
+Fig.10 Superposed Epoch Analysis between ring width index and severe canopy green loss events of four sample sites in Mengshan Mountains
+
+黑色表示显著的年份，灰色表示不显著的年份， $P _ { \mathrm { \ell } } = 0 . 0 5$
+
+# 4讨论
+
+4.1森林健康与EVI4个采样点之间EVI阈值法定义的生长季长度有显著的差异( $P { < } 0 . 0 1 \$ ),塔山林场两个较健康采样点的森林比大青山林场两个衰退采样点的森林的生长季平均长了38d,38d是通过 MODIS EVI数据计算出来的，并不是准确的天数,因为MODIS EVI数据的时间分辨率是16天。4个采样点之间4月份和6月份的EVI也都有显著差异（4月份 $P = 0 . 0 1 8 0 , 6$ 月份 $P = 0 . 0 0 3 3$ )。4个采样点每年的植被指数从最低到最高的变化值差异不显著( $P = 0 . 6 3 0 4 \rangle$ ,若作为森林健康程度的指标可能并不能真正表示森林的健康程度,冠层绿度降低通常是短暂的,可能出现在个别月份但是对整年植被指数从低到高的变化没有太大影响,这与 Debeurs 等的结果一致,Debeurs认为粗的时间分辨率很难动态监测病虫害导致的短暂的冠层绿度降低事件,短暂冠层绿度降低往往不影响植被指数的最低最高值[4]。
+
+# 4.2 EVI与TRI的关系
+
+4月份和6月份的EVI是TRI变化的格兰杰原因在健康森林中明显有所体现。这与 Kaufmann 等[1-3]对北美和亚欧北方48个点年轮宽度和 NDVI格兰杰因果关系计算的结果较为一致。Kaufmann 等认为针叶林为主的北方森林6月份和7月份的 NDVI与TRI之间相关关系最强,3—5月份及 $8 { \cdot } { \overset {  } { - } } 1 0$ 月份的相关关系弱,然而生长季TRI与NDVI序列之间不存在显著的因果关系[2]。气候驱动 TRI和 NDVI的关系,这种气候的控制区域与纬度更相关而不是树种[3]。格兰杰因果关系检验结果的差异主要来自3个方面:树木年轮去趋势方法,回归方程以及植被指数的数据源[39]。在做相关性分析时,去趋势方法对结果的影响需要考虑[40]。Kaufmann 等的年轮宽度序列为标准化年表,一般标准化年表去掉了单株树木年轮宽度的年龄趋势和内源性的干扰影响[4-2],去趋势的过程中很可能去掉了与冠层绿度相关的一些趋势。本文主要用水平去趋势,有明显年龄趋势的用负指数函数去趋势,这样可以保留长时间树木个体的生长趋势[17,27]。在考虑植被指数和年轮宽度的回归关系时,太阳高度角和气溶胶光学厚度也作为回归因子,以降低其对 NDVI的影响[1-2]。研究植被指数和年轮宽度序列的关系时大多使用 $8 ~ \mathrm { k m }$ 分辨率的 GIMMS NDVI数据集[1-2,43]和PAL NDVI数据集[39]， $8 ~ \mathrm { k m } \times 8 ~ \mathrm { k m }$ 像元中的地物可能不仅是植被,也可能不仅是单一物种的植被,同时树木年轮采样能代表的空间观测范围并没有这么大,粗的分辨率大大降低了植被指数和树木年轮宽度关系的准确性,影响植被指数和年轮宽度关系的结果。本文使用的是MOD13Q1时间分辨率16天,空间分辨率 $2 5 0 ~ \mathrm { m } { \times } 2 5 0 \mathrm { ~ m }$ 的EVI三级遥感产品，太阳辐射和气溶胶影响的较低。
+
+对于健康的森林,4月份和6月份EVI是TRI变化的格兰杰原因( $P < 0 . 1 )$ 可能是因为生长季初期森林冠层的快速变绿(green-up)与径向生长关系密切,森林冠层快速变绿时期的冠层绿度反映了生长季初期植被变化的活力[5.33]。Rossi等的研究显示新的管胞的形成在夏季早期之后就会降低[44],因为年轮宽度普遍与总的管胞数量强相关[45],TRI也和夏季开始阶段的树木状态有强相关。对于衰退的森林,可能是某种因子驱动EVI和 TRI的变化。在衰退中径向生长体现的是树木生长的趋势,EVI体现的是年内冠层的周期变化,冠层产生的营养物质储存在茎中,茎为生长季的冠层生长提供营养物质,冠层绿度和径向生长的因果关系和营养物质分配有关[46-47]。
+
+Beck 等采用了重复很好的4个阿拉斯加和加拿大西部沿着东西梯度的靠近北极地区的林线采样的树木年轮数据做研究,结果显示 TRI和NDVI以及温度都没有很好的相关性,最大晚材密度 MXD 和 NDVI在生长季早期有显著正相关( $P { < } 0 . 0 5 )$ ,可能是因为有些采样点脱离了温度限制的区域[43]。Bunn 等研究了19 对西伯利亚针叶林 TRI和MXD 数据集和NDVI的关系,结果显示TRI和春季及夏季的NDVI有中等程度和中等时间连续性的相关,MXD与 NDVI有更明确的相关[40]。
+
+# $\mathbf { 4 . 3 } ^ { \prime }$ 冠层绿度降低事件对树木径向生长的影响
+
+虽然4个采样点森林在外观上的健康水平不同,但是通过4月份和6月份EVI值筛选出来 2000—2014年这15年间强冠层绿度降低的年份个数都为2—3个,强的冠层绿度降低事件影响的时间长,强度大。年轮宽度对强的冠层绿度降低事件的响应表现为事件当年径向生长显著降低,前一年径向生长降低,在前2—5年中径向生长有显著或者不显著的生长增加。在强的冠层绿度降低事件之后,4个采样点年轮宽度降低显著，持续时间长,5年内径向生长几乎没有恢复的年份。强的冠层绿度降低事件对于森林的健康是非常不利的，持续的径向生长降低的结果就是死亡[16]。费县大青山小旺(FXXW)和五彩山(FXWC)两个采样点在 2013 年和 2014 年就发生了树木死亡。
+
+在弱的冠层绿度降低之后,两个健康的采样点在显著的恢复年恢复力较强,两个衰退的采样点在显著的恢复年恢复力弱。弱冠层绿度降低之后的5年4个采样点的森林径向生长都有恢复且某一年份恢复显著。弱的冠层绿度降低后虽然有恢复,但是恢复力和森林的健康状况有关。短暂的干扰如虫害和气候变化对冠层的伤害可以通过保持氮限制显著影响生态系统的功能,氮限制最终会导致森林受到干旱,虫害,气候变化等后续短暂干扰的胁迫从而易于死亡[48]。有研究指出,虫害干扰,如松叶蜂危害各个龄级的森林,造成欧洲赤松和黑松严重的冠层落叶,胸径断面积降低 $4 0 \% - 7 0 \% ^ { [ 4 9 ] }$ 。Poljansek 等追踪欧洲黑松和赤松的针叶动态以及测量树木年轮宽度,结果显示针叶簇的减少导致了当年径向生长和高生长的衰退。气候胁迫事件导致的针叶存留比例在叶龄上有区别[50]。酷热和反复的干旱事件同时导致了生物量的降低,缺少糖类及营养,森林的恢复至少需要4年[51]。还会导致弱的枝条长度增加,不正常的短针叶,每簇针叶数量少,少的分枝和结果率[51]。目前的研究仍无法准确获知冠层绿度降低以及森林衰退的原因,但个体树木的衰退通常是长时间尺度上的胁迫和短时间尺度上的胁迫的联合效应,森林衰退是一系列环境胁迫,易感因子,诱导因子以某种发生顺序引起的森林外貌的病态[6],这种衰退很难恢复。
+
+# 5结论
+
+蒙山地区健康森林中,冠层绿度与树木年轮宽度在4月份和6月份存在因果关系;森林不健康时,两者无因果关系,关系较为复杂。
+
+冠层绿度降低与树干径向生长降低不存在因果关系,但是冠层绿度降低对树干径向生长有影响：在强的冠层绿度降低事件造成赤松径向生长的持续降低且难恢复。强冠层绿度降低事件可能造成的径向生长的持续下降似乎是不可逆转的,甚至可能导致树木死亡。弱冠层绿度降低不一定伴随着树干径向生长的降低,之后某些年份恢复显著，恢复力与森林的健康状况有关。
+
+致谢：张齐兵老师对研究工作给予帮助,邱红岩老师帮助测定树木年轮,山东省林业厅、费县塔山林场和大青山林场给予工作支持,聂昌远博士和梁寒雪博士对野外工作给予帮助,特此致谢。
+
+# 参考文献（References）：
+
+[1]KaufmanRK,ZhouL，MyneniRB,uckerCJ,SlabackD,ShabanovNV,PinzonJ.Theefectofvegetationonsurfacetempature：astatistical analysis of NDVI and climate data. Geophysical Research Leters，2003，30(22）: 2147.  
+[2]KaufmaRK,DigRD,LasowskiC,MyenRB,ZhouL,DaviNK.Thefetofgrowingseasonandummegreeessoforests.Geophysical Research Letters，2004，31(9）:L09205.  
+[3]KaufmaRK,DAigRD,PaletaLF,TianHQ,JollyWM,MyeniRBIentfyingclimatiotrosoring widheiingofcorrelations between tree rings and NDVI.Earth Interactions，2008,12(14）：1-14.4 DeBeursKMTonsendPA.EstimatigtheectfgysyothefolationusingDS.RemoteSensingofEnviroent，08，（1）：3983-3990.PetorelliN，VikJ，y，lrdJuckerCeshUsihelltidtesosenvironmental change.Trends in Ecology& Evolution，2005，20（9）：503-510.  
+[6] Ciesla WM,DonaubauerE.Declineand dieback of tresandforests；aglobal overview.FaoForestryPaper,1994,120:4-17.  
+[7] LambertJ,DreouCeuJalentGetVoitoringforestlinoheotessingteserisalysissie&teSensing，2013，50(4):437-457.  
+[8] Linderholm HW.Growingseasonchangesin thelastcentury.AgriculturalandForest Meteorology，2O06,137(/2）：1-14.  
+[9] CarnicerJ,ollolaoscGuelsJdspredoodii,fodbptidlmortlityitedategtoutocflcaeiesfiatesc(4):1474-1478.33(6): 1675-1689.  
+[11]ZoranMA,DidaAI,ZraLFVRemotesensingofmatechangesfetsoforestbiopsicalVrables//NaleCMU,aleeA，ds.Remote Sensing for Agriculture,Ecosystems，and Hydrology XVI. Edinburgh，United Kingdom；SPE,2014.  
+[12]Fritts H C.Tree rings and climate. Scientific American,1972,226(5）: 92-100.  
+[13]Cook ER,Kairiukstis L A. Methods of Dendrochronology.Netherlands: Springer，1990：224-384.  
+[14]BiglerC,GiarJ,BugmannH,ufarK.Growthpatesasindicatorsofipendingtreedeathinilerfr.FrestEcologadMage2004，199(2/3):183-190.  
+[15]OgleK,iaG,beigratiiyoredictslikelieathfngeeredhtEol（1)3237-3243.  
+[16]HoggEadtJchalipactsofgialoughtoheprductiyebackndassofsteCaadit.Canadian Journal of Forest Research,2008,38(6）：1373-1384.  
+[17]MundI,V,d,GllA,Visroisgain northern Patagonia，Argentina. Trees，2010,24(3）：561-570.  
+[18]AmoeDoolsoiustosifsiuse of tree-ringsasan indicator of forest decline.Forest Ecology and Management，2012,265:62-70.  
+19]Liaeiel2012,18(3):1000-1015.  
+[20]WiliamsAP,lleCD,acaladAK,GrifiD,WoouseCA,MeD,SweW,RasSA,eagerR,Griss-HD,Dean JS,Cook E R,Gangodagamage C,Cai M,McDowell NG.Temperature as a potent driver of regional forest drought stress and tree mortality.Nature Climate Change,2013，3（3）：292-297.  
+[21] 赵遵田，王锡华,李京东，肖素荣.山东省蒙山种子植物区系研究.山东科学，2005，18(4)：42-47,51-51.  
+[22］高远，慈海鑫，邱振鲁，陈玉峰．山东蒙山植物多样性及其海拔梯度格局.生态学报，2009，29(12)：6377-6384.  
+23]SchwenguberFredodinerochrololgcalAatocaldeRinAalyticaceristieFrequently Used in Dendrochronology.Johnson S，trans.Berlin Heidelberg：Springer-Verlag，1993：117-120.  
+[24]RinFA-inTesnalysisndPresetatifoDedrocolondRelatedAplctio，VersionO3foroftWindo.Heidelberg，Germany：Rinn Tech，2003  
+[25]StokesMA,SmileyTL.AnIntroductionto Tree-Ring Dating.Tucson,AZ,USA:TheUniversityofArizonaPress，996：402-404.  
+[26]Cook ER. A time-series analysis approach to tree ring standardization[D]. Tucson，AZ,USA：University of Arizona，1985.  
+[27]VeblenT,HadleyKS，ReidMS，RebertusAJ.MetodsofdetetingpastsprucebetleoutbreaksinRockyMountainsubalpiforests.Canadian Journal of Forest Research，1991,21(21):242-254.  
+[28]Didan K. MOD13Q1: MODIS/Terra vegetation indices 16-Day L3 global $2 5 0 \mathrm { m }$ grid SIN VO06. NASA EOSDIS Land Processes DAAC. 2015.https://doi.0rg/10.5067/M0DIS/M0D13Q1.006.  
+[29］王乾坤，于信芳，舒清态，尚珂，文可戈.MODIS EVI时序数据重建方法及拟合分析.地球信息科学学报，2015，17(6)：732-741.  
+[30]SavitzA，GolayMJ.SooingnddierentitionoftaysiplfedleastsqaresproceuresAnalyticalCemistr964，6（）:1627- 1639.  
+[31]John AG，ChristopherBF，MichaeL G,KevinLG，AnneEH，GeskeJ，JosepP，RiccrdoV，Relaionships between Ndvi，CanopyStructure，and Photosynthesis in 3 Californian Vegetation Types.Ecological Applications，1995(5），28-41.  
+[32] White M A Nemani R R. Canopy duration has litte influence anual carbon storage in the deciduous broad leafforest. Global Change Biology,2003，9(7): 967-972.33 ReedBC.Trendalysftesesooofmeddtelitta.scec&emoteig,）48.rangerCWJ.Iestigatingusalrelatiosbyooetricodelsndospectraletods.Ecooerica969,7）：4-438.  
+[35] HaurwitzMW，rierGWAcrtefhsperpodepohalysisetodsapcatiotooar-eatereltos.otlyWeathevie,1981，109(10):2074-2079.  
+36SeaeacrlSOsiledeoieUate/DiazHF,MarkgrafVds.io：stocaldleliaticspctsoftSoutOslltioambdge：mbidgUity,1992: 259-279.  
+[37]SwetnaTW,BaisanCH.HstorcalfireregiepaesintheouthwesteUnitedStatessincAD//AlleCD,dFreffectsinSouthwestemnForestsProcedingsof theSecondLaMesaFireSymposiu.Loslamos，NewMexico，March29-31，1994.FortColins，CO,USDAForestService,RockyMountainForestandRangeExperientStation，GeneralTchnicaleportRM-GT-286.ortColins，CO：USDAForest Service，1981：11-32.  
+[38]TovarCCseuieoesusreeadaalsfaleealVgee（fortheDetectionofDegradationofForestCoverinMexicoO0-20.ForestResorcsAsessmentWorkingPaper7Rome，ItalyoodadAgriculture Organization of the United Nations,2009.  
+[39] LopatinE,KolstrSpeckerHeteatioofforestgowthtredsinKoiRepublic（orthwesteusia）ominatiofreiganalysis and remote sensing data.Boreal Environment Research，2OO6,11(5）：341-353.  
+[40] Bunn A G,Hughes M K,Kirdyanov A V,Losleben $\mathbf { M }$ ， Shishov V V, Berner L T, Oltchev A,Vaganov E A.Comparing forest measurements fromtreeringsandaspace-based indexof vegetationactivityin Siberia.EnvironmentalResearchLeters，2O13,8（3）：035034.  
+[41] CookER,JohsonAH,BlasingTJ.Forestdcline：modelingtheeffctofateintreerings.TreePhysioog，987,（)：2-0.  
+[42] JohnsonAH,CookER,SiccamaTG.ClimateandredsprucegrowthnddeclineinthenortherapplachiansProceedingsofthNatioalAcademy of Sciences of the United States of America，1988,85(15）：5369-5373.  
+[43]Beck P SA,Juday GP,Alix C,Barber VA,Winslow SE,Sousa EE,Heiser P,Herrges JD,Goetz S $\mathrm { J . }$ Changes in forest productivity acrossAlaska consistent with biome shift. Ecology Letters，2011，14(4）：373-379.  
+[44]RossiSs,filna,aeolseaeof tree-ring formation with day length.New Phytologist,2006,170(2）：301-310.  
+[45]VaganovEA,HughsMK,ShaskinAVGrowthDyamicsofConiferTreRngs：ImagesofPastndFutureEnvioentsBerliHeidelbergSpringer，2006：112.  
+[46] HuntERJr，MartinFC,RuingSWSimuatingtheefectsofclimaticvariationonstemcarbonaccuulationofaponderosapinestand;comparison with annual growth increment data. Tree Physiology，1991,9(1/2）：161-171.  
+[47]D'AriRD,alrC,JcG,LskerE.relatioeteealtewofaltrbased estimates of forest productivity.International Journal of Remote Sensing,200o,21(11)：2329-2336.  
+[48] McNeilBE，deBeursKM,EshlemanK,FosterJR，TownsendPAMaintenanceofecosystemnitrogenlimitationbyepheralforestdisturbance：anassessmentusing MODIS,Hyperion，andLandsat ETM+.Geophysical Research Letters，2007,34（19):L9406.  
+[49]LagstlElistCVmelreoraideoecoveygrowhloiotsilindefliationbyDprionpini（L）andsubseqentatackbyomicuspiniperd（L.)ScandinavianJoualofForestResearch，，6（4)：342-353.  
+[50]PoljanSek S,Levanic T,Balian D,Jalkanen R. Tree growth and needle dynamics of $P$ . nigra and $P$ . sylvestris and their response to climate and firedisturbances.Trees，2015，29(3）：683-694.  
+[51]VeeadFgdeietaglibOSe,bt.iategarchitecturaldevelopetndleafreinghBR,d.CateCange-ReaitiespactsOverceCap,eaLevelndRisseoatiInTech，2013：103-126.

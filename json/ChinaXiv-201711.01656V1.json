@@ -1,0 +1,274 @@
+[
+    {
+        "type": "text",
+        "text": "奶牛常用饲料康奈尔净碳水化合物-蛋白质体系中含氮化合物组分含量与可利用氨基酸含量",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "之间的关系包愈 胡 聪 赵广永\\*（中国农业大学动物科技学院，北京100193）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了预测奶牛常用饲料中可利用氨基酸(uAA)的含量，本试验采集了21个奶牛饲料原料样品，测定了饲料样品的粗蛋白质(CP)、粗脂肪(EE)、粗灰分(ash)、中性洗涤纤维(NDF)、酸性洗涤纤维(ADF)、可溶性粗蛋白质(SCP)、非蛋白氮(NPN)、中性洗涤不溶粗蛋白质(NDIP)、酸性洗涤不溶粗蛋白质(ADIP)含量，并根据康奈尔净碳水化合物-蛋白质体系（CNCPS）对饲料含氮化合物组分的划分方法，计算出饲料样品的含氮化合物组分非蛋白氮（PA）、快速降解真蛋白质（ $\\mathrm { P B } _ { 1 }$ )、中速降解真蛋白质(PB2)、慢速降解真蛋白质（ $\\mathbf { \\mathrm { P B } } _ { 3 }$ ）和不可利用蛋白质（PC）的含量，测定了饲料的氨基酸含量，同时利用CNCPS 含氮化合物组分估测出饲料的uAA含量。结果表明，奶牛常用饲料的CNCPS 含氮化合物组分（PA、 $\\mathrm { P B } _ { 1 }$ 、 $\\mathrm { P B } _ { 2 }$ 、 $\\mathrm { P B } _ { 3 }$ 、PC)含量（%DM)与uAA、可利用蛋氨酸(utilizable methionin,uMet）、可利用赖氨酸(utilizablelysine,uLys）、可利用亮氨酸（utilizable leucine,uLeu）含量（ $\\%$ DM）存在显著的相关关系，回归方程如下： $\\mathrm { u A A = 0 . 1 7 1 P A + 0 . 1 3 4 P B _ { 1 } + 0 . 3 6 4 P B _ { 2 } + 0 . 3 7 0 P B _ { 3 } + 0 . 1 4 8 P C + 7 . 7 8 5 }$ ， $R ^ { 2 } { = } 0 . 9 9$ ， $P <$ 0.01；uMet=0.019PA-0.031PB1+0.024PB $_ { 2 + 0 . 0 }$ 78PB $_ 3$ 0.004PC-0.071， $R ^ { 2 } { = } 0 . 9 3$ ， $P { < } 0 . 0 1$ uLys=-0.045PA-0.020PB1+0.072PB2+0.038PB $_ 3$ 0.011PC+0.780， $R ^ { 2 } { = } 0 . 9 2$ ， $P { < } 0 . 0 1$ ：uLeu=0.071PA+0.033PB1+0.093PB2+0.189PB3+0.003PC+0.006, $R ^ { 2 } { = } 0 . 9 4$ ， $P { < } 0 . 0 1$ 。结果提示，根据CNCPS 含氮化合物组分和本试验所建立的方程，可以准确地预测奶牛饲料的uAA、uMet、uLys 和uLeu含量。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：奶牛；康奈尔净碳水化合物-蛋白质体系；可利用氨基酸",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S823",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由于瘤胃及其微生物的存在，反刍动物消化利用蛋白质和氨基酸的方式与单胃动物有很大差别。饲料到达瘤胃以后，部分含氮化合物被瘤胃微生物降解，产生肽类、氨基酸和氨。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "这些降解产物可以被瘤胃微生物利用，合成微生物蛋白。饲料的非降解蛋白质和微生物蛋白一起流入反刍动物后部消化道被消化利用。到达反刍动物十二指肠的氨基酸主要包括饲料的非降解氨基酸和微生物氨基酸，即可利用氨基酸（utilizable amino acid,uAA)。uAA主要来源于3个部分[1l：微生物合成氨基酸、过瘤胃氨基酸和内源氨基酸。测定饲料的uAA 方法复杂、成本高、时间长。因此，应用简单易测的指标来预测uAA含量是反刍动物营养研究领域的重要目标。康奈尔净碳水化合物-蛋白质体系（Cornell net carbohydrate and proteinsystem,CNCPS）是评价饲料中的碳水化合物和含氮化合物在反刍动物瘤胃中代谢的方法。尽管CNCPS 的有关指标仅根据化学分析就能测定出来，但是这一体系比较准确地反映了饲料中的碳水化合物和含氮化合物在反刍动物瘤胃中代谢特点。赵广永等[2分析了反刍动物 32种常用饲料的CNCPS 组分,认为CNCPS对饲料营养价值的评定比Wende 体系的分析方法和尼龙袋技术更为精确，同时更好地反映了饲料的特性。曲永利等]应用CNCPS 评定了东北农区奶牛饲料的营养价值，结果表明由CNCPS 体系分析方法测定的指标较多，能够全面反映饲料的营养成分及其在奶牛体内的消化吸收，并建议作为东北农区评定奶牛饲料营养价值的方法。O'Connor 等[4]提出了利用CNCPS 预测小肠氨基酸的方法。虽然利用CNCPS 的饲料碳水化合物和含氮化合物组分预测氨基酸的准确性高于其他方法，但是在估测各部分氨基酸流量以及确定氨基酸组成时会存在一定误差，而且计算过程十分繁琐，需要很多参数以及营养指标，往往需要专业软件辅助才能加以预测[5]。Zhao 等[研究表明，饲料中的总氨基酸、蛋氨酸、赖氨酸、亮氨酸与利用体外培养技术测定的uAA之间存在显著的相关关系。这一结果说明，可以根据饲料中的氨基酸含量预测uAA含量。但是由于测定氨基酸含量的成本很高，这一方法并不能很好地推广应用。本试验通过研究奶牛饲料uAA含量与CNCPS含氮化合物组分含量之间的关系，探讨应用奶牛饲料CNCPS 含氮化合物组分预测uAA 含量的可行性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1村料亡注 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1样品采集和制备本试验分别从北京市郊区王庄、富民、双寿、三石等地奶牛场采集了10种（共21个样品）常用饲料样品，包括羊草、苜蓿、豆皮、青贮、棉籽粕、酒糟、玉米、豆粕、菜籽粕、花生粕，样品经过风干粉碎后过40目网筛，储存于自封袋中用于分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2CNCPS含氮化合物组分及常规营养成分的测定方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据 CNCPS 对含氮化合物组分的划分，CNCPS 含氮化合物需测定中性洗涤不溶粗蛋白质(neutral detergent non-soluble crude protein,NDIP)、酸性洗涤不溶粗蛋白质(acid detergentnon-soluble crude protein,ADIP)、可溶性粗蛋白质(soluble crude protein,SCP)、非蛋白氮(non-protein nitrogen,NPN)和粗蛋白质(crude protein,CP)含量。SCP、NPN、NDIP、ADIP 含量的测定参照 Licitra 等[7]的方法。干物质、CP、粗脂肪(ether extract,EE)、粗灰分(ash)含量的测定参考 AOAC（1995）[8]的方法。中性洗涤纤维(neutral detergent fibre,NDF)、酸性洗涤纤维(acid detergent fibre,ADF)含量的测定参照Van Soest等[]的方法。每个样品重复测定2次，取平均值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3饲料氨基酸含量的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本试验应用GB/T18246-2000[10]中的方法，使用氨基酸自动分析仪（L-8900，日本 Hitachi)分别测定了饲料样品中的甘氨酸（Gly）、丙氨酸（Ala）、缬氨酸（Val）、亮氨酸(Leu)、异亮氨酸(Ile)、脯氨酸(Pro)、苯丙氨酸(Phe)、酪氨酸(Tyr)、色氨酸(Trp)、丝氨酸(Ser)、苏氨酸(Thr)、半胱氨酸(Cys)、蛋氨酸(Met)、天冬氨酸(Asp)、谷氨酸(Glu)、赖氨酸(Lys)、精氨酸(Arg)和组氨酸(His)共18 种氨基酸含量。每个样品重复测定2次，取平均值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4计算方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.1CNCPS含氮化合物组分计算方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CNCPS 将含氮化合物组分划分为非蛋白氮（PA，快速降解）、快速降解真蛋白质（ $\\mathrm { P B } _ { 1 }$   \n可溶）、中速降解真蛋白质 $( \\mathrm { P B } _ { 2 }$ 中性洗涤可溶)、慢速降解真蛋白质（ $\\mathrm { P B } _ { 3 }$ ：酸性洗涤可溶）  \n和不可利用蛋白质（PC，酸性洗涤不溶)，其含量按照 Sniffen 等[的方法进行计算，所有  \n物质均以占干物质百分比表示，公式如下：$\\mathrm { P A } ~ ( \\% \\mathrm { D M } ) ~ = \\mathrm { N P N } ~ ( \\% \\mathrm { D M } ) ;$ ${ \\bf P B } _ { 1 } ~ ( \\% { \\bf D M } ) = { \\bf S C P } ~ ( \\% { \\bf D M } ) ~ - { \\bf N P N } ~ ( \\% { \\bf D M } ) ;$ $\\mathrm { P B } _ { 2 } ~ ( \\% ~ \\mathrm { D M } ) ~ = \\mathrm { C P } ~ ( \\% ~ \\mathrm { D M } ) ~ - \\mathrm { S C P } ~ ( \\% ~ \\mathrm { D M } ) ~ - \\mathrm { N D I P } ~ ( \\% ~ \\mathrm { D M } ) ,$ $\\mathbf { P B } _ { 3 } ~ ( \\% \\mathbf { D M } ) ~ = \\mathbf { N D I P } ~ ( \\% ~ \\mathbf { D M } ) ~ \\mathbf { - A D I P } ~ ( \\% ~ \\mathbf { D M } ) ,$ （20$\\mathrm { P C } ~ ( \\% \\mathrm { D M } ) ~ = \\mathrm { A D I P } ~ ( \\% \\mathrm { D M } ) \\circ$ （20",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 饲料uAA的计算",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Zhao 等的研究结果表明，饲料内氨基酸和到达十二指肠的氨基酸，也就是uAA之间存在显著的相关关系（表1)。将已经测得的饲料中的氨基酸带入回归方程中即得到预测的uAA含量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1饲料内氨基酸(x， $\\%$ DM)和uAA含量( $\\%$ DM)之间的相关关系",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/47fccb066f99b6620e977da1dc1e9c044c3b9a34cf92840f8096244df46394a6.jpg",
+        "table_caption": [
+            "Table 1 Correlations between the contents of amino acids (x， $\\%$ DM) and uAA ( $\\%$ DM)of feeds "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>n</td><td>回归方程 Regression equations</td><td>R²</td><td>P值P-value</td></tr><tr><td>可利用氨基酸 uAA</td><td>33</td><td>uAA=0.38x+8.15</td><td>0.73</td><td><0.01</td></tr><tr><td>可利用蛋氨酸 uMet</td><td>33</td><td>uMet=1.67x-0.01</td><td>0.83</td><td><0.01</td></tr><tr><td>可利用赖氨酸 uLys</td><td>33</td><td>uLys=1.20x+0.60</td><td>0.67</td><td><0.01</td></tr><tr><td>可利用亮氨酸 uLeu</td><td>33</td><td>uLeu=1.44x+0.06</td><td>0.70</td><td><0.01</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5数据统计与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本试验使用MicrosoftExcel2010对所有数据进行计算和处理，使用SPSS20.0线性回归模块对数据进行回归分析，多元线性回归方程为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny { = } { \\mathrm { a } x _ { 1 } + } { \\bf b } x _ { 2 } { + } \\mathrm { c } x _ { 3 } { + } \\mathrm { d } x _ { 4 } { + } \\mathrm { e } x _ { 5 } { + } \\mathrm { f } { _ { \\circ } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $y$ 为方程的因变量，在本试验中为预测的uAA含量（ $\\%$ DM); $x _ { 1 }$ 、 $x _ { 2 }$ 、x3、x4、$x _ { 5 }$ 为方程的自变量，在本试验中为CNCPS含氮化合物组分的含量（ $\\%$ DM)，分别为PA、$\\mathrm { P B } _ { 1 }$ 、 $\\mathrm { P B } _ { 2 }$ 、 $\\mathrm { P B } _ { 3 }$ 、PC。回归方程的拟合优度用 $R ^ { 2 }$ 表示， $R ^ { 2 } { = } 0$ 时，表示自变量与因变量无线性关系， $R ^ { 2 } { = } 1$ 时，表示因变量与自变量完全符合线性关系。当 $P { < } 0 . 0 1$ 时，表明存在极显著的相关关系，当 $P { < } 0 . 0 5$ 时，表明存在显著的相关关系，当 $P { > } 0 . 0 5$ 时，表明相关关系不显著。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本试验对选取的10种北京市奶牛场典型饲料(21个样品)营养成分、氨基酸组成、CNCPS含氮化合物组分的测定结果分别见表2、表3、表4。根据CNCPS含氮化合物组分估测的uAA含量见表5。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/2a7d56941da5e9da9a0e1ca12e4b9d46e389b5b1cb5b3988da4fc34242f6b281.jpg",
+        "table_caption": [
+            "表2北京市奶牛场典型饲料的营养成分",
+            "Table 2Nutrient contents of major feeds on Beijing dairy farms "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td></td><td>中性洗涤</td><td>酸性洗涤</td><td>粗灰分</td><td>粗脂</td><td>粗蛋白</td><td>可溶性粗蛋</td><td>非蛋白氮</td><td>中性洗涤不溶</td><td>酸性洗涤不溶粗蛋</td></tr><tr><td></td><td></td><td>纤维NDF</td><td>纤维ADF</td><td>Ash</td><td>肪EE</td><td>质CP</td><td>白质 SCP</td><td>NPN</td><td>粗蛋白质 NDIP</td><td>白质ADIP</td></tr><tr><td>羊草 Chinese wildrye</td><td>王庄-1307</td><td>78.56</td><td>39.13</td><td>5.43</td><td>0.85</td><td>9.05</td><td>2.87</td><td>1.96</td><td>2.45</td><td>0.41</td></tr><tr><td></td><td>富民</td><td>72.13</td><td>35.03</td><td>5.40</td><td>2.15</td><td>11.95</td><td>3.18</td><td>2.26</td><td>3.27</td><td>0.56</td></tr><tr><td></td><td>王庄-1310</td><td>71.15</td><td>34.68</td><td>5.21</td><td>2.49</td><td>9.09</td><td>2.32</td><td>1.62</td><td>2.58</td><td>0.34</td></tr><tr><td>苜蓿Alfalfa</td><td>王庄-1307</td><td>38.66</td><td>24.92</td><td>7.99</td><td>2.58</td><td>20.74</td><td>5.30</td><td>2.68</td><td>4.05</td><td>0.92</td></tr><tr><td></td><td>王庄-1310</td><td>58.66</td><td>44.00</td><td>7.73</td><td>1.05</td><td>-13068</td><td>3.84</td><td>2.30</td><td>2.69</td><td>1.05</td></tr><tr><td></td><td>富民</td><td>56.31</td><td>42.20</td><td>7.62</td><td>2.38</td><td>12.50</td><td>4.18</td><td>2.85</td><td>2.06</td><td>1.01</td></tr><tr><td>豆皮 Bean hull</td><td>王庄-1307</td><td>57.25</td><td>39.84</td><td>5.49</td><td>2.43</td><td>8.66</td><td>2.13</td><td>0.60</td><td>3.04</td><td>0.81</td></tr><tr><td></td><td>王庄</td><td>54.76</td><td>41.38</td><td>6.15</td><td>2.74</td><td>10.25</td><td>2.58</td><td>0.90</td><td>1.20</td><td>0.68</td></tr><tr><td>青贮 Silage</td><td>王庄-1310</td><td>46.03</td><td>28.11</td><td>4.79</td><td>3.37</td><td>8.01</td><td>4.12</td><td>3.82</td><td>0.62</td><td>0.28</td></tr><tr><td></td><td>兴寿</td><td>63.45</td><td>36.45</td><td>5.03</td><td>2.22</td><td>9.27</td><td>4.06</td><td>3.59</td><td>1.15</td><td>0.37</td></tr><tr><td></td><td>王庄-1306</td><td>52.51</td><td>28.61</td><td>5.52</td><td>2.86</td><td>9.28</td><td>6.26</td><td>5.40</td><td>0.50</td><td>0.41</td></tr><tr><td>棉籽粕 Cottonseed</td><td>富民</td><td>66.30</td><td>37.87</td><td>11.42</td><td>3.43</td><td>7.26</td><td>2.70</td><td>1.90</td><td>1.18</td><td>0.48</td></tr><tr><td>meal</td><td>王庄-1310</td><td>53.88</td><td>38.31</td><td>4.26</td><td>15.22</td><td>23.94</td><td>6.06</td><td>1.32</td><td>2.30</td><td>1.68</td></tr><tr><td></td><td>富民</td><td>49.32</td><td>39.89</td><td>4.35</td><td>11.38</td><td>19.58</td><td>2.98</td><td>2.52</td><td>1.34</td><td>1.39</td></tr><tr><td></td><td>王庄-1307</td><td>54.55</td><td>45.46</td><td>4.25</td><td>12.24</td><td>19.64</td><td>2.88</td><td>2.40</td><td>1.51</td><td>1.53</td></tr><tr><td></td><td>阔达</td><td>55.38</td><td>48.57</td><td>3.46</td><td>11.04</td><td>20.31</td><td>3.00</td><td>2.41</td><td>1.38</td><td>1.43</td></tr><tr><td>酒糟 Distillers' grains</td><td>佳奥</td><td>51.12</td><td>37.11</td><td>13.25</td><td>1.57</td><td>16.36</td><td>9.19</td><td>8.04</td><td>2.03</td><td>1.33</td></tr><tr><td>豆粕 Soybean meal</td><td>三石</td><td>23.67</td><td>11.01</td><td>6.57</td><td>0.98</td><td>46.43</td><td>7.95</td><td>0.82</td><td>2.77</td><td>0.69</td></tr><tr><td>玉米Corm</td><td>三石</td><td>17.45</td><td>5.22</td><td>1.41</td><td>4.39</td><td>8.63</td><td>2.26</td><td>1.66</td><td>2.06</td><td>0.53</td></tr><tr><td>菜籽粕 Rapeseed meal</td><td>三石</td><td>51.36</td><td>35.19</td><td>8.56</td><td>1.03</td><td>42.41</td><td>3.78</td><td>3.68</td><td>23.78</td><td>12.91</td></tr><tr><td>花生粕 Peanut meal</td><td>三石</td><td>27.83</td><td>17.87</td><td>8.14</td><td>0.98</td><td>49.88</td><td>14.80</td><td>5.48</td><td>5.25</td><td>0.96</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/5fb02e9a7e143164b2828e4aab718560aac462a336aaa58d6ad1af8fc02d172f.jpg",
+        "table_caption": [
+            "表3北京市奶牛场典型饲料的氨基酸组成",
+            "Table 3Amino acid composition of major feeds on Beijing dairy farms "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td></td><td>D</td><td>T</td><td>S</td><td>E</td><td>P</td><td>G</td><td>A</td><td>C V</td><td>M</td><td>1</td><td>L</td><td>Y</td><td>F</td><td>H</td><td>K</td><td>R</td><td>W</td><td>总氨 基酸</td></tr><tr><td>羊草 Chinese wildrye</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>TAA</td></tr><tr><td></td><td>王庄-1307</td><td>0.50</td><td>0.24</td><td>0.24</td><td>0.61</td><td>0.32</td><td>0.28</td><td>0.34</td><td>0.10</td><td>0.29 0.10</td><td>0.21</td><td>0.43</td><td>0.13</td><td>0.25</td><td>0.09</td><td>0.30</td><td>0.25</td><td>0.09</td><td>4.77</td></tr><tr><td></td><td>富民 王庄-1310</td><td>0.80</td><td>0.39</td><td>0.38</td><td>0.92</td><td>0.37</td><td>0.43</td><td>0.54</td><td>0.13</td><td>0.47 0.16</td><td>0.33</td><td>0.61</td><td>0.29</td><td>0.43</td><td>0.13</td><td>0.44</td><td>0.36</td><td>0.14</td><td>7.32</td></tr><tr><td>苜蓿Alfalfa</td><td>王庄-1307</td><td>0.56</td><td>0.28</td><td>0.26</td><td>0.64</td><td>0.29</td><td>0.33</td><td>0.38</td><td>0.11</td><td>0.35 0.11</td><td>0.23</td><td>0.56</td><td>0.10</td><td>0.56</td><td>0.12</td><td>0.32</td><td>0.31</td><td>0.10</td><td>5.61</td></tr><tr><td></td><td>王庄-1310</td><td>2.11 1.65</td><td>0.76 0.44</td><td>0.78</td><td>1.57</td><td>1.20</td><td>0.80</td><td>0.91</td><td>0.21</td><td>0.90 0.23</td><td>0.68</td><td>1.37</td><td>0.37</td><td>1.10</td><td>0.34</td><td>0.95</td><td>0.77</td><td>0.25</td><td>15.30</td></tr><tr><td></td><td>富民</td><td></td><td>0.53</td><td>0.49</td><td>0.94</td><td>0.52</td><td>0.45</td><td>0.57</td><td>0.14 0.53</td><td>0.13</td><td>0.41</td><td>0.72</td><td>0.24</td><td>0.47</td><td>0.21</td><td>0.61</td><td>0.40</td><td>0.65</td><td>9.57</td></tr><tr><td>豆皮 Bean hull</td><td>王庄-1307</td><td>1.52</td><td>0.29</td><td>0.58</td><td>1.14</td><td>0.73</td><td>0.56</td><td>0.66</td><td>0.15 0.63</td><td>0.16</td><td>0.49</td><td>0.88</td><td>0.31</td><td>0.56</td><td>0.23</td><td>0.70</td><td>0.50</td><td>0.15</td><td>10.48</td></tr><tr><td></td><td>王庄</td><td>0.78 0.68</td><td>0.25</td><td>0.46</td><td>0.93</td><td>0.38</td><td>0.63</td><td>0.36</td><td>0.16 0.36</td><td>0.08</td><td>0.27</td><td>0.52</td><td>0.21</td><td>0.49</td><td>0.26</td><td>0.46</td><td>0.39</td><td>0.11</td><td>7.14</td></tr><tr><td>青贮 Silage</td><td>王庄-1310</td><td>0.29</td><td>0.15</td><td>0.41</td><td>0.74</td><td>0.35</td><td>0.64</td><td>0.31</td><td>0.14</td><td>0.32 0.05</td><td>0.23</td><td>0.47</td><td>0.20</td><td>0.52</td><td>0.21</td><td>0.44</td><td>0.31</td><td>0.10</td><td>6.37 4.83</td></tr><tr><td></td><td>兴寿</td><td>0.38</td><td>0.18</td><td>0.13</td><td>0.56</td><td>0.42</td><td>0.32</td><td>0.87</td><td>0.10 0.34</td><td>0.12</td><td>0.26</td><td>0.63</td><td>0.06</td><td>0.27</td><td>0.05</td><td>0.14</td><td>0.07</td><td>0.05</td><td>4.00</td></tr><tr><td></td><td>王庄-1306</td><td>0.28</td><td>0.22</td><td>0.17</td><td>0.40</td><td>0.16</td><td>0.28</td><td>0.62</td><td>0.09 0.26</td><td>0.07</td><td>0.18</td><td>0.38</td><td>0.10</td><td>0.21</td><td>0.06</td><td>0.23</td><td>0.16</td><td>0.07</td><td></td></tr><tr><td></td><td>富民</td><td>0.44</td><td>0.27</td><td>0.17</td><td>0.56</td><td>0.35</td><td>0.27</td><td>0.67</td><td>0.10 0.32</td><td>0.10</td><td>0.21</td><td>0.62</td><td>0.03</td><td>0.63</td><td>0.09</td><td>0.17</td><td>0.11</td><td>0.06</td><td>4.96</td></tr><tr><td>棉籽粕 Cottonseed meal</td><td>王庄-1310</td><td>1.63</td><td>0.54</td><td>0.20</td><td>0.57</td><td>0.24</td><td>0.32</td><td>0.68</td><td>0.10 0.38</td><td>0.10 0.07</td><td>0.25 0.53</td><td>0.49</td><td>0.13</td><td>0.32</td><td>0.10</td><td>0.27</td><td>0.17</td><td>0.07</td><td>5.10</td></tr><tr><td></td><td>富民</td><td>1.60</td><td>0.54</td><td>0.74 0.72</td><td>3.48 3.25</td><td>0.63 0.60</td><td>0.71 0.67</td><td>0.74 0.67</td><td>0.12 0.18</td><td>0.76 0.74</td><td></td><td>1.00</td><td>0.43</td><td>0.92</td><td>0.50</td><td>0.81</td><td>2.01</td><td>0.08</td><td>15.70 15.25</td></tr><tr><td></td><td>王庄-1307</td><td>1.57</td><td>0.57</td><td>0.74</td><td>3.29</td><td>0.65</td><td>0.69</td><td>0.73</td><td>0.18</td><td>0.14 0.17</td><td>0.52</td><td>0.96</td><td>0.44</td><td>0.89</td><td>0.47</td><td>0.81</td><td>1.94</td><td>0.11</td><td>15.67</td></tr><tr><td></td><td>阔达</td><td>1.64</td><td>0.52</td><td>0.72</td><td>3.44</td><td>0.61</td><td>0.67</td><td>0.66</td><td>0.78 0.28 0.73</td><td>0.23</td><td>0.54 0.51</td><td>1.03 0.97</td><td>0.48 0.40</td><td>0.91 0.89</td><td>0.49 0.47</td><td>0.81 0.8</td><td>1.88</td><td>0.16 0.22</td><td>15.71</td></tr><tr><td>酒糟 Distillers' grains</td><td>佳奥</td><td>0.86</td><td>0.39</td><td>0.42</td><td>1.45</td><td>0.61</td><td>0.53</td><td>0.73</td><td>0.20 0.56</td><td>0.13</td><td>0.35</td><td>0.82</td><td>0.05</td><td>0.94</td><td>0.28</td><td>0.29</td><td>1.95 0.23</td><td>0.04</td><td>8.88</td></tr><tr><td>豆粕 Soybean meal</td><td>三石</td><td>4.55</td><td>1.58</td><td>2.07</td><td>6.79</td><td>2.05</td><td>1.73</td><td>1.79</td><td>0.56</td><td>1.80 0.55</td><td>1.78</td><td>3.11</td><td>1.31</td><td>2.22</td><td>0.96</td><td>2.53</td><td>2.77</td><td>0.53</td><td>38.68</td></tr><tr><td>玉米Corm</td><td>三石</td><td>0.45</td><td>0.23</td><td>0.30</td><td>1.13</td><td>0.52</td><td>0.26</td><td>0.57</td><td>0.14 0.33</td><td>0.14</td><td>0.23</td><td>0.95</td><td>0.21</td><td>0.35</td><td>0.22</td><td>0.21</td><td>0.29</td><td>0.05</td><td>6.58</td></tr><tr><td>菜籽粕 Rapeseed meal</td><td>三石</td><td>2.21</td><td>1.52</td><td>1.48</td><td>5.93</td><td>2.29</td><td>1.77</td><td>1.60</td><td>0.75 1.75</td><td>0.71</td><td>1.36</td><td>2.61</td><td>0.85</td><td>1.33</td><td>0.92</td><td>1.13</td><td>1.77</td><td>0.43</td><td>30.41</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/98d56922e05b7aa771044f492e7f82043b4c73b05e94bef7f6919f54b0bc55ac.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>生粕Peanutmeal</td><td>三石</td><td></td><td>4.521.111.957.211.862.311.710.521.650.441.312.771.231.94</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.91</td><td>1.414.68</td><td></td><td></td><td></td><td>0.3737.90</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "D:天冬氨酸Asp;T：苏氨酸Thr；S：丝氨酸Ser;E：谷氨酸Glu;P：脯氨酸Pro;G：甘氨酸Gly；A：丙氨酸Ala；C：半胱氨酸Cys；V：氨酸Val;M：蛋氨酸Me；L03I：异亮氨酸Ie；L：亮氨酸 Leu；Y：酪氨酸 Tyr；F：苯丙氨酸 Phe；H：组氨酸 His；K：赖氨酸 Lys；R：精氨酸 Arg；W：色氨酸 Trp。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/4fb0d7aa0a569f17814da47a77dac606765a6f5e000e9a4fa86ec5a07af43cce.jpg",
+        "table_caption": [
+            "Table 4CNCPS nitrogenous fractions of major feeds on Beijing dairy farms ",
+            "表5根据CNCPS估测的北京市奶牛场典型饲料uAA含量"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">项目Items</td><td>非蛋白氮 PA</td><td>快速降解真 蛋白质PBi</td><td>中速降解真蛋白 质PB2</td><td>慢速降解真蛋 白质PB3</td><td>不可利用蛋白质 PC</td></tr><tr><td colspan=\"2\">羊草 Chinese wildrye</td><td>1.96</td><td>0.91</td><td>3.73</td><td>2.04</td><td>0.41</td></tr><tr><td rowspan=\"4\"></td><td>王庄-1307 富民</td><td>2.26</td><td>0.92</td><td>5.51</td><td>2.71</td><td>0.56</td></tr><tr><td>王庄-1310</td><td>1.62</td><td>0.70</td><td>4.20</td><td>2.24</td><td>0.34</td></tr><tr><td>王庄-1307</td><td>2.68</td><td>2.62</td><td>11.38</td><td>3.14</td><td>0.92</td></tr><tr><td>王庄-1310</td><td>2.30</td><td>1.54</td><td>7.15</td><td>1.64</td><td>1.05</td></tr><tr><td rowspan=\"3\">豆皮 Bean hull</td><td>富民</td><td>2.85</td><td>1.33</td><td>6.26</td><td>1.05</td><td>1.01</td></tr><tr><td>王庄-1307</td><td>0.60</td><td>1.54</td><td>3.49</td><td>2.23</td><td>0.81</td></tr><tr><td>王庄</td><td>0.90</td><td>1.68</td><td>6.46</td><td>0.52</td><td>0.68</td></tr><tr><td rowspan=\"4\">青贮 Silage</td><td>王庄-1310</td><td>3.82</td><td>0.30</td><td>3.27</td><td>0.34</td><td>0.28</td></tr><tr><td>兴寿</td><td>3.59</td><td>0.47</td><td>4.06</td><td>0.78</td><td>0.37</td></tr><tr><td>王庄-1306</td><td>5.40</td><td>0.86</td><td>2.53</td><td>0.09</td><td>0.41</td></tr><tr><td>富民</td><td>1.90</td><td>0.80</td><td>3.38</td><td>0.70</td><td>0.48</td></tr><tr><td rowspan=\"4\">棉籽粕 Cottonseed meal</td><td>王庄-1310</td><td>1.32</td><td>4.74</td><td>15.57</td><td>0.62</td><td>1.68</td></tr><tr><td>富民</td><td>2.52</td><td>0.45</td><td>14.49</td><td>0.72</td><td>1.39</td></tr><tr><td>王庄-1307</td><td>2.40</td><td>0.48</td><td>14.62</td><td>0.60</td><td>1.53</td></tr><tr><td>阔达</td><td>2.41</td><td>0.58</td><td>15.16</td><td>0.72</td><td>1.43</td></tr><tr><td>酒糟Distillers’grains</td><td>佳奥</td><td>8.04</td><td>1.14</td><td>5.15</td><td>0.70</td><td>1.33</td></tr><tr><td>豆粕 Soybean meal</td><td>三石</td><td>0.82</td><td>7.13</td><td>35.71</td><td>2.08</td><td>0.69</td></tr><tr><td>玉米 Corm</td><td>三石</td><td>1.66</td><td>0.61</td><td>4.30</td><td>1.53</td><td>0.53</td></tr><tr><td>菜籽粕 Rapeseed meal</td><td>三石</td><td>3.68</td><td>0.11</td><td>14.85</td><td>10.87</td><td>12.91</td></tr><tr><td>花生粕 Peanut meal</td><td>三石</td><td>5.48</td><td>9.31</td><td>29.83</td><td>4.29</td><td>0.96</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/91d17279c901e6cf18e728cb40f703273a3fbff7aca3d6dc27ec202bd828c112.jpg",
+        "table_caption": [
+            "Table 5uAA contents of major feeds on Beijing dairy farms calculated according to CNCPS % DM "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td></td><td>可利用氨基酸 uAA</td><td>可利用蛋氨酸 uMet</td><td>可利用赖 氨酸uLys</td><td>可利用亮 氨酸uLeu</td></tr><tr><td rowspan=\"4\">羊草 Chinese wildrye</td><td>王庄-1307</td><td>9.97</td><td>0.16</td><td>0.96</td><td>0.68</td></tr><tr><td>富民</td><td>10.95</td><td>0.26</td><td>1.13</td><td>0.94</td></tr><tr><td>王庄-1310</td><td>10.29</td><td>0.17</td><td>0.99</td><td>0.86</td></tr><tr><td>王庄-1307</td><td>13.99</td><td>0.37</td><td>1.74</td><td>2.03</td></tr><tr><td rowspan=\"3\">豆皮 Bean hull</td><td>王庄-1310</td><td>11.81</td><td>0.21</td><td>1.34</td><td>1.09</td></tr><tr><td>富民</td><td>12.15</td><td>0.26</td><td>1.44</td><td>1.32</td></tr><tr><td>王庄-1307</td><td>10.88</td><td>0.12</td><td>1.16</td><td>0.81</td></tr><tr><td rowspan=\"4\">青贮Silage</td><td>王庄</td><td>10.58</td><td>0.07</td><td>1.13</td><td>0.73</td></tr><tr><td>王庄-1310</td><td>10.00</td><td>0.19</td><td>0.77</td><td>0.96</td></tr><tr><td>兴寿</td><td>9.68</td><td>0.11</td><td>0.88</td><td>0.60</td></tr><tr><td>王庄-1306</td><td>10.04</td><td>0.16</td><td>0.81</td><td>0.95</td></tr><tr><td></td><td>富民</td><td>10.10</td><td>0.16</td><td>0.93</td><td>0.76</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/14845f814b6c997a20a0a8179b014871105f204c702b0ba867bf8fa91f16a31c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">棉籽粕 Cottonseed meal</td><td>王庄-1310</td><td>14.15</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>0.11</td><td>1.58</td><td>1.50</td></tr><tr><td>富民</td><td>13.98</td><td>0.22</td><td>1.58</td><td>1.44</td></tr><tr><td></td><td>王庄-1307 阔达</td><td>14.14</td><td>0.27</td><td>1.58</td><td>1.54</td></tr><tr><td>酒糟Distillers’ grains</td><td></td><td>14.15</td><td>0.37</td><td>1.56</td><td>1.45</td></tr><tr><td>豆粕 Soybean meal</td><td>佳奥</td><td>11.54</td><td>0.21</td><td>0.95</td><td>1.24</td></tr><tr><td>玉米 Corn</td><td>三石</td><td>22.93</td><td>0.91</td><td>3.64</td><td>4.54</td></tr><tr><td></td><td>三石</td><td>10.66</td><td>0.22</td><td>0.86</td><td>1.43</td></tr><tr><td>菜籽粕 Rapeseed meal</td><td>三石</td><td>19.77</td><td>1.17</td><td>1.96</td><td>3.82</td></tr><tr><td>花生粕 Peanut meal</td><td>三石</td><td>22.63</td><td>0.72</td><td>2.30</td><td>4.05</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "将所有21个饲料样品的CNCPS 含氮化合物的5种组分含量作为自变量，uAA含量作为因变量，进行多元线性回归分析，分析结果见表6。可见奶牛常用饲料的CNCPS含氮化合物组分（PA、 $\\mathrm { P B } _ { 1 }$ 、 $\\mathrm { P B } _ { 2 }$ 、 $\\mathrm { P B } _ { 3 }$ 、PC）含量（ $\\%$ DM）与uAA、可利用蛋氨酸（utilizablemethionin,uMet）、可利用赖氨酸（utilizable lysine,uLys）、可利用亮氨酸（utilizable leucine,uLeu）含量（ $\\%$ DM）存在显著的相关关系（ $R ^ { 2 }$ 为 $0 . 9 2 \\mathrm { \\sim } 0 . 9 9$ ， $P { < } 0 . 0 1$ ）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表6北京市奶牛场典型饲料CNCPS含氮化合物组分含量（ $\\%$ DM）与uAA含量( $\\%$ DM)的回归关系",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/24b0efcbbef5e443a3f9de12d74ab4947b97ad9f42c70e65decbad08181bccd1.jpg",
+        "table_caption": [
+            "Table 6Correlations between the CNCPS nitrogenous fractions and the utilizable amino acids of major feeds on Beijing dairy farms "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>回归方程Regresson equation</td><td>R²</td><td>P值P-value</td></tr><tr><td>可利用氨基酸uAA</td><td>uAA=0.171PA+0.134PB1+0.364PB2+0.370PB3+0.148PC+7.785</td><td>0.99</td><td><0.01</td></tr><tr><td>可利用蛋氨酸uMet</td><td>uMet=0.019PA-0.031PB1+0.024PB2+0.078PB3-0.004PC-0.071</td><td>0.93</td><td><0.01</td></tr><tr><td>可利用赖氨酸uLys</td><td>uLys=-0.045PA-0.020PB1+0.072PB2+0.038PB3-0.011PC+0.780</td><td>0.92</td><td><0.01</td></tr><tr><td>可利用亮氨酸 uLeu</td><td>uLeu=0.071PA+0.033PB1+0.093PB2+0.189PB3+0.003PC+0.006</td><td>0.94</td><td><0.01</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CNCPS 提出了预测到达反刍动物小肠氨基酸的方法。该方法的优点是考虑了蛋白质组分和碳水化合物组分的降解速度、能氮平衡、有效ADF等因素，系统性较强，预测结果比较准确，其缺点是计算过程十分复杂，应用性较差。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Lebzien 等[12]总结了532个测定到达奶牛十二指肠粗蛋白质流量的试验，发现直接测定到达十二指肠的CP含量比分别测定瘤胃微生物蛋白质和瘤胄非降解蛋白质再将两者相加更为准确和简单。同样地，直接测定到达奶牛十二指肠的氨基酸含量比分别测定瘤胃微生物氨基酸和饲料非降解氨基酸含量再将两者相加更为准确和简单。本试验建立的预测方程自变量分别为CNCPS含氮化合物的5种组分，因变量是uAA,这样既可以保证预测结果的准确性，也能避免分别预测可能造成的误差，而且CNCPS 含氮化合物组分含量与饲料的uAA、uMet、uLys 和uLeu含量之间的 $R ^ { 2 }$ 分别为0.99、0.93、0.92和0.94，相关程度极高，表明可以直接利用饲料CNCPS含氮化合物组分预测饲料的uAA含量。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论   \n饲料的CNCPS 含氮化合物组分含量与uAA、uMet、uLys 和uLeu 含量相关关系显著。 可以根据饲料的CNCPS 含氮化合物组分及本试验所建立的相关方程估测饲料uAA含量。 参考文献：   \n[1]LAPIERRE H,PACHECO D,BERTHIAUME R,et al.What is the true supply of amino acids for a dairy cow?[J].Journal of Dairy Science,2006,89(S1):E1-E14.   \n[2]赵广永,CHRISTENSEND A,MCKINNONJJ.用净碳水化合物——蛋白质体系评定反刍 动物饲料营养价值[J].中国农业大学学报,1999,4(Z1):71-76.   \n[3]曲永利,吴健豪,李铁.应用康奈尔净碳水化合物——蛋白质体系评定东北农区奶牛饲料 营养价值[J].动物营养学报,2010,22(1):201-206.   \n[4]O'CONNOR J D,SNIFFEN C J,FOX D G,et al.A net carbohydrate and protein system for evaluatingcatlediets: IV .Predictingaminoacidadequacy[J].JournalofAnimal Science,1993,71(5):1298-1311.   \n[5]PACHECO D,PATTON R A,PARYS C,et al.Ability of commercially available dairy ration programs to predict duodenal flows of protein and essential amino acids in dairy cows[J].Journal of Dairy Science,2012,95(2):937-963.   \n[6]ZHAO G Y,LEBZIEN P.The estimation of utilizable amino acids(uAA)of feeds for ruminants using an in vitro incubation technique[J].Journal of Animal Physiology and Animal Nutrition,2002,86(7/8):246-256.   \n[7]LICITRA G,HERNANDEZ T M,VAN SOEST P J.Standardization of procedures for nitrogen fractionation of ruminant feeds[J].Animal Feed Science and Technology,1996,57(4):347- 358.   \n[8]AOAC.Official methods of analysis of AOCO international[M].16th ed.Arlington:AOCO International,1995.   \n[9]VAN SOEST P J,ROBERTSON J B,LEWIS B A.Methods for dietary fiber,neutral detergent   \nfiber,and nonstarch polysaccharidesin relation to animal nutrition[J].Journal ofDairy   \nScience,1991,74(10):3583-3597.   \n[10]中华人民共和国国家质量监督检验检疫总局.GB/T 18246-2000 饲料中氨基酸的测定   \n[S].北京:中国标准出版社,2001.   \n[11]SNIFFEN C J,O'CONNOR J D,VAN SOEST P J,et al.A net carbohydrate and protein system   \nforevaluating catle diets: II .Carbohydrate and protein availability[J].Journal of Animal   \nScience,1992,70(11):3562-3577.   \n[12]LEBZIEN P,VOIGT J,GABEL M,et al.Zur schatzung der menge an nutzbarem rohprotein   \namduodenumvonmilchkühen[J].JournalofAnimalPhysiologyandAnimal   \nNutrition,1996,76(1/2/3/4/5):218-223. Relationships between Contents of Nitrogenous Fractions of Cornell Net Carbohydrate and Protein System and Utilizable Amino Acids of Major Feeds for Dairy Cows BAO Yu HU Cong ZHAO Guangyong\\* (College of Animal Science and Technology, China Agricultural University, Beijing 100193, China) Abstract: To predict the utilizable amino acid (uAA) contents of major feeds for dairy cows,   \ntwenty-one different feed samples were collected and analyzed for the contents of crude protein   \n(CP）,ether extract (EE), neutral detergent fibre (NDF),acid detergent fibre (ADF),soluble   \ncrude protein (SCP), non-protein nitrogen (NPN), neutral detergent unsoluble crude protein (NDIP)   \nand acid detergent unsoluble crude protein (ADIP). The contents of nitrogenous fractions   \nincluding non-protein nitrogen（PA）,rapidly degraded true protein $\\left( \\mathrm { P B } _ { 1 } \\right)$ , intermediately   \ndegraded true protein (PB2), slowly degraded true protein $\\left( \\mathrm { P B } _ { 3 } \\right)$ and unutilizable protein (PC) were   \ncalculated according to CNCPS. The contents of amino acids of feed samples were also analyzed.   \nThe contents of uAAs of feeds were calculated. The results showed that the CNCPS nitrogenous   \nfraction (PA,PB1,PB2,PB3 and PC) contents( $\\%$ DM) were highly correlated with uAA,   \nutilizable methionin (uMet), utilizable lysine (uLys) and uLeu (utilizable leucine) contents ( $\\%$ DM),and the regression equations were as follows:   \nuAA=0.171PA+0.134PB1+0.364PB2+0.370PB3+0.148PC+7.785， $R ^ { 2 } { = } 0 . 9 9$ ， $P { < } 0 . 0 1$ ， uMet=0.019PA-0.031PB1+0.024PB2+0.078PB $_ 3$ -0.004PC-0.071， $R ^ { 2 } { = } 0 . 9 3$ ， $P { < } 0 . 0 1$ ， uLys $\\ O =$ -0.045PA-0.020PB1+0.072PB2+0.038PB3-0.011PC+0.780， $R ^ { 2 } { = } 0 . 9 2$ ， $P { < } 0 . 0 1$ ， uLer $\\mathrm { \\Delta  u = 0 . 0 7 1 P A + 0 . 0 3 3 P B _ { 1 } + 0 . 0 9 3 P B _ { 2 } + 0 . 1 8 9 P B _ { 3 } + 0 . 0 0 3 P C + 0 . 0 0 6 }$ ， $R ^ { 2 } { = } 0 . 9 4$ ， $\\scriptstyle P < 0 . 0 1$ . It is concluded that uAA,uMet, uLys and uLeu of feeds for dairy cows can be predicted based on the CNCPS nitrogenous fraction contents and the equations established in the trial.   \nKey words: dairy cow; CNCPS; utilizable amino acid ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

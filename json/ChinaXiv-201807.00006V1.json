@@ -1,0 +1,503 @@
+[
+    {
+        "type": "text",
+        "text": "甘肃黑方台黄土水分运移规律模拟 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "石兰君¹，乔晓英,²，曾磊1,2.3，赵贵章4（1．长安大学环境科学与工程学院,陕西 西安710054；2．干旱区地下水文与生态效应教育部重点实验室,陕西 西安710054；3．西安地质调查中心,陕西 西安710054；4．华北水利水电大学,河南 郑州450045)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以室外试验为基础,应用饱和－非饱和土壤水分运移理论，利用Hydrus 软件对甘肃黑方台包气带水分运移规律进行数值模拟,分析土壤剖面不同深度处含水量变化规律,将模拟结果与实测结果进行对比分析，并将拟合参数应用到两种不同的介质中。结果表明： $\\textcircled{1}$ 土壤含水率呈峰谷波动变化; $\\textcircled{2}$ 均质黄土层和上覆 $5 \\ \\mathrm { c m }$ 厚的粉质壤土的黄土层中，土壤水分入渗率和潜水蒸发率均随潜水埋深的增加而减少,在潜水埋深 $3 0 0 \\ \\mathrm { c m }$ 以下时，两种介质的土壤水分入渗率趋于同一值,含粉质壤土的潜水蒸发率小于均质黄土的潜水蒸发率。表明该含水量的变化具有时空特征,土壤水分入渗率、潜水蒸发率随着潜水埋深变化，其规律整体相似,这对研究滑坡水分分布具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：黄土；包气带；水分运移；数值模拟；运移规律；黑方台；甘肃 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "甘肃省永靖县黑方台自20世纪60年代以来，先后发生滑坡116次，累计37人死亡，100多人受伤，直接经济损失达 $1 . 7 \\times 1 0 ^ { 8 }$ 元,实际生产生活中，长期大水漫灌是引起黑方台边坡失稳，以致滑坡反复发生的最主要的诱发因素[1-2]。在半干旱地区,地下水的主要补给来源有降水、灌溉水和地表水的入渗，地下水的消耗途径有蒸发等[3]。尽管黄土具有很强的渗透能力，可是在强烈的大气蒸发作用下，有限的降水还是很难通过巨厚的包气带层而大面积入渗形成地下水[4],故在干旱半干旱地区研究包气带水分运移规律至关重要。研究土壤水分运移相关参数的方法有仪器测量等的直接法和数值模拟等的间接方法[4-8],拟合土壤水分特征曲线的模型有vanGenuchten方程及其修正方程、Brooks-Corey方程、Dual-porosity 方程、Gardner方程 等,其中Gardner方程的计算简便，vanGenuchten方程应用广泛，再通过相关软件的模拟或者运用MATLAB编程等方法来获取相关参数[10-15]。本文选取 van Ge-nuchten方程,运用Hydrus 软件拟合土壤水分特征曲线的参数。目前，研究干旱地区有植被的耕地的土壤水分运移多采用原位试验、同位素或者数值模拟等方法(1,16-20]。研究表明,有植被的黄土水分运移特征与植被的根系密度等特征有关，并且与土壤的结构及其构造相关性比较大。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文利用德国公司生产的 $\\mathrm { \\ K u \\mathrm { \\Omega } - \\mathrm { \\ p F } }$ 非饱和导水率测定系统,测定相关水分运移参数[21]。针对植被稀少的荒地的水分运移规律，利用Hydrus-1D软件构建降雨和蒸发条件下黑方台黄土层包气带水分运移模型，拟合土壤水分运移参数，分析不同土壤深度下含水量的变化规律，并对比上覆有 $5 \\ \\mathrm { c m }$ 粉质壤土黄土的土壤水分入渗率和潜水蒸发率随潜水埋深的变化特征[\"]。该研究成果对黄土水分运移规律及黄土滑坡治理具有重要价值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验区概况 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黑方台为湟水河与黄河交汇处的四级阶地台面[22]，面积 $1 3 . 5 ~ \\mathrm { k m } ^ { 2 }$ 左右,台缘高差约 $1 2 0 \\mathrm { ~ m } ^ { [ 2 3 ] }$ 。多年平均降水量 $1 8 7 . 6 \\sim 3 1 7 ~ \\mathrm { m m }$ ,丰水年达 $4 0 0 ~ \\mathrm { { m m } }$ 以上，雨季(7—9月)降水占全年降水量的 $70 \\%$ \\~$8 0 \\%$ 。试验区在黑方台台塬建立气象站，收集实时气象数据。利用 $\\mathrm { E C H } _ { 2 } 0$ 土壤水-温度监测系统，监测剖面温度、含水量。典型点选择在斜坡泉水溢出带上游 $2 0 0 \\ \\mathrm { c m }$ 部位,垂直方向埋入 $\\mathrm { E C H } _ { 2 } 0$ 土壤水温监测系统。监测剖面深 $2 0 0 \\ \\mathrm { c m }$ ,土壤剖面每隔10cm 布置一个探头，如图1所示。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/93fb4407dbfac15e9b12e9c19d197666169c08f422d6971a14c8ddc33c85449f.jpg",
+        "img_caption": [
+            "图1典型点剖面示意图",
+            "Fig.1Schematic diagram of typical point profile "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2水分运移模型的建立",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "模型的理论基础是一维饱和非饱和带水分运移Richards 方程[24],和 Van Genuchten[25]确定的土壤水分运动曲线公式。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1水分运动基本方程",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial \\theta } { \\partial t } = \\frac { \\partial } { \\partial z } \\left[ k ( h ) \\left( \\frac { \\partial h } { \\partial z } + 1 \\right) \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta _ { e } = \\frac { \\theta - \\theta _ { r } } { \\theta _ { s } - \\theta _ { r } } = \\left[ 1 + \\left( { \\alpha } \\vert h \\vert \\right) ^ { n } \\right] ^ { - m }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK ( \\theta ) = K _ { s } \\theta _ { e } ^ { l } \\big [ 1 - \\big ( 1 - \\theta _ { e } ^ { 1 / m } \\big ) ^ { m } \\big ] ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\theta$ 表示含水量， $\\mathrm { c m } ^ { 3 } \\cdot \\mathrm { c m } ^ { - 3 }$ $\\mathbf { \\Phi } _ { t }$ 表示时间, ${ \\mathrm { d } } ; h$ 表示压力水头， $\\mathrm { c m } ; z$ 为垂直坐标轴，将坐标原点选在地面，向上设为正; $\\theta _ { s } , \\theta _ { r } , \\theta _ { e }$ 分别表示饱和含水量、残余含水量和有效土壤含水量, ${ \\mathrm { c m } } ^ { 3 } \\cdot { \\mathrm { c m } } ^ { - 3 } ; \\alpha$ ，$n$ 表示经验参数（曲线性状参数）， $\\alpha$ 单位为（$\\mathrm { c m } ^ { - 1 }$ ）， $n$ 无量纲; $l$ 表示地下水位埋深， ${ \\mathrm { c m } } ; m = 1 -$ $1 / n , 0 < m < 1 ; K ( \\theta )$ 表示渗透系数， $\\mathrm { c m } / \\mathrm { d } ; K _ { s }$ 表示饱和渗透系数， $\\mathrm { c m / d }$ ○",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2边界条件及初始条件在原位试验的基础上，水流模型的上边界是大气边界，为第二类边界条件，输入实测的降雨或蒸发数据；下边界在潜水面处，为深层排水的边界条件。hCritA为地表允许的最大负压值，采用 $1 0 0 \\ 0 0 0 \\ \\mathrm { c m }$ 。初始条件输入野外条件下实测含水量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\theta ( z , t ) = \\theta _ { 0 } ( z )$ ， $t = t _ { 0 }$ ，初始条件  \n$- K \\left( \\frac { \\partial h } { \\partial z } - 1 \\right) = q _ { 0 } \\left( \\mathit { t } \\right)$ ,上边界条件  \n$q ( h ) = - A _ { \\boldsymbol { q } h } \\mathrm { e x p } ( B _ { \\boldsymbol { q } h } \\vert h - \\mathrm { G W L O L } \\vert )$ ，下边界条件",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\theta _ { 0 }$ 表示初始土壤剖面含水量, $\\mathrm { c m } ^ { 3 } \\cdot \\mathrm { c m } ^ { - 3 }$ ;$q _ { 0 } \\left( t \\right)$ 表示土壤水通量 $\\operatorname { c m } \\cdot \\mathrm { h } ^ { - 1 } ; q ( h )$ 表示排水速率， $\\mathrm { c m } \\cdot \\mathrm { h } ^ { - 1 }$ $A _ { \\boldsymbol { q } h } \\setminus B _ { \\boldsymbol { q } h }$ 表示经验参数,分别为-0.1和-0.02;GWLOL表示地下水位的参考位置， $2 0 0 \\ \\mathrm { c m }$ 。1.2.3单元划分研究区为试验介质分为均质和上覆 $5 \\ \\mathrm { c m }$ 厚的粉质壤土的黄土层。黄土层含水量变化主要发生在 $0 \\sim 2 0 0 ~ \\mathrm { c m }$ 土壤深度之间[26],模型将 $0 \\sim 2 0 0 ~ \\mathrm { c m }$ 的土层划分为5层，观测点设置在30、$5 0 , 1 0 0 , 1 5 0 \\ \\mathrm { c m }$ 深度处。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "空间及时间单位分别采用 $\\mathrm { c m } \\setminus \\mathrm { h }$ 。初始时间步长 $^ { \\mathrm { ~ 1 ~ h ~ } }$ ,计算过程中根据收敛的情况，时间步长由程序自动调整，最小时间步长为 $^ \\mathrm { ~ 1 ~ h ~ }$ ,最大时间步长为$^ { 5 \\mathrm { ~ h ~ } }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.4土壤参数识别及模型求解基于实测的土壤含水率与室内测定的土壤水分特征参数，利用试估－校正法对土壤参数进行识别[27]。土壤含水率的变化对 $\\alpha$ 不敏感, $\\alpha$ 取值在 $0 . \\ 0 0 1 \\sim 0 . \\ 0 0 5$ 之间，而 $n$ 对含水率的变化最敏感;残余含水率与饱和含水率的变化不大。因此，在参数识别中主要对 $n$ 进行识别[28]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文Hydrus-1D模型只考虑水分运动，模型中方程求解采用Calerkin[29]线性有限元法,模拟裸地只有降水和蒸发下水分的迁移与转化过程。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "现今人们已经发展了室内外试验手段来测定水分特征曲线，但大多数方法费时费力，试验结果存在明显的不确定性，而且土壤在水平和垂向的空间变异性也限制了直接测定方法在实际工作中的应用[30]。本次试验选取原状样(1号和2号)与扰动样(3号和4号），采用 $\\mathrm { \\ k u - p F }$ 非饱和导水率测定系统，自动测定非饱和导水率和水分特征曲线，应用Matlab 最小二乘法对试验数据进行参数拟合[31]。参数见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用相关系数和协方差对拟合值和实测值之间进行误差分析，由相关系数和协方差可以看出拟合值和实测值拟合效果好，具体见表2。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1土壤水分特征参数拟合表",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/53bca64068ec5e5d3d61ec8c7ab2348d3cc41b152f7500cf324527f81ab69015.jpg",
+        "table_caption": [
+            "Tab.1 Fitted values of the soil water characteristic "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">parameters</td></tr><tr><td rowspan=\"3\">编 号</td><td rowspan=\"3\">介质 k</td><td colspan=\"3\">特征参数</td></tr><tr><td>0</td><td>0</td><td>α n</td></tr><tr><td>cm·d-1）/(cm³·cm²)</td><td>/(cm³·cm-3) 0.365</td><td>3.98 ×10-3 4.54 /cm-1</td></tr><tr><td>1</td><td>原状样</td><td>14.184</td><td>0.109</td><td></td><td></td></tr><tr><td>2</td><td>原状样</td><td>19.728</td><td>0.099</td><td>0.344</td><td>3.77×10-3 4.20</td></tr><tr><td>3</td><td>扰动样</td><td>26.064</td><td>0.091</td><td>0.396</td><td>2.97×10-3 2.58</td></tr><tr><td>4</td><td>扰动样</td><td>22.032</td><td>0.094</td><td>0.373</td><td>4.24×10-3 3.82</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2误差分析表",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e1ca65c067ab9d1eea75af786366cedf5ca882aaf3521a15c19cb3f7c55bfc7e.jpg",
+        "table_caption": [
+            "Tab.2Error analysis "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">编号</td><td rowspan=\"2\">介质</td><td colspan=\"2\">误差分析</td></tr><tr><td>相关系数(r)</td><td>协方差(Cov)</td></tr><tr><td>1</td><td>原状样</td><td>0.994</td><td>5.312 ×10-3</td></tr><tr><td>2</td><td>原状样</td><td>0.994</td><td>4.893 ×10-3</td></tr><tr><td>3</td><td>扰动样</td><td>0.989</td><td>4.748 ×10-3</td></tr><tr><td>4</td><td>扰动样</td><td>0.994</td><td>5.880 ×10-3</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1蒸发降雨下土壤含水量变化过程",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于含水量分布受时空变化影响[32],将研究时段划分为3个时段即冻期（2012－12－10—2013-02-10）融期 $( 2 0 1 3 - 0 2 - 1 0 - 2 0 1 3 - 0 5 - 1 0 )$ 、非冻期 $\\left( 2 0 1 3 - 0 5 - 1 0 - 2 0 1 3 - 1 0 - 1 0 \\right)$ ,根据试验数据，分析冻期和融期每隔20d,非冻期每隔 $4 0 \\mathrm { ~ d ~ }$ 的自地表至土壤深度 $2 0 0 \\ \\mathrm { c m }$ 的含水量的变化特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图1看出，在冻期，黄土层含水量随测深的增大而增加，降雨呈入渗状态。在剖面上，不同时期土壤深度 $3 0 \\ \\mathrm { c m }$ 以上的含水量变化较大， $3 0 \\ \\mathrm { c m }$ 之下相差小，但整体变化规律相同，黄土层含水量随土壤深度的增大而增加，并且随着土壤深度的增加含水量趋于相同。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图2看出，在融期，相同土壤深度随着时间的延长含水量增加。土壤深度 $1 0 \\ \\mathrm { c m }$ 附近含水量相近，随着土壤深度增加，含水量整体呈增大趋势，当深度至 $2 0 0 \\ \\mathrm { c m }$ 时黄土层中含水量相同。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图3看出，非冻期含水量变化随土壤深度的增大而增加,但变化趋势不明显。在同一土壤深度下含水量递增。土壤深度 $4 0 \\ \\mathrm { c m }$ 以上含水量分布极不均匀,极差较大，分析原因是该时期蒸发强烈，对地表附近含水量影响较大。相同土壤深度条件下含水量呈先增大后减少的规律，因为该时期虽然蒸发强烈，但是相比前期，该期降雨集中，所以，强烈蒸发的表层土壤含水量低,在7月强降雨时,表土含水量增加,接近饱和。由图1～3可以看出，含水率呈现峰谷波动变化,不同时间峰谷位置相同。在 $3 0 \\ \\mathrm { c m }$ 、$5 0 ~ \\mathrm { c m } \\phantom { - } . 1 3 0 ~ \\mathrm { c m } \\phantom { - } . 1 7 0 ~ \\mathrm { c m }$ 处为波峰， $4 0 ~ \\mathrm { c m } \\phantom { - } . 7 0 ~ \\mathrm { c m } \\phantom { - } . 1 4 0$ cm 处为波谷。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 模型的识别与验证 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将2013年5月10日至7月10日和7月10日至10月8日设为识别期和验证期。基于野外实测数据，经Hydrus-1D数值模拟绘制图5，通过识别期，将7月10日实测值与模拟值对比，经过验证期，验证10月8日含水量的拟合效果，校验建立的数值模型的合理性。并比较同一深度不同时间含水量的拟合效果，如图6所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d30eb16b8a8aeb0f687c8d2094533217ce41eaa7836865955273781b51072109.jpg",
+        "img_caption": [
+            "图2冻期黄土剖面含水量随时间变化曲线 Fig.2Changing curves of soil water content distribution with time in freezing weather "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f33804b76e3555bfb29e9ac019903d6ac55543eab95531dd2c36454200883e56.jpg",
+        "img_caption": [
+            "图3融期黄土剖面含水量随时间变化曲线 Fig.3Changing curves of soil water content distribution with time in melting period "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c00e748c86e3be6442e60706faa2cd957ccd4634ac09d0ed0a8db9b40fa7af07.jpg",
+        "img_caption": [
+            "图4非冻期剖面含水量随时间变化曲线 Fig.4Changing curves of soil water content distribution with time in freeze-free period "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "模拟值与实测值的拟合程度采用标准差SD（standarddeviation）定量表示，即",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS D = \\sqrt { { \\frac { 1 } { N } } \\sum _ { i = 1 } ^ { N } ( Y _ { i } - { \\overline { { Y } } } _ { i } ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $Y _ { i }$ 表示样本模拟值； ${ \\bar { Y } } _ { i }$ 表示样本实测值； $N$   \n表示观测样本数； $i$ 表示样本号。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表3可以看出，不同土壤深度含水量的 SD均小于 $8 \\%$ ，可以认为模拟得到的水分运移参数合理，从而得到黄土的水分运移参数(表4）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3不同土壤深度含水量的模拟值与实测值的误差",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/597180984b59f2eddfe6bae0191f3f23b607f204743e5f81facdcf3a00303a7f.jpg",
+        "table_caption": [
+            "Tab.3SD of Simulated and measured values in different depth ",
+            "表4土壤水分运移参数拟合结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>土壤深度/cm</td><td>SD/%</td></tr><tr><td>30</td><td>6.7</td></tr><tr><td>50</td><td>5.32</td></tr><tr><td>100</td><td>7.81</td></tr><tr><td>150</td><td>7.27</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c18ec4105c56f01c1f9a15dfe1b3f0aef5e2300f3cd9cfa7ffe579217a95d8e3.jpg",
+        "table_caption": [
+            "Tab.4Fitting values of soil hydraulic parameters "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数</td><td>均质黄土</td></tr><tr><td>0,/(cm³·cm-³)</td><td>0.098 23</td></tr><tr><td>0/(cm³·cm-³)</td><td>0.435</td></tr><tr><td>α/(cm-1)</td><td>3.019 ×10-3</td></tr><tr><td>k/(cm·d-1)</td><td>22.5</td></tr><tr><td>n</td><td>1.466 5</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/261c8ad7da3644ad69edb8bf7bea38a7c8d394140e70eea23795946bdc84ff0e.jpg",
+        "img_caption": [
+            "图52013年7月10日和10月8日含水量模拟值与实测值对比曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.5Comparison between simulated and measured values of soil water content on July 10 and October 8. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b7eae7be0f425d603431d7426f2ffa9c803868c16508a1b90fb59891c36b9c38.jpg",
+        "img_caption": [
+            "图6不同土壤深度下含水量模拟值与实测值对比曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表5两种介质的土壤水分运移参数",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b3b114c68bee3e556990b685d4f43944d276d582c552d5d61bd464153a7967fd.jpg",
+        "table_caption": [
+            "Tab.5Parameters of soil hydraulic parameters of two soils "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数</td><td>均质黄土</td><td>粉砂壤土</td></tr><tr><td>0,/(cm³·cm-³)</td><td>0.098 23</td><td>0.067</td></tr><tr><td>θ/(cm³ ·cm-³)</td><td>0.435</td><td>0.45</td></tr><tr><td>α/(cm-1)</td><td>0.00302</td><td>0.02</td></tr><tr><td>k(cm·d-1)</td><td>22.50</td><td>10.80</td></tr><tr><td>n</td><td>1.466 5</td><td>1.41</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3模型应用与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "经识别和验证，研究区介质参数误差满足精度要求，可将此参数应用在试验场地或类似区域的黄土包气带模型应用上。在2013年7月10日至10月8日蒸发降雨条件下，模型应用分别模拟两种不同的介质，一种模型介质是均质黄土，另一种介质是上层是 $5 \\ \\mathrm { c m }$ 厚的粉砂壤土的黄土，介质的水分特性参数如表5，用以分析两种介质下的土壤水分入渗率和潜水蒸发率随潜水埋深变化的规律。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4土壤水分入渗率",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图7可知,均质黄土的土壤水分入渗率,在潜水埋深为 $1 0 \\sim 8 0 ~ \\mathrm { c m }$ 时，随着潜水埋深的增加，土壤水分入渗率减小，埋深 $4 0 \\sim 5 0 ~ \\mathrm { c m }$ 的土壤水分入渗率从 $2 . 4 8 2 \\ \\mathrm { c m \\cdot d ^ { - 1 } }$ 降至 $1 . 6 1 8 \\ \\mathrm { c m } \\cdot \\mathrm { d } ^ { - 1 }$ ,埋深80cm以下的土壤水分入渗率趋于稳定值 $1 . 6 1 8 { \\mathrm { ~ c m ~ } } ^ { . }$ $\\textrm { d } ^ { - 1 }$ ;相比之下上覆 $5 \\ \\mathrm { c m }$ 粉质壤土的介质在埋深10$\\sim 4 0 \\ \\mathrm { c m }$ 的土壤水分入渗率从 $1 . 6 6 0 \\ \\mathrm { c m } \\cdot \\mathrm { d } ^ { - 1 }$ 增加到 $1 . 7 4 8 \\ \\mathrm { c m } \\cdot \\mathrm { d } ^ { - 1 }$ ,埋深 $4 0 \\sim 3 0 0 ~ \\mathrm { c m }$ 的土壤水分入渗率有小幅的波动，埋深 $3 0 0 \\ \\mathrm { c m }$ 以下的土壤水分入渗率与均质黄土趋于同一稳定值 $1 . 6 1 8 \\ \\mathrm { c m } \\cdot \\mathrm { d } ^ { - 1 }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.5 潜水蒸发率",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图8可知，在潜水埋深为 $1 0 \\sim 7 0 ~ \\mathrm { c m }$ ,均质黄土的蒸发强度随着潜水埋深的增加而减小，埋深40$\\sim 5 0 ~ \\mathrm { c m }$ 蒸发强度从 $2 . 4 8 9 \\ \\mathrm { c m } \\cdot \\mathrm { d } ^ { - 1 }$ 降低至1.652$\\mathrm { c m } \\cdot \\mathrm { d } ^ { - 1 }$ ,埋深 $8 0 ~ \\mathrm { c m }$ 以下的蒸发强度趋于稳定值$1 . 6 8 ~ \\mathrm { c m } \\cdot \\mathrm { d } ^ { - 1 }$ ;相比之下，上覆 $5 \\ \\mathrm { c m }$ 粉质壤土的介质在埋深 $1 0 \\sim 4 0 \\ \\mathrm { c m }$ 的蒸发强度从 $1 . 6 4 1 \\ \\mathrm { c m } \\cdot \\mathrm { d } ^ { - 1 }$ （204号增加到 $1 . 7 1 6 \\ \\mathrm { c m } \\cdot \\mathrm { d } ^ { - 1 }$ ,埋深 $4 0 \\sim 1 5 0 ~ \\mathrm { c m }$ 的蒸发强度有小幅的波动,埋深 $1 5 0 \\sim 3 0 0 ~ \\mathrm { c m }$ 的蒸发强度从$1 . 6 4 5 \\ \\mathrm { c m } \\cdot \\mathrm { d } ^ { - 1 }$ 趋于稳定值 $1 . 1 1 0 \\ \\mathrm { c m } \\cdot \\mathrm { d } ^ { - 1 }$ ;整体上,均质黄土的蒸发强度大于含粉质壤土介质的蒸发强度。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e40fa4a0fc3857b59a1211c344811072e4b583b7cfabdaa09f1b980d3882eec9.jpg",
+        "img_caption": [
+            "Fig.6Comparison between simulated and measured values of soil water content in different depth ",
+            "图7两种介质结构土壤水分入渗率模拟值 Fig.7Fiting values of infiltration rate of two soils "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/69614bfb2a6740997680635ea16ea6f482170c60282f0fa7dd3e78811544d62e.jpg",
+        "img_caption": [
+            "图8两种介质结构土壤潜水蒸发率模拟值 Fig.8Fitting values of phreatic water evaporation rate of two soils "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以往对黄土层含水量变化研究深度都大于10m,时间短,其变化规律呈现峰谷波动[26.33-34]。本文研究深度为 $2 0 0 \\ \\mathrm { c m }$ ,在冻期,随着土壤深度的增加含水量基本趋于一致;融期，同一土壤深度下含水量随时间延长呈递增的趋势，在地表附近含水量相近,当土壤深度至 $2 0 0 \\ \\mathrm { c m }$ 时黄土层中含水量趋于一致；非冻期，同一土壤深度下含水量递增，地表附近因为蒸发强烈，地温变化较大以至于含水量分布极不均匀，极差较大，但相同土壤深度条件下含水量呈先增大后减少的变化趋势，而随着土壤深度的增加含水量趋于相同，这可能与黄土的土壤质地和颗粒组成有关系[26.33-34]。本文可以看去,在冻期含水量分布比较稳定，随着时间的延长，气候的变化，气温上升，表层土壤解冻，水分下渗，随着深度的增加，含水率呈现峰谷波动，不同时间峰谷位置相同。在30$\\mathrm { c m } \\ . 5 0 \\ \\mathrm { c m } \\ . 1 3 0 \\ \\mathrm { c m } \\ . 1 7 0 \\ \\mathrm { c m }$ 处为波峰， $4 0 ~ \\mathrm { c m } \\ 、 7 0 ~ \\mathrm { c m }$ 、$1 4 0 \\ \\mathrm { c m }$ 处为波谷。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "目前大多数研究土壤质地、含水量以及时间与潜水蒸发率的关系(27,35-36]两种介质结构的土壤水分入渗率和潜水蒸发率与潜水埋深有关。上覆有5cm厚的粉质壤土的介质的土壤水分入渗率随潜水埋深变化的趋势比均质黄土的平缓；埋深 $3 0 0 \\ \\mathrm { c m }$ 以下时，两种介质的土壤水分入渗率趋于同一稳定值$1 . 6 1 8 \\ \\mathrm { c m } \\cdot \\mathrm { d } ^ { - 1 }$ ,但是上覆有 $5 \\ \\mathrm { c m }$ 厚的粉质壤土介质的潜水蒸发率小于均质黄土的潜水蒸发率，与冻融期的变化规律相似[37]。整体趋势都是先降低最后趋于稳定值，可以看出，在细颗粒上覆粗颗粒的黄土介质时，可以降低土壤水分入渗率和潜水蒸发率，有效地保护水分的流失，但同时也阻止了水分的入渗补给。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在治理滑坡时，往往忽略水分运移特征，实际上，水分运移分布对滑坡的形成及产生具有重要的作用。模拟并分析水分在黄土中的运移规律，对滑坡的预防具有一定的积极作用。模型的缺点是未考虑水分的二维运动，试验结果存在一定的误差;而且缺少具有植被土壤的水分运移特征，研究介质比较单一。本文研究黄土包气带水分的一维运动规律，该方法针省时省力具有很好的拟合效果。针对室内小型试验，也可以进一步设计方案来验证拟合效果的稳定性，所以，可以把HYDRUS-1D应用在分析黄土土壤水分运移规律的研究上。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以往对土壤水分入渗率和潜水蒸发率的计算多采用经验公式估算[38-39],且研究对象多以农田林地的植物生长或灌溉为主，但是黄土地区地质地貌类型复杂，面积广阔,黄土是岩土颗粒、水、空气三者同时存在的一个复杂系统，研究少且理论基础不完善，而采用经验公式进行估算缺乏代表性，存在较大误差[40]。本文在研究区选取典型点设计原位试验,通过实测数据的模拟，分析黄土包气带水分运移规律。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6结论 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在研究区原位试验的基础上，对黄土包气带降水入渗率与土壤蒸发强度进行数值模拟，由观测数据和计算结果分析得到以下结论：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）黄土层包气带含水量变化具有时空特点。空间上随着深度的增加，呈峰谷波动变化;时间上,在同一深度随着时间的延长含水量先增加后减小，且到 $2 0 0 \\ \\mathrm { c m }$ 时含水量趋于一致。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）模拟计算了两种岩性组合的黄土包气带降水入渗率与土壤蒸发强度，得到黄土包气带降水入渗率和土壤蒸发强度受包气带岩性结构和水位埋深的影响。（3）拟合得到的黄土水分运移参数，可以",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "应用到该区的水文地质研究中。   \n参考文献（References）：   \n[1］王志明,郭择德,李明香.半干旱地区包气带浅部黄土中水分 运移特征[J].干旱区研究,2000,17（2）:1-7.[Wang Zhimi ng,Guo Zede,Li Mingxiang. Moisture Movement characteristics in shallow Unsaturated Loess in semi -arid area[J].Arid Zone Research,2000,17(2) :1-7. ]   \n[2]孔令辉.永靖县黑方台滑坡灾害治理措施选择[J].甘肃科技, 2008,24（1）:60 -62.[Kong Linghui. Selection of the disaster management measures for the black mesa area in Yongjing county [J]. Gansu Science and Technology,2008,24(1）:60 -62.]   \n[3]李萍,李同录,付昱凯,等.非饱和黄土中降雨入渗规律的现场 监测研究[J].中南大学学报（自然科学版）,2014,45（10）：3 551-3 56O.[Li Ping,Li Tonglu,Fu Yukai,et al.In- situ observation on regularities of rainfall infiltration in loess[J].Journal of Central South University（Scienceand Technology）,2014,45 (10) :3 551 -3 560.]   \n〔4］刘建立,徐绍辉.根据颗粒大小分布估计土壤水分特征曲线分 形模型的应用[J].土壤学报,2003,40(1)46-52.[Liu Jianli, Xu Shaohui.Figuring soil water characteristic curve based on particle size distribution data;Application of fractal models (In Chinese)[J]. Acta Pedologica Sinica,2003,40(1） :46 -52.]   \n[5]Thyagaraj T,Rao S M. Influence of osmotic suction on the soil - water characteristic curves of compacted expansive clay[J]. Journal of geotechnical and geoenvironmental engineering,2O10,136 (12):1 695-1 702.   \n[6]程冬兵,蔡崇法,彭艳平,等.根据土壤粒径分形估计紫色土水 分特征曲线〔J].土壤学报,2009,46（1）:30－36.[Cheng Dongbing,Cai Chongfa,Peng Yanping,et al.Estimating soil water retention curve based on fractal dimension of soil particle size distribution of purplesoilJ].ActaPedologica Sinica,209,46（1): 30-36.   \n[7）刘建立,徐绍辉.非相似介质方法在估计土壤水分特征曲线中 的应用[J].水利学报,2003,34（4）:80－84.[Liu Jianli,Xu Shaohui.Estimation of soil water retention characteristics with a non-similarmedia method[J].Joualof Hydraulic Engineering, 2003,34(4) :80 -84.]   \n[8]Soonkie N,Marte G,Panayiotis D,et al. Comparison of testing techniques and models for establishing the SWCC of riverbank soils [J].Engineering Geology,2010,110(1/2）:1-10.   \n[9]Kosugi K.Lognormal distribution model for unsaturated soil hydraulic properties[J]. Water Resources Research,1996,32(9）: 2 697 -2 703.   \n[10]Crevoisier D,Popova Z,Mailhol JC,et al.Assessment and simulation of water and nitrogen transfer under furrow irrigation[J].Agricultural Water Management,2008,95(4）:354-366.   \n[11］王尚义,牛俊杰,朱炜歆,等.晋西北矿区、非矿区不同植被下 土壤水分特征[J].干旱区研究,2013,30(6):986-991[Wang Shangyi,Niu Junjie,Zhu Weixin,et al.Change of soil moisture content under different plant species in mining and non - mining sreas in northwest Shanxi Province[J].Arid Zone Research,2013, 30(6) :986 -991. ]   \n[12]刘建军,王全九,王卫华,等.利用 Hydrus-1D 反推土壤水力 参数方法分析[J].世界科技研究与发展,2010,32（2）：173- 175[Liu Jianjun,Wang Quanjiu,Wang Weihua,et al. Inverse solution soil hydraulic parameters and verification using Hydrus-1 D model[J]World Sci-Tech R&D,2010,32(2):173-175.].   \n[13］于洋,韩鹏,林谧.半干旱地区包气带一饱和带水盐耦合模拟 〔J].干旱区研究,2017,34(4）:741-747[Yu Yang,Han Peng, Lin Mi.Water-salt coupled simulation in vadose zone and saturated zone in semiarid area[J].Arid Zone Research,2017,34（4）： 741 -747. ]   \n[14］任杰,沈振中,杨杰等.基于HYDRUS 模型低温水入渗下土壤水 热运移模拟[J].干旱区研究,2016,33（2）:246-252.[Ren Jie, Shen Zhenzhong,Yang Jie,et al.Simulation of water and heat transfer in soil under low- temperature water infiltration based on the HYDRUS model[J]. Arid Zone Research,2016,33（2）: 246 - 252.]   \n[15］邵明安,王全九,黄明斌.土壤物理学[M].北京;高等教育出 版社,2006.[Shao Ming'an.Soil Physics[M].Beijing:Higher Education Press,2006.]   \n[16］王志明,杨月娥.半干旱地区天然黄土包气带中氘的运移特征 [J].原子能科学技术,2001,35（1）:45-50.[Wang Zhiming, Yang Yue'e. Transport characteristics of tritium in unsaturated loessof semi-arid area under natural condition[J]. Atomic Energy Science and Technology,2001,35(1）:45-50.]   \n[17］李明香,马炳辉,刘锦峰,等.黄土包气带水分运移的现场研究 [J].辐射防护,2000,20(1/2）:91-100.[Li Mingxiang,Ma Binghui,Liu Jingfeng,et al.A field study on moisture migration in loess aerated zone[J].Radiation Protection,2000,20(1/2）:91-100.]   \n[18]Zhang C,Zhang Y,Li T,et al.In- situ observation research on the regularities of water migration in loess [C]//Water Resource and Environmental Protection(ISWREP）,011Iternationalsium on. IEEE,2011,4:2 745-2 748.   \n[19]Doughty C.Numerical model of water flow in a fractured basalt vadose zone：Box Canyon site,Idaho[J].Water Resources Research,2000,36(12） :3 521 -3 534.   \n[20]Lenhard R.J,Oostrom M,Dane J.H.A constitutive model for air - NAPL - water flow in the vadose zone accounting for immobile,non-occluded(residual）NAPL instronglywater-wet porous media[J].JournalofContaminant Hydrology,004,7（1/4）: 283.   \n[21］刘亚磊,梁杏,林丹等.稳定蒸发条件下的深厚包气带土壤水 力参数测试—以辛集新城地区为例[J].中国农村水利水电， 2013（10）:27-32.[Liu Yalei,Liang Xing,Lin Dan,et al. Soil hydraulic parameters in deep vadose zone based on stable evaporation $- \\mathrm { A }$ case study in Xinji area[J]. China Rural Water and Hydropower,2013（10）:27-32.]   \n[22］李志萍,王欢,曾磊,等.甘肃黑方台黄土水分运移参数试验研 究[J].华北水利水电大学学报（自然科学版），2015,36（4）： 16-18.[Li Zhiping,Wang Huan,Zeng Lei,et al. Experimental study of loess moisture movement parameters in Heifangtai of Gansu Province[J]. Journal of North China University of Water Resources and Electric Power(Natural Science Edition）,2015,36 (4):16 -18.]   \n[23］张雨晴.甘肃黑方台黄土滑坡系统分析[D].西安:西北大学, 2007.[Zhang Yuqing.Systematic Analysis on Loess Landslides in Hei Fangtai,Gansu Province,China[D].Xi'an:Northwest University,2007. ]   \n[24］雷志栋.土壤水动力学[M].北京:清华大学出版社,1988.[Lei Zhidong,. Beijing:Tsinghua University Perss,1988.]   \n[25]Tyler S W,Wheatcraft SW.Application of fractal mathematics to ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "soil water retention estimation[J].Soil Science Society of America ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Journal,1989,53(4) :987-996.   \n[26]李萍,李同录,王阿丹，等.黄土中水分迁移规律现场试验研究 [J].岩土力学,2013,34（5）:1 331-1339.[Li Ping,Li TongLu,Wang Adan,et al.In- situ test research on regularities of water migration in loess[J].Rock and Soil Mechanics,2O13,34 (5):1 331-1339.]   \n[27]史文娟,沈冰,汪志荣,等.蒸发条件下浅层地下水埋深夹砂层 土壤水盐运移特性研究[J].农业工程学报,2005,21(9）：23- 26[Shi Wenjuan,Shen Bing,Wang Zhirong,et al.Water and salt transport in sand-layered soil under evaporation with the shallow underground water table[J].Transactions of The Chinese Society of Agricultural Engineering,2005,21(9）:23-26.]   \n[28]Simuinek J,van Genuchten M T,Sejna M.Development and applications of the HYDRUS and STANMOD software packages and related codes[J].Vadose Zone Journal,2008,7(2）:587 -600.   \n[29]Ajdary K,Singh DK,Singh A K,et al.Modelling of nitrogen leaching from experimental onion field under drip fertigation[J].Agricultural water management,2007,89(1/2）:15 -28.   \n[30]van Genuchten M T,Pachepsky YA.Hydraulic properties of unsaturated soils[M]//Encyclopedia of Agrophysics.Dordrecht:Springer,2011:368 -376.   \n[31］王春颖,毛晓敏,赵兵.层状夹砂土柱室内积水入渗试验及模 拟[J].农业工程学报,2010,26（11）:61-67.[Wang Chunying,Mao Xiaomin,Zhao Bing.Experiments and simulation on infiltration into layered soil column with sand interlayer under ponding condition[J].Transactions of the Chinese Society of Agricultural Engineering,2010,26(11）:61-67.]   \n[32]Grunberger O,Macaigne P,Michelot JL,et al.Salt crust development in paddy fields owing to soil evaporation and drainage：Contribution of chloride and deuterium profile analysis[J].Journal of Hydrology,2008,348(1/2）:110-123.   \n[33］刘二云.横泉地区黄土含水率变化特点[J].图书情报导刊, 2003,13（7）:138-139.[Liu Eryun.The changing features of moisture content of loess in Hengguan area[J]. Journal of Library and Information Science,2003,13（7）:138-139.]   \n[34]徐芹选,赵景波.西安地区黄土含水率变化特点[J].现代地 质,2002,16（4）：435-438.［Xu qinxuan,Zhao Jingbo.The change characteristic of moisture content of loess stratum in the xi' an area[J].Geoscience,2002,16(4）:435-438.]   \n[35］李彦龙,王铁行,王娟娟.黄土高原旱区浅层黄土水分场的数 值分析[J].水土保持通报，2015,35（1）：148-152.［LIYanlong，Wang Tiehang，Wang Juanjuan．Numerical simulation of moisture field in shallow loess of loess plateau during continuous drought[J].Bulletin of Soil and Water Conservation,2O15,35 (1):148-152.]   \n[36]陈晶晶.干旱环境地表黄土蒸发量及土层水分运动规律研究 [D].西安：西安建筑科技大学,2014.[Chen Jingjing.The research on the land surface evapotranspiration of losses &the laws of soil water movement in arid environment[D].Xi'an,:Xi'an University of Architecture and Technology,2014.]   \n[37］陈军锋,郑秀清,张永波等.季节性冻融期不同潜水位埋深下 土壤蒸发规律模拟研究[J].农业机械学报,2015,46(5）：131 -140.[Chen Junfeng,Zheng Xiuqing,Zhang Yongbo,et al. Simulation of soil moisture under different groundwater level depths during seasonal freeze - thaw period[J].Transactions of the Chinese Society for Agricultural Machinery,2015,46(5）:131-140.]   \n[38]尹立河.基于多种方法的地下水补给研究[D].北京：中国地 质大学,2O11.[Yin Lihe.Estimation of groundwater recharge using multiple approaches[D].Beijing:China University of Geosciences,2011.]   \n[39]潘云，吕殿青.土壤容重对土壤水分入渗特性影响研究[J].灌 溉排水学报,2009,28（2）:59-61.[Pan Yun,Lv Dianqing. Effects of soil bulk density on characteristics of soil infiltration [J].Journal of Irrigation and Drainage,2009,28(2）:59 -61.]   \n[40］何渊.鄂尔多斯盆地降雨入渗与潜水蒸发强度研究[J].西北 师范大学学报（自然科学版）,2014（4）：98－103.［HeYuan. Research on precipitation and phreatic evaporation intensity in Ardosbasin[J].Journal of Northwest Normal University(Natural Science）,2014(4):98-103.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Simulation of loess soil water migration in certain northwest ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract:According to analyze the saturated -unsaturated soil hydraulic parameters,vadose water migration mechanism is numericaly simulated in the research byusing Hydrus-1D software,which was based on the outdoor test and saturated-unsaturated soil moisture migration theoretical basis .The model has been verified using the field experiments,and the fiting parameters are applied to two soils,homogeneoussoil lager and overlying $5 \\ \\mathrm { c m }$ thick silty loam soil lager.The results showed that1）the moisture content was fluctuating in peak valley.2）Soil water infiltration rate and the phreatic water evaporation rate decreases with an increasing of the phreatic water level intwo soils；two kindsof soil waterinfiltrationrate tend tobethesame value when thephreatic waterlevel was less than $3 0 0 ~ \\mathrm { c m }$ ,medium containing silty loam of the evaporation rate is lessthan the phreatic water evaporation rate of homogeneous loess.In conclusion,the change of water content has spatial and temporal characteristics.The rate of two soils water infiltrationandthe phreatic water evaporation are similar with the change of phreatic water level.It provides scientific basis for the water distribution and change of the landslide. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words:Loess；The vadose zone；Water migration；Numerical Simulation；Water migration mechanism ",
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,139 @@
+Morphogenesis of nacreous aragonite tablets: lessons from domed sheet nacre
+
+Gangsheng Zhang\*
+
+(College of Materials Science and Engineering, Guangxi University,Nanning, Guangxi 53004, China)
+
+\*Corresponding author   
+Address: Colegeof Materials Science andEnginering,Guangxi UniversityOODaxue Road,Nanning,Guangxi 530004, China.   
+Telephone: +86-771-3270152.   
+Fax: +86-771-3270152.   
+E-mail address: zhanggs @gxu.edu.cn (G. Zhang).
+
+# Abstract:
+
+It has been generally accepted that the nacreous tablets are transformed from the amorphous calcium carbonate (ACC）nanoparticles.However，how these nanoparticlesare organized and transformed in three-dimensional (3D)space has not been wellelucidated.Here,for the first time,we discovered a new type of immature tablets called“dendritic tablets”in domed sheet nacre of green mussels，which exhibits a dendritic surfacetexture in top views.Bycomparing their growth morphology with thatof the granular tablets,we found that theACC nanoparticles are always self-assembled into vertical clustersand then transformed into vertical crystallites of aragonite,each of which exhibits an equilibrium shape of abiotic aragonite.Most importantly,we found that the apparent contact angle between the tablet and substrate (i.e.the interlamellar membrane (ILM)) is unusually high $( 9 9 ^ { 0 } ~ - ~ 1 2 6 ^ { 0 } )$ ，which indicates that the ILM is non-wetting (or partial weting） to the ACC nanoparticles.Therefore，we concluded that the non-wetability of the ILM may have great efcts on the morphogenesis of the nacreous tablets.
+
+Keywords: Biomineralization; Domed sheet nacre; Dendritic tablet; Granular tablet; Aragonite
+
+# 1 Introduction
+
+Nacre is an iridescent material present in the inner part of some mollusk shells.It consists of about $9 5 \ \mathrm { w t \% }$ （204号 aragonite tablets $( 2 \mathrm { ~ - ~ } 1 0 ~ \mu \mathrm { m }$ wide and $0 { \cdot } 4 - 2 ~ { \mu \mathrm { m } }$ thick)and a small fraction of biopolymers.In most shells,a mature tablet behaves as a single crystal when probed by $\mathbf { X }$ -ray or electron diffraction and looks like a flat hexagonal prism with small{010} and {110} facets and large {001} facets (Fig.1b)(Taylor et al.,1969; Wada, 1972;Blackwell etal.,1977; Yoshimi etal.,2004; Yao etal.,2009;Mukai etal.,2010).For this reason,itis commonlycalled“flat tablet"(e.g.Feng et al.,200; Gower,2008).Interestingly,the {010} and {110} facets also appear in abiotic aragonite(Fig.la)(de Leeuw and Parker,1998; Sekkal and Zaoui,2013),indicating that they are stable.Therefore,both the abiotic aragonite and flat tablet appear as a pseudo-hexagon when viewed from the $c$ -axis (Fig.lc).In contrast,the {0Ol} facets are absent and replaced by{0ll} facets in abiotic aragonite, indicatingthat the formerare less stable than the later.Previously,the formation of the less stable {OO1} facets in the tablet has been explained by assuming that the tablet grows in aconfined space (i.e.compartment) of the interlamelar membranes (ILMs), which are flat and horizontal (Nakahara,1991; Rousseau etal.,2O05; Addadi et al.,2006).Therefore,it is these ILMs that shape the {OOl} facets.In summary,the morphologyof the flat tablets seems quite simple and has received little attention.
+
+![](images/cc1828036bc6675aa3567f8c54aa7568216308b2705b6869a274449f60d1f69d.jpg)  
+Figure 1. (a) Equilibrium morphology of abiotic aragonite (orthorhombic symmetry with space group Pmcn) (adapted from Sekkal and Zaoui,2013). (b)-(c) Observed morphologyof the flat tablet in nacre (adapted from Yao et al.,2009 and Mukai et al., 2010). (c) Two-dimensional(2D) shape of (a) or (b) viewed from the $c$ -axis
+
+Although the flat tablet is widespread in most shells,it coexists with the domed one in some shells such as Perna viridis (Xu and Zhang,2O15). In addition,the domed tablet has the {01O} and {110} lateral facets similar to those of the flattablets.However,it has unusual domed topor bottom facets.Recently,we showed that this domed tablet undergoes a complex morphology and structure transition during growth (Zhang,2O16). Most importantly, we confirmed that it is transformed from the transient amorphous calcium carbonate (ACC) nanoparticles (Zhang, 2013,2016). However,how these nanoparticles are organized and transformed in three-dimensional (3D) space has not been well elucidated.
+
+Here,on the basis of our previous results, we first defined the term“domed sheet nacre".Then we investigated the immature tablet with a granular surface texture, which we named “granular tablet".Next, we focused on a new type of immature tablet with aunique dendritic surface texture in top view, which we named“dendritic tablet".For the first time,we found that this dendritic tablet is composed of crystalites with the equilibrium morphology of abiotic aragonite.This finding provides important information for understanding nacre biomineralization.
+
+# 2Materials and methods
+
+The green mussel (Perna viridis) samples with length $2 { \cdot } 1 0 \ \mathrm { c m }$ were collected alive on the coast of Beibu Gulf in Guangxi and Zhanjiang in Guangdong,southern China. They were processed as follows: (1) the soft tissues were removed from the shells with a scalpel; (2)the shels were cleaned with tap water followed by distilled water and air-dried at room temperature for $2 \mathrm { h }$ ； (3）shell fragments,about $5 \ \mathrm { m m } \times 5 \ \mathrm { m m }$ in size,were mechanically broken away from the shell margin; and (4) some fragments were treated by immersion in 6vol.% NaClO solution for 10 min.Finally,the as-prepared shellfragments, including the pristine and NaClO-treated, were sputtred with gold and then observed with a field emission SEM (Hitachi, SU8O2O) operated at $8 { \mathrm { - } } 1 0 \mathrm { k V }$ ：
+
+# 3 Results
+
+# 3.1 Growth mode of domed sheet nacre
+
+As mentioned above, the nacre in $P .$ viridis shells contains both the domed and flat tablets,between which the boundary is gradual (Xu and Zhang,2O15).The former are only deposited near the shell edge and arrnged into horizontal lamellae (Fig.2a, where threelamellae are seen).At the front of each lamella called growth front (GF), thetablets usually nucleateon the top peripheries of the underlying tablets (circles in Fig.2a)and gradually increase insize until merging with the already-formed lamella.In addition, in side views (Fig.2b),the domed tablets firstly grow as pyramids until reaching a maximum height. Then they transform into frustums and finally into dome-caped prisms.
+
+In summary, the domed nacre in $P .$ viridis shells shows a growth mode typical of classical sheet nacre which has been defined to always consist of flat tablets (Taylor et al.，1969; Carter et al.2012).Moreover,in mature domed nacre,the tablets are vertically stacked like a brick wall(Fig.2c).Based on these facts,the domed nacre was strictly defined as “domed sheet nacre".
+
+Importantly,the domed tablets exhibit different surface textures depending on their positions in the shell and growth stages,which will be discussed in detail later.
+
+![](images/aae0c139e36dab39492e289196dcf9e09520fe984816269dd9be3d9329f8ec33.jpg)  
+Figure 2. (a)-(b) Top and side views of the inner surface of the Perna viridis shellrespectively.Some initial tablets (nuclei) were highlighted with circles.(c) Cross-sectional view of mature domed nacre, where the $c$ -axes of alltablets are vertical to the HP(Zhang,2016). GF: growth front; P: pyramid; F: frustum; DP:dome-caped prism; HP: anatomical horizontal plane.
+
+# 3.2 Morphology of the granular tablets
+
+Close to the shell edge,the immature tablets usually consist of ACC nanoparticles,as detailed previously (Zhang,2O13,2O16)，which thus exhibit a granular surface texture.For convenience,they are named granular tablets.Neverthelessit should be noted that theyare usuallycovered with the biopolymers and so display smooth surfaces (Fig. 3a).
+
+The early tablet,namely,the pyramidal tablet,looks like a faling water drop obliquely situated on the substrate (corresponding to the ILM covering the underlying tablet)(Fig.3a-3c). Strikingly,the apparent contact angle ( $\theta _ { }$ between the tablet and substrate is unusually high $( 9 9 ^ { 0 } - 1 2 6 ^ { 0 } )$ (Fig. 3b), which results in that the pyramid tends to separate from the substrate in order to minimize their contact area. Obviously,the ACC nanoparticles are preferentially deposited on the periphery of the preformed tablet (called core here）and suspended from the substrate (arrows in Fig.3b and 3c).
+
+As growth progresss,the nanoparticles are preferentially deposited on the top part of the lateral facets, resulting inthatthelateral facets become upright and thetop facet increases in size (Fig.3dand 3e),thereason for which has been detailed previously (Zhang, 2O16). Importantly, the nanoparticles (down to $1 0 \ \mathrm { n m }$ in diameter） are organized into unfaceted clusters of arbitrary shape (such as oval and cylindrical) and size (height: $h = 3 1 { - } 2 4 0 \ \mathrm { n m }$ width: $w = 3 5 \mathrm { - } 1 8 0 \ \mathrm { n m }$ ). Particularly,from the class II facets,which are oblique to the paper plane,one can clearly observe that the clusters are vertically oriented (arrows in Fig. 3e).
+
+![](images/82f9492b3939ae4e1819c9e73e435785ecd39aa8d782bbd1e44bc3acb8cd621e.jpg)  
+Figure 3.(a)-(e) Side views of the representative granular tablets with increasing size.(f) Top view of a pyramidal tablet.(g) Perspective view of a frustum-shaped tablet. Please note that: (1) all scale bars are $5 0 0 \mathrm { n m }$ ；(2) $\theta$ is the apparentcontact angle between the tablet and substrate; (3)fora beter view,some tablet facets are highlight with yellow dashed lines,and some nanoparticle clusters are highlighted with blue dashed lines; (4) the numberIand denote two classs of lateral facets,which are nearly parallel oroblique to the paper (projection) plane,respectively; (5)all samples are pristine except those in (b) and (f) which are immersed in $6 \%$ NaClO solution for $1 0 \mathrm { m i n }$
+
+It should be emphasized that the SEM images are two-dimensional (2D) projections of the 3D objects on the paper (projection) planes.Therefore,the class Ifacets (Fig.3d and 3e), which are nearly paralel to the paper plane, areflattened.This leads to the misconception that the nanoparticles are deposited layer-by-layer on these facets,as we previously predicted (Zhang,2O16).In fact,both the class Iand IIfacets are similar incharacters,as evidenced from the perspective view of the tablets (Fig.3g).They are made of lateral surfaces of the nanoparticle clusters. In contrast, the top facet is made of the top surfaces of the nanoparticle clusters (Fig. 3d).
+
+Interestingly,for the early tablets,their bottom facets in top views have a hexagonal outline,whose interior angles are measured to be about $1 1 4 ^ { 0 } – 1 2 5 ^ { 0 }$ (Fig. 3f). These are nearly identical to those of abiotic aragonite (Fig. lc). As growth advances,their top facets also show a similar hexagonal outline (Fig.3g).These facts indicate that the tablets are consistent with the crystallgraphy of abiotic aragonite.In other words,the ACC nanoparticles must be self-assembled in a way that is consistent with the crystallography of aragonite.However,how the nanoparticles are assembled in 3D space cannot be answered by only observing the granular tablets.
+
+# 3.3Morphology of the dendritic tablets
+
+On the inner surface of the shell,slightly far away from the shell edge,the immature tablets are usually crystaline with a few remaining ACC clusters. They are named dendritic tablets,whose morphology will be discussed in detail below.
+
+The earliest identifiable tablets,corresponding to the nuclei of the tablets,have rounded outlines in top views with diameter $< 1 1 0 ~ \mathrm { { n m } }$ (circles in Fig. 4a and 4b). In side views (inset in Fig. 4e), they look like beaded fibers where the ACC clusters are vertically stackedbut slightlydisplaced from each other.Inaddition,in larger tablets, some rounded clusters are also observed (white circles in Fig.4d-4e). Since these clusters show no faceted surfaces, they are predicted to be ACC clusters.
+
+As the dendritic tablets increase in size,they sequentially appear as pyramids (Fig. 4e- $. 4 \mathrm { g }$ ),frustums (Fig. 4h), and dome-caped prisms (Fig.4i-4j),similar to those of the granular tablets.However,surprisingly,they mainly consist of faceted crystallites,which have following features:
+
+(1) In top views,the crystalites appear as incomplete hexagons around and attached to the periphery of the preformed tablets (or cores)(Fig. 4a-4d). Moreover, these hexagons have interior angles of about $1 1 0 ^ { 0 } – 1 2 5 ^ { 0 }$ (inset in Fig.4a),which are similar to those of abiotic aragonite(Fig.lc).Inaddition,allhexagons inasame tablet have nearly identical orientations,which leads to that the tablet behavesasa single crystal and exhibits a dendritic (or snowflake-like) growth pattern. (2) In side or perspective views (Fig. 4e-4h),the crystalites appear as incomplete short prisms with shape similar to thatof abiotic aragonite (Fig.la). Importantly,all crystalltes are vertically oriented,similar to the ACC clusters (as mentioned above). (3) The crystallites have arbitrary size (height: $h = 9 0 { - } 2 6 4 \mathrm { n m }$ ; width: $w = 5 0 \mathrm { - } 1 5 0 \mathrm { n m }$ ),which is consistent with that of the ACC clusters (height: $h = 3 1 { - } 2 4 0 \mathrm { n m }$ ; width: $w = 3 5 \mathrm { - } 1 8 0 \mathrm { n m }$ ） (4) The crystalites around the periphery of the cores are usually suspended from the substrate (arrows in Fig. 4e-4f and 4h-4j),also similar to the ACC clusters.
+
+Based on above observations,we can infer that the crystalites should be transformed from the ACC clusters and inherit their 3D shapes, which are similar to the equilibrium shapes of abiotic aragonite.
+
+Finall,it should be noted thatthe top facet of the tabletis nota classical crystallographic facet,whichin fact are corrugated and made of top facets (probably {011}) of numerous crystalites (circle in Fig. 4h). With growth, the top facet is covered with the ILM which inhibits the vertical growth of the tablet.Interestingly,the ILM is composed of nanospheres of about $1 5 { - } 5 0 \mathrm { n m }$ in diameter (Fig. 4j), which is worth further exploration.
+
+![](images/e585b5f84d0314c5fe0f66dd2077e3f490e3abc003e6a482a59fee617de99d73.jpg)  
+Figure 4.(a)-(d) Top views of the dendritic (pyramidal) tablets with increasing size.(e)-(j) Side or perspective views of the dendritic tablets with increasing size.Please note that:(1) all scale bars are $5 0 0 \mathrm { n m }$ ; (2) for a better view,some crystallites are highlight with blue dashed lines; (3) $w$ and $h$ indicate the width and height of the crystallites, respectively; (4) $d$ means the diameter of the ACC nanoparticle clusters; (5) all samples are pristine.
+
+# 4 Discussion
+
+It is well known that,for nacreous tablets,their deposition rate (along the inner surface）decreases from the shell edge to the interior(Mao Che et al.,2O01).Therefore,if we assume that the lifetime (i.e.transformation time) of the ACC nanoparticles is constant in diferent positions ofthe inner surface,they willnotbe observed as the deposition rate of nanoparticles decreases to a certain critical value.Therefore,from the shell edge to the interior, the tablets sequentially exhibit granular and dendritic surface textures,between which the boundary is gradual.
+
+Recently there is increasing evidence that the nacre biomineralization proceeds via the ACC precursor phase, (for review,see Wolf et al.,2016). However,the detailed process has not been observed because ACC is often transient and quickly transformed.Fortunately,the dendritic tablet fills the gap between the granular and mature tablet,which allow us to observe the fullbiomineralization process of nacre,asschematically shown in Fig.5.The mostimportant is that the ACC nanoparticles are self-assembled into 3D vertical clusters and then transformed into aragonite crystallites with the equilibrium morphologyof abiotic aragonite.In this regard,the morphology of the tablets is not only controlled by the organic biopolymers but also by the crystallography of aragonite.
+
+Another interesting finding is that the apparent contact angle $( \theta )$ between the early tablet and substrate (or ILM) is unusually high $( 9 9 ^ { 0 } - 1 2 6 ^ { 0 } )$ . According to Young-Dupré's equation (Henry, 2005)
+
+$$
+\beta _ { \mathrm { { A B } } } ~ = ~ \gamma _ { \mathrm { { A } } } ~ \left( 1 + \cos \theta \right) = \left( 1 / 2 \right) \beta _ { \mathrm { { A A } } } ~ \left( 1 + \cos \theta \right)
+$$
+
+where $\beta _ { \tt A B }$ means the adhesion energy (bond strength) between the ACC nanoparticles and ILM, and $\gamma _ { \mathrm { _ A } }$ means the surface energy of the ACC nanoparticles (equivalent to the half of $\beta _ { \mathrm { A A } }$ ,the adhesion energy between the ACC nanoparticles themselves)，we can deduce that $\beta _ { \tt A B }$ is much smaller than $\beta _ { \mathrm { A A } }$ . This is to say，the ACC nanoparticles are more strongly bound to each other than to the ILM.In other Words,the ILM is non-wetting (or partial wetting)to the ACC nanoparticles.This unusual non-wettability of the ILM may have following effcts on the morphogenesis of the tablets:
+
+(1) It probably controls the morphologyof the nucleus of the tablet,which is observed to occur as a fiber of the ACC clusters (inset in Fig.4e).This is understandable because once the first nanoparticle is deposited on the ILM,the succeeding nanoparticles will be preferentially deposited on its periphery and not on the ILM.That is, the nanoparticles are forced to be organized vertically (Fig. 5a).
+
+(2)The non-wettability of the ILM probably limits the morphologyof the tablet after nucleation,namely, it drives the nanoparticles to be attachedon the peripheryofthe nucleus (or core)ofthe tablet,which therefore is able to template the self-assembly of the former.This ensures that each nanoparticle cluster is co-oriented with the nucleus (or core) of the tablet after transformation (Fig. 5b and 5c).
+
+(3)The non-wetability of the ILM probably limits the morphologyof the top facet of the tablet.That is to say, it inhibits the nanoparticles from depositing near the ILM(Fig.5d),so that the succeeding ACC cluster (crystalite) becomes gradually lower in level, thus forming a domed top facet.
+
+On the other hand,it should be noted that,although the newly-deposited ACC clusters (or crystalites）are observed to be suspended from the ILM(such as inFig.3band 4e),they willcome incontact with the latter with time,as schematically shown in Fig. 5d.
+
+Finally,both the granular and dendritic tablet show a similar size-dependent shape,which in turn appears as a pyramid,frustum,and dome-caped prism.This complex shape transition results fromthe strain energyaccumulated in the tablet, which has been detailed previously (Zhang, 2O16) and will not be repeated here.
+
+![](images/a3c65bfa7b682851156eea09904b2d05e16f6a107609a1dc8bcdaee37b5c3f82.jpg)  
+Figure 5.Schematic diagrams of crossections showing the growth process of the domed tablets.(a) Nucleation of the tablet,in which the ACC nanoparticlesare self-assembled into vertical clusters on the ILM (interlamellar membrane）and then transformed into an aragonite nucleus with the equilibrium morphology of abiotic aragonite, which serves as atemplate for the subsequent assembly of the ACC nanoparticles.(b)-(d) Growth of the tablet by addition of ACC clusters (crystalltes),during which the tablet sequentially appears as a pyramid (b),frustum (c) and dome-caped prism (d).Please note that: (1)the formation process of each crystalite is similar to that of the nucleus except that it is formed on the periphery of the nucleus or core and not on the ILM;(2) the ILM is composed of nanospheres of about $1 5 { - } 5 0 ~ \mathrm { n m }$ in diameter,and is non-wetting (or partial wetting） to the ACC nanoparticles; (3) the final mature tablet is an aragonite single crystal (not shown).
+
+# 5 Conclusion
+
+The domed nacre in $P .$ viridis shells shows a growth mode typical of classical sheet nacre, where the mature tablets are vertically stacked like a brick wall.Therefore,this domed nacre was defined as domed sheet nacre.
+
+From the shell edge to the interior,the tablets sequentially exhibit granular and dendritic surface textures, which are named granular and dendritic tablets，respectively.The former is characterized by containing ACC nanoparticles while the latter by containing aragonite crystallites.
+
+The nanoparticles are organized into vertical clusters atached to the periphery of the preformed nuclei or cores of aragonite. These clusters are then transformed into aragonite crystalites with the equilibrium morphology of abiotic aragonite.Moreover,inthesame tablet,each crystalitehas nearly identical orientation,which leads to that the tablet behaves as a single crystal and exhibits a dendritic growth pattern.
+
+# Acknowledgements
+
+We appreciate the financial support of the National Natural Science Foundation of China (Grant No. 41262003).
+
+# References
+
+Addadi,L., Joester,D.,Nudelman,F., Weiner,S.,20o6.Mollusk shellformation: asource of new concepts for understanding biomineralization processes. Chem. Eur. J.12, 980-987.   
+Blackwell,JF.,Gainey Jr,L.F.,Greenberg,M.J.,977.Shellultrastructure intwosubspeciesof theribbedmussel, Geukensia demissa (Dillwyn, 1817). Biol. Bull.152,1-11.   
+Carter,J.G.,Harres,P.J.,Malchus,N.,Sartori,A.F.,Anderson,L.C.,Bieler,R.,Bogan,A.E.,Coan,E.V.,Cope. J.C.W.,Cragg,S.M, Garcia-March, J.R., Hylleberg, J., Kelley,P.,Kleemann,K., Kriz,J.,，McRoberts,C.. Mikkelsen,P.M.,Pojeta Jr.,J.,Temkin,I.,Yancey,T.,Zieritz,A.,2012. Ilustrated glossaryoftheBivalvia. Treatise Online 48,1-209.   
+de Leeuw,N.H.,Parker, S. C.,1998. Surface structure and morphology of calcium carbonate polymorphs calcite, aragonite,and vaterite: an atomistic approach.J.Phys. Chem. B 1O2, 2914-2922.   
+Feng, Q.L., Cui,F.Z.,Pu,G., Wang,R.Z.,Li,H.D.,20o. Crystal orientation, toughening mechanisms and a mimic of nacre. Mater. Sci. Eng. C11,19-25.   
+Gower,L.B.,2Oo8.Biomimetic model systems for investigating the amorphous precursor pathway and its role in biomineralization. Chem. Rev.108, 4551-4627.   
+Henry, C.R., 2005. Morphology of supported nanoparticles.Prog. Surf. Sci. 80, 92-116.   
+Mao Che,L.,Golubic,S.,Le Campion-Alsumard,T.,Payri, C.,20o1.Developmental aspects of biomineralisation in the Polynesian pearl oyster Pinctada margaritifera var. cumingii. Oceanol. Acta 24, S37-S49.   
+Mukai,H., Saruwatari, K., Nagasawa, H., Kogure,T., 2Olo. Aragonite twinning in gastropod nacre. J. Cryst. Growth 312,3014-3019.   
+Nakahara,H.,1991.Nacre formation in bivalve and gastropod mollusks.In: Suga,Nakahara,(Eds.),Mechanisms and Philogeny of Mineralization in Biological Systems. Springer-Verlag, Tokyo.   
+Rousseau, M.,Lopez,E., Coute,A.,Mascarel, G.,Smith,D.C.,et al.,20o5. Sheet nacre growth mechanism: a Voronoi model. J. Struct. Biol. 149,149-157.   
+Sekkal,W.,Zaoui,A.,2O13. Nanoscale analysis of the morphology and surface stability of calcium carbonate polymorphs. Sci. Rep.3,1587.   
+Taylor,J.D.，Kennedy，W.J.，Hall,A.，1969.The shell structureand mineralogy of the Bivalvia.Introduction. Nuculacea-Trigonacea. Bull.Br. Mus. Nat. Hist. Zool. Suppl. 3,1-125.   
+Wada,K.,1972. Nucleation and growth of aragonite crystals in the nacre of some bivalve moluscs. Biomineralization 6,141-159.   
+Wolf,S.E.,Bohm,C.F.,Haris,J.,Demmert,B.,Jacob,D.E.,Mondeshki,.,uiz-Agudo,E,Rodriguez-Nvro, C.，2016.Nonclassical crystalization in vivo et in vitro (I):process-structure-property relationships of nanogranular biominerals.J. Struct. Biol.196, 244-259.   
+Xu, J.,Zhang, G.,2015. Unique morphologyand gradient arrangement of nacre's platelets in green mussel shels. Mater. Sci. Eng.,C 52,186-193.   
+Yao,N.,Epstein,A.,Liu, W.W.,Sauer,F.,Yang,N.,2oo9.Organic-inorganic interfaces and spiral growth in nacre. J.R. Soc.Interface 6,367-376.   
+Yoshimi, K.,Shoji,M.,Ogawa,T.,Yamauchi,A.,Naganuma,T.,MuramotoK.,Hanada,S.,2O4.Microstructure and orientation distribution of aragonite crystals in nacreous layer of pearl shells.Mater.Trans.45,999-1004.   
+Zhang, G.,Xu,J.,2O13.From coloidal nanoparticles toa single crystal: new insights into theformation of nacre's aragonite tablets.J. Struct. Biol.182, 36-43.   
+Zhang,G.,2O16.Biomineralization on the wavy substrate: shape transition of nacreous tablets from pyramids of amorphous nanoparticles to dome-capped prisms of single crystals. Acta Biomater. 36,277-285.

@@ -1,0 +1,221 @@
+# 基于最优训练期的PP与MOS的风电功率趋势预报对比
+
+王丹¹²，高红燕¹，杨艳超¹，李博³，屈直¹，浩宇¹（1.陕西省气象服务中心,陕西 西安710014；2.秦岭和黄土高原生态环境气象重点实验室,陕西西安710014；3.国华投资陕西分公司，陕西 榆林719000)
+
+摘要：利用某一风电场区域内33台风机观测资料以及欧洲中期天气预报中心(ECMWF)的 $1 0 0 \mathrm { m }$ 高度风速预报产品，引进最优训练期方案，通过一元线性回归方法先对模式的 $1 0 0 \mathrm { m }$ 高度风速预报进行订正，再分别采用完全预报方法(PP法)和模式输出统计预报方法(MOS法)进行风电功率预报的对比研究。结果表明：ECMWF的 $1 0 0 \mathrm { m }$ 高度风速预报值与风机轮毂高度处风速观测值之间的偏差并不大，订正后的预报误差进一步减小。将订正后的风速预报代入PP法和MOS法建立的风电功率预报方程，可以显著减小PP法的预报误差，但是并没有改进MOS法的预报结果。与利用风速预报订正产品进行风电功率预报的PP法相比，MOS法可以省去风速预报的订正环节而略胜一筹，简化了业务流程。这2种方法计算的33台风机站 $3 { \sim } 7 2 \mathrm { ~ h ~ }$ 预报的均方根误差和平均绝对误差分别在 $1 7 \% \sim 2 5 \%$ 和 $1 1 \% \sim 1 8 \%$ 之间，具有业务应用价值。
+
+关键词：风电场；风电功率预报；最优训练期；MOS方法；PP方法文章编号：
+
+在全球气候变暖和能源日趋紧张的背景下，风力发电已成为世界上最引人注目的新型能源[1-2],然而风能资源存在较大的间歇性和波动性，大规模的风电接入会影响电力系统的安全和稳定运行[3-4],因此，准确的风速和风电功率预测是保障电能质量和风电合理调配的迫切需求[5]。
+
+风电功率与风速的三次方成正比，对不同区域风速的变化规律进行分析[7-9],对做好风能资源评估具有重要意义，而风电功率预测系统的核心部分就是对风的预报。数值天气预报是风电场风速预报的主要支撑手段，美国大气研究中心和滨州大学研发的MM5（Mesoscalemodel）丹麦的KAMM(Karl-sruhe atmospheric mesoscale model）、美国国家海洋和大气管理局的RAMS(Regional atmospheric model-lingsystem)和美国国家大气研究中心的WRF(Theweather research and forecasting model)等中尺度数值模式在风电场风速预报中发挥了重要作用[10-13],但是很多省、市级气象部门不具备直接获取中尺度数值模式产品的能力，给电力气象服务工作带来了较大困难。
+
+ECMWF是气象部门常用的具有较高预报水平的全球数值模式[14],可以提供 $1 0 0 \mathrm { m }$ 高度（比较接近风机轮毂高度)的风速预报，然而目前利用该模式产品进行风电场风速和功率预测的研究还比较少见。在数值天气预报中，近地面风的预报难度远远高于具有高连续性变化的温度的预报，这主要因为近地面风不满足地转平衡，除受大尺度的系统性天气影响外，还受地形、下垫面热动力作用以及边界层中夹卷过程的影响，具有较强的局地性、瞬变性和间歇性[15]，因此，无论何等分辨率的数值模式产品都很难精确到具体描述风机风场的变化。数值模式预报结合统计订正是提高风速预报准确率的常用方法,如人工神经网络[9]、支持向量机[16-17]、最小二乘法[18]、卡尔曼滤波[3.13]以及相似误差订正[19]等。一元线性回归方法作为最常用的统计方法之一,近年来被气象部门广泛应用于气温预报业务[20-21],
+
+# 干吴区地理
+
+但是在风速预报业务中的应用并不多见。利用统计方法建立预报方程时，可以采用最优训练期来提高预报质量，当训练期短于最优训练期长度时，预报误差并未达到最小，而超过此训练期长度后，预报误差并没有很大的降低，反而由于训练期的增长增加了计算量和计算时间[22]。吴启树等[23]利用最优训练期方案，显著提高了一元线性回归方法对模式气温预报的订正能力。但是一元线性回归方法也有局限性，一方面，如果预报对象和预报因子之间的相关性不显著，则统计预报结果不会太理想，另一方面，统计预报结果的精细化水平决定于预报因子的数据分辨率。
+
+完全预报方法(PP法)和模式输出统计预报方法(MOS法)是2种比较常用的数值预报产品使用方法。PP法利用历史资料中预报因子的观测资料与同时间的预报对象建立统计关系，而MOS法利用历史资料中预报因子的数值预报产品，与预报时效对应时刻的预报对象建立统计关系，在预报时，这两种方法都将预报因子的数值预报结果代人所建立的预报方程做出预报。PP法的预报结果除了包含建立统计方程时的拟合误差外，还包含数值预报模式的误差，而MOS法将数值预报模式的误差及局地气候影响等因素直接统一到建立预报方程的拟合误差中，从而减少了误差源[24]。如果先对模式的风速预报进行订正，再代入PP法和MOS法建立的风电功率预测模型，无疑可以减小PP法的风电功率预报误差，但是否一定会减小MOS法的预报误差呢？另外，利用MOS法建立的风电功率预报方程是否一定优于PP法呢？
+
+本文利用ECMWF的 $1 0 0 \mathrm { m }$ 高度风速预报，插值得到风机位置的风场预报，然后采用基于最优训练期的一元线性回归方法订正风速预报场，最后通过PP法和MOS法进行风电功率预报的对比研究。ECMWF的 $1 0 0 \mathrm { ~ m ~ }$ 高度风速预报是逐 $3 \mathrm { ~ h ~ }$ 或者 $6 \mathrm { ~ h ~ }$ 间隔的，与电力生产调度上逐 $1 5 ~ \mathrm { m i n }$ 间隔的预报要求有较大差距，但是可以用来预测风电场的风速趋势，并且本研究旨在提供一种将模式的风速预报合理应用到风能预报业务的有效方法，如果以更高分辨率的模式产品作为研究资料，则可以得到更高分辨率的风速和风电功率预测产品。
+
+31日陕西省某一风电场区域内1台测风塔的 $8 0 \mathrm { ~ m ~ }$ 风向观测和33台风机的风速、有功功率观测，风机轮毂高度为 $8 0 \mathrm { ~ m ~ }$ ,额定功率为 $1 5 0 0 \mathrm { k W }$ ,额定风速为$1 0 \mathrm { m } \cdot \mathrm { s } ^ { - 1 }$ ，切入风速为 $3 \mathrm { m } \cdot \mathrm { s } ^ { - 1 }$ ，切出风速为 $2 0 \mathrm { m } \cdot \mathrm { s } ^ { - 1 }$ ,数据采集频率为 $5 \mathrm { m i n }$ 。为了保证研究结果的可靠性，剔除风机观测资料中的明显不合理值[12],主要包括剔除风速大于 $5 \ \mathrm { m } \cdot \mathrm { s } ^ { - 1 }$ 而有功功率小于 $5 0 \mathrm { ~ k W }$ 的时刻的观测值；剔除有功功率大于额定功率 $1 5 0 0 \mathrm { ~ k W }$ 时刻的观测值。
+
+模式资料采用2016年1月1日—2018年12月31日ECMWF的 $1 0 0 \mathrm { ~ m ~ }$ 高度上东西风 $( U )$ 和南北风$( V )$ 的预报。由于ECMWF数据传输至业务系统的时间比起报时间滞后 $6 \mathrm { ~ h ~ }$ 以上，因此,采用比起报时间提前 $^ { 1 2 \mathrm { ~ h ~ } }$ 的预报，即采用前一日20:00(当日08:00)起报的 $1 5 { \sim } 2 4 0 \ \mathrm { h }$ 的风速，制作当日08:00(20:00)起报的 $3 { \sim } 2 2 8 \mathrm { ~ h ~ }$ 的风机轮毂高度处的风速和风电功率，预报时效为 $3 { \sim } 6 0 \mathrm { ~ h ~ }$ 逐 $^ 3 \mathrm { ~ h ~ }$ 间隔、 $6 6 { \sim } 2 2 8 \mathrm { ~ h ~ }$ 逐 $6 \textup { h }$ 间隔，水平分辨率为 $0 . 1 2 5 ^ { \circ } \times 0 . 1 2 5 ^ { \circ }$ 。由于分辨率不够精细，ECMWF模式不适用于复杂地形，而该风电场的场址区海拔高度约 $1 4 0 0 \mathrm { ~ m ~ }$ ,为黄土塬和丘陵地貌，场地较为开阔，地势起伏不大(图1)，为本文采用ECMWF的 $1 0 0 \mathrm { ~ m ~ }$ 高度风速预报作为研究资料提供了依据。
+
+![](images/c6812a1c6dcc08fc1785b16b01bb04789b574ccf64eb85985e9ca843da8a3e78.jpg)  
+图1风电场及其周边地区的海拔高度、ECMWF的格点和风机站的位置分布示意图  
+Fig.1 Altitude of the wind farm and its surround area, and location distributions of wind turbines and lattice pointsof the ECMWF mode
+
+# 1资料与处理
+
+观测资料来自2016年1月1日—2018年12月
+
+为了使观测资料与模式资料相匹配，对研究资料进行如下处理：(1）利用模式的 $1 0 0 \mathrm { m }$ 高度上东西风 $( U )$ 和南北风 $( V )$ 的预报，通过公式 $\mathrm { W S } = \sqrt { { U } ^ { 2 } + { V } ^ { 2 } }$ 计算得到 $1 0 0 \mathrm { ~ m ~ }$ 高度全风速(WS,单位 $\mathbf { m } \cdot \mathbf { s } ^ { - 1 }$ 预报；（2）采用双线性插值方法25将模式的格点值插值到站点上，即，每个风机站的值都通过周围4个格点值在纬向和经向方向分别进行一元一次线性插值后得到，模式的格点和33台风机的位置分布如图1所示；（3）将观测资料处理为与模式的预报时效相匹配的定时资料，例如，2017年1月1日08:00起报的$3  { \mathrm { ~ h ~ } } , 6  { \mathrm { ~ h ~ } } , 1 2  { \mathrm { ~ h ~ } }$ 等预报时效的风速预报，与2017年1月1日11:00、14:00、17:00等整点时刻的风速观测值相对应，其它预报时效依此类推。
+
+# 2 研究方法
+
+# 2.1一元线性回归方法
+
+利用模式预报和风电场观测资料，计算得到模式的风速预报值与风机的风速和输出功率观测值的相关系数分别为0.47和0.48，通过了 $9 5 \%$ 的显著性检验，为利用一元线性回归方法进行风电场的风速和输出功率预测提供了理论依据。由于预报服务人员开始制作预报时，预报日前1天的实况资料不全，因此，训练样本采用预报日前1天之前的 $N$ d(训练期长度)资料，随预报日滑动取样。在训练期，分别针对每台风机站建立各预报时次的风机轮毂高度处的风速或者风电功率预报的一元线性回归方程：
+
+$$
+y = a x + b
+$$
+
+式中： $y$ 为预报对象； $x$ 为预报因子；当训练样本数 $\cdot > 4$ 时，通过最小二乘法计算斜率 $( a )$ 和截距 $( b )$ O
+
+# 2.2最优训练期及其评估周期
+
+以 $1 0 { \sim } 1 0 0 \mathrm { ~ d ~ }$ 逐日作为训练期日数 $( N )$ ，以一段时期作为最优训练期的评估周期，根据该评估周期内33台风机的 $3 { \sim } 2 2 8 \mathrm { ~ h ~ }$ 风速(或者风电功率)预报的均方根误差随训练期日数的变化，确定最优训练期日数 $( N ^ { \prime } )$ 。由于需要100d(最大的训练期日数)的前置历史资料作为训练期，因此，对于风速预报，2016年1月1日一4月10日的数据只能作为训练期数据，实际的风速预报从2016年4月11日开始，风电功率预报是在风速预报的基础上开展的，对于风电功率预报，2016年4月11日一7月19日的数据只能作为训练期数据，实际的功率预报从2016年7月20日开始。
+
+最优训练期日数 $N ^ { \prime }$ 应该是预报日前给定的。本文设计了5种在预报日前利用不同评估周期滑动确定最优训练期日数的方案(表1)，由于需要365d(最大的评估周期)的前置历史资料作为最优训练期日数的评估周期，风速预报和风电功率预报的检验分别从2017年4月11日和7月20日开始。将2017年7月20日之后的数据分为2017年7月20日—2018年2月28日和2018年3月1日—12月31日两部分，前者用来对方案1\~5的风速(风电功率)预报效果进行评估，从而选出最佳的评估周期方案，后者用来对最佳评估周期方案下的风速(风电功率)预报效果进行检验。
+
+# 表1最优训练期的评估周期方案
+
+Tab.1 Evaluation cycle schemes of the optimal training period   
+
+<html><body><table><tr><td>方案</td><td>评估周期</td></tr><tr><td>1</td><td>预报日前1天之前的365d(1年)</td></tr><tr><td>2</td><td>预报日前1天之前的182d(6个月)</td></tr><tr><td>3</td><td>预报日前1天之前的91d(3个月)</td></tr><tr><td>4</td><td>预报日前1天之前的30d(1个月)</td></tr><tr><td>5</td><td>预报日前1天之前的10d</td></tr></table></body></html>
+
+# 2.3风速预报订正方法和检验指标
+
+逐预报时次滑动取预报日前1天之前最优训练期（ $N ^ { \prime }$ )的风速预报和观测资料作为训练样本，利用一元线性回归方法，分别针对每台风机站建立风速预报订正方程，将模式的 $1 0 0 \mathrm { ~ m ~ }$ 高度风速预报订正到风机轮毂高度上。当风速预报的订正值 $_ { < 0 }$ 时，令订正值为0。为了客观评估本文对模式 $1 0 0 \mathrm { m }$ 高度风速预报的订正效果，风速预报的检验指标不仅包括平均绝对误差( $\dot { V } _ { \mathrm { M A E } } )$ ）、均方根误差( $V _ { \mathrm { R M S E } } .$ )和订正结果相对模式改善百分比(PM，以下简称风速改善百分比），还包括系统误差(SYS_E)和随机误差(RAN_E)[26]，计算公式如下：
+
+$$
+V _ { \mathrm { { M A E } } } = \frac { 1 } { n } \sum _ { i = 1 } ^ { n } \left| \boldsymbol { y } _ { f _ { i } } - \boldsymbol { y } _ { o _ { i } } \right|
+$$
+
+$$
+V _ { _ { \mathrm { R M S E } } } = { \sqrt { { \frac { 1 } { n } } \sum _ { i = 1 } ^ { n } \left( y _ { f _ { i } } - y _ { o _ { i } } \right) ^ { 2 } } }
+$$
+
+$$
+\mathrm { P M } = \frac { V _ { \mathrm { M A E _ { \mathrm { b } } } } - V _ { \mathrm { M A E _ { \mathrm { a } } } } } { V _ { \mathrm { M A E _ { \mathrm { b } } } } } \times 1 0 0 \%
+$$
+
+$$
+\mathrm { S Y S \_ E } = \sqrt { \frac { 1 } { n } \sum _ { i = 1 } ^ { n } \left( y _ { f _ { i } } - y _ { o _ { i } } \right) ^ { 2 } }
+$$
+
+$$
+\mathrm { R A N \_ E } = \sqrt { \frac { 1 } { n } \sum _ { i = 1 } ^ { n } \biggl [ \Bigl ( y _ { f _ { i } } - y _ { o _ { i } } \Bigr ) - \frac { 1 } { n } \sum _ { i = 1 } ^ { n } \Bigl ( y _ { f _ { i } } - y _ { o _ { i } } \Bigr ) \biggr ] ^ { 2 } }
+$$
+
+式中： $\boldsymbol { y } _ { f _ { i } } \setminus \boldsymbol { y } _ { o _ { i } }$ 分别指第 $i$ 次预报的预报值和观测值，预报对象为风速； $n$ 为参与检验的总预报次数；VMAE、VMAE分别指风速预报订正前、后的平均绝对误差； $\mathrm { P M } { > } 0 ( \mathrm { P M } { < } 0 ) ,$ 表明订正效果为正(负）。
+
+# 2.4风电功率预报方法和检验指标
+
+逐预报时次滑动取预报日前1天之前最优训练期（ $N ^ { \prime }$ )的风机功率观测和风速观测(或者风速预报)资料作为训练样本，基于一元线性回归方法，利用PP法(或者MOS法)建立每一台风机站的功率预测方程，将订正前、后的风速预报分别代人预报方程制作风电功率预报，预报产品分别记作PP1、PP2（或者MOS1、MOS2)。参考《Q/GDW10588—2015风电功率预测功能规范》，风电功率预报的检验指标包括平均绝对误差( $( P _ { \mathrm { M A E } } )$ 和均方根误差（ $\mathrm { ' } P _ { \mathrm { R M S E } } ,$ ，计算公式如下：
+
+$$
+P _ { \mathrm { { _ { M A E } } } } = \frac { 1 } { n } { \sum _ { i = 1 } ^ { n } } \left( \frac { \left| y _ { f _ { i } } - y _ { o _ { i } } \right| } { S _ { \mathrm { { o p } } } } \right)
+$$
+
+$$
+P _ { _ { \mathrm { R M S E } } } = \frac { \sqrt { \displaystyle { \frac { 1 } { n } \sum _ { i = 1 } ^ { n } \left( y _ { f _ { i } } - y _ { o _ { i } } \right) ^ { 2 } } } } { S _ { _ { \mathrm { o p } } } }
+$$
+
+式中： $\boldsymbol { y } _ { f _ { i } } \setminus \boldsymbol { y } _ { o _ { i } }$ 分别指第 $i$ 次预报的预报值和观测值，预报对象为风电功率； $S _ { \mathrm { o p } }$ 为风机场的开机总容量； $n$ 为参与检验的总预报次数。
+
+# 3风速预报订正结果
+
+# 3.1最优训练期的确定
+
+利用最优训练期的评估周期方案1\~5，分别将2017年7月20日—2018年2月28日模式的 $1 0 0 \mathrm { m }$ 高度风速预报订正到风机轮毂高度上。从最优训练期日数来看(图2)，方案5的稳定性最差，这与较短周期确定的评估周期容易受转折性天气过程的影响有关[23]。但是从均方根误差来看(图3),方案5订正后的风速预报的均方根误差最小。另外，本文还参考文献[23]中的最优训练期方案，分别以1年、6个月、3个月和1个月作为评估周期(M)，应用上1年逐M的预报评估确定该年逐M的最优训练期日数，对模式的风速预报进行订正，并与方案5的风速预报作比较，研究结果再次表明方案5的预报误差最小，与文献[23]研究认为以较短周期为评估周期滑动确定的最优训练期不能进一步提高气温预报效果的结论相反，这可能因为本文的订正对象为风速预报，而气温和风速是2种变化特征截然不同的气象要素。
+
+![](images/161438501a2824d84b2c9d0a08b40f58d6f3929509f711067c4bbdfdb95d6442.jpg)  
+图22017年7月20日—2018年2月28日风速预报订正的逐日最优训练期日数  
+Fig.2 Daily optimal training days for correcting wind speed forecast from $2 0 ^ { \mathrm { t h } }$ July 2017 to $2 8 ^ { \mathrm { t h } }$ February 2018
+
+# 3.2预报误差分析
+
+利用方案5逐日滑动确定最优训练期日数，对2018年3月1日—12月31日风电场33台风机站的风速进行预报并检验，图4是08:00起报的33台风机站平均风速预报的检验结果(20:00起报的图略）。从图 $4 \mathrm { a } { \sim } \mathrm { b }$ 来看，模式的 $1 0 0 \mathrm { ~ m ~ }$ 高度风速预报值虽然比风机轮毂高度处的风速观测值偏大一些，但是却可以较好地预报出风速的日变化和逐月变化趋势，订正后的风速预报误差显著减小，预报值和观测值的变化曲线几乎重合。从图4c\~f来看， $3 \sim$ $2 2 8 \mathrm { h }$ 预报时效，模式的风速预报的系统误差和随机误差分别从订正前的 $0 . 9 { \sim } 1 . 6 \ \mathrm { m } { \cdot } \mathrm { s } ^ { - 1 }$ 和 $1 . 9 { \sim } 3 . 7 \ \mathrm { m } { \cdot } \mathrm { s } ^ { - 1 }$ 降低为订正后的 $0 . 0 { \sim } 0 . 1 \ \mathrm { m } { \cdot } \mathrm { s } ^ { - 1 }$ 和 $1 . 6 { \sim } 2 . 6 ~ \mathrm { m } { \cdot } \mathrm { s } ^ { - 1 }$ ,均方根误差和平均绝对误差分别从订正前的 $2 . 2 { \sim } 3 . 9 \ \mathrm { m } \cdot \mathrm { s } ^ { - 1 }$ 和 $1 . 7 { \sim } 3 . 2 \ \mathrm { m } \cdot \mathrm { s } ^ { - 1 }$ 降低为订正后的 $1 . 6 { \sim } 2 . 6 \ \mathrm { m } \cdot \mathrm { s } ^ { - 1 }$ 和$1 . 2 { \sim } 2 . 1 \ \mathrm { m } \cdot \mathrm { s } ^ { - 1 }$ 。从图 $4 \mathrm { g }$ 来看，订正前,风速预报的误差主要出现在 $- 2 . 0 { \sim } 0 . 0 \ \mathrm { m } \cdot \mathrm { s } ^ { - 1 }$ 、 $0 . 0 { \sim } 2 . 0 \ \mathrm { m } \cdot \mathrm { s } ^ { - 1 }$ 和 $2 . 0 \sim$ $4 . 0 \ \mathrm { m \cdot s ^ { - 1 } }$ ,出现概率分别为 $2 1 \% . 3 1 \%$ 和 $2 4 \%$ ,正误差(预报值大于观测值)比例为 $6 9 \%$ ;订正后，风速预报误差主要出现在 $- 2 . 0 { \sim } 0 . 0 \ \mathrm { m } \cdot \mathrm { s } ^ { - 1 }$ 和 $0 . 0 { \sim } 2 . 0 \ \mathrm { m } \cdot \mathrm { s } ^ { - 1 }$ 出现概率分别为 $3 2 \%$ 和 $3 7 \%$ ，正误差比例为 $5 3 \%$ ，订正后的预报误差和正、负误差比例之间的差距都小于订正前。从图4h来看，订正后的风速改善百分比在 $2 4 \% { \sim } 4 1 \%$ 之间，1日中，风速改善百分比的极大值和极小值分别出现在中午和凌晨,与风速预报值与观测值的相关系数的极大值和极小值的出现时段一致。图5进一步检验了逐台风机站的风速预报订正效果,结果表明,33台风机站的风速预报误差均得到了明显改善， $3 { \sim } 7 2 \mathrm { ~ h ~ }$ 预报的平均绝对误差从订正前的 $1 . 8 { \sim } 2 . 4 ~ \mathrm { m } { \cdot } \mathrm { s } ^ { - 1 }$ 降低为订正后的 $1 . 2 { \sim } 1 . 6 \ \mathrm { m } { \cdot } \mathrm { s } ^ { - 1 }$ 风速改善百分比在 $12 \% { \sim } 5 0 \%$ 之间，在风速预报误差越大的风机站改善效果越好。下面将采用方案5逐日滑动确定最优训练期日数，对2016年4月11日—2018年12月31日风电场33台风机站上的模式风速预报进行订正,然后将订正结果作为风电功率预报的研究资料。
+
+![](images/6607b031d3e1d66b8609b775a4b8ffa990390c06bdfcdd623838e20f14f5e206.jpg)  
+图32017年7月20日—2018年2月28日风速预报订正前、后的均方根误差
+
+![](images/5942f70afff6eb9d2e3ce01a2ad4742568a577c9242b00b122fc7c3f384bcc66.jpg)  
+Fig.3 Root mean square error of wind speed forecast before and after correction from $2 0 ^ { \mathrm { t h } }$ July 2017 to $2 8 ^ { \mathrm { { t h } } }$ February 2018   
+图42018年3月1日—12月31日08:00起报的33台风机站平均的风速预报值与观测值的对比及预报误差分析 Fig.4 Comparison between observation and prediction of wind speed from O8:00o BST and the analysis of its forecast error at 33 wind turbines from $1 ^ { \mathrm { s t } }$ March to $3 1 ^ { \mathrm { t h } }$ December 2018
+
+# 4风电功率预报结果分析
+
+# 4.1最优训练期的确定
+
+分别利用最优训练期的评估周期方案1\~5，采用PP法和MOS法制作2017年7月20日—2018年2月28日的风电功率预报产品PP1、PP2和MOS1、MOS2，并检验最优训练期日数和均方根误差。以MOS1为例(图6)，方案1\~5逐日滑动确定的最优训练期日数的不稳定性随着评估周期的变短而增强，但是方案1\~5的均方根误差几乎重合。可见，以较长周期为评估周期滑动确定的最优训练期的稳定性虽然优于较短周期，但是并不能进一步提高预报效果。针对PP1、PP2和MOS2做如上分析，所得结论与MOS1一致。由于方案5需要的训练样本最少，有利于业务化应用，所以将方案5作为最优训练期的最佳评估周期方案，制作2018年3月1日一12月31日各风机站的风电功率预报产品PP1、PP2和MOS1、MOS2。
+
+![](images/b0dc5d2fee8e1451a1c862f8cd902df7f5e77d37c5f60e50b20a5981aef13a5b.jpg)  
+图52018年3月1日—12月31日08:00起报的各风机站 $3 { \sim } 7 2 \mathrm { ~ h ~ }$ 风速预报订正前、后的平均绝对误差和风速改善百分比  
+Fig.5Mean absolute error of wind speed prediction before and after correction and the percentage of improvement in root mean square error ofwind speed forecast after correction during 3 to 72 forecast hours form O8:0o BST in different wind turbines from $1 ^ { \mathrm { s t } }$ March to $3 1 ^ { \mathrm { { t h } } }$ December 2018
+
+# 4.2预报误差分析
+
+图7对比检验了2018年3月1日—12月31日08:00起报的PP1、PP2、MOS1和MOS2的平均功率预报(20:00起报的图略），该平均功率预报值通过将33台风机在同一预报时效的功率相加后除以风机台数得到。从图7a\~b来看，PP1、PP2、MOS1和MOS2都可以较好地预报出风电场功率输出的日变化和逐月变化趋势，但是PP1的预报值明显大于观测值，这与订正前的模式 $1 0 0 \mathrm { ~ m ~ }$ 高度风速预报值大于风机轮毂高度处的风速观测值有关，而PP2、
+
+120 (a)方案1 120 (b)方案2   
+P ¥60 30 30 2 2 2 2 2 3   
+2017-07-20 2017- 品 2017- 2017-10-2 2017-11-20 2017-12-20 2018-01-20 2018-02-28 2017-07-20 20171 8 2017-09- 2017-10-2 2017-11-20 2017-12-20 2018- 3-01-20 2018- 3-02-28 日期(年-月-日) 日期(年-月-日) 120 (c)方案3 120 (d)方案4 4 香 N M 60 30 30 2 2 2 2   
+2017-07-20 8 3 2017-10-20 2017-11-20 2017-12-20 2018-01-20 2018-02-28 2017-07-20 2017-08- 2017-09- 2017-10-2 2017-11-20 2017-12-20 2018-01-20 2018-02-28 2017- 2017- 日期(年-月-日) 日期(年-月-日) 120 (e)方案5 (f)均方根误差 方案1 方案4   
+P/ %/ 30 方案2 方案5 90 120 方案3 60 wWW 30 10 2 2 2 2 2 15 30 45 60 90 120 150 180 210   
+2017-07-20 8 0 2017-11-20 3-01- 2018-02-28 预报时效/h 2017-10-2 2017-12-2 2017- 2017- 2018- 日期(年-月-日)
+
+MOS1和MOS2的预报曲线与观测曲线几乎重合。从图 $7 \mathrm { c } \mathrm { \sim } \mathrm { e }$ 来看， $3 { \sim } 2 2 8 \mathrm { ~ h ~ }$ 预报时效，PP2、MOS1和MOS2的均方根误差均为 $1 6 \% { \sim } 3 1 \%$ ,平均绝对误差依次为 $10 \% { \sim } 2 5 \%$ ） $10 \% { \sim } 2 5 \%$ 和 $10 \% { \sim } 2 6 \%$ ,绝对误差$\leq 2 0 \%$ 的概率依次为 $6 8 \%$ 、 $6 8 \%$ 和 $67 \%$ 。另外，这4种风电功率预报产品的误差极大值(极小值)都出现在上午(凌晨），与风速预报误差的极大值(极小值)的出现时段一致。从以上数据来看，先对模式的 $1 0 0 \mathrm { ~ m ~ }$ 高度风速预报进行订正，再代入PP法和MOS法建立的风电功率预报方程，可以显著减小PP法的预报误差，但是并没有改进MOS法的预报结果。与利用风速预报订正产品进行风电功率预报的PP法相比，MOS法可以省去风速预报的订正环节而略胜一筹，简化了业务流程。
+
+站的功率预报效果。从图8来看，MOS1的风电功率预报值随风机站号的变化趋势与观测值一致， $3 { \sim } 7 2 \mathrm { ~ h ~ }$ 预报的均方根误差和平均绝对误差分别在 $1 7 \% \sim$ $2 5 \%$ 和 $1 1 \% \sim 1 8 \%$ 之间，预报值和观测值偏大的站预报误差也偏大一些。对PP2和MOS2做如上分析，所得结论与MOS1一致。EWind和Prediktor在美国同时为2个大型风电场发布的风电功率预报的平均绝对误差分别为 $14 \% \sim 2 2 \%$ 和 $1 4 \% \sim 1 8 \%$ ，孙川永[12]利用神经网络方法计算的整个风电场 $^ { 7 2 \mathrm { ~ h ~ } }$ 风电功率预报的均方根误差在 $2 1 \% \sim 2 4 \%$ 之间，与以上研究相比，PP2、MOS1和MOS2的预报误差并不大，具有业务应用价值。
+
+# 5讨论
+
+图8以08：00起报的MOS1为例，检验了各风机本文的风电功率预报主要考虑了风速的影响，
+
+1250 1250 (a)日变化 P测报值 MOS1预报值 (b)逐月变化—P预报值 MOS1预报值 750 PP2预报值 750 PP2预报值 500 500 250 250 02:0005:00 08:0011:0014:0017:00 20:00 23:00 3 4 5 6 7 8 9 10 11 12 时刻 月份   
+%/ 605040 (c)均方根误差 PP1 MOS1 %/本 5040 (d)平均绝对误差 PP1 MOS1 30 30 20 20 10 10 15 30 45 6090 120 150 180 210 15 30 45 6090120150 180 210 预报时效/h 预报时效/h 100   
+%/率用 75 (e)功率预报在不同误差范围的出现概率 PP1 MOS1 50 PP2 MOS2 25 0 (0,20] (20,50] (50,100] 绝对误差/m's-1
+
+![](images/3347accf6f568498c81283dee366153cb85312c22a0fc626e2ef1dd012454ad1.jpg)  
+图72018年3月1日—12月31日08:00起报的33台风机站的平均功率预报值与观测值的对比及预报误差分析 Fig.7 Comparison between observation and prediction of wind power from 08:00 BST and the analysis of its forecast error at 33 wind turbines from $1 ^ { \mathrm { s t } }$ March to $3 1 ^ { \mathrm { { t h } } }$ December 2018   
+图82018年3月1日—12月31日08:00起报的 $3 { \sim } 7 2 \mathrm { ~ h ~ }$ 风电功率预报的逐台风机站检验 Fig.8Quality test of wind power forecast during 3 to 72 forecast hours from $8 { : } 0 0 ~ \mathrm { B S T }$ in different wind turbines from $1 ^ { \mathrm { s t } }$ March to $3 1 ^ { \mathrm { t h } }$ December 2018
+
+而风机功率输出还与空气密度密切相关，但空气密度比风速对风机功率输出的影响小得多，并且该风电场 $8 2 \%$ 的观测时刻的空气密度与其多年平均值的相对偏差小于 $5 \%$ 。因此本文在进行风电功率预报时，空气密度默认为当地观测的多年平均值，不再单独考虑空气密度变化对风电功率预报结果的影响。风向也是影响风电功率预报的重要因子之一，同平均风速、不同风向下的风机产出功率截然不同。该风电场 $8 0 \mathrm { ~ m ~ }$ 高度上盛行南西南风和西北风(图 $9 \mathrm { a }$ ),33台风机沿西北一东南方向分2列排布，ECMWF的 $1 0 0 \mathrm { ~ m ~ }$ 高度风速的主风向为南风和西北风（图9b)，与该风电场的主风向比较接近，但是在偏南风向上有一些差异，这可能与模式地形与实际地形存在一定差异有关[27]。由于风机的偏航控制系统使得风机对风向有一定的自适应性。因此，本文的风电功率预报方程虽然没有考虑风向因子，但是对风机功率的预报结果不会带来太大影响。整体上讲，本文的风电功率预报方法是可行的，下一步可以通过采用更高时空分辨率的风速预报产品，制作更精细的风电功率预报。同时，该风电功率预报方法还可以通过引入风向和密度等因子来不断完善。
+
+![](images/db88f2557010066b2b99c2472b22555f937849375df315b26daee8414eb250d4.jpg)  
+图9测风塔 $8 0 \ \mathrm { m }$ 和ECMWF模式 $1 0 0 \mathrm { m }$ 高度上的风向频率玫瑰图(单位： $\%$ ）Fig.9 Rose diagrams of wind directions frequency from observation at $8 0 \mathrm { m }$ of the wind turbinesand forecast at $1 0 0 \mathrm { m }$ of the ECMWF mode (Unit: $\%$ ）
+
+# 6结论
+
+本文利用陕西省某一风电场区域内的风机观测资料以及ECMWF模式的 $1 0 0 \mathrm { ~ m ~ }$ 高度风速预报产品，基于一元线性回归方法，引人最优训练期方案，先将模式的 $1 0 0 \mathrm { m }$ 高度风速预报订正到风机轮毂高度上，再利用PP法和MOS法进行风电功率预报对比研究，主要结论如下：
+
+（1）不管是风速预报订正还是风电功率预报，并不是最优训练期日数越稳定预报效果越好，以预报日前1天之前的10d为评估周期确定的最优训练期日数虽然较不稳定，但是其预报误差较小，并且需要的训练样本少，有利于业务化应用。
+
+（2）ECMWF模式的 $1 0 0 \mathrm { ~ m ~ }$ 高度风速预报值与风机轮毂高度处的风速观测值之间的偏差并不大，订正后的预报误差进一步减小， $3 { \sim } 2 2 8 \mathrm { ~ h ~ }$ 预报的均方根误差和平均绝对误差分别从订正前的 $2 . 2 { \sim } 3 . 9 \ \mathrm { m } { \cdot } \mathrm { s } ^ { - 1 }$ 和 $1 . 7 { \sim } 3 . 2 \ \mathrm { m } \cdot \mathrm { s } ^ { - 1 }$ 降低为订正后的 $1 . 6 { \sim } 2 . 6 \ \mathrm { m } \cdot \mathrm { s } ^ { - 1 }$ 和$1 . 2 { \sim } 2 . 1 \ \mathrm { m } { \cdot } \mathrm { s } ^ { - 1 }$ ,风速改善百分比为 $2 4 \% { \sim } 4 1 \%$ 0
+
+（3）先对模式的 $1 0 0 \mathrm { ~ m ~ }$ 高度风速预报进行订正，再代人PP法和MOS法建立的风电功率预报方程，可以显著减小PP法的预报误差，但是并没有改进MOS法的预报结果。与利用风速预报订正产品进行风电功率预报的PP法相比，MOS法可以省去风速预报的订正环节而略胜一筹。
+
+以预报日前1天之前的 $1 0 \mathrm { d }$ 作为最优训练期的评估周期，对利用较少的历史资料进行风速或者风电功率预报是有利的，但是该评估周期仅适用于该风电场的33台风机站。最优训练期及其评估周期的选择，不仅与预报对象有关，还受当地气候背景的影响，应该基于不同评估周期方案的实验结果，客观确定最优训练期及其评估周期。另外，由于ECMWF的分辨率不太高，并且其风向预报与观测有一定差异，本文的研究方法不适用于复杂地形，如果将通过动力预报方法获取的高分辨率模式结果作为研究资料，则能很好地弥补这一缺陷。
+
+致谢：感谢陕西省气象科学研究所娄盼星博士和陕西省气象台张煦庭博士在本文修改过程中给予的帮助。
+
+# 参考文献(References)
+
+[1]刘全根.国家能源结构调整的战略选择加强可再生能源开发利 用[J].地球科学进展,2000,15(2):154-164.[Liu Quangen.Strategic choice for national adjustment of energy structure[J].Advance in Earth Sciences,2000,15(2): 154-164.]   
+[2] 韩爽.风电场功率短期预测方法研究[D].北京:华北电力大学， 2008.[Han Shuang.Study of short-term wind power prediction method[D].Beijing:North China Electric PowerUniversity,2008.]   
+[3] 董广涛,穆海振，周伟东，等.基于气象数值模式的风电功率预 测系统[J].太阳能学报,2012,33(5):776-781.[Dong Guangtao, MuHaizhen,Zhou Weidong,et al.A wind-power forecast system based on the meteorological model[J].Acta Energlae Solaris Sinica,2012,33(5): 776-781.]   
+[4] Alexadis M,Dokopoulos P,Sahsamanoglou H,et al.Short term forecasting of wind speed and related electrical power[J]. Solar Energy,1998,63(1):61-68.
+
+# 干吴区地理
+
+[5]杨秀媛,肖洋,陈树勇.风电场风速和发电功率预测研究[J].中 国电机工程学报,2005,25(11):1-5.[Yang Xiuyuan,Xiao Yang, Chen Shuyong.Wind speed and generated power forecasting in wind farm[J]. Proceedings of the CSEE,2005,25(11): 1-5.]   
+[6]黄磊.基于动态神经网络的风电场输出功率预测及其应用的研 究[D].哈尔滨:哈尔滨工业大学,2011.[Huang Lei.Research on wind farm output forecasting using dynamic neural new works and application[D].Harbin: Harbin Institute of Technology,2011.]   
+[7]李京龙,武胜利,葛欢欢,等.1962—2016年阿勒泰地区风速变 化分析[J].干旱区地理,2018,41(3):499-507.[Li Jinglong,Wu Shengli, Ge Huanhuan,et al. Wind speed change in Altay Prefecture from 1962 to 2016[J].Arid Land Geography,2018,41(3): 499-507.]   
+[8]曹永强,郭明,刘思然,等.近55a辽宁省风速时空变化特征分 析[J].干旱区地理,2018,41(1):1-8.[Cao Yongqiang,Guo Ming, Liu Siran,et al. Temporal and spatial variation characteristics of wind speed in Liaoning Province in recent 55 years[J].Arid Land Geography,2018,41(1): 1-8.]   
+[9]袁莹莹,殷水清,谢云,等.我国风蚀区风速日变率时空变化特 征[J].干旱区地理,2018,41(3): 480-487.[Yuan Yingying, Yin Shuiqing,Xie Yun, et al. Temporal and spatial characteristics of diurnal variations of wind speed in wind erosion areas over China [J]. Arid Land Geography,2018, 41(3): 480-487.]   
+[10] 柳艳香,陶树旺,张秀芝.风能预报方法研究进展[J].气候变化 研究进展,2008,4(4): 209-214.[Liu Yanxiang,Tao Shuwang, Zhang Xiuzhi. Review on methods of wind power forecasting[J]. Advances in Climate Change,2008,4(4): 209-214.]   
+[11] 张铁军,颜鹏程,张正英,等.多种订正技术在风电场风速预报 订正中的应用[J].干旱气象,2018,36(5):835-844.[Zhang Tiejun,Yan Pengcheng,Zhang Zhengying,et al. Application of various technologies in modification of wind speed forecast in wind farms[J]. Journal of Arid Meteorology,2018,36(5): 835-844.]   
+[12] 孙川永.风电场风电功率短期预报技术研究[D].兰州:兰州大 学,2009.[Sun Chuanyong.A study on the technique of short-term forecast of wind power at wind farm[D].Lanzhou: Lanzhou University, 2009.]   
+[13]石岚,徐丽娜,郝玉珠.基于风速高相关分区的风电场风速预报 订正[J].应用气象学报,2016,27(4): 506-512.[ShiLan,Xu Lina, Hao Yuzhu.The correction of forecast wind speed in a wind farm based on partitioning of the high correlation of wind speed[J]. Quarterly Journal of Applied Meteorology,2016,27(4): 506-512.]   
+[14]邓小花,翟盘茂,袁春红.国外几套再分析资料的对比与分析 [J].气象科技,2010,38(1):1-8.[Deng Xiaohua,Zhai Panmao, Yuan Chunhong. Comparative analysis of NCEP/NCAR, ECMWF and JMAreanalysis[J].Meteorological ScienceandTechnology, 2010, 38(1): 1-8.]   
+[15]张飞民.WRF-3DVAR对近地层风速预报改进的数值试验[D]. 兰州：兰州大学,2014.[Zhang Feimin.The improvement experiments on near surface wind forecasting with WRF-3DAR[D]. Lanzhou: Lanzhou University,2009.]   
+[16]丁煌,陶树旺.肖子牛,等.基于WRF和 SVM方法的风电场功 率预报技术研究[J].高原气象,2013,32(2):581-587.[Ding Huang,Tao Shuwang,Xiao Ziniu,et al. Study on wind power forecasting of wind farm based on WRFand SVM[J].Plateau Meteorology,2013,32(2): 581-587.]   
+[17]王建成,杨苹,杨曦.基于数值天气预报的风电功率预测建模研 究[J].可再生能源,2013,31(2): 34-38.[Wang Jiancheng,Yang Ping,Yang Xi. Research on wind power prediction modeling based on numerical weather prediction[J]. Renewable Energy Resources, 2013,31(2): 34-38.]   
+[18] 杨程,姜瑜君,余贞寿,等.基于偏最小二乘回归的区域换式风 速预报订正技术研究[J].气象,2019,45(5):676-684.[Yang Cheng,Jiang Yujun,Yu Zhenshou,et al. Correction technology of regional wind speed forecasting based on partial least square regression[J]. Meteorological Monthly,2019,45(5): 676-684.]   
+[19]徐晶晶,胡非,肖子牛,等.风能模式预报的相似误差订正[J].应 用气象学报,2013,24(6):731-740.[XuJingjing,HuFei, Xiao Ziniu,et al.Analog bias correction of numerical model on wind powerprediction[J]. Quarterly Journal of Applied Meteorology, 2013, 24(6): 731-740.]   
+[20]王丹,王建鹏,白庆梅,等.递减平均法与一元线性回归法对 ECMWF温度预报订正能力对比[J].气象,2019,45(9):1310- 1321.[Wang Dan,Wang Jianpeng,Bai Qingmei,et al. Comparative correction of air temperature forecast from ECMWF model by the decaying averaging and the simple linear regression methods [J]. Meteorological Monthly,2019,45(9):1310-1321.]   
+[21]王丹,王建鹏,娄盼星,等.ECMWF高分辨率模式对陕西2017 年7月高温预报的检验及订正[J].干旱区地理,2019,42(1):38- 46.[Wang Dan, Wang Jianpeng,Lou Panxing,et al.Evaluation and correction of high temperature weather forecast in Shaanxi Province in July 2017 using ECMWF high-resolution model[J]. Arid Land Geography,2019,42(1): 38-46.]   
+[22] 彭婷,智协飞,董颜,等.基于贝叶斯模式平均方法的东亚地区 地面 $2 \mathrm { ~ m ~ }$ 气温预报改进[J].中国科技论文,2019,14(5): 575- 581.[Peng Ting, Zhi Xiefei, Dong Yan,et al.Forecast improving of 2-meter surface air temperature in East Asia based on Bayesian model averaging[J]. China Science Paper,2019,14(5): 575-581.]   
+[23]吴启树,韩美,郭弘,等.MOS 温度预报中最优训练期方案[J]. 应用气象学报,2016,27(4): 426-434.[Wu Qishu,Han Mei, Guo Hong,et al.The optimal training period scheme of MOS temperature forecast[J]. Journal of Applied Meteorological Science,2016, 27(4): 426-434.]   
+[24] 黄嘉佑,李庆祥.气象数据统计分析方法[M].北京:气象出版 社,2015.[Huang Jiayou,Li Qingxiang.Methods for statistical analysis of meteorological data[M]. Beijing: China Meteorological Press, 2015.]   
+[25]龙柯吉,师春香,韩帅,等.中国区域高分辨率温度实况融合格 点分析产品质量评估[J].高原山地气象研究,2019,39(3):67- 74.[Long Keji,Shi Chunxiang,Han Shuai,et al. Quality assessment of high resolution temperature merged grid analysis product in China[D]. Plateau and Mountain Meteorology Research,2019, 39(3): 67-74.]
+
+[26]薛海乐.使用过去资料改进GRAPES全球预报的理论和方法研 究[D].兰州:兰州大学,2013.[XueHaile.A theoretical and methodologyresearch ofGRAPES-global improvement in numerical weather prediction using the past data[D]. Lanzhou: Lanzhou University,2009.]
+
+[27]徐枝芳,龚建东,王建捷,等.复杂地形下地面观测资料同化I.
+
+模式地形与观测站地形高度差异对地面资料同化的影响研究 [J].大气科学,2007,31(2):222-232.[Xu Zhifang,Gong Jiandong,Wang Jianjie,et al.A study of assimilation of surface observational data in complex terrain part I:Influence of the elevation difference between model surface and observation site[J].Chinese Journal of Atmospheric Sciences,2007,31(2): 222-232.]
+
+# Comparative study of wind power trend forecast by using methods of PP and MOS with optimal training period
+
+WANG Dan'²，GAO Hongyan'， YANG Yanchao'，LI Bo²，QU Zhi'， HAO Yu' (1.Shaan'xiMeteologicalService Center,Xi'an710ol4,Shaanxi,China;2.KeyLaboratoryofEco-Environmentand Meteorology forTheQinling MountainsandLoessPlateau,Shaanxi Meteorological Bureau,Xi'an7Oo14,Shaanxi,China; 3.Guohua Energy Investment Co.,Ltd.(Shaanxi Branch),Yulin 719ooo,Shaanxi, China)
+
+Abstract:On the basis of data sets of wind speed and wind power observed from 33 wind turbines in a wind farm in Shaanxi Province,China and with wind speeds at a height of $1 0 0 ~ \mathrm { m }$ forecast by the ECMWF model, the wind speed prediction was corrected using simple linear regression and introducing the optimal training period and forecast models for wind power business were comparatively studied using the perfect prognostic (PP) and model output statistics (MOS)methods.The optimal training period was defined as a sliding cycle,which should be given before the forecast date.For training days Varying from 10 to $1 0 0 \mathrm { d }$ ,taking some past forecast days as an evaluation period to calculate the root-mean-square error (RMSE)of the forecast,the optimal training period was decided according to the variation ofthe RMSE of the wind speed or wind power forecast with the training days. A prediction equation of wind power was established using the PP method according to historical observations of wind speed and wind power in the training sample.Then,the numerical prediction product of wind speed was used to replace the observation data in the prediction equation, which was applied to a wind power prediction business.In contrast,the MOS method directly used the wind speed of the numerical weather prediction model to establish the prediction equation,which was quite diferent from the PP method.The result showed that wind speed predictions after correction and wind power were improved during the optimal training period,reducing the prediction error to the greatest extent.The optimal training days were determined by the RMSE of the forecast during the evaluation period of $1 0 \mathrm { ~ d ~ }$ before the forecast date. The wind speed at a height of $1 0 0 \mathrm { m }$ forecast by the ECMWF model was closer to that of the observation at the height ofthe fan hub,and the RMSE and average absolute error(ABE) respectively ranged from 2.5 to $4 . 1 \ \mathrm { m \cdot s ^ { - 1 } }$ and 1.9 to $3 . 3 \ \mathrm { m \cdot s ^ { - 1 } }$ .The prediction error of the wind speed after correction became smaller, with the percentage of improvement in the RMSE of the wind speed forecast ranging from $33 \%$ to $46 \%$ , and the RMSE and ABE of the wind speed prediction respectively ranged from 1.5 to $2 . 4 \ \mathrm { m \cdot s ^ { - 1 } }$ and 1.1 to $1 . 9 \ \mathrm { m \cdot s ^ { - 1 } }$ . Thus,wind speed predictions could be applied to wind power prediction businesses using both the PP and MOS methods.Although the wind power prediction error of the MOS method was nearly the same as that of the PP method when the wind speed prediction was corrected,the MOS method, which did not need to improve the quality of wind power prediction by corecting the wind speed prediction, was slightly better than the PP method in terms of complexity.The RMSE and ABE of the wind power forecasts of both the PP and MOS methods were $1 7 \% - 2 5 \%$ and $1 1 \% - 1 8 \%$ ,respectively, within the forecast time of $3 \mathrm { - } 7 2 ~ \mathrm { h }$ Thus, both the PP and MOS methods could be applied to wind power prediction businesses.
+
+Key Words: wind farm；wind power prediction；optimal training period；model output statistic (MOS) prediction； perfect prognostic (PP) prediction

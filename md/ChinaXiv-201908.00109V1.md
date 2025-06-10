@@ -1,0 +1,134 @@
+# 单种及混合种植对花叶芦竹铅积累量的影响
+
+庄静静，王晓冰，郭 晖\*（新乡学院 生命科学技术学院，河南 新乡 453003）
+
+摘要：该研究采用盆栽试验法，选取石菖蒲、水生鸢尾、美人蕉、花叶芦竹为试验材料，将石菖蒲、水生鸢尾、美人蕉与花叶芦竹混种，并以花叶芦竹单种作为对照，研究混种对花叶芦竹生物量、根冠比以及铅积累量的影响。结果表明：（1）在不同浓度铅污染处理下，与花叶芦竹单种相比，混种模式增加了花叶芦竹的根冠比，且随着铅污染浓度的增加，表现出先上升后下降的趋势。（2）在单种和混种模式下花叶芦竹体内和土壤内的铅含量均表现出明显的浓度积聚效应。在混种模式下植物体内和土壤内的铅含量明显低于单种模式，且与单种模式之间的差异性显著（ $_ { . } { \cal P } { < } 0 . 0 5 )$ 。（3）在高浓度铅污染处理下，单种和混种模式的花叶芦竹铅转运系数均大于1，而富集系数则表现为在低浓度和高浓度铅污染处理下均大于1。美人蕉 $^ +$ 花叶芦竹的混种模式中，花叶芦竹的地上部分和地下部分的铅富集系数达到最大。因此，该研究认为美人蕉 $+$ 花叶芦竹混种模式，显著提高了花叶芦竹的生物量和根冠比，并对铅污染土壤的净化效果最佳。
+
+关键词：重金属污染，植物修复，转移系数，富集系数，种植模式中图分类号：Q945.78 文献标识码：A
+
+# Effects of independent planting and mixed planting of Arundo
+
+donax on lead accumulation
+
+ZHUANG Jingjing,Wang Xiaobing, GUO Hui\* (College of Life Science and Technology,Xinxiang University,Xinxiang 4530o3,Henan, China)
+
+Abstract: In order to study the effects of planting pattern on the biomass, root shoot ratio and lead accumulation of Arundo donax, potting experiment in outdoor was carried out to explore the effects of single and mixed model with Arundo donax on lead pollution.We selected Acorus tatarinowi, Iris tectorum, Canna indica and Arundo donax as experimental materials.The mixed modes were formed by Acorus tatarinowii+Arundo donax, Iris tectorum+Arundo donax, Canna indica $+$ Arundo donax, and Arundo donax was taken as control. The results were as follows: (1) Compared with the single pattern,intercropping with three aquatic plants modes improved the root shoot ration of Arundo donax under the different concentrations of lead pollution.With the increase of lead pollution concentration,the root shoot ratio showed an upward and then downward trend. (2) The lead content in the body and the soil of Arundo donax showed obvious concentration accumulation effect in the single and mixed cropping paterns. The lead content in plants and soil under mixed was significantly lower than the single cropping pattern,and the difference was significant between single and mixed cropping pattern $( P { < } 0 . 0 5 )$ . (3) Under the treatment of high concentration lead pollution,the translocation factor of Arundo donax was greater than 1 in the single and mixed mode.However, the bioconcentration factor is greater than 1 in the low and high concentration lead pollution treatments.In the Canna indica $^ +$ Arundo donax mode,the lead bioconcentration factor of Arundo donax is the largest in aboveground and underground part. Therefore， this study believed that Canna indica $^ +$ Arundo donax mode significantly increased the biomass and root-shoot ratio of Arundo donax,and has the best purification ability to lead contaminated soil.
+
+Key words: heavy metal polltion, phytoremediation, translocation factor, bioconcentration factor, planting pattern
+
+随着人口的增加，城镇化、工业化速度的加快，生活垃圾、化肥和农药的使用以及化工、医药、制造及开采业的发展，使大量有毒重金属污染物进入土壤（周卫红等，2017)。由于大多数重金属污染物不易被微生物降解，使其在土壤中的移动性差，滞留时间长（姜璿等，2015)。因此，它是对环境和人体健康最具有威胁的污染物（姚荣江等，2017)。
+
+铅是重金属污染中最严重的元素之一，被认为是可能的人类致癌物质(郭晓宏等，2016)。植物修复（phytoremediation）是一种新兴的绿色生物技术，它主要被用于重金属污染物的修复（成杰民和俞协治，2006)，它不仅高效低耗、不易造成二次污染，且易被公众接受等优点而大受关注。与非观赏性植物相比，观赏植物经济效益十分明显，观赏性植物在经过一段时间的生长后，将整株植物除去，重金属主要积累于植物的根部，不会留在土壤中造成二次污染，也不会进入危害人类健康的食物链（燕傲蕾等，2010)。目前我国已有大量研究表明，大多数花卉植物如夏日赞歌景天（Sedum spurium‘Summer Glory'）、孔雀草（Tagetespatula）、大丽花(Dahlia pinnata)、羽叶笃萝（Quamoclit pennata）、瓜叶菊（Pericallis hybrida)、美女樱（Verbena hybrida）、（崔爽等，2014a,b）、美人蕉（Canna indica）（吴桐等，2012）等对铅有较强的耐性和积累性。但多数研究的内容较单一，主要侧重于超富集植物的选择，少有涉及不同花卉植物混种对其在铅污染土壤中生长状况的研究。本研究在前期研究中也发现，花叶芦竹（Arundo donax）在铅污染处理中植物的生长状况较好，且对铅能够较好吸收、净化土壤的效果也是最佳（郭晖和庄静静，2019)。为此，本研究将花叶芦竹分别与另外 3种观赏植物石菖蒲（Acorus tatarinowi）、水生鸢尾（Iris tectorum）和美人蕉（Canna indica）进行混种，研究混种模式对铅污染土壤修复的影响，以期筛选出可提高花叶芦竹修复效率的最佳种植方式，为铅污染土壤的生态修复提供参考和理论依据。
+
+# 1材料与方法
+
+# 1.1供试材料
+
+供试植物选取长势基本一致的花叶芦竹、石菖蒲、水生鸢尾和美人蕉，均采购于新乡市花卉市场。供试污泥采用新乡学院校区内的池塘污泥，取回底泥后将其混匀、风干，用作盆栽底泥。试验培养水取自新乡学院自来水，重金属添加以固体硝酸铅颗粒[Pb（ $\mathbf { \widetilde { N O } } _ { 3 }$ ） $_ { 2 } ]$ 的形式加入，硝酸铅颗粒为分析纯试剂。
+
+# 1.2 实验设计
+
+2018年6月，将供试土壤剔除杂物后自然风干，装至 $5 0 \mathrm { c m } { \times } 3 5 \mathrm { c m }$ （直径 $\times$ 高）的培养盆内，每盆装土 $5 0 ~ \mathrm { k g }$ ，厚度约 $1 0 \ \mathrm { c m }$ 。选择长势健壮和高度基本一致的幼苗移植盆内进行培养。选取标准：花叶芦竹苗高 $1 0 \mathrm { c m }$ 左右；石菖蒲和水生鸢尾均有4片真叶展开，苗高约$5 \mathrm { c m }$ 左右；美人蕉为块茎，仅露1～2个芽。污泥处理设3个水平，分别为未添加 $\mathrm { P b } \ \mathrm { ( N O _ { 3 } ) }$ 2（CK）、低浓度铅污染（ $2 0 0 \mathrm { m g \cdot k g ^ { - 1 } }$ ， $\mathrm { \Delta T _ { z } }$ ）和高浓度铅污染（ $5 0 0 \mathrm { m g } { \cdot } \mathrm { k g } ^ { - 1 }$ ， $\mathrm { \Delta T _ { g } } \mathrm { \dot { \Omega } }$ )。试验共设置4个处理，花叶芦竹单种、石菖蒲 $^ +$ 花叶芦竹混种、水生鸢尾 $. +$ 花叶芦竹混种、美人蕉 $^ +$ 花叶芦竹混种。2018年7月开始试验，于2018年8月结束试验。试验历经45天，试验过程中蒸发的水用自来水补充。
+
+# 1.3测定指标及方法
+
+2018 年8月，将幼苗取出，冲洗干净。用直尺测量和计算植物的高度和根系的平均长度。植物生物量的测定采用烘干法（邹晓君等，2018)，将测量完长度的植株根、茎叶分开，测量其鲜重，随后在 $8 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 的烘箱中烘烤 $2 4 \mathrm { h }$ 至恒重，并测量其干重。铅含量测定采用酸硝解法（刘强等，2017)。使用TAS-990火焰原子化法原子吸收光谱仪（北京普析通用仪器有限责任公司，中国）进行测定。
+
+# 1.4数据处理
+
+植物转运系数（Translocationfactor，TF） $\ O =$ 植物地上部重金属含量/根部该元素含量（杨姝等，2018)
+
+植物富集系数（Bioconcentration factor，BCF） $\ O =$ 植物地上部（或根）重金属含量/土壤中该元素含量（杨姝等，2018）
+
+# 1.5数据统计分析
+
+所有数据采用Excel2013进行处理，使用SPSS13.0统计分析软件进行方差分析，各组间两两比较采用LSD法，图形采用Origin8.0 进行绘制。
+
+# 2结果与分析
+
+# 2.1混种对花叶芦竹根冠比的影响
+
+# 表1不同浓度铅污染下水生植物的生物量和根冠比
+
+Table 1 Biomass and root /shoot ratio of aquatic plants in different lead concentration   
+
+<html><body><table><tr><td rowspan="2">处理 Treatment</td><td rowspan="2">种植模式 Planting mode</td><td colspan="2">地上部分 Above ground(mg)</td><td colspan="2">地下部分 Under ground(mg)</td><td rowspan="2">根冠比 Root shoot ratio (%)</td></tr><tr><td>鲜重 Fresh weight</td><td>干重 Dry weight</td><td>鲜重 Fresh weight</td><td>干重 Dry weight</td></tr><tr><td rowspan="4">Tck</td><td>花叶芦竹 Arundo donax 石菖蒲Acorus</td><td>8.53±0.09 a</td><td>1.67±0.05 a</td><td>3.85±0.08 c</td><td>1.57±0.10 a</td><td>0.45±0.45 c</td></tr><tr><td>tatarinowii+ 花叶芦竹Arundo donax 水生鸢尾Iris</td><td>8.18±0.03 b</td><td>1.45±0.06 b</td><td>4.42±0.10 b</td><td>1.28±0.03 b</td><td>0.54±0.54 b</td></tr><tr><td>tectorum+ 花叶芦竹 Arundo donax</td><td>8.30±0.07 b</td><td>1.48±0.04 b</td><td>4.57±0.04 a</td><td>1.25±0.03 b</td><td>0.55±0.55 b</td></tr><tr><td>美人蕉 Canna indica+ 花叶芦竹Arundo donax 花叶芦竹Arundo donax</td><td>7.87±0.03 c</td><td>1.18±0.06 c</td><td>4.56±0.05 a</td><td>1.06±0.04 c</td><td>0.58±0.58 a</td></tr><tr><td rowspan="4">T</td><td>石菖蒲Acorus</td><td>10.67±0.11 c</td><td>1.90±0.06 b</td><td>5.25±0.07 d</td><td>2.04±0.03 b</td><td>0.49±0.49 c</td></tr><tr><td>tatarinowii+ 花叶芦竹 Arundo donax 水生鸢尾Iris</td><td>11.14±0.09 b</td><td>1.95±0.04 b</td><td>5.70±0.06 c</td><td>2.05±0.03 b</td><td>0.51±0.51 b</td></tr><tr><td>tectorum+ 花叶芦竹Arundo donax</td><td>13.33±0.10 a</td><td>2.16±0.03 a</td><td>6.84±0.03 b</td><td>2.23±0.02 a</td><td>0.51±0.51 b</td></tr><tr><td>美人蕉Canna indica+ 花叶芦竹 Arundo donax</td><td>10.79±0.06 c</td><td>1.79±0.02 c</td><td>7.29±0.06 a</td><td>1.90±0.05 c</td><td>0.68±0.68 a</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="7">Tg</td><td>花叶芦竹 Arundo donax</td><td>7.36±0.10 d</td><td>1.43±0.05 d</td><td>3.19±0.04 c</td><td>1.22±0.14 b</td><td>0.43±0.43 b</td></tr><tr><td>石菖蒲Acorus tatarinowii+</td><td>8.08±0.04 c</td><td>1.53±0.05 c</td><td>3.68±0.03 b</td><td>1.33±0.13 ab</td><td>0.46±0.46 a</td></tr><tr><td>花叶芦竹 Arundo donax</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>水生鸢尾Iris tectorum+</td><td>8.26±0.06 b</td><td>1.69±0.03 b</td><td>3.72±0.04 b</td><td>1.39±0.03 ab</td><td>0.45±0.45 a</td></tr><tr><td>花叶芦竹 Arundo donax</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>美人蕉 Canna indica+</td><td></td><td>1.93±0.05 a</td><td>3.78±0.03 a</td><td>1.46±0.06 a</td><td></td></tr><tr><td>花叶芦竹 Arundo donax</td><td>8.43±0.07 a</td><td></td><td></td><td></td><td>0.45±0.45 a</td></tr></table></body></html>
+
+注： $\mathbf { T } _ { \mathbf { c k } } .$ 对照组; $\mathbf { T _ { z } } .$ 低浓度铅污染; $\mathbf { T _ { g } } .$ 高浓度铅污染。图中数据为平均值±标准差值。同列不同小写字母 表示差异达显著水平（ $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ 。下同。 Note: $\mathbf { T } _ { \mathbf { c k } }$ Control group; $\mathbf { T _ { z } }$ Low concentration lead polltion; $\mathbf { T _ { g } }$ High concentration lead pollution. The data in the figure is the mean $\pm$ standard deviation.Different lowercase letters in the same column represented significant difference( $P { < } 0 . 0 5 \$ ）.The same below.
+
+于2018年8月26日，收获水生植物并计算其生物量及根冠比（表1)。由表1可知，在不同浓度铅污染下，花叶芦竹的地上部分和地下部分鲜重均表现为先上升后下降的趋势，这表明，在不同浓度的铅污染处理中，适宜的铅污染浓度有助于花叶芦竹的生长（姜成等，2009)。在对照组中，花叶芦竹单种的地上部分和地下部分的鲜重和干重与2种植物混种模式之间差异性显著（ $P { < } 0 . 0 5 )$ ，说明其他植物与花叶芦竹的混种，对花叶芦竹的生长会产生一定的影响作用。在对照组中，美人蕉 $^ +$ 花叶芦竹的根冠比最大，值为0.58，与石菖蒲 $+$ 花叶芦竹、水生鸢尾 $^ +$ 花叶芦竹两种混种模式之间的存在明显差异 （ $_ { . } { \cal P } { < } 0 . 0 5 )$ 。与对照组相比，在低浓度铅污染处理下，花叶芦竹单种与其他植物的混种模式中，花叶芦竹的地上部分和地下部分鲜重和干重均显著高于对照组。差异性分析也表明，单种模式与混种模式的花叶芦竹地上部分和地下部分鲜重和干重之间存在差异显著（ $_ { _ { P < 0 . 0 5 ) } }$ ，但单种与不同混种模式之间的差异性并不相同。
+
+在低浓度铅污染处理下，混种模式中的美人蕉 $+$ 花叶芦竹混种与单种模式中花叶芦竹单种的地上部分鲜重之间差异不显著（ $( P { > } 0 . 0 5 )$ ，而石菖蒲 $^ +$ 花叶芦竹混种模式与花叶芦竹单种模式的地上部分干重之间差异性不显著（ $( P { > } 0 . 0 5 )$ 。通过对比在低浓度铅污染下，单种和混种模式下花叶芦竹的根冠比发现，单种模式与混种模式之间差异性显著（ $( P { < } 0 . 0 5 )$ ，而混种模式中，石菖蒲 $+$ 花叶芦竹和水生鸢尾 $^ +$ 花叶芦竹混种模式之间差异性不显著（ $( P { > } 0 . 0 5 )$ 。与低浓度铅污染相比，在高浓度铅污染处理下，单种和混种模式中的花叶芦竹地上部分和地下部分鲜重和干重都要明显低于前者。在高浓度铅污染处理下，单种模式与混种模式之间的地上部分鲜重和干重之间差异性显著（ $( P { > } 0 . 0 5 )$ 。在混种模式下，不同植物混种模式之间的差异性显著（ $( P { > } 0 . 0 5 )$ ，这表明，石菖蒲、水生鸢尾和美人蕉与花叶芦竹混种时，由于3种植物的不同特性，对花叶芦竹的地上生物量的影响作用不一样。根冠比的分析结果也表明，在不同浓度铅污染下，单种模式的根冠比要小于混种模式，且它们之间差异性显著（ $( P { < } 0 . 0 5 )$ 。
+
+# 2.2混种对花叶芦竹体内铅含量的影响
+
+对不同浓度铅污染处理下，4种种植模式的花叶芦竹地上部和地下部铅含量进行分析（图1)，结果表明，4种种植模式中的花叶芦竹地上部分和地下部分铅含量均随着土壤铅含量的增加而增加，表现出明显的浓度效应。在对照组中，花叶芦竹的地下部分铅含量之间差异不显著（ $. P { > } 0 . 0 5 )$ ，而地上部分铅含量的花叶芦竹单种与美人蕉 $^ +$ 花叶芦竹混种之间差异性显著( $P { < } 0 . 0 5 )$ 。在低浓度铅污染处理下，4种种植模式中美人蕉 $^ +$ 花叶芦竹混种的地下部分铅含量最高，其值为 $4 . 8 8 ~ \mu \mathrm { g } { \cdot } \mathrm { m g } ^ { - 1 }$ ，且其与其他种植模式的地下部分铅含量之间差异性显著（ $_ { _ { P < 0 . 0 5 } ) }$ 。在低浓度铅污染处理中，石菖蒲 $^ +$ 花叶芦竹混种的地上部分铅含量最低，其值为（204号 $2 . 4 5 ~ { \mu \mathrm { g } } { \cdot } \mathrm { m g } ^ { - 1 }$ ，但其与花叶芦竹单种和水生鸢尾 $. +$ 花叶芦竹混种之间差异性不显著（ $( P { > } 0 . 0 5 )$ ，而与美人蕉 $^ +$ 花叶芦竹之间差异性显著（ $_ { _ { P < 0 . 0 5 ) } }$ 。在高浓度铅污染处理下，4种种植模式的花叶芦竹地上部分铅含量高于地下部分，这表明，在铅污染浓度较高时，根系不能再吸收铅时，便转移到地上部分。且在4种种植模式中，美人蕉 $^ +$ 花叶芦竹混种的地上和地下部分铅含量均与其他3种种植模式之间显著性显著（ $\scriptstyle \cdot { P < 0 . 0 5 }$ )。
+
+![](images/cbb4297502159d32572c05507f3404eb36dbfc64ab5a0a18fadbed21b0ea5b89.jpg)  
+图1不同浓度铅污染下水生植物体内铅含量
+
+注：图中数据为平均值 $\pm$ 标准差值。不同小写字母表示地上部分/地下部分差异达显著水平（ $. P { < } 0 . 0 5 \$ 。下同。Note: The data in the figure is the mean $\pm$ standard deviation.Different lowercase letters represented significantdifference（ $P { < } 0 . 0 5 \$ ）.The same below.
+
+# 2.3混种对土壤中铅含量的影响
+
+![](images/989d0662925f43edbce1dc0b12f68044cf8fc1d488566acf2b238decf8d3921d.jpg)  
+Fig.1Lead content of aquatic plants in different concentrations   
+图2不同浓度铅污染下土壤中铅含量  
+Fig.2Lead content of soil in different concentrations
+
+通过对不同浓度铅污染处理下，4种种植模式的土壤中铅含量进行测定，可反映不同种植模式对土壤中铅污染的净化能力（图2)。由图2中可以看出，在不同浓度铅污染处理下，4种种植模式的土壤铅含量都呈现出，随着铅污染处理浓度的增加，土壤中的铅含量也逐渐增加。在对照组中，单种和混种模式之间的差异显著（ $P { < } 0 . 0 5 )$ 。当花叶芦竹单种时，土壤中的铅含量最高，而美人蕉 $+$ 花叶芦竹混种模式中的土壤铅含量差值为 $0 . 1 6 ~ { \mu \mathrm { g } } { \cdot } \mathrm { m g } ^ { - 1 }$ 。在低浓度铅污染处理下，变化特征与对照组相同，花叶芦竹单种模式的土壤铅含量要高于2种植物的混种模式，且它们之间的差异性显著（ $\cdot P { < } 0 . 0 5 )$ 。2种植物（石菖蒲 $^ { \circ } +$ 花叶芦竹、水生鸢尾$^ +$ 花叶芦竹、美人蕉 $^ +$ 花叶芦竹）的混种模式之间差异性不显著（ $( P { > } 0 . 0 5 )$ ，土壤的铅含量变化范围为 $2 . 5 7 \sim 2 . 7 6 ~ { \mu \mathrm { g } } { \cdot } \mathrm { m g } ^ { - 1 }$ 。在高浓度铅污染处理下，单种模式的花叶芦竹土壤铅含量明显高于2种植物的混种模式，其最大差值为 $7 . 9 6 ~ \mu \mathrm { g } { \cdot } \mathrm { m g } ^ { - 1 }$ ，且它们之间差异性显著( $. P { < } 0 . 0 5 )$ 。3 种混种模式之间差异性显著，其值变化范围为 $5 . 0 7 \sim 9 . 8 1 ~ { \mu \mathrm { g } } { \cdot } \mathrm { m g } ^ { - 1 }$ 。通过对比，我们发现在高浓度铅污染处理下，美人蕉 $\vdots$ 花叶芦竹混种模式中土壤铅含量最低，这表明，在高浓度铅污染下，花叶芦竹本身对铅的吸收能力较强，加之美人蕉的块状根，2种植物的混种模式进一步增强了植物对铅的吸收能力。
+
+# 2.4混种对花叶芦竹铅积累量的影响
+
+Table 2 Translocation factor and bioconcentration factor of lead in different lead concentrati
+
+表2不同浓度铅污染下铅的转运系数和富集系数  
+
+<html><body><table><tr><td rowspan="2">处理 Treatment</td><td rowspan="2">种植模式 Planting mode</td><td rowspan="2">转运系数 Translocation factor</td><td colspan="2">富集系数 Bioconcentration factor</td></tr><tr><td>地上部分 Above ground</td><td>地下部分 Under ground</td></tr><tr><td rowspan="6">Tck</td><td>花叶芦竹 Arundo donax</td><td>0.61±0.09 a</td><td>0.26±0.03 a</td><td>0.43±0.08 b</td></tr><tr><td>石菖蒲 Acorus tatarinowii+ 花叶芦竹 Arundo donax</td><td>0.51±0.06 ab</td><td>0.28±0.00 a</td><td>0.54±0.07 ab</td></tr><tr><td>水生鸢尾 Iris tectorum+ 花叶芦竹 Arundo donax</td><td>0.53±0.05 ab</td><td>0.28±0.02 a</td><td>0.54±0.08 ab</td></tr><tr><td>美人蕉 Canna indica+ 花叶芦竹Arundo donax</td><td>0.44±0.11 b</td><td>0.26±0.03 a</td><td>0.60±0.12 a</td></tr><tr><td>花叶芦竹 Arundo donax</td><td>0.69±0.03 b</td><td>0.74±0.03 c</td><td>1.06±0.03 c</td></tr><tr><td>石菖蒲 Acorus tatarinowii+</td><td>0.67±0.03 b</td><td>0.90±0.09 c</td><td>1.33±0.12 b</td></tr><tr><td rowspan="8">T</td><td>花叶芦竹 Arundo donax</td><td></td><td></td><td></td></tr><tr><td>水生鸢尾Iris tectorum+ 花叶芦竹Arundo donax</td><td>0.87±0.03 a</td><td>1.26±0.11 b</td><td>1.44±0.08 b</td></tr><tr><td>美人蕉 Canna indica+ 花叶芦竹 Arundo donax</td><td>0.90±0.02 a</td><td>1.71±0.15 a</td><td>1.91±0.16 a</td></tr><tr><td>花叶芦竹Arundo donax</td><td>1.29±0.02 a</td><td>1.03±0.00 d</td><td>0.80±0.01 d</td></tr><tr><td>石菖蒲 Acorus tatarinowi+ 花叶芦竹 Arundo donax</td><td>1.32±0.02 a</td><td>1.68±0.06 b</td><td>1.27±0.05 b</td></tr><tr><td>水生鸢尾Iris tectorum+</td><td>1.29±0.02 a</td><td>1.33±0.06 c</td><td>1.03±0.07 c</td></tr><tr><td>花叶芦竹 Arundo donax 美人蕉 Canna indica+</td><td></td><td></td><td></td></tr><tr><td>花叶芦竹 Arundo donax</td><td>1.19±0.02 b</td><td>2.81±0.06 a</td><td>2.37±0.03 a</td></tr></table></body></html>
+
+转运系数和富集系数是判断植物对铅的转运能力（孙伟等，2016）和积累能力及修复潜力（吴桐等，2012)。由表2可知，在对照组和低浓度铅污染处理下，花叶芦竹单种和2种植物混种模式的铅转运系数均小于1，在高浓度铅污染处理下，4种种植模式的铅转运系数均大于1。这是由于在高浓度铅污染处理下，土壤中的铅含量较高，根系中过量的铅含量可以通过植物中的离子转运蛋白将铅暂时储存在根中，再装载到木质部导管，使铅易于向上运输和富集（段德超和施积炎，2014)。在对照组和低浓度铅污染中，土壤中铅含量相对较低。铅主要分布在根的细胞壁上，合适的铅浓度可促进植物根系的生长，使大多数的铅被植物根系所吸收，而向上转移重金属的能力下降。通过比较地上部分和地下部分铅含量的富集系数可知，在低浓度和高浓度铅污染中，3种混种模式的地上和地下部分的转运系数均大于1,其变化范围为 $1 . 0 3 \sim 2 . 8 1 \$ 。在本研究中，地上部分代表茎叶的铅富集能力，地下部分代表根的铅富集能力。由表2可知，随着铅污染处理含量的不断增大，不同种植模式的花叶芦竹地上部分富集系数均呈现上升的趋势。在对照组中，单种模式和混种模式之间的差异性不显著（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 )$ ，而在低浓度和高浓度铅污染处理下，单种和混种模式之间的差异显著( $. P { > } 0 . 0 5 )$ 。在低浓度和高浓度铅污染处理下，美人蕉 $^ +$ 花叶芦竹混种模式的地上部分铅富集系数要明显高于单种种植模式，其差值分别为2.55和1.45。
+
+# 3讨论与结论
+
+# 3.1混种对花叶芦竹生长特性的影响
+
+根冠比是衡量生物量累积分配的主要指标，其变化反映了植物地下和地上部分干物质积累的变化（刘阿梅等，2013)。在本研究中，不同浓度铅污染处理下，花叶芦竹的根冠比呈现出明显的混种模式要优于单种模式。黎佳佳等（2006）在铅对辣椒生物量影响的研究中指出，重金属处理对辣椒根、茎、根冠比的影响大于对叶片的影响，尤其是在Pb 处理后，茎干重比对照增加，这说明一定浓度的Pb 对辣椒茎的生长有促进作用。姜成等（2013）对铅、镉污染对花卉幼苗生长的研究中也表明，波斯菊在Pb-Cd 复合胁迫时，其根冠比呈现一直下降趋势，而百日草和矢车菊的根冠比呈现出先上升高后下降的趋势，且都低于对照。这主要是因为低浓度的铅促进植物的生长，但当环境中的铅浓度过高时，它对植物产生毒害作用。这与本研究中铅污染浓度越高、胁迫时间越长，植物受到的抑制作用就越强的结论相一致（刘阿梅等，2013)。杨晓宇等（2017）对添加物生物炭和AM真菌对瞿麦幼苗铅吸收、生长及品质影响的研究中指出，添加生物炭和 AM真菌可以帮助提高植物的根冠比，主要是因为生物炭可以促进植物生长和发育，而AM真菌可以促进植物根系的发育，使其根冠比增加。植物长势与土壤自身的质地和肥力水平直接相关，在本研究处理中并没有施加肥料，但其与添加生物炭和 AM 真菌的结论都相一致，这说明合理的植物混种对铅污染中植物的生长状况有一定的改善作用，这与姜塔（2015）的研究中有机种植减轻了土壤酸化和盐渍化，土壤有机质含量和阳离子交换量均有所提高，并有利于在一定程度上降低土壤中重金属的生物有效性。
+
+由于植物本身的遗传结构决定了其吸收或迁移金属元素的能力，且物种和栽植区域的差异，这种吸收或迁移的能力也会对植物吸收和迁移重金属元素产生不同的影响（孙伟等，2016)。在本研究中，单种和混种模式下花叶芦竹体内铅的集聚呈现出明显的浓度积累效应。即随着铅污染浓度的增加，地下部分铅含量的增加速度高于地上部分，随着铅浓度的增加，铅向地上部分转移的含量也逐渐增加。大量研究也表明（吴桐等，2012；马利民等，2005;崔爽等，2009)，植物对铅的吸收主要累积在根部，其次为茎、叶。当土壤受到铅污染时，植物根系吸收铅后，由于植物对铅的吸持、钝化或沉淀作用，使所吸收的铅很难向地上部输送，多数（ $5 5 0 \%$ ）仍留在根系（龙栎至和左燕平，2011）。这与吴桐（2012）、马利民（2005）、崔爽（2009）的研究结论都相一致，这主要是由于铅在植物体内的运移过程有关，铅一旦进入根系，它就可以贮存在根部或运输到地上部。王沛裴等（2016）的研究中指出，在铅污染下，马铃薯块茎对铅的吸收量较小，这种现象产生的主要原因是，块茎中的铅需要通过根部转运至叶片，然后合成淀粉并通过消耗能量和载体将其运输至块茎。该过程复杂且程序繁多，因此，块茎中的铅含量最少。在本研究中美人蕉的块状根茎主要用于植物的生成，并不合成淀粉，使美人蕉 $^ +$ 花叶芦竹的组合在低浓度和高浓度铅污染处理下都表现出对铅较强的吸收能力。
+
+# 3.2混种对花叶芦竹铅积累特性的影响
+
+转运系数是指植物地上部分与地下部分重金属含量的比值。植物对重金属的转运能力通常根据该系数来判断（孙伟等，2016)。本研究中，对照组和低浓度铅污染处理下，花叶芦竹体内的铅转运系数均小于1，说明在铅污染浓度较低时，铅的积聚主要存在于根部，这与之前对花叶芦竹体内铅含量的测定结果相一致。在高浓度铅污染时，单种和混种模式中的花叶芦竹转移系数都大于1，这表明当铅污染浓度较高时，植物为了避免过高含量的铅对根系产生的毒害作用，将积累在根部过量的铅，随蒸腾流由导管被动运输到地上部分。郭晓宏等（2016）在5种草本植物对土壤重金属铅的吸收、富集及转运的研究中指出，当转运系数小于0.5时，大部分铅被吸收并积聚在根部。草本植物由于地下部分收割困难，更容易造成土壤的二次污染，不适合用于铅污染修复。在本研究中，花叶芦竹作为铅超富集植物，单种时其转运系数仍可达0.61，可满足作为铅污染修复的首选植物。富集系数是植物体内铅含量与土壤中铅含量的比值，可以反映植物富集铅的能力（吴桐等，2012)。在本研究中，不同浓度铅污染处理下，单种和混种模式中的花叶芦竹地上部分和地下部分的富集系数均随着铅污染浓度的增加呈现上升的趋势。说明它对铅污染土壤具有一定的适应性，并随着铅浓度的增加呈现集聚效应。本研究中在高浓度铅污染处理下，美人蕉 $\cdot +$ 花叶芦竹混种模式中，花叶芦竹的地上部分和地下部分铅富集系数可达2.81和2.37，这不同于刘琦（2013）在所调查的9个小区4种植物中，蕨类植物金毛狗对铅的富集系数仅相差0.30，这也说明了美人蕉 $+$ 花叶芦竹的混种模式对铅污染土壤具有强大潜在的修复能力。
+
+综上所述，从植物修复的角度来看，美人蕉 $^ +$ 花叶芦竹混种模式对改善铅污染土壤的修复效果最佳。且该组合具有景观效果好、维护简单等优点，适宜在土壤铅污染净化中推广应用。
+
+# 参考文献
+
+CHENG JM, YU XZ, 2006. Roles of earthworm in phytoremediation of copper and cadmiumcontaminated soil[J].Chin JAppl Environ Biol,12(3): 352-355.[成杰民，俞协治，2006．蚯蚓在植物修复铜、镉污染土壤中的作用[J].应用与环境生物学报，12(3)：352-355.]  
+CUI S,ZHOU QX,LI P,et al.，2OO9.Pb-endurance and accumulative characteristics of severalvarieties of ornamental flowers[J]. Jiangxi Sci,27(1):157-160．[崔爽，周启星，李萍，等,2009.几种观赏花卉对土壤铅的吸收特性和抗性能力研究[J].江西科学，27(1)：157-160.]  
+CUI S,LIU YY， SUN XJ,et al.， 2014a. Remedying Pb-contaminated soil by ornamentalflowers[J].Hubei Agric Sci,53(9):2017-2018.[崔爽，刘艺芸，孙秀菊，2014a.花卉对铅污染土壤的修复［J].湖北农业科学，53(9):2017-2018.]  
+CUI S,LIU YY， SUN XJ，et al.， 2O14b. Pb accumulative characteristics of several leadaccumulation of ornamental Asteraceac[J]. Fujian JAgric Sci, 29(4): 385-399.[崔爽，刘艺芸，单新宇,等 2014b．几种菊科花卉植物对铅的富集特征［J]．福建农业学报，29(4) :385-388.]  
+DUAN DC, SHI JY， 2O14. Research advances in uptake， translocation， accumulation anddetoxification of Pb in plants[J].Chin JAppl Ecol,25(1): 287-296.[段德超，施积炎，2014.植物对铅的吸收、转运、累积和解毒机制研究进展[J].应用生态学报，25(1)：287-296.]  
+GUO H, ZHUANG JJ, 2019. Resistance of 3 aquatic plants to lead polluted water[J]. J SW ForColl,39(2):52-59．[郭晖，庄静静，2019.3种水生植物对铅污染水体的抗性研究[J].西南林业大学学报，39(2)：52-59.]  
+GUO XH, ZHU GL, WEI XZ, 2016. Characteristics of uptake, bioaccumulation and translocationof soil lead $\left( \mathrm { P b } \right)$ in five species of Herbaceous plants[J].Res Soil Water Conserv,23(1):183-186.［郭晓宏，朱广龙，魏学智，2016.5 种草本植物对土壤重金属铅的吸收、富集及转运［J].水土保持研究，23(1)：183-186.]  
+GUAN HY, QU QQ, ZHAO F, et al.， 2019. Lead tolerance and accumulation characteristics ofthe'Summer Glory'Sedum spurium[J]. JAgro-Environ Sci,38(2): 290-296.[关海燕，屈琦琦,赵凡，等，2019．‘夏日赞歌’景天(Sedum spurium‘Summer Glory’）对铅的耐性和富集特征研究［J].农业环境科学学报，38(2):290-296.]  
+JIANG C， SHEN XH, CHENG Y，2009. Studies on tolerance of garden balsam seeds toplumbum[J].Seed,28(9):16-19.[姜成，申晓慧，程艳，2009.凤仙花种子对重金属铅的耐性研究［J].种子，28(9)：16-19.]  
+JIANG C, SHEN XH, FENG P, et al.， 2013. The effect of Pb-Cd composite stress on seedinggrowth of the three kinds of Asteraceae[J]. Heilongjiang Agric Sci,(3): 86-88.[姜成，申晓慧,冯鹏，等，2013.Pb-Cd复合胁迫对三种菊科花卉幼苗生长的影响[J].黑龙江农业科学，(3):86-88.]  
+JIANG R,LYU YZ, SHEN SY,2015. Assessment of heavy metal content and pollution in organicand conventional farming soils in North China[J]. Chin JEco-Agric, 23(7): 877-885.[姜璿,吕贻忠，申思雨，2015.华北地区有机种植和常规种植模式下土壤重金属含量及污染评价[J].中国生态农业学报，23(7)：877-885.]  
+LI JJ,HU HQ,FU QL,et al.， 2O06. Impact of single cadmium, lead and their combinationpollution on pepper biomass and residues of heavy metals[J]. J. Agro-Environ Sci, 25(1):49-53.[黎佳佳，胡红青，付庆灵，等，2006.Cd、Pb 单一与复合污染对辣椒生物量及重金属残留的影响[J].农业环境科学学报，25(1)：49-53.]  
+LIU AM, XIANG YC, TIAN DK, et al.， 2013. Effects of biochar on plant growth and uptake ofheavy metal Cadmium[J].JSoil Water Conserv,27(5):193-198.[刘阿梅，向言词，田代科，等，2013.生物炭对植物生长发育及重金属镉污染吸收的影响[J].水土保持学报，27(5)：193-198.]  
+LIU Q, ZHANG WQ, ZHOU GY, et al.， 2017 Characteristics of soil heavy metals polution incultivated land in zones between ipsilateral dams of Liaohe River[J]. Chin JEco-Agric,25(10):1545-1553．[刘强，张婉秋，周贵宇，等，2017.辽河干流坝间耕地土壤重金属污染特征研究［J].中国生态农业学报，25(10)：1545-1553.]  
+LIU Q, 2O13. Heavy metal lead in soils and plant accumulation in a pollution area [J]. J. ChinAgric Mechan,34(4):266-268,260.[刘琦，2013.重金属铅污染区土壤污染与优势植物筛选研究［J].中国农机化学报，34(4)：266-268，260.]  
+LONG LZ, ZUO YP, 2011. Efects of soil Pb contamination on urban garden plants[J]. J SichuanFor Sci Technol,32(1):65-68．[龙栎至，左燕平，2011.土壤铅污染对城市园林植物的影响［J].四川林业科技，32(1)：65-68.]  
+MA LM, CHEN L, MA N, et al.， 2O05.Characters of flower plants for lead enrichment fromsewage sludge[J].ChinJEcol,24(6): 644-647．[马利民，陈玲，马娜，等，2005.几种花卉植物对污泥中铅的富集特征[J].生态学杂志，24(6)：644-647.]  
+SUN W, WANG Q, ZHANG W, et al.， 2016. Screening of vegetation for ecological restorationaround lead-zinc tailings site in Hunan Province[J].Value Eng,35(17): 2O8-211.[孙伟，王琼,张望，等，2016.湖南省铅锌尾矿污染区植被修复适生植物选择研究［J].价值工程，35(17): 208-211.」  
+WANG PP, ZHENG SL,HE CL, et al.， 2016.Effects of liquid organic fertilizer on absorption oflead and cadmium and dry matter accumulation in different organs of potato[J]. JAgro-Environ Sci,35(3):425-431.[王沛裴，郑顺林，何彩莲，等，2016.液体有机肥对铅、镉污染下马铃薯重金属吸收及干物质积累的研究［J].农业环境科学学报，35(3)：425-431.]  
+WU T,LI CL, GAO ZQ,et al.， 2012. Enrichment characteristics of several ornamental plants tolead in soil[J].Jilin Agric Univ,34(3):305-310.[吴桐，李翠兰，邵泽强，等，2012.几种花卉植物对土壤中铅富集特征的研究［J].吉林农业大学学报，34(3)：305-310.]  
+YAN AL，WU TT,WANG YB,et al.，2010. The characteristics of cadmium tolerance andaccumulation in three kinds of ornamental plants[J].Acta Ecol Sin, 30(9): 2491-2498.[燕傲蕾，吴亭亭，王友保，等，2010.三种观赏植物对重金属镉的耐性与积累特性［J].生态学报，30(9)：2491-2498.]  
+YANG S, JIA L, BI YF, et al.， 2018. Interspecific differences and accumulative characteristics ofcadmium and lead about seven alfalfa （Medicago sativa L.） cultivars in a lead-zinc mine ofYunnan,China[J].JAgric Resour Environ,35(3): 222-228.[杨姝，贾乐，毕玉芬，等，2018.7种紫花苜蓿对云南某铅锌矿区土壤镉铅的累积特征及品种差异［J].农业资源与环境学报，35(3)：222-228.]  
+YANG XY,LI C, MA YS,et al.， 2017. Effects of the additives and the combination of plants onPb absorption， growth and quality of Dianthus superbus[J]. Chin J Appl Ecol,28(4):1155-1160.［杨晓宇，李程，马思跃，等，2017.添加物及植物组合对瞿麦幼苗铅吸收、生长及品质的影响[J].应用生态学报，28(4)：1155-1160.]  
+YAO RJ, YANG JS, XIE WP, et al.,2O17. Content and bioavailability factors of soil heavy metalsin mudflat coastal areas[J]. Chin JEco-Agric,25(2): 287-298.[姚荣江，杨劲松，谢文萍，等，2017.沿海滩涂区土壤重金属含量分布及其有效态影响因素[J].中国生态农业学报，25(2): 287-298.]  
+ZHOU WH, Zhang JJ, Zou MM, et al.， 2017. The detection and monitoring of available heavymetal content in soil: A review[J].Chin JEco-Agric,25(4): 605-615.[周卫红，张静静，邹萌萌，等，2017.土壤重金属有效态含量检测与监测现状、问题及展望[J].中国生态农业学报，25(4)：605-615.]  
+ZOU XJ,LIE ZY, XUE L,2018. Effects of salt stress on biomass of seven landscape plants[J]. JCent S Univ For Technol,38(3):97-101,128.[邹晓君，列志肠，薛立，2018.盐分胁迫对7种园林植物生物量的影响[J].中南林业科技大学学报，38(3)：97-101，128.]

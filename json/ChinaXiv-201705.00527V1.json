@@ -1,0 +1,507 @@
+[
+    {
+        "type": "text",
+        "text": "Robotic Trajectory Planning Based on CL Data\\* ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Guoqiang Zeng, Chin-Yin Chen, Dishan Huang, Yingdan Zhu ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract—It is crucial to plan trajectory in robotic finishing withcomplex surface in manufacturing industry. While traditional robot programming for grinding is still time consuming and not cost-effective generally. This paper focuses onautomatic trajectory planning based on the cutter location(CL) data generated in CAD/CAM system.It explores asuitable way to convert the G code which obtained from CL data to robot program directly through Visual Studio,how to automatically extract motion data from G code,generate the KUKA robot paths/programs in PC.In addition,simulation of robot's kinematics models are implemented in MATLAB to verify the robot reachability.Anexperiment in Unigrahics, MATLAB and real robot illustrates the grinding trajectory composed ofCL data is appropriate. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I．INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Industrial robot is now applied in various industrial field as a kind of flexible automation equipment, for its flexible adaptabilityofproducingconditionsandworking environment, improving the productive efficiency greatly, and ensuring the quality of product homogeneity. Along with the development of intelligent manufacturing and the industrial 4.O concept was proposed. Industrial robot's application in the field of mechanical processing will also increase.According to InternationalFederationofRobotics (IFR),sales to the metal and machinery industry reached a new peak level of almost 16,5oo units,accounting for a share of $9 \\%$ of the total supply in 2013[1]. Ranking third only to automotive industry $3 9 \\%$ and electrical/electronics industry $20 \\%$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "With the rapidly advancing computer technology, it is possible to implement CAD/CAM software to program for robot.Nowadays,millions of users worldwide are using CAD technology to design and model their products for its economically attractive and simply to work.Up to now, the CL data which composed of cutter tip position and tool direction can be directly obtained from the CAM system in the manufacturing industry[2]. The CL data was described as the basic tool path for the multi-axis NC machining. The generation procedure from CC ,CL points and CO angles were also showed in [3]. Ho showed the tool path \\*Research supported by STS Project of Chinese Academy of Sciences. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Guoqiang Zeng is with 1Zhejiang Key Laboratory of Robotics and Intelligent Manufacturing Equipment Technology,Ningbo Institute of Materials Technology and Engineering,Chinese Academy of Sciences, Ningbo,Zhejiang,315201 China and also with the 2School of Mechatronic Engineering and Automation,Shanghai University,Shanghai,200072 China. (email: zengguoqiang@nimte.ac.cn). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chin-Yin Chen，Yingdan Zhu(email: y.zhu@nimte.ac.cn) are with the 1Institute of Advanced Manufacturing Technology,Ningbo Institute of Materials Technology and Engineering,Chinese Academy of Sciences, Ningbo,Zhejiang,315201 China(Corresponding author: Chin-Yin Chen; phone:+86-574-87602663; fax: +86-574-86382329; e-mail: chenchinyin@nimte.ac.cn). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dishan Huang is with the 2School of Mechatronic Engineering and Automation，Shanghai University，Shanghai,2ooo72 China.(email: hdishan@shu.edu.cn). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "generation procedure and tool orientation smoothing method in five-axis machining,and presented a cutting error improvement(CEI) method that modify CL data keeping final cutting error within the required tolerance[4]. Anewmethodology of path generation forrapid prototyping(RP) operationswasintroduced basedon CAD/CAM. In this methodology, the center location source files(CLSF) was utilized to generate the path data for RP operation[5]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Actually, CAD has been used in the application of robot vision as a new technology in 198Os[6]. Series of study have been done in the area of CAD-based robot path planning and programming from then on.Some research to extend CAD's capabilities in the robotics field were explored over the years. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Neto proposed a CAD-based robot programming system that could directly generate robot programming from a common CAD system in [7]. An adaptive and low-cost roboticcoating platform waspresented usinglaser triangulation to extract position and orientation information for robot programming[8].A CAD-based OLP was explored to extract robot motion sequences from CAD drawing and presented the process of automatic generation of robot path planning and programming[9]. Nagata[1O] described a robotic CAM system directly dealt with CL data without using any robot language,making it simple for robot path planning.A robotic polishingsystem was introduced to take the cutter location which is generated from the post processer on a common CAD in path planning. And a quaternioninterpolation(QI) algorithmwasproposed between two CL data to realize the smooth motion of end-effector [2]. Zhu[11] presented a dedicated off-line programming system for robotic drilling based on Catia.It is quite clear that researchers have conducted a variety of study in the field of CAD/CAM-based robot programming. However, fewof the research showed that the CAD/CAMbased robot programming is really independent of robot cell Robot's and objects’3D model are necessary in the simulation of robot motion.It is complicated and time consuming for constructing model before path planning. And the problem of inverse solution of joints along the planning trajectory was not considered, such as multiple solutions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this paper, a new method is proposed to automatically convert G code to robot programming through Visual Studio.G code is generated from CL data which composed of cutter tip position and tool direction obtained in CAD/CAM system.In this process, only the workpiece 3D model and its position relative to the base coordinate system of robot are necessary. It is implemented to how to convert milling tool path to robotic grinding trajectory. Setting up KUKA KR6O-3's kinematics and inverse kinematic model in MATALB to verify the robot reachability， inverse solutions are also presented based on CL data.The problem of multiple solutions is discussed by means of MATLAB. Finally,a basic experiment is conducted to illustrate the grinding trajectory composed of CL data is suitable in real KUKA robot. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "II.ACQUIREMENTOFPOSITIONAND ORIENTATION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A．MeaningofCL data ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Nowadays,all kinds of CAD/CAM systems are widely applied in manufacturing industry,such as Unigrahics, Catia，Pro/Engineer，Solidworks，etc.Each CAM system can generate CL data that consist of position and orientation information through CAD module. If a workpieceis designed in CAD/CAM system and manufactured by CNC tool, the CL data can be regarded as the ideal machining trajectory[9]. So it is crucial to research how to transform the CL data into robot program. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "B．Generation ofCL data ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "When CL data are directly applied to industrial robot, we have to ensure that the interval between each CL point is proper or not in the desired trajectory. In grinding processing，accurate position control is dispensable since the end-effcetor has a certain displacement compensation. So processing step distance can be expanded in the range of allowable error to make the robot running more smoothly. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the grinding processing with KUKA robot, the position and orientation in each point consist of 6 coordinate values.Because of NC milling machining and robotic grinding have a great similarity in the motion mode, it is possible to obtain CL data from milling CNC to generate the motion trajectory of robot grinding processing. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this paper, CAM system of Unigrahics is chosen to generate CL data. Some parameters are set as follows: processing type[multi-axis mill],cutter diameter $[ 5 0 \\mathrm { m m } ]$ ， drivenapproaching[surface]，cutingpattern[zigzag], processingstep[9]，toolaxis[perpendiculartothe workpiece].Fig.1showsthedesiredtrajectorythat generated using the main-processor ofUnigrahics.And the “GOTO/” statements which consist of position vector and orientation vector is shown in Fig.2,the front three values represent the position information and the queen values are orientation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Post-processing is a way transferring CLSF into G code that the NC system can be identified.The portion of G code that corresponding to Fig.4 as shown in Fig.3. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GOTO/1991.6846,50.9021,824.6314，-0.9926460   \n,0.0589766,0.1057147   \nGOTO/1991.5180,50.9044,823.0633，-0.9926827   \n,0.0590015,0.1053560   \nGOTO/1990.2061,50.9243,810.5187,-0.9929714   \n,0.0591992,0.1024854   \nGOTO/1988.9307,50.9443，797.9724，-0.9932522   \n,0.0593926,0.0996119   \nGOTO/1987.6916,50.9635,785.4220，-0.9935252   \n,0.0595809,0.0967352   \n品   \nNO010 G40G17G90 G71   \nNO020 G91 G28 Z0.0   \nN0030 T0O M06   \nN0040 G00G90 X1946.91 Y57.26 A-3.55 B-83.93 S0 M03   \nN0050 G43 Z860.04 H00   \nN0060 X1995.12 Y54.27   \nN0070 Z854.91   \nN0080 G01 X1991.94 Y54.31 Z825.08 F250.M08   \nN0090X1991.93 Y54.32_Z825.03   \nN0100 X1991.89 Z824.63 B-83.94   \nN0110 X1991.73 Z823.07B-83.96   \nN0120 X1990.41 Y54.34 Z810.52 A-3.56 B-84.12   \nN0130 X1989.14 Y54.36 Z797.97 A-3.57 B-84.29   \nN0140 X1987.9 Y54.38 Z785.42 A-3.58 B-84.45   \nN0150 X1986.7 Y54.39 Z772.87 A-3.59 B-84.62   \nNO160 X1985.53 Y54.41 Z760.31 A-3.6 B-84.78   \nN0170 X1984.4 Y54.43 Z747.74 A-3.61 B-84.95   \nN0180 X1983.31 Y54.45 Z735.17 A-3.62 B-85.12   \nN0190 X1982.25 Y54. 46 Z722.6 A-3.63 B-85.28   \nNO200 X1981. 23 Y54. 48 7.710. 03 A-3. 66 B-85. 45 ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/cc58af59aa2408352799e2141d953b7da82dc5b693342056d3a8687d49fdf205.jpg",
+        "img_caption": [
+            "Figure 1.Grinding path consist of CL data ",
+            "Figure 2. Example of CL data written by multi-lined “GOTO/\" statements ",
+            "Figure 3.G-code of mill "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "III.AUTOMATICCONVERSIONOFINSTURCTIONS",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A. NC program(G code) ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "G code is a kind of NC machine instruction for task.NC machine can move straight line,arc and other auxiliary cutting motion by executing the G code. NC program is composed of a series of procedures section, each paragraph usually contains a single step command of processing operation. And the procedure section is usually composed ofaddresscharacterN,G,X,Y,Z,F,S,T,Mandthe corresponding numerical values. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "B．KUKArobot instructions ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Generally,it is consist of motion instructions,data transmissioninstructions,I/Oinstructions,control instructions，operation and auxiliary instructions as a full set of robot instruction system，a part of them are introduced as follows. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Motion instructions are defined in the light of definition of different robot coordinate system or different pulse position to move the specific curve.They are divided into liner movinginstruction LIN, arc instruction CIRC, point-to-point instruction PTP, etc. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "C. Robot program generation ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "“DEF program name(\"is always appearing at the beginning of the program.“END\" indicates the end of program；“DECL” is used to define variables；“INI\" contains the standard parameters which the procedures run correct is needed,“INI’ which composed of motion instruction and waiting/logic instruction has to be operated firstly.“PTP Home” is usually placed at the beginning and the end, because this is the only known position.“FRAME\" defines the position and orientation with 6 numeric data, which is X-,Y-,Z-,A-，B-,C-，respectively. The robot movingspeed wasdecidedby“\\$VEL.CP. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Code conversion module implements transformation from G code to robot control program. On the basis of NC machine's and robot's control characteristics,extracting the relevant information from NC machining program, and then converting the NC program to the robot motion control instruction, saving it as the JOB file at the end.For instance. the “Go1’ code in NC programming will be converted to “LIN” or“PTP” in robot programming[12].Visual Studio is a suitable tool to accomplish this on account of its visual interface，dialog boxes and related function keys.Fig.4 shows the framework of the automatic conversion process. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "国 RobotOder ×NCProgramFile Start Converting RobotProgramFileNC ProgramFile RobotProgramFile% > DEFPolishing1 AN0010G40G17G90G71 DECL AXIS homeN0020G91G28Z0.0 DECLFRAMEP101,P102,P103,P104,FNO030T00M06 P201,P202,P203,P204,P205,P2,PN0040G00G90X1946.913Y57.263 P301,P302,P303,P304,P305,P306,P3NO050G43Z860.043H00 P401,P402,403,P404,P405,46,P4N0060X1995.115Y54.272 P501,P502,P503,P504,P505,P506,P5NO070Z854.907 P601,P602,P603,P604,P605,P606,P6N0080G01X1991.939Y54.315Z825 P701,P702,P703,P704,P705,P706,P7N0090X1991.934Z825.027B-83.93 P801,P802,P803,P804,P805,P806,P8N0100X1991.892Y54.316Z824.635 P901,P902,P903,P904,P905,P906,P9N0110X1991.726Y54.318Z823.067 P1001,P1002,P1003,P1004,P1005,PN0120X1990.414Y54.337Z810.521N0130X1989.139Y54.357Z797.974 ININ0140X1987.901 Y54.375Z785.422N0150X1986.698Y54.394Z772.866 \\$APO_CDIS=5;[mm] distance< > < >",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Asis well known，when a 6-axis fully articulated industrial robot is applied to grinding,the rotation around the tool axis is irrelevant and requiring only five joints. It is accomplished that the tool axis is aligned with the last joint in this application,so that when confirming the orientation information in CL data,the orientation of TCP can be determined only with roll angle(A） and pitch angle(B) while the yaw angle(C) is flexible[9]. According to the posture between end-effector and workpiece,when the yaw angle(C) is confirmed to $1 8 0 ^ { \\circ } )$ ）will be rationalized. Thus, Fig.5 shows the KUKA program that converted from G code which presents in Fig.5,it is composed of position, orientation,moving forms,speed and force parameters,etc. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DEF Polishing1  \nDECL AXIS home  \nDECL FRAME P101,P102,P103,P104,P105,P106,P107,P108,P109,  \nINI  \n$\\$ 450\\_ c D I S =5$ ;[mm]_distance  \n\\$VEL $. { \\mathrm { C P } } = 0$ .3; $[ \\mathtt { m / s } ]$ velocity  \nP101={X1990.41,Y 54.812,Z 810.52,A 176.299,B 84.12,C180]  \nP102={X 1989.14,Y 54.812,Z 797.97,A 176.299,B 83.956,C 180}  \nP103={X 1987.9, Y 54.812,Z 785.42,A 176.299,B 84.784,C 180}  \nP104={X 1986.7，Y 54.812,Z 772.87,A 176.299,B 85.615,C 180}  \nP105={X1985.53,Y 54.812,Z 760.31,A 176.299,B 86.449,C 180}  \nLIN P101 C_DIS  \nLIN P102 C_DIS  \nLIN P103 C_DIS  \nLIN P104 C_DIS  \nLIN P105 C_DISI  \nEND",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "D．Robot program running ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As shown in Fig.5, the program that generated from G code is a KUKA expert programming type. It is also fatal that how the KUKA robot running the generated program. Actually， KUKA robot can only recognize the program when the program files with .src and .dat format at the same time.So here is the way how to connect the KUKA robot with PC. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The WorkVisual software package is the engineering environmentforKUKARobotController4(KRC4) controlled robotic cells.It offers transferring projects to the real robot controller.Fig.6 shows the WorkVisual graphical user interface.It is necessary to follow the steps to accomplish the task to run the generated program.Firstly, generating code; then pinning a project; at last, transferring the project to the robot controller. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "WorkVisualDevelopmentEnvironment-ProjectI.ws   \nFileEdit Vie Editors Extres Yindw?   \nHXs9Pm X 中   \nProject Structure 4X Cellonfigeti[Cntraller 1]-KC:RProgntrajetry.tt   \nrremeFiles 1DEF Polishing1   \nCell:eeats vier 2 DECL AXIS hone Gohel files 3DECLFRAME P101,P102,P103,P104,P105,P106,P107,P108,P109... 日Coatroller 4INI B 5SAPO_CDIs=5;[mm] distance 中 6SVEL.CP=0.3;[m/s] velocity d TP101=[X1895.12,Y54.812,2734.91,A176.299,B83.93,C180} rogr 日P102=[X1861.726,Y54.812,2703.067,A176.299,B83.956,C180} trjeetry.tt 9P103=（X1855.532,Y54.812,2640.305,A176.299,B84.784,0180） Systen 10P104=[X1850.247,Y54.812,3577.448,A176.299,B85.615,0180） TP 11P105=[X1845.877,Y54.812,2514.511,A176.299,B86.449,C180} STEU 12... 中 13LIN P101 C DIS Sofigat 14LIN P102 C_DIS 15LIN P103 C_DIS 16LIN P104C_DIS 17LIN P105 C DIS 28.... 19END ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f6999dc20530f423cf50082c33a2c8ac20ff009b54008ae02eee00a3b5f1015.jpg",
+        "img_caption": [
+            "Figure 4.Automatic conversion process framework ",
+            "Figure5.KUKA programafterconversion ",
+            "Figure 6.WorkVisual graphical user interface ",
+            "Figure 7.Link coordinate system ofKR60-3 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "IV.KINEMATICSSIMULATION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In order to control the robot's position and orientation better in the machining process,it is quite necessary to set up the kinematics model with mathematical description of robot in the work unit. As we known, any robot could be seen as a series of joints connected together. The Denavit-Hartenberg(D-H） parametersdescribingthe relationship between structures’movement is widely used in the field of robot in the reason of simplicity. KUKA KR60-3 is an industrial robot with 6-axis fully articulated. Fig.7 shows the link coordinate system of KR6O-3 in the original condition,and the D-H parameters as shown in TABLEI． The axis of Joint4，Joint5 and Joint6 are perpendicular each other and intersected at the same point, and the coordinate system $\\{ 4 \\}$ and {5} are coincidence. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Based on the parameters and joint variables ofKR60-3 robot, the kinematics model of KR60-3 robot can be set up using function link and serialink of Toolbox in MATALB as shown in Fig.8. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b6904be667a93d6d3adb7a9565bdfae6827a2fcf9eb1116835f73accb77d092f.jpg",
+        "table_caption": [
+            "TABLE I. LINKPARAMETERS OF KR60-3 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Link i</td><td>ai(mm)</td><td>α(）</td><td>d;(mm)</td><td>0()</td><td>Rotary Range</td></tr><tr><td>1</td><td>350</td><td>-90</td><td>815</td><td>0</td><td>±185°</td></tr><tr><td>2</td><td>850</td><td>0</td><td>0</td><td>-90</td><td>+35/-135°</td></tr><tr><td>3</td><td>145</td><td>-90</td><td>0</td><td>+90</td><td>+158/-120°</td></tr><tr><td>4</td><td>0</td><td>90</td><td>820</td><td>0</td><td>±350°</td></tr><tr><td>5</td><td>0</td><td>-90</td><td>0</td><td>0</td><td>±119°</td></tr><tr><td>6</td><td>0</td><td>0</td><td>170</td><td>0</td><td>±350°</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/998767f27e2b6c12c0fc45d1bf8c749e9feefdc7cc85cb666a3bf069c84e374e.jpg",
+        "img_caption": [
+            "Figure 8.Kinematic model ofKUKA60-3 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "V.INVERSEKINEMATICSSIMULATIONBASEDON CLDATA ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A．Expression ofposition and orientation ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The position coordinate is directly obtained by CL data. The position of point $\\mathbf { k }$ is $\\begin{array} { r l } { \\big [ X ( \\mathbf { k } ) } & { { } Y ( k ) \\quad Z ( k ) \\big ] ^ { T } } \\end{array}$ ,and the rotation matrix that rotates $\\mathbf { \\boldsymbol { x } }$ ,y and $z$ is $R _ { x ( k ) } , R _ { y ( k ) }$ and $\\pmb { R } _ { z ( k ) }$ as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\pmb { R } _ { x ( k ) } = \\left[ \\begin{array} { c c c } { 1 } & { 0 } & { 0 } \\\\ { 0 } & { \\cos A _ { k } } & { - \\sin A _ { k } } \\\\ { 0 } & { \\sin A _ { k } } & { \\cos A _ { k } } \\end{array} \\right] } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\pmb { R } _ { y ( k ) } = \\left[ \\begin{array} { c c c } { \\cos B _ { k } } & { 0 } & { \\sin B _ { k } } \\\\ { 0 } & { 1 } & { 0 } \\\\ { - \\sin B _ { k } } & { 0 } & { \\cos B _ { k } } \\end{array} \\right] } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { R _ { z ( k ) } } = \\left[ \\begin{array} { c c c } { { \\cos C _ { k } } } & { { - \\sin C _ { k } } } & { { 0 } } \\\\ { { \\sin C _ { k } } } & { { \\cos C _ { k } } } & { { 0 } } \\\\ { { 0 } } & { { 0 } } & { { 1 } } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The rotation matrix of point $\\mathbf { k }$ is expressed as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { { \\pmb R } _ { X Y Z } ( A , B , C ) = { \\pmb R } _ { Z } ( A ) { \\pmb R } _ { Y } ( B ) { \\pmb R } _ { X } ( C ) } \\\\ & { \\qquad = \\left[ \\begin{array} { l } { c C c B \\ c C s B s A - s C c A \\ c C s B c A + s C s A } \\\\ { s C c B \\ s C s B s A + c C c A \\ s C s B c C - c C s A } \\\\ { - s B \\qquad c B s A } \\end{array} \\right] } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "0 $\\mathrm { \\bf \\dot { c } } A = \\cos A , \\mathrm { \\bf s } A = \\mathrm { s i n } A ,$ ：the rest follow this rule) The homogeneous matrix of point $k$ is expressed as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { \\Sigma } } _ { 6 } ^ { 0 } T ( k ) = \\left[ \\begin{array} { c c c c } { { c C _ { k } c B _ { \\mathrm { k \\ } } c C _ { \\mathrm { } _ { k } } s B _ { \\mathrm { k } } s A _ { \\mathrm { k } } - s C _ { \\mathrm { } _ { k } } c A _ { \\mathrm { } \\mathrm { k \\ } } c C _ { \\mathrm { } _ { k } } s B _ { \\mathrm { k } } c A _ { \\mathrm { k } } + s C _ { \\mathrm { } _ { k } } s A _ { \\mathrm { } } } } & { { X ( k ) } } \\\\ { { s C _ { k } c B _ { \\mathrm { k \\ } } s C _ { \\mathrm { } _ { k } } s B _ { \\mathrm { k } } s A _ { \\mathrm { k } } + c C _ { k } c A _ { \\mathrm { } _ { k } } \\ s C _ { \\mathrm { } _ { k } } s B _ { \\mathrm { k } } c C _ { \\mathrm { } _ { k } } - c C _ { \\mathrm { } _ { k } } s A _ { \\mathrm { } } } } & { { Y ( k ) } } \\\\ { { - s B _ { \\mathrm { } _ { k } } } } & { { c B _ { \\mathrm { } _ { k } } s A _ { \\mathrm { } } } } & { { c B _ { \\mathrm { } _ { k } } c C _ { \\mathrm { } _ { k } } } } & { { Z ( k ) } } \\\\ { { 0 } } & { { 0 } } & { { 0 } } & { { 1 } } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "B.Inverse solutions ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Generally, there may be as many as 16 kinds of solutions for an industrial robot with six rotary DOFs. However,it is impossible that all the solutions can be reached since each joint can not range 36o degrees.Eight feasible solutions may be obtained for a certain point in robot's workspace. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "It is assumed that point $\\mathrm { ~ \\bf ~ P ~ }$ locates at (X 1370.30,Y 54.81,Z 1334.12,A 176.30,B 83.93,C180). Meanwhile the resulting transformation matrix that coordinate system $\\{ \\mathrm { i } \\}$ relative to {i-1} as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathrm { i } ^ { - 1 } \\boldsymbol { T } = R _ { Z } ( \\theta _ { i } ) R _ { Z } ( \\theta _ { i } ) D _ { X } ( a _ { i } ) R _ { X } ( \\alpha _ { i } ) } \\\\ & { \\quad \\quad = R o t ( z , \\theta _ { i } ) R o t ( z , \\theta _ { i } ) T r a n s ( a _ { i } , 0 , 0 ) R o t ( x , \\alpha _ { i } ) } \\\\ & { \\quad \\quad = \\left[ \\begin{array} { l l l l l } { c \\theta _ { i } \\cdot \\mathrm { c } \\alpha _ { i } s \\theta _ { i } } & { s \\alpha _ { i } s \\theta _ { i } } & { a _ { i } c \\theta _ { i } } & { } \\\\ { s \\theta _ { i } \\ \\mathrm { c } \\alpha _ { i } c \\theta _ { i } } & { - s \\alpha _ { i } c \\theta _ { i } } & { a _ { i } s \\theta _ { i } } \\\\ { 0 } & { s \\alpha _ { i } } & { c \\alpha _ { i } } & { d _ { i } } \\\\ { 0 } & { 0 } & { 0 } & { 1 } \\end{array} \\right] } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "At this section, importing the parameters in TABLE I into Eqs.6,calculating $^ { 0 } _ { I } T , _ { 2 } ^ { I } T , _ { 3 } ^ { 2 } T , _ { 4 } ^ { 3 } T , _ { 5 } ^ { 4 } T , _ { 6 } ^ { 5 } T \\mathrm { a }$ nd ${ } _ { 6 } ^ { \\sc o } T$ ,then obtaining inverse matrix $^ { I } _ { o } T , { } _ { l } ^ { 2 } T , { } _ { 2 } ^ { 3 } T , { } _ { 3 } ^ { 4 } T , { } _ { 4 } ^ { 5 } T \\mathrm { a n d } _ { 5 } ^ { 6 } T$ .In this case，solving eight solutions at the point $P$ as shown in TABLEII. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/fad14548ee1743703d854954c0414139153d1bea18c80e32431495d22798ebe4.jpg",
+        "table_caption": [
+            "TABLE II. EIGHT SOLUTIONSOF THECORRESPONDING SPATIALPOINT $P$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>NO.</td><td>0(）</td><td>0（）</td><td>0（)</td><td>04（）</td><td>0(）</td><td>（0)</td></tr><tr><td>1</td><td>-3.13</td><td>-84.59</td><td>116.41</td><td>164.65</td><td>26.53</td><td>-166.92</td></tr><tr><td>2</td><td>-3.13</td><td>-84.59</td><td>116.41</td><td>-15.35</td><td>-26.53</td><td>13.08</td></tr><tr><td>3</td><td>-3.13</td><td>20.22</td><td>-96.35</td><td>6.85</td><td>82.30</td><td>-1.65</td></tr><tr><td>4</td><td>-3.13</td><td>20.22</td><td>-96.35</td><td>-173.15</td><td>-82.30</td><td>178.35</td></tr><tr><td>5</td><td>176.87</td><td>-173.17</td><td>34.78</td><td>-170.85</td><td>48.08</td><td>-6.86</td></tr><tr><td>6</td><td>176.87</td><td>-173.17</td><td>34.78</td><td>9.15</td><td>-48.08</td><td>173.14</td></tr><tr><td>7</td><td>176.87</td><td>-148.68</td><td>-14.72</td><td>-162.86</td><td>23.65</td><td>-16.50</td></tr><tr><td>8</td><td>176.87</td><td>-148.68</td><td>-14.72</td><td>17.14</td><td>-23.65</td><td>163.50</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The criterion of selecting solution is always mutative for the problem of multiple solutions.However, the reasonable choice should be“the shortest route”which means each joints moves the minimum angle.In the case of without obstacles,it will be obtained“the shortest route\" solutions in joint space by using algorithm,while there are several ways to decide “the shortest route” solutions.For example, a typical robot is composed of three big links and three small links, and the posture links are next to the end-effector. Thence,it has to weighted when calculating “the shortest routeto trend to move the small links and not to move the big links, that is following the principle “more moving big links,and less little ones”[13]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "C.Inverse kinematics simulation ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.9showsthe method establishing the inverse kinematics modelofKR60-3 based on MATLABRobotics Toolbox. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3fc41873d921cdf3ef2e9444eca4d10505240fbd024871e6c25d2c6a535d1d0a.jpg",
+        "img_caption": [
+            "Figure 9.The establishment method of inverse kinematics model "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2603303e89d21801b1b4248147f0cab4dba749102e3d1a829f60c128b4d578eb.jpg",
+        "img_caption": [
+            "Figure 10.Simulation curve of each joint variable "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "An actual grinding trajectory was implemented to verify the inverse kinematics solutions of KR6O-3. At the beginning, the value of each joint is $( - 2 . 1 8 ^ { \\circ } , 3 1 . 9 7 ^ { \\circ }$ ， $7 9 . 9 5 ^ { \\circ }$ $- 8 . 7 2 ^ { \\circ }$ ， $\\cdot 4 2 . 2 1 ^ { \\circ }$ ， $5 . 8 6 ^ { \\circ } )$ ，the end is $( - 2 . 2 5 ^ { \\circ }$ 。 $7 . 4 ^ { \\circ }$ ， $5 7 . 2 1 ^ { \\circ }$ $. 6 . 7 5 ^ { \\circ }$ ， $- 6 1 . 7 1 ^ { \\circ }$ ， $2 . 8 9 ^ { \\circ } )$ ,and the sample time is 1O seconds. Each joint's angle simulating curve changing is quite gentle, and there is no mutations within the scope of permit, which is shown in Fig.10. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "VI.EXPERIMENTIMPLEMENTANDRESULTS ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "An experiment of verification was conducted using Unigrahics,MATLAB and KUKA KR60-3 robot. Three points on the continuous path were chosen to compare the position and orientation, they were （X 1991.89,Y 54.32,Z 824.64)、(X 1967.58,Y 54.86.Z 367.34)、(X 1991.73,Y 55.17,Z -88.38）,respectively. Since the grinding path is a curve line，the orientation of each point was changed slightly. While the three points which selected were extraordinary that corresponding to the workpiece's top, middle and bottom, respectively.In this case, the orientation of three special points inUnigrahics,MATLAB and KUKU KR60-3 as shown in Fig.11, they are coincident indeed. It is means that the CL data obtainedfrom Unigrahics can be used in real KUKA robot correctly. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/72bb7e69edb15ffbe5c36e6a4e4c32988b36e591963e045a0b88594dee005aa4.jpg",
+        "img_caption": [
+            "c. Orientation in real KR60-3 robot ",
+            "Figure 11．Position and orientation of three points in three modes "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "VII.CONCLUTION ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This paper proposed an off-line programming method based on CL data obtained from CAD/CAM system.It used G code as the media,and presented the method to solve position and orientation of points between CL data, then accomplished the connected conversion from CAD/CAM to KUKA Robot Language(KRL） through interface program with Visual Studio.In other words, it was implemented how to convert milling tool path to robotic grinding path.Last but not the least, the grinding control program could be automatic generated in PC.In this way, it can improve the programming efficiency and reduce the cost to buy commercial OLP software. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Inaddition， kinematicsmodels of KR6O-3were established.A method to solve inverse solutions based on CL data and link parameters was listed. Finally,an experiment was conducted to illustrate the grinding trajectory composed of CL data is suitable in the real KUKArobot. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Our future work will concentrate on two issues: (a) accomplish the position/force hybrid control in grinding process; (b） grinding process parameters optimization for workpiece. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[13]S.D.Sun.,Basisof Industrial Robot Technology,Xi'an:Northwestern Polytechnical University Press,2002,pp.16-47. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "AKNOWLEDGEMENT ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The authors would like to thank the members of the Zhejiang Key Laboratory of Robotics and Intelligent Manufacturing Equipment Technology, CNITECH who helped to conduct the simulation on MATLAB and operate KUKArobot. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] “Executive Summary:World Robotics 2014 Industrial Robots,” International Federation ofRobotics,11-24,January 2015.   \n[2] F.Y.Lin,and L.Tian-Sheng,“Development of a robot system for complex surfaces polishing based on CL data,”International Journal of Advanced Manufacturing Technology，vol. 26，no. 9-10， pp. 1132-1137,2005.   \n[3] Y.R.Hwang，“Cutting Error Analysis for Table-Tilting Type Four-Axis NC Machines,”International Journal of Advanced Manufacturing Technology,vol.16,no.4,pp.265-270,2000.   \n[4] M.-C.HO，Y.Hwang，and C.Hu,‘Five-axis tool orientation smoothing using quaternion interpolation algorithm,”International Journal of Machine Tools & Manufacture,vol.43，no.3，pp. 1259-1267,2003.   \n[5] E. Cerit,and I. Lazoglu,“A CAM-based path generation method for rapid prototyping applications,”International Journal of Advanced Manufacturing Technology,vol.56,no.1-4,pp.319-327,2011.   \n[6] B. Bhanu,“CAD-based robot vision”Computer,vol.20, no.8,pp. 13-16,1987.   \n[7] P.Neto,N.Mendes,R．Araujo,J.Norberto Pires,and A.Paulo Moreira,“High-level robot programming based on CAD:dealing with unpredictable environments,”Industrial Robot:An International Journal,vol.39,no.3,pp.294-303,2012.   \n[8] M.Ferreira,A.P.Moreira,and P.Neto,“A low-cost laser scanning solution for flexible robotic cells:spray coating,” International Journal of Advanced Manufacturing Technology,vol.58,no.9-12, pp.pags.1031-1042,2012.   \n[9] P.Neto,and N.Mendes,“Direct off-line robot programming via a common CAD package,”Robotics& Autonomous Systems,vol.61, no. 8,pp.896-910,2013.   \n[10] F.Nagata,S.Yoshitake,A. Otsuka,K.Watanabe,and M.K.Habib, “Development of CAM system based on industrial robotic servo controllerwithoutusingrobotlanguage,”Roboticsand Computer-Integrated Manufacturing，vol. 29,no.2,pp.454-462, 2013.   \n[11] W. Zhu,and W.Qu,“An off-line programming system for robotic driling in aerospace manufacturing,” International Journalof Advanced Manufacturing Technology, vol. 68, no. 9-12,pp. pags. 2535-2545,2013.   \n[12]X.M.Lei,“Industrail robot machining technology research based on CAD/CAM\", Master dissertation,Lanzhou University of Technology, Lanzhou, Gansu Province,China,2012. ",
+        "page_idx": 5
+    }
+]

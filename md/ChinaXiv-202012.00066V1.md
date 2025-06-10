@@ -1,0 +1,132 @@
+# 眼动记录法在序列学习研究中的应用
+
+卢张龙
+
+（郑州大学教育学院，郑州450001）
+
+摘要 传统的序列学习研究，采用按键作为反应方式，一方面容易混淆几种不同类型的序列学习；另一方面不适用于儿童和病人等人群。眼动记录法可以很好地解决这些问题，为序列学习提供预期眼跳率、眼跳反应时、预期指数和眨眼频率眼动指标。目前眼动记录法广泛应用于序列学习表征、序列学习与注意关系以及序列学习的发展与临床等研究领域，未来研究应进一步探索新的眼动指标，将眼动记录法更广泛应用于内隐学习研究中。
+
+关键词序列学习；内隐学习；眼动
+
+# 1引言
+
+自从1967年Reber首次提出内隐学习概念，内隐学习已有50多年的研究历史（Cleeremansetal.，2019）。在50多年的研究历程中，发展出了人工语法（Reber，1967）、序列反应时（Nissen&Bullemer，1987）、复杂系统加工等范式，其中序列反应时范式得到了广泛应用（郭秀艳，2003）。随着科学技术的发展，新的技术运用到内隐学习研究中，例如ERP（郭秀艳等，2008）、fMRI（郭秀艳等，2008）和眼动记录法（Silvaetal.，2017）。
+
+在经典序列反应时任务中，屏幕中央水平排列4个空间位置，目标刺激出现在其中一个位置，被试对目标刺激所在位置进行相应按键反应。序列反应时任务的典型结果是，在学习阶段，规则序列的反应时逐渐下降；在迁移阶段，随机序列取代规则序列后，反应时突然增加（Nissen＆Bullemer，1987）。传统的按键反应存在两点问题，眼动记录法可以很好地解决这些问题。第一，传统的按键反应看似简单，实则复杂。通过按键进行反应，包含了手指位置序列学习、手指动作序列学习、触压感序列学习和眼动序列学习等过程（Helmuthetal.，2000）。传统的按键反应，无法将这几种学习分离开来。眼动作为序列反应时任务的一种反应，眼动反应中序列刺激位置和眼跳位置是重合的，不需要学习刺激-反应匹配关系，是最简单的反应形式，可以较好地解决按键反应过于复杂这个问题（Vakiletal.，2017）。第二，按键反应适用人群受限。有些病人（例如帕金森病人、瘫痪病人等）运动能力受损，无法完成按键反应。而且病人、儿童或老年人与成人的按键反应时基线有很大差异（Albouyetal.，2006；Helmuthetal.,2000），用按键反应时作为因变量开展序列学习的发展或病理研究非常困难（Helmuthetal.，2000，Kochetal.，2020）。眼动记录法可以很好地解决这个问题。因为眼动受年龄和疾病的影响较小，眼动在1岁前就已经发育成熟（闫国利,白学军,2018；Braddick& Atkinson，2011），眼动记录法适用于序列学习的发展研究或病理研究（Marcusetal.，2006）。下面系统介绍序列学习的眼动指标及应用。
+
+# 2序列学习的眼动指标
+
+序列学习的眼动研究，通常采用空间序列反应时任务（Kinderetal.,2008）。在屏幕呈现4个位置，目标刺激出现在其中一个位置，被试眼睛移动到目标刺激所在位置，注视很短时间即可，使用眼动仪记录眼动，不需要做出按键反应。序列学习表现为两方面：一方面在学习阶段，随着学习次数的增加，眼跳反应时逐渐下降；另一方面在迁移阶段，呈现新序列或随机序列后，眼跳反应时突然增加，即迁移效应（transfereffect）。
+
+利用眼动记录法考察序列学习，首先需要解决的一个问题是选取什么眼动指标？所选取的眼动指标应该和经典的反应时指标具有共变性（covary）（Marcuset al.，2006）。纵观已有研究，序列学习的眼动指标主要有：预期眼跳率（frequency of anticipatory eye movements）、眼跳反应时（saccadic responsetime）、预期指数（anticipationindex）和眨眼频率（eyeblinkrate）。
+
+预期眼跳率指刺激呈现前，眼跳到刺激所在位置的概率。当对序列规则发生学习时，被试会预测下一个刺激可能出现的位置，并依此调整注意，序列反应时任务中存在很多预期眼跳（Hoffmanetal.，2003），外显被试的正确预期反应比内隐被试多（Willinghametal.，1989）。不但人存在预期眼跳，动物也存在。Miyashita等人（1996）发现猴子经过训练，目标刺激出现前会做出预期眼跳，预测眼跳的正确率随着练习增加越来越高。Marcus等人（2006）发现预期眼跳率的数据模式和反应时数据模式具有共变性，预期眼跳率可以作为序列学习的指标，刺激呈现前，被试内隐或外显地把视觉注意转移到刺激可能出现的位置。
+
+眼跳反应时指刺激呈现到第一次发生眼跳的时间（Marcusetal.，2006）。Kinder等人（2008）采用新的序列反应时材料，材料上下左右排列，不是传统的水平排列。被试只需要观看刺激位置而不需要做出按键反应，以眼跳反应时作为因变量，眼跳反应时指从刺激呈现到眼跳至目标位置对应的时间。结果表明存在眼动序列学习，随着学习进行，眼跳反应时逐渐减小；当呈现一个新序列时，眼跳反应时突然增加，眼跳反应时的数据模式和传统反应时的数据模式相一致。结果表明眼跳反应时可以作为序列学习的有效指标。也有学者通过脑电等设备记录下水平眼电和垂直眼电，在水平眼电和垂直眼电基础上进一步分析眼跳反应时。例如Albouy等人（2006）通过此方法，发现眼跳反应时的数据模式和按键反应时的数据模式相似，首次验证了眼动序列学习的存在。
+
+预期指数，和预期眼跳率相类似，是关于预期眼跳的指标。计算方法为眼睛所在位置到目标位置的距离/上一个目标位置到目标位置的距离，0代表最大预测，表示目标出现前，眼睛已经注视到目标所在位置；1代表无预测，没有离开上一个位置。Wang等人（2019）使用复杂的序列规则，以预期指数为指标。结果表明预期指数可以作为序列学习的指标。
+
+眨眼频率，序列学习、自发眨眼频率和大脑多巴胺能神经元的激活水平紧密相关（Ecksteinetal.，2017）。Anton等人（2018）认为序列反应时任务中的自发眨眼频率和序列反应时任务中反应时逐渐下降相似。Anton等人（2018）通过睡眠记录仪（Morpheusrecordersystem）记录下静息态和序列反应时任务过程中的眨眼、水平眼动和垂直眼动。Anton等人（2018）发现存在序列学习，当迁移组段使用随机试验或新的规则序列时，正确率下降并且反应时增加。眨眼频率反映了多巴胺能神经元的激活水平，随机试验和第二迁移组段的眨眼频率增加；反应时和眨眼频率存在正相关；眨眼频率能够反映出正确率和反应时的迁移效应。结果表明眨眼频率可以作为序列学习和多巴胺能神经元激活水平耦合关系的指标。
+
+有研究对传统按键反应和眼动反应进行了比较（Marcusetal.，2006；Vakiletal.，2017）。Marcus等人（2006）发现无论需要做出眼动反应还是按键反应，刺激出现前，被试内隐或外显地将注意转移到刺激将要出现的位置，表现出预期眼跳。Vakil等人（2017）采用空间序列反应时范式，通过眼动（ocularactivated，OA）或按键（manualactivated，MA）做出反应。为了分析预期眼跳，刺激-刺激之间插入空白屏，并且按键反应条件下也记录了眼动。使用 SMI眼动仪记录下眼跳反应时和预期眼跳率。结果发现眼动反应和按键反应主要存在两点差别：第一，随机组段是否回到基线水平。随机组段下眼跳反应时和预期眼跳率回到基线水平，但按键反应的预期眼跳率和反应时成绩都好于基线水平。这可能是由于按键反应条件下序列学习还包含了其他加工，例如对刺激-反应匹配关系的学习。眼动反应的指标更纯净。第二，外显序列知识对预期眼跳率的影响不同。外显序列知识对按键反应的预期眼跳率没有影响，但影响了眼动反应的预期眼跳率。Vakil等人（2017）认为，眼动指标比按键反应时更纯净，而且可以直接考察被试的预期反应。
+
+# 3眼动在序列学习领域的应用
+
+# 3.1序列学习机制
+
+序列学习机制还存在争论，序列学习究竟习得了什么知识，是知觉学习还是动作学习？内隐序列学习是否需要注意参与？这些问题是内隐学习领域的基本问题（Cleeremans& Dienes，2008）。
+
+# （1）序列学习的表征
+
+序列学习是知觉学习还是动作学习还没有统一结论，动作学习的研究结果较为统一，争议的焦点在于是否存在纯粹的知觉学习（Coomansetal.，2012）。为了考察是否存在纯粹的知觉学习，不需要做出按键反应，不存在动作学习。通过眼动仪记录下序列反应时任务中的眼动，考察在不存在动作学习条件下，序列学习是否发生？如果发生了序列学习，说明存在知觉学习。
+
+第一个需要回答的问题是对序列只进行观察，不做出按键反应，是否会发生眼动序列学习？有人认为仅通过观察可以发生序列学习（Bird&Heyes，2005），有人认为仅通过观察不能发生序列学习（Kelly&Burton，2001）。以往研究得出的结论不一致，与研究设计存在差异有关。观察内容不同（只是观察刺激还是观察刺激和榜样行为）、指导语不同、序列类型不同和难度不同、规则组段和随机组段安排顺序不同、观察时间不同、外显知识不同等，都可能造成结果的不一致。越来越多研究表明观察序列会发生学习（Tanaka＆Watanabe，2018）。
+
+第二个需要回答的问题是眼动在序列学习中发挥什么作用？有人认为序列学习不需要眼动参与（Coomansetal.，2012），有人认为序列学习需要眼动参与（Marcusetal.，2006；Press& Kilner，2013），有人认为序列学习不需要眼动参与，但眼动促进序列学习,特别是刺激间隔距离较远时（Massingetal.,2016， 2018；Vieluf et al.， 2015）。
+
+Marcus 等人（2006）关于眼动在序列学习中的作用做了探讨，但是没有禁止眼动。无法得知被试在手按键反应时是否学习了眼动序列，也不知道眼动是否和手按键反应存在相关。有研究通过减小刺激间空间距离，使得刺激空间上非常接近，需要最小的眼动，从而限制了眼动（Willinghametal.，1989，实验3），没有发现空间序列学习。对这些结果的解释是学习的不是注意转移而是刺激-反应序列（Willinghametal.，1989），或者即使学会了眼动序列，但对手按键反应时的作用很小（Helmuthetal.，2000）。Coomans 等人（2012，2014）为了限制和禁止被试眼动，使用材料的视角很小（ $\cdot 0 . 6 3 ^ { \circ }$ 和 $1 ^ { \circ }$ ），结果发现限制和禁止眼动对序列学习没有影响，结果表明序列学习不需要眼动。Higuchi和Saiki（2017）采用背景线索范式，实验1中被试不允许眼动，始终注视中央位置。结果发现禁止眼动条件下，被试对刺激的空间分布发生了学习。并且禁止眼动条件下的学习速度（实验1）快于允许眼动条件下的学习速度（实验2）。
+
+Massing使用眼动仪，围绕眼动在序列学习中的作用进行了系列研究。Vieluf等人（2015）使用Tobii眼动仪，记录下凝视时间和眼跳次数。一组被试允许自由眼动，另一组被试注视某一位置，限制眼动。结果发现两组被试都发生了动作序列学习，但允许眼动组被试的反应速度比注视组快。结果表明眼动不是动作序列学习必须的，但是眼动能促进动作序列学习。后来Massing等人（2016）进一步控制了刺激大小对结果的影响。使用Tobii眼动仪，采用2（眼动：允许、注视） $\times 2$ （刺激：小、大）被试间实验设计，结果发现四组被试的成绩都提高，大刺激条件下允许眼动的成绩好于注视的成绩；小刺激条件下允许眼动和注视的成绩没有差异。结果表明眼动不是动作序列学习的必要因素，但当刺激视角较大时眼动会促进动作序列学习。为了考察眼动促进了知觉加工还是动作加工过程，Massing等人（2018）使用Tobii眼动仪，采用2（眼动：允许、注视） $\times 2$ （练习类型：观察练习、身体练习）被试间实验设计，结果发现眼动对观察练习和身体练习下的序列学习都产生促进作用，结果表明眼动对于序列学习的知觉加工和动作加工都具有重要影响。
+
+# （2）序列学习与注意的关系
+
+内隐学习和外显学习是一种学习系统还是两种学习系统？还存在争议。该问题的关键是内隐学习与注意关系问题。外显学习需要注意参与，内隐学习是否需要注意参与，还没有统一结论（Cleeremansetal.，2019）。序列学习与注意关系研究中，常用的研究方法是通过增加分心刺激，比较不同注意负荷条件下的序列学习成绩。通过眼动记录法，可以更直观地看到分心刺激对序列反应时任务的影响，存在分心刺激时，眼跳反应时更长，眼跳次数增加。
+
+卢张龙等人（2011）采用空间序列反应时范式，使用EyeLink 眼动仪，以眼跳反应时为指标，考察了内隐序列学习与注意的关系。高注意负荷条件下存在分心刺激，低注意负荷条件下没有分心刺激。结果发现高、低注意负荷条件都存在序列学习，高、低注意负荷对序列学习量没有影响。Lu和Li（2018）进一步考察了注意负荷对多重序列学习的影响。实验包含两个序列：主序列和次序列，分别呈现在屏幕上下两行。被试眼睛观看主序列目标刺激，不需要做出按键反应。操纵了注意负荷，高注意负荷条件下，主序列存在分心刺激；低注意负荷条件下，主序列不存在分心刺激。眼跳反应时指标上发现高、低注意负荷条件下主、次序列都发生了序列学习，序列学习量没有差异。结果表明单重或多重序列学习不受注意影响。
+
+# 3.2序列学习的发展与临床研究
+
+序列学习是否存在年龄差异还没有统一结论，有2个未解决的方法学问题可能是造成不一致的原因。第一，通过哪些指标来反映年龄差异性还没有统一。例如使用反应时、Z分数差值等。第二，不同年龄组别的反应基线不同。当不同组别的反应基线存在差异时，对不同组别存在的成绩差异进行解释可能是不恰当的（MacDonald&Carter，2002）。对反应基线的不同处理方法可能导致不同结果。如果使用反应时原始分数进行，存在问题，因为原始分数的基线存在组别差异。内隐学习成绩存在年龄差异可能是因为年轻人正确率更低、反应更慢(Karatekinetal.，2007）。Karatekin等人（2007）以8-10岁、11-13岁儿童、14-17岁年轻人以及大于18岁的成人为被试，首次使用眼动仪记录被试眼动，比较了儿童和成人无意序列学习和有意序列学习。为了消除不同年龄组反应基线差异问题，对手反应时和正确率指标进行了对数转换。结果发现预期眼跳率、眼跳反应时和按键反应时指标都存在序列学习，无意序列学习没有发现年龄差异，但是在有意序列学习中存在年龄差异。结果表明8-10岁已经具有内隐序列学习的能力，而有意序列学习的能力还没有发展成熟。
+
+Kavakci和Dollaghan（2019）进一步以4、5和6岁儿童为被试，使用Tobii眼动仪，以眼跳反应时作为指标，对空间序列进行学习。由于儿童年龄较小，采用的位置序列长度为8，共学习了200试次。结果发现4、5和6岁儿童对位置序列都发生了学习。Koch等人（2020）以9个月婴幼儿和成人为被试，采用序列反应时任务范式。由于婴幼儿的动作控制能力没有发育成熟，使用Tobii眼动仪记录下被试观看图片时的眼动，以眼跳反应时为因变量。序列反应时任务难度降低，图片出现位置只有3个，序列长度为5。共包含5个组段，其中第4组段为随机组段，其余组段为规则组段。结果发现成人和9个月婴儿的眼跳反应时都发生了序列学习。结果表明9个月婴儿拥有了序列学习能力。
+
+序列学习的临床病人研究方面。Karatekin等人（2009）以8-19岁的精神病人、多动症和正常人为被试，通过眼动或手按键做出反应，比较了不同组被试的无意和有意空间序列学习。结果发现精神病人和多动症患者的无意序列学习成绩没有下降，但预期眼跳率降低。精神病人的有意序列学习成绩下降。结果表明精神病人和多动症患者对规则的反应能力没有受损，但是有意发现、提取并预测规则的能力下降。
+
+Bloch 等人（2016）以瘫痪病人为被试，发现瘫痪病人的内隐序列学习成绩下降。为了进一步考察瘫痪病人内隐序列学习成绩下降是由于认知功能下降造成的，还是肌肉运动能力受损造成的。Bloch等人（2020）首次以四肢瘫痪病人为被试，采用眼动序列反应时范式（oculomotor serial reaction time task），使用 SMI眼动仪，以预期眼跳率和眼跳反应时为因变量。结果发现四肢瘫痪病人和正常人的序列学习成绩没有差异。结果表明四肢瘫痪病人与正常人按键反应时的序列学习存在差异，是由于肌肉运动能力受损造成的，而不是由于认知能力下降。
+
+# 4总结与展望
+
+眼动记录法在序列学习研究中得到了一些运用，提供了预期眼跳率、眼跳反应时和眨眼频率等新的序列学习指标，为序列学习表征研究、序列学习与注意关系研究以及序列学习的发展与临床研究提供了新的研究方法和研究视角，有助于进一步深入认识序列学习机制。但是眼动记录法在序列学习研究中存在一些问题。第一，眼动作为一种反应形式，实际上对被试的反应提供了正误反馈（正确率 $1 0 0 \%$ ），提高了序列知识的外显性。第二，眼动记录法在序列学习研究中的运用时间较短，序列学习眼动实验对于头动、走神等引起的无效试验还没有统一定义，需要进一步提高眼动数据的有效性。第三，眼动实验法可以提供丰富的数据，但目前数据分析中仅使用了部分眼动数据，需要对眼动数据进一步深入挖掘（Kavakci & Dollaghan， 2019；Koch et al.，2020；Tal & Vakil， 2020）。今后序列学习研究，可以借助眼动记录法，将序列反应时任务中的动态发展过程记录下来，对眼动数据进行深入分析，进一步考察序列学习表征机制的时间发展特征。并可以将眼动记录法和ERP 法结合起来，进一步排除眼动对脑电数据的干扰，更有效地探究序列学习的认知神经机制。
+
+# 参考文献：
+
+Albouy,G.,Ruby,P.hilips,C.,Luxen,A.,Peigneux,P.,& Maquet,P.(2006).Implicit oculomotorsequence
+
+learning in humans: Time course of offline processing. Brain Research,109o(1),163-171.   
+Bird,G.,& Heyes, C.(2005). Efector-dependent learning by observationofa finger movement sequence.Journal ofExperimental Psychology: Human Perception and Performance,31,262-275.   
+Bloch,A.,Shaham,M.,Vakil,E.,Ashkenazi,S.S.,& Zeilig,G. (202O).Examining implicit procedural learing in tetraplegia using an oculomotor serial reaction time task. Plos One,15(4),e0232124.   
+Bloch,A., Tamir,D., Vakil,E.,& Zeilig, G. (2016).Specific deficit in implicit motor sequence learning following spinal cord injury. Plos One,11, e0158396.   
+Braddick, O.,& Atkinson,J.(2011). Development of human visual function.Vision Research,51,1588-1609.   
+Cleeremans,A.,Allakhverdov, V.,& Kuvaldina, M. (2019). Implicit learning:50 years on. Hove: Routledge.   
+Coomans,D.,Deroost,N., Vandenbossche,J., Van den Bussche,E.,& Soetens,E.(2Ol2).Visuospatial perceptual sequence learning and eye movements. Experimental Psychology,59 (5),279-285.   
+Coomans，D.,Vandenbossche,J.,Homblé,K., Van den Bussche,E.,Soetens,E.,& Deroost,N.(2014).Does consolidation of visuospatial sequence knowledge depend on eye movements? Plos One 9(8), e103421.   
+Eckstein, M. K., Guerra-Carillo, B., Singley,A. T. M.,& Bunge, S.A. (2017). Beyond eye gaze: What else can eyetracking reveal about cognition and cognitive development? Developmental Cognitive Neuroscience, 25, 69-91.   
+Guo,X. Y. (20o3). Implicit learning. Shanghai: East China normal university press.   
+[郭秀艳.(2003).内隐学习.上海:华东师范大学出版社.]   
+Guo,X.Y., Gao,Y.,Shen,J.,Wang,L.J., Men,W.W.,Fu,C.,& Yang, Z.L. (2008). Concurrent implicit and   
+explicit sequence learning: An event-related fMRI study. Psychological Science,31(4),887-891.   
+[郭秀艳,高妍,沈捷,王丽嘉,门卫伟,傅成,杨治良(2008).同步内隐/外显序列学习:事件相关的 fMRI的初步研 究.心理科学,31(4),887-891.]   
+Guo,X.Y.,Jiang,S.,& Gong,R. (20o8).Event-related potential studies in sequence learning. Psychological Science,31(2), 404-407.   
+[郭秀艳,姜珊,龚嵘(2008).序列学习的 ERP 研究综述.心理科学,31(2),404-407.]   
+Helmuth,L.L.，Mayr, U.,& Daum,I. (2ooo). Sequence learning in Parkingson's disease: A comparison of spatial-attention and number response sequences. Neuropsychologia,38,1443-1451.   
+Higuchi,Y.,& Saiki,J.(20l7).Implicit learning of spatial configuration occurs without eye movement. Japanese Psychological Research, 59(2),122-132.   
+Hoffmann, J.,Martin, C.,& Schilling,A. (2oo3). Unique transitions between stimulus and responses in SRT tasks: evidence for the primacy of response predictions.Psychological Research,67 (3),160-173.   
+Kachergis,G.,Berends,F.,De Kleijn,R.,& Hommel, B.(2014).Trajectory Effcts ina Novel SerialReaction Time Task. Proceedings of the Annual Meeting of the Cognitive Science Society, 36.   
+Karatekin, C.，White,T.，& Bingham, C. (209). Incidental and intentional sequence learning in youth-onset psychosis and attention-deficit/Hyperactivity disorder (ADHD). Neuropsychology,23, 445-459.   
+Karatekin,C.,Marcus,D.J.,& White,T.(2Oo7).Oculomotor and manual indexes of incidental and intentional spatial sequence learning during middle childhood and adolescence. Journal of Experimental Child Psychology, 96,107-130.   
+Kavakci, M., & Dollghan, C.(2019). A new method for studying statistical learning in young children. Journal of Speech, Language, and Hearing Research, 62,2483-2490.   
+Kelly,S.W.,& Burton,A. M. (2O0l).Learning complex sequences: no role for observation? Psychological Research,65,15-23.   
+Kinder,A., Rolfs, M.,& Kliegl, R. (2o08). Sequence learning at optimal stimulus-response mapping: Evidence from a serial reaction time task. The Quarterly Journal of Experimental Psychology,61,203-209.   
+Koch,F.S.,Sundqvist,A.,Thornberg, U.B.,Nyberg,S.,Lum,J.A. G., Ullman,M.T.,Bar,R.,Rudner,M.,& Heimann，M. (202O).Procedural memory in infancy: Evidence from implicit sequence learning in an eye-tracking paradigm.Journal of Experimental Child Psychology,191,104733.   
+Lu, Z. L.,Lv,Y.,& Bai, X. J. (2O11). Atention load has no effect on implicit sequence learning: an eye movement study. Studies of Psychology and Behavior, 9(3),214-218.   
+[卢张龙,吕勇,白学军.(2011).内隐序列学习不受注意负荷的影响：来自眼动的证据.心理与行为研 究,9,214-218.]   
+MacDonald,A.W.,& Carter, C.S.(20o2).Cognitive experimental approaches to investigating impaired cognition in schizophrenia: a paradigm shift.Journal of Clinical and Experimental Neuropsychology,24,873-882.   
+Massing,M.， Blandin,Y.,& Panzer,S.(2O16). Magnifying visual target information and the role of eye movements in motor sequence learning. Acta Psychologica,163,59-64.   
+Massing,M., Blandin, Y.,& Panzer, S. (2018). The influence of eye-movements on the development of a movement sequence representation during observational and physical practice. Acta Psychologica,182,1-8.   
+Miyashita,K.,Rand,M.K.,Miyachi, S.,& Hikosaka,O.(1996).Anticipatory saccades in sequential procedural learning in monkeys. Journal of Neurophysiology,76,1361-1366.   
+Moisello,C.,Crupi,D.,Tunik,E.,Quartarone,A.,Bove,M.,Tononi,G.,& Ghilardi,M.F.(2009).The serial reaction time task revisited: a study on motor sequence learning with an arm-reaching task. Experimental Brain Research,194,143-155.   
+Nissen,M. J., & Bullemer,P.(1987). Attentional requirements of learning: Evidence from performance measures. Cognitive Psychology,19,1-32.   
+Press,C.M.,& Kilner, J.M. (2013). The time course of eye movements during action observation reflects sequence learning. Neuroreport, 24, 822-826.   
+Reber,A.S.(1967).Implicit learning of artificial grammars. Journal of Verbal Learning &Verbal Behavior,77, 317-327.   
+Ruitenberg,M.F.L.,Duthoo,W.,Santens,P.,Seidler,R.D.,Notebaert, W.,&Abrahamse,E.L.(2016).Sequence learning in Parkinson's disease: focusing on action dynamics and the role of dopaminergic medication. Neuropsychologia,93,30-39.   
+Sanchez,D.J., Yarnik,E. N.,& Reber,P.J. (2O15). Quantifying transfer after perceptual-motor sequence learning: How inflexible is implicit learning? Psychological Research,79(2),327-343.   
+Silva,S.,Inacio,F.,Folia, V.,& Petersson,K.M. (2O17).Eye movements inimplicit artificial grammar learning. Journal of Experimental Psychology: Learning, Memory, and Cognition, 43(9),1387-1402.   
+Tal, A.,& Vakil,E. (2020). How sequence learning unfolds: Insights from anticipatory eye movements.Cognition, 201,104291.   
+Tanaka,K.,& Watanabe,K. (2018). Effects of model types in observational learning on implicit sequential learning. Quarterly Journal of Experimental Psychology,71(7),1596-1606.   
+Vakil,E., Bloch,A.,& Cohen, H. (2Ol7).Anticipation measures of sequence learning: manual versus oculomotor versions of the serial reaction time task.The Quarterly Journal ofExperimental Psychology,70(3),579-589.   
+Vieluf, S.,Masing,M.，Blandin, Y.,Leinen,P.，& Panzer, S. (2015). The role of eye movements in motor sequence learning. Journal of Human Movement Science,40,220-236.   
+Wang,L.P.,Amalric,M.,Fang,W.,Jiang, X.J. Pallier,C.,Figueira,S.,Sigman,M.,& Dehaene,S.(2019). Representation of spatial sequences using nested rules in human prefrontal cortex. NeuroImage,186, 245-255.   
+Wilingham,D.B., Nissn,M.J.,& Bullemer,P.(1989). On the development of procedural knowledge.Journalof Experimental Psychology: Learning, Memory, & Cognition,15,1047-1060.   
+Yan, G.L.,& Bai, X. J. (2018). The foundation and application of eye movement technology. Beijing:Beijing
+
+normal university press. [闫国利,白学军.(2018)．眼动分析技术的基础与应用.北京:北京师范大学出版社.] Zhanglong,Lu.,& Xiaoyu,Li. (2018).An Eye Movement Study on the Relationship Between Multiple Implicit Sequence Learning and Attention. Psychology and Behavioral Sciences,7(1), 8-13.
+
+# Eye movement studies in sequence learning
+
+LU Zhanglong
+
+(School of Education， Zhengzhou University， Zhengzhou 450001， China）
+
+Abstract: The paper summarizes recent eye movement studies in sequence learning home and abroad. Studies of sequence learning which adopted the manual response mix several different kinds of sequence learning, and the manual response doesn't suitable for children and patients. The eye tracking technology can overcome the shortcomings of manual response, the anticipate saccade rate， saccadic response time,anticipation index and eyeblink rate were as dependent dependent variables for sequence learning. The major issues are sequence learning by observation, developmental and clinical research,and the relationship between implicit sequence learning and attention.
+
+Key words: Sequence learning; Implicit learning; Eye movement

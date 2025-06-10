@@ -1,0 +1,131 @@
+# 丁酸梭菌的生物学功能及其在动物生产中的应用
+
+梁静」聂存喜」张文举2\*陈　程²（石河子大学动物科技学院，石河子832000）
+
+摘要：丁酸梭菌作为一种新型微生态制剂，具有耐热、耐酸、耐受多种抗生素等特点。在畜禽生产中添加丁酸梭菌制剂，不仅可促进动物生长，调节肠道菌群微生态平衡，对宿主产生多种益生作用，还可减少饲料中抗生素产品的使用，进而减少药物在肉品中的残留。使用丁酸梭菌可以降低细菌的耐药性，从而保障动物机体健康。本文主要就丁酸梭菌的生物学功能及其在动物生产中的应用进行综述，旨在为丁酸梭菌在动物健康养殖与安全生产中提供参考。
+
+关键词：丁酸梭菌；微生态制剂；生物学功能；动物生产；应用中图分类号：S816
+
+丁酸梭菌又名丁酸菌、酪酸梭菌，是1933 年由日本千叶医科大学宫入近治博士首先发现并报告的，因此又名宫入菌[1。细菌学分类属于梭菌属，是从健康人和动物肠道中分离出的一种厌氧的革兰氏阳性芽孢杆菌，能在动物肠道内定植，并产生以丁酸和乳酸等短链脂肪酸为主要益生产物的益生菌。丁酸梭菌作为新一代芽孢益生菌制剂，较非芽孢益生菌制剂具有耐热、耐酸和耐多种抗生素等生物学特性。2009 年7月，我国农业部批准了丁酸梭菌制剂在饲料中作为微生物饲料添加剂使用[2]。丁酸梭菌作为饲料添加剂在饲料中使用，具有调控动物肠道健康等多种生物学功能，主要体现在促进肠道中有益菌（如乳酸菌、芽孢杆菌和双歧杆菌）的生长、调节动物肠道菌群平衡，稳定胃肠道功能，提高动物机体免疫应激能力，进而维持动物健康并促进其生长。丁酸梭菌作为微生态添加剂，既可作为饲料添加剂单独使用，又可与一些有益菌复配使用，起到菌群相互促进的目的。
+
+# 1丁酸梭菌的生物学功能
+
+丁酸梭菌是人和动物肠道的共生菌，可通过胃肠环境定植于宿主肠道内，属厌氧或者兼性厌氧芽孢杆菌，不受胃酸、胆汁酸等影响，其主要代谢产物丁酸是肠道上皮组织细胞再生和修复的主要营养物质。
+
+# 1.1 促进生长
+
+丁酸梭菌可促进肠道有益菌群（如双歧杆菌、乳酸杆菌）的增殖和发育，抑制有害菌和腐败菌的生长、繁殖，纠正肠道菌群紊乱，减少肠毒素的产生。同时，在饲料中添加丁酸梭菌还可有效降解饲料中的抗营养因子，消除其抗营养作用，提高饲料的营养价值，促进饲料中养分的消化分解，从而提高饲料利用率。丁酸梭菌同其他需氧芽孢杆菌一样，在消化道复活发育过程中，可产生活性很强的胞外酶，如蛋白酶、脂肪酶、淀粉酶、糖苷酶等多种酶类；同时还可产生降解植物饲料中非淀粉多糖的酶，如果胶酶、纤维素酶、葡聚糖酶。这些活性酶直接作用于动物消化道的"酶池”，降解饲料中相应的营养成分，提高饲料中营养成分的消化率，从而提高粗蛋白质和能量的利用率，降低料重比。丁酸梭菌体内存在蛋白酶I和蛋白酶ⅡI及脂肪酶，其可提高动物对脂肪和粗蛋白质的消化吸收{3]。此外，丁酸梭菌还具有氨基酸载体的作用，可转运但不分解氨基酸，均有利于促进动物生长。Uyeno 等「4'研究表明，丁酸梭菌与纤维寡糖混合饲喂特牛，可改善其肠道菌群结构，维护肠道微生态的健康，并降低腹泻发生率，提高生产性能。
+
+# 1.2 调节肠道菌群平衡
+
+动物肠道菌群的建立始于新生幼畜被分娩的过程，新生幼畜从母畜的皮肤、乳汁、身边的物体、周围的空气等环境中获得细菌。由于新生幼畜机体功能不健全，故发病率较高，如营养不良、早产、腹泻等相关疾病。丁酸梭菌可加速肠黏膜上皮细胞的生长和幼畜肠道发育成熟，促进肠蠕动，恢复肠动力，预防或纠正肠道菌群平衡失调。有研究表明，丁酸梭菌对抗生素导致的肠道黏膜完整性损坏、绒毛破坏、上皮细胞肿胀脱落等症状有明显的修复作用[5]。肠道菌群失衡会导致各种疾病的发生，丁酸梭菌可防止病原菌及腐败菌在肠道内的异常增殖和促进肠道有益菌群增殖、发育的双重作用，从而纠正肠道菌群紊乱，减少肠毒素的产生。Hossain 等6用丁酸梭菌与枯草芽孢杆菌和乳酸杆菌制成复合益生菌制剂饲喂肉鸡，屠宰后取回肠和盲肠内容物进行微生物菌群测定，发现益生菌饲喂可明显增加乳酸菌和双歧杆菌的数量，明显抑制大肠杆菌和产气荚膜梭菌的生长， $0 . 2 \%$ 高剂量比 $0 . 1 \%$ 低剂量的抑制效果要好，二者的作用效果均好于抗生素组。
+
+由于宿主的神经性、功能性或器质性的改变，或者致病性细菌、病毒乃至霉菌的入侵，服用抗菌药物等都会导致正常菌群失调而引起急性腹泻、秋冬季腹泻、继发性腹泻、病毒性腹泻、抗生素相关性腹泻、肠易激综合症等相关疾病。肠道有害菌移位产生的内源性感染、先天性免疫失调引发的免疫紊乱等，将导致肠道局部黏膜受损，进而引发相关的肠道炎症，如慢性末端回肠炎、溃烂性结肠炎和坏死性小肠结肠炎等。丁酸梭菌产生的丁酸能抑制去乙酰化酶活性，产生的叶酸参与基因的甲基化和去甲基化，调节宿主的基因表达，从而预防和治疗肠炎、腹泻等疾病「1。丁酸梭菌在日本是一种用于抗腹泻的益生菌。腹泻患者从试验开始或中间接受丁酸梭菌治疗，可分别降低 $9 \%$ 和 $5 \%$ 的腹泻。在受试者接受抗生素治疗时，丁酸梭菌的添加可增加厌氧菌和预防双歧杆菌的减少「7]。姚丽等「8]研究丁酸梭菌活菌散与蒙脱石散间隔应用治疗小儿迁延性腹泻的临床疗效。试验分为2组：观察组在服用蒙脱石散2h后服用丁酸梭菌活菌散；对照组在服用蒙脱石散 $2 \mathrm { h }$ 后服用复方胃蛋白酶散。其结果表明，观察组总有效率为 $1 0 0 . 0 0 \%$ ，对照组总有效率为 $7 2 . 5 8 \%$ ，2组间差异具有显著统计学意义，可见丁酸梭菌活菌散与蒙脱石散间隔应用治疗小儿迁延性腹泻疗效显著，值得临床推广应用，同时也有不少类似报道[9-1]。
+
+# 1.3 调节免疫
+
+肠道屏障功能主要由肠黏膜屏障来实现，包括机械屏障、生化屏障、化学屏障、免疫学屏障和肠黏膜固有层分子筛等部分。其中肠黏膜机械屏障有肠黏膜上皮细胞、上皮细胞侧面的细胞连接、上皮基膜和上皮表面的细胞衣组成，它们构成了机体免疫系统的第一道防线。因此，肠黏膜上皮结构的完整性与肠黏膜机械屏障功能，乃至机体的免疫功能有密切关系。
+
+丁酸梭菌的产物丁酸刺激肠道黏膜免疫活性，其在一定程度上对肠道微生态的调节起促进免疫的作用。然而肠道免疫系统与肠道微生物的相互作用共同维持肠道内稳态[12]。丁酸梭菌在肠道炎症性疾病的治疗上是众所周知的。Gao 等[13]研究丁酸梭菌抑制大肠杆菌诱导鸡胚肠细胞凋亡的能力，其结果表明丁酸梭菌及其培养过的上清液显著抑制大肠杆菌生长，丁酸梭菌通过调节X连锁凋亡抑制蛋白（XIAP）、B细胞淋巴瘤特大（Bcl-xL）、Fas、B 淋巴细胞瘤-2（Bcl-2）、Bcl-2相关X蛋白（Bax）、肿瘤蛋白53（ $P 5 3$ ）的表达诱导的细胞凋亡和通过caspase-9及caspase-3 的活化具有明显的抑制作用。丁酸梭菌具有预防肠出血性大肠杆菌引起的肠道疾病。在大肠杆菌 K88的作用下，饲粮中添加丁酸梭菌可促进肉鸡的生长性能、提高其免疫功能以及对盲肠微生物的有利影响[14-15]。丁酸梭菌预防性处理可增加小鼠血清中超氧化物歧化酶（SOD）和过氧化氢酶（CAT）的活性，与正常对照小鼠相比，显着降低未处理的急性肝损伤（ALI）小鼠的血清中丙二醛（MDA）的水平「16]。丁酸梭菌还可显著降低哮喘小鼠的肺耐药性，口服可抑制肺气道炎症，肥大细胞脱颗粒，气道重塑和小鼠卵清蛋白特异性免疫球蛋白E和小鼠卵清蛋白特异性免疫球蛋白G1的表达，可逆转辅助性T细胞1（Th1）/辅助性T细胞2（Th2）失衡，增加抗炎细胞因子白细胞介素-10（IL-10）的表达[17]。与此同时，医学研究领域报道口服丁酸梭菌和小儿腹泻停颗粒对儿童具有良好的疗效，还可优化儿童的免疫功能，值得在临床上推广「18]。丁酸梭菌从健康到致病有不同的影响。鉴于非致毒菌株在临床实践中已经验证其益生菌特性，其他菌株已经与婴儿肉毒中毒或早产新生儿的坏死性小肠结肠炎（NEC）等病理状况相关联。由于产毒和非产毒的梭状芽孢杆菌形成正常的生殖细菌的一部分，因此了解它们的有益或致病因子表达的触发因素仍然是一个挑战[19]。
+
+丁酸梭菌可激活机体的免疫应答，促进机体免疫系统进一步发育。其分泌的丁酸盐和氢气（ $\mathbf { \dot { H } } _ { 2 }$ ）可增强机体抗氧化酶活性，降低氧化应激，抑制炎症。饲料中添加不同剂量的丁酸梭菌饲喂肉鸡，在试验中期（21日龄）和试验结束（42日龄）分别取十二指肠、空肠和回肠黏膜检测抗氧化指标，其结果显示丁酸梭菌可通过产生丁酸盐和 $\mathrm { H } _ { 2 }$ 等方式增强抗氧化酶活性，降低肠道上皮组织的氧化损伤[20]。Wang等[21]研究结果指出，丁酸梭菌可显著降低胃黏膜损伤面积和改善胃黏膜的病理状况。在所有胃溃疡模型研究中，丁酸梭菌不仅减少SOD 和CAT 活性，同时降低 MDA水平；预处理丁酸梭菌可减少白细胞介素 $- 1 \beta$ (IL $1 \beta$ ）肿瘤坏死因子- $\mathbf { \bar { a } }$ （TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ ）和白三烯 B4(LBT4)的积累，增加6-酮前列腺素F1α表达。
+
+丁酸梭菌诱使肠道巨噬细胞增殖以抑制结肠炎[22]，其作为益生菌可诱发骨髓分化巨噬细胞在炎症黏膜上通过 Toll样受体（TLR）2来抑制炎症[12]。杨静［23]研究表明，丁酸梭菌磷壁酸对丁酸梭菌的黏附具有重要作用，一方面从丁酸梭菌中抽提并纯化的磷壁酸会引起HT-29 细胞的炎症反应，但是也会通过增加炎症抑制因子的分泌来调节炎症反应，从而避免炎性因子的过度表达而损伤组织，且丁酸梭菌及其磷壁酸的作用趋势相同。其他研究表明当大肠杆菌对人结肠癌细胞及肠道细胞进行黏附时，磷壁酸有一定的抑制作用[24]，从其孢子中分离的脂质部分能一定程度地抑制白血病淋巴细胞、胸腺癌和肺癌细胞中尿激酶的合成[25]。
+
+# 1.4提供营养元素
+
+丁酸梭菌在肠道内不仅可产生B族维生素、维生素K等物质，还可产生淀粉酶、蛋白酶、糖苷酶、纤维素酶、磷脂合成酶等。在这些酶的作用下发酵产生葡萄糖、麦芽糖等，有助于机体的消化吸收，产生的某些寡糖也为其他益生菌提供营养物质。从厌氧的肠道细菌和丁酸梭菌-拜仁梭菌组中分离纯化得到魔芋葡甘露聚糖降解酶，该酶是由一个分子量为 50$0 0 0 { \sim } 5 3 ~ 0 0 0 ~ \mathrm { u }$ 的单一多肽链组成。同时它是一种特异性作用于多聚糖如魔芋葡甘露聚糖和咖啡甘露聚糖，产生低聚糖和单糖的β-甘露聚糖内切酶[26]。此外，丁酸梭菌-拜仁梭菌组可产生内切、外切果胶裂解酶和果胶甲酯酶，这些酶分泌到人体大肠中并作用于果胶，产生4,5-不饱和二半乳糖醛，最终分解为挥发性短链脂肪酸[27]。
+
+# 1.5 抗癌、抗肿瘤作用
+
+丁酸梭菌改善结肠炎诱导的CAC 模型中的临床、组织学和生物化学表现，还可延长上皮细胞微绒毛，并通过降低跨上皮渗透性来增加跨膜电阻。丁酸梭菌促进miR-200c 的表达，由此增加增殖速率；还可通过miR-200c 调节促炎细胞因子TNF- $\mathbf { \alpha } \cdot \mathbf { a }$ 和白细胞介素-12（IL-12）的产生。其可能通过miR-200c 调控上皮屏障功能，从而参与炎症相关的癌症过程[28]。Chen等[29]研究表明丁酸梭菌和枯草芽孢杆菌可抑制1,2-二甲基肼二盐酸盐（DMH）诱导结直肠癌（colorectalcancer,CRC）细胞的增殖，引起细胞周期停滞并促进细胞凋亡，其分子机制涉及到减少炎症和改善免疫稳态。有研究指出，丁酸梭菌MIYAIRI588（CBM588）诱导从多形核中性粒细胞（PMNs）和卡介苗（BCG）释放内源性肿瘤坏死因子相关的凋亡诱导配体（TRAIL），基质金属蛋白酶8（matrix metalloproteinase-8,MMP-8）是负责释放的关键因素之一［30]。TLR2/4 信号通路已被认为对MMP-8 释放 TRAIL 很重要。CBM588 通过在体内和体外诱导细胞凋亡而与BCG对抗癌细胞一样有效。
+
+目前，益生菌防治肿瘤已经成为一种新型治疗手段，治疗的原理基于丁酸梭菌可选择性地在肿瘤中增殖并对肿瘤细胞的生长起到拮抗作用[31]。此外，由于丁酸梭菌对肿瘤组织的选择性定植，将其基因改造后可以分泌治疗蛋白如胞嘧啶脱氨酶、TNF-α，如果用放射诱导前体控制表达，这种蛋白运载系统的专一性会更强[32]，肿瘤的治疗更加精准。丁酸梭菌的代谢产物被认为有抗癌的潜力，其产生的丁酸不仅可以改变肠道的生理状况，还能够消除一些致癌物质的影响，如丁酸可以抑制亚硝胺的致癌活性[33]。此外，也有报道指出丁酸梭菌具有调节神经的作用。Sun 等 34 研究丁酸梭菌是否减弱大脑缺血/再灌注损伤（I/R）及其可能机制。其结果指出，I/R可导致神经亏损，增加caspase-3 和 Bax 蛋白表达水平，降低Bcl-2/Bax 值。丁酸梭菌对I/R小鼠作用可显著改善神经亏损，缓解病理变化，降低 MDA 含量，增加 SOD 活性。丁酸梭菌预处理后，caspase-3 和 Bax 的表达明显降低，Bcl-2/Bax 值显著升高，大脑中丁酸的含量显著升高。还有研究指出[35]，丁酸梭菌逆转I/R 诱导的磷酸化AKT蛋白 $\left( { p / - } A k t \right)$ 表达降低和半胱天冬酶-3表达增加，导致抑制神经元凋亡。丁酸梭菌恢复部分I/R诱导的粪便微生物群落多样性降低，粪便中微生物群落组成发生的改变。这些均表明，丁酸梭菌可发挥神经保护作用，对I/R小鼠的抗氧化和抗凋亡机制，逆转降低小鼠大脑中丁酸的含量，可能参与其保护。
+
+# 2丁酸梭菌在动物生产中的应用进展
+
+丁酸梭菌作为饲料添加剂既能单独使用，又可与乳酸菌、芽孢菌、双歧杆菌等益生菌复配使用，甚至与某些抗生素联合应用，来避免抗生素的滥用带来的危害。丁酸梭菌微生态制剂可改善动物肠道内微生态环境、增强机体免疫功能，又可减少动物腹泻等肠道疾病‘
+
+36]。其主要代谢产物丁酸是一种无毒的，具有水脂两亲性的四碳短链脂肪酸，可透过革兰氏阳性菌和阴性菌细胞膜，可促进有益菌的增殖，抑制有害菌的生长，从而使整个肠道趋于健康状态[37]。作为肠细胞的快速能源，丁酸具有调节肠道微生物菌群、促进肠道发育、提高机体免疫力和抗氧化能力等生理功能。
+
+# 2.1丁酸梭菌在家禽上的应用
+
+通过抑制致病菌的黏附降低致病菌的增殖，从而限制其对宿主的侵害是益生菌最重要的特性之一，也是衡量抑菌性的重要指标。益生菌对致病菌的黏附抑制作用具有较高的特异性，往往取决于益生菌和致病菌的菌种特性。有研究表明丁酸梭菌可替代肉鸡的抗生素[35]。用不同浓度的丁酸梭菌饲喂肉鸡后，其血清中免疫球蛋白M的含量增加[20]，血清抗氧化能力提高，免疫功能得到改善，促进蛋白质代谢，同时降低氨的排放[38]。这说明丁酸梭菌可提高肉鸡的免疫性能，原因可能是丁酸梭菌能够调节机体的免疫通路，丁酸梭菌还可促进大肠杆菌K88 感染的肉鸡免疫反应，改善其肠道屏障功能和消化酶活性[39]。关于具体的调节方式，有研究指出丁酸梭菌可能通过下调 TLR4，髓样分化因子88（myeloid diferentiationfactor 88,MyD88）和核转录因子-kB（NF- $\mathbf { \sigma } _ { \kappa \mathrm { B } }$ ）依赖途径来减轻鸡的炎症反应「40]。Liao 等[41]研究指出饲粮中添加丁酸梭菌可提高雏鸡肝脏组织 SOD 活性，降低 MDA含量；增加胸肌C20:1n-9、C20:2n-6、C20:3n-6、C20:3n-3、C20:4n-6、C20:5n-3 和 C22:6n-3 等总多不饱和脂肪酸的浓度以及总多不饱和脂肪酸与饱和脂肪酸的比值；增加大腿肌C18:2t-9、C18:2 t-12、C20:3n-6、C20:3n-3 和C20:5n-3 的含量。丁酸梭菌促进有益菌增殖，抑制有害菌生长从而调节肠道内菌群的平衡，改善肠道微生态环境；增强消化吸收能力，维护肠道正常的黏膜屏障功能，改善免疫水平，提高肠道挥发性脂肪酸含量及抗氧化能力[42]，调节氮代谢，改善肠道形态和平衡肉鸡盲肠微生物［43]。
+
+# 2.2丁酸梭菌在猪上的应用
+
+在饲粮中添加益生菌可显著改善肠内免疫应答和病原体黏附。在免疫反应方面，下调的蛋白如跨膜糖蛋白 NMB 和β-半乳糖苷 $\mathfrak { a }$ -2,6-唾液酸转移酶1参与肠道疾病和先天性免疫反应，而上调的蛋白参与抗原呈递和补体激活途径，如 ficolin-2 和倒转的 formin-2。对于细胞生长和增殖，下调的蛋白涉及细胞增殖（例如甲基-CpG 结合结构域蛋白2）、细胞形态（例如己糖激酶-2）和组织形态学（例如核分布蛋白nudE同系物1）[44]。复合益生菌丁酸梭菌制剂对预防仔猪腹泻具有显著效果，可作为绿色添加剂进一步推广使用[45]。有报道指出，在早期断奶仔猪饲粮中添加丁酸梭菌，可极显著增加肠道微生物多样性，显著降低腹泻率，提高体增重和饲料转化效率[46-48]。庞敏等 $^ { [ } 4 9 ^ { ] }$ 研究结果表明，丁酸梭菌显著降低断奶仔猪腹泻率和隐窝深度，显著升高绒毛高度与隐窝深度的比值；显著降低断奶仔猪的血清内毒素和D-乳酸浓度；改善肠黏膜形态，降低肠道通透性，显著升高断奶仔猪回肠和结肠occludinmRNA表达，上调紧密连接蛋白基因的表达，从而保护肠道黏膜屏障功能。同时亦有学者指出丁酸梭菌可刺激 TLR2在 mRNA 水平的表达；但是TLR4、TLR5、TLR9 和 $M y D 8 8$ 转录水平保持不变。丁酸梭菌显著升高 $N F  – \kappa B$ 、白细胞介素-8（IL-8）、TNF-α表达水平，表明丁酸梭菌可致敏HT-29 细胞[50]。然而，在缺乏 TLR2 表达的情况下， $N F  – \kappa B$ 、IL-8、白细胞介素-6（IL-6）和 TNF-α水平是显着降低的，这意味着在丁酸梭菌识别中需要TLR2。因此，丁酸梭菌参与激活上皮细胞中 TLR2介导的不依赖 MyD88 的信号传导途径[51]。
+
+# 2.3丁酸梭菌在水产上的应用
+
+Duan 等[52 进行了56d的急性高温应激试验，评价饲粮中丁酸梭菌这一益生菌对日本对虾的生长性能和肠道抗氧化能力的影响。其结果指出，饲粮中补充 $1 0 0 \mathrm { m g / g }$ 丁酸梭菌可提高其生长性能，降低饲料转化率。苏木精-伊红（HE）染色结果显示，丁酸梭菌可增加日本对虾肠道上皮细胞的高度，饲粮中丁酸梭菌的添加可提高生氧能力和MDA 含量，增加总抗氧化能力（T-AOC）、CAT 和过氧化物酶（POD）活性以及热休克蛋白70（hsp 70）和金属硫蛋白（MT）基因的表达水平。丁酸梭菌与哈氏弧菌的拮抗以及其对淡水虾的生长性能、消化率、免疫应答的研究结果显示，虾的体重和生长速度显著高于对照组。益生菌丁酸梭菌阻碍了病原菌的生长，对虾的生长、蛋白酶和淀粉酶活性有促进作用[53]。饲粮中不同浓度的丁酸梭菌可提高白虾的生长性能，增加肠道短链脂肪酸含量和机体粗蛋白质含量，调节肠道消化能力，增强凡纳滨对虾对氨应激的肠道免疫功能[54]。
+
+# 3小结
+
+丁酸梭菌在动物生产中具有增加饲料转化率，降低料重比，提高动物免疫力以及改善肠道微生态环境等功能。其作为微生态制剂具有低毒、无残留、安全性好，符合消费者期望，市场潜力大，但目前丁酸梭菌制剂还未被普遍的作为益生菌剂添加于动物饲料，可能原因是其具有刺激性气味，影响适口性，且低成本生产工艺不够成熟等。同时丁酸梭菌及其代谢产物在维持微生态平衡、治疗炎症和癌症等方面的益生原理和作用机制，宿主细胞受体识别的机制以及导致这些益处的下游免疫信号传导途径尚不清楚，仍需进一步深入研究。
+
+# 参考文献:
+
+[1]张善亭,史燕,张淑丽,等.丁酸梭菌的研究应用进展[J].生物技术通报,2013(9):27-33.[2]孙冬岩,潘宝海,孙笑非,等.丁酸梭菌对畜禽生产性能的影响[J].饲料研究
+
+,2017(7):21-22,37.
+
+[3]赵旭冬.丁酸梭菌清液发酵和处理工艺[D].硕士学位论文.武汉:华中农业大学,2011:9-12.
+
+[4] UYENO Y,KAWASHIMA K,HASUNUMA T,et al.Effects of cellooligosaccharide or a combination of cellooligosaccharide and live Clostridium butyricum cultureon performance and intestinal ecologyin Holsteincalvesfedmilk ormilk replacer[J].Livestock Science,2013,153(1/2/3):88-93.   
+[5] LING Z,LIU X,CHENG Y,et al.Clostridium butyricum combined with Bifidobacterium infantis probiotic mixture restores fecal microbiota and attenuates systemic inflammation in mice with antibiotic-associated diarrhea[J].Biomed Research International,2015,2015:582048.   
+[6]HOSSAIN M M,BEGUM M,KIM I H.Effect of Bactillus subtilis,Clostridium butyricum and Lactobacillus acidophilus endospores on growth performance,nutrient digestibility,meat quality,relative organ weight,microbial shedding and excreta noxious gas emisson in broilers[J].Veterinarni Medicina,2015,60(2):77-86.   
+[7]SEKI H,SHIOHARA M,MATSUMURA T,et al.Prevention of antibiotic-associated diarrhea in children by Clostridium butyricum MIYAIRI[J].Pediatrics International Official Journal of the Japan Pediatric Society,2003,45(1):86-90.   
+[8] 姚丽,李晶,黄慧桃.酪酸梭菌活菌散与蒙脱石散间隔应用治疗小儿迁延性腹泻62例临床 研究[J].中国微生态学杂志,2010,22(10):922-924.   
+[9]蒋曼,蔡素芳,康辉.酪酸梭菌二联活菌散辅助治疗小儿肺炎继发性腹泻78例疗效观察[J]. 中国医学创新,2014,11(28):54-56.   
+[10]娄玉霞.酪酸梭菌二联活菌散防治婴幼儿肺炎继发腹泻疗效观察[J].儿科药学杂志 ,2013,19(5):25-27.   
+[11]柴昶虹.酪酸梭菌活菌散联合抗菌药治疗小儿急性细菌感染性腹泻临床疗效观察[J].中 国微生态学杂志,2009,21(10):936-938.   
+[12]KANAI T,MIKAMI Y,HAYASHI A.A breakthrough in probiotics:Clostridium butyricum regulates gut homeostasis and anti-inflammatory response in inflammatory bowel disease[J].Journal of Gastroenterology,2015,50(9):928-939.   
+[13]GAO Q X,QI L L,WU T X,et al.Ability of Clostridium butyricum to inhibit Escherichia coli-inducedapoptosisinchickenembryointestinalcels[J].Veterinary Microbiology,2012,160(3/4):395-402.   
+[14] ZHANG L,CAO G T,ZENG X F,et al.Effects of Clostridium butyricum on growth performance,immune function,and cecal microflora in broiler chickens challenged with Escherichia coli K88[J].Poultry Science,2014,93(1):46-53.   
+[15]YANG C M,CAO G T,FERKET P R,et al.Effects of probiotic,Clostridium butyricum,on growth performance,immune function,and cecal microflora in broiler chickens[J].Poultry Science,2012,91(9):2121-2129.   
+[16]LIU J M,FU Y Y,ZHANG H,et al.The hepatoprotective effect of the probiotic Clostridium butyricum against carbon tetrachloride-induced acute liver damage in mice[J].Food & Function,2017,8(11):4042-4052.   
+[17]ZHANG J,SHI Z L,ZENG M H,et al.Oral administration of Clostridium butyricum CGMCC0313-1reducesovalbumin-inducedallergicairwayinflammationin mice[J].Respirology,2017,22(5):898-904.   
+[18]宋代平,余莉.口服酪酸梭菌活菌片联合小儿速泻停颗粒治疗轮状病毒肠炎疗效观察[J]. 海南医学,2016,27(24):4042-4044.   
+[19]CASSIR N,BENAMAR S,LA SCOLA B.Clostridium butyricum:from beneficial to a new emerging pathogen[J].Clinical Microbiology and Infection,2016,22(1):37-45.   
+[20] LIAO X D,MA G,CAI J,et al.Effects of Clostridium butyricum on growth performance,antioxidation,and immune function of broilers[J].Poultry Science,2015,94(4):662-667.   
+[21]WANG F Y,LIU J M,LUO H H,et al.Potential protective efects of Clostridium butyricum on experimental gastric ulcers in mice[J].World Journal of Gastroenterology,2015,21(27):8340-8351.   
+[22]HAYASHI A,SATO T,KAMADA N,et al.A single strain of Clostridium butyricum induces intestinal IL-10-producing macrophages to suppress acute experimental colitis in micer[J].Cell Host & Microbe,2013,13(6):711-722.   
+[23]杨静.丁酸梭菌及其磷壁酸与肠道细胞互作的分子机制研究[D].硕士学位论文.泰安:山 东农业大学,2014:25-37.   
+[24]GAO Q X,WU T X,WANG J B,et al.Inhibition of bacterial adhesion to HT-29 cels by lipoteichoicacidextracted fromClostridiumbutyricum[J].AfricanJournalof Biotechnology,2011,10(39):7633-7639.   
+[25]GAENKO G P,KHAIDUKOV S V.Inhibition of urokinase synthesis in a tumor cell culture by the lipid fraction from the spores of the anaerobic bacterium Clostridium butyricum[J].Microbiology,2010,79(4):435-438.   
+[26]NAKAJIMA N,MATSUURA Y.Purification and characterization of konjac glucomannan degradingenzymefromanaerobichumanintestinalbacterium,Clostridium butyricum-Clostvidium beijerinckii group[J].Bioscience,Biotechnology,and Biochemistry,2014,61(10):1739-1742.   
+[27]陈筱筱,赵娜,Manizha,等.酪酸梭状芽孢杆菌生理功能的研究进展[J].中外医疗 ,2015,34(28):196-198.   
+[28] XIAN Y,DAI X,LI K,et al.Clostridium butyricum partially regulates the development of colitis-associated cancer throughmiR-200c[J].Cellularand Molecular Biology,2017,63(4):59-66.   
+[29]CHEN Z F,AI L Y,WANG JL,et al.Probiotics Clostridium butyricum and Bacillus subtilis ameliorate intestinal tumorigenesis[J].Future Microbiology,2015,10(9):1433-1445.   
+[30]SHINNOH M,HORINAKA M,YASUDA T,et al.Clostridium butyricum MIYAIRIA 588 shows antitumor effects by enhancing the release of TRAIL from neutrophils through MMP-8[J].International Journal of Oncology,2013,42(3):903-911.   
+[31] PATYAR S,PRAKASH A,MEDHI B.Bacteria as a therapeutic approach in cancer therapy[M]//KHAN A.Bacteria and Cancer.Netherlands:Springer,2012:3343-3351.   
+[32]NUYTS S,VAN MELLAERT L,THEYS J,et al.Clostridium spores for tumor-specific drug delivery[J].Anti-Cancer Drug,2002,13(2):115-125.   
+[33]KAILASAPATHY K,CHIN J.Survival and therapeutic potential of probiotic organisms with reference to Lactobacillus acidophilus and Bifidobacterium spp.[J].Immunology and Cell Biology,2000,78(1):80-88.   
+[34]SUN J,LING Z X,WANG F Y,et al.Clostridium butyricum pretreatment attnuates cerebral ischemia/reperfusion injury in mice via anti-oxidation and anti-apoptosis[J].Neuroscience Letters,2015,613:30-35.   
+[35] SUN J,WANG F Y,LING Z X,et al.Clostridium butyricum atenuates cerebral ischemia/reperfusion injury in diabetic mice via modulation of gut microbiota[J].Brain Research,2016,1642:180-188.   
+[36]易中华.饲用微生态制剂丁酸梭菌的研究与应用进展[J].饲料研究,2012(2):14-17.   
+[37] GUILLOTEAU P,MARTIN L,EECKHAUT V,et al.From the gut to the peripheral tissues:the multiple effects of butyrate[J].Nutrition Research Reviews,2010,23(2):366-384.   
+[38] 贾聪慧,杨彩梅,曾新福,等.丁酸梭菌对肉鸡生长性能、抗氧化能力、免疫功能和血清生 化指标的影响[J].动物营养学报,2016,28(3):908-915.   
+[39] ZHANG L,ZHANG L L,ZHAN X A,et al.Effects of dietary supplementation of probiotic,Clostridium butyricum,ongrowth performance,immune response,intestinal barrier function,and digestive enzyme activity in broiler chickens challenged with Escherichia coli K88[J].Journal of Animal Science and Biotechnology,2016,7(1):107-115.   
+[40]ZHAO X N,YANG J,WANG L L,et al.Protection mechanism of clostridium butyricum against salmonella enteritidisinfectioninbroilers[J].Frontiers in Microbiology,2017,8:1523.   
+[41] LIAO X D,WU R J,MA G,et al.Effects of Clostridium butyricum on antioxidant properties,meat quality and fatty acid composition of broiler birds[J].Lipids in Health & Disease,2015,14(1):36-45.   
+[42]贾志新.丁酸梭菌对樱桃谷肉鸭生长性能、免疫和抗氧化功能及肠道食糜VFA 含量的 影响[D].硕士学位论文.南京:南京农业大学,2014:28-47.   
+[43]CAO G T,XIAO Y P,YANG C M,et al.Effects of Clostridium butyricum on growth performance,nitrogen metabolism,intestinal morphology and cecal microflora in broiler chickens[J].Journal of Animal and Veterinary Advances,2012,11(15):2665-2671.   
+[44]XIA B, MENG Q S, PANG M,et al.Proteomic analysis of intestinal mucosa from weaning piglets with feeding Clostridium butyricum[C]//ASAS-CSAS Annual Meeting Trade Show,Animal Science and Technology:Ensuring Food Security.Baltimore,MD,2017.   
+[45] 凌欣华,李鑫.复合丁酸梭菌对仔猪腹泻影响的效果试验报告[J].广东饲料 ,2016,25(6):22-24.   
+[46] 胡远亮.利用分子生物技术研究益生菌对断奶仔猪生长及粪便菌群的影响[D].博士学 位论文.武汉:华中农业大学,2014:33-35.   
+[47] 张秀江,胡虹,张永战,等.丁酸梭菌对仔猪和生长肥育猪生产性能的影响研究[J].河南科 学,2015,33(10):1745-1749.   
+[48] EFSA Panel on Additives and Products or Substances used in Animal Feed.Scientific opinion on Miya-Gold $\textsuperscript { \textregistered }$ (Clostridium butyricum） as a feed additive for weaned piglets,minorweanedporcinespeciesand minor avianspecies[J].EFSA Journal,2011,9(1):1951.   
+[49]庞敏,卢庆萍,夏冰,等.酪酸梭菌对断奶仔猪生长性能、肠道组织形态及肠道通透性的影 响[J].动物营养学报,2016,28(7):2113-2121.   
+[50] GAO Q X,QI L L,WU T X,et al.Immunomodulatory effects of Clostridium butyricum on human enterocyte-like HT-29 cels[J].Animal Cells and Systems,2013,17(2):121-126.   
+[51] GAO Q X,QI L L,WU T X,et al.Clostridium butyricum activates TLR2-mediated MyD88-independent signalingpathway in HT-29 cells[J].Molecular and Cellular Biochemistry,2012,361(1/2):31-37.   
+[52] DUAN Y F,ZHANG Y,DONG H B,et al.Effect of the dietary probiotic Clostridium butyricum on growth,intestine antioxidant capacity and resistance to high temperature stressinkurumashrimpMarsupenaeusjaponicus[J].JournalofThermal Biology,2017,66:93-100.   
+[53] SUMON M S,AHMMED F,KHUSHI S S,et al.Growth performance,digestive enzyme activity and immune response of Macrobrachium rosenbergii fed with probiotic Clostridiumbutyricumincorporateddiets[J].JournalofKing Saud University-Science,2016,30(1):21-28.   
+[54] DUAN Y F,ZHANG Y,DONG H B,et al.Effect of dietary Clostridium butyricum on growth,intestine health status and resistance to ammonia stress in Pacific white shrimp Litopenaeus vannamei[J].Fish & Shellfish Immunology,2017,65:25-33. Biological Function of Clostridium butyricum and Its Application in Animal Production LIANG JinglNIE cunxilZHANG Wenju2\* CHEN cheng² (Collge of Animal Science and Technology, Shihezi University, Shihezi 8320o0, China)   
+Abstract: As a new type of probiotics, Clostridium butyricum has the characteristics of heat   
+resistance, acid resistance and tolerance to various antibiotics. Appling Clostridium butyricum to
+
+livestock production can promote the animal growth, regulate the microflora balance of the intestinal flora and has a variety of prebiotic effects on the animal. Furthermore, it can reduce the abuse of antibiotic products on the dietary,antimicrobial residues in meat and the bacterial resistance,meanwhile to protect the animal's healthy. In this paper, we have summarized the biological function of Clostridium butyricum and its application in animal production, in order to provide a reference for the future production practice.
+
+Keywords: Clostridium butyricum; probiotics; biological function; animal production; application

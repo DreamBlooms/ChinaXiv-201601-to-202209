@@ -1,0 +1,111 @@
+基础研究
+
+# p38MAPK/eNOS信号通道在胰高血糖素样肽-1抑制AGEs诱导的人脐静脉內皮细胞凋亡中的作用
+
+曾海龙'，黄志秋'，张艺能²,孙慧琳1  
+广东药学院附属第一医院'内分泌科，科教科，广东广州510080
+
+摘要：目的 探讨p38MAPK信号通道在胰高血糖素样肽-1(GLP-1)拮抗糖基化终末产物(AGEs)诱导的人脐静脉内皮细胞凋亡的作用。方法 实验组分为对照组、AGEs组、GLP-1组、 $\mathrm { . A G E s + G L P - 1 }$ 组、AGEs $\Game$ 抑制剂组及 $_ \mathrm { A G E s + G L P - l + }$ 抑制剂组，westernblot技术检测p-p38MAPK/p38MAPK、p-eNOS/eNOS蛋白表达情况,Annexin V/PI流式检测细胞凋亡率。结果 与对照相比较，单独加入AGEs或GLP-1可分别导致p-p38MAPK蛋白表达水平明显上升( $_ { \mathit { P } = 0 . 0 0 1 }$ 或下降（ $\scriptstyle P < 0 . 0 0 1 .$ );与对照组相比AGEs可显著降低p-eNOS表达水平( $_ { \it P = 0 . 0 0 7 }$ ),而予以GLP-1或p38MAPK抑制剂(SB203580)预处理后,受抑制的eNOS蛋白表达水平再次显著升高 $\scriptstyle ( P = 0 . 0 0 4 )$ );在AGEs组加入SB203580或GLP-1预处理后，AGEs诱导的细胞凋亡率均显著下降（ $P { < } 0 . 0 0 1 , P { < }$ 0.001）。结论GLP-1至少部分通过抑制p38MAPK蛋白磷酸化，上调磷酸化eNOS蛋白的表达,对人脐静脉内皮细胞起到抗凋亡的保护作用。
+
+关键词：胰高血糖素样肽-1;p38MAPK;人脐静脉内皮细胞;内皮细胞损伤;糖基化终末产物
+
+# Role of p38MAPK/eNOS signaling pathway in the inhibition of AGEs-induced apoptosis of human umbilical vein endothelial cells by glucagon-like peptide-1
+
+ZENGHailong,HUANGZhiqiu',ZHANGYineng,SUNHuilin   
+DepartmentodooloOfofcgdeacdatiotteditalofdctil   
+College, Guangzhou 510080,China
+
+Abstract: Objective To investigate the role of p38MAPK signaling pathway in the mechanism by which glucagon-like peptide-1 (GLP-1) inhibits endothelialcelldamage induced byAGEs.Methods Human umbilical vein endothelialcells were divided into control group, AGEs group, GLP-1 group,AGEs $^ +$ GLP-1 group, AGEs $^ +$ inhibitor group,and $_ { \mathrm { A G E s + G L P - 1 + } }$ inhibitor group. The expressions of p-p38MAPK/p38MAPK and p-eNOS/eNOS protein were examined by Western blotting, and the cellapoptosisrates were tested by flow cytometry.Results Compared with thecontrol group,AGEs significantly enhanced the expression of $\mathsf { p } { \cdot } \mathsf { p } ^ { 3 8 }$ MAPK protein $_ { ( P = 0 . 0 0 1 ) }$ while GLP-1 significantly inhibited its expression $( P { < } 0 . 0 0 1 )$ . AGEs significantly inhibited the expression of p-eNOS protein $( P { = } 0 . 0 0 7 )$ ， which was enhanced by GLP-1 and p38 MAPK inhibitor (SB203580) $\scriptstyle ( P = 0 . 0 0 4 )$ . Both SB203580 and GLP-1 treatment decreased the apoptosis rate of AGEs-treated cells $( P { < } 0 . 0 0 1 )$ Conclusion GLP-1can protect human umbilical vein endothelial celsagainst AGEs-nduced apoptosis partially by inhibiting the phosphorylation of p38MAPK protein and promoting the expression of p-eNOS protein.
+
+Key words: glucagon-likepeptide-1; p38MAPK; human umbilicalvein endothelial cels; endothelial cellapoptosis; Advanced glycation endproducts
+
+根据中国疾病预防控制中心和瑞金医院于2010年全国糖尿病调查项目显示，中国18岁及以上成人糖尿病患病率已达 $1 1 . 6 \%$ ,其中 $90 \%$ 以上为2型糖尿病(T2DM)[。糖尿病血管病变是糖尿病最常见的并发症之一，严重威胁人类生存质量及生命安全。胰高血糖素样肽1(GLP-1)作为一种由肠道内分泌L细胞分泌的肠肽激素，可以抑制胰高血糖素和胃肠道激素的分泌，具有良好的降糖作用2。此外,在我们课题组的前期研究中发现，GLP-1可以抑制由糖基化终末产物(AGEs)诱导的血管内皮细胞凋亡[2]。但GLP-1保护血管内皮细胞的具体机制尚未完全明了。丝裂素活化蛋白激酶(mitogen-activated protein kinase,MAPK)属于丝蛋白/苏氨酸激酶，p38MAPK信号通路为MAPK家族的重要成员，该通路参与巨噬细胞、嗜中性粒细胞的功能性反应，包括粘附和凋亡等3]。国内外有研究表明，p38MAPK信号通道可以调影响内皮细胞功能异常[4]。为了明确GLP-1保护血管内皮细胞与p38MAPK之间的关系，本课题组建立AGEs诱导的人脐静脉内皮细胞（HUVEC)损伤为研究模型，初步探讨p38MAPK信号通道在GLP-1抗血管内皮损伤中的作用机制，现报道如下。
+
+# 1材料和方法
+
+# 1.1主要实验试剂与仪器
+
+兔抗人vWF多克隆抗体(美国SANTACRUZ公司）,山羊抗兔IgG抗体(R&D),异硫氢酸荧光素标记的羊抗兔多克隆抗体（Sigma），AnnexinV/PI检测试剂盒（中国宝赛生物技术公司），GLP-1(7-36)a（Sigma）,p3MAPK抑制剂（SB203580)（Selleck），抗鼠p-P38MAPK单克隆抗体、抗鼠p38MAPK多克隆抗体（SANTACRUZ），荧光显微镜（Nikon eclipse$\mathrm { T e } 2 0 0 0 \mathrm { u } ,$ ,流式细胞仪、酶标仪(BIO-RAD)。
+
+# 1.2主要实验方法
+
+1.2.1HUVECs的分离、培养及鉴定HUVECs的分离、培养及鉴定具体步骤参考本课题组前期研究[5]
+
+1.2.2AGEs制备 AGEs的制备及鉴定具体步骤参考 Horiuchi等实验方法[]
+
+1.2.3Western blotting 法检测 p-p38MAPK及p-eNOS蛋白表达细胞培养结束后收集细胞,转移至离心管，冰浴下，使细胞充分裂解(裂解液中，PMSF工作浓度为 $1 \mathrm { m m o l } / \mathrm { L }$ ),离心取上清。蛋白质浓度测定采用BCA法，按照BCA蛋白浓度测定试剂盒说明书操作测定。取等量蛋白与 $2 \times$ 上样缓冲液混合煮沸 $5 \mathrm { m i n }$ 后进行SDS-PAGE电泳，将蛋白转至PVDF膜后放入 $10 \%$ 脱脂奶粉封闭液中，封闭 $2 \mathrm { ~ h ~ }$ ;PBST洗膜后，先后加一抗鼠p-p38MAPK或抗eNOS单克隆抗体( $\mathrm { 1 : 1 0 0 0 }$ 抗单克隆抗体)，反应 $1 . 5 \mathrm { h }$ ，加1:3000辣根过氧化物酶标记二抗，反应1h,PBST洗膜,ECL法显影,结果经ImageJ图象分析系统对目的条带进行分析，以各组细胞p-p38MAPK或eNOS蛋白表达与内参 $\mathbf { \alpha } _ { \mathrm { ~ \mathfrak { a } ~ } }$ -Tubulin表达的比值作为p-p38MAPK或内皮型一氧化氮合成酶(eNOS)蛋白表达水平。
+
+1.2.4AnnexinV/PI流式检测细胞凋亡 抑制剂预处理1h后加入GLP-1, $3 0 ~ \mathrm { m i n }$ 后加入AGEs,在 $3 7 \ \%$ $\mathrm { C O } _ { 2 }$ 条件下培养 $2 4 ~ \mathrm { h _ { \circ } }$ $2 4 \mathrm { h }$ 后胰酶消化细胞， $8 0 0 ~ \mathrm { r p m }$ 离心 $4 \mathrm { m i n }$ ，随后加入预冷的无菌PBS洗2次。再次离心后吸尽残留的PBS，轻轻振荡细胞悬液 $3 0 ~ \mathrm { s }$ ，使之均匀。随后按AnnexinV/PI调亡试剂盒说明进行操作。
+
+# 1.3统计学处理
+
+数据采用SPSS19.0进行统计分析，数据以均数±标准差表示,多组间比较采用单向方差分析(One-WayANOVA)检验，两两比较采用LSD法。 $P { < } 0 . 0 5$ 具有统计学意义。
+
+# 2结果
+
+2.1GLP-1对AGEs诱导下血管内皮细胞p38MAPK蛋白磷酸化的影响
+
+P-p38MAPK及总t-p38MAPK蛋白量表达水平采用灰度值校正值显示(各条带灰度值/相对应的内参$\mathfrak { a }$ -Tubulin灰度值，标注的 $\mathbf { A } , \mathbf { B } , \mathbf { C } , \mathbf { D }$ 分别为Control组、AGEs组、GLP-1组及 $_ { \mathrm { A G E s + G L P - 1 } }$ 组），结果如图1。方差分析显示，给予不同处理后，多组间p-p38MAPK蛋白表达具有差异( $F { = } 5 6 . 9 8 9$ $P { < } 0 . 0 0 1$ )，差异有统计学意义；而 $t$ -p38MAPK蛋白表达无统计学差异( $F =$ 0.568, $\scriptstyle P = 0 . 6 5 2 ,$ )。进一步两两比较后显示，与对照相比较,单独加入AGEs或GLP-1可分别导致p-p38MAPK蛋白表达水平上升 $_ { \it P = 0 . 0 0 1 }$ 或下降 $\left( P { < } 0 . 0 0 1 \right)$ ，差异有统计学意义；而予以AGEs及GLP-1共同处理后，其p-p38MAPK蛋白量水平较AGEs单独处理组下降，差异有统计学意义( $P { < } 0 . 0 0 1$ ）。
+
+![](images/823136df2741f3d2a8c99d37053d300d905a5bb0506024a45d800bb3cdd7546e.jpg)  
+图1GLP-1对AGEs处理下细胞磷酸化p38MAPK及 p38MAPK蛋白表达的影响 Fig.1 Effects of GLP-1 and AGEs on protein expression of p-p38MAPK and p38MAPK. $^ { * } P { < } 0 . 0 5$ us control group.
+
+# 2.2SB203580及GLP-1对AGEs诱导下血管内皮细胞eNOS磷酸化的影响
+
+p-eNOS及t-eNOS蛋白量表达水平采用灰度值校正值显示(各条带灰度值/相对应的内参灰度值，标注的A、B、C、D、E分别为Control组、AGEs组、AG-$\mathrm { E s + G L P  – 1 }$ 组、 $\mathrm { A G E s } + \mathrm { S B } 2 0 3 5 8 0 .$ 、AGEs $^ +$ GLP- $^ { 1 + }$ SB203580)，结果如图2。多重比较显示，各组给予不同处理后，组间p-eNOS蛋白表达具有差异( $F { = } 6 . 6 4 5$ ${ \it P } \mathrm { = } 0 . 0 0 7$ ),差异有统计学意义；而 $t \cdot$ -eNOS蛋白表达无统计学差异( $F { = } 1 . 6 7 7$ ， ${ \cal P } { = } 0 . 2 3 1$ )。进一步两两比较后显示，与对照组比较，AGEs可降低p-eNOS表达水平中 $scriptstyle \cdot { \cal P } = 0 . 0 0 7 .$ ），差异有统计学意义；而予以GLP-1或p38MAPK抑制剂(SB203580)预处理后，受抑制的p-eNOS蛋白表达水平再次升高 $\left( P { = } 0 . 0 0 4 , P { = } 0 . 0 1 1 \right)$ ，差异有统计学意义；在 $_ { \mathrm { A G E s + G L P - 1 } }$ 组予以SB203580预处理前后，eNOS磷酸化蛋白表达水平差异无统计学意义( $\scriptstyle P = 0 . 2 7 3$ 。
+
+# 2.3SB203580及GLP-1对AGEs诱导内皮细胞凋亡的 影响
+
+AnnexinV/PI双染色后经流式细胞仪检测细胞凋亡率，如图3、表1。方差分析显示，各组间差异具有统计学意义( $scriptstyle { F = 4 0 . 1 4 2 }$ ， $P { < } 0 . 0 0 1 \$ 。多重比较显示，与阴性对照组相比，AGEs可诱导细胞调亡率增高( $\scriptstyle { \mathcal { P } } <$ 0.001)，差异有统计学意义;而GLP-1单独处理对内皮细胞凋亡率无明显影响（ $\scriptstyle ( P = 0 . 2 3 4 )$ ;在AGEs组加入SB203580或GLP-1预处理后，AGEs诱导的细胞调亡率均下降 $\left( P { < } 0 . 0 0 1 , P { < } 0 . 0 0 1 \right)$ ,差异有统计学意义；而在AGEs $. + \cdot$ GLP-1组加入p38MAPK抑制剂前后，细胞凋亡率变化无统计学意义（ $\scriptstyle P = 0 . 0 8 5$ 。
+
+![](images/61e9b7a019c92170fe1e672ca9c5f9e8df71ea533788b97fa93a912745b0dcb5.jpg)  
+图2P38MAPK抑制剂及GLP-1对AGEs处理 下细胞磷酸化eNOS及eNOS蛋白表达的影响 Fig.2 Effects of P38MAPK inhibitor and GLP-1 onthe protein expression of p-eNOSand t-eNOS induced by AGEs. $^ { * } P { < } 0 . 0 5$ us control group; $^ { \mathrm { 5 } } P { < } 0 . 0 5$ Us AGEs-induced group.
+
+![](images/23d47fcc9a13f3495f2a9827803a8620cdad4c895c38387f3777893be3e259cb.jpg)  
+图3p38MAPK抑制剂及GLP-1对AGEs诱导内皮细胞凋亡的影响 Fig.3Flow cytometric analysis of apoptosis of HUVECs treated by negative control (A),AGEs $( B )$ GLP-1(C),AGEs+GLP-1 $( D ) .$ AGEs+SB203580(E),and AGEs+GLP- $1 { + } S$ B203580 (F).
+
+# 3讨论
+
+# 3.1GLP-1与p38MAPK之间的关系
+
+在人体处于高糖状态下，AGEs生成明显加速，并在血管壁沉积而难以降解，AGEs与RAGE结合后会使血管内皮细胞损伤及凋亡，最终导致血管动脉粥样硬化的形成[]。Palmieri等[4]发现,p38MAPK信号通道可以调节TNFα的浓度而影响内皮细胞功能异常。Zeng等[8]研究表明，西他列汀（一种DPP4抑制剂药物，可以通过抑制体内DPP4酶提高体内GLP-1的活性)部分通过p38MAPK信号通道达到抑制小鼠AS的进程。Lu等[]的结果表明p38MAPK信号通路参与Exendin-4(GLP-1类似物)对于H9c2心肌细胞的保护作用。但有关GLP-1与p38MAPK在人血管内皮细胞之间的关系研究,国内外尚未见明确报道。本研究发现GLP-1可以抑制由AGEs诱导的血管内皮细胞的凋亡，并下调由AGEs 引起的p-p38MAPK蛋白的表达。该结果提示p38MAPK信号蛋白可能参与了GLP-1保护血管细胞的行为。为了明确p38MAPK在GLP-1保护内皮细胞的作用，我们加入其特异性拮抗剂SB203580,发现经过GLP-1或SB203580预处理后的HUVECs,其受到AG-Es诱导的细胞凋亡显著性的下降 $( P { < } 0 . 0 5 )$ 。由此提示GLP-1至少部分通过下调p38MAPK蛋白的表达来保护由AGEs诱导的HUVECs的凋亡。此外,GLP-1组较SB203580组在细胞凋亡有显著的差异,GLP-1在保护血管内皮细胞损伤除了p38MAPK信号通道之外可能还存在还有别的信号通路。相关研究表明["0],GLP-1可通过cAMP/PKA/Rho信号通道达到抑制高血糖导致的心微血管内皮细胞凋亡的作用，GLP-1可通过下调VCAM-1和ICAM-1的表达而达到抑制AGEs对人视网膜色素上皮细胞的损伤[11]。Aronis等[12]试验表明,GLP-1可通过AKt、PKC和 src途径改善HUVECs的血管再生情况。柯甦捷等[13]研究发现,Exendin-4（一种GLP-1类似物)可以通过抑制NF-kB通道减轻高糖联合TNF-α诱导的血管内皮损伤。可以推测,GLP-1保护内皮细胞的作用可能是多途径多通道的。He等[14]发现,Exendin-4抗炎作用部分是通过下调p38MAPK的表达。炎症与细胞凋亡及损失的关系十分密切，然而GLP-1的抗内皮细胞凋亡的机制是独立与其抗炎作用还是其抗炎作用的后续结果？国内外尚无相关研究，仍需要我们进一步研究。
+
+表1p38MAPK抑制剂及GLP-1对AGEs诱导内皮细胞凋亡的 影响 Tab.1 Effects of p38 MAPK inhibitor and GLP-1 on HUVEC apoptosis induced by AGEs $\scriptstyle ( n = 3 )$ （204号   
+
+<html><body><table><tr><td>Group</td><td>Apoptosis (%)</td><td>F</td><td>P</td></tr><tr><td>Control</td><td>6.17±0.67</td><td>40.142</td><td>0.000</td></tr><tr><td>AGEs</td><td>20.63±2.87*</td><td></td><td></td></tr><tr><td>GLP-1</td><td>4.50±0.26</td><td></td><td></td></tr><tr><td>AGEs+GLP-1</td><td>6.97±0.71#</td><td></td><td></td></tr><tr><td>AGEs+SB203580</td><td>10.17±1.50#</td><td></td><td></td></tr><tr><td>AGEs+GLP-1+SB203580</td><td>5.87±2.35</td><td></td><td></td></tr></table></body></html>
+
+$^ { * } P { < } 0 . 0 5$ vs control; $^ { \# } P { < } 0 . 0 5$ vs group AGEs.
+
+# 3.2p38MAPK与eNOS的关系
+
+一氧化氮合成酶是合成一氧化氮(NO)的关键酶，而eNOS在血管内皮细胞的NO的释放有着非常重要的地位。在血管内皮细胞中NO具有松弛血管平滑肌、调节血管张力、细胞凋亡及抑制血小板聚集粘附等作用[15]。Koska等[16]发现,Exendin-4(GLP-1类似物)可通过激活AMPK使人小动脉内皮细胞eNOS水平提高，从而达到保护内皮细胞的作用。本课题的前期研究也证实，GLP-1可以通过PKA信号蛋白调高人脐静脉内皮细胞eNOS的活性，从而保护血管内皮细胞。
+
+p38MAPK信号蛋白参与GLP-1保护血管内皮细胞的作用是否涉及到eNOS活性的调节，国内外尚无明确报道。本研究检测各实验组的eNOS蛋白表达。发现AGEs组下调了磷酸化eNOS的表达，而GLP-1组及SB203580组都上调了磷酸化eNOS的活性，3组数据差异具有统计学意义。表明GLP-1及SB203580可以通过上调磷酸化eNOS的表达来达到保护内皮细胞的作用。p38MAPK蛋白可以通过上调eNOS的表达而抑制由AGEs诱导的内皮细胞凋亡的作用。
+
+综上所述，GLP-1可通过抑制p38MAPK蛋白磷酸化，随后上调磷酸化eNOS蛋白的表达，对HUVECs起到抗凋亡的保护作用，为减轻糖尿病血管损伤，减缓血管粥样硬化的进程提供了新的思路。
+
+# 参考文献：
+
+[1]康继宏,宁光,吴家睿,等.中国糖尿病防治研究的现状和挑战[J].转 化医学研究：电子版,2012,4(3):1-24.   
+[2]Zhan Y, Sun HL,Chen H,et al. Glucagon-like peptide-1 (GLP-1) protects vascular endothelial cells against advanced glycation end products (AGEs)-induced apoptosis [J].Med Sci Monit,2012,18 (7):BR286-91.   
+[3]Yang Y,Kim SC,Yu T,et al.Functional roles of p38 mitogenactivated protein kinase in macrophage-mediated inflammatory responses[J].Mediators Inflamm,2014: 352371.   
+[4]Palmieri D,Aliakbarian B,Casazza AA,etal.Effects of polyphenol extract from olive pomace on anoxia-induced endothelial dysfunction[J].Microvasc Res,2012,83(3): 281-9.   
+[5]孙慧琳,湛奕,刘珍珍,等.人脐静脉内皮细胞的原代培养及鉴定[J]. 广东医学,2012,33(6):744-6.   
+[6]Horiuchi S,Araki N,Morino Y,et al.Immunochem ica l approach to chara cterizeadvanced g lyca tion end p roducts o f maillard reaction[J].JBiol Chem,1991,266(12):7329-32.   
+[7]Feng L,Zhu MM, Zhang MH,et al. Protection of glycyrrhizic acid against AGEs-induced endothelial dysfunction through inhibiting RAGE/NF- $\kappa \mathbf { B }$ pathway activation in human umbilicalvein endothelial cells[J].JEthnopharmacol,2013,148(1): 27-36.   
+[8]Zeng Y,Li C,Guan M,et al. The DPP-4 inhibitor sitagliptin attenuates the progress of atherosclerosis in apolipoprotein-Eknockout mice via AMPK- and MAPK-dependent mechanisms[J]. Cardiovasc Diabetol,2014,13:32.
+
+（下转139页）
+
+# （上接119页）
+
+[9]Lu K,Chang G,Ye L,et al. Protective effects of extendin-4 on hypoxia/reoxygenation-induced injury in H9c2 cells[J].Mol Med Rep,2015,12(2):3007-16.   
+[10]Ge GH, Dou HJ, Yang SS,et al.Glucagon-like peptide-1 protects against cardiac microvascular endothelial cells injured by high glucose[J].Asian Pac JTrop Med,2015,8(1): 73-8.   
+[11]Dorecka M,Siemianowicz K,Francuz T,et al.Exendin-4 and GLP-1 decreases induced expression of ICAM-1,VCAM-1 and RAGE in human retinal pigment epithelial cells[J].Pharmacol Rep, 2013,65(4): 884-90.   
+[12]Aronis KN,Chamberland JP,Mantzoros CS.GLP-1 promotes angiogenesis in human endothelial cells in a dose-dependent manner,through the Akt, Src and PKC pathways[J].Metabolism, 2013,62(9): 1279-86.   
+[13]柯甦捷,薛耀明,李晨钟,等.Exendin-4降低高糖联合TNF-α诱导的 血管内皮细胞损伤的机制[J].南方医科大学学报,2012,32(8): 1182-5.   
+[14]He L,Wong CK,Cheung KK,et al. Anti-inflammatory effects of exendin-4,a glucagon-like peptide-1 analog,on human peripheral lymphocytes in patients with type 2 diabetes[J].JDiabetes Investig, 2013,4(4): 382-92.   
+[15]Park S,Sorenson CM, Sheibani N.PECAM-1 isoforms,eNOS and endoglin axis in regulation of angiogenesis[J]. Clin Sci (Lond), 2015,129(3): 217-34.   
+[16]Koska J,Sands M,Burciu C,et al.Exenatide protects against glucose-and Lipid-Induced endothelial dysfunction: evidence for direct vasodilation effect of GLP-1 receptor agonists in humans[J]. Diabetes,2015,64(7):2624-35.
+
+（编辑：吴锦雅）

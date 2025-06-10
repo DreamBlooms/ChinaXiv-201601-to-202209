@@ -1,0 +1,214 @@
+# 政策工具视角下科研机构开放科学政策文本量化分析与启
+
+示\*
+
+王译晗1,2 初景利1,21.中国科学院文献情报中心，北京，1001902.中国科学院大学经济与管理学院图书情报与档案管理系，北京，100190摘要：[目的/意义]对代表性科研机构的开放科学政策进行文本分析，有助于为我国科研机构制定总体性开放科学政策，自下而上推进开放科学实践提供理论参考。[方法/过程]本文运用内容分析法，基于政策工具视角，对国外科研机构发布的12份开放科学政策文本进行量化分析，揭示政策工具使用偏好和政策内容关注重点，提炼科研机构开放科学政策中的关键要素，提出使用政策工具制定机构层面开放科学政策的优化策略，最后结合国外政策内容和制定经验提出对我国科研机构制定开放科学政策的启示。[结果/结论]科研机构开放科学政策工具的使用应优化组合配置、加强内部均衡性、充分利用差异性。科研机构在制定和实施开放科学政策时，需融入国际潮流，保障政策前瞻性；优化组织结构，统筹推进开放科学；明确政策的核心要素，抓住关键问题；以及保障经费的持续投入并适时动态调整。
+
+关键词：开放科学开放科学政策科研机构政策工具中图分类号：G250
+
+# 1引言
+
+开放性是科学的本质属性之一[I]，开放是科学发展的必然选择[2]。开放科学是一种以"开放"作为核心理念贯穿于整个科学研究生命周期的科学文化，鼓励研究过程和研究产出最大限度、最快速度向学界和社会开放共享，影响着整个科研生命周期及其利益相关者，带来了学术交流环境的深刻变革[3]。2021年11月，联合国教科文组织（UNESCO）审议通过《开放科学建议书》[4]，标志着开放科学迈入全球共识的新阶段，开放科学已成为全球科学发展的共识。
+
+推进开放科学离不开开放科学政策的保障和支撑。《开放科学建议书》将"营造有利于开放科学的政策环境"列为实现开放科学目标的七大行动领域之一，建议会员国应根据本国具体国情、治理结构和宪法规定，在机构、国家/地区、国际层面营造或促进有助于实施和践行开放科学的政策环境[4]。目前在开放科学政策研究方面，国内外相关研究主要集中于对开放数据[5-6]、开放获取[7-8]等具体政策的研究，少有对整个开放科学政策体系进行研究；实践方面，政策的发布和实施主体以国际组织、国家政府以及各类资助机构为主，科研机构的开放科学政策实践相对不多。开放科学的发展不仅需要国际层面的顶层规划和国家层面自上而下的宏观指导，更需要科研机构制定和完善机构层面的开放科学政策，自下而上推进开放科学。
+
+科研机构聚集了绝大部分的科研人员，其开放科学政策能够直接影响科研人员对于开放科学的认知态度和参与程度，对科研人员的开放科学行为起到重要的规范和促进作用。当前国内关于科研机构开放科学政策的研究与实践相对较少，而国外已进行了一些初步探索，因此调研国外代表性科研机构现有的开放科学政策，借鉴其政策制定经验，有助于为我国科研机构的开放科学纲领性文件制定提供良好参考，进一步发挥科研机构作为开放科学重要利益相关者在实现开放科学进程中的主体作用。
+
+基于此，本文采用内容分析法，基于政策工具视角对国外科研机构发布的开放科学政策进行文本量化分析，以系统把握当前科研机构开放科学政策中的政策工具使用偏好和政策内容关注重点，总结政策中的关键性要素，结合国外政策中的政策工具使用现状，提出我国科研机构在制定开放科学政策中的政策工具使用优化策略，并结合国外政策内容和制定经验提出对我国科研机构开放科学政策实践的参考建议。
+
+# 2研究文本与研究工具
+
+# 2.1研究文本收集
+
+本文中"科研机构开放科学政策"是指科研机构为政策主体，制定的以推进开放科学发展为目标的各种行动方案或行动准则。本文主要关注宏观层面的总体性开放科学政策，而非针对开放科学某一内容要素（如开放获取、开放数据等）制定的具体性政策。
+
+在政策文本的选择上，由于当前科研机构发布的总体性开放科学政策不多，为保证研究的全面客观性，笔者首先结合平日研究积累、相关文献和新闻动态进行整理；其次利用各类开放科学平台进行检索，如欧盟OpenAIRE 搭建的"国家开放获取平台"[9](National Open Access Desks,NOADs)、中国科学院文献情报中心搭建的"OA新闻资讯监测平台"[0]等；此外，为进一步丰富研究内容，笔者对2021年自然指数（Nature Index）排行榜中的全球科研机构排行榜[11]中排名前 50的科研机构进行广泛调研，该榜单能够较好地展示全球实力领先和贡献突出的科研机构，从而了解全球领先科研机构的开放科学实践情况。经过调研初步得到政策文本15份（截至 2022年3月1日），经过筛选剔除不相关文本（如调研为主的报告、面向科研机构而非科研人员的政策实施指南、政策后续进展报告)，最后得到研究所需政策文本12份，如表1所示：
+
+表1科研机构开放科学政策文本列表  
+Table 1 List of open science policies of scientific research institutions   
+
+<html><body><table><tr><td>政策 编号</td><td>时间 （年）</td><td>国 家</td><td>科研 机构</td><td>政策 名称</td></tr><tr><td>1</td><td>2017</td><td>荷 兰</td><td>乌德勒支 大学</td><td>乌得勒支大学开放科学项目2018-2021[12] Utrecht University Open Science Programme 2018-2021</td></tr><tr><td>2</td><td>2018</td><td>芬 兰</td><td>坦佩雷大 学</td><td>坦佩雷大学开放科学行动计划[13] Tampere University's action plan on open science</td></tr><tr><td>3</td><td>2019</td><td>法 国</td><td>法国国家 科学研究 中心</td><td>CNRS开放科学路线图[14] CNRS Roadmap for Open Science</td></tr><tr><td>4</td><td>2019</td><td>荷 兰</td><td>代尔夫特 理工大学</td><td>代尔夫特理工大学开放科学战略计划2020-2024:开放时代的 研究和教育[15] TU Delft Strategic Plan Open Science 2020-2024: Research and Education in the Open Era</td></tr><tr><td>5</td><td>2019</td><td>土 耳 其</td><td>伊兹密尔 理工学院</td><td>IZTECH开放科学政策[16] IZTECH Open Sciences Policy</td></tr><tr><td>6</td><td>2019</td><td>荷 兰</td><td>马斯特里 赫特大学</td><td>马斯特里赫特大学开放科学政策[17] UM Open Science policy</td></tr><tr><td>7</td><td>2020</td><td>法 国</td><td>保罗·瓦莱 里大学</td><td>保罗·瓦莱里大学开放科学章程[18] Télécharger La Charte Des Sciences Ouvertes</td></tr><tr><td>8</td><td>2020</td><td>挪 威</td><td>挪威科技 大学</td><td>挪威科技大学开放科学政策[19] Policy for Open Science at NTNU</td></tr><tr><td>9</td><td>2021</td><td>澳 大 利 亚</td><td>澳大利亚 科学院</td><td>开放科学立场声明[20] Position Statement-Open Science</td></tr><tr><td>10</td><td>2021</td><td>美 国</td><td>NASA</td><td>开源科学计划[21] Open-source Science Initiative</td></tr><tr><td>11</td><td>2021</td><td>瑞 士</td><td>苏黎世大 学</td><td>苏黎世大学开放科学政策[22] The UZH Open Science Policy</td></tr><tr><td>12</td><td>2021</td><td>英</td><td>伦敦大学</td><td>UCL开放科学与奖学金办公室运营计划2021-2024[23]</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td></td><td>国</td><td>学院</td><td>Office for Open Science & Scholarship Operational Plan 2 021-24</td></tr></table></body></html>
+
+# 2.2研究工具
+
+开放科学政策是一项公共政策。进行公共政策分析，需要一个清晰、可靠且易于操作的政策模型，以反映政策制定过程中政策内部诸要素的性质与关系[24]。政策工具是实现政策目标所采用的手段，公共政策的"结构论"认为，政策是由一系列"工具"构成，通过按照一定的方法和程序合理组织，最终形成政策系统[25]。政策工具是连接政策目标与政策执行之间的桥梁，是政策由理念变成现实的途径[26]，从政策工具角度分析政策有助于深入政策文本层，解析政策的本质与内涵。
+
+政策工具有多种分类方式，较典型的如R.Rothwell等根据政策对科技产生影响层面的不同将科技创新政策工具划分为供给面政策工具、环境面政策工具、需求面政策工具[27]，L.M.McDonnell等根据政策工具的最终目的将其分为命令性工具、激励性工具、能力建设工具和系统变化工具[28]。由于本文研究对象为科研机构发布的开放科学政策，科研机构为政策主体，科研人员为政策客体，两者均为开放科学的重要利益相关者，政策主体通过围绕开放科学的不同方面制定或强制、或激励、或扶持等性质的政策，推进政策客体将政策目标付诸行动，因此L.M.McDonnell的政策工具分类在本文中具有较好的适应性。同时本文借鉴 A.Schneider和H.Ingram[29]的政策工具分类法，将科研机构开放科学政策使用的政策工具类型扩充为权威工具、激励工具、象征和劝诫工具、能力建设工具、系统变革工具五类。
+
+# 3基于政策工具的科研机构开放科学政策文本量化分析框架
+
+# 3.1X维度：政策工具维度
+
+权威工具是政策制定者运用自身政治权威，对政策执行机构和政策目标人群制定的强制性行为规则。本文中，权威工具的运用主要表现为科研机构对科研人员参与开放科学的行为做出的明确规定或要求，政策多使用"必须"“不得"等词语。如《CNRS开放科学路线图》中"要求所有由CNRS资助的研究工作所产生的出版物都可以开放获取"的规定就使用了权威工具。
+
+激励工具是政策制定者通过设置正向或负向的有形回报，诱导政策执行机构和目标人群采取符合政策所预期的行为的政策工具。本文中，激励工具的运用主要表现为科研机构通过提供资助、折扣费用、设立奖项、降低实践成本、帮助职业发展等措施，支持鼓励科研机构和科研人员参与开放科学。如《乌得勒支大学开放科学项目2018-2021》“通过提高认识和融入专业知识网络来促进开放研究，如通过设立最佳实践奖、奖学金和开放科学活动奖"即使用了激励工具。
+
+象征和劝诫工具是政策制定者对政策目标人群进行价值观引导，促使目标人群和执行机构采取相关行动的政策工具。本文中该工具的运用主要表现为科研机构通过强调开放科学意义、提高科研人员认识等倡导和呼呼，促进开放科学理念融入科学研究过程。如《乌得勒支大学开放科学项目2018-2021》“提高科研人员对开放获取出版选项的认识，并为科研人员在开放科学环境中的学术出版提供支持计划”。
+
+能力建设工具是政策制定者通过向政策执行机构或目标人群提供信息、技术、资源、设备、工具、教育、培训等各类支持，以使机构或个人具备或提升开展相关行动的能力的政策工具。本文中该工具的运用主要表现为科研机构通过开展各类开放科学教育培训、举办会议、改进技术、建设基础设施等措施，提升科研机构和科研人员参与开放科学的能力。如《代尔夫特理工大学开放科学战略计划 2020-2024：开放时代的研究和教育》中提出"科研人员、教师、学生和支持人员将（进一步)发展某些技能，以便能够在他们的日常实践中应用开放科学原则”。
+
+系统变革工具是政策制定者通过对组织结构进行变革来重新分配权威，以提高政策执行效率、促进政策目标实现的政策工具。本文中该工具的运用主要表现为科研机构通过设立开放科学委员会或项目组等专门负责推进开放科学的新组织，统筹协调开放科学行动。如《IZTECH开放科学政策》中的"IZTECH教区长将牵头成立开放科学委员会并承担该委员会的执行工作”。
+
+# 3.2Y维度：开放科学内容要素维度
+
+本文重在探析开放科学各内容要素在科研机构开放科学政策中的受重视程度及其所使用的政策工具，因此本文将开放科学内容要素确立为Y维度。
+
+目前，不同学者和组织[30-32]对开放科学内容要素体系的分类各有不同，其中以FOSTER开放科学分类[33最为典型。本文在FOSTER开放科学分类体系的基础上，借鉴 S.Corrall34的开放科学分类思想，从开放内容、开放流程、开放基础设施、开放合作4个角度对开放科学进行分类，整理开放科学各内容要素如图1所示。其中，开放内容要素是指开放研究生命周期中所产生的一切可以自由免费获取和重复使用的产出结果，如出版物开放获取、开放科学数据、开放教育资源等；开放流程要素是指能够调动开放科学利益相关者参与积极性，提升科学研究质量和透明度的学术流程或业务流程，如开放科学激励、开放评估、开放同行评议、开放出版等；开放基础设施要素是指能够为科研资源开放集成和多边合作提供技术架构和平台工具的各类科研基础设施[35]，包括但不限于机构知识库、开放仓储、开放资源平台等；开放合作要素则涵盖开放科学利益相关者内部之间，或与其它开放科学利益相关者之间的交流合作，如科研人员与公众合作开展的公民科学、企业或机构与公众合作的众包、学界与业界合作的开放创新等。
+
+开放获取开放合作 开放数据开放教育资源开放社区 开放硬件开放创新 开放软件开放代码公民科学 预印本开放合作 开放内容 预注册众包 要素 要素开放 开放笔记本科学 开放评估  
+开放科学工具开放激励  
+开放资源平台 开放基础设施 开放流程 科研诚信要素 要素开放出版平台 开放出版机构知识库 开放同行评议开放科学政策开放实验室开放许可开放科学仪器 开放工作流预印本系统 开放科学教育开放仓储 开放服务ORCID
+
+# 3.3X-Y二维分析框架和编码方式
+
+在政策工具维度和开放科学内容要素维度的确立基础之上，本文建立起科研机构开放科学政策的X-Y二维分析框架，其内容分析类目设置如下：政策工具维度（X维度）—权威、激励、象征和劝诫、能力建设、系统变革；开放科学内容要素维度（Y维度）—开放内容、开放流程、开放基础设施、开放合作。
+
+编码方式上，本文将表1政策文本中的具体章节条款作为内容分析单元进行编码，编码形式为"政策编号-具体章节/条款-要点排序”（示例见表2)，最终形成205条内容分析单元编码。
+
+表2编码示例Table2 Encoding examples  
+
+<html><body><table><tr><td>编号</td><td>政策名称</td><td>内容分析单元</td><td>内容要素</td><td>政策工具</td><td>编码</td></tr><tr><td>1</td><td>乌得勒支</td><td>在所有院系制定明确的政策和指导方针，以促进研</td><td>开放数据</td><td>权威</td><td>1-3-1</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="2">大学开放 科学项目 2018-2021</td><td>（隐私）敏感数据、知识产权和研究数据共享许可</td><td></td><td></td><td></td></tr><tr><td>提供小额赠款（€10K-€50K）以激励示范性开放科</td><td>开放激励</td><td>激励</td><td></td></tr></table></body></html>
+
+# 4科研机构开放科学政策文本统计与分析
+
+# 4.1统计结果
+
+根据科研机构开放科学政策X-Y二维分析框架，笔者对编码后的政策内容分析单元进行归类，得到科研机构开放科学政策工具二维分布图，如图2所示。
+
+总体而言，12份政策文本兼顾了权威、激励、象征和劝诫、能力建设、系统变革5类政策工具的运用，内容涵盖了开放科学内容体系中的绝大部分要素，表明科研机构针对开放科学不同要素采取了多方面支持行动以推动开放科学的全面可持续发展。
+
+<html><body><table><tr><td>维度 开</td><td>开放数据</td><td>1-3-1,2-2-1,2-2-4,2--1 1,2-2-12,5-3-3,5-4-1,5- 4-2,5-4-3,5-4-7,6--12</td><td>9-4-1,9-4-5</td><td>1-3-2,5-4-4,9-4-8,11-2- 3,11-2-4</td><td>1-3-3,1-3-4,1-3-5,2-2-5, 2-2-6,2-2-7,2-2-8,2-2-9, 2-2-10,2-2-13,2-2-14,2- 2-15,3-2-1,3-2-2,4-2-4, 5-4-5,8-6-1,11-2-5</td><td></td></tr><tr><td>放 内 容</td><td>开放获取</td><td>12-11-3-35 8-6-7,8-6-8,8-6-9.9-4-2,</td><td>1-2-5,3-1-1,3-1-4,11-2- 2,11-2-13</td><td>5-3-7,11-2-10</td><td>1-2-2.4-2-2.6-3-9</td><td></td></tr><tr><td rowspan="11"></td><td></td><td>9-4-4 8-6-4.8-6-6</td><td></td><td>5-5-1</td><td>8-6-5</td><td></td></tr><tr><td>开放教育资源 开放软件</td><td></td><td></td><td>11-2-7</td><td>1-4-4,1-4-5,4-2-5</td><td></td></tr><tr><td>开放代码</td><td></td><td></td><td>11-2-8,11-2-9</td><td></td><td></td></tr><tr><td>预印本</td><td>1-4-1,1-4-3</td><td>3-1-2</td><td>11-2-11</td><td></td><td></td></tr><tr><td>预注册</td><td></td><td></td><td></td><td>11-2-1</td><td></td></tr><tr><td>开放科学教育</td><td>11-2-17</td><td>11-2-14</td><td>11-2-15</td><td>1-4-2,1-7-7,2-1-3,3-6-1, 3-6-2,3-6-3,3-6-4,4-2-1, 4-2-8,5-8-1,5-8-2,6-3-6, 6-3-15,12-4-5,12-4-6,12</td><td></td></tr><tr><td>开放评估</td><td>1-6-1,1-6-4,2-4-1,2-4-2, 2-4-3,3-4-1,3-4-2,-4-, 3-4-4,6-3-5,11-2-16,12- 4-16</td><td>1-6-3,5-3-5</td><td></td><td>-4-7,12-4-8,12-4-9 1-7-6,3-5-2,5-7-1</td><td></td></tr><tr><td>开放激励</td><td></td><td>1-6-51-7.1-7124</td><td>6-3-17,9-4-3</td><td>1-6-2.4-2-6</td><td></td></tr><tr><td>开放出版</td><td>2-3-6</td><td></td><td>1-2-4,5-5-1</td><td>1-7-2-1-323</td><td></td></tr><tr><td>开放科学政策</td><td>1-6-6,3-3-2</td><td>11-2-18</td><td>12-4-2</td><td>2-2-3</td><td></td></tr><tr><td>科研诚信 开放同行评议</td><td></td><td></td><td></td><td>12-4-1,12-4-3</td><td></td></tr><tr><td></td><td>9-4-6</td><td></td><td>5-5-1</td><td></td><td></td></tr><tr><td>开放工作流</td><td></td><td></td><td></td><td>1-7-8,1-7-9</td><td></td></tr><tr><td>开放许可</td><td>5-4-6</td><td></td><td>5-3-6</td><td></td><td></td></tr><tr><td>开放服务</td><td></td><td></td><td></td><td></td><td>6-3-16</td></tr><tr><td>ORCID</td><td></td><td></td><td>3-5-1</td><td></td><td></td></tr><tr><td>开 开放基础设施</td><td>8-6-10</td><td></td><td></td><td>3-2-3,3-2-4,3-2-5,3-3-1, 5-6-1,5-6-2,6-3-14,11-2</td><td>7-2-1,7-2-3,7-2-4</td></tr><tr><td>放</td><td>机构知识库 6-3-8</td><td></td><td></td><td>11-2-12</td><td>-6.12-4-4.12-4-10</td><td></td></tr><tr><td>基</td><td>开放科学工具</td><td></td><td></td><td></td><td>3-3-3,7-2-2</td><td></td></tr><tr><td>础</td><td>开放出版平台</td><td></td><td></td><td></td><td>4-2-30</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>设</td><td>开放科学平台</td><td></td><td></td><td></td><td></td><td>1-8-1</td></tr><tr><td>施</td><td>开放资源平台 开放仓储</td><td></td><td></td><td></td><td>6-3-13 2-2-2</td><td></td></tr><tr><td>开</td><td></td><td>3-7-1,4-2-7,8-6-3,12-5-</td><td></td><td></td><td>2-4-4,3-7-3,6-3-1,6-3-4，</td><td></td></tr><tr><td>放</td><td>开放合作</td><td>1</td><td>3-7-2,5-8-3.6-3-10</td><td>1-7-4,1-7-5</td><td>6-3-7,6-3-11,10-3-3,12- 4-13,12-4-15</td><td></td></tr><tr><td>合</td><td>公民科学 1-5-3</td><td></td><td>1-5-1</td><td>5-5-1</td><td>1-5-24-9,1032124</td><td>12-4-11</td></tr><tr><td>作</td><td>开放社区</td><td></td><td>激励</td><td>1-7-3</td><td>10-3-1</td><td></td></tr><tr><td colspan="7">权威</td></tr></table></body></html>
+
+Figure 2 Two-dimensional analytical framework for open science policy tools
+
+（注：在开放基础设施要素类别中，若政策中未指明是具体何种开放基础设施，则统称"开放科学基础设施")
+
+# 4.2科研机构开放科学政策二维分析
+
+# 4.2.1政策工具维度分析
+
+![](images/7c4766a3f77b21542c429799d4a81d6dbb62fb78dd164aefd5b18ac6c45b3776.jpg)  
+图2开放科学政策工具二维分析框架  
+图3政策工具分配比例图  
+Figure 3 Allocation proportion of policy tools
+
+如图3所示，能力建设工具在所用政策工具中的使用占比达 $4 3 . 3 3 \%$ ，是科研机构开放科学政策中使用频率最高的政策工具，说明开放科学正处于蓬勃发展阶段。能力建设工具适用于解决政策目标机构或人群在实现政策预期的过程中所存在的能力欠缺问题，可见各科研机构基于其当前在开放科学实践中面临的不足和障碍，通过投入资金、开展培训、建设平台、完善流程等多种举措，致力于全面提升机构和科研人员践行开放科学的能力。
+
+权威工具占比为 $2 6 . 1 1 \%$ ，仅次于能力建设工具。说明在推进开放科学的过程中仅依靠非强制性的、较依赖个人主观意愿的政策工具是不够的，需要制定强有力的政策，对科研人员的行为活动进行明确规定和限制，提高政策的执行力度和执行效率。
+
+象征和劝诫工具多通过提高研究人员对开放科学的认识和理解、支持鼓励开放科学行为的相关倡议等方式，来营造开放研究氛围，调动科研人员参与开放科学的主观能动性。由于该工具十分依赖个人主观意愿且发挥效用所需周期较长，因此在开放科学进程中以辅助性作用为主，所占比例（ $12 . 8 1 \%$ ）不高。
+
+激励工具以占比 $1 1 . 8 2 \%$ 位列第四。激励工具的基本假设是个人或机构会对激励性政策做出不同程度的反应，以追求自身效用最大化。当前的科研评价往往以定量评价为主，较少考虑研究的实际价值和开放性特征，这也是当前开放科学发展的主要障碍。因此现阶段机构层面的开放科学政策十分注重激励工具，通过提供奖励或资助、改革评估制度、减轻开放工作所带来的成本负担等激励政策，为科研人员从事开放研究提供奖励和认可。
+
+系统变革工具占比为 $4 . 9 3 \%$ 。虽然使用最少，但其发挥作用不容小覷。发布开放科学政策的12家科研机构中，有7家机构在政策中宣布成立开放科学委员会/项目组，负责政策中具体项目的协调和实施，在统筹机构层面的开放科学行动中发挥着重要领导作用。
+
+# 4.2.2开放科学内容要素维度分析
+
+在政策工具维度分析的基础上，引入开放科学内容要素维度，得到各类政策工具在开放科学各内容要素维度上的使用情况，如图4所示。总体来看，开放内容要素和开放流程要素运用的政策工具较多，占比均略超过三分之一，说明促进各类科研成果的开放获取、提高整个科研过程的透明度，是当前机构层面开放科学政策的关注重点；开放合作要素占比 $1 4 . 5 0 \%$ ，开放基础设施要素占比最少，为 $1 2 . 0 0 \%$ 。各具体要素中的各政策工具分配占比如表3所示。
+
+![](images/fda29834815395c54de85d59a078682a81d2acb8620d51875fed739cf24f1f0d.jpg)  
+图4开放科学内容要素维度政策工具分配比例图  
+Figure 4 Allocation proportion of policy tools for open science content elements dimension表3开放科学内容要素维度中的各类政策工具分配比例
+
+Table 3 Allocation proportion of various policy tools in the dimension of open science content elements   
+
+<html><body><table><tr><td colspan="3">政策工具具体占比（%) 政策工具数量(总体占比)</td><td rowspan="2">权威 工具</td><td rowspan="2">激励 工具</td><td rowspan="2">象征和劝诫 工具</td><td rowspan="2">能力建设 工具</td><td rowspan="2">系统变革 工具</td></tr><tr><td colspan="2">内容要素</td><td></td></tr><tr><td rowspan="3">开放 内容 要素</td><td>开放数据</td><td>36(18.00%)</td><td>30.56</td><td>5.56</td><td>13.89</td><td>50.00</td><td></td></tr><tr><td>开放获取</td><td>23(11.50%)</td><td>56.52</td><td>21.74</td><td>8.70</td><td>13.04</td><td></td></tr><tr><td>开放教育资源</td><td>4</td><td>50.00</td><td></td><td>25.00</td><td>25.00</td><td>1</td></tr><tr><td></td><td>开放软件</td><td>4</td><td></td><td>1</td><td>25.00</td><td>75.00</td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="3"></td><td>开放代码</td><td>4</td><td>50.00</td><td>1</td><td>50.00</td><td></td><td>1</td></tr><tr><td>预印本</td><td>2</td><td></td><td>50.00</td><td>50.00</td><td>1</td><td></td></tr><tr><td>预注册</td><td>1</td><td>1</td><td>1</td><td></td><td>100.00</td><td></td></tr><tr><td rowspan="11">开放 流程 要素</td><td>开放科学教育</td><td>21(10.50%)</td><td>4.76</td><td>4.76</td><td>- 4.76</td><td>85.71</td><td></td></tr><tr><td>开放评估</td><td>17(8.50%)</td><td>70.59</td><td>11.76</td><td></td><td>17.65</td><td></td></tr><tr><td>开放激励</td><td>12(6.00%)</td><td></td><td>66.67</td><td>16.67</td><td>16.67</td><td>1</td></tr><tr><td>开放出版</td><td>8</td><td>1 12.50</td><td>1</td><td>25.00</td><td>62.50</td><td></td></tr><tr><td>开放科学政策</td><td>4</td><td>50.00</td><td>25.00</td><td></td><td>25.00</td><td></td></tr><tr><td>科研诚信</td><td>3</td><td></td><td>1</td><td>33.33</td><td>66.67</td><td>1</td></tr><tr><td>开放同行评议</td><td>2</td><td>50.00</td><td></td><td>50.00</td><td>-</td><td></td></tr><tr><td>开放工作流</td><td>2</td><td>1</td><td></td><td>-</td><td>100.00</td><td>，</td></tr><tr><td>开放许可</td><td>2</td><td>50.00</td><td></td><td>50.00</td><td></td><td></td></tr><tr><td>开放服务</td><td>1</td><td></td><td></td><td></td><td></td><td>100.00</td></tr><tr><td>ORCID</td><td>1</td><td>1</td><td>1</td><td>100.00</td><td>1</td><td>-</td></tr><tr><td rowspan="7">开放 基础 设施 要素</td><td>开放基础设施</td><td>14(7.00%)</td><td>7.14</td><td>-</td><td>-</td><td>71.43</td><td>21.43</td></tr><tr><td>机构知识库</td><td>3</td><td>33.33</td><td></td><td>33.33</td><td>33.33</td><td></td></tr><tr><td>开放科学工具</td><td>2</td><td>1</td><td></td><td></td><td>100.00</td><td></td></tr><tr><td>开放出版平台</td><td>1</td><td></td><td></td><td></td><td>100.00</td><td></td></tr><tr><td>开放实验室</td><td>1</td><td></td><td></td><td></td><td>100.00</td><td>-</td></tr><tr><td>开放科学平台</td><td>1</td><td></td><td></td><td></td><td></td><td>100.00</td></tr><tr><td>开放资源平台</td><td>1</td><td>1</td><td>1</td><td>1</td><td>100.00</td><td>1</td></tr><tr><td></td><td>开放仓储</td><td>1</td><td></td><td></td><td></td><td>100.00</td><td></td></tr><tr><td rowspan="2">开放 合作</td><td>开放合作</td><td>18(9.00%)</td><td>22.22</td><td>16.67</td><td>11.11</td><td>50.00</td><td>-</td></tr><tr><td>公民科学</td><td>9(4.50%)</td><td>11.11</td><td>11.11</td><td>11.11</td><td>55.56</td><td>11.11</td></tr><tr><td>要素</td><td>开放社区</td><td>2</td><td>1</td><td>1</td><td>50.00</td><td>50.00</td><td>1</td></tr></table></body></html>
+
+注："政策工具总体占比"是指是单一开放科学要素使用的工具总量/所有开放科学要素使用的工具总量“政策工具具体占比"是指单一开放科学要素使用的各类政策工具量/单一开放科学要素使用的工具总量，“-"表示比值为0。本文认为，若某一要素的政策工具总体占比 $5 4 \%$ ，则认为该要素相对重要 (在表5中予以加粗显示)
+
+在开放内容要素类别中，政策工具主要集中在开放数据（ $1 8 . 0 0 \%$ ）和开放获取（ $1 1 . 5 0 \%$ )，表明开放数据和开放获取仍是现阶段开放科学发展需关注的重中之重，促进各类研究出版物的开放能够为实现开放科学提供资源基础。其中，开放数据的政策工具运用以能力建设工具（ $5 0 . 0 0 \%$ ）为主，权威工具（ $3 0 . 5 6 \%$ ）为辅，一方面，科研机构通过打造开放数据基础设施、培训科研人员数据管理技能、为科研活动提供数据管理计划等举措加强科研人员数据管理能力建设；另一方面科研机构在政策中遵循"尽可能开放，必要时封闭"理念和FAIR 原则，明确规定对科学数据的开放要求。开放获取的政策工具则以权威工具（ $( 5 6 . 5 2 \% )$ )为主，激励工具（ $2 1 . 7 4 \%$ ）为辅，表明开放获取自2003年《自然科学与人文知识开放获取柏林宣言》发布以来，历经近20年发展，其理念宣传和基础设施建设已取得长足进步，未来需要进一步加强政策规定、完善激励措施，推动研究出版物的全面和即时开放获取。
+
+在开放流程要素类别中，政策工具的运用主要集中在开放科学教育（10.5$0 \%$ ）、开放评估（ $8 . 5 0 \%$ )、开放激励（ $6 . 0 0 ~ \% )$ 。开放科学教育主要运用能力建设工具（ $8 5 . 7 1 \%$ ，通过面向机构的科研人员、教职员工和学生开设各类兼顾学科差异性的开放科学课程和培训，有针对性地提高目标群体的开放科学技能，以便将开放科学原则融入其研究实践中。开放评估以权威工具（ $7 0 . 5 9 \%$ ）为主，科研机构通过加强对成果实际质量、成果开放程度、作者实际贡献等方面的评估，来提高"开放性"在科研人员科学研究和职业发展中的重要性，表明当前科研机构对于改革现有科研评估制度、开发新型科研评估框架及指标的力度和决心。开放激励则以激励工具（ $6 6 . 6 7 \%$ ）为主，通过完善面向科研人员的奖励机制来奖励和认可其为开放科学所作的贡献，提高科研人员参与主动性。
+
+在开放基础设施要素类别中，主要运用的是能力建设工具（总体占比70.8$3 \%$ )，其次为系统变革工具（总体占比 $1 6 . 6 6 \%$ )。开放科学基础设施能够为开放科学提供技术架构和平台工具，以支持资源开放集成和多边合作活动[36]。科研机构通过建设面向开放科学不同要素的专门性开放科学基础设施，或打造面向整个开放科学系统的综合性开放科学基础设施，满足科研机构和科研人员在科研数据管理、成果开放出版、研究的开放性评估、开放科学教育培训等方面的需要，为开放科学的发展提供支撑，帮助科研人员将开放科学理念具象化到科研全过程中。同时，由于开放科学基础设施建设复杂，往往涉及人财物众多要素，因此需要运用系统变革工具，通过成立专门的指导委员会或项目组，统筹协调开放科学基础设施项目的开展，保证其发展的可持续性。
+
+在开放合作要素类别中，政策工具的运用主要集中在开放合作（ $9 . 0 0 \%$ ）和公民科学（ $( 4 . 5 0 \% )$ )。在开放合作要素中，五项政策工具均有使用，且以能力建设工具为主（ $5 0 . 0 0 \% )$ ，包括制定与第三方合作的指南和政策、为开放合作提供资金支持、鼓励科研机构积极分享其所作努力、加强与国际方面的战略沟通、成立工作组以敦促机构立场与国际趋势保持一致等。公民科学主要运用的是能力建设工具（ $5 5 . 5 6 \%$ )，加强科学研究与社会公众之间的联系是开放科学的重要议题，科研机构通过协助科研人员科普研究成果、调研社会公众如何更好地利用科研成果并在科研中发挥作用，加强科研人员与社会公众的双向联系，以增进研究对社会影响，体现开放科学的公共属性。
+
+# 4.3研究结论
+
+# 4.3.1政策工具维度
+
+不同的政策工具往往基于不同目的、采用不同形式、适用于不同现实情况且在实现政策目标的过程中发挥着不同程度的作用，它们是相互协调、有机统一的整体。从12份科研机构开放科学政策所使用的政策工具来看，能力建设工具为主，权威工具为辅，其它政策工具所占比例不高，且相差较为悬殊。
+
+一方面，开放科学是一个包含诸多构成要素的复杂系统，并且随着科技进步和社会需求的变化而不断发展，推进开放科学不仅需要扶持性政策和强制性政策，也需要激励性、引导性政策加以配合，因此工具的组合配置有待优化，内部均衡性有待加强。另一方面，在政策设计中也要考虑到，不同开放科学要素面向群体有差异；对于实现开放科学所发挥效用的程度不一致；推进成本和政策结果具有不确定性，且评估难度各不相同等问题，因此政策制定者需要充分认识开放科学的内涵，利用好不同政策工具的差异性，针对不同开放科学要素的现实特征选择与其相适用的政策工具，服务于机构层面开放科学政策的制定。
+
+# 4.3.2开放科学内容要素维度
+
+从开放科学内容要素来看，开放数据、开放获取、开放科学教育和培训、开放合作、开放评估、开放基础设施、开放激励和公民科学八大主题，是当前国外科研机构发布的开放科学政策文本中的主要关注主题，是当前机构层面开放科学政策的关注重点。
+
+究其原因，一方面，发布开放科学政策的科研机构多位于欧洲，深受该国国家层面开放科学战略、以及欧洲各类国际组织政策的影响（如欧盟委员会、LERU、SPARC Europe 等)，特别是欧盟委员会于2019 年确立的开放科学八大支柱：开放数据、欧洲开放科学云(EOSC)、新一代指标、学术交流的未来、奖励、研究诚信、教育和技能、公民科学[37]，极大影响了欧洲乃至全球科研机构政策中对于开放科学关键行动领域的确定。另一方面，随着当前全球一体化不断发展，国际科技交流合作日趋紧密，人类命运共同体日益深化，需要开放科学以共同解决全球问题、推动科技创新，因此，开放合作也正在成为机构间乃至国际间协同推进开放科学的重要方式和手段，在开放科学政策中的地位也不断凸显。
+
+# 5科研机构开放科学政策工具使用优化策略
+
+# 5.1相互协调，优化政策工具的组合配置
+
+制定开放科学政策需要政策工具之间的合理配置。从开放科学政策工具二维分析框架来看，目前政策工具的使用主要集中在能力建设和权威工具，其主要目的是针对当前开放科学发展所面临障碍提供解决途径，以及通过制定强制性政策加速开放科学进程，但仅靠以上两项政策工具是远远不够的。开放科学涉及众多利益相关者，科研人员更是其中的主体角色，如何提高科研人员对开放科学的认识，结合内外部激励提高科研人员参与开放科学的积极性，是近年来开放科学政策制定与实施过程中的焦点。欧盟委员会在2021年发布的《关于开放科学未来的展望》[38报告中指出，利用现实证据提高科研人员对开放科学实践和益处的认识，同时配套以激励措施，是开放科学发展的重要驱动因素。因此，未来科研机构开放科学政策的制定中应加强象征和劝诫工具以及激励工具的运用，例如采用讲座培训、学术会议、宣传活动等方式加强对于开放科学的宣传，营造开放科学文化；在科研评估中对科研人员的开放研究实践予以肯定，将其纳入职业发展体系；为开放实践提供资金支持，如提供APC支持科研人员进行开放出版；加强科研诚信建设，鼓励研究成果重用等。通过内外部激励措施并举，优化政策工具的组合配置。
+
+# 5.2紧贴实际，加强政策工具内部均衡性
+
+政策均衡是指一个政策系统中所有政策要素、政策状态、政策关系维持相对良好形态，在一定条件下政策供给能够最大化适应政策需求[39]。政策工具的均衡性并非政策工具运用的机械平均，而是根据政策研究问题的特点、现实需求、已有基础的实际现状，对现有政策工具进行优化组合[40]，最终形成科学合理的政策系统。通过前文分析可见，开放科学丰富且复杂，在“开放科学政策"这一议题中，权威、激励、象征和劝诫、能力建设以及系统变革政策工具分别发挥着强制命令、外部刺激、内部鼓励、基础支撑和统筹协调作用，它们是相互协调，有机统一的整体，各自不同程度地推进开放科学进程。SPARCEurope基于对欧洲开放数据和开放科学政策的长期跟踪，在《欧洲开放科学政策分析》[41报告中指出，当前许多开放科学政策仍在初级探索阶段，多为提供明确建议，少有强制要求遵守，然而，政策的发展往往遵循着"鼓励 $$ 期望 $$ 要求 $$ 命令"模式。因此，未来各类政策工具的运用需进一步加强均衡性，特别是为解决伴随着开放科学实践发展所产生的诸多现实难题与障碍（如知识产权、科研评估、数据滥用、隐私问题、开放成本等)，需要政策制定者结合实际灵活运用权威工具，以加强对开放科学行为的法律约束，认可科研人员在开放科学中所做的贡献，尽量规避"开放"可能带来的风险、成本或损失。
+
+# 5.3因地制宜，充分利用政策工具差异性
+
+开放科学内涵丰富，构成要素体系庞大且仍在不断的发展变化中。笔者将开放科学的构成要素分为内容、流程、基础设施和合作4个类别，分别侧重于开放科学的不同方面。因此在政策工具的运用上，一方面可针对不同的开放科学要素着重采用不同的政策工具，例如针对开放内容要素可加强权威工具的使用，要求科研成果尽可能开放，针对开放流程要素则可加强能力建设工具的运用，通过完善科研流程提高科研效率和研究透明度；另一方面，也要针对开放科学现实发展中所处的不同阶段着重采用不同的政策工具，欧盟委员会开放科学政策平台（OSPP）在《开放科学的进展:迈向共享的研究知识体系》[42]中指出，建立一个集成工具、服务、硬件和软件的全球可互操作基础设施，是迈向支持创新的研究体系的关键要素之一。现阶段开放科学主要关注开放获取和开放数据，未来阶段的关注重点则是基础设施的开放共享。SPARCEurope在《审视欧洲开放科学基础设施版图》[43]报告中指出，大多数基础设施都设有董事会、指导小组或咨询委员会，科研人员、图书馆等利益相关者常在这些机构中派驻代表。未来开放科学基础设施的建设需要将能力建设和系统变革工具贯穿其中，特别是发挥好系统变革工具对提高政策执行效率的积极作用，以实现对开放科学基础设施的良好治理。
+
+# 6对我国科研机构制定开放科学政策的启示
+
+# 6.1融入国际潮流，洞悉发展趋势，保证政策制定的前瞻性
+
+国际组织发布的国际层面开放科学政策往往具备高度影响力和号召力，致力于实现和维护广泛的国际利益，引领国际开放科学发展浪潮。各国政府发布的国家层面开放科学政策则重在体现特定国家的重大利益和现实需求，对机构制定政策又强烈的现实指导意义。科研机构层面的开放科学政策往往是对国际和国家层面开放科学政策的呼应和落实。例如，《IZTECH开放科学政策》借鉴了欧盟OpenAIRE《开放获取/开放数据政策准备指南》、UNESCO《开放获取政策制定指南》等多项国际开放科学政策文件；《保罗·瓦莱里大学开放科学章程》则参照了法国《数字共和国法》、法国《国家开放科学计划》等国家政策，以及多个国际组织开展的相关行动。同样，国际和国家层面的开放科学政策和实践对于我国科研机构制定开放科学政策具有重要的现实指导意义，国际层面例代表性政策如UNESCO《开放科学建议书》中对开放科学内涵以及关键性领域进行界定、LERU《开放科学及其在大学中的角色：文化变革路线图》[44]中从八个维度对大学实施开放科学提出的建议举措等；国内层面，目前虽然还没有专门的开放科学总体政策出台，但2021年12月修订发布的《中华人民共和国科学技术进步法》[45]中首次将"开放科学”一词明确列入国家法律，标志着我国开放科学迈入有法可依阶段，表明了我国政府对于推动开放科学发展的高度支持。因此科研机构需要深入挖掘解读相关政策文件，结合国际大势、国家需求和机构特点，明确宗旨目标，确定重点发展事项并制定详细的行动计划。
+
+# 6.2调整组织结构，明确职责分工，统筹推进开放科学实践
+
+开放科学涉及众多利益相关者之间的沟通合作，工作开展错综复杂。在目前收集到的多项科研机构开放科学政策中，过半机构都进行了部门结构调整，或设立专门项目组负责开放科学政策的实施，并明确规定了项目组的组织结构和职责分工。例如伦敦大学学院设立开放科学办公室，为其开放科学政策中的重点行动领域提供资源和支持；乌得勒支大学成立开放科学平台以指导开放科学计划；坦佩雷大学拟建立一个常设的开放科学协调组，指导和监督开放科学政策的实施;代尔夫特理工大学的开放科学政策由开放科学委员会协调开展，并有专门团队进行管理；《CNRS开放科学路线图》的实施由法国国家科学研究中心科学技术信息部主导，下设三个单位分别负责信息和数据分析、联合服务、数字化传播，以落实路线图中的具体行动，并定期接受审查。鉴于开放科学涉及众多构成要素和多方利益相关者，科研机构进行组织结构方面的调整，或直接成立专门的开放科学项目组，有助于统筹科研机构开放科学实践，避免机构内部行动分散、步调不一的局面。同时也有助于代表科研机构对外发声，加强科研机构与国际组织、政府部门、资助机构、科研人员等利益相关者的交流联系，共同营造透明包容、可持续且高质高效的开放科学环境。
+
+# 6.3把握核心要素，抓住关键问题，明确开放科学政策的核心
+
+开放科学是一个整体性概念，内涵十分丰富。因此，制定科研机构层面的开放科学政策，不应拘泥于开放科学的个别"点”，而是立足于整个“面”，这便需要科研机构把握好开放科学政策的核心要素。通过前文分析，本研究认为开放数据、开放获取、开放科学教育和培训、开放合作、开放评估、开放基础设施、开放激励和公民科学是当前机构层面开放科学政策的核心。在具体行动中，则应采用文献调研、专家访谈、田野调查等方式，确立核心要素中的优先行动事项，评估实践中可能存在的风险和障碍，化解机构在推进开放科学过程中的难点和痛点。例如负责起草和制定代尔夫特理工大学《开放科学战略计划2020-2024:开放时代的研究和教育》（以下简称“《计划》"）的开放科学团队成员，分别来自该大学的图书馆、学院和服务部门，该团队通过深入学院开展调研，和所有开放科学利益相关者特别是科研人员群体进行密切交流，并且邀请专家对《计划》提出指导建议，从而明确《计划》的关注重点、行动项目及其实施的保障条件，同时为每一个项目都制定了详细的预期交付成果、优先行动事项、潜在风险评估和可能解决措施，并于次年发布《评估 2020&2021工作计划》[46]，梳理 2020 年项目进展，更新2021年工作计划，确保其开放科学战略计划的有序推进。因此，明确好政策的关键着力点，确定好行动的优先级并及时进行评估，对于政策制定实施而言十分必要。
+
+# 6.4保障经费投入，适时动态调整，保障政策的可实施与成效
+
+实现开放科学的文化变革需要长期且持续的投入。科研机构的开放科学政策通常为一项3-5 年中长期战略规划,期间需要科研机构的二级科研部门/学院与人力、财务、图书馆、技术等众多服务部门之间进行充分合作，对人、财、物力的需求较高。因此，是否具备完善的经费保障制度是开放科学政策能否成功开展实施的关键。当前国外科研机构十分注重规划用于实施开放科学政策的经费预算，如乌得勒支大学在其实施周期3年期的《开放科学项目 2018-2021》中明确了该项目的治理结构和预算分配方案，该预算方案基于项目初步规划，估算了整体项目的预计成本和预期投入，以及各个具体项目的经费分配，并提出将在项目开展过程中逐步完善更详细的年度计划；代尔夫特理工大学《计划》实施周期为4年，该机构在预算方案中综合考虑了项目成本和项目管理成本，拟定了2020-2023每年的预期成本，4年总预算达300万欧元，并准备定期评估《计划》的实施情况，以及与指导委员会开展定期会议，对每年预算进行动态调整。可见，科研机构在拟定开放科学政策和推进开放科学项目的初期，应在政策中明确项目实施的组织结构，厘清组织成员的职责范围，综合考虑项目实施成本和人员管理成本，将预算方案精细化到每个年度的每个项目中，并且做好后续的经费使用审查和成效评估，根据实践进展不断优化调整经费投入产出比，通过提供稳定且灵活的经费投入，促进各项开放科学政策和行动落地生花。
+
+# 参考文献：
+
+[8] 范昊，王贺．欧洲开放获取政策及其启示——以"开放获取 S计划"为例[J]．图书馆学研究，2019(9): $3 7 - 4 3 + 7 3$ ：
+
+FAN H，WANG H. Research on European open access policies and its enlightenments a case of Plan S[J]. Research on library science,2019(9): $3 7 - 4 3 + 7 3$ ： [9] OpenAIRE. Open Science overview in Europe[EB/OL]. [2022-03-09]. https://www.opena ire.eu/os-eu-countries. [10] OA 新闻资讯监测．[EB/OL].[2022-06-01].htp://stm.las.ac.cn/STMonitor/index.htm?serv erId=190&period=tenDay#. OA News and Information Monitoring.[EB/OL]. [2022-06-01]. http://stm.las.ac.cn/STMon itor/index.htm?serverId $\ c =$ 190&period=tenDay#. [11] Nature Index[EB/OL]. [2022-03-09]. https://www.natureindex.com/annual-tables/2021/inst itution/all/all. [12] Utrecht University. Open science[EB/OL]. [2022-03-09]. https://www.uu.nl/en/research/o pen-science. [13] Tampere Universities. Open science[EB/OL]. [2022-04-20]. https://www.tuni.fi/en/resear ch/responsible-research/open-science#expander-trigger--65f39225-8b9e-4265-a05f-26c479856ef 1 [14] CNRS. Science ouverte[EB/OL]. [2022-03-09]. https://www.science-ouverte.cnrs.fr/. [15] Technische Universiteit Delft. About the-programme [EB/OL]. [2022-03-09]. https://ww w.tudelft.nl/library/tu-delft-open-science/about-the-programme. [16] IZTECH. IZTECH open sciences policy[EB/OL]. [2022-03-09]. https://gcris.iyte.edu.tr/h andle/11147/51. [17] Maastricht University. Open science[EB/OL]. [2022-04-20]. https://www.maastrichtunive rsity.nl/research/open-science. [18] Université Paul-Valéry Montpellier II. Charte sciences ouvertes[EB/OL]. [2022-03-09]. https://www.univ-montp3.fr/fr/uni $\% C 3 \%$ A9s-de-recherche/charte-sciences-ouvertes. [19] NTNU. Policy for open science at NTNU[EB/OL]. [2022-04-20]. https://www.ntnu.edu/ policy-for-open-science. [20] Australian Academy of Science. Position statement-open science[EB/OL]. [2022-03-09]. https://www.science.org.au/supporting-science/science-policy-and-analysis/position-statements/p Osition-statement-open-science. [21] NASA. Open-source science initiative[EB/OL]. [2022-03-09]. htps://science.nasa.gov/op en-science-overview. [22] University of Zurich. Open science[EB/OL]. [2022-04-20]. https://www.uzh.ch/cmsssl/en /about/basics/openscience.html. [23] Library Services.UCL Office for open science and scholarship[EB/OL]. [2022-04-20]. https://www.ucl.ac.uk/library/open-science-research-support/ucl-office-open-science-and-scholar ship. [24] 刘彬芳，魏玮，安小米．大数据时代政府数据治理的政策分析[J]．情报杂志，2019，38 (1): $1 4 2 - 1 4 7 + 1 4 1$ ： LIU B F, WEI W, AN X M. Analysis of government data governance policy in the era of big data[J]. Journal of intelligence, 2019,38(1): 142-147+141. [25]黄萃．政策文献量化研究[M]．北京：科学出版社，2016:80-81. HUANG C. Quantitative research of policy literature[M]. Beijing: Science Press,2016: 8 0-81. [26] FLANAGAN K, UYARRA E, LARANJA M. Reconceptualising the policy mix of inn ovation[J]. Research policy，2011， 40(5): 702-713. [27] ROTHWELL R, ZEGVELD W. Reindustrialization and technology[M]. London: Long man, 1985. [28] MCDONNELL L M, ELMORE R F. Geting the job done: alternative policy instrume nts.Educational evaluation and policy analysis[J],1987, 9(2): 133-152.
+
+[29] SCHNEIDER A, INGRAM H. Behavioral assumptions of policy tools[J]. The journal of politics,1990,52(2): 510-529.   
+[30] OECD. Open and inclusive collaboration in science [EB/OL]. [2022-03-09]. https://ww w.oecd-ilibrary.org/industry-and-services/open-and-inclusive-collboration-in-science_2dbff737-e [31] OCSDNet. ANEXO Declaración de Panamá sobre ciencia abierta [EB/OL]. [2022-03-0 9]. https://gitlab.com/declaraciondepanama/declaracion-de-panama/-/blob/master/DeclaraciondeP anama_ANEXO_Detalle.md.   
+[32] EILEEN G H. Chapter 7 - Open science [EB/OL]. [2022-03-09]. htps://www.scienced irect.com/science/article/pii/B978008 1021248000076#bb0100.   
+[33] FOSTER. Open science taxonomy [EB/OL]. [2022-03-09]. htps://www.fosteropenscienc e.eu/themes/fosterstrap/images/taxonomies/os_taxonomy.png.   
+[34] CORRALL S.The open movement: what libraries can do[C]// Charleston library conf erence. 2016.   
+[35] MUNRO C ，COUCH P，JOHNSON J，et al. Towards an open infrastructure for r elating scholarly assets[J]. Studies in health technology & informatics,2017, 235(235): 49 1   
+[36] 赵展一，黄金霞．开放科学基础设施的信息资源建设模式分析[J]．图书馆建设，2021(3): 46-55.   
+ZHAO Z Y, HUANG J X. Analysis of information resource construction mode of open science infrastructures[J]. Library development, 2O21(3): 46-55.   
+[37] European Commission. Open science[EB/OL]. [2022-05-07]. https://ec.europa.eu/info/sit es/default/files/research_and_innovation/knowledge_publications_tools_and_data/documents/ec_r td_factsheet-open-science_2019.pdf.   
+[38] European Commission. Perspectives on the future of open science[EB/OL]. [2022-03-0 9]. https://op.europa.eu/en/publication-detail/-/publication/74cfe2bc-200c-11lec-bd8e-01aa75ed71 a1   
+[39] 于正伟，胡曼云．政策、政策供求与政策均衡——公共政策研究的供求分析框架[J]．内 蒙古农业大学学报(社会科学版)，2010,12(1):240-242.   
+YU Z W,HU M Y. Policy， policy supply and demand and policy equilibrium - the fra mework of supply and demand analysis in public policy research [J]. Journal of Inner Mo ngolia Agricultural University(social science edition), 2010,12(1): 240-242.   
+[40] 陈兰杰，赵元晨．政策工具视角下我国开放政府数据政策文本分析[J].情报资料工作, 2020,41(6): 46-53.   
+CHEN L J, ZHAO Y C. Analysis of open government data policy text in China from t he perspective of policy tools[J]. Information and documentation services, 2020,41(6): 46- 53.   
+[41] SPARC Europe.An analysis of open science policies in Europe[EB/OL]. [2022-03-09]. https://www.ouvrirlascience.fr/an-analysis-of-open-science-policies-in-europe-v4-august-2019-2 [42] Open Science Policy Platform. Final report: progress on open science: towards a shar ed research knowledge system[EB/OL]. [2022-03-09]. htps://c.europa.eu/transparency/expert -groups-register/screen/expert-groups/consult?dc $\vDash$ groupDetail.groupDetail&groupID $\vDash$ 3436&New Search $^ { = 1 }$ &NewSearch $_ { = 1 }$ ：   
+[43] SPARC Europe. Scoping the open science infrastructure landscape in Europe[EB/OL]. [2022-03-09]. htps:/sparceurope.org/new-sparc-europe-report-out-scoping-the-open-science-infr astructure-landscape-in-europe/.   
+[44] LERU. Open Science and its role in universities: a roadmap for cultural change[EB/O L].[022-06-05].htps://www.leru.org/publications/open-science-and-its-role-in-universitis--r oadmap-for-cultural-change.
+
+# 作者贡献说明：
+
+王译晗：确定选题，拟定大纲，撰写论文；  
+初景利：思路指导与论文审定。
+
+# Quantitative Analysis and Enlightenment on Open Science Policy Texts in Scientific Research Institutions from the Perspective of Policy Tools
+
+Wang YihanChu Jingli 1.National Science Library，Chinese Academy of Sciences,Beijing，100190 2.Department of Library， Information and Archives Management， School of Economics and Management,University of Chinese Academy of Sciences,Beijing，100190
+
+Abstract: [Purpose/Significance] At present, there is relatively litle research and practice on the open science policy at the level of scientific research institutions in China, while some preliminary explorations have been made abroad.The text analysis of open science policies of representative scientific research institutions and draw lessons from their policy making experience can provide a good reference for the formulation of dominant file of open science for Chinese scientific research institutions,further give play to the main role of scientific research institutions in the process of open science,and promote the practice of open science from bottom to top.[Method/Process] Based on the perspective of policy tools,this paper uses the content analysis method to conduct quantitative analysis on 12 open science policy texts published by foreign scientific research institutions.This paper establishes an X-Y two-dimensional analysis framework for open science policy of scientific research institutions. The content analysis categories are as follows: policy instrument dimension (X dimension) -- authority, incentive,symbol and exhortation,capacity building, system change; open science content factor dimension (Y dimension)--open content, open process, open infrastructure,open cooperation. This paper carries out research through the X-Y two-dimensional analysis framework,aims to reveal the use of policy tools preferences and policy content focus on the tendency,refining the key factors of research institutions’open science policy,and puting forward the policy tool optimization strategy and the enlightenments for Chinese scientific research institutions to formulate open science policy. [Results/Conclusions] From the dimension of policy tools,capacity building tools are more used, followed by authority tools,and other policy tools are less used.From the dimension of open science content elements, the eight themes of open data, open access, open science education and training, open cooperation, open evaluation,open infrastructure, open incentive and citizen science are the main concerns in the open science policy issued by foreign research institutions. The use of open science policy tools in scientific research institutions should: coordinate with each other, optimize the combination of policy tools; close to the actual problems,strengthen the internal balance of policy tools; adjust measures to local conditions and make full use of differences in policy tools. In formulating open science policies, scientific research institutions should: further integrate themselves into the international open science tide,know very wellthe development trend,and ensure the forward-looking of policies; adjust and optimize the organizational structure, clarify the division of responsibilities,and promote open scientific practice in an overall way; the core elements and key issues of open science policy should be grasped when formulating policies; and in the process of policy formulation and implementation, ensure the investment of funds,as well as timely dynamic adjustment.
+
+Keywords: open science; open science policy; scientific research institution; policy tools

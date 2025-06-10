@@ -1,0 +1,524 @@
+[
+    {
+        "type": "text",
+        "text": "基于主成分和机器学习的土壤有机质含量空间预测建模",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "月贵贵12，杨粉莉³，杨联安12，郑玉蓉2，王　辉4，陈卫军δ，李亚丽1.2(1.西北大学陕西省地表系统与环境承载力重点实验室，陕西 西安710127；2.西北大学城市与环境学院，陕西 西安710127；3.咸阳市农业科学研究院，陕西咸阳712000；4.咸阳市土壤肥料工作站，陕西 咸阳712000；5.旬邑县土壤肥料工作站，陕西 旬邑711300)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：协同环境变量与机器学习回归模型构建土壤有机质空间预测组合模型对养分精准管理具有重要意义，而多维变量间的信息冗余和相关性会导致模型训练时间过长、预测精度降低等问题。以陕西省咸阳市农耕区为例,选取高程、坡向、坡度、剖面曲率、平面曲率、地形起伏度、地形湿度指数、年均降水量、年均气温、归一化植被指数共10个环境变量,在主成分分析(Principalcompo-nent analysis,PCA）、核主成分分析（Kernel principal component analysis,KPCA)方法特征提取基础上,组合随机森林(Random forest,RF）、支持向量回归机(Support vector regression,SVR)、K最近邻(K-nearest neighbor,KNN)机器学习模型进行土壤有机质含量空间预测。以单一模型作为对照，通过计算模型决定系数（Coefficient of determination, $R ^ { 2 } ,$ ）、均方根误差(Root mean square error,RMSE)和相对绝对误差(Relative absolute error,RAE),对不同模型的预测结果进行精度评价。结果表明：利用主成分提取方法和机器学习算法构建组合模型能消除变量间相关性，一定程度上提高土壤有机质含量预测模型精度。KPCA-RF模型对SOM含量预测精度高于其他模型， $R ^ { 2 }$ 、RMSE、RAE分别为 $0 . 7 9 1 \\setminus 1 . 9 7 0 \\ \\mathrm { g \\cdot k g ^ { - 1 } } \\setminus 5 0 . 1 0 0 \\%$ ，该模型良好的预测能力可以为土壤有机质含量的空间预测与制图提供科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：土壤有机质；机器学习；核主成分分析；农耕区；咸阳市",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "土壤有机质(Soilorganicmatter,SOM)是衡量土壤肥力与土壤质量的重要指标之一，对维持土壤生态平衡与促进作物生长发育具有至关重要的作用[]。传统的土壤制图方法依赖于大量的采样点数据来表达土壤养分的空间分布特征，这种方式耗费大量的人力物力，时间周期长且精度难以保证。随着新的研究方法、技术手段以及认知水平的提高，数字土壤制图成为一种高效表达土壤空间分布的新方法[2-3],可以获取精细土壤信息以便于指导农业生产与田间管理。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "数字土壤制图以土壤-景观模型为理论基础，借助空间分析和数学方法等技术手段进行土壤调查和可视化的现代化技术体系[2]。通过选取与土壤发生相关和体现土壤属性空间差异的表征因子作为环境变量，分析不同变量条件下土壤属性的差异性并建立它们之间的逻辑关系，从而推测出土壤属性的空间连续分布特征[3]。自20世纪90年代Moore等4开始采用线性回归与判别分析对土壤属性进行预测，学者们对于数字土壤制图模型方法的探索从未停止，大致经历了线性回归、模糊逻辑推理、地统计学、机器学习等过程[5]。线性回归模型依靠已知点的变量值与辅助信息建立简单线性、多元线性回归方程，从而实现其余未知点的预测[6-7],但是未考虑到样点间的相关性，预测偏差较大；模糊逻辑推理方法将土壤与环境条件知识表达为隶属度函数，某个未知点与多个采样点土壤间具有隶属度，根据这些隶属度确定未知点的土壤属性，以 $\\mathrm { \\Delta Z h u }$ 等8提出的SoLIM模型作为代表；地统计学模型以区域化变量理论为基础，通过已知点的空间依赖性预测未知点的变量值[9],如普通克里格。协同克里格结合了空间相关理论、要素间土壤属性和环境变量间协同相关性对目标属性进行预测估计，一定程度上能提高土壤推测的精度o；机器学习在处理多维、非线性海量数据、改善模型泛化能力等方面具有良好的适用性，目前已经被应用到诸多领域的研究中[11-12]。尤其在展示土壤空间变异、土壤养分空间预测方面，协同多源环境变量的机器学习方法显示出较大的潜力，常见的模型包括随机森林（Random forest,RF）[13-14]、支持向量机（Support vector machine,SVM）[15]、决策树（Decision tree,DT）[16]、神经网络(Neural networks,NNs)[17]、K-最近邻(K-nearest neigh-bor,KNN)[18]等。Curtis等[19]使用逐步线性回归、决策树、RF等8种统计与机器学习算法对玉米种植区土壤氮需求进行预测，结果发现机器学习模型的预测精度更高;Tomislav等[16研究显示RF模型对土壤属性的预测误差较线性回归模型下降了 $1 5 \\% { \\sim } 7 5 \\%$ ，表明RF模型在非洲土壤属性制图中同样具有良好的适用性;类似的研究[20-21]也表明机器学习模型较传统线性模型能更好地刻画土壤属性的空间变异性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "机器学习模型在数字土壤制图应用中起步较晚，不同区域下模型的适用性和预测性能仍需进一步研究，其中环境变量的选取也成为研究的重点[22]。土壤有机质空间分布受地形、气候、植被和人为活动等多方面的影响，通过探寻土壤与环境之间的关系，不断丰富土壤环境关系库对数字土壤制图具有重要的意义[23]。地形是影响土壤发育的重要因素之一，通过调节土壤水分与太阳辐射的空间再分配对土壤养分产生影响，同时数字高程模型(Digitalelevationmodel,DEM)提供了高分辨率的地表状况且易获取，在土壤预测制图中得到了广泛的应用13；遥感影像提供了完整的、高精度的地表反射率数据，可通过反演相应的盐分指数23、植被指数4来表征土壤属性地表差异;降水量和气温等气候因子主要是通过干预植物生长发育与有机质分解影响土壤有机质的空间分布。此外，人为活动因素由于数据的获取难度较大、目前缺乏有效的方法进行空间量化而较少参与土壤养分预测制图。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着越来越多的变量参与到机器学习模型构建中，多维变量间的信息冗余和相关性导致模型训练时间加长、预测精度出现偏差等问题。利用主成分提取方法与机器学习算法构建组合模型是1种可行的优化策略[24-25],主成分提取方法通常分为线性和非线性2种,线性方法有PCA（Principalcompo-nent analysis）、典型相关分析、线性判别分析等，非线性方法有KPCA（Kernel principal component analy-sis）、流形学习等。学者们的研究大多集中于线性提取方法,尤其以PCA方法最多[25-26],组合非线性方法和机器学习模型的研究相对较少。本研究选取地形、气候、植被3大类共10个环境变量作为输入变量，在PCA、KPCA2种主成分特征提取的基础上，结合RF、SVR、KNN3个模型，构建相应的组合模型，为咸阳市农耕区SOM含量的空间模拟预测提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况及数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "陕西省咸阳市位于 $1 0 7 ^ { \\circ } 3 8 ^ { \\prime } { \\sim } 1 0 9 ^ { \\circ } 1 0 ^ { \\prime } \\mathrm { E }$ $3 4 ^ { \\circ } 1 1 ^ { \\prime }$ 2$3 5 ^ { \\circ } 3 2 ^ { \\prime } \\mathrm { N }$ 之间，地处陕西关中平原腹地，东西跨度约$1 3 9 . 7 ~ \\mathrm { k m }$ ，南北跨度约 $1 4 9 . 4 ~ \\mathrm { k m }$ ，总面积约为$1 0 1 8 9 . 4 \\mathrm { k m } ^ { 2 }$ 。咸阳市属于暖温带大陆性季风气候，全年平均降水量为 $5 3 7 { \\sim } 6 5 0 ~ \\mathrm { m m }$ ，平均温度 $9 . 0 \\sim$ $1 3 . 2 ~ \\mathrm { ^ { \\circ } C }$ 。根据地形变化，全市可分为3个大的地貌分区：南部关中平原区、北部黄土高原区和东北部山地区。受地形条件的影响，南北地区热量条件呈现明显的差异，年均气温南部一般比北部高 $4 . 2 ~ \\mathrm { ^ { \\circ } C }$ .北部无霜期为172\\~205d，南部无霜期为212\\~223d。境内农耕区主要分布在平原和高原区域，由于东北部山区耕地较少，故未将该区域纳人本次的研究范围。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1土壤数据的采集参照研究区土壤特性、地貌特点、作物信息对农耕区（不包括秦都区与渭城区)进行样点布置，结合农业部测土配方施肥技术规范，遵循均匀性、代表性、多点混合的原则进行采样。采样时间为2017年作物收获后，采用\"S\"形法均匀随机取5个点，将各采样点土壤混匀后用四分法留取 $1 \\mathrm { k g }$ 土样装袋，采样深度为 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ ，同时利用GPS记录样点的经纬度位置，登记土样编号，记",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "录土样的种植制度、灌溉条件、产量等相关属性。在实验室经风干、研磨和过筛后，采用重铬酸钾氧化容量法测定SOM含量，并选用域值法(3倍标准差)剔除异常值，最终得到407份有效样点数据，样点分布如图1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2环境变量收集与处理环境变量包括地形因子、气候因子、植被因子。地形因子源于从地理空间数据云平台下载的 $9 0 ~ \\mathrm { m }$ 分辨率数字高程模型数据，利用ArcGIS10.3提取出研究区高程(DEM， $X 1$ ）、坡度（Slope, $X 2$ ）、坡向（Aspect, $X 3$ ）、剖面曲率 $( X 4 )$ 、平面曲率( $\\langle X 5 \\rangle$ ）、地形起伏度（Relief degreeof landsurface, RDLS, $X 6$ ）和地形湿度指数（Topographicwetness index, $\\mathrm { T W I } , X 7 ) 7$ 种地形因子，其中RDLS和TWI的计算公式分别参见文献[27-28]；从世界气象数据库下载全球多年(1970—2000年)月平均降水量(1—12月)和月平均气温(1—12月)数据，空间分辨率为 $1 \\mathrm { k m }$ 。通过栅格计算、掩膜提取得到研究区年均降水量 $( X 8 )$ 和年均气温（ $\\langle X 9 \\rangle$ 数据，最后重采样将空间分辨率转换为 $9 0 ~ \\mathrm { m }$ ;植被因子采用归一化植被指数 $\\mathrm { \\langle N D V I , } X 1 0 \\mathrm { \\rangle }$ ,用来反映农田植被生长状况，使用2017年7月的Landsat8遥感影像反演提取所得。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3构建预测因子集合根据采样点的空间位置信息，利用ArcGIS10.3软件Spatialanalyst模块中提取分析将10个环境变量值提取至每一样点，构建土壤有机质预测因子集合",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2方法与模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1主成分提取方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在土壤养分空间预测研究中，加入不同的环境变量到预测模型中能够有效地提高模型精度。但不同变量间往往存在着较高的相关性，大量的冗余信息会导致模型精度出现偏差。主成分提取就是将原有变量的有用信息集中在尽可能少的新的主成分变量中，达到信息增强的目的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PCA作为1种常见的多元统计方法，通过探索变量间的线性关系，从而实现将多维变量综合成少数变量的线性组合，是进行数据降维、模型优化的1种有效手段。KPCA是1种非线性的特征提取方法，它的主要思想是：通过非线性核函数转换的方法，将原始向量映射到高维特征空间中，然后在特征空间中进行线性主成分变换[29]，常见的核函数有：线性核函数、多项式核函数、高斯核函数。KPCA克服了PCA方法不能反映数据的非线性特征以及只考虑二阶统计特性的缺陷，在图像降维[30]、生态评价[31]等方面得到广泛的应用。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6fa9731186ecb42f121096c37f82cd726e5f33cd142f10b8259fc942a943b7b5.jpg",
+        "img_caption": [
+            "图1土壤有机质(SOM)采样点分布图",
+            "Fig.1 Distribution map of soil organic matter sampling points "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2机器学习模型简介",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 随机森林随机森林(RF)是Breiman[32提出的基于决策树的分类回归算法，它是利用bootstrap重抽样方法从原始数据集中随机抽取多个样本，对每个样本数据进行决策树建模，然后组合成多棵决策树的预测模型，综合所有决策树的投票结果得到模型的预测值，具体算法步骤见文献[33]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2支持向量回归机 支持向量回归机(Supportvectorregression,SVR)是基于VC维理论和结构风险最小化原则，从已知的样本数据中获取最佳的学习模型[34]。它使用\"核技巧\"方法，将低维特征空间映射到一个高维甚至无穷维的特征空间中，从而使用线性回归的方法实现低维特征空间数据的回归预测。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.3K最近邻算法K最近邻算法(KNN)依赖于欧几里得距离，通过距离排序选择K个最近的样本来预测目标[35]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3研究流程",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "主成分提取、模型的训练与测试分别在Matlab、Rstudio软件中进行，主要步骤包括：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）数据预处理。为了消除量纲，对构建的  \nSOM预测因子集合数据进行归一化处理，将所有变  \n量值域放在相等的区域[36]。（2）特征提取。运用PCA、KPCA分别进行数据  \n处理，选择累计贡献率大于 $8 5 \\%$ 的主成分作为后续  \n模型的输入特征数据。（3）划分训练集、验证集。通过随机抽样的方  \n法，按照7:3的比例划分训练集、验证集。（4）训练模型。根据285个训练样本，分别调  \n用randomForest $\\mathbf { \\nabla } _ { \\cdot } \\operatorname { e l } 0 7 1$ 、caret语言包构建基于PCA  \n的PCA-RF、PCA-SVR、PCA-KNN预测模型、基于  \nKPCA的KPCA-RF、KPCA-SVR、KPCA-KNN预测模  \n型。进一步对各模型参数进行遍历，根据10折交叉",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "验证结果选取参数最优值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（5）精度评价。采用验证集测试SOM含量预测模型性能，与未进行主成分分析的RF、SVR、KNN单一预测模型对比分析，实现对咸阳市农耕区SOM含量的精准预测。本文选择模型决定系数(Coefficient of determination, $R ^ { 2 }$ ）、均方根误差（Rootmeansquareerror,RMSE)和相对绝对误差(Relativeabso-luteerror，RAE)作为土壤有机质预测模型的评价指标。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1描述性统计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表1可知，咸阳市SOM含量介于6.59\\~27.80$\\mathbf { g } \\cdot \\mathbf { k } \\mathbf { g } ^ { - 1 }$ ,平均值为 $1 5 . 5 4 ~ \\mathrm { g \\cdot k g ^ { - 1 } }$ ,处于《全国第二次土壤普查养分分级标准》的第4级即 $1 0 { \\sim } 2 0 ~ \\mathrm { g } \\cdot \\mathrm { k g } ^ { - 1 }$ ，处于稍微缺乏状态；训练集、验证集和整体数据集除了样点数不同，其他各统计参量相差不大；变异系数接近 $2 5 . 0 0 \\%$ ,属于中等变异性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2基于主成分和机器学习的SOM含量预测建模 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "使用主成分方法进行数据特征提取，在保留大部分原始信息的同时，可以降低变量间的相关性。基于407个样点数据，分析SOM含量与各环境变量的相关性、不同环境变量之间的相关程度。由表2可知：SOM含量与 $X 1 \\setminus X 6$ 呈显著的负相关关系( $\\scriptstyle P <$ 0.01），与 $X 8 , X 9 , X 1 0$ 呈显著的正相关关系（ $\\scriptstyle P <$ 0.01)，与 $X 2 , X 7$ 两因子相关性在0.05置信水平上呈显著相关。其中，SOM含量与DEM之间相关性最强，相关系数为-0.315，表明SOM含量随海拔的升高而呈下降趋势，不同高度的SOM含量差异明显。同时结果也显示：各环境变量之间存在相关性，变量 $X 1$ 与 $X 2 \\ 、 X 6 \\ 、 X 7 \\ 、 X 8 \\ 、 X 9 \\ 、 X 1 0$ 之间呈现显著相关（ $\\scriptstyle { \\cdot } P < 0 . 0 1 )$ ，与变量 $X 3$ 之间有着较强的相关性( $\\scriptstyle ( P <$ 0.05)；除了与 $X 3 , X 1 0$ 相关程度较弱，变量 $X 2$ 与其他变量间都呈显著相关性 $( P { < } 0 . 0 1 )$ ；此外，变量 $X 3$ 与 $X 5 \\setminus X 9 ; X 4$ 与 $X 5 , X 6 , X 7 ; X 5$ 与 $X 7 ; X 6$ 与 $X 7 , X 8$ 、",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/43e8f2541765552533474957e90d936e5cfb7831976721f26e39dc91c0831d5e.jpg",
+        "table_caption": [
+            "表1研究区土壤有机质(SOM)含量的描述统计",
+            "Tab.1 Descriptive statistics of soil organic matter content in the study area "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>指标/个</td><td>样点数/个</td><td>最小值/g·kg-1</td><td>最大值/g·kg\"1</td><td>平均值/g·kg</td><td>标准差/g·kg-1</td><td>变异系数/%</td></tr><tr><td>整体</td><td>407</td><td>6.59</td><td>27.80</td><td>15.54</td><td>3.80</td><td>24.45</td></tr><tr><td>训练集</td><td>285</td><td>6.59</td><td>24.78</td><td>15.64</td><td>3.79</td><td>24.23</td></tr><tr><td>验证集</td><td>122</td><td>7.21</td><td>27.80</td><td>15.34</td><td>3.84</td><td>25.36</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2变量相关分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a9bb3d38cc297b1e8f32251dc597c4c7c0544a740b899b568d7e88506f1fb015.jpg",
+        "table_caption": [
+            "Tab.2 Variable correlationanalysis "
+        ],
+        "table_footnote": [
+            "注：\\*表示相关性在0.05水平上显著， $^ { * * }$ 表示相关性在0.01水平上显著(双尾);变量X1 $X 2 \\ 、 X 3 \\ 、 X 4 \\ 、 X 5 \\ 、 X 6 \\ 、 X 7 \\ 、 X 8 \\ 、 X 9$ 和 $X 1 0$ 分别代表高程、坡度、坡向、剖面曲率、平面曲率、地形起伏度、地形湿度指数、年均降水量、年均气温和归一化植被指数。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>SOM</td><td>X1</td><td>X2</td><td>X3</td><td>X4</td><td>X5</td><td>X6</td><td>X7</td><td>X8</td><td>X9</td><td>X10</td></tr><tr><td>SOM</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>X1</td><td>-0.315**</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>X2</td><td>-0.099*</td><td>0.317**</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>X3</td><td>-0.006</td><td>0.123*</td><td>0.082</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>X4</td><td>-0.006</td><td>-0.073</td><td>0.166**</td><td>0.002</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>X5</td><td>0.003</td><td>-0.016</td><td>-0.153**</td><td>-0.205**</td><td>-0.262**</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>X6</td><td>-0.130**</td><td>0.336**</td><td>0.936**</td><td>0.058</td><td>0.174**</td><td>-0.074</td><td>1.000</td><td></td><td></td><td></td><td></td></tr><tr><td>X7</td><td>0.101°</td><td>-0.340**</td><td>-0.475**</td><td>-0.053</td><td>0.222**</td><td>-0.181**</td><td>-0.458**</td><td>1.000</td><td></td><td></td><td></td></tr><tr><td>X8</td><td>0.206**</td><td>-0.417**</td><td>-0.226**</td><td>-0.053</td><td>-0.057</td><td>0.099*</td><td>-0.229**</td><td>0.084</td><td>1.000</td><td></td><td></td></tr><tr><td>X9</td><td>0.285**</td><td>-0.981**</td><td>-0.342**</td><td>-0.137**</td><td>0.021</td><td>0.038</td><td>-0.362**</td><td>0.306**</td><td>0.494**</td><td>1.000</td><td></td></tr><tr><td>X10</td><td>0.204**</td><td>-0.235**</td><td>-0.089</td><td>0.004</td><td>-0.026</td><td>-0.016</td><td>-0.063</td><td>0.085</td><td>0.117*</td><td>0.185**</td><td>1.000</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$X 9 ; X 7$ 与 $\\scriptstyle \\chi 9 ; \\chi 8$ 与 $\\chi 9 { \\ ; } X 9$ 与 $X 1 0$ 间均在0.01置信水平上呈显著相关。相关性较强，说明变量之间存在较多的冗余信息，进一步表明对SOM预测建模的10个环境变量进行主成分提取是必要的。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用Matlab软件分别实现对SOM预测因子集合数据的PCA、KPCA2种方法的降维，同时提取累计贡献率大于 $8 5 . 0 0 \\%$ 的主成分，结果如表3所示。表3可以看出，PCA提取出能够反映原始变量$9 0 . 0 0 \\%$ 信息量的6个主成分，基本可以概括原始变量所反映的信息，因此选择前6个主成分作为PCA组合模型的输入特征数据。由主成分载荷矩阵可知(表4)：第一主成分与Slope( $\\left( { { X 2 } } \\right)$ 、RDLS(X6)存在较大相关性，它反映了不同坡度、起伏条件下的SOM含量差异，可以概括为坡度因子；第二主成分与 $\\operatorname { D E M } ( X 1 )$ 、年均气温 $( \\chi 9 )$ 两因子具有较大相关性，反映了不同高程条件下的气温差异对SOM含量的影响，气温随着海拔的升高而逐渐降低，微生物的分解速率减慢致使SOM含量降低，概括为高程气温因子;第三主成分与 $\\mathrm { { N D V I } } \\left( X 1 0 \\right)$ 、年均降水量(X8)存在较大相关性，概括为植被因子;第四、五主成分分别为剖面曲率、平面曲率因子；第六主成分与 ${ \\mathrm { A s p e c t } } ( X 3 )$ 具有较大相关性，概括为坡向因子。不同坡向下的光照、温度、水分状况有差异，影响微生物活动与养分积累。相比之下，当核函数为多项式核函数时，KPCA可以提取出累计贡献率达到$9 7 . 9 9 \\%$ 的2个主成分，综合考虑因子间相关性和主成分方差贡献率，认为这2个主成分包含了绝大部分的原始信息量，故选择前2个主成分作为KPCA组合模型的输入特征数据。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于PCA、KPCA2种主成分提取方法构建的SOM含量预测模型的输入特征数据，对RF、SVR、KNN模型分别进行训练，构建相对应的主成分和机器学习组合模型。不同参数的选取对模型的学习性能和预测精度有重要的影响，参数的过大过小都",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3各主成分的贡献率",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/332a0951d55aecc306ec92a3047c0592d8794aebc4ca1bbed80b3e77badd2da5.jpg",
+        "table_caption": [
+            "Tab.3 Contribution ratio of each principal component factor "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">主成分</td><td colspan=\"3\">主成分分析(PCA)</td><td colspan=\"2\">核主成分分析(KPCA)</td></tr><tr><td>特征值</td><td>贡献率/%</td><td>累积贡献率/%</td><td>贡献率/%</td><td>累积贡献率/%</td></tr><tr><td>1</td><td>3.22</td><td>32.21</td><td>32.21</td><td>82.41</td><td>82.41</td></tr><tr><td>2</td><td>1.63</td><td>16.28</td><td>48.48</td><td>15.58</td><td>97.99</td></tr><tr><td>3</td><td>1.45</td><td>14.48</td><td>62.97</td><td>1</td><td>一</td></tr><tr><td>4</td><td>1.11</td><td>11.06</td><td>74.03</td><td>一</td><td></td></tr><tr><td>5</td><td>0.93</td><td>9.28</td><td>83.31</td><td>1</td><td>1</td></tr><tr><td>6</td><td>0.67</td><td>6.69</td><td>90.00</td><td>二</td><td>二</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表4主成分分析(PCA)载荷矩阵",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/69242c99a5f5dd2a9f0324d930b9ac03e2dcf4c2063a41615462271a626c621c.jpg",
+        "table_caption": [
+            "Tab.4 Principal component analysis load matrix "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">变量</td><td colspan=\"6\">主成分</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td>X1</td><td>0.198</td><td>-0.952</td><td>0.001</td><td>-0.063</td><td>0.011</td><td>0.057</td></tr><tr><td>X2</td><td>0.935</td><td>-0.148</td><td>-0.113</td><td>0.113</td><td>-0.127</td><td>0.016</td></tr><tr><td>X3</td><td>0.031</td><td>-0.077</td><td>-0.019</td><td>-0.003</td><td>-0.106</td><td>0.987</td></tr><tr><td>X4</td><td>0.093</td><td>0.029</td><td>-0.067</td><td>0.953</td><td>-0.104</td><td>0.006</td></tr><tr><td>X5</td><td>-0.037</td><td>0.015</td><td>0.061</td><td>-0.122</td><td>0.972</td><td>-0.111</td></tr><tr><td>X6</td><td>0.925</td><td>-0.180</td><td>-0.074</td><td>0.149</td><td>-0.048</td><td>-0.006</td></tr><tr><td>X7</td><td>-0.672</td><td>0.187</td><td>-0.071</td><td>0.404</td><td>-0.247</td><td>-0.074</td></tr><tr><td>X8</td><td>-0.063</td><td>0.539</td><td>0.653</td><td>-0.007</td><td>0.072</td><td>0.043</td></tr><tr><td>X9</td><td>-0.203</td><td>0.962</td><td>0.055</td><td>0.009</td><td>0.005</td><td>-0.063</td></tr><tr><td>X10</td><td>-0.069</td><td>-0.075</td><td>0.919</td><td>-0.077</td><td>0.032</td><td>-0.041</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "会导致模型的过拟合或欠拟合问题。进一步遍历选择各模型的重要参数，根据10折交叉验证结果确定最优值(表5)。RF组合模型中确立的重要参数包括有决策树数量(ntree)和每棵决策树包括的特征数(mtry）；SVR组合模型在选择性能最优的radial核函数时，遍历选取初始化超参数松弛变量系数(C)和高斯核函数系数(gamma)的最优值。KNN组合模型建立过程中需要确立参数 $K$ 的值：如果 $K$ 值过小,异常的噪声点会对预测值产生较大的误差;过大的 $K$ 值则会导致模型过于简单，学习的近似误差增大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3SOM空间分布预测结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "利用训练好的预测模型对研究区农耕区的SOM含量进行预测，生成咸阳市SOM空间分布图",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表5模型参数设定",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/6e668b71101fa0bedb20f83ac884332d58aa38839417d36077b91e9e86ceddff.jpg",
+        "table_caption": [
+            "Tab.5 Model parameter setting "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>模型</td><td>参数设定</td></tr><tr><td>PCA-RF</td><td>ntree=1300、mtry=3</td></tr><tr><td>KPCA-RF</td><td>ntree=1300、mtry=2</td></tr><tr><td>PCA-SVR</td><td>radial核函数、C=1000、gramma=0.1</td></tr><tr><td>KPCA-SVR</td><td>radial核函数、C=1000 gramma=0.01</td></tr><tr><td>PCA-KNN</td><td>K=11</td></tr><tr><td>KPCA-KNN</td><td>K=3</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "注：PCA-RF为主成分分析-随机森林组合模型;KPCA-RF为核主成分分析-随机森林组合模型;PCA-SVR为主成分分析-支持向量回归机组合模型;KPCA-SVR为核主成分分析-支持向量回归机组合模型；PCA-KNN为主成分分析- $\\cdot K$ 最近邻组合模型；KPCA-KNN为核主成分分析-K最近邻组合模型。ntree为决策树数量;mtry为每棵决策树包括的特征数;C为初始化超参数松弛变量系数;gramma为高斯核函数系数； $K$ 为KNN模型参数。下同。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（图2)。由图2来看：（1）各模型预测结果整体上均呈现南高北低的分布特征，SOM含量的空间变化能够有效地反映地形地势信息，基本表现为南部平原区SOM含量高于北部高原、山地区，不同模型对SOM含量的空间变异趋势有较好的展示。（2）PCA组合模型预测结果高值区和低值区存在一定程度的\"跳变”，尤其突出表现在山地区同一位置的山谷与山脊区域、平原区与高原区过渡区域;相比之下，KPCA组合模型预测结果空间上更为平滑，对于平原区SOM含量变化能够精细的呈现，更加符合实际情况。这种差异性很大程度上反映了PCA、KPCA2种主成分提取方法的差异。PCA方法提取的主成分承载了过多易发掘的线性地形信息，致使模型预测结果与地形信息的过度拟合现象。（3）KPCA-SVR模型预测结果空间变异程度较大，难以反映SOM含量局部变异情况；KPCA-RF、KPCA-KNN模型对于展示SOM含量空间变化、预测SOM空间分布具有较好的预测效果。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4预测精度评价 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了进一步比较各组合模型的预测效果，选择未进行主成分分析的RF、SVR和KNN单一模型作为对比，对相同的数据集进行模型训练和验证，结果如表6所示。对比发现：PCA-RF组合模型预测精度较RF模型提高，决定系数 $R ^ { 2 }$ 提高了0.023，RMSE、RAE误差值分别降低了 $0 . 0 7 0 \\ \\mathrm { g } \\cdot \\mathrm { k g } ^ { - 1 } , 2 . 4 4 0 \\%$ ;而PCA-SVR、PCA-KNN2个预测模型较单一模型优化效果并不理想。KPCA-RF组合模型较RF模型精度提高， $R ^ { 2 }$ 、RMSE、RAE分别为 $0 . 7 9 1 , 1 . 9 7 0 \\mathrm { ~ g ~ } \\cdot \\mathrm { k g } ^ { - 1 } .$ $5 0 . 1 0 0 \\%$ ，与单一RF模型相比，3个指标分别优化了",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/30c110b7f8114619efbf7e95b449316471e2796c5fd22a7280274b3bcdabf876.jpg",
+        "img_caption": [
+            "干辛区地理",
+            "图2土壤有机质(SOM)含量空间分布预测图",
+            "Fig.2Prediction of spatial distribution of soil organic matter "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "注:PCA-RF为主成分分析-随机森林组合模型;KPCA-RF为核主成分分析-随机森林组合模型;PCA-SVR为主成分分析-支持向量回归机组合模型;KPCA-SVR为核主成分分析-支持向量回归机组合模型;PCA-KNN为主成分分析-K最近邻组合模型;KPCA-KNN为核主成分分析-K最近邻组合模型。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/e730d18fa491084f9852d89f029dfcedd10d609cb6b537a825b4780750bea1b0.jpg",
+        "table_caption": [
+            "表6模型预测精度评价表",
+            "Tab.6 Model accuracy verification table "
+        ],
+        "table_footnote": [
+            "注：RF为随机森林;SVR为支持向量回归机;KNN为K最近邻； $R ^ { 2 }$ /RMSE和RAE分别表示决定系数、均方根误差和相对绝对误差。"
+        ],
+        "table_body": "<html><body><table><tr><td>模型</td><td>R</td><td>RMSE/g·kg-1</td><td>RAE/%</td></tr><tr><td>PCA-RF</td><td>0.739</td><td>2.090</td><td>49.473</td></tr><tr><td>KPCA-RF</td><td>0.791</td><td>1.970</td><td>50.100</td></tr><tr><td>RF</td><td>0.716</td><td>2.160</td><td>51.913</td></tr><tr><td>PCA-SVR</td><td>0.479</td><td>2.936</td><td>66.718</td></tr><tr><td>KPCA-SVR</td><td>0.561</td><td>2.361</td><td>51.302</td></tr><tr><td>SVR</td><td>0.557</td><td>2.783</td><td>53.072</td></tr><tr><td>PCA-KNN</td><td>0.463</td><td>2.821</td><td>70.273</td></tr><tr><td>KPCA-KNN</td><td>0.507</td><td>2.676</td><td>66.079</td></tr><tr><td>KNN</td><td>0.490</td><td>2.744</td><td>68.553</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$0 . 0 7 5 , 0 . 1 9 0 \\mathrm { g } \\bullet \\mathrm { k g } ^ { - 1 } , 1 . 8 1 3 \\%$ ; KPCA-SVR、KPCA-KNN组合模型预测精度较单一SVR、KNN模型提高。表明采用主成分提取方法和机器学习构建SOM含量预测组合模型能够消除数据间冗余和相关性，在一定程度上可以提高模型预测精度。同时发现：KPCA组合模型的SOM含量预测模型精度高于相应的",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "PCA组合模型，这充分展示了KPCA在降低原始变量维度，处理数据间非线性关系的优势性能。综合来看，KPCA-RF模型对SOM含量预测精度高于其他模型，该模型对于咸阳市农耕区SOM含量具有较好的预测效果，可以为SOM空间预测与数字制图提供科学依据。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "机器学习方法在土壤养分空间预测中具有巨大的潜力，主成分提取方法可以有效解决高变量维度小样本量的数据分析问题。已有研究表明，组合主成分提取方法和机器学习算法可以有效提升模型精度，,优化模型性能[37-38]。本文利用PCA线性提取方法、KPCA非线性提取方法与RF、SVR、KNN模型组合构成6种组合预测模型，使用10折交叉验证，比较了不同组合模型对SOM含量预测性能。在本研究中，使用较少的主成分即达到较为满意的预测精度，主成分提取方法有效降低了数据相关性，提升了模型精度。对比发现，KPCA方法考虑了数据间的非线性关系，相应的组合模型预测精度优于PCA组合模型。在本文研究的6种组合模型中，KP-CA-RF预测精度最高，可以应用于SOM空间预测制图，如许杏花等3对风电场功率预测的研究也证明了KPCA-RF具有较高的准确性。但是值得关注的是，KPCA方法自身也存在着一些问题，主要是核函数非线性映射后的矩阵很难用物理意义解释。其次，KPCA计算量只决定于数据集的大小，样本点较大时带来的核矩阵维数较大，造成计算量增加，建议从样本集中选择有代表性的学习样本来降低核矩阵阶数，已有的方法包括疏散的核PCA方法[40]模糊C-均值聚类遗传算法[41]等。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "基于最优模型KPCA-RF模型预测得到咸阳市SOM含量均值为 $1 5 . 5 6 { \\pm } 1 . 9 6 ~ \\mathrm { g \\cdot { k g } ^ { - 1 } }$ ,整体上与样点统计结果保持一致。SOM空间分布呈现南部较高、北部较低，这与任丽[42]、赵叶婷[43]等在该地区的研究结果一致，这种差异主要是受地形条件影响造成的。南部为关中平原区，海拔较低且地形平坦，北部海拔较高，地形条件复杂。关中平原区长久以来稳定的农业生产保证了SOM一直处于相对较高的水平，相比之下，北部地区复杂的地形条件和气候条件对农业生产造成了很大的困难。此外，随着海拔的升高，SOM存在明显的降低趋势，这主要是因为从高海拔表土冲刷而来的SOM在低海拔沉积，同时受水蚀作用影响，土壤蓄水保肥能力降低[44]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "信息科学与数据科学的发展使得人们获取精准农业信息成为可能，协同多源环境变量的诸多机器学习算法在揭示SOM空间变异与空间制图方面得到了广泛的应用。SOM空间变异是自然环境与人类活动综合作用结果，自然环境因子易于空间化而被广泛应作建模指标，人类活动因子因不具备空间连续性难以参与模型训练，进一步的研究方向应探讨解决人为因子空间化的问题。通过对采样点数据不同人类管理措施下的SOM含量统计发现，不同种植制度、灌溉条件下SOM含量差异明显，表明了人为管理措施是SOM空间变异研究中不可忽略的方面[42]。特别是在县、乡等更小尺度上的研究中，人类耕作方式与强度对SOM含量的差异影响较大[45-46],仅依靠自然环境变量很难实现精准预测。因此，人为因子的采集与空间量化对于提升模型精度有重要的意义。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文提出和构建了基于主成分和机器学习的土壤养分含量空间预测模型，并在咸阳市农耕区SOM含量的空间预测中取得了较好的应用效果。主要结论如下：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）使用PCA、KPCA2种主成分提取方法，实现了数据降维，消除了变量间的相关性和冗余性，有利于提升土壤养分含量预测模型的精度和稳定性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（2）基于KPCA特征提取和机器学习算法的组合预测模型与单一预测模型、PCA组合模型相比，预测精度较高，能够很好的拟合土壤养分含量与环境变量之间的非线性关系。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）构建的KPCA-RF组合模型与KPCA-SVR等其他模型相比，模型评价指标决定系数、均方根误差和相对绝对误差分别为 $0 . 7 9 1 , 1 . 9 7 0 \\ \\mathrm { g \\cdot k g ^ { - 1 } }$ 和$5 0 . 1 0 0 \\%$ ，优于其他预测模型。该模型对咸阳市农耕区SOM含量的预测取得了良好的效果，可以进一步运用到其余土壤养分的精准预测与地力评价中。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]王绍强,周成虎,李克让,等.中国土壤有机碳库及空间分布特 征分析[J].地理学报,2000,67(5): 533-544.[Wang Shaoqiang, Zhou Chenghu,Li Kerang,et al.Analysis on spatial distribution characteristics of soil organic carbon reservoir in China[J].Acta Geographica Sinica,2000,67(5): 533-544.]   \n[2] 朱阿兴,杨琳，樊乃卿,等.数字土壤制图研究综述与展望[J].地 理科学进展,2018,37(1):66-78.[Zhu A'xing,Yang Lin,Fan Naiqing,et al. The review and outlook of digital soil mapping[J]. Progress in Geography,2018,37(1): 66-78.]   \n[3] Scull P,Franklin J, Chadwick O A,et al.Predictive soil mapping: A review[J].Progress in Physical Geography,2003,27(2):171- 197.   \n[4] Moore ID,GesslerPE,Nielsen GAE,etal.Soil attribute predictionusing terrain analysis[J]. Soil Science Society of America Journal, 1993,57(2): 443-452.   \n[5] 张甘霖,朱阿兴,史舟,等.土壤地理学的进展与展望[J].地理科 学进展,2018,37(1):57-65.[Zhang Ganlin,Zhu A'xing,Shi Zhou,et al. Progress and future prospect of soil geography[J]. Progress in Geography,2018,37(1): 57-65.]   \n[6]Jahan N,Gan T Y.Modelling the vegetation-climate relationship ina boreal mixedwood forest of Alberta using normalized difference and enhanced vegetation indices[J]. International Journal of ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Remote Sensing,2011,32(2): 313-335.   \n[7]Thompson JA, Pena Yewtukhiw E M, Grove JH. Soil-landscape modeling across a physiographic region: Topographic patterns and model transportability[J]. Geoderma,2006,133(1-2): 57-70.   \n[8]Zhu A X,Band L, Vertessy R,et al. Derivation of soil properties using asoil land inference model (SoLIM)[J]. Soilence Society of America Journal,1997,61(2): 52-3.   \n[9]郭旭东,傅伯杰,马克明,等.基于GIS 和地统计学的土壤养分 空间变异特征研究——以河北省遵化市为例[J].应用生态学 报,2000(4): 557-563.[Guo Xudong,Fu Bojie,Ma Keming,et al. Spatial variability of soil nutrients based on geostatistics combined with GIS: A case study in Zunhua City of Hebei Province[J]. Chinese Journal of Applied Ecology,2000(4): 557-563.]   \n[10]Frogbrook ZL,Oliver MA.Comparing the spatial predictionsf soil organic matter determined by two laboratory methods[J]. Soil Use and Management,2001,17(4): 25-244.   \n[11]Poggio T, Smale S. The mathematics of learning:Dealing with data [J].Notices of the American Mathematical Society,2003,50(5): 537-544.   \n[12] Sebastiani F. Machine learning in automated text categorization[J]. ACM Computing Surveys, 2002,34(1): 1-47.   \n[13] 王茵茵,齐雁冰,陈洋,等.基于多分辨率遥感数据与随机森林 算法的土壤有机质预测研究[J].土壤学报,2016,53(2):342- 354.[Wang Yinyin, Qi Yanbing,Chen Yang,et al. Prediction of soil organic matter based on multi-resolution remote sensing data and random forest algorithm[J]. Acta Pedologica Sinica,2016,53 (2): 342-354. ]   \n[14] 郭澎涛,李茂芬,罗微,等.基于多源环境变量和随机森林的橡 胶园土壤全氮含量预测[J].农业工程学报,2015,31(5):194- 200.[Guo Pengtao,Li Maofen,Luo Wei,etal.Prediction of soil total nitrogen for rubber plantation at regional scale based on environmental variables and random forest approach[J]. Transactions of the Chinese Society of Agricultural Engineering,2O15,31(5): 194-200.]   \n[15]Lu Y Y,LiuF,Zhao YG,etal.Anintegrated methodof selecting environmental covariates for predictive soil depth mapping[J]. Journal of Integrative Agriculture,2019,18(2): 301-315.   \n[16]TomislavH,Heuvelink GBM,Bas K,etal.Mapping soil properties of Africa at 25O m resolution: Random forests significantly improve current predictions[J].Plos One,2015,10(6): e0125814, doi: 10.1371/journal.pone.0125814.   \n[17]Malone B P, McBratney A B, Minasny B,et al. Mapping continuous depth functions of soil carbon storageand available water capacity[J]. Geoderma,2009,154(1-2): 138-152.   \n[18]Mansuy N,Thiffault E,Paré D,et al. Digital mapping of soil properties in Canadian managed forests at 25O m of resolution using the K-nearest neighbor method[J]. Geoderma,2014,235: 59-73.   \n[19] Curtis JR, Newell R K, James JC,et al. Statistical and machine learning methods evaluated for incorporating soil and weather into ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "corn nitrogen recommendations[J]. Computers and Electronics in Ag",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "riculture,2019,164: 1048/2, do1: 10.1016/j.compag.2019.1048 /2. [20] 任丽,杨联安,王辉,等.基于随机森林的苹果区土壤有机质空 间预测[J].干旱区资源与环境,2018,32(8):141-146.[Ren Li, Yang Lian’an, Wang Hui, etal. Spatial prediction of soil organic mater in apple region based on random forest[J]. Journal of Arid Land Resources and Environment, 2018,32(8): 141-146.] [21] Forkuor G, Hounkpatin O K L, Welp G,et al. High resolution mapping of soil properties using remote sensing variables in south-western Burkina Faso: A comparison of machine learning and multiple linear regresson models[J]. Plos One,2017,12(1): e0170478,doi:   \n10.1371/journal.pone.0170478. [22] 袁玉琦,陈瀚阅,张黎明,等.基于多变量与RF算法的耕地土壤 有机碳空间预测研究——以福建亚热带复杂地貌区为例[J/ OL].[2020-12-21]. https://kns.cnki.net/kcms/detail/32.1119.P.202   \n00824.1432.002.html.[Yuan Yuqi, Chen Hanyue, Zhang Liming,et al.Prediction of spatial distribution of soil organic carbon in farmland based on multi-variables and random forest algorithm: A case study of a subtropical complex geomorphic region in Fujian as an example[J/OL].[2020-12-21]. http://kns.cnki.net/kcms/detail/32.   \n1119.P.20200824.1432.002.html.] [23] 张振华,丁建丽,王敬哲,等.集成土壤-环境关系与机器学习 的干旱区土壤属性数字制图[J].中国农业科学,2020,53(3):   \n563-573.[Zhang Zhenhua,Ding Jianli,Wang Jingzhe,et al. Digital soil properties mapping by ensembling soil-environment relationshipand machine learning in arid regions[J]. Scientia Agricultura Sinica,2020,53(3): 563-573.] [24] 王念一,于丰华,许童羽,等.基于机器学习的粳稻叶片叶绿素 含量高光谱反演建模[J].浙江农业学报,2020,32(2):359-366. [Wang Nianyi, Yu Fenghua,Xu Tongyu, et al.Hyperspectral retrieval modelling for chlorophyll contentsof japonica-rice leaves based on machine learning[J]. Acta Agriculturae Zhejiangensis,   \n2020,32(2): 359-366.] [25] Zheng L, Watson D G,Johnston B F,et al.A chemometric study of chromatograms of tea extracts by correlation optimization warping in conjunction with PCA,support vector machines and random forest data modeling[J].Analytica Chimica Acta,2009,642(1-2):   \n257-265. [26] 聂红梅,杨联安,李新尧,等.基于PCA-SVR的冬小麦土壤水分 预测[J].土壤,2018,50(4):812-818.[Nie Hongmei,Yang Lian' an,Li Xinyao,et al.Prediction of soil moisture of winter wheat by PCA-SVR[J]. Soils, 2018, 50(4): 812-818.] [27] 刘新华,杨勤科,汤国安.中国地形起伏度的提取及在水土流失 定量评价中的应用[J].水土保持通报,2001,21(1):57-59,62. [Liu Xinhua, Yang Qinke, Tang Guo'an.Extraction and application of relief of China based on DEM and GIS method[J].Bulletin of Soil and Water Conservation,2001,21(1): 57-59,62.] [28] 张彩霞,杨勤科,李锐.基于DEM的地形湿度指数及其应用研 究进展[J].地理科学进展,2005,24(6):116-123.[Zhang Caixia, Yang Qinke, Li Rui. Advancement in topographic wetness index and itsapplication[J]. Progress in Geography,2005,24(6):116- 123.]   \n[29] 李朝荣,刘扬,李春明.PCA与KPCA在综合评价中的应用[J]. 宜宾学院学报,2010,10(12):27-30.[Li Chaorong,Liu Yang,Li Chunming. Application of PCA and KPCA in comprehensive evaluation[J].Journal of Yibin University,2010,10(12): 27-30.]   \n[30] 王瀛,郭雷,梁楠.基于优选样本的KPCA高光谱图像降维方法 [J].光子学报,2011,40(6): 847-851.[Wang Ying,Guo Lei,Liang Nan.A dimensionality reduction method based on KPCA with optimized sample set for hyperspectral image[J].Acta Photonica Sinica,2011,40(6): 847-851.]   \n[31] 杨道军,钱新,钱瑜,等.核主成分分析法在生态经济可持续发 展评价中应用[J].环境科学与技术,2007(12):91-93,122. [Yang Daojun,Qian Xin,Qian Yu,et al.Application of kernel principal component analysis in evaluation of sustainable development of ecological economy[J]. Environmental Science & Technology,2007(12): 91-93,122.]   \n[32]Breiman L. Random forests[J]. Machine Learning,2O01,45(1): 5- 32.   \n[33]Cutler A, Cutler D R, Stevens JR.Random forests[J]. Machine Learning,2011,45(1): 157-176.   \n[34]Awad M, Khanna R. Support vector regression[J]. Neural Information Processing Letters & Reviews,2007,11(10): 203-224.   \n[35] 毋雪雁,王水花,张煜东.K最近邻算法理论与应用综述[J].计 算机工程与应用,2017,53(21):1-7.[Wu Xueyan,Wang Shuihua, Zhang Yudong.Survey on theory and application of K-nearest- neighbors algorithm[J]. Computer Engineering and Applications,2017,53(21): 1-7.]   \n[36] 毕达天,邱长波,张晗.数据降维技术研究现状及其进展[J].情 报理论与实践,2013,36(2):125-128.[Bi Datian,Qiu Changbo, Zhang Han. Current situation and latest development of research on data dimension reduction technology[J]. Information Studies: Theory& Application,2013,36(2): 125-128.]   \n[37] 刘炳春,符川川,李健.基于PCA-SVR模型的中国 $\\mathrm { C O } _ { 2 }$ 排放量预 测研究[J].干旱区资源与环境,2018,32(4):56-61.[Liu Bingchun,Fu Chuanchuan,Li Jian. Forecast of $\\mathrm { C O } _ { 2 }$ emission in China based on PCA-SVR[J]. Journal of Arid Land Resources and Environment,2018,32(4): 56-61.]   \n[38] 赵帅,黄亦翔,王浩任,等.基于随机森林与主成分分析的刀具 磨损评估[J].机械工程学报,2017,53(21):181-189.[Zhao Shuai,Huang Yixiang,Wang Haoren, et al. Random forest and principle components analysis based on health assessment methodology for tool wear[J]. Journal of Mechanical Engineering,2O17,53 (21): 181-189.]   \n[39] 许杏花,潘庭龙.基于KPCA-RF的风电场功率预测方法研究 [J].可再生能源,2018,36(9):1323-1327.[Xu Xinghua,Pan Tinglong.Wind power prediction based on KPCA-RF[J]. Renewable Energy Resources,2018,36(9): 1323-1327.]   \n[40]Michael E T, Cambridge C N. Sparse kernel principal component analysis[J]. Advances in Neural Information Processing Systems, 2001,13:633-639.   \n[41] 高新波,谢维信.模糊聚类理论发展及应用的研究进展[J].科学 通报,1999,44(21): 3-5.[Gao Xinbo, Xie Weixin. Research progress on the development and application of fuzzy clustering theory [J]. Chinese Science Bulletin,1999,44(21): 3-5.]   \n[42] 任丽.基于多源环境变量的土壤养分预测及综合评价[D].西 安：西北大学,2019.[Ren Li. Spatial prediction and comprehensive evaluation of soil nutrients based on environmental variables [D].Xi'an: Northwest University,2019.]   \n[43] 赵业婷.基于GIS的陕西省关中地区耕地土壤养分空间特征及 其变化研究[D].杨凌:西北农林科技大学,2015.[Zhao Yeting. Spatial characteristics and changes of soil nutrients in cultivated land of Guanzhong region in Shaanxi Province based on GIS[D]. Yangling: NorthwestA&FUniversity,2015.]   \n[44] 邱扬,傅伯杰,王军,等.黄土高原小流域土壤养分的时空变异 及其影响因子[J].自然科学进展,2004,14(3):56-61.[Qiu Yang,Fu Bojie,Wang Jun,etal.Temporal and spatial variability and influencing factors of soil nutrients in small watersheds of the Loess Plateau[J].Progress in Natural Science,2004,14(3): 56-61.]   \n[45] 杨景成,韩兴国,黄建辉,等.土壤有机质对农田管理措施的动 态响应[J].生态学报,2003,23(4):787-796.[Yang Jingcheng, Han Xingguo,Huang Jianhui,et al. The dynamics of soil organic matter in cropland responding to agricultural practices[J]. Acta Ecologica Sinica,2003,23(4): 787-796.]   \n[46] 宋明伟,李爱宗,蔡立群,等.耕作方式对土壤有机碳库的影响 [J].农业环境科学学报,2009,27(2): 224-228.[Song Mingwei,Li Aizong, Cai Liqun,et al.Effects of different tillage methods on soil organic carbon pool[J]. Journal of Agro-Environment Science,2009, 27(2): 224-228.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Spatial prediction modeling of soil organic matter content based on principal components and machine learning ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "HU Guiguil2，YANG Fenli’，YANG Lian'an12，ZHENG Yurong $^ { 1 , 2 }$ WANG Hui4， CHEN Weijun', LI Yali1'2 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1.ShaanxiKeyLaboratoryofEarthSuraceSystemadEnvironmentalCarringCapacityorthwestUniversity,Xi'an70127, Shaanxi,China;2.CollgeofUrbanandEnvironmentalciences,NorthwestUniversity,Xi'an70l27,haani,Cna; 3.Xianyang StationofSoilandFertilizer,Xianyang 712Ooo,Shaanxi,China;4.Academyof AgricultureSciencesof Xianyang,Xianyang72Ooo,Shaanxi,China;5.XunyiStationofSoilandFertilizer,Xunyi713oo,Shaanxi,China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Spatial prediction models of soil nutrients are constructed from collaborative environment variables and machine learning regression models; they are of great significance for accurate nutrient management, but the information redundancy and correlation among multidimensional variables can lead to problems such as a long training time forthe modeland low predictionaccuracy.In this study,the farming area of Xianyang City,Shaanxi Province, China, was taken as an example,and 10 environmental variables were selected: the elevation,aspect, slope,plane curvature,section curvature,relief, topographic wetness index,annual average temperature,annual average precipitation，and normalized difference vegetation index. Features were extracted by principal component analysis (PCA)and kernel PCA (KPCA), which were combined with the random forest (RF),support vector regresson (SVR),and K nearest neighbor (KNN) models to develop spatial prediction models for the soil organic matter (SOM). Single models were used as the control.Then,the prediction accuracy of diferent models was evaluated according to the model determination coefficient $( R ^ { 2 } )$ ,root-mean-squared error (RMSE),and relative absolute error (RAE).The folowing results were obtained: (1)PCA and KPCA reduced the data dimensionality, which eliminated the correlation and redundancy between variables and helped improve the accuracy and stability of the SOM spatial prediction model. (2)The PCA-RF model had a higher prediction accuracy than the RF model ( $R ^ { 2 }$ increased by 0.023,RMSE and RAE decreased by $0 . 0 7 0 \\ \\mathrm { g \\cdot k g ^ { - 1 } }$ and $2 . 4 4 0 \\%$ ,respectively),whereas PCA-SVR and PCA-KNN performed worse than SVR and KNN alone.(3) The KPCA-RF model had higher accuracy than the RF model ( $[ R ^ { 2 }$ ,RMSE,and RAE were 0.791, $1 . 9 7 0 ~ \\mathrm { g } \\cdot \\mathrm { k g } ^ { - 1 }$ ,and $5 0 . 1 0 0 \\%$ , respectively). The KPCA-SVR and KPCA-KNN models had better prediction accuracies than the SVR and KNN models. (4) The combined prediction model based on KPCA feature extraction and machine learning had higher prediction accuracy than the PCA-based combined prediction models and single prediction models and fited well to the nonlinear relationship between the SOM content and environmental variables.The KPCA-RF model performed better than the other prediction models.This model accurately predicted the SOM content in the agricultural area of Xianyang City,and it can be further applied to accurately predicting other soil nutrients and evaluating soil fertility. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words: soil organic matter；machine learming； kernel principal component analysis； farming area； Xian-yang City",
+        "page_idx": 10
+    }
+]

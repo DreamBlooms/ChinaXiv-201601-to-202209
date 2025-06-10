@@ -1,0 +1,113 @@
+# NaCI预处理提高2种铁线子属果树耐寒性的研究
+
+刘育梅’，金亮²，宋志瑜³，周爽（1厦门华侨亚热带植物引种园，福建 厦门 361002；2厦门大学嘉庚学院，福建 厦门363105 3福
+
+建省亚热带植物研究所 福建 厦门361006)
+
+摘要：古巴牛乳树和人心果隶属山榄科铁线子属，是富有开发前景的热带珍稀果树。在已知这2种果树具有较高耐盐性的研究基础上，采用盆栽试验法，对3年生幼苗设置$10 \text{‰}$ 、 $20 \text{‰}$ 的 NaCl处理，一定时间后依次进行 $9 ^ { \circ } \mathrm { C } , 3 ^ { \circ } \mathrm { C }$ 的低温胁迫，分析比较其叶片中多种渗透调节物质含量及抗氧化酶活性的变化。结果表明：2种果树叶片渗透调节物质含量及抗氧化酶活性的变化趋势是一致的。在9℃、3C的低温胁迫下， $10 \text{‰}$ 、 $2 0 \mathrm { { ‰} }$ 处理叶片中的游离脯氨酸、可溶性糖和可溶性蛋白质含量及超氧化物歧化酶(SOD)、过氧化物酶(POD)和过氧化氢酶(CAT)活性均明显高于对照组，同一低温条件下，耐寒性强弱依次为 $1 0 \% > 2 0 \% > \mathrm { C K }$ 。研究结果推断NaCl预处理可以有效提高铁线子属果树的耐寒性，其中以 $10 \text{‰}$ 处理最为理想，此时古巴牛乳树和人心果的实际盆土盐度分别为$2 . 4 6 \text{‰}$ 、 $1 . 1 4 \text{‰}$ 。该研究结果为这2种果树在亚热带地区的推广种植提供理论指导和技术支持。
+
+关键词：古巴牛乳树，人心果，NaCl预处理，渗透调节物质，抗氧化酶，耐寒性  
+中图分类号：Q945.78DOI: 10.11931/guihaia.gxzw201708012收稿日期：2017-08-08  
+基金项目：厦门市科技计划项目（3502Z20142006）资助。[Supportedby Xiamen City  
+Science and Technology Plan Project Funds (3502Z20142006)]  
+作者简介：刘育梅（1975-），女，福建南安人，博士，副研究员，从事果树逆境生理生态及植物资源开发利用研究，Email:xcong@163.com。
+
+# Studies on the NaCl pretreatments improving the cold
+
+# tolerance of the two M. species
+
+LIU Yu-Mei 1\*, JIN Liang ², SONG Zhi-Yu³, ZHOU Shuang³ (1. Xiamen overseas Chinese subtropical plant introduction garden, Xiamen 361002,China.2 Tan Kah Kee College, Xiamen University, Xiamen 363105,China 3 Fujian Institute of Subtropical Botany, Xiamen 361006, China)
+
+Abstract: Manilkara roxburghiana (Wight) Dubard and Manilkara zapota (L.) van Royen are precious tropical fruit trees with high development values.Based on the results that they had higher salt tolerance，3 years seedlings were treated under $9 \mathrm { { ^ circ C } }$ ， $3 ^ { \circ } \mathrm { C }$ cold stress after $10 \text{‰}$ ， $20 \text{‰}$ NaCl pretreatment， and the changes of osmoregulation substance contentments and antioxidant enzyme activities were researched. The results showed that changes tendency were the same between the two species. The contentments of proline, soluble sugar, soluble protein and the activities of SOD, POD and CAT in the groups under $10 \text{‰}$ ,20%oNaC1 pretreatments were higher than those in the contrast. The capacities of cold tolerance were as followed: $1 0 \% > 2 0 \% > \mathrm { C K }$ . It was deduced that NaCl pretreatments might effectively improve the cold tolerance of the two species. $1 0 \text{‰}$ pretreatment was most effective when the soil salinity of $M .$ roxburghiana and M. zapota were $2 . 4 6 \%$ and $1 . 1 4 \text{‰}$ successively. The results provided the theory direction and technology support for spread growth of the two species.
+
+Key words: M. roxburghiana, M. zapota, NaCl pretreatment, osmoregulation substance, antioxidant enzyme,cold tolerance
+
+低温是植物北移种植推广的关键限制因素，如何提高植物的抗寒性至关重要。已有研究通过不同预处理可以有效提高光叶叶子花（张永福等，2016）、花生（陈小姝等，2017）、棉花（辛慧慧等，2015）等植物的耐寒性，施用外源物质措施的研究也较充分（梁瑞和张喜春，2010；刘建新等，2017；李学玲等，2017）。自从植物的“交叉适应”（张俊环和黄卫东，2003）被发现后，通过逆境锻炼诱导以提高植物的抗逆性渐渐成为研究热点（曹婧等，2015；Q iao& Fan,2008；S ysoeva et al,2011）。低盐处理可以提高水稻幼苗（曾韶西和李美茹,1999）、扶芳藤幼苗（赵黎芳等,2004）等的抗寒性在较早时间被报道过，但有关低盐预处理对果树抗寒性的影响研究并不多见(刘育梅等,2017)。
+
+古巴牛乳树和人心果隶属山榄科 (Sapotaceae)铁线子属(Manilkara)，为热带珍稀果树资源，它们在亚热带地区的推广种植过程中，温度是其生长和产量的重要限制因素。目前，课题组对山榄科果树的引种驯化和生理特性研究已取得一定的研究成果(刘育梅等,2017;刘育梅等,2016)，古巴牛乳树和人心果为山榄科中耐盐性较强的树种，2 苗龄的苗木分别可以在 NaCl浓度 $2 . 4 2 \text{‰}$ 、 $1 . 9 8 \text{‰}$ 内生长良好(刘育梅等,2011)。本文基于植物的“交叉适应”、山榄科的相关基础研究及NaC1处理对低温下古巴牛乳树叶片生理生态指标的影响(宋志瑜等,2014)，进一步探讨NaCl处理对这两种果树耐寒性相关指标影响的规律，旨在为提高果树的耐寒性提供依据，为推广这两种优良的热带果树提供切实可行的理论指导。
+
+1材料与方法将3年生的规格一致的古巴牛乳树、人心果幼苗各分成3组，其中2组分别进行 $10 \text{‰}$ 、 $20 \text{‰}$ 的 $\mathrm { \Delta N a C l }$ 处理， $3 { \sim } 5 \mathrm { d }$ 浇灌一次，自来水为对照，处理在恒温育苗室（温度为 $2 5 ^ { \circ } \mathsf { C }$ 进行，每个处理5个重复，处理时间为2016.10.8-2016.10.30。处理结束后取各处理盆中 $3 { \sim } 5 ~ \mathrm { c m }$ 处的土样测试盆土实际盐度，之后将盆苗放置于 SRG-2000 智能人工气候箱（杭州硕联仪器有限公司），第一阶段为：光照 $80 \%$ 、湿度为 $70 \%$ 培养 $1 2 \mathrm { h }$ ；第二阶段为光照 $0 \%$ ，湿度 $60 \%$ 培养 $1 2 \mathrm { h }$ ；两个阶段循环培养，先设置9℃低温炼苗 $7 2 \mathrm { { h } }$ ，后调至 $3 ^ { \circ } \mathsf { C }$ 低温胁迫 $2 4 \mathrm { h }$ ，对2个不同低温下不同处理的苗木进行表观特征观察和拍照，从稍部起第3-5个叶片进行取样并测试各项生理指标。采用丙酮-乙醇混合液法（张治安和陈展宇，2008）。POD、CAT、可溶性糖及丙二醛的测定采用张志良和瞿伟菁（2003）的方法。SOD、游离脯氨酸、可溶性蛋白的测定参照李合生（2001）的方法。采用 SPSS17.0分析处理数据。
+
+# 2结果与分析
+
+# 2.1各处理在不同低温胁迫下的表观特征及盆土实际盐度
+
+经过 $0 \mathrm { ~ ‰ ~ }$ 处理的古巴牛乳树、人心果幼苗在 $9 \mathrm { { ^ circ C } }$ 低温时表观特征差异不大，但随着时间延长，到了 $3 ^ { \circ } \mathrm { C }$ 时，各处理之间出现了一定的差异（图1），在同一个低温条件下，经过 $10 \text{‰}$ 、 $2 0 \% \mathrm { { 0 N a C l } }$ 处理的2种果树的叶片表现均较对照好，其中 $1 0 \text{‰}$ 处理的叶片表现为最佳。对照、 $10 \text{‰}$ 、 $2 0 \text{‰}$ 处理的古巴牛乳树盆土实际盐度依次为0.04、2.46、3.48，而人心果依次为0.01、1.14、2.25。
+
+![](images/8b2aab223305596552eff8cea1a5edfe607e9c859123d057678e9df94399e740.jpg)  
+图1不同处理果树叶片在 $3 ^ { \circ } \mathrm { C }$ 低温下的表观特征
+
+A1.对照古巴牛乳树；A $2 . 1 0 \% \mathrm { { N a C l } }$ 处理古巴牛乳树； $\mathrm { A } 3 . 2 0 \% \mathrm { { N a C l } }$ 处理古巴牛乳树; B1.对照人心果； $\mathrm { B } 2 . 1 0 \% \mathrm { N a C l }$ 处理人心果； $\mathrm { B } 3 . 2 0 \% \mathrm { N a C l }$ 处理人心果 Fig.1 The surface of leaves characteristics under $3 ^ { \circ } \mathrm { C }$ stress af ter different NaCl concentration pretreatment A1.M. roxburghiana in the control; A2.M. roxburghiana after $1 0 \text{‰}$ pretreatment; A3. M. roxburghianaafter $2 0 \mathrm { { \% 0 N a C l } }$ pretreatment; B1.M. zapota in the control; B2.M. zapota after $1 0 \text{‰}$ pretreatment; B3. M. zapota after $2 0 \mathrm { { \% 0 N a C l } }$ pretreatment.
+
+2.2 NaC1预处理对低温下古巴牛乳树、人心果叶片生理指标的影响 对照和各处理的2种果树叶片脯氨酸含量随着温度的降低而升高。 $9 \mathrm { { ^ circ C } }$ 条件下， $20 \text{‰}$ NaCl处理下人心果叶片脯氨酸含量低于对照， $1 0 \text{‰}$ 、 $20 \text{‰}$ NaCl处理下古巴牛乳树及 $10 \text{‰}$ NaC1处理下人心果叶片的脯氨酸含量均显著高于对照，依次为对照的2.62倍、1.26倍、2.38倍，3℃条件下，各处理的2种果树叶片脯氨酸含量均显著高于对照， $1 0 \text{‰}$ 、 $20 \text{‰}$ NaCl处理下古巴牛乳树分别为对照的2.85倍、1.14倍，人心果的分别为对照的2.24倍、1.18倍。说明一定浓度NaC1处理可以提高叶片脯氨酸的含量，其中以 $1 0 \text{‰}$ 处理效果最为明显（表1）。
+
+同一低温条件下，NaC1处理对低温下叶片可溶性蛋白的影响在2种果树中表现有所差异（表1）。在 $9 \mathrm { { ^ circ C } }$ 低温条件下, $1 0 \text{‰}$ 处理下古巴牛乳树叶片和 $10 \text{‰}$ 、 $2 0 \% \mathrm { { 0 N a C l } }$ 处理下的可溶性蛋白含量均明显高于对照， $2 0 \text{‰}$ 处理下的古巴牛乳树叶和对照没有显著差异，但也是高于对照。 $3 ^ { \circ } \mathrm { C }$ 低温条件下,各处理的2种果树叶片可溶性蛋白均显著高于对照。NaCl处理对低温下2种果树叶片可溶性蛋白的影响有共同点： $1 0 \text{‰}$ 处理均明显提高其可溶性蛋白含量。
+
+$2 5 ^ { \circ } C { \sim } 9 ^ { \circ } C$ 温度范围内，2种果树叶片可溶性糖含量随温度降低而增加，随着温度进一步降低至 $3 ^ { \circ } \mathrm { C }$ ，对照的古巴牛乳树叶片和 $10 \text{‰}$ 处理下人心果叶片的可溶性糖含量减少外，其他处理的含量依然增加。同一低温条件下， $10 \text{‰}$ 、 $2 0 \% \mathrm { { 0 N a C l } }$ 处理下的2种果树叶片可溶性糖含量均显著高于对照（表1）。 $9 \mathrm { { ^ circ C } }$ 条件下， $1 0 \text{‰}$ 、 $20 \text{‰}$ NaCl处理下古巴牛乳树叶片可溶性糖含量分别为对照的1.33倍、1.24倍，人心果的分别为对照的1.44倍、1.26倍；3℃条件下， $1 0 \text{‰}$ 、 $20 \text{‰}$ NaCl处理下古巴牛乳树叶片可溶性糖含量分别为对照的1.64 倍、1.38 倍，人心果的分别为对照的1.30倍、1.22倍。同一低温条件下，NaC1处理对2种果树叶片的脯氨酸含量的影响及其对可溶性糖含量的影响是一致的。
+
+MDA 是膜脂过氧化的产物。低温胁迫下，2种果树叶片丙二醛含量随温度降低而增加，表明细胞膜脂发生过氧化，同一低温条件下， $10 \text{‰}$ 、 $2 0 \% \mathrm { { 0 N a C l } }$ 处理下的2种果树叶片丙二醛含量低于对照，其中除 $2 0 \% \mathrm { { 0 N a C l } }$ 处理的人心果叶片和对照没有显著差异外， $1 0 \text{‰}$ 处理的人心果叶片、 $10 \text{‰}$ 、 $2 0 \% \mathrm { { 0 N a C l } }$ 处理的古巴牛乳树叶片的丙二醛含量均显著低于对照（表1）。分析结果表明经过处理的叶片细胞所受的低温伤害较对照的轻。
+
+# 表1不同NaC1预处理下古巴牛乳树、人心果叶片的脯氨酸、可溶性蛋白、可溶性糖及丙二醛等含量的变化
+
+Tab.1Theangesofprole,slubleproteinsolublesgarMcontentsofM.oxburgaa&apotauderdierentNaClpamt   
+
+<html><body><table><tr><td rowspan="2">温度 temperat ure</td><td rowspan="2">处理 Treatments</td><td>脯氨酸 proline /( μg:g-1)</td><td>可溶性蛋白 soluble protein／ （mg'g-1 ）</td><td colspan="2">可溶性糖 soluble sugar/ （μmol·g1)</td><td>丙二醛 MDA/ （μmol ·g-1)</td></tr><tr><td>古巴牛乳树 人心果</td><td>古巴牛乳树</td><td>人心果 古巴牛乳树</td><td>人心果</td><td>古巴牛乳树 人心果</td></tr><tr><td rowspan="2">25℃</td><td>0</td><td>M.roxburghiana M. zapota M.roxburghiana M. zapota M.roxburghiana M.zapota M. roxburghiana M.zapota 16.35±0.23a 9.33±0.12a 0.57±0.00a 0.46±0.01a 11.87±0.23a 5.31±0.17a</td><td></td><td></td><td></td><td>0.67±0.02a 0.37±0.02a</td></tr><tr><td>10%0</td><td>16.28±0.62a 9.84±0.13b 0.58±0.02a 0.43±0.01a 11.82±0.15a 5.24±0.20a</td><td></td><td></td><td></td><td>0.63±0.02a 0.38±0.03a</td></tr><tr><td rowspan="4">9℃</td><td>20%0</td><td></td><td>15.60±0.34a 9.84±0.09b 0.57±0.00a 0.43±0.01a 11.54±0.14a 5.24±0.11a</td><td></td><td></td><td>0.68±0.02a 0.40±0.02a</td></tr><tr><td>0</td><td>36.94±0.98a 44.29±1.26a 0.68±0.02a 0.68±0.00a 18.30±0.33a 14.22±0.36a</td><td></td><td></td><td></td><td>2.61±0.07a 2.53±0.01a</td></tr><tr><td>10%0</td><td>96.96±0.90b 105.34±0.43b 0.93±0.02b 0.78±0.01b 24.32±0.23b 20.53±0.57b</td><td></td><td></td><td></td><td>0.82±0.04b 1.08±0.15b</td></tr><tr><td>20%0</td><td>46.48±0.51c 40.63±0.09c 0.73±0.04ab 0.58±0.00c 22.78±0.12c 17.94±0.70c</td><td></td><td></td><td></td><td>1.89±0.19c 2.19±0.05c</td></tr><tr><td rowspan="4">3℃</td><td>0</td><td>47.7±0.30a 55.93±2.97a 0.60±0.00a 0.73±0.00a 17.60±0.03a 15.41±0.11a</td><td></td><td></td><td></td><td>2.69±0.12a 2.90±0.97a</td></tr><tr><td>10%0</td><td>135.85±1.28b 125.11±0.23b 0.93±0.01b 0.87±0.01b 28.88±0.11b 20.02±0.29b</td><td></td><td></td><td></td><td>1.34±0.04b 1.72±0.01b</td></tr><tr><td>20%0</td><td></td><td>54.24±2.90c 66.02±0.70c 0.76±0.01c 0.46±0.01c 24.22±0.36c 18.79±0.34c</td><td></td><td></td><td>2.30±0.06c 2.28±0.00ab</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+注：每个温度同列不同字母代表差异显著（ $\cdot P { < } 0 . 0 5 \$ ）。Note: Different alphabets in same column （every temperature）represented sharp difference （ $\cdot P { < } 0 . 0 5 \dot { } .$ ）：
+
+25C条件下，2种果树叶片的 SOD、PODCAT活性在各处理间均无显著差异，随着温度降低，SOD、PODCAT活性在各处理间表现出一定的差异性，NaCl处理对2种果树叶片SOD、PODCAT活性的影响也表现出一定的规律性（表2）：9℃、 $3 ^ { \circ } \mathsf { C }$ 条件下，2种果树叶片的 SOD、POD CAT 活性在 $10 \text{‰}$ 处理下均显著高于对照，在 $20 \text{‰}$ 处理下有所回落。9℃条件下，古巴牛乳树、人心果叶片的 SOD、PODCAT 活性在 $10 \text{‰}$ 处理下达到最高，古巴牛乳树依次为1.26、1.74、1.83，人心果叶片的依次为1.64、0.36、1.43。3℃条件下，古巴牛乳树、人心果叶片的 SOD、POD CAT 活性同样在 $10 \text{‰}$ 处理下达到最高，古巴牛乳树的依次为1.91、2.35、3.93，人心果叶片的依次为2.83、0.47、1.94。分析可知，一定浓度的NaC1处理可以有效提高古巴牛乳树、人心果叶片的SOD、PODCAT活性，以 $1 0 \text{‰}$ 处理最佳。
+
+Tab.2 The changes of SOD,POD,CAT activities of M. roxburghiana & M.zapota under NaCl pretreatment   
+
+<html><body><table><tr><td rowspan="2">温度 temperat ure</td><td rowspan="2">处理 Treatme nts</td><td colspan="2">SOD/ (u·g-1)</td><td colspan="2">POD/ (u·g-1)</td><td colspan="2">CAT/ (u-g-1)</td></tr><tr><td>古巴牛乳树</td><td>人心果 M.roxburghiana M. zapota M. roxburghiana M. zapota M. roxburghiana M. zapota</td><td>古巴牛乳树</td><td>人心果</td><td>古巴牛乳树</td><td>人心果</td></tr><tr><td>25C</td><td>0</td><td colspan="2">0.53±0.00a 0.93±0.00a</td><td colspan="2">0.31±0.08a 0.10±0.02a</td><td colspan="2">1.34±0.11a 0.85±0.01a</td></tr><tr><td></td><td>10%0</td><td>0.53±0.00a 0.95±0.00a</td><td></td><td>0.30±0.01a 0.10±0.02a</td><td colspan="2">1.13±0.10a 0.85±0.01a</td><td></td></tr><tr><td></td><td>20%</td><td colspan="2">0.53±0.00a 0.96±0.00a</td><td>0.29±0.00a 0.10±0.03a</td><td colspan="2">1.36±0.23a 0.88±0.04a</td><td></td></tr><tr><td>9℃</td><td>0</td><td colspan="2"></td><td>1.08±0.00a 1.17±0.00a 1.08±0.05a 0.17±0.00a</td><td colspan="2"></td><td></td></tr><tr><td></td><td>10%0</td><td colspan="2"></td><td>1.26±0.00b 1.64±0.03b 1.74±0.02b 0.36±0.15b1.83±0.01b 1.43±0.00b</td><td colspan="2">1.62±0.01a 1.04±0.01a</td><td></td></tr><tr><td></td><td>20%0</td><td colspan="2"></td><td>1.22±0.01c 1.54±0.01c 1.31±0.04c 0.22±0.01ac</td><td colspan="2">1.64±0.05ac 1.06±0.01c</td><td></td></tr><tr><td>3℃</td><td></td><td colspan="2"></td><td></td><td colspan="2"></td><td></td></tr><tr><td></td><td>0 10%0</td><td colspan="2"></td><td>1.54±0.04a 1.13±0.02a 2.04±0.03a 0.34±0.02a</td><td colspan="2">3.33±0.01a 1.65±0.02a</td><td></td></tr><tr><td></td><td></td><td colspan="2"></td><td>1.91±0.00b 2.83±0.12b 2.35±0.03b 0.47±0.01b</td><td colspan="2">3.93±0.01b 1.94±0.01b</td><td></td></tr><tr><td></td><td>20%</td><td colspan="2">1.73±0.00c 1.74±0.04c</td><td>2.19±0.02ac 0.34±0.02ac</td><td colspan="2">1.53±0.01c 1.13±0.00c</td><td></td></tr></table></body></html>
+
+注：每个温度同列不同字母代表差异显著！ $( P { < } 0 . 0 5 )$ ）。Note: Different alphabets in same column （every temperature） represented sharp difference （ $\cdot P { < } 0 . 0 5 \$ ）：
+
+# 3结论和讨论
+
+植物遭遇逆境胁迫时，通过渗透调节物质的积累可以降低细胞渗透势减轻环境胁迫对细胞的伤害(Mo etal，2011)。在相同的低温温度条件下，耐寒性强的金花茶种质积累较多的可溶性糖和游离脯氨酸，有利于减轻低温胁迫对植株的伤害（李吉涛等,2016）。苜蓿根颈在钾肥作用下通过脯氨酸、可溶性糖、可溶性蛋白和淀粉的积累,抗寒能力得到很大程度的提高（沈祥军等,2017）。我们在前期研究中得知，游离脯氨酸和可溶性蛋白质在人心果、古巴牛乳树受NaCl胁迫过程中起重要作用（刘育梅等,2011），本文通过不同浓度NaCl预处理对低温下古巴牛乳树、人心果叶片游离脯氨酸、可溶性糖和可溶性蛋白质含量的影响，结果推断，一定浓度NaCl可以有效提高2种果树叶中渗透调节物质的含量，从而提高其在低温胁迫下的抗寒能力。
+
+2 种果树叶片 SOD PODCAT活性在NaCl胁迫下的变化规律因树种不同而不同（刘育梅等,2011）。本研究中，分析得出NaCl处理对低温下抗氧化酶活性变化的影响有共同点：同一低温条件下，NaCl处理可以有效提高古巴牛乳树、人心果叶片的 SOD、PODCAT 活性。综合表观特征、渗透调节物质及抗氧化酶等指标得出：NaCI预处理可以有效提高铁线子属果树的耐寒性，同一低温条件下，耐寒性强弱依次为 $1 0 \% > 2 0 \% > \mathrm { C K }$ 。可见，提高耐寒性以 $1 0 \text{‰}$ 处理最佳，此时古巴牛乳树和人心果的实际盆土盐度分别为$2 . 4 6 \% _ { 0 0 } \setminus 1 . 1 4 \%$ 。本研究只是针对3年生的幼苗，提高其它苗龄的盆苗耐寒性所需最佳处理浓度和时间还有待研究。
+
+# 参考文献:
+
+CAO J,LI XR, WANG C, et al, 2015. Effects of exogenous abscisic acid on heteromorphic seed germination of Suaeda aralocaspica, a typical halophyte of Xinjiang desert region[J]. Acta Ecol Sin,35(20):6666-6677.[曹婧,李晓荣,王翠,等,2015.外源激素 ABA 影响新疆荒漠盐生植 物异子蓬异型种子萌发机制[J].生态学报,35(20):6666-6677.]   
+CHEN XS,YANG FJ,LIU HL,et al,2017.Effect of phosphorus level on cold-tolerance of different genotypes of peanut in germination stage[J].JPeanut Sci, 46 (1) :26-32.[陈小姝,杨富军,刘海 龙,等,2017.施磷水平对不同基因型花生种子发芽期耐寒能力的影响[J].花生学报,46(1): 26-32.]   
+LI HS.Modern plant physiology[M]. Beijing: Higher Education Press,415-420.[李合生,2001.现 代植物生理学[M].北京:高等教育出版社,415-420.]
+
+LI XL,PANG HY,NIU DW, et al,2017. Effect of different exogenous hormones on cold-resistant ability and related physiological indicators of plum flower [J]. North Hortic (11) :17-22.[李学 玲,庞海颖,牛东伟,等,2017.不同外源激素对李花抗寒性及相关生理指标的影响[J].北方园 艺,(11) :17-22.]
+
+LI JT, XIE WL, CHAI SF, et al,2016. Cold tolerance of five species of Camellia sect.Chrysantha[J].Guihaia,36(12):1403-1409.[李吉涛,谢伟玲,柴胜丰,等,2016.五种金花茶组植物的耐寒性比较研究[J].广西植物,36(12):1403-1409.]
+
+LIANG R, ZHANG XC,2010. The Effects of Growth Regulator on cold-resistance of tomato flowering period[J]. Chin_Agric Sci Bull,26 (17) :223-228.[梁瑞,张喜春,2010.生长调节剂 处理对番茄开花期耐寒性的影响[J].中国农学通报,26(17):223-228.]
+
+LIU JX, XU XH, DING HQ,2017. Physiological and biochemical characteristics of Curcuma alismatifolia bulbs and effects of some chemicals on its cold resistance[J].Acta Agric Zhejiangensis,29(4):575-582.[刘建新,徐笑寒,丁华侨,2017.姜荷花种球抗寒生理生化特征 及促抗寒药剂效果[J].浙江农业学报,29 (4):575-582.]
+
+LIU YM, SONG ZY, CHI MJ, et al,2017. Correlation between leaf anatomy and salt tolerance of 5Sapotaceae species[J]. J.Xiamen Univ,56(2):300-304_[刘育梅,宋志瑜,池敏杰,等,2017.五种山榄科果树叶片组织结构与耐盐性的相关性[J].厦门大学学报,56(2):300-304.]
+
+LIU YM, JIN L, ZHOU S, et al, 2017. The Effect of NaCl pretreatment on the cold tolerance ofGarcinia celebica[J].ChinFruits,(1):49-51.[刘育梅,金亮,周爽,等,2017.NaCl预处理对苏拉威西凤果耐寒性的影响[J].中国果树,(1):49-51.]
+
+LIU YM,HU HY,SONG ZY, et al,2016.The physiological response of Synsepalum dulcifcum Denill leaves to NaCl stress[J]. Chin.J.Trop.Crops,37(4):690-693.[刘育梅,胡宏友,宋志瑜. 等,2016.NaC1胁迫下神秘果叶片的生理响应[J].热带作物学报,37(4):690-693.]
+
+LIU YM, HU HY,TONG QX, et al, 2011. Effect of NaCl stress on physiological characteristics of two Manilkara species leaves[J].Chin JTrop Crops,32(9):1679-1682.[刘育梅,胡宏友，童庆 宣,等,2011.NaC1胁迫对两种铁线子属果树叶片生理特性的影响[J].热带作物学报, 32(9):1679-1682.]
+
+MO Y,LIANG G, SHI W, et al, 2011. Metabolic responses of alfalfa (Medicago sativa L.) leaves to low and high temperatureinduced stresses[J]. Afr JBiotechnol,10(7) : 1117-1124. QIAO WH, FAN LM.2008.Nitroxide signaling in plant responses to abiotic stresses[J]. J Integr Plant Biol, 50 (10):1238-1246.
+
+SHEN XJ, ZHANG YX, WANG XG, et al, 2017. Effects of phosphorus and potassium fertilizeron the cold resistance of alfalfa roots and necks in sandy soil[J].J. Inner Mongolia Univ ForNat,32(2):116-121.[沈祥军,张玉霞,王显国,等,2017.不同水平磷钾肥对沙地紫花苜蓿根颈抗寒性物质的影响[J].内蒙古民族大学学报，32(2):116-121.
+
+SONG ZY, WANG QZ,LIU YM, et al, 2014. Influence of different pretreatments on some biochemical prameters of M. roxburghiana in low temperature [J]. J Trop Agric,34(6) :24-26. [宋志瑜,王奇志,刘育梅,等,2014.不同预处理对古巴牛乳树幼苗抗低温胁迫的影响[J].热 带农业科学,34 (6) :24-26.]   
+SYSOEVA MI, LAVROVA VV, MATVEEVA EM, et al, 2011. Cross adaptation of potato plants to low temperatures and potato cyst nematode infestation[J].Russian J. Plant Physiol._2011, 58 (6) :999.   
+XIN HH,LI ZQ,LI FZ, et al, 2015. Effects of exogenous regulating substances on physiological traits of cold tolerance in coton seedlings[J]. Cott Sci,27(3):254-259.[辛慧慧,李志强,李防洲, 等,2015.外源调节物质对棉花幼苗耐寒生理特性的效应[J].棉花学报,27(3):254-259.]
+
+ZHANG YF, DONG CL, NIU YF, et al, 2016. Exogenous Salicylic acid and sodium molybdate increased cold tolerance and the related mechanism in Bougainvilla glabra[J]. Yunnan Agric Univ,31(5):799-805.[张永福,董翠莲,牛燕芬,等,2016.外源水杨酸与钼酸钠提高光叶叶子 花耐寒性及相关机制[J].云南农业大学学报,31(5):799-805.]
+
+ZHANG JH, HUANG WD, 2003. Research advances on mechanism of cross-adaptation to temperature stresses in plants [J]. Chin Agric Sci Bull,19(2):95-100.[张俊环,黄卫东,2003.植 物对温度逆境的交叉适应性及其机制研究进展[J].中国农学通报,19(2):95-100.]   
+ZHANG ZA, CHEN ZY,2008.Science and technology of Plant Physiology
+
+Experiment[M].Changchun: Jilin University Press,68[张治安,陈展宇,2008.植物生理实验学技术[M].长春:吉林大学出版社,68.]
+
+ZHANG ZL,QU WJ,2003. The experimental guide for Plant Physiology 3rd [M]. Beijing: HigherEducation Press,268-272.[张志良,瞿伟菁,2003.植物生理学实验指导(第3版)[M].北京:高等教育出版社,268-272.]
+
+ZENG SX,LI MR,1999. Changes of $\mathrm { C a } ^ { 2 + }$ -ATPase activities in cells of rice seedlings during the enhancement of chiling resistance induced by cold and salt pretreatment[J].Acta Bot Sin,41 (2):156-160.[曾韶西,李美茹,1999.冷和盐预处理提高水稻幼苗抗寒性期间细胞Ca²+- ATP 酶活性的变化[J].植物学报,41(2):156-160.]
+
+ZHAO LF, ZHANG JZ, ZHANG QX, et al,2004. Effect of NaCl stress and water deficiency oncold resistance of Euonymus fortunei young plants[J]. Bull Bot Res,24 (3) :313-316.[赵黎芳,张金政,张启翔,等,2004.盐和水分预处理对扶芳藤幼苗抗寒性的影响[J].植物研究,24(3) :313-316.]

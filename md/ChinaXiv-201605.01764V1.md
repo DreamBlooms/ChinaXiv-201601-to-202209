@@ -1,0 +1,105 @@
+# Probing $R$ -violating top quark decays at the NLC
+
+K.J. Abraham $a$ , Kerry Whisnant $a$ ， Jin Min Yang $\boldsymbol { b }$ , Bing-Lin Young $a$
+
+（204 $a$ Department of Physics and Astronomy, Iowa State University， Ames, Iowa 50011, USA （20 $b$ Institute of Theoretical Physics, Academia Sinica, Beijing 10o080, China
+
+# ABSTRACT
+
+We examine the possibility of observing exotic top quark decays via $R$ -Parity violating SUSY interactions in $e ^ { + } e ^ { - }$ collisions at $\sqrt { s } = 5 0 0 \ G e V$ . We present cross-sections for $t \bar { t }$ production followed by the subsequent decay of either the $t$ or $\bar { t }$ via the $R$ -Parity violating interaction while the other undergoes the SM decay. We discuss kinematic cuts that allow the exotic SUSY decays to be detected over standard model backgrounds. Discovery limits for $R$ -Parity violating couplings in the top sector are presented assuming an integrated luminosity of $1 0 0 f b ^ { - 1 }$ ：
+
+Even though there is no firm evidence contradicting the Standard Model, it is widely believed to be the low energy approximation of a more fundamental theory. The currently most popular possible extension of the Standard Model is the minimal supersymmetric model (MSSM) which not only can account for all existing precision electroweak mesurements but also predicts a whole host of new particles and decays waiting to be observed. In its simplest form the MSSM has a global symmetry $R$ -parity [1], defined by $R = ( - 1 ) ^ { 2 S + 3 B + L }$ with spin $S$ , baryon-number $B$ and lepton-number $L$ which is implemented in such a way as to conserve both $B$ and $L$ seperately. However,there is no fundamental requirement for $R$ conservation, indeed it is known that instanton effects induce miniscule violations of both $B$ and $L$ [2]. Thus if SUSY is discovered and $R$ -parity turns out to be conserved,it is conceivable that some hitherto unidentified fundamental principle is at work. Hence $R$ -parity violation should be vigorously searched for.
+
+Constraints on the $R$ -parity violating couplings have been obtained from various analyses; however as summarized in Ref. [3],although many such couplings have been severely constrained, existing bounds on the top quark couplings are generally quite weak. This is our motivation for the phenomenological study of R-violation in processes involving the top quark. In what follows, we study the feasibility of detecting $B$ violating $R$ -parity interactions (i.e. $\lambda ^ { ^ { \prime \prime } }$ couplings only） in top production and decay in $e ^ { + } e ^ { - }$ collisions at $\sqrt { s } = 5 0 0 ~ G e V$ .Given that projected luminosities are large enough to produce tens of thousands of $\bar { t } t$ pairs in a relatively clean environment [4], it is reasonable to expect that either $R$ -parity violating SUSY will be discovered or the parameter space further restricted.
+
+Unlike the case of a hadron collider，where $B$ violating couplings lead to new $\bar { t } t$ （20 production mechanisms [5],at an $e ^ { + } e ^ { - }$ collider the effect of $B$ violating couplings has no effect on top pair production. We thus focus on exotic top decay modes induced by $B$ violating couplings. Furthermore, we assume that the decay of either the $t$ or the $\bar { t }$ proceeds via the $R$ -parity Violating interactions; one quark thus decays via Standard Model channels. With the restriction to $B$ -Violating couplings 1 only, the possible exotic decay modes are
+
+$$
+t  \tilde { \bar { d } } _ { i } \bar { d } _ { j } , \ \tilde { \bar { d } } _ { j } \bar { d } _ { i }  \bar { d } _ { i } \bar { d } _ { j } \tilde { \chi } _ { 1 } ^ { 0 }
+$$
+
+Sfermions involved in these decays can be on-shell or virtual, depending on the masses of the particles involved. All calculations are performed using the narrow width approximation with top spin correllations taken fully into acount.
+
+Among the decay modes which are relatively easy to detect arethose induced by $\lambda _ { 3 j 3 } ^ { \prime \prime }$ Since $\lambda _ { 3 3 3 } ^ { ^ { \prime \prime } }$ vanishes due to the requirement of anti-symmetry on the final two indices we consider only the cases where $i = 1 , 2$ . To keep the analysis simple we assume that either one, but not both,of the tri-linear coupling just mentioned takes a non-vanishing value. Our analysis can be easily extended to the case where both couplings are non-vanishing in the limit that the down type squarks are approximately degenerate.
+
+In our analysis we focus_on the case of where $\lambda _ { 3 1 3 } ^ { \prime \prime }$ is non-vanishing.As_shown in Eq.(1)， the decay $t  \bar { b } \bar { d } \tilde { \chi } _ { 1 } ^ { 0 }$ can proceed through exchange of a sbottom $( \tilde { b } )$ ora down squark $( \tilde { d } )$ . Since among the down-type squarks the sbottom is most likely to be significantly lighter than others ², we assume the channel of exchanging a sbottom gives the dominant contribution. Since only a light sbottom is meaningful to our analysis, the dominant decay mode of the sbottom is $\tilde { b } \to b \tilde { \chi } _ { 1 } ^ { 0 }$ . The charged current decay mode $\tilde { b }  t \tilde { \chi } _ { 1 } ^ { + }$ is kinematically forbidden for a light sbottom in our analysis. We do not consider the strong decay mode $\tilde { b }  b \tilde { g }$ since the gluino $\tilde { g }$ is likely to be heavy [8].
+
+Note that the LSP ( $\tilde { \chi } _ { 1 } ^ { \mathrm { 0 } }$ ) is no longer stable when R-parity is violated. In case just one R-violating top quark coupling does not vanish, the lifetime of the LSP will be very long, depending on the coupling and the masses of squarks involved in the LSP decay chain (cf. the last paper of [3]). We restrict ourselves to the same region of SUSY parameter space as in [9], leading to an LSP which decays outside the detector.
+
+In this case, the final state in the exotic decay of the $t$ or $\bar { t }$ will consist of two jets accompanied by missing energy. If in addition we consider purely hadronic standard model $t ( \bar { t } )$ decays, we will have a very distinctive signal consisting of five jets and missing energy. (The inclusion of semi-leptonic standard model decays not only does not increase the signal by much but also complicates the reconstruction of the top pair due to multiple sources of missing energy.)
+
+The main standard model backgrounds are:
+
+· $W ^ { + } W ^ { - } Z$ production with the subsequent decay of $W ^ { + } W ^ { - }$ to five partons and （204号 $Z \to \overline { { \nu } } \nu$ （204   
+· $Z + 5$ jets production.
+
+In order to isolate the signal we impose the following phase space cuts:
+
+·Each jet must have an energy of at least 20 GeV   
+· There must be a missing P $ { \mathrm { ~  ~ t ~ } }$ of at least 20 GeV   
+The invariant mass of at least one combination of three jets must lie within 10 GeV of $m _ { t }$ , and the invariant mass of two of the these three jets must lie within 5 GeV of $m _ { W }$ ：   
+The invariant mass of the remaining two jets and the invisible particles must lie within 10 GeV of $m _ { t }$ ：   
+The absolute value of the cosine of the angle made by any jet with the beam axis must be larger than 0.9.   
+For all jets we require the $y _ { i j }$ be larger than O.001 for all values of $i$ and $j$ ，where （20 $y _ { i j }$ is defined by $\frac { 2 { \operatorname* { m i n } } ( E _ { i } ^ { 2 } , E _ { j } ^ { 2 } ) ( 1 - \cos \theta _ { i j } ) } { s }$
+
+where $i$ and $j$ denote jet indices and run from 1 to 5.
+
+With the cuts listed above, $W W Z$ production gives a background of less than one event with a luminosity of $1 0 0 f b ^ { - 1 }$ and is thus small. This estimate is based on the narrow width approximation [10]; the deviation between the narrow width approximation and a more refined treatment [11] is not large enough to affect this estimate. Nonetheless, to be conservative we estimate one background event from WW Z production.
+
+Estimating the background from $( \mathrm { Z + 5 j e t } )$ production is more tricky due to the huge number of different graphs involved. Furthermore, large NLO QCD corrections may be expected in multi-parton final states [12]. Rather than attempt an exact calculation (which would be beyond the scope of this letter)，we will use the numerical results for 6 jet production [12] to put an upper bound on this background. The cross-section for 6 jet production at $\sqrt { s } = 5 0 0$ GeV with the $y$ cut alone is 22 fb,adding the other cuts listed above reduces the phase space by a factor of 2Oo. We may thus use as an upper limit on the cross-section for (Z + 5 jet） production a value of about .15 fb, including a K-factor of 1.5 to be conservative. Taking into account the Z branching fraction to （204号 $\nu \nu$ , leads us to a cross-section of .03 fb, corresponding to an irreducible background of 3 events with an integrated luminosity of $\mathrm { 1 0 0 ~ f b ^ { - 1 } }$ . Note that in the event that the LSP mass is sufficiently far removed from the Z mass, a cut on the invariant mass of the invisible particles may further reduce this background. Combining the two backgrounds gives a total of four events.
+
+Before presenting the results of the signal, we briefly discuss the SUSY parameters involved. The most important SUSY parameters relevant to our analysis are the coupling $\lambda _ { 3 1 3 } ^ { \prime \prime }$ and the sbottom mass because the signal cross section is proportional to $| \lambda _ { 3 1 3 } ^ { \prime \prime } | ^ { 2 }$ and decreasing with sbottom mass. We will vary these two parameters to see the limits for the signal to be observable. Other SUSY parameters involved are the lightest neutralino mass and its coupling to sbottom，which are determined by the parameters $M , M ^ { \prime } , \mu$ （20 and $\tan \beta$ ： $M$ is the $S U ( 2 )$ gaugino mass and $M ^ { \prime }$ is the hypercharge $U ( 1 )$ gaugino mass. $\mu$ is the Higgs mixing term $( \mu H _ { 1 } H _ { 2 } )$ in the superpotential. $\tan \beta = v _ { 2 } / v _ { 1 }$ is the ratio of the vacuum expectation values of the two Higgs doublets. We work in the framework of the general MSSM, but assume grand unification of the gaugino masses, which gives the relation $\begin{array} { r } { M ^ { \prime } = \frac { 5 } { 3 } M \tan ^ { 2 } \theta _ { W } \simeq 0 . 5 M } \end{array}$ . The LEP experiments disfavored small $\tan \beta$ （204号 values [13]. The SUSY explanation of the recently reported value of the muon anomalous magnetic moment also requires a large $\tan \beta$ and a positive $\mu$ [14]. In our calculation we choose the following representative set of values:
+
+$$
+M = 1 5 0 ~ \mathrm { G e V } , \mu = 3 0 0 ~ \mathrm { G e V } , \tan \beta = 1 0 .
+$$
+
+The chargino and neutralino masses in units of GeV are then given by
+
+$$
+\begin{array} { l } { { m _ { \tilde { \chi } _ { 1 } ^ { + } } = 1 3 3 , ~ m _ { \tilde { \chi } _ { 2 } ^ { + } } = 3 2 8 , } } \\ { { m _ { \tilde { \chi } _ { 1 } ^ { 0 } } = 7 2 , ~ m _ { \tilde { \chi } _ { 2 } ^ { 0 } } = 1 3 4 , ~ m _ { \tilde { \chi } _ { 3 } ^ { 0 } } = 3 0 8 , ~ m _ { \tilde { \chi } _ { 4 } ^ { 0 } } = 3 2 7 . } } \end{array}
+$$
+
+It should be remarked that SUSY parameters are generally not well-constrained experimentally at the present time. The only robust constraints are the LEP and Tevatron lower bounds on some of the sparticle masses. Therefore, the above SUSY parameter values used in our calculation are not the only choice. They are a set of representative values which are allowed by the current experimental bounds.
+
+Table 1: Signal cross section versus bottom squark mass for $\lambda _ { 3 1 3 } ^ { \prime \prime } = 1$ ：  
+
+<html><body><table><tr><td>o(fb)</td><td>252</td><td>231</td><td>189</td><td>136</td><td>83</td><td>37</td><td>6.9</td><td>.02</td><td>.01</td></tr><tr><td>mg (GeV)</td><td>100</td><td>110</td><td>120</td><td>130</td><td>140</td><td>150</td><td>160</td><td>170</td><td>180</td></tr></table></body></html>
+
+Table 1illstrates thedependence ofthe signal cross-section on $m _ { \tilde { b } }$ assuming $\lambda _ { 3 1 3 } ^ { \prime \prime } = 1$ ： As can be seen, the signal drops sharply once the sbottom mass approaches $m _ { t }$ .The values of $\lambda _ { 3 1 3 } ^ { \prime \prime }$ and $m _ { \tilde { b } }$ corresponding to the discovery level (5 $\sigma$ ） are displayed in Fig. 1. For comparison, the results of Tevatron Run 2 $\left( 2 \ \mathrm { f b } ^ { - 1 } \right)$ ，Run 3 $\mathrm { ( 3 0 ~ f b ^ { - 1 } }$ ）andLHC(100 fb $^ { - 1 }$ ) are also presented, which are taken from [9], but renewed by using the new SUSY parameter values. The current upper bounds on $\lambda _ { 3 1 3 } ^ { \prime \prime }$ ， obtained from $Z$ decays at LEP I [15], are about 0.5 at $1 \sigma$ level and 1.0 at $2 \sigma$ level for squark mass of 1Oo GeV. For heavier squarks, the bounds get weaker because of the decoupling property of the MSSM. So one sees from Fig. 1 that for $0 . 1 < \lambda _ { 3 1 3 } ^ { \prime \prime } < 1$ ,the signal is observable for a sbottom lighter than about 160 GeV.
+
+In case of nonbservation, the exclusion （2 $\sigma$ )limits can be obtained, and are displayed in Figs. 2 and 3. Comparing with the limits of Tevatron Run 2, Run 3 and LHC, one sees that NLC exclusion limits are the best. As can be seen in Fig.3, it is possible to put limits on the branching fraction of the SUSY decay of order a few percent for a sbottom lighter than 160 GeV.
+
+Note that the signal contains like-sign $b$ quarks, in contrast to the background. In case of a positive signal, $b$ tagging will present additional evidence for non-standard physics. The results can also be applied to the case of the presence of $\lambda _ { 3 1 2 } ^ { \prime \prime }$ with sbottom replaced by strange-squark.
+
+To summarize,we have calculated the cross-section for $R$ -parity violating $t$ decays in $e ^ { + } e ^ { - }$ collisions at $\sqrt { s } = 5 0 0 \mathrm { G e V }$ . The standard model backgrounds can be minimized with suitable cuts leading to discovery bounds about as stringent as at the LHC [9].
+
+# Acknowledgments
+
+This work was supported in part by DOE grant No. DE-FG02-94ER40817.
+
+# References
+
+[1] P. Fayet,Phys. Lett.B 69, 489 (1977); G.R.Farrar and P. Fayet, Phys. Lett. B 76, 575 (1978). [2] G.'t Hooft, Phys. Rev. Lett.37,8 (1967); Phys. Rev. D 14, 242 (1976).
+
+[3] G. Bhattacharyya， hep-ph/9709395； H. Dreiner， hep-ph/9707435; S. Raychaudhuri，hep-ph/9905576; R. Barbier et al, hep-ph/9810232;B. Allanach et al, hepph/9906224.   
+[4] J. Bagger et.al. hep-ex/0007022; R. Frey et.al. hep-ph/9704243.   
+[5] A. Datta, J. M. Yang, B.-L. Young and X. Zhang, Phys. Rev. D 56, 3107 (1997); R. J. Oakes, K. Whisnant, J. M. Yang, B.-L.Young and X.Zhang, Phys. Rev. D 57, 534(1998)； P. Chiappetta， A. Deandrea,E. Nagy, S. Negroni, G. Polesello,J.M. Virey,Phys. Rev. D 61,115008 (2000)； K.-I. Hikasa, J. M. Yang, B.-L. Young, Phys. Rev. D 60,114041 (1999). [6] T. Han and M. B. Magro, Phys. Lett. B 476,79 (2000); L. Navarro, W. Porod, and J.W.F.Valle, Phys. Lett. B 459,615 (1999)； F. Campos, et al., hep-ph/9903245; D. Atwood, talk at “Thinkshop On Top Quark Physics Of Run II", FNAL, Oct. 16-18,1998 (web address http://lutece.fnal.gov/thinkshop/).   
+[7] M. Dine, A. Kagan, and S. Samuel, Phys. Lett. B 243, 250 (1990); S. Dimopoulos and G. F. Giudice, Phys. Lett. B 357, 573 (1995); A. Pomarol and D. Tommasini, Nucl. Phys. B 466,3 (1996)； A. Cohen, D. B. Kaplan,and A. E. Nelson， Phys. Lett. B 388, 599 (1996).N. Arkani-Hamed and H. Murayama, Phys. Rev. D 56, R6733 (1997).   
+[8] CDF collaboration, Phys.Rev. D 56,R1357 (1997).   
+[9] K.J. Abraham, K.L. Whisnant, J.-M.Yang,& B.-L.Young; Phys. Rev. D 63, 034011 (2001).   
+[10] G.Belanger & F.Boudjema, Phys. Lett.B 288, 201 (1992).   
+[11] E. Accomando,A. Ballestero & M. Pizzio,Nucl. Phys. B 512,19 (1998).   
+[12] S. Moretti, Phys. Lett. B 420,367 (1998).   
+[13] See, e. g., the L3 collaboration, hep-ex/O012017.   
+[14] see, e.g,A. Czarnecki and W. J. Marciano, hep-ph/0102122.   
+[15] J. M. Yang, hep-ph/9905486; G. Bhattacharyya, J. Ellis and K. Sridhar,Mod. Phys. Lett. A10,1583 (1995); G. Bhattacharyya, D. Choudhury and K. Sridhar, Phys. Lett. B 355,193 (1995).
+
+![](images/5f9186c57669160e45f0b53bd747e33a925e76959526cb007e3f136ff8e8aa3a.jpg)  
+Figure 1:The discovery $( 5 \sigma )$ limits of $\lambda _ { 3 1 3 } ^ { \prime \prime }$ versus sbottom mass. The region above each curve is the corresponding region of discovery.
+
+![](images/178c126cf72d3cad65056c7a5c17a6b2537d56435038d8fb37a8668feeeb09b3.jpg)  
+Figure 2:Same as Fig. 1, but for the exclusion $( 2 \sigma )$ limits. The region above each curve is the corresponding region of exclusion.
+
+![](images/b38ce562e5f55a343da5680d907d569cbe28e8854863046775fac5fb8af41cbe.jpg)  
+Figure 3: Same as Fig. 2, but for the branching ratio of the B-violating decay $t  \tilde { \bar { b } } \bar { d }$

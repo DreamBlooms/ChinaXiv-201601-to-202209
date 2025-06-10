@@ -1,0 +1,485 @@
+[
+    {
+        "type": "text",
+        "text": "Revit管线自动标注方法的实现",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李昌华李桐周方晓崔欢欢（西安建筑科技大学，西安710000）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】本文基于Revit管线批量自动标注的实际工程要求，将平行管线标注分为无变径标注和有变径标注两类，并且阐述了会导致管线发生变径的三种情况，针对不同的管线排布情况分别采用了相对应的管线自动标注方法：本文还提出了一种利用引垂线的方法解决了多变径平行管线批量标注问题实验结果表明，该类方法可以快速高效地对管线进行标注，与传统的标注方法相比，简化了操作，提高了标注效率，为以后二次开发提供了一定的经验。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】Revit二次开发；建筑信息模型；管线标注  \n【中图分类号】TU17【文献标识码】A【文章编号】1674－7461（2016）01-0087-05  \n【DOI】10.16670/j.cnki.cnl1-5823/tu.2016.01.16",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BIM技术的兴起是计算机辅助技术在建筑行业的又一次发展。在现在建筑的不断复杂化，设计要求也不断提高大环境下，Revit软件自身所带的功能已不能满足现在建筑设计要求，对其二次开发已迫在眉睫。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Revit中对管线的标注实际上是机电工程制图中将管线的直径等信息以注释的形式直观、有效地展现出来的一种工作。设计师在绘制机电工程图纸时，能够对各个管线进行自动标注是一种有效的缩短制图时间的手段。标注可以使施工人员更加清楚的明白各个管线的有效信息，其重要程度不言而喻。但是，利用Revit软件中自带标注功能进行标注时，其操作难度及美观性都不能够达到设计师的要求。因此，有必要设计出一种基于Revit的自动标注插件，来满足设计师在管线标注方面的需求。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Revit二次开发指的是利用C#或VB语言通过RevitAPI提供的外部命令接口来扩充Revit软件功能的一种实际应用，是基于Revit软件对该软件功能进行扩展的一项研发。继承性、特殊性、实用性、复杂性是这项研发的特点。除此之外，Revit二次开发不仅继承了软件本身的诸多优点，还可以针对不同的绘图人员的需求开发出不同特性的插件，从而大大提高出图的效率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "RevitAPI中提供了两类Revit二次开发方式：外部命令（ExternalCommand）方式和外部应用（Ex-ternalApplication）方式。外部命令继承的是IExter-nalCommand类，通过安装外部加载工具Add-inManager来完成插件的载人，其主要作用是完成某些实际的功能应用的一种开发。另一种方式外部应用开发方式，继承的是IExternalApplication类，这种方式的特点是通过调用OnStartup（）函数和On-Shutdown（）函数来完成该插件随着Revit软件的启动而启动，随着Revit软件的关闭而退出。继承外部应用的插件一般情况是对菜单或者工具条的开发，并且需要在Revit自启动文件夹下编写相应的addin自启动文件。管线自动标注方法是通过Au-todesk公司提供的RevitAPI中封装好的类来解决相应的问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1族",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "族是一个包含通用属性（称作参数）集和相关图形表示的图元组[5]。AutodeskRevit族主要分为内建族、系统族和标注构件族三类。管线自动标注族属于标注构件族，其特征具有高度可自定义性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Revit管线标注功能的实现就是通过载人预先制作好的族来完成的。在族制作中可以选择所需要添加的类别参数，一般情况下，管线标注只需标注出管线的参数，类型及尺寸大小等信息即可。在这里，本文中所制作的管道标注族添加的类别参数有尺寸和标记两种。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2Revit管线自动标注分类 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 管线分类 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Revit管线自动标注主要分为单根管线自动标注和平行管线批量自动标注两大类。其中单根标注比较简单，利用Revit软件自带标注功能即可完成。本文中涉及到的RevitMEP管线标注是基于外部命令的一种具有批量自动标注功能的插件开发。实际操作分为管线无变径自动标注和管线有变径自动标注两种情况。对于管线没有发生变径的情况，批量自动标注方法是通过获取合适的标注点后，以该标注点对管线做投影，获取每根管线对应标注的距离及引线信息，然后利用尺寸标注方法对管线进行标注。对于有变径的平行管线批量标注问题，需通过标注点向管线引垂线方法获取当前一组平行管线，然后再利用尺寸标注方法进行管线标注。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2管线发生变径情况 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "管线发生变径的情况可以分为三种：第一种是管线的参数（例如管径大小）发生变化；第二种是管线的排布情况发生变化；第三种是管线发生分支（例如三通，四通等）变化。发生不同的变径有不同的判断方法。第一种情况可以通过标注点向管线引垂线的方法将管线进行分组标注。第二、三两种情况当直接通过标注点对管线引垂线时，由于管线排布方向发生变化或者有三通或四通情况，标注点会同时向多根管线做垂线，从而导致标注会发生混乱（如图1）。因此，对于后两种情况可以通过获取管线两边的两个标注点的方法将管线再分组然后进行标注，这样就可以避免标注混乱的情况发生。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/57c870d077e3d7c0ae81cf74afc8960ef188f2f8f33f0f23d9d0a39423584300.jpg",
+        "img_caption": [
+            "图1多变径管线标注判断"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3垂线法解决多变径标注问题",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "多变径平行管线批量标注过程中由于管线的变径情况会出现标注引线发生倾斜的问题，其原因有两点：一是通过标注点对管线作投影，其投影不在管线上而是在管线的延长线上；二是当管线存在弯管、三通或是四通情况时，通过标注点作投影会同时对两根或两根以上的管线同时投影，这也会导致标注引线发生倾斜。对于以上两种情况可以通过分组筛选的方法解决：首先获取平行管线两边标注点各一个并做一条直线，与直线有交点的管线分成组，然后再通过垂线法解决标注引线倾斜问题。对于文中涉及的垂线法有如下定义：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设管线外的标注点为P（pointX，pointY），管线的两个端点A（x1，y1），B $( \\mathbf { \\nabla } _ { \\mathbf { x } 2 } , \\mathbf { y } 2 )$ ，垂足坐标为N（204 $( x , y ^ { . } )$ ,则向量 $\\vec { P N } = ( \\vphantom { \\sum } _ { x } \\boldsymbol { 1 } _ { x } - p o i n t \\boldsymbol { X } , y - p o i n t \\boldsymbol { Y } )$ ,AB=$( \\boldsymbol { x } 2 - \\boldsymbol { x } \\boldsymbol { 1 } , \\boldsymbol { y } 2 - \\boldsymbol { y } \\boldsymbol { 1 }$ ） $\\stackrel {  } { A N } = ( \\ r _ { x } - x \\ r _ { 1 } , y - y \\ r _ { 1 } )$ ，由 $P N$ 与 $A B$ $\\mathbf { \\alpha } $ 垂直可得出 ${ \\stackrel {  } { P N } } ? { \\stackrel {  } { A B } } = 0$ ,即：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( x - p o i n t X \\right) \\left( x 2 - x 1 \\right) + \\left( y - p o i n t Y \\right) \\left( y 2 - y 1 \\right) = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "管线位置有以下几种情况：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）平行管线与 $\\mathrm { \\Delta X }$ 轴平行，垂足坐标为N(pointX,y1）。(2)平行管线与X轴垂直，垂足坐标为 $\\mathbf { N } ( x \\mathbf { l }$ ，pointY）。(3)平行管线既不与X轴平行也不与X轴垂直，垂足坐标： ${ \\bf N } ( { \\bf k } ( { \\bf x } 2 { \\bf - x } { \\bf 1 } ) + { \\bf x } { \\bf 1 } , { \\bf k } ( { \\bf y } 2 { \\bf - y } { \\bf 1 } ) + { \\bf y } { \\bf l } )$ ，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中斜率 $\\mathbf { k }$ ·",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk \\ = \\ { \\frac { x \\ - \\ x 1 } { x 2 - x 1 } } \\ = \\ { \\frac { y \\ - \\ y 1 } { y 2 - y \\cdot 1 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过 $\\textcircled{1}$ ， $\\textcircled{2}$ 可得：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk = - \\ \\frac { \\left( { \\bf { \\sigma } } _ { x } 1 { - } p o i n t X \\right) \\left( { \\bf { \\sigma } } _ { x } 2 { - } x 1 \\right) \\ + \\ \\left( { \\bf { \\gamma } } _ { y } 1 { - } p o i n t Y \\right) \\left( { \\bf { \\gamma } } _ { y } 2 { - } y 1 \\right) } { \\left( { \\bf { \\gamma } } _ { x } 1 { - } x 2 \\right) ^ { 2 } \\ + \\ \\left( { \\bf { \\gamma } } _ { y } 1 { - } y 2 \\right) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "针对上述情况，本文提出多变径管线批量标注算法，具体见表1：",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/cf3353b8de2c669f0594865ed47f90b1a93a1ac350a330bdb85a32992a9e86e2.jpg",
+        "table_caption": [
+            "表1多变径管线批量标注算法"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>输入：标注点P和Q 输出：批量管线标注</td></tr><tr><td>获取平行管线组两边的标注点各一个P和Q； 过两个标注点做一直线；但不将其实例化；</td></tr><tr><td>管线排序； 获取一组与直线相交的管线信息；</td></tr><tr><td>运用垂线法找到任一标注点到管线的垂足，并做出垂线： 通过垂足做引线并对管线进行逐一标注</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4快速标注 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "快速标注算法是基于表1算法的改进，通过管线上的一点计算出对应的标注点的位置坐标，然后通过垂线法解决标注问题，如图2所示，快速标注管线需要解决的主要问题是获取通过计算获取标注点 $\\mathrm { P } ( { \\bf x } , { \\bf y } )$ 点坐标，Q（x1，y1）， ${ \\mathrm { R } } ( { \\mathrm { x } } 2 , { \\mathrm { y } } 2 )$ 是管线的两个端点.0点管线上标注的位置，设 ${ \\frac { \\mid Q O \\mid } { \\mid Q R \\mid } } = \\lambda$ $( 0 < \\lambda < 1 )$ $\\lambda$ 可以初始化其值，在标注过程中可以初始化引线的长度即 $\\mathrm { ~ h ~ }$ 的值，然后可以将管线与点P抽象成三角形（如图2），以求得标注点的坐标。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b9a0087229e5581c22ba89c99460f0d6a011d591b9d19c95bf64b2e13e1fc30d.jpg",
+        "img_caption": [
+            "图2快速标注"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在这里管线的位置会引起相应的讨论：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)管线与X轴平行，即标注点 $\\mathrm { P } ( \\mathrm { ~ ( ~ 1 ~ - ~ } \\lambda ) \\mathrm { x } 1 \\mathrm { ~ + ~ }$ $\\mathtt { \\lambda \\wedge 2 , ( 1 - \\lambda ) \\ y l \\ + y 2 + h } )$ ， $1 > \\lambda > 0 , \\mathrm { h } > 0 \\rangle$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)管线与X轴垂直，即标注点 $\\mathrm { P } ( \\mathrm { ~ ( ~ 1 ~ - ~ } \\lambda ) \\mathrm { ~ x ~ l ~ } +$ $\\mathtt { \\lambda } \\mathtt { \\lambda } \\mathtt { \\lambda } 2 + \\mathtt { h } , ( \\mathtt { \\lambda } 1 - \\mathtt { \\lambda } ) \\mathtt { y } 1 + \\mathtt { y } 2 )$ ，（ $1 > \\lambda > 0 , \\mathrm { h } > 0 \\rangle$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)管线既不与X轴平行也不与 $\\mathrm { \\Delta X }$ 轴垂直，即可知道：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overrightarrow { Q R } \\cdot \\overrightarrow { ( ) P } = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| \\mathrm { O P } | = \\mathbf { h }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由 $\\textcircled{4}$ 得出：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\boldsymbol { \\mathbf { \\mathit { x } } } 2 \\mathbf { \\mathit { - x } } 1 ) \\left( \\boldsymbol { \\mathbf { \\mathit { x } } } - \\left[ \\left( \\mathbf { \\begin{array} { l } { } \\end{array} } \\right) \\boldsymbol { \\mathbf { \\mathit { x } } } \\right] \\right. \\left. + \\left. \\lambda \\boldsymbol { \\mathbf { \\mathit { x } } } 2 \\right] \\right) + \\left( \\mathbf { \\gamma } \\mathbf { \\cdot } 2 \\mathbf { \\cdot } \\mathbf { \\boldsymbol { y } } \\mathbf { \\cdot } \\mathbf { \\boldsymbol { l } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( [ ( 1 - \\lambda ) \\rangle ] + \\lambda \\rangle 2 ] ) = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由 $\\textcircled{5}$ 得出：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\qquad ( x - [ ( 1 - \\lambda ) x ! + \\lambda x 2 ] ) ^ { 2 } + ( y - ( 1 - \\lambda ) y ! + } \\\\ & { \\qquad y 2 ) ^ { 2 } = h ^ { 2 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过计算可以得到：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx = \\frac { ( \\gamma 1 - \\gamma 2 ) h } { \\sqrt { ( x 1 - x 2 ) ^ { 2 } + ( y 1 - y 2 ) ^ { 2 } } } + ( 1 - \\lambda ) x 1 +\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "入x2，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $( 0 < \\lambda < 1 , \\mathrm { h } > 0 )$ （2",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny ^ { . } ~ = ~ { \\frac { ( \\ O _ { x } 1 - \\ o _ { x } 2 ) h } { \\sqrt { ( \\ O _ { x } 1 - \\ o _ { x } 2 ) ^ { 2 } \\ + \\ ( \\ O _ { y } 1 - \\ o _ { y } 2 ) ^ { 2 } \\ } } } \\ + \\ ( \\ O _ { 1 } \\ - \\ \\lambda ) \\ o _ { y } 1 +\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "入2， ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $( 0 < \\lambda < 1 , \\mathrm { h } > 0 )$ O",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "即可得出标注点 $\\mathrm { ~ \\bf ~ P ~ }$ 的坐标",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "P点和0点做一条直线即为标注引线，再利用尺寸标注方法即可实现自动标注",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5实验结果及分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据本文所提供的标注方法，利用Autodesk公司的产品AutodeskRevit2014进行测试，使用VS2010.NET的C#语言进行代码编写。编写程序主要有如下步骤：1)过滤出当前视图中所有管线；(2)利用算法1实现对平行管线的批量标注；3）判断是否结束，否则继续执行步骤2。总体流程见图3",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验测试的数据来自某一实际工程中的Revit管线标注项目以及自主构建的多变径平行管线组。批量标注完成效果如图4所示",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "自动批量标注与Revit软件自带标注效率对比：自动批量标注所需花费时间的地方主要是分别手动选择管线上方和下方两个标注点，在选择完标注点后即可对一组平行管线进行批量标注；Revit软件自带标注方法只能一根一根的进行标注，其效率和整齐程度都不及本文提出的批量自动标注方",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/475818b4e9d4d402b3b34d254678084df1915055a26073560f634d3a1905ddc1.jpg",
+        "img_caption": [
+            "图4多变径平行管线批量标注"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9ab3990547e91c2541a82c3a523495202361065aabd06832559cda86d5f242b3.jpg",
+        "img_caption": [
+            "图3管线标注算法流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/609a77c4013d887a446d1c7ed53b10918e6f2b9757d4175410d5ec6ca825ccd8.jpg",
+        "img_caption": [
+            "图5某工程实际项目"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（暖通水系统平行管线批量标注）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "法。文中提到的快速标注在标注效率上是最高的，在自动批量标注方法上省去了手动选择标注点的时间，但其标注位置是统一固定在管线的某点处的，其美观及适合度不及自动批量标注。具体对比见表2。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/13a2c235b59b6ac37faedb7d82d16434d1716e3d5cd960ea601aff59af3753e7.jpg",
+        "table_caption": [
+            "表2手动标注与自动标注效率对比 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>无变径</td><td>多变径直管</td><td>多变径弯管</td><td>快速标注</td></tr><tr><td>手动</td><td>一般</td><td>较低</td><td>较低</td><td></td></tr><tr><td>自动</td><td>较高</td><td>较高</td><td>一般</td><td>高</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/2318f3f30a4c8ad5b0982642e26a98fc47475d9faab278b02f8128646fbdcfa8.jpg",
+        "table_caption": [
+            "表3手动标注与自动标注美观程度对比 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>无变径</td><td>多变径直管</td><td>多变径弯管</td><td>快速标注</td></tr><tr><td>手动</td><td>一般</td><td>一般</td><td>一般</td><td></td></tr><tr><td>自动</td><td>较好</td><td>较好</td><td>较好</td><td>-般</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6总结 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文主要阐述了基于Revit软件下管线批量自动标注的实现方法，同时对软件自带的标注方法做了简单的评析。管线的自动标注主要是针对单个管线的自动标注和批量管线的自动标注两种情况，其中批量标注又可细分为单个管线多变径标注、无变径平行管线批量标注和有变径平行管线批量标注。这几种标注情况基本上涵盖了目前绘图工程师所需要标注的全部情况。在多变径管线批量标注中本文提出了利用做垂线的方法将管线进行分组，从而解决了标注引线倾斜的问题。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文所提出的Revit二次开发生成插件进行批量标注的方法比使用Revit自身交互界面标注方法效率有大幅度的提高，且具有明显的针对性，使标注更具智能化，不仅简化了操作，还满足了一些绘图工程师的特殊需求，从而缩短了工程周期，节约了时间和成本，为Revit在管线标注方面或其他应用领域提供了一些借鉴。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "［1］何关培.BIM和BIM相关软件[J].土木建筑工程信息技术.2010,2(3):111-117.  \n［2］徐剑.Revit系统软件二次开发研究[J].铁路技术创新，2014.  \n［3］吝江峰.基于Revit在水利工程中常规注释_标识二次开发[J].河南科技，2015.  \n［4］叶雄进.Revit二次开发从入门到精通学习之路[EB].CSDN博客，2011.  \n[5］AutodeskAsiaPteLtd.AutodeskRevit二次开发基础教程.同济大学出版社，2015(8）.  \n［6］肖英.基于VB的AutoCAD尺寸标注[J].制造技术与机床，2007(12）.  \n［7］徐剑.Revit系统软件二次开发研究［J].铁路技术创新，2014(5).  \n［8］陈震宇.RevitMEP辅助设计的可行性分析［J].福建建设科技，2012(5).",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Realization of Revit Pipeline Auto-labeling Method ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Li Changhua,Li Tong，Zhou Fangxiao，Cui Huanhuan (Xi'an University of Architecture and Technology，Xi'an 71oooo,China) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Basedon the actual engineering requirements of Revit pipeline auto-labeling,this paper divides parallel pipeline labels into two categoriesof no-adjustableand adjustable paralel pipeline labelsand describes three situations which willead topipeline diameter changes.In adition，the paper puts forwardamethodof using lead vertical to solve the problem of the changeable diameter paralel pipes labeling.The experimental results show that:： thiskindof labelingmethods greatly increase labeling eficiency，andcomparedtotheuseofRevit interactive interface，they simplifies theoperation，improve the labeling efciencyand providesome experiences for secondarydevelopment in the future. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Key Words:Revit Secondary Development； Building Information Modeling；Pipeline Labeling ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Realization of Cross-platform Virtual 3D Construction Progress System ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Rao Pingping，Shao Zhaotong，Zhao Linxue (School of Environment and Architecture，University of Shanghai for Science and Technology, Shanghai 200093，China) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Engineering construction needs visual progress management tools to integrate BIM and VR to develop a visualized and multi-terminal construction progressdemonstration system with rich information.Building the standardconstruction model with Revit,this article modifies thetexture of materials using 3DMAXand then imports themodel to Unity3D so as todevelop a cross-platform construction progresssystem.Model information in Revit is transmitted to Unity3Din IFCformat，which can beeasilyreleased tothePC,Weband mobile terminaland provide better service for construction management. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:BIM;VR;Cross-platform;Construction Progress ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "万方数据",
+        "page_idx": 4
+    }
+]

@@ -1,0 +1,1503 @@
+# 早期经历对行为发展的影响：
+
+# 基于人鼠互动范式
+
+# 武晓睿 俞德霖 郑本汇源 陈亚勤 杨雯佳 尹彬
+
+(福建师范大学心理学院，福州 350108)
+
+摘要：培育情绪、认知和社会行为发展健全的下一代是人口发展的基本盘。研究以36只一月龄 SD 雄性大鼠为被试，基于“人鼠互动范式”，对干预组（积极；消极）和对照组进行3周早期经历干预，并测试行为发展效果。结果显示：1．积极组最多主动探索，目标行为最稳定；2.对照组学习差，行为较钝化；3．消极组最警惕，社会竞争中失败多。由此得出，丰富的早期经历本身可提高学习和社交的敏感性，但消极经历会造成情绪驱动的探索抑制并干扰目标行为。
+
+关键词：早期经历；行为发展；人鼠互动范式；或然渐成论；整体互动观
+
+分类号：B843
+
+# 1引言
+
+新时代的挑战既是科技竞争的挑战，又是社会治理的挑战，更是“何以为人"的育人价值观的挑战。“十四五"规划纲要提出关于“一老一小"的人口长期发展战略；其中，“一小"指需要教养和抚育儿童。随着人们对“育人"要求的提高，及时优化生育和养育政策，建设教育基础设施，完善社会托育服务成为紧要的问题，新增的社会托育服务也日渐需要更具象的方案指导，帮助社会和每个家庭培养身心健康、学习性强、社会互动良好的下一代。
+
+研究表明，早期经历深刻影响着个体的认知、情绪和社会性的发展(e.g.Carlo et al.,2011;Cowan et al.,2016; Ngai et al.,2018; Taylor et al.,2013; Tucker et al.,2018)，甚至影响着成年后的健康状况(Campbell et al.,2014)。而早期经历的形成受到早期投入(Birbeck et al.,2015;O'Malley et al.,2015)、养育方式（包括观念、行为和情感表达的组合方式）(Berry et al.,2014;Darling& Steinberg,2017; Jensen& Whiteman,2014; Sanders,1999)和个体早期的养育环境(Opendak etal.,2017)等多方面的影响。在早期经历的干预内容上，诸多研究对多个可能的因素进行了讨论和调查(程黎等,2016；丁丽丽,2016；李岚溪等,2018)。然而，大部分这样的实证研究采取的是自我报告和经历回溯，也包括一些纵向的行为追踪研究，但这些方法在科学逻辑上只能回答变量间的相关问题，而无法确证因果关系。这也就意味着，研究者或只有通过严格控制的干预对照实验，才能够精准的回答早期经历对个体行为发展影响的问题。而由于人类伦理对于此类试验的限制，研究者或可从构筑能够模拟人类早期经历环境和发生发展的动物模型开始，提供这一问题在进化与发展上的解答，从而逐步为“一小”的一系列配套服务建设提供系统的行为研究上的参考，稳住未来人口发展的基本盘。
+
+事实上，从20 世纪初的行为主义开始，心理学的科学发展就离不开动物行为研究的贡献(曹新美，刘翔平,2008；马文驹,1983；苏彦捷,2007；张利燕,2003;Domjan&Purdy,1995)。同样，已有大量的研究工作是以啮齿类动物为模型探究早期环境的影响的。其中，以大鼠为被试的研究中发现，丰富环境刺激可以促成大鼠脑损伤功能恢复、神经形态结构塑造、行为学功能变化(李晓捷等，2006；鲁利群，赵聪敏，2005；Woodcock& Richardson,2000)；人的触摸（handling）和母鼠的舔舐(matermal care)行为可以提高大鼠的学习和记忆水平(D.Liu et al.,2000)，促进亲社会行为(Su&Su,2018)，以及提高社会等级(Reid,2011)等。另一方面，“齿轮模型"(Repetti etal.,2011)认为幼年时期家庭中的压力事件对儿童短期和长期发展都会产生影响(Blair &Raver,2012; Koenig et al.,2004; Tang etal.,2018)。在大鼠模型中,强迫旋转(Riley,1981)、强迫游泳(W.Liuetal.,2018)、悬尾(李松柏等,2018)等干预方式会导致大鼠产生压力应激、焦虑和抑郁的行为，甚至产生器质性的精神问题(McLaughlin et al.,2015; Niwa et al.,2011)；社会隔离、疼痛和恐惧刺激会造成大鼠的探索抑制和社会性功能低下(管西婷等,2011; Knapska etal.,2010)。此外，还有关于遗传因素、饲养方式等客观因素的探讨：例如，同属的大鼠仍会由于后天的不同的母婴互动方式而出现行为上的分化(Mooreetal.，1997)；笼内环境的丰富性不会影响行为发展的结果，但不能忽视同笼内社会等级的客观存在(Wolferet al.,2004)等。
+
+值得注意的是，这些研究大多采用的是西医式的"条分缕析"式的思维，探究的是某一具体要素对于情绪、认知和社会性发展的影响，然而现实中的早期环境是综合、复杂和相互联系的，是一个生态系统(桑标,2005；陶嘉欣等,2018; Berry et al.,2014)，早期经历也是一个形成性的时间尺度上的概念。因此，尽管前人利用动物模型做了许多有关早期环境对后期发展的影响研究，发现了不少单一条件的干预影响行为结果的有趣结论，并且探究了神经生理机制。但遗憾的是，这些研究仍然缺乏足够的生态效度(von Eye＆ Bogat,2006)，使得研究成果对养育政策规划的指导存在从理念到实操转化率低，内容零散，以及"产出"效益不可预测的问题。为解决这个问题，我们也许可以通过采取中医的"系统性思维”，创造一种以养育者的核心养育观念为指导的、更具系统性和主观能动性的个体与环境互动的早期经历的干预模型，进行严格对照的早期经历互动干预试验，利用一系列行为学模型检测早期经历的整体性差异对情绪、认知和社会性发展的影响,然后再细究这一环境中的各个要素的调节变化与行为后果之间的相关性，最后再探究早期经历差异影响的持续性、稳定性和可干预性，这样形成的理论体系和实证依据或可为人才培养实践提供生态效度较高的指导。
+
+支持这一观点的是，陈巍等(2021)学者回顾了心理学发展的历史，发现以郭任远、Gottlieb等为代表提出的行为发展的“或然渐成论”在发展心理生物学上占有重要位置。“或然渐成论”认为，行为发展是发生在一个多水平的情境中，情境的可变性对行为发展的或然性产生影响(Gottlieb,2003,2010;Kuo,1976)。另一方面，Magnusson(1999)提出的发展的“整体互动观”认为，个体与情境系统互动的整体而非单一变量才是发展分析的基本单元。结合Piaget的认知发展的图式理论(Piaget,2003)，我们有理由认为个体与环境互动的早期经历提供了个体日后行为发展的图式，因此建立起能够造成个体与环境互动的整体差异的实验范式才是回答这个问题的关键。
+
+这种在“或然渐成论”和“整体互动观”视角下对个体与环境互动的早期经历进行系统性干预的动物模型研究范式我们称之为“人鼠互动范式"(Human-Rat Interaction Paradigm,HRIP).与母鼠-幼鼠的自然互动不同的是，“人鼠互动范式"是由作为主试的实验者和作为被试的大鼠在不同教养原则指导下的可控的互动，干预的是被试在发展早期与环境互动的整体经历。该范式控制和平衡了互动角色的特质、性别、经验(张火垠等,2019;Feldman,2015;Lytton&Romney,1991)对互动过程的影响，并对主试的教养观念(Bowlby,2008; Sanders,2012;《TripleP—PositiveParenting Program》,2019)和具体操作(Sanders,2012;Su& Su,2018)进行教学和规范。同时，在互动过程中收集大鼠被试带有情绪意义的超声波(俞德霖，尹彬,2021； Simola& Brudzynski,2018)及过程性的特征行为数据，通过限定互动观念、操作强度和时长，维持大鼠体重稳定增长和在互动后对大鼠进行欣快水平测试，监控个体-环境互动的早期经历的干预进程和效果。
+
+综上，本研究拟从行为发展的或然渐成论及整体互动观的视角出发探讨早期经历对个体行为发展的影响，基于理念生动且可操作、内容结构完整且互动性强、评估及时且指标外显的“人鼠互动范式”，以早期经历类型（干预组：积极，消极；对照组）为自变量，干预角色、教养观念为控制变量，情绪、学习和社会互动行为测试指标为因变量，考察不同性质的早期经历对于个体情绪、认知和社会性发展上的差异影响。
+
+# 2方法
+
+# 2.1主试与被试
+
+主试8人(含3名男性；18\~28岁；未育；本科及以上学历）。其中，互动主试4人（分别编号A,B1,C1,D），观察记录主试2人，替补互动主试2人（补编为B2,C2）。在互动过程中，互动主试B1对大鼠的接纳度较低,2天后主动退出；互动主试C1由于个人原因8天后主动退出（2人均由替补互动主试B2 和C2 替代)。所有主试均经过人格测试（《Big Five》、《EPQ》、《SCL-90》），结果显示7人为高宜人性（1人低宜人性为互动主试A），7人为低神经质（1人高神经质为观察主试）(Adam等,2004;Prinzie 等,2009),1人 SCL-90总分 203为互动主试C1；划消测验(高华等,2005)的精确率均在 $80 \%$ 以上；METT 微表情高等级测试(吴奇等，2010；朱庆宏等,2015)的正确率为 $5 0 \% { \sim } 6 9 \%$ ；7人对大鼠的接纳度正常（互动主试B1在5 种想象情境下的对大白鼠的接纳度皆小于 $60 \%$ ，详见网络版附图27）。
+
+被试是36只一月龄的雄性 SD大鼠，外加配合测试的12只同龄同种同性别大鼠，被随机分配到16个饲养笼中，每笼3只，分为积极组，消极组，对照组和配合组，每组4笼，互动主试负责不同组别大鼠各1笼，配合鼠由1人负责，在大鼠尾部进行标记（主试和大鼠的配对编号详见网络版附表2)，饲养在EVC 环境下，光照自动化控制（互动阶段18:00 关灯，6:00开灯；测验阶段8:00关灯；20:00开灯）。研究全程记录大鼠体重数据，待体重数据稳定增长（顺利适应饲养环境）后进入早期经历干预互动阶段；互动阶段喂食 $6 0 \mathrm { g / }$ 笼/天，测验阶段喂食30g/笼/天(测验有时需要调整喂食时间和次数)。全程体重记录显示 (网络版附图 28，附表 3)，各阶段体重控制良好， $F ( 5 9 , 1 9 4 7 ) { = } 6 8 5 . 9 8$ $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } ^ { 2 } \overline { { = } } 0 . 9 5$ 组别差异不显著 $F ( 2 , 3 3 ) { = } 2 . 3 7 _ { \cdot }$ 号$\scriptstyle { p = 0 . 1 0 9 }$ ， $\mathfrak { n } ^ { 2 } { = } 0 . 1 3$ $9 5 \%$ CI=[203.50,216.17]。
+
+本研究经\*\*大学实验动物伦理审查委员会审核通过(编号：IACUC-20200014)。
+
+# 2.2实验材料和器材
+
+视频录制和存储设备，AIMSNEO-9&ATS-3 动物标记系统，EthovisionXT动物行为分析系统，SPSS,Graphpad Prism，Pettersson(M500-384)声波录制器和 Matlab 和 DeepSqueaktoolbox(Coffey,2019)插件等数据分析系统，早期经历干预环境和设施（详见网络版附图1\~4)，行为测试装置（详见网络版附录S1.2），巧克力粒和硬糖等。
+
+# 2.3实验设计
+
+# 2.3.1早期经历干预
+
+早期经历干预以情绪、认知和社会性三方面的目标达成为指导，设计了具有整体特征的干预内容，采用原则和操作明确、互动性强、主试可替代性强的"人鼠互动范式”（内容详见网络版附表1)。其中，积极早期经历干预包括触摸互动、丰富环境刺激和异笼联谊3个项目，主试在干预前需进行静坐和冥想各10分钟；消极早期经历干预包括强迫旋转、强迫游泳或悬尾(隔天轮换)、限制自由与恐惧/厌恶刺激；对照组与干预组进行糖水后测和日常指标监测(网络版附录 S1.1.5\~1.1.6)。
+
+同时，在环境控制上，积极区空间大，整体色调为暖黄色，光照强度低（最低档），座椅舒适度高，总体营造出一种人性化的支持性环境；而消极区空间小，整体色调为黑色，光照强度高(最高档)，观察主试监督互动主试的操作过程，总体营造出一种强制的工具化环境。在过程监控上，对互动过程进行全程录像，互动结束后，进行集体分享，互动主试每日撰写互动日志，观察主试撰写观察简报。
+
+# 2.3.2行为测试
+
+在早期经历的干预过程中，研究者对特征指标进行行为和声波编码(网络版附录 S1.3.2)，并在每次互动干预后，进行 $1 5 \%$ 浓度的糖水测试。
+
+情绪行为测试包括高架O迷宫、新异环境和熟悉环境下的进食行为、旷场和学习装置适应4个内容（网络版附录 S1.2.1），从开放臂探索、新环境进食、旷场探索和学习适应4个方面观察不同互动干预方式下大鼠的情绪行为。
+
+学习行为测试包括不同难度等级的新物体识别、整合性迷宫测试、开门学习测试3个内容（网络版附录 S1.2.2），从客体识别、空间记忆、程序性问题解决3个方面观察不同互动干预方式下大鼠的学习行为。
+
+社会行为测试包括社交偏好-社交箱、亲社会营救、亲社会分享、亲社会共享、管道竞争和争食竞争6个内容（网络版附录S1.2.3），从社交偏好、亲社会和社会等级3个方面观察不同互动干预方式下大鼠的社会行为。
+
+# 2.4实验流程
+
+# 2.4.1早期经历干预流程
+
+早期经历干预流程分为总流程（网络版附录S1.1.3），单次轮换流程（图1，网络版附录S1.1.4）和单项操作流程（网络版附图5）三个部分。
+
+# 2.4.2行为测试流程
+
+为减少情绪、行为和社会性行为测试之间的干扰，同时，利用三类行为测试后大鼠产生的适应，熟悉，习得等的准备状态，我们进行了测试内容的安排(具体原因和控制无关变量的考量详见附录 S1.1.7)，按照“情绪-学习-社会"行为测试的大类顺序对大鼠行为进行了一系列的施
+
+测(图2)。
+
+![](images/cfd45c462ed0196ddc8954eaf4c1e9b63ad3dd2c7e5a20333430dac4132a12f4.jpg)  
+图1早期经历干预的流程图
+
+注：“一”代表“与”或“之间”；“”代表“或”；双向箭头代表主试换场和项目先后顺序在单双数天中的ABBA轮换方式；其中，在组别上，A主试和B主试同时进行积极/消极的互动干预、C主试和D主试同时进行消极/积极的互动干预，进行了积极互动和消极互动在时间上的同步和平衡；同时，在互动主试的性别上，A主试和D主试为男性，B主试和C主试为女性，进行了互动主试在性别上的平衡；其中，观察主试也为1男1女。单次早期经历干预时，观察主试恒定待在积极/消极互动区(在单双数天中进行天数间的互动区轮换)；互动主试和大鼠配对方式固定不变（具体配对方式详见附表2）;在消极互动区，单数天进行悬尾，双数天进行强迫游泳项目。
+
+![](images/b8f86744eb573d3fd2405d149d927401209f928458c2dab5dbd8948a0de6fb97.jpg)  
+图2测试阶段—项目流程图
+
+# 2.5实验程序
+
+(1)预实验进行多批次的早期经历干预和测验操作控制;(2)安排主试进行相关的人格和认知能力测试，参与“人鼠互动"实操培训;(3)购置48只一月龄雄性 SD大鼠，标记尾标，随机分笼后适应3天;(4)适应1周，将36只实验鼠移至早期经历干预区，进行对物理环境，实验人员和笼内同伴环境适应;(5)进行3周的基于“人鼠互动"范式的早期经历干预。在干预前，大鼠称重；在干预时，主试录制触摸互动过程的声波，填写观察记录表；在干预后，大鼠糖水偏好后测，主试总结分享，撰写互动日志，备份原始视频;(6)转移大鼠至动物行为实验室，进行一系列的情绪、学习和社会行为测试，填写观察记录表，备份、整理原始视频;(7)使用 Ethovision XT动物行为分析系统编码行为测试视频、使用Matlab及DeepSqueaktoolbox 插件编码声波数据、通过复看备份视频和主试观察记录表二次编码早期经历的过程性特征行为、SPSS,Graphpad Prism 进行数据分析和图表绘制（详见网络版附录 S1.1.2）。
+
+# 2.6数据分析
+
+研究以早期经历(干预组：积极、消极；对照组)为组间变量，以互动干预天数、学习次数和测试次数为组内变量，以是否出现特征行为、用时、次数、累计数量和等级计分等指标为因变量进行方差分析(网络版附录 S1.3)。
+
+# 3结果
+
+# 3.1早期经历的过程性指标监控
+
+# 3.1.1积极的早期经历的指标监控
+
+在触摸互动中（图3a和网络版附表4），以互动次数为组内变量进行重复测量方差分析的结果显示，大鼠表达愉悦体验的 $\mathrm { F M } 5 0 \mathrm { k H z }$ 声波在第1周为从无到有的上升趋势，第2,3周中位数趋于平稳(次数: $F ( 2 , 2 2 0 ) { = } 1 . 6 3 , p { = } 0 . 0 4 7 , \eta ^ { 2 } { = } 0 . 1 3 , 9 5 \% \mathrm { C I } { = } [ 2 . 1 8 , 5 . 9 1 ]$ ，时长： $F ( 2 , 2 2 0 )$ $= 1 . 5 7$ $\scriptstyle { p = 0 . 0 6 1 }$ ， $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 1 3$ $9 5 \% \mathrm { C I } { = } [ 3 0 . 3 2 , 1 0 4 . 2 9 ] )$ ；在功能上与社交通讯有关的 flat ${ 5 0 } \mathrm { { k H z } }$ 声波在 $\mathrm { F M } 5 0 \mathrm { k H z }$ 约后2天出现(次数: $F ( 2 , 2 2 0 ) { = } 1 . 6 3 , p { = } 0 . 0 4 7 , \eta ^ { 2 } { = } 0 . 1 3 , 9 5 \% \mathrm { C I } { = } [ 0 . 3 3 , 1 . 2 2 ] .$ ，时长：$F ( 2 , 2 2 0 ) { = } 1 . 3 5$ $_ { p = 0 . 1 5 2 }$ ， $\eta ^ { 2 } = 0 . 1 1$ ， $9 5 \% C [ = [ - 1 . 0 7 , 2 1 . 7 1 ]$ ；反映厌恶的消极情绪状态的 $2 2 \mathrm { k H z }$ 的声波在前3天频繁发出后大幅减少，之后出现的规律性较低，间次的出现在互动过程中(次数： $F ( 2 , 9 ) { = } 2 . 7 3$ $\scriptstyle { p = 0 . 1 1 8 }$ ， $\eta ^ { 2 } { = } 0 . 3 8$ ,95%CI=[-0.38,5.72],时长: $F ( 2 , 2 2 0 ) { = } 2 . 4 5$ $\scriptstyle { p = 0 . 0 0 1 }$ ， $\eta ^ { 2 } { = } 0 . 1 8$ $9 5 \% C [ = [ 2 . 1 8 , 5 . 9 1 ] ) .$
+
+![](images/74ef41495418408973a72ef5617984917974439bfb0e77940a3956978432f77e.jpg)  
+图3积极早期经历的特征指标编码结果
+
+注：图3a和为触摸互动过程中，大鼠发出不同类型声波的次数，其中，A组的1\~3号、C组的1\~3 号的第2次声波数据缺失，对缺失值进行序列均值替换；图3b和3c 分别代表丰富环境刺激中，大鼠对不同类型刺激区域的探索偏好和以不同行为方式探索物体的数量。其中，偏好区域分为6个(参见网络版附图2,5)。行为方式编码参考网络版附表；图3d和3e分别为异笼联谊中，从打开笼盖起大鼠的出笼潜伏期和与异笼大鼠互动时主动发出的特征行为的情况。其中，A组第4天和C组第7天出笼潜伏期的缺失数据使用前后两天的平均数补足；同时，在“是否出现特征行为”指标中根据主试的互动日志进行了质性编码上的数据补足。图中的数据点表示平均数，误差线表示标准误。
+
+在丰富环境刺激(1\~9天)中，不同刺激区域分区排布时，大鼠的区域偏好（图3b）和探索行为(图3c)变化显著。在不同刺激区域中，大鼠对不同刺激区域的探索偏好的发展趋势不同。以刺激区域和互动次数为组内变量的两因素重复测量方差分析结果(网络版附表5)显示，大鼠对不同类型的区域存在次数 $( F ( 8 , 8 8 ) = 3 5 . 8 7 , p { < } 0 . 0 0 1$ $\mathfrak { \eta } ^ { 2 } = 0 . 3 5 )$ 和刺激区域 $( F ( 5 , 5 5 ) = 3 8 . 1 4 \$ $\scriptstyle { p < 0 . 0 0 1 }$ ， $\eta ^ { 2 } { = } 0 . 7 8$ ，运动： $9 5 \% \mathrm { C I } { = } [ 1 . 3 7 , 2 . 1 2 ]$ ；平衡： $9 5 \% \mathrm { { C I } = [ 1 . 4 8 , 2 . 0 7 ] }$ ；嗅味： $9 5 \% C I = [ 1 . 0 7$ 1.64]; 视: $9 5 \% C [ = [ 0 . 1 0 , 0 . 2 9 ]$ ；触： $9 5 \% \mathrm { { C I } = [ 1 . 0 2 , 1 . 0 7 ] }$ ；听： $9 5 \% C \mathrm { I } { = } [ - 0 . 0 2 , 0$ .13]上的不同的探索偏好特征，存在互动次数和刺激区域上的交互作用, $F ( 4 0 , 4 4 0 ) { = } 4 . 5 6 , p { < } 0 . 0 0 1 , \eta { = } 0$ $\mathfrak { \eta } ^ { 2 } = 0 . 2 9$ 。
+
+在不同的探索行为(网络版附表6)上，随探索次数的增加大鼠互动的物体数量逐渐增加,$F ( 8 , 8 8 ) = 1 1 . 7 5$ $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 5 2$ ，同时,与物体的互动行为也逐渐丰富, $F ( 5 , 5 5 ) { = } 1 8 . 5 5$ $p { < } 0 . 0 0 1$ ，$\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 6 3$ ，进入： $9 5 \% \mathrm { C I } { = } [ 0 . 2 6 , 0 . 7 3 ]$ ；触动： $9 5 \% C [ = [ 1 . 2 2 , 1 . 8 5 ] ;$ 啃咬： $9 5 \% C [ = [ 0 . 5 4 , 1 . 1 6 ]$ ；移动：$9 5 \% C [ = [ 0 . 1 1 , 0 . 3 0 ]$ ；攀爬： $9 5 \% \mathrm { C I } { = } [ 0 . 9 1 , 1 . 9 1 ]$ ；习得新技能： $9 5 \% \mathrm { C I } { = } [ 0 . 1 6 , 0 . 5 8 ]$ 且存在探索次数和互动行为上的交互作用, $F ( 4 0 , 4 4 0 ) { = } 2 . 9 0 , p { < } 0 . 0 0 1$ $\mathfrak { n } ^ { 2 } { = } 0 . 2 1$ 。从刚开始对个别物体的进入和触动，到对多个物体的多种行为互动，再到第4天自发的习得了新技能，例如：跳上食槽取食、主动的按响铃铛、在滚轮上荡秋千或连续奔跑等行为。
+
+在10\~21大丰富坏境刺激中，区域内刺激物的排列方式进行变动，大鼠对丰富坏境刺激区域保持了比较稳定的探索兴趣和行为。
+
+在异笼联谊中，大鼠的出笼潜伏期(1\~9天)呈"指数下降型"(图 3d)，以互动次数为组内变量进行重复测量方差分析结果(网络版附表7)显示，从第4天开始出笼潜伏期已趋于平稳, $F ( 8 ,$ 88)=21.06, $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 6 6$ $9 5 \% C [ = [ 4 6 . 3 5 , 9 3 . 8 9 ]$ ；社交行为随异笼联谊次数的增加而丰富(图 3e)，从以嗅探为主的探索行为向以追赶、趴背、按倒为主的互动和竞争行为转变(次数：$F ( 8 , 8 8 ) { = } 3 5 . 9 0 , p { < } 0 . 0 0 1 , \eta ^ { 2 } { = } 0 . 7$ ；社会行为： $F ( 4 , 4 4 ) { = } 1 0 7 . 4 2 , p { < } 0 . 0 0 1 , \eta { = } 0 .$ ，嗅探：$9 5 \% C [ = [ 0 . 9 3 , 1 . 0 0 ]$ ；追赶： $9 5 \% C [ = [ 0 . 3 3 , 0 . 5 2 ]$ ；趴背： $9 5 \% \mathrm { C I } { = } [ 0 . 1 6 , 0 . 3 6 ]$ ：按倒： $9 5 \% C l { = } [ 0 . 2 0 \$ 0.18]；咬/舔脖子: $9 5 \% C [ = [ - 0 . 0 1 , 0 . 0 3 ]$ ；次数和社会行为的交互作用显著， $F ( 3 2 , 3 5 2 ) = 2 2 . 1 1$ ，$p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } ^ { 2 } = 0 . 6 7$ ，网络版附表8)。
+
+# 3.1.2消极早期经历的指标监控
+
+![](images/1aff2b0d2646fa53328a85bf23bb7ca3773f891df299e2de05578bda1449e5e0.jpg)  
+图4消极早期经历的特征指标编码和糖水后测结果
+
+注：图4a是消极早期经历干预中，大鼠的排便量等级计分结果；图4b 是强迫游泳/悬尾项目中，大鼠的挣扎等级计分；图4c 是限
+
+制自由 $^ +$ 恐惧/厌恶刺激项目中，大鼠的顶盖行为和撒尿行为的发生比例；图4d 是干预组(积极，消极)和对照组在每次早期经历干预后的糖水测试中，单笼饮用量，限制饮用时长为5分钟。第5次测试三组的A,C组和第7次测试三组的B,D组的糖水数据无效，使用前后两天的饮糖水量的平均数补足。图中的数据点表示平均数，误差线表示标准误。
+
+由图 4a 和以消极互动次数为组内变量的单因素重复测量方差分析结果(网络版附表 9)显示，在消极互动过程中，大鼠在强迫旋转中的平均排屎量在 4\~6 颗上下浮动， $F ( 2 , 2 2 0 ) { = } 1 . 6 3$ $\scriptstyle { p = 0 . 0 4 7 }$ $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 1 3$ ,95%CI=[1.72, 2.40];
+
+在强迫游泳/悬尾中存在由较多挣扎到较少挣扎的下降趋势(图 4b), $F ( 2 , 2 2 0 ) { = } 3 . 2 6 , p { < } 0 . 0 0 1$ $\mathfrak { \eta } ^ { 2 } = 0 . 2 3$ ,95%CI=[1.50,1.95](网络版附表10);
+
+在限制自由和猫刺激中大鼠出现持续变化的撒尿行为(图 4c), $F ( 2 , 2 2 0 ) { = } 1 . 7 9 , p { = } 0 . 0 2 3$ $\eta ^ { 2 } { = } 0 . 1 4$ $9 5 \% C [ = [ 0 . 2 5 , 0 . 4 8 ]$ 、不稳定的顶盖行为， $F ( 2 , 2 2 0 ) { = } 6 . 7 0 , p { < } 0 . 0 0 1 , \mathfrak { n }$ $\mathfrak { \eta } ^ { 2 } = 0 . 3 8$ 95%CI=[0.21,0.45](网络版附表11)。
+
+# 3.1.3糖水偏好指标监控
+
+结合图4d和以组别为组间变量，测试次数为组内变量的重复测量方差分析结果(网络版附表 12)显示,1\~6 天消耗糖水量有上升趋势，后趋于稳定， $F ( 2 0 , 1 8 0 ) { = } 8 . 1 2 , p { < } 0 . 0 0 1$ $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 4 7$ 0且组别和测试次数多次交互, $F ( 4 0 , 1 8 0 ) { = } 1 . 8 2 4$ $\scriptstyle { p = 0 . 0 0 4 }$ $\mathfrak { \eta } ^ { 2 } = 0 . 2 9$ ，但组别差异不显著，$F ( 2 , 9 ) { = } 2 . 7 3$ $\scriptstyle { p = 0 . 1 2 0 }$ $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 3 8$ ,95%CI=[13.16,14.18]。三组在早期经历的干预互动期间，皆未出现对糖水的欣快不能。
+
+# 3.2行为发展效果测试
+
+# 3.2.1情绪行为测试
+
+以组别为自变量，以不同情绪行为测试情境下的对应指标为因变量的单因素完全随机方差分析和事后多重比较显示：
+
+在O 迷宫中(图 5a,e，网络版附表13,14)，积极组进入危险区域的次数, $F ( 2 , 3 3 ) { = } 1 5 . 9 8$ $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 4 9$ ,95%CI=[16.17,24.50]、时间比例, $F ( 2 , 3 3 ) { = } 8 . 4 3$ $\scriptstyle { p = 0 . 0 0 1 }$ $\mathfrak { n } ^ { 2 } { = } 0 . 3 4$ $9 5 \% C [ = [ 0 . 1 2 , 0 . 2 3 ]$ 显著更多，组内平均热图也显示对危险区域的探索密度更高。
+
+在旷场中(图 5b,f,网络版附表15,16)，积极组在中心区域的时间比显著多于消极组,$F ( 2 , 3 3 ) { = } 3 . 3 0$ $\scriptstyle { p = 0 . 0 4 9 }$ ， $\mathfrak { n } ^ { 2 } { = } 0 . 1 7$ ,95%CI=[10.40,14.24]。尤其，在前6分钟的组内平均热图中，积极组中心区域的探索密度更高。
+
+在进入学习装置吃食物的情境(图 5c，网络版附表19,20)中，积极组的试探次数显著少于消极组, $F ( 2 , 3 3 ) { = } 3 . 8 8$ $\scriptstyle { p = 0 . 0 3 1 }$ $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 1 9$ $9 5 \% C [ = [ 3 . 3 8 , 5 . 7 9 ] ,$ 0
+
+在新异和熟悉环境(图5d，网络版附表17,18)中，积极组开始进食的潜伏期比消极组显著更短(新异环境: $F ( 2 , 3 3 ) { = } 3 . 7 2$ $\scriptstyle { p = 0 . 0 4 0 }$ $\eta ^ { 2 } { = } 0 . 1 8$ ,95%CI=[243.67,324.95]；熟悉环境:$F ( 2 , 3 3 ) { = } 4 . 5 4 9$ $\scriptstyle { p = 0 . 0 2 0 }$ ， $\mathfrak { \eta } ^ { 2 } \overset { } { = } 0 . 2 2$ ,95%CI=[37.42, 76.45])。
+
+总之，在不同情境的测试中，积极组的情绪行为表现皆显著的好于消极组。
+
+![](images/7e45972aa0571d6f2f58e2ec992e3a890772ddfbf4e1877b59eb195e4314d6a4.jpg)  
+图5情绪行为测试图
+
+注：图 5a,e分别是定时6分钟的O迷宫测验的指标分析和组内平均热图。单图中，上下侧有高围墙防护是安全区域，左右侧无防护是危险区域；图5b,f分别是旷场测验10 分钟(全程)的指标分析和前6分钟的组内平均热图，分为了边缘区域和中心区域进行对比分析；图 5c中"吃到食物前试探进入限制器的次数"指大鼠的头部进入限制器内部可以吃到食物但未取食，又把头伸出限制器的次数；图 5d 中，新异环境是中心放有一粒食物的新异实验箱的环境；熟悉环境是将大鼠日常饲养箱直接放入实验箱中心的环境。柱高表示平均数，误差线表示标准误；热图为组内平均热图，亮度越高表示探索密度越高。
+
+# 3.2.2学习行为测试
+
+在新物体识别测试(图6)中，以组别为自变量，是否记忆牢固或记忆偏向为因变量的单因素完全随机方差分析和事后多重比较结果(网络版附表 21\~23)显示，在中等难度下(图 6b,d)，长时记忆测验中消极组记忆偏向的大鼠只数少于其他两组, $F ( 2 , 3 3 ) { = } 6 . 5 5$ 0 $\scriptstyle { p = 0 . 0 0 4 }$ ， $\eta ^ { 2 } { = } 0 . 2 8$ $9 5 \% \mathrm { C I } { = } [ 0 . 7 8 , 0 . 9 7 ]$ 1；在不同任务难度下(图6a,b)，消极组的长时记忆牢固度和记住的大鼠只数皆表现出低于其他两组的倾向。
+
+![](images/701c236d295aca6e9d388cc78caaaf411cb06574ef6d6966ccdf136a3a1a13ca.jpg)  
+图6不同难度等级下的新物体识别测试图
+
+注：该范式源自(Slutsky 等,2010)。记忆牢固度 $\scriptstyle : = 1$ (大鼠对新物体的接触次数/大鼠对接触次数更多的非新物体的接触次数-1 $) \times 1 0 0 \%$ ，其中，记忆偏差：记忆牢固度 ${ < } 0 \%$ ；记忆偏向：记忆牢固度 $20 \%$ ；记忆牢固：记忆牢固度 $5 5 0 \%$ ，右上方的表格对应符合不同记忆指标的大鼠只数。另外,接触次数"的统计标准是大鼠用头部嗅探并接触物体的次数(连续接触超过2秒时，每接触2秒计1次)；图6c为对应图6a 是高难度条件下的实验流程简图。在学习记忆阶段中，放置3个形体不同的物体，短时和长时记忆测试时，把大鼠在学习记忆阶段接触次数最多的物体换为新物体；图6d对应图6b是中等难度条件下的实验流程简图，在学习记忆阶段中，放置3个形体相同的物体，短时和长时记忆测试时，把大鼠在学习记忆阶段接触次数最少的物体换为新物体。在 6a,b 图中，一个散点代表一个被试，右上角的表格代表不同记忆牢固度的大鼠只数统计。
+
+在整合性学习测试中(图7a,b)，以组别为组间变量，学习次数为组内变量的重复测量方差分析和事后多重比较结果(网络版附表 24,25)显示，积极组上墙和上墙走短路径的个案最多（网络版附图 51a)。积极组上墙探索 $( F ( 2 , 3 3 ) { = } 4 . 7 3$ $\scriptstyle { p = 0 . 0 1 6 }$ ， $\mathfrak { n } ^ { 2 } { = } 0 . 2 2$ ， $9 5 \% C [ = [ 0 . 1 7 , 0 . 3 8 ] )$ 、上墙走短路径到达终点 $( F ( 2 , 3 3 ) { = } 3 . 2 4 \$ $\scriptstyle { p = 0 . 0 5 2 }$ ， $\eta ^ { 2 } { = } 0 . 1 6$ ， $9 5 \% C [ = [ 0 . 0 7 , 0 . 2 4 ] )$ 的大鼠只数显著多于对照组。同时，7天的组内平均热图(图7c)反映出不同的探索密度的特征，对照组正确路径内普遍高亮，而积极组高亮点在短路径路段，消极组高亮点在起点。在三天后的复测和概括分析测试中，三组的学习行为未出现明显的差异(网络版附图 34)。
+
+学习阶段 积极  
+a b C 两1.0 积极 对照 △消极 1.0- 积极对照☆消极 土\*0.0520.8 0.8-604 0.2 0.2- 舞书0.0 0.02 3 4 5 6 2 3 4 S学习次数 学习次数  
+d e1.0无门 半开门状态（先） 全开门 全关门状态（后）0.8- 1次 5次 1次 5次  
+6  
+公 0.4 积极0.2 对照消极0.01 6 7 8 9 10半开门状态（先） 全关门状态（后）
+
+注：图7ab 是整合性迷宫的学习阶段每个试次上墙探索和上墙走短路径到终点的大鼠比例；图7c是整合性迷宫(尹彬等,2020)正确路径图和学习阶段7天的组内平均热图；图7d是开门学习任务（改造自 Bartalet al.(201,2016)的装置）中，两种“门"状态条件下，学会开门的大鼠比例；图7e是开门学习流程图及对应的开门装置配图，其中,“门"装置(具体设计详见附图15)经过自主改造，限制器外的大鼠可通过多种方式开门，开门方式包括： $\textcircled{1}$ 向上或向右上方顶或咬动凹槽开门; $\textcircled{2}$ 扳动重物开门; $\textcircled{3}$ 顶咬左侧杠杆开门； $\textcircled{4}$ 直接咬任意露出限制器的侧板开门等。开门学习分半开状态和全关门状态两种，每种状态学习前都先进行一次适应，分别为“无门适应"和“全开门适应”，明确限制器可进入，可取食的信息。12次学习后，对未连续在全关门状态下开门3次的大鼠进行加练1\~6次，但仍有1只积极,2只对照和1只消极不能熟练开门，分别是积极1，对照3，对照7，消极12。统计图中的数据点表示平均数，误差线表示标准误；热图为组内平均热图，亮度越高表示探索密度越高。
+
+在开门学习图7d,e中，消极组在半开门状态下学会开门的个案最多(网络版附图 35b)。以组别为组间变量，学习次数为组内变量的重复测量方差分析和事后多重比较结果(网络版附表26,27)显示,全关门状态下第1天和第5天的开门只数差异显著， $F ( 4 , 1 3 2 ) { = } 4 . 8 9$ $p { = } 0 . 0 0 1$ ， $\eta ^ { 2 } { = } 0 . 1 3$ $9 5 \% C [ = [ 0 . 5 5 , 0 . 8 2 ]$ ，组别和交互作用皆不显著。
+
+# 3.2.3社会性行为测试
+
+在社交偏好测验(图8a,e，网络版附图 53)中，以组别为组间变量，社交对象为组内变量的两因素重复测量方差分析、简单效应比较和事后多重比较结果(网络版附表28\~31)显示，在社交对象上，三组一致的对陌生鼠箱更为偏好，此外，消极组显著排斥假鼠箱, $F ( 2 ,$ （2066)=122.12, $p { < } 0 . 0 0 1$ ， $\eta ^ { 2 } { = } 0 . 7 9$ ，假鼠箱： $9 5 \% C \mathrm { I } =$ [17.93,20.41]，空箱: $9 5 \% C [ = [ 1 9 . 8 7 , 2 4 . 3 1 ]$ ，陌生鼠箱: $9 5 \% C [ = [ 3 6 . 9 2 , 4 1 . 9 0 ]$ ；当社交对象为假鼠时，积极组更偏好假鼠箱(附图36,37)， $F ( 4 ,$ $6 6 ) { = } 7 . 1 6$ $p { < } 0 . 0 0 1$ 5 $\mathfrak { n } ^ { 2 } { = } 0 . 3 0$ 。
+
+![](images/5e35967626a167b0ebe656b15dc48493760d5675680455e5f16d78e1acfdb51f.jpg)  
+图8社交偏好和亲社会行为测试图
+
+注：图8a,e分别是社交偏好测试的示意图和进入左侧箱的时间占比图；图8b,f分别是凹槽分享测验的示意图和右侧实验鼠接触挡板次数的统计图；图8c是开门营救测验的示意图；图8d是开门共享测验的示意图；图8j,h分别是开门营救和开门共享测验中大鼠10 分钟内开门只数图和开门用时图，当大鼠10分钟内不开门时,计600秒。开门营救和共享中对照条件的数据结果参见网络版附图38。另外，在开门共享测试中，14号和19 号配合组大鼠分别在第1次测试和第3次测试中从对侧开门，因此，积极2号和消极2号的三次开门共享测试，对照2号第2.3次的开门共享测试的数据缺失。消极7号的第三次开门共享测试数据缺失。图中统计的开门只数为允许缺失数据存在的开门只数的统计。统计图中的数据点表示平均数，误差线表示标准误。
+
+在分享测验(图8b,f)中，以组别为组间变量，分享对象为组内变量的两因素重复测量方差分析、简单效应比较和事后多重比较(网络版附表32\~35)结果显示，在组别上，积极组在被分享对象为真鼠的条件下接触挡板次数显著少于消极组，组别: $F ( 2 , 6 6 ) { = } 1 2 2 . 1 2 , p { < } 0 . 0 0 1 .$ $\eta ^ { 2 } { = } 0 . 7 9$ ， $9 5 \% C \mathrm { I } { = } [ 4 7 . 5 9 , 6 5 . 9 3$ 1；在分享对象上，积极组的挡板接触次数不存在分享对象上的显著差异，对照组相比于假鼠更少接触被分享区空白的挡板，消极组更少接触被分享区空白的挡板，分享对象: $F ( 2 , 6 6 ) { = } 1 7 . 2 9$ $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 3 4$ ，真鼠： $9 5 \% C [ = [ 5 1 . 6 7 , 8 2 . 7 2 ]$ ，假鼠：
+
+$9 5 \% C [ = [ 5 8 . 1 5 , 8 6 . 0 7 ]$ ，空白:95%CI=[23.35,38.60]，组别和分享对象的交互作用显著，$F ( 4 , 6 6 ) { = } 2 . 6 0$ $\scriptstyle { p = 0 . 0 4 0 }$ ， $\eta ^ { 2 } { = } 0 . 1 4$ 。
+
+在开门营救和开门共享测验(图8c,d)的开门只数上，以组别为组间变量进行完全随机方差分析和事后多重比较结果(网络版附表36,37)显示，在开门共享的3次测试(图 8j)中，积极组开门只数(4,4,3)显著少于对照组开门只数(9,9,5), $F ( 2 , 6 ) { = } 0 . 6 0$ $p { = } 0 . 0 3 0$ ， $\mathfrak { \eta } ^ { 2 } = 0 . 6 9$ $9 5 \% C [ = [ 3 . 4 0 , 6 . 3 3 ]$ 。但在共享测试是否开门的开门比例上，以组别为组间变量，以测试次数为组内变量的重复测量方差分析结果（网络版版附表38）显示，组间差异不显著 $F$ (2,29)$= 1 . 9 5$ $\scriptstyle p = 0 . 1 6 1$ ， $\mathfrak { n } ^ { 2 } { = } 0 . 1 2$ 。
+
+在开门营救和开门共享测验的开门用时(图 8h)上，以组别为组间变量，以测验次数为组内变量的重复测量方差分析和事后多重比较结果(网络版附表39\~42)显示，随着测试次数的增加，开门营救测验的用时为下降趋势, $F ( 2 , 6 6 ) { = } 6 . 0 3$ $\scriptstyle { p = 0 . 0 0 4 }$ ， $\eta ^ { 2 } { = } 0 . 1 5$ $9 5 \% C \mathrm { I } =$ [117.05, 258.29];而开门测验的用时为上升趋势, $F ( 2 , 6 6 ) { = } 4 . 6 0$ $p { = } 0 . 0 1 3$ ， $\mathfrak { n } ^ { 2 } { = } 0 . 1 2 2$ ,95%CI=[291.14,453.55]。由图 8h 可以看到，对照组的用时在第二次测试时皆出现与干预组相反的升降趋势。
+
+![](images/9be46f4cbcbb5420d6099966671010f9022d204adf9138d2fcd157fe92e8845d.jpg)  
+图9社会竞争测试图
+
+注：图9a,c是社会等级测试中的管道测试(改造自Fanetal.,2019)的结果和示意图。配对方式是以A、B、C、D笼(参见网络版附表2)为单位，大鼠进行同笼号不同组别间的1:1的不重复配对。图9a中获胜次数单只大鼠的获胜次数是0\~6次；图9b,d 是社会等级测试中的争食测试(参考Reid,M.W.，2011)结果和示意图。配对方式是 $\textcircled{1}$ 进行同笼争食前测，根据争到食物的时长将同笼内大鼠分编为"高”、“中”、“低"三等级; $\textcircled{2}$ 以A、B、C、D笼(参见附表2)为单位，将相同等级的3只不同干预组别的大鼠，放入实验笼中，共匹配出12 笼; $\textcircled{3}$ 进行组间争食测验，保证组间不同组别的同等级大鼠进行争食，避免主试间差异和田忌赛马式的等级测算误差。首测和复测前都进行了前测，因此，如果同笼争食等级出现改变，那么复测的具体大鼠配对就不与首测的完全一致。图9b 中，单只大鼠的等级计分方式是"争到食物时长最长"计3分、“争到食物时长第二长"计2分、“争到食物时长最短"计1分。统计图中的数据点表示平均数，误差线表示标准误。
+
+在管道测验(图9a,c)中，以组别为组间变量，测试阶段为组内变量进行重复测量方差分析和事后多重比较结果(网络版附表43,44)显示，在获胜次数上，消极组显著的少于对照组,$F ( 2 , 3 3 ) { = } 4 . 8 8$ $\scriptstyle { p = 0 . 0 1 4 }$ ， $\mathfrak { n } ^ { 2 } { = } 0 . 2 3$ $9 5 \% C [ = [ 2 . 5 1 , 3 . 4 9$ ]。将同笼号同等级的不同组别大鼠的获胜只数进行描述性统计(网络版附图 39a)显示，首测中高等级组中积极组6只获胜，中等级组对照组6只获胜，消极组则在三个等级组中只有1\~2只获胜。复测的高等级组中，组别差异有所减小，中、低等级组中对照获胜只数最多。在不同组别内的同笼管道测试的用时(网络版附图 39b)上，积极和消极首测的用时标准误较大，个体差异更明显，同时，消极组内首复测的重复测量方差分析结果显示，复测用时更短 $( F ( 1 , 1 1 ) { = } 5 . 6 7$ $\scriptstyle { p = 0 . 0 3 6 }$ $\mathfrak { n } ^ { 2 } { = } 0 . 3 4$ ,95%CI=[14.21,66.96])，积极组也有此倾向，但不显著 $( F ( 1 , 1 1 ) { = } 2 . 8 3$ $\scriptstyle { p = 0 . 1 2 0 }$ $\mathfrak { \eta } ^ { 2 } = 0 . 2 1$ ,95%CI=[5.48,56.61])。而对照的前后测稳定。
+
+在争食测验(图9b,d)中，以组别为组间变量，测试阶段为组内变量进行重复测量方差分析和事后多重比较结果(网络版附表45,46)显示，在争到食物时长的等级计分上，积极组显著多于消极组, $F ( 2 , 3 3 ) { = } 6 . 0 8$ $\scriptstyle { p = 0 . 0 0 6 }$ $\mathfrak { n } ^ { 2 } { = } 0 . 2 7$ ,95%CI=[1.82,2.18]。将同笼号同等级的不同组别大鼠的获胜(争到食物时间最长的大鼠)只数和进行描述性统计(网络版附图 39c)显示，在争食首测中积极组的获胜只数从高等级组到低等级组递减，消极组相反，对照则比较平均，即积极组更多在高等级组胜出，消极组则更多在低等级组中胜出。复测中，高等级组与首测相比比较稳定，而中低等级组之间的获胜只数存在一定的流动性。在不同组别内的同笼争食测试中(网络版附图 39d)，以不同等级大鼠争食时间差的描述性统计结果显示，积极组不同等级大鼠之间的等级区分度普遍更大；消极组高等级的大鼠与中、低等级大鼠的区分度更大；而对照组区分度普遍更小。
+
+# 4讨论
+
+# 4.1早期经历对情绪行为发展的影响
+
+积极早期经历的前9天的各项过程性指标都反应出大鼠对人、物、陌生鼠的互动适应和主动进行深度互动的行为发展过程。在情绪行为测验中，积极组在4种情境下的探索行为显著的多于消极组，反应出更快的适应和主动探索的行为发展差异，而消极组在消极早期经历中受到了不确定性的复合应激刺激，伴随各种应激的生理反应和挣扎的行为表现，因此，在情绪行为测试中也更多的出现长时间静止，反复试探和边缘探索等情绪发展不良的行为(管西婷等,2011;张慧会，张亮,2018; Repetti et al., 2002)。
+
+总体来说，在早期经历干预后，积极组表现出更好的对环境的适应；消极组表现出对环境更多的应激和探索抑制；对照组维持一般水平。
+
+# 4.2早期经历对学习行为发展的影响
+
+在学习行为测验中，积极组出现了更多的突破规则的主动学习行为，在整合性学习中表现出更多的对立体的垂直空间的探索，比如:上墙探索且通过上墙走短路径，其在社交偏好测试中，相比于其他组表现出更多的对物的探索偏向，可能是因为积极组在丰富环境刺激的早期经历中有更多的感官刺激体验和良性的互动经验(程黎等,2016)，同时，在非智力的个性心理特征上，表现出更低的状态焦虑，与超常儿童的家庭早期环境的影响结果一致(施建农,2006)。而消极组相比于空箱和陌生鼠更不偏好假鼠箱，表现出对"物"的排斥。可能是积极的丰富环境刺激中，积极鼠与"物"产生了更正性的互动，培养了探索"物"动机和兴趣；而消极的早期经历中，消极鼠总处于一个工具化的被动接受"物"的消极刺激的状态，因此其对"物"的反应也更为排斥。而从事研发工作的大部分人，首先要学会和物产生稳定而快乐的联结，并有意识的突破规则去探索，或许在早期经历中多一些积极的早期互动经历，可以帮助我们孕育更多的热爱探索的人才。
+
+高焦虑的情绪状态也会引发创造力抑制(Creswelletal.,2008)，伴随强烈的负性情绪唤起的丰富刺激经历，导致了消极组在部分学习任务中虽然表现较好，但由于过度的消极情绪唤起，干扰和抑制了学习行为的稳定性。例如：在开门学习任务中，较早学会开门的个案最多；但在新物体识别中出现了长时记忆上的遗忘，可能伴随有海马结构的改变；在整合性迷宫学习中，更多停留在起点区域(图7c)不出现探索行为；相关研究发现，复杂的坏境能够改善动物的脑功能，加强其在复杂的行为学测试中解决问题的能力(鲁利群，赵聪敏,2005)。对照组的行为表现在与干预组对比下印证了早期经历干预增加了大鼠的互动经验，促进了学习行为发展的解释。
+
+总体来说，在早期经历干预后，积极组表现出对新事物的自发、主动和突破规则的探索;  
+消极组学习行为反应性较强但发展不稳定，过度的消极情绪唤醒水平抑制和干扰了学习行为;  
+对照组没有丰富且积极的早期经历，学习行为发展更钝化，复杂的学习任务的行为表现更差。
+
+# 4.3早期经历对社会行为发展的影响
+
+在社会行为测试中，干预组的行为选择更易受到测试条件改变的调控，而对照组反应更迟钝。其中，在亲社会测试中，三组皆表现出在无利益冲突的条件（指开门营救测试）下的亲社会行为，但当存在明确的"食物"刺激的条件（指开门共享测试）下，干预组的行为选择更多的受"食物"刺激的调控，做出更快的拒绝开门，回避"食物"收益受损的行为，而对照组对社会规则反应更钝化，表现出变化较小的开门行为。原因可能是在早期经历干预中，主试对干预组的行为活动有更敏感的互动反馈行为。在积极组的早期经历互动干预过程中，主试会对大鼠的接触、探索和社交行为进行实时的关注和支持行为(Raby etal.,2015)，而在消极组中，主试同样对大鼠的探头、挣扎和顶盖行为进行了及时的反应和动作反馈，虽然对消极组大鼠缺乏积极的情感联结，但主试同样处于一种行为互动反应敏感的状态。而对照组则处于主试持续的忽视的状态，刺激环境也相对单调，其行为反应未接受到及时的互动反馈信息，也造成了其在学习和社会行为中的钝化。
+
+另外，在存在食物供给，但不存在"食物"收益受损威胁的分享测试中，积极组在30 分钟内基本可以稳定的静止在食盒前持续进食，而消极组不分享食物给对侧大鼠，但会频繁的接触挡板，反复嗅探挡板的缝隙，长时间的不能稳定的进食，亲社会行为的发出受到多种因素的影响，包括熟悉、自身压力(Bartal et al.,2014)。推测其对配合鼠存在更多的警惕或威胁感知，出现了稳定的应激生物反应模式(马良，陈燕惠,2011; Repetti et al.,2011)，在进行目标行为的过程中，同样受到了过度的消极情绪唤起的干扰。
+
+在竞争测试中，在有食物刺激的争食竞争中，积极组表现出更明显且稳定的目标导向，出现更主动且胜率更高的争食行为，以获得更多的"食物"收益。而在没有具体的奖赏刺激的管道竞争中，积极组只保持一般水平，对照组仍表现出较强的竞争行为，而消极组在争食中胜率多出现在低等级大鼠中，出现了整体的低社会等级状态。
+
+总体来说，在的早期经历干预后，积极组具备了灵活且正向（利他也自利）的社会规则反应能力，有明确的目标导向且伴随稳定情绪状态、一般水平的攻击性和较高竞争资源的能力;消极组与积极组一样，具备了敏感的社会规则反应能力，但过度的消极情绪唤醒水平干扰了社会互动过程中的目标行为，最不利的结果是导致了较低的社会竞争能力；对照组对社会规则的反应也更钝化，但仍可以在亲社会和竞争性的社会互动和情绪行为上维持一般水平。
+
+# 5结论
+
+(1）在时间尺度上，基于“人鼠互动"范式的早期经历干预会对大鼠的行为发展产生持续稳定作用，以及延续性的行为发展的影响；(2）丰富的早期经历本身即可提高大鼠对学习和社交规则的敏感性，早期经历匮乏会钝化学习和社交行为；(3）积极早期经历可以促进个体产生更多的对“物”的探索兴趣，产生更多突破规则的探索行为，并维持目标行为的稳定性；相比之下，消极早期经历容易造成消极情绪的过度唤起，抑制探索并干扰目标行为的维持。
+
+# 参考文献
+
+Adam,E.K.,Gunnar,M.R.,&Tanaka,A. (2Oo4).Adultattachment,parent emotion,andobserved parentingbehavior:
+
+Mediator and moderator models. Child development,75(1),110-122. Bartal,I. B.-A.,Decety,J.,& Mason,P. (2011).Empathyand pro-social behaviorinrats.Science,334(6061),1427 1430. Bartal,I.B.-A,Rodgers,D.A,ria,.S.B.,Decety,J.,&aso,P. (4).Prosocialbehavirinrats smolated by social experience. Elife,3,e01385. Bartal,I.B.-A.,han,H.,Molasky,N.M.,urray,T.M.,Williams,J.,DecetyJ.,& Mason,P. (26).Aniolytic treatment impairs helping behavior in rats. Frontiers in Psychology,7, 850. Berry,D.,Blair,C.,Ursache,A.,Willoughby,.,Gaet-Peters,P.Vernon-Feagans,L,Bratsch-Hnes,,ills Koonce,W.R.，& Granger, D.A. (2014). Child care and cortisol across early childhood: Context maters. Developmental Psychology,50(2),514. Birbeck,G.L.,Meyer,A.-C.,& Ogunniyi,A.(2015).Nervous system disorders across the life course inresourcelimited settings. Nature, 527(7578), S167-S171. Blair, C.,&Raver, C.C.(2012). Child development inthecontextof adversity: Experientialcanalizationof brain and behavior. American Psychologist, 67(4),309. Bowlby, J. (2oo8).A secure base: Parent-child atachment and healthy human development Basic books. Campbell,F.,Conti,G.,Heckman,J.J.,Moon,S.H.,Pinto,R.,Pungelo,E.,&Pan,Y.(2014).Earlychildhood investments substantially boost adult health. Science,343(6178),1478-1485. Cao,X.-M.,&Liu,X.-P. (2008).From Learned Helplessess,Learned Optimism to Positive Psychology: Seligman's Contributions on Psychology Development. Advances in Psychological Science,16(04), 562-566. [曹新美，刘翔平.(2008).从习得无助、习得乐观到积极心理学—Seligman 对心理学发展的贡献．心理科学 进展,04,562–566.] Carlo,G.,Mestre,M.V.,Samper,P.,Tur,A.,&Armenta,B.E. (20l1).The longitudinal relationsamong dimensions of parenting styles,sympathy,prosocial moral reasoning,and prosocial behaviors. International Journal of Behavioral Development,35(2),116-124. Chen,W., Wang,Y.,& Guo,B.-Y. (2O21).Unfinished instinct: Zing-yang Kuoandthe anti-instinct movement in China. Acta Psychologica Sinica,53(4),431-540. [陈巍，王勇，郭本禹.(2021).未完结的本能：郭任远与中国本能论战．心理学报,53(4),431-540.]
+
+development of supernormal children's creativity. Chinese Journal of Special Education,(11),32-37. [程黎，戴宏慈,Tordjman,S.，马骏，徐德芳.(2016).家庭早期环境对超常儿童创造力发展的影响探析．中国特 殊教育,(11),32-37.]
+
+Cowan, C.S., Callaghan, B.L., Kan, J. M.,&Richardson,R. (2016). The lasting impact of early-life adversityon individuals and their descendants: Potential mechanisms and hope for intervention. Genes,Brain and Behavior, 15(1), 155-168.   
+Creswell,C.,O'Connor, T. G.,& Brewin, C.R. (20o8).The impact of parents'expectations on parenting behaviour: An experimental investigation. Behavioural and Cognitive Psychotherapy,36(4), 483-490.   
+Darling,N.,& Steinberg,L.(2Ol7).Parenting style ascontext: An integrative model.In Interpersonal development (pp.161-170). Routledge.   
+Ding,L.-L.,He,S.-S., Zhou,Q., Xu, X.-J.,Tang,J.-H.,& Zhang,Y. (2016). Prospective study of home nurture environment on early childhood developmental quotients and social emotional development. Chinese Journal of Child Health Care, 24(9), 910-912+916.   
+[丁丽丽，何守森，周倩，徐小娟，唐敬海，张艳.(2016).家庭养育环境对儿童早期发育及情绪社会性发展的前 瞻性研究．中国儿童保健杂志,24(09),910-912+916.]   
+Domjan,M.,&Purdy,J.E.(1995).Animal research in psychology.More than meets the eyeofthe general psychology student.The American Psychologist,7(50).   
+Fan,Z.,Hong,Z.,Zhou,T.,Sheng,W.,&Hu,H.(O19).Usingthetube testo measure socialhierarchyin mice.Nature Protocols, 14(3).   
+Feldman,R. (2015).The adaptive human parental brain: Implications for children's social development.Trends in Neurosciences,38(6),387-399.   
+Gao, H.,Zhu,Y.-L.,Sun,M.-Y.,& Wei,Q. (2Oo5). Interventional effect ofcognition and sensory integrationtraining on children with learning difficulty. Chinese Journal of Clinical Rehabilitation,(2O),110-111.   
+[高华，祝英禄，孙梦月，秦伟.(2005).认知和感觉统合训练对学习困难儿童的干预作用．中国临床康复,(20), 110-111.]   
+Gottlieb, G. (2003). Probabilistic epigenesis of development. Handbook of developmental psychology, 3-17.   
+Gotlieb, G. (2010).Probabilistic epigenesis.Developmental Science,10(1),1-11.   
+Guan,X.-T.,Xie,X.,Luo,X.-M.,Shao,F.,&Wang,W.-W. (20l1).Adolescentsocial isolationandunpredictablestrs have different efects on emotional behaviors in adult rats.Chinese Journal of Nervous and Mental Diseases, 37(7), 406-409.
+
+[管西婷，谢希，罗晓敏，邵枫，王玮文.(2011).青少期社会隔离和不确定性应激对大鼠成年后情绪行为的影响.中国神经精神疾病杂志,37(7),406-409.]
+
+Jensen, A.C.,& Witeman,S.D.(2014).Parents’dierential treatmentandadolescents'delinquentbehaviors: Direct andindirect effects of difference-score and perception-based measures.Journal ofFamily Psychology,28(4),549.   
+Knapska,E.,Mikosz,M., Werka,T.,& Maren,S. (20lo). Social modulation of learning inrats.Learning& Memory, 17(1), 35-42.   
+Koenig,A.L., Ciccheti,D.,&Rogosch,F.A. (2004). Moraldevelopment: Theassociation betweenmaltreatment and young children's prosocial behaviors and moral transgressons. Social Development,13(1), 87-106.   
+Kuo, Z.-Y. (1976). The dynamics of behavior development: An epigenetic view. Plenum.   
+Li,L.-X.,Li,S.-S.,Yue,A.,Luo,R.-F,&Shi,Y.-J. (2o18).Analysisonthecorelationbetween familyparenting environment and infantile social-emotional development status in poor rural areas in southern Shaanxi Province. Maternal and Child Health Care of China,33(13),3052-3055.   
+[李岚溪，李珊珊，岳爱，罗仁福，史耀疆.(2018).陕西省南部贫困地区农村家庭养育环境与婴幼儿社会情绪发 展现状相关性分析．中国妇幼保健,33(013),3052-3055.]   
+Li,S.-B.,Zhang,W.-H.,&Hu, G.-L. (2018).Research onmice tailsuspend testbehavioral analysisarithmetic based on contour. Computer Technology and Development, 28(8), 6-11.   
+[李松柏，张卫华,& 胡光亮.(2018).基于轮廓的小鼠悬尾实验行为分析算法研究．计算机技术与发展,28(8), 6-11.]   
+Li,X.-J.,Lu,Z.-H.,Sun,Z.-R,&Gao,J.(O6).Efctsofenrichedenvironmentalstimulationobraindevelopent in cerebral palsy rats. Chinese Journal ofRehabilitation Medicine,21(12),1061-1064.   
+[李晓捷，吕智海，孙忠人，高晶.(2006).早期丰富环境刺激对脑瘫大鼠脑发育的影响．中国康复医学杂志,12, 1061-1064.]   
+Liu,D.,Diorio,J.,DayJ.C.,Francis,D.D,&eaney,M.J. (o).Materalcare,hippocampalsynaptogeeisand cognitive development in rats. Nature Neuroscience, 3(8),799-806.   
+Liu,W.,Xue,X., Xia,J.,Liu,J.,&Qi,Z.(2018).Swimming exercisereverses CUMS-inducedchanges indepressionlike behaviors and hippocampal plasticity-related proteins.Journal ofAffective Disorders,227,126-135.   
+Lu,L.-Q.,& Zhao,C.-M.(2005).Enriched environment and neuronal plasticity.Chinese Journal of Clinical Rehabilitation,9(16),141-143.   
+[鲁利群，赵聪敏.(2005).丰富环境与神经可塑性．中国临床康复,16,142-144.]   
+Lyton,H.,& Romney，D.M.(1991).Parents’ diferential socialization of boysand girls: A meta-analysis.   
+Ma,L.,&Chen,Y.-H. (2011).The influence ofearly environmenton neurobehavioral development and hypothalamus pituitary-adrenal axis. Chinese Journal ofChild Health Care,19(1),39-41.   
+[马良，陈燕惠.(2011)．早期环境对远期发育行为以及HPA 轴的影响．中国儿童保健杂志,19(1),39-41.]   
+Ma,W.-J.(1983). The historical contributionof Darwin's evolutionism to psychological science: a centenaryof Darwin's death.Acta Psychologica Sinica,03,294-300.   
+[马文驹.(1983).达尔文进化论对心理科学的历史贡献—纪念达尔文逝世一百周年．心理学报,03,294-300.]   
+Magnusson,D.(199).Holistic interactionism: Aperspectivefor research onpersonalitydevelopment.GuilfordPress.   
+McLaughlin,K.A.,Sheridan,M.A.,Tbu,F.,Fox,N.A.,Zeanah,C.H.,&Nelson,C.A. (2015).Causaleects ofthe early caregiving environment on development of stressresponse systems in children. Proceedings ofthe National Academy of Sciences, 112(18), 5637-5642.   
+Moore,C.L.,Wong,L.,Daum,M.C.,&Leclair,O. U. (1997). Mother-infant interactions in two strains of rats: Implications for dissociating mechanism and function of a maternal patern. Developmental Psychobiology: The Journal of the International Society for Developmental Psychobiology,30(4),301-312.   
+Ngai, S.S., Xie,L.,Ng,Y.,& Ngai,H. (2018).The effects of parenting behavioron prosocial behavior of Chinese adolescents in Hong Kong. Children and Youth Services Review,87,154-162.   
+Niwa,M.,Matsumoto,Y.,Mouri,A.,Ozaki,N.,&Nabeshima,T. (2o). Vulnerabilityinearly life tochanges in the rearing environment plays a crucial role in the aetiopathology of psychiatric disorders.International Journal of Neuropsychopharmacology,14(4),459-477.   
+O'Maley,D.,Dowd,D.Brungardt,H.,&Cox,K. (2O15).Changingthegameforpopulation health.Healthrgess, 96(2), 31.   
+Opendak,M.,Gould,E.,&Sulivan,R. (2017).Earlylifeadversityduring theinfantsensitive period forattachment: Programming of behavioral neurobiology of threat processing and social behavior. Developmental Cognitive Neuroscience,25,145-159.   
+Piaget,J. (2O03).Part I: Cognitive Development in Children-Piaget Development and Learning.Journal of Research in Science Teaching, 40.   
+Prinzie,P.,Stams,G.J.J.,Dekovic,M.,Reijntjes,A.H.,&Belsky,J. (2Oo9).The relations betweenparents’Big Five personality factors and parenting: A meta-analytic review. Journal of personality and social psychology, 97(2), 351.   
+Raby, K.L.,Roisman, G.I.,Fraley,R.C.,& Simpson,J.A. (2015). The enduring predictive significance of early
+
+maternal sensitivity: Social and academic competence through age 32 years. Child Development, 86(3),695-708.
+
+Reid,M.W. (2Ol1).A Novel Model for the Exploration of Social Status in the MaleLaboratory Rat: Isolation of Psychosocial Factorsand EffectsofEarly Environment [PhDThesis].UCBerkeley.
+
+Repeti，R.L.，Robles，T.F.，& Reynolds,B.(2011).Allostatic processes in the family.Development and Psychopathology,23(3),921-938.
+
+Repeti,R.L.,Taylor,S.E.,& Seeman,T.E.(2Oo2).Risky families: familysocial environments and the mental and physical health of offspring. Psychological Bulletin,128(2),330.   
+Riley,V.(1981).Psychoneuroendocrine influences on immunocompetenceand neoplasia.Science,212(4499),1100 1109.   
+Sanders,M.R. (1999).Triple P-Positive Parenting Program: Towards an empiricaly validated multilevel parenting and family support strategy for the prevention of behavior and emotional problems in children. Clinical Child and Family Psychology Review,2(2),71-90.   
+Sanders,M.R. (2012). Development, evaluation,and multinational dissemination of the Triple P-Positive Parenting Program. Annual Review of Clinical Psychology, 8,345-379.   
+Sang,B.,&Xi,J.-Z. (2005).A Studyon the Efect MechanismofFamily Ecosystems on Developmentof Children's Mental Health. Psychological Development and Education,21(1): 80-86.   
+[桑标，席居哲.(2005).家庭生态系统对儿童心理健康发展影响机制的研究．心理发展与教育,21(1),80-86.JShi, J. N. (2006). Study on Individual Differences with Intellectually Supernormal Samples. Advances in Psychological Science,14(4), 565-568.   
+[施建农.(2006)．以超常儿童为被试的个体差异研究．心理科学进展,14(4).]   
+Simola,N.,& Brudzynski,S.M. (2O18).Repertoireand biological function of ultrasonic vocalizations inadolescent and adult rats. In Handbook of Behavioral Neuroscience (Vol. 25,pp.177-186). Elsevier.   
+Slutsky,I,Abumaria,N., Wu,L.-J.,Huang,C.,Zhang,L.,Li,B.,Zhao,X.,Govindarajan,A.,Zhao,.-G.,Zuo,., & others. (2010). Enhancement of learning and memory by elevating brain magnesium. Neuron, 65(2),165-177.   
+Su,J.,& Su,Y. (2018).ATouch-Scaffolded ModelofHumanProsociality.Neuroscience &Biobehavioral Reviews,92.   
+Su,Y. (2007).Studies on Animal Individual Diferences to Personality Psychology: Contribution and Value.Advances in Psychological Science,15(02),260-266.   
+[苏彦捷;(2007).动物个体差异研究对人格心理学的贡献．心理科学进展,02,260-266.]   
+Tang.A.-M.. Deng.X.-L.Du. X.-X.& Wang.M.-7. (2018). Harsh narenting and adolescent denression: Mediation
+
+by negative self-cognition and moderation by peer acceptance. School Psychology International,39(1),22-37.
+
+Tao,J.-X.,Xia,M.,& Zhang,J.(2018).ACritical Review of the Literatureon the ImpactsofFamilyEcosystem on Children's Emotion Development. Early Childhood Education(Educational Sciences),36,30-32+44.   
+[陶嘉欣，夏梦，张晋.(2018).家庭生态系统对幼儿情绪发展的影响研究综述．幼儿教育,36,30-32+44.]   
+Taylor,Z.E.,Eisenberg,N.,Spinrad,T.L.,Eggum,N.D.,&Sulik,M.J. (213).Therelationsofego-resiliencyand emotion socialization to the development of empathy and prosocial behavior across early childhood. Emotion, 13(5), 822.   
+Triple P-Positive Parenting Program. (2019). In Ending the Physical Punishment ofChildren: A Guidefor Clinicians and Practitioners (p.133).American Psychological Association.   
+Tucker,C.J.,Sharp,E.H.,Van Gundy,K.T.，&Rebellon,C.(2018).Household chaos,hostile parenting,and adolescents’ wel-being two years later. Journal of Child and Family Studies,27(11),3701-3708.   
+vonEye,A.,&Bogat,G.A.(2o6).Person-orientedand variable-oriented research: Concepts,results,anddevelopment. Merrill-Palmer Quarterly (1982-),390-420.   
+Wolfer,D.P.,Litvin,O.Morf,S.,Nitsch,R.M.,Lipp,H.-P.,&Würbel,H.(2004).Cageenrichment andmouse behaviour. Nature,432(7019),821-822.   
+Woodcock，E.A.，& Richardson，R.(20oo).Effcts of multisensory environmental stimulation oncontextual conditioning in the developing rat. Neurobiology ofLearning and Memory, 74(2), 89-104.   
+Wu, Q., Shen,X.B.,&Fu,X.L. (2010).Micro-expresson and its applications.Advances in Psychological Science, 18(9),1359-1368.   
+[吴奇，申寻兵，傅小兰.(2010).微表情研究及其应用．心理科学进展,18(9),1359-1368.]   
+Yin,B.,Wu X.-R.,& Lian R. (2020).Ananimal behavioral model for the concept of"Integrative Learning".Acta Psychologica Sinica,52(11),1278-1287.   
+[尹彬，武晓睿，连榕.(2020).整合性学习观的动物行为模型探索．心理学报,52(11),1278-1287.]   
+Yu,D.-L.,& Yin, B. (2O21). The emotional meaning and measurement of ultrasonic vocalizations in laboratory rats. Bulletin of Biology,in press. [ChinaXiv:202105.00066]   
+[俞德霖，尹彬.(2021).实验室大鼠超声波的情绪意义与测量．生物学通报，出版中.[ChinaXiv:202105.00066].]   
+Zhang,H.-G.,Zhang,M.-M.,Ding,R.,Li,S.-X.,&Luo,W.-B.(2019)."Parentalbrain"network and itsinfluential factors.Advances in Psychological Science,27(6),1072-1084   
+[张火垠，张明明，丁瑞，李帅霞,& 罗文波.(2019).“养育脑"网络及其影响因素．心理科学进展, $\nu . 2 7 ;$ No.226(06),126-138.]   
+Zhang,H.-H.,& Zhang,L(2018).The effects ofearly life stress on emotion regulation and theunderlying mechanisms. Advances in Psychological Science,26(7),1193-1203.   
+[张慧会，张亮．(2018)．早期应激对情绪调节的影响及其神经机制．心理科学进展，26(07)，1193-1203.]   
+Zhang,L.-Y. (2003). A Comparative Psychological Approach On Personality. Advances in Psychological Science, 11(02),191-196.   
+[张利燕.(2003).个性的比较心理学研究．心理科学进展,02,191-196.]   
+Zhu,Q.-H.,Xie, W.-S.,&Sheng,T.-W. (2015).Aneffctiveness studyofthe traiing toolsofmicro expression(METT). Psychology: Techniques and Applications,(1),12-15.   
+[朱庆宏，谢威士，盛婷雯.(2015)．微表情训练工具(METT)对中国被试的有效性研究．心理技术与应用,(1),12-
+
+15.]
+
+（本文通讯作者：尹彬byin@fjnu.edu.cn）
+
+# 作者贡献声明：
+
+尹彬、武晓睿：提出研究命题，设计研究方案和实验范式  
+武晓睿：制作实验装置，规划场地布置  
+武晓睿、俞德霖、郑本汇源、陈亚勤、杨雯佳：进行研究，担任主试，采集、清洗和分析数据  
+俞德霖：分析和解释声波数据  
+武晓睿、尹彬：论文起草  
+尹彬：论文最终版本修订
+
+# 致谢：
+
+感谢余鑫虹、蔡思萍、张嘉伟、张慧、管庆丽、胡倩、张誉方、杨雨菲、杨舒涵、李泉贵、秦晓等人在前期预实验中担任主试角色的贡献，感谢唐咏恩、刘玉婷和管庆丽在正式实验中担任辅助主试角色的贡献。
+
+# Effects of early experiences on behavioral development: an experimental study based on a "human-rat interaction paradigm'
+
+# Abstract
+
+Cultivating the next generation of sound emotional, cognitive and socio-behavioral development is fundamental to human civilization,and the impact of early experiences cannot be ignored from the point of view ofprobabilistic epigenesis.This study aims to investigate the causal relationship between early experiences and later behavioral development based on a novel experimental model termed the “human-rat interaction paradigm” (HRIP).
+
+Thirty-six one-month-old male Sprague-Dawley rats were selected as subjects. Based on the HRIP, three groups (Positive early experiences (PEE) /Negative early experiences (NEE) / Control) were intervened for 3 weeks,and the effects of the manipulation of early experiences on behavioral development were tested through a battery of behavioral paradigms.
+
+The results showed that: 1) During the emotional behavior tests, compared with the other two   
+groups,the PEE group was more active in the open arm of the O-maze, more active in the center area   
+of the open field,ate faster in the new and familiar environment,and had less hesitation to adapt to   
+and utilize the new learning device.2) During the learning behavior tests,the PEE group showed most 25
+
+rule-breaking exploratory behavior in the integrated-learning maze; while the majority of the NEE group learned to open the gate during the early stage ofprocedural learning, the firmness of their longterm memory was the lowest during the new object recognition task; the control group was overall passive during the whole series of learning behavior tests.3) During the social behavior tests,the PEE group showed the most interests towards the toy rat, while the NEE group showed the most aversion towards the toy rat. At the same time, while all groups preferred a real rat to a toy rat,only the intervention groups (both PEE and NEE) showed clear preference in interacting with a real stranger rat to a real familiar rat. Moreover, during the empathy and pro-social behavioral tests,when there were no food rewards, all three groups of rats generally would open the gate to rescue the entrapped rat,and after multiple trials their latency to rescue became shorter and shorter; however, when there were food rewards to be shared with the entrapped rat, both the PEE and NEE groups were less likely to open the gate,and after multiple trials, their latency to rescue became longer and longer. When the entrapped rat was unable to reach the food reward without the subject's active sharing,the NEE group showed much more frequent behavior of feding interruption and vigilant sniffing, possibly for fear of losing the food to the entrapped rat.4) During the social competition tests,when there were no food rewards in the tube test,the control group had the highest success rate; when there were food rewards to be competed for,the PEE group had the highest success rate.At the same time,the degree of social rank differentiation was smallest in the control group and largest in the PEE group. The NEE group showed clear differentiation between the high-rank individual and the middle/low-ranked individual. The success rate of the NEE group was overall the lowest during the inter-group social competition tests.
+
+We arrived at the following conclusions: 1) On the long run, the early experience intervention based on the HRIP willhave sustained and stable effects on the behavioral development.2) Rich early experiences can improve the sensitivity to learning and social rules.Lack of early experiences can passivate learning and social behavior.3) Positive early experience can promote the individual to have more interests in exploring "objects", produce more rule-breaking exploratory behavior and maintain the stability of goal behavior; in contrast, negative early experience can cause excessve arousal of negative emotions, inhibit exploration and interfere with the maintenance of goal behavior.
+
+Keywords early experience; behavioral development; human-rat interaction paradigm; probabilistic epigenesis;holistic interactionism.
+
+附录：
+
+# 《早期经历对行为发展的影响：基于人鼠互动范式》
+
+# 支持材料（Supporting Materials）
+
+# 支持材料目录
+
+S1有关研究细节 .28  
+S1.1早期经历控制处理 ...28  
+S1.1.1 主试控制变量前测问卷和测试程序. ..28  
+S1.1.2实验程序细节 .28  
+36  
+S1.1.3早期经历干预材料使用和设施配置 ..29  
+S1.1.4 单次早期经历干预操作流程， ...31  
+S1.1.5 积极早期经历内容设计和操作规范.. ...32  
+S1.1.6 消极早期经历内容设计和操作规范.. ...34  
+S1.1.7行为测试总流程 ..35  
+S1.1.7早期经历过程的指标控制处理.. ...36  
+S1.2 测验内容设计和材料 .38  
+S1.2.1情绪行为测试... ...38  
+S1.2.2 学习行为测试.. ..41  
+S1.2.3社会行为测验 ..48  
+S1.3 技术手段和辅助分析软件... ...54  
+S1.3.1尾标标记， ..54  
+S1.3.2 声波分析 ..54  
+S1.3.3动物行为分析系统.. ....56  
+S2 实验结果分析表格及附图 ....57  
+S2.1研究原始数据... .57  
+S2.2主试前测图表.. ...58  
+S2.3大鼠日常养护数据图表 .58  
+S2.4早期经历干预过程性特征图表 ...59  
+S2.4.1积极早期经历.. ...59  
+S2.4.2 消极早期经历. ....61  
+S2.4.3 糖水后测. ...61  
+S2.5行为发展水平测试， ...62  
+S2.5.1情绪行为测试图表 ...62  
+S2.5.2学习行为测试图表 ..64  
+S2.5.3社会行为测试图表. ....6  
+S3 控制和对照实验测试结果补充 .....73  
+S3.1早期经历干预阶段的主试评估与报告 ....73  
+S3.1.1观察主试对互动主试的主观评估.. ..73  
+S3.1.2互动主试全程干预结束后对大鼠的行为发展预测和主观报告.. ....7  
+S3.2 早期经历干预阶段补充结果 ..81  
+S3.2.1触摸互动声波补充结果， ....81  
+S3.2.2 消极早期经历排尿情况补充结果. .....82  
+S3.3 测试阶段补充结果 ....82  
+S3.3.1旷场测试补充结果.. ....82  
+S3.3.2整合性学习补充结果 ...83  
+S3.3.3社交偏好测试补充结果 ...84  
+S3.3.5社会等级测试补充结果. ..86
+
+# S1有关研究细节
+
+# S1.1早期经历控制处理
+
+# S1.1.1主试控制变量前测问卷和测试程序
+
+主试控制变量前测问卷和测试程序可从如下链接下载。链接：https://pan.baidu.com/s/1jDaaPlpY66H5u2nu45R3Ng提取码：ybxr
+
+# S1.1.2实验程序细节
+
+1．进行多批(15只积极早期经历干预的内容检验，45只为期半年的低控制早期经历干预观察，18只尝试性的2周早期经历干预和一系列测试内容设计和购置）的早期经历干预和行为测试的预实验。对主试进行一系列的人口学变量、动物接触经验和接纳度、人格测评、耐心和观察力测试，并协调确定3周统一的早期经历时间段，明确报酬和规则。对主试进一步进行早期经历理论、场地、内容、流程、防护等的介绍，后分2批进行模拟流程操作和观察记录表填写说明。对缺乏接触大鼠经验的主试被提前安排与往期大鼠进行不限时次的接触互动，并给予操作指导;
+
+2．购置48只一月龄雄性 SD大鼠，到达当日对大鼠进行尾标标记，随机分笼和对应主试信息标记，标记后适应3天。然后，将36只实验鼠移至早期经历干预的养护区，进行为期一周的对物理环境，实验人员和笼内同伴环境适应，定时观测大鼠体重和饮水量，对个别体重下降的大鼠进行湿粮喂养，并配合糖水饮用，保证大鼠体重处于正常且稳定的增长状态后进入早期经历干预阶段；
+
+3.进行为期3周的人鼠互动式早期经历干预。在早期经历干预前，4名早期经历主试(配备2名替补)做好防护后，对大鼠进行称重和钻管适应，2名早期经历助手引导操作流程；在早期经历干预时,4名主试同时开始，与大鼠进行互动。积极区的早期经历主试在早期经历开始前，需进行10分钟静坐和10 分钟冥想干预，早期经历主试可进行规则范围内的自主创设和选择顺应大鼠进程的互动方式，观察大鼠行为反应和总体特征，由助手提示结束时间，录制触摸互动的声波；消极区的早期经历主试则只按规程操作，自行使用秒表记时，并记录排泄和固定的特征行为指标,2名早期经历助手分别在积极区和消极区评估和记录早期经历主试和大鼠的互动情况，并与研究员协调视频录制打卡和场地轮换工作；在早期经历干预后，对大鼠进行糖水偏好后测，喂食。备份和编码原始视频，整理手动记录数据，进行积极早期经历分享总结，主试撰写早期经历日志(以对积极早期经历的观察和体验为主)，助手撰写评估简报;
+
+4．早期经历结束后，转移大鼠至动物行为测验的实验室，进行一系列的情绪、学习和社会性行为测试，进行实时的手动观察记录，对每日视频进行裁剪存根，并进行系统和手动分析；
+
+5．使用EthovisionXT动物行为分析系统编码行为测试视频、使用Matlab及DeepSqueaktoolbox 插件编码声波数据、通过复看备份视频和主试观察记录表二次编码早期经历的过程性特征行为、SPSS,Graphpad Prism 进行数据分析和图表绘制。
+
+# S1.1.3早期经历干预材料使用和设施配置
+
+动物房隔音、控光、控温，并配备8个摄像头机位，1个中央控制台和延时供电设备，5个移动硬盘，3个2B接口的U盘，1个DV，1个温湿度仪表盘，1个噪声测试器，医用急救包。
+
+积极早期经历区配备触摸互动辅助用具（见附图1，另有2台笔记本电脑分别连接2个声波录制装置，2个头戴式耳机），橡胶手套，无纺布和酒精等；丰富环境辅助用具（见附图2，另有多种类的花茶为嗅觉和味觉刺激的备用补充刺激、颜色标记笔）；异笼联谊辅助用具（见附图3，另有颜色标记笔)
+
+![](images/8ee900beddbe4552f3b0d2cbc7a5c58d05a2e9a3e72f1ab9479fc412ad176862.jpg)  
+附图1积极-触摸互动场地配置
+
+![](images/82ac9682f33488c5837c54fc4af8c0d3b80d9d8b45ff50f96ece8b0491bc5cf8.jpg)  
+附图2积极-丰富环境刺激场地配置
+
+注：左图为1\~9天丰富环境刺激分区时的排布方式；右图为10\~21天对分区进行整合和打乱后的排布方式示例。
+
+![](images/d3839496f947981e83fd6182afa7cc938d622466b6188afbbb2a3c5e42b8945f.jpg)  
+附图3积极-异笼联谊场地配置
+
+注：左图为联谊的场地，右上图为1\~9天前5分钟大鼠探索支持时的示例；右下图为1\~21天异笼互动式的示例。
+
+消极早期经历区配备强迫游泳辅助用具（小冰箱和冰袋，温度计，漏勺，鹿皮毛巾，擦地毛巾，带支架吹风机，空笼子），限制自由辅助用具（隔音棉、薄荷叶、猫毛、猫叫音频）、2 个折叠凳、2个榻榻米座椅，加厚手套，无纺布和酒精等。
+
+![](images/9e4a285058e6513b0ff0b9a2013cd75f9a47c698827bb92122c39f7ec7434968.jpg)  
+附图4消极一干预项目场地配置
+
+# S1.1.4单次早期经历干预操作流程
+
+(1)2 名观察主试在早期经历开始前安排互动主试将随身物品皆放置在固定安放点（2 名观察主试允许携带静音手机进行沟通事宜，例如：视频录制打卡、项目进度、操作规范、场地轮换、特殊情况等确认工作）。观察主试先进入当日负责早期经历区，调试好摄像头，固定项目装置与摄像头位置，做好通道标识和座位标识，检查项目装置是否复位，调试好声波录制软件和声波录制装置，调试好不同早期经历区的光照强度，记录温湿度等信息，根据流程表统一填写每个主试观察记录表上的任务顺序信息，对最终布场的实验区进行清点。对录像装置、场地布置和所需耗材进行清点，根据流程安排表告知每个早期经历主试当天的早期经历项目顺序和流程;
+
+(2)每天固定时间区间内，进行总计3小时左右的早期经历干预。4名互动主试先进入动物养护区对所属大鼠进行体重、饮水量记录，并在拿出大鼠称重后，让大鼠进行一过性的钻管适应。当日优先进行消极互动的主试携带对应消极组大鼠进入消极区更换消极区防护服。当日优先进行积极早期经历的主试携带对应积极组大鼠进入积极早期经历区无需更换防护服（第一轮早期经历结束后，主试互换场地并更换防护服）。2名主试先进行积极早期经历干预，2名主试先进行消极早期经历干预;
+
+(3)人鼠配对确认后，积极早期经历区的2名早期经历主试需先进行静坐和冥想（冥想内容详见附录），后进行与单只大鼠的触摸互动。然后，1名主试先带大鼠进行丰富环境刺激项目，同时，另1名主试则带大鼠进行异笼联谊（联谊大鼠配对方式固定：积极A-C组大鼠配对联谊；积极B-D组大鼠配对联谊）。结束后，2名主试互换场地，带大鼠进行剩余的一项项目的早期经历干预。全部项目结束后，等待换场；消极早期经历区的2名早期经历主试先同时进行单只的强迫旋转项目，后1名主试先进行限制自由伴随恐惧/厌恶刺激的项目，另一名主试进行强迫游泳/悬尾项目。结束后。2名主试互换座位，带大鼠进行剩余的一项项目的早期经历干预。全部项目结束后，清理和复原消极早期经历用具，在消极早期经历区外进行静坐，等待换场;
+
+(4)第一轮单个组别的早期经历干预结束后，不同早期经历区的早期经历主试换场，完成第二轮另一组别的配对大鼠的早期经历项目。换场前早期经历主试需进行2次消毒，更换防护手套以及穿戴对应早期经历区的实验服;
+
+(5)在早期经历互动干预后，互动主试交还秒表、手卡和观察记录表，将大鼠放回养护区，清理和复原早期经历区，处理实验垃圾，早期经历人员消毒后离开早期经历区。同时，观察主试制备 $1 5 \%$ 浓度的糖水，对每笼实验鼠进行5min的糖水测试。后对大鼠进行每只 $2 0 \mathrm { g }$ 的喂食，恢复光照循环;
+
+(6)最后，拷贝当日原始视频，转换为标准格式存入移动硬盘。观察主试组织互动主试在会议室，进行 $1 0 \mathrm { { m i n } }$ 的总结分享，1名观察主试使用DV将分享过程录制存根，并将当日及时的观察主试的观察日志存根，总结分享结束后，打开储藏室，拿取随身物品，结束当日早期经历任务。互动主试在下一次早期经历开始前，撰写完成观察日志，并提交存根。
+
+# S1.1.5积极早期经历内容设计和操作规范
+
+一、积极早期经历前早期经历主试任务（ $2 0 \mathrm { { m i n } }$ 静坐、冥想）
+
+积极早期经历区早期经历主试进行10min的静坐和 $1 0 \mathrm { { m i n } }$ 的冥想（可躺卧在榻榻米座椅上—靠背斜度可调节），冥想时使用头戴式耳机。冥想材料选用“呼吸冥想"APP 中的陈鸿宇《轻松·冥想情绪包》，其中包括6个项目，分别是1、缓解压力（时长：08:27）；2、平复情绪（时长：09:07）；3、加强身心联结（时长：10:15）；4、自我觉察（时长：08:37）；5、认识负能量（时长：09:47）；6、入睡前的放松（时长：11:03）。主试可根据当日需求进行自主选择。
+
+# 二、触摸互动（ $1 0 \mathrm { { m i n } / \Omega }$ 只—母/父爱关怀，安全感建立）：
+
+1、确认声波，保证录到有效声波；
+
+2、使用小号笼将单只大鼠拿出，然后将原饲养笼盖关严；
+
+3、对着固定机位的摄像头进行手卡示意，确认摄像画面完整后开始触摸互动;4、触摸互动过程中，可使用毛质丝刷，也可以使用手直接触摸。期间，不去打断大鼠在  
+身上的攀爬和嗅探行为。主试可以通过观察大鼠的行为状态进行原则范围内的自主选择，顺应  
+大鼠的适应进程，进行适宜的触摸和保护行为;5、单只结束后及时填写观察记录表，防止混淆和遗忘，然后，进行第二只的互动;6、整笼结束后，将笼关严，移动至当天实验顺序对应的区域，并将毛刷，酒精放置在榻  
+榻米坐垫上，不要乱丢，清理好屎尿并用酒精喷洒。  
+三、丰富环境刺激(1\~9 天: $1 5 \mathrm { m i n } / 3$ 只;10\~21 天: $2 0 \mathrm { { m i n } } / 3$ 只—丰富环境刺激，规则意识和自由  
+探索):1、将大鼠靠墙放置，使用记号笔在A，B 组大鼠在头部做原点标记，C,D 组大鼠在背尾  
+部做标记（按号数大小依次标：红、黑、蓝）；2、对着固定机位的摄像头进行手卡示意，确认摄像画面完整后开始丰富环境刺激，从运  
+动区一侧角轻轻放入，保证其接触地面后放手（抓握姿势：从背部头朝前单手抓入，触地后放  
+手）；3、期间，大鼠出现爬墙行为，及时抓起将其重新放入地面，但也不可扔回地面;4、期间，大鼠出现"持续5s 以上"啃咬物件的行为，主试将啃咬物件拿出区域，等其离开  
+后重新放在原地；5、丰富环境刺激结束后，主试带脚套进入区域，判断大鼠运动方向后，顺势将大鼠抓起，  
+进行简单的3下触摸，隔着挡板放入外面的笼中，每放一只，都需保证笼子属于关严状态;6、结束后，对大鼠停留较多及撒尿的地方进行酒精喷洒，使用无纺布清洁大鼠的排泄物，  
+复原刺激物的位置。  
+四、异笼联谊(1\~9天： $5 \mathrm { m i n } / 3$ 只—探索支持 $+ 1 0 \mathrm { m i n } / 3$ 只(2 次/天：A-C 积极组联谊;B-D 积极组  
+联谊)—异笼联谊； $^ { 1 0 \sim 2 1 }$ 天： $1 0 \mathrm { m i n } / 3$ 只（2次/天:A-C 积极组联谊;B-D 积极组联谊）一异笼  
+联谊):1、先将匹配的积极组大鼠放入社交区右侧（靠近饲养架1侧），后将自己的大鼠和笼子  
+（闭合的笼子）放入社交区左侧，对着固定机位的摄像头进行手卡示意，确认摄像画面完整后  
+开始异笼联谊;2、1\~9天的前 5min 对自己的大鼠进行探索支持。探索支持时，互动主试可使用笼盖或梯  
+子辅助大鼠爬出笼子;3、1\~9天后 $1 0 \mathrm { { m i n } }$ 或 10\~21天的 $1 0 \mathrm { { m i n } }$ ，“匹配组大鼠的笼盖"在自己的大鼠未主动出笼  
+前不打开。主试根据观察，决定配对笼的打开天数和打开的时间，阶段后期，大鼠出笼时间缩  
+短，可对应的提前打开笼盖；4、干预异笼联谊时，保持温和（动作要轻柔，不发出过大的响动）、耐心（不出笼、静  
+止和追逐行为时，不将手深入大鼠活动区进行干扰，也不频繁的调整爬梯和笼盖等辅助物体)  
+和持续的关注（观察记录大鼠的特征行为和总体行为风格），不对匹配组进行消极惩罚；5、自然互动后不进行干预，及时填写大鼠出笼时间信息及观察记录表信息;6、结束后，使用无纺布和酒精进行清洁。
+
+# S1.1.6消极早期经历内容设计和操作规范
+
+# 、强迫旋转（ $1 0 \mathrm { { m i n } / \Omega }$ 只一压力和应激）：
+
+1、观察主试更换消极早期经历区实验服，穿戴加厚手套，确认好好酒精，无纺布，垃圾桶的位置。对着固定机位的摄像头进行手卡示意，确认摄像画面完整后开始强迫旋转；
+
+2、使用秒表自行计时，每2.5分钟换一只手进行反向旋转（顺序：顺时针-右手；逆时针-左手，顺时针-右手；逆时针-左手），转速可高低浮动;3、当大鼠有"很高"的旋出风险时，可停止旋转，用手调整其位置后继续旋转；4、结束后，将大鼠放入笼中，将笼关严，记录生理指标，填写观察记录表，清洁转轮，换下一只大鼠。
+
+# 二、悬尾或强迫游泳(6min/只—工具化和习得性无助)：
+
+$\textcircled{1}$ 强迫游泳
+
+1、勿随意转动摄像机，勿随意移动水桶，实验前对着固定机位的摄像头进行手卡示意，  
+确认摄像画面完整后开始强迫游泳;2、每只大鼠实验前使用温度计测量并记录水温，保证其处于 20 度以下（15—21度时方  
+可进行实验，否则，需放入冰块进行降温，确保降温到规定温度，开始实验），水量为桶高的  
+一半左右，桶内直径 $3 0 \mathrm { c m }$ ，确保大鼠活动范围受限，且无法爬出;3、将大鼠放入近水面位置后松手，时长在6min左右浮动，期间，填写观察记录表，记录  
+其挣扎程度，结束后，使用大号漏勺将大鼠捞出;4、观察主试使用双手垫着鹿皮毛巾滚动擦拭大鼠，不与大鼠进行过多接触性互动，切勿  
+将大鼠放在腿上和胳膊上进行抚摸或体温保暖。然后，将大鼠放入小笼中，使用吹风机热风（固  
+定在支架上）进行自动（非人工）吹干，约3min 可干，后将其放入原笼中;5、使用无纺布擦干内桶壁水平线以上溅起的水花，确保下一只的视频录制清晰，使用小
+
+号的漏勺将水中的排泄物捞出后，测量温度，放入下一只进行实验，每一轮更换用水。
+
+$\textcircled{2}$ 悬尾 $( 6 \mathrm { m i n } /$ 只—工具化和习得性无助)
+
+1、确认带好加厚手套，勿随意转动摄像机，对着固定机位的摄像头进行手卡示意，确认摄像画面完整后开始悬尾;  
+2、悬尾大鼠时，抓握大鼠尾巴根部，防止大鼠受伤，不对其进行旋转动作(但有时大鼠会自发进行旋转，此时也不需干预其保持静止);  
+3、主试坐立悬尾时需保持手的高度不高于肩膀。如果手的高度高于肩膀，需要站立进行实验。保证大鼠在悬尾时，水平面上没有可攀爬的支点；  
+4、对大鼠的翻身、抓握等挣扎行为进行反应，具体操作是用另一只手剥离或拍动大鼠的前爪，勿甩动大鼠，时长在6min左右浮动;  
+5、实验结束后，及时记录生理指标和挣扎程度；  
+6、清洁实验区域，使用酒精无纺布进行清洁后换下一只进行实验。
+
+# 三、限制自由 $+$ 恐惧/厌恶刺激（6min/3只—社会隔离和恐惧/厌恶）
+
+1、对着固定机位的摄像头进行手卡示意，确认摄像画面完整后，将手卡摆在对应序号的大鼠限制器下方，避免混淆；  
+2、将大鼠单只依次装入限制器中，放在在黑色亚克力板或有隔音棉的箱子中，将猫毛、薄荷叶或猫叫音频放在限制器上方箱子中(每次的限制自由项目中的刺激物会有变化，保持不确定性);  
+3、开始时，将盖子半开，记录是否顶盖，一分钟后将盖子关严；  
+4、开盖后，记录开限制器后的状态和大鼠的屎尿情况；  
+5、将猫毛拿出，清洁限制器，喷洒酒精，擦拭干水分。
+
+# S1.1.7行为测试总流程
+
+首先，在大鼠刚从“人鼠互动"的房间转至行为测试实验室的时间段，我们首先进行了一次性的，较为集中的高架O迷宫、新异和熟悉环境进食和旷场测试的施测，最大程度的保留了测试项目的敏感性，降低大鼠由于长时间的环境适应的干扰而造成情绪行为测试中不同组别的行为趋同，更好的反应大鼠对新环境的适应性水平；
+
+进而，学习行为测试的内容安排在大鼠经过情绪行为测试后，基本适应了通用测试箱后进行，控制了由于适应不良引起的情绪行为对观察学习行为表现产生的干扰，更直接的反应大鼠的学习行为本身的差异；
+
+然后，利用学习行为中习得的"开门"技能，我们进行一系列的社会性行为中的亲社会互动行为测试，排除能力因素（能不能“开门"）对做出亲社会行为的阻碍和干扰，进而更明确的探讨其动机和认知上"想不想"和"会不会"开门的过程性特征行为和是否开门的行为结果上的差异，更直接的观察不同组别大鼠的亲社会行为以及互通过程中的特征行为反应出的不同的对社会规则的敏感性差异;
+
+同时，社会行为测试中，我们对社会等级进行了首测和复测设置，可以监控不同早期经历方式对社会等级形成进程的影响和时间上的稳定性，同时，我们在早期经历干预阶段对大鼠进行了跟踪性的糖水测试后测，一方面监控大鼠的行为处于正常状态（非病理上的异常状态），同时，也可对不同组别笼内大鼠的争饮糖水行为反应出的笼内社会等级环境进行监控。
+
+# S1.1.7早期经历过程的指标控制处理
+
+附表1不同早期经历干预对比  
+
+<html><body><table><tr><td colspan="5">积极干预</td></tr><tr><td></td><td>情绪</td><td>认知</td><td>社会性</td><td>情绪</td><td>认知</td><td>社会性</td></tr><tr><td>项目</td><td>触摸互动</td><td>丰富环境刺激</td><td>异笼联谊</td><td>强迫旋转</td><td></td><td>强迫游泳/悬尾 限制自由+恐惧/</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>厌恶刺激</td></tr><tr><td>性质 互动模式</td><td>安全和信任</td><td>主动积极</td><td>社交支持</td><td>压力和应激</td><td>被动消极</td><td>社交抑制</td></tr><tr><td></td><td>人-鼠互动</td><td>鼠-物互动</td><td>鼠-鼠互动</td><td>工具人-鼠互动</td><td>物-鼠互动</td><td>威胁-鼠互动</td></tr><tr><td>单只/多只</td><td>单只</td><td>3只同时</td><td>6只同时</td><td>单只</td><td>单只</td><td>3只同时</td></tr><tr><td>试操作原则</td><td>项目设置和主①营造安全感的环境；②创设有趣的卷入①低自主性，高流程化的互动模式；②维持内</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>式的学习环境；③给予温和而坚定的一致 容不确定和刺激强度；③第三方监督和干预;</td><td></td></tr><tr><td rowspan="5">早期经历</td><td></td><td></td><td></td><td></td><td>性支持；④维持合理的期待；③自己管好 ④减少非必要的接触和关注；③弱化和忽视情</td><td></td></tr><tr><td></td><td>自己。</td><td></td><td></td><td>感联结。</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>感受父/母爱 主动积极的自 获得社交探索 产生慢性压力感受习得性无 承受社交抑制，</td><td></td></tr><tr><td></td><td>关怀，建立由探索整合且支持，积累成</td><td></td><td>和应激感受</td><td></td><td>助和工具化的接受恐惧/厌恶</td></tr><tr><td>安全感</td><td>变化的丰富环 长性的社会互</td><td></td><td></td><td></td><td>不确定的被动刺激，积累不良</td></tr><tr><td></td><td></td><td>境</td><td>动经验</td><td></td><td>消极的刺激环 社会互动经验。</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>境</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="6"></td><td></td></tr></table></body></html>
+
+注：早期经历任务和"情绪”、“认知"和"社会性"的关系只是基于参考文献进行的偏向性的对应，并不是绝对的1:1的对应关系。
+
+特主试 惧/厌恶刺激 限制自由+恐 强迫游泳/悬尾 强迫旋转 异笼联谊 丰富环境刺激 触摸互动主前会：主试物和好程卷人格间卷任务完成准确率和耐心测试观察力测试 指标：记录特征行为、屎尿情况 1-21天:10分钟/只/次 指标：大鼠（味得新技能） 1-9天:15分钟/3只/次；10-21天:20分钟/3只/欣 指标：大鼠声波 (警报和愉悦声波记录) 1\~21天:10分钟/只伙
+
+糖水测试(早期经历干预结束后-15%浓度糖水)
+
+$1 5 \%$ 浓度的的糖水后测使用太古白砂糖和纯净水调配，把饲养笼（熟悉环境）放在摄像头
+
+下进行记录和存根。
+
+# S1.2测验内容设计和材料
+
+# S1.2.1情绪行为测试
+
+测验内容1：O迷宫
+
+测验用时：定时6min
+
+测验指标：观察大鼠在开放臂的停留时间、进入开放臂的次数，评估大鼠探索危险区域的情绪状态和主动性。
+
+操作流程：1.大鼠测试前一天正常进食，喂食 $2 0 \mathrm { g }$ 每只，处于非饥饿状态；
+
+2.将大鼠从开放臂和闭合臂的交界处，且头部朝向开放臂放入；
+
+3.大鼠在O迷宫上自由活动6min后结束测试；
+
+4.主试对O迷宫进行清洁后放入下一只大鼠进行施测，施测顺序为"对照-积极-消极"循环， 每只大鼠测试一次;
+
+5.使用EthoVisionXT14对动物行为进行编码，使用Graph pad 和 SPSS 进行绘图和数据分析。
+
+![](images/e8a611b7050306e85110b5ab8c9521f80a20fbdaea7b0194b0419ae94900ab37.jpg)  
+附图6O迷宫EthovisionXT分析平台区域设置和批量分析流程图
+
+测验内容2：新异和熟悉环境进食
+
+测验用时：限时 $1 0 \mathrm { { m i n } }$ ，吃到食物即终止测试
+
+测验指标：记录大鼠在熟悉和新异环境下开始进食的潜伏期，评估大鼠对新异环境的适应速度和进食焦虑水平。
+
+操作流程：1.大鼠在测试前一天不喂食，使其处于饥饿状态;
+
+2．将大鼠从右下方放入中心放有食盒的新异旷场箱中，观察其探索行为，填写观察记录表；
+
+3．限时 $1 0 \mathrm { { m i n } }$ ，大鼠吃到食物则停止计时，待大鼠吃完食物将大鼠取出，结束新异环境进食测试;
+
+4．新异环境测试单只结束后，将大鼠放入平常生活的笼中，进行熟悉环境进食测试;
+
+5．主试对旷场进行清洁后放入下一只大鼠进行施测，施测顺序为"对照-积极-消极"循环，每只大鼠测试一次，3个通道同时进行；
+
+6．使用Graph pad 和 SPSS 进行绘图和数据分析。
+
+附图7新异环境进食观察记录表  
+
+<html><body><table><tr><td colspan="8">新环境进食记录表</td></tr><tr><td colspan="2">通道 (左) 日期：</td><td colspan="3">温湿度： 主试姓名：</td><td colspan="3">手卡顺序是否排好？</td></tr><tr><td colspan="2"></td><td colspan="7">旷场箱中进食行为记录</td></tr><tr><td></td><td></td><td colspan="2">开始时间</td><td>结束时间</td><td>是否吃到食物</td><td>吃到食物用时（请填写</td><td>是否在原地吃</td></tr><tr><td>A对照</td><td>1</td><td>时 分</td><td>秒</td><td>时 分 秒</td><td></td><td></td><td></td></tr><tr><td>A积极</td><td>1</td><td>时</td><td>分 秒</td><td>时 分 秒</td><td></td><td></td><td></td></tr><tr><td>A消极</td><td>1</td><td>时</td><td>分 秒</td><td>时 分 秒</td><td></td><td></td><td></td></tr><tr><td>B对照</td><td>4</td><td>时</td><td>分 秒</td><td>时 分 秒</td><td></td><td></td><td></td></tr><tr><td>B积极</td><td>4</td><td>时</td><td>分 秒</td><td>时 分 秒</td><td></td><td></td><td></td></tr><tr><td>B消极</td><td>4</td><td>时</td><td>分 秒</td><td>时 分 秒</td><td></td><td></td><td></td></tr><tr><td>C对照</td><td>7</td><td>时</td><td>分 秒</td><td>时 分 秒</td><td></td><td></td><td></td></tr><tr><td>C积极</td><td>7</td><td>时</td><td>分 秒</td><td>时 分 秒</td><td></td><td></td><td></td></tr><tr><td>C消极</td><td>7</td><td>时</td><td>分 秒</td><td>时 分 秒</td><td></td><td></td><td></td></tr><tr><td>D对照</td><td>10</td><td>时</td><td>分 秒</td><td>时 分 秒</td><td></td><td></td><td></td></tr><tr><td>D积极</td><td>10</td><td>时</td><td>分 秒</td><td>时 分 秒</td><td></td><td></td><td></td></tr><tr><td>D消极</td><td>10</td><td>时</td><td>分 秒</td><td>时 分 秒</td><td></td><td></td><td></td></tr></table></body></html>
+
+测验内容3：旷场
+
+测验用时：定时 $1 0 \mathrm { { m i n } }$
+
+测验指标：记录大鼠在旷场的中心区域和边缘区域的活动时间，评估大鼠对旷场的探索程度和适应水平。
+
+测验材料：3套旷场箱（每套零件：4块 $1 0 1 0 ^ { * } 4 1 0 \mathrm { m m } ^ { 2 }$ 和1块 $1 0 0 0 ^ { * } 1 0 0 0 \mathrm { m m } ^ { 2 }$ 的 $1 0 \mathrm { m m }$ 厚的黑
+
+色不透明磨砂亚克力板、强力黑色布基胶带、4个不锈钢 7907C-30 号不锈钢角码加厚直角角铁、4个不锈钢7301-66-CR三面直角包角）。
+
+![](images/71e4e3aae6efe04c535f86dd0c6e2ce277475998fcd5da8c7750a98ad19957c3.jpg)  
+附图8通用旷场箱图
+
+操作流程：1.大鼠在测试前一天不喂食，使其处于饥饿状态；
+
+2.将大鼠从右下方放入旷场箱中，观察其行为；
+
+3.定时 $1 0 \mathrm { { m i n } }$ ，结束测试；
+
+4.主试对旷场进行清洁后放入下一只大鼠进行施测，施测顺序为"对照-积极-消极"循环，每只大鼠测试一次，3个通道同时进行；
+
+5.使用 EthoVisionXT14 对动物行为进行编码，使用Graph pad 和 SPSS 进行绘图和数据分析。
+
+测试内容4：学习装置适应
+
+测验用时：定时 $1 5 \mathrm { m i n }$
+
+测验指标：记录大鼠在吃到学习装置中的巧克力豆奖励前，试探进入限制器的次数，评估大鼠在学习任务中求食动机受到焦虑情绪影响的水平。
+
+测验材料：3个旷场箱、3个半圆筒(厚 $5 \mathrm { m m }$ ，直径 $1 0 0 \mathrm { m m }$ ，长 $2 5 0 \mathrm { m m }$ ，底层封闭—不嵌入半圆拱内部。一边封闭钻3个 $1 0 ~ \mathrm { m m }$ 直径的孔，另一边开放。开放一侧长 $3 0 \mathrm { m m }$ 处切割一条厚$5 \mathrm { m m }$ 的切缝。半圆筒壁上对半钻4个 $1 0 \mathrm { m m }$ 直径的孔)、点胶、耐高温巧克力。
+
+![](images/aeb53da8c4002626f7fec4d3588249c16066be79c5c7c11b635a1b53097e6450.jpg)  
+附图9开门学习装置图-适应阶段
+
+操作流程：1.大鼠在测试前一天喂食 $1 0 \mathrm { g / }$ 只，使测验当天处于半饥饿状态;
+
+2.将大鼠从右下方放入实验箱中，观察其行为，主试填写观察记录表；
+
+3.定时 $1 5 \mathrm { m i n }$ ，结束测试;
+
+4.主试对实验箱进行清洁后放入下一只大鼠进行施测，施测顺序为"对照-积极-消极"循环，每只大鼠测试一次，3个通道同时进行；
+
+5.使用Graph pad 和 SPSS 进行绘图和数据分析。
+
+附图10：开门装置适应观察记录表  
+
+<html><body><table><tr><td colspan="9">开门环境适应记录表</td></tr><tr><td colspan="9">通道（左） 日期： 温湿度： 主试姓名： 手卡顺序是否排好？</td></tr><tr><td></td><td rowspan="3"></td><td rowspan="3">开始时间</td><td rowspan="3">结束时间</td><td rowspan="3"></td><td colspan="2" rowspan="3">吃到食物前</td><td rowspan="3">是香到</td><td rowspan="3">食物时</td></tr><tr><td></td><td></td></tr><tr><td></td><td>“试探穿越拱门” 头伸入拱门但未吃到食物的 次数 次数统计(画“正”字)</td></tr><tr><td>A对照</td><td>1</td><td>时 分 秒</td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td></tr><tr><td>A积极</td><td>1</td><td>时 分 秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td></tr><tr><td>A消极</td><td>1</td><td>时 分 秒</td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td></tr><tr><td>A对照</td><td>4</td><td>时 分 秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td></tr><tr><td>A积极</td><td>4</td><td>时 分 秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td></tr><tr><td>A消极</td><td>4</td><td>时 分 秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td></tr><tr><td>A对照</td><td>7</td><td>时 分 秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td></tr><tr><td>A积极</td><td>7</td><td>时 分 秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td></tr><tr><td>A消极</td><td>7</td><td>时 分 秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td></tr><tr><td>A对照</td><td>10</td><td>时 分 秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td></tr><tr><td>A积极</td><td>10</td><td>时 分 秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td></tr><tr><td>A消极</td><td>10</td><td>时 分 秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# S1.2.2学习行为测试
+
+测验内容1：新物体识别高难度
+
+测验用时：学习阶段 $1 0 \mathrm { { m i n } }$ ，短时记忆( $ { \mathrm { \Omega } } ^ { \prime } 1 5  { \mathrm { m i n } } )$ 测验 $5 \mathrm { m i n }$ ，长时记忆（24h）测验5min。
+
+测验指标：记录大鼠用头部嗅探和接触物体的次数（接触时长超过2s时，每接触2s计做接触
+
+1次）。评估大鼠对新物体的偏好程度，反应大鼠客体记忆和位置记忆的学习行为。记忆指数 $\scriptstyle \sum ($ 新物体的接触次数/接触次数更多的非新物体的接触次数-1) $1 \times 1 0 0 \%$ 解释标准：
+
+1.记忆偏差：记忆只数 $12 \%$   
+2.记忆偏向：记忆指数 $20 \%$   
+3.记忆牢固：记忆指数 $2 5 0 \%$ 。
+
+测验材料：通用旷场箱3套，几何树脂摆件若干，黑色乙烯颜料，点胶，定位白色医用胶带。  
+操作流程：1.大鼠在测试前一天喂食 $1 0 \mathrm { g / }$ 只，使测验当天处于半饥饿状态；  
+2．实验箱中放置3个不同的几何体作为大鼠学习阶段的记忆材料，将大鼠从右下方放入实验箱中 $1 0 \mathrm { { m i n } }$ ，观察其行为，主试填写观察记录表，计算出大鼠接触次数最多的物体，更换为新物体;  
+3． $1 5 \mathrm { m i n }$ 后，将大鼠从右下方重新放入实验箱 $5 \mathrm { m i n }$ ，观察其行为，主试填写观察记录表，统计出大鼠接触物体的次数，按照"记忆指数"的公式计算出大鼠的记忆程度;  
+4．24h后，更换学习阶段中接触次数最多（可能存在记忆的位置效应）的物体为新物体（此处的新物体与短时记忆的新物体放置的位置相同，但新物体不是同一个物体），将大鼠从右下方重新放入实验箱 5min，观察其行为，主试填写观察记录表，统计出大鼠接触物体的次数，按照"记忆指数"的公式计算出大鼠的记忆程度；  
+5．主试对实验箱进行清洁后放入下一只大鼠进行施测，施测顺序为"对照-积极-消极"循环，每只大鼠测试一次，3个通道同时进行。  
+6．使用 Graphpad Prism 和 SPSS 进行绘图和数据分析。
+
+<html><body><table><tr><td colspan="6">新物体识别学习阶段和短时记忆观察记录表</td></tr><tr><td rowspan="12"></td><td rowspan="5">笼号</td><td rowspan="5">尾号</td><td rowspan="5">实验前位置确认</td><td>合计</td><td>统计记录（画“正”字）</td><td></td></tr><tr><td>正方体：</td><td>次</td><td></td></tr><tr><td>□ 球体：</td><td>次</td><td rowspan="2"></td></tr><tr><td>三角体：</td><td>次</td></tr><tr><td rowspan="2">接触次数最多的物体是：□</td><td>O ></td><td></td></tr><tr><td rowspan="5">□</td><td rowspan="5">□ 18</td><td>正方体：</td><td>次</td><td></td></tr><tr><td rowspan="3"></td><td>球体○：</td><td>次</td><td></td></tr><tr><td>三角体：</td><td>次</td><td></td></tr><tr><td>接触次数最多的物体是： O</td><td>△</td><td></td></tr><tr><td>第 组 笼号</td><td></td><td>尾号用“”为中更换物体，更</td><td>用“√”选中更换物体，合计</td><td>统计记录(画“正”字)</td></tr><tr><td rowspan="5"></td><td rowspan="5">复测：A</td><td rowspan="5">15</td><td rowspan="2">□</td><td>□</td><td>次</td><td></td></tr><tr><td>O</td><td>次</td><td></td></tr><tr><td rowspan="2">接触次数最多的物体：</td><td></td><td>次</td><td></td></tr><tr><td>是 香</td><td>圆柱体</td><td></td></tr><tr><td rowspan="5">复测：B</td><td rowspan="5">18</td><td rowspan="5">□</td><td>□</td><td>次</td><td></td></tr><tr><td rowspan="2"></td><td>O</td><td>次</td><td></td></tr><tr><td></td><td>次</td><td></td></tr><tr><td>接触次数最多的物体：</td><td>是 否</td><td>圆柱体</td><td></td></tr></table></body></html>
+
+附图11高难度新物体识别观察记录表  
+
+<html><body><table><tr><td colspan="6">新物体识别长时记忆观察记录表</td></tr><tr><td rowspan="6">第一组</td><td rowspan="2">笼号</td><td rowspan="6">尾号</td><td rowspan="2">用“√”选中更换物体，更换 为“圆柱体”</td><td>用“” 选中更换 物体，合</td><td>统计记录 (画“正”字)</td></tr><tr><td>计</td><td></td></tr><tr><td rowspan="3">1</td><td rowspan="3">□ C ></td><td>次 次</td></tr><tr><td></td><td></td></tr><tr><td>次 是 香</td><td>圆柱体</td></tr><tr><td rowspan="4">复测：A积极</td><td rowspan="4">1</td><td rowspan="3">接触次数最多的物体： □</td><td>次</td><td></td></tr><tr><td></td><td></td></tr><tr><td>□</td><td>次</td></tr><tr><td>： 接触次数最多的物体： 是</td><td>次</td></tr></table></body></html>
+
+测验内容2：新物体识别中高难度
+
+则验用时：学习阶段 $1 0 \mathrm { { m i n } }$ ，短时记忆( $ { \mathrm { \Omega } } ^ { \prime } 1 5  { \mathrm { m i n } } )$ 测验 $5 \mathrm { m i n }$ ，长时记忆（24h）测验 $5 \mathrm { m i n }$ 。
+
+测验指标：记录大鼠用头部嗅探并接触物体的次数（接触时长超过2s时，每接触2s计做接触1次）。评估大鼠对新物体的偏好程度，反应大鼠客体记忆和位置记忆的学习行为。
+
+记忆指数 $\scriptstyle : = \pmb { \operatorname { \iota } }$ （新物体的接触次数/接触次数更多的非新物体的接触次数-1) $1 \times 1 0 0 \%$ 解释标准：
+
+1.记忆偏差：记忆只数 $12 \%$   
+2.记忆偏向：记忆指数 $20 \%$   
+3.记忆牢固：记忆指数 $2 5 0 \%$ 。
+
+测验材料：通用旷场箱3套，几何树脂摆件若干，黑色乙烯颜料，点胶，定位白色医用胶带。  
+操作流程：1.大鼠在测试前一天喂食 $1 0 \mathrm { g / }$ 只，使测验当天处于半饥饿状态;
+
+2.实验箱中放置3个相同的几何体作为大鼠学习阶段的记忆材料，将大鼠从右下方放入实验箱中 $1 0 \mathrm { { m i n } }$ ，观察其行为，主试填写观察记录表，计算出大鼠接触次数最多的物体，更换为新物体;
+
+3.15min后，将大鼠从右下方重新放入实验箱5min，观察其行为，主试填写观察记录表，统计出大鼠接触物体的次数，按照"记忆指数"的公式计算出大鼠的记忆程度;
+
+4.24h后，更换学习阶段中接触次数最少的物体为新物体（此处的新物体与短时记忆的新物体放置的位置相同，但新物体不是同一个物体），将大鼠从右下方重新放入实验箱 5min，观察其行为，主试填写观察记录表，统计出大鼠接触物体的次数，按照"记忆指数"的公式计算出大鼠的记忆程度;
+
+5.主试对实验箱进行清洁后放入下一只大鼠进行施测，施测顺序为"对照-积极-消极"循环， 每只大鼠测试一次，3个通道同时进行;
+
+6.使用Graph pad 和 SPSS 进行绘图和数据分析。
+
+<html><body><table><tr><td colspan="8">新物体识别学习阶段和短时记忆观察记录表</td></tr><tr><td rowspan="13">第</td><td colspan="7">笼号 实验前位置确认</td><td>统计记录（画“正”字）</td></tr><tr><td rowspan="13"></td><td rowspan="2"></td><td rowspan="2">尾号 1</td><td rowspan="2">左 中 右</td><td>左：</td><td>合计 次</td><td></td></tr><tr><td>中：</td><td>次</td><td></td></tr><tr><td rowspan="3">A对照</td><td rowspan="3"></td><td rowspan="3">接触次数最少的物体是：左</td><td>右：</td><td>次</td><td></td></tr><tr><td>中</td><td>右</td><td></td></tr><tr><td>左：</td><td>次</td><td></td></tr><tr><td rowspan="3"></td><td rowspan="3">A积极</td><td rowspan="3">左 1</td><td rowspan="3">中 右</td><td>中：</td><td>次</td><td></td></tr><tr><td>右：</td><td>次</td><td></td></tr><tr><td>接触次数最少的物体是：左 中</td><td>右</td><td></td></tr><tr><td>组 笼号</td><td></td><td>尾号用“”选中更换物体，更</td><td></td><td>用“√”选中更换物体，合计</td><td></td><td>统计记录(画“正”字)</td></tr><tr><td rowspan="7"></td><td rowspan="4">复测：A对照</td><td rowspan="4"></td><td rowspan="3">左 中</td><td></td><td>左 次</td><td></td></tr><tr><td>右 中</td><td>： 次</td><td></td></tr><tr><td>右</td><td>次</td><td></td></tr><tr><td rowspan="3">接触次数最多的物体：是</td><td></td><td>香 为新物体</td><td></td></tr><tr><td rowspan="2">左 中</td><td>左 中</td><td>次 次</td><td></td></tr><tr><td>右</td><td></td><td></td></tr><tr><td rowspan="3">复测：A积极</td><td rowspan="3"></td><td rowspan="3"></td><td rowspan="3">接触次数最多的物体：</td><td>右</td><td>次</td><td></td></tr><tr><td>是 香</td><td>为新物体</td><td></td></tr><tr><td></td><td></td><td></td></tr></table></body></html>
+
+附图12中高难度新物体识别观察记录表  
+
+<html><body><table><tr><td colspan="8">新物体识别长时记忆观察记录表</td></tr><tr><td rowspan="5">第 组</td><td>笼号</td><td></td><td rowspan="5">尾号用“”选中更换物体，更 换为“新物体”</td><td rowspan="5"></td><td>用“√”选中更换物体，合计</td><td></td><td>统计记录(画“正”字)</td></tr><tr><td rowspan="3">复测：A对照</td><td rowspan="3">左 中 右</td><td>左 ：</td><td>次</td><td></td></tr><tr><td>中 ：</td><td>次</td><td></td></tr><tr><td rowspan="2">右</td><td>_： 次</td><td></td></tr><tr><td></td><td>接触次数最多的物体： 是 香</td><td>为新物体</td></tr><tr><td rowspan="5"></td><td rowspan="5">复测：A积极</td><td></td><td rowspan="2"></td><td rowspan="3"></td><td>左</td><td>次</td><td></td></tr><tr><td>左</td><td>中 右</td><td>中 ： 次</td><td></td></tr><tr><td></td><td></td><td>右</td><td>次</td><td></td></tr><tr><td></td><td>接触次数最多的物体：</td><td>是</td><td>香 为新物体</td><td></td></tr></table></body></html>
+
+测验内容3：整合性迷宫
+
+测验时长：限时 $1 5 \mathrm { m i n }$ ，大鼠吃完食物后可终止测验。
+
+测验指标：记录大鼠整合性迷宫学习中的学习和测试效果以及特异性的行为，评估大鼠的复杂记忆任务的学习行为。
+
+测验材料：整合性迷宫1个，宠物围栏组合片若干，黑色胶带，食盒，耐高温巧克力和白桃味硬糖。
+
+操作流程：见《整合性学习的动物行为模型探索》一文，此处的测验进行了7次的学习行为测验、3次一周后复测和1次的概括分析测试。其中，迷宫周围用围栏进行了阻隔，防止了爬墙后跑出迷宫装置或时，人为干预对大鼠行为产生的影响。
+
+7次 1次 1次
+
+<html><body><table><tr><td colspan="14">整合性学习观察记录表</td></tr><tr><td>二通道</td><td>第</td><td>次</td><td colspan="2">日期：</td><td>温湿度：</td><td></td><td>手卡顺序是否排好？</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>是否</td><td></td></tr><tr><td></td><td></td><td colspan="2">开始时间</td><td></td><td></td><td>结束时间</td><td></td><td></td><td>吃到食 物试 数</td><td></td><td></td><td></td><td></td><td>上</td><td>路径</td><td>，上克和区域、走段路径下墙</td></tr><tr><td>A对照</td><td>1</td><td></td><td>时 分</td><td>秒</td><td></td><td>时</td><td>分秒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A对照</td><td>2</td><td>时</td><td>分</td><td>秒</td><td>时</td><td>分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A对照</td><td>3</td><td>时</td><td>分</td><td>秒</td><td></td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A积极</td><td>1</td><td>时</td><td>分</td><td>秒</td><td></td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A积极</td><td>2</td><td>时</td><td>分</td><td>秒</td><td></td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A积极</td><td>3</td><td>时</td><td>分</td><td>秒</td><td></td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A消极</td><td>1</td><td>时</td><td>分</td><td>秒</td><td></td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A消极</td><td>2</td><td>时</td><td>分</td><td>秒</td><td></td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A消极</td><td>3</td><td>时</td><td>分</td><td>秒</td><td></td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>B对照</td><td>4</td><td>时</td><td>分</td><td>秒</td><td></td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>B对照</td><td>5</td><td>时</td><td>分</td><td>秒</td><td></td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>B对照</td><td>6</td><td>时</td><td>分</td><td>秒</td><td></td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>B积极</td><td>4</td><td>时</td><td>分</td><td>秒</td><td></td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>B积极</td><td>5</td><td>时</td><td>分</td><td>秒</td><td></td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>B积极</td><td>6</td><td></td><td>时 分</td><td>秒</td><td></td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>B消极</td><td>4</td><td>时</td><td>分</td><td>秒</td><td></td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>B消极</td><td>5</td><td></td><td>时 分</td><td>秒</td><td></td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>B消极</td><td>6</td><td></td><td>时 分</td><td>秒</td><td></td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+测验内容4：开门学习
+
+测验时长：限时 $1 5 \mathrm { m i n }$ ，开门后 $2 \mathrm { m i n }$ 终止测验测验指标：记录大鼠开门用时，开门方式和特异性行为，评估大鼠程序学习行为。
+
+测验材料：若干"门"装置（若干无纺布布条、12 个 $5 0 \mathrm { g }$ 钢镀铬砝码、100 个 $1 5 \mathrm { m l }$ 白色固体塑料瓶、若干小号 $1 9 \mathrm { m m }$ ， $2 5 \mathrm { m m }$ ， $3 5 \mathrm { m m }$ 燕尾夹、12根 $6 \mathrm { m m }$ 高速钢锯片连接杆、12个 $5 \mathrm { m m }$ 厚$5 0 ^ { * } 1 0 0 \mathrm { m m } ^ { 2 }$ 带 $3 0 ^ { * } 1 0 \mathrm { m m }$ 手柄的亚克力透明板、使用电磨器在"门"外侧修理出长1cm，宽 $3 \mathrm { c m }$ 厚 $2 . 5 \mathrm { c m }$ 的凹槽）、3个半圆筒(厚 $5 \mathrm { m m }$ ，直径 $1 0 0 \mathrm { m m }$ ，长 $2 5 0 \mathrm { m m }$ ，底层封闭—不嵌入半圆拱内部。一边封闭钻3个 $1 0 \mathrm { m m }$ 直径的孔，另一边开放。开放一侧长 $3 0 \mathrm { m m }$ 处切割一条厚 $5 \mathrm { m m }$ 的切缝。半圆筒壁上对半钻4个 $1 0 \mathrm { m m }$ 直径的孔)、3个旷场箱、点胶、抛光油、耐高温巧克力粒。
+
+![](images/222dd1138a226a89e8f666ecee5393d9e2ec76ebfeb5cd89bf47dc6b061e6bf2.jpg)  
+附图15开门装置—“门"装置设计图
+
+注：左下测的黑色长条是将开门一侧的板面上磨出的凹槽(长3cm，宽1cm，厚 $2 . 5 \mathrm { m m }$ 但内侧区域仍保持光滑。
+
+操作流程：1.大鼠在测试前一天喂食 $1 0 \mathrm { g / }$ 只，使测验当天处于半饥饿状态；
+
+2.在限制器中内部右上方第一个通气孔处，放入3粒巧克力豆，将开门装置设置到计划状态（第1天：无门；第2-6天：半开门；第7天：全开门；第8-12天：全关门；第13天：对未连续3次稳定开门的大鼠进行加练，加练次数依据全关门状态可开门为标准，进行1-6次加练）；
+
+3.限时 $1 5 \mathrm { m i n }$ ，主试填写观察记录表。大鼠开门后2min将大鼠拿出实验箱，结束实验;
+
+4.主试对实验箱进行清洁后放入下一只大鼠进行施测，施测顺序为"对照-积极-消极"循坏，每只大鼠每天测试一次，3个通道同时进行；
+
+5.使用Graph pad 和 SPSS 进行绘图和数据分析。
+
+附图16开门学习观察记录表  
+
+<html><body><table><tr><td colspan="12">开门学习记录表</td></tr><tr><td colspan="12">通道(左) 日期： 温湿度： 主试姓名：</td></tr><tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td rowspan="2"></td><td rowspan="2">（请写秒数s）</td><td rowspan="2">开门方式</td><td rowspan="2">是否到</td><td rowspan="2">时间间”请填物”的</td></tr><tr><td colspan="2"></td><td colspan="2">开始时间</td><td>结束时间</td><td>是</td><td>A、重物；B、凹槽； C、杠杆；D、其他</td></tr><tr><td>A对照</td><td>1</td><td>时 分</td><td>秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A积极</td><td>1</td><td>时 分</td><td>秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A消极</td><td>1</td><td>时 分</td><td>秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A对照</td><td>4</td><td>时 分</td><td>秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A积极</td><td>4</td><td>时 分</td><td>秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A消极</td><td>4</td><td>时 分</td><td>秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A对照</td><td>7</td><td>时 分</td><td>秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A积极</td><td>7</td><td>时 分</td><td>秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A消极</td><td>7</td><td>时 分</td><td>秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A对照</td><td>10</td><td>时 分</td><td>秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A积极</td><td>10</td><td>时 分</td><td>秒</td><td>时</td><td>分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A消极</td><td>10</td><td>时 分</td><td>秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# S1.2.3社会行为测验
+
+测验内容1：社交箱
+
+测验时长：6min
+
+测验指标：大鼠进入社交箱的时间和接触限制笼的次数等，评估大鼠对于限制笼内物体/大鼠的偏好程度，评估大鼠的社交偏好是否正常，且组间有何差异。
+
+测验材料：社交箱、假鼠、食物
+
+操作流程：1.大鼠在测试前一天喂食 $1 0 \mathrm { g / }$ 只，使测验当天处于半饥饿状态；
+
+2.在右侧社交笼放入固定配对的配合鼠，1-3 天依次在左侧放入“假鼠-空白-陌生鼠"后，。主试将大鼠从中间箱的中部，头朝正中放入，开始测验；
+
+3.限时6min，主试填写观察记录表，结束实验；
+
+4.主试对实验箱进行清洁后放入下一只大鼠进行施测，施测顺序为"对照-积极-消极"循环， 每只大鼠测试一次;
+
+5.使用EthoVisionXT14 对动物行为进行编码，使用Graph pad 和 SPSS 进行绘图和数据分析。
+
+附图17社交偏好测试观察记录表   
+
+<html><body><table><tr><td colspan="11">社会接触观察记录表</td></tr><tr><td>二通道</td><td>第</td><td colspan="2">次 日期：</td><td colspan="5">温湿度： 手卡顺序是否排好？</td><td colspan="2"></td></tr><tr><td></td><td></td><td colspan="2">开始时间</td><td></td><td colspan="2">结束时间</td><td>进入 区次数</td><td>大鼠区</td><td></td><td>备注</td></tr><tr><td>A对照</td><td>1</td><td></td><td>时 分秒</td><td></td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td></tr><tr><td>A积极</td><td>1</td><td></td><td>时 分</td><td>秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td></tr><tr><td>A消极</td><td>1</td><td></td><td>时 分</td><td>秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td></tr><tr><td>A对照</td><td>2</td><td></td><td>时 分</td><td>秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td></tr><tr><td>A积极</td><td>2</td><td></td><td>时 分</td><td>秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td></tr><tr><td>A消极</td><td>2</td><td></td><td>时 分</td><td>秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td></tr><tr><td>A对照</td><td>3</td><td></td><td>时 分</td><td>秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td></tr><tr><td>A积极</td><td>3</td><td></td><td>时 分</td><td>秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td></tr><tr><td>A消极</td><td>3</td><td></td><td>时 分</td><td>秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td></tr><tr><td>B对照</td><td>4</td><td></td><td>时 分</td><td>秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td></tr><tr><td>B积极</td><td>4</td><td></td><td>时 分</td><td>秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td></tr><tr><td>B消极</td><td>4</td><td></td><td>时 分</td><td>秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td></tr><tr><td>B对照</td><td>5</td><td></td><td>时 分</td><td>秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td></tr><tr><td>B积极</td><td>5</td><td></td><td>时 分</td><td>秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td></tr><tr><td>B消极</td><td>5</td><td></td><td>时 分</td><td>秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td></tr><tr><td>B对照</td><td>6</td><td></td><td>时 分</td><td>秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td></tr><tr><td>B积极</td><td>6</td><td></td><td>时</td><td>分秒</td><td>时</td><td>分 秒</td><td></td><td></td><td></td><td></td></tr><tr><td>B消极</td><td>6</td><td></td><td>时 分</td><td>秒</td><td>时</td><td>分</td><td>秒</td><td></td><td></td><td></td></tr></table></body></html>
+
+# 社交偏好测试
+
+![](images/c764744db270e8b5db361e64439b8fef04df49b604d23f79fc12156d58ff3618.jpg)  
+附图18社交偏好测试EthovisionXT系统分析平台设置和批量分析流程图
+
+营救测验、主动分享测验和主动共享测验通用装置组合用具包括3个5mm 厚$7 6 0 ^ { * } 5 4 0 ^ { * } 3 0 0 \mathrm { m m } ^ { 3 }$ 白色不透明无盖箱子、3个中号养护带盖箱子（盖子上的不锈钢条使用黑色乙烯颜料涂成黑色，防止录频反光，提高行为分析平台对白色大鼠的正确识别率）、16 个 $3 \mathrm { m m }$ 厚 $1 5 0 \mathrm { m m } ^ { * } 1 5 0 \mathrm { m m }$ 的不锈钢加厚直角角铁、2卷 $3 0 \mathrm { m m }$ 宽 $^ { * } 5 \mathrm { m }$ 长 $^ { * } 2 \mathrm { m m }$ 厚的加厚款纳米无痕吸附胶卷、1套12000RPM微型无极调速电磨机、记号笔，酒精，全套工具箱。
+
+![](images/48c2da92517dcc587de4b27c61edf148b67ec0925f274d5fabe21f90d83e726c.jpg)  
+附图19亲社会实验—通用装置底座设计图
+
+测验内容2：主动分享测验时长：定时 $3 0 \mathrm { { m i n } }$
+
+测验指标：记录大鼠接触挡板的次数（接触时长超过2s时，每接触2s 计做接触1次），分享  
+食物的颗数，将食物拿出食盒的颗数，吃掉食物的颗数等。  
+测验材料：3片 $1 \mathrm { m m }$ 厚的 $3 3 0 ^ { * } 4 8 5 \mathrm { m m } ^ { 2 }$ 哑光黑PVC片材、3块 $5 \mathrm { m m }$ 厚的 $5 4 0 ^ { * } 1 9 0 \mathrm { m m } ^ { 2 }$ 且正  
+下方开 $5 0 ^ { * } 2 0 \mathrm { m m } ^ { 2 }$ 开口的透明亚克力板  
+操作流程：1.大鼠在测试前一天喂食 $1 0 \mathrm { g / }$ 只，在测试前再喂食 $1 0 \mathrm { g / }$ 只，使测验当天处于非饥饿  
+但不饱食状态;2.在挡板左侧依类放入“真鼠(陌生鼠)-假鼠-空白"，右侧食盒放入20颗一克重的食物后，  
+将实验鼠放入挡板右侧，开始测验;3.定时 $3 0 \mathrm { m i n }$ ，主试填写观察记录表，实验过程中及时记录大鼠嗅探并接触挡板区域的次  
+数（接触时长超过2s时，每接触2s计做接触1次），结束测验;4.主试对实验箱进行清洁后放入下一只大鼠进行施测，施测顺序为"对照-积极-消极"循环，  
+每只大鼠在不同测验条件下各测试一次，3通道同时进行；5.使用Graph pad 和 SPSS 进行绘图和数据分析。
+
+测验内容3：营救
+
+测验时长：限时 $1 0 \mathrm { { m i n } }$ 开门，大鼠开门后可延时 $3 \mathrm { m i n }$ 结束测验测验指标：记录大鼠是否开门、开门用时、开门方式和开门后的互动行为类型等指标。
+
+测验材料：3片 $1 \mathrm { m m }$ 厚的 $7 5 5 ^ { \ast } 5 3 5 \mathrm { m m } ^ { 2 }$ 哑光黑 PVC 片材(3 个旷场箱亦可)、3 个半圆筒(厚$5 \mathrm { m m }$ ，直径 $1 0 0 \mathrm { m m }$ ，长 $2 5 0 \mathrm { m m }$ ，底层封闭一不嵌入半圆拱内部。一边封闭钻3个 $1 0 \mathrm { m m }$ 直径的孔，另一边开放。开放一侧长 $3 0 \mathrm { m m }$ 处切割一条厚 $5 \mathrm { m m }$ 的切缝。半圆筒壁上对半钻 4 个$1 0 \mathrm { m m }$ 直径的孔)
+
+操作流程：1.大鼠在测试前一天喂食 $1 0 \mathrm { g / }$ 只，使测验当天处于半饥饿状态；
+
+2.进行营救测验的前测，分别放入“棉花"和空白限制器两种条件，作为营救测验的对照。然后将配合鼠（配合鼠和实验鼠在3次重复测量中保持配对，不更换实验鼠对应的配合鼠）放入限制器，进行营救测验；
+
+3.限时 $1 0 \mathrm { { m i n } }$ ，主试填写观察记录表。大鼠开门后 $3 \mathrm { m i n }$ 将大鼠拿出实验箱，结束实验;
+
+4.主试对实验箱进行清洁后放入下一只大鼠进行施测，施测顺序为"对照-积极-消极"循环，每只大鼠每天测试一次，3个通道同时进行，分3天测试3次；
+
+5.使用Graph pad 和 SPSS 进行绘图和数据分析。
+
+附图20开门营救观察记录表  
+
+<html><body><table><tr><td colspan="12">开门营救记录表</td></tr><tr><td colspan="12">通道（左） 日期： 温湿度： 主试姓名： 手卡顺序是否排好？</td></tr><tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td rowspan="2"></td><td rowspan="2">开门方式 （请写秒数s）</td><td rowspan="2"></td><td colspan="2">开门后3min实验鼠的互动行为类型 生殖器； 选电</td></tr><tr><td></td><td></td><td>开始时间</td><td></td><td>结束时间</td><td>是门</td><td>Ac、重物：B、其他</td><td>保索：</td></tr><tr><td>A对照</td><td>1</td><td>时 分</td><td>秒</td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A积极</td><td>1</td><td>时 分</td><td>秒</td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A消极</td><td>1</td><td>时 分</td><td>秒</td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A对照</td><td>4</td><td>时 分</td><td>秒</td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A积极</td><td>4</td><td>时 分</td><td>秒</td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A消极</td><td>4</td><td>时 分</td><td>秒</td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A对照</td><td>7</td><td>时 分</td><td>秒</td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A积极</td><td>7</td><td>时 分 时</td><td>秒</td><td>时 分</td><td>秒 秒</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A消极</td><td>7 10</td><td>分 时 分</td><td>秒</td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A对照</td><td>10</td><td>时 分</td><td>秒 秒</td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A积极</td><td>10</td><td>时 分</td><td>秒</td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A消极</td><td></td><td></td><td></td><td>时 分</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="18">备注：</td></tr></table></body></html>
+
+测验内容4：主动共享
+
+测验时长：定时 $1 5 \mathrm { m i n } ( \$ 限时 $1 0 \mathrm { { m i n } }$ 开门，给大鼠继续进食5min的延时后结束测验)
+
+测验指标：记录大鼠是否开门、开门用时、开门方式和开门后的进食和互动行为类型。
+
+测验材料：3片 $1 \mathrm { m m }$ 厚的 $3 3 0 ^ { * } 4 8 5 \mathrm { m m } ^ { 2 }$ 哑光黑PVC片材、3个短半圆筒（厚 $5 \mathrm { m m }$ ，直径 $1 0 0 \mathrm { m m }$ 长 $8 5 \mathrm { m m }$ ，底层封闭—嵌入半圆拱内部，距离1侧长 $3 0 \mathrm { m m }$ 的地方切割一条厚 $5 \mathrm { m m }$ 的切缝）、3块 $5 \mathrm { m m }$ 厚的 $5 4 0 ^ { * } 1 9 0 \mathrm { m m } ^ { 2 }$ 且正下方开直径为 $1 0 0 \mathrm { m m }$ 的半圆开口的透明亚克力板。
+
+操作流程：1.大鼠在测试前一天喂食 $1 0 \mathrm { g / }$ 只，使测验当天处于半饥饿状态；
+
+2.进行主动共享测验的前测，分别在左侧放入“假鼠"和空白两种条件，作为对照。然后将配合鼠（配合鼠和实验鼠在3次重复测量中保持配对，不更换实验鼠对应的配合鼠）放入挡板左侧的被动开门区，开始测验;
+
+3.定时 $1 5 \mathrm { m i n }$ ，主试填写观察记录表后，将大鼠拿出实验箱，结束实验；
+
+4.主试对实验箱进行清洁后放入下一只大鼠进行施测，施测顺序为"对照-积极-消极"循环，每只大鼠每天测试一次，3个通道同时进行，分3天测试3次;
+
+5.使用Graph pad 和 SPSS 进行绘图和数据分析。
+
+附图21开门共享观察记录表  
+
+<html><body><table><tr><td colspan="16">开门共享记录表</td></tr><tr><td colspan="11">通道(左) 日期： 温湿度： 主试姓名： 手卡顺序是否排好？</td><td colspan="4"></td></tr><tr><td></td><td colspan="3"></td><td rowspan="2"></td><td rowspan="2">结束时间</td><td rowspan="2"></td><td rowspan="2">是门</td><td rowspan="2"></td><td rowspan="2">开门方式</td><td colspan="4">开门后实验鼠的互动行为类型</td><td rowspan="2">生班器：选跑</td></tr><tr><td></td><td></td><td>开始时间</td><td></td><td></td><td></td><td>：</td></tr><tr><td>A对照 A积极</td><td>1</td><td>时</td><td>分</td><td>秒</td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A消极</td><td>1</td><td>时</td><td>分</td><td>秒</td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A对照</td><td>1 4</td><td>时</td><td>分 秒</td><td></td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>4</td><td>时</td><td>分</td><td>秒</td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A积极</td><td>4</td><td>时</td><td>分</td><td>秒</td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A消极</td><td>7</td><td>时</td><td>分 秒</td><td></td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A对照</td><td>7</td><td>时</td><td>分 秒</td><td></td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A积极</td><td>7</td><td>时</td><td>分 秒</td><td></td><td>时 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A消极</td><td>10</td><td>时 时</td><td>分 秒 分 秒</td><td></td><td>时 分 分</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A对照</td><td>10</td><td></td><td>分</td><td></td><td>时</td><td>秒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A积极</td><td>10</td><td>时 时</td><td>分</td><td>秒 秒</td><td>时 分 时 分</td><td>秒 秒</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A消极</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="18">备注：每个试次要备注 -放入食物 g，剩余食物 g.</td></tr></table></body></html>
+
+测试内容5管道竞争
+
+测验时长：限时 $5 \mathrm { m i n }$ ，1只大鼠身体重心退出管道即可提前结束测验指标：记录胜方、用时、获胜方式
+
+测验材料：2条 $5 \mathsf { m m }$ 厚的 $3 / 4$ 圆筒（内直径 $1 0 0 \mathsf { m m }$ ，长 $1 0 0 0 \mathsf { m m }$ ，切掉 $1 / 4$ ，底层封闭，两边开放，中部圆拱处切割一条 $5 \mathsf { m m }$ 厚的缝，顶侧钻若干5mm直径的通气孔/纵切缝）、1个$5 \mathsf { m m }$ 厚 $5 0 ^ { * } 1 0 0 \mathrm { m m } 2$ 带 $3 0 ^ { * } 1 0 \mathrm { m m }$ 手柄的亚克力透明板、1条 $1 2 0 0 ^ { * } 7 0 \mathrm { m m }$ 厚的光滑深色薄垫板、黑色哑光PVC 垫板，秒表，清洁海绵长杆刷，酒精，无纺布。
+
+操作流程：1.大鼠在测试前一天喂食 $1 0 \mathrm { g / }$ 只，在测试前再喂食 $1 0 \mathrm { g / }$ 只，使测验当天处于非饥饿但不饱食状态;
+
+2.将大鼠从管道左右两侧放入，待两侧大鼠头部接触隔板后，移走隔板并开始计时，观察大鼠竞争行为;3.单次测试限时5min，主试填写观察记录表，实验过程中及时观察大鼠行为，当1只大鼠身体重心退出管道即可结束单次测试;4.主试将管道内大鼠引出后，清洁管道，放入下一只大鼠进行施测，组内管道竞争时施测顺序为笼内编号从小到大循环3次，例：积极A笼中，1&2,2&3,3&1。分1批，3组进行；组间管道竞争时，同笼号的不同组别间进行1:1管道竞争测试，施测组别顺序为"对照&积极”“消极&对照”、“积极&消极”，笼号顺序为“A-B-C-D”，分3批，9组进行。
+
+5.使用Graph pad 和 SPSS 进行绘图和数据分析。
+
+附图22组间管道竞争观察记录表  
+
+<html><body><table><tr><td colspan="9">组间管道施测</td></tr><tr><td colspan="13">日期 结束时间：</td></tr><tr><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2">第二批通道</td><td rowspan="2">开始时间： 左</td><td rowspan="2">右</td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2">胜方 B、败方主动撤退</td><td rowspan="2">获胜方式 (填字母) A、胜方主动顶出</td></tr><tr><td>用时s</td></tr><tr><td>开始结束时间</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>C、更慢撤退出管道 D、5min内僵持未出管道 E、其他</td></tr><tr><td rowspan="10">第一组</td><td rowspan="3">A对照</td><td></td><td rowspan="3">A积极</td><td rowspan="3"></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>2</td><td>2 3</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>3</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>B对照</td><td>4</td><td>B积极</td><td>4</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>5 6</td><td></td><td>5 6</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>C对照</td><td>7</td><td>C积极</td><td>7</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="5"></td><td rowspan="3"></td><td>8</td><td rowspan="3"></td><td>8</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>9</td><td></td><td></td><td></td><td></td></tr><tr><td>9</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="2"></td><td></td><td rowspan="2">D积极</td><td>10</td><td></td><td></td><td></td><td></td></tr><tr><td>10</td><td>11</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>12</td><td></td><td>12</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>D对照</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>11</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+测试内容6：争食竞争测试时长：定时5min
+
+测试指标：是否吃到食物、吃到食物的累积时长、独占食物时长的大鼠排序、笼内竞争激烈程度的主观观察备注。
+
+测试材料：日常饲养笼、白桃味硬糖（颜色为粉红色易于垫料和大鼠的颜色区分）、硬糖、酒精、无纺布、彩色记号笔若干
+
+操作流程：1.大鼠在测试前一天喂食 $1 0 \mathrm { g / }$ 只，使测验当天处于半饥饿状态；
+
+2.对大鼠进行颜色标记（组内测试标记在头部，组间测试标记在背尾处），区分编号和等级；
+
+3.主试打开一颗白桃味硬糖，凑近到每只大鼠鼻前，保证每只大鼠都闻到气味后，盖上笼盖，将硬糖放在喂食槽中间位置，并同步开始计时。
+
+4.争食竞争过程中，主试使用秒表，记录单只大鼠吃到硬糖的累积时长，结束后，填写观察记录表，进行下一组测试，组内争食测试的测试顺序为“对照-积极-消极”，“A-B-C-D”；组间争食测试的测试顺序为“高等级组-中等级组-低等级组”，“A-B-C-D”。
+
+5.使用Graphpad Prism 和 SPSS 进行绘图和数据分析。
+
+组间争食测试行为记录   
+
+<html><body><table><tr><td colspan="8">通道 日期：</td></tr><tr><td>开始结束时间</td><td>顺序</td><td>笼号</td><td>尾标</td><td>食物</td><td>吃到食物的累计时长（s）</td><td>独占食物时长－大鼠排序</td><td>备注</td></tr><tr><td></td><td rowspan="3">1</td><td>积极</td><td></td><td></td><td></td><td rowspan="3">A A</td><td></td></tr><tr><td rowspan="2"></td><td>对照</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>消极</td><td></td><td></td><td></td></tr><tr><td></td><td rowspan="3"></td><td></td><td></td><td></td><td></td><td rowspan="4"></td><td></td></tr><tr><td rowspan="3"></td><td rowspan="3">2</td><td>积极</td><td></td><td></td><td></td><td></td></tr><tr><td>对照</td><td></td><td></td><td></td><td></td></tr><tr><td>消极</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td rowspan="4"></td><td></td><td></td><td></td><td></td><td rowspan="4"></td><td></td></tr><tr><td rowspan="3"></td><td rowspan="3">3</td><td>积极</td><td></td><td></td><td></td><td></td></tr><tr><td>对照</td><td></td><td></td><td></td><td></td></tr><tr><td>消极</td><td></td><td></td><td></td><td></td></tr><tr><td>5min背部涂色</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# S1.3技术手段和辅助分析软件
+
+# S1.3.1尾标标记
+
+积极组标记绿尾1\~12号，消极组标记红尾1\~12号，对照组标记黑尾1\~12号，配合鼠标记黑尾13\~24号。
+
+# S1.3.2声波分析
+
+声波数据的研究依据、录制、整理和分析细节及参考文献可从如下链接下载。
+
+链接: https://pan.baidu.com/s/1CnnthyM9MGuow6NngUcZWg
+
+提取码：ybxr
+
+在抚摸过程中进行录音，使用 Pettersson(M500-384)声波录制器进行录制，麦克风头部与大鼠头部的距离为 $1 5 - 5 0 \mathrm { c m }$ 。采样率为 $3 8 4 0 0 0 \mathrm { H z }$ ，可接收的频率范围为 $0 { \sim } 1 5 0 \mathrm { k H z }$ 使用Coffey,Marx,and Neumaier (2019)开发的基于 MATLAB 的 DeepSqueak toolbox 对大鼠发出的 USV 进行识别与分析，选用预置的Long Rat Call Network 和 All short Calls Network 对大鼠的 $2 2 \mathrm { k H z }$
+
+USV与 $5 0 \mathrm { k H z }$ USV 进行自动识别。在软件自动识别以后，结合两种USV的声学特征进行进一步人工筛选。评判标准为：对于22kHUSV，排除掉频率范围不在 $1 8 { - } 3 5 \mathrm { k H z }$ 之间，波形为单一的直线状或弥散的点状，或在能量上无强弱变化的对象；对于 50kHzUSV，排除掉频率范围不在35-80kHz之间或波形成单一直线或弥散的点状，或在能量上强弱无变化的对象。并且对USV进行降频20倍播放（降频后达到人耳听力范围），通过音色确认为大鼠所发出的声音而非电磁噪音后接受该USV，否则将在DeepSqueak 中拒绝该识别，不在最终结果中导出。在导出后，对于 ${ 5 0 } \mathrm { { k H z } }$ 的USV进行FM与flat的分类。分类标准为： $\textcircled{1}$ USV波形的是否平坦：在频谱中若观察到明显的拱形，或出现朝向相反的波峰，则标记为FM，否则标记为 flat。 $\textcircled{2}$ 在USV 波形为直线的情况下，依据频率的变化量（△frequency）：在导出的数据结果中，若频率变化的 $\Delta$ 值大于 $5 \mathrm { k H } \tau$ ，则将其标记为 flat，否则标记为FM(Brenes et al.,2016)。
+
+![](images/cf3be3547cd43b28e1fbadd3a811d0a941b4073b6abb67c065d008bb47533e3a.jpg)
+
+附图24展示了采集到的 $5 0 \mathrm { k H z }$ USV。 $\textcircled{1}$ 为持续时间较长的flat $5 0 \mathrm { k H z }$ USV; $\textcircled{2}$ 为持续时间较短的flat $5 0 \mathrm { k H z }$ USV; $\textcircled{3}$ 为频率变化量大，且波形上出现抖动的 FM $5 0 \mathrm { k H z }$ USV； $\textcircled{4}$ 为频率变化量小（小于5kHz），但波形上出现方向相反方向的波峰的FM $5 0 \mathrm { k H z }$ USV。（ $\textcircled{1}$ ， $\textcircled{2}$ 、 $\textcircled{3}$ ， $\textcircled{4}$ 取样自不同的时间）
+
+![](images/5c178b541b00c78e0866d07e3f19a378eae4773834a5ec6be230a0504f66fe3b.jpg)  
+附图25展示了采集到的22kHzUSV。 $\textcircled{1}$ ， $\textcircled{2}$ ， $\textcircled{3}$ 为在一段时间内连续出现的22kHzUSV。
+
+![](images/cc4c2c443d47ca13d098fc628bf4bba67f33a5509be561097d6225962365aed2.jpg)
+
+附图26展示了DeepSqueak识别为USV但在人工筛选环节被拒绝的情况。 $\textcircled{1}$ 和 $\textcircled{2}$ 被拒绝的原因是：它们的波形成规律的点线状，能量的衰减和增强具有明显的规律性，并且持续存在。 $\textcircled{3}$ 的波形看起来像是flat $5 0 \mathrm { k H z }$ USV，但从音色上听起来像是金属而不像是动物发出的声音。 $\textcircled{4}$ 从波形上可以明显判断出是来自环境中的噪音。
+
+# S1.3.3动物行为分析系统
+
+在行为测试实验室设置反射形成的非点光源，控制阴影对大鼠识别的影响。使用固定的吊顶摄像头录制测试过程，在中央控制台下载导出单个试次的原始视频，进行编号和格式转换后相同的原始视频备份3份，存入3个移动硬盘（避免因个别硬盘损坏导致数据丢失）；
+
+使用EthovisionXT动物行为分析系统对行为测试视频进行系统分析。
+
+第一步：建立一个新的分析平台，包括：填写实验基本信息，选择分析方式为"头-重心-尾"三点跟踪，选择同一画面中有一个分析区域，选择视频分析而非实时分析；
+
+第二步：导入示例视频，进行分析区域的设计，包括：标尺，分析区域范围和目标区域划分，并为目标区域命名，系统检查分析平台设置有效后保存平台；
+
+第三步：设置批量分析的流程，包括开始条件，分析时长，结束条件和循环条件等；
+
+第四步：导入示例视频，手动框定大鼠伸展时的身体范围，系统识别大鼠信息，调试识别参数，保证大鼠识别的准确率，系统自动计算视频的背景图，可根据实验内容选择进行静态、动态背景分析方法，以及简单/高级的大鼠识别方式，保存大鼠识别参数;
+
+第五步：设置分析数据变量水平和原始视频索引，以及对应的分析平台和对应的流程等；
+
+第六步：进行批量分析；
+
+第七步：通过数据丢失率、热图和轨迹图信息，筛选问题数据，进行二次分析；
+
+第八步：选择所需的变量和导出数据的排布方式；
+
+第九步：点击系统分析数据（包括：热图、轨迹图、数字信息等），分析结束后，选择数据导出格式后导出数据。
+
+# S2实验结果分析表格及附图
+
+# S2.1研究原始数据
+
+链接:https://pan.baidu.com/s/12yeVSF1Wj8LxjQoM-Ik-Ng 提取码：ybxr
+
+# S2.2主试前测图表
+
+![](images/f78523e7b4131a25d6cc736c86ded5e38770cac2626d010a2148877cf49f2571.jpg)  
+附图27：主试前测信息结果分布图
+
+注： $\operatorname { a - c }$ 图是自编动物喜好问卷结果，分别得知了主试与日常与动物的接触度、触感偏好和接纳度;d图是测试使用才储网站的付费版《大五人格测试》、《EPQ人格测试》和《SCL-90 测试》，呈现了与主试早期经历风格有关的人格维度的量表测试结果；e图是首测METT微表情高级测试的正确率，主要测试主试的观察力；f图试划消测验各项指标的结果值，主要测试主试的工作效率。
+
+# S2.3大鼠日常养护数据图表
+
+附表2早期经历期间主试编号与笼、鼠编号的对应关系  
+
+<html><body><table><tr><td></td><td>主试A</td><td>主试 B1/B2</td><td>主试C1/C2</td><td>主试D</td></tr><tr><td rowspan="3">笼(大鼠)</td><td>积极 A(1~3 号)</td><td>积极 B(4~6 号)</td><td>积极 C(7~9 号)</td><td>积极 D(10~12 号)</td></tr><tr><td>对照 A(1~3 号)</td><td>对照B(4~6号)</td><td>对照 C(7~9 号)</td><td>对照 D(10~12 号)</td></tr><tr><td>消极 A(1~3 号)</td><td>消极B(4~6 号)</td><td>消极C(7-9 号)</td><td>消极D(10~12 号)</td></tr></table></body></html>
+
+注：配合组的4笼大鼠标记为E组有1名养护人员专门喂养，12只大鼠编号为13\~24号。
+
+300-积极中对照→消极 更中中里里里好250- 中用用电 4 太太出本出 的 出本 宏出本无出本  
+200 串串塑电 型 4  
+体150- 重 中 国电医 4男里里100 里果果出装50|11111111112312345671234567891011121314151617181920211234567891011121314151617181920212232425262728293天尾标7天人鼠适应 21天早期经历互动干预阶段 29天测试阶段
+
+注：在适应阶段体重存在不稳定的沉降后起伏，早期经历阶段则呈稳步上升的趋势，测试阶段则基本趋于平稳的小幅度缓慢上升的趋势
+
+附表3在体重监测中以组别和测试测试次数为自变量的两因素的重复测量方差分析  
+
+<html><body><table><tr><td></td><td>SS</td><td>DF</td><td>MS</td><td>F(DFn,DFd)</td><td>p</td><td></td></tr><tr><td>组别</td><td>99255.851</td><td>2</td><td>49627.9</td><td>F (2,33) =2.368</td><td>.109</td><td>0.125</td></tr><tr><td>测试次数</td><td>7108418.715</td><td>59</td><td>120482</td><td>F(59,1947) =685.979</td><td>.000***</td><td>0.954</td></tr><tr><td>组别×测试次数</td><td>27429.594</td><td>118</td><td>232.454</td><td>F(118,1947)= 1.324</td><td>.013*</td><td>0.074</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+# S2.4早期经历干预过程性特征图表
+
+# S2.4.1积极早期经历
+
+附表4触摸互动次数为自变量的不同社会属性的声波的单因素重复测量方差分析  
+
+<html><body><table><tr><td></td><td></td><td>Ss</td><td>DF</td><td>MS</td><td>F(DFn,DFd)</td><td>p</td><td>n²</td></tr><tr><td rowspan="3">次数</td><td>FM50kHz</td><td>2120.103</td><td>20</td><td>106.005</td><td>F (2,220) =1.341</td><td>.155</td><td>0.109</td></tr><tr><td>flat 50kHz</td><td>76.69</td><td>20</td><td>3.835</td><td>F (2,220) =2.042</td><td>0.007**</td><td>0.157</td></tr><tr><td>22 kHz</td><td>21255.08</td><td>20</td><td>1062.754</td><td>F (2,220) 2.367</td><td>0.001**</td><td>0.177</td></tr><tr><td rowspan="3">时长</td><td>FM50kHz</td><td>597976.8</td><td>20</td><td>29898.838</td><td>F(2,220)=1.573</td><td>0.061</td><td>0.125</td></tr><tr><td>flat 50kHz</td><td>110023.4</td><td>20</td><td>5501.17</td><td>F (2,220) =1.347</td><td>0.152</td><td>0.109</td></tr><tr><td>22 kHz</td><td>5.736E+09</td><td>20</td><td>2.868E+08</td><td>F(2,220)=2.446</td><td>0.001**</td><td>0.182</td></tr></table></body></html>
+
+注:Bonferroni事后多重比较显示,flat ${ 5 0 } \mathrm { { k H z } }$ 的声波发出次数在第3天与第18天存在显著差异； $2 2 \mathrm { k H z }$ 的声波发出次数在第2,4,7,8,12,15,16,17,19,20,21 间至少与其中1天存在显著差异, $2 2 \mathrm { k H z }$ 的声波发出次数在第2,6,7,11,12,15,16,17,19,20,21间至少与其中1天存在显著差异； $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$ 。
+
+附表5丰富环境刺激次数和探索区域为组内变量的探索偏好区域等级计分指标的重复测量方差分析   
+
+<html><body><table><tr><td></td><td>Ss</td><td>DF</td><td>MS</td><td>F (DFn,DFd)</td><td>p</td><td>n</td></tr><tr><td>次数</td><td>9.975</td><td>8</td><td>1.247</td><td>F(8,88) =35.871</td><td>0.000***</td><td>0.348</td></tr><tr><td>区域</td><td>306.142</td><td>5</td><td>61.228</td><td>F(5,55) =38.137</td><td>0.000***</td><td>0.776</td></tr><tr><td>次数×区域</td><td>114.969</td><td>40</td><td>2.874</td><td>F(40,440) =4.561</td><td>0.000***</td><td>0.293</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+附表6丰富环境刺激次数和探索行为组内变量的探索物体数量指标的重复测量方差分析  
+
+<html><body><table><tr><td></td><td>Ss</td><td>DF</td><td>MS</td><td>F (DFn,DFd)</td><td>P</td><td>n</td></tr><tr><td>次数</td><td>90.309</td><td>8</td><td>11.289</td><td>F(8,88) =11.750</td><td>0.000***</td><td>0.516</td></tr><tr><td>行为</td><td>166.156</td><td>5</td><td>33.231</td><td>F (5,55) =18.550</td><td>0.000***</td><td>0.628</td></tr><tr><td>次数×行为</td><td>65.858</td><td>40</td><td>1.646</td><td>F(40,440) =2.898</td><td>0.000***</td><td>0.209</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+附表7异笼联谊次数为组内变量的出笼潜伏期指标的重复测量方差分析   
+
+<html><body><table><tr><td></td><td>SS</td><td>DF</td><td>MS</td><td>F (DFn,DFd)</td><td>p</td><td>n</td></tr><tr><td>出笼潜伏期</td><td>1814896</td><td>8</td><td>226862</td><td>F(8,88)=21.058</td><td>0.000***</td><td>0.657</td></tr></table></body></html>
+
+注：Bonferroni事后多重比较显示,1\~3天的出笼潜伏期与 $4 { \sim } 6$ 天的出笼潜伏期存在显著差异。 $^ { * } p < 0 . 0 5$ ， $\ast \ast _ { p } <$
+
+附表8异笼联谊次数和互动行为组内变量的社会行为是否出现指标的重复测量方差分析  
+
+<html><body><table><tr><td></td><td>SS</td><td>DF</td><td>MS</td><td>F (DFn,DFd)</td><td>p</td><td></td></tr><tr><td>次数</td><td>102.4</td><td>8</td><td>12.8</td><td>F(8,88) =35.898</td><td>0.000***</td><td>0.765</td></tr><tr><td>行为</td><td>178.641</td><td>4</td><td>44.66</td><td>F(4,44)=107.423</td><td>0.000***</td><td>0.907</td></tr><tr><td>次数×行为</td><td>248.859</td><td>32</td><td>7.777</td><td>F (32,352)=22.111</td><td>0.000***</td><td>0.668</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+# S2.4.2消极早期经历
+
+附表9消极早期经历次数为组内变量的排屎量指标的重复测量方差分析  
+
+<html><body><table><tr><td></td><td>Ss</td><td>DF</td><td>MS</td><td>F(DFn,DFd)</td><td>p</td><td>n²</td></tr><tr><td>强迫旋转</td><td>22.857</td><td>20</td><td>1.143</td><td>F (2,220)= 1.633</td><td>0.047*</td><td>0.129</td></tr><tr><td>强迫游泳/悬尾</td><td>17.913</td><td>20</td><td>0.896</td><td>F (2,220)=1.284</td><td>0.191</td><td>0.105</td></tr><tr><td>限制自由和猫刺激</td><td>3.27</td><td>20</td><td>0.163</td><td>F (2,220)=1.099</td><td>0.352</td><td>0.091</td></tr></table></body></html>
+
+注:Bonferroni事后多重比较显示,强迫旋转中，第2天与第7,15,21天，第8天与第11,13天存在排屎量等级计分上的显著差异。 $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+附表10 强迫游泳/悬尾次数为组内变量的挣扎程度指标的重复测量方差分析  
+
+<html><body><table><tr><td></td><td>Ss</td><td>DF</td><td>MS</td><td>F (DFn,DFd)</td><td>p</td><td>n</td></tr><tr><td>挣扎程度</td><td>47.524</td><td>20</td><td>2.376</td><td>F (2,220)=3.260</td><td>0.000***</td><td>0.229</td></tr></table></body></html>
+
+注：Bonferroni事后多重比较显示,挣扎行为中，除第6,8,13,14,15,16,18,20天，其余天数皆至少与其余1天存在挣扎程度上的显著差异。 $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+附表11限制自由和猫刺激次数为组内变量的特征行为指标的重复测量方差分析  
+
+<html><body><table><tr><td></td><td>SS</td><td>DF</td><td>MS</td><td>F (DFn,DFd)</td><td>p</td><td>n</td></tr><tr><td>是否撒尿</td><td>7.056</td><td>20</td><td>0.353</td><td>F (2,220)=1.787</td><td>0.023*</td><td>0.14</td></tr><tr><td>是否顶盖</td><td>17.913</td><td>20</td><td>0.896</td><td>F(2,220)=6.697</td><td>0.000***</td><td>0.378</td></tr></table></body></html>
+
+注：Bonferroni事后多重比较显示,撒尿行为中，第11天有第5,6,7天有显著差异；顶盖行为中，除第4,6,10,11,15 天，其余天数皆至少与其余1天存在是否顶盖上的显著差异。 $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+# S2.4.3糖水后测
+
+附表12在糖水消耗量中以组别和测试测试次数为自变量的两因素的重复测量方差分析   
+
+<html><body><table><tr><td></td><td>Ss</td><td>DF</td><td>MS</td><td>F (DFn,DFd)</td><td>P</td><td>n²</td></tr><tr><td>组别</td><td>273.871</td><td>2</td><td>136.936</td><td>F (2.9)= 2.731</td><td>0.118</td><td>0.378</td></tr><tr><td>测试次数</td><td>1508.1</td><td>20</td><td>75.405</td><td>F(20,180)= 8.115</td><td>0.000***</td><td>0.474</td></tr><tr><td>组别x测试次数</td><td>677.796</td><td>40</td><td>16.945</td><td>F(40,180)=1.824</td><td>0.004*</td><td>0.288</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+# S2.5行为发展水平测试
+
+# S2.5.1情绪行为测试图表
+
+附表13进入O迷宫危险区域指标的单因素的完全随机方差分析  
+
+<html><body><table><tr><td></td><td>SS</td><td>DF</td><td>MS</td><td>F (DFn,DFd)</td><td>p</td><td></td></tr><tr><td>进入危险区的次 数</td><td>4830.17</td><td>2</td><td>2415.08</td><td>F(2,33)= 15.978</td><td>0.000***</td><td>0.492</td></tr><tr><td>进入危险区的时</td><td>0.42</td><td>2</td><td>0.21</td><td>F (2,33) = 8.434</td><td>0.001***</td><td>0.338</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+附表14不同组别进入O迷宫危险区域指标的的事后多重比较  
+
+<html><body><table><tr><td></td><td></td><td>MD</td><td>SE</td><td>p</td><td>95%CI</td></tr><tr><td>进入危险区的</td><td>对照&积极</td><td>-22.58</td><td>5.02</td><td>0.000***</td><td>[-35.24，-9.92]</td></tr><tr><td>次数</td><td>消极&积极</td><td>-26.17</td><td>5.02</td><td>0.000***</td><td>[-38.83，-13.51]</td></tr><tr><td></td><td>消极&对照</td><td>-3.58</td><td>5.02</td><td>1.000</td><td>[-16.24，9.08]</td></tr><tr><td>进入危险区的</td><td>对照&积极</td><td>-0.2</td><td>0.06</td><td>0.013*</td><td>[-.36，-.04]</td></tr><tr><td>时间比例</td><td>消极&积极</td><td>-0.25</td><td>0.06</td><td>0.001***</td><td>[-.41，-.09]</td></tr><tr><td></td><td>消极&对照</td><td>-0.05</td><td>0.06</td><td>1.000</td><td>[-.22，.11]</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+附表15旷场测试指标的单因素的完全随机方差分析  
+
+<html><body><table><tr><td></td><td>SS</td><td>DF</td><td>MS</td><td>F (DFn,DFd)</td><td>P</td><td>n</td></tr><tr><td>进入中心区域的时间比例</td><td>211.407</td><td>2</td><td>105.703</td><td>F (2,33)= 3.300</td><td>0.049*</td><td>0.167</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ ， $^ { * * * } p < 0 . 0 0 1$
+
+附表16不同组别进入旷场中心区域时间比例的事后多重比较  
+
+<html><body><table><tr><td></td><td></td><td>MD</td><td>SE</td><td>p</td><td>95%CI</td></tr><tr><td rowspan="2">进入中心区域的时间比</td><td>对照&积极</td><td>-1.703</td><td>2.31</td><td>1.000</td><td>[-7.530，4.125]</td></tr><tr><td>消极&积极</td><td>-5.776</td><td>2.31</td><td>0.053</td><td>[-11.603，.051]</td></tr><tr><td>例</td><td>消极&对照</td><td>-4.073</td><td>2.31</td><td>0.262</td><td>[-9.900，1.754]</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+附表17新异环境进食的单因素的完全随机方差分析  
+
+<html><body><table><tr><td></td><td>SS</td><td>DF</td><td>MS</td><td>F (DFn,DFd)</td><td>P</td><td></td></tr><tr><td>新异环境下开始进食用 时</td><td>106731.722</td><td>2</td><td>53365.861</td><td>F(2,33)=3.715</td><td>0.035</td><td>0.184</td></tr><tr><td>熟悉环境下开始进食用 时</td><td>30165.722</td><td>2</td><td>15082.861</td><td>F (2,33) = 4.549</td><td>0.018</td><td>0.216</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+.附表18不同组别开始进食用时的事后多重比较  
+
+<html><body><table><tr><td></td><td></td><td>MD</td><td>SE</td><td>p</td><td>95%CI</td></tr><tr><td rowspan="2">新异环境下开始进 食用时</td><td>对照&积极</td><td>32.42</td><td>48.93</td><td>1</td><td>[-90.99，155.83]</td></tr><tr><td>消极&积极</td><td>128.25</td><td>48.93</td><td>0.04*</td><td>[4.84，251.66]</td></tr><tr><td rowspan="3">熟悉环境下开始进</td><td>消极&对照</td><td>95.83</td><td>48.93</td><td>0.176</td><td>[-27.58，219.24]</td></tr><tr><td>对照&积极</td><td>23.83</td><td>23.51</td><td>0.954</td><td>[-35.46.83.12]</td></tr><tr><td>消极&积极</td><td>69.75</td><td>23.51</td><td>0.017*</td><td>[10.46，129.04]</td></tr><tr><td>食用时</td><td>消极&对照</td><td>45.92</td><td>23.51</td><td>0.178</td><td>[-13.37，105.21]</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+附表19学习装置适应指标的单因素的完全随机方差分析  
+
+<html><body><table><tr><td></td><td>Ss</td><td>DF</td><td>MS</td><td>F (DFn,DFd)</td><td>p</td><td>n</td></tr><tr><td>试探进入限制器次数</td><td>98</td><td>2</td><td>49</td><td>F(2,33) = 3.880</td><td>.031*</td><td>0.19</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+附表20不同组别学习装置适应指标的事后多重比较  
+
+<html><body><table><tr><td></td><td></td><td>MD</td><td>SE</td><td>p</td><td>95%CI</td></tr><tr><td rowspan="3">试探进入限制器次数</td><td>对照&积极</td><td>1.5</td><td>1.451</td><td>.926</td><td>[-2.159，5.159]</td></tr><tr><td>消极&积极</td><td>4</td><td>1.451</td><td>.028*</td><td>[0.341， 7.659]</td></tr><tr><td>消极&对照</td><td>2.5</td><td>1.451</td><td>.283</td><td>[-1.159，6.159]</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+# S2.5.2学习行为测试图表
+
+附表21在高等难度下新物体识别测试有记忆大鼠占比的单因素的完全随机方差分析  
+
+<html><body><table><tr><td></td><td>SS</td><td>DF</td><td>MS</td><td>F(DFn,DFd)</td><td>p</td><td>n²</td></tr><tr><td>短时偏向</td><td>0.522</td><td>2</td><td>0.261</td><td>F(2,33)=1.106</td><td>0.343</td><td>0.063</td></tr><tr><td>短时牢固</td><td>0.23</td><td>2</td><td>0.115</td><td>F(2,33)=0.583</td><td>0.564</td><td>0.034</td></tr><tr><td>长时偏向</td><td>0.405</td><td>2</td><td>0.203</td><td>F(2,33)=1.454</td><td>0.248</td><td>0.081</td></tr><tr><td>长时牢固</td><td>0.354</td><td>2</td><td>0.177</td><td>F (2,33) =0.734</td><td>0.487</td><td>0.043</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+附表22在中等难度下新物体识别测试有记忆大鼠占比的单因素的完全随机方差分析  
+
+<html><body><table><tr><td></td><td>SS</td><td>DF</td><td>MS</td><td>F(DFn,DFd)</td><td>p</td><td></td></tr><tr><td>短时偏向</td><td>0.318</td><td>2</td><td>0.159</td><td>F (2,33) =0.888</td><td>0.421</td><td>0.051</td></tr><tr><td>短时牢固</td><td>0.557</td><td>2</td><td>0.279</td><td>F(2,33)=1.089</td><td>0.348</td><td>0.062</td></tr><tr><td>长时偏向</td><td>1.01</td><td>2</td><td>0.505</td><td>F (2,33)= 6.548</td><td>0.004**</td><td>0.284</td></tr><tr><td>长时牢固</td><td>0.713</td><td>2</td><td>0.357</td><td>F(2,33)=1.440</td><td>0.251</td><td>0.08</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+附表23不同组别中等难度下新物体识别测试有长时记忆偏向的大鼠占比的事后多重比较  
+
+<html><body><table><tr><td></td><td></td><td>MD</td><td>SE</td><td>p</td><td>95%CI</td></tr><tr><td rowspan="3">长时偏向</td><td>对照&积极</td><td>0.364</td><td>0.116</td><td>0.011*</td><td>[0.071，0.656]</td></tr><tr><td>消极&积极</td><td>0.364</td><td>0.114</td><td>0.009**</td><td>[0.077，0.651]</td></tr><tr><td>消极&对照</td><td>7.35</td><td>0.111</td><td>1.000</td><td>[-0.280，0.280]</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ ， $^ { * * * } p < 0 . 0 0 1$
+
+附表24整合性学习大鼠自发学习行为指标的重复测量方差分析  
+
+<html><body><table><tr><td></td><td></td><td>SS</td><td>DF</td><td>MS</td><td>F (DFn,DFd)</td><td>p</td><td>n²</td></tr><tr><td rowspan="3">是否上墙探索</td><td>组别</td><td>6.294</td><td>2</td><td>3.147</td><td>F (2,33) =4.725</td><td>0.016*</td><td>0.223</td></tr><tr><td>学习次数</td><td>1.167</td><td>6</td><td>0.194</td><td>F (6,198)=1.891</td><td>0.084</td><td>0.054</td></tr><tr><td>组别×学习次数</td><td>0.762</td><td>12</td><td>0.063</td><td>F (12,198)=0.618</td><td>0.826</td><td>0.036</td></tr><tr><td rowspan="3">是否上墙走短路径到 终点</td><td>组别</td><td>2.786</td><td>2</td><td>1.393</td><td>F(2,33)=3.242</td><td>0.052</td><td>0.164</td></tr><tr><td>学习次数</td><td>1.381</td><td>6</td><td>0.23</td><td>F (6,198) =3.442</td><td>0.003**</td><td>0.094</td></tr><tr><td>组别×学习次数</td><td>1.381</td><td>12</td><td>0.115</td><td>F(12,198)=1.721</td><td>0.065</td><td>0.094</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+附表25不同组别整合性学习大鼠自发学习行为指标的组别事后多重比较  
+
+<html><body><table><tr><td></td><td></td><td>MD</td><td>SE</td><td>p</td><td>95%CI</td></tr><tr><td rowspan="3">是否上墙探索</td><td>对照&积极</td><td>-0.381</td><td>0.126</td><td>0.014*</td><td>[-0.699，-0.063]</td></tr><tr><td>消极&积极</td><td>-0.25</td><td>0.126</td><td>0.166</td><td>[-0.568，-0.068]</td></tr><tr><td>消极&对照</td><td>0.131</td><td>0.126</td><td>0.918</td><td>[-0.187，0.449]</td></tr><tr><td rowspan="3">是否上墙走短路径到终点</td><td>对照&积极</td><td>-0.25</td><td>0.101</td><td>0.056</td><td>[-0.505，0.005]</td></tr><tr><td>消极&积极</td><td>-0.179</td><td>0.101</td><td>0.26</td><td>[-0.434，0.077]</td></tr><tr><td>消极&对照</td><td>0.071</td><td>0.101</td><td>1</td><td>[-0.184，0.327]</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+附表26开门学习半开门状态开门比例的重复测量方差分析   
+
+<html><body><table><tr><td></td><td>SS</td><td>DF</td><td>MS</td><td>F (DFn,DFd)</td><td>p</td><td>n²</td></tr><tr><td>组别</td><td>1.478</td><td>2</td><td>0.739</td><td>F (2,33) =0.946</td><td>0.399</td><td>0.054</td></tr><tr><td>学习次数</td><td>0.811</td><td>4</td><td>0.203</td><td>F (4,132)=1.963</td><td>0.104</td><td>0.056</td></tr><tr><td>组别×学习次数</td><td>0.356</td><td>8</td><td>0.044</td><td>F(8,132)=0.43</td><td>0.901</td><td>0.025</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+附表27开门学习全关门状态开门比例的重复测量方差分析   
+
+<html><body><table><tr><td></td><td>Ss</td><td>DF</td><td>MS</td><td>F (DFn,DFd)</td><td>p</td><td>n²</td></tr><tr><td>组别</td><td>0.233</td><td>2</td><td>0.117</td><td>F (2,33)=0.142</td><td>0.868</td><td>0.009</td></tr><tr><td>学习次数</td><td>1.478</td><td>4</td><td>0.369</td><td>F (4,132)=4.893</td><td>0.001**</td><td>0.129</td></tr><tr><td>组别×学习次数</td><td>0.156</td><td>8</td><td>0.019</td><td>F(8,132)=0.258</td><td>0.978</td><td>0.015</td></tr></table></body></html>
+
+注：Bonferroni事后多重比较显示,第1天和第5天的开门比例显著差异。 $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ ， $^ { * * * } p < 0 . 0 0 1$
+
+# S2.5.3社会行为测试图表
+
+1、社交偏好测试  
+
+<html><body><table><tr><td></td><td>SS</td><td>DF</td><td>MS</td><td>F(DFn,DFd)</td><td>p</td><td></td></tr><tr><td>社交对象</td><td>8122.806</td><td>1.966</td><td>4132.632</td><td>F(2,66)=122.123</td><td>0.000***</td><td>0.787</td></tr><tr><td>组别</td><td>362.268</td><td>2</td><td>181.134</td><td>F (2,33) =2.567</td><td>0.092</td><td>0.135</td></tr><tr><td>社交对象×组别</td><td>951.982</td><td>3.931</td><td>242.169</td><td>F(4,66)= 7.156</td><td>0.000***</td><td>0.303</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+附表28社交偏好测试的两因素的重复测量方差分析  
+附表29不同社交箱条件下的组别的时间比例的组内简单效应比较  
+
+<html><body><table><tr><td></td><td></td><td>MD</td><td>SE</td><td>P</td><td>95%CI</td></tr><tr><td rowspan="2">积极</td><td>假鼠箱&空白箱</td><td>7.10</td><td>2.73</td><td>0.074</td><td>[-0.59，14.79]</td></tr><tr><td>假鼠箱&陌生鼠箱</td><td>-14.87</td><td>2.18</td><td>0.000***</td><td>[-21.03，-8.71]</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="6">对照</td><td>陌生鼠箱&空白箱</td><td>21.97</td><td>2.62</td><td>0.000***</td><td>14.59，29.36]</td></tr><tr><td>假鼠箱&空白箱</td><td>-4.53</td><td>2.31</td><td>0.227</td><td>[-11.04，1.98]</td></tr><tr><td>假鼠箱&陌生鼠箱</td><td>-17.04</td><td>2.64</td><td>0.000***</td><td>[-24.47，-9.61]</td></tr><tr><td>陌生鼠箱&空白箱</td><td>12.51</td><td>1.92</td><td>0.000***</td><td>[7.09，17.94]</td></tr><tr><td>假鼠箱&空白箱</td><td>-8.06</td><td>2.26</td><td>0.013*</td><td>[-14.44，-1.68]</td></tr><tr><td>假鼠箱&陌生鼠箱</td><td>-25.82</td><td>2.42</td><td>0.000***</td><td>[-32.63，-19.00]</td></tr><tr><td>陌生鼠箱&空白箱</td><td></td><td>17.76</td><td>1.97</td><td>0.000***</td><td>[12.21，23.31]</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+附表30 不同组别进入社交箱的时间比例的组间简单效应比较  
+
+<html><body><table><tr><td></td><td></td><td>MD</td><td>SE</td><td>p</td><td>95%CI</td></tr><tr><td rowspan="3">假鼠 箱</td><td>对照&积极</td><td>-8.926</td><td>2.694</td><td>0.007**</td><td>[-15.721，-2.132]</td></tr><tr><td>消极&积极</td><td>-11.891</td><td>2.694</td><td>0.000***</td><td>[-18.686，-5.097]</td></tr><tr><td>消极&对照</td><td>-2.965</td><td>2.694</td><td>0.837</td><td>[-9.760，3.830]</td></tr><tr><td rowspan="3">空白 箱</td><td>对照&积极</td><td>2.703</td><td>2.567</td><td>0.900</td><td>[-3.770，9.177]</td></tr><tr><td>消极&积极</td><td>3.270</td><td>2.567</td><td>0.635</td><td>[-3.203，9.744]</td></tr><tr><td>消极&对照</td><td>0.567</td><td>2.567</td><td>1.000</td><td>[-5.907，7.040]</td></tr><tr><td rowspan="3">陌生 箱</td><td>对照&积极</td><td>-6.759</td><td>3.000</td><td>0.093</td><td>[-14.326，0.809]</td></tr><tr><td>消极&积极</td><td>-0.945</td><td>3.000</td><td>1.000</td><td>[-8.512，6.622]</td></tr><tr><td>消极&对照</td><td>5.813</td><td>3.000</td><td>0.184</td><td>[-1.754，13.380]</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+附表31社交偏好测试中社交对象的事后多重比较  
+
+<html><body><table><tr><td></td><td></td><td>MD</td><td>SE</td><td>p</td><td>95%CI</td></tr><tr><td rowspan="3">社交对</td><td>假鼠箱&空白箱</td><td>-1.827</td><td>1.410</td><td>0.612</td><td>[-5.383，1.729]</td></tr><tr><td>假鼠箱&陌生鼠箱</td><td>-19.242</td><td>1.397</td><td>0.000***</td><td>[-22.765，-15.719]</td></tr><tr><td>陌生鼠箱&空白箱</td><td>17.415</td><td>1.266</td><td>0.000***</td><td>[-14.221，20.61]</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+# 2、分享测验
+
+附表32分享测验的两因素重复测量方差分析   
+
+<html><body><table><tr><td></td><td>SS</td><td>DF</td><td>MS</td><td>F (DFn,DFd)</td><td>P</td><td>n²</td></tr><tr><td>分享对象</td><td>36343.574</td><td>2.000</td><td>18171.787</td><td>F (2,66)= 17.285</td><td>0.000***</td><td>0.344</td></tr><tr><td>组别</td><td>16658.130</td><td>2.000</td><td>8329.065</td><td>F (2,66) = 3.796</td><td>0.033*</td><td>0.187</td></tr><tr><td>分享对象×组别</td><td>10925.537</td><td>4.000</td><td>2731.384</td><td>F (4,66) = 2.598</td><td>0.044*</td><td>0.136</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+附表33不同组别在分享对象上的简单效应比较  
+
+<html><body><table><tr><td></td><td></td><td>MD</td><td>SE</td><td>p</td><td>95%CI</td></tr><tr><td rowspan="2">积</td><td>假鼠&真鼠</td><td>23.33</td><td>12.36</td><td>0.257</td><td>[-11.52,58.19]</td></tr><tr><td>空白&真鼠</td><td>-7.17</td><td>5.93</td><td>0.756</td><td>[-23.89,-9.55]</td></tr><tr><td rowspan="2">极</td><td>空白&假鼠</td><td>-30.50</td><td>13.23</td><td>0.125</td><td>[-67.82,6.82]</td></tr><tr><td>假鼠&真鼠</td><td>0.00</td><td>17.01</td><td>1.000</td><td>[-47.96,47.96]</td></tr><tr><td rowspan="2">对 照</td><td>空白&真鼠</td><td>-35.08</td><td>13.99</td><td>0.087</td><td>[-74.54,4.38]</td></tr><tr><td>空白&假鼠</td><td>-35.08</td><td>7.51</td><td>0.002**</td><td>[-56.25,-13.92]</td></tr><tr><td rowspan="2">消</td><td>假鼠&真鼠</td><td>-8.58</td><td>17.26</td><td>1.000</td><td>[-57.27,40.10]</td></tr><tr><td>空白&真鼠</td><td>-66.42</td><td>16.38</td><td>0.006**</td><td>[-112.62,-20.22]</td></tr><tr><td>极</td><td>空白&假鼠</td><td>-57.83</td><td>10.30</td><td>0.000***</td><td>[-86.89,-28.78]</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+附表34不同分享对象在组别上的简单效应比较  
+
+<html><body><table><tr><td></td><td></td><td>MD</td><td>SE</td><td>p</td><td>95%CI</td></tr><tr><td></td><td>对照&积极</td><td>29.67</td><td>18.69</td><td>0.366</td><td>[-17.47,76.80]</td></tr><tr><td>真鼠</td><td>消极&积极</td><td>60.67</td><td>18.69</td><td>0.008**</td><td>[13.53,107.80]</td></tr><tr><td></td><td>消极&对照</td><td>31.00</td><td>18.69</td><td>0.320</td><td>[-16.14,78.14]</td></tr><tr><td></td><td>对照&积极</td><td>6.33</td><td>16.81</td><td>1.000</td><td>[-36.07,48.73]</td></tr><tr><td>假鼠</td><td>消极&积极</td><td>28.75</td><td>16.81</td><td>0.290</td><td>[-13.65,71.15]</td></tr><tr><td></td><td>消极&对照</td><td>22.42</td><td>16.81</td><td>0.574</td><td>[-19.98,64.82]</td></tr><tr><td></td><td>对照&积极</td><td>1.75</td><td>9.18</td><td>1.000</td><td>[-21.41,24.91]</td></tr><tr><td>空白</td><td>消极&积极</td><td>1.42</td><td>9.18</td><td>1.000</td><td>[-21.74,24.57]</td></tr><tr><td></td><td>消极&对照</td><td>-0.33</td><td>9.18</td><td>1.000</td><td>[-23.49,-22.82]</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+附表35分享对象和组别的事后多重比较  
+
+<html><body><table><tr><td></td><td></td><td>MD</td><td>SE</td><td>p</td><td>95%CI</td></tr><tr><td>分</td><td>假鼠&真鼠</td><td>4.917</td><td>9.068</td><td>1</td><td>[-17,954,27.788]</td></tr><tr><td>享</td><td>空白&真鼠</td><td>-36.222</td><td>7.448</td><td>0.000***</td><td>[-55.009,-17.436]</td></tr><tr><td>对</td><td>空白&假鼠</td><td>-41.139</td><td>6.125</td><td>0.000***</td><td>[-56.587,-25.691]</td></tr><tr><td>象</td><td>对照&积极</td><td>12.583</td><td>11.041</td><td>0.788</td><td>[-15.263,40.430]</td></tr><tr><td>组</td><td>消极&积极</td><td>30.277</td><td>11.041</td><td>0.029*</td><td>[2.431,58.124]</td></tr><tr><td>别</td><td>消极&对照</td><td>17.694</td><td>11.041</td><td>0.356</td><td>[-10.152,45.541]</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+# 3开门营救和开门共享的大鼠只数
+
+附表36开门只数的单因素完全随机方差分析  
+
+<html><body><table><tr><td></td><td>SS</td><td>DF</td><td>MS</td><td>F (DFn, DFd)</td><td>p</td><td></td></tr><tr><td>开门营救</td><td>0.67</td><td>2.00</td><td>0.33</td><td>F (2.6) = 0.600</td><td>0.579</td><td>0.167</td></tr><tr><td>开门分享</td><td>29.56</td><td>2.00</td><td>14.78</td><td>F (2.6)= 6.650</td><td>0.030*</td><td>0.689</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+附表37开门共享测试中不同组别的事后多重比较  
+
+<html><body><table><tr><td></td><td></td><td>MD</td><td>SE</td><td>p</td><td>95%CI</td></tr><tr><td rowspan="4">Bonferroni</td><td>对照&积极</td><td>4.00</td><td>1.22</td><td>0.050*</td><td>[-0.00,8.00]</td></tr><tr><td>消极&积极</td><td>0.33</td><td>1.22</td><td>1.000</td><td>[-3.69,4.34]</td></tr><tr><td>消极&对照</td><td>-3.67</td><td>1.22</td><td>0.071</td><td>[-7.67,0.34]</td></tr><tr><td>对照&积极</td><td>4.00</td><td>1.22</td><td>0.017*</td><td>[1.02,6.98]</td></tr><tr><td rowspan="2">LSD</td><td>消极&积极</td><td>0.33</td><td>1.22</td><td>0.793</td><td>[-2.65,3.31]</td></tr><tr><td>消极&对照</td><td>-3.67</td><td>1.22</td><td>0.024*</td><td>[-6.65,-0.69]</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+附表38营救和共享是否开门的重复测量方差分析   
+
+<html><body><table><tr><td></td><td></td><td>SS</td><td>DF</td><td>MS</td><td>F(DFn,DFd)</td><td>p</td><td>n²</td></tr><tr><td rowspan="4">开门营救</td><td>组别</td><td>0.056</td><td>2</td><td>0.028</td><td>F(2,33)=0.09</td><td>0.914</td><td>0.005</td></tr><tr><td>测试次数</td><td>0.056</td><td>2</td><td>0.028</td><td>F (2.66)=0.287</td><td>0.751</td><td>0.009</td></tr><tr><td>组别×测试次</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>数</td><td>0.222</td><td>4</td><td>0.056</td><td>F(4,66)=0.574</td><td>0.683</td><td>0.034</td></tr><tr><td rowspan="4">开门共享</td><td>组别</td><td>2.04</td><td>2</td><td>1.02</td><td>F(2,29)=1.946</td><td>0.161</td><td>0.118</td></tr><tr><td>测试次数</td><td>0.74</td><td>2</td><td>0.37</td><td>F (2,58) =3.818</td><td>0.028*</td><td>0.116</td></tr><tr><td>组别×测试次</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>数</td><td>0.298</td><td>4</td><td>0.075</td><td>F (4,58) =0.77</td><td>0.549</td><td>0.05</td></tr></table></body></html>
+
+注：进行的是允许缺失数据存在的方差分析，缺失原因：开门共享测试中，个别被共享鼠从对侧主动开门。 $^ * p$
+
+# 4、开门营救和开门共享测试用时
+
+附表39开门营救的两因素重复测量方差分析   
+
+<html><body><table><tr><td></td><td>SS</td><td>DF</td><td>MS</td><td>F(DFn,DFd)</td><td>p</td><td>n²</td></tr><tr><td>次数</td><td>190332.72</td><td>2.00</td><td>95166.36</td><td>F (2,66)= 6.025</td><td>0.004**</td><td>0.154</td></tr><tr><td>组别</td><td>78980.22</td><td>2.00</td><td>39490.11</td><td>F(2,33)=0.303</td><td>0.740</td><td>0.018</td></tr><tr><td>条件×组别</td><td>78085.39</td><td>4.00</td><td>19521.35</td><td>F (4,66) = 1.236</td><td>0.304</td><td>0.070</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+附表40在开门营救测验中不同组别的事后多重比较  
+
+<html><body><table><tr><td></td><td></td><td>MD</td><td>SE</td><td>p</td><td>95%CI</td></tr><tr><td rowspan="3">次数</td><td>2&1</td><td>-21.06</td><td>27.73</td><td>1.000</td><td>[-90.99,48.88]</td></tr><tr><td>3&1</td><td>-97.69</td><td>34.45</td><td>0.023*</td><td>[-184.58,-10.81]</td></tr><tr><td>3&2</td><td>-76.64</td><td>26.03</td><td>0.018*</td><td>[-142.28,-11.00]</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+附表41开门分享的两因素重复测量方差分析   
+
+<html><body><table><tr><td></td><td>Ss</td><td>DF</td><td>MS</td><td>F (DFn,DFd)</td><td>p</td><td>n</td></tr><tr><td>次数</td><td>249515.02</td><td>2.00</td><td>124757.51</td><td>F (2.66)= 4.599</td><td>0.013*</td><td>0.122</td></tr><tr><td>组别</td><td>232001.13</td><td>2.00</td><td>116000.57</td><td>F (2,33)= 674</td><td>0.516</td><td>0.039</td></tr><tr><td>条件×组别</td><td>106304.26</td><td>4.00</td><td>26576.07</td><td>F (4,66) =0.980</td><td>0.425</td><td>0.056</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+附表42在开门分享测验中不同组别的事后多重比较  
+
+<html><body><table><tr><td></td><td></td><td>MD</td><td>SE</td><td>P</td><td>95%CI</td></tr><tr><td rowspan="3">次数</td><td>2&1</td><td>-24.472</td><td>35.928</td><td>1.000</td><td>[-115.09,66.15]</td></tr><tr><td>3&1</td><td>87.5</td><td>42.425</td><td>0.141</td><td>[-19.51,194.51]</td></tr><tr><td>3&2</td><td>111.972</td><td>37.821</td><td>0.017*</td><td>[16.58,207.37]</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ ， $^ { * * * } p < 0 . 0 0 1$
+
+附表43管道测验的两因素的重复测量方差分析   
+
+<html><body><table><tr><td></td><td>SS</td><td>DF</td><td>MS</td><td>F (DFn,DFd)</td><td>p</td><td></td></tr><tr><td>组别</td><td>41.333</td><td>2</td><td>20.667</td><td>F(2,33)=4.883</td><td>0.014*</td><td>0.228</td></tr><tr><td>测试阶段</td><td>0.222</td><td>1</td><td>0.222</td><td>F(1,33)=0.256</td><td>0.616</td><td>0.008</td></tr><tr><td>组别×测试阶段</td><td>2.111</td><td>2</td><td>1.056</td><td>F (2,33)=1.215</td><td>0.31</td><td>0.069</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+附表44组间管道测验的组别变量的事后多重比较  
+
+<html><body><table><tr><td></td><td>MD</td><td>SE</td><td>p</td><td>95%CI</td></tr><tr><td>对照&积极</td><td>1.167</td><td>0.594</td><td>0.174</td><td>[-0.331，2.665]</td></tr><tr><td>消极&积极</td><td>-0.667</td><td>0.594</td><td>0.809</td><td>[-2.165，0.831]</td></tr><tr><td>消极&对照</td><td>-1.833</td><td>0.594</td><td>0.012*</td><td>[-3.331，-0.335]</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+附表45组间争食测验的两因素的重复测量方差分析   
+
+<html><body><table><tr><td></td><td>Ss</td><td>DF</td><td>MS</td><td>F (DFn,DFd)</td><td>p</td><td>n²</td></tr><tr><td>组别</td><td>7</td><td>2</td><td>3.5</td><td>F (2,33)=6.079</td><td>0.006**</td><td>0.269</td></tr><tr><td>测试阶段</td><td>0</td><td>1</td><td>0</td><td>F (1,33)=0</td><td>1</td><td>0</td></tr><tr><td>组别×测试阶段</td><td>1.333</td><td>2</td><td>0.667</td><td>F (2,33)=1.065</td><td>0.356</td><td>0.061</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+附表46组间争食测验的组别变量的事后多重比较  
+
+<html><body><table><tr><td></td><td>MD</td><td>SE</td><td>p</td><td>95%CI</td></tr><tr><td>对照&积极</td><td>-0.25</td><td>0.219</td><td>0.786</td><td>[-0.802，0.302]</td></tr><tr><td>消极&积极</td><td>-.750*</td><td>0.219</td><td>0.005**</td><td>[-1.302，-0.198]</td></tr><tr><td>消极&对照</td><td>-0.5</td><td>0.219</td><td>0.087</td><td>[-1.052，0.052]</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$
+
+# S3控制和对照实验测试结果补充
+
+S3.1早期经历干预阶段的主试评估与报告
+
+S3.1.1观察主试对互动主试的主观评估
+
+![](images/78b69c312446916879a62781ae61864d42b2f2a7b1f1dc502de2be36f8d2594e.jpg)  
+附图29主试TripleP操作评估
+
+安全的环境
+
+1- 不能够为大鼠营造安全的环境  
+2- $50 \%$ 的情况下能够为大鼠营造安全的环境  
+3- $7 5 \%$ 的情况下能够为大鼠营造安全的环境  
+4- $9 5 \%$ 以上的的情况下能够为大鼠营造安全的环境
+
+# 有趣的卷入式学习
+
+1- 不能够和大鼠进行稳定良好的互动  
+2- $50 \%$ 的情况下能够和大鼠进稳定行良好的互动  
+3- $7 5 \%$ 的情况下能够和大鼠进行稳定良好的互动  
+4- $9 5 \%$ 以上的情况下能够和大鼠进行稳定良好的互动
+
+# 温和而坚定的纪律
+
+1- 不能够/从不以温柔的方式制止大鼠的"违规"行为  
+2- $50 \%$ 的情况下能够以温柔的方式制止大鼠的"违规"行为  
+3- $7 5 \%$ 的情况下能够以温柔的方式制止大鼠的“违规"行为
+
+# 4 $9 5 \%$ 以上的情况下能够以温柔的方式制止大鼠的"违规"行为合理的期待
+
+1- 对于大鼠的期待总是不合理  
+2- $50 \%$ 的情况下对于大鼠的期待合理  
+3- $7 5 \%$ 的情况下对于大鼠的期待合理  
+4- $9 5 \%$ 以上的情况下对于大鼠的期待合理
+
+![](images/e4cd87ed9705eabbde8441db6d9df71da421e020490c6a6e260bf4147ca27296.jpg)  
+  
+附图30主试自我调节情况
+
+自我调节包括以下方面：
+
+self-management（自我管理）
+
+1- 不能做到良好的自我情绪管理  
+2- $50 \%$ 的情况下能做到良好的自我情绪管理  
+3- $7 5 \%$ 的情况下能做到良好的自我情绪管理  
+4- $9 5 \%$ 以上的情况下能做到良好的自我情绪管理
+
+# self-efficacy（自我效能）
+
+1- 不相信本身的积极早期经历能够产生良好的的效果  
+2- $50 \%$ 相信本身的积极早期经历能够产生良好的效果  
+3- $7 5 \%$ 相信本身的积极早期经历能够产生良好的效果  
+4- $9 5 \%$ 以上相信本身的积极早期经历能够产生良好的效果
+
+# personalagency（体自理性）
+
+1- 认为大鼠的变化完全是他因性的  
+2- 认为大鼠的变化大部分是他因性的  
+3- 认为大鼠的变化大部分是自因性的  
+4- 认为大鼠的变化完全是自因性的
+
+# self-sufficiency（自足性）
+
+1- 不能够独立流畅轻柔的完成积极早期经历操作  
+2- $50 \%$ 的情况下能够独立流畅轻柔的完成教积极养操作  
+3- $7 5 \%$ 的情况下能够独立流畅轻柔的完成积极早期经历操作  
+4- $9 5 \%$ 以上的情况下能够独立流畅轻柔的完成积极早期经历操作
+
+主试A  
+
+<html><body><table><tr><td></td><td>安全的环境</td><td>卷入式学习</td><td>温和坚定的纪律</td><td>合理的期待</td></tr><tr><td>主试A</td><td>4</td><td>4</td><td>2</td><td>3.5</td></tr></table></body></html>
+
+温和坚定的纪律：观察到主试A在早期经历中遇到大鼠长时间啃咬积木玩具，逃跑之类的"违规"行为时，并不经常采取干预大鼠行为的措施。
+
+合理的期待：主试A在讨论会中口头表明期待他的2号大鼠会尝试一些特别大胆夸张的行为，比如从高处跳下逃跑，或是翻跟头。
+
+<html><body><table><tr><td></td><td>自我管理</td><td>自我效能</td><td>体自理性</td><td>自足性</td></tr><tr><td>主试A</td><td>3.5</td><td>4</td><td>3</td><td>3</td></tr></table></body></html>
+
+自我管理：观察到主试A在实验的后半程几次早期经历中，也许是因为睡觉时间比较迟，或者是平时的安排比较满，在早期经历时体现的状态疲惫。  
+体自理性：主试A曾在讨论会议中提出，大鼠偶尔的行为模式会出现一些波动，主试A提过几种设想，认为行为模式改变也许与笼内打斗，等因素有关。  
+自足性：观察到主试A在早期经历过程中会出现找不到计时器，找不到打卡卡片，找不到笔等等情况，需要实验管理人员帮助其获取这些实验用具。
+
+主试B  
+
+<html><body><table><tr><td></td><td>安全的环境</td><td>卷入式学习</td><td>温和坚定的纪律</td><td>合理的期待</td></tr><tr><td>主试B</td><td>4</td><td>3.5</td><td>4</td><td>4</td></tr></table></body></html>
+
+卷入式学习：观察到主试B在抚摸早期经历过程中，对于大鼠大部分的互动行为都有做到良好的回应配合，然而对于大鼠的一些亲密性高的互动行为（比如上肩，嗅头发，嗅耳朵，嗅脖子等等）有一定的抗拒反应。
+
+<html><body><table><tr><td></td><td>自我管理</td><td>自我效能</td><td>体自理性</td><td>自足性</td></tr><tr><td>主试B</td><td>4</td><td>3</td><td>3</td><td>4</td></tr></table></body></html>
+
+自我效能：主试B在讨论会议中表达过，对于早期经历是否能让其积极组大鼠产生预期的效果表示不能完全肯定。
+
+体自理性：主试B 曾在讨论会议中提出，大鼠偶尔的行为模式会出现一些波动，并提过几种设想，认为行为模式改变也许与笼内打斗，或者其他未知因素有关
+
+主试C  
+
+<html><body><table><tr><td></td><td>安全的环境</td><td>卷入式学习</td><td>温和坚定的纪律</td><td>合理的期待</td></tr><tr><td>主试C</td><td>4</td><td>4</td><td>4</td><td>4</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>自我管理</td><td>自我效能</td><td>体自理性</td><td>自足性</td></tr><tr><td>主试C</td><td>3.5</td><td>4</td><td>3</td><td>4</td></tr></table></body></html>
+
+自我管理：观察到主试C在早期经历阶段后半程到几次早期经历中，有比较疲惫，注意力不够集中的情况。
+
+体自理性：主试C曾在讨论会议中提出，大鼠偶尔的行为模式会出现一些波动，认为行为模式改变也许与笼内打斗，或者其他未知因素有关
+
+主试D  
+
+<html><body><table><tr><td></td><td>安全的环境</td><td>卷入式学习</td><td>温和坚定的纪律</td><td>合理的期待</td></tr><tr><td>主试D</td><td>4</td><td>2.5</td><td>3</td><td>3</td></tr></table></body></html>
+
+卷入式学习：观察到在整个实验过程中，主试D在与大鼠做抚摸早期经历时，大鼠总是出现逃跑，或者钻到主试身后不动不出来的情况。因为这样的情况占据了很大一部分早期经历的时间，所以对于大鼠的行为积极回应与互动的机会不是很多。
+
+温和坚定的纪律：观察到在实验过程中，对于大鼠出现的啃咬积木玩具等等"违规"行为，有时会干预制止，而有时选择不干预。
+
+合理的期待：主试D在讨论会议中反复提到过，认为自己的积极大鼠总是很消极，消极大鼠非常积极，而自己不知道为什么。这样的先置认知，也许会让主试D在操作时抱着这样一种积极鼠会表现的消极的期待
+
+<html><body><table><tr><td></td><td>自我管理</td><td>自我效能</td><td>体自理性</td><td>自足性</td></tr><tr><td>主试D</td><td>2.5</td><td>2.5</td><td>2.5</td><td>3</td></tr></table></body></html>
+
+自我管理：观察到主试D在早期经历过程中，常常对大鼠“不配合"或者躲避抚摸的行为表现的沮丧，可以明显的听见主试D叹气，或者是显得比较受挫。
+
+自我效能：主试D 曾经在讨论会议中表达过，对于早期经历是否能让其积极组大鼠产生积极的性格表示不确定。
+
+体自理性：主试D、曾在讨论会议中提出，大鼠偶尔的行为模式会出现一些波动，认为行为模式改变也许与笼内打斗，或者其他未知因素有关。另外主试D也多次在讨论中表达过，认为自己的积极组大鼠天生性格就比较消极的观点。
+
+自足性：观察到主试D 在早期经历操作过程中，偶尔会忘记拿上一些必要的工具，秒表，手卡等，另外在操作上也不够细腻，比如操作时声音动静比较大（脚步，开闭笼盖，回收大鼠等等）
+
+# S3.1.2互动主试全程干预结束后对大鼠的行为发展预测和主观报告
+
+主试A积极组：
+
+1号的机警像是一种稳定的人格特质，会因为环境的熟悉而不表现出来，但当环境发生变化时，1号的机警又会被激活。1号的地位在三只之中处于中间，偶尔能击败2号，但被碾压的情况居多。在社交上1号乐于寻找其他的同伴，应该对社会性信息更感兴趣。1号在管道中会驱逐其他老鼠，也会把柠檬片积木等抢到自己手里。在竞争性掠食上或许会比较吝啬。在管道中应该能击败3号，是否击败2号取决于2号是不是对管道没有兴趣。
+
+2 号的活跃也是一种稳定的人格特质，在抚摸的第一天就能站上肩膀，能从比较高的地方跳下，无需辅助主动出笼等...对环境的焦虑应该会处于比较小的水平。2号获取柠檬片时，1号来抢，2号会让给1号，自己再去拿一片。在竞争性掠食上2号或许会表现地比较大方。在管道中2号无意驱逐其他老鼠，除了展示自己的力量。我觉得2号更可能因为对管道失去兴趣而主动退出。2号会主动去隔壁实验者身上进行联谊，对社会性信息应该比较敏感。
+
+3 号在最初的性格懒散，或者说是驼鸟。任你外界怎么欺凌，我自岿然不动。在联谊和抚摸中都被动地接受。在早期经历的过程中，逐渐克服出笼的高度，抚摸从被动接受到主动探索。是人格发生变化的个体。并且具有可迁移性，当环境发生变化的时候，3号保持的活跃相对较多。3 号在社会等级上应该还是最弱的，但差距在早期经历下减少。在竞争性掠食上不能判断，因为一般都是别人抢它的。3号对社会性信息的兴趣程度可能不如2号与1号那么高，它在联谊里有时一个人玩，但最近也会追逐老鼠，和别的老鼠趴在一起，差距应该不大。
+
+消极组：
+
+3号的消极情况比起1号2号应该会好不少，蛰伏而非无助。2号虽然叫声很大，屎尿也很多，但未必真比1号要消极，2号的挣扎比1号要多。从无助的情况上，1号最无助，2号次之，3号最不无助。从各项目来看，限制器与薄荷叶，对2号的影响最小，对1，3较大。2号最畏惧悬尾，1号在旋转中拉屎较多。
+
+主试B2积极组：
+
+4号：可以较快的熟悉环境，所以情绪测试应该会表现得比较好。有明显的护食表现，所以亲社会性可能会比较差。认知方面不清楚。
+
+5 号：是比较胆小、谨慎，所以在焦虑测试中表现应没有其他两只好。亲社会应该会比较更好。行为会有模仿4号的行为，探索很有阶段性，循序渐进。
+
+6 号：习惯一个人的积极探索，尤其是每个环境的边边角角，在焦虑测试中应该是表现得最好的，但是不是非常合群，所以亲社会性应比较不理想，但是认知方面应该会学习得不错。消极组：
+
+感觉它们的亲社会性应该都是不错的，因为每次实验时它们会相互依偎，
+
+4号：在恐惧环境中应该是习得比较快的。认知不清。
+
+5 号：知道怎样是对自己比较好的，适应能力比较强，认知测试的表现应该是不错的。
+
+6号：从第一天得早期经历到现在得早期经历中其实感觉消极早期经历对于它而言似乎是造成它更坚强得品质得，虽然在强迫游泳中的挣扎程度并没有很激烈，但是悬尾中依旧是保持非常强度的挣扎，且一直能保持到每个测试的结束，而不是随着时间体力变少。所以6号的品质应该是比较有利于它的学习。
+
+主试C2积极组：
+
+7号一开始属于跟跑型选手，因为同组小黑8的势力没落，他变的有些群龙无首的无所适从，开始自己去做一些新的探索，活跃度会比一开始升级很多，爱挑事的毛病似乎也从小黑8那里习得了一些，表现居中的这么一只大鼠，印象里比较像一只“傻大个”，焦虑应该不会高，亲社会程度比较高，学习能力也不错。
+
+8号在群体中的社会等级转变比较大，从一开始的最强壮、实力最强，现在变的有打必输，我想体重应该是它逢打必输的最主要原因，但失败的经历并不会影响它太多，它依然可以马上很活跃的参与团体中，或者跑跳着再次开心的玩耍。焦虑分数应该不高（虽然和人相处时表现的比较谨慎敏感，但是和大鼠在一起时表现的非常积极乐观），亲社会应该是最高的，学习能力也是三只中最强。
+
+9号从一开始最谨慎最胆小，到现在多了更多的探索，整体的表现会比较的自我，不太会跟别的大鼠分享自己得到的果实，也比较喜欢自己一个人的独处，焦虑情况可能是三只中比较高的，亲社会程度比较低是（但是和人的相处中最为温和），学习能力应该是不错，但是不一定有马上行动的魄力。
+
+消极组：
+
+7号的耐受能力比较低，对于消极情绪反应激烈明显，习得性无助表现的比较多，焦虑程度可能是3只中最高，亲社会情况一般，学习能力暂时看不太出来。
+
+8号从接手后到现在根据项目表现和回笼后的观察属于3只中最积极的，在体型变大再做限制器之后，体现出一些消极的表现，但总体来说，还是三只中最为积极的。焦虑测试分数应该在三只中较低（从消极早期经历中恢复的快），亲社会程度应该会比其他两只要高，学习能力比较难根据消极早期经历做预判。
+
+9号接手后的屎尿情况一直都是最多的一只，胆子最小，反抗的叫声和激烈的动作不太会表现出来，默默承受型，在早期经历结尾阶段，屎尿情况会有减少。焦虑测试不好确定，可能和8号差不多（但是会有不同的表现形式，挣扎不会幅度很大，但是会从头到位稳定坚持），亲社会程度一般，学习认知暂时看不出。
+
+# 主试D
+
+积极组：
+
+10 号大鼠：从开始到结束都是最瘦弱的一只，也是通过早期经历改变最明显的一只。刚开始因为体重以及应激的原因，在我的身上并未建立很好的安全感，尽管在前中期有1-2天有好转的迹象，但随之情况急转直下，逃跑行为一度让我头痛。甚至对我产生恐惧和抗拒的迹象。
+
+而随之而来的是在其余两项活动中处于自闭的状态。但在多位主试的陪伴以及支持下，包括在环境的改变后，10 号逐渐能在我身上与我相处，在黑暗处与我互动，最后能够在我身上感到安全感，而另外两项活动的表现也从侧面证明了这点。10 号大鼠的行为模式为喜爱在黑暗处活动，活跃度与社交、抚摸表现高度相关，对刺激极度敏感以及喜欢逃跑。
+
+11 号大鼠：11号大鼠在一开始就表现出很强的探索能力，是最早适应环境并开始探索我身体的一只大鼠，并且也是前期笼内社会地位最高的大鼠。但这种探索是可以被我规范到的。直到中起出现严重的应激后，在我身上基本不动。随后也出现了严重的逃跑行为。但在在多位主试的陪伴以及支持下，包括在环境的改变后，11号逐渐恢复到原来的正常水平，甚至对我有很多的安全感。11号大鼠的行为模式为组间社交不喜争斗，探索能力强。
+
+12 号大鼠：12号大鼠是最令人省心的，在全程都表现出温顺的特点，即使在其他两只都逃跑的情况下仍然能够很好在我身上呆着。在后期逐渐成为社会地位最高的大鼠。12 号大鼠的行为模式为需要支持条件的探索、温顺、社交能力强但也具有进攻性。
+
+消极组：
+
+消极组今天又抬头的迹象，预测是再次适应了环境，希望这种优秀的能力将会在接下来的测试中展现的淋漓尽致。总体而言，即使在经历多次环境的恶劣性加强后，它们依然能够很好的适应。但具体行为上，10 号挣扎的更加激烈，屎尿情况更严重，11号更多依靠策略减轻自己的痛苦，因此挣扎较少，但效率较高。12号在后期已经表现出相对的明显的消极反应，包括屎尿最多以及挣扎次数最少。
+
+# S3.2早期经历干预阶段补充结果
+
+# S3.2.1触摸互动声波补充结果
+
+![](images/24551e99bc305a6c867c2416d20e1384317fa47cb4abbe95f36066566d037bd5.jpg)  
+附图31触摸互动声波数据
+
+注：图a和b分别是触摸互动过程中，声波出现的次数和用时，单个点代表平均数，误差线代表标准差；图c和d也是触摸互动过程中，声波出现的次数和用时，单点代表中位数，误差线代表 $9 5 \%$ 的置信区间。
+
+根据附表47，可以看出 $2 2 \mathrm { { H z } }$ 的厌恶情绪含义的声波在部分大鼠中出现，具有随机性，其中，一部分原因可能是榻榻米座椅较低，部分大鼠有离开触摸互动范围去其他区域探索的行为，而部分主试对此向外探索行为进行了中断（抓回或用手做屏障劝阻），为避免大鼠与主试互动中存在这种限制性的互动，主试选择做有一定高度，但空间也较大的皮椅来进行触摸互动，避免了互动主试对大鼠的直接行为上的阻止和限制倾向。但仍有极个别大鼠从高的皮椅跃下去探索新空间。
+
+# S3.2.2消极早期经历排尿情况补充结果
+
+![](images/4aff1a003abebf7fa174608dd97eddda8761d8526bfe743f525b2818e7e81403.jpg)  
+附图32消极早期经历排尿比例
+
+注：强迫游泳和悬尾数据中，单数的干预天数数据空缺，原因是强迫游泳和悬尾为隔天轮换进行的，而强迫游泳时，大鼠在水中，是否排尿无法进行准确的观察记录，因此，强迫游泳、悬尾项目中，只有双数天的数据，代表悬尾时大鼠的排尿比例。
+
+# S3.3测试阶段补充结果
+
+# S3.3.1旷场测试补充结果
+
+![](images/3eaa29965d476977507282227427e188e6a5914ef2622081b5089114b979fdd4.jpg)  
+附图33旷场测试前6min和全程 $1 0 \mathrm { { m i n } }$ 分组平均热图
+
+注：前 $6 \mathrm { { m i n } }$ 中，积极组更早更多的活跃在中心区域。
+
+# S3.3.2整合性学习补充结果
+
+![](images/a4150436b8e1463dc4763c6b62a300d1164c871cf7a07ab12785010ccb621426.jpg)  
+附图34整合性学习测试
+
+注：图a是整合性学习的7次学习、3天后的长时记忆复测、1次概括分析任务的用时折线图；图b和c分别是学习阶段大鼠身体重心和头部进入错误方向区域的次数；图d是3天后长时记忆测试中，大鼠身体重心和头部进入错误区域的次数；图 $\mathbf { a { \sim } d }$ 的数据结果皆无显著差异；图e为概括分析任务的组内平均热图，可以看出积极组在概括分析任务中，仍存在自由探索式的爬墙行为。
+
+三个组别皆随学习次数的增加而错误次数降低，且用时差异（图a）和错误次数皆不显著（图b,c），3天后长时记忆的测试的错误次数也不显著。同时，概括分析任务中，35只大鼠皆直接走短路径到达终点。
+
+a 12- 。 积极 b（）联 10- 8- ① □△ 对照极 （）开 12 18 ○积极 △ □对照 里 用 $\bigtriangleup$ 消极6- 08母 。 有6-422 。 国 △公 □ 42 □□ □0- 中 書 △ 0上墙探索 上墙走短路径到终点 半开门状态（先） 全关门状态（后）
+
+注：图a是整合性迷宫学习阶段，每次学习的上墙或上墙走短路径的不同组别的单日总只数；图b是开门学习过程中，每次学习的大鼠成功开门的不同组别的单日总只数。
+
+# S3.3.3社交偏好测试补充结果
+
+假鼠 配合鼠 空白 配合鼠 陌生鼠 配合鼠积极 90 040 000对照 90 980 90消极 80 9o 95注：积极组的热图显示，在圆柱型限制笼的上方也有热图颜色存在，非系统分析误差，而是积极组大鼠出现了爬上限制笼的行为。
+
+根据附图52左图不同组别对比可以看出积极组对假鼠更偏好（见附图53a,b）；中图可以看出，三组普遍存在正常的社交偏好行为（见附图 53c）；右图不同组别的对比可以看出积极组对限制器内的大鼠不如其他两组感兴趣，但积极组和消极组存在对陌生鼠箱的偏向，而对照组则没有这种偏向性（见附图 53d）。
+
+![](images/8bf0380a821625b0be666f0767722b234d3e627b9f98291f9d1dff5d50db9877.jpg)  
+附图37社交偏好测试对照实验结果图
+
+# S3.3.4亲社会行为对照测试补充结果
+
+![](images/aa15ca6c235123f7f56cf7c648b3f7c56dd36cb1caa7997294567c39cd7b53ed.jpg)  
+附图38亲社会测试对照实验结果图
+
+# S3.3.5社会等级测试补充结果
+
+![](images/824670e834cccef82ffb5f855f793593e43a35a08a44e67f6d1a08d291606baf.jpg)  
+附图39社会等级测试—不同组别同等级大鼠获胜只数和用时分布

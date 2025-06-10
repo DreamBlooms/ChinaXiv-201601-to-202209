@@ -1,0 +1,428 @@
+[
+    {
+        "type": "text",
+        "text": "2 含量的影响龙城 王　晶 武书庚\\* 张海军 岳洪源 齐广海\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(中国农业科学院饲料研究所，农业部饲料生物技术重点开放实验室，北京 100081)摘要：本试验研究了饲粮双低菜籽粕水平对含黄素单氧化酶3（FMO3）基因型产蛋鸡生产性能、蛋品质和蛋黄三甲胺（TMA）含量的影响。选用已知FMO3基因型褐壳产蛋鸡 336只，其中杂合型（AT）、突变型（TT）基因型各144只，每个基因型随机分为4组，每组6个重复，每个重复6只鸡；野生型（AA）基因型48只，随机分为4组，每组6个重复，每个重复2只鸡。各组分别饲喂双低菜籽粕添加水平为0（对照）、 $7 \\%$ 、 $14 \\%$ 和 $21 \\%$ 的试验饲粮，试验期6周。结果表明：1）饲粮双低菜籽粕水平、FMO3基因型及其交互作用显著影响产蛋鸡的平均日采食量（ $P { < } 0 . 0 5 \\mathrm { { ) } }$ )，但对平均蛋重、料蛋比无显著影响（ $P { > } 0 . 0 5 \\$ ； $14 \\%$ 和21%双低菜籽粕水平组平均日采食量显著低于对照组（ $. P { < } 0 . 0 5 )$ ；AA基因型组平均日采食量和产蛋率显著低于其他基因型组（ $\\scriptstyle P < 0 . 0 5$ )。2）饲粮双低菜籽粕水平、FMO3基因型及其交互作用对产蛋鸡的蛋形指数、蛋壳强度、蛋白高度和哈氏单位均无显著影响（ $( P { > } 0 . 0 5 )$ ；但双低菜籽粕水平显著影响了蛋黄颜色值（ $. P { < } 0 . 0 5 \\$ ， $2 1 \\%$ 双低菜籽粕水平组蛋黄颜色值显著小于其他组（ $. P { < } 0 . 0 5$ )。3）饲粮双低菜籽粕水平、FMO3基因型及其交互作用显著影响产蛋鸡的蛋黄TMA含量（ $. P { < } 0 . 0 5 )$ ；蛋黄TMA含量随饲粮中双低菜籽粕添加水平的增加而增加， $14 \\%$ 和 $2 1 \\%$ 双低菜籽粕水平组蛋黄 TMA 含量显著高于其他组（ $P { < } 0 . 0 5 \\$ )；TT基因型组蛋黄TMA含量显著高于AA和AT基因型组（ $\\scriptstyle \\sum 0 . 0 5$ )。根据产蛋鸡蛋黄TMA含量（Y)和饲粮双低菜籽粕水平（X）关系得出回归方程： $Y { = } 0 . 5 0 0 ~ 4 X { + } 3 . 2 9 6 ~ 1$ （ $R ^ { 2 } { = } 0 . 9 6 7 \\ 0$ ）（TT基因型）；Y=0.096 6X+1.805 4（ $R ^ { 2 } { = } 0 . 9 6 1 ~ 7$ )（AA基因型)，若使蛋黄TMA含量低于嗅觉阈值，对 TT基因型产蛋鸡而言，饲粮双低菜籽粕水平应低于 $5 . 3 \\%$ ，对AA基因型产蛋鸡而言，饲粮双低菜籽粕水平应低于 $6 0 . 1 \\%$ 。结果提示，当饲喂产蛋鸡双低菜籽粕时，如TT基因型产蛋鸡不产鱼腥味鸡蛋，AA 和 AT 基因型产蛋鸡即不会产鱼腥味鸡蛋；饲粮双低菜籽粕水平低于 $5 . 3 \\%$ 时，TT基因型产蛋鸡不会产生鱼腥味鸡蛋，并且对生产性能和蛋品质无不良影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关键词：双低菜籽粕；产蛋鸡；生产性能；三甲胺中图分类号：S831；S816.4 文献标识码：A 文章编号：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "双低菜籽粕极易诱发产生鱼腥味鸡蛋，因其所含的芥子碱是形成鱼腥味的前体物质。随着我国双低化菜籽品种的选育成功和大力推广，双低菜籽粕中的有害成分异硫氰酸酯和唑烷硫酮已经大大降低，芥子碱已成为目前影响双低菜籽粕饲用价值的重要抗营养因子[。鸡蛋鱼腥味问题限制了双低菜籽粕在蛋鸡饲料中的应用，所以降低鱼腥味鸡蛋的检出率对于改善鸡蛋风味、合理使用双低菜籽粕具有重要的理论和现实意义。芥子碱是胆碱与芥酸形成的胆碱酯，在盲肠微生物作用下水解为胆碱，继而产生三甲胺（trimethylamine,TMA）[2-3]。鱼腥味综合征系因产蛋鸡含黄素单氧化酶3（flavin-containing monooxygenases3,FMO3）基因突变导致鸡体无法正常代谢TMA，从而使得TMA逐渐累积并沉积于鸡蛋中，散发出难闻的类似鱼腥味的气味，且多发生于褐壳蛋鸡品系[3-5]。Honkatukia等[6检测出鸡FMO3基因有17个多态位点，只有位于编码区第984个碱基位置的突变（由腺嘌呤A突变成胸腺嘧啶T）与蛋鸡鱼腥味综合征显著相关。该位点突变导致FMO3基因第329个氨基酸由苏氨酸突变为丝氨酸。针对T329S位点的变化，可将个体分为3种基因型：杂合型（AT）、突变型（TT）、野生型（AA）。相关研究多集中在遗传突变、饲粮TMA前体物质水平对鸡蛋TMA含量的影响和机制，然而关于生产中鸡蛋风味问题和双低菜籽粕使用方面的报道却较少。本试验研究了饲粮中添加不同水平双低菜籽粕时，3种FMO3基因型产蛋鸡的生产性能、鸡蛋品质和蛋黄TMA的沉积，并探讨了饲粮双低菜籽粕水平与蛋黄TMA含量之间的关系，旨在为双低菜籽粕的合理应用和鸡蛋风味的研究提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验动物",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "于中国农业科学院饲料研究所平谷蛋鸡试验基地，选择健康的47周龄京红产蛋鸡，鸡冠采血，提取DNA。采用课题组建立的聚合酶链式反应-限制性片段长度多态性(PCR-RFLP)分析方法检测产蛋鸡FMO3基因型[7]。试验共检测了3018只产蛋鸡基因型，其中 AA 基因型48只，AT基因型2556只，TT基因型414只。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "按双低菜籽粕水平和FMO3基因型，采用 $4 { \\times } 3$ 双因子重复设计。选用55周龄、已知FMO3 基因型褐壳产蛋鸡 336只，其中AT、TT基因型各144只，每个基因型随机分为4组，每组6个重复，每个重复6只鸡；AA基因型48只，随机分为4组，每组6个重复，每个重复2只鸡。每个基因型设4个双低菜籽粕水平，分别为0（对照）、 $7 \\%$ 、 $14 \\%$ 和 $2 1 \\%$ 。预试期1周，试验期6周。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 试验饲粮与饲养管理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验饲粮参照NRC(1994)和《鸡饲养标准》(NY/T33-2004)，结合《京红产蛋鸡饲养手册》配制。对照组饲粮为玉米-豆粕型饲粮（双低菜籽粕水平为0)，按等能等氮原则，分别配制双低菜籽粕添加水平为 $7 \\%$ 、 $14 \\%$ 和 $2 1 \\%$ 的试验组饲粮。试验饲粮组成及营养水平见表1。所有参试产蛋鸡采用相同的常规饲养管理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1试验饲粮组成及营养水平 (风干基础)",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Table1 Composition and nutrient levels of experimental diets (air-dry basis) % ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/98e8199410740b84fc1ae8fb8b71c55cda311d311be6eddb75d9d8dfdd389cac.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">原料 Ingredients</td></tr><tr><td>玉米Corn</td><td>63.00</td><td>62.45</td><td>60.43</td><td>58.43</td></tr><tr><td>豆粕 Soybean meal</td><td>24.85</td><td>18.71</td><td>12.82</td><td>6.95</td></tr><tr><td>双低菜籽粕 Canola meal</td><td>0</td><td>7.00</td><td>14.00</td><td>21.00</td></tr><tr><td>豆油 Soybean oil</td><td>0</td><td>0.48</td><td>1.43</td><td>2.38</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.25</td><td>1.18</td><td>1.12</td><td>1.06</td></tr><tr><td>石粉 Limestone</td><td>9.45</td><td>9.42</td><td>9.40</td><td>9.36</td></tr><tr><td>食盐 NaCl</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td></tr><tr><td>DL-蛋氨酸 DL-Met</td><td>0.08</td><td>0.06</td><td>0.06</td><td>0.04</td></tr><tr><td>L-赖氨酸盐酸盐 L-Lys·HCl</td><td>0</td><td>0.03</td><td>0.07</td><td>0.11</td></tr><tr><td>预混料 Premix1)</td><td>0.32</td><td>0.32</td><td>0.32</td><td>0.32</td></tr><tr><td>植酸酶 Phytase</td><td>0.05</td><td>0.05</td><td>0.05</td><td>0.05</td></tr><tr><td>沸石粉 Zeolite powder</td><td>0.70</td><td>0</td><td>0</td><td>0</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td><td></td></tr><tr><td>代谢能 ME/(MJ/kg)</td><td>10.88</td><td>10.88</td><td>10.88</td><td>10.88</td></tr><tr><td>粗蛋白质 CP</td><td>16.02</td><td>16.01</td><td>16.02</td><td>16.02</td></tr><tr><td>钙Ca</td><td>3.82</td><td>3.81</td><td>3.82</td><td>3.81</td></tr><tr><td>总磷TP</td><td>0.51</td><td>0.53</td><td>0.55</td><td>0.57</td></tr><tr><td>有效磷 AP</td><td>0.32</td><td>0.32</td><td>0.32</td><td>0.32</td></tr><tr><td>赖氨酸Lys</td><td>0.81</td><td>0.81</td><td>0.83</td><td>0.84</td></tr><tr><td>蛋氨酸 Met</td><td>0.33</td><td>0.33</td><td>0.34</td><td>0.33</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e167c054258deb1dd805b8639da2f8a7f6e5faf3a7a6d3772aaf0f2fb66db83c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>芥子碱 Sinapine/(mg/g)</td><td>0.14</td><td>0.40</td><td>0.73</td><td>1.33</td></tr><tr><td>胆碱 Choline</td><td>0.11</td><td>0.11</td><td>0.11</td><td>0.12</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1 预混料为每千克饲粮提供 Premix provided the following per $\\mathbf { k g }$ of diets: VA 12 500 IU, VD3 4 152 IU，VE 15 IU，VK $2 \\ : \\mathrm { m g }$ ，硫胺素 thiamine $1 \\mathrm { m g }$ ，核黄素 riboflavin $8 . 5 ~ \\mathrm { m g }$ ，泛酸 pantothenic acid $5 0 \\mathrm { m g }$ ，烟酸nicotinic acid $3 2 . 5 \\mathrm { m g }$ ，吡哆醇 pyridoxine $8 ~ \\mathrm { m g }$ ，生物素 biotin $2 \\ : \\mathrm { m g }$ ，叶酸 folic acid $5 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 2 } 5 \\mathrm { m g }$ ，胆碱choline $5 0 0 \\mathrm { m g }$ ，Mn 65 mg, $\\mathrm { ~ I ~ } 1 ~ \\mathrm { m g }$ ，Fe $6 0 ~ \\mathrm { m g }$ ， Cu 8 mg, $\\mathrm { Z n 6 6 ~ m g }$ ，Se $0 . 3 ~ \\mathrm { m g }$ 。 2 芥子碱、胆碱为实测值，其余为计算值。Sinapine and choline contents were measured values,while the others were calculated values. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4 测定指标和方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.1 生产性能",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试验期间，每天以重复为单位记录产蛋数和蛋重，计算产蛋率（egg production,EP）和平均蛋重（average egg weight,AEW）。每2周称剩料，以重复为单位计算平均日采食量（average daily feed intake,ADFI）和料蛋比（the ratio of feed to egg,F/E）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 蛋品质 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试验第42天，每个重复随机选取接近平均蛋重的鸡蛋3枚（AA基因型2枚），鸡蛋蛋壳强度（egg shell strength）、蛋白高度(albumen height)、哈氏单位(Haugh uint)和蛋黄颜色(egg yolkcolor)采用以色列ORKA公司生产的系列鸡蛋品质测定仪测定;蛋形指数(egg shapeindex)采用日本富士坪公司生产的蛋形指数测定仪测定。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.3 蛋黄 TMA含量",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试验第14天，每个重复随机选取接近平均蛋重的鸡蛋3枚（AA基因型2枚），分离蛋黄，混匀。采用美国Bruker公司生产的顶空气相色谱仪测定蛋黄TMA含量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5 数据处理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试验数据采用SPSS16.0统计软件，GLM模型进行 $4 { \\times } 3$ 双因子分析，并对基因型和双低菜籽粕水平的主效应及其交互作用进行多元方差分析。相同双低菜籽粕水平下，基因型间蛋黄 TMA 含量的差异显著性检验采用单因素方差分析(one-way ANOVA)，并用 Duncan 氏法进行多重比较，以 $P { < } 0 . 0 5$ 作为差异显著水平。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1 饲粮双低菜籽粕水平和FMO3基因型对产蛋鸡生产性能的影响  \n统计分析表明，试验1\\~2周、3\\~4周、5\\~6周时各组产蛋鸡生产性能均无显著差异（结果未列出)。表2为试验1\\~6周时的结果。由表3可知，饲粮双低菜籽粕水平、FM03 基因型及其交互作用显著影响产蛋鸡的平均日采食量（ $P { < } 0 . 0 5 \\mathrm { : }$ )，但对平均蛋重、料蛋比无显著影响（ $( P { > } 0 . 0 5 )$ 。随着饲粮双低菜籽粕水平的增加，平均日采食量降低，与对照组相比， $14 \\%$ 和 $2 1 \\%$ 双低菜籽粕水平组平均日采食量显著降低（ $_ { . P < 0 . 0 5 } )$ ，但与 $7 \\%$ 双低菜籽粕水平组差异不显著( $. P { > } 0 . 0 5$ )。AA基因型组的平均日采食量和产蛋率显著低于其他基因型组( $_ { . P < 0 . 0 5 ) }$ ）2.2饲粮双低菜籽粕水平和FMO3基因型对产蛋鸡蛋品质的影响  \n饲粮双低菜籽粕水平和FMO3基因型对产蛋鸡蛋品质的影响见表2。多元方差分析（表3）显示，双低菜籽粕水平、FMO3基因型及其交互作用对蛋形指数、蛋壳强度、蛋白高度和哈氏单位均无显著影响（ $. P { > } 0 . 0 5 \\$ )，但双低菜籽粕水平显著影响了蛋黄颜色值（ $_ { . P < 0 . 0 5 } )$ ）随着饲粮双低菜籽粕水平的增加，蛋黄颜色值减小， $2 1 \\%$ 双低菜籽粕水平组蛋黄颜色值显著小于其他组（ $P { < } 0 . 0 5 )$ ）°",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/feb424d1c7035f061281e39f953f9a24f6ce63058a8b4971c0f5660ca920a91e.jpg",
+        "table_caption": [
+            "Table2EffectsofFMO3genotypeanddietaryCanolameallvelonperformance,eggqualityandTMAcontentineggyolkoflanghens "
+        ],
+        "table_footnote": [
+            "同行数据肩标不同小写字母表示差异显著（ $( P { < } 0 . 0 5 )$ 。下表同。 In the same row, values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ . The same as below. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"10\">基因型Genotype/双低菜籽粕水平 Canola meal level/%</td><td rowspan=\"2\"></td><td rowspan=\"2\">SEM</td></tr><tr><td>AA/0</td><td>AA/7</td><td>AA/14</td><td>AA/21</td><td>AT/0</td><td>AT/7</td><td>AT/14</td><td>AT/21</td><td>TT/0 TT/7</td><td>TT/14</td><td>TT/21</td></tr><tr><td>平均日采食量 ADFI/g</td><td>97.31</td><td>91.66</td><td>101.99</td><td>102.12</td><td>117.25</td><td>116.00</td><td>113.17</td><td>112.17</td><td>118.61</td><td>116.92</td><td>111.33</td><td>109.47</td><td>0.11</td></tr><tr><td>平均蛋重 AEW/g</td><td>58.89</td><td>59.93</td><td>62.78</td><td>58.84</td><td>59.29</td><td>60.17</td><td>59.85</td><td>60.05</td><td>61.52</td><td>60.75</td><td>60.76</td><td>60.53</td><td>0.21</td></tr><tr><td>料蛋比F/E</td><td>2.69</td><td>2.5</td><td>2.73</td><td>2.35</td><td>2.47</td><td>2.68</td><td>2.63</td><td>2.39</td><td>2.52</td><td>2.47</td><td>2.56</td><td>2.42</td><td>0.04</td></tr><tr><td>产蛋率 EP/%</td><td>0.74</td><td>0.72</td><td>0.64</td><td>0.68</td><td>0.71</td><td>0.82</td><td>0.75</td><td>0.81</td><td>0.78</td><td>0.78</td><td>0.76</td><td>0.75</td><td>0.90</td></tr><tr><td>蛋形指数 Egg shape index</td><td>1.33</td><td>1.32</td><td>1.33</td><td>1.35</td><td>1.33</td><td>1.35</td><td>1.35</td><td>1.34</td><td>1.36</td><td>1.35</td><td>1.33</td><td>1.34</td><td>0.01</td></tr><tr><td>蛋壳强度 Eggshell strength/N</td><td>24.11</td><td>31.24</td><td>26.43</td><td>24.20</td><td>26.16</td><td>26.58</td><td>24.92</td><td>26.62</td><td>26.25</td><td>23.55</td><td>27.89</td><td>23.06</td><td>0.6</td></tr><tr><td>蛋白高度 Albumen height/mm</td><td>5.40</td><td>5.63</td><td>4.50</td><td>5.00</td><td>4.92</td><td>4.76</td><td>5.21</td><td>4.71</td><td>4.93</td><td>4.62</td><td>4.80</td><td>5.14</td><td>0.7</td></tr><tr><td>哈夫单位 Haugh unit</td><td>72.76</td><td>75.74</td><td>68.45</td><td>73.30</td><td>68.95</td><td>70.67</td><td>72.86</td><td>69.93</td><td>70.29</td><td>67.82</td><td>69.35</td><td>73.49</td><td>7.1</td></tr><tr><td>蛋黄颜色Egg yolk color</td><td>5.00</td><td>4.38</td><td>4.00</td><td>4.50</td><td>4.62</td><td>4.41</td><td>4.14</td><td>4.00</td><td>4.50</td><td>4.46</td><td>4.47</td><td>3.71</td><td>0.08</td></tr><tr><td>蛋黄 TMA 含量 TMA content in egg yolk/(μg/g)</td><td>1.97℃</td><td>2.25℃</td><td>3.13℃</td><td>3.93℃</td><td>3.35℃</td><td>4.80c</td><td>4.87℃</td><td>7.83b</td><td>2.57℃</td><td>8.00b</td><td>10.08b</td><td>13.55a</td><td>0.21</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表 3FMO3基因型和饲粮双低菜籽粕水平对产蛋鸡生产性能、鸡蛋品质和蛋黄三甲胺含量影响的主效应分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/8f7fc21b8f2ca4564039e26ec799cd008e8f8b00e4641951d0d6eefd0204feef.jpg",
+        "table_caption": [
+            "Table3MaineectsalysisofOeotyddieayCanoaealeveopefoancegqualitdcotetigyokofgs "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"7\">主效应均值 Means of main effects</td><td colspan=\"2\">变异源(P 值) Source of variation（P-value）</td></tr><tr><td></td><td>基因型 Genotype</td><td></td><td></td><td>双低菜籽粕水平 Canola meal level/%</td><td></td><td>双低菜籽粕水平</td><td>基因型 Genotype</td><td>基因型×双低菜籽粕</td></tr><tr><td></td><td>AA</td><td>AT</td><td>TT</td><td>0</td><td>7</td><td>14 21</td><td>Canola meal level</td><td></td><td>GenotypexCanola meal</td></tr><tr><td>平均日采食量 ADFI/g</td><td>98.27b</td><td>114.64a</td><td>114.08a</td><td>113.81a</td><td>111.50ab 110.20b</td><td>109.08b</td><td><0.05</td><td><0.05</td><td><0.05</td></tr><tr><td>平均蛋重 AEW/g</td><td>59.74</td><td>59.79</td><td>60.93</td><td>60.12</td><td>60.37 60.79</td><td>60.13</td><td>0.48</td><td>0.23</td><td>0.44</td></tr><tr><td>料蛋比 F/E</td><td>2.48</td><td>2.48</td><td>2.59</td><td>2.62</td><td>2.50 2.51</td><td>2.48</td><td>0.65</td><td>0.39</td><td>0.42</td></tr><tr><td>产蛋率 EP/%</td><td>0.71b</td><td>0.77a</td><td>0.77a</td><td>0.75</td><td>0.78</td><td>0.74 0.77</td><td>0.42</td><td>0.03</td><td>0.22</td></tr><tr><td>蛋形指数 Egg shape index</td><td>1.33</td><td>1.34</td><td>1.34</td><td>1.34</td><td>1.34</td><td>1.34 1.34</td><td>0.93</td><td>0.63</td><td>0.60</td></tr><tr><td>蛋壳强度 Eggshell strength/N</td><td>26.49</td><td>26.02</td><td>25.28</td><td>25.78</td><td>26.28</td><td>26.41 24.69</td><td>0.38</td><td>0.58</td><td>0.11</td></tr><tr><td>蛋白高度 Albumen height/mm</td><td>5.26</td><td>4.90</td><td>4.88</td><td>5.00</td><td>4.89</td><td>4.94 4.93</td><td>0.88</td><td>0.70</td><td>0.37</td></tr><tr><td>哈夫单位 Haugh unit</td><td>70.27</td><td>70.63</td><td>73.16</td><td>70.13</td><td>70.76</td><td>70.73 71.82</td><td>0.90</td><td>0.65</td><td>0.46</td></tr><tr><td>蛋黄颜色Egg yolk color</td><td>4.29</td><td>4.29</td><td>4.47</td><td>4.63a</td><td>4.42ab</td><td>4.27b 3.90c</td><td><0.05</td><td>0.50</td><td>0.11</td></tr><tr><td>蛋黄TMA含量 TMA content in egg yolk/(μg/g)</td><td>2.82c</td><td>5.21b</td><td>8.55a</td><td>2.68c</td><td>5.23b</td><td>6.80a 8.01a</td><td><0.05</td><td><0.05</td><td><0.05</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3饲粮双低菜籽粕水平和FMO3基因型对产蛋鸡蛋黄TMA含量的影响 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由表2和表3可知，饲粮双低菜籽粕水平、FMO3 基因型及其交互作用显著影响产蛋鸡的蛋黄 TMA含量（ $\\cdot < 0 . 0 5$ ）。随饲粮双低菜籽粕水平的增加，蛋黄TMA含量增加。主效应分析(表3)显示，与对照组相比，添加 $7 \\%$ 、 $14 \\%$ 、 $21 \\%$ 双低菜籽粕显著升高蛋黄 TMA含量（ $\\cdot P { < } 0 . 0 5 \\$ ）， $14 \\%$ 双低菜籽粕水平组 $( 6 . 8 0 \\mu \\mathrm { g / g } )$ 和 $2 1 \\%$ 双低菜籽粕水平组( $8 . 0 1 \\mu \\mathrm { g / g } )$ （204号显著高于 $7 \\%$ 双低菜籽粕水平组（ $\\cdot 5 . 2 3 \\mu \\mathrm { g } / \\mathrm { g }$ ）（ $P { < } 0 . 0 5$ ）。基因型方面，TT基因型组蛋黄TMA含量显著高于AA和AT基因型组（ $\\cdot P { < } 0 . 0 5 \\$ ），AA基因型组TMA含量最低。饲粮双低菜籽粕水平和FMO3基因型对蛋黄 TMA含量的交互作用体现在，饲喂对照组饲粮时基因型间无显著差异（ $P { > } 0 . 0 5$ ），饲喂 $7 \\%$ 和 $14 \\%$ 双低菜籽粕饲粮时TT 基因型组显著高于 AA和AT基因型组（ $\\scriptstyle P < 0 . 0 5$ ），而饲喂 $2 1 \\%$ 双低菜籽粕饲粮时TT基因型组显著高于AT基因型组，AT基因型组显著高于AA基因型组（ $\\cdot < 0 . 0 5$ ）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "此外，除AT 基因型外，TT和AA基因型产蛋鸡蛋黄TMA含量与饲粮双低菜籽粕水平间呈显著线性相关（ $\\scriptstyle \\cdot < 0 . 0 5$ )。TT基因型产蛋鸡，蛋黄TMA含量（Y）和饲粮双低菜籽粕水平 $( X )$ 的关系方程为： $Y { = } 0 . 5 0 0 4 X { + } 3 . 2 9 6 1$ （ $R ^ { 2 } { = } 0 . 9 6 7 \\ : 0 ^ { \\cdot }$ )。AA基因型产蛋鸡，蛋黄TMA含量（Y）和饲粮双低菜籽粕水平（ $X ^ { \\prime }$ ）的关系方程为： $Y { = } 0 . 0 9 6 6 X { + } 1 . 8 0 5 4$ （ $R ^ { 2 } { = } 0 . 9 6 1 ~ 7$ ）°根据蛋黄 TMA 含量的嗅觉阈值为 $4 ~ \\mu \\mathrm { g / g ^ { [ 8 ] } }$ 计算，当饲粮双低菜籽粕水平低于 $5 . 3 \\%$ 时，TT基因型产蛋鸡蛋黄中TMA含量将不会被感官觉察到;当饲粮双低菜籽粕水平低于 $6 0 . 1 \\%$ 时，AA 基因型产蛋鸡蛋黄中TMA含量将不会被感官觉察到。而在本试验中，饲粮双低菜籽粕水平添加至 $21 \\%$ 时，AA基因型组蛋黄 TMA含量也未超过嗅觉阈值。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1饲粮双低菜籽粕水平和FMO3基因型对产蛋鸡生产性能的影响",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本试验表明，饲料双低菜籽粕水平、FMO3基因型及其交互作用对产蛋鸡的平均蛋重、料蛋比无显著影响，但显著影响了平均日采食量。研究表明，含 $20 \\%$ 低硫甙菜籽粕的饲粮不影响动物的生产性能[2.9]，与本试验结果一致。但本试验中，随着饲粮双低菜籽粕水平的增加，产蛋鸡的平均日采食量降低， $14 \\%$ 和 $2 1 \\%$ 双低菜籽粕水平组平均日采食量显著低于对照组。Richter等[10]发现含 $20 \\%$ 菜籽粕的饲粮显著降低了产蛋鸡的日采食量。酚类是菜籽粕产生黑色、苦味和涩味的主要原因，可能也是双低菜籽粕中影响平均日采食量的主要原因。双低菜籽粕中酚类主要包括芥子碱和单宁。芥子碱是一种具有苦味的芥子酸胆碱酯，是双低菜籽粕苦味的主要来源之一。Ismail等[1发现菜籽粉水悬浊液苦味的 $5 0 \\% { \\sim } 9 1 \\%$ 是由芥子碱和游离胆碱产生的。研究发现，含 $2 \\%$ 芥子碱硫氰酸盐的蛋白质饲粮饲喂小鼠时，采食量显著下降[12-13]。单宁在双低菜籽粕中含量为 $1 . 5 \\% \\ 3 \\%$ ，具有辛辣与苦涩味，影响适口性，亦是影响产蛋鸡采食量的原因之一。目前关于FMO3基因型对产蛋鸡生产性能影响的报道较少。FMO3基因型的快速检测及突变基因型的剔除技术已广泛应用于国内外蛋鸡品种的选育中。Settar 等[13]报道FMO3基因型与蛋鸡性成熟年龄、蛋壳颜色、蛋重等表型值显著相关。在洛岛红产蛋鸡中，蛋重受FMO3 基因型显著影响，其中 AA基因型蛋重最低[14]。由于基因型的分布不平衡，AA基因型在商品代产蛋鸡群体中自然存在率很低，导致试验AA基因型个体数少，基因型对产蛋性能指标的影响需要进一步的研究和证实[14]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2饲粮双低菜籽粕水平和FMO3基因型对产蛋鸡蛋品质的影响 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "饲粮双低菜籽粕水平和FMO3基因型对产蛋鸡蛋形指数、蛋壳强度、蛋白高度和哈氏单位均无显著影响，与Kretzschmar 等[15]的研究结果一致。本课题组前期试验结果也显示，FMO3 基因型对鸡蛋常规品质、含水量、粗蛋白质和粗脂肪含量、蛋黄比例无显著影响[7]。但双低菜籽粕水平显著影响蛋黄颜色，随着双低菜籽粕水平的增加，蛋黄颜色值减小。Riyazi等[16]发现， $1 5 \\%$ 菜籽粕水平组蛋黄颜色值小于 $5 \\%$ 、 $10 \\%$ 菜籽粕水平组和对照组。家禽本身不能合成色素，只有带有含氧功能基(羟基、酰基、酮基)的类胡萝卜素包括叶黄素、番茄红素和玉米黄素等才有着色效果。饲粮中脂肪的种类、品质、数量及其氧化状况影响着色。氧化类胡萝卜素是脂溶性物质，饲粮中脂肪水平过低会影响其吸收，导致饲料变质；而且能阻止或减少胆汁分泌，显著降低氧化类胡萝卜素的吸收、输送与沉积。而高添加水平的双低菜籽粕含较多芥子碱和单宁等抗营养因子。有研究表明，体内芥子碱会显著抑制脂肪水解酶和脂肪氧合酶的活性。高添加水平的双低菜籽粕饲粮可能通过其中的芥子碱抑制脂肪酶的活性进而影响饲粮中脂肪的种类、品质、数量及其氧化状况等，降低蛋黄颜色值。其他抗营养因子亦可能通过直接或间接的方式导致蛋黄颜色值减小。另一主要原因可能是随着双低菜籽粕水平的增加，其饲粮配方中的玉米百分含量降低所致。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3饲粮双低菜籽粕水平和FMO3基因型对产蛋鸡蛋黄 TMA含量的影响 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "饲喂双低菜籽饼粕极易诱发鱼腥味鸡蛋产生，一般采食含菜籽饼粕饲粮后5d，便可检到鱼腥味鸡蛋。从饲粮中去除菜籽饼粕后，蛋鸡不再产鱼腥味鸡蛋[2]。双低菜籽饼粕中的芥子碱是鱼腥味物质TMA的前体物质。蛋鸡的TMA代谢过程受到遗传、营养因素的共同影响。其中，个体遗传背景即FMO3 基因型和饲粮中前体物质是影响蛋中TMA含量的2个关键点。本试验中，双低菜籽粕水平、FMO3基因型及其交互作用显著影响了产蛋鸡的蛋黄TMA 含量；随着双低菜籽粕水平的增加，蛋黄TMA含量显著升高；且饲粮双低菜籽粕水平增加显著提高了TT基因型组蛋黄TMA含量。研究认为，易感基因型（TT基因型）产蛋鸡蛋中TMA含量与双低菜籽饼粕添加水平之间存在显著的线性关系，随着双低菜籽饼粕添加水平的增加 TMA 含量升高，而 AA 和AT 基因型产蛋鸡蛋中 TMA 含量并无上升趋势[17]。本试验中也观察到了AA基因型产蛋鸡蛋黄中TMA含量与饲粮双低菜籽粕的线性关系。但双低菜籽粕水平为 $2 1 \\%$ 时，AA基因型产蛋鸡蛋黄中TMA含量仍低于嗅觉阈值。此外，饲粮添加 $14 \\%$ 双低菜籽粕时，AT与AA基因型产蛋鸡蛋黄中TMA含量差异显著，这与Kretzschmar等[15]的报道一致。原因可能是饲喂大量菜籽粕时，鱼腥味鸡蛋表现为加性效应或半显性遗传。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "消费者对全蛋 TMA 的嗅觉阈值为 $1 \\mu \\mathrm { g } / \\mathbf { g } ^ { \\left[ 1 8 \\right] }$ 。Ward 等[8]根据蛋黄占全蛋比重，推断蛋黄TMA的阈值为 $4 \\mu \\mathrm { g / g }$ 。随TMA含量升高，鸡蛋鱼腥味加重，风味分数下降，消费者接受程度下降[2.15,19-20]。添加 $3 \\%$ 的普通菜籽饼粕就能导致鸡蛋产生鱼腥味[9]，而双低菜籽饼粕不产鱼腥味蛋的最大添加量为 $4 \\% \\sim 7 \\% ^ { [ 1 7 ] }$ 。本试验中，根据TT基因型产蛋鸡蛋黄 TMA含量与饲粮双低菜籽粕水平的关系方程，TMA含量达到嗅觉阈值时的菜籽粕水平为 $5 . 3 \\%$ ，处于Ward等[17]报道的 $4 \\% \\sim 7 \\%$ 的范围内。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 饲粮双低菜籽粕水平和FMO3基因型对产蛋鸡的平均蛋重、料蛋比影响不显著，对蛋形指数、蛋壳强度、蛋白高度和哈氏单位亦无显著影响，双低菜籽粕水平大于 $7 \\%$ 时，平均日采食量减小；双低菜籽粕水平大于 $14 \\%$ 时，蛋黄颜色值减小。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 饲粮双低菜籽粕水平大于 $5 . 3 \\%$ 时，TT基因型产蛋鸡蛋黄TMA含量即达到嗅觉阈值。$\\textcircled{3}$ 综上所述，本试验条件下蛋鸡饲粮中双低菜籽粕水平低于 $5 . 3 \\%$ 即可有效降低鱼腥味鸡蛋的检出率，且对产蛋鸡的生产性能和蛋品质无不良影响。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1] 何江.菜粕芥子碱的提取、分离纯化、鉴定及酶解研究[D].硕士学位论文.武汉:华中农业大学,2010.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[2] HOBSON-FROHOCK A,LAND D G,GRIFFITHS N M,et al.Egg taints:association with trimethylamine[J].Nature,1973,243(5405):304-305. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[3] GOH Y K,MUELLER M M,CLANDININ D R,et al.The effects of choline and sinapine bisulfate in a laying ration on the incidence of fishy odor in eggs from brown-shelled egg layers[J].Canadian Veterinary Journal La Revue Veterinaire Canadienne,1979,59(3):545-549. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[4] BUTLER E J,PEARSON A W,GREENWOOD N M.Trimethylamine taint in eggs:the occurrence of the causative metabolic defect in commercial hybrids and pure breeds in relation to shell colour[J].Journal of the Science of Food and Agriculture,1984,35(3):272-278. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[5] BAIN M A,FORNASINI G,EVANS A M.Trimethylamine:Metabolic,pharmacokinetic and safety aspects[J].Current Drug Metabolism,2005,6(3):227-240. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[6] HONKATUKIA M,REESE K,PREISINGER R.Fishy taint in chicken eggs is associated with a substitution within a conserved motif of the FMO3 gene[J].Genomics,2005,86(2):225-232. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[7] 王晶,武书庚,张海军,等.海兰褐壳蛋鸡含黄素单氧化酶3基因型频率分布及其对蛋品质的影响[J].动物营养学报,2014,26(3):630-636.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[8] WARD A K,CLASSEN H L,BUCHANAN F C.Fishy-egg tainting is recessively inherited when brown-shelled layers are fed Canola meal[J].Poultry Science,20o9,88(4):714-721. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[9] AHERNE FX,LEWIS A J,HARDIN R T.An evaluation of faba beans (Vicia faba) as a protein supplement for swine[J].Canadian Journal of Animal Science,1977,57(2):321-328. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[10] RICHTER G,LEMSER A,BARGHOLZ J.Canola and canola meal as components in diets of laying hens[J].Archives of Animal Nutrition,1996,49(3):229-241. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[11] ISMAIL F,VAISEY-GENSER M,FYFE B.Biterness and astringency of sinapine and its components[J].Journal of Food Science,1981,46(4):1241-1244. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[12] JOSEFSSON E,UPPSTROM B.Influence of sinapine and $p$ -hydroxybenzylglucosinolate on the nutritional value of canola and white mustard meals[J].Journal of the Science of Food and Agriculture,1976,27(5):438-442. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[13] SETTAR P,FULTON JE,ARANGO J,et al.Association of FMO3 gene with egg production and quality traits in brown layers[C]//Poultry science association annual.Dallas Center,IA:Hy-Line International,2Oo8,87:70. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[14] KRETZSCHMAR K,DANICKE S,SCHMUTZ M,et al.Interactions of flavin containing monooxygenase 3 (FMO3) genotype and feeding of choline and Canola cake on the trimethylamine (TMA) content in egg yolks of laying hens[J].Archives of Animal Nutriti0n,2009,63(3):173-187. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[15] KRETZSCHMAR K,REESE K,HONKATUKIA M,et al.Effect of flavin containingmonooxygenase （FMO3） genotype on trimethylamine （TMA） content in the chicken eggyolk[J].Archiv fiur Geflugelkunde,2007,71(5):200-206.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[16] RIYAZI S R,EBRAHIMNEZHAD Y,NAZERADL K,et al.The effects of replacing soybean meal with different levels of Canola meal on egg quality characteristics of commercial laying hens[J].Asian Journal of Animal and Veterinary Advances,2Oo9,4(6):337-341. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[17] WARD A K.Genetic and dietary interactions of fishy-egg taint in brown-shelled laying hens[D].Master's Thesis.Saskatchewan:University of Saskatchewan Saskatoon,2008. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[18]GRIFFITHS N M,LAND D GHOBSON-FROHOCK A.Trimethylamine andegg taint[J].British Poultry Science,1979,20(6):555-558. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[19] VEN DANICKE S,UEBERSCHAR K H,REESE K,et al.Investigations on the effects of rape oil quality,choline and methionine concentration in diets for laying hens on the trimethylamine content of the eggs,on trimethylamine metabolism and on laying performance[J].Archives of Animal Nutrition,2006,6O(1):57-79. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[20] WANG J,WU S G,ZHANG H J,et al.Trimethylamine deposition in the egg yolk from laying hens with different FMO3 genotypes[J].Poultry Science,2013,92(3):746-752. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Effects of Dietary Canola Meal Level on Proformance,Egg Quality, Trimethylamine Content in Egg Yolk of Flavin-Containing Monooxygenases 3 Genotype Laying Hens ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "LONG ChengWANG JingWU Shugeng\\*ZHANG Haijun YUE HongyuanQI Guanghai\\*   \n(Key Laboratory of Feed Biotechnology of Ministry of Agriculture,Feed Research Institute, Chinese Academy of Agricultural Sciences,Beijing 100081) ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This experiment was conducted to investigate the effects of dietary Canola meal level on performance, egg quality, and trimethylamine (TMA） content in egg yolk of flavin-containing monooxygenases 3 (FMO3) genotype laying hens. A total of 336 laying hens, consisting of 48 hens of AA genotype,144 hens of AT genotype and 144 hens of TT genotype, were used in this study. Hens with AT and TT genotypes were randomly assigned to 4 groups with 6 replicates per group and 6 birds per replicate, and those with AA genotypes were randomly assgned to 4 groups with 6 replicates per group and 2 birds per replicate. The laying hens in four groups were fed a basal diet supplemented with O (control), $7 \\%$ ， $14 \\%$ and $21 \\%$ Canola meal，respectively. The experimental period lasted for 6 weeks. The results showed as follows: 1） dietary Canola meal level，FMO3 genotype and the interaction of dietary Canola meal level and FMO3 genotype significantly affected average daily intake of laying hens $( P { < } 0 . 0 5 )$ , but had no significant effects on average egg weight and the ratio of feed to egg $( P { > } 0 . 0 5 )$ . The average daily feed intake in $14 \\%$ （20 and $21 \\%$ Canola meal level group was significantly lower than that in control group $( P { < } 0 . 0 5 )$ . The average daily feed intake and egg production in AA genotype group were significantly lower than those in the other genotype groups ( $\\scriptstyle ( P < 0 . 0 5 )$ ). 2) Dietary Canola meal level, FMO3 genotype and the interaction of dietary Canola meal level and FMO3 genotype had no significant effects on egg-shape index,eggshell strength,albumen height and Haugh unit of laying hens $( P { > } 0 . 0 5 )$ . But dietarv Cannla meal level had sionifirant effert nn the vale nf egg vnlk cnlnr $( P { < } 0 . 0 5 )$ and $21 \\%$ （20 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Canola meal level group was significantly lower than the other groups $( P { < } 0 . 0 5 )$ . 3）Dietary Canola meal level, FMO3 genotype and the interaction of dietary Canola meal level and FMO3 genotype had significant effects on TMA content in egg yolk of laying hens $( P { < } 0 . 0 5 )$ . The TMA content in egg yolk was improved with increasing dietary Canola meal level, and TMA content in egg yolk in $14 \\%$ and $21 \\%$ Canola meal level groups was significantly higher than that in the other groups $( P { < } 0 . 0 5 )$ . The TMA content in egg yolk in TT genotype group was significantly higher than that in AA and AT genotype groups ( $( P { < } 0 . 0 5 )$ . According to the regression equation of the TMA content in egg yolk of laying hens $( Y )$ and dietary Canola meal level $( X ) \\colon Y { = } 0 . 5 0 0 4 X { + } 3 . 2 9 6$ （204号 1( $R ^ { 2 } { = } 0 . 9 6 7 \\ 0$ , TT genotype), $Y { = } 0 . 0 9 6$ （20 $6 X { + } 1 . 8 0 5 \\ 4$ （ $R ^ { 2 } { = } 0 . 9 6 1 \\ 7$ , AA genotype), dietary Canola meal level should be lower than $5 . 3 \\%$ (TT genotype hens) or $6 0 . 1 0 \\%$ (AA genotype hens) to make the TMA content in egg yolk lower than the estimated human olfactory threshold. The results suggest that when laying hens with TT genotype were fed the diet supplemented with Canola meal do not product fishy eggs, hens with AA and AT genotype will not product the fishy eggs, too. Thus,dietary Canola meal level lower than $5 . 3 \\%$ can not make laying hens with TT genotype product fishy eggs, and has no negative effects on performance and egg quality. Key words: Canola meal; laying hens; performance; trimethylamine ",
+        "page_idx": 15
+    }
+]

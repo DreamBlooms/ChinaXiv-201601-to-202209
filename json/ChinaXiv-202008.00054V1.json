@@ -1,0 +1,404 @@
+[
+    {
+        "type": "text",
+        "text": "半夏光系统对光照和温度日变化的适应",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "董益1,2.3，陈军文1,2.3，谢世清1,2.3，张金燕 $^ { 1 , 2 , 3 ^ { * } }$ （1．云南农业大学 西南中药材种质创新与利用国家地方联合工程研究中心，昆明650201;2．云南农业大学 云南省药用植物生物学重点实验室，昆明650201;3．云南农业大学 农学与生物技术学院，昆明650201)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为探讨半夏(Pinellia ternate)光系统对光照强度和温度日变化的适应机理，该文连续 3天模拟了同一光照强度 $( 0 { \\sim } 1 6 0 0 \\mu \\mathrm { m o l } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 } )$ 日变化下低温（ $1 0 { - } 1 8 ^ { \\circ } \\mathrm { C } \\rangle$ 、中温 $( 2 0 { \\sim } 2 8 ^ { \\circ } \\mathrm { C } )$ 和高温 ( $2 8 { \\sim } 3 8 \\ ^ { \\circ } \\mathrm { C }$ ）的环境条件，同时测定了光系统ⅡI（PSII）和光系统I（PSI）的叶绿素荧光参数，通过PSII和PSI光合活性和电子传递能力的变化研究半夏光合系统对光照强度和温度日变化的适应。结果表明:(1)PSII最小荧光 $( F _ { o } ^ { \\prime } { } ^ { \\prime }$ ）和PSII反应中心激发能捕获效率$( { F _ { \\nu } } ^ { \\prime } / { F _ { m } } ^ { \\prime } )$ 随光照的强度的增加而降低，光照强度的增加是导致光系统的活性降低的主要原因，低温会进一步导致光系统活性的降低；(2)光照强度和温度的增加使PSI受体端热耗散效率 $[ Y ( N D ) ]$ 上升、PSI供体端热耗散效率 $[ Y ( N A ) ]$ 则降低，光照强度的增加不会导致供体侧较大的激发压，但会使受体侧开始积累较大的激发压，而较低的温度会导致受体侧活性降低使供体侧积累较高的激发压； (3)高光（光强 ${ > } 9 0 0 \\ \\mu \\mathrm { m o l } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 } )$ 对半夏的光抑制和光损伤导致了PSII实际光化学量子产量[Y(II)]和PSI实际光化学量子产量[Y(I)]的降低，低温进一步加剧了Y(II)和Y(I)的降低；(4)高光下PSI的电子传递速率 ETR（I）的增加启动了环式电子传递（CEF)，较高的CEF稳定了高温下PSII的电子传递速率ETR（II）的同时保护PSII免受光的损伤；(5)在3d的处理中虽然非光化学淬灭系数（NPQ）随光照强度的增加而上升，但相对于高温，低温下半夏较低的NPQ使PSII处非调节性能量耗散的量子产量 $[ Y ( N O ) ]$ 一直处于最高水平表现出明显的光抑制。这些结果说明，低温降低了半夏对高光环境的适应能力，而高温通过增强 NPQ、加速CEF的产生，减少光抑制的产生，从而加速光反应的电子传递和维持光反应系统的稳定性。因此，低温胁迫会加剧半夏光系统的损伤，温度的适当提高可以增强半夏光反应系统对高光的适应性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：半夏，光照，温度，光系统，叶绿素荧光参数中图分类号：Q945 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Adaptation of Pinellia ternate photoreaction systemto diurnal changes of light and temperature ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DONG Yi1,2.3, CHEN Junwen1,2,3, XIE Shiqing1,2,3, ZHANG Jinyan1.,2.3 \\* (1.National & Local Joint Engineering Research Center on Germplasm Innovation & Utilization of Chinese Medicinal Materials in Southwestern China, Yunnan Agricultural University, Kunming 650201, China; 2. Key Laboratory of Medicinal Plant Biology, Yunnan Agricultural University, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Kunming 650201, China; 3. College of Agronomy and Biotechnology, Yunnan Agricultural University,Kunming 650201, China) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In order to explore the adaptation mechanisms of Pinellia ternate photoreaction system to daily variations of light intensity and temperature, this study simulated the low temperature $( 1 0 – 1 8 \\ ^ { \\circ } \\mathrm { C } )$ ，moderate temperature $( 2 0 { - } 2 8 \\ ^ { \\circ } \\mathrm { C } )$ ）and high temperature $( 2 8 - 3 8 \\ ^ { \\circ } \\mathrm { C } )$ under the diurnal variation of the same light intensity $( 0 { \\mathrm { - } } 1 6 0 0 \\ \\mu \\mathrm { m o l } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 } )$ for 3 consecutive days,and the chlorophyll fluorescence parameters of Photosystem II (PSII) and Photosystem I (PSI) were measured.The adaptation ofphotosynthetic system to diurnal changes of light intensity and temperature in $P .$ ternata was researched by detecting the changes of PSII and PSI photosynthetic activity and electron transfer capacity.The results were summarized as follows:(1)Minimal fluorescence intensity at actinic light $( F o ^ { \\prime } )$ and photochemical efficiency of PSII in the light $( F \\nu ^ { \\prime } / F m ^ { \\prime } )$ was decreased with increased light intensity， and the low temperature further led to the $F \\nu ^ { \\prime } / F m ^ { \\prime }$ decrease and the $F o ^ { \\prime }$ increase. (2)PSI donor end heat dissipation efficiency [Y (ND)] increased with increasing light intensity andhigh temperatures,PSI acceptor end heat dissipation efficiency $\\left[ Y \\left( N A \\right) \\right]$ decreasedwith increasing light intensity andhigh temperatures. (3)Effective photochemical quantum yield of PSI [Y (I)] and the quantum yield of PSI [Y(I)] were inhibited by high light $( > 9 0 0 \\mu \\mathrm { m o l } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 } )$ ，and the low temperature further significantly decreased Y(II) and Y(I). (4)The increasing electron transport rate $E T R ( \\mathrm { I } )$ of PSI of the PSI under the high light initiated the ring electron transfer $( C E F )$ ,and the higher $C E F$ stabilized the electron transfer rate $E T R ( \\mathrm { I I } )$ of the PSIIat high temperatures. (5)The non-photochemical quenching coefficient (NPQ) increased with increasing light intensity,low NPQ keeps the quantum yield of non-regulated energy dissipation in PSII $[ Y ( N O ) ]$ on its highest level at low temperature.These results suggestedhigh temperature would reduce the photo-inhibition of $P .$ ternata under high light by enhancing $N P Q$ and $C E F$ ,accelerating the electron transfer and stability of the light reaction,in sharp contrast of low temperature.Therefore， low temperature could aggravate the damage ofphotoreaction system, and moderate temperature promotes the adaptation of plant photoreaction system to high light. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Pinellia ternate, light, temperature, photoreaction system, chlorophyll fluorescence parameters ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "半夏（Pinellia ternate）为天南星科半夏属药用植物（贾君君等，2009)，以干燥块茎入药，市场需求及应用前景广阔，具有较高的研究价值（高振杰等，2019)。大量的研究发现，高温和强光照射制约了半夏的光合作用，进而影响半夏的生长发育，导致半夏产量和品质的降低(薛建平等，2007；郑永敏，2008；张丽霞，2015)，在光合作用机制中光系统（主要是光系统II（PSII）及其放氧复合体（OEC）、ATP合成和碳同化过程是对温度和光照敏感位点（Nishiyamaet al.，2006；Murataet al.，2007)，其中光系统是受温度和光照影响最大的部位(Gururanietal.，2015)。由于温度和光照制约半夏的生长和发育，因此研究半夏光系统对光照和温度的适应是很有必要的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "光照和温度是影响植物光合作用的重要因子，短期内高光使植物的叶绿体捕获过多的光能(Szymanska etal.，2017)，光合膜中有害的激发能、活性氧（ROS）积累，对PSII造成损伤(Takahashi&Badger，2011)；长期的高光胁迫下，由于 $\\mathrm { C O } _ { 2 }$ 同化作用的限制会导致光合系统I（PSI）过度的还原对PSI造成损伤（Lietal.，2009）。高光下植物可通过的光保护策略来降低高光胁迫下激发能的产生：为减少PSI能量的积累，植物可以通过非光化学猝灭（NPQ)途径以热能的形式耗散多余的的能量(Gururanietal.，2015；Ruban，2016)；在电子传递中，植物可以通过氧化还原的反馈机制，降低细胞色素复合物（Cytbf）的活性，限制PSI供体侧电子传递使PSI氧化防止PSI过度还原（Joliot＆Johnson，2011）；环式电子流（CEF）的激活，加速使PSI受体侧的电子流出，从而避免了PSI的过度还原保护PSI免受光损伤（Shikanai，2014）。在低温环境中，植物叶片Rubisco酶活性降低，三羧酸循环（TCA）受阻（Eberhardet al.，2008），ATP和NADPH的还原能力减弱导致类囊体膜内质子的增加，加速了水水循环和ROS的产生，ROS对光系统造成氧化损伤和抑制光合蛋白的修复，降低了光合电子传递速率，使PSI的活性受到抑制（Falcone et al.，2004；Tyystjarvi，2013；Sawicki etal.，2016;Khanaletal.，2017)。适宜高温加快了光呼吸速率和光合碳同化速率促进了光反应的进行（Wahidetal.，2007），但高温下类囊体膜内质子外流，可能导致ATP合成与电子输运耦合的破坏，而CEF的增加可以补偿囊体膜内外流的质子，使ATP合成得以继续(Schrader et al.,2004；Allakhverdiev et al.，2008)。在半夏的光合生理研究中，靳忠英等（2006）研究表明半夏净光合速率的日变化呈双峰形，光照强度变化是影响半夏光合速率的主要原因之一；薛建平等（2010)对半夏进行连续高温胁迫后发现，高温会降低半夏光合速率和电子传递速率，长期的高温胁迫还会导致PSII的损伤，而外源 $\\mathrm { C a } ^ { 2 + }$ 和脯氨酸可以降低高温对半夏叶片光合作用的抑制作用以及对PSⅡI系统的损伤，从而提高半夏的产量（杨卫星等，2014；苏贝贝等，2015)。尽管前人对半夏适应环境的特性和光合作用相关的机理进行了研究，但对不同温度和光强对半夏光合作用的研究则相对较少，特别是对日变化光照和温度条件的适应。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究连续3d模拟了同一日变化不同光照强度（ $0 { \\sim } 1 \\ 6 0 0 \\ \\mu \\mathrm { m o l { \\cdot } m ^ { - 2 } { \\cdot } s ^ { - 1 } } .$ ）下低温$( 1 0 { - } 1 8 \\ ^ { \\circ } \\mathrm { C } )$ 、中温（ $2 0 { \\sim } 2 8 \\ ^ { \\circ } \\mathrm { C }$ ）和高温（ $2 8 { \\sim } 3 8 ~ ^ { \\circ } \\mathrm { C }$ ）环境条件，同时使用Dual-PAM-100对PSII和PSI的叶绿素荧光参数进行测定，分析半夏光反应系统对日变化的光照和温度的适应特性，研究半夏对光照和温度的光合生理适应机制。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1．材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料的培养",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选择株芽完好，直径 $1 \\mathrm { { c m } }$ 左右的半夏地下球茎，播种前用多菌灵（1000倍液）浸种$2 0 \\mathrm { m i n }$ 。基质为红壤土和有机质按体积的1:1拌匀。拌匀的土壤称重 $6 \\mathrm { k g }$ ，置于高度为 $3 0 \\mathrm { c m }$ 内径为 $1 5 \\mathrm { c m }$ 的花盆中，共计装盆21个。2018年5月1日，精选种茎15棵均匀播种于花盆，上层覆盖 $2 \\mathrm { c m }$ 厚的有机质。将其置于云南农业大学后山教学农场的遮荫棚内。育苗用的遮荫棚采用半夏专用遮阳网搭建，透光率为 $60 \\%$ ，后期统一进行田间管理，当半夏齐苗后开始间苗，每盆留半夏20株。试验样地所在的云南农业大学位于昆明市盘龙区 $( 1 0 2 ^ { \\circ } 4 5 ^ { \\prime } \\mathrm { E }$ 、$2 5 ^ { \\circ } 0 8 ^ { \\prime } \\mathrm { N } )$ ，海拔 $1 9 6 6 . 0 0 \\mathrm { m }$ ，年平均气温 $1 5 . 1 0 ^ { \\circ } \\mathrm { C }$ ，年降水量 $1 0 0 0 . 0 0 \\mathrm { m m }$ ，干湿季节分明，5月到10月为雨季，11月至次年的4月为干季，属亚热带季风气候。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1光强测定",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7806ca433113627a3a5a1b4c396fc724e5dd59ff5dcbb9a090a11548f6edf4ee.jpg",
+        "img_caption": [
+            ""
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了解栽培地光强日变化，试验使用Li-190R量子传感器和Li-1500光量子记录仪（Li-Cor,USA）于6:00—18:00每隔10s采集一次数据记录光强有效辐射(光量子通量密度：PPFD)。2018年6月13日测量了云南农业大学后山教学农场晴天全天的光强日变化情况（图1)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.2试验处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过光强的测定，2018年10月1日开始在人工气候箱内进行模拟日变化（光强和温度)试验。三种温度处理均选取长势一致的5盆半夏植株（平均株高 ${ \\mathrm { : } } > 1 5 { \\mathrm { ~ c m } }$ ）放置于人工气候箱内待处理，使用人工气候箱和LED灯控制不同温度和光照强度，模拟1天的温度和光照的变化，白天和夜晚都设置为 $1 2 \\mathrm { h }$ ，白天每 $2 \\mathrm { h }$ 测定一次叶绿素荧光参数，夜晚处理 $1 2 \\mathrm { h }$ 后于第2天6：00 测定叶绿素荧光参数。测量时随机选取半夏最上一层长势一致的半夏叶片，每盆选一片叶并避开主叶脉测量三叉叶的中间叶片一次。在相同日变化的光照条件下，分别模拟低温（LT）、中温（MT）和高温（HT）三种不同温度环境条件，每种环境条件模拟并连续处理3d。具体的光照和温度设定如下表1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d3a9a9b6a5c0af674be22dbdc887495fd8fd3fd93a97fc1cf7020bb5ad48d58e.jpg",
+        "table_caption": [
+            "表1连续3d处理的每天日变化的光强和不同温度的设定",
+            "Table 1 One daily variation of light intensity and different temperature settings for 3 days "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>处理时间 Treatment time</td><td>18:00 -6:00</td><td>6:00 —8:00</td><td>8:00 —10:00</td><td>10:00 —12:00</td><td>12:00 -14:00</td><td>14:00 —16:00</td><td>16:00 —18:00</td></tr><tr><td>测定时间 Record time</td><td>6:00</td><td>8:00</td><td>10:00</td><td>12:00</td><td>14:00</td><td>16:00</td><td>18:00</td></tr><tr><td>光强（μmol·m-²·s-1） Light intensity</td><td>0</td><td>500</td><td>900</td><td>1 200</td><td>1 600</td><td>1 600</td><td>1 200</td></tr><tr><td>低温 Low temperature (LT，℃)</td><td>10</td><td>10</td><td>12</td><td>14</td><td>16</td><td>18</td><td>16</td></tr><tr><td>中温 Middle temperature (MT，℃)</td><td>20</td><td>20</td><td>22</td><td>24</td><td>26</td><td>28</td><td>26</td></tr><tr><td>高温 High temperature (HT，℃)</td><td>28</td><td>28</td><td>30.5</td><td>33.5</td><td>35</td><td>38</td><td>35</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3叶绿素荧光测量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考Kramer et al.（2004）的测量方法，使用 Dual-PAM-100 叶绿素荧光仪（Walz，德国）进行叶绿素荧光参数和P700 吸收变化测定。在人工气候箱内处理时，打开光化光，用Bal对两个测量系统进行平衡，待荧光信号稳定后（ $\\cdot 4 { \\sim } 5 \\ \\mathrm { m i n } \\cdot$ ，测定光适应后的叶绿素最小荧光 $( F _ { o } ^ { \\ \\prime } )$ 、光适应后的叶绿素最大荧光 $( F _ { m } { ' } )$ 、叶绿素稳态荧光 $( F _ { s }$ ）和P700中光下最大量子产量 $( { P _ { m } } ^ { \\prime } )$ 。各荧光参数意义及计算公式如下（Kooten et al.，1990；Genty etal.，1989）。最大光化学效率： $F _ { \\nu } { ' } F _ { m } { ' } = ~ \\left( F _ { m } { ' } F _ { o } { ' } \\right) ~ { / } F _ { m } { ' }$ ；非光化学淬灭系数： $N P Q { = } \\ : \\left( F _ { m } { - } F _ { m } { ' } \\right) \\ : \\left/ F _ { m } \\right. { } ^ { \\prime }$ ；PSII处非调节性能量耗散的量子产量： $Y ( N O ) { = } F / F _ { m }$ ；通过PSII的电子传递速率：ETR（II）$= Y ( \\mathrm { I I } ) { \\times } P P F D { \\times } 0 . 8 5 { \\times } 0 . 5$ ；通过PSI的电子传递速率： $E T R$ （I） $= Y ( \\mathrm { I } ) { \\times } P P F D { \\times } 0 . 8 5 { \\times } 0 . 5$ ；PSII实际光化学量子产量： $Y ( \\mathrm { I I } ) { = \\ } \\left( F _ { m } { ' } { - } F _ { s } \\right) \\ / \\ F _ { m } { ' }$ ；PSI实际光化学量子产量： $Y ( \\mathrm { I } ) { = \\ } \\left( P _ { m } { ' } { - } P \\right) \\ / P _ { m }$ PSI供体端热耗散效率： $Y ( N D ) { = } P / P _ { m }$ ；PSI受体端热耗散效率： $Y ( N A ) { = } ~ ( P _ { m } { \\mathrm { - } } P _ { m } { } ^ { \\prime } ) ~ / P _ { m }$ ；环式电子传递速率： $C E F { = } E T R$ （I）-ETR（I）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5数据处理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "使用Microsoft Excel2013软件对数据进行统计，用 SPSS19.0软件对数据进行单因素方差分析（One-wayANOVA）。图表数据为平均值 $\\cdot ^ { \\pm }$ 标准差。采用 SigmaPlot10.0 软件作图。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.结果分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1PSII活性对日变化的光照和不同日变化的温度的适应",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$F _ { o } ^ { \\prime }$ 为光下PSII最小荧光，试验中每天6:00 测定的 $F _ { 0 } ^ { \\mathrm { ~ } \\dagger }$ 都经过一夜的黑暗处理且在黑暗条件下测定，能代表PSII初始荧光 $( F _ { o }$ ）的变化。在3天的处理中，不同温度处理的 $F _ { 0 } { } ^ { \\prime }$ 均表现为先下降后缓慢上升最后趋于稳定（图2：A-C)。试验中，LT处理的 $F _ { o } ^ { \\prime }$ 在 3d 中均高于其他两个处理，特别是在夜间 $1 0 ~ ^ { \\circ } \\mathrm { C }$ 处理后升高明显。第3天的MT处理的 $F _ { o } ^ { \\prime }$ 比第1天和第2天的小幅上升，高温处理则相反（图2：C)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$F _ { \\nu } ^ { \\phantom { \\dagger } } / F _ { m } ^ { \\phantom { \\dagger } }$ 为光化光下PSII有效光化学量子产量，为反应中心激发能捕获效率。试验中6:00测定的 $F _ { \\nu } ^ { \\prime } / F _ { m } ^ { \\phantom { \\dagger } }$ 同样经过暗适应处理测定，所以能代表最大PSII的光能转换效率 $( F _ { \\nu } / F _ { m } )$ 。3天的变化温度处理中，变化的低温对 $F _ { \\nu } ^ { \\prime } / F _ { m } ^ { \\phantom { \\dagger } }$ 的影响最大（图2：F)。随光照强度的增加，三个变化温度处理的 $F _ { \\nu } ^ { \\phantom { \\dagger } } / F _ { m } ^ { \\phantom { \\dagger } }$ 均急速下降，说明首先对 $F _ { \\nu } ^ { \\phantom { \\dagger } } / F _ { m } ^ { \\phantom { \\dagger } }$ 有影响的是光照（图1：D)；随着处理时间的加长，温度处理对 $F _ { \\nu } ^ { \\prime } / F _ { m } ^ { \\phantom { \\dagger } }$ 的影响越来越明显。第2天和第3天的处理中 $F _ { \\mathrm { v } } { ' } / { F _ { \\mathrm { m } } } { ' }$ 变化的趋势都是随光照强度的增加而降低，但LT处理下的 $F _ { \\nu } ^ { \\prime } / F _ { m } ^ { \\phantom { \\dagger } }$ 从第2天的6：00开始就一直处于最低水平并在3天的同一时段连续降低（图2：E)；HT和MT处理的 $F _ { \\nu } ^ { \\phantom { \\dagger } } / F _ { m } ^ { \\phantom { \\dagger } }$ 在3天同一时段内都处于稳定状态，表明低温确实导致了 $F _ { \\nu } ^ { \\prime } / F _ { m } ^ { \\phantom { \\dagger } }$ 降低，特别是第2天和第3天的6：00点测定的 $F _ { \\nu } ^ { \\prime } / F _ { m } ^ { \\phantom { \\dagger } }$ 均低于0.8的水平，而6：00点测定的HT和MT处理 $F _ { \\nu } ^ { \\prime } / F _ { m } ^ { \\phantom { \\dagger } }$ 则能稳定在0.8的水平。经过3天的处理可知光照强度的增加是引起 $F _ { o }$ 升高和 $F _ { \\nu } ^ { \\prime } / F _ { m }$ 降低的主要原因，低温条件会进一步引起 $F _ { o } ^ { \\prime }$ 、 $F _ { \\nu } ^ { \\prime } / F _ { m } ^ { \\phantom { \\dagger } }$ 的变化。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e2e7af40887e428553a2addc789e66d3cecb2947889a83663453ccfaa6360333.jpg",
+        "img_caption": [
+            "图2日变化的光照和不同温度对 $F _ { 0 } ^ { \\prime }$ 、 $F _ { \\mathrm { v } } { ' } / { F _ { \\mathrm { m } } }$ 的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Effects of diurnal light intensity and differentdaily temperatures on $F _ { 0 } ^ { \\mathrm { ~ \\dag ~ } }$ and $F _ { \\nu } ^ { \\prime } / { \\cal F } _ { m } ^ { \\phantom { \\dagger } }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2PSI对日变化光照下不同的温度适应",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Y(NA)是由受体侧限制引起的PSI处非光化学能量耗散的量子产量，是PSI光损伤或光抑制的重要指标。MT和HT 处理的Y(NA)在第1天的8：00 达到了最高水平（图3：A)，光照的增加使半夏受体侧开始积累了较大的激发压，但随处理时间的增加，HT 处理的 Y(NA)始终处于最高水平，而同样光强下处理的LT则在第1天的10:00 降低后始终处于最低水平。MT 处理的Y(NA)则始终介于LT 和MT之间。说明HT 的处理的半夏受体侧激发压增加可能引起了PSI光抑制或者PSI受到了损伤。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Y(ND)是由于供体侧限制引起的PSI处非光化学能量耗散的量子产量。第1天，三种处理的Y(ND)在8:00至12:00的时间段内都处于一个上升的水平（图3：D)，这与光照强度增加有关，但低温下Y(ND)一直处于最高水平，而高温则维持较低水平，这与 $Y ( N A )$ 的变化相反（图3：E)，Y(ND)的增加表明半夏在LT的处理下供体侧积累了较大的激发压。通过第 2天、第3天的处理，不同温度处理下的Y(NA)开始存在较大的差异，低温下Y(ND)一直高于其他两个温度处理（图3：F)，而HT 处理的Y(ND)越来越低。通过 $Y ( N A )$ 的日变化可知光照的加强是引起受体侧激发压增加的主要原因，而3天的Y(ND)的变化主要由于温度变化引起，低温加强了供体侧的激发压，高温则降低了供体侧的激发压。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/308048cba365615c2da5b64ba2337fb882e36c471153e060eb9f29cd5cac41cf.jpg",
+        "img_caption": [
+            "图3日变化的光照和不同温度对Y(NA)、Y(ND)的影响",
+            "Fig.3Effects of diurnal light intensity and different daily temperatures on Y(NA) and Y(ND) "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3日变化光照和温度对PSII和PSI量子产量的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在3天的处理中,低温处理 PSII的量子产量Y(II)均小于其他两个温度处理(图4:A-C)，每天6:00 后光照的增加使 Y(II)急速的下降。在第2天和第3天的处理中三个温度处理的 Y(II)存在明显的差异(图4：B和C)，LT 处理的Y(II)始终低于其他两个温度处理，在第3天无限接近于零，这可能与PSII已经处于闭合的状态或者已经受损有关（图4：C)。MT处理对的Y(II)、Y(I)在第2天和第3天也有下降的趋势，可能与接受过强的光照而产生光抑制有关。高温处理的Y(II)则一直处于正常水平，到第3天的14:00后才有下降的趋势（图4：C)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "PSI的光化学效率Y(I)在3天的处理中，均为先下降然后上升的趋势（图4：D)，HT的Y(I)一直处于较高的水平，第2天和第3天有上升的趋势（图4：E和F)。LT下Y(I)在第2天和第3天的6:00 时达到最高水平，之后一直处于最低水平。MT处理Y(I)在3天中都处于稳定的水平，变化的趋势都是随1天的光照变化先下降后上升。HT处理的 Y(I)一直处于最高水平，除了第2天和第3天的16:00，其余的均维持在稳定水平，而16:00的Y(I)的下降可能与 $3 8 ^ { \\circ } \\mathrm { C }$ 的高温处理有关，但短期的 $3 8 \\mathrm { ~ \\textdegree C }$ 处理结束后，在35.5℃的温度下Y(I)恢复正常水平。在3天的处理中，在相同光照下Y(II)和 Y(I)受到了温度的影响，适宜的温度的增加提高了Y(II)和 Y(I)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/5276f62a533147586240be840c7225ae59152811746f7c7638df367f57439c9d.jpg",
+        "img_caption": [
+            "图4日变化的光照和不同温度对 Y(II)和Y(I)的影响",
+            "Fig. 4Effects of diurnal light intensity and different daily temperatures on Y(II) and Y(I) "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4日变化光照下不同日变化温度处理对线性电子传递及环式电子循环影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "PSII 的相对电子传递速率 ETR(II)，反映线性电子传递的活性。从第1天开始（图5：A)，三个温度处理的线性电子传递能力均处于较高的一个水平，ETR(I)的变化也随温度的增加而增加，其中HT处理的线性电子传递能力一直高于其他两个温度处理，在1天的14:00 达到最高值，这与1天中12:00到14:00为最强光照有关。而LT的ETR(II)在第1天上升后，在第2天和第3天一直处于最低水平（图5：B和C)，低温处理抑制了线性电子传递的。MT 处理的ETR(II)则基本维持在同一个水平，3天的处理对ETR(II)的影响并不明显。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "PSI 的相对电子传递速率ETR(I)，可反映PSI线性电子和环式电子传递的能力，3天中ETR(I)与 ETR(II)变化一致（图5：D-F)。3天的环式电子传递速率CEF和每天的光强的变化趋势一样（图5：I)，但环式电子传递速率却存在很大的差异。低温下的CEF大小相近且一直处于最低水平（图5：I-K)，常温处理的CEF在第3天的14:00后有微弱的上升，高温处理下的CEF则在每天的16:00达到最高水平。第2天和第3天常温处理和高温处理的CEF有了明显的上升且一直高于其它两个处理。高温下半夏维持较高的 ETR(I)与 ETR(II)同时，较高CEF的介入，进一步提高了半夏对高温环境的适应，低温下PSII和PSI活性变化可能导致线性电子传递速率的降低，而CEF不能介入，可能进一步导致了半夏在低温下的光抑制。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/09c9268dfdfe48df839e9776aaf7e1734c2dbd3409b4275fbd4fc999941a221a.jpg",
+        "img_caption": [
+            "图5日变化的光照和不同温度对ETR(I)、ETR(II)和CEF的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.5Effects of diurnal light intensity and different daily temperatures on $E T R \\mathrm { ( I ) } , E T R \\mathrm { ( I I ) }$ and CEF ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5NPQ的增加可提高变化的光照下半夏对高温环境的适应",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "NPQ 是植物耗散过剩光能为热能的能力，反映植物的光保护能力。在3天的处理中，HT 处理的半夏叶片NPQ一直处于最高水平（图6：A-C)，低温处理的NPQ一直处于最低水平，相比于低温处理，常温处理也处于较高水平。在第1天低温下NPQ有上升的趋势（图6：A)，但在第2天的8:00上升后迅速下降（图6：B)，下降后一直处于最低水平，在第2天和第3天的16:00 温度最高时（图6：C)，NPQ有了缓慢的回升，这说明NPQ受到温度的影响。随光照强度的增加，HT处理的半夏一直维持较高的NPQ，说明高温下半夏能通过高的热耗散来保护自身不受损伤。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Y(NO)是PSII处非调节性能量耗散的量子产量，是光损伤的重要指标。第1天，LT 处理的Y(NO)一直处于较高的水平，在下午18:00时降低（图6：D)，但在第2天的10:00 后又升高到接近1的水平（图6：E)，第3天继续维持在这个水平（图6：F)，表明低温下光化学能量转换、光保护性调节机制（如热耗散）的不足（图6：B和C)，不能将半夏叶片吸收的光能完全耗散，半夏PSII受到了很强的光抑制或造成光损伤使Y(NO)处于最高水平。MT 处理的Y(NO)也有一定的上升，但上升的幅度较低温处理不明显，在1天处理后总能回到正常水平；而高温处理则一直处于最低水平，表明高温处理受到的光抑制最小。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/466fa2f9a0bffa794456d1df7a9bd2ddbe37f754a569be85601eb224ffe8de9f.jpg",
+        "img_caption": [
+            "图6日变化的光照和不同温度对 NPQ和Y(NO)的影响",
+            "Fig.6Effects of diurnal light intensity and different daily temperatures on $N P Q$ and $Y ( N O )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1高光低温条件加剧半夏PSII光抑制和光损伤",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "高光会导致植物的光抑制，而温度胁迫叠加会加剧光抑制，对PSI造成光损伤（Khanal etal.,2017)。植物受到光抑制时会导致光抑制或光损伤的指标Y(NO)的升高(Kalajietal.，2016);高等植物在暗适应的条件下测定的PSII捕光能力的大小 $F _ { \\mathrm { v } } { ' } / { F _ { \\mathrm { m } } }$ 的值为0.8左右，PSII抑制会导致 $F _ { \\mathrm { v } } { ' } / { F _ { \\mathrm { m } } } ^ { \\ }$ 的降低（Bjorkman＆Demmig，1987）；PSII的失活或损伤、能量耗散的变化会造成PSII完整性指标 $\\cdot F _ { 0 } ^ { \\mathrm { ~ \\prime ~ } }$ 的升高(Kalajietal.，2014)。本研究中，Y(NO)的变化表明高光（2 $( > 9 0 0 \\mu \\mathrm { m o l } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { s } ^ { - 1 } )$ 低温的条件下半夏PSII受到严重的光抑制。LT处理中 $F _ { \\mathrm { v } } { ' } / F _ { \\mathrm { m } }$ 在第2天、3天的6:00LT均低于0.8的水平（图2：E和F)，表明低温加剧了半夏高光下的光抑制；半夏在LT、MT处理下 $\\dot { F } _ { 0 } { } ^ { \\dag }$ 的上升（图2：C)，这可能与半夏的PSII已经受到严重的损伤有关。梁芳等（2010）等对菊花（Dendranthemamorifolium）的研究也证明低温和高光同时存在的条件下会导致 $F _ { 0 } ^ { \\prime }$ 上升；另一方面，王莹博等（2018）对白及（Bletilla striata）的研究中发现，高温会造成暗适应的条件下测定的 $F _ { 0 } ^ { \\mathrm { ~ } }$ 上升和 $F _ { \\mathrm { v } } ^ { \\ \\prime } / F _ { \\mathrm { m } } ^ { \\ \\ \\prime }$ 下降，薛建平等（2010）在长期使用 $3 7 \\mathrm { { ^ circ C } }$ 高温处理的研究中同样也会导致 $\\cdot F _ { 0 } ^ { \\mathrm { ~ \\prime ~ } }$ 上升和 $F _ { \\mathrm { v } } { ' } / { F _ { \\mathrm { m } } } ^ { \\prime }$ 下降，但在本研究中高温却稳定了 $F _ { 0 } ^ { \\mathrm { ~ \\prime ~ } }$ ， $F _ { \\mathrm { v } } { ' } / { F _ { \\mathrm { m } } } { ' }$ ，这可能与本研究中高温处理时间较短（最高温度 $3 8 ^ { \\circ } \\mathrm { C }$ 仅处理2小时）和日变化处理中半夏处于适宜的 $2 8 ^ { \\circ } \\mathrm { C }$ 夜间温度下修复了部分可能损伤的PSII有关。这些结果表明高光会导致半夏的光抑制，低温会加剧了这种光抑制造成了半夏的光损伤。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2高光低温条件降低了半夏光系统活性",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Y(II)和Y(I)分别反映的是PSII和PSI的实际原初光能捕获效率，作为植物光合电子传递速率快慢的相对指标(Kalajiet al.，2014)。在3天的处理中，LT 处理的半夏Y(II)和 Y(I)一直处于最低水平。Y(II)的显著降低（图4：C和F)，表明低温下半夏叶片的光反应受到了强烈抑制（Bailey et al.，2008)。半夏叶片PSII光损伤的指标 Y(NO)显著升高与 Y(I)降低的结果一致，半夏叶片PSII损伤降低了电子传递速率。低温下Y(II)的降低也进一步导致了PSI和PSII 的线性电子传递速率 ETR(I)与ETR(II)降低（图4：E和图5：B)，而低温下的供体侧",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Y(ND)一直处于最高水平使 PSII产生的电子无法传递到 PSI是 ETR(I)与 ETR(II)降低的主要原因（图3：F)，同时低温下受体侧的Y(NA)一直处于最低水平，也表明低温处理的半夏 PSI受到抑制。虽然高温下 $Y ( N A )$ 上升应该造成线性电子传递速率的降低（图3：C)，但高温下的 $E T R ( \\mathrm { I } )$ 与 $E T R ( \\mathrm { I I } )$ 一直维持在最高的水平，这与高温处理下一直保持较高的Y(I)有关。而Ballottari等（2007）研究也表明PSI比PSII有更强的稳定性，高温处理下PSI快速的电子传递表明 Y(NA)增大不是由光损伤造成，PSII较大的 Y(II)导致了Y(I)增加，Y(I)增加会使 PSI受体端积累较高的激发压，半夏增强了PSI的热耗散Y(NA)从而避免光对PSI的损伤并维持原初光能捕获效率。低温下光系统的损伤造成了Y(I)和Y(II)的降低，Y(NA)的降低进一步抑制了半夏光系统活性，高温下维持较高的Y(I)可能与CEF的启动有关，同时较低Y(ND)进一步促进PSII的活性，增强了半夏线性电子传递速率。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3NPQ和CEF启动增强了半夏适应高温高光的能力",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "NPQ 能有效的消耗过剩的光能(Ruban，2016)。陈华新等（2008）研究表明，随光照强度和温度的增加，小麦（Triticum aestivumL.）的热耗散能力逐渐增加，植物的热耗散能力与光照强度呈线性关系；胡文海等（2010）研究中发现高温能促进NPQ的增加。在本研究中，NPQ 随光照强度的增加而增加，NPQ日变化规律与冯志立等（2002）研究一致（图6：B)，高温的环境下半夏叶片总是保持较高的NPQ，较高的NPQ 加强了半夏在高光下对 PSII保护能力，使 $F _ { \\mathrm { v } } { ' } / { F _ { \\mathrm { m } } } ^ { \\prime }$ 一直保持在稳定的范围。高温下半夏较高的NPQ保证了高速的线性电子传递速率的进行(图5:C),而低温下 NPQ 的降低则加剧了PSII的损伤,进一步导致 Y(NO)上升，表现出明显的光损伤，PSII损伤后导致了线性电子传递速率 ETR(I)与 ETR(II)的降低。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "高光下叶绿体捕获过多的光能，会造成PSI的抑制(Szymahska et al.，2017)。短期内植物为了保护PSII不被损伤和减少ROS的产生，通过NPQ的增加来保护PSII和降低激发能的产生(Gururanietal.，2015；Ruban，2016)；长期处于高光环境时，植物通过启动CEF保护光系统免受强光的损伤（黄伟等，2012）。高温下，半夏通过CEF的增加促进跨类囊体膜质子梯度的建立（图5：K)，进一步加强了PSII处的NPQ，稳定了放氧复合体，从而保护PSI免受光抑制，使Y(NO)一直处于最低水平；膜质子梯度的建立可以激发ATP合成酶合成ATP，稳定了ATP和NADPH适宜的比例和保证了高温下TCA高速运转(Rumeauet al.，2007)。高温下高水平CEF还缓解PSI处电子受体的过度还原，减少超氧阴离子在PSI处的合成（黄伟等，2012），防止PSI受到光抑制。所以NPQ的增加和CEF的启动是半夏能够适应日变化的高温和高光、稳定PSII和PSI的主要原因。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "低温会造成Rubisco酶的抑制使TCA受阻（Khanal etal.，2017），对ATP 和NADPH还原的能力减弱加强类囊体内的水水循环和活性氧的产生(Sawickietal.,2016)。本研究发现，较低的热耗散和环式电子循环，导致了半夏PSII和PSI抑制和损伤。长时间低温会抑制 PSII中心D1蛋白的修复速率，进一步降低了PSI的活性(图2：F)(Wahid etal.，2007)，低温还可能降低了类囊体膜脂的流动性（Falcone etal.，2004），类囊体膜的流动性的降低影响膜内蛋白的构象，减弱 $C \\mathrm { y } \\mathrm { t } b _ { \\mathrm { 6 } } / f$ 复合物与质体醌和质体蓝素蛋白之间的相互作用，降低类囊体膜的电子传递能力可能是LT处理的半夏的电子传递能力的降低的主要原因。虽然高温会导致类囊体膜的流动性增加使质子外流，造成ATP合成与电子输运耦合的破坏(Schrader et al.,2004)，但短期的 $3 8 ^ { \\circ } \\mathrm { C }$ 高温并没有造成半夏光系统的损伤，且PSI周围环式电子流的增加补偿外流的质子，使 ATP 合成得以继续(Allakhverdievet al.，2008)，所以高光下适宜的高温保持半夏光反应系统的稳定性。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "高光会对半夏光反应造成抑制，而低温加剧这种光抑制的产生；长期的低温会导致半夏叶片光反应系统损伤，降低其对高光环境的适应。适当提高环境温度可以促进NPQ和CEF",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "的产生，加速了光反应的电子传递并维持了光反应系统的稳定，减少光抑制的产生，从而使半夏光反应系统获得适应高光环境的能力。生产中，应搭建遮阴棚降低半夏在高光下的光抑制，在半夏规模化栽培过程中可选用大棚设施栽培更好控制栽培环境光强和温度。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ALLEN DJ, ORT DR， 2001. Impacts of chilling temperatures on photosynthesis in warm-climate plants[J]. Trends Plant Sci, 6(1):36-42.   \nALLAKHVERDIEV SI, KRESLAVSKI VD, KLIMOV VV, et al. 2008. Heat stres: an overview of molecular responses in photosynthesis[J]. Photosynth Res, 98(1-3):541.   \nBAILEY S, MELIS A, MACKEY KRM, et al.， 2008. Alternative photosynthetic electron flow to oxygen in marine Synechococcus[J]. BBA - Bioenergetics,1777(3).269-276   \nBALLOTTARI M, DALL'OSTO L, MOROSINOTTO T, et al.， 2007. Contrasting behavior of higher plant photosystem I and II antenna systems during acclimation[J]. J Biol Chem, 282(12):8947-8958.   \nBUKHOV NG, WIESE C,NEIMANIS S, et al.，1999.Heat sensitivity of chloroplasts and leaves: leakage of protons from thylakoids and reversible activation of cyclic electron transport[J]. Photosynth Res, 59(1):81-93.   \nCRAFTS-BRANDNER SJ,LAW RD. 2000. Effect of heat stress on the inhibition and recovery of the ribulose-1, 5-bisphosphate carboxylase/oxygenase activation state[J]. Planta, 212(1):67-74.   \nCHEN HX, CHEN W, JIANG CD, et al.， 2008. Effects of temperature and light treatment on violaxan-thin de-epoxidase activity and xanthophyll cycle-dependent energy dissipation in wheat leaves [J].ChinJPlant Ecol(5):1015-1022.[陈华新，陈玮，姜闯道，等，2008．光温 交叉处理对小麦紫黄质脱环氧化酶活性及其热耗散能力的影响[J]．植物生态学报， (5):1015-1022.]   \nEBERHARD S,FINAZZI G, WOLLMAN F.， 2008. The dynamics of photosynthesis[J]. Annu Rev Gene, 42:463-515.   \nFALCONE DL， OGAS JP， SOMERVILLE CR.， 2004.Regulation of membrane fatty acid composition by temperature in mutants of Arabidopsis with alterations in membrane lipid composition[J]. BMC plant biology, 4(1):17.   \nFENG ZL，FENG YL，CAO KF， 2002.Effects of light intensity on photoinhition of photosynthesis and thermal dissipation in amomum villsum lour [J]. Chin J Plant Ecol,(01):77-82.[冯志立，冯玉龙，曹坤芳，2002.光强对砂仁叶片光合作用光抑制及热耗 散的影响[J]．植物生态学报，(1):77-82.]   \nGAO ZJ, LUO SH, ZHOU JX, et al.， 2019. Research progress of pinellia ternata [J]. Sichuan journal of traditional Chinese medicine,37(04):212-215.[高振杰，罗沙，周建雄，等，2019. 半夏的研究进展[J]．四川中医，37(04):212-215.]   \nGENTY B,BRIANTAIS J, BAKER NR.， 1989.The relationship between the quantum yield of photosynthetic electron transport and quenching of chlorophyll fluorescence[J]. BBA-General Subjects, 990(1):87-92.   \nGURURANI MA， VENKATESH J, TRAN LSP. 2015. Regulation of photosynthesis during abiotic stress-induced photoinhibition[J]. Molecular plant, 8(9):1304-1320.   \nHAHN A，VONCK J, MILLS DJ,et al. 2018. Structure,mechanism, and regulation of the chloroplast ATP synthase[J]. Science, 360(6389):t4318.   \nHU WH,HU XH, ZOU GH, et al.， 2010. Effects of Heat and Drought Stresses on the PSII Functions and Absorbed Light Allocation in Two Pepper (Capsicum annuum L.) Cultivars [J]. Acta Agric Univ Jiangxi,32(04):695-699.[胡文海，胡雪华，邹桂花，等，2010．高温干旱对2 个辣椒品种PSI功能与光能分配的影响[J]．江西农业大学学报，32(04):695-699.]   \nHUANG W, ZHANG BS, CAO KF, et al.， 2012. Physiological Role of Cyclic Electron Flow in Higher Plants[J].Plant Sci J,30(1):100-106.[黄伟，张石宝，曹坤芳，2012．高等植物环式 电子传递的生理作用[J]．植物科学学报，30(1):100-106.]   \nJIA JJ, LI T, LI M, et al.， 2009. The factors influencing the production of Pinellia ternata [J]. World Sci Technol,11(4)：562-565.[贾君君，李婷，李敏，等，2009．影响半夏产量因素分 析[J]．世界科学技术：中医药现代化，11(4)：562-565.]   \nJOLIOT P,JOHNSON GN.， 2011. Regulation of cyclic and linear electron flow in higher plants[J]. Proc Nat Acad Sci USA,108(32):13317-13322.   \nKHANAL N, BRAY G, GRISNICH A, et al.， 2017. Differential mechanisms of photosynthetic acclimation to light and low temperature in Arabidopsis and the extremophile Eutrema salsugineum[J]. Plants, 6(3):32.   \nKOOTEN O, SNEL JFH.，1990. The use of chlorophyll fluorescence nomenclature in plant stress physiology[J]. Photosynth Res, 25(3):430-433.   \nKRAMER DM, JOHNSON G, KIIRATS O, et al.， 2004. New Fluorescence Parameters for the Determination of Q A Redox State and Excitation Energy Fluxes[J]. Photosynth Res, 79(2):209-213.   \nKRAUSE GH, WEIS E.，1991. Chlorophyllfluorescence and photosynthesis: the basics[J]. Annu Rev Plant Biol, 42(1):313-349.   \nLI Z, WAKAO S,FISCHER BB, et al.， 2009. Sensing and responding to excess light[J]. Annu Rev Plant Biol, 60:239-260.   \nRUMEAU D, PELTIER G, COURNAC L. 2007. Chlororespiration and cyclic electron flow around PSI during photosynthesis and plant stress response[J]. Plant, cell & environment, 30(9):1041-1051.   \nMURATA N, TAKAHASHI S, NISHIYAMA Y, et al.， 2007. Photoinhibition of photosystem II under environmental stress[J]. BBA-Bioenergetics,1767(6):414-421.   \nNISHIYAMA Y, ALLAKHVERDIEV SI, MURATA N.， 2006. A new paradigm for the action of reactive oxygen species in the photoinhibition of photosystem II[J]. BBA-Bioenergetics, 1757(7):742-749.   \nNISHIYAMA Y，ALLAKHVERDIEV SI, MURATA N.， 2005. Inhibition of the repair of photosystem II by oxidative stress in cyanobacteria[J]. Photosynth Res,84(1-3):1-7.   \nPESSARAKLI M. 2016. Handbook of photosynthesis[M]. CRC press,   \nPOSPiSIL P. 2016. Production of reactive oxygen species by photosystem I as a response to light and temperature stress[J]. Frontiers in plant science,7(1):1950.   \nSCHRADER SM, WISE RR, WACHOLTZ WF, et al. 2004. Thylakoid membrane responses to moderately high leaf temperature in Pima cotton[J]. Plant， Cell & Environment, 27(6):725-735.   \nSHIKANAI T.， 2014. Central role of cyclic electron transport around photosystem I in the regulation of photosynthesis[J]. Curr Opin Biotech,26:25-30.   \nSZYMANSKA R, SLESAK I, ORZECHOWSKA A, et al. 2017. Physiological and biochemical responses to high light and temperature stress in plants[J]. Environ Exp Bot,139(1):165-177.   \nTAKAHASHI S, BADGER MR.2011. Photoprotection in plants: a new light on photosystem II damage[J]. Trends Plant Sci, 16(1):53-60.   \nTYYSTJARVI E.， 2013. Photoinhibition of photosystem II[M]/International review of cell and molecular biology.Elsevier, 243-303   \nWANG YB, XU PS, MA J, et al.， 2018. Effects of heat and drought stress on the photosynthetic characteristics and chlorophyll fluorescence parameters of Bletillastriata [J]. J.Henan Agric. Univ,52(02):199-205.[王莹博，许申平，马杰，等，2018．高温干旱胁迫对白及光合特性 及叶绿素荧光参数的影响[J]．河南农业大学学报，52(02):199-205.]   \nWAHID A, GELANI S,ASHRAF M,et al. 2007. Heat tolerance in plants: an overview[J]. Environ Exp Bot, 61(3):199-223.   \nXUE JP, WANG X, ZHANG YM, et al.， 2010. Changes of photosynthesis param eters and chlorophyll fluorescence around sprout tumble of Pinelia ternata under high temperature stress[J].C.J.CMM,35(17):2233-2235.[薛建平，王兴，张爱民，等，2010．高温胁迫下半夏 倒苗前后光合参数及叶绿素荧光特性的变化[J]．中国中药杂志，35(17):2233-2235.]   \nXUE JP, ZHANG AM, YANG J, CHANG L et al.， 2007. Change of endogenous hormone around sprout tumble of Pinellia Under high temperature stress[J].C.J.CMM.[薛建平，张爱民，杨建, 等，2007．高温胁迫下半夏倒苗前后内源激素的变化[J]．中国中药杂志，(23):2489-2491]   \nYAMANE Y,KASHINO Y,KOIKE H, et al.， 1998. Effects of high temperatures on the photosynthetic systems in spinach: oxygen-evolving activities,fluorescence characteristics and the denaturation process[J]. Photosynth Res, 57(1):51-59.   \nYORDANOV I, DILOVA S, PETKOVA R, et al.， 1986. Mechanisms of the temperature damage and acclimation of the photosynthetic apparatus[J]. Photobiochemistry and Photobiophysics.   \nZHANG LX， 2015. Effects of Different Light Intensity on the Growth of Pinellia ternate   \n(Thunb.)Breit[J].J.Tianjin Agric.Sci,21(04):110-112.[张丽霞，2015．不同光照强度对半夏生   \n长的影响[J]．天津农业科学，21(04):110-112]   \nZHENG YG，2008. The Effect Factors on the Vield of Pinellia [J].Mod Agric.Sci,(3):15.[郑永 敏，2008．半夏产量的影响因素[J]．现代农业科学，(3):15.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

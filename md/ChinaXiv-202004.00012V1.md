@@ -1,0 +1,139 @@
+# 茄子野生近缘种托鲁巴姆（Solanumstorvum）试管
+
+# 微扦插繁殖技术研究
+
+张映卿，钟川，刘斯晗，田茂燕，向婷颖，阳燕娟，于文进（广西大学农学院，南宁530004）
+
+摘要：嫁接栽培是茄果类蔬菜防治土传病害和提高产量的重要措施之一。茄子野生近缘种托鲁巴姆（Solanums torvum）因综合抗性强，成为了茄子和番茄嫁接的常用优良砧木。但是，由于托鲁巴姆种子的发芽率、发芽势和发芽指数较低，苗龄较长，限制了其在工厂化育苗中的大规模应用，因此迫切需要开发其他方法及相应技术体系提高托鲁巴姆的育苗效率，降低育苗成本。本研究探索并优化了试管内微扦插繁殖托鲁巴姆技术，以无菌播种获得初代无菌苗的茎段为外植体，通过在培养基中添加植物生长调节剂，对比不同浓度植物生长调节剂对托鲁巴姆微扦插繁殖过程中的影响。结果表明托鲁巴姆在不同培养基中，腋芽诱导、继代增殖和生根培养的效果存在显著差异，初代芽诱导的最佳培养基为 $\mathrm { M S + K T ~ 0 . 5 ~ \ m g { \cdot } L ^ { - 1 } { + } I B A }$ $0 . 1 \ \mathrm { \ m g { \cdot L ^ { - 1 } } }$ ，出芽率达 $90 \%$ ；继代扦插最佳培养基为 $\mathrm { M S + I B A }$ $0 . 4 ~ \mathrm { m g ^ { . } L ^ { - 1 } }$ ，培养30d的增殖系数达6.11，植株长势健壮；最佳生根培养基为 $1 / 2 \mathrm { M S } \mathrm { + } \mathrm { I B A } \ 0 . 2 \ \mathrm { \ m g } { \cdot } \mathrm { L } ^ { - 1 }$ ，生根培养 $3 0 \mathrm { ~ d ~ }$ ，单株一级根数4.56条，最长根长 $1 2 5 . 8 0 \ \mathrm { m m }$ 、根粗 $0 . 5 0 \ \mathrm { m m }$ ，根系发达。采用试管内微扦插技术繁殖托鲁巴姆种苗，操作简单，增殖系数较高，可满足快速繁育种苗的要求，本研究结果为托鲁巴姆的工厂化规模育苗提供了新途径。
+
+关键词：砧木，托鲁巴姆，无菌播种，微扦插
+
+# Rapid propagation technology for eggplant rootstock
+
+# (Solanums torvum) by micro-cuttage
+
+ZHANG Yingqing， ZHONG Chuan，LIU Sihan， TIAN Maoyan， XIANG Tingying,YANG Yanjuan， YU Wenjin\*(College of Agriculture， Guangxi University， Nanning 530o04， China)
+
+Abstract: Grafting culture is an important measure to prevent soil-borne diseases and increase yield of solanaceous fruit vegetable. Solanum torvum, a wild specie of eggplant, has become a common good rootstock of eggplant and tomato because of its strong comprehensive resistance. However,the large-scale application of the seeds in industrial seedling is limited due to the lower germination rate， germination potential and germination index， and the longer seedling age.Therefore，it is urgent to develop other methods and corresponding technical system to improve the seedling efficiency of $S$ ，torvum and reduce the seedling cost.In order to optimize the micro-cuttage technique for S. torvum,the stem segment of the first sterile seedling was used as the explants,and different concentrations of plant growth regulators were added to the culture medium to compare the efects of different concentrations of plant growth regulators on the micro-cuttage propagation of $S .$ torvum.The results showed that there were significant differences in the efect of axillary bud induction, subculture and rooting culture in different medium. The optimum medium for primary bud induction was $\mathrm { M S + K T \ 0 . 5 \ m g { \cdot } L ^ { - 1 } + \ I B A \ 0 . 1 \ m g { \cdot } L ^ { - 1 } } ,$ ,and the budding rate reached $90 \%$ . The optimal concentration of plant growth regulators for callus induction and the shoot regeneration were determined with $\mathrm { M S + I B A ~ 0 . 4 ~ m g { \cdot } L ^ { - 1 } }$ ，in which the average shoot number was reached up to 6.11 per original explant, and it could be kept at the same level in the subsequent culture with the same medium. The root culture of $1 / 2 \mathrm { M S } { + } \mathrm { I B A } 0 { . } 2 \mathrm { m g } { \cdot } \mathrm { L } ^ { - 1 }$ was the best, with the number of primary roots 4.56,root length $1 2 5 . 8 0 ~ \mathrm { m m }$ ,root diameter 0.50 mm,and numerous fibrous roots. The adoption of micro-cuttings in vitro can realize rapid and mass propagation of S. torvum sedlings. The use of micro cuttings in the test tube can increase the proliferation coeficient and achieve rapid and large-scale reproduction of S. torvum seedlings.
+
+Key word: root stock, Solanums torvum，aseptic sowing，micro-cuttage
+
+托鲁巴姆(Solanum torvum Swartz)又称为“水茄”，是茄子栽培种(Solanum melongena L.)的近缘野生种，为多年生灌木，原产美洲，我国也有广泛分布（邹蓉等，2009；苏婉玉等，2017）。托鲁巴姆具有高抗青枯病、黄萎病、枯萎病、线虫病等土传病害和耐高温、耐旱、耐寒、耐湿、耐盐等特点，综合抗性强，成为了茄子和番茄的常用优良砧木。用托鲁巴姆嫁接茄子和番茄，不仅具有良好的嫁接亲和力（白小军等，2014；王岳霞等，2018；H.A.Garcia-Mendivilet.al，2019），还能保持接穗果实品质和显著提高产量（蔡鹏等，2015;陈阳等，2015）。
+
+不同来源的托鲁巴姆种子发芽势和发芽率差异显著（丁小雪等，2019）。在嫁接育苗生产上，托鲁巴姆由于发芽率、发芽势和发芽指数低，苗龄长，限制了其在工厂化育苗上的规模应用（潜宗伟，2009）。针对托鲁巴姆种子发芽率低的问题，前人进行了促进种子萌发的相关研究，虽然使用赤霉素可促进种子提早萌发，但出芽整齐度差（王桂荣等，2017；R.H.G.Ranil et al.，2015）。房志坚等（2011）比较了托鲁巴姆的种子繁殖、扦插繁殖、分蘖繁殖的效果，发现嫩枝扦插和分蘖繁殖的成活率较高，但无法满足工厂化快速育苗的需求。李栋等（2019）以托鲁巴姆幼苗下胚轴为外植体诱导愈伤组织，虽然提高了增殖系数，但诱导过程易出现玻璃化，影响了成苗率。张红（2011）以托鲁巴姆带芽茎段为外植体，进行组培快繁研究，新芽诱导率高，但未筛选出最佳的植物生长调剂浓度。综上所述，目前尚缺少有效的方法提高托鲁巴姆的育苗效率。
+
+本实验采用试管内播种获得托鲁巴姆无菌苗，再通过试管内微扦插技术快速繁殖种苗，研究了不同植物生长调节剂浓度配比对托鲁巴姆试管微扦插繁殖的影响，建立了托鲁巴姆快速繁育体系，可实现工厂化快速育苗。
+
+# 1材料与方法
+
+# 1.1试验材料
+
+以本课题组收集保存的托鲁巴姆（编号 S07，来源广西的野生种，抗病抗逆性强），经多代自交的纯合自交系为试验材料。
+
+# 1.2试验方法
+
+# 1.2.1 无菌苗体系建立
+
+将上述托鲁巴姆的种子用 $1 \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 赤霉素溶液浸种 $3 \mathrm { ~ h ~ }$ ，在超净工作台上用无菌水冲洗3遍后用 $70 \%$ 乙醇浸 $1 5 \mathrm { ~ s ~ }$ ， $0 . 1 \% \mathrm { H g C l } _ { 2 }$ 消毒 $1 0 \mathrm { m i n }$ ，再用无菌水冲洗5遍，播种到MS培养基表面上，置于人工气候箱中促进种子萌发，幼苗生长到3-4片真叶时，获得初代无菌苗。
+
+# 1.2.2 腋芽诱导培养
+
+以初代无菌苗的茎段为外植体，在超净工作台中用灭菌刀片将无菌苗的每一腋芽在节间处切成 $0 . 5 \mathrm { c m }$ 茎段，采用微扦插的方式将茎段扦插到腋芽诱导培养基中。以MS 培养基为
+
+基本培养基，分别添加植物生长调节剂KT（0.0，0.5，1.0， $2 . 0 \ \mathrm { m g \cdot L ^ { - 1 } }$ ）和IBA（0.0，0.1，0.2， $0 . 4 \mathrm { m g } \cdot \mathrm { L } ^ { - 1 } .$ ），两两组合成16个处理。每个处理扦插20个茎段，重复3次，培养至腋芽长成5-6片真叶的幼苗，统计出芽率。
+
+出芽率 $( \% ) =$ 出芽茎段数/扦插茎段数 $\times 1 0 0$
+
+# 1.2.3 继代增殖培养
+
+在超净工作台中，将上步诱导出的幼苗腋芽切成 $0 . 5 \mathrm { c m }$ 的单芽茎段，扦插到继代增殖培养基中进行培养。继代培养基同上步16个处理，每个处理扦插20个茎段，重复3次。培养 30d 后观察幼苗长势，测量株高、茎粗、愈伤组织的长宽和鲜重，调查增殖系数。
+
+增殖系数 $\mathbf { \bar { \Psi } } = \mathbf { \Psi }$ 继代茎段新生腋芽节数/扦插茎段数
+
+# 1.2.4 生根培养
+
+取上步继代培养的幼苗切下进行生根培养。生根培养基以1/2MS 为基本培养基，添加IBA（0.0，0.1，0.2， $0 . 4 ~ \mathrm { m g \cdot L ^ { - 1 } }$ ），共4个处理。每个处理扦插20株幼苗，重复3次，30d后统计生根率及生根苗的一级根数，测量最长根的长度和直径（根粗）。
+
+# 1.2.5培养条件
+
+无菌播种、腋芽诱导、继代增殖、生根培养的条件相同，均在人工气候箱中进行培养，条件设置为每天温度 $3 0 \ \mathrm { ~ \textdegree ~ } 1 6 \mathrm { h }$ ， $2 0 \ { ^ { \circ } \mathrm { C } } 8 \mathrm { h }$ ，相对湿度 $50 \% { \sim } 6 0 \%$ ， $3 0 \mathrm { ~ \textdegree C }$ 时光照时长16h，光照强度 $2 0 0 0 { \sim } 3 0 0 0 1 \mathrm { x }$ 。
+
+# 2结果与分析
+
+2.1不同浓度植物生长调节剂浓度配比对托鲁巴姆初代腋芽诱导的影响
+
+在MS 培养基中加入不同浓度的KT和 IBA均能使托鲁巴姆无菌苗茎段诱导出新芽，但诱导效果差异显著（表1）。同一KT浓度，随着IBA浓度增加，出芽率呈现先上升后下降的趋势；同一IBA浓度，随着IBA浓度增加，出芽率也呈现先上升后下降的趋势。两种植物生长调节剂配合使用，其中K $\mathrm { { . } \Gamma 0 . 5 \ m g { \cdot } L ^ { - 1 } + I B A \ 0 . 1 \ m g { \cdot } L ^ { - 1 } }$ 的效果诱导最佳(6号培养基),出芽率达到 $90 \%$ ，其次是KT $0 . 5 \mathrm { \ m g { \cdot } L ^ { - 1 } } \mathrm { + } \mathrm { I B A \ } 0 . 2 \mathrm { \ m g { \cdot } L ^ { - 1 } }$ （7号培养基），出芽率为 $80 \%$ KT $1 . 0 \mathrm { \ m g { \cdot } L ^ { - 1 } \mathrm { + } I B A \ 0 . 4 \mathrm { \ m g { \cdot } L ^ { - 1 } } }$ 的出芽率最低（12号培养基），仅为 $40 \%$ 。结果表明，在MS 培养基中添加适宜浓度的植物生长调节剂KT和 IBA，能有效诱导托鲁巴姆腋芽萌发，提高出芽率，而高浓度的植物生长调节剂则抑制腋芽萌发。
+
+表1不同浓度KT和IBA配比对诱导托鲁巴姆腋芽出芽率的影响  
+Table 1Effects of different concentrations of KT and IBA on the germination rate of Solanums torvum axillary bud   
+
+<html><body><table><tr><td>培养基编号 Medium number</td><td>KT (mg:L-1) +IBA (mg·L-1)</td><td>出芽率 Bud ratio (%)</td></tr><tr><td>1</td><td>0.0+0.0</td><td>57 ±0.05bcd</td></tr><tr><td>2</td><td>0.0+0.1</td><td>40±0.14d</td></tr><tr><td>3</td><td>0.0+0.2</td><td>63 ±0.12bcd</td></tr><tr><td>4</td><td>0.0+0.4</td><td>63 ±0.12bcd</td></tr><tr><td>5</td><td>0.5+0.0</td><td>60±0.00bcd</td></tr><tr><td>6</td><td>0.5+0.1</td><td>90±0.08a</td></tr><tr><td>7</td><td>0.5+0.2</td><td>80±0.16ab</td></tr><tr><td>8</td><td>0.5+0.4</td><td>60 ±0.08bcd</td></tr><tr><td>9</td><td>1.0+0.0</td><td>43±0.05d</td></tr><tr><td>10</td><td>1.0+0.1</td><td>70±0.08abc</td></tr><tr><td>11</td><td>1.0+0.2</td><td>73 ±0.09abc</td></tr><tr><td>12</td><td>1.0+0.4</td><td>40±0.08d</td></tr><tr><td>13</td><td></td><td></td></tr><tr><td></td><td>2.0+0.0</td><td>53 ±0.05cd</td></tr></table></body></html>
+
+<html><body><table><tr><td>14</td><td>2.0+0.1</td><td>57±0.17bcd</td></tr><tr><td>15</td><td>2.0+0.2</td><td>50±0.24cd</td></tr><tr><td>16</td><td>2.0+0.4</td><td>50±0.28cd</td></tr></table></body></html>
+
+注：同列数据后不同小写字母表示在0.05 水平差异显著。下同。 Note:Different small lettrs in thesamecolumn represent significant difference at the 0.05 level,The same below.
+
+1-16表示培养基编号。下同。   
+1-16 represents the processing number.The same below.
+
+![](images/380a18f81eef842d2d9cda751e161f27026a6a5f1fecde9ca5b649ba18bcddc0.jpg)  
+图1不同浓度KT和IBA配比对诱导托鲁巴姆腋芽出芽率的影响Fig.1Effects of different concentrations of KT and IBA on the germination rate ofSolanumstorvum axillary bud
+
+2.2不同浓度植物生长调节剂配比对托鲁巴姆茎段继代增殖的影响
+
+将托鲁巴姆初代单芽茎段扦插到继代增殖培养基中，30d后调查生长情况（表2）。MS培养基中未添加KT时（1-4号培养基），茎段未见分化出愈伤组织，且随着IBA浓度增加，增殖系数提高，其中4号培养基（IBA $0 . 4 \ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 } )$ 的继代增殖效果最好，增殖系数达6.11,株高 $5 9 . 1 3 ~ \mathrm { \ m m }$ ，显著高于对照组（1号培养基），茎粗最大（ $\cdot 1 . 6 9 \ \mathrm { m m }$ ），植株生长健壮（图1，编号4）。当MS培养基中添加KT时，随着KT浓度增加，平均增殖系数降低，幼苗的平均株高和茎粗比未添加KT的小，且茎基部均不同程度分化出愈伤组织（图1，编号5-16），随着KT浓度增加，愈伤组织的长度、宽度和重量的平均值增加。以上结果说明，培养基中添加KT时，导致茎基部分化愈伤组织，抑制芽诱导，不利继代增殖，且影响幼苗株高和茎粗的生长。继代增殖最佳培养基是 $\mathrm { M S + I B A ~ 0 . 4 ~ \ m g { \cdot } L ^ { - 1 } } ,$ 0
+
+# 表2不同浓度KT和IBA配比对托鲁巴姆茎段继代增殖的影响
+
+Table 2 Effects of different concentrations of KT and IBA on the secondary proliferation of Solanums torvum stem segment   
+
+<html><body><table><tr><td colspan="8">茎基部愈伤组织</td></tr><tr><td>培养基编</td><td>KT (mg:L-1)</td><td rowspan="2">增殖系数 Growth modulus</td><td colspan="2">幼苗 Seedlings</td><td colspan="3">Stem base callus</td></tr><tr><td>号 Medium number</td><td>+IBA (mg·L-1)</td><td>株高 Height</td><td>茎粗 Stem diameter</td><td>长度 length （mm）</td><td>宽度 width</td><td>重量 weight</td></tr><tr><td>1</td><td>0.0+0.0</td><td>4.44bcd</td><td>（mm） 42.33bcd</td><td>（mm） 1.59ab</td><td></td><td>（mm)</td><td>(g)</td></tr><tr><td>2</td><td>0.0+0.1</td><td>4.78abcd</td><td>45.91bcd</td><td>1.58ab</td><td></td><td>-</td><td>-</td></tr><tr><td>3</td><td>0.0+0.2</td><td>5.00abcd</td><td>47.07bcd</td><td>1.65ab</td><td>-</td><td></td><td>，</td></tr><tr><td>4</td><td>0.0+0.4</td><td>6.11a</td><td>59.13a</td><td>1.69a</td><td></td><td></td><td>-</td></tr><tr><td></td><td>平均值Average</td><td>5.08</td><td>48.61</td><td>1.63</td><td>-</td><td></td><td>-</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5 6</td><td>0.5+0.0</td><td>4.56bcd 5.22abc</td><td>36.06bcde 56.08abc</td><td>1.50ab</td><td>8.70bcd</td><td>7.24bcd</td><td>0.27b</td></tr><tr><td>7</td><td>0.5+0.1 0.5+0.2</td><td>3.78cd</td><td>27.31de</td><td>1.25ab 1.60ab</td><td>8.23cd 6.80d</td><td>6.79bcd</td><td>0.30ab</td></tr><tr><td>8</td><td>0.5+0.4</td><td>4.89abcd</td><td>29.25de</td><td>1.49ab</td><td>8.55bcd</td><td>5.69d 6.74cd</td><td>0.33ab</td></tr><tr><td></td><td>平均值 Average</td><td>4.61</td><td>37.18</td><td>1.46</td><td>8.07</td><td>6.62</td><td>0.31ab 0.30</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>9</td><td>1.0+0.0</td><td>3.78cd</td><td>15.50e</td><td>1.23b</td><td>10.43ab</td><td>8.44abc</td><td>0.50ab</td></tr><tr><td>10</td><td>1.0+0.1</td><td>4.44bcd</td><td>35.35bcde</td><td>1.55ab</td><td>9.88abc</td><td>8.54ab</td><td>0.38ab</td></tr><tr><td>11</td><td>1.0+0.2</td><td>5.67ab</td><td>31.31cde</td><td>1.42ab</td><td>9.20abc</td><td>8.04abc</td><td>0.39ab</td></tr><tr><td>12</td><td>1.0+0.4</td><td>4.11cd</td><td>22.09de</td><td>1.43ab</td><td>9.24abc</td><td>8.13abc</td><td>0.40ab</td></tr><tr><td></td><td>平均值Average</td><td>4.50</td><td>26.06</td><td>1.41</td><td>9.69</td><td>8.29</td><td>0.42</td></tr><tr><td>13</td><td>2.0+0.0</td><td>4.67abcd</td><td>39.50bcde</td><td>1.39ab</td><td>10.60ab</td><td>8.38abc</td><td>0.44ab</td></tr><tr><td>14</td><td>2.0+0.1</td><td>3.56d</td><td>22.49de</td><td>1.32ab</td><td>9.67abc</td><td>7.88abc</td><td>0.41ab</td></tr><tr><td>15</td><td>2.0+0.2</td><td>3.89cd</td><td>23.37de</td><td>1.47ab</td><td>11.18a</td><td>9.41a</td><td>0.51a</td></tr><tr><td>16</td><td>2.0+0.4</td><td>3.67cd</td><td>30.91cde</td><td>1.29ab</td><td>10.24abc</td><td>7.99abc</td><td>0.50ab</td></tr><tr><td></td><td>平均值Average</td><td>3.95</td><td>29.07</td><td>1.37</td><td>10.42</td><td>8.42</td><td>0.47</td></tr><tr><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+注：“-”表示未分化出愈伤组织。Note : “-"indicates no callus.
+
+![](images/277439badde65d426ce64d5575c779d97eb05cd8c61ce2de5931634b8c807065.jpg)  
+图2不同浓度KT和IBA配比对托鲁巴姆茎段继代增殖的影响
+
+2.3不同浓度植物生长调节剂配比对托鲁巴姆单芽茎段生根的影响
+
+将继代增殖苗扦插到添加不同浓度 IBA的1/2MS 培养基中进行生根培养，30d后统计根系生长状况（表3），结果表明四种培养基的生根率均达到 $100 \%$ 。培养基中添加IBA可提高一级根数，随着IBA浓度的提高，生根数呈现先增加后降低的趋势，其中添加 IBA0.2$\mathrm { { m g } \cdot L ^ { - 1 } }$ （M3 培养基）的一级根数达到4.56条，显著高于未添加IBA的对照组（M1培养基)，最长根的根长 $1 2 5 . 8 0 \mathrm { m m }$ ，根粗 $0 . 5 0 \mathrm { m m }$ ，且须根较多（图2）说明IBA能增加托鲁巴姆试管微扦插发根数量。
+
+![](images/8872ece6e1bba6c2f102a49922a2c05674dd69bff570841c83830c697d859d0d.jpg)  
+Fig.2Effects of different concentrations of KT and IBA on the secondary proliferation of Solanumstorvum stem segment
+
+表3不同浓度IBA对托鲁巴姆继代苗生根的影响  
+Table 3Effects of increasing IBA concentration on rooting of Solanums torvum   
+
+<html><body><table><tr><td>培养基编号 Medium number</td><td>IBA (mg·L-1)</td><td>生根率 Rooting rate (%)</td><td>一级根数（条/株） Rootnumber (Strips/Plant）</td><td>最长根长 Root length （mm）</td><td>最长根粗 Root width （mm）</td></tr><tr><td>M1</td><td>0.0</td><td>100</td><td>3.22±0.42b</td><td>111.41±17.88a</td><td>0.33±0.03a</td></tr><tr><td>M2</td><td>0.1</td><td>100</td><td>3.78±0.16ab</td><td>120.73±30.50a</td><td>0.40±0.12a</td></tr><tr><td>M3</td><td>0.2</td><td>100</td><td>4.56±0.42a</td><td>125.80±14.99a</td><td>0.50±0.15a</td></tr><tr><td>M4</td><td>0.4</td><td>100</td><td>4.33±0.72ab</td><td>114.57±8.80a</td><td>0.48±0.01a</td></tr></table></body></html>
+
+# 3.讨论与结论
+
+植物组织培养的培养基中，细胞分裂素和生长素的比例对器官再生具有调控作用，适宜浓度的细胞分裂素可以有效的诱导芽的萌发与增殖，而适宜浓度的生长素可以促进茎的伸长，两者不同浓度配比，可以诱导苗增殖、促进幼苗生长、诱导生根等。陈传红等（2019）在植物生长调节剂对樱花芽萌发影响时发现，培养基中添加细胞分裂素类（BA或KT）0.5${ \sim } 2 . 0 \ \mathrm { m g { \cdot } L ^ { - 1 } }$ 和生长素类（IBA或NAA） $0 . 0 1 { \sim } 0 . 2 \ \mathrm { m g { \cdot } L ^ { - 1 } }$ ，且细胞分裂素/生长素的比值在1$0 { \sim } 2 0$ 时适合于大多数樱花的芽萌发。龚建英等（2019）研究泼墨石斛不定芽诱导，发现MS培养基中添加 $6 { \mathrm { - } } { \mathrm { B A } } 3 . 0 0 \ { \mathrm { ~ m g } } { \mathrm { \cdot } } { \mathrm { L } } ^ { - 1 }$ 和 $\mathrm { N A A 0 . 5 0 \ m g { \cdot } L ^ { - 1 } }$ ，芽诱导率为 $73 . 3 \%$ 。本研究结果表明，将托鲁巴姆无菌苗茎段扦插到MS基本培养基中，出芽率仅 $56 \%$ ，在培养基中添加KT0.5$\mathrm { { m g } \cdot L ^ { - 1 } }$ 和IBA $0 . 1 \ \mathrm { \ m g { \cdot L ^ { - 1 } } }$ 时，出芽率达 $90 \%$ ，说明合适浓度配比的植物生长调剂可提高托鲁巴姆腋芽诱导率。
+
+为了实现幼苗快速繁育，需要不断进行继代培养，增殖系数是继代增殖的关键指标。李栋等（2019）以托鲁巴姆下胚轴为外植体，通过诱导愈伤组织，再诱导分化不定芽进行组培快繁，增殖系数虽然为6.62，但用时较长，且存在性状变异的风险。白玉娥等（2017）研究了荷兰菊不同外植体的组培效果，以腋芽为外植体，生长速度快，繁殖系数高，遗传稳定性强。本研究以托鲁巴姆的单芽茎段为外植体，直接诱导腋芽萌发，获得遗传稳定的大量继代苗，增殖系数达到6.11，可在较短的时间内实现大量繁殖种苗。添加不同生长素和细胞分裂素种类和配比，将调节和影响细胞的生长分化方向（李征等，2018）。托鲁巴姆组织培养过程中，很容易形成愈伤组织，不定芽的诱导较难（张红，2011）。本研究发现，MS 培养基中添加KT时，茎基部易分化愈伤组织，抑制芽萌发，不利继代增殖，影响幼苗株高和茎粗的生长。IBA会刺激形成层细胞活性，产生大量IAA，刺激大量根原基发生，有利于侧根的诱导（杨宏艳等，2019）。本研究继代增殖过程中出现生根情况，是因为单独使用 IBA促进了茎段分化出不定根，而KT和IBA配合使用，则促进分化愈伤组织，抑制分化不定根。
+
+生长素可使无根植株快速生根，促进叶片、茎等外植体再生分化成植株(赵春莉等,2012;张春梅等，2018）。范适等（2005）研究了茄子叶片离体繁殖，发现IAA浓度在 $0 { \sim } 0 . 5 \ \mathrm { m g { \cdot } L ^ { - 1 } }$ 范围内均能诱导出不定根，随着浓度增加，发根数呈现先增长后降低的趋势。本研究表明IBA浓度在 $0 { \sim } 0 . 4 ~ \mathrm { m g { \cdot } L ^ { - 1 } }$ 范围内，托鲁巴姆的生根率均达到 $100 \%$ ，浓度为 $0 . 2 \mathrm { m g \cdot L ^ { - 1 } }$ 的一级根数最多，生根效果最好。
+
+本研究结果，托鲁巴姆试管内微扦插繁殖的初代芽诱导最佳培养基为 $\mathrm { M S } { + } \mathrm { K T } \ 0 { . } 5$ $\mathrm { m g { \cdot } L ^ { - 1 } { + } I B A 0 . 1 \ m g { \cdot } L ^ { - 1 } }$ ，出芽率达到 $90 \%$ ；继代扦插增殖最佳培养基为 $\mathrm { M S } { + } \mathrm { I B A } 0 { . } 2 \ \mathrm { m g } { \cdot } \mathrm { L } ^ { - 1 }$ 增殖系数6.11，继代苗长势健壮；最佳生根培养基为 $1 / 2 \mathrm { M S } { + } \mathrm { I B A } 0 . 2 \mathrm { m g } { \cdot } \mathrm { L } ^ { - 1 }$ ，一级根数4.56条，最长根长 $1 2 5 . 8 0 \mathrm { m m }$ ，根粗 $0 . 5 0 \mathrm { m m }$ ，根系较发达。采用试管内微扦插技术繁殖托鲁巴姆种苗，操作简单，增殖系数较高，可满足快速繁育种苗的要求，研究结果为托鲁巴姆工厂化规模育苗提供了新途径。
+
+# 参考文献：
+
+BAI YE,PENG P,DUAN G Z,et al.,2017.Tissue culture and regenerated of the different explants of Asternovi-belgi [J].Mol Plant Breed,15(5):1887-1893．[白玉娥，彭鹏，段国珍，等，2017.荷兰菊不同外植体组织培养快繁体系[J].分子植物育种，15(5)：1887-1893.]  
+BAI XJ,FENG HP,QUJS,etal.,2014.Effectsof different rootstock and scion on graft compatibility and yieldofeggplant[J].Ningxia Agric For Sci Technol,55(8):1-3.[白小军，冯海萍，曲继松，等，2014.不同砧木与接穗对茄子嫁接亲和性及产量的影响[J].宁夏农林科技，55(8)：1-3.]  
+CHENG CH, GU XB.2019. Advances in studies on the effects of plant growth regulators on tissue culture ofcherry blossoms[J].Mor Hortic,42(23):14-15+18.[陈传红，古晓斌，2019.植物生长调节剂在樱花组织培养中的影响研究进展[J].现代园艺， $4 2 \left( 2 3 \right) : 1 4 - 1 5 + 1 8 . \stackrel { - } { \phantom { - } }$ 一  
+CAI P,LI YJ,LIUDC,et al.,2015. Efect of rootstock Solanum torvumon growth performance, yield and qualityof eggplant in summer and autumn [J].SW Chin JAgric Sci,28(03): 1201-1204.[蔡鹏，李跃建，刘独臣,等，2015.砧木托鲁巴姆嫁接对夏秋茄子生长特性、产量与品质的影响［J].西南农业学报，28(03) :1201-1204.]  
+CHEN Y,LINYS, ZHOU XZ, et al.,2015. Efect of grafting rootstocks on yield, qualityand disease resistance oftomatoes[J].Acta Agric Fujian,30(05):483-488.[陈阳，林永胜，周先治，等，2015.不同砧木嫁接对番茄产量、品质及抗病性影响的研究[J].福建农业学报，30(05):483-488.]  
+DING XX, WANG BL, HAI R, et al., 2019. Studies on germination characteristics of Solanum torvum seeds fromvarious sources[J].Acta Agric Zhejiang,31(03): 420-427.[丁小雪，汪炳良，海睿，等，2019.不同来源托鲁巴姆种子的发芽特性研究［J].浙江农业学报，31(03):420-427.]  
+FAN S,LIAN Y,LIU ZM, et al.，2O05. Establishment of in vitro cultureand plantlet regeneration system fortetraploid eggplant leaves [J].Chin Veg,(09):19-20．[范适，连勇，刘志敏，等，2005.四倍体茄子叶片离体培养和植株再生体系的建立[J].中国蔬菜，(09):19-20.]  
+FANG ZJ, TIAN SY, YAO GJ,2011. Study on breeding method of Solanum torvum [J]. Research Practice ChinMed,25(3):12-14.[房志坚，田素英，姚广杰，2011.水茄的繁殖方法研究［J].现代中药研究与实践，25(3) :12-14.]  
+GONG JY, WANG HX, CHEN BL, et al., 2019. Establishment of tissue culture and rapid propagation system ofDendrobium enobi purple‘Splashi'[J].JSAgric,50(1):125-130.[龚建英，王华新，陈宝玲，等，2019.泼墨石斛高位芽组培快繁体系的建立［J].南方农业学报，50(1):125-130.]  
+H. A. Garcia - Mendivil, N. Escudero,F.J. Soribas,2019. Host suitability of Solanum torvum cultivars toMeloidogyne incognita and M. javanica population dynamics[J]. Plant Pathology, 68(6).  
+LI D, SHUNLL,LUO XM, etal.,2019. Establishment of tissue culture technology system of Solanum torvum [J].JShanxi Agric Univ（Nat SciEd）,39(2):69-74.[李栋，孙亮亮，罗晓梅，等，2019.水茄组织培养技术体系的建立[J].山西农业大学学报(自然科学版)，39(2):69-74.]  
+LI Z, GAO QY, ZHANG BX, et al., 2018. Efect of growth regulator on bud differentiation of callus of VacciniumuliginosumL.[J].NHortic,(22):29-36.[李征，高庆玉，张丙秀，等，2018.生长调节剂对笃斯越橘愈伤组织芽分化的影响[J].北方园艺，(22):29-36.]  
+QIAN ZW, 2009. Study on seed germination promotion technology in eggplant Solanum torvum rootstock [D].NanjingAgric Univ.[潜宗伟，2009．砧用茄子托鲁巴姆（Solanum torvum)种子促萌技术的研究[D]．南京农业大学.]  
+R. H. G. RANIL, H. M. L. NIRAN, M. PLAZAS, et al.， 2015. Improving seed germination of the eggplantrootstock Solanum torvum by testing multiple factors using an orthogonal array design[J]. Sci Hortic ,193.  
+SU WY, WANG YF, CAO SY,et al., 2017. Development and utilization of a wild resource Solanum torvum [J]. JChangjiang Veg,2017(22):32-34.[苏婉玉，王艳芳，曹绍玉，等，2017.野生茄属资源——水茄的开发利用[J].长江蔬菜，2017(22):32-34.]  
+WANG GR, WO LF, MAO WL,et al.,2017. Effects of gibberellin on germination of torubam seeds in eggplantrootstock[J].J Zhejiang Agric Sci,58(10):1770-1771.[王桂荣，沃林峰，毛文龙，等，2017.赤霉素对茄子砧木托鲁巴姆种子发芽的影响[J].浙江农业科学，58(10):1770-1771.]YANG HY,JING Y,TING YJ,et al.,2019.Response of root morphology to different auxin in tissue cultureseedling of Petrocosmea grandifolia[J/ OL].JW Chin For Sci, (6):105-110+119.[杨宏艳,金英,庭禹洁，等，2019.大叶石蝴蝶组培苗根系形态对不同生长素的响应[J/OL].西部林业科学，2019(6) :105-110+119.]  
+ZHANG H，2011. Study ontisue culture and rapid propagation simplified technique of grafting stock of eggplant‘Solanum torvum'[J].NHortic(17):146-148.[张红,2011.茄子砧木“托鲁巴姆”组培快繁简化技术［J].北方园艺，（17) :146-148.]  
+ZHAOFL,ZHANGF,GUDF,et al.,2012.Studyon the rooting oftissue culture seedlings from two new varietiesof Iridaceae[J].JAnhui Agric Sci,40(27):13251-13253.[赵春莉，张芳，顾德峰，等，2012.两个鸢尾新品种组培苗生根培养的研究[J].安徽农业科学，40(27)：13251-13253.]  
+ZHOUR,WEI CQ,TANG SC,et al.,2009. Alien species of Solanaceae in Guangxi[J].Subtrop Plant Sci ,38(2):60-63.［邹蓉，韦春强，唐赛春，等，2009.广西茄科外来植物研究[J].亚热带植物科学，38(2):60-63.]

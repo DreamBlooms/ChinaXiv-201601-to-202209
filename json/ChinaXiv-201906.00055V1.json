@@ -1,0 +1,539 @@
+[
+    {
+        "type": "text",
+        "text": "环境规制、FDI与能源消费碳排放峰值预测一以西北五省为例①",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "董棒棒，李莉¹，唐洪松²，苏洋³(1新疆农业大学管理学院,新疆乌鲁木齐830052；2 内江师范学院经济与管理学院,四川内江 641100;3新疆农业大学经济与贸易学院,新疆乌鲁木齐830052)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于 STIRPAT模型,运用情景分析法对西北地区2017—2030年能源消费碳排放进行预测，在高、中、低三种环境规制强度下设定出9种发展模式，以分析环境规制与 $F D I$ 对能源碳排放峰值的影响。研究表明：（1）在初始发展情境下，西北地区2030年碳排放总量为 $7 0 ~ 2 7 3 . 0 7 \\times 1 0 ^ { 4 } ~ \\mathrm { t }$ ，无法实现碳排放达峰目标。（2）低环境规制背景下，高、高中、高低三种发展模式2030年能源消费碳排放额为 $7 3 ~ 5 5 0 . ~ 5 3 \\times 1 0 ^ { 4 } ~ \\mathrm { t } \\cdot 6 4 ~ 8 8 1 . ~ 9 8 \\times 1 0 ^ { 4 } ~ \\mathrm { t } \\cdot 5 6 ~ 2 9 6 . ~ 9 6 \\times 1 0 ^ { 4 } ~ \\mathrm { t } _ { \\circ }$ （3）中、高环境规制下，中低、低两种发展模式分别于2025年、2020年达到碳排放峰值，峰值额度为 $5 3 ~ 4 4 7 . 1 5 \\times 1 0 ^ { 4 } \\mathrm { ~ t ~ } . 5 1 ~ 0 2 2 . 6 8 \\times 1 0 ^ { 4 }$ t。能源碳排放强度为 $0 . 8 6 \\mathrm { ~ t ~ } \\cdot \\mathrm { ~ } ( 1 0 ^ { 4 }$ 元） $^ { - 1 } \\ 、 0 . 6 8 \\mathrm { ~ t ~ } \\cdot \\left( 1 0 ^ { 4 } \\mathrm { ~ \\ �~ } \\right) ^ { - 1 }$ ，相比较2005年碳排放强度下降$4 8 . 3 8 \\%$ （204号 ${ , 6 0 . 1 4 \\% }$ 。9种发展模式中，仅中低、低两种发展模式能够如期实现碳排放峰值任务，表明严格的环境规制政策能够有效减缓西北地区能源消费碳排放，为促进西北地区碳排放峰值目标如期实现，针对西北地区碳减排工作提出了相应对策建议。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键 词：环境规制；能源消费碳排放；碳排峰值预测；西北地区文章编号： $1 0 0 0 - 6 0 6 0 \\left( 2 0 1 9 \\right) 0 3 - 0 6 8 9 - 0 9 \\left( 0 6 8 9 \\sim 0 6 9 7 \\right)$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "因温室效应所引起的环境问题已成为全球关注的焦点，践行节能减排行动、积极应对气候变化已经成为世界各国实现可持续发展目标的必然选择。进入21世纪，中国经济发展取得辉煌成就，对世界格局的影响力越来越强，国际社会要求中国承担减排“大国责任”的呼声日盛。中国承诺到2020年将实现碳排强度较 2005 年下降 $4 0 \\% \\sim 5 0 \\%$ 的减排目标，同时也计划于2030年实现碳排峰值的目标。在节能减排背景下，西北地区经济增长与节能减排之间形成了矛盾，西北地区的经济发展战略是否会促使地方政府降低环境规制标准以吸引外资？外资的引入又会对该地区碳排放情况造成何种影响？当前环境规制强度对该地区碳排强度影响如何？西北地区能否如期实现碳排峰值目标？这一系列问题成为研究西北地区碳排放重点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "西北地区生态环境脆弱且对气候变化比较敏感，受温室效应的影响，该地区自1989年以来平均气温已增长 $0 . 7 ~ \\mathrm { ^ { 9 } C }$ ,是全国增长幅度的两倍[1],因此严控碳排放是实现该地区碳排放峰值目标，促进其可持续发展的重要议题。关于环境规制与碳排放研究中，一部分学者认为地区政府为促进经济发展，以降低环境规制标准来吸引外商投资，由此引发“绿色悖论”与\"逐底效应”[2-4],并且由于FDI外商直接投资的流入致使承接地区成为跨国企业的“污染避难所”,使当地环境更加恶劣[5]；另一部分学者则认为，在环境规制达到一定限度后“倒逼效应”将逐渐显现[6-7], $F D I$ 的技术溢出效应会促进东道地区技术创新，继而能够对碳排放产生相应的减缓作用[8]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近些年，一些学者从省域视角对西北地区进行了相关研究,包括对陕西[9-10]、新疆[11-12]、宁夏[13]甘肃[14]等省区的碳排放相关问题以及碳排放影响因素进行了探索。另一些学者从西北地区的经济发展对碳排放的影响[15-16]、碳排驱动因素[17-19]以及各产业能源碳排放情况[20-21]等方面进行了研究。但现有关于西北地区碳排放研究的文献多集中于对碳排放的因素分析，鲜有涉及对该区域碳排峰值预测的研究[22],同时已有的关于西北地区的文献中忽视了政府在碳减排中的重要作用，缺少环境规制与碳排放关系的研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "鉴于此，本文从政府在西北地区碳减排中的重要地位切入，分析环境规制与外商直接投资等因素对该地区能源消费碳排放的影响，并对西北地区能源消费碳排放情况进行模拟预测，为该地区碳排峰值目标的实现提供一定的参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 环境规制、FDI对碳排放的影响机理分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "环境规制属于政府社会规制的重要范畴，当前情况为，严格的环境规制使得能耗型企业向环境规制强度较弱的地区进行转移，且承接地区多为经济欠发达地区，地区政府为促进本地经济发展，遵循利益最大化原则，利用环境规制的偏差减缓其产生的对资金和投资挤出影响，这种不均衡的管制强度使得区域碳排放居高不下。实际利用外商直接投资(FDI)是环境规制强度差异化的重要体现[23],同时也是各地区产业承接的重要对象之一，其对碳排放的影响主要体现在其与经济规模、产业结构以及技术效应间的关系中。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "经济规模方面，欠发达地区政府以经济发展为主导，竞相吸引大量外商投资，以扩大本地区经济规模，受政策倾向原因，致使环境规制力度较弱，无法对环境恶化产生应有的抑制效用，因此随着产业规模的扩大，碳排放总量不断攀升。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "产业结构方面，FDI的增长会促进产业结构，或向更高级、更合理的方向发展最终结果有益于环境改善;或向规模化发展最终使环境问题更加严重。处于工业化快速发展时期的地区会倾向于引进工业化水平较高的产业，以加快地区的工业化进程，最终随着FDI引进增长，该地区碳排放也会随即增加;处于后工业化阶段的地区，产业结构较为合理，各产业规模增长基本趋于平稳，地区发展不再追求工业进程的发展，在承接产业时更倾向于对企业生产和污染治理水平的考量，并以优化产业结构和改善本地环境为目的，FDI增多的同时，承接地产业等级将不断提升，高耗型产业会逐渐减少，而整体碳排放将会下降。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "技术效应方面，FDI的流入伴随着先进技术的引进，在示范作用下，可提高承接地区企业对技术创新的重视程度，依靠生产技术的改进，能够实现地区碳排放的下降。若承接地环境规制强度较弱，随着生产效率的提高，企业生产成本的降低，将促进其对能源的需求，终将导致地区碳排放总量的上升。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "西北地区当前仍处于工业化推进阶段[24],其以经济发展为核心的发展模式决定了各地区政府会更加倾向于制定促进经济发展的政策，而忽略对环境问题的考虑，因此造成环境规制不到位的现象。作用机理如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/470057dd70db51fe483b9f7aa5db80e643c65f9a4634b790273efed42865c429.jpg",
+        "img_caption": [
+            "图1环境规制与FDI对碳排放的作用机理 Fig.1 Environmental regulation and the mechanism of FDI on carbon emissions "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文借鉴王宪恩等[25]、吴青龙等[26]研究思想选用STIRPAT模型，通过回归分析，构建西北地区未来碳排放的预测模型，并从环境规制的角度设定3种发展情景，对2015一2030年西北地区能源消费碳排放总量进行预测，以促进西北地区如期实现碳排峰值目标，并为其生态与经济的可持续发展提出相应指导建议。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1模型构建与变量说明",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于STIRPAT模型对西北地区碳排放峰值进行预测模拟，其基本公式为，对等式两边同时取对数将其拓展成加法模型：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ln { \\cal I _ { i } } = a + b \\ln P _ { i } + c \\ln A _ { i } + d \\ln T _ { i } + e _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\textit { a } , \\textit { c } , \\textit { d }$ 分别表示人口、财富和技术各自变量的弹性系数。 $P$ 表示人口数量；A表示财富，即经济发展状况； $T$ 表示技术，即能源使用效率或碳排放强度； $I$ 表示碳排放，根据部分学者的研究结果显示，排放量 $I$ 与经济发展 $A$ 之间不仅仅存在单一的一次线性关系,由此本文借鉴YORK等学者[27]采用的方法，构建二次模型：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\ln { } I _ { i } = a + b \\ln { } P _ { i } + c \\ln { } A _ { i } + d ( \\ln { } A _ { i } ) ^ { 2 } + } } \\\\ { { f \\ln { } T _ { i } + e _ { i } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为进一步考虑环政府规制对碳排放峰值的作用，将环境规制强度与实际利用外商投资加入大公式(2)中，同时就将工业占比最为技术因素加入到模型中，由此拓展后的最终模型为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ln C _ { i } = a + b \\ln P _ { i } + c \\mathrm { l n } ~ P G D P _ { i } + d ( \\ln P G D P _ { i } ) ^ { 2 } +\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf \\ln E I _ { i } + g \\ln E R _ { i } + \\ln F D I _ { i } + \\ln I S _ { i } + e _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $C$ 为西北区能源消费碳排放总量; $P$ 为总人□； $P G D P$ 表示人均 $G D P ; E I$ 为能源碳排放强度； $E R$ 为环境规制强度； $F D I$ 为实际利用外商投资总额； $I S$ 为产业结构。各变量解释见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2数据来源与碳排放核算",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "受部分省区年鉴数据缺失的影响，本文研究的起始时间为1997年，使用数据来源于1997—2016年的《陕西统计年鉴》、《青海统计年鉴》、《甘肃统计年鉴》、《宁夏统计年鉴》、《新疆统计年鉴》、《中国统计年鉴》。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "西北地区能源消费碳排放总量基于各地区年鉴能源消费数据计算所得，其计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC = \\sum _ { i = 1 } ^ { 8 } E _ { i } \\times \\theta _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $C$ 表示能源消费碳排放量（单位 $1 0 ^ { 4 } \\mathrm { ~ t ~ }$ ）； $E _ { i }$ 表示第 $i$ 种能源的消耗量,单位为 $1 0 ^ { 4 } \\mathrm { ~ t ~ }$ 标准煤; $\\theta _ { i }$ 表示第 $\\mathbf { \\chi } _ { i }$ 种能源的碳排放系数（表2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f359f9cfc19033a1f733fdf71f708deb48e0ee31ef53fc2e1f212f0773716250.jpg",
+        "table_caption": [
+            "表1模型各变量解释说明",
+            "Tab.1Explanatory notes for variables in the model "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>变量</td><td>定义</td><td>单位</td></tr><tr><td>能源消费碳排放量 (C)</td><td>能源消费所产生的碳 排放总和</td><td>104t</td></tr><tr><td>人口总量(P)</td><td>地区年末人口</td><td>104人</td></tr><tr><td>人均GDP(PGDP)</td><td>人口总量/GDP</td><td>104元</td></tr><tr><td>能源碳排放强度(EI)</td><td>能源碳排放总量/GDP</td><td>t·（104）-1元</td></tr><tr><td>环境规制强度(ER)</td><td>环境治理投资总额 /GDP</td><td>%</td></tr><tr><td>实际利用外商投资</td><td>实际利用外商投资*</td><td></td></tr><tr><td>(FDI)</td><td>（历年美元汇率） /GDP</td><td>%</td></tr><tr><td>产业结构(IS)</td><td>工业增加值/GDP</td><td>%</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2各类能源碳排放系数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b35f3eab2ec5056eb15bda3dc2058588cbc4012828e7e63e51316208e9363be7.jpg",
+        "table_caption": [
+            "Tab.2 Carbon emission coefficient of various types of energy "
+        ],
+        "table_footnote": [
+            "注：参考联合国政府间气候变化专门委员会(IPCC)"
+        ],
+        "table_body": "<html><body><table><tr><td>能源种类</td><td>碳排放系数 / kg·kg-1</td><td>能源种类</td><td>碳排放系数 /kg·kg-1</td></tr><tr><td>原煤</td><td>0.755 9</td><td>煤油</td><td>0.571 4</td></tr><tr><td>焦炭</td><td>0.855</td><td>柴油</td><td>0.5921</td></tr><tr><td>原油</td><td>0.585 7</td><td>燃料油</td><td>0.618 5</td></tr><tr><td>汽油</td><td>0.5538</td><td>天然气</td><td>0.448 3</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 西北地区能源消费碳排放峰值预测与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1当前发展趋势下西北地区能源消费碳排放峰值预测",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文基于1997—2016年西北地区各省区统计年鉴以及《中国统计年鉴》的相关数据，参照IPCC各能源碳排放系数计算出西北地区能源消费碳排放总量，以分析西北地区人口、经济、技术、环境规制、实际利用外商投资、产业结构等各变量对该地区能源消费碳排放的影响。将各变量带入公式(3)后进行分析，使用软件Eviews8.0对相关数据进行回归，结果为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 . 0 0 8 ~ 3 ( \\ln { P G D P _ { i } } ) ^ { 2 } + 0 . 9 4 9 ~ 0 ~ \\ln { \\ E I _ { i } } -\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 . 0 0 5 \\ 9 \\ \\ln \\ E R _ { i } + 0 . 0 1 1 \\ 3 \\ \\ln \\ F D I _ { i } -\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $R ^ { 2 } = 0 . 9 9 , D W = 2 . 3 1$ ,括号中的值为 $\\mathbf { \\chi } _ { t } ^ { }$ 值, $*$ 、$* * , * * * *$ 分别表示在 $1 0 \\% . 5 \\% . 1 \\%$ 的水平上显著。对该模型进行灵敏度检验，对比1997—2016 年碳排放实际值与模拟值（图2），最大误差仅为$1 . 7 0 \\%$ ,模型整体拟合效果较好。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据公式(5)变量系数可知，对能源消费碳排放影响从大到小依次为人均 $G D P$ 、能源碳排放强度、人口、实际利用外商投资(FDI)、产业结构、环境规制强度。但人口增长基本趋于平稳，今后对碳排放的影响程度会远低于其他因素。并且环境规制强度与产业结构的系数为负数，表明当前西北地区环境规制措施处于“倒逼减排”的状态，即随着环境治理资金的投入能够对碳排放产生抑制效果，且随着西北地区工业技术、能源使用效率的上升，对碳排放也表现出相应的抑制效果。其他各变量对能源碳排放则表现出正向影响，尤其是FDI，其对能源碳排仍表现为促进作用，表明其技术溢出效应整体不显著。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以西北地区目前发展趋势为基础，将各自变量带入公式（5），预测出2017—2030年西北地区能源消费碳排放情况,此期间人口、人均GDP、FDI、环境规制强度、能源碳排放强度的增长速率均取1997—2016 年的年均增长率，由于产业结构增长处于波动状态，因此取1997—2016年工业结构的最低值$3 2 . 7 9 \\%$ ,最高值 $4 4 . 1 3 \\%$ ，由此计算出的结果如图3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据图3碳排放预测结果显示，在当前发展情境下西北地区的能源消费碳排放总量呈现上升趋势，取产业结构下限和上限均无法在2030年达到碳",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/94f52fbc81a0d9b1741d9cb9169f375ade7f4b215d1b9fcbf83ac43cd928fd10.jpg",
+        "img_caption": [
+            "图2西北五省能源消费碳排放量历史值与模拟值对比 Fig.2Comparison of historical and simulated values of energy consumption carbon emissions in five provinces of northwest China ",
+            "图3当前发展情景下西北地区2017—2030 年能源消费碳排放量预测",
+            "Fig.3Forecast of energy consumption carbon emissions in northwest China from 2017 to 2030 under current development scenario "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "160 000—产业结构取上限140 0001/非 120 000 -■产业结构取下限100000800006000040000200000∠661 666L 3000 2005 2505 2207 6000 50ET 5005 2005 2427 6550 4041 2035 2005 4032 6046 2330年份",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "排放峰值。因此，若要达到预期目标，则需要制定相应的发展规划与政策，以对人口、经济、产业结构环境规制强度等变量的增长速率做出相应的调整。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 西北地区能源消费碳排放峰值情景设定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为实现能源消费碳排峰值目标，本文从环境规制的角度出发，设定低、中、高三种强度的环境规制发展情景，其中低环境规制情景下包括高发展模式、高中发展模式、高低发展模式；中环境规制情境下包括中高发展模式、中发展模式、中低发展模式;高环境规制情景下包括低高发展模式、低中发展模式、低发展模式。通过对9种发展模式下能源碳排放状况进行分析，以更精确地预测西北地区2017—2030年的能源消费碳排放总量，并筛选出最适宜的发展模式，为西北地区控制碳排放增长情况提供参考。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在环境规制背景卜，西北地区能源消费碳排放的影响因素主要包括：人口 $( P )$ 、经济发展情况（GDP）、技术水平即能源碳排放强度（EI)、环境规制水平 $( E R )$ 、实际利用外商投资： $( F D I )$ 。在低环境规制下，主要以经济发展为中心，政府对环境管控力度较弱，人口、经济以及承接外来投资均处于高速发展状态，政府不重视环境情况，对环境投资的力度以及能源使用效率上处于较低的发展状态；在高环境规制下，地区政府重视对外部环境的改善，加大对环境治理的投资力度，人口、经济均处于低速发展状态，同时政府也重视能源使用效率方面的技术提升，承接产业的门槛较高，外商投资将受到限制；在中环境规制下，各方面发展较为平衡，各地区政府既重视经济发展，又强调环境治理,环境规制强度处于适中的状态。各环境规制下的发展模式如表3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c308dc50024e2d2f275e11609e23e64aa750736543089102c9b6e79266b8fcff.jpg",
+        "table_caption": [
+            "表3各情景发展模式设定",
+            "Tab.3Scenario development models "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">环境规制 强度</td><td rowspan=\"2\">情景模式</td><td colspan=\"5\">各变量发展状态</td></tr><tr><td>P</td><td>GDP</td><td>FDI</td><td>ER</td><td>EI</td></tr><tr><td>高</td><td>低</td><td>低速</td><td>低速</td><td>低速</td><td>高速</td><td>高速</td></tr><tr><td rowspan=\"5\">中</td><td>低中</td><td>低速</td><td>低速</td><td>低速</td><td>中速</td><td>中速</td></tr><tr><td>低高</td><td>低速</td><td>低速</td><td>低速</td><td>低速</td><td>低速</td></tr><tr><td>中</td><td>中速</td><td>中速</td><td>中速</td><td>中速</td><td>中速</td></tr><tr><td>中低</td><td>中速</td><td>中速</td><td>中速</td><td>高速</td><td>高速</td></tr><tr><td>中高</td><td>中速</td><td>中速</td><td>中速</td><td>低速</td><td>低速</td></tr><tr><td rowspan=\"3\">低</td><td>高</td><td>高速</td><td>高速</td><td>高速</td><td>低速</td><td>低速</td></tr><tr><td>高低</td><td>高速</td><td>高速</td><td>高速</td><td>高速</td><td>高速</td></tr><tr><td>高中</td><td>高速</td><td>高速</td><td>高速</td><td>中速</td><td>中速</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据表3各模式发展情况，并结合西北地区实际情况，设定各发展情景下相关变量的增长速度。由边际递减规律可知，各变量在增长过程中其增长速率会逐渐下降，因此本文将其发展阶段分为3个，分别为 2017—2020 年、2021—2025 年、2026—2030年,每个时期各变量增长速率将小于上个时期,以期保证各变量增长情况更加贴近实际，各变量在不同阶段的增长率如表4所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.1人口由公式(5)的人口系数可知人口对碳排放总量影响显著，但根据现实发展情况，1997—",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/95b8aa8ef4505b20cb62bc6b33f7a379458c0bbc92215848a3783493e2962226.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Tab.4</td><td colspan=\"6\">Growth rate of variables in each development mode from 2017 to 2030</td></tr><tr><td>环境规制</td><td></td><td colspan=\"5\">2017—2020 年各变量速率变化</td></tr><tr><td>强度</td><td>情景模式</td><td>P</td><td>GDP</td><td>FDI</td><td>ER</td><td>EI</td></tr><tr><td>高</td><td>低</td><td>0.68</td><td>6.50</td><td>7.00</td><td>20.00</td><td>-5.50</td></tr><tr><td></td><td>低中</td><td>0.68</td><td>6.50</td><td>7.00</td><td>16.00</td><td>-4.50</td></tr><tr><td></td><td>低高</td><td>0.68</td><td>6.50</td><td>7.00</td><td>14.00</td><td>-3.60</td></tr><tr><td>中</td><td>中</td><td>0.92</td><td>7.50</td><td>10.60</td><td>16.00</td><td>-4.50</td></tr><tr><td></td><td>中低</td><td>0.92</td><td>7.50</td><td>10.60</td><td>20.00</td><td>-5.50</td></tr><tr><td></td><td>中高</td><td>0.92</td><td>7.50</td><td>10.60</td><td>14.00</td><td>-3.60</td></tr><tr><td>低</td><td>高</td><td>1.16</td><td>8.00</td><td>15.00</td><td>14.00</td><td>-3.60</td></tr><tr><td></td><td>高低</td><td>1.16</td><td>8.00</td><td>15.00</td><td>20.00</td><td>-5.50</td></tr><tr><td></td><td>高中</td><td>1.16</td><td>8.00</td><td>15.00</td><td>16.00</td><td>-4.50</td></tr><tr><td>环境规制</td><td></td><td>2021- -2025年各变量速率变化</td><td></td><td></td><td></td><td></td></tr><tr><td>强度</td><td>情景模式</td><td>P GDP</td><td></td><td>FDI</td><td>ER</td><td>EI</td></tr><tr><td>高</td><td>低</td><td>0.38</td><td>5.00</td><td>4.00</td><td>18.00</td><td>-5.00</td></tr><tr><td></td><td>低中</td><td>0.38</td><td>5.00</td><td>4.00</td><td>14.00</td><td>-4.00</td></tr><tr><td></td><td>低高</td><td>0.38</td><td>5.00</td><td>4.00</td><td>12.00</td><td>-3.10</td></tr><tr><td>中</td><td>中</td><td>0.42</td><td>5.50</td><td>5.60</td><td>14.00</td><td>-4.00</td></tr><tr><td></td><td>中低</td><td>0.42</td><td>5.50</td><td>5.60</td><td>18.00</td><td>-5.00</td></tr><tr><td></td><td>中高</td><td>0.42</td><td>5.50</td><td>5.60</td><td>12.00</td><td>-3.10</td></tr><tr><td>低</td><td>高</td><td>0.66</td><td>6.00</td><td>10.00</td><td>12.00</td><td>-3.10</td></tr><tr><td></td><td>高低</td><td>0.66</td><td>6.00</td><td>10.00</td><td>18.00</td><td>-5.00</td></tr><tr><td></td><td>高中</td><td>0.66</td><td>6.00</td><td></td><td></td><td>-4.00</td></tr><tr><td></td><td></td><td></td><td>-2030 年各变量速率变化</td><td>10.00</td><td>14.00</td><td></td></tr><tr><td rowspan=\"2\">环境规制强度 情景模式</td><td></td><td>2026-</td><td></td><td>FDI</td><td></td><td></td></tr><tr><td></td><td>P</td><td>GDP</td><td></td><td>ER</td><td>EI</td></tr><tr><td>高</td><td>低</td><td>0.28</td><td>4.00</td><td>3.00</td><td>17.00</td><td>-4.50</td></tr><tr><td></td><td>低中</td><td>0.28</td><td>4.00</td><td>3.00</td><td>13.00</td><td>-3.50</td></tr><tr><td>中</td><td>低高</td><td>0.28</td><td>4.00</td><td>3.00</td><td>11.00</td><td>-2.60</td></tr><tr><td></td><td>中</td><td>0.27</td><td>4.50</td><td>3.60</td><td>13.00</td><td>-3.50</td></tr><tr><td></td><td>中低</td><td>0.27</td><td>4.50</td><td>3.60</td><td>17.00</td><td>-4.50</td></tr><tr><td>低</td><td>中高</td><td>0.27</td><td>4.50</td><td>3.60</td><td>11.00</td><td>-2.60</td></tr><tr><td></td><td>高</td><td>0.36</td><td>5.00</td><td>5.00</td><td>11.00</td><td>-2.60</td></tr><tr><td></td><td>高低</td><td>0.36</td><td>5.00</td><td>5.00</td><td>17.00</td><td>-4.50</td></tr><tr><td></td><td>高中</td><td>0.36</td><td>5.00</td><td>5.00</td><td>13.00</td><td>-3.50</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2016 年西北地区人口年均增长率为 $6 . 8 0 \\text{‰}$ ,尽管低于全国在“十三五规划”中的 $11 . 8 0 \\text{‰}$ ，但人口仍处于持续增长的状态，因此无法通过人口负增长来实现其对碳排放的减缓作用。在国务院发布的《国家人口发展规划》中预测中国到2030年人口将达到峰值，之后人口将会趋于缓慢衰减，因此本文将2017—2030年人口增长速率的取值范围定为$6 . 8 0 \\% o \\sim 1 1 . 8 0 \\% o _ { \\odot }$ 0",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.2经济发展1997—2016年西北地区GDP年均增长率为 $1 1 . 7 8 \\%$ ，各省区“十三五”规划中GDP增长率分别为陕西 $8 \\%$ 、青海 $7 . 5 \\%$ 、甘肃 $7 . 5 \\%$ 、宁夏 $7 . 5 \\%$ 、新疆 $7 \\%$ ,而全国\"十三五\"规划中GDP 增长率为 $6 . 5 \\%$ ，远低于西北地区近20a的经济增长率，这与中国经济步入“新常态”有密切联系，但相较全国西北各省区所规划的经济发展速度较高，这是由于西北地区整体产业发展较为落后，产业升级所带来的经济推动作用较为明显。因此，根据全国以及西北各省区“十三五”规划中的要求，结合1997一2016年西北地区的发展情况，本文将该地区2017—2030年GDP增长率设为高速发展下 $8 \\%$ ，低速发展下 $6 . 5 \\%$ ,中速发展下 $7 . 5 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.3实际利用外商投资实际利用外商投资对于地区经济发展的推动作用效果显著，是其对承接外来产业投资的主要表现形式，在经济发展政策带动下，西北地区近些年外商投资总额不断上升，1997—2016年各省区年均增长率为 $7 \\%$ ,其中年均增长率最高为陕西 $1 5 \\%$ ,最低为青海 $- 1 . 9 \\%$ ，受区位以及经济发展等因素的影响致使增长率出现较大悬殊，西北五省区实际利用外商投资平均年均增长率为 $1 0 . 6 0 \\%$ ，结合实际情况本文将2017—2030 年实际利用外商投资增长速率变化范围设定为 $7 \\%$ \\~$1 5 \\%$ ,将西北地区年均增长率 $7 \\%$ 设定为低速发展下的增长率,以陕西省年均增长率 $1 5 \\%$ 为高速发展增长率，中速发展下的增长率取西北地区年均增长率 $1 0 . 6 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.4环境治理投资近些年，随着政府对环境治理的关注，对环境投资总额持续上升，1997一2016年西北地区环境治理投资年均增长率达到 $2 7 \\%$ ，因此为确保符合实际，本文对环境治理投资增长速率的设定基于近10a的增长情况,2007—2016 年西北各省区环境治理投资平均年均增长率为 $14 \\%$ ,其中年均增长率最高为新疆为 $20 \\%$ ,陕西也达到 $1 9 \\%$ ，其他地区仅青海为 $5 . 5 7 \\%$ ,甘肃与宁夏均高于",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$10 \\%$ ，西北地区整体环境投资年均增长率为 $1 6 \\%$ ，基于实际情况本文将其 2017—2030 年的环境治理投资增长率设定为 $14 \\% \\sim 2 0 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.5碳排放强度根据全国\"十三五\"规划的要求，到2020 年要实现碳排强度相比较2015年下降$18 \\%$ 的目标，其他省区“十三五”规划中的相关要求除陕西略高于全国为 $1 8 . 5 \\%$ ,其他各地区均以全国标准为基准，即各省区要保证碳排强度每年下降速度为 $3 . 6 \\%$ 。1997一2016年各地区平均年均碳排强度增长率为 $- 4 . 4 6 \\%$ ,其中年均下降幅度最大为青海6. $5 \\%$ ，考虑到碳排强度边际递减规律，本文将西北地区2017—2030年碳排放强度下降速率设定为$3 . 6 \\% \\sim 5 . 5 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.6产业结构当前西北地区产业结构处于优化调整期，近些年随着政策的调整，该地区第二产业发展逐渐趋于稳定，1997—2016年西北地区第二产业占比年均增长率为 $0 . 1 1 \\%$ ，因此为方便预测2017一2030年西北地区碳排放总量增长情况，将其设定为常量，取近 $2 0 \\mathrm { ~ a ~ }$ 第二产业占比最大值与最小值的均值 $3 8 . 5 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3基于STIRPAT模型的西北地区碳排放峰值预测分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于表4设定的各变量2017—2030年的增长速率，将各变量带入公式（5），预测出在各种发展模式下，西北地区能源消费碳排放出现峰值的时间以及碳排峰值大小（表5）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据预测结果可知，西北地区在高环境规制下，低速发展模式在2020年实现能源消费碳排放峰值，峰值额为 $5 1 ~ 0 2 2 . 6 8 \\times 1 0 ^ { 4 } ~ \\mathrm { t }$ ，人均 $G D P$ 为 $5 . 6 9 \\times 1 0 ^ { 4 } \\mathrm { ~ t ~ }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表59种情景模式下的能源消费碳排放峰值预测结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/a047f5187a09ee62b087701f6db9f545a4031c4fe38a722e5258b613fe8a2cce.jpg",
+        "table_caption": [
+            "Tab.5Prediction of peak carbon emissions from energy consumption under 9 scenarios "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>情景模式</td><td>出现碳排 时间</td><td>碳排峰值额 /104t</td><td>人均GDP /104元</td></tr><tr><td>低</td><td>2020年</td><td>51022.68</td><td>5.69</td></tr><tr><td>低中</td><td>2030年无法达到</td><td>一</td><td>1</td></tr><tr><td>低高</td><td>2030年无法达到</td><td>1</td><td>1</td></tr><tr><td>中</td><td>2030年无法达到</td><td>1</td><td>1</td></tr><tr><td>中低</td><td>2025年</td><td>53 447. 15</td><td>7.49</td></tr><tr><td>中高</td><td>2030 年无法达到</td><td>一</td><td>1</td></tr><tr><td>高</td><td>2030年无法达到</td><td>1</td><td>1</td></tr><tr><td>高低</td><td>2030年无法达到</td><td>1</td><td>1</td></tr><tr><td>高中</td><td>2030 年无法达到</td><td>二</td><td>二</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "而低中速、低高速发展模式中，尽管对经济、人口以及实际利用外商投资的增长速度进行了有效地约束，但由于环境规制力度不够，致使碳排放总量无法在规定时间内实现峰值目标。在中环境规制下，政府对人口、经济、实际利用外商投资的增长速率适当放宽,使其保持良好增长状态，三种发展模式中，中低速发展模式在2025年实现能源消费碳排放峰值目标,峰值额为 $5 3 ~ 4 4 7 . 1 5 \\times 1 0 ^ { 4 } ~ \\mathrm { t }$ ,人均GDP为7.49$\\times { 1 0 } ^ { 4 }$ t,而其他两种发展模式由于环境规制力度的缺乏，致使碳排峰值出现时间不断向后延期。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在低环境规制下，人口、经济以及承接外商投资均处于高增长状态，以经济发展为核心的发展模式，使得能源消费增长速度过快，现有的环境规制强度所带来环境约束无法抵消碳排放增长量，由此证明在西北地区过度强调经济发展，则无法实现能源消费碳排放峰值目标。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对比低发展模式与中低发展模式，从能源消费碳排峰值额度以及实现碳排放峰值时间角度分析，低发展模式优于中低发展模式，碳排放峰值实现时间相比提早 $5 \\mathrm { ~ a ~ }$ ,碳排放峰值额度减少 $2 ~ 4 2 4 . 4 7 ~ \\times$ ${ 1 0 } ^ { 4 }$ t。从经济发展的角度分析，低发展模式相比较中低发展模式，2020年GDP减少了 $2 \\ 2 4 8 . 3 9 \\times 1 0 ^ { 8 }$ 元，到2025年累计损失 $2 0 \\ 5 7 1 . 3 8 \\times 1 0 ^ { 8 }$ 元,提前实现碳排放将造成经济损失，考虑到经济发展对西北地区的重要性，在既定时间内，中低速发展模式既能保证碳排峰值如期实现，又能兼顾经济增长，综合而言优于以牺牲经济增长而实现碳排目标的低发展模式。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文基于西北地区1997—2016年相关数据，对该地区能源消费碳排放情况进行分析，其结论如下：(1)根据模拟结果，基准情境下，西北地区能源消费碳排总量持续上升，无法在2030年实现碳排峰值目标。(2)低环境规制下，尽管政府在环境治理投资与降低能源碳排强度上加大了投入，但依然无法抵消经济发展对碳排放增长的促进作用，在2030年不能实现碳排放峰值目标，碳排放峰值出现时间将被延后。(3)中、高环境规制下，政府比较重视环境质量，对经济发展等相关因素的增长速率调整至适合的范围内。决定碳排能否实现峰值目标的关键因素在于，政府对环境治理的投资力度以及能源碳排放强度提升，若政府环境投资力度大，在承接外商投资过程中具有较高的考量标准，对能源碳排放强度降低具有良好的鼓励引导政策，西北地区能源消费碳排放峰值目标会如期完成。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "如何处理好经济发展与环境治理的均衡发展，如何将环境规制落实为具体的约束及治理碳排放的方法措施是西北地区今后工作要点。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5建议",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.1重视环境治理在政府绩效中的考核",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "西北地区经济发展相对比较落后，除陕西以外其他各省区经济发展情况均在全国倒数行列，因而更容易出现环境规制非完全执行的状态。因此，为提高政府对环境治理的重视，促进经济与生态的均衡发展，应当建立多元化政府绩效考核标准，扩大环境评估在绩效考中的份额，将碳排放强度、技术水平、产业结构以及环境治理投资等指标作为考核的重点。以各地区经济发展情况为基础，制定相应的减排标准，并建立相应的奖惩机制，对于完成目标则予以一定的政策奖励，未完成目标的则予以一定惩罚，杜绝个别地方政府因过分强调经济发展而不顾生态环境效益，以促进西北地区低碳经济发展",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.2优化引资结构，促进西北地区产业结构升级",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "外商投资对环境的影响存在双面效应，根据本文预测模型显示，当前FDI对西北地区碳排放呈现促进作用，其技术溢出效应仍不明显。因此，为发挥FDI对碳排放的良性作用，在引入外资过程中各地区政府应当根据本省区不同资源禀赋以及发展需求，制定不同的引入规则，不能一味地只关注外商投资对该地区所带来的经济效益。西北地区整体工业占比较大，产业相对比较落后，在承接外来产业时应当以产业的节能减排技术以及产业类型为重要考量指标，一方面，可以规避高耗能产业的进入，减少该地区碳排承载力；另一方面，基于技术提升将高碳排产业逐渐向低碳排产业转型，通过延伸产业链发展来提高西北地区产业等级，确保西北地区能源碳减排目标的实现。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.3提高地区环境规制强度，分阶段制定环境治理政策",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文能源消费碳排放峰值预测结果显示，环境规制强度对西北地区碳排放有一定的抑制作用，在未来的发展中应当扩大环境规制对碳排放的影响，加大西北地区各省区的环境规制强度，如扩大环境治理投资总额，构建区域碳税机制，成立碳排放交易所，对进行环境治理技术改造的企业进行政策补贴，优化市场能源消费结构，鼓励使用清洁能源等，并对西北地区制定统一的环境规制标准，使各地区政府建立“逐顶竞争”合作机制，避免因环境规制强度差异化而引起各省区间的不良竞争。同时，在不同发展时期需要根据经济发展情况调整环境规制强度。在经济增长较快时实行高、中环境规制，当经济增长趋于平稳时实行中、低环境规制，在完成碳减排目标的同时兼顾经济的增长。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1］程叶青，王哲野,张守志,等.中国能源消费碳排放强度及其影 响因素的空间计量[J].地理学报，2013,68（10)：1418-1431. [CHENG Yeqing,WANG Zheye,ZHANG Shouzhi,et al. Spatial econometric analysis of carbon emission intensity andits driving factors from energy consumption in China[J].Acta Geographica Sinica,2013,68(10):1418 -1431.] [2］王雅楠,左艺辉,陈伟,等.环境规制对碳排放的门槛效应及其 区域差异[J].环境科学研究,2018,31（4）:601-608.［WANG Yanan,ZUO Yihui,CHEN Wei,et al.Threshold effect and regional differences of environmental regulation on carbon emission[J].Research of Environmental Sciences,2018,31(4）:601-608.] [3］路正南,冯阳.环境规制对碳绩效影响的门槛效应分析[J].工 业技术经济,2016,35（8）:31-37.[LU Zhengnan,FENG Yang. The threshold effect of environmental regulation on carbon performance[J].Journal of Industrial Technological Economics,2016,35 (8) :31-37.] [4］刘海云,龚梦琪.环境规制与外商直接投资对碳排放的影响 [J]．城市问题,2017,（7）：67－73.［LIUHaiyun,LONG Mengqi.The impact of environmental regulation and foreign direct investment on carbon emissions[J].Urban Problems,2O17,（7）：   \n67-73.] [5］许源,顾海英,钟根元.环境规制对中国碳密集型行业出口贸 易的影响——基于碳排放视角的污染避难所效应检验[J].生 态经济,2014,30(9）:32-38.[XU Yuan,GU Haiying,ZHONG Genyuan.The impact of environmental regulations on China's exports of carbon intensive industries:A test of pollution haven effect from the perspectiveof carbon emission[J]. Ecological Economy,   \n2014,30(9):32 -38.] [6]张华.环境规制提升了碳排放绩效吗？一空间溢出视角下 的解答［J].经济管理,2014,36（12）：166-175.［ZHANG Hua.Does environmental regulation enhance carbon emissions performance? Interpretation from the perspective of spatial spillover [J].Economic Management Journal,2014,36(12）:166-175.] [7]路正南，冯阳.技术进步视角下环境规制对碳排放绩效的影响 [J].科技管理研究,2016,36（17）:229-234.[LU Zhengnan, FENG Yang.The impact of environmental regulation on carbon emissions performance from the perspective of technological progress [J].Science and Technology Management Research,2016,36 （17):229 -234.]   \n[8］黄杰.FDI对中国碳排放强度影响的门槛效应检验[J].统计 与决策,2017,（21）:108-111.［HUANG Jie.Threshold effect test of FDI impact on China's carbon emission intensity[J].Statistics and Decision,2017,（21):108-111.]   \n[9］赵选民,卞腾锐.基于LMDI的能源消费碳排放因素分解- 以陕西省为例[J].经济问题,2015，（2）：35-39.[ZHAO Xuanmin,BIAN Tengrui.Factor decomposition of carbon emisions from energy consumption of Shaanxi Province based on LMDI[J]. On Economic Problems,2015,（2）:35-39.]   \n[10］郝丽,孙娴,张文静,等.陕西省能源消费碳排放及脱钩分析 [J].水土保持研究,2014,21（5）:298-305.［HAOLi,SUN Xian,ZHANG Weijing,et al. emissions and decoupling analysis on energy consumption in Shaanxi Province[J]. Research of Soil and Water Conservation,2014,21(5）:298 -305.]   \n[11］汪菲,王长建.新疆能源消费碳排放的多变量驱动因素分 析——基于扩展的 STIRPAT 模型[J].干旱区地理,2017,40 (2）:441-452.[WANG Fei,WANG Changjian.Examining the driving factors of energyrelated carbon emissions using the extended STIRPAT model based on IPAT identity in Xinjiang[J].Arid Land Geography,2017,40(2):441-452.]   \n[12］刘晓婷,陈闻君.基于 ESDA-GIS 的新疆能源碳排放空间差异 动态演化分析[J].干旱区地理,2016,39（3）:678-685.［LIU Xiaoting,CHEN Wenjun.Dynamic evolution of spatial disparity of energy carbonemissions in Xinjiang based on ESDA-GIS[J].Arid Land Geography,2016,39（3）:678-685.]   \n[13］黎水宝,程志,王伟,等.基于能源平衡表的宁夏二氧化碳排放 核算研究[J].环境工程,2015,33（12）：130-133,137.［LI Shuibao,CEHNG Zhi,WANG Wei,et al.Accounting for $\\mathrm { C O } _ { 2 }$ emissions from Ningxia based on energy balance[J].Environmental Engineering,2015,33（12）:130-133,137.]   \n[14］谭春平,范莉莉,王烨.甘肃城镇住宅建筑碳排放因素分解模 型及实证[J].统计与决策,2014,（7）:109－111.［TAN Chunping,FAN Lili,WANG Ye.Decomposition model and demonstration of carbon emission factors in urban residential buildings in Gansu[J]. Statistics and Decision,2014,（7） :109-111.]   \n[15］杨蝶,常烜钰.西部地区碳排放与经济增长关系的脱钩及驱动 因素[J].经济地理,2012,32（12）:34-39.[YANG Rong, CHANG Xuanyu. Decoupling and driving factors analysis between the relationship of carbon emissions and economic growth in western region[J].Economic Geography,2012,32(12）:34-39.]   \n[16］郑佳佳.西部大开发对西部地区碳排放演变的影响[J].西部 论坛,2017,27（4）:48-58.[ZHENG Jiajia.The influence of western development on carbon emission tendency of western China [J].West Forum,2017,27(4):48 -58.]   \n[17］李建豹,曲建升,张志强.西北地区家庭生活碳排放特征及其 影响因素研究[J].干旱区地理,2014,37（4）:759－766.［LI Jianbao,QU Jiansheng,ZHANG Zhiqiang.Characteristics and influencing factors of household carbon emissions in northwest China [J].Arid Land Geography,2014,37(4）:759 -766.]   \n[18］曲建升，张志强,曾静静,等.西北地区居民生活碳排放结构及 其影响因素[J].科学通报,2013,58（3）：260-266.[QUJiansheng,ZHANG Zhiqiang,ZENG Jingjing,et al. Household carbon ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "emission differences and their driving factors in northwestern China [J].Chinese Science Bulletin,2013,58(3）:260 -266.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[19］马彩虹,邹淑燕,赵晶，等.西北地区能源消费碳排放时空差异 分析及地域类型划分[J].经济地理,2016,36（12）：162-168. [MA Caihong,ZOU Shuyan,ZHAO Jing,et al. Temporal-spatial diference analysis of carbon emission from energy consumption and its regional type division in northwest China[J].Economic Geography,2016,36(12):162-168.]   \n[20］唐洪松,苏洋,马惠兰,等.新疆畜牧业碳排放格局与公平性研 究[J].干旱区地理,2017,40(6）:1338-1345.[TANG Hongsong,SU Yang,MA Huilan,et al. Spatial and temporal distribution and equity of carbon emissions from livestock in Xinjiang[J].Arid Land Geography,2017,40(6):1338 -1345.]   \n[21］李灵杰,吴群琪.交通运输碳排放强度时空特征分析——以 “一带一路\"沿线中国西北地区为例[J].大连理工大学学报 （社会科学版）,2018,39（4）:44-52.[LI Lingjie,WU Qunqi. Spatial-temporal characteristics of carbon emission intensity in transportation:Take the province in northwestern China along the belt and Road as example[J].Journal of Dalian University of Technology（Social Sciences）,2018,39(4）:44-52.]   \n[22］邓小乐,孙慧.基于 STIRPAT模型的西北五省区碳排放峰值预 测研究[J].生态经济,2016,32（9）：36-41.［DENG Xiaole， SUN Hui. Forecast of the northwest five provinces’carbon emissions based on STIRPAT model[J].Ecological Economy,2016,32 (9):36-41.]   \n[23］韩先锋,惠宁,宋文飞.政府 R&D资助的非线性创新溢出效 应——基于环境规制新视角的再考察［J].产业经济研究, 2018,(3）:40 -52.[HAN Xianfeng,HUI Ning,SONG Wenfei. Non-linear innovation spillover effects of government R&D funding in the new era:Areinvestigation from anew perspective of environmental regulation[J].Industrial Economics Research,2018,（3）： 40 -52.]   \n[24］田时中,赵鹏大.西北六省工业污染动态综合评价及影响因素 分析[J].干旱区资源与环境,2017,31（7）：1－7.［TIAN Shizhong,ZHAO Pengda. Dynamic comprehensive evaluation and analysis on influencing factors of industrial pollution in six northwest provinces[J]. Journal of Arid Land Resources and Environment,2017,31(7) :1-7.]   \n[25］王宪恩,王泳璇,段海燕.区域能源消费碳排放峰值预测及可 控性研究[J].中国人口.资源与环境,2014,24（8)：9-16. [ WANG Xian'en, WANG Yongxuan,DUAN Haiyan. Forecasting area's carbon emissions of energy consumption and controllability study[J].China Population,Resources and Environment,2014,24 (8) :9 -16.]   \n[26］吴青龙,王建明,郭丕斌.开放 STIRPAT模型的区域碳排放峰 值研究—以能源生产区域山西省为例[J].资源科学,2018, 40(5）:1051-1062.[WU Qinglong,WANG Jianming,GUO Peibin.Peak regional carbon emissions based on open STIRPAT modeling in anenergy-producing region of Shanxi[J]. Resources Science,2018,40(5）:1051-1062.]   \n[27]YORK R,ROSA EA,DIETZ T. STIRPAT,IPAT and ImPACT: Analytic tools for unpacking the driving forces of environmental impacts[J].Ecological Economics,2003,46(3）:351-365. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Environmental regulation,FDI and energy consumption peak carbon emissions forecast: A case of five provinces in northwest China ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "DONG Bang-bang'，LI Li’， TANG Hong-song²， SU Yang³ (1College of Management,Xinjiang Agriculture University,Urumqi 83oo52,Xinjiang,China;   \n2School of Economics and Management,Neijiang Normal University,Neijiang 6411oo,Sichuan,China;   \n3College of Economics and Trade,Xinjiang Agricultural University,Urumqi 830o52,Xinjiang,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract:This paper calculates the total carbon emisions from energy consumption in the five northwestern provinces of China from 1997 to 2016 based on the carbon emission coeffcientof the IPCC list.Using STIRPAT model, taking the total carbon emissions of energy consumption as a dependent variable,and taking environmental regulation intensity,FDI,population,per capitaGDP,the proportion of secondaryproduction,energycarbon emissions intensityas independent variables,the ridge regression method isused to fitthe peak carbon emissionsprediction model of energy consumption inthe five northwestern provinces.Under three paterns of high,mediumand low environmental regulation intensity,9 development models were setup byscenario simulation to predictand analyze the total carbon emissions of energy consumption in northwestern China from 2O17 to 2030.The results showedas follows：（1）With the growth rate of each variable unchanged,the carbon emisions of energyconsumption in northwestern China in from 2O17 to 2O3O showed an overal growth trend,and could not reach the peak of carbon emissions as scheduled.The total carbon emissions in 2030 is $7 0 ~ 2 7 3 . 0 7 \\times 1 0 ^ { 4 } ~ \\mathrm { t }$ ：（2）Under the background of low environmental regulation,the three development modelsof high,high-mediumand high-lowcannotachieve the goal of peak carbon emissions on schedule.The carbon emissons of energy consumption of each model in 2030 are $7 3 ~ 5 5 0 . 5 3 \\times 1 0 ^ { 4 } ~ \\mathrm { t } , 6 4 ~ 8 8 1 . 9 8 \\times 1 0 ^ { 4 } ~ \\mathrm { t } , 5 6 ~ 2 9 6 . 9 6 \\times 1 0 ^ { 4 } ~ \\mathrm { t }$ t respectively.（3）under the medium and high environmental regulations,thecarbon emissons of energy consumption in northwestern China have been efectivelycontrolled. Thecarbon emissions hit its peak in2O25and 2O20 respectively under the low and medium development modes,the peak of carbon emissions are $5 3 ~ 4 4 7 . 1 5 \\times 1 0 ^ { 4 } ~ \\mathrm { t } , 5 1 ~ 0 2 2 . 6 8 \\times 1 0 ^ { 4 }$ t respectively. For the peak of the two development models in 2030,the total carbon emissions were decreased by $1 1 0 \\ 4 0 2 . 1 0 \\times 1 0 ^ { 4 } \\ \\mathrm { t }$ and $7 5 9 4 8 . 7 8 \\times 1 0 ^ { 4 }$ t respectively if compared with the benchmark development model. The intensity of energy carbon emissons were $0 . 8 6 \\mathrm { ~ t ~ }$ per 10 000 Yuan and O.68 t per 10 OOO Yuan respectively,which were $4 8 . 3 8 \\%$ and $6 0 . 1 4 \\%$ lower respectively than thatof 2005.This shows that the strict environmental regulation policycan effectively slow down the carbon emissions of energyconsumption in the northwestern region,and it is of great significance toachieve the goal of peak carbon emissions on schedule.Based on the above research,the folowing suggestions are proposed:Firstly,the proportionof environmental governance ingovernment performance appraisal should be expand；secondly,itis needed tooptimize the structure of atracting investment and to promote the upgrading of industrial structure in northwestern China,enhancingthe conceptof green governmentindiferentregions；thirdly,itisurgentto improve the intensity of regional environmental regulation and formulate environmental governance policies in diferent stages. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words：environmental regulation；carbon emissons from energy consumption；carbon emission peak prediction；the northwest China ",
+        "page_idx": 8
+    }
+]

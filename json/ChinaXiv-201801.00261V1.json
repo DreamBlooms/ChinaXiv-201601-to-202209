@@ -1,0 +1,478 @@
+[
+    {
+        "type": "text",
+        "text": "基于 mRNA 5' 端TIR区二级结构优化提高重组sTNFαRI在大肠杆菌中的表达水平",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "秦娇荣 赵兆 罗心梅 李春阳(成都生物制品研究所有限责任公司成都610023)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要目的：通过优化PET11b-sTNFαRI5’mRNA翻译起始区（TIR）二级结构从而提高可溶性肿瘤坏死因子|型受体(sTNFαRI)在大肠杆菌(E.coliBL21(DE3）中的表达水平。方法：通过对PET11b-sTNFaRImRNA 5’端TIR区二级结构的自由能及核苷酸位置熵分析，设计相应的引物对mRNA 5’翻译起始区（TIR）相应密码子进行突变，从而使核糖体结合位点（RBS）及起始密码子（AUG）暴露于发夹结构之外，此外将pET11b核糖体结合位点由GAAGGAGA突变为GAAGAA，以利于翻译复合体的组装以及翻译起始。通过基因克隆的方法将5’端TIR区优化后的序列与sTNFaRI序列一起克隆到pET11b 载体中，并转化大肠杆菌 BL21(DE3)，阳性转化子经IPTG诱导表达，SDS-PAGE 和Western-blot检测。结果：通过对PET11b-sTNFaRI5’TIR mRNA二级结构优化，经SDS-PAGE和Western-blot分析表明重组sTNFαRI的表达水平较优化前提高 $5 0 \\mathrm { - } 6 0 \\%$ 。结论：通过对重组载体翻译起始区（TIR）mRNA序列的二级结构优化可以有效提高目的蛋白的表达水平，对进一步工业化生产具有重要的应用价值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：sTNFαRl mRNA二级结构 翻译起始区 自由能",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Increasing the expression level of soluble tumor necrosis factor type l based on optimization of secondary structure of mRNA 5' terminal TIR ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "QIN Jiao-rong ZHAO zhao LUO xin-mei LI Chun-yang (Chengdu Institute of Biological Products Co.,Ltd，Chengdu 610023，China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Objective : To increase the expression level of soluble tumor necrosis factor type-I receptor(sTNFαRI)in E.coli BL21(DE3)by optimizing the secondary structure of PET11b-sTNFaRI translation initiation region(TIR). Methods: The free energy and nucleotide position entroy of the secondary structure of the translational initiation region was analyzed as the first step,and the primers were designed to mutate the codons of TIR of the PET11b-sTNFαRI in order to exposure of ribosome binding site and start codon to the outside of hairpin structure,in addition to mutating the pET11b ribosome binding site from GAAGGAGA to GAAGAA in order to facilitate assembly of the translational complex and initiation of translation.The optimized sequence of 5'terminal TIR was cloned into PET11b vector and transformed into E.coli BL21(DE3).The positive transformants were induced by 通讯作者，电子信箱：chunyang70@gmail.com ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IPTG and analyzed by SDS-PAGE and Western-Blot. Results: SDS-PAGE and Western-blot analysis showed that the expression of Recombinant sTNFαRI was increased by $50 \\text{‰}$ ， after optimizing the secondary structure of $5 ^ { \\circ }$ terminal TIR of PET11b-sTNF $\\mathfrak { a }$ RI. Conclusion:The optimization of the secondary structure of the translation initiation region(TIR)mRNA of recombinant vector can effectively increase the expresson level of the target protein,which is of great value for further industrialized production. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key wordssTNFαRImRNA secondary structure Translation initiation region Free energy ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "肿瘤坏死因子（tumor necrosis factor，TNF）通过与特异性细胞表面受体结合对急慢性炎症调控发挥着重要的作用[-2]。可溶性肿瘤坏死因子受体（sTNFα-R）主要包括 sTNFαRI和sTNFαRI两种类型，是机体自然产生的单体片段，它是细胞表面受体的胞外部分，在体内通过与跨膜TNFα或者可溶性TNFα 结合降低TNF的生物学活性，从而降低炎性反应。Dalina 等发现TNFα通过激活TNF-R（主要是TNF-RI）并借助一系列细胞内反应激活 NF-kB 的转录而发挥作用[3]。可溶性肿瘤坏死因子受体II 型（sTNF-RII）融合蛋白(Enbrel）目前已用于类风湿性关节炎的治疗〔4-6]。因此，我们推断sTNF-RI也具有潜在的临床应用前景。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "mRNA非编码区以及二级结构在蛋白翻译过程中起着至关重要的作用。mRNA5翻译起始区（translation initiation region，TIR）的序列和结构决定蛋白翻译起始效率[4]。TIR 主要由四个部分组成：（1）SD序列，（2）起始密码子，（3）SD序列和起始密码子之间的序列，（4）增强子。大量文献已经报道，优化mRNA的TIR区序列二级结构有利于控制并提高重组蛋白在大肠杆菌中的表达[7-11]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "细胞环境中RNA常折叠成二级或三级结构，从而影响RNA的降解以及翻译起始等[6]。RNA二级结构的分析方法有多种，大致可以分为：热力学模型，同源比对模型和统计学模型。在热力学模型中,相关文献报道mRNA的TIR区二级结构的自由能越低越容易起始翻译，而且核糖体位点和起始密码子处相对自由能较高，核酸位置熵较低时形成发夹结构概率较低，相对应的序列最优[12-15]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本实验旨在借助生物信息学的分析方法，根据热力学模型分析核酸序列的自由能和位置熵变化情况得出核糖体结合位点和起始密码子处形成发夹结构的概率。优化",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "TIR区二级结构从而筛选出最优序列，通过引物设计对mRNA翻译起始区（TIR）序列进行突变，达到提高目的蛋白在大肠杆菌中的表达水平的目的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1．材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1菌株与质粒 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "原核表达载体 pET11b 购自 Novagen 公司；宿主菌 BL21(DE3)购自 Novagen 公司。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2主要试剂",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DNA polymerase 购自 Promega 公司;T4 DNA ligase 购自 Promega 公司;Wizard SVGel and PCR Clean-up Systerm（A9282）购自 Promega 公司；质粒小量提取试剂盒购自天根公司;XbaI和BamHI购自 NEB;酵母提取物和胰蛋白脉购自OXOID 公司;IPTG购自MERCK公司。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3mRNA序列设计及二级结构的分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据相关文献的报道，设计了4个mRNA序列（rbs1、rbs2、rbs3、rbs4），应用 RNA结 构 在线 分 析 服 务 器( RNAstruc ture, http://rna.urmc.rochester.edu/RNAstructureWeb/Servers/Predict1/Predict1.html）模拟mRNA上游以起始密码子（AUG）为中心的70bp 序列的二级结构并得出总自由能。再通过RNAfoldWebServer服务器(http://rma.tbi.univie.ac.at/cgi-bin/RNAWebSuite/RNAfold.cgi）分析核苷酸位置熵及其相对自由能的变化情况，从而获得核糖体结合位点及起始密码子处形成发夹结构的概率，筛选出较优的序列，设计相应的引物，对mRNA的TIR区序列进行突变。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4重组菌株的构建 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.1sTNFαRI基因的合成及TIR区突变序列扩增",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "sTNFαRI基因序列由 invitrogen公司合成。通过PCR方法将TIR区突变序列引入sTNFαRI的 $5 ^ { \\prime }$ 端。PCR反应体系：模板1ul，上下游引物各0.5ul，10XPCRbuffer5ul，dNTP1ul，TaqDNA 聚合酶1ul，灭菌 $\\mathrm { \\ d d H _ { 2 } 0 4 l u l }$ ，共50ul。PCR反应条件： $9 4 ^ { \\circ } \\mathrm { C }$ 预变性 4min; $9 4 ^ { \\circ } \\mathrm { C }$ 变性30s, $5 8 ^ { \\circ } \\mathrm { C }$ 退火30s, $7 2 \\mathrm { { ^ \\circ C } }$ 延伸 30s，循环30 次； $7 2 \\mathrm { { ^ \\circ C } }$ 延伸 5min。PCR扩增产物经 $1 \\%$ 琼脂糖凝胶电泳分析鉴定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.2重组工程菌构建",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "经 Wizard SV Gel and PCR Clean-up Systerm 回收 PCR 产物后，用 XbaI 和 BamHI将PCR产物和pET11b质粒分别进行双酶切， $3 7 ^ { \\circ } \\mathrm { C }$ 反应3h后加入1ul的CIAP继续反应0.5h，回收酶切产物经1%琼脂糖凝胶电泳鉴定。经T4DNA连接酶将目的基因片段与载体片段室温连接过夜，转化E.coliDH5a 感受态细胞，涂布含100ug/ml羧苄青霉素 LB 琼脂平板， $3 7 ^ { \\circ } \\mathrm { C }$ 培养过夜；挑取单克隆进行菌落PCR 鉴定，筛选阳性克隆提取质粒进行双酶切鉴定，并送金唯智公司进行测序验证。将测序正确的质粒转化大肠杆菌 $B L 2 I ( D E 3 )$ 感受态细胞，涂布含 $1 0 0 \\mathrm { { u g / m l } }$ 羧苄的LB琼脂平板筛选阳性克隆甘油保种， $- 8 0 ^ { \\circ } \\mathrm { C }$ 保存。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5目的基因的小量发酵以及诱导表达",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "蘸取少许重组甘油菌接种于含 $1 0 0 \\mathrm { { u g / m l } }$ 的LB 液体培养基中， $3 7 ^ { \\circ } \\mathrm { C }$ ，220rpm 过夜活化。将活化后的菌液按 $1 \\%$ 的接种量接种于新鲜的含 $1 0 0 \\mathrm { { u g / m l } }$ 羧苄青霉素的LB 培养基中， $3 7 ^ { \\circ } \\mathrm { C }$ ， $2 6 0 \\mathrm { r p m }$ 培养至 $\\mathrm { 0 D } _ { 6 0 0 }$ 约为0.8时，加入终浓度 $0 . 2 5 \\mathrm { m M / L }$ 的IPTG诱导3.5h。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6sTNFaRI表达量检测及分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "离心收集菌体，用等体积超纯水重悬后，加入5X蛋白上样缓冲液，涡旋混匀，$9 4 ^ { \\circ } \\mathrm { C }$ 金属浴5min，通过 $1 5 \\%$ 的SDS-PAGE 和 western-blot检测鉴定 sTNFαRI蛋白表达水平，凝胶成像系统分析sTNFαRI条带比例，并与优化前菌株对比。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1序列设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "设计四种不同的突变序列，分别编号为rbs1、rbs2、rbs3、rbs4，突变前的序列标记为Ori-sTNFαRI（如表1所示）。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5a65871917beda7d7215ef8fb388e400ae06775c2fe9b95d2988208f3eb0cd76.jpg",
+        "table_caption": [
+            "表1．sTNFα5'TIR区突变前和突变后序列对比",
+            "Table1 Comparision of sTNFa5'TIR sequence before and after mutation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>名称</td><td>序列</td></tr><tr><td>Rbs1</td><td>UUCCCCUCUAGACUAAUAGAUUAAGGAGGUAGUAAAUGGAUAGCGUGUGUCCGCAGGGUAAAUAUAUUCA</td></tr><tr><td>Rbs2</td><td>AUAGGAAGCCCUAUUAAUAGUUAAGGAGGUAGUAGAUGGAUAGCGUGUGUCCGCAGGGUAAAUAUAUUCA</td></tr><tr><td>Rbs3</td><td>UAAGGGAGAUUCAAAAUAGCAUAAGGAGGUAAUCGAUGGAUAGCGUGUGUCCGCAGGGUAAAUAUAUUCA</td></tr><tr><td>Rbs4</td><td>CCCCUCUAGAGUCAAAUAGAUUAAGGAGGUAUAAAAUGGAUAGCGUGUGUCCGCAGGGUAAAUAUAUUCA</td></tr><tr><td>Ori-sTNF</td><td>AUAAUUUUGUUUAACUUUAAGAAGGAGAUAUACAUAUGGAUAGCGUGUGUCCGCAGGGUAAAUAUAUUCA</td></tr><tr><td>RI</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2mRNA二级结构模拟分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "应用最小自由能（Minimum Free Energy，MFE）法通过RNAstructure 模拟 sTNFaRImRNA5’TIR区以AUG 为中心的70bp核苷酸序列的二级结构并得出其总自由能（TotalFree Energy）并用不同颜色标记不同的碱基以指示该位点形成茎环结构的概率。突变后的四种序列（分别标记为Rbs1-4）以及原始序列（ori-sTNFαRI）的二级结构预测结果如图1A-1E所示：",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/123ccc643dde06a4fcacaf6890de88d1a1b4d54299cee5c0cf4b1298bdd5bdf2.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（E）Ori-sTNFaRI（F）Probability",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0577e2e38e138e346a99f575fd12ef9babc967b939c707a0d4b4d07df66284f6.jpg",
+        "img_caption": [
+            "图1：sTNFαRI $5 ^ { \\prime }$ TIR区二级结构模拟及总自由能预测"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Prediction of 5'TIR secondary structure and total free energy of sTNFaRI ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从图1中可以看出，原始序列图1E中核糖体结合位点（GAAGGAGA…）以及起始密码子（AUG）形成配对结果的概率均为 $7 0 \\% \\mathrm { \\sim } 8 0 \\%$ （绿色,参考1F)。突变后的序列（1A-1D）中核糖体结合位点（AGGAGG…）形成碱基配对的概率，除了Rbs4（红色）配对概率明显高于原始序列外，Rbs1-3 均低于原始序列，其中 Rbs1、Rbs2AUG 暴露于发夹结构外，而Rbs1自由能小于Rbs2，更有利于翻译起始。根据以上分析，理论上将sTNFαRI上游TIR区突变为Rbs1序列最优。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3不同序列的核苷位置熵及相对自由能分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "据有关文献报道，仅通过最小自由能法预测 RNA二级结构的准确率不高[1]，本文又通过RNAFlodWebserver 网站分析了mRNA5’TIR区以起始密码子（AUG）为中心的70bp序列的自由能和核酸位置熵值变化情况。如图2所示：",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/bca957b052837f1bfec83a5fda8c3e798067b537562c42200b7063739793ce65.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f0caa43dca6fc5c735452851c774cb088f475061e9158bc60b751f1b4823bf57.jpg",
+        "img_caption": [
+            "图2.序列相对自由能及位置熵预测",
+            "Fig.2 Prediction of relative free energy and position entroy "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图2 综合最小自由能法（mfe）、基于热动力学匹配(pf)及质心法（centroid）[17]对不同核苷酸序列不同位置的相对自由能进行了预测，同时预测了核酸位置熵值(nucleotide positional enropy）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "理论上，当核苷酸序列位于RNA二级结构中的不易配对区时，核酸位置熵较高，位于易配对区时，熵值较低[18-21]。起始密码子（AUG）位点以及其上游的核糖体结合位点（RBS）处于未配对状态，最有利于翻译复合体的组装以及翻译的起始[13]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从图2中可以看出，A图中 Rbs1序列在核糖体结合位点（…AGGAGG…）熵值最高，且该位点相对自由能较低，说明该序列在核糖体结合位点形成发夹结构的概率较低（最佳）。图 2B、2C、2D、2E中，RBS 处所对应的位置熵均较低，图2D最低，说明",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Rbs4序列在核糖体结合配对的概率最高（最差）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从图2中起始密码子（AUG）位点来看，Rbs1和Rbs4序列在AUG位点相对自由能最低，虽然紧邻颈环结构核酸位置熵也较低，但是均未配对（见图1)，更有利于翻译起始。但是Rbs4起始密码子上游核糖体结合位点配对概率高，不利于翻译复合体的组装。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综合以上五种不同序列的相对自由能和核酸位置熵的分析结果看，预测 Rbs1序列最优。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4引物合成",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "引物由金维智公司合成",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/24a49c40a9b0c57f610d6c5e2a3628818ae325952fbaf7ddae47228f71663ade.jpg",
+        "table_caption": [
+            "表2PCR 突变引物",
+            "Table2Primers of mutantPCR "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>名称</td><td>序列</td></tr><tr><td>Rbs1</td><td>GCAACGTCTAGACTAATAGATTAAGGAGGTAGTAAATGGATAGCGT</td></tr><tr><td>Rbs2</td><td>GCAACGTCTAGAAACTTTAAGGGAGATTCAAAATAGCATAAGGAGGTAATCGATGGATAGCGT</td></tr><tr><td>Rbs3</td><td>GCAACGTCTAGATAGGAAGCCCTATTAATAGTTAAGGAGGTAGTAGATGGATAGCGT</td></tr><tr><td>Rbs4</td><td>GCAACGTCTAGAGTCAAATAGATTAAGGAGGTATAAAATGGATAGCGT</td></tr><tr><td>PP6</td><td>CGGAGGGGATCCTATTA ATTGAAGCACTGGAACAGG</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5sTNFαRI基因扩增产物的鉴定",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "分别以rbs1、rbs2、rbs3、rbs4所为上游引物，PP6 作为下游引物进行PCR 扩增后，用 $1 \\%$ 琼脂糖凝胶电泳分析。图3所示的结果中，rbs1-4突变后的PCR扩增产物中均可见与阳性对照条带相对应的片段（长度约 330bp）。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/de38a59044462651d94fd0eef76a7b9cd4884035161dec6259d6d14af30c3839.jpg",
+        "img_caption": [
+            "图3sTNFαRI基因PCR扩增产物电泳图 Fig.3Electrophoretogram of sTNFαRI gene amplified by PCR "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "M:DNA marker II ；1:rbs1+TNFaRI；2:rbs2+TNFaRI；3:rbs3 $+$ TNFaRI；4:rbs4 $\\cdot +$ TNFa RI； 5: negative control; 6: positive control. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.6重组pET11b-Rbs1/2/3/4-sTNFαRI质粒的双酶切及测序鉴定",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "重组pET11b-Rbs1/2/3/4-sTNFαRI质粒经 XbaI、BamHI双酶切后，用 $1 \\%$ 琼脂糖凝胶电泳分析均可见330bp左右的片段，见图4。经测序结果与已知序列一致，表明重组pET11b-rbs1/2/3/4-sTNFαRI质粒均构建成功。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/2a85a062fbf0263b78aa23cf0d304c9e3d364190e78b6f8252f63d088ddec451.jpg",
+        "img_caption": [
+            "图4重组质粒双酶切鉴定电泳图"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Identification of recombinant plasmid by double digestion ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "M1:DNA marker IV;1-4:RecombinantplasmidpET11b-TNFaRI-rbs1/2/3/4digestby XbaI+BamHI; M2: DNA marker ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "II ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.7重组sTNFaRI蛋白在BL21（DE3）细胞中表达产物的鉴定及表达量对比",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "将小量发酵的菌液离心后收集菌体进行 $4 \\small { - } 2 0 \\%$ 梯度SDS-PAGE 和Western-blot检测（如图5所示)，可见经TIR 区突变后的pET11b-rbs1-sTNFαRI/BL21(DE3)的菌株sTNFαRI（分子量为12.9KDa）表达量最高，与预测结果一致。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/092b6a4090d8784d97785225146a386c6c46713ecfae50b310c1b7e915e60288.jpg",
+        "img_caption": [
+            "图5 (A)小试诱导表达 SDS-PAGE电泳分析 (B)Western-blot 分析 Fig.5 Analysis expression level of sTNFαRI by (A)SDS-PAGE and (B)Western-blot Marker;1-4:Expression levelof sTNFαRIby pET11b-rbs1/2/3/4-sTNFα RI/BL21(DE3)；5: pET11b-TNFa RI/BL21 (DE3）（no reduce)；6: Expression level of sTNFαRI by pET11b-TNFa RI/BL21（DE3）(before mutation) "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/2466c370885533ac5d89f3cb37f1fcdfb97610b24ada2e0ed19af19149a78136.jpg",
+        "img_caption": [
+            "图6：ImageLab 4.0软件分析图Fig.6ImageLab 4.O software analysis"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "line 2-5:Analysis of expression level ofpET11b-rbs1/2/3/4-sTNFα RI/BL21(DE3)induced by IPTG；line 6: pET11b-TNFa RI/BL21（DE3）(no reduce); line7:pET11b-TNFa RI/BL21（DE3）induced by IPTG (before mutation) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "经ImageLab4.0分析不同序列突变后重组工程菌诱导表达后的sTNFαRI条带百分比（如图6所示）可见，优化后的rbs1序列表达水平明显提高（如图7所示)。经计算，比优化前表达量提高约 $5 8 . 4 \\%$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/eed027173448033b9d5789b65b04d873679cb844554d9f47d5e7e4198e012aa9.jpg",
+        "img_caption": [
+            "图7.sTNFαRI表达量对比",
+            "Fig.7Comparisionofexpression level ofsTNFαRI "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "类似于TNFαRII重组蛋白（Enbrel)，TNFαRI重组蛋白在临床上也可用于自身性免疫疾病如银屑病、类风湿性关节炎等的治疗[22]。目前大约有 $3 0 \\%$ 治疗性的重组蛋白是通过大肠杆菌（E.coli）表达生产的[]。外源蛋白在E.coli中的表达水平直接影响到下游工艺以及生产成本，在产品开发工程中是一个非常重要的因素。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "影响外源蛋白在大肠杆菌表达体系中表达量的因素很多。如：密码子的偏好性，启动子的强弱,mRNA 的稳定性及其二级结构，翻译终止信号等等[23-24]。本文主要对 mRNA翻译起始区序列及其二级结构对TNFαRI表达量的影响做了探讨。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本实验通过设计不同引物来改变mRNATIR区序列，从而改变mRNA二级结构中发夹结构的位置和长度，进而改变mRNA的自由能和熵值，以达到提高 TNFαRI表达量的目的。结果表明：当TNFαRI的mRNA5'TIR区总自由能最低且核糖体结合位点和起始密码子形成发夹结构概率更低时更有利于TNFaRI 蛋白翻译起始，进而有利于提高TNFαRI包涵体表达量。TIR区序列优化后，sTNFαRI包涵体表达量较优化前提高 $5 8 . 4 \\%$ 。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本研究通过对目的基因的mRNA5’端TIR二级结构的优化，提高了sTNFαRI在大肠杆菌中的表达水平，为下一步针对 TNF 靶标的新药开发打下了良好的基础。同时，也为重组蛋白表达水平的提高提供了新思路和新策略。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1]Arend WPD,Dayer JM.Inhibition of the production and effects of interleukin-1 and tumor necrosis factor alpha in rheumatoid arthritis.Arthritis Rheum,1995,38:151-160.   \n[2] Alsalameh S,Winter K,Al-Ward R,et al.Distribution of TNF-alpha,TNF-R55and TNF-R75 in the rheumatoid synovial membrane: TNF receptors are localized preferentially in the lining layer;TNF-alpha is distributed mainly in the vicinity of TNF receptors in the deeper layers. Scand JImmunol 1999,49:278-285.   \n[3] de Oliveira D C,Hastreiter A A,Mello A S,etal.The effects of protein malnutrition on the TNF-RI and NF-kB expression via the TNF- α signaling pathway. Cytokine. 2014, 69(2): 218-225.   \n[4] Moreland L W,Baumgartner S W,Schiff MH,et al.Treatment of rheumatoid arthritis with a recombinant human tumor necrosis factor receptor (p75)-Fcfusion protein.N Engl JMed,1997,337:141-148.   \n[5] Berard R A,Laxer R M.Etanercept(Enbrel) in the treatment of Juvenile idiopathic arthritis. ExpertOpin Biol Ther.,2013,13(11): 1623-1630.   \n[6] Belmellat N, Semerano L, Segueni N,et al. Tumor Necrosis Factor-Alpha Targeting can protect against arthritis with low sensitization to infection.Front Immuno,2017,14:8:1533.   \n[7] Huang C J,Lin H,Yang X.Industrial productionofrecombinant therapeutics in Escherichiacoli and its recent advancements.Journral of Inductrial Microbiology & Biothechnology,2012,39(3): 383.   \n[8] Alibolandi M, Mirzahoseini H,Abad MAK,Azami movahed M. High level expression of human basic Wbroblast growth factor in Escherichia coli: evaluating the eVect of the GC content and rare codons within the Wrst 13 codons.Afr JBiotechnol,2010, 9(16):2456-2462.   \n[9]Simmons L C,Yansura DG,Translational level is acritical factor for the secretion of heterologous proteins in Escherichia coli. Nat Biotechnol, 1996,14(5):629-634.   \n[10]Vimberg V,Tats A,Remm M，Translation initiation region sequence preferences in Escherichia coli. BMC Mol Biol, 2007, 8:100.   \n[11]Behloul N, Wei W,Baha S,et al. Efects of mRNA secondary structure on the expression of HEV ORF2 proteins in Escherichia coli. Microb Cell Fact,2017,16(1):200.   \n[12]Zhang H W, Yang Y C,Lu Z.From sequence to structure: RNA secondary structure prediction methods and the applications.Chinese Bulletin of Life Sciences, 2014,26(3):219-218.   \n[13]Garcia-Martin JA, Clote P.RNA Thermodynamic Structural Entropy.PloS ONE,2015,10(11): e037859.   \n[14]Zhang WC, Xiao W H, Wei HM, et al. mRNA secondary structure at start AUG codon is a key limit factor for human protein expression in Escherchia coli. Biochemical and Biophysical Research Communications, 2006,349:69-78.   \n[15] Seetin M G, Mathews D H.RNA structure prediction: an overview of methods. Methods in Molecular Biology,2012, 905:99-122.   \n[16]Li X. The simulation Analysis of Secondary Structure Prediction Optimization Model. Computer Simulation, 2016, 7: 323-326.   \n[17]Hamada M, Kiryu H, Sato K,et al. Prediction of RNA secondary structure using generalized centroid estimators. Bioinformatics,2009, 25(4): 465-473.   \n[18]Mathews DH,Disney MD, Childs JL,et al. Incorporating chemical modification constraints into a dynamic programming algorithm for prediction ofRNA Secondary Structure.PNAS， 2004,101（19） :7287-7292.   \n[19]Eren A M， Morrison HG，Lescault P J,et al. Minimum entropy decomposition: Unsupervised oligotyping for sensitive partitioning of high-throughput marker gene sequences.The ISME Journal,2015,9:968-979.   \n[20]Dotu I, Garcia-Martin JA,Slinger B L,et al. Complete RNA inverse folding: computational design of functional hammerhead ribozymes. Nucleic Acids Research,2014, 42(18): 11752-11762.   \n[21]Zhang Y P,Wang P,Yan M D.An Entropy-Based Position Projection Algorithm for Motif Discovery. BioMed Research International, 2016, ID9127474.   \n[22]Bao C H, WuL Y,Wu,HG et al,Moxibustion Inhibits Apoptosis and Tumor Necrosis Factor-Alpha/Tumor Necrosis Factor Receptor 1 in the Colonic Epithelium of Crohn's Disease Model Rats.Digestive Diseases & Scences,2012,57(9):2286-2295.   \n[23]Farshadpour F，Taherkhani R,Makvandi M,et al. Condon-optimized expression and purification of truncated ORF2 protein of Hepatitis E Virus in Escherichia coli. JUndishapur J Microbiol. 2014,7(7): e11261.   \n[24]Molina-GarciaL, Ciralda R.Enabling stop codon read-through translation in bacteria as a probe for amyloid aggregation. Sci Rep. 2017,7(1):1908. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

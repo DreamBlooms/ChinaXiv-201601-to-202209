@@ -1,0 +1,411 @@
+[
+    {
+        "type": "text",
+        "text": "Transport mechanism of eroded sediment particles under freeze-thaw and runoff conditions ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Tian1,2, LI Peng1,2, HOU Jingming1\\*, TONG $\\mathrm { Y u ^ { 1 } }$ ,LI Jingl, WANG Feng1, LI Zhanbin1.2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1State KeyLaboratoryof Eco-hydraulics inNorthwest AridRegion,Xi'an UniversityofTechnology,Xi'an710048,China; 2 KeyLaboratoryof NationalForestryAdministrationon Ecological HydrologyandDisasterPreventioninArid Regions,Xi'an University of Technology, Xi'an 710048, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Hydraulic erosion associated with seasonal freeze-thaw cycles is one of the most predominant factors,which drives soil stripping and transportation.In this study, indoor simulated meltwater erosion experiments were used to investigate the sorting characteristics and transport mechanism of sediment particles under different freeze-thaw conditions (unfrozen, shallow-thawed,and frozen slopes)and runoff rates (1,2,and $4 ~ \\mathrm { L } / \\mathrm { m i n } )$ .Results showed that the order of sediment particle contents was silt $>$ sand $>$ clay during erosion process on unfrozen,shallow-thawed,and frozen slopes. Compared with original soils, clay and silt were lost,and sand was deposited. On unfrozen and shallow-thawed slopes,the change of runoff rate had a significant impact on the enrichment of clay,silt,and sand particles.In this study,the sediment particles transported in the form of suspension/saltation were $8 3 . 5 8 \\% 8 - 8 6 . 5 4 \\%$ on unfrozen slopes, $6 9 . 2 4 \\% - 8 4 . 8 9 \\%$ on shallow-thawed slopes, and $8 3 . 7 5 \\% - 8 7 . 4 4 \\%$ on frozen slopes.Moreover, sediment particles smaller than $0 . 0 2 7 ~ \\mathrm { \\ m m }$ were preferentially transported. On shallow-thawed slope,relative contribution percentage of suspension/saltation sediment particles gradually increased with the increase in runoff rate,and an opposite trend occurred on unfrozen and frozen slopes.At the same runoff rate, freze-thaw process had a significant impact on the relative contribution percentage of sediment particle transport via suspension/saltation and roling during erosion process The research results provide an improved transport mechanism under freeze-thaw condition for steep loessal slopes. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: freeze-thaw; runoff conditions; erosion process; sediment particles;transport mechanism ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation:WANGTian,LIPeng,HOUJingming,TONG Yu,LIJing,WANGFeng,LIZhanbin.2022.Transport mechanismof erodedsediment particlesunderfreeze-thawand runoff conditions.Journal ofArid Land,14(5):490-501. https://doi.0rg/10.1007/s40333-022-0016-x ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "During slope erosion process,the form of movement and transport distance of eroded sediment particles are not only associated with the hydrodynamic characteristics of slope runoff, but also depend on the characteristics of sediment itself, especially in terms of particle size and density (Blott et al., 2001; Issa et al., 2006; Hao et al.，2019).At present,with the in-depth study of erosion mechanisms,the characteristics of particle separation during soil erosion process have received extensive atention (Blott et al.,2006; Ding et al., 2017;Wu et al., 202O). Numerous studies have shown that the distribution of eroded sediment particle size is determined by a combination of many factors, such as soil properties (texture and clay content)， soil surface conditions before rainfall (soil aggregates,soil moisture, soil particle size,etc.),and type of water flow (thin layer flow or rill flow)(Chaplot and Lee,2OO3;Defersha et al.,2O11; Deviren et al., 2019;Wang et al.，2O21). For an in-depth understanding of the distribution characteristics and transport mechanism of eroded sediment particles，it is necessary to clarify the roles and interrelationships of various factors involved in the erosion process. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Eroded sediment is composed of original particles and aggregates (Martinez-Mena et al., 2002; Shi et al., 2012;Wang et al.,2015；Deviren et al.，2019).Distributed soil particle (commonly known as effective particle distribution） can reflect the sediment transport more accurately (Slattery and Burt,1997; Shi et al.,2O13;Wu et al.,2O2O). Numerous studies have shown that aggregates are the dominant factor for effective particles，and most of the eroded sediment particles are transported in the form of agglomerates,rather than as original particles (Wang et al., 2015; Hao et al.,2019; Wu et al.,2020). During slope erosion process,the composition of eroded sediment particles is closely related to the water flow state (Asadi et al.,2O11; Wang et al., 2014). Generally, the sorting characteristics of sediment particles are affected by both erosion power and source supply (Asadi et al., 2011; Shi et al.,2012; Kiani-Harchegani et al., 2018). The erosion rate of coarse particles is limited by the carrying capacity of slope runoff, while that of fine particles is limited by the sediment supply (Durnford et al., 1993; Malam Issa et al., 2006; Asadi et al.,2011; Wang et al., 2O15). When erosion power and source supply are no longer the limiting factors,the sediment particles lose their \"sortability\" during erosion process (Durnford et al.,1993; Wang et al., 2O15). At present, research studies showed that the early soil water content, soil properties,and exogenous forces may affect the distribution of eroded sediment particles, but the effects of freeze-thaw and meltwater compound on soil particle size distribution are not well studied. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In cold regions, the runoff from melting ice and snow accounts for $66 \\%$ of the total runoff,and is an important driving force for soil loss (Ragetli et al.,2O15; Wang et al.,202O). Freeze-thaw cycles can produce strong soil erosion through the action of melting water,wind,and gravity (Wang et al.,2014b; Wang et al.,2O17; Rui et al., 2018). The essence of soil frozen and thawing is the frozen and thawing process of water in the soil (Muller-Lupp and Bolter, 2OO3; Li and Fan, 2014; Wang et al., 2019). During this process, water transforms into liquid and solid phases in cycles,and the difference between water and ice densities causes the soil water to change phase (Yi et al.,2O14; Wang et al.,2O19). Volume expansion and contraction occur, which in turn lead to the interaction between soil frost heave and thawing settlement, causing the modification of soil physical property (Kamei et al., 2O12; Li and Fan,2014).At the same time,freeze-thaw cycles can destroy the cohesive force existing between soil particles,resulting in their easy separation (Oztas and Fayetorbay,2003; Li and Fan,2014; Wang et al.,2014b; Musa et al., 2016; Xiao et al.，2O19). Generally，the sorting characteristics of eroded sediment particles under hydraulic and freeze-thaw forces,are different from those under a single erosive force. Therefore, freeze-thaw cycles destroy the soil structure and change the properties of soil porosity， water content, and aggregates. Eroded sediment particles with a weak soil aggregate stability usually show a unimodal distribution, while those with a strong soil aggregate stability show a bimodal distribution (Legout et al.，2Oo5).Due to the differences in the fragmentation mechanism of various soil aggregate types,eroded sediment particles are enriched in particles with sizes between 20.0 and $2 0 0 . 0 ~ { \\mu \\mathrm { m } }$ ，and possibly between 4.3 and $1 3 . 2 ~ { \\mu \\mathrm { m } }$ (Pieri et al., 2009). Zhang et al. (2017) found that clay and coarse silt are more easily transported on frozen than on unfrozen slopes,because in the former the runoff erosivity is relatively small,and unfrozen slopes have a better sorting of eroded sediment particles. On frozen slopes,the frozen soils lead to the low infiltration capacity (Sharratt et al.，2OoO),rapid collection of slope runoff, large runoff erosion power, and strong transport capacity of runoff to coarse particles (Asadi et al., 2O11; Wang et al., 2017；Zhang et al.， 2O17). Therefore，during rainfall events，the thawing of frozen soils continuously releases particles, resulting in a relatively stable composition of sediment particles in the runoff. Frozen soils affect the sorting of sediment particles eroded by runoff and change their sorting characteristics to a certain extent. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Freeze-thaw cycles affect the physical properties of soils,and runoff scouring is one of the driving forces of soil stripping and transportation. The combined action of freeze-thaw and runoff has an important impact on the separation, transportation,and deposition of soil particles.The interaction between freeze-thaw and water erosion destroys soil aggregates， affectsthe redistribution of original particles in composite erosion,and further affects the transport of eroded sediment particles.Therefore,eroded particles present different transport forms in different particle sizes. In this study,indoor simulated meltwater erosion experiments under different runoff rates and frozen conditions were designed to explore sediment sorting characteristics during erosion process and reveal the erosion and different sediment particle transport mechanisms. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The indoor simulated meltwater erosion experiments were carried out at the State Key Laboratory of Ecological Water Conservancy， Xi'an University of Technology, northwestern China. Three slope states were established: unfrozen,shallow-thawed,and frozen slopes with three runoff rates of 1, 2, and $4 \\mathrm { L } / \\mathrm { m i n }$ . The experiments for each group were performed in three replicates. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Experimental materials ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The soil samples to be used in the experiment were collected within a $\\textstyle 0 - 3 0 \\ \\mathrm { c m }$ surface layer, and were air-dried and passed through a $5 \\mathrm { - m m }$ sieve to remove stones,plants,and other debris.A Mastersizer 2OOO particle size analyzer (Malvern Instruments,Worcestershire, UK) was used to measure the mechanical composition of soil samples，which was reported as follows: $0 . 1 7 \\%$ $( \\pm 0 . 0 3 \\% )$ clay particles, $6 4 . 2 3 \\%$ （204号 $( \\pm 0 . 4 3 \\% )$ silt particles,and $3 5 . 6 0 \\%$ （204号 $( \\pm 0 . 2 4 \\% )$ sand particles. The thickness of the soil layer was $0 . 1 5 \\mathrm { ~ m ~ }$ ， the soil moisture content was maintained at about $1 5 \\%$ and the bulk density at about $1 . 2 5 ~ \\mathrm { g } / \\mathrm { c m } ^ { 3 }$ . First, a part of the filled soil tank was placed in a laboratory at a room temperature set between $5 ^ { \\circ } \\mathrm { C }$ and $8 ^ { \\circ } \\mathrm { C }$ to prepare the unfrozen slope experiment; then,a second part of the soil tank was placed into an ultra-low temperature freezer, and was kept at $- 2 2 ^ { \\circ } \\mathbf { C } - - 2 0 ^ { \\circ } \\mathbf { C }$ for $2 4 \\mathrm { ~ h ~ }$ until it was completely frozen in preparation for the frozen slope experiment; finally, a part of the completely frozen soils was placed on the $1 5 ^ { \\circ }$ slope and melted at room temperature. During the melting process,a probe was used to test insert on the upper,middle,and lower parts of the slope every $1 5 ~ \\mathrm { m i n }$ until the melting depth reached $3 \\ \\mathrm { c m }$ (upper melting) for preparing the condition of shallow-thawed slope test. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Experimental design ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A schematic diagram of the simulation device structure is shown in Figure 1,and it includes the runoff collection device,soil tank,water tank, steady flow tank,and water supply device. A wooden soil trough ( $2 . 0 \\mathrm { ~ m ~ }$ in length, $0 . 2 \\mathrm { ~ m ~ }$ in width,and $0 . 2 \\mathrm { ~ m ~ }$ in depth） was placed on a $1 5 ^ { \\circ }$ （204号 slope,and the water tank ( $2 . 0 0 \\mathrm { m }$ in length, $0 . 2 0 \\mathrm { m }$ in width,and $0 . 0 5 \\mathrm { ~ m ~ }$ in depth) was connected to the top of the soil tank.In order to avoid the influence of the tank's side wall on the tests,we designed the soil surface to be low in the center and high on the two sides.The total length of the experimental slope was $4 \\mathrm { ~ m ~ }$ to ensure that the water flow reached a stable state during the experiment. The flow was adjusted by a valve, which was divided into two parts by an orifice plate. A drainage hole was set on the upper part of the water tower to ensure water pressure stability during the experiment. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In each set of experiment, when the erosion depth of any part of the soil trench reached $0 . 1 5 \\mathrm { ~ m ~ }$ the test is stopped. Once the discharge scouring flow was calibrated, the experiment could be started.After the flow production was activated at the slope outlet, the muddy water was here collected every minute.A small amount of muddy water samples should be collected with a wide mouth bottle, which is known volume and number,and then all the remaining muddy water was collected with a plastic bucket of uniform specification. The sediment concentration of runoff per minute was measured using the drying method,and the slope erosion per minute was obtained by multiplying the sediment concentration of runoff by the total muddy water volume. The discharge runoff per minute was obtained by subtracting the sediment volume from the total muddy water volume.Based on the slope bottom,we divided the flow velocity into five sections along the slope surface of the experimental soil trough. Flow measurements were conducted along the following five slope sections: 0.0-0.5 (D1),0.5-1.0 (D2),1.0-1.5 (D3),1.5-2.0 (D4),and 2.0-2.5 m (D5). The $\\mathrm { K M n O } _ { 4 }$ dye tracer method was used to measure the surface runoff flow velocity in each slope section of the test soil through slope in different periods,and the average runoff flow velocity in each slope section was obtained by multiplying the surface flow velocity by the correction coefficient (0.75). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9338cba0eb1f549324cdfad5540ec865ef6e368cd2627d0dfe51afb85dee722.jpg",
+        "img_caption": [
+            "Fig.1Schematic diagram of the experimental device "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Data analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 Enrichment rate (ER) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We evaluated the enrichment status of eroded sediment particles based on ER.After dispersion, ER is defined as the ratio of particle content of a particle size of eroded sediment to that of undisturbed soil. When $\\mathrm { E R } { > } 1$ , the content of this particle size in eroded sediment is higher than that in undisturbed soil,and is enriched; when $\\mathrm { E R } { = } 1$ ，the content of this particle size in eroded sediment is similar to that in undisturbed soil,and there is no obvious erosion or deposition; when ER<1,the content of this particle size in the eroded sediment is less than that in the undisturbed soil, which means that this particle size is deposited during erosion process. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 Sediment transport mechanisms ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The particle size content is divided into 1O particle sizes and equals to $10 \\%$ . When the content of a certain particle size in the eroded sediment is less than $10 \\%$ , theparticles of this size are easily eroded and transported during erosion process；in contrast, when it is greater than $10 \\%$ ，the particles of this size are easily deposited during erosion process.Moss et al.(1979) divided the transport of eroded sediment particles into 3 modes: suspended load,saltation load,and rolling load,based on the fact that the difference in terms of transport mechanism and modes corresponds to particles of a specific size range. Researchers classified the suspension/saltation and rolling transport mechanisms based on the size class with the lowest sediment transport (LST) value. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1Effect of freeze-thaw water erosion on sediment particle content ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The eroded sediment particles were divided into three levels: clay $( < 0 . 0 0 2 \\ \\mathrm { m m } )$ , silt (0.002-0.005 mm)，and sand $( > 0 . 0 5 0 ~ \\mathrm { \\ m m } )$ ．The cumulative percentage of soil particle was ordered by silt>sand>clay from Figures 2,3,and 4 on unfrozen, shallow-thawed,and frozen slopes with different runoff rates. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "88 (a) Unfrozen slope 二 (c) Frozen slope 100 88076050430200 Clay Silt 0 0 Sand   \n234567890 3 234567890 23 1234567890n2345   \nScouring time (min) Scouring time (min) Scouring time (min)   \n( rreee eeest (a) Unfrozen slope (b) Shallow-thawed slope (c)Frozen slope   \n0008760504030201 008076050430201 10087605040302010 1Clay Silt Sand   \n0 123456789012345 0 1234567890123 0 234567890Ⅱ2B   \nScouring time (min) Scouring time (min) Scouring time (min) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(b) Shallow-thawed slope 100 8876500302000 Clay 1 Silt Sand 234567890 2345 123456789 123456789 Scouring time (min) Scouring time (min) Scouring time (min) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Clay content in original soils was $0 . 1 7 \\%$ . At $1 ~ \\mathrm { L / m i n }$ runoff rate,clay content of eroded sediment on unfrozen, shallow-thawed,and frozen slopes increased by $0 . 1 3 \\%$ ， $0 . 1 2 \\%$ ,and $0 . 1 3 \\%$ respectively. At $2 ~ \\mathrm { L / m i n }$ runoff rate,they increased by $0 . 1 4 \\%$ ， $0 . 0 6 \\%$ ，and $0 . 0 8 \\%$ ， respectively. And they increased by $0 . 0 5 \\%$ ， $0 . 1 0 \\%$ ，and $0 . 1 0 \\%$ ，respectively,at $4 ~ \\mathrm { L / m i n }$ runoff rate.Smaller increments at high runoff rate indicate that only a small portion of clay particles dispersed during erosion process, and that clay particles in the form of sediment aggregates were still predominant at the same runoff rate. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Silt content in original soils was $6 4 . 2 3 \\%$ .At $1 ~ \\mathrm { L / m i n }$ runoff rate，silt content of eroded sediment under unfrozen, shallow-thawed,and frozen slopes increased by $9 . 4 3 \\%$ ， $0 . 4 7 \\%$ ，and $8 . 6 4 \\%$ ，respectively. At $2 ~ \\mathrm { L / m i n }$ runoff rate，they increased by $9 . 6 9 \\%$ ， $6 . 0 0 \\%$ ，and $7 . 0 8 \\%$ ， respectively. At $4 ~ \\mathrm { L / m i n }$ runoff rate,they increased by $1 . 7 2 \\%$ ， $7 . 0 0 \\%$ ，and $6 . 4 3 \\%$ ，respectively, which had the similar trend with that of clay. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Sand content in original soils was $3 5 . 6 0 \\%$ . At $1 ~ \\mathrm { L / m i n }$ runoff rate,sand content of eroded sediment under unfrozen, shallow-thawed,and frozen slopes decreased by $9 . 5 7 \\%$ ， $0 . 4 8 \\%$ ，and $8 . 7 6 \\%$ ，respectively. At $2 ~ \\mathrm { L / m i n }$ runoff rate,they decreased by $9 . 8 4 \\%$ ， $6 . 0 6 \\%$ ，and $7 . 1 6 \\%$ respectively. At $4 ~ \\mathrm { L / m i n }$ runoff rate,they decreased by $1 . 7 7 \\%$ ， $7 . 0 9 \\%$ ，and $6 . 5 3 \\%$ ，respectively. Through $t$ -test,we found that under unfrozen and frozen slopes at different runoff rates,the changes of clay, silt,and sand content with scouring duration were significantly different from original values $( P { < } 0 . 0 1 )$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 Effect of freeze-thaw water erosion on particle enrichment in eroded sediment ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "By analyzing ER of sediment particles,it is possible to understand their sortability during erosion process.The reason for this is that the loss of clay and silt particles causes the soil on the slope to coarsen,while the capacity of runoff to transport sand particles is limited. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "On unfrozen slope,no significant differences were detected between ERs at 1 and $2 ~ \\mathrm { L / m i n }$ runoff rates $( P { > } 0 . 0 5 )$ ，while at $4 ~ \\mathrm { L / m i n }$ runoff rate,significantly different was found $( P { < } 0 . 0 5 )$ (Table 2). At $4 ~ \\mathrm { L / m i n }$ runoff rate,the minimum ERs of clay and silt were detected,and the maximum ER of sand was observed (Table 2). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "On shallow-thawed slope,ERs of clay particles differed significantly at different runoff rates $( P { < } 0 . 0 5 )$ ,and ER was the highest at $4 ~ \\mathrm { L / m i n }$ runoff rate (Table 2).No significant difference was detected between ERs of silt particles at 2 and $4 ~ \\mathrm { L / m i n }$ runoff rates $( P { > } 0 . 0 5 )$ ，while at $1 ~ \\mathrm { L / m i n }$ runoff rate,ER was significantly different $( P { < } 0 . 0 5 )$ ，and the minimum ER was observed (Table 2). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "On frozen slope, no significant differences were detected among ERs of clay, silt,and sand at different runoff rates $( P { > } 0 . 0 5 )$ ，which indicates that on this slope，the runoff rate has no significant effect on the enrichment of these sediment types (Table 2).In terms of ER of sand, the single-factor variance test did not show any significant difference at 2 and $4 ~ \\mathrm { L / m i n }$ runoff rates $( P { > } 0 . 0 5 )$ ，while ER of sand was significantly different at $1 ~ \\mathrm { L / m i n }$ runoff rate $( P { < } 0 . 0 5 )$ ，and the minimum ER was observed (Table 2). ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/58bf8a0efcad5cc2dba87475d73ba11ebbca37fcaa663cb6fa918458cacaa3f8.jpg",
+        "table_caption": [
+            "Table1Average particle contents of clay,silt,and sand on unfrozen,shallow-thawed,and frozen slopes at different runoff rates "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Runfrate</td><td rowspan=\"2\">Slope type</td><td colspan=\"3\"></td></tr><tr><td>Clay</td><td>Mean vilt ()</td><td>Sand</td></tr><tr><td rowspan=\"3\">1</td><td>Unfrozen</td><td>0.30</td><td>73.66</td><td>26.04</td></tr><tr><td>Shallow-thawed</td><td>0.19</td><td>64.70</td><td>35.12</td></tr><tr><td>Frozen</td><td>0.30</td><td>72.87</td><td>26.84</td></tr><tr><td rowspan=\"3\">2</td><td>Unfrozen</td><td>0.31</td><td>73.92</td><td>25.76</td></tr><tr><td>Shallow-thawed</td><td>0.23</td><td>70.23</td><td>29.54</td></tr><tr><td>Frozen</td><td>0.25</td><td>71.31</td><td>28.44</td></tr><tr><td rowspan=\"3\">4</td><td>Unfrozen</td><td>0.22</td><td>65.95</td><td>33.83</td></tr><tr><td>Shallow-thawed</td><td>0.27</td><td>71.22</td><td>28.51</td></tr><tr><td>Frozen</td><td>0.27</td><td>70.66</td><td>29.07</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/7278fe7744eb4e377d9d570608d626813d277be205645492392a5ee1a497579d.jpg",
+        "table_caption": [
+            "Table 2Enrichmentrate(ER)of clay,silt,and sand onunfrozen,shalow-thawed,and frozen slopesatdiferent runoff rates "
+        ],
+        "table_footnote": [
+            "Note:Difrentlowercase letters indicate significant diffrences among diferentslope types within thesamerunoffrateat $P { < } 0 . 0 5$ level, anddierent uppercase leters indicate significant differencesamong differentrunoffrates within the same slope type at $P { < } 0 . 0 5$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Runofrate</td><td rowspan=\"2\">Slope type</td><td colspan=\"3\"></td></tr><tr><td>Clay</td><td>ER vilte</td><td>Sand</td></tr><tr><td rowspan=\"3\">1</td><td>Unfrozen</td><td>1.75Aa</td><td>1.15Aa</td><td>0.73Bb</td></tr><tr><td>Shallow-thawed</td><td>1.08Cb</td><td>1.01Bb</td><td>0.99Aa</td></tr><tr><td>Frozen</td><td>1.73Aa</td><td>1.13Aa</td><td>0.75Ab</td></tr><tr><td rowspan=\"3\">2</td><td>Unfrozen</td><td>1.90Aa</td><td>1.15Aa</td><td>0.72Bb</td></tr><tr><td>Shallow-thawed</td><td>1.33Bb</td><td>1.09Ab</td><td>0.83Ba</td></tr><tr><td>Frozen</td><td>1.39Ab</td><td>1.10Ab</td><td>0.82Aa</td></tr><tr><td rowspan=\"3\">4</td><td>Unfrozen</td><td>1.25Bb</td><td>1.03Bb</td><td>0.95Aa</td></tr><tr><td>Shallow-thawed</td><td>1.60Aa</td><td>1.11Aa</td><td>0.80Bb</td></tr><tr><td>Frozen</td><td>1.59Aa</td><td>1.10Aa</td><td>0.82Ab</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "At 1 and $2 ~ \\mathrm { L / m i n }$ runoff rates, the order of ERs of clay and silt was unfrozen slope>frozen slope>shallow-thawed slope,and that of sand was shallow-thawed slope>frozen slope>unfrozen slope. At $4 ~ \\mathrm { L / m i n }$ runoff rate, the order of ERs of clay and silt was shallow-thawed slope>frozen slope>unfrozen slope, while that of sand was unfrozen slope>frozen slope>shallow-thawed slope. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3 Effect of freeze-thaw water erosion on the transport of eroded sediment particles ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The percentages of 1O classes of grain-size particles in eroded sediments under different slope types,times(3,6, 9,and $1 5 ~ \\mathrm { m i n } \\$ ),and runoff rates are shown in Figures 5,6,and 7.The dotted line represents the particle size content when the 1O particle sizes of original soils are equal to $10 \\%$ . Figures 5-7 showed that the percentage of particles smaller than $0 . 0 2 7 \\mathrm { m m }$ was greater than $10 \\%$ ， indicating that particles smaller than this size were preferentially transported， and they accounted for about $40 \\%$ of the total particle percentage.The difference in the distribution of eroded sediment in different particle sizes is the result of the performance of sediment transport ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) Unfrozen slope (b) Shallow-thawed slope (c) Frozen slope 8 2421 2421 3 min 18 18 9min 1522963 15 15 15min 10% line 12 12 9 9 6 6 3 3 0 0 0 12345678910 12345678910 12345678910 Particle size (mm) Particle size (mm) Particle size (mm) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) Unfrozen slope (b) Shallow-thawed slope (c) Frozen slope s 2421 2421 2421 3 min 18 18 18 9min 1512963 15 15 15min 29 12 -- 10% line 9 6 6 3 3 0 0 1 0 3 1 2345678910 12345678910 1 2345678910 Particle size (mm) Particle size (mm) Particle size (mm) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) Unfrozen slope (b) Shallow-thawed slope (c) Frozen slope   \n24 24 24 21 21 3min   \n18 18 18 9min   \n15 15 15 . 10% line   \n2 12 12   \n9 9 9   \n6 6 6   \n3 3 3   \n0 0 0 12345678910 12345678910 12345678910 Particle size (mm) Particle size (mm) Particle size (mm) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "mechanism in the erosion particles.During erosion process,sediment particles present unimodal and multimodal distributions. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "On unfrozen and frozen slopes,the sediment particles with the LST of $0 . 0 6 6 \\ \\mathrm { m m }$ presented a bimodal distribution during erosion process, indicating that the eroded sediment particles smaller than $0 . 0 6 6 ~ \\mathrm { { m m } }$ were mainly transported via suspension/saltation mode,while those larger than $0 . 0 6 6 \\ \\mathrm { m m }$ were mainly transported by rolling. The first and second peak particle sizes of the unfrozen and frozen slopes were O.020 and $0 . 0 8 3 \\mathrm { m m }$ ,respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "On shallow-thawed slope,the sediment particles showed a bimodal distribution during erosion process,and the LST was $0 . 0 3 3 \\ \\mathrm { m m }$ at $1 ~ \\mathrm { L / m i n }$ runoff rate (Fig. 5), indicating that the eroded sediment particles smaller than $0 . 0 3 3 \\mathrm { \\ m m }$ were mainly transported via suspension/ saltation, while those larger than $0 . 0 3 3 ~ \\mathrm { m m }$ were mainly transported by rolling.The first and second peak particle sizes were O.O11 and $0 . 1 4 9 \\mathrm { m m }$ , respectively. At $2 ~ \\mathrm { L / m i n }$ runoff rate, the LST was 0.056 mm (Fig. 6). And the first and second peak particle sizes were O.O2O and $0 . 0 6 6 \\mathrm { m m }$ ,respectively. At $4 ~ \\mathrm { L / m i n }$ runoff rate, the LST was $0 . 0 6 6 \\ \\mathrm { m m }$ (Fig.7),and the first and second peak particle sizes were 0.020 and $0 . 0 8 3 \\mathrm { m m }$ ,respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Relative contribution percentages of suspension/saltation and roling transportation modes on different slopes at various runoff rates are shown in Table 3.More than $60 \\%$ of the sediment particles were transported via suspension/saltation. For the unfrozen and frozen slopes,as runoff rate increased, the relative contribution percentage of suspension/saltation transportation showed a decreasing trend. For the shallow-thawed slope,an opposite trend was shown,where,with the increasing runoff rate， the relative contribution percentage of suspension load/saltation transportation also increased. This is mainly due to the double-layer structure of shallow-thawed slope.The particle stability is enhanced due to thawing influence. With the increasing runoff rate, the damage to the particle is enhanced, so that fine particles transported by suspension/saltation transportation can be supplemented to a certain extent from crushed particle. This increased the relative contribution percentage of suspension/jump mass transport. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/a50ce02c0a7da9be6b0303dd74caff27fab8cb253b06ff86c7f4c965313ad464.jpg",
+        "table_caption": [
+            "Table3Relative contribution percentage of suspension/saltation and rolling transportation modes in soil sediments "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Runofrate</td><td>Slope type</td><td>Suspension/saltation</td><td>per Rolig (%)</td></tr><tr><td rowspan=\"3\">1</td><td>Unfrozen</td><td>86.54</td><td>13.46</td></tr><tr><td>Shallow-thawed</td><td>69.24</td><td>30.76</td></tr><tr><td>Frozen</td><td>87.44</td><td>12.56</td></tr><tr><td rowspan=\"3\">2</td><td>Unfrozen</td><td>86.31</td><td>13.69</td></tr><tr><td>Shallow-thawed</td><td>79.78</td><td>20.22</td></tr><tr><td>Frozen</td><td>83.75</td><td>16.25</td></tr><tr><td rowspan=\"3\">4</td><td>Unfrozen</td><td>83.58</td><td>16.42</td></tr><tr><td>Shallow-thawed</td><td>84.89</td><td>15.11</td></tr><tr><td>Frozen</td><td>86.07</td><td>13.93</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1Accumulation of sediment particles during erosion process ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The above analysis showed that, in various scenarios,before and after erosion, the variation of clay particles is the smallest,while silt particles showed an increasing trend,and sand particles showed a decreasing trend, indicating that soil particles caused by runof is mainly represented by the conversion between silt and sand (Sigrun and Lillian,2Oo6).At 1 and $2 \\mathrm { L } / \\mathrm { m i n }$ runoff rates, the runoff erosion on unfrozen slope presented a strong separation of silt particles. At the beginning of scouring,the surface layer of floating soil was stripped and sorted.As the scouring continued, rills were gradually formed, which increased the runof energy and released soil aggregates, so that more sediment particles were sorted and transported (Wang et al, 2O14a; Behzadfar et al., 2017).Due to the limited runof energy, runoff had a weaker ability to transport sand particles of larger sizes, but it was greatly able to sort silt particles. On shallow-thawed slopes, due to the freezing and thawing of shallow areas, a certain degree of thawing generally occurs, and it limits the sorting of aggregates in the early scouring stages. The soil on frozen slopes enhances the cohesive force between particles when the soil water undergoes a phase change and solidifies, and its aggregates are not easily sorted (Kamei et al.， 2O12；Dagesse，2O13).Due to the poor permeability of frozen slopes,a larger runoff is here easily formed.Under its action,rills are quickly formed on the slopes, producing a strong effect on the sorting of aggregates; then, as the runoff stabilizes,the subsequent sorting appears a relatively stable trend. In the present study, the coefficients of variation of clay,silt,and sand particles were the smallest on shallow-thawed and frozen slopes at $4 ~ \\mathrm { L / m i n }$ runoff rate, indicating that, as runoff rate increased, the sorting process on these two slopes tended to be stable(Wang et al.,2O2O).This result also showed that the runoff carrying capacity was strong, and more and more particles were sorted and removed from the slope with a larger runoff rate. As the runoff carrying capacity increased, enrichment rates of clay and silt increased, while that of sand decreased, which was opposite to that occurred on unfrozen slope. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Young (198O) found that if the silt content in original soils exceeds $3 3 . 0 0 \\%$ ,a large amount of silt willbe presented in the eroded sediment. In this experiment, silt content in original soils was $6 4 . 2 3 \\%$ ，and the increase of silt particles in the eroded sediment was relatively obvious under various scenarios,which is consistent with the results reported in previous studies (Rienzi et al., 2013). Under various situations in this experiment, the coefficient of variation of silt particles was smaller than that of clay particles (Table 4),which indicates that the variation of the former was not significantly affected by freeze-thaw effects.The results showed that the sorting of sediment particles depended not only on the physical properties of tested soils,but also on the runoff energy required for the sorting.Therefore,the diference in the distribution characteristics of eroded sediment is comprehensively affected by the different combinations of runoff energy and soil characteristics. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/c829ac86416b844b1296436c72eb7ac97a89cf364c1d14b7f21134653c4513d9.jpg",
+        "table_caption": [
+            "Table 4Coeficient of variation (CV)of clay,silt,and sand particles onunfrozen,shallow-thawed,and frozen slopesatdifferent runoff rates "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Runoffratio</td><td rowspan=\"2\">Slope type</td><td colspan=\"3\"></td></tr><tr><td>Clay</td><td>cv(%)</td><td>Sand</td></tr><tr><td rowspan=\"3\">1</td><td>Unfrozen</td><td>22.61</td><td>7.88</td><td>28.71</td></tr><tr><td>Shallow-thawed</td><td>15.69</td><td>8.48</td><td>15.32</td></tr><tr><td>Frozen</td><td>26.50</td><td>9.61</td><td>41.26</td></tr><tr><td rowspan=\"3\">2</td><td>Unfrozen</td><td>7.69</td><td>2.64</td><td>11.43</td></tr><tr><td>Shallow-thawed</td><td>8.45</td><td>3.52</td><td>12.12</td></tr><tr><td>Frozen</td><td>11.21</td><td>4.43</td><td>11.45</td></tr><tr><td rowspan=\"3\">4</td><td>Unfrozen</td><td>16.22</td><td>8.20</td><td>41.24</td></tr><tr><td>Shallow-thawed</td><td>7.01</td><td>2.77</td><td>9.33</td></tr><tr><td>Frozen</td><td>10.32</td><td>4.21</td><td>12.61</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2Transport mechanism of sediment particles during erosion process ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The results showed that particles smaller than $0 . 0 2 7 \\ \\mathrm { m m }$ were preferentially transported under different flow rates and freeze-thaw conditions.The enrichment rate of fine particles is high in the eroded sediment, which is mainly due to the fact that the dissipation of aggregates caused by the rapid infiltration of runoff leads to a large number of fragmentations,resulting in the release of more fine particles，especially in the initial stages of erosion (Oztas and Fayetorbay，2003; Dagesse,2O13). Wang et al.,(2015) found that the lower the clay content in the soil, the weaker the sorting of eroded sediment. Compared with unfrozen and frozen slopes at 1 and $2 ~ \\mathrm { L / m i n }$ runoff rates, the upper limit for particle sizes transported by suspension/saltation on the shallow-thawed slope was smaller. This may be due to the thawing sedimentation of freeze-thaw, which causes the condensation of fine particles with each other at wet areas to form large particles, and condensation and falling. Large particles (complex particles） were dispersed into original small particles (single particles) after ultrasonic dispersion via laser particle sizer, resulting in the small LST value of shallow-thawed slope.For shallow-thawed slope,as the runoff rate increased, the LST value also gradually increased, indicating that the upper limit of particle size that can be transported via suspension/saltation presented a slightly increasing trend. This is explained by the fact that the increase in runoff led to the modification of transportation mode from rolling to suspension/saltation for some of the particles,which is consistent with the results reported in Asadi et al. (2O11).Loch and Donnollan (1983) found that the range of particle size for the transition from suspension to saltation is $0 . 1 2 5 { - } 0 . 2 5 0 ~ \\mathrm { m m }$ 、Asadi et al. (2011) pointed out that the particle size range corresponding to the lowest sediment transport rate for alluvial sand is $0 . 1 8 0 { - } 0 . 3 8 0 ~ \\mathrm { m m }$ 、 In addition，Wang et al. (2O15） researched the sorting characteristics of soil particles under different soil qualities through simulated rainfall experiments,and found that loess soil,black loess soil，loess soil from Ansai District，and loess soil from Suide County, corresponded to the diameters at the LST value，with the following ranges: O.O71-0.117, 0.068-0.106, 0.053-0.067, and $> 0 . 0 6 1 \\ \\mathrm { m m }$ ,respectively. The present study used loessal soil and the particle size at the lowest sediment transport rate ranged from O.056 to $0 . 0 6 6 \\mathrm { m m }$ ，which is in line with the results of Wang et al. (2015). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "At 1 and $2 ~ \\mathrm { L / m i n }$ runoff rates,the relative contribution percentage of suspension/saltation transport on different slope types was frozen slope>unfrozen slope>shallow-thawed slope. On unfrozen and frozen slopes,more than $8 6 \\%$ of particles are generally transported by suspension/ saltation. As permeability is weaker on frozen than on unfrozen slopes,the actual runof rate is relatively large，while the runoff energy consumption is relatively small，so the relative contribution percentage of suspension/saltation transportation is large. In the present study, at 4 $\\scriptstyle { \\mathrm { L } } / { \\mathrm { m i n } }$ runoff rate, the relative contribution percentage of suspension/saltation transport on different slope types was frozen slope>shallow-thawed slope>unfrozen slope. At this runoff rate, the erosion modulus of shallow-thawed slope was the largest, under the same runoff energy consumption, indicating that greater damages are produced to aggregates at this runof rate compared with those of 1 and $2 \\mathrm { L } / \\mathrm { m i n }$ runoff rates. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In this study， the influence of freeze-thaw water erosion on the transport and sorting characteristics of eroded sediment particles was investigated,and the following main conclusions were drawn. The results showed that the order of sediment particle content was silt>sand>clay during erosion process. The clay and silt particles were enrichment. The sediment particles transported in the form of suspension/saltation was more than $6 9 . 2 4 \\%$ . Sediment particles smaller than $0 . 0 2 7 ~ \\mathrm { { m m } }$ were preferentially transported. On shallow-thawed slope,the upper limit of the particle size transported by suspension/saltation also increased with the increasing runoff rate. The relative contribution percentage of suspension/saltation on unfrozen and frozen slopes showed a decreasing trend with the increasing runoff rate,while that on shallow-thawed slope showed an opposite trend. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Due to climate and soil conditions in the loess hilly-gully region of Loess Plateau, it is essential and practical to analyze freeze-thaw and meltwater compound erosion in the long term. This study enhances our understanding of the compound erosion mechanisms.Through the study, we found the main sorted and transported sediment particles and the transport mode of those particles under different freeze-thaw and runoff conditions,which provides reference value for erosion model development. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This research was funded bythe National Natural Science Foundation of China (U20402O8,52009104,52079106, 42107087）and the Shaanxi Province Innovation Talent Promotion Plan Project Technology Innovation Team (2020TD-023). In addition,we thank the reviewers for their useful comments and suggestions. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Asadi H,Moussavi A,GhadiriH,etal.,2O11.Flow-drivensoilerosionprocessesandthesizeselectivityofsedimentualof Hydrology,406(1-2): 73-81.   \nBehzadfar M,Sadeghi SHR,Khanjani MJ.2O17.Efectsofratesand timeof zeoliteapplicationoncontrollngrunoff generationandsoillossfrom asoilsubjected toafreze-thawcycle.International Soiland Water ConservationResearch, 5(2): 95-101.   \nBlott SJ,Pye K.2Oo1.GRADISTAT:a grain size distributionandstatisticspackage for theanalysis of unconsolidated sediments.Earth Surface Processes and Landforms,26 (11):1237-1248.   \nBlott SJ,PyemK.2O06.Particlesize distributionanalysisof sand-sizedparticlesbylaserdifraction:anexperimental investigation of instrument sensitivity and the efects of particle shape.Sedimentology,53(3): 671-685.   \nChaplot V,LeBissonnaisYOo3.Runofffeaturesforinterillerosionatdierentrainfallintensities，slopelengths,and gradients in an agricultural loessial hilslope. Soil Science Society of America Journal, 67(3): 844-851.   \nDagesseDF2013.Freezing cycle effectson water stabilityof soil aggregates.Canadian Journal of Soil Science,93(4): 473-483.   \nDefersha MB,Quraishi S,MelesseA.20l1.Theeffectof slope steepness andantecedent moisture contentoninterillerosion, runoff,and sediment sizedistributionin the highlandsofEthiopia.Hydrology Earth System Science,15(7):2367-2375.   \nDeviren Saygin S,Erpul G2019.Modelingaggregate size distributionof eroded sedimentresulting fromrain-splash and raindrop impacted flow processes.International Journal of Sediment Research,34(2):166-177.   \nDing W,HuangC.20l7.Effectsofsoilsurfaceroughnessoninterillerosio proceesandsediment particle sizedistribution. Geomorphology,295: 801-810.   \nDurnfordD,KingJP.1993.Experimentalstudyofprocessesandparticle-sizedistributionsoferodedsoil.JournalofIrigation and Drainage Engineering,119(2): 383-398.   \nHaoHX,WangJGGuoZL,etal.2019.Watererosio procesesanddynamicchangesofsedimentsizedistributionuderthe combined effects of rainfall and overland flow. CATENA,173:494-504.   \nIssa OM,BissoisYL,PlanchoO,etal.6.Soildetachmentandtrasportonfieldandlaborator-saleinteileas: erosion processes and the size-selectivity oferoded sediment.Earth Surface Processes and Landforms,31(8): 929-939.   \nKiani-Harchegani M,Sadeghi $s \\textsc { H }$ ，Asadi H. 2O18.Comparing grain size distribution of sediment and original soil under raindrop detachment andraindrop-induced andflow transport mechanism.Hydrological Sciences Journal,63(2):312-323.   \nKamei T,AhmedA,Shibi T.201.Effectoffreze-thawcycleson durabilityand strengthof verysoft claysoil stabilized with recycled Bassanite.Cold Regions Science and Technology, 82: 124-129.   \nLegout C,Leguedois SBissonnaisY.2Oo5.Aggregate breakdowndynamicsunderrainfallcompared withaggregatestability measurements.European Journal of Soil Science,56(2): 225-238.   \nLi GY,Fan HM.2O14.Efectoffreze-thawonwaterstabilityofaggregatesinablack soilof Northeast China.Pedosphere, 24(2): 285-290.   \nLoch RJ,Donnollan TE.1983.Field rainfallsimulator studieson twoclaysoilsof the Darling Downs,Queensland:I. Aggregate breakdown,sediment properties and soil erodibility. Soil Research,21(1): 47-58.   \nMalamIsaOLeBissoaisY,PlanchonO,etalO6.Soildetachmentandtransportonfield-andlaboratory-saleiterill areas:erosion processesand the size-selectivityof eroded sediment.Earth Surface Processes and Landforms,31(8): 929-939.   \nMartinez-Mena M,CastilloV,AlbaladejoJ2O02.Relationsbetween interillerosion processsandsedimentparticlesize distribution in a semiarid Mediterranean area of SE of Spain. Geomorphology,45(3-4): 261-275.   \nMuler-Lupp W,BolterM.20o3.Effectofsoilfreezingonphysicalandmicrobiological propertiesofpermafrost-affectedsoils. In: Proceedings of the $8 ^ { \\mathrm { t h } }$ International Conference on Permafrost,21-25 July 2OO3,Zurich:AA Balkema Publishers, 801-806.   \nMusa A,YaL,Anzhi W,etal.2O16.Characteristicsofsoil freeze-thawcyclesand their efectsonwaterenrichment nthe rhizosphere.Geoderma,264:132-139.   \nOztas T,Fayetorbay F.2003.Efect offreezing and thawing processes on soil aggregate stability. CATENA,52(1):1-8.   \nPieri L,BitelliM,Hanuskova M.2Oo9.Characteristicsof eroded sediments fromsoil under wheat and maizein the North Italian Apennines. Geoderma,154(1-2): 20-29.   \nRagetli S,PeliciotiF,ImmerzeelWW,etal.2015.UnravelingthehdrologyofaHimalayancatchmentthroughitegation of high resolution in situ dataand remote sensing with an advanced simulation model.Advancein Water Resource,78: 94-111.   \nRienziEA,FoxJF,GroveJH,etalOl3.Interilerosininsoilswithdiferentlanduses:Theineticenergyweingeect on temporal particle size distribution.CATENA,107(8): 130-138.   \nRuiD,JiM,NakamurD,etal.2O18.Experimentalstudyongavitatioalerosionprocessofvegetationslopeunderfreeethaw. Cold Regions Science and Technology,151: 168-178.   \nShi ZH,Fang NF,WuFZ,etal.20l2.Soil erosion processesand sediment sorting assciated withtransport mechanisms on steep slopes.Journal of Hydrology,454-455:123-130.   \nShi ZH,YueBJ,WangL,etal.2Ol3.Efectsof mulchcoverrateon interillerosion processandthesize selectivityof eroded sediment on steep slopes. Soil Science Society of America Journal,77(1): 257-267.   \nSlattryMC,BurtTP.1997.Particle sizecharacteristicsof suspended sedimentinhilsloperunoff andstream flow.Earth Surface Processes and Landforms,22(8): 705-719.   \nWang H,ZuoH,JiaX,etal.2O21.Fullparticlesizedistributioncharacteristicsoflandsurfacesedimentandtheireffecton wind erosion resistance inarid and semiarid regions of Northwest China.Geomorphology，372(6):107458,doi: 10.1016/j.geomorph.2020.107458.   \nWang L,Shi ZHWangJ,et al.2014a.Rainfallkineticenergycontrollingerosion processesandsedimentsortingonsteep hillslopes: Acase study of clay loam soil from the LoessPlateau, China.Journal of Hydrology,512:168-176.   \nWangL,ShiZH,WuGL,etal.2014b.Freeze/thawandsoilmoisture efectsonwinderosion.Geomorphology207:4-148.   \nWangL,ShiZH.2O15.Sizeselectivityof eroded sedimentassociated with soiltextureonstepslopes.SoilScienceocietyof America Journal, 79 (3): 917-929.   \nWangT,LiP,Ren Z,etal.2Ol7.Efectsoffreeze-thawonsoilerosionprocesssandsedimentselectivityundersimulated rainfall. Journal of Arid Land, 9(2): 234-243.   \nWangT,LiP,LiZ,etal.2O19.Theefectsoffreeze-thawprocessonsoil watermigrationindamandslopefarmlandonthe Loess Plateau,China. Science of the Total Environment, 666:721-730.   \nWang T,LiP,LiuY,etal.22o.Experimental investigationoffreze-thawmeltwatercompounderosionandrunoff energy consumption on loessal slopes.CATENA,185:104310,doi: 10.1016/j.catena.2019.104310.   \nWu XL,WeiYJ,CaiCFetal.O2.Efectsoferosion-inducedlanddegadationonefectivesedimentsizecharacteristicsin sheet erosion.CATENA,195:104843,doi:10.1016/j.catena.2020.104843.   \nXiao L,ZhangY,LiP,etal.2019.Effectsoffreeze-thawcyclesnaggregate-assiatedorganiccarbonandglomalelated soil protein in natural succession grassland and Chinese pine forest on the Loess Plateau.Geoderma,334:1-8.   \nYi J,ZhaoY,ShaoMA,etal.2O14.Soilfreezingandthawingprocessesaectedbythediferentlandscapes inthemidle reaches of Heihe River Basin,Gansu,China.Journal of Hydrology,519:1328-1338.   \nYoungRA.1980.Characteristicsof eroded sediment.TransactionsoftheAmericanSocietyofAgriculturalEnginers,23(5): 1139-1146   \nZhang H,LiP,RenZP,etal.20l7.Effectsoffrezingand thawingonsoilerosionandsedimentparticle size.ActaPedologica Sinica,54(4):836-843.(in Chinese) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

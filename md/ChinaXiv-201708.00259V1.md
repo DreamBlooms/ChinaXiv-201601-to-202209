@@ -1,0 +1,131 @@
+# Neutron halo in deformed nuclei
+
+Shan-Gui Zhou, $^ { 1 , 2 , 3 }$ Jie Meng, $^ { 4 , 1 , 2 , 3 }$ P.Ring, $5 , 4 , 2$ and En-Guang Zhao ${ 1 , 2 , 3 , 4 }$
+
+（204号 $^ { 1 }$ Key Laboratory of Frontiers in Theoretical Physics， Institute of Theoretical Physics, Chinese Academy of Sciences，Beijing 100190，China   
+（2 ${ \mathit { \Pi } } ^ { \mathcal { Z } }$ Kavli Institute for Theoretical Physics China at the Chinese Academy of Sciences， Beijing 100190, China   
+$\mathcal { S }$ Center of Theoretical Nuclear Physics，National Laboratory of Heavy Ion Acelerator，Lanzhou 730oo0,China 4 School of Physics，Peking University，Beijing 100871，China （204号 $^ { 5 }$ Physikdepartment, Technische Universitat Munchen， 85748 Garching, Germany (Dated: August 1, 2017)
+
+Halo phenomena in deformed nuclei are investigated within a deformed relativistic Hartree Bogoliubov (DRHB) theory. These weakly bound quantum systems present interesting examples for the study of the interdependence between the deformation of the core and the particles in the halo. Contributions of the halo,deformation effcts,and large spatial extensions of these systems are described in a fully self-consistent way by the DRHB equations in a spherical Woods-Saxon basis with the proper asymptotic behavior at large distance from the nuclear center. Magnesium and neon isotopes are studied and detailed results are presented for the deformed neutron-rich and weakly bound nucleus $^ { 4 4 }$ Mg.The core of this nucleus is prolate,but the halo has a slightly oblate shape. This indicates a decoupling of the halo orbitals from the deformation of the core.The generic conditions for the occurence of this decoupling effects are discussed.
+
+PACS numbers:21.10.Gv,21.10.-k,21.60.Jz,21.60.-n
+
+The “shape” provides an intuitive understanding of spatial density distributions in quantum many-body systems,such as molecules [1],atoms [2],atomic nuclei [3], or mesons [4]. Quadrupole deformations play an important role in this context.The interplay between quadrupole deformation and the weak binding can result in new phenomena,such as“quadrupole-bound”anions [5].
+
+Halo phenomena in nuclei are driving forces for the development of the physics with radioactive ion beams. They are threshold effects [6] and have been first observed in the weakly bound system $^ { 1 1 }$ Li [7]. Considering that most open shell nuclei are deformed, the interplay between deformation and weak binding raises interesting questions,such as whether or not there exist halos in deformed nuclei and,if yes,what are their new features.
+
+Calculations in a deformed single-particle model [8] have shown that valence particles in specific orbitals with low projection of the angular momentum on the symmetry axis,can give rise to halo structures in the limit of weak binding. The deformation of the halo is in this case solely determined by the intrinsic structure of the weakly bound orbitals.Indeed，halos in deformed nuclei were investigated in several mean field calculations in the past [9-11]. However,in Ref.[12],it has been concluded that in the neutron orbitals of an axially deformed Woods-Saxon potential the lowest- $\ell$ component becomes dominant at large distances from the origin and therefore all $\Omega ^ { \pi } = 1 / 2 ^ { + }$ levels do not contribute to deformation for binding energies close to zero. Such arguments raise doubt about the existence of deformed halos. In addition,a three-body model study [13] suggests that it is unlikely to find halos in deformed drip line nuclei because the correlations between the nucleons and those due to static or dynamic deformations of the core inhibit the formation of halos.
+
+Therefore a model which provides an adequate description of halos in deformed nuclei must include in a self-consistent way the continuum,deformation effects, large spatial distributions,and the coupling among all these features.In addition it should be free of adjustable parameters that make predictions unreliable. Density functional theory fulfills all these requirements. Spherical nuclei with halos have been described in the past successfully in this way by the solution of either the non-relativistic Hartree-Fock-Bogoliubov (HFB)[14-16] or the relativistic Hartree Bogoliubov (RHB）equations [17-19] in coordinate ( $r$ ）space.However, for deformed nuclei the solution of HFB or RHB equations in $r$ space is a numerically very demanding task. In the past considerable effort has been made to develop mean field models either in $r$ space or in a basis with an improved asymptotic behavior at large distances [11, 2O-25]. In particular,an expansion in a Woods-Saxon (WS）basis was shown to be fully equivalent to calculations in $r$ space [23].
+
+In the present investigation，we therefore study halo phenomena in deformed exotic nuclei within a DRHB model using a spherical WS basis.The RHB equations for the nucleons read [17, 26]
+
+$$
+\left( \begin{array} { c c } { h _ { D } - \lambda } & { \Delta } \\ { - \Delta ^ { * } } & { - h _ { D } ^ { * } + \lambda } \end{array} \right) \left( \begin{array} { c } { U _ { k } } \\ { V _ { k } } \end{array} \right) = E _ { k } \left( \begin{array} { c } { U _ { k } } \\ { V _ { k } } \end{array} \right) ,
+$$
+
+where $E _ { k }$ is the quasiparticle energy, $\lambda$ the chemical potential,and $h _ { D }$ is the Dirac Hamiltonian [27-31]
+
+$$
+h _ { D } = \pmb { \alpha } \cdot \pmb { p } + V ( \pmb { r } ) + \beta ( M + S ( \pmb { r } ) ) .
+$$
+
+Neglecting here for simplicity spin and isospin degrees of
+
+![](images/900fa29d382fb1f78e19279df45184201e70037fa4c1eb63d75cdf6c2b50edc8.jpg)  
+FIG.1:(Color online) Density distributions of $^ { 4 4 } \mathrm { M g }$ with the $z$ -axis as symmetry axis:(a)the proton density (for $x < 0$ ）） and the neutron density (for $x > 0$ )，(b)the density of the neutron core,and(c) the density of the neutron halo. In each plot,a dotted circle is drawn for guiding the eye.
+
+freedom the pairing potential reads,
+
+$$
+\Delta ( r _ { 1 } , r _ { 2 } ) = V ^ { p p } ( r _ { 1 } , r _ { 2 } ) \kappa ( r _ { 1 } , r _ { 2 } ) ,
+$$
+
+with a density dependent force of zero range in the particle-particlechannel
+
+and the pairing tensor $\kappa$ which is defined in the conventional way.
+
+For axially deformed nuclei with spatial reflection symmetry,we represent the potentials and densities in terms of the Legendre polynomials,
+
+$$
+f ( \pmb { r } ) = \sum _ { \lambda } f _ { \lambda } ( \pmb { r } ) P _ { \lambda } ( \cos \theta ) , \lambda = 0 , 2 , 4 , \cdots .
+$$
+
+For fixed quantum numbers $\Omega ^ { \pi }$ the deformed quasiparticle wave functions $U _ { k } ( \pmb { r } )$ and $V _ { k } ( \pmb { r } )$ in Eq.(1) are expanded in a spherical WS basis (for details see Ref. [23]).
+
+$$
+V ^ { p p } ( r _ { 1 } , r _ { 2 } ) = V _ { 0 } \delta ( r _ { 1 } - r _ { 2 } ) \left( 1 - \frac { \rho ( r _ { 1 } ) } { \rho _ { \mathrm { s a t } } } \right) \frac { 1 } { 2 } ( 1 - P ^ { \sigma } ) .
+$$
+
+The calculations are based on the density functional NL3 [32] and the $p p$ interaction(4) with the parameters $\rho _ { \mathrm { s a t } } = 0 . 1 5 2 ~ \mathrm { f m ^ { - 3 } }$ ， $V _ { 0 } ~ = ~ 3 8 0 ~ \mathrm { { M e V } \cdot \mathrm { { f m } ^ { 3 } } }$ ，and a cut-off energy $E _ { \mathrm { c u t } } ^ { \mathrm { q . p . } } = 6 0 \$ MeV in thequasi-particle space. These parameters reproduce the proton pairing energy of the spherical nucleus $^ { 2 0 } \mathrm { M g }$ obtained from a spherical RHB calculation with the Gogny force D1S.A spherical box of the size $R _ { \mathrm { m a x } } = 2 0$ fm and the mesh size $\Delta r = 0 . 1$ fm are used for generating the spherical Dirac WS basis of Ref. [23] which consists of states with $j < \frac { 2 1 } { 2 } \hbar$ An energy cutoff $E _ { \mathrm { c u t } } ^ { + } = 1 0 0$ MeV is applied to truncate the positive energy states in the WS basis and the number of negative energy states in the Dirac sea is taken to be the same as that of positive energy states in each $( \ell , j )$ -block.
+
+![](images/0e3517451bb35a935244c5f411ee7d5d3c89456563607985022da8d33a36a938.jpg)  
+FIG.2: (Color online） Single neutron levels with the quantum numbers $\Omega ^ { \pi }$ around the chemical potential (dotted line) in the canonical basis for $^ { 4 4 }$ Mg as a function of the occupation probability $v ^ { 2 }$ .The order $n$ ， $\Omega ^ { \pi }$ ，and the main WS components for orbitals close to the threshold are also given.The dashed line corresponds to the BCS-formula with an average pairing gap.
+
+In the present study of Mg isotopes, the last nucleus within the neutron drip-line is $^ { 4 6 }$ Mg.Of course, it is difficult to predict the position of the drip-line precisely for nuclei so far from the experimentally known area and therefore the results discussed in the following have to be taken as generic results.In this study $^ { 4 6 }$ Mg is an almost spherical nucleus.The neighboring nucleus $^ { 4 4 }$ Mg is well deformed ( $\beta _ { 2 } = 0 . 3 2$ ）and weakly bound with the twoneutron separation energy $S _ { 2 n } ~ = ~ 0 . 4 4$ MeV.Therefore this nucleus is taken here as an example for a detailed investigation. The density distributions of all protons and all neutrons in $^ { 4 4 }$ Mg are shown in Fig. la. Due to the large neutron excess,the neutron density not only extends much farther in space but it also shows a halo structure. The neutron density is decomposed into the contribution of the core in Fig.1b and that of the halo in Fig.1c. Details of this decomposition are given further down. We find that the core of $^ { 4 4 }$ Mg is prolate, and that the halo has a slightly oblate deformation.This indicates the decoupling between the deformations of core and halo.
+
+Weakly bound orbitals or those embedded in the continuum play a crucial role in the formation of a nuclear halo.For an intuitive understanding of the single particle structure we keep in mind that HB-functions can be represented by BCS-functions in the canonical basis and show in Fig.2 the corresponding single neutron spectrum.As discussed in Ref. [33] the single particle energies in the canonical basis $\varepsilon _ { k } = \langle k | h _ { D } | k \rangle$ shown in Fig. 2 are expectation values of the Dirac Hamiltonian (2) for the eigenstates $| k \rangle$ of the single particle density matrix $\hat { \rho }$ with the eigenvalues $v _ { k } ^ { 2 }$ . The spectrum of $\hat { \rho }$ has a discrete part with $v _ { k } ^ { 2 } > 0$ and a continuous part with $v _ { k } ^ { 2 } = 0$ . Obviously only the first part contributes to the HB-wave function and only this part is plotted in Fig.2. This part of the spectrum $\varepsilon _ { k }$ is discrete even for the levels in the continuum.Of course,this is only possible because the wave functions $| k \rangle$ are not eigenfunctions of the Hamiltonian. As long as the chemical potential $\lambda _ { \mathrm { n } }$ is negative,the corresponding density $\rho ( \pmb { r } )$ is localized [15] and the particles occupying the levels in the continuum are bound.
+
+The orbitals in Fig.2 are labeled by the conserved quantum numbers $\Omega$ and $\mathscr { n }$ .The character $n$ numbers the different orbitals appearing in this figure according to their energies. The neutron Fermi energy lies within the $p f$ shell and most of the single particle levels have negative parities. Since the chemical potential $\lambda _ { \mathrm { n } } ~ = ~ - 2 3 0$ keV is relatively small,orbitals above the threshold have noticeable occupation due to pairing correlations.For example,the occupation probabilities of the 5th ( $\Omega ^ { \pi } = 7 / 2 ^ { - }$ ）and the 6th ( $\Omega ^ { \pi } = 1 / 2 ^ { - }$ ）orbitals are $2 7 . 2 \%$ and $1 4 . 3 \%$ ：
+
+As we see in Fig. 2 there is a considerable gap between the two levels with the numbers $n = 2$ and $n = 3$ .The levels with $\varepsilon _ { \mathrm { c a n } } < - 2 . 5$ MeV contribute to the “core”, and the other remaining weakly bound and continuum orbitals with $\varepsilon _ { \mathrm { c a n } } > - 1$ MeV naturally form the “halo”. Therefore we decompose the neutron density $\rho ^ { n } ( \pmb { r } )$ into two parts,one part coming from the orbitals with canonical single particle energies $\varepsilon _ { \mathrm { c a n } } ~ < ~ - 2 . 5$ MeV (called “core"）and the other from the remaining weakly bound and continuum orbitals (called“halo"). The spherical components of these densities [i.e. the contribution of $\lambda = 0$ in Eq. (5)] are plotted together with that of the total neutron density in Fig.3a. It is seen that the tail part of the neutron density originates mainly from the orbitals with $\varepsilon _ { \mathrm { c a n } } ~ > ~ - 1$ MeV. The average number of neutrons which are weakly bound or in the continuum is around 4.34. On the average,2.92 of these neutrons are in the weakly bound orbits 3 and 4 and the others in the continuum.The rms radii of the core and the halo are 3.72 fm and 5.86 fm,respectively. A further decomposition shows that the two weakly bound orbitals, i.e., the 3rd ( $\Omega ^ { \pi } = 1 / 2 ^ { - }$ ）and the 4th ( $\Omega ^ { \pi } = 3 / 2 ^ { - }$ )，contribute mostly to the halo. This is more clearly seen in Fig.3b where we represent the relative contributions of weakly bound and continuum orbitals to the total neutron density. The two continuum orbitals,i.e.,the 6th （ $\Omega ^ { \pi } = 1 / 2 ^ { - }$ )and the 8th ( $\Omega ^ { \pi } = 1 / 2 ^ { + }$ ）also contribute to the tail.
+
+If we decompose the deformed wave functions of the two weakly bound orbitals,i.e. the 3rd ( $\Omega ^ { \pi } = 1 / 2 ^ { - }$ ）
+
+![](images/3ed60bdb7d14678c49cadfd3cc55a83316292680709d25c4af3ae63fbd075cd7.jpg)  
+FIG.3: (Color online) Neutron density distributions for $^ { 4 4 } \mathrm { M g }$ (a) The total density and its decomposition into core and halo. Contributions from several neutron orbitals around the Fermi level are also given.(b） Relative contributions of these neutron orbitals to the total neutron density,which is indicated in arbitrary units by the shaded area.
+
+and the 4th ( $\Omega ^ { \pi } = 3 / 2 ^ { - }$ ),in the spherical WS basis it turns out that in both cases the major part comes from $p$ waves as indicated on the right hand side of Fig. 2. The $p$ wave components for the 3rd and the 4th orbitals are $6 6 \%$ and $8 0 \%$ respectively. Having in mind that the occupation probabilities of these two orbitals are O.736 and O.693 and each orbital has degeneracy 2,there are about 2 neutrons in weakly bound $p$ states. The low centrifugal barrier for $p$ waves gives rise to the formation of the halo. Having a small $p$ wave component,the 6th orbital ( $\Omega ^ { \pi } = 1 / 2 ^ { - }$ ）contributes less to the halo though it is in the continuum and the occupation probability is rather large.The contribution of the 8th orbital( $\Omega ^ { \pi } =$ $1 / 2 ^ { + }$ )to the tail of the density is even smaller because its main components are of $d$ waves.The large centrifugal barrier of $f$ states hinders strongly the spatial extension of the wave functions of the other two continuum orbitals, i.e.,the 5th ( $\Omega ^ { \pi } = 7 / 2 ^ { - }$ ）and the7th( $\Omega ^ { \pi } = 3 / 2 ^ { - }$ ）
+
+In Fig.4 the densities of the core and the halo are decomposed into spherical,quadrupole,and hexadecapole components.As is seen in Fig.4a, the quadrupole component of the core is positive, thus being consistent with the prolate shape of $^ { 4 4 }$ Mg.However, for the halo, the quadrupole component has a negative sign,which means that the halo has an oblate deformation.The quadrupole moments of the neutron core and the halo are 16O and $- 2 7 ~ \mathrm { f m ^ { 2 } }$ ,respectively. This explains the decoupling be tween the quadrupole deformations of the core and the halo as we have seen it in Figs.1b and 1c. There is also a noticeable hexadecapole component in the density distribution of the halo.
+
+The slightly oblate shape of the halo originates from the intrinsic structure of the weakly bound and continuum orbitals. As is shown in Fig.2,the main WS components of the two weakly bound orbitals,the 3rd L $\Omega ^ { \pi } = 1 / 2 ^ { - }$ ）and the 4th ( $\Omega ^ { \pi } = 3 / 2 ^ { - }$ )，are $p$ states. We know that the angular distribution of $| Y _ { 1 0 } ( \theta , \phi ) | ^ { 2 } \propto$ $\cos ^ { 2 } \theta$ with a projection of the orbital angular momentum on the symmetry axis $\Lambda \ : = \ : 0$ is prolate and that of $| Y _ { 1 \pm 1 } ( \theta , \phi ) | ^ { 2 } \propto \sin ^ { 2 } \theta$ with $\Lambda = 1$ is oblate. It turns out that in the 3rd( $\Omega ^ { \pi } = 1 / 2 ^ { - }$ ）orbital，both $\Lambda = 0$ and $\Lambda = 1$ components contribute and the latter dominates.Therefore this orbital hasa slightly oblate shape. For the 4th ( $\Omega ^ { \pi } = 3 / 2 ^ { - }$ ）state,there is only the $\Lambda = 1$ component from the $\mathit { p } _ { 3 / 2 }$ wave,an oblate shape is also expected.
+
+In order to show that these results depend crucially on the single particle structure in the neighborhood of the Fermi surface we also investigate weakly-bound nuclei in the neighboring chain of Ne-isotopes.In Fig. 5a the density distributions of all protons and all neutrons in the prolate deformed nucleus $^ { 3 6 }$ Ne are shown ( $\beta _ { 2 } ~ = ~ 0 . 5 2$ ） Again,as in $^ { 4 4 }$ Mg,due to the large neutron excess, the neutron density not only extends much farther in space but it also shows a halo structure. The neutron density is decomposed into the contribution of the core in Fig. 5b and that of the halo in Fig. 5c. In contrary to the nucleus $^ { 4 4 }$ Mg,we observe now a prolate halo,because the essential level of the halo has a large contribution from theprolate $\Lambda = 0$ ( $p$ wave) component.In Fig.6 we show similar density distributions for the oblate deformed nucleus $^ { 3 8 }$ Ne ( $\beta _ { 2 } = - 0 . 2 4 ,$ ） which is the last nucleus within the neutron drip line in the present calculation.In this case the Fermi level is again within the $p f$ shell. But the levels dominated by $p$ waves are either less occupied or not so weakly bound and therefore we do not find a pronounced halo.From these examples it is clear that the existence and the deformation of a possible neutron halo depends essentially on the quantum numbers of the main components of the single particle orbits in the vicinity of the Fermi surface: $s$ levels with $\Lambda = 0$ produce spherical halos, $p$ levels with $\Lambda = 0$ prolate and $p$ levels with $\Lambda = 1$ oblate halos [8].
+
+![](images/15e51857baf847fd862fa7c62b3b0cb2b7309d07d4c2a70cced321fd92c1ef60.jpg)  
+FIG.4: (Color online）Decomposition of the neutron density of $^ { 4 4 } \mathrm { M g }$ into spherical ( $\lambda ~ = ~ 0$ )，quadrupole ( $\lambda \ = \ 2$ )，and hexadecapole ( $\lambda = 4$ ）components for (a） the core and (b) the halo.
+
+![](images/d06284aff798188108f647bba1fb54b11ee348e64b510ad57d02367ad9569b0b.jpg)  
+FIG.5:(Color online） Density distributions of $^ { 3 6 } \mathrm { N e }$ Details are given in Fig.1
+
+![](images/538d9197528061ad291b0fcadc1e482aaac9a2e7a64deacce73b607b3d07af59.jpg)  
+FIG.6:(Color online） Density distributions of $^ { 3 8 }$ Ne. Details are given in Fig.1
+
+In summary, the very neutron-rich deformed nucleus $^ { 4 4 }$ Mg is investigated within deformed relativistic Hartree Bogoliubov theory in the continuum.In contrast to several expectations [12,13] a pronounced deformed neutron halo is found.It is formed by several orbitals close to the threshold (either weakly bound or in the continuum). They have large components of low $\ell$ -values and feel therefore only a small centrifugal barrier.Although $^ { 4 4 }$ Mg and its core are well deformed and prolate, the deformation of the halo is slightly oblate. This implies a decoupling between the deformations of core and halo. This mechanism is investigated by studying the details of the neutron densities for core and halo, the single particle levels in the canonical basis,and the decomposition of the halo orbitals.We also studied the weakly-bound nuclei in Ne isotopes and discussed the conditions for the occurence of a halo and its shape.It is shown that the existence and the deformation of a possible neutron halo depends essentially on the quantum numbers of the main components of the single particle orbits in the vicinity of the Fermi surface.
+
+Finally we note that besides the “quadrupole-bound" molecule [5] and the nuclear halo in deformed nuclei, similar coupling effects between the deformation and the weakly bound part of the system could also exist in other quantum many-body systems,such as Rydberg atoms in which the electron(s) can be extremely weakly bound and where the quadrupole moment is sizable [2].
+
+This work has been supported in part by Natural Science Foundation of China (10775004，10705014, 10875157， and 10979066)， Major State Basic Research Development Program of China (2007CB815000), Knowledge Innovation Project of Chinese Academy of Sciences (KJCX3-SYW-N02 and KJCX2-YW-N32), by the Bundesministerium fir Bildung und Forschung (BMBF),Germany，under Project 06 MT 246,and by the DFG cluster of excellence “Origin and Structure of the Universe”(www.universe-cluster.de). The computation was supported by Supercomputing Center, CNIC of
+
+CAS.One of the authors (P.R.) would like to express his gratitude to J.Meng for the kind hospitality extended to him at the Peking University. Helpful discussions with N.V.Giai, Z.Y.Ma,N. Sandulescu,J. Terasaki, D. Vretenar,S. J. Wang，and S. Yamaji are gratefully acknowledged.
+
+[1]J.Simons,J.Phys.Chem.A112,6401 (2008).   
+[2] S. C. Ceraulo and R. S. Berry, Phys. Rev. A44, 4145 (1991).   
+[3] A.Bohr and B.R. Mottelson， Nuclear Structure, vol. I (Benjamin,Reading,Mass.,1969).   
+[4] C.Alexandrou and G. Koutsou, Phys. Rev.D78, 094506 (2008).   
+[5] C.Desfrancois et al,Phys.Rev.Lett.92,083003 (2004) [6] A. S. Jensen et al,Rev.Mod.Phys. 76, 215 (2004). 7] I. Tanihata et al, Phys. Rev.Lett. 55, 2676 (1985). [8] T.Misu et al,Nucl. Phys.A614,44 (1997). [9] X. Li and P.-H. Heenen,Phys. Rev. C54, 1617 (1996).   
+i0] J.Pei et al,Nucl.Phys.A765,29 (2006).   
+[11] H.Nakada,Nucl. Phys. A808,47 (2008).   
+[12]I.Hamamoto,Phys.Rev.C69,041306(R) (2004).   
+[13] F. Nunes, Nucl. Phys. A757, 349 (2005).   
+[14] A.Bulgac,FT-194-1980,CIP,Bucharest.   
+[15] J.Dobaczewski,H. Flocard,and J. Treiner,Nucl.Phys. A422,103 (1984).   
+[16]N.Schunck and J.L.Egido，Phys.Rev.C78,064305 (2008).   
+[17] J.Meng and P. Ring,Phys.Rev. Lett. 77,3963 (1996).   
+[18] W. Poschl, D. Vretenar, G. A. Lalazissis, and P.Ring, Phys.Rev. Lett. 79,3841 (1997).   
+[19] J. Meng, Nucl. Phys. A635,3 (1998).   
+[20] J. Terasaki et al, Nucl. Phys.A60o,371 (1996).   
+[21] M. V. Stoitsov,J. Dobaczewski, P. Ring,and S. Pittel, Phys.Rev.C61,034311 (2000).   
+[22] E. Teran et al,Phys.Rev. C67,064314 (2003).   
+[23] S.-G. Zhou, J. Meng，and P. Ring, Phys. Rev. C68, 034323(2003).   
+[24] N. Tajima,Phys.Rev.C69,034305 (2004).   
+[25] M. Stoitsov, N. Michel, and K. Matsuyanagi, Phys. Rev. C77, 054301 (2008).   
+[26]H.Kucharek and P.Ring,Z. Phys.A339,23(1991).   
+[27] B.D. Serot and J.D.Walecka,Adv.Nucl. Phys.16,1 (1986).   
+[28] P.-G. Reinhard, Rep.Prog.Phys. 52, 439 (1989).   
+[29] P. Ring,Prog. Part. Nucl. Phys.37,193 (1996).   
+[30] D.Vretenar，A.V.Afanasjev,G.A.Lalazissis,and P.Ring,Phys.Rep.409,101 (2005).   
+[31] J. Meng,H. Toki, S.-G. Zhou, S.-Q. Zhang, W.-H. Long, and L.-S. Geng, Prog. Part.Nucl. Phys. 57, 470 (2006).   
+[32] G.A. Lalazissis, J. Konig,and P. Ring, Phys. Rev. C55, 540 (1997).   
+[33] P.Ring and P. Schuck, The Nuclear Many-Body Problem (Springer-Verlag,Berlin,1980).

@@ -1,0 +1,393 @@
+[
+    {
+        "type": "text",
+        "text": "基于RMAP机制的SpaceWire星载高速总线设计与实现",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "闫梦婷1,2,安军社1,龚泉铭1,2（1.中国科学院空间科学与应用研究中心，北京100190;2.中国科学院大学，北京100190）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于RMAP协议对 SpaceWire高速总线进行了架构设计与实现。首先给出了 SpaceWire高速总线的整体设计;其次对 SpaceWire 编解码器中的DS 编码进行了优化;然后根据 RMAP协议的基础要求,设计了RMAP SpaceWire总线的工作流程与实现方法；最后通过仿真平台对该设计进行仿真测试。仿真测试表明：设计实现了 RMAPSpaceWire高速总线的基础功能，数据链路传输速度可以达到 $7 9 . 8 4 ~ \\mathrm { M b / s }$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：SpaceWire;RMAP；DS编解码；高速总线",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：TN95 文献标识码：A DOI:10.16157/j.issn.0258-7998.2016.01.028",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中文引用格式：闫梦婷,安军社,龚泉铭.基于RMAP 机制的 SpaceWire 星载高速总线设计与实现[J].电子技术应用,2016,42(1):108-110,114.  \n英文引用格式：Yan Mengting,AnJunshe,GongQuanming.Designand implementof SpaceWireon-boardhighspedbusbasedon RMAP protocol[J].Application of Electronic Technique,2016,42(1): 108-110,114.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Design and implement of SpaceWire on $-$ board high speed bus based on RMAP protocol ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yan Mengting $^ { 1 , 2 }$ , An Junshe $^ { 1 }$ , Gong Quanming $^ { 1 , 2 }$ (1.Center for Space Science and Applied Research ,Chinese Academy of Science,Beijing 100190,China ; 2.University of Chinese Academy Sciences,Beijing 100190,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Thestructure of SpaceWirehighspeedbusisdesignedandrealizedbaseonRMAPprotocol.Thebasicdesignof SpaceWirehighspeedbusisgivenfirst.Methodisgivenfortherealizationofthefunctionsofencoderanddecoder.Theworking processandrealizationofRMAPSpaceWirebusisdesignedacording tobasicrequirementsofRMAPprotocol.Inthefinalpart, thedesigistestedonasimulationplatform.TheresultshowsthatourdesignrealizethebasicfunctionsofRMAPSpaceWirehigh speed bus.The transmission speed of the data link can reach $7 9 . 8 4 ~ \\mathrm { M b / s }$ ： ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words:SpaceWire ;RMAP;DS(Data-Strobe）encode and decode ;high speed bus ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SpaceWire 高速总线标准是ESA（European Space A-gency）于2003年正式通过的一种总线标准。ESA基于IEEE1355-1995和IEEE1596.3(LVDS)两个商用总线标准，并且根据航天应用的特点，在可靠性、功耗等方面进行了改进，实现了一种串行、高速、点对点、全双工的专用于空间高速数据传输的总线标准。该标准提供了一种统一用来连接传感器、数据处理单元、大容量存储器的基础架构，具有很好的EMC特性，并且在错误检测、异常处理、故障保护和故障恢复及时间确定性方面也做了相应加强。使得SpaceWire能够满足新一代航天器电子系统对总线结构的性能要求，具有独特优势。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SpaceWire由节点、链路和路由3部分组成，在基础协议簇中对这3个重要单元进行了定义和功能设计，目前已有成熟的IP核、软件支持和测试设备等研究成果，使得SpaceWire应用于多个空间任务中。SpaceWire能够在物理层和数据链接层满足空间航天器中标准化的高速率网络交互需求，SpaceWire工作组目前致力于高层协议的研究，拟定首个SpaceWire高层协议，即RMAP(Remote Memory Access Protocol)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "国际上拥有SpaceWire协议IP核产品的公司与科研机构主要包括STAR-dundee和ESA等，相关产品主要包括Codec和RouterIP核，不同型号FPGA的实现性能则差异明显，GRSPW2IP核集成的Codec 模块在Xilinx基于SRAM的Virtex2系列FPGA中实现的收发数据率可达 $2 0 0 ~ \\mathrm { M b / s }$ ，但在Actel公司的反熔丝RTAX系列FPGA实现性能仅为 $1 0 0 ~ \\mathrm { M b / s ^ { [ 1 ] } }$ 。目前基于flash技术FPGA可实现的性能为 $1 8 0 ~ \\mathrm { M b / s }$ ，该性能指标为ESA的CodecIP核在速度等级为-2的ProASIC3系列FPGA中的实现结果[2]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前我国已对SpaceWire开展研究并取得一定成果。文献[3]完成了SpaceWire链路接口IP核和SpaceWire与《电子技术应用》2016年第42卷第1期",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PCI总线之间的接口卡设计，SpaceWire链路接口工作速度可达 $1 0 0 ~ \\mathrm { M b / s }$ 。文献[4-5]对SpaceWire 在运载火箭中的应用以及实时分布式中断系统设计进行了研究。文献[6]主要对SpaceWireCODECIP核进行了设计，链路速度可达 $8 0 ~ \\mathrm { M b / s }$ 。本文在SpaceWire节点、链路和路由3个重要单元的基础上，设计了基于RMAP的SpaceWire路由工作机制。为SpaceWire总线中各节点间的功能提供了标准化工作机制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1SpaceWire总线整体架构设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SpaceWire总线网络由节点、链路和路由器三种基本单元组成。SpaceWire节点是指传输包的流出设备或者流向设备，一般是处理器、存储单元、传感器或连接在SpaceWire网络上的其它单元。SpaceWire链路是指传送数据包的传输路径，连接在各个节点之间，数据包通过链路进行传输通信。SpaceWire路由则实现了节点通过链路进行数据交换机制。本设计中基于RMAP高层协议的SpaceWire总线整体架构如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d7de3995de8aded9c47222da35bde9510e65da63463effa1757a66c42e52d438.jpg",
+        "img_caption": [
+            "图1SpaceWire总线平台示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图中节点(Note)、链路(Link)和路由器(Router)是构成SpaceWire总线的基本单元。节点用于连接外接设备和总线，节点模块包括RMAP外设控制模块(Ctr_RMAP)和编解码器模块(CODEC)。外接设备数据接口连接到节点中RMAP外设控制模块里的FIFO(First-In-First-Out)中,数据经过RMAP外设控制模块处理为符合RMAP传输要求的数据包后，通过编解码器进行编码，链路传输至SpaceWire总线路由器。图1中内部包含8个编解码器，编解码器接收到数据包后，通过接收模块(Re_part)进行译码，然后通过RMAP路由器进行路由，送至目的地址，通过目的地址接口的编解码器进行编码，输出总线路由器。编解码器同时在节点和路由器中调用，主要包括接收模块、发送模块以及控制模块。接收模块实现接收数据包及译码功能，发送模块实现发送数据包及编码功能。控制模块则实现了编解码器执行收发数据包功能的状态机。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2SpaceWire编解码器优化设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SpaceWire基础协议定义了信号层、字符层和交换层，这几个低层协议定义的功能由编解码器实现。SpaceWire总线的信号层定义了SpaceWire总线中传输信号的电压水平、噪声幅度和编码方式。指定采用低压差分信号(LVDS)作为信令技术，这是由于LVDS是一种高速数据传输、省电、抑制噪声、成本低以及可以采用较高《电子技术应用》2016年第42卷第1期集成度的技术，能够满足供电电流低、功率低的要求，有助于降低系统成本。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1DS解码电路的优化设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SpaceWire总线的信号编码采用DS（Data-Strobe）编码。DS编码如式(1)和式(2)定义：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "发送端的逻辑公式为： $\\scriptstyle \\mathrm { S = D \\oplus C L K }$ 接收端的逻辑公式为： $\\scriptstyle { \\mathrm { C L K } } = { \\mathrm { D } } \\oplus { \\mathrm { S } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据上述公式，搭建门电路时若用简单的组合逻辑实现异或，容易产生竞争冒险，导致接收到的数据异常。为了对该现象进行改进，探讨DS信号变化的内在规律。从图2中左图可见，DS信号的每次转换有且只变换其中的1位信号，通过2次变换后DS数据都将发生翻转。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9b8cfffd76f39912a1da92a591eccccc9761ffc9d1ca7029c99c1346c581acba.jpg",
+        "img_caption": [
+            "图2DS信号转移图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从DS编码规律可知，有且只有当时钟信号为上升沿时，D和S信号发生从同相至反相的跳变；同理，有且只有当时钟信号为下降沿时，D和S信号发生从反相至同相的跳变。根据上述分析结论设计的DS数据时钟恢复电路如图3所示。图3电路是由异或门、锁存器以及触发器构成。当时钟信号为上升沿时，同相状态的data数据将保持不变，如图3中上方电路；当时钟信号为下降沿时，反相状态的data数据将保持不变，如图3中下方电路。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/04c141911a258770067052d9ffcaadb3c771dca52a21a9318471a23266921a3f.jpg",
+        "img_caption": [
+            "图3优化后的DS解码电路"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2SpaceWire的数据字符与控制字符",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SpaceWire总线标准的字符层定义了数据字符、控制字符和控制码、奇偶校验以及时间码等内容，此外为了更好地支持路由和网络协议，还提供了Time-Code来支持在网络层传播系统时间。字符层定义有数据字符和控制字符。数据字符包含8位有效数据位，一位奇偶校验位、一位为0的标志位。控制字符有4个，分别是FCT、EOP、EEP和ESC，编码由4个位构成，包含一位奇偶校验位，一位为1的标志位和两位控制数据。协议中还有两个重要的控制码NULL和Time-Code，其中NULL是由控制字符ESC加上FCT组成的。当链接不传送数据或控制字符时，SpaceWire端口通过传送NULL字符维持链",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "路连接。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3SpaceWire路由器设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本设计中的8口基于RMAP的SpaceWire路由器如图4所示，8个编解码器用于接收和发送数据包，与上述介绍的编解码器模块一致。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8cdd7189abf080076f7fbd1b00683e5ef2fb49a1ab8cd117d1d784e559ccb2ff.jpg",
+        "img_caption": [
+            "图4基于RMAP的SpaceWire路由器框图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于RMAP的SpaceWire路由器中核心模块为RMAP路由控制器，路由矩阵实现了各个接口之间的链路搭建。RMAP路由管理器实现功能控制和工作协调，路由表用于地址索引,Time-Code管理模块用于Time-Code码的广播，减少时间误差。配置端口模块用于实现对路由表配置等工作。SpaceWire的路由地址表用于配合逻辑地址的索引，使用路径地址来表示目的地址时，目的地址由一系列路由器的输出端口标识符组成，通过这一系列路由标识符来决定包在网络中的传播路径，将包从发送端传输到目的地址。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RMAP协议提供了一个标准化的方案，使得一个SpaceWire节点能够对另一个SpaceWire节点进行读写操作、传输数据。协议中包含3种操作，即写操作、读操作以及读改写操作。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "写操作包括非数据校验非应答写、非数据校验应答写、数据校验非应答写、数据校验应答写4种不同的写操作。数据校验类写操作为了实现对数据的检查校验，需要在写操作之前在目的节点将数据缓存。但由于存储单元数量有限，无法满足大量的缓存需求，因此此类写操作应该用于相对短的数据。非数据校验可用于数据量较长的写操作，目的节点接到写操作指令后立即执行写数据的动作，无需缓存数据进行校验。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "读操作机制提供了一个策略给源节点，源节点根据该策略去读取目的节点存储区域内的一个或者多个字节的数据。读取的数据将被封装在一个数据包中返回到源节点。当它到达源节点时，源节点用户将从数据包中得到所读取的数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "读改写指令读取一个寄存器或者存储器的数据，返回它的值，并对寄存器写入一个新的值，新的值被确定在指令中。RMAP读修改写操作的发起方能够将网络中其它节点指定存储区域的数据读出，并进行修改后重新写入该存储区。1次最大可实现4B数据的读改写。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/35eca1ae8d02578b67523588171143bc0159df8059bf651d41b58f3696c6430a.jpg",
+        "img_caption": [
+            "图5RMAPSpaceWire路由器工作流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4仿真与总结 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在Modelsim $1 6 . 2 \\mathrm { g }$ 下,通过Xilinx Virtex-4 FPGA开发平台上搭建仿真平台，对SpaceWire总线进行仿真测试，波形如图6所示。图中显示优化后的DS编码波形图，D",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6c5b5a64e824ee3f81213cf5741e7e5b7ac3a9c75105181bc399a9977e87ecd7.jpg",
+        "img_caption": [
+            "图6RMAP SpaceWire 路由器工作波形图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/efd91aaa47de1520a136b000825882b51b3b41261ecbe6a78b24de005d03a35d.jpg",
+        "img_caption": [
+            "图9采用视觉筛选法"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "无人驾驶智能车行驶在城市道路上，其配备导航系统容易受到连续建筑物群遮挡，进而造成接收机接收到的GPS信号为NLOS传播方式，最终导致定位偏差甚至跳变的问题。本文提出的基于视觉筛选GPS信号的组合导航方法首先通过摄像头采集到的车体周围环境信息，处理得出周围建筑物与车体当前位置形成的遮挡角度，并与此时接收机接收到的GPS导航的卫星所处俯仰角进行对比，若建筑物的遮挡角度大于卫星的俯仰角，则建筑物遮挡了部分卫星信号，造成卫星信号非视距传播，导致定位精度下降，因此通过视觉模块对此类卫星信号进行剔除。将经过视觉模块筛选后的GPS卫星数据信息与惯导进行组合导航，从而最大限度降低由于建筑物群遮挡对车辆定位系统准确性造成的影响。实车实验表明，无人驾驶汽车采用本文提出的基于机器视觉筛选的组合导航系统，能在道路两侧存在连续建筑物遮挡的情况下，保证定位信息不发生跳变，与传统方法相比定位精度明显提高，满足了无人驾驶智能汽车在城市路况",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(上接第110页)",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "和S信号能够精确跳变实现DS编解码功能。通过仿真波形可以看出，RMAPSpaceWire总线在工作时，能够进行连续大数据量的时间码与数据包收发，运行正常。数据发送的起始时间Tstart与接收完成时间Tend分别为$4 0 ~ \\mu \\mathrm { s }$ 和 $6 5 8 1 ~ \\mu \\mathrm { s }$ ，可以得出传输速率为：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "传输速率=传输总数据量 传输耗费时间 ${ \\bf \\Lambda } = 7 9 . 8 4 ~ \\mathrm { M b / s }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由此可以看出，本设计基于RMAP这一先进的高层通信协议设计实现的SpaceWire总线平台能够完成数据包的路由通信，传输速率达到高速总线的使用需求。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]WORSFOLD P.Evolution of the MARC SpaceWire and power disstribution architecture from concept to tested hardware[C].International SpaceWire Conference,2010.   \n[2]WALKER P.IEEE 1394 compared with SpaceWire.4Links Ltd.,Milton Keynes,2004.   \n[3]Asaf Baron.Benchmarking SpaceWire Networks[C].International ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "114 欢迎网上投稿www.ChinaAET.com下导航需求，方法新颖且具有很高的工程实用价值。参考文献",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]周建军.车辆自动导航定位与控制方法研究[D].北京：中国农业大学，2009.",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[2]Sun Chuanwei,Liu Jingao.The design oflow-pass filterbased on megacore functions[C].2nd International Confer-ence on Education Technology and Computer.2O10,V1-24-V1-27.  \n[3]邱茂林，马颂德，李毅.计算机视觉中摄像机定标综述[J].自动化学报，2000，26(1)：43-55.  \n[4]杨少荣，吴迪靖，段德山.机器视觉算法与应用[M].北京：清华大学出版社，2008.  \n[5]赵颖，孙群，王书茂.单目视觉导航智能车辆的自定位方法[J].计算机工程与设计，2008，29(9)：2372-2374.  \n[6]Jay A F,Tony DG,MatthewJB.Real-time differentialcarrier phase GPS-aided INS[J].IEEE Transactions onControl Systems Technology,2000,8(4):709-720.  \n[7]赵其杰，屠大维，高健，等.基于Kalman滤波的视觉预测目标跟踪及其应用[J].光学精密工程，2008(5)：937-942.  \n[8]吴凤柱，何，焦旭，等.GPS/SINS紧组合导航系统信息融合技术研究[J].电子技术应用，2013(2)：67-69，73.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(收稿日期：2015-08-20)",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "作者简介：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "段建民（1959-），男，博士，教授，主要研究方向：汽车电子控制及智能化技术。石慧（1990-），通讯作者，女，硕士研究生，主要研究方向：多传感器融合技术， $\\mathrm { E - m a i l : } 6 0 3 1 0 9 5 4 5 @ \\mathrm { q q . c o m }$ 。战宇辰（1990-），男，硕士研究生，主要研究方向：机器视觉。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SpaceWire Conference,2007.  \n[4]Philippe Fourtier.Simulation ofa SpaceWire Network[C].International SpaceWire Conference,2010.  \n[5]WOLFRAM K D.A new radiation-hardened satellite on boardLAN based on IEEE Std 1394，AIAA 2004-5869,2004.  \n[6]杨志，李国军，李芳，等.SpaceWire星载网络通信协议设计[J].宇航学报,2012,33(2):200-209.  \n[7]田园,张杰.基于SpaceWire的链路状态算法研究与设计[J].计算机工程,2011,37(23)：113-115.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(收稿日期：2015-08-31)",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "作者简介：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "闫梦婷（1989-），通信作者，女，博士研究生，主要研究方向：星载电子系统、计算机应用技术，E-mail：yanmengting0101@163.com。安军社（1969-），男，博士，研究员，主要研究方向：星载电子系统、星载计算机系统。龚泉铭（1990-），男，博士研究生，主要研究方向：星载电子系统、计算机应用技术。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "《电子技术应用》2016年第42卷第1期",
+        "page_idx": 3
+    }
+]

@@ -1,0 +1,92 @@
+# 护理园地
+
+# 整体护理在合并心律失常的老年患者无痛胃镜检查中的应用
+
+欧阳贺月广东省佛山市顺德区第一人民医院消化内镜中心，广东 佛山 528300摘要：目的探讨整体护理在合并心律失常的老年患者无痛胃镜检查中的应用。方法总结2010年1月\~2014年3月，门诊及住院行无痛胃镜检查的老年患者217例，年龄60\~78岁，平均67.5岁。心律失常类型：窦性心动过速33例、窦性心动过缓16例、ST-T改变71例、室性早搏14例、室上性早搏 29例、房性早搏 23例、室性早搏合并ST-T改变19例、房性早搏合并ST-T改变12例。分别在无痛胃镜检查前、检查过程中及检查后对患者进行整体护理干预。结果全部患者均顺利完成无痛胃镜检查，术中出现一过性心率加快或减慢、血压下降 24例，一过性SPO2下降45例,经报告麻醉医师予以及时处理后生命体征均恢复正常。全部患者术中均未出现严重心律失常、心肌缺血改变。电话或问卷调查显示患者的总体满意度为 $9 5 . 4 \%$ ,80.6%的患者愿意再次接受同样检查。结论 无痛胃镜检查是一种具有潜在风险的检查和治疗手段,整体护理干预可明显提高无痛胃镜检查的安全性和患者满意度。
+
+关键词：无痛胃镜；整体护理；心律失常
+
+# Application of holistic nursing in painless gastroscopy examination for elderly patients with arrhythmia
+
+OUYANG Heyue Thedigestive endoscopycenter,TheFirstPeople'sHospitalofShunde,Foshan5283o0,China
+
+Abstract: Objective To study the holistic nursing in painlessgastroscopy examination for elderly patients with arhythmia. Methods FromJanuary 2010toMarch2014,217elderly outpatients and inpatients received painles gastroscopy examination. Thepatientsaged from60\~78 years,average 67.5 years old.Arrhythmia types:3caseswith Sinus tachycardia,16cases with sinusbradycardia，71 cases with ST-T changes，14 cases with premature ventricular contractions， 29cases with Supraventricular prematurebeats，23 cases with atrial premature beats，19 cases with premature ventricularcontractions combined ST-Tchanges,12caseswithatrial prematurebeatscombined ST-Tchanges.Allpatientshavereceivedholistic nursing respectively before painless gastroscopy inspection,the inspection processand after the inspection.ResultsAll patients havebeensuccessullyinpainlessgastrosopy examination,24caseswithtransient speed uporslowdowntheheart rate,blood pressure drop, 45 cases with transient slow down the ${ \mathrm { S p O } } _ { 2 } .$ Vital signs back to normal after anesthesiologists procesed promptly.There is noserious arrhythmias，myocardial ischemicchanges in all patients，overall satisfactionof patients by telephone or survey was $9 5 . 4 \%$ ， $8 0 . 6 \%$ of patients were willing to accept the same examination again. Conclusion Painless gastroscopyexaminationhas potentialisks,holisticnursing interventioncansignificantlyimprovesafetyand patient satisfaction in painless gastroscopy examination.
+
+Key words : painless gastroscopy; holistic nursing; arrhythmia
+
+无痛胃镜检查是在常规胃镜检查时通过静脉注射镇静、镇痛及麻醉药，使患者处于麻醉状态下进行检查，操作完毕后，患者对整个检查过程无记忆、无痛苦的临床操作技术[1]。因其具有痛苦小、安全性高、操作简便等优点，被广泛应用于临床。近年来，由于人口老龄化，门诊及住院行无痛胃镜检查的老年患者日益增多，由于大多数老年患者合并有呼吸、循环等多系统的基础疾病，麻醉及操作风险相对较高，如何进一步提高合并心律失常的老年患者行无痛胃镜检查的安全性及舒适性，则成为临床及护理工作的重点。我科自2010年1月开始，对无痛胃镜检查的心律失常老年患者采取整体护理干预，明显提高了检查安全性和患者满意度，现报道如下。
+
+# 1资料与方法
+
+1.1一般资料
+
+总结2010年1月\~2014年3月在我院门诊及住院行无痛胃镜检查的老年患者。病例入选标准：(1)年龄>60岁；(2)检查前心电图证实至少合并一种心律失常改变。病例排除标准：(1)检查及治疗不能配合者(如阿尔茨海默病、精神分裂症等)；(2)严重冠心病伴心功能不全；(3)严重肺功能不全，不能耐受麻醉者。符合上述条件的病例共计217例，其中男129例，女88例,年龄 $6 0 \sim$ 78岁，平均67.5岁。心律失常类型：窦性心动过速33例、窦性心动过缓16例、ST-T改变71例、室性早搏14例、室上性早搏29例、房性早搏23例、室性早搏合并ST-T改变19例、房性早搏合并ST-T改变12例。
+
+# 1.2 方法
+
+检查前禁食6h、禁饮 $\mathrm { 4 \ h _ { \circ } }$ 常规建立静脉通道,让患者躺在平车上左侧卧位，使用多功能心电监护仪监测患者的血压(BP)心率(HR)、呼吸(R)、血氧饱和度$( \mathrm { S P O } _ { 2 } )$ ,常规低流量吸氧 $2 { \sim } 4 ~ \mathrm { L / m i n }$ ，经静脉缓慢推注丙泊酚，待患者上下眼睑完全闭合，无睫毛反射，肌张力下降后，术者开始胃镜操作。术中严格控制用药量，视检查时间长短和病人反应酌情追加，整个过程由有经验的麻醉科医师实施麻醉和监控
+
+# 1.3护理干预
+
+1.3.1检查前护理干预检查前预约护士对患者及家属进行必要的心理疏导，详细讲解无痛胃镜检查的目的、方法、操作流程、检查的安全性及可靠性，消除患者及家属的疑虑。重点筛查潜在的高危患者，核对心电图、胸片、肝肾功能等检查结果，对于检查前已存在心衰或心肌缺血改变、半年内有急性心脑血管梗塞病史、肺功能不全、肝肾功能不全等高危患者，预约护士需及时向操作医师汇报，必要时申请专科医师会诊或暂缓无痛胃镜检查。
+
+1.3.2检查中护理干预指导患者左侧卧位，头偏向一侧。建立静脉通道，静滴 $0 . 9 \%$ 生理盐水，缓慢静注安定$\mathrm { 1 { \sim } 2 ~ m g }$ ,根据患者情况给予鼻导管或面罩吸氧。严密监测患者的生命体征和意识,防止口垫脱落、呛咳和躁动。一旦出现心率加快或减慢、血压下降、 $\mathrm { \nabla { . } } \mathrm { S P O _ { 2 } }$ 下降或严重心律失常，立即报告麻醉医师，配合麻醉医师给予及时处理。检查结束后，清除患者口、鼻腔分泌物，推入麻醉复苏室复苏。
+
+1.3.3检查后护理干预严密监测患者的生命体征及意识恢复情况，保持去枕左侧卧位，防止误吸，注意保持呼吸道通畅。若患者有无意识的翻动，应帮助取出口垫，拔掉静脉穿刺针。待患者完全清醒，心电监护各项指标均恢复术前水平,患者无胸前区不适、心悸、气促等，即可在家属陪伴下离开。如术中加行了活检或胃镜下治疗等有创性操作，护士应告知患者注意卧床休息，术后1周内进食温凉的流质或软食，不可进食过烫及辛辣刺激的食物和饮品等。检查结束后3\~5d,电话或问卷调查患者对本次检查的满意度(非常满意、比较满意、一般、不满意)及是否愿意再次接受同样检查(愿意、不愿意、无所谓)。
+
+# 2结果
+
+全部患者均顺利完成无痛胃镜检查，术中加行局部活检31例，术中出现一过性心率加快或减慢、血压下降24例，一过性 $\mathrm { { S P O } } _ { 2 }$ 下降45例，经报告麻醉医师予以及时处理后生命体征均恢复正常。全部患者术中均未出现严重心律失常、心肌缺血改变，麻醉清醒后各项生命体征均恢复至术前水平，患者自我感觉良好，无痛苦感及不良记忆，无胸痛、胸闷、心悸、气促等不适。电话或问卷调查患者的满意度：非常满意139例( $6 4 . 1 \%$ ；比较满意68例 $( 3 1 . 3 \% )$ ；一般10例 $( 4 . 6 \% )$ ；不满意0例。愿意再次接受同样检查175例 $( 8 0 . 6 \%$ ），无所谓42例中 $( 1 9 . 4 \% )$ )，不愿意0例。
+
+# 3讨论
+
+无痛胃镜检查是一种操作时间短、无痛苦、安全性高的内镜诊疗技术。但对于伴有心律失常的老年患者，检查过程中可能因情绪紧张、呕吐、呛咳、麻醉药物反应等多种因素，诱发心率加快或减慢、血压及 $\mathrm { { S P O } } _ { 2 }$ 下降，严重者可诱发冠状动脉痉挛,加重心肌缺血，导致严重的心血管并发症甚至猝死。文献报道胃镜检查的并发症发生率为 $0 . 0 9 \% \sim 0 . 4 \% o$ ,死亡率 $0 . 0 2 \% \% o ^ { [ 2 - 3 ] }$ 。Katon等4报道胃镜操作导致死亡的患者中，约 $6 0 \%$ 的死亡是因误吸、严重心律失常和心肌梗塞所致。因此，对于合并心律失常的老年患者，如何最大程度地降低无痛胃镜检查的风险，则成为护理工作的重点。我院消化内镜中心自2010年1月开始，对合并心律失常的老年患者进行整体护理干预，强调检查前预约护士对患者的健康宣教、心理护理,及时筛查出高危患者，必要时暂缓胃镜检查，待全身情况稳定后再择期行无痛胃镜检查，提高检查的安全性。检查中，专科护士严密监测患者的生命体征和意识情况，防止误吸等相关并发症，一旦发现生命体征不稳定或出现严重心律失常，及时向麻醉医师汇报并配合处理。检查结束后,复苏室护士继续严密监测患者的生命体征，保持呼吸道通畅,待患者完全清醒后再次核对各项生命体征是否正常，患者有无胸前区不适等。本次研究中，全部患者均顺利完成无痛胃镜检查，术中未出现严重心律失常、心肌缺血改变,患者自我感觉良好，无痛苦感及不良记忆，电话或问卷调查显示患者的总体满意度(非常满意 $\cdot +$ 比较满意)为 $9 5 . 4 \%$ $8 0 . 6 \%$ 的患者愿意再次接受同样检查。
+
+综上所述，对于合并心律失常的老年患者，无痛胃镜检查是一种具有潜在风险的检查和治疗手段。在与临床医师的紧密沟通和配合下，整体护理可明显提高无痛胃镜检查的安全性和患者满意度，值得进一步推广。
+
+# 参考文献：
+
+[1]姜希望.无痛性消化道内镜术[M].长沙:中南大学出版社,2002: 106-9.   
+[2]赵银彪，陈平.无痛胃镜的临床应用体会[J].内蒙古医学杂志，2013, 45(7): 854-5.   
+[3]Campbell L, Imrie G,Doherty P,et al. Patient maintained sedation for colonoscopy using a target controlled infusion of propofol[J]. Anaesthesia,2004,59(2):127-32.   
+[4]罗朝晖,林谧.无痛胃镜与常规胃镜检查的临床对比研究[J].中国现 代医药杂志,2012,14(1):61-2.   
+[5]Takimoto K,Ueda T, Shimamoto F,etal. Sedation with dexmedeto midinehydrochloride during endoscopic submucosal dissection of gastric cancer[J].Dig Endosc,2011,23(5):176-81.   
+[6]赵双龙，张晋岳.无痛胃镜的安全性和有效性评价[J].山西中医学院 学报,2014,15(2): 54-5.   
+[7」徐辉,郑淑梅,蒋明德,等.超细内镜,无痛内镜与普通内镜临床对比研 究[J].中国消化内镜,2009,3(1):23-5.   
+[8]侯 颖.无痛电子胃镜检查的临床护理[J].中国冶金工业医学杂志, 2015,32(5):539-41.   
+[9]Namiki M. Hazard associated with digestive endoscopy in Japan[J] Gastroenterol Endosc,1984(2): 2439-43.   
+[10]Horiuchi A,Nakayama Y, Tanaka N,et al.Propofol sedation forendoscopic procedures in patients 9O years of age and older[J]. Digestion,2008,78(1): 20-3.   
+[11]上海市内窥镜协作组.消化道内窥镜操作引起的并发症[J].中华消 化杂志,1983,3(2):66-70.   
+[12]Murata A，Akahoshi K,Motomura Y,et al．Prospective comparativestudy on the acceptability of unsedated transnasal endoscopy inyounger versus older patients[J].J Clin Gastroenterol, 2011,42(9): 965-8.   
+[13］周少丽.异丙酚对心血管系统的影响[J].国外医学(麻醉学与复苏分 册),2002,23(6): 29-331.   
+[14]Katon RM. Complication of upper gastrointestinal endoscopy in the gastrointestinal bleeder[J].Dig Dis Sci, 1981,26(7 Suppl): 47-54.
+
+# 护理园地
+
+# 肩锁关节脱位术后疼痛的护理干预
+
+唐荣妹，郑 芸，熊芳梅连州市中医院护理部，广东 连州513400
+
+摘要：目的 观察肩锁关节脱位术后疼痛实施护理干预的效果。方法 选取行切开复位内固定术的肩锁关节脱位患者200例，术后按随机化分为A、B两组。A组遵医嘱给予止痛药,B组在常规组的基础上给予环境控制、心理护理、体位护理、指导功能锻炼、耳穴贴压等护理措施。观察两组术后第1、2、3天数字疼痛评分。结果B组术后第1、2、3天NRS评分均优于A组,差异均有统计学意义 $( P { < } 0 . 0 5 ) _ { \circ }$ 结论 对于肩锁关节脱位术后疼痛的患者,实施护理干预能够有效缓解疼痛,提高其住院期间生活质量。关键词：肩锁关节脱位；内固定术后;疼痛;护理措施
+
+# Jursing intervention for postoperative pain of acromioclavicular joint dislocatiol
+
+TANG Rongmei,ZHENG Yun,XIONG Fangmei Nursing Department,Chinese Traditional Medicine HospitalofLianzhou,Lianzhou 5134o0,China
+
+Abstract: Objective To observe the efect of nursing care for pain of postoperative of acromioclavicular joint dislocation. Methods We selected 200 patients of acromioclavicular joint dislocation who were conductedopen reduction and internal fixation,and randomly divided into group AandB.patients of group A were given antalgesicfolowthe doctors'advice,and patients in group B were given nursing intervention such as environment control, psychological nursing, posture nursing guiding functioning trainngauricularpoint stickingapartfrombasicconventional disposal,observed thenumberatingscale (NRS)at 1st,2nd,3rddaypostoperation ofboth groups.Results The scoreof NRSat1st,2nd,3rd dayof groupB were significantly better than group A respectively $_ { ( P < 0 . 0 5 ) }$ . Conclusion Nursing intervention to the postoperative patients of acromioclavicular joint dislocation can effectively relief pain and improve the qualityof ife during hospitalization. Key words: acromioclavicular joint dislocation; post internal fixation; pain; nursing intervention
+
+中，男69例,女31例,年龄23\~59岁，平均 $4 1 . 2 { \pm } 3 . 3 \$ 岁；致伤时间距手术3\~7d,平均 $3 . 7 { \pm } 1 . 6 \ ( \$ d;按Tossy分型分类：Ⅱ型73例，Ⅲ型27例。两组在性别、年龄、分型等方面差异无统计学意义 $( P { > } 0 . 0 5 )$ ，具有可比性。
+
+肩锁关节脱位是临床骨科常见病种之一，占肩部损伤的 $4 \% { \sim } 6 \%$ ,多见于青壮年人群，男多于女。目前，在临床上对肩锁关节脱位的治疗可采取非手术治疗和手术治疗，而对损伤较大的Ⅱ、Ⅲ型一般行手术治疗，肩锁关节切开复位内固定术是较为常用的手术方法，而手术作为一种创伤性治疗方法，对肩关节局部组织都有一定程度损伤，术后3d内患者疼痛较为剧烈，此时精心的护理措施显得至关重要。现就肩锁关节脱位术后疼痛的护理干预报告如下。
+
+# 1.2 护理干预
+
+1.2.1A组护理方法遵医嘱予以止痛药：必要时口服去痛片1片，或口服洛芬待因缓释片2片，1次/12h;若疼痛不能耐受，可予以止痛针：肌肉注射盐酸曲马多注射液 $1 0 0 \mathrm { m g } , 1$ 次/d,肌肉注射双氯芬酸钠利多卡因注射液$7 5 \mathrm { m g } , 1$ 次/d。
+
+# 1资料与方法
+
+1.1一般资料
+
+选取我院骨科自2013年11月\~2015年11月期间收入院的经x线摄片确诊为肩锁关节脱位的患者200例，均予行切开复位内固定术，术后按随机化原则分为A、B两组，各100例。A组中，男64例，女36例;年龄19\~56岁，平均 $3 8 . 2 { \pm } 4 . 5 \$ 岁；致伤时间距手术2\~6d,平均3.$5 { \pm } 1 . 3 \mathrm { d }$ ；按Tossy分型分类：Ⅱ型68例，Ⅲ型32例。B组
+
+1.2.2B组护理方法在A组的基础上给予：(1)环境控制：为患者提供安静、舒适的环境，加强陪护及探视制度管理，减少不必要的打扰，保证充足的睡眠；(2)心理护理：与患者建立良好的护患关系，取得患者的信任与配合，同时对患者给予必要的解释和对疾病知识的宣教，多关心患者，以缓解紧张、焦虑等情绪；指导其适当观看电视节目、听轻音乐、与同室病友交流等以转移注意力;(3)体位护理：伤侧上肢予以适当体位，卧床时予小气枕抬高伤侧上肢，下床活动时维持三角币悬吊；当体位不适时，纠正动作应轻柔、准确；(4)指导功能锻炼：手术

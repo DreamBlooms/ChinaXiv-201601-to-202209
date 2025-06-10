@@ -1,0 +1,223 @@
+# 利用瑞利激光雷达观测北京地区上平流层地形重力波活动
+
+郭文杰1,²，胡雄¹，闫召爱1，郭商勇¹，程永强¹，杨钧烽1,21中国科学院空间科学与应用研究中心，北京1001902中国科学院大学，北京100049
+
+摘要本文利用中国科学院空间科学与应用研究中心的瑞利激光雷达首次观测到了平流层地形重力波活动的现象，并结合美国国家环境预报中心(NCEP)的全球预报系统(GFS)的风场数据分析了该地形重力波的基本参数.与惯性重力波相比较,地形重力波的密度扰动没有下传的相位,在同一高度上，其扰动相位保持不变.北京空间科学与应用研究中心瑞利激光雷达自2012年开始观测实验以来，已经观测到多起地形重力波活动事件.本文以 2013年11月11日的观测数据为例，研究北京上空的地形重力波活动，并结合GFS 风场数据分析了北京上平流层地形重力波的波长、传播方向、传播速度等参量.通过分析得到在2013年11月11日北京上空存在一列传播方向为北偏西 $5 2 . 4 ^ { \circ }$ ,水平波长为 $5 . 5 ~ \mathrm { k m }$ ，平均垂直波长约为 $6 . 0 \ \mathrm { k m }$ 的地形重力波.
+
+关键词瑞利激光雷达；地形重力波；山地波
+
+doi:10.6038/cjg20151004 中图分类号 P407
+
+收稿日期2014-11-25，2015-09-23收修定稿
+
+# errain-generated gravity waves in the upper stratosphere detected by Rayleigh lidar
+
+GUO Wen-Jie $^ { 1 , 2 }$ ，HU Xiong¹，YAN Zhao-Ai¹，GUO Shang-Yong1 , CHENG Yong-Qiang1 ，YANG Jun-Feng1,2 1 National Space Science Center，Chinese Academy of Sciences，Beijing lool9o，China 2UniversityofChineseAcademyofSciences，Beijing1ooo49，China
+
+AbstractGravity wave activity in the upper stratosphere is investigated using density data retrieved from the Rayleigh lidar of National Space Science Center， Chinese Academy of Sciences. Combining the Rayleigh lidar data with the wind data of National Centers for Environmental Prediction（NCEP） Global Forecast System（GFS），we study a mountain wave observed on November 11，2O13. The parameters of this mountain wave， such as propagation direction and propagation speed，have been calculated.
+
+Gravity wave perturbations are extracted from $0 . 5 \ \mathrm { h } \times 1 \ \mathrm { k m }$ density profiles. The relative density perturbations are expressed by $\rho ^ { ' } ( z ) = ( \rho ( z ) - \rho _ { 0 } ( z ) ) / \rho _ { 0 } ( z )$ ，where $\rho ^ { ( \mathfrak { z } ) }$ is the measured atmosphere density，and $\rho _ { \mathrm { 0 } } \left( z \right)$ is the background density which is calculated by fitting the logarithmic form of whole night mean density with 4 order polynomial. The background wind data are achieved by applying a linear polynomial fiting to the NCEP-GFS wind data between 20 to $4 8 ~ \mathrm { k m }$ altitude. Using the data extracted from the complete density perturbations structure and the background wind data，we calculate the parameters of gravity waves observed on November 11，2013 by the gravity wave dispersion equation.
+
+The complete density perturbation structure shows an obvious phenomenon of mountain gravity wave activity. The wave phases at same altitude remain unchanged in the whole night. The perturbation structure shows that vertical wavelength is about $5 . 5 ~ \mathrm { k m }$ but changes with altitude. A group of over-determined equations can be established by substituting the data extracted from the complete density perturbations structure and the background wind data into the gravity wave dispersion equation. And two groups of solutions are obtained by using the least squares method to solve these over-determined equations. The wind profiles in the direction of two sets of solutions have been analyzed. A critical layer (zero wind layer） which will prevent the upward propagation of mounting waves is found in the wind profile in the direction of $3 7 . 9 ^ { \circ }$ (or $2 1 7 . 9 ^ { \circ } $ ).Finally，the gravity waves observed on November 11，20l3 propagate in the direction of $5 2 . 4 ^ { \circ }$ from the north to the west，with a horizontal wavelength of $5 . 5 ~ \mathrm { k m }$ ：
+
+Compared with inertia waves， there is no downward-propagating or upward-propagating phase in the density perturbation structure. At the same altitude,the phase remains unchanged in the whole night. Such kind of gravity wave perturbation structures have been often observed in winter. Density data obtained by Rayleigh lidar and NCEP-GFS wind data at Beijing are used to analyze a mountain wave parameters observed on November l1，2Ol3. By analysis，we obtain terrain-generated gravity waves propagating in the direction of $5 2 . 4 ^ { \circ }$ from the north to the west, with a horizontal wavelength of $5 . 5 ~ \mathrm { k m }$ and average vertical wavelength of $6 . 0 \ \mathrm { k m }$ ：
+
+KeywordsRayleigh lidar；Terrain-generated gravity waves;Mountain wave
+
+# 1引言
+
+地形重力波是由于空气流经山脉、丘陵等地形障碍时，受地形强迫发生垂直位移而产生的波动.地形重力波对平流层大气环流、热力学结构以及化学组分有重要的影响(Alexanderetal.，201la).目前国内外已经有很多利用卫星探测数据对平流层地形重力波的研究工作.Alexander和Teitelbaum（2007）通过分析卫星探测数据，发现2003年9月10日在南极半岛上空有一列水平波长为 $3 0 0 ~ \mathrm { k m }$ ，垂直波长为 $2 0 ~ \mathrm { k m }$ 的西北向传播的地形重力波.Jiang和 $\mathrm { w } _ { \mathrm { u } }$ （2001）利用UARS（Upper Atmosphere ResearchSatellite)的 MLS(Microwave Limb Sounder)数据研究了安第斯山脉的地形重力波，阐述了地形重力波与背景风场的相互作用，指出在由西风主导的背景风场下，地形重力波可以传播到 $5 0 ~ \mathrm { k m }$ 的高度.他们发现安第斯山脉处的地形重力波水平波长大多为 $1 1 0 ~ \mathrm { k m }$ 和 $4 0 0 ~ \mathrm { k m }$ 左右.气流流经澳大利亚和非洲副热带地区的山脉形成的地形重力波波长和振幅较小，不易被卫星探测到.Eckermann 和 $\mathrm { w } _ { \mathrm { u } }$ (2012)通过改进算法提高信噪比得到了澳大利亚和非洲的副热带地区平流层地形重力波.目前，国内外尚没有利用瑞利激光雷达对地形重力波个例的研究.本文从地形重力波色散关系出发，利用中国科学院空间科学与应用研究中心的瑞利激光雷达观测的数据以及美国国家环境预报中心（National Centers For EnvironmentalPrediction，NCEP)的全球预报系统(GlobalForecastSystem，GFS)的风场数据，针对北京上空的地形重力波个例进行了研究，并分析计算了该重力波参数.
+
+# 2 基本理论
+
+地形重力波由气流流经地形障碍(如丘陵，山脉等)而形成.地形重力波的振幅与导致其产生的地形障碍成比例.地形重力波相对于地面是静止的.地形重力波的水平固有相速度为 $\hat { c } _ { \mathrm { \scriptsize ~ h } } = - u _ { 0 }$ ，其中 $u _ { 0 }$ 指的是与地形相垂直的背景风的分量；波的水平传播方向与水平风速方向相反，如果风速随高度变化，那波速也会随高度变化.
+
+地形波的固有频率为：
+
+$$
+\hat { w } = w - k u _ { \mathrm { ~ 0 ~ } } = - k u _ { \mathrm { ~ 0 ~ } } .
+$$
+
+根据Fritts和Alexander(2O03)的理论推导，重力波的色散关系为：
+
+$$
+m ^ { 2 } = \frac { k ^ { 2 } ( N ^ { 2 } - \hat { w } ^ { 2 } ) } { \hat { w } ^ { 2 } - f ^ { 2 } } - \frac { 1 } { 4 H ^ { 2 } } ,
+$$
+
+其中， $k$ 和 $\mathbf { \Psi } _ { m }$ 分别为水平波长和垂直波长， $N$ 为浮力频率， $f$ 为科里奥利参数， $H$ 为大气标高.
+
+在 4H@²》f²的情况下,色散关系可以简化为：
+
+$$
+m ^ { 2 } = \frac { N ^ { 2 } } { u _ { \mathrm { 0 } } ^ { 2 } } - k ^ { 2 } .
+$$
+
+当 $u _ { 0 } = 0$ 时， $m  \infty$ ，此时，垂直波速为零.我们将背景风速为零的区域称作临界层，在临界层，地形重力波将被吸收或者反射.
+
+当 $\left| \frac { N } { u _ { 0 } } \right| < | k |$ 时， $\mathbf { \Psi } _ { m }$ 为虚数，重力波将发生耗散.
+
+# 3 瑞利激光雷达实验
+
+中国科学院空间科学与应用研究中心（简称空间中心)于2011年建立瑞利激光雷达，以探测 $3 0 \sim$ $7 0 ~ \mathrm { k m }$ 高度范围内大气的温度和密度.该瑞利激光雷达的参数如表1.
+
+激光光束垂直进入大气，在 $3 0 ~ \mathrm { k m }$ 以上的高度（一般认为不存在气溶胶粒子），后向散射光主要来自于大气分子的瑞利散射，因此后向散射光子数正比于大气的密度.大气的相对密度值可以由光子信号直接得到.以 $3 0 ~ \mathrm { k m }$ 高度上SABER卫星数据的
+
+# 表1空间中心瑞利激光雷达参数
+
+Table1Parameters of Rayleigh lidar in National Space Science Center，CAS   
+
+<html><body><table><tr><td>激光波长</td><td>532 nm</td></tr><tr><td>激光功率</td><td>15W</td></tr><tr><td>激光频率</td><td>30 Hz</td></tr><tr><td>脉冲宽度</td><td>7 ns</td></tr><tr><td>脉冲能量</td><td>500 mJ</td></tr><tr><td>望远镜开口面积</td><td>0.4m</td></tr></table></body></html>
+
+大气密度为参考值，可得到大气的绝对密度（Wilsonetal.，1991;Marshetal.，1991).大气温度的反演在理想气体以及静力平衡的假设下，以最大观测高度上的SABER卫星温度数据为参考值，利用大气绝对密度得到大气的温度廓线.温度表达式为(Whiteway and Carswell,1995）:
+
+$$
+T ( z ) = \frac { \rho ( z _ { 0 } ) T ( z _ { 0 } ) } { \rho ( z ) } + \frac { \int _ { z } ^ { z _ { 0 } } \rho ( r ) g \mathrm { d } r } { \rho ( z ) R _ { \mathrm { d } } } ,
+$$
+
+其中 $R _ { \mathrm { d } }$ 为理想气体常数.
+
+图1为2013年11月11日观测的大气温度廓线，累积观测时长 $3 2 4 ~ \mathrm { m i n }$ ，距离分辨率为 $1 ~ \mathrm { k m }$ 其中，细实线为2013年11月12日北京地区 $( 4 0 . 9 8 ^ { \circ } \mathrm { N }$ $1 1 4 . 1 0 ^ { \circ } \mathrm { E } )$ 的卫星温度数据.
+
+# 4重力波分析方法和结果
+
+# 4.1利用激光雷达数据提取重力波
+
+空间中心的瑞利激光雷达自建立开始，已有49个夜晚的观测数据，其中，最短观测时长为 $2 \textrm { h }$ ，最长连续观测时长为 $1 1 \mathrm { ~ h ~ }$ ，累积观测时长300多个小时.
+
+![](images/2f943b5db19d3f930cc0066f6738506799e973e49e0a6b93101a497de9fa7237.jpg)  
+图12013年11月11日瑞利激光雷达观测的大气温度以及SABER 温度数据  
+Fg.1Atmospheric temperature measured by Rayleigh lidar and SABER temperature on November 11，2013
+
+重力波波动通过瑞利雷达的密度数据来计算.密度扰动的表达式为：ρ'（z)=ρ(z）-ρ（≥）， ,其中p（x）$\rho ^ { ( \boldsymbol { z } ) }$ 为观测到的大气密度， $\rho _ { \mathrm { 0 } } \left( z \right)$ 为背景密度（Hertzog et al.，20Ol；Li et al.，20lO；Sivakumaretal.，2006).在背景密度的计算中，考虑到密度随高度指数递减，因而首先对整晚的平均密度廓线取自然对数再进行4次多项式拟合，进而得到无扰动的背景密度曲线（Gaoetal.，1998）.
+
+以2013年11月11日的观测数据为例，研究北京上空平流层的重力波活动.2013年11月11日的连续观测时长为 $3 2 4 ~ \mathrm { m i n }$ ，用于计算重力波扰动的密度数据分辨率为 $0 . 5 \ \mathrm { h } \times 1 \ \mathrm { k m } .$ 表2给出了四个特征高度上半小时积分的大气密度测量误差，
+
+图2为当晚的密度扰动图.
+
+表2密度测量误差  
+Table 2Uncertainty of the density measurement   
+
+<html><body><table><tr><td>高度(km)</td><td>30</td><td>40</td><td>50</td><td>60</td></tr><tr><td>误差(%)</td><td>0.0857</td><td>0.1842</td><td>0.4235</td><td>0.9722</td></tr></table></body></html>
+
+![](images/eb7e9c79b8d5466cfc555c98c907ac6e983d9d5a6d9f9eb65ae9d3e35dc82ee9.jpg)  
+图22013年11月11日半小时分辨率的相对密度扰动
+
+从图2中可以看到明显的重力波波动，并且在$5 0 ~ \mathrm { k m }$ 以下相同高度上的相位基本保持不变，这符合地形重力波的特征.该重力波在不同的高度上的垂直波长不同，这是由于风速随高度变化引起的.通过测量波峰与波峰之间以及波谷与波谷之间的距离可以得到不同高度上的垂直波长.表3给出了测量得到的几个高度上的垂直波长.
+
+# 4.2结合GFS风场数据的重力波多参量分析方法和结果
+
+# 4.2.1 浮力频率
+
+浮力频率 $N ^ { 2 } = g { \frac { \partial \ln \theta } { \partial z } } = - { \frac { g } { \rho } } \Big ( { \frac { \partial \rho } { \partial z } } + { \frac { \rho g } { c ^ { 2 } } } \Big )$ ,其中$c = \sqrt { \gamma R _ { \mathrm { d } } T }$ 为声速， $\gamma$ 为定压热容与定容热容之比.根据浮力频率的计算公式，利用当晚的观测的温度和密度数据，可以计算得到浮力频率随高度变化廓线，如图3所示.
+
+# 4.2.2 背景风速
+
+背景风速会影响地形重力波的垂直波长，对重力波的传播起到关键作用（Eckermann，1995；
+
+![](images/3c922159412977b130c4ca513f055d6120aa7a121eda0b9a539ab8839922fa80.jpg)  
+Fig.2Half-hour relative density perturbation on November 11，201:   
+图3浮力频率  
+Fig.3Buoyancy frequency
+
+Collinsetal.，1996；陈操，2010).在分析计算地形重力波参数时，需要知道当天的背景风速.我们利用NCEPGFS分析资料给出的北京地区 $( 4 0 ^ { \circ } \mathrm { N } , 1 1 6 ^ { \circ } \mathrm { E } )$ 2013年11月11日的风速来计算背景风速.GFS分析资料在2013年11月11日有0时、6时、12时、18时（UT时)4个时刻的风场数据.由于我们的观测时间为16时到21时，因而采用18时的风场数据，在$2 0 { \sim } 4 8 ~ \mathrm { k m }$ 高度范围内做线性拟合，作为背景风速.
+
+![](images/08b5784d0a34839ff788ac2b51718e29b6ec51423fa6598bbbb1ba5e74a69a2a.jpg)  
+图4NCEP-GFS 风场数据与拟合的风场数据：纬向风 Fig.4NCEP-GFS wind data and the fitted result:zonal wind
+
+![](images/c1c96d01b6c4c205924124c4712fa3d27794bddeedc3344fa8b5d30a3506ab8e.jpg)  
+图5NCEP-GFS风场数据与拟合的风场数据：径向风 Fig.5NCEP-GFS wind data and the fitted result: meridional wind
+
+图4和图5分别为当天 $2 0 { \sim } 4 8 ~ \mathrm { k m }$ 高度范围内的风速拟合得到的纬向风和径向风结果.
+
+# 4.2.3 参数计算
+
+根据密度的扰动图，可以大致测出不同高度上的垂直波长.我们将不同高度上的各个参数汇总见表3所示.
+
+表3不同高度上的测量参数  
+Table 3Parameters at different heights   
+
+<html><body><table><tr><td>高度 (km)</td><td>垂直 波长 λ(km)</td><td>浮力 频率 N(Hz)</td><td>垂直 波数 m(m-1)</td><td>纬向 风速 U(m·s-1)V(m·s</td><td>径向 风速 1）</td><td>大气 标高 H(km)</td></tr><tr><td>33.35</td><td>6.823</td><td>0.022599.209×10-4</td><td></td><td>18.97</td><td>1. 11</td><td>6.39</td></tr><tr><td>35.12</td><td>6.00</td><td></td><td>0.02218 1.047×10-3</td><td>18.56</td><td>2.13</td><td>6.61</td></tr><tr><td>39.02</td><td>4.385</td><td></td><td>0.02151 1.433×10-3</td><td>18.25</td><td>2.90</td><td>6.94</td></tr><tr><td>41. 71</td><td>5.385</td><td></td><td>0.02094 1.167×10-3</td><td>17.92</td><td>3.75</td><td>7. 16</td></tr><tr><td>44.50</td><td>5.769</td><td></td><td>0.02025 1.089×10-3</td><td>17.60</td><td>4.60</td><td>7.39</td></tr><tr><td>48.18</td><td>7.692</td><td></td><td>0.01928 8.168×10-4</td><td>17.24</td><td>5.56</td><td>7.65</td></tr></table></body></html>
+
+将 $\hat { w } = w - k \cdot u = - k \cdot u$ 代入到色散关系式并考虑到 $m ^ { 2 } \gg \frac { 1 } { 4 H ^ { 2 } }$ 4H，可得：
+
+$$
+k ^ { 2 } ( m ^ { 2 } u _ { 0 } ^ { 2 } + k ^ { 2 } u _ { 0 } ^ { 2 } - N ^ { 2 } ) = m ^ { 2 } f ^ { 2 } .
+$$
+
+在表中任选两个高度上的数据，并假设波的传播方向角为 $\theta$ （以正北的风向为 $0 ^ { \circ }$ )，即可得到方程组：
+
+$$
+k ^ { 2 } ( m _ { 1 } ^ { 2 } u _ { 1 } ^ { 2 } + k ^ { 2 } u _ { 1 } ^ { 2 } - N _ { 1 } ^ { 2 } ) = m _ { 1 } ^ { 2 } f ^ { 2 } ,
+$$
+
+$$
+k ^ { 2 } ( m _ { 2 } ^ { 2 } u _ { 2 } ^ { 2 } + k ^ { 2 } u _ { 2 } ^ { 2 } - N _ { 2 } ^ { 2 } ) = m _ { 2 } ^ { 2 } f ^ { 2 } ,
+$$
+
+$$
+u _ { 1 } = u _ { 0 1 } \mathrm { s i n } \theta + v _ { 0 1 } \mathrm { c o s } \theta ,
+$$
+
+$$
+u _ { 2 } = u _ { 0 2 } \mathrm { s i n } \theta + \mathrm { v } _ { 0 2 } \mathrm { c o s } \theta .
+$$
+
+解上述方程组可得到重力波的传播方向 $\theta$ 和水平波数 $k$ 以及水平波长 $\lambda = 2 \pi / k$ ．对于每两个不同高度上的数据，可以得到两组解.表4给出了传播方向 $\theta$ 和水平波长 $\lambda$ 的平均值、标准差以及方差.
+
+# 表4解的平均值、标准差和方差
+
+Table 4Mean value，standard deviation and variance of the solutions   
+
+<html><body><table><tr><td></td><td>平均值</td><td>标准差</td><td>方差</td></tr><tr><td>0</td><td>40.5°</td><td>7.4°</td><td>54.1°</td></tr><tr><td>02</td><td>122.8°</td><td>6.6°</td><td>43.9°</td></tr><tr><td>入1</td><td>5.7km</td><td>1.2 km</td><td>1.4 km²</td></tr><tr><td>入2</td><td>5.6km</td><td>0.7km</td><td>0.5km²</td></tr></table></body></html>
+
+我们还可以采用最小二乘法来求解上述超定方程.
+
+表3中，任意高度上一组数据代入(5)式，并结合(8)、(9)式可以得到一个包含两个未知数 $( k , \theta )$ 的非线性方程.求解这样一个非线性方程组难度较大.为了方便计算，将任意两个高度上的数据代入（6）—(9)式，经化简后可得到一个只包含一个未知数 $( \theta )$ 的方程.由6个不同高度上的数据可以得到一个由15个方程组成的方程组.然后再根据最小二乘原理，求使得该方程组平方和最小的解 $\theta .$ 进而再求得另一个未知数 $( k )$ 的解.最终得到了两组极小值解：
+
+$$
+\theta _ { 1 } = 3 7 . \ 9 ^ { \circ } , k _ { 1 } = 0 . \ 0 0 1 1 6 \ \mathrm { m } ^ { - 1 } , \lambda _ { 1 } = 5 . \ 4 \ \mathrm { k m }
+$$
+
+$$
+\theta _ { 2 } = 1 2 7 . 6 ^ { \circ } , k _ { 2 } = 0 . 0 0 1 1 4 \ \mathrm { m } ^ { - 1 } , \lambda _ { 2 } = 5 . 5 \ \mathrm { k m } .
+$$
+
+与表4的结果相比较，用最小二乘法得到的结果在表4给出结果的误差范围以内.两种方法得到的结果一致性较好.我们以最小二乘法得到的结果为准，对两组解进行分析.
+
+为了检验这两组解的正确性，下面分别给出在$\theta _ { 1 } \ldots \theta _ { 2 }$ 方向上风速随高度的变化曲线.
+
+由图6可知， $\theta _ { 1 }$ 方向上的风速在低空存在零风层(临界层)，这将阻碍地形重力波向上传播，因此，观测到的地形重力波的传播方向不可能是 $\theta _ { 1 }$ .而在$\theta _ { 2 }$ 方向上，从地面到 $4 8 ~ \mathrm { k m }$ 高度范围内的风速都为正，这使地形波的向上传播到达上平流层成为可能，考虑到水平波数 $k$ 的方向和水平风速方向相反，且$\theta _ { 2 }$ 方向上风速方向为正，所以 $k$ 的方向为 $\theta _ { 2 }$ 的反方向（即 $3 0 7 . 6 ^ { \circ } \mathrm { ~ , ~ }$ .因此，观测到的地形重力波的传播方向为 $3 0 7 . 6 ^ { \circ }$ （即北偏西 $5 2 . 4 ^ { \circ } )$ ，水平波长为 $5 . 5 ~ \mathrm { k m }$
+
+![](images/68ec42a2b14fb48d1f617470588e6600a25e07a2a0ff3e3fbee1c4c68901441e.jpg)  
+图6 $\theta _ { 1 }$ 和 $\theta _ { 2 }$ 方向上的风速Fig.6The wind profiles in $\theta _ { 1 }$ and $\theta _ { 2 }$
+
+# 5结论
+
+本文分析研究了一列由中国科学院空间科学与应用研究中心瑞利激光雷达观测到的北京上空的地形重力波，这是国内外首次由瑞利激光雷达观测到地形重力波的案例.在整晚的密度扰动结构图中可以看到明显的重力波波动.该波动在不同高度上具有不同的垂直波长，且相位在同一高度上保持不变.结合NCEP-GFS风场数据，我们分析计算出了地形重力波基本参数，如波长、传播方向等参数.证明2013年11月11日在北京上空存在一列传播方向为北偏西 $5 2 . 4 ^ { \circ }$ ，水平波长为 $5 . 5 ~ \mathrm { k m }$ ，平均垂直波长约为 $6 . 0 \ \mathrm { k m }$ 的地形重力波.
+
+致谢背景风场数据获取自美国国家环境预报中心(NCEP)的全球预报系统(GFS)网站.
+
+# References
+
+Alexander MJ，Teitelbaum H. 2oo7.Observation and analysis of a large amplitude mountain wave event over the Antarctic peninsula. J.Geophys.Res.,112(D21),doi：10.1029/2006JD008368.   
+AlexanderSP，KlekociukAR，PittsMC，etal.201la.The effect of orographic gravity waves on Antarctic polar stratospheric cloud occurrence and composition.Journal of Geophysical Research：Atmospheres，116(D6)：D06109.   
+Alexander SP，KlekociukAR，MurphyDJ.201lb.Rayleigh lidar observations of gravity wave activity in the winter upper stratosphere and lower mesosphere above Davis，Antarctica 0 ${ \mathrm { 6 9 } } ^ { \circ } { \mathrm { S } }$ ，78°E)．J.Geophys.Res.，116(D13),doi:10.1029/ 2010JD015164.   
+Chen C. 2olo. The preliminary studies on the gravity waves of midatmosphere through Rayleigh lidar techniques [Master's thesis] (in Chinese).Wuhan：University of Science and Technology of China.   
+Collins R L，Tao X，Gardner C S. 1996.Gravity wave activity in the upper mesosphere over Urbana， Illinois: lidar observations and analysis of gravity wave propagation models. Journal of Atmospheric & Terrestrial Physics，58(16)：1905-1926.   
+Eckermann S D. 1995. Effect of background winds on vertical wavenumber spectra of atmospheric gravity waves. J. Geophys. Res.，100(D7)：14097-14112.   
+Eckermann S D，Wu D L. 20l2. Satellite detection of orographic gravity-wave activity in the winter subtropical stratosphere over Australia and Africa.Geophysical Research Letters,39（21）, doi:10.1029/2012GL053791.   
+Fritts D C,Alexander M J. 2Oo3. Gravity wave dynamics and efects in the middle atmosphere. Reviews of Geophysics,41(1),doi：10. 1029/2001RG000106.   
+Gao X，Meriwether JW，WickwarVB,et al.1998.Rayleigh lidar measurements of the temporal frequency and vertical wavenumber spectra in the mesosphere over the Rocky Mountain region.J. Geoph ys.Res.，103(D6)：6405-6416.   
+Hertzog A，Souprayen C，Hauchecorne A.2Ool.Measurements of gravity wave activity in the lower stratosphere by Doppler lidar. Journal of Geophysical Research：Atmospheres，106（D8）: 7879-7890.   
+Jiang J H，Wu D L. 2001.UARS MLS observations of gravity waves associated with the Arctic winter stratospheric vortex. Geoph ysical Research Letters，28(3):527-530.   
+Li T，Leblanc T，McDermid I S，et al． 20lo．Seasonal and interannual variability of gravity wave activity revealed by longterm lidar observations over Mauna Loa Observatory，Hawaii. Journal of Geophysical Research ：Atmospheres，115(Dl3): D13103.   
+Marsh A K P，Mitchell N J，Thomas L. 1991． Lidar studies of stratospheric gravity-wave spectra. Planetary & Space Science，39 (11)：1541-1548.   
+Sivakumar V,Rao PB,Bencherif H. 2O06.Lidar observations of middle atmospheric gravity wave activity over a low-latitude site(（Gadanki, 13.5N,79.2°E). Annales Geophysicae，24(3): 823-834.   
+Whiteway J A，Carswell A I. 1995. Lidar observations of gravity wave activity in the upper stratosphere over Toronto. Journal ofGeophysical Research ：Atmospheres，100(D7)：14113-14124.   
+Wilson R,Chanin M L, Hauchecorne A. 1991. Gravity waves in the middle atmosphere observed by Rayleigh lidar 1. Case studies.J. Geophys.Res.，96(D3):5153-5167.
+
+# 附中文参考文献
+
+陈操．2010.中层大气重力波的瑞利激光雷达初步研究[硕士论文]．武汉：中国科学技术大学.
+
+(本文编辑何燕)

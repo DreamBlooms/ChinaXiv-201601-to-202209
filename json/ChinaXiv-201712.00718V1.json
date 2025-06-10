@@ -1,0 +1,325 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "spvB/spvC基因对沙门菌毒力及宿主免疫功能的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘晓艳1，陈 强²，李 红²，朱春晖²，吴春雪²，王文杏'，余晓君²  \n1南昌大学研究生院医学部，江西省儿童医院，江西南昌330006",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的 研究spuB/spuC基因对沙门菌毒力及对宿主免疫系统的影响。方法野生型沙门菌(STM.211）、敲除spuB基因的沙门菌(STM.211-△spuB)敲除spvC基因的沙门菌(STM.211-△spvC)敲除 $\\mathrm { s } p v B$ 及spvC基因的沙门菌(STM.211-△spvB.spvC)和PBS组分别经腹腔注射 $0 . 2 \\mathrm { m L } 1 0 ^ { 5 }$ CFU的STM.211、STM.211-△spvB、STM.211-△spvC、STM.211-△spvB.spvC感染 BALB/c 小鼠,观察小鼠精神状态、运动情况、腹泻、体质量、毛发改变等感染中毒症状,用ELISA法测定小鼠血清IL-10、IL-12、IFN-γ水平;并分离小鼠肝、脾,观察靶器官大体观及显微镜下的病理改变。结果（1)STM.211、STM.211-△spuB和STM.211-△spuC组的中毒症状明显较PBS组严重,STM.211-△spuB.spuC组与PBS组间无明显差异;(2)STM.211组、STM.211-△spuB组、STM.211-△spuC 组的IFN-γ和 IL-12分泌量均显著低于 STM.211-△spuB.spvC 组 $( P { < } 0 . 0 5 )$ ,而IL-10的分泌量明显高于STM.211-△spuB.spvC组( $P <$ 0.05);STM.211组、STM.211-△spuB组、STM.211-△spvC组间差异无统计学意义 $( P { > } 0 . 0 5 )$ 。结论(1)spvB/spvC基因缺失对沙门菌毒力影响不明显，但spuB.spuC基因共同缺失，使沙门菌毒力减弱； $( 2 ) s p v B / s p v C$ 基因相对抑制TH1细胞因子IFN-γ和IL-12的分泌,促进TH2细胞因子IL-10的分泌,使免疫应答向TH2方向偏移，从而有利于病原菌抵抗和逃避宿主的免疫防御,加重感染结局。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：鼠伤寒沙门菌； $s p v$ 基因；毒力；免疫功能",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effect of spvB/spvC gene on salmonella virulence and the host immune function ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIU Xiaoyan',CHENQiang²,LIHong²,ZHU Chunhui²,WUChunxue²,WANG Wenxing',YU xiaojun MedicalBoardfcangesity'sdatesiutengicialden'sspital,nin ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective To studythe effctof spoB/spuCgeneon Salmonell virulenceand the Hostimmune.Methods STM.211, STM.211-△spoB, STM.211-△spuC, STM.211-△spuB.spvC and PBS were infected with $0 . 2 \\mathrm { ~ m L ~ } 1 0 ^ { 5 }$ CFU corresponding strain respectivelybyintraperitoneal.Weobserved themental status,movement,diarrhea,weight,pelagechangedhairof the infected mouse. Then the level of IL-10, IL-12, IFN- $\\cdot \\gamma$ were detected by ELISA. Finally, we observe the pathological changes of liver and spleen with the general viewand the microscope.Results Infection symptoms of STM.211,STM.211-△spBand STM.211-△spoCwere significantly worse than PBS group,but there was no significant diference between STM.21-spuB.spC group and PBS group. The secretion of $\\mathrm { I F N - } \\gamma$ and IL-12 of STM.211, STM.211-△spvB, STM.211-△spvC group were significantly lower than those in the STM.211-△spuB.spuC group $_ { ( P < 0 . 0 5 ) }$ but IL-10 secretion was significantly higher than STM.211-△spuB. spvC group $( P { < } 0 . 0 5 )$ . There were no statistical significance among the STM.211, STM.211-△SpoB, STM.211-△spvC groups ( $P >$ 0.05). Conclusion Salmonella virulence canbe afected obviously by spvBcombined withspvCgene, butnotbyspvB o spuC. spuB/spuC gene can inhibit the TH1 cytokines ( $\\mathrm { \\Delta I F N - \\gamma }$ and IL-12) secretion but promote the TH2 cytokines (IL-10) expression, leading immune response trend to TH2 shift. It shows that spuB/spuC gene can helpthe bacteria evade the host immune defenses, leading to aggravation of infection. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: salmonella typhimurium; spv gene; virulence; immune function ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "鼠伤寒沙门菌(STM)为食源性致病菌，属于革兰氏阴性菌，主要通过食人受污染的食物或水感染人类、家畜及啮齿类特异性宿主。沙门氏菌感染引起以单核吞噬细胞系统增生性改变为病理特征的急性胃肠炎，部分可侵入肠上皮细胞、吞噬细胞,经内化后可继续播散，导致食物中毒、败血症、休克等危及生命的肠道外系统性疾病，甚至会引起妊娠并发症，如绒毛膜羊膜炎经胎盘感染而致流产发生[1-3]。沙门菌病的发病率和致死率均位于细菌性疾病的前列，全球每年感染人数可能超过90万，其中 $5 \\%$ 的人口受这种潜在的致命性全身性疾病的威胁[46。随着经济水平的提高，对供水和食品卫生要求的提高，我国对伤寒的感染有一定控制,但在贵州、浙江、安徽等省仍时有爆发流行。近年来发生多次重大自然灾害，沙门菌被列为灾后重点防治的传染病据统计，澳大利亚在沙门菌病的治疗和预防的花费每年高达12亿美元[8。由于消灭沙门菌的希望不太，反而随着多重耐药沙门菌的出现，使沙门菌病的防治变得更有难度。目前,沙门菌仍然是危害人类健康、畜牧业发展的人畜共患病原体之—[10-11]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "沙门菌需要染色体和质粒上多种毒力因子共同作用才致病。沙门菌大质粒已成为目前的研究热点。Kurita等报道,沙门菌质粒毒力基因 $( \\mathit { s p v } )$ 是高度保守序列,是导致全身严重系统性疾病必不可少的毒力[9.12]其中,spuB和spuC是spu结构基因中对细菌毒力最强的基因[9],Matsui等[13]认为spuB和spvC基因足以取代spu介导的毒力,但spuB、spuC基因之间是否存在相关性及其确切致病机制尚未阐明。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据“分子Koch'S原则”，微生物中的某基因是否与感染性疾病的存在有因果关系，验证的最佳方法是采用突变体分析[14]。本研究通过沙门菌不同表型的缺陷变异株来研究spuB、spuC基因对沙门菌毒力及对宿主免疫系统的影响，及两毒力基因间可能存在的相关性，并为沙门菌减毒疫苗的制备奠定基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 实验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1 细菌携带 $s p v$ 基因的野生型鼠伤寒沙门菌株211(STM.211)是由江西省儿童医院微生物室保存的临床分离株;敲除spuB基因的沙门菌211(STM.211-△spuB)、敲除spvC基因的沙门菌211(STM.211-△spvC） spuB.spvC基因共同缺陷的沙门菌211(STM.211-△spuB.spvC)由本实验组参考基因敲除相关文献[15-17并进行改良在前期实验完成， $- 8 0 \\mathrm { { ^ { \\circ } C } }$ 保存。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.2动物125只BALB/c小鼠，6周龄，均为雌性，体质量： $1 7 . 4 0 { \\pm } 1 . 2 3 \\ \\mathrm { g }$ ，购自江西中医学院。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.3主要试剂、设备及器材 MouseIL-1OELISAKit、MouseIL-12ELISA Kit、MouseIFN-yELISAKitRayBIO?；甲醛(西陇化工股份有限公司)；超低温冰箱（德国西门子公司）； $\\mathrm { C O } _ { 2 }$ 培养箱(BSD-100,上海博讯);分光光度计(752C，上海第三分析仪器厂）；酶标仪（芬兰MK-3);显微镜(NikonECLIPSE8Oi)，显微数码相机(NikonDS-Ri2);医用超净工作台(YJ一875A，吴江市净化设备总厂）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2实验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1模型建立(1)动物饲养:BALB/c小鼠125只，笼间消化道隔离，自由进食、水，室温 $2 0 { \\sim } 2 2 ~ \\mathrm { \\% }$ ，环境湿度$5 0 \\% { \\sim } 5 5 \\%$ ;(2)分组：完全随机分组法将小鼠分为5组，分别为STM.211组、STM.211-△spuB组、STM.211-△spvC组、STM.211-△spvB.spvC组、PBS组,PBS组为阴性对照组，每组25只；(3)细菌培养、定量：将储存在 $- 8 0 \\mathrm { { ^ { \\circ } C } }$ 冰箱里的STM.211、STM.211-△spvB、STM.211-△spvC、STM.211-△spvB.spvC复苏,分别接种于2mLLB培养液中， $3 7 \\mathrm { ~ \\textdegree ~ { ~ } } 2 5 0 \\mathrm { \\ r / m i n }$ 过夜培养后接种至SS培养皿中，置于 $3 7 \\ \\mathrm { { ^ { \\circ } C } }$ （204号 $\\mathrm { C O } _ { 2 }$ 培养箱中过夜培养，次日分别挑取单菌落鉴定后接种在SS培养皿上，保存待用。用前挑取单个菌落增菌使用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "细菌定量：将增菌后的实验菌，采用10-1级(即用$0 . 3 ~ \\mathrm { m L }$ 菌液加至2.7mLLB中混匀)连续稀释，使用分光光度计测定在 $\\mathrm { \\Delta D _ { 6 0 0 } }$ 下菌液的光密度值，直到实验所需要的浓度。同时做菌落培养计数，所得结果与分光光度计测得的值相符；(4)制备BALB/c小鼠感染模型：挑取实验菌接种于LB液体培养基中，调整细菌浓度约 $2 \\times$ $1 0 ^ { 5 } \\mathrm { C F U / m L }$ ，备用。除PBS组经i.p.0.2mLPBS外，余各组均分别经i.p. $0 . 2 \\mathrm { m L } 2 { \\times } 1 0 ^ { 5 } \\mathrm { C F U / m L }$ 相对应的实验菌，每天观察小鼠精神状态、大便情况、体质量、毛发色泽变化等情况。根据预实验结果，分别在感染后1、3、5、7、9d各组随机取5只小鼠经摘眼球取血后颈椎脱白法处死小鼠,将收集的血液置于室温中 $3 { \\sim } 4 \\mathrm { h }$ ，于 $4 \\mathrm { { ^ { \\circ } C } }$ 恒温离心机中 $4 0 0 0 \\mathrm { r / m i n }$ 离心 $4 \\mathrm { m i n }$ ，吸取上清，置于 $- 8 0 \\mathrm { { ^ { \\circ } C } }$ 冰箱保存待测，并分离小鼠肝脏和脾脏进行后续实验。1.2.2小鼠肝、脾脏器的病理切片解剖小鼠分离肝脏和脾脏，用生理盐水清洗标本表面血液、粘液，取体积约为 $2 . 0 \\ \\mathrm { c m } { \\times } 2 . 0 \\ \\mathrm { c m } { \\times } 0 . 3 \\ \\mathrm { c m }$ 的脏器标本置于 $40 \\%$ 甲醛溶液中固定；材料经固定后流水冲洗数小时，材料依次经$70 \\% . 8 0 \\%$ ） $90 \\%$ 浓度的乙醇脱水 $3 0 ~ \\mathrm { m i n }$ ，再放入 $9 5 \\%$ 、$100 \\%$ 各2次，每次 $2 0 \\mathrm { m i n }$ ;透明剂二甲苯处理后石腊包埋，切片并用苏木精和伊红染色(HE染色）封片，光镜下观察脏器病理变化。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3ELISA法检测血清细胞因子 分别按照MouseIL-10ELISAKit、MouseIL-12ELISAKit及MouseIFN- $\\cdot \\gamma$ ELISAKit试剂盒说明操作：(1)用前将所有的试剂及样本置于室温( $1 8 { \\sim } 2 5 ~ \\mathrm { { ^ circ C } } ,$ 中；(2)将 $1 0 0 ~ \\mu \\mathrm { L }$ 各样本加入对应的孔板中，各做3个复孔，另作空白孔对照，覆盖孔板并在室温中轻轻摇动孵育 $2 . 5 \\mathrm { h }$ ；(3)弃去溶液，用排抢将 $3 0 0 ~  { \\mu \\mathrm { L } }$ 1x洗涤液填满孔板洗涤4次;使用吸水纸将洗涤液彻底去除干净;(4)每孔中加 $1 0 0 { \\mu \\mathrm { L } }$ 生物素标记的单抗(IL-10、IL-12 或 $\\mathrm { I F N } { - } \\gamma$ ),覆盖孔板并在室温中轻轻摇动孵育 $^ \\textrm { \\scriptsize 1 h }$ ;(5)弃去溶液，重复步骤三;(6)每孔中加 $1 0 0 ~ \\mu \\mathrm { L }$ 链霉抗生物素蛋白溶液，覆盖孔板并在室温中轻轻摇动孵育 $4 5 \\mathrm { m i n }$ ;(7)弃去溶液，重复步骤三；(8)每孔中加 $1 0 0 { \\mu \\mathrm { L } }$ TMB一步法底物试剂,覆盖孔板，在室温中轻轻摇动避光孵育 $3 0 \\mathrm { m i n }$ ;(9)每孔中加入 $5 0 ~ \\mu \\mathrm { L }$ 终止液，底物液体变蓝，立即在酶标仪 $\\mathbf { D } _ { 4 5 0 \\mathrm { n m } }$ 上检测。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3数据分析 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "所有数据均用SPSS17.0软件进行统计分析;数据用均数 $\\cdot \\pm$ 标准差表示，实验各组间时点先做单因素组内差分析，符合方差齐性的用LSD检验作两两比较，不满足方差齐性的用Dunnett's ${ \\mathrm { T } } _ { 3 }$ 检验作两两比较。检验水准设定 $\\scriptstyle \\mathtt { a = 0 } . 0 5$ ，则 $P { < } 0 . 0 5$ 差异有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1感染后小鼠的感染中毒症状 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "感染沙门菌后1d起，野生菌株组和突变株组小鼠均有精神状态差，活动少、聚集蜷缩，进食有减少，毛发疏松、体质量不增等现象，部分小鼠发生激惹症状，这些症状以野生均株为重，且以感染沙门菌后3\\~5d最为明显，但各组均无腹泻症状；PBS组小鼠精神状态良好，毛发顺,活动如常，进食良好,生长良好。按中毒症状的严重程度排序：STM.211>STM.211-△spvB、STM.211-spvCSTM.211-△spvB.spvC>PBS。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2小鼠肝脏和脾脏的病理变化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "感染沙门菌后1d,各组间肝脾饱满有光泽，大小与正常对照组无明显差异。感染后3d起，分离小鼠肝脾，肉眼观察发现感染沙门菌的小鼠的肝脾明显增大并充血，肝脏表面出现点状坏死病灶，光镜下观察可见肝细胞呈水样变性，汇管区炎性细胞浸润及点片状坏死灶;脾脏可见多核巨细胞增生，皮质和髓质分界不清，脾窦明显扩张充血。上述病理改变均以野生型沙门菌感染组最为明显,而STM.211-△spuB、STM.211-△spvC次之,STM.211-△spuB.spvC组最轻(图1\\~4)。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/72ca7ac5303bfdc7c1917f7fff975fe9142cffaf17a1706cc4bb5fe9af979574.jpg",
+        "img_caption": [
+            "图1小鼠肝脏大体观改变"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.1General viewchangesof theliver(3d).A:PBS;；B: STM.211;C: STM.211-△spuB;D: STM.21-△spuC;E: STM.211-△spB.spoC.The liverofmicewhich infected withsalmonellareincreasedand congestion,anddotted necrotic lesions. The degree of the pathological changes: STM.211 $>$ STM.211-△spuB STM.211-△spvC>STM.211-△spoB.spvC. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f294f624c55fc80e17fee67e0248f25cf55dc16ab68a95b2236d2a2fc32d9126.jpg",
+        "img_caption": [
+            "图2小鼠脾脏大体观改变",
+            "Fig.2 General view changes of the spleen (3 d).A:PBS; B: STM.211;C: STM.211-△spvB;D:STM.211-△spvC;E:STM.211- △spuB.spoC. The spleen ofmice which infectedwith salmonella are increased and congestion.The degree of the pathological changes: STM.211>STM.211-△spvB、STM.211- △spvC>STM.211-△spvB.spvC. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3小鼠血清IL-10、IL-12和IFN-γ水平检测 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "感染沙门菌后，小鼠血清中IFN-γ和IL-12分泌量显著增加，而IL-10升高的程度相对较低,在3d时达高峰，STM.211、STM.211-△spvB、STM.211-△spvC和STM.211-△spvB.spvC组 $\\mathrm { I L } { - } 1 0 , \\mathrm { I L } { - } 1 2$ 和 $\\mathrm { I F N } _ { - \\gamma }$ 均高于PBS组(阴性对照组） $( P { < } 0 . 0 5 )$ ；但不同菌株感染组间细胞因子分泌存在差异：STM.211、STM.211-△spuB、STM.211-△spuC组IFN-γ和IL-12分泌量均明显低于STM.211-△spvB.spvC组 $( P { < } 0 . 0 5 )$ ,而IL-10的分泌量却高于STM.211-△spvB.spvC组 $( P { < } 0 . 0 5 )$ ；但是 STM.211、STM.211-△spuB、STM.211-△spvC组的组间差异无统计",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "学意义( $\\mathrm { \\ P > 0 . 0 5 }$ ，表1)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为逃避宿主免疫防御，沙门菌通过SPI编码的T3SS分泌系统(T3SSs)释放多种效应蛋白至宿主细胞抵抗宿主的免疫反应。spuB是对细菌毒力影响较大的结构基因，其编码的蛋白经T3SS-2系统导入宿主细胞，诱导肌动蛋白解聚,使受染后细胞发生凋亡[18],并且与肠系膜淋巴结、脾、肝等肠道外组织严重播散性感染有关[19-20]。spvC蛋白可抑制MAPKs,将EPK1/2去磷酸化,阻止一些转录因子从细胞质转至细胞核，起到减少肠道炎症的作用。这导致沙门菌逃避了肠粘膜的免疫应答，有利于沙门菌在感染初始部位生长繁殖，引起全身感染。沙门菌 $S o p B , S i g D$ 蛋白激活AKT蛋白激酶，抑制宿主细胞死亡,促使沙门菌发生持续性感染 [21-22]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "胞内菌(如沙门菌、Listeria菌和分支杆菌)可促使抗原活化的初始性 $\\mathrm { C D 4 ^ { + } T }$ 细胞(TH0)分化成TH1效应细胞，通过T细胞表面CD40L与APC表面CD40相互作用，促进APC产生IL-12。IL-12p40具有启动适应性免疫应答的作用，可诱导TH0向TH1转化，并对胞内菌、寄生虫感染有保护性作用[23-24]。而缺乏IL-12/IL-12受体者对沙门菌的易感性明显升高，提示IL-12是胞内菌的免疫应答中一个重要的细胞因子[25-26]。这也许与IL-12与p40促使更多的巨噬细胞活化，进一步加强了",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2307fae4d555caaec90102192772e6bb3b03171d8bfdb25b36d0b3aa226a86b1.jpg",
+        "img_caption": [
+            "图3小鼠肝脏光镜下病理改变"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 Light microscopy view changes of the liver, 3 d(HE, Original magnification: $\\times 4 0 \\dot s$ ).A:PBS;B:STM.211;C: STM.211- △spvB;D: STM.211-△spC；E: STM.211-△spuB.spoC.The hepatocyte is hydropic degeneration,and itscolect abbacy inflammatorycels infiltrationand focal pointofflake necrosis.The degreeof thepathologicalchanges:STM.2 $>$ STM.211-△spvB、STM.211-△spvC $>$ STM.211-△spvB.spvC. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/78c8f1974fe4f0836a2bb5ae4e0bb591358dbb876342a7f4cfa5947fb6aaacf8.jpg",
+        "img_caption": [
+            "图4小鼠脾脏光镜下病理改变，3d",
+            "Fig.4 Light microscopy view changes of the spleen,3 d(HE, Original magnification: $\\times 2 0$ ).A:PBS;B:STM.211；C: STM.211-△spB;D:STM.211-△spoC;E:STM.211-spB.spC.Thespleenhavemultiucleated giantcellhyperplasia,andtere is no clear boundary between cortex and medull,splenic sinus expansion hyperemia.The degree of the pathological changes: STM.211>STM.211-△spvB STM.211-△spvC>STM.211-△spvB.spvC. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "固有免疫反应水平有关。沙门菌为胞内感染菌，其免疫应答主要以T细胞为主的细胞免疫。IL-12减少，其介导的抗胞内菌的细胞免疫功能下降，沙门菌可在宿主细胞中生长繁殖，甚至向其他组织器官扩散。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "IL-12还诱导单核细胞、巨噬细胞和树突状细胞释放 $\\mathrm { I F N } { - } \\gamma$ ，通过细胞因子介导的巨噬细胞活化，释放颗粒酶和穿孔素使靶细胞溶解来清除胞内菌[28]。在抗胞内菌过程中，IFN-γ诱导增强氧化杀伤作用，提高杀灭胞内菌的能力，此外，IFN-y还可促进多种细胞MHCI类和Ⅱ类分子的表达;促进TH1细胞分化、抑制TH2细胞;抗病毒；参与炎性反应等。活化的巨噬细胞促进吞噬体成熟，酸化液泡，产生活性氮中间体(RNIS）、一氧化氮合酶2(NOS2)抗菌肽和三磷酸酶蛋白LRG-47等抗微生物分子,阻止细菌复制[29-30]。IFN-γ可经刺激巨噬细胞产生IL-12,与IL-12共同诱导TH0细胞向TH1细胞分化，增强细胞免疫。缺乏IFN-γ有利于细菌繁殖，使宿主易感性增加[31]。本研究发现,STM.211、STM.211-△spuB、STM.211-△spuC组之间小鼠IL-12无明显差别（ $\\scriptstyle ( P <$ 0.05）,但较STM.211-△spvB.spvC更低 $\\left( P { < } 0 . 0 5 \\right)$ ，可见，spuB/spuC基因可使小鼠血清中IL-12分泌减少，加重靶器官病理改变",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/88d56d78191e339a50d513b023f395c1ab53196dae1519e8842aca9628f5aca5.jpg",
+        "table_caption": [
+            "表1血清细胞因子水平 Tab.1 Serum cytokine levels (pg/mL,Mean±SD, $n { = } 5$ 0 "
+        ],
+        "table_footnote": [
+            "Compared with STM.211 group, $^ { \\mathrm { a } } P { < } 0 . 0 5$ ； compared with STM.211-△spvB group, $^ { \\mathrm { b } } P { < } 0 . 0 5$ ；compared with STM.211- △spvC group, $^ { \\mathrm { c } } P { < } 0 . 0 5$ ; compared with STM.211-△spvB.spvC group, $^ { \\mathrm { d } } P { < } 0 . 0 5$ # "
+        ],
+        "table_body": "<html><body><table><tr><td>Groups</td><td>t (d)</td><td>IL-10</td><td>IL-12</td><td>IFN-γ</td></tr><tr><td>PBS</td><td></td><td>78±10</td><td>137±15</td><td>70±8</td></tr><tr><td>STM.211</td><td></td><td>213±9d</td><td>823±32</td><td>263±27d</td></tr><tr><td>STM.211-△spvB</td><td>1</td><td>197±8d</td><td>766±32d</td><td>286±12</td></tr><tr><td>STM.211-△spvC</td><td></td><td>196±5d</td><td>780±47d</td><td>283±5</td></tr><tr><td>STM.211-△spuB.spvC</td><td></td><td>105±11abc</td><td>927±18abc</td><td>326±10abc</td></tr><tr><td>PBS</td><td></td><td>91±7</td><td>121±11</td><td>70±9</td></tr><tr><td>STM.211</td><td></td><td>248±8d</td><td>1019±69d</td><td>1218±77d</td></tr><tr><td>STM.211-△spvB</td><td>3</td><td>243±14d</td><td>1016±29d</td><td>1292±64d</td></tr><tr><td>STM.211-△spvC</td><td></td><td>234±7d</td><td>1057±80d</td><td>1221±21d</td></tr><tr><td>STM.211-△spvB.spvC</td><td></td><td>138±9abc</td><td>1350±75abc</td><td>1558±99abc</td></tr><tr><td>PBS</td><td></td><td>103±12</td><td>127±11</td><td>71±9</td></tr><tr><td>STM.211</td><td></td><td>229±13d</td><td>977±46d</td><td>1062±64d</td></tr><tr><td>STM.211-△spvB</td><td>5</td><td>219±10d</td><td>1094±91d</td><td>1142±48d</td></tr><tr><td>STM.211-△spvC</td><td></td><td>217±5d</td><td>991±28d</td><td>1187±70d</td></tr><tr><td>STM.211-△spvB.spvC</td><td></td><td>131±5abc</td><td>1330±96abc</td><td>1408±107abc</td></tr><tr><td>PBS</td><td></td><td>98±5</td><td>122±9</td><td>71±8</td></tr><tr><td>STM.211</td><td></td><td>223±12d</td><td>956±20d</td><td>969±21d</td></tr><tr><td>STM.211-△spvB</td><td>7</td><td>218±11d</td><td>986±55d</td><td>982±24d</td></tr><tr><td>STM.211-△spvC</td><td></td><td>204±8d</td><td>930±54d</td><td>996±17d</td></tr><tr><td>STM.211-△spvB.spvC</td><td></td><td>125±7abc</td><td>1125±46abc</td><td>1194±69abc</td></tr><tr><td>PBS</td><td></td><td>91±7</td><td>129±6</td><td>70±5</td></tr><tr><td>STM.211</td><td>9</td><td>178±8d</td><td>799±51d</td><td>921±12d</td></tr><tr><td></td><td></td><td>186±8d</td><td>868±20d</td><td>940±9d</td></tr><tr><td>STM.211-△spvB</td><td></td><td>183±6d</td><td>835±21d</td><td>939±12d</td></tr><tr><td>STM.211-△spvC STM.211spuB.spvC</td><td></td><td>120±5abc</td><td>950±31abc</td><td>1107±64abc</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "IL-10作为重要的抗炎介质，能抑制多种促炎因子的产生和Th1细胞应答，参与Th2型细胞介导的抗炎反应。研究发现，结核分枝杆菌和利什曼虫的持续性感染需要IL-10支持，这表明，IL-10在胞内菌的持续性感染中发挥重大作用[32。诱导IL-10产生可能是病原体逃避TH1细胞的免疫应答,促进TH2细胞表达的一种机制[25.33]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究中发现 STM.211、STM.211-△spuB和STM.211-△spuC菌株感染的小鼠的中毒症状明显较PBS组严重,STM.211-△spvB.spvC组与PBS组间无明显差异。沙门菌感染后,IFN-γ和IL-12分泌量显著增高，而IL-10升高的程度较低，产生以Th1优势应答为主的免疫反应，但不同菌株间导致细胞因子的分泌存在差异,STM.211组、STM.211-△spvB组、STM.211-△spvC组的IFN-γ和IL-12分泌量均显著低于STM.211-△spuB.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "spvC组 $( P { < } 0 . 0 5 )$ ,而IL-10的分泌量明显高于STM.211-△spvB.spvC组 $( P { < } 0 . 0 5 )$ 。细胞因子具有调节免疫的生物学活性，是决定巨噬细胞功能表型的决定性因素。这项研究提示，沙门菌spuB、spuC均能影响宿主分泌细胞因子的水平，抑制Th1细胞因子IL-12和IFN- $\\cdot \\gamma$ ，促进Th2细胞因子IL-10的表达,使免疫应答向TH2方向偏移。可见,spuB或(和)spuC基因具有转换不同免疫应答类型的功能，从而有利于宿主菌抵抗和逃避宿主的免疫防御。此外,spuB或（和） $s p v C$ 基因均可增加沙门菌毒力,加重宿主感染结局。但 $\\mathrm { S T M } . 2 1 1 \\left( s p v B { + } s p v C { + } \\right)$ 组、STM.211-△spuB组、STM.211-△spvC组间差异无统计学意义 $( P { > } 0 . 0 5 )$ ,这可能是spuB、spuC基因之间某种基因缺陷可由另一种基因的表达增强来代替,这有待于进一步研究。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Nguyen T,Robinson N,Allison SE,et al. IL-1O produced by trophoblast cellsinhibitsphagosomematuration leadingto profoundintracellularproliferationofSalmonellaenterica Typhimurium[J].Placenta,2013,34(9):765-74. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[2]Su LB,Su CW,Qi YJ,et al. Coinfection with an intestinal helminth impairs host innate immunity against salmonella enterica serovar typhimurium and exacerbates intestinal inflammation in mice [J]. Infect Immun,2014,82(9): 3855-66.   \n[3]Kaur J，Jain SK. Role of antigens and virulence factors of Salmonella enterica serovar Typhi in its pathogenesis[J].Microbiol Res,2012,167(4): 199-210.   \n[4]Crump JA,Mintz ED. Global trends in typhoid and paratyphoid fever[J]. Clin Infect Dis,2010,50(2): 241-6.   \n[5]W6jcik O,Kjelso C,Kuhn KG,et al. Salmonella typhimurium outbreak associated with smoked pork tenderloin in Denmark, January to March 2011[J]. Scand JInfect Dis,2012,44(12): 903-8.   \n[6]Lafuente S, Bellido JB,Moraga FA,et al. Salmonella paratyphi B and Salmonella litchfield outbreaksassociated with pet turtle exposure in Spain[J]. Enferm Infecc Microbiol Clin,2013,31(1): 32-5.   \n[7]van Damme P, Kafeja F, Anemona AA,et al. Safety,immunogenicity and dose ranging of a new Vi-CRM197 conjugate vaccine against typhoid fever: randomized clinical testing in healthy adults [J]. PLoS One,2011,6(9): e25398.   \n[8] Gole VC,Chousalkar KK,Roberts JR,et al. Effect of egg washing and correlation between eggshell characteristics and egg penetration by various salmonella typhimurium strains ［J].PLoS One, 2014,9(3): e90987.   \n[9]Wei L,Wu SY,Li YY,etal.Salmonellaentericaserovar typhi plasmid impairs dendritic cell responses to infection [J].Curr Microbiol,2012,65(2): 133-40.   \n[10]Centers for Disease Control,Prevention.(CDC). multistate outbreak of human salmonella typhimurium infections associated with pet turtleexposure-United states,2008［J].MMWR Morb mortal Wkly rep. 2010,59(7): 191-6.   \n[11]Perry JJ, Yousef A. Salmonella enteritidis in shell eggs:evolving concerns and innovative control measures[J].Adv Appl Microbiol, 2012,81(5): 243-74.   \n[12]Kurita A,Gotoh H,Eguchi M, et al.Intracellular expression of the Salmonella plasmid virulence protein,SpvB,causes apoptotic cell death in eukaryotic cells[J].Microb Pathog,2003,35(1): 43-8.   \n[13] Matsui H,Bacot CM,Garlington WA,et al. Virulence plasmidborne spuB and spvC genes can replace the 90-kilobase plasmid in conferring virulence to Salmonella enterica serovar Typhimurium in subcutaneously inoculated mice [J].J Bacteriol,200l,183(15): 4652-8.   \n[14] Gradmann C.A spirit of scientific rigour: Koch's postulates in twentieth-century medicine[J]. Microbes Infect,2014,16(11):885- 92.   \n[15]Kappeli R,Kaiser P, Stecher B,et al. Roles of spvB and spvC in S. Typhimurium colitis via the alternative pathway [J]. Int J Med Microbiol, 2011,301(2): 117-24.   \n[16]彭 亮,赵 铁,罗文英,等.脑膜炎大肠杆菌K1株ppk1基因致病机制 初探[J].微生物学通报.2012,39(2):219-25.   \n[17]邱桥成,叶 颖,储元元,等.鼠伤寒沙门菌spvB基因缺陷变异株的构 建[J].生物技术通报.2012,12:180-3.   \n[18]Ozkaya H, Akcan AB,Aydemir G,et al. Salmonella typhimurium infections in BALB/c mice:a comparison of tissue bioluminescence， tissue culturesand mice clinical scores [J].New Microbiol,2012,35(1): 5-9.   \n[19]Libby SJ,Lesnick M, Hasegawa P,et al. The salmonella virulence plasmid spv genes are required for cytopathology in human monocyte-derived macrophages [J].Cell Microbiol,2000,2(1): 49-58.   \n[20] Browne SH,Hasegawa P,Okamoto S,et al.Identification of salmonella SPI-2 secretion system components required for SpuBmediated cytotoxicity in macrophages and virulence in mice[J]. FEMS Immunol Med Microbiol, 2008,52(2): 194-201.   \n[21]Su L,Su CW, Qi Y,et al. Coinfection with an intestinal helminth impairs host innate immunity against Salmonella enterica serovar Typhimurium and exacerbates intestinal inflammation in mice[J]. Infect Immun,2014,82(9): 3855-66.   \n[22]Lee KS,Jeong ES,Heo SH, et al. IL-1O suppresses bactericidal response of macrophages against Salmonella Typhimurium[J].J Microbiol,2011,49(6): 1050-3.   \n[23] Khader SA,Partida-Sanchez S,Bell GA,et al. Interleukin 12p40 is required for dendritic cell migration and T cell priming after Mycobacterium tuberculosis infection[J].JExp Med,2006,203(7): 1805-15.   \n[24] Holscher C,Atkinson RA,Arendse B,et al.A protective and agonistic function of IL-12p4O in mycobacterial infection [J].J Immunol,2001,167(12): 6957-66.   \n[25]Yoon WS,Choi HJ,Park YK. Salmonella typhimurium harboring plasmid expressing interleukin-12 induced attenuation of infection and protective immune responses [J].J Gen Appl Microbiol, 2011, 57(2): 115-22.   \n[26] Wei L1,Wu S,Li Y,et al. Salmonella enterica serovar Typhi plasmid impairs dendritic cell responses to infection [J].Curr Microbiol,2012,65(2): 133-40.   \n[27]Ehlers S,Lehmann J，Mossmann H,et al.Interleukin-12p40 mediates transient protection against Mycobacterium avium infection in the absence of interleukin-12[J].Immunobiology,2005, 210(2/4): 217-27.   \n[28]Pintaric M, Gerner W, Saalmueller A. Synergistic effects of IL-2, IL-12 and IL-18 on cytolytic activity, perforin expression and IFNgamma production of porcine natural killer cells［J]. Vet Immunol Immunopathol,2008,121(1/2): 68-82.   \n[29]Morselli E,Tasdemir E,Maiuri MC,et al.Mutant p53 protein localized in thecytoplasm inhibits autophagyJ].CellCycle,2008,7 (19): 3056-61.   \n[30] Browne SH,Hasegawa P,Okamoto S,et al.Identification of Salmonella SPI-2 secretion system components required for SpvBmediated cytotoxicity in macrophages and virulence in mice[J]. FEMS Immunol Med Microbiol,2008,52(2):194-201.   \n[31]Gulig PA, Doyle TJ, Clare-Salzler MJ,et al. Systemic infection of mice bywild-type but not Spv-Salmonella typhimuriumis enhanced by neutralization of gamma interferon and tumor necrosis factor alpha[J]. Infect Immun,1997,65(12): 5191-7.   \n[32]Lee KS,Jeong ES,Heo SH, et al. IL-1O suppresses bactericidal response of macrophages against Salmonella Typhimurium[J].J Microbiol,2011,49(6): 1050-3.   \n[33]Kobayashi T, Nakatsuka K, Shimizu M,et al. Ribavirin modulates the conversion of human $\\mathrm { C D 4 ( + ) C D 2 5 ( - ) }$ T cell to $\\mathrm { C D 4 ( + ) C D } 2 5 ( + )$ （2 FOXP3 $( +$ ）Tcellviasuppressing interleukin-10-producing regulatory Tcel[J].Immunology,2012,137(3): 259-70. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

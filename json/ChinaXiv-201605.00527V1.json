@@ -1,0 +1,472 @@
+[
+    {
+        "type": "text",
+        "text": "Tissue chemistry and morphology affect root decomposition of perennial bioenergy grasses on sandy soil in a sub-tropical environment ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "XI LIANG1'², JOHN E. ERICKSON1,MARIA L. SILVEIRA³, LYNN E. SOLLENBERGER1 and DIANE L. ROWLAND1   \n1AgronomyDepartment,Uniersityoflorida0cCartyHallBGinesillFL26l1SA,Departmentoft andEntomological Sciences,Universityof Idaho,1693 S70 W,Aberdeen,ID83210,USA, $^ 3$ Department of Soil and Water Sciences,University ofFlorida,3401 Experimental Station,Ona,FL 33865,USA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Second-generation biofuelsand bio-based products derived from lignocelulosic biomass are likely to replace current fuels derived from simple sugars and starch because of greater yield potentialand less competition with food production. Besides the high aboveground biomass production, these bioenergy grases also exhibit extensive root systems.The decomposition of root biomass greatly influences nutrient cycling and microbial activity and subsequentaccumulationof carbon (C)in thesoil.The objective of this research was thus to characterize root morphological and chemical diferences in six perennial grass species in order to better understand root decomposition and belowground C cycling of these bioenergy cropping systems. Giant reed (Arundo donax), elephantgrass(Pennisetum purpureum), energycane (Saccharum spp.)，sugarcane (Saccharum spp.)， sweetcane (Saccharum arundinaceum),and giant miscanthus (Miscanthus $\\times$ giganteus) were established in Fall 20o8 in research plots near Gainesville,Florida.Root decomposition rates were measured in situ from root decomposition bags over 12 months along with initial and final root tissue composition. Root potential decomposition rate constant $( K )$ （204号 was higher in elephantgrass $( 3 . 6 4 ~ \\mathrm { g } ~ \\mathrm { k g } ^ { - 1 } ~ \\mathrm { d a y } ^ { - 1 } )$ and sweetcane $( 2 . 7 \\bar { 7 } \\mathrm { ~ g ~ k g } ^ { - 1 } \\mathrm { ~ d a y } ^ { - 1 } )$ than in sugarcane $( 1 . 6 2 \\mathrm { ~ g ~ }$ $\\mathrm { k g ^ { - 1 } \\ d a y ^ { - 1 } } ,$ ）and energycane $( 1 . 4 8 ~ \\mathrm { g ~ k g } ^ { - 1 } ~ \\mathrm { d a y } ^ { - 1 } )$ . Notably, $K$ was positively related to initial root tissue total C (Total C),total fiber glucose (TFG),total fiber xylose(TFX),and total fibercarbohydrate (TFC)concentrations, but negativelyrelated to total fiber arabinose (TFA）and lignin (TL）concentrationsand specificrootvolume (SRV).Among the six species,elephantgrass exhibited root traits most favorable for fast decomposition: high TFG,high TFX,high TFC,high specificroot length (SRL)and a low SRV,whereas giant reed,sugarcane,and energycane exhibited slow decomposition rates and the corresponding root traits.Thus,despite similar aboveground biomass yields in many cases, these species are likely to diffrentially affct soil C accumulation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "leywords:Arundo donax，bioenergy grasses，chemical composition，Miscanthus $\\times$ giganteus，Pennisetum purpureum，root lecomposition, root morphology, Saccharum arundinaceum, Saccharum spp. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received6August2015;accepted25 September 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Recent attention focused on biomass crops to increase and diversify energy production and help mitigate greenhouse gas emissions hasidentified perennial grasses as potential dedicated energy feedstocks (Lemus & Lal，2005;Carroll & Somerville，2009；Davis et al., 2010; Somerville et al.，2010;Don et al.，2012;Drewer et al.，2012)． Although large plantings of perennial energy grasses could help to supplement biofuel production,the implications for other ecosystems services such as carbon (C) sequestration and nutrient cycling are not well understood. The decomposition of plant tissues,particularly belowground pools,is an important process that affects soil microbial activity and C accumulation (Six et al.,200o;Jones & Donnelly,2004;Rasse et al.,20o5).As the main source of C inputs to the soil, the quantity and quality of root and rhizome biomass influences their decomposition rate and their residence time with subsequent impacts on C stored in the soil (Fontaine et al.,20o7;Hättenschwiler & Jorgensen,2010; Amougou et al.,2011; Knoll et al.,2012; Sun et al.,2013). Therefore,understanding the decomposition of belowground biomass is critical in investigating C fluxes in terrestrial ecosystems. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Root decomposition is greatly affected by climatic and edaphic conditions and is thus expected to be unique to each specific environment.In general, litter decomposition rates are positively correlated with mean annual temperature and precipitation (Silver & Miya, 2001; Zhang et al.，2008; Prescott, 2010). Similarly,satu rated soil moisture conditions or extreme low moisture levels tend to limit decomposition of plant litter (von Haden& Dornbush，2014;Lee et al.，2014).Roots decompose faster in clay loam than in sand and clay soils (Silver& Miya,2001). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Root chemical and morphological characteristics also contribute to their decomposition patterns and rates (Silver & Miya,2001;Puttaso et al.，2011;Aulen et al., 2012).Labile compounds in root tissues, such as simple sugars,organic acids,small-chain fatty acids,and proteins,can be easily taken up by microorganisms and metabolized,and their concentrations in the plant tissue tend to decline quickly as the decomposition process progresses (Rasse et al.，2005;Berg & McClaugherty, 2008).Conversely，cellulose isa relatively recalcitrant cell wall component compared to water-soluble compounds and the decomposition of plant-derived C typically decreases as cellulose concentration increases (Birouste et al.， 2012).However， research hasalso demonstrated no correlation between cellulose concentration and root decomposition rates (Aulen et al., 2012).Lignin,suberin,cutin,and polyphenols are considered recalcitrant components and generally retard root decomposition (Rasse et al.，2Oo5; von Luetzow et al.,2006; Hattenschwiler & Jorgensen,2010). In addition,herbaceous species root morphological attributes such as specific root length (SRL） have been positively correlated with root decomposition rate (Aulen et al., 2012).In a 4-year experiment with temperate tree species，root decomposition rates differed among root diameter classes (e.g., $< 0 . 5$ and $0 . 5 { - } 2 ~ \\mathrm { m m } )$ (Sun et al., 2013).In contrast,Birouste et al. (2012) found no correlation between initial SRL or diameter and decomposition rates. Consequently, there are conflicting reports in the literature on the effects of root chemistry and morphology on root decomposition rates,and the complexityisprobably due tothe interaction ofroot characteristics and environmental factors. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In general，Poaceae roots decompose more slowly than those of herbaceous species from other taxonomic groups (Aulen et al.，2012;Birouste et al.，2012).The slow decomposition rates in Poaceae roots were often associated with their unique root morphological and chemical traits compared with other species,such as low N andP concentrations,high C/N,and high tissue density (Birouste etal.，2O12;Siqueira da Silva et al., 2015).Within the Poaceae family，species also differed in their root morphological and chemical traits and thus decomposition rates (Fornara & Tilman，2Oo8；Aulen et al.,2012). In addition, perennial warm-season grasses generally exhibit abundant root biomass and deep rooting systems (Monti & Zatta，2009；Somerville et al., ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2010).For instance,root dry weight in a O- to $1 2 0 \\mathrm { - c m }$ soil profile was $1 4 ~ \\mathrm { M g ~ h a } ^ { - 1 }$ in giant reed (Arundo donax)， $7 . 6 ~ \\mathrm { M g ~ h a } ^ { - 1 }$ in giant miscanthus (Miscanthus $\\times$ giganteus),and $8 . 5 ~ \\mathrm { M g ~ h a } ^ { - 1 }$ in switchgrass (Panicum virgatum) in north Italy (Monti& Zatta,20o9).The large differences in root biomass production and root characteristicsamong perennial grassspeciesare expected to result in differences in the amount and characteristics of C inputs to the soil. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Despite relatively similar aboveground biomass production (Erickson et al.,2012;Knoll et al.,2012;Fedenko et al.2O13),our understanding regarding the potential impacts of root morphological characteristics and chemical composition of perennial bioenergy crops on belowground C fluxes remains limited,particularly in the southeastern USA,where the warm temperatures associated with abundant rainfall are expected to create favorable conditions for root decomposition.Therefore, the objectives of this research were to characterize root morphological and chemical differences in six bioenergy grass species and to evaluate their impacts on root decomposition over a 12-month period under field conditions.We hypothesized that variability in species root chemistry and morphology would lead to differences in decomposition that will help to better understand C cycling in bioenergy grass cropping systems. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materialsandmethods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Plant materials,growth conditions,and treatments ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Giant reed (Arundo donax)，elephantgrass (Pennisetum purpureum Merkeron')，energycane (Saccharum spp.L79-1002'), sugarcane (Saccharum spp.'CP89-2143'),sweetcane (Saccharum arundinaceumIK76-11o')，and giant miscanthus(Miscanthus $\\times$ giganteus） were established from vegetative propagules fromNovember 2008 to January 2009 at the University of Florida Plant Science Research and Education Unit $\\langle 2 9 ^ { \\circ } 2 4 ^ { \\prime } \\mathrm { N }$ $8 2 ^ { \\circ } 1 0 ^ { \\prime } \\mathrm { W } )$ in Citra,Florida. The six species were arranged in a randomized complete block design with four replicates,giving 24 plots in total.Plots consisted of six 6-m-long rows initially planted with $_ { 1 - \\mathrm { m } }$ row spacing (i.e.，each plot was approximately $3 6 ~ \\mathrm { m } ^ { 2 } .$ .All plotswere fertilizedata rate of $2 8 0 \\ \\mathrm { k g \\ N }$ $\\mathrm { \\ h a } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 }$ split into applications of $9 0 ~ \\mathrm { k g } ~ \\mathrm { N } ~ \\mathrm { h a } ^ { - 1 }$ in mid-April and $1 9 0 ~ \\mathrm { k g ~ \\mathrm { ~ N ~ } \\ h a ^ { - 1 } }$ in June.Plots also received $\\sim 7 0$ and $1 4 0 ~ \\mathrm { k g ~ h a } ^ { - 1 }$ of $\\mathrm { P } _ { 2 } \\mathrm { O } _ { 5 }$ and $\\mathrm { K } _ { 2 } \\mathrm { O }$ in each year,respectively,along with micronutrients.Limited irrigation was applied via overhead irrigation during establishment and with appearance of visiblewaterstress (i.e.,leaf rolling).Soil temperature at $1 0 \\ \\mathrm { c m }$ was monitored during the experiment and is summarized in Fig. 1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For aboveground dry biomass yield,plots were harvested once annually in 20o9 and 2010 (November) and twice annually (July and November) in 2011 and 2012.A 4-m section $( 4 ~ \\mathrm { m } ^ { 2 } )$ from one of the inner two middle rows in each plot was harvested and weighed in the field.A representative subsample of biomass was then collected and oven-dried at $5 0 ~ ^ { \\circ } \\mathrm { C }$ toa constant weight to determine dry matter concentration and dry biomass yield. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f5d42f9a40ef350934aaa220324954213f5765c4d8886d17671cc2159e48a45.jpg",
+        "img_caption": [
+            "Fig.1 Daily maximum (black line) and minimum (gray line) soil temperature $( ^ { \\circ } C )$ ata $1 0 0 \\mathrm { - m m }$ soil depth over the duration of the field root decomposition study. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Rootmorphology，chemistry,and decomposition ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Toobtain a representative root biomass sample,at least four soil cores ( $1 1 \\ \\mathrm { c m }$ diameter $\\times 2 0$ cm depth) were collected from each of the six perennial grass species plots after the aboveground biomass harvest in December 2011. Soil cores from the same plot were pooled into a composited sample and then taken back to the laboratory.Roots were separated from soil using a $2 \\mathrm { - m m }$ sieve,gently washed with deionized water,and dried in the oven at $3 0 ~ ^ { \\circ } \\mathrm { C }$ for $^ { 1 - 2 \\mathrm { ~ h ~ } }$ to approximately $4 0 \\%$ moisture.The roots for a given plot were then cut into $_ { 5 - \\mathrm { c m } }$ pieces,thoroughly mixed,and homogenized,and $3 . 4 5 \\pm 0 . 0 5 \\mathrm { ~ g ~ }$ [mean ${ \\bf \\dot { \\boldsymbol { n } } } = 9 2 { \\bf \\dot { \\boldsymbol { \\mathbf { \\rho } } } }$ sampleweight $\\pm 1$ SEat $4 0 \\%$ moisturel was put into $1 5 \\times 2 0 ~ \\mathrm { c m } ,$ （204号 $2 5 0 \\mathrm { - } \\mu \\mathrm { m }$ mesh nylon litter bags (Castillo et al., 2010).A subsample of cut roots was placed in the oven at $5 0 ~ ^ { \\circ } C$ and dried to a constant weight to determine the root moisture content and root dry weights for each bag.An additional fresh root subsample from each plot for each species （204 $( n = 4 )$ wasscannedandanalyzedwitha digitalimageanalysis system(WinRHIZO,Regent Instrument,Quebec,CA,USA） to determine root length,surface area,and volume.The subsample was then placed in the oven at $5 0 ~ ^ { \\circ } C$ and dried to a constantweight to determine root dry weight.Specific root length (SRL),specific root area (SRA),and specific root volume (SRV) were calculated as the ratio of root length,surface area,and volume divided by the corresponding root dry weight,respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fourroot decomposition bags were buried horizontally at a $7 . 5 – \\mathrm { c m }$ depth in the soil in the row middles ( $5 0 ~ \\mathrm { c m }$ away from each row） in their corresponding field plots on December 8, ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2011.For species without obvious plant rows after 2 years since planting,for example,giant reed，decomposition bags were buried arbitrarily in the center of the plots.One bag from each plotwascollected at $1 , 3 , 6 ,$ and 12 months after installation. Root biomass remaining in the bags after decomposition was oven-dried at $5 0 ~ ^ { \\circ } C$ to a constant weight and then was ashed at $5 0 0 ~ ^ { \\circ } \\mathrm { C }$ for at least $^ { 6 \\mathrm { ~ h ~ } }$ to calculate the root biomass on an ashfree basis. The percentage of the initial root biomass remaining after decomposition $( M _ { \\mathrm { t } } , \\% )$ was calculated as follows: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { t } = \\frac { \\mathrm { R o o t } _ { \\mathrm { m a s s } , t } - \\mathrm { A s h } _ { \\mathrm { m a s s } , t } } { \\mathrm { R o o t } _ { \\mathrm { m a s s } , i } - \\mathrm { A s h } _ { \\mathrm { m a s s } , i } } \\times 1 0 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathrm { R o o t } _ { \\mathrm { m a s s } , i }$ and $\\mathrm { R o o t } _ { \\mathrm { m a s s } , t }$ are the initial dry root biomass before decomposition and remaining at each harvest,respectively, and $\\mathrm { A s h } _ { \\mathrm { m a s s } , i }$ and $\\mathrm { A s h } _ { \\mathrm { m a s s } , t }$ are the ash concentrations in the initial and remaining root biomass,respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To estimate the decomposition rate for each species, the pro portion of the initial biomass remaining over time $\\mathbf { \\eta } ( t )$ was fit with a single-pool negative exponential model (Adair et al., 2010; Birouste et al.,2012): ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { t } = 1 0 0 \\times e ^ { - K t } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $K$ is the decomposition rate constant and is expressed in $\\mathrm { g \\ k g ^ { - 1 } \\ d a y ^ { - 1 } }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Root biomass from each plotbefore and after the 12-month field incubation was ground using a Restsch Mixer Mill (MM400,Verder Scientific,Inc.，Newtown,PA,USA).A subsample of $3 0 { - } 5 0 ~ \\mathrm { m g }$ of ground root was wrapped in tin capsules $( 9 \\times 1 0 ~ \\mathrm { m m }$ Costech Analytic Technology, Inc., Valencia, CA)and then the total C and N concentrations were measured by dry combustion using an elemental analyzer (FLASHEA112 Series,Thermo Fisher Scientific,Inc.,Waltham,MA,USA).On another subsample,nonstructural extractives,structural carbohydrates,and lignin in root tissue before and after 12 months of decomposition were determined according to the procedures fully described in Fedenko et al. (2013). Briefly, to remove nonstructural extractives, $0 . 5 \\mathrm { ~ g ~ }$ of ground root tissue was autoclaved with $1 0 0 ~ \\mathrm { m l }$ of deionized water in $\\mathrm { 1 4 0 – m l }$ sealed pressure tubes (ACE Glass, Inc.,Vineland,NJ, USA)at $1 2 1 ^ { \\circ } \\mathrm { C }$ and $1 0 3 ~ \\mathrm { { k P a } }$ for $^ \\textrm { \\scriptsize 1 h }$ .Autoclaved samples were then vacuumfiltered through coarse-porosity filter paper $( > 2 5 \\ \\mu \\mathrm { m } ,$ Whatman 113,GE Healthcare UK Limited, UK) to capture all structural fiber.Captured structural biomass was then dried at $5 0 ~ ^ { \\circ } C$ to a constant weight for subsequent fiber carbohydrate and lignin analysis.A subsample of $0 . 3 \\mathrm { ~ g ~ }$ of structural fiber was incubated at $3 0 ~ ^ { \\circ } \\mathrm { C }$ in $3 ~ \\mathrm { m l }$ of $7 2 \\%$ sulfuric acid for $^ \\textrm { \\scriptsize 1 h }$ followed by digestion in $8 7 ~ \\mathrm { m l }$ of $4 \\%$ sulfuric acid (by adding $8 4 ~ \\mathrm { m l }$ deionized water) in an autoclave at $1 2 1 ^ { \\circ } \\mathrm { C }$ and $1 0 3 ~ \\mathrm { { k P a } }$ for $^ { \\mathrm { ~ 1 ~ h ~ } }$ .Hydrolyzed samples were vacuum-filtered through a medium-porosity filtering crucible (Coors #60531，CoorsTex, Golden, CO, USA),and the filtrate was collected and analyzed for acid-soluble lignin using a UV-vis spectrophotometer (StellarNet, Inc., Tampa,FL,USA)at a wavelength of $2 4 0 ~ \\mathrm { n m }$ .The filtered solids were dried at $1 0 5 ~ ^ { \\circ } \\mathrm { C }$ to constant weight and then were ashed at $5 0 0 ~ ^ { \\circ } \\mathrm { C }$ for at least $^ { 6 \\mathrm { ~ h ~ } }$ .The residuals were weighed for ash concentration,and acid-insoluble lignin was calculated as the difference between dried filtered solids and ash.Total lignin (TL) was calculated as the sum of acid-soluble and acid-insoluble lignin.The remaining filtrate was adjusted to $\\mathrm { \\Delta p H }$ to 5-7 with calcium carbonate and filtered through a $0 . 2 2 \\mathrm { - } \\mu \\mathrm { m }$ syringe filter (Fisher Scientific,Pittsburgh,PA,USA) for fiber carbohydrate analysis using high-performance liquid chromatography (HPLC). The filtrate samples were analyzed byHPLC (Perkin-Elmer Flexar system,Waltham,MA) with an Aminex HPX-87H column (Bio-Rad,Hercules,CA) maintained at $5 0 ~ ^ { \\circ } C$ with HPLC-grade $4 ~ \\mathrm { m M }$ sulfuric acid as the mobile phase at $0 . 4 ~ \\mathrm { m l ~ m i n ^ { - 1 } }$ with a $1 0 \\ – \\mu \\mathrm { l }$ injection and 40-min run time. Concentrations of total fiber glucose(TFG)，total fiber xylose (TFX),total fiber arabinose(TFA),total fiber carbohydrates (TFC) (the sum of TFG,TFX,AND TFA),and TL were all expressed on an ash-free basis $\\left( \\mathrm { m g ~ g ^ { - 1 } } \\right.$ DM). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The remaining chemical components after the 12-month field incubation, including total lignin $( \\mathrm { T L _ { r e m a i n i n g } ) }$ ，total fiber glucose $( \\mathrm { T F G } _ { \\mathrm { r e m a i n i n g } } ) _ { \\cdot }$ ，total fiber xylose $( \\mathrm { T F }  X _ { \\mathrm { r e m a i n i n g } } )$ ，total fiber arabinose $( \\mathrm { T F A _ { r e m a i n i n g } } )$ ,total fiber carbohydrate $( \\mathrm { T F C } _ { \\mathrm { r e m a i n i n g } } ) _ { \\cdot }$ nitrogen $( \\mathrm { N _ { r e m a i n i n g } } ) ,$ and carbon $( \\mathrm { C _ { r e m a i n i n g } ) }$ ，were calculated using the following equation (Fioretto et al., 2005): ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { c } = \\frac { c _ { f } \\times \\mathrm { R o o t } _ { \\mathrm { m a s s } , f } } { c _ { i } \\times \\mathrm { R o o t } _ { \\mathrm { m a s s } , i } } \\times 1 0 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $R _ { C }$ is the remaining chemical component after the 12-month incubation in the field. $C _ { i }$ and $C _ { f }$ are initial and final concentrations of each chemical component,respectively. $\\mathrm { R o o t } _ { \\mathrm { m a s s } , f }$ is the final weight of root biomass after the 12-month incubation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Data analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Root chemical (e.g., concentrations of TL,TFG,TFX,TFA,TFC, and total C and N) and morphological (e.g.，SRL,SRA,and SRV）characteristics prior to decomposition were analyzed using the generalized linear mixed model (glimmix) procedure of SAS (ver.9.3,SAS institute, Cary,NC,USA) with species as a fixed effect and block as a random effect.Remaining chemical components and $K$ were also analyzed using the glimmix procedure.Pairwise comparisons were made using the lsmeans statementwith the Tukey'smethodwitha significance level of $P < 0 . 0 5$ .Relationships between $K$ and root traits were analyzed with Pearson's correlation,principal component analysis (PCA),and factor analysis using SAS procedures of corr,prinqual,and factor,respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Decomposition rate ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The decomposition rate constant, $K ,$ of elephantgrass was higher at $3 . 6 4 ~ \\mathrm { g } ~ \\mathrm { k g } ^ { - 1 } ~ \\mathrm { d a y } ^ { - 1 }$ than all other species except for sweetcane (Table 1).This was associated with $23 \\%$ of root biomass remaining after the 12-month incubation (Fig. 2),which was also among the lowest of all species in this study.Sweetcane decomposed at a rate constant of $2 . 7 7 \\mathrm { ~ g ~ } \\dot { \\mathrm { k g } } ^ { - 1 } \\mathrm { ~ d a y } ^ { - 1 } ,$ ：which was significantly higher than sugarcane and energycane,but did not differ from elephantgrass,giant reed, or giant miscanthus. After the 12-month decomposition study, $4 0 \\%$ of sweetcanerootbiomassremained,whichwaslower than that in giant reed and energycane (data not shown). Energycane，sugarcane,giant reed,and giant miscanthus did not differ in $K ,$ averaging $1 . 7 2 ~ \\mathrm { g } \\mathrm { k g } ^ { - 1 } \\mathrm { d a y } ^ { - 1 }$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Root morphology ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Specific root length varied almost three-fold among species，ranging from 9.O for giant reed to $2 5 . 3 \\mathrm { ~ m ~ g ^ { - 1 } }$ for elephantgrass (Table 1). Elephantgrass roots possessed the highest SRL，whereas giant reed,sugarcane,sweetcane,and energycane were among the lowest in SRL. In contrast, there wasless than two-fold variation in SRA, which ranged from 199 to $3 3 7 ~ \\mathrm { c m } ^ { 2 } ~ \\mathrm { g } ^ { - 1 }$ . Elephantgrass and giant miscanthus roots had the highest SRA,while giant reed，sweetcane，and sugarcane were among the lowest in SRA.Specific root volume ranged from 3.06 to $4 . 7 6 ~ \\mathrm { c m } ^ { 3 } ~ \\mathrm { g } ^ { - 1 }$ across all species. Giant miscanthus,energycane,and sugarcane roots were among the highest in SRV，while elephantgrass，sweetcane，and giant reed wereamong the lowest for SRV. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Root chemical composition ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Elephantgrass roots exhibited a lower TE concentration prior to the 12-month incubation than giant miscanthus, which was not different from other species (Table 2). It also had lower TL concentration than giant reed.Root concentrations of TFG and TFX in elephantgrass roots were higher than almost all other species,in contrast to the relatively lower concentrations in sugarcane. Root concentrations of TFA were relatively lower in giant reed，sweetcane,and elephantgrass.Overall,root TFC concentration of elephantgrass was higher than all other species except sweetcane.Root total C varied little among species $( 4 0 8 { - } 4 5 6 ~ \\mathrm { m g ~ g } ^ { - 1 }$ DM);however,total C of elephantgrass was higher than that of giant reed. Root total $_ \\mathrm { N }$ concentration ranged from $5 . 6 ~ \\mathrm { m g ~ g ^ { - 1 } }$ in sweetcane to $8 . 8 ~ \\mathrm { m g ~ g ^ { - 1 } }$ in giant miscanthus. Giant miscanthus,sugarcane,and elephantgrass were among the species with the highest root $\\Nu$ concentrations.Root C: N ratio ranged from about 49 in giant miscanthus to about 77 in sweetcane.Sweetcane，energycane，and giant reed were among the species with the highest root C:N ratios. The high TL:N ratio in giant reed resulted from its high TL concentration and low total N concentration.However，the relatively rapidly decomposing elephantgrass did not show lower C:N or TL:N ratio than most other species. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/1c4fbaf35b0e5c0b8379826c4eaeca8078697e2fb66f57a04078625d74d4b25d.jpg",
+        "table_caption": [
+            "Table1 Rate constant (K） for decomposition,specific root length (SRL),specific root surface area (SRA),and specific root volume (SRV) of perennial grass fine roots before decomposition "
+        ],
+        "table_footnote": [
+            "\\*Means $( n = 4 )$ ）followed by different letters within a column differ significantly $( P \\le 0 . 0 5 )$ ： "
+        ],
+        "table_body": "<html><body><table><tr><td>Species</td><td>K g kg-1 day-1</td><td>SRL mg-1</td><td>SRA cm² g-1</td><td>SRV cm g-1</td></tr><tr><td>Giant reed</td><td>1.80 BC*</td><td>9.0 C</td><td>204C</td><td>3.59 BC</td></tr><tr><td>Sugarcane</td><td>1.62 C</td><td>10.5 C</td><td>231 BC</td><td>3.97AB</td></tr><tr><td>Sweetcane</td><td>2.77 AB</td><td>10.1 C</td><td>199 C</td><td>3.06 C</td></tr><tr><td>Energycane</td><td>1.48 C</td><td>13.1 BC</td><td>259B</td><td>4.28 AB</td></tr><tr><td>Elephantgrass</td><td>3.64A</td><td>25.3A</td><td>311A</td><td>3.09 C</td></tr><tr><td>Giant</td><td>1.99 BC</td><td>18.9 B</td><td>337A</td><td>4.76 A</td></tr><tr><td>miscanthus P-value</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bee26ec4f51cef2cd6888d0d40eae71bf4d2197c561f322d100d76494ceb4804.jpg",
+        "img_caption": [
+            "Fig.2 Root decomposition ( $\\%$ remaining root mass) over the 12-month decomposition period. Species include giant reed (GR), sugarcane(SC),swetcane(SW),ergyane(EC)elephantgrass (EG),andiantmscanthus(GM).Circlesrepresenttreatn ${ \\bf \\langle } n = 4 ,$ fraction of root biomasson an ash-free basis remaining at each removal date,and the error bars represent $\\pm 1$ SD. Solid lines represent the fited lines from the single-pool negative exponential model, $M _ { \\mathrm { t } } = 1 0 0 \\times \\mathrm { e } ^ { ( - K \\mathrm { t } ) } ,$ for each of the species, where $K$ is the decomposition rate in $\\mathrm { g } \\mathrm { k g } ^ { - 1 }$ day-1 and $t$ is time in day. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/12a92f2ee43c60aef5a541a4e00e8b453db9f2a98937bf74c6958e765b94bc5d.jpg",
+        "table_caption": [
+            "Table2Concentrationsof total extractives (TE),total lignin(TL),totalfiber glucose (TFG),total fiberxylose $( \\mathrm { T F } \\backslash ) ,$ total fiberarabi nose(TFA),totalfbarbodate(C),totalCtotalNC:d:atiosoottuosfrdyaerbso decomposition "
+        ],
+        "table_footnote": [
+            "\\*Means $( n = 4 )$ followed by different letters withina column differ significantly $( P \\le 0 . 0 5 )$ "
+        ],
+        "table_body": "<html><body><table><tr><td>Species</td><td>TE</td><td>TL</td><td>TFG</td><td>TFX</td><td>TFA</td><td>TFC</td><td>Total C</td><td>Total N</td><td>C:N</td><td>TL:N</td></tr><tr><td></td><td colspan=\"10\">mg g-1DM</td></tr><tr><td>Giant reed</td><td>152 AB*</td><td>327 A</td><td>269 BC</td><td>168 BC</td><td>19.4 C</td><td>455BC</td><td>408B</td><td>6.1 C</td><td>67.2 AB</td><td>53.8A</td></tr><tr><td>Sugarcane</td><td>146 AB</td><td>316 AB</td><td>248C</td><td>162C</td><td>32.3B</td><td>442 C</td><td>439AB</td><td>8.0 AB</td><td>54.9 BC</td><td>39.6 BC</td></tr><tr><td>Sweetcane</td><td>144AB</td><td>299 AB</td><td>301B</td><td>195 AB</td><td>23.6C</td><td>519 AB</td><td>428 AB</td><td>5.6C</td><td>76.6A</td><td>53.6A</td></tr><tr><td>Energycane</td><td>155AB</td><td>301AB</td><td>267 BC</td><td>176 BC</td><td>38.7A</td><td>481 BC</td><td>432 AB</td><td>6.8 BC</td><td>63.7 AB</td><td>44.3 AB</td></tr><tr><td>Elephantgrass</td><td>126B</td><td>293B</td><td>342 A</td><td>207A</td><td>20.6C</td><td>570A</td><td>456A</td><td>7.8 AB</td><td>58.7 BC</td><td>37.7 BC</td></tr><tr><td>Giant miscanthus</td><td>174 A</td><td>291B</td><td>253 C</td><td>172 BC</td><td>35.2AB</td><td>459 BC</td><td>416 AB</td><td>8.8A</td><td>48.6 C</td><td>34.0 C</td></tr><tr><td>P-value</td><td>0.058</td><td>0.003</td><td><0.001</td><td>0.001</td><td>0.001</td><td><0.001</td><td>0.048</td><td><0.001</td><td><0.001</td><td><0.001</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Root chemical traits were analyzed again after their 12-month incubations and expressed as a fraction of theirinitial amounts to better understand relevant differences in decomposition (Table 3).Elephantgrass roots exhibited relatively lower remaining TFG，TFX，TFA, TFC, ${ \\mathrm { T L } } ,$ total $C ,$ and N(Table 3),which was consistent with its higher $K$ (Table 1).In contrast,roots of giant reed,sugarcane,and energycane showedhigher remaining amount of all chemical characteristics (Table 3), which wasconsistentwiththeirlower $K$ (Table 1). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Among all the six species,initial SRV was positively correlated with remaining $\\mathrm { T L } ,$ TFC, $C ,$ and $\\Nu$ (Table 4). Remaining ${ \\mathrm { T L } } ,$ TFC, C,and $\\mathrm { \\Delta N }$ were also positively correlatedwitheach other. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Relationships between root decomposition rate and root traits ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "K was positively correlated with a number of root chemical traits prior to decomposition，including TFG, TFX,TFC,and total C,but it was negatively correlated with TL and TFA concentrations and SRV (Table 5). Root TL was negatively correlated with total $_ \\mathrm { N }$ concentration, $S { \\mathrm { R L } } ,$ and SRA.However，TFC concentration was positively correlated with SRL and negatively cor relatedwith SRV. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The first two axes of the PCA performed with 12 root traits and $K$ accounted for $78 \\%$ of the variance (Fig. 3). The first PCA axis (Component 1) accounted for $4 2 \\%$ of the variance and was defined byroot chemical and morphological traits. The second PCA axis (Component 2) accounted for $3 6 \\%$ of the variance and was defined by ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "K.Concentrations of TFG,TFX,TFC,and total C were grouped together with $K ,$ indicating a high correlation among these traits.Additionally,SRL was slightly positivelycorrelated withK.However, SRV,TFA,and TL in theroot tissue predecompositionwere negatively related to K. Root total N concentration, C:N, TL:N,and SRA prior to decomposition were independent of $K ,$ as indicated bythe near $9 0 ^ { \\circ }$ angle among the directional vectors. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Root chemistry plays a dominant role in controlling pat terns of decomposition rates at a global scale (Silver & Miya，20o1). Previous studies have commonly focused onplant tissue C:N ratios,which were often negatively correlated with decomposition rate as described in Zhang et al. (2oo8). However，decomposition is more complex,and rates of decomposition are not necessarily related to C:N ratio,but they can be influenced by a number of factors such as environmental conditions, decomposer composition，other root chemical components，and physical structure (Table 5) (Johnson et al., 2007;Birouste et al.,2012; Smith et al.,2014). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Although there are a number of factors that have been shown to influence decomposition, there is a growing body of literature indicating that tissue carbohydrate concentration and composition are key determinants of root decomposition rates.For example,high fibercarbohydrate concentrationswereassociated with rapid root decomposition among tree and herbaceous species (Silver& Miya,2001;Aulen et al.,2012).Results from the present study confirm these findings,as root $K$ was positively correlated with TFG, $\\mathrm { T F X } ,$ and TFC prior to decomposition among botanically similar (i.e.，Poaceae family) perennial grass species (Table 5 and Fig. 3). The positive correlation between TFC and $K ,$ and in particular, TFG and $K ,$ could be explained by energy dominance.Decomposer activity during bio-decomposition is mainly controlled by the energy that can be supplied by substrates contained in the litter (Fioretto et al.，2005; Hättenschwiler & Jorgensen,2010). Compared with lignin,cellulose is an energy-rich compound.Thus，the faster decomposition of elephantgrass roots in the present study could be because of their relatively higher celuloseconcentrationandcellulose:ligninratio compared withthe otherspecies. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/c151b71c5a8547e154dfa965dd259fe5e0fb4fc11394c523b597b2204c0b2f43.jpg",
+        "table_caption": [
+            "Table 3Amount ( $\\%$ of initial)of total fiberglucose $( \\mathrm { T F G } _ { \\mathrm { r e m a i n i n g } } )$ total fiber xylose $( \\mathrm { T F }  X _ { \\mathrm { r e m a i n i n g } } )$ total fiber arabinose $( \\mathrm { T F A _ { r e m a i n i n g } } ) ,$ total fiber carbohydrate $( \\mathrm { T F C } _ { \\mathrm { r e m a i n i n g } } ) _ { \\mathrm { . } }$ , total lignin $( \\mathrm { T L _ { r e m a i n i n g } ) }$ C $: ( \\mathrm { C _ { r e m a i n i n g } ) }$ and $\\textsf { V } ( { \\mathrm { N } _ { \\mathrm { r e m a i n i n g } } } )$ remaining on an ash-free dry matter basis after a 12-month decomposition period in the field for the six perennial grass species "
+        ],
+        "table_footnote": [
+            "\\*Means $( n = 4 )$ followed by different letters within a column differ significantly $( P \\le 0 . 0 5 )$ 1 "
+        ],
+        "table_body": "<html><body><table><tr><td>Species</td><td>TFGremaining</td><td>TFXremaining</td><td>TFAremaining</td><td>TFCremaining</td><td>TLremaining</td><td>Cremaining</td><td>Nremaining</td></tr><tr><td>Giant reed</td><td>50 AB*</td><td>48 AB</td><td>58A</td><td>50AB</td><td>74 AB</td><td>58A</td><td>76AB</td></tr><tr><td>Sugarcane</td><td>53AB</td><td>51AB</td><td>60A</td><td>53AB</td><td>70AB</td><td>55AB</td><td>83AB</td></tr><tr><td>Sweetcane</td><td>28 BC</td><td>28 BC</td><td>34B</td><td>28 BC</td><td>47 BC</td><td>33 BC</td><td>57 BC</td></tr><tr><td>Energycane</td><td>61A</td><td>54A</td><td>66A</td><td>59A</td><td>76A</td><td>63A</td><td>91A</td></tr><tr><td>Elephantgrass</td><td>16C</td><td>16C</td><td>17 B</td><td>16C</td><td>26C</td><td>17 C</td><td>28C</td></tr><tr><td>Giant miscanthus</td><td>34 BC</td><td>34 BC</td><td>34B</td><td>34 BC</td><td>54 A-C</td><td>42 AB</td><td>60B</td></tr><tr><td>P-value</td><td>0.0004</td><td>0.0007</td><td><0.0001</td><td>0.0004</td><td>0.0010</td><td>0.0001</td><td>0.0001</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/1ff8338549d9c983a587e654869432930d2ef42fb3e218bb94a702d8da47b46a.jpg",
+        "table_caption": [
+            "Table 4Pearson's correlation coeficients between remaining total lignin $( \\mathrm { T L _ { r e m a i n i n g } ) }$ , fiber carbohydrate $( \\mathrm { T F C } _ { \\mathrm { r e m a i n i n g } } )$ ,C (Cremaining), and I $\\mathrm { \\Delta V ( N _ { r e m a i n i n g } ) }$ after 12-month decomposition,and specific rootlength (SRL),surface area (SRA),andvolume (SRV) before decomposition of all perennial grass species "
+        ],
+        "table_footnote": [
+            "$\\dag P \\leq 0 . 0 1$ , 0.05,and 0.1 represented as \\*\\*\\*\\*,and \\*, respectively. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>TLremaining</td><td>TFCremaining</td><td>Cremaining</td><td>Nremaining</td><td>SRL</td><td>SRA</td></tr><tr><td>TFCremaining</td><td>0.84***,</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Cremaining</td><td>0.97***</td><td>0.83***</td><td></td><td></td><td></td><td></td></tr><tr><td>Nremaining</td><td>0.93***</td><td>0.82***</td><td>0.94***</td><td></td><td></td><td></td></tr><tr><td>SRL</td><td>-0.34</td><td>-0.40</td><td>-0.26</td><td>-0.41*</td><td></td><td></td></tr><tr><td>SRA</td><td>-0.05</td><td>-0.14</td><td>-0.02</td><td>-0.15</td><td>0.87***</td><td></td></tr><tr><td>SRV</td><td>0.52**</td><td>0.47*</td><td>0.52**</td><td>0.44*</td><td>-0.00</td><td>0.48**</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/18d874b56a515c2f4f0304ab59e066f9a3dad8ab1d0c424eb9d7a91f6c59a5b2.jpg",
+        "img_caption": [
+            "Fig.3Principal component analysis for root traits and decomposition rate constant $( K )$ .Root traits prior to decomposition include specific root length (SRL)，specific root surface area (SRA),specific root volume (SRV),and concentrations of total fiber glucose(TFG),total fiber xylose (TFX),total fiber arabinose(TFA),total lignin (TL),total C and N in root tissue,and ratios of TL:N and C:N. Species include giant reed (GR),sugarcane (SC)，sweetcane (SW)，energycane (EC)，elephantgrass (EG),and giant miscanthus (GM). "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/249cec4ddcaa0533ee9ca2694b998c7b0d6a8916961ac456a510767a7fbb26b6.jpg",
+        "table_caption": [
+            "rrrsr\\*r\\*\\*erer"
+        ],
+        "table_footnote": [
+            "武"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>K</td><td>TL</td><td>TFG</td><td>TFX</td><td>TFA</td><td>TFC</td><td>Total C</td><td>Total N</td><td>C:N</td><td>TL:N</td><td>SRL</td><td>SR</td></tr><tr><td>TL</td><td>-0.45**+</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>TFG</td><td>0.75***</td><td>-0.17</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>TFX</td><td>0.63***</td><td>-0.22</td><td>0.94***</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>TFA</td><td>-0.64***</td><td>-0.19</td><td>-0.51**</td><td>-0.29</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>TFC</td><td>0.67***</td><td>-0.23</td><td>0.97***</td><td>0.99***</td><td>-0.31</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total C</td><td>0.40*</td><td>-0.15</td><td>0.45**</td><td>0.40*</td><td>-0.02</td><td>0.46**</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total N</td><td>-0.05</td><td>-0.39*</td><td>-0.21</td><td>-0.17</td><td>0.38*</td><td>-0.16</td><td>0.13</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>C:N</td><td>0.10</td><td>0.32</td><td>0.34</td><td>0.31</td><td>-0.38*</td><td>0.30</td><td>0.17</td><td>-0.94***</td><td></td><td></td><td></td><td></td></tr><tr><td>L:N</td><td>-0.15</td><td>0.60***</td><td>0.13</td><td>0.09</td><td>-0.40*</td><td>0.06</td><td>-0.18</td><td>-0.95***</td><td>0.90***</td><td></td><td></td><td></td></tr><tr><td>SRL</td><td>0.38</td><td>-0.48**</td><td>0.45**</td><td>0.47**</td><td>0.00</td><td>0.49**</td><td>0.13</td><td>0.52**</td><td>-0.51**</td><td>-0.61***</td><td></td><td></td></tr><tr><td>SRA</td><td>0.08</td><td>-0.44*</td><td>0.05</td><td>0.12</td><td>0.36</td><td>0.13</td><td>-0.06</td><td>0.63***</td><td>-0.67***</td><td>-0.69***</td><td>0.87***</td><td></td></tr><tr><td>SRV</td><td>-0.58**</td><td>0.03</td><td>-0.75***</td><td>-0.66***</td><td>0.75***</td><td>-0.66***</td><td>-0.36</td><td>0.41*</td><td>-0.52**</td><td>-0.35</td><td>-0.00</td><td>0.4</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "On the other hand，the energy supplied by more recalcitrant compounds is generally low and the energy required to break them down is high (Fioretto et al., 2005；Hättenschwiler & Jorgensen，2010；Sun et al, 2013).The energy is therefore not enough to support the level of microbial activity that is seen with less recalcitrant compounds， asindicated bythenegative correlation between $K$ and initial TL in the present study (Table 5).Thus, the decomposition of recalcitrant compounds was relatively slow，as indicated by the generally high remaining TL after the 12-month field incubation， withtheexceptionofelephantgrass (Table 3).In the present study,elephantgrass possessed the highest initial TFC concentration among all the six perennial grass species,but its initial TL was similar to other species except for giant reed (Table 2).Further more,consistent with the root decomposition study in the field, remaining root biomass was also the lowest in elephantgrass among the six species in another decomposition study performed in pots without plants inside a greenhouse over a 12-month period (data not shown). Root $K$ of elephantgrass from the present study is very close to that from another study with $K$ values ranging from 2.65 to $3 . 1 8 \\mathrm { ~ g ~ k g } ^ { - 1 } \\mathrm { ~ d a y } ^ { - 1 }$ (Siqueira da Silva et al., 2015).Taken together,rapid decomposition in elephantgrass root tissue,including ${ \\mathrm { T L } } ,$ in the present study could be explained,at least in part,bya relatively high TFC and TFG to TL ratio. The TFC and TFG provided sufficient energy to decompose more recalcitrant compounds similar to the priming effect seen with root exudates and finerootturnover (van der Krift etal.,2002; Fioretto et al.,2005;Talbot& Treseder,2012). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Asa result,the decomposition of labile and recalcitrant compounds was correlated in the study,as indicated by the positive correlation between TFCremaining and TLremaining (Table 3). In the present study, elephantgrass possessed the highest initial TFC concentration among all the grasses,but its initial TL was similar to other species except for giant reed (Table 2).Its high initial TFC concentration probably stimulated or primed lignin decomposition，which resulted in relatively low amounts of both TFCremaining $( 1 6 \\% )$ and TLremaining $( 2 6 \\% )$ after the 12-month field incubation. On the other hand,giant reed had at least $5 0 \\%$ of both TFC and TL remaining after the incubation.Consequently，a relativelyhigh TL and/orhigh TL:TFC reduced $K$ by slowing the loss of hemicellulose and cellulose as well as lignin,implying that lignin may have protected the cell wall from degradation (Fioretto et al.，2Oo5;Talbot & Treseder,2012). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Besides the physical protection of more easily decomposable components (i.e.,cellulose and hemicellulose), the recalcitrance of lignin is related to its chemical characteristics,such as molecule size,polarity,three-dimensional structure,and functional groups (aromatic ring structures）(von Luetzow et al.，2Oo6;Puttaso et al., 2011;Gul & Whalen,2013). Once plant tissues start to decompose, lignin begins to incorporate N,and condensation reactions take place (Berg& McClaugherty, 2008).These chemical transformations could cause changes in structures that are resistant to degradation by soil microbes and also act as barriers limiting their access to the more labile compounds.High N concentrations also suppress the formation of ligninase (Berg & McClaugherty，20o8) and may help to explain why a positive correlation was found between $\\mathrm { T L } _ { \\mathrm { r e m a i n i n g } }$ and N，which was consistent with the previous findings, especially in lignin-rich plant tissues (Hobbie,2ooo;Perakis et al.,2012).Also,because of the protection of lig nin，degradation of TFC could have been retarded, leading to the positive correlation between remaining TFC and N (Table 4). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Root morphological traits represent the economics of root investment: carbon input for root growth vs. the capacity of resource acquisition (Donovan et al.， 2014; Reich,2014). Their correlations with root decomposition rate reflect their potential in C and nutrient cycling across ecosystems (Donovan et al., 2014). In the present study，morphological traits associated with fast root decomposition were high SRL and,even more so,low SRV roots (Fig.3;Table 5). These findings were in agreement with other studies that have shown SRL to bepositivelycorrelatedwith decompositionrate because a high SRL has the potential to facilitate decomposition through maximizing root surface area and exposure for bio-decomposition (Aulen et al.,2012; Birouste et al.，2012;Donovan et al.，2014;Smith et al., 2014).In addition, the present study identified correlations between root morphological and chemical traits, such as the positive correlation between TLremaining and SRV (Table 4)，and the negative correlations between TL，SRL,and SRA (Table 5).Root diameter has also been shown to affect root decomposition rates among switchgrass cultivars (de Graaff et al.，2013)，which could be related to different concentrations of soluble carbohydrates and lignin in different root diameter size classes (Fan & Guo,201O).However,interactive effects of root morphological and chemical traits on root decomposition have not been investigated thoroughly in the previous research. Varied morphological and chemical traits of plant species are determined by both genetic and environmental components. The interaction of root morphological and chemical characteristics, thus, might play an important role in root decomposition under different environments.For instance,after similar time periods of decomposition in the field, the remaining root biomass of the same species can differ greatly under varied environments (Harmon et al., 2009). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Beyond the intrinsic characteristics of roots,environmental factors werealso likely to influence root decom position.For instance,soil temperature has been shown to be closely correlated with root decomposition rates, as decomposition rates increased up to five-fold with a temperature increase from 20 to $3 0 ~ ^ { \\circ } \\mathrm { C }$ (Solly et al.,2014; ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Stewart et al.,2015).In the present study,root mass loss was accelerated at 185 days after decomposition (Fig. 2), which was consistent with the high soil temperature in June (Fig.1).Additionally，species or environmental factors (e.g.，soil temperature,moisture,and fertility) and their interactions could have contributed to differences in microbial community diversity and/or functional activity (van der Heijden etal.，2Oo8;Brzostek et al.,2015) that could have contributed,at least in part, to the observed differences in root decomposition among the species as well. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Overall, perennial grass species, many of which possess similar aboveground annual biomass production, differed substantially in root morphological and chemical traits,and these traits were closely correlated with their decomposition rates.In the context of C flux across ecosystems,root biomass (i.e., quantity and quality) and its decomposition rate are among the most important factors governing soil C dynamics (Aerts et al., 2003; von Luetzow et al., 2006). Although the processes controlling belowground C translocation and allocation of rootderived C into soil are complex,more organic matter input from roots combined with greater microbial activity are presumed to lead to more C transfer and storage in the soil (Kuzyakov & Domanski, 20o0; Puttaso et al., 2011).However, the quality of root-derived C inputs can also play a dominant role in the transfer of root biomass to soil organic C. Despite a lack of consensus in the literature,most recent studies suggest that high-lignin materials cannot be used efficiently by the soil microbial community，and high-lignin materials thus contribute less to soil organic C than materials with low lignin concentrations (Hancock et al.,2007; Cotrufo et al.,2013; Stewart et al.，2015). Additionally，introducing readily available organic matter into soils initially brings up priming effects,which causes soil organic C loss through promoted microbial metabolisms (Brzostek et al.,2015; Stewart et al.，2015). However, the negative effects of root-derived C inputs on soil C stocks are generally transient and more pronounced in the rhizosphere (Haichar et al.,2014).As evidenced in previous studies, the extent that root-derived C affects soil organic C in bioenergy production systems is expected to vary considerably depending on soil， plant，and environmental factors (Bandaru et al., 2013; Bonin & Lal, 2014). Thus,changes in soil organic C can be expected to differ between bioenergy grasses. For example,after conversion of native land to miscanthus, soil organic C was building up slowly over time, whereas the conversion to sugarcane caused a large initial loss of soil organic C in the top soil, and the loss could last for a few decades before soil organic carbon rebuilds (Anderson-Teixeira et al.,2009). Such interspecies differences in soil organic C could be related to the characteristics of root chemistry and morphology indicated in the present study.For instance, giant miscanthus and giant reed showed slow root decomposition rates,implying a slow increase in soil organic C.In contrast,elephantgrass roots exhibited all the root traits favorable for fast decomposition: high TFG,high TFC,high SRL,and a low SRV,and elephantgrass could thus be expected to contribute to soil C accumulation in a rapid way. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Theauthors would like to acknowledge Andy Schreffler, CarleyFuller,Rezzy Manning,Jeffery Fedenko,and Cameron Preston for their contributions to experimental setting and data collection. This project was supported by grant no.2008-34606- 19522 from the United States Department of Agriculture and by competitive grant no.2012-67009-19596 from USDA-NIFA. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Adair EC,Hobbie SE,Hobbie RK (2010) Single-pool exponential decomposition models: potential pitfalls in theiruse inecological studies.Ecology,91,225-236.   \nAerts R,De Caluwe H, Beltman B (2oo3)Plant community mediated vs. nutritional controls on litter decomposition rates in grasslands.Ecology,84, 3198-3208.   \nAmougou N, Bertrand I, Machet J,Recous S (2011) Quality and decomposition in soil of rhizome,root and senescent leaf from Miscanthus $\\times$ giganteus,asaffected byharvest date andN fertilization.Plant and Soil,338,83-97.   \nAnderson-Teixeira KJ, Davis SC,Masters MD,Delucia EH (2009) Changes in soil organic carbonunder biofuel crops.Global Change Biology Bioenergy,1,75-96.   \nAulen M, Shipley B,Bradley R (2012) Prediction of in situ root decomposition rates in an interspecific context from chemical and morphological traits. Annals of Botany,109,287-297.   \nBandaru V, Izaurralde RC,Manowitz D,Link R, Zhang X,Post WM (2013) Soil carbon change and net energy associated with biofuel production on marginal lands: a regional modeling perspective.Journal of Environmental Quality,42,1802-1814.   \nBerg B,McClaugherty C (2oo8)Plant Liter:Decomposition,Humus Formation,Carbon Sequestration. Springer-Verlag Berlin Heidelberg, Berlin,Germany.   \nBirouste M,Kazakou E,Blanchard A,Roumet C (2012) Plant traits and decomposition: are the relationships for roots comparable to those for leaves?Annals of Botany, 109, 463–472.   \nBonin CL,Lal R (2014) Aboveground productivity and soil carbon storage of biofuel crops in Ohio.Global Change Biology Bioenergy,6,67-75.   \nBrzostek ER, Dragoni D,Brown ZA,Phillips RP (2015) Mycorrhizal type determines the magnitude and direction of root-induced changes in decomposition in a temperate forest.New Phytologist,206,1274-82.   \nCarroll A, Somerville C (20o9) Cellulosic biofuels.Annual Review of Plant Biology,60, 165–182.   \nCastillo MS,Sollenberger LE,Vendramini JMB et al. (2010) Municipal biosolids as an alternative nutrient source for bioenergy crops:II. Decomposition and organic nitrogen mineralization. Agronomy Journal,102,1314-1320.   \nCotrufo MF,Wallenstein MD,Boot CM,Denef K,Paul E (2013) The microbial efficiency-matrix stabilization (MEMS) framework integrates plant litter decomposition with soil organic matter stabilization: do labile plant inputs form stable soil organic matter? Global Change Biology,19,988-995.   \nDavis SC,Parton WJ, Dohleman FG,Smith CM, Del Grosso S, Kent AD,DeLucia EH (2010)Comparative biogeochemical cycles of bioenergy crops reveal nitrogenfixation and low greenhouse gas emissions in a Miscanthus $\\times$ giganteus agro-ecosystem. Ecosystems,13,144-156.   \nDon A,Osborne B,Hastings A et al.(2012) Land-use change to bioenergy production in Europe: implications for the greenhouse gas balance and soil carbon. Global Change Biology Bioenergy,4,372-391.   \nDonovan LA, Mason CM, Bowsher AW,Goolsby EW,Ishibashi CDA (2014) Ecological and evolutionary lability of plant traits afecting carbon and nutrient cycling. Journal ofEcology,102,302-314.   \nDrewer J, Finch JW, Lloyd CR,Baggs EM, Skiba U (2012) How do soil emissions of （20 $\\mathrm { N } _ { 2 } \\mathrm { O } ,$ （204号 $\\mathrm { C H } _ { 4 }$ and $\\mathrm { C O } _ { 2 }$ from perennial bioenergy crops differ from arable annual crops? Global Change Biology Bioenergy,4,408-419.   \nErickson JE, Soikaew A,Sollenberger LE,Bennett JM (2012) Water use and wateruse efficiency of three perennial bioenergy grass crops in Florida.Agriculture,2, 325-338.   \nFan P,Guo D (2010) Slow decomposition of lower order roots: a key mechanism of root carbon and nutrient retention in the soil. Oecologia,163,509-515.   \nFedenko JR,Erickson JE,Woodard KR et al. (2013) Biomass production and composition of perennial grasses grown for bioenergy in a subtropical climate across Florida, USA. Bioenergy Research,2,082-1093.   \nFioretto A,Di Nardo C,Papa S,Fuggi A (20o5) Lignin and cellulose degradation and nitrogen dynamics during decomposition of three leaf litter species in a Mediterranean ecosystem. Soil Biology and Biochemistry,37,1083-1091.   \nFontaine S,BarotS, Barre P,Bdioui N,Mary B,Rumpel C (2007) Stability of organic carbon in deep soil layers controlled by fresh carbonsupply.Nature,45o,277-280.   \nFornara DA, Tilman D (2oo8) Plant functional composition influences rates of soil carbon and nitrogen accumulation. Journal of Ecology,96,314-322.   \nde Graaff MA, Six J,Jastrow JD,Schadt CW,Wullchleger SD (2013) Variation in root architecture among switchgrass cultivars impacts root decomposition rates. Soil Biology and Biochemistry,58,198-206.   \nGul S,Whalen J(20l3) Plant life history and residue chemistry influences emissions of $\\mathrm { C O } _ { 2 }$ and $\\mathrm { N } _ { 2 } \\mathrm { O }$ from soil perspectives for genetically modified cell wall mutants. Critical Reviews in Plant Sciences,32,344-368.   \nvon Haden AC, Dornbush ME (2014) Patterns of root decomposition in response to soil moisture best explain high soil organic carbon heterogeneity within a mesic, restored prairie.Agriculture Ecosystems& Environment,185,188-196.   \nHaichar FZ, Santaella C,Heulin T,Achouak W (2014) Root exudates mediated interactions belowground. Soil Biology and Biochemistry,77,69-80.   \nHancock JE,Loya WM,Giardina CP,Li LG,Chiang VL,Pregitzer KS (2007) Plant growth, biomass partitioning and soil carbon formation in response to altered lignin biosynthesis in Populus tremuloides.New Phytologist,173,732-742.   \nHarmon ME,Silver WL,Fasth B et al. (2009)Long-term paterns of mass loss during the decomposition of leaf and fine root litter:an intersite comparison. Global Change Biology,15,1320-1338.   \nHattenschwiler S,Jorgensen HB (20lo) Carbon quality rather than stoichiometry controls liter decomposition in a tropical rain forest.Journal of Ecology,98,754 763.   \nvan der Heijden MGA,Bardgett RD,van Straalen NM (2008) The unseen majority: soil microbes as drivers of plant diversity and productivity in terrestrial ecosystems. Ecology Letters,11,296-310.   \nHobbie SE (2ooo) Interactions between litter lignin and soil nitrogen availability during leaf litter decomposition in a Hawaiian montane forest. Ecosystems,3,484- 494.   \nJohnson JMF,Barbour NW,Weyers SL (2007) Chemical composition of crop biomass impacts its decomposition. Soil Science Society ofAmerica Journal,71,155-162.   \nJones MB, Donnelly A (2004) Carbon sequestration in temperate grassand ecosystems and the influence of management, climate,and elevated $\\mathrm { C O } _ { 2 }$ New Phytologist, 164, 423–439.   \nKnoll JE,Anderson WF,Strickland TC,Hubbard RK,Malik R(2012) Low-input pro duction of biomass from perennial grasses in the Coastal Plain of Georgia, USA. Bioenergy Research,5,206-214.   \nVan der Krift T,Kuikman P,Berendse F(2002) The effect of living plants on root decomposition of four grass species. Oikos, 96, 36-45.   \nKuzyakov Y,Domanski G (20o) Carbon input by plants into soil. Review. Journal of Plant Nutrition and Soil Science,163,421-431.   \nLee H,Fitzgerald J, Hewins DB,McCulley RL,Archer SR,Rahn T, Throop HL (2014) Soil moisture and soil-litter mixing effects on surface litter decomposition: a controlled environmentassessment.Soil iology& iochemistry,72,3-32.   \nLemus R, Lal R (2Oo5) Bioenergy crops and carbon sequestration. Critical Reviews in Plant Sciences, 24,1-21.   \nvon Luetzow M,Koegel-Knabner I, Ekschmitt K et al. (2006) Stabilization of organic matter in temperate soils: mechanisms and their relevance under different soil conditions-a review.European Journal of Soil Science,57,426-445.   \nMonti A, Zatta A (2Oo9) Root distribution and soil moisture retrieval in perennial and annual energy crops in Northern Italy.Agriculture Ecosystems $\\mathcal { E }$ Environment, 132,252-259.   \nPerakis SS,Matkins JJ,Hibbs DE (2012) Interactions of tissue and fertilizer nitrogen on decomposition dynamics of lignin-rich conifer litter. Ecosphere 3,art54.   \nPrescott CE (2010) Litter decomposition: what controls it and how can we alter it to sequester more carbon in forest soils? Biogeochemistry,101,133-149.   \nPuttaso A,Vityakon P,Saenjan P,Trelo-ges V,Cadisch G (2011） Relationship between residue quality,decomposition paterns,and soil organic mater accumulation ina tropical sandy soil after13 years.Nutrient Cycling in Agroecosystems, 89, 159–174.   \nRasse DP,Rumpel C,Dignac M-F(2005) Is soil carbon mostly root carbon? Mechanisms for a specific stabilisation.Plant and Soil,269,341-356.   \nReich PB (2014) The world-wide ‘fast-slow' plant economics spectrum: a traits manifesto. Journal of Ecology,102,275-301.   \nSilver WL,Miya RK (2001) Global patterns in root decomposition: comparisons of climate and litter quality effects. Oecologia,129,407-419.   \nSiqueira da Silva HM,Batista Dubeux JC, Silveira ML,Viana de Freitas E,Ferreira dos Santos MV,de Andrade Lira M (2015) Stocking rate and nitrogen fertilization affect root decomposition of elephantgrass.Agronomy Journal,o7,331-38.   \nSix J,Elliott ET,Paustian K (20o) Soil macroaggregate turnover and microaggregate formation: a mechanism for C sequestration under no-tillage agriculture.Soil Biology $\\mathcal { E }$ Biochemistry,32, 2099-2103.   \nSmith SW,Woodin SJ,Pakeman RJ,Johnson D,van der Wal R (2014) Root traits predict decomposition across a landscape-scale grazing experiment. New Phytologist, 203, 851-862.   \nSolly EF,Schoening I, Boch S et al.(2014) Factors controlling decomposition rates of fine root litter in temperate forests and grasslands.Plant and Soil,382,203-218.   \nSomervilleC, Youngs H,Taylor C,Davis SC,Long SP (2010) Feedstocks for lignocellulosic biofuels. Science,329,790-792.   \nStewart CE,Moturi P,Follett RF,Halvorson AD (2015) Lignin biochemistry and soil N determine crop residue decomposition and soil priming. Biogeochemistry 124: 335–351.   \nSun T,Mao Z,Han Y (2013) Slow decomposition of very fine roots and some factors controlling the process: a 4-year experiment in four temperate tree species.Plant and Soil 372: 445-458.   \nTalbot JM, Treseder KK (2012) Interactions among lignin,cellulose,and nitrogen drive litter chemistry-decay relationships.Ecology,93,345-354.   \nZhang D,Hui D,Luo Y, Zhou G (2008) Rates of litter decomposition in terrestrial ecosystems: global patterns and controlling factors.Journal of Plant Ecology,1, 85-93. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

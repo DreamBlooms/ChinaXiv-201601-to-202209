@@ -1,0 +1,545 @@
+[
+    {
+        "type": "text",
+        "text": "Effects of vegetation near-soil-surface factors on runoff and sediment reduction in typical grasslands on the Loess Plateau, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Panpan1,WANG Bing1,2, YANG Yanfen1,2\\*,LIU Guobin1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1State Key Laboratoryof Soil Erosionand Dryland FarmingontheLoess Plateau,Institute of Soil and WaterConservation, Northwest A&F University,Yangling 7121Oo,China;   \n2State Key Laboratoryof SoilErosionandDrylandFarmingon the LoessPlateau,Instituteof Siland Water Conservation, Chinese Academy of Sciences and Ministry of Water Resources,Yangling 7121oo, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Vegetation near-soil-surface factors can protect topsoil from erosion, however, their contributions to the reduction of soil erosion,especially under natural rainfall events,have not been systematicaly recognized.This study was performed to quantify the effects of near-soil-surface factors on runoff and sediment under natural rainfall events on grasslands dominated by Botbriochloa ischaemum (Linn.) Keng (BI grassand) and Artemisia gmelini Thunb. (AG grassland) in two typical watersheds on the Loess Plateau, China in 2018. By successive removal of the plant canopy,litter, biological soil crusts (BSCs) and plant roots， we established five treatments includingplant roots， plant roots $+ \\mathrm { B S C s }$ ，plant roots ${ \\mathrm { + B S C s + } }$ litter, intact grassland and bare land in each grassland type.In total, twenty runoff plots (5 $\\mathrm { m } { \\times } 3 \\ \\mathrm { m } \\rangle$ ）with similar slopes and aspects were constructed in the two types of grasslands. Results showed that plant canopy, litter and roots reduced runoff, while BSCs, which swelled in the presence of water, increased runoff.In contrast, all of these factors reduced sediment yield.In addition,the reductions in runoff and sediment yield increased with $I _ { 3 0 }$ (maximum 3O-min rainfall intensity） for each vegetation near-soil-surface factor except for BSCs. Among these factors, plant canopy had the largest contribution to runoff reduction,accounting for $4 8 . 8 \\%$ and $3 9 . 9 \\%$ in the BI and AG grasslands,respectively. The contributions of these vegetation near-soil-surface factors to sediment yield reduction were similar $( 2 1 . 3 \\% - 2 9 . 9 \\% )$ in the two types of grasslands except for BSCs in the AG grassland $( 1 0 . 3 \\% )$ . The total reduction in runoff in the BI grassland $( 7 0 . 8 \\% )$ was greater than that in the AG grassland $( 5 3 . 1 \\% )$ ,while the reduction in sediment yield was almost the same in both grasslands $( 9 7 . 4 \\%$ and $9 6 . 7 \\%$ ). In conclusion, according to the effects of diferent vegetation near-soil-surface factors on runoff and sediment production, our results may provide more complete insight and scientific basis into the effects of various vegetation related factors in controling soil erosion. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: vegetation near-soil-surface factor; grassland; arid and semi-arid; soil erosion; Loess Plateau ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation:LIPanpan,WANG Bing,YANG Yanfen,LIU Guobin.2022.Effectsof vegetation near-soil-surfacefactors on runoff andsedimentreductionintypical grasslandsontheLoess Plateau,China.Journalof AridLand,14(3):325-340. https://doi.0rg/10.1007/s40333-022-0007-y ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Soil erosion is a serious ecological problem worldwide. Many laboratory and field experiments have confirmed that planting or preserving vegetation is an effective way to prevent soil loss, especially in vulnerable areas.Due to differences in vegetation types, vegetation distribution and community structure,the effects of vegetation on soil erosion vary (Lin et al.,2O14; Chen et al., 2018; Zhang et al.,2O18). Compared with woodlands with a low coverage, grasslands with a high coverage or plant density may reduce annual runoff by $50 \\%$ and annual soil loss by $92 \\%$ (Chen et al.,2018). The various effects of vegetation on soil erosion are generally related to vegetation near-soil-surface factors such as plant canopy, litter, biological soil crusts (BSCs),root system and soil properties (Wang et al., 2014; Sun et al., 2016; Wang et al., 2017). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Vegetation near-soil-surface factors include both aboveground and belowground factors,with the former including plant canopy, litter and BSCs,and the latter mainly including plant roots (Wang et al., 2O14). Generally, plant canopy can intercept raindrops and reduce kinetic energy, consequently protecting the soil surface from splash erosion. Zhou et al. (2O06) reported that for every $1 \\%$ increase in plant canopy, the amount of soil loss decreased by $4 5 6 ~ \\mathrm { t / ( k m ^ { 2 } { \\cdot } a ) }$ and soil erosion tended to be zero when the coverage reached $52 \\%$ . Plant litter improves soil surface roughness and the combination of plant stems and litter forms a series of small dams,which decreases runoff rate and dissipates overland flow energy (Wang et al.,2O14). Furthermore, plant litter can be incorporated into the topsoil and thus improve soil structure, enhance soil infiltration ability and promote soil stability (Liu et al.,2O2O).Plant liter incorporated into soil may decrease soil rill erodibility by $2 4 . 3 \\% - 3 4 . 8 \\%$ in natural grasslands or woodlands (Sun et al.,2O16). In contrast to plant canopy and litter, BSCs show both positive and negative effects on soil erosion. On the one hand, BSCs may promote soil water infiltration by increasing soil porosity and soil aggregate stability, thereby reducing overland flow velocity and erosive forces (Liu et al., 2016). On the other hand,BSCs may form an impermeable seal after absorbing water and thereby reduce infiltration and increase the overland flow rate (Coppola et al.,2O11). Wang et al. (2O14) reported that BSCs can be broken by overland flow and increase soil detachment capacity when the shear stress is greater than $1 1 \\mathrm { P a }$ (i.e., the failure point). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Plant roots are distributed throughout the soil mass and form a root-soil composite that strengthens soil shear strength during root growth (Gyssels et al.,2OO5). Plant roots also have strong direct efects on soil factors，increasing organic matter content，soil cohesion and water-stable aggregates and decreasing rillerodibility (Zhang et al., 2O19). Wang et al. (2014) summarized the role of the root system in consolidating soil as involving two mechanisms: physical binding and chemical bonding.They showed that the root bonding effect accounted for a quarter of the total reducing effects of roots on soil erosion. In addition,root type greatly affects soil erosion. In general, plants with fibrous root systems are more effective in reducing soil erosion than those plants with tap roots (de Baets et al.,2007; de Baets et al.,2011). As reported by Wang and Zhang (2O17), the ability of taproots to reduce soil detachment capacity is only two-thirds that of fibrous roots.In addition, soil properties (especially physical characteristics) have strong effects on soil erosion. An increase in soil bulk density reduces soil porosity and hinders infiltration, thus increasing overland flow and soil loss. Soil organic mater can enhance the formation of soil aggregates, improving soil structure and reducing soil erosion (Zhang et al., 2019). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "However, most studies assessing the effects of vegetation on soil erosion have considered only one or two of the above factors.In addition,popular soil erosion prediction models ignore these parameters.For example,the cover-management factor has been used to reveal the efects of vegetation cover and management measures on soil erosion in the universal soil loss equation (USLE) and revised universal soil loss equation (RUSLE; Biesemans et al.,2OoO).However, the cover-management factor has been estimated at watershed and regional scales,mainly by the land-use valuation methods and vegetation coverage calculations using remote sensing images (Feng and Zhao,2O14). These methods do not consider the effects of some factors (such as plant roots or litter) on soil erosion,which may limit model precision.Moreover, it remains unknown the extent to which soil losscan be reduced by a single vegetation near-soil-surface factor and the contribution of the factor to the reduction of soil erosion under the participation of all of the above-described vegetation near-soil-surface factors.Many studies have been carried out in this area and have achieved remarkable results. However, to our knowledge,only Wang et al. (2015) and Li and Pan (2O18) took into consideration all vegetation near-soil-surface factors to determine the effects of vegetation on soil erosion.As reported by Wang et al. (2O15), plant roots, BSCs and litter reduced the soil detachment capacity by $0 . 0 0 1 { - } 0 . 0 9 4 ~ \\mathrm { k g / ( m ^ { 2 } { \\cdot } s ) }$ ，with contributions ranging from $1 7 . 1 \\%$ to $5 8 . 7 \\%$ .Li and Pan (2O18) showed that plant roots were the primary contributor to reduced soil erosion，with an average contribution of $84 \\%$ ，while for runoff reduction，the contribution of aboveground vegetation near-soil-surface factors (plant canopy and liter） was almost $8 6 \\%$ . However, they used either scouring modeling experiments or simulated rainfall on planted grassland (for two years) rather than natural rainfall on natural grassand. This may have caused their results to be unrepresentative of field conditions. A systematic study of all vegetation near-soil-surface factors (plant canopy，plant roots,BSCs and litter） under natural rainfall and natural grassand conditions may help us better understand their impacts on soil erosion and improve the prediction accuracy of soil erosion models. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Loess Plateau is among the areas with the most severe soil erosion in China. The Chinese government implemented a series of ecological construction projects to solve ecological problems in the Loess Plateau,such as the Grain for Green Project in 1999.Due to the implementation of this project, the vegetation coverage of the Loess Plateau increased from $3 1 . 6 \\%$ in 1999 to $6 3 . 2 \\%$ in 2018,and grassland became the main land-use type on the plateau, covering an area of $2 . 6 { \\times } 1 0 ^ { 5 }$ $\\mathrm { k m } ^ { 2 }$ and accounting for $4 1 . 7 \\%$ of the total plateau area in 201O (Wang et al.，2015). The near-soil-surface factor of the grassland in the Loess Plateau is worth investigating due to the $2 0 \\mathrm { - a }$ restoration. Wang et al. (2O15) reported that plant litter accumulation in a grassland abandoned for 24 a was $0 . 2 0 \\mathrm { k g } / \\mathrm { m } ^ { 2 }$ ,which was 6.7 times that of grassland abandoned for 1a.Plant litter reduced soil erosion by $8 . 1 \\%$ and $1 3 . 3 \\%$ in the grasslands abandoned for 1 and $2 4 \\textrm { a }$ ，respectively, compared with that of bare land (Wang et al.，2O15). In addition，BSCs developed during vegetation restoration and covered up to $6 0 \\% - 7 0 \\%$ of the soil surface on grassland of the hilly Loess Plateau.Furthermore,BSCs reduced sediment yield by $92 \\%$ in revegetated grassland,and soil loss could be completely inhibited by BSCs in the later successional stage (Zhao and Xu, 2013). Additionally, plant species composition and abundance have changed accordingly during natural succession (1-3O a) on grassland of the Loess Plateau (Sun et al., 2O17). Dierent grass species with various root morphologies and structures,may have diverse effects on soil erosion. For example, in a previous study, the reduction in soil detachment capacity caused by Gramineae plants was 1.6-1.9 times that by Compositae plants due to the diferences in their root systems (Wang and Zhang, 2O17). Above all, previous studies concentrated on a limited near-soil-surface factors and failed to understand the overall effects of vegetation on soil erosion. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the present study, Bothriochloa ischaemum (Linn.) Keng and Artemisia gmelinii Thunb. are typical herbaceous plant species on grassland of the Loess Plateau, China.By observing natural rainfall events in the field,we studied the effects of vegetation near-soil-surface factors on soil erosion in these two types of grasslands.We hypothesized that all vegetation near-soil-surface factors reduce runoff and sediment, in which plant canopy performs beter in reducing runoff whereas plant roots are most effective at decreasing sediment yield. The aims of this study were to:(1） investigate the reductions in runoff and sediment yield caused by vegetation near-soil-surface factors；(2） distinguish the relationships between runoff or sediment yield reductions and rainfall characteristics；and (3） quantify the relative contribution of each vegetation near-soil-surface factor to runoff and sediment yield reduction. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This study was carried out on two typical grasslands in two watersheds in Ansai District, Shaanxi Province in 2O18.The grassland in the Fangta Watershed ( $\\cdot 8 . 4 \\ \\mathrm { k m } ^ { 2 }$ ： $3 6 ^ { \\circ } 4 7 ^ { \\prime } 2 7 ^ { \\prime \\prime } \\mathrm { N }$ ， $1 0 9 ^ { \\circ } 1 6 ^ { \\prime } 4 6 ^ { \\prime \\prime } \\mathrm { E } )$ （204号 was dominated by A. gmelinii (abbreviated AG), and the grassand in the Xiannangou Watershed （2 $( 5 0 . 6 ~ \\mathrm { k m } ^ { 2 }$ ： $3 6 ^ { \\circ } 4 4 ^ { \\prime } 2 5 ^ { \\prime \\prime } \\mathrm { N }$ ， $1 0 9 ^ { \\circ } 1 7 ^ { \\prime } 2 2 ^ { \\prime \\prime } \\mathrm { E }$ ）was dominated by $B$ 、ischaemum (abbreviated BI; Fig. 1). The altitude of the study area ranges from 470 to $1 8 0 0 \\mathrm { ~ m ~ }$ a.s.l. The loess-dominated hilly and gully region has a warm and temperate semi-arid climate.The annual mean temperature is $8 . 8 ^ { \\circ } \\mathrm { C }$ and the mean annual precipitation is $4 0 0 { - } 5 0 0 ~ \\mathrm { m m }$ Heavy rainfall events often occur in summer (July-September) and result in severe soil erosion. This region belongs to the forest grassland transition zone,and Compositae and Gramineae are typical herbaceous plant taxa in this area. The original land-use type of both two types of grassand was sloping farmland, with a slope gradient of $60 \\%$ ， and both grassland areas have experienced natural succession for approximately 35 a since they were abandoned. The physical properties of the test soil are shown in Table S1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7dda4bec20ae10d10dce83b40c9ddbba53a1b7e882c96edc8480f01f046f9b30.jpg",
+        "img_caption": [
+            "Fig.1(a),distribution of two experimental plots; (b),BI grassland is the grassland with B. ischaemum as the dominant species; (c)，AG grassland is the grassland with A. gmelinii as the dominant species.A schematic diagram ofT1-T4 treatments is shown inFigure S1.The treatments named TO,T1,T2,T3,T4 and T5 indicate bare land,plant roots,plant roots $+ { \\bf { B } } { \\bf { S } } C { \\bf { s } }$ ，plantroots $+$ BSCs+litter,intact grassland and dead roots,respectively, and the T5 is not analyzed in the study.BSCs,biological soil crusts. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 Experimental design ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Four treatments including bare land (TO)，plant roots (T1)，plant rool $\\mathrm { \\Delta [ s + B S C s }$ (T2)，plant roots $+ \\mathrm { B S C s + }$ litter(T3） and intact grassland (T4） were set up to investigate and distinguish different vegetation near-soil-surface factors in controlling soil erosion. For bare land (TO), the $\\mathrm { 0 - 3 0 ~ c m }$ topsoil was flipped, sieved and packed into the plots to a bulk density, which was used as the control. Two runoff plots were designed for each treatment as replicates,and a total of ten runoff plots were constructed on each type of grassland in June 2O18. The runoff plots were surrounded by $4 0 \\mathrm { - c m }$ -high PVC sheets buried in the soil to a depth of $2 0 \\mathrm { c m }$ .Each runoff plot had an area of $1 5 ~ \\mathrm { m } ^ { 2 }$ （ $5 \\mathrm { m }$ in length and $3 \\mathrm { m }$ in width). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 Rainfallcharacteristics ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The rainfall amount $( P )$ and duration $\\mathbf { \\rho } ( t )$ were recorded by a tipping bucket self-recording rainfall gauge (RG3-M, HOBO, USA). During the observation period (July-September in 2018),a total of 20 and 15 rainfall events were detected by monitoring equipment in the BI and AG grasslands, respectively (Fig. S2).Among them,1O and 7 rainfall events produced runoff and sediment, respectively,and these events were termed effective rainfall events.To eliminate the disturbance caused by the building of runoff plots,we did not collect the first runoff and sediment samples. Therefore,a total of 15 effective rainfall events (9 rainfal events in the BI grassland and 6 in the AG grassland) were analyzed in this study (Table S2). After each rainfall event, $P$ and $t$ data were colected and used as the basic data for the next analysis. Other rainfall parameters,namely, average rainfall intensity $\\left( I _ { \\mathrm { A } } \\right)$ ,maximum 3O-min rainfall intensity $( I _ { 3 0 } )$ ,rainfall kinetic energy $( E )$ and rainfall erosivity $( R )$ were calculated to describe the rainfall characteristics using Rain Record software. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4 Measurements of runoff and sediment yield ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For each plot, the runoff and sediment yield were collected after each rainfall event by using a tank that was fixed to the bottom of runoff plot. The volume of runoff-sediment mixture in the tank $( V _ { \\mathrm { S R - P } } )$ was measured with a ruler. Next, the muddy water in each tank was fully mixed to ensure that it was uniform and sampled with a $1 0 0 0 \\mathrm { - m L }$ plastic bottle,and this procedure was repeated twice. The volume of muddy water in each plastic bottle was measured $( V _ { \\mathrm { S R - b } } )$ and weighed $( M _ { \\mathrm { S R - b } } )$ . Then, the muddy water was moved into an aluminum box,the sediment was allowed to settle, the supernatant was drained and the sediment was dried $( 1 0 5 ^ { \\circ } \\mathrm { C } , 2 4 \\mathrm { h } )$ to obtain the weight of sediment yield $( M _ { \\mathrm { S - b } } )$ in the plastic bottle. The ratio of sediment to runoff was used to calculate the amount of runoff $( V _ { \\mathrm { R - p } } )$ and the sediment yield $( M _ { \\mathrm { S - p } } )$ of each runoff plot. ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { \\mathrm { s - p } } = \\frac { M _ { \\mathrm { s R - b } } } { V _ { \\mathrm { S R - b } } } V _ { \\mathrm { S R - p } } \\frac { M _ { \\mathrm { s - b } } } { M _ { \\mathrm { s R - b } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { _ { \\mathrm { R - p } } } = \\frac { M _ { _ { \\mathrm { S R - p } } } - M _ { _ { \\mathrm { S - p } } } } { \\rho _ { _ w } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $M _ { \\mathrm { S R - b } }$ and $V _ { \\mathrm { S R - b } }$ are the weight(g） and volume $( \\mathrm { m L } )$ ,respectively,of muddy water in the plastic bottles; $M _ { \\mathrm { S R - p } }$ and $V _ { \\mathrm { S R - p } }$ are the weight (g) and volume $\\mathrm { ( m L ) }$ , respectively, of muddy water in the runoff plot; $M _ { \\mathrm { S - b } }$ and $M _ { \\mathrm { S - p } }$ are the weight $( \\mathbf { g } )$ of sediment yield in the plastic bottle and runoff plot, respectively; and $\\rho _ { w }$ is the density of clean water $( \\mathrm { g } / \\mathrm { c m } ^ { 3 } )$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this study, runoff generation was expressed by runoff depth $( \\mathbf { R D } , \\mathbf { m m } )$ ，and soil loss was measured as sediment yield per unit area(SY, $\\mathrm { g } / \\mathrm { m } ^ { 2 } .$ ), calculated by the following equations: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { R D } = { \\frac { V _ { \\mathrm { R - P } } } { A } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S Y } = \\frac { M _ { \\mathrm { S - P } } } { A } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $A$ is the projected area of the runoff plot $( 1 5 ~ \\mathrm { m } ^ { 2 } )$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5 Contributions of near-soil-surface factors to soil erosion reduction ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this study， the contribution to runoff or sediment reduction was applied to represent the inhibitory effects of near-soil-surface factors on soil erosion. The calculation process was as follows: The participating near-soil-surface factors differed among the treatments,and the runoff and sediment yield varied. Therefore,the reductions in runoff and sediment yield caused by near-soil-surface factors of the plant canopy， plant roots,BSCs and liter were calculated by Equations 5 and 6. ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\Delta R _ { _ { T i } } = R _ { _ { T i } } - R _ { _ { T i - 1 } } , } } \\\\ { { \\Delta S _ { _ { T i } } = S _ { _ { T i } } - S _ { _ { T i - 1 } } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $R$ is the runoff amount of each treatment (mm); $S$ is the sediment yield $( \\mathrm { g } / \\mathrm { m } ^ { 2 } )$ ; and $T _ { i }$ is the treatment,with $i { = } 1$ ,2,3,4. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The actual contribution of each factor $i$ (plant canopy, plant roots, BSCs and littr) to reducing runoff (CR, $\\%$ ）or sediment (CS, $\\%$ ） was computed by Equations 7 and 8. ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\bf C R } _ { T i } = \\frac { \\Delta R _ { T i } } { R _ { T i } } \\times 1 0 0 \\% \\mathrm { ~ , ~ }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { C S } _ { _ { T i } } = \\frac { \\Delta S _ { _ { T i } } } { S _ { _ { T i } } } \\times 1 0 0 \\% \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The actual contributions of T4 (intact grassland) to runoff $( \\mathrm { C R } _ { T 4 } , \\ \\% )$ and sediment yield $( \\mathrm { C S } _ { T 4 } , \\% )$ reductions were expressed by Equations 9 and 10. ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC R _ { _ { T 4 } } = \\frac { R _ { _ { T 0 } } - R _ { _ { T 4 } } } { R _ { _ { T 4 } } } \\times 1 0 0 \\% \\ : ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC S _ { _ { T 4 } } = \\frac { S _ { _ { T 0 } } - S _ { _ { T 4 } } } { S _ { _ { T 4 } } } \\times 1 0 0 \\% .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.6 Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Because all runoff plots on the same grassland were subjected to the same rainfall events, the reduction in runoff or sediment yield or the contribution to runoff or sediment yield reduction could be compared among different treatments within a grassland. We calculated runoff and sediment reduction amounts and the corresponding contributions of each near-soil-surface factor under each effective rainfall event according to the above formulae,and used the results as the basic data for the following analysis. Spearman correlation analysis was used to evaluate the relationships between rainfall parameters and the contributions of near-soil-surface factors to runoff and sediment reduction. A curve estimation model was used to identify the relationship between the amount of runoff or sediment reduction and $I _ { 3 0 }$ ，Additionally, Kruskal-Wallis analysis was used to test for differences in the contribution to runoff or sediment yield reduction among all of the near-soil-surface factors. All analyses were performed using SPSS v19.O software,and graphs were constructed with Origin 2O18 software. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1Runoff and sediment yield ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The runoff and sediment yield varied greatly among treatments, with near-soil-surface factors successively superimposed (corresponding to T1-T4) (Table S3 and S4). Specifically, the runoff yield ranged from O.O to $5 . 3 ~ \\mathrm { m m }$ in the BI grassland and from O.O to $7 . 0 \\mathrm { m m }$ in the AG grassland. Compared with that in bare land, runoff was reduced by $3 9 . 7 \\%$ $4 3 . 9 \\%$ ， $7 5 . 1 \\%$ and $9 3 . 4 \\%$ in T1, T2, T3 and T4 treatments,respectively, in the BI grassland,and the corresponding values in the AG grassland were $1 1 . 4 \\%$ ， $7 . 3 \\%$ ， $4 7 . 4 \\%$ and $7 2 . 2 \\%$ ,respectively. The ranges of sediment yield in the BI and AG grasslands were 0.O-1138.8 and $0 . 0 { - } 4 7 6 . 8 ~ \\mathrm { g } / \\mathrm { m } ^ { 2 }$ ,respectively，with the average values of 53.0 and $3 2 . 1 ~ \\mathrm { g } / \\mathrm { m } ^ { 2 }$ ，respectively. The different treatments exerted different effects on sediment yield. For example,T1, T2,T3 and T4 reduced sediment yield relative to that of bare land by $6 5 . 1 \\%$ ， $9 2 . 4 \\%$ $9 8 . 7 \\%$ and $9 9 . 7 \\%$ , respectively, in the BI grassland and by $5 7 . 2 \\%$ $7 6 . 4 \\%$ ， $9 3 . 6 \\%$ and $9 6 . 9 \\%$ , respectively, in the AG grassland. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 Reduction of vegetation near-soil-surface factors on runoff and sediment yield ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Overall, the efects on runoff and sediment reduction difered among the vegetation near-soilsurfacefactors,i.e., plant canopy,liter, plant roots and BSCs,in the two types of grasslands (Fig. 2).The plant canopy, litter and plant roots contributed to runoff reduction in both BI and AG grasslands,with litter being the greatest contributor (Fig.2a and 2b). The amount of runoff reduction achieved by plant canopy, litter and plant roots was O.3, O.6 and $0 . 5 \\mathrm { m m }$ ,respectively, in the BI grassland and O.4, O.7 and $0 . 2 ~ \\mathrm { m m }$ ，respectively,in the AG grassland.BSCs showed an opposite effect compared with other factors, contributing to runoff yield. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Similarly, all near-soil-surface factors reduced sediment yield. In the BI grassland, plant canopy, litter,BSCs and plant roots reduced the sediment yield by $0 . 0 { - } 6 4 9 . 9 ~ \\mathrm { g } / \\mathrm { m } ^ { 2 }$ (Fig. 2d). Among the factors, plant roots achieved the highest average sediment reduction $( 1 0 8 . 0 \\mathrm { g } / \\mathrm { m } ^ { 2 } )$ , which was 56.0, 7.9 and 2.1 times that of plant canopy, litter and BSCs,respectively. In the AG grassland, the near-soil-surface factors reduced sediment yield by $0 . 0 { - } 2 8 2 . 5 ~ \\mathrm { g } / \\mathrm { m } ^ { 2 }$ (Fig.2d). The plant roots produced the greatest reduction in sediment yield $( 5 3 . 8 ~ \\mathrm { g } / \\mathrm { m } ^ { 2 } )$ ,which were 17.0,3.3 and 2.9 times those of plant canopy, liter and BSCs,respectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e9e4c032eec2a4d960740102b0b8f524f695d77e9a5f39e57b56ab3b48033df0.jpg",
+        "img_caption": [
+            "Fig.2Reduction of runof amount and sediment yield of different near-soil-surface factors at each rainfall event in the BI grassland(a,c)and AG grassland (b,d).F1,F2,F3andF4 referto plant canopy,liter,BSCs and plant roots,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3Contributions of vegetation near-soil-surface factors to reductions of runoff and sediment yield ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In general, the total contribution of all of the near-soil-surface factors to reducing runof in the BI grassland was $7 0 . 8 \\%$ (ranging from $1 9 . 5 \\%$ to $9 4 . 7 \\%$ ), which was 1.3 times greater than that in the AG grassland $( 5 3 . 1 \\%$ ; ranging from $- 1 9 . 4 \\%$ to $7 9 . 4 \\%$ ). In addition,the factors in both BI and AG grasslands made significant contributions to controlling sediment loss,which was reduced by $9 7 . 4 \\%$ (ranging from $9 2 . 2 \\%$ to $9 9 . 8 \\%$ ）in the BI grassland and $9 6 . 7 \\%$ (ranging from $9 2 . 9 \\%$ to $9 9 . 1 \\% )$ in the AG grassland. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the BI grassland, the contribution of plant canopy to runoff reduction was $4 8 . 8 \\%$ ,which was 3.6 and 3.3 times those of litter $( 1 3 . 5 \\% )$ and plant roots $( 1 4 . 8 \\% )$ , respectively (Table 1). In the AG grassland, the contribution of plant canopy was $3 9 . 9 \\%$ ，which were 1.7 and 7.5 times those of litter $( 2 3 . 9 \\% )$ and plant roots $( 5 . 3 \\% )$ (Table 1).For BSCs,their contributions to reducing runoff were negative, being $- 6 . 4 \\%$ (algae) in the BI grassland and $- 1 6 . 1 \\%$ (moss) in the AG grassland, respectively. The contributions of factors (except BSCs) to soil sediment reduction were similar, with percentage of approximately $2 5 \\%$ (Table 1). Plant canopy, litter, BSCs and plant roots made contributions of $2 1 . 3 \\%$ ， $2 4 . 3 \\%$ ， $2 4 . 2 \\%$ and $2 7 . 7 \\%$ ，respectively,in the BI grassland and $2 9 . 5 \\%$ ， $2 9 . 9 \\%$ ， $10 . 3 \\%$ and $2 7 . 0 \\%$ , respectively, in the AG grassland. However, the contribution of BSCs to sediment yield reduction in the AG grassland was only $1 0 . 3 \\%$ ，which was lower than the contributions of other factors. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/fc660caef1725f7667005f2bfe99f1bd95bf03f3ca293f0bbb71069d2f38bc8a.jpg",
+        "table_caption": [
+            "Table 1Average contribution of each near-soil-surface factor to runof and sediment yield reduction "
+        ],
+        "table_footnote": [
+            "Note:Different lowercase letters within a column indicate significant differences at $P { < } 0 . 0 5$ level.BI grassland is the grassland with $B$ ischaemumastheoantsecies,ndAGassadisthegrassndwithgmeliiastedominantspciesSCs,olocalsoil crusts. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Near-soil-surface factor</td><td colspan=\"2\">Runoff</td><td colspan=\"2\">Sediment yield</td></tr><tr><td>BI grassland</td><td>AG grassland</td><td>BI grassland</td><td>AG grassland</td></tr><tr><td>Plant canopy (%)</td><td>48.8a</td><td>39.9a</td><td>21.3a</td><td>29.5a</td></tr><tr><td>Plant litter (%)</td><td>13.5b</td><td>23.9a</td><td>24.3a</td><td>29.9a</td></tr><tr><td>BSCs (%)</td><td>-6.4%</td><td>-16.1°</td><td>24.2a</td><td>10.3b</td></tr><tr><td>Plant roots (%)</td><td>14.8b</td><td>5.3b</td><td>27.7a</td><td>27.0a</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1Effects of vegetation near-soil-surface factors on reduction of runoff and sediment yield ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "With the gradual improvement of vertical structure of vegetation community in the grassland, the reductions in runoff and sediment yield gradually strengthened. Wen et al. (2O1O) found that a complex stratified structure was more effective than a single vegetation layer in controlling soil erosion. For example, in contrast to single factors,multiple near-soil-surface factors reduced runoff generation by $5 1 . 0 \\%$ and sediment yield by $7 2 . 3 \\%$ due to their strong ability to absorb raindrop energy through multiple interceptions (for example, plant canopy and liter) (Zheng et al., 2008). Our results showed that runoff and sediment in both BI and AG grasslands were reduced by $7 . 3 \\%$ to $9 3 . 4 \\%$ compared with that in bare land (Tables S3 and S4),which represented simple near-soil-surface factors. Furthermore,we confirmed that different near-soil-surface factors exerted different effects on runoff and sediment yield. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the BI and AG grasslands,plant litter was more effective in reducing runoff and sediment yield than plant canopy， plant roots and BSCs. This result can be atributed to various water holding capacity abilities of different factors. Generally，plant liter reduces overland flow by covering the ground and absorbing water (Facelli and Pickett 1991). For example, water holding capacity of plant litter in typical plant communities was found in the range from 5.1 to $1 2 . 8 ~ \\mathrm { g / g }$ in the hilly region of the Loess Plateau (Wang et al.，2O18). In addition， plant liter can be incorporated into the topsoil and hold water, thereby reducing runoff production (Sun et al., 2016). More importantly， plant litter covering the soil surface improves soil surface roughness and reduces flow velocity and energy of overland flow, thereby inhibiting soil loss (Wang et al.,2015). Furthermore, plant litter incorporated into the topsoil can improve soil structure,permeability and stability, thus reducing soil detachment capacity (Sun et al., 2Ol6). In a previous study， the incorporation of grass litter into topsoil (with a litter rate of $0 . 2 ~ \\mathrm { k g } / \\mathrm { m } ^ { 2 }$ and a soil bulk density of $1 . 2 5 ~ \\mathrm { g } / \\mathrm { c m } ^ { 3 }$ ，respectively） reduced soil loss compared with that on bare land by $34 \\%$ and $21 \\%$ under rainfall intensities of 4O and $8 0 \\ \\mathrm { m m / h }$ ,respectively(Wang et al.,202O). Moreover, plant canopy was found to reduce runoff production by intercepting raindrops and delay the time of runoff initiation (Zhou et al., 2006), and plant roots systems might improve soil structure (e.g., soil porosity) and enhance soil water infiltration capability (Gyssels et al., 2005). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "However, our study showed that BSCs increased runoff, by an average of $0 . 0 \\ \\mathrm { m m }$ (ranging from $- 0 . 5$ to $0 . 2 ~ \\mathrm { m m } \\dot { } ,$ ）in the BI grassland and an average of $0 . 1 \\ \\mathrm { m m }$ (ranging from $- 1 9 . 4$ to 0.3 mm) in the AG grassland (Fig.2a and 2b). Although several studies have reported that the growth of BSCs promotes the infiltration capacity of soil by increasing soil porosity and enhancing soil aggregate stability, thereby reducing runoff (Zhao and Xu, 2O13).BSCs can form an impermeable seal by absorbing water during rainfall events,which may inhibit soil water infiltration and accelerate runoff generation (Coppola et al.,2O11). In the present study, BSCs increased runoff but reduced sediment yield. The reasons may be as follows:(1） BSCs increased soil surface roughness,reduced flow velocity and weakened flow shear stress(Kheirfam and Roohi,2020); (2) rainfall intensity was low, but rainfall duration was long,resulting in low flow velocity and energy;and (3) flow shear stress was not enough to destroy BSCs,and consequently, sediment yield did not increase with increasing runoff (Wang et al., 2O14). Overall, our results indicate that near-soil-surface factors play essential roles in reducing runoff and sediment and that different factors show diverse effects. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2Contributions of vegetation near-soil-surface factors to runoff and sediment yield reduction ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Our results showed that the total contribution of all of the near-soil-surface factors to reducing runoff in the BI grassland was $7 0 . 8 \\%$ (ranging from $1 9 . 5 \\%$ to $9 4 . 7 \\%$ ),which was1.3 times greater than the corresponding contribution in the AG grassland $( 5 3 . 1 \\%$ ; ranging from $- 1 9 . 4 \\%$ to $7 9 . 4 \\% )$ ） This difference can be atributed to the different structural and morphological traits of the two dominant herbaceous plants in the two grasslands. In the BI grassland, the canopy has a tussock-forming architecture and covers the soil surface like a carpet,which is effective in intercepting rainfall.In the AG grassand, plant canopy features an expanding shoot architecture, and plants are spaced far apart, reducing the chance of intercepting raindrops (Du et al., 2013). Plant liter in the BI grassland is standing liter and is not effective in reducing runoff. However, plant litter in the AG grassand is composed of thick branches and small leaves scattered on the soil surface，which can hinder and accumulate runoff. The fibrous root systems in the BI grasland have numerous fine roots,which increase soil porosity and water infiltration more effectively than the tap root systems in the AG grassland. All these differences resulted in lower runoff reduction in the AG grassland than in the BI grassland. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Because near-soil-surface factors affected runoff in different ways and via different mechanisms, the contributions of plant canopy, litter, BSCs and plant roots to runoff reduction or increase differed.Among all of the near-soil-surface factors,plant canopy had the maximum contributions to runoff reduction in both BI and AG grassands. In the BI grassland,the contribution of plant canopy to runoff reduction was $4 8 . 8 \\%$ ，which was 3.6 and 3.3 times those of litter $( 1 3 . 5 \\% )$ and plant roots $( 1 4 . 8 \\% )$ ，respectively (Table 1).In the AG grassland,the contribution of plant canopy was $3 9 . 9 \\%$ ，which was 1.7 and 7.5 times those of litter $( 2 3 . 9 \\% )$ and plant roots $( 5 . 3 \\%$ ； Table 1). These differing contributions to runoff reduction were probably related to different spatial distribution of these factors.During rainfall events, plant canopy is the first structure to intercept rainfall,and its effects on runoff are not affected by other factors (e.g., litter and plant roots). Regarding BSCs, their contributions to runoff reduction were negative, i.e., $- 6 . 4 \\%$ (algae) in the BI grassland and $- 1 6 . 1 \\%$ (moss) in the AG grassland,respectively (Table 1). BSCs increased runoff generation through the formation of an impermeable layer after swelling, and the swelling mechanisms of different components of BSCs are different. As reported by Liu et al. (2016),through the hydration of the sheath, the expansion of algae occurs, while that of moss occurs through the hydration of stems and leaves.Furthermore, the swelling height of moss was 6 times that of algae,which resulted in moss being more impermeable and increasing runoff generation more than algae. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The BI and AG grasslands both made significant contributions to the control of soil erosion, which was reduced by $9 7 . 4 \\%$ (ranging from $9 2 . 2 \\%$ to $9 9 . 8 \\%$ ）in the BI grassland and $9 6 . 7 \\%$ (ranging from $9 2 . 9 \\%$ to $9 9 . 1 \\%$ ） in the AG grassland (Table 1). These results indicate that long-term restored grasslands have a strong ability to control soil erosion. Differences in the reductions in sediment yield among near-soil-surface factors were not significant despite the variation in the mechanisms controlling soil erosion,as mentioned above.In other words, the contributions of these factors (except for BSCs） to sediment reduction were similar, with proportions of approximately $2 5 \\%$ (Table 1). Plant canopy, litter, BSCs and plant roots made contributions of $2 1 . 3 \\%$ ， $2 4 . 3 \\%$ ， $2 4 . 2 \\%$ and $2 7 . 7 \\%$ ,respectively, in the BI grassland and $2 9 . 5 \\%$ ， $2 9 . 9 \\%$ ， $1 0 . 3 \\%$ and $2 7 . 0 \\%$ ，respectively， intheAGgrassland(Table1). Therefore, near-soil-surface factors allcontributed to the control of soil loss.However, the contribution of BSCs to sediment yield reduction in the AG grassland was only $1 0 . 3 \\%$ ，which was lower than the contributions of other factors.As mentioned above,BSCs can reduce soil infiltration and enhance runoff generation; thus,they might be expected to exacerbate soil loss.In the AG grassland, BSCs were composed mainly of moss, which have a strong ability to promote runoff production. Wang et al. (2014) reported that BSCs accelerated soil erosion after being fractured when the flow shear stress exceeded its threshold. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.3 Effects of rainfall characteristics on soil erosion mediated by near-soil-surface factors ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Rainfall is an essential factor affecting runoff and sediment yield on slopes,and it can be described by various parameters,such as $P , \\ I _ { \\mathrm { A } } , \\ t , \\ I _ { 3 0 } , \\ E$ and $R$ In general, $P$ ， $t$ and $\\mathrm { \\Delta } I _ { \\mathrm { A } }$ are commonly used to reflect the effects of rainfal on soil erosion,and generally,runof and sediment yield increase with increases in these parameters.In this study，among all 6 parameters representing rainfall characteristics, there was a strong correlation between $I _ { 3 0 }$ and each of other rainfall parameters as well as the reduction in runoff or sediment yield (Fig. 3). In addition,as mentioned by Renard (1997), $I _ { 3 0 }$ can represent the difference in rainfall intensity and $R$ ，and reflect the prolonged peak rates of detachment and runoff during a whole rainfall event. Therefore, $I _ { 3 0 }$ was applied in this study to reflect the effects of rainfall characteristics on soil erosion under all rainfall events. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In this study,the reduction in runoff or sediment yield of each near-soil-surface factor (with the exception of BSCs in the BI grassland) increased with $I _ { 3 0 }$ (Fig.4). In the BI grassland, the reductions in runoff and sediment yield caused by plant canopy, litter and plant roots increased with $I _ { 3 0 }$ as a power function（ $R ^ { 2 } { \\geq } 0 . 7 4$ ： $P { < } 0 . 0 1$ ； Fig. 4). In the AG grassland,only runoff reductions by plant canopy and litter increased significantly with $I _ { 3 0 }$ as a power function $( R ^ { 2 } { \\ge } 0 . 7 5$ $P { < } 0 . 0 1 \\$ ),and the reduction in runoff caused by plant roots and the reduction in sediment yield caused by plant canopy,litter and plant roots tended to increase with increasing $I _ { 3 0 }$ (Fig. 4). In addition, when $I _ { 3 0 }$ was greater than $1 0 \\ \\mathrm { m m / h }$ , the runoff and sediment reductions of plant canopy, litter and plant roots in both BI and AG grasslands increased rapidly with increasing $I _ { 3 0 }$ Moreover, when taking intact grassland into consideration, power functions were detected between rainfall characteristics (represented by ${ { I } _ { 3 0 } } ^ { \\mathrm { { \\cdot } } }$ ）and total contributions to runoff and sediment yield reductions in the BI and AG grasslands ( $\\scriptstyle \\cdot - ( P < 0 . 0 5$ ; Fig. 5). As $I _ { 3 0 }$ increased,the reduction in runoff or sediment yield increased continuously (Fig. 5). This pattern could have been observed because the ability of all of the near-soil-surface factors to reduce runoff or sediment yield was not fully reflected in natural rainfall events （with $I _ { 3 0 }$ being less than $1 2 \\ \\mathrm { m m / h }$ in this study)；moreover, vegetation influenced the reductions in runoff and sediment yield to a greater extent than rainfallconditions. However, when $I _ { 3 0 }$ reaches a certain value, the ability of near-soil-surface factors to inhibit soil erosion might reach a limit. Therefore,it is necessary to further explore the rainfall conditions under which contribution of near-soil-surface factors to the inhibition of soil erosion are the greatest and stable. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/dc6375ee7280dd0acbd13ba84a932f9efe23eba810b007ebabdf38a121f7ab94.jpg",
+        "img_caption": [
+            "Fig.3Correlation analysis of rainfall characteristics with runoff and sediment yield under diferent near-soil-surface factors. $P$ ，precipitation; $t ,$ ,rainfall duration; $\\begin{array} { r } { I _ { \\mathrm { A } } . } \\end{array}$ ,average rainfall intensity; $I _ { 3 0 }$ ，maximum $3 0 \\mathrm { - m i n }$ （20 rainfall intensity; $E$ ,rainfall kinetic energy; $R$ ,rainfall erosivity.RR_C and SR_C indicate runoff and sediment yield eduction caused by plant coverage; RR_Land SR_L indicate runof and sediment yield reduction caused by liter;RR_B and SR_B indicate runoff and sediment yield reduction caused by BSCs (biological soil crusts);and RR_R and SR_R indicate runoff and sediment yield reduction caused by plant roots. $^ { * * }$ ， ${ \\cal P } { < } 0 . 0 1$ level;\\*, $P { < } 0 . 0 5$ （204号 level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/095fbe804a33fd4f224fb64ec83c5b55a5caa5fcde7a1149483d563ec0a28314.jpg",
+        "img_caption": [
+            "Fig.4Variations in runoff and sediment yield reduction with $I _ { 3 0 }$ (maximum 3O-min rainfall intensity） under differentnear-soil-surfacefactors intheBI grasslandand theAG grassland. (a,e),plantcanopy; (b,f),liter; (c,g), BSCs (biological soil crusts); (d, h), plant roots. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/3eca3aa2c36afbd52208fbdf9957d2cd9280928df426ac252f4d685d7e99ca39.jpg",
+        "img_caption": [
+            "Fig.5Contributions of grassland to runoff reduction (a) and sediment yield reduction (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This study was performed to investigate the effects of near-soil-surface factors (plant canopy, litter,BSCs and plant roots）on runoff and sediment yield under natural rainfall events by successive removal of these factors in field. Our results showed that plant canopy, litter and plant roots reduced the runoff amount， while BSCs promoted runoff generation. All these near-soil-surface factors reduced the sediment yield.The reductions in runoff and sediment yield caused by plant canopy,litter and plant roots either tended to increase with $I _ { 3 0 }$ or increased with $I _ { 3 0 }$ as a power function. Among all of the near-soil-surface factors, plant canopy had the largest contribution to runoff reduction, which was much greater than those of other factors,in both two types of grasslands，and BSCs contributed the most to runoff production. All of the near-soil-surface factors contributed equally to reducing sediment yield (by approximately $2 5 \\%$ ） except for the moss crusts in the grassland dominated by A. gmelinii (approximately $1 0 . 3 \\% )$ .In general, grass is more effective at reducing soil loss than runoff.Moreover, due to the differences in structural composition and morphological characteristics between two grassland communities, the grassland with $B _ { \\cdot }$ 、ischaemum as the dominant species performed better at reducing runoff. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Due to the unique climate and vegetation conditions in arid and semi-arid regions, it is essential and practical to promote natural restoration of grasslands in these regions to prevent soil erosion in the long term. This study enhances our understanding of the mechanisms by which grassland communities conserve soil and water, which can improve the accuracy of many soil erosion models,especially those for arid and semi-arid regions.This study also has reference value for assessing actual soil and water loss situations and guiding the implementation of ecological projects. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This research was funded by the Chinese Academy of Sciences (CAS)\"Youth Scholar of West China\" Program (XAB2019A04) and the National Natural Science Foundation of China (42130717). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Biesemans J,Meirvenne M,Gabriels D.20o0.Extending the RUSLE with the Monte Carlo eror propagation technique to predict long-term average off-site sediment accumulation.Journal of Soil & Water Conservation,55(1):35-42.   \nChen H,Zhang XP,Abla M,et al.2O18.Effectsofvegetationandrainfal typesonsurfacerunofand soil erosiononsteep slopes on the LoessPlateau,China. CATENA,170:141-149.   \nCoppola A,BasileA,Wang X,etal.20l1.Hydrologicalbehaviourof microbioticcrustsonsanddunes:Example from NW China comparing infiltration in crusted and crust-removed soil. Soil & Tillge Research,117: 34-43.   \nde Baets S,Poesen J,Knapen A,etal.2O07.Impactofroot architectureontheerosion-reducingpotential ofrots during concentrated flow.Earth Surface Processes and Landforms,32(9):1323-1345.   \nde Baets S,Poesen J,MersmansJ,etal.2011.Covercropsandtheirerosion-reducing efects duringconcentratedflowrosion. CATENA,85(3): 237-244.   \nDu HD,JiaoJY,JiaYF,etal.2O13.Phytogenicmoundsoffourtypicalsootarchitecturespeciesatdierentslopegradients on the Loess Plateau of China. Geomorphology,193: 57-64.   \nFacelli JM,Pickett ST1991.Plantliter-itsdynamicsandeffctsonplantcommunitystructure.BotanicalReview,7:1-32.   \nFeng Q,Zhao W W.2O14.The studyon cover-management factor in USLEand RUSLE: areview.Acta Ecologica Sinica, 34(16): 4461-4472.(in Chinese)   \nGysselsG,Poesen J,BochetE,etal.2Oo5.Impactof plantrootsontheresistanceof soils toerosionbywater:areview. Progress in Physical Geography-Earth and Environment, 29(2): 189-217.   \nKheirfamH,Roohi M.2O20.Acceleratingtheformationof biological soilcrusts inthenewlydried-up lakebedsusingthe inoculation-based technique.Scienceof the Total Environment,706:136036,doi:10.1016/j.scitotenv.2019.136036.   \nLi CJ,PanCZ.2018.Therelative importanceof diferent grasscomponents incontrollingrunof and erosiononahillslope under simulated rainfall.Journal of Hydrology, 558:90-103.   \nLinYM,Cui P,GeYG,etal.24.Thsuccessocharacteristicsofsoilerosioduringdierentvegetationsuccssistages in dry-hot river valley of Jinsha River,upper reaches of Yangtze River.Ecological Engineering,62:13-26.   \nLiuF,ZhangGH,SunL,etal.2O16.EfectsofiologicalsoilcrustsonsoildetachmentprocessbyoverlandflowintheLoess Plateau of China. Earth Surface Processes and Landforms,41(7): 875-883.   \nLiuJX,Liu GB,FlanaganDC,etal.O2.Efectsofsoil-incorporatedplantlitermorphologicalcharacteristicsonthesoil detachment process ingrassand on the Loess Plateau of China.Scienceof the Total Environment,705:134651,doi: 10.1016/j.scitotenv.2019.134651.   \nRenard K G1997.Predicting soil erosion by water: a guide to conservation planning with theRevised Universal Soil Loss Equation (RUSLE). Washington: USDA, Agricultural Research Service,703: 404.   \nSun CL,Chai ZZ,Liu GB,etal.20l7.Changes in species diversitypaters and spatial heterogeneityduring the scondary succession of grassland vegetation on the Loess Plateau, China.Frontiers in Plant Science,8:1465.   \nSunL,ZhangGH,LiuF,etal.2O16.Effctsofincorporatedplantliteronsoilrsistancetoflowing watererosionintheLoess Plateau of China.Biosystems Engineering,147: 238-247.   \nWang B,ZhangGH,Zhang XC,etal.2O14.Efectsofnearsoil surfacecharacteristicsonsoil detachmentbyoverlandflowin a natural succession grassland. Soil Science Society of America Journal,78(2): 589-597.   \nWang B,Zhang G H,ShiYY,et al.2O15.Efectsof nearsoil surfacecharacteristicson thesoil detachment process ina chronological series of vegetation restoration. Soil Science Society of America Journal,79(4):1213-1222.   \nWang B,Zhang GH.2017.Quantifying thebinding and bonding effectsof plantroots on soil detachment byoverland flow in 10 typical grasslands on the Loess Plateau. Soil Science Society of America Journal, 81(6): 1567-1576.   \nWang B,Zhang GH,Yang YF,etal.2018.Responseofsoil detachmentcapacitytoplant rootand soil properties in typical grasslands on the Loess Plateau.Agriculture Ecosystems & Environment, 266: 68-75.   \nWangJH,LiZB,YaoWY,etal.2l7.Influenceofvegetationonrunoffandsediment inwind-watererosiocrissrossgion in the upper Yellow River of China.Chinese Geographical Science,27: 569-576.   \nWang LJ,ZhangGH,ZhuPZ,etal.2020.Comparisonoftheeffectsof litercoveringand incorporationoninfiltrationand soil erosion under simulated rainfall.Hydrological Processes,34(13):2911-2922.   \nWen Z,LesBGJiaoFetal.20l.Stratifiedvegetationcoverindex: Anewwaytoassessvegetationimpactonoilerosion. CATENA,83(1): 87-93.   \nZhang BJ,Zhang GH,Yang HY,et al.2O19.Soil resistance to flowing water erosionof seven typicalplant communitieson steep gully slopes on the Loess Plateau of China. CATENA,173: 375-383.   \nZhang ST,Zhang JZ,LiuY,etal.2O18.Efectsoffarmlandvegetationrow direction onoverlandflow hydraulic characteristics.Hydrology Research,49(6):1991-2001.   \nZhao YG XuMX.2O13.Runoffandsoilloss fromrevegetated grassandsinthehillyLoess Plateauregion,China: Influence of biocrust patches and plant canopies.Journal of Hydrologic Engineering,18(4):387-393.   \nZheng H,Chen F,Ouyang ZY,etal.2O08.Impactsofreforestationapproachesonrunof controlinthehillyred soilregioof Southern China. Journal of Hydrology,356(1-2): 174-184.   \nZhou Z C,Shangguan ZP,Zhao D.20o6.Modeling vegetation coverage and soil erosion in the LoessPlateau Area of China. Ecological Modelling,198(1-2): 263-268. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Appendix ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/847a5117a05b6184eacd81e7948ec17718597710b93952a984384ec2c329d890.jpg",
+        "table_caption": [
+            "Table S1Basic soil information of sample plots "
+        ],
+        "table_footnote": [
+            "Note:BIgrassland is the grassland with B.ischaemumas the dominant species,andAGgrassland is the grassland with $A$ ，gmelinii as the dominant species. "
+        ],
+        "table_body": "<html><body><table><tr><td>Sample plot site</td><td>Soil layer (cm)</td><td>Soil organic carbon (g/kg)</td><td>Total nitrogen (g/kg)</td><td>NO3-N (mg/kg)</td><td>NH4+-N (mg/kg)</td><td colspan=\"2\">Bulk density (g/cm³)</td></tr><tr><td rowspan=\"4\">BI</td><td>0-10</td><td>6.33</td><td>0.39</td><td>3.16</td><td>3.98</td><td colspan=\"2\">1.22</td></tr><tr><td>10-20</td><td>3.09</td><td>0.21</td><td>0.79</td><td>2.71</td><td colspan=\"2\">1.41</td></tr><tr><td>20-30</td><td>2.68</td><td>0.18</td><td>0.77</td><td>4.79</td><td colspan=\"2\">1.46</td></tr><tr><td>30-40</td><td>2.50</td><td>0.16</td><td>0.58</td><td>2.59</td><td colspan=\"2\">1.44</td></tr><tr><td rowspan=\"4\">AG grassland</td><td>0-10</td><td>7.67</td><td>0.41</td><td>0.55</td><td>3.64</td><td colspan=\"2\">1.16</td></tr><tr><td>10-20</td><td>4.19</td><td>0.29</td><td>0.82</td><td>2.67</td><td colspan=\"2\">1.19</td></tr><tr><td>20-30</td><td>3.17</td><td>0.18</td><td>0.66</td><td>3.18</td><td colspan=\"2\">1.33</td></tr><tr><td>30-40</td><td>2.76</td><td>0.17</td><td>0.63</td><td>3.44</td><td colspan=\"2\">1.31</td></tr><tr><td rowspan=\"2\">Sample plot site</td><td>Soil layer (cm)</td><td></td><td></td><td>Soil water-stable aggregate (%)</td><td></td><td colspan=\"2\"></td></tr><tr><td colspan=\"6\">>5.00 mm 2.00-5.00 mm</td></tr><tr><td>BI grassland</td><td>0-20</td><td>33.96</td><td>8.47</td><td>1.00-2.00 mm 0.50-1.00 mm 6.83</td><td>6.60</td><td>0.25-0.50 mm 5.05</td><td>39.09</td></tr><tr><td>AG grassland</td><td>0-20</td><td>21.35</td><td>6.94</td><td>4.19</td><td>4.00</td><td>2.94</td><td>60.58</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/fcbe01fa51b88cecfa769f5b9146c2be6453981353aad85ccafa4c2a55544fd5.jpg",
+        "table_caption": [
+            "Table S2Characteristics of rainfall events "
+        ],
+        "table_footnote": [
+            "Notes: $I _ { 3 0 }$ ，maximum 3O-minrainfallintensity.BI grassand is the grassland with B.ischaemum as the dominant species,and AG grassland is the grassland with A.gmelinii as the dominant species. "
+        ],
+        "table_body": "<html><body><table><tr><td>Sample site</td><td>Rainfall date</td><td>Rainfall (mm)</td><td>Rainfall duration (min)</td><td>130 (mm/h)</td><td>Rainfall kinetic energy (MJ/hm²)</td><td>Rainfall erosivity (MJ·mm/(hm²·h))</td></tr><tr><td rowspan=\"9\">BI grassland</td><td>31 Jul</td><td>5.6</td><td>684</td><td>7.3</td><td>1.0</td><td>7.3</td></tr><tr><td>9 Aug</td><td>3.6</td><td>263</td><td>4.8</td><td>0.5</td><td>2.5</td></tr><tr><td>11 Aug</td><td>3.0</td><td>113</td><td>5.6</td><td>0.6</td><td>3.2</td></tr><tr><td>18 Aug</td><td>9.8</td><td>147</td><td>12.0</td><td>2.0</td><td>23.9</td></tr><tr><td>22 Aug</td><td>41.0</td><td>1383</td><td>11.6</td><td>6.3</td><td>73.1</td></tr><tr><td>31 Aug</td><td>15.8</td><td>890</td><td>5.8</td><td>2.2</td><td>12.7</td></tr><tr><td>2 Sep</td><td>16.0</td><td>351</td><td>10.6</td><td>2.7</td><td>28.5</td></tr><tr><td>14 Sep</td><td>15.8</td><td>542</td><td>11.6</td><td>2.5</td><td>28.6</td></tr><tr><td>19 Sep</td><td>13.2</td><td>3181</td><td>2.5</td><td>1.4</td><td>3.4</td></tr><tr><td rowspan=\"6\">AG grassland</td><td>9 Aug</td><td>4.4</td><td>227</td><td>6.8</td><td>0.9</td><td>6.3</td></tr><tr><td>11 Aug</td><td>7.8</td><td>122</td><td>6.8</td><td>1.7</td><td>11.2</td></tr><tr><td>22 Aug</td><td>15.6</td><td>363</td><td>9.6</td><td>2.9</td><td>27.5</td></tr><tr><td>31 Aug</td><td>26.4</td><td>779</td><td>11.6</td><td>5.1</td><td>59.5</td></tr><tr><td>2 Sep</td><td>20.4</td><td>283</td><td>11.6</td><td>4.1</td><td>47.5</td></tr><tr><td>14 Sep</td><td>9.6</td><td>498</td><td>5.0</td><td>1.7</td><td>8.2</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/3eb389f3cbbe3557c13e9da39207b47eb9ef397fa10fd5017e2d033c32def881.jpg",
+        "table_caption": [
+            "Table S3Variations in runoff and sediment yield in the BI grassland under rainfall events "
+        ],
+        "table_footnote": [
+            "Notes:TO,bare land;T1,plant roots;T2,plant roots $+ { \\bf { B } } { \\bf { S } } { \\bf { C } } { \\bf { s } }$ ；T3,plant roots $+ \\mathrm { B S C s + }$ litter; T4,intact grassland.BSCs,biological soil crusts.BI grassland refers to the grassland with B.ischaemum as the dominant species. "
+        ],
+        "table_body": "<html><body><table><tr><td>Treatment</td><td>Date</td><td>Runoff (mm)</td><td>Sediment (g/m²)</td><td>Date</td><td>Runoff (mm)</td><td>Sediment (g/m²)</td><td>Date</td><td>Runoff (mm)</td><td>Sediment (g/m²)</td></tr><tr><td>T0</td><td rowspan=\"4\"></td><td>0.1</td><td>6.1</td><td rowspan=\"5\">18 Aug</td><td>5.3</td><td>1138.8</td><td rowspan=\"4\"></td><td>1.4</td><td>38.8</td></tr><tr><td>T1</td><td>0.1</td><td>1.8</td><td>3.2</td><td>416.0</td><td>1.0</td><td>13.4</td></tr><tr><td>T2</td><td>0.1</td><td>0.6</td><td>2.8</td><td>89.8 2 Sep</td><td>0.7</td><td>2.9</td></tr><tr><td>T3</td><td>0.1</td><td>0.6</td><td>1.3</td><td>0.3</td><td>0.5</td></tr><tr><td>T4</td><td></td><td>0.0</td><td>0.1</td><td>0.3</td><td>15.4 3.9</td><td></td><td>0.1</td><td>0.2</td></tr><tr><td>T0</td><td rowspan=\"4\">9 Aug</td><td>0.0</td><td>0.4</td><td rowspan=\"4\">22 Aug</td><td>5.1</td><td>359.4</td><td rowspan=\"4\"></td><td>2.7</td><td>102.8</td></tr><tr><td>T1</td><td>0.0</td><td>0.2</td><td>3.3</td><td>118.3</td><td>1.4</td><td>25.8</td></tr><tr><td>T2</td><td>0.0</td><td>0.1</td><td>3.3</td><td>22.2 14 Sep</td><td>1.3</td><td>8.8</td></tr><tr><td>T3</td><td>0.0</td><td>0.0</td><td>1.3</td><td></td><td>0.6</td><td>1.2</td></tr><tr><td>T4</td><td></td><td>0.0</td><td>0.0</td><td></td><td>0.3</td><td>3.2 0.6</td><td></td><td>0.1</td><td>0.3</td></tr><tr><td>T0</td><td rowspan=\"4\"></td><td>0.0</td><td>1.1</td><td></td><td>0.3</td><td>9.1</td><td></td><td>0.0</td><td>0.1</td></tr><tr><td>T1</td><td>0.0</td><td>0.3</td><td></td><td>0.2</td><td>2.4</td><td></td><td>0.0</td><td>0.0</td></tr><tr><td>T2</td><td>11 Aug 0.0</td><td>0.2</td><td>31 Aug</td><td>0.2</td><td>0.6</td><td>19 Sep</td><td>0.0</td><td>0.0</td></tr><tr><td>T3</td><td>0.0</td><td>0.1</td><td></td><td>0.1</td><td>0.2</td><td></td><td>0.0</td><td>0.0</td></tr><tr><td>T4</td><td></td><td>0.0</td><td>0.0</td><td></td><td>0.1</td><td>0.2</td><td></td><td>0.0</td><td>0.0</td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/75e6624a873f135129e45eba0b506f4623369fdd6fd55ba58b28b309dc61bff7.jpg",
+        "table_caption": [
+            "Table S4Variations in runoff and sediment yield in the AG grassland under rainfall events "
+        ],
+        "table_footnote": [
+            "Note:TO,bare land; T1, plant roots; T2,plant roots $+ { \\bf B } { \\bf S } { \\bf C } { \\bf s }$ ；T3,plant roots $+ \\mathrm { B S C s } +$ litter; T4,intact grassland.BSCs,biological soil crusts.AG grassland refers to the grassland with A.gmelinii as the dominant species. "
+        ],
+        "table_body": "<html><body><table><tr><td>Treatment</td><td>Date</td><td>Runmff</td><td>Sediment</td><td>Date</td><td>Runoff</td><td>Sediment</td></tr><tr><td>T0</td><td rowspan=\"5\"></td><td>0.0</td><td>0.6</td><td rowspan=\"5\"></td><td>7.0</td><td>476.8</td></tr><tr><td>T1</td><td>0.0</td><td>0.1</td><td>5.5</td><td>202.3</td></tr><tr><td>T2</td><td>0.0</td><td>0.1</td><td>5.7</td><td>104.8</td></tr><tr><td>T3</td><td>0.0</td><td>0.0</td><td>3.3</td><td>30.1</td></tr><tr><td>T4</td><td>0.0</td><td>0.0</td><td>2.1</td><td>15.8</td></tr><tr><td>T0</td><td rowspan=\"5\">11 Aug</td><td>0.0</td><td>0.5</td><td rowspan=\"5\">2 Sep</td><td>2.3</td><td>46.0</td></tr><tr><td>T1</td><td>0.0</td><td>0.3</td><td>2.9</td><td>21.8</td></tr><tr><td>T2</td><td>0.0</td><td>0.3</td><td>2.7</td><td>19.2</td></tr><tr><td>T3</td><td>0.0</td><td>0.1</td><td>1.6</td><td>4.6</td></tr><tr><td>T4</td><td>0.0</td><td>0.0</td><td>0.5</td><td>1.0</td></tr><tr><td>TO</td><td rowspan=\"5\">22 Aug</td><td>0.6</td><td>23.9</td><td rowspan=\"5\">14 Sep</td><td>0.0</td><td>0.1</td></tr><tr><td>T1</td><td>0.4</td><td>9.9</td><td>0.0</td><td>0.1</td></tr><tr><td>T2</td><td>0.7</td><td>4.9</td><td>0.0</td><td>0.1</td></tr><tr><td>T3</td><td>0.3</td><td>0.3</td><td>0.0</td><td>0.1</td></tr><tr><td>T4</td><td>0.1</td><td>0.2</td><td>0.0</td><td>0.0</td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/4a035eee9de192697165dfb1924e8c1b749df0c623476e4a6d6f3d309dc11522.jpg",
+        "img_caption": [
+            "Fig.S1Schematic diagram of vegetation near-soil-surface factors involved in diferent treatments (T1-T4). BSCs,biological soil crusts. "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/19a356d3812b3358f5c9c139725f19b0257580e1e2885c0a19e24433cdac3b39.jpg",
+        "img_caption": [
+            "Fig.S2Recorded rainfall events in the BI and AG grasslands during rainy season. BI grassand is the grassland with $B$ .ischaemum as the dominant species,and AG grassland is the grassland with A.gmelini as the dominant species.Non-effective rainfall events indicate that no runoffor sediment is generated.Effective rainfall events indicate that runoff and sediment are generated. "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    }
+]

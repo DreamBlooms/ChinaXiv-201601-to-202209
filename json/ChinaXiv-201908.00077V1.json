@@ -1,0 +1,393 @@
+[
+    {
+        "type": "text",
+        "text": "FmJAZ1基因瞬时侵染水曲柳对JA通路相关基因表达的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨少彤¹，刘宗林」，屈申¹，于磊}²，詹亚光2（1．东北林业大学 生命科学学院，哈尔滨 150040；2．东北林业大学林木遗传育种国家重点实验室，哈尔滨150040)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：该文将对水曲柳中JAZ蛋白家族的一员FmJAZ1的功能及对其上下游基因影响进行初步分析。首先利用无缝克隆的方法构建FmJAZ1-pROK2-GUS 过表达载体，利用三亲杂交的方法将载体转入农杆菌，随后使用农杆菌对水曲柳组培苗进行瞬时侵染，得到FmJAZI过表达的侵染苗。最后在侵染后 $3 6 \\mathrm { h }$ 使用DIECA（茉莉酸合成途径抑制剂）对侵染苗进行处理，分别取 $0 , \\ 1 , \\ 3 , \\ 6 , \\ 1 8 , \\ 2 1 , \\ 2 4 \\mathrm { h }$ 七个时间点的样品，通过荧光定量PCR对FmJAZ1、$J A Z 2 , G L I , E I N 3 , M Y C 2$ 五个基因的表达进行分析。农杆菌瞬时侵染水曲柳幼苗后，FmJAZI表达显著升高，为空载侵染的3.2倍，说明FmJAZ1瞬时转入水曲柳并完成基因表达，侵染有效。经过DIECA（茉莉酸合成途径抑制剂）处理的侵染苗FmJAZI的相对表达量初期下降并出现明显波动， $1 8 \\mathrm { h }$ 后恢复平稳，证明它是JA通路的作用基因。同时检测了四个JA通路相关基因的表达，在1h时JAZ2、GL1表达下调，其余均有轻微上调，随后各基因表达均呈上调。FmJAZ1瞬时转化水曲柳后FmJAZ1过表达，说明瞬时侵染有效；DIECA处理后FmJAZ1表达显著下调说明FmJAZ1的合成受JA调控。在水曲柳中FmJAZ1抑制转录因子GL1、EIN3、MYC2、FmJAZ2的表达，且FmJAZ2的合成也受JA调控。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：水曲柳，FmJAZ1基因，瞬时侵染，JA通路，基因表达中图分类号： 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effect of transient infection of FmJAZl gene on JA pathway related gene expression in Fraxinus mandshurica ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YANG Shaotong1,LIU Zonglin1, QU Shen1, YU Lei1,2, ZHAN Yaguang1,2 (1. NortheastForestry University,Harbin 150040,China;2.State Key Laboratory of Tree Genetics and Breeding, NortheastForestry University,Harbin150o40,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Jasmonates (JAs) are widely found in plants. In this paper,the function of FmJAZ1,a member of the JAZs,and the influence of its upstream and downstream genes were preliminarily analyzed. Firstly, the FmJAZ1-pROK2-GUS overexpression vector was constructed by using the method of seamless cloning, and then the vector was transferred into Agrobacterium by triparental hybridization. Then, Agrobacterium was used to conduct instantaneous infection on the tissue culture seedlings of Fraxinus mandshurica， and the infected seedlings with FmJAZ1 overexpression were obtained.Finally, the infected seedlings were treated with DIECA (jasmonic acid synthetic pathway inhibitor) at 36h after infection. Samples were taken at 0,1,3,6,18, 21 and $2 4 \\mathrm { ~ h ~ }$ ,respectively. The expressions of FmJAZ1, JAZ2, GL1, EIN3 and MYC2 were analyzed by fluorescence quantitative PCR. After Agrobacterium instantaneously infected the tissue culture seedlings of Fraxinus mandshurica, FmJAZl expression increased significantly，which was 3.2 times higher than the no-load infection. After treatment with DIECA (jasmonic acid synthetic pathway inhibitor), the relative expression level of FmJAZl fluctuated significantly at the initial, but to be stable after 18h, which prove that FmJAZ1 is acting on JA pathway. The expressons of JAZ2 and $G L I$ are down-regulated at 1h, while the others were slightly up-regulated,and later the expressions of all the genes were up-regulated. Overexpression of FmJAZl after instantaneous infection of Fraxinus mandshurica indicated that transient infection was efective. After DIECA treatment, FmJAZl expression was significantly down-regulated, indicating that the synthesis of FmJAZl was regulated by JA. In Fraxinus mandshurica,FmJAZl inhibited the expression of transcription factors GL1，EIN3，MYC2,and FmJAZ2,and the synthesis of FmJAZ2 was also regulated by JA. JAZs not only regulates the key proteins of JA pathway, but also participates in the regulation of other signaling pathways,and finally regulates the growth and development of plants and their response to stress through the expression of JA in vivo and the synergistic expression of other related signaling molecules. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Fraxinus mandshurica， FmJAZl gene, transient infection， JA pathway， geneexpression",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "茉莉酸类物质（JAs）广泛存在于植物体中，作为信号分子，其不仅可以调节植物的生长发育，而且可以介导植物体在生物与非生物胁迫下的防御反应。JAZ（Jasmonate ZIM-domain,JAZ）蛋白（JAZs）属于TIFY 蛋白家族，是茉莉酸通路重要调节蛋白。其参与了多个信号通路。它响应茉莉酸（JA）的刺激，释放与之结合的MYC2转录因子，启动 JA应答基因的转录。有研究显示JA介导的JAZ蛋白转录水平变化与IAA、GA、ET等多种植物激素信号的调节相关联。由此可见，JAZ蛋白不仅能抑制茉莉酸通路应答，还可以通过与其他调控因子互作来影响其他信号通路，进而影响植物体生长与代谢。JAZ蛋白也由此成为了植物激素调节网络的关键枢纽（孙程等，2014；刘庆霞等，2012；Hou etal.,2013；Ivan et al.,2013；Pérez&Goossens,2013）。目前在拟南芥、水稻、青蒿等植物中关于 JAZ蛋白家族的鉴定及其对相关重要通路的影响的研究已初有成果（王青，2017；吴华，2015；夏菁等，2018)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "水曲柳（Fraxinusmandshuira）是木樨科（Oleaceae）梣属（Fraxinus）乔木，是材质优良的珍贵用材树种，用途广泛（刘春浩等，2017；孙爽等，2017）。在人工培育水曲柳过程中发现，水曲柳易受到水曲柳翅果斑点病、水曲柳梢头白腐、小地老虎、水曲柳芜菁等多种病虫害困扰，介于JA 通路对植物体响应胁迫具有重要意义，且其在水曲柳抵抗病虫害中发挥的作用及机制又尚未可知，该文将通过瞬时侵染的方法对水曲柳中JAZ蛋白家族中的一个成员（FmJAZI）的功能进行初步分析，使用DIECA（茉莉酸合成途径抑制剂）对侵染苗进行处理并对JA通路相关基因（MYB 转录因子家族GL1,MYC 转录因子家族MYC2，乙烯通路转录因子EIN3，JAZ家族FmJAZ2）的表达进行分析，从而探讨FmJAZ1与JA通路相关基因的关系，为日后对水曲柳内JAZ蛋白功能鉴定及其与其他通路互作的研究打下基础，从而能为水曲柳病虫害检测与防治提供更多参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1水曲柳FmJAZ1-pROK2-GUS过表达载体构建 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "首先使用BamHI和KpnI对载体进行双酶切，同时设计一对5端包含21bp 线性化载体同源序列的引物（表1），使用该引物对FmJAZ1进行PCR，将目的基因与载体温浴连接，并将",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "连接好的载体热激转入T1全式金大肠杆菌感受态细胞进行培养，进行测序鉴定，得到FmJAZ1-pROK2-GUS过表达载体。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1FmJAZ1基因克隆及载体无缝克隆PCR引物名称及序列",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Table 1 PCR primer name and sequences of FmJAZl gene cloning and vector seamless cloning ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/25cd5f1acfed5d0f743ea759b00b1fe4bd869ae2ced3e26496bd6d7ade25bb30.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>引物名称Primer name</td><td>引物序列Primer sequence</td></tr><tr><td>FmJAZ1-F</td><td>5'ATGGGTTCATCGGAAATTATAGATT3'</td></tr><tr><td>FmJAZ1-R</td><td>5'TCAATTTGAAGTTGGGTATTGAGGA3'</td></tr><tr><td>JAZ1-BKGUS-F</td><td> 5' acgggggactctagaggatccATGGGTTCATCGGAAATTATAGATT 3'</td></tr><tr><td>JAZ1-BKGUS-R</td><td>5' catggtcaagagtccggtaccATTTGAAGTTGGGTATTGAGGAGC 3'</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e7c8d8d326ba16e1c3a17b922a7305559ca002e069532d4f0647d7bca0825ee9.jpg",
+        "img_caption": [
+            "图1构建FmJAZ1-pROK2-GUS 过表达载体原理图 g.1 Schematic diagram of costructing FmJAZ1-pROK2-GUS overexpression vecto: "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/dfcc582836ad587d025b10a2664d8aa40b5f60837a8a7bec3939e3951be31921.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2对水曲柳组培苗进行瞬时侵染 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.1三亲杂交转化农杆菌",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将含有FmJAZ1-pROK2-GUS、空载的大肠杆菌菌液分别同Helper 菌液和LBA4404 农杆菌菌液在不含抗性的液体LB 培养基中 $2 8 \\mathrm { ~ \\ ^ { \\circ } C }$ 培养 $2 4 \\mathrm { h }$ 进行杂交，取杂菌在含有Rifampin和Kana抗性的液体培养基 $2 8 \\mathrm { ~ \\ ^ { \\circ } C }$ 培养 $2 4 \\mathrm { h }$ 培养进行筛选，对得到的杂菌进行菌液PCR验证，最终得到分别含有空载和FmJAZ1-pROK2-GUS 载体的农杆菌。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.2水曲柳FmJAZ1瞬时侵染 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "设计对照组和实验组，其中对照组使用含有空载的农杆菌侵染水曲柳组培苗，实验组使用含有FmJAZ1-pROK2-GUS 载体的农杆菌侵染水曲柳组培苗,选用OD600 值为1.0 的农杆菌与乙酰丁香酮浓度为 $1 2 0 \\mu \\mathrm { m o l } { \\cdot } \\mathrm { L } ^ { - 1 }$ 的WPM培养基置于摇床上共培养 $^ { 2 \\mathrm { ~ h ~ } }$ 进行侵染（徐威等，2003；梁童瑶，2015；Jessica etal.，2014；Li etal.，2009）。在侵染前将选好的水曲柳组培苗置于质量分数为 $2 5 \\%$ 蔗糖高渗溶液中浸泡 $1 0 \\mathrm { m i n }$ ，提高组培苗韧性，减少操作过程中组培苗的损耗。将侵染结束的组培苗置于WPM培养基继续培养。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3FmJAZ1及茉莉酸通路相关调控基因的荧光定量PCR ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "首先在侵染后 $3 6 \\mathrm { h }$ 使用DIECA（茉莉酸合成途径抑制剂）对完成瞬时侵染的水曲柳组培苗进行喷施处理，将两种处理过的侵染苗分别设置0、1、3、6、18、21、 $2 4 \\mathrm { h }$ 七个时间点进行取样（取整株 $1 0 \\mathrm { c m }$ 水曲柳组培苗为样品），每个时间点设置三组平行实验，每三株为一组，留一组不进行处理。取样时使用液氮进行冷冻并置于 ${ } . 8 0 \\mathrm { ~ \\ } ^ { \\circ } \\mathrm { C }$ 冰箱保存，待所有实验组取样完毕后，使用Tris-cTAB法提取样品RNA，对RNA进行反转录，选取水曲柳微管蛋白基因 $F m T U$ 为内参对七个时间点的FmJAZ1、FmJAZ2、GL1、EIN3、MYC2表达进行荧光定量PCR。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2qPCR引物名称及序列",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/441882c2ad7ff2c5a1e2c0701ec0ccc37f2175b3e4cddf687983815fc9976a57.jpg",
+        "table_caption": [
+            "Table 2 names and sequences of qPCR primers "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>引物名称Primer name</td><td>引物序列Primer sequence</td></tr><tr><td>qRT-Tubulin -F</td><td>5'AGGACGCTGCCAACAACTTT3'</td></tr><tr><td>qRT-Tubulin -R</td><td>5'TTGAGGGGAAGGGTAAATAGTG3'</td></tr><tr><td>qRT-FmJAZ1-F</td><td>5'GGCGGTCAAATGATAGTTTTCG3'</td></tr><tr><td>qRT-FmJAZ1-R</td><td>5'GATGTTTGTGGCGGATTCAG 3'</td></tr><tr><td>qRT-FmJAZ2-F</td><td>5'AGAGGCAGCAACAATGGAGTC3'</td></tr><tr><td>qRT-FmJAZ2-R</td><td>5'TCTTTAACGTGGTTCGGCAAT3'</td></tr><tr><td>qRT-MYC2-F</td><td>5'CATGCTTTCGTTTACTTCGGG3'</td></tr><tr><td>qRT-MYC2-R</td><td>5'CTATCCGCCTCTTTAACCACAG3'</td></tr><tr><td>qRT-GL1-F</td><td>5'TTATTCAGTGGCTCATCGTCAAG3'</td></tr><tr><td>qRT-GL1-R</td><td>5'AACTCCATAATTCGCATCTTCG3'</td></tr><tr><td>qRT-EIN3-F</td><td>5'CAGAGGCGGTTTCCATTAGAG 3'</td></tr><tr><td>qRT-EIN3-R</td><td>5'CAAATCATGCGGCTTCTTGTA3'</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4 材料",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "菌种：T1全式金感受态细胞、LBA4404 农杆菌、Helper 菌。试剂盒和工具酶：南京诺唯赞ClonExpress $\\textsuperscript { \\textregistered }$ Ultra One Step Cloning Kit 试剂盒、 TransScript All-in-One First-StrandcDNA Synthesis SuperMix for qPCR(One-Step gDNA Removal)试剂盒、BamHI酶、KpnI 酶、LaTaq 酶。化学试剂及其他：卡那霉素、利福平、琼脂糖、LB培养基、水曲柳组培苗、DIECA（茉莉酸合成途径抑制剂）、蔗糖、乙酰丁香酮、WPM培养基、Tris-cTAB、氯仿、无水乙醇、5mol/L氯化锂、 $70 \\%$ 乙醇、DEPC水",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1三亲杂交转化农杆菌",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "三亲杂交后对农杆菌进行菌液PCR 验证，对含有pROK2-GUS 载体农杆菌PCR 得到$5 0 0 { \\sim } 7 5 0 \\mathrm { b p }$ 片段（即载体CDS 区域），基因片段大于 500 bp,FmJAZ1-pROK2-GUS 农杆菌PCR得到片段在 $1 ~ 0 0 0 { \\sim } 2 ~ 0 0 0 ~ \\mathrm { b p }$ ，验证结果空载和FmJAZ1-pROK2-GUS载体均转入农杆菌。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3a752249d33264913eef132ee4674f73dc108bc5662cb07174ac59db5b9f7faa.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "注：M.DL2000 DNA Mark,1.阴性对照，2.pROK2-GUS 载体，3,4.FmJAZ1-pROK2-GUS。 Note : M. DL2000 DNA Mark,1. Negative control,2. pROK2-GUS vector, 3,4. FmJAZ1-pROK2-GUS. 图3FmJAZ1-pROK2-GUS 过表达载体转入农杆菌PCR验证 Fig.3 PCR verification of transferred AgrobacteriumFmJAZ1-pROK2-GUS overexpression vector ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/d810c1cfea5e0251aeef003132462adcbe6480e758bdf3059da0714f20032ac7.jpg",
+        "table_caption": [
+            "表3三亲杂交验证引物名称及序列 ",
+            "Table3 Three-parent hybridization verification's primer names and sequences "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>引物名称Primer name</td><td>引物序列 Primer sequence</td></tr><tr><td>pROK2-GUS-F</td><td>5'AGGTGGCTCCTACAAATGCC3'</td></tr><tr><td>pROK2-GUS-R</td><td>5'TCCACAGTTTTCGCGATCCA3</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2水曲柳瞬时侵染诱导过表达",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "瞬时侵染过程中组培苗不可避免的受到外界刺激，JA含量定会有所升高，以空载侵染作为对照，通过 $F m J A Z I$ 过表达来验证瞬时侵染结果。首先对七个时间点中 $F m J A Z I$ 的表达量进行2-ACt处理计算比较Ct值，得到相对表达量柱状图，如图4所示，瞬时侵染后 $3 6 \\mathrm { h }$ （尚未进行DIECA处理，即图中 $^ { 0 \\mathrm { ~ h ~ } }$ ）FmJAZ1相对表达量为3.24901（ ${ \\mathrm { 5 1 } }$ ），相对空载侵染表达上调，FmJAZ1基因转入水曲柳组培苗，瞬时侵染有效。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于DIECA处理抑制了JA的合成，FmJAZI的表达也受到抑制并出现波动，处理后1h的FmJAZ1相对表达量为1.07131远低于最初的3.24901，这说明FmJAZ1过表达受到DIECA抑制，FmJAZ1的合成受JA 调控。随着时间的延长、DIECA抑制作用减弱，JA逐渐积累，处理 $^ { 3 \\mathrm { ~ h ~ } }$ 后相对表达量为3.99004，较1h有大幅上升，处理后6h的FmJAZ1表达量达到峰值6.80295。随后18、21、 $2 4 \\mathrm { h }$ 相对表达量回落，此时FmJAZ1表达量仍是空载的1.8、1.9倍，表现出过表达的特征，这一方面说明瞬时侵染有效，另一方面显示DIECA 抑制减弱后FmJAZ1表达水平出现反弹的动态变化，也验证了FmJAZ1确实是JA通路的关键基因。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ee5ea2850162a2e19e0e2ef5d88c2c02f58282ff1a72d683fdbd1cb2461515d6.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "注：图中数据为FmJAZ1侵染后的表达水平，大于1为上调，小于1为下调。下同。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Note: Data in is the expresson level ofFmJAZ1 after infection,greater than l is up-regulated,less thanl is down-regulated.The same below. 图4DIECA处理后各个时间点FmJAZ1表达量 Fig.4FmJAZl expression at each time point after DIECA treatment ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对各个时间点JA通路上下游的相关基因——JAZ2、GL1、EIN3、MYC2 的相对表达量进行分析，得到 $J A Z 2 , G L I , E I N 3 , M Y C 2$ 与FmJAZ1的相对表达量数据图（图5\\~8）。DIECA处理1hFmJAZ1过表达被抑制时,JAZ2、GL1表达下调，随后DIECA抑制作用减弱FmJAZI过表达恢复并显著上调时，其余基因表达均显示上调。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c58b0ca283e75f33a13c60b4605c359d32ede92a1ddbde0f0905d2e00a2d6f15.jpg",
+        "img_caption": [
+            "图5DIECA处理后各个时间点GL1和FmJAZ1相对表达量的比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f3f8d5d9358d8171153753454f382e7d2b55b0518a0f31166954e371ffee70d8.jpg",
+        "img_caption": [
+            "Fig.5 Comparison of relative expression levels of $G L I$ and FmJAZl at each time point after DIECA treatment "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/7d5e38012695994ae9af3b697f52f15eb4bdc3a75df854609fa8125d8b4eb00e.jpg",
+        "img_caption": [
+            "图6DIECA处理后各个时间点 $J A Z 2$ 和FmJAZ1相对表达量的比较 Fig.6 Comparison of relative expression levels of JAZ2 and FmJAZl at each time point after DIECA treatment ",
+            "图7DIECA处理后各个时间点MYC2和FmJAZ1相对表达量的比较 Fig.7 Comparison of relative expression levels of MYC2 and FmJAZl at each time point after DIECA treatment "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/61c62cabb6f6335f513e0e823938395baeb505173db69b62eebaca758dbd368f.jpg",
+        "img_caption": [
+            "图8DIECA处理后各个时间点EIN3和FmJAZ1相对表达量的比较 Fig.8 Comparison of relative expression levels of EIN3 and FmJAZl at each time point after DIECA treatment "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "JAZ 蛋白是JA通路的抑制因子，F-box蛋白COI1可以感知生物活性JAs，然后通过泛素-蛋白酶体途径降解JAZs，进而激活参与植物生长、发育和防御的基因表达（图9）。当缺乏JA作为激活信号时，JA通路下游各转录因子（MYC2、GL1、EIN3）受JAZs蛋白抑制下游调控开关关闭；当JA作为激活信号存在时，COI1、JA-Ile以及JAZ蛋白组成共受体复合物，COI1通过26S 蛋白酶调控泛素依赖的JAZ蛋白降解进而释放抑制状态下的转录因子，其中COI1是F-box 蛋白并且在 SCFCOI泛素连接酶复合体中作为底物特异性受体存在（图9）（李罡等，2019；吴德伟等，2018）。对侵染后36h的水曲柳组培苗使用DIECA（茉莉酸合成途径抑制剂)进行处理，图4中处理后FmJAZ1的表达出现了一个短暂的波动，其中1h的FmJAZ1表达量较未处理时上调不明显，此时DIECA（茉莉酸合成途径抑制剂）处理抑制JA合成，FmJAZ1的响应随之受到抑制，因此在水曲柳中FmJAZ1合成受到JA的调控，是JA通路下游转录因子。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "有研究表明，JA的合成会受到JA 和其合成过程的中间产物的正向反馈调节，且已知JA 合成的正向反馈回路为 SCFCOII-JAZ 调控模式，可以激活JA 合成途径中相关酶LOX、AOC、AOS 和OPR3 的表达；其合成也受负调节因子JAZ的蛋白酶体降解途径的调控，同时受MYC2的正调控，从而使植物体内JA含量及其合成相关基因的表达处于一个稳定的水平（陈碧思，2017），因此处理后 $3 { \\cdot } 6 \\mathrm { h }$ 植物体内JA含量会逐渐升高，FmJAZ1相对表达量有显著上调，此时的FmJAZ1一方面响应JA信号恢复过表达，另一方面过表达抑制JA下游转录因子的表达。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/188957947c7484584facf7c69b06a19c3baa860193d8bcdc1fe9a66561661599.jpg",
+        "img_caption": [
+            "图9GL1、EIN3、MYC2转录因子参与的茉莉酸信号转导通路（改自吴德伟等，2018）"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.9 GL1， EIN3,and MYC2 transcription factors are involved in the JA signal transduction pathway (Adapted from Wu et al.,2018) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "MYB 转录因子通过与JAZs互作调节茉莉酸通路，在拟南芥中JAZ蛋白能够作用于WD-repeat/b HLH/MYB 复合体的b HLH(GL3、EGL3 和 TT8）和 MYB(MYB75、GL1）抑制复合体的活性，JA 通过诱导 JAZ 蛋白降解， 解除JAZ 蛋白对WD-repeat/b HLH/MYB 复合体的抑制作用，从而促进色素苷的积累和表皮毛的产生，增强植物对病虫害和紫外等非生物胁迫的抗性（图9）（吴德伟等，2018）。未处理时FmJAZ1过表达而GL1表达下调可以证明FmJAZ1对GL1表达具有抑制作用（图5）。因此3h时JA积累，诱导FmJAZ1降解，其对GL1抑制大大解除,GL1过表达。但是在1h时，JA含量减少，FmJAZ1表达减弱，GLI没有显示出上调趋势。由于MYB 转录因子过表达会增加JA的合成（陈碧思，2017），由数据可得体内JA含量大幅降低，GLI保持下调；GLI过表达，JA合成增加，推测JA与GL1存在互相调控。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "目前对与JAZs各成员具体功能研究较少，现有研究显示大部分JAZs蛋白质都能够与其自身或其他蛋白质存在相互作用形成同源或异源二聚体参与信号转导，并且JAZs之间可能存在着功能冗余现象（闫会转，2014）。图6中所示，未处理时FmJAZ1过表达，FmJAZ2表达下调，说明FmJAZ1可以抑制FmJAZ2表达。1hFmJAZ1表达受抑制，FmJAZ2依然表达下调，说明FmJAZ2同FmJAZ1一样，表达受JA调控。在FmJAZ1表达平稳时FmJAZ2再次出现显著上调，加上处理后FmJAZ2变化趋势与其他转录因子相似，由此推测水曲柳中FmJAZ2与FmJAZ1不同，它的主要功能不在于调控JA通路下游基因，可能存在对植物体正常生长发育的调控。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "MYC2转录因子在JA与其他激素及转录因子互作调控的多种发育过程中发挥重要作用，MYC2转录因子是MYC/bHLH家族中的重要成员，是JA信号途径中最重要的转录因子，它可以正向或负向调节多种茉莉酸介导的响应，并且与大多数的 JAZs 都互作（孙程等，2014；闫会转，2014），其不仅是大量JA信号通路分支的核心调控因子，还可以调控植物组织和器官的生长发育（李罡等，2019）。同样都是JA下游转录因子，MYC2 和GLI不同处理后并没有下调，甚至有轻微上调，一方面是由于MYC2可以诱导JA合成，另一方面是植物体正常情况下存在与JAZs竞争性结合MYC2的因子，使MYC2表达从而介导JA 信号，维持植物体生长和防御之间的平衡（闫会转，2014）。图7中MYC2上调程度随FmJAZI变化而变化，可见在水曲柳中MYC2是JA通路主要调控的转录因子，主要受JAZs调控。FmJAZ1虽是MYC2抑制蛋白，在FmJAZ1过表达时MYC2表现出上调；FmJAZ1上调程度下降时，MYC2也随之变化，可见二者之间存在由JA介导的反馈机制，即当FmJAZI过表达时，MYC2过表达促进JA合成，进而降解FmJAZ1，但是 $J A$ 合成又会诱导FmJAZI表达，FmJAZ1和MYC2由此通过JA互相钳制，导致其随彼此变化而变化。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "乙烯是重要的植物激素，茉莉酸和乙烯具有协同和依赖作用。EIN3转录因子负责促进乙烯传感下游基因转录。当JAZs结合EIN3时会部分的抑制它的活性；当有JA存在时，JAZs 被降解，使得EIN3全部激活这样乙烯转录因子EIN3通过与JAZs的联系使得乙烯调控分级进行（孙程等，2014）。图8所示，处理后1hFmJAZ1对EIN3抑制作用持续存在，随着JA含量恢复，FmJAZ1对EIN3抑制作用随之解除EIN3过表达。但是同为转录因子为何EIN3的上调程度远不及MYC2和GL1。推测原因可能是在水曲柳中也存在MYC2抑制EIN3表达的机制，MYC2几十倍的上调表达影响了JA对EIN3的诱导。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "综上所述，我们对FmJAZ1功能结合其与上下游基因关系进行了初步分析，并对相关基因与JA通路关系进行合理推测。在水曲柳中FmJAZI表达与否取决于植物体内JA含量，数据显示，FmJAZ1不仅具有对JA通路重要转录因子MYC2的抑制功能，并且对MYB转录因子家族成员GL1、乙烯通路转录因子EIN3 同样具有抑制功能，区别在于，MYC2、GL1转录因子虽然受FmJAZ1抑制，但在一定条件下它可以调控FmJAZ1的降解。FmJAZ2也受FmJAZI的抑制且其表达也由JA决定，但其功能不详，应当与FmJAZ1不同。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "通过对FmJAZ1以及对JA通路相关基因的分析，可以看出在水曲柳中，JAZs不仅调控JA通路的关键蛋白，也参与调控其他其他信号通路，并最终通过体内JA表达及其它相关信号分子的协同表达来调节其生长发育和对胁迫的响应，水曲柳中相关信号分子的研究和互作机制的揭示将对水曲柳人工栽培，水曲柳抵抗病虫害能力的增强具有重要意义。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "PEREZ AC,GOOSSENS A， 2013. Jasmonate signalling: A copycat of auxin signalling?[J]. Plant, Cell Environ, 12(36): 2071-2084.   \nCHEN BS,2017. Molecular mechanism of two MYB transcription factor genes in rapeseed and Arabidopsis thaliana regulating ros and ja signal transduction respectively [D]. Xi'an: Northwest A&Funiversity.［陈碧思，2017．油菜与拟南芥中两个MYB 转录因子基因分别 调控活性氧与茉莉酸信号转导的分子机制研究[D]．西安：西北农林科技大学．]   \nCHEN XL，EQUI R,BAXTER H, et al., 2010. A high-throughput transient gene expression system for switchgrass (Panicum virgatum L.) seedlings[J]. Biotechnol Biofuel, 9(3).   \nHOU XL, DING LH, YU H, 2013. Crosstalk between GA and JA signaling mediates plant growth and defense[J]. Plant Cell Rep, 7SI(32) : 1067-1074.   \nIVAN FA, DEBORA G,AURORE C，et al., 2013. Role of NINJA in root jasmonate signaling[J]. Proc Natl Acad Sci, 28(110): 15473-15478.   \nJESSICA W， SHEBA G，NOREEN R，et al.,2014. Optimizing the transient Fast Agro -mediated Sedling Transformation (FAST) method in Catharanthus roseus seedlings[J]. Plant Cell Rep, 1(33): 89-97.   \nJI X,ZHENG L,LIU Y,et al.，2014.A transient transformation system for the functional characterization of genes involved in stress response[J]. Plant Mol Biol, 3(32): 732-739.   \nLIU QX,LI MS, GUO J, 2012. Regulation of jasmonic acid biosynthesis and its signaling pathway[J].JPlant Physiol,48(09):837-844.[刘庆霞，李梦莎，国静，2012．茉莉酸生物 合成的调控及其信号通路[J].植物生理学报，48(09):837-844.]   \nLIU CH，LIANG NS， YU L， et al., 2017. Cloning, analysing and ho-mologous expression of TCP4 transcription factor underabiotic stress and hormone signal in Fraxinus mandschurica[J]. JBeijing For Univ,39(6):22-31.［刘春浩，梁楠松，于磊，等，2017．水曲柳 TCP4转录 因子克隆及胁迫和激素下的表达分析[J].北京林业大学学报，39(6):22-31.]   \nLIANG TY, 2015. Establishment of agrobacterium-mediated transient expression system in tobacco, Salvia miltiorrhiza and Prunella vulgaris [D]. Xi'an: Northwest Agricultural and Forestry University.［梁童瑶，2015．农杆菌介导的瞬时表达系统在烟草、丹参、夏枯草 中的建立[D].西安：西北农林科技大学．]   \nLI JF, PARK EI, VON ARNIM A, et al., 2009. The FAST technique: A simplified Agrobacterium -based transformation method for transient gene expression analysis in seedlings of Arabidopsis and other plant species[J]. Plant Methods, 6(5).   \nLI G,LI WL, XU XM, et al., 2019. Research progress on the involvement of MYC2 transcription factors in plant development regulation [J]. J Plant Physiol, 55(2):125-132. [李罡，李文龙，许雪梅，等，2019．MYC2 转录因子参与植物发育调控的研究进展［J]．植 物生理学报，55(2):125-132.]   \nSUN C, ZHOU XJ,CHEN RM, et al., 2014. Function of hejaz protein [J]. Biotechnol Bull, (6):1-8.[孙程，周晓今，陈茹梅，等，2014．植物 JAZ 蛋白的功能概述[J].生物技术通报， (6) :1-8.]   \nSUN S, ZHAO XT, LIANG NS, et al., 2017. Expression patterns of FmABI5 gene induced by abiotic stress and signal in Frax-inus mandshurica [J]. BullBot Res,37(3):453-460.[孙爽，赵 兴堂，梁楠松,等，2017．水曲柳FmABIS基因非生物胁迫及信号诱导的表达模式分析［J]. 植物研究，37(3):453-460.]   \nWU H, 2015.Identification and functional analysis of genes related to the resilience of the hejaz family in rice [D].Wuhan: Huazhong Agricultural University.[吴华，2015．水稻 JAZ 家族抗 逆相关基因的鉴定和功能分析[D]．武汉：华中农业大学.]   \nWANG Q, 2017. Identification and functional study of genes involved in the biosynthesis and signal transduction pathway of mulberry jasmonic acid [D]. Chongqing: Southwest University. [王青，2017．桑树茉莉酸生物合成与信号转导途径基因的鉴定和功能研究[D].重庆：西 南大学.]   \nWU DW, WANG J, XIE DX,2018. Jasmin and plant biological stress response [J]. Biotechnol Bull,34(7):14-23.[吴德伟，汪姣姣，谢道昕，2018．茉莉素与植物生物胁迫反应［J]．生 物技术通报，34(7):14-23.]   \nXIA J, JIAN DQ, ZENG JL, et al., 2018. Cloning and functional analysis of hejaz gene [J]. Acta Pharm Sin,53(5):812-818.[夏菁，简东琴，曾俊岚，等，2018．青蒿 JAZ基因克隆及其功 能分析［J].药学学报，53(5):812-818.]   \nXU W, ZHU CB, ZHU BQ, et al., 2003. Eficient transformation of Agrobacterium tumefaciens by electrotransformation and three-parent hybridization [J]. J Shenyang Pharm Univ, (6):451-454.[徐威，朱春宝，朱宝泉，等，2003．利用电转化和三亲杂交方法高效转化根 癌农杆菌［J].沈阳药科大学学报，(6):451-454.]   \nYAN HZ, 2014. Mechanism of JAZ2 and JAZ7 in the regulation of jasmonate-mediated transcription and metabolic reprogramming [D]. Hangzhou, Zhejiang university.[闫会转, ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2014．JAZ2 和JAZ7调控茉莉酸介导的转录与代谢重编程的机理研究[D].杭州，浙江大学.]",
+        "page_idx": 11
+    }
+]

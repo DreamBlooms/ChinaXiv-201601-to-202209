@@ -1,0 +1,246 @@
+# DOI:10.5846/stxb201705150898
+
+王雪,施晓清.基于投入产出表的北京市产业生态效率.生态学报,2018,38(8)：2660-2671.  
+WangX,ShiXQIdustralofciecyofegbedaninputotpuablectaEcologicainia,88（8）:661.
+
+# 基于投入产出表的北京市产业生态效率
+
+# 王雪1,2，施晓清1,2,\*
+
+1中国科学院生态环境研究中心，城市与区域生态国家重点实验室，北京100085  
+2中国科学院大学，北京100049
+
+摘要：提高生态效率对协调经济发展与环境保护的关系至关重要。为了了解北京市产业转型过程中各产业部门生态效率的变化趋势,识别提高影响北京市产业生态效率的关键部门,基于北京市投入产出表,运用指标体系法,选取水资源效率,以及废水、二氧化硫、工业固体废弃物的环境效率作为生态效率的衡量指标,核算了北京市 2007,2010和2012 年各部门的水资源效率以及2005、2007和2010年各部门的环境效率,并比较分析了各部门的水资源的完全用水系数以及污染物的完全排放系数,计算各部门之间完全排放量的相互贡献比例,识别了提高生态效率的关键部门。研究结果：(1)2007—2012年,北京市各部门水资源效率和2005—2010 年废水、二氧化硫( $\mathrm { S O } _ { 2 }$ )、工业固体废弃物的环境效率整体呈波动上升趋势。(2)农林牧渔业和废品废料部门是提高水资源效率的关键部门。（3)水的生产和供应业、化学工业、食品制造及烟草加工业、纺织业和造纸印刷及文教体育用品制造业是提高废水环境效率的关键部门。(4)石油加工、炼焦及核燃料加工业、非金属矿物制品业、金属冶炼及压延加工业、电力及热力的生产和供应业是提高 $\mathrm { S O } _ { 2 }$ 环境效率的关键部门。(5)煤炭开采和洗选业、金属矿采选业、木材加工及家具制造业、非金属矿物制品业、金属冶炼及压延加工业、电力及热力的生产和供应业、水的生产和供应业是提高工业固体废弃物环境效率的关键部门。
+
+关键词：资源效率；环境效率；完全用水系数；完全排放系数；贡献比例
+
+# Industrial eco-efficiency of Beijing based on an input-output table
+
+WANG Xue1,2， SHI Xiaoqing1,2.
+
+1StateKeyLaboratoryofUbanndRegioalcologyResearchCenterforEcoEiromentalSciences，ChineseAcadeyofSciences，Beiin 100085，China   
+2 University of Chinese Academy of Sciences，Beijing 100049， China
+
+Abstract：Improving eco-effciencyto cordinate therelationship between economic development and environmental protection is very important.Thisstudy，basedon the input-output table for Beijing，used the indexsystemmethod to increaseunderstandingabouttheeco-effciencyofvarious sectors curentlyundergoing industrial transformationand dentify thekeyto improving eco-effciency.Waterresources，waste water，sulfurdioxide,and industrial solid waste were analyzed to create the index ofeco-effciency.They were used to assess theresource eficiencyofthe waterresources in2O07,2010, and 2012for Beijing，aswellas the environmental eficiency of each sector in 2005，2007，and2010.Then this study compared thecomplete waterusecoeffcientand pollutant totaldischarge coeffcient，calculated the total emissions contributions madebydiffrentsectors，and identified keywaystoimprove theeficiencyoftheecologicalsector.The main conclusions areas follows:（1）the water eficiency between 2007and2012，and theenvironmental efficiency of wastewater, $\mathrm { S O } _ { 2 }$ ，and industrial solid waste for each sector in Beijing between 2O05—2O1O increased,but this increase was variable;（2）theagriculture,livestock,forestry,fishery,andthewaste materialindustriesarekeysectorsthathavearole in improving water eficiency；（3）water productionandsupply，the chemical industry，fod manufacturing and tobacco processing，textilesand paper printing，and the cultural and educational sporting goods manufacturing industryarethe key sectorsthat have most effecton improving theenvironmental efficiency of waste water；（4）petroleum processing，coking and nuclearfuel processing，non-metallcmineral products，the metal smelting androlling industry，and the electricity, heat production and supply industry are the key sectors that have most effect on improving $\mathrm { S O } _ { 2 }$ environmental efficiency；and （5）thecoal mining and washing industry，metal mining，wood processing and furniture manufacturing，non-metalic mineral products industry，metal smeltingand roling，electricity，heat productionand supply industry，and the water production and supply industry are the key sectors that can help improve industrial solid waste eficiency.
+
+KeyWords：resourceeficiency；environmental eficiency；total waterusecoeficient；totaldischarge coeficient; contributions ratio
+
+生态效率是对可持续发展进行定量化分析常用的方法之一[1]。生态效率的概念是由 Sturn 和 Schaltegger在1990年首次提出的[2]。世界可持续发展委员会(WBCSD)将生态效率定义为:通过创造有价格竞争优势的产品和服务来满足人类的需求并提高生活质量,同时将其环境影响和资源利用强度控制在地球的承载力水平之内[3」。欧盟环境署将其定义为：从更少的资源获得更多的福利。各组织机构对生态效率的定义各有不同，但是从广义来看,都可将生态效率看做"产出/投入”比[4],“产出"是指企业、行业或经济体提供的产品和服务的价值，“投入”则是指企业、行业或经济体资源和能源利用及他们所造成的环境压力[5]。
+
+当前,生态效率的核算方法主要可以概括为以下3种：模型法、经济/环境单一比值法和指标体系法[6]模型法通过给定权重将表征生态效率的指标综合成一个单一的数值,经济/环境单一比值法是给出经济维度指标和环境维度指标的简单的比值,这两种方法最终都将所有的环境影响综合成为一个特定的环境影响值，不能区分不同的环境影响。指标体系法由相互独立但又整体联系的生态效率指标集构成,可以清楚地表示不同的环境影响。不同的行业部门具有不同的特点，其环境影响也有很大差异,为了识别提高不同资源效率或污染物环境效率的关键部门,本文采用指标体系法计算生态效率衡量指标。
+
+当前,国外学者对于生态效率的研究多集中于企业以及产品系统的研究,行业尺度研究较少。Dahlstrom认为经济输出和污染输出的比值,以及产出和投入的比值均可作为衡量生态效率的指标[7。Ingaramo 和Ekins[8选取水资源效率和废水中COD的环境效率作为生态效率衡量指标,分析了蔗糖产业的生态效率。$\mathrm { V a n } ^ { [ 9 ] }$ 基于指标体系法研究了钢铁产业的生态效率。国内生态效率的研究侧重于行业尺度。毛建素等[10]基于指标体系法,界定了中国39个工业部门能源消费和废水、固废、二氧化硫、工业烟尘、粉尘等指标的生态效率。戴铁军等[1]将能源效率、资源效率和环境效率作为衡量钢铁企业生态效率的指标,并以某钢铁企业为例,进行了实证分析。王飞儿等[12]将生态效率定义为√资源效率² $^ +$ 环境效率²，分别核算了纺织业能源资源效率以及废水、废气 $\bar { \mathrm { . 5 0 } } _ { 2 }$ 、烟尘、固废的环境效率。杜艳春等[13选择能源消费和污染物排放作为环境负荷,核算了焦作市分行业的生态效率。
+
+现有研究多将经济输出和污染物直接输出的比值作为衡量生态效率的指标,以此识别生态效率较低的行业,提出相应的对策建议。但是,在生产过程中,各部门不仅会产生直接的资源利用和污染物排放,还存在间接的使用和排放,而完全使用或排放系数可以更全面地衡量资源使用和污染物排放的情况。比如,秦昌才和刘树林[14]基于投入产出表分析了中国产业的完全碳排放情况,识别了碳排放较为隐蔽的部门;黄敏和黄炜[15]核算了中国各产业部门的完全用水系数,发现很多部门直接用水系数与完全用水系数差距很大。分析基于资源直接利用和污染物直接排放的生态效率指标,可以识别资源消耗和污染物排放明显的产业部门，比较分析直接排放系数和完全排放系数,则可以识别污染物排放较为隐蔽的产业部门,只有将两者结合起来，才能更全面的反映各产业部门的资源效率和污染物的环境效率,识别提高资源效率和污染物环境效率的关键部门。因此，本文基于北京市投入产出表,选择水资源效率和废水、二氧化硫、固体废弃物的环境效率作为生态效率的衡量指标,在比较分析各产业部门的生态效率的基础上,对水资源的完全用水系数和废水、二氧化硫、固体废弃物的完全排放系数进行了比较分析,并且进一步分析了各部门之间完全使用量或排放量的相互贡献比例,以更加全面地识别环境管理调控的关键部门,为北京市提高资源环境效率提供科学的理论依据和方法支撑。
+
+# 1研究方法
+
+# 1.1 生态效率指标选取
+
+行业尺度的生态效率分析通常采用指标体系法,构成生态效率指标集的指标主要包括几大类：水耗、物耗、能耗、劳动力、环境影响以及土地等,以综合反映经济、自然和社会各子系统的发展水平和协调程度。北京市属于水资源相对匮乏的城市,大量废水的排放使城市近郊河流和地下水均受到了不同程度的污染,更加剧了水资源的短缺,所以本文选取了水资源和废水作为衡量生态效率的指标;同时,北京市大气污染如酸雨、雾霾等问题突出,考虑到数据的限制,本文选取大气污染物 $\mathrm { S O } _ { 2 }$ 作为衡量生态效率的指标;另外,工业固体废弃物堆放是导致土壤污染及资源浪费的隐患,本文也将固体废弃物作为衡量生态效率的指标。本文定义了资源效率和环境效率,将资源效率定义为产业系统使用单位资源创造的价值量,将环境效率定义为产业系统排放单位污染物所创造的价值的量。
+
+# 1.2资源效率和环境效率核算方法
+
+为了考察各产业部门在产业转型过程中资源、污染物的投人产出效率,需要计算各个部门的资源效率与环境效率。资源效率、环境效率的计算如式1和式2所示：
+
+式中， $r _ { i j }$ 为 $i$ 部门 $j$ 资源的资源效率， $\boldsymbol { v } _ { i }$ 为投入产出表中i部门的增加值, $R _ { i j }$ 为 $i$ 部门 $j$ 资源的直接使用量; $\boldsymbol { e } _ { i k }$   
+为 $i$ 部门 $k$ 污染物的环境效率， $E _ { i k }$ 为 $i$ 部门 $\overline { { k } }$ 污染物的直接排放量。
+
+在产业生态网络中,各部门不仅存在直接的生产联系,还有间接的联系,这使得各部门除了会直接使用资源、产生直接排放外,还会产生间接的资源消耗和污染物排放。而完全使用系数则可以反映资源的直接使用和间接使用,同理完全排放系数则是污染物直接排放和间接排放的全面反映。所以,本文还分析了资源的完全使用系数和污染物的完全排放系数,以全面识别各产业部门的资源环境效率。以完全排放系数为例,计算公式[16]如下： >
+
+$$
+L = P \left( I - A \right) ^ { - 1 }
+$$
+
+$$
+P _ { i } = p _ { i } / \ x _ { i }
+$$
+
+$L$ 为完全排放系数矩阵， $P$ 为直接排放系数矩阵， $\boldsymbol { P } _ { i }$ 是矩阵 $P$ 中的元素，为 $i$ 部门的直接排放系数， $p _ { i }$ 为 $i$ 部门污染物的直接排放量， $x _ { i }$ 为 $i$ 部门的总产出, $\left( I { - } A \right) ^ { - 1 }$ 为列昂惕夫逆矩阵。
+
+基于完全排放系数， $i$ 部门 $k$ 污染物包括了间接排放的总的排放量 $\boldsymbol { E ^ { \prime } } _ { i k }$ 计算方法如公式所示：
+
+$$
+E _ { \ i k } ^ { \prime } = P _ { \ i } \ ( I - A ) ^ { - 1 } f _ { i }
+$$
+
+其中， $f _ { i }$ 为 $i$ 部门的最终使用价值量,在北京市投入产出表中,最终使用包括消费,资本形成和出口。
+
+资源的完全使用系数和完全使用量的计算方法同上。
+
+本文进一步分析了部门之间资源使用和污染物排放的相互贡献比例。以水资源为例。
+
+设 $\boldsymbol { W } _ { i }$ 是 $i$ 部门的完全用水量,表征i部门生产单位产品使用的直接和间接的水资源的总量,是受到了网络中所有部门影响的结果。由 $\mathrm { j }$ 部门的直接用水引起的 $i$ 部门的完全用水量 $\boldsymbol { w } _ { i j }$ 如公式所示：
+
+$$
+w _ { i j } = k _ { j } \ : ( \ : I - A ) ^ { - 1 } f _ { i }
+$$
+
+$$
+k _ { j } = ( \underbrace { 0 , 0 , \ldots } _ { \mathrm { j - 1 } \mathrm { \uparrow } } , P _ { j } \underbrace { 0 , \ldots , 0 } _ { n - j \mathrm { \uparrow } } )
+$$
+
+http://www.ecologica.cn
+
+$P _ { j }$ 为 $j$ 部门的直接用水系数。
+
+由部门 $j$ 的直接用水量所引起的 $i$ 部门的完全用水量占部门 $i$ 总的完全用水量的贡献比例 $s _ { i j }$ 如公式所示：
+
+$$
+s _ { i j } = \frac { w _ { i j } } { W _ { i } }
+$$
+
+# 2数据来源
+
+本文基于2007年、2010年和2012年北京市投入产出表核算了水资源效率以及2005年、2007年和 2010年工业废水、 $\mathrm { . S O } _ { 2 }$ 和工业固体废弃物的环境效率。2005 年、2007年、2010 年和 2012年北京市投人产出表在北京市统计信息网得到。农业的直接用水量来自于《北京市水资源公报》,采矿业、制造业、电力、热力、燃气和水的生产和供应业水资源数据来源于环保局调查,建筑业用水通过年峻工面积与单位建筑面积用水定额乘积得到[17]。服务业用水数据通过文献调查获得[18]。2005 年、2007 年和 2010年工业废水、 $. \mathrm { S } \dot { 0 } _ { 2 }$ 和工业固体废弃物分部门的排放数据来源于环保局调查。为了便于分析,结合国民经济行业分类以及现代服务业的统计分类,本文将投入产出表的42个部门合并为为8个行业,如表1所示。
+
+表1行业分类  
+Table1Industry category   
+
+<html><body><table><tr><td>行业分类</td><td>产业部门</td></tr><tr><td>01农林牧渔业 Industry category</td><td>Sector</td></tr><tr><td>01 The agriculture,livestock，forestry，fishery</td><td>农林牧渔业</td></tr><tr><td>02 采矿业</td><td>煤炭开采和洗选业 石油和天然气开采业</td></tr><tr><td>02 Mining industry</td><td>金属矿采选业 非金属矿采选业 食品制造及烟草加工业</td></tr><tr><td>03 制造业 03 Manufacturing industry</td><td>造纸印刷及文教体育用品制造业 石油加工、炼焦及核燃料加工业 化学工业 非金属矿物制品业 金属冶炼及压延加工业 金属制品业 通用、专用设备制造业 交通运输设备制造业</td></tr><tr><td>04 废品废料部门</td><td>电气机械及器材制造业 通信设备、计算机及其他电子设备制造业 仪器仪表及文化办公用机械制造业 工艺品及其他制造业 废品废料</td></tr><tr><td>04 The waste material industry</td><td>金属制品、机械和设备修理服务业</td></tr><tr><td></td><td>电生产业供业</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td>交通运输及仓储业</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td>05电气ptaate</td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td>06 建筑业</td><td></td></tr><tr><td>06 Construction industry</td><td>建筑业</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td>07传统服务业</td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td>邮政业</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td>07 Traditional service industry</td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td>批发和零售业</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td>住宿和餐饮业</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="3">续表</td></tr><tr><td>行业分类</td><td colspan="2">产业部门</td></tr><tr><td rowspan="2">Industry category</td><td colspan="2">Sector</td></tr><tr><td>信息传输、计算机服务和软件业 金融业</td><td></td></tr><tr><td>08 现代服务业 08 Modern service industry</td><td>房地产业 租赁和商务服务业 研究与试验发展业 综合技术服务业 居民服务和其他服务业 教育 卫生、社会保障和社会福利业</td><td></td></tr></table></body></html>
+
+# 3结果与分析
+
+# 3.1 水资源效率
+
+北京市是我国缺水最为严重的大城市之一。为了了解各行业水资源利用情况，计算了2007年、2010 年和2012年北京市8个行业水资源效率以及北京市2012年水资源的整体效率，具体情况如图1所示。
+
+由图1可以看出，农林牧渔业的直接用水效率最低，且大大低于北京市水资源的整体效率（图1中虚线所示）。从时间序列来看，制造业、废品废料部门和建筑业的水资源效率呈现波动趋势，其他行业水资源效率呈逐年上升趋势。图1中显示2007年废品废料部门水资源效率远高于其他行业，本文认为主要是因为2007年废品废料部门处于结构调整年份（2005 年之前废品废料部门对其他部门的中间使用为0，从2007年开始废品废料部门开始出现对其他部门的中间使用），造成水资源效率异常。
+
+直接用水系数是指某行业单位产出的直接用水量，  
+完全用水系数是指某行业部门增加单位产值直接和间  
+接利用的水的量。为了进一步了解各行业水资源直接  
+和间接用水情况,本文比较分析了2012年8个行业直接用水系数和完全用水系数,如表2所示。
+
+![](images/6f774da6eba7a43dc212e03f5489c67abba11ea6e3713239459551f32a5b72f6.jpg)  
+图1 2007—2012年水资源效率  
+Fig.1Water efficiency in 2007—2012
+
+01:农林牧渔业,The agriculture，livestock，forestry，fishery;O2：采矿 业,Mining industry;O3：制造业,Manufacturing industry;O4：废品废 料部门,The waste material industry;O5：电力、热力、燃气及水生产 和供应业,The production and supply of electricity，heat，gas and water;O6:建筑业,Construction industry;O7：传统服务业,Traditional service industry;O8:现代服务业，Modern service industry
+
+（由表2可以看出,制造业和现代服务业的完全用水系数最大的两个部门,但其直接用水系数却不是很高，尤其是现代服务业,属于用水比较隐蔽的行业。为了进一步分析制造业和现代服务业完全用水量的来源,本文进一步分析了各行业之间完全用水量的相互贡献比例,如3所示。从横向看,第一行数据表示由农林牧渔业的直接用水所引起的其他行业的用水量占该行业完全用水量的比例,以此类推;从纵向看,第一列的数据表示由其他行业用水所导致的农林牧渔业的用水量的比例。从表3中可以看出,各行业的完全用水量中,农林牧渔业贡献比例远远高于其他行业,这是由农林牧渔业的直接用水系数明显高于其他行业导致的。现代服务业 $8 5 . 2 5 \%$ 的完全用水量来自农林牧渔业， $1 1 . 8 8 \%$ 来自废品废料部门;制造业 $8 9 . 4 1 \%$ 的完全用水量来自农林牧渔业， $7 . 9 7 \%$ 来自于废品废料部门。
+
+Table2 Water use coefficient in 2012 of Beijing   
+表3各行业之间完全用水量的贡献比例/%  
+
+<html><body><table><tr><td>行业代码 Setor</td><td>直接用水系数 Coefficient of direct water use</td><td>排序 Rank</td><td>完全用水系数 Coefficient of full water use</td><td>排序 Rank</td></tr><tr><td>01</td><td>235.00</td><td>1</td><td>304</td><td>3</td></tr><tr><td>02</td><td>2.23</td><td>4</td><td>41.8</td><td>7</td></tr><tr><td>03</td><td>2.72</td><td>3</td><td>745.2</td><td>1</td></tr><tr><td>04</td><td>6.93</td><td>2</td><td>9.1</td><td>8</td></tr><tr><td>05</td><td>2.21</td><td>5</td><td>86.7</td><td>6</td></tr><tr><td>06</td><td>2.02</td><td>6</td><td>182.9</td><td>5</td></tr><tr><td>07</td><td>1.68</td><td>7</td><td>255.8</td><td>4</td></tr><tr><td>08</td><td>1.57</td><td>8</td><td>418.3</td><td>2</td></tr></table></body></html>
+
+表2北京市2012年水资源用水系数  
+Table 3Contribution ratio of total water use among industries   
+
+<html><body><table><tr><td>部门 Sector</td><td>01</td><td>02</td><td>03</td><td>04</td><td>05 6</td><td>07</td><td>08</td></tr><tr><td>01</td><td>99.57</td><td>67.40</td><td>89.41</td><td>15.59</td><td>61.77 C 88.44</td><td>85.47</td><td>85.25</td></tr><tr><td>02</td><td>0.04</td><td>15.99</td><td>1.14</td><td>0.21</td><td>4.35 1.32</td><td>0.67</td><td>0.94</td></tr><tr><td>03</td><td>0.03</td><td>0.65</td><td>1.04</td><td>0.17</td><td>0.61 0.87</td><td>0.50</td><td>0.72</td></tr><tr><td>04</td><td>0.34</td><td>15.14</td><td>7.97</td><td>83.87</td><td>24.89 7.74</td><td>12.00</td><td>11.88</td></tr><tr><td>05</td><td>0.02</td><td>0.42</td><td>0.22</td><td>0.09 5</td><td>8.00 0.24</td><td>0.32</td><td>0.38</td></tr><tr><td>06</td><td>0.00</td><td>0.02</td><td>0.01</td><td>0.00</td><td>0.04 1.14</td><td>0.02</td><td>0.04</td></tr><tr><td>07</td><td>0.01</td><td>0.31</td><td>0.17</td><td>S 0.05</td><td>0.23 0.20</td><td>0.92</td><td>0.25</td></tr><tr><td>08</td><td>0.00</td><td>0.07</td><td>0.04</td><td>0.01</td><td>0.12 0.05</td><td>0.10</td><td>0.53</td></tr><tr><td>总计Total</td><td>100</td><td>100</td><td>100</td><td>100 100</td><td>100</td><td>100</td><td>100</td></tr></table></body></html>
+
+综上,农林牧渔业是水资源效率最低并低于北京市总体水资源效率的行业,制造业和现代服务业是用水量较为隐蔽的行业,其完全用水量主要来源于农林牧渔业和废品废料部门的贡献,所以,农林牧渔业和废品废料部门是提高水资源效率的关键行业。
+
+# 3.2废水的环境效率
+
+基于公式2,计算了北京市2005年、2007年和 2010年24个工业部门废水的环境效率。如图2所示。虚线表示 2010 年北京市废水整体的环境效率。
+
+由图2可以看出,从时间序列上看,与2005年相比,除非金属矿采选业和服装制品业外,各部门废水的环境效率均呈上升趋势。另外,2010年,低于北京市整体废水环境效率的部门为：水的生产和供应业、化学工业、食品制造及烟草加工业、纺织业和造纸印刷及文教体育用品制造业。燃气生产和供应业没有收集到废水排放数据，故该部门废水的环境效率在图2中没有显示，并非效率低。
+
+直接排放系数是指某行业单位产出的直接排放的污染物的量,完全排放系数则是指某行业部门增加单位产值直接和间接排放的污染物的量。为了进一步了解各部门废水排放情况,本文比较分析了2010年 24个部门工业废水、 $\mathrm { S O } _ { 2 }$ 和工业固体废弃物的直接排放系数和完全排放系数,如表4所示。
+
+从表4中可以看出,2010年,电力、热力的生产和供应业,通信设备、计算机及其他电子设备制造业,交通运输设备制造业,通用、专用设备制造业,电气机械及器材制造业完全排放系数较高,而直接排放系数则比较低,属于排放较为隐蔽的部门。为了分析各部门完全排放的来源，又对各部门之间完全排放量的相互贡献比例进行了分析,如图3所示。
+
+质，与   
+
+<html><body><table><tr><td>不工</td><td>1022２24B2205618９Ω１ 6 ４３５８４Ⅱ3７９П LL00'0 0950.0 4—1 21 8 B 4 7 1 Ⅱ 9 5 2 7 5 2四 18 22 20233 16 9 0060.0 65000 0000.0 5950.5 418 B 24 2 21 18 7 15 5 9 1 3 7 8 2 3 2 2022 mmmommm</td></tr></table></body></html>
+
+从图3中可以看出，水的生产和供应业(24)对各部门废水的完全排放量的贡献都很大。对电力、热力的生产和供应业(22）、通信设备、计算机及其他电子设备制造业（18）交通运输设备制造业（16）通用、专用设备制造业(15）电气机械及器材制造业(17)的废水的完全排放量贡献最大的部门均是水的生产和供应业，贡献比例分别为 $7 3 . 1 4 \% 5 8 . 1 9 \% 4 5 . 9 3 \% 6 0 . 5 3 \% 6 1 . 7 7 \%$ （2号
+
+综上，水的生产和供应业，化学工业，食品制造及烟草加工业，纺织业和造纸印刷及文教体育用品制造业废水的环境效率低于北京市整体废水的环境效率;同时电力、热力的生产和供应业，通信设备、计算机及其他电子设备制造业，交通运输设备制造业，通用、专用设备制造业，电气机械及器材制造业是废水排放较为隐蔽的部门;对上述排放较为隐蔽的部门的完全排放量贡献最大的部门均是水的生产和供应业。所以，提高废水环境效率的关键部门是水的生产和供应业、化学工业、食品制造及烟草加工业、纺织业和造纸印刷及文教体育用品制造业。
+
+# 3.3 $\mathrm { S O } _ { 2 }$ 的环境效率
+
+基于公式2，计算了2005年、2007年、2010 年北京市，24个工业部门以及北京市整体的 $\mathrm { S O } _ { 2 }$ 的环境效率，如图4所示，虚线表示北京市2010 年 $\mathrm { S O } _ { 2 }$ 的环境效率。
+
+由图4可以看出，从时间序列上看，与2005 年相比,除石油加工、炼焦及核燃料加工业外,各部门 $\mathrm { S O } _ { 2 }$ 的环境效率均呈上升趋势。另外，2010年，低于北京市整体 $\mathrm { S O } _ { 2 }$ 环境效率的部门为：石油加工、炼焦及核燃料加工业(10）、非金属矿物制品业(12）、金属冶炼及压延加工业(13）、电力、热力的生产和供应业(22)。燃气生产和供应业（23）、水的生产和供应业（24)没有收集到$\mathrm { S O } _ { 2 }$ 排放数据，故该部门 $ { \mathrm { S } }  { \mathrm { O } _ { 2 } }$ 的环境效率在图4中没有显示，并非效率低。为了更好地分析各部门 $\mathrm { S O } _ { 2 }$ 的环境效率，本文进一步分析了各产业部门 $\mathrm { S O } _ { 2 }$ 的直接排放系数、完全排放系数以及各部门之间完全排放量的相互贡献比例。如表4和图5所示。
+
+由表4可以看出,2010年,金属制品业（14）、通用、专用设备制造业（15）、交通运输设备制造业（16）、电气
+
+![](images/6a2de44560e1084825d7eacab6be3be243b501f7247d921939ebf54afc7d3dc5.jpg)  
+图22005—2010年工业废水环境效率  
+Fig. 2 Environmental efficiency of wastewater in 2oo5—2010 of Beijing
+
+1:煤炭开采和洗选业,Coal miningandwashing;2：石油和天然气采 选业,Oil and gas extraction industry;3:金属矿采选业,Metal mining industry;4：非金属矿采选业，Non-metallicmining industry;5：食品 制造及烟草加工业,Food manufacturing and tobacco processing industry;6:纺织业,Textile industry;7：服装皮革羽绒及其制品业， Clothing,leather，down and its products industry;8:木材加工及家具 制造业,Wood processing and furniture manufacturing industry;9：造 纸印刷及文教用品制造业,Paper making，printing and stationery industry;10:石油加工、炼焦及核燃料加工业,Petroleum processing, coking and nuclear fuel processing industry;11:化学工业,Chemical industry;12：非金属矿物制品业，Non-metallic mineral products industry;13：金属冶炼及压延加工业,Metal smelting and rolling processing industry;14:金属制品业,Metal products industry;15：通 用、专用设备制造业,General and special equipment manufacturing industry;16：交通运输设备制造业，Transportation equipment manufacturing industry；17：电气、机械及器材制造业,Electrical, mechanical and equipment manufacturing industry;18：通信设备、计 算机及其他电子设备制造业,Communications equipment，computers and other electronic equipment manufacturing;19:仪器仪表及文化办 公用机械制造业,Instrumentation and culture，office machinery manufacturing;20;其他制造业,Other manufacturing;21：废品废料， The wastematerial industry;22：电力、热力的生产和供应业，The production and supply of electricity and heat;23：燃气生产和供应业， Gas production and supply industry;24：水的生产和供应业，The production and supply of water
+
+机械及器材制造业(17）、通信设备、计算机及其他电子设备制造业（18）、工艺品及其他制造业（20)完全排放系数较高,而直接排放系数则比较低,属于排放较为隐蔽的部门。由图5可以看出,对上述 $\mathrm { S O } _ { 2 }$ 排放较为隐蔽的部门(14、15、16、17、18、20)的完全排放量贡献最大的部门是金属冶炼及压延加工业(13）,其贡献比例分别为 $9 0 . 4 4 \% 8 8 . 8 1 \% 8 2 . 5 9 \% 9 9 . 0 9 \% 7 1 . 5 1 \% 9 0 . 6 3 \%$ （2
+
+综上,石油加工、炼焦及核燃料加工业,非金属矿物制品业,金属冶炼及压延加工业,电力、热力的生产和
+
+![](images/437e66958644883512f67142d5cbff04196e3d2323862ecaf25c60ce33ded898.jpg)  
+图32010年产业部门之间对完全排放的贡献比例
+
+部门编号与图2相同
+
+供应业 $\mathrm { S O } _ { 2 }$ 的环境效率低于北京市整体 $\mathrm { S O } _ { 2 }$ 的环境效率；同时金属制品业，通用、专用设备制造业，交通运输设备制造业，电气机械及器材制造业，通信设备、计算机及其他电子设备制造业，工艺品及其他制造业是废水排放较为隐蔽的部门；对上述排放较为隐蔽的部门的完全排放量贡献最大的部门均是金属冶炼及压延加工业。所以，提高 $\mathrm { S O } _ { 2 }$ 环境效率的关键部门是石油加工，炼焦及核燃料加工业，非金属矿物制品业，金属冶炼及压延加工业，电力、热力的生产和供应业。
+
+# 3.4工业固体废弃物的环境效率
+
+![](images/002c56f34a8b38017edd79cc9df3273179a278c4f27e09104c96f040de5d67c1.jpg)  
+Fig.3Contribution ratio of total water use among industrie!   
+图42005—2010年 $\mathbf { S O } _ { 2 }$ 的环境效率  
+Fig.4Environmental efficiency of $\mathbf { S } \mathbf { O } _ { 2 }$ in 2005—2010 of Beijing
+
+本文对工业固体废弃物的环境效率进行了比较分析,核算了2005—2010 年北京市24个部门工业固体废弃物的环境效率，如图6所示。
+
+由图6可以看出,从时间序列上看,纺织服装鞋帽皮革羽绒及其制品业、石油加工、炼焦及核燃料加工业、金属冶炼及压延加工业、通信设备、计算机及其他电子设备制造业、水的生产和供应业的工业固体废弃物的环境效率呈现波动趋势,其他部门工业固体废弃物的环境效率均呈上升趋势。另外,2010年,低于北京市整体工业固体废弃物环境效率的部门为:煤炭开采和洗选业(1）、金属矿采选业（3）、木材加工及家具制造业（8)、非金属矿物制品业(12）、金属冶炼及压延加工业(13）、电力、热力的生产和供应业（22）、水的生产和供应业(24）。石油和天然气开采业(2)没有收集到工业固体废弃物的排放数据,故该部门 $\mathrm { S O } _ { 2 }$ 的环境效率在图4中没有显示。为了更全面地分析各部门工业固体废弃物的环境效率,本文进一步分析了各产业部门工业固体废弃物的直接排放系数、完全排放系数以及各部门之间完全排放量的相互贡献比例。如表4和图7所示。
+
+从表4可以看出,2010年,金属制品业（14）、通用、专用设备制造业(15）、交通运输设备制造业（16）、电气机械及器材制造业(17）、通信设备、计算机及其他电子设备制造业(18）、工艺品及其他制造业(20)完全排放系数较高，而直接排放系数则比较低，属于排放较为隐蔽的部门。由图7可以看出，对上述工业固体废弃物排放较为隐蔽的部门（14、15、16、17、18、20)的完全排放量贡献最大的部门是金属矿采选业（3），其贡献比例分别为 $6 2 . 8 2 \%$ 、 $5 9 . 6 8 \%$ 、 $5 9 . 0 6 \%$ 、 $6 6 . 4 4 \%$ 、61.79%$5 8 . 2 0 \%$ ,金属冶炼及压延加工业的贡献比例次之，分别为 $3 5 . 8 5 \% . 3 8 . 3 3 \% . 3 6 . 8 4 \% . 3 1 . 7 9 \% . 3 1 . 9 6 \% . 3 9 . 0 8 \%$ ）
+
+![](images/366fac331ea154978af03d00a4db130a2c6ef814be0a34583699f0a5116370a8.jpg)  
+图52010年产业部门之间对完全排放的相互贡献比例
+
+综上，煤炭开采和洗选业，金属矿采选业，木材加工及家具制造业，非金属矿物制品业，金属冶炼及压延加工业，电力、热力的生产和供应业，水的生产和供应业工业固体废弃物的环境效率低于北京市整体工业固体废弃物的环境效率;同时金属制品业，通用、专用设备制造业，交通运输设备制造业，电气机械及器材制造业，通信设备、计算机及其他电子设备制造业,工艺品及其他制造业是废水排放较为隐蔽的部门;对其完全排放量贡献最大的部门均是金属矿采选业和金属冶炼及压延加工业。所以,提高工业固体废弃物环境效率的关键部门是煤炭开采和洗选业,金属矿采选业,木材加工及家具制造业,非金属矿物制品业,金属冶炼及压延加工业,电力、热力的生产和供应业,水的生产和供应业。
+
+![](images/c70412f191ba8e9744f28de8d5994d7095c0cf90e65878572d6d972512c204f2.jpg)  
+Fig.5Contribution ratio of total water use among industries 部门编号与图2相同   
+图62005—2010 年北京市工业固体废弃物环境效率Fig. 6 Environmental efficiency of industrial solid waste in2005—2010 of Beijing
+
+# 4结论
+
+本文基于投入产出表核算了北京市产业部门的生态效率指标;水资源效率,废水、 $. \mathrm { S O } _ { 2 }$ 和工业固体废弃物的环境效率,计算了各部门的完全用水系数和完全排放系数,并且对各产业部门之间的完全排放量的相互贡献比例进行了比较分析,主要得到如下结论：
+
+(1)从时间序列看,2007—2012年,北京市制造业和废品废料部门水资源效率波动较大,其他行业除建筑业外水资源效率均呈明显上升趋势;2005—2010年,除个别部门外,大多数工业部门废水、SO2、工业固体废弃
+
+![](images/6c358d57cd9d758b925185af8df6abfde4d857aa861903ea272660708c185592.jpg)  
+图72010年产业部门之间对完全排放的贡献比例  
+Fig.7Contribution ratio of total water use among industries
+
+物的环境效率呈波动上升趋势。
+
+(2)农林牧渔业是直接用水系数最大的行业,而制造业和现代服务业是完全用水系数最高的两个行业，其完全用水量的贡献主要来源于农林牧渔业和废品废料部门,所以农林牧渔业和废品废料部门是提高水资源效率的关键部门。
+
+(3)水的生产和供应业,化学工业,食品制造及烟草加工业,纺织业和造纸印刷及文教体育用品制造业是废水直接排放系数较高的部门,且水的生产和供应业是废水排放较为隐蔽的部门如电力、热力的生产和供应业完全排放量的主要来源,所以,水的生产和供应业,化学工业,食品制造及烟草加工业,纺织业和造纸印刷及文教体育用品制造业是提高废水环境效率的关键部门。
+
+(4)石油加工、炼焦及核燃料加工业,非金属矿物制品业,金属冶炼及压延加工业,电力、热力的生产和供应业的 $\mathrm { S O } _ { 2 }$ 直接排放系数较高,且金属冶炼及压延加工业对完全排放系数较高的部门的贡献达 $90 \%$ 以上，所以,石油加工、炼焦及核燃料加工业,非金属矿物制品业,金属冶炼及压延加工业,电力、热力的生产和供应业是提高 $\mathrm { S O } _ { 2 }$ 环境效率的关键部门。
+
+(5)煤炭开采和洗选业,金属矿采选业,木材加工及家具制造业,非金属矿物制品业,金属冶炼及压延加工业,电力热力的生产和供应业,水的生产和供应业的工业固废的直接排放系数较高,且金属矿采选业和金属冶炼及压延加工业对排放隐蔽的部门的完全排放量贡献很大,所以,煤炭开采和洗选业,金属矿采选业，木材加工及家具制造业,非金属矿物制品业,金属冶炼及压延加工业,电力、热力的生产和供应业,水的生产和供应业是提高工业固体废弃物环境效率的关键部门。
+
+# 参考文献（References）:
+
+[1]Wilotetisedlfealc, (3):348-353.   
+[2]WillrdBeSustanabiltydanageSevnBusin CaseBeneftsofATipleotL.GabriolaladewScieyublishrs，02.   
+3]Jlliall Management，2004，73（4）：293-305.   
+[4]Organization for Economic Co-operation and Development. Eco-Efficiency.Paris:OECD,1998.
+
+http://www.ecologica.cn
+
+[5]VogtländerJG,Bijma A,Brezet $\mathrm { ~ H ~ C ~ }$ .Communicating the eco-efficiency of products and services by means of the eco-costs/value model.Journal ofCleaner Production，2002，10(1）：57-67.  
+［6］尹科，王如松，周传斌，梁菁.国内外生态效率核算方法及其应用研究述评.生态学报，2012，32（11)：3595-3605.  
+[7]DahlstrK，EkinscofcredsieUKteendiustrs：difereetwesoufcdoeproductivity.Journal of Industrial Ecology，2005,9(4）：171-188.  
+[8]IngaraoA,HeluaneH,ColobM,CescaM.WaterandwastewaterefiecyindicatosfortesugaaneindustryJoualfleaeProduction，2009,17(4）：487-495.  
+[9]VanCJloC，，MrteR,VdeasteleCrovingeofcinhelustreloitJournal of Cleaner Production，2010,18（8）：807-814.  
+[10] 毛建素，曾润，杜艳春，姜畔.中国工业行业的生态效率.环境科学，2010,31（11)：2788-2794.  
+[11] 戴铁军，陆钟武.钢铁企业生态效率分析.东北大学学报：自然科学版，2005，26(12)：1168-1173.  
+[12] 王飞儿，史铁锤.基于物质代谢的中国纺织业生态效率评价.中国人口·资源与环境，2008，18(6)：116-120.  
+[13] 杜艳春，姜畔，毛建素，徐琳瑜.焦作市工业行业的生态效率.环境科学，2011，32(5)：1529-1536.  
+[14] 秦昌才，刘树林.基于投入产出分析的中国产业完全碳排放研究.统计与信息论坛,2013，28(9)：32-38.  
+[15] 黄敏，黄炜.中国虚拟水贸易的测算及影响因素研究.中国人口·资源与环境，2016，26(4)：100-106.  
+[16] 陈锡康，杨翠红等.环境保护与水资源投入占用产出模型//陈锡康，杨翠红等.投入产出技术.北京：科学出版社，2011：245-246.  
+[17] 毋晓琴.建筑业及第三产业用水调查要点浅析.山西水利，2012，（9)：50-52.  
+[18］洪思扬，王红瑞，程涛，来文立，焦志倩.北京市第三产业用水特征及其发展策略.中国人口·资源与环境，2016，26(5)：108-116.
+
+![](images/70db0865920a48e3e89431a07e0c6e6c12828c052a344ed4940452b1a114db15.jpg)

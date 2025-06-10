@@ -1,0 +1,371 @@
+[
+    {
+        "type": "text",
+        "text": "近58a我国西北地区干期与湿期变化特征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "廉陆鹞，刘滨辉（东北林业大学林学院，黑龙江哈尔滨150030)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：利用西北地区1960—2017年68个站点逐日降雨气象数据,分别将日降雨小于（大于等于）$0 . 1 \\ \\mathrm { m m }$ 和 $1 \\ \\mathrm { m m }$ 定义为旱日（湿日），从干期和湿期变化特征的角度分析西北地区雨日年内分配变化。结果表明：西北地区东部年降雨量变化不明显，降雨频率下降，平均降雨强度增加;西北地区西部年降雨量、降雨频率和平均降雨强度均呈现增加趋势，平均降雨强度增加主要是由于降雨量增加速率快于降雨频率增加速率。结合干期和湿期变化特征，发现西北地区东部虽然干期旱日总数增加,但干期平均长度、干期次数和最长干期旱日数变化不明显，同时湿期湿日数和次数减少，说明西北地区东部在降雨量不变情况下，降雨更加集中。在西北地区西部，干期次数增加，但干期旱日总数、干期平均长度以及最长干期旱日数减少，湿期湿日数和湿期次数增加，湿期平均长度不变，西北地区西部在降雨量和降雨频率增加过程中，干期持续时间缩短,对该区域农业生产和生态环境有利。另外，使用不同阈值会影响特征值变化趋势大小及其显著性，甚至会得到相反的变化趋势，说明选择合理阈值对于研究降雨、干期以及湿期变化十分重要，需要结合区域气候特征进一步研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键 词：干期；湿期；雨日分配；阈值",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在全球变暖情况下，极端事件变得更加频发，其中干旱是造成全球经济损失最大的自然灾害，据统计,气象灾害造成损失中有一半以上来自干旱[1]作为农业大国，干旱是对我国农业生产、经济发展影响最大的自然灾害[2-3]。研究表明,我国西北地区温度上升速度明显快于全球以及中国平均变暖速度[4],这对原本生境脆弱的西北地区产生了巨大影响,尤其是对农业生产[5]。因此很多研究只关注在全球变暖情况下西北地区气候格局变化。经过多年研究发现，从20世纪70年代开始，西北地区气候由暖干向暖湿转型，主要表现为温度上升，冰川消融量增加,年降雨量以及河流径流量也呈现增加趋势[6-9]。目前,有大量研究从年降雨和不同强度等级降雨变化的角度研究西北地区水分供应特征的变化，结果表明，西北大部分地区在过去半个世纪里呈现变湿的趋势[10-15]。PDSI指数也反映出西北地区气候格局呈现变湿趋势[16]。但是降雨量增减无法完全反映区域干湿变化的真实情况，另外，PDSI指数在反映干旱特征时也会出现偏差。如果从降雨单一驱动要素来看，西北大部分地区确实是变湿，但如果使用降雨蒸发均一化指数研究发现，西北地区整体变干,只是在新疆北部以及青海变干较弱[17]GROISMAN等[18]在研究美国干期变化特征时指出,在某些情况下，PDSI指数与干期(Dryspells)特征反映的情况并不一致，主要原因是PDSI计算过程中如果在长期无雨日后出现一次强降雨，这种情况不会被认为是发生干旱。有研究通过分析干湿和湿期特征变化反映旱日和湿日在年内分配状况，是对区域水分供应状况变化的另外一个角度分析。西非撒哈拉地区在年降雨量和降雨频率增加同时，干期频率增加，平均长度缩短，这种情况下雨日在年内分配更加均匀，会减少旱涝灾害，对当地农业发展有利[19]。在美国,干期变化特征也被用来反映区域气候变化[20],同样 $\\mathrm { Y E } ^ { [ 2 1 ] }$ 在研究俄罗斯气候干湿状况时，将干期与湿期(Wetspells)变化特征结合起来反映雨日分配状况。在我国也使用干期与湿期反映区域气候特征,但是在研究过程中,对旱日（Dry day)阈值与湿日（Wet day）阈值定义存在差异[22-23]。目前，从干期和湿期变化特征角度研究西北地区干湿状况较少，并且对于阈值选择也有差异，例如HUANG等[24]在研究青海干期变化特征时,用小于$0 . 1 \\ \\mathrm { m m }$ 作为旱日阈值,而WANG等[12]在研究西北干旱区降雨特征时以小于 $1 \\ \\mathrm { m m }$ 作为旱日阈值。在美国，受雨量观测仪器影响，会使用 $2 . 5 4 \\ \\mathrm { m m }$ (0.1英寸)作为旱日阈值[20]。GROISMAN等[18]认为,小降雨不会到达地表，或无法有效补充土壤水分，对土壤水分特征影响较小，因此在分析干期变化特征中用 $1 \\ \\mathrm { m m }$ 作为阈值。为了比较不同阈值对计算干期与湿期变化特征结果的影响，分别使用 $0 . 1 \\ \\mathrm { m m }$ 和$1 ~ \\mathrm { m m }$ 作为旱日（湿日)阈值。研究的主要目的是通过分析干期与湿期变化规律,从雨日分配特征角度来探讨西北地区气候变化格局。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据和指标",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 数据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "降雨数据来自中国气象数据网所提供的数据集V3.0（data.cma.cn）。不同于温度等其他气候因子，降雨属于偶然事件，缺失值不能通过逐步回归进行插值处理。因此，当一个站点的观测值连续缺失3d或3d以上，以及在1a内观测值缺失30d以上,则剔除该站点[23]。1960 年以前各气象站点降雨观测值缺失较多，因此本次研究的开始时间为1960年，截止时间为2017年。筛选后的降雨数据集完整度为 $9 9 . 9 9 7 \\%$ ，表明西北地区东西部降雨特征存在空间差异，一般以 $1 0 0 ^ { \\circ } \\mathrm { E }$ 为界将西北地区划分为东、西部[14]。研究中西北地区（新疆、甘肃、青海、宁夏、陕西、内蒙古西部)站点共68个，其中东部站点30个，西部站点38个。图1为研究区域以及研究区域内气象站点分布。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 干期与湿期指标定义",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了比较阈值对结果影响，分别将日降雨量小于 $0 . \\mathrm { ~ 1 ~ } \\ \\mathrm { m m }$ 和 $1 ~ \\mathrm { m m }$ 定义为旱日。我们参考了BICHET等[19]有关西非撒哈拉地区干期和湿期的研究，定义干期和湿期。当连续出现2个或2个以上旱日时，定义为一个干期(Dry spell)。对于湿日定义，也使用两个阈值( $0 . 1 \\ \\mathrm { m m }$ 和 $1 \\ \\mathrm { m m }$ )，与干期定义一样，当连续出现2个或2个以上湿日时，定义为一个湿期（Wet spell）。这种定义方法可以描述干湿期总日数的变化，但无法反映干期和湿期的长短变化,依据LIU等[23]的研究,结合干期(湿期)次数和干期(湿期)平均长度反映干(湿)期变化特征,得出干期旱日总数、干期次数、干期平均长度、最长干期旱日数。反映湿期特征的指标有湿期湿日总数、湿期次数、湿期平均长度以及单独湿日日数。当出现一个湿日，并且在这个湿日的前一天和后一天均为旱日，则将这个湿日定义为单独湿日。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3885a5a05da09823dae66cdf7e519ab44db8c5919d8adcbe6fffa3f0abac5bcb.jpg",
+        "img_caption": [
+            "图1研究区域及区域内站点分布 Fig.1Research region and the distribution of stations within this region "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 降雨特征变化趋势 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "西北地区西部降雨量增加，东部降雨量减少[26-27]。从趋势大小以及站点趋势显著性水平来说，两个阈值选择对降雨量变化几乎没有影响,均表现为西北地区西部( $1 0 0 ^ { \\circ } \\mathrm { E }$ 以西)降雨量增加,东部（ $1 0 0 ^ { \\circ } \\mathrm { E }$ 以东)降雨量减少,并且减少区域主要集中在西北地区东南部（季风边缘区）（图 $2 \\mathrm { a } \\sim 2 \\mathrm { b }$ ，图3），但仅有一个站点是显著减少(表1)。西北地区降雨频率变化与降雨量变化类似，东部降雨频率减少，西部降雨频率增加，不同阈值对降雨频率变化影响较大。用 $0 . 1 \\ \\mathrm { m m }$ 作为雨日阈值时,东部降雨频率减少站点为24(14)个，括号内为通过显著性检验的站点个数，西部降雨频率增加站点为29（20）个，用 $1 \\ \\mathrm { m m }$ 作为雨日标准时，东部降雨频率减少站点为16（3），西部降雨频率增加站点为36（26）。用$0 . 1 \\ \\mathrm { m m }$ 作为雨日阈值时，东部平均降雨强度增加的站点有28(13)个，西部是34（19）个，用 $1 \\ \\mathrm { m m }$ 作为雨日阈值时，平均降雨强度呈现显著增加的站点在东西部都明显减少。使用 $0 . 1 \\ \\mathrm { m m }$ 和 $1 \\ \\mathrm { m m }$ 作为阈时,值东部降雨量相对变化趋势均为 $- 0 . 0 1 \\% \\cdot { \\mathrm { ~ a ~ } } ^ { - 1 }$ ，",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7bf8469d980060fa86c484cad1c3a49244f6ef0801aecf654e07f79c5d929877.jpg",
+        "img_caption": [
+            "图2不同阈值下年降雨量、降雨频率以及平均降雨强度变化趋势(相对趋势,单位： $\\% \\cdot { } _ { \\mathrm { ~ a ~ } } ^ { - 1 }$ )空间分布 Fig.2Spatial distributions of trends (relative trend,unit : $\\% \\cdot { } _ { \\mathrm { ~ a ~ } } ^ { - 1 }$ ）about annual precipitation amount,frequency and meanintensity in different thresholds "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1西北地区东西部降雨变化趋势站点统计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/1197eda06a8b48c8ea7f26de6ea0543fe8f7311dcd27be1833517a049aa7aeca.jpg",
+        "table_caption": [
+            "Tab.1Number of stations with positive or negative trendsofrainfall "
+        ],
+        "table_footnote": [
+            "注：括号内为趋势通过显著性检验( $( P < 0 . 1 )$ 的站点个数，下同 "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"2\">东部</td><td rowspan=\"2\">西部</td></tr><tr><td>增加趋势</td><td>减少趋势</td></tr><tr><td>降雨量 0.1 mm</td><td>15(4)</td><td>15(1)</td><td>增加趋势 减少趋势 35(24) 3(1)</td></tr><tr><td>1 mm</td><td>15(4)</td><td>15(1)</td><td>35(24) 3(1)</td></tr><tr><td>降雨频率0.1mm</td><td>6(2)</td><td>24(14)</td><td>29(20) 9(2)</td></tr><tr><td>1 mm</td><td>14(2)</td><td>16(3)</td><td>36(26) 2(2)</td></tr><tr><td>降雨强度0.1 mm</td><td>28(13)</td><td>2(0)</td><td>34(19) 4(0)</td></tr><tr><td>1 mm</td><td>23(5)</td><td>7(0)</td><td>30(9) 8(1)</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "西部降雨量增加趋势显著，分别为 $0 . 4 6 \\% \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ 与$0 . 4 9 \\% \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ （图3）。 $0 . 1 \\ \\mathrm { m m }$ 与 $1 ~ \\mathrm { m m }$ 两个阈值选择对降雨量影响不大，但是对降雨频率和平均降雨强度的计算影响较大。主要原因是在西北地区，1$\\mathbf { m } \\mathbf { m }$ 以下降雨事件的降雨量只占年总降雨量 $7 \\%$ 左右，而 $\\mathrm { ~ 1 ~ m m }$ 以下降雨事件的降雨频率占年总降雨频率 $5 0 \\%$ 左右，说明 $1 \\ \\mathrm { m m }$ 以下降雨事件变化对年降雨量变化影响较小，对年降雨频率产生较大影响。在过去58a中，西北地区 $1 \\ \\mathrm { m m }$ 以下降雨事件显著减少，尤其是在有变干趋势的西北地区东部，因此使用不同阈值计算得到的降雨频率和降雨强度趋势大小以及显著性有明显差异。从降雨量变化特征角度看，西北地区西部呈现变湿趋势，东部干湿状况没有明显变化特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 干期变化趋势 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "西北地区西部降雨量增加，东部降雨量减少已经得到众多学者认可[28],施雅风经过多年研究提出西北地区气候格局正经历由暖干向暖湿转变过",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "注：横轴中1-年降雨量,2-年降雨频率,3-年平均降雨强度,4-干期旱日总数,5-干期次数,6-干期平均长度,7－最长干期旱日数，8-湿期湿日总数,9-湿期次数，10-湿期平均长度，11-单独湿日次数; $\\ast$ 表示显著性检验 $P < 0 . 1$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/09ea2978359bd53e4f6c5a5a0549e3bf51cad6abf9b1cd1b4f8def7272a6ec42.jpg",
+        "img_caption": [
+            "图3东西部降雨、干期以及湿期相对变化趋势",
+            "Fig.3Relative trends of precipitation,dry spell and wet spellin east（a）and west（b）of northwest China "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "程[6-7]。我们通过不同阈值分析也支持西北地区西部变湿趋势。在东部，从降雨量变化趋势看，干湿状况没有发生明显变化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图4是干期变化趋势空间分布。西北地区西部干期旱日总数显著减少,东部干期旱日总数显著增加。如表2所示，使用 $0 . 1 \\ \\mathrm { m m }$ 作为旱日阈值时，西北地区东部干期旱日总数呈现增加趋势站点有24(14)个，西北地区西部干期旱日总数呈现减少趋势站点有30(17)个，当使用 $1 ~ \\mathrm { m m }$ 作为旱日阈值时,东部干期旱日总数显著增加的站点减少，而在西部显著减少的站点增加。干期次数在西北地区西部明显增加，使用 $0 . 1 \\ \\mathrm { m m }$ 和 $1 \\ \\mathrm { m m }$ 作为阈值时，干期次数增加站点分别为33（15）36（23），在东部，干期次数变化并不明显。干期平均长度在西北地区西部明显缩短，在西北地区东南部,干期平均长度呈现增加趋势。最长干期旱日数在西北地区主要呈现下降趋势，并且主要集中在西部，当以 $1 \\ \\mathrm { m m }$ 作为旱日阈值",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2西北地区东西部干期变化趋势站点统计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a8d8e35ecdbde5911a780194075742ebc765d78925c3d4cd456dc28c483a84ae.jpg",
+        "table_caption": [
+            "Tab.2Number of stations with positive or negative trends about the dry spells "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\" colspan=\"2\"></td><td colspan=\"2\">东部</td></tr><tr><td>增加趋势 减少趋势</td><td>增加趋势 减少趋势</td></tr><tr><td>干期旱</td><td>0.1 mm</td><td>24(14) 6(1)</td><td>8(2) 30(17)</td></tr><tr><td>日总数</td><td>1 mm</td><td>16(3) 14(2)</td><td>3(2) 35(27)</td></tr><tr><td>干期</td><td>0.1 mm</td><td>18(1) 12(1)</td><td>33(15) 5(2)</td></tr><tr><td>次数</td><td>1 mm</td><td>20(1) 10(0)</td><td>36(23) 2(1)</td></tr><tr><td>干期平</td><td>0.1 mm</td><td>20(6) 10(0)</td><td>5(2) 33(17)</td></tr><tr><td>均长度</td><td>1 mm</td><td>12(2) 18(2)</td><td>2(1) 36(22)</td></tr><tr><td>最长干期</td><td>0.1 mm</td><td>15(1) 15(0)</td><td>9(1) 29(11)</td></tr><tr><td>旱日数</td><td>1 mm</td><td>12(0) 18(4)</td><td>4(1) 34(16)</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "时，西部最长干期旱日数呈现下降趋势有34（16）个站点。我们通过不同阈值计算区域干期变化趋势发现，不同阈值不仅会导致变化趋势大小不同，甚至会产生相反的变化趋势，如图3所示，当用 $0 . 1 \\ \\mathrm { m m }$ 作为旱日阈值时，西北地区东部干期平均长度以及最长干期旱日数呈现不显著增加趋势，但用 $1 \\ \\mathrm { m m }$ 作为阈值时，干期这两个特征呈现不显著减少趋势。总体来说，不同阈值对指标的影响主要体现在变化幅度上。从干期变化特征角度来看，在西北地区西部降雨量增加情况下，干期次数明显增加，而干期平均长度缩短，干期旱日总数减少，并且最长干期也明显缩短。西北地区东部降雨量变化不明显，但是受降雨频率减少影响，西北地区东部干期旱日总数显著增加，其他干期特征变化不明显。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 湿期变化趋势 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图5为西北地区湿期变化趋势空间分布。湿期的定义是连续两天或两天以上出现湿日，但在塔克拉玛干沙漠附近由于降雨量极少，当用 $1 \\ \\mathrm { m m }$ 作为湿日阈值时，部分站点(11个)在58a中有10a以上没有出现湿期，这些站点在图5中用实心正方形表示。如图 $5 \\mathrm { a } \\sim 5 \\mathrm { b }$ ，不同阈值都表现出湿期湿日总数在西北地区西部呈现增加趋势，在东部呈现减少趋势，用 $0 . 1 \\ \\mathrm { m m }$ 作为湿日阈值时，东部有25（15）个站点呈现减少趋势，用 $1 \\ \\mathrm { m m }$ 作为阈值时，东部湿期湿日总数呈现显著减少趋势的站点减少到5个。湿期次数变化特征与湿期湿日总数变化特征相似，西北地区西部湿期次数明显增加，东部湿期次数减少。当使用 $1 \\ \\mathrm { m m }$ 作为湿日阈值时，除了降雨极少的站点，在北疆所有站点湿期湿日总数与湿期次数都呈现增加趋势。湿期平均长度在西北地区西部变化并不一致，只有个别站点表现出显著增加趋势，在西北地区东部,当用 $0 . 1 \\ \\mathrm { m m }$ 作为湿日阈值时，有23（8）个站点呈现减少趋势，并且主要集中在季风边缘区。在西北地区，单独湿日占总湿日较大比例，使用0.1$\\mathbf { m } \\mathbf { m }$ 作为阈值时，这一比例为 $36 \\%$ ,当使用 $1 \\ \\mathrm { m m }$ 作为阈值时，这一比例达到 $5 2 \\%$ 。如图 $4 \\mathrm { g } \\sim 4 \\mathrm { h }$ 所示，单独湿日日数在西北地区西部呈现增加趋势，在西北地区东部单独湿日日数变化不明显，当用 $1 \\ \\mathrm { m m }$ 作为湿日阈值时，单独湿日在西部增加更明显，有35(10)个站点呈现增加趋势。从湿期变化特征来看，在西北地区西部年降雨量和降雨频率增加过程中，湿期湿日总数，湿期次数以及单独湿日次数增加，湿期平均长度变化不明显。在西北地区东部虽然降雨量变化不明显，但湿期湿日数以及湿期次数呈现显著减少趋势（表3）。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/54d759ee2ecb7c6ffaba46c7d71df94e449be0b98bb39fc23740e1abc78f7eb5.jpg",
+        "img_caption": [
+            "图4不同阈值下干期旱日总数、干期次数、干期平均长度以及最长干期旱日数变化趋势空间分布 Fig.4Spatialdistributionsof trendsabout totalnumberofdrydaysindryspels,numberofdryspells,meanlengthof dry spells and maximum length of dry spells in different thresholds "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/78ff0c76c79e3d801731f0c072914beedf31d1828ee136280f24b35c33001ee3.jpg",
+        "img_caption": [
+            "图5不同阈值下湿期湿日总数、湿期次数、湿期平均长度以及单独湿日次数变化趋势空间分布 Fig.5Spatial distributionsof trendsabouttotal numberofwetdays inwetspels,numberof wetspels,meanlengthof wet spells and number of isolated wet days in different thresholds "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结论与讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）在西北地区，平均降雨强度呈现显著增加趋势，但在不同区域年降雨量和降雨频率变化存在差异。在西北地区东部年降雨量变化不明显，年降雨频率呈现显著减少趋势；在西北地区西部年降雨量和降雨频率呈现显著增加趋势，并且降雨量增加速率快于降雨频率增加速率。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）在西北地区西部，干期次数增加，干期旱日总数、干期平均长度以及最长干期旱日数减少，湿期湿日总数、湿期次数以及单独湿日日数显著增加，湿",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表3西北地区东西部干期变化趋势站点统计",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/a029c587fa598eaec98eed4d729a32a98603a9373d0c3364e0a68804b9673a43.jpg",
+        "table_caption": [
+            "Tab.3Number of stations with positive or negative trends about the wet spells "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\"></td><td colspan=\"2\">东部</td><td colspan=\"2\">西部</td></tr><tr><td>增加趋势</td><td>减少趋势</td><td>增加趋势</td><td>减少趋势</td></tr><tr><td>湿期湿</td><td>0.1 mm 5(1)</td><td>25(15)</td><td>27(9)</td><td>11(1)</td></tr><tr><td>日日数</td><td>1 mm 11(0)</td><td>18(5)</td><td>27(11)</td><td>1(0)</td></tr><tr><td>湿期</td><td>0.1 mm</td><td>6(1) 24(10)</td><td>27(12)</td><td>11(0)</td></tr><tr><td>次数</td><td>1 mm</td><td>11(1) 18(4)</td><td>27(12)</td><td>1(0)</td></tr><tr><td>湿期平</td><td>0.1 mm</td><td>7(1)</td><td>23(8) 20(5)</td><td>18(1)</td></tr><tr><td>均长度</td><td>1 mm</td><td>11(1)</td><td>18(2)</td><td>14(5) 14(1)</td></tr><tr><td>单独</td><td>0.1 mm</td><td>18(2)</td><td>12(1)</td><td>29(10) 9(2)</td></tr><tr><td>湿日</td><td>1 mm</td><td>18(5)</td><td>12(0)</td><td>35(20)</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "期平均长度不变。从降雨、干期以及湿期角度看，在湿日日数增加过程中，湿日和湿期在年内分布更加均匀,导致干期次数虽然增加但是干期平均长度缩短,这与BICHET等[19]研究的非洲西部撒哈拉地区变湿特征相似。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3）在西北地区东部，干期旱日总数增加，干期次数、干期平均长度以及最长干期旱日数变化不明显，湿期湿日总数、湿期次数以及湿日平均长度减少，单独湿日变化不明显。单从降雨或旱期角度看，在西北地区东部水分供应状况没有发生明显变化，但是结合湿期变化特征，虽然降雨量没有明显变化趋势，但是受降雨频率减少影响，湿期湿日总数以及湿期次数减少，这一变化与该区域极端降雨变化趋势相吻合[29-30],说明西北地区东部降雨量虽然没有明显变化但降雨更加集中，这种情况可能会增加干旱和洪涝风险，这对区域农业生产以及生态环境不利。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）通过对西北地区干期和湿期变化特征的分析发现，西北地区东部虽然降雨量没有变化，但是受降雨频率减少，降雨强度增加的影响，降雨更加集中。西北地区西部在降雨量增加过程中，湿日总日数增加，但是湿期平均长度并没有增加，增加的是湿期次数和单独湿日次数，因此，干期次数增加但是平均长度缩短，表明雨日在年内分配更加均匀，这有利于缓解西北地区西部干旱情况。在使用其他指标的研究中，水分供应特征变化也存在类似的空间特征。例如，标准化降雨蒸发指数(SPEI)分析表明中国干旱区变湿,尤其是在新疆塔里木河流域[31],LIU等[32]使用干旱指数(潜在蒸发与降雨量比值)研究表明，在1960—2010 年，西北地区干旱指数显著减小。PDSI干旱指数计算结果表明，干旱区域面积在西北地区东部呈现增加趋势，在西部呈现减少趋势[16]。陈亚宁等[33]研究发现西北地区干湿变化区域特征明显，变湿区域主要集中在新疆地区，而在河西走廊东部的季风边缘区呈现变干趋势。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2）总体来看，在西北地区西部变湿的过程中水分供应特征的变化有利于缓解该区域干旱情况，而在西北地区东部存在干旱灾害增加的风险。在分析降雨特征变化过程中，选择不同阈值会对结论产生影响[34]。在阈值计算同一组数据,结果表明不同阈值对降雨量变化影响不大，对降雨频率影响较大，进而影响干期和湿期特征变化。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）在分析西北地区降雨、干期以及湿期变化特征时，阈值选择十分重要，如果选用 $0 . 1 \\ \\mathrm { m m }$ 作为阈值，将只占年降雨量 $7 \\%$ 而占年降雨频率 $5 0 \\%$ 左右的降雨事件（ $1 \\ \\mathrm { m m }$ 以下降雨事件)考虑在内，所反映出来的降雨、干期以及湿期变化特征是否合理，这值得我们去进一步研究。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]OBASI G O P.WMO's role in the international decade for natural disaster reduction[J].Bulletin of the American Meteorological Society,1994,75(9) :1655-1661.   \n[2]任瑾,罗哲贤.从降水看我国黄土高原地区的干旱气候特征 [J].干旱地区农业研究,1989，（2）:36-43.［RENJin,LUO Zhexian.Dry climatological feature on the Loess Plateau in view of rainfall in China[J].Agricultural Research in the Arid Areas, 1989，(2):36-43.]   \n[3]钱正安,吴统文,宋敏红,等.干旱灾害和我国西北干旱气候的 研究进展及问题[J].地球科学进展，2001，16（1）：28－38. [QIAN Zheng'an,WU Tongwen,SONG Minhong,et al.Arid disaster and advances in arid climate researches over northwest China [J].Advance in Earth Sciences,2001,16(1）:28-38.]   \n[4］于淑秋,林学椿,徐祥德.我国西北地区近50 年降水和温度的 变化[J].气候与环境研究,2003,8（1):9-18.[YU Shuqiu, LIN Xuechun,XU Xiangde.The climatic change in northwest China in recent 5O years[J].Climatic and Environmental Research, 2003,8(1):9-18.]   \n[5］张强,邓振镛,赵映东,等.全球气候变化对我国西北地区农业 的影响［J].生态学报,2008,28（3）：1210-1218.［ZHANG Qiang,DENG Zhenyong,ZHAO Yingdong,et al. The impacts of global climatic change on the agriculture in northwest China[J]. Acta Ecologica Sinica,2008,28(3）:1210-1218.]   \n[6]施雅风,沈永平,胡汝骥.西北气候由暖干向暖湿转型的信号、 影响和前景初步探讨[J].冰川冻土，2002，24（3）：219-226. [SHI Yafeng,SHEN Yongping,HU Ruji.Preliminary study on signal,impact and foreground on climatic shift from warm-dry to warm-humid in northwest China［J].Journal of Glaciology and Geocryology,2002,24(3）:219-226.]   \n[7］施雅风,沈永平,李栋梁,等.中国西北气候由暖干向暖湿转型 的特征和趋势探讨[J].第四纪研究,2003,23（2）：152－164. [SHI Yafeng,SHEN Yongping,LI Dongliang,et al. Discussion on the present climate change from warm-dry to warm-wet in northwest China[J].Quaternary and Sciences,2003,23(2）:152-164.]   \n[8]杨晓丹,翟盘茂.我国西北地区降水强度、频率和总量变化 [J].科技导报,2005,23（6）:24-26.[YANG Xiaodan,ZHAI Panmao.Changes in precipitation intensity,frequencyand total in northwest China[J].Resource & Environment Review,2005,23 (6):24 -26.]   \n[9]闫炎,赵昕奕,周力平.近50年中国西北地区干湿演变的时空特 征及其可能成因探讨[J].干旱区资源与环境,2010,24(4);38- 44.[YAN Yan,ZHAO Xinyi,ZHOU Liping.The temporal and spatial characteristics of aridity and wetness variation in northwest China during recent 5O years and the factor analysis[J]. Journal of Arid Land Resources and Environment,2010,24(4） :38-44.]   \n[10］齐月,陈海燕,房世波,等.1961—2010 年西北地区极端气候事 件变化特征[J].干旱气象,2015,33(6）:963-969.[QI Yue, CHEN Haiyan,FANG Shibo,et al.Variation characteristics of extreme climate events in northwest China during 1961——2010[J]. Journal of Arid Meteorology,2015,33(6）:963-969.]   \n[11］汪宝龙,张明军,魏军林,等.西北地区近50a气温和降水极端 事件的变化特征[J].自然资源学报,2012（10）：1720-1733. [WANG Baolong,ZHANG Mingjun,WEI Junlin,et al. The change in extreme events of temperature and precipitation over northwest China in recent 5O years[J].Journal of Natural Resources,2012, 27(10) :1720 -1733. ]   \n[12]WANG H J,CHEN Y N,CHEN Z S.Spatial distribution and temporal trends of mean precipitation and extremes in the arid region, northwest of China,during 1960—2010[J].Hydrological Processes,2013,27(12) :1807 -1818.   \n[13］陈少勇,任燕,乔立,等.中国西北地区大雨以上降水日数的时 空分布特征[J].资源科学,2011,33（5）：958-965.［CHEN Shaoyong,REN Yan,QIAO Li,et al. Temporal and spatial distribution characteristics of days with above heavy rainfall over northwestern China[J].Resource Science,2011,33(5）:958 -965.]   \n[14］陈冬冬,戴永久.近五十年我国西北地区降水强度变化特征 [J].大气科学,2009,33（5）:923-935.[CHEN Dongdong,DAI Yongjiu. Characteristics of northwest China rainfall intensity in recent 50 years[J].Chinese Journal of Atmospheric Science,2009 33(5) :923 -935.]   \n[15］刘波,肖子牛.1961—2005 年新疆区域分级雨日（量)的气候 特征[J].干旱区地理,2011,34（3）:419-428.[LIU Bo,XIAO Ziniu. Climatic feature of gradedrain in Xinjiang from 1961 to 2005[J].Arid Land Geography,2011,34（3）:419 -428.]   \n[16]ZOU X K,ZHAI P M,ZHANGQ.Variations in droughts over China:1951——2003[J]. Geophysical Research Letters,2005,32（4）: 353-368.   \n[17］杨金虎,江志红,刘晓芸,等.近半个世纪中国西北干湿演变及 持续性特征分析［J].干旱区地理,2012,35（1)：10－22. [YANG Jinhu,JIANG Zhihong,LIU Xiaoyun,et al. Influence research on spring vegetation of Eurasia to summer drought-witness over the northwest China[J].Arid Land Geography,2012,35（1）: 10 -22.]   \n[18]GROISMAN P Y,KNIGHT R W.Prolonged dry episodes over the conterminous United States：New tendencies emerging during the last 40 years[J]. Journal of Climate,2010,21(9）:1850-1862.   \n[19]BICHET A,DIEHIOU A. West African Sahel has become wetter during the last 3O years,but dry spells are shorter and more frequent[J]. Climate Research,2018,75(2）:155 -162.   \n[20]MCCABE G J,LEGATES D R,LINS HF.Variability and trends in dry day frequency and dry event length in the southwestern United States[J].Journal of Geophysical Research Atmospheres,2010, 115（D7） : D07108.   \n[21]YE HC.Changes indurationof dryand wet spellsasociated with air temperatures in Russia[J].Environmental Research Leters, 2018,13(3) :1 -14.   \n[22]LEI Y H,DUAN A M. Prolonged dry episodes and drought over China[J]. International Journal of Climatology,2011,31（12）： 1831 -1840.   \n[23]LIU X D,LIU B H,HENDERSON M,et al. Observed changes in dry day frequency and prolonged dry episodes in northeast China[J]. International Journal of Climatology,2015,35(2）:196-214.   \n[24]HUANG J,LIU FL,XUE Y,et al. The spatial and temporal analysis of precipitation concentration and dry spell in Qinghai,northwest China[J].Stochastic Environmental Research & Risk Assessment,2015,29(5）:1403-1411.   \n[25]ZHANG Q,SINGHV P,LI JF,et al. Analysis of the periods of maximum consecutive wet days in China[J]. Journal of Geophysical Research Atmospheres,2011,116(D23）:D23106.   \n[26］张,李晶,任志远.西北地区1962年至2000 年降水量变化的 时空特征分析［J].资源科学,2010,32（12）：2298－2304. [ZHANG Chong,LI Jing,REN Zhiyuan. Spatial and temporal characteristics of precipitation changes from 1962 to 20o0 in northwesterm China[J]. Resources Science,2010,32（12）: 2298- 2304.]   \n[27］白爱娟,刘晓东.从气候标准的改变分析西北地区的气候变化 [J].干旱区研究,2005,22(4）:458-464.[BAI Aijuan,LIU Xiaodong.Analysis on the climate change from warming-drying trend to warming-wetting trend in northwest China[J].Arid Zone Research,2005,22(4）:458-464.]   \n[28］任国玉,袁玉江,柳艳菊,等.我国西北干燥区降水变化规律 [J].干旱区研究,2016,33（1）:1-19.[REN Guoyu,YUAN Yujiang,LIU Yanju,et al.Changes in precipitation over northwest China[J]. Arid Zone Research,2005,22(4）:458 -464.]   \n[29］赵红岩,王有恒,王兴,等.1961—2008 年中国西北东部旱涝异 常分布及干旱变化特征[J].干旱区地理,2012,35(4）：552- 558.[ZHAO Hongyan,WANG Youheng,WANG Xing,et al. Anomaly distribution of drought-flood and changing characteristics of arid over eastern northwest China during 1961—2008［J].Arid Land Geography,2012,35(4）: 552 -558.]   \n[30］钱莉,杨永龙,张宇林,等.河西走廊东部极端降水的时空分布 及影响因子分析[J].干旱区地理,2015,38（2）：207－214. [QIAN Li,YANG Yonglong,ZHANG Yulin,et al. Temporal and spatial distribution and influence factors of extreme precipitation in eastern Hexi Corridor[J].Arid Land Geography,2O15,38（2）： 207 -214.]   \n[31］WANGHJ,CHEN YN,PAN YP.Characteristics of drought in the arid region of northwestern China[J].Climate Research,2015, 62(2):99-113.   \n[32]LIU X M,ZHANG D,LUOY Z,et al.Spatial and temporal changes in aridity index in northwest China：196O to 2010[J].Theoretical ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "&Applied Climatology,2013,112(1-2）:307-316. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[33］陈亚宁，王怀军,王志成,等.西北干旱区极端气候水文事件特 征分析[J].干旱区地理,2017,40（1):1-9.[CHEN Yaning, WANGHuaijun,WANG Zhicheng,etal.Characteristics of extreme climatic/hydrological events in the arid region of northwestern China[J].Arid Land Geography,2017,40(1）:1-9.]   \n[34]PENDERGRASS AG.What precipitation is extreme[J]? Science, 2018,360(6393):1072-1073. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Change characteristics of dry and wet spells in northwest China during the past 58 years ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "LIAN Lu-yao， LIU Bin-hui (School ofForestry,NortheastForest University,Harbin15oo3O,Heilongjiang,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Northwest China has become warmer and weter during the past several decades,which has profound influenceon the fragileecological environment.Inthis study,using thedaily precipitation dataof 68 stations in northwest China from 196O to 2O17,setting daily precipitation less than （greater than or equal to） $0 . 1 \\ \\mathrm { m m }$ and less than （greater than or equal to） $1 ~ \\mathrm { m m }$ as dry day（wet day）,respectively.The distribution of precipitation during the year was analyzed based on indicators of dry and wet spels.The results show that in adition to the change of number of dryand wetdays,the distribution ofthe dryand wet days alsochanges during the year.There are spatial diferences in the changecharacteristic of rainfall,dry spellsand wet spells in the northwest China.In theeastern part of northwest China,the total number of dry periods was increased,the number of dryspels and mean length of dry spells and maximum length of dry spells did notchange significantly,while wet daysand wet spells were decreased.In the absenceofsignificantchanges inrainfallintheregion,thefrequencyofrainfall was decreased significantlyand the average rainfallintensity was increased significantly.In the western part of northwest China,the increase of rainfallis caused bythe increase of rainfallintensityand frequency.The characteristics of dry and wet period change show that wet days were more dispersed during the year,andthe total number of wet days in wet spells and the numberof wet spels were increased,while there was no significant change in the mean length of wet spells. On the other hand,the number ofdry spels was increasedand the mean length of dry spells and maximum length of dryspells were decreased,which could alleviate the drought condition in the western part of northwest China.Diferentfromthe long-term drought research,the distribution of dry daysand wet days during the year were analyzed fromtheperspective ofthe change characteristics of dryand wet spels.Bythis way,the short-term watercondition in these regionscanbe beter demonstrated.In addition,the threshold of wet days and drydays have obvious influence on the results,which needs to be further studied according to the regional climate condition. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:dry spell；wet spell；distribution of precipitation；threshold ",
+        "page_idx": 8
+    }
+]

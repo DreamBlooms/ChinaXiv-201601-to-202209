@@ -1,0 +1,414 @@
+[
+    {
+        "type": "text",
+        "text": "Shrub modulates the stoichiometry of moss and soil in desert ecosystems, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Yonggang1,2, ZHOU Xiaobingl, ZHANG Yuanming1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1KeyLaboratoryofiogeographyandBioresourceinAridLand,XinjiangInstituteofEcologyandGeographyChineseAcademy of Sciences,Urumqi 830011,China;   \n2 University of Chinese Academy of Sciences,Beijing 100049,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Desert mosses, which are important stabilizers in desert ecosystems,are distributed patchily under and between shrubs. Mosses difer from vascular plants in the ways they take up nutrients. Clarifying their distribution with ecological stoichiometry may be useful in explaining their mechanisms of living in different microhabitats. In this study, Syntrichia caninervis,the dominant moss species of moss crusts in the Gurbantunggut Desert, China, was selected to examine the study of stoichiometric characteristics in three microhabitats (under living shrubs,under dead shrubs and in exposed ground). The stoichiometry and enzyme activity of rhizosphere soil were analyzed. The plant function in the above-ground and below-ground parts of $S$ ，caninervis is significantly different, so the stoichiometry of the above-ground and below-ground parts might also be different. Results showed that carbon (C), nitrogen (N) and phosphorus (P) contents in the below-ground parts of S.caninervis were significantly lower than those in the above-ground parts. The highest $\\mathrm { \\Delta N }$ and $\\mathrm { \\Delta P }$ contents of the two parts were found under living shrubs and the lowest under dead shrubs. The C contents of the two parts did not differ significantly among the three microhabitats. In contrast,the ratios of C:N and C:P in the below-ground parts were higher than those in the above-ground parts in all microhabitats, with significant differences in the microhabitats of exposed ground and under living shrubs. There was an increasing trend in soil organic carbon (SOC)，soil total nitrogen (STN), soil available phosphorous (SAP),and C:P and N:P ratios from exposed ground to under living shrubs and to under dead shrubs.No significant diferences were found in soil total phosphorous (STP) and soil available nitrogen (SAN),or in ratios of C:N and SAN:SAP. Higher soil urease (SUE) and soil nitrate reductase (SNR) activities were found in soil under dead shrubs, while higher soil sucrase (STC) and soil $\\beta$ -glucosidase (SBG) activities were respectively found in exposed ground and under living shrubs. Soil alkaline phosphatase (AKP) activity reached its lowest value under dead shrubs,and there was no significant difference between the microhabitats of exposed ground and under living shrubs. Results indicated that the photosynthesis-related C of $S$ . caninervis remained stable under the three microhabitats while $\\mathrm { \\Delta N }$ and $\\mathrm { \\Delta P }$ were mediated by the microhabitats. The growth strategy of $S$ ，caninervis varied in different microhabitats because of the diferent energy cycles and nutrient balances. The changes of stoichiometry in soil were not mirrored in the moss. We conclude that microhabitat could change the growth strategy of moss and nutrients cycling of moss patches. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:moss stoichiometry；Syntrichia caninervis；microhabitats;soil stoichiometry;soil enzyme; Gurbantunggut Desert ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation:LIYonggang,ZHOU Xiaobing,ZHANGYuanming.2019.Shrub modulates thestoichiometryofmossandsoilindesert ecosystem,China.Journal ofArid Land,11(4): 579-594.https://doi.org/10.1007/s40333-019-0057-y ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Biological soil crusts (BSCs), composed of various combinations of cyanobacteria, bacteria, algae, fungi, lichens and bryophytes (mosses and liverworts),are widely distributed in arid and semi-arid areas (Belnap et al.,1994; Belnap,2003).BSCs are separated into different patches in the field, and each patch can be regarded as a microsystem (Bowker et al., 2O13). The organisms comprising the patches survive in different microenvironments and have different physiological features and growth forms that are responsive to these microenvironments (Hamerlynck et al., 20o2; Pintado et al.,2005; Zhang et al.,2007; Yin and Zhang,2016). Moss crusts are mostly recognized to be the highly developed stage in the ecological successon of BSCs and play a major role in these microecosystems (i.e., BSCs), where they can influence nutrient cycling (Cornelissen et al., 2007). However,unlike vascular plants, mosses lack roots, thus their accesses to soil nutrients are limited. Mosses also lack well-developed vascular systems compared with vascular plants,which restrains the transport of nutrients from soil to shoots.Mosses can take up nutrients directly from the soil, wet deposition,or dry deposition by passive sorption of mineral ions and metals on their outer surface (Bates,2Ooo). However, it is not clear that whether the stoichiometry of moss plants is similar to that of vascular plants. Documenting the stoichiometry of mosses and exploring how mosses respond to diferent microhabitats are important in understanding the adaptive mechanisms of mosses in desert ecosystems. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Carbon (C), nitrogen (N) and phosphorous (P) are essential components of all organisms. C is produced by photosynthesis and is the substrate and energy source for physiological activities. N and $\\mathrm { ~ \\bf ~ P ~ }$ are major nutritional elements involved in plant growth and physiology, playing key roles in plant function (Koerselman and Meuleman,1996; Elser, 2000; Gusewell, 2004; Hedin, 2004). N and $\\mathrm { ~ \\bf ~ P ~ }$ also regulate some ecosystem processes， such as nutrient cycle, energy cycle, species distribution and community succession (Whittaker et al.,1979; Reich and Oleksyn,2004; Niklas et al., 2005; Sasaki et al., 2010). C, N and $\\mathrm { ~ \\bf ~ P ~ }$ are major components of plants and soil, and directly affect soil microbial biomass,the ratio of litter decomposition to nutrients,the accumulation of soil organic C,and nutrient cycling (Keiblinger et al., 2012; Agren et al., 2013; Kirkby et al.,2013; Li et al.,2013;Heuck et al.,2015). As C, N and $\\mathrm { ~ \\bf ~ P ~ }$ vary in both plants and soil, they can reflect changes in the trophic structure of ecosystems, and provide the basis for biogeochemical cycling (Sinsabaugh et al.,2013; Wang et al., 2014; Buchkowski et al.,2015; Stephens et al., 2015; Wang et al.,2015). Their ratios could indicate the structure and function of ecosystems on a macro-scale. Soil enzyme activity links environmental nutrient availability with microbial production. In large-scale patterns,soil enzyme activity might be related to microbial biomass stoichiometry and soil organic mater composition (Xu et al., 2017). Thus, the combined analysis of plant C, N and P and related soil nutrient and enzyme characteristics,is important to clarify the stoichiometry of moss and soil. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Desert ecosystems, occupying one-fifth of the Earth's land surface,have some key characteristics: low biodiversity, low stability and low levels of soil nutrient (Whitford,2002；Ward,2009). Previous studies indicated that leaves of desert shrubs are relatively high in N content and the N:P ratio is high despite the low levels of N in most desert soils (Whittaker et al.,1979).For example, the ratio of N:P and the $\\mathrm { \\Delta N }$ and $\\mathrm { ~ \\bf ~ P ~ }$ contents in leaves of desert plants in most desert ecosystems in China (Zheng and Shangguan,2007; Li et al.,2013; Zhang et al.,2014; Tao et al.,2016) are higher than those in other ecosystems in China (Han et al., 2005） or globally (Elser,2000; Reich and Oleksyn, 2O04),which reveals differences in plant nutrient limitation and soil nutrient supply potential (Sardans et al.,2011,2012;He et al.,2014; Wu et al.,2014; Tao et al., 2016). Soil stoichiometry is significantly correlated to plant growth,and directly influence the composition, structure and productivity level of ecological communities (Andersen et al.,2010; Yan et al., 2015). Previous studies have greatly advanced our understanding of the variations and patterns of $\\mathrm { \\Delta N }$ and $\\mathrm { ~ \\bf ~ P ~ }$ in leaves of vascular plants in desert ecosystems.It is widely accepted that vascular plants from different ecosystems have different stoichiometry strategies. However,whether differences exist among non-vascular plants (i.e., desert mosses) from different microhabitat patches (such as under and between shrubs) is stillan interesting and important subject that deserves attentions. In addition, different parts of vascular plants also have different stoichiometry strategies (Chen et al.,2016; He et al.,20i6). Is this true for the above-ground and below-ground parts of moss? Furthermore, how does the change of moss stoichiometry in different microhabitats? Little attention has been paid to these issues. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Moss crusts are widely distributed in the Gurbantunggut Desert, China.Previous studies have reported that soil nutrient contents change in moss patches of different sizes (Ji et al.,2O14). In this study,we focused on the stoichiometry strategies of moss and soil, and their responses to three different microhabitats (i.e.,under living shrubs,under dead shrubs and in exposed ground). We suggested three possible hypotheses.First, since mosses lack roots and well-developed vascular systems, and also because nutrient absorption and C fixation mainly occur in the above-ground parts, we hypothesized that the C,N and P contents of the above-ground parts are higher than those of the below-ground parts.Second, because the 'fertile islands' effect of shrubs can influence the growth and physiology of moss，the stoichiometry of moss patches differs among different microhabitats in exposed ground, under living shrubs and under dead shrubs. In addition, soil stoichiometry and soil enzyme activity are significantly different in the three microhabitats.Third, the correlations between moss stoichiometry and soil stoichiometry,soil stoichiometry and soil enzyme activity, and moss stoichiometry and soil enzyme activity are low because nutrients in moss shoots are mainly taken up from the atmospheric wet and dry deposition. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The study was conducted in the Gurbantunggut Desert $( 4 4 ^ { \\circ } 1 1 ^ { \\prime } - 4 6 ^ { \\circ } 2 0 ^ { \\prime } \\mathrm { N }$ ， $8 4 ^ { \\circ } 3 1 ^ { \\prime } \\mathrm { - } 9 0 ^ { \\circ } 0 0 ^ { \\prime } \\mathrm { E }$ ；300-600 m a.s.l.)，which is located in the center of the Jungger Basin，northwestern China. The Gurbantunggut Desert is the largest fixed and semi-fixed desert in China,covering an area of $4 . 8 8 \\times 1 0 ^ { 4 } \\ \\mathrm { k m } ^ { 2 }$ . Annual precipitation ranges from 70 to $1 6 0 \\ \\mathrm { m m }$ ，while potential mean annual evaporation is estimated at $2 6 0 7 ~ \\mathrm { m m }$ . Annual mean temperature is $7 . 2 6 ^ { \\circ } \\mathrm { C }$ (Zhang et al., 2007; Zhou et al.,2010). Vegetation in the area is dominated by Haloxylon ammodendron,Haloxylon persicum, Artemisia songarica, Seriphidium terrae-albae, Ephedra distachya and Calligonum spp. (Wang et al., 2003; Zhang et al., 2Oo5). Shrubs grow both on the dunes and inter-dune areas. The moss Syntrichia caninervis was selected for our study due to the following two reasons: (1) it is widely distributed in arid lands worldwide (Reed et al.，2O12),and also in the Gurbantunggut Desert (coverage of $30 \\%$ ） (Zhang et al., 2007; Ji et al.,2013); and (2) mosses are poikilohydric, therefore in times of severe drought, photosynthesis and respiration are reduced to the point where S.caninervis plants are close to dormancy, in other words, S. caninervis can tolerate extreme desiccation, extreme temperatures and very low rates of precipitation (Reynolds and McLetchie, 2011). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Experimental design ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The field experiments were conducted near the center of the Gurbantunggut Desert $( 4 5 ^ { \\circ } 2 6 \\mathrm { N } _ { : }$ $8 7 ^ { \\circ } 6 7 ^ { \\prime } \\mathrm { E }$ ）in November 2015.To better investigate whether moss stoichiometry is influenced by microhabitats,we suggested a unified background of climate and environment. We selected an inter-dune area with well-developed moss crusts and established a $5 \\ \\mathrm { m } { \\times } 1 0 0 \\ \\mathrm { m }$ transect along a typical sand dune. Due to the randomized distribution patterns of moss in our study area, the transect was essentially divided into a 5O0-square grid plots with the aim of locating and sampling moss patches more conveniently and precisely. We divided this transect into five $1 \\ \\mathrm { m } { \\times } 1 0 0 \\ \\mathrm { m }$ sections,and set loo plots (area of $1 \\ \\mathrm { m } { \\times } 1 \\ \\mathrm { m }$ foreach) in each section.Ephedra distachya is the only shrub species in the transect. It should be noted that not all plots included mosses and shrubs. Moss crusts occurred in three microhabitats,i.e.,under living shrubs,under dead shrubs and in exposed ground. The photographic method was used to measure the area of each patch of moss crust in each plot(Wu and Zhang,2O13). All the moss patches within this $5 0 0 ~ \\mathrm { m } ^ { 2 }$ area were first photographed and then sampled. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 Sample collection ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We collected moss crust samples within an area of $2 0 \\ \\mathrm { c m } ^ { 2 }$ from each of the three microhabitats. Specifically, 40 patches of S.caninervis crust were collected from exposed ground,81 from under living shrubs and 15 from under dead shrubs. The moss crusts were first carefully collected from the soil surface and then the moss samples were collected and stored in valve bags.Moss samples included above-ground stems and leaves,and below-ground decaying stems and rhizoids that are buried under sand. Next, a cutting ring ( $5 \\ \\mathrm { c m }$ in height and $5 \\ \\mathrm { c m }$ in diameter) was used to collect soil samples from where the moss crusts had been collected. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4Laboratory analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4.1 Moss samples ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Moss samples were taken to the laboratory,and the above-ground and below-ground parts of the mosses were separated and cleaned carefully with water. Above-ground parts of S. caninervis are stems and leaves and below-ground parts are mainly composed with rhizoids and stems that are buried under sand. The moss samples were oven-dried at $6 5 ^ { \\circ } \\mathrm { C }$ for $4 8 \\mathrm { h }$ for further analysis. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The C, $\\mathrm { \\Delta N }$ and $\\mathrm { ~ \\bf ~ P ~ }$ contents of the above-ground and below-ground parts of $S .$ caninervis were determined. Samples were first put through a grinder,and then kept in a dryer for the determination of C, $\\mathrm { \\Delta N }$ and $\\mathrm { ~ \\bf ~ P ~ }$ contents. C content $\\mathrm { ( m g / g ) }$ was determined using a TOC analyzer (Analytik Jena, Germany) with multiWin software analyzer solid dry combustion method. Total N $\\left( \\mathrm { m g / g } \\right)$ content was measured using an elemental analyzer (2400 II CHN Elemental Analyzer; Perkin-Elmer, USA). Total P $\\mathrm { ( m g / g ) }$ content was determined using the molybdenum-antimony anti-spectrophotometric method (Han et al., 2005). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4.2 Soil samples ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Soil samples were stored in a cool and dry place at an average room temperature of $2 5 ^ { \\circ } \\mathrm { C }$ for 2 weeks,until the samples dried naturally. The contents of soil organic carbon (SOC), soil total nitrogen (STN),soil total phosphorous (STP), soil available nitrogen (SAN) and soil available phosphorous (SAP) were measured to determine the soil stoichiometry. SOC， STN and STP contents were determined with the dichromate oxidation method，Kjeldahl procedure after digestion with concentrated ${ \\mathrm { H } } _ { 2 } { \\mathrm { S O } } _ { 4 }$ on a distillation unit, and $\\mathrm { H C l O _ { 4 } } { \\mathrm { - H _ { 2 } S O _ { 4 } } }$ ammonium molybdate ascorbic acid method,respectively (Bao, 2Oo0). SAN content was measured using the Kjeldahl six-place nitrogen distilation apparatus, through alkaline hydrolysis. SAP was determined using the Mo-Sb colorimetric method (Bao,2000). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The activities of five soil enzymes relating to C (soil $\\beta$ -glucosidase (SBG) and soil sucrase (STC)), N (soil urease (SUE) and soil nitrate reductase (SNR)) and P(alkaline phosphatase (AKP)) cycles were measured. We estimated the SBG based on the determination of the released p-nitrophenol, after the incubation of soil with $\\mathfrak { p }$ -nitrophenyl glucoside solution for $^ \\textrm { \\scriptsize 1 h }$ at $3 7 ^ { \\circ } \\mathrm { C }$ ： STC was determined using sucrose as substrate,and the absorbance was measured in solution of sucrose hydrolysis products and with 3, 5-dinitrosalicylic acid. SUE was analyzed using $2 0 0 ~ \\mathrm { m M }$ urea as substrate under standard conditions ( $2 4 \\mathrm { ~ h ~ }$ at $3 7 ^ { \\circ } \\mathrm { C }$ ).SNR was determined using nitrite with reduced in sulfanilic acid and $\\mathfrak { a }$ -aniline. AKP activity was determined using $1 5 ~ \\mathrm { m M }$ $\\mathfrak { p }$ -nitrophenyl phosphate disodium substrate in a modified universal buffer $\\mathrm { ( p H = 1 1 } . 0 )$ ,incubated for $^ \\textrm { \\scriptsize 1 h }$ at $3 7 ^ { \\circ } \\mathrm { C }$ All soil enzyme activities were determined using Multiskan FC (Thermo Fisher, China) to measure absorbance at different wavelengths of ultraviolet light. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5 Data analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Microsoft Excel and SPSS 22.O software were used to process and analyze data. Student's $T$ test was used to compare C,N and $\\mathrm { ~ \\bf ~ P ~ }$ contents and their ratios between the above-ground parts and below-ground parts. Homogeneity of variance test was used before analysis and data were log transformed if necessary. Variations in S. caninervis stoichiometry (C,N and $\\mathrm { ~ \\bf ~ P ~ }$ contents） and soil stoichiometry (SOC, STN, STP, SAN and SAP) in diferent microhabitats were analyzed using one-way analysis of variance (ANOVA). Fisher least-significant difference (LSD) was used for multiple comparisons among the data in each microhabitat. Variations of soil enzyme activities in different microhabitats were analyzed using ANOVA.Pearson's correlation analysis was used to analyze the correlations between S. caninervis (above-ground parts and below-ground parts) stoichiometry and soil stoichiometry, S. caninervis stoichiometry and soil enzyme activities,and soil stoichiometry and soil enzyme activities. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1C,N and P contents in S. caninervis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We found that plant water content of S. caninervis under living shrubs was significantly $( P { < } 0 . 0 5 )$ （204号 higher than those in exposed ground and under dead shrubs (data not shown). In general, C,N and $\\mathrm { ~ \\bf ~ P ~ }$ contents in the above-ground parts were higher than those in the below-ground parts in each microhabitat (Fig. 1),and there were no significant differences in C content among the three microhabitats (Fig. la). N and $\\mathrm { ~ \\bf ~ P ~ }$ contents in the above-ground parts were significantly $( P { < } 0 . 0 5 )$ （20 higher than those in the below-ground parts (Figs.1b and c). It was found that C, N and $\\mathrm { \\bf P }$ contents all reached their lowest values under dead shrubs and highest values under living shrubs. $\\mathrm { \\Delta N }$ and $\\mathrm { ~ \\bf ~ P ~ }$ （204号 contents of S. caninervis under living shrubs and under dead shrubs were significantly $_ { ( P < 0 . 0 5 ) }$ （20 different. For the above-ground parts, $\\mathrm { \\Delta N }$ and $\\mathrm { ~ \\bf ~ P ~ }$ contents were significantly different between the microhabitats of exposed ground and under dead shrubs,while for the below-ground parts, there was no significant difference of N and P contents between the microhabitats of exposed ground and under dead shrubs. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a85a4fd254212faeebac5a69bbcc26a7868d7d647281dfb858610396dd9b16ad.jpg",
+        "img_caption": [
+            "Fig.1Stoichiometry of C (a),N(b) and $\\mathrm { ~ \\bf ~ P ~ }$ (c) contents in the above-ground parts and below-ground parts of $S .$ （20 caninervis in different microhabitats as influenced by shrubs.Different lowercase lettrs indicate significant differences of moss stoichiometry among microhabitats for the above-ground parts at $P { < } 0 . 0 5$ level; different capital leters indicate significant diffrences of moss stoichiometry among microhabitats for the below-ground parts at $P { < } 0 . 0 5$ level. \\*,significant diffrence of stoichiometry between the above-ground parts and below-ground parts at $P { < } 0 . 0 5$ level; $* *$ , significant difference of stoichiometry between the above-ground parts and below-ground parts at $P { < } 0 . 0 1$ level. Bars mean standard errors. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 Ratios of C:N, C:P and N:Pin S. caninervis ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Ratios of C:N, C:P and N:P are important in determining the growth rate and nutrient depletion of plants. The C:N and C:P ratios in the below-ground parts were significantly $( P { < } 0 . 0 5 )$ higher than those in the above-ground parts (Figs.2a and b). In contrast, the N:P ratio in the above-ground parts was slightly higher than that in the below-ground parts,with no significant difference (Fig. 2c). The C:N, C:P and N:P ratios in both the above-ground and below-ground parts showed no significant differences among the three microhabitats. Both the C:N and C:P ratios in the above-ground and below-ground parts reached their lowest values in exposed ground (Figs. 2a and b). The N:P ratio in the above-ground and below-ground parts was highest in exposed ground and lowest under dead shrubs (Fig. 2c). Generally speaking, microhabitats did not significantly change the ratios of C:N, C:P and N:P in S. caninervis. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a0adbcdc9900af1dc224bd8d37ec41c5f9ade636755a817c0340c89cedf9b1d0.jpg",
+        "img_caption": [
+            "Fig.2Stoichiometric ratios of C:N (a), C:P (b) and N:P (c) in the above-ground and below-ground parts of $S .$ （20 caninervis in diferent microhabitats as influenced by shrubs.\\*，significant difference of stoichiometric ratio between the above-ground parts and below-ground parts at $P { < } 0 . 0 5$ level; $^ { * * }$ ,significant difference of stoichiometric ratio between the above-ground parts and below-ground parts at $P { < } 0 . 0 1$ level. Bars mean standard errors. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 C,N and P contents in soil ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As shown in Table 1, SOC, STN, SAN and SAP contents reached their lowest values in exposed ground and highest values under dead shrubs.All of them (with an exception of SAN content) had significant $( P { < } 0 . 0 5 )$ differences among the three microhabitats.It was also found that SOC and STN contents were not significantly different between the microhabitats of under living shrubs and under dead shrubs.STP content maintained a similar trend in all the three microhabitats. SAP content increased from the exposed ground to the area under living shrubs,and to the area under dead shrubs.SAN content increased with STN content in the three microhabitats. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Ratios of C:N and SAN:SAP in soil reached their highest values in exposed ground and lowest values under dead shrubs. Soil C:N and SAN:SAP ratios showed significant $_ { ( P < 0 . 0 5 ) }$ differences among the three microhabitats. In contrast, soil C:P and N:P ratios reached their highest values under dead shrubs and lowest values in exposed ground. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/4961777a13ef03036ef370c216dc191f7c082422e1a0f06624e29fdc6e0c0b44.jpg",
+        "table_caption": [
+            "Table1Stoichiometryand stoichiometric ratios ofsoil under patches of S.caninervis in diffrent microhabitats "
+        ],
+        "table_footnote": [
+            "Note:SOC,scblal;lls;labro;ble phosphorous.Different lowercase letters within the same row denote significant differences $( P { < } 0 . 0 5 )$ among different microhabitats. Mear $\\mathrm { \\Omega } _ { \\mathrm { i \\pm S E } }$ "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>Exposed ground</td><td>Under living shrubs</td><td>Under dead shrubs</td></tr><tr><td>SOC (mg/g)</td><td>1.710±0.059c</td><td>1.952±0.054ab</td><td>2.071±0.100a</td></tr><tr><td>STN (mg/g)</td><td>0.192±0.007c</td><td>0.222±0.006ab</td><td>0.252±0.018a</td></tr><tr><td>STP (mg/g)</td><td>0.364±0.005a</td><td>0.364±0.004a</td><td>0.363±0.007a</td></tr><tr><td>SAN (ug/g)</td><td>10.302±0.593a</td><td>11.370±0.468a</td><td>12.125±0.763a</td></tr><tr><td>SAP (ug/g)</td><td>4.288±0.268b</td><td>4.999±0.228ab</td><td>6.007±0.638a</td></tr><tr><td>C:N ratio</td><td>10.562±0.282a</td><td>10.515±0.236a</td><td>9.646±0.384a</td></tr><tr><td>C:P ratio</td><td>12.155±0.427c</td><td>13.897±0.378ab</td><td>15.115±1.118a</td></tr><tr><td>N:P ratio</td><td>1.173±0.046c</td><td>1.354±0.040ab</td><td>1.575±0.113a</td></tr><tr><td>SAN:SAP ratio</td><td>5.791±0.416a</td><td>5.298±0.200a</td><td>5.005±0.543a</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4 Soil enzyme activities ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Soil enzyme activities in the three microhabitats are shown in Figures 3 and 4.The results showed that STC, SBG and AKP activities all reached their lowest values under dead shrubs,and there were no significant differences of them between the microhabitats of exposed ground and under living shrubs. STC activity was significantly $( P { < } 0 . 0 5 )$ different between the microhabitats of exposed ground and under dead shrubs. STC and AKP activities reached their highest values in exposed ground, and SBG activity reached its highest value under living shrubs. SBG activity in exposed ground was significantly $( P { < } 0 . 0 5 )$ higher than that under dead shrubs.There were significant $( P { < } 0 . 0 5 )$ differences of SNR and SUE among the three microhabitats,and both of them reached their lowest values in exposed ground and highest values under dead shrubs. SUE activity under living shrubs was similar to that under dead shrubs. Generally speaking，soil enzyme activities were influenced by microhabitats. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.5 Correlation analysis of moss stoichiometry, soil stoichiometry and soil enzyme activities ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Weak correlations were observed between moss stoichiometry and soil stoichiometry， soil stoichiometry and soil enzyme activities,and moss stoichiometry and soil enzyme activities in the three microhabitats (Figs.5-7). However, correlations were diffrent in different microhabitats.In exposed ground, STN was positively correlated with plant $\\mathrm { \\Delta N }$ and $\\mathrm { ~ \\bf ~ P ~ }$ contents in the above-ground parts of S. caninervis $_ { ( P < 0 . 0 5 }$ ; Fig. 5). SBG was negatively correlated with plant $\\mathrm { ~ \\bf ~ P ~ }$ content in the above-ground parts of $S$ caninervis $( P { < } 0 . 0 5$ ； Fig.6). The correlations between SBG and SOC, SBG and SAN,and SBG and SAP were also significantly negative. Under living shrubs, SOC and STN were positively correlated with plant C and $\\mathrm { ~ \\bf ~ P ~ }$ contents in the above-ground parts of $S$ caninervis $( P { < } 0 . 0 5 )$ .Both SUE and AKP were negatively correlated with plant $\\mathrm { \\bf P }$ content $( P { < } 0 . 0 5 )$ ： High correlations were observed between plant $\\mathrm { \\Delta N }$ and $\\mathrm { ~ \\bf ~ P ~ }$ contents in the below-ground and above-ground parts. Under dead shrubs,the correlations between moss stoichiometry and soil stoichiometry were not significant (Fig. 7). Soil AKP was significantly correlated with SOC, STN and SAP. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1 Plant stoichiometry of S. caninervis ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In most cases, $\\mathrm { \\Delta N }$ and $\\mathrm { \\bf P }$ contents in the below-ground parts of $S .$ caninervis were lower than those in the above-ground parts，which is consistent with our first hypothesis. S. caninervis is a poikilohydric,non-vascular plant,which mainly absorbs water, $\\mathrm { \\Delta N }$ and $\\mathrm { \\bf P }$ from the atmosphere.The principal function of the below-ground components of $S$ .caninervis is to anchor the plant to the ground, so they take up few nutrients from the soil. In addition, the above-ground parts are the major area of life activity,and the accumulations of $\\mathrm { \\Delta N }$ and $\\mathrm { ~ \\bf ~ P ~ }$ in these parts benefit their functional integrity (Pan et al.,2015; Rong et al.,2015; Zhang et al.,2016). In contrast to our hypothesis, the C content values between the two parts (above-ground and below-ground) did not differ significantly (Fig. la). C is related to photosynthesis and is the basis of other physiological activities (Agren, 2008;Marschner, 2012). Our results showed that the C:N and C:P ratios in the below-ground parts were significantly higher than those in the above-ground parts,and the C, N and $\\mathrm { ~ \\bf ~ P ~ }$ contents in the below-ground parts were lower than those in the above-ground parts. Our results are also consistent with the previous findings that C,N and $\\mathrm { ~ \\bf ~ P ~ }$ contents were disproportionately distributed in the above-ground and below-ground parts of the plant (Zeng et al., 2017).Unlike vascular plants, the C,N and $\\mathrm { ~ \\bf ~ P ~ }$ contents of $S$ caninervis differed significantly between the above-ground parts and below-ground parts, and the C content of S. caninervis was not different between the two parts (Zeng et al., 2017). When compared with vascular plants, only small amounts of $\\mathrm { \\Delta N }$ and $\\mathrm { ~ \\bf ~ P ~ }$ in the below-ground parts of S. caninervis were transported to the stems and leaves (Ayres et al., 2006).N and $\\mathrm { ~ \\bf ~ P ~ }$ might be taken up from the atmosphere,rainfall and snow by stems and leaves in the above-ground parts of S. caninervis. In our study,the N:P ratio in the below-ground parts was similar to that in the above-ground parts. This result also confirms the previous finding that the basal sections of moss come from stems and leaves buried by sand (Birse et al.,1957; Jia et al., 2O08). The decomposition rate of plant C was slower than those of plant N and $\\mathrm { ~ \\bf ~ P ~ }$ in the below-ground parts. $\\mathrm { \\Delta N }$ and $\\mathrm { ~ \\bf ~ P ~ }$ are essential components of photosynthetic proteins (Matzek and Vitousek, 2Oo9). Moss plant has a vertical structure that can be separated into the above-ground \"green\" zone of alive， growing, and photosynthetically active parts,and the below-ground \"brown\" zone of senescent, dead, and decaying moss, rhizoids and other detritus (Lindo and Gonzalez,201O). Therefore,the $\\mathrm { \\Delta N }$ and $\\mathrm { ~ \\bf ~ P ~ }$ contents in the above-ground parts are generally higher than those in the below-ground parts. Plant C in the below-ground parts might be used in the composition of structural substances. The present study indicated that the moss can balance the energy or substrate allocation between the above-ground parts and below-ground parts. In addition to the anchor effect, the moss root might have other functions that require C. Consistent with our second hypothesis,both the $\\mathrm { \\Delta N }$ and $\\mathrm { ~ \\bf ~ P ~ }$ contents of the above-ground and below-ground parts were affected by the microhabitats. Similar results can be found in other vascular and moss plants (Wu et al., 2Ol2). In general, mosses in exposed ground and under living shrubs did not differ in $\\mathrm { \\Delta N }$ and $\\mathrm { ~ \\bf ~ P ~ }$ contents.The sharp decreases of $\\mathrm { \\Delta N }$ and $\\mathrm { ~ \\bf ~ P ~ }$ contents under dead shrubs indicated that the degradation of shrubs in this area also affected the nutrient uptake of mosses.This might lead to the population development of S.caninervis.Moreover, plant water content was significantly $( P { < } 0 . 0 5 )$ influenced by microhabitats (data not shown). The changes in the stability of C under micro-environment also showed that the production and allocation of C are easy to adjust. The C content in the above-ground and below-ground parts of moss plants might respond at different magnitudes,from high to low, corresponding to the living shrubs to the dead shrubs.N and $\\mathrm { \\bf P }$ contents were significantly different under living shrubs and under dead shrubs. Our results also explained that the growth strategy and C,N and $\\mathrm { ~ \\bf ~ P ~ }$ contents of S. caninervis are influenced by microhabitats,particularly in the area under shrubs. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/4a69b0b12e87ab323a501f8ec9d1cab143ff7cfc4e48d5514a2a58b3f5af1c1f.jpg",
+        "img_caption": [
+            "Fig.3Soil enzyme activities under patches ofS.caninervis in diferent microhabitats as influenced by shrubs. (a), soil sucrase (STC) activity; (b), soil $\\beta$ -glycosidase (SBG) activity; (c), soil nitrate reductase (SNR) activity; (d), soil urease (SUE) activity.Different lowercase letters denote significant differences $( P { < } 0 . 0 5 )$ among microhabitats.Bars mean standard errors. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/602cf4e66813fd2f535fe1b0deadb56b33cc8b7d45afb049464c8772f97583fb.jpg",
+        "img_caption": [
+            "Fig.4Soil alkaline phosphatase (AKP)activity under patches of S.caninervis in different microhabitatsas influenced by shrubs.Different lowercase letters denote significant differences $( P { < } 0 . 0 5 )$ among microhabitats.Bars mean standard errors. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/353925ae6e8ba1adf575364ba71fc4cf2b595b8dc267a52fab251726400b67f5.jpg",
+        "img_caption": [
+            "Fig.5Correlation analysis of moss stoichiometry,soil stoichiometry and soil enzyme activities in exposed ground. C1,C content in the above-ground parts of $S .$ caninervis; C2,C content in the below-ground parts of $S .$ caninervis; N1,N content in the above-ground parts of $S .$ caninervis; N2,N content in the below-ground parts of $S$ caninervis; P1,P content in the above-ground parts of $S$ 、caninervis; P2,P content in the below-ground parts of $S$ caninervis; SOC,soilorganiccarbon; STN,soil total nitrogen; STP,soil total phosphorous; SAN,soil available nitrogen; SAP, soil available phosphorous; SUE,soil urease; STC,soil sucrase;AKP,soil alkaline phosphatase; SNR,soil nitrate reductase; SBG, soil $\\beta$ -glucosidase.The size and color of the circles indicate the strength and significance of the relationship (Pearson's correlation coefficient),respectively.\\*inthe circle indicates the Pearson'scorrelation is statistically significant at $P { < } 0 . 0 5$ level,while no symbol in the circle indicates the Pearson's correlation is not significant at $P { > } 0 . 0 5$ level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/50e0104b1519c377715b44d08d6d0d77526b0528fd120bd278be84ccca86bb32.jpg",
+        "img_caption": [
+            "Fig.6Correlation analysis of moss stoichiometry,soil stoichiometry and soil enzyme activities under living shrubs.The size and color of the circles indicate the strength and significanceof the relationship (Pearson's corelationcoefficient),respectively.\\*inthecircle indicates the Pearson'scorelation is statisticallysignificantat $P { < } 0 . 0 5$ level,while no symbol in the circle indicates the Pearson's correlation is not significant at $P { > } 0 . 0 5$ level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/fad6acbd5ebb4e277aa77be1de57fa73cea0a678db2076b5bf99397790e678ab.jpg",
+        "img_caption": [
+            "Fig.7Correlation analysis of mosstoichiometry,soil stoichiometry and soil enzyme activities underdead shrubs. The sizeand color of the circles indicate the strength and significanceof the relationship (Pearson's correlation coefficient),respectively.\\* in the circle indicates the Pearson's correlation is statistically significant at $P { < } 0 . 0 5$ level, while no symbol in the circle indicates the Pearson's correlation is not significant at $P { > } 0 . 0 5$ level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The ratios of C,N and $\\mathrm { \\bf P }$ might indicate nutrient limitation in the moss species.In the three microhabitats, there were no significant differences in the ratios of C:N and C:P. These two ratios reached their highest values under dead shrubs and lowest values in exposed ground. The ratios of C:N and C:P signified the ability of plants to assimilate C when simultaneously absorbing $\\mathrm { \\Delta N }$ and $\\mathrm { ~ \\bf ~ P ~ }$ (Rong et al.,2O15),and the increased C:N and C:P ratios indicated an increase in the efficiency with which $\\mathrm { \\Delta N }$ and $\\mathrm { \\bf P }$ are used (He et al., 2006; Wang et al., 2017). The higher efficiency value for moss is consistent with greater allocation to cell wallrelative to cell contents under dead shrubs rather than in exposed ground (Waite and Sack, 2O11). The ratio of N:P is stable, except that moss grow faster with higher moisture (Wiklund and Rydin, 2004; Waite and Sack,2011). Unlike in vascular plants, the N:P ratio in moss plants can explain the growth rate. In our study, the N:P ratio was lowest under dead shrubs. One possible reason for this is a greater physiological need for $\\mathrm { ~ \\bf ~ P ~ }$ at lower temperatures,consistent with cold conditions； or a high light-tolerance mechanism and additional lipid energy storage (Huang et al.,2Oo9). Our results are consistent with the findings that microhabitats affect the survival strategy of S. caninervis,and that plants of S. caninervis growing in exposed situations are better adapted to harsh environmental conditions than plants growing in more sheltered habitats (Yin et al.，2Ol7).In this study, the changes in microhabitats did not significantly alter the ratios of C:N, C:P and N:P, which suggests that mosses can adjust the status of elements to maintain nutrient balance and adapt to different microhabitats. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.2Soil stoichiometry and soil enzyme activities under patches of S. caninervis ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Soil stoichiometry is affected by vegetation, climate, and animal and human disturbances (Dijkstra et al.,2012; Tischer et al.,2014; Fan et al.,2015; Hong et al.,2015;Liu et al.,2017). Our results showed that SOC content under patches of S. caninervis was highest under dead shrubs, where C content in S. caninervis was at its lowest value. In exposed ground, N content in S. caninervis was highest but STN was lowest. In contrast, plant $\\mathrm { \\Delta N }$ content was lowest under dead shrubs while STN was highest. The changes in soil C and $\\mathrm { \\Delta N }$ content were agreement with our hypothesis that soil stoichiometry would be significantly different among the three microhabitats. There was no significant difference between STP and SAP contents,but there were significant differences in plant P content among microhabitats. Our results are in accordance with the suggestion that mosses can be indirectly influenced by soil stoichiometry (Turetsky, 2003;Hagemann et al., 2010),and with our hypothesis that the correlations between moss patches and soil are low. Similar results can be found in another study of soil stoichiometry under patches of mosses (Waite and Sack,2011). In this study, we found that STC and SBG, related to C cycling, were negatively correlated with SOC and were affected by the microhabitats.SOC was affected by diferent microhabitats,because the C cycling was influenced by temperature and moisture of S. caninervis patches in different microhabitats. STN and SAN contents under shrubs were higher than those in exposed ground. SUE and SNR, related to N cycling, were higher under shrubs than in exposed ground. SUE and SNR activities were not correlated with STN in the three microhabitats, particularly, under living shrubs. Soil under patches of S. caninervis did not support the findings that the activities of Cacquiring and N-acquiring soil enzymes were positively related to SOC and STN contents, and related to activities that responded significantly to changes in soil compaction and nutrient fertilization (Cenini et al., 2O16). There was no significant diference in STP among the three microhabitats,and SAP was highest under dead shrubs. There was no significant decline in soil AKP under shrubs compared with that in exposed ground. STP and SAP were not significantly correlated with soil AKP in all microhabitats, except that SAP was significantly correlated with AKP under dead shrubs. STC and SBG were mainly influenced by living and dead shrubs. SUE and SNR were influenced by shrubs. Thus, the results of correlation analysis indicated that living shrubs might increase soil C and N cycling, and dead shrubs only increase soil N cycling. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The results of C:N, C:P and N:P ratios in soil also indicated that SOC and STN were higher under shrubs,particularly under dead shrubs.These patterns were different from those of the plant stoichiometry of S. caninervis patches. Not only the correlations between moss stoichiometry and soil stoichiometry were low, but also soil stoichiometry was weakly correlated with soil enzymes. Most studies have found that the stoichiometry in vascular plants was significantly correlated with soil stoichiometry and soil enzyme activities (Burke et al.,2011; Brzostek et al.,2012; Cenini et al., 2016; Heineman et al.,2016; Zhang et al., 20l6). Our results showed that the correlations of moss stoichiometry with soil stoichiometry and soil enzyme activities were different from those of vascular plants,and the plant stoichiometry of S. caninervis was not significantly related to soil stoichiometry and soil enzyme activities.In contrast to our results,Ball and Virginia (2014) reported that in the McMurdo Dry Valleys,the main source of moss nutrients was the soil, but the correlations of plant stoichiometry with any nutrient source were weak, indicating a great deal of plasticity in moss stoichiometry and nutrient uptake. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Moreover, in this study, the correlations between soil stoichiometry and soil enzyme activities under living shrubs were weaker than those in exposed areas and under dead shrubs. We proposed three probable explanations for this phenomenon.First, moss crusts include algae, bacteria and other microbes that might fix C and $\\mathrm { \\Delta N }$ in both plants and soil, and accelerate C and N cycling (Morillasand Gallardo，2015).Buried stemsand leaves are decomposed by microbes. Decomposition of plant C, N and $\\mathrm { ~ \\bf ~ P ~ }$ might indirectly affect soil stoichiometry and soil enzymes because of the low mass resolved. Second, the 'fertile island' effects of shrubs might afect SOC and nutrient contents,as SOC and nutrient contents increase as the distance from shrubs decreases (Klemmedson and Barth,1974; Hirobe et al.,2O01). Simultaneously, there is an increase in the accumulation of SOC and STN in proximity to shrubs (Zhao et al.,2007). SOC and STN contents are therefore significantly higher under shrubs than in exposed ground. SOC and STN are directly influenced by shrubs. Third, most studies have found that STP content remains unchanged under patches of moss crusts, because it is not very mobile in plants and soil (Ji et al.,2O14; Spohn et al., 2016).The plant stoichiometry of S. caninervis with non-vascular tissues might be mainly influenced by the microenvironment of light, air, humidity and temperature under living and dead shrubs. This indicates a significant diference between vascular and non-vascular plants in terms of the correlations between plant and soil. In our study the correlations among moss stoichiometry, soil stoichiometry and soil enzyme activities were different in the three microhabitats. Under living shrubs, the correlations between indices of moss stoichiometry were significant, whereas they were weak in exposed ground and under dead shrubs. Our results have also determined that the plant growth strategy of S. caninervis is influenced by different microhabitats and that it needs to balance energy and substrate allocation accordingly. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "For S. caninervis plants, $\\mathrm { \\Delta N }$ and $\\mathrm { \\bf P }$ contents in the above-ground parts were significantly higher than those in the below-ground parts. The C:N and C:P ratios in the above-ground parts were significantly lower than those in the below-ground parts,while the N:P ratio was not significantly different in the above-ground and below-ground parts. Generally, the stoichiometry of S. caninervis was different in the above-ground and below-ground parts and was significantly influenced by the microhabitats. The C,N and $\\mathrm { ~ \\bf ~ P ~ }$ contents of $S$ ：caninervis were highest under living shrubs and lowest under dead shrubs. Plants of S. caninervis growing in exposed ground were more resistant to harsh environmental conditions than plants growing under shrubs. Soil stoichiometry and soil enzymes were also influenced by the microhabitats. The stoichiometry of S.caninervis was not significantly correlated with soil nutrients or soil enzymes. The growth strategy of S. caninervis was different in different microhabitats. There might be some functions (nutrient uptake, photosynthesis,and physiology) in the above-ground parts of S. caninervis.Moss is a non-vascular plant and its nutrients mainly come from above-ground parts. We speculate that nutrients of mosses might be taken up from the atmosphere,rainfall and snow by stems and leaves in the above-ground parts. In future studies,we will explore the major sources of moss nutrients. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Natural Science Foundation of China(41571256,41471251,31670007) and the Youth Innovation Promotion Association CAS (2015356).We would like to thank Dr. ZHANG Jing and Dr. ZHUBingjian for their assistance with sample collection in the field. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Agren GI2o08.Stoichiometryand nutritionof plantgrowth in natural communities.Annual ReviewofEcologyEvolutionand Systematics,39:153-170.   \nAgrenGI,HyvoenR,ergludSL,etal2O13EstimatingthecriticalN:Cfromliterdecompositionataanditsrelatiotool organic matter stoichiometry. Soil Biology & Biochemistry,67(6):312-318.   \nAndersen T,ElserJJ,Hessen DO.2010.Stoichiometryand population dynamics.EcologyLeters,7(9): 884-900.   \nAyresE,vanderWalR,SommerkornM,etal.o6.Directuptakeofsoilnitrogenbymosss.BiologyLettrs,2(2):6288.   \nBall B A,VirginiaRA.2014.Theecologicalroleof mossinapolar desert: implications foraboveground-belowgroundand terrestrial-aquatic linkages.Polar Biology,37(5): 651-664.   \nBao S.20oo.Soil and Agricultural Chemistry Analysis.Beijing: China Agriculture Press,12O-170. (in Chinese)   \nBatesJW.20oo.Mineralnutrition,substratumecology,andpolltion.In:ShawAJ,GoffinetB.BryophyteBiology.Cambridge: Cambridge University Press,225-247.   \nBelnap J,HarperKT,WaenSD.994.Surface disturbanceofcrptobioticsoilcrusts-itrogeaseactivitychlorophylltent, and chlorophyll degradation.Arid Land Research and Management, 8(1): 1-8.   \nBelnap J.2O03.The orldatyourfet:desertbiologicalsoilcrusts.Frontiers inEcologyandtheEnvironment,1(4):181-189.   \nBirseEM,Landsberg SY,Gimingham CH.1957.Theeffctsofburial bysandondune moses.TransactionsoftheBritish Bryological Society, 3(2): 285-301.   \nBowkerMA,MaestreFT,MauRL.2013.Diversityand patch-sizedistributionsof biologicalsoilcrustsregulatedryland ecosystem multifunctionality. Ecosystems,16(6): 923-933.   \nBrzostek ER.BlairJM,Dukes JS,etal.2012.Theeffectof experimental warmingand precipitationchangeon proteolytic enzymeactivity:positive feedbacks to nitrogen availabilityare notuniversal.Global Change Biology,18(8):2617-2625.   \nBuchkowski RW,SchmitzOJ,BradfordMA.2O15.Microbialstoichiometryoverides biomassasaregulatorofsoilcarbonand nitrogen cycling. Ecology, 96(4): 1139-1149.   \nBurkeDJ,WeintraubMN,HewinsCR,etal.20l1.Relatioshipbetweesoilezymeactivities,utrientcyclingandsoifungal communities in a northern hardwood forest. Soil Biology & Biochemistry,43(4):795-803.   \nCenini VL,ForaraDA,McMullan G,etal2016.Linkagesbetwen extracellarenymeactivitiesandthecarbonanditrogen content of grassland soils.Soil Biology and Biochemistry, 96:198-206.   \nChen ZQ,Chen ZB,Yan XY,etal.2016.Stoichiometric mechanisms of Dicranopteris dichotoma growthandresistanceto nutrient limitation inthe Zhuxi watershed in thered soilhilyregionof China.Plant and Soil,398(1-2):367-379.   \nCornelissenJHC,Lang SI,SoudzilovskaiaNA,etal.20o7.Comparative cryptogamecology:Areviewofbryophyteand lichen traits that drive biogeochemistry. Annals of Botany,99(5): 987-1001.   \nDijkstraFA.PendallE,MorganJA,etal.2O12.Climatechangealters stoichiometryofphosphorusand nitrogen inasmiarid grassland. The New Phytologist,196(3): 807-815.   \nElser JJ.20o0.Ecological stoichiometry: from sea lake to land.Trends inEcology&Evolution,15(10):393-394.   \nFanHB,WuJP,LiuWF,etal.20l5.LinkagesofplantandsoilC:N:Pstoichiometryandtheirrelationships toforestgrowthin subtropical plantations. Plant and Soil,392(1-2): 127-138.   \nGusewellS.2o04.N:Pratiosin terrstrial plants:variationand functional significance.NewPhytologist,164(2):243-266.   \nHagemann U,Moroni MT,Gleissner J,etal.2010.Accumulationand preservationofdead woodupon burialbybryophytes. Ecosystems,13(4): 600-611.   \nHamerlynck EP,Csintalan Z,Nagy Z,etal.20o2.Ecophysiologicalconsequencesofcontrasting microenvironmentsonthe desiccation tolerant moss Tortula ruralis. Oecologia,131(4): 498-505.   \nHan WX,FangJYGuoDL,etalo.Leafitrogeadposphorusichometrycross53terrestralplatsiesina. New Phytologist,168(2): 377-385.   \nHeJS,FangJYWangZH,etal.Stocometryndlrgescalepatesofleafcarbonandnitrogenintegrasladioms   \nHe MZ,DijkstraFA,ZhangK,etal.2014.Leafnitrogenandphosphorusof temperatedesertplantsinresponsetoclateand soil nutrient availability. Scientific Reports,4: 6932.   \nHe MZ,DijkstraFA,Zhang K,etal.2O16.Influenceoflifeform,taxonomyclimate,andsoil propertiesonshootandroot concentrations of1l elements in herbaceous plants in atemperate desert.Plant and Soil,398(1-2): 339-350.   \nHedinLO.20o4.Globalorganizationof terrestrial plant-nutrient interactions.ProceedingsoftheNationalAcademyofSciences of the United States of America,101(30):10849-10850.   \nHeinemanKDurerBLDallingJW.216.Varitioninwood nutrientsalongaropicalsoilfertitygradient.NewPhtologist, 211(2): 440-454.   \nHeuck C,Weig A,Spohn M.2015.Soil microbial biomass C:N:P stoichiometryand microbial useof organic phosphorus.Soil Biology& Biochemistry,85:119-129.   \nHirobe M,OhteN,KarasawaN,etal.2Ool.Plantspecies efectonthespatialpattersofsoil propertisintheMuusdesert ecosystem,Inner Mongolia,China.Plant and Soil,234(2):195-205.   \nHongJT,WangXD,WuJB.20l5.EfectsofsoilfertilityontheN:Pstoichiometryofherbaceous plantsonanutrient-limited alpine steppe on the northern Tibetan Plateau. Plant and Soil,39l(1-2): 179-194.   \nHuang CY,ngCI,LinYC,etal.9.Oilbodiesadleosinsinomitrellposessharacteristicsepresntativeof early trends in evolution. Plant Physiology,150(3): 1192-1203.   \nJi XH,ZhangYM,ZhouXB,etal.2O14.SpatialdistributionofsoilpropertscoveredbymoscustsondirentscalesActa Ecologica Sinica,34(14): 4006-4016.(in Chinese)   \nJiaRL,LiXR,LiuLC,etal.O8.ResponsesofiologicalsoilcuststosandbrialinarevegeatedareaoftheTnggersert, Northern China.Soil Biology & Biochemistry,40(11): 2827-2834.   \nKeiblinger KM,SheiderTRoschitkiB,etal.l.Efectsofstochiometryndtemperatureperturbationsoneechleflit decomposition, enzyme activities and protein expression. Biogeosciences,9: 4537-4551.   \nKirkby CA,RichardsonAE,WadeLJ,etal.20l3.Carbon-nutrientstoichiometrytoincreasesoilcarbonsequestration.Soil Biology and Biochemistry,60: 77-86.   \nKlemmedson JO,Barth RC.1974.Distribution andbalanceofbiomassand nutrients in desert shrub ecosystems.In:US/IBP Desert BiomeResearch Memorandum75-5,Reportsof1974Progres.Logan: Utah StateUniversitylibraries Press,1-18.   \nKoerselman W,MeulemanAFM.1996.ThevegetationN:Pratio:Anewtool todetectthenatureof nutrientlimitation.Jouralof Applied Ecology,33(6): 1441-1450.   \nLi CJ,LeiJQ,XuXW,etal.213.ThestoichiometriccharacteristisofC,N,Pforrifiialplantsandsoilintheinterladof Taklimakan Desert.Acta Ecologica Sinica,33(18): 5760-5767. (in Chinese)   \nLi JW, Ziegler SE,LaneCS,etal.2013.Legacies of nativeclimateregime govern responses ofboreal soil microbes toliter stoichiometry and temperature.Soil Biology & Biochemistry, 66: 204-213.   \nLindo Z,GonzalezA.0l0.The bryosphere:an integraland influentialcomponentoftheearthsbiosphere.Ecosystems,13(4): 612-627.   \nLiu X,MaJ,MaZWetal.0l7.Soilutrientcontentsandstoichometyasectedbyland-useinnagropastoralgioof northwest China. Catena,150:146-153.   \nMarschner HP.2012.Marschner's Mineral Nutrition of Higher Plants.London: Academic Press,100-150.   \nMatzek V,VitousekPM.2o9.N:Pstoichiometryand protein:RNAratiosinvascularplants:anevaluationofthegrowthrate hypothesis. Ecology Letters,12(8): 765-771.   \nMorills L,GallrdoA.215.Biologicalsoilcrustsandwetting events:Efects onsoilNandCcycles.AppliedSilEcology94: 1-6.   \nNiklas KJ,Owens T,ReichPB,etal.2Oo5.Nitrogen/phosphorusleaf stoichiometryandthesalingofplant growth.Ecology Letters,8(6): 636-642.   \nPanFJ,Zhang W,LiuSJ,etal.20l5.LeafN:Pstoiciometryacrossplantfunctionalgroups inthekarstregionofsouthweste China. Trees-Structure and Function,29(3): 883-892.   \nPintadoA,SanchoLGGrenTGA,etal.2Oo5.FuctionalecologyofthebiologicalsoilcrustinsemiaridSESpain:sunand shade populations of Diploschistes diacapsis (Ach.) Lumbsch.The Lichenologist,37(5): 425-432.   \nReed SC,CoeKK,SparksJP,etal.2l.Changes todrylandrainfallresult inrapid mosmortalityandalteredsoilertlity. Nature Climate Change,2(10): 752-755.   \nReichPB,Oleksyn J.2O04.Global patternsof plant leaf NandPin relationto temperatureand latitude.Proceedings of the National Academy of Sciences of the United States of America,101(30):11001-11006.   \nRongQQ,LiuJT,CaiYP,etal.215.Leafcarbon,nitrogenandphosphorusstoichiometryofTamarixchinensisour.nthe Laizhou Bay coastal wetland,China.Ecological Engineering,76: 57-65.   \nSardan J,Rivas-UbachA,euelasJl1.Factorsctingutrintcocetratiandstociometryfforest reesinataloa (NE Spain).Forest Ecology and Management,262(11): 2024-2034.   \nSardansJ，Rivas-Ubach A，PenuelasJ.2O12.Theelemental stoichiometryofaquaticand terrestrialecosystemsand its relationshipswith organismic lifestyle and ecosystem structure and function:areview and perspectives.Biogeochemistry, 111(1-3): 1-39.   \nSasakiT,YosiaraY,JamranU,etal.10.Ecologicalichometryeplaislrger-scalefacilitationproceseyso species coexistence among understory plants. Ecological Engineering,36(8):1070-1075.   \nSinsabaughRL,Manzoni S,MoorheadDL,etal.2013.Carbonuse eficiencyof microbialcommunities: stoichiometry, methodology and modelling.Ecology Letters,l6(7): 930-939.   \nSpohn M,NovakTJ,InczeJ,etal.O16.Dynamicsofsoilcarbon,itroge,andposphorus incalcareoussoilsfterlanduse abandonment-A chronosequence study. Plant and Soil, 401(1-2): 185-196.   \nStephensJP,BervenKA,TegsSD,etal.2O15.Ecologicalstoichiometryquantitativelypredictsresponsesof tadpolestofood quality gradient. Ecology, 96(8): 2070-2076.   \nTao Y,Wu GL,Zhang YM,etal.2016.Leaf NandPstoichiometryof57 plant speciesin the Karamori MountainUngulate Nature Reserve, Xinjiang, China. Journal of Arid Land,8(6): 935-947.   \nTischerA,PothastK,HamerU.O14.Land-useandsoildepthfectresourceandicrobialtoichometryinatropicaloutain rainforest region of southern Ecuador. Oecologia,175(1): 375-393.   \nTuretsky MR.2003.The role ofbryophytes in carbon and nitrogen cycling.The Bryologist,106(3): 395-409.   \nWaite M,Sack L.2011.Does global stoichiometric theory apply to bryophytes? Tests across an elevation $\\times$ soil age ecosystem matrix on Mauna Loa,Hawaii. Journal of Ecology, 99(1): 122-134.   \nWang M,MooreTR,TalbotJ,etal.0l5.Thestoichiometryofcarbonandnutrients inpeatformation.GlobalBiogeochemical Cycles,29(2): 113-121.   \nWang W,SardansJ,ZengC,etal.2O14.esponssofsoilnutrientconcentrationsandstoichiometrytodifferenthumanlanduses in a subtropical tidal wetland. Geoderma,232-234: 459-470.   \nWang X,Ma X,YanY.2017.Effectsof soil C:N:Pstoichiometryonbiomass alocationinthealpineandaridsteppesystems. Ecology and Evolution,7(5):1354-1362.   \nWang XQ,JiangJ,LeiJQ,etal.2Oo3.Thedistributionofephemeralvegetationontheongitudinal dunesurfaceand its stabilization significance in the Gurbantunggut Desert.Acta Geographica Sinica,58(4): 598-605.(in Chinese)   \nWard D.2009.The Biology of Deserts.London: Oxford University Press,11-40.   \nWhitford W G. 2002.Ecology of Desert Systems.London: Academic Press,235-266.   \nWhitakerRH,LikensGE,BormannFH,etal.979.The HubbardBrook ecosystemstudy-forestnutrientcyclingandelement behavior. Ecology, 60(1): 203-220.   \nWiklund K,Rydin H.2004.Colony expansionofNeckera pennata: Modelled growthrate and efectof microhabitat,competition, and precipitation. The Bryologist,107(3): 293-301.   \nWuL,ZhangYM.2013.Coverage estimationonbiological soil crust basedondigital photos.Journalof Desert Research,33(6): 1810-1815.(in Chinese)   \nWu TG,Dong Y,YuMK,etal.l2.Leafitrogenandphosphorusstoichiometryof Quercusspeciesacross China.Forest Ecology and Management,284: 116-123.   \nWuTGWang GGWu QT,etal.2014.Paternsofleaf nitrogenand phosphorusstochiometryamong Quercuscutissima provenances across China. Ecological Complexity,17: 32-39.   \nXu Z W,YuGR,Zhang XY,et al.2O17.Soil enzymeactivityandstoichiometryinforest ecosystemsalongtheNorth-South Transect in eastern China (NSTEC).Soil Biology & Biochemistry,104(1): 152-163.   \nYan K,Duan CQ,FuDGetal.2015.Leaf nitrogenand phosphorus stoichiometryof plantcommunitiesingeochemically phosphorus-enriched soilsinasubtropical mountainousregion,SWChina.EnvironmentalEarth Sciences,74(5):3867-3876.   \nYinBF,ZhangYM.2016.PhysiologicalregulationofSyntrichiacaninervis Mit.indiferentmicrohabitats duringperiodsof snow in the Gurbantunggut Desert, northwestern China. Journal of Plant Physiology,194:13-22.   \nYinBF,Zhang YM,LouAR.2017.Impactsoftheremoval ofshrubsonthe physiologicalandbiochemicalcharacteristics of Syntrichia caninervis Mitt:ina temperate desert. Scientific Reports,7:45268.   \nZengQC,LalR,heY,etal7.SoileafdoteologicalichometryofCragaaKrshskiioteste of China in relation to plantation age.PLoS ONE,12(1):1-12.   \nZhang K,HeMZ,LiXR,etal.0l4.Foliarcarbon,itrogenandphosphorusstoichiometryof typicaldesertplantsacrosthe Alashan Desert.Acta Ecologica Sinica,34(22): 6538-6547.(in Chinese)   \nZhang K,SuYZ,LiuTN,etal.2016.LeafC:N:Pstoichiometricaland morphological traitsof Haloxylonammodendronover plantation age sequences in an oasis-desert ecotone in North China.Ecological Research,31(3): 449-457.   \nZhangYM,Chen J,Wang XQ,etal2Oo5.Thedistribution paterns of biological soil crust in Gurbantungut desert.Acta Geographica Sinica,60(1):53-60.(in Chinese)   \nZhangYM,ChenJ,WangL,etal.o7.ThespatialdistributionpatersofbiologicalsoilcrustsintheGurbantunggutDesert, Northern Xinjiang,China. Journal of Arid Environments, 68(4): 599-610.   \nZhang ZL,QiaoMF,LiDD,etal.2016.Dowarming-inducedchanges inquantityandstoichiometryofroot exudationpromote soilNtransformationsviastimulationofsoilnitrifiers,denitrifiersandammonifiers?EuropeanJoualofSoiliology74: 60-68.   \nZhaoHL,ZhouRL,SuYZ,etal.2o7.ShrubfacilitationofdesertlandrestorationintheHorqinSandLandofInnerMongolia Ecological Engineering,31(1):1-8.   \nZhengSX,Shangguan Z.2O7SpatialpatersofleafnutrienttraitsofteplantsintheLoessPateauofChina.Trees-Strcture and Function,21(3): 357-370.   \nZhou HF,ZhouBJ,Dai Q.2010.Observationalanalysisofrimecondensatioonplantsoverthe Gurbantinggut desert in China. Advances in Water Resources,21(4):56-62.(in Chinese) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    }
+]

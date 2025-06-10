@@ -1,0 +1,242 @@
+# 基于GF-1/WFV时间序列的葡萄识别模型-以宁夏红寺堡区为例
+
+赵希妮¹²，王磊1,2,3，刘雅清¹²，璩向宁1,²，许兴1²，王锐1,2(1．宁夏大学西北土地退化与生态系统恢复省部共建国家重点实验室培育基地,宁夏银川 750021;2．宁夏大学西北退化生态系统恢复与重建教育部重点实验室,宁夏银川750021；3．南京大学国际地球系统科学研究所,江苏南京210093)
+
+摘要：以宁夏红寺堡区为研究区，基于高分一号( $\mathrm { ' G F - 1 / W F V }$ )卫星构建葡萄生长季时间序列光谱数据，运用(Jefreys-Matusita）（J-M)距离分析葡萄地块归一化植被指数(NDVI)时序曲线特征确定了最佳识别时相,将最佳时相的 NDVI、相邻时相差值速率和曲线积分训练样本集导入Clementine 数据挖掘软件中,利用C5.0决策树分类算法,并结合专家经验法构建葡萄林决策树提取模型。结果表明:构建的识别模型能够满足葡萄的识别需求,但在不同覆盖度的葡萄地块上精度有所差异;基于决策树分类的总体精度为 $9 3 . 7 1 \%$ ,Kappa系数为0.91。其中，中低覆盖度葡萄林生产精度为 $9 0 . 8 2 \%$ ,用户精度为 $8 8 . 5 6 \%$ ;高覆盖度葡萄林生产精度为 $9 2 . 4 4 \%$ ,用户精度为 $9 1 . 1 8 \%$ 0关键词：葡萄林；遥感提取；GF-1/WFV 时序数据；识别模型；曲线积分；决策树；宁夏
+
+葡萄是分布最为广泛的果树树种之一，如何快速获取葡萄的空间分布及其生长状态，为葡萄种植的精细化管理、产业的可持续发展及其生态效应评价提供技术支撑，是当前急需解决的问题。农业遥感技术的发展使得快速、准确监测农作物空间分布得以实现，对于农业的生产与布局调控具有重大意义[],可作为开展葡萄种植时空分布调查的重要手段。宁夏贺兰山东麓葡萄酒产区是我国八大葡萄酒产区之一，其中，红寺堡区是种植优质酿酒葡萄的最佳产区之一[2]。红寺堡区作为新绿洲开发区,摸清葡萄种植区的具体分布情况对于当地葡萄的合理种植及管理极为重要。
+
+国内外学者利用遥感技术在农作物信息的识别和提取方面已进行了大量研究工作。目前，用于作物面积监测的遥感数据源以多光谱影像为主，按空间分辨率的不同分为高、中高和中低分辨率。高空间分辨率影像虽然精度高，但时间分辨率过低，不能准确获取满足应用需求的作物关键生育期影像；低空间分辨率的遥感影像虽满足时间序列的实践需求，但空间分辨率非常差，只能在一定精度范围内进行耕地提取[3]；而中分辨率可以弥补高空间分辨率和低空间分辨率的缺陷，并广泛应用于作物面积提取以及耕地提取等[4-5]。虽然中分辨率影像中混合像元现象较多，地物识别性较弱，但充分利用计算机分类方法，辅助于地物在光谱中呈现的规律可提高提取精度[6]。其中,基于数据挖掘技术的决策树分类法可以处理多维属性时确定各个属性的重要程度，提取重要性高的属性作为分类判据并生成分类规则，在遥感影像的分类和目标识别当中应用较为广泛[7]
+
+为了更准确提取作物种植信息，现已逐渐由利用单一时相影像向利用多时相影像的模式转变，多时相影像能够有效监测不同作物生长情况，更利于作物的区分[8]。因此,时间序列的构建逐渐成为热点，且在水稻、玉米、小麦、棉花等农作物提取方面研究广泛[9-13）,但在果林提取方面相对较少,在葡萄林提取方面的研究更鲜见报道。我国正在实施的“高分辨率对地观测”系统重大专项中，高分辨率系列卫星中的首颗光学卫星高分一号(GF-1)已在轨运行近2a,获取了大量高质量数据，正处于应用研究阶段，其能够在自然资源调查、植被变化监测、环境质量评估及生态环境变化等研究中发挥重要作用[14-15]。此外,GF-1卫星具有高、中空间分辨率对地观测和大幅宽成像结合的特点，同时搭载了幅宽优于 $6 0 ~ \mathrm { k m }$ 的 $2 \mathrm { ~ m ~ }$ 分辨率全色和 $8 \mathrm { ~ m ~ }$ 分辨率多光谱传感器，幅宽优于 $8 0 0 ~ \mathrm { k m }$ 的4台 $1 6 ~ \mathrm { k m }$ 分辨率多光谱传感器，理论上可以实现每4d提供1次数据，构成时间序列数据，从而实现高空间分辨率和高时间分辨率相结合的独特优势，这也是当前遥感对地观测技术发展的重要方向[16]。因此,开展基于GF-1时序数据的宁夏葡萄主产区种植空间分布，对于遥感典型植被类型识别与监测研究领域新技术的研发具有重要意义。
+
+本文选择兼具较好时间和空间分辨率的中高分辨率卫星高分一号，作为葡萄林基于时间序列提取提供较好的数据源，结合遥感影像的光谱特性和提取的植被指数运用决策树分类算法，提取和识别葡萄林空间分布信息。以宁夏贺兰山东麓葡萄酒产区的红寺堡区为研究区，基于 $\mathrm { G F } - 1 / \mathrm { W F V }$ 时序数据,采用决策树分类方法，分为中低覆盖度葡萄林和高覆盖度葡萄林，分别提取宁夏红寺堡区葡萄林地，探索并建立普适性与操作性较强的葡萄林地决策树分类模型，从而为葡萄林地提取提供参考，也为未来葡萄种植合理布局及其生态环境保护提供借鉴。
+
+# 数据与方法
+
+# 1.1 研究区概况
+
+红寺堡区位于贺兰山东麓葡萄酒产区的最南端,地理坐标为 $1 0 5 ^ { \circ } 4 5 ^ { \prime } \sim 1 0 6 ^ { \circ } 3 0 ^ { \prime } \mathrm { ~ E ~ }$ ， $3 7 ^ { \circ } 1 0 ^ { \prime }$ \~$3 7 ^ { \circ } 2 9 ^ { \prime } \mathrm { N }$ ,地势由东南向西北倾斜。该区域属典型温带大陆性气候,干旱少雨,多年平均降水量为 251$\mathbf { m } \mathbf { m }$ ,由东南向西北递减，降雨多集中在6一9月，占全年降水量的 $7 2 . 4 \%$ 。多年平均蒸发量为2387$\mathbf { m } \mathbf { m }$ ，气温日较差 $1 3 . 7 ~ \mathrm { ^ { \circ } C }$ ，全年日照时数为 $2 9 0 0 \sim$ $3 5 5 0 \mathrm { ~ h ~ }$ 。该区土地总面积约为 $8 8 0 . 7 3 ~ \mathrm { k m } ^ { 2 }$ ，良好的气候条件极有利于葡萄种植,近年来,葡萄产业已成为红寺堡的第一支柱产业(17-18]。因此,以红寺堡区的葡萄林为研究对象进行葡萄林识别研究极具代表性和典型性。
+
+# 1.2 数据源与预处理
+
+高分一号(GF-1)卫星搭载的4台多光谱相机（WFV）幅宽可达 $8 0 0 ~ \mathrm { k m }$ ，包括蓝 $( 0 . \ 4 5 \ \sim \ 0 . \ 5 2$ $\mu \mathrm { m }$ ）、绿 $( 0 . 5 2 \sim 0 . 5 9 \ \mu \mathrm { m } )$ ）、红 $( 0 . 6 3 \sim 0 . 6 9 \ \mu \mathrm { m } )$ 、近红外 $( 0 . 7 7 \sim 0 . 8 9 ~ \mu \mathrm { m } ) 4$ 个波段,空间分辨率达到 $1 6 \mathrm { ~ m ~ }$ ,重访周期为2d,同时具有较高空间和时间分辨率的特点，能获取无云的植被关键生育期的遥感影像。考虑到所选影像应该在同一天内覆盖红寺堡区，且影像应该无云或少云，共选取了2017年3—12月共12个时相的遥感数据(表1）。
+
+影像的预处理包括辐射定标、大气校正和几何校正，其中大气校正采用Flaash模型。最后裁剪拼接最终获得 $\mathrm { G F } - 1 / \mathrm { W F V }$ 的时间序列数据集。利用多时相NDVI数据能够充分刻画出同一作物在不同生育阶段的光谱差异，可为准确提取作物种植面积信息提供技术支持(10]。研究区时序归一化植被指数（normalized difference vegetation index,NDVI）计算公式如下：
+
+$$
+\mathrm { { N D V I } = ( \ N i r - R e d ) / ( \ N i r + R e d ) }
+$$
+
+式中：Nir为近红外波段反射率；Red为红波反射率。由于本研究采用的GF-1数据为遥感影像，故近红外波段为Band4，红光波段为Band3。
+
+为获取宁夏红寺堡灌区主要地物类型的分布，2017年8月对红寺堡区进行地面实地调查（图1）。野外调查时采用手持GPS（global positioning system）测量特征地块的经纬度坐标并记录植被类型。此次调查共获取样本点1901个（表2）。
+
+表1影像时间序列信息  
+Tab.1Time series information of images   
+
+<html><body><table><tr><td>序号</td><td>传感器类型和产品序号</td><td>影像获取时间</td><td>序号</td><td>传感器类型和产品序号</td><td>影像获取时间</td></tr><tr><td>1</td><td>GF1_WFV4_E106.7_N38.5_L1A0002263952</td><td>2017-03-26</td><td>7</td><td>GF1_WFV3_E106.1_N38.9_L1A0002545275</td><td>2017-08-16</td></tr><tr><td>2</td><td>GF1_WFV4_E106.7_N36.7_L1A0002331149</td><td>2017-04-28</td><td>8</td><td>GF1_WFV4_E106.6_N38.5_L1A0002580944</td><td>2017-09 -02</td></tr><tr><td>3</td><td>GF1_WFV3_E106.2_N38.9_L1A0002379084</td><td>2017-05-26</td><td>9</td><td>GF1_WFV2_E107.5_N39.3_L1A0002671474</td><td>2017 -10 -12</td></tr><tr><td>4</td><td>GF1_WFV4_E106.7_N38.5_L1A0002424156</td><td>2017-06-16</td><td>10</td><td>GF1_WFV2_E107.1_N39.3_L1A0002755542</td><td>2017-11-10</td></tr><tr><td>5</td><td>GF1_WFV3_E106.1_N38.9_L1A0002464407</td><td>2017-07-06</td><td>11</td><td>GF1_WFV3_E107.2_N38.9_L1A0002767349</td><td>2017 -11 -14</td></tr><tr><td>6</td><td>GF1_WFV1_E105.5_N38.0_L1A0002515969</td><td>2017-07-30</td><td>12</td><td>GF1_WFV3_E106.4_N38.9_L1A0002824873</td><td>2017 -12-05</td></tr></table></body></html>
+
+![](images/c9b08692c79f76b50024b399a4b666d49f17f4faefa4e4385d05a8f423049849.jpg)  
+Fig.1Schematic diagram of the location of Hongsibao and the distribution of sample site
+
+表2地类取样点个数  
+Tab.2Number of sampling sites of land use types   
+
+<html><body><table><tr><td>地类</td><td>训练样本点数</td><td>验证样本点数</td><td>样本总数</td></tr><tr><td>中低覆盖度葡萄林</td><td>215</td><td>155</td><td>370</td></tr><tr><td>高覆盖度葡萄林</td><td>135</td><td>92</td><td>227</td></tr><tr><td>玉米</td><td>181</td><td>100</td><td>281</td></tr><tr><td>小麦</td><td>117</td><td>95</td><td>212</td></tr><tr><td>牧草和蔬菜</td><td>96</td><td>70</td><td>166</td></tr><tr><td>防护林</td><td>106</td><td>65</td><td>171</td></tr><tr><td>疏草地</td><td>137</td><td>84</td><td>221</td></tr><tr><td>裸地</td><td>137</td><td>120</td><td>257</td></tr></table></body></html>
+
+# 2研究方法与技术路线
+
+（1）根据研究区葡萄生长物候历，确定葡萄生长的关键时期，选取相应时间影像；（2）影像在图像预处理后，利用ENVI5.3软件计算所选11个时相的NDVI值，构建完整时间序列的GF/WFV-NDVI数据,通过分析得到葡萄提取的最佳时序组合；（3)将 NDVI数据进行波段运算,分别计算其相邻时相差值速率 $( K )$ 和曲线积分（S)；（4）将NDVI、相邻时相差值速率 $( K )$ 和曲线积分 $( S )$ 训练样本集导入Clementine数据挖掘软件中，利用C5.0决策树分类算法，并结合专家经验法构建葡萄林决策树提取模型,进行研究区葡萄种植区域识别，并进行精度验证。本文的研究技术路线如图2所示。
+
+# 2.1 葡萄生长周期
+
+研究区冬季寒冷，为预防葡萄藤风干和受冻，需对其进行埋土防寒[19]。翌年春季4月中旬将其挖出，5月初开始萌芽抽枝，5月20日左右进入花期；6月中旬(打春稍)左右进入坐果期;7一8月葡萄枝蔓和果实进入生长旺期，8月中旬在枝蔓上打秋稍以减少养分流失；9一10月葡萄果实成熟，之后枝蔓开始泛黄，采摘完成时将叶子清除，只留主茎并将其掩埋，其后葡萄进入休眠期（表3）。
+
+![](images/144fc38209ede48d8784af653aba01b7fb2f06f5563dc3231f0c5871fa40d7bf.jpg)  
+图1宁夏红寺堡位置及样点分布示意图  
+图2技术路线Fig.2Technology route
+
+# 2.2典型地物NDVI时间序列构建
+
+时间序列植被指数均值变化能直观反映一年中同一植被在不同时间和同一时间不同植被的植被指数差异[20]。归一化植被指数与植被的许多参数密切相关，如叶面积指数、植被覆盖度和植被郁闭度等，利用NDVI能够很好地提取植被并且具有较强的抗干扰能力[21-23] O
+
+由于葡萄栽培在秋季清理枝蔓和冬季掩埋的特殊性，所以研究中选取包括秋冬季节的全年时间序列为研究周期，以充分展现其年内的生长变化特征，探讨其提取方法。研究的主要工作是将葡萄林与耕地、林地、裸地分开。基于红寺堡区主要的地物类型,利用公式(1)计算影像的 NDVI值，求取每种地类在不同时间的NDVI均值，建立研究区主要地物NDVI均值时间序列曲线。
+
+Tab.3Compared results of different-phase remote sensing images and grape growth cycle   
+
+<html><body><table><tr><td></td><td>萌芽及新 梢生长期</td><td>花期</td><td>幼果期</td><td>果实膨大 及着色期</td><td>成熟期</td><td>落叶期</td><td>枝蔓清理期</td><td>掩埋期</td></tr><tr><td>生长周期/</td><td>04-20-</td><td>05-21-</td><td>06-16-</td><td>07-25—</td><td>09-01-</td><td>09-26-</td><td>10-21-</td><td>11-25-</td></tr><tr><td>月-日</td><td>05-20</td><td>06-15</td><td>07-20</td><td>08-30</td><td>09 -25</td><td>10-20</td><td>11 -20</td><td>04-10</td></tr><tr><td>GF-1</td><td>2017 -04-28</td><td>2017 -05 -26</td><td>2017-06-16</td><td>2017-07-30</td><td>2017 -09 -02</td><td>2017 -10 -12</td><td>2017 -11 -14</td><td>2017-13-56</td></tr></table></body></html>
+
+# 2.3Jeffreys-Matusita距离计算与最佳时相
+
+NDVI时间序列共有12个时相，包括葡萄掩埋期和生长发育期的数据，其数据量较大，因此，可进行最佳时序组合分析。研究的最终目的是将葡萄林和其他地类区分，地表特征可分性的判定方法很多，如J-M 距离（Jeffreys-Matusita distance）、 $B$ 距离（Bhatta-charyyadistance）、离散度、样本间平均距离、类别间相对距离等。相对于其他指标，J-M距离被认为更适合表达类别可分性。基于某一特征两类样本的J-M距离,计算公式表示为[24]：
+
+$$
+J = 2 \ ( \ 1 \ - \ e ^ { - B } )
+$$
+
+式中： $J$ 表示J-M距离； $e$ 表示某类特征的均值; $B$ 表示在某一特征维的巴氏距离。在样本对象满足正态分布时，两类样本对象的巴氏距离为：
+
+$$
+{ \boldsymbol { B } } = \frac { 1 } { 8 } { \left( { { e } _ { 1 } } - { { e } _ { 2 } } \right) } \frac { 2 } { { { \delta } _ { 1 } ^ { 2 } } + { { \delta } _ { 2 } ^ { 2 } } } + \frac { 1 } { 2 } { \ln \left[ \frac { { { \delta } _ { 1 } ^ { 2 } } + { { \delta } _ { 2 } ^ { 2 } } } { 2 { { \delta } _ { 1 } } { { \delta } _ { 1 } } } \right] }
+$$
+
+式中：8表示某类特征的方差。
+
+J-M距离值在0\~2之间，其大小代表样本间可分离程度的高度。J-M距离大于1.8为合格，说明样本间具有很好的光谱可分性，其值越大表明地物间可分离性较好[24]
+
+# 2.4NDVI差值速率与相邻曲线积分计算
+
+季节变化作为植被覆盖的特征之一，也是不同植被类型随时间变化的一种自然现象，利用不同时相条件下的NDVI序列，可以比较准确地反映出植物生长的季相变化[25]。在 NDVI 阈值限制条件下,加入特殊时相的差值速率及曲线积分，可作为进一步识别相似地类的依据。
+
+计算公式：
+
+NDVI差值速率：K= $\ K _ { i } = { \frac { A _ { i + 1 } - A _ { i } } { T _ { i + 1 } - T _ { i } } }$
+
+NDVI差值曲线积分[26]
+
+$$
+S _ { i } = \left( A _ { i } + A _ { i + 1 } \right) \times \left( T _ { i + 1 } - T _ { i } \right) / 2
+$$
+
+式中：A分别表示各时相的NDVI; $i$ 表示NDVI时相序列编号； $T$ 为相邻2个时相NDVI的天数差（表4）； $K$ 表示各相邻时相的NDVI差值速率； $S _ { i }$ 表示各相邻时相的NDVI曲线积分值。
+
+表3不同时相遥感影像与葡萄生长周期对照  
+表4NDVI数据及编号Tab.4NDVI data and serial numbers  
+
+<html><body><table><tr><td>NDVI编号(i)</td><td>NDVI时相序列（B)</td><td>NDVI对应天数(T)/d</td></tr><tr><td>1</td><td>03-26</td><td>85</td></tr><tr><td>2</td><td>04-28</td><td>118</td></tr><tr><td>3</td><td>05-26</td><td>146</td></tr><tr><td>4</td><td>06-16</td><td>167</td></tr><tr><td>5</td><td>07-06</td><td>187</td></tr><tr><td>6</td><td>07-30</td><td>211</td></tr><tr><td>7</td><td>08-16</td><td>228</td></tr><tr><td>8</td><td>09-02</td><td>245</td></tr><tr><td>9</td><td>10-12</td><td>285</td></tr><tr><td>10</td><td>11 -14</td><td>318</td></tr><tr><td>11</td><td>12 -05</td><td>339</td></tr></table></body></html>
+
+# 2.5基于决策树的葡萄林识别模型
+
+C5.0作为一种决策树算法，能根据最大信息增益（informationgain））自动计算出达到最佳决策树时各叶子阈值，从而提高决策树分类算法的客观性与精度(27-29]。因此,本文采用数据挖掘软件 Clem-entine对数据集深入挖掘，并结合专家经验法在EN-VI5.3中生成决策树模型及分类规则。
+
+本研究主要对易混淆的高覆盖植被类（防护林、耕地、高覆盖度葡萄)和低覆盖植被类(中低覆盖度葡萄林、疏草地)及裸地进行遥感识别，从而实现葡萄林地的高精度提取。因此，选取研究区不同植被覆盖地类，分别分析NDVI曲线特征及其差值速率特征、积分值等特征变量的平均值，找出葡萄林与其他不同植被覆盖地类所存在的差异性，从而实现目标地类提取目的。
+
+# 3结果与分析
+
+# 3.1典型地物GF-1/WFV-NDVI时间序列
+
+从图3可以看出，中低覆盖度葡萄林的NDVI曲线自萌芽期至花期呈陡坡形式增长，并于果实膨大及着色期达到最大峰值，受8月中旬打秋稍活动的影响，随生物量的减少,NDVI曲线在该时期出现低谷，至果实成熟期后葡萄林生长较为旺盛，NDVI曲线达到另一个峰值。中低覆盖度葡萄林较明显的曲线特征在于8一9月低于耕地和林地，出现区分中低覆盖度葡萄林和耕地识别的“窗口期”；从整体来看，中低覆盖度葡萄林与非植被，由于区域内植被覆盖度低，NDVI值整体较低，葡萄林相对非植被和稀疏草地覆盖度较高，加之受人类活动(打梢)的影响较大，使其季节变化明显，即中低覆盖度葡萄林的NDVI差值速率变化较裸地和稀疏草地明显。因此，充分结合葡萄林时序曲线中NDVI值及其差值速率，可以更有效地提取中低覆盖度葡萄林信息。
+
+对于高覆盖度葡萄林和其他高覆盖度植被，NDVI都呈现出生长季明显的快速上升趋势。小麦的季节变化十分明显，呈现出双峰曲线特征，其原因是7月小麦收割后会有蔬菜种植;林地在休眠期内
+
+NDVI值较低，从3月下旬开始呈上升趋势，到6月末达到最高值，其后NDVI值整体较高且无较大波动，在11月中旬进入冬季后叶片脱落、衰萎,NDVI值降低；玉米在5月下旬开始迅速生长，7一9月NDVI曲线平缓并保持较高水平，9月收割后NDVI值迅速降低。从图3发现，高覆盖度葡萄林与牧草的NDVI时序曲线形状相似，且季节变化相近，单纯利用NDVI值及其差值变化速率很难将其分开。总体看来，高覆盖度葡萄林与其他高覆盖度植被的NDVI曲线有多处相交，差值速率较为相近，然而NDVI时间序列曲线的积分值能有效放大地物类型的特征，显著提升葡萄林与其他地物的差异并可以减少影像中“同谱异物”和“同物异谱”的影响。因此，可利用相邻时相的NDVI曲线积分值将高覆盖度葡萄林进行识别。
+
+# 3.2J-M距离及最佳时序NDVI组合
+
+依据研究区葡萄林生长的物候差异及其完整生长周期的NDVI曲线特征，可获得不同时序NDVI的组合数据，通过计算不同时序NDVI组合数据的J-M距离，确定葡萄林提取的最佳时序，减少数据的冗余量，以提高提取精度。
+
+J-M距离计算结果(表5)表明，葡萄林与其他地物的分离性随时序数据的增加而增大，但当时序数据组合为4—10月时，J-M距离值为2，可分离性已达到最佳水平。因此，根据J-M距离计算结果，确定NDVI数据组合4一10月的8个时相为最佳时序数据组合，并将此时序用于后面的波段运算，计算 $K$ 值与S值。
+
+![](images/b2e80dee8c16119634b03999ecac26b2ce8ab081e0d8f6654a046b8d6c408db9.jpg)  
+图3 NDVI时间序列变化曲线  
+Fig.3Variation of time series ofNDVI
+
+表5Jeffreys-Matusita距离计算结果  
+Tab.5Calculated results of Jeffreys-Matusita distance   
+
+<html><body><table><tr><td>NDVI数据编号组合</td><td>GPT - YM</td><td>GPT-MC&SC</td><td>GPT - XM</td><td>GPT - FHL</td><td>ZDPT-GPT</td><td>ZDPT- SCD</td><td>ZDPT - LD</td></tr><tr><td>2-3-4</td><td>1.980</td><td>1.990</td><td>1.978</td><td>1.996</td><td>1.69</td><td>1.855</td><td>1.838</td></tr><tr><td>2-3-4-5</td><td>2.000</td><td>1.999</td><td>1.998</td><td>1.998</td><td>1.790</td><td>1.965</td><td>1.868</td></tr><tr><td>2-3-4-5-6-7-8</td><td>1.999</td><td>2.000</td><td>1.998</td><td>2.000</td><td>1.988</td><td>1.962</td><td>1.984</td></tr><tr><td>2-3-4-5-6-7-8-9</td><td>2.000</td><td>2.000</td><td>2.000</td><td>2.000</td><td>2.000</td><td>2.000</td><td>2.000</td></tr><tr><td>1-2-3-4-5-6-7-8-9</td><td>2.000</td><td>2.000</td><td>2.000</td><td>2.000</td><td>2.000</td><td>2.000</td><td>2.000</td></tr><tr><td>2-3-4-5-6-7-8-9-10</td><td>2.000</td><td>2.000</td><td>2.000</td><td>2.000</td><td>2.000</td><td>2.000</td><td>2.000</td></tr><tr><td>2-3-4-5-6-7-8-9-10-11</td><td>2.000</td><td>2.000</td><td>2.000</td><td>2.000</td><td>2.000</td><td>2.000</td><td>2.000</td></tr></table></body></html>
+
+注：GPT表示高覆盖度葡萄林;ZDPT表示中低覆盖度葡萄林;YM表示玉米;MC&SC 表示牧草和蔬菜;XM表示小麦;FHL表示防护林;SCD 表示疏草地;LD表示裸地。
+
+# 3.3葡萄林识别模型构建
+
+不同地类的归一化指数分析发现： $\textcircled{1}$ NDVI指数可以将植被覆盖地类分为高覆盖植被类和低覆盖植被类及裸地、水体； $\textcircled{2}$ 低覆盖植被类中，中低覆盖度葡萄林的NDVI指数均值最高，而且季节变化明显，可采用NDVI指数结合差值速率 $( K )$ 区分中低覆盖度葡萄林与其他2种地类； $\textcircled{3}$ 高覆盖植被类中，高覆盖度葡萄林与耕地、林地、牧草覆盖度相对较高，其生长旺季的NDVI值过大易饱和，利用相邻时相的面积曲线值放大各地类的特征值，可达到区
+
+分地类的目的。
+
+结合NDVI曲线分析和数据挖掘，首先，可用植被指数 $\mathrm { \Delta N D V I _ { 0 9 0 2 } }$ 进行阈值分割为 $\mathrm { N D V I } _ { 0 9 0 2 } > 0$ . 461(耕地、林地、牧草、高覆盖度葡萄林)和 $\mathrm { \Delta N D V I _ { 0 9 0 2 } } <$ 0.461（中低覆盖度葡萄林、草地、裸地、水体);其次，运用Clementine中C5.0决策树分类算法分别建立中低覆盖度葡萄林和高覆盖度葡萄林的决策树，并获取规则;最后，结合葡萄林生长物候期和反复试验，判断 $\mathrm { N D V I } _ { 0 4 2 8 }$ 为葡萄提取的关键时期之一。由于该时期葡萄林刚从地里挖出，与裸地和疏草地的光谱信息十分相似。因此，在葡萄提取过程中可加入这一关键时期,减少葡萄小苗与裸地和草地的混淆。最终，经过反复试验，得到葡萄林提取规则（图4）：
+
+中低覆盖度葡萄林； $\mathrm { \cdot N D V I _ { \ell ^ { 9 } 0 9 2 } } { \leqslant } 0 . 4 6 1 , \mathrm { N D V I } _ { 0 7 3 0 } > 0$ $K _ { \scriptscriptstyle { 0 4 2 8 - 0 5 2 5 } } > - 0 . 0 0 1$ ， $\mathrm { N D W I } _ { 1 0 1 2 } > 0 . 0 7 5$ ， $\mathrm { N D V I } _ { 0 4 2 8 } < 0 . 1$ ：
+
+![](images/e0fe8885ad705991b41e4554230d25fc0c2024ff2c77349413bec42f31dc6682.jpg)  
+Fig.4Classification process and parameters of the decision tree
+
+高覆盖度葡萄林;NDVI0902>0.461，S0526-0616 ≤9.518， $S _ { 0 7 0 6 - 0 7 3 0 } \ \leqslant \ 1 6 .$ 307， $S _ { 0 6 1 6 - 0 7 0 6 } > 4 . 7 4 6$ ，$S _ { 0 7 3 0 - 0 8 1 6 } > 1 1 . 3 0 9$ ， $\mathrm { N D V I } _ { 0 4 2 8 } < 0 . 0 7$ 。
+
+# 3.4分类结果与精度验证
+
+采用上述方法对红寺堡区2017年的葡萄种植区进行提取，获得的分类结果如图5所示。考虑到本文的研究对象为葡萄林，因此将其他地物类型合并。
+
+由图5可以看出，研究区内葡萄种植区多为不连续的小面积区块，较大面积区块较小，破碎区块较多。且葡萄种植区集中在研究区中部，罗山脚下片区分布面积较大且较为连贯。其次在东部和南部有较少分布。在缺少2017年葡萄种植面积计数据的情况下，本文将引用最新数据提及的种植面积进
+
+![](images/0bc54348ac5462d06c364f8c2c05577e8329b0114a89f719b0f1f080a55e8c97.jpg)  
+图4决策树分类流程及参数  
+图5葡萄林提取结果 Fig.5Extracted results of grape
+
+# 表6决策树分类精度评价
+
+Tab.6Evaluation on classification accuracy of the decision tree   
+
+<html><body><table><tr><td>类别</td><td>PU/%</td><td>UA/%</td></tr><tr><td>中低覆盖度葡萄林</td><td>92.10</td><td>90.32</td></tr><tr><td>高覆盖度葡萄林</td><td>91.20</td><td>90.21</td></tr><tr><td>其他植被</td><td>95.06</td><td>97.58</td></tr><tr><td>非植被</td><td>92.92</td><td>87.50</td></tr><tr><td>总精度</td><td>94.49</td><td></td></tr><tr><td>Kappa系数</td><td colspan="2">0.90</td></tr></table></body></html>
+
+注：PU、UA分别代表各类的生产精度和用户精度。
+
+行比较。有关数据统计，截至2013年底，红寺堡区葡萄累计种植总面积达到 $8 4 ~ \mathrm { k m } ^ { 2 [ 3 0 ] }$ 。分类结果显示，分类提取葡萄林总面积为 $7 1 . 3 ~ \mathrm { k m } ^ { 2 }$ ,中低覆盖度葡萄林面积为 $5 6 ~ \mathrm { k m } ^ { 2 }$ ；高覆盖度葡萄林面积为$1 4 . 7 ~ \mathrm { k m } ^ { 2 }$ 。提取相对误差为 $1 5 . 1 \%$ 。
+
+将人机交互决策树生成的分类结果同野外采样验证样本集数据作对照，建立混淆矩阵，选取生产者精度、用户精度、Kappa系数和总精度4个指标对分类结果进行验证与评价。为了对比决策树模型构建的优劣程度，本研究选择同样训练样本，采用支持向量机分类法进行对比，结果如表6所示。结果表明，基于决策树分类的总体精度为 $9 4 . 4 9 \%$ ,Kappa系数为0.90。其中，中低覆盖度葡萄林生产精度为$9 2 . 1 0 \%$ ，用户精度为 $9 0 . 3 2 \%$ ；高覆盖度葡萄林生产精度为 $9 1 . 2 0 \%$ ,用户精度为 $9 0 . 2 1 \%$ 。
+
+# 4讨论与结论
+
+葡萄生长季与其他植被较为近似，使用某一时相的遥感影像提取葡萄种植区域，极易发生混淆，大幅度降低提取精度。而选择最佳NDVI时间序列曲线特征并结合葡萄林生长物候期和种植规律的分类识别方法，对葡萄林的种植信息提取精度较高，结果满足需求。覆盖葡萄林生育期的时间序列遥感数据完整地反映了葡萄林长势随时间的变化，利用恰当的数学方法表现特殊的物候特征，能够有效将其与其他地物区分开，识别出葡萄林种植地块像元。该方法从地物的NDVI曲线的变化特征入手，根据不同覆盖度的葡萄林探索NDVI曲线的数学模型放大物候特征，以数据挖掘的方法寻找特殊节点，该方法所需参数较少，自动化程度高，适用性强，适宜向更大范围的葡萄林种植区域推广，有较高的实用价值。总而言之，具有较高时间和空间分辨率优势的GF-
+
+1/WFV遥感数据能够较好地重建葡萄林生长季NDVI曲线，反映其变化特征，因此,通过选择葡萄林生长期最佳时相的遥感数据，然后利用时序植被指数进行葡萄林分类，可以有效减小“异物同谱”现象的干扰。但从分类结果看，提取葡萄林图斑完整性较低，其主要原因为红寺堡区不同的地貌、土壤条件等，导致葡萄林生长速度、长势状态等都有一定的差异,影响了葡萄林提取的准确性。因此，在未来的研究中，应采用高分辨率影像融合的方法，结合使用面向对象分类法，有针对性的设置参数，将葡萄林地块进行划分。
+
+本文研究得出：充分利用葡萄林的生长物候期和种植规律的NDVI时序特征，针对不同覆盖度的葡萄林选择恰当的分类方法，可准确有效提取葡萄林。基于2017年4—9月GF-1/WFV时间序列数据并结合实地采集数据信息，利用阈值分割方法将研究区内的高、低覆盖度植被进行划分，通过进一步挖掘与分析葡萄的提取窗口期，发现中低覆盖度葡萄林可利用NDVI及其差值速率进行有效识别；高覆盖度葡萄林可以利用NDVI及其相邻时相曲线面积分别进行有效识别。
+
+运用J-M距离判别方法，研究了葡萄林与其他地物类型区分性能最佳的波段组合，即得到了葡萄林提取的最佳时间序列。研究指出：4一9月的时间序列，由4月28日、5月26日、6月16日、7月2日、7月30日、8月16日、9月2日共7个时相组成葡萄林提取的最佳时相，使得葡萄林和其他地类的区分性较好且数据冗余降低。
+
+基于特征波段的决策树分类方法提取葡萄林，深入分析和挖掘光谱信息，有效提取了研究区葡萄分布且达到针对性强、分类精度明显提高的目的。对识别模型及提取精度进行了验证评价，提取总精度达到了 $94 \%$ ,从而证明了本文葡萄林识别模型的有效性和可靠性。
+
+研究中存在的不足之处，主要表现为：对于空间分辨率问题导致的混合像元没有做处理，在一定程度上影响了提取误差，在葡萄林提取中，部分的道路像元被划分到葡萄林像元中；分类结果显示，研究区内部分乡间道路旁的低矮灌丛，与葡萄种植地区的时间序列光谱特征十分类似，造成混淆。考虑到道路在整个研究区内所占面积较小，且该误差对葡萄种植面积提取的影响不大，所以，在误差允许的范围内，未来研究中将予以改进。
+
+# 参考文献（References）：
+
+[1]覃泽林,谢国雪,李宇翔,等.多时相高分一号影像在丘陵地区大 宗农作物提取中的应用[J].南方农业学报,2017,48（1）：181－ 188.[Qin Zelin,Xie Guoxue,Li Yuxiang,et al.Application of multi-temporal GF-1 image in extraction of staple crops in hilly region[J]. Guangxi Agricultural Sciences,2017,48(1） :181-188.]   
+[2］温胜强.贺兰山东麓葡萄酒产业发展研究——以红寺堡区为 例[J].现代农业科技,2017（17）：281－283,285.〔Wen Shengqiang.Wine industry development research in Eastern Helan Mountain area:A case study of Hongsibu District[J]. Modern Agricultural Sciences and Technology,2017(17） :281-283,285.]   
+[3]黄健熙,贾世灵,武洪峰,等.基于GF-1WFV 影像的作物面 积提取方法研究[J].农业机械学报,2015,46（增刊1）：253- 259.[Huang Jianxi,Jia Shiling,Wu Hongfeng,et al.Extraction method of crop planted area based on GF -1 WFV image[J]. Transactions of the Chinese Societyfor Agricultural Machinery, 2015,46(Suppl.1) :253 -259.]   
+[4］张赫林,彭代亮,邓睿,等.基于Landsat 时间序列数据的祁连 山区域土地利用变化[J].北京工业大学学报,2017,43（5）： 665-676.[Zhang Helin,Peng Dailiang,Deng Rui,et al.Dynamic change of land use in Qilian Mountains based on time-series Landsat image[J]. Journal of Beijing University of Technology,2017,43 (5) :665 -676.]   
+[5]梁守真,陈劲松,吴炳方,等.应用面向对象的决策树模型提取 橡胶林信息[J].遥感学报,2015,19（3）:485－494.[Liang Shouzhen,Chen Jinsong，Wu Bingfang,et al.Extracting rubber plantation with decision tree model based on object-oriented method[J].Journal of Remote Sensing,2015,19(3）:485-494.]   
+[6]常布辉,王军涛,罗玉丽,等.河套灌区沈乌灌域GF-1/WFV 遥感耕地提取[J].农业工程学报,2017,33（23）：188－195. [Chang Buhui,Wang Juntao,Luo Yuli,et al.Cultivated land extraction based on GF-1/WFVremote sensing in Shenwu irrigation area of Hetao Irrigation District[J].Transactions of the Chinese Societyof Agricultural Engineering,2017,33（23）:188-195.]   
+[7]潘琛,杜培军,罗艳,等.一种基于植被指数的遥感影像决策树 分类方法［J].计算机应用,2009,29（3）：777－780.[Pan Chen,Du Peijun,Luo Yan,et al.Decision tree classification of remote sensing images based on vegetation indices[J]. Jouranl of Computer Application,2009,29(3）:777-780.]   
+[8]Murakami T,Ogawa S,Ishitsuka N,et al.Crop discrimination with multitemporal SPOT/HRV data in the Saga Plains,Japan[J].International Journal of Remote Sensing,2001,22（7）:1 335- 1 348.   
+[9]李鑫川,徐新刚,王纪华,等.基于时间序列环境卫星影像的作 物分类识别[J].农业工程学报,2013,29(2）：169-176,298. [Li Xinchuan,Xu Xingang,Wang Jihua,et al. Crop classification recognition based on time-series images from HJ satelite[J]. Transactionsof the Chinese Societyof AgriculturalEnginering， 2013,29(2):169-176,298.]   
+[10]杨闫君，占玉林,田庆久，等.利用时序数据构建冬小麦识别矢 量分析模型[J].遥感信息,2016,31（5）:53-59.[Yang Yanjun,Zhan Yulin,Tian Qingjiu,et al.Vector analysis model of winter wheat identification using NDVI time series[J]. Remote Sensing Information,2016,31(5）:53-59.]   
+[11］刘吉凯,钟仕全,陈玉兰,等.基于卫星遥感数据的库尔勒香梨
+
+识别提取方法研究[J].科学技术与工程,2014,14（26）：190- 196.[Liu Jikai,Zhong Shiquan,Chen Yulan,et al. Study on extracting method of Korla pear information based on satelite remote sensing data[J]. Science Technology and Engineering,2014,14 (26):190 -196.]
+
+[12］王玉,付梅臣,王力,等.基于多源高分卫星影像的果棉套种信息 提取[J].国土资源遥感,2017,29(2）:152-159.[Wang Yu,Fu Meichen,Wang Li,etal.Tree-coton intercropping land extraction based on multi-source high resolution satelite imagery[J].Remote Sensing for Land & Resources,2017,29(2):152-159.] [13］田野,张清,李希灿,等.基于多时相影像的棉花种植信息提取 方法研究[J].干旱区研究,2017,34（2）：423-430.［Tian Ye， Zhang Qing,Li Xican,et al.Extraction method of coton plantation information based on multi-temporal images[J].Arid Zone Research,2017,34(2) :423 -430.] [14」王中挺,辛金元,贾松林，等.利用暗目标法从高分一号卫星16 m 相机数据反演气溶胶光学厚度[J].遥感学报,2015，19（3）：   
+530-538.[Wang Zhongting,Xin Jinyuan,Jia Songlin,et al.Retrieval of AOD from GF-116 m camera via DDV algorithm[J]. Journal of Remote Sensing,2015,19(3）:530 -538.] [15］郭燕,武喜红,程永政,等.用高分一号数据提取玉米面积及精 度分析[J].遥感信息,2015,30(6）:31-36.[Guo Yan,Wu Xihong,Cheng Yongzheng,et al. Maize recognition and accuracy evaluation based on high resolution remote sensing（GF-1）Data [J].Remote Sensing Information,2015,30(6）:31-36.] [16]白照广.高分一号卫星的技术特点[J].中国航天,2013（8）：5 -9.[Bai Zhaoguang. Technical features of GF-1 satellite[J]. Aerospace China,2013（8）:5 -9.] [17］杨新国,宋乃平.宁夏红寺堡扬黄灌区土壤沙化和盐渍化及其 相互关系[J].应用生态学报,2011,22（9):2 265－2 271. [Yang Xinguo,Song Naiping.Soil sandy desertification and salinization and their interrelationships in Yanghuang irrigated area of Hongsipu,Ningxia of Northwest China[J].Chinese Journal of Applied Ecology,2011,22(9):2 265-2 271.] [18］李昀霏,李陇堂.红寺堡地区葡萄酒旅游发展研究[J].北方园 艺,2016（10）:170-174.[Li Yunfei,Li Longtang.Study on the development of wine tourism in Hongsibu[J].Northern Horticulture,2016(10):170 -174.] [19]王志强,张敬国,郝志强,等.葡萄埋藤防寒机的研制与试验 [J].中国农机化学报,2015,36(5）：20-23.[Wang Zhiqiang， Zhang Jingguo,Hao Zhiqiang,et al. Development and experiment of grape vine burying machine[J]. Chinese Agricul Tural Mechanization,2015,36(5) :20-23.] [20］马丽,徐新刚,刘良云,等.基于多时相 NDVI及特征波段的作物 分类研究[J].遥感技术与应用,2008,23(5）:520-524.[Ma Li, Xu Xingang,Liu Liangyun,et al.Study on crops classfication based on multi-temporal NDVI and characteristic bands[J]. Remote Sensing Technology and Application,2008,23(5）:520-524.] [21]李梦莹，胡勇，王征禹.基于C5.0 决策树和时序HJ-1A/B CCD 数据的神农架林区植被分类[J].长江流域资源与环境，   
+2016,25（7）:1 070-1 077.[Li Mengying,Hu Yong,Wang Zhengyu. Study on vegetation classfication in Shennongjia forest district based on C5.O decision tree and HJ-1A/B data[J].Resources and Environment in the Yangtze Basin,2016,25（7）:   
+1 070 -1 077. ] [22］姜洋,李艳.浙江省森林信息提取及其变化的空间分布[J].生
+
+态学报,2014,34（24）:7 261-7270.[Jiang Yang,Li Yan.The extraction of forest information and the spatial distribution of its change in Zhejiang Province[J].Acta Ecologica Sinica,2O14,34 (24):7 261-7 270.]
+
+[23]刘娇，黄显峰，方国华，等.基于GIS缓冲区功能的塔里木河中游植被指数时空变化分析[J].干旱区研究，2018,35（1）：171-180.[Liu Jiao,Huang Xianfeng,Fang Guohua,et al. Spatiotem-poral variation of NDVI in the middle reaches of the Tarim Riverbased on GIS buffer function[J].Arid Zone Research,2018,35(1):171-180.]
+
+[24]柳文杰，曾永年，张猛.融合时间序列环境卫星数据与物候特征 的水稻种植区提取[J].遥感学报，2018,22（3）：381-391.［Liu Wenjie,Zeng Yongnian,Zhang Meng.Mapping rice paddy distribution by using time series HJ blend data and phonological parameters [J].Journal of Remote Sensing,2018,22(3）:381-391.]
+
+[25]马娜，胡云锋，庄大方，等.基于最佳波段指数和J-M距离可分 性的高光谱数据最佳波段组合选取研究一—以环境小卫星高 光谱数据在东莞市的应用为例[J].遥感技术与应用，2010，25 (3）:358-365.[Ma Na,Hu Yunfeng,Zhuang Dafang,et al.Determination on the optimum band combination of HJ-1A hyperspectral data in the case region of Dongguan based on optimum index factor and J-M distance[J].Remote Sensing Technology and Application,2010,25(3）:358-365.]
+
+[26]王，田庆久，黄彦，等.基于HJ星CCD遥感数据的落叶阔叶林NDVI差值速率识别模型[J].光谱学与光谱分析，2013，33(4)：1O18-1O22.[Wang Yan,Tian Qingjiu,Huang Yan,et al.
+
+NDVI difference rate recognition model of deciduous broad-leaved forest based on HJ-CCD remote sensing data[J].Spectroscopy and Spectral Analysis,2013,33(4):1018-1 022.]
+
+[27]中国科学院遥感与数字地球研究所.一种基于NDVI时间序列曲线积分的冬小麦提取方法：中国，CN201510401405.0［P].2015-O9-3O.[Institute of remote sensing and digital earth,Chi-neseacademy of sciences.Extraction method of winter wheat basedon NDVI time series curve integral:China,CN201510401405.0[P].2015-09-30.]
+
+[28］温兴平，胡光道，杨晓峰.基于C5.0决策树分类算法的ETM $^ +$ 影像信息提取[J].地理与地理信息科学,2007,23(6)：26- 29.[Wen Xingping,Hu Guangdao,Yang Xiaofeng. Extracting information from ETM $^ +$ image using C5.O decision tree algorithm [J].Geography and Geo-Information Science,2007,23（6）:26- 29.]
+
+[29]齐红超，祁元，徐填.基于C5.0决策树算法的西北干旱区土地 覆盖分类研究——以甘肃省武威市为例[J].遥感技术与应 用,2009,24（5）:648-653,553.[Qi Hongchao,Qi Yuan,Xu Zhen.The study of the Northwest arid zone land-cover classification basedon C5.Odecision treealgorithmatWuwei City,Gansu Province[J].Remote Sensing Technology and Application,2009,24 (5):648 -653,553.]
+
+[30]红寺堡区—葡萄产业[EB/OL].http://www.nxdofcom.gov.cn/zbzz/1938.jhtml,2015-06-03.[Hongsipu District of Ningx-ia——Grape Industry[EB/OL].http://www.nxdofcom.gov.cn/zbzz/1938.jhtml,2015 -06 -03.]
+
+# Grape Recognition Model Based on GF -1/WFV Time Series : A Case Study in Hongsibu District of Ningxia
+
+ZHAO Xi-ni $^ { 1 , 2 }$ ，WANG Lei123，LIU Ya-qing12，QU Xiang-ning12， XU Xing1,2, WANG Rui1,2 (1.Breeding Basefor State Key LaboratoryofLand Degradationand Ecosystem Restoration inNorthwest China,Ningxia University,Yinchuan 750021,Ningxia,China;   
+2.KeyLaboratory for Restoration and Reconstructionof the Degraded EcosysteminNorthwest China,Ningxia University, Yinchuan 750021,Ningxia,China;   
+3.Institute of International Earth System Science,Nanjing University,Nanjing 21oo93,Jiangsu,China)
+
+Abstract：Grape isone ofthe most widelydistributed fruit tree species,and itsaccurate spatial distribution is of great significance for the management and development of grape planting and wine industry.In this study,the Hongsibao in Ningxia was taken as the study area to obtain the time series of spectrum data in grape growing season based on theGaofen-1 satelite（GF-1/WFV）,the J-M distance analysis wasused to analyze the normalizeddiffrence vegetation index （NDVI）of the grape plots,and the best recognition phase was determined.The NDVI values of the best phase,adjacent tothe value diferencerate and curvilinear integral training samples were put intothe Clementine data mining software.The extract grape model of decision tree was developed by using C5.O decision tree clasification algorithmand combining with the expert experience method.The resultssugested that the established recognition model could meet the needs of graperecognition,buttheaccuracy was diferent from diferent grape plots due to their different coverage.The overall accuracy based on the decision tree classification was $9 3 . 7 1 \%$ ,and the Kappa coefficient was O.91.In which the production precision and users'precision of the grape plots with moderate or low coverage were $9 0 . 8 2 \%$ and $8 8 . 5 6 \%$ ,and those with high coverage were $9 2 . 4 4 \%$ and $9 1 . 1 8 \%$ ,respectively.
+
+Key words:grape forest； remote sensing extraction; $\mathrm { G F } - 1 / \mathrm { W F V }$ timing data；recognition model；curve integral；decision tree；Ningxia

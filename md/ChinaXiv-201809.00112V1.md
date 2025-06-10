@@ -1,0 +1,268 @@
+# 面孔可信度对助人行为的影响：依恋安全的调节作用
+
+王秀娟1王　娜」　韩尚锋」　刘　桑²张　林1(宁波大学心理学系暨研究所，宁波 315211)(中国科学技术大学人文与社会科学学院，合肥 230022)
+
+摘要分别从特质依恋和状态依恋角度考察施助者的依恋安全在求助者面孔可信度与助人行为之间的调节作用。结果发现：(1)求助者面孔可信度影响助人行为，面孔可信度高的求助者得到的助人行为显著多于面孔可信度低的求助者；(2)施助者的依恋安全调节求助者面孔可信度与助人行为之间的关系，安全依恋能有效缓冲低面孔可信度带来助人行为下降的趋势。本研究结果表明依恋安全有助于提升社会安全感和促进亲社会行为，因此应注重依恋安全的培养。
+
+关键词 助人行为；助人意愿；面孔可信度；依恋安全
+
+分类号 B849:C91
+
+# 1引言
+
+中国作为礼仪之邦，向来提倡助人为乐。近年来，随着扶老人被讹诈等一系列有关负面社会事件的报道，助人行为似乎成为一种有风险的行为，引发了社会各界广泛的关注与讨论。在个体层面，助人行为作为一种亲社会行为可以促进其社会性发展，对学业成绩、人际关系等具有积极影响(王艳辉 等，2017)；在社会层面，助人行为是一种社会责任感的体现，能够推动社会的和谐发展(Park& Shin,2017)。以往研究主要从助人者的个人特征和助人行为的情境特征两方面探讨了助人行为的影响因素，但存在潜在风险的助人行为尚缺乏相应研究。本研究将从助人行为的风险线索和助人者个人特征两方面综合探讨潜在风险条件下助人行为的发生机制。
+
+前人研究表明，情境因素会影响个体的助人行为。如紧急情况下，旁观者在场会降低个体的助人行为(Hortensius,Schutter,&Gelder,2016)；也有研究表明情境风险越大，个体需要付出的代价越高，个体的助人行为越少(Fischer et al.，2011)。风险是指后果(尤其是损失)的变化与不确定性(Kahneman& Tversky，1979)，而风险情境则是指包含风险特征的情境。值得注意的是，尽管已有较多研究考察风险情境对助人行为的影响，但已有情境的设定通常具有明显的风险特征，如殴打他人(夏勉，王远伟,2015)，歹徒抢劫(Shentu,Ma,&Guo,2018)等信息风险比较明确，而对潜在风险条件下的助人行为却很少研究。因此，本研究试图以不同可信度面孔为材料考察潜在风险时的助人行为。近年来的研究发现面孔作为个体推断求助者是否可信的外部线索，在助人行为中具有重要作用。例如，个体更倾向于帮助和自己外貌相似的求助者，且男性比女性表现得更明显(Emswiller,Deaux,&Willits，1971)；那些面孔漂亮的个体更容易得到他人帮助(Michniewicz&Vandello,2014)。面孔作为人们社会互动的信息源之一，除了帮助个体获得性别、种族等社会分类信息外，还可以准确、快速地推断面孔所有者的个人特质(Ritchie,Palermo,& Rhodes,2017)，在没有其他信息时个体主要依靠面孔对他人进行特质推断(Oosterhof& Todorov，2008)。在面孔的众多维度中，可信度(trustworthiness)负载的信息比重最大。面孔可信度(facial trustworthiness)是指由外貌特征决定的个体值得信任的程度，当遇到陌生人或群体时，个体会本能地想知道陌生他人的行为意图和能力状况，这决定着个体选择趋近或是回避行为(Todorov，Olivola，Dotsch，&Mende-Siedlecki，2015)，并进一步影响个体的行为决策，如助人、择偶等(张林，李玥，刘燊，谭群，徐强，杨亚平，2016)。高可信面孔的竞选者更容易在竞选中得到支持(Chen& Jing，2014)，也更容易引发儿童的信任行为(Ewing,Caulfield,&Rhodes,2015)；而低可信面孔通常会引发个体更为消极的判断，如更容易将其看作罪犯面孔(Funk&Todorov,2013)，并且在法庭上有可能受到更严厉的裁决(Wilson＆Rule,2015)。考虑到可信度在个体对陌生人形成第一印象中尤为重要(Oosterhof & Todorov，2008)，本研究推断在陌生情境中面对求助行为时,不同可信度的面孔作为潜在风险的表征，很大程度上影响着施助者对于求助者是否可信的判断，进而影响施助者的助人决策(Jessen& Grossmann，2017)。据此，本研究提出假设1:求助者的面孔可信度影响施助者的助人行为，施助者更倾向帮助面孔可信度较高的求助者。
+
+根据人与情境的交互作用理论(Person-Context Interaction Theory)，助人行为的发生既有来自外部情境因素的影响，又有来自个体自身因素的影响(姜永志,2013)。已有研究表明个体的依恋类型是影响助人行为的重要因素(Oldfield，Humphrey，& Hebron，2016；王艳辉等，2017)。依恋是婴儿与父母或养育者之间在心理上的亲近和依附，可使个体获得主观的支持和保护，在心理上感到有安全和保障(Bowlby,1973)。随着年龄增长，亲子依恋的内部工作模式会影响个体后期的成人依恋，因此依恋类型在人的生命发展周期中是相对稳定的(Zhang&Labouvievief,2004)。具体而言，安全依恋个体能将自己的注意资源投向他人，并能准确地共情和及时地反应，为他人提供支持和帮助；相反，不安全依恋个体由于过分关注自己，内心脆弱敏感，无法将注意聚焦于他人，缺少足够的心理资源给他人提供帮助(Mikulincer &Shaver，2015)。尽管焦虑型和回避型个体同属不安全依恋个体，但二者对于他人痛苦的反应也并不相同，焦虑个体担忧被拒绝和遗弃，害怕与他人建立亲密关系；而回避个体对他人的亲密需求并不敏感，对情感依赖感到不适，因此更多选择逃避(Collins&Gillath,2012)。很多的实证研究证据也支持了前人的这些理论观点。相比不安全依恋个体，依恋安全个体更倾向帮助潜在的受害者(Kogut & Kogut，2013)；同伴依恋显著正向预测个体的亲社会行为(Oldfield etal.,2016)；在控制了年龄、性别和社会经济地位后，亲子依恋能显著地正向预测亲社会行为(王艳辉等,2017)。
+
+此外，已有研究表明安全依恋会显著影响个体对关系对象可信度的评价，对人际信任具有积极效应(李彩娜，孙颖，拓瑞，刘佳,2016)。安全依恋个体在社交情境中表现出对他人更多的信任(Chenetal.，2013)，回避依恋个体则表现出低水平的人际信任和人际互动(Mikulincer,1998)。这表明，不同依恋类型个体在社交活动中对他人是否可信可能会做出不同判断，从而表现出不同的互动行为模式。个体的依恋类型不仅是助人行为的影响因素之一，同时也会影响个体对他人信任程度的判断。由此看来，依恋安全可能会调节求助者面孔可信度对施助者助人行为的影响。安全依恋个体更倾向将求助者感知为可以信任的，表现出较高的助人行为，而不安全依恋个体则可能会依据求助者是否可信的判断，进而做出助人行为决策。基于以上分析，本研究提出假设2：依恋类型调节面孔可信度对施助者助人行为的影响。对安全依恋个体而言，无论求助者是面孔可信度高还是面孔可信度低均有较高的助人意愿;而对不安全依恋个体而言，对高面孔可信度的求助者有较高的助人意愿，对低面孔可信度的求助者助人意愿则可能较低。
+
+在个体一生的发展中，依恋系统相对稳定，但并非一成不变。个体发展后期的依恋相关事件(结婚、离婚等)也会影响原有的依恋类型，导致依恋状态发生转变(Mikulincer& Shaver,2003)，这使得在自然情境或实验室条件下操纵个体状态依恋成为可能。依恋系统的动力加工模型指出安全依恋是一种缓解威胁的积极状态，若为不安全依恋个体提供方便可得的依恋对象或其表征，则能够有效提升个体依恋安全感，暂时性激活其安全依恋，即"安全依恋启动”(Mikulincer& Shaver,2007)。近年来大量学者开始关注启动个体的状态安全依恋对其行为和认知的影响。有研究发现，安全依恋能在实验室情境下通过阈上或阈下手段启动(Carmelley&Rowe,2010)，启动后的状态安全依恋会使个体的消极评价和负性情感体验显著降低(Collins& Gillath，2012)，从而对个体的认知(Dykas& Cassidy，2011)、情感和行为(Benoit,Bouthillier,Moss,Rousseau,& Brunet,201O)产生一系列影响，使其更多采取积极策略应对环境中的消极事件。如启动个体的状态安全依恋能提高个体的观点采择能力、共情关怀(Boag& Carnelley,2016)、对他人疼痛的感知(Pan, Zhang,Liu,Ran,& Teng,2016)、助人意愿(Gaesser& Schacter,2014)和认知灵活性(Jarvinen&Paulus,2017)等。状态安全依恋与特质安全依恋具有相同的作用但又独立于特质依恋风格和积极情绪的影响(Luke，Sedikides,& Carmelley，2012)。根据以上论述，本研究将通过实验室方法启动施助者的状态依恋安全，进一步考察启动的状态安全依恋在不同面孔可信度对助人行为的影响中是否存在调节作用。
+
+综上，本研究采用面孔可信度高低作为风险线索的表征，考察求助者面孔可信度对施助者助人行为的影响，并进一步探讨施助者的依恋安全在其中的调节作用。主要包含两个平行实验，分别考察特质依恋安全和状态依恋安全在求助者面孔可信度与助人行为之间的调节作用，以此来系统探讨依恋安全对助人行为的影响作用机制，以及这一结果的稳定性。
+
+# 2实验1：特质依恋对面孔可信度与助人行为的调节作用
+
+# 2.1实验目的与假设
+
+实验1主要探究求助者面孔可信度对助人行为的影响以及施助者特质依恋在其中的调节作用。研究主要包括以下两个假设：(1)求助者面孔可信度会影响个体的助人行为，个体更倾向帮助面孔可信度较高的求助者;(2)特质依恋调节面孔可信度与助人行为的关系，安全型施助者在两种面孔可信度下均有较高的助人行为，焦虑型或回避型施助者在高求助者面孔可信度下有较高的助人行为，在低求助者面孔可信度下有较低的助人行为。
+
+# 2.2 实验方法
+
+# 2.2.1 被试
+
+向 332 名在校大学生发放李同归和加藤和生(2006)修订的中文版亲密关系经历量表(Experiences in Close Relationships Inventory)，共计36个项目，包括回避依恋和焦虑依恋 2个维度，分数越高表明个体焦虑或回避的程度越高。本研究中回避依恋和焦虑依恋的内部一致性系数分别为0.81和0.78。将焦虑依恋和回避依恋得分由高到低排序，选则焦虑依恋和回避依恋得分均小于平均数加1个标准差的27人作为安全依恋组；焦虑依恋得分大于平均数加1个标准差，回避依恋得分小于平均数加1个标准差的25人为焦虑依恋组；回避依恋得分大于平均数加1个标准差，焦虑依恋得分小于平均数加1个标准差的20人为回避依恋组。共筛选出符合要求的被试72人，男生27人，女生45人，年龄范围18\~23 岁( $\cdot M = 2 0 . 2$ ， $S D =$ 2.17)，所有被试的视力或矫正视力正常。
+
+# 2.2.2 实验材料
+
+(1)面孔可信度图片
+
+采用 Facegen Modeller 3.0 软件随机生成100 张中性情绪的东亚种族男性面孔(马凤玲，汤玉龙，郑婷婷，徐芬，2014)，请30名在校大学生对每张面孔进行可信度9点评分， $1 =$ 非常不值得信任, $9 =$ 非常值得信任。根据结果选取高、低可信度面孔各5张作为求助者面孔，其中高可信面孔平均分为5.12( $\langle S D = 0 . 0 6 \rangle$ ，低可信面孔平均分为2.70（ $\langle S D = 0 . 2 7 _ { . }$ ，两者差异显著 $( t ( 8 ) = 1 9 . 3 2 , p < 0 . 0 0 1$ ， $d = 2 . 0 0$ ；示例见图1)。
+
+![](images/5a7f5a994c050bd060e1f8dc3c6ea43ad57379ee5556c60b425e2005a59f962e.jpg)  
+图1实验材料(A为高可信度面孔, $\mathbf { B }$ 为低可信度面孔)
+
+(2)马洛-克罗恩社会赞许性量表(Marlowe-Crowne Social Desirability Scale)
+
+共计33个项目，分为"是"和"否"两个选项,“是"计1分，“否"计0分，得分越高表示社会赞许性越强，本研究中该量表的内部一致性系数为0.75。
+
+# 2.2.3 实验设计
+
+采用3(依恋类型：安全型、焦虑型、回避型) $\times 2 ($ 面孔可信度：高、低)混合实验设计，其中依恋类型为被试间变量，面孔可信度为被试内变量。因变量为助人意愿和捐助金额。
+
+# 2.2.4 实验程序
+
+首先采用马洛-克罗恩社会赞许性量表考察被试的社会赞许性。接下来，给被试呈现助人情境，告知被试全国大学生资助管理中心发起了捐助贫困大学生活动，屏幕上呈现的这些学生面孔图片就是需要捐助者，请被试对一个求助者选择自己的助人意愿。采用7点计分，$1 =$ 非常不愿意， $\ 7 =$ 非常愿意(钟毅平，杨子鹿，范伟，2016)，并进一步询问被试若有100 元的零用钱，填写愿意从中捐助的金额数目。被试反应均用键盘作答。实验结束后，赠送礼物并予以酬谢。
+
+# 2.3 实验结果
+
+被试的助人意愿和捐助金额得分见表1。
+
+表1不同依恋类型个体的助人意愿和捐助金额 $( M \pm S D )$   
+
+<html><body><table><tr><td>助人行为</td><td>依恋类型</td><td>高面孔可信度</td><td>低面孔可信度</td></tr><tr><td rowspan="3">助人意愿</td><td>安全</td><td>5.38 ± 0.54</td><td>4.41 ± 0.39</td></tr><tr><td>焦虑</td><td>4.50 ± 0.38</td><td>2.30 ± 0.33</td></tr><tr><td>回避</td><td>3.96 ± 0.49</td><td>2.44 ±0.30</td></tr><tr><td rowspan="3">捐助金额</td><td>安全</td><td>68.37 ± 5.99</td><td>61.67 ± 3.57</td></tr><tr><td>焦虑</td><td>53.44 ± 3.37</td><td>37.81 ± 4.09</td></tr><tr><td>回避</td><td>41.32 ± 5.26</td><td>27.95 ± 4.85</td></tr></table></body></html>
+
+为检验面孔可信度和依恋类型对助人行为的影响，将被试在社会赞许性量表上的得分作为协变量，对助人意愿和捐助金额分别进行重复测量方差分析。
+
+对于助人意愿，面孔可信度主效应显著 $( F \left( 1 , 6 8 \right) = 1 0 . 5 9 , p < 0 . 0 1 , \eta _ { \mathrm { ~ p ~ } } ^ { 2 } = 0 . 1 \AA$ ，个体对高面孔可信度求助者的助人意愿显著高于低面孔可信度求助者；依恋类型主效应显著( $F$ (2,68)$= 5 . 9 2$ ， $p < 0 . 0 1$ ， $\eta _ { \mathrm { ~ p ~ } } ^ { 2 } = 0 . 1 5 )$ ，不同依恋类型个体之间的助人行为存在显著差异；交互作用显著, $F ( 2 , 1 3 8 ) = 5 . 9 6 , p < 0 . 0 1 , \eta _ { \mathrm { ~ p ~ } } ^ { 2 } = 0 . 1 5$ 。进一步的简单效应分析表明，安全依恋个体对两种不同面孔可信度求助者的助人意愿存在显著差异 $( p < 0 . 0 0 1 )$ ，对低面孔可信度求助者的助人意愿显著低于高面孔可信度的求助者；焦虑型依恋个体和回避型个体对两种面孔可信度求助者的助人意愿均存在显著差异 $( p \mathrm { s } ~ < ~ 0 . 0 0 1 )$ ，二者对低面孔可信度求助者的助人意愿都显著低于高面孔可信度的求助者。
+
+对于捐助金额，面孔可信度主效应显著 $( F \left( 1 , 6 8 \right) = 2 4 . 5 0$ $p < 0 . 0 1$ ， $\eta _ { \mathrm { ~ p ~ } } ^ { 2 } = 0 . 2 7 )$ ，个体对高面孔可信度求助者的捐助金额显著高于低面孔可信度求助者；依恋类型主效应显著( $F$ (2,68)$= 1 4 . 4 3 , p < 0 . 0 1 , \eta _ { \mathrm { ~ p ~ } } ^ { 2 } = 0 . 3 0 )$ ，不同依恋类型个体之间的捐助金额存在显著差异；交互作用显著， $F ( 2 , 1 3 8 ) = 1 4 . 4 3$ ， $p < 0 . 0 0 1$ ， $\mathfrak { n } _ { \mathrm { ~ p ~ } } ^ { 2 } = 0 . 3 0$ 。进一步简单效应分析表明，安全依恋个体对两种面孔可信度求助者的捐助金额存在显著差异 $( p < 0 . 0 0 1 )$ ，对低面孔可信度求助者的捐助金额显著低于高面孔可信度求助者；焦虑型依恋个体和回避型个体对两种面孔可信度求助者的捐助金额均存在显著差异 $( p \mathrm { s } ~ < ~ 0 . 0 0 1 \rangle$ ，两者对低面孔可信度求助者捐助金额均显著低于高面孔可信度的求助者。
+
+为了对依恋安全的调节效应进行探讨，借鉴前人关于差异比较的处理方法(何贵兵,杨鑫蔚,蒋多,2017;Miet al.,，2013)，将被试对高面孔可信度求助者的助人意愿和捐助金额分别减去对低面孔可信度求助者的助人意愿和捐助金额，得到两种面孔可信度求助者助人意愿和捐助金额的差值，将差值分别进行了单因素的方差分析。
+
+对于助人意愿，依恋类型的主效应显著 $( F ( 2 , 6 8 ) = 5 . 9 1 6 , p < 0 . 0 1 , \eta _ { \mathrm { ~ p ~ } } ^ { 2 } = 0 . 1$ $\eta _ { \mathrm { ~ p ~ } } ^ { 2 } = 0 . 1 4 8 )$ ，安全依恋个体的助人意愿差值( $M = 1 . 0 1$ ， $S D = 0 . 1 1 \mathrm { \Omega }$ )显著小于焦虑依恋个体 $M = 1 . 4 9$ ， $S D = 0 . 1 2 )$ 和回避依恋个体 $M = 1 . 5 1$ ， $S D = 0 . 1 3$ · $p \mathrm { s } < 0 . 0 5 )$ ，焦虑依恋个体和回避依恋个体的助人意愿差值不存在显著差异 $( p = 1 . 0 0 )$ ，见图2。
+
+![](images/c317df0200e768147742e01a9f5a6336725d8696854909f174c809252e3a1d54.jpg)  
+图2不同依恋类型个体的助人意愿差值注： $^ { * } p < 0 . 0 5$ $* * _ { p } < 0 . 0 1$ ， $^ { * * * } p < 0 . 0 0 1$ ，下同
+
+捐助金额差值的单因素方差分析发现，依恋类型的主效应显著 $( F ~ ( 2 , 6 8 ) = 1 4 . 4 3 1$ ， $p \ <$ 0.001, $\eta _ { \mathrm { ~ p ~ } } ^ { 2 } = 0 . 2 9 8 )$ ，安全依恋个体的捐助金额差值 $( M = 6 . 5 5 2 , S D = 1 . 2 2 )$ 显著小于焦虑依恋个体 $\langle M = 1 5 . 7 4$ ， $S D = 1 . 2 6 ) \$ 和回避依恋个体 $\mathit { M } = 1 3 . 4 3$ ， $S D = 1 . 4 0$ $p \mathrm { s } < 0 . 0 0 1$ )，焦虑依恋个体和回避依恋个体的捐助金额差值差异不显著 $( p = 0 . 2 3 2 )$ ，见图3。
+
+![](images/7d47302a6953b8226a8495b37db0f1841c08298829c214f332274759b4c1ebcb.jpg)  
+图3不同依恋类型个体的捐助金额差异
+
+# 2.4讨论
+
+实验1的结果表明个体的依恋类型会调节面孔可信度在助人行为中的作用，表现为依恋安全能够有效缓冲低面孔可信度导致助人行为下降的趋势。安全依恋个体表现出最高的助人倾向证实了安全依恋个体对于亲密关系的可得性比较高；特质焦虑个体在面临风险时可能会由于对自我的消极评价而怀疑自己的能力，但又渴望帮助他人，因此表现出中等水平的助人行为；特质回避依恋个体由于亲密关系的可得性较低，不信任当前环境，因而无法积极响应他人求助，对他人处境漠不关心(Mikulincer,Shaver,Gillath,& Niteberg,2005），因而表现出最低的助人行为。
+
+本实验中三种依恋类型个体都表现为更倾向于帮助高面孔可信度的求助者，这说明个体对外界风险的评估确实会影响到其助人行为。进一步的差值分析也发现，安全型个体对高面孔可信度求助者和低面孔可信度求助者的助人行为差值显著小于焦虑型和回避型个体，表明特质依恋安全能够有效缓冲低面孔可信度所带来的助人行为下降的趋势。
+
+# 3实验2：状态依恋对面孔可信度与助人行为的调节作用
+
+# 3.1 实验目的与假设
+
+实验1已经证实施助者的特质依恋类型在助人行为中的作用。为增强该结果的可靠性，实验2进一步考察了状态依恋在求助者的面孔可信度对助人行为影响中的作用。包括以下假设：(1)求助者面孔可信度会影响个体的助人行为，个体更倾向帮助面孔可信度较高的求助者;(2)状态依恋调节面孔可信度与助人行为的关系，安全型施助者在两种面孔可信度下均有较高的助人行为，不安全型施助者在高求助者面孔可信度下有较高的助人行为，在低求助者面孔可信度下有较低的助人行为。
+
+# 3.2 实验方法
+
+# 3.2.1 被试
+
+随机抽取在校大学生73人，其中男生31人，女生42人，年龄范围为18\~23岁 $\scriptstyle ( M = 2 1 . 5$ $S D = 1 . 9 3 { \mathrm { ' } }$ ），启动组36人，其中男生17人，女生19人，控制组35人，其中男生14人，女生23人，所有学生视力或矫正视力正常。
+
+# 3.2.2 实验材料
+
+(1)高低面孔可信度图片和马洛-克罗恩社会赞许性量表同实验1。(2)安全依恋启动材料：根据前人研究所使用的材料(李彩娜等,2016)，让被试回忆一个依  
+恋对象，并用五个词形容该对象的特质，之后进行回忆书写任务，即要求被试写出该对象给  
+予他支持的一件事并描述当时感受。(3)启动效果检验材料：采用Mikulincer等(2005)使用的启动效果检验量表，测量被试由启  
+动任务带来的安全感和关爱感。共计8个项目，其中前4个测量依恋安全感，后4个测量关  
+爱感，采用7点计分， $1 { = }$ 一点也没有， $\scriptstyle 7 =$ 非常强烈，本研究中该量表的内部一致性系数为  
+0.78。如果启动后被试的安全感存在显著差异而关爱感不存在显著差异，则认为启动有效，
+
+说明安全依恋启动使个体的依恋安全感显著的提升，而非关爱感在其中发挥的作用。
+
+# 3.2.3 实验设计
+
+采用2(面孔可信度：高、低) $| \times 2 |$ (启动条件：启动、控制)的混合实验设计，面孔可信度是被试内变量，启动条件是被试间变量。因变量为助人意愿和捐助金额。
+
+# 3.2.4 实验程序
+
+首先将被试进行随机分组，分为启动组和控制组，让被试完成书写回忆任务。
+
+对于启动组，要求被试回忆一个在自己感到沮丧或焦虑时候可以给予自己帮助的人，然后列出这个人的五个核心品质。接下来回想一件当自己感到沮丧或者焦虑时他/她安慰自己并且给予帮助的事件和自己当时的感受并进行简单描述；对于控制组，让被试回想一个仅仅是自己认识但是关系并不亲密的人，列出这个人的五个核心品质，回想认识时的场景，对所回想的事件以及自己当时的感受进行简单的描述。结束后用启动效果检验量表来考察被试的安全感和关爱感得分，接下来采用与实验1相同的程序进行实验。实验结束后，给予被试一定数量的报酬表示感谢。
+
+# 3.3 实验结果
+
+为检验启动组和控制组的操作是否有效，对启动组与控制组的依恋安全的启动效果进行了独立样本 $\mathbf { \chi } _ { t }$ 检验，发现启动组与控制组被试的安全感存在显著差异 $( t ( 7 1 ) = - 3 . 5 4$ ， $p \ <$ 0.001, $d = 0 . 8 7 \mathrm { \Omega }$ )，而关爱感不存在显著差异 $( t ( 7 1 ) = 0 . 2 2$ $p = 0 . 8 2 4$ $d = 0 . 0 5$ )，这表明回忆书写任务确实启动了被试的依恋安全感，启动操作有效。
+
+被试的助人意愿和助人行为得分见表2。
+
+表2不同依恋类型个体的助人意愿和捐助金额 $( M \pm S D )$   
+
+<html><body><table><tr><td>助人行为</td><td>启动条件</td><td>高面孔可信度</td><td>低面孔可信度</td></tr><tr><td rowspan="2">助人意愿</td><td>启动组</td><td>4.54 ± 0.58</td><td>4.52 ± 0.37</td></tr><tr><td>控制组</td><td>3.69 ± 0.42</td><td>3.34 ± 0.49</td></tr><tr><td rowspan="2">捐助金额</td><td>启动组</td><td>63.40± 6.99</td><td>60.23 ± 6.50</td></tr><tr><td>控制组</td><td>50.16 ± 7.08</td><td>40.71 ±6.10</td></tr></table></body></html>
+
+为检验面孔可信度和依恋类型对助人行为的影响，将被试在社会赞许性量表上的得分作为协变量，对助人意愿和捐助金额分别进行重复测量方差分析。
+
+对于助人意愿，面孔可信度主效应显著 $( F \left( 1 , 7 0 \right) = 5 . 8 9$ ， $p < 0 . 0 5$ ， $\eta _ { \mathrm { ~ p ~ } } ^ { 2 } = 0 . 0 8 )$ ，个体在求助者高面孔可信度条件下的助人行为显著高于低面孔可信度条件；启动条件主效应显著( $F$ $( 1 , 7 0 ) = 5 . 9 2$ ， $p < 0 . 0 0 1$ ， $\eta _ { \mathrm { ~ p ~ } } ^ { 2 } = 0 . 7 0 )$ ，启动组助人行为显著高于控制组；交互作用边缘显著,$F ( 1 , 7 0 ) = 3 . 7 4 , p = 0 . 0 5 7 , \eta _ { \mathrm { ~ p ~ } } ^ { 2 } = 0 . 0 5$ 。进一步的简单效应分析表明，启动组在两种面孔可信度下的助人意愿差异边缘显著 $( p = 0 . 0 7 3 )$ ，对于高面孔可信度求助者的助人意愿显著高于低面孔可信度求助者的助人意愿；控制组对两种面孔可信度求助者的助人意愿差异显著 $( p ~ <$ 0.01)，对低面孔可信度求助者的助人意愿显著低于高面孔可信度求助者的助人意愿。状态依恋安全表现出对不同面孔可信度求助者的助人意愿具有调节作用，见图4。
+
+![](images/b4c38991a78df0d15d901f679737194eb9a272f00f4bcef97e236451685491f9.jpg)  
+图4不同依恋类型个体的助人意愿得分
+
+对于捐助金额，面孔可信度主效应显著 $( F \left( 1 , 7 0 \right) = 2 9 . 8 9$ $p < 0 . 0 0 1$ ， $\mathfrak { \eta } _ { \mathtt { p } } ^ { 2 } = 0 . 3 0 )$ ，高面孔可信度求助者得到的捐助金额显著多于低面孔可信度求助者；启动条件主效应显著 $\left( F \left( 1 , 7 0 \right) \right. =$ 233.22, $p \ < \ 0 . 0 0 1$ ， $\eta _ { \mathrm { ~ p ~ } } ^ { 2 } = 0 . 7 7 \$ ，启动组捐助金额显著多于控制组；交互作用显著， $F ( 1 , 7 0 ) =$ $7 . 2 8 , p < 0 . 0 1 , \eta _ { \mathrm { ~ p ~ } } ^ { 2 } = 0 . 0 9$ 。简单效应分析表明，启动组对两种面孔可信度求助者的捐助金额差异边缘显著 $( p = 0 . 0 6 )$ ，对高面孔可信度求助者的捐助金额显著高于低面孔可信度求助者；控制组对两种面孔可信度求助者的捐助金额差异显著 $( p < 0 . 0 0 1 )$ ，对低面孔可信度求助者的捐助金额显著低于高面孔可信度求助者，状态依恋安全表现出对两种不同面孔可信度求助者捐助金额的调节作用，见图5。
+
+![](images/9dde5414f3cdc3fe17e02f37843f73c8d8228f8dcd135f3eab1a9ac398448d82.jpg)  
+图5不同依恋类型个体的捐助金额得分
+
+接下来采用和实验1相同的方法对助人意愿和捐助金额的差值进行独立样本 $t$ 检验。
+
+助人意愿的差值分析发现，两组被试的助人意愿差值差异显著 $( t \left( 7 1 \right) ) = - 2 . 0 5$ $p < 0 . 0 5$ ，d$= 0 . 4 9 \AA$ ，状态安全依恋个体的助人意愿差值 $\langle M = 0 . 0 3$ ， $S D = 0 . 6 7 { \cdot }$ 显著小于状态不安全依恋个体 $( M = 0 . 3 5 , S D = 0 . 6 5 )$ 。
+
+捐助金额的差值分析发现，两组被试的捐助金额差值差异显著 $( t ( 7 1 ) = - 2 . 7 4 , p < 0 . 0 1 , d$ $= 0 . 6 5 )$ ，状态安全依恋个体的捐助金额差值 $( M = 3 . 1 7 , S D = 8 . 6 5 )$ 显著小于状态不安全依恋个体 $M = 9 . 4 5$ ， $S D = 1 0 . 7 9$ ）
+
+# 3.4讨论
+
+实验2结果表明个体的状态依恋会调节面孔可信度在助人行为中的作用，表现为状态依恋安全能够缓冲低面孔可信度带来的助人行为降低趋势。在本研究中，启动组的助人行为显著高于控制组，说明依恋安全感的提高会带来更多的亲社会行为(Gaesser& Schacter,2014)。在依恋安全感提升的状态下，个体会对他人和环境的评估也更为积极，从而导致面孔可信度对其助人行为的影响显著降低，从而在启动条件下表现出对低可信度面孔求助者的助人行为也有了明显的提升。而助人行为的差值分析结果也进一步证实了状态依恋安全对低面孔可信度导致施助者助人行为的下降具有缓冲作用。
+
+# 4讨论
+
+本研究聚焦当前备受关注的风险情境下的助人行为，通过两个实验证明了潜在风险也会影响个体的助人行为，具有与明确风险条件相同的影响(Fischeretal.，2011)，且依恋安全在求助者的面孔可信度与施助者助人行为的关系中起着调节作用，在一定程度上能缓冲由于求助者面孔可信度偏低所带来的施助者助人行为意愿下降的趋势。
+
+# 4.1 面孔可信度、依恋类型对助人行为的影响
+
+本研究表明求助者的面孔可信度会影响施助者的助人行为，个体更倾向于帮助面孔可信度较高的求助者，这一结果可以用代价信号理论来解释。代价信号理论(costly signaling)认为个体在从事需要付出代价的行为时，是期望从中获益的比如名誉或实际利益等(邢采，刘婷婷，张希，2015)。当风险很大、个体需要付出的代价高于可能获得的利益时，就会选择回避，因此个体的助人行为实际上是一种经济行为。以往的研究对于助人行为风险因素的设定通常关注于自然环境和社会环境，而忽略了求助者作为求助行为主体，其可信与否对施助者本身而言就是一项风险评估，而面孔作为陌生情境中唯一的评估线索，对施助者决策有重要影响。
+
+此外，无论特质依恋安全还是状态依恋安全都能调节助人行为。实验1结表明特质安全依恋、焦虑依恋、回避依恋的个体助人行为依次下降。安全依恋个体有积极的自我-他人模型，在面对有求助需要的个体时其稳定的安全脚本被激活，通常会伸出援手；而不安全依恋个体则拥有消极的自我-他人模型，其中焦虑型依恋个体持有消极自我-积极他人工作模型.一方面对自身价值持怀疑否认态度，认为自己不值得被爱，对他人给予自身的关爱充满警惕，表现出较低的特质信任；另一方面，积极的他人工作模型又会导致焦虑型依恋个体害怕被拒绝和抛弃，强烈渴望与他人保持亲近(Mikulincer& Shaver,2007)。而回避型依恋个体持有消极-他人模型，更多拒绝信任他人，因此在实验1中表现出的助人行为意愿最低(Overall,Fletcher, Simpson,&Fillo,2015)。实验2 结果表明状态安全依恋个体的助人行为显著高于控制组个体。当启动状态依恋安全后，个体的消极情绪体验下降，依恋安全感增加，安全依恋表征的激活扩散到与之相关的感知觉、记忆以及调节策略等方面，削弱了个体的自我防御性，为亲社会行为提供安全基地，因此更多采取积极策略应对消极事件(Collins &Gillath，2012),在本研究中即表现为助人行为显著高于控制组。结合实验1和实验2的结果来看，状态安全依恋确实与特质安全依恋具有相同的作用，且暂时的状态安全启动会独立于特质依恋发挥相同的作用(Lukeetal.,2012)，这以结果也可以为与依恋有关的神经症和人格障碍治疗提供研究借鉴。
+
+# 4.2依恋安全在面孔可信度与助人行为关系中的调节作用
+
+本研究两个实验都没有直接验证假设2，而进一步的差值检验发现施助者的依恋安全调节了求助者面孔可信度对助人行为的影响，表现为依恋安全能够有效缓冲低面孔可信度带来的助人行为意愿下降的趋势。实验1和实验2的结果表明，无论是特质安全依恋个体还是状态安全依恋个体，其助人行为都要显著多于不安全依恋个体，差值检验的结果表明安全依恋对低面孔可信度带来的助人行为下降有一定的缓冲作用。有研究证实，人格特质需要通过相应心理图式的激活，才会影响人们的行为(Aquino,Freeman,Reed,Felps,&Lim,2009)。对于安全依恋个体而言，当遇到需要帮助的人时，无论求助者面孔可信度高或是低，其安全基地脚本都能被快速激活，产生较高的指向他人的关爱，表现出相对较高的助人行为倾向。对于不安全依恋个体而言，在求助者面孔可信度较高时，个体对于求助者的可信度评价也比较高，其助人行为需要付出的代价较小，因而表现出较高的助人行为倾向；而在求助者面孔可信度较低时，个体对求助者的信任评价较低，由此潜在的风险因素所导致的焦虑、恐惧情绪则迅速被唤醒(Ein-Dor,Mikulincer,& Shaver,2011)，更多聚焦于自我的困难，快速激活哨兵脚本或逃跑脚本，进行自我保护和防御，因而其助人行为意愿则显著下降。随着面孔社会知觉研究的深入，其对于助人、择偶等行为的影响会逐渐被重视，而面孔社会知觉不仅表现在可信度方面，也包含其吸引力高低、面孔宽高比等方面。由于“美即好(beautyis good)"效应，对高面孔吸引力个体更容易被推断拥有积极个人特质，比如友好、慷慨、诚实等(Zhang,Kong，Zhong,&Hui,2014)，更容易成为合作伙伴人选(Thomas,Hochschild,& Borch,2011)，也可能更容易得到他人帮助。值得注意的是，有研究指出个体在社交过程中会依据对方的面孔吸引力做出信任判断(Ma,Evans,Liu,Luo,&Xu,2015)，高吸引力个体更容易被知觉为值得信任。由此，面孔吸引力与面孔可信度对助人行为的影响是否存在交互作用也有待未来进一步讨论。
+
+# 4.3 研究意义
+
+本研究考察了依恋安全在面孔可信度与助人行为间的调节作用，具有一定的理论和现实意义。从理论上来说，以往风险情境下助人行为的研究主要关注于外显的风险特征所带来的影响，较少关注潜在的风险对助人行为的影响。然而不仅外显特征会影响个体的行为决策，内隐特征也具有同样的作用(孔茗，钱小军,2015)，内隐的、潜在的风险也会影响人们的助人决策。本研究以求助者的面孔可信度作为潜在风险表征，考察其在助人行为中的影响，一方面完善了风险情境下助人行为的发生机制研究，为风险情境下的助人行为提供了新的研究视角；另一方面也说明助人行为的发生不仅有助人者个体因素和助人行为发生情境的作用，还受到求助者自身因素的影响。在相同求助情境下，个体在面对不同求助者时也会因为自身的依恋类型有不同的助人行为表现,Kogut和Kogut (2013)的研究也证实了这一点。从现实意义来说，本研究发现依恋类型与面孔可信度在助人行为中的作用，说明助人行为的发生是由求助情境、求助者特征和助人者特征等多重因素共同发生作用的结果，并非由单一因素决定。这也提醒社会公众要结合求助环境客观公正地看待他人是否助人的行为，以避免受到社会舆论裹胁做出非理性判断，甚至对人性和社会道德得出错误的结论。此外，与特质依恋风格相比，安全依恋的情境激活更具操作性，启动效果更具时间的延续性(李彩娜，石鑫欣，黄凤，马婧，2013)，这使得创建更具"安全感"的社会情境成为可能，这也正是安全依恋启动研究的实践意义所在。
+
+# 4.4 研究局限与展望
+
+尽管本研究揭示了安全依恋在助人行为中的调节作用以及可能的原因，但仍存在如下局限需要在未来研究中进一步完善。首先，由于实验被试需要经过前期特质依恋类型的筛选而特质焦虑依恋和回避依恋个体相对较少，因此实验被试人数较少可能会对结果产生影响;其次，本研究实验2中没有对操纵后的被试做启动材料书写有效性的检测，后续研究中需要考虑书写有效性问题，使实验程序更加完善；最后，本研究并未探讨恐惧依恋个体的助人行为，在未来研究中需要对恐惧个体助人行为进行探讨，以完善不同依恋类型个体的助人行为研究。随着社会的迅速发展，很多随之而来的因素也会影响助人行为，比如繁重的工作压力可能会导致助人所需的心理成本增加，因此未来研究也可从这一方面着手进行探讨。
+
+# 5 结论
+
+本研究获得如下主要结论：
+
+(1)求助者面孔可信度越高，施助者的助人行为越多。(2)施助者的依恋安全会调节求助者面孔可信度与助人行为的关系，安全依恋能有效缓冲低面孔可信度带来的助人行为下降趋势。
+
+# 参考文献
+
+Aquino,K.,Freeman,D.,Reed,A.,Felps,W.,&Lim,V.K.G.(2O9).Testinga social-cognitive model of moral behavior: The interactive influence of situations and moral identity centrality.Journal of Personality and Social Psychology, 97(1),123-141.   
+Boag,E.M.,& Carnelley,K.B.(2O16).Attachment and prejudice: The mediating role of empathy. British Journal ofSocial Psychology, 55(2),337-376.   
+Bowlby,J. (1973).Atachment and los:Vol.2.Separation: Anxietyandanger(Vol.I). New York: Basic Books.   
+Carnelley, K.B.,& Rowe, A. C.(2010).Priming a sense of security: What goes through people's minds? Journal ofSocial and Personal Relationships,27(2),253-261.   
+Chen,C.K.,Waters,H.S.,Hartman,M.,Zimmerman,S.,Miklowitz,D.J.,&Waters,E. (2013).The secure base script and the task of caring for elderly parents: Implications for attachment theory and clinical practice. Attachment and Human Development,15(3),332-348.   
+Chen,F.F.,Jing,Y.M.,&Le,J.M.(2O14).The looks of aleader: Competent and trustworthy,but notdominant. Journal of Experimental Social Psychology,51,27-33.   
+Collins,T.J.,& Gillath,O.(2012).Attchment， breakup strategies,and associated outcomes:The effects of security enhancement on the selection of breakup strategies. Journal of Research in Personality，46(2), 210-222.   
+Dykas,M. J.,& Cassidy,J. (2011). Attachment and the processing of social information across the life span: Theory and evidence. Psychological Bulletin,137(1),19-46.   
+Ein-Dor,T.,Mikulincer,M.,& Shaver,P.R.(O11).Attachment insecuritiesand the processingofthreat-related information: Studying the schemas involved in insecure people's coping strategies. Journal of Personality and Social Psychology, 101(1),78-93.   
+Emswiller,T.,Deaux,K.,& Wilits,J.E. (1971).Similaritysex,and requests for smallfavors.Journalof Applied Social Psychology,1(3),284-291.   
+Ewing,L., Caulfield,F.,Read,A.,&Rhodes,G. (2O15).Perceived trustworthinessoffaces drives trust behaviour in children. Developmental Science,18(2),327-357.   
+Fischer,P.,Krueger,J.I.,Greitemeyer,T. Vogrincic,C.,Kastenmuller,A.,Frey,D.,Heene,...Kainbachr,. (2011).The bystander-efect: A meta-analytic review on bystander intervention in dangerous and non-dangerous emergencies. Psychological Bulletin,137(4),517-537.   
+Funk,F.,& Todorov,A. (2O13). Criminal stereotypes in the courtroom: Facial tattoos affect guilt and punishment differently. Psychology Public Policy and Law, 19(4), 466-478.   
+Gaesser,B.,& Schacter,D.L.(2O14).Episodic simulation and episodic memory can increase intentions to help others. Proceedings of the National Academy of Sciences,1ll(12),4415-4420.   
+Hortensius,R.,Schuter,D.J.L. G.,& Gelder,B.D. (2016).Personal distress and the influence of bystanders on responding to an emergency. Cognitive Affective and Behavioral Neuroscience,16(4), 672-688.   
+Jarvinen，M.J.，& Paulus，T.B.(2O17).Attachment and cognitive opennes: Emotional underpinnings of intellectual humility. Journal of Positive Psychology,12(1),74-86.   
+Jessen,S.，& Grossmann, T. (2O17). Exploring the role of spatial frequency information during neural emotion processing in human infants. Frontiers in Human Neuroscience,l1: 486.   
+Jiang，Y. Z. (2O13).The system info of situation interaction: Dialectical psychology and inter behavioral psychology. Journal of Psychological Science,36(2),496-500.   
+[姜永志.(2013).情境交互作用理论体系：辩证心理学与交互行为心理学．心理科学,36(2),496-500.]   
+Kahneman,D.,& Tversky. (1979). A prospect theory: An analysis of decisions under risk. Econometrica, 47(2), 262-292.   
+Kogut,T.,& Kogut,E.(2O13).Exploring the relationship between adult atachment style and the identifiable victim effect in helping behavior. Journal of Experimental Social Psychology,49(4), 651-660.   
+Kong. M.,& Qian, X.J. (2015).Mr. right and surperman: Effect of implicit followership on employee's behavior. Acta Psychologica Sinica, 47(9), 116-1171.   
+[孔茗，钱小军.(2015).被领导者"看好"的员工其行为也一定好吗?——内隐追随对员工行为的影响．心理学 报,47(9), 1162-1171.]   
+Li, C.N., Shi, X. X.，Huang,F.，& Ma,J. (2013). Concept, mechanism and function of attachment security. Journal of Beijing Normal University (Social Sciences), 63(6),30-37.   
+[李彩娜，石鑫欣，黄凤，马婧.(2013).安全依恋的概念、机制与功能．北京师范大学学报(社会科学版),63(6), 30-37.]   
+Li,C.N.,Sun,Y.,Tuo,R.，& Liu,J.(2O16).The effcts of atachment securityon interpersonal trust: The moderating role of attachment anxiety. Acta Psychologica Sinica, 48(8), 989-1001.   
+[李彩娜，孙颖，拓瑞，刘佳.(2016).安全依恋对人际信任的影响：依恋焦虑的调节效应．心理学报，48(8)， 989-1001.]   
+Li,T, G.,& K, Kazuo. (2006). Measuring adult atachment: Chinese adaption of the ECR scale. Acta Psychology Sinica, 38(3), 300-406.   
+[李同归，加藤和生.(2006)．成人依恋的测量:亲密关系经历量表(ecr)中文版．心理学报,38(3),399-406.]   
+Luke,M. A., Sedikides,C.,& Carnelley,K. (2012). Your love lifts me higher! The energizing quality of secure relationships.Personality and Social Psychology Bulletin,38(6),721-733.   
+Ma,F.L.,Evans,A.D.,Liu,Y.,Luo,X.M.,& Xu,F. (2015).To lie or not to lie? The influence of parenting and theory-of-mind understanding on three-year-old children's honesty.Journal of Moral Education,44(2), 198-212.   
+Ma,F.L.,Tang,Y,L.,Zheng,T,T.,& Xu,F. (2014).The development of 3-to 5-year-oldstrust judgment based on face.Psychological Development and Education,30(4),337-344.   
+[马凤玲，汤玉龙，郑婷婷,徐芬．(2014). $3 { \sim } 5$ 岁幼儿基于面孔的信任判断的发展．心理发展与教育，30(4), 337-344.]   
+Mi,L.,Tao,S., Wang,W.J.,Dong,Q.,Jin,S.H.,&Liu,C. (2013).English vowel identification in long-term speech-shaped noise and multi-talker babble for English and Chinese listeners. Journal of the Acoustical Society of America,133(5),EL391-EL397.   
+Michniewicz, K. S.,& Vandelo,J. A. (2O14).The attractive underdog: When disadvantage bolsters attractiveness. Journal of Social and Personal Relationships, 30(7), 942-952.   
+Mikulincer, M. (1998). Atachment working models and the sense of trust: an exploration of interaction goals and affect regulation. Journal of Personality and Social Psychology, 74(74),1209-1224.   
+Mikulincer,M.，& Shaver，P.R.(2003). The atachment behavioral system in adulthood: Activation, psychodynamics,and interpersonal processes. Advances in Experimental Social Psychology,35,53-152.   
+Mikulincer, M.，& Shaver， P.R. (2007).Reflections on security dynamics: Core constructs， psychological mechanisms,relational contexts,and the need for an integrative theory.Psychological Inquiry，18(3), 197-209.   
+Mikulincer，M.，& Shaver， P. R.(2015).The psychological effects of the contextual activation of security-enhancing mental representations in adulthood. Current Opinion in Psychology,1,18-21.   
+Mikulincer, M.， Shaver,P.R.， Gillth, O.，& Nitzberg，R.A.(2005). Attachment,caregiving，and altruism: Boosting attachment security increases compassion and helping. Journal of Personality and Social Psychology, 89(5),817-839.   
+Oldfield,J.,Humphrey,N.,& Hebron,J. (2O16).The role of parental and peeratachment relationships and school connectedness in predicting adolescent mental health outcomes. Child and Adolescent Mental Health, 21(1), 21-29.   
+Oosterhof,N. N.,& Todorov,A. (2008). The functional basis of face evaluation. Proceedings of the National Academy of Sciences,105(32),11087-11092.   
+Overall,N. C.,Fletcher, G.J., Simpson,J.A.，& Fillo,J. (2015).Attachment insecurity,biased perceptions of romantic partners’ negative emotions,and hostile relationship behavior. Journal of Personality and Social Psychology, 108(5), 730-749.   
+Pan, Y. G.,Zhang,D.J.,Liu,Y.L.,Ran, G M.,& Teng,Z.J. (2O16). The effectsof atachment style and security priming on the perception of others' pain. Journal of Social and Personal Relationships,34(2),184-208.   
+Park,S.,& Shin,J.(2O17).The influence of anonymous peers on prosocial behavior. Plos One,12(1O),e018521.   
+Ritchie,K.L.，Palermo,R.,& Rhodes,G. (2017).Forming impressions of facial atractiveness is mandatory. Scientific Reports,7(1),469-477.   
+Shentu,T., Ma, J.,& Guo, Y. (2018). Social atachment shapes emergency responses: Evidence from a postfire study. Social Behavior and Personality: An International Journal, 46(1),139-150.   
+Thomas,R., Hochschild,Jr.,& Casey,B.(2O11).About face: The association between facial appearance and status attainment among military personnel. Sociological Spectrum,31(3),369-395.   
+Todorov,A.,Olivola,C.Y.,Dotsch,R.,&Mende-Siedlecki,P. (2015).Social atributions fromfaces: Determinants, consequences,accuracy,and functional significance.Annual Review of Psychology, 66(1),519-545.   
+Wang,Y. H.,Li,D.P., Sun,W. Q., Zhao,L.Y.,Lai, X.F.,& Zhou,Y.Y. (2017).Parent-child attachment and prosocial behavior among junior high school students: Moderated mediation efect. Acta Psychologica Sinica, 49(5), 663-679.   
+[王艳辉，李董平，孙文强，赵力燕，赖雪芬，周月月.(2017).亲子依恋与初中生亲社会行为：有调节的中介 效应．心理学报,49(5),663-679.]   
+Wilson,J.P.，& Rule，N. O.(2015).Facial trustworthiness predicts extreme criminal-sentencing outcomes. Psychological Science, 26(8),1325-1331.   
+Xia,M.,& Wang, Y. W. (2O15). The effect of empathy and situation safety on helping behavior-The moderating role of interpersonal trust. Journal of Central China Normal University (Humanities and Social Sciences), 54(4), 168-176.   
+[夏勉，王远伟.(2015).状态共情、情境安全程度对助人行为的影响一一人际信任的调节作用．华中师范大 学学报(人文社会科学版),54(4),168-176.]   
+Xing, C.,Liu,T,T.,& Zhang,X.(2015). Prosocial behaviors in emergencies: Mating motive change men and women's herico helping tendencies differently.Journal of Psychological Science,38(1),172-178.   
+[邢采，刘婷婷，张希.(2015)．危机情境下的亲社会行为：求偶动机对危机救助意愿的影响．心理科学38(1), 172-178.]   
+Zhang,F.,& Labouvie-vief, G.(2Oo4). Stability and fluctuation inadult atachment style over a 6-year period. Attachment and Human Development, 6(4),419-438.   
+Zhang,L.,Li,Y.,Liu,S.,Tan,Q.,Xu, Q.,& Yang,Y.P. (2016). The impression processing of unfamiliar faces: Based on the facial characteristics.Journal of Psychological Science,39(6),1373-1378.   
+[张林，李玥，刘燊，谭群，徐强，杨亚平.(2016).陌生面孔的印象加工：基于面孔特征的视角．心理科学, 39(6),1373-1378.]   
+Zhang,Y.,Kong,F. C.,Zhong,Y.L.，& Kou, H.(2014). Personality manipulations:Do they modulate facial attractiveness ratings? Personality and Individual Differences,7O(11),80-84.   
+Zhong, Y,P., Yang, Z,L.,& Fan, W. (2015). The effect of self-other overlap on helping behavior: Moderating of perspective taking. Acta Psychologica Sinica, 47(8), 1050-1057.   
+[钟毅平，杨子鹿，范伟.(2015)．自我-他人重叠对助人行为的影响:观点采择的调节作用．心理学报,47(8), 1050-1057.]
+
+# The influence of facial trustworthiness on helping behavior: The role of attachment type
+
+WANG Xiujuanl; WANG $\mathbf { N a } ^ { 1 }$ ; HAN Shangfeng 1; LIU Shen²; ZHANG Lin1
+
+(l Department and Institute of Psychology,Ningbo University,Ningbo 315211,China)
+
+( School of Humanities and Social Science,Universityof Science and Technologyof China,Hefei 23oo22,China)
+
+# Abstract
+
+Researches on helping behaviors have always been a hot topic. Especially nowadays, helping others has become a risk-taking decision-making.Helping behavior is defined as an action that benefits others without return. In strange situations,the face,as the only clue to communicate or obtain information from, can affect people's behaviors to a great extent. However, previous studies on helping behaviors did not take this issue into account, this study intended to combine situational factors and individual factors to comprehensively explore their impact on helping behaviors and to further investigate the moderating role of attachment security in the relationship between facial trustworthiness and helping behaviors.
+
+This study included two experiments. Experiment 1 explored the effect of the characteristics of helpers’ trait attachment and facial trustworthiness by using a mixed experimental design of 2 (facial trustworthiness: high/low) $\times 3$ (attachment type: security/anxiety/avoidance).Experiment 2 used a 2 (facial trustworthiness: high/low) $\times ~ 2$ (state-security attachment priming: yes/no） to investigate whether priming security attchment had safe influence as trait security attachment. During both experiments， subjects were presented randomly with faces of different facial trustworthiness.Participants selected their willingness to help others and donate money. The amount of money they donated represented their helping behaviors.These two indices were selected as dependent variables.A7-point scale was used to measure help-willingness.The higher the score, the stronger of the willingness to help the seeker of participants.The amount of donation was between O-1Oo. The larger the number of donation, the more they were willing to contribute.
+
+This study used SPSS 2O.O to analyze the data of the experiment,and the results verified the research hypotheses. The results of experiment 1 showed that there was a significant interaction between facial trustworthiness and the types of helpers’ attachment. The simple effect analysis showed that there were significant differences in the willingness and people's behaviors with security attachments in both of the two facial trustworthiness,the willingness and money they input in high-facial trustworthiness were significantly higher than those in low-facial trustworthiness situation.There were also significant differences in the wilingness and behaviors between low and high facial trustworthiness both anxious individuals and avoidance individuals.
+
+The willingness and behaviors to help in high-facial trustworthiness situation were significantly higher than those in low-facial trustworthiness situation. The results of experiment 2 on willingness and behaviors showed that there was a significant different in the interaction between facial trustworthiness and the types of helpers'attachment. The simple effect analysis showed that there was a significant diference between the two facial trustworthiness situations for individuals of security attachment and a significant difference between the two facial trustworthiness situations for individuals of insecurity attachment, the willingness and helping behaviors in the high facial trustworthiness situation was higher significantly than low-facial trustworthiness situation. The different value in willingness and behavior in both experiment land experiment 2 under two facial trustworthiness situations for individuals of security attachment were significantly smaller than those for individuals of insecure attachment, indicating that atachment security to some extent had a regulatory role, it could buffer the risk-aided behavior to bring down.
+
+This study has some significance.First of all, this study incorporated facial trustworthiness into helping behaviors,which provided a new way of researches of helping behaviors. Looking from the perspective of the face helped to distinguish the unfamiliar environment's helping behaviors from the familiar environments.Second, the study found that individuals’ attachment types and the seker's face trustworthiness affects the helping behavior， indicating that the help-taking behaviors were the result of multiple factors,to remind the public to combine the help-seeking environment objectively and justly to see others’behaviors.The media should also adopt a pragmatic atitude towards reports of people's help behaviors so as to avoid reporting off the factual basis.
+
+Key wordshelping behaviors; helping willingness; facial trustworthiness; attachment security

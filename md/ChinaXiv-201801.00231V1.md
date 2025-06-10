@@ -1,0 +1,186 @@
+# DOI:10.5846/stxb201701080064
+
+张丹丹,莫柳莹，陈新|,张丽梅,徐星凯.氮沉降对温带森林土壤甲烷氧化菌的影响.生态学报,2017,37（24)：8254-8263.ZhangDD,CX,gLtsdoiaet(24):8254-8263.
+
+# 氮沉降对温带森林土壤甲烷氧化菌的影响
+
+张丹丹¹，²，莫柳莹1,4，陈新²，张丽梅¹，徐星凯³，\*
+
+1中国科学院生态环境研究中心城市与区域生态国家重点实验室，北京100085  
+2中国科学院大学，北京100049  
+3中国科学院大气物理研究所大气边界层物理和大气化学国家重点实验室，北京100029  
+4华中农业大学资源与环境学院，武汉430070
+
+摘要：大量研究显示氮沉降影响森林甲烷吸收量,但其中的微生物驱动机制仍缺乏研究。基于长白山典型温带森林长期氮沉降模拟实验平台样地,采用定量 PCR 和克隆测序技术,研究了长期施加不同形态氮( $\mathrm { ( N H _ { 4 } ) _ { 2 } S O _ { 4 } \setminus N H _ { 4 } C l }$ 和 $\mathrm { K N O } _ { 3 }$ )处理下森林土壤甲烷氧化菌的数量和群落组成随季节变化的特征。结果表明,夏季,森林土壤甲烷氧化菌pmoA基因丰度在不同施氮处理之间无显著性差异(每克干土 $1 . 5 4 \times 1 0 ^ { 6 } - 3 . 2 0 { \times } 1 0 ^ { 6 }$ 拷贝数);秋季,pmoA基因丰度在施加 $\mathrm { \Delta N H _ { 4 } C l }$ 和 $\mathrm { ( N H _ { 4 } ) _ { 2 } S O _ { 4 } }$ 处理小区(每克干土$1 . 9 3 \times 1 0 ^ { 5 }$ 一 $\cdot 7 . 6 \times 1 0 ^ { 5 }$ 拷贝数)与对照(每克干土 $( 4 . 0 3 \times 1 0 ^ { 6 } \pm 1 . 2 { \times } 1 0 ^ { 6 } )$ 拷贝数)相比有所降低,尤其在 $\mathrm { ( N H _ { 4 } ) _ { 2 } S O _ { 4 } }$ 处理小区(每克干土 $( 4 . 6 1 \times 1 0 ^ { 5 } \pm 2 . 6 1 \times 1 0 ^ { 5 } )$ 拷贝数)显著降低;无论夏季还是秋季,施加不同形态氮处理土壤甲烷氧化菌均以 TypeI型为主（相对丰度在 $7 0 . 6 \% - 8 5 . 4 \%$ 之间）,并以 Methylobacter-group（Type I）为优势类群,占 Type I型的 $5 5 . 1 \% - 9 1 . 7 \%$ ; Methylobacter-group(Type I)的相对丰度在夏季不同形态氮处理土壤样品中无显著差异,但秋季样品中在施加 $\left( \mathrm { \Delta N H _ { 4 } } \right) _ { 2 } \mathrm { S O } _ { 4 } ( 5 2 . 7 \% \pm 6 . 5 \% )$ 和 $\mathrm { N H } _ { 4 } \mathrm { C l }$ （ $5 6 . 1 \% \pm 8 . 9 \%$ )的处理显著低于对照土壤( $( 7 7 . 0 \% \pm 2 . 9 \%$ ）,Methylococcus-group（Type I）的相对丰度则在 $\mathrm { ( N H _ { 4 } ) _ { 2 } S O _ { 4 } }$ 和 $\mathrm { N H } _ { 4 } \mathrm { C l }$ 处理土壤呈增加的趋势。这些结果表明铵态氮肥添加对温带森林土壤甲烷氧化菌的生长具有抑制作用并导致其群落结构发生改变,受夏季温度和水分的影响,这种抑制作用在秋季表现更明显,而 $\mathrm { N O } _ { 3 } ^ { - }$ -N 添加对土壤甲烷氧化菌的群落组成和丰度无显著影响。这些结果解释了以往观测到的施铵态氮肥显著降低秋季温带林地土壤甲烷净吸收量,而在夏季无显著影响的观测结果,解释了长期氮沉降影响森林土壤甲烷吸收的微生物机制。
+
+关键词：甲烷氧化菌;pmoA基因;森林土壤;氮沉降
+
+# Effects of nitrogen addition on methanotrophs in temperate forest soil
+
+ZHANG Dandan12，MO Liuying1,4，CHEN Xin³, ZHANG Limei， XU Xingkai3 \*
+
+1StateKeylof   
+2 University of Chinese Academy of Sciences，Beijing 100049,China   
+3StateKeyLbtfscorericsstrstifoscs，defc，   
+Beijing 100029,China   
+4 Huazhong Agricultural University，Colege of Resources and Environment，Wuhan 430o7o，China
+
+Abstract:Several studies have shown that increasing nitrogen deposition afects methane uptakein the forest ecosystems; however,the microbialmechanismsunderlying thisphenomenonremainunclear.Inthepresent study,the seasonal variation inmethanotrophabundanceandcommunity structureinatemperate forestreceiving long-term diffrential nitrogenous
+
+http ://www.ecologica.cn
+
+compound addition treatments ( $( 4 5 ~ \mathrm { k g ~ N ~ h m } ^ { - 2 } ~ \mathrm { a } ^ { - 1 }$ using $\mathrm { ( N H _ { 4 } ) _ { 2 } S O _ { 4 } }$ ， $\mathrm { N H } _ { 4 } \mathrm { C l }$ ，and $\mathrm { K N O } _ { 3 }$ ）in Changbai mountains，were investigated byusingreal-time PCR,cloning，and sequencing.Methanotroph pmoA gene abundances were similaramongall fertilized and control plots in summer ( $1 . 5 4 \times 1 0 ^ { 6 }$ 一 ${ \cdot 3 . 2 0 \times 1 0 ^ { 6 } }$ copies $\mathbf { g } ^ { - 1 }$ dry soil）；however，in fall,it was significantly lower in the $\mathrm { ( N H _ { 4 } ) _ { 2 } S O _ { 4 } }$ treatment ( $\left( 4 . 6 1 \times 1 0 ^ { 5 } \pm 2 . 6 1 \times 1 0 ^ { 5 } \right.$ copies $\mathbf { g } ^ { - 1 }$ dry soil） than that in the control plots $\left( 4 . 0 3 \times 1 0 ^ { 6 } \pm 1 . 2 \times \right.$ ${ 1 0 } ^ { 6 }$ copies $\mathbf { g } ^ { - 1 }$ dry soil).In both summer and fall，the methanotroph community was dominated by Type I methanotrophs, consisting of Methylobacter-group（TypeI）and Methylococcus-group（Type I），with the relative abundance varying from $7 0 . 6 \% - 8 5 . 4 \%$ . The dominant clade of TypeImethanotroph，Methylobacter-group（Type I） showed no significant variance among all treatments in summer，but were present in significantly lower proportions in the ( $\mathrm { N H } _ { 4 }$ )2S04(52.7%±6.5%） and （204号 $\mathrm { N H } _ { 4 } \mathrm { C l }$ （ $5 6 . 1 \% \pm 8 . 9 \%$ ）treatments than in the control in fall. In contrast，Methylococcus-group（Type I） showed an increasing trend in the $\mathrm { ( N H _ { 4 } ) _ { 2 } S O _ { 4 } }$ and $\mathrm { N H } _ { 4 }$ Cl treatments compared to that in the control plots in fall. Overall，these results suggested that the addition of $\mathrm { N H } _ { 4 } ^ { + }$ -N fertilizers could inhibit the growth of methane oxidizing bacteria，and change their communitycomposition.The inhibitioneffectbecamemoreobvious infall than insummer,owing tothe interactiveffectsof soil moisture and temperature in summer，whereas NO $_ 3$ -N addition showed no significant effect on the abundance and community composition of methanotrophs.These results were consistent with the previous observation that ammonium-based fertilizer additionreduced methane uptakefrom temperate forest soil in fal/ratherthan insummer，and provided insights into the microbial mechanisms driving methane uptake in temperate forests under long-term nitrogen addition treatments.
+
+Key Words:methanotrophs；pmoA gene； forest soil；nitrogen deposition
+
+甲烷( $\mathrm { C H } _ { 4 }$ )是仅次于水蒸气和二氧化碳的第三大温室气体,对全球气候变暖的贡献率接近 $20 \%$ (IPCC,2007）。由于人类活动的加剧,大气中的 $\mathrm { C H } _ { 4 }$ 浓度已大幅增长,造成大气 $\mathrm { C H } _ { 4 }$ 浓度的升高的原因不仅是其源增加的结果,也与其汇减少有关[1]。水分不饱和的土壤作为大气 $\mathrm { C H } _ { 4 }$ 重要的汇,每年可以从大气中吸收(氧化)大约20—60Tg的 $\mathrm { C H } _ { 4 }$ [2-3],其微小变化都可能影响全球的 $\mathrm { C H } _ { 4 }$ 平衡[4]。森林土壤更被视为其中最为有效的汇[5-6],但由于环境因素变化如降水、温度 $\mathrm { \Delta \ p H }$ 、树种、氮沉降以及森林管理方式等的影响,森林土壤氧化大气$\mathrm { C H } _ { 4 }$ 的能力具有很高的变异性,因此，深入研究环境因素影响森林土壤 $\mathrm { C H } _ { 4 }$ 氧化的驱动机制对全面评估和调控森林土壤甲烷氧化能力具有重要意义[7-13]。
+
+近一个半世纪以来,由于化石燃料燃烧和农业化肥的大量投入等向大气中排放的含氮化合物激增，导致大气的氮沉降大幅增加[14]。森林生态系统是氮沉降大面积的直接承受者[15],据调查,温带森林的氮沉降量已高于 $1 5 \mathrm { k g ~ N ~ h m } ^ { - 2 } \mathrm { ~ a } ^ { - 1 }$ ,有些地区甚至高于 $5 0 \mathrm { k g \ N \ h m ^ { - 2 } \ a ^ { - 1 } } \left[ 1 6 \right]$ ,氮沉降因而成为森林生态系统备受关注的环境因子,并针对氮沉降对森林土壤甲烷氧化的影响开展了大量工作。但目前多数研究主要针对 $\mathrm { C H } _ { 4 }$ 气体吸收通量或吸收动力学这些表观特征来揭示氮沉降对森林土壤甲烷氧化的影响,对于这一过程中起关键作用的土壤微生物的作用机制研究相对较少,国内在这方面的研究更是鲜有报道。参与森林土壤甲烷氧化的微生物主要是甲烷氧化菌（Methanotroph）。甲烷氧化菌是一类以 $\mathrm { C H } _ { 4 }$ 为唯一碳源和能源的细菌,其通过甲烷单加氧酶（Methane monooxygenase,MMO）将 $\mathrm { C H } _ { 4 }$ 首先氧化为甲醇并启动系列酶将 $\mathrm { C H } _ { 4 }$ 最终代谢成二氧化碳和水[17]。根据生理生化特征以及对 $\mathrm { C H } _ { 4 }$ 代谢途径的差异,可将甲烷氧化菌分为 typeI和 type II两种类型,其分别属于$\gamma$ -变形菌纲( $\gamma$ -Proteobacteria）和 $\alpha$ -变形菌纲( $\propto$ -Proteobacteria）[18]。有关农业、森林以及湿地土壤等中甲烷氧化菌数量和群落组成已有较多的研究报道,并发现土壤甲烷氧化菌的数量、群落组成及其活性会受土壤 pH、湿度、温度、大气 $\mathrm { C H } _ { 4 }$ 浓度、植被类型以及施肥等环境因素的影响[19-25]。但关于森林土壤甲烷氧化菌应对氮沉降增加的响应机制的研究相对较少,国内更是缺乏相关报道。国外已有的几篇报道也主要是通过室内的短期施氮培养来研究氮素增加对森林土壤甲烷氧化菌群落组成的影响[26-27],而关于野外长期氮沉降增加对森林土壤甲烷氧化菌数量和群落组成的影响仍有待进一步研究。
+
+http://www.ecologica.cn
+
+长白山阔叶红松混交林是位于我国东北部重要的温带森林生态系统。本研究基于长白山温带森林长期氮沉降模拟实验平台，采用实时荧光定量PCR和克隆测序以及土壤属性测定相结合方法,研究了长期施加不同形态氮肥后,森林土壤甲烷氧化菌的数量和群落组成随季节变化的特征及其与土壤基质属性的关系,以期揭示长期氮沉降增加影响温带森林土壤甲烷氧化的微生物机制。
+
+# 1材料和方法
+
+# 1.1土壤采集和理化性质的测定
+
+本研究土壤样品采自长白山阔叶红松混交林长期氮沉降模拟实验平台,该控制实验始于 2006年,位于长白山北坡底部( $\langle 4 2 ^ { \circ } 2 4 ^ { \prime } \mathrm { N } , 1 2 7 ^ { \circ } 0 6 ^ { \prime } \mathrm { E } \rangle$ ,该地区属于典型的受季风影响的温带大陆性山地气候,水热同期,夏季短暂多雨,冬季寒冷漫长,年平均温度为 $2 . 5 \mathrm { - } 5 . 5 ^ { \circ } \mathrm { C }$ ,年降水量 $6 0 0 { \ - } { \ - } 9 0 0 { \mathrm { m m } }$ [28-29]。土壤类型为山地暗棕壤,冷凉淋溶土,以火山灰为成土母质,经有机质积累和弱酸性淋溶过程形成 $^ { [ 3 0 ] } \mathrm { { ‰} }$ 主要植被有红松（Pinuskoraiensis）、椴树、蒙古栎和水曲柳等。土壤样品采样时选择野外控制实验中长期施加高剂量( $4 5 \mathrm { k g } \mathrm { ~ N ~ h m } ^ { - 2 }$ （20$\mathbf { a } ^ { - 1 }$ )的3种不同形态氮素 $\mathrm { ~ ( ~ N H _ { 4 } ~ ) _ { 2 } S O _ { 4 } \Omega , N H _ { 4 } C l }$ 和 $\mathrm { K N O } _ { 3 }$ )及未施用氮素的处理(对照)为研究对象,每个处理均设有4个重复小区;有关森林剖面土壤属性和野外施氮控制实验参见[31-32]。根据长期积累数据规律以及当地的气候特征分别在夏季雨热同期(8月)和秋季干旱期(10月)两个典型时期采集土壤样品：每个小区利用不绣钢土钻随机选取3点采集0— $1 0 \mathrm { { c m } }$ 深度的土壤,充分混匀后置于冰盒带回实验室处理。将采集的土壤样品分成两份,一份随即以液氮速冻保存于 $- 8 0 \%$ 冰箱,用于分子生物学分析;另一份中存放于 $4 ^ { \circ } \mathrm { C }$ 用于 $\mathrm { \ p H }$ 值、铵态氮、硝态氮和可溶性有机碳测定。
+
+土壤 pH 值的测定采用去离子水以水土比 $2 . 5 { : } 1 \left( \it { w / w } \right)$ 浸提,并用Delta $3 2 0 ~ \mathrm { p H }$ 仪测定;土壤铵态氮和硝态氮采用1mol/LKCl 溶液,以水土比 $5 \colon 1 ~ ( ~ w ~ / w ~ )$ 浸提后,采用连续流动分析仪（ $\mathrm { S A N ^ { + + } }$ ，SKALAR，theNetherlands)测定;土壤可溶性有机碳采用0.5mol/L $\mathrm { K } _ { 2 } \mathrm { S O } _ { 4 }$ 溶液，以水土比为5:1浸提后,通过总有机碳分析仪（Shimadzu TOC-Vcsh/TN，Kyoto，Japan）测定[33]。
+
+# 1.2土壤DNA和定量PCR分析
+
+土壤总 DNA 提取采用 MoBio UltracleanTM Soil DNA 试剂盒（San Diego，CA)进行,所有操作依照产品说明书进行,细胞破碎在FastPrep上进行,破碎强度为 $5 . 0 \mathrm { m / s }$ ，时间为 $4 5 \mathrm { s }$ 。所获得的DNA 样品经10 倍稀释后直接用于下游实验。 人
+
+以甲烷氧化菌的pmoA基因为靶基因，以pmoA基因的特异引物A189( $5 ^ { \prime }$ -GGNGACTGGGACTTCTGG 和mb661( $5 ^ { \prime }$ -CCGGMGCAACGTCYTTACC)[34]利用实时荧光定量PCR对不同处理土壤中甲烷氧化菌的丰度进行定量分析。定量PCR的扩增反应使用 $\operatorname { S Y B R } ^ { \circledast }$ Premix Ex TaqTM试剂盒（TaKaRa）, $2 5 \mu \mathrm { L }$ 定量PCR反应体系中包括 $2 \times$ SYBRPremixEx TaqTM $1 2 . 5 \mu \mathrm { L }$ ,正反向引物（浓度为 $1 0 \mu \mathrm { m o l / L }$ 各 $0 . 5 \mu \mathrm { L }$ ,DNA 模板 $2 \mu \mathrm { L }$ ,其余用$\mathrm { d d H } _ { 2 } \mathrm { O }$ 补足至 $2 5 \mu \mathrm { L }$ 。Real-time PCR 反应在 ICycler IQ 5 thermocycler（Bio-Rad Laboratories，Hercules，CA,USA)上运行,其扩增程序如下： $9 4 ^ { \circ } \mathrm { C }$ 预变性 $5 \mathrm { m i n }$ $9 4 ^ { \circ } \mathrm { C }$ 变性45s, $6 3 ^ { \circ } \mathrm { C }$ 退火45s, $7 2 \%$ 延伸 $1 \mathrm { m i n }$ ,之后每个循环退火温度降低 $1 \mathrm { { ^ { \circ } C } }$ ,共5个循环; $9 4 ^ { \circ } \mathrm { C }$ 变性45s, $5 7 \%$ 退火45s, $7 2 \%$ 延伸 $1 \mathrm { m i n }$ ,共 30 个循环;在 $8 3 ^ { \circ } \mathrm { C }$ 收集反应荧光信号,数据分析采用iCycler软件[24]。
+
+# 1.3甲烷氧化菌的群落组成分析
+
+甲烷氧化菌的群落组成通过对pmoA 基因进行克隆测序分析,pmoA基因普通 PCR 扩增引物和扩增程序同1.2中的real-time PCR。PCR 产物经过 Wizard SV Gel&PCR Clean-Up System(Promega，USA)试剂盒切胶纯化后,连接到pGEM-T EasyVector上（Promega，Madison，WI,USA）,再通过热击法将载体转化入大肠杆菌JM109 感受态细胞（TaKaRa,Japan）,取转化液涂布到含有氨苄青霉素（Ampicillin)/IPTG/X-Gal的LB（Luria-Bertani)培养基上, $3 7 \%$ 下培养 $1 6 { - } 1 8 \mathrm { h }$ 。随机选取若干白色克隆子,采用菌体扩增方式,用pGEM-T EasyVector通用引物T7/SP6扩增外源插入片段。通过 $1 \%$ 浓度的琼脂糖凝胶电泳法检验含有插入片段的阳性克
+
+隆子。
+
+每个克隆文库随机挑选30个阳性克隆子进行测序。所获得的目的基因序列通过ClustalX2,mouthur 进行序列分析,按照 $9 3 \%$ 同源划分可操作分类单元（Operational Taxonomic Units，OTUs）[35],并把正确长度的序列提交 NCBI数据库进行 Blast序列对比,下载最相似菌种序列作为系统发育树的参考序列。通过Clustal W 和Mega 5.0建立Neighbor-Joining 系统发育树,系统发育树各分支置信度由自举分析方法（Boostrap）检验,重复1000 次。
+
+# 1.4 数据处理
+
+本研究中的统计分析在 SPSS 19.0软件中进行,其中多组数据间的差异分析采用单因素方差分析与多重比较分析（Duncan, $P { < } 0 . 0 5 )$ ;相关分析采用Spearman 相关分析;克隆文库数据的分析采用Redundancy analysis(RDA)分析样品间群落组成与不同形态氮沉降增加下土壤基质属性的关系,在CANOCO4.5软件中进行。
+
+# 2结果
+
+# 2.1土壤理化性质
+
+各处理土壤样品的基本理化性质如表1所示。无论夏季和秋季,施加 $\mathrm { N H } _ { 4 } \mathrm { C l }$ 实验小区土壤样品的pH值（4.54—5.84）显著低于其他处理的 $\mathrm { \ p H }$ 值（5.08—6.51），但施加不同形态的氮肥对土壤的DOC、 $\mathrm { N H } _ { 4 } ^ { + }$ -N和$\mathrm { N O } _ { 3 } ^ { - }$ -N 含量以及盐浸提有机碳/矿质氮( $\mathrm { N H _ { 4 } ^ { + } { - } N { + } N O _ { 3 } ^ { - } { - } N }$ )比值无显著影响 $( P { < } 0 . 0 5 )$ 。
+
+表1土壤基本理化属性(平均数 $\dot { \bf { \theta } } \pm \mathbf { \theta }$ 标准误差）  
+Table1Soil physiochemical properties（mean±SE）  
+
+<html><body><table><tr><td>采样时间 Sampling time</td><td>处理 Treatment</td><td>pH(水)</td><td>盐浸提有机碳 DOC</td><td>NH4 -N/ （mg/kg)</td><td>NO3 -N/ (mg/kg)</td><td>盐浸提有机 碳/矿质氮 D0C/ming)</td><td>土壤湿度 moisture/</td></tr><tr><td>8月</td><td>CK</td><td>5.85±0.06a</td><td>292.4±18.8a</td><td>54.0±2.5a</td><td>27.7±11.4a</td><td>3.7±0.4a</td><td>81.1±11.8a</td></tr><tr><td>August</td><td>(NH4）SO4</td><td>5.80±0.07a</td><td>258.6±22.3a</td><td>51.8±6.6a</td><td>21.2±5.9a</td><td>3.6±0.3a</td><td>70.9±11.2a</td></tr><tr><td></td><td>NH4 Cl</td><td>5.48±0.04a</td><td>266.3±15.2a</td><td>45.5±2.9a</td><td>22.1±1.4a</td><td>3.4±0.2a</td><td>68.2±5.0a</td></tr><tr><td></td><td>KNO3</td><td> 5.92 ±0.04a</td><td>278.1±18.0a</td><td>50.3±2.0a</td><td>24.7±5.6a</td><td>4.1±0.2a</td><td>74.1±10.0a</td></tr><tr><td>10月</td><td>CK</td><td>5.62±0.06a</td><td>282.4±10.8a</td><td>55.6±5.1a</td><td>31.8±0.1a</td><td>3.5±0.1a</td><td>64.4±6.0a</td></tr><tr><td>October</td><td>(NH4）SO4</td><td>5.59±0.07a</td><td>266.4±15.3a</td><td>51.8±6.4a</td><td>16.1±2.0a</td><td>4.3±0.8a</td><td>61.3±10.0a</td></tr><tr><td></td><td>NH4 Cl</td><td>5.59±0.14a</td><td>255.2±13.7a</td><td>45.7±4.5a</td><td>21.2±2.8a</td><td>3.7±0.2a</td><td>55.5±4.0a</td></tr><tr><td></td><td>KNO3</td><td>5.75±0.06a</td><td>322.5±9.7a</td><td>33.4±0.4a</td><td>26.8±7.8a</td><td>4.2±0.2a</td><td>72.4±9.5a</td></tr><tr><td>各处理土壤显著性差异</td><td>CK</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr><tr><td>Significant difference O</td><td>(NH4)2S04</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr><tr><td>among different treatments</td><td>NH4 Cl</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr><tr><td>●</td><td>KNO3</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr></table></body></html>
+
+平均数±标准误差;同列相同小写字母a分别表明夏季和秋季土壤性质在不同处理之间无显著性差异,同列大写字母A，B表明不同处理之间土壤性质的显著差异性( $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$
+
+# 2.2甲烷氧化菌的数量及其与土壤基质特性之间的关系
+
+利用实时荧光定量PCR 技术对土壤中的pmoA 基因丰度进行了分析,结果如图1所示。夏季(8月）不同施氮处理之间的pmoA基因丰度均无显著性差异,不同施氮处理之间的pmoA基因丰度在 $1 . 5 4 \times 1 0 ^ { 6 }$ 一 ${ \cdot 3 . 2 0 \times }$ $1 0 ^ { 6 }$ 拷贝数/ $\mathbf { \dot { g } }$ 干土范围内,秋季(10 月)不同施氮处理之间的pmoA 基因丰度差异显著,pmoA 基因丰度在施加（20 $\mathrm { ( N H _ { 4 } ) _ { 2 } S O _ { 4 } }$ 处理小区 $( 4 . 6 1 \times 1 0 ^ { 5 } \pm 2 . 6 1 \times 1 0 ^ { 5 } )$ 拷贝数 $\mathbf { \check { g } }$ 干土显著低于对照处理 $\left( 4 . 0 3 \times 1 0 ^ { 6 } \pm 1 . 2 \times 1 0 ^ { 6 } \right)$ 拷贝数 $\mathbf { \check { g } }$ 干土。pmoA基因丰度与土壤基本属性的相关性分析结果表明,夏季(8月)不同处理的pmoA 基因丰度与土壤 $\mathrm { \ p H }$ 值呈显著正相关关系， $\stackrel { \prime } { _ { \mathrm { \Delta } } } r = 0 . 7 4 , P { < } 0 . 0 5 { \rangle }$ ,而与土壤DOC 含量、盐浸提有机碳/矿质氮比值 $\mathrm { N H } _ { 4 } ^ { + } { - } \mathrm { N } \mathrm { , } \mathrm { N O } _ { 3 } ^ { - }$ N 含量和土壤湿度均无显著相关关系;秋季(10月)各处理的土壤样品的pmoA基因丰度与 $\mathrm { \ p H }$ 值、DOC、 $\mathrm { N H } _ { 4 } ^ { + }$ 1$\mathrm { N } \lrcorner \mathrm { N O } _ { 3 } ^ { - }$ -N和土壤湿度以及盐浸提有机碳/矿质氮比值均无显著相关性。
+
+# 2.3甲烷氧化菌的群落组成
+
+通过克隆测序技术，对甲烷氧化菌的群落组成进行了分析。对两个季节所采集的样品一共构建了32个pmoA基因克隆文库，每个克隆文库随机挑取约30个克隆子进行测序，共获得742条有效序列。在 $9 3 \%$ 的序列相似水平上，甲烷氧化菌pmoA基因序列一共被划分为112个OTU，在系统发育树上形成2个主要分支，分别对应TypeI型(磷酸核酮糖氧化途径)和TypeⅡ型（丝氨酸氧化途径)甲烷氧化菌，如图3所示。其中，属于TypeI型的序列可进一步形成4个分支,参考Kolb 等人[36]的分类经验,研究将这4个分支命名为：Methylobacter-group（Type I）、Methylococcus-group（TypeI）Methylohalobius-group（Type I）和 upland soil clusterγ（TypeI)。其中,upland soilclusterγ（TypeI）序列主要来自于旱地土壤和森林土壤[19.36],但本研究的供试样品只检测到Methylobacter-group（TypeI）和Methylococcus-group（TypeI），未检测到upland soilcluster γ(Type I)和 Methylohalobius-group（Type I）的序列,可能由引物的偏差所致（图3）。属于TypeⅡ的序列也形成两个小分支,即 Methylosinus-group（Type II）和Methylocapsa spp.（TypeII)（图3）,于供试土壤样品中均被检测到。
+
+无论夏季还是秋季，不同处理土壤样品的甲烷氧化菌均以TypeI类型为主,其相对丰度在 $7 0 . 6 \% - 8 5 . 4 \%$ 之间,其中 Methylobacter-group（Type I）是 TypeI型甲烷氧化菌的优势类群，占TypeI的 $5 5 . 1 \% - 9 1 . 7 \%$ 。夏季（8月）各处理土壤中Methylobacter-group（TypeI）占总甲烷氧化菌的 $4 5 . 3 \% - 6 7 . 5 \%$ ,各处理土壤无显著差异；秋季(10月)施加 $\mathrm { N H } _ { 4 } \mathrm { C l }$ 和 $\mathrm { ( N H _ { 4 } ) _ { 2 } S O _ { 4 } }$ 处理的土壤中Methylobacter-group（TypeI)相对丰度分别为( $5 2 . 7 \%$ $\pm 6 . { \dot { 5 } } \% \cdot$ 和 $5 6 . 1 \% \pm 8 . 9 \%$ )，显著低于对照土壤( $7 7 . 0 \% \pm$ $2 . 9 \%$ 0 $\cdot \textcircled { P } { < } 0 . 0 5 )$ （图2）。与 Methylobacter-group（TypeI)相反，Methylococcus-group（TypeI）的相对丰度则在秋季（10月）（ $\mathrm { N H } _ { 4 } ) _ { 2 } \mathrm { S O } _ { 4 }$ 和 $\mathrm { N H } _ { 4 } \mathrm { C l }$ 处理土壤中有增加的趋势（图2）。这些结果表明施加 $\mathrm { N H } _ { 4 } ^ { + }$ -N 在一定程度上抑制了Methylobacter-group（TypeI)型甲烷氧化菌的生长,但可能刺激了Methylococcus-group（TypeI）的生长，而施加 $\mathrm { N O } _ { 3 } ^ { - }$ -N肥对甲烷氧化菌的群落组成无显著影响。
+
+![](images/19b94bcd8cd675f23bd20d465e089fc930a0998166a86c86c85d00ec96070ff6.jpg)  
+图1夏季和秋季不同施肥处理间土壤甲烷氧化菌pmoA基因丰度Fig.1The abundance of soil methanotrophic pmoA gene underdifferentnitrogenouscompound amendments in Summer（August）and Fall（October)
+
+小写字母a:pmoA基因丰度在夏季(8月)雨热同期时期各处理之间差异无显著性；大写字母A，B：pmoA基因丰度在秋季（10月）干旱期各处理之间的有差异显著性( $P < 0 . 0 5$ ）
+
+![](images/27def4b0bc3f23238a45e5898cb785b649081b5fdd5178eebea6a906e9097523.jpg)  
+图2夏季和秋季施氮处理样地甲烷氧化菌群落组成的变化 Fig.2The community composition of methanotroph under differentnitrogenouscompoundamendmentsinSummer (August）and Fall（October) CK;对照组,未施氮处理;HS;施加硫酸铵， $\mathrm { ( N H _ { 4 } ) _ { 2 } S O _ { 4 } }$ 处理;HCl: 施加氯化铵， $\mathrm { N H } _ { 4 } \mathrm { C l }$ 处理;HK;施加硝酸钾， $\mathrm { K N O } _ { 3 }$ 处理
+
+Cluster1(HC18:1-2; CK8:3-5;HK8:6;CK10:7; HK10:8-9;HS10:10) 16 Methylobacter psychrophilus (AY945762) 4 19 Cluster2(CK8:11;HS8:12-13;HC18:14;HS10:15;HC110:16) Cluster3 (CK8:17; CK10:18;HS8:19-20;HC18:21) Cluster4(HC18:22;HC110:23;HK8:24) 6 -Cluster5(CK8:25; HCI10:26;HK8:27;HK10:28-29;HS8:30-31) 5 Cluster6(CK8:32-33;HS8:34;HK10:35) Cluster7(CK8:36-37) 14 20 Cluster8(CK8:38;CK10:39;HS8:40) 94 Cluster9(CK8:41; CK10:42;HS8:43-44;HC18:45;HC110:46) 32 Methylosoma difficile(DQ119047) 29 HS8-47(4) Methylobacter-group (Type I） 35 -Cluster10(CK8:48-50; HS8:51;HK10:52) 95 Cluster11(CK8:53; CK10:54) 18 MetHicU53) 31 99 Cluster13(CK10:57;HC18:58;HC110:59) 23 HC18-60 (3) 37 Cluster14 (HCl10: 61-62) 56 55 Cluster15(HS8:63;HS10:64;HK8:65; CK8:66) cologica Clusterl6(HS8:68-69) 35 -Methylomicrobium japanense (AB253367) HK8:70 (1) 100 63 Uncultured Methylosarcina sp.(AB500795) 100 Cluster17(HK8:71;HK10:72;HS10:73) Cluster18(CK8:74;CK10:75;CK8:76-77) 70 99 -Methylohalobius crimeensis(AJ581836) Methylohalobius-group(TypeI) 44 Methylothermusthermalis(AY829010) 99 Cluster19(HC110:78;CK8:79;HS8:80) CK8-81(1) 72 Methylococcus capsulatus (U94337) 83 Methylocaldum gracile(U89301) Methylococcus-group (Type I) 89 Methylosoma sp. TFB(GQ130273) 63 HC18-82(1) 100 Uncultured bacterium (AJ786708) Uncultured bacterium(AJ868253) 100 Uncultured bacterium (AJ579670) Upland soil clusterγ(Type I) Uncultured bacterium clone (EF165628) 100 -Uncultured bacterium _DGGE band (AJ579669) 43 Uncultured bacterium(AJ786710) 94 Cluster20(HC18:83; HK8:84; CK8:85-86) 99 Cluster21(CK8:87-88) 1007 Hsus-e92(HK10:90; HK8:91) Methanocapsa spp.(Type II) 99 Cluster23(HC18:92; CK10:93;CK8:94;HK10:95) Methanocapsa acidophila(AJ278727) 100 HC18:96 (2) -HK10:97(7) 88 100 Methylosinus trichosporium(U31650) 32 HK8:98(1) 100 HK10:99(1) HC18:100(44) 46 ? Cluster24(HS10:101;HK10:102;HC18:103) Methlosinus-group (Type II) 16 ? 100 Methylocystis hirsuta(DQ364434) 36 -HC18:104 (1) 27 0.05 56 Methylocystis sp.LW5 (AF150791) CK8:105(2) 23 Cluster25(HS10:106-108) 31 Cluster26(HS8:109-110; HC110:111;HS10:112)
+
+CK8(10):8（10)月份对照,CK土壤样品;HS8（10)：8（10)月份施加硫酸铵， $\mathrm { ( N H } _ { 4 } \mathrm { ) } _ { 2 } \mathrm { S O } _ { 4 }$ 处理土壤样品；HCl8（10)：8（10)月份施加氯化铵，$\mathrm { N H } _ { 4 } \mathrm { C l }$ 处理土壤样品;HK8(10)：8(10)月份施加硝酸钾， $\mathrm { K N O } _ { 3 }$ 处理土壤样品;分号后的数字：OTU的序号；括号里的数字：该处理代表OTU的序列条数
+
+对 pmoA 基因为代表的甲烷氧化菌微生物群落组成和土壤基本属性进行冗余分析（Redundancy analysis，RDA）,结果显示甲烷氧化菌群落组成与盐浸提有机碳/矿质氮比值呈显著正相关关系( $\stackrel { \prime } { r } = 0 . 4 9 , P { < } 0 . 0 5 )$ ，与土壤湿度和 $\mathrm { \ p H }$ 值无相关性（图4)。此外,RDA分析结果显示夏季(8月)样品和秋季(10月)样品被 RDAAxis 1轴分开,表明采样时间即季节变化对甲烷氧化菌的群落组成有显著影响（PerMANOVA， $P < 0 . 1$ ，图4）。
+
+![](images/5e7c20d6a0ba247bd91ae6c9aced88e75a398eca123bade29ed7e976420c061e.jpg)  
+图4甲烷氧化菌群落组成与环境因子的RDA分析  
+Fig.4Redundancy analysis（RDA）between methanotroph community and environmental variables
+
+空心图标;8月份土壤样品;实心图标;10月份土壤样品; $\mathfrak { O }$ :8月份对照,CK土壤样品;□:8月份施加硫酸铵, $\mathrm { ( N H _ { 4 } ) _ { 2 } S O _ { 4 } }$ 处理土壤样品;$\triangle : 8$ 月份施加氯化铵， $\mathrm { N H } _ { 4 } \mathrm { C l }$ 处理土壤样品; $\nabla : 8$ 月份施加硝酸钾， ${ \mathrm { K N O } } _ { 3 }$ 处理土壤样品; $\bullet : 1 0$ 月份对照，CK样品；■：10月份施加硫酸铵， $\mathrm { ( N H _ { 4 } ) _ { 2 } S O _ { 4 } }$ 处理土壤样品; $\pmb { \triangle } : 1 0$ 月份施加氯化铵， $\mathrm { N H } _ { 4 } \mathrm { C l }$ 处理土壤样品；■：10月份施加硝酸钾， $\mathrm { K N O } _ { 3 }$ 处理土壤样品
+
+# 3讨论
+
+3.1甲烷氧化菌的数量对不同形态氮沉降增加的响应
+
+甲烷氧化菌通过甲烷单加氧酶(Methane monooxygenase,MMO)催化甲烷氧化,几乎所有已知的甲烷氧化菌都能合成颗粒状甲烷单加氧酶pMMO,编码pMMO的基因pmoA 被作为特异的分子标记物广泛的应用于甲烷氧化菌的分子生态学研究中[37]。在本研究中,定量 PCR分析结果显示各处理土样甲烷氧化菌的pmoA 基因丰度在夏季(8月)无显著性差异(1.54— $3 . 2 0 \times 1 0 ^ { 6 }$ 拷贝数/ $\mathbf { \dot { g } }$ 干土）,这与该月份野外林地 $\mathrm { C H } _ { 4 }$ 吸收通量在不同处理间无显著差异的结果相一致[32]。八月份森林降水较多（土壤湿度在 $6 8 . 3 \% - 8 1 . 2 \%$ 之间,明显高于十月份土壤湿度 $5 5 . 5 \% - 7 2 . 4 \%$ ,表1),土壤湿度大,甲烷氧化是一个需氧的生物反应过程,过高的土壤含水量会抑制氧化过程而减少甲烷吸收量。已有的研究也发现, $\mathrm { C H } _ { 4 }$ 的吸收量与土壤含水量成负相关关系[38」。此外,由于夏季降水量集中,可观察到林地地表地势低处有甲烷排放,这也可能是造成森林地表夏季有高浓度甲烷氧化现象的原因之一[32]。而秋季(10月)甲烷氧化菌的pmoA基因丰度在不同施氮处理间差异性显著,在施加 $\mathrm { N H } _ { 4 } ^ { + }$ -N的2个处理( $\mathrm { N H } _ { 4 } ) _ { 2 } \mathrm { S O } _ { 4 }$ 和 $\mathrm { N H } _ { 4 } \mathrm { C l }$ 中,pmoA 基因丰度低于对照,尤其在 $\mathrm { ( N H _ { 4 } ) _ { 2 } S O _ { 4 } }$ 处理中差异显著,与该处理下野外林地甲烷吸收量偏低的结果相一致[32」,表明 $\mathrm { N H } _ { 4 } ^ { + }$ -N 通过抑制了甲烷氧化菌的数量而降低了甲烷吸收能力。该结果与胡荣佳等报道的无机氮肥抑制土壤甲烷氧化能力的关键是 $\mathrm { N H } _ { 4 } ^ { + }$ 而非 $\mathrm { N O } _ { 3 } ^ { - }$ 的结论一致[39]。Dam 等对纯培养甲烷氧化菌（Methylocystis sp.Strain SC2）的研究中也发现,当 $\mathrm { C H } _ { 4 }$ 浓度低于
+
+$4 0 0 \mathrm { p p m v }$ 时,高浓度( $\mathrm { 3 0 ~ m m o l / L ) N H _ { 4 } ^ { + } }$ 会抑制 $\mathrm { p M M O } 2$ （高亲和力甲烷单加氧酶)驱动的甲烷氧化过程[40]。其原因可能是 $\mathrm { N H } _ { 4 } ^ { + }$ 和 $\mathrm { C H } _ { 4 }$ 在分子结构上较为相似,导致 $\mathrm { N H } _ { 4 } ^ { + }$ 和 $\mathrm { C H } _ { 4 }$ 对甲烷单加氧酶(MMO)上的活性结合位点相互竞争，特别是当 $\mathrm { N H } _ { 4 } ^ { + }$ 浓度较高时， $\mathrm { N H } _ { 4 } ^ { + }$ 能够把活性结合点上的 $\mathrm { C H } _ { 4 }$ 驱赶下来，从而抑制甲烷氧化菌的生长代谢,导致甲烷吸收量降低[41]。此外， $\mathrm { N H } _ { 4 } ^ { + }$ 对甲烷氧化菌的抑制还表现在 $\mathrm { N H } _ { 4 } ^ { + }$ 经硝化作用产生的 $\mathrm { N O } _ { 2 } ^ { - }$ 以及羟胺对甲烷氧化菌有毒害作用,但是由于 $\mathrm { N O } _ { 2 } ^ { - }$ 和羟胺的不稳定性,该种毒害作用常发生在酸性土壤中,一般认为中性土壤中难以造成 $\mathrm { N O } _ { 2 } ^ { - }$ 和羟胺的积累而抑制甲烷氧化菌的代谢[39,42]。与施加 $\mathrm { N H } _ { 4 } ^ { + }$ -N 处理相比,施加 $\mathrm { K N O } _ { 3 }$ 实验处理小区土壤,pmoA基因丰度与对照差异不明显,与野外林地两处理甲烷吸收量无差异相一致,表明 NO:-N 肥不影响甲烷氧化菌的数量,与NO3-N 施加不影响土壤甲烷吸收量的结果相一致[32.43]。
+
+# 3.2甲烷氧化菌的组成对不同形态氮沉降增加的响应
+
+根据甲烷氧化菌的生理生化特征以及对 $\mathrm { C H } _ { 4 }$ 代谢途径和亲和力的差异，可将甲烷氧化菌分为TypeI型和Type ⅡI型两种类型,分别属于 $\gamma$ -Preoteobacteria和 $ { \alpha }$ -Preoteobacteria纲;TypeI型甲烷氧化菌通过磷酸核酮糖途径氧化 $\mathrm { C H } _ { 4 }$ ,对 $\mathrm { C H } _ { 4 }$ 亲和力低,但具有较强的繁殖能力,属于 $\mathbf { r } .$ -策略者[44],其常见类群包括：甲基单胞菌属（Methylomonas）、甲基球菌属（Methylococcs）等;而TypeI型利用丝氨酸途径氧化 $\mathrm { C H } _ { 4 }$ ，对 $\mathrm { C H } _ { 4 }$ 的亲和力高，属于 $\mathbf { k }$ -策略者,包括甲基弯曲菌（Methylosinus）和甲基孢囊菌属（Methylocystis)等;此外,人们将类似于TypeI型荚膜甲基球菌（Methylococcus capsulatus）的甲烷氧化菌定义为X型,其代谢途径与 TypeI型相同[1-8,45]。本研究中检测到的pmoA基因序列分为 TypeI型和 TypeⅡ型两类甲烷氧化菌,主要以TypeI型甲烷氧化菌为主，其相对比例大于 $7 0 \%$ （图2）,造成这种现象的原因可能是：TypeI型甲烷氧化菌在低 $\mathrm { C H } _ { 4 }$ 高氧气环境中为优势种群,而 Type Ⅱ型甲烷氧化菌则在高 $\mathrm { C H } _ { 4 }$ 低氧气环境中起主导作用[46]。此外,已有的研究发现 Type I型甲烷氧化菌对土壤环境要求较苛刻,而 Type Ⅱ型甲烷氧化菌有较强的生存能力,因此施氮过程会较大程度影响 TypeI型甲烷氧化菌的活性和群落组成,而对 Type Ⅱ型甲烷氧化菌的群落组成无显著影响[2,47]。
+
+# 3.3季节变化对甲烷氧化菌响应氮素输入的影响
+
+RDA 分析结果表明森林土壤盐浸提有机碳/矿质氮比值与甲烷氧化菌群落组成呈显著相关性,再次印证不同施氮处理是导致甲烷氧化菌群落组成差异的主要因素。此外,RDA 结果显示夏季(8月)样品和秋季（10月)样品被RDA Axis1轴分开,表明甲烷氧化菌的群落组成在不同季节有明显变化,与该样地中甲烷通量随季节变化的趋势和之前有关季节和温度变化显著影响甲烷氧化菌的群落组成和甲烷的产生与氧化能力的研究报道一致[8.20.32]。但本研究中施氮处理对甲烷氧化菌的丰度和群落组成的影响在夏季不显著,而在秋季均表现出明显影响。长白山阔叶红松混交林地属于温带大陆季风型气候,夏季平均温度保持在 $2 5 \mathrm { ^ { \circ } C }$ 左右,而秋季平均温度在5—15℃范围内[32]。虽然嗜热性甲烷氧化菌相继被发现[48-49],但多数甲烷氧化菌生长的适宜温度在 20- $3 0 \mathrm { { ^ { \circ } C } }$ 之间。长白山地区夏季较适宜的温度更有利于甲烷氧化菌的生长和活性,该影响可能超过施氮本身的影响,从而使得其对长期施氮的响应不显著。此外,也有不少研究表明,氮肥施用可通过促进植物生长促进根系分泌更多碳源供给甲烷氧化菌从而促进甲烷氧化能力[50-51];夏季植物生长旺盛对氮肥的吸收利用较快，从而减弱了氮肥对土壤中甲烷氧化菌的抑制作用。
+
+# 4结论
+
+本研究对长期施加不同形态氮素模拟沉降增加条件下温带森林土壤中甲烷氧化菌的数量和群落组成的季节性演变特征及其与土壤基质属性的耦合关系进行研究,结果表明,夏季不同施氮处理对甲烷氧化菌pmoA基因丰度无显著性差异,而秋季施加 $\mathrm { N H } _ { 4 } \mathrm { C l }$ 和 $\mathrm { ( N H _ { 4 } ) _ { 2 } S O _ { 4 } }$ 处理降低甲烷氧化菌的丰度。无论夏季和秋季,施加不同形态氮的土壤中甲烷氧化菌均以适应低 $\mathrm { C H } _ { 4 }$ 但有氧环境的 TypeI型为主（相对丰度在 $7 0 . 6 \% - 8 5 . 4 \%$ 之间）,作为I型甲烷氧化菌的优势类群,Methylobacter-group（Type I）占TypeI型的 $5 5 . 1 \% - 9 1 . 7 \%$ ,在夏季不同形态氮处理间无显著差异,但在秋季施加( $\mathrm { N H } _ { 4 } ) _ { 2 } \mathrm { S O } _ { 4 }$ 和 $\mathrm { N H } _ { 4 } \mathrm { C l }$ 处理中显著低于对照处理。长白山地区夏季较适宜的温度更有利于甲烷氧化菌的生长，以及夏季植物生长旺盛为甲烷氧化菌提供更多碳源,从而使得施氮对甲烷氧化菌的影响不如秋季显著。这些结果解释了以往观测到的施铵态氮肥显著降低秋季林地甲烷净吸收通量,而在夏季无显著影响的观测结果，一定程度上揭示了氮沉降影响森林土壤甲烷氧化季节性差异的潜在的微生物机制。
+
+致谢：中国科学院大气物理研究所王迎红博士、吴浩浩同学帮助样品采集和土壤性质分析测定,中国科学院微生物研究所郑勇博士和中国科学院生态环境研究中心王雅琪同学帮助微生物分析,特此致谢。
+
+# 参考文献（References）：
+
+[1]HutschBW，WebsterCP,PowsonDSMethaeoxidationinsoilasfcedbylanduse，soilpHandNferilizatonSliologndBiochemistry，1994,26(12）：1613-1622.  
+[2]HencelckelUelldeaalfecuislApplied and Environmental Microbiology，2000,66(5）：1801-1808.  
+[3]LauE，AmadA，SteudlerPA，CavanaughCM.Molecularcharacterizationofethanotrophccommunitisiforestoilsthatconsuatmospheric methane.FEMS Microbiology Ecology，2007,60(3）：490-500.  
+[4] Bradford MA,Ineson P,Wookey PA,Lappin-Scott HM.Role of $\mathrm { C H } _ { 4 }$ oxidation,production and transport in forest soil $\mathrm { C H } _ { 4 }$ flux. Soil Biology andBiochemistry，2001，33(12/13）：1625-1631.  
+[5]MerJLRogerProdutioidatioissodcosumptioofetanebyls；eviewuropeanJalofSlolo(1): 25-50.  
+[6]KolbS.Thequestforatmospheric methaneoxidizers inforestsoils.EnvironmentalMicrobiologyReports,2O09,1（5）：36-346.  
+[7]PeichlM,ltafAM,UlahS,oreTR.Carbondioxideethae,ndntrousoideehangesinge-sequenef emperatepiorests.Global Change Biology，2010,16(8）：2198-2212.  
+[8]MohatodelieE,dftfpeaueopositfteoocutcfelddorsMicrobiology Ecology，2007,62（1）：24-31.  
+[9]Saari A，Rinnan R,Martikainen PJ.Methane oxidation in boreal soils: kinetics and sensitivity to $\mathrm { p H }$ and ammonium. Soil Biology andBiochemistry，2004，36（7）：1037-1046.  
+[10] Menyailo O V，Abraham W R，Conrad R.Tree species afect atmospheric CH $^ 4$ oxidation without altering community composition of soilmethanotrophs.Soil Biology and Biochemistry，2010,42(1）：101-107.  
+[11]ZhangW,MJ,ZhouGY,GnderseP,FngY,LXK,ZangTDogSF.Mtaneuptakeesponsestontrogedepositietropical forests insouthern China. Journal of Geophysical Research：Atmospheres，2008,113(D11）：D11116.  
+[12] WuX，BrigaNGsheR，PanH，WilildG,uterbac-BalK.ontfetsofeartingdseleiecuigolmethane fluxes inatemperate spruce forest insouthern Germany.Environmental Polution,201,159(10)：2467-2475.  
+[13] DutaurL,Verchot L V.A global inventory of the soil CH $^ { 4 }$ sink.Global Biogeochemical Cycles，2007,21（4）：GB4013.  
+[14］Galloway JN,Townsend A R, Erisman JW,Bekunda $\mathbf { M }$ ,Cai Z,FreneyJR,Martinell LA,Seitzinger SP,Sutton MA.Transformation of thenitrogen cycle：recent trends，questions，and potential solutions.Science,2008,320(5878）：889-892.  
+[15]Churkina G，Trusilova ,VetterM，DentenerF.Contributions of nitrogen depositionand forest regrowth to terestrial carbon uptake.CarbonBalance and Management， 2007,2:5.  
+[16]Dalal RC,Allen DE.Grenhouse gasfluxes from naturalecosystems.Australian Journal of Botany，2Oo8,56(5）:396-407.  
+[17] Hanson R S,Hanson TE.Methanotrophic bacteria.Microbiology and Molecular Biology Reviews，1996,60(2）:439-471.  
+[18] Semrau JD,DiSpirito A,Yoon S.Methanotrophs and copper.FEMS Microbiology Reviews，2010,34(4):496-531.  
+[19] KniefC，LipskiA，DunfieldPF.DiversityandactivityofmethanotrophicbacteriaindifrentuplandsoilsApliedandEnviromentalMicrobiology，2003,69(11） : 6703-6714.  
+[20] 丁维新，蔡祖聪.土壤甲烷氧化菌及水分状况对其活性的影响.中国生态农业学报，2003，11(1)：94-97.21] Börjesson G,Sundh I,Svensson B.Microbial oxidation of $\mathrm { C H } _ { 4 }$ at different temperatures in landfill cover soils.FEMS Microbiology Ecology，2004,48(3) : 305-312.  
+[22] Henckel T,Roslev P,Conrad R. Effcts of ${ { 0 } _ { 2 } }$ and $\mathrm { C H } _ { 4 }$ on presence and activity of the indigenous methanotrophic community in rice field soil.Environmental Microbiology，2000,2（6）：666-679.  
+[23]TsutsijaUraK,d,rauurucuredtivifolgethotosnorthern forest of Japan.Soil Biology and Biochemistry，2009,41（2）：403-408.  
+[24]ZhengY,ZangL,ZhngY,DiHJ,HeJZunacedouipositofetotrohsinseddsldeloterm fertilization practices.Journal of Soils and Sediments，20o8,8(6）：406-414.  
+[25]Shrestheldrididexpression of methanotrophs in the rice rhizosphere.The ISME Journal,2010,4（12）：1545-1556.  
+[26]Mhantelsfrtssforest soils.Applied and Environmental Microbiology，2006，72(2）：1346-1354.  
+27Jangcsdoiteefoto nitrogen content in a temperate forest.Soil Biology and Biochemistry，2011,43(3）：620-627.  
+[28］郭忠玲，郑金萍，马元丹，李庆康，于贵瑞，韩士杰，范春楠，刘万德.长白山各植被带主要树种调落物分解速率及模型模拟的试验研究.生态学报，2006，26(4)：1037-1046.  
+[29］郝占庆，张健，李步杭，叶吉，王绪高，姚晓琳.长白山次生杨桦林样地：物种组成与群落结构.植物生态学报，208，32（2)：251-261.  
+[30]耿世聪，陈志杰，张军辉，娄鑫，王秀秀，戴冠华，韩士杰，于丹丹.长白山三种主要林地土壤甲烷通量.生态学杂志，2013，32(5)1091-1096.  
+[31]XuXK,HaLWangY,bsiKuefvgeatotdlpropeiocbalassbdetablicotsintemperate volcanic and tropical forest soils.Soil Science and Plant Nutrition,2Oo7,53(4）：430-440.  
+[32]XuXKauX,anSJstctsrgesdeoiceeakeeatedgrowth forest.Advances in Atmospheric Sciences,2011,28(4):843-854.  
+[33］鲁如坤.土壤农业化学分析方法.北京：中国农业科技出版社，2000.  
+[34]Cotelsactezofucdifuallaesediments.Applied and Environmental Microbiology，1999,65(11）：5066-5074.  
+[35]ZhengY，angW,SunX,WangSuiYC,LuoCY,GuoLD.Metaotrocoityructuredactiviyderangdaof alpine meadow on the Tibetan Plateau.Applied Microbiologyand Biotechnology，2012,93（5）：2193-2203.  
+[36] KolbS，KniefC，DunfieldPF，ConradR.Abundanceandactivityofunculturedmethanotrophicbacteriainvolvedintheonsuptionofatmospheric methane in two forest soils.Environmental Microbiology，20o5,7(8）：1150-1161  
+[37]MurellJC，cDonaldIR,oueDGMoleularmethdsfrtestudyofmethanotroolgyFEMScrobologEolog99,7（）:103- 114.  
+[38]AdamsenAingeaosutioinepeatebarctfrestilateserticalatiodespoaenitrogen.Applied and Environmental Microbiology，1993,59(2）：485-490.  
+[39］胡荣桂.氮肥对旱地土壤甲烷氧化能力的影响.生态环境，2004，13(1)：74-7  
+[40]DaBicoftaleabesisp.strain SC2. Environmental Microbiology，2014,16(10）:3115-3127.  
+[41]Gulledge J，Schimel JP.Low-concentration kinetics of atmospheric $\mathrm { C H } _ { 4 }$ oxidation in soil and mechanism of NH $_ { \cdot 4 } ^ { + }$ inhibition．Applied andEnvironmental Microbiology，1998,64（11）: 4291-4298.  
+[42]SchnellS,igGchanistalysisofmfmoscethaosutoifrstsolApldndtlMicrobiology，1994,60（10）：3514-3521.  
+43]Hitscheteidatioiableledo,ititencaureiespettlodeilof Soils,1998,28(1): 27-35.  
+[44]StenerhK,eiastdelrE.psicieiorooitysoatfodactivity per cell. FEMS Microbiology Ecology，2009,71(1）:12-22.  
+[45］梁战备，史奕，岳进.甲烷氧化菌研究进展.生态学杂志，2004，23（5）：198-205.  
+[46] AmaralJA,KnowesR.GothofetanotrosintandygencotergradintsFobolgLeters995,6(）：-.  
+[47]KrauseS,ei-FrakeHingeliE.Spatialpaesofetaotrohcuiieslogdrologicalgaditiriparian wetland.FEMS Microbiology Ecology，2013,86(1）:59-70.  
+[48]BodrosrellJDlaussLG,KsKat-olenteccteeotaetfnatural gas field.Applied and Environmental Microbiology，1995,61(10）:3549-3555.  
+[49] Dunfield PF,YuryevA,SeninP,SmirovaAV,Stot MB,HouSB,LyB,SawJH,ZhouZM,RenY,WangJM,MountainBW,Crowe MA，WeatherbyTM,BodelierPLE,LiesackW,FengL，WangL，Alam M.Methaneoxidationbyaextremelyacidophilicbacterumof thephylum Verrucomicrobia.Nature，2007,450(7171）：879-882.  
+[5O]BodeeEelrflc2000，403(6768):421-424.  
+[51]Schimel J. Rice，microbes and methane.Nature,2000,403(6768）：375-377.

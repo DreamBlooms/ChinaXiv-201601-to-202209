@@ -1,0 +1,367 @@
+[
+    {
+        "type": "text",
+        "text": "蚕豆幼苗光合特性对土荆芥挥发性物质胁迫的响应",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "谷从璟'，周健’²，马丹炜」，黄素」，孟巧巧}(1．四川师范大学 生命科学学院，成都 610101；2.中共成县委组织部，甘肃 成县742500)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以蚕豆(Vicia faba)为受体，采用盆栽试验评价了入侵植物土荆芥（ChenopodiumambrosioidesL.）挥发油及其两个主要成分 $\\mathbf { \\bar { a } } .$ -萜品烯和对伞花素对受体光合特性的影响。结果表明：土荆芥挥发油及其两个主要成分不同程度地影响了蚕豆叶片的特性。挥发油处理显著降低了净光合速率！ $( P n )$ ）、气孔导度（ $( G s )$ 、蒸腾速率 $( T r )$ 、最大光化学效率 $( F \\nu / F m )$ 、实际光化学效率 $( \\oslash P s \\mathrm { I I } )$ 和叶绿素含量，但增加了胞间 $\\mathrm { C O } _ { 2 }$ 浓度 $( C i )$ ，这种效应表现为剂量和时间双重效应，高剂量挥发油处理的这种效应是不可逆的；与对照相比， $\\mathfrak { a }$ -萜品烯处理组的 $P n$ ， $F \\nu / F m$ 和 $\\varPhi P s \\mathrm { I I }$ 降低， $\\mathit { C i }$ 、 $G s$ 和 ${ { T r } }$ 上升，停止处理后，各参数均趋于对照水平；整体来看，对伞花素对蚕豆幼苗的光合特性影响不大。上述研究结果说明，土荆芥化感胁迫对受体光合特性的影响是诸多化感物质协同作用的结果，并非由单一组分决定。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：土荆芥，化感胁迫，光合特性， $\\mathfrak { a } \\mathrm { . }$ 萜品烯，对伞花素  \n中图分类号：Q946 文献标识码：A  \nDOI:10.11931/guihaia.gxzw201806046",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Response of photosynthetic characteristics of Vicia faba seedling to volatile vllelochemical stress from Chenopodium ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ambrosioides GU Congjing 1, ZHOU Jan1,²,MA Danwei1\\*，HANG Su,MENG Qiaoqiao1 (1.College ofLife Science,Sichuan Normal University,Chengdu 610l01,China; 2. Chengxian Organization Department of the Communist Party of China,Chengxian,74250o，Gansu,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The pot experiment was conducted to evaluate the effect of volatile oil from an invasive plant, Chenopodium ambrosioides L. and its two main components $\\mathfrak { a }$ -terpene and cymene on the photosynthetic characteristics of Vicia faba Seedling.The results showed the volatile oil treatment significantly reduced the net photosynthetic rate $( P _ { n } )$ ，stomatal conductance $( G s )$ ， transpiration rate $( T r )$ ， maximum photochemical efficiency $\\left( F \\nu / F m \\right)$ ，actual photochemical efficiency $( \\boldsymbol { \\varPhi } \\mathrm { P s I I } )$ and total chlorophyll content. However, it increased the concentration of intercellular $\\mathrm { C O } _ { 2 }$ ，which was the dual effect of dose and time,and the effect of high dosed volatile oil treatment was irreversible. Compared with the control group, $\\mathfrak { a }$ -terpene treatment reduced $P n$ ， $F \\nu / F m$ and $\\varPhi P s \\mathrm { I I }$ ， and increased $C i$ ， $G s$ and $T r$ ， and all the parameters were gradually approaching to the control level after stopping treatment. The effect of cymene on photosynthetic characteristics of $V .$ faba Seedling were not significant. These results suggested that the volatile allelochemical stress from C. ambrosioides on photosynthesis of receptor plant was due to the the synergistic effect of many allelochemicals, instead of a single component. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:Chenopodium ambrosioides, allelochemical stress, photosynthetic characteristics, $\\mathfrak { a }$ -terpinene, cymene ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "土荆芥（Chenopodiumambrosioides）为藜科藜属草本植物，原产热带美洲，适应能力强，扩散速度快，目前已经入侵中国大部分地区，严重威胁我国的生态环境安全(徐海根和强胜,2004)。土荆芥具有强烈的化感作用（Jimenez-Osormio etal,1996)，其挥发性物质具有较强的细胞毒性，引起受体植物细胞内活性氧过量积累，膜脂过氧化产物丙二醛含量增加（胡琬君等,2012;Chen etal,2016)，抗氧化酶基因表达下调，抗氧化酶活性降低，细胞出现氧化损伤（陈斌等,2015)。细胞结构紊乱甚至被破坏，细胞核出现畸变特征，细胞活性降低甚至凋亡（胡琬君等,2011,2012；胡忠良等,2015;Chen et al,2016；周健等,2017;Li et al,2018);光合作用过程对环境变化十分敏感，在逆境胁迫下，植物光合产物减少，植物生长发育受阻(辛惠卿和霍俊伟,2008)。有研究表明，植物向周围植物释放的化感物质明显干扰了受体植物的光合作用过程(Hussain&Reigosa,2016)，但有关土荆芥挥发性物质对受体植物光合特性影响的报道较少。本研究选择土荆芥入侵地广泛种植的农作物蚕豆(Vicia faba)作为受体，采用盆栽试验，模拟土荆芥挥发性化感物质的作用过程，研究了土荆芥挥发油及其两个主要成分 $\\mathbf { \\bar { a } } .$ -萜品烯和对伞花素对受体植物蚕豆幼苗的气体交换参数、叶绿素荧光参数和叶绿素含量的影响，以期全面阐明土荆芥化感作用抑制邻近植物生长发育的机制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "供体土荆芥植株地上部分采自四川省成都市包江桥社区附近。水蒸气蒸馏法提取土荆芥挥发油（Singh et al,2009)，无水 $\\mathrm { N a } _ { 2 } \\mathrm { S O } _ { 4 }$ 除去水分，所得挥发油的密度为 $8 4 3 ~ \\mathrm { m g } \\bullet \\mathrm { L } ^ { - 1 }$ ，单点测定法测得其主要成分 $\\mathbf { \\boldsymbol { a } } .$ -萜品烯和对伞花素的含量分别为 $1 5 1 \\ \\mathrm { m g ^ { \\bullet } L ^ { - 1 } }$ 和 $1 5 6 ~ \\mathrm { { m g ^ { \\bullet } L ^ { - 1 } } }$ ： $\\scriptstyle { \\mathfrak { a } } .$ 萜品烯和对伞花素的标准品购自成都市锐可思生化试剂公司；蚕豆种子（成胡 $1 4 ^ { \\# }$ ）购于成都市五块石种子市场。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "挑选大小均匀、饱满、无虫斑的蚕豆种子， $0 . 5 \\% \\mathrm { K M n O } _ { 4 }$ 浸泡 $1 5 \\mathrm { m i n }$ ，蒸馏水冲洗干净后浸种 $2 4 \\mathrm { h }$ ，再避光 $2 5 ^ { \\circ } \\mathrm { C }$ 催芽至露白；将露白种子播种于花盆（直径 $1 0 \\mathrm { c m }$ ，高度 $6 \\mathrm { c m }$ ）中，每盆1粒，以石英砂为培养基质，置于光暗交替时间 $1 4 \\mathrm { h } / 1 0 \\mathrm { h }$ 、光照 $2 5 ^ { \\circ } \\mathrm { C } /$ 黑暗 $1 8 ^ { \\circ } \\mathrm { C }$ 的条件下培养。培养期间维持Hoagland营养液在 $0 . 2 \\%$ 左右；5周后，随机将盆栽苗连盆一起置于带有密封盖的特制玻璃箱（长 $2 5 \\mathrm { c m }$ 、宽 $2 0 \\mathrm { c m }$ 、高 $4 0 \\ \\mathrm { c m }$ ）中，每箱5盆；试验设置挥发油、 $\\mathfrak { a }$ -萜品烯和对伞花素3个处理组。根据 $\\mathfrak { a }$ -萜品烯和对伞花素在挥发油中的含量，并结合预实验设置6个处理梯度(表1)，挥发油处理组中浓度分别为 $0 . 0 . 0 0 1 , 0 . 0 0 2 , 0 . 0 0 3 .$ $0 . 0 0 4 \\mu \\mathrm { L } \\bullet \\mathrm { c m } ^ { - 3 }$ 和 $0 . 0 0 5 \\mu \\mathrm { L } \\bullet \\mathrm { c m } ^ { - 3 }$ 。分别将各处理梯度挥发油、 $\\mathfrak { a }$ -萜品烯和对伞花素滴加在小培养皿上，置于玻璃箱底部中央，盖紧并用凡士林密封；各处理组均置于光照培养箱中，在$2 5 ^ { \\circ } \\mathrm { C }$ 下处理 $^ { 3 \\mathrm { ~ h ~ } }$ （10:00一13:00)。连续处理3d后，揭开玻璃箱盖子，使挥发油、 $\\mathfrak { a }$ 萜品烯和对伞花素完全挥发，然后在光照培养箱中恢复培养3d，整个试验过程共持续 $\\mathrm { ~ 7 ~ d ~ }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/0a15b3187d4cc65db4f6bbc8cd750e37eeb2642aac81ada5a3cb3eefc613fb2e.jpg",
+        "table_caption": [
+            "表1土荆芥挥发油及其两个主要成分的处理剂量 Table 1 The treatment doses of the volatile oil from Chenopodium ambrosioides and two main components "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理组</td><td colspan=\"6\">处理梯度 Treatments</td></tr><tr><td>CK</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>Treatment groups 挥发油Volatile oil （μL)</td><td>0</td><td>20</td><td>40</td><td>60</td><td>80</td><td>100</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/8980527f75fee0d1130ec3f108bd8c2f5ed492f9286a7af55866cc1edba537ce.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>对伞花素 Cymene（μL)</td><td>0</td><td>3.38</td><td>6.76</td><td>10.14</td><td>13.52</td><td>16.9</td></tr><tr><td>α-萜品烯 α-terpinene（μL）</td><td>0</td><td>3.72</td><td>7.44</td><td>11.16</td><td>14.88</td><td>18.6</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2指标测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "气体交换参数的测定：采用TPS-2便携式光合测定仪测定。试验期间，每天13:00定时选取蚕豆植株顶端完全展开的叶片，测定净光合速率（Netphotosynthetic rate, $P n$ ）、气孔导度（Stomatal conductance,Gs）、蒸腾速率（Transpiration rate, $T r$ ）以及细胞间 $\\mathrm { C O } _ { 2 }$ 浓度(Intercellular $\\mathrm { C O } _ { 2 }$ concentration, $C i$ )，每处理测定5株。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "叶绿素荧光参数：采用FMS-2便携式叶绿素荧光测定仪测定。试验期间，每天13:00 将植株暗适应 $3 0 ~ \\mathrm { m i n }$ 后，选取顶端完全展开的叶片，测定实际光化学效率(Actual photochemical efficiency, $\\Phi P s \\mathrm { I I } )$ 和最大光化学效率(Maximal photochemical efficiency, $F \\nu / F m )$ ， 每处理测定5株。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "叶绿素含量测定：分别取第4天（处理结束）和第7天（恢复培养结束）的叶片，剪去粗大叶脉并剪成小块，参照张志良等(2009)的方法制备叶绿素溶液。使用 SpectraMax M2多功能酶标仪测定溶液的吸光值A663和A645，计算叶绿素含量（ $\\mathrm { \\cdot } \\mathrm { m g } { \\bullet } \\mathrm { g } ^ { - 1 }$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$C { = } 8 . 0 2 { \\times } \\mathrm { A } 6 6 3 { + } 2 0 . 2 1 { \\times } \\mathrm { A } 6 4 5$ 叶绿素含量 $\\mathbf { \\Psi } = C \\times V \\times N /$ （ $W { \\times } 1 0 0 0 \\ r .$ ）",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $C$ 为叶绿素浓（ $\\mathrm { \\ m g bullet L ^ { - 1 } }$ ）度， $V$ 为总体积（ $\\mathrm { m L }$ ）， $N$ 为稀释倍数，W为叶片鲜重(g）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3数据分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用SPSS17.0对数据进行ANOVA方差分析，MicrosoftExcel2007作图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1土荆芥挥发油、 $\\scriptstyle { \\mathfrak { a } } .$ -萜品烯和对伞花素作用下气体交换参数的变化",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在土荆芥挥发油作用下，蚕豆幼苗叶片的净光合速率 $( P n )$ 、气孔导度（ $\\mathit { G s } )$ 、蒸腾速率（ $\\boldsymbol { { T r } } )$ 和细胞间 $\\mathrm { C O } _ { 2 }$ 浓度（ $\\boldsymbol { C } i )$ 不同程度地发生了变化（表2-表5)。与对照相比， $P n$ 、Gs、 ${ { T r } }$ 显著降低（ $\\scriptstyle ( P < 0 . 0 5 )$ ， $C i$ 显著增加 ( $\\scriptstyle . { P < 0 . 0 5 } )$ ，表现出剂量和时间双重效应。停止处理后，随着恢复期延长，叶片的气体交换参数与对照组之间的差异逐渐缩小，但较高剂量挥发油处理后的叶片恢复较慢，甚至比处理期间更低，表明高剂量的挥发油处理严重伤害蚕豆幼苗的光合作用过程。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当蚕豆幼苗受到 $\\mathfrak { a }$ -萜品烯作用时，叶片的 $G s$ 、 $C _ { i }$ 、 $T r$ 不同程度增加， $P n$ 则整体表现为下降(表2-表5)。大部分处理的 $G s$ 和 ${ { T r } }$ 均与对照差异显著（ $\\scriptstyle ( P < 0 . 0 5 )$ ， $C _ { i }$ 则只有较高剂量处理（梯度4和梯度5）才达到显著水平（ $( P { < } 0 . 0 5 )$ ； $P n$ 降低的幅度不大，仅梯度4和梯度5与对照差异显著（ $\\scriptstyle . { P } { < } 0 . 0 5 { \\mathrm { ) } }$ 。停止处理后，虽然大部分处理仍然表现为处理期间的状态，但与对照的差异缩小。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "与对照相比，对伞花素作用下蚕豆幼苗叶片的气体交换参数整体变化不大，仅较高剂量处理的 ${ { T r } }$ 在处理期间（2\\~4d）显著大于对照组（ $\\scriptstyle P < 0 . 0 5 )$ 。停止处理后基本恢复到对照水平（表2-表5)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上所述，土荆芥挥发油对蚕豆幼苗气体交换参数的影响最大， $\\mathfrak { a }$ -萜品烯次之，对伞花素最小。土荆芥挥发油中2个主要成分 $\\mathfrak { a }$ -萜品烯和对伞花素的作用效应与挥发油不同。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2土荆芥挥发油、 $\\mathfrak { a }$ -萜品烯和对伞花素对蚕豆净光合速率 $( P n )$ 的影响",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/2dfda5c44850484bc140d68337653502383c57629b643d4bed7f5fee05b865fd.jpg",
+        "table_caption": [
+            "Table 2 Effects of volatile oil from Chenopodium ambrosioides, $\\mathfrak { a }$ -terpinene and cymene on net photosynthetic rate $( P n )$ in Vicia faba "
+        ],
+        "table_footnote": [
+            "说明：同列数据后不同小写字母表示方差分析差异达显著水平（ $_ { ( p < 0 . 0 5 ) }$ ，下同。 Note:Data with differentcapital lettrs in the same mean significant different at O.05 level.The same as below. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理组 Treatment groups</td><td rowspan=\"2\">处理梯度 Treatments (μL）</td><td colspan=\"7\">处理时间 Treatment time （day）</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td rowspan=\"6\">挥发油 Volatile oil</td><td>CK</td><td>10.10±0.23a</td><td>10.10±0.23a</td><td>9.67±0.19a</td><td>9.57±0.15a</td><td>9.73±0.39a</td><td>9.7±0.12a</td><td>10.17±0.20a</td></tr><tr><td>20</td><td>9.67±0.19a</td><td>5.07±0.19b</td><td>3.13±0.03b</td><td>2.70±0.06b</td><td>3.63±0.24b</td><td>6.47±0.15b</td><td>9.67±0.12a</td></tr><tr><td>40</td><td>9.57±0.15a</td><td>3.00±0.15c</td><td>2.70±0.06c</td><td>2.50±0.12b</td><td>3.33±0.07b</td><td>5.73±0.19b</td><td>7.967±0.41b</td></tr><tr><td>60</td><td>9.73±0.39a</td><td>2.63±0.39c</td><td>2.50±0.15c</td><td>2.43±0.07b</td><td>3.10±0.32b</td><td>5.63±0.20b</td><td>6.47±0.20c</td></tr><tr><td>80</td><td>9.73±0.12a</td><td>1.50±0.12d</td><td>1.43±0.09d</td><td>1.30±0.06c</td><td>2.20±0.47c</td><td>2.80±0.32c</td><td>4.43±0.33d</td></tr><tr><td>100</td><td>10.17±0.20a</td><td>1.67±0.20d</td><td>1.20±0.06d</td><td>1.10±0.10c</td><td>2.10±0.47c</td><td>2.53±0.09c</td><td>2.80±0.45e</td></tr><tr><td rowspan=\"6\">对伞花素 Cymene</td><td>CK</td><td>10.30±1.04a</td><td>10.30±1.04a</td><td>10.47±1.21a</td><td>10.23±1.50a</td><td>9.73±0.40a</td><td>9.47±0.15a</td><td>10.00±0.69a</td></tr><tr><td>3.38</td><td>10.47±1.21a</td><td>10.20±1.55a</td><td>9.60±0.61a</td><td>10.27±0.85a</td><td>10.07±0.40a</td><td>9.67±0.32a</td><td>9.80±0.20a</td></tr><tr><td>6.76</td><td>10.23±1.50a</td><td>10.00±0.82a</td><td>9.30±0.26a</td><td>10.20±0.66a</td><td>9.57±0.42a</td><td>9.37±0.38a</td><td>9.500±0.26a</td></tr><tr><td>10.14</td><td>9.73±0.40a</td><td>10.13±1.15a</td><td>10.63±1.17a</td><td>10.80±0.87a</td><td>9.60±0.53a</td><td>9.307±0.20a</td><td>9.83±0.50a</td></tr><tr><td>13.52</td><td>9.47±0.15a</td><td>10.63±0.85a</td><td>10.33±0.45a</td><td>10.20±0.17a</td><td>9.63±0.06a</td><td>9.50±0.36a</td><td>10.10±0.72a</td></tr><tr><td>16.90</td><td>10.00±0.69a</td><td>10.67±0.81a</td><td>11.07±0.40a</td><td>11.20±1.32a</td><td>9.67±0.40a</td><td>9.53±0.32a</td><td>9.77±0.21a</td></tr><tr><td rowspan=\"6\">α-萜品烯 α-terpinene</td><td>CK</td><td>10.23±1.02a</td><td>10.23±1.02a</td><td>10.07±0.34a</td><td>10.63±0.62a</td><td>10.40±1.22a</td><td>9.90±0.7a</td><td>10.20±0.23a</td></tr><tr><td>3.72</td><td>10.07±0.34a</td><td>9.87±0.87b</td><td>10.13±0.93a</td><td>10.00±1.60b</td><td>10.17±0.87a</td><td>10.03±0.29a</td><td>10.17±1.00b</td></tr><tr><td>7.44</td><td>10.63±0.62a</td><td>9.90±2.03b</td><td>9.87±1.47a</td><td>9.23±1.15c</td><td>9.37±0.33b</td><td>9.43±0.81a</td><td>9.87±0.64b</td></tr><tr><td>11.16</td><td>10.40±1.22a</td><td>9.10±0.57b</td><td>9.37±0.70b</td><td>8.57±0.15c</td><td>9.03±0.98b</td><td>9.23±0.71b</td><td>9.50±1.43b</td></tr><tr><td>14.88</td><td>9.90±0.7a</td><td>8.80±0.38b</td><td>8.80±0.3b</td><td>8.47±0.24d</td><td>8.27±0.20b</td><td>9.47±0.98ac</td><td>10.23±1.03c</td></tr><tr><td>18.6</td><td>10.20±0.23a</td><td>8.63±0.23b</td><td>8.20±0.57b</td><td>8.10±0.23c</td><td>8.23±0.47b</td><td>8.97±0.77ac</td><td>9.03±1.01d</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/bf20f3c79f1b6b44209bffc804801676ac05e1f1f840941f7387e5a3c4b7368f.jpg",
+        "table_caption": [
+            "表3土荆芥挥发油、 $\\scriptstyle { \\mathfrak { a } } .$ -萜品烯和对伞花素对蚕豆细胞间 $\\mathrm { C O } _ { 2 }$ 浓度 $( C i )$ 的影响 Table 3 Effects of volatile oil from Chenopodium ambrosioides, $\\mathfrak { a }$ -terpinene and cymene on "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"12\"> intercellular CO2 concentration(Ci) in Vicia faba</td></tr><tr><td rowspan=\"2\">处理组 Treatment groups</td><td>处理梯 度 Treatmen</td><td></td><td></td><td></td><td>处理时间 Treatment time</td><td>（day）</td><td></td><td></td><td></td></tr><tr><td>ts（μL）</td><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td rowspan=\"6\">挥发油 Volatile oil</td><td>CK</td><td>443.33±2.03a</td><td>443.33±2.03a</td><td>446.33±1.45a</td><td>439.33±2.33 a</td><td>447.00±1.15 a</td><td>450.67±2.91a</td><td></td><td>449.00±1.16 a</td></tr><tr><td>20</td><td>446.33±1.45a</td><td>502.33±1.45b</td><td>520.67±8.84b</td><td>510.67±2.33b</td><td>464.33±3.71a</td><td></td><td>461.33 ±5.36a</td><td>460.33±1.77b</td></tr><tr><td>40</td><td>439.33 ±2.33a</td><td>514.00±4.73c</td><td>489.67±0.88c</td><td>504.00±5.57b</td><td>474.33±1.45b</td><td></td><td>461.67 ±2.91a</td><td>460.00±1.53b</td></tr><tr><td>60</td><td>447.00 ±1.15a</td><td>521.00±1.00c</td><td>502.67±3.76c</td><td>497.67±6.69b</td><td>486.33±1.20b</td><td></td><td>460.00 ±7.02a</td><td>458.33±3.71b</td></tr><tr><td>80</td><td>450.67 ±2.91a</td><td>516.00±3.51c</td><td>495.33±0.33c</td><td>496.67±4.18b</td><td>490.67±2.60b</td><td></td><td>476.00 ±5.51b</td><td>471.00±7.21c</td></tr><tr><td>100</td><td>449.00 ±1.15a</td><td>524.00±4.26c</td><td>505.00±2.65c</td><td>481.67±15.68b</td><td>486.67±17.17b</td><td></td><td>498.67±6.49b</td><td>495.33±2.33d</td></tr><tr><td rowspan=\"6\">对伞花素 Cymene</td><td>CK</td><td>465.00±2.65a</td><td>465.00±2.65a</td><td>456.67±29.16a</td><td>462.33±10.07a</td><td>452.00±22.34a</td><td></td><td>455.33±28.92a</td><td>446.00±4.58a</td></tr><tr><td>3.38</td><td>456.67±29.16a</td><td>462.67±5.69a</td><td>484.00±1.00a</td><td>492.33±2.52b</td><td></td><td>442.67±27.79a</td><td>431.33±2.52a</td><td>468.67±6.11a</td></tr><tr><td>6.76</td><td>462.33±10.07a</td><td>473.67±5.51b</td><td>480.33±2.52a</td><td>510.33±6.03c</td><td>456.00±29.55a</td><td></td><td>439.67±3.51a</td><td>470.00±10.39a</td></tr><tr><td>10.14</td><td>452.00±22.34a</td><td>472.67±5.51b</td><td>488.00±7.55a</td><td>502.67±5.77c</td><td>448.67±15.57a</td><td></td><td>436.00±2.65a</td><td>474.00±6.08a</td></tr><tr><td>13.52</td><td>455.33±28.92a</td><td>470.00±1.00ab</td><td>484.00±24.33a</td><td>505.67±3.06c</td><td>455.00±16.37a</td><td></td><td>452.33±31.77a</td><td>458.00±15.72a</td></tr><tr><td>16.90</td><td>446.00±4.58a</td><td>472.67±2.52b</td><td>498.67±3.06a</td><td>509.00±6.24c</td><td>449.33±27.47a</td><td></td><td>436.67±12.50a</td><td>463.33±23.67a</td></tr><tr><td>α-萜品烯</td><td>CK</td><td>445.33±2.33a</td><td>445.33±2.33a</td><td>441.00±8.39a</td><td>433.00±10.02a</td><td>433.00±10.02a</td><td></td><td>439.33±5.36a</td><td>429.67±15.56a</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0cfa9f8adb1dbb73ee8a60192d9c7c821d30c87a0ab1a7661e508eeeb06062e6.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>α-terpinene</td><td>3.72</td><td>441.00±8.39a</td><td>435.00±7.00a</td><td>434.00±3.21a</td><td>442.67±12.77a</td><td>442.67±12.77a</td><td>434.67±4.70a</td><td>428.33±3.28a</td></tr><tr><td></td><td>7.44</td><td>433.00±10.02a</td><td>433.33±6.77a</td><td>434.33±7.17a</td><td>441.67±0.33a</td><td>441.67±0.33a</td><td>436.00±24.58a</td><td>441.67±0.33a</td></tr><tr><td></td><td>11.16</td><td>433.00±10.02a</td><td>450.33±9.57a</td><td>454.33±3.84a</td><td>456.33±9.06a</td><td>456.33±9.06a</td><td>451.00±2.89a</td><td>436.33±2.96a</td></tr><tr><td></td><td>14.88</td><td>439.33±5.36a</td><td>454.67±4.26a</td><td>475.00±10.79b</td><td>485.00±5.13b</td><td>485.00±5.13b</td><td>466.67±5.21a</td><td>454.67±2.96b</td></tr><tr><td></td><td>18.6</td><td>429.67±15.56a</td><td>470.33±8.67b</td><td>478.33±9.33b</td><td>488.33±3.67b</td><td>488.33±3.67b</td><td>483.00±6.43b</td><td>474.00±7.64b</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/6449f2bc920b9886eef52ed1f0edad22d9acd4d9d27692ac908da0738a3948a2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理组 Treatment groups</td><td rowspan=\"2\">处理梯度 Treatment S(μL)</td><td colspan=\"7\">处理时间 Treatment time （day）</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td rowspan=\"6\">挥发油 Volatile oil</td><td>CK</td><td>565.67±14.50a</td><td>565.67 ±14.50a</td><td>552.00 ±4.73a</td><td>554.33 ±9.28a</td><td>548.00±8.14a</td><td>556.00±2.89a</td><td>542.00±9.85a</td></tr><tr><td>20</td><td>552.00 ±4.73a</td><td>562.33 ±10.97a</td><td>461.67±5.81a</td><td>450.00±8.62b</td><td>455.33±5.36b</td><td>433.33±20.00b</td><td>524.00±7.55b</td></tr><tr><td>40</td><td>554.33 ±9.28a</td><td>459.33±7.64b</td><td>450.00±7.57b</td><td>449.67±10.97b</td><td>449.33±9.28b</td><td>440.00±5.57b</td><td>526.67±10.2b</td></tr><tr><td>60</td><td>548.00±8.14a</td><td>475.00±50.48b</td><td>434.33±4.48b</td><td>399.00±7.23c</td><td>442.00±9.50b</td><td>445.00±4.16b</td><td>503.67±6.03b</td></tr><tr><td>80</td><td>556.00±2.89a</td><td>503.00±16.37b</td><td>423.00±16.29b</td><td>359.33±24.44d</td><td>399.33±17.91c</td><td>382.00±18.72b</td><td>460.67±85.71b</td></tr><tr><td>100</td><td>542.00±9.85a</td><td>468.67±34.27b</td><td>362.67±15.62c</td><td>301.00±7.94e</td><td>281.33±25.33d</td><td>332.33±23.62c</td><td>290.67±22.34c</td></tr><tr><td rowspan=\"6\">对伞花素 Cymene</td><td>CK</td><td>551.00±22.91a</td><td>551.00±22.91a</td><td>557.67±19.86a</td><td>554.00±12.53a</td><td>561.33±18.45a</td><td>547.67±12.86a</td><td>560.67±19.14a</td></tr><tr><td>3.38</td><td>557.67±19.86a</td><td>552.33±34.08a</td><td>573.67±12.01a</td><td>570.67±1.53a</td><td>560.67±4.93a</td><td>559.33±12.42a</td><td>551.00±22.52a</td></tr><tr><td>6.76</td><td>554.00±12.53a</td><td>557.67±30.73a</td><td>567.67±23.63a</td><td>558.33±29.26a</td><td>551.00±23.64a</td><td>558.00±2.65a</td><td>548.33±19.14a</td></tr><tr><td>10.14</td><td>561.33±18.45a</td><td>571.33±5.51a</td><td>576.00±20.00a</td><td>560.33±11.37a</td><td>547.00±39.05a</td><td>560.67±24.50a</td><td>558.00±19.16a</td></tr><tr><td>13.52</td><td>547.67±12.86a</td><td>565.00±34.11a</td><td>569.00±12.00a</td><td>573.33±12.66a</td><td>561.67±30.67a</td><td>538.33±55.19a</td><td>554.33±15.3a</td></tr><tr><td>16.90</td><td>560.67±19.14a</td><td>568.00±10.58a</td><td>566.33±25.70a</td><td>580.33±13.20a</td><td>550.33±34.02a</td><td>550.00±81.19a</td><td>564.00±30.00a</td></tr><tr><td rowspan=\"6\">α-萜品烯 α-terpinen e</td><td>CK</td><td>558.33±19.00a</td><td>558.33±19.00a</td><td>541.67±23.44a</td><td>551.33±11.93a</td><td>548.33±13.45a</td><td>562.00±13.45a</td><td>551.67±10.07a</td></tr><tr><td>3.72</td><td>541.67±23.44a</td><td>648.67±102.44a</td><td>792.00±65.96b</td><td>741.33±82.37b</td><td>562.00±89.24a</td><td>560.00±126.86a</td><td>542.33±35.44a</td></tr><tr><td>7.44</td><td>551.33±11.93a</td><td>708.33±111.13b</td><td>641.00±269.34ab</td><td>699.67±95.92b</td><td>606.67±139.94a</td><td>541.33±49.24a</td><td>530.67±33.83a</td></tr><tr><td>11.16</td><td>548.33±30.02a</td><td>566.00±85.56a</td><td>882.33±111.61b</td><td>789.67±43.52b</td><td>686.33±97.17b</td><td>587.67±15.57a</td><td>556.67±34.21a</td></tr><tr><td>14.88</td><td>562.00±13.45a</td><td>693.33±27.43b</td><td>671.67±98.46c</td><td>1015.33±146.68c</td><td>754.00±30.81b</td><td>552.33±15.04a</td><td>639.33±28.92b</td></tr><tr><td>18.6</td><td>551.67±10.07a</td><td>663.33±34.65a</td><td>454.00±43.27c</td><td>739.67±43.52d</td><td>576.33±69.00a</td><td>545.67±116.14a</td><td>582.67±64.50a</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/579b951386817500f36a21ed0c00eacd834b2e953955a9845cc40e43c0aa46fd.jpg",
+        "table_caption": [
+            "表4土荆芥挥发油、 $\\mathfrak { a }$ -萜品烯和对伞花素对蚕豆气孔导度 $( G s )$ 的影响 Table 4 Effects of volatile oil from Chenopodium ambrosioides, $\\mathfrak { a }$ -terpinene and cymene on stomatal conductance( $( G s )$ in Vicia faba ",
+            "表5土荆芥挥发油、 $\\scriptstyle { \\mathfrak { a } } \\cdot$ -萜品烯和对伞花素对蚕豆蒸腾速率 $( T r )$ 的影响 Table 5 Effects of volatile oil from Chenopodium ambrosioides, $\\mathfrak { a }$ -terpinene and cymene on transpiration rate $( T r )$ in Vicia faba "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理组 Treatm grouts</td><td rowspan=\"2\">处理梯度 Treatment S(μL)</td><td colspan=\"7\">处理时间 Treatment time (d)</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td rowspan=\"6\">挥发油 Volatile oil</td><td>CK</td><td>2.90±0.02a</td><td>2.90±0.02a</td><td>2.89±0.08a</td><td>2.99±0.11a</td><td>2.95±0.14a</td><td>2.88±0.04a</td><td>2.97±0.18a</td></tr><tr><td>20</td><td>2.89±0.08a</td><td>2.45±0.04b</td><td>2.35±0.18b</td><td>2.28±0.05b</td><td>2.57±0.05 b</td><td>2.27±0.04b</td><td>2.53±0.08b</td></tr><tr><td>40</td><td>2.99±0.11a</td><td>2.37 ±0.12b</td><td>2.42±0.15b</td><td>2.33±0.19b</td><td>2.58±0.10 b</td><td>2.30±0.16b</td><td>2.46±0.05b</td></tr><tr><td>60</td><td>2.95±0.14a</td><td>2.42 ±0.13b</td><td>2.49±0.10b</td><td>2.29 ±0.03b</td><td>2.12±0.01c</td><td>2.65±0.13c</td><td>2.64±0.12b</td></tr><tr><td>80</td><td>2.88±0.04a</td><td>2.71 ±0.06c</td><td>2.41±0.07b</td><td>2.48±0.04b</td><td>2.20±0.12 c</td><td>2.22±0.27d</td><td>2.41±0.12b</td></tr><tr><td>100</td><td>2.97±0.18a</td><td>2.59 ±0.07c</td><td>2.13±0.03b</td><td>2.14±0.06c</td><td>2.04±0.07c</td><td>2.02±0.08d</td><td>2.08±0.03c</td></tr><tr><td rowspan=\"2\">对伞花 素</td><td>CK</td><td>2.90±0.29a</td><td>2.90±0.29a</td><td>2.81±0.52a</td><td>2.91±0.29a</td><td>2.90±0.08a</td><td>2.89±0.04a</td><td>2.94±0.18a</td></tr><tr><td>3.38</td><td>2.8±0.52a</td><td>2.87±0.16a</td><td>3.30±0.43ab</td><td>3.08±0.19b</td><td>2.84±0.16a</td><td>3.04±0.13a</td><td>2.85±0.14a</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/3555cd3c342a23f22df2d741ce6fbe7818b2920288b5563b56b28644b1d70552.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"4\">Cymen e</td><td>6.76</td><td>2.91±0.29a</td><td>2.99±0.08a</td><td>3.28±0.09ab</td><td>3.30±0.52b</td><td>2.87±0.08a</td><td>3.20±0.07a</td><td>2.95±0.05a</td></tr><tr><td>10.14</td><td>2.90 ±0.08a</td><td>3.51±0.30b</td><td>3.76±0.20b</td><td>3.54±0.03b</td><td>2.89±0.06a</td><td>3.10±0.03a</td><td>3.00±0.13a</td></tr><tr><td>13.52</td><td>2.89±0.04a</td><td>3.58±0.24b</td><td>3.58±0.18b</td><td>2.93±0.05c</td><td>2.95±0.21a</td><td>2.99±0.15a</td><td>3.09±0.08a</td></tr><tr><td>16.90</td><td>2.94±0.18a</td><td>3.69±0.40b</td><td>3.46±0.16b</td><td>3.57±0.50d</td><td>2.87±0.13a</td><td>3.07±0.14a</td><td>2.97±0.35a</td></tr><tr><td rowspan=\"6\">α-萜品 烯 α-terpin ene</td><td>CK</td><td>3.02±0.12a</td><td>3.02±0.12a</td><td>2.96±0.24a</td><td>2.83±0.11a</td><td>2.83±0.30a</td><td>2.93±0.09a</td><td>2.99±0.14a</td></tr><tr><td>3.72</td><td>2.96±0.24a</td><td>3.59±0.24b</td><td>3.29±0.14a</td><td>3.92±0.15b</td><td>3.19±0.25a</td><td>3.42±0.43a</td><td>3.28±0.17b</td></tr><tr><td>7.44</td><td>2.83±0.11a</td><td>3.92±0.32b</td><td>3.05±0.66a</td><td>2.86±0.21c</td><td>3.28±0.36b</td><td>3.35±0.23a</td><td>3.29±0.16b</td></tr><tr><td>11.16</td><td>2.83±0.30a</td><td>3.53±0.29b</td><td>3.67±0.27b</td><td>3.05±0.06c</td><td>3.53±0.17b</td><td>3.69±0.06b</td><td>3.40±0.13b</td></tr><tr><td>14.88</td><td>2.93±0.09a</td><td>3.90±0.14b</td><td>3.25±0.28a</td><td>3.79±0.31d</td><td>3.90±0.13b</td><td>3.44±0.06a</td><td>3.74±0.05c</td></tr><tr><td>18.6</td><td>2.99±0.14a</td><td>3.86±0.11b</td><td>2.69±0.25a</td><td>3.80±0.10d</td><td>3.47±0.18b</td><td>3.37±0.53a</td><td>3.46±0.20d</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2土荆芥挥发油、 $\\scriptstyle { \\mathfrak { a } } .$ -萜品烯和对伞花素作用下蚕豆幼苗叶绿素荧光参数的变化",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "土荆芥挥发油处理导致蚕豆幼苗叶片的最大光化学效率（ $F \\nu / F m _ { . }$ ）和实际光化学效率$( \\varPhi P s \\mathrm { I I }$ )均不同程度下降 $( P { < } 0 . 0 5 )$ ，且表现出剂量和时间双重效应（表6-7)。处理结束后，大部分处理的 $F \\nu / F m$ 和 $\\phi P s \\amalg$ 无法恢复到正常状态，均显著低于对照 $( P { < } 0 . 0 5 )$ ，其中梯度5处理的 $F \\nu / F m$ 和 $\\phi P s$ Ⅱ甚至低于处理期间； $\\mathfrak { a }$ -萜品烯处理组中， $F \\nu / F m$ 和 $\\phi P s \\amalg$ 的变化规律与挥发油处理组类似，但下降幅度小于挥发油处理组（表6-7)，仅梯度5处理下 $F \\nu / F m$ 和$\\phi P s \\amalg$ 与对照组差异显著 $( P { < } 0 . 0 5 )$ 。停止处理后，各处理的 $F \\nu / F m$ 和 $\\phi P s \\amalg$ 均逐渐恢复到对照水平；对伞花素对蚕豆幼苗叶片 $F \\nu / F m$ 和 $\\phi P s$ Ⅱ均无显著影响（ $( P { > } 0 . 0 5 )$ ）（表6-7)。3种处理中，挥发油对叶绿素荧光参数影响最大， $\\mathfrak { a }$ -萜品烯次之，对伞花素几乎没有影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/fce5a9522ddc750cd1980f7da67f66919595d405bd08baae54a8fd9a4e699285.jpg",
+        "table_caption": [
+            "表6土荆芥挥发油、 $\\mathfrak { a }$ -萜品烯和对伞花素对蚕豆最大光化学效率 $( F \\nu / F m )$ 的影响 Table 6 Effects of volatile oil from Chenopodium ambrosioides, $\\mathfrak { a }$ -terpinene and cymene on maximum photochemical efficiency $( F \\nu / F m )$ in Vicia faba "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理组 Treatment groups</td><td rowspan=\"2\">处理梯度 Treatments （μL)</td><td colspan=\"7\">处理时间Treatment time (d)</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td rowspan=\"6\">挥发油 Volatile oil</td><td>CK</td><td>0.79±0.02a</td><td>0.79±0.02a</td><td>0.79±0.01a</td><td>0.80±0.00a</td><td>0.81±0.00a</td><td>0.80±0.02a</td><td>0.79±0.02a</td></tr><tr><td>20</td><td>0.79±0.01a</td><td>0.75±0.02a</td><td>0.75±0.01a</td><td>0.73±0.03b</td><td>0.74±0.02a</td><td>0.75±0.01a</td><td>0.72±0.02a</td></tr><tr><td>40</td><td>0.80±0.00a</td><td>0.76±0.01a</td><td>0.74±0.01b</td><td>0.75±0.02b</td><td>0.69±0.02b</td><td>0.73±0.02b</td><td>0.67±0.00b</td></tr><tr><td>60</td><td>0.81±0.00a</td><td>0.76±0.01a</td><td>0.73±0.02b</td><td>0.73±0.02b</td><td>0.69±0.04b</td><td>0.71±0.01b</td><td>0.67±0.06b</td></tr><tr><td>80</td><td>0.80±0.02a</td><td>0.74±0.01b</td><td>0.74±0.01b</td><td>0.65±0.01c</td><td>0.57±0.02c</td><td>0.59±0.01c</td><td>0.60±0.01b</td></tr><tr><td>100</td><td>0.7±0.02a</td><td>0.78±0.01a</td><td>0.71±0.02b</td><td>0.63±0.01c</td><td>0.52±0.04c</td><td>0.43±0.03d</td><td>0.42±0.06c</td></tr><tr><td rowspan=\"6\">对伞花素 Cymene</td><td>CK</td><td>0.80±0.02a</td><td>0.80±0.02a</td><td>0.79±0.04a</td><td>0.79±0.02a</td><td>0.78±0.02a</td><td>0.80±0.01a</td><td>0.79±0.02a</td></tr><tr><td>3.38</td><td>0.79±0.04a</td><td>0.80±0.01a</td><td>0.80±0.03a</td><td>0.79±0.02a</td><td>0.80±0.02a</td><td>0.80±0.01a</td><td>0.78±0.03a</td></tr><tr><td>6.76</td><td>0.79±0.02a</td><td>0.79±0.04a</td><td>0.79±0.03a</td><td>0.78±0.01a</td><td>0.78±0.02a</td><td>0.80±0.02a</td><td>0.79±0.02a</td></tr><tr><td>10.14</td><td>0.78±0.02a</td><td>0.79±0.02a</td><td>0.80±0.04a</td><td>0.79±0.01a</td><td>0.79±0.01a</td><td>0.80±0.01a</td><td>0.79±0.02a</td></tr><tr><td>13.52</td><td>0.80±0.01a</td><td>0.79±0.02a</td><td>0.79±0.04a</td><td>0.79±0.02a</td><td>0.79±0.02a</td><td>0.79±0.02a</td><td>0.80±0.01a</td></tr><tr><td>16.90</td><td>0.79±0.02</td><td>0.80±0.01a</td><td>0.78±0.04a</td><td>0.79±0.02a</td><td>0.79±0.02a</td><td>0.79±0.02a</td><td>0.79±0.02a</td></tr><tr><td rowspan=\"5\">α-萜品烯 α-terpinene</td><td>CK</td><td>0.79±0.02a</td><td>0.79±0.02a</td><td>0.80±0.01a</td><td>0.79±0.05a</td><td>0.79±0.03a</td><td>0.80±0.01a</td><td>0.79±0.02a</td></tr><tr><td>3.72</td><td>0.80±0.01a</td><td>0.78±0.02a</td><td>0.78±0.02a</td><td>0.78±0.02a</td><td>0.79±0.05a</td><td>0.80±0.02a</td><td>0.79±0.00a</td></tr><tr><td>7.44</td><td>0.79±0.05a</td><td>0.77±0.02a</td><td>0.77±0.02a</td><td>0.77±0.02a</td><td>0.79±0.02a</td><td>0.78±0.02a</td><td>0.79±0.00a</td></tr><tr><td>11.16</td><td>0.79±0.03a</td><td>0.78±0.02a</td><td>0.77±0.01a</td><td>0.74±0.02a</td><td>0.74±0.02a</td><td>0.79±0.01a</td><td>0.78±0.01a</td></tr><tr><td>14.88</td><td>0.80±0.01a</td><td>0.77±0.04a</td><td>0.76±0.02a</td><td>0.74±0.04a</td><td>0.74±0.02a</td><td>0.78±0.01a</td><td>0.78±0.01a</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/fb4cf9cb0baccee33f24e1cfeab2539eb47fd1881812d24148e9595e9d035ddd.jpg",
+        "table_caption": [
+            "表7土荆芥挥发油、 $\\mathfrak { a }$ -萜品烯和对伞花素对蚕豆实际光化学效率 $( \\varPhi P s \\mathrm { I I }$ )的影响 Table 6 Effects of volatile oil from Chenopodium ambrosioides, $\\mathfrak { a }$ -terpinene and cymene on Actual photochemical efficiency( $\\langle \\varPhi P s \\mathrm { I I } \\rangle$ in Vicia faba "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理组 Treatment groups</td><td rowspan=\"2\">处理梯度 Treatments （μL）</td><td colspan=\"7\">处理时间 Treatment time (d)</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td rowspan=\"6\">挥发油 Volatile oil</td><td>CK</td><td>0.59±0.01a</td><td>0.59±0.01a</td><td>0.57±0.02a</td><td>0.58±0.01a</td><td>0.58±0.01a</td><td>0.59±0.01a</td><td>0.58±0.02a</td></tr><tr><td>20</td><td>0.57±0.02a</td><td>0.55±0.03a</td><td>0.51±0.03 a</td><td>0.52±0.03 a</td><td>0.50±0.00a</td><td>0.52±0.04a</td><td>0.46±0.02a</td></tr><tr><td>40</td><td>0.58±0.01a</td><td>0.54±0.03a</td><td>0.52±0.02a</td><td>0.50±0.02 a</td><td>0.47±0.01a</td><td>0.50±0.02a</td><td>0.48±0.02a</td></tr><tr><td>60</td><td>0.58±0.01a</td><td>0.54±0.03a</td><td>0.51±0.05 a</td><td>0.50±0.04 b</td><td>0.46±0.02b</td><td>0.52±0.04a</td><td>0.47±0.03a</td></tr><tr><td>80</td><td>0.59±0.01a</td><td>0.46±0.04b</td><td>0.46±0.02 b</td><td>0.40±0.01b</td><td>0.40±0.01b</td><td>0.42±0.01b</td><td>0.44±0.02b</td></tr><tr><td>100</td><td>0.58±0.02a</td><td>0.49±0.04</td><td>0.42±0.02 b</td><td>0.35±0.06b</td><td>0.26±0.11b</td><td>0.26±0.03b</td><td>0.21±0.06b</td></tr><tr><td rowspan=\"6\">对伞花素 Cymene</td><td>CK</td><td>0.59±0.02a</td><td>0.59±0.02 a</td><td>0.59±0.01a</td><td>0.58±0.02a</td><td>0.58±0.02a</td><td>0.58±0.02a</td><td>0.58±0.02a</td></tr><tr><td>3.38</td><td>0.59±0.01a</td><td>0.59±0.02a</td><td>0.59±0.02a</td><td>0.58±0.01a</td><td>0.56±0.03a</td><td>0.59±0.02a</td><td>0.58±0.02a</td></tr><tr><td>6.76</td><td>0.58±0.02a</td><td>0.59±0.04a</td><td>0.59±0.01a</td><td>0.57±0.03a</td><td>0.58±0.01a</td><td>0.58±0.01a</td><td>0.58±0.02a</td></tr><tr><td>10.14</td><td>0.58±0.02a</td><td>0.59±0.01a</td><td>0.57±0.02a</td><td>0.57±0.03a</td><td>0.59±0.0a</td><td>0.57±0.02a</td><td>0.58±0.01a</td></tr><tr><td>13.52</td><td>0.58±0.02a</td><td>0.58±0.03a</td><td>0.58±0.03a</td><td>0.57±0.02a</td><td>0.57±0.02a</td><td>0.57±0.01a</td><td>0.58±0.01a</td></tr><tr><td>16.90</td><td>0.58±0.02a</td><td>0.58±0.02ab</td><td>0.58±0.02a</td><td>0.56±0.03a</td><td>0.59±0.0a</td><td>0.58±0.02a</td><td>0.58±0.02a</td></tr><tr><td rowspan=\"6\">α-萜品烯 α-terpinene</td><td>CK</td><td>0.57±0.02a</td><td>0.57±0.02a</td><td>0.59±0.02a</td><td>0.58±0.06a</td><td>0.58±0.04a</td><td>0.59±0.01a</td><td>0.58±0.02a</td></tr><tr><td>3.72</td><td>0.59±0.02a</td><td>0.56±0.00a</td><td>0.59±0.02a</td><td>0.57±0.04a</td><td>0.58±0.02a</td><td>0.58±0.02a</td><td>0.59±0.01a</td></tr><tr><td>7.44</td><td>0.58±0.06a</td><td>0.58±0.03a</td><td>0.55±0.03a</td><td>0.58±0.02a</td><td>0.58±0.03a</td><td>0.57±0.01a</td><td>0.57±0.00a</td></tr><tr><td>11.16</td><td>0.58±0.04a</td><td>0.55±0.00a</td><td>0.57±0.03a</td><td>0.51±0.01b</td><td>0.53±0.02b</td><td>0.57±0.02a</td><td>0.56±0.02a</td></tr><tr><td>14.88</td><td>0.59±0.01a</td><td>0.55±0.01a</td><td>0.54±0.01a</td><td>0.50±0.02b</td><td>0.51±0.01b</td><td>0.57±0.02a</td><td>0.56±0.02a</td></tr><tr><td>18.6</td><td>0.58±0.02a</td><td>0.55±0.01a</td><td>0.53±0.03a</td><td>0.51±0.02b</td><td>0.50±0.01b</td><td>0.55±0.01a</td><td>0.54±0.00b</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3土荆芥挥发油、 $\\mathfrak { a }$ -萜品烯和对伞花素作用下蚕豆幼苗叶绿素含量的变化",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/4d172faa0b909e1aedc795d62227b105076d61bc4d6633ca44dc1242003e336b.jpg",
+        "img_caption": [
+            "图1土荆芥挥发油、 $\\mathfrak { a }$ -萜品烯和对伞花素作用下蚕豆幼苗总叶绿素含量的变化 Fig.1 Changes of total chlorophyllcontent in the leaves of Vicia faba exposed to volatile oil from "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Chenopodium ambrosioides, $\\mathfrak { a }$ -terpinene and cymene注：A．处理第3天；B.恢复第3天。不同小写字母表示 $p { < } 0 . 0 5$ 的显著水平。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Note:A.the 3rd day of treatment；B.the 3rd day of recovery.Different lowercase letters indicates $p { < } 0 . 0 5$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从图1：A可见，土荆芥挥发油处理3d后，蚕豆幼苗叶片的叶绿素含量明显下降( $P <$ 0.05)，且表现出剂量依赖效应。与对照相比，梯度5处理组的叶绿素含量下降了 $5 4 . 5 8 \\%$ 。停止处理恢复3d后（图1：B)，虽然各处理剂量组叶绿素含量有不同程度的升高，仍然低于对照，其中梯度5处理的叶绿素含量甚至比处理期间更低，仅为对照组的 $3 7 . 0 \\%$ ； $\\mathfrak { a }$ -萜品烯处理组和对伞花素处理组的叶片总叶绿素含量虽然有所减低，但与对照差异不显著（ $P >$ 0.05)，停止处理后，叶绿素含量基本恢复到对照组的水平。本研究结果表明，挥发油对叶绿素含量影响最大， $\\mathfrak { a }$ 萜品烯次之，对伞花素最小。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1土荆芥挥发性化感物质对蚕豆光合特性的影响",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "光合作用是植物合成有机物、获取能量的根本来源，易受温度、光照、水分和微生物等因素的影响(Li etal,2016; Schmidetal,2016)。植物释放到环境中的化感物质直接作用于邻近植物的许多生理生化过程，从而影响了植物的生长发育（El-Kenany etal,2017)，如化感物质 Benzoxazolin-2-(3H)-one (BOA)通过降低气孔导度而影响了受体植物的碳同化效率（Parizottoetal,2017)。一般认为，影响植物光合速率的因素包括气孔因素和非气孔因素（张如义等，2016)；本项目组前期研究发现，土荆芥挥发性化感物质诱导蚕豆保卫细胞发生了程序性细胞死亡（周健等,2017)。本研究结果表明，在土荆芥挥发油作用下， $P n$ 、Gs、 $T r$ 显著降低，而 $\\mathrm { \\Delta } C i$ 显著增加；经 $\\mathbf { \\alpha } _ { \\mathbf { a } } .$ -萜品烯处理后，蚕豆叶片的Gs、 $C _ { i }$ 、 ${ { T r } }$ 不同程度增加， $P n$ 则整体表现为下降；对伞花素对蚕豆光合特性的影响不显著。根据这一结果推测，当蚕豆幼苗受到土荆芥挥发油胁迫时，蚕豆幼苗关闭气孔，或保卫细胞发生程序性死亡，降低 $G s$ ，进而抑制了$T r$ 和 $P n$ ，也有可能是RuBP羧化酶活性降低，RuBP的再生能力减缓，降低对 $\\mathrm { C O } _ { 2 }$ 的亲和力(孙胜楠等,2017)。至于土荆芥挥发油引起的光合作用下降是否与 ${ \\mathrm { R u B P } }$ 羧化酶活性有关，尚后续研究进一步深入确定。而 $\\mathfrak { a } \\mathrm { . }$ 萜品烯对蚕豆光合特性的影响可能是通过非气孔因素造成的。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "植物叶片的叶绿素含量和叶绿素荧光参数对环境胁迫十分敏感，任何环境因素的变化都会影响到 $P s \\mathrm { I I }$ 的 $F \\nu / F m$ 和 $\\phi P s \\mathrm { I I }$ (Cosgrove& Borowitzka,2010；许大全,2002)。前人研究发现，化感物质如酚酸（谢东锋等,2018）、BOA（El-Kenany et al,2017）等会降低受体植物的叶绿素含量和叶绿素荧光参数。本研究结果表明，在土荆芥挥发油及其两个主要成分 $\\mathfrak { a }$ -萜品烯、对伞花素作用下，蚕豆幼苗叶片的叶绿素含量、叶绿素荧光参数 $F \\nu / F m$ 和 $\\phi P s \\mathrm { I I }$ 均不同程度地降低，尤其是高剂量挥发油处理引起这种效应几乎是不可逆的。表明土荆芥化感胁迫可能干扰了叶绿素的合成过程或引起叶绿素降解，光系统受损，光反应受到抑制，从而降低了光合速率，抑制了植物的生长发育。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "土荆芥挥发油及其主要成分 $\\mathbf { \\bar { a } } .$ -萜品烯和对伞花素均降低了蚕豆幼苗叶片的叶绿素含量、叶绿素荧光参数和净光合速率，但挥发油和主要成分对气孔导度、蒸腾速率和胞间 $\\mathrm { C O } _ { 2 }$ 浓度的影响结果具有较大的差异。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2 土荆芥挥发油及其主要成分α-萜品烯和对伞花素化感效应的比较",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Vasilakoglou etal（2013）采用全系列评价法评估了黑麦草(Loliumrigidum Gaudin)挥发油化学成分的毒性效应，发现挥发油各成分之间存在协同效应，导致挥发油的毒性效应大于各个组成成分的毒性效应。土荆芥挥发油成分复杂（Chu et al,2011; Jardim et al,2008；黄雪峰和孔令义,2002)，大体包括单萜烯类、倍半萜烯类、含氧衍生物类等，但不同产地土荆芥的挥发油中，主要成分通常是α-萜品烯、对伞花素、驱蛔素等（Kandpal et al,2016; Pan et al,2007)。相对于土荆芥挥发油的化感效应而言，其主要成分的化感效应往往较弱。土荆芥挥发油及其主要成分α-萜品烯和对伞花素提高了玉米（Zeamays）根尖细胞的ROS 水平，导致细胞膜脂过氧化、抗氧化酶活性失活，从而引起玉米幼根生长受到抑制（Chenetal,2016;Lietal,2018)，这种诱导氧化损伤的效应以挥发油最大，α-萜品烯次之，对伞花素最小（陈斌等,2015)；此外，土荆芥挥发油、对伞花素和α-萜品烯对玉米根边缘细胞活性（胡忠良等,2015）和叶表皮保卫细胞活性（周健等,2016）均具有显著的抑制效应，但对伞花素和α-萜品烯的抑制效应弱于挥发油的抑制效应；本研究结果表明，土荆芥挥发油对受体光合特性的影响远远大于其两个主要成分 $\\mathbf { \\bar { a } } .$ -萜品烯和对伞花素的影响，与前人研究结果基本一致。导致这一结果的原因可能是挥发油中的α-萜品烯、对伞花素以及其他成分同时影响受体的光合作用过程，各成分的叠加效应导致挥发油对受体光合特性的影响，远远大于其单体成分α-萜品烯和对伞花素的抑制效应。当然，也不排除挥发油成分中还存在比α-萜品烯和对伞花素化感效应更强的成分，本研究室后续将进一步深入研究和寻找土荆芥挥发油中的其他主效化感成分。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CHEN B,ZHOU J,GOU X,et al,2016.Volatiles from Chenopodium ambrosioides L.induce the oxidative damage in maize (Zea mays L.) radicles[J].Allelopathy J,38: 171-182.   \nCHEN B,WANGYN,MA DW,etal,2015.The antioxidant enzyme activities and their gene expression in maize radicle under the allelochemical stress from Chenopodium ambrosioides L.[J].Ecol Environ Sci,24(10): 1640-1646.[陈斌，王亚男，马丹炜等,2015．土荆芥化感胁迫对玉米幼根抗氧化酶活性和基因表达的影 响[J]．生态环境学报,24(10):1640-1646.]   \nCOSGROVE J，BOROEITZKA MA，2010. Chlorophyll fluorescence terminology:an introduction[M]/ Chlorophyll a Fluorescence in Aquatic Sciences.Methods Appl.1-17.   \nCHU SS,FENG HJ,LIU ZL,2011. Composition of essntial oil of Chinese Chenopodium ambrosioides L.and insecticidal activity against maize weevil, Sitophilus zeamais.[J].Pest Manage Sci, 67(6): 714-718.   \nEL-KENANY ET,El-DARIER SM,ABDELLATIF AA,et al,2017.Allelopathic potential of invasive species: Nicotiana glauca, Graham on some ecological and physiological aspects of Medicago sativa L.and Triticum aestivum L.[J].Rendiconti Lincei, 28(1): 159-167.   \nHU WJ,MADW, WANGYN,etal,2011.Alllopathic potential of volatileoil from Chenopodium ambrosioides L. on root tip cells of Vicia faba[J]．Acta Ecol Sin,31(13):3684-3690.[胡琬君，马丹炜，王亚男等,2011.土 荆芥挥发油对蚕豆根尖细胞的化感潜力[J].生态学报,31(13):3684-3690.]   \nHU WJ,MA DW,WANG YN,et al,2012.Oxidative damageof volatile oil from Chenopodium ambrosioides on Vicia faba root tip cels[J].Chin JAppl Ecol,23(4):1077-1082.[胡琬君，马丹炜，王亚男等,2012.土荆芥 挥发油对蚕豆根尖细胞的氧化损伤[J]．应用生态学报,23(4):1077-1082.]   \nHU ZL,WANG YN,MA DW,et al,2015.The alleviate effect of extracellular DNA and protein in maize root border cels on the alelochemical stress from Chenopodium ambrosioides L.[J]. Chin Agric Sci,48(10): 1962-1970.[胡忠良，王亚男，马丹炜等,2015．玉米根边缘细胞 exDNA 和胞外蛋白对土荆芥化感胁迫 的缓解效应[J]．中国农业科学,48(10):1962-1970.]   \nHUSSAIN MI,REIGOSA MJ,2016.Plant secondary metabolite rutin afects the photosynthesis and excitation energy flux responses in Arabidopsis thaliana[J].Allelopathy J,38(2): 215-228.   \nHUANG XF, KONGLY,2002. Study on chemical constituents of volatile oil from Chenopodium ambrosioides L.[J].JChina Pharm Univ,33(3):256-257.[黄雪峰，孔令义,2002．土荆芥挥发油的化学成分分析[J]．中 国药科大学学报,33(3):256-257.]   \nJIMENEZ-OSORNIO J, KUMAMOTO J, WASSER C,1996. Allelopathic activity of Chenopodium ambrosioides L.[J]. Biochem Syst Ecol 24(3): 195-205.   \nJARDIM CM,JHAM GN,DHINGRA OD, et al,2008.Composition and antifungal activity of the essntial oil of the brazilian chenopodium ambrosioides L.[J]. JChem Ecol, 34(9):1213-1218.   \nKANDPAL V, JOSHI PK, JOSHI N,2016. GC-MS analysis of seed essential oil of Chenopodium ambrosioides L. collected from himalayan region[J]. JEssent Oil-Bear Plants,19(1):258-261.   \nLI J，HE YQ，MA DW,et al， 2018. Volatile alelochemicals of Chenopodium ambrosioides L. induced mitochondrion mediated $\\mathrm { C a } ^ { 2 + }$ dependent and caspase dependent apoptosis signaling pathways in receptor plant cells[J]. Plant Soil,1-12.   \nPARIZOTTO AV, MARCHIOSI R, BUBNA GA, et al, 2016. Benzoxazolin-2-(3H)-one reduces photosynthetic activity and chlorophyll fluorescence in soybean[J]. Photosynthetica:1-5.   \nPAN X,LIANG M, CHEN S,207. GC-MS analysis of essential oil from Chenopodium ambrosioides L.[J]. Chin J Pharm Anal.   \nSCHMID I,FRANZARING J,MULLER M, et al, 2016.Efects of $\\mathrm { C O } _ { 2 }$ enrichment and drought on photosynthesis, growth and yield of an old and a modern barley cultivar [J]. JAgron Crop Sci, 2O2(2): 81-95.   \nSINGH HP,KAUR S,MITTAL S,et al,2009.Essential oil of artemisia scoparia inhibits plant growth by generating reactive oxygen species and causing oxidative damage[J]. J Chem Ecol, 35(2): 154-162.   \nSUN SN, WANG Q, SUN CC,et al,2017. Response and adaptation of photosynthesis of cucumber seedlings to high temperature stres[J].Chin JAppl Ecol,28(5):1603-1610.[孙胜楠，王强，孙晨晨等,2017．黄瓜幼苗 光合作用对高温胁迫的响应与适应[J].应用生态学报,28(5):1603-1610.]   \nVASILAKOGLOU 1, DHIMA K,PASCHAlIDIS K,et al, 2013.Herbicidal potential on lolium rigidum of nieteen major essential oil components and their synergy[J]. JEssent Oil Res,25(1):1-10.   \nXU HG, QIANG S,2004.Iinvasive species of China [M]. Beijing: China Environmental Science Press: 52-79.[徐 海根，强胜,2004．中国外来入侵物种编目．北京：中国环境科学出版社:52-79.]   \nXIE DF, ZHANG GC,XIA XX, et al,2018.Effects of phenolic acids on the growth and photosynthesis of Populus $\\times$ euramericana'Neva'[J].Acta Ecol Sin,38(5):1789-1798.[谢东锋，张光灿，夏宣宣等，2018．不 同浓度酚酸对欧美杨I-107苗木生长和光合特性的影响[J].生态学报,38(5):1789-1798.]   \nXIN HQ, HUO JW,2008.Effects of environment stresson photosynthesis of fruit tres[J]. JNortheast Agric Univ, 39(9):130-135.[辛惠卿，霍俊伟,2008．环境胁迫对果树光合作用的影响[J]．东北农业大学学报,39(9): 130-135.]   \nXUDQ,2002. photosynthetic eficiency[M]. Shanghai: Shanghai Scientific & Technical Publishers: 80-82,94.[许 大全,2002．光合作用效率[M]．上海：上海科学技术出版社:80-82,94.]   \nZHANG RY,CHEN H,HU HL et al,2016. Alelopathic effect of Cinnamum camphora leaf litter on growth and photosynthetic characteristic of two intercropping crops[J].Acta Bot Boreal-Occident Sin,36(2): 0332-0342.[张如义，陈洪，胡红玲等,2016.香樟凋落叶分解过程对两种间作作物生长和光合特性的影 响[J]．西北植物学报,36(2):0332-0342.]   \nZHANG ZL, QU WJ, LI XF, 2009. Plant physiology experiment tutorial[M]. Beijing: Higher Education Press: 67-70.[张志良，瞿伟菁，李小方,2009．植物生理学实验指导[M].北京:高等教育出版社:67-70.]   \nZHOU J, WANG YN, MA DW,et al,2017.Volatile alelochemicals from Chenopodium ambrosioides L. induced guard cels apoptosis and itssignal regulation in Vicia faba L.[J].Acta Ecol Sin,37(17): 5713-5721.[周健, 王亚男，马丹炜等,2017.土荆芥挥发性化感物质诱导蚕豆保卫细胞死亡及信号调节[J].生态学报, ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "37(17): 5713-5721.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ZHOU J, MA DW,CHENYT, et al,2016.Effects of volatile alelochemicals from Chenopodium ambrosioides L. on the stoma guard cells in leaf epidermis of Vicia faba[J].Guihaia,36(8):963一968.[周健，马丹炜，陈永甜 等,2016.土荆芥挥发性化感物质对蚕豆叶表皮保卫细胞的影响[J]．广西植物,36(8):963-968.] ",
+        "page_idx": 10
+    }
+]

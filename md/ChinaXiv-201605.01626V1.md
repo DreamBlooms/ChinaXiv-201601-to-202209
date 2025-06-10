@@ -1,0 +1,194 @@
+# Edge detection based on gradient ghost imaging
+
+Xue-Feng Liu,1 Xu-Ri Yao,1 Ruo-Ming Lan $^ { 1 , 2 , 3 }$ Chao Wang,' and Guang-Jie Zhai $^ { 1 , * }$ （20
+
+$^ { 1 }$ KeyLaboratory of Electronics and Information Technology for Space Systems,National Space Science Center, Chinese Academyof Sciences,BeijinglOoi9o,China   
+2School of Physics and Electronics,Shandong Normal University,Jinan 25ool4,China 3 University of Chinese Academy of Sciences,Beijing Iool9o,China \* gjzhai@nssc.ac.cn
+
+Abstract:We present an experimental demonstration of edge detection based on ghost imaging(GI) in the gradient domain. Through modification of a random light field, gradient GI (GGI) can directly give the edge of an object without needing the original image.As edges of real objects are usually sparser than the original objects,the signal-to-noise ratio (SNR) of the edge detection result will be dramatically enhanced,especially for large-area,high-transmittance objects. In this study，we experimentally perform one- and two-dimensional edge detection with a double-slit based on GI and GGI. The use of GGI improves the SNR significantly in both cases.Gray-scale objects are also studied by the use of simulation.The special advantages of GI will make the edge detection based on GGI be valuable in real applications.
+
+$\mathbb { O }$ 2015 Optical Society of America
+
+OCIS codes:(110.6150) Speckle imaging;(110.1758) Computational imaging;(110.6980) Transforms.
+
+# References and links
+
+1.A.Valencia, G.Scarceli,M.D.Angelo,and Y.H. Shih,“Two-photon imaging with thermal light,”Phys.Rev. Lett. 94,063601 (2005).   
+2.A.Gatti,M.Bache,D.Magati,E.Brambill,F.Ferri,andL.A.Lugiato,"Coherentimaging with pseudo-thermal incoherent light,"J.Mod. Opt.53,739-760 (2006).   
+3.D. Zhang,Y.H. Zhai,L.A. Wu,and X.H. Chen,“Correlated two-photon imaging with true thermal light,"Opt. Lett. 30,2354-2356 (2005).   
+4.J.H. Shapiro,“Computational ghost imaging,"Phys.Rev.A 78,061802(R) (2008).   
+5.Y.Bromberg,O.Katz,and Y.Silberberg,“Ghost imaging with a single detector”Phys.Rev.A79,053840 (2009).   
+6.D. Z. Cao,J. Xiong,and K.G. Wang,“Geometrical optics in correlated imaging systems,”Phys.Rev. A 71, 013801 (2005).   
+7.G. Scarceli,V.Berardi,and Y.H.Shih,“Phase-conjugate mirrorvia two-photon thermal light imaging,”Appl. Phys.Lett.88,061106 (2006).   
+8.N.D.Hardy and J.H. Shapiro“Reflective ghost imaging through turbulence,”Phys.Rev.A84,O63824 (2011).   
+9.C.Q. Zhao,W.L.Gong,M.L.Chen,E.R.Li,H.Wang,W.D.Xu,and S.S.Han,“Ghost imaging lidar via sparsity constraints,”Appl.Phys.Lett.101,141123 (2012).   
+l0.X.F.Liu,X.R.Yao,X.H.Chen,L.A.Wu,and G.J. Zhai,“Thermal light optical coherence tomography for transmissive objects,"J. Opt. Soc. Am.A 29,1922-1926 (2012).   
+I1.N.Tian,Q.C.Guo,A.L.Wang,D.L.Xu,and L.Fu,“Fluorescence ghost imaging with pseudothermal light,” Opt.Lett. 36,3302-3304 (2011).   
+l2.M.Kmiec and A.Glowacz,“Object detection in security applications using dominant edge directions,”Pattern Recognit. Lett.52,72-79 (2015).   
+13.X.F.Li,S.Q.Zhang,X.Pan,P.Dale,andR.Cropp,“Straight road edge detection from high-resolution remote sensing images based on the ridgelet transform with the revised parallel-beam Radon transform,”Int.J.Remote Sensing 31,5041-5059 (2010).   
+14.J.Canny,"A computational approach to edge detection,IEEE Trans.PAMI 8,679-698 (1986).   
+15.L. Zhang and P. Bao,“Edge detection by scale multiplication in wavelet domain,”Pattern Recognit.Ltt 23, 1771-1784 (2002).   
+16.P.Bao,L.Zhang,and X.L.Wu,"Canny edge detection enhancement by scale multiplication,IEEE Trans.PAMI 27,1485 (2005).   
+17．S.Yi,D.Labate,G.R.Easley,and H.Krim,"A shearlet approach to edge analysisand detection,”IEEE Trans. Image Process.18,929-941 (2009).   
+18.F.Ferri,D.Magatt,L.A.Lugiato,andA.Gatti,“Differential ghost imaging,”Phys.Rev.Lett.104,253603 (2010).   
+19.B.Sun,S.S.Welsh,M,P.Edgar,J.H.Shapiro,and M.J.Padget,“Normalized ghost imaging,”Opt.Express 20,16892-16901 (2012).   
+20.X.R.Yao,W.K.Yu,X.F.Liu,L.Z.Li,andG.J. Zhai,“Iterative denoising of ghostimaging”Opt.Express 22, 24268-24275 (2014).   
+21.B.I ErkmenandJ.H.Shapiro“Signal-to-noiseratioof Gaussian-state ghost imaging,”Phys.Rev.A79,023833 (2009).   
+22.M.N.O'Sulivan,K.W.C.Chan,andR.W.Boyd,"Comparisonof the signal-to-noisecharacteristicsof quantum versus thermal ghost imaging,Phys.Rev.A82,053803 (2010).   
+23.Z.B. Zhang,X. Ma,and J. G. Zhong,“Single-pixel imaging by means of Fourier spectrum acquisition”Nat. Commun.6,6225 (2015).   
+24.O.K.Kwon,D.G.Sim,and R.H.Park,“Robust Hausdorff distance matching algorithms using pyramidal structures,Pattern Recognit.34,2005-2013 (2001).
+
+# 1．Introduction
+
+Ghost imaging (GI) is an attractive type of optical imaging that is rather different from traditional concepts.In GI,a single-pixel detector is used to detect light from the object,while a detector with spatial resolution measures the information about the source [1-3]. The image of object is reconstructed by two-order correlation of light intensities on the two detectors. In thermal light GI,if the intensity distribution of the source can be determined by calculations or predictions,then GI can be performed with only a single-pixel detector [4,5].Additionally, thermal light GI can realize lensless imaging [6,7] and has the ability to weaken the influence of disturbance in the light path [8]. Therefore,thermal light GI has been applied in many fields, such as lidar detection [9],optical coherence tomography [1O],and fluorescence imaging [11].
+
+Edge detection, which tests the object edge consisting of a dramatic change in transmittance or reflectance of an object,is widely used in target recognition,earth observation and security check [12,13]. In most previous edge detection approaches,the original targets are imaged before the edges are extracted with certain algorithms such as differential operator and wavelets operator [14,15]. Although many improved algorithms have been proposed, it is the premise of using these techniques to obtain a clear image first [16,17]. However, in many real application occasions in which turbulence and scattering medium exist, the optical imaging is difficult to perform and then the edge detection algorithms cannot be implemented. Owing to the special properties of GI mentioned above, it can solve the problem of disturbance in the imaging optical path and will play an important advantage in edge detection. Theoretically, edge detection based on GI can be achieved with the existing edge extraction algorithms operating on the image obtained by GI. However, there is one restriction in practical applications of GI that the imaging quality is relatively poor caused by the reconstruction process [18]. If we perform edge extraction with image obtained by traditional GI, the quality of edge detection will be influenced by the low signal-to-noise ratio (SNR) of the imaging result.
+
+Many prior studies have focused on improving the imaging quality of GI [18-2O],and it is concluded that for a fixed sampling number,the SNR of the image will be higher for an object with smaller area [21,22]. In the existing GI protocols, the images are generally reconstructed in the original spatial domain,restricting further enhancement of the imaging quality,while realizing GI in other domains may be meaningful in real applications [23]. As for most real objects the image edges have much higher sparsity than the original images,the SNR of the edge detection will be dramatically improved if the object edge can be imaged directly without the traditional GI procedure.In this paper, we report a demonstration of gradient GI (GGI) that is achieved by modifying the intensity distribution properties of the light source and the measurement processng.Edge detection can be realized with GGI needless of retrieving the original object.
+
+2. Theory of edge detection based on gradient ghost imaging
+
+![](images/77102ba1e83eb37e0b903ac2eeca2ee557b2a8456e73c171791dbb1a5b1c6168.jpg)  
+Fig.1. Schematic diagram of GI.
+
+The schematic diagram of GI is shown in Fig.1. The light source is modulated by a rotating ground glass or spatial light modulator (SLM) to generate random fields with both spatial and temporal fluctuations, which illuminate the object. A single-pixel detector with a collecting lens is used to measure the total intensity of light passing through the object. With $N$ random modulations and $N$ corresponding measurements,the distributions of light fields and the measurement signals obey the relationship
+
+$$
+y _ { k } = \sum _ { x _ { i } } A _ { k } \left( x _ { i } \right) T \left( x _ { i } \right) ,
+$$
+
+where $k$ denotes the number of modulations,and $T \left( x _ { i } \right)$ is the transmission function of the object.If the field distribution $A _ { k } \left( x \right)$ is measured or predicted, the image of the object can be obtained by a second-order correlation operation [5]
+
+$$
+T \left( x \right) = g ^ { \left( 2 \right) } \left( A \left( x \right) , y \right) = \left. A \left( x \right) \cdot y \right. - \left. A \left( x \right) \right. \left. y \right. ,
+$$
+
+where $\langle \cdots \rangle$ denotes ensemble average.If the measurement number $N$ approaches infinity, Eq.(2) will generate an accurate image of the object,but for a finite $N$ ,noise exists in the resulting image; the SNR can be expressed as [18]
+
+$$
+\mathrm { S N R } = \sqrt { \frac { N \cdot S _ { \mathrm { c o h } } } { S _ { \mathrm { s p a } } } } ,
+$$
+
+where $S _ { \mathrm { c o h } }$ is the coherence area of the random light field and $S _ { \mathrm { s p a } } = \sum _ { x _ { i } } T ^ { 2 } \left( x _ { i } \right)$ is the spatial area of the object.
+
+The edge of an object can be revealed by the parts which have large differences of gray-scales with adjacent pixels. Therefore, edge detection can be realized by calculating the gradient of
+
+the GI result
+
+$$
+\nabla T \left( x _ { i } \right) = T \left( x _ { i } \right) - T \left( x _ { i + 1 } \right) = g ^ { \left( 2 \right) } \left( A \left( x _ { i } \right) , y \right) - g ^ { \left( 2 \right) } \left( A \left( x _ { i + 1 } \right) , y \right) .
+$$
+
+As the noises in the adjacent two pixels are superposed,the SNR of edge detection will be further decreased by a factor of $\sqrt { 2 }$
+
+$$
+\mathrm { S N R } = \sqrt { \frac { N \cdot S _ { \mathrm { c o h } } } { 2 S _ { \mathrm { s p a } } } } .
+$$
+
+The object area in real applications could be very large,resulting in low quality of edge detection with traditional GI. However,because the grey scales of most real targets will not vary violently,a large object in the spatial domain usually has a much smaller area in the gradient domain. If we make an image for the gradient of object $\nabla T \left( x \right)$ directly,the SNR of edge detection will be dramatically improved.It is obvious that we cannot transform the real object to the gradient domain, but we can achieve the equivalent effect by modification of the sampling process.To realize the imaging of the object edge directly,we replace the random light field with random light field pairs, $A \left( x \right)$ and $B \left( x \right)$ ,which are related as follows
+
+$$
+B \left( x _ { i } \right) = A \left( x _ { i - 1 } \right) .
+$$
+
+Let us assume that $N$ pairs of random light fields illuminate the object,and the total intensities passing through the object are detected, producing measurement results $y _ { a }$ and $y _ { b }$ . We will have the following relationships,analogous to that of Eq.(1):
+
+$$
+\begin{array} { l } { { \displaystyle y _ { a } = \sum _ { x _ { i } } A \left( x _ { i } \right) T \left( x _ { i } \right) } } \\ { { \displaystyle y _ { b } = \sum _ { x _ { i } } B \left( x _ { i } \right) T \left( x _ { i } \right) } } \end{array} .
+$$
+
+By subtracting the two equations above,we find that
+
+$$
+\begin{array} { l } { { \displaystyle y _ { a } - y _ { b } = \sum _ { x _ { i } } \left( A \left( x _ { i } \right) T \left( x _ { i } \right) - A \left( x _ { i - 1 } \right) T \left( x _ { i } \right) \right) } } \\ { { \displaystyle \qquad = \sum _ { x _ { i } } A \left( x _ { i } \right) \left( T \left( x _ { i } \right) - T \left( x _ { i + 1 } \right) \right) } } \\ { { \displaystyle \qquad = \sum _ { x _ { i } } A \left( x _ { i } \right) \nabla T \left( x _ { i } \right) } . } \end{array}
+$$
+
+With the second-order correlation between the intensity difference $\Delta y = y _ { a } - y _ { b }$ and the distribution of the random light field $A \left( x _ { i } \right)$ , the object edge can be obtained
+
+$$
+\nabla T \left( x \right) = \left. A \left( x \right) \cdot \Delta y \right. - \left. A \left( x \right) \right. \left. \Delta y \right. .
+$$
+
+In this way,the gradient transform can be operated on the modulated light field instead of the real object,realizing edge detection based on GGI. Since the light field interacts with the object pixel by pixel,by controlling the distribution of the light field we can achieve an effect equivalent to that of operating on the object directly,but with greater convenience in real applications. Keeping in mind that, in GGI, every valid measurement result $\Delta y$ is obtained from two modulated fields,the SNR enhancement of edge detection based on GGI over traditional GI for the
+
+same total modulation number is
+
+$$
+\eta = \sqrt { \frac { S _ { \mathrm { s p a } } } { S _ { \mathrm { g r a } } } } ,
+$$
+
+where ${ { S } _ { \mathrm { { g r a } } } } = \sum _ { { { x } _ { i } } } { { { \left( { \nabla T \left( { { x } _ { i } } \right) } \right) } ^ { 2 } } }$ is the area of the object in the gradient domain.
+
+# 3.Experiments and simulations
+
+# 3.1. Experiment of one-dimensional edge detection based on GGI
+
+The experimental setup for GGI is shown in Fig.2.A halogen lamp emiting continuous visible light with power of $5 \mathrm { m W }$ is used as the source, the collimated light from which is modulated by a digital micro-mirror device (DMD) to generate a random light field.The DMD（Texas Instruments DLP7OOO) is a kind of SLM consisting of $1 0 2 4 \times 7 6 8$ micromirrors each of size $1 3 . 6 8 ~ \mu \mathrm { m } \times 1 3 . 6 8 ~ \mu \mathrm { m }$ ,which can be controlled individually to reflect light in two directions. With a random O-1 matrix loaded on the DMD,a light pattern with a pre-determined intensity distribution will be generated in one reflection direction of the mirrors.Pixels corresponding to“1" in the loaded matrix will produce bright speckles and the opposites correspond to dark speckles in the light pattern,which is then imaged by Lens2 with a focal length of $5 0 ~ \mathrm { m m }$ onto the observed object at a magnification of 1.3.By this means,a light field with the required properties can be generated conveniently.Light passing through the object is collected by Lens3 with focal length of $5 0 ~ \mathrm { m m }$ to be detected by a charge coupled device (CCD) (AVT Manta G145B).The intensities of all pixels are added to obtain a total value,so the CCD is used as a single-pixel detector without invoking its spatial resolution capability.
+
+![](images/4fb065430b3d2507665c6f9662b878386e632e518eea945b2582deb1031c9dde.jpg)  
+Fig.2.Experimental setup for edge detection based on GGI.BS,beamsplitter.DMD,digital micro-mirror device.CCD,charge coupled device.The source is a halogen lamp,and Lens1 is used for collimation.
+
+We first verify the effectiveness of edge detection based on GGI in one-dimension, using a double-slit as the test object.As shown in Fig.3(a), the slit width is $0 . 5 ~ \mathrm { m m }$ and the slit separation is $1 . 0 \mathrm { m m }$ .To realize one-dimensional imaging,the generated light fields have random fluctuations with the spatial coherence length $S _ { \mathrm { c o h } }$ of one DMD pixel which is $1 7 . 8 \ \mu \mathrm { m }$ along the direction of the double-slit, while maintaining uniformity along the direction of the slit height.With12OO random modulations the traditional GI image is obtained,as shown in Fig. 3(b),and edge detection is performed with Eq.(4) and shown in Fig.3(c), the SNR of
+
+1 (a) 1 (b)   
+0.5 0.5   
+0 0 mumlmum   
+-0.5 -0.5   
+-1 -1 -3.0 -2.0 -1.0 0 1.0 2.0 3.0 -3.0 -2.0 -1.0 0 1.0 2.0 3.0 x (mm) x (mm) (c) (d)   
+1 1   
+wyW 0.5 0 WtM Mm -0.5   
+-13.0 -2.0 -1.0 0 1.0 2.0 3.0 -13.0 -2.0 -1.0 0 1.0 2.03.0 x (mm) x (mm)
+
+which is 3.32,as determined from the following definition
+
+$$
+\mathrm { S N R } = \frac { \mathrm { m e a n } \left( I _ { \mathrm { e d g e } } \right) - \mathrm { m e a n } \left( I _ { \mathrm { b a c k } } \right) } { \left( \mathrm { v a r } \left( I _ { \mathrm { b a c k } } \right) \right) ^ { 0 . 5 } } ,
+$$
+
+where $I _ { \mathrm { e d g e } }$ and $I _ { \mathrm { b a c k } }$ are the intensities of the edge detection result in the object edge and background region respectively,and var stands for the variance. The SNR is not very high as the transparent length of the double-slit $S _ { \mathrm { s p a } }$ is $1 . 0 \ \mathrm { m m }$ ，muchlarger than $S _ { \mathrm { c o h } }$ .However, the gradient image of the object is quite simple,as there are nonzero values only at the edges of the slits,the length of which is ideally only4 pixels,i.e.,4 times the coherence length.However, in the actual situation it is difcult to overlap the object with pixels of field modulation accurately, making each edge occupy 2 pixels; hence,the actual length in the gradient domain is about $S _ { \mathrm { g r a } } = 8 S _ { \mathrm { c o h } } = 1 4 2 \mu \mathrm { m }$ 、To realize edge detection based on GGI, 6OO random light field pairs obeying the relationship of Eq. (6) are generated, maintaining the total measurement number equal to that of the traditional GI. Figure 3(d) shows the result of GGI,the SNR of which is 8.02.It is obvious that the edges of the object can be clearly distinguished with high SNR. The SNR enhancement factor is 2.42, which is consistent with the theoretical prediction in Eq.(10) of $\eta = 2 . 6 5$
+
+# 3.2.Experiment of two-dimensional edge detection based on GGI
+
+For a two-dimensional object, we define the object edge or gradient image as
+
+$$
+\nabla T \left( x _ { i } , y _ { j } \right) = T \left( x _ { i } , y _ { j } \right) - T \left( x _ { i + m } , y _ { j + n } \right) , { \mathrm { w i t h ~ } } \varphi = \arctan \left( { \frac { n } { m } } \right) ,
+$$
+
+where $m , n$ are integers and $\varphi$ indicates the angle between the gradient vector and the $\mathbf { X } \mathbf { \partial }$ -axis. Just as in the one-dimensional situation, to realize edge detection based on GGI we need the random light field pairs $A \left( x \right)$ and $B \left( x \right)$ to satisfy the relationship:
+
+$$
+B \left( x _ { i } , y _ { j } \right) = A \left( x _ { i - m } , y _ { j - n } \right) .
+$$
+
+In this way,the edge of object for both the $\mathbf { \boldsymbol { X } }$ -direction and the y-direction can be imaged.In fact,Eq.(6) for one-dimensional edge detection is just a special case in which $m = 1$ and $n = 0$ We use the same double-slit mentioned above to illustrate the implementation of twodimensional edge detection,and the slit heights are $1 . 0 7 ~ \mathrm { m m }$ .We chose $m = 1$ and $n = 1$ to
+
+(a) (b) 0 日   
+((exid)/x 20 40 (c) (d) 0   
+(1əxid)/x 20 40 0 20 40 60 0 20 40 60 y/(pixel) y/(pixel)
+
+realize GGI with a gradient vector of $\varphi = 4 5 ^ { \circ }$ ,and every $2 \times 2$ micromirrors in the DMD are modulated as a whole so that the spatial coherence length of the modulated field is $3 5 . 6 \ \mu \mathrm { m }$ Figure 4(a) shows the original image in the space domain with area of $1 \mathrm { m m } ^ { 2 }$ . The edge of the double-slit is two rectangular boundaries and the area can be calculated as $0 . 2 2 ~ \mathrm { m m } ^ { 2 }$ . Therefore,the theoretical SNR enhancement of GGI is $\eta = 2 . 1 3$ .To achieve traditional GI, 3600 random light fields are used and the obtained image is shown in Fig.4(b).With processing in Eq.(4) the result of edge detection is given in Fig. 4(c) with a SNR of only 1.27.To perform edge detection based on GGI,18OO pairs of random fields are generated according to Eq. (13), and the imaging result of the object edge is shown in Fig. 4(d) with the SNR increased to 2.57. The experimental SNR enhancement factor of GGI is 2.O2,slightly less than the theoretical value mainly due to the inaccurate overlapping of the object and the modulation pixels.
+
+# 3.3.Role of GGI in SNR enhancement of edge detection
+
+The implementation of GGI plays an important role in the SNR enhancement of edge detection. From Eq. (1O),the SNR enhancement is related to the factor of $S _ { \mathrm { s p a } } / S _ { \mathrm { g r a } }$ In general, for a twodimensional object, the transparent area increases with the square of the object length,while the area of object edge is proportional to the length of the object because the edge is composed of one-dimensional lines. Therefore,for a larger object, the object area in the gradient domain $S _ { \mathrm { g r a } }$ increases more slowly than the spatial area $S _ { \mathrm { s p a } }$ , causing the edge detection quality to be improved more significantly.We use simulations to study the edge detection quality improvement of GGI for different object areas.The test object is shown in Fig.5(a); its size is varied from 10O to 10oO pixels in 100-pixel steps,and the spatial coherence length of the field is 1 pixel. The edge of original object is shown in Fig. 5(b).With the same measurement number of 10,000,the edge detections of objects with different areas are performed by traditional GI and GGI,and the SNRs of results are calculated.Figure 5(c) shows the SNRs of edge detections with GI and GGI as functions of object size l. SNR1 is for traditional GI with curve fitting to $\mathrm { S N R 1 } = \alpha / l$ ,and SNR2 is for GGI with curve fitting to $\mathrm { S N R } 2 = \beta \Big / \sqrt { l }$ ,in which $\alpha , \beta$ are fitting parameters. We can see that the simulation results (data points) agree very closely with the theory (dashed curves).The SNR of edge detection with GGI remains larger than that with GI, and decreases more slowly when the object size increases.Figure 5(d) plots the SNR enhancement factor (data points) versus the object size.From the curve fiting (dashed curves) the factor is proved to be proportional to the square root of l.In our experiments shown in Fig. 3 and Fig. 4, we use objects with small areas to reduce the imaging time,resulting in SNR enhancement that is not very high; however,for large objects,GGI will produce more dramatic improvements in the quality of edge detection.
+
+![](images/0382822b6b35d84f7f89b4da25799ba2ae7e163aba6e327bdd4dc22bcc2d41bc.jpg)  
+Fig.5.SNR of edge detections based on GI and GGI. (a) Original object. (b) Object edge. (c) SNR1, SNR2 are the SNRs of edge detections based on GI and GGI,respectively, for different object sizes.(d) SNR enhancement versus object size.Data points are simulation results and dashed curves are fitted according to the theory.
+
+# 3.4. Edge detection of gray-scale objects
+
+Edge detection based on GGI is applicable not only to black and white objects but also to grayscale objects. The gray-scale object used in our simulation is shown in Fig. 6(a) with the gray scales marked on each part. The object size is $5 0 0 \times 5 0 0$ pixels.With 50,00O random light fields the GI result is shown in Fig. 6(b).With definition in Eq.(12) and parameters set to $m = 1$ and $n = 1$ ,edge detection with a gradient vector of $4 5 ^ { \circ }$ is realized,as shown in Fig. 6(c).With $m = 1$ （20 and $n = - 1$ ,edge detection with a gradient vector of $- 4 5 ^ { \circ }$ is obtained in Fig. 6(d). The SNRs are only O.8O and O.6O,respectively,and the boundaries of the different parts are completely unable to be distinguished.The results of edge detection based on GGI are shown in Fig. 6(e) and 6(f) with gradient vector of $4 5 ^ { \circ }$ and $- 4 5 ^ { \circ }$ ,respectively. The SNRs are increased to 8.43 and 7.37,which are about 1O times that of traditional GI since the object area is very large. The average values of the boundaries are marked in the figures; their proportions are very consistent with the gray scale differences.With different parameters, GGI can give information about the gray scales of object edges in different directions accurately. For a high transmittance object, edge detection with GGI will not be affected by the large-area uniformly transparent parts, which is a great advantage compared with traditional GI.
+
+![](images/858e1103ef96c812138ae55365d0549b5d5188487ffb5416ac0ab3dcdc9cf70e.jpg)  
+Fig.6.Edge detection with gray-scale object. (a) Object.(b) Traditional GI result.(c,d) Edge detection based on GI with $4 5 ^ { \circ }$ and $- 4 5 ^ { \circ }$ gradient vectors, respectively. (e,f) Edge detection based on GGI with $4 5 ^ { \circ }$ and $- 4 5 ^ { \circ }$ gradient vector. Gradient vectors are marked in the figures.
+
+# 4.Discussions and conclusions
+
+Our method of edge detection based on GGI can directly obtain the edge information of objects with point detection.This is physically different from traditional edge detection techniques which make image processing on the original object images. The information acquisition mode of GGI brings several benefits to edge detection. First,in GGI we just detect the total intensity of light from the objects without spatial resolution,which avoids the disturbance of imaging optical path on the light intensity distribution and therefore can be used in the turbulence and scattering environments. Second,as diferential operation and wavelets transform are usually sensitive to the noise,the effect of traditional methods of edge detection is closely related to the quality of the object image [24].Noise on any one pixel of the image may induce an error in the result of the edge extraction. Although filters can be used in the image processng to suppress the noise,it will blur the edges at the same time.While in GGI,every single time of detection is a global measurement on the object. According to Eq. (7-9),the noise in the measurement result△y generates effect on the whole reconstructed image but not a local position, which will not induce serious errors in the edge detection. Therefore,the edge detection based on GGI has good robustness against the measurement noise.
+
+In conclusion, we have experimentally demonstrated edge detection based on traditional GI and GGI. By modifying the properties of the light source and the processing of the information measurement, GI is performed in the gradient domain and the edge of an object can be directly obtained without imaging the original object,achieving high SNR in the edge detection result. The implementation of GGI has particular advantages for large-area, high-transmitance objects.Moreover, the modification of light field provides a method to expand GI technique to other domains.As GI has the ability of lensless imaging and weakening the influence of turbulence,we believe that edge detection based on GGI will be valuable in many real applications such as earth observation and security check.
+
+# Acknowledgments
+
+This work was supported by the National Major Scientific Instruments Development Project of China (Grant No.2013YQ030595), the National High Technology Research and Development Program of China (Grant No.2O13AA122902), National Defense Science and Technology Innovation Foundation of Chinese Academy of Sciences (Grant No.CXJJ-15S149),and the National Natural Science Foundation of China (Grant Nos.11275024, 61575207).

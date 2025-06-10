@@ -1,0 +1,465 @@
+[
+    {
+        "type": "text",
+        "text": "自由活塞斯特林热泵的理论与实验研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李珂¹²，余国瑶¹，张益炳，廖旭，戴巍¹,罗二仓¹(1.中国科学院低温工程学重点实验室，北京,100190;2.中国科学院大学，北京,100049;3.中科力函热声技术有限公司，深圳,518005)摘要：自由活塞斯特林热机取消了传统斯特林热机的曲柄连杆结构，具有结构简单、高效率、高可靠性、寿命长等诸多优点。但目前的研究热点多集中于自由活塞斯特林发动机与制冷机，对自由活塞斯特林热泵的研究关注很少。本文设计了一台电驱动自由活塞斯特林热泵，首次提出并采用了热机部分反向布置的结构，彻底避免了高温端换热器对直线电机造成的不利影响，并给出了实验结果。该热泵在 ${ \\displaystyle - 2 0 { \\sim } 5 0 ^ { \\circ } C }$ 的泵热温差下获得了1.4的整机COP。利用热声理论，本文对该热泵进行了理论计算，并与实验结果进行了对比，初步考察了热泵在不同泵热温差、不同输入电功以及不同运行频率的工作特性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：斯特林热泵；自由活塞；反向布置；直线电机；热声中图分类号：TK123 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Theoretical and experimental research on free piston Stirling heat pump ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Ke1²，YU Guo-Yaol， ZHANG Yi-Bing³，LIAO ${ \\mathrm { X u } } ^ { 3 }$ ， DAI Weil\\*,LUO Er-Cang' (1.Key Laboratory of Cryogenics, Chinese Academy of Sciences,Beijing,10o190 China; 2.University of Chinese Academy of Sciences,Beijing,10oo49, China; 3.Lihan Thermoacoustic Technologies Co.Ltd, Shenzhen, 518005, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Fre-piston Stirling machine has received much attention due to its high eficiency,fuel flexibility,high reliability and long lifetime. However, much research has focused on free piston Stirling generator and free piston Stirling cryocooler. Litle attntion has been paid to the free piston Stirling heat pump.In this paper, we have designed and manufactured a $1 ~ \\mathrm { k W }$ class free piston Stirling heat pump and tested its performance systematically. A reversed arangement has been put into practie,which could ensure the linear motor working at ambient temperature. The COP of 1.4 was achieved with the heating temperature at $5 0 ~ ^ { \\circ } \\mathrm { C }$ and the ambient temperature at ${ } ^ { - 2 0 } { } ^ { \\circ } \\mathrm { C }$ . Thermoacoustic theory was used for design and calculation and the results agreed well with the experiments. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Stirling heat pump; free piston; reversed arrangement; linear motor; thermoacoustic ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0研究背景",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "自由活塞斯特林热机是斯特林热机的一种具体形式，通常分为三种：采用正斯特林循环的自由活塞斯特林发动机；采用逆斯特林循环的自由活塞斯特林制冷机与热泵。自由活塞斯特林热机不仅具有传统斯特林热机高理论效率(卡诺效率)、外燃性等的优点，同时取消了传统斯特林热机的曲柄连杆结构，解决了密封问题，提高了可靠性及使用寿命。因此，自由活塞斯特林热机一直是国内外研究的热点，其中以美国 Sunpower公司与Infinia公司的技术最为成熟且最具代表性。但目前的研究多集中于自由活塞斯特林发电机与制冷机，对于自由活塞斯特林热泵的研究鲜见报道[1,2],仅美国的 Sunpower 公司与日本的Kawasaki公司报道过采用Duplex结构的自由活塞斯特林热泵，即用自由活塞斯特林发动机驱动自由活塞斯特林热泵。而对于采用直线电机驱动的传统结构自由活塞斯特林热泵，尚未见相关报道。针对这一研究空白，本文对一台电驱动自由活塞斯特林热泵进行了实验研究，并与热声理论的计算结果进行了对比。此外，为避免采用传统结构可能引起直线电机温度过高的问题，本文首次提出并采用了热机部分反向布置的结构，以确保直线电机工作于室温环境。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1自由活塞斯特林发电机结构",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "图1(a)给出了一种传统的自由活塞斯特林热机结构。这种结构广泛应用于发动机与制冷机。对于发动机，2为高温端换热器(又称热头)，5为室温换热器；而对于制冷机，2为低温端换热器(又称冷头)，",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "5为室温端换热器。可见，无论是作为发动机还是制冷机，室温端始终位于直线电机侧，从而保证直线电机工作于室温环境。但当图1(a)结构直接应用于热泵时，换热器5成为高温端换热器，靠近直线电机，这会导致直线电机工作于高温环境，不利于电机运行。针对这一问题，本文提出了一种新型自由活塞斯特林热泵结构，如图1(b)所示，将排出器(又称自由活塞)反向布置，相应地交换高温与室温换热器位置，使直线电机工作于室温环境。图1中还标示了两种热泵结构中的声功流向与温度梯度，具体说明见下一节。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2cee69916a91d636c99c7c096d5fee09815866df3a30efb25428cdbbc97daea.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1.膨胀腔；2.高温端换热器(发动机)或低温端换热器(制冷机)或室温端换热器(热泵)；3.回热器；4.排出器；5.室温端换热器(发动机或制冷机)或高温端换热器(热泵)；6.压缩腔;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "7.动力活塞(或称直线电机活塞)；8.直线电机) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图1自由活塞斯特林热机结构示意图",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Schematicsof free piston Stirlingmachines ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图2为本文所研究的自由活塞斯特林热泵的实物图。该热泵设计频率为 $8 0 \\mathrm { H z }$ ，工质为氮气，平均压力 $5 \\ \\mathrm { M P a }$ ，直线电机最大功率为 $1 ~ \\mathrm { k W }$ ，各部件具体参数见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f2c856b32ea704f2f1937ee5737453356c454e7ccadd9f16b25cca02195b00b2.jpg",
+        "img_caption": [
+            "图 $2 1 \\mathrm { k W }$ 电驱动自由活塞斯特林热泵 Fig.2 1 kW motor driven free piston Stirling heat pump Table 1 Parameters of the free piston Stirling heat pump "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/bf4e6f853c04e56cb455384ed656a13bb120bacbb9aa040f1580dbd3250b4c52.jpg",
+        "table_caption": [
+            "表1自由活塞斯特林热泵结构参数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>部件名称</td><td>具体参数</td></tr><tr><td>室温端换热器</td><td>翅片式紫铜换热器，长35mm，200条翅片， 流道宽0.4mm</td></tr><tr><td>高温端换热器</td><td>翅片式紫铜换热器，长35mm，200条翅片，</td></tr><tr><td>回热器</td><td>流道宽0.5mm 长33mm，内径33mm，外径84mm，填</td></tr><tr><td>排出器</td><td>充180目不锈钢丝网 直径80mm，连接轴直径25mm，动质量m</td></tr><tr><td></td><td>为0.52kg，板弹簧刚度为96kN/m</td></tr><tr><td>膨胀腔</td><td>45 cc</td></tr><tr><td>压缩腔</td><td>28 cc</td></tr><tr><td>动力活塞</td><td>直径60 mm</td></tr><tr><td>直线电机</td><td>动质量m为1.6kg，磁力弹簧刚度Kmag为 59.5kN/m，背腔容积Vb为0.9L，BL数42</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2热声理论分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来热声理论已经发展成为一种强大的交变流动分析工具[3]，本节将按照热声理论，简要介绍自由活塞斯特林热泵工作原理及计算方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "热声理论认为，回热器是实现功热转换的核心部件，而并非传统理论分析认为的，仅是起到蓄热与放热作用的热力海绵。热声理论中的介观热力学理论[4给出了回热器工作原理的定性解释：众多气体微团在其平衡位置附近振动，与固体介质相互作用，每个气体微团会经历膨胀、收缩、吸热、放热等热力过程，这些过程形成了一个个精巧的热力循环，实现了功热转换，再依靠气体微团的接力作用，最终实现了功热转换和输运。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在气体流通截面上对声功强度进行积分，即获得热声理论中一个重要概念一一声功 $\\mathrm { E } _ { 2 }$ ，定义为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { 2 } = \\frac { 1 } { 2 } \\mathbf { R e } \\Big [ \\hat { p } _ { 1 } \\cdot \\hat { U } _ { 1 } ^ { * } \\Big ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\hat { p } _ { 1 } \\ 、 \\hat { U } _ { 1 } ^ { * }$ 分别为压力波与体积流率的复数形式， $*$ 表示共轭。声功概念类似传统热力学分析中的$P V$ 功，特别地，当声功计算位置位于活塞表面，所得声功等于 $P V$ 功。热声理论还指出，对于发电机，回热器中的声功流向必须与回热器的温度梯度同向，才可实现将热能转化为声功，如图1中箭头所示。图1中还给出了发电机中具体的声功流向，即：在回热器中，气体实现了功热转换与传递，声功由室温端流向高温端并不断增大，然后流入膨胀腔，再通过排出器传递至压缩腔，在压缩腔中，大部分声功流向直线电机，推动活塞做功，将声功转化为电能，剩余小部分声功流向回热器，再次进行声功放大过程。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "按照经典热声理论，各个波动量可写成“平均量 $^ +$ 一阶量”的形式；",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { Y } = Y _ { 0 } + \\mathrm { R e } \\left( \\hat { Y } _ { 1 } \\cdot e ^ { i \\omega t } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $Y$ 表示密度 $\\rho$ 、温度 $T _ { \\mathbf { \\delta } }$ 、压力 $p$ 与流速 $u$ 等物理量，下标0表示平均量部分，下标1表示一阶波动量部分， $\\omega$ 为角频率， $\\sim$ 表示时域内波动量，^表示波动量的复数幅值，其中包含着波动幅值和相位。将上述简化形式的波动量代入连续性方程、动量方程、能量方程、理想气体状态方程，忽略二阶及二阶以上的小量后可得到如下线性热声方程组(3)-(5)",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } \\hat { p } _ { 1 } } { \\mathrm { d } x } { = } - Z _ { \\mathrm { _ F } } \\cdot \\hat { U } _ { 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } \\hat { U _ { \\scriptscriptstyle 1 } } } { \\mathrm { d } x } = - Y _ { \\scriptscriptstyle \\mathrm { C } } \\cdot \\hat { p } _ { \\scriptscriptstyle 1 } + f _ { \\mathrm { W T } } \\beta _ { 0 } \\frac { \\mathrm { d } T _ { 0 } } { \\mathrm { d } x } \\cdot \\hat { U _ { \\scriptscriptstyle 1 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { T } _ { 1 } = Z _ { P } \\cdot \\hat { p } _ { 1 } - Z _ { \\scriptscriptstyle T } \\cdot \\hat { U } _ { \\scriptscriptstyle 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中体积流率 $\\hat { U } _ { 1 } = \\hat { u } _ { 1 } \\cdot A$ ， $A$ 为截面积，其具体参数取值可参考文献[3]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "热声理论中，另一个重要的时均量为总能流 $H _ { 2 }$ 即",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$H _ { 2 } = \\frac { 1 } { 2 } \\rho _ { 0 } C _ { \\mathrm { p 0 } } \\int \\operatorname { R e } \\left[ T _ { 1 } \\hat { u } _ { 1 } \\right] \\cdot d A - \\left( A _ { \\mathrm { f } } k _ { \\mathrm { f } } - A _ { \\mathrm { s } } k _ { \\mathrm { s } } \\right) \\frac { \\mathrm { d } T _ { 0 } } { \\mathrm { d } x }$ (6其中 $A$ 表示截面积， $k$ 表示热导率，下标f，s分别表示流体与固体。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "换热器进出口的总能流之差等于换热器的换热量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于排出器，其满足以下力学平衡方程：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\hat { p } _ { \\mathrm { e x p } } A _ { \\mathrm { d i s p } } - \\hat { p } _ { \\mathrm { c m p } } \\left( A _ { \\mathrm { d i s p } } - A _ { \\mathrm { r o d } } \\right) - R _ { \\mathrm { m , d i s p } } \\hat { u } _ { \\mathrm { d i s p } } } \\\\ & { + i \\cfrac { K _ { \\mathrm { d i s p } } } { \\omega } \\hat { u } _ { \\mathrm { d i s p } } = i \\omega m _ { \\mathrm { d i s p } } \\hat { u } _ { \\mathrm { d i s p } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $K$ 为弹簧刚度, $R _ { \\mathrm { m } }$ 为机械阻尼，下标exp、cmp、disp与rod分别表示膨胀腔、压缩腔、排出器与排出器轴。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于直线电机可根据其电学、力学平衡方程进行求解[5]。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { U } = \\hat { I } \\big ( R _ { \\mathrm { e } } ^ { } + i \\omega L _ { \\mathrm { e } } ^ { } \\big ) + B L \\hat { u } _ { \\mathrm { p i s t } } ^ { }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB L \\hat { I } + i \\Bigg ( \\frac { K _ { \\mathrm { m a g } } V _ { \\mathrm { b } } + \\gamma p _ { 0 } A _ { \\mathrm { p i s t } } ^ { 2 } } { \\omega V _ { \\mathrm { b } } } \\Bigg ) \\hat { u } _ { \\mathrm { p i s t } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- R _ { \\mathrm { m , p i s t } } \\hat { u } _ { \\mathrm { p i s t } } - \\hat { p } _ { \\mathrm { e x p } } A _ { \\mathrm { p i s t } } = i \\omega m _ { \\mathrm { p i s t } } \\hat { u } _ { \\mathrm { p i s t } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\gamma$ 为工质气体的比热比， $Z _ { \\mathrm { e , l o a d } }$ 为外部电路负载，下标pist表示电机活塞，mag表示磁力弹簧。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "具体的理论计算结果将在第四章中给出。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3实验平台与实验方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图3为热泵实验平台示意图。其中，直线电机由一台变频电源1驱动，两台高低温循环装置2、3用以将传热工质（水或油）维持在一定温度，实现换热器定温换热。泵热量 $\\varrho$ 、输入电功 ${ \\cal W } _ { \\mathrm { e } }$ 、输入声功 $\\theta _ { \\mathrm { a } }$ 、整机COP、电机效率 $\\eta _ { \\mathrm { m o t o r } }$ 、热泵效率 $\\eta _ { \\mathrm { h p } }$ 以及热泵相对卡诺效率 $\\eta _ { \\mathrm { C a r n o t \\% } }$ 可分别按下式计算：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ = \\dot { m } c _ { _ p } \\left( T _ { _ { o u t } } - T _ { _ { i n } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { \\mathrm { e } } = 0 . 5 \\Big | \\hat { I } \\cdot \\hat { V } ^ { * } \\Big | \\cos \\big ( \\theta _ { \\scriptscriptstyle V } - \\theta _ { \\scriptscriptstyle I } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { \\mathrm { a } } = \\frac { 1 } { 2 } \\Big | \\hat { p } _ { \\mathrm { c m p } } \\cdot \\hat { U } _ { \\mathrm { p i s t } } ^ { * } \\Big | \\cos \\Big ( \\theta _ { p _ { \\mathrm { c m p } } } - \\theta _ { U _ { \\mathrm { p i s t } } } \\Big )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= \\frac { A _ { \\mathrm { p i s t } } } { 2 \\omega } \\Big \\vert \\hat { p } _ { \\mathrm { c m p } } \\cdot \\hat { a } _ { \\mathrm { p i s t } } ^ { * } \\Big \\vert \\cos \\Big ( \\theta _ { p _ { \\mathrm { c m p } } } - \\theta _ { a _ { \\mathrm { p i s t } } } + 9 0 ^ { \\circ } \\Big )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { C O P } = Q / W _ { \\mathrm { e } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\eta _ { \\mathrm { m o t o r } } = W _ { \\mathrm { a } } / W _ { \\mathrm { e } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\eta _ { \\mathrm { h p } } = Q / W _ { \\mathrm { a } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\eta _ { \\mathrm { C a r n o t ^ { \\circ } } _ { 0 } } = \\eta _ { \\mathrm { h p } } \\cdot \\left( T _ { 1 } - T _ { 0 } \\right) / T _ { 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中循环水流量 $\\dot { m }$ 由电磁流量计4测得，进出口水温 $T _ { \\mathrm { i n } }$ 、 $T _ { \\mathrm { o u t } }$ 由分别由PT100 铂电阻5、6测得；电压、电流采用Tektronix公司的电压传感器7与电流传感器 8测量；膨胀腔压力波动 $\\hat { p } _ { \\mathrm { e x p } }$ 与动力活塞加速度$\\hat { a } _ { \\mathrm { p i s t } }$ 采用美国PCB公司的压力波动传感器9和加速度计传感器10测量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "此外，在膨胀腔与压缩腔内分别装有T型热电偶11、12，用于测量膨胀腔与压缩腔内的气体温度$T _ { \\mathrm { e x p } }$ 、 $T _ { \\mathrm { c m p } }$ 。电机背腔中还安装有平均压力传感器13用于检测系统的平均压力 $p _ { 0 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本热泵中采用了气浮活塞式直线电机，即依靠气体轴承使活塞悬浮于气缸中，而气体轴承刚度受活塞位移的影响。当活塞位移过小时，气体轴承不足以支撑活塞悬浮，会造成电机活塞与气缸间接触摩擦。为避免这一问题，实验中始终保证输入电功不低于 $50 \\%$ 的额定功率。因为未采用双系统对置结构，单机的惯性力会造成系统的强烈振动，为此实验中将热泵固定于减振平台，如图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "考虑到热泵在实际应用中，通常要求使用温度（高温端温度）固定，而外界环境温度会随季节的不同而变化，尤其是在寒冷地区。因此，实验中固定高温端温度为 $5 0 ^ { \\circ } \\mathrm { C }$ ，分别考察了室温端温度、输入电功、运行运行频率对热泵性能的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cc4d52b58c99fe7ce2a640a855aada1c67752d4c905dbbc5ce36d1bc23dc5d57.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1.变频电源;2.3.高低温循环装置;4.电磁流量计;5.6.铂电阻;7.电压传感器;8.电流传感器；9.压力波动传感器;10.加速度计;11,12.热电偶;13.平均压力传感器)",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 Schematic of the experimental facility ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4实验与计算结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图4给出了在不同室温端温度下，整机COP随输入电功的变化。其中，热端温度维持在 $5 0 ^ { \\circ } \\mathrm { C }$ ，室温端温度分别为20、0、 $- 2 0 ^ { \\circ } \\mathrm { C }$ 时，整机所能达到的最高COP分别为：1.75、1.5、1.4。可以看出，实验与计算结果在变化趋势上基本一致。对于不同的输入电功，当室温端温度为 $2 0 ^ { \\circ } \\mathrm { C }$ 时，整机COP随输入电功的增大略有减小；当室温端温度为0或 ${ \\displaystyle - 2 0 ^ { \\circ } C }$ 时，整机COP基本不受电功变化的影响。对于不同的室温端温度，泵热温差越大，整机COP越低。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "尽管计算与实验结果在变化趋势上保持一致，但在具体数值上，实验中整机COP仍比计算值偏低$20 \\% { \\sim } 2 5 \\%$ 左右，所以有必要进一步对热泵与电机分",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "别进行考察。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e08e5b461fcbcf4a9118e1bf5f5508688b63afbc1ede4c1a1cdd72678f9a7c44.jpg",
+        "img_caption": [
+            "图4不同室温端温度下整机COP随输入电功的变化 Fig.4 COP vs.electric powerwith different ambient temperatures "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图5给出了不同泵热温差下电机效率随输入电功的变化。可以看出，电机效率受温度与电功变化的影响均不大。但需要指出的是，实验中仅考察了电机在 $50 \\%$ 以上额定功率下的工作特性。当电机以低功率运行时，如第三节末尾所述，电机活塞与气缸间可能产生接触摩擦，势必造成电机效率的降低。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/dda795c307d29ddd1284a430dd61649abc89ea4f596694d745d6f2280f1b01be.jpg",
+        "img_caption": [
+            "图3实验平台示意图",
+            "图5不同室温端温度下电机效率随输入电功的变化 Fig.5 Efficiency of linear motor vs.electric power with different ambient temperatures "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "此外，实验过程中还发现，当热泵工作于${ \\displaystyle - 2 0 { \\sim } 5 0 ^ { \\circ } C }$ 泵热温差时，电机机壳表面出现了明显的结霜现象，这表明，靠近电机侧的室温端换热器会对整个电机的工作温度产生强烈的影响。这也从侧面说明，对于自由活塞斯特林热泵，采用本文所提出的反向布置结构是十分必要的。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/68a79f36121fec419a268fc1ae7e67544493e02896f5fef6d3dda2b2c0cd77e8.jpg",
+        "img_caption": [
+            "图6不同泵热温差下热泵相对卡诺效率随输入电功的变化 Fig.6Relative Carnot efficiency vs.electric powerwith different ambient temperatures ",
+            "图7整机COP、电机效率、相对卡诺效率随频率的变化 Fig.7 COP,linear motor efficiency and relative Carnot efficiency vs.electric power with different ambient temperatures "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于电机效率的计算与实验结果基本一致，所以整机COP的计算与实验偏差主要来自热机部分的偏差，如图6所示，这一方面是由于线性热声理论的自身限制，如准一维模型等；另一方面是由于加工工艺限制使热泵实际参数偏离了设计参数。不过我们仍能看到实验与计算结果具有相同的变化趋势，即相对卡诺效率随电功变化较小，而受泵热温差的影响却很大。随着泵热温差的增大，热泵的相对卡诺效率也在升高，换而言之，自由活塞斯特林热泵在大泵热温差下运行更具优势。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图7给出了运行频率对于热泵性能的影响，其工况为室温端 ${ \\displaystyle - 2 0 ^ { \\circ } C }$ ，电功 $9 0 0 ~ \\mathrm { W }$ 。可以看出，实验与计算结果的变化趋势基本符合，并表明，对于本文所研究的热泵，其整机COP、电机效率与相对卡诺效率受频率变化的影响很小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "整机COP，实验2.5 相对卡诺效率，实验 100电机效率，实验2.0 80  \nJCO 1510 6040 %/率  \n整整机COP，计算0.5 ·相对卡诺效率，计算 20·电机效率，计算0.0 中 084 82 80 787674 72 70 68频率/Hz",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文设计并研究了一台采用电驱动的自由活塞斯特林热泵，首次提出并采用了热机反向布置结构，高温端换热器位于远离直线电机侧，可有效避免高温端换热器导致电机工作温度过高。对该热泵在不同泵热温差、输入电功以及运行频率下的实验研究表明，在 20\\~50、0\\~50、 ${ \\displaystyle - 2 0 { \\sim } 5 0 ^ { \\circ } } \\mathrm { C }$ 泵热温差下整机COP分别约为1.75、1.5与1.4；直线电机效率对于泵热温差、电功及频率的变化均不敏感；热机相对卡诺效率随电功及频率的变化很小，但受泵热温差的影响却较大，在20\\~50、0\\~50 与 ${ \\displaystyle - 2 0 { \\sim } 5 0 ^ { \\circ } C }$ 时，分别为 $20 \\%$ 、 $30 \\%$ 与 $3 6 \\%$ 。这表明，自由活塞斯特林热泵可能在高温热泵应用领域更具优势。本文还从热声理论的角度，阐释了该热泵的工作原理，进行了理论计算，并获得了与实验结果相同的变化规律。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1].Inabe M.,et al. The development of free piston Stirling heat pumps[C]. International Stirling Engine Conference, 1986   \n[2]. Beale W.,Gedeon D.and Penswick B.Duplex Stirling heat pump development[C]. International Conference on Gas Research,1983   \n[3].Swift G.，Thermoacoustics: A unifying perspective for some engines and refrigerators[M].Acoustical Society of America Publications,Sewickley,2002   \n[4]．罗二仓,戴巍,吴张华,吴剑峰．交变流动热机的介观热 力循环理论一一第一部分：制冷机回热器的介观热力循 环模型及分析[J]．低温工程,2004,(1):1-11 Luo Ercang，Dai Wei，Wu Zhanghua, Wu Jianfeng. Meso—Scope thermodynamic theory for cyclic flow engines Part I.Meso—scope thermodynamic model for cyclic flow regenerator[J]. Cryogenics,2004,(1):1-11   \n[5]．Dai Wei, Yu Guoyao, Xiao Chong,et al. Theoretical and Experimental Investigation of a 1 kWe Class Free Piston StirlingGenerator[C].InternationalStirlingEngine Conference,2012 ",
+        "page_idx": 4
+    }
+]

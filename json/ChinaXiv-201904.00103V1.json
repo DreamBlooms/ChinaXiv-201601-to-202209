@@ -1,0 +1,262 @@
+[
+    {
+        "type": "text",
+        "text": "A Novel Narrow-Band Green-Emitting Phosphor CsKNaLi $( \\mathrm { L i } _ { 3 } \\mathrm { S i O } _ { 4 } ) _ { 4 }$ with the $\\mathrm { U C r } _ { 4 } \\mathrm { C } _ { 4 }$ -Related Type Structure ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lili Wang†, Xiaoying Kong†, Xuefang Lan†, Peng $\\mathrm { L i } ^ { \\dagger }$ ,Qian Chen+,Jinsheng Shi\\*\\*t +Science and Information College, Qingdao Agricultural University College of Chemistry and Pharmaceutical Sciences, Qingdao Agricultural University $\\mathrm { C s K N a L i ( L i _ { 3 } S i O _ { 4 } ) _ { 4 } . E u ^ { 2 + } }$ (CKNLLSO:Eu2+） as a new member of oxide-based family with $\\mathrm { U C r } _ { 4 } \\mathrm { C } _ { 4 }$ -related type structure was first synthesized successfully. The crystal and band structure of the host compound was characterized and analyzed by aid of Rieveld refinement and density functional theory, respectively. As a result of the highly condensed and rigid anion framework, ${ \\mathrm { E u } } ^ { 2 + }$ substituting Cs site gives intense green emission with a narrow full width at half maximum of $5 5 \\ \\mathrm { n m }$ excited by InGaN-based near UV LEDs. The CKNLLSO: ${ \\mathrm { E u } } ^ { 2 + }$ phosphor exhibits relatively high thermal stability even though the temperature was raised to $1 9 0 ~ ^ { \\circ } \\mathrm { C }$ .The LED fabricated using the optimized CKNLLSO: $4 \\% \\mathrm { E u } ^ { 2 + }$ phosphor demonstrated bight and narrow green light with chromaticity coordinate (0.2320, O.6016) and correlated color temperature $7 3 1 4 \\mathrm { K }$ ， implying its great potential for applications as green components for white LEDs. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Phosphor-converted white light-emitting diodes (pc-wLEDs) have been used in many fields, for example, general lighting,backlight for liquid crystals displays (LCDs) and car headlights. Conventional pc-wLED is composed of a blue LED chip and a yellow YAG:Ce phosphor, and the latter is the key component for governing the color characteristics of white LEDs. Owing to a lack of red emission, when only YAG:Ce was used, high color rendering index (CRI) white LEDs cannot be realized. At the same time, low color saturation of such white LEDs is hard to achieve the standard of National Television System Committee (NTSC) because of wider full-width at half-maximum (FWHM). An alternative approach to white light is to pump red-green-blue (RGB) phosphors by near UV LED chip. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Current commercial green phosphor $( \\mathrm { B a } , \\mathrm { S r } ) _ { 2 } \\mathrm { S i O } _ { 4 } { : } \\mathrm { E u } ^ { 2 + }$ has poor chemical stability and severe thermal quenching behavior. As promising candidates for green phosphors, $\\mathrm { S i _ { 6 - z } A l _ { z } O _ { z } N _ { 8 - z } ; E u } ^ { 2 + }$ ， $\\mathrm { B a } _ { 2 } \\mathrm { L i S i } _ { 7 } \\mathrm { A l N } _ { 1 2 } \\mathrm { : E u } ^ { 2 + }$ and $\\mathrm { B a L i _ { 2 } ( A l _ { 2 } S i _ { 2 } ) N _ { 6 } { : } E u ^ { 2 + } }$ havehigh quantum efciency, narrow FWHM and excellent thermal stability.1-3 However, the preparation condition of these nitride or oxynitride phosphors is harsh，usually requires high nitrogen gas pressure， which restricts intensive study on their luminescent mechanisms and hampers the following development and applications. Therefore, more novel green phosphors are needed for pc-wLEDs. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Recently, a series of new nitride phosphors with $\\mathrm { U C r } _ { 4 } \\mathrm { C } _ { 4 }$ -related type structure have been discovered by Schnick and co-workers.4-8 These compounds， such as $\\mathrm { C a } ( \\mathrm { L i A l } _ { 3 } ) \\mathrm { N } _ { 4 }$ ， $\\mathrm { S r } ( \\mathrm { L i A l } _ { 3 } ) \\mathrm { N } _ { 4 }$ ， $\\mathrm { S r } ( \\mathrm { M g } _ { 3 } \\mathrm { S i } ) \\mathrm { N } _ { 4 }$ ， $\\mathrm { C a ( M g _ { 3 } S i ) N _ { 4 } }$ ， $\\mathrm { M } ( \\mathrm { M g } _ { 2 } \\mathrm { A l } _ { 2 } ) \\mathrm { N } _ { 4 }$ （ $\\scriptstyle \\mathbf { M } = \\mathbf { C } \\mathbf { a }$ ,Sr,Ba), $\\mathbf { B a } ( \\mathbf { M g } _ { 2 } \\mathbf { G a } _ { 2 } \\mathbf { N } _ { 4 } )$ have general formula $\\mathrm { \\bf A B C } _ { 3 } \\mathrm { \\bf X } _ { 4 }$ or $\\mathrm { A B } _ { 2 } \\mathrm { C } _ { 2 } \\mathrm { X } _ { 4 }$ . They have been proven to be promising red phosphors for pc-wLEDs with narrow emissions.Based on the discovery that the structure types of $\\mathrm { C a } ( \\mathrm { L i A l } _ { 3 } ) \\mathrm { N } _ { 4 }$ and $\\mathrm { S r ( M g _ { 3 } S i ) N _ { 4 } }$ are shared by $\\mathrm { N a L i _ { 3 } S i O _ { 4 } }$ ，and that of $\\mathrm { S r } ( \\mathrm { L i A l } _ { 3 } ) \\mathrm { N } _ { 4 }$ crystallizes in ${ \\mathrm { K L i } } _ { 3 } { \\mathrm { S i O } } _ { 4 }$ structure, Prof.Hubert Huppertz and co-workers described a dozen additional narrow-band representatives.9, 10 Three lithosilicate phosphors $\\mathrm { N a L i _ { 3 } S i O _ { 4 } { : } E u ^ { 2 + } }$ ， ${ \\mathrm { K L i } } _ { 3 } { \\mathrm { S i O } } _ { 4 } { : } { \\mathrm { E u } } ^ { 2 + }$ $\\mathrm { N a K _ { 7 } ( L i _ { 3 } S i O _ { 4 } ) _ { 8 } } { \\cdot } \\mathrm { E u } ^ { 2 + }$ （20 were reported to exhibits an ultra-narrow blue，a broad near-warm-white and a yellow-blue emission under excitation with near-UV or blue light. All these alkali lithosilicates show novel structure type with a highly condensed network of $\\mathrm { L i O _ { 4 } }$ and $\\mathrm { S i O _ { 4 } }$ tetrahedra and monovalent cations occupy vierer ring channels along [001]. ${ \\mathrm { E u } } ^ { 2 + }$ （20 ions substitute these alkali metal cations within the channels and the highly diverse luminescence was atributed to the complex extended but not the first coordination sphere of the replaced sites.10 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "From last year to early this year, several phosphors with the $\\mathrm { U C r } _ { 4 } \\mathrm { C } _ { 4 }$ -related type Structure werereported byProf.Zhiguo Xiaandhisco-workers.1-3Among them, phosphors with the compositions $\\mathrm { R b N a } _ { 3 } ( \\mathrm { L i } _ { 3 } \\mathrm { S i O } _ { 4 } ) _ { 4 } ; \\mathrm { E u } ^ { 2 + }$ and $\\mathrm { R b L i } ( \\mathrm { L i } _ { 3 } \\mathrm { S i O } _ { 4 } ) _ { 2 } \\mathrm { : E u } ^ { 2 + }$ （20 exhibit narrow-band blue and green emissions at $4 7 1 \\ \\mathrm { n m }$ (FWHM=22.4 nm), $5 3 0 \\mathrm { n m }$ $( \\mathrm { F W H M = } 4 2 \\ \\mathrm { \\ n m } )$ ，respectively.11，12 These two host compounds originate from $\\mathrm { N a _ { 4 } ( L i _ { 3 } S i O _ { 4 } ) _ { 4 } }$ and a quarter of $\\mathrm { { N a } }$ in $\\mathrm { N a _ { 4 } ( L i _ { 3 } S i O _ { 4 } ) _ { 4 } }$ are replaced by Rb atoms and it forms a crystal of $\\mathrm { R b N a _ { 3 } ( L i _ { 3 } S i O _ { 4 } ) _ { 4 } }$ belonging to a tetragonal $( I \\mathcal { H } / m )$ space group. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Similarly， all Na atomsin $\\mathrm { N a _ { 2 } ( L i _ { 3 } S i O _ { 4 } ) _ { 2 } }$ are substituted by Rb and Li atoms half-and-half to obtain RbLi $( \\mathrm { L i } _ { 3 } \\mathrm { S i O } _ { 4 } ) _ { 2 }$ . In these works,the mineral-inspired phosphor design principle was proposed. Inspired by the design concept, two other phosphors, $\\mathrm { R b N a _ { 2 } K ( L i _ { 3 } S i O _ { 4 } ) _ { 4 } \\cdot E u ^ { 2 + } } \\qquad \\mathrm { ( R N K L S O ; E u ^ { 2 + } ) } \\qquad \\mathrm { a n d } \\qquad \\mathrm { C s N a _ { 2 } K ( L i _ { 3 } S i O _ { 4 } ) _ { 4 } \\cdot E u ^ { 2 + } }$ （20 $( \\mathrm { C N K L S O : E u } ^ { 2 + } )$ was obtained by cation substitution. Apparently, a third of $\\mathbf { N a }$ atoms in $\\mathrm { R b N a _ { 3 } ( L i _ { 3 } S i O _ { 4 } ) _ { 4 } }$ was replaced by $\\mathrm { K }$ to produce RNKLSO,and Rb atom was kept being substituted by Cs to form CNKLSO. Photoluminescent (PL） properties of RNKLSO: ${ \\mathrm { E u } } ^ { 2 + }$ and CNKLSO: ${ \\mathrm { E u } } ^ { 2 + }$ phosphors are similar. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { M _ { 4 } ( L i _ { 3 } S i O _ { 4 } ) _ { 4 } }$ (M is denoted as one, two, or more alkali metal ions in Li, Na, K, Rb, Cs and the total atom number is 4) is the general formula of alkali lithosilicates with $\\mathrm { U C r } _ { 4 } \\mathrm { C } _ { 4 }$ -type structure.It has been found that different M cations exhibit different luminescent properties. Therefore, CKNLLSO:Eu²+ phosphor was synthesized by the cation substitution strategy in this paper. Starting from CNKLSO,half of Na atoms were replaced by Li to synthesize CKNLLSO. Under $3 9 5 \\mathrm { n m }$ UV LED excitation, the PL spectra of CKNLLSO: ${ \\mathrm { E u } } ^ { 2 + }$ consist of a dominate band with peak at $1 9 0 2 7 ~ \\mathrm { c m } ^ { - 1 }$ $( 5 2 5 ~ \\mathrm { n m } )$ withFWHM $\\mathrm { I } { = } 5 5 ~ \\mathrm { n m }$ and two minor shoulder bands peaking at $2 1 3 6 5 ~ \\mathrm { c m } ^ { - 1 }$ $( 4 6 8 ~ \\mathrm { n m } )$ and $2 0 8 1 3 ~ \\mathrm { c m } ^ { - 1 }$ （ $4 8 0 \\ \\mathrm { n m } )$ . Different from the blue light emitting property of $\\mathrm { C N K L S O : E u ^ { 2 + } }$ ，CKNLLSO: ${ \\mathrm { E u } } ^ { 2 + }$ gives green emission.In addition，its thermal quenching behavior was analyzed by configuration coordination diagram and optical properties of the fabricated LED devices were also discussed. All the results indicate that the CKNLLSO: ${ \\mathrm { E u } } ^ { 2 + }$ phosphor are promising green-emiting candidates for application in near-UVLEDs devices. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.Results and Discussion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { N a _ { 4 } ( L i _ { 3 } S i O _ { 4 } ) _ { 4 } }$ belongs to tetragonal system with $I 4 _ { 1 } / a$ (No.88) space group with $a { = } 1 0 7 8 . 4 ( 1 )$ and $c { = } 1 2 6 3 . 3 ( 1 ) \\ \\mathrm { p m }$ . Its crystal structure consists of a highly condensed network constructed by $\\mathrm { L i O _ { 4 } }$ and $\\mathrm { S i O _ { 4 } }$ tetrahedra and the ratio of the former to the latter is 3:1，leading to a high degree of condensation of $\\scriptstyle \\mathbf { K } = 1$ (atomic ratio of (Li,Si/O)). These tetrahedra form vierer ring channels along [OO1] direction by sharing corners,as shown in Figure 1(b). The channel contains one crystallographic site Nal and there are six $\\mathrm { L i O _ { 4 } }$ and two $\\mathrm { S i O _ { 4 } }$ tetrahedra around Na atom. It also has a ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$4 _ { 1 }$ screw axis in its center and the screw axis is not aligned with Na-strands. The asymmetry leads to a variance of the Na-O bond lengths from 243.81 to $2 7 3 . 4 2 \\mathrm { p m }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d929a4bac412c7a31c3762e600f94a2e12b200710ca710d8d885928b63f916cb.jpg",
+        "img_caption": [
+            "Figure 1. Na-strands viewed in the [OO1] direction in $\\mathrm { N a _ { 4 } ( L i _ { 3 } S i O _ { 4 } ) _ { 4 } }$ (a) and its crystal structure (b, c)． Schematic illustration ofthecomposition transformation from $\\mathrm { N a _ { 4 } ( L i _ { 3 } S i O _ { 4 } ) _ { 4 } }$ to CsKNaLi $( \\mathrm { L i } _ { 3 } \\mathrm { S i O } _ { 4 } ) _ { 4 }$ (from b to d).Na-Li-strands and Cs-K-strands viewed in the [OO1] direction in CsKNaLi $( \\mathrm { L i } _ { 3 } \\mathrm { S i O } _ { 4 } ) _ { 4 }$ (e) and its crystal structure (d, f). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Starting from $\\mathrm { N a _ { 4 } ( L i _ { 3 } S i O _ { 4 } ) _ { 4 } }$ ， three-fourths of Na atoms were substituted by Cs,K and Li with equal amount, resulting in a new phase CKNLLSO. It crystallizes in tetragonal system, I4/m (No.87） space group with $a { = } 1 1 0 2 . 0 ( 6 )$ and $c { = } 6 3 7 . 9 ( 5 )$ pm. Similarly, its structure is compose of $\\mathrm { L i O _ { 4 } }$ and $\\mathrm { S i O _ { 4 } }$ tetrahedra in the ratio of 3:1 with a high degree of condensation ( $\\mathrm { { \\widetilde { \\mathbf { K } } } } = 1$ ， i.e.，atomic ratio $( \\mathrm { L i } , \\mathrm { S i } / \\mathrm { O } ) { = } 1 \\$ ). There are two types of channels designated as CHl and CH2 (Figure 1(e)) in the unit cell and they can be identified by their central cations.Na and Li atoms are located in the center of the first type of channel CH1 and Cs, K atoms occupy the central position of CH2. As illustrated in Figure 1(e), Na and Li atoms are arranged alternatively and surrounded by equal numbers of $\\mathrm { S i O _ { 4 } }$ and $\\mathrm { L i O _ { 4 } }$ tetrahedra sharing oxygen vertexes. In CH2, alternating $\\mathrm { C s }$ and $\\mathrm { \\sf ~ K }$ atoms are only surrounded by $\\mathrm { L i O _ { 4 } }$ tetrahedra. Both of CH1 and CH2 contain two crystallographic sites，Li3 and Nal site, Cs1 and K1 site, respectively. The symmetry of these two channels is different from that of the channel in $\\mathrm { N a _ { 4 } ( L i _ { 3 } S i O _ { 4 } ) _ { 4 } }$ . All the cation sites in CKNLLSO are aligned along an 4 inversion axis,as can be seen from the Na-Li-strands and Cs-K-strands given in Figures 1(e) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "and 1(f). CH2 is constructed only by $\\mathrm { L i O _ { 4 } }$ tetrahedra,which can be attributed to the larger size of $\\mathrm { C s }$ and K cations than Na. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/035312a52e543cf024f34d897edbd7210e31a0404f3753e2cb1670dc9ee9df1b.jpg",
+        "img_caption": [
+            "Figure 2. XRD patterns of CKNLLSO: $\\mathrm { x \\% E u } ^ { 2 + }$ and ICSD-74863 as the reference (a). Experimental (black crosses),calculated (red solid line） XRD pattrns and their difference (blue solid line) for Rieveld refinement for CKNLLSO: $4 \\% \\mathrm { E u } ^ { 2 + }$ , the short magenta vertical lines show the position of Bragg reflections of the calculated paterns (d). Band structure of CKNLLSO (b) and EKNLLSO (e). DOSs curves for CKNLLSO (c) and EKNLLSO (f). "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In order to explore crystal phase， the X-ray diffraction (XRD） patterns of CKNLLSO: $\\mathrm { x \\% E u ^ { 2 + } }$ （ $\\scriptstyle \\mathbf { \\chi } = 0 . 1$ , 0.5,1, 2, 5, 6) and the reference ICSD-74863 are shown in Figure 2(a). It can be found that all the diffraction peaks positions of the samples match well with that of the single crystal. The dopant of ${ \\mathrm { E u } } ^ { 2 + }$ did not bring about any impurities and not cause significant transformation in the crystal structure even though the doped concentration of ${ \\mathrm { E u } } ^ { 2 + }$ has been as high as $6 \\%$ . In order to obtain actual crystal structure of as-synthesized samples， structure refinement of CKNLLSO: $4 \\% \\mathrm { E u } ^ { 2 + }$ was carried out by GSAS program with ICSD-74863 as starting model. The raw data of experimental spectrum and calculated data were represented by black crosses and a red line, respectively. There is a swelling appeared in the range from $1 6 ^ { \\circ }$ to $3 7 ^ { \\circ }$ ， which is caused by Si substrate of X-ray diffractometer and it has been deducted as a part of background. By comparing the experimental and calculated spectra, it can be seen that each diffraction peak is in accordance with the positions of ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Bragg reflection and no impurity phase was found, indicating the sample crystallized in single phase. The calculated reliability factors of the refinement is $R _ { \\mathrm { p } } { = } 3 . 2 6 \\%$ $w R _ { \\mathrm { p } } { = } 4 . 7 8 \\%$ ，and $\\chi ^ { 2 } \\ = 3 . 2 5 1$ . Detailed information about the processing of the refinement and the crystallographic information file (CIF) of CKNLLSO are provided in Supporting Information. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In order to understand light absorption capability of the samples, the band structure of the CKNLLSO and EuKNaLi $( \\mathrm { L i } _ { 3 } \\mathrm { S i O } _ { 4 } ) _ { 4 }$ (EKNLLSO） host compounds calculated by density functional theory (DFT)-generalized gradient approximations (GGA) method is given in Figures 2(b) and 2(e). It predicted an indirect band gap $( E _ { \\mathrm { g } } )$ of $5 . 0 1 5 \\ \\mathrm { e V }$ for CKNLLSO host, with the conduction band bottom and valence band maximum located at $\\mathbf { k }$ -point $\\mathbf { G }$ and near $\\mathbf { k }$ -point G, respectively. Figures 2(c) and 2(f) illustrate the calculated total and orbital projected densities of states (DOS） for CKNLLSO and EKNLLSO. The valence band maximum is mainly composed by 2p orbital of O atom and the bottom of conduction band is dominated by Li 1s, Na 2s, K 3s and 3p and Cs 5p orbitals.Figure 2(e) depicts the band structure of EKNLLSO host, and unit cell was used to calculate its electronic structure because of lower costs. Therefore only Cs atom was replaced by ${ \\mathrm { E u } } ^ { 2 + }$ ions in the unit cell and band gap was decreased to be $4 . 3 9 5 \\ \\mathrm { e V }$ after the dopant. The introduction of Eu did not spin polarize the valence band noticeably， but triggered a spin polarization of the conduction. The corresponding spin-polarized DOS is given in Figure 2(f) and O 2p orbitals form the main components of valence band top,which is similar to that of EKNLLSO host. However, the conduction band minimum primarily consist of the majority spin Eu 5s, 5p,4d and the minority spin Eu 4d, 5p, 4f orbitals. It indicates that electron transitions will occur from O 2p to Eu 4f orbital under UV radiation, forming O-Eu charge transfer band. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7e63558a86d7a96573342502b19dd46bbab6d5df676fc1d3f33f02ec9f5acc6.jpg",
+        "img_caption": [
+            "Figure 3.7Li solid-state NMR spectra (a); SEM images of CKNLLSO: $4 \\% \\mathrm { E u } ^ { 2 + }$ (b); Mass percent of the main elements by ICP-MS analysis (c); EDS elemental mapping images of the CKNLLSO: $4 \\% \\mathrm { E u } ^ { 2 + }$ particle (d). "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In Figure 3(a), $^ 7 \\mathrm { L i }$ solid-state NMR spectra of CKNLLSO: $4 \\% \\mathrm { E u } ^ { 2 + }$ gives an asymmetric broad peak and Li chemical shift lies in 1.29,indicating that Li was incorporated in the structure. From the scanning electron microscopy (SEM) images in Figure 3(b),it can be suggested that the particle size of CKNLLSO: $4 \\% \\mathrm { E u } ^ { 2 + }$ phosphor is ${ \\approx } 3 { \\cdot } 8 ~ \\mu \\mathrm { m }$ with smooth surface and irregular shape.Figure 3(d) presents the energy dispersive $\\mathrm { \\Delta } X$ -ray spectrometer (EDS) mapping images of the CKNLLSO: （20 $4 \\% \\mathrm { E u } ^ { 2 + }$ particles. Combining the six images with $^ 7 \\mathrm { L i }$ solid-state NMR spectra, it can be concluded that the chemical compositions of the sample are Cs, Si, Eu,K, Na, O and Li. Moreover, these elements are distributed evenly in the as-synthesized samples. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Wavelength   \n(a)450 500 550 600 650 700 750 (b) C x=0.5% x=0.1% 0.9 1.0 2.0k 2.0k (Ose 。 x=5 LL 1.0   \n(nee) iseetu =% Eu2\\* concentration 。 FgaNe X=5% 0.7 x=6% 1.9k 0.6 1.8k =397nm 0.5 1.8k 0.4- 1.7k 0.0 0.3 1.6k d 450 Wavelength(nm50 700750 (e) Eu2² concentratior()s) 5 6 D 1000 2000 300m(40000 5000 6000 7000 100 PL spect121364.76 x=0.1%   \n(nre) iisueiu FtPeak20812.83 (ne) rnieatu x=0.5% e x=0.1% Cumulative Fit Peak x=2% x=0.5% x=4% x=1% x=5% x=2% =397 nm x=6% x=4% x=5% x=6% em= 525nm 20- 01 2322212019181716151413 200250300350400450500 200 300 400 500 600 700 800 Wavenumber $( \\times 1 0 ^ { 3 } \\mathsf { c m } ^ { - 1 }$ ） Wavelength (nm) Wavelength (nm) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Figure 4. The PL spectra of CKNLLSO: $\\mathrm { x } \\% \\mathrm { E u } ^ { 2 + }$ (a) and the dependence of normalized integrated emission intensity and FWHM values on the concentrations of ${ \\mathrm { E u } } ^ { 2 + }$ (b). The insert is the digital photographs of CKNLLSO: $\\mathrm { x \\% E u } ^ { 2 + }$ under natural (upper) or $3 6 5 ~ \\mathrm { { n m } }$ UV light (lower). The decay and fitting curves of CKNLLSO: $\\mathrm { x \\% E u ^ { 2 + } }$ $\\mathrm { \\langle { x } } { = } 2 , 4 , 5$ ）under $3 9 7 ~ \\mathrm { n m }$ irradiation, monitored at 525 nm. (c) The Gaussian peaks fitting of the PL spectra of CKNLLSO: $4 \\% \\mathrm { E u } ^ { 2 + }$ (d). The PLE (e) and diffuse reflection spectra (f) of CKNLLSO: $\\mathrm { x \\% E u } ^ { 2 + }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Figure 4(a) shows the photoluminescence (PL） spectra of CKNLLSO: $\\mathrm { x \\% E u ^ { 2 + } }$ 0 $\\scriptstyle \\mathbf { \\chi } = 0 . 1$ ，0.5，1，2,4,5,6) under excitation at $3 9 7 \\ \\mathrm { n m }$ ，which demonstrating the optimization of the doped ${ \\mathrm { E u } } ^ { 2 + }$ concentrations. The PL spectrum exhibits an asymmetric emission band centered at $5 2 5 ~ \\mathrm { n m }$ with a shoulder peak at about $4 8 2 ~ \\mathrm { n m }$ All the profiles of emission spectra are same except for their intensities.In Figure 4(d), the PL spectrum of CKNLLSO: $4 \\% \\mathrm { E u } ^ { 2 + }$ was fitted and divided into three Gaussian peaks at $2 1 3 6 4 . 7 6 \\ \\mathrm { c m } ^ { - 1 }$ （ $\\cdot 4 6 8 \\ \\mathrm { n m } ,$ ， $2 0 8 1 2 . 8 3 ~ \\mathrm { c m } ^ { - 1 }$ （ $4 8 0 . 5 \\ \\mathrm { n m } )$ and $1 9 0 2 7 . 3 0 \\ \\mathrm { c m } ^ { - 1 }$ （204号 $( 5 2 5 . 6 ~ \\mathrm { n m } )$ . It has been known that monovalent cations in lithosilicates are suitable for doping with ${ \\mathrm { E u } } ^ { 2 + }$ .10,13 Therefore in CKNLLSO host, there are three cation sites provided for ${ \\mathrm { E u } } ^ { 2 + }$ entering, $\\mathrm { { N a } ^ { + } }$ in the first type of channel CH1, and $\\mathrm { K } ^ { + }$ ， ${ \\mathrm { C s } } ^ { + }$ in the second one CH2. The surroundings of the three possible sites show great similarities and these sites exhibit an eight-fold coordination regarding oxygen in the first coordination sphere.All of these three sites $\\mathrm { { N a } ^ { + } }$ ， $\\mathrm { K } ^ { + }$ ， ${ \\mathrm { C s } } ^ { + }$ exhibit a cuboid $( \\mathrm { K } ^ { + } , \\mathrm { C s } ^ { + } )$ or a slightly deformed cuboid coordination $\\left( \\mathrm { N a } ^ { + } \\right)$ regarding of oxygen (Figure S1). The bond lengths of Na-O fall between 2.5019 and 2.6745 $\\mathring \\mathrm { A }$ ，which is a slightly small space for ${ \\mathrm { E u } } ^ { 2 + }$ cations. In addition, $\\mathrm { { N a } ^ { + } }$ was surrounded by four $\\mathrm { L i O _ { 4 } }$ and four $\\mathrm { S i O _ { 4 } }$ （204号 tetrahedra, and both ${ \\mathrm { C s } } ^ { + }$ and $\\mathrm { K } ^ { + }$ show octahedral coordination by eight $\\mathrm { L i O _ { 4 } }$ .In comparison with lithium, the ${ \\mathrm { S i } } ^ { 4 + }$ cations have a higher partial charge and therefore exhibit a more rigid positioning in the anionic framework. It will lead to a stronger interaction between central cation positions and $\\mathrm { S i O _ { 4 } }$ tetrahedra. Therefore， the narrow-band weak emission of CKNLLSO: ${ \\mathrm { E u } } ^ { 2 + }$ peaking at $4 8 0 . 5 ~ \\mathrm { \\ n m }$ should originate from ${ \\mathrm { E u } } ^ { 2 + }$ occupying $\\mathrm { { N a } ^ { + } }$ sites. Different from $\\mathrm { { N a } ^ { + } }$ ， $\\mathrm { K } ^ { + }$ and ${ \\mathrm { C s } } ^ { + }$ give a symmetric cuboid coordination towards oxygen (Figure S1) and lengths of K-O and Cs-O bonds are 2.8521 and 3.0917, respectively. Adequate spaces for ${ \\mathrm { E u } } ^ { 2 + }$ can be provided in $\\mathsf { K O } _ { 8 }$ and $\\mathrm { C s O _ { 8 } }$ octahedra in CKNLLSO host. Figure 1(a) illustrates that the intensity changes of the main and shoulder emission bands with the increasing ${ \\mathrm { E u } } ^ { 2 + }$ concentrations are different. As concentration of ${ \\mathrm { E u } } ^ { 2 + }$ was increased from $0 . 1 \\%$ （204号 to $6 \\%$ , intensity of emission band at $5 2 5 \\mathrm { n m }$ was raised sharply firstly and then gets to the maximum when the dopant of ${ \\mathrm { E u } } ^ { 2 + }$ .i $4 \\%$ . However, intensity of the shoulder band also increased first and then decreased, but the content of ${ \\mathrm { E u } } ^ { 2 + }$ corresponding to the maximum is $1 \\%$ . From this point of view, the main and shoulder emission bands should be atributed to 4f-5d transitions of ${ \\mathrm { E u } } ^ { 2 + }$ at $\\mathrm { C s }$ and K sites, respectively. This is because the space of $\\mathsf { K O } _ { 8 }$ octahedron is smaller than that of $\\mathrm { C s O _ { 8 } }$ ，which caused luminescence concentration quenching more easily. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The dependence of normalized integrated emission intensity and FWHM values of the main emission band on the concentrations of ${ \\mathrm { E u } } ^ { 2 + }$ was illustrated in Figure 4(b). FWHM values were expressed in units of wave number and that for CKNLLSO: $4 \\% \\mathrm { E u } ^ { 2 + }$ is $1 9 9 5 ~ \\mathrm { c m } ^ { - 1 }$ (from 500 to $5 5 5 \\ \\mathrm { n m }$ )，which is a very narrow-band gren emiting phosphor. The digital photographs of all samples under natural and UV light were given in Figure 4(c) and they look very bright. The decay curves of CKNLLSO: $\\mathrm { x } \\% \\mathrm { E u } ^ { 2 + } \\ ( \\mathrm { x } { = } 2 , 4 , 5 )$ monitoring $5 2 5 ~ \\mathrm { n m }$ green light under excitation at $3 9 7 ~ \\mathrm { n m }$ were given in Figure 4(a). They can be fited using first-order exponential decay formula:14 ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI ( t ) = I _ { 0 } + A \\exp ( - t / \\tau )\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $I ( \\mathfrak { t } )$ and $I _ { 0 }$ are the luminescence intensity at time $t$ and $t { \\gg } \\tau , A$ is a constant, and $\\tau$ is the decay time for an exponential component. Using formula (1),the lifetime values for CKNLLSO: $\\mathrm { \\Delta } \\mathrm { x } \\% \\mathrm { E u } ^ { 2 + }$ $\\mathrm { ( x = 2 , ~ 4 , ~ 5 ) }$ ） phosphors are 0.907, 0.927, 0.905 μs, respectively， which paralleled with the changing trend of PL intensity. The photoluminescence excitation (PLE） and diffuse reflection spectra of CKNLLSO: （204号 $\\mathrm { x \\% E u } ^ { 2 + }$ （ $\\mathrm { \\ddot { x } } = 0 . 1$ ,0.5,1,2,4,5,6) are depicted in Figure 4(e) and 4(f). The PLE spectra monitored at $5 2 5 \\mathrm { n m }$ show broad bands from 250 to $5 0 0 \\mathrm { n m }$ ，demonstrating their wide spectral response range and they can be excited by UV or blue light. The light absorption ability of the samples can be also reflected from diffuse reflection spectra. As shown in Figure 4(f), with the increasing ${ \\mathrm { E u } } ^ { 2 + }$ contents, the intensity of absorption bands keeps growing. It elucidates concentration quenching is the reason for the decrease in emission intensity when concentration of ${ \\mathrm { E u } } ^ { 2 + }$ is larger than $4 \\%$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0a65ecc43d79b66310bc6039f13609babc79ede2664eeb3220e48a2c610f7e5.jpg",
+        "img_caption": [
+            "Figure 5. Schematic energy level diagram for ${ \\mathrm { E u } } ^ { 2 + }$ ions in CKNLLSO crystal (a). 5d orbital shapes d ${ \\mathrm { E u } } ^ { 2 + }$ centered in cuboid coordination towards oxygen and $\\mathrm { C s ( K , N a ) O _ { 8 } }$ polyhedron (b). "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Based on the discussion above, it has been known that ${ \\mathrm { E u } } ^ { 2 + }$ entered $\\mathrm { C s }$ and K sites in $\\mathrm { C s O _ { 8 } }$ and $\\mathsf { K O } _ { 8 }$ cuboid coordination environment,in which 5d energy splitting of ${ \\mathrm { E u } } ^ { 2 + }$ happens influenced by cubic crystal field. Due to the different shapes and directions of 5d orbits, the effects of ${ \\mathrm { E u O } } _ { 8 }$ cubic crystal field on the five orbits are different. The maximum values of $d _ { \\mathrm { x y } } , d _ { \\mathrm { y z } } , d _ { \\mathrm { x z } }$ face the center of cubic edge,and those of $d _ { x ^ { 2 } - y ^ { 2 } }$ ， $d _ { z ^ { 2 } }$ point towards the center of cubic surface. Therefore $d _ { \\mathrm { x y } } , d _ { \\mathrm { y z } } , d _ { \\mathrm { x z } }$ are closer to oxygen ligand than $d _ { x ^ { 2 } - y ^ { 2 } }$ ， $d _ { z ^ { 2 } }$ and the 5d orbits split into two groups, as shown in Figure 5. The transitions from $4 f$ to $d _ { \\mathrm { x y } }$ $\\operatorname { \\boldsymbol { \\mathbf { \\rho } } } _ { \\mathrm { x y } } , \\ d _ { \\mathrm { y z } } , \\ d _ { \\mathrm { x z } }$ and $d _ { x ^ { 2 } - y ^ { 2 } }$ ， $d _ { z ^ { 2 } }$ orbits generated two absorption bands at $3 5 2 1 1 ~ \\mathrm { { \\ c m } ^ { - 1 } }$ ， $2 7 3 8 2 ~ \\mathrm { { c m } ^ { - 1 } }$ ，respectively. The barycenter energy of $4 f ^ { 6 } 5 d$ can be calculated to be ( $( 3 5 2 1 1 \\times 3 + 2 7 3 8 2 \\times 2 ) / 5 = 3 2 0 7 9$ （204 $\\mathrm { c m } ^ { - 1 }$ . Combined with the emission band presented in Figure 4(a)， Stoke shift was calculated to be $8 3 5 5 { \\mathrm { c m } } ^ { - 1 }$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b82545eb091277e652ee5b96825b4f86d8505dfb6a8b70cbe1104d27c672313.jpg",
+        "img_caption": [
+            "Figure 6. Temperature-dependent PL spectra of CKNLLSO: $4 \\% \\mathrm { E u } ^ { 2 + }$ under $3 9 7 { \\mathrm { n m } }$ in the range of $3 0 { - } 2 1 0 ~ ^ { \\circ } \\mathrm { C }$ with an interval of $2 0 ~ ^ { \\circ } \\mathrm { C }$ (a,c). Temperature-dependent normalized integrated PL and normalized peak ( $\\left[ 5 3 0 \\mathrm { n m } \\right]$ intensities of CKNLLSO: $4 \\% \\mathrm { E u } ^ { 2 + }$ (b). The fited activation energy for the thermal quenching of CKNLLSO: $4 \\% \\mathrm { E u } ^ { 2 + }$ by the Arrhenius equation (d). "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The thermal stability of phosphors is the key component for high power applications. Temperature-dependent $\\mathrm { P L }$ spectra of CKNLLSO: $4 \\% \\mathrm { E u } ^ { 2 + }$ under 397 nm radiation are illustrated in Figure 6(a) and 6(c). The sample exhibits a relatively good thermal stability and the integrated PL and peak( $( 5 2 5 \\ \\mathrm { \\ n m } )$ ）intensity of CKNLLSO: $4 \\% \\mathrm { E u } ^ { 2 + }$ at $1 9 0 ~ ^ { \\circ } \\mathrm { C }$ is about $6 1 . 2 \\%$ ， $6 0 . 6 \\%$ of its value at $3 0 ~ ^ { \\circ } \\mathrm { C }$ respectively. In addition， the emission spectra is blue-shifted as the increasing temperature,which can be ascribed to the thermally active phonon-assisted tunnel from the lower energy emission bands to higher energy ones in the excited states of Eu2+. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The PL intensity of the samples can be fitted by the Arrhenius equation:15 ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { \\mathrm { T } } / I _ { 0 } = [ 1 { + } A e x p ( { - } \\varDelta E / k T ) ] ^ { - 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "where $I _ { \\mathrm { T } }$ and $I _ { 0 }$ are the PL intensity at temperature $\\mathrm { \\Delta T }$ and room temperature, respectively. $A$ is a constant, $\\varDelta E$ is the activation energy for thermal quenching and $k$ is Boltzmann constant. As shown in Figure 6(d), $\\varDelta E$ was calculated to be $0 . 2 3 2 8 \\ \\mathrm { e V }$ by aid of the PL intensity change versus temperature，indicating that the thermal quenching in CKNLLSO: $4 \\% \\mathrm { E u } ^ { 2 + }$ is more likely to occur compared with that in $\\mathrm { R N K L S O : E u } ^ { 2 + }$ . However, in comparison with $\\mathrm { C N K L S O : E u } ^ { 2 + }$ , the situation is a liter better.13 ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/666a6cebcdfa709b276cb727390320c6c6200144a249b5a02810528797cecbe6.jpg",
+        "img_caption": [
+            "Figure 7. Emission spectra of green LED fabricated by CKNLLSO: $4 \\% \\mathrm { E u } ^ { 2 + }$ phosphor under a current of $1 0 0 \\ \\mathrm { \\ m A }$ (a)．The inset shows the photographs of the corresponding LEDs.CIE chromaticity diagram of the green LED (b). "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In order to further discuss the perspectives of CKNLLSO: ${ \\mathrm { E u } } ^ { 2 + }$ in lighting and display applications, the optimized phosphor was mixed with epoxy and coated on the near-UV chips ( $\\lambda { = } 3 9 5 ~ \\mathrm { n m }$ ). The emission spectra of the fabricated single-color LED consists of two emission bands at blue and green regions, emitting an intensive green light observed with the naked eyes. Its chromaticity coordinate was (O.232O, 0.6016) and correlated color temperature was calculated to be $7 3 1 4 \\mathrm { ~ K ~ }$ ，The phosphors are suitable candidates as green components of the WLEDs to produce full spectrum emission. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In conclusion,a novel $\\mathrm { U C r } _ { 4 } \\mathrm { C } _ { 4 }$ -related type silicate-based CKNLLSO: ${ \\mathrm { E u } } ^ { 2 + }$ （204 phosphor was prepared and it exhibits a narrow-band green emission at $5 2 5 ~ \\mathrm { n m }$ with $\\mathrm { F W H M } = 5 5 \\mathrm { n m }$ . It exhibits a structure type with a highly condensed network of $\\mathrm { L i O _ { 4 } }$ and $\\mathrm { S i O _ { 4 } }$ tetrahedra forming anionic framework. The cation sites located in vierer ring channels along [OO1] direction. The narrow-band green emission originating from 5d to 4f transitions of ${ \\mathrm { E u } } ^ { 2 + }$ at $\\mathrm { C s }$ sites is related to the high degree of condensation of $\\scriptstyle \\mathbf { K } = 1$ and cubic sites for ${ \\mathrm { E u } } ^ { 2 + }$ ions. The 5d energy levels of ${ \\mathrm { E u } } ^ { 2 + }$ split into two groups in the cubic coordination crystal field and barycenter energy of $4 f ^ { 6 } 5 d$ was calculated to be $3 2 0 7 9 ~ \\mathrm { c m } ^ { - 1 }$ . The CKNLLSO: ${ \\mathrm { E u } } ^ { 2 + }$ phosphor gives a relatively good thermal stability and it is suitable candidate for green component of the backlighting LEDs to realize full spectrum emission. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "1.Strobel,P.; Schmiechen,S.; Siegert, M.; Tucks,A.; Schmidt,P.J.; Schnick,W., Narrow-Band Green Emitting NitridolithoalumosilicateBa[Li2(Al2Si2)N6]:Eu2+withFramework Topologywhjfor LED/LCD-Backlighting Applications. Chemistry of Materials 2015,27,(17), 6109-6115.   \n2.Takeda，T.； Hirosaki，N.；Funahshi， S.； Xie，R.-J.，Narrow-Band Green-Emitting Phosphor Ba2LiSi7AIN12:Eu2+ with High Thermal Stability Discovered bya Single Particle Diagnosis Approach. Chemistry of Materials 2015,27,(17), 5892-5898.   \n3．Hirosaki，N.； Xie，R.-J.； Kimoto，K.； Sekiguchi，T.； Yamamoto，Y.； Suehiro，T.；Mitomo，M, Characterization and properties of green-emitting $\\beta$ -SiAION:Eu2+ powder phosphors for white light-emitting diodes. Applied Physics Letters 2005,86,211905.   \n4.Pust, P.; Weiler,V.; Hecht, C.; Tucks,A.; Wochnik, A. S.; Henss,A. K.; Wiechert,D.; Scheu, C.; Schmidt， P. J.； Schnick，W.，Narrow-band red-emitting $\\mathsf { S r } [ \\mathsf { L i A l } ( 3 ) \\mathsf { N } ( 4 ) ] { : \\mathsf { E u } ( 2 ) ( + ) }$ as a next-generation LED-phosphor material. Nature materials 2014,13,(9),891-6.   \n5.Pust, P.; Hintze,F.; Hecht, C.; Weiler, V.; Locher, A.; Zitnanska, D.; Harm,S.; Wiechert,D.; Schmidt, P. J.; Schnick,W.,Group (II) Nitrides M[Mg2Al2N4] ( $\\mathsf { M } = \\mathsf { C a }$ ,Sr,Ba,Eu) and Ba[Mg2Ga2N4]一Structural Relation and Nontypical Luminescence Properties of $\\mathsf { E u 2 + }$ Doped Samples.Chemistry of Materials 2014,26,(21), 6113-6119.   \n6.Pust, P.； Wochnik,A. S.； Baumann,E.； Schmidt，P. J.; Wiechert, D.； Scheu,C.； Schnick，W, Ca[LiAl3N4]:Eu2+一A Narrow-Band Red-Emiting Nitridolithoaluminate. Chemistry of Materials 2014, 26,(11),3544-3549.   \n7.Schmiechen,S.; Schneider t,H.; Wagatha,P.; Hecht, C.; Schmidt, P.; Schnick \\*t,W., Toward new phosphors for application in ilumination-grade white pc-LEDs: The nitridomagnesosilicates Ca[Mg3SiN4]:Ce3+， $\\mathsf { S r } [ \\mathsf { M g 3 5 i N 4 } ] { : } \\mathsf { E u } 2 +$ ，and Eu[Mg3SiN 4]. Chemistry of Materials 2014，26, 2712-2719.   \n8. Tolhurst,T. M.; Boyko,T. D.; Pust, P.; Johnson, N.W.; Schnick,W.; Moewes,A., Investigationsof the ElectronicStructureandBandgapoftheNext-GenerationLED-Phosphor Sr LiAl3N4 : $\\mathsf { E u 2 + }$ -Experiment and Calculations.Adv. Opt. Mater. 2015,3,(4), 546-550.   \n9． SEIBALD, M.; BAUMANN, D.; FIEDLER, T.; LANGE, S.; HUPPERTZ, H.; DUTZLER, D.; SCHRODER,T.; BICHLER,D.; PLUNDRICH, G.; PESCHKE,S.; HOERDER, G.; ACHRAINER, G.; WURST, K. Lighting devices using phosphors and their use as backlights.2018.   \n10.Dutzler， D.； Seibald，M.； Baumann，D.； Huppertz，H.，Alkali Lithosilicates: Renaissance of a Reputable Substance Class with Surprising Luminescence Properties. Angewandte Chemie International Edition 2018,57,(41),13676-13680. 11.Liao, H.; Zhao, M.; Molokeev, M.S.; Liu, Q.; Xia, Z, Learning froma Mineral Structure toward an Ultra-Narrow-Band Blue-Emiting Silicate Phosphor RbNa3(Li3SiO4)4:Eu2+.Angewandte Chemie 2018, 130, 11902-11905.   \n12. Zhao，M.； Liao，H.； Ning，L.； Zhang，Q.； Liu，Q.； Xia， Z.，Next-Generation Narrow-Band Green-Emitting RbLi(Li3SiO4)2:Eu2 $^ +$ Phosphor for Backlight Display Application.Advanced Materials 2018,30, 1802489.   \n13． Zhao,M.; Zhou, Y.; Molokeev, M. S.; Zhang, Q.; Liu,Q.; Xia, Z., Discovery of New Narrow-Band Phosphors with the UCr4C4-Related Type Structure by Alkali Cation Efect. Adv. Opt. Mater. 2018,0, 1801631.   \n14．Blasse,G.; Grabmaier, B. C., Luminescent Materials.Springer: Berlin,1994.   \n15.Bhushan,S.; Chukichev, M.V.,Temperature dependent studies of cathodoluminescence of green band of ZnO crystals.Journal of Materials Science Letters1988,7,(4),319-321. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

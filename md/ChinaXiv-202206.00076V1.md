@@ -1,0 +1,224 @@
+# 积极情绪提高背景线索学习的适应性
+
+陈晓宇1,2 杜媛媛1,2 刘强1,2
+
+（1四川师范大学脑与心理科学研究院，成都610000）（²辽宁师范大学脑与认知神经科学研究中心，大连116029）
+
+摘 要 背景线索的学习缺乏适应性，这种缺乏表现在两个方面：其一是难以在已习得的场景表征上捆绑一个新目标位置（Re-learming)，也就是场景表征的更新受阻；其二是在习得一组场景表征后，难以学习另一组全新场景（New-learming)。研究表明，在旧场景表征上捆绑一个新目标位置的能力可能与注意范围大小有关，而学习全新场景则需要重置学习功能。积极情绪可以有效扩大注意范围，并改善对旧有认知模式的固着，因此积极情绪启动将有可能提升背景线索学习的适应性。本研究采用效价为中性和积极的情绪性图片来启动对应的情绪，探索旧场景捆绑新目标位置时和学习全新场景时，背景线索的学习情况，验证积极情绪是否可以提高背景线索学习中的适应性。实验发现，积极情绪无法促进旧场景上捆绑新目标位置的背景线索学习（Re-learming)，但是可以促进全新场景的学习（New-learming)。该结果说明,积极情绪可以提高被试的场景学习能力进而促进对全新场景的学习，却无法减少由表征相似性引起的旧表征的自动检索，进而无法改善旧表征的更新过程。
+
+关键词背景线索，积极情绪，情绪启动，视觉搜索。
+
+# 1引言
+
+背景线索（Contextual Cueing）即可以引导注意的空间布局(Chun& Jiang,1998)。Chun和Jiang 总结前人基于现实生活现象的研究，推测视觉背景线索可以通过引导注意分配来提高视觉搜索任务的效率，并进行了一系列实验室验证。在他们的实验中，视觉场景被分为重复场景和新异场景两类。重复场景指的是场景中的目标和分心物位置相对固定，并在试次间重复出现；新异场景则是目标和分心物的位置在试次间随机变化。研究结果发现，相比于新异场景，重复场景的搜索反应时更短，这种现象被叫做背景线索效应（contextual-cuing effect)。背景线索效应表明在搜索过程中，被试习得了重复场景中的背景线索并利用这种背景线索提高了搜索效率(Chun&Jiang,1998)。随后,背景线索效应得到了大量研究的证实(Chun& Jiang,1999,2003; Olson & Chun,2001,2002)。
+
+背景线索的学习缺乏适应性（Adaptation)，具体有两种表现：一、在习得一组背景线索后，改变这些已习得的场景的目标位置，新目标位置相关的背景线索会很难被习得（Releaming)；二、在习得一组背景线索后,再学习一组全新的重复场景的背景线索（New-learning）会变得困难。Re-learning 困难是 Manginelli and Pollmann (2009)发现的，在他们的研究中，被试会事先习得一组背景线索，之后，仍沿用旧的分心物背景，而将目标位置改变到之前空白的地方，结果发现就算这些重复场景的搜索次数远超初次学习的次数，也无法产生背景线索效应，表明新目标位置相关的背景线索学习受到阻碍。另一项研究则发现被试在学习阶段进行 30 次重复场景搜索后，需要连续进行三天共 80 次的高强度练习才能在旧场景上建立新的场景-目标连结，表现出边缘显著的背景线索效应，而要达到和旧目标位置相同的背景线索效应量则需要连续练习7天(Zelin et al.,2014)。New-learming 条件下虽然也会表现出学习困难(Mednick et al.,2009),但是相比于和旧场景高度相似的 Re-learning 场景,New-learming的重复场景均为全新的场景，与大脑中的旧场景记忆表征完全不同。Zellinetal.(2013)发现，被试对于任务开始就呈现的重复场景，只需要2次重复就能够表现出边缘显著的背景线索效应，而在学习阶段进行15次重复场景搜索后，再给被试呈现一组全新的重复场景时，被试需要重复练习至少20次才可以产生边缘显著的背景线索效应。
+
+有多种方法可以改善背景线索学习的适应性。研究表明，高强度的练习、睡眠和安静休息可以促进全新场景的学习（New-learming)，原因是睡眠和安静休息可以在不同程度上重置认知控制功能，使学习功能重启(Mednick et al.,2009; Zellin et al.,2013)。然而，以上这些方法无法改善 Re-learning 困难(Zellin et al.,2013; Zellin et al.,2014)。一项研究发现，通过提高新目标刺激的凸显性可以使被试成功在Re-leaming 条件下习得更新后的背景线索。该研究通过提高新目标的亮度来吸引被试的注意，发现在改变已习得的场景的目标位置后，经过25次重复呈现，就可以产生背景线索效应。他们认为，高亮度的目标作为凸显刺激有效地吸引了被试注意，打破了固有注意模式并培养了新的注意模式，同时增加了对新目标的注意加工，最终促进了对旧场景记忆表征的更新，让被试形成了新目标位置与背景之间线索关系的全新记忆表征(Conci& Zellin,2021)。另一项研究直接对比了全局注意和局部注意时 Re-learming条件下的背景线索学习情况，表明当被试进行全局注意的时候，Re-leaming 的背景线索再学习变得容易起来，但是局部注意时被试仍然无法学习与新目标位置相关的背景线索表征，表明建立一个更全局的背景表征是让旧背景线索表征发生更新的重要条件(Zinchenko et al.,2020)。总的来说，目前的研究表明，在习得一组背景线索表征后，New-learning 的发生需要将认知控制功能转变为更加被动的状态，而要发生Re-leaming 则需要对新目标进行更多的
+
+注意加工或者对场景进行全局注意。
+
+积极情绪（positive emotion）会对个体的认知加工产生复杂广泛的影响(Ashby & Isen,1999; Goschke& Bolte,2014)。积极情绪是指具有正性效价的情绪，与人的需要被满足相联系，是一种愉悦的主观心理体验(郭小燕,王针宏,2007)。Bolte 和Goschke 认为，积极情绪会增加了多巴胺的释放，而多巴胺会作用于前额叶和纹状体分别导致降低了认知稳定性的降低以及认知灵活性的提高，最终导致认知控制对当前加工过程的保护程度的降低。他们尤其指出，任务不相关的积极情绪会将认知控制从保持现有加工和主动控制转化为灵活的更新和被动控制(Bolte & Goschke,2010; Dreisbach & Goschke,2004; Goschke & Bolte,2014)。积极情绪对认知控制模式的改变和睡眠与休息带来的改变有类似之处，因此有可能促进学习功能重新开始，进而提高背景线索的学习能力，尤其是促进New-learming。另一些研究发现，在积极情绪状态下，观察者的注意范围将会扩大(Bolte&Goschke,2010;Fredrickson& Branigan,2005)，并且可以根据任务要求增加对局部目标的加工(Baumann＆ Kuhl,2005)，因此，积极情绪可能对Re-learming条件下的背景线索学习也有促进作用。
+
+本研究将探索积极情绪能否提高背景线索学习中的适应性。实验将分为两阶段，学习阶段通过让被试完成经典的背景线索范式，形成背景线索的记忆表征；转换阶段将给被试呈现Re-learming（旧背景-新目标）和New-leaming（新背景-新目标）两种学习条件。同时，在这一阶段将设置中性情绪和积极情绪两种情绪状态条件，将中性情绪状态条件作为基线，通过对比这两种条件下背景线索学习的情况，探讨积极情绪状态对背景线索学习适应性的影响。我们假设，如果积极情绪状态可以提高背景线索学习的适应性，那么在转换阶段，相比于中性情绪状态条件，积极情绪状态条件下被试将以更快的速度建立背景线索效应。
+
+# 2 实验方法
+
+# 2.1被试
+
+Cohen (2013)将 $t$ 检验中的高效应量定义为Cohen's $\mathrm { d } = 0 . 8 0$ ，采用G\*Power 3.19 软件计算 Cohen's $d = 0 . 8 0$ 、 $\mathtt { a } = 0 . 0 5$ 、 $N = 1 8$ 时, $1 - \beta \approx 0 . 9 5$ 。因此，共招募18 名被试参加实验，其中男3人，女15人。平均年龄23.4岁（ $S D { = } 2 . 2 \rangle$ )。被试的视力或校正视力正常，均为右利手。实验后，被试获得一定报酬。被试在实验前需要签署知情同意书。研究得到辽宁师范大学伦理委员会批准。
+
+# 2.2实验材料和设备
+
+将采用具有情绪效价的图片进行情绪启动，这种条件下，因为图片是任务无关的，所以不会形成情绪性的记忆表征，可以排除情绪材料的记忆表征本身带来的干扰，单纯地探索情绪启动对内隐记忆前摄干扰的作用。情绪启动所用图片来自中国情绪图片库（CAPS）。从CAPS 中选取160 张情绪刺激图片，包含效价为正性、中性的图片各80 张，像素大小为$1 0 2 4 \times 7 6 8$ 。正性情绪图片包括可爱的婴儿、动物、优美的风景图片等，中性情绪图片有杯子、桌子图片等。
+
+视觉搜索任务中，采用与 Manginelli and Pollmann (2009)的相似的经典背景线索适应性研究范式，每个视觉搜索场景由12个刺激组成（包括11个不同旋转角度（0、90、180、270 度）的字母L 和1个向左或向右旋转90 度的字母 T)。所有刺激的颜色为黑色$( \mathrm { R G B } { = } 0 , 0 , 0 )$ ，视觉搜索背景为灰色 $( \mathrm { R G B } = 1 2 8 , 1 2 8 , 1 2 8 )$ 。实验中，被试眼睛和屏幕之间的水平距离为 $5 5 \mathrm { c m }$ ，字母 T、L的尺寸为 $1 . 3 { \times } 1 . 3 ^ { \circ }$ 视角，场景尺寸大小为 $3 7 . 2 { \times } 2 8 . 3 ^ { \circ }$ 视角。每个刺激随机抖动 $0 . 8 ^ { \circ }$ 视角以防共线。
+
+实验中使用的场景布局由计算机随机生成。将场景空间分为 $8 \times 6$ 的 48个元正方形组成的长方形区域，以屏幕中心点为原点，垂直坐标系的四个象限内各有12个元正方形。组成场景的刺激共有12个，包括1个目标刺激和11个分心刺激，均匀分布在场景空间的四个象限内。场景生成时，首先需要确定目标刺激的位置。48个元正方形中，在四个象限中各选择4个位置，共16个位置作为学习阶段的目标刺激出现的位置，再以相同方式在剩余的位置中选择16个作为积极情绪启动条件的目标位置，其余16个则作为中型情绪启动条件的目标位置。
+
+实验刺激由19时液晶显示器呈现，分辨率为 $1 0 2 4 \times 7 6 8$ ，刷新频率为 $6 0 \mathrm { H z }$ 。实验程序和行为反应使用计算机由E-prime 软件实现和记录。
+
+# 2.3实验设计和程序
+
+本实验的正式实验部分分为2个阶段，分别是学习阶段和转换阶段。首先进行学习阶段。学习阶段结束后是转换阶段，两个阶段之间没有提示。
+
+正式实验的第一个阶段是学习阶段，该阶段的实验目标是使被试习得一组背景线索，形成稳定的背景线索效应。本阶段共有16个目标位置，将在4个象限选择8个目标位置作为重复场景的目标位置，并在实验一开始随机生成8个场景，这8个场景在整个实验中不改变目标和分心物的位置，这就是重复场景。剩余8个目标位置作为新异场景的目标位置，虽然新异场景的目标位置固定，但是每个试次都将基于该试次的目标生成全新的分心刺激位置，因此配合这8个目标位置的分心物背景一直是变化的，被试无法利用分心物背景来指导注意。8个重复场景和8个新异场景组成共16 个试次的一个block，block 内的16 个场景以随机顺序出现。5个block 组成一个 epoch。初始学习阶段共进行3个 epoch，也就是15 个block，意味着每个重复场景在学习阶段重复出现15次。
+
+正式实验的第二阶段为转换阶段。该阶段的目标是探索在 New-learming 和 Re-learning条件下的背景线索学习是否受到积极情绪启动的影响。New-leaming 条件的重复场景与学习阶段的重复场景完全不同，包括分心物背景和目标位置。而Re-leaming 条件的重复场景中，分心物背景与学习阶段的相同，仅目标位置发生改变，同时，该条件下新的场景目标位置总在旧的场景目标位置的对角线象限(Zellin etal.,2013)（见图1)。
+
+上文已提及，积极情绪启动条件和中性情绪启动条件各有16个目标位置。每个条件的16个目标位置均分成2部分，8个用于New-learning 条件，8个用于Re-learning 条件。在此基础上，进一步将4个作为重复场景的目标位置，4个作为新异场景的目标位置。比如，积极情绪启动-New-learming 条件下，将包含4个重复场景目标和4个新异场景目标。重复场景和新异场景的生成方法与学习阶段的相同。
+
+该阶段的 New-learming 条件和Re-learning 条件将在一个block 内以随机顺序呈现。具体来说，每个 block 包含有4个 New-learning 场景、4个 Re-learning 和8 个新异场景。同样地，5个block 组成一个epoch。
+
+转换阶段的关键实验因素是情绪启动条件的情绪效价。实验中，每种情绪效价条件均包含7个epoch。相同效价的情绪启动条件作为一个整体连续呈现，直到完成所有该情绪效价条件下的试次后，才进行另一个效价的情绪启动条件。具体来说，正性情绪启动的7个epoch结束后，才开始中性情绪条件的呈现。这样做是为了尽量保证情绪状态的一致性。同时，为了消除顺序效应，积极情绪和中性情绪条件呈现的先后顺序进行了被试间平衡。
+
+总体来说，初始学习阶段共有3个epoch，共15个block。转换阶段包含正性情绪 epoch 共7个，共35个block，中性情绪epoch 亦7个，共35个block。整个实验共有1360 个试 次。实验流程见图2。
+
+![](images/928c4b7d4935ebbcfd320b61c6824ac19dfda9b13a1f0f817de8073dcf6fad31.jpg)  
+图1初始学习阶段和转换阶段的两种学习条件的场景布局
+
+另外，本研究并没有模仿经典的背景线索研究进行场景再认任务，这样做有两个理由。其一，场景再认任务是为了确定背景线索记忆是否是内隐的，而本研究的结果不涉及背景线索记忆的内隐或者外显特征。其二，研究表明，无论被试是否意识到了场景的规律性，是否可以外显地检索这些场景，这些场景表征都存储在同一个记忆系统中，都会在搜索时被利用，并且产生的背景线索效应也是一致的(Kroell et al.,2019)。
+
+![](images/7dc250cb197b1292530591cd05e50d90927e76a3f619216fc7763fbdcdf5261a.jpg)  
+图2实验流程图
+
+转换阶段的New-learning场景、Relearning 场景和新异场景一起进行混合随机呈现，同时积极情绪和中性情绪呈现的先后顺序进行了被试间平衡。
+
+开始实验前，参与实验的18名被试需先对情绪图片进行效价评定。分别对中性、正性图片进行效价的1到9 级的评分。评定效价时,"1"对应"非常不愉悦”,"9"对应"非常愉悦”。评定的目的是确保两组情绪图片之间的情绪效价差异显著。
+
+情绪效价评定任务之后，被试需进行20个试次组成的视觉搜索练习任务，该任务中场景均为随机生成，目的是让被试熟悉任务。
+
+练习结束后，开始正式实验。初始学习阶段，每个试次先呈现 ${ 5 0 0 } \mathrm { m s }$ 中央注视点，接着呈现视觉搜索场景，被试做出反应后自动消失，如被试不做反应，场景最长呈现5s。要求被试在L字母中寻找T并判断T的朝向。如果T向左旋转 $9 0 ^ { \circ }$ ，则按“J”键，如果T向右旋转 $9 0 ^ { \circ }$ ，则按“F”键，要求被试又好又快反应。如果被试在搜索场景呈现后5s仍未反应，判定为未反应试次，进入下一个新的试次。转换阶段在中央注视点和视觉搜索场景之间插入呈现2s 的情绪图片来启动相应的情绪，其他操作与初始学习阶段一致。每个block 结束后都会呈现休息画面，被试可按自身的需求进行休息。
+
+# 2.5数据分析
+
+采用 SPSS 20.0 软件进行数据分析。情绪评定任务方面，对18名被试的情绪图片评定结果进行配对样本 $\mathbf { \chi } _ { t }$ 检验，确定正性情绪和中性情绪之间的情绪效价区分度。反应时方面，首先对数据进行预处理，剔除5s内未作反应的试次，剔除高于或低于平均反应时3个标准差的数据。
+
+对预处理后的数据进行重复测量方差分析。
+
+学习阶段，将以反应时为因变量，进行 2（场景布局：重复场景；新异场景) $\times 3$ (Epoch:
+
+1\~3）被试内重复测量方差分析，以确定被试对场景的学习情况。
+
+转换阶段，将以背景线索效应值作为因变量，进行2（情绪效价：正性情绪和中性情绪) $\times 2$ （学习条件：New-learning 和 Re-learming） $\times 2$ （学习进程：早期和晚期）重复测量方差 分析。
+
+因变量背景线索效应（CC）定义为新异场景的平均反应时与重复场景的平均反应时的差值，即：
+
+背景线索效应（CC） $\mathbf { \tau } = \mathbf { R } \mathbf { T }$ （新异场景）-RT（重复场景）
+
+CC 可以反映被试对分心物背景的学习情况，当被试形成了背景线索的记忆表征，并且利用这些表征来提高搜索效率的时候，CC 将大于0。如果被试无法学习或利用背景线索，那么CC将等于0。同时，CC越大，表明被试对背景线索的学习和利用程度越好。
+
+转换阶段的每个情绪水平均由7个epoch组成，时间进程因素的早期定义为转换阶段前两个 epoch，晚期定义为转换阶段的最后两个epoch。这种安排可以提高单个条件的试次数量，获得更稳定的实验结果。如果发生了背景线索的学习，那么学习晚期就会出现背景线索效应，也就是大于0的CC。学习早期是否出现大于0的CC 则体现出学习速度的快慢。通过如上分析，可以确定影响CC的因素。将对每个条件的CC 和0进行单样本t检验，以确定在该条件下被试是否习得了新的背景线索。
+
+# 3实验结果
+
+# 3.1情绪图片评定结果
+
+情绪图片评定任务中，情绪图片评定结果表明，正性情绪图片的平均效价为5.82（ $\boldsymbol { S } \boldsymbol { D } =$ 0.65)，中性情绪图片的平均效价为5.03（ $S D = 1 . 1 2 \$ )。配对样本 $\mathbf { \chi } _ { t }$ 检验表明，正性和中性图
+
+片的效价存在显著差异！ $( t ( 1 7 ) = - 4 . 7 9 , p < 0 . 0 0 1 )$ ，表明正性情绪图片与中性情绪图片之间区分度良好，本研究所选取的图片合理。
+
+# 3.2视觉搜索任务结果
+
+被试的平均正确率为 $9 8 . 7 8 \%$ （ $S D = 0 . 0 2 \$ )，表明被试均很好地理解了实验任务并可以顺利完成实验。去掉每个被试未作反应的试次和反应时超过总体平均反应时3个标准差范围的试次后，每个被试剩余试次数量的均值为1317个（ $S D = 2 6$ ）
+
+# 1）学习阶段
+
+学习阶段，以反应时为因变量，进行2（场景布局：重复场景、新异场景） $\times 3$ （时间进程：epoch1\~3）的二因素重复测量方差分析，判断不同场景布局随着时间进程的变化对被试反应时的影响。经Mauchly's球形假设检验，对于交互项场景布局 $\times$ 时间进程以及时间进程因素，因变量的方差协方差矩阵相等 $( p > 0 . 0 5 )$ 。重复测量方差分析结果表明，场景布局的主效应显著 $( F ( 1 , 1 7 ) = 4 6 . 7 6$ ， $p { < } 0 . 0 0 1$ ， $\mathfrak { n } ^ { 2 } = 0 . 7 3$ )，时间进程的主效应显著 $\begin{array} { r l } { ( F ( 2 , 3 4 ) = } & { { } 2 2 . 8 7 } \end{array}$ $p < 0 . 0 0 1$ ， $\mathfrak { \eta } ^ { 2 } = 0 . 5 7 \$ )，场景布局和时间进程的交互作用对反应时的影响有统计学意义（ $F ( 2 ,$ （204$3 4 ) = 4 . 0 0$ ， $\begin{array} { r } { p = 0 . 0 2 8 } \end{array}$ ， $\eta ^ { 2 } = 0 . 1 9 )$ 。
+
+因为存在交互作用，所以对被试内因素的简单效应进行分析。时间进程方面，epoch1时，新异场景的反应时 $\mathrm { ^ { \circ } } M \mathrm { = } 1 4 0 6 \mathrm { m s }$ ， $S D = 2 0 5 \mathrm { m s } ^ { \cdot }$ ）就显著慢于重复场景的反应时（ $\mathrm { \langle } M = 1 3 1 3 \mathrm { m s }$ $S D = 2 3 8 \mathrm { m s }$ ） $( F ( 1 , 1 7 ) = 9 . 1 3$ ， $p = 0 . 0 0 8$ ， $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 3 5 \mathrm { ) }$ 。epoch2时，新异场景的反应时（ $M =$ $1 2 9 7 \mathrm { m s }$ ， $S D = 1 8 9 \mathrm { m s }$ ）和重复场景的反应时（ $\mathrm { \langle } M = 1 1 5 6 \mathrm { m s }$ ， $S D = 1 9 1 \mathrm { { m s } }$ ）之间的差异也有统计学意义 $\begin{array} { r l } { ( F ( 1 , 1 7 ) = } & { { } 3 4 . 4 9 } \end{array}$ ， $p < 0 . 0 0 1$ ， $\begin{array} { r } { \eta ^ { 2 } = 0 . 6 7 . } \end{array}$ )。epoch3时，新异场景的反应时（ $. M =$ 1276ms， $S D = 2 3 5 \mathrm { m s }$ ）和重复场景的反应时（ $\scriptstyle \cdot { M } = 1 0 9 5 \mathrm { m s }$ ， $S D = 1 6 4 \mathrm { { m s } }$ ）之间的差异仍旧存在 $( F ( 1 , 1 7 ) = 4 7 . 2 1$ ， $p < 0 . 0 0 1$ ， $\eta ^ { 2 } = 0 . 7 4$ ）（见图3）。
+
+实验结果表明，背景线索的学习非常迅速，在第一个epoch就可以表现出显著的背景线索效应。本阶段的结果表明被试已经习得背景线索。
+
+![](images/7a77cafc2ebed47d9208fee1403c7f57e043ed7960b5768a83c8787ed563d3cd.jpg)  
+图3初始学习阶段每个epoch 新异场景和重复场景的平均反应时(\*表示 $\scriptstyle p < 0 . 0 5$ ）
+
+# 2）转换阶段
+
+本阶段各实验条件下实验结果的描述统计见表1。
+
+表1转换阶段各条件下背景线索效应（CC）的描述统计结果  
+
+<html><body><table><tr><td colspan="6">积极情绪</td><td colspan="4">中性情绪</td></tr><tr><td rowspan="2">Epoch</td><td colspan="2">Re-learning</td><td colspan="2">New-leaming</td><td colspan="2">Re-learming</td><td colspan="2">New-learning</td></tr><tr><td>Mean (ms)</td><td>SD(ms)</td><td>Mean(ms)</td><td>SD(ms)</td><td>Mean (ms)</td><td>SD(ms)</td><td>Mean(ms)</td><td>SD(ms)</td></tr><tr><td>早期</td><td>5</td><td>109</td><td>80</td><td>107</td><td>31</td><td>107</td><td>1</td><td>189</td></tr><tr><td>晚期</td><td>52</td><td>136</td><td>177</td><td>144</td><td>20</td><td>114</td><td>53</td><td>88</td></tr></table></body></html>
+
+以这些CC 数据为因变量，进行2（情绪效价：正性情绪、中性情绪） $\times 2$ （学习条件：New-learning、Re-learning） $\times 2$ （学习进程：早期、晚期）重复测量方差分析，来确定情绪效价，学习条件和学习进程三个因素对CC的影响。
+
+经Mauchly's球形假设检验，对于交互项学习类型 $\times$ 时间进程、情绪效价 $\times$ 时间进程、情绪效价 $\times$ 学习类型 $\times$ 时间进程以及时间进程因素，因变量符合球形假设 $( p { > } 0 . 0 5 )$ 。重复测量方差分析结果表明，情绪效价的主效应不显著 $( F ( 1 , 1 7 ) = 4 . 3 1$ ， $\mathnormal { p } = 0 . 0 5 3$ ， $\mathfrak { n } ^ { 2 } = 0 . 2 0 \rangle$ ，学习类型的主效应显著（ $\cdot F ( 1 1 7 ) { = } 4 . 5 7$ ， $\scriptstyle { p = 0 . 0 4 7 }$ ， $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 2 1$ )，学习进程的主效应显著（ $F ( 1 , 1 7 ) =$ 5.01， $\scriptstyle { p = 0 . 0 3 9 }$ ， $\mathfrak { \eta } ^ { 2 } = 0 . 2 3 \$ )。交互作用方面，情绪效价 $\times$ 学习类型 $\times$ 学习进程的三尾交互作用不显著 $( F ( 1 , 1 7 ) = 0 . 0 8$ ， $\begin{array} { r } { p = 0 . 7 8 3 } \end{array}$ ， $\mathfrak { n } ^ { 2 } = 0 . 0 1 \$ )，此外，情绪效价 $\times$ 学习进程的交互作用不显著 $( F ( 1 , 1 7 ) = 1 . 8 6$ ， $\scriptstyle p = 0 . 1 9 1$ ， $\mathfrak { n } ^ { 2 } = 0 . 1 0 \$ ），学习类型 $\times$ 学习进程的交互作用不显著 $( F ( 1 , 1 7 )$ $= 4 . 3 5$ ， $\mathnormal { p } = 0 . 0 5 3$ ， $\boldsymbol { \eta } ^ { 2 } = 0 . 2 0 \$ ），但是情绪效价 $\times$ 学习类型的交互作用显著 $( F ( 1 , 1 7 ) = 4 . 5 5$ ， $p$ （204号$= 0 . 0 4 8$ ， $\eta ^ { 2 } = 0 . 2 1 \AA )$ 。
+
+对数据进行简单效应检验，其结果见表2。结果表明，Re-leaming 条件下，中性情绪和积极情绪启动条件下的CC 量在学习的早晚期均无差异；New-leaming 条件下，虽然学习早期没有显示出情绪效价带来的CC差异，但是晚期则出现了差异。
+
+表2转换阶段中性情绪条件和积极情绪条件的简单效应检验结果   
+
+<html><body><table><tr><td rowspan="2">学习阶段</td><td colspan="8">学习类型</td></tr><tr><td></td><td>Re-learning</td><td></td><td></td><td></td><td>New-learming</td><td></td><td></td></tr><tr><td></td><td>F</td><td>df</td><td>Sig.</td><td>n²</td><td>F</td><td>df</td><td>Sig.</td><td>n²</td></tr><tr><td>早期</td><td>0.87</td><td>(1,17)</td><td>0.364</td><td>0.05</td><td>2.75</td><td>(1,17)</td><td>0.116</td><td>1.14</td></tr><tr><td>晚期</td><td>0.56</td><td>(1,17)</td><td>0.466</td><td>0.03</td><td>8.63</td><td>(1,17)</td><td>0.009**</td><td>0.34</td></tr></table></body></html>
+
+注 $^ { * * }$ 表示 $p { < } 0 . 0 1$
+
+为进一步确定被试在各个条件下是否习得了新的背景线索，对每个条件的CC和0进行单样本 $\mathbf { \chi } _ { t }$ 检验。结果表明，积极情绪的New-learming 条件下的学习早晚期均有显著高于0的CC( $\cdot p < 0 . 0 5 )$ )，同时，中性情绪的 New-learning 条件下的学习晚期有显著高于0的CC（t(17)$= 2 . 5 5$ ， $\begin{array} { r } { p = 0 . 0 2 1 . } \end{array}$ )，而中性情绪New-learning 条件和全部情绪条件下的Re-learning 条件均无显著高于0的CC $( p { > } 0 . 0 5 )$ ，见图4。
+
+图4转换阶段各条件下的背景线索效应  
+![](images/33ebb27942de88efd33505292325e9a97ea8e256bccd71976e38bc4907f8c604.jpg)  
+（\*表示经过单样本t检验，该条件下的CC与0有显著差异！ $( \mathtt { p } < 0 . 0 5 ) \$ ，误差线为均值的标准误）
+
+情绪效价 $\times$ 学习类型的交互作用显著，简单效应检验又表明 New-learming 条件的学习晚期，积极情绪条件下的CC 显著高于中性情绪条件下的CC，结合CC 的单样本 $\mathbf { \chi } _ { t }$ 检验结果发现积极情绪条件下 New-learning 学习的早期就表现出高于0的CC，说明 New-learning条件的背景线索学习将会被积极情绪启动促进。
+
+与此同时,简单效应检验没有发现Re-learning 条件的学习中有与情绪效价有关的CC 改变，独立样本t检验也没有发现Re-leaming 条件下存在任何高于0的CC，因此积极情绪不会影响Re-learning的背景线索学习。
+
+另一方面，虽然CC 进行的独立样本 $t$ 检验的结果表明中性情绪条件时，New-learning的后期出现了高于0的CC，但是重复测量方差分析的三尾交互作用不显著，情绪效价 $\cdot \times$ 学习进程的交互作用也不显著，学习类型 $\times$ 学习进程的交互作用也不显著，因此该条件下高于0 的CC和情绪效价无关，是单纯的练习效应引起。
+
+# 4讨论
+
+本研究的目的是探索积极情绪是否可以帮助提高背景线索学习的适应性。为此，采用与任务无关的情绪性图片作为情绪启动材料，设置中性情绪作为对照条件，积极情绪作为实验条件，测试了Re-learming 和New-learming 两种学习条件下的背景线索学习状况。结果表明，积极情绪仅促进了全新场景的学习（New-learming)，而对旧背景-新目标组成的场景的学习（Re-learning）没有作用。
+
+以往研究中采用睡眠等方式来提高New-leaming条件的学习能力，发现需要至少3到4个 epoch 才能表现出显著的背景线索效应(Zellin etal.,2013)，而采用积极情绪启动后，New-leaming 条件在前两个epoch（学习早期）就表现出显著的背景线索效应，说明相比于睡眠等其他方式，积极情绪可以更有效提高背景线索学习适应性。
+
+虽然积极情绪促进了全新场景的学习，但是对 Re-learming 没有效果。如果Re-leaming的学习是将呈现的旧背景-新目标场景作为全新场景来加工，那么可以提高新场景学习的适应性的实验操作就可以促进旧场景的再学习。然而实际上积极情绪启动后，New-learming 条件的学习得到了促进，而Re-learming 依然十分困难，这表明 Re-leaming 过程不是单纯地将呈现的场景当作全新的场景来加工，旧场景的再学习过程和新场景的学习过程是不同的。
+
+以往的研究发现，Re-learming 的完成需要在原有背景-目标联结的基础上，再捆绑一个新的目标位置，组成一个包含有旧的分心物背景与新旧两个目标的场景表征(Zelin et al,2011)，也就是更新旧场景表征。本研究的结果支持这一说法，并再次表明这种更新是十分困难的(Geyer et al.,2021)。
+
+Zinchenko etal.(2020）的研究发现，当被试进行全局注意的时候，Re-learning 的学习重新变得容易，表明注意范围可能对Re-leaming 的发生很重要。积极情绪会导致注意变得分散(Dreisbach & Goschke,2004)，扩大注意范围(Fredrickson& Branigan,2005)，因此可能提高Re-learming 的适应性。但是在本研究中没有发现积极情绪对 Re-learming 的促进作用，这是因为注意范围的扩大不等同于全局注意。在 Zinchenko etal.(2020)的研究中，全局注意条件要求被试将视线固定在视野中央注视点上，用余光进行搜索，此时场景以全局的方式进入大脑，内隐认知加工可以更容易地发现新旧场景的区别，进而促进了旧场景表征和新目标的整合。而本研究中，虽然注意范围扩大了一些，但是仍不足以发生全局注意，被试仍然以一种局部的方式进行搜索，无法形成场景的全局表征，也就无法促进旧场景的再学习。
+
+提高新目标凸显性可以将注意诱导到新目标的位置，以增加对新目标位置的加工，从而促进Re-learming(Conci&Zellin,2021）。同时，已有研究表明，积极情绪确实可以促进对局部目标的加工(Baumann& Kuhl,2005)，因此推论积极情绪可以促进Re-learning 过程。但是本研究的实证性证据不支持这一推论。造成这种矛盾的原因是，积极情绪对局部目标加工的促进作用本质上是对任务需求的有意识适应，是一个外显而主动的认知调节过程。但是在本研究中，场景的学习和更新是无明确任务需求的、偶得的、内隐的过程，被试在任务过程，新目标的加工未得到有意识地加深，最终也就无法促进旧场景表征的更新。
+
+积极情绪无法加快Re-learning 条件下的背景线索学习，但是可以促进New-learning 条件下的背景线索学习，这种促进是通过重启学习过程来实现的。以往的研究发现，积极情绪可以提高认知灵活性降低认知稳定性，消除习惯化和自动化的认知过程，使认知加工重新变得被动和易受环境影响(Dreisbach& Goschke,2004; Goschke&Bolte,2014)，这就意味着积极情绪可以促进已经关闭或闭塞的学习功能重启。而另一方面，背景线索相关研究表明，僵化的认知控制功能对背景线索学习有负面影响，而学习功能重启可以促进背景线索的再学习。在一项研究中，研究者先给被试呈现一组目标位置随机而分心物背景相同的场景要求被试搜索，随后仍使用上一个阶段的分心物背景，并将目标位置也固定，结果发现在第二个阶段被试没有习得背景线索，这是因为先前的无规律搜索被习惯化，成为自动进行的加工，阻塞了对新规律的学习(Jungé etal.,2007)。这项研究强调了习惯化自动化的认知控制对背景线索学习的阻塞作用。而安静的休息和过夜睡眠可以通过重启学习功能来有效促进全新场景的学习(Mednick et al.,2009; Zellin et al.,2013)。因此，本研究中积极情绪引起New-learning 条件下学习是通过使认知控制变得灵活被动来启动新的学习加工来实现的。
+
+积极情绪可以让认知控制变得灵活被动，并重启学习功能，这也似乎意味着在积极情绪状态下，Re-leaming 条件的学习也会被促进。然而本研究中并没有这样的现象。实际上，存储在记忆系统的表征在指导行为之前需要被检索。与旧记忆表征相似度越高的新材料会引发越强的旧记忆表征的自动检索(Craig et al.,2013;Delaney&Logan,1979;Friedman& Miyake,2004;Lustig&Hasher,2001)，本研究中，Re-learming 条件下的新场景材料与已经习得的旧背景线索记忆表征之间仅有的区别是目标位置，当这些新场景材料进入记忆系统时，旧背景线索记忆表征会被自动检索，使其一直处于高激活状态(Geyer etal.,2021)。这种自动的检索从三方面降低了记忆的更新能力：一方面不断检索加强了旧背景线索记忆表征本身记忆痕迹(Karpicke,2017)；一方面，由检索带来的越来越高的激活阻碍了新目标位置表征的记忆(Morton&Munakata,2002)；最后，旧背景线索表征的激活会指导注意指向旧目标位置，进一步增加了对旧目标位置及其附近分心物的加工(Geyer et al.,2021)。当旧背景-目标连结的记忆表征被进一步加强，而新的目标位置表征记忆受阻时，在旧的背景-目标连结记忆表征上增加一个新目标表征就变得极为困难。
+
+积极情绪可以消除自动化和习惯化的认知加工，而自动化检索显然是一种自动加工，因此，自动检索的说法似乎不足以解释积极情绪条件下Re-learing 的学习困难。事实上，以往的研究中，自动进行的认知加工指的是以人工方式建立的自动化流程化的认知过程，这些认知加工的自动程度有赖于被试练习的程度。而表征相似性引起的自动检索是大脑与生俱来的功能，因此积极情绪的介入无法抑制这种基因决定的自动检索。另一方面，就算积极情绪确实在一定程度上抑制了这种自动检索，只要这个过程不能完全消失，旧背景线索记忆表征的激活就一定会提高，新目标位置和旧背景线索记忆表征的整合过程就仍然会受到阻碍，Re-learning的适应性依然很差。
+
+Morton and Munakata (2002)认为与当前任务相关的新知识的激活强度不足以克服之前的经验的时候，会引起前摄干扰，阻碍新表征的记忆加工。而检索会提高旧表征的激活，使得新表征激活相对不足。因此，人们很容易认为对旧背景线索表征的自动检索也是 New-leaming 条件适应性不足的原因，积极情绪对New-learning 的促进是因为它抑制了对旧背景线索记忆表征的自动检索。实际上，New-learming 条件的新旧场景材料之间相似度很低，引起旧表征发生自动检索的可能性也就非常低，因此自动检索起到的作用非常有限。综上，本研究中积极情绪引起New-learming 适应性提高的主要原因并不是抑制了旧表征的自动检索，而是消除了已经习惯化认知加工，重启了学习功能。
+
+总的来说，本研究中积极情绪通过消除习惯化的认知加工模式，促进重启学习功能，进而促进了全新场景的学习（New-leaming)，但是它无法有效阻止由表征相似性引起的旧场景表征自动检索，因此无法促进旧背景线索表征的更新（Re-learming）。
+
+# 参考文献
+
+Ashby,F.G.,& Isen,A.M. (1999).A neuropsychological theory of positive affect and its influence oncognition. Psychological review, 106(3), 529.   
+Baumann,N.,& Kuhl,J.(2Oo5).Positive affect and flexibility: Overcoming the precedence of global over local processing of visual information. Motivation and Emotion, 29(2),123-134.   
+Bolte,A.，& Goschke,T.(2010).Thinking and emotion: Affective modulation of cognitive processing modes Towards a theory of thinking (pp. 261-277): Springer.   
+Chun,M.M.,& Jiang,Y. (1998). Contextual cueing: Implicit learning and memory of visual context guides spatial attention. Cognitive Psychology, 36(1),28-71.   
+Chun,M. M., & Jiang, Y. (1999).Top-down attentional guidance based on implicit learning of visual covariation. Psychological Science, 10(4),360-365.   
+Chun，M.M.，& Jiang, Y. (2003). Implicit,long-term spatial contextual memory. Journal of Experimental Psychology: Learning, Memory, and Cognition, 29(2), 224.   
+Cohen,J. (20l3). Statistical power analysis for the behavioral sciences: Routledge.   
+Conci,M.，& Zellin,M. (2021). Stimulus-driven updating of long-term context memories in visual search. Psychological Research,1-16.   
+Craig,K.S.,Berman,M. G.,Jonides,J.,& Lustig, C. (2013).Escaping the recent past: Which stimulus dimensions influence proactive interference? Memory & Cognition, 41(5), 650-670.   
+Delaney, H.D.,&Logan,F.A. (1979). Item similarityand proactive interference in short-term memory.Buletin of the Psychonomic Society, 14(4),288-290.   
+Dreisbach, G.,& Goschke,T. (2004). How positive afect modulates cognitive control: reduced perseveration at the cost of increased distractibility.Journal of Experimental Psychology: Learning,Memory,and Cognition, 30(2), 343.   
+Fredrickson,B.L.,& Branigan, C.(2oo5).Positive emotions broaden the scope of attention and thought-action repertoires. Cognition & Emotion,19(3),313-332.   
+Friedman,N.P.,& Miyake,A.(2oo4).The relations among inhibition and interferencecontrol functions:alatentvariable analysis. Journal of Experimental Psychology: General,133(1),01.   
+Geyer,T.,Seitz,W., Zinchenko,A.,Müler,H.J.,& Conci,M. (2021). Why are acquired search-guiding context memories resistant to updating? Frontiers in psychology, 12, 564.   
+Goschke,T.,& Bolte,A. (2014).Emotional modulationofcontrol dilemmas: The role ofpositive affect,reward,and dopamine in cognitive stability and flexibility. Neuropsychologia, 62,403-423.   
+Jungé,J.A.,Scholl,B.J.,& Chun,M.M. (2o07).How is spatial contextlearning integratedoversignalversus noise? A primacy effect in contextual cueing. Visual Cognition, 15(1),1-11.   
+Karpicke, J.D. (2017). Retrieval-Based Learning: A Decade of Progress. Grantee Submission.   
+Kroell,L.M.,Schlagbauer,B., Zinchenko,A.,Muler,H.J.,& Geyer,T. (2019).Behavioural evidence forasingle memory system in contextual cueing. Visual Cognition,27(5-8), 551-562.   
+Lustig,C.,& Hasher,L.(2Oo1).Implicit memory is vulnerable to proactive interference.Psychological Science, 12(5), 408-412.   
+Manginelli, A.A.，& Pollmann, S. (2009). Misleading contextual cues: How do they affect visual search? Psychological Research,73(2),212-221.   
+Mednick,S.,Makovski,T., Cai,D.,&Jiang,Y.V. (209).Sleepand rest facilitate implicit memory ina visual search task. Vision Research,49(21),2557-2565.   
+Morton,J.B.,& Munakata,Y. (2oo2). Active versus latentrepresentations: Aneural network modelofperseveration, dissociation,and decalage.Developmental Psychobiology:TheJournal of the International Society for Developmental Psychobiology, 40(3),255-265.   
+Olson,I.R.,& Chun,M.M.(2oo1).Temporal contextual cuing of visual atention.Journal of Experimental Psychology:Learning,Memory, and Cognition,27(5),1299.   
+Olson,I.R.,& Chun,M.M. (2o02).Perceptual constraints on implicit learning of spatial context. Visual Cognition, 9(3),273-302.   
+Zellin,M.,Conci,M.,von Muhlenen,A.,& Müler,H.J.(2011).Two (or three) isone too many: Testing the flexibility of contextual cueing with multiple target locations. Attention,Perception,& Psychophysics, 73(7),2065-2076.   
+Zellin,M., Conci,M.,von Muhlenen,A.,& Muller, H.J. (2013).Here today, gone tomorrow-adaptationto change in memory-guided visual search.PLOS ONE,8(3),e59466.   
+Zellin,M.,von Muhlenen,A.,Müler,H.J.,& Conci, M.(2014).Long-term adaptation to change in implicit contextual learning.Psychonomic bulletin & review,21(4),1073-1079.   
+Zinchenko,A.,Conci,M.,Hauser,J.,Muller,H.J.,&Geyer,T. (202O).Distributedatentionbeats thedown-sideof statistical context learning in visual search.Journal of Vision,2O(7),4-4.   
+Guo,X.,& Wang,Z.(2007).Concept,Function and Meaning of Positive Emotion.[积极情绪的概念、功能与意 义].Advances in Psychological Science(05),801-815.
+
+# Positive Emotions Enhance Adaptability to Contextual-Cueing Learning
+
+CHEN Xiaoyu1,2 DU Yuanyuan1.2LIU Qiang1,2
+
+(l Institute of Brain and Psychological Sciences, Sichuan Normal University)
+
+(² Brain and Cognitive Neuroscience Research Center,Liaoning Normal University)
+
+# Abstract
+
+Contextual cueing refers to the global properties of a context or scene used to search for specific objects and regions. Chun and Jiang (1998) found that in a visual search, the reaction time to repeated configurations was shorter than the reaction time to newly generated configurations. The benefit of repeated context-target association is widely known as the contextual-cueing effect, which indicates that the subject has learned the contextual association by which attntion is guided to facilitate the searching. However, the learning of contextual cueing lacks adaptability. When the subject has learned a set of contexts, it is difficult to update a new target into existing contexts (relearning) or to learn a new set of contexts (new-learning). Previous studies have shown that restarted learning processes can facilitate the learning of new context-target associations, while updating old contexts is associated with the scope of attention. Notably, positive emotions could broaden the scope of attention and break the cognitive fixation on old processes; therefore,it is possible to improve the adaptability of contextual-cueing learning via positive emotions.
+
+This study aimed to explore whether positive emotions could enhance the adaptability of contextual learning. To this end, we recruited a sample of 18 young adults with positive and neutral affective priming as experimental conditions and control conditions,respectively, which allowed us to explore the contextual-cueing effect under the conditions of re-learning and new-learning. It should be noted that contextual cueing was defined in operation as the reaction time to the newly generated configuration minus that to the repeated configuration.
+
+The experiment was divided into two phases: the learning phase and the switch phase. In the learning phase, the subjects learned a set of contextual cues. In the switch phase, with the contextualcueing effect as the dependent variable,a repeated measures ANOVA was conducted with the emotional valence (positive versus neutral), the new contextual-cueing learning type (re-learning versus new-learning),and the time phase (early phase versus late phase).
+
+The results indicated that neutral emotions did not facilitate contextual-cueing learning irrespective of the new contextual-cueing learning type. However, positive emotion improved learning in the new-learning condition, in which the contextual-cueing effect was higher in positive emotions than in neutral emotions both in the late phase and the early phase, whereas the re-learning condition did not show any sign of a contextual-cueing effect above zero.
+
+This study indicates that positive emotions can improve the adaptability of contextual-cueing learning and that the underlying mechanism restarts learning processing, which fails to prevent an automatic retrieval of the old presentations caused by similarity. Therefore, it facilitates the learning of new contextual cueing but does not update learned contextual cueing.
+
+Keywords: context cueing, positive emotion, affective priming, visual search

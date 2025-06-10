@@ -1,0 +1,100 @@
+# 苯并恶唑嗪酮类化合物功能与生物合成研究进展高洪江1,2，李圣彦²，汪海²，林凤1，张春宇1\*\*，郎志宏2\*\*
+
+1.沈阳农业大学生物科学技术学院，沈阳，110866  
+2.中国农业科学院生物技术研究所，北京，100081
+
+摘要：苯并恶唑嗪酮（Benzoxazinoids，简称 BXs）是植物体内一种重要的次生代谢物，因其具有防御作用和化感作用得到了广泛的关注和研究。随着基因组学及分子生物学的发展，苯并恶唑嗪酮的生物合成在分子领域的研究取得了很大的进展。介绍了苯并恶唑嗪酮概况、苯并恶唑嗪酮的功能以及苯并恶唑嗪酮生物合成参与基因及表达调控。
+
+关键词：苯并恶唑嗪酮抗虫抗病生物合成
+
+# Progress on Function and Biosynthesis of Benzoxazinoids
+
+Gao Hong-jiangl,2,Li Sheng-yan²,Wang Hai²' Lin Fengl, Zhang Chun-yul,Lang Zhi-hong (1.BiologicalScienceand Technology Collge,henyangAgricultural University,Shenyang l0866,China 2.Biotechnology Research Institute,ChineseAcademyofAgricultural Sciences,Beijinglooo81,China)
+
+Abstract: Benzoxazinoids （BXs for short）are important secondary metabolites in plants.There has been a wide range of attention and research of them because of their role in defensive and allelopathy.With the development of genomics and molecular biology, the BXs biosynthesis and other molecular areas research has made great progress.This article briefly introduces the BXs profile, the function of BXs, the genetic basis of BXs biosynthesis and expression regulation.
+
+Key words: Benzoxazinoids； insect resistance; disease resistance; biosynthesis
+
+植物中有大量的次生代谢物，参与植物防御。苯并恶唑嗪酮是植物特有的一类具有防御性的次生代谢物，其对植食性害虫的抑制作用以及抗菌特性已被陆续发现并证实。随着基因组学和分子生物学的发展，苯并恶唑嗪酮的生物合成与基因表达调控成为了研究的热点。文章对苯并恶唑嗪酮概况、苯并恶唑嗪酮的功能（以丁布为主）以及苯并恶唑嗪酮的生物合成基因做具体介绍。
+
+# 1 BXs概况
+
+苯并恶唑嗪酮是具有2-羟基-2H-1,4-苯并恶嗪-3(4H)酮骨架的吲哚派生物及其衍生物所组成的一类参与植物化学防御的化合物。这些植物化学物质广泛存在于禾本科，包括小麦、玉米和大麦等重要的经济作物中，也存在于一部分双子叶植物中，如车前科、唇形科等[I。该类化合物在多种作物中表现出抗虫、抗菌和化感作用，是植物体内一类重要的次生代谢物。早在1955年，Virtanen等人在黑麦中首次发现苯并恶唑嗪酮[2]，随后在1959 年，Vahlroos 等人在小麦和玉米中发现了苯并恶唑嗪酮的存在[3]，随即得到了学者广泛的关注与研究。由于苯并恶唑嗪酮的结构多样性，Niemeyer等人将苯并恶唑嗪酮分成了三类，分别是异羟肟酸（hydroxamicacids，hx）、内酰胺（lactams）和甲基衍生物（methylderivatives）[4]。2011年，Hanhineva等人进一步将苯并恶唑嗪酮划分为异羟酸、内酰胺和苯并恶唑啉酮（benzoxazolinones）[5]。根Niemeyer 和Hanhineva的分类法，可将苯并恶唑嗪酮化合物分为如下四类（见表1)。
+
+# 中国生物工程杂志 China biotechnology
+
+Tablel Classification of benzoxazinoid compounds
+
+<html><body><table><tr><td>类别 BX class</td><td>所属化合物 Compounds belonging to the given class</td><td>结构式 structural formula</td></tr><tr><td>异羟酸</td><td>DIBOA-2,4-dihydroxy-1,4-benzoxazin-3-one</td><td></td></tr><tr><td></td><td>DIMBOA-2,4-dihydroxy-7-methoxy-1,4-benzoxazin -3-one</td><td></td></tr><tr><td></td><td>TRIBOA-2,4,7-trihydroxy-1,4-benzoxazin-3-one DIMBOA-7,8-dimethoxy-2,4-dihydroxy-1,4(2H)-be</td><td></td></tr><tr><td>内酰胺</td><td>nzoxazin-3-one HBOA-2-hydroxy-1,4-benzoxazin-3-one</td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td>HMBOA-2-hydroxy-7-methoxy-1,4-benzoxazin-3-o ne</td><td></td></tr><tr><td></td><td>HMBOA-2-Hydroxy-6,7-dimethoxy-(2H)-1,4-benz oxazin-3(4H)-one</td><td></td></tr><tr><td></td><td>DHBOA-2,7-dihydroxy-1,4-benzoxazin-3-one</td><td></td></tr><tr><td>苯并恶唑啉酮</td><td>BOA-2-benzoxazolin-2(3H)-one</td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td>MBOA-6-methoxy-benzoxazolin-2-one</td><td></td></tr></table></body></html>
+
+在所有的苯并恶唑嗪酮化合物中异羟肟酸是最活跃的一类[4]，该类化合物在4位碳原子上含有羟基。丁布（DIMBOA）和丁布的脱甲氧基衍生物DIBOA是两种重要的异羟肟酸。前者主要存在于小麦、玉米中，后者主要存在于黑麦和野生大麦中。目前，丁布是研究最为深入的一种BXs。有研究表明，丁布对玉米螟、玉米蚜虫、蛀茎夜蛾、小麦赤霉病菌、玉米小班病菌等有防御作用。
+
+# 2 BXs的功能
+
+BXs是植物体内重要的次生代谢物，具有抗病、抗虫及化感等多种防御作用。一般情况下，BXs在植物体内以葡萄糖苷形式存在。当植物受到侵害时分解成相应的苷元和糖，起到防御作用。BXs与亲核试剂的反应是其生理效应的重要机制，它的亲电中心与氨基酸衍生物反应，进行蛋白修饰，可能是BXs具有抗虫和抗病等作用的机制之一[6]。下面从BXs的抗虫性、抗病性和化感作用三个方面来介绍BXs的功能。
+
+# 2.1BXs的抗虫性
+
+早在1967年，Klun等人研究发现，把丁布从玉米幼苗体内分离出来加到人工配制的饲料中会抑制欧洲玉米螟幼虫的生长并造成一定的死亡率[7]。1985年，Manuwoto等人用丁布含量不同的9种玉米品系，对欧洲玉米螟幼虫的摄食率进行了实验。结果表明，在同样的光照条件下，摄食率最高的是不含丁布的突变体DL和丁布含量很低的自交系WF9。摄食率最低的是具有很高丁布含量的英国自交系 B49 和热带品种 San Juan×Antigua[8]。2014年，Betsiashvili等人选取了Mo17（抗） $\times \mathrm { B } 7 3$ （感）的重组自交系对玉米蚜虫具有抗性的数量性状位点（
+
+QuantitativeTraitLoci，QTL)，研究发现了位于玉米基因组第4号染色体上的一个QTL，该QTL包含了丁布合成的相关基因。之后进行遗传作图，可以发现Mo17的等位基因相比于B73会增加丁布的积累，而蚜虫在B73上的产卵量是Mo17的大约20倍。该实验进一步证实了丁布的抗虫性[9]。但是近些年来有研究表明，丁布并不是对所有害虫都具有防御作用。2009年，Sasai等人研究发现，用含有丁布的人工饲料喂养家蚕幼虫，家蚕幼虫会在三天内死亡，但是同样的饲料喂养粘虫幼虫，粘虫幼虫并未受到影响[10]。除丁布外，也有一些其他的 BXs化合物对害虫有防御作用。Gianoli等人研究表明，在野生大麦幼苗中DIBOA的浓度和麦二叉蚜以及麦双尾蚜的生长活性呈负相关[I]。Tzin等人在2015年研究发现，咀嚼式害虫会诱导DIMBOA-glc在甲基转移酶的作用下变成HDMBOA-glc，对咀嚼式害虫产生抗性，但是DIMBOA-glc 含量的降低，会利于蚜虫的生长[12]。
+
+# 2.2BXs的抗病性
+
+2004年，刘小红等人通过检测菌丝生长率和孢子萌发率，研究了丁布对小麦赤霉病菌和玉米小斑病菌的抑制作用。结果发现当丁布含量达到 $1 . 0 \mathrm { m g / m l }$ 时，在丁布药液中培养 $1 5 \mathrm { h }$ 的小麦赤霉病菌孢子萌发抑制率为 $100 \%$ ，培养5h的玉米小斑病菌孢子萌发抑制率为 $8 3 . 6 \% ^ { [ 1 3 ] }$ 。徐国锋等通过室内孢子萌发试验以及盆栽试验，研究了丁布对小麦条锈病菌的活性影响。结果表明当浓度达到$1 . 0 \mathrm { m g / m l }$ 时丁布对其孢子萌发率具有抑制作用[14]。2011年，Ahmads 等人用野生型植株和缺乏Bx的突变株进行对比发现，缺乏BXs的植株更利于蚜虫生长，并且更易被真菌感染[15]。2016年，Guo 等人对DIMBOA及其衍生物2-苯并恶唑啉酮（BOA)，6-氯-2-苯并恶唑啉酮（CDHB)，2-巯基苯并噻唑（MBT）进行了离体分析，研究了这些化合物对青枯病菌的抗菌活性。结果表明，MBT抗菌活性最强其次是CDHB和DIMBOA。它们能有效地抑制细菌生长，减少生物膜形成，抑制细菌周期性集群活动[16]。
+
+# 2.3 BXs的化感作用
+
+有研究表明，DIBOA、DIMBOA和它们的分解产物BOA和MBOA是最有效的化感作用化合物[17]。其毒性是由于细胞壁过氧化物酶氧化过程中产生过氧化氢，积累了木质素，破坏脂类代谢和蛋白质合成并且造成了 $\mathrm { H ^ { + } A T P }$ 酶的活性降低。黑麦是一种化感作用最为强烈的作物，能降低许多杂草的萌发，生长和发育，抑制率高达 $9 8 \% [ 1 7 , 1 8 ]$ 。
+
+# 3BXs生物合成及遗传基础
+
+BXs在细胞中一般以糖苷形式储存在液泡中，在植物受到伤害时，糖苷在水解酶的作用下转化成相应的苷元和糖[4]。BXs生物合成发生在植物整个生长过程中，Nomura等人指出，BXs在植物幼苗期合成最为活跃，随后下降并逐渐稳定在一个较低的水平[19]。这与相关酶的转录水平有关[20]。许多研究表明BXs 的合成受多种因素影响。1985年，Manuwoto等人表明，化学肥料的使用影响BXs的生物合成[21]；1986年，Epstein等人发现光周期可以对BXs合成产生影响[22]；2009 年，Niemeyer等人指出，BXs的生物合成与植物的基因型和品种有关[4]。
+
+# 3.1BXs生物合成通路
+
+BXs生物合成途径在玉米中研究得最为详尽（图1)。BXs合成的第一步是将吲哚-3-磷酸甘油转化为吲哚。此步反应发生在叶绿体中，由一个色氨酸合酶的同源物BX1，催化吲哚的形成，由此产生了初级代谢和次级代谢的分支点。之后的四个反应发生在内质网，分别由BX2、BX3、BX4、BX5所催化。BX2\~BX5是细胞色素P450依赖性单加氧酶，催化4个连续的羟基化和一个环扩张以形成高度氧化的丁布脱甲氧基衍生物DIBOA[23]。BX8和BX9是两种葡糖基转移酶，催化DIBOA转化为DIBOA-glc，反应发生在细胞质中。两个基因在玉米幼苗中表达量较高，同时幼苗期也是BXs生物合成最活跃的时期[24]。随后的两步发生在细胞质中，先由双加氧酶 BX6催化，其底物是DIBOA-glc，反应产生TRIBOA-glc。再经过甲基转移酶 BX7代谢，形成DIMBOA-glc[25]。并且，在一些双子叶植物中，DIBOA-glc 是BXs 生物合成的最终产物[26]。2013年，Meihls等人经研究发现了三个同源甲氧基转移酶BX10\~BX12，可以将DIMBOA-glc转化为HDMBOA-glc[27]。最近的一项研究表明，BX13和 BX14 也参与合成抗虫相关的BXs产物。BX13 是依赖2-氧化戊二酸的加双氧酶，催化DIMBOA-glc转化TRIMBOA-glc。BX14 是甲基转移酶，催化DMBOA-glc 转化为HDMzBOA-glc[28]。Handrick 等人研究发现，依赖BX13的代谢物的缺乏并不会影响各种咀嚼式食草动物的生长，但是蚜虫数量明显增加。证实了两种产物对取食韧皮部的害虫有明显的防御作用。这些反应所产生的稳定的BXs糖苷被运输和储存在液泡中，参与植物防御。
+
+BXs生物合成的遗传基础
+
+在玉米中，以上的合成步骤里控制BXs生物合成的基因有 $Z m B x I - Z m B x 9$ ZmBx10a÷c（ZmBx10，ZmBx11，ZmBx12)，bx13和bx14。 $Z m B x I { \sim } Z m B x 5$ 以及ZmBx8都位于4号染色体短臂的 $b x$ 基因簇上，因此，4号染色体上包含三种不同的功能的酶和一套完整形成DIBOA-glc 的基因。与其他bx基因不同的是，$Z m B x 9$ 位于玉米基因组第1号染色体上[24]。目前，ZmBx6 和 $Z m B x 7$ 两个基因只有在玉米中被发现并定位，在小麦、大麦和黑麦中似乎是不存在的[29]。Handrick通过QTL作图和异源表达分析在玉米基因组中定位到了bx13和bx14。并且发现依赖BX13的代谢物的缺乏并不会影响各种咀嚼式食草动物的生长，但是蚜虫数量明显增加。证实了两种产物对取食韧皮部的害虫有明显的防御作用[28]。这些反应所产生的稳定的BXs糖苷被运输和储存在液泡中，参与植物防御。
+
+![](images/0f442f99f9817d27d75d5fa666d91ea0b3e9dc868f06f341e6aba4910025e8ef.jpg)  
+图1BXs生物合成及所在区域[30] Figl BXs biosynthesis and compartmentalization in plant cell [30]
+
+4展望
+
+BXs类化合物，尤其是丁布，在植物抗虫领域具有很大的研究价值。如何将丁布与抗虫相关QTL联系起来，找出植物体内和抗虫相关的基因应用于培育优良种质，还需要继续研究。目前，虽然有研究证实了BXs对植物抗病有关，但是BXs含量与植物抗病之间的相关性并不总是阳性，取决于它们的合成位点与病原体的特征。尽管BXs的生物合成已经阐明，但是在植物个体发育和不同组织中控制差异表达的基因和机制还有待研究。此外，在除玉米以外的其他禾本科作物，如小麦、黑麦等，将DIBOA-glc 转化为DIMBOA-glc 的酶以及编码该酶的基因还未发现。未来需要多学科的融合以进一步了解BXs的生物效应及其代谢，进而将BXs更好地应用于害虫防治，培育新的抗性品种。
+
+# 参考文献：
+
+1. Makowska B, Bakera B, Rakoczy-Trojanowska M. The genetic background of benzoxazinoid biosynthesis in cereals. Acta Physiologiae Plantarum,2015,37(9):1-12.   
+2. Virtanen A I, Hietala PK,Lundén R, et al. 2(3)-Benzoxazolinone,an Anti-Fusarium Factor in Rye Seedlings. Acta Chemica Scandinavica,1955, 9:1543-1544.   
+3. Wahlroos O, Virtanen A I, Hammarsten E, et al. Precursors of 6-Methoxybenzoxazolinone in Maize and Wheat Plants, their Isolation and Some of their Properties. Acta Chemica Scandinavica,1959,13(9):1906-1908.   
+4. Niemeyer HM.Hydroxamic acids derived from 2-hydroxy-2H-1,4-benzoxazin-3(4H)-one: key defense chemicals of cereals. Journal of Agricultural & Food Chemistry,2009, 57(5): 1677.   
+5. Hanhineva K, Rogachev I, Aura A M, et al. Qualitative characterization of benzoxazinoid derivatives in whole grain rye and wheat by LC-MS metabolite profiling. Journal of Agricultural & Food Chemistry,2011, 59(3):921-927.   
+6. Shudo K,Ishizaki T, Hashimoto Y,etal. Reaction of 4Acetoxyl,4-benzoxazin-3-one with Amino Acid Derivatives. Heterocycles, 1983,20(8):1481-1485.   
+7. Klun JA, Tipton C L, Brindley TA. 2,4-Dihydroxy-7-methoxy-I,4-benzoxazin-3-one (DIMBOA),an Active Agent in the Resistance of Maize to the European Corn Borer1, 2,3. Journal of Economic Entomology,1967, 60(6): 1529-1533.   
+8. Manuwoto S, Scriber JM. Neonate larval survival of European corn borers, Ostrinia nubilalis, on high and low dimboa genotypes of maize: Effects of light intensity and degree of insect inbreeding. Agriculture Ecosystems & Environment,1985,14(3-4): 221-236.   
+9. Betsiashvili M, Ahern K R, Jander G.Additive effects of two quantitative trait loci that confer Rhopalosiphum maidis (corn leaf aphid) resistance in maize inbred line Mol7. Journal of Experimental Botany,2014,66(2): 571-578   
+10. Sasai H, Ishida M, Murakami K, et al. Species-specific glucosylation of DIMBOA in larvae of the rice Armyworm. Bioscience Biotechnology & Biochemistry,2009,73(6): 1333.   
+11. Gianoli E,Niemeyer H M. DIBOA in wild Poaceae: sources of resistance to the Russan wheat aphid (Diuraphis noxia) and the greenbug (Schizaphis graminum). Euphytica, 1998,102(3): 317-321.   
+12. Tzin V,Lindsay PL, Christensen SA, et al. Genetic mapping shows intraspecific variation and transgressive segregation for caterpilar-induced aphid resistance in maize. Molecular Ecology, 2015, 24(22): In Press.   
+13. 刘小红,李健强,周立刚,etal.丁布对小麦赤霉病菌和玉米小斑病菌的抑制作用.菌物学报, 2004,23(1): 109-114. Liu X H,Li JQ, Zhou L G, et al. Inhibition effect of DIMBOA on Fusarium graminearum and Bipolaris maydis. Mycosystema,2004,23(1):109-114.   
+14. 徐国锋,郑永权,纪明山.丁布对小麦条锈病菌的抑制作用.中国农学通报,2006,22(6): 324-326. Xu G F, Zheng Y Q, Ji M S. Activity Test on DIMBOA against Puccinia striiformis f-sp:tritic.Chinese Agricultural Science Bulletin,2006,22(6):324-326.   
+15. Ahmad S, Veyrat N, Gordonweeks R, et al. Benzoxazinoid Metabolites Regulate Innate Immunity against Aphids and Fungi in Maize. Plant Physiology, 2011, 157(1): 317-27.   
+16. Guo B, Zhang Y, Li S, et al. Extract from Maize (Zea mays L.): Antibacterial Activity of DIMBOA and Its Derivatives against Ralstonia solanacearum. Molecules, 2016,21(10):1397.   
+17. Tabaglio V, Gavazzi C, Schulz M, et al. Alternative weed control using the allelopathic effect of natural benzoxazinoids from rye mulch. Agronomy for Sustainable Development, 2008,28(3): 397-401.   
+18. Barnes JP, Putnam A R. Role of benzoxazinones in allelopathy by rye (Secale cereale L.). Journal of Chemical Ecology, 1987, 13(4): 889-906.   
+19. Nomura T, Ishihara A, Yanagita R C, et al. Three genomes differentially contribute to the biosynthesis of benzoxazinones in hexaploid wheat. Proceedings of the National Academy of Sciences of the United States of America,2005,102(45): 16490-16495.   
+20. Rad U V, Huitt R,Lotspeich F, et al. Two glucosyltransferases are involved in detoxification of benzoxazinoids in maize. Plant Journal, 2001,28(6): 633-642.   
+21. Manuwoto S, Scriber JM. Consumption and utilization of experimentally altered corn by southern armyworm: Iron, nitrogen, and cyclic hydroxamates. Journal of Chemical Ecology, 1985,11(11): 1469-1483.   
+22. Epstein W W, Rowsemitt C N, Berger PJ, et al.Dynamics of 6-methoxybenzoxazolinone in winter wheat : Effects of photoperiod and temperature. Journal of Chemical Ecology,1986, 12(10): 2011-2020.   
+23. Frey M, Gierl A.Analysis of a Chemical Plant Defense Mechanism in Grasses. Science,1997, 277(5326): 696-699.   
+24. Von R U, Huittl R,Lottspeich F,et al.Two glucosyltransferases are involved in detoxification of benzoxazinoids in maize.Plant Journal, 2001,28(6): 633-642.   
+25. Jonczyk R, Schmidt H, Osterrieder A, et al. Elucidation of the final reactions of DIMBOA-glucoside biosynthesis in maize: characterization of Bx6 and $\operatorname { B x } 7$ Plant Physiology, 2008,146(3): 1053-1063.   
+26. Sicker D,Frey M, Schulz M, et al. Role of natural benzoxazinones in the survival strategy of plants.International Review of Cytology,2000,198(4): 319.   
+27. Meihls L N, Handrick V, Glauser G, et al. Natural variation in maize aphid resistance is associated with 2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one glucoside methyltransferase activity. Plant Cell, 2013,25(6): 2341-2355.   
+28. Handrick V,Robert C A,Ahern KR, et al. Biosynthesis of 8-O-methylated benzoxazinoid defense compounds in maize. Plant Cell, 2016,28(7): 1682-1700.   
+29. Sue M,Nakamura C, Nomura T.Dispersed Benzoxazinone Gene Cluster: Molecular Characterization and Chromosomal Localization of Glucosyltransferase and Glucosidase Genes in Wheat and Rye. Plant Physiology,2011,157(3): 985-997.   
+30. Wouters F C, Blanchette B, Gershenzon J, et al. Plant defense and herbivore counter-defense: benzoxazinoids and insect herbivores. Phytochemistry Reviews, 2016,15(6): 1127-1151..>> >B&

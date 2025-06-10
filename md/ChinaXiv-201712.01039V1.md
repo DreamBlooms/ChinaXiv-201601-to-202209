@@ -1,0 +1,69 @@
+# 病例报告
+
+# 使用Viatorr支架完成经颈静脉肝内门腔静脉分流术附3例报告
+
+赵剑波，叶鹏，曾庆乐，庞桦进,何晓峰，陈勇南方医科大学南方医院介入科，广东广州510515摘要：报告使用Viatorr支架完成经颈静脉肝内门腔静脉分流术3例，并结合文献讨论该支架的特点，置入过程的操作要点。3例患者均为肝硬化并门静脉高压症，食管静脉曲张破裂出血。3例患者均成功完成经颈静脉肝内门腔静脉分流术，术前3例患者门静脉压力分别为 $3 0 . 1 , 3 2 . 4 , 4 2 . 6 \mathrm { m m H g }$ ,术后门静脉压力分别下降至 $2 1 . 3 , 1 7 . 7 , 2 6 . 5 \mathrm { m m H g }$ 。随访期间均无肝性脑病发生，彩超检查显示支架内血流通畅。使用Viatorr支架可以成功完成经颈静脉肝内门腔静脉分流术。
+
+关键词：Viatorr支架；肝硬化；门腔静脉分流术
+
+# Transjugular intrahepatic portosystemic shunt with Viatorr stent grafting: report of 3 cases
+
+ZHAO Jianbo,YEPeng,ZENG Qingle,PANG Huajin,HE Xiaofeng,CHEN Yong Departmentofterentionaldiology,nfangHospital,outhernedicalniersityGuangzhou5,in
+
+Abstract: We here report 3 cases sucessfullytreated with transjugular intrahepatic portosystemic shunt using Viator stent. The 3patients were hada diagnosis oflivercirhosiswith portal vein hypertension,and presented with black stool and hematemesis.After the treatment,te patients'portalvein pressures were decreased withoutblack stolorhematemesis.Our success demonstrate the feasibility of using Viator stent in transjugular intrahepatic portosystemic shunt. Key words: Viatorr stent; transjugular intrahepatic portosystemic shunt; liver cirrhosis
+
+经颈静脉肝内门腔静脉分流术(TIPS)是治疗肝硬化合并门静脉高压症并上消化道出血的的有效技术之二[]。Viatorr支架(美国Gore)则是专为TIPS技术而设计，但过去一直未在中国上市使用。过去国内行TIPS治疗只能用裸支架加覆膜支架模仿该支架，但支架定位及释放过程比Viatorr支架更困难[2-3]。近期Viatorr支架在国内刚上市，我科在国内率先使用Viatorr支架完成经颈静脉肝内门腔静脉分流术3例，现报道如下，并结合文献讨论该支架的特点，置入过程的操作要点。
+
+# 1临床资料
+
+病例1：患者男性，56岁，因“反复排黑便2月余"入院。入院查血红蛋白测定 $7 8 ~ \mathrm { g / L }$ （正常参考值 $1 3 0 \sim$ $1 7 5 \ \mathrm { g / L } \ X$ ，血小板计数 $4 4 \times 1 0 ^ { 9 } / \mathrm { L }$ （正常参考值 $1 2 5 { \sim } 3 5 0 \mathrm { L }$ ）粪便检验示：颜色黑褐色、隐血试验 $( + + + )$ 。乙肝两对半示： $\mathrm { H B s A g ( + ) \ H B c A b ( + ) }$ ，其余阴性。我院电子胃镜示：食管静脉曲张(重度);门脉高压性胃病。腹部超声示肝脏回声增粗，脾大，右侧胸腔积液，腹腔少量积液。术前肝功能评分Child-PughB级(8分)。完善相关检查及准备于2011年11月10日行经颈静脉肝内门腔静脉分流术。术中建立分流道前测得门静脉压力为 $3 0 . 1 \ \mathrm { m m H g }$ （正常值范围 $7 . 4 { \sim } 1 8 . 3 \ \mathrm { m m H g }$ ）。使用TIPS穿刺套装(美国COOK，RUPS-10O)穿刺门静脉分叉处成功后，引入标记导管造影及测压，然后将10Fr血管导引鞘进一步推送进入门静脉主干 ${ \geqslant } 3 { \mathrm { ~ c m } }$ 。沿导丝引人Viatorr支架输送器(覆膜段长度/裸段长度为 $8 \mathrm { c m } / 2 \mathrm { c m }$ ，直径 $8 \mathrm { m m }$ ，注意将透明的入路套管插入止血阀直到感觉到停止。导管推送期间，对入路套管维持向前的压力。再次确认支架位置后，在透视监视下首先后撤10Fr血管导引鞘至支架上方，此时Viatorr支架的 $2 \mathrm { c m }$ 裸支架部分已释放，然后向后回拉至门静脉-肝实质交界处感觉到轻微阻力，在透视监视下可见金标记环恰好位于门静脉进入点。再使用GORESIM-PULL输送系统展开覆膜支架部分。成功建立分流道，造影复查示支架 $2 \mathrm { c m }$ 裸区位于门静脉内，支架内血流通畅，门静脉左右支血流无明显影响。置入支架后测门静脉压力为 $2 1 . 3 ~ \mathrm { m m H g }$ 。术程顺利，术后患者大便转黄，复查血红蛋白未见继续下降,超声提示分流道血流通畅，血流速度 $1 0 2 ~ \mathrm { c m / s } _ { \odot }$ 。术后予低蛋白饮食、通便、抗肝性脑病及护肝治疗，术后第4天患者康复出院，查血氨未见升高，无肝性脑病症状发生。
+
+病例2：患者男性，61岁，因"反复呕血及排黑便6个月，再发16h"入院。16h前患者呕吐鲜红色血液 $5 0 0 \mathrm { m L _ { \circ } }$ 既往于6个月前行胃镜下套扎止血。血红蛋白测定 $6 7 \ \mathrm { g / L }$ （正常参考值 $1 3 0 { \sim } 1 7 5 \ \mathrm { g / L }$ )，血小板计数 $7 8 \times 1 0 ^ { 9 } / \mathrm { L }$ （正常参考值 $1 2 5 { \sim } 3 5 0 / \mathrm { L } \$ 。粪便检验示：颜色黑褐色、隐血试验 $( + + + )$ 。乙肝两对半示： $\mathrm { H B s A g ( + ) }$ ,其余阴性。上腹部增强CT提示肝硬化；门脉高压症;脾大。电子胃镜示：食管静脉曲张(重度);门脉高压性胃病。术前肝功能评分Child-PughB级(7分)。于2011年11月10日行经颈静脉肝内门腔静脉分流术。术中建立分流道前测得门静脉压力为 $3 2 . 4 ~ \mathrm { m m H g }$ 。使用TIPS穿刺套装（美国COOK，RUPS-10O)，置入Viatorr支架(覆膜段长度/裸段长度 $7 \mathrm { c m } / 2 \mathrm { c m }$ ，直径 $8 \mathrm { m m }$ )建立分流道，裸段均位于门静脉内，覆膜段约有 $1 \mathrm { { c m } }$ 位于肝静脉内。术中具体操作过程大致同病例1。造影复查示支架 $2 \mathrm { c m }$ 裸区位于门静脉内，支架内血流通畅，门静脉左右支血流无明显影响(图1)。门静脉压力下降至 $1 7 . 7 ~ \mathrm { m m H g }$ 。再分别用 $1 2 , 1 0 , 8 \ \mathrm { m m }$ 钢圈(美国COOK)栓塞胃冠状静脉。术后予低蛋白饮食、通便、抗肝性脑病及护肝治疗，术后第3天患者康复出院，查血氨未见升高，无肝性脑病症状发生。
+
+![](images/3514a3b5dd3d0f493ba3805aa0f7d9ffdbf221249d00a89bdcff95cc95c2d0c1.jpg)  
+图1造影复查示支架内血流通畅，门静脉左右 支血流无明显影响 Fig.1 Angiography after TIPS creation shows good blood flow of the branches of portal vein.
+
+病例3：患者男性，60岁，因"反复呕血及排黑便2年，再发5d”入院。于外院行三腔二囊管压迫止血后，到我院进一步诊治。既往有慢性乙型病毒性肝炎病史10年,规律服用恩替卡韦片。血红蛋白测定 $3 9 \ \mathrm { g / L }$ （正常参考值 $1 3 0 { \sim } 1 7 5 \ \mathrm { g / L } \$ )，血小板计数 $6 1 \times 1 0 ^ { 9 } / \mathrm { L }$ （正常参考值125\~350/L)。上腹部增强CT提示肝硬化;门脉高压症;脾大。术前肝功能评分Child-PughB级(8分）。于2011年11月10日行经颈静脉肝内门腔静脉分流术。术中建立分流道前测得门静脉压力为 $4 2 . 6 ~ \mathrm { m m H g }$ 。使用TIPS穿刺套装（美国COOK,RUPS-10O)，置入Viatorr支架(覆膜段长度/裸段长度为 $7 \mathrm { c m } / 2 \mathrm { c m }$ ,直径 $8 \mathrm { m m }$ ）
+
+建立分流道。术中具体操作过程大致同病例1。置入支架后测门静脉压力为 $2 6 . 5 \ \mathrm { m m H g }$ ，再分别用 $5 . 8 . 1 0 \mathrm { m m }$ 钢圈(美国COOK)栓塞胃冠状静脉。术后第5天患者康复出院。
+
+# 2讨论
+
+Viatorr支架是目前国际上行TIPS治疗应用最广泛的专用支架,但过去一直未在中国上市使用。过去Viatorr支架未在中国大陆上市时，多数单位应用双支架技术2-3行经颈静脉肝内门腔静脉分流术，即一枚裸支架和一枚覆膜支架。覆膜支架采用的有美国Bard公司的Fluency支架和BostonScientific公司的Wallgraft支架。Saad等4在其报道中也指出使用专用支架和双支架技术的优缺点。Fluency支架径向支撑力好，但柔顺性较差，支架置入后容易“回直”，导致支架与肝静脉端成角(发生"盖帽")导致分流道闭塞。Wallgraft支架由于其在释放过程可以回缩，近端和远端的两个标记不是支架释放后的最后位置，其定位过程较难把握，也会导致门静脉或肝静脉端成角，导致分流道堵塞。
+
+Viatorr支架的特点是支架的门静脉端为 $2 \mathrm { c m }$ 的裸金属区，其余为覆膜区，采用聚四氟乙烯(PTFE)膜。覆膜支架置入后，其腔内基本不发生内膜增生，同时阻止穿刺道的胆汁渗漏，能显著降低术后分流道再狭窄发生率，维持分流道远期的通畅。文献报道1年、2年及3年通畅率分别为 $90 \%$ ） $84 \%$ 及 $7 4 \% ^ { \left[ 5 \right] }$ 。双支架技术完成TIPS的近期疗效与Viatorr支架类似[2-3],但长期疗效比较尚需要进一步研究。同时，前端 $2 \mathrm { c m }$ 的裸区有效保证了术后充分的向肝血流，降低术后肝性脑病的发生[6-8]。且并无证据表明该支架对后续肝移植治疗有负面影响。采用Viatorr支架具有以下优点：可以达到准确的释放；减少“盖帽"现象发生；更好的保持门静脉的向肝血流。缺点是释放的操作较为复杂。
+
+使用Viatorr支架我们有以下几点操作体会：(1)经透明入路套管推送支架的过程中，需将透明的入路套管插入至10Fr血管鞘的止血阀的底部并维持向前的压力，保证支架顺利送入血管鞘内;(2)在导引鞘回撤至下腔静脉展开裸支架部分后，将置人支架轻轻回拉至肝实质处，可以感受到轻微阻力，此时说明裸及覆膜交界处恰好位于门脉进入点，再在保持适当后张力的同时，拉线释放支架的覆膜段；(3)术中采用黄金标记导管测量分流道长度，在测量值上增加1cm以选择正确的覆膜段长度。
+
+总之，本研究报道使用Viatorr支架成功完成3例TIPS术，随着该支架在中国内陆上市，将有更多国人使用该支架完成TIPS术的数据报道。
+
+# 参考文献：
+
+[1]Weber CN,Nadolski GJ,White SB,et al.Long-Term patency and
+
+clinical analysis of expanded Polytetrafluoroethylene-Covered transjugular intrahepatic portosystemic shunt stent grafts[J].J Vasc Interv Radiol,2015,26(9): 1257-65.   
+[2]Zhao JB,李彦豪,KolbeckKJ,etal.覆膜支架在经颈静脉门腔分流 术中的应用[J].中华放射学杂志,2008,42(8):830-4.   
+[3］赵剑波，陈 勇,何晓峰,等.聚四氟乙烯覆膜支架经颈静脉肝内门腔分 流术后分流道再狭窄及影响因素分析[J].介入放射学杂志,2013,22 (8):629-33.   
+[4]Saad WE,Darwish WM,Davies MG,et al.Stent-grafts for transjugular intrahepatic portosystemic shunt creation: specialized TIPS stent-graft versus generic stent-graft/bare stent combination [J].J Vasc Interv Radiol, 2010,21(10): 151-20.   
+[5]Rössle M,Siegerstetter V,Euringer W,et al. The use of a polytetrafluoroethylene-coveredstentgraftfortransjugular intrahepatic portosystemic shunt (TIPS):Long-term follow-up of 100 patients[J].Acta Radiol,2006,47(7): 660-6.   
+[6]Bureau C,Pagan JC,Layrargues GP, et al. Patency of stents covered with polytetrafluoroethylene in patients treated by transjugular intrahepaticportosystemicshunts:long-termresultsofa randomized multicentre study[J].Liver Int, 2007,27(6): 742-7.   
+[7]Zurera LJ,Espejo JJ,Canis M,et al. Transjugular intrahepatic portosystemicshuntingwith coveredstentsin children:a preliminary study of safety and patency[J].Radiologia,2O14,56 (4): 339-45.   
+[8]Bercu ZL,Fischman AM,Kim E,et al. TIPS for refractory ascites: a 6-year single-center experience with expanded polytetrafluoroethylene-covered stent-grafts[J].AJR Am JRoentgenol,2015,204(3): 654-61.
+
+(编辑：孙昌朋)
+
+# （上接293页）
+
+[7]朱有华.肾脏移植手册[M].北京：人民卫生出版社,2010:535-43.   
+[8]付绍杰,梁永杰,于立新，等.血小板参数与肾移植术后急性排斥反应 的关系[J].南方医科大学学报,2015,35(3):413-6.   
+[9]王鸿利.实验诊断学[M].北京:人民卫生出版社,2005:71.   
+[10]陈文彬,潘祥林.诊断学[M].7版.北京：人民卫生出版社,2008: 261-2.   
+[11] Okuno S,Ashida T,Ebihara A,et al.Distinct increase in hematocrit associated with paroxysm of atrial fibrillation[J].Jpn HeartJ,2000, 41(5): 617-22.   
+[12] Salvadori M,Rosso G,Bertoni E.Update on ischemia-reperfusion injury in kidney transplantation:Pathogenesis and treatment [J]. World JTransplant,2015,5(2):52-67.   
+[13]Lee DM,Jackson KW,Knowlton N,et al.Oxidative stress and inflammation in renal patients and healthy subjects[J].PLoS One, 2011,6(7): e22360.   
+[14] Shapiro MD,Bagley J,Latz J,et al.MicroRNA expression data revealsa signature of kidneydamage following ischemia reperfusion injury[J].PLoS One,2011,6(8): e23011.   
+[15]Hariharan N, Zhai PY,Sadoshima J. Oxidative stress stimulates autophagic flux during ischemia/reperfusion[J].Antioxid Redox Signal,2011,14(11): 2179-90.   
+[16]Dolegowska B,Blogowski W, Safranow K,et al.Lipoxygenasederived hydroxyeicosatetraenoic acids--novel perioperative markers ofearly post-transplant allograft function [J].Nephrol Dial Transplant,2010,25(12): 4061-7.   
+[17]Dolegowska B,Blogowski W,Domanski L.Dynamicsof thromboxane level changesduring early phase ofallograft reperfusion[J]. Clin Transplant,2009,23(5): 716-22.
+
+(编辑：孙昌朋)

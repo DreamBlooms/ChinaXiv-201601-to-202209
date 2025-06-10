@@ -1,0 +1,229 @@
+# 干旱区绿洲盐渍土粒径分布单重分形和多重分形特征
+
+张桉赫1,2.3，丁建丽1,2.3，王敬哲1,2.3，穆艾塔尔·赛地,2.3，李艳菊1,2,3（1．新疆大学智慧城市与环境建模自治区普通高校重点实验室,新疆 乌鲁木齐830046;2．新疆大学资源与环境科学学院,新疆 乌鲁木齐830046;3．新疆大学绿洲生态教育部重点实验室，新疆 乌鲁木齐830046)
+
+摘要：为定量描述干旱区绿洲盐渍化土壤的粒径分布特征,对38个土壤样品的粒径分布与含盐量进行测定，并基于分形理论定量表征了研究区盐渍土和非盐渍土的土壤粒径分布特征。结果表明：粉粒的体积分数占主导地位,砂粒和黏粒次之;土壤含盐量与粉粒和黏粒体积分数呈正相关,而与黏粒呈负相关;单重分形维数 $D$ 值介于$1 . 9 9 0 \sim 2 . 3 4 9 \$ ,且与土壤黏粒和粉粒含量成正比，相关系数分别为0.81和0.64( $P < 0 . 0 1$ )，与砂粒含量呈反比，相关系数为-0.67( $\textstyle P < 0 . 0 1 { \mathrm { ~ } }$ );土壤粒径分布具有多重分形特征，盐渍土（含盐量 $\geqslant 3 \mathrm { ~ g ~ } \cdot \mathrm { ~ k g ~ } ^ { - 1 }$ )的粒径分布较非盐渍土( $< 3 ~ \mathrm { ~ g ~ } \cdot \mathrm { ~ k g ~ } ^ { - 1 }$ )更广，非均匀性更强;土壤含盐量与多重分形信息维 $D _ { 1 }$ 和 $D _ { 1 } / D _ { 0 }$ 呈极显著负相关,相关系数分别为-0.265( $\textstyle P < 0 . 0 1 { \mathrm { ~ } }$ 和-0.283( $\textstyle P < 0 . 0 1 { \mathrm { ~ } }$ ),与多重分形谱谱宽呈现极显著正相关，相关系数为0.206( $P < 0 . 0 1 \$ ，而与 $D$ 、容量维 $D _ { 0 }$ 和多重分形谱性状特性均没有显著相关性。
+
+关键词：渭干河－库车河绿洲；盐渍土；土壤粒径；单重分形；多重分形；干旱区
+
+盐渍化是干旱区典型的土壤退化现象，盐渍化严重抑制了土壤质量和生产力，盐渍土是典型的中低产土壤类型[1]。土壤粒径分布（soil particle sizedistribution，简称 soilPSD)是一个重要的土壤物理特性，它不仅与土壤发育程度和土壤结构关系密切，也影响着土壤中水、肥、气、热的保持和传递[2]。对于干旱区的盐渍土来说，盐分状况不仅影响着土壤团聚体的构成，其自身也受土壤粒径分布的影响[3],因此,探究土壤粒径分布与盐渍土的关系对于深入理解土壤盐渍化的发生具有重要意义。
+
+自分形理论创立以来，现已普遍应用于土壤粒径分布方面的研究[4-6]。如王敬哲等[7运用单重分形方法分析了艾比湖湿地不同盐渍化程度土壤与单重分形维数的关系，发现分形维数随盐渍化程度的加剧而增大。然而，单重分形也有其局限性，只能整体性和平均性地描述土壤粒径分布特征，无法描述土壤粒径分布的局部异质性和非均匀性，而多重分形理论很好地解决了这一问题[8-9]。代豫杰等[10]认为，多重分形维数可以更好地描述重金属含量与土壤颗粒间的关系;闵祥宇等[1]发现,部分多重分形参数能更灵敏地反映复垦土壤紧实度变化；王燕等[12]指出,多重分形理论可以用于定量分析弃耕农田的演化过程。
+
+新疆塔里木盆地北部的渭干河-库车河绿洲(简称渭-库绿洲)土壤盐渍化现象严重，有关渭-库绿洲盐渍土的信息提取和时空变化方面已有较多的报道[13-14],但关于盐渍土粒径分布方面的研究及其土壤粒径多重分形的报道较少。本研究选择渭-库绿洲土壤为研究对象，利用单重分形和多重分形理论探究土壤粒径的分形参数与盐渍化的关系，以期从更微观的角度探究并揭示土壤盐渍化的发生。
+
+# 1研究区概况
+
+渭-库绿洲位于天山南麓，塔克拉玛干沙漠的北部,是典型的绿洲农业区[15]。气候属于大陆性暖
+
+温带干旱气候,年平均气温 $1 0 . 5 \sim 1 1 . 4 ^ { \circ } \mathrm { C }$ ,降雨较少，蒸发强烈,年平均降水量仅为 $4 6 . 5 \ \mathrm { m m }$ ,但蒸发量高达 $1 ~ 2 2 7 . 8 ~ \mathrm { m m } ^ { [ 1 6 ] }$ 。
+
+# 2材料与方法
+
+# 2.1土壤样品采集
+
+在渭-库平原绿洲内，基于空间分布均匀性，选取了38个样点（图1），该冲积平原是库车河水系携带天山南麓的冲积、洪积物逐渐沉积而形成[17]。采样时间为2016年4月23日至5月5日，各土壤样点均采用5点混合法采集表层 $0 \sim 1 0 \ \mathrm { c m }$ 的土样,样点土地利用类型及植被状况如表1所示。
+
+![](images/8e996d7f34a5aa3455210f4b6a5ede7591d56510b4b7910abe502f546f5a65bf.jpg)  
+图1研究区采样点分布示意图  
+Fig.1Distribution of sampling sites in the study area
+
+# 表1采样点土地利用类型及植被
+
+Tab.1Land use types and vegetation types at the sampling sites   
+
+<html><body><table><tr><td>土地利用类型</td><td>样点数</td><td>植被</td></tr><tr><td>农田</td><td>16</td><td>棉花、玉米</td></tr><tr><td>绿洲-荒漠交错带</td><td>10</td><td>盐穗木、怪柳、芦苇</td></tr><tr><td>荒漠</td><td>12</td><td>盐穗木、怪柳、芦苇、白刺</td></tr></table></body></html>
+
+# 2.2 土壤样品测定
+
+土壤含盐量测定使用德国WissenschaftlichTechnischeWerkstatten公司制 造 的inoLab?Cond7310仪器,能检测出的最小含盐量为 $0 . 1 \mathrm { ~ g ~ } \cdot$ $\mathbf { k g } ^ { - 1 }$ 。土壤粒径体积分数的测定使用美国Microtrac公司生产的S3500型激光粒度仪（量程 $0 . 0 1 \sim$ $2 \ 0 0 0 \ \mu \mathrm { m }$ ），具体测定过程详见参考文献[7-18]。
+
+根据《新疆土壤》中的相关标准[19],将盐渍化地类分为4个等级，分别为非盐渍化（含盐量 $< 3$ $\mathbf { g } \cdot \mathbf { \left| k g \right| } ^ { - 1 }$ ）、轻度盐渍化 $( 3 \sim 6 \mathrm { ~ g ~ } \cdot \mathrm { ~ k ~ g ~ } ^ { - 1 }$ )、中度盐渍化（ $6 \sim 1 0 \mathrm { ~ g ~ } \cdot \mathrm { ~ k g ~ } ^ { - 1 }$ )和重度盐渍化（含盐量 $\mathrm { > 1 0 ~ g }$ ：$\mathbf { k g } ^ { - 1 }$ ）。
+
+# 2.3 粒度分级
+
+本研究根据USDA土壤粒级划分标准，将土壤颗粒分为黏粒（ $\mathrm { : < 0 . 0 0 2 \ m m }$ ）、粉粒 $( 0 . 0 0 2 \sim 0 . 0 5 0$ $\mathbf { m m } ^ { \mathrm { ' } }$ )和砂粒 $( 0 . 0 5 0 \sim 2 . 0 0 0 \ \mathrm { m m } )$ 。在单重分形分析中，粒径被划分为10个级别： $< 0 . 0 0 2 \ \mathrm { m m } \ . 0 . 0 0 2 \sim$ $0 . 0 0 5 \ \mathrm { m m } \ 0 . \ 0 0 5 \sim 0 . \ 0 1 0 \ \mathrm { m m } \ 0 . \ 0 1 0 \sim 0 . \ 0 2 0 \ \mathrm { m m } \ ,$ （20$0 . 0 2 0 \sim 0 . ~ 0 5 0 ~ \mathrm { { \ m m } } , 0 . ~ 0 5 0 \sim 0 . ~ 1 0 0 ~ \mathrm { { \ m m } } , 0 . ~ 1 0 0 ~ \cdot$ $0 . 2 0 0 \ \mathrm { m m } \ , 0 . 2 0 0 \sim 0 . 5 0 0 \ \mathrm { m m } \ , 0 . 5 0 0 \sim 1 . \ 0 0 0 \ \mathrm { m m }$ 和$1 . 0 0 0 \sim 2 . 0 0 0 ~ \mathrm { m m }$ 。而在土壤粒径分布多重分形分析中，将所测得的土壤粒径分布范围 $( 0 . 0 3 \sim 2 \ 0 0 0$ ${ \mu \mathrm { m } } ,$ )按对数间隔划分为65级。
+
+# 2.4 单重分形
+
+本文使用土壤颗粒体积分形模型计算研究区土壤粒径的单重分形维数[20],公式为：
+
+$$
+3 - D = { \frac { \log \left( V _ { ( r < R _ { i } ) } / V _ { \mathrm { T } } \right. } { \log ( { R _ { i } } / R _ { \operatorname* { m a x } } ) } }
+$$
+
+式中： $D$ 为分形维数； $r$ 为土壤粒径; $V _ { ( r < R _ { i } ) }$ 为小于某一粒径 $R _ { i }$ 的累计体积; $V _ { \mathrm { { T } } }$ 指土壤颗粒的总体积;$R _ { \mathrm { m a x } }$ 表示所有粒级的上限值，其数值与最大粒径相等。
+
+# 2.5 多重分形
+
+将激光粒度仪测量区间 $I = \left[ 0 . 0 3 , 2 \ 0 0 0 \right]$ 划分为64个小区间，即 $I _ { i } = \left[ \phi _ { i } , \phi _ { i + 1 } \right] , i = 1 , 2 , \cdots , 6 4$ 按照粒径的对数等差递增值为间隔进行划分, $\log$ $( \mathbf { \nabla } \phi _ { i + 1 } / \mathbf { \nabla } \phi _ { i } )$ 为常数,因此,划分出的第1个小区间的粒径分布范围为 $I _ { 1 } = \left[ 0 . 0 3 0 , 0 . 0 3 6 \right]$ ,第64个小区间的粒径分布范围为 $I _ { 6 4 } = \left[ 1 ~ 6 7 4 , 2 ~ 0 0 0 \right]$ 。64个颗粒范围的小区间划分完成后，需要进行一个转换，$\phi _ { i } = \log ( \phi _ { j } / \phi _ { 1 } )$ ， $j = 1 , 2 , \cdots , 6 5$ ,粒径分布范围将重新以算数递增的形式分布。基于此，重新构造一个新的无量纲区间 $J = \left[ \begin{array} { l } { \log \left( 0 . \ 0 3 / 0 . \ 0 3 \right) } \end{array} \right.$ ，log$\left( 2 \ 0 0 0 / 0 . 0 3 \right) \Big ] \ = \left[ 0 , 4 . 8 2 \right] , J$ 被2,4,8,16,32,64等分后,区间大小 $\varepsilon = 5 \times 2 ^ { - k } \left( k = 1 , 2 , \cdots , 6 \right)$ ，即ε =2.410、2.205、0.603、0.301、0.150 和0.075[21]$\mu ( \varepsilon )$ 为每个子区间内土壤粒径分布的概率密度，即子区间 $J _ { i }$ 内所有的测量值 $V _ { i }$ 的加和,其中 $V _ { \mathrm { ~ i ~ } } =$ ${ v _ { i } } { \bigg / } \sum _ { i = 1 } ^ { 6 5 } v _ { i }$ ，利用 $\mu \left( \boldsymbol { \varepsilon } \right)$ 构造一个配分函数组为$u _ { i } ( \boldsymbol { q } , \varepsilon ) \ = \ \mu _ { i } ( \varepsilon ) ^ { q } \bigg / \sum _ { i = 1 } ^ { N } \mu _ { i } ( \varepsilon ) ^ { q }$ ,其中 $q$ 为实数,$\mu _ { i } ( q , \varepsilon )$ 为第 $i$ 个子区间的 $q$ 阶概率,因此,粒径分布多重分形的广义维数谱 $\left[ D ( q ) \right]$ 为[20]：
+
+$$
+D ( q ) = \frac { 1 } { q - 1 } \operatorname* { l i m } _ { \varepsilon \to 0 } \frac { \log \Big [ \sum _ { i = 1 } ^ { N ( \varepsilon ) } \mu _ { i } ( \varepsilon ) ^ { q } \Big ] } { \log { \varepsilon } } , ( q \neq 1 )
+$$
+
+根据洛必达(L'Hopital)法则，当 $q = 1$ 时,该公式变换为：
+
+$$
+D _ { 1 } = \operatorname* { l i m } _ { \varepsilon \to 0 } \frac { \sum _ { i = 1 } ^ { N ( \varepsilon ) } \mu _ { i } ( \varepsilon ) \log \mu _ { i } ( \varepsilon ) } { \log \varepsilon } , ( q = 1 )
+$$
+
+土壤粒径分布多重分形奇异性指数 $\alpha ( q )$ 的计算公式为：
+
+$$
+\alpha ( q ) = \operatorname* { l i m } _ { \varepsilon \to 0 } { \frac { \sum _ { i = 1 } ^ { N ( \varepsilon ) } \mu _ { i } ( q , \varepsilon ) \log \mu _ { i } ( q , \varepsilon ) } { \log \varepsilon } }
+$$
+
+土壤粒径分布多重分形谱函数 $\mathcal { f } \big ( \boldsymbol { \alpha } ( \boldsymbol { q } ) \big )$ 的计算公式为：
+
+$$
+f [ \alpha ( { \boldsymbol { q } } ) ] = \operatorname* { l i m } _ { \varepsilon \to 0 } { \frac { \sum _ { i = 1 } ^ { N ( \varepsilon ) } \mu _ { i } ( { \boldsymbol { q } } , { \boldsymbol { \varepsilon } } ) \log \mu _ { i } ( { \boldsymbol { q } } , { \boldsymbol { \varepsilon } } ) } { \log \varepsilon } }
+$$
+
+所有公式中 $q$ 的取值范围为 $- 1 0 \leqslant q \leqslant 1 0$ ，步长为1。在进行计算时，利用最小二乘法求出公式(2）\~(5)中分子与分母的斜率 $\tau ( q )$ ,进而求出各分形参数[8]
+
+根据多重分形理论，当广义维数谱 $q = 0$ 和1时， $D _ { 0 }$ 和 $D _ { 1 }$ 表示土壤粒径分布的容量维数和信息维数。 $D _ { 0 }$ 表示土壤粒径分布宽度， $D _ { 0 }$ 值越大,表明土壤粒径分布范围越宽； $D _ { 1 }$ 表示土壤颗粒分布测度的集中度， $D _ { 1 }$ 越大,表示土壤粒径分布越离散。 $D _ { 1 } /$ $D _ { 0 }$ 表示土壤粒径分布的离散程度。 $\alpha _ { 0 }$ 为整个多重分形结构奇异强度的平均值[22]，土壤粒径分布局部密集程度越大， $\alpha _ { 0 }$ 越小。 $\varDelta \alpha$ 表示多重分形谱的谱宽，它体现了土壤的不均匀程度与属性的空间异质性， $\varDelta \alpha$ 越大,表示分布越不均匀； $\varDelta f ( \alpha )$ 表征多重分形谱的形状特性， $\varDelta f ( \alpha ) < 0$ ,表示小粒径在土壤粒径分布中占主要地位，小粒径的变异性程度要大于大粒径 ${ \mathcal { I } } ( \alpha )$ 表现为右钩状； $\varDelta f ( \alpha ) > 0$ ,表示大粒径在土壤粒径分布中占主要地位，大粒径变异性程度要大于小粒径 ${ \mathcal { I } } ( \alpha )$ 表现为左钩状。
+
+# 3 结果与分析
+
+# 3.1土壤粒径分布与含盐量特征
+
+依据颗粒组成测定结果，38个土样均以粉粒为主,含量介于 $5 . 0 6 \% \sim 9 1 . 8 4 \%$ ,平均为 $6 6 . 4 9 \%$ ;其次是砂粒，含量介于 $3 . 9 5 \% \sim 9 4 . 9 2 \%$ ，平均为$3 1 . 8 4 \%$ ;黏粒最低，含量介于 $0 . 0 2 \% \sim 4 . 2 1 \%$ ，平均为 $1 . 6 7 \%$ 0
+
+38 个土样的含盐量介于 $0 \sim 4 2 . 1 ~ \mathrm { ~ g ~ } \cdot \mathrm { ~ k g ~ } ^ { - 1 }$ ，平均为 $1 2 . 0 2 \mathrm { ~ g ~ } \cdot \mathrm { ~ k g ~ } ^ { - 1 }$ ;其中非、轻度、中度和重度盐渍化样点分别为19个、2个、2个和15个。考虑到轻度和中度盐渍土样点较少，本研究中将轻度、中度和重度盐渍化土壤均归为盐渍土（含盐量 $\geqslant 3 \mathrm { ~ g ~ } \cdot$ （204号$\mathbf { k g } ^ { - 1 }$ ,合计19 个样点),其含盐量介于 $3 . 3 \sim 4 2 . 1 \$ （20$\mathbf { g } \cdot \mathbf { k } \mathbf { g } ^ { - 1 }$ ,平均为 $2 0 . 4 8 \mathrm { ~ g ~ } \cdot \mathrm { ~ k g } ^ { - 1 }$ ;而非盐渍土（合计19 个样点)含盐量介于 $0 \sim 1 . 6 \mathrm { ~ g ~ } \cdot \mathrm { ~ k g ~ } ^ { - 1 }$ ,平均为$0 . 3 9 \mathrm { ~ g ~ } \cdot \mathrm { ~ k g } ^ { - 1 }$ 。对土样的含盐量与各粒级的体积分数做相关性分析，发现粉粒和黏粒的体积分数与含盐量呈正相关，相关系数分别为0.53( $P < 0 . 0 1 \rangle$ 和$0 . 3 5 ( P < 0 . 0 5 )$ ，而砂粒的体积分数则与含盐量为负相关关系，相关系数为0.53( $P < 0 . 0 1 { \mathrm { ~ } }$ ），各粒级体积分数与含盐量的相关关系与胡宏昌等[23]的结果一致。
+
+# 3.2土壤粒径分布的单重分形特征
+
+土壤粒径分布的单重分形维数能量化表征土壤颗粒粒径组成情况，一般土壤小颗粒越多，分形维数越大[24]。38个土样的粒径单重分形维数 $D$ 介于$1 . 9 9 0 \sim 2 . 3 4 9$ ，平均为2.18。图2为单重分形维数$D$ 值与不同土壤粒径体积百分数的关系, $D$ 与黏粒和粉粒含量为显著正相关，与砂粒含量为显著负相关。从相关方程的斜率上看，黏粒对 $D$ 值影响最大，而砂粒和粉粒对 $D$ 值的影响接近。
+
+从表2可以看出： $\textcircled{1}$ 盐渍土的平均 $D$ 值略高于非盐渍土， $D$ 值的分布更为离散； $\textcircled{2}$ 虽然盐渍土的平均含盐量是非盐渍土的52.5倍，但平均 $D$ 值仅相差0.03，这表明单重分形 $D$ 值不能很好的表征土壤盐渍化现象。
+
+# 3.3土壤粒径多重分形特征
+
+3.3.1多重分形广义维数谱Evertsz和Mandel-brot指出，配分函数 $X ( \boldsymbol { q } , \boldsymbol { \varepsilon } )$ 与盒尺度的双对数曲线必须满足线性关系，才可以进行多重分形分析[25]图3为一个随机土壤样本的配分函数 $X ( \boldsymbol { q } , \boldsymbol { \varepsilon } )$ 与盒尺度 $\boldsymbol { \varepsilon }$ 的双对数曲线。通过最小二乘法进行拟合，$\lg X$ 与 $\vert \mathrm { g } \varepsilon \vert$ 呈现出极显著线性关系（ $P < 0 . 0 1 \rangle$ ，且决定系数均大于0.95，说明研究区土壤样品具有多重分形特征。
+
+![](images/4cca2f0a73b3af239e90c00474e0a26245175624ca8500ace06a6638e3a40f8d.jpg)  
+Fig.2Relationship between $D$ value of fractal dimension and volumetric content of soil particle size distributi
+
+# 表2土壤粒径单重分形维数 $\textbf {  { D } }$ 值统计分析
+
+Tab.2Statistic results of $\textbf {  { D } }$ value of fractal dimension of soil particle size distribution   
+
+<html><body><table><tr><td>盐渍化 等级</td><td>平均含盐量 /(g·kg-1)</td><td>平均 D值</td><td>D值 标准差</td><td>D值变异 系数/%</td></tr><tr><td>非盐渍土(19 个)</td><td>0.39</td><td>2.16</td><td>0.06</td><td>2.23</td></tr><tr><td>盐渍土(19 个)</td><td>20.48</td><td>2.19</td><td>0.09</td><td>4.18</td></tr></table></body></html>
+
+![](images/aa8f573c0748e55d5d48d53c61b359c67aaaf7b8ef1dba126b9cd148082f0911.jpg)  
+图2单重分形维数 $D$ 值与不同土壤粒径体积百分数的关系
+
+利用公式(2）～（5)计算出所有土样的粒径多重分形参数，图4为非盐渍土5个随机样点和盐渍土5个随机样点的土壤粒径分布广义维数谱，$D ( q )$ 的决定系数介于 $0 . 9 1 4 \sim 0 . 9 9 6$ 。当 $q$ 取1,2和3时,非盐渍土样品为 $D _ { 0 } \left( 0 . 8 8 7 \sim 0 . 9 0 7 \right) > D _ { 1 }$ （ $( 0 . 7 8 0 \sim 0 . 8 7 6 ) > D _ { 2 } ( 0 . 6 6 0 \sim 0 . 8 6 2 )$ ，盐渍土样品同样为 $D _ { 0 } ( 0 . 9 2 5 \sim 0 . 9 9 5 ) > D _ { 1 } ( 0 . 7 6 4 \sim 0 . 8 6 8 ) >$ $D _ { 2 } ( 0 . 7 2 2 \sim 0 . 8 6 0 )$ ，说明土壤粒径分布是不均匀的，进行多重分形分析是合理且必要的。
+
+从4图可以看出，非盐渍土和盐渍土 $q < 0$ 的$D ( q )$ 值均大于 $q > 0$ 的 $D ( q )$ 值，说明颗粒分布密集区域的标度性比稀疏区更好，即广义维数谱能更好地反映土壤颗粒分布密集区域的变化，而在衡量稀疏区域的分布上不敏感。随着 $q$ 的增加，10个土壤样品的 $D ( q )$ 均呈下降趋势。两类土壤在 $q < 0$ 的变化趋势均比 $q > 0$ 时要大,相比于非盐渍土，盐渍土$D ( q )$ 在 $q < 0$ 时的递减程度更大，显示出盐渍土具有更强的粒径分布不均匀性。当 $q < 0$ 时，土壤粒径分布稀疏区域信息被放大；当 $q > 0$ 时,土壤粒径分
+
+![](images/8cf513486c33507992d0a1d557b4780dd76b36389f46f4b99734243d7bb7606b.jpg)  
+注： $\mathrm { l g } X$ 表示配分函数的对数， $\mathrm { l g } \varepsilon$ 表示盒尺度的对数。图3配分函数 $X$ 与盒尺度 $\boldsymbol { \varepsilon }$ 的双对数曲线Fig.3Log-log plots of partition functions $X$ and measurementscales of soil particle size distribution  
+注： $D ( q )$ 表示土壤粒径分布多重分形的广义维数谱， $\mathbf { \nabla } _ { q }$ 表示 $- 1 0 \sim 1 0$ 之间的实数。  
+图4随机5个非盐渍土与盐渍土土壤样品粒径分布广义维数谱
+
+Fig.4Generalizeddimensionspectraforsoil particlesizedistributionof5randomlynon-salinesoilandsalinesoil sample布密集区域信息被放大[21]。由于在 $q < 0$ 时盐渍土广义维数谱的倾向率要大于非盐渍土，因此,研究区土样稀疏区分布的土壤颗粒受盐渍化的影响更为敏感。
+
+比较表3中非盐渍土和盐渍土的 $D _ { 0 }$ 变化范围和平均值可以发现，虽然盐渍土的粒径分布更宽，但非盐渍土的粒径分布更为不均匀,非盐渍土的 $D _ { 1 } /$ $D _ { 0 }$ 更接近于1，说明土壤颗粒在密集区分布得更多。
+
+王敬哲等发现,土壤的盐渍化程度与土壤的黏粒含量呈正相关，而在多重分形分析中，盐渍土粒径在密集区分布较少，理论上黏粒含量可能会较低，但其 $D _ { 0 }$ 值较非盐渍土更大,粒径分布范围更宽，在一些粒径更小的区间内也有颗粒分布，粒径更小的土壤颗粒可能会多于非盐渍土，因此，结合之前的分析，可以推断粒径分布范围更宽的土壤更容易发生盐渍化。
+
+# 3.3.2 多重分形奇异指数与谱函数图5表示的
+
+是非盐渍土5个随机样点与盐渍土5个随机样点的多重分形奇异谱函数。由图5可知，奇异谱函数均为左钩状的上凸曲线，且非盐渍土和盐渍土函数的对称性不同，谱长和谱宽也有较大的差异。根据以往研究结果，如果土壤粒径分布均匀，则多重分形奇异谱函数应为常量[26-27]。因此,可以推断研究区土壤粒径都是非均匀分布，并且非盐渍土和盐渍土粒径分布的非均匀性又有较大差别，而这种在局部区域的细微差别可能会决定或影响土壤盐渍化的发生。
+
+由表3可以看出，非盐渍土和盐渍土的 $\varDelta \alpha$ 变化范围分别为 $0 . 6 9 9 \sim 1 . 7 9 8$ 和 $0 . 9 8 1 \sim 2 . 2 3 8$ ,盐渍土的多重分形谱的谱宽普遍大于非盐渍土，根据白一茹等[20]的研究结果， $\varDelta \alpha$ 的值越大,说明土壤的非均匀性越强。同时，盐渍土与非盐渍土 $\varDelta \alpha$ 的变异系数均较大。研究区盐渍土相对于非盐渍土表现出更大的多重分形谱的谱宽。
+
+表3土壤粒径多重分形参数统计分析  
+Tab.3 Statistic results of soil multifractal parameters   
+
+<html><body><table><tr><td>参数</td><td>盐渍化程度</td><td>样点数</td><td>最小值</td><td>最大值</td><td>平均值</td><td>标准差</td><td>变异系数/%</td></tr><tr><td rowspan="2">D0</td><td>非盐渍土</td><td>19</td><td>0.821</td><td>0.939</td><td>0.913</td><td>0.027</td><td>2.93</td></tr><tr><td>盐渍土</td><td>19</td><td>0.896</td><td>0.939</td><td>0.924</td><td>0.013</td><td>1.39</td></tr><tr><td rowspan="2">D1</td><td>非盐渍土</td><td>19</td><td>0.780</td><td>0.920</td><td>0.867</td><td>0.039</td><td>4.54</td></tr><tr><td>盐渍土</td><td>19</td><td>0.735</td><td>0.893</td><td>0.821</td><td>0.046</td><td>5.58</td></tr><tr><td rowspan="2">D/D0</td><td>非盐渍土</td><td>19</td><td>0.860</td><td>0. 995</td><td>0.950</td><td>0.034</td><td>3.61</td></tr><tr><td>盐渍土</td><td>19</td><td>0.802</td><td>0. 965</td><td>0.888</td><td>0.049</td><td>5.53</td></tr><tr><td rowspan="2">Δα</td><td>非盐渍土</td><td>19</td><td>0.699</td><td>1. 798</td><td>1. 248</td><td>0.342</td><td>27.37</td></tr><tr><td>盐渍土</td><td>19</td><td>0.981</td><td>2.238</td><td>1. 637</td><td>0.371</td><td>22. 65</td></tr><tr><td rowspan="2">△f</td><td>非盐渍土</td><td>19</td><td>0.095</td><td>0.815</td><td>0.500</td><td>0.203</td><td>40.60</td></tr><tr><td>盐渍土</td><td>19</td><td>0.282</td><td>0.790</td><td>0. 494</td><td>0.118</td><td>23.87</td></tr></table></body></html>
+
+注： $D _ { 0 }$ 表示土壤粒径分布的容量维数， $D _ { 1 }$ 表示土壤粒径分布的信息维数 $. D _ { 1 } / D _ { 0 }$ 表示土壤粒径分布的离散程度， ${ \mathbf { } } _ { \mathbf { } } D _ { 2 }$ 表示多重分形谱的谱宽， $ { \Delta } f$ 表示多重分形谱的形状特征。下同。
+
+![](images/d98b73b1c0589b43a299a62d8436acf1d8b2b4d9a3df761233d5210cbf71ea87.jpg)  
+注 $: f ( \alpha )$ 表示土壤粒径分布多重分形谱， $\alpha$ 为多重分形奇异指数。  
+图5随机5个非盐渍土与盐渍土土壤样品粒径分布多重分形谱   
+Fig.5Multifractal spectra of soil particle size distribution of random 5 non-saline soil and saline soil samp
+
+根据表3和图5可知，土样的 $ { \Delta } f$ 均为正值，为左钩状曲线，这说明土壤粒径分布的大概率子集占主导地位，密集区域的土壤粒径分布要比稀疏区域更加均匀。并且从图5可以明显看出，盐渍土较非盐渍土的左边口径与右边相差更大，表明盐渍土的粒径分布更加不均匀。虽然研究区非盐渍土和盐渍土的 $ { \Delta } f$ 平均值很接近，但两者的变异系数相差较大,因此 $ { \Delta } f$ 的均值并不能反映两类土壤的差异。盐渍土 $ { \Delta } f$ 的最小值远远大于非盐渍土，加之非盐渍土较高的变异系数，说明非盐渍土壤的 $ { \Delta } f$ 值分布更为离散，小概率子集的比重要大于盐渍土。因此，可以推断土壤粒径的大概率子集所占比重越高，土壤越容易发生盐渍化现象。
+
+# 3.4土壤粒径分布分形参数之间及其与土壤含盐量的关系
+
+为了探究土壤含盐量与各分形参数之间的关系，对土壤含盐量和分形参数之间进行相关性分析。由表4可以看出，单重分形维数 $D$ 与 $D _ { 0 }$ 呈显著正相关，与 $D _ { 1 } / D _ { 0 }$ 呈显著负相关,与 $D _ { 1 } \setminus \Delta \alpha$ 和 $ { \Delta } f$ 相关性不显著。在多重分形参数之间， $D _ { 0 }$ 与其他分形参数均无显著相关性， $D _ { 1 }$ 与 $D _ { \scriptscriptstyle 1 } / D _ { \scriptscriptstyle 0 }$ 呈极显著正相关,与 $\varDelta \alpha$ 呈极显著负相关,与 $ { \Delta } f$ 呈显著正相关。 $D _ { 1 } /$ $D _ { 0 }$ 与 $\varDelta \alpha$ 呈极显著负相关，与 $ { \Delta } f$ 呈显著正相关， $\varDelta \alpha$ 与 $ { \Delta } f$ 之间相关性不显著。在呈现显著相关性的各参数之间，仅 $D _ { 1 }$ 与 $D _ { \scriptscriptstyle 1 } / D _ { \scriptscriptstyle 0 }$ 的相关系数达到0.9以上，其他参数之间的相关性均较低。
+
+表4土壤粒径分形参数与土壤含盐量的相关关系  
+Tab.4Correlation analysis between soil salt content and fractal parameters   
+
+<html><body><table><tr><td></td><td>土壤含盐量</td><td>D</td><td>D0</td><td>D</td><td>D/D0</td><td>Aα</td><td>△f</td></tr><tr><td>土壤含盐量</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>D</td><td>0.062</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>D0</td><td>0.004</td><td>0.152 *</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>D1</td><td>-0.265**</td><td>-0.072</td><td>0.017</td><td>1</td><td></td><td></td><td></td></tr><tr><td>D/D0</td><td>-0.283**</td><td>-0.133 *</td><td>-0.015</td><td>0.937**</td><td>1</td><td></td><td></td></tr><tr><td>△α</td><td>0.206**</td><td>0.068</td><td>0.040</td><td>-0.551**</td><td>-0.632**</td><td>1</td><td></td></tr><tr><td>△f</td><td>0.008</td><td>0. 111</td><td>0.058</td><td>0.168 *</td><td>0.122 *</td><td>-0.004</td><td>1</td></tr></table></body></html>
+
+注： $* *$ 表示在0.01水平上差异显著( $P < 0 . 0 1$ ，双尾）， $\ast$ 表示在0.05水平上差异显著( $\textstyle P < 0 . 0 5$ ，双尾）。
+
+土壤含盐量与 $D _ { 1 }$ 和 $D _ { 1 } / D _ { 0 }$ 呈极显著负相关,与 $\varDelta \alpha$ 呈极显著正相关，与 $D , D _ { 0 }$ 和 $ { \Delta } f$ 均无显著相关性。由于研究区土样的 $ { \Delta } f$ 全都大于0,它表示了多重分形谱的性状特征，因此与土壤含盐量无显著相关性。单重分形维数 $D$ 与土壤盐渍化无显著相关性，说明使用单重分形方法并不能很好地解释土壤盐渍化现象。
+
+# 4讨论
+
+本文对研究区土壤样品的单重分形维数 $D$ 进行了计算，得出不同粒级与 $D$ 的关系与他人的研究结果一致[28-30]。研究发现,研究区土壤黏粒的体积分数普遍较低,最低仅为 $0 . 0 2 \%$ 。王敬哲等[7]指出,干旱－半干旱区黏粒含量与土壤盐分呈现显著正相关关系，而随着盐渍化程度的加剧，单重分形维数 $D$ 值也逐渐增大。吴承祯等[31指出，土壤结构性状的自相似性使它成为具有分形特征的分散多孔介质，在维数上表现为黏粒含量越高、质地越细，分形维数越高。已有研究表明，黏粒含量与表征粒径分布均匀性的 $\varDelta \alpha$ 有很高的正相关关系[32],黏粒含量的增多会加剧土壤粒径分布的不均匀性，并且土壤的黏粒较砂粒和粉粒有更大的比表面积,构成了土壤的活性成分[23],而黏粒吸附能力强,通气和透水性差,强烈的地表蒸发使大量盐分聚集[3],导致黏粒对含盐量的影响更大。虽然黏粒减少有可能降低土壤盐渍化的风险，但黏粒对于土壤的理化性质有至关重要的作用，有机质等植被所需的营养物质大都蕴藏在细颗粒中，因此，如何合理控制土壤的粒级组成对于协调土壤肥力和防治土壤盐渍化非常重要。土壤粒径的大概率子集占主导地位说明土壤颗粒多分布于砂粒中[33]。杜金龙等[34]认为,对于盐分含量较高的盐渍土，土壤盐分主要受砂粒的影响与控制,而砂粒与 $\varDelta \alpha$ 的负相关关系[21]说明随着盐渍化程度的加剧，土壤砂粒含量升高，因此土壤粒径的大概率子集越高，土壤越容易发生盐渍化现象。
+
+根据各分形参数的定义，单重分形维数 $D$ 与多重分形参数的计算方法差别较大，所用到的参数不同,两种参数之间表现出不同相关性的原因还需要进一步的研究。在多重分形参数中， $D _ { 1 }$ 与 $D _ { 1 } / D _ { 0 }$ 均可表征土壤粒径分布的集中程度,因此这两个参数表现为极显著正相关；而 $\varDelta \alpha$ 表征的是土壤粒径分布的均匀性，往往集中程度越高，则均匀性会越低，因此 $D _ { 1 }$ 和 $D _ { \scriptscriptstyle 1 } / D _ { \scriptscriptstyle 0 }$ 与 $\varDelta \alpha$ 表现为极显著负相关；同理， $ { \Delta } f$ 表征了土壤粒径分布的对称性,因此与表征集中程度的 $D _ { 1 }$ 和 $D _ { 1 } / D _ { 0 }$ 为显著正相关。土壤粒径分布的均匀性与对称性往往没有直接联系，因此 $\Delta \alpha$ 与 $ { \Delta } f$ 之间并没有显著相关性,因为 $D _ { 0 }$ 表示土壤粒径分布范围，但 $D _ { 0 }$ 的计算是假设粒径是均匀分布的[35],而这与实际情况也许有所差别,因此 $D _ { 0 }$ 没有表现出与其他分形参数的相关性。不同含盐量的土壤函数曲线有着较大的区别,而土壤粒径在微观上的分布差异可能是导致函数曲线差异的主要原因。由于单重分形 $D$ 只能对土壤粒径分布做整体性的描述,而多重分形能够刻画自然界的非均匀性,对土壤粒径分布的局部异质性和非均匀性有更好的表征,并且具有较高的灵敏性和精确度(11]。土壤颗粒不同的组合方式会对土壤盐分产生影响[36]， $D _ { 1 } \setminus D _ { 1 } /$ $D _ { 0 }$ 和 $\varDelta \alpha$ 表征了土壤粒径分布的集中程度和均匀性，这是土壤粒径分布的重要指标，且其与含盐量具有较好的相关性,因此这3个参数比 $D$ 能更好地反映土壤盐渍化特征。由于本研究分析的是所有土壤样品的含盐量与分形参数的关系，而研究区38个土样的含盐量差距较大，部分盐渍土与非盐渍土之间甚至相差1\~2个数量级，同时土壤含盐量与各分形参数之间只做了线性拟合，但含盐量与分形参数的关系可能不是简单的线性关系，它们之间更为复杂的关系还需进一步研究,因此,所得出的相关关系具有较大的不确定性。
+
+本研究只对 $0 \sim 1 0 ~ \mathrm { c m }$ 的土壤进行了分析，虽然表层土壤是盐渍化表现最突出的区域，但不同深度的土壤粒径组成和盐渍化程度均可能存在差异，因此今后尚需研究不同深度土壤的含盐量与土壤粒径分形参数的关系。
+
+# 5结论
+
+（1）渭-库绿洲土壤粉粒占主导地位，其次是砂粒，黏粒最低;土壤含盐量与粉粒和黏粒体积分数呈正相关，而与砂粒呈负相关;土样的单重分形维数$D$ 值介于 $1 . 9 9 0 \sim 2 . 3 4 9$ ,其与土壤的黏粒、粉粒体积分数成正比，与砂粒的体积分数成反比。
+
+（2）土样具有多重分形特征，土样稀疏区分布的土壤颗粒受盐渍化的影响更为敏感，不均匀的粒径分布和土壤粒径的大概率子集所占比重越高，土壤越容易发生盐渍化现象。土壤含盐量与 $D _ { 1 }$ 和$D _ { 1 } / D _ { 0 }$ 呈极显著负相关，与 $\varDelta \alpha$ 呈极显著正相关，与$D , D _ { 0 }$ 和 $ { \Delta } f$ 均没有显著相关性。
+
+# 参考文献(References）：
+
+[1]杨劲松.中国盐渍土研究的发展历程与展望[J].土壤学报, 2008,45（5）:837-845.[Yang Jingsong. Development and prospect of the research on salt-affcted soils in China[J].Acta Pedologica Sinica,2008,45（5）:837 -845.]   
+[2]Huang G,Zhang R.Evaluation of soil water retention curve with the pore-solid fractal model[J].Geoderma,2005,127（1）:52 - 61.   
+[3]王卫超,冯欢,王巍琦,等.开垦对盐渍化弃耕地土壤团聚体含 量及稳定性的影响[J].土壤通报,2016,47（2)：327-333. [WangWeichao,Feng Huan,WangWeiqi,etal.Change in content and characteristics of soil aggregatesafter reclamation of derelict salinized land[J].Chinese Journal of Soil Science,2016,47（2）： 327 -333.]   
+[4]Mandelbrot BB.The Fractal Geometry of Nature[M].New York: W.H.Freeman,1983.   
+[5]Tyler S W,Wheatcraft S W.Fractal scaling of soil particle-size distributions:Analysis and limitations[J].Soil Science Society of America Journal,1992,56(2） :362 -369.   
+[6]杨培岭,罗远培.用粒径的重量分布表征的土壤分形特征[J]. 科学通报,1993,38（20）：1 896-1 899.[Yang Peiling,Luo Yuanpei.Soil fractal characteristics characterized by weight distribution of particle size[J].Chinese Science Bulletin,1993,38 (20):1 896-1 899.]   
+[7]王敬哲,丁建丽,王飞,等.艾比湖湿地不同盐渍化土壤粒度组 成及可蚀性研究[J].土壤,2018,50（3）：589－605.[Wang Jingzhe,Ding Jianli,Wang Fei,et al.Particle size distribution （PSD）and erodibility of soils under diffrent salinization degrees in Ebinur Lake Wetland[J].Soils,2018,50(3）:589 -605.]   
+[8]Montero E.Rényi dimensions analysis of soil particle-size distributions[J].Ecological Modelling,2005,182(3-4） :305-315.   
+[9]Bittelli M,Campbell G S,Flury M.Characterization of particle-size distribution in soils with a fragmentation model[J].Soil Science Society of America Journal,1999,63(4):782-788.   
+[10]代豫杰,郭建英,董智,等.不同沙生灌木下土壤颗粒及重金属 空间分布特征[J].环境科学,2017（11）:4 809－4 818.[Dai Yujie,Guo Jianying,Dong Zhi,et al.Soil particlesand heavy metals spatial distribution under different psammophilic shrubs in Ulan Buh Desert[J].Environmental Science,2017（11）:4 809- 4 818.]   
+[11］闵祥宇,李新举,李奇超.机械压实对复垦土壤粒径分布多重 分形特征的影响[J].农业工程学报,2017,33（20）:274-283. [Min Xiangyu,Li Xinju,Li Qichao.Influence of mechanical compaction on reclaimed soil particle size distribution multifractal characteristics[J].Transactionsof the Chinese Societyof Agricultural Engineering（Transactions of the CSAE）,2017,33（20）:274- 283.]   
+[12]王燕,斯庆毕力格,贾旭,等.基于多重分形的半干旱区弃耕农 田土壤粒径分布特征[J].干旱区研究,2018,35（4）：804 - 812.[Wang Yan,Siqingbilige,JiaXu,etal.Soil particlesize distribution characteristics of abandoned farmland based on multifrac tal insemiarid area[J].AridZoneResearch,2018,35（4):804 812.]   
+[13］马成霞,丁建丽,杨爱霞,等.绿洲区域土壤盐渍化主要参数的 空间异质性分析[J].干旱区资源与环境,2015,29(2）：144- 150.[Ma Chengxia,Ding Jianli,Yang Aixia,etal.Spatial variability of key parameters of soil salinization in oasis area[J]. Journal of Arid Land Resources and Environment,2015,29(2）:144-150.]   
+[14」曹雷,丁建丽,玉米提·哈力克,等.基于国产高分一号卫星数 据的区域土壤盐渍化信息提取与建模[J].土壤学报,2016,53 (6）:1 399-1 409.[Cao Lei,Ding Jianli,Umut Halik,et al. Extraction and modeling of regional soil salinization based on data from GF-1 satellite[J].Acta Pedologica Sinica,2016,53（6）: 1 399 -1 409.]   
+[15]乔木,周生斌,卢磊,等.新疆渭干河流域土壤盐渍化时空变化 及成因分析[J].地理科学进展,2012,31（7）:904-910.[Qiao Mu,Zhou Shengbin,Lu Lei,et al.Causesand spatial-temporal changes of soil salinization in Weigan River Basin,Xinjiang[J]. Progress in Geography,2012,31（7） :904-910.]   
+[16]王家强,哈学萍.渭库绿洲土壤盐渍化遥感监测研究[J].农业 系统科学与综合研究,2011,27（1）：7-11.[WangJiaqiang,Ha Xueping. Remote sensing monitoring of soil salinization in the delta oasis of Weigan and Kuqa Rivers[J]. System Sciencesand Comprehensive Studies in Agriculture,2011,27(1):7-11.]   
+[17］阿依图尔荪·哈力穆拉提.渭干河－库车河三角洲绿洲棉田 表层土壤的理化特征研究〔D].乌鲁木齐：新疆师范大学， 2014.[Ayituersui Halimulati.The Research of the Topsoil Physical and Chemical Properties of Cottn Lands in Weigan and Kuqa Oasis[D].Urumqi:XinjiangNormal University,2014.]   
+[18］曹雷,丁建丽,于海洋.渭－库绿洲多尺度景观格局与盐度关 系[J].农业工程学报,2016,32（3）:101-110.[Cao Lei,Ding Jianli,Yu Haiyang.Relationship between multi-scale landscape pattrn and salinity in Weigan and Kuqa rivers delta oasis[J]. Transactionsof the Chinese Societyof AgriculturalEngineering （Transactions of the CSAE）,2016,32(3）:101-110.]   
+[19］新疆农业厅,新疆土壤普查办公室.新疆土壤[M].北京：科学 出版社,1996:51-52.[Xinjiang Department of Agriculture,Office of Soil Surveyof Xinjiang Uygur Autonomous Region. Xinjiang Soil[M]. Beijing:Science Press,996:51-52.]   
+[20］白一茹,汪有科.黄土丘陵区土壤粒径分布单重分形和多重分 形特征[J].农业机械学报,2012,43（5）：43－48.[Bai Yiru, Wang Youke.Monofractal and multifractal analysis on soil particle distribution in HillyandGully areasof the LoessPlateau[J]. Transactionsof theChinese Societyfor Agricultural Machinery, 2012,43(5) :43 -48.]   
+[21］管孝艳,杨培岭,吕烨.基于多重分形的土壤粒径分布与土壤 物理特性关系[J].农业机械学报,2011,42（3）:44-50.[Guan Xiaoyan,Yang Peiling,LuYe.Relationshipsbetweensoilarticle size distributionand soil physical properties based on multifractal [J].Transactions of the Chinese Society for Agricultural Machinery,2011,42(3) :44 -50.]   
+[22]Paz Ferreiro J,Vidal Vazquez E.Multifractal analysis of $\mathrm { H g }$ pore size distributions in soils with contrasting structural stability[J]. Geoderma,2010,160(1):64-73.   
+[23］胡宏昌,田富强,胡和平.新疆膜下滴灌土壤粒径分布及与水 盐含量的关系[J].中国科学：技术科学,2011（8）：13－20. [Hu Hongchang,Tian Fuqiang,Hu Heping.Soil particle size distribution and its relationship with soil water and salt under mulched drip irrigation in Xinjiang of China[J].Science China Technology Sciences,2011(8）:13-20.]   
+[24］王国梁,周生路,赵其国.土壤颗粒的体积分形维数及其在土 地利用中的应用[J].土壤学报,2005,42（4）：545－550. [Wang Guoliang,Zhou Shenglu,Zhao Qiguo.Volume fractal dimension of soil particles and its applications to land use[J].Acta Pedologica Sinica,2005,42(4） :545-550.]   
+[25]Evertsz C JG,Mandelbrot B B. Multifractal Measures,in Chaos and fractals[C]//Peitgen H O.New Frontiers of Science.New York :Springer Verlag,1992:921-953.   
+[26]Grout H,Tarquis A M,Wiesner MR.Multifractal analysis of particle size distributions in Soil[J].Environmental Science & Technology,1998,32(32):1 176 -1 182.   
+[27]Pieri L,Bittelli M,Pisa PR.Laser diffraction,transmission electron microscopyand image analysis to evaluate a bimodal Gaussian model for particlesize distribution insoils[J].Geoderma,2006, 135(3) :118 -132.   
+[28］方肖晨,王春红,张荣华,等.伏牛山区迎河小流域不同土地利 用类型的土壤粒径分布特征[J].中国水土保持科学,2017,15 (3）:9-16.[Fang Xiaochen,Wang Chunhong,Zhang Ronghua,et al. Soil particle size distribution characteristics under different land use types in Yinghe Watershed of Funiu Mountain Area[J]. Science of Soil and Water Conservation,2017,15(3）:9 -16.]   
+[29］王德,傅伯杰,陈利顶,等.不同土地利用类型下土壤粒径分形 分析——以黄土丘陵沟壑区为例[J].生态学报,2007,27（7）： 3 081-3 O89.[Wang De,Fu Bojie,Chen Liding,et al.Fractal analysis on soil particle size distributions under different land-use type:A case study in the loesshilly areas of the Loess Plateau,China[J].Acta Ecologica Sinica,2007,27(7):3 081-3 089.]   
+[30］张彩红,茹豪,武秀娟,等.庞泉沟流域土壤粒径分形维数特征 〔J].东北林业大学学报,2017（11）:83-88.[Zhang Caihong, Ru Hao,Wu Xiujuan,et al.Fractal dimension characteristics of soil particle size in Pangquangou Watershed[J]. Journal of Northeast Forestry University,2017(11） :83-88.]   
+[31］吴承祯,洪伟.不同经营模式土壤团粒结构的分形特征研究 〔J].土壤学报,1999,36（2）:162-167.[Wu Chengzhen,Hong Wei.Study on fractal features of soil aggregate structure under different management patterns[J]. Acta Pedologica Sinica,1999,36 (2):162 -167.]   
+[32]黄冠华,詹卫华.土壤颗粒的分形特征及其应用[J].土壤学 报,2002,39（4）:490-497.[Huang Guanhua,Zhan Weihua. Fractal property of soil particle size distribution and its application [J].Acta Pedologica Sinica,2002,39(4） :490 -497.]   
+[33］许婷婷,董智,李红丽,等.不同设障年限沙丘土壤粒径和有机 碳分布特征[J]．环境科学研究,2014,27(6):628-634.[Xu Tingting,Dong Zhi,Li Hongli,etal.Distributionsof soil particle
+
+size and soil organic carbon in dunes of checkerboard barriers with different setting years[J].Research of Environmental Sciences, 2014,27(6):628 -634.)
+
+[34]杜金龙，靳孟贵，欧阳正平，等.焉耆盆地土壤盐分剖面特征及 其与土壤颗粒组成的关系[J].地球科学：中国地质大学学报， 2008,33（1）：131-136.［Du Jinlong，Jin Menggui,Ouyang Zhengping,et al.Characteristics of soil salinity profiles and relationship between salinity and soil particle composition in Yanqi Basin of Xinjiang,China[J].Earth Science:Journal of China University of Geosciences,2008,33(1) :131-136.]
+
+[35]孙梅，孙楠，黄运湘，等.长期不同施肥红壤粒径分布的多重分 形特征[J].中国农业科学，2014,47（11）:2173-2181.[Sun Mei,Sun Nan,Huang Yunxiang,et al.Multifractal characterization of soil particle size distribution under long-term different fertilizations in upland red soil[J]. Scientia Agricultura Sinica,2014,47 (11):2 173 -2 181.]
+
+[36]李二焕，胡海波，鲁小珍，等.苏北滨海盐土区土壤盐分剖面特 征及其理化特性[J].水土保持研究，2016，23（4)：116-119， [LiErhuan,Hu Haibo,Lu Xiaozhen,et al.Characteristicsofsoil salinity profiles and physical and chemical properties of coastal saline soil in the estuary of north Jiangsu[J].Research of Soil and Water Conservation,2016,23(4）:116-119.]
+
+# Fractal and Multifractal Analysis on Saline Soil Particle Size Distribution in Arid Oasis
+
+ZHANG An-he $^ { 1 , 2 , 3 }$ ，DING Jian-li1,2,3，WANG Jing-zhe1,23，MUATTAR Saydi $^ { 1 , 2 , 3 }$ ，LI Yan-ju $^ { 1 , 2 , 3 }$ (1.KeyLaboratoryofSmartCityndEnvronmentModelingofHigherEducationInstute，Xinjiang University，Urumqi800046, Xinjiang， China ； 2. Collage of Resources and Environmental Sciences，Xinjiang University，Urumqi 830046，Xinjiang，China; 3.KeyLaboratoryofOasis Ecologyunder Ministryof Education，Xinjiang University，Urumqi 830046，Xinjiang，China)
+
+Abstract：Inordertoexplore therelationship between salinization characters and soil particle size distribution (PSD）ofsoil inarid oasis，total 38 soil samples were collcted from the Weigan-Kuqa Riverdelta oasis in Xinjiang Uygur Autonomous Region in April 2O16.And the characteristics of soil PSDof saline soil and non-saline soil in the studyarea were quantitatively basedon the fractal theory.The results showed that the volumetric percentages of silt particles were dominated,follwed bysandand clayparticles.The volumetric percentages of silt and clay were positively correlated with soil salt content，while the volumetric percentage of sand was negatively correlated with soil salt content. The $D$ value of the fractional dimension was ranged from 1.99O to 2.349，and the correlation coefficients between it and the volumetric percentages of clayand silt particles was O.81 andO.64,respectively，which passed the significance test at level of O.O1. However，the correlation between $D$ value and the volumetric percentage of sand particles was significantly negative with the correlation coefficient of $- 0 . 6 7$ ( $P < 0 . 0 1 )$ ．The soil PSD had the multifractal characteristics，PSD range of the saline soil （salt content $\geqslant 3 \mathrm { ~ g ~ } \cdot \mathrm { ~ k g ~ } ^ { - 1 }$ ）was wider than that of the non-saline soil（salt content $< 3 \mathrm { ~ g ~ } \cdot \mathrm { ~ k g ~ } ^ { - 1 }$ ），and which was more heterogeneous. Soil salt content was significantly negative correlation with the multifractal parameters $D _ { 1 }$ (the entropy dimension）and $D _ { 1 } / D _ { 0 }$ with the correlation coefficients of -0.265（ $P < 0 . 0 1 )$ and -0.283 ( $P < 0 . 0 1 \$ ）respectively. The significantly positive correlation could be detected between soil salt content and $\varDelta a$ (the width of multifractal spectra）with a correlation coefficient of 0.206 ( $\textstyle P < 0 . 0 1 { \dot { } }$ ).However，soil salt content had no significant correlation with $D$ ， $D _ { 0 }$ ( capacity dimension）and $ { \Delta } f$
+
+Key words:Weigan-Kuqa River Oasis；saline soil； soil particle size; fractal； multifractal；arid region

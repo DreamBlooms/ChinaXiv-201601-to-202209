@@ -1,0 +1,504 @@
+[
+    {
+        "type": "text",
+        "text": "北非副热带高压与中亚夏季降水的关系",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "卢星，赵勇",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（高原大气与环境四川省重点实验室/成都信息工程大学大气科学学院，四川成都610225）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于1979—2019年欧洲中期数值预报中心(ECMWF)的ERA-Interim逐月再分析数据和英国东安格利亚大学气候研究中心(CRU)的陆面逐月降水数据，分析夏季北非副热带高压（北非副高)与中亚夏季降水的关系。结果表明：北非副高的脊线指数和东伸脊点指数变化与中亚夏季降水联系紧密。在2个指数的单独变化和协同变化下，中亚夏季降水和大尺度环流异常分布存在很大不同。副高脊线主要导致中亚夏季降水南北反相变化，副高东伸脊点位置对中亚中南部降水存在重要影响。当副高位置偏东偏北时，里海和咸海上空受异常气旋控制，哈萨克斯坦大部分地区降水偏多，新疆受蒙古异常反气旋控制，降水偏少；当副高位置偏西偏南时，中亚地区主要受异常反气旋控制，其东北部存在异常气旋切变，对应中亚东北部降水偏多，其余区域降水偏少；当副高位置偏西偏北时，中亚上空受异常反气旋控制，大部分地区降水偏少；当副高位置东偏南时，中亚上空受异常气旋控制，热带印度洋水汽通过两步输送的方式,进入中亚上空，形成有利的动力和水汽条件，导致中亚大部分地区夏季降水偏多。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：北非副高；副高脊线；副高东伸脊点；协同变化；中亚夏季降水文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "副热带高压(副高)是指副热带地区对流层中、低层上空呈带状分布的暖性高压系统。在北半球，副高存在4个高值中心，分别位于北非、太平洋、大西洋和印度洋上空[1-2]。非绝热加热对副高的形成和发展具有重要的作用。在东半球凝结潜热加热起主要作用，导致夏季副高位置和强度等发生变化；北美地区副高变化主要由地表的感热加热决定[3-4]。青藏高原在夏季是一个巨大的热源,会对周围大气的环流产生重要影响[5-8，受高原加热和地形影响，副高带在高原上空发生断裂，形成2个高值中心，其东侧为西太平洋副热带高压（西太副高），其西侧为北非副热带高压(北非副高)。夏季时，北非副高会向东伸展到伊朗高原，并作长时间的停留，故北非副高又被国内学者称作为伊朗副高[9]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "副高对区域天气气候演变具有重要影响，历来受到气象学者的重视。西太副高是东亚夏季风系统的重要成员之一，与东亚大气环流密切相关，其空间位置的移动及其强弱变化都会对东亚天气气候产生影响[9-12]。北非副高作为干旱区重要的天气系统，同样影响周围天气。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "已有研究指出当北非副高东伸进入伊朗高原后，新疆南部夏季降水将偏多，并与新疆夏季高温联系密切[13];当副高脊线位置偏北时，青藏高原夏季降水将会呈现明显的西多东少的分布特征，我国新疆地区易少雨；副高空间位置变化也会影响东亚夏季环流和降水，副高脊线与亚洲纬向遥相关关系密切，在强度和空间位置变化上与西太副高相似，当北非副高位置偏南时，我国东部长江以南地区降水会明显增多，反之依然[14]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前关于北非副高对中亚天气气候影响的研究还较少，具体的物理影响机制还不清楚。北非副高是北半球西风环流系统的重要成员，对中亚干旱区天气气候具有重要影响[13]；中亚降水而在很大程度上受西风环流调控[15-16],那么北非副高是否可以影响中亚夏季降水？如何影响中亚夏季降水？是值得研究的问题。本文在分析北非副高位置变化特征的基础上，揭示其空间位置变化对中亚夏季降水的联系，以便提高对中亚干旱区夏季降水异常形成机理的认识。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1资料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中亚是世界上最大的内陆干旱区，包括哈萨克斯坦共和国、乌兹别克斯坦共和国、塔吉克斯坦共和国、吉尔吉斯斯坦共和国、土库曼斯坦共和国和我国新疆(图1)。1979—2019年期间，中亚夏季降水呈现北多南少的分布特征，降水主要集中在天山山区和帕米尔高原地区[17-19];中亚 $7 0 ^ { \\circ } \\mathrm { E }$ 以西降水呈减少趋势，以东呈增加趋势，其中新疆西部和帕米尔高原地区,夏季降水增加尤其显著[20](图略)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2研究资料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "欧洲中期天气预报中心(ECWMF)提供了ERA-Interim逐月再分析数据集[21-22],包括风场、比湿、地面气压和位势高度等资料。其中风场、比湿和地面气压数据空间分辨率为 $2 . 5 ^ { \\circ } { \\times } 2 . 5 ^ { \\circ }$ ,位势高度数据的空间分辨率为 $1 . 0 ^ { \\circ } \\times 1 . 0 ^ { \\circ }$ 。英国East Anglia大学Cli-maticResearchUnit(CRU)提供了陆面逐月降水数据[23],空间分辨率为 $0 . 5 ^ { \\circ } { \\times } 0 . 5 ^ { \\circ }$ 。这套资料在中亚气候变化研究得到了广泛应用[24-26]。本文的夏季为",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "6—8月的平均。研究时段为1979—2019年，共计   \n41 ao ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用东伸脊点指数和脊线指数来描述北非副高的空间位置变化。根据西太副高西伸脊点指数计算方法[27-28],对北非副高东伸脊点指数进行了定义；北非副高脊线指数采用国家气候中心提供的方法。具体计算方法如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "北非副高脊线指数： $5 0 0 \\mathrm { { h P a } }$ 高度场， $1 0 ^ { \\circ } { \\sim } 6 0 ^ { \\circ } \\mathrm { N }$ $2 0 ^ { \\circ } { \\sim } 6 0 ^ { \\circ } \\mathrm { E }$ 区域内，逐条经线上副热带高压中心（即位势高度大于 $5 8 4 0 ~ \\mathrm { g p m } )$ ，纬向风 $u = 0$ 、且$\\partial u / \\partial y > 0$ )位置所在纬度的平均值，为北非副高脊线位置指数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "北非副高东伸脊点指数： $5 0 0 \\mathrm { { h P a } }$ 高度场， $1 0 ^ { \\circ } \\sim$ $6 0 ^ { \\circ } \\mathrm { N }$ $1 0 ^ { \\circ } { \\sim } 8 0 ^ { \\circ } \\mathrm { E }$ 区域内, $5 8 7 0 ~ \\mathrm { g p m }$ 等值线最东端位置所在经度，为北非副高东伸脊点指数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "分析副高指数与中亚降水关系时，使用了一元线性回归方法，具体计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { i } = a x _ { i } + b\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $x _ { i }$ 为副高指数; $\\boldsymbol { y } _ { i }$ 为中亚夏季降水; $\\mathbf { \\alpha } _ { a }$ 为回归系数； $b$ 为常数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "分析水汽输送情况时，对地面至 $3 0 0 \\mathrm { { h P a } }$ 水汽进行了积分计算，具体计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ = { \\frac { 1 } { g } } { \\int _ { p _ { 0 } } ^ { p } } q V \\mathrm { d } p\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $Q$ 为水汽通量 $\\left( \\mathbf { k g } \\cdot \\mathbf { m } ^ { - 1 } \\cdot \\mathbf { s } ^ { - 1 } \\right)$ ; $\\boldsymbol { g }$ 为重力加速度",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "注：该图基于国家测绘地理信息局标准地图服务网站下载的审图号为GS(2019)333号的标准地图制作，底图边界无修改。下同。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c6f9f640503c962b79ac2d51ea946a605d8f230c80268882dc457e6c4f67ffe1.jpg",
+        "img_caption": [
+            "图1中亚地形分布",
+            "Fig.1 Topographic distribution over Central Asia "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$( \\mathrm { m } \\cdot \\mathrm { s } ^ { - 2 } ) { \\ : ; } p _ { 0 }$ 为地面气压 $\\left( \\mathrm { { h P a } } \\right)$ $p$ 为积分上限（本文为$3 0 0 \\mathrm { { h P a } }$ ） $q$ 为比湿; $V$ 为二维风矢量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为方便讨论夏季北非副高的年际变化特征以及与中亚夏季降水的联系，对北非副高的东伸脊点指数和脊线指数进行了标准化，并分别用 $x _ { i }$ 和 $y _ { i }$ 表示（其中i为年份）。年际变化上，北非副高脊线指数整体呈现下降趋势，表明副高近年来逐渐向南偏移(图2a)；北非副高东伸脊点指数趋势变化不明显(图2b)。空间位置变化上，北非副高南北位置变化不明显，即使在脊线指数的最大年和最小年，其位置与平均位置差距也较小(图2c);东西位置上，北非副高位置变化明显，东西跨20个经度，最西年份副高位于沙特阿拉伯半岛，最东年份副高可至中亚西南部(图2d)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1北非副高脊线和东伸脊点位置单独变化与中亚夏季降水的关系",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如图3所示，将北非副高脊线指数和东伸脊点指数分别与中亚夏季降水进行了线性回归分析，可以发现，东伸脊点指数与中亚大部分区域降水的回归系数均为正值，表明当北非副高向东伸展时，中亚大部分区域降水将会增多， $3 7 . 5 ^ { \\circ } { \\sim } 4 5 ^ { \\circ } \\mathrm { N }$ 区域内，这",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ee72705df667c35d33ad216eb27c853e0d4b5456b13458a3a82a1b95b041a3ff.jpg",
+        "img_caption": [
+            "图2夏季北非副高脊线指数和东伸脊点指数年际变化及北非副高空间位置移动"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/935062e3d9f19aadcd308efcffe4d6028de463e04fdb19d28bfdb151cf345738.jpg",
+        "img_caption": [
+            "Fig.2Annual variation of summer North African subtropical high ridge line index and eastern extension ridge index and spatial position movement of North African subtropical high ",
+            "图3北非副高指数与中亚夏季降水线性回归分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Linear regressions of summer precipitation against the North Africa subtropical high index over Central Asia种关系是显著的(图3a)；脊线指数与中亚降水的回归系数呈现南负北正的分布，其中在帕米尔高原、新疆天山以及新疆东部地区关系显著，表明当北非副高向南偏移时中亚南部降水将会增多，北部降水将会减少，反之亦然(图3b)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "那么北非副高空间位置的不同变化对中亚夏季降水的影响如何呢？表1给出了北非副高8种空间位置情况。前4种情况为两指数均出现异常的协同变化；后4种情况为仅考虑其中之一指数出现异常的单独变化。以下通过合成分析首先探讨北非副高单独变化下与中亚降水关系；而后再探讨协同变化下的情况。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图4给出了北非副高4种空间位置单独变化下中亚夏季降水异常分布。由图4a可见，当北非副高位置异常偏东时，哈萨克斯坦北部和新疆中部降水距平为负值，其余地区降水为正值，其中在帕米尔高原区域降水增加是显著。当北非副高位置异常偏西时(图4b)，除个别区域外，整个中亚地区夏季",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/bada7c423876186a1113a9f6a7bea9b650fc9d94a55b987cbd74473afa96489a.jpg",
+        "table_caption": [
+            "表1北非副高8种异常空间位置",
+            "Tab.1 Eight anomalous spatial position of North African subtropical high "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>空间位置类型</td><td>东伸脊点指数(xi)</td><td>脊线指数(yi)</td><td>年份</td></tr><tr><td>偏东偏北</td><td>xi>0.5</td><td>yi>0.5</td><td>1980、1988、1999、2017</td></tr><tr><td>偏东偏南</td><td>xi>0.5</td><td>y<-0.5</td><td>1979、1987、1991、1992、2002、2016、2018</td></tr><tr><td>偏西偏北</td><td>x<-0.5</td><td>yi>0.5</td><td>1984、1985、2000、2012、2013</td></tr><tr><td>偏西偏南</td><td>x<-0.5</td><td>yi<-0.5</td><td>2007</td></tr><tr><td>偏东</td><td>xi>0.5</td><td>lyil<0.5</td><td>1983、1998、2003、2019</td></tr><tr><td>偏西</td><td>x<-0.5</td><td>lyil<0.5</td><td>1986、1989、1995、1996</td></tr><tr><td>偏北</td><td>lxi|<0.5</td><td>yi>0.5</td><td>1982、1990、1993、1994、2001、2006</td></tr><tr><td>偏南</td><td>lxil<0.5</td><td>yi<-0.5</td><td>1981、1997、2004、2014、2015</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/87653e50c371bef0e79b54bba0565092b42c95a2fe4d1f039c78f8b77a9dd324.jpg",
+        "img_caption": [
+            "图4北非副高指数单独变化下中亚夏季降水距平的合成分布",
+            "Fig.4 Composite distribution of summer rainfall anomalies over Central Asia under the single variation of North African subtropical high index "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "降水均呈现显著减少。当北非副高位置异常偏北时(图 $4 \\mathrm { c }$ ）， $4 7 ^ { \\circ } \\mathrm { N }$ 以北中亚夏季降水距平为正，以南降水距平为负值，在帕米尔高原地区降水减少是显著的。当北非副高位置异常偏南时(图4d)，中亚西部和新疆南部降水为正距平，中亚西北部地区降水为负距平且减少是显著的。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "副高空间位置变化对区域环流和水汽输送具有重要影响[29-31]。通过合成分析进一步讨论副高位置移动对区域环流和水汽输送的影响。由图5a可见，当北非副高位置异常偏东时，自西向东，中亚上空受异常气旋和反气旋控制，二者共同作用下，中亚中部和南部受异常偏南风控制，形成利于降水的动力条件，而中亚北部受异常北风控制，不利于降水的发生。当北非副高位置异常偏西时(图5b)，整个中亚受异常反气旋控制，盛行偏北气流，不利于中亚大部分地区降水发生。当北非副高位置异常偏北时(图5c)，中亚北部受异常气旋控制，南部受异常反气旋控制，利于北部地区降水发生，不利于南部地区降水。当北非副高位置异常偏南时，中亚南部受异常气旋控制，西北部受异常反气旋控制，利于南部地区降水发生，不利于北部地区降水(图5d)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图6a给出了北非副高位置异常偏东时，水汽通量距平的合成分布。由图可见，西太副高增强，加强了西太平洋水汽的向北输送，配合华北上空的异常气旋环流，将水汽向西输送。当北非副高位置异常偏西时(图6b)，热带印度洋和西北太平水汽均不利于向中亚区域输送。当北非副高位置异常偏北时（图6c)，印度半岛上空为异常气旋，水汽向北输送较为困难，东亚夏季风增强，西太平洋水汽输送至我国华北东北地区，配合蒙古上空的气旋环流，可以将水汽向西输送至中亚北部地区，为该地区降水提供水汽条件。当北非副高位置异常偏南时（图6d)，虽然印度半岛上空为异常反气旋，可以将印度洋水汽向北输送，但是中亚上空的气旋较弱，因而导致南支水汽的输送不强，水汽主要源于西北太平洋。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2北非副高脊线和东伸脊点位置协同变化与中亚夏季降水的关系",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在2.1节，讨论了北非副脊线和东伸脊点位置单独变化下中亚降水变化以及大尺度环流和水汽输送的异常分布情况。本节进一步分析副高脊线和东伸脊点位置协同变化时的情况。由图7a可见，当北非副偏东偏北时，中亚夏季降水距平由南到北",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7eb582e5233ab5e967c9b6ea6dc9b2fe359498b99deae937d98685c8699f79f9.jpg",
+        "img_caption": [
+            "图5北非副高指数单独变化下 $5 0 0 \\mathrm { { h P a } }$ 风场距平合成分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.5Composed distribution of $5 0 0 \\mathrm { { h P a } }$ wind anomalies under the single variation of North African subtropical high indei呈现负正负的分布特征，哈萨克斯坦大部分区域降水为正距平，其北部边界和南侧的塔吉克斯坦、乌兹别克斯坦降水为负距平，新疆除天山山区以外大部分地区降水距平都为负值。当北非副高偏西偏北时(图7b)，中亚大部分地区降水距平为负，西北部降水为正。当北非副高偏东偏南时(图7c)，中亚大部分区域夏季降水为正值。当北非副高偏西偏南时(图7d)，除新疆北部和哈萨克斯坦北部降水偏多外，其余地区降水均偏少。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2a2eb3fc649d8157e3cfe2fd8d3d1bf36f6cf13f3f2158c0cbd4ebe188f913b.jpg",
+        "img_caption": [
+            "注：水汽通量由地表积分至 $3 0 0 \\mathrm { { h P a } _ { \\circ } }$ （204号",
+            "图6北非副高指数单独变化下水汽通量距平合成分布",
+            "Fig.6Composed distributionof water vaporflux anomalies under the single variationofNorth Africansubtropical high inde "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图8给出了北非副高空间位置协同变化下500hPa风场距平分布。当北非副高偏东偏北时（图8a)，中亚里海和咸海上空受异常气旋控制，其东部的偏南气流有利于哈萨克斯坦中南部夏季降水的发生，吉尔吉斯斯坦、塔吉克斯坦及乌兹别克斯坦由于受 $3 5 ^ { \\circ } \\mathrm { N }$ 以南异常反气旋的控制，不利于降水的发生。当北非副高偏西偏北时(图8b)，中亚大部受异常反气旋控制，盛行偏北气流，夏季降水均偏少，但其西北部受异常气旋控制，因而利于降水发生。当北非副高偏东偏南时(图8c)，中亚上空受异常气旋控制，盛行异常偏南气流，利于低纬地区的暖湿气流北上，为降水发生提供有利的动力条件。当北非副高偏西偏南时(图8d)，中亚大部分地区受反气旋环流控制，不利于降水发生，但哈萨克斯坦东北部受异常气旋切变控制，为该区域降水的发生提供有力的动力条件，配合蒙古上空的异常反气旋，新疆北部盛行异常偏南风，因而该区域降水也易发生。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图9给出了北非副高空间位置协同变化下500hPa水汽通量距平分布。当北非副高偏东偏北时（图9a)，阿拉伯海上空受异常反气旋控制，有利于热带海洋水汽向北输送，配合里海和咸海上空的气旋环流，进一步将水汽输送至中高纬度地区；同时我国东部长江以南受反气旋环流控制，同时配合蒙古上空的反气旋环流，可以将西太平洋的水汽向西北输送，但是较阿拉伯海的水汽输送，这只水汽输送较弱。当北非副高偏西偏北时(图9b)，阿拉伯海和印度半岛上空受异常气旋控制，不利于印度洋的水汽向北输送，因而中亚大部地区水汽条件相对较弱。我国华中地区上空受异常反气旋控制，可以将中纬度海洋的水汽输送至华北和东北地区，配合蒙",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e03ccd5b158eac5d304b154993ffd9787b4151fcd2ffca2f7915a7eff764f23.jpg",
+        "img_caption": [
+            "图7北非副高指数协同变化下中亚夏季降水距平的合成分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/30d3d8853f6e555508119a47543ae5e9aaa145a1320d4c6a4e1ad3595daa3364.jpg",
+        "img_caption": [
+            "Fig.7 Composed distribution of summer rainfall anomalies over Central Asia under the concurrent variation ofNorthAfrican subtropical high index ",
+            "图8北非副高指数协同变化下 $5 0 0 \\mathrm { { h P a } }$ 风场距平合成分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.8Composed distribution of $5 0 0 \\mathrm { { h P a } }$ wind anomalies under the concurrent variation of North African subtropical high indey ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/7dc678cfa07b1b24eba229d493c0c851cb39c42687a5d42bba40c8aa05417f9b.jpg",
+        "img_caption": [
+            "注：水汽通量由地表积分至 $3 0 0 \\mathrm { { h P a } }$ □ ",
+            "图9北非副高指数协同变化下水汽通量距平合成分布",
+            "Fig.9 Composed distribution of water vapor flux anomalies under the concurrent variation of North African subtropical high index "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "古上空的气旋环流，进一步将水汽向西输送，为中亚西北部夏季降水提供水汽条件。当北非副高偏东偏南时(图9c)，阿拉伯海上空和中亚上空分别受异常反气旋和气旋控制，经过2个系统的两步输送，热带印度洋的水汽进入中亚上空。东亚夏季风减弱，因而西太平洋的水汽无法输送到中亚东部地区。当北非副高偏西偏南时(图9d)，阿拉伯海上空受异常气旋控制，印度洋水汽输送至中亚地区较为困难，但东亚夏季风增强，西太平洋水汽沿青藏高原东部绕流经河西走廊进入中亚东部(我国新疆地区），为该地区夏季降水提供水汽条件。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文讨论了夏季北非副高空间位置变化与中亚夏季降水的关系，揭示了夏季北非副高对中亚夏季降水的影响过程，但存在以下不足：(1)没有考虑西太副高的影响。图10给出了夏季北非副高东伸脊点指数和西太副高西伸脊点指数与中亚夏季降水的线性回归分布。由图可见，西太副高西伸脊点指数与中亚 $4 5 ^ { \\circ } \\mathrm { N }$ 以南地区夏季降水呈现线性负相关，其中在塔吉克斯坦和吉尔吉斯斯坦以及新疆天山和塔里木盆地西侧关系显著，表明当西太副高位置向西偏移时，中亚 $4 5 ^ { \\circ } \\mathrm { N }$ 以南地区夏季降水偏多，反之则偏少。以上表明北非副高和西太副高都对中亚夏季降水存在影响，那么两者共同作用对中亚夏季降水的影响如何呢？需要我们进一步讨论。（2）下垫面加热与西太副高的位置变化联系紧密[31-32],非绝热加热在空间的非均匀分布影响西太副高的断裂闭合[3]；北美陆表的感热通量决定北美副高位置变化和季节移动[4]，凝结潜热决定了东半球副高位置和强度变化等；那么非绝热加热对北非副高的影响如何，目前关注较少，影响机制尚不清楚，也需要我们进一步分析。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f81642850bc25815e2a234dda2e48404fd991906cfabb0b165ae5f596dc0bfd.jpg",
+        "img_caption": [
+            "图10北非副高和西太副高指数与中亚夏季降水线性回归分布",
+            "Fig.10 Linear regressions of summer precipitation against the North Africa subtropical high index and WestPacific subtropical high index over centralAsia "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文利用一元线性回归和合成分析等方法分析了1979—2019年北非副高脊线指数和东伸脊点指数与中亚夏季降水的关系，揭示了2个指数单独变化和协同变化下中亚夏季降水、环流和水汽输送的异常特征。主要结论如下：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（1）1979—2019年夏季北非副高东西位置移动范围较大，南北位置较为稳定；北非副高东伸脊点指数与中亚夏季大部分地区降水呈现线性正相关，且关系显著；脊线指数与中亚夏季降水呈现南负北正的线性回归特征，其中在帕米尔高原和新疆天山地区呈现明显的线性负相关。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2）在副高指数单独变化下，夏季北非副高异常偏东(西)时，中亚大部分区域降水将会增多(减少），中亚南部盛行异常南风(北风)，水汽由东部海洋输送(水汽输送条件较差）。副高脊线位置向南(北)偏移时，中亚南部降水将会增多(减少），北部将会减少(增多)，中亚南部(北部)和北部(南部)分别受异常气旋(反气旋)和反气旋(气旋)控制，水汽源于西北太平洋。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(3）在副高指数协同变化下，夏季北非副高异常偏东(西)偏南(北)时，中亚大部分区域降水将增多(减少），中亚受异常气旋(反气旋)控制，水汽输送条件较好(差)；当副高偏东偏北时，中亚中部地区降水将增多，中亚中部盛行异常南风，水汽由阿拉伯海输送至中亚；当副高偏西偏南时，除中国新疆北部和哈萨克斯坦北部，中亚大部分区域降水将减少，中亚盛行异常北风，水汽可由西北太平洋向西输送至中国新疆和哈萨克斯坦北部。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] 符淙斌,王金根,吴达铭.北半球副高带的长期变化(一)[J].气 象,1980(3): 3-5.[Fu Congbin,Wang Jingen,Wu Daming.Long term variation of the subtropical high belt in the Northern Hemisphere(1)[J]. Meteorological Monthly,1980(3): 3-5.]   \n[2]骆美霞,朱抱真,沈如金.大地形对夏季北半球副热带高压形成 作用的数值试验[J].大气科学,1986,10(3):258-265.[Luo Meixia,Zhu Baozhen, Shen Rujin.A numerical experiment of the dynamic effect of large-scale topography on the formation of subtropical high in the northern summer[J]. Chinese Journal of Atmospheric Sciences,1986,10(3): 258-265.]   \n[3]吴国雄,刘屹岷.空间非均匀加热对副热带高压带形成和变异 的影响I:尺度分析[J].气象学报,1999,57(3):257-263.[Wu Guoxiong,Liu Yimin. The effect of spatially nonuniform heating on the formation and variation of subtropical high part I: Scale analysis[J].Acta Meteorologica Sinica,1999,57(3):257-263.]   \n[4]刘屹岷,刘辉,刘平,等.空间非均匀加热对副热带高压形成和 变异的影II:陆面感热与东太平洋副高[J].气象学报,1999,57 (4): 385-396.[Liu Yimin,Liu Hui, Liu Ping,et al.The effect of spatially nonuniform heating on the formation and variation of subtropical high part II: Land surface sensible heating and East Pacific subtropical high[J]. Acta Meteorologica Sinica,1999,57(4): 385-396.]   \n[5]Yeh TC.Some aspects of the thermal influences of the Qinghai-Tibetan Plateau on the atmospheric circulation[J].Archives for Meteorology,Geophysics,and Bioclimatology,Series A，1982,31(3): 205-220.   \n[6]李栋梁,魏丽,李维京,等.青藏高原地面感热对北半球大气环 流和中国气候异常的影响[J].气候与环境研究,2003,8(1):60-   \n70.[Li Dongliang,Wei Li,Li Weijing,etal.The effect of surface sensible heat flux of the Qinghai-Xizang Plateau on general circulation over the Northern Hemisphere and climatic anomaly of China[J]. Climatic and Environmental Research, 2003,8(1): 60-70.] [7]周秀骥,赵平,陈军明,等.青藏高原热力作用对北半球气候影 响的研究[J].中国科学(D辑:地球科学),2009,39(11):1473-   \n1486.[Zhou Xiuji, Zhao Ping,Chen Junming,etal.Impactsof thermodynamic processes over the Tibetan Plateau on the Northern Hemispheric climate[J]. Science China Earth Sciences,2009,   \n39(11): 1473-1486.] [8]Zhao Y, Huang A, Zhou Y,et al. The impacts of the summer plateau monsoon over the Tibetan Plateau on the rainfallin the Tarim Basin,China[J].TheoreticalandApplied Climatology,2016,126 (1): 265-272. [9]张家宝,邓子风,马建民.新疆大降水及其预报的研究(二)[J].新 疆气象,1986(2): 4-10.[Zhang Jiabao,Deng Zifeng,Ma Jianmin. Study on heavy precipitation and its forecast in Xinjiang (2)[J]. Desert and Oasis Meteorology,1986(2): 4-10.] [10]张庆云,陶诗言.夏季西太平洋副热带高压北跳及异常的研究 [J].气象学报,1999,57(5):539-548.[Zhang Qingyun,Tao Shiyan.The study of the sudden northward jump of the subtropical high over the Western Pacific[J].Acta Meteorologica Sinica,1999,   \n57(5): 539-548.] [11] 卫捷,杨辉,孙淑清.西太平洋副热带高压东西位置异常与华北 夏季酷暑[J].气象学报,2013,62(2):308-316.[Wei Jie,Yang Hui, Sun Shuqing.Relationship between the anomaly longitudinal position of subtropical high in the Western Pacific and severe hot weather in North China in summer[J].Acta Meteorologica Sinica,   \n2013, 62(2): 308-316.] [12]韦道明,李崇银,谭言科.夏季西太平洋副热带高压南北位置变 动特征及其影响[J].气候与环境研究,2011,16(3):255-272. [Wei Daoming,Li Chongyin,Tan Yanke.Variation features and the impact of the latitudinal position of the Western Pacific subtropical high in summer[J]. Climatic and Environmental Research,   \n2011, 16(3): 255-272.] [13] 陶诗言,徐淑英.夏季江淮流域持久性旱涝现象的环流特征[J]. 气象学报,1962,32(1):1-18.[Tao Shiyan,Xu Shuying.Some aspects of the circulation during the periods of the persistent drought and flood in Yangtze Huaihe River Basin in summer[J].Acta Meteorologica Sinica,1962,32(1): 1-18.] [14] 假拉,周顺武,丁锋.北非高压的气候特征及其对中国夏季降水 的影响[J].南京气象学院学报,2002,25(6):816-822.[Jia La, Zhou Shunwu,Ding Feng.The climatic character of North Africa subtropical high and its effect on summer precipitation in China[J]. Journal of Nanjing Institute of Meteorology,2002,25(6): 816-822.] [15] Chen F, Chen J, Huang W,et al. Westerlies Asia and monsoonal Asia: Spatiotemporal diffrences in climate change and possible mechanisms on decadal to sub-orbital timescales[J]. Earth-Science Reviews,2019,192: 337-354.   \n[16]Zhao Y, Yu X, Yao J,et al.Evaluation of the subtropical westerly jet and its effects on the projected summer precipitation over Central Asia using multi-CMIP5 models[J].International Journal of Climatology,2018(38): 1176-1189.   \n[17] 姜逢清,胡汝骥.近50年来新疆气候变化与洪、旱灾害扩大化 [J].中国沙漠,2004,24(1): 37-42.[Jiang Fengqing, Hu Ruji. Cli mate change and flood & drought disasters in Xinjiang during recent 50 years[J]. Journal of Desert Research,2004,24(1): 37-42.]   \n[18] 陈亚宁,李稚,方功焕.中亚天山地区关键水文要素变化与水循 环研究进展[J].干旱区地理,2022,45(1):1-8.[Chen Yaning,Li Zhi,Fang Gonghuan. Changes of key hydrological elements and research progress of water cycle in the Tianshan Mountains, Central Asia[J]. Arid Land Geography,2022,45(1): 1-8.]   \n[19] 郭玉琳,赵勇,周雅蔓,等.新疆天山山区夏季降水日变化特征 及其与海拔高度关系[J].干旱区地理,2022,45(1):57-65.[Guo Yulin, Zhao Yong, Zhou Yaman, et al.Diurnal variation of summer precipitation and itsrelationship with altitude in Tianshan Mountains of Xinjiang[J].Arid Land Geography,2022,45(1): 57-65.]   \n[20] 李珍,姜逢清.1961—2004年新疆气候突变分析[J].冰川冻土, 2007,29(3):351-359.[LiZhen,Jiang Fengqing.A studyof abrupt climate change in Xinjiang region during 1961—2004[J]. Journal of GlaciologandGeocryology07,29(3):351-59.   \n[21]Berisford P,Dee D,Poli P,etal.The ERA-Interim archive: Version 2.O[J]. Nihon Seirigaku Zasshi Journal of thePhysiological Society of Japan,2011,31(10): 1-19   \n[22] Simmons A,Uppala S,Dee D,et al. ERA-Interim: New ECMWF reanalysisproducts from 1989 onwards[J].ECMWF Newsletter, 2007,110: 25-35.   \n[23]Harris I, Jones P D,Osborn T J,et al.Updated high-resolution grids of monthly climatic observations: The CRU TS3.1O Dataset [J]. International Journal of Climatology,2014,34(3): 623-642.   \n[24] 陈发虎,黄伟,靳立亚,等.全球变暖背景下中亚干旱区降水变 化特征及其空间差异[J].中国科学:地球科学,2011,41(11): 1647-1657.[Chen Fahu,Huang Wei,Jin Liya,et al. Spatiotemporal precipitation variations in the arid Central Asia in the context of global warming[J].Science China Earth Sciences,2O1,41(11): 1647-1657.]   \n[25] 黄秋霞,赵勇,何清,等.基于CRU资料的中亚地区气候特征 [J].干旱区研究,2013,30(3):396-403.[Huang Qiuxia,Zhao Yong, He Qing,et al. Climatic characteristics in Central Asia based on CRU data[J]. Arid Zone Research,2013,30(3): 396-403.]   \n[26]Hu Z, Zhou Q, Chen X,etal.Evaluation of three global gridded precipitation data sets in CentralAsia basedonrain gauge observations [J]. International Jourmal of Climatology,2018,38(9): 3475-3493.   \n[27] 刘芸芸,李维京,李清泉.月尺度西太平洋副热带高压指数的重 建与应用[J].应用气象学报,2012,23(4):414-423.[Liu Yunyun, Li Weijing, Li Qingquan. Reconstruction and application of the monthly Western Pacific subtropical high indices[J].Journal of Applied Meteorological Science,2012,23(4): 414-423.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[28]聂俊,刘鹏,赵灿.西北太平洋副热带高压的不同指数及其与中 国东部夏季降水关系的探讨[J].大气科学,2021,45(4):833- 850.[Nie Jun,Liu Peng,Zhao Can.Research on relationship between various indexes of the Western North Pacific substropical high and summer precipitation in east China[J]. Chinese Journal of Atmospheric Sciences,2021,45(4): 833-850.]   \n[29] Zhu Y,Wang H, Zhou W,et al. Recent changes in the summer precipitation pattern in east China and the background circulation[J]. Climate Dynamics,2011,36(7-8): 1463-1473.   \n[30]WangB,Xiang B,Lee JY.Subtropical high predictability establishes a promising way for monsoon and tropical storm predictions [J].Proceedings of the National Academy of Sciences,2O13,110 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(8): 2718-2722. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[31] 王黎娟,陈璇,管兆勇,等.我国南方洪涝暴雨期西太平洋副高 短期位置变异的特点及成因[J].大气科学，2009,33(5):1047- 1057.[Wang Lijuan, Chen Xuan,Guan Zhaoyong,et al.Features of the short-team position variation of the Western Pacific subtropical high during the torrential rain causing severe floods in southern China and its possible cause[J]. Chinese Journal of Atmospheric Sciences,2009,33(5): 1047-1057.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[32]姚秀萍，闫丽朱,张硕.大气非绝热加热作用的研究进展与展望 [J].气象,2019,45(1):1-16.[Yao Xiuping,Yan Lizhu,Zhang Shuo. Research progresses and prospects of atmosphere diabatic heating [JJ.Meteorological Monthly,2019,45(1): 1-16.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Relationships between North Africa subtropical high and summer precipitation over Central Asia ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "LU Xing， ZHAO Yong (Plateau Atmosphere & Environment Key Laboratory of Sichuan Province,School of Atmospheric Sciences, Chengdu University of Information Technology,Chengdu 61O225,Sichuan, China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: On the basis of the ERA-Interim monthly reanalysis data provided by the European Center for MediumRange Weather Forecasts from 1979 to 2019 and Climatic Research Unit monthly precipitation data, the relationships between the North Africa subtropical high and the summer precipitation over Central Asia are analyzed.Theresults show that the variations of the ridge line index and eastern extension ridge index of the North Africa subtropical high are closely related to those of the summer precipitation over Central Asia. The effects of single and concurrent variations of the North Africa subtropical high on summer precipitation and circulations over Central Asia are significantly diffrent.The ridge line of the subtropical high mainlyaffects the precipitation anomalies in the south and north parts of Central Asia, whereas the eastern extension ridge of the subtropical high plays an important role in modulating summer precipitation in the central and southern regions of Central Asia.Furthermore,we analyze the anomalous distribution of summer precipitation and atmospheric circulations under the concurrent variations of two indices.When the subtropical high shifts southeastward,there is an anomalous cyclone over the Caspian Sea and Aral Sea,corresponding to more summer precipitation over most areas of Kazakhstan. Meanwhile,Xinjiang is controlled by an anomalous anticyclone over the Mongolian Plateau,corresponding to less summer precipitation. When the subtropical high shifts southwestward,Central Asia is mainly controlledby an anomalous anticyclone,but there is ananomalous cyclonic shear in its northeast parts.Thus, more rainfall occurs in the northeast of Central Asia and lessprecipitation in other regions.When the subtropical high shifts northwestward, Central Asia is controlled by an anomalous anticyclone,corresponding to less summer precipitation.When the subtropical high shifts southeastward,Central Asia is controlled by an anomalous cyclone,and tropical Indian Ocean water vapor can enter Central Asia via two-step transportation, forming favorable dynamic and water vapor conditions; thus, Central Asia receives more summer precipitation. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words: North Africa subtropical high；ridge line; eastern extension ridge; concurrent variation; summer rainfall over Central Asia ",
+        "page_idx": 10
+    }
+]

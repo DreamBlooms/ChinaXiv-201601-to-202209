@@ -1,0 +1,142 @@
+# 基础研究
+
+# 乌司他丁对重症中暑小鼠急性肺损伤的保护作用
+
+周耿标'，徐秋林²,刘亚楠²,王郑莲²,郭晓华³,苏 磊²  
+1广州中医药大学,广东广州 510405;广州军区广州总医院重症医学科，广东广州 510010;南方医科大学病  
+理生理学教研室/广东省医学休克微循环重点实验室，广东广州510515
+
+摘要：目的探讨乌司他丁(ulinastatin,UTI)对重症中暑小鼠急性肺损伤的保护作用。方法 SPF级雄性C57/BL6小鼠60只,随机分为6组（ $\scriptstyle n = 1 0 .$ )：正常组、重症中暑模型组、造模前给药组、造模前生理盐水组、造模后给药组及造模后生理盐水组。正常组小鼠置于( $2 2 { \pm } 1$ )℃的环境中，其余各组小鼠置于加温舱(温度 $3 7 \ \mathrm { { ^ { q } C } }$ 湿度 $6 0 \%$ )持续加温,两给药组分别于造模前、后 $1 0 \mathrm { m i n }$ 腹腔注射UTI $5 { \times } 1 0 ^ { 4 } \mathrm { U } / \mathrm { k g }$ ，而两生理盐水组则腹腔注射等量的生理盐水,加热期间前 $1 . 5 \mathrm { h }$ 每隔 $3 0 \mathrm { m i n }$ 用水银温度计人工测定肛温(Tc)1次，之后每隔 $1 5 ~ \mathrm { m i n }$ 测1次肛温，待Tc达 $4 2 . 7 \mathrm { { ^ { \circ } C } }$ (以此作为重症中暑开始的标志)后撤离高温舱，转移至常温中复温 $6  { \mathrm { h } _ { \circ } }$ 观察各组肺组织病理学变化,检测各组支气管肺泡灌洗液(Bronchial Alveolar Lavage Fluid,BALF)中蛋白含量、肺湿/干比(W/D)、肺含水量、肺血管通透性(伊文思蓝含量)。结果 与正常组相比,重症中暑模型组及造模前、后生理盐水组肺部损伤严重,病理形态学改变明显,肺W/D比值、肺含水量、BALF中蛋白含量及肺血管通透性均显著增加( $P { < } 0 . 0 5 )$ ，且组间无显著性差异（ $P >$ 0.05);而造模后给药组与重症中暑模型组及造模前、后生理盐水组相比，其肺部病理变化明显改善,肺W/D值、肺含水量、BALF中蛋白含量及肺血管通透性显著降低,但高于正常对照组(均 $P { < } 0 . 0 5 \$ ),而造模前给药组小鼠 $\mathrm { T c } { \geqslant } 4 2 . 7$ ℃的时间较其它热打击组明显延长,但上述肺损伤指标却未见明显改善。结论乌司他丁对重症中暑所致肺水肿与炎性渗出具有抑制作用,能有效对抗重症中暑所致的急性肺损伤，发挥保护作用。
+
+关键词：重症中暑；乌司他丁;急性肺损伤;支气管肺泡灌洗；伊文氏蓝;肺湿干比
+
+# Protective effects of ulinastatin against acute lung injury induced by heatstroke in mice
+
+ZHOU Gengbiao,Xu Qiulin2,LIU Yanan,WANG Zhenglian²,SULei²,GuO Xiaohua GuangzhouUniersityofhineseMedicine，Guangzhou510405，China;²DepartmentofIntensiveCareUnit，GeneralHospitalof GuangzhouMilitaryCommand，Guangzhou，510o10，China;DepartmentofPathophysiology，KeyLaboratoryforShockand Microcirculation Research ofGuangdongProvince,SouthernMedical UniversityGuangzhou 51o515,China
+
+Abstract: ObjectiveToinvestigate theprotectiveefectof ulinastatin (UTl)againstacutelung injuryiducedbyheatstrokein mice.Methods Sixty C57/BL6 mice were randomly divided into 6 groups, with 10 mice in each:control group,heatstroke group,UTI pretreatment group,saline pretreatment group, UTI post-treatment group,saline post-treatment group.The control mice were housed at a controlled room temperature of $( 2 2 \pm 1 ) \ { \ } ^ { \circ } { \mathrm { C } } \ ,$ and the other groups were placed inside a temperature and humidity controlled chamber pre-set at $3 7 ~ \mathrm { ^ { \circ } C }$ and $6 0 \%$ . The two UTI groups were intraperitoneally injected with UTI at $5 { \times } 1 0 ^ { 4 } ~ \mathrm { U } / \mathrm { k g } ~ 1 0 ~ \mathrm { m i n }$ before or after heat stress, and the two saline groups were given then equal amounts of saline in the same manner. The core body temperature of mice was monitored by a mercury thermometer every $3 0 \mathrm { m i n }$ in the first $1 . 5 \mathrm { h }$ during heating. The core temperature was measured, then every $1 5 ~ \mathrm { m i n }$ until it reached $4 2 . 7 \ \mathrm { ^ q C } ,$ which was taken as the onset of heatstroke. The animals were allowed to recover passvely at ambient temperature for $6 \mathrm { ~ h ~ }$ .The lung histopathological changes，protein concentration in BALF,lung wet/dry weight ratios,lung water content,and pulmonary microvascular permeability were assayed after $6 \textup { h }$ of recovery at $3 7 \ \mathrm { { ^ { \circ } C } }$ . Results Compared with the control group, the heatstroke model groupand two saline groups displayed more severe lung damage and pathological morphologychanges,andthelung wet/dry weightratio,protein concentration in BALF，lung water content and pulmonary microvascular permeability were also significantly increased.These efects were significantlyaleviated inUTItreated group.Pretreatment with UTsignificantly prolonged the time to $\mathrm { T c } { \geqslant } 4 2 . 7 \ \mathrm { \mathrm { ~ ‰ ~ } }$ but had no effect on lung injury induced by heatstroke. Conclusion UTI can reduce the pulmonary edema and inflammatory exudation in acute lung injury caused by heatstroke.
+
+Key words: severe heatstroke; ulinastatin;lung injury;bronchialalveolarlavage; evans blue;lung wet/dry weightratic
+
+中暑是一种严重威胁人民群众生命的热相关疾病，尽管当前中暑的救治措施已经取得很大进展，其死亡率仍在 $10 \% { \sim } 1 5 \%$ 。若中暑一旦发展为合并多器官功能障碍(MODS)的重症中暑时，其死亡率可高达 $30 \% { \sim } 4 0 \%$ ，存活的患者也有 $30 \%$ 以上遗留有神经等系统损伤的长期后遗症[[]。
+
+最近有研究认为，中暑的病理生理学机制除了热暴露的直接损伤外，更重要的是继发于热损伤之后的全身炎症反应综合征(SIRS)。这与脓毒症由内毒素激活与诱导的失控性炎症反应极为相似，因此中暑又被视为一种"类脓毒症”,最终可诱发MODS[2-3]
+
+急性肺损伤(ALI)是重症中暑最常见的一种早期并发症，而且一旦出现该并发症往往病情危重，病死率高，直接影响预后。在重症中暑的发展过程中，多种炎性细胞的激活和一系列炎性介质的释放,造成机体的损伤，同时激活更多的炎性细胞，释放更多的炎性介质或细胞因子，使机体损害信号进一步放大和加强，形成炎症瀑布效应[4],其中最容易受到损伤的就是肺脏[5]，因此如何抑制过度炎症反应成为重症中暑ALI治疗的关键。
+
+乌司他丁(UTI)属蛋白酶抑制剂，能够抑制各种蛋白酶的活性，稳定溶酶体膜，降低毛细血管的通透性，改善组织水肿，对各种炎性递质的释放有明显抑制作用[。文献表明乌司他丁对炎症介质有明显的抑制作用，可在早期改善内毒素所致ALI的肺部炎性介质失衡状态[，其在脓毒症的动物模型和临床研究中均被证实具有良好的保护作用[810，目前已被广泛用于治疗内毒素、缺血一再灌注等理化因素引起的急性肺损伤[8-],并取得了不错的疗效，但尚未见用于重症中暑致ALI的相关报道。鉴于重症中暑是一种类脓毒症反应，其所致的ALI的主要病理生理学机制是肺部瀑布式炎症反应，因此我们有理由推测乌司他丁对于重症中暑所致的急性肺损伤亦具有良好的保护作用。
+
+本实验通过建立小鼠重症中暑模型，并以UTI干预治疗，探讨其对重症中暑小鼠急性肺损伤的保护作用，一来为提高人民群众的生命健康、使UTI广泛应用于临床提供新的思路，二来对于预防和治疗我国南战区部队在高温高湿环境下训练发生的重症中暑，从而提高我军战斗力也有着重要的军事意义。
+
+# 1材料与方法
+
+# 1.1试剂和仪器
+
+注射用乌司他丁为广东天普生化医药股份有限公司产品（批号： $\mathrm { H 1 9 9 9 0 1 3 4 , 1 { \times } 1 0 ^ { 5 } U }$ 瓶)；BCA蛋白浓度测定试剂盒(碧云天生物技术研究所); $10 \%$ 水合氯醛(桂林医学院药剂科);电子天平(梅特勒一托利多仪器有限公司);伊文氏蓝(Evans Blue,美国Sigma公司);甲酰胺(Purity $> 9 8 \%$ 购于Sigma(美国)公司;UV-1700型紫外分光光度计(日本岛津公司)。
+
+# 1.2实验动物分组及处理
+
+SPF级雄性C57/BL6小鼠60只,体质量 $1 8 { \sim } 2 2 \ \mathrm { g }$ （由广东省医学实验动物中心提供，实验动物合格证号：SCXK(粤)2013-0002);实验动物随机分为6组：正常组$\scriptstyle { \overbrace { n { = } 1 0 } }$ 、重症中暑模型组（ $\scriptstyle { \overbrace { n { = } 1 0 } }$ 、造模前给药组（ $\overset { \cdot } { n } = \overset { \cdot } { \underset { \cdot } { \longrightarrow } }$
+
+10)造模前生理盐水组 $\scriptstyle { \overbrace { n = 1 0 } }$ )、造模后给药组 $\scriptstyle { \overbrace { n { = } 1 0 } }$ 及造模后生理盐水组（ $\scriptstyle { \overbrace { n = 1 0 } }$ );每组又分为肺泡灌洗亚组和伊文氏蓝亚组(每亚组5只)。除正常组外,其余各组小鼠置于加温舱(温度 $3 7 \ \mathrm { ^ { \circ } C }$ 湿度 $60 \%$ ，人工气候仿真模拟室动物舱，南方医科大学热卫系研制)持续加温，两给药组分别于造模前、后 $1 0 \mathrm { m i n }$ 腹腔注射UTI $5 { \times } 1 0 ^ { 4 } ~ \mathrm { U / k g }$ 而两生理盐水组则腹腔注射等量的生理盐水，加热前各组小鼠测定肛温和体重，加热期间前 $1 . 5 \mathrm { h }$ 每隔 $3 0 ~ \mathrm { m i n }$ 用水银温度计人工测定肛温(Tc)1次，之后每隔 $1 5 \mathrm { m i n }$ 测1次肛温，待Tc达 $4 2 . 7 ~ \mathrm { \textdegree C }$ 后撤离高温舱，并记录下$\mathrm { T c } { \geqslant } 4 2 . 7 ~ \mathrm { \circ C }$ 的时间和小鼠的体质量，然后转移至常温中复温 $6 \mathrm { { h } }$ 。
+
+# 1.3标本采集
+
+各组小鼠于造模后 $6 \mathrm { ~ h ~ }$ 经腹腔注射水合氯醛麻醉后，采集支气管肺泡灌洗液标本，方法如下：打开胸腔，结扎右侧肺门的血管及右支气管后，分离出颈部气管在气管下段做一小T形切口，用20G套管作为气管插管缓缓插入，插管到达气管隆突部位，稍向下向左用力后即可顺利进入左主支气管,待遇到新的阻力时停止插管，此时已到达左主支气管下端分叉处。用注射器吸取$0 . 5 ~ \mathrm { m L }$ 磷酸盐缓冲液(PBS)，通过套管将PBS缓慢注入肺内，可见小鼠左肺逐渐变得膨隆，苍白，缓慢回抽灌洗液，再将所得液体缓缓注回肺内，如此反复3次，最后1次边回抽边将套管缓缓拔至隆突处，可见带有泡沫的微混液体流出，盛入 $2 . 5 ~ \mathrm { m L }$ 的塑料离心管置于冰浴中，此为第1次灌洗,然后重复上述操作1次[12]。每只小鼠肺泡灌洗2次，将灌洗液在 $4 \mathrm { { ^ \circ C } }$ 用低温离心机以 $1 2 0 0 ~ \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ 后，将上清液放置于 $- 2 0 \mathrm { { ^ { \circ } C } }$ 低温保存。
+
+# 1.4检测指标
+
+1.4.1小鼠体质量丢失情况在热打击前和 $\mathrm { T c } { \geqslant } 4 2 . 7 ~ \mathrm { \circ C }$ 时立即测量小鼠体质量，体质量丢失情况采用以下公式计算：(热打击前体质量一 $\mathrm { \cdot } \mathrm { T c } { \geqslant } 4 2 . 7$ C时体质量)/热打击前体质量 $\times 1 0 0 \%$ 。
+
+1.4.2肺湿/干重比值及肺含水量的测定支气管肺泡灌洗结束后，离断右肺，取右上、中肺，小心剔除肺外组织，生理盐水漂洗，滤纸吸干肺表面液体，立即置于电子天秤上称湿重，后放入 $6 0 ~ \mathrm { { ^ { \circ } C } }$ 烘箱内烘干 $4 8 \mathrm { ~ h ~ }$ 至恒重，称体质量记下数值为干重，并计算肺组织湿重/干重比值及肺含水量[(肺湿重-肺干重)/肺湿重]。
+
+1.4.3BALF中蛋白含量的测定取上述肺泡灌洗液离心后的上清液，用BCA法测定蛋白含量。
+
+1.4.4肺组织病理学观察剪取右肺下叶组织小块，浸入 $4 \%$ 多聚甲醛内固定，梯度乙醇脱水，常规石蜡包埋、切片 $( 5 ~ { \mu \mathrm { m } } )$ ,HE染色，光镜下观察肺组织病理学变化。在200倍光镜下随机选取10个视野,参照Hong等[13]学者标准进行肺组织病理损伤计分。
+
+1.4.5肺微血管通透性变化从小鼠尾静脉注射 $1 \%$ 伊文氏蓝(EvansBlue,EB) $2 ~ \mathrm { m L / k g }$ 体质量，伊文氏蓝溶于灭菌生理盐水中。注射后小鼠全身变蓝，从而确认染料已经吸收和分布。EB在小鼠体内循环1h后，腹腔注射水合氯醛麻醉小鼠，打开胸腔，剪开右心耳，通过左心室灌注生理盐水（灌注压为 $1 1 0 \mathrm { m m H g }$ )，冲出循环系统中血液及残存EB，直到右心房流出的液体呈无色清亮状。取右下肺叶约 $0 . 2 \ \mathrm { g }$ ，浸泡在 $2 { \mathrm { m L } }$ 甲酰胺溶液中 $\mathrm { 1 ~ m L / 1 0 0 ~ m g }$ ，置于 $6 0 ~ \mathrm { { ^ { \circ } C } }$ 恒温振荡器中孵育 $2 4 \mathrm { h }$ ，待组织中色素全部浸出，取出组织， $1 5 0 0 ~ \mathrm { r / m i n }$ 离心$1 0 \mathrm { m i n }$ 后取上清液，用分光光度计在波长 $6 2 0 ~ \mathrm { { n m } }$ 处进行比色。配置不同浓度的EB标准样品( $1 5 . 6 { \sim } 2 0 0 0 ~ \mathrm { n g / m L } )$ ，并作光密度一浓度标准曲线(结果呈线性关系)。从标准曲线上计算样品浓度，定量每份肺组织抽提液的EB含量，再与组织的质量相比，得到每克肺组织的EB含量。
+
+# 1.5统计学分析
+
+计量资料数据用均数 $\cdot \pm$ 标准差表示，多组间均数比较采用单因素方差分析，两两比较采用t检验，数据用SPSS17.0软件进行统计学处理。以 $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+2.1各组小鼠 $\mathrm { T c } { \geqslant } 4 2 . 7 ~ \mathrm { \circ C }$ 的时间和体质量丢失情况
+
+与重症中暑组相比较，造模前给药组小鼠 $\mathrm { T c } \geqslant$ $4 2 . 7 \mathrm { { ^ { \circ } C } }$ 的时间明显延长 $( P { < } 0 . 0 5 )$ ,而其它各组与重症中暑组相比其差异并无统计学意义（ $( P { > } 0 . 0 5 )$ ；与正常组相比，各热打击组小鼠体质量丢失明显 $( P { < } 0 . 0 1 )$ ，而各热打击组之间小鼠的体质量丢失情况并无显著性差异中 $\mathrm { \langle } P { > } 0 . 0 5$ ，图1)。
+
+# 2.2肺湿/干重比值及肺含水量比较
+
+与正常组相比,模型组、造模前给药组以及造模前、后生理盐水组肺湿、干重和W/D、肺含水量均显著增加 $_ { ( P < 0 . 0 5 ) }$ ，且组间无显著性差异( $( P { > } 0 . 0 5 )$ ；造模后给药组肺W/D比值及肺含水量高于正常对照组，但明显低于其余四组(均 $P { < } 0 . 0 5$ ，表1)。
+
+# 2.3BALF中蛋白含量的变化
+
+![](images/a73b80c8dbdbdeea16da23139c1e64bb285d121b66211af4b83516c330a137b8.jpg)  
+图1各组小鼠 $\mathrm { T c } { \geqslant } 4 2 . 7$ ℃的时间和体质量丢失情况 Fig.1 The time-point of $\mathrm { T c } { \geqslant } 4 2 . 7 ~ \mathrm { \circ C }$ and body weight loss in each group of mice. $^ { * } P { < } 0 . 0 5$ Us heatstroke group; $^ { * * } P { < } 0 . 0 1$ Us control group.
+
+重症中暑模型组、造模前给药组以及造模前、后生理盐水组BALF蛋白含量较正常组显著增加，差异均有统计学意义 $( P { < } 0 . 0 5 )$ ;造模后给药组BALF蛋白含量高于正常组，但低于其余各组( $\scriptstyle \phantom { + } ( P < 0 . 0 5$ ，表1)；表明造模后给予乌司他丁治疗可显著降低重症中暑小鼠BALF中蛋白含量，进一步证实了乌司他丁对重症中暑小鼠的保护作用。
+
+# 2.4肺组织病理学观察
+
+正常组肺泡结构正常，肺泡壁薄，肺泡腔内无炎性细胞浸润;重症中暑模型组肺泡上皮细胞肿胀，肺泡壁明显增厚,肺泡腔内大量渗出液，毛细血管扩张充血、出血，间质水肿，组织内灶状、片状炎性细胞浸润，肺泡结构紊乱，严重者见大片肺泡萎陷不张及肺泡断裂；造模后给药组肺泡结构有所改善，肺泡间隔略有增宽，肺泡壁增厚有一定程度减轻，肺泡腔清晰，炎性细胞浸润程度较模型组明显减轻;而造模前给药组以及造模前、后生理盐水组与重症中暑模型组比较上述改变均不明显，见图2。正常组、重症中暑模型组、造模前给药组、造模前生理盐水组、造模后给药组及造模后生理盐水组肺组织病理损伤计分分别为 $( 0 . 6 { \pm } 0 . 5 ) \$ 、 $( 1 3 \pm 1 . 9 )$ 、 $( 1 3 . 4 \pm$ 1.5)、 $\left( 1 2 . 8 \pm 1 . 9 \right)$ 、 $( 9 . 6 { \pm } 1 . 5 ) \$ 、 $( 1 2 . 4 \pm 1 . 8 )$ ,组间比较, $P <$ 0.01,各热打击组与正常组相比，均 $P { < } 0 . 0 1$ ,而造模后给药组与其它各热打击组相比较，均 $P { < } 0 . 0 5$ 。该结果表明造模后给予乌司他丁治疗能明显改善重症中暑小鼠肺组织的病理状态，对重症中暑急性肺损伤有一定的保护作用，而乌司他丁预防性给药并不能明显改善重症中暑小鼠的预后及病理变化。
+
+表1各组小鼠肺湿干比、肺含水量及支气管肺泡灌洗液(BALF)中蛋白含量 Tab.1 Lung wet/dry weight ratio (W/D)and in BALF liquid in each group (n=5,Mean±SD.   
+
+<html><body><table><tr><td>Group</td><td>Control</td><td>Heatstroke</td><td>UTI pretreatment</td><td>Saline pretreatment</td><td>UTI post-treatment</td><td>Saline post-treatment</td></tr><tr><td>W/D</td><td>3.98±0.28</td><td>5.65±0.47a</td><td>5.26±0.60a</td><td>5.51±0.23b</td><td>4.50±0.38</td><td>5.28±0.33b</td></tr><tr><td>Lung water content(%)</td><td>74.78±1.82</td><td>82.21±1.54b</td><td>80.83±2.09a</td><td>81.82±0.73b</td><td>77.67±1.88c</td><td>81.02±1.15b</td></tr><tr><td>Protein concentration inBALF</td><td>382.96±71.59</td><td>1115.74±117.53b</td><td>1023.08±151.88b</td><td>1130.15±135.95b</td><td>603.24±88.54ad</td><td>995.18±151.13b</td></tr></table></body></html>
+
+$^ { \mathrm { a } } P { < } 0 . 0 5$ $^ { \mathrm { { b } } } P { < } 0 . 0 1$ vs control group; $^ { \mathrm { c } } P { < } 0 . 0 5$ $^ { \mathrm { d } } P { < } 0 . 0 1$ vs heatstroke group
+
+![](images/0a88f451e6182e274644c170db7792504e2f2d237b0359c461059177c75b4395.jpg)  
+图2各组小鼠肺组织HE染色病理学改变
+
+Fig.2Histopathological changes of lung tissue in diferent groups (HE staining, original magnification: $\times 2 0 0 \$ .A: Control group; B:Heatstroke group; $c$ ：UTI pretreatment group; $D$ ：Saline pretreatment group;E:UTI post-treatment group; F: Saline post-treatment group.
+
+# 2.5各组肺组织伊文氏蓝渗出量的变化
+
+重症中暑模型组、造模前给药组和造模前后生理盐水组小鼠EB渗出量高于正常对照组和造模后乌司他丁治疗组，造模后给药组小鼠EB渗出量高于正常对照组中 $\scriptstyle \left( P < 0 . 0 5 \right.$ ，图3)。
+
+# 3讨论
+
+随着全球变暖和热浪袭击强度和频率的增加4，我们可以预见，高温引起的中暑将会越来越威胁着人类生命和健康。因此，深入研究中暑的发病机制，寻求中暑有效的预防和治疗方法是目前迫切需要解决的问题，对于提高人类生命和健康有着极其重要的意义。
+
+一项临床调查研究表明，超过3/4的中暑患者最终发展成多器官功能障碍综合征，其中最常见的是急性肺损伤造成的呼吸功能衰竭[1]。在Roberts等[15]研究中发现，中暑的狒狒在发病的过程中其肺组织出现了广泛的细胞凋亡和炎症反应;Varghese等17在研究中暑患者并发MODS的预测因素时就发现，有 $8 5 . 7 \%$ 的患者表现为呼吸功能衰竭，而且有超过3/4的患者需要机械通气来治疗。Liu等[在研究热打击和复温治疗过程中动物肺组织的病理形态学改变时发现，低程度的热打击即可使肺部发生明显病理改变，进一步的热打击表现为进行性加重的间质血管显著扩张充血，大量肺泡腔出血，部分肺泡上皮细胞脱落,肺泡结构模糊不清，在整个热打击过程中肺组织存在着进行性加重的病变趋势，而复温则可以使病变明显减轻。因此，本实验研究重症中暑急性肺损伤的机制及救治，有着较强的临床针对性，对于提高人民群众的生命健康有着重要意义。
+
+![](images/81f05f8b890adab060669578c8dbdfb1b7377931573ab8be1725c36ea85edd01.jpg)  
+图3各组小鼠肺微血管通透性比较 Fig.3 Comparison of pulmonary microvascular permeability among groups. $^ { * } P { < } 0 . 0 5 ,$ $^ { * * } P { < } 0 . 0 1$ Us control group; $^ { \ast \sharp } P < 0 . 0 1$ Us heatstroke group.
+
+本实验重症中暑模型的制备是参照文献报道的方法,以小鼠 $\mathrm { T c } { \geqslant } 4 2 . 7 ~ \mathrm { \circ C }$ 作为重症中暑开始的标志[18]。另外，我们根据预实验发现，将加温舱温度设定在 $3 7 \ \mathrm { { ^ { \circ } C } }$ 湿度控制在 $6 0 \%$ 能较好地满足制模要求，小鼠置于此环境中能在2h内上升至 $4 2 ^ { \circ } \mathrm { C }$ 以上，且能保证较高的存活率。成模后通过观察各组小鼠成模的时间、肺湿/干重比值、BALF中蛋白含量、肺组织病理及伊文氏蓝渗漏量等指标的变化来反映肺组织损伤的程度，分析乌司他丁对重症中暑小鼠急性肺损伤的作用及其机制。
+
+乌司他丁能抑制炎症级联反应的多个环节，减少嗜中性粒细胞向肺组织聚集，并抑制弹性蛋白酶对肺血管内皮细胞间结缔组织的破坏，从而降低肺微血管通透性和炎症反应，减轻多种原因引起的肺组织损伤的程度，改善肺功能。其对内毒素、吸人性及缺血一再灌注等所致的肺损伤均有保护作用[19-21],对高热所致急性肺损伤的保护作用亦有少数文献报道22。而本研究所造重症中暑模型是严格按照相关文献报道，以 $\mathrm { T c } { \geqslant } 4 2 . 7 ~ \mathrm { \circ C }$ 视为重症中暑开始的标志[17],分别在造模前及造模后给予乌司他丁干预,探讨乌司他丁对重症中暑急性肺损伤的作用，而既往的相关研究对中暑模型的制备多注重对热打击时间的控制，而本研究强调以肛温作为成模的标准，更能确保重症中暑模型的成功建立，在此基础上研究乌司他丁对重症中暑ALI的干预作用具有一定的科学性和可靠性。
+
+本实验中造模后给药组小鼠肺水肿情况、肺微血管通透性及肺组织病理等均明显好于重症中暑组和造模前给药组，而造模前给药组小鼠达到重症中暑的时间较其它热打击组明显延长。该结果表明，预防性应用乌司他丁可以有效延长高温环境下小鼠发生重症中暑的时间，但对于改善重症中暑小鼠肺损伤情况效果并不明显，推测这与热打击开始时乌司他丁可以减轻机体应激反应及SIRS从而延缓体温骤变有关，但随着热打击时间的延长，机体热应激反应及SIRS加剧，且热打击过程中乌司他丁在体内的血药浓度呈直线下降趋势,其对机体的保护效应逐渐消失，而且成模后复温过程中小鼠体内炎症反应仍持续进展3，故造模前给予乌司他丁治疗无法改善重症中暑急性肺损伤的最终进展。此外，有研究表明热打击开始时机体以应激反应及SIRS为主，此时乌司他丁可通过减少炎症因子的释放发挥保护作用，但随着热打击程度的加重，包括细胞调亡、坏死、氧化应激、免疫抑制等在内的细胞损伤机制逐渐占据优势，而乌司他丁无法阻止此类病变的发展。而造模后给予乌司他丁治疗能明显抑制复温过程中炎症反应的进一步损伤，从而改善重症中暑小鼠肺组织的病理状态，对重症中暑所致的急性肺损伤有一定的治疗作用。
+
+早前已有研究报道，脱水亦是中暑的典型表现[23]。本实验中与对照组相比，各热打击组小鼠均发生了 $6 \%$ 2$8 \%$ 的脱水，但造模前给予乌司他丁或生理盐水干预都无法改善重症中暑小鼠的脱水状况。该结果表明，脱水与重症中暑小鼠的预后不相关，由此可见脱水并不是导致动物死亡的主要原因。
+
+乌司他丁作为一种酶活性抑制剂，已广泛应用于重症胰腺炎、DIC、休克等临床危重病的救治，但对于重症中暑所致的急性肺损伤是否有干预作用鲜有报道。本实验证实了乌司他丁对重症中暑急性肺损伤具有确切的保护作用，能够减轻重症中暑后引发的急性肺水肿和肺组织细胞损害程度，降低肺微血管通透性，减少炎症渗出，从而维持机体正常的呼吸功能，改善病情预后。乌司他丁对于重症中暑时肺脏的保护作用应该是多方面的，而针对肺泡上皮屏障功能的损伤后修复及肺微血管通透性的保护作用可能是其重要的治疗机制之一，且在本实验中的效果较为明显，为临床使用乌司他丁治疗重症中暑急性肺损伤提供了新的理论依据，但是乌司他丁对重症中暑急性肺损伤的确切治疗机制目前尚不明确，还需实验进一步研究证实。
+
+# 参考文献：
+
+[1]Yang HH,Chang CP,Cheng RT,et al. Attenuation of acute lung inflammation and injury by whole body cooling in a rat heatstroke model[J].JBiomed Biotechnol, 2009: 768086.   
+[2]Leon LR,Blaha MD,Dubose DA．Time course of cytokine, corticosterone,and tissue injury responses in mice during heat strain recovery[J].JAppl Physiol (1985),2006,100(4):1400-9.   
+[3]Leon LR，Helwig BG.Heat stroke:Role of the systemic inflammatory response[J].JAppl Physiol,2010,109(6):1980-8.   
+[4]Leon LR,Bouchama A.Heat stroke[J].Compr Physiol,2015,5(2): 611-47.   
+[5]Leon LR.Heat stroke and cytokines[J]. Prog Brain Res,2O07.162: 481-524.   
+[6]Takubo T,Kuwajima S,Tatsumi N.Human urinary trypsin inhibitor [J].Nihon Rinsho,1999,57(Suppl): 593-6.   
+[7]张新颖,刘奉琴,刘海燕,等.乌司他丁对急性肺损伤大鼠TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ IL-10 mRNA及P38MAPK表达的影响[J].基础医学与临床,2011, 31(9):1015-20.   
+[8]郭剑颖,邓 群,郭旭升,等.乌司他丁和胸腺肽α1联合治疗严重脓毒 症的组织病理学观察[J].南方医科大学学报,2012,32(6)：830-4.   
+[9]罗锐军,孟繁甦,李 薇,等.乌司他丁联合胸腺肽α_1对脓毒症患者的 免疫调理作用观察[J].解放军医学杂志,2010,35(9):1110-2.   
+[10]朱飞.乌司他丁治疗重症脓毒症患者的疗效观察[J].吉林医学, 2012,33(12): 2557.   
+[11]郭 亮,唐忠志,程青,等.乌司他丁联合甲基泼尼松龙对大鼠肺缺血 再灌注损伤的保护作用[J].重庆医学,2011,40(16):1616-8.   
+[12]史菲,邱 晨.介绍一种大鼠支气管肺泡灌洗的方法[J].广东医学, 2002,6(S1): 8-9.   
+[13]Hong SB,Koh Y,Lee IC,et al. Induced hypothermia as a new approach to lung rest for the acutely injured lung[J].Crit Care Med, 2005,33(9): 2049-55.   
+[14]Meehl GA,Tebaldi C.More intense,more frequent,and longer lasting heat waves in the 21st century[J]. Science,2004,305(5686): 994-7.   
+[15]Roberts GT,Ghebeh G,Chishti M,et al.Inflammation,and apoptosis in t he pathogenesis of heatstroke:a study in baboon model [J].Arterioscler Thromb Vasc Biol,2008,28(6):1130-6.   
+[16] Varghese GK.Predictors of multi-organ dysfunction in heatstroke [J].EmergMedJ,2005,22(3): 185-7.   
+[17]Liu ZF,Li BL,Tong HS,etal. Pathological changes in the lung and brain of mice during heat stress and cooling treatment[J].World J Emerg Med,2011,2(1): 50-3.   
+[18]Dehbi M,Uzzaman T,Baturcam E,et al.Toll-like receptor 4 and high-mobility group box 1 are critical mediators of tissue injury and survival in a mouse model for heatstroke[J].PLoS One,2012,7(9): e44100.   
+[19] Inoue K,Takano H, Yanagisawa R,et al.Protective role of urinary trypsin inhibitor in acute lung injury induced by lipopolysaccharide [J].Exp Biol Med (Maywood),2005,230(4): 281-7.   
+[20]苗 锋,陈 刚,陈志明,等.乌司他丁对大鼠肺脏热缺血再灌注损伤的 保护作用[J].复旦学报:医学版,2010,37(4):434-6.   
+[21]邵志华,赵建,徐进,等.乌司他丁对小鼠全氟异丁烯吸入性肺损伤 的作用[J].中国临床研究,2013,26(1):1-4.   
+[22]田培，秦再生,吴霞,等.乌司他丁对全身高温大鼠肺组织病理学及 超微结构的影响[J].山东医药,2013,53(3):35-7.   
+[23]Ibuka N,Fukumura K.Unpredictable deprivation of water increases the probability of torpor in the Syrian hamster[J].Physiol Behav, 1997,62(3): 551-6. (编辑：吴锦雅)

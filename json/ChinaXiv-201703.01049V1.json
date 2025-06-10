@@ -1,0 +1,458 @@
+[
+    {
+        "type": "text",
+        "text": "Inverse Heat Conduction Estimation of Inner Wall Temperature Fluctuations under Turbulent Penetration ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GUO Zhouchao1, LU Tao1,\\*,LIU Bo² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.SchoolofMechanicalandElectricalEnginering,Beijing UniversityofChemicalTechnology,Beijing,10o029,China   \n2. Science and Technology on Space Physics Laboratory, Beijing, 10o076, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\copyright$ Science Press and Institute of Engineering Thermophysics, CAS and Springer-Verlag Berlin Heidelberg 2017 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Turbulent penetration can occur when hot and cold fluids mix in a horizontal T-junction pipe at nuclear plants. Caused by the unstable turbulent penetration, temperature fluctuations with large amplitude and high frequency can lead to time-varying wall thermal stress and even thermal fatigue on the inner wall.Numerous cases,however, exist where inner walltemperatures cannot be measured and only outer wall temperature measurements are feasible.Therefore,it is one of the popular research areas in nuclear science and engineering to estimate temperature fluctuations on the inner wall from measurements of outer walltemperatures without damaging the structure of the pipe.In this study,both the one-dimensional (1D)and the two-dimensional (2D) inverse heat conduction problem(IHCP) were solved to estimate the temperature fluctuations on the inner wallFirst, numerical models of both the 1Dand the 2D direct heat conduction problem (DHCP) were structured in MATLAB,based on the finite difference method with an implicit scheme.Second,both the 1D IHCP and the 2D IHCP were solved by the steepest descent method (SDM),and the DHCP results of temperatures on the outer wallwere used to estimate the temperature fluctuations on the inner wallThird,we compared the temperature fluctuations on the inner wall estimated by the 1D IHCP with those estimated by the 2D IHCP in four cases: (1) when the maximum disturbance of temperature of fluid inside the pipe was $3 ^ { \\circ } \\mathrm { C }$ ,(2) when the maximum disturbance of temperature of fluid inside the pipe was $3 0 ^ { \\circ } \\mathrm { C }$ ,(3)when the maximum disturbance of temperature of fluid inside the pipe was $1 6 0 ^ { \\circ } \\mathrm { C }$ ,and (4) when the fluid temperatures inside the pipe were random from $5 0 ^ { \\circ } \\mathrm { C }$ to $2 1 0 ^ { \\circ } \\mathrm { C }$ ： ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: IHCP; SDM; Temperature fluctuations; Turbulent penetration ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "direct measurements of temperatures on the inner wall are not possible. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Thermal fatigue is one of the most important degradation issues for heavy nuclear components.Fatigue damage evaluation by measuring the outer wall temperatures is useful for maintaining the integrity of heavy nuclear components.Inverse heat conduction problem(IHCP） is often applied in those engineering problems in which ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The solution ofIHCPhas received considerable interest because of numerous important applicationsin science and engineering. In a recent paper Dou et al.[1] investigated an IHCP to determine the heat transfer characteristics of a water jet on a stainless steel plate.Liu and Takase [2] solved an IHCP to obtain the surface heat flux and surface temperature of a block by using the measured inner temperature data as input. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The solution of IHCP is not new,particularly in the field to estimate the thermal fatigue of a pipe under thermal stratification.Lu et al.[3,4] investigated both two-dimensional and three-dimensional IHCPs to estimate the unknown transient fluid temperatures near the inner wall of a pipe elbow. However, the solution of IHCP is still new, in the field to estimate the thermal fatigueof apipeunder turbulent penetration. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A variety of numerical techniques have been proposed for the solution of IHCPs:(1) Levenberg-Marquardt method (LMM) (An IHCP was solved by LMM to identify the thermophysical properties of soil [5]. An IHCP was solved by LMM to determine the optimal geometry of the fillers between two conductive bodies in a twodimensional multiple-region domain [6]). (2） Leastsquares method (LSM) (Using the weighted LSM,we formulated an inverse problem of textile thickness-heat conductivity-porosity determination (IPT(THP) D) into a function minimization problem [7]. The temperaturedependent thermal diffusivities of two alloys were determined by solving an IHCP by LSM [8]). (3) Conjugate gradient method (CGM) (An IHCP was solved by CGM to identify the heat losses at the jaws of a tensile testing machine [9]. An IHCP was solved by CGM to estimate the time-dependent heat flux by using temperature distribution at a point in a three-layer system [1o]). (4) Genetic algorithm (GA) (An IHCP was solved by GA to identify the conductive and radiative parameters of a semitransparent sample [11]. An IHCP was solved by GA to determine the thermal conductivity of lumber [12]).(5 Steepest descent method (SDM) (An IHCP was solved by the SDM to identify the boundary of unknown inclusions inside an object by applying a heat source and measuring the induced temperature near the boundary of the sample [13].A solution of an IHCP was obtained by the SDM to determine the waste heat flux from a helicon plasma discharge by using the transient surface temperature measurements obtained from infrared thermography [14]). The SDM,which has great potential in solving IHCP, transforms the inverse problem to the solution of three problems，namely，the direct problem，the sensitivity problem,and the adjoint problem [15]. Although the SDM has great potential in solving IHCP, its validity in solving IHCP for a T-junction pipe under turbulent penetrationhasneverbeenexamined. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study, the SDM was used to solve both the onedimensional(1D) and the two-dimensional (2D) IHCPs in order to estimate the inner wall temperature fluctuations in a horizontal T-junction pipe under turbulent pe netration. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Physical and mathematical models ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)Direct heat conduction problem ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The fatigue test specimen is horizontal and shown in Fig.1. Turbulent penetration can occur when hot and cold fluids mix in a horizontal T-junction pipe. Our work is aimed to estimate fatigue of pipes under turbulent penetration. Fig. 2 shows the two-dimensional physical model of the main pipe and the branch pipe of a horizontal T-junction pipe. The inner and outer walls are both subjected to the convective boundary condition. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The governing equation for the direct heat conduction problem (DHCP） to calculate the temperature fluctuations on the inner wall is ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial T } { \\partial \\tau } = \\alpha ( \\frac { \\partial ^ { 2 } T } { \\partial x ^ { 2 } } + \\frac { \\partial ^ { 2 } T } { \\partial y ^ { 2 } } ) \\quad ( x , y ) \\in \\Omega\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $T$ is the temperature; $\\alpha$ is the thermal diffusivity of the stainless steel pipe; $x$ and $y$ are the space variables; $\\tau$ is the time variable；and $\\Omega$ is the computational domain. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce87ba9796761f68c11911b7c2b548a969e49cf228256fdb3abaab6ec7f22bb7.jpg",
+        "img_caption": [
+            "Fig.1Fatigue test specimen. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/45f2f79197d1e3de8745daf45e4c0e65a7fb889a7a96dc70476a6196c0a413cb.jpg",
+        "img_caption": [
+            "Fig.2Physical model. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The corresponding boundary conditions are ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { - \\lambda ( \\frac { \\partial T } { \\partial n } ) _ { \\mathrm { w , o u t } } = h _ { \\mathrm { o u t } } \\big ( T _ { \\mathrm { f , o u t } } - T _ { \\mathrm { w , o u t } } \\big ) } & { ( x , y ) \\in \\mathrm { o u t e r ~ w a l l } } \\\\ { - \\lambda ( \\frac { \\partial T } { \\partial n } ) _ { \\mathrm { w , i n } } = h _ { \\mathrm { i n } } \\big ( T _ { \\mathrm { f , i n } } - T _ { \\mathrm { w , i n } } \\big ) } & { ( x , y ) \\in \\mathrm { i n n e r ~ w a l l } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\lambda$ is the thermal conductivity of the stainless steel pipe, $n$ is the direction vector normal to the boundary wall, $h$ is the convection heat transfer coefficient, $T _ { \\mathrm { f } }$ is the fluid temperature,and $T _ { w }$ is the wall temperature. The subscripts in and out represent the inner and outer walls, respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The initial condition is ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT ( x , y , 0 ) = T _ { 0 } ( x , y )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Where $T _ { 0 } ( x , y )$ is the initial pipe temperature. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2) Inverse heat conduction problem ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "When we know all the boundary conditions and the initial condition, the unsteady two-dimensional DHCP can be solved with commercial CFD codes such as FLUENT. However, numerous cases exist where the boundary condition on the inner wall is unknown.In these cases,a direct solution with commercial CFD code is not available,and we have to develop programs to solve an IHCP ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "During the IHCP solution,a DHCP numerical model is structured with an implicit scheme based on the finite difference method. Then the boundary condition on the inner wall is repeatedly assumed and the corresponding DHCP is repeatedly solved to compare the calculated outer wall temperatures with the measured values.The IHCP can be treated as an optimization problem; therefore,we use an objective function based on the leastsquares method to solve the IHCP: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ = \\sum _ { n = 1 } ^ { N } \\sum _ { m = 1 } ^ { M } [ T _ { n , m , \\mathrm { c a l } } - T _ { n , m , \\mathrm { m e a } } ] ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $T _ { n , m , \\mathrm { c a l } }$ is the calculated temperature on the outer wall, $T _ { n , m , \\mathrm { m e a } }$ is the measured temperature on the outer wall, $m$ denotes the number of measure points on the outer wall, $n$ denotes the number of time steps, $M$ is the total number of measure points on the outer wall,and $N$ is the total number of time steps. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The consistency between the calculated temperatures and the measured temperatures acts as a constraint on the optimization problem. During the optimization, the steepest descent method (SDM) is used to determine the search direction and step size for each iteration.The temperature on the outer wall varies with the temperature on the inner wall; i.e., $T _ { n , m , \\mathrm { c a l } }$ is a function of $T _ { \\mathrm { i n } }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { n , m , \\mathrm { c a l } } = \\varphi ( T _ { \\mathrm { i n } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $T _ { n , m , \\mathrm { c a l } }$ is the calculated temperature on the outer wall, and $T _ { \\mathrm { i n } }$ is the temperature on the inner wall.Furthermore, $J$ is a function of $T _ { \\mathrm { i n } } ,$ and we can get the optimization problem: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } J = J ( T _ { \\mathrm { i n } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The optimization problem can be solved by the following iterative formula: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ T _ { \\mathrm { i n } } } ^ { ( b + 1 ) } = { T _ { \\mathrm { i n } } } ^ { ( b ) } + { \\lambda _ { b } } { d ^ { ( b ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $b$ denotes the number of iterations, ${ T _ { \\mathrm { i n } } } ^ { ( b ) }$ is the approximate root of the optimization problem after $b$ iterations, $\\boldsymbol { d } ^ { ( b ) }$ is the search direction when $T _ { \\mathrm { i n } }$ equals ${ T _ { \\mathrm { i n } } } ^ { ( b ) }$ and $\\lambda _ { b }$ is the step size when $T _ { \\mathrm { i n } }$ equals ${ T _ { \\mathrm { i n } } } ^ { ( b ) }$ . When we use the SDM, $\\boldsymbol { d } ^ { ( b ) }$ will be the steepest descent direction: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { d } ^ { ( b ) } = - \\boldsymbol { \\nabla } J ( { T _ { \\mathrm { i n } } ^ { \\ b } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "and $\\lambda _ { b }$ will meet the following condition: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ ( T _ { \\mathrm { i n } } ^ { ~ ( b ) } + \\lambda _ { b } d ^ { ( b ) } ) = \\operatorname* { m i n } _ { \\lambda \\ge 0 } J ( T _ { \\mathrm { i n } } ^ { ~ ( b ) } + \\lambda d ^ { ( b ) } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The computational procedure for the solution of the IHCP is summarized as follows and shown in Fig.3: ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/58b5592d25ef195d317473488c069eb02700462230e394ffd151628a77f6b60e.jpg",
+        "img_caption": [
+            "Fig.3Flowchart of solution of IHCP. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Step1. Set an initial ${ T _ { \\mathrm { i n } } } ^ { ( 1 ) }$ , use a small positive number $\\varepsilon$ as the stopping criterion, and set $b$ equal to 1; ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Step2.Solve the DHCP; ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Step3. Compute the steepest descent direction $\\boldsymbol { d } ^ { ( b ) }$ Step4. If $\\boldsymbol { d } ^ { ( b ) }$ meets te condition: $\\left\\| d ^ { ( b ) } \\right\\| \\leq \\varepsilon$ , terminate the iteration process. Otherwise, compute the step size $\\lambda _ { b }$ Step5. Compute ${ T _ { \\mathrm { i n } } } ^ { ( b + 1 ) }$ set $b$ equal to $b { + } 1$ ,and go to Step2. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Results and discussion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Both the 1D IHCP and the 2D IHCP were solved with temperatures on the outer wall obtained from the DHCP results to estimate the temperatures on the inner wall. Furthermore,we compared the temperatures on the inner wall estimatedby1D IHCP with those estimatedby 2D IHCP in four cases:(1) when the maximum disturbance of temperature of fluid inside the pipe was $3 ^ { \\circ } \\mathrm { C }$ ,(2)when the maximum disturbance of temperature of fluid inside the pipe was $3 0 ^ { \\circ } \\mathrm { C }$ ,(3)when the maximum disturbance of temperature of fluid inside the pipe was $1 6 0 ^ { \\circ } \\mathrm { C }$ ，and (4) when the fluid temperatures inside the pipe were random from $5 0 ^ { \\circ } \\mathrm { C }$ to $2 1 0 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1)When the maximum disturbance of temperature of fluid inside the pipe was $3 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 shows the comparisons at $0 ^ { \\circ }$ 0 $9 0 ^ { \\circ }$ ， $1 8 0 ^ { \\circ }$ ，and $2 7 0 ^ { \\circ }$ from O s to $1 5 \\mathrm { ~ s ~ }$ ，and we can see that the 1D IHCP and 2D IHCP results show the same trend.Table 1 shows the average,maximum, and minimum relative errors,and we can see that the maximum relative error of $0 . 3 2 \\%$ (shown in red and bold) occurs at $1 8 0 ^ { \\circ }$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/09c69f3ab81bde2a81c943a3c0265c4c61bde127c36d4af04d1cdb35b7fd29d9.jpg",
+        "img_caption": [
+            "Fig.4 Comparisons between 1D and 2D estimated inner wall temperatures under case (1)(when the maximum disturbance of temperature of fluid inside the pipe was $3 ^ { \\circ } \\mathrm { C } ^ { \\cdot }$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/47b4994068a753613a15c42515a7bcac5ca3c6b611d02d8a922ee70da3066478.jpg",
+        "table_caption": [
+            "Table 1 Average,maximum,and minimum relative errors under case (1). "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Ave (%)</td><td>Max (%)</td><td>Min (%)</td></tr><tr><td>IHCP_1D (0°)</td><td>0.08</td><td>0.20</td><td>0.00</td></tr><tr><td>IHCP_1D (90°)</td><td>0.13</td><td>0.31</td><td>0.01</td></tr><tr><td>IHCP_1D(180°)</td><td>0.11</td><td>0.32</td><td>0.00</td></tr><tr><td>IHCP_1D (270°)</td><td>0.19</td><td>0.31</td><td>0.02</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2)When the maximum disturbance of temperature of fluid inside the pipe was $3 0 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.5 shows the comparisons at $0 ^ { \\circ }$ $, 9 0 ^ { \\circ } , 1 8 0$ ，and $2 7 0 ^ { \\circ }$ from O s to $1 5 { \\mathrm { ~ s } } ,$ ，and we can see that the 1D IHCP and 2D IHCP results also show the same trend.The average,maximum, and minimumrelative errors are shown in Table 2.The maximum relative error of $1 . 7 4 \\%$ (shown in red and bold) also occurs at $1 8 0 ^ { \\circ }$ . But the average, maximum,and minimum relative errors increase as the maximum disturbance of temperature of fluid inside the pipeincreases from $3 ^ { \\circ } \\mathrm { C }$ to $3 0 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3906a69aa4a79cc64791be558bc00e309a11b387544276a300804f8557706eae.jpg",
+        "img_caption": [
+            "Fig.5Comparisons between 1D and 2D estimated inner wall temperatures under case (2)(when the maximum disturbance of temperature of fluid inside the pipe was $3 0 ^ { \\circ } \\mathrm { C }$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ca0311a4309a687f176381e159d5697744bb8f689de5761f97a32da3b6cfdfd7.jpg",
+        "table_caption": [
+            "Table 2Average,maximum,and minimum relative errors under case (2). "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Ave (%)</td><td>Max (%)</td><td>Min (%)</td></tr><tr><td>IHCP_1D(0°)</td><td>1.02</td><td>1.45</td><td>0.68</td></tr><tr><td>IHCP_1D (90°)</td><td>0.50</td><td>1.42</td><td>0.07</td></tr><tr><td>IHCP_1D(180°)</td><td>1.04</td><td>1.74</td><td>0.36</td></tr><tr><td>IHCP_1D (270°)</td><td>0.26</td><td>0.95</td><td>0.01</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3) When the maximum disturbance of temperature of fluid inside the pipe was $1 6 0 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.6 shows the comparisons at $0 ^ { \\circ }$ ， $9 0 ^ { \\circ }$ ， $1 8 0 ^ { \\circ }$ ，and $2 7 0 ^ { \\circ }$ from O s to $1 5 { \\mathrm { ~ s } } _ { \\mathrm { { ; } } }$ ,and we can see that the 1D IHCP and 2D IHCP results also show the same trend. The average,maximum, and minimum relative errors are shown in Table 3.The maximum relative error of $7 . 2 9 \\%$ (shown in red and bold) also occurs at $1 8 0 ^ { \\circ }$ . But the average, maximum,and minimum relative errors increase as the maximum disturbance of temperature of fluid inside the pipe increases from $3 0 ^ { \\circ } \\mathrm { C }$ to $1 6 0 ^ { \\circ } \\mathrm { C }$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/329b12aadbcb025e76a8f8fe3cd308f462c784f47e6868e2ed3f3e67b2a411e3.jpg",
+        "img_caption": [
+            "Fig.6Comparisons between 1D and 2D estimated inner wall temperatures under case (3)(when the maximum disturbance of temperature of fluid inside the pipe was $1 6 0 ^ { \\circ } \\mathrm { C } ^ { \\cdot }$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/fc1749c8dc85be98824f6cc33b3bce61cc6d5663dcebd13db776b3be898250fe.jpg",
+        "table_caption": [
+            "Table 3Average,maximum,and minimum relative errors under case (3). "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Ave (%)</td><td>Max (%)</td><td>Min (%)</td></tr><tr><td>IHCP_1D (0°)</td><td>3.42</td><td>5.15</td><td>1.93</td></tr><tr><td>IHCP_1D (90°)</td><td>2.30</td><td>5.91</td><td>0.29</td></tr><tr><td>IHCP_1D (180°)</td><td>4.68</td><td>7.29</td><td>1.83</td></tr><tr><td>IHCP_1D (270°)</td><td>1.43</td><td>4.97</td><td>0.08</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(4)When the fluid temperatures inside the pipe were randomfrom $5 0 ^ { \\circ } \\mathrm { C }$ to $2 1 0 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.7 shows the comparisons at $0 ^ { \\circ }$ ， $9 0 ^ { \\circ }$ ， $1 8 0 ^ { \\circ }$ ，and $2 7 0 ^ { \\circ }$ from O s to $1 5 \\mathrm { ~ s ~ }$ ，and we can see that the 1D IHCP and 2D IHCP results also show the same trend.The average,maximum, and minimum relative errors are shown in Table 4.The maximum relative error of $7 . 8 7 \\%$ (shown in red and bold) occurs at $9 0 ^ { \\circ }$ . But the average,maximum,and minimum relative errors under case (4) are larger than those under case (3). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7257634df38979454afcc626487732236008b42d0aadb2b0facfed27ea96ee59.jpg",
+        "img_caption": [
+            "Fig.7Comparisons between 1D and 2D estimated inner wall temperatures under case (4)(when the fluid temperatures inside the pipe were random from $5 0 ^ { \\circ } \\mathrm { C }$ to $2 1 0 ^ { \\circ } \\mathrm { C }$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/d50373c07865b361984735667559d00d20df987e1f0185edcba8c751001e59db.jpg",
+        "table_caption": [
+            "Table 4Average,maximum,and minimum relative errors under case (4). "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Ave (%)</td><td>Max (%)</td><td>Min (%)</td></tr><tr><td>IHCP_1D (0°)</td><td>2.93</td><td>5.29</td><td>1.29</td></tr><tr><td>IHCP_1D (90°)</td><td>4.80</td><td>7.87</td><td>2.03</td></tr><tr><td>IHCP_1D (180°)</td><td>2.23</td><td>3.44</td><td>0.39</td></tr><tr><td>IHCP_1D (270°)</td><td>2.12</td><td>4.01</td><td>0.12</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Both the 1D IHCP program and the 2D IHCP program were developed in MATLAB to estimate the inner wall temperature fluctuations in a horizontal T-junction pipe under turbulent penetration. Furthermore,we compared the 1D IHCP results with the 2D IHCP results under some specific boundary conditions on the inner wall.The results and comparisons showed that ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1) an algorithm based on the SDM can be applied to solve the IHCP to estimate the inner wall temperature fluctuations in a horizontal T-junction pipe under turbulent penetration; ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2) the average relative errors in all four cases above were less than $5 \\%$ ，indicating that under some specific cases the 1D IHCP can be used to estimate the inner wall temperature fluctuations for online monitoring of thermal fatigue in a mixing T-junction pipe. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Natural Science Foundation of China (Project No.51276009), and Program for New Century Excellent Talents in University (No.NCET-13-0651). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Dou,R.，et al.，Experimental study on heat-transfer characteristics of circular water jet impinging on hightemperature stainless steel plate. Applied Thermal Engineering,2014.62(2): p. 738-746.   \n[2]Liu,W.and K.Takase,Development of measurement technology for surface heat fluxes and temperatures. Nuclear Engineering and Design,2012.249:p.166-171.   \n[3]LU,T.,LIU B.,and JIANG P.X., Inverse estimation of the inner wall temperature fluctuations in a pipe elbow. Applied Thermal Engineering,2011.31(11-12):p.1976- 1982.   \n[4]Lu, T.,et al.,A two-dimensional inverse heat conduction problem in estimating the fluid temperature in a pipeline. Applied Thermal Engineering,2010.30(13):p. 1574- 1579.   \n[5]Mansour, S.,E.Canot,and M.Muhieddine,Identification of the Thermophysical Properties of the Soil by Inverse Problem.Journal of Heat Transfer,2016.138(9):   \n[6]Huang,C.-H. and H.-M.Hsu,An inverse problem in determining the optimal filler shape of composite materials for maximum effective thermal conductivity.International Journal of Heat and Mass Transfer, 2015.80: p. 98-106.   \n[7]Xu, D.and P. Cui, Simultaneous determination of thickness,thermal conductivity and porosity in textile material design. Journal of Inverse and Il-posed Problems,2016. 24(1).   \n[8] Zhang，Q.，et al.，Determination of temperature dependent thermophysical properties using an inverse method and an infrared line camera.International Journal of Heat and Mass Transfer,2016.96: p.242-248. [9]Bouache,T.,H.Pron,and D.Caron, Identification of the Heat Losses at the Jaws of a Tensile Testing Machine. Experimental Mechanics,2015.56(2): p.287-295.   \n[10]Mohammadiun,M.,Time-Dependent Heat Flux Estimation in Multi-Layer Systems by Inverse Method.Journal of Thermophysics and Heat Transfer, 2016. 30(3):p. 599-607.   \n[11]Braiek,A., et al.,Estimation of radiative and conductive properties of a semitransparent medium using genetic algorithms.Measurement Science and Technology,2016. 27(6): p. 065601.   \n[12]Zhao,J.，et al., Inverse determination of thermal conductivity in lumber based on genetic algorithms.Holzforschung,2016.70(3).   \n[13]Cimrak,I.,Inverse thermal imaging in materials with nonlinear conductivity by material and shape derivative method.Mathematical Methods in the Applied Sciences, 2011.34(18): p. 2303-2317.   \n[14]Mulcahy,J.M.,et al.,Heat flux estimation of a plasma rocket helicon source by solution of the inverse heat conduction problem. International Journal of Heat and Mass Transfer,2009.52(9-10): p.2343-2357.   \n[15]Huang, C.-H., I.C. Yuan,and H. Ay,A three-dimensional inverse problem in imaging the local heat transfer coeffcients for plate finned-tube heat exchangers.International Journal of Heat and Mass Transfer, 2003. 46(19): p. 3629-3638 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

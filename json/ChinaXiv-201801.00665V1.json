@@ -1,0 +1,347 @@
+[
+    {
+        "type": "text",
+        "text": "临床研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "血清脂肪因子omentin-1、chemerin的水平与妊娠期糖尿病的相关性",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "潘宝龙，马润玫昆明医科大学研究生部，云南昆明650031",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的探讨妊娠期糖尿病(GDM)患者血清脂肪因子omentin-1、chemerin水平变化及与GDM糖脂代谢、炎症指标等的相关性。方法 ELISA法定量85例GDM及匹配设置的85例糖耐量正常孕妇(NGT)血清omentin-1及chemerin水平,同时检测两组糖脂生化指标、炎症指标、空腹胰岛素(FINS)水平,计算胰岛素抵抗指数(HOMA-IR)。以单因素相关分析、多元逐步回归分析处理。结果（1)GDM组孕前BMI、hs-CRP、血脂、血糖、FINS、HOMA-IR、血清chemerin均明显高于NGT组,血清omentin-1明显低于NGT组( $P { < } 0 . 0 5 )$ ;(2)血清omentin-1：肥胖GDM<非肥胖GDM\\~肥胖NGT<非肥胖NGT( $P { < } 0 . 0 5 )$ ；血清chemerin：肥胖GDM>非肥胖GDM\\~肥胖NGT>非肥胖NGT( $P { < } 0 . 0 5 )$ ；(3)析因分析，产前肥胖和/或HOMA-IR ${ \\geqslant } 2$ 时，血清omentin-1水平明显降低；产前肥胖血清chemerin明显升高，但与HOMA-IR ${ \\geqslant } 2$ 无关联;(4)相关性分析：血清omentin-1与HDL明显正相关，而与孕前BMI、产前BMI、FPG、FINS 及HOMA-IR明显负相关;chemerin与TC、TG、hs-CRP及FPG明显正相关;omentin-1和chemerin之间无明显相关性 $scriptstyle \\overbrace { P = 0 . 3 0 1 }$ );(5)孕前BMI、TG、FPG、FINS是GDM血清omentin-1的独立影响因素;TG、LDL、hs-CRP是GDM血清chemerin的独立影响因素。结论血清omentin-1可以反映孕妇糖、脂代谢紊乱和胰岛素抵抗程度，血清Chemerin则提示患者的高脂血症和慢性炎症状态。两者与GDM关系密切，可能共同参与了GDM疾病的发生和发展。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：脂肪因子;omentin-1;chemerin;妊娠期糖尿病",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Correlation of serum omentin-1 and chemerin with gestational diabetes mellitus ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PANBaolong,MARunmei GraduateDepartmentofKunmingMedicalUniversity,Kunming 65oo31,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective To investigate therelationshipof serum omentin-1andchemerin with gestational diabetes melitus (GDM).Methods Serum levels of omentin-1chemerin, glycolipids biochemical index, inflammation index,fasting insulin (FINS),and insulinresistance indexes (HOMA-IR)were determined in85 women with GDMand85 pregnant women with normal glucose tolerance (NGT).Results BMI,FPG,hs-CRP,blood lipids,blood glucose,FINS,HOMA-IRandserum chemerin level were allsignificantly higher while serum omentin-1 significantly lower in GDM group than in NGT group( $P <$ 0.05). In both groups,serum omentin-1level was significantlylowerand serum chemerin wassignificantly higher inobese subjects than in the non-obese subjects $_ { ( P < 0 . 0 5 ) }$ . Obesity before delivery and/or HOMA-IR $\\geqslant 2$ was associated with a significantlydecreasedserumomentin-1level;serumchemerinincreasedsignificantlyinobese women beforedeliverybut Was not asociated with HOMA-IR. Serum omentin-1 level was positivelycorrelated with HDL but inversely with BMI (at pregnancyandbeforedelivery),FPG,Fand HOA-IR;Chemerinwas positivelycorrelatedwithTC,TG,hs-CRPadF; serum omentin-1 and chemerin levels were not significant correlated $( P { = } 0 . 3 0 1 )$ ). In women with GDM,MI at pregnancy, TG, FPG,and FINS were all independent factors affecting serum omentin-1; TG, $\\scriptstyle \\mathrm { L D L } ,$ and hs-CRP were independent factors afecting serum chemerin. Conclusion An decreased serum omentin-1 can be indicative of glucose and lipid metabolism disorderandinsulinresistance,andanincreasedserumchemerinlevelindicates hyperlipidemiaandchronic inflammationin pregnant women.Both of the adipokines are closed asociated with GDMand probably participate in the occurrence and development of GDM. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:adipokines; omentin-1; chemerin; gestational diabetes mellitus ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孕妇营养过剩是我国妊娠期糖尿病(GDM)发生率",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "上升的重要原因，胰岛素抵抗(IR)及由于胰岛素抵抗带来的糖脂代谢紊乱是目前公认的GDM发病的生理病理基础之一，也被认为是GDM的始发因素[1-3]。至今为止GDM的病因并未完全明确，众多研究一致认为GDM的发生、发展存在多种因素的共同作用[4-5]。近年来，内脏脂肪调节糖脂代谢的内分泌功能尤其是脂肪因子(Adipokines)与IR的关联性日益受到重视,已成为新的研究热点[6-7]。omentin-1及chemerin是近年来新发现的脂肪因子，目前的研究报道，多数是基于各脂肪因子在网膜组织或脂肪细胞的具体表达研究，重在揭示脂肪因子本身可能的具体作用，较少从宏观上阐明脂肪因子与GDM患者机体多种因素的相互作用，并且存在各种争议[8-10]。课题组前期研究中,发现脂肪因子omentin-1及chemerin在GDM孕妇网膜脂肪组织中优势表达，且网膜脂肪组织omentin-1及chemerinmRNA表达水平与血糖、HOMA-IR等胰岛素敏感指标、及GDM慢性炎症反应密切相关[]。本课题拟从另外一个角度,通过检测及分析GDM孕妇及对照组产前血清中omentin-1、chemerin水平，血脂、血糖代谢指标、胰岛素敏感指标、炎症指标等，综合分析脂肪因子omentin-1、chemerin与上述指标以及GDM孕妇一般临床特征之间的关系，从整体水平上探讨两脂肪因子与GDM患者机体多种因素的相关性，为制定预防、预测和干预GDM策略、改善母婴结局提供科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1资料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1研究对象",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1GDM组筛选2013年1月\\~2015年12月昆明医科大学第一附属医院门诊产检孕妇，首诊时(孕12周以前)识别GDM高危因素，具有GDM高危因素者于妊娠12周前进行 $7 5 \\mathrm { ~ g ~ }$ 口服葡萄糖耐量试验(OGTT)，如果OGTT正常以及低危孕妇于妊娠28\\~30周行OGTT再次筛查。妊娠期糖尿病诊断标准(2011年ADA推荐GDM诊断标准)：空腹血糖> $\\mathrm { \\cdot 5 . 1 \\ m m o l / L }$ 、口服 $7 5 \\mathrm { ~ g ~ }$ 葡萄糖后1h血糖 ${ > } 1 0 . 0 \\ \\mathrm { m m o l / L }$ 、口服 $7 5 \\mathrm { g }$ 葡萄糖后2h血糖${ > } 8 . 5 \\ \\mathrm { m m o l / L }$ ,以上3项任意一项异常即可明确诊断为GDM[14]。经筛选,入组患者85例,年龄21\\~36岁，平均28.13岁，孕周34\\~40周，平均38.14周。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.2NGT组（对照组）同期选择与每个GDM病例相匹配的正常糖耐量(NGT)孕妇作为本研究的对照组。匹配条件为年龄、孕周、产次等方面差异无统计学意义$( P { > } 0 . 0 5 )$ ，并在我院同年分娩。入组85例，年龄21\\~37岁，平均27.84岁，孕周35\\~40周，平均38.71周。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.3纳入本研究的病例组和对照组均符合下列标准(1)本次妊娠前无高血压、肾脏、心血管、肝脏或糖尿病等疾病者;(2)未曾服用过可能干扰糖、脂代谢药物者（如消炎痛、酚妥拉明、速尿、噻嗪类利尿剂、苯妥英钠、可的松等);(3)无内分泌疾病(如甲亢、甲减、柯兴氏综合征)；(4)非吸烟者。本研究经医院医学伦理委员会批准，研究方案符合医学伦理道德规范，研究对象签署知情同意书后纳入研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1基本指票检测记录研究对象的年龄、孕产次、身高、孕前及分娩前的体质量，计算孕期增重、孕前及分娩前的体质量指数(BMI),BMI=体质量 $( \\mathrm { k g } )$ /身高 $( \\mathbf { m } ^ { 2 } )$ 。使用我国标准：(1)正常：BMI18.5\\~23.9；(2)肥胖： ${ \\bf B M } \\geq 2 8$ O1.2.2血清学指标检测全部研究对象于入院后次日清晨采集空腹静脉全血做如下检测：(1)罗氏C311生化分析仪己糖激酶法测定空腹血糖(FPG)、葡萄糖耐量试验(OGTT)，酶比色法测定总胆固醇(TC)、甘油三酯(TG）、高密度脂蛋白胆固醇(HDL-C）低密度脂蛋白胆固醇(LDL-C)，免疫比浊法测定超敏C反应蛋白(hs-CRP);(2)罗氏e401电化学发光法测定空腹胰岛素(FINS);(3)ELISA双抗体夹心法测定血清omentin-1及chemerin。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3计算胰岛素抵抗指数(HOMA-IR）HOMA-IR $\\ c =$ FPG×FINS/22.5，以衡量机体对胰岛素敏感性和胰岛素抵抗程度。HOMA-IR绝对值越大说明胰岛素敏感性越低即胰岛素抵抗程度越强。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3统计学方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "运用SPSS20.0软件进行数据统计处理，正态分布计量资料以均数 $\\pm$ 标准差表示，多组数据比较使用方差分析，两两比较使用t检验，非正态分布的计量资料以中位数表示，采用Mann-Whitney $U$ 检验，以 $P { < } 0 . 0 5$ 为差异具有统计学意义；变量之间的相关性分析，使用Spearman或Pearson相关分析，以 $P { < } 0 . 0 5$ 为相关具有统计学意义；多个自变量与一个应变量之间的线性关系，使用多元逐步回归分析， $P { < } 0 . 0 5$ 为具有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1GDM组和NGT组的一般临床特征及实验室指标比较",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GDM组孕妇孕前BMI、产前BMI、hs-CRP、血脂、血糖、FINS、HOMA-IR、血清chemerin均明显高于对照组，而血清omentin-1则明显低于对照组(表1)。2.2产前肥胖与非肥胖孕妇血清omentin-1、chemerin水平比较",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "按产前BMI $^ { < 2 8 }$ (非肥胖)或 ${ \\geqslant } 2 8 \\mathrm { k g } / \\mathrm { m } ^ { 2 }$ （肥胖)把各组孕妇分为两亚组。血清omentin-1水平表现为：肥胖GDM<非肥胖GDM\\~肥胖NGT<非肥胖NGT,以肥胖GDM孕妇下降最为明显；血清chemerin水平表现为：肥胖GDM>非肥胖GDM\\~肥胖NGT>非肥胖NGT，以肥胖GDM孕妇升高最为明显(表2)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3血清omentin-1、chemerin与肥胖及胰岛素抵抗析因分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "分别以血清omentin-1、chemerin为因变量,分别赋值产前 $\\mathrm { B M I } { \\geq } 2 8 \\ \\mathrm { k g / m ^ { 2 } } { = } 1$ $< 2 8 \\mathrm { \\ k g / m ^ { 2 } { = } 0 }$ ;HOMA-1 $\\scriptstyle [ { \\mathsf { R } } \\geqslant 2 =$ 1,HOMA-IR $< 2 \\mathrm { = } 0$ ,析因分析显示,产前 $\\mathrm { B M I } { \\geq } 2 8 \\ \\mathrm { k g } / \\mathrm { m } ^ { 2 }$ 及HOMA-IR ${ \\geqslant } 2$ 时，血清omentin-1水平均明显降低，若两者同时存在，血清中omentin-1水平降低更为显著(表3)。产前 $\\mathrm { B M } \\mathrm { \\geq } 2 8 ~ \\mathrm { k g } / \\mathrm { m } ^ { 2 }$ 血清chemerin 明显升高，但HOMA-IR≥2血清chemerin变化不明显，两者同时存在则明显升高(表4)。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/aa7d5a85fe55a586792300efb0d6e02e6e3ec9ef66ba72195d2843a54b8fb5f3.jpg",
+        "table_caption": [
+            "表1GDM组和NGT组的一般临床特征及实验室指标比较Tab.1 Comparison of clinical characteristics and laboratory indexes in GDM and NGT groups $( n { = } 8 5 )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Factor</td><td>GDM</td><td>NGT</td><td>t</td><td>P</td></tr><tr><td>Age (year)</td><td>28.13±4.26</td><td>27.84±4.45</td><td>1.142</td><td>0.259</td></tr><tr><td>Gestational week (week)</td><td>38.14±1.78</td><td>38.71±1.83</td><td>0.125</td><td>0.872</td></tr><tr><td>Pregnancy BMI (kg/m²)</td><td>23.57±1.55</td><td>20.07±2.08</td><td>1.504</td><td>0.031</td></tr><tr><td>prenatal BMI(kg/m²)</td><td>30.57±1.55</td><td>27.14±2.50</td><td>1.307</td><td>0.035</td></tr><tr><td>Neonatal birth weight (g)</td><td>3353±340</td><td>3427±487</td><td>0.019</td><td>0.546</td></tr><tr><td>TC (mmol/L)</td><td>6.48±0.86</td><td>5.05±0.69</td><td>1.985</td><td>0.021</td></tr><tr><td>TG (mmol/L)</td><td>3.35±0.93</td><td>2.28±0.62</td><td>1.426</td><td>0.037</td></tr><tr><td>HDL (mmol/L)</td><td>1.85±0.37</td><td>1.95±0.44</td><td>-0.914</td><td>0.365</td></tr><tr><td>LDL (mmol/L)</td><td>3.17±0.69</td><td>2.10±0.59</td><td>1.353</td><td>0.045</td></tr><tr><td>hs-CRP (mg/L)</td><td>5.82 (2.57, 25.23)</td><td>3.76 (0.57, 9.76)</td><td>2.163</td><td>0.035</td></tr><tr><td>FPG (mmol/L)</td><td>6.04±2.23</td><td>4.19±0.52</td><td>3.417</td><td>0.014</td></tr><tr><td>OGTT2h (mmol/L)</td><td>9.41±2.55</td><td>7.65±1.83</td><td>2.549</td><td>0.027</td></tr><tr><td>FINS (mU/mL)</td><td>11.73 (7.05,57.59)</td><td>5.95 (0.38, 39.10)</td><td>2.405</td><td>0.020</td></tr><tr><td>HOMA-IR</td><td>2.32 (1.01,15.00)</td><td>1.295 (0.07, 7.30)</td><td>2.842</td><td>0.007</td></tr><tr><td>Omentin-1 (ng/mL)</td><td>216.41±51.33</td><td>355.94±42.61</td><td>-6.517</td><td>0.000</td></tr><tr><td>Chemerin (ng/mL)</td><td>9.12±0.75</td><td>6.47±0.59</td><td>5.574</td><td>0.000</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/9ca64d4b1fc168f3bdc480ccf5fab530fe1a23f47de51b1044961c5402cb4e1c.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "$^ { \\ast } P { < } 0 . 0 5$ us non-obese NGT group; $^ { \\star } P { < } 0 . 0 5$ Us obesity NGT group. "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Groups</td><td>Omentin-1</td><td>Chemerin</td></tr><tr><td colspan=\"2\">GDM obesity (n=62)</td><td>202.32±70.18**</td><td>9.41±0.75**</td></tr><tr><td rowspan=\"3\"></td><td>non-obese (n=23)</td><td>245.11±63.54*</td><td>8.95±0.61*</td></tr><tr><td>NGTobesity (n=33)</td><td>255.23±61.18</td><td>8.77±0.67</td></tr><tr><td>non-obese (n=52)</td><td>284.13±57.41</td><td>8.41±0.68</td></tr><tr><td>F</td><td></td><td>48.14</td><td>35.75</td></tr><tr><td>P</td><td></td><td>0.004</td><td>0.013</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4血清omentin-1和chemerin之间及与GDM多参数 间的相关性分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Spearman相关性分析显示：血清omentin-1与HDL明显正相关，而与孕前BMI、产前BMI、FPG、FINS及HOMA-IR明显负相关;chemerin与TC、TG、hs-CRP及FPG明显正相关;omentin-1和chemerin之间无明显相关性( $scriptstyle \\overbrace { P = 0 . 3 0 1 }$ ，表5)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5多重线性逐步回归分析血清中omentin-1、chemerin与临床指标之间的关系",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "孕前BMI、TG、FPG、FINS 是GDM血清中omentin-1的独立影响因素(表6);TG、LDL、hs-CRP是GDM血清chemerin的独立影响因素(表7)。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/323c1a52c73c5419fa0c5484ac552cc02ffc80565bca086d6f3be32b4a291c9c.jpg",
+        "table_caption": [
+            "表2血清omentin-1、chemerin在不同 $\\mathrm { B M I } \\left( \\mathrm { k g } / \\mathrm { m } ^ { 2 } \\right)$ 情况下的比较Tab.2 Comparison of serum omentin-1 and chemerin levels inobese and non-obese subjects in the two groups $\\mathrm { ( n g / m L , }$ Mean±SD)",
+            "表3血清omentin-1与肥胖及胰岛素抵抗析因分析Tab.3 Factorial analysis of serum omentin -1,obesity and insulin resistance"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Parameters</td><td rowspan=\"2\">B</td><td rowspan=\"2\">t</td><td rowspan=\"2\">P</td><td colspan=\"2\">95% CI</td></tr><tr><td>Lower limit</td><td>Upper limit</td></tr><tr><td>BMI</td><td>40.03</td><td>6.40</td><td>0.000</td><td>27.76</td><td>52.29</td></tr><tr><td>HOMA-IR</td><td>17.27</td><td>3.48</td><td>0.035</td><td>25.03</td><td>89.50</td></tr><tr><td>BMI*HOMA-IR</td><td>30.59</td><td>3.51</td><td>0.000</td><td>13.50</td><td>47.68</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "妊娠期糖尿病(GDM)被认为是早期的2型糖尿病(T2DM)，其短期影响往往是孕妇羊水过多、新生儿低血糖、巨大儿、产后大出血、难产等的危险性增加，其长期影响则表现为GDM孕妇首诊之后10\\~15年内患2型糖尿病的几率高达 $50 \\% { \\sim } 6 0 \\%$ ,尤其集中于产后前5年，是中老年女性2型糖尿病患者的主要来源，其子代极易出现生长速度过快、青春期肥胖、糖耐量受损或糖尿病等，严重威胁孕妇及其子代健康[12-13]。近年来，全球GDM发病率持续升高，包括我国在内的发展中国家形势更为严峻，我国已经成为世界第一糖尿病大国，患病人数已达1.5亿，GDM发病率已上升至妊娠妇女的$1 7 . 5 \\% ^ { [ 1 4 ] }$ 。且随着我国\"全面二孩\"政策的放开,高龄孕妇的增加，预计GDM的发病率将进一步上升，GDM对母体和子代带来的短期和长期影响以及不断上升的GDM患病率，将会成为困扰中国女性健康及优生优育的严重问题之一。探索GDM发病机理，从病因学上寻找GDM防治的关键靶点，为GDM治疗策略提供线索，具有极其重要的价值和意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f28aec908e389db503043fa6869b4d1ff94734b35ba01d741fe1d1097388f6ec.jpg",
+        "table_caption": [
+            "表4血清chemerin与肥胖及胰岛素抵抗析因分析Tab.4 Factorial analysis of serum chemerin,obesity and insulin resistance"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Parameter</td><td rowspan=\"2\">B</td><td rowspan=\"2\">t</td><td rowspan=\"2\">P</td><td colspan=\"2\">95% CI</td></tr><tr><td>Lower limit</td><td>Upper limit</td></tr><tr><td>BMI</td><td>409.719</td><td>8.015</td><td>0.000</td><td>309.440</td><td>509.997</td></tr><tr><td>HOMA-IR</td><td>670.867</td><td>1.994</td><td>0.074</td><td>507.374</td><td>834.360</td></tr><tr><td>BMI*HOMA-IR</td><td>593.533</td><td>8.336</td><td>0.004</td><td>733.202</td><td>453.865</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/588d91e14d3700cf6bcc57c6624bd0fcb7f794521ca473b5ee882271572088d3.jpg",
+        "table_caption": [
+            "表5血清omentin-1和chemerin之间及与各机体参数的相关性分析Tab.5 Correlation analysis among serum omentin-1,chemerin and other parameters"
+        ],
+        "table_footnote": [
+            "Significant positive correlation;Significant negative correlation. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Factors</td><td colspan=\"2\">Omentin-1</td><td colspan=\"2\">Chemerin</td></tr><tr><td>1</td><td>P</td><td>1</td><td>P</td></tr><tr><td>Pregnancy BMI (kg/m²)</td><td>-0.453b</td><td>0.001</td><td>0.054</td><td>0.702</td></tr><tr><td>prenatal BMI(kg/m²)</td><td>-0.383b</td><td>0.005</td><td>0.110</td><td>0.439</td></tr><tr><td>Neonatal birth weight (g)</td><td>-0.059</td><td>0.694</td><td>0.146</td><td>0.301</td></tr><tr><td>TC (mmol/L)</td><td>-0.190</td><td>0.176</td><td>0.402a</td><td>0.003</td></tr><tr><td>TG (mmol/L)</td><td>-0.094</td><td>0.507</td><td>0.400a</td><td>0.003</td></tr><tr><td>HDL (mmol/L)</td><td>0.374a</td><td>0.006</td><td>0.213</td><td>0.129</td></tr><tr><td>LDL (mmol/L)</td><td>0.13</td><td>0.928</td><td>-0.218</td><td>0.121</td></tr><tr><td>hs-CRP (mmol/L)</td><td>0.184</td><td>0.191</td><td>0.325a</td><td>0.019</td></tr><tr><td>FPG (mmol/L)</td><td>-0.474b</td><td>0.000</td><td>0.452a</td><td>0.001</td></tr><tr><td>OGTT2h (mmol/L)</td><td>-0.057</td><td>0.690</td><td>0.139</td><td>0.326</td></tr><tr><td>FINS (IU/mL)</td><td>-0.343b</td><td>0.012</td><td>0.221</td><td>0.115</td></tr><tr><td>HOMA-IR</td><td>-0.367b</td><td>0.007</td><td>0.236</td><td>0.091</td></tr><tr><td>Omentin-1</td><td>-</td><td></td><td>-0.146</td><td>0.301</td></tr><tr><td>Chemerin</td><td>-0.146</td><td>0.301</td><td>-</td><td>-</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e2f652eec2d43a3c27d0ea4290970d439dec59d98bc4a349591588729cb18a6c.jpg",
+        "table_caption": [
+            "表6GDM孕妇血清omentin-1影响因素分析Tab.6Analysis of factors affecting serum omentin-1"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Independent variable</td><td>Beta</td><td>P</td></tr><tr><td>Pregnancy BMI</td><td>-0.438</td><td>0.001</td></tr><tr><td>TG</td><td>-0.371</td><td>0.004</td></tr><tr><td>FPG</td><td>0.392</td><td>0.005</td></tr><tr><td>FINS</td><td>0.306</td><td>0.014</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9c771c79d9d8e49bd8f1085d464c913831dbfc70138121e6e1dc243719065a87.jpg",
+        "table_caption": [
+            "表7GDM血清chemerin影响因素分析Tab.7 Analysis of factors affecting serum chemerin"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Independent variable</td><td>Beta</td><td>P</td></tr><tr><td>TG</td><td>0.404</td><td>0.002</td></tr><tr><td>LDL</td><td>0.214</td><td>0.048</td></tr><tr><td>hs-CRP</td><td>0.315</td><td>0.012</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在本课题中，涉及的两组孕妇基本均为足月初产妇，GDM对象为经饮食、运动控制，未使用胰岛素的孕妇，对照组仅匹配年龄和孕周，不控制其他因素。结果发现，GDM孕妇组孕前BMI、产前BMI、TC、TG、",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "LDL、FPG、OGTT2h、FINS、HOMA-IR、hs-CRP、血清chemerin均明显高于对照组（NGT组），而血清omentin-1则明显低于对照组。BMI是反映身体肥胖指数的标志，BMI越高提示肥胖程度越高，在我国把$\\mathrm { B M I } { \\geq } 2 8 ~ \\mathrm { k g } / \\mathrm { m } ^ { 2 }$ 作为肥胖的标准。FINS的升高，说明GDM同2型糖尿病，也属于非胰岛素依赖性糖尿病，由于血糖升高，刺激机体胰岛素代偿性分泌增加，机体存在胰岛素抵抗。FPG、FINS的升高，导致计算出的HOMA-IR也存在明显升高。HOMA-IR是衡量胰岛素抵抗的程度的标志，正常个体的HOMA-IR为1,随胰岛素抵抗程度越高，HOMA-IR>1，绝对值越高，胰岛素抵抗程度越高。在研究中发现GDM孕妇血清hs-CRP显著高于对照组，说明GDM孕妇多处于低水平炎症反应状态,而hs-CRP的升高,也是胰岛素抵抗表现之一。上述结果说明，GDM孕妇普遍存在孕前肥胖、高血糖、高血脂、高胰岛素血症且伴有胰岛素抵抗及慢性炎症状态。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Omentin-1是近年来新发现的脂肪因子，具体作用尚不明确。有报道认为染色体1q22-23是2型糖尿病发生的重要区域，而omentin-1基因也恰好处于此区域，据此推测omentin-1可能与2型糖尿病密切相关，是2型糖尿病的重要候选基因[15-16]。另外一些研究提出血清omentin-1的变化是糖脂代谢紊乱的标志之一，在肥胖及糖耐量受损人群中，血清omentin-1与体质量BMI、腰臀比、体脂肪指数、胰岛素敏感、hs-CRP及血管舒张密切相关，而在正常人群，omentin-1仅与血管舒张相关，与胰岛素敏感指标(空腹胰岛素、HOMA-IR等)无显著关系[17-18]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在本研究中，发现GDM孕妇血清中omentin-1显著降低，表现为：肥胖GDM<非肥胖GDM=肥胖NGT<非肥胖NGT，以肥胖GDM孕妇下降最为明显。可见，肥胖和GDM是影响omentin-1水平的重要因素，可能存在肥胖后脂肪的过度蓄积抑制了omentin-1的表达，或者是通过某种机制造成了omentin-1的过度消耗。随后的析因分析显示，产前 $\\mathrm { B M I } { \\geq } 2 8 \\ \\mathrm { k g } / \\mathrm { m } ^ { 2 }$ 或HOMA-$\\scriptstyle { \\mathrm { I R } } \\geqslant 2$ 时，血清omentin-1水平均明显降低,若两者同时存在，血清中omentin-1水平降低更为显著。证实血清omentin-1水平确实与肥胖有关，并且，还受机体胰岛素抵抗程度的影响，机体发生胰岛素抵抗越严重，则血清omentin-1水平越低。若肥胖和IR两者并存，则会出现效果的叠加，加剧血清omentin-1水平的下降。在课题组随后的相关分析中发现，血清omentin-1与HDL明显正相关，而与孕前BMI、产前BMI、FPG、FINS及HOMA-IR明显负相关。推测GDM血清omentin-1的下降可能参与了GDM糖脂代谢紊乱的形成，但其调节机制尚有待进一步的深人研究。多重线性逐步回归分析结果显示，孕前BMI、TG、FPG、FINS是GDM血清中omentin-1的独立影响因素。说明妊娠妇女孕前BMI,妊娠期TG、FPG、FINS与血清omentin-1密切相关，血清omentin-1主要受影响于GDM的孕前肥胖(BMI),糖脂代谢紊乱(FPG、TG)和胰岛素抵抗状态(FINS)，与Kim等报道不同的是，omentin-1与机体的炎症状态并不相关。血清omentin-1的下降是GDM肥胖、糖脂代谢紊乱及胰岛素抵抗状态的一种表现。可以反映孕妇糖脂代谢紊乱程度和胰岛素抵抗程度，其值越低，表明GDM的糖脂代谢紊乱和胰岛素抵抗程度越重，并且，从上述omentin-1与孕前肥胖、糖脂代谢紊乱和胰岛素抵抗状态密切相关，我们推测其水平降低可能是构成胰岛素抵抗的病理生理基础之一，可能是GDM发生、发展的重要环节。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Chemerin最初仅被认为是一种趋化因子，趋化未成熟的树突状细胞和巨噬细胞，在介导炎症方面有重要作用[20]。目前为止,chernerin的确切生理作用并不十分清楚。有理论认为脂肪的蓄积及脂肪细胞体积的增大可使脂肪细胞chemerin的合成及分泌增多，chemerin可促进脂肪细胞的分化成熟及脂代谢，如此反复可引起更高水平chemerin的表达[21],肥胖及chemerin的高表达促进系统性炎症的发生，加剧肥胖及脂代谢紊乱的发生，高TG则可促进脂肪组织分泌更高水平chemerin[22]。动物模型实验报道,重组chemerin不影响正常大鼠的糖耐量，但可加剧肥胖及糖尿病大鼠的糖耐量受损[23]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在本研究中，发现GDM孕妇血清中chemerin显著升高，表现为：肥胖GDM>非肥胖GDM\\~肥胖NGT>非肥胖NGT,以肥胖GDM孕妇升高最为明显。提示chemerin与omentin-1一样,与妊娠妇女的肥胖及GDM存在密切联系。但GDM血清chemerin水平可能存在争议,有学者报道GDM孕妇与正常孕妇血清chemerin水平并无差异[24，与本课题结果明显不同，经分析，可能是其GDM组均为已使用胰岛素控制血糖稳定后采集的样本，胰岛素的使用及空腹血糖的降低可能是两组孕妇血清chemerin水平无差异的原因。而本研究析因分析显示，产前 $\\mathrm { B M I } { \\geq } 2 8 ~ \\mathrm { k g } / \\mathrm { m } ^ { 2 }$ 血清chemerin明显升高，但HOMA-IR ${ \\geqslant } 2$ 血清chemerin变化不明显，提示血清chemerin水平可能仅与肥胖及GDM的一些其他因素有关，而不受机体胰岛素抵抗程度的影响，与高胰岛素血症及胰岛素抵抗没有关联。相关分析结果发现，血清chemerin与TC、TG、hs-CRP及FPG明显正相关，经过多重线性逐步回归分析，发现TG、LDL及hs-CRP是GDM血清chemerin的独立影响因素，结果说明血清chemerin主要受影响于GDM肥胖、脂代谢紊乱(TG、LDL)和炎症状态(hs-CRP),血清chemerin在GDM中的高表达，是GDM脂代谢紊乱和炎症状态的生物学标志，与GDM的胰岛素抵抗没有明确的相关性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上所述,omentin-1与GDM较为密切相关，可能直接参与了GDM的发生和发展，血清omentin-1的下降是GDM肥胖、糖脂代谢紊乱及胰岛素抵抗状态的一种表现。血清chemerin在GDM中的高表达，是GDM脂代谢紊乱和炎症状态的生物学标志，可以反映和提示患者的高脂血症和慢性炎症状态。两者与GDM存在一定的联系，可能均参与了GDM疾病的发生和发展，但其表达及调节机制尚不明确，和GDM的因果关系还有待于进一步深入探讨。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Pérez-Pérez A,Guadix P,Maymó J,et al.Insulin and leptin signaling in placenta from gestational diabetic subjects[J].Horm Metab Res,2016,48(1): 62-9.   \n[2] Ren C, Zhang Y,Cui W,et al. A polysaccharide extract of mulberry leaf ameliorates hepatic glucose metabolism and insulin signaling inrats with type 2 diabetes induced by high fat-diet and streptozotocin[J].IntJBiol Macromol,2015,72(4): 951-9.   \n[3]Basraon SK,Mele L，Myatt L，et al．Relationship of early pregnancy Waist-to-Hip ratio versus body mass index with gestational diabetes mellitus and insulin resistance ［J].AmJ Perinatol,2016,33(1):114-21.   \n[4]Hernandez TL,Van Pelt RE,Anderson MA,et al.Women with gestational diabetes melitus randomized to a Higher-Complex carbohydrate/Low-Fat Diet manifest lower adipose tissue insulin resistance,inflammation,glucose,and free fatty acids: a pilot study [J].Diabetes Care,2016,39(1): 39-42.   \n[5]Wojcik M,Zieleniak A，Zurawska-Klis M,et al.Increased expression of immune-related genes in leukocytes of patients with diagnosed gestational diabetes mellitus (GDM)[J].Exp Biol Med (Mayw00d),2016,241(5): 457-65.   \n[6]Wurst U,Ebert T,Kralisch S,et al. Serum levels of the adipokine Pref-1 in gestational diabetes mellitus[J]. Cytokine,2015,71(2): 161-4.   \n[7]Ma Q,Fan J,Wang J,et al. High levels of chorionic gonadotrophin attenuate insulin sensitivity and promote inflammation in adipocytes [J].JMol Endocrinol,2015,54(2): 161-70.   \n[8]JiaG,DiF,Wang Q,et al. Non-Alcoholic fatty liver disease is a risk factor for the development of diabetic nephropathy in patients with type 2 diabetes mellitus [J].PLoS One，2015,10(11): e0142808.   \n[9]Cabia B,Andrade S,Carreira MC,et al.A role for novel adipose tissue-secreted factors in obesity-related carcinogenesis [J].Obes Rev,2016,17(4): 361-76.   \n[10] Sun N,Wang H,Wang L. Vaspin alleviates dysfunction of endothelial progenitor cells induced by high glucose via PI3K/Akt/ eNOS pathway[J]. Int JClin Exp Pathol,2015,8(1): 482-9.   \n[11]李晓红.脂肪组织Omentin,Vaspin,Chemerin与GDM胰岛素抵抗的 研究[D].昆明:昆明医科大学,2014.   \n[12]Amylidi S,Mosimann B，Stetler C,et al.First-trimester glycosylated hemoglobin in women at high risk for gestational diabetes[J].Acta Obstet Gynecol Scand,2016,95(1): 93-7.   \n[13]Lamminpaa R,Vehvilainen-Julkunen K,Gissler MA,etal. Pregnancy outcomes in women aged 35 years or older with gestational diabetes-a registry-based study in Finland[J].JMatern Fetal Neonatal Med,2016,29(1): 55-9.   \n[14] Wei YM, Yan J,Yang HX.Identification of severe gestational diabetes mellitus after new criteria used in China[J].JPerinatol, 2016, 36(2): 90-4.   \n[15]林园梅.华南汉族2型糖尿病人群Omentin基因 SNPs扫描及与高甘 油三酯腰围关联[D].南宁:广西医科大学,2014.   \n[16]Wojcik M, Chmielewska-Kassassir M, Grzywnowicz K,et al. The relationshipbetweenadiposetissue-derivedhormonesand gestational diabetes mellitus (GDM)[J].Endokrynol Pol,2014,65 (2): 134-42.   \n[17]张漫漫,班 博,陈 京,等.初发2型糖尿病合并肥胖患者血清网膜素及 脂联素水平的变化[J].中国老年学杂志,2015,35(5):1153-5.   \n[18]Bao W,Baecker A, Song YQ, et al. Adipokine levels during the first or early second trimester of pregnancy and subsequent risk of gestational diabetes melitus: A systematic review[J]. Metabolism, 2015, 64(6): 756-64.   \n[19]Kim C, Christophi CA,Goldberg RB,etal. Adiponectin, C-reactive protein, fibrinogen and tissue plasminogen activator antigen levels among glucose-intolerant women with and without histories of gestational diabetes[J].Diabet Med,2016,33(1): 32-8.   \n[20]Li XM,Ji H,Li CJ, et al. Chemerin expresion in Chinese pregant women with and without gestational diabetes melitus［J].Ann Endocrinol (Paris),2015,76(1): 19-24.   \n[21]Du J,LiR,Xu L,et al. Increased serum chemerin levels in diabetic retinopathy of type 2 diabetic patients[J]. Curr Eye Res,2016,41 (1): 114-20.   \n[22] Van Poppel MN, Zeck W,Ulrich D,et al. Cord blood chemerin: differential effects of gestational diabetes melius and maternal obesity[J]. Clin Endocrinol (Oxf),2014,80(1): 65-72.   \n[23]Peyrassol X,Laeremans T,Gouwy M, et al. Development by genetic immunization of monovalent antibodies(nanobodies) behaving as antagonists of the human ChemR23 receptor[J]. J Immunol,2016,196(6): 2893-901.   \n[24] Yang S,Wang Q,Huang W,et al. Are serum chemerin levels different between obese and non-obese polycystic ovary syndrome women[J]? Gynecol Endocrinol,2016,32(1): 38-41. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(编辑：孙昌朋)",
+        "page_idx": 5
+    }
+]

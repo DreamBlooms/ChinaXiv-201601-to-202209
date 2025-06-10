@@ -1,0 +1,475 @@
+[
+    {
+        "type": "text",
+        "text": "水分优化对温室葡萄产量及土壤生物学特性的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蔺宝军¹，张芮，董博²，王引弟¹，张小艳(1．甘肃农业大学水利水电工程学院,甘肃 兰州730070；2．甘肃省农业科学院,甘肃 兰州730070)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为揭示滴灌不同水分调控下设施栽培葡萄产量与土壤学特性等相关指标的响应关系,在甘肃省永登县设施葡萄试验基地开展葡萄滴灌不同生育期水分调控田间灌溉试验,分析水分调控对设施栽培葡萄土壤积温、蔗糖酶和淀粉酶活性、有机碳(TOC）、微生物量碳(MBC)和微生物熵(qMB)等土壤学特性的影响,基于隶属函数综合分析明确影响葡萄产量及各项土壤生物学特性指标的最佳水分优化处理。结果表明：新梢期水分胁迫的土壤积温、土壤酶、TOC、MBC、 ${ \\bf q } { \\bf M } { \\bf B }$ 均显著( $\\textstyle P < 0 . 0 5 ,$ 高于对照;新稍期水分胁迫较对照可增产 $4 4 . 6 \\%$ ;果实膨大期作为葡萄生长的关键阶段,此时水分胁迫对土壤淀粉酶影响不显著,但对其他土壤学特性指标具有一定的抑制作用,并且可减产 $9 . 7 \\%$ ；隶属函数综合分析表明，土壤生物学特性指标及产量综合隶属排名为： $\\mathrm { P S } ~ > ~ \\mathrm { F S } ~ > ~ \\mathrm { C S } ~ > ~ \\mathrm { C K } ~ > ~ \\mathrm { E S } _ { \\circ }$ （204号",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：水分胁迫；葡萄；产量；土壤生物学特性；永登县；甘肃",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "我国是鲜食葡萄生产大国，产量居世界首位；设施栽培葡萄利用日光温室蓄热保温，能够打破传统葡萄种植受季节性和地域性限制的不足，截至2017年底,甘肃设施栽培面积达 $1 . 8 7 \\times 1 0 ^ { 5 } ~ \\mathrm { h m } ^ { 2 }$ ，占全国葡萄种植面积的 $2 5 \\%$ ，发展迅速，这对于满足葡萄鲜果的周年供应具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "土壤作为所有陆地生态系统的基底，为其植物生长提供了必需的养分和水分，土壤温度（地温）、土壤微生物、土壤酶等都影响植物的生长、发育和土壤的形成。地温的高低变化对近地面气温、植物根系的生长发育、微生物的繁殖及其活动强度均有很大的影响[1-2]。塔娜等[3]研究表明,温室内通过降低土壤含水率能够有效提高土壤平均温度；陈娜娜等[4也发现,在葡萄不同生育期进行水分胁迫均能提高土壤温度。土壤酶作为“植物营养元素的活性库”[5],在土壤有机质分解，土壤生态系统的物质循环,养分循环以及能量流动方面具有重要作用[6-7]，一定程度上反映了土壤的健康状况。研究发现一定程度的水分胁迫能够激活土壤酶活性，尤以蔗糖酶最为敏感[8]。土壤有机碳库也是植物生长和土壤微生物生命活动的物质和能量来源[9,水分胁迫能够显著提高玉米根际土壤有机碳含量[10],但却降低了核桃根际高活性有机碳含量[1],此外,水分胁迫能够增加稻基农田土壤微生物量碳含量和土壤微生物熵[12],但在小麦、紫花苜蓿的研究上得出了相反的结论[13-14]。土壤氮素作为表征土壤肥力最活跃的元素之一[15],水分胁迫对其矿化作用有着重要影响，研究发现水分胁迫导致西红柿根际土壤全氮含量显著提高[16],玉米、白羊草根际土壤铵态氮和硝态氮明显提升[10.17],但却降低了小麦根际土壤有效氮含量(\"]。因此,土壤酶、土壤碳库以及土壤氮素对水分胁迫的响应具有很强的不确定性，仍需要进一步深入研究，,而目前国内外学者对土壤酶活性以及土壤有机碳等的研究大多集中在草地、森林、农田生态系统[18-20],对温室葡萄栽培种植下的温室土壤环境研究较少，尤其缺少对不同水分调控水平下土壤学指标对葡萄生长及产量影响的系统性研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "甘肃河西地区是葡萄主产区，昼夜温差大，对于发展设施栽培葡萄产业具有很大的优势，但该地区降水量少，水资源匮乏成为限制葡萄生长发育的主要因素。葡萄根系能够向茎叶输导水分和矿物营养，并与土壤微生物等产生互利共生关系，有研究表明，“红地球”葡萄在 $0 \\sim 4 0 \\ \\mathrm { c m }$ 土层内的根系占总根量的 $8 6 . 7 \\%$ [21]。但目前该地区葡萄栽培种植主要采取传统的漫灌方式，水资源浪费严重且不利于葡萄根系生长,张新宁等[22]发现相比滴灌漫灌吸收根的总量可减少 $3 3 . 4 9 \\% \\sim 3 8 . 6 5 \\%$ ,并且适宜的水分胁迫能抑制葡萄枝条生长量[23],提高葡萄果实膨大速率[24],刘洪光等[25]发现新梢期重度水分胁迫果穗质量、果粒质量、产量均有显著提升，因此，开展滴灌不同水分调控对葡萄生长、土壤学指标影响研究，揭示影响产量的主要因素，以期为我国旱区设施栽培葡萄节水增产及土壤环境调控提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验于2018年5月至2019 年1月在甘肃省兰州市永登县设施葡萄栽培试验基地进行，地理位置$1 0 2 ^ { \\circ } 3 8 ^ { \\prime } \\mathrm { E } , 3 6 ^ { \\circ } 1 2 ^ { \\prime } \\mathrm { N }$ ,海拔 $2 \\ 0 0 5 \\ \\mathrm { ~ m ~ }$ ,属典型的冷凉型半干旱大陆季风气候，平均气温 $5 . 9 ~ \\mathrm { ^ { \\circ } C }$ ,年平均降水量 $2 9 0 ~ \\mathrm { m m }$ ,蒸发量约 $4 ~ 5 0 0 ~ \\mathrm { m m }$ 。试验区土壤为壤土,体积比田间持水量为 $2 7 . 2 \\%$ ,容重为 $\\mathrm { 1 . 4 2 ~ g }$ ：（204号cm。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "供试材料采用当地主栽葡萄“红地球”,5a树龄，欧亚品种。葡萄种植于 $6 \\ \\mathrm { m } \\times 8 0 \\ \\mathrm { m }$ 的土墙草帘塑料温室大棚，葡萄采用单臂Y型矮单篱架的栽培方式，行距 $2 . 0 \\mathrm { ~ m ~ }$ ,株距 $0 . 8 \\mathrm { ~ m ~ }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验采用水分单因素胁迫随机试验。将葡萄生育期划分为新梢生长期（5月25日至6月22日），开花期(6月23日至7月15日），果实膨大期（7月16日至9月14日），着色成熟期(9月14日至12月8日)4个时期,参考已有文献和前几年该试验点研究资料[26-27],并结合当地设施栽培葡萄耗水和灌溉经验,在每个生育期依次设置一个水分胁迫水平，土壤含水率下限为田间持水率(FC)的 $5 5 \\%$ ,共4个干旱胁迫处理;以土壤含水率下限 $7 5 \\%$ 为充分供水（对照处理)（表1），重复3次。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验采用滴灌方式,采用1管1行控制模式，滴头流量为 $3 \\mathrm { ~ L ~ } \\cdot \\mathrm { ~ h ~ } ^ { - 1 }$ 。当实测土壤含水率降低至下限值时灌水,灌水定额为 $2 7 0 \\mathrm { ~ m } ^ { 3 } \\cdot \\mathrm { h } \\mathrm { m } ^ { - 2 }$ ,用每个小区安装的阀门和水表控制灌水，灌水后充分供水处理土壤含水率达到 $100 \\%$ ,轻度胁迫达到 $80 \\%$ 。灌水量和灌水时间由土壤含水率确定，用水表量取。计划湿润层深度为 $1 0 0 \\ \\mathrm { c m }$ ,湿润比0.5，为防止小区之间土壤水横向扩散，在小区边界垂直铺设厚度为",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1不同处理的土壤含水率下限",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/97803a532da43dcecbcf706eb5a2d35a2915100e7ca2c1b3962d7287c67e3b0a.jpg",
+        "table_caption": [
+            "Tab.1 Lower limit of soil moisture content under "
+        ],
+        "table_footnote": [
+            "注：数值表示占田间持水率的比例。"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">different treatments</td><td colspan=\"2\">/%</td></tr><tr><td>处理 编号</td><td>水分处理</td><td>新梢 生长期</td><td>开花期</td><td>果实 膨大期</td><td>着色 成熟期</td></tr><tr><td>CK</td><td>充分供水</td><td>75</td><td>75</td><td>75</td><td>75</td></tr><tr><td>PS</td><td>新梢生长期胁迫</td><td>55</td><td>75</td><td>75</td><td>75</td></tr><tr><td>FS</td><td>开花期胁迫</td><td>75</td><td>55</td><td>75</td><td>75</td></tr><tr><td>ES</td><td>果实膨大期胁迫</td><td>75</td><td>75</td><td>55</td><td>75</td></tr><tr><td>CS</td><td>着色成熟期胁迫</td><td>75</td><td>75</td><td>75</td><td>55</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$2 ~ \\mathrm { m m }$ 的聚乙烯土工膜,铺设深度 $1 0 0 \\ \\mathrm { c m }$ 。各处理施肥和农艺措施相同。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 测试指标及测试方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.1样品采集每个小区前后随机选取3个采样点，去除表面调落物，取 $1 5 \\sim 2 5 \\ \\mathrm { c m }$ 深根际土,3点土样充分混匀后装人保鲜盒立即带回实验室，一部分土样过 $2 \\ \\mathrm { m m }$ 筛， $4 \\mathrm { { ~ ‰ ~ } }$ 保存用以测定土壤酶活性、土壤有机碳和土壤微生物量碳，此测定均在样品取完后一周内完成，另一部分土样过 $1 \\ \\mathrm { m m }$ 筛风干后测土壤理化性质。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.2土壤含水率测定土壤含水率用烘干法测定，每个试验小区取离根横向距离 $2 0 \\sim 3 0 ~ \\mathrm { c m }$ 、纵深分别为 $1 0 { \\cdot } 2 0 { \\cdot } 4 0 { \\cdot } 6 0 { \\cdot } 8 0 { \\cdot } 1 0 0 \\ \\mathrm { c m }$ 处取样,雨前和雨后加测，采用(型号：DHG-9036A)烘箱 $1 0 5 ~ \\mathrm { ^ { \\circ } C }$ 下烘 $^ { 8 \\mathrm { ~ h ~ } }$ 。1.3.3地温测定地温计布设在每个小区离根 20cm 处,测量深度依次为 $5 , 1 0 , 1 5 , 2 0 , 2 5 \\ \\mathrm { c m }$ 。地温读数每隔 $^ { 2 \\mathrm { ~ h ~ } }$ 读数1次，分别为08:00、10:00、12:00、14:00、16:00、18:00。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.4土壤生物学特性指标测定采用3,5二硝基水杨酸比色法测定鲜土的土壤蔗糖酶、淀粉酶活性[28-29];采用重铬酸钾氧化外加热法[30]测定土壤有机碳(TOC）,氯仿熏蒸浸提法[31]测定土壤微生物量碳（MBC）含量；土壤微生物熵 $\\mathrm { ~ ( ~ q M B ~ ) ~ } = \\mathrm { M B C } /$ TOC[32];全氮采用凯氏定氮法测定,碱解氮采用碱解扩散法测定，硝态氮采用酚二磺酸比色法测定，铵态氮采用扩散法测定[33] 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.5产量及生长指标测定葡萄成熟采摘时，用精度为 $0 . \\ 0 1 \\ \\mathrm { \\ k g }$ 的电子天平（型号GB/T7722-2005)测定，茎粗用精度为 $0 . 0 1 \\ \\mathrm { m m }$ 的游标卡尺测定，茎长用精度为 $0 . 1 \\ \\mathrm { c m }$ 的皮尺测定。产量以各处理单独采收单独计量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4 数据处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验数据采用Excel和SPSS18.0统计分析软件进行数据分析。采用隶属综合分析法对所测指标进行综合评价，取其隶属函数均值对各水分优化处理进行总和排序，平均隶属函数值最大表明该处理最优[34] 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "隶属函数值计算公式[34]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU ( X i ) = ( X i - X \\mathrm { m i n } ) / ( X \\mathrm { m a x } - X \\mathrm { m i n } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "反隶属函数值计算公式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU ( X i ) = 1 - ( X i - X \\mathrm { { m i n } ) / ( X \\mathrm { { m a x } - \\bar { X } \\mathrm { { m i n } ) } _ { \\Omega } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $X i$ 为指标测定值; $\\chi _ { \\mathrm { m i n } , X \\mathrm { m a x } }$ 为所有参试材料某一指标的最小值和最大值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1滴灌不同水分调控对土壤学特性的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1滴灌不同水分调控对土壤积温的影响各生育期各个处理在 $0 \\sim 2 5 ~ \\mathrm { c m }$ 土层深度内平均累积温度变化如图1所示：葡萄新梢生长期PS处理 $0 \\sim$ $2 5 \\ \\mathrm { c m }$ 土层平均积温最大,达到 $4 8 8 \\mathrm { ~ \\textdegree C }$ ，显著( $P <$ 0.05)高于CK，比CK处理提高 $1 0 . 9 \\%$ 。此时段FS处理相比CK处理也有所提高，提高 $4 . 1 \\%$ ;开花期,FS处理 $0 \\sim 2 5 ~ \\mathrm { c m }$ 土层平均积温最大，达到351.53$\\mathcal { \\mathrm { C } }$ ,比CK处理提高 $5 . 9 \\%$ ，此时段PS 处理 $0 \\sim 2 5$ cm土层平均积温也达到 $3 5 0 . 9 5 \\mathrm { ~ \\textdegree C }$ ，比CK处理提高 $5 . 7 \\%$ 。均显著( $\\textstyle P < 0 . 0 5 )$ 高于CK，进入果实膨大期，PS处理和FS处理 $0 \\sim 2 5 ~ \\mathrm { c m }$ 土层平均积温依旧较CK有所提高，分别提高 $4 4 . 0 3 ~ \\mathrm { ^ { 9 C } }$ 和 $3 1 . 9 3 \\mathrm { ~ } \\mathrm { ^ { \\circ } C }$ ，其他处理相比CK处理，变化细微，变化率依次为$- 1 . 7 \\%$ 和 $- 1 . 9 \\%$ 。步入着色成熟期,ES处理积温最高，达到 $1 ~ 0 9 3 . 8 5 \\mathrm { ~ \\textdegree C }$ ,其次为PS处理，达到注：采用LSD法，柱上不同小写字母表示在 $\\textstyle P < 0 . 0 5$ 上差异显著。下同。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ece3065c5ecb1b53c8dc58af59f78d5bc763b49b9b29c1fae08c6a63a74a3746.jpg",
+        "img_caption": [
+            "图1滴灌不同水分调控对土壤平均积温的影响 Fig.1Effect of drip irrigation on soil average accumulated temperature under different irrigation water control levels "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$1 0 8 8 . 2 3 \\mathrm { ~ \\textdegree C }$ ，此时段4个处理均比CK处理有所提高，变化率依次为 $4 . 7 \\% 3 . 3 \\% 0 . 3 \\%$ 和 $- 0 . 6 \\%$ 。2.1.2滴灌不同水分调控对土壤酶活性的影响从图2可知：土壤蔗糖酶和淀粉酶呈现先增大后减小趋势，均在果实膨大期达到峰值；新稍期和开花期干旱胁迫能够显著( $\\textstyle P < 0 . 0 5 )$ 提高土壤蔗糖酶和淀粉酶活性，新稍生长期PS处理的土壤蔗糖酶活性较CK高 $2 9 \\%$ ,淀粉酶活性较CK高 $3 1 . 4 \\%$ ；开花期FS 处理土壤蔗糖酶活性较CK 高 $6 . 4 \\%$ ,淀粉酶活性较CK高 $7 . 4 \\%$ ;果实膨大期和着色成熟期水分胁迫蔗糖酶活性显著( $\\ P < 0 . 0 5 )$ 低于其余处理;果实膨大期淀粉酶活性与其他处理不存在显著性( $P <$ 0.05），着色成熟期显著( $\\cdot P < 0 . 0 5 )$ 低于对照。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.3滴灌不同水分调控对土壤有机碳、微生物量碳和微生物熵的影响由图3所示：TOC和MBC含量呈现先增大后减小的变化趋势，开花期和果实膨大期土壤环境有利于TOC和MBC积累，此时达到最大;新稍生长期PS处理TOC和MBC含量显著（ $\\scriptstyle P < 0 . 0 5 )$ 高于CK,分别高 $1 0 . 6 \\%$ 和 $5 5 . 1 \\%$ ；开花期FS处理也能增加TOC和MBC的积累，此时PS、FS 处理之间不存在显著性( $\\ P < 0 . 0 5 )$ 差异,但显著（ $\\textstyle P < 0 . \\ 0 5 ~ ;$ 高于对照，分别高 $7 . 7 \\%$ 、25. $9 \\%$ 和$6 . 1 \\% . 2 5 . 6 \\%$ ;如图3所示，果实膨大期ES处理能够显著( $\\textstyle P < 0 . 0 5 )$ 抑制TOC和MBC的积累，较CK分别低 $8 . 8 \\%$ 和 $1 9 . 7 \\%$ ;着色成熟期CS处理与CK不存在显著性差异。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2539c660e07baeecf9ec0fe07e9a5371096ba49057e21b9d788ad99c5aaa6b41.jpg",
+        "img_caption": [
+            "图2滴灌不同水分调控对土壤酶活性的影响 Fig.2Effect of drip irrigation on soil enzyme activity under different irrigation water control levels "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/905e4c46a578d6859e055759ac118aa22d7cd0b1a753a911ba1f861e13a1fdf0.jpg",
+        "img_caption": [
+            "图3滴灌不同水分调控对 TOC、MBC 的影响Fig.3Effect of drip irrigation on TOC and MBC underdifferent irrigation water regulation levels"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤微生物熵（qMB)作为表征土壤碳动态和土壤质量的有效研究指标，从微生物的角度出发揭示了土壤肥力情况。不同生育期水分胁迫对 ${ \\bf q } { \\bf M } { \\bf B }$ 的影响如表2所示， ${ \\bf q } { \\bf M } { \\bf B }$ 变化趋势为先增大后减小，在开花期和果实膨大期达到最大。新稍生长期水分胁迫qMB达到 $4 . 5 1 \\%$ ，显著( $\\textstyle P < 0 . 0 5 )$ 高于",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2滴灌不同水分调控下土壤微生物熵的变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8e67280de08f672c751f2d588e03f9911faba01d94db2b1ad6490da058361c66.jpg",
+        "table_caption": [
+            "Tab.2Change of soil microbial entropy under drip irrigation with different irrigation water regulation levels $7 \\%$ "
+        ],
+        "table_footnote": [
+            "注：采用LSD法，同列数据后不同小写字母表示在 $\\textstyle P < 0 . 0 5$ 上差异显著。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td>处理</td><td>新梢生长期</td><td>开花期</td><td>果实膨大期</td><td>着色成熟期</td></tr><tr><td>CK</td><td>3.21ab ±1.01</td><td>5.07a±0.60</td><td>4.68a±0.68</td><td>3.98a±0.07</td></tr><tr><td>PS</td><td>4.51a±0.33</td><td>5.93a±0.30</td><td>5.86a±1.26</td><td>4.57a±0.95</td></tr><tr><td>FS</td><td>2.96ab ±0.85</td><td>6.01a±0.53</td><td>5.36a ±1.18</td><td>3.84a ±1.06</td></tr><tr><td>ES</td><td>2.69h ±0.76</td><td>4.99a±0.52</td><td>4.13h ±0.74</td><td>3.98a±0.65</td></tr><tr><td>CS</td><td>3.64ab ±1.15</td><td>5.05a±0.79</td><td>4.76a ±1.53</td><td>3.86a ±0.74</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\operatorname { C K } ( 3 . 2 1 \\%$ ),开花期、着色成熟期各处理间不存在显著性( $\\textstyle P < 0 . 0 5 )$ 差异，但果实膨大期进行水分胁迫能够减小 ${ \\bf q } { \\bf M } { \\bf B }$ ,此时段ES处理较对照低 $1 3 . 3 \\%$ ，两者存在显著性差异。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.4滴灌不同水分调控对其他土壤学特性指标的影响由表3可知，果实膨大期氮循环所涉及的生化反应达到最大，此时进行水分胁迫对全氮、碱解氮、硝态氮、铵态氮的积累均有一定的抑制作用，显著低于( $\\cdot P < 0 . 0 5 )$ 对照,此时ES处理下小区的土壤pH也显著高于对照;新稍期干旱胁迫全氮、碱解氮、硝态氮、铵态氮的积累显著高于( $\\ P < 0 . 0 5 )$ 对照，此时小区的土壤 $\\mathrm { \\ p H }$ 低于对照，但不存在显著性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2滴灌不同水分调控对葡萄产量的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表4所示，PS处理产量最高，达到26038.89$\\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ ,CS 处理次之,均显著高( $\\textstyle P < 0 . 0 5 )$ 于CK处理，分别高 $4 4 . 6 \\%$ ${ \\cdot } 4 2 . 5 \\%$ ,此二者间不存在显著性,ES 处理产量最低,仅 $1 6 ~ 4 1 6 . 6 7 ~ \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ ，较CK低 $9 . 7 \\%$ ,但二者不存在显著性( $\\cdot P < 0 . 0 5 )$ 差异；单个处理穗数PS为30.93串，CS为31.78串，均显著( $\\textstyle P < 0 . 0 5 )$ 高于CK 处理（27.9串），ES 处理为25.91串，较CK低 $7 . 7 \\%$ ；单穗粒数各处理依次为$8 7 . 9 8 . 3 3 , 9 5 , 9 4 . 6 7 , 9 7$ 颗;单粒重各处理依次为$8 . 9 \\ 、 1 0 . 2 9 \\ 、 9 . 9 6 \\ 、 8 . 0 3 \\ 、 1 0 . 0 2 \\ \\mathrm { ~ g } , \\mathrm { P S } \\ 、 \\mathrm { C S } \\ \\xi$ 处理显著（ $\\textstyle P < 0 . 0 5 )$ 高于CK,ES显著低于CK;各处理水分胁迫对植株生长均有抑制作用，新稍期最为明显。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8319d347c667c787ff06a11a8a470dc67387c2865efc0e673a0c7250810c76d4.jpg",
+        "table_caption": [
+            "Tab.3Changeofbasic soil physiochemicalpropertiesunderdrip irrgation withdiferentirrigation waterregulationlevels ",
+            "表4滴灌不同水分调控对葡萄生长的影响"
+        ],
+        "table_footnote": [
+            "注：2018年10月14日采样。"
+        ],
+        "table_body": "<html><body><table><tr><td>处理</td><td>全氮/（g·kg-1)</td><td>碱解氮/（mg·kg-1）</td><td>硝态氮/（mg·kg-1）</td><td>铵态氮/（mg·kg-1）</td><td>pH</td></tr><tr><td>CK</td><td>0.81 ±0.01</td><td>39.60ab ± 1.65</td><td>127.69ab ± 34.46</td><td>19.87be ±0.93</td><td>8.09h ±0.01</td></tr><tr><td>PS</td><td>0.85a ±0.02</td><td>45.17a ±5.13</td><td>152.19a ± 32.58</td><td>24.40a ± 1.46</td><td>8.02b±0.02</td></tr><tr><td>FS</td><td>0.82ab ±0.03</td><td>36.47h ± 2.25</td><td>96.85bc ±9.11</td><td>19.22b ±0.49</td><td>8.06h ±0.02</td></tr><tr><td>ES</td><td>0.79b ±0.03</td><td>27.50±6.20</td><td>54.72±13.33</td><td>17.09±1.12</td><td>8.14a ±0.01</td></tr><tr><td>CS</td><td>0.82ab ±0.02</td><td>36.67b ± 1.53</td><td>110.33ab ±8.02</td><td>20.67h ±0.88</td><td>8.09h ±0.01</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/eb5be05091e66c6c7ab9bdfef88fece8cfa8ac6f47fa9baa41120e8f84034e5d.jpg",
+        "table_caption": [
+            "表3滴灌不同水分调控下土壤基本理化性质的变化",
+            "Tab.4Effect of drip irigation on grape yield underdrip irrigation with different irrigation water control levels "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>处理</td><td>产量/（kg·hm-²)</td><td>单个处理穗数/串</td><td>单穗粒数/颗</td><td>单粒重/g</td><td>主茎增长速率/（cm·d-1）</td><td>茎粗增长速率/(mm·d-1)</td></tr><tr><td>CK</td><td>18 008.33 ±956.9</td><td>27.90b±1.3</td><td>87.00b ±1.0</td><td>8.90b ±0.1</td><td>1.10a ±0.07</td><td>0.077a±0.001</td></tr><tr><td>PS</td><td>26 038.89a ±1216.3</td><td>30.93a ± 1.5</td><td>98.33a±4.5</td><td>10.29a ±0.5</td><td>0.75h ±0.02</td><td>0.053d±0.003</td></tr><tr><td>FS</td><td>22 063.89b±445.8</td><td>28.01b ±0.8</td><td>95.00ab ±4.0</td><td>9.96a±0.4</td><td>0.96a±0.06</td><td>0.075ab ±0.003</td></tr><tr><td>ES</td><td>16 416.67 ±1 902.4</td><td>25.91b ±2.6</td><td>94.67ab ±3.5</td><td>8.03±0.3</td><td>1.02a±0.13</td><td>0.070be±0.006</td></tr><tr><td>CS</td><td>25 655.56a±2 141.7</td><td>31.78a±0.8</td><td>97.00ab ±9.8</td><td>10.02a ±0.7</td><td>1.04a ±0.04</td><td>0.068±0.009</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3土壤生物学特性与葡萄产量及构成要素的相 关分析 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表5可知, $X 4 \\AA \\mathrm { , } \\varLambda 5$ 与 $\\boldsymbol { \\mathit { Y 1 } }$ 呈极显著( $\\ P < 0 . 0 5 ,$ 正相关， $X 2 , X 3 , X 6 , X 7$ 与 $\\boldsymbol { \\mathit { Y 1 } }$ 呈显著( $\\textstyle P < 0 . 0 5 )$ 正相关， $\\mathrm { p H } ( X 1 1 )$ 与 $\\boldsymbol { \\mathit { Y 1 } }$ 存在显著( $\\textstyle P < 0 . 0 5 )$ 的负相关关系，其余各土壤学特性指标与 $\\boldsymbol { Y 1 }$ 呈正相关,但不存在显著性。各土壤学特性指标相互之间均呈正相关，且存在一定的显著性。说明各土壤学特性指标作为土壤肥力和养分的表征，其含量的积累对葡萄产量均有显著的积极作用,且干旱胁迫对降低土壤pH 也有一定的作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4土壤生物学特性与葡萄产量隶属函数综合相关分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "隶属函数评估法是采用模糊数学原理，利用隶属函数对植物抗性、品质等指标进行综合评价的一种方法。由表6所示，各处理土壤生物学特性指标及产量隶属度综合排名为 $\\mathrm { P S } ~ > ~ \\mathrm { F S } ~ > ~ \\mathrm { C S } ~ > ~ \\mathrm { C K } ~ > ~$ ES,除ES处理外，其余处理均优于对照CK，说明在新梢期、开花期和着色成熟期进行水分胁迫都能在一定程度上提升土壤综合性质和产量，PS处理最为显著，而果实膨大期进行水分胁迫不利于土壤生物学特性及产量形成。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/aefb1049f70f0bbe5257063c5f1aca61f84e7ae6ac2d23e19b95c0b07be63bde.jpg",
+        "table_caption": [
+            "Tab.5 Correlativity between soil properties and grape yield "
+        ],
+        "table_footnote": [
+            "注： $* *$ 表示在0.01 水平(双侧)上显著相关，\\*表示在0.05 水平(双侧)上显著相关。 $X 1 \\sim X 1 1$ 依次表示为土壤积温、土壤蔗糖酶、淀粉酶、TOC、MBC、 ${ \\bf q } { \\bf M } { \\bf B }$ 、全氮、碱解氮、硝态氮、铵态氮、pH,Y表示产量。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>X1</td><td>X2</td><td>X3</td><td>X4</td><td>X5</td><td>X6</td><td>X7</td><td>X8</td><td>X9</td><td>X10</td><td>X11</td><td>Y</td></tr><tr><td>X1</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>X2</td><td>0.823 **</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>X3</td><td>0.775 **</td><td>0.764 **</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>X4</td><td>0.568 *</td><td>0.840 **</td><td>0.607 *</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>X5</td><td>0.731 **</td><td>0.881 **</td><td>0.757 **</td><td>0.788 **</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>X6</td><td>0.694 **</td><td>0.803 **</td><td>0.732 **</td><td>0.651 **</td><td>0.979 **</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>X7</td><td>0.436</td><td>0.513</td><td>0.484</td><td>0.433</td><td>0.421</td><td>0.385</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>X8</td><td>0. 477</td><td>0.715 **</td><td>0.387</td><td>0.671 **</td><td>0.668 **</td><td>0.616 *</td><td>0.655 **</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>X9</td><td>0. 175</td><td>0.631 *</td><td>0.368</td><td>0.709 **</td><td>0.592 *</td><td>0.525 *</td><td>0.679 **</td><td>0.487</td><td>1</td><td></td><td></td><td></td></tr><tr><td>X10</td><td>0.427</td><td>0.683 **</td><td>0.588 *</td><td>0.507</td><td>0.761 **</td><td>0.787 **</td><td>0.589 *</td><td>0.530 *</td><td>0.640 *</td><td>1</td><td></td><td></td></tr><tr><td>X11</td><td>-0.427</td><td>-0.754**</td><td>-0.535 *</td><td>-0.727 **</td><td>-0.724**</td><td>-0.666 **</td><td>-0.686 **</td><td>-0.619 *</td><td>-0.846 **</td><td>-0.842 **</td><td>1</td><td></td></tr><tr><td>Y</td><td>0.371</td><td>0.542 *</td><td>0.515 *</td><td>0.666 **</td><td>0.658**</td><td>0.608 *</td><td>0.555 *</td><td>0.239</td><td>0.473</td><td>0.468</td><td>-0.566*</td><td>1</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/05e5711ce9736ba315f5f0bceb5b379a0de854869cbdd4b338278c23539c7b72.jpg",
+        "table_caption": [
+            "表5土壤学特性指标与产量间的相关关系",
+            "表6土壤生物学特性指标和产量的隶属函数综合分析",
+            "Tab.6 Comprehensive analysis on soil biological property indexes and yield membership functions "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>处理</td><td>X1</td><td>X2</td><td>X3</td><td>X4</td><td>X5</td><td>X6</td><td>X7</td><td>X8</td><td>X9</td><td>X10</td><td>Y</td><td>隶属度均值</td><td>综合排名</td></tr><tr><td>CK</td><td>0.210 5</td><td>0.3697</td><td>0.123 2</td><td>0.2431</td><td>0.088 8</td><td>0.243 2</td><td>0.466 7</td><td>0.6431</td><td>0.5831</td><td>0.426 7</td><td>0.276 8</td><td>0.3341</td><td>4</td></tr><tr><td>PS</td><td>0.874 3</td><td>0.916 2</td><td>0.7231</td><td>0.6851</td><td>0.316 3</td><td>0.7361</td><td>0.866 7</td><td>0.839 8</td><td>0.7589</td><td>0.812 6</td><td>0.8694</td><td>0.763 5</td><td>1</td></tr><tr><td>FS</td><td>0.666 9</td><td>0.508 6</td><td>0.431 8</td><td>0.421 6</td><td>0.170 0</td><td>0.399 3</td><td>0.633 3</td><td>0.532 4</td><td>0.3619</td><td>0.371 7</td><td>0.576 1</td><td>0.461 2</td><td>2</td></tr><tr><td>ES</td><td>0.249 4</td><td>0.101 3</td><td>0.207 9</td><td>0.062 0</td><td>0.019 6</td><td>0.100 2</td><td>0.400 0</td><td>0.215 5</td><td>0.059 6</td><td>0.189 9</td><td>0.159 3</td><td>0.160 5</td><td>5</td></tr><tr><td>CS</td><td>0.128 7</td><td>0.198 4</td><td>0.189 7</td><td>0.304 4</td><td>0.109 2</td><td>0.2899</td><td>0.5667</td><td>0.539 5</td><td>0.4586</td><td>0.494 6</td><td>0.8411</td><td>0.374 6</td><td>3</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "科学的水分管理模式对于设施延迟栽培葡萄的生长发育及水资源的集约利用有着重要意义，通过人为控制不同程度的灌水量限值，在保证作物生长发育和产量形成对水分需求的同时，既可有效的节约水资源，又可影响土壤的理化性质、土壤结构、微生物环境，使之朝着作物生长发育有利的方向发展。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "土壤温度时刻影响着植株的生长发育和土壤环境的形成，本实验以全生育期充分供水为对照，对葡萄4个生育期进行轻度水分胁迫，发现葡萄各生育期施加水分胁迫都能在一定程度上提高土壤积温，新梢生长期效果最明显,这与常永义等[35]的研究结果一致,郑健等[36]在小型西瓜上也有相似的研究结果,同时新稍生长期和开花期施加水分胁迫处理不仅能提高本阶段土层土壤积温，而且也能增加后续各阶段土层土壤积温，这可能是由于适当的水分胁迫刺激葡萄植株根系吸收深层土壤水，促进深-浅层土壤间水分移动和气体交换，改善土壤的通气透水状况，提升土壤吸热保温能力所致。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "土壤酶参与了土壤中各种生化活动，测定相应的土壤酶活性能够进一步理解土壤在其生态状态下生物化学过程的强度，土壤蔗糖酶和淀粉酶都是表征土壤氮素转化速率和土壤生化反应强度的关键酶之一。本实验研究发现,新梢生长期和开花期水分胁迫都有助于土壤蔗糖酶和淀粉酶的积累，果实膨大期作为植株生长的关键阶段，土壤中各种生化反应、水热交换运移等达到最大，此时进行水分胁迫不利于土壤蔗糖酶的积累，但对淀粉酶的影响不显著，同时也不利于土壤有机碳和微生物量碳的积累，这与陈娜娜等[37]在张掖葡萄研究基地针对“红地球”所得出的研究结果相似。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "土壤有机碳库是土壤碳库最重要的组成部分之一,虽然所含的微生物量碳占比较少，但却是土壤中最活跃的部分，直接参与土壤生化过程，土壤微生物量碳和微生物熵变化可反映土壤耕作制度和土壤肥力的变化以及土壤的污染程度；氮素也是植物生长发育所必须的营养元素之一。水分胁迫下土壤氮素和碳素具有很强的不确定性,樊利华等[9认为,这可能与植物的种类以及干旱时间、干旱程度，土壤中碳源代谢、氮素转化涉及的复杂的生化过程有关。本实验研究发现，在葡萄新稍生长期水分胁迫下所测的各项土壤特性指标均高于对照，果实膨大期显著低于对照",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "果实膨大期是设施延后栽培葡萄需水临界期，该阶段亏水会显著降低产量，相对对照减产幅度达$9 . 7 \\%$ ,造成果粒偏小、果穗数减少,这与张芮等[38]的研究结果相似。并且本实验研究发现，在新稍期水分胁迫增产效果最为明显，增产幅度达 $4 4 . 6 \\%$ ，着色期水分胁迫次之，增产幅度达 $4 2 . 5 \\%$ ，且果粒大小、果穗数都有显著提升;新梢生长期、开花期水分胁迫抑制株高和茎粗的增长，但复水后能够恢复生长，新稍生长期更加明显，这可能源于葡萄植株生长的复水补偿效应。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "果实膨大期是设施栽培葡萄生长的关键期，土壤中与土壤酶、碳、氮循环有关的生态系统过程均达到最大，此时进行水分胁迫对土壤蔗糖酶活性、有机碳、微生物量碳、微生物熵、全氮以及所测的速效氮的积累均有抑制作用，并且显著减产，其余各时期进行水分胁迫各土壤生物学特性指标及产量综合评价均优于充分供水，新梢生长期最为显著。因此，就改善土壤肥力和增产考虑，新梢期水分胁迫为当地设施延后栽培葡萄最佳水分优化处理。其水分优化调控模式为：土壤水为田间持水率的 $5 5 \\% \\sim 8 0 \\%$ ，灌水定额为 $2 7 0 \\mathrm { ~ m } ^ { 3 } \\cdot \\mathrm { h m } ^ { - 2 }$ 。后续实验研究将从土壤生物学特性指标-产量-品质进行多学科、多方法综合评价，以便获得更加科学和全面的研究结论。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]付时丰,李中,杨丽娟,等.保护地栽培条件下灌水方法对土壤 温度的影响[J].灌溉排水学报，2006，25（1）：67-70.〔Fu Shifeng,Li Zhong,Yang Lijuan,et al.Effects of irrigation on soil temperature under protected cultivation[J].Journal of Irrigation and Drainage,2006,25（1) :67-70.] [2]焦永刚,石琳琪,董灵迪,等.不同灌溉量和填充物对高温闷棚 地温及茄子产量的影响[J].河北农业科学，2009，13（9)：32-   \n33.[Jiao Yonggang,Shi Linqi,Dong Lingdi,et al. Effects of different irrigation amounts and fillers on soil temperature and yield of eggplant under high temperature tightly greenhouse[J]. Journal of Hebei Agricultural Sciences,2009,13(9）:32-33.] [3]塔娜,五十六,马文娟,等.不同含水率下日光温室土壤温度变 化规律的峰拟合法拟合[J].农业工程学报，2014,30（20）：204 -210.[Ta Na,Wu Shiliu,Ma Wenjuan,et al.Peak-fitting based prediction of soil temperature according to soil moisture content in solar greenhouse[J].Transactions of the Chinese Society of Agricultural Engineering,2014,30（20）:204-210.] [4] 陈娜娜，贾生海，张芮，等.不同生育期水分胁迫对设施延后栽 培葡萄土壤温度与果实品质的影响[J].水土保持通报，2017，   \n37(4）:119-125.[Chen Nana,Jia Shenghai,Zhang Rui,et al. Effects of water stress at different growth stages on soil temperature and grape fruit quality under delayed cultivation facility[J].Bulletin of Soil and Water Conservation,2017,37(4):119-125.] [5]和文祥,朱铭莪.陕西土壤脲酶活性与土壤肥力关系分析[J]. 土壤学报,1997,34(4）:392-398.[He Wenxiang,Zhu Minge.Relationship between soil urease activity and fertility of soil in Shaanxi province[J].Acta Pedologica Sinica,1997,34(4):392-398.] [6]王理德,王方琳,郭春秀，等.土壤酶学研究进展[J].土壤, 2016,48(1):12-21.[Wang Lide,Wang Fanglin,Guo Chunxiu, et al.Progress of soil enzymology[J]. Soils,2016,48（1）:12- 21.]   \n[7]DeForest JL.The influence of time,storage temperature,and substrate age on potential soil enzyme activity in acidic forest soil susing MUB-linkedsubstratesand L-DOPA[J].Soil Biologyand Biochemistry,2009,41:1 180 -1 186.   \n[8］周芙蓉,王进鑫,杨楠,等.水分和铅胁迫对土壤酶活性的影响 [J].草地学报,2013,21（3）:479-484.[Zhou Furong,Wang Jinxin,Yang Nan,et al.Effects of water and lead stresson soil enzyme activities[J]. Acta Agrestia Sinica,2013,21（3）:479- 484.]   \n[9]樊利华,周星梅,吴淑兰,等.干旱胁迫对植物根际环境影响的 研究进展[J/OL].应用与环境生物学报:1-12[2019-03- 18]. htps://doi.org/10.19675/j.cnki.1006-687x.2018.12. [Fan Lihua,Zhou Xingmei,Wu Shulan,Xiangjun,et al.Advances in research on the effects of drought stress on plant rhizosphere environments[J/OL].Chinese Journal of Applied and Environmental Biology:1-12[2019-03-18].hps://doi.org/10.19675/j. cnki. $1 0 0 6 - 6 8 7 \\mathrm { x } . 2 0 1 8 . 1 2 \\AA$   \n[10］李晓月.根际土壤不同形态碳、氮的含量及特性研究[D].杨 凌：西北农林科技大学,2011.[Li Xiaoyue.Content and Characteristics of Diffrent forms of Organic Carbon and Nitrogen in Rhizosphere[D].Yangling:Northwest A &F University,2011.]   \n[11］刘方春,邢尚军,马海林,等.干旱生境中接种根际促生细菌对 核桃根际土壤生物学特征的影响[J].应用生态学报,2014,25 （5）:1 475-1 482.[Liu Fangchun,Xing Shangjun,Ma Haili,et al.Effects of inoculating plant growth-promoting rhizobacteria on the biological characteristics of walnut(Juglans regia）rhizosphere soil under drought condition[J].Chinese Journal of Applied Ecology,2014,25(5):1 475 -1 482.]   \n[12］肖新,朱伟,肖靓,等.适宜的水氮处理提高稻基农田土壤酶活性 和土壤微生物量碳氮[J].农业工程学报,2013,29(21)：91-98. [Xiao Xin,Zhu Wei,Xiao Liang,etal.Suitable water and nitrogen treatment improves soil microbial biomass carbon and nitrogen and enzyme activities of paddy field[J].Transactions of the Chinese Society of Agricultural Engineering,2013,29(21):91-98.]   \n[13］薛冉.生长早期小麦根际土壤养分及微生物对不同水分供应 模式响应及其机制的研究[D].兰州：兰州大学,2017.〔Xue ran.Response and Mechanism of Rhizospheric Nutrients and Microorganisms Activity to Water Supply Patterns in Early Growth Stage of Wheat[D].Lanzhou:Lanzhou univeisity,2017.]   \n[14]Sanaullah M,Blagodatskaya E,Chabbi A,et al. Drought effectson microbial biomass and enzyme activities in the rhizosphere of grasses depend on plant community composition[J].Applied Soil Ecology,2011,48(1) :38-44.   \n[15］吕卫光,黄启为,沈其荣,等.不同来源有机肥及有机肥与无机 肥混施对西瓜生长期土壤酶活性的影响[J].南京农业大学学 报,2005,28(4）:68-71.[Lu Weiguang,Huang Qiwei,Shen Qirong,et al.The effect of organic fertilizerand organic-inorganic fertilizer application onsoil enzymes activities during watermelon growing period[J].Jourmalof Nanjing Agricultural University, 2005,28(4) :68 -71. ]   \n[16］王德福,段洪浪,黄国敏,等.高温与干旱胁迫对西红柿幼苗生 长、养分含量及元素利用效率的影响[J].生态学报,2019,39 (9）:3199-3 209.[Wang Defu,Duan Honglang,Huang Guomin, et al.Effects of high temperature and drought stress on growth,nutrient content use efficiency of Tomato seedlings[J].Acta Ecologica Sinica,2019,39(9）:3 199-3 209.   \n[17］韩希英,宋凤斌.干旱胁迫对玉米根系生长及根际养分的影响 [J].水土保持学报,200620（3）:170-172.[Han Xiying,Song Fengbin.Effect of drought stress on root growth and rhizosphere nutrients of Maize(Zea mays L.)[J]. Journal of Soil and Water Conservation,2006,20(3）:170-172.]   \n[18］李焕茹,朱莹,田纪辉,等.碳氮添加对草地土壤有机碳氮磷含 量及相关酶活性的影响[J].应用生态学报,2018,29（8）： 2 470-2 476.[Li Huanru,Zhu Ying,Tian Jihui,et al.Effects of carbon and nitrogen additions on soil organic C,N,P contents and their catalyzed enzyme activities in a grassland[J].Chinese Journal of Applied Ecology,2018,29(8):2 470-2 476.]   \n[19］魏翠翠,刘小飞,林成芳,等.凋落物输入改变对亚热带两种米 褚次生林土壤酶活性的影响[J].植物生态学报,2018,42（6)： 692-702.[Wei Cuicui,Liu Xiaofei,Lin Chengfang,et al.Effects of carbon and nitrogen additions on soil organic C,N,P contents and their catalyzed enzyme activities in a grassand[J]. Chinese Journal of Applied Ecology,2018,42(6）:692-702.]   \n[20]陈丹梅,陈晓明,梁永江,等.轮作对土壤养分、微生物活性及 细菌群落结构的影响[J].草业学报,2015,24（12）：56-65. [Chen Danmei,Chen Xiaoming,Liang Yongjiang,et al. Influence of crop rotation on soil nutrients,microbial activities and bacterial community structures[J].Acta Prataculturae Sinica,2015,24(12）： 56-65.]   \n[21］马文娟,同延安.葡萄树体生长动态与根系分布研究[J].西北 农业学报,2013,22(8）:133-137.[Ma Wenjuan,Tong Yan'an. The dynamics of biomass and roots distribution in grape tree[J]. Acta Agriculturae Boreali-Occidentalis Sinica,2013,22(8）:133- 137. ]   \n[22]张新宁,赵健,杨东芳.滴灌条件下葡萄根系分布的研究初报 [J].中外葡萄与葡萄酒,2005（6）:16-18.[Zhang Xinning, Zhao Jian,Yang Dongfang.Study on root distribution of vine under the condition of drip irrigation[J]. Sino-overseas Grapevine& Wine,2005(6):16-18.]   \n[23］房玉林,孙伟,万力,等.调亏灌溉对酿酒葡萄生长及果实品质 的影响[J].中国农业科学,2013,46(13）:2 730-2 738.[Fang Yulin,Sun Wei,WanLi,etal.Effectsofregulateddeficit irrigation （RDI）on wine grape growth and fruit quality〔J]. Scientia Agricultura Sinica,2013,46(13)：2 730-2 738.]   \n[24]Santesteban L G,Miranda C,Royo JB.Regulated deficit irrigation effects on growth,yield,grape qualityand individual anthocyanin composition in Vitis vinifera L.cv.‘Tempranillo'[J].Agricultural Water Management,2011,98（7）:1171-1 179.   \n[25］刘洪光,何新林,王雅琴,等.调亏灌溉对滴灌葡萄耗水规律及 产量的影响研究[J].灌溉排水学报,2010,29（6）:109 -111. [Liu Hongguang,He Xinlin,Wang Yaqin,et al.Effects ofregulated deficit irigation on water consumption and yield of grapeJ]. Journal of Irrigation and Drainage,2010,29(6）:109-111.]   \n[26］王文丽,贾生海,张芮,等.不同生育期水分胁迫对设施延后栽 培葡萄生理生长及产量的影响[J].安徽农业科学,2018,46 (20）:41 -44.[Wang Wenli,Jia Shenghai,Zhang Rui,et al. Effects of water regulations in different growth stages on physical growth and yield of delayed grape cultivation[J]. Journal of Anhui Agricultural Sciences,2018,46(20）:41 - 44.]   \n[27]张芮，成自勇，王旺田，等.水分胁迫对延后栽培葡萄果实生长 的影响[J].华南农业大学学报,2015,36(6）：47-54.[Zhang Rui,Cheng Ziyong,Wang Wangtian,et al.Effect of water stress on grape fruit growth under delayed cultivation[J].Journal of South China Agricultural University,2015,36(6）:47-54.]   \n[28]邓欧平，李翰，熊雷，等.秸秆、猪粪混施对麦田根际土壤过氧 化氢酶与蔗糖酶活性的影响[J].土壤，2018,50(1)：86-92. [Deng Ouping,Li Han,Xiong Lei,et al.Effect of mixed application of rice-wheat straws and pig manure on soil enzyme activities in wheat-growth field[J].Soils,2018,50(1) :86-92.]   \n[29］周媛,李平,郭魏,等.施氮和再生水灌溉对设施土壤酶活性的 影响[J].水土保持学报,2016,30(4）:268-273.[Zhou Yuan, Li Ping,Guo Wei,et al.Influence of nitrogen application and reeclaimed wastewater irrigation on greenhouse soil enzyme activities [J].Journal of Soil and Water Conservation,2016,30(4）:268- 273.]   \n[30]Yeomansa JC,Bremnera JM.A rapid and precise method for routine determination of organic carbon in soil[J].Communication in Soil Science and Plant Analysis,1988,19(13):1 467-1 476.   \n[31]Vance E D,Brookesp C,Jenkinson D C.An extraction method for measuring soil microbial biomass C[J].Soil Biology and Biochemistry,1987,19:703-707.   \n[32]Anderson JP E,Domsch K H.A physiological method for the quantitative measurement of microbial biomass in soil[J].Soil Biology and Biochemistry,1978,10:215-221.   \n[33]鲍士旦.土壤农化分析[M].3版.北京：中国农业出版社， 2002.[Bao Shidan.Soil Agrochemical Analysis[M].3rd.Beijing : China Agricultural Press,2002.]   \n[34]韩瑞宏，卢欣石，高桂娟,等.紫花苜蓿抗旱性主成分及隶属函 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "数分析[J].草地学报,2006,14（2）:142-146.[Han Ruihong,",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Lu Xinshi,Gao Guijuan,et al.Analysis of the principal components and the subordinate function of alfalfa drought resistance[J].Acta Agrestia Sinica,2006,14(2):142-146.]   \n[35]常永义，张有富，朱建兰，等.半干旱区节水处理对日光温室地 温及延迟栽培葡萄品质的影响[J].中外葡萄与葡萄酒,2011 (1):19-23.[Chang Yongyi,Zhang Youfu,Zhu Jianlan,et al. Effects of water-saving treatment on soil temperature in greenhouse and berry quality of grapevines under delayed cultivation in semiarid region[J].Sino-Overseas Grapevine & Wine,2011（1）:19- 23.]   \n[36]郑健,蔡焕杰,王燕,等.不同供水条件对温室小型西瓜苗期根 区土壤水分、温度及生理指标的影响[J].干旱地区农业研究， 2011,29(3）:35-41,47.[Zheng Jian,Cai Huanjie,Wang Yan, et al.Effect of different water supply conditions on soil water content,soil temperature and physiological characteristics of mini-watermelon at the seedling stage[J].Agricultural Research in the Arid Areas,2011,29(3) :35-41,47.]   \n[37］陈娜娜,贾生海，张芮.水分亏缺对设施延后栽培葡萄土壤生 物学特性的影响[J].华北农学报，2017，32（5）：192-199. [Chen Nana,Jia Shenghai,Zhang Rui.Effects of water deficit on the biological characteristics of grape grown in greenhouse[J].Acta Agriculturae Boreali-Sinica,2017,32(5）:192-199.]   \n[38]张芮，成自勇，李毅，等.小管出流亏缺灌溉对设施延后栽培葡 萄产量与品质的影响[J].农业工程学报,2012,28（20)：108- 113.[Zhang Rui,Cheng Ziyong,Li Yi,et al.Effects of small tube flow deficit irrigation on yield and quality of greenhouse grape under delayed cultivation[J].Transactions of the Chinese Society of Agricultural Engineering,2012,28（20）:108-113.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Effect of Irrigation Water Optimization on Greenhouse Grape Yield and Soil Biological Properties ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "LIN Bao-jun'， ZHANG Rui1， DONG Bo²， WANG Yin-di1， ZHANG Xiao-yant (1.Collgeof Water Resourcesand Hydropower Enginering,Gansu Agricultural UniversityLnzhou30o7o,Gansu,China; 2.Gansu Province Academy of Agricultural Sciences,Lanzhou 73oo7O,Gansu,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract：In order to reveal the response relationship between grape production and soil properties under drip irrigation with diferent irrgation watercontrol levels,a field experimenton irrgation waterregulationatdierent growth stages of grape was caried out at the grape experimental base in Yongdeng County,Gansu Province.The purpose of the study was to analyzethe effect of irrigation water regulation on soil properties and grape yield.The parametersincluding thesoil accumulation temperature,invertase and amylase activity,organic carbon content （TOC）,microbial biomass carbon（MBC）and microbial entropy（ $\\mathbf { \\tau } _ { \\mathrm { q M B } }$ ） were used in the study. The results showed that the soil accumulated temperature,soil enzymes,TOC,MBC and ${ \\bf q } { \\bf M } { \\bf B }$ under drought stress in the new shoot period were significantly higher than those under irrigation water control ( $\\textstyle P < 0 . 0 5 ,$ ).The drought stress in the new shoot period was increased by $4 4 . 6 \\%$ compared with that under irrigation water control. The fruit expansion period was the key stage of grape growth,so during this period,the effect of drought stress on soil amylase was not significant,but there was a certain inhibition on other soil indicators,and the grape yield could be reduced by $9 . 7 \\%$ ： The comprehensive analysis on the membership function showed thatthe soil biological index and the comprehensive subordinates of grape yield were ranked as $\\mathrm { P S ~ > ~ F S ~ > ~ C S ~ > ~ C K ~ > ~ E S }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words:water stress； grape； yield； soil biological property； Yongdeng County； Gansu Province",
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,609 @@
+[
+    {
+        "type": "text",
+        "text": "李晓光，郭凯，封晓辉，刘小京．滨海盐渍区不同土地利用方式土壤-植被系统碳储量研究[J].中国生态农业学报,2017,DOI:10.13930/j.cnki.cjea.170263  \nLi XG,GuoK,Feng XH,LiuXJ.Carbonstorageofsoil-vegetationsystemunderdierentlandusepatersincoastalsalineregion[J]. Chinese Journal of Eco-Agriculture,2017, DOI: 10.13930/j.cnki.cjea.170263",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "滨海盐渍区不同土地利用方式土壤-植被系统碳储量研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李晓光1,2，郭凯¹，封晓辉1,2，刘小京1。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.中国科学院遗传与发育生物学研究所农业资源研究中心/中国科学院农业水资源重点实验室石家庄050022;2.中国科学院大学北京100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：盐渍区土地利用变化与土壤-植被系统固碳潜力耦合关系的研究对以植被建设、增加碳汇为目的的盐渍区最优土地利用方式的实施具有重要的理论和实际意义。本研究以滨海擢荒盐碱裸地为对照，连续观测和定量描述栽植3年和10年的怪柳林、栽植2年和8年的人工枸杞林及冬季咸水结冰灌溉结合地膜覆盖下的棉田的土壤有机碳和植被生物量的动态变化过程，探讨不同土地利用方式下土壤-植被系统固碳能力，为进一步提升区域碳储量提供理论依据。研究表明：1)怪柳、枸杞的栽植及结冰灌溉结合覆膜等土地利用方式在嚣荒盐碱地实施后，土壤-植被系统固碳能力明显增强，且土壤容重显著减小；栽植10年的怪柳林和栽植8年的枸杞林土壤-植被系统碳储量最高，分别为 $1 1 8 . 2 4 ~ \\mathrm { t \\cdot h m } ^ { 2 }$ 和 $9 6 . 2 7 ~ \\mathrm { t \\cdot h m } ^ { 2 }$ ，比冬季咸水结冰灌溉结合地膜覆盖棉田增加 $5 8 . 5 1 ~ \\mathrm { t \\cdot h m } ^ { 2 }$ 和 $3 6 . 5 4 \\mathrm { t } \\cdot \\mathrm { h m } ^ { 2 }$ ，比擢荒盐碱裸地增加 $8 3 . 3 9 \\mathrm { t } \\cdot \\mathrm { h m } ^ { 2 }$ 和 $6 1 . 4 2 \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { 2 }$ 。2)对不同土地利用方式固碳趋势研究发现，栽植3年的怪柳林和栽植2年的枸杞林土壤-植物系统固碳速率较高，分别为 $1 0 . 0 8 ~ \\mathrm { t \\cdot h m ^ { 2 } \\cdot a ^ { 1 } }$ 和2.71$\\mathrm { t } { \\cdot } \\mathrm { h m } ^ { 2 } { \\cdot } \\mathrm { a } ^ { \\frac { 1 } { \\cdot } }$ 。冬季咸水结冰灌溉结合地膜覆盖棉田固碳速率较低，仅为 $0 . 5 3 \\ \\mathrm { t { \\cdot } h m ^ { 2 } { \\cdot } a ^ { \\frac { 1 } { - } } }$ 。栽植10年的怪柳和栽植8年的枸杞样地,植株固碳速率明显减慢，土壤-植被系统表现为一个弱的碳源。春季地表覆膜处理棉花存活率低且植株成熟后秸秆被移除，碳储量每年净减少 $0 . 8 6 \\mathrm { \\ t } { \\cdot } \\mathrm { h m } ^ { 2 }$ 。擇荒盐碱裸地在无外源碳补充的条件下表现为碳源，土壤-植被系统碳储量减少速率为1.42$\\mathrm { t } \\cdot \\mathrm { h m } ^ { 2 } \\cdot \\mathrm { a } ^ { \\mathrm { ~ 1 ~ } }$ 。综上所述，滨海盐渍区人工栽植怪柳和枸杞是提高区域碳储量的有效途径。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：滨海盐渍区；土壤有机碳；植被生物量；土地利用方式；咸水结冰灌溉中图分类号:S156.4;Q148 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Carbon storage of soil-vegetation system under different land use patterns in saline coastal regions ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Xiaoguang12,GUO Kail,FENG Xiaohui12,LIU Xiaojing   \n(1.CenterforAgriculturalResourcesResearch,IstituteofGeneticsandDevelopmental BiologyChineseAcademyofcieces;   \nKeyLaboratoryofAgricultural WaterResourcesofChinese AcademyofSciences,Shijiazhuang O5oo21,China; 2.Universityof Chinese academy of Sciences,Beijing 10oo49, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Researchonthecouplingrelationship betweenlandusechangeandcarbonsequestrationpotential insoil-vegetation systemsinsalinecoastalplainshasbenof great theoreticalandpracticalsignificaceintermsofoptimizingtheimplementationof landuse withthe purposeofvegetationrestorationand enhancingcarbonsink.This studyusedanabandonedbaresaline-alkali land asthecontroltodeterminethedynamicchanges incarbon storageinsol-vegetationsystemsunder3yearsand10yearsoldTamarisk chinensis plantations,2yeasand8yarsoldLyiumbarbarumplantatios,andfroesalinewatergatedcotofieldithplastic mulching,and cotton fieldonlymulched with plastic film.Basedoncontinuousobservationandquantitative description,we discussedcarbonsequestrationpotentialofsoil-vegetationsystemsunderthelandusepatersand providedtheoreticalbasis for increased regional carbon storage.The results were as follows:1) T.chinensis and $L$ barbarum plantation and cotton cultivation with frozensalinewateririgationandplasticmulchingsignificantlyincreasedsoilorganiccarboncontentandreducedsoilbulkdensity. $T .$ chinensis planted for 1O years and L. barbarum planted for 8 years had the highest carbon storage, $1 1 8 . 2 4 ~ \\mathrm { t \\cdot h m } ^ { 2 }$ and $9 6 . 2 7 ~ \\mathrm { t \\cdot h m } ^ { 2 }$ . which recorded carbon storage increases of $5 8 . 5 1 \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { 2 }$ and $3 6 . 5 4 \\mathrm { t } \\cdot \\mathrm { h m } ^ { 2 }$ respectively over cotton fields under frozen saline water irrigation with plastic mulching treatment. It also increased by $8 3 . 3 9 \\mathrm { t } \\cdot \\mathrm { h m } ^ { - 2 }$ and $6 1 . 4 2 ~ \\mathrm { t } \\cdot \\mathrm { h m } ^ { - 2 }$ respectively over abandoned bare saline-alkali lands. 2) $T .$ chinensis planted for 3 years and $L$ . barbarum planted for 2 years had the highest carbon sequestration rate, which was respectively $1 0 . 0 8 ~ \\mathrm { t \\cdot h m ^ { - 2 } { \\cdot } a ^ { - 1 } }$ and $2 . 7 1 ~ \\mathrm { t \\cdot h m ^ { 2 } \\cdot a ^ { 1 } }$ . The rate of carbon sequestration was lowest $( 0 . 5 3 ~ \\mathrm { t \\cdot h m } ^ { 2 } { \\cdot } \\mathrm { a } ^ { 1 } )$ for cotton field under frozen saline water irrigation with plastic mulching.T. chinensis planted for 1O years and $L$ barbarum planted for 8 years hadthe weakest performanceas carbon sourceand needed increased carbon storage byland usechange or vegetationregeneration. The carbon storage of cotton field only with plastic film mulching decreased $0 . 8 6 ~ \\mathrm { t \\cdot h m } ^ { 2 }$ per year due to remove of cotton straw. The abandoned bare saline-alkali land wasa carbon source because not exogenous carbon input,whose carbon storage decreased 1.42 $\\mathrm { t } { \\cdot } \\mathrm { h m } ^ { 2 } { \\cdot } \\mathrm { a } ^ { \\frac { 1 } { \\cdot } }$ per year.By comparing the advantages and disadvantage of each land use type, $T .$ chinensis and L.barbarum cultivation was the most efficient way of increasing regional carbon storage in saline coastal regions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Salinecoastalregion;Soilorganiccarbon;Vegetationbiomass;Landusechange;Frozensalinewateririgation ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以 $\\mathrm { C O } _ { 2 }$ 为代表的温室气体浓度持续升高所导致的全球气候变化越来越受到人类的共同关注[1-2]，化石燃料燃烧和土地利用变化是导致CO2等温室气体积累的重要原因[3]。近些年，国际社会在控制化石燃料燃烧方面做了很多努力，然而随着全球社会经济的快速发展，目前还达不到减排的要求[4，所以应考虑如何通过土地利用方式的改变来增加陆地生态系统碳汇[5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "盐碱地作为一类特殊的土地资源，面积广、利用潜力大。在环渤海地区，大面积的重盐碱地由于淡水资源匮乏，长期处于擢荒状态，如何通过土地利用方式的改变提高重盐碱地的利用效率进而实现固碳增汇是亟待解决的问题[7]。其中，盐生植物如怪柳(Tamarix chinensis)、枸杞(Lycium barbarum)的种植所代表的生物改良措施是近年来国内外盐碱地治理中的重要方法之一[8]，也是我国\"南红北柳\"生态工程的重要组成部分。目前，对怪柳、枸杞的研究多集中于群落物种多样性[9]、土壤理化性质[10-1]等方面，对其碳储量的研究较少[12]，如有研究表明[13-14]，怪柳、枸杞群落的形成能够有效地增加生态系统的碳储量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "冬季咸水结冰灌溉结合地膜覆盖技术实现了在重盐碱地上生长农作物的奇迹[15]，但目前的相关研究多集中于土壤水盐运移规律[16-18]，关于其碳储量[19-20]方面的研究比较薄弱。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究通过连续观测和定量描述人工栽植不同年份怪柳林、枸杞林及结冰灌溉、地表覆膜等几种土地利用方式下土壤有机碳含量和植被生物量的变化，探讨滨海盐渍区不同土地利用方式实施后碳储量差异及其今后变化规律，进而为以植被建设、固碳增汇为目的的滨海盐碱地建设提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验地概况 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验地位于河北省海兴县中国科学院滨海盐碱地高效利用示范区， $( 1 1 7 ^ { \\circ } 3 3 ^ { \\prime } 4 9 ^ { \\prime \\prime } \\mathrm { E } , 3 8 ^ { \\circ } 1 0 ^ { \\prime } 0 2 ^ { \\prime \\prime } \\mathrm { N } )$ 。该地区为滨海平原，地势低洼平坦，土壤多为滨海盐土，擢荒地较多，擢荒地中无灌木生长，草本植物和裸地斑块相间，主要植物有獐毛(Aeluropus sinensis)、白茅(Imperata cylindrical)、盐地碱蓬(Suaeda salsa)等。土壤盐分组成以氯化物为主，CI占阴离子总量的 $70 \\% { \\sim } 8 0 \\%$ ， $\\mathrm { { N a } ^ { + } }$ 是主要的阳离子；地下水位 $0 . 9 { \\sim } 1 . 5 \\mathrm { ~ m ~ }$ ，地下水的矿化度较高，含盐量在 ${ 7 { \\sim } 2 7 \\ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 } }$ 。气候属暖温带半湿润大陆性季风气候，年平均气温 $1 2 . 1 \\ \\mathrm { { ^ \\circ C } }$ ，年平均降水量为$5 8 2 . 3 ~ \\mathrm { m m }$ ，四季分布不均，多集中在7—8月份。土壤中盐分含量有明显的季节特征：春季蒸发量大、降水少，为蒸发积盐阶段；夏季降水量增加，土壤盐分经雨水淋洗下移，处于脱盐阶段；秋季由于地下水位低，土壤再次积盐；冬季盐分运动基本停止[21]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计和田间管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本试验共设7个处理，每个处理3个重复。分别为栽植3年和10年的怪柳林、栽植2年和8年的枸杞林、冬季咸水结冰灌溉结合地膜覆盖下的棉田以及无结冰灌溉春季覆膜下的棉田，以荒盐碱裸地为对照。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "怪柳试验地为条状整理地块，每块南北长 $4 0 0 \\mathrm { m }$ ，东西宽 $1 5 \\mathrm { m }$ 。怪柳2006年和2013年栽植的地块分别为栽植10年和3年的处理。所栽植怪柳是滨海地区中华怪柳筛选的优良变异单株选育得到的品种[22]。怪柳植株最初的栽植是在覆盖地膜的基础上，刺破沟底地膜扦插微枝，微枝顶端露出地表 $1 \\mathrm { { c m } }$ ，栽植后无平茬、除草等管理措施。3年生怪柳林平均株高为 $2 0 8 ~ \\mathrm { c m }$ ，株距为 $4 5 \\ \\mathrm { c m }$ ，行距约 $1 . 3 \\mathrm { m }$ ，林分郁闭度约 $8 5 \\%$ 左右，群落优势种为盐地碱蓬、苦卖菜(Plantagoasiatica)和獐毛，盖度约为 $80 \\%$ 。10年生怪柳林平均株高为 $3 1 7 \\mathrm { c m }$ ，株距为 $6 0 ~ \\mathrm { c m }$ ，行距为 $1 \\mathrm { m }$ ，林分郁闭度约 $9 5 \\%$ 左右，群落优势种为苦荬菜和獐毛，盖度为 $90 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "枸杞试验地为条状整理地块，每块南北长 $1 2 0 \\mathrm { ~ m ~ }$ ，东西宽 $1 6 \\mathrm { ~ m ~ }$ 。2008年和2014年栽植地块分别为栽植8年和2年的处理。所栽植枸杞为当地选优的良种[23]。2年生枸杞林平均株高为 $7 5 \\ \\mathrm { c m }$ ，株距为 $6 0 \\ \\mathrm { c m }$ ，行距约$1 . 5 \\mathrm { ~ m ~ }$ ，林分郁闭度约 $7 5 \\%$ 左右，群落优势种为盐地碱蓬和獐毛，盖度为 $80 \\%$ 。8年生枸杞林平均株高为105cm，栽植在垄上，南北方向垄间距约为 $2 \\mathrm { ~ m ~ }$ ，株距为 $6 0 \\ \\mathrm { c m }$ ，垄高约为 $3 0 \\ \\mathrm { c m }$ ，林分郁闭度约 $8 5 \\%$ 左右，群落优势种为苦卖菜和獐毛，盖度为 $90 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "咸水结冰灌溉融冰入渗后覆膜棉田(FSWI+Mulch)和无结冰灌溉春季覆膜(Mulch)棉田两种土地利用方式已经实施了8年[24]，小区长 $6 \\mathrm { m }$ 、宽 $5 \\mathrm { m }$ ，小区之间设置宽 $1 \\mathrm { m }$ 、高 $0 . 5 \\mathrm { ~ m ~ }$ 的田垄，以防测渗和互溢。其中冬季咸水结冰灌溉处理，每年1月中旬灌水，灌水量为 $1 8 0 ~ \\mathrm { m m }$ ，试验用水含盐量为 $9 . 5 9 \\ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { 1 }$ 。冬季灌水时气温$- 1 0 . 3 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ，为保证灌水均匀结冰，采用分次灌水，即每天灌少量水，3d后完成灌水量的试验设计要求，灌水后在处理小区地表形成冰层，3月初土壤表面冰层融化且入渗完成后人为在两种处理方式下地表覆盖薄膜(不可降解, $0 . 0 7 ~ \\mathrm { m m }$ )。种植棉花(Gossypium hirsutum)，品种为‘盐棉28，4月23日播种，行距 $6 5 \\ \\mathrm { c m }$ ，株距30cm。FSWI $\\cdot +$ Mulch和Mulch两种处理下的棉花存活率分别为 $7 2 . 7 8 \\%$ 和 $1 9 . 4 4 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "擢荒地为多年未受人为因素影响的重盐碱地，其上生长有典型盐生草本植物，因不同植物所处土壤环境大不相同，致使碳储量研究存在较大的不确定性，为使研究对象更加具体，本试验仅测量擢荒盐碱裸地的土壤碳储量变化。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/74fb7c04ce6043eee63feaa6df988572632c7cf1cf7e6b39d558b2f343bc1e1c.jpg",
+        "table_caption": [
+            "表1不同土地利用方式土壤理化性质 $\\mathbf { 0 { \\sim } 1 0 0 ~ c m } )$ （204号",
+            "Table 1 Basic physical and chemical properties of soil under different land use patterns $( 0 { - } 1 0 0 \\ \\mathrm { c m } )$ "
+        ],
+        "table_footnote": [
+            "3aT:栽植3年的怪柳林；10aT:栽植10年的怪柳林；2aL：栽植2年的枸杞林；8aL：栽植8年的枸杞林；FSWI+Mulch:咸水结冰灌溉结合地膜覆盖；Mulch:春覆膜;Ctarisisplatatoaiesispatatio;obarbrumantotarboriegtioeiMulch: plastic mulching in spring without FSWI; CK: abandoned saline-alkali bare land."
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理 Treatment</td><td rowspan=\"2\">含盐量 Salinity （g:kg1）</td><td rowspan=\"2\">有机质 Organic matter （g·kg）</td><td rowspan=\"2\">有效磷 Available P</td><td rowspan=\"2\">有效钾 Available K</td><td rowspan=\"2\">铵态氮 Ammonium N</td><td rowspan=\"2\">硝态氮 Nitrate N</td><td rowspan=\"2\">容重 Bulk density</td><td rowspan=\"2\">pH (H20,1 : 5)</td></tr><tr><td></td></tr><tr><td>3aT</td><td>5.10±1.27</td><td>9.42±0.22</td><td>(mg·kg1） 6.56±1.26</td><td>(mg.kg) 246.47±22.15</td><td>(mg.kg) 2.53±0.73</td><td>(mg·kg1） 52.76±8.17</td><td>(g:cm-3) 1.47±0.06</td><td>8.20±0.11</td></tr><tr><td>10aT</td><td>4.52±1.28</td><td>10.01±0.77</td><td>6.81±1.18</td><td>275.95±27.38</td><td>3.45±0.87</td><td>109.41±7.89</td><td>1.41±0.04</td><td>8.41±0.13</td></tr><tr><td>2aL</td><td>5.63±1.38</td><td>7.67±0.50</td><td>5.81±0.96</td><td>229.9±12.87</td><td>2.42±0.53</td><td>44.55±6.18</td><td>1.53±0.04</td><td>8.15±0.17</td></tr><tr><td>8aL</td><td>5.26±1.60</td><td>9.93±0.62</td><td>6.17±1.14</td><td>286.32±18.25</td><td>2.99±0.86</td><td>81.60±5.11</td><td>1.46±0.03</td><td>8.35±0.12</td></tr><tr><td>FSWI+Mulch</td><td>4.54±1.25</td><td>6.49±0.62</td><td>5.69±1.19</td><td>231.36±18.99</td><td>2.60±0.62</td><td>54.8±7.12</td><td>1.48±0.06</td><td>8.43±0.12</td></tr><tr><td>Mulch</td><td>5.64±1.33</td><td>4.77±0.58</td><td>5.41±1.07</td><td>212.86±22.25</td><td>2.28±0.41</td><td>46.1±6.70</td><td>1.51±0.02</td><td>8.33±0.12</td></tr><tr><td>CK</td><td>9.68±2.68</td><td>4.45±0.57</td><td>3.97±0.66</td><td>158.29±12.43</td><td>1.78±0.33</td><td>14.5±1.11</td><td>1.57±0.07</td><td>8.15±0.17</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 土壤有机碳含量和土壤容重的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤碳主要包括土壤有机碳和土壤无机碳两大部分，土壤有机碳库主要由土壤植物残体、植物分泌物、土壤微生物、土壤动物及其分泌物组成；土壤无机碳库主要包括土壤中沉积的含碳酸根的盐类，其多以结核状、菌丝状存在于土壤剖面。滨海盐渍区土壤盐分组成多以氯化物为主,CI-占阴离子总量的 $70 \\% { \\sim } 8 0 \\%$ ，所以相对于土壤有机碳来说，土壤无机碳在土壤碳库中的比例较小，可忽略不计[25]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "怪柳和枸杞条状样地及畧荒盐碱裸地2015—2016年4月至11月每个月分别采用S型布点法设置3\\~5个采样点。FSWI+Mulch 和Mulch处理 2015—2016年6月至11月每个月每个处理设置3个采样点。统一采用土钻分层( $( 0 { \\sim } 1 0 ~ \\mathrm { c m }$ 、 $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 、 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 、 $4 0 { \\sim } 6 0 ~ \\mathrm { c m }$ 、 $6 0 { \\sim } 1 0 0 ~ \\mathrm { c m }$ )取土，利用重铬酸钾容量法[26]测定每个处理不同土层土壤有机碳含量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2015年7月和 2016年7月，在生长季典型时期，每个处理挖取3个土壤剖面，环刀 $( 1 0 0 ~ \\mathrm { c m } ^ { 3 } )$ 分不同土层 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 、 $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 、 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 、 $4 0 { \\sim } 6 0 ~ \\mathrm { c m }$ 、 $6 0 { \\sim } 1 0 0 ~ \\mathrm { c m }$ 取土带回烘干称重，得到每个处理不同土层的土壤容重。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 植株生物量的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验开始(2015年4月5日)和结束(2016年11月20日)，怪柳和枸杞条状样地分别选取7棵标准株，FSWI+Mulch和Mulch处理分别选取3棵标准株，分器官(根、茎、侧枝、叶)取样，测量鲜重和干重。怪柳、枸杞和棉花3种植物的碳含量引用徐永荣等[27-28]的研究结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.3 计算方法和数据处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用土壤有机碳含量及土壤容重计算出各处理单位面积土壤有机碳储量。计算公式为:",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { i } = c _ { i } B _ { i } d _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中: $M _ { i }$ 为第 $i$ 层土壤的有机碳密度 $( \\mathrm { k g } \\cdot \\mathrm { m } ^ { 2 } )$ ， $c _ { i }$ 为第 $i$ 层土壤有机碳含量 $( \\mathbf { g } \\cdot \\mathbf { k } \\mathbf { g } ^ { \\scriptscriptstyle - 1 } )$ ）, $B _ { i }$ 为第 $i$ 层土壤容重 $( \\mathrm { g } \\cdot \\mathrm { c m } ^ { 3 } )$ ，$d _ { i }$ 为第 $i$ 个土层的厚度(cm)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "单位面积土壤-植被系统碳储量的计算方法为:",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD = C + M\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中: $D$ 为单位面积土壤-植物系统碳储量(g), $C$ 为单位面积植被碳储量(g)，M为单位面积土壤有机碳储量(g）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验数据均采用Microsoft Excel作图，运用 SPSS18.0进行单因素方差分析和显著性分析。以LSD 多重比较法检验不同处理的差异显著性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1不同土地利用方式土壤碳储量变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1土壤有机碳储量差异及其垂直分布特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图1a可知，不同土地利用方式实施后土壤有机碳含量之间差异显著 $( P { < } 0 . 0 5 )$ 。随着怪柳和枸杞的生长，土壤有机碳含量逐渐升高，栽植10年的怪柳地和栽植8年的枸杞地 $\\mathrm { ~ 1 ~ m ~ }$ 深度土体平均土壤有机碳含量最高，分别为 $5 . 8 1 ~ \\mathrm { g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ 和 $5 . 7 6 \\ \\mathrm { g } { \\cdot } \\mathrm { k g } ^ { \\mathrm { - 1 } }$ ，显著高于FSWI+Mulch、Mulch 处理和CK。FSWI+Mulch 处理下的棉田土壤有机碳含量显著高于Mulch 处理和CK。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "不同土地利用方式下， ${ \\mathrm { ~ l ~ m ~ } }$ 土体土壤有机碳含量垂直分布规律基本一致，随着土层的加深，土壤有机碳含量逐渐减少(图1b)。其中，栽植10年的怪柳地和栽植8年的枸杞地土壤表层有机碳含量最高，分别为7.50g·kg-和 $7 . 4 9 ~ \\mathrm { g } { \\cdot } \\mathrm { k g } ^ { 1 }$ 。怪柳和枸杞根的生长能够有效地补充各个土层土壤有机碳含量，随着种植年限的增加,各个土层土壤有机碳含量逐渐增加。FSWI+Mulch和Mulch处理下，棉田土壤表层和 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层有机质含量最高。FSWI+Mulch处理下棉花存活率高，其不同土层有机碳含量都显著高于Mulch处理。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤有机碳含量Soilorganiccarboncontent(g.kg-)a 0 1 2 3 4 5 6 7 86 0￥10 (b)4 1030 40 50+3aT+10aT60 +1!OS 70层 → FSWI+Mulch0 土80 +Mulch3aT 10aT 2aL 8aLFSWI+MulchMulch CK 90 +CK土地利用方式Landuse type 100",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图2a可知，不同土地利用方式下土壤容重差异显著 $( P { < } 0 . 0 5 )$ 。与CK相比，怪柳和枸杞所代表的盐生植物种植和FSWI $\\cdot +$ Mulch、Mulch处理下的棉田，土壤容重都显著降低。随着怪柳和枸杞种植年限的增加，土壤容重逐渐减小。栽植10年的柽柳林和栽植8年的枸杞林土壤容重分别为 $1 . 4 1 ~ \\mathrm { g } \\cdot \\mathrm { c m } ^ { 3 }$ 、 $1 . 4 6 ~ \\mathrm { g } { \\cdot } \\mathrm { c m } ^ { 3 }$ ，显著小于其他土地利用方式。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "不同土地利用方式下土壤容重垂直规律基本一致，随着土层的加深土壤容重逐渐增大(图2b)。随着怪柳种植年限的增加，每个土层容重都逐渐变小。栽植10年的怪柳林，土壤下层根的生物量显著高于栽植年份短的怪柳林，根的生长能够有效地疏松土壤，致使其下层土壤容重变小。同样，栽植8年的枸杞林不同土层容重显著小于栽植2年的枸杞林。FSWI+Mulch和Mulch处理下棉田土壤表层容重分别为 $1 . 3 2 \\mathrm { g } { \\cdot } \\mathrm { c m } ^ { 3 }$ 和1.29（20 $\\mathrm { g } { \\cdot } \\mathrm { c m } ^ { 3 }$ 。擢荒盐碱裸地土壤容重较高，且随着土层的加深，土壤容重逐渐增大。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b408b9689c870634d3a6d32f0d26e3cd975ce4c76e9a5dca19e732b07f71af5.jpg",
+        "img_caption": [
+            "Fig.2Average soil bulk density (a) and its vertical distribution (b) in $1 \\mathrm { m }$ deep soil under different land use patterns3aT:栽植3年的怪柳林；10aT:栽植10年的怪柳林；2aL：栽植2年的枸杞林；8aL：栽植8年的枸杞林；FSWI+Mulch:咸水结冰灌溉结合地膜覆盖；Mulch:春季覆膜;CK：荒盐碱裸地。左图不同小写字母表示处理间在o.05水平差异显著。3aT:threeyears Tamarix chinensis lantation;10aT:tenyearsTamarixinessitarbatatotabataochiteirgatin(Wiinterithpastulc;hlastulcnginsringiutWCKbdodliakalibarelndfedifferent letters indicate significant differences among treatments at $P < 0 . 0 5$ ："
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图3 可知，栽植10年的怪柳林和栽植8年的枸杞林 $1 \\mathrm { ~ m ~ }$ 土体有机碳储量最高，分别为 $7 5 . 7 3 \\mathrm { \\ t } { \\cdot } \\mathrm { h m } ^ { 2 }$ 和 $7 7 . 5 7 ~ \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { 2 }$ ，相比于FSWI+Mulch 处理增加 $2 1 . 3 2 ~ \\mathrm { t \\cdot h m } ^ { 2 }$ 和 $2 3 . 1 7 ~ \\mathrm { t \\cdot h m } ^ { 2 }$ ，相比于CK增加 $4 0 . 8 7 ~ \\mathrm { t \\cdot h m } ^ { 2 }$ 和$4 2 . 7 2 \\mathrm { t } \\cdot \\mathrm { h m } ^ { 2 }$ 。FSWI+Mulch 处理下的棉田土壤碳储量为 $5 4 . 4 0 ~ \\mathrm { t \\cdot h m } ^ { 2 }$ ，显著高于Mulch 处理下的棉田。表明,怪柳和枸杞的种植相比于结冰灌溉和覆膜措施具有更高的固碳效率。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d6c61579ae1bb6db8cab51383396ae22fbfee8ef47cd487d350a7122ef7a56a.jpg",
+        "img_caption": [
+            "图2不同土地利用方式1m土体平均土壤容重及其垂直分布特征",
+            "图3不同土地利用方式 $\\textbf { 1 m }$ 土体土壤有机碳储量垂直分布特征"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3aT:栽植3年的怪柳林；10aT:栽植10年的格柳林；2aL：栽植2年的枸杞林；8aL：栽植8年的枸杞林；FSWI+Mulch:咸水结冰灌溉结合地膜覆盖；Mulch:春季覆膜;CK:荒盐碱裸地。不同小写字母表示处理间在o.05水平差异显著。3aT:threeyears Tamarix chinensis plantation；10aT:tenyearsTamrixesistatoLablatatio;Lhtabaatiouchteitinteist;ucsti;Cddadindicate significant differences among treatments at $P < 0 . 0 5$ ：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.2土壤有机碳储量变化特征 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图4可知，2015一2016年生长季初始(4月)至结束(11月)，两个年份怪柳地 $1 \\mathrm { ~ m ~ }$ 土体平均有机碳含量都呈减少趋势，而在非生长季，土壤有机碳含量呈显著增加趋势。栽植10年的怪柳地土壤平均有机碳含量大于栽植3年的怪柳地。栽植8年的枸杞地土壤有机碳含量显著大于栽植2年的，枸杞每年经历两次落叶，分别在每年的8月和11月，从图中可以看出这两个阶段，土壤有机碳含量有明显的增加趋势。FSWI+Mulch和Mulch处理下土壤有机碳含量较低且显著小于怪柳地和枸杞地。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "荒盐碱裸地的土壤有机碳含量变化与种植植物的样地完全不同，因土体无凋落物等外源碳补充土壤碳源, $1 \\mathrm { ~ m ~ }$ 土体平均有机碳含量总体呈逐渐减少趋势，土壤有机碳含量从2015年4月的 $2 . 6 4 ~ \\mathrm { g } { \\cdot } \\mathrm { k g } ^ { 1 }$ 下降至11月的 $2 . 5 6 \\ \\mathrm { g \\cdot k g ^ { - 1 } }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b30b4bbee0625c59c03b6a4cdd876eeae6d87a038a5350db8c394d57aae66a84.jpg",
+        "img_caption": [
+            "图42015年4月至2016年11月不同土地利用方式下1m土体平均土壤有机碳含量变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Changes of average soil organic carbon contents of $1 \\mathrm { m }$ deep soil under different land use patterns during from April 2015 tc ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "November 20163aT:栽植3年的怪柳林；10aT:栽植10年的怪柳林；2aL：栽植2年的枸杞林；8aL：栽植8年的枸杞林；FSWI+Mulch:咸水结冰灌溉结合地膜覆盖；Mulch:季膜;CaisaoasisisotbarbaruplantatiitarboritegiteiMulch: plastic mulching in spring without FSWI; CK: abandoned saline-alkali bare land.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从图5可知，2015年4月至2016年11月不同土地利用方式下土壤有机碳储量变化规律一致，都呈减少趋势。栽植3年的怪柳生长迅速，微生物分解土壤有机碳的速率高于土壤有机碳积累的速率，单位面积土壤是一个碳排放的过程，土壤养分很大一部分用于怪柳植株的生长。栽植2年的枸杞植株较小，消耗的土壤有机碳较少。10年生怪柳地和8年生枸杞地生长季土壤有机碳含量同样呈减少趋势，土壤本身有机碳的分解和大量伴生植物的生长消耗，致使土壤有机碳含量逐渐降低。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1bd5b073bc1a68174ceb7f278b718a8107c5d05751c5c9dc7920ed1c88112962.jpg",
+        "img_caption": [
+            "图52015年4月至2016年11月不同土地利用方式土壤有机碳储量年际变化",
+            "Fig.5Annual changesofsoilorganiccarbonstorage underdiferentlandusepattrs duringfromApril2015toNovember20163aT:栽植3年的怪柳林；10aT:栽植10年的怪柳林；2aL：栽植2年的枸杞林；8aL：栽植8年的枸杞林；FSWI+Mulch:咸水结冰灌溉结合地膜覆盖；Mulch:春季覆膜；CK:荒盐碱裸地。不同小写字母表示处理间在0.05水平差异显著。3aT:threeyears Tamarix chinensis plantation；10aT:ten years"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "mrixinesisto;woarsLbuplatatio;htarsLrbplatatioulcfrgalineate igationiteiast;ulcastuiout;CKdodaied ndicate significant differences among treatments at $P < 0 . 0 5$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2不同土地利用方式植被碳储量变化",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 植被碳储量差异 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从图3和图6可知，单位面积土壤碳储量大于植被的碳储量；从图6可知，植物地上部分的固碳量大于地下部分固碳量。随着怪柳种植年限的增长，植株固碳量显著增加，栽植10年的怪柳植株固碳量达到了42.51$\\mathrm { t } { \\cdot } \\mathrm { h m } ^ { 2 }$ ，显著大于其他土地利用方式下的植株固碳量。栽植8年的枸杞植株固碳量远远小于怪柳林，这与种植密集程度有关，不同种植方式下，单位面积植株生物量截然不同。FSWI+Mulch和Mulch处理下棉花生物量显著小于栽植3年和10年的怪柳植株以及栽植8年的枸杞植株。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/32dd3757d28918120a0141038258a80fec20339870116920f9e9186accf74998.jpg",
+        "img_caption": [
+            "图6不同土地利用方式植被碳储量",
+            "Fig.6Vegetation carbon storage under different land use patterns "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3aT:栽植3年的怪柳林；10aT:栽植10年的怪柳林；2aL：栽植2年的枸杞林；8aL：栽植8年的枸杞林；FSWI+Mulch:咸水结冰灌溉结合地膜覆盖；Mulch:春季覆膜；CK:荒盐碱裸地。不同小写字母表示处理间在0.05水平差异显著。3aT:threeyears Tamarix chinensis plantation；10aT:ten yearsTamarixhinesisotaLbpatatoLightabatatouchiteition(nteiscsisgiotCbaddiedindicate significant differences among treatments at $P < 0 . 0 5$ ：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 植被碳储量变化特征 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2015年4月至2016年11月栽植3年的怪柳和栽植2年的枸杞植株生长迅速，根、茎、叶生物量及总生物量都明显升高。而10年怪柳和8年枸杞植株生物量的增加已经十分缓慢，每年仅是叶子的生长与凋落(表2)。FSWI+Mulch处理下的棉花主根生物量显著大于Mulch处理，枝干、叶子的生物量显著小于Mulch处理(表3)。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/f19e659258ff639a204386d60f2f6b4aea886803be2d5c377c55145f38739afa.jpg",
+        "table_caption": [
+            "[able 2Biomass change of Tamarix chinensis and Lycium barbarum from April 2015 to Novembe "
+        ],
+        "table_footnote": [
+            "3aT:栽植3年的怪柳林；10aT:栽植10年的怪柳林；2aL：栽植2年的枸杞林；8aL：栽植8年的枸杞林。3aT:threeyears Tamarix chinensis plantation10aT:tenyearsTamarixchinensisplantation;2aL:twoyearsLyciumbarbarumplantation;8aL:eightyearsLyciumbarbarumplantation"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">项目 Item</td><td colspan=\"2\">3aT</td><td colspan=\"2\">10aT</td><td colspan=\"2\">2aL</td><td colspan=\"2\">8aL</td></tr><tr><td>2015年4月2016年11月</td><td></td><td></td><td></td><td></td><td>2015年4月2016年11月2015年4月2016年11月</td><td></td><td>2015年4月2016年11月</td></tr><tr><td>Apr.2015</td><td>Nov.2016</td><td>Apr.2015</td><td>Nov. 2016</td><td>Apr.2015</td><td>Nov.2016</td><td>Apr.2015</td><td>Nov.2016</td></tr><tr><td>总生物量 Total biomass(g)</td><td>1 314.59</td><td>4 421.71</td><td>5 863.21</td><td>6 091.74</td><td>195.66</td><td>1 214.39</td><td>3 740.18</td><td>4 003.79</td></tr><tr><td>主根生物量 Taproot biomass (g)</td><td>581.32</td><td>1280.67</td><td>2 740.25</td><td>2 744.57</td><td>94.38</td><td>455.8</td><td>1 803.85</td><td>1 811.61</td></tr><tr><td>叶生物量 Leaf biomass (g)</td><td>28.95</td><td>808.08</td><td>112.88</td><td>295.56</td><td>16.05</td><td>97.53</td><td>54.07</td><td>304.57</td></tr><tr><td>侧枝生物量 Lateral branch biomass(g)</td><td>64.52</td><td>442.02</td><td>269.32</td><td>297.55</td><td>32.56</td><td>236.48</td><td>410.63</td><td>412.58</td></tr><tr><td>茎生物量 Stem biomass (g)</td><td>639.80</td><td>1 890.94</td><td>2 740.77</td><td>2 754.07</td><td>52.67</td><td>424.58</td><td>1 471.64</td><td>1475.03</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/2b537e35c6745a48ff0b149c0569b73e9551a57f74c85292c28c76fca847b10b.jpg",
+        "table_caption": [
+            "表22015年4月至2016年11月怪柳和枸杞植株生物量变化",
+            "表3咸水结冰灌溉结合地膜覆盖对棉花产量和单株生物量的影响",
+            "e3Efect offreezing saline waterirrigation in winter with plastic mulching on cotton yield and biomassper plant "
+        ],
+        "table_footnote": [
+            "FSWI+Mulch:咸水结冰灌溉结合地膜覆盖;Mulch:春季覆膜;CK:荒盐碱裸地。不同小写字母表示处理间在0.05水平差异显著。FSWI+Mulch:frezlinetesot;d"
+        ],
+        "table_body": "<html><body><table><tr><td>处理 Treatment</td><td>主根生物量 Taproot (g)</td><td>枝干生物量 Limb (g)</td><td>叶生物量 Foliage (g)</td><td>产量Yield (kg·hm-2)</td></tr><tr><td>FSWI+Mulch</td><td>22.07±2.35a</td><td>92.86±5.67b</td><td>74.86±3.89b</td><td>10.55±0.54a</td></tr><tr><td>Mulch</td><td>15.97±1.98b</td><td>104.21±3.78a</td><td>88.58±4.23a</td><td>4.21±0.21b</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Different letters indicate significant differences among treatments at $P < 0 . 0 5$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从图7可知，2015年4月至2016年11月栽植3年的怪柳林固碳量最多，其次是栽植2年的枸杞林和FSWI+Mulch处理下的棉田，栽植10年的怪柳植株和栽植8年的枸杞植株已基本停止固碳。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/267e0027c2464795e512aa1e5b5326313aca935dc96e87772b2b47d39bd5825f.jpg",
+        "img_caption": [
+            "图72015年4月至2016年11月不同土地利用方式植被碳储量变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.7Changes of vegetationorganic carbon storageunder diferent landuse paterns from April 2O15to November 20163aT:栽植3年的怪柳林；10aT:栽植10年的怪柳林；2aL：栽植2年的枸杞林；8aL：栽植8年的枸杞林；FSWI+Mulch：咸水结冰灌溉结合地膜覆盖；Mulch:季覆膜;C地tamaieislatatoearmriesispotarsbarbaruplantatotaboritegtitei;Mulch: plastic mulching in spring without FSWI; CK: abandoned saline-alkali bare land.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3不同土地利用方式土壤-植物系统碳储量变化",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3.1土壤-植被系统碳储量差异",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从图8可知，怪柳和枸杞所代表的盐生植物的种植相比于其他土地利用方式的土壤-植被系统能固定更多的碳。其中，栽植10年的怪柳林和栽植8年的枸杞林土壤-植被系统碳储量最高，分别为 $1 1 8 . 2 4 ~ \\mathrm { t \\cdot h m } ^ { 2 }$ 和$9 6 . 2 7 \\mathrm { t } \\cdot \\mathrm { h m } ^ { 2 }$ ，比FSWI+Mulch处理增加 $5 8 . 5 1 ~ \\mathrm { t \\cdot h m } ^ { 2 }$ 和 $3 6 . 5 4 ~ \\mathrm { t \\cdot h m } ^ { 2 }$ ，比嚣荒盐碱裸地增加 $8 3 . 3 9 \\mathrm { t \\cdot h m } ^ { 2 }$ 和61.42$\\tan ^ { 2 }$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/5bf896dd24fe3c500fea1a6f542e8bad4d9df52f59e572ced15dd1c0fb8b9b36.jpg",
+        "img_caption": [
+            "图8不同土地利用方式土壤-植被系统碳储量",
+            ""
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.8Carbon storage of soil-vegetation system under different land use patterns3aT:栽植3年的怪柳林；10aT:栽植10年的格柳林；2aL：栽植2年的枸杞林；8aL：栽植8年的枸杞林；FSWI+Mulch:咸水结冰灌溉结合地膜覆盖；Mulch:春季覆膜；CK:荒盐碱裸地。不同小写字母表示处理间在0.05水平差异显著。3aT:threeyears Tamarix chinensis plantation；10aT:ten yearsTarixeisltatioLarbaatoLhtarbatatioucrliateitist;sisitadiaalibdindicate significant differences among treatments at $P < 0 . 0 5$ ：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3.2土壤-植被系统碳储量变化特征",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从图9可知,2015年4月至2016年11月栽植3年的怪柳林和栽植2年的枸杞林土壤-植被系统碳增加量分别为 $2 0 . 1 6 ~ \\mathrm { t } \\cdot \\mathrm { h m } ^ { 2 }$ 和 $5 . 4 2 ~ \\mathrm { t \\cdot h m } ^ { 2 }$ ，远远大于其他土地利用方式，表现为 $\\mathrm { C O } _ { 2 }$ 的汇。栽植10年的怪柳林和栽植8年的枸杞林，土壤-植被系统碳分别减少 $0 . 1 4 ~ \\mathrm { t \\cdot h m } ^ { 2 }$ 和 $0 . 3 5 \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { 2 }$ ，表现为一个弱的碳源。相比于Mulch处理和CK,FSWI+Mulch处理下的棉田土壤-植被系统表现为一个缓慢固碳的效果，但因每年植株成熟后秸秆剔除，其",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "变化有待进一步验证。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/8df4d49356e76d816f1b540a1f39165062e396f467d3b0fd8de11857992ad82c.jpg",
+        "img_caption": [
+            "图92015年4月至2016年11月不同土地利用方式下单位面积土壤-植被系统碳含量变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.9Carbonstorage changes ofsoil-vegetationsystemunderdifferentlnduse pattrns fromApril2O15to November 20163aT:栽植3年的怪柳林；10aT:栽植10年的怪柳林；2aL：栽植2年的枸杞林；8aL：栽植8年的枸杞林；FSWI+Mulch:咸水结冰灌溉结合地膜覆盖；Mulch:春季覆膜;CK:地tharsisislatatio;tearsTmriesispato;twarsbrbrumplataio;ghtyaLpatatiouchatergatioeiMulch: plastic mulching in spring without FSWI; CK: abandoned saline-alkali bare land.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1不同土地利用方式下滨海盐碱土壤碳储量变化",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "研究发现，与畧荒盐碱裸地相比，怪柳、枸杞的栽植能够显著增加土壤碳储量。冬季结冰灌溉结合地表覆膜和春季覆膜处理下的棉花植株成熟后秸秆被移除，对土壤有机碳积累有很大影响，导致土壤有机碳含量较低且显著小于怪柳地和枸杞林地。荒盐碱裸地在无植被生长及外源碳补充的条件下土壤有机碳含量主要取决于土壤母质[29]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "随着植株生长，怪柳林和枸杞林每年凋落物数量逐渐增多，伴随大量的凋落物进入土体，进而有效地补充了土壤中的有机碳含量，土壤有机碳含量表现逐年增加的过程。栽植10年的怪柳林和栽植8年的枸杞林虽然叶子生物量较多，但根系停止生长的同时土壤微生物也在分解着一定量的有机碳，两种过程处于动态平衡之中，土壤有机碳无显著变化趋势。因为无植物生长的原因，盐碱裸地土壤有机碳的固定和消耗主要与土壤温度和水盐有关，其变化趋势有待进一步研究[30]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "与畧荒盐碱裸地相比，栽植怪柳、枸杞和结冰灌溉地表覆膜种植棉花后，土壤容重都显著减小，表明植物的生长能够有效改善土壤的通水性、通气性等，使养分、水分等运输效率大大提高[31]。腐殖质、新增凋落物等一般都集聚在土壤上层，致使土壤表层有机碳含量较高，有时根生长分泌一定量的有机物质，根际特殊环境也会使局部土壤有机碳含量显著增加[32]。嚣荒区属于重度盐碱地，土壤含盐量极高且地下水位仅$1 { \\sim } 2 \\mathrm { m }$ 左右，土壤黏质化导致土壤容重显著增加[33]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "尽管怪柳、枸杞的种植和结冰灌溉结合地膜种植棉花等方式比荒盐碱裸地能够显著增加土壤碳储量，但其有机碳含量普遍较低[34]，栽植10 年的怪柳地土壤有机碳含量也不足 $1 0 ~ \\mathrm { g { \\cdot k g } ^ { 1 } }$ ，这与盐碱地的环境和背景有关，尽管植物能够正常生长，但土壤盐分较高，阻碍了土壤有机碳的进一步积累。土壤有机碳含量受多种因素的作用，短期内会有波动，但不会产生巨大变化，且研究时间和空间尺度、地点、重复次数都会对最终的结果产生影响[35]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2 植被碳储量变化",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "栽植10年的怪柳植株和栽植8年枸杞植株固碳量显著高于其他处理，但植株总生物量的增加已经十分缓慢，每年仅是叶子的生长与凋落。由于8年生的枸杞林栽植较稀疏，植株固碳量远远小于怪柳林，所以如何确定不同土地利用方式下植株最佳的种植方式，使其在达到最大固碳量的同时植株相互之间生长不受影响是亟待要解决的问题[3]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "FSWI+Mulch处理下的棉田由于结冰融化淡水的淋洗作用，土壤耕层含盐量显著小于Mulch处理，其根生长更加迅速且扎的更深，但其较高的成活率致使植株叶子之间互相遮挡，影响植物的光合作用。而Mulch处理下棉田棉花成活率不如FSWI+Mulch处理，但其单位面积棉花植株得到更多的光照和养分，致使其枝干、叶子生物量更高，而且平均每株棉花产量Mulch处理明显高于FSWI+Mulch处理。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3土壤-植被碳储量变化",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "不同土地利用方式实施后，土壤碳储量在土壤-植被系统固碳量中占主导地位，植被碳储量小于土壤碳储量，但从年际间土壤-植被系统碳储量变化中可以看出，植被碳储量的变化是衡量其是碳源还是碳汇的决定性因素。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从固碳角度考虑，怪柳和枸杞所代表的盐生植物的种植能固定更多的碳，从而对区域碳循环起到积极的作用，但其土壤-植被系统的固碳趋势还需进一步研究，确保各种土地利用方式下土壤-植被能够持续地固碳，如其今后是一个碳排放的过程，就需要改变土地利用方式或者更新植被。研究发现，怪柳、枸杞的生长达到一定的年限后，固碳速率减慢甚至表现为一个碳源，需改变其土地利用方式。咸水结冰灌溉结合地膜覆盖技术实现了在重盐碱地上生长农作物的奇迹，但从固碳角度考虑，每年的植株生物量最好通过一定的措施返回田间来维持固碳量，如植株磨碎后埋于土壤之中或土壤表层棉花植株残体覆盖。棉田固碳量远远小于栽植怪柳和枸杞所代表的盐生植物种植技术，且结冰灌溉条件的实施不仅依赖于地形和气候条件,还需耗费一定的人力物力，而盐生植物本身能在重盐碱地上存活，一次栽植后无其他人工因素介入，省时，耗资小且固碳效果显著。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "相比于擢荒盐碱裸地，人工栽植的怪柳林、枸杞林和结冰灌溉结合地膜覆盖下的棉田，土壤-植被系统能固定更多的碳。其中，栽植10年的怪柳林和栽植8年的枸杞林土壤-植被系统碳储量最高，分别为118.24$\\tan ^ { 2 }$ 和 $9 6 . 2 7 ~ \\mathrm { t \\cdot h m } ^ { 2 }$ ，相比于FSWI+Mulch 处理增加 $5 8 . 5 1 ~ \\mathrm { t \\cdot h m } ^ { 2 }$ 和 $3 6 . 5 4 ~ \\mathrm { t \\cdot h m } ^ { 2 }$ ，相比于擢荒盐碱裸地增加$8 3 . 3 9 \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { 2 }$ 和 $6 1 . 4 2 \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { 2 }$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "对不同土地利用方式固碳趋势研究发现，栽植3年的怪柳林和栽植2年的枸杞林植株生长迅速，生长过程中土壤有机碳快速分解，其生长季土壤有机碳是一个逐渐减少的过程，但结合地上部植物的碳固定，土壤-植物系统固碳速率显著，分别为 $1 0 . 0 8 ~ \\mathrm { t \\cdot h m ^ { 2 } \\cdot a ^ { - 1 } }$ 和 $2 . 7 1 \\ \\mathrm { t \\cdot h m } ^ { 2 } \\cdot \\mathrm { a } ^ { 1 }$ 。FSWI+Mulch 处理固碳速率较低，仅为 $0 . 5 3 \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { 2 } { \\cdot } \\mathrm { a } ^ { 1 }$ 。栽植10年的怪柳和栽植8年的枸杞样地，植株固碳速率明显减慢，土壤-植被系统表现为一个弱的碳源，需通过改变种植和管理方式等措施提升固碳量；Mulch 处理棉花存活率较低且植株成熟后基本剔除，碳储量每年净减少 $0 . 8 6 \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { 2 }$ 。擢荒盐碱裸地在无外源碳补充的条件下表现为一个碳源，土壤碳储量减少速率为 $1 . 4 2 \\ : \\mathrm { t \\cdot h m } ^ { 2 } \\cdot \\mathrm { a } ^ { 1 }$ 。综上所述，滨海盐渍区人工栽植怪柳和枸杞是提高区域碳储量的有效途径。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献References",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]Hoegh-GuldbergO,BrunoJF.Theimpactof climatechangeontheworld'smarineecosystems[J].Sciene,20l0,328(985): 1523-1528   \n[2]Cao MK,WoodwardF.Dyamicresponsesofterestrialeosystemcarboncyingtoglobalclimatechange[J].Nature98, 393(6682): 249-252   \n[3]沈永平，王国亚.IPCC第一工作组第五次评估报告对全球气候变化认知的最新科学要点[J].冰川冻土,2013,35(5):1068- 1076 ShenYP,Wang GY. Key findings and assessmentresultsof IPCC WGIFifth Assessment Report[J]. Journal of Glaciology and Geocryology,2013,35(5): 1068-1076   \n[4] 王璟珉，魏东．对目前全球气候变化问题认知程度的思考[J]．中国人口·资源与环境,2008,18(3):58-63 Wang JM,WeiD.Cognitionresearchonglobalclimatechange[J].ChinaPopulation,ResourcesandEnvironment,008,8(3): 58-63   \n[5]陈广生，田汉勤．土地利用/覆盖变化对陆地生态系统碳循环的影响[J]．植物生态学报,2007,31(2):189-204 Chen G S,Tian HQ.Landuse/cover changeefects oncarboncycling interestrial ecosystems[J].Jouralof PlantEcology, 2007,31(2): 189-204   \n[6]王遵亲．中国盐渍土[M].北京：科学出版社,1993:400-515 Wang Z Q. Salt-effected Soil in China[M]. Beijing: Science Press,1993: 400-515   \n[7] 康健，孟宪法，许妍妍，等．不同植被类型对滨海盐碱土壤有机碳库的影响[J].土壤,2012,44(2):260-266 Kang J,Meng XF,XuYY,etal.Efectsofdierentvegetationtypesonoilorganiccarbonpoolincostalslinealkalisoils of Jiangsu Province[J]. Soils,2012,44(2): 260-266   \n[8]张立宾，宋日荣，吴霞．怪柳的耐盐能力及其对滨海盐渍土的改良效果研究[J].安徽农业科学,2008,36(13):5424-5426 ZhangLB,Song RR,Wu X.Salt tolerancecapabilityof Tamarix chinensis andtheefectsonthe improvementofcoastal saline soil[J]. Journal of Anhui Agricultural Sciences,2008,36(13): 5424-5426   \n[9]张道远，杨维康，潘伯荣，等．刚毛怪柳群落特征及其生态、生理适应性[J]．中国沙漠,2003,23(4):446-451 Zhang DY,Yang WK,PanBR,etal.Charactersof Tamarix hispida Wildcommunitiesand its ecological &physiological adaptation[J]. Journal of Desert Research,2003,23(4): 446-451   \n[11]牛艳，许兴，郑国琦，等．土壤养分和盐分对枸杞多糖和总糖含量的影响[J].中国农学通报,2006,22(12): 59-61 Niu Y,Xu X,Zheng G Q,etal.Studyonrelationshipsbetween soilfertizer and salt and polysaccharide and total sugarof Lycium barbarum in different regions of Ningxia[J]. Chinese Agricultural Science Buletin,2006,22(12): 59-61   \n[12] 许皓，李彦，谢静霞，等．光合有效辐射与地下水位变化对怪柳属荒漠灌木群落碳平衡的影响[J]．植物生态学报，2010, 34(4): 375-386 Xu H,LiY,Xie JX,et al. Influenceof solarradiationand groundwater tableoncarbon balanceof phreatophyticdesert shrub Tamarix[J]. Chinese Journal of Plant Ecology,2010, 34(4): 375-386   \n[13]谢琳萍，王敏，王保栋，等．莱州湾滨海怪柳林湿地植被碳储量的分布特征及其影响因素[J].应用生态学报,2017,28(4): 1103-1111 Xie L P,Wang M,Wang B D,et al. Distribution patern and influencing factorsof vegetationcarbon storage of Tamarix chinensein thecoastal wetlandofLaizhouBay,China[J].Chinese Journalof AppliedEcology,2017,28(4):1103-1111   \n[14]孙涛，马全林，李银科，等．基于CENTURY模型模拟研究次生盐碱地枸杞林土壤有机碳的变化[J].安徽农业科学,2015, 43(13): 202-206 Sun T,MaQL,LiYK,etal.Simulationandanalysisonthe dynamicsofsoil organiccarbonofwolfberyforestinsecondary saline-alkali land based on the CENTURY model[J]. Journalof Anhui Agricultural Science,2015,43(13): 202-206   \n[15] 刘小京，李向军，陈丽娜，等．盐碱区适应性农作制度与技术探讨——以河北省滨海平原盐碱区为例[J].中国生态农业 学报,2010,18(4): 911-913 Liu X J,LiXJ,ChenLN,et al. Studyon theadaptive farmingsystem insalinesoils—Acasestudy insaline areaof strand plain in Hebei Province[J]. Chinese Journal of Eco-Agriculture, 2010,18(4): 911-913   \n[16]封晓辉，张秀梅，郭凯，等．覆盖措施对咸水结冰灌溉后土壤水盐动态和棉花生产的影响[J]．棉花学报，2015，27(2): 135-142 Feng X H,Zhang XM,GuoK,etal.Effectsofdiferent saltcontrol measures aftersaline waterfrezing irigationtosoil water, salt dynamics,cotton emergence and yield[J]. Cotton Science,2015,27(2): 135-142   \n[17]郭凯，张秀梅，刘小京．咸水结冰灌溉下覆膜时间对滨海盐土水盐运移的影响[J].土壤学报,2014,51(6):1202-1212 Guo K,ZhangXM,LiuXJ.Efectof timingofplasticfilmmulching on waterandsalt movementsincoastalsalinesoilunder freezing saline water irrigation[J]. Acta Pedologica Sinica, 2014,51(6): 1202-1212   \n[18]肖辉，潘洁，程文娟，等．咸水结冰灌溉与覆膜对滨海盐土水盐动态的影响[J].水土保持学报,2011,25(1):180-183 Xiao H,Pan J, Cheng WJ,etal.Effctoffrezing irigation with saline waterandcoveringonthe waterandsalt dynamicof coastal saline soil[J]. Journal of Soil and Water Conservation,2011,25(1): 180-183   \n[19]LiXG,GuoK,FengXH,etal.Solrespiratiresposetolngtefreeingsalinewaterrgatiowihplasticulcngin coastal saline plain[J]. Sustainability,2017,9(4): 621   \n[20] 霍龙，逢焕成，卢闯，等．地膜覆盖结合秸秆深埋条件下盐渍土壤呼吸及其影响因素[J].植物营养与肥料学报，2015, 21(5): 1209-1216 Huo L,Pang HC,LuC,etal.Efectofplastic mulching along with depburialof strawon dynamicsofsalinizedsoilrespiration and its affecting factors[J]. Journal of Plant Nutrition and Fertilizer,2015,21(5): 1209-1216   \n[21]Guo K,Liu XJ.Dynamicsof meltwaterqualityandquantityduringsalineicemeltinganditsefectsontheinfiltrationand desalinization of coastal saline soils[J]. Agricultural Water Management, 2014,139: 1-6   \n[22] 刘小京，张秀梅，孙焕荣，等．滨海重盐碱地园林绿化用怪柳良种‘海怪1号[J]．林业科学,2014,50(11):208 Liu XJ,Zhang XM,Sun HR,etal.An improved varietyforheavycostal salinesoil landscapinguse: Tamarixchinensis ‘Haicheng 1[J]. Scientia Silvae Sinicae, 2014,50(11): 208   \n[23] 张秀梅，杨莉琳，刘小京,等．枸杞新品种‘盐杞'和‘海杞'[J]．园艺学报,2011,38(1):197-198 Zhang X M,YangLL,Liu XJ,etal. New medlar cultivars‘Yanqi\"and‘Haiqi[J].Acta Horticulturae Sinica,20l,38(1):197 198   \n[24]郭凯，张秀梅，李向军，等．冬季咸水结冰灌溉对滨海盐碱地的改良效果研究[J]．资源科学,2010,32(3):431-435 Guo K,ZhangXM,LiXJ,etal.Effectoffringsaline wateriigationinwinteronterelamationofoastalslieil[J]. Resources Science,2010,32(3): 431-435   \n[25]霍莉莉．沼泽湿地垦殖前后土壤有机碳垂直分布及其稳定性特征研究[D].长春：中国科学院大学(东北地理与农业生态 研究所),2013 Huo LL.The vertical distributionand stabilityof SOCin marsh beforeandafterreclamation[D]. Changchun: Northeast Institute of Geography and Agricultural Ecology, University of Chinese Academy of Sciences,2013   \n[26] 鲁如坤．土壤农业化学分析方法[M].北京：中国农业科技出版社,2000 LuRK.Methodsof Soil and Agricultural Chemistry Analysis[M].Beijing:China Agricultural Science and Technique Press, 2000   \n[27]郑帷婕，包维楷，辜彬，等．陆生高等植物碳含量及其特点[J].生态学杂志,2007,26(3):307-313 Zheng WJ,BaoWK,GuB,etal.Carbonconcentrationanditsharacteristics interestrialhigherplants[J].ChineseJoualof Ecology,2007,26(3): 307-313   \n[28]徐永荣，张万均，冯宗炜，等．天津滨海盐渍土上几种植物的热值和元素含量及其相关性[J].生态学报，2003，23(3): 450-455 Xu YR, Zhang WJ,Feng Z W,et al. Caloric values,elementalcontents andcorrelations between them ofsome plantson sea-beach salinity soil in Tianjin,China[J].Acta Ecologica Sinica,2003,23(3): 450-455   \n[29] 张俊华，李国栋，王岩松，等．黑河中游典型土地利用方式下土壤有机碳与活性和非活性组分的关系[J].应用生态学报， 2012,23(12):3273-3280 ZhangJH,LiGD,Wang YS,etal.Relationshipsof soil organiccarbon with itsactive and non-activecomponents under diferentlanduse types inthemiddlereachesof HeiheRiver,China[J].Chinese JournalofApliedEcology,2012,23(12): 3273-3280   \n[30]张鹏锐，李旭霖，崔德杰，等．滨海重盐碱地不同土地利用方式的水盐特征[J]．水土保持学报,2015,29(2):117-121 ZhangPR,LiXL,CuiDJ,etal.Characteristicsof waterandsaltunderdifferent landuseinheavycoastal saline-alkaline land[J]. Journal of Soil and Water Conservation, 2015,29(2): 117-121   \n[31]尤伟，高照良，边峰．黄土高原沟壑区不同施肥下植物对土壤容重和孔隙度的影响[J]．陕西林业科技,2014,(6):1-5 You W,GaoZL,BianF.Efectof plantsatdiferentfertilzationtreatmentsonsoilbulkdensityandporosityinthegulyegion of Loess Plateau[J]. Shaanxi Forest Science and Technology,2014,(6): 1-5   \n[32] 季志平，苏印泉，贺亮，等．秦岭北坡几种人工林根系及土壤有机碳剖面分布特征的研究[J].西北植物学报，2006, 26(10): 2155-2158 Ji Z P,Su YQ,HeL,etal.Rootsystemandorganiccarbondistributions insoil profilesofseveralplantationsofnortherslope of Qinling Mountains[J]. Acta Botanica Boreali-Occidentalia Sinica, 2006,26(10): 2155-2158   \n[33]封晓辉，张秀梅，刘小京，等．滨海重盐碱地人工栽植怪柳生长动态及生态效应[J]．中国生态农业学报，2013,21(10): 1233-1240 Feng XH,Zhang XM,Liu XJ,et al.GrowthdynamicsofTamarix chinensis plantations inheavy-salinecoastallands and related ecological effects[J]. Chinese Journal of Eco-Agriculture,2013,21(10): 1233-1240   \n[34] 戴万宏，黄耀，武丽，等．中国地带性土壤有机质含量与酸碱度的关系[J]．土壤学报,2009,46(5):851-860 Dai WH,Huang Y,WuL,etal.Relationships betweensoilorganic mattercontent (SOM)and pHin topsoilofzonal soils in China[J]. Acta Pedologica Sinica, 2009,46(5): 851-860   \n[35]王发刚,王启基，王文颖,等．土壤有机碳研究进展[J]．草业科学,2008,25(2):48-54 Wang FG,WangQJ,WangWY,etal.Research progressonoilorganic mater[J].Pratacultural Science,o,25(2): 4854   \n[36]邱晓蕾，宗良纲，刘一凡，等．不同种植模式对土壤团聚体及有机碳组分的影响[J].环境科学,2015,36(3):1045-1052 Qiu XL,ZongLG,LiuYF,etal.Effectsofdiferentcultivationpattersonsoilaggegatesandorganccarbonfractions[J]. Environmental Science,2015,36(3): 1045-1052 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

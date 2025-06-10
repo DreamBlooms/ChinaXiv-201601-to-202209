@@ -1,0 +1,413 @@
+[
+    {
+        "type": "text",
+        "text": "基于RBF神经网络的电弧炉电极调节系统PID参数整定",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "鲁军霍金彪 ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/1f4f087bc774af079eab29d99e25f094c94ae312e33e31adeffc9a1c8e124b85.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(沈阳理工大学自动化与电气工程学院沈阳110159)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "鲁军男1965年生，博士，教授，研究方向为智能材料与智能控制系统。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：由于常规PID控制难以满足电弧炉电极调节系统复杂的工况，本文将径向基函数（RBF）神经网络与PID控制相结合，提出RBF-PID参数整定方法。通过RBF神经网络对控制对象Jacobian信息的辨识，采用增量式PID梯度下降算法整定已有的PID 参数，设计了RBF-PID 电极调节系统控制器。仿真结果验证了RBF-PID 控制器能够实时整定PID参数，实现电极调节系统快速、准确地控制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：电弧炉电极调节系统 RBF 神经网络PID 控制参数整定中图分类号：TP273",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PID Parameter Setting on Electrode Adjustment System of Electric Arc Furnace Based on RBF Neural Network ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lu Jun Huo Jinbiao (Shenyang Ligong UniversityShenyang 110159 China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/0736936ab20ed910cefdf603cd0e9fd435009958f3b04012394d911d5dfcf369.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "霍金彪男 1990年生，硕士，研究方向为控制理论与控制工程。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Because conventional PID control is difficult to meet the complex conditions for electrode adjustment system of electric arc furnace, the radial basis function (RBF) neural network is introduced into the PID control, a setting method of RBF-PID is proposed in this paper.By RBF neural network identifies Jacobian information of control object, selecting incremental PID gradient descent algorithm sets existing PID parameters, a RBF-PID controller of electrode regulating system is designed. The simulation results verify that RBF-PID controller can real-time set the PID parameters,realize quickly and accurately control to electrode regulating system. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Electric arc furnace,electrode adjustment system,radial basis function neural network, PID control, parameter setting ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "电弧炉炼钢过程中，电极调节系统举足轻重，电极的上下位置需实时而又准确地进行调节，以适应炉况的变化。电弧炉电极调节系统一般采用PID控制方式[]。PID控制是最为经典、应用领域广且简单易行的控制方法，它基于对象数学模型，尤其适用于可建立精确数学模型的控制系统。其优点是算法简单、鲁棒性好和可靠性高。尽管如此，由于实际工业生产过程往往具有非线性、时变不确定性，难以确定精确的数学模型，常规的PID控制器就不能达到理想的控制效果[2]。另外，在实际电弧炉炼钢生产现场，由于受到参数整定方法繁杂的困扰，常规PID参数往往整定不良、性能欠佳，对运行工况的适应性很差。故实际的控制系统设计仍然采用试凑法调整系数，控制精度必然受到制约。随着相关领域技术的不断发展，对控制系统的指标要求也越来越高。人们一直在寻求PID控制器参数的自适应技术，以适应复杂的工况和高指标的控制要求，神经网络理论的发展，使这种设想成为可能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文将径向基函数（RadialBasisFunction,RBF）神经网络引入到PID控制中，通过RBF神经网络对控制对象Jacobian信息的辨识，进行PID控制参数整定，实现了PID参数的实时、快速整定。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 RBF神经网络",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RBF神经网络是三层结构的前向网络，如图1所示。第一层为输入层，节点个数等于输入的维数；第二层为隐含层，节点个数视问题的复杂度而定；第三层为输出层，节点个数等于输出数据的维数。径向基网络与多层感知器不同，其不同层有着不同的功能，隐含层是非线性的，采用径向基函数作为基函数，从而将输入向量空间转换到隐含层空间，使原来线性不可分的问题变得线性可分，输出层则是线性的[3]。基于以上RBF神经网络的结构特点，本文采用该方法进行控制对象Jacabian信息的辨识，这也是PID参数整定的前提条件。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/efcfbde911521ed633786015ce2867154fb8db59cc80019358ca6b00a75e064b.jpg",
+        "img_caption": [
+            "图1RBF神经网络结构",
+            "Fig.1 Structure of RBF neural network ",
+            "Fig.2 Curve ofGaussian function "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "常见的径向基函数有很多种，其中最为常见的是高斯函数，如图2所示。可以看出，高斯函数曲线径向对称，自变量在偏离中心位置时函数值快速下降。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/658f83407a00fdc8df32cf7abcf7e8873d844240b6c39af9714b33f04a55369b.jpg",
+        "img_caption": [
+            "图2高斯函数曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 RBF神经网络辨识的PID参数整定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在电弧炉实际生产过程中，炉内工况和系统模型时变，且变化速度较快。先前经验上确定和计算的PID控制器参数，一段时间之后，控制效果就不明显。为了使电弧炉运行过程始终保持较好的控制效果，需要进行PID控制器参数的在线整定和优化。为达到上述控制效果，具有该特性的RBF神经网络智能PID控制器应运而生。对比传统的建模方法，RBF神经网络建立的非线性时变系统自校正模型不仅极为方便，而且有较高的稳定性和准确度，因而在生产过程建模中广泛应用。本文使用RBF神经网络作为辨识器，并着重研究了电弧炉电极调节系统基于RBF神经网络辨识的PID控制参数整定方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RBF神经网络PID控制器由两部分构成：RBF神经网络辨识器，该部分可以通过辨识对象的特征得到对象的Jacibian信息；在辨识信息的基础上通过RBF神经网络控制器实现PID参数在线调整和优化[4]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "辨识算法：RBF神经网络结构中，输入向量为$X = [ x _ { 1 } , x _ { 2 } , \\cdots , x _ { n } ] ^ { \\mathrm { { T } } }$ ，将径向基向量设为 $H$ ，则 $H = [ h _ { 1 }$ $h _ { 2 } , \\cdots , h _ { j } , \\cdots , h _ { n } ] ^ { \\mathrm { T } }$ ，其中 $h _ { j }$ 为高斯函数，其表达式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { j } = \\exp \\left( \\frac { \\left\\| x - c _ { j } \\right\\| ^ { 2 } } { 2 b _ { j } ^ { 2 } } \\right) \\quad j = 1 , 2 , \\cdots , m\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中，RBF 网络隐含层第 $j$ 个节点的中心矢量 $C _ { j } =$ $[ c _ { j 1 } , c _ { j 2 } , c _ { j i } ,$ …, ${ c _ { j n } } \\mathrm { { J } } ^ { \\mathrm { { T } } }$ ， $j = 1 , 2 , \\cdots , n$ ，权值向量 $\\boldsymbol { w } = \\left[ \\boldsymbol { w } _ { 1 } \\right.$ $w _ { 2 } , \\cdots , w _ { j } , \\cdots , w _ { n } ] ^ { \\mathrm { T } }$ ， $b _ { \\mathrm { j } }$ 为网络隐含层节点基宽度，且$b _ { \\mathrm { j } }$ 大于零，基宽向量 $B = [ b _ { 1 } , b _ { 2 } , \\cdots , b _ { m } ]$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "辨识器输出 $y _ { m } ( k )$ 为对应权值向量和径向基向量乘积之和，即",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { m } ( k ) = w _ { 1 } h _ { 1 } + w _ { 2 } h _ { 2 } + \\cdots + w _ { m } h _ { m }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "辨识网络的输出性能指标 $J$ 为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ = \\frac { 1 } { 2 } [ y ( k ) - y _ { m } ( k ) ] ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RBF 网络输出权值 $w$ 、中心矢量 $\\scriptstyle { \\mathbf { \\alpha } } _ { c }$ 以及基宽向量 $b$ 的算法如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { w _ { j } ( k ) = w _ { j } ( k - 1 ) + \\eta ( y ( k ) - y _ { m } ( k ) ) h _ { j } + } } \\\\ { { \\alpha ( w _ { j } ( k - 1 ) - w _ { j } ( k - 2 ) ) } } \\\\ { { { } } } \\\\ { { b _ { j } ( k ) = b _ { j } ( k - 1 ) + \\eta \\Delta b _ { j } + \\alpha ( b _ { j } ( k - 1 ) - b _ { j } ( k - 2 ) ) } } \\\\ { { { } } } \\\\ { { c _ { j i } ( k ) = c _ { j i } ( k - 1 ) + \\eta \\Delta c _ { j i } + \\alpha ( c _ { j i } ( k - 1 ) - c _ { j i } ( k - 2 ) ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\alpha$ 为动量因子； $\\eta$ 为学习速率； $w$ 为衡量控制效果的指标，其值越小，则控制效果越平稳。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "增大 $w$ 后，可能会使系统不稳定，严重情况下可能会出现振荡。因此选择合适的 $w$ 值对控制的稳定性有很大的意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RBF神经网络整定PID控制框图如图3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b83320fb9d50b32a3904d3515cf583e02090ded7279375c2415635594dee2a22.jpg",
+        "img_caption": [
+            "图3RBF神经网络整定PID控制框图Fig.3RBF neural network PID control system"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参数整定原理如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PID 控制器采用增量式，误差 $e ( k )$ 为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne ( k ) = r i n ( k ) - y _ { \\mathrm { o u t } } ( k )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PID 控制器输入为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { x c ( 1 ) = e ( k ) - e ( k - 1 ) } \\\\ { x c ( 2 ) = e ( k ) } \\\\ { x c ( 3 ) = e ( k ) - 2 e ( k - 1 ) + e ( k - 2 ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "控制算法为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { u ( k ) = u ( k ) + k _ { \\mathrm { p } } \\left( e ( k ) - e ( k - 1 ) \\right) + k _ { \\mathrm { i } } e ( k ) + } } \\\\ { { k _ { \\mathrm { d } } \\left( e ( k ) - 2 e ( k - 1 ) + e ( k - 2 ) \\right) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PID参数整定指标函数为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE ( k ) = \\frac { 1 } { 2 } e ^ { 2 } ( k )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $k _ { \\mathrm { p } }$ ， $k _ { \\mathrm { i } }$ ， $k _ { \\mathrm { d } }$ 三个参数的调整算法采用梯度下降法，算法如下",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { \\displaystyle \\Delta k _ { \\mathrm { p } } = - \\eta \\frac { \\partial E } { \\partial k _ { \\mathrm { p } } } = - \\eta \\frac { \\partial E } { \\partial y _ { \\mathrm { o u t } } } \\frac { \\partial y _ { \\mathrm { o u t } } } { \\partial u } \\frac { \\partial u } { \\partial k _ { \\mathrm { p } } } } \\\\ { \\displaystyle = \\eta e ( k ) \\frac { \\partial y _ { \\mathrm { o u t } } } { \\partial u } x c ( 1 ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { \\displaystyle \\Delta k _ { \\mathrm { i } } = - \\eta \\frac { \\partial E } { \\partial k _ { \\mathrm { i } } } = - \\eta \\frac { \\partial E } { \\partial y _ { \\mathrm { o u t } } } \\frac { \\partial y _ { \\mathrm { o u t } } } { \\partial u } \\frac { \\partial u } { \\partial k _ { \\mathrm { i } } } } \\\\ { \\displaystyle = \\eta e ( k ) \\frac { \\partial y _ { \\mathrm { o u t } } } { \\partial u } x c ( 2 ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { \\displaystyle \\Delta k _ { \\mathrm { d } } = - \\eta \\displaystyle \\frac { \\partial E } { \\partial k _ { \\mathrm { d } } } = - \\eta \\displaystyle \\frac { \\partial E } { \\partial y _ { \\mathrm { o u t } } } \\displaystyle \\frac { \\partial y _ { \\mathrm { o u t } } } { \\partial u } \\displaystyle \\frac { \\partial u } { \\partial k _ { \\mathrm { d } } } } \\\\ { = \\eta e ( k ) \\displaystyle \\frac { \\partial y _ { \\mathrm { o u t } } } { \\partial u } x c ( 3 ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4 仿真结果分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PID控制器以 $7 5 \\mathrm { t } / 1 0 \\mathrm { M V \\cdot A }$ 的电弧炉电极调节系统为例，电极调节系统主要包括液压系统、比例阀执行系统、机械传动系统、主电路电压、控制系统整流部分。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "电弧炉液压系统调节电极升降速度，可以看作是一个欠阻尼的二阶系统[6-7]，传递函数为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { 1 } ( s ) = \\frac { 3 4 2 . 2 5 } { s ^ { 2 } + 7 . 4 s + 3 4 2 . 2 5 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "比例阀执行系统可近似看作一个比例环节，传递函数为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { 2 } \\left( s \\right) = 0 . 5\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "机械传动系统输出为电极位置，其输出主要是速度的变化量，可采用一个积分环节进行描述[8],其传递函数为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { 3 } ( s ) = \\frac { 0 . 0 7 8 } { s }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "控制系统主电路电压可描述为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( u ) = \\frac { 2 . 5 } { 1 . 2 5 u + 0 . 5 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "控制系统整流部分传递函数为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { 4 } ( s ) = \\frac { 1 } { 0 . 5 s + 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "控制系统仿真结果如图4所示。由图4可知，当输入阶跃信号，RBF-PID控制器与传统PID控制相比，调节时间缩短1.5s，系统超调量减少 $8 . 6 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4633106423a612e847cf9fdcaca064516960e35d769d16f204ad694d2da25977.jpg",
+        "img_caption": [
+            "图4RBF 神经网络PID与常规PID 的阶跃响应Fig.4Step response of the RBF neural network PID andconventional PID"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PID参数整定曲线如图5所示。RBF神经网络能够辨识控制对象参数，并且通过对系统Jacobian信息的学习，通过梯度下降法快速对PID控制算法中的$k _ { \\mathrm { p } }$ 、 $k _ { \\mathrm { i } }$ 、 $k _ { \\mathrm { d } }$ 三个参数进行在线整定，弥补了传统PID控制器参数调节慢和模型适应能力差的缺点[9-10]。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/381d13d7a68b93605ae0465b12b85e6a3b8cfecb4ad1da38d990a98852da8e5d.jpg",
+        "img_caption": [
+            "图5PID参数整定曲线",
+            "Fig.5Curve of PID parameter setting "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于传统PID控制参数整定方法限制以及电弧炉复杂的工况，传统PID控制效果不够理想。本文将RBF神经网络引入到PID控制中，通过RBF神经网络对控制对象Jacobian信息的辨识，进行PID控制参数整定。仿真结果表明，RBF-PID控制可实现PID参数的实时、快速整定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1] 王育飞，潘艳霞，姜建国．基于Matlab的交流 电弧炉随机模型与仿真[J]．高压电技术，2008, 34(5):973-977. Wang Yufei,Pan Yanxia,Jiang Jianguo.Stochastic model ofAC electric arc furnace based on Matlab[J]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "High Voltage Enginering,2008,34(5): 973-977.  \n[2] 刘金琨．智能控制[M]．北京：电子工业出版社,2013.  \n[3] 陈兵．一种基于神经网络的电弧炉智能控制[D].西安：西安理工大学，2003.  \n[4] 王琰，毛志忠，李妍，等．一种新的电弧炉时域模型[J]．东北大学学报，2009，30(4)：487-490.Wang Yan, Mao Zhizhong, Li Yan, et al. A newtime domain arc model for arc furnace[J]. Journalof Northeastern University (Natural Science), 2009,30(4): 487-490.  \n[5] 张世峰，张绍德．电弧炉电极系统双模控制策略研究及应用[J]．电子科技大学学报，2008，37(1)：145-147.Zhang Shifeng,Zhang Shaode. Research andapplication of arc furnace electrode system basedon dual-mode control[J]. Journal of University ofElectronic Science and Technology of China, 2008,37(1): 145-147.  \n[6] Anna S H,Arnar G,Ariv V. Current control of athree-phase submerged arc ferrosilicon furnace[J].Control Engineering Practice,2002,10(4): 457-463.  \n[7] Mokhtari H, Hejri M. A new three phase time-domain model for electric arc furnaces usingMatlab[J].Transmission & Distribution Conference& Exhibition: Asia Pacific IEEE/PES,2002,3: 2078-2083.  \n[8] 鲁军，霍金彪，张广跃．电弧炉电极调节系统的模糊解耦控制器[J]．电工技术学报，2015，30(12)：27-33.Lu Jun, Huo Jinbiao, Zhang Guangyue. Fuzzydecoupling controller on electrode regulator systemof electric arc furnace[J]. Transactions of ChinaElectrotechnical Society, 2015,30(12): 27-33.  \n[9] 于丰，毛志忠．电弧炉系统电弧模型的建立与参数辨识[J]．东北大学学报，2013，2(30)：1547-1549.Yu Feng, Mao Zhizhong. An arc model for arcfurnace system and parameter identification[J].Journal of Northeastern University (Natural Science),2013,2(30): 1547-1549.  \n[10]王俊国．基于神经网络的建模方法与控制策略研究[D]．武汉：华中科技大学，2004.",
+        "page_idx": 3
+    }
+]

@@ -1,0 +1,486 @@
+[
+    {
+        "type": "text",
+        "text": "葡萄CBF4生物信息学及对低温和硅酸钾响应分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张红梅，王旺田\\*，张芮，杨 科，王宝强，王翠玲（甘肃农业大学生命科学技术学院，甘肃省干旱生境作物学重点实验室，兰州730070）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为探究葡萄CBF4基因的结构和表达特征，该研究以葡萄为材料，对葡萄CBF4基因进行生物信息学及低温和硅酸钾响应分析。结果表明：CBF4蛋白定位在细胞核，有5个磷酸化位点和14个糖基化位点，无信号肽，是一个亲水的、脂溶性较差的膜外蛋白。二级结构以无规则卷曲为主，比例为 $56 . 8 8 \\%$ 。该蛋白包含一个AP2/EREBP结构域。CBF4蛋白的多序列和系统进化分析表明酿酒葡萄与美洲葡萄的同源性最高、亲缘关系最近。荧光定量 PCR 分析显示，低温胁迫后CBF4 基因在葡萄叶片中表达水平上调，说明CBF4 基因可能参与了葡萄叶片低温胁迫的响应。低温条件下，施加硅酸钾CBF4基因表达具有差异性，说明该基因在不同的葡萄组织中对硅酸钾的响应机制可能不同。以上结果为进一步研究葡萄CBF4基因的功能和机理奠定了基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：葡萄，CBF4，低温胁迫，生物信息学，RT-PCR中图分类号：Q943 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bioinformatics of grape CBF4 and its response to low temperature and potassium silicate ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Hongmei, WANG Wangtian\\*, ZHANG Rui, YANG Ke, WANG Baoqiang, WANG Cuiling (College ofLife ScienceandTechnology,GansuAgricultural University,KeyLaboratoryof Crop Science inArid Habitats,Lanzhou 730070,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In order to explore the structure and expression characteristics of CBF4 gene from grapes the study analyzed the grape $C B F 4$ gene from the aspects of bioinformatics and low temperature and potassium silicate response.The results were as follows: CBF4 protein was located in the nucleus,there are 5 phosphorylation sites and 14 glycation sites,without signal peptide. It is a hydrophilic,a poor lipid solubility and an extra-cellular protein.The secondary structure was dominated by random coil, with a ratio of $56 . 8 8 \\%$ . The protein contains an AP2/EREBP domain. The multiple sequence alignment and phylogenetic analysis of CBF4 protein show that wine grapes and American grapes have the highest homology and the closest genetic relationship.Quantitative real-time PCR analysis indicated that the expression level of $C B F 4$ gene in grape leaves was up-regulated after low temperature stress,indicating that CBF4 gene may be involved in the response of grape leaves to low temperature stress Under low temperature conditions,the $C B F 4$ gene expression is different when potassium silicate is applied, indicating that the response mechanism of this gene to potassium silicate may be diferent in different grape tissues. These results lay a foundation for further study on the function of CBF4 gene in grapes. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: grape, CBF4,low temperature stress, bioinformatics, RT-PCR ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "葡萄是世界最古老的落叶果树之一，各地均有栽培，已成为重要的果树经济作物，种植面积和产量居世界首位，是我国重要的果树。中国北方的葡萄由于低温冻害使得产量减少，造成巨大的经济损失。因此研究葡萄的低温响应机理，提高葡萄对低温的适应性是十分必要的。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作为AP2/EREBP 转录因子群的一个亚科，DREB/CBF 基因在对非生物胁迫的耐受性中发挥核心作用，植物在低温胁迫下表现出CBF 依赖的应答通路。CBF能够与启动子中的核心片段(CCGAC)相结合从而调控该基因的转录水平（Haake，2002)。研究表明拟南芥CBF1、CBF2和CBF3都位于IV染色体上，且紧密分布于短臂 $7 2 . 8 \\mathrm { c M }$ 处，它们编码与AP2/ERF家族密切相关的转录因子，这些转录因子与CBF 调控基因启动子中存在的CRT/DREDNA 调控元件结合。CBF2基因能够负调控CBF1 和CBF3从而调控下游COR 等抗寒基因的表达来提高植物抗寒性（Novillo et al.,2004；吕胜男等，2011；董亚茹等，2017）。而CBF4 则位于拟南芥的V号染色体上，是唯一已知的CBF 基因参与脱落酸(ABA)依赖的信号通路（沙丽娜，2009）。这些研究成果说明CBF转录因子对植物的抗寒、抗旱和抗盐碱等胁迫过程发挥着重要的作用。研究表明，硅（Si）可以提高水稻（任学坤等，2007）、小麦（郑世英等，2015）、高梁（刘朋等，2014）等植物的抗逆性，施加外源硅能够提高低基金项目：甘肃省农牧厅生物技术专项(GNSW-2014-12)；国家自然科学基金(31560552,51569002)；甘肃省自然科学基金(17JR5RA151)[Supportedby Biotechnology Special Projectof Gansu Provincial Department of Agriculture and AnimalHusbandry(GNSW-2014-12)；the National Natural ScienceFoundationofChina(31560552.51569002)；GansuProvincialNatural Science Foundation(17JR5RA151)]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作者简介：张红梅（1994-），硕士研究生，主要研究方向为植物逆境生理，（E-mail）2440644680@qq.com。  \n\\*通信作者：王旺田，博士，副教授，主要从事植物逆境生理研究，（E-mail）wtwang@gsau.edu.cn。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "温胁迫下葡萄叶片渗透调节物质含量，促进蔗糖转运速率，缓解活性氧积累，增强耐寒性（郑凯翔等，2019)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前国内CBF 基因主要集中于拟南芥（Michael et al.,2010）、大豆（Kidokoro et al.,2014）、玉米（Zhang et al.,2010）、番茄（Yuasa et al.,2014）等植物的研究，对葡萄中CBF基因的抗寒作用等方面研究较少，尤其对CBF4在外源硅与低温协同作用下的表达没有见报道。本研究对CBF4 基因编码的蛋白进行全面的生物信息学分析，对葡萄幼苗进行低温和硅酸钾处理，并对CBF4基因进行实时荧光定量分析，以期为CBF4 基因的表达特性及其功能研究奠定理论基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1序列来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用NCBI数据库获取酿酒葡萄基因CBF4（GenBank:DQ497624.1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2蛋白质结构预测",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1一级结构",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过Expasy进行氨基酸残基的数目和组成，蛋白质的一级结构的在线分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2二级结构",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用 SOPMA进行二级结构的预测；利用ProtScale预测蛋白的亲疏水性；利用 TMHMM Serverv.2.0预测蛋白的跨膜结构；利用SignalP4.0预测蛋白的信号肽。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3磷酸化位点和糖基化位点预测分别使用KinasePhos 和NetOGlyc4.0预测蛋白的磷酸化和糖基化位点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.4CBF4蛋白的细胞定位使用PSORTPrediction 预测蛋白的细胞定位。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.5结构域预测",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "使用NCBI中的CDD数据库对蛋白的结构域进行分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.6三级结构",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过SWISSMODEL对葡萄CBF4基因编码蛋白的三维结构进行同源建模。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3同源性比对及系统进化树构建",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过NCBI在线比对，找出与该蛋白同源性较高的其他植物的氨基酸序列，再利用MEGAX软件进行系统进化树的构建。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4低温胁迫对葡萄组织CBF4基因的荧光定量PCR分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以酿酒葡萄试管苗贝达为试验材料，当植株长至5片叶时，选取长势一致的幼苗炼苗3d后移入装有1/2 强度Haogland 营养液的水培盆（ $\\cdot 1 0 \\ \\mathrm { c m } { \\times } 1 0 \\ \\mathrm { c m } { \\times } 9 \\ \\mathrm { c m } )$ ，用泡沫板固定，在人工气候培养箱中培养（温度 $2 5 \\ \\mathrm { { ^ \\circ C } }$ ；湿度 $60 \\%$ ；光照强度 $5 0 0 0 \\mathrm { l x }$ ）60d，营养液每2d更换1次。外源硅处理一周后，按实验设计分别进行常温（ $2 5 \\ \\mathrm { ^ \\circ C }$ ）及室内模拟低温（ $. 5 ~ \\mathrm { ^ { \\circ } C }$ ）处理，各处理过程持续光照，对照为不加硅酸钾的葡萄水培苗，且其他条件相同。低温处理3、9h后分别取各组幼苗的中部幼嫩叶片、根部，提取RNA、反转录得到cDNA，以葡萄管家基因ubiquitin（AY684131.1）为内参基因对葡萄叶片、根部的CBF4基因表达水平进行分析，根据TAKARASYBRGREEN试剂盒说明书进行qRT-PCR反应液的配制，在定量PCR仪器上进行试验，所有试样重复3次，qRT-PCR 生成的数据由定量分析软件读取，采用 $2 ^ { - \\Delta \\Delta \\mathrm { C T } }$ 法对所得数据进行分析。根据基因序列设计引物，得到引物序列（表1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/343760c87e91f694eba9a096960fde1bdfecae713f1bee25bcf376b87a32a54d.jpg",
+        "table_caption": [
+            "表1引物序列及退火温度",
+            "Table 1 Primer sequence and annealing temperature "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>引物 Primer</td><td>正向 Positive</td><td>反向 Reverse</td><td>退火温度 Annealing temperature(C)</td></tr><tr><td>CBF4</td><td>5'-AAGTGGGTATGCGAGGTAAG-3</td><td>5'-TTCTGAATGTCCTTGGCG-3'</td><td>60</td></tr><tr><td>ubiquitin</td><td>5'-GGCTTGGGAGATGGGAAAC-3'</td><td>5'-TCCTACAATACCACCAAACATAGCA-3'</td><td>60</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5数据处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用Origin9 和 SPSS22.0 软件进行数据处理和分析，运用Duncan双因素方差分析每个处理之间的差异显著性（ $\\scriptstyle { \\mathrm { ( a = 0 . 0 5 ) } }$ ）",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1蛋白质结构分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.1一级结构",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对 CBF4 蛋白的理化性质分析得葡萄CBF4 蛋白的分子式为 $\\mathrm { C _ { 1 0 4 5 } H _ { 1 6 3 1 } N _ { 3 1 1 } O _ { 3 2 6 } S _ { 1 4 } }$ ，由表2可知葡萄CBF4蛋白相对分子量为 $2 4 . 2 2 \\mathrm { k D }$ ，理论等电点（pI）为5.42；不稳定系数51.89，总平均亲水性-0.621，表明该蛋白为不稳定的亲水性蛋白；脂肪系数61.83，表明脂溶性比较差。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/3c4af89c15d01e85187fc06c2a6c709e48b62dedbedf9da230cd9a2386107bc2.jpg",
+        "table_caption": [
+            "表2CBF4蛋白氨基酸理化性质",
+            "Table 2 Physical and chemical properties of amino acids in CBF4 protein "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"8\">Tabie Bicui lenmcarpr</td></tr><tr><td>基因</td><td>相对分子质量 Molecular weight</td><td>理论pI值 Theoretical pI</td><td>正电荷残 基数 Arg +Lys</td><td>负电荷残 基数 Asp + Glu</td><td>不稳定系数 Instability index</td><td>脂肪系数 Aliphatic index</td><td>总平均亲水性 Grand average hydropathicity</td></tr><tr><td>CBF4</td><td>24.22</td><td>5.42</td><td>27</td><td>34</td><td>51.89</td><td>61.83</td><td>-0.621</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，葡萄CBF4蛋白的20种氨基酸中，Ala 含量最多（ $1 1 . 0 \\%$ )，其次为Arg（ $8 . 7 \\%$ ）与Asp( $8 . 3 \\%$ ),氨基酸含量最小的是Gln $(0 . 9 \\% )$ 。其中极性氨基酸占 $56 . 9 \\%$ ，非极性氨基酸占 $4 3 . 1 \\%$ 。表3CBF4蛋白氨基酸组成分析",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/29f2e853e9779d0088463099e6d9bceb46fa937def474ed85c114a92e9b1ad08.jpg",
+        "table_caption": [
+            "Table3Analysis of amino acid composition of CBF4 protein "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>氨基酸组成 Amino acid composition</td><td>百分比 Percentage (%)</td><td>氨基酸组成 Amino acid composition</td><td>百分比 Percentage (%)</td></tr><tr><td>Ala (A)</td><td>11.0</td><td>Val (V)</td><td>6.4</td></tr><tr><td>Arg (R)</td><td>8.7</td><td>Tyr (Y)</td><td>1.8</td></tr><tr><td>Asn (N)</td><td>4.1</td><td>Trp (W)</td><td>2.3</td></tr><tr><td>Asp (D)</td><td>8.3</td><td>Thr (T)</td><td>3.7</td></tr><tr><td>Cys (C)</td><td>1.4</td><td>Ser (S)</td><td>7.3</td></tr><tr><td>Gln (Q)</td><td>0.9</td><td>Pro (P)</td><td>7.3</td></tr><tr><td>Glu (E)</td><td>7.3</td><td>Phe (F)</td><td>2.8</td></tr><tr><td>Gly (G)</td><td>6.9</td><td>Met (M)</td><td>5.0</td></tr><tr><td>His (H)</td><td>2.8</td><td>Lys (K)</td><td>3.7</td></tr><tr><td>Ile (1)</td><td>1.4</td><td>Leu (L)</td><td>6.9</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2二级结构",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "蛋白二级结构预测（图1)，该蛋白二级结构主要是无规则卷曲，其次是 $\\mathbf { \\boldsymbol { a } } .$ -螺旋，其中所占比例分别为 $5 6 . 8 8 \\%$ 和 $2 7 . 5 2 \\%$ ，延伸链占比为 $1 3 . 7 6 \\%$ ， $\\beta$ -转角占比最小（ $1 . 8 3 \\%$ )。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d81115c37de16cefbacb84073239848f8521084768b0760f4e04b8b5daaa3632.jpg",
+        "img_caption": [
+            "图1CBF4基因编码蛋白二级结构预测结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { \\boldsymbol { a } }$ 螺旋(h)； ${ \\mathfrak { \\beta } }$ -转角(t)；无规则卷曲(c)；延伸链（e)。   \nAlpha-helix (h)；Beta turn(t)；Random coil (c)；Extended chain (e). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "rig.1 rieuicuol iesuis Ul uie secolual y suuctuie Ul uic UDr4 gene cHcoueu pIote通过ProtScale 分析CBF4蛋白质亲/疏水性（图2)，预测结果说明整条多肽链没有明显的疏水区域。跨膜域的预测结果（图3）显示，CBF4蛋白是一个膜外蛋白，没有发现跨膜螺旋区域，这与没有明显疏水区域的预测结果一致。利用 SignaIP4.0在线工具预测分析信号肽，对于CBF4蛋白(图4)，总结分析得到预测的目的蛋白中不存在信号肽。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/739b991a1f32f0fb04f0eefc3b25ba7d60ac44fe02406b95c96555983e5b1b1b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e82e8b91b3b55aa16509c1eec521f57c145873ac85b9a2596e12d8e6705cb6f1.jpg",
+        "img_caption": [
+            "Fig.2 Analysis of the affinity and hydrophobicity of CBF4 protein ",
+            "图3CBF4蛋白质跨膜区结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a71f40d3ec15e636d5df4cb99e7dd0b27f71f2aa9e33f915e7f365a5eb7c366.jpg",
+        "img_caption": [
+            "图2CBF4蛋白亲疏水性分析",
+            "Fig.3Results of CBF4 protein transmembrane region ",
+            "图4CBF4蛋白信号肽结果Fig. 4 Results of CBF4 protein signal peptides"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.3磷酸化位点和糖基化位点预测 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分别通过 KinasePhos 和 NetOGlyc 4.0预测葡萄CBF4蛋白的磷酸化和糖基化位点，表明该蛋白含有5个磷酸化位点（图5）和14个糖基化位点。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b3e5725fe24dfadd1a6e52f5e56598a246479d9e0119e7c923fbdb0edcd8b6e9.jpg",
+        "img_caption": [
+            "图5磷酸化位点预测结果",
+            "Fig. 5 Results of phosphorylation site prediction "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.4CBF4蛋白的细胞定位",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过PSORT Prediction 预测葡萄CBF4蛋白的细胞定位，结构显示该蛋白定位在细胞核内，因此可以推断，葡萄CBF4基因主要在细胞核内发挥生物学作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.5结构域预测 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "应用NCBI中的CDD数据库预测葡萄CBF4蛋白的保守结构域，预测结果（图6）显示葡萄CBF4蛋白的氨基酸序列的第57位至第115位为AP2超家族结构域，在进化上非常保守，该结构域对蛋白功能的发挥非常重要。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c33078f89c2f8a1993f5d73e83d40a24dbc8a023353fc9b03871e3248ac177bd.jpg",
+        "img_caption": [
+            "图6结构域预测结果Fig.6Results of domain prediction",
+            "图7蛋白三级结构的预测"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.6三级结构预测",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过同源建模方法构建葡萄CBF4 基因蛋白的三级结构（图7)，结果显示该蛋白三级结构主要由 $\\mathbf { \\boldsymbol { a } } .$ -螺旋和无规则卷曲折叠形成，其预测结果和二级结构相一致。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "& ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.7 Projection of tertiary structure of protein ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2CBF4蛋白进化树构建及多序列比对分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将葡萄CBF4基因的序列与同一物种及其他相近物种的序列进行比对分析（图8)，结果显示酿酒葡萄与美洲葡萄同源性最高，为 $9 9 . 6 2 \\%$ ，与洋蓟、短脚草、爬山虎、弼猴桃、白桦、花生、茶花、赤藓和咖啡同源性分别为 $9 9 . 6 4 \\%$ 、 $9 2 . 7 8 \\%$ 、 $9 3 . 3 1 \\%$ 、 $8 5 . 7 1 \\%$ 、 $8 1 . 5 5 \\%$ 、 $8 1 . 2 3 \\%$ 、 $8 0 . 1 3 \\%$ 、 $78 . 5 1 \\%$ 和 $7 5 . 4 9 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d61ed253327c124dac10f9fcb4b7581c5d57c031bd50464a32785d7910add222.jpg",
+        "img_caption": [
+            "图8多序列比对结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig. 8 Results of multiple sequence alignment ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "葡萄CBF4基因与13种同物种和相近物种同源序列的系统进化树如图9所示，酿酒葡萄与美洲葡萄的关系最密切，其次是河岸葡萄、山葡萄、沙地葡萄、洋蓟、爬山虎、短脚草，与猕猴桃、茶花、白桦、花生、赤藓、咖啡关系较远，遗传距离也随之增加。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/82aaf9a3d8e9eec62a3e3aa3f33a9355649ecdcd4d436fb7a674a79b2ddeb0de.jpg",
+        "img_caption": [
+            "图9系统进化树构建结果",
+            "Fig.9 Results of system evolution tree construction "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3葡CBF4基因在低温胁迫下的表达",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "葡萄水培苗经低温胁迫处理后，CBF4基因的表达结果显示，低温胁迫下葡萄叶片CBF4基因随低温处理时间延长相对表达水平显著上调，低温胁迫3、9h的上调幅度分别为对照的1.209倍、13.812倍；施加外源硅后常温条件下CBF4基因表达水平上调但差异不显著，低温条件下CBF4基因表达水平下调（图10：A)。在相同处理时间内，低温胁迫相对常温比较葡萄根部相对表达水平下调，3、9h的下调幅度分别为对照的0.573倍、0.422倍；在常温及低温条件下，施硅处理较对照CBF4基因表达均上调（图10：B)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A．叶片；B.根部。不同小写字母代表差异显著（ $\\scriptstyle P < 0 . 0 5 .$ 。A.Leaves;B.Roots.Different small letters indicate significant differences $( P { < } 0 . 0 5 )$ 1：",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/4a410b219be32eeb05f6f242fe70eca83b945d4fc05d40a34a0820b3e8820675.jpg",
+        "img_caption": [
+            "图 $1 0 \\ : C B F 4 \\$ 基因在低温胁迫下的表达分析",
+            "Fig.10 Expression analysis of CBF4 gene under low temperature stress "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论与结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "植物受到逆境胁迫会使植物在生长发育、形态建成、物质和能量代谢等方面发生一系列的变化。相比于传统育种，利用生物信息学能够快速准确的探索植物抗逆基因资源，克隆相关基因并且利用相关基因提高植物抗逆性（贾翠翠，2015）。酿酒葡萄的种植会受到冷冻、干旱和高盐的限制，低于-20℃的温度会对葡萄树造成不可逆转的损害，影响许多葡萄栽培种的产量，降低种植者收入，若将相关抗性基因克隆并转入酿酒葡萄中，则可以显著提高酿酒葡萄的产量。目前，对于CBF 转录因子的研究较为深入和广泛，该转录因子在植物非生物胁迫方面发挥着重要作用（Feng et al.,2011;Novillo et al.,2012）。研究发现At CBF1基因在马铃薯中超表达，能够增强马铃薯的抗寒性(Pino etal.,2008)。将欧洲越桔中的CBF1基因在拟南芥中超表达可增强其抗寒性(Oakenfull etal.,2013)。综上所述，CBF基因参与了植物体低温胁迫的响应，这与本研究结果保持一致。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过分析可知，葡萄CBF4 蛋白氨基酸组成中极性氨基酸占 $56 . 9 \\%$ ，非极性氨基酸占 $4 3 . 1 \\%$ ，CBF4 蛋白无信号肽，是一个不稳定的、亲水的、脂溶性较差的膜外蛋白，与极性氨基酸所占比例一致。采用 SOPMA及SWISS-MODEL分别预测CBF4 蛋白二级和三级结构，表明该蛋白主要结构单元是无规则卷曲，其次是 $\\mathbf { \\alpha } _ { \\mathrm { ~ \\mathfrak { a } . ~ } }$ -螺旋，其中所占比例分别为 $56 . 8 8 \\%$ 和 $2 7 . 5 2 \\%$ ，该结果为研究CBF4基因及其编码产物的结构和功能提供了更多的信息。CBF4蛋白的多序列和系统进化分析表明，酿酒葡萄与美洲葡萄的同源性最高、亲缘关系最近，这种同源性一方面体现出各物种间亲缘关系的远近，另一方面也表明多个不同物种的CBF4 基因编码产物在结构特征中比较稳定，保守性较高。通过对葡萄CBF4蛋白的结构域分析得到，葡萄CBF4包含一个AP2/EREBP 结构域，属于AP2型DNA保守结合大家族中的CBF/DREB 家族，具有该家族典型的特征，含有YRG 元件和 WLG 基序，具有高度保守性，该结构域对编码蛋白功能发挥着极其重要的作用，可调节植物抵御低温和干旱相关基因的表达，推测CBF4基因与植物逆境胁迫可能密切相关（韩志萍等，2006；邵文靖等，2020），这说明CBF4在葡萄的抗逆性中有着非常重要的作用，具有深入研究的价值。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "低温能够诱导大多数植物体内的CBF基因表达，如山葡萄在寒冷、盐度、脱落酸和水杨酸处理下，CBF4 转录本积累增加(Dong et al.,2013)。在葡萄树中，CBF4 基因通常是通过冷处理诱导的，低温条件下葡萄CBF4 转录水平相对快速地增加，并且可以在叶片中保持好多天（Xiao et al,2010）。本研究分析表明，发现CBF4基因低温胁迫3、9h在葡萄叶片中表达水平显著上调，可能是因为CBF 转录激活因子与CRT/DRE 调控元件特异性结合，激活启动子中目的基因表达，说明CBF4基因可能参与了葡萄叶片响应外界冷胁迫的信号途径，因此推测出CBF4基因可能参与了葡萄叶片低温胁迫的响应。低温条件下施加硅酸钾，在葡萄叶片中的表达下调，而在葡萄根部表达上调，可能是因为葡萄根部对低温和硅酸钾交互作用比较敏感，揭示了该基因在不同的葡萄组织中对硅酸钾的响应机制可能不同。目前应对低温伤害的方法中使用外源物质提高作物抗性的方法更为简单，并且效果显著，为了防止葡萄受到低温伤害，应该在根部追施硅肥，该研究进一步为施用外源硅提高葡萄抗寒性提供理论依据。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究对CBF4基因编码的蛋白进行全面的生物信息学及低温和硅酸钾响应分析，结果显示低温胁迫后CBF4基因在葡萄叶片中表达水平上调，说明CBF4基因可能参与了葡萄叶片低温胁迫的响应。低温条件下施加硅酸钾后，CBF4基因在不同的葡萄组织中对硅酸钾的响应不同，说明该基因表达具有组织特异性。本研究对深入了解CBF4 基因在葡萄非生物逆境胁迫中的功能，分析CBF4蛋白对植物抗逆的分子机制，以及深入探究外源硅对葡萄抗寒调节机理，为甘肃乃至北方酿酒葡萄抗寒栽培提供理论基础和实践指导。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：   \nDONG C, ZHANG M, YU Z, et al., 2013. Isolation and expresson analysis of CBF4 from Vitis amurensis associated with stress[J]. Agric Sci, 4(5): 224-229.   \nDONG YR, WANG YM, WANG XY, 2017. Advances on plant resistance of DREB/CBF transcription factor[J]. Shandong Agric Sci,49 (10):139-142.[董亚茹，王应民，王向誉，2017.DREB/CBF 转录因 子植物抗逆性研究进展[J]．山东农业科学，49(10)：139-142.]   \nFENG Q, KAZUO S, KAZUKO YS, et al., 2011. Achievements and chalenges in understanding plant abiotic stress responses and tolerance[J]. Plant Cell Physiol, 52(9): 1569-1582.   \nHAAKE V, 2O02. Transcription factor CBF4 is a regulator of drought adaptation in Arabidopsis[J]. Plant Physiol, 130(2): 639-648.   \nHAN ZP, AN LJ, HOU HS,2O06. The structure and function of AP2/EREBP transcription factors[J]. Chin Agric Sci Bull,(3):33-38.[韩志萍，安利佳，侯和胜，2006.AP2/EREBP 转录因子的结构与功能[J]. 中国农学通报，(3)：33-38.]   \nJIA CC,2015. Isolation of LcGGPS and LcGS genes from Lycium barbarum and functional analysis of the genes for abiotic stresstolerance[D].Tianjin: Tianjin University.[贾翠翠,2015.枸杞 LcGGPS 和 LcGS 基因的克隆及抗逆功能分析[D]．天津：天津大学.]   \nKIDOKORO S,WATANABE K, OHORI T, et al., 2014. Soybean DREB1/CBF-type transcription factors function in heat and drought as well as cold stress-responsive gene expression[J]. Plant J,81(3): 505-518.   \nLIU P, YIN LN,WANG SW, et al., 2O14. The effect and mechanism of silicon on sorghum seedlings growth under cadmium stress[J].Res Soil Water Conserv,21(6): 329-333.[刘朋，殷俐娜，王仕稳，等, 2014．镉胁迫下硅对高梁生长的影响及其作用机制[J]．水土保持研究，21(6)：329-333.]   \nLU SN, SHENG JP, ZHAO DY,et al., 2011. Advances of plant cold-resistance pathway regulated by CBF gene[J].Acta Bot Sin,31(6):1275-1281.[吕胜男，生吉萍，赵丹莹，等，2011.CBF基因调控植物 抗冷径途的研究进展[J]．西北植物学报，31(6)：1275-1281.]   \nMICHAEL F, SARAH J, ERIC J,2010.Role of the Arabidopsis CBF transcriptional activators in cold acclimation[J]. Plant Physiol, 112: 171-175.   \nNOVILLO F, JOAQUIN M, MARTA RF, et al.， 2012. Genetic analysis reveals a complex regulatory network modulating CBF gene expression and Arabidopsis response to abiotic stress[J]. JExp Bot, 63(1): 293-304.   \nNOVILLO F, JOSE M,ECKER JR,et al.,2004. CBF2/DREB1C is a negative regulator of CBF1/DREB1B and CBF3/DREB1A expression and plays a central role in stress tolerance in Arabidopsis[J]. Proc Natl Acad Sci USA,101(11): 85-90.   \nOAKENFULL RJ,ROBERT B,KNIGHT MR,et al.， 2013.A c-repeat binding factor transcriptional activator (CBF/DREB1) from European bilberry (Vaccinium myrtillus) induces freezing tolerance when expressed in Arabidopsis thaliana[J]. PLoS ONE, 8(1): e54119.   \nPINO MT, SKINNER JS, ZORAN J, et al.， 2008. Ectopic AtCBF1 over-expresson enhances freezing tolerance and induces cold acclimation-associated physiological modifications in potato[J]. Plant Cell Environ, 31: 393-406.   \nREN XK,HU YF, ZHANG HY, et al., 2007. Research on the physiological effect of biological silicon fertilizer on cold regions rice[J]. Chin Agric Sci Bull,(3):284-288.[任学坤，胡远富，张合豫,等,2007. 寒地水稻对生物硅肥的生理效应[J]．中国农学通报，(3)：284-288.]   \nSHA LN,2OO9. Study on tobacco transformation of CBF4 transcription factor and stress tolerance[D]. Daqing: Heilongjiang Bayi Agricultural University.[沙丽娜，2009.CBF4 转录因子的烟草转化和抗逆 性研究[D]．大庆：黑龙江八一农垦大学.]   \nSHAO WJ，AO TGBY,LANG ML，2020.Research advances on the mechanism of AP2/ERF transcriptional factors in response to abiotic stresses in plants[J]. Mol Plant Breed,18(15): 4981-4988. [邵文靖，敖特根白音，郎明林，2020.AP2/ERF转录因子对植物非生物胁迫的应答机制研究进展 [J]．分子植物育种，18(15）：4981-4988.]   \nXIAO H, TATTERSALL EAR, SIDDIQUA MK,et al., 2010. CBF4 is a unique member of the CBF transcription factor family of Vitis vinifera and Vitis riparia[J].Plant Cell Environ,31(1): 1-10.   \nYUASA T, NAKAMURA J, ISHIBASHI Y, et al., 2014. Tomato inducer of CBF expresson 1 (SIICE1) is involved in cold and salt stress signaling[J]. Am J Exp Agric, 4(7): 785-796.   \nZHANG S,LI N,GAO F, et al.， 2010. Over-expression of TsCBFl gene confers improved drought tolerance in transgenic maize[J]. Mol Breed, 26(3): 455-465.   \nZHENG KX，WANG WT,LIU WY, et al.， 2020. Exogenous silicon regulated the physiological characteristics of grapes responses to low temperature stress[J].Mol Plant Breed,18(3):1013-1019.[郑 凯翔，王旺田，刘文瑜，等，2020．外源硅调控葡萄生理特性对低温胁迫的响应[J]．分子植物育种， 18(3): 1013-1019.]   \nZHENG SY, ZHENG F， XU J，et al.，2015.Effect of silicon on the biomass and photosynthetic characteristics of wheat seedlings under NaCl stress[J]. J Triticeae Crops,35(1):111-115.[郑世英，郑 芳，徐建，等，2015．外源硅对 NaCl胁迫下小麦幼苗生长及光合特性的影响[J]．麦类作物学报， 35(1): 111-115.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

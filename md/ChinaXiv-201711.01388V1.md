@@ -1,0 +1,213 @@
+饲粮中添加苜蓿草粉对生长猪结肠微生物区系及其代谢产物的影响王嘉为」张蕾²祝皎月²王宇波²尹靖东 2\* 朱伟云1\*（1.南京农业大学动物科技学院，消化道微生物实验室，南京 210095；2.中国农业大学动物科技学院，动物营养学国家重点实验室，北京100193）
+
+摘要：本试验旨在研究苜蓿草粉来源的不可溶性纤维对生长猪结肠微生物区系及其发酵代谢产物的影响。试验选用24头（ $2 4 . 8 { \pm } 0 . 7 \ .$ ） $\mathbf { k g }$ 的杜 $\times$ 长 $\mathbf { \nabla } \cdot \mathbf { \times }$ 大去势公猪，随机分为4组，分别饲喂含0（对照组）、 $5 \%$ 、 $10 \%$ 和 $1 5 \%$ 苜蓿草粉的饲粮，每组6个重复，每个重复1头猪。试验 $2 8 { \mathrm { ~ d ~ } }$ 后屠宰取样，测定血清脂肪酸组成、结肠食糜短链脂肪酸浓度及微生物组成。结果发现：饲喂苜蓿草粉显著降低了生长猪的料重比（ $. P { < } 0 . 0 5 \ '$ ，但对平均日增重和平均日采食量无显著影响（ $. P { > } 0 . 0 5 )$ ；结肠微生物菌群16SrDNAV3区测序结果表明，首蓿草粉对猪结肠微生物区系无显著影响（ $( P { > } 0 . 0 5 )$ ，但显著增加了结肠食糜中总短链脂肪酸、乙酸和丁酸的浓度 ( $. P { < } 0 . 0 5 )$ ；随着饲粮中苜蓿草粉含量的增加，血清多不饱和脂肪酸含量显著提高（ $P { < } 0 . 0 5$ ），而饱和脂肪酸和单不饱和脂肪酸含量显著下降（ $P { < } 0 . 0 5$ ）。结果提示：苜蓿草粉来源的不可溶性纤维不影响结肠微生物菌群结构，但增强了结肠微生物的发酵活动和短链脂肪酸的产生，具有调节猪机体脂肪酸组成的作用。
+
+关键词：生长猪；苜蓿草粉；不可溶性纤维；短链脂肪酸；结肠微生物区系；脂肪酸中图分类号：S811.6
+
+膳食纤维在人类健康与畜牧生产中发挥着越来越重要的作用[I-2]，但是不同种类的纤维对机体的调控作用不尽相同。苜蓿常被当作优质青绿饲料补充给散养的猪，特别是常用作饲料纤维来源预防母猪便秘，而本研究的开展则有助于将苜蓿草开发为一种健康的和高附加值的不可溶膳食纤维产品，以改善人和猪的营养和健康。饲粮中的纤维可以在猪后肠道被厌氧菌发酵，并主要产生乙酸、丙酸和丁酸等短链脂肪酸（SCFA）等代谢产物[3-4]。到目前为止，关于膳食纤维的研究报道多集中在菊粉、瓜尔豆胶、阿拉伯木聚糖等可溶性纤维上[5-8]。养猪生产中苜蓿草粉常被用作猪饲粮中的纤维来源，但是苜蓿草粉中占总纤维 $94 \%$ 的不可溶性纤维[9]，对猪结肠食糜微生物菌群结构及其发酵产物的影响尚未见报道。因此，本研究通过在饲粮中添加不同比例的苜蓿草粉，研究不可溶性纤维对生长猪生长性能、结肠食糜微生物区系及其代谢产物和血清脂肪酸组成的影响，旨在研究饲粮中的不可溶性纤维是否可以改变结肠微生物菌群和微生物发酵代谢产物。
+
+# 1材料与方法
+
+# 1.1试验动物与试验设计
+
+本试验在农业部饲料工业中心丰宁动物试验基地进行。试验选取24头60 日龄、体重为$( 2 4 . 8 { \pm } 0 . 7 \$ ）kg的杜 $\boldsymbol { \times }$ 长 $\times$ 大三元杂交去势公猪，采用单因子完全随机区组设计，分为4个组，首蓿草粉的添加量分别为0（对照组）、 $5 \%$ 、 $10 \%$ 和 $1 5 \%$ ，每个组6个重复，每个重复1头猪。在正式试验开始前适应3d，正试期为 $2 8 { \mathrm { ~ d ~ } }$ 。试验期间每头猪饲养于代谢笼中，每天08:00 和16:00 各饲喂1次，自由采食和饮水。猪舍每天清扫2次，定期消毒。
+
+饲粮配方根据NRC（2012）标准中推荐的生长猪（ $2 5 { \sim } 5 0 \mathrm { k g }$ ）营养需要量设计和配制，饲粮中净能水平和所有必需氨基酸的回肠标准可消化氨基酸均满足生长猪的需要。对照组和试验组饲粮组成及营养水平见表1。饲粮中不添加抗生素。
+
+# 表1饲粮组成及营养水平(饲喂基础)
+
+Table 1Composition and nutrient levels of the diets (as-fed basis)   
+
+<html><body><table><tr><td>项目 对照 Control</td><td colspan="3">苜蓿草粉添加水平 Alfalfa meal supplemental level/%</td></tr><tr><td>Items</td><td>5</td><td>10</td><td>15</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td></tr><tr><td>玉米Corn</td><td>71.10</td><td>64.97</td><td>58.00 52.54</td></tr><tr><td>豆粕 Soybean meal</td><td>25.00 24.60</td><td>25.00</td><td>24.00</td></tr><tr><td>苜蓿草粉Alfalfa meal</td><td>0.00</td><td>5.00</td><td>10.00 15.00</td></tr><tr><td>豆油 Soybean oil</td><td>0.52</td><td>2.20 3.99</td><td>5.58</td></tr><tr><td>石粉 Limestone</td><td>1.16</td><td>1.00</td><td>0.88 0.72</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>0.70</td><td>0.70</td><td>0.65 0.65</td></tr><tr><td>L-赖氨酸盐酸盐 L-Lys·HC1</td><td>0.24</td><td>0.24 0.21</td><td>0.22</td></tr><tr><td>L-苏氨酸L-Thr</td><td>0.08</td><td>0.08 0.06</td><td>0.07</td></tr><tr><td>DL-蛋氨酸DL-Met</td><td>0.07</td><td>0.08 0.08</td><td>0.09</td></tr><tr><td>L-色氨酸L-Try</td><td>0.02</td><td>0.02 0.02</td><td>0.02</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>预混料 Premix1)</td><td>1.11</td><td>1.11</td><td>1.11</td><td>1.11</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td><td></td></tr><tr><td>干物质 DM</td><td>88.25</td><td>88.71</td><td>89.24</td><td>89.75</td></tr><tr><td>净能 NE/(MJ/kg)</td><td>10.36</td><td>10.36</td><td>10.36</td><td>10.36</td></tr><tr><td>粗蛋白质CP</td><td>16.93</td><td>17.54</td><td>17.89</td><td>17.61</td></tr><tr><td>可溶性纤维 SDF</td><td>1.82</td><td>1.51</td><td>2.04</td><td>2.18</td></tr><tr><td>不可溶性纤维IDF</td><td>12.66</td><td>13.02</td><td>14.82</td><td>16.80</td></tr><tr><td>总纤维 TDF</td><td>14.48</td><td>14.52</td><td>16.86</td><td>18.98</td></tr><tr><td>赖氨酸Lys</td><td>1.12</td><td>1.16</td><td>1.11</td><td>1.17</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.60</td><td>0.64</td><td>0.65</td><td>0.71</td></tr><tr><td>色氨酸Try</td><td>0.18</td><td>0.20</td><td>0.19</td><td>0.18</td></tr><tr><td>苏氨酸 Thr</td><td>0.76</td><td>0.80</td><td>0.77</td><td>0.80</td></tr></table></body></html>
+
+1)预混料为每千克饲粮提供 The premix provided the folowing per kg of the diet：VA20 000 IU，VD 2000 IU，VE 40 IU, $\mathrm { V K } _ { 3 } 2 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 2 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 4 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 3 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 6 \ : \mathrm { m g }$ ，烟酸 nicotinic acid 20mg，泛酸 pantothenic acid $1 2 \mathrm { m g }$ ，叶酸 folic acid $1 . 6 0 \mathrm { m g }$ ，生物素 biotin $0 . 1 4 ~ \mathrm { m g }$ ，Fe $7 6 . 5 0 \mathrm { m g }$ ，Cu 140mg， Zn 50 mg, $\mathrm { M n \ 1 9 . 5 0 \ m g }$ ， $\mathrm { ~ I 0 . 5 0 m g }$ ，Se $0 . 4 0 \mathrm { m g }$ ，氯化钠 $\mathbf { N a C l } 3 \mathbf { g }$ ，抗氧化剂 antioxidants $0 . 0 5 \mathrm { m g }$ ，氯化胆碱 choline chloride $1 . 2 0 \ \mathrm { g }$ ，甜味剂 sweetener $0 . 1 \ \mathrm { g }$ ，香味剂feed flavor $0 . 0 8 ~ \mathrm { g }$ ，植酸酶 phytase 0.10g。
+
+2)净能为计算值，其余为实测值。NE was a calculated value and the others were measured values.
+
+# 1.2屠宰与样品采集
+
+在正式试验的第28天，每头试验猪前腔静脉采血，制备血清，置于一 $2 0 \ \mathrm { { ^ \circ C } }$ 保存，用来分析其脂肪酸组成。将称重后的试验猪全部屠宰，打开腹腔，分离结肠，采取结肠食糜用来测定 SCFA 的浓度和微生物组成。
+
+# 1.3 生长性能测定
+
+分别在正式试验开始时和第 28 天对每头试验猪进行称重，计算平均日增重（averagedaily gain,ADG)；并记录每头试验猪的采食量，计算平均日采食量（average daily feedintake,ADFI）和料重比（feed/gain,F/G）。
+
+# 1.4结肠食糜 SCFA浓度的测定
+
+将食糜样品解冻后取 $\mathrm { ~ 1 ~ g ~ }$ ，加入 $3 \mathrm { m L } 5 0 \mathrm { m m o l / L }$ 硫酸溶液， $4 \mathrm { { ^ \circ C } }$ 静置 $3 0 \mathrm { m i n }$ ， $2 0 0 0 0 \times g$
+
+离心 $1 0 \mathrm { m i n }$ ，将上清液过滤到进样小瓶中，通过气相色谱对 SCFA浓度进行分析。色谱柱长$3 0 \mathrm { m }$ ，内径 $0 . 3 2 \mathrm { m m }$ ，膜厚度 $0 . 5 \mu \mathrm { m }$ ；进样器和探测器温度分别为260 和 $2 8 0 ^ { \circ } \mathrm { C }$ ；载气为氮气，流速为 $2 . 5 ~ \mathrm { { m L / m i n } }$ 。
+
+# 1.5结肠食糜微生物区系分析
+
+采用美国 Mobio 公司Power SoilDNAIslation Kit提取 $1 0 0 ~ \mathrm { { m g } }$ 样品基因组DNA，具体步骤按说明书操作。将提取的DNA作为模板，PCR扩增 16S rDNAV3 高变区。引物序列为上游：338-CCTACGGGAGGCAGCAG-355；下游：502-ATTACCGCGGCTGCTGG-518。PCR扩增体系（ $2 5 ~ \mu \mathrm { L } )$ )： $2 \times$ Master Mix $1 2 . 5 ~ \mu \mathrm { L }$ ，上、下游引物各 $1 . 5 ~ \mu \mathrm { L }$ ，DNA 模板 $2 . 5 ~ \mu \mathrm { L }$ ，无菌双蒸水 $7 \mu \mathrm { L }$ 。PCR扩增条件为： $9 4 \mathrm { ~ \textdegree ~ { ~ } ~ } 5 \operatorname* { m i n }$ ， $9 4 ~ \mathrm { ^ { \circ } C }$ 30 s， $4 8 \mathrm { ~ \textdegree ~ } 3 0 \mathrm { ~ s ~ }$ ， $7 2  { \mathrm { ~ \circ ~ } } _ { \mathrm { ~ C ~ } 3 0 \mathrm { ~ s ~ } }$ ，25个循环，最后 $7 2 \ \mathrm { { ^ \circ C } }$ 延伸 $1 0 \mathrm { m i n }$ ， $4 \mathrm { { ^ \circ C } }$ 保存。将纯化后的 PCR产物进行 Illumina MiSeq 测序。
+
+将测序数据与已有的16S rDNA 数据库进行比对分析，去掉带接头的、低质量的序列。使用QIIME 软件对每个样品的序列进行统计，然后使用UCLUST软件根据序列相似性水平$9 7 \%$ 进行聚类，得到操作分类单元（operational taxonomic unit，OTU）序列。基于OTU 在门和属2个分类水平上统计样本的物种丰度。
+
+# 1.6血清中脂肪酸组成的分析
+
+取 $1 \mathrm { m L }$ 血清样品于水解管中，加入 $4 \mathrm { m L }$ 氯乙酰/甲醇溶液和1mLC11:0内标溶液（1.0$\mathrm { m g / m L }$ )，拧紧旋盖后 $8 0 ~ \mathrm { ^ { \circ } C }$ 水浴 $^ { 2 \mathrm { h } }$ ，待溶液冷却后加入 $5 \mathrm { m L } 7 \%$ 碳酸钾溶液中和反应，将脂相溶液吸取到进样小瓶中，通过气相色谱对脂肪酸组成进行分析。色谱柱长 $6 0 \mathrm { ~ m ~ }$ ，内径$0 . 2 5 \mathrm { m m }$ ，膜厚度 $0 . 2 5 \mu \mathrm { m }$ ；进样器和探测器温度分别为260 和 $2 7 0 \mathrm { ^ \circ C }$ ；载气为氮气，流速为2 mL/min。
+
+# 1.7 数据统计分析
+
+SCFA 和脂肪酸数据经过Excel2013 整理后，利用 SAS9.3统计软件中GLM过程进行方差分析。微生物相对丰度数据利用曼-惠特尼 $U$ 检验进行分析。 $P { < } 0 . 0 5$ 为差异显著，$0 . 0 5 { < } P { < } 0 . 1 0$ 为有差异显著趋势。
+
+# 2结果与分析
+
+# 2.1苜蓿草粉对生长猪生长性能的影响
+
+由表2可知，本试验条件下饲粮中添加苜蓿草粉对生长猪末重、ADG 和ADFI均无显著影响 （ $P { > } 0 . 0 5 \rangle$ )，但与对照组相比，添加苜蓿草粉极显著降低了F/G（ $P { < } 0 . 0 1$ )，而各试验组之间F/G无显著差异（ $P { > } 0 . 0 5 )$ 。
+
+# 表2首蓿草粉对生长猪生长性能的影响
+
+Table 2Effects of alfalfa meal on the growth performance of growing pigs   
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2">苜蓿草粉添加水平 Alfalfa meal supplemental level/%</td><td rowspan="2"></td><td colspan="3">P值</td></tr><tr><td>标准误</td><td>P-value</td><td></td></tr><tr><td>Items</td><td>对照 Control</td><td>5</td><td>10</td><td>15</td><td>SEM</td><td>线性</td><td>二次</td></tr><tr><td>始重 Initial BW/kg</td><td>25.13</td><td></td><td>24.72</td><td>24.58</td><td></td><td>Linear</td><td>Quadratic</td></tr><tr><td></td><td></td><td>24.70</td><td></td><td></td><td>0.20</td><td>0.08</td><td>0.46</td></tr><tr><td>末重Final BW/kg</td><td>46.52</td><td>46.48</td><td>46.58</td><td>46.02</td><td>0.91</td><td>0.74</td><td>0.77</td></tr><tr><td>平均日增重 ADG/g</td><td>712</td><td>726</td><td>728</td><td>714</td><td>14</td><td>0.91</td><td>0.36</td></tr><tr><td>平均日采食量 ADFI/g</td><td>1438</td><td>1406</td><td>1410</td><td>1368</td><td>24</td><td>0.08</td><td>0.85</td></tr><tr><td>料重比F/G</td><td>2.04a</td><td>1.94b</td><td>1.95b</td><td>1.93b</td><td>0.02</td><td><0.01</td><td>0.09</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ 。下表同。
+
+In the same row, values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ . The same as below.
+
+# 2.2苜蓿草粉对生长猪结肠食糜SCFA浓度的影响
+
+由表3可知，苜蓿草粉可显著增加总 SCFA（线性 ${ \cal P } { < } 0 . 0 1$ 、乙酸（线性 $P { < } 0 . 0 1$ ）和戊酸（二次 $P { < } 0 . 0 1$ ）的浓度，以及丁酸、异丁酸、异戊酸和总支链脂肪酸（BCFA）浓度（线性 $P { < } 0 . 0 1$ ；二次 ${ \cal P } { < } 0 . 0 1$ )；丙酸浓度也有增加趋势（线性 ${ \scriptstyle P = 0 . 0 7 }$ )。当首蓿草粉添加量为 $10 \%$ 时，总 SCFA、丙酸、丁酸、戊酸和总BCFA 的浓度最高。
+
+able 3Effects of alfalfa meal on SCFA concentration in colonic digesta mmol/kg
+
+表3苜蓿草粉对生长猪结肠食糜短链脂肪酸浓度的影响  
+
+<html><body><table><tr><td colspan="6">苜蓿草粉添加水平 Alfalfa meal supplemental level/%</td><td colspan="3">F值</td></tr><tr><td>项目</td><td>对照Control</td><td></td><td></td><td></td><td>标准误</td><td colspan="2">P-value</td></tr><tr><td>Items</td><td></td><td>5</td><td>10</td><td>15</td><td>SEM</td><td>线性</td><td>二次</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>Linear</td><td>Quadratic</td></tr><tr><td>总短链脂肪酸Total SCFA</td><td>34.21b</td><td>35.47b</td><td>43.90a</td><td>40.80a</td><td>1.68</td><td><0.01</td><td>0.21</td></tr><tr><td>总支链脂肪酸TotalBCFA</td><td>1.85c</td><td>2.33b</td><td>3.24a</td><td>2.40b</td><td>0.14</td><td><0.01</td><td><0.01</td></tr><tr><td>乙酸Acetate</td><td>18.36b</td><td>17.98b</td><td>21.55a</td><td>22.11a</td><td>1.02</td><td><0.01</td><td>0.65</td></tr><tr><td>丙酸 Propionate</td><td>9.66</td><td>9.27</td><td>10.68</td><td>10.56</td><td>0.47</td><td>0.07</td><td>0.77</td></tr><tr><td>丁酸Butyrate</td><td>3.59c</td><td>4.79bc</td><td>6.94a</td><td>4.82b</td><td>0.40</td><td><0.01</td><td><0.01</td></tr></table></body></html>
+
+<html><body><table><tr><td>戊酸Valerate</td><td>0.75℃</td><td>1.08b</td><td>1.51a</td><td>0.90bc</td><td>0.10</td><td>0.08</td><td><0.01</td></tr><tr><td>异丁酸 Isobutyrate</td><td>0.64c</td><td>0.87bc</td><td>1.32a</td><td>0.94b</td><td>0.08</td><td><0.01</td><td><0.01</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>异戊酸 Isovalerate</td><td>1.21b</td><td>1.45b</td><td>1.92a</td><td>1.46b</td><td>0.10</td><td><0.01</td><td><0.01</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 2.3苜蓿草粉对结肠微生物菌群的影响
+
+由表 4 可知，厚壁菌门(Firmicutes)是最具有优势的菌门，其相对丰度在对照组中为$7 9 . 8 4 \%$ ，在 $10 \%$ 苜蓿草粉添加组中为 $8 1 . 2 8 \%$ 。第二优势菌门为拟杆菌门（Bacteroidetes），其相对丰度在对照组中为 $8 . 3 3 \%$ ，在 $10 \%$ 苜蓿草粉添加组中为 $7 . 5 6 \%$ 。然后相对丰度较高的菌门分别为变形菌门（Proteobacteria）、放线菌门（Actinobacteria）、酸杆菌门（Acidobacteria）和软壁菌门（Tenericutes），其相对丰度在对照组中依次为 $2 . 9 0 \%$ 、 $2 . 6 7 \%$ 、 $1 . 2 0 \%$ 和 $0 . 9 7 \%$ ，在 $10 \%$ 苜蓿草粉添加组中依次为 $1 . 6 1 \%$ 、 $1 . 6 5 \%$ 、 $0 . 3 9 \%$ 和 $2 . 9 0 \%$ 。利用曼－惠特尼 $U$ 检验对对照组与 $10 \%$ 苜蓿草粉添加组的微生物菌群在门和属水平上的相对丰度进行统计分析后发现，相对丰度在 $0 . 1 \%$ 以上的微生物菌群在门和属水平上均无显著变化 （ $( P { > } 0 . 0 5 )$ 。
+
+表4苜蓿草粉对结肠微生物菌群在门和属水平上的相对丰度的影响
+
+Table 4Effects of alfalfa meal on relative abundance of colonic microbiota at the phylum and genus   
+
+<html><body><table><tr><td>levels %</td></tr><tr><td>相对丰度 Relative abundance (>0.1%)</td></tr><tr><td>分类 对照组 10%苜蓿草粉添加组</td></tr><tr><td>Taxa Control group 10% alfalfa meal P-value</td></tr><tr><td>supplemental group</td></tr><tr><td>门水平 Phylum level</td></tr><tr><td>厚壁菌门 Firmicutes 79.84 81.28 0.69</td></tr><tr><td>拟杆菌门 Bacteroidetes 8.33 7.56 0.89</td></tr><tr><td>变形菌门 Proteobacteria 2.90 1.61 1.00</td></tr><tr><td>放线菌门 Actinobacteria 2.67 1.65 0.69</td></tr><tr><td>酸杆菌门 Acidobacteria 1.20 0.39 0.69</td></tr><tr><td>软壁菌门 Tenericutes 0.97 2.90 0.11</td></tr><tr><td>芽单胞菌门 Gemmatimonadetes 0.67 0.19 1.00</td></tr><tr><td>螺旋体门 Spirochaetes 0.48 0.33 0.89</td></tr><tr><td>绿弯菌门 Chloroflexi 0.39 0.13 1.00</td></tr></table></body></html>
+
+<html><body><table><tr><td>疣微菌门 Verrucomicrobia</td><td>0.16</td><td>0.11</td><td>0.89</td></tr><tr><td>浮霉菌门 Planctomycetes</td><td>0.16</td><td>0.06</td><td>0.89</td></tr><tr><td>硝化螺旋菌门 Nitrospirae</td><td>0.13</td><td>0.04</td><td>0.69</td></tr><tr><td>蓝细菌门 Cyanobacteria</td><td>0.13</td><td>0.11</td><td>0.89</td></tr><tr><td>衣原体门 Chlamydiae</td><td>0.03</td><td>0.48</td><td>0.20</td></tr><tr><td>GAL15</td><td>0.11</td><td>0.02</td><td>0.11</td></tr><tr><td>属水平 Genus level</td><td></td><td></td><td></td></tr><tr><td>Turicibacter</td><td>11.38</td><td>5.09</td><td>0.69</td></tr><tr><td>乳杆菌属Lactobacillus</td><td>5.57</td><td>7.32</td><td>0.49</td></tr><tr><td>梭菌属 Clostridium</td><td>2.29</td><td>1.55</td><td>0.69</td></tr><tr><td>Blautia</td><td>1.84</td><td>1.16</td><td>0.20</td></tr><tr><td>Faecalibacterium</td><td>1.59</td><td>2.06</td><td>1.00</td></tr><tr><td>普氏菌属Prevotella</td><td>1.42</td><td>1.58</td><td>0.69</td></tr><tr><td>瘤胃球菌属Ruminococcus</td><td>1.11</td><td>2.13</td><td>0.34</td></tr><tr><td>毛螺菌属 Lachnospira</td><td>1.04</td><td>1.12</td><td>0.34</td></tr><tr><td>Bulleidia</td><td>0.93</td><td>0.85</td><td>0.69</td></tr><tr><td>链球菌属Streptococcus</td><td>0.88</td><td>1.44</td><td>1.00</td></tr><tr><td>Parabacteroides</td><td>0.47</td><td>0.37</td><td>0.89</td></tr><tr><td>密螺旋体属 Treponema</td><td>0.39</td><td>0.26</td><td>0.89</td></tr><tr><td>考拉杆菌属</td><td>0.38</td><td>0.33</td><td>0.69</td></tr><tr><td>Phascolarctobacterium</td><td></td><td></td><td></td></tr><tr><td>嗜酸菌属Acidiphilium</td><td>0.33</td><td>0.12</td><td>0.69</td></tr><tr><td>颤螺菌属Oscillospira</td><td>0.26</td><td>0.41</td><td>0.20</td></tr><tr><td>粪球菌属Coprococcus</td><td>0.20</td><td>0.21</td><td>1.00</td></tr><tr><td>p-75-a5</td><td>0.18</td><td>0.22</td><td>0.89</td></tr><tr><td>丙酸菌属Propionibacterium</td><td>0.16</td><td>0.08</td><td>0.89</td></tr><tr><td>农杆菌属 Agrobacterium</td><td>0.15</td><td>0.04</td><td>0.34</td></tr><tr><td>芽孢杆菌属 Bacillus</td><td>0.13</td><td>0.03</td><td>0.69</td></tr><tr><td>拟杆菌属 Bacteroides</td><td>0.13</td><td>0.23</td><td>0.49</td></tr></table></body></html>
+
+<html><body><table><tr><td>鞘氨醇单胞菌属Sphingomonas</td><td>0.13</td><td>0.06</td><td>1.00</td></tr><tr><td>棒杆菌属Corynebacterium</td><td>0.12</td><td>0.04</td><td>0.49</td></tr><tr><td>YRC22</td><td>0.09</td><td>0.11</td><td>0.69</td></tr><tr><td>CF231</td><td>0.08</td><td>0.21</td><td>0.34</td></tr></table></body></html>
+
+# 2.4苜蓿草粉对血清脂肪酸组成的影响
+
+由表5可知，与对照组相比，添加苜蓿草粉显著降低了试验猪血清中的豆寇酸(C14:0)、棕榈油酸（C16:1）、油酸（C18:1n-9）、二十碳三烯酸（C20:3n-6）和二十二碳六烯酸（C22:6n3）的含量（线性 $P { < } 0 . 0 1$ ），以及棕榈酸（C16:0）、花生酸（C20:0）、山葡酸（C22:0）和鲨油酸（C24:1）的含量（线性 $P { < } 0 . 0 1$ ，二次 $P { < } 0 . 0 5$ ），但是显著提高了亚油酸（C18:2n-6）、亚麻酸（ $\mathrm { C l } 8 { : } 3 \mathrm { n - } 3 \$ ）和二十碳五烯酸（ $\mathrm { C } 2 0 { : } 5 \mathrm { n - } 3$ ）的含量（线性 $P { < } 0 . 0 1$ ）。随着饲粮中苜蓿草粉含量的增加，饱和脂肪酸（SFA）线性 $P { < } 0 . 0 1$ ，二次 $P { < } 0 . 0 1$ )和单不饱和脂肪酸（MUFA）的含量显著降低（线性 $P { < } 0 . 0 1$ ），而多不饱和脂肪酸（PUFA）、PUFA/SFA值显著升高（线性 $P { < } 0 . 0 1$ ）。
+
+Table 5Effects of alfalfa meal on composition of serum fatty acid in growing pigs $\%$ （20   
+
+<html><body><table><tr><td rowspan="2">2</td><td colspan="4">苜蓿草粉添加水平 Alfalfa meal supplemental level/%</td><td colspan="3">P值</td></tr><tr><td>对照</td><td></td><td></td><td></td><td>标准误</td><td colspan="2">P-value</td></tr><tr><td></td><td>Control</td><td>5</td><td>10</td><td>15</td><td>SEM</td><td>线性</td><td>二次</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>Linear</td><td>Quadratic</td></tr><tr><td>Myristic acid (C14:0)</td><td>0.62a</td><td>0.49b</td><td>0.48b</td><td>0.49b</td><td>0.04</td><td>0.04</td><td>0.11</td></tr><tr><td>棕榈酸 Palmitic acid (C16:0)</td><td>19.78a</td><td>17.87b</td><td>16.92℃</td><td>18.38b</td><td>0.24</td><td><0.01</td><td><0.01</td></tr><tr><td>硬脂酸 Stearic acid (C18:0)</td><td>17.34</td><td>17.76</td><td>16.30</td><td>17.35</td><td>0.27</td><td>0.25</td><td>0.26</td></tr><tr><td>花生酸 Arachidic acid (C20:0)</td><td>0.45a</td><td>0.28b</td><td>0.27b</td><td>0.28b</td><td>0.04</td><td><0.01</td><td>0.02</td></tr><tr><td></td><td></td><td>0.19b</td><td>0.20b</td><td>0.20b</td><td>0.03</td><td></td><td><0.01</td></tr><tr><td>山崙酸 Docosanoic acid (C22:0)</td><td>0.36a</td><td>2.00</td><td>1.98</td><td>2.00</td><td>0.15</td><td><0.01</td><td></td></tr><tr><td>木焦油酸 Tetracosanoic acid (C24:0)</td><td>1.97</td><td>38.59b</td><td>36.15c</td><td>38.70b</td><td></td><td>0.95</td><td>0.95</td></tr><tr><td>饱和脂肪酸 SFA</td><td>40.51a</td><td></td><td>0.65ab</td><td></td><td>0.47</td><td><0.01</td><td><0.01</td></tr><tr><td>棕榈油酸 Palmitoleic acid (C16:1)</td><td>0.87a</td><td>0.73ab</td><td>16.17b</td><td>0.60b</td><td>0.08</td><td>0.03</td><td>0.59</td></tr><tr><td>油酸 Oleic acid (C18:1n-9)</td><td>17.98a</td><td>16.68ab</td><td></td><td>15.38b</td><td>0.58</td><td><0.01</td><td>0.67</td></tr><tr><td>鲨油酸 Selacholeic acid (C24:1)</td><td>0.66a</td><td>0.45b</td><td>0.40b</td><td>0.40b</td><td>0.05</td><td><0.01</td><td>0.04</td></tr></table></body></html>
+
+# C hinaXiv合作期刊
+
+<html><body><table><tr><td>单不饱和脂肪酸MUFA</td><td>19.50a</td><td>17.86ab</td><td>17.22b</td><td>16.37b</td><td>0.60</td><td><0.01</td><td>0.52</td></tr><tr><td>亚油酸 Linoleic acid (C18:2n-6)</td><td>23.81c</td><td>28.05b</td><td>31.46a</td><td>33.17a</td><td>1.09</td><td><0.01</td><td>0.26</td></tr><tr><td>亚麻酸 Linolenic acid (C18:3n-3)</td><td>0.64c</td><td>1.34b</td><td>1.85a</td><td>2.05a</td><td>0.14</td><td><0.01</td><td>0.09</td></tr><tr><td>二十碳三烯酸</td><td>0.75a</td><td>0.84a</td><td>0.54b</td><td></td><td></td><td></td><td></td></tr><tr><td>Docosatrienoic acid (C2O:3n-6)</td><td></td><td></td><td></td><td>0.46b</td><td>0.06</td><td><0.01</td><td>0.19</td></tr><tr><td>二十碳四烯酸</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Docosatetraenoic acid (C2O:4n-6)</td><td>9.70</td><td>8.85</td><td>8.33</td><td>8.71</td><td>0.39</td><td>0.06</td><td>0.13</td></tr><tr><td>二十二碳五烯酸 EPA(C20:5n-3)</td><td>0.29c</td><td>0.41bc</td><td>0.50b</td><td>0.74a</td><td>0.05</td><td><0.01</td><td>0.25</td></tr><tr><td>二十二碳六烯酸 DHA(C22:6n-3)</td><td>1.33a</td><td>1.15b</td><td>0.84b</td><td>0.88b</td><td>0.11</td><td><0.01</td><td>0.30</td></tr><tr><td>多不饱和脂肪酸PUFA</td><td>36.51°</td><td>40.63b</td><td>43.53ab</td><td>46.01a</td><td>1.04</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td><0.01</td><td>0.44</td></tr><tr><td>多不饱和脂肪酸/饱和脂肪酸</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>8</td><td>0.90c</td><td>1.05b</td><td>1.21a</td><td>1.19a</td><td>0.03</td><td><0.01</td><td>0.08</td></tr></table></body></html>
+
+3讨论
+
+如表1所示,4个组饲粮中可溶性纤维的含量较低且基本一致，不可溶性纤维水平较高、约占总纤维水平的 $9 0 \%$ 而且线性增加，因此苜蓿草粉中的纤维主要为不可溶性纤维，试验效应主要来源于饲粮中不可溶性纤维水平的差异。
+
+# 3.1首蓿草粉对生长猪生长性能的影响
+
+适宜的纤维含量可以提高猪的 ADG 和ADF[I0]，但当饲粮中纤维含量过高时则会降低猪的全肠道营养物质消化率[9]，从而会影响其生长性能。徐向阳等[1报道，饲喂 $5 \%$ 和 $10 \%$ 水平的苜蓿草粉可显著提高生长猪的 ADG，显著降低F/G，但对 ADFI无显著影响；当饲粮中添加 $1 5 \%$ 和 $20 \%$ 苜蓿草粉时，不影响猪的 ADG 和 ADFI。
+
+本研究结果显示，苜蓿草粉对生长猪 ADG 和 ADFI均无显著影响，但改善了F/G，这与前人的研究结果相似。由此可见，虽然试验中苜蓿草粉替代了饲粮中的部分玉米和豆粕，其最大添加水平为 $1 5 \%$ ，但只要饲粮的净能和回肠标准可消化氨基酸水平满足猪的营养需要，首蓿草粉便不影响生长猪的生长性能。
+
+# 3.2 苜蓿草粉对生长猪结肠食糜SCFA浓度的影响
+
+饲粮中的纤维在单胃动物的小肠中不能被消化，但在后肠中可以被肠道微生物发酵并产生大量的 SCFA[3-4]。SCFA主要包括乙酸、丙酸和丁酸，三者约占总 SCFA 的 $9 5 \% [ 1 2 ]$ 。SCFA参与宿主的能量代谢和营养物质转化，并发挥特定的生理功能，例如丁酸是结肠上皮的主要能量来源，其被结肠上皮吸收后，可以为猪提供 $5 \% { \sim } 2 0 \%$ 的能量需要[13]；丙酸被肝脏摄取后作为糖异生的底物；乙酸被肝脏摄取后，通过血液循环进入外周组织，被摄取利用[14]。另外，SCFA 可以降低大肠内的pH进而防止病原菌的滋生[5.15]、促进结肠上皮细胞增殖[3]。此外有报道提出，SCFA通过激活其游离脂肪酸受体（FFAR）2或FFAR3 进而引发内分泌L细胞对酪酪肽和胰高血糖素样肽-1的产生和释放[16-17]，进而调节动物的饱腹感[18-19]。
+
+SCFA 的浓度是反映后肠发酵活动强弱的重要指标[20]。不可溶性纤维对后肠发酵活动与SCFA 的产生和吸收有重要影响[2I]。本试验中，随着饲粮中苜蓿草粉水平线性增加，其不可溶性纤维水平线性增加，结肠食糜的总 SCFA、乙酸和丁酸浓度也线性增加，其中 $10 \%$ 和 $1 5 \%$ 苜蓿草粉添加组与对照组相比显著增加。这与Chen 等9的研究结果类似。当苜蓿草粉添加量为 $10 \%$ 时，产生的 SCFA 浓度最高；而当苜蓿草粉添加量提高到 $1 5 \%$ 时，饲粮中的不可溶性纤维水平为 $1 6 . 8 \%$ ，会影响后肠微生物菌群的发酵效率，导致丁酸浓度相比 $10 \%$ 苜蓿草粉添加组显著降低。此外，苜蓿草粉添加量在 $5 \%$ 时，其不可溶性纤维水平与对照组基本一致，因此不会影响结肠食糜中乙酸、丙酸和丁酸的浓度。
+
+# 3.3首蓿草粉对结肠微生物区系的影响
+
+有观点认为，抗性淀粉在分类上也属于不可溶性纤维[22]，但因其具有较强的可发酵性，因此可以显著改变猪后肠微生物的菌群结构，并产生大量的 SCFA[23-24]。目前关于苜蓿草粉对猪结肠微生物区系的影响未见报道。本研究发现，苜蓿草粉对生长猪结肠微生物区系并没有显著影响。不同来源的不可溶性纤维及其不同的理化特性，使其对动物机体后肠道微生物的发酵活动影响也不同。在本研究中，虽然微生物菌群结构没有显著差异，但试验组结肠食糜 SCFA浓度相比对照组显著增加，提示苜蓿不可溶性纤维可增强结肠微生物菌群的代谢活性。
+
+# 3.4苜蓿草粉对血清脂肪酸组成的影响
+
+本研究发现，饲喂苜蓿草粉显著增加了猪血清中PUFA含量和PUFA/SFA值，同时降低了MUFA和 SFA含量，这与前人在兔上的研究结果[25]相似。有研究认为，PUFA含量的升高可能是饲粮中某些抗氧化成分的一种保护作用[26]。苜蓿草粉中的不可溶性纤维可以通过提高机体超氧化物歧化酶和谷胱甘肽过氧化物酶活性、降低丙二醛含量，从而提高机体的抗氧化能力[10]。除此之外，苜蓿草粉中含有微量的苜蓿皂苷和苜蓿黄酮等物质，对提高机体的抗氧化能力也具有积极作用[10]。饲粮纤维的抗氧化机制，可能是因为它可以干扰胆酸的吸收与合成，影响胆酸代谢，减少血清中油脂的积累，因而可以缓解体脂的过氧化作用[25]。
+
+# 4结论
+
+$\textcircled{1}$ 来源于苜蓿草粉的不可溶性纤维可以显著降低生长猪的 F/G，显著增加结肠食糜的
+
+SCFA浓度，但不影响结肠食糜微生物菌群结构。
+
+$\textcircled{2}$ 当苜蓿草粉添加量在 $10 \%$ 时，丁酸、戊酸、总SCFA和总BCFA浓度最高。
+
+$\textcircled{3}$ 苜蓿草粉来源的不可溶性纤维提高了猪血清中的PUFA含量、PUFA/SFA值，降低了MUFA、SFA的含量，这对调节猪机体脂肪酸组成具有重要意义。
+
+参考文献：
+
+[1] HOTAMISLIGIL G S.Inflammation and metabolic disorders[J].Nature,2006,444(7121):860- 867.
+
+[2] JHA R,BERROCOSO JD.Review:dietary fiber utilization and its effects on physiological functions and gut health of swine[J].Animal,2015,9(9):1441-1452.
+
+[3] HJOVA E,CHMELAROVA A.Short chain fatty acids and colonic health[J].Bratislavske Lekarske Listy,2007,108(8):354-358.
+
+[4] WONG J M W,DE SOUZA R,KENDALL C W C,et al.Colonic health:fermentation and short chain fatty acids[J].Journal of Clinical Gastroenterology,2006,4O(3):235-243.
+
+[5] NIELSEN T S,LERKE HN,THEILP K,et al.Diets high in resistant starch and arabinoxylan modulate digestion processes and SCFA pool size in the large intestine and faecal microbial composition in pigs[J].British Journal of Nutrition,2014,112(11):1837-1849.
+
+[6] LANGE K,HUGENHOLTZ F,JONATHAN M C,et al.Comparison of the effects of five dietary fibers on mucosal transcriptional profiles,and luminal microbiota composition and SCFA concentrations in murine colon[J].Molecular Nutrition & Food Research,2015,59(8):1590- 1602.
+
+[7] OHASHI Y,SUMITANI K,TOKUNAGA M,et al.Consumption of partially hydrolysed guar gum stimulates Bifidobacteria and butyrate-producing bacteria in the human large intestine[J].Beneficial Microbes,2015,6(4):451-455.
+
+[8] HAN K H,KOBAYASHI Y,NAKAMURA Y,et al.Comparison of the effects of longer chain inulins with different degrees of polymerization on colonic fermentation in a mixed culture of swine fecal bacteria[J].Journal of Nutritional Science and Vitaminology,2O14,6O(3):206-212.
+
+[9] CHEN L,ZHANG HF,GAO L X,et al.Effect of graded levels of fiber from alfalfa meal on intestinal nutrient and energy flow,and hindgut fermentation in growing pigs[J].Journal of Animal Science,2013,91(10):4757-4764.
+
+[10] 王彦华,程宁宁,郑爱荣,等.苜蓿草粉和苜蓿皂苷对肥育猪生长性能和抗氧化性能的影响
+
+[J].动物营养学报,2013,25(12):2981-2988.
+
+[11] 徐向阳,王成章,杨雨鑫,等.苜蓿草粉对生长猪生产性能及血清指标的影响[J].华中农业大学学报,2006,25(2):164-169.
+
+[12] KIMURA I,INOUE D,HIRANO K,et al.The SCFA receptor GPR43 and energy metabolism[J].Frontiers in Endocrinology,2014,5:85.
+
+[13] DEN BESTEN G,VAN EUNEN K,GROEN A K,et al.The role of short-chain fatt acids in the interplay between diet,gut microbiota,and host energy metabolism[J].The Journal of Lipid Research,2013,54(9):2325-2340.
+
+[14] BLOEMEN JG,VENEMA K,VAN DE POLL M C,et al.Short chain fatty acids exchange across the gut and liver in humans measured at surgery[J].Clinical Nutriti0n,2009,28(6):657-661.
+
+[15] ROY C C,KIEN C L,BOUTHILLIER L,et al.Short-chain fatty acids:ready for prime time?[J].Nutrition in Clinical Practice,2006,21(4):351-366.
+
+[16] SAMUEL B S,SHAITO A,MOTOIKE T,et al.Effects of the gut microbiota on host adiposity are modulatedbytheshort-chainfatty-acidbindingGprotein-coupled receptor,Gpr41[J].Proceedings of the National Academy of Sciences of the United States of America,2008,105(43):16767-16772.
+
+[17] KIMURA I,OZAWA K,INOUE D,et al.The gut microbiota suppresses insulin-mediated fat accumulation via the short-chain fatty acid receptor GPR43[J].Nature Communications,2013,4(5):1829.
+
+[18] PSICHAS A,SLEETH M L,MURPHY K G,et al.The short chain fatt acid propionate stimulates GLP-1 and PYY secretion via free fatty acid receptor 2 in rodents[J].International Journal of Obesity,2015,39(3):424-429.
+
+[19] ZHOU J,HEGSTED M,MCCUTCHEON K L,et al.Peptide YY and proglucagon mRNA expression patterns and regulation in the gut[J].Obesity,2006,14(4):683-689.
+
+[20] SERENA A,JORGENSEN H,BACH KNUDSEN K E.Digestion of carbohydrates and utilization of energy in sows fed diets with contrasting levels and physicochemical properties of dietary fiber[J].Journal of Animal Science,2008,86(9):2208-2216.
+
+[21] SERENA A,JORGENSEN H,BACH KNUDSEN K E.Absorption of carbohydrate-derived nutrients in sows as influenced by types and contents of dietary fiber[J].Journal of Animal
+
+Science,2009,87(1):136-147.
+
+[22] FUENTES-ZARAGOZA E,RIQUELME-NAVARRETE M J,SANCHEZ-ZAPATA E,et al.Resistant starch as functional ingredient:a review[J].Food Research International,2010,43(4):931-942.
+
+[23] HAENEN D,ZHANG J,DA SILVA C S,et al.A diet high in resistant starch modulates microbiota composition,SCFA concentrations,and gene expression in pig intestine[J].The Journal of Nutrition,2013,143(3):274-283.
+
+[24] FANG L,JIANG X,SU Y,et al.Long-term intake of raw potato starch decreases back fat thickness and dressing percentage but has no effect on the longissimus muscle quality of growing-finishing pigs[J].Livestock Science,2014,170:116-123.
+
+[25] DAL BOSCO A,MUGNAI C,ROSCINI V,et al.Effect of dietary alfalfa on the fatty acid composition and indexes of lipid metabolism of rabbit meat[J].Meat Science,2014,96(1):606-609.
+
+[26] LIAO X D,WU R J,MA G,et al.Effects of Clostridium butyricum on antioxidant properties,meat quality and fatty acid composition of broiler birds[J].Lipids in Health and Disease,2015,14(1):36.
+
+Effects of Dietary Alfalfa Meal Supplementation on Colonic Microbiota and Its Metabolites in Growing Pigs
+
+WANG Jiawei1ZHANG Lei²ZHU Jiaoyue²WANG Yubo²YIN Jingdong2\* ZHU Weiyun1\*   
+(1.Laboratory of Gastrointestinal Microbiology, College of Animal Science and Technology,   
+Nanjing Agricultural University,Nanjing 21o095, China; 2. State Key Lab of Animal Nutrition, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China)
+
+Abstract: The present study aimed to investigate the effects of insoluble dietary fiber from alfalfa meal on colonic microbiota and its fermentation metabolites in growing pigs. In this experiment, 24 castrated male pigs (DurocxLandracexYorkshire) with initial body weight of( $2 4 . 8 { \pm } 0 . 7$ ）kg were randomly divided into 4 groups with 6 replicates per group and 1 pig per replicate. Pigs in each group were fed one of four diets ( $0 , 5 \%$ ， $10 \%$ and $1 5 \%$ level of alfalfa meal). Pigs were slaughtered after $2 8 \mathrm { ~ d ~ }$ for sampling. Then we determined serum fatty acid composition,short-chain fatty acid (SCFA) concentration and microbiota composition in colonic digesta. The results showed that diets with alfalfa meal significantly decreased feed to gain ratio $( P { < } 0 . 0 5 )$ , but had no significant effect on average daily gain and average daily feed intake of growing pigs ( $\scriptstyle \left( P > 0 . 0 5 \right)$ . Analysis of colonic microbiota 16S rDNA V3 region revealed that alfalfa meal had no significant effect on microbiota composition $( P { > } 0 . 0 5 )$ ，but significantly increased total SCFA，acetate and butyrate in colonic digesta of pigs $( P { < } 0 . 0 5 )$ . With the addition of alfalfa meal in diets, polyunsaturated fatty acid content was significantly increased $( P { < } 0 . 0 5 )$ ,while the contents of saturated fatty acid and monounsaturated fatty acid were significantly decreased in the serum $( P { < } 0 . 0 5 )$ . The results indicate that insoluble dietary fiber from alfalfa meal has no effect on colonic microbiota structure，but enhances fermentation activity of colonic microbiota and SCFA producing, and also plays a role in regulating fatty acid profile of growing pigs.
+
+Key words: growing pigs; alfalfa meal; insoluble dietary fiber; SCFA; colonic microbiota; fatty acid

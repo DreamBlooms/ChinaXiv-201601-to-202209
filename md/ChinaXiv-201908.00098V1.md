@@ -1,0 +1,127 @@
+# 滇牡丹环阿屯醇合成酶基因的克隆及表达分析
+
+李云琴1，原晓龙1,²，陈中华1，王毅1,2\*（1.云南省林业科学院，昆明650201;2.云南省森林植物培育与开发利用重点实验室，国家林业局云南珍稀濒特森林植物保护和繁育重点实验室，昆明 650201)
+
+摘要:为研究环阿屯醇合酶（Cycloartenol Synthase）基因在滇牡丹生物合成中的作用机制，研究采用RT-PCR技术首次从滇牡丹（Paeonia delavayi）中克隆得到一个具完整开放阅读框的环阿屯醇合成酶基因（PdCAS），该基因全长2274bp，共编码757个氨基酸，PdCAS 蛋白序列与桃（Prunus persica）、日本裸樱（Prunus yedoensis var.nudiflora）、葡萄(Vitis vinifera)蛋白序列相似性在 $8 6 \%$ 以上。序列比对分析显示PdCAS具有氧化鲨烯环化酶超家族典型的DCTAE结构域和三萜合成酶的标志性序列DGSWYGSWGVCFTYG。滇牡丹PdCAS蛋白与蔷薇科植物苹果（Malus domestica XP O08391430.1）、白梨（Pyrus bretschneideri XP009370034.1）、月季（Rosa chinensis XP 024193310.1）、日本裸樱(Prunus yedoensis var:Nudiflora PQQ11009.1)、桃（Prunus persica XP 007225240.1）的CAS蛋白聚为一类。转录模式分析表明PdCAS基因在滇牡丹各组织中均有表达，但是在花瓣中表达量较高。该研究克隆的PdCAS基因与滇牡丹甾醇类化合物的合成密切相关。
+
+关键词：滇牡丹，环阿屯醇合成酶，cDNA克隆，基因功能分析
+
+# Cloning and expression analysis of cycloartenol synthase
+
+gene from Paeonia delavayi
+
+Li Yunqin1, Yuan Xiaolong1,², Chen Zhonghual, Wang Yi1.2 \* (1. Yunnan Academy ofForestry,650201 Kunming,China;2.The Key Laboratory ofForestry Plant Cultivation and Utilization,The Key Laboratory of Rare and Endangered Forest Plants of State Forestry Administration, Yunnan Academy of Forestry,650201 Kunming,China)
+
+Abstract: To study the effect of cycloartenol synthase gene (CAS) in the sterol biosynthesis of Paeonia delavayi, using the RT-PCR technology, a complete open reading frame of PdCAS gene was cloned from Paeonia delavayi for the first time.The full-length cDNA of PdCAS gene was 2 274 bp, encodes 757 amino acids. The PdCAS protein sequence of P. delavayi had more than $86 \%$ similarty with the Prunus persica,Prunus yedoensis var. nudiflora and Vitis vinifera. Sequence alignment analysis showed that PdCAS had a typical conserved DCTAE motif of oxidosaualene cyclase and the marker sequence DGSWYGSWGVCFTYG of triterpenoid synthase. The phylogenetic analysis revealed that PdCAS and Malus domestica (XP OO8391430.1),Pyrus bretschneideri (XP 009370034.1),Rosa chinensis(XP 024193310.1),Prunus yedoensis var. Nudiflora (PQQ11009.1)， Prunus persica (XP 007225240.1)clustered together. Transcription patern analysis showed that PdCAS expressed significantly in different tissues and had the highest transcript profile in flowers.PdCAS was closely related to the synthesis of sterols from Paeonia delavayi.
+
+Keywords: Paeonia delavayi, cycloartenol synthase(CAS), cDNA clone, gene function analysis
+
+环阿屯醇（cycloartenol）为植物甾醇类化合物，广泛分布于植物中。近年来研究发现环阿屯醇（Cycloartenol）具有明显的抗炎（Akihisa et al.，20o0）、抗氧化（Islam etal.，2009）、抗肿瘤（Prakash etal.，2004）、调节胆固醇（Fukuoka etal.，2014）等药理活性；它还是重要的药物中间体和先导化合物，是菜油甾醇(campesterol)等植物甾醇及甾体皂苷等化合物生物及半化学合成的关键前体物质（张忠廉等，2017）。环阿屯醇的含量高低决定了植物甾醇类化合物的生物合成效率；此外，环阿屯醇对植物的生长发育具有显著影响（Gas-Pascualetal，2014）。
+
+环阿屯醇合酶（Cycloartenol Synthase，简称 CAS）属于 氧 化 鲨 烯 环 化酶（oxidosqualene cyclase，OSC）家族，该基因是合成环阿屯醇和合成植物甾醇及甾体类物质的关键调控基因（张忠廉等，2017；刘梦迪等，2019）。目前，已有 20多种植物的CAS基因被分离和克隆出来，如刺五加（Eleutherococcus senticosus）（邢朝斌等，2012）、丹参（Salviamiltiorrhiza）（李珍等，2013）和黄芪（Astragalus membranaceus）（Chen et al.，2015）等，有些还通过异源表达进行了功能验证。但是至今未见到关于滇牡丹（Paeoniadelavayi）环阿屯醇合成酶基因的相关研究。
+
+滇牡丹（Paeoniadelavayi）是芍药科（Paeoniaceae）芍药属（Paeonia）植物。芍药属植物根皮是一种传统中药材，通常称其为"牡丹皮"或者"丹皮”，所含的主要有效成分为酚类（如丹皮酚））、萜类、苷类（如芍药苷）、鞣质等，具有抗凝血、降压、抗炎、抑制中枢神经系统等功能。作为芍药属的一个牡丹类群，滇牡丹也作为一种民族药材被广泛使用，其根皮具有抗菌活性，可以用于镇痛、镇静、抗炎及女性疾病的治疗（Wuetal.，2002）。
+
+该研究在滇牡丹转录组测序的基础上，成功克隆得到滇牡丹环阿屯醇合成酶（CAS）基因，并进行生物信息学分析、基因功能的验证和转录模式分析，为进一步研究环阿屯醇合成酶基因在滇牡丹中的功能奠定基础。
+
+# 1材料与方法
+
+1.1试验材料
+
+滇牡丹（Paeonia delavayi）种植于云南省林业科学院苗圃基地。采集滇牡丹的根、茎、叶、种子、花芽（花完全由花萼包裹）、花蕾（露出花瓣）及花开（花瓣全部展开）、花谢（花瓣开始枯萎）时期的花瓣，立即用液氮冷冻保存。
+
+# 1.2RNA提取与cDNA合成
+
+用植物总RNA 提取试剂盒提取滇牡丹根、茎、叶、种子及各发育期花的总RNA。RNA质量检测使用浓度为 $1 \%$ 的琼脂糖凝胶电泳完成，RNA 浓度则使用 NanoDropTM 2000 检测。然后反转录成cDNA，保存于 $- 2 0 ^ { \circ } \mathrm { C }$ 冰箱中备用。
+
+# 1.3PdCAS基因的克隆
+
+采用仙客来（Cyclamen persicum）的CAS 基因为模板，BLAST搜索滇牡丹花瓣的转录组数据，得到滇牡丹的环阿屯醇合成酶基因（PdCAS）的cDNA序列，以该序列为基础，设计含有起始密码子和终止密码子的特异引物（PdCAS1F:5'-ATGTGGAAGCTGAAGATCGC-3'和 PdCAS1R:5'-TCAGGAGACTTGCAATACCC-3'）。用滇牡丹花瓣 cDNA为模板，PdCAS1F 和PdCAS1R为引物，以EasyPfuDNA 聚合酶扩增得到PdCAS全基因片段。经过电泳检测后将目的片段连接到pGMT载体上，经PCR检测，送往上海生工进行测序。
+
+# 1.4PdCAS基因蛋白序列分析
+
+获得滇牡丹 PdCAS 基因 cDNA 序列后，利用 NCBI(http://www.ncbi.nlm.nih.gov/)上的ORF Finder (https://www.ncbi.nlm.nih.gov/orffinder/）分析获得其蛋白氨基酸序列，并用ProParam预测其蛋白的理化性质；通过NCBI对环阿屯醇合成酶基因PdCAS 的蛋白氨基酸序列进行序列搜索，选择与PdCAS 蛋白序列同源性较高的植物环阿屯醇合成酶蛋白序列，然后用MEGA6.0构建系统进化树。
+
+1.5PdCAS基因在不同器官上的表达分析
+
+用植物总RNA 提取试剂盒提取滇牡丹各器官、各发育时期的花和不同颜色花瓣的总RNA，用琼脂糖凝胶电泳和NanoDropTM2000 分别测定RNA的质量和浓度后，进行反转录合成cDNA的第一条链。然后以特异引物TPdCASF(5'-TTGAGAGAGAAGGCTCTTCG-3'）和 TPdCAS R（5'-TCGATGAACATAGCAGCTCT-3')检测滇牡丹PdCAS基因在根、茎、叶、花瓣等不同器官中的表达情况。经过琼脂凝胶电泳的检测后，利用GENE-SNAPS 图像分析软件分析PdCAS基因积分吸光度，进行相对定量表达分析。
+
+# 2结果与分析
+
+# 2.1RNA提取和PdCAS基因克隆
+
+参照植物总RNA提取试剂盒说明书提取滇牡丹花瓣及其他器官的总RNA，然后反转录成cDNA第一条链，保存备用。以含有起始密码子的PdCAS1F 和终止密码子的 PdCAS1R作为引物，滇牡丹花瓣 cDNA为模板，用 EasyPfuDNA聚合酶扩增获得cDNA片段，电泳检测后，将获得目的片段连接到克隆载体上28℃条件下培养过夜，并转化进感受态细胞$\mathrm { D H } 5 \alpha$ 中，菌落PCR 检测后送华大基因测序公司测序。最终获得全长2274bp 的滇牡丹CAS基因编码区全长cDNA，并命名为PdCAS，共编码757个蛋白氨基酸。
+
+![](images/9163d4cfe58d1fc1407a7a93d12e6f61d218391046aac1c60083b8b335adcc54.jpg)  
+图1滇牡丹PdCAS基因克隆 Fig.1 Gene cloning of PdCAS from Paeonia delavayi
+
+2.2滇牡丹PdCAS基因蛋白序列分析
+
+用在线程序ORFFinder预测PdCAS基因的开放阅读框，ProParam预测PdCAS基因的理化性质。结果显示：该蛋白由757个氨基酸组成，其分子量为 $8 6 1 1 7 . 2 \mathrm { D a }$ ，等电点为6.12；用推断得到的757个氨基酸序列与已知的其他植物的CAS蛋白序列进行相似性对比。结果显示，滇牡丹PdCAS 蛋白序列与桃（Prunus persica）CAS 蛋白序列相似性为 $8 6 . 6 6 \%$ ：与日本裸樱（Prunus yedoensisvar.nudiflora）CAS 蛋白序列相似性为 $8 6 . 6 6 \%$ ，与葡萄（Vitisvinifera）CAS蛋白序列相似性为 $8 6 . 4 9 \%$ 。对滇牡丹PdCAS蛋白序列分析发现，PdCAS编码的蛋白具有1个氧化鲨烯环化酶超家族典型的DCTAE 结构域（Poraiia et al.,1994），1个三萜合成酶的标志性序列DGSWYGSWGVCFTYG（邢朝斌等，2012）(图2)。
+
+# C hinaXiv合作期刊
+
+PdCAS ISDCTAEGLKAALLLSI IPSETVGEPLDVKCFYDAVDVLLSLONGDGGFATYELTRSYRW  
+VvCAS ISDCTAEGLKAILLLSK IPSEIVGEPLDAKOLYDAVNVILSLONGDGGFATYEL TRSYAW  
+PpCAS ISDCTAEGLKAVLSLSKIPSEIVGEP IDAKRLYDSVNVVLSLONSDGGFAT YELTRSYRW  
+PyCAS ISPCTAEIGLKAVLSLSK IPSE IVGEPLDAKLLYDSVNVVL SLONSDGGFATYEL TRSYRW\*\*\*\*\*\* \*林 \*\* 杜\* \*\*±\*\*\*\*\* \*\*\*\*\*\*\*\*\* \*  
+PdCAS LELINPAETFGNIVIDYPYVECTSAA TQALTSFRKLYPGHRREEIENCIKRAAMFIENVQ  
+VvCAS LEL INPAETFGDIVIDYPYVECTSAALQALTSFNKFYPGHRREEIEHCIKKATMFIEK IQ  
+PpCAS LELINPAETFGDIVIDYPYVECTSAA IOALASFKKLYPGHRSEEIEHCIKRAVEFIEKIQ  
+PyCAS LELINPAETFGDIVIDYPYVECTSAA IQALASFKKLYPGHRSEEIEHCIKRAVEFIEKIQ\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\* \*\* \* \*\*\*\*\* \*\*\*\* \*\*\*\*\*\*\*\*  
+PdCAS ESDGSIY GSHAVCFNYGANFGIKGLVTAGKNY SNCSSIRK ACDFLLSKOLASGGHGESYL  
+VvCAS ASDGSIY GSHGVCFTYAIWFGIKGLVAAGKNIYNNCSSICKACDFLLSKOLASGGHGESYL  
+PpCAS ESDGSHY GSWGVCF TYGTWFGVKGLVAAGRNYNNSSSIRK ACDFLLSKOLASGGHAESYL  
+PyCAS ESDGSWY GSWGVCF TYGTWFGVKGLVAAGRNYNNSSS IRKACDFLLSKQLASGGHAESYL\*\*\*\*\*\*\* \*\* \*\*林\* \*\*\* 林\* 林 \*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*林  
+注:Pd;滇牡丹(Paeonia delavayi); Vv；葡萄(Vitis vinifera,登录号; XP002264289.1);Pp；桃树(Prunus persica,  
+登录号;XP_007225240.1);Py；日本裸樱(Prunus yedoensis var nudiflora,登录号;PQQ11009.1)；黑框；保守位点  
+Note: Pd; Paeonia delavayi;Vv;Vitis vinifera,accession No; XPOo2264289.1;Pp;Prunus persica,accessonNo;  
+XP_007225240.1;Py;Prunus yedoensis var. nudiflora,accession No; PQQ110o9.1;Blackbox; conservative site图2CAS蛋白序列比对
+
+为了研究滇牡丹在分子水平的进化地位和与其他植物种的亲缘关系，将推导出来的PdCAS 蛋白序列在美国国家生物技术信息中心(NCBI)进行比对，得到其他植物CAS 蛋白序列，用MEGA 6.0中自带的ClusterW进行蛋白序列多重比对后，用 Neighbor-joining 算法(自检举1000 次)，绘制出滇牡丹PdCAS 与其他植物的CAS 蛋白的进化树(图3)。结果显示滇牡丹PdCAS 蛋白与蔷薇科植物苹果（Malus domestica XP 008391430.1）、白梨（Pyrusbretschneideri XP009370034.1）、月季（Rosa chinensis XP024193310.1）日本裸樱（Prunusyedoensis var: Nudiflora PQQ11009.1）、桃（Prunus persica XP 007225240.1 ）的 CAS 蛋白聚为一类(图3)。
+
+![](images/55a30dccc7b60ad53400df13baca33d2e84d8b52c5c18b15e1ae986494f58996.jpg)  
+图3PdCAS与其他植物CAS系统进化树Fig. 3 Phylogenetic tree of PdCAS and CAS in other plants
+
+2.3滇牡丹PdCAS基因的转录模式分析
+
+采集滇牡丹的根、茎、叶、种子、各时期花瓣等器官，用植物总RNA提取试剂盒说明书提取滇牡丹各时期花瓣以及各器官的总RNA并反转录成cDNA。用特异引物PdCAS1F和PdCAS1R检测不同时期的花瓣、花蕊及根、茎、叶、种子中PdCAS基因表达的具体情况(图4)。结果显示，PdCAS 基因在滇牡丹根、茎、叶、种子、花蕊及各时期花瓣中都有表达，但是在各时期花瓣、花蕊中表达量较高，其中以花谢时期的花瓣中表达量最高。
+
+![](images/0654a60c4b01a72cfc1f625048944f706bfdec57365c7f5ff65d5053ecb34979.jpg)  
+图4PdCAS基因在不同器官中的表达情况
+
+Fig.4 The expression of PdCAS gene in differenttissues of P.delavayi
+
+# 3.讨论
+
+CAS 是引导类异戊二烯代谢途径流向甾醇类化合物的关键基因（Kimetal.,2005），分析其在各器官中的表达量变化情况，可以了解对甾醇合成的影响。RT-PCR结果表明，PdCAS基因在不同时期的花、种子、叶、茎和根中都有表达，这与盾叶薯（Dioscorea zingiberensis）（涂碧梦等，2010）和刺五加（Acanthopanax senticosus）（邢朝斌等，2012）中CAS 基因的的表达特点类似，均具有组成型表达的特点。PdCAS在滇牡丹根、茎、叶、花、种子中都有表达，还证明了该基因的表达存在普遍性。滇牡丹CAS 在各器官表达量差异相对较大，花瓣中表达量较高，而在根茎中表达量较低；最大值出现在花谢授粉后1d的花瓣中，最小值出现在茎中。
+
+本研究中，PdCAS 基因表达量在繁殖器官中最高，虽然在根、茎中表达量很低，但是也有表达。PdCAS在根中有表达说明环阿屯醇的衍生物在根中存在。之前的研究认为滇牡丹作为一种药材，主要是利用其根皮（Wuetal.，2002），如果环阿屯醇及衍生物是丹皮的主要活性成分，那么，花，叶，茎，也可以起到根的药用效果。花和叶虽然表达量高，但是物质累积量并不一定比根高，因为花会凋谢，树叶会掉落，而滇牡丹的根作为存储器官，经过长年的累积，表达量虽然低，但是活性物质的含量未必少于花瓣。
+
+本研究所克隆的滇牡丹PdCAS 基因蛋白序列与蔷薇科植物如桃、苹果等的CAS 基因蛋白序列相似性 $\cong 8 0 \%$ ，结构和蛋白序列上的一致性较高说明PdCAS基因比较保守。之前的研究已经在不同植物中分离得到了5类鲨烯环化酶，即CAS、 ${ \beta } \mathrm { . }$ 香树酯醇合成酶( $\beta$ -amyrinsynthase, $\beta$ -AS）、达玛烷二醇合成酶（dammarenediol synthase）、羊毛甾醇合成酶（lanosterolsynthase）和羽扇豆醇合成酶（lupeol synthase）（邢朝斌等，2012）。生物体内的三萜类物质和植物甾醇都源于同一前体物质—2，3-氧化鲨烯，且均由异戊二烯途径合成，2，3-氧化鲨烯在上述5种环化酶的作用下生成植物甾醇和三萜类骨架。其中CAS 主要功能是催化环化合成各种甾醇和类甾醇类化合物（明乾良等，2010），即2,3-氧化鲨烯在CAS的作用下合成环阿屯醇，再经过一系列的催化反应生成植物甾醇（该途径被称为环阿屯醇途径"）（张忠廉等，2017）。本研究中PdCAS的蛋白序列中存在氧化鲨烯环化酶超家族的特征序列DCTAE，也说明PdCAS基因属于鲨烯环化酶基因家族。DCTAE可以将鲨烯合酶的DDTAV定点突变成DCTAE，致使鲨烯合酶的底物由鲨烯变成2，3-氧化鲨烯（Dang&Prestwich,2000）。因此，PdCAS基因与滇牡丹甾醇类化合物的合成密切相关。之后的研究将对 PdCAS和与之可能相关的P450进行异源表达试图得到新的环阿屯醇衍生物。
+
+“环阿屯醇途径"是甾醇类化合物合成的主要途径(Gas-Pascual etal.，2014)，该途径及环阿屯醇对植物的生长发育影响显著，但其具体的影响机制尚未得到深入的研究。环阿屯醇还具多种药理活性，但具体的作用机制尚未清楚。因此，今后应重视对其药理活性、生理作用和相关次生代谢产物的研究，为更好的研发和应用奠定基础。
+
+# 参考文献：
+
+AKIHISA T, YASUKAWA K, YAMAURA M, et al., 20O0.Triterpene alcohol and sterol ferulates from rice bran and their anti-inflammatory effects[J]. J Agr Food Chem, 48(6): 2313-2319.   
+CHEN J, WU XT, XU YQ, et al., 2015. Global transcriptome analysis profiles metabolic pathways in traditional herb Astragalus membranaceus Bge. var. Mongolicus (Bge.) Hsiao.[J]. BMC Genomics, 16(S7)1-20.   
+CHATURVEDULA VSP, ZHOU BN, GAO Z, et al., 2O04. New lupane triterpenoids from Solidago canadensis that inhibit the lyase activity of DNA polymerase beta[J]. Bioorg Med Chem,12(23): 6271-6275   
+DANG T, PRESTWICH G D,2OO0. Site-directed mutagenesis of squalene-hopene cyclase: altered substrate specificity and product distribution [J]. Chem Biol, 7(8): 643-649.   
+FUKUOKA D, OKAHARA F, HASHIZUME K, et al.,2014. Triterpene alcohols and sterols from rice bran lower postprandial glucose-dependent insulinotropic polypeptide release and prevent diet-induced obesity in mice[J]. J Appl Physiol, 117(11): 1337-1348.   
+GAS-PASCUAL E, BERNA A, BACH TJ, et al., 2014 . Plant oxidosqualene metabolism: cycloartenol synthase-dependent sterol biosynthesis in Nicotiana benthamiana[J]. PLoS One,29(10) : e109156.   
+ISLAM MS, YOSHIDA H, MATSUKI N, et al.,2009. Antioxidant, free radical-scavenging, and NF-kappaB-inhibitory activities of phytosteryl ferulates: structure-activity studies[J]. J Pharmacol Sci, 111(4): 328-337.   
+KIM O T, KIM M Y, HWANG S J, et al., 2O05. Cloning and molecular analysis of cDNA encoding cycloartenol synthase from Centella asiatica (L.) Urban [J]. Biotechnol Bioproc Eng, 10(1): 16-22.   
+LUO ZL, ZHANG KL, MA XJ, et al., 2016. Research progress in synthetic biology of triterpen saponins[J].Chin Tradit Herbal Drugs,47(10):1806-1814.[罗祖良，张凯伦，马小军，等， 2016．三萜皂苷的合成生物学研究进展［J]．中草药，47（10）：1806-1814.]   
+LIANG Y, ZHAO S, ZHANG X, 2009. Antisense suppression of cycloartenol synthase results in elevated ginsenoside levels in Panax ginseng hairy roots[J]. Plant Mol Biol Rep,27(3):298-304.   
+LI Z, WANG DH, YAO W, et al., 2013. Cloning and expresson analysis of cycloartenol synthase gene from Salviam iltiorrhiza Bunge[J]. Acta Bot Boreali-Occident Sin, 33(7): 1285-1291. [李时珍，王东浩，姚伟，等，2013．丹参环阿屯醇合酶基因克隆及表达分析［J]．西北 植物学报，33（7）：1285-1291．]   
+LIU MD，LI CF， ZHANG YS, 2019.Molecular cloning of cycloartenol synthase from Trigonella foenum-graecum L. and its effect on diosgenin biosynthesis[J].Plant Science Journal, 2019, $3 7 ( 1 ) : 8 7 \cdot 9 2$ .[刘梦迪，李长福，章焰生，2019．葫芦巴环阿屯醇合酶基因的分离及其对 薯蓣皂素合成的影响[J]．植物科学学报， $3 7 ( 1 ) : 8 7 . 9 2 .$ 1   
+MING QL, HAN T, HUANG F, et a1, 2010. Advances in studies on ginsenoside biosynthesis and its related enzymes[J]. Chin Tradit Herbal Drugs,41(11): 1913-1917.[明乾良，韩婷，黄芳, 等,2010.人参皂苷生物合成途径及其相关酶的研究进展[J].中草药,41（11):1913-1917.]   
+PORAIIA K, HEWEIT A, PRESTEICH G D, et a1,1994. A specific amino acid repeat in squalene and oxidosqualene cyclases[J]． Trendsin Biochem icafSciences,19(4): 157-158.   
+PRAKASH CHATURVEDULA VS, ZHOU BN, GAO ZJ, et al, 2004 . New lupane triterpenoids from Solidago canadensis that inhibit the lyase activity of DNA polymerase beta[J]. Bioorg Med Chem,12(23): 6271-6275.   
+TU BM, CHEN YQ, YANG ZF, 2010. Molecular cloning and analysis of the full-length cycloartenol synthase gene from Dioscorea zingiberensis Wright[J]. Acta Bot Boreali-Occident Sin,30(1):8-13.[涂碧梦，陈永勤，杨之帆，2010．盾叶薯环阿屯醇合酶全长基因的克隆 与分析[J]．西北植物学报,30(1):8-13.]   
+WU SH, LUO XD, MA YB, et a1.,2002. Monoterpenoid defivatives from Paeonia delavayi[J]. J Asian Nat Prod Res, 4(2):135-140.   
+XING ZB,LONG YH, WU P, et al.,2012. Cloning of cycloartenol synthase gene from Eleutherococcus senticosus and its expression analysis[J]. Chin Tradit Herbal Drugs,43(7): 1387-1392.[邢朝斌，龙月红，吴鹏，等，2012．刺五加环阿屯醇合酶基因的克隆及其表 达分析［J]．中草药，43（7）：1387-1392.]   
+ZHANG ZL, LUO ZL, SHI HW, et al., 2017. Research advance of functional plant pharmaceutical cycloartenol about pharmacological and physiological activity[J]. Chin J Chin Mater Med,42(3):433-437.[张忠廉，罗祖良，石宏武，等，2017．植物药活性成分环阿屯
+
+醇药理、生理活性及其研究展望［J]．中国中药杂志，42（3）：433-437.]

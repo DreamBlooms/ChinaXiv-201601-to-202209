@@ -1,0 +1,188 @@
+# 近年来的黄土高原耕地时空变化与口粮安全耕地数量分析
+
+王凤娇，梁伟，傅伯杰²，金朝，闫娜娜4（1陕西师范大学地理科学与旅游学院,陕西西安710119；2中国科学院生态环境研究中心城市与区域生态国家重点实验室,北京10085；3西北农林科技大学黄土高原土壤侵蚀与旱地农业国家重点实验室,陕西杨凌712100;4中国科学院遥感与数字地球研究所遥感科学国家重点实验室，北京100094)
+
+摘要：基于遥感调查数据集定量分析了1990—2015年中国黄土高原地区耕地的时空变化特征和口粮绝对安全最小耕地保障面积的数量变化。结果表明：黄土高原耕地面积从1990年的$1 9 2 ~ 5 2 9 . 6 5 ~ \mathrm { k m } ^ { 2 }$ 至2015年的 $1 8 2 \ 6 8 8 . 5 0 \ \mathrm { k m } ^ { 2 }$ ，净减少了 $9 ~ 8 4 1 . 1 4 ~ \mathrm { k m } ^ { 2 }$ ，幅度达 $5 . 1 1 \%$ ,其中 2000—2010年的减幅最大，净减少 $8 ~ 4 8 3 . 0 0 ~ \mathrm { k m } ^ { 2 }$ ;较大的耕地动态变化图斑主要分布于中部和西部区域，细碎的变化图斑广泛分布；耕地地类转出面积 $( 3 1 ~ 8 7 5 . 8 2 ~ \mathrm { k m } ^ { 2 }$ )大于转入面积( $2 1 ~ 8 1 5 . 2 5 ~ \mathrm { k m } ^ { 2 }$ ），耕地面积的增加主要由草地和林地转化而来，主要分布在灌溉农业区和东南部平原区,减少的耕地主要转化为草地和林地，主要分布在中部沟壑区的雨养农业区。此外，该时期耕地转化为建筑用地和交通用地等人工表面的面积逐渐增加，主要分布在东南部低海拔平原地区;黄土高原口粮绝对安全所需最小耕地保障面积呈明显减少特征（从1990年的 $7 0 ~ 9 1 3 . 3 7 ~ \mathrm { k m } ^ { 2 }$ 下降到2015年的33981.64$ { \mathrm { k m } } ^ { 2 }$ )，占该区耕地总面积比例呈明显缩减态势（从1990 年的 $3 6 . 8 3 \%$ 缩减到 2015年的 $1 8 . 6 0 \%$ ），目前耕地总量的净减少未对口粮绝对安全的耕地保障数量造成大的影响。
+
+关键词：耕地；口粮耕地保障面积；变化特征；黄土高原
+
+地表覆被在自然及人类活动作用下发生的变化一直是全球变化研究的重点[1-4]。耕地作为土地覆被最主要的组成部分之一，受制于国家或区域社会经济发展目标和制度措施改革而发生频繁的时空变化也随之成为土地覆被变化研究的重点[5-8] O
+
+耕地资源是维系粮食生产、保障粮食安全的核心资源，其态势关系到国家粮食生产的安全性和社会经济的稳定性[9]。近年来,我国耕地受到农业结构调整、生态退耕、城镇化进程加快、自然灾害损毁、人为擢荒等影响出现了数量和质量的不稳定性[10-16],加之人口持续增长,人均耕地面积始终处于紧张态势[17],而生活水平的不断提高以及膳食模式调整与优化使人们对高质量的口粮需求进一步加强[18],针对这一情势,国家出台了“守住谷物基本自给、口粮绝对安全底线”粮食安全战略的新政策，而作为“口粮绝对安全”的核心和主体的城乡居民口粮实际消费量，其生产需要的耕地面积是口粮绝对安全最小耕地保障面积[19],因此,严格控制和保护好生产口粮的耕地数量、质量和生态对于应对各类耕地变化产生的不稳定因素至关重要。近年来，学者们对耕地变化与口粮安全耕地数量的研究热度随国家耕地保护政策与口粮安全战略的制定和实施而发生不断变化，且研究的内容主要集中于研究进展与综述、政策背景与实施反馈、生态效应、安全战略、影响因素与驱动机制、变化趋势与预测、和耕地保护与管理对策等[18-27]。这些研究不仅反映了耕地变化和口粮安全耕地数量的研究现状，也为推进耕地资源优化配置、保障口粮安全和促进经济社会稳定发展提供了一定的科学支撑。目前，关于黄土高原耕地时空变化的研究已有一些成果，但对该区耕地新增来源和减少去向及口粮绝对安全的耕地保障数量的研究较少。本文以黄土高原为基本研究单元,通过分析该区耕地面积的时空变化及其类型转变，并评估口粮绝对安全最小耕地保障面积及其占耕地总面积比例的变化过程，为黄土高原新时期粮食安全决策、农业资源可持续发展与利用的研究提供依据。
+
+# 1研究区概况与研究方法
+
+# 1.1 研究区概况
+
+黄土高原位于我国的中北部，其范围包括山西、陕西、甘肃、青海、宁夏和河南7个省(区)291个县（旗、区），地理坐标介于 $1 0 3 ^ { \circ } \sim 1 1 4 ^ { \circ } \mathrm { E }$ 和 $3 4 ^ { \circ } \sim 4 0 ^ { \circ } \mathrm { N }$ 之间(图1），土地面积约 $6 4 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ ,占全国陆地总面积的 $6 . 6 7 \%$ ,其中平坦耕地一般不到 $1 / 1 0$ ，绝大部分耕地分布在 $1 0 ^ { \circ } \sim 3 5 ^ { \circ }$ 的斜坡上。地块狭小分散，不利于水利化和机械化。黄土高原水土流失严重,年均输入黄河泥沙约 $1 5 \times 1 0 ^ { 8 } \mathrm { ~ t ~ }$ ，随泥沙流失的氮磷钾养分约3000×104t[28]
+
+黄土高原主要的气候特点为冬春季寒冷干燥多风沙，夏秋季炎热多暴雨，降雨总的趋势是从东南（600～800 mm）向西北递减（100\~200 mm）[29]黄土高原以旱作农业区为主，具体可分为西北部干旱灌溉农业区，中部半干旱雨养农业区，东南部半湿润灌溉农业区，该区农业生产极具多样化的特征，主要农作物有小麦、玉米、水稻、谷子、马铃薯等[30]
+
+![](images/07e4d33cffd0ae73133a82038a669091bdc9380928b416bf13f6116d6155dc89.jpg)  
+图1 研究区图  
+Fig.1Study area of the Loess Plateau
+
+# 1.2 数据与方法
+
+1.2.1数据来源本研究以中国科学院遥感与数字地球研究所提供的 $3 0 \mathrm { ~ m ~ }$ 分辨率1990年、2000年、2010年和2015年土地覆被数据集（ChinaCov-er)作为耕地变化分析基础数据资料，数据验证精度均符合精度要求[31-32];收集 1990—2015 年区域内县（区)人口数据、粮食消费需求数据和农业投人与产出数据，其中，人口数据来源于《中国人口普查分县资料》，农业投入产出数据来源于黄土高原各市、县(区)统计年鉴，粮食消费需求数据来源于《中国统计年鉴》。
+
+1.2.2数据处理与研究方法以土地覆被数据集为基础,依据其I级分类系统,即包括耕地、林地、草地、湿地、人工表面和其他6类,采用ArcGIS和Mat-lab 软件，获取1990年、2000年、2010年和2015年4期以及 1990—2000 年、2000—2010 年和 2010—2015年3个时段的耕地等地类的动态变化的时空数据。
+
+以黄土高原各县(区)城乡人口数量、粮食播种面积、粮食产量等为基础数据源，参照国家统计局公布的我国城乡居民口粮人均年消费量，采用统计分析和综合分析等方法，评估该区口粮绝对安全所需最小耕地保障面积。考虑到城乡居民口粮消费水平存在一定差距，本文结合该区城乡人口数量先分别计算城镇居民和乡村居民口粮消费总量，得到黄土高原居民口粮实际总消费量，再依据该地区粮食单产水平，获得口粮需要的播种面积，再用复种指数加以修订，得到生产口粮需要的耕地面积，即口粮绝对安全最小耕地保障面积。本文基于丁明军等[33]和何文斯等[34]的研究将黄土高原耕地复种指数统一按照 $102 \%$ 处理。具体思路如图2。
+
+# 2结果与分析
+
+# 2.1 耕地面积数量变化
+
+研究期间黄土高原耕地总面积数量以减少为主，从1990 年的 $1 9 2 \ 5 2 9 . 6 5 \ \mathrm { k m } ^ { 2 }$ 减少至2015年$1 8 2 \ 6 8 8 . 5 0 \ \mathrm { k m } ^ { 2 }$ ,耕地面积净减少了 $9 ~ 8 4 1 . 1 4 ~ \mathrm { k m } ^ { 2 }$ ，减少幅度为 $5 . 1 1 \%$ 。纵观黄土高原1990—2015 年耕地面积的变化情况（表1），以世纪之交2000 年为转折点，2000 年黄土高原耕地面积为192941.21$ { \mathrm { k m } } ^ { 2 }$ ,较1990 年新增耕地 $1 0 \ 7 2 4 . 5 1 \ \mathrm { k m } ^ { 2 }$ ,原有耕地减少 $1 0 \ 2 8 7 . 6 8 \ \mathrm { k m } ^ { 2 }$ ,耕地面积净增加 $4 3 6 . 8 3 ~ \mathrm { k m } ^ { 2 }$ ，增加幅度为 $0 . 2 3 \%$ ;2000—2010年耕地面积持续减少至 $1 8 4 ~ 6 6 2 . 0 3 ~ \mathrm { k m } ^ { 2 }$ ,新增耕地 $1 8 \ 2 6 5 . 3 2 \ \mathrm { k m } ^ { 2 }$ ，减少耕地 $2 6 ~ 7 4 8 . 3 2 ~ \mathrm { k m } ^ { 2 }$ ,导致耕地面积净减少8 483$ { \mathrm { k m } } ^ { 2 }$ ,减少幅度达 $4 . 4 0 \%$ ,2010—2015 年耕地面积净减少了 $2 \ 0 2 1 . 9 4 \ \mathrm { k m } ^ { 2 }$ （新增耕地 $1 \ 3 4 7 . 9 1 \ \mathrm { k m } ^ { 2 }$ ，减少耕地 $3 \ 3 6 9 . 8 5 \ \mathrm { k m } ^ { 2 }$ ），减少幅度仅为 $1 . 0 9 \%$ 。
+
+![](images/db60b126863d4aa62e35d8785785daf1301e794e298d21b5b83b7d469a7851a1.jpg)  
+图2口粮安全耕地数量研究思路Fig.2Research method of grain ration safetycultivated land area
+
+# 2.2耕地时空变化特征
+
+1990—2015年，黄土高原耕地主要分布于东南部和西北部的灌溉农业区（图3）。
+
+黄土高原自1990 年以来耕地在空间上的变化可分为明显的3个阶段：
+
+（1）1990—2000 年，黄土高原耕地在空间上增减相对均衡，且耕地面积不变的区域占绝大部分（图4a）。其中，新增耕地区域集中分布在黄土高原西北部的银川市辖区、同心县、中卫县、中宁县、西吉县、盐池县、海原县、永宁县、固原市辖区、青铜峡市辖区、乌拉特前旗、杭锦旗、磴口县、环县、景泰县、靖远县、大荔县和定边县等地区；耕地减少区域主要分布在陕西省的志丹县、定边县、横山区、吴旗县、延长县和韩城市，宁夏的同心县、海原县、盐池县和固原市辖区，甘肃省的环县及河南省的济源市等地区。
+
+表1 1990—2015 年黄土高原耕地面积变化特征  
+Tab.1Characteristics of cultivated lands change in Loess Plateau during 1990-2015   
+
+<html><body><table><tr><td>年份</td><td>耕地面积／km</td><td>年份</td><td>增加量／km²</td><td>减少量／km²</td><td>净变化量／km（变化幅度／%）</td></tr><tr><td>1990</td><td>192 529.65</td><td></td><td></td><td></td><td></td></tr><tr><td>2000</td><td>192 941. 21</td><td>1990—2000</td><td>10 724.51</td><td>10 287.68</td><td>436.83 (0.23)</td></tr><tr><td>2010</td><td>184 662.03</td><td>2000—2010</td><td>18 265.32</td><td>26 748.32</td><td>-8 483.00 (-4.40)</td></tr><tr><td>2015</td><td>182 688.50</td><td>2010—2015</td><td>1 347.91</td><td>3 369.85</td><td>-2 021.94 (-1.09)</td></tr></table></body></html>
+
+![](images/5b108f8f9b005511a78e1ea0010a19f49f56a8ff4b57ef41a95f8a7321eb0b5a.jpg)  
+图31990—2015 年黄土高原耕地空间分布  
+Fig.3Spatial distribution of Loess Plateau cultivated land during 199O—2015
+
+(2）2000—2010 年，黄土高原耕地在空间上显著缩减，缩减耕地的区域明显多于新增耕地的区域。如图4b所示，该时期耕地减少现象普遍，且在陕西省的志丹县、延安市辖区、延长县、定边县、安塞县、吴旗县、神木县和横山区，甘肃省的环县、靖远县、会宁县、定西市辖区、华池县和镇原县，宁夏的海原县、同心县、固原市辖区和西吉县，内蒙的乌拉特前旗和杭锦旗等地区的耕地大面积减少。而该时期，新增耕地主要分布于山西省的临猗县、万荣县、运城市辖区、临县、芮城县和平陆县,陕西省的周至县、定边县、洛川县、礼泉县、眉县和大荔县,甘肃省的环县、天水市辖区，宁夏的中卫县、盐池县和同心县及内蒙的乌拉特前旗、鄂托克旗等地区。
+
+（3）2010—2015年，黄土高原耕地在空间上略有缩减，耕地面积不变的区域占绝大部分，但部分区域仍具有显著的变化（图4c）。10a间，甘肃省的环县、镇原县、永登县、平凉市辖区和彭阳县，陕西省的绥德县、安塞县、清涧县、府谷县和神木县，内蒙的乌拉特前旗和杭锦旗，河南省的偃师市辖区、荥阳市和灵宝市辖区及宁夏的固原市辖区等地区耕地减少；榆林市辖区、鄂托克前旗、杭锦旗等地区耕地略有增加。
+
+# 2.3变化耕地的地类转化
+
+自1990年以来，黄土高原由其他土地利用类型转入耕地的面积为 $2 1 ~ 8 1 5 . 2 5 ~ \mathrm { k m } ^ { 2 }$ ,耕地转化为其他土地利用类型的面积为 $3 1 ~ 8 7 5 . 8 2 ~ \mathrm { k m } ^ { 2 }$ ,耕地转出大于转入（表2和表3）。其中，1990—2000 年，增加的耕地主要由草地、林地和其他转化而来,草地、林地、其他转化为耕地的面积分别为 $5 8 5 9 . 5 1 ~ \mathrm { k m } ^ { 2 }$ 、
+
+![](images/ae9334761d104e362d446c4594cc8ab28daf92eb786c38429a6c2d8f51499606.jpg)  
+图41990—2015年黄土高原耕地变化空间分布  
+Fig.4Spatial distribution of Loess Plateau cultivated land change during 199O—2015
+
+Tab.2Area matrix of cultivated lands converted from other types of land use in LoessPlateau during 1990—2015   
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="4">转入面积／km（百分比%）</td></tr><tr><td>1990—2000 年</td><td>2000—2010年</td><td>2010—2015 年</td><td>1990—2015 年</td></tr><tr><td>林地</td><td>1693.34(15.79)</td><td>7 696.47 (42.14)</td><td>114.99 (8.53)</td><td>7771.75(35.63)</td></tr><tr><td>草地</td><td>5 859.51(54.64)</td><td>8 038.86(44.01)</td><td>933.00 (69.22)</td><td>9 981.85(45.76)</td></tr><tr><td>人工表面</td><td>815.39 (7.60)</td><td>1 424.09 (7.80)</td><td>0.40(0.03)</td><td>1 256.18 (5.76)</td></tr><tr><td>湿地</td><td>987.90 (9.21)</td><td>444.32 (2.43)</td><td>126.86 (9.41)</td><td>1 106.85 (5.07)</td></tr><tr><td>其他</td><td>1 368.34(12.76)</td><td>661.59 (3.62)</td><td>172.65(12.81)</td><td>1 698.63(7.79)</td></tr></table></body></html>
+
+表21990—2015年黄土高原耕地转入矩阵  
+表31990—2015年黄土高原耕地转出矩阵  
+Tab.3Area matrix of cultivated lands converted into other types of land use in Loess Plateau during 1990—2015   
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="4">转出面积／km（百分比%）</td></tr><tr><td>1990—2000 年</td><td>2000—2010 年</td><td>2010—2015 年</td><td>1990—2015年</td></tr><tr><td>林地</td><td>2 075.90(20.18)</td><td>4198.29(15.70)</td><td>239.32(7.10)</td><td>4 853.98(15.23)</td></tr><tr><td>草地</td><td>5 351.79 (52.02)</td><td>17 335.84 (64.81)</td><td>1 639.30 (48.65)</td><td>19 311.97 (60.59)</td></tr><tr><td>人工表面</td><td>2 245.08 (21.82)</td><td>3 901.54(14.59)</td><td>1094.43(32.48)</td><td>6 278.08 (19.70)</td></tr><tr><td>湿地</td><td>314.11 (3.05)</td><td>651.94 (2.44)</td><td>250.65 (7.44)</td><td>727.01 (2.28)</td></tr><tr><td>其他</td><td>300.81 (2.92)</td><td>660.72 (2.47)</td><td>146.15 (4.34)</td><td>704.78(2.21)</td></tr></table></body></html>
+
+$1 \ 6 9 3 . 3 4 \ \mathrm { k m } ^ { 2 }$ 和 $1 \ 3 6 8 . 3 4 \ \mathrm { k m } ^ { 2 }$ ,分别占该时期总增加量的 $5 4 . 6 4 \ \% . 1 5 . 7 9 \ \%$ 和 $1 2 . 7 6 \ \%$ ，由此,增加的耕地中由草地转化的占有的比例最大，是增加总量的主要来源，且由图5a可知，主要分布于宁夏的同心县 $( 2 9 1 . 3 8 ~ \mathrm { k m } ^ { 2 }$ ）、海原县 $( 1 4 0 . 1 3 ~ \mathrm { k m } ^ { 2 }$ ）、盐池县( $( 1 3 6 . 5 8 ~ \mathrm { k m } ^ { 2 }$ ）、西吉县( $( 1 0 4 . 6 8 ~ \mathrm { k m } ^ { 2 }$ )，甘肃省的环县 $( 1 8 7 . 3 1 ~ \mathrm { k m } ^ { 2 }$ ）、内蒙的乌拉特前旗（139.21$\mathrm { k m } ^ { 2 }$ )及陕西省的定边县( $\cdot 1 1 6 . 8 7 \ { \mathrm { k m } } ^ { 2 }$ )等地区;减少的耕地主要转化为草地、人工表面和林地,耕地转化草地、人工表面和林地的面积分别为 $5 ~ 3 5 1 . 7 9 ~ \mathrm { k m } ^ { 2 }$ 、$2 ~ 2 4 5 . ~ 0 8 ~ \mathrm { { k m } ^ { 2 } , 2 ~ 0 7 5 . ~ 9 0 ~ \mathrm { { k m } ^ { 2 } } }$ ，分别占总减少量的$5 2 . 0 2 \% . 2 1 . 8 2 \% . 2 0 . 1 8 \%$ ，该时期减少的耕地主要转化为草地，且主要分布于甘肃省的环县（665.52$ { \mathrm { k m } } ^ { 2 }$ ）、镇原县( $3 0 7 . 7 5 \ \mathrm { k m } ^ { 2 }$ ）、会宁县 $( 2 9 0 . 8 0 ~ \mathrm { k m } ^ { 2 }$ ）、定西市辖区( $( 2 3 5 . 4 2 ~ \mathrm { k m } ^ { 2 }$ ）、靖远县( $2 2 5 . 8 5 ~ \mathrm { k m } ^ { 2 }$ )和华池县 ( $2 2 5 . \ 2 5 \ \mathrm { \ k m } ^ { 2 }$ ），宁夏的同心县（487.37$\mathrm { k m } ^ { 2 }$ ）、海原县 $( 4 2 3 . 8 1 ~ \mathrm { k m } ^ { 2 }$ ）、固原市辖区（323.91$ { \mathrm { k m } } ^ { 2 }$ ）、西吉县 $( 3 1 1 . 1 8 ~ \mathrm { k m } ^ { 2 }$ ）、盐池县 $( 2 3 1 . 7 3 ~ \mathrm { k m } ^ { 2 }$ ）和彭阳县( $2 0 9 . 3 4 ~ \mathrm { k m } ^ { 2 }$ ）,陕西省的志丹县（399.05$ { \mathrm { k m } } ^ { 2 }$ ）、神木县 $( 3 1 6 . 1 0 ~ \mathrm { k m } ^ { 2 }$ ）、定边县 $( 3 1 1 . 3 2 \ \mathrm { k m } ^ { 2 }$ ）、横山区 $( 2 8 7 . 1 6 ~ \mathrm { k m } ^ { 2 }$ ）、府谷县 $( 2 7 8 . 5 8 ~ \mathrm { k m } ^ { 2 }$ ）、安塞县 $( 2 7 3 . 2 1 ~ \mathrm { k m } ^ { 2 }$ ）、延长县( $2 5 0 . \ 0 8 \ \ \mathrm { \ k m } ^ { 2 }$ ）、吴旗县$( 2 3 5 . 0 7 ~ \mathrm { k m } ^ { 2 }$ ）、延安市辖区 $( 2 3 0 . 4 3 ~ \mathrm { k m } ^ { 2 }$ ）、靖边县0 $\cdot 1 9 4 . 0 0 \ \mathrm { k m } ^ { 2 }$ )和延川县( $( 1 9 1 . 1 7 ~ \mathrm { k m } ^ { 2 }$ )，山西省的临县 $( 2 1 3 . 7 4 ~ \mathrm { k m } ^ { 2 } )$ 和兴县( $\cdot 1 9 2 . 2 0 \ \mathrm { k m } ^ { 2 }$ )及内蒙的乌拉特前旗 $( 2 9 7 . 3 8 ~ \mathrm { k m } ^ { 2 }$ )等地区（图5a）。
+
+2000一2010年，增加的耕地以草地和林地转化为主,有 $8 ~ 0 3 8 . 8 6 ~ \mathrm { k m } ^ { 2 }$ 草地和 $7 \ 6 9 6 . 4 7 \ \mathrm { k m } ^ { 2 }$ 林地转化为耕地,分别占总增加量的 $4 4 . 0 1 \%$ 和 $4 2 . 1 4 \%$ ，其中草地转化为耕地的区域主要分布在陕西省的定边县 $( 2 1 7 . 9 7 ~ \mathrm { k m } ^ { 2 }$ ）、横山区( $1 3 9 . 2 2 { \mathrm { ~ k m } } ^ { 2 }$ ),甘肃省的环县 $( 3 7 8 . 2 7 ~ \mathrm { k m } ^ { 2 }$ ）、会宁县 $( 1 3 7 . 5 8 ~ \mathrm { k m } ^ { 2 }$ ）、镇原县( $1 2 0 . 2 4 ~ \mathrm { k m } ^ { 2 }$ )和华池县( $1 0 4 . 6 2 ~ \mathrm { k m } ^ { 2 }$ )，内蒙的鄂托克前旗( $( 1 3 9 . 7 3 ~ \mathrm { k m } ^ { 2 }$ ）、鄂托克旗 $( ~ 1 3 5 . 7 3 ~ \mathrm { k m } ^ { 2 } \cdot$ 、乌拉特前旗( $( 1 2 5 . 9 2 ~ \mathrm { k m } ^ { 2 }$ ）、乌审旗 $( 1 2 0 . 8 1 ~ \mathrm { k m } ^ { 2 }$ ）、准格尔旗( $1 2 0 . 1 5 ~ \mathrm { k m } ^ { 2 } .$ )和达拉特旗( $\cdot 1 1 0 . 5 8 \ \mathrm { k m } ^ { 2 } \cdot$ ，山西省的临县 $( 1 5 0 . 1 6 ~ \mathrm { k m } ^ { 2 }$ ）、兴县( $\cdot 1 0 2 . 2 4 ~ \mathrm { k m } ^ { 2 }$ 及宁夏的同心县 $( \ 1 6 1 . \ 1 8 \ \ \mathrm { ~ k m } ^ { 2 }$ ）和盐池县（160.35$ { \mathrm { k m } } ^ { 2 }$ )等地区;林地转化为耕地区域主要分布于陕西省的周至县( $2 8 2 . 3 0 ~ \mathrm { k m } ^ { 2 }$ ）、礼泉县 $( 2 0 8 . 7 6 ~ \mathrm { k m } ^ { 2 }$ ）、洛川县 $( 2 0 5 . 0 6 ~ \mathrm { k m } ^ { 2 }$ ）、眉县( $( 1 8 1 . 1 3 ~ \mathrm { k m } ^ { 2 }$ ）、大荔县（ $1 4 5 . 1 6 ~ \mathrm { k m } ^ { 2 }$ )和富县( $( 1 1 5 . 0 0 ~ \mathrm { k m } ^ { 2 } )$ ），山西省的临猗县 $( 7 2 2 . 5 3 ~ \mathrm { k m } ^ { 2 }$ ）、万荣县 $( 2 3 7 . 1 9 ~ \mathrm { k m } ^ { 2 }$ )、运城市辖区 $( 2 3 2 . 7 1 ~ \mathrm { k m } ^ { 2 }$ ）、平陆县( $^ { 1 4 6 . 7 3 \mathrm { ~ k m } ^ { 2 } } .$ )和芮城县（ $1 4 5 . \ 8 1 \ \mathrm { \ k m } ^ { 2 }$ ）及甘肃省的天水市辖区（118.48$ { \mathrm { k m } } ^ { 2 }$ )等地区（图5b)。减少的耕地主要转化为草地、林地和人工表面，且转化的面积分别为$1 7 ~ 3 3 5 . 8 4 ~ \mathrm { k m } ^ { 2 } \surd 4 ~ 1 9 8 . 2 9 ~ \mathrm { k m } ^ { 2 } \surd 3 ~ 9 0 1 . 5 4 ~ \mathrm { k m } ^ { 2 }$ ,分别占减少总量的 $6 4 . 8 1 \% 1 5 . 7 0 \% 1 4 . 5 9 \%$ ,其中,耕地转为草地的区域主要分布于陕西省的志丹县$( 3 2 1 . 8 4 ~ \mathrm { k m } ^ { 2 }$ ）、延长县 $( 2 1 4 . 0 0 ~ \mathrm { k m } ^ { 2 }$ ）、安塞县(220.57$ { \mathrm { k m } } ^ { 2 }$ ）定边县 $( 2 8 4 . 4 5 ~ \mathrm { k m } ^ { 2 }$ ）、横山区 $( 2 6 0 . 8 5 ~ \mathrm { k m } ^ { 2 }$ ）、神木县 $( 2 4 7 . 4 5 ~ \mathrm { k m } ^ { 2 }$ ）、府谷县( $( 2 2 1 . 0 8 ~ \mathrm { k m } ^ { 2 }$ ）、延安市辖区( $1 9 8 . 4 9 { \mathrm { ~ k m } } ^ { 2 }$ )和吴旗县 $( 1 9 2 . 2 0 ~ \mathrm { k m } ^ { 2 }$ )，甘肃省的环县 $( 5 4 4 . 6 4 ~ \mathrm { k m } ^ { 2 }$ ）、会宁县( $2 8 8 . 5 2 ~ \mathrm { k m } ^ { 2 }$ ）镇原县( $( 2 3 9 . 8 6 ~ \mathrm { k m } ^ { 2 }$ ）、定西市辖区( $( 2 3 4 . 8 0 ~ \mathrm { k m } ^ { 2 }$ ）、靖远县( $2 2 6 . 5 2 ~ \mathrm { k m } ^ { 2 }$ )和华池县 $( 2 1 3 . 5 2 ~ \mathrm { k m } ^ { 2 }$ )，宁夏的海原县( $^ { \prime } 4 2 8 . 2 3 \ \mathrm { k m } ^ { 2 }$ ）同心县 $( 3 9 3 . 2 7 ~ \mathrm { k m } ^ { 2 }$ ）、西吉县 $( 3 3 1 . 6 8 ~ \mathrm { k m } ^ { 2 }$ )和固原市辖区 $( 2 8 4 . 0 9 \ \mathrm { k m } ^ { 2 } )$ ），内蒙的乌拉特前旗( $2 6 7 . 3 7 ~ \mathrm { k m } ^ { 2 }$ ）、杭锦旗( $. 1 7 6 . 1 1 ~ \mathrm { k m } ^ { 2 }$ ）及山西省的临县 $( 2 1 3 . 4 2 ~ \mathrm { k m } ^ { 2 }$ )等地区;耕地转为林地的区域主要分布在陕西省的延安市辖区（158.66$ { \mathrm { k m } } ^ { 2 }$ ）、延长县 $( 1 1 7 . 7 6 ~ \mathrm { k m } ^ { 2 }$ )、志丹县 $( 9 9 . 9 5 ~ \mathrm { k m } ^ { 2 }$ ）、吴旗县( $\cdot 8 2 . 2 0 \ \mathrm { k m } ^ { 2 }$ ）、韩城市 $( 8 1 . 4 4 ~ \mathrm { k m } ^ { 2 }$ ）、安塞县中 $8 1 . 0 9 { \mathrm { ~ k m } } ^ { 2 }$ )和宜川县（ $( 7 6 . 0 2 ~ \mathrm { k m } ^ { 2 }$ )及宁夏的固原市辖区（ $\mathrm { 8 0 } . 1 2 \ \mathrm { k m } ^ { 2 }$ )等地区，即该时期耕地转为草地和林地的区域主要分布于黄土高原水土流失治理重点区的中部半干旱沟壑区的雨养农业区；而耕地转为人工表面的区域主要分布在黄土高原东南部低海拔平原地区（图5b）。
+
+![](images/608df24d7bd24ddbf5f0ff4550660b6f9abd66587ba398d71bd1345985300f2f.jpg)  
+图51990—2015 年黄土高原耕地空间转换分布  
+Fig.5Spatial distribution of Loess Plateau cultivated land conversion during 1990—2015
+
+2010—2015年，耕地的增加主要源于草地、其他、湿地和林地的转化，草地、其他、湿地和林地转化为耕地的面积分别为 $9 3 3 . 0 0 ~ \mathrm { { k m } } ^ { 2 } \setminus 1 7 2 . ~ 6 5 ~ \mathrm { { k m } } ^ { 2 } .$ ，$1 2 6 . 8 6 ~ \mathrm { k m } ^ { 2 }$ 和 $1 1 4 . 9 9 ~ \mathrm { k m } ^ { 2 }$ ,分别占该时段总增加量的 $6 9 . 2 2 \% . 1 2 . 8 1 \% . 9 . 4 1 \%$ 和 $8 . 5 3 \%$ ,即增加的耕地有一半以上由草地转化而来，且主要分布于内蒙的鄂托克前旗( $( 1 1 6 . 3 3 ~ \mathrm { k m } ^ { 2 }$ ）、杭锦旗 $( 9 0 . 2 5 ~ \mathrm { k m } ^ { 2 }$ ）、乌拉特前旗 $( 4 3 . 1 6 ~ \mathrm { k m } ^ { 2 }$ ）、乌审旗 $( 4 2 . 0 8 ~ \mathrm { k m } ^ { 2 }$ )和鄂托克旗 $\left( 3 8 . 3 8 ~ \mathrm { k m } ^ { 2 } \right.$ ），陕西的榆林市辖区（87.38$ { \mathrm { k m } } ^ { 2 }$ ）、定边县 $( 3 8 . 5 7 ~ \mathrm { k m } ^ { 2 }$ )及宁夏的贺兰县（38.72$ { \mathrm { k m } } ^ { 2 }$ )等地区(图5c);耕地的去向以草地为主，人工表面次之，耕地转化为草地和人工表面的面积分别为 $1 \ 6 3 9 . 3 0 \ \mathrm { k m } ^ { 2 }$ 和 $1 \ 0 9 4 . 4 3 \ \mathrm { k m } ^ { 2 }$ ,分别占减少总量的 $4 8 . 6 5 \%$ 和 $3 2 . 4 8 \%$ ,二者之和达 $80 \%$ 以上，该时期减少耕地的去向仍以草地为主，人工表面占用耕地的比重较前两时段成倍增加，建设用地和交通用地等人工表面对耕地占用进一步加强。而耕地转为草地的区域主要分布于宁夏的彭阳县（99.15$ { \mathrm { k m } } ^ { 2 }$ ）、固原市辖区( $( 6 3 . 2 4 ~ \mathrm { k m } ^ { 2 }$ ),内蒙的乌拉特前旗（号 $( 7 5 . 9 3 ~ \mathrm { k m } ^ { 2 }$ ），甘肃省的环县( $( 1 4 1 . 6 7 ~ \mathrm { k m } ^ { 2 }$ ）、镇原县$( 7 3 . 4 3 ~ \mathrm { k m } ^ { 2 }$ )和平凉市辖区（ $( 5 2 . 8 6 ~ \mathrm { k m } ^ { 2 }$ )，陕西省的神木县 $( 5 3 . 1 7 ~ \mathrm { k m } ^ { 2 }$ ）、府谷县 $( 4 7 . 7 0 \ \mathrm { k m } ^ { 2 }$ ）、绥德县（ $4 3 . 9 3 ~ \mathrm { k m } ^ { 2 }$ ）、安塞县 $( 4 1 . 8 0 ~ \mathrm { k m } ^ { 2 }$ )和清涧县（40.03$ { \mathrm { k m } } ^ { 2 }$ )等地区;耕地转为人工表面的区域主要分布在河南省的偃师市辖区（ $( 4 6 . 6 1 ~ \mathrm { ~ k m } ^ { 2 }$ ）、荥阳市$^ { \prime } 4 3 . 9 6 \ \mathrm { k m } ^ { 2 }$ )及甘肃省的永登 $( 5 2 . 3 6 ~ \mathrm { k m } ^ { 2 }$ )等地区（图5c）。
+
+# 2.4口粮绝对安全所需最小耕地面积及其变化
+
+口粮主要是中国城乡居民直接食用的粮食，品种包括国内常规口径粮食：水稻、小麦、玉米、大豆和薯类,以水稻和小麦为主[19]。口粮绝对安全所需最小耕地保障面积的变化情况受制于多年来口粮实际消费总量与粮食单产水平动态变化的共同影响，其中口粮实际消费总量主要取决于城乡居民的人口数量和人均口粮消费量。
+
+如表4所示，在1990—2015年，黄土高原居民口粮直接消费总量呈明显减少特征，从1990年的$2 0 0 3 . 7 0 \times 1 0 ^ { 4 } \mathrm { ~ t ~ }$ 减少至2015年的 $1 5 2 3 . 0 2 \times 1 0 ^ { 4 } \mathrm { ~ t ~ }$ ，减少了 $4 8 0 . 6 8 \times 1 0 ^ { 4 } \mathrm { ~ t ~ }$ ;相应地,该时段生产口粮需要的播种面积呈持续减少的态势，从1990年的$7 2 ~ 3 3 1 . 6 3 ~ \mathrm { k m } ^ { 2 }$ 减少至2015年的 $3 4 ~ 6 6 1 . 2 7 ~ \mathrm { k m } ^ { 2 }$ ，折合成耕地面积,即口粮绝对安全所需最小耕地保障面积在2015 年为 $3 3 ~ 9 8 1 . 6 4 ~ \mathrm { k m } ^ { 2 }$ ，仅为1990 年的$( 7 0 ~ 9 1 3 . 3 7 ~ \mathrm { k m } ^ { 2 } ) 4 7 . 8 \%$ ,减少了 $3 6 ~ 9 3 1 . 7 3 ~ \mathrm { k m } ^ { 2 }$ ，减少幅度达 $5 2 \%$ ，特别地，最小耕地保障面积从2000年的6 $6 \ 5 8 0 . \ 3 8 \ \mathrm { \ k m } ^ { 2 }$ 快速减少到2010年的$3 5 ~ 1 3 2 . 3 3 ~ \mathrm { k m } ^ { 2 }$ 后维持平稳，此阶段减少幅度最大，达 $43 \%$ ,年均减少面积为 $2 \ 8 5 8 . 9 1 \ \mathrm { k m } ^ { 2 }$ 。此外,该时段黄土高原粮食单产连续增长了 $5 8 . 6 2 \%$ ,其中2000一2010年的单产水平提升较为显著，表现出较高的粮食供给能力。表明该时段黄土高原最小耕地保障面积显著减少的可能原因是这一时期耕地粮食单产水平迅速提升与居民口粮消费量明显下降共同作用的结果。
+
+表41990—2015年黄土高原口粮绝对安全最小耕地保障量  
+Tab.4Minimum cultivated land area for grain ration safety in Loess Plateau during 1990-2015   
+
+<html><body><table><tr><td rowspan="2">年份</td><td colspan="2">人均消费量／kg</td><td rowspan="2">□粮消费总量 /104t</td><td rowspan="2">单产水平 /kg·km -2</td><td rowspan="2">需播种面积 /km²</td><td rowspan="2">最小耕地保障 面积／km²</td></tr><tr><td>城镇居民</td><td>农村居民</td></tr><tr><td>1990</td><td>130.72</td><td>262.08</td><td>2 003.70</td><td>277 015.79</td><td>72 331.63</td><td>70 913.37</td></tr><tr><td>2000</td><td>82.31</td><td>250.23</td><td>1 924.46</td><td>283 376.50</td><td>67 911.98</td><td>66 580.38</td></tr><tr><td>2010</td><td>81.53</td><td>181.44</td><td>1 455.75</td><td>406 238.31</td><td>35 834.98</td><td>35132.33</td></tr><tr><td>2015</td><td>112.60</td><td>159.50</td><td>1 523.02</td><td>439400.40</td><td>34 661.27</td><td>33 981.64</td></tr></table></body></html>
+
+如图6所示，在1990一2015年，黄土高原口粮绝对安全最小耕地保障面积与耕地总面积的演变趋势较为一致，均呈下降的态势，但最小耕地保障面积的下降幅度更大，使得该区口粮绝对安全的保障耕地面积占总耕地面积比例呈明显缩减趋势，即从1990年的 $3 6 . 8 3 \%$ 缩减到2015年的 $1 8 . 6 0 \%$ ,其中1990—2000 年和2000—2015 年最小耕地保障面积占总耕地面积比例虽有减少，但都趋于相对稳定，而在 2000—2010年该比例出现了快速缩减的局面，即从 $3 4 . 5 1 \%$ 缩减到 $1 9 . 0 3 \%$ 。表明该时段区域内城乡居民直接与间接消费的粮食作物及其他经济作物等生产所需耕地面积比例发生了一定程度的变化。
+
+![](images/5b7b0764fb1a81316f015e84436d38bf3c8b6ed34bb6d09be1bf5ea8816b4406.jpg)  
+图6黄土高原1990—2015 年口粮绝对安全最小耕地保障面积占耕地总面积比例  
+Fig.6Percentage of minimum cultivated land area for grain ration safety accounts for total cultivated land in Loess Plateau during 1990—2015
+
+# 3讨论
+
+在1990—2015年，黄土高原耕地数量不断减少,减少耕地的去向以草地和林地为主,且主要发生在黄土高原中部半干旱沟壑区的雨养农业区，特别地,在2000—2010 年,这一变化表现的尤为显著，这与国家在该地区开展的退耕还林(草)工程、坡耕地整治等大型生态工程有着必然的联系[35]。同时在该时段，黄土高原人口数量持续增加，从1990年的（204号 $8 ~ 7 8 6 . 3 0 \times 1 0 ^ { 4 }$ 人增长到2015年的 $1 1 ~ 4 0 7 . 8 5 \times 1 0 ^ { 4 }$ 人，增长了 $2 6 2 1 . 5 5 \times 1 0 ^ { 4 }$ 人，其中在2015年该区城镇人口为 $6 \ 3 2 2 . 7 1 \times 1 0 ^ { 4 }$ 人，占总人口 $5 5 . 4 2 \%$ ，农村人口为 $5 ~ 0 8 5 . 1 4 \times 1 0 ^ { 4 }$ 人，占总人口 $4 4 . 5 8 \%$ ，与1990年该区人口数量相比，城镇人口比重上升了29.52个百分点，农村人口下降了29.51个百分点，值得注意地是，自2000 年以来,黄土高原城镇人口年均增量( $1 8 5 . 3 6 \times 1 0 ^ { 4 }$ 人： $\textbf { a } ^ { - 1 }$ )较1990—2000年的( $1 2 6 . 6 \times 1 0 ^ { 4 }$ 人· $\mathrm { ~ a ~ } ^ { - 1 }$ )增加了 $5 8 . 7 6 \times 1 0 ^ { 4 }$ 人：$\mathbf { a } ^ { - 1 }$ （图 $\mathrm { 7 a }$ 和 7b);与此同时,黄土高原国内生产总值(GDP)持续增加，从1990年的 $2 \ 4 6 5 . 1 1 \times 1 0 ^ { 8 }$ 元上升至2015年的 $9 7 7 4 1 . 1 6 \times 1 0 ^ { 8 }$ 元，以 $3 6 6 4 . 4 6 \times$ ${ 1 0 } ^ { 8 }$ 元 $\cdot \mathrm { ~ a ~ } ^ { - 1 }$ 的增幅增长,年增长率为 $3 8 . 6 5 \%$ （图7c），说明该时段城镇人口比重上升的可能原因是经济社会的快速发展极大地提升了城镇化水平，这与该时期黄土高原建设用地等人工表面占用耕地活动较为强烈的现象相呼应。此外，在1990一2015年，城乡居民口粮消费发生不同程度的减少，同时二者消费差距也逐渐缩小，1990年乡村居民口粮消费量 $2 6 2 . 0 8 \mathrm { ~ k g ~ } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ )是城镇居民( $1 3 0 . 7 2 \mathrm { ~ k g ~ } \cdot \mathrm { ~ a ~ } ^ { - 1 } \mathrm { ~ } \rangle$ 的约2倍，到2015年，城镇居民与乡村居民口粮消费量分别减少至 $1 1 2 . 6 0 \ \mathrm { ~ k g ~ } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ 和 $1 5 9 . 5 0 \ \mathrm { k g } \ \cdot$ （$\mathrm { ~ a ~ } ^ { - 1 }$ ,二者的消费差距缩小为 $4 6 . 9 ~ \mathrm { k g }$ （表4），说明居民日常膳食摄入口粮比重逐渐降低的可能原因是这一时期显著的经济发展与高水平的教育导致收入水平的提高与消费模式的改变使得居民膳食模式发生显著变化[36]。而该时段科技进步与惠农新政实施使得该区粮食单产持续增长，进一步增强了区域口粮安全的保障能力。
+
+综上，耕地数量不断减少与人口总量持续增加是黄土高原人均耕地不断减少的主要原因，而城镇化水平显著提高与居民膳食模式逐步转变，加之粮食供给能力增速提升使得黄土高原口粮绝对安全的保障耕地面积并未受到生态退耕等政策驱动造成的耕地面积减少的大影响。基于居民生活水平的不断提高对供给充足、高品质和无污染的口粮需求进一步加强，如何协调好政策驱动下的黄土高原耕地数量减少与最小经济社会代价下耕地质量、生态管护之间的关系，平衡耕地保护中政府与市场的合理边界，切实保障粮食安全，特别是供给弹性较小的口粮绝对安全，实现粮食安全由数量为主向数量、品质相协调转变，并结合黄土高原在我国的农业生态功能定位，提出新形势下粮食安全层面的耕地保护制度，对于实现该区粮食安全与耕地资源可持续利用、经济社会持续稳定的协调发展具有重要的现实意义，同时也能为国家推动农业供给侧结构性改革新政提供一定科学依据和试验试样板。对此，在接下来的研究中可以对上述议题进行更深人的研究。
+
+![](images/1dd87347ed8bcfe98dd14b0706050c64c62e54ee3576ddbc2495ccb7931bf1d4.jpg)  
+图7黄土高原1990—2015年人口数量与国内生产总值(GDP)变化Fig.7Changes in population and gross domestic product（GDP）in Loess Plateau during 1990—2015
+
+# 4结论
+
+通过利用已有遥感调查数据对黄土高原1990—2015年耕地动态变化及其地类转化进行了时空分析，并分析了该时期口粮绝对安全所需最小耕地保障面积及其占耕地总面积比例变化，主要结论如下：
+
+（1）在1990—2015年，黄土高原耕地在空间上的变化可分为增减相对均衡（1990—2000年）、显著缩减（2000—2010 年）和略有缩减（2010—2015年）的明显的3个阶段。较大的耕地动态变化图斑主要分布于中部和西部区域,细碎的变化图斑广泛分布，不变的区域仍占绝大部分。
+
+（2）在1990—2015 年，黄土高原耕地转出大于转入。其中，对草地和林地的开垦是新增耕地的主要来源，且主要分布于具有灌溉保证率的灌溉农业区和地形、土壤、水热等自然条件优越的东南部平原区域;而减少耕地的去向以草地和林地为主，且主要分布于黄土高原中部半干旱沟壑区的陕西延安、榆林地区、甘肃庆阳、定西、白银和宁夏固原、吴忠等六盘山一带和山西吕梁、临汾地区等雨养农业区域。此外,该时期建筑用地和交通用地等人工表面占用耕地的面积逐渐增加，主要分布在东南部低海拔平原地区。
+
+（3）在1990—2015年，黄土高原口粮绝对安全所需最小耕地保障面积与总耕地面积均呈不断下降态势,但最小耕地保障面积的下降幅度更大,其中2000一2010年的最小耕地保障面积出现了显著减少。其结果使得该区口粮绝对安全的保障耕地面积占该区耕地总面积比例呈明显缩减态势，且先后经历了为略微减少（1990—2000年）、显著缩减（2000—2010 年）和稳中略减（2010—2015年）的3个阶段。表明目前耕地面积的减少并未对口粮安全最小耕地保障面积造成大的影响
+
+参考文献（References）   
+[1]TIAN HQ,CHEN G S,ZHANG CHI,et al. Century-scale responses of ecosystem carbon storage and flux to multiple environmental changes in the southern United States[J].Ecosystems,2012,15 (4):674 -694.   
+[2］何凡能,李美娇,刘浩龙.北宋路域耕地面积重建及时空特征 分析[J].地理学报,2016,71（11）:1967－1978.[HE Fanneng, LI Meijiao,LIU Haolong.Reconstruction of cropland area at Lu scale and its spatial-temporal characteristics in the northern Song Dynasty[J].Acta Geographica Sinica,2016,71（11）:1967 - 1978.]   
+[3]TAO B,TIAN HQ,CHENG S,et al. Terrestrial carbon balance in tropical Asia:Contribution from cropland expansion and land management[J]. Global & Planetary Change,2013,100(1）:85-98.   
+[4]CHHABRA A,GEIST H,HOUGHTON R A,et al. Multiple impacts of land-use/cover change[J]. Springer Berlin Heidelberg,2006: 71 - 116.   
+[5]GOLDEWIJK K K,BEUSEN A,VAN DRECHT G,et al. The HYDE 3.1 spatially explicit database of human-induced global land-use change over the past 12 O0O years[J].Global Ecology and Biogeography,2011,20(1） :73-86.   
+[6]GODFRAY H C,BEDDINGTON JR,CRUTE L R,et al.Food security:The challenge of feeding 9 billion people[J].Science, 2010,327(5967) :812 -818.   
+[7]LANBIN EF,GIBBS H K,FERREIRA L,et al. Estimating the world's potentially available cropland using a bottom-up approach [J].Global Environmental Change,2013,23（5）:892 -901.   
+[8]JIN X B,ZHANG Z H,WU X W,et al. Co-ordination of land exploitation,exploitable farmland reservesand national planning in China[J].Land Use Policy,2016,57:682-693.   
+[9]朱红波.中国耕地资源安全研究［D].武汉:华中农业大学, 2006.[ZHU Hongbo.Study on cultivated land resource security in China[D].Wuhan ; Huazhong Agricultural University,2006.]   
+[10］赵晓丽,张增祥,汪潇,等.中国近30a耕地变化时空特征及其 主要原因分析[J].农业工程学报,2014,30(3）:1-11.[ZHAO Xiaoli,ZHANG Zengxiang,WANG Xiao,et al.Analysis of Chinese cultivated land's spatial-temporal changes and causes in recent 30 years[J].Transactions of the CSAE,2014,30(3）:1-11.]   
+[11]SONG XQ.Discussion on land use transition research framework [J].Acta Geographica Sinica,2017,72(3）:471-487.   
+[12]LI H,WU Y Z,HUANG XJ,et al. Spatial-temporal evolution and classification of marginalization of cultivated land in the process of urbanization[J].Habitat International,2O17,61:1-8.   
+[13]LONG HL,TU S S,GE D Z,et al. The allocation and management of critical resources in rural China under restructuring: Problems and prospects[J]. Journal of Rural Studies,2016,47:392-412.   
+[14］刘永强,苏昌贵,龙花楼,等.城乡一体化发展背景下中国农村 土地管理制度创新研究[J].经济地理,2013,33（10)：138- 144.[LIU Yongqiang,SU Changgui,Long Hualou,et al. The institutional innovation of rural land management in the context of ur
+
+ban-rural integration development[J].Economic Geography,2013, 33(10):138-144.]
+
+[15］陈宇琼,钟太洋.土地审批制度改革对建设占用耕地的影 响——基于1995—2013年省级面板数据的实证研究[J].资 源科学,2016,38（9）:1692-1701.[CHEN Yuqiong,ZHONG Taiyang.The impact of land examination and approval system reform on cultivated land occupation by construction according to provincial level panel data in China from 1995 to 2013[J].Resources Science,2016,38(9） :1692 -1701.]   
+[16］李升发,李秀彬.耕地畧荒研究进展与展望［J].地理学报, 2016,83（3）:370-389.[LI Shengfa,LI Xiubin. Progress and prospect on farmland abandonment[J]. Acta Geographica Sinica, 2016,71(3):370-389.]   
+[17］穆怀中,张文晓.中国耕地资源人口生存系数研究[J].人口研 究,2014,38（3）:14-27.[MU Huaizhong,ZHANG Wenxiao.A study of the population survival coeficient of arable land resources of China[J].Population Research,2014,38(3）:14-27.]   
+[18］郭珍,吴宇哲.基于食物安全层次性的耕地保护：政府与市场 的合理边界[J].浙江大学学报（人文社会科学版),2017（5）： 30-41.[GUO Zhen,WU Yuzhe.Cropland protection based on diferent hierar chies of food security:rational boundary between government and market[J]. Journal of Zhejiang University（Humanities and Social Sciences）,2017,（5）:30-41.]   
+[19］辛良杰,李鹏辉.中国居民口粮消费特征变化及安全耕地数量 [J].农业工程学报,2017,33（13）:1-7.［XINLiangjie,LI Penghui. Variation of grain consumption characteristics and safety cultivated land area in China[J].Transactions of the Chinese Society of Agricultural Engineering,2017,33（13）:1-7.]   
+[20］宋蕾,曹银贵.中国耕地变化文献分析:数量特征、研究区域与 文献来源[J].农业资源区划研究中国农业资源与区划,2018， 39（1）:31-40.[SONG Lei,CAO Yingui. Analysis on cultivated land change in China: Quantitative characteristics,research region and literature sources[J]. Chinese Journal of Agricultural Resources andRegional Planning,2018,39（1）:31-40.]   
+[21]HUANG JK,WEI W,CUI Q,et al.The prospects for China’ food security and imports:Will China starve the world via imports[J]. Journal of Integrative Agriculture,2017,16(12）:2933-2944.   
+[22］辛良杰,王佳月,王立新.基于居民膳食结构演变的中国粮食 需求量研究[J].资源科学,2015,37（7）:1347-1356.[XIN Liangjie,WANG Jiayue,WANG Lixin.Prospect of per capita grain demand driven by dietary structure change in China[J].Resources Science,2015,37(7) :1347 -1356.]   
+[23］赵姚阳,王洁,张莉,等.粮食安全新政背景下保障中国谷物基 本自给的耕地需求研究[J].干旱区资源与环境,2015,29（8)： 1 -6.[ZHAO Yaoyang,WANG Jie,ZHANG Li,et al. Analysis of arable land requirement for protecting the self-supply of grains under new food securitypolicy[J]. Journal of Arid Land Resources and Environment,2015,29(8）:1 -6.]   
+[24]GHOSE B.Food security and food self-sufficiency in China: From past to 2050[J].Food and Energy Security,2014,3(2）:86 -95.   
+[25] CUI Q,HUANG J K.Food expenditure responses to income/ex
+
+penditure shocks in rural China[J].China Agricultural Economic Review,2017,9(1):2-13.
+
+[26］郝仕龙,李春静，田颖超,等.黄土丘陵沟壑脆弱生态区耕地资 源价值动态变化研究——以上黄试区为例[J].中国生态农业 学报,2014,22（7）:43-49.[HAO Shilong,LI Chunjing,TIAN Yingchao,et al.Dynamics of cropland resources value in fragile ecological zones of the loess hilly-gully region:A case study of Shanghuang experiment Area[J]. Chinese Journal of Eco-Agriculture, 2014,22(7) :43 -49.]
+
+[27］肖丽群，陈伟，吴群，等.未来10年长江三角洲地区耕地数量变化对区域粮食产能的影响——基于耕地质量等别的视角[J].自然资源学报,2012,27（4）：565－576.[XIA0Liqun,CHENWei,WUQun,etal.Impact of cultivated land quantitychange on grain productive capacity of Yangtze River Delta in thenext1O years:Fromtheperspective ofcultivatedlandquality grade[J].Journal of Natural Resources,2012,27(4）:565-576.]
+
+[28]袁晓波，尚振艳，牛得草，等.黄土高原生态退化与恢复[J].草 业科学，2015,32（3）:363-371.[YUANXiaobo，SHANGZhenyan,NIU Decao,et al.Advances in ecological degeneration and restoration of Loess Plateau[J].Pratacultural Science,2O15,32 (3):363-371.]
+
+[29］赵艳霞，王馥棠，刘文泉.黄土高原的气候生态环境、气候变化与农业气候生产潜力[J].干旱地区农业研究,2003,21（4）：142-146.[ZHAO Yanxia,WANGFutang,LIUWenquan.Climat-ic ecological environment,climate change and agricultural produc-tivityinLoessPlateau[J].Agricultural Research in the Arid Are-as,2003，21(4):142-146.」
+
+[30］王俊,薄晶晶，付鑫.填闲种植及其在黄土高原旱作农业区的 可行性分析［J].生态学报，2018，38（14），5244－5254. [WANG Jun,BO Jingjing,FU Xin.Research progress in cover cropping and its feasibility inthe dryland farming systems on the Loess Plateau[J].Acta Ecologica Sinica,2018,38（14）,5244- 5254.]
+
+[31］吴炳方，钱金凯，曾源，等.中华人民共和国土地覆被地图集（1:1000000)[M].北京：中国地图出版社,2017.［WUBing-fang,QIAN Jinkai,ZENG Yuan,etal.Land cover atlas of the people's republic of China（1:1,O0o,0OO）[M].Beijing:SinoMapsPress,2017.]
+
+[32」吴炳方.中国土地覆被[M」.北京：科学出版社，2017.「WUBingfang.China's land cover[M].Beijing:Science Press,2017.][33］丁明军，陈倩，辛良杰，等.1999一2013年中国耕地复种指数的时空演变格局［J].地理学报，2015，70（7）：1080－1090.[DINGMingjun,CHENQian,XINLiangjie,etal. Spatialand tem-poral variations of multiple cropping index in China based onSPOT-NDVI during 1999—2013[J].Acta Geographica Sinica,2015,70(7):1080-1090.]
+
+[34］何文斯，吴文斌，余强毅，等.1980—2010年中国耕地复种可提升潜力空间格局变化.中国农业资源与区划,2016,37（11）：7-14.[HE Wensi,WUWenbin,YUQiangyi,etal.Changes inspatiotemporal distribution of potential increment multiple croppingin China during 1980—2O10[J].Chinese Journal of Agricultural
+
+Resources and Regional Planning,2016,37(11） :7-14.][35］刘国彬，上官周平，姚文艺，等.黄土高原生态工程的生态成效[J].中国科学院院刊,2017,32（1）：11-19.［LIUGuobin，SHANGGUAN Zhouping,YAO Wenyi,et al.Ecological effects ofsoil conservation in Loess Plateau[J].Bulletin of Chinese Acade-my of Sciences,2017,32(1):11-19.]
+
+[36］赵姚阳，蒋琳琳，王洁.居民膳食结构变化对中国食物生产用地需求的影响研究[J].中国人口·资源与环境,2014,24（3）：54-60.[ZHAO Yaoyang,JIANG Linlin,WANG Jie.Study of theeffect of residents'dietary pattern change to the land requirementsfor food[J].China Population,Resources and Environment,2014,24(3) :54 -60.]
+
+# Spatial and temporal changes of cultivated land and quantitative analysis of ration safe cultivated land on the Loess Plateau in recent years
+
+WANG Feng-jiao1， LIANG Wei1， FU Bo-jie²， JIN Zhao³,YAN Na-na4   
+(1DepartmentofGeography,ShoolofGeographyandTourismofhaanxiNormalUniversityXi'an70l19,haanxi,China;   
+2State KeyLaboratoryof UrbanandRegional Ecology,Research Center forEco-Environmental Sciences,Chinese Academy of Sciences,Beijing 10o85,China；3State KeyLaboratoryofSoil ErosionandDryland Farmingonthe LessPlateau,   
+Northwest A&FUniversity,Yangling7210,Shaanxi,China；4State KeyLaboratoryofRemoteSensing ScienceIstitute of Remote Sensing and Digital Earth,Chinese Academy of Sciences,Beijing 1Ooo94,China )
+
+Abstract:Based on land cover maps and the survey data,this paper quantitatively analyzed the spatial and temporal characteristics of cultivated landontheLoess Plateau,northwest China from 199O to 2O15,and evaluated he changes inthe minimum cultivated land area for grain safety.Theresults showed that the area ofcultivated land decreased from $1 9 2 ~ 5 2 9 . 6 5 ~ \mathrm { k m } ^ { 2 }$ in 1990 to $1 8 2 \ 6 8 8 . 5 0 \ \mathrm { k m } ^ { 2 }$ in 2015（decreased by $5 . 1 1 \%$ ）,of which the period 2000—2O1O witnessed the largest change rate,with a net decrease of $8 ~ 4 8 3 . 0 0 ~ \mathrm { k m } ^ { 2 }$ . The largest decrease in cultivated land was mainly distributed in central and western area of the Loess Plateau,and the finely-changed pixels were widely scattered.The areas converted from croplands ( $3 1 ~ 8 7 5 . 8 2 ~ \mathrm { k m } ^ { 2 }$ ） was larger than that converted to cultivated lands ( $2 1 ~ 8 1 5 . 2 5 ~ \mathrm { k m } ^ { 2 }$ ）in the period 1990—2015.The increased cultivated lands were mainly converted fromgrasslands and woodlands,which primarilyoccurred in the irigatedagricultural areasand southeastern plains of the LoessPlateau;whilethe decreased cultivated lands were mostlyconverted to grasslandsand woodlands,and it was concentratedonthe midde rain-fed farm areas ofthe LoessPlateau.In adition,the areaof cultivated land converted to build land graduall increased duringthis period,andmainly distributed inthelow-altitudeplains in the southeast of the Loess Plateau.The minimum cultivated land area for grain safety decreased from $7 0 ~ 9 1 3 . 3 7 ~ \mathrm { k m } ^ { 2 }$ in 1990 to $3 3 ~ 9 8 1 . 6 4 ~ \mathrm { k m } ^ { 2 }$ in 2015,and the corresponding percentage （accounted for total cultivated land） decreased from $3 6 . 8 3 \%$ to $1 8 . 6 0 \%$ . However,the decrease of cultivated land has negligible impact on grain safety on the Loess Plateau.
+
+Key words：cultivated land；minimumarea of cultivated land demanded;variationcharacteristics；LoessPlateau

@@ -1,0 +1,235 @@
+# DOI:10.5846/stxb201511092268
+
+王玄，江红星，张亚楠，陈丽霞，宋常站，李玉祥.基于稳定同位素技术的辽宁双台河口保护区黑嘴鸥（Larus sundersi）食性研究.生态学报，2017,37(6) :1796-1804.  
+WangX,JiangHXZangYLX,SogCZ,LDietoositofders'sGull（russuders）etedusinableoeanalysis at the Shuangtaihekou National Nature Reserve,China.Acta Ecologica Sinica,2O17,37(6):1796-1804.
+
+# 基于稳定同位素技术的辽宁双台河口保护区黑嘴鸥(Larussaundersi)食性研究
+
+王玄}，江红星}\*，张亚楠'，陈丽霞}，宋常站²，李玉祥
+
+1中国林业科学研究院森林生态环境与保护研究所,国家林业局森林保护学重点实验室，北京100091  
+2辽宁省盘锦市双台河口国家级自然保护区管理局，盘锦124000
+
+摘要;稳定同位素分析是开展濒危鸟类食性研究的现代化手段，该方法避免了传统食性研究只能反映鸟类瞬时取食的弊端，而反映鸟类长时间取食的同化比例。2014年6月收集了辽宁双台河口黑嘴鸥6种潜在食源213 份样品,幼鸟血样10份,幼鸟羽毛27份，成鸟羽毛17份。稳定碳氮( $\delta ^ { 1 3 } \mathrm { C }$ 和 $\delta ^ { 1 5 } \mathrm { N }$ )同位素分析结果表明：(1)成、幼鸟羽毛稳定碳同位素 $\langle \delta ^ { 1 3 } \mathrm { C } \rangle$ 差异显著，表明幼鸟与成鸟羽毛反映的食性信息不同。（2)疾病和死亡幼鸟羽毛的稳定碳氮同位素值与健康幼鸟均无显著性差异,幼鸟血液和羽毛同位素值之间也无显著差异;表明利用疾病和死亡幼鸟的羽毛样品可以替代损伤性采集血液样品,开展稳定同位素分析。（3)幼鸟血液和羽毛样品反映黑嘴鸥食性信息基本一致。其中泥螺（Bullcta exarata)和沙蚕（Nereis succinea）是其主要食源,各自贡献率均超过 $3 1 . 2 0 \%$ ;其次为矛尾刺虾虎鱼（Synechogobiushasta）( $( 1 2 . 8 6 \% , 1 4 . 4 9 \%$ ）、宽身大眼蟹（Macrophthalmusdilatatum） $( 9 . 1 9 \% . 8 . 0 8 \%$ ）和天津厚蟹（Helice tientsinensis） $( 7 . 4 8 \% , 6 . 0 0 \%$ )。在天然湿地持续减少和退化条件下,研究结果为黑嘴鸥繁殖的人工湿地中食源物种构建、恢复与管理提供了科学依据。
+
+关键词：黑嘴鸥;稳定同位素分析；食性；血液;羽毛;双台河口保护区
+
+# Diet composition of Saunders's Gull （Larus saundersi） determined using stable isotope analysis at the Shuangtaihekou National Nature Reserve， China
+
+WANG Xuan1， JIANG Hongxing1,\*，ZHANG Yanan1，CHEN Lixia’, SONG Changzhan²,LI Yuxiang²   
+KeyLbot   
+Forestry，Beijing 100091,China   
+2Management Bureau of Shuangtaihekou National Nature Reserve,Panjin 124Ooo,China
+
+Abstract：Inrecent decades，stable isotope techniques havebeen increasinglyapplied in studiesof the dietand trophic structureof birds.Understandingaviandiets iscritical for therehabilitationand conservationof endangered birdspecies, especiall forwaterbirds like Saunders'sGull.The Shuangtaihekou National NatureReserveaccommodates thelargest breding populationofSaunders'sGullsin the world,and the gulls breed inthereserve's man-made wetlands.Theobjective of this study was to determine the dietcompositionof Saunders'sGull，using stable isotopeanalysis toensure the best management practices of this globallyvulnerable species.Atotalof213 samplesofsix potential dietary species，10fledgling blood samples，and 27and17feather samples fromfledglingsandadults，respectively，werecolected.Theresultsshowed that:（1） The stable carbon isotope signature $( \delta ^ { 1 3 } \mathrm { C } )$ of feathers from adult and fledgling gulls were significantly different.
+
+Thefeathersoffledglingsprovidedshort-termfeeding informationatthebreeding site，whereas thefeathers fromadult gulls provided long-term information that also included feeding at stopover sites.（2）The $\delta ^ { 1 3 } \mathrm { C }$ and $\delta ^ { 1 5 } \mathrm { N }$ values of feathers from diseased anddead birds wereno diferentthan those from healthy birds，andthere wasalsono diference between the isotope values of the bloodand feathersoffledglings.Therefore，in future studies，wecanconductstable isotope analysis using feathers from deceased birds,ratherthan taking bloodand feathersamples form healthy birds.（3）Inaddition，the diet composition offledglingsrevealedby bloodsampleswasconsistent with thatrevealed byfeather samples.Bulacta exarata and Nereis succinea were the main food sources，and each accounted for over $3 1 . 2 0 \%$ of the gull's diet. The next most important contributors were Synechogobius hasta( $1 2 . 8 6 \% { \_ } 1 4 . 4 9 \%$ ），Macrophthalmus dilatatum( $8 . 0 8 \% -$ $9 . 1 9 \%$ ），and Helice tientsinensis ( $6 . 0 0 \% - 7 . 4 8 \%$ ).With continuous loss and degradation of natural wetlands，the results also providea scientificbasis fortheconstruction,restoration，and managementof dietary species forbreeding populations of Saunders's Gulls in man-made wetlands.
+
+Key Words:Saunders's gull； stable isotope analysis；avian diet；blood; feather；Shuangtaihekou Reserve
+
+黑嘴鸥（Larus saundersi）是依赖滨海湿地碱蓬（Suaeda spp.）群落集群繁殖的水鸟[-]，,属全球易危(vulnerable)物种[3]。当前黑嘴鸥世界最小种群数量约为14400 只左右,由于栖息地丧失和食物资源减少,种群数量正面临严重威胁[4]。开展食性研究对黑嘴鸥种群数量的稳定和栖息地保护意义重大。
+
+以往研究鸟类食性所使用的方法大多为嗦囊胃内容物分析法和粪便显微分析法等,其结果只能反映鸟类短时间摄取的食物,无法反映被其同化的那部分能量[5]。自20世纪80年代以来,稳定同位素分析（stableisotope analysis，SIA)已成为鸟类食性研究中有力的现代化手段[6],通过测定鸟类组织和潜在食源的稳定碳氮同位素值( $\delta ^ { 1 3 } \mathrm { C }$ 和 $\delta ^ { 1 5 } \mathrm { N } _ { \perp } ^ { \cdot }$ ),建立多资源的同位素混合模型(如贝叶斯模型)即可将稳定同位素信息转化成食性信息。
+
+辽宁双台河口国家级自然保护区是黑嘴鸥繁殖的最北界,也是拥有最大繁殖种群数量的繁殖地,在此繁殖的黑嘴鸥数量超过黑嘴鸥总数的 $7 5 \%$ 。大量研究表明,黑嘴鸥在繁殖期的食物主要包括甲壳类、多毛类、腹足类、双壳类和鱼类等[2,7-10],这些研究只是基于直接观察法,尚未给出各食源的贡献比例,且成鸟与幼鸟因消化机能的不同食性可能存在差异，因此黑嘴鸥的食性研究还需进一步完善。
+
+通常,基于稳定同位素的鸟类食性研究中选取的样品有血液、肌肉和羽毛等[6,I]。由于不同组织稳定同位素分馏水平和转化周期不同,摄食后代谢较快的组织反映的是短时间尺度的食性信息,代谢较慢的组织反映的是长时间尺度的食性信息[12-13]。然而,幼鸟羽毛生长所需的能量来源于繁殖地的食物,本研究对幼鸟羽毛和血液以及成鸟羽毛稳定同位素分析,探究幼鸟羽毛和血液是否反映同样的食性信息,成鸟羽毛是否与幼鸟羽毛一样反映繁殖地的食性信息。另外,通过收集不同健康状况黑嘴鸥幼鸟的羽毛,探究患病和死亡幼鸟的羽毛对稳定同位素测定是否有影响,以期为食性研究提供更加无损伤的研究材料。
+
+# 1材料与方法
+
+# 1.1 研究区域概况
+
+辽宁双台河口国家级自然保护区( $1 2 1 ^ { \circ } 3 0 ^ { \prime } \mathrm { - } 1 2 2 ^ { \circ } 0 0 ^ { \prime } \mathrm { E } , 4 0 ^ { \circ } 4 5 ^ { \prime } \mathrm { - } 4 1 ^ { \circ } 1 0 ^ { \prime } \mathrm { N } )$ 处于辽河平原近海区域,属北温带湿润季风性气候区。在此繁殖的黑嘴鸥巢址位于4个人工控制的面积约 $5 2 0 ~ \mathrm { h m } ^ { 2 }$ 的养殖塘内，塘内植被灰绿碱蓬（Suaedaglauca)被间隔条带状压实,以满足黑嘴鸥巢址的隐蔽性和视野开阔度的要求,塘内水位由人工控制,整个繁殖季节水位基本恒定[14]。繁殖地西侧紧邻大凌河入海口,南侧为黑嘴鸥主要觅食地沿海泥质滩涂。
+
+# 1.2野外调查与样品采集
+
+2014年6月中旬对黑嘴鸥巢区呕吐物进行调查,根据调查结果,在黑嘴鸥觅食区域收集黑嘴鸥潜在食
+
+源。最后,捕捉和收集黑嘴鸥幼鸟血液、羽毛和死亡成鸟羽毛。采集的所有样品均于 $- 2 0 \%$ 低温保存。
+
+# 1.2.1食源调查与样品采集
+
+野外调查期间,观察的1875个黑嘴鸥巢中,262巢有呕吐物。种类包括宽身大眼蟹（Macrophthalmusdilatatum）天津厚蟹（Helice tientsinensis）、豆形拳蟹（Philyra pisum）、泥螺（Bullactaexarata）、文蛤（Meretrixmeretrix）和沙蚕（Nereissuccinea）,分别占呕吐物出现频次的 $7 6 . 7 1 \% 6 . 8 5 \% . 5 . 4 8 \% . 4 . 1 1 \% . 4 . 1 1 \%$ 和 $2 . 7 4 \%$ 。
+
+在沿海泥质滩涂采集的食源样品及其样品量为：宽身大眼蟹( $n = 3 5$ ）、天津厚蟹( $n = 2 5$ ）、泥螺( ${ \mathrm { \Delta } n } = 1 2 0 { \mathrm { \Omega } }$ ）、沙蚕( $n = 1 7$ ）、矛尾刺虾虎鱼（Synechogobius hasta）( ${ \bf \Phi } _ { n } = 6 { \bf \Phi } _ { , }$ ）,此外,黑嘴鸥幼鸟有取食巢区灰绿碱蓬( $n = 1 0$ 的行为，故一并采集。
+
+# 1.2.2幼鸟样品的采集
+
+捕捉25日龄左右的幼鸟来采集血液和羽毛。首先用酒精棉球对翅下肱静脉处进行消毒,然后使用一次性采血针(规格为28G)刺破翅下肽静脉，最后用 $2 0 \mu \mathrm { L }$ 的毛细管多次吸取静脉血 $0 . 2 \mathrm { m L }$ ,保存于 $1 . 5 \mathrm { m L }$ 采血管内[15],共收集健康幼鸟血液样品10份。羽毛选择初级飞羽,取样时为避免破坏健康幼鸟羽毛的再生,在距离羽根1cm 处剪取,左右翅上各剪取1—2根初级飞羽[16],同时收集巢区新近死亡和患病黑嘴鸥幼鸟个体的初级飞羽，共收集健康幼鸟羽毛8份，疾病和死亡幼鸟羽毛各9份。
+
+# 1.2.3 成鸟样品的采集
+
+采集巢区新近死亡的黑嘴鸥成鸟羽毛,同样剪取左右翅上各1—2根初级飞羽,共收集成鸟羽毛17份。
+
+# 1.3 样品处理与检测
+
+# 1.3.1 食源样品的处理
+
+首先将食物样品用去离子水浸泡、冲洗数次,去掉表面泥沙等杂物。虾类、蟹类、鱼类、螺类去壳取其肌肉组织[15],碱蓬取其叶。为消除外源性无机碳对样品测定的影响,所有样品经1mol/L盐酸酸化浸泡处理$2 ~ \mathrm { h } ^ { [ 1 7 ] }$ 。然后置于 $6 0 ^ { \circ } \mathrm { C }$ 烘箱8- $1 2 \mathrm { ~ h ~ }$ 干燥后,充分研磨后过100 目筛,用锡纸收集并装于 $1 . 5 \mathrm { m L }$ 干燥离心管中[18]
+
+因每种食源样品采集的样本量较多，一般4—5个同类混合制样,最终获取6种食源共29 份样品,除沙蚕制样4份外，其他食源种类均制样5份。
+
+# 1.3.2 血液样品的处理
+
+首先用离心机低速离心，保证离心管管壁和盖上的血液样品沉到底部。为防止血液外溅并保证真空条件下水分升华,使用封口膜将离心管口封上,用无菌针在膜上扎10个左右通气孔。然后置于德国Christ实验室生产的 Alpha $1 - 2 ~ \mathrm { L D }$ plus 型真空冷冻干燥机（vacuum freeze-drying equipment）中干燥 12- $- 2 4 \ \mathrm { h } ^ { [ 1 9 ] }$ 。最后,研磨成均匀粉末,装入干燥离心管中。
+
+# 1.3.3 羽毛样品的处理
+
+羽毛表面有大量的浮尘和油脂,会使测定的稳定碳同位素值偏高,须将其去除[20-21]。首先用去离子水浸泡、冲洗数次,再用1mol/L盐酸浸泡 $^ { 2 \mathrm { ~ h ~ } }$ 进行酸化处理以去除羽毛表面的无机碳,再次用去离子水冲洗,然后在 $6 0 ^ { \circ } \mathrm { C }$ 烘箱中烘 $1 2 \mathrm { ~ h ~ }$ 直至干燥。因脱脂会影响羽毛中真实的氮同位素值,因此需将样品分为两份，一份直接测定稳定氮同位素,一份脱脂后测定稳定碳同位素,在 $0 . 2 5 \mathrm { m o l / L }$ 氢氧化钠溶液中浸泡 $^ { 2 \mathrm { ~ h ~ } }$ 进行脱脂处理[22]。
+
+# 1.3.4稳定同位素检测
+
+在中国林科院稳定同位素实验室进行样品稳定碳 $( \delta ^ { 1 3 } \mathrm { C } )$ 和氮 $( \delta ^ { 1 5 } \mathrm { N } )$ 同位素检测。仪器为美国ThermoFisher Scientific 公司的DELTA $\mathrm { \Delta V }$ Advantage 同位素比率质谱仪（Isotope Ratio Mass Spectrometer）,外接设备为FlashEA1112HT元素分析仪（Elemental Analyzer）。本实验中稳定碳同位素 $\left( \delta ^ { 1 3 } \mathrm { C } \right)$ 测定精度 $\leqslant \pm 0 . 1 \% o$ ,稳定氮同位素 $( \delta ^ { 1 5 } \mathrm { N } )$ 测定精度 $\leqslant \pm 0 . 2 \% o$ 。样品中稳定碳氮同位素的自然丰度(enrichment)表示为：
+
+$$
+\delta X = [ ( R _ { \# } / R _ { \# } ) - 1 ] \times 1 0 ^ { 3 }
+$$
+
+式中， $\delta X$ 为 $\delta ^ { 1 3 } \mathrm { C }$ 或 $\delta ^ { 1 5 } \mathrm { N } , R _ { \sharp \sharp }$ 为所测样品的 ${ } ^ { 1 3 } \mathrm { C } / { } ^ { 1 2 } \mathrm { C }$ 或 $^ { 1 5 } \mathrm { N / \Omega ^ { 1 4 } N } , R _ { ☉ }$ 为标准物质的 ${ } ^ { 1 3 } \mathrm { C } / { } ^ { 1 2 } \mathrm { C }$ 或 $^ { 1 5 } \mathrm { N } / ^ { 1 4 } \mathrm { N }$ ，国际标准物质 PDB的丰度 $R _ { ☉ } = 0 . 0 1 1 2 3 7 2$ ,标准大气氮 $\mathbf { N } _ { 2 }$ 的丰度 $R _ { ☉ } = 0 . 0 0 3 6 7 6 ^ { [ 2 3 ] }$ 。
+
+# 1.4数据处理与分析
+
+# 1.4.1 统计分析
+
+利用 SPSS 19.0 软件包(SPSS INC.，2010)进行统计分析。不同食源物种和不同类型样本稳定碳氮同位素( $\delta ^ { 1 3 } \mathrm { C }$ 和 $\delta ^ { 1 5 } \mathrm { N }$ )差异比较采用单因素方差分析(One-WayANOVA）,将稳定碳氮同位素值差异性均不显著的食源或样本进行合并。文中同位素数据均以平均值 $\pm$ 标准误(Mean±SE)表示， $\scriptstyle P < 0 . 0 5$ 即认为差异显著。
+
+# 1.4.2 模型选择
+
+对3种食源以上的稳定同位素食性分析,基于贝叶斯理论的混合模型（stable isotope mixing model,MixSIR)和R语言稳定同位素分析程序包(stable isotope analysis in R，SIAR)得到了广泛使用[1,24-25]。两种方法均充分整合了同位素数据的不确定因素（如标准差、富集因子),并引入先验信息,来提高数据的准确性[26]。考虑到混合模型运行速度过慢,界面操作复杂,交互运算秩次过低[26],本研究中选择基于R语言的:/
+
+# 1.4.3 富集因子选择
+
+在机体组织代谢的过程中,较重的同位素更容易在机体内得到保留,而较轻的同位素更容易被机体代谢排出体外,稳定同位素的值在捕食者和食物之间产生了一个差值,这一差值称为营养级富集因子（Diet tissuefractionation factors）,富集因子作为食源与组织之间的矫正值,是准确确定鸟类食源组成的基本前提[28]。因无法进行室内控制实验获取稳定同位素在黑嘴鸥体内的富集规律,本研究参考和引用其他相关鸟类的富集因子。血液样品引用了Lavoie 等 2012年研究三趾鸥和银鸥食性时使用的富集因子,稳定碳 $( \varDelta ^ { 1 3 } \mathrm { C } )$ 氮 $( \varDelta ^ { 1 5 } \mathrm { N } )$ 同位素富集因子分别为 $0 . 7 0 \pm 1 . 6 0 , 2 . 4 0 \pm 0 . 7 0 ^ { [ 1 1 ] }$ 。羽毛样品参考了6种习性相似水鸟的富集因子实测值,整合后羽毛的稳定碳( $( \varDelta ^ { 1 3 } \mathrm { C } )$ 氮 $( \varDelta ^ { 1 5 } \mathrm { N } )$ 同位素富集因子分别为 $1 . 5 3 \pm 0 . 9 8 , 3 . 6 7 \pm 0 . 6 7$ 。参考物种包括环嘴鸥（Larus delawarensis）[29]、棕贼鸥（Stercorarius antarcticus lonnbergi）、极地燕鸥（Sterna paradisaea）、阔嘴锯（Pachyptila vittata）[21] 北贼鸥（Catharacta skua)[2]和崖海鸦（Uria aalge）[30],其中环嘴鸥和北贼鸥的血液和羽毛的富集因子同时被本研究参考。
+
+# 1.4.4 先验比例选择
+
+综合考虑了巢区呕吐物的调查结果、野外观察结果、历史文献的报道以及幼鸟的消化机能等因素,经专家组论证，本研究设定幼鸟各潜在食源的比例为泥螺( $30 \%$ ）、沙蚕( $30 \%$ ）、宽身大眼蟹（ $10 \%$ )、矛尾刺虾虎鱼（ $1 0 \% )$ 、天津厚蟹( $1 0 \%$ ）、碱蓬( $1 0 \% )$ 。
+
+# 1.4.5 变量选择
+
+收集的6种食源物种稳定碳同位素( $\langle \delta ^ { 1 3 } \mathrm { C } \rangle$ 均值的范围为 $- 1 1 . 5 7 \% o - 3 0 . 4 3 \%$ ，食源之间稳定碳同位素值（204号 $( \delta ^ { 1 3 } \mathrm { C } )$ 差异性极显著( $F _ { 5 , 2 3 } = 3 7 4 0 . 7 7$ ， $P { < } 0 . 0 0 1$ ),经多重比较检验,组内除宽身大眼蟹和天津厚蟹差异性不显著外,其余食源的稳定碳同位素值差异均极显著(表1);稳定氮同位素 $( \delta ^ { 1 5 } \mathrm { N } )$ 均值的范围为 $4 . 9 2 \% o$ 一（204号 $1 4 . 1 4 \text{‰}$ ,食源之间稳定氮同位素 $( \delta ^ { 1 5 } \mathrm { N } )$ 差异性极显著( $F _ { 5 , 2 3 } = 5 8 2 . 9 0$ ， $P { < } 0 . 0 0 1$ ),经多重比较检验,6种食源两两之间差异均极显著。因此,无需将样品合并。
+
+# 2结果
+
+健康( $n = 8$ ）、疾病( ${ \overset { \cdot } { n } } = 9$ )和死亡( ${ \bf \rho } _ { n } = 9 { \bf \rho }$ )幼鸟羽毛样品中,稳定碳、氮同位素值之间无显著差异( $\cdot \delta ^ { 1 3 } \mathrm { C }$ $F _ { 2 , 2 3 } = 0 . 0 5$ ， $P { = } 0 . 9 5$ ; $\delta ^ { 1 5 } \mathrm { N }$ ： $F _ { _ { 2 , 2 3 } } = 0 . 1 1$ ， $P = 0 . 9 0$ )。综合各种幼鸟羽毛样品,得出碳氮同位素值分别为$( - 1 1 . 3 4 { \pm } 0 . 1 5 ) \% o .$ （ $1 5 . 4 8 { \scriptstyle \pm 0 . 2 1 } ) \% o _ { 0 }$ 。
+
+Table 1Mean and standard error of stable isotopes of potential food sources in Shuangtaihekou NN   
+
+<html><body><table><tr><td rowspan="2">食源种类及缩写 Food source and short name</td><td rowspan="2">样本量 Sample size</td><td colspan="2">稳定同位素值 Stable isotope signature</td></tr><tr><td>813 C/%0 *</td><td>815 N/%0 **</td></tr><tr><td>碱蓬JP</td><td>5</td><td>-30.43±0.11E</td><td>10.83±0.39C</td></tr><tr><td>沙蚕SC</td><td>4</td><td>-14.04±0.04C</td><td>11.72±0.18B</td></tr><tr><td>矛尾刺虾虎鱼XHY</td><td>5</td><td>-13.58±0.11B</td><td>14.14±0.23A</td></tr><tr><td>宽身大眼蟹DYX</td><td>5</td><td>-15.43±0.15D</td><td>9.70±0.22E</td></tr><tr><td>泥螺NL</td><td>5</td><td>-11.57±0.52A</td><td>10.31±0.14D</td></tr><tr><td>天津厚蟹 HX</td><td>5</td><td>-15.65±0.06D</td><td>4.92±0.29F</td></tr></table></body></html>
+
+\*各组食源的 $\delta ^ { 1 3 } \mathrm { C }$ 值之间差异性极显著( $\stackrel { \prime } { F } _ { 5 , 2 3 } = 3 7 4 0 . 7 7$ ， $P { < } 0 . 0 0 1$ ),数据后的大写字母不同表示组间差异性极显( $P { < } 0 . 0 1 \$ ),相同表示差异性不显著( $\scriptstyle P > 0 . 0 5 { \mathrm { ) } }$ ； $* *$ 各组食源的 $\delta ^ { 1 5 } \mathrm { N }$ 值之间差异性极显著( $F _ { 5 , 2 3 } = 5 8 2 . 9 0$ ， $P { < } 0 . 0 0 1$ ),数据后的大写字母不同表示组间差异性极显著（ $P { < } 0 . 0 1 \ '$ ），相同表示差异性不显著( $\scriptstyle P > 0 . 0 5$ ）
+
+表1双台河口黑嘴鸥潜在食物资源稳定同位素的均值及标准误  
+表2双台河口黑嘴鸥血液和羽毛样品的稳定同位素均值和标准误  
+Table2Mean and standard errorof stable isotopes of Gul's blood and feather samples in Shuangtaihekou N   
+
+<html><body><table><tr><td rowspan="2">稳定同位素值 Stable isotope signature</td><td rowspan="2"></td><td colspan="2">雏鸟Fledglings</td><td rowspan="2">成鸟 Adult 羽毛Feathers (n=17)</td></tr><tr><td>血液 Blood (n=10)</td><td>羽毛Feathers (n=26)</td></tr><tr><td rowspan="2">813C/%0</td><td>实测数据 Actual isotope signature</td><td>-12.65±0.16</td><td>-11.34±0.15</td><td>-14.76±2.77</td></tr><tr><td>校正后数据 Adjust by fractionation</td><td>-13.35±0.16</td><td>-12.85±0.15</td><td>-16.29±2.77</td></tr><tr><td rowspan="2">815N/%0</td><td>实测数据 Actual isotope signature</td><td>13.79±0.21</td><td>15.48±0.21</td><td>14.87±2.15</td></tr><tr><td>校正后数据 Adjust by fractionation</td><td>11.39±0.21</td><td>11.81±0.21</td><td>11.20±2.15</td></tr></table></body></html>
+
+经富集因子校正后，幼鸟的血液、羽毛和成鸟羽毛稳定碳同位素值 $( \delta ^ { 1 3 } \mathrm { C } )$ 分别为 $( - 1 3 . 3 5 \pm 0 . 1 6 ) \%$ $( - 1 2 . 8 5 { \pm } 0 . 1 5 ) \% o$ 和 $( - 1 6 . 2 9 \pm 2 . 7 7 ) \% o$ ,稳定氮同位素值 $( \delta ^ { 1 5 } \mathrm { N } )$ 分别为( $( 1 1 . 3 9 \pm 0 . 2 1 ) \%$ 、 $( 1 1 . 8 1 \pm 0 . 2 1 ) \% o$ 和中 $( 1 1 . 2 0 \pm 2 . 1 5 ) \%$ （表2)。其中，幼鸟血液和羽毛稳定碳、氮同位素( $\delta ^ { 1 3 } \mathrm { C }$ 和 $\delta ^ { 1 5 } \mathrm { N }$ )之间均无显著性差异( $\cdot \delta ^ { 1 3 } \mathrm { C }$ $F _ { _ { 1 , 3 4 } } = 3 . 6 7$ ， $P { = } 0 . 0 6$ ： $\delta ^ { 1 5 } \mathrm { N }$ ： $F _ { _ { 1 , 3 4 } } = 1 . 3 7$ ， $P { = } 0 . 2 5 )$ ；成鸟羽毛与幼鸟羽毛稳定碳同位素 $( \delta ^ { 1 3 } \mathbf { C } )$ 差异显著( $F _ { 1 , 4 1 } =$ 36.31， $P { < } 0 . 0 0 1$ ），稳定氮同位素 $( \delta ^ { 1 5 } \mathrm { N } )$ 差异不显著$\stackrel { \prime } { F } _ { 1 , 4 1 } = 1 . 5 6 , P = 0 . 2 2 \AA )$ 。除黑嘴鸥成鸟羽毛部分样品外，其他样品的同位素值均位于6种食源物种同位素均值的分布范围之内（图1），表明选取的食源物种基本代表该地区黑嘴鸥的食物种类，满足黑嘴鸥食性分析的食源需求。
+
+# 2.2幼鸟血液反映的食源组成
+
+通过幼鸟血液得到各食源的贡献情况：泥螺 $>$ 沙蚕>矛尾刺虾虎鱼 $>$ 宽身大眼蟹 $>$ 天津厚蟹 $>$ 碱蓬(表3）。泥螺和沙蚕对黑嘴鸥幼鸟的贡献最高，分别占 $3 3 . 5 7 \%$ 和 $3 1 . 4 1 \%$ ，天津厚蟹和碱蓬的贡献率最低，分别占$7 . 4 8 \%$ 和 $5 . 4 9 \%$ 。
+
+![](images/72cde923d7d0ee458f93154d2ed9df05b505d914116000068db5cd37070f9471.jpg)  
+图1双台河口黑嘴鸥样品及潜在食物的 $\delta ^ { 1 3 } \mathbf { C }$ 和 ${ \delta } ^ { 1 5 } \mathrm { \bf N }$ 值 Fig.1 $\delta ^ { 1 3 } \mathbf { C }$ and $\delta ^ { 1 5 } \mathrm { \bf N }$ of Gull's samples and food source in Shuangtaihekou NNR
+
+十字星表示双台河口6种食源稳定碳氮同位素值的坐标.JP：碱蓬；SC：沙蚕；XHY：矛尾虾虎鱼；DYX：宽身大眼蟹；NL：泥螺；HX：天津厚蟹；Group1—3表示不同样本的组.Group1：幼鸟血液；Group2：幼鸟羽毛；Group3：成鸟羽毛
+
+# 2.3幼鸟羽毛反映的食源组成
+
+通过幼鸟羽毛得到各食源的贡献情况;泥螺>沙蚕>矛尾虾虎鱼>宽身大眼蟹>天津厚蟹 $>$ 碱蓬（表3）。
+
+图2为各食源对双台河口黑嘴鸥幼鸟血液和羽毛的贡献箱图,泥螺和沙蚕对黑嘴鸥幼鸟的贡献最高,分别占$3 6 . 6 4 \%$ 和 $3 1 . 2 0 \%$ ,天津厚蟹和碱蓬的贡献率最低,分别占 $6 . 0 0 \%$ 和 $3 . 6 0 \%$ 。
+
+表3辽宁双台河口黑嘴鸥雏鸟血液和羽毛样品稳定同位素分析结果  
+Table 3Stable isotope analysis of blood and feather samples of fledglings in Shuangtaihekou NN   
+
+<html><body><table><tr><td rowspan="2">潜在食源 Food source</td><td colspan="4">各食源贡献比例 Proportion of each source/%</td></tr><tr><td colspan="2">基于雏鸟血液分析结果 The result based on blood</td><td colspan="2">基于雏鸟羽毛分析结果 The result based on feather</td></tr><tr><td></td><td>Mean ± SD</td><td>95% CI</td><td>Mean ± SD</td><td>95% CI</td></tr><tr><td>碱蓬JP</td><td>5.49±1.48</td><td>2.59-8.39</td><td>3.60±0.98</td><td>1.69-5.51</td></tr><tr><td>沙蚕 SC</td><td>31.41±3.87</td><td>23.82—39.00</td><td>31.20±3.96</td><td>23.44-38.95</td></tr><tr><td>矛尾虾虎鱼XHY</td><td>12.86±2.92</td><td>7.12—18.59</td><td>14.49±3.42</td><td>7.80—21.19</td></tr><tr><td>宽身大眼蟹DYX</td><td>9.19±2.31</td><td>4.67—13.71</td><td>8.08±2.09</td><td>3.98—12.17</td></tr><tr><td>泥螺NL</td><td>33.57±3.94</td><td>25.85—51.30</td><td>36.64±4.36</td><td>28.10—55.17</td></tr><tr><td>天津厚蟹HX</td><td>7.48±1.89</td><td>3.78—11.18</td><td>6.00±1.54</td><td>2.97-9.03</td></tr></table></body></html>
+
+# 2.4成鸟羽毛反映的食源组成
+
+从图1实线框中可以看出，黑嘴鸥成鸟羽毛反映的稳定碳氮同位素值全部落在该边框之外，说明成鸟主要食源物种组成与幼鸟存在差别。其次，从图1中虚线框来看，仍有部分成鸟羽毛反映的同位素值分布在该区域之外，表明本研究收集的6种食源物种无法满足黑嘴鸥成鸟羽毛反映的食源组成分析。因此，本研究未能对成鸟羽毛反映的食性信息做进一步分析。
+
+# 3讨论与结论
+
+# 3.1 食源组成的偏差
+
+辽宁南小河地区黑嘴鸥觅食地包括泥质滩涂、河口、人工养殖塘和苇塘等[10,31-32],其中,泥质滩涂是黑嘴鸥的主要觅食地[31]。本研究收集的食物样品均来源于泥质滩涂，收集的食物种类有泥螺、沙蚕、宽身大眼蟹和矛尾刺虾虎鱼，未收集到呕吐物中出现的天津厚蟹、拳蟹和文蛤。在山东一千二湿地内收集到天津厚蟹，因其在两地的栖息生境相似，同为渤海湾滨海滩涂，经纬度相差不大，且在巢区呕吐物中天津厚蟹出现的频次远低于宽身大眼蟹，并非是该地区黑嘴鸥的主要食源，天津厚蟹的加入不会对结果产生加大影响，因此将其纳入到辽宁双台河口地区黑嘴鸥的食性研究中，但拳蟹和文蛤在山东和辽宁均未收集到,因此未被纳入食物组成分析,对食性分析可能造成一定的影响。本研究结果表明,黑嘴鸥雏鸟的主要食源为沙蚕、泥螺、宽身大眼蟹和矛尾刺虾虎鱼,四者的贡献率之和达到 $8 8 \%$ 以上;其中,前两者贡献率之和达到 $6 5 . 3 3 \%$ 以上。从这一点来看,尽管未能采集所有食源物种,但结果仍能很好地反映主要食源组成和贡献率。
+
+![](images/5982a6505321b273e0e9877e0aa12251d7987be4b6d3ea07884f66c9955ef5e1.jpg)  
+图2各食源对双台河口黑嘴鸥幼鸟血液和羽毛的贡献箱图 (SIAR)   
+Fig.2Box plots of the contribution of each food source for bloodand feather of fledglings in Shuangtaihekou NNR(SIAR)箱图灰度由浅入深分别表示 $9 5 \%$ 新 $7 5 \%$ + $5 0 \%$ 的置信区间，白点表示平均值。左侧箱图(深色)为幼鸟血液( $n = 1 0$ )的分析结果，右侧箱图(浅色)表示幼鸟羽毛( $n = 2 7$ )的分析结果；基于幼鸟血液和羽毛的食性分析结果中，各食源的贡献率基本一致
+
+矛尾刺虾虎鱼虽未在呕吐物中发现，但其在泥质滩涂的潮沟中分布较多，田华森等的研究中也有黑嘴鸥取食滩涂矛尾刺虾虎鱼的报道[10],可能因矛尾刺虾虎鱼易于消化,因此在呕吐物中未被发现。此外,呕吐物中也未发现碱蓬,但在调查中发现巢区内灰绿碱蓬有被黑嘴鸥幼鸟取食的痕迹,江红星等人的研究中也有相关报道[32],可能因为碱蓬的叶片属肉质叶,含水量丰富,能够快速补充黑嘴鸥幼鸟因高温散失的水分,因此，本研究将矛尾刺虾虎鱼和碱蓬作为食物组成的补充纳入食物组成分析。
+
+为对现有潜在食物样品进行合理分析,本研究对多种食源分析模型进行了选择,最终使用基于贝叶斯模型的 SIAR(stable isotope analysis in R）,该模型引人“取样-重要性-再取样（sampling-importance-resampling）”的运算法则,进行食源贡献率的后验概率检验,并可通过调整变量数量、送次量级和食源先验信息等来提高不同食源贡献率的估计精度[26,33]。此外,本研究还在富集因子和先验食性参数的设置上进行了优化。因富集因子与动物分类、样品类型和取食生境等有较强的相关性[34],本研究引用和整合了与黑嘴鸥有相似取食习性的水鸟的富集因子以降低分析中的误差。食源的先验信息充分整合了呕吐物的调查结果和历史文献中对黑嘴鸥食性的报道,并且排除呕吐物调查中蟹类易被高估和沙蚕等软体动物被低估的问题,考虑了黑嘴鸥幼鸟的消化机能和能量需求，降低了食性分析中各食物贡献率的波动性。
+
+# 3.2 不同样品的交互验证
+
+稳定同位素在鸟类不同组织中的转化周期不尽不同,这与机体组织的代谢速率有关，一般血液的转化周期需要一个月左右[19],而羽毛则反映其换羽期间羽毛形成时的食性信息[12,35]。黑嘴鸥幼鸟的血液和羽毛生长所需的全部能量均来源于繁殖地的食物,但稳定同位素在血液和羽毛中具有不同的富集效应，因此两者的结果可能存在一定的偏差。通过稳定同位素检测和数据分析,黑嘴鸥幼鸟血液和羽毛样品反映的食性组成基本一致（图2）,泥螺和沙蚕对黑嘴鸥的食源贡献最大,天津厚蟹和灰绿碱蓬的贡献率最低。幼鸟血液和羽毛均反映其在繁殖地的食性信息,在黑腹滨（Calidris alpina pacifica）[19]和红鹳（Phoeni copterus roseus）[36]等幼鸟食性研究中也得到了相似的结论。
+
+本研究中收集的疾病或死亡幼鸟羽毛样品的稳定碳氮同位素值与健康幼鸟羽毛无显著性差异,这与幼鸟的食物主要依赖成鸟的饲喂有关。其次,本研究中采集羽毛的疾病和死亡个体均比较新鲜,未超过通常标准下的羽毛对同位素的转化周期。Ogden 等研究发现伤残病鸟等因未及时获取水分和足够食物,组织中稳定氮同位素值会升高[19],主要与取食能力和取食种类发生改变有关。因此,对于黑嘴鸥或者其他鸟类的幼鸟，可以利用最近发病或死亡幼鸟的羽毛样品来替代损伤性采集血液样品的方法,开展稳定同位素分析,以减小对黑嘴鸥种群的影响。据相关报道,辽宁双台河口黑嘴鸥繁殖地内因疾病死亡的幼鸟比例呈现增加趋势[35],为收集幼鸟羽毛样品提供了可能。
+
+# 3.3成鸟与幼鸟羽毛反映不同时间尺度的食性信息
+
+黑嘴鸥为迁徙鸟类,每年在繁殖地、越冬地和非繁殖地之间来回移动,食性也将随之不断发生变化[37]。黑嘴鸥为不完全换羽[38],无法确定其换羽的时间和地点,因此成鸟羽毛的同位素信息无法判定其在整个迁徙过程中不同地点的食源物种的贡献率。本研究中,黑嘴鸥成鸟羽毛和幼鸟羽毛的稳定同位素之间差异极显著(表2,图1),由于幼鸟羽毛来源于繁殖地,因此成鸟羽毛的形成并非都来源于繁殖地的食物资源,且由于采样时成鸟到达繁殖地的时间不足两月,所获取食物资源的稳定同位素不足以在羽毛内完成转化周期。综上，黑嘴鸥成鸟羽毛无法反映其在繁殖地的食性信息,而反映其在整个繁殖通道上食性的积累和转变。
+
+完全换羽或换羽规律的鸟类,羽毛可反映其换羽期间的食性信息。Cherel等在了解黑眉信天（Diomedeamelanophrys）成鸟尾羽更换顺序后,收集了黑眉信天翁尾羽最外侧和中间的羽毛,反映其从冬羽换羽开始到换羽结束的食性变化[16]。Thomson 等则收集暴风（Fulmarus glacialis)第2、6和10 支初级飞羽探究其从繁殖地到越冬地的食性变化[21]。
+
+# 3.4稳定同位素分析与传统食性研究的偏差
+
+田华森等2002年对双台河口黑嘴鸥取食行为进行了观察,结果显示,黑嘴鸥取食螃蟹的频次占$7 5 . 3 \% ^ { [ 1 0 ] }$ ,与本研究呕吐物调查结果相似,呕吐物中螃蟹出现的频次为 $8 7 . 6 7 \%$ （其中宽身大眼蟹占 $7 6 . 7 1 \%$ ，豆形拳蟹占 $4 . 1 1 \%$ ,天津厚蟹占 $6 . 8 5 \%$ )。然而,稳定同位素分析结果中螃蟹占比最高不足 $2 4 . 9 9 \%$ （宽身大眼蟹 $4 . 6 7 \% - 1 3 . 7 1 \%$ ,天津厚蟹 $3 . 7 8 \% - 1 1 . 1 8 \%$ )。这可能与黑嘴鸥取食习惯有关，调查中发现黑嘴鸥取食螃蟹的蟹肉和内脏而将蟹壳丢弃,蟹壳可遇见率较高,导致宽身大眼蟹的数量及频次在呕吐物中被高估,而沙蚕等没有坚硬的外壳，且不易发生呕吐，出现的频次可能被低估。
+
+Hobson 等认为传统食性研究只能反映动物取食的食物种类及数量，而稳定同位素分析的结果则能表明被机体同化的那部分能量的食物来源及其百分比[5」,因此两者结果存在较大差别。换言之,黑嘴鸥虽取食螃蟹的频次较高,但螃蟹对黑嘴鸥生长的能量贡献并不是最高,而泥螺和沙蚕等虽然在呕吐物中出现频率较低，但对于消化机能不健全、肌胃研磨能力较低的雏鸟来说,却是优质的食物来源。因此,呕吐物调查法和直接观察法作为传统食性研究手段只能定性确定研究物种的食物种类[38],但其结果对鸟类食性的定量研究具有重要的参考价值。
+
+# 4管理建议
+
+辽宁双台河口是继盐城之后第二处被发现的黑嘴鸥繁殖地。自1996年始,连续对辽宁双台河口地区黑嘴鸥繁殖种群进行了调查和统计,该繁殖区一直是我国乃至世界范围内黑嘴鸥分布最为密集的地区[39-40]
+
+本研究从食性角度人手,探究黑嘴鸥在繁殖期间的主要食物种类和贡献比例,鉴于沙蚕和泥螺对黑嘴鸥的食物贡献率较高,因此,在黑嘴鸥繁殖期间应禁止或减少大规模有组织的捡拾泥螺和挖沙蚕等活动,保证黑嘴鸥在繁殖期间的能量需求,减少人为干扰,避免人鸟争食现象的发生。
+
+近年来,在天然滨海湿地持续减少和退化的背景下,保护区通过创建和有效管理人工繁殖栖息地，使得黑嘴鸥的繁殖种群数量在该地区呈现增长趋势,但繁殖地和觅食地的面积有限,且黑嘴鸥栖息生境正面临减少、衰退和破碎化的威胁[40],其周边的觅食滩涂的食物资源能否满足其繁殖需要,双台河口地区黑嘴鸥的环境容纳量究竟为多少？这些问题将是黑嘴鸥种群生态学研究的重要方向。
+
+# 参考文献（References）：
+
+[1]JiangHX,HouYQ,ChuGZ,QianFW,WangH,ZhangGG,ZhengGM.BredingpopulationdyamicsandhabitatransionofSaders'sgull Larussaundersi inYancheng NationalNatureReserve,China.Bird Conservation International,2Olo,2O(1）：13-24.  
+[2］江红星，楚国忠，钱法文，陆军.江苏盐城黑嘴鸥（Larus saundersi)繁殖微生境的选择.生物多样性，2002，10（2）：170-174.  
+[3]IUCN.The IUCN Red List of threatened species.IUCN Global Species Programme Red List Unit,2011.  
+[4］江红星，楚国忠，侯韵秋，钱法文，王会，张国钢，郑光美.黑嘴鸥巢址的时空变化.动物学报，2008，54(2）：191-200.  
+[5]HobsoKiateliJUinableooeeabdoelatosallo)：786-798.  
+[6]Inger R,Bearhop S.Applications of stable isotope analyses to avian ecology.Ibis,2008,150(3）：447-561.  
+［7］侯韵秋，楚国忠，钱法文，陆军，戴铭.中国东部沿海黑嘴鸥数量与分布/／中国鸟类学研究——第四届海峡两岸鸟类学术研讨会文集.昆明：中国动物学会，2000.  
+［8］万冬梅，孙海东，任娟.辽宁黑嘴鸥调查报告.辽宁大学学报：自然科学版，2001,28（3)：268-270.  
+[9］宋守旺.黄河三角洲黑嘴鸥的生境评估及其建议.山东林业科技，2005，（2)：71-71.  
+[10] 田华森.黑嘴鸥(Larus saundersi)繁殖生态学研究［D].哈尔滨：东北林业大学，2002.  
+[11] LavoieRA,RilJF,LeanDeopositioofeabdfroorosolslad,aaduigirectdetarndablesotalyWaterbirds，2012，35(3)：402-519.  
+[12]Hobson K A, Clark R G. Assessing avian diets using stable isotopes I: turnover of $^ { 1 3 } \mathrm { C }$ in tissues.The Condor,1992,94(1)：181-188.  
+[13］丛日杰，吴星兵,李枫，张欣宇，侯艳超，张永忠，郝志，张星烁.稳定同位素分析在鸟类生态学中的应用.生态学报，2015，35（15)：4945-5957.  
+[14］江红星.黑嘴鸥（Larus saundersi)的繁育力及繁殖栖息地选择研究[D].北京：中国林业科学研究院，2000.  
+[15］张璇，华宁，汤臣栋，马强，薛文杰，吴魏，马志军.崇明东滩黑腹滨鹬(Calidrsalpina)食物来源和组成的稳定同位素分析.复旦学报：自然科学版，2013，52（1)：112-118.  
+[16]CherelY，bsonKA，WeimersichH.Usingabsotopaalysisffeatherstoistinguishoutingdbingorginsofabis.Oecologia，2000，122(2）：155-162.  
+[17]JacobU,inteeckK,reynustR，eyerK.ableiotopefodebsuis：aseforadardizedspletreantaineologProgress Series，2005，287：251-253.  
+[18]蔡德陵，李红燕，唐启升，孙耀.黄东海生态系统食物网连续营养谱的建立：来自碳氮稳定同位素方法的结果.中国科学C辑：生命科学，2005,35(2)：123-130.  
+[19]Ogden L JE,Hobson KA,Lank D B.Blood isotopic( $\delta ^ { 1 3 } \mathrm { C }$ and $\delta ^ { 1 5 } \mathrm { { N } }$ ）turnover and diet-tissue fractionation factors in captive dunlin（Calidrisalpina pacifica). The Auk,2004，121(1）：170-177.  
+[20]PostDM,LayanCA，AringonDA，TakimotoG，QuatrochiJ，MontanaCGGetingtothefatofthemater：models，methosandassumptions for dealing with lipids in stable isotope analyses.Oecologia,2007,152(1)：179-189.  
+21]Tomosbbdisaeleafr,1995,112(2) : 493-598.  
+22]earotsctsailecoodblavian blood and feathers.Physiological and Biochemical Zoology，2002，75(5）：451-558.  
+[23]Fry B. Stable Isotope Ecology.New York: Springer,2006.  
+[24]MaZJaXoCYtsfsieordgassoeseceofarshssidireaereitiieioBiology，2014,28(1）：150-158.  
+[25]WeiserELowellvauatiggulletoparisoofotilesdableotopasJoualofe2011,82(3): 297-310.  
+[26]JacksogeellAvoftlbsdsoongeliofMoore& Semmens（2008）.Ecology Letters，2009，12（3）：E1-E5.  
+[27]PaellAC,gerReacsoALurceartogigableotoingiuaiO（）:e9672.  
+[28］王玄，江红星，张亚楠.稳定同位素分析在鸟类食性及营养级结构中的应用.生态学报，2015,35（16)：556-5569.  
+[29]HobkeabI94)189- 197.  
+[30]Becker BH,Newman S H,Inglis S，Beissnger S R.Diet-feather stable isotope( $\delta ^ { 1 5 } \mathrm { N }$ and $\delta ^ { 1 3 } \mathrm { C }$ ）fractionation in Common murres and otherseabirds.The Condor,2007，109(2）：451-556.  
+[31］江红星，楚国忠，侯韵秋.江苏盐城黑嘴鸥的繁殖栖息地选择．生态学报，2002，22（7)：999-1004.  
+[32］江红星，楚国忠，钱法文，侯韵秋.江苏盐城黑嘴鸥繁殖期不同阶段行为时间分配及活动规律.林业科学，204，40（2)：79-83.  
+[33]MooreJsBXcooratingceraintdprifoatiointoableisotopeiingodelsEoloLeters，（）：470-580.  
+[34]Caut S,Angulo E,Courchamp F.Variation in discrimination factors ( $\Delta ^ { 1 5 } \mathrm { N }$ and $\Delta ^ { 1 3 } \mathrm { C }$ ）：the effect of diet isotopic values and applications for dietreconstruction.Journal of Applied Ecology，2009,46(2）：443-53.  
+[35]PeaDilS,Kbeopiatoddadaetalgof migratory songbirds.Oecologia，2005，142(4）：501-510.  
+[36]YohansE，AdA，echetATckingvariatosinwelandusebyreingfamngsusingsablesotopsigaueoffeathdld.Estuarine，Coastal and Shelf Science,2014，136：11-18.  
+[37］江红星，侯韵秋,李玉祥,TakeishiM,OzakiK，杨玉成，郑光美.辽宁双台河口黑嘴鸥的迁徙模式与种群生存率.生态学报，2010,30(15）:4180-5186.  
+[38]BarretRuenK,Aner-senardeJWssWGre,Hupp,Leopd,teveiW,R.Diet studies of seabirds：areview and recommendations.ICES Journal of Marine Science,2007,64（9)：1675-1691.  
+［39］邱英杰.黑嘴鸥.沈阳：辽宁科学技术出版社，2011.  
+[40］江红星.黑嘴鸥(Larus saundersi)的繁殖生态、种群现状与保护对策[D].北京：北京师范大学，2008.

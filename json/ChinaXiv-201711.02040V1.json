@@ -1,0 +1,455 @@
+[
+    {
+        "type": "text",
+        "text": "基于用户评分时间改进的协同过滤推荐算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李道国」李连杰²　申恩平²(杭州电子科技大学信息工程学院杭州 310018)(杭州电子科技大学管理学院杭州 310018)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：【目的】改进基于用户的协同过滤算法以缓解因数据稀疏、用户共同评分稀少所导致的问题，进而提高评分预测的精度。【方法】提出结合用户打分时间发现具有相似打分行为的用户，并将用户评分方差相似性融入到相似度的计算中，使得目标用户在最近邻的选取上更加合理。【结果】实验结果表明，相较基于用户的协同过滤算法，新算法的平均绝对误差降低约 $2 \\%$ ，在一定程度上改善了推荐系统的推荐效果。【局限】该算法仅在MovieLens 数据集上进行了实验测试，还需要在其他数据集上进行检验。【结论】本文算法能够有效地提高推荐精度，具有一定的可行性和现实意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：协同过滤 数据稀疏相似评分用户评分方差相似性最近邻",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号：TP311 G25",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "互联网的迅速发展将人们带人了一个崭新的信息时代，网络中的信息资源越来越丰富，当用户面对海量的数据信息时，如何在茫茫的信息海洋中快速、准确地找到需要的信息成为用户关注的问题，潜在的用户也常常因此而流失，这就是所谓的\"信息过载\"现象[1-2]为了使用户能够在庞大的数据中快速找到需要的信息，个性化推荐应运而生。协同过滤推荐算法是其中应用最广泛的技术，其优点是对所推荐的项目没有特别的要求，而且还能够处理非结构化复杂的对象，如文章、电影以及书籍等。协同过滤推荐算法通过分析用户-项目评分矩阵，在此基础上将大量不需要的信息过滤掉，最后寻找到用户所感兴趣的项目[3]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "虽然协同过滤推荐算法在很多方面表现出独特的优势，但主要的缺点是过分依赖评分矩阵。随着网站商品和用户数量快速地增长，评分矩阵中用户真正给予评分的商品数量非常少，通常在 $1 \\%$ 以下。当数据过于稀疏时，推荐系统中用户之间的共同评分项目就会极其稀少，这种情况使得用户之间的相似度计算不准确，从而导致推荐质量下降。因此本文提出一种基于用户评分时间改进的协同过滤推荐算法，该算法能够有效地缓解数据异常稀疏、用户共同评分稀少所带来的问题，通过优化最近邻查找的方法，提高推荐准确性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 研究背景",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "已有很多学者针对如何改善数据稀疏性对推荐系统的影响进行了大量的研究，基本可分为两类：利用一定的方法降低数据的稀疏度;改进推荐系统的推荐算法来提高算法的推荐质量。对于推荐算法的改进研究，由于寻找目标用户的最近邻是协同过滤算法的核心，在推荐效果上起着至关重要的作用[4，因此用户之间相似度计算的准确性就非常关键。传统的相似度计算方法主要有：余弦相似性、修正余弦相似性、Pearson 相关相似性[5-]。采用余弦相似性计算用户之间相似度的过程中没有充分利用评分时间这一信息，评分时间对于判断该项目评分的有用性具有关键的作用。虽然修正的余弦相似度和Pearson 相关相似性改善了评分分值所带来的影响，但也没有考虑到一种相对特殊的情况，即当评分矩阵异常稀疏时，两个用户之间的共同评分的项目就会极少，使用该方法计算的相似度同样会存在不准确的情况，导致推荐质量效果不佳的问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对上述问题，本文提出结合用户的评分时间发现具有相似评分行为的用户，从而改善传统协同过滤算法中寻找最近邻的方法。并在此基础上融合用户评分方差相似度，从而更全面地利用用户评分信息改善相似度的计算，即使在数据异常稀疏、用户之间共同评分稀少的前提下依然能相对准确地计算用户之间的相似度，达到提高推荐准确性的目的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3基于用户评分时间改进的协同过滤推荐算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 算法描述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1）定义1：相似评分项， $\\mathrm { T _ { u i } }$ 表示用户 $\\mathrm { ~  ~ u ~ }$ 对项目i的评分时间，假设用户 $\\mathrm { ~  ~ u ~ }$ 和 $\\mathbf { v }$ 都对项目i有过评分，另外 $\\mathrm { T _ { u i } }$ 与 $\\mathrm { T _ { v i } }$ 的差值小于预先指定的一个时间间隔，那么i就是被认定为用户u和v的相似评分项目Suv。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2）定义2：相似用户行为，两个用户的相似评分项大于等于指定阈值 $\\lambda$ ，则认为这两个用户具有相似用户行为，公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S } = \\left\\{ \\begin{array} { l l } { 0 } & { \\mathrm { S } _ { \\mathrm { u v } } < \\lambda } \\\\ { 1 } & { \\mathrm { S } _ { \\mathrm { u v } } \\geqslant \\lambda } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当 $S \\Delta _ { \\mathrm { u v } } < \\lambda$ 时，表示用户 $\\mathrm { ~  ~ u ~ }$ 和用户 $\\mathbf { v }$ 之间相似评分行为少，在计算相似性时需要舍弃，否则会影响准确性。用户相似评分项阈值 $\\lambda$ 在实验中的取值直接影响到算法计算的准确性，在应用的过程中需要根据实验中的具体情况确定 $\\lambda$ 的取值，从而得到最优解。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3）定义3：用户评分方差相似度",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文将用户的评分方差引入到相似度的计算中以衡量用户之间相似度的差异性，在此基础上提出用户",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "评分方差相似度(User Rating Variance Similarity, URVS)理论，计算方法如公式(2)所示: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S i m } _ { \\mathrm { U R V S } } ( \\mathrm { u } , \\mathrm { v } ) { = } 1 { - } \\frac { \\left| \\mathrm { V a r } _ { \\mathrm { u } } - \\mathrm { V a r } _ { \\mathrm { v } } \\right| } { \\mathrm { V a r } _ { \\mathrm { u } } + \\mathrm { V a r } _ { \\mathrm { v } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\mathrm { V a r _ { u } }$ ， $\\mathrm { V a r _ { v } }$ 分别表示用户 $\\mathrm { u } , \\mathrm { v }$ 的评分方差,例如用户a,b,c的方差分别为1、3、5，那么$\\mathrm { S i m } _ { \\mathrm { U R V S } } ( \\mathbf { a } , \\mathbf { b } ) = 0 . 5$ ， $\\mathrm { S i m } _ { \\mathrm { U R V S } } ( \\mathrm { a } , \\mathrm { c } ) \\approx 0 . 3 3$ 。评分方差越大表示用户的争议度就越大，评分方差越小表示用户的争议度就越小。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2 改进后的相似度计算 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文以修正的余弦相似度为例，结合用户评分时间的相似度的计算方法如公式(3)所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sin ( \\vec { \\mathrm { u } } , \\vec { \\mathrm { v } } ) _ { \\mathrm { A - c } } = \\mathrm { S } \\times \\frac { \\displaystyle \\sum _ { \\mathrm { i } \\in \\mathrm { I } _ { \\mathrm { u } } } \\big ( \\mathrm { R } _ { \\mathrm { u i } } - \\overline { { \\mathrm { R } } } _ { \\mathrm { u } } \\big ) \\big ( \\mathrm { R } _ { \\mathrm { v i } } - \\overline { { \\mathrm { R } } } _ { \\mathrm { v } } \\big ) } { \\displaystyle \\sqrt { \\sum _ { \\mathrm { i } \\in \\mathrm { I } _ { \\mathrm { u } } } \\big ( \\mathrm { R } _ { \\mathrm { u i } } - \\overline { { \\mathrm { R } } } _ { \\mathrm { u } } \\big ) ^ { 2 } \\sum _ { \\mathrm { i } \\in \\mathrm { I } _ { \\mathrm { v } } } \\big ( \\mathrm { R } _ { \\mathrm { v i } } - \\overline { { \\mathrm { R } } } _ { \\mathrm { v } } \\big ) ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在结合用户评分时间的基础上，引入用户评分方差相似度的相似性计算如公式(4)所示:",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S i m } _ { \\mathrm { U R V S - C F } } ( \\mathbf { u } , \\mathbf { v } ) = \\alpha \\mathrm { S i m } _ { \\mathrm { U R V S } } ( \\mathbf { u } , \\mathbf { v } ) + ( 1 - \\alpha ) \\mathrm { S i m } _ { \\mathrm { A - c } } ( \\mathbf { u } , \\mathbf { v } ) \\times \\mathbf { S }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "即：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathrm { S i m } _ { \\mathrm { U R V S - C F } } ( \\mathrm { u } , \\mathrm { v } ) = \\alpha \\Bigg ( 1 - \\frac { \\left| \\mathrm { V a r } _ { \\mathrm { u } } - \\mathrm { V a r } _ { \\mathrm { v } } \\right| } { \\mathrm { V a r } _ { \\mathrm { u } } + \\mathrm { V a r } _ { \\mathrm { v } } } \\Bigg ) + ( 1 - \\alpha ) } \\\\ & { \\quad \\frac { \\sum _ { \\mathrm { i } \\in \\mathrm { I } _ { \\mathrm { u } } } \\left( \\mathrm { R } _ { \\mathrm { u i } } - \\overline { { \\mathrm { R } } } _ { \\mathrm { u } } \\right) \\left( \\mathrm { R } _ { \\mathrm { v i } } - \\overline { { \\mathrm { R } } } _ { \\mathrm { v } } \\right) } { \\sqrt { \\sum _ { \\mathrm { i } \\in \\mathrm { I } _ { \\mathrm { u } } } \\left( \\mathrm { R } _ { \\mathrm { u i } } - \\overline { { \\mathrm { R } } } _ { \\mathrm { u } } \\right) ^ { 2 } \\sum _ { \\mathrm { i } \\in \\mathrm { I } _ { \\mathrm { v } } } \\left( \\mathrm { R } _ { \\mathrm { v i } } - \\overline { { \\mathrm { R } } } _ { \\mathrm { v } } \\right) ^ { 2 } } } \\times \\mathrm { S } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于用户评分时间改进的协同过滤推荐算法的优势在于即便在数据异常稀疏、用户之间共同评分稀少的情况下依然能够充分地利用用户的评分信息，相对准确地计算出用户之间的相似度，提高推荐系统的推荐准确性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.3改进后算法的主要步骤",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "输入：用户-项目评分矩阵，目标用户u输出：目标用户u的TOP-N项目推荐列表。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 根据用户-项目评分矩阵R，利用改进的修正余弦相似度计算方法(公式(4))计算用户 $\\mathrm { ~  ~ u ~ }$ 和其他用户的相似度，如果在某个时间段内评价电影的个数过少，则相似度Sim设为0。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 根据步骤 $\\textcircled{1}$ 计算出的相似度，确定目标用户 $\\mathrm { ~  ~ u ~ }$ 的 $\\mathbf { k }$ 个最近邻居，设最近邻居集合为 $\\mathbf { K } = \\left\\{ \\mathbf { v } _ { 1 } , \\mathbf { v } _ { 2 } , \\cdots , \\mathbf { v } _ { \\mathrm { k } } \\right\\}$ ，则目标用户u与最近邻的相似度为 sim={simul,simu2,…,simuk。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{3}$ 分别确定目标用户 $\\mathrm { ~  ~ u ~ }$ 和相似近邻已经评分过的项目集合 $\\mathrm { I _ { u } }$ 和 $\\mathrm { I _ { i } } = \\left\\{ \\mathrm { i _ { l } , i _ { 2 } , \\cdots , i _ { k } } \\right\\}$ ，将所有的 $\\mathrm { \\Delta I _ { i } }$ 取并集，然后将 $\\mathrm { I _ { u } }$ 中已经存在的项目去掉，最后产生候选集 $Z$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{4}$ 对候选集中Vj $\\in Z$ ，利用公式(6)预测用户 $\\mathrm { ~  ~ u ~ }$ 对项目j的评分。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P _ { u i } = \\overline { { R } } _ { u } + \\frac { \\displaystyle { \\sum _ { \\mathrm { v _ { i } \\in N } } \\sin _ { \\mathrm { U R V S - C F } } ( \\vec { u } , \\vec { \\mathrm { v } } ) \\cdot \\left( R _ { \\mathrm { v i } } - \\overline { { R } } _ { \\mathrm { v } } \\right) } } { \\displaystyle { \\sum _ { \\mathrm { u _ { i } \\in N } } \\left| \\sin _ { \\mathrm { U R V S - C F } } ( \\vec { \\mathrm { u } } , \\vec { \\mathrm { v } } ) \\right| } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{5}$ 将步骤 $\\textcircled{4}$ 中项目的预测评分按照降序从大到小的排列，选择排在最前面评分最高的前 $\\mathfrak { n }$ 个项目推荐给用户 $\\mathbf { u } _ { \\circ }$ （204号",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4实验与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.1 实验数据与环境",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文采用由Minnesota大学的GroupLens 研究小组创建的MovieLens数据集①中的100K的数据集进行实验。该数据集记录共943个用户对1682部电影的10万条评分。评分的分值在[0-5]之间不等，用户对电影的喜爱程度随着分值的增加而递增[7]。从数据集中随机抽取 $80 \\%$ 作为训练集，剩余 $20 \\%$ 作为测试集[8]。数据集的稀疏度计算如下所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\displaystyle \\Phi = 1 - \\frac { 1 0 0 0 0 0 } { 9 4 3 \\times 1 6 8 2 } \\approx 0 . 9 3 6\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由此可见，所选择的数据集的评分矩阵是非常稀疏的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验环境是 Intel(R)Core(TM)i3-2310M 2.10GHzCPU，2GB内存，MicrosoftWindows7操作系统，算法使用Matlab语言实现",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.2 检验指标 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用平均绝对误差(MAE)评价该系统的推荐质量。MAE通过计算实际评分与预测评分之间的差值衡量算法的好坏。MAE值越小说明该算法就越好。MAE值的计算如公式(7)所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { M A E = \\frac { 1 } { n } \\sum _ { ( u , i ) \\in R } \\left| P _ { u , i } - R _ { u , i } \\right| }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中, $\\mathrm { \\Delta P _ { u , i } }$ 表示用户 $\\mathrm { ~  ~ u ~ }$ 对电影i的预测评分, $\\mathrm { R } _ { \\mathrm { u , i } }$ 表示用户 $\\mathrm { ~  ~ u ~ }$ 对电影i的真实评分， $\\mathfrak { n }$ 表示 $\\mathrm { P _ { u , i } }$ 或者 $\\mathrm { R } _ { \\mathrm { u , i } }$ 的数量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.3 实验分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)实验一：参数 $\\lambda$ 对推荐系统性能的影响利用公式(3)计算出用户之间的相似度，并根据相似度的大小确定目标用户的最近邻，根据文献[6]中的评分预测公式计算出目标用户对于未评分项目的评分值。由于实验一主要用于测试参数入对MAE值的影响，因此需要控制最近邻的个数，当最近邻的个数为30，阈值的取值分别是3、5、8、10、12、14,MAE值的变化情况如图1所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e9437711bc9d89264a7ccc5e67b903c44a5907e314257bf0b65c873a8f88577e.jpg",
+        "img_caption": [
+            "图1阈值 $\\lambda$ 对MAE值的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图1中能够看出阈值 $\\lambda$ 取10时，MAE值最低推荐精度最高。因此在实验中设置阈值 $\\lambda { = } 1 0$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)实验二：参数 $\\alpha$ 对推荐系统性能的影响 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "该实验主要用于测试参数 $\\alpha$ 对 MAE 值的影响,同样需要控制最近邻的个数。当最近邻个数为30 时，MAE值随不同的 $\\alpha$ 值的变化情况如图2所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/066809a55cb80aa38fce91e0e930e3285fa499bf1d8572a2a3d129c8621bc640.jpg",
+        "img_caption": [
+            "图2变量 $\\mathrm { ~ \\bf ~ \\underline { ~ } { ~ a ~ } ~ }$ 对MAE的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图2中可以看出，当 $\\alpha = 0 . 2$ 时，MAE 值最小,推荐结果最优。随着 $\\alpha$ 逐步增加至0.2时，MAE值逐步减小， $\\alpha$ 继续递增，MAE值又开始缓慢递增。通过实验结果可以认为 $\\alpha$ 在协同过滤中起着重要的作用，只有选择恰当的 $\\alpha$ 才能获得最佳的推荐对象，得到最优的推荐结果,MAE值才能降到最低。所以在实验三中参数 $\\alpha$ 的取值为0.2。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3)实验三：推荐性能随最近邻数目的变化情况 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了验证本文提出的基于用户评分时间改进的协同过滤推荐算法的有效性，进行实验对比。在MovieLens数据集上对改进的算法与传统的基于用户的协同过滤推荐算法的推荐准确性进行了比较。从实验一和实验二的结果可知，入的取值为10， $\\alpha$ 的取值为0.2。MAE值随不同的最近邻数目的变化情况如图3所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/38759f7046e7c760e71fcb6b65b18a3e8b26b7d4a500ae53c8138574a51e9713.jpg",
+        "img_caption": [
+            "图3改进后协同过滤算法的性能"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图3中可以看出，基于用户评分时间改进的协同过滤推荐算法在最近邻用户个数分别为10、20、30、40、50的MAE值均小于传统的基于用户的协同过滤推荐算法。MAE值平均降低 $2 \\%$ 。由此可见，在相似度的计算中考虑用户的评分时间、并且引入用户评分方差相似性后推荐效果的准确度得到了明显提高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5结语 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文对传统的基于用户的协同过滤推荐算法中存在的不足之处进行改进，提出一种基于用户评分时间改进的协同过滤推荐算法。新算法考虑了在用户-项目评分矩阵异常稀疏、系统中两个用户之间共同评分项目极少时，所导致的相似度计算不准确，推荐准确性下降的情况。针对这一问题，本文结合用户的评分时间发现具有相似评分行为的用户，并融合用户评分方差相似度来改善传统用户之间相似度的计算，进而优化了目标用户最近邻的查找方式。实验结果表明，该算法即使在系统数据异常稀疏、用户之间共同评分稀少的前提下依然能够相对准确地计算用户之间的相似度，从而得到更加准确的推荐效果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：   \n[1]张莉，秦桃，腾丕强．一种改进的基于用户聚类的协同过 滤算法[J]．情报科学,2014,32(10):24-27.(Zhang Li,Qin Tao，Teng Piqiang.An Improved Collaborative Filtering Recmmendation Algorithm Based on User Clustering [J]. Information Science,2014,32(10): 24-27.)   \n[2]方耀宁，郭云飞，丁雪涛，等．一种基于局部结构的改进 奇异值分解推荐算法[J]．电子与信息学报，2013，35(6): 1284-1289. (Fang Yaoning, Guo Yunfei, Ding Xuetao, et al. An Improved Singular Value Decomposition Recommender Algorithm Based on Local Structures [J]. Journal of Electronics & Information Technology,2013,35(6):1284-1289.)   \n[3]孙辉，马跃，杨海波，等．一种相似度改进的用户聚类协 同过滤推荐算法[J]．小型微型计算机系统，2014,35(9): 1967-1970.(Sun Hui,Ma Yue，Yang Haibo，et al. Collaborative Filtering Recommendation Algorithmby Optimizing Similarity and Clustering Users [J]. Journal of Chinese Computer Systems,2014,35(9): 1967-1970.)   \n[4]高翔．电子商务个性化推荐系统中协同过滤算法的研究 [D]．南京：南京航空航天大学,2011.(Gao Xiang.Research of Collaborative Filtering on Recommendation Systems for E-Commerce [D]. Nanjing:Nanjing University of Aeronautics and Astronautics,2011.)   \n[5]许智宏，王宝莹．基于项目综合相似度的协同过滤算法[J]. 计算机应用研究,2014,31(2):398-400.(Xu Zhihong,Wang Baoying. Collaborative Filtering Recommendation Algorithm Based on Item Complex Similarity [J].Application Research of Computers,2014,31(2): 398-400.)   \n[6]文俊浩，舒珊．一种改进相似性度量的协同过滤推荐算法 [J].计算机科学,2014,41(5):68-71.(Wen Junhao,Shu Shan. Improves Collaborative Filtering Recommendation Algorithm of Similarity Measure [J]. Computer Science,2014,41(5): 68-71.)   \n[7]严冬梅，鲁城华．基于用户兴趣度和特征的优化协同过滤 推荐[J]．计算机应用研究，2012，29(2):497-500.(Yan Dongmei,Lu Chenghua.Optimized Collaborative Filtering Recommendation Algorithm Based on Users’ Interest Degree and Feature [J].Application Research of Computers,2012, 29(2): 497-500.) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[8]赵雪．基于用户兴趣的个性化协同过滤推荐算法研究[D]. 秦皇岛：燕山大学，2014.(Zhao Xue．ThePersonalized Collaborative Filtering Recommendation Algorithm Based on User Interest [D].Qinhuangdao:Yanshan University, 2014.) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "李道国：提出研究思路，设计研究方案;  \n李连杰，申恩平：分析数据，进行试验;  \n李道国，李连杰：论文起草及最终版本修订。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利益冲突声明：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "所有作者声明不存在利益冲突关系。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "支撑数据：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "支撑数据见期刊网络版http://www.infotech.ac.cn。  \n[1]李道国，李连杰，申恩平.base.base.基础数据集.  \n[2]李道国，李连杰，申恩平.test.test.测试数据集.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "收稿日期:2016-04-22   \n收修改稿日期:2016-05-24 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "New Collaborative Filtering Recommendation Algorithm Based on User Rating Time ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Li Daoguo'Li Lianjie²Shen Enping² 1(School of Information Engineering, Hangzhou Dianzi University,Hangzhou 310o18, China) 2(School of Management, Hangzhou Dianzi University, Hangzhou 310018, China) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Abstract:[Objective]This paper tries to solve the problems facing traditional colaborative filtering algorithm due to sparse data and few users’common scores,and then improve the accuracy of the score prediction systems.[Methods] First,we identified users with similar scoring behaviors based on their scoring time.Second,we integrated the similarityof user score varianceto the calculation of similarity.[Results]The new algorithm,which reduced the MAE by $2 \\%$ compared to the traditional algorithm,improved the performance of recommendation system. [Limitations] The proposed algorithm was only examined with the MovieLens dataset,which needed to be expanded to other datasets. [Conclusions] The proposed algorithm can improve the effectiveness of recommendation systems. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Collaborative filteringData sparsitySimilarity scoreUser rating Variance similarity Nearest neighbor ",
+        "page_idx": 4
+    }
+]

@@ -1,0 +1,205 @@
+# 基于PE3236芯片的锁相环频率合成电路研究
+
+孙家星1，杜起飞²，孙越强²，刘成²
+
+(1.中国科学院大学 北京1000491;2.中国科学院 国家空间科学中心 北京 100190)
+
+摘要：本文提出了一种应用于L波段的锁相频率合成电路的设计方案。给出了基于PE3236 芯片的锁相环电路设计方案。通过仿真验证和实验结果重点论述锁相环环路带宽与环路输出相位噪声和环路捕获时间之间的关系。实验结果表明，该方案可以被应用于导航接收机射频前端，该频率合成器电路性能稳定，满足实际应用需求。
+
+关键词：锁相环；频率合成器；环路带宽；相位噪声；捕获时间中图分类号：TP302 文献标识码：A
+
+# The research of frequency synthesizer of PLL circuit based on
+
+# PE3236
+
+SUN Jia-xing 1, DU Qi-fei ²,SUN Yue-qiang ²,LIU Cheng ² (1. University of Chinese Academy of Sciences,Beijing 1Ooo49,China; 2.National Science Space Center, Chinese Academy of Science,Beijing 1Oo19o,China)
+
+Abstract: This paper presents a project design application for the L band frequency synthesizer. Also it propose the realized of the PLLcircuit is based on PE3236.In order to satisfy the relation between the loop output phase noise,loop lock time and the PLL loop width.The experiment and application show that this design can be applicative on the front-end satelite receiver navigation,also the frequency synthesizer has good performance,and appropriate for the actual requirement.
+
+KeyWords: Phase lock Loop; Frequency Synthesizer; Loop Width; Phase Noise; Lock Time
+
+# 1引言
+
+在通信系统中[1]，产生可变的本振频率的方法有倍频、直接数字频率合成和锁相环技术。其中，倍频方法杂散较大，谐波难以抑制。直接数字频率合成器件工作频率较低且功耗较大，而锁相环技术具有结构简单、输出频率频谱纯度高和频率范围宽等优点，广泛应用于通信、雷达、宇宙航行和遥控遥测等技术领域，是现阶段主流的频率合成技术。而采用锁相环技术的频率合成电路主要技术指标[2是环路输出相位噪声和环路捕获时间，它直接影响到整个通信系统的性能。因此本文设计了应用于L波段的锁相频率合成电路，通过前期的仿真分析和电路实测结果，验证了环路带宽对环路输出相位噪声和环路捕获时间的关系。
+
+# 2设计方案
+
+# 2.1设计性能指标
+
+根据设计需要，锁相环的性能在指标要求是：(1)频率： $1 6 1 1 z \sim 2 G H z$ 。  
+(2)功率：12±1dBm。  
+(3)单边带相位噪声：≤-70dBc@100Hz。  
+(4)捕获时间：≤10ms。
+
+# 2.2方案设计
+
+根据指标设计需求，同时该设计对电路的体积和功耗有较高的要求。选用方案是由具有鉴相和分频功能的 PE3236 芯片，同时外接有源二阶低通滤波器[3]，选用符合L 波段的 VCO模块。这样可以使锁相环的输出频率具有较低的相位噪声，同时可以很方便调节有源二阶低通滤波器参数，方便环路带宽[4的选择。方案图如下所示。
+
+![](images/00eb6f3ce8deff8bd476ff59f2f5e2435e4662ff77e2177cc64f3f121e764671.jpg)  
+图1方案框图
+
+当锁相环锁定时，锁相环环路带宽为：
+
+$$
+\omega _ { n } = \sqrt { \frac { K _ { d } K _ { v } } { N R _ { 1 } C _ { 1 } } }
+$$
+
+系统阻尼系数为：
+
+$$
+\varepsilon = \frac { \omega _ { n } R _ { 2 } C _ { 2 } } { 2 }
+$$
+
+式中： $K _ { d }$ 为鉴相灵敏度； $K _ { v }$ 为压控振荡器灵敏度；N为分频比；R1、R2、C1、C2分别为环路滤波器参数值。ε为系统阻尼系数。
+
+采用有源二阶环路低通滤波器[5]，可以使截止频率不随负载而变化，同时稳定性相比于无源低通滤波器更好，二阶环路低通滤波器相位裕度最好，并且稳定性高。同时考虑到环路输出频带较宽，压控振荡器的输入电压超过鉴相器输出电压，则采用有源电路可以实现直流
+
+电压放大。
+
+# 2.3相噪分析
+
+相位噪声回是锁相频率合成器最重要的指标之一，它是指锁相环系统在各种噪声作用下输出频率短期稳定度的表征。通常相位噪声在频率域进行分析，通过单边带噪声功率谱密度进行描述。
+
+锁相环系统相位噪声来源包括参考源、鉴相器、压控振荡器、分频器。由于外部引入的噪声无法估算，所以着重分析环路内部器件对相位噪声的影响。为准确评估相位噪声性能，建立锁相环的相位噪声模型[8]。如下图所示。其中，参考源、鉴相器、压控振荡器、分频器引入的噪声分别用 $S _ { r e f } \setminus S _ { p d } \setminus S _ { v c o } \setminus S _ { n }$ 。环路总输出噪声用 $S _ { t o t }$ 。
+
+$$
+S _ { t o t } = \left( S _ { r e f } ^ { 2 } + S _ { n } ^ { \ 2 } \right) \left\{ \frac { G ( s ) } { 1 + G ( S ) / N } \right\} ^ { 2 } + S _ { p d } ^ { \ 2 } \left( \frac { 1 } { K _ { d } } \right) ^ { 2 } \left\{ \frac { G ( s ) } { 1 + G ( S ) / N } \right\} ^ { 2 } + S _ { v c o } ^ { 2 } \left\{ \frac { 1 } { 1 + G ( s ) / N } \right\} ^ { 2 }
+$$
+
+其中， $\begin{array} { r } { \mathrm { G } ( \boldsymbol { s } ) = \frac { \boldsymbol { F } ( \boldsymbol { S } ) K _ { d } K _ { v } } { s } } \end{array}$ 。由上式结合环路带宽分析的，当 $\omega \gg \omega _ { c }$ 时， $\operatorname { G } ( s ) \to 0$ ；当 $\omega \ll$ $\omega _ { c }$ 时，为G(s)。因此提取上式中的共因子，存在以下关系[9]。
+
+$$
+\quad \{ S _ { t o t } = ( S _ { r e f } { } ^ { 2 } + S _ { n } { } ^ { 2 } + S _ { p d } { } ^ { 2 } ( \frac 1 { K _ { d } } ) ^ { 2 } ) \{ N \} ^ { 2 } + S _ { v c o } { } ^ { 2 } \{ \frac { N } { G ( s ) } \} ^ { 2 } \quad ( \omega \ll \omega _ { c } )
+$$
+
+因此，在环路带宽内，环路对参考源、鉴相器、环路滤波器和分频器所产生的噪声抑制不大，而对压控振荡器产生的噪声抑制作用明显[10]。环路带宽外则相反。在进行设计时，应根据环路实际情况合理选择环路带宽[11]。
+
+# 2.4捕获时间
+
+环路由起始失锁状态到达锁定状态所需要的时间为环路捕获时间。
+
+$$
+T = { \frac { \Delta { \omega _ { 0 } } ^ { 2 } } { 2 \varepsilon { \omega _ { n } } ^ { 3 } } }
+$$
+
+式中： $\Delta \omega$ 为环路通过频率牵引有能力自行锁定的最大起始频差，通常称之为捕捉带。
+
+因此，如果要提高捕获性能，可以通过增大环路带宽。从而减小捕获时间。而加大环路带宽，将会使环路输出相位噪声增大。因此实际设计时，要折衷选取环路参数。
+
+# 3仿真分析与实测结果
+
+# 3.1仿真分析
+
+利用仿真软件ADS，通过建立锁相环频率合成器电路模型，对环路带宽与相位噪声和捕获时间之间的关系进行仿真验证。
+
+# 3.1.1环路带宽与相位噪声的关系
+
+通过环路带宽公式，采用控制变量法，改变环路带宽参数，观察相位噪声的变化。
+
+通过修改有源低通滤波器参数，分别设置环路带宽为100KHz、50KHz、10KHz，观察环路输出相位噪声的变化。
+
+Neismpont VAR FREQUENCYSYNTHESIZER Kv=63MHz.   
+Sideband L3 Vo   
+Phase Noise, Lase tsameters Rlpf1=2390Ohm L2 Cpf1=27.nF R C 59 R1 Rpt2Ohm Capr1F o og(freq) R=RIpt1Ohm W Linear Divider W VCOwith Noise with Nois'e LinDivWNoisesips 网 P R5 ? □ NO=NOref RefCha R=Ripf1Ohm 11 AMAm. H Sips 神 L2=-1000 3 E1-100 L1=10H C8 Ref RefOstSips -L Volts perradian. C=Clpf1 L2=-120 F3-100 F2=100 O=-100KH 2 E1-0 点 OpAmpNseVltageandCuren A F3=1kHz VAR3 L3=-1000 AC1 frq=lf freqOthen 1e-24 else freq enidif F4=10Hz Start=1Hz Nn1=1'Hz The op amp input noise current（Amps/sqrt(Hz) L4=-1000 Stop=10.0MHz2 fin1=10Hz 3 at large offsetsisgivenby inD.At frequency DacNoise=yes in0=0.2pA oint SYN_PF_PN_A2P in1=0.5pA Theop amp lnput noise voltageVolts/sqrt(Hz) F2016-03pllSimulationipe3236_prjinetworks\SYN_PF_PN_A2P vn1=20v at largeoffsets is givenby vnD.Atfrequency vn0=13nV oth
+
+![](images/4af38ccbf48d396603758dfc8a16c7761ca203bbf31e740716e030d299e348e7.jpg)  
+图2相位噪声仿真图  
+图3环路带宽100Khz、50KHz、10KHz环路输出相位噪声
+
+对比三个图中得出结论：当环路带宽与环路输出相位噪声的大小密切相关。环路带宽取值过大或者过小对于输出总噪声抑制性能均不好，每个环路都存在一个最佳环路带宽，使得环路输出相位噪声功率最小[12]。
+
+# 3.1.2环路带宽与捕获时间的关系
+
+通过环路带宽公式，采用控制变量法，改变环路带宽参数，观察捕获时间的变化。
+
+通过修改有源低通滤波器参数，分别设置环路带宽为100KHz、50KHz、10KHz，观察环路捕获时间的差别。
+
+Specifying Component NoiseParamefers VAR: FREQUENCY SYNTHESIZER Kv=63MHz F voemrtein L016-8 RE HEe   
+Single- 5   
+edle ee Ref-300m L2 Clpf1=27.nF L1 R RR2 C d LO R1 R=Ripf2Ohm C=Cipf1F og(freg) R=RIpr1Onm W W VCOwith Noise Linear Divider with Nose LiDivwNoisesips 网 R5 Q □ NO=NOref R=Rlpf1Ohm 由 AMAm. H L 1 F 3 Tg Capr1F F1=100KH ? L-100 F2=25z F3=1kHz VAR OpAmp Noise Voltage and Current L3=-1000 AC1 frq=lf freq=0then 1e-24else freqeridif F4=10Hz Start=1Hz Nn1=1'Hz The op amp input noise current （Amps/sqrt(Hzl) 3 vn0=13v s VCOFrequencyversusTime VCOFrequency versusTime VCOFrequency versusTime 1.600k 1.600k- 1.600k 1.500k m1 1.500k m1 1.500k   
+1.300k 1.400k 0012 ZHbaO 1.300k 1.400k 1.300k 1.400k   
+1 1.00k 86705e vco_z-1500.030 5 1.000k- 1.000k 1.000k 900.0 900.0 900.0 8000103005608 800.0 800.0 1 2040608010012014010180200 000.51.01.5202.53.03.54.04.550 time,usec time,usec time,msec
+
+对比三个图中得出结论：环路带宽越大，捕获时间越短，捕获性能越好；环路带宽越小，系统捕获时间越长，捕获性能越差。因此选择合适的环路带宽不仅对于环路输出相位噪声和环路捕获时间有影响。因此选择最佳环路带宽，选择中间值较为理想[13]。
+
+# 3.2实测结果
+
+# 3.2.1输出相位噪声的测试
+
+分别设置环路带宽为100KHz、50KHz和10KHz的情况下，对环路输出频率在1.5GHz的相位噪声测试的结果。
+
+米Agilent23:24:17 Feb3,1970 Marker SelectMarker   
+CarrierFreq 1.5GHz Signal Track OffDANL Off Trig Free 23 4   
+Log Plot Marker 100.000 kHz Normal   
+CarrierPower 11.96 dBm Atten 12.00 dB Mkr 4 100.000 kHz   
+Ref-70.00dBc/Hz -92.07 dBc/Hz   
+10.00 Delta   
+dB/ rp RMS Noise Residual FM 100 Hz Frequency Offset 1 MHz Marker Trace Type XAxis Value Off 42 2222 \$po 1Hz -93.84 82. dBo/Hz 109 SPO eq 10kHz -95.23 dBo/Hz 100 k Hz 92.07 dBc/Hz More 1of2   
+UseView/Tracemenuwhenloadingorsavinglogarithmictraces.   
+景Agilent 00:07:31 Feb 4,1970 Marker SelectMarker   
+CarrierFreq 1.5GHz Signal Track Off DANL Off Trig Free 23 4   
+LogPlot   
+Marker 100.000 kHz Normal   
+CarrierPower 11.92 dBm Atten 12.00 dB Mkr 4 100.000 kHz   
+Ref-70.00dBc/Hz -92.27dBc/Hz   
+10.00 Delta   
+dB/ Wv F 1 T RMSNoise ResidualFM 100 Hz FrequencyOffset MHz   
+Marker Trace Type XAxis Value Off Spot 10Hz 54 dBc/Hz dBo/Hz 1 dBc/Hz 100kHz 27 dBc/Hz More 1of2   
+Agilent00:33:34 Feb 4,1970 Frequency   
+CarrierFreq 1.5GHz Signal Track Off DANL Off Trig Free 1.arrier FGH   
+Log Plot   
+Carrier Power 12.03 dBm Atten 14.00 dB Mkr 4 100.000 kHz   
+Ref-7000dBc/Hz dB/ Pp 梅 -100.30dBc/Hz Carrier SearchSpan 10.0000000kHz Auto Man 100 Hz FrequencyOffset MHz   
+Marker Trace Type XAxis Value Signal Track Spo 1 9 9 dBc/Hz On Off 2 -83.06 dBo/Hz kHz 76 6.64 dBc/Hz 100 k Hz .00 30 dBc/Hz Tracking   
+Copyright2000-2004AgilentTechnologies
+
+图61.5GHz环路输出频率相位噪声实测表1相位噪声实测结果  
+
+<html><body><table><tr><td>相噪(dBc/Hz) 环路带宽</td><td>100Hz</td><td>1KHz</td><td>10KHz</td><td>100KHz</td></tr><tr><td>10KHz</td><td>-79.99</td><td>-83.06</td><td>-76.64</td><td>-100.30</td></tr><tr><td>50KHz</td><td>-81.64</td><td>-91.64</td><td>-88.87</td><td>-92.27</td></tr><tr><td>100KHz</td><td>-82.38</td><td>-93.84</td><td>-95.23</td><td>-92.07</td></tr></table></body></html>
+
+  
+FileOperation Status，C:\SCRENo38.GIFfiledeleted
+
+由以上分析知，环路带宽在100KHz时，在有用信号周围的噪声相对较弱，而在其他情况下有用信号周围噪声较强。另外，当环路带宽取值越小，曲线在带外存在“凸起”现象，这是因为此时带外噪声主要为高通型 VCO 噪声[14]。当环路带宽越宽时，相位噪声相比于其他两种环路带宽，更加平滑呈现单调递减趋势，说明该环路频率稳定性更好。
+
+# 3.2.2捕获时间的测试
+
+分别设置环路带宽为100KHz、50KHz和10KHz的情况下，对环路在1.5GHz输出频率捕获时间测试的结果。
+
+以下实验固定环路带宽分别为100KHz、50KHz和10KHz时，锁相环路捕获时间对比图。
+
+图中，黄色、绿色、紫色、蓝色分别代表通道1、通道二、通道三和通道四。1通道和2通道分别代表PD_D和PD_U输出信号，3通道为触发电平，保证捕获时间从环路上电开始，4通道为环路锁定指示，当环路被锁定，环路锁定指示点为为高电平。
+
+![](images/d75afe16e840960dfeb4d7bb59bce1699cf2f99b38a7efb94119fa4bc1d5e54b.jpg)
+
+![](images/3f9f95569fceb9ddd875361c687f76b2181a9b54a79232e3ebd9ba5aaf389302.jpg)
+
+![](images/8763632de2bd4ccc095aa7be9a6b23fd79c5abf8dd7ba0d2705cc81ff06200f4.jpg)  
+图71.5GHz环路捕获时间实测
+
+从图中看出，环路上电之初，环路的瞬态特性的过冲很大，这是因为阻尼系数选值较小的结果[15]。之后，鉴相输出端的差分信号处在变化状态，这个阶段被称之为频率牵引。在经过一段时间的频率牵引后，环路误差电压稳定在0附近，表明环路已经被锁定在输入频率上。环路捕获时间为起始失锁状态到达锁定状态所需要的时间。
+
+表2环路捕获时间实测结果  
+
+<html><body><table><tr><td>环路带宽(KHz)</td><td>100</td><td>50</td><td>10</td></tr><tr><td>捕获时间(ms)</td><td>2.5</td><td>2.8</td><td>10</td></tr></table></body></html>
+
+由以上分析，在其他系统参数设置相同情况下，环路带宽对环路捕获时间有一定的影响。环路带宽越大，捕获时间短，捕获性能就越强。
+
+# 3.3实验结论
+
+通过仿真分析和实测结果可以得出：选择合适的环路带宽对锁相环频率合成器至关重要。通常在设计环路时，应同时考虑相位噪声和捕获时间，选取最佳环路带宽，使得环路达到捕获性能强并且相位噪声小，满足设计技术指标要求。
+
+# 4结束语
+
+通过设计方案和仿真分析再到实验结果可以看出，采用PE3236芯片实现了L波段锁相
+
+环频率合成器小型化、低功耗的设计并且达到技术指标，同时完成了对环路输出相位噪声和捕获时间与环路带宽的关系进行了研究。随着通信技术的发展，对频率合成器技术指标要求更加严格，因此研制高性能指标的锁相环频率合成器，将会有更广阔的前景。
+
+# 参考文献
+
+[1] 郑继禹,张厥盛,万心平,等．锁相技术[M]．西安：西安电子科技大学出版社,2012:7-70.[2]高玉良,李延辉,等．现代频率合成与控制技术[M]．北京：航空工业出版社,2002:120-180.[3]Kaplan ED,HegartyCJ.GPS 原理与应用[M].2版．寇艳红，译．北京：电子工业出版社,2007:129-139.[4]黄玉兰．射频电路理论与设计．第二版[M].北京：人民邮电出版社,2008:79-91.[5]承德宝．雷达原理[M]．北京：国防工业出版社,2008:153-159.[6]袁雪林,张洪德,朱畅,等．一种改善频率合成器的相位噪声的方法[J]．现代雷达.2008,30(4):85-87.[7]李仲秋,曾全胜。锁相环相位噪声与环路带宽的关系分析[J]．现代电子技术.2009,32(14):132-134.[8]Robert L.Boylestad. Elcctronic Devices and Cirruit Theory[M]. NinthEdition，1996:315-327.[9] 王宇舟．三阶锁相环环路滤波器参数设计[J].电讯技术,2008,48(9):51-55.[10] 张杰,马冠一.GNSS 接收机锁相环最佳环路带宽的选取[J]．电讯技术.2015(55):890-894.[11] 王渊峰,戴旭辉．Altium Designer 10 电路设计标准教程 [M].北京:科学出版社,2012：215-238.[12] 陈刚．锁相环路的相位噪声分析[J]．机械与电子.2009(3)：112-113.[13] 杨沛,张磊,王平连,等．锁相环相位噪声的研究与仿真 [J]．电子测量技术.2003,32(4):35-37.[14] 张建斌．锁相与频率合成[M].北京:科学出版社,2011:166-183.[15] GardnerFM.Phaselock Techniques [M].3版．姚剑清,译．北京:人民邮电出版社,2007:8-15.
+
+# 第一作者简介：
+
+孙家星（1992一)，男，山东省德州市人，现为中国科学院大学硕士研究生，主要研究方向：射频电路设计。邮箱：sunjiaxing14@mails.ucas.ac.cn  
+杜起飞（1978一)，男，中国科学院国家空间科学中心研究员，主要研究方向：卫星导航、星载GNSS 接收机。

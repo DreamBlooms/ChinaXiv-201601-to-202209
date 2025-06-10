@@ -1,0 +1,1870 @@
+[
+    {
+        "type": "text",
+        "text": "·指南与共识· ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中国艾滋病诊疗指南（2018版）",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中华医学会感染病学分会艾滋病丙型肝炎学组中国疾病预防控制中心",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "通信作者：李太生1，王福生，高福1中国医学科学院北京协和医学院北京协和医院感染内科，北京 100730，E-mail：litsh@ 263.Net² 解放军第三O二医院肝病生物治疗中心，北京 100039,E-mail:fswang302@163.com3 中国疾病预防控制中心,北京 100050,E-mail:gaof@ im.ac.cn",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】艾滋病是中国重要的公共卫生问题。2005年，中华医学会感染病学分会艾滋病学组制定了《艾滋病诊疗指南》第一版，并于2011年和2015年进行了更新。2018 版指南是在第三版的基础上，根据我国艾滋病临床诊疗实践和最新研究成果进行的更新，主要体现在机会性感染和人类免疫缺陷病毒（human immunodeficiency virus，HIV）相关肿瘤的诊治、抗反转录病毒治疗、HIV 暴露后预防和预防母婴传播方面的最新研究进展。2018版指南首次介绍了HIV 暴露后预防、首次提出了HIV 感染全程管理的概念并详细介绍了如何做好 HIV 感染全程管理。本指南将根据最新的临床研究证据定期进行更新。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】艾滋病；人类免疫缺陷病毒；诊断；治疗；指南   \n【中图分类号】R512.91 【文献标志码】A 【文章编号】1674-9081（2019)01-0000-23   \nDOI:10.3969/j.issn.1674-9081.2019.01.000 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chinese Guidelines for Diagnosis and Treatment of HIV/AIDS（2018) ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AIDS and Hepatitis C ProfessionalGroup，Society of Infectious Diseases，Chinese Medical Association; Chinese Center for Disease Control and Prevention ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Corresponding authors：LI Tai-sheng1，WANG Fu-sheng²,GAO Fu3 $^ 1$ Department of Infectious Diseases，Peking Union Medical Collge Hospital,Chinese Academy of Medical Sciences & Peking Union Medical College，Beijing 10O730,China，E-mail：litsh@ 263.net 2302 Military Hospital of China，Beijing 100050,China，E-mail：fswang302@ 163.com （204号 $^ 3$ Chinese Center for Disease Control and Prevention，Beijing 10005O,China，E-mail：gaof@ im.ac.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【Abstract】 Acquired immunodeficiency syndrome （AIDS） is an important public health problem in China. In 2005，the first edition of the guidelines for the diagnosisand treatment of AIDS was formulated by the AIDS Professional Group of Society of Infectious Diseases of Chinese Medical Association，which was updated in 2011 and 2015,respectively.The fourth editionofthe guidelines in2O18 isrevisedon the basisof the third edition and updated according to national clinical practice and the latest research results.The new research progress in opportunistic infections and human immunodeficency virus（HIV）associated cancers，antiretroviral therapy，HIV post-exposure prophylaxis，and prevention of mother to child transmision were updated in these guidelines.In he 2018 edition，pre-exposure prophylaxis is mentioned for the first time.The strategy of whole course management of HIV infection is put forwardand how todo the whole course management of HIV infection is detailed in this version.These guidelines will be updated regularly according to the latest clinical evidence. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【Keywords】acquired immunodeficiency syndrome；human immunodeficiency virus；disgnosis；treatment；guideline MedJPUMCH，2019,10(1）:0-0 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "艾滋病，即获得性免疫缺陷综合征（acquired im-munodeficiencysyndrome，AIDS），其病原体为人类免疫缺陷病毒（human immunodeficiency virus，HIV），亦称艾滋病病毒。目前，艾滋病已成为严重威胁我国公众健康的重要公共卫生问题。中华医学会感染病学分会艾滋病丙型肝炎学组牵头，于2005年制订了我国艾滋病诊疗指南第一版，2011年和2015年分别进行了更新[1]。本版指南由中华医学会感染病学分会艾滋病丙型肝炎学组和中国疾病预防控制中心共同组织相关专家在2015年第三版的基础上参照国内外最新研究成果和国内临床实践修订而成。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1流行病学",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1流行现况 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "9联合国艾滋病规划署估计，截至2017年底，全球现存活HIV/AIDS患者3690万例，当年新发HIV感染者180万例，有2170万例正在接受高效联合抗反转录病毒 治疗（highlyactiveantiretroviral therapy，HAART，俗称“鸡尾酒疗法”，现在又称抗反转录病毒治疗)[2]。在继续推行综合、强化的干预措施基础上，提出“90-90-90 策略”，即存活的HIV/AIDS患者$9 \\%$ 被检测出，诊断的HIV/AIDS患者 $9 0 \\%$ 接受规范的HAART，治疗的HIV/AIDS患者 $9 0 \\%$ 达到病毒被抑制，并规划到2020年，将年新发感染人数控制在50万以下[3]。截至 2017 年底，我国报告的现存活 HIV/AIDS患者758610例，当年新发现HIV/AIDS患者$1 3 4 5 1 2$ 例（其中 $9 5 \\%$ 以上均是通过性途径感染），当年报告死亡30 718 例[4]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2传染源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "是被HIV感染的人，包括HIV感染者和艾滋病患者。HIV主要存在于传染源的血液、精液、阴道分泌物、胸腹水、脑脊液、羊水和乳汁等体液中。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3感染和传播途径",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "经性接触（包括不安全的同性、异性和双性性接触)；经血液及血制品（包括共用针具静脉注射毒品、不安全规范的介入性医疗操作、文身等)；经母婴传播（包括宫内感染、分娩时和哺乳传播）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "高风险人群：主要有男男同性性行为者、静脉注射毒品者、与HIV/AIDS患者有性接触者、多性伴人群、性传播感染群体。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4 疫情报告",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "推行艾滋病自愿咨询和检测和医务人员主动提供",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "艾滋病咨询和检测，对发现的HIV/AIDS患者应遵照《中华人民共和国传染病防治法》及时向所在地疾病预防控制中心报告疫情，并采取相应的措施。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. 5 医学管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "遵循隐私保密原则，加强对HIV/AIDS患者的随访，及时给予规范的综合治疗（包括抗病毒治疗和对症支持治疗），提供必要的医学和心理咨询（包括预防HIV/AIDS患者继续传播HIV的健康处方）等全程管理措施。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. 6 预防措施",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "正确使用安全套，采取安全的性行为；不吸毒，不共用针具；推行无偿献血，对献血人群进行HIV筛查；加强医院管理，严格执行消毒制度，控制医院交叉感染；预防职业暴露与感染；控制母婴传播；对HIV/AIDS患者的配偶和性伴者、与HIV/AIDS患者共用注射器的静脉药物依赖者，以及HIV/AIDS患者所生的子女，进行医学检查和HIV检测，为其提供相应的咨询服务。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 病原学特征 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "HIV属于病毒科慢病毒属中的人类慢病毒组，为直径 $1 0 0 \\sim 1 2 0 ~ \\mathrm { { n m } }$ 的球形颗粒，由核心和包膜两部分组成；核心由衣壳蛋白（p24）所组成，衣壳内包括两条完全一样的",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "病毒单股正链RNA、核壳蛋白和病毒复制所必需的酶类，含有反转录酶（ $\\mathrm { p 5 1 / p 6 6 }$ ）、整合酶（p32）和蛋白酶（p10)；HIV最外层为包膜，来源于宿主细胞膜的膜质结构，其中嵌有外膜糖蛋白 $\\mathrm { g p } 1 2 0$ 和跨膜糖蛋白 $\\mathrm { g p 4 1 }$ ；包膜结构之下的是基质蛋白（p17），形成一个病毒内壳。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "HIV基因组全长约 $9 . 7 \\ \\mathrm { k b }$ ，含有3个结构基因（gag、pol和env）、2个调节基因（tat反式激活因子和rev 毒粒蛋白表达调节因子）和4个辅助基因（nef负调控因子、vpr 病毒蛋白 $\\mathrm { ~ \\bf ~ r ~ }$ 、vpu 病毒蛋白 $\\mathrm { ~  ~ u ~ }$ 和vif 病毒感染因子）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "HIV是一种变异性很强的病毒，各基因的变异程度不同，env基因变异率最高。HIV发生变异的主要原因包括反转录酶无校正功能导致的随机变异；病毒在体内高频率复制；宿主的免疫选择压力；病毒DNA与宿主DNA之间的基因重组；以及药物选择压力，其中不规范的HAART以及患者依从性差是导致耐药性的重要原因。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "我国以HIV-1为主要流行株，已发现的有A、B（欧美B）、 $\\mathbf { \\delta B ^ { \\prime } }$ （泰国B）、C、D、F、G、H、J和K10个亚型，还有不同流行重组型（CRFs），目前流行的HIV-1主要亚型是AE重组型和BC重组型。1999 年起在我国部分地区发现有少数HIV-2型感染者。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "HIV需借助易感细胞表面的受体进入细胞，包括第一受体（CD4，主要受体）和第二受体（CCR5或CXCR4等辅助受体）。根据HIV对辅助受体利用的特性将HIV分为X4和",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "R5毒株。R5型病毒通常只利用CCR5受体，而X4型病毒常常同时利用CXCR4、CCR5和CCR3受体。值得注意的是，在疾病的早期阶段HIV常利用CCR5作为辅助受体，而在疾病进程晚期时病毒常利用CXCR4作为辅助受体。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "HIV 在人体细胞内的感染过程包括：（1）吸附、膜融合及穿入：HIV-1感染人体后，选择性地吸附于靶细胞的CD4受体上，在辅助受体的帮助下进入宿主细胞；（2）反转录、入核及整合：胞质中病毒 RNA在反转录酶作用下，形成互补 DNA，在 DNA聚合酶作用下病毒双链线性DNA在胞质完成合成。进入细胞核内，在整合酶的作用下整合到宿主细胞的染色体DNA 中。这种整合到宿主DNA后的病毒 DNA 即被称为前病毒”；（（3）转录及翻译：前病毒被活化而进行自身转录时，在细胞RNA 聚合酶的催化下，病毒DNA转录形成RNA，一些RNA经加帽加尾成为病毒的子代基因组RNA；另一些RNA 经拼接而成为病毒mRNA，在细胞核蛋白体上转译成病毒的结构蛋白（Gag、Gag-Pol和Env前体蛋白）和各种非结构蛋白，合成的病毒蛋白在内质网核糖体进行糖化和加工，在蛋白酶作用下裂解，产生子代病毒的蛋白和酶类；（（4）装配、成熟及出芽：Gag和Gag-Pol前体蛋白与病毒子代基因组RNA在细胞膜的内面进行包装，$\\mathrm { g p } 1 2 0$ 和 $\\mathrm { g p 4 1 }$ 转运到细胞膜的表面，与正在出芽的Gag 和MA相结合，通过芽生从细胞膜上获得病毒体的包膜，形成独立的病毒颗粒。在出芽的中期或晚期，病毒颗粒中的 $\\mathrm { G a g }$ 和Gag-Pol前体蛋白在病毒自身的蛋白酶作用下裂解成更小的病毒蛋白，包括Gag中的 p17、p24、p7、p6以及 Pol 中的反转录酶、整合酶和蛋白酶。这些病毒蛋白与子代基因组RNA再进一步地组合，最后形成具有传染性的、成熟的病毒颗粒。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "HIV在外界环境中的生存能力较弱，对物理因素和化学因素的抵抗力较低。一般对乙型肝炎病毒（hepatitisBvirus，HBV）有效的消毒剂，如碘酊、过氧乙酸、戊二醛、次氯酸钠等，对HIV也都有良好的灭活作用。因此，对HBV有效的消毒和灭活方法均适用于HIV。除此之外， $7 0 \\%$ 的酒精也可灭活HIV，但紫外线或 $\\gamma$ 射线不能灭活 $\\mathrm { H I V }$ 。HIV对热很敏感，对低温耐受性强于高温。 $5 6 ~ \\mathrm { { ^ circ C } }$ 处理 $3 0 ~ \\mathrm { m i n }$ 可使HIV在体外对人的T淋巴细胞失去感染性，但不能完全灭活血清中的HIV； $1 0 0 \\mathrm { { ^ { c } } }$ 处理 $2 0 ~ \\mathrm { m i n }$ 可将HIV完全灭活。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3实验室检查[5] ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "HIV/AIDS的实验室检测主要包括HIV抗体检测、HIV核酸定性和定量检测、 $\\mathrm { C D 4 } ^ { + }$ T淋巴细胞计数、HIV 耐药检测等。HIV-1/2抗体检测是HIV 感染诊断的金标准，HIV核酸检测（定性和定量）也用于HIV感染诊断；HIV核酸定量（病毒载量）和 $\\mathrm { C D 4 ^ { + } ~ T }$ 淋巴细胞计数是判断疾病进展、临床用药、疗效和预后的两项重要指标；HIV耐药检测可为HAART方案的选择和更换提供指导。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 HIV-1/2抗体检测 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "包括筛查试验和补充试验。HIV-1/2抗体筛查方法包括酶联免疫吸附试验（enzyme linked immunosor-bentassay，ELISA）、化学发光或免疫荧光试验、快速试验（斑点ELISA和斑点免疫胶体金或胶体硒、免疫层析等）、简单试验（明胶颗粒凝集试验）等。补充试验方法包括抗体确证试验（免疫印迹法，条带/线性免疫试验和快速试验）和核酸试验（定性和定量）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "筛查试验呈阴性反应可出具HIV-1/2抗体阴性报告，见于未被HIV感染的个体，但窗口期感染者筛查试验也可呈阴性反应。若呈阳性反应，用原有试剂双份（快速试验）/双孔（化学发光试验或ELISA）或两种试剂进行重复检测，如均呈阴性反应，则报告为HIV 抗体阴性；如一阴一阳或均呈阳性反应，需进行补充试验。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "补充试验：抗体确证试验无HIV特异性条带产生，报告HIV-1/2抗体阴性；出现条带但不满足诊断条件的报告不确定，可进行核酸试验或2\\~4周后随访，根据核酸试验或随访结果进行判断。补充试验HIV-1/2抗体阳性者，出具HIV-1/2抗体阳性确证报告。核酸试验：核酸定性检测结果阳性报告HIV-1核酸阳性，结果阴性报告HIV-1核酸阴性。病毒载量检测结果低于检测线报告低于检测线； $> 5 0 0 0$ 拷贝 $/ \\mathrm { m l }$ 报告检测值；检测线以上但 $\\leqslant 5 0 0 0$ 拷贝/ $\\mathbf { \\dot { m } }$ 建议重新采样检测，临床医生可结合流行病学史、 $\\mathrm { C D 4 } ^ { + }$ 、 $\\mathrm { C D 8 ^ { + } }$ T淋巴细胞计数或HIV抗体随访检测结果等进行诊断或排除诊断。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 $\\mathbf { C D 4 } ^ { + }$ T淋巴细胞检测 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { C D 4 } ^ { + }$ T淋巴细胞是HIV感染最主要的靶细胞,HIV感染人体后，出现 $\\mathrm { C D 4 } ^ { + }$ T淋巴细胞进行性减少， $\\mathrm { C D 4 ^ { + } / C D 8 ^ { + } \\Delta T }$ 淋巴细胞比值倒置，细胞免疫功能受损。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目前常用的 $\\mathrm { C D 4 ^ { + } T }$ 淋巴细胞亚群检测方法为流式细胞术，可以直接获得 $\\mathrm { C D 4 ^ { + } T }$ 淋巴细胞数绝对值，或通过白细胞分类计数后换算为 $\\mathrm { C D 4 } ^ { + }$ T淋巴细胞绝对数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { C D 4 } ^ { + }$ T淋巴细胞计数的临床意义：了解机体免疫状态和病程进展、确定疾病分期、判断治疗效果和HIV感染者的临床并发症。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "99 $\\mathrm { C D 4 ^ { + } }$ T淋巴细胞检测频率：需根据患者的具体情况由临床医师决定。一般建议：对于 $\\mathrm { C D 4 ^ { + } T }$ 淋巴细胞计数 ${ > } 3 5 0$ 个 ${ \\bf \\dot { \\boldsymbol \\mu } } _ { \\bf \\Delta }$ （无症状）的HIV感染者，每6个月应检测1次；对于已接受HAART的患者在治疗的第年内每3个月检测1次，治疗1年以上且病情稳定的患者可改为每6个月检测1次。对于HAART后患者体内病毒被充分抑制、 $\\mathrm { C D 4 ^ { + } ~ T }$ 淋巴细胞计数长期处于稳定水平的患者， $\\mathrm { C D 4 } ^ { + }$ T淋巴细胞计数在 $3 0 0 \\sim 5 0 0$ 个7μl的患者，建议每12个月检测1次； $> 5 0 0$ 个/ $\\lvert \\mu \\rvert$ 的患者可选择性进行 $\\mathrm { C D 4 ^ { + } T }$ 淋巴细胞检测。对于发生病毒学突破患者、出现艾滋病相关临床症状的患者、接受可能降低 $\\mathrm { C D 4 ^ { + } T }$ 淋巴细胞治疗的患者则需再次进行定期 $\\mathrm { C D 4 ^ { + } ~ T }$ 淋巴细胞检测。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "OCD4+/CD8+T淋巴细胞比值倒置可在长期 HAART后出现不同程度的改善，与患者起始治疗的时机和基础 $\\mathrm { C D 4 } ^ { + }$ T淋巴细胞计数密切相关，其变化提示患者的治疗效果和免疫功能重建状态［6] C",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3 HIV核酸检测 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "感染HIV以后，病毒在体内快速复制，血浆中可检测出病毒RNA（病毒载量），一般用血浆中每毫升HIV-RNA的拷贝数或每毫升国际单位（ $\\mathrm { I U / m l }$ ）来表示。病毒载量检测结果低于检测下限，表示本次试验没有检测出病毒载量，见于未感染HIV的个体、HAART成功的患者或自身可有效抑制病毒复制的部分HIV感染者。病毒载量检测结果高于检测下限，表示本次试验检测出病毒载量，可结合流行病学史、临床症状及HIV抗体初筛结果作出判断。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "测定病毒载量的常用方法有逆转录PCR、核酸序列依赖性扩增技术和实时荧光定量PCR扩增技术。病毒载量测定的临床意义为预测疾病进程、评估治疗效果、指导治疗方案调整，也可作为HIV感染诊断的补充试验，用于急性期/窗口期诊断、晚期患者诊断、HIV感染诊断和小于18月龄的婴幼儿HIV感染诊断。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "病毒载量检测频率：如条件允许，建议未治疗的无症状 HIV感染者每年检测1次、HAART初始治疗或调整治疗方案前、初始治疗或调整治疗方案初期每4\\~8周检测1次，以便尽早发现病毒学失败。HAART患者病毒载量低于检测下限后，每3\\~4个月检测1次，对于依从性好、病毒持续抑制达2\\~3年以上、临床和免疫学状态平稳的患者可每6个月检测1次，但如出现HIV相关临床症状或使用糖皮质激素或抗肿瘤化疗药物则建议每3个月检测1次HIV载量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4HIV基因型耐药检测 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "HIV耐药检测结果可为艾滋病治疗方案的制订和调整提供重要参考。出现HIV耐药，表示该感染者体内病毒可能耐药，同时需要密切结合临床情况，充分考虑HIV感染者的依从性，对药物的耐受性及药物的代谢吸收等因素进行综合评判。改变抗病毒治疗方案需要在有经验的医师指导下才能进行。HIV耐药结果阴性，表示该份样品未检出耐药性，但不能确定该感染者不存在耐药情况，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "耐药检测方法包括基因型和表型检测，目前国内外多以基因型检测为主。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在以下情况进行HIV基因型耐药检测：HAART后病毒载量下降不理想或抗病毒治疗失败需要改变治疗方案时；进行HAART前（如条件允许)。对于抗病毒治疗失败者，耐药检测在病毒载量 $> 4 0 0$ 拷贝/ $\\mathbf { \\dot { m } }$ 且未停用抗病毒药物时进行，如已停药需在停药4周内进行基因型耐药检测。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4发病机制",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "HIV主要侵犯人体的免疫系统，包括 $\\mathrm { C D 4 } ^ { + }$ T淋巴细胞、单核巨噬细胞和树突状细胞等，主要表现为$\\mathrm { C D 4 } ^ { + }$ T淋巴细胞数量不断减少，最终导致人体细胞免疫功能缺陷，引起各种机会性感染和肿瘤的发生。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "HIV进人人体后，在 $2 4 \\sim 4 8 \\mathrm { ~ h ~ }$ 到达局部淋巴结，5d左右在外周血中可以检测到病毒成分，继而产生病毒血症，导致急性感染，以 $\\mathrm { C D 4 ^ { + } T }$ 淋巴细胞数量短期内一过性迅速减少为特点。大多数感染者未经特殊治疗， $\\mathrm { C D 4 ^ { + } ~ T }$ 淋巴细胞数可自行恢复至正常水平或接近正常水平。由于机体免疫系统不能完全清除病毒，形成慢性感染，包括无症状感染期和有症状感染期。无症状感染期持续时间变化较大（数月至数十年不等），平均约8年，表现为 $\\mathrm { C D 4 ^ { + } T }$ 淋巴细胞数量持续缓慢减少（多为800个/ $\\mu \\mathrm { l }$ 至350个 $' \\mu \\mathrm { l }$ )；进入有症状期后$\\mathrm { C D 4 } ^ { + }$ T淋巴细胞再次快速地减少，多数感染者 $\\mathrm { C D 4 } ^ { + }$ T淋巴细胞计数在350个/ $\\dot { \\mu } \\mathrm { l }$ 以下，部分晚期患者甚至降至200个/ ${ \\bf \\dot { \\boldsymbol \\mu } } _ { \\bf \\mu } ]$ 以下，并快速减少。HIV感染导致$\\mathrm { C D 4 ^ { + } T }$ 淋巴细胞下降的主要原因包括：（1）病毒引起的 $\\mathrm { C D 4 ^ { + } ~ T }$ 淋巴细胞凋亡或细胞焦亡；（2）病毒复制所造成的直接杀伤作用，包括病毒出芽时引起细胞膜完整性的改变等；（3）病毒复制所造成的间接杀伤作用，包括炎症因子的释放或免疫系统的杀伤作用;（4）病毒感染导致胸腺组织的萎缩和胸腺细胞的死亡等。HIV引起的免疫异常除了 $\\mathrm { C D 4 ^ { + } T }$ 淋巴细胞数量减少还包括 $\\mathrm { C D 4 ^ { + } ~ T }$ 淋巴细胞、B淋巴细胞、单核巨噬细胞、自然杀伤（natural killer，NK）细胞和树突状细胞的功能障碍和异常免疫激活。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在临床上可表现为典型进展、快速进展和长期缓慢进展3种转归。影响HIV感染临床转归的主要因素有病毒、宿主免疫和遗传背景等。需要注意的是，我国男男性行为感染HIV者病情进展较快，感染后多数在4\\~5年进展到艾滋病期7",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "人体通过固有免疫和适应性免疫应答对抗HIV的感染。黏膜是HIV侵人机体的主要门户，又是HIV增殖的场所，是HIV通过性途径传播的重要通道。女性宫颈、阴道和男性包皮上皮组织中有大量的朗格汉斯细胞，它们表达HIV识别的细胞表面受体CD4、CCR5 和不同模式识别受体。朗格汉斯细胞通过模式识别受体捕获HIV传递给T淋巴细胞，发挥“特洛伊木马”的作用。HIV也能通过破损的黏膜组织进人人体，随即局部固有免疫细胞，如单核巨噬细胞、树突状细胞、NK细胞和 $\\boldsymbol { \\gamma } \\mathrm { \\delta T }$ 细胞等进行识别、内吞并杀伤处理后将病毒抗原提呈给适应性免疫系统，之后2\\~12周，人体即产生针对HIV蛋白的各种特异性抗体，其中（广谱）中和抗体和Fcγ受体介导的非中和抑制性抗体在控制病毒复制方面具有重要作用[8]。特异性细胞免疫主要有 HIV特异性 $\\mathrm { C D 4 ^ { + } ~ T }$ 淋巴细胞免疫反应和特异性细胞毒性T淋巴细胞反应。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "绝大多数患者经HAART后，HIV所引起的免疫异常改变能恢复至正常或接近正常水平，即免疫功能重建，包括 $\\mathrm { C D 4 ^ { + } ~ T }$ 淋巴细胞数量和免疫功能的恢复。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 临床表现与分期",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从初始感染HIV到终末期是一个较为漫长复杂的过程，在这一过程的不同阶段，与HIV相关的临床表现也是多种多样的。根据感染后临床表现及症状、体征，HIV感染的全过程可分为急性期、无症状期和艾滋病期；但因为影响HIV感染临床转归的主要因素有病毒、宿主免疫和遗传背景等，所以在临床上可表现为典型进展、快速进展和长期缓慢进展3种转归，出现的临床表现也不同。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.1 急性期",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通常发生在初次感染HIV后2\\~4周。部分感染者出现HIV病毒血症和免疫系统急性损伤所产生的临床表现。大多数患者临床症状轻微，持续1\\~3周后缓解。临床表现以发热最为常见，可伴有咽痛、盗汗、恶心、呕吐、腹泻、皮疹、关节疼痛、淋巴结肿大及神经系统症状。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "此期在血液中可检出HIV-RNA和 $\\mathrm { p } 2 4$ 抗原，而HIV 抗体则在感染后2周左右出现。 $\\mathrm { C D ^ { 4 } + T }$ 淋巴细胞计数一过性减少， $\\mathrm { C D 4 ^ { + } / C D 8 ^ { + } }$ T淋巴细胞比值亦可倒置。部分患者可有轻度白细胞和血小板减少或肝功能异常。快速进展者在此期可能出现严重感染或者中枢神经系统症状体征及疾病。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.2 无症状期",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "可从急性期进入此期，或无明显的急性期症状而直接进入此期。此期持续时间一般为6\\~8年。其时间长短与感染病毒的数量和型别、感染途径、机体免疫状况的个体差异、营养条件及生活习惯等因素有关。在无症状期，由于HIV在感染者体内不断复制，免疫系统受损， $\\mathrm { C D 4 ^ { + } ~ T }$ 淋巴细胞计数逐渐下降。可出现淋巴结肿大等症状或体征，但一般不易引起重视。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.3 艾滋病期",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为感染HIV后的最终阶段。患者 $\\mathrm { C D 4 } ^ { + }$ T淋巴细胞计数多 $< 2 0 0$ 个 $\\mathbf { \\nabla } / \\mu \\mathbf { l }$ ，HIV血浆病毒载量明显升高。此期主要临床表现为HIV相关症状、体征及各种机会性感染和肿瘤。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "HIV感染后相关症状及体征：主要表现为持续1个月以上的发热、盗汗、腹泻；体重减轻 $10 \\%$ 以上。部分患者表现为神经精神症状，如记忆力减退、精神淡漠、性格改变、头痛、癫痫及痴呆等。另外，还可出现持续性全身性淋巴结肿大，其特点为：（1）除腹股沟以外有两个或两个以上部位的淋巴结肿大；（2）淋巴结直径 $\\geqslant 1 \\ \\mathrm { c m }$ ，无压痛，无粘连；（3）持续3个月以上。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6诊断标准",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "诊断原则：HIV/AIDS的诊断需结合流行病学史（包括不安全性生活史、静脉注射毒品史、输入未经HIV抗体检测的血液或血液制品、HIV抗体阳性者所生子女或职业暴露史等），临床表现和实验室检查等进行综合分析，慎重做出诊断。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "成人、青少年及18月龄以上儿童，符合下列一项者即可诊断：（1）HIV抗体筛查试验阳性和HIV补充试验阳性（抗体补充试验阳性或核酸定性检测阳性或核酸定量大于5000拷贝 $\\mathbf { \\dot { m } }$ )；（2）HIV分离试验阳性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "18月龄及以下儿童，符合下列一项者即可诊断：1）为 HIV 感染母亲所生和 HIV 分离试验结果阳性;$\\textcircled { 2 }$ 为HIV感染母亲所生和两次HIV核酸检测均为阳性（第二次检测需在出生6周后进行)；（3）有医源性暴露史，HIV 分离试验结果阳性或两次 HIV 核酸检测均为阳性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6.1急性期的诊断标准",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "患者半年内有流行病学史或急性HIV感染综合HIV抗体筛查试验阳性和HIV补充试验阳性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "征，",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "无症状期的诊断标准",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "有流行病学史，结合HIV抗体阳性即可诊断。对无明确流行病学史但符合实验室诊断标准的即可诊断。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6. $\\mathfrak { s }$ 艾滋病期的诊断标准",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "成人及15岁（含15岁）以上青少年，HIV感染加下述各项中的任何一项，即可诊为艾滋病或者HIV感染，而 $\\mathrm { C D 4 ^ { + } ~ T }$ 淋巴细胞数 $< 2 0 0$ 个 ${ ' \\mu \\mu }$ ，也可诊断为艾滋病。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）不明原因的持续不规则发热 $3 8 ~ \\mathrm { { ^ { \\circ } C } }$ 以上， $> 1$   \n个月；（2）腹泻（大便次数多于3次/d）， $^ { > 1 }$ 个月；（3）6个月之内体重下降 $10 \\%$ 以上；（4）反复发作的口腔真菌感染；（5）反复发作的单纯疱疹病毒感染或带状疱疹病  \n毒感染；（6）肺孢子菌肺炎（pneumocystispneumonia,  \nPCP);（7）反复发生的细菌性肺炎；（8）活动性结核或非结核分枝杆菌病;  \n（9）深部真菌感染;  \n（10）中枢神经系统占位性病变；  \n(11) 中青年人出现痴呆;  \n(12) 活动性巨细胞病毒感染;  \n(13) 弓形虫脑病;  \n(14) 马尔尼菲篮状菌病;  \n(15) 反复发生的败血症;  \n（16）皮肤黏膜或内脏的卡波西肉瘤、淋巴瘤。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "15 岁以下儿童，符合下列一项者即可诊断：HIV感染和 $\\mathrm { C D 4 } ^ { + }$ T淋巴细胞百分比 $< 2 5 \\%$ （ $< 1 2$ 月龄），或 $< 2 0 \\%$ （12\\~36月龄），或 $< 1 5 \\%$ （37\\~60月龄），或$\\mathrm { C D 4 } ^ { + }$ T淋巴细胞计数 $< 2 0 0$ 个/ $\\dot { \\mu } \\mathrm { l }$ （5\\~14 岁）；HIV感染和伴有至少一种儿童艾滋病指征性疾病。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "7机会性感染[9-10] ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "7. 1 肺孢子菌肺炎 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "7. 1. 1 诊断 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）亚急性起病，呼吸困难逐渐加重，伴有发热、干咳、胸闷，症状逐渐加重，严重者发生呼吸窘迫；（2）肺部阳性体征少，或可闻及少量散在的干湿啰音，体征与疾病症状的严重程度往往不成比例[1]；（3）胸部X线检查可见双肺从肺门开始的弥漫性网状结节样间质浸润，肺部CT 显示双肺毛玻璃状改变［12]， $1 3 \\% \\sim 1 8 \\%$ 的患者同时合并细菌或分枝杆菌感染，肺部影像学可有相应表现；（4）血气分析提示低氧血症，严重病例动脉血氧分压明显降低，常在 $6 0 \\ \\mathrm { m m \\ H g }$ （ $1 \\ \\mathrm { m m } \\ \\mathrm { H g } = 0 . \\ 1 3 3 \\ \\mathrm { k P a } \\$ ）以下；（5）血乳酸脱氢酶常>$5 0 0 0 ~ \\mathrm { m g / L }$ ；（6）确诊依靠病原学检查如痰液或支气管肺泡灌洗/肺组织活检等发现肺孢子菌的包囊或滋养体[13]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "7. 1. 2 治疗[14] ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）对症治疗：卧床休息，给予吸氧，注意水和电解质平衡。（2）病原治疗：首选复方磺胺甲噁唑（SMZ-TMP），轻中度患者口服甲氧苄胺嘧啶（TMP）$1 5 { \\sim } 2 0 ~ \\mathrm { m g / ( \\ k g \\cdot d ) }$ ，磺胺甲噁唑（SMZ） $7 5 \\sim 1 0 0 ~ \\mathrm { m g / }$ $( \\mathrm { k g } \\cdot \\mathrm { d } )$ ，分3\\~4次用，疗程 $2 1 \\mathrm { ~ d ~ }$ ，必要时可延长疗程。重症患者给予静脉用药，剂量同口服。SMZ-TMP过敏者可试行脱敏疗法。替代治疗：克林霉素 $6 0 0 \\sim$ $9 0 0 ~ \\mathrm { { m g } }$ ，静脉滴注，每8小时1次，或 $4 5 0 ~ \\mathrm { m g }$ 口服，每6小时1次；联合应用伯氨喹 $1 5 \\sim 3 0 ~ \\mathrm { m g }$ ，口服，1次/d，疗程 $2 1 \\textup { d }$ 。氨苯矾 $1 0 0 ~ \\mathrm { { m g } }$ ，口服，1次/d；联合应用TMP $2 0 0 \\sim 4 0 0 ~ \\mathrm { m g }$ ，口服，2\\~3次/d，疗程$2 1 \\mathrm { ~ d ~ }$ 。或喷他眯， $3 { \\sim } 4 ~ \\mathrm { m g / k g }$ ，1次/d，缓慢静脉滴注（ $6 0 ~ \\mathrm { m i n }$ 以上），疗程 $2 1 \\mathrm { ~ d ~ }$ 。（3）糖皮质激素治疗：中重度患者（动脉血氧分压 ${ < } 7 0 \\ \\mathrm { m m \\ } \\ \\mathrm { H g }$ 或肺泡-动脉血氧分压差 $> 3 5 \\ \\mathrm { m m } \\ \\mathrm { H g } ^ { \\cdot }$ )，早期（ $^ { 7 2 \\mathrm { ~ h ~ } }$ 内）可应用糖皮质激素治疗，泼尼松 $4 0 ~ \\mathrm { m g }$ 口服，2次/d，5d，之后改为 $2 0 ~ \\mathrm { m g }$ 口服，2次/d， $5 \\mathrm { ~ d ~ }$ ， $2 0 ~ \\mathrm { m g }$ ，1次/d，至疗程结束；静脉用甲泼尼龙剂量为上述泼尼松的 $7 5 \\%$ 。（4）辅助通气：如患者进行性呼吸困难明显，可给予辅助通气。（5）HAART：尽早进行HAART，通常在抗PCP治疗的2周内进行。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "7.1.3预防：（1）预防指征： $\\mathrm { C D 4 ^ { + } T }$ 淋巴细胞计数<200个/ $\\mu \\mathrm { l }$ 的成人和青少年，包括孕妇及接受HAART治疗者。（2）药物选择：首选SMZ-TMP，一级预防为1片/d（1片剂量 $0 . 4 8 { \\mathrm { ~ g } } { \\cdot }$ ），二级预防2片/d。若患者对该药不能耐受或者过敏，替代药品有氨苯砜。PCP患者经HAART治疗使 $\\mathrm { C D 4 ^ { + } T }$ 淋巴细胞增加到 $> 2 0 0$ 个/ul并持续 $\\geqslant 6$ 个月时，可停止预防用药。如果 $\\mathrm { C D 4 } ^ { + }$ T淋巴细胞计数又降低到 $< 2 0 0$ 个/ $\\lvert \\mu \\rvert$ 时，应重新开始预防用药。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "结核病",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "7.2.1 诊断[15] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "， 结核病可发生在任何 $\\mathrm { C D 4 ^ { + } T }$ 淋巴细胞计数水平的艾滋病患者。艾滋病合并结核病的诊断需要结合临床表现、辅助检查、病理学检查以及影像学检查结果来进行综合判断，尤其要注意的是，发生于HIV感染者的结核病在临床表现以及诊断方面有其自身特点，不能将一般结核病的诊断方法简单地套用于艾滋病合并结核病的诊断中，在进行诊断时应注意患者的免疫功能状态， $\\mathrm { C D 4 ^ { + } ~ T }$ 淋巴细胞计数较高患者的表现与普通结核病患者类似，而 $\\mathrm { C D 4 ^ { + } T }$ 淋巴细胞计数低的患者常表现为肺外结核病。抗酸染色涂片和培养仍是确诊结",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "核病的主要方法。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "7.2.2 治疗 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "艾滋病患者结核病的治疗原则与非艾滋病患者相同，但抗结核药物使用时应注意与抗病毒药物之间的相互作用及配伍禁忌。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "治疗药物：异烟胖、利福平、利福布汀、乙胺丁醇、吡嗪酰胺，根据情况也可选用对氨基水杨酸钠、阿米卡星、喹诺酮类抗菌药物及链霉素等。药物剂量及主要不良反应见表1。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "如果结核分枝杆菌对一线抗结核药物敏感，则使用异烟肼 $^ +$ 利福平（或利福布汀） $+ Z$ 胺丁醇 $^ +$ 吡嗪酰胺进行2个月的强化期治疗，然后使用异烟肿 $^ +$ 利福平（或利福布汀）进行4个月的巩固期治疗。对抗结核治疗的反应延迟（即在抗结核治疗2个月后仍有结核病相关临床表现或者结核分枝杆菌培养仍为阳性）、骨和关节结核病患者，抗结核治疗疗程应延长至9个月。中枢神经系统结核患者，疗程应延长到9\\~12个月。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "所有合并结核病的HIV感染者无论 $\\mathrm { C D 4 ^ { + } ~ T }$ 淋巴细胞计数水平均应接受HAART。鉴于免疫炎性反应重建综合征（immune reconstitution inflammatory syndrome,IRIS）即便出现也很少导致死亡，目前主张尽早HAART[9,16-18]。对于艾滋病合并结核病患者均建议先给予抗结核治疗，之后再启动HAART。对于 $\\mathrm { C D 4 } ^ { + }$ T淋巴细胞 $< 5 0$ 个/ $\\lvert \\mu \\rvert$ 的严重免疫缺陷的患者，建议在抗结核2周内开始HAART；对于 $\\mathrm { C D 4 } ^ { + }$ T淋巴细胞 $\\geqslant$ 50个/ $\\mu \\mathrm { l }$ 的患者，建议在8周内尽快启动HAART。HIV感染孕妇合并活动性结核病，为了母亲健康和阻断HIV母婴传播，HAART也应尽早进行。如合并耐药结核病（包括多重耐药结核病或广泛耐药结核病），在确定结核分枝杆菌耐药使用二线抗结核药物后2\\~4周内开始HAART。对于合并活动性结核病的儿童无论$\\mathrm { C D 4 } ^ { + }$ T淋巴细胞水平多少均建议在抗结核后8周内尽早启动HAART。对于中枢神经系统结核病患者，早期启动HAART发生IRIS的风险较高，需注意严密观察,这类患者启动HAART的最佳时机尚未明确。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/8d14ad819b1a14be3d236748ffd4ae520a2fa3fe86cc3858207b69dd154f0a21.jpg",
+        "table_caption": [
+            "表1抗结核药物剂量及主要不良反应"
+        ],
+        "table_footnote": [
+            "“-”不推荐用于13岁以下儿童"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">药名</td><td colspan=\"2\">成人剂量（g）</td><td rowspan=\"2\">儿童剂量（mg/kg)</td><td rowspan=\"2\">主要不良反应</td></tr><tr><td>体重<50kg</td><td>体重≥50 kg</td></tr><tr><td>异烟胖</td><td>0.30</td><td>0.30</td><td>10~15</td><td>肝毒性、末梢神经炎</td></tr><tr><td>链霉素</td><td>0.75</td><td>0.75</td><td>20~30</td><td>听力障碍、肾功能障碍、过敏反应</td></tr><tr><td>利福平</td><td>0.45</td><td>0.60</td><td>10~20</td><td>肝毒性、胃肠道反应、过敏反应</td></tr><tr><td>乙胺丁醇</td><td>0.75</td><td>1. 00</td><td>1</td><td>视力障碍、视野改变</td></tr><tr><td>对氨基水杨酸钠</td><td>8.00</td><td>8.00</td><td>150~250</td><td>肝毒性、胃肠道反应、过敏反应</td></tr><tr><td>吡嗪酰胺</td><td>1.50</td><td>1.50</td><td>30~40</td><td>肝毒性、胃肠道反应、痛风</td></tr><tr><td>利福布汀</td><td>0.30</td><td>0.30</td><td>5</td><td>皮疹、胃肠道反应、中性粒细胞减少</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对于合并结核病的患者，需密切监测药物不良反应并注意药物间相互作用，必要时调整抗病毒或抗结核药物的剂量，进行血药浓度监测。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "7.2.3 预防[9,15,19-20] ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "如患者结核潜伏感染相关检测结果为阳性，可用以下方案进行干预。优选方案：异烟胖 $3 0 0 ~ \\mathrm { m g }$ ，1次/d,口服，共9个月；或异烟肼，2次/周，每次 $9 0 0 ~ \\mathrm { { m g } }$ ，口服，共用9个月。联合使用维生素B6可减少周围神经炎发生（ $2 5 \\mathrm { \\ m g / d }$ ，口服，用至预防用药疗程结束）。替代方案：利福平 $6 0 0 ~ \\mathrm { { m g } }$ ，1次/d，口服，连用4个月；或口服利福布汀，连用4个月（剂量依据HAART用药不同而具体调整）。在进行预防性化疗之前应注意排除活动性结核病的可能。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$7 . 3 ^ { }$ 非结核分枝杆菌感染",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "艾滋病患者可并发非结核分枝杆菌感染，其中主要为鸟胞内分枝杆菌复合体（mycobacterium aviumcomplex，MAC）感染。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "诊断 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1 MAC感染的临床症状同活动性结核病相似，但全身播散性病变更为常见，可累及多脏器，表现为贫血、肝脾肿大及全身淋巴结肿大。确诊有赖于从血液、淋巴结、骨髓以及其他无菌组织或体液中培养出非结核分枝杆菌，并通过 DNA 探针、高效液相色谱法或生化反应进行菌种鉴定。胶体金法可用于临床非结核分枝杆菌的初步鉴定，采用PCR加基因测序的方法可对临床分离的常见分枝杆菌进行鉴定。粪便或活检组织的抗酸染色涂片与培养以及影像学检查等可协助诊断。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "7.3.2 治疗 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "MAC感染治疗的首选方案为克拉霉素 $5 0 0 ~ \\mathrm { m g / }$ 次，2次/d（或阿奇毒素 $5 0 0 \\ \\mathrm { m g / d }$ ） $^ +$ 乙胺丁醇 $1 5 \\mathrm { m g / }$ $( \\mathrm { k g } \\cdot \\mathrm { d } )$ ，同时联合应用利福布汀（ $3 0 0 \\sim 6 0 0 ~ \\mathrm { m g / d ) }$ 。严重感染及严重免疫抑制（ $\\mathrm { C D 4 } ^ { + }$ T淋巴细胞计数$< 5 0$ 个 $' \\mu \\mathrm { l }$ ）患者可加用阿米卡星[ $1 0 \\mathrm { \\ m g / ( \\ k g \\cdot d ) }$ 肌肉注射，1次/d」或喹诺酮类抗菌药物如左氧氟沙星或莫西沙星，疗程至少12个月。其他分枝杆菌感染的治疗需根据具体鉴定的菌种以及药敏检测结果采取相应的治疗措施。在抗MAC治疗开始2周后尽快启动HAART。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "7.3.3 预防 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { C D 4 } ^ { + }$ T淋巴细胞计数 $< 5 0$ 个/ $\\dot { \\mu } \\mathrm { l }$ 的艾滋病患者需要给予预防性治疗，方案是克拉霉素 $5 0 0 ~ \\mathrm { m g / }$ 次，2次/d；或阿奇霉素， $1 2 0 0 ~ \\mathrm { m g / }$ 周。如果患者不能耐受克拉霉素和阿奇霉素，可以选择利福布汀进行预防治疗，常规剂量为 $3 0 0 ~ \\mathrm { { m g } }$ ，1次/d。如患者经HAART使 $\\mathrm { C D 4 ^ { + } ~ T }$ 淋巴细胞数增加到大于100 个> $\\lvert \\mu \\rvert$ 并持续 $\\geqslant$ 3个月时，可停止预防用药。一旦患者 $\\mathrm { C D 4 } ^ { + }$ T淋巴细胞数 $< 5 0$ 个/ $\\lvert \\mu \\rvert$ ，就应再次给予预防性治疗。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "播散性MAC 感染者在完成治疗（12个月以上）后，需要长期维持治疗（治疗方案与初始治疗方案一致）直至患者 $\\mathrm { C D 4 } ^ { + }$ T淋巴细胞数增加到 $> 1 0 0$ 个 $\\mathbf { \\nabla } / \\mu \\mathbf { l }$ ，并持续 $\\geqslant 6$ 个月时为止。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "7.4 巨细胞病毒感染",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "巨细胞病毒（cytomegalovirus，CMV）感染是艾滋病患者最常见的疱疹病毒感染，可分为CMV血症和器官受累的CMV病。CMV可侵犯患者多个器官系统，包括眼睛、肺、消化系统、中枢神经系统等，其中CMV视网膜脉络膜炎是艾滋病患者最常见的CMV感染。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "7.4.1CMV视网膜脉络膜炎的诊断和治疗 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "典型的CMV视网膜脉络膜炎症状包括飞蚊症、 漂浮物、盲点或外周视野缺损，患者常表现为快速视 力下降，眼底检查表现为“番茄炒鸡蛋样”改变，沿 血管分布的浓厚的黄白色视网膜损伤，伴或不伴视网 膜内出血；确诊有赖于眼底镜检查。 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "治疗：更昔洛韦 $5 . 0 { \\sim } 7 . 5 ~ \\mathrm { m g / k g }$ ，静脉滴注，每12小时1次， $1 4 \\sim 2 1 \\mathrm { ~ d ~ }$ ；然后 $5 \\mathrm { \\ m g / ( \\ k g \\cdot d ) }$ 序贯维持治疗。也可使用麟甲酸钠 $1 8 0 ~ \\mathrm { m g / ( \\ k g \\cdot d ) }$ ，分2\\~3次用（静脉应用需水化)，2\\~3周后改为 $9 0 ~ \\mathrm { m g / ( \\ k g \\cdot d ) }$ ，静脉滴注，1次/d。病情危重或单一药物治疗无效时可二者联用。CMV视网膜脉络膜炎可球后注射更昔洛韦。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "7.4.2 其他部位CMV感染的诊断和治疗",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CMV肺炎临床表现为发热、咳嗽、呼吸困难，X线胸片表现为间质性改变。CMV肺炎的诊断较为困难，主要依靠临床症状、影像学改变及病理结果（肺组织或细胞中见CMV包涵体），同时需排除其他常见肺炎有关的病原体；治疗建议静脉使用更昔洛韦、麟甲酸钠或联合治疗，疗程尚不明确。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CMV食管炎或者肠炎：临床表现为发热、吞咽困难或者吞咽疼痛、腹泻（水样便或者血水样便），伴有腹痛。胃镜或者肠镜可见到黏膜溃疡，组织病理学可以见到CMV的包涵体。治疗药物同CMV视网膜脉络膜炎，疗程3\\~4周或症状体征消失后维持用药。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CMV脑炎：临床表现为神经精神改变，昏睡、精神错乱、意识模糊、迟钝、失语、视力障碍、无力、癫痫发作、面瘫等。诊断依赖于脑脊液或者脑组织PCR进行CMV-DNA的检测，敏感度为 $8 0 \\%$ ，特异度为 $9 0 \\%$ 。治疗上采用更昔洛韦联合麟甲酸钠治疗3\\~6周，剂量同CMV视网膜脉络膜炎的治疗剂量，维持治疗直至脑脊液CMV定量转阴，具体应个体化治疗。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "7.4.3 HAART ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在抗CMV 治疗开始2周内尽快启动HAART。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "7.4.4 预防 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CMV感染不主张进行一级预防。对于 $\\mathrm { C D 4 } ^ { + }$ T淋巴细胞计数 $< 2 0 0$ 个/ $\\dot { \\mu } \\mathrm { l }$ 的患者，可定期检查眼底。一旦出现CMV病，应积极治疗，在CMV视网膜脉络膜炎疾病控制",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "之后需序贯用药以预防复发，通常采用更昔洛韦$i { \\ = } 0 \\ \\mathrm { g }$ ，3次/d，口服）进行预防。在经HAART后CD4T淋巴细胞计数 $> 1 0 0$ 个/ $\\mu \\mathrm { l }$ 且持续3\\~6个月可以考虑停止预防给药，而CMV 肠炎、CMV 肺炎、CMV神经病变不主张二级预防。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "单纯疱疹和水痘带状疱疹病毒感染",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "0:718 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1诊断 依据临床表现常可明确诊断。 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "7.5.2 治疗 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2 主要治疗药物包括阿昔洛韦、泛昔洛韦、伐昔洛韦和麟甲酸钠，不同部位和类型的感染，治疗疗程不同。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "一（1）口唇单纯疱疹：阿昔洛韦 $4 0 0 ~ \\mathrm { { m g } }$ ，3次/d,服，或泛昔洛韦 $5 0 0 ~ \\mathrm { m g }$ ，2次/d，口服，疗程 $5 \\sim$ $1 0 \\overline { { \\mathbb { d } } } _ { \\circ }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "C（2）生殖器单纯疱疹：阿昔洛韦 $4 0 0 ~ \\mathrm { m g }$ ，3次/d, 口服，或泛昔洛韦 $5 0 0 ~ \\mathrm { m g }$ ， $2 \\times \\pi r \\mathrm { d }$ ，口服，疗程 $5 \\sim 1 4 ~ \\mathrm { d } _ { \\circ }$ （20 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（3）重型黏膜单纯疱疹：阿昔洛韦 $5 ~ \\mathrm { m g / k g }$ ，每8小时1次，静脉滴注，待黏膜损伤开始愈合后改阿昔洛韦 $4 0 0 ~ \\mathrm { { m g } }$ ，3次/d，口服，伤口完全愈合后停药。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（4）阿昔洛韦耐药的单纯疱疹：麟甲酸钠 $8 0 \\sim$ $2 0 ~ \\mathrm { m g / k g }$ 治疗（分3次给药)，直到治愈。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（5）局部皮肤带状疱疹：泛昔洛韦 $5 0 0 ~ \\mathrm { \\ m g }$ ，3次/d，口服或伐昔洛韦 $\\mathrm { ~ 1 ~ g ~ }$ ，3次/d，口服，疗程 $7 \\sim$ $1 0 \\mathrm { ~ d ~ }$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（6）严重的皮肤黏膜病变：阿昔洛韦 $1 0 \\ \\mathrm { m g / k g }$ 每8小时1次，静脉滴注，病情稳定后伐昔洛韦 $\\mathrm { ~ 1 ~ g ~ }$ 3次/d，口服，直到所有病变消失。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（7）急性视网膜坏死：阿昔洛韦 $1 0 \\ \\mathrm { m g / k g }$ ，每8小时1次，静脉滴注，病情稳定后伐昔洛韦 $\\mathrm { ~ 1 ~ g ~ }$ ，3次/d,口服。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "7.6 弓形虫脑病",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "7.6.1 诊断 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "临床表现为发热伴局灶或弥漫性中枢神经系统损害。头颅CT呈单个或多个低密度病灶，增强扫描呈环状或结节样增强，周围一般有水肿带。磁共振成像表现为颅内多发长T1和长T2信号。正电子发射扫描检测有助于临床诊断。确诊依赖脑组织活检。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "7.6.2 治疗 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（1）病原治疗：首选乙胺嘧啶（负荷量 $1 0 0 ~ \\mathrm { { m g } }$ 口服，2次/d，此后 $5 0 \\sim 7 5 \\mathrm { m g / d }$ 维持） $^ +$ 磺胺嘧啶号 $( 1 . 0 { \\sim } 1 . 5 \\mathrm { ~ g ~ }$ ，口服，4次/d）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2）替代治疗：SMZ-TMP（3片，口服，3次/d)联合克林霉素（ $6 0 0 ~ \\mathrm { { m g / } }$ 次，静脉给药，每6小时给药1次）或阿奇霉素（ $( 0 . 5 \\ \\mathrm { g } / \\mathrm { d } )$ 。疗程至少6周。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（3）对症治疗：降颅压、抗惊厥、抗癫痫等。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "7.6.3 预防 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对无弓形虫脑病病史但 $\\mathrm { C D 4 } ^ { + }$ T淋巴细胞数 $< 2 0 0$ 个/ $\\dot { \\mu } \\mathrm { l }$ 且弓形虫抗体 $\\mathrm { I g G }$ 阳性的患者应给予预防用药，一般采用 SMZ-TMP，2片/次，1次/d。对既往患过弓形虫脑病者要长期用乙胺嘧啶（ $2 5 \\sim 5 0 ~ \\mathrm { m g / d } _ { \\cdot }$ ）联合磺胺嘧啶（ $\\scriptstyle 2 \\sim 4 \\ \\{ \\mathrm { g }  / { \\mathrm { d } } \\}$ ）预防，直至 $\\mathrm { C D 4 ^ { + } ~ T }$ 淋巴细胞增加到 $> 2 0 0$ 个/ $\\lvert \\mu \\rvert$ 并持续 $\\geqslant 6$ 个月。一旦 $\\mathrm { C D 4 ^ { + } ~ T }$ 淋巴细胞数下降到 $< 2 0 0$ 个 ${ ' \\mu \\mu }$ ，需重新开始预防用药。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "7.7 真菌感染 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "7.7. 1 诊断 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "临床上常见的是假丝酵母菌感染和新型隐球菌感染，除此之外在南方或潮湿多雨地区马尔尼菲篮状菌也较常见，诊断依靠临床表现或感染部位培养或病理发现病原体。血或脑脊液隐球菌乳胶凝胶实验可辅助诊断新型隐球菌感染。隐球菌脑膜炎临床主要表现包括发热、渐进性头痛、精神和神经症状。颅内压增高往往比较常见，头痛、恶心呕吐较激烈。马尔尼菲篮状菌病主要发生于 $\\mathrm { C D 4 ^ { + } ~ T }$ 淋巴细胞计数 $\\cdot { < } 5 0$ 个/ $\\lvert \\mu \\rvert$ 的患者，表现为发热、贫血、咳嗽、皮疹、全身淋巴结肿大及肝脾肿大，脐凹样皮疹具有辅助诊断意义；确诊依靠血液、骨髓及其他无菌体液中培养出马尔尼菲篮状菌。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "7.7.2 治疗 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "7.7.2.1念珠菌感染［21] ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "口腔念珠菌感染首选制霉菌素局部涂抹加碳酸氢钠漱口水漱口，疗效欠佳时选用口服氟康唑 $1 0 0 \\sim$ $2 0 0 ~ \\mathrm { m g / d }$ ，共 $7 \\sim 1 4 \\mathrm { ~ d ~ }$ 。对于食管念珠菌感染，则氟康唑 $1 0 0 \\sim 4 0 0 ~ \\mathrm { { m g / d } }$ ，口服，不能耐受口服者静脉注射氟康唑 $1 0 0 \\sim 4 0 0 ~ \\mathrm { { m g / d } }$ 进行治疗，疗程 $1 4 \\sim 2 1 \\mathrm { ~ d ~ }$ ；或者伊曲康唑 $2 0 0 ~ \\mathrm { { m g } }$ ，1次/d，或伏立康唑 $2 0 0 ~ \\mathrm { { m g } }$ ，2次/d,口服， $1 4 \\sim 2 1 \\mathrm { ~ d ~ }$ 。对于合并口腔真菌感染的患者应尽快进行HAART，可在抗真菌感染的同时进行HAART。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "7.7.2.2新型隐球菌感染 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（1）隐球菌脑膜炎[22-23]",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "病原治疗原则：分诱导期、巩固期、维持期3个阶段进行治疗（参考“隐球菌性脑膜炎诊治专家共识”［22］）（表2）。诱导期治疗经典方案为两性霉素$\\mathbf { B } { + } 5 .$ -氟胞嘧啶。两性霉素B从 $0 . 0 2 \\sim 0 . 1 0 ~ \\mathrm { m g / ( k g \\cdot d ) }$ 开始，逐渐增加剂量至 $0 . 5 { \\sim } 0 . 7 \\mathrm { m g / ( \\ k g \\cdot d ) }$ ，两性霉素B不良反应较多，需严密观察。诱导期治疗至少4周，在脑脊液培养转阴后改为氟康唑（ $6 0 0 { \\sim } 8 0 0 ~ \\mathrm { m g / d ) }$ （20进行巩固期治疗，巩固期治疗至少6周，而后改为氟康唑( $2 0 0 ~ \\mathrm { m g / d } \\AA ,$ ）进行维持治疗，维持期至少1年，持续至患者通过抗病毒治疗后 $\\mathrm { C D 4 } ^ { + }$ T淋巴细胞计数>$1 0 0 \\% \\times / \\mu \\mathrm { l }$ 并持续至少6个月时可停药。诱导期替代方案：氟康唑 $8 0 0 \\sim 1 ~ 2 0 0 ~ \\mathrm { m g }$ ，1次/d，联合5-氟胞嘧啶$1 0 0 \\approx 1 5 0 \\ \\mathrm { m g / ( k g \\cdot d ) }$ （每天分4次服）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "降颅压治疗：颅内压增高者需要积极降压治疗,常用降颅内压方法有药物降压、腰穿引流、腰大池置管引流、侧脑室外引流、脑室-腹腔分流术、留置 $\\mathrm { O m } \\cdot$ （204号maya囊（贮液囊）等。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "置管持续外引流降颅压需严格无菌操作，加强护理，防止继发感染。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（2）肺隐球菌感染",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "推荐使用氟康唑， $4 0 0 ~ \\mathrm { { m g / d } }$ 口服或静脉滴注，疗a程12个月，如抗病毒治疗后 $\\mathrm { C D 4 } ^ { + }$ T 淋巴细胞计数>$1 0 0 \\uparrow \\uparrow \\mu !$ ，治疗1年后停止氟康唑维持治疗。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "O（3）隐球菌感染的抗病毒治疗",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "艾滋病合并隐球菌肺炎的患者应在抗隐球菌治疗2周内尽早进行HAART。对于合并隐球菌脑膜炎的患",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "者过早进行HAART可能会增加病死率，故HAART应考虑适当延迟，一般以正规抗隐球菌治疗后4\\~6周启动HAART为宜[9,24]",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "7.7.2.3 马尔尼菲篮状菌病",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "抗真菌治疗：两性霉素 $\\mathrm { ~ B ~ } 0 . 5 \\sim 0 . 7 \\mathrm { ~ m g / ( ~ k g ~ \\cdot ~ d ~ ) ~ }$ ，静脉滴注2周，需严密观察不良反应；然后改为伊曲康唑 $2 0 0 ~ \\mathrm { { m g } }$ 口服，2次/d，10周。轻型感染的治疗为伊曲康唑 $2 0 0 ~ \\mathrm { { m g } }$ 口服，2次/d，8周，而后改为伊曲康唑 $2 0 0 ~ \\mathrm { { m g } }$ 口服，1次/d，至 $\\mathrm { C D 4 ^ { + } ~ T }$ 淋巴细胞计数>100个/ $\\lvert \\mu \\rvert$ 且持续6个月。替代方案：（1）诱导期伏立康唑 $6 \\mathrm { { m g } / ( \\mathrm { { k g } \\cdot \\mathrm { { d } ) } } }$ ，每12小时1次，静脉滴注，1d,然后改为 $4 ~ \\mathrm { { m g / ( k g \\cdot d ) } }$ ，每12小时1次，静脉滴注,至少 $3 \\mathrm { ~ d ~ }$ ；巩固期伊曲康唑 $2 0 0 ~ \\mathrm { { m g } }$ 口服，2次/d，不超过12周。（2）伏立康唑 $4 0 0 ~ \\mathrm { { m g } }$ 口服，每12小时1次，1d，然后改为 $2 0 0 ~ \\mathrm { m g }$ 口服，每12小时1次，12周。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "预防：二级预防口服伊曲康唑 $2 0 0 ~ \\mathrm { { m g } }$ ，1次/d,持续至患者通过抗病毒治疗后 $\\mathrm { C D 4 ^ { + } ~ T }$ 淋巴细胞计数>100个 $' \\mu \\mathrm { l }$ ，并持续至少6个月可停药。一旦 $\\mathrm { C D 4 } ^ { + }$ T淋巴细胞计数 $< 1 0 0$ 个 ${ ' \\mu \\mu }$ ，需要再次给予预防性治疗。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "8抗反转录病毒治疗",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "8.1 治疗目标",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "降低HIV感染的发病率和病死率、减少非艾滋病相关疾病的发病率和病死率，使患者获得正常的期望寿命，提高生活质量；最大程度地抑制病毒复制使病毒载量降低至检测下限并减少病毒变异；重建或者改善免疫功能；减少异常的免疫激活；减少HIV的传播、预防母婴传播。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "8.2国内现有抗反转录病毒药物介绍",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "目前国际上共有6大类30多种药物（包括复合制剂），分别为核苷类反转录酶抑制剂（nucleosidereversetranscriptaseinhibitors，NRTIs）、非核苷类反转",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/032a141d518860b2b42867c9e6706204d4605e67848851039904da730a432d49.jpg",
+        "table_caption": [
+            "表2隐球菌性脑膜炎抗真菌药物治疗方案"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>病程</td><td>首选</td><td>次选</td><td>疗程</td></tr><tr><td rowspan=\"3\"></td><td rowspan=\"3\">诱导期两性霉素B（0.5~0.7mg/kg·d）+氟胞嘧啶（100mg/ kg·d）</td><td>两性霉素B(0.5~0.7mg/kg·d）+氟康唑(400 mg/d) 两性霉素B（0.5~0.7mg/kg·d） 氟康唑（600~800 mg/d）±氟胞嘧啶（100 mg/kg·d）</td><td>≥4周</td></tr><tr><td>伊曲康唑注射液（第1~2负荷剂量 200 mg，12h1次，第3天始 200 mg，1次/d）±氟胞嘧啶（100 mg/kg·d） 伏立康唑（第1天负荷剂量6mg/kg，12h1次，第2天始4 mg/kg，</td><td></td></tr><tr><td>12h1次）±氟胞嘧啶（100mg/kg·d） 巩固期氟康唑（600~800mg/d）±氟胞嘧啶（100 mg/kg·d） 伊曲康唑口服液（200mg，12h1次）±氟胞嘧啶（100 mg/kg·d） 两性霉素B（0.5~0.7mg/kg·d）±氟胞嘧啶（100mg/ 伏立康唑片（200 mg，12h1次）±氟胞嘧啶（100mg/kg·d）</td><td>≥6周</td></tr><tr><td>维持期氟康唑200 mg/d</td><td></td><td>伊曲康唑400 mg/d</td><td>≥1年</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "录酶抑制剂（non-NRTIs，NNRTIs）、蛋白酶抑制剂（protease inhibitors，PIs）、整合酶链转移抑制剂（in-tegrasestrandtransfer inhibitors，INSTIs）、膜融合抑制",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "剂（fusion inhibitors，FIs）及CCR5抑制剂。国内的抗反转录病毒治疗药物有NRTIs、NNRTIs、PIs、INSTIs以及Fis5大类（包含复合制剂），见表3。",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/fb1ecf729de827e524f1f470b16fc39da7a7f20198643da13503ffcd07643317.jpg",
+        "table_caption": [
+            "表3国内现有主要抗反转录病毒（ARV）药物介绍"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>药物名称</td><td>缩写</td><td>类别</td><td>用法与用量</td><td>主要不良反应</td><td>ARV 药物间相互作用 和注意事项</td><td>备注</td></tr><tr><td>齐多夫定（zidovudine）AZT</td><td></td><td>INSTIs</td><td>成人：300 mg/次，2次/d 新生儿/婴幼儿：2 mg/kg, 4次/d</td><td>（1）骨髓抑制、严重的贫 血或中性粒细胞减少症； (2）胃肠道不适：恶心、 呕吐、腹泻等；（3）CPK</td><td>不能与司他夫定 （d4T）合用</td><td>进口和 国产药</td></tr><tr><td>拉米夫定（lamividine）3TC</td><td></td><td>INSTIs</td><td>儿童：160 mg/m²，3次/d 成人：150 mg/次，2次/d或 300 mg/次，1次/d</td><td>和ALT升高；乳酸酸 不良反应少，且较轻微， 偶有头痛、恶心、腹泻等</td><td></td><td>进口和 国产药</td></tr><tr><td>阿巴卡韦（abacavir） 29</td><td>ABC</td><td>INSTIs</td><td>新生儿：2 mg/kg,2次/d 儿童：4 mg/kg，2次/d 成人：300 mg/次，2次/d 新生儿/婴幼儿：不建议用本药</td><td>不适 （1）高敏反应，一旦出现 高敏反应应终身停用本药;</td><td>有条件时应在使用前 查 HLA-B* 5701，如</td><td>进口和 国产药</td></tr><tr><td>富马酸替诺福韦二吡 呋酯片（tenofovir- disoproxil) 2</td><td>TDF</td><td>INSTIs</td><td>儿童：8 mg/kg，2次 成人：300 mg/次，1次/d, 与食物同服</td><td>（2）恶心、呕吐、腹泻等 （1）肾脏毒性；（2）轻至 中度消化道不适，如恶心、 呕吐、腹泻等；（3）代谢</td><td>阳性不推荐使用</td><td></td></tr><tr><td>8 T 齐多夫定/拉米夫定 2</td><td>AZT/3TC</td><td>INSTIs</td><td>成人：1片/次，2次/d</td><td>如低磷酸盐血症，脂肪分 布异常：（4）可能引起酸 中毒和/或肝脂肪变性 见AZT与3TC</td><td>见AZT</td><td>进口和</td></tr><tr><td>恩曲他滨/富马酸替诺FTC/TDF 福韦二吡呋酯片</td><td></td><td>INSTIs</td><td>1次/d，1片/次，口服，随食</td><td>见FTC与TDF</td><td>进口药</td><td>国产药</td></tr><tr><td>恩曲他滨/丙酚替诺福FTC/TAF 韦</td><td></td><td>INSTIs</td><td>物或单独服用均可 成人和12岁及以上且体重至少 35 kg 的青少年患者，每日1</td><td>腹泻、恶心、头痛</td><td>利福平、利福布汀会 降低丙酚替诺福韦的</td><td>进口药</td></tr><tr><td></td><td></td><td></td><td>次，每次1片 （1）200 mg/10 mg（和含有激 动剂的 PI联用) (2）200 mg/25 mg（和 NNRTIs 或 INSTIs 联用)</td><td></td><td>吸收，导致 TAF 的血 浆浓度下降。不建议 合用</td><td></td></tr><tr><td>拉米夫定/富马酸替诺3TC/TDF 福韦二吡呋酯片 奈韦拉平（nevirapine）NVP</td><td></td><td>INSTIs NNRTIs</td><td>1次/d，1片/次，口服 成人：200 mg/次，2次/d 新生儿/婴幼儿：5mg/kg,</td><td>见3TC与TDF （1）皮疹，出现严重的或 可致命性的皮疹后应终身</td><td>引起PI类药物血浓度 下降</td><td>国产药 国产药</td></tr><tr><td></td><td></td><td></td><td>2次/d 儿童：<8岁，4 mg/kg，2次/d; >8岁，7 mg/kg，2次/d 注意：NVP有导入期，即在开 始治疗的最初14d，需先从治 疗量的一半开始（1次/d)，如 果无严重的不良反应才可以增</td><td>停用本药；（2）肝损害， 出现重症肝炎或肝功能不 全时，应终身停用本药</td><td></td><td></td></tr><tr><td>奈韦拉平/齐多夫 定/拉米夫定</td><td>NVP/ AZT/3TC</td><td>INSTIs +NNRTIs</td><td>加到足量 (2次/d) 1次1片，2次/d（推荐用于 NVP 200 mg，1次/d2周导入 期后耐受良好患者)</td><td>见NVP/AZT/3TC</td><td></td><td>国产药</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/c78533b9922fbfb49a966062fddf2703e30e34b25a8ce87bb9744b164a6d8108.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "‘-”无相关数据；NRTIs 为核苷类反转录酶抑制剂；NNRTIs 为非核苷类反转录酶抑制剂；PIs为蛋白酶抑制剂；INSTIs 为整合酶抑制剂；FIs 为膜}合抑制剂；CPK为磷酸肌酸激酶；ALT为丙氨酸转氨酶；服用方法中2次 $' \\mathrm { d } =$ 每12小时服药1次，3次/ $\\mathrm { { \\dot { d } = } }$ 每8小时服药1次"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">续表3</td></tr><tr><td>药物名称</td><td>缩写</td><td>类别</td><td>用法与用量</td><td>主要不良反应</td><td>ARV 药物间相互作用 和注意事项</td><td>备注</td></tr><tr><td>依非韦伦 （efavirenz）</td><td>EFV</td><td>INSTIs</td><td>成人：体重>60 kg，600 mg/次， 1次/d；体重<60 kg，400 mg/次, 1次/d；儿童：体重15~25kg： 200~300 mg，1次/d；体重25～ 40 kg:300~400 mg，1次/d；体</td><td>（1）中枢神经系统毒性，如 头晕、头痛、失眠、抑郁、 非正常思维等；可产生长期 神经精神作用；可能与自杀意</td><td></td><td>进口和 国产药</td></tr><tr><td>利匹韦林 （rilpivirine）</td><td>RBV</td><td>INSTIs</td><td>服用 25 mg/次，1次/d，随进餐服用</td><td>三酯血症 主要为抑郁、失眠、头痛和 皮疹</td><td>妊娠安全分类中被列为进口药 B类，与其余ARV 药物 无明显相互作用；不应</td><td></td></tr><tr><td>洛匹那韦/利托那 LPV/r 韦（lopinavir/ ritonavir) M</td><td></td><td>PIs</td><td>成人：2片/次，2次/d（每粒 含量：LPV200mg，RTV 50mg）；儿童：7~15kg，LPV 12 mg/kg和RTV 3 mg/kg，2次 /d；LPV 15~40 kg，10 mg/kg</td><td>主要为腹泻、恶心、血脂异 常，也可出现头痛和转氨酶 升高</td><td>与其他 NNRTI类合用</td><td>进口药</td></tr><tr><td>2 达芦那韦/考比司 DRV/c 他darunavir/ cobicistat) 2</td><td></td><td>PIs</td><td>和 RTV 2.5mg/kg，2次/d 成人：每次 800 mg 达芦那韦/ 150 mg考比司他（1片），1次 /d，口服。随餐服用，整片吞 服，不可掰碎或压碎</td><td>腹泻、恶心和皮疹</td><td>尚未在妊娠期女性中开进口药 展充分、良好对照的 研究</td><td></td></tr><tr><td>拉替拉韦 (gravi) 0</td><td>RAL</td><td>INSTIs</td><td>成人：400 mg/次，2次/d</td><td>常见的有腹泻、恶心、头痛、 发热等；少见的有腹痛、乏 力、肝肾损害等</td><td></td><td>进口药</td></tr><tr><td>多替拉韦</td><td>DTG</td><td>INSTIs</td><td>成人和12岁以上儿童： 服药与，无关d，</td><td>常见的有失眠、头痛、头晕、 异常梦状，等精、神和 呕吐、皮疹、瘙痒、疲乏等， 少见的有超敏反应，包括皮 疹、全身症状及器官功能损 伤(包括肝损伤)，降低肾</td><td>当与EFV、NVP联用 时，按每日两次给药</td><td></td></tr><tr><td>定/多替拉韦 (ABC/3TC/ DTG)</td><td></td><td>NRTIs</td><td>成人和≥12岁且体重≥40kg 的 青少年：1片/d（每片含 ABC 600 mg，3TC 300 mg，DTG 50mg)</td><td></td><td>如果条件允许，建议对 即将使用包含 ABC 治疗 方案的 HIV 感染者在治 疗前进行 HLA-B* 5701 的筛查；HLA-B* 5701 阳性的 HIV 感染者不应</td><td></td></tr><tr><td>丙酚替诺福韦/恩 曲他滨/艾维雷韦/ 考比司他（TAF/ FTC/EVG/c)</td><td></td><td>INSTI+ NRTIs</td><td>成人及年龄为12岁及以上且体 重至少为35kg 的青少年，1片 /次，1次/d，随食物服用（每 片含150mg艾维雷韦，150 mg 考比司他，200mg 恩曲他滨和</td><td>腹泻、恶心、头痛</td><td>不建议和利福平、利福进口药 布汀合用</td><td></td></tr><tr><td>艾博韦泰 （albuvirtide）</td><td></td><td>长效FIs</td><td>10 mg 丙酚替诺福韦) 160 mg/针，1周静脉滴注1次， 1次2针（320 mg）</td><td>血甘油三酯、胆固醇升高、 腹泻等</td><td>由于不经细胞色素 P450 酶代谢，与其他药物相</td><td>国产药</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "8.3成人及青少年抗病毒治疗时机与方案[16-18,25-26] 8.4特殊人群抗病毒治疗",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "8.3.1成人及青少年开始抗反转录病毒治疗的时机",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "一旦确诊HIV 感染，无论 $\\mathrm { C D 4 } ^ { + }$ T淋巴细胞水平高低，均建议立即开始治疗。在开始HAART前，一定要取得患者的配合和同意，教育患者保持良好的服药依从性；如患者存在严重的机会性感染和既往慢性疾病急性发作期，应参考前述机会性感染控制病情稳定后开始治疗。启动HAART后，需终身治疗。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "8.3.2成人及青少年初始HAART方案",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "初治患者推荐方案为2种 NRTIs类骨干药物联合第三类药物治疗。第三类药物可以为NNRTIs或者增强型PIs（含利托那韦或考比司他）或者INSTIs；有条件的患者可以选用复方单片制剂。基于我国可获得的抗病毒药物，对于未接受过HAART的患者推荐及替代方案见表4。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "19 ",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/c9d481bbe78153a454b54d1a86fe163f14cab60e5fd8a6b885674b055ec5630a.jpg",
+        "table_caption": [
+            "表4推荐成人及青少年初治患者抗病毒治疗方案"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>0 2种NRTIs</td><td>第三类药物</td></tr><tr><td>推荐方案</td><td></td></tr><tr><td>TDE（ABCa）+3TC（FTC)</td><td>+NNRTI：EFV、RPV或+PI：LPV/r、</td></tr><tr><td>TAF+FTC 8</td><td>DRV/c或+INSTI：DTG、RAL</td></tr><tr><td>单片制剂方案 TAF/FTC/EVG/cb</td><td></td></tr><tr><td>ABL/3TC/DTGb</td><td></td></tr><tr><td>替代方案</td><td></td></tr><tr><td>AZT+3TC</td><td>+EFV或NVP或RPVd或+LPV/r</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "TDE为替诺福韦；ABC 为阿巴卡韦；3TC 为拉米夫定；FTC 为恩曲他滨：TAF为丙酚替诺福韦；AZT为齐多夫定；NNRTI为非核苷类反转录酶抑制剂；EFV 为依非韦伦；PI为蛋白酶抑制剂；INSTI为整合酶抑制剂；IPV/r为洛匹那韦/利托那韦；RAL为拉替拉韦；NVP 为奈韦拉平；RPV为利匹韦林；‘用于HLA $\\boldsymbol { \\cdot } \\mathrm { B } * 5 7 0 1$ 阴性者；单片复方制剂；‘对于基线 $\\mathrm { C D 4 ^ { + } ~ T }$ 淋巴细胞 $> 2 5 0$ 个/ $\\mu \\mathrm { l }$ 的患者要尽量避免使用含NVP的治疗方案，合并丙型肝炎病毒感染的避免使用含NVP的方案；dRPV仅用于病毒载量 $< 1 0 ^ { 5 }$ 拷贝/ $\\mathbf { \\dot { m } }$ 和 $\\mathrm { C D 4 ^ { + } }$ T淋巴细胞 $> 2 0 0$ 个 $' _ { \\mu \\mathrm { l } }$ 的患者",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "8.4.1 儿童[18] ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "HIV感染儿童应尽早开始HAART，如果没有及时HAART，艾滋病相关病死率在出生后第1年达到 $2 0 \\%$ $\\sim 3 0 \\%$ ，第2年可以超过 $5 0 \\%$ 。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "8.4.1.1HIV感染儿童抗病毒治疗时机与方案：见表  \n5，6。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "8.4.1.2HIV感染儿童的抗病毒治疗效果监测：（1）病毒载量是衡量HAART效果的首要检测指标，治疗6个月后，每年或怀疑治疗失败时检测；（2） $\\mathrm { C D 4 ^ { + } T }$ 淋巴细胞可作为监测HAART效果的另一项有益的指标，每3\\~6个月检测1次，但其本身不能确定治疗成功或失败；（3）临床监测是儿童抗病毒治疗效果监测的必要部分，每次随访都应进行身高、体重、生长发育标志检测及依从性监测。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "8.4.1.3儿童初治失败的处理：（1）初治 NNRTI方案失败，换用多替拉韦（DTG）或含激动剂的 $\\mathrm { P I } + 2$ NRTIs［含激动剂的PI首选洛匹那韦/利托那韦（LPV/r）]；（2）初治 $\\mathrm { L P V / r }$ 方案失败，换用 $\\mathrm { D T G } { + } 2$ ",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/031203c251f7ca2bb2e1e764745cd65aa011d59443801172f0b79a9e0dad0446.jpg",
+        "table_caption": [
+            "表5儿童及青少年开始抗反转录病毒治疗的时机"
+        ],
+        "table_footnote": [
+            "WHO 为世界卫生组织；HAART为高效联合抗反转录病毒治疗"
+        ],
+        "table_body": "<html><body><table><tr><td>年龄 (岁)</td><td>推荐意见</td></tr><tr><td>10~18</td><td>所有患者不论WHO临床分期及CD4+T淋巴细胞计数 水平均应进行HAART，对于WHO临床分期为3和4期</td></tr><tr><td><10</td><td>患者或CD4+T淋巴细胞<350个/μl患者应优先尽快启 动HAART 不论WHO 临床分期及CD4+T淋巴细胞计数水平均应 进行HAART，对于以下情况应优先尽快启动HAART：</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/37bbde56d648689acd5334537dd6cb932963a9e824ab74db9b9c2d31ed000efd.jpg",
+        "table_caption": [
+            "表6儿童抗病毒治疗方案"
+        ],
+        "table_footnote": [
+            "ABC为阿巴卡韦；AZT为齐多夫定；3TC为拉米夫定；LPV/r为洛匹那韦/利托那韦；EFV为依非韦伦；NVP为奈韦拉平；TDF为富马酸替诺福韦二 此呋酯片；NRTI为核苷类反转录酶抑制剂；NNRTI为非核苷类反转录酶抑制剂 "
+        ],
+        "table_body": "<html><body><table><tr><td>年龄 (岁)</td><td>推荐方</td><td>备选方案</td><td>说明</td></tr><tr><td><3</td><td>ABC或AZT+3TC+LPV/r</td><td>ABC+3TC+NVP</td><td>（1）由于年龄非常小的婴幼儿体内药物代谢很快，且其免疫系统功能尚未发育</td></tr><tr><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td>AZT+3TC+NVP</td><td>完全，使感染不易被控制，体内病毒载量含量很高，因此婴幼儿治疗需要非常</td></tr><tr><td></td><td>强有力的方案；（2）AZT或ABC作为一个NRTI使用（首选ABC)；（3）曾暴</td></tr><tr><td></td><td>露于NNRTI药物的婴幼儿选择LPV/r；（4）TDF不能用于该年龄段儿童</td></tr><tr><td rowspan=\"2\">3~10</td><td rowspan=\"2\">ABC+3TC+EFV</td><td>AZT/TDF+3TC+ NVP/EFV/LPV/r</td><td></td></tr><tr><td>ABC/AZT+3TC+</td><td></td></tr><tr><td>>10</td><td>TDF+3TC+EFV</td><td>NVP/EFV/LPV/r</td><td>美国已批准TDF使用于3岁以上儿童</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "NRTIs，DTG不可及时，则换成拉替拉韦（RAL） $+ 2$ NRTIs；如果DTG和RAL均不可及，3岁以下儿童则维持原方案并进行依从性指导，3岁以上儿童可改为NNTRI $+ 2$ NRTIs，NNTRI首选依非韦伦（EFV）；（3）治疗失败后NRTIs的替换，阿巴卡韦（ABC）或富马酸替诺福韦二吡呋酯片（TDF）更换为齐多夫定（AZT），AZT更换为TDF或ABC。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "8.4.2 孕妇 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参见“HIV母婴垂直传播阻断及单阳家庭生育”部分。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "8.4.3 哺乳期妇女",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "母乳喂养具有传播HIV的风险，感染HIV的母亲应尽可能避免母乳喂养。如果坚持要母乳喂养，则整个哺乳期都应继续HAART。治疗方案与怀孕期间抗病毒方案一致，且新生儿在6个月龄之后立即停止母乳喂养",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "8.4.4 合并结核分枝杆菌感染者",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "一有关抗病毒治疗的时机参见“机会性感染”章节中二、结核病”部分中相关内容。艾滋病合并结核病患者推荐的一线抗病毒治疗方案是：TDF（AZT） $^ +$ 拉米夫定（3TC）［恩曲他滨（FTC） $] \\mathrm { + E F V }$ ，也可选择含INSTIs的HAART方案，正在接受DTG或RAL治疗的HIV合并结核感染患者，如果合并使用利福平，则需要增加DTG的剂量（ $5 0 ~ \\mathrm { m g }$ ，2 次/d);使用RAL合并使用利福平的，可考虑增加RAL剂量$\\mathbf { \\widehat { 8 0 0 } } ^ { \\mathrm { { d } m g } }$ ，2次/d）或维持原剂量（ $4 0 0 ~ \\mathrm { m g }$ ，2 次/d[16-17]利福布汀对肝酶的诱导作用较弱，使用DTG或RAL治疗的HIV合并结核感染患者可以考虑使用利福布汀替代利福平，无需调整剂量。如果患者使用利福布汀抗结核治疗，也可选择含PIs的HAART方案。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "8.4.5静脉药物依赖者",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "美沙酮维持静脉药物依赖者开始HAART的时机与普通患者相同，但应注意毒品成瘾性会影响患者的服药依从性，故在开始抗病毒治疗前应充分向患者说明依从性对治疗成败的重要性，并尽量采用简单的治疗方案、固定剂量联合方案，有条件者可考虑首选含RAL或DTG的HAART方案。持续监督药物分发可有效提高依从性。另外，应注意抗病毒药物与美沙酮之间的相互作用。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "8.4.6 合并HBV 感染者",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "8.4.6.1治疗和检测 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "不论 $\\mathrm { C D 4 } ^ { + }$ T淋巴细胞水平如何，只要无抗HIV暂 缓治疗的指征，均建议尽早启动HAART。（1）HIV/ ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "HBV合并感染者应同时治疗两种病毒感染，包括两种抗HBV活性的药物，HAART方案核苷类药物选择推荐TDF或丙酚替诺福韦（TAF） $+ 3 \\mathrm { T C }$ 或FTC（其中TDF $+ { \\mathrm { F T C } }$ 及 $\\mathrm { T A F + F T C }$ 有合剂剂型)。（2）治疗过程中需对HBV相关指标，如HBV-DNA、肝生化、肝脏影像学等进行监测。（3）对于HIV/HBV合并感染者不建议选择仅含有1种对HBV有活性的核苷类药物（TDF、3TC、恩替卡韦、替比夫定、阿德福韦）的方案治疗乙型肝炎，以避免诱导HIV对核苷类药物耐药性的产生。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "需要注意［27]：（1）肾功能不全患者： $\\textcircled{1}$ 如肌酐清除率小于 $6 0 \\ \\mathrm { m l / m i n }$ ，不能选择 TDF 或调整 TDF 剂量； $\\textcircled{2}$ 肌酐清除率小于 $5 0 \\ \\mathrm { m l / m i n }$ 而大于 $3 0 \\ \\mathrm { m l / m i n }$ ，可考虑选择包含 ${ \\mathrm { T A F } } +$ （FTC或3TC）的方案。TAF尚未批准应用于估算的肾小球滤过率（eGFR） $\\angle$ $3 0 ~ \\mathrm { m l } / ( \\mathrm { m i n } \\cdot 1 . 7 3 ~ \\mathrm { m } ^ { 2 } )$ 患者； $\\textcircled{3}$ 不能使用TDF/TAF时，在HAART方案的基础上应加用恩替卡韦。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "（2）妊娠期妇女：如HIV/HBV合并感染者为妊娠期妇女，建议使用包含3TC（FTC） $+ \\mathrm { T D F }$ 在内的用药方案，TAF尚未批准用于妊娠期妇女。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "8.4.6.2对于HIV感染者接种乙肝疫苗建议",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "（1）在HBV表面抗原（ $\\mathrm { H B s A g } ^ { \\cdot }$ ）、表面抗体（抗-HBs）阴性的HIV感染人群，无论HBV核心抗体（抗-HBc）情况，需尽早接种乙肝疫苗。 $\\mathrm { C D 4 ^ { + } ~ T }$ 淋巴细胞$< 2 0 0$ 个/ $\\lvert \\mu \\rvert$ 的人群乙肝疫苗接种的成功率低于HIV 阴性人群及 $\\mathrm { C D 4 ^ { + } ~ T }$ 淋巴细胞更高的HIV感染者，但仍建议注射乙肝疫苗。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "（2）乙肝疫苗注射建议：0、1、6个月3次法或0、1、2、6个月4次法。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "（3）针对单独抗-HBc 阳性，而抗-HBs、 $\\mathrm { H B s A g }$ 阴性人群，建议在注射1剂次乙肝疫苗1个月后复查抗-HBs，如抗-HBs 滴度小于 $1 0 0 \\ \\mathrm { I U / m l }$ ，则需按照0、1、2、6个月4次法接种乙肝疫苗。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "（4）如在全程疫苗注射后1\\~2个月，复查抗-HBs仍阴性，则属于无应答情况，可进行如下处理： $\\textcircled{1}$ 按0、1、2、6个月4次法重新注射乙肝疫苗。 $\\textcircled{2}$ 待HAART后 $\\mathrm { C D 4 ^ { + } ~ T }$ 淋巴细胞提升后再给予重新注射乙肝疫苗。 $\\textcircled{3}$ 重新注射疫苗时，剂量应加倍。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "8.4.7合并丙型肝炎病毒感染者",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "HIV/丙型肝炎病毒（hepatitisCvirus，HCV）合并感染患者HAART的治疗方案可参考单纯HIV感染者；但需注意以下几点：（1）HAART药物宜选择肝脏毒性较小的药物。有条件者可考虑首选含有INSTIs［RAL或DTG或艾维雷韦/考比司他（ $\\mathrm { E V G / c }$ ）］的HAART方案。（2）合并HCV感染均建议抗HCV治疗。如确已开始抗HIV治疗基础上需要抗HCV治疗，药物选择方面需考虑两种治疗方案药物毒副作用的累加以及药物代谢的相互影响；建议根据丙型肝炎治疗药物更换无药物相互作用的HAART方案，可考虑短期更换INSTIs（RAL或DTG或 $\\mathrm { E V G / c }$ )。(3） $\\mathrm { C D 4 } ^ { + }$ T淋巴细胞数 $< 2 0 0$ 个/ $\\mu \\mathrm { l }$ 推荐先启动HAART，待免疫功能得到一定程度恢复后再适时开始抗HCV治疗；如因为各种原因暂时不能抗HCV，也需要尽早启动HAART。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "抗HCV治疗方案和疗程与单纯HCV感染者治疗方案相同，总体治疗效果相当。推荐使用直接抗病毒药物（direct-acting antiviral agents，DAAs）方案，应根据选择DAAs的不同，注意与HAART药物间的相互作用。EFV 和LPV/r因与一些DAAs药物存在药物相互作用，应用DAAs前需详细评估药物相互作用对DAAs 治疗的影响。如DAAs药物需与HAART药物同时使用，建议查询相关药物相互作用以合理选择用。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "需要注意：HIV/HBV/HCV三重感染患者，在DAAs药物治疗过程中有诱发HBV活动进而导致肝衰竭的报道，故（1）三重感染患者必须在包含抗HBV活性的HAART稳定后再开始丙型肝炎的DAAs治疗；（2）HCV/HIV合并感染者应用DAAs 治疗前应进行常规 HBV 标志物筛查。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "8.5抗病毒治疗监测",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "在抗病毒治疗过程中要定期进行临床评估和实验室检测，以评价治疗的效果，及时发现抗病毒药物的不良反应，以及是否产生病毒耐药性等，必要时更换药物以保证抗病毒治疗的成功。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "8.5.1 疗效评估 ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "HAART的有效性主要通过病毒学指标、免疫学指标和临床症状三方面进行评估，其中病毒学指标为最重要的指标。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "（1）病毒学指标：大多数患者抗病毒治疗后血浆病毒载量4周内应下降1个 $\\log$ 以上，在治疗后的3\\~6个月病毒载量应达到检测不到的水平。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "（2）免疫学指标：在HAART后1年， $\\mathrm { C D 4 } ^ { + }$ T淋巴细胞数与治疗前相比增加了 $3 0 \\%$ 或增长100个/ $\\lvert \\mu \\rvert$ 提示治疗有效。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "（3）临床症状：反映抗病毒治疗效果的最敏感的一个指标是体重增加，对于儿童可观察身高、营养及",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "发育改善情况。机会性感染的发病率和艾滋病的病死率可以明显降低。在开始HAART后最初的3个月出现的机会性感染应与IRIS相鉴别。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "8.5.2病毒耐药性检测",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "病毒耐药是导致抗病毒治疗失败的主要原因之一，对抗病毒疗效不佳或失败者可行耐药检测！",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "8.5.3药物不良反应观察 ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "抗病毒药物的不良反应及耐受性影响患者的服药依从性，进而影响抗病毒治疗的成败，所以适时监测并及时处理药物的不良反应对于提高治疗效果至关重要（表7)。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "8.5.4 药物浓度检测 ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "特殊人群（如儿童、妊娠妇女及肾功能不全患者等）用药在条件允许情况下可进行治疗药物浓度监测(therapeutic drug monitoring，TDM）。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "8.6换药标准和治疗失败患者的抗病毒治疗[16-18,25]",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "病毒学失败的定义：在持续进行HAART的患者中，开始治疗（启动或调整）48周后血浆HIV-RNA持续 $> 2 0 0$ 拷贝/ $\\mathrm { ' m l }$ ；或病毒学反弹：在达到病毒学完全抑制后又出现 $\\mathrm { H I V } \\ \\mathrm { R N A } \\geqslant 2 0 0$ 拷贝/ $\\mathrm { ' m l }$ 的情况。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "出现病毒学失败时应首先评估患者的治疗依从性、药物-药物或药物-食物相互作用；尤其依从性是治疗成败的决定因素。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "治疗失败患者方案的选择原则是更换至少2种，最好3种具有抗病毒活性的药物（可以是之前使用的药物种类中具有抗病毒活性的药物)；任何治疗方案都应包括至少一个具有完全抗病毒活性的增强PIs加用一种未曾使用过的药物（如INSTs、FIs）。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "8.7 药物相互作用",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "常见抗病毒治疗药物因为其药物代谢途径、毒副作用等特点，与很多其他种类药物产生药物相互作用。临床中要密切关注患者合并用药情况，并参考其他相关指南或药物说明书及时调整药物方案或调整药物剂量。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "9免疫炎性反应重建综合征",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "9.1 诊断 ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "IRIS是指艾滋病患者在HAART后免疫功能恢复过程中出现的一组临床综合征，主要表现为发热、潜伏感染的出现或原有感染的加重或恶化。多种潜伏或活动的机会性感染在HAART后均可发生IRIS，如结核病及非结核分枝杆菌感染、PCP、CMV感染、水痘-带状疱疹病毒感染、弓形虫病、新型隐球菌感染等，在合并HBV及HCV感染时IRIS可表现为病毒性肝炎的活动或加重。IRIS多出现在抗病毒治疗后3个月内，需与原发或新发的机会性感染相鉴别。除了机会性感染，其他疾病如结节病和卡波西肉瘤也可出现IRIS。IRIS 诊断的参考标准[9,15]：（1）艾滋病患者接受HAART后，结核病或隐球菌脑膜炎等机会感染的临床症状出现恶化。在患者对HAART产生应答的同时，伴随着过度炎性反应，结核病病情加重及病灶扩大或新出现病灶，隐球菌脑膜炎患者出现头痛加重、颅内压升高等。（2）这种临床症状加重与新的机会性感染、HIV相关肿瘤、药物不良反应、耐药或治疗失败无关。（3）HAART后HIV载量下降和/或 $\\mathrm { C D 4 } ^ { + }$ T淋巴细胞计数增加。",
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/a0138893d112304c11baac700bbf6b54015b86047c93e2425039b34c778f5ce9.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "AZT为齐多夫定；TDF为富马酸替诺福韦二吡呋酯片；ABC为阿巴卡韦；3TC为拉米夫定；EFV为依非韦伦；NVP为奈韦拉平；LPV/r为洛匹那韦/利托那韦；RAL为拉替拉韦；DTG为多替拉韦；TAF为丙酚替诺福韦；BMI为体重指数；HBV为乙型肝炎病毒；HCV为丙型肝炎病毒；eGFR为估算的肾小球滤过率；PI为蛋白酶抑制剂；INSTI为整合酶抑制剂；RPV为利匹韦林"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">表7抗反转录病毒药物常见毒副反应及处理措施</td></tr><tr><td>药物</td><td>常见的毒副反应</td><td>危险因素</td><td>建议处理措施</td></tr><tr><td>AZT</td><td>贫血，中性粒细胞减少 乳酸酸中毒或肝脂肪变性引起的肝大</td><td>CD 4+T淋巴细胞计数低于200个/μl BMI>25 kg/m²（或体重>75 kg)</td><td>用 TDF或ABC 替代；使用低剂量的AZT 用 TDF或 ABC 替代</td></tr><tr><td rowspan=\"4\">TDF</td><td>脂肪萎缩；脂肪代谢障碍；肌病 慢性肾损害</td><td>长期使用核苷类药物 潜在肾脏疾病 BMI<18.5kg/m²或低体重（<50 kg），女性TAF避免用于eGFR<30 ml/（min·1.73m²）</td><td>用ABC 或TAF或AZT替代；</td></tr><tr><td>急性肾损害、范可尼综合征</td><td>明显未治疗的糖尿病及高血压 合并使用其他肾损害药物或蛋白酶抑制剂 成人软骨病、儿童仰偻病或骨折病史</td><td>的患者</td></tr><tr><td>骨密度减少</td><td>存在骨质疏松或骨密度减少的高危因素 维生素D缺乏</td><td></td></tr><tr><td>肝脂肪变引起的肝大</td><td>长期暴露于核苷类药物 肥胖 肝脏疾病</td><td></td></tr><tr><td>ABC</td><td>超敏反应 副作用小；但在合并HBV感染患者</td><td>HLA-B * 5701 阳性</td><td>避免用于HLA-B* 5701 阳性的患者；用AZT 或 TDF替代</td></tr><tr><td>ETV</td><td>中，停用3TC 可致急性肝衰竭 中枢神经系统毒性（头晕、失眠、多具有抑郁症或精神疾病病史者</td><td></td><td>晚上服药；减少剂量为400 mg/d; 如减少剂量无效，可用LPV/r替代</td></tr><tr><td>1200</td><td>梦等）或精神症状（焦虑、抑郁或精 神错乱)</td><td>潜在肝脏疾病；合并使用其他肝毒性药物</td><td>有经济条件患者可以选择INSTIs 经济条件允许，患者可以选择INST</td></tr><tr><td>181</td><td>肝毒性 皮疹或超敏反应</td><td>不详 不详</td><td></td></tr><tr><td></td><td>男性乳房发育 肝毒性</td><td>合并 HCV 感染；合并使用其他肝毒性药物基如出现轻度肝损伤可选用EFV替代（包括3</td><td>考虑LPV/r，有经济条件患者可以选择INSTI</td></tr><tr><td></td><td>皮疹及超敏反应，包括 Stevens- Johnson 综</td><td>线CD4+T淋巴细胞计数>250个/μl者</td><td>岁以上儿童)；如重度肝损伤或超敏反应，或 3岁以下儿童，选用其他种类药物（整合酶或 蚕在上述高危因素者应谨慎使用LPV/r</td></tr><tr><td></td><td>尖端扭转型室性心动过速</td><td>心电图异常（PR 和QRS 间期延长）、既往存在心脏传导系统疾病者；同时使用其 他引起长PR或QRS 间期的药物；先天性长 QT间期综合征；低钾血症</td><td></td></tr><tr><td></td><td>胰腺炎 血脂异常</td><td>AIDS 进展期；酗酒 心血管危险因素，如肥胖及糖尿病等</td><td>考虑降脂治疗；</td></tr><tr><td></td><td>腹泻</td><td></td><td>或者更换为其他PI，具体参考相关疾病指南 考虑止泻的治疗；或者更换为其他PI</td></tr><tr><td>RAL</td><td>横纹肌溶解、肌病或肌痛</td><td>合并使用其他具有增加横纹肌溶解或肌病风 险的药物，包括他汀类药物</td><td>使用其他类别抗HIV药物替代（如PIs)</td></tr><tr><td></td><td>肝炎、肝衰竭 皮疹及超敏反应 肝毒性、超敏反应、中枢神经系统毒合并HBV或HCV 感染，其他肝脏疾病</td><td>肝炎、肝衰竭</td><td></td></tr><tr><td>DTG</td><td>副作用</td><td>妊娠早期和未采取有效避孕的育龄期女性 应避免使用包含DTG的方案</td><td>改用其他 INSTI或 PI</td></tr></table></body></html>",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "9.2 治疗[9] ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "IRIS出现后应继续进行HAART。表现为原有感染恶化的IRIS通常为自限性，不用特殊处理而自愈；而表现为潜伏感染出现的IRIS，需要进行针对性的抗病原治疗；严重者可短期应用糖皮质激素或非甾体类抗炎药控制。糖皮质激素避免用于卡波西肉瘤患者以及不确定的结核病IRIS 患者（即不能排除治疗无效的情况 CMV感染患者慎用糖皮质激素，如需要使用，应当采取短程口服治疗。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { 9 . 3 } \\lambda$ （204号 发生的危险因素",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "首次进行HAART、基线病毒载量高及基线 $\\mathrm { C D 4 } ^ { + }$ T淋巴细胞数较低为IRIS发生的危险因素[9]。此类患者在HAART后应警惕IRIS的发生。有效控制急性期机会性感染后再进行HAART或HAART前积极发现潜在的机会性感染可降低IRIS的发生率。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[0艾滋病相关肿瘤[17,28] ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "艾滋病相关肿瘤主要有非霍奇金淋巴瘤和卡波西肉瘤，也需关注非HIV定义性肿瘤如肝癌、肺癌、肛周肿瘤等的筛查、诊治和处理。肿瘤的确诊依赖病理活检。治疗需根据病情给予个体化综合治疗，包括手术、化疗、介人和放疗（具体请参考相关指南）。所有的艾滋病合并肿瘤的患者均建议尽早启动HAART,需要注意抗病毒药物和抗肿瘤药物之间的相互作用，尽量选用骨髓抑制作用和药物间相互作用小的HAART方案，如含INSTIs的方案。肿瘤的诊治不应因感染HIV而降低要求，应提倡多学科诊治模式的应用，应与肿瘤科、介入科、外科等专家一同制定诊治方案。治疗中注意预防各种并发症尤其是感染的发生。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "11HIV母婴垂直传播阻断及单阳家庭生育",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "预防艾滋病母婴传播应该综合考虑3个原则：（1）降低HIV母婴传播率；（2）提高婴儿健康水平和",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "婴儿存活率；（3）关注母亲及所生儿童的健康。预防艾滋病母婴传播的有效措施为：尽早服用抗反转录病毒药物干预 $^ +$ 安全助产 $^ +$ 产后喂养指导。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "11.1 抗反转录病毒药物干预",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "所有感染HIV的孕妇不论其 $\\mathrm { C D 4 } ^ { + }$ T淋巴细胞计数多少或临床分期如何，均应终生接受HAART。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "首选方案：TDF/FTC（或 $\\mathrm { T D F } + 3 \\mathrm { T C }$ 或ABC/3TC或 $\\mathrm { A B C } + 3 \\mathrm { T C }$ ） $+ \\mathrm { L P V / r }$ （或RAL）。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "在使用ABC前应检测1 $\\mathrm { \\mathrm { I L A } } { \\mathrm { - B } } * 5 7 0 1$ ，ABC只能用于 $\\mathrm { H L A { - } B } * 5 7 0 1$ 阴性者，使用时应密切观察ABC的超敏反应。在肌酐清除率小于 $6 0 \\ \\mathrm { m l / m i n }$ 时应避免使用TDF；对于合并乙型肝炎的患者，应使用含有TDF$+ 3 \\mathrm { T C }$ 或FTC的方案。 $\\mathrm { L P V / r }$ 临床用药经验多，但消化道反应可能比较明显，RAL的孕妇临床使用经验相对较少，但疗效显著，可快速降低病毒载量。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "替代方案：TDF/FTC（或 $\\mathrm { T D F } + 3 \\mathrm { T C }$ 或ABC/3TC或 $\\mathrm { A B C } + 3 \\mathrm { T C }$ 或AZT/3TC或 $\\mathrm { A Z T } + 3 \\mathrm { T C }$ ） $+ \\mathrm { E F V }$ 或DTG或利匹韦林（RPV）或奈韦拉平（NVP）。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "早先的动物研究和个案报道中发现早孕期妇女暴露于EFV引起神经管畸形的风险升高，但后来的研究中并未发现这个问题，所以目前认为EFV可以应用于妊娠各个阶段。由于有研究发现早孕期妇女暴露于DTG引起神经管畸形的风险升高，目前不推荐在妊娠8周内使用DTG。所以对那些有怀孕意愿的或者不采取避孕措施的妇女，应选用不含DTG的其他抗病毒治疗方案。NVP不良反应较多，而且只可以用于 $\\mathrm { C D 4 } ^ { + }$ T淋巴细胞 $< 2 5 0$ 个/ $\\lvert \\mu \\rvert$ 的女性。RPV不能用于HIV 病毒载量 ${ > } 1 0 0 \\ 0 0 0$ 拷贝/ $\\mathbf { \\dot { m } }$ 和 $\\mathrm { C D 4 } ^ { + }$ T细胞计数 $< 2 0 0$ 个 ${ \\bf \\dot { \\boldsymbol \\mu } } _ { \\bf \\mu } \\mathbf { l }$ 的患者。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "HIV感染母亲所生儿童应在出生后尽早（ $6 \\sim$ $^ { 1 2 \\mathrm { ~ h ~ } }$ 内）服用抗病毒药物。对于母亲已接受HAART，依从性较好，且达到长期病毒学抑制者，可给予4周AZT或NVP进行预防；对于孕期抗病毒治疗没有达到长期病毒学抑制、治疗不满4周或产时发现HIV感染的孕产妇所生儿童应使用AZT或NVP6\\~12周，具体详见“预防艾滋病、梅毒和乙型肝炎母婴传播工作实施方案（2015年版）”[29] 。HIV 阳性孕产妇急产的新生儿，国内外共识是应用三药治疗（但是一定要配备相关的感染科和儿科医生，承担儿童并发症的诊疗）。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "为了预防PCP，所有HIV感染母亲所生的婴儿在完成4\\~6周HIV预防治疗后应进行PCP预防，除非已排除HIV 感染。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "11.2 安全助产",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "对于已确定HIV感染的孕妇，主动提供预防艾滋病母婴传播咨询与评估，由孕产妇及其家人在知情同意的基础上做出终止妊娠或继续妊娠的决定。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "对于选择终止妊娠的HIV感染孕妇，应给予安全的人工终止妊娠服务，应尽早手术，以减少并发症的发生。对于选择继续妊娠的孕妇，应给予优质的孕期保健、产后母乳喂养等问题的咨询，并采取相应的干预措施。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "应当为HIV感染孕妇及其家人提供充分的咨询，告知住院分娩对保护母婴安全和实施预防HIV母婴传播措施的重要作用，帮助其及早确定分娩医院，尽早到医院待产。医疗保健机构应当为HIV感染孕产妇提供安全的助产服务，尽量避免可能增加HIV母婴传播危险的会阴侧切、人工破膜、使用胎头吸引器或产钳助产、宫内胎儿头皮监测等损伤性操作，减少在分娩过程中HIV 传播的概率。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "11.3 产后喂养指导 ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "应当对HIV 感染孕产妇所生儿童提倡人工喂养，避免母乳喂养，杜绝混合喂养。医务人员应当与HIV感染孕产妇及其家人就人工喂养的接受性、知识和技能、负担的费用、是否能持续获得足量、营养和安全的代乳品，及时接受医务人员综合指导和支持等条件进行评估。对于具备人工喂养条件者尽量提供人工喂养，并给予指导和支持；对于因不具备人工喂养条件而选择母乳喂养的感染产妇及其家人，要做好充分的咨询，指导其坚持正确的纯母乳喂养，且在整个哺乳期间必须坚持抗病毒治疗，喂养时间最好不超过6个月同时，应为HIV 感染孕产妇所生儿童提供常规保健、生长发育监测、感染状况监测、预防营养不良指导、免疫接种、艾滋病检测（包括抗体检测和早期核酸检测）等服务。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "11.4HIV阳性孕妇所生儿童的随访 ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "应在出生后6周以及3个月进行HIV核酸检测，进行HIV感染早期诊断。HIV抗体检测在出生后12个月和18个月进行。核酸检测阴性而18个月时抗体阳性的HIV暴露儿童需在出生后24个月再进行一次HIV抗体检测。为了检测服用预防感染药物的安全性，出生后需进行血常规及肝功能检查作为基线评估的依据，之后监测的时间间隔取决于基线时肝功能和血常规的数值、孕龄、新生儿的临床状况、AZT或NVP的剂量，以及其他药物的使用情况。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "11.5单阳家庭的生育选择",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "在男阴女阳家庭，在女方接受HAART且病毒载量已经控制的情况下可选择体外授精。在男阳女阴家庭选择捐赠精子人工授精可以完全避免HIV传播的风险。如果不接受捐赠精子，也可以在男方进行HAART达到持续病毒抑制后，可考虑在排卵期进行自然受孕。这种情况下夫妻间传染的概率极低[30]",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "HIV阳性的男方未达到病毒抑制而试图自然受孕时，HIV阴性的女方应在排卵期无套性交前、后各服用TDF/FTC（或者 $\\mathrm { T D F } { + } 3 \\mathrm { T C }$ ）1个月进行暴露前和暴露后预防。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "阳性一方接受HAART且病毒载量达到持续抑制是HIV单阳家庭备孕的关键，另外，为了提高受孕成功率，准确计算排卵期非常重要，可以寻求妇产科医生的帮助。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "如果病毒载量检测受限或不可及的情况下，建议进行HAART半年以上再进行受孕。这种情况下，建议寻求专家建议。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "12HIV暴露处理与预防阻断[31-32]",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "HIV暴露分为职业暴露和非职业暴露。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "12.1职业暴露",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "HIV职业暴露是指卫生保健人员或人民警察在职业工作中与HIV感染者的血液、组织或其他体液等接触而具有感染HIV的危险[33-34]",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "12. 1. 1 暴露源及其危险度",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "确定具有传染性的暴露源包括血液、体液、精液和阴道分泌物。脑脊液、关节液、胸水、腹水、心包积液、羊水也具有传染性，但其引起感染的危险程度尚不明确。粪便、鼻分泌物、唾液、痰液、汗液、泪液、尿液及呕吐物通常认为不具有传染性。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "暴露源危险度的分级：（1）低传染性：病毒载量水平低、无症状或高 $\\mathrm { C D 4 ^ { + } ~ T }$ 淋巴细胞水平；（2）高传染性：病毒载量水平高、艾滋病晚期、原发HIV感染、低 $\\mathrm { C D 4 } ^ { + }$ T淋巴细胞水平；（3）暴露源情况不明：暴露源所处的病程阶段不明、暴露源是否为HIV 感染，以及污染的器械或物品所带的病毒载量不明。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "12.1.2职业暴露途径及其危险度",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "发生职业暴露的途径包括暴露源损伤皮肤（刺伤或割伤等）和暴露源沾染不完整皮肤或黏膜。如暴露源为HIV感染者的血液，那么经皮肤损伤暴露感染HIV的危险性为 $0 . 3 \\%$ ，经黏膜暴露为 $0 . 0 9 \\%$ ，经不完整皮肤暴露的危险度尚不明确，一般认为比黏膜暴露低。高危险度暴露因素包括：暴露量大、污染器械直接刺破血管、组织损伤深。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "12.1.3 HIV职业暴露后局部处理原则",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "（1）用肥皂液和流动的清水清洗被污染局部;（2）污染眼部等黏膜时，应用大量等渗氯化钠溶液反复对黏膜进行冲洗；（3）存在伤口时，应轻柔由近心端向远心端挤压伤处，尽可能挤出损伤处的血液，再用肥皂液和流动的清水冲洗伤口；（4）用 $7 5 \\%$ 的酒精或 $0 . 5 \\%$ 碘伏对伤口局部进行消毒、包扎处理。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "12.1.4HIV职业暴露后预防性用药原则",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "（1）治疗用药方案：首选推荐方案为TDF/FTC $^ +$ RAL或DTG等INSTIs；根据当地资源，如果INSTIs不可及，可以使用PIs如 $\\mathrm { L P V / r }$ 和 $\\mathrm { D R V / r }$ ；对合并肾脏功能下降者，可以使用AZT/3TC。（2）开始治疗用药的时间及疗程：在发生HIV暴露后尽可能在最短的时间内（尽可能在 $^ { 2 \\mathrm { ~ h ~ } }$ 内）进行预防性用药，最好不超过 $\\overline { { 2 4 } } \\mathrm { ~ h ~ }$ ，但即使超过 $2 4 \\mathrm { ~ h ~ }$ ，也建议实施预防性用药。用药疗程为连续服用 $2 8 \\mathrm { ~ d ~ }$ 。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "2. HIV职业暴露后的监测",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "8发生HIV职业暴露后立即、4周、8周、12周和6个月后检测 HIV 抗体。一般不推荐进行HIVp24抗原和HIV RNA 测定。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "12.1.6预防职业暴露的措施 ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "一（1）进行可能接触患者血液、体液的诊疗和护理工作时，必须佩戴手套；（2）在进行有可能发生血液、体液飞溅的诊疗和护理操作过程中，医务人员除需佩戴手套和口罩外，还应带防护眼镜；当有可能发生血液、体液大面积飞溅，有污染操作者身体的可能时，还应穿上具有防渗透性能的隔离服；（3）医务人员在进行接触患者血液、体液的诊疗和护理操作时，若手部皮肤存在破损时，必须戴双层手套；（4）使用后的锐器应当直接放人不能刺穿的利器盒内进行安全处置；抽血时建议使用真空采血器，并应用蝶型采血针；禁止对使用后的一次性针头复帽；禁止用手直接接触使用过的针头、刀片等锐器；（5）公安人员在工作中注意做好自身防护避免被暴露。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "12.2非HIV 职业暴露",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "指除职业暴露外其他个人行为发生的HIV暴露。暴露评估及处理原则尤其是阻断用药与职业暴露相似。尤其注意评估后阻断用药是自愿的原则及规范随访，以尽早发现感染者。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "12.3合并HBV感染的暴露者注意事项",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "对合并HBV感染的暴露者，注意停药后对HBV相关指标进行监测",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "12. 4 暴露前预防 ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "暴露前预防的定义：当人面临很高的HIV感染风险时，每天服用药物以降低被感染的概率的措施行为。暴露前预防可降低高危人群感染HIV的风险。成人中，对于不持续使用安全套，可能感染HIV的高危人群应进行暴露前预防。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "13HIV感染的全程管理",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "抗病毒治疗的出现和应用将艾滋病变为一种可以治疗但目前尚难以彻底治愈的慢性疾病，HAART导致HIV相关机会性感染和相关性肿瘤大大减少，随着艾滋病患者生存期的延长，各种非HIV定义性疾病（non-AIDS-definingdiseases，NAD）如代谢综合征、心脑血管疾病、慢性肝肾与骨骼疾病以及非艾滋病定义性肿瘤的发病率呈上升趋势，这些疾病已经成为后HAART时代影响HIV感染者生存质量和预后的主要原因[35-38]。HAART 带来疾病谱的变化也相应改变着HIV感染者的诊治和关怀模式。HIV感染的全程管理是指HIV感染者在确诊后，多学科合作团队为其提供的一种全程综合诊治和服务关怀管理模式。全程管理的关",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "注环节主要包括：（1）HIV感染的预防和早期诊断；（2）机会性感染的诊治和预防；（3）个体化抗病毒治疗的启动和随访，服药的依从性教育和监督；（4）NAD的筛查与处理；（5）社会心理综合关怀。全程管理的诊治模式是一种以感染科医生主导的多学科诊治模式。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "13.1HIV感染的预防和早期诊断",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "为高危人群提供预防HIV感染的咨询服务，包括安全性性行为指导、暴露前预防和HIV暴露后预防的应用、为HIV感染者早期启动HAART等。推荐早期检测，提供包括核酸检测在内的检测咨询服务。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "13.2机会性感染的诊治和预防 ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "见机会感染部分。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "13.3个体化抗病毒治疗的启动和随访",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "服药依从性是决定抗病毒治疗成功的最关键因素，所以，任何情况下，均要先做好依从性教育再启动HAART。HIV感染者无论 $\\mathrm { C D 4 } ^ { + }$ T淋巴细胞计数水平的高低均推荐接受HAART，目前国内外指南尽管对",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "HAART的应用进行了规范，但在临床实践中部分HIV感染者抗病毒治疗后并未能取得预期效果。随着科学技术的发展，人们逐渐提出了个体化抗病毒治疗的概念。研究发现同一抗病毒药物在不同个体内血药浓度差异很大，有研究表明EFV每日 $6 0 0 ~ \\mathrm { { m g } }$ 的剂量情况下，有 $2 2 \\%$ 的患者的血药浓度仍不在治疗窗之内，这些患者出现抗病毒治疗失败或不良反应的风险升高[39]；有研究认为中国艾滋病人群尤其是体重低于60 kg 的患者服用 EFV 400mg 就可达到治疗效果[40]近年来，越来越多的降低抗病毒药物常用剂量的研究显示，降低剂量的抗病毒治疗方案在保留抗病毒疗效的同时降低了不良反应的发生率[4I]。WHO 抗病毒指南把 $3 0 0 \\mathrm { m g } \\mathrm { T D F } + 3 0 0 \\mathrm { m g } 3 \\mathrm { T C } + 4 0 0 \\mathrm { m g }$ EFV作为HAART选择方案之一[18]。尽管目前国外抗病毒治疗指南并没有强力推荐临床实践中需要进行个体化HAART，但是越来越多的研究显示其临床应用的价值和必要性。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "临床实践中应根据患者的病情、有无合并感染和肿瘤、基础疾病状况、药物之间相互作用、患者依从性 病毒耐药特点（尤其是当地人群中HIV耐药状况 药物可及性、药物耐药屏障及不良反应尤其是长期的不良反应等情况综合考虑后来制定HAART方案。目前临床常用的实施方法就是进行TDM，根据血药浓度来调整药物剂量，尽管目前并不推荐临床实践常规进行TDM，对于存在以下情况的患者建议进行TDM[16]：存在明显药物之间相互作用的治疗方案；存在明显的肝肾功能损害的患者；存在剂量相关性不良反应；药物剂量进行了调整的患者；依从性良好而抗病毒疗效差的患者；HAART风险高的孕妇。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "在治疗随访过程中，要注意观察药物的长期不良反应并根据情况来调整HAART方案或采取相应处理措施。全新作用靶点的INSTIs因其高效低毒，在临床广泛应用后表现出了良好的疗效和安全性，已成为国际艾滋病治疗指南中的首选推荐，有助于减少长期并发症如骨骼并发症、肝肾损害、代谢综合征等的发生。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "对于部分患者，可根据病情采用简化治疗，一般而言，如果患者在当前的抗病毒方案上达到病毒学抑制，不建议随意进行治疗方案的调整。在某些特定情况下可考虑进行方案调整，如：（1）通过减少药片数量和给药频率，简化治疗方案；（2）改善耐受性，减少短期或长期的毒性；（3）预防或减轻药物相互作用；（4）在妊娠期或者在可能发生妊娠的患者中，对",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "HAART进行优化；（5）降低治疗费用。转换治疗应当以维持病毒抑制为基础，并且不对未来的药物选择构成威胁。多个研究支持将以NNRTIs或PIs为基础的治疗方案转换至以INSTIs如DTG、RAL或 $\\mathrm { E V G } / \\mathrm { c }$ 为基础的方案时可以继续维持抗病毒疗效。两药简化治疗目前数据尚不充分，不推荐常规采用，国际指南目前仍推荐三药治疗为标准治疗方案，仅用于一些少见的临床情况，如对于病毒学成功抑制，无法耐受药物毒副作用的情况下，如存在TDF肝肾毒性、ABC超敏反应或者心血管风险等的患者，可以考虑选择含有INSTIs的两药方案，但应密切加强监测。目前有一定研究数据或临床经验支持的含INSTIs和PIs的简化方案有[16]：（1) $\\mathrm { D T G } { \\mathrel { + } } \\mathrm { R P V }$ ；(2) $\\mathrm { D T G } + 3 \\mathrm { T C }$ ；（3）DRV/r$+ \\mathrm { R A L }$ ；（4）PIs（ $\\mathrm { A T V / r }$ 、 $\\mathrm { L P V / r }$ 、 $\\mathrm { D R V / r }$ ） $+ 3 \\mathrm { T C }$ 。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "13.4非HIV定义性疾病的筛查与处理",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "HAART的应用把艾滋病变成一种慢性病，应该按照慢性病管理模式来进行随访和管理，随访中应注意评估和筛查NAD，并根据评估结果给予相应预防或治疗措施。HIV患者中各种慢性疾病如高血压、糖尿病、血脂紊乱、冠心病、脑血管疾病、非HIV相关肿瘤（尤其是肝癌、肺癌、乳腺癌、前列腺癌、结肠直肠癌等）、慢性阻塞性肺疾病（COPD）、非酒精性脂肪肝、骨骼疾病等均需按照HIV阴性者一样建立慢病管理档案并按照相关指南进行筛查和预防处理[17,38] ○随着HIV患者生存期的延长，应把对老年综合征的评估纳入HIV 综合关怀之中[42]。在每次随访中，应该对患者是否存在老年综合征进行评估，尤其应该对其心理精神状况、肾功能、心功能、骨骼、社会适应能等进行综合评估。应根据这些慢性疾病特点和分级诊疗要求来进行诊治，鼓励患者在综合医院相应专科门诊接受诊治。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "13.5社会心理综合关怀",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "为患者提供综合的关怀和服务[17]：心理健康筛查；健康生活方式指导(如戒烟)；生育指导；疫苗接种指导；HIV相关的神经认知功能障碍的筛查；旅行健康指导；舒缓医疗服务。均应按照相关指南或规范来进行。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "撰写组成员 (以姓氏笔画为序)",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "马萍 (天津市第二人民医院感染二科)王敏(长沙市第一医院艾滋病研究所)王辉 (深圳市第三人民医院感染一科)王福生 (解放军第三O二医院肝病生物治疗中心)",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "王福祥 (深圳市第三人民医院感染三科)  \n石荔 (西藏自治区人民医院感染科)  \n卢洪洲 (上海市公共卫生临床中心感染与免疫科)  \n叶寒辉 (福建医科大学孟超肝胆医院感染科)  \n白浪 (四川大学华西医院感染科)  \n吕玮 (北京协和医院感染内科)  \n朱彪(浙江大学医学院附属第一医院感染科)  \n刘水青 (贵阳市公共卫生临床中心感染一科)  \n刘燕芬(南宁市第四人民医院感染科)  \n江建宁 (广西医科大学第一附属医院感染病科)  \n孙永涛 (空军军医大学唐都医院感染科)  \n孙丽君（首都医科大学附属北京佑安医院感染中心）  \n李太生 (北京协和医院感染内科)  \n李勇(广西壮族自治区龙潭医院感染科)  \n李惠琴 (云南省传染病专科医院感染科)  \n吴昊（首都医科大学附属北京佑安医院感染中心）  \n何云 (深圳市第三人民医院感染一科)  \n何艳(中南大学湘雅二医院感染科)  \n何盛华(成都市公共卫生临床医疗中心感染科)  \n汪宁（中国疾病预防控制中心性病艾滋病预防中8 心）  \n沈银忠 (上海市公共卫生临床中心感染与免疫科)  \n宋玉霞 (新疆维吾尔自治区第六人民医院感染科)  \n张彤（首都医科大学附属北京佑安医院感染中心）  \n张福杰（首都医科大学附属北京地坛医院感染中心）  \n陈谐捷（广州市第八人民医院感染病中心）  \n陈雅红 (福建医科大学孟超肝胆医院感染科)  \n陈耀凯 (重庆市公共卫生医疗救治中心感染科)  \n林锋 (海南省人民医院感染科)  \n赵红心（首都医科大学附属北京地坛医院感染中心）  \n赵清霞 (河南省传染病医院感染一科)  \n徐小元 (北京大学第一医院感染科)  \n徐哲 （解放军第三O二医院感染病中心）  \n郭威（华中科技大学同济医学院附属同济医院感染科）  \n高福 (中国疾病预防控制中心)  \n唐小平（广州市传染病研究所）  \n蒋卫民 (复旦大学附属华山医院感染科)  \n蒋岩（中国疾病预防控制中心性病艾滋病预防中心  \n参比实验室)  \n喻剑华 (浙江中医药大学附属西溪医院感染科)  \n谢敬东(上海交通大学医学院附属瑞金医院感染科)  \n蔡卫平（广州市第八人民医院感染病中心）",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "魏洪霞 (南京市第二医院感染科)",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "学术秘书",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "吕玮、何云、沈银忠、陈谐捷 ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "［1］中华医学会感染病学分会艾滋病学组.艾滋病诊疗指南 第三版（2015版）［J]．中华临床感染病杂志，2015, 8: 385-401.   \n[2]World Health Organization.WHO HIV update：global epidemic and progress in scale up and policy uptake[EB/ OL].http://www.who.int/hiv/data/en/.   \n[3]World Health Organization.Global scientific leaders explore strategies to achieve the 90-90-90 targe [R/OL].http:// www.unaids.org/en/resources/presscentre/featurestories/2015/ july/20150722_90-90-90-target.   \n［4］吴尊友.我国艾滋病经性传播新特征与防治面临的挑战 [J]．中华流行病学杂志，2018，39：707-709.   \n［5］全国艾滋病检测技术规范（2015 年修订版）［J]．中国 病毒病杂志，2016，6：401-427.   \n[6］荆凡辉，吕玮,李太生.HIV 感染者免疫功能重建新视角： CD4/CD8比值［J]．中国艾滋病性病，2018，24： 643-646.   \n[7]Li Y,Han Y, Xie J,et al. CRFO1_ AE subtype is associated with X4 tropism and fast HIV progression in Chinese patientsinfected through sexual transmission [J].AIDS，2014, 28:521-530.   \n[8］Su B,Moog C.Which antibody functions are important for an HIV vaccine?［J].Front Immunol,2014，5：289.   \n[9]Panel onopportunistic infections in HIV-infectedadults and adolescents.Guidelines for the prevention and treatment of opportunistic infections in HIV-infected adults and adolescents：recommendations from the Centers for Disease Control and Prevention, the National Institutes of Health,the HIV Medicine Association of the Infectious Diseases Society of America [S/OL]. http:// aidsinfo.nih.gov/contentfiles/lvguidelines/adult_ oi.pdf.   \n10］卢洪洲.艾滋病及其相关疾病临床路径［M].第2版.上 海：上海科学技术出版社，2015.   \n11]Selwyn PA,Pumerantz AS，Durante A，et al. Clinical predictors of Pneumocystis carinii pneumonia,bacterial pneumonia and tuberculosis in HIV-infected patients [J].AIDS, 1998，12:885-893.   \n12]Hidalgo A,Falc6 V,Mauleón S,etal. Accuracy of high -res olution CT in distinguishing between Pneumocystis carinii pneumonia and non- Pneumocystis carinii pneumonia in AIDS patients「J].Eur Radiol，2003，13：1179-1184. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "[13]Roger PM,Vandenbos F，Pugliese P,et al.Persistence of Pneumocystis carinii after effective treatment of P.carinii pneumonia is not related to relapse or survival among patients infected with human immunodeficiency virus [J].Clin Infect Dis，1998，26：509-510. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "[14]Safrin S,Finkelstein DM，Feinberg J,et al.Comparison of three regimens for treatment of mild to moderate Pneumocystis carinii pneumonia in patients with AIDS.A double-blind, randomized,trial oforal trimethoprim-sulfamethoxazole，dapsone-trimethoprim，and clindamycin-primaquine.ACTG 108 Study Group[J].Ann Intern Med，1996，124：792-802.   \n[15］中华医学会感染病学分会艾滋病学组，中华医学会热带 病与寄生虫学分会艾滋病学组.HIV 合并结核分枝杆菌感 染诊治专家共识［J]．中华临床感染病杂志，2017，10： 81-90. Panel on Antiretroviral Guidelines for Adults and Adolescents. Guidelines for the use of antiretroviral agents in adults and adolescents living with HIV.Department of Health and Human Services[S/OL]. http://www.aidsinfo.nih.gov/ContentFiles/AdultandAdolescentGL.pdf. European AIDS Clinical Society.EACS Guidelines（Version 9.0）[S/OL].http://www.eacsociety.org/files/guidelines_ 9. 0-english. pdf. World Health Organization.Consolidated guidelines on the use of antiretroviral drugs for treating and preventing HIV infection :recommendations for a public health approach-2nd d [S/OL]. htp://apps. who.int/iris/bitstream/handle/10665/ $\\equiv$ B92D29DBD1158E8D25E207? sequence= 1. Chen J,Zhang R，Wang J,et al. Interferon-gamma release assays for the diagnosis of active tuberculosis in HIV-infected patients：a systematic review and meta-analysis [J].PLoS One，2011，6:e26827.   \n[20]Chen J,Sun J,Zhang R,et al. T-SPOT. TB in the diagnosis of active tuberculosis among HIV-infected patients with advanced immunodeficiency [J].AIDS Res Hum Retroviruses, 2011，27:289-294.   \n[21]Pappas PG，Kauffman CA，Andes DR，et al.Clinical practice guideline for the management of candidiasis：2016 update by the Infectious Diseases Society of America[J]. Clin Infect Dis，2016，62：e1-e50.   \n[22］刘正印，王贵强，朱利平，等.隐球菌性脑膜炎诊治专家 共识［J]．中华内科杂志，2018，57：317-323.   \n[23]World Health Organization.Guidelinesfor thediagnosis，prevention and management of cryptococcal disease in HIV-infected adults，adolescents and children[S/OL]. http://apps.who. int/is/istre/nd/15/63/9789. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "pdf；jsessionid $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 222011AFAADA560E12029F954CA43BCD？ se-quence $^ { = 1 }$ ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "[24]Boulware DR，Meya DB,Muzoora C,et al. Timing of antiretroviral therapy after diagnosis of cryptococcal meningitis [J]. N Engl J Med,2014，370:2487-2498.   \n[25］中国疾病预防控制中心性病艾滋病预防控制中心.国家 免费艾滋病抗病毒药物治疗手册［M].第3版.北京：人 民卫生出版社，2016.   \n[26]Guidelines for managing advanced HIV disease and rapid initiation of antiretroviral therapy［M].Geneva：World Health Organization，2017.   \n[27］李航，张福杰，卢洪洲，等.HIV 感染合并慢性肾脏病患 者管理专家共识［J]．中国艾滋病性病，2017，23： 578-581.   \n[28］张仁芳，沈杨，卢洪洲，等.AIDS 相关性淋巴瘤诊治专家 共识［J]．中国艾滋病性病，2017，23：678-682.   \n[29］国家卫生和计划生育委员会办公厅.国家卫生计生委办 公厅关于全面开展预防艾滋病、梅毒和乙肝母婴传播工 作的通知［S].2015-04-09.   \n[30]Panel on Treatment of HIV-Infected Pregnant Women and Prevention of Perinatal Transmission.Recommendations for use of antiretroviral drugs in pregnant HIV-1-infected women for maternal health and interventions to reduce perinatal HIV transmission in the United State [S/OL].htp://aidsinfo. nih.gov/contentfiles/lvguidelines/PerinatalGL. pdf.   \n[31]World Health Organization.Updated recommendations on firstline and second-line antiretroviral regimens and post-exposure prophylaxis and recommendations on early infant diagnosis of HIV: interim guidance [S/OL]. http://apps. who. int/iris/ bitstream/handle/10665/273632/WHO-CDS-HIV-18.18-eng. pdf? ua=1.   \n[32]U.S.Public Health Service Working Group. Updated U.S. Public Health Service guidelines for the management of occupational exposures to HIV and recommendations for post exposure prophylaxis $[ \\mathrm { { S / O L } ] }$ .https: //www.cdc. gov/mmwr/ preview/mmwrhtml/ $\\mathrm { ' r 5 4 0 9 a 1 }$ . htm.   \n［33］国家卫生和计划生育委员会办公厅．国家卫生计生委办 公厅关于印发职业暴露感染艾滋病病毒处理程序规定的 通知［S]．2015-07-08.   \n［34］国家卫生和计划生育委员会，人力资源社会保障部，安 全监管总局，等．国家卫生计生委等4部门关于印发 《职业病分类和目录》的通知［S]．2013-12-23.   \n[35]Smith CJ,Ryom L，Weber R,etal. Trends in underlying causes of death in people with HIV from l999 to 2011（D: A：D）：a multicohort collaboration［J]．Lancet，2014, 384: 241-248.   \n[36]Lebrun D,Hentzien M,Cuzin L,et al. Epidemiology of autoimmune and inflammatory diseases in a French nationwide HIV cohort [J].AIDS,2017，31：2159-2166.   \n[37]Worm SW,De Wit S，Weber R，et al.Diabetes mellitus, preexisting coronary heart disease，and the risk of subsequent coronary heart disease events in patients infected with human immunodeficiency virus：the data collection on adverse events of Anti-HIV drugs（D:A:D Study） ［J].Circulation, 2009，119：805-811.   \n[38] BowerM,PalfreemanA，Alfa-WaliM,etal.BritishHIVAssociation guidelines for HIV-associated malignancies 2014 [J].HIV Med,2014，15：1-92.   \n[39] MengX，YinK，WangJ，etal.EffectofCYP2B6 gene polymorphisms on efavirenz plasma concentrations in Chinese patients with HIV infection［J]．PLoS One，2015, 10：e0130583.   \n[40]Guo F，Cheng X，Hsieh E，et al.Prospective plasma efavirenz concentration assessment in Chinese HIV-infected adults enrolled in a large multicentre study［J].HIV Med, 2018.https：//onlinelibrary.wiley.com/doi/abs/10.1111/ hiv.126O7.［published ahead of print].   \n[41] CareyD,PulsR,AminJ,et al.Efficacy and safety of efavirenz 40O mg daily versus 600 mg daily:96-week data from the randomised,double-blind,placebo-controlled,non-inferiority ENCORE1 study［J].Lancet Infect Dis，2015，15： 793-802.   \n[42]GuaraldiG，Palella FJ.Clinical implications of aging with HIV infection：perspectives and the future medical care agenda［J].AIDS，2017，31：S129-S135. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "（收稿日期：2018-12-05)",
+        "page_idx": 22
+    }
+]

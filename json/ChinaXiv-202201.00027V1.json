@@ -1,0 +1,438 @@
+[
+    {
+        "type": "text",
+        "text": "111 公式章 1 节 1 Calibrating the linearity between grayscale and element content for X-ray KES imaging of alloys ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xiao-Lu $\\mathrm { J u } ^ { 1 . 2 . 3 }$ , Biao Deng², Ke $\\mathrm { L i } ^ { 2 }$ ,Fu-Cheng $\\mathrm { Y u } ^ { 1 . 2 . 3 }$ , Hai-Peng Zhang1 2.3,， Ming-Wei $\\mathrm { X u } ^ { 1 . 2 . 3 }$ , Guo-Hao $\\mathrm { D u } ^ { 2 }$ ,Hong-Lan $\\mathrm { X i e } ^ { 2 }$ ,Bin $\\mathrm { L i } ^ { 1 . 2 . 3 }$ ,Ti-Qiao Xiao1.2.3,\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Shanghai Institute of Applied Physics, Chinese Academy of Sciences, Shanghai   \n201800, China   \n2Shanghai Synchrotron Radiation Facility， Shanghai Advanced Research Institute,   \nChinese Academy of Sciences, Shanghai 201204, China   \n3University of Chinese Academy of Sciences, Beijing 10o049, China   \n\\* Corresponding author, xiaotiqiao@zjlab.org.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Doped elements in alloys significantly impact their performance. Conventional methods usually sputter the surface material of the sample, or their performance is limited to the surface of alloys owing to their poor penetration ability. The X-ray Kedge subtraction (KES) method exhibits great potential for the nondestructive in situ detection of element contents in alloys. However, the signal of doped elements usually deteriorates because of the strong absorption of the principal component and scattering of crystal grains. This in turn prevents the extensive application of X-ray KES imaging to alloys. In this study，methods were developed to calibrate the linearity between the grayscale of the KES image and element content. The methods were aimed at the sensitive analysis of elements in alloys. Furthermore, experiments with phantoms and alloys demonstrated that, after elaborate calibration, X-ray KES imaging is capable of nondestructive and sensitive analysis of doped elements in alloys. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: X-ray KES imaging; Grayscale calibration; Element analysis for alloy; Nondestructive imaging of elements ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The type,distribution， and content of elements in alloys signiticantly impacts their performance, including heat resistance [1-3], machinability [3,4], strength [1,3- 5],and plasticity [4,6]. Conventional techniques based on mass spectrometry or spectroscopy have been developed to quantify the elements, including laser ablation inductively coupled plasma mass spectrometry [7-9], time-of-flight secondary ion mass spectrometry[10], nanoscale secondary ion mass spectrometry[11], laser induced breakdown spectroscopy[12], and inductively coupled plasma atomic emission spectrometry[13]. However, spectroscopic methods are destructive analysis methods that usually require sputtering of the surface material of the sample for composition analysis, and their repeatability cannot be assured. Alternatively, nondestructive methods， including scanning electron microscopy (SEM)， transmission electron microscopy (TEM), and electron probe micro-analysis (EPMA),are used to determine the distribution of elements in alloys [5,14,15]. Owing to their limited penetration ability， these methods are limited to the surface of alloys. Furthermore，X-ray spectroscopy methods, such as energy dispersive X-ray fluorescence (EDXRF） and X-ray photoelectron spectroscopy (XPS),are also used to determine the elements in alloys [16,17]. The sensitivity of the X-ray spectroscopic methods is relatively high. However, XPS is limited to the surface of the sample to detect the excited electrons. X-ray fluorescence (XRF） spectroscopy has been extensively employed to analyze element content and distribution [18,19]. When combined with tomography, X-ray fluorescence tomography can image the three-dimensional distribution of elements in bulk samples [20-23]. In X-ray fluorescence imaging, pencil-beam scanning is usually employed to realize spatial resolution， which results in time-consuming data acquisition. Full-field X-ray fluorescence imaging was developed to obtain an element distribution image without beam scanning [24]. Owing to the extremely low flux of X-ray fluorescence,a long exposure time is required to accumulate a sufficiently high signal-to-noise ratio. With the aim of quick and efcient imaging of element distribution in alloys, an imaging strategy, which shows a significant difference around the K-edge of X-ray absorption with respect to specific elements, is a good candidate. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Λ-1ay Λ-tugt suvuavuul (ΛLb) lmagIg was piupuscu uy Javuvsul et ul. I 1953 [25]. This imaging technique can be used to perform full field, in situ, and rapid imaging. The KES method was successfully used to observe copper ion adsorption in polymer particles [26]. By illuminating the biomedical sampleswith two monochromatic beams at energies before and after the $\\mathbf { k }$ -edge of the element of interest, the KES method can realize real-time full-field imaging [27,28]. In principle, the grayscale of the KES image is proportional to the content of the element of interest, and it is commonly used to depict its spatial distribution. Bayat et al. used the gray value of KES imaging to observe the distribution of elements of interest and control the inhaled gas content in biological tissues via a ventilation device to realize quantitative functional lung imaging [29-31]. Elleaume et al. measured the concentration of the contrast agent based on the grayscale of the KES image together with the theoretical attenuation coefficient of the element of interest in a biomedical phantom [32]. Furthermore,when combined with tomography, the KES method was used for three-dimensional mapping of strontium in bone supplemented with theoretical analysis based on a priori information [33]. To date, most applications of KES for element evaluation are for biomedical samples,but seldom for alloys. In alloys， the principal component of alloys in a bulk sample dominates the X-ray absorption during KES imaging. Furthermore, scattering due to crystal grains in alloys contributes significantly to the deterioration of the signals generated from the doped elements. Hence, the signal-to-noise ratio of KES images of specific elements is severely deteriorated, and it is difficult to directly evaluate the element content based on the image grayscale. A variety of factors affect the precision of quantitative analysis based on the grayscale of the KES image. Specifically, noises, including photon shot noise, detector noise,and scattering noise, can reduce the signal-to-noise ratio of the KES image and affect the linearity between the element content and grayscale. This is especially prevalent in cases with low element content and small differences in mass absorption around the $\\mathbf { k }$ -edge of the element of interest. This effect is particularly significant for the applications of KES to alloys in which strong absorption usually leads to images with high degree of noise. Furthermore, subtraction between images acquired before and after K-edge introduces additional noise.Additionally, for the in-situ imaging of raw samples, the random thickness of the sample can result in inaccurate quantification of element content. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this study, a series of solutions were reported for the aforementioned problems involved in the application of KES imaging to alloys. Hence, the aim of the solutions is to eliminate the effect of factors that deteriorate the linearity between element content and grayscale. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 Principle and Methods ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 Grayscale of KES image ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "K-edge subtraction X-ray imaging (KES)，also termed as energy subtraction technology, is based on the relationship between the incident beam and transmitted beam [25]: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "23\\\\* MERGEFORMAT O ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where the mass absorption coefficients of elements are denoted as , penetration depth of X-rays across materials is denoted by ，and density of elements is denoted by . Furthermore, is the coordinate of the pixel of interest. As long as the projections are recorded linearly by an X-ray detector, the grayscale of the images is proportional to the intensity. As proposed by Lehmann et al. [34], the content of element in the sample, which is the product of density and depth, can be obtained by processing the two sets of images under energies that are slightly higher or lower than the K absorption edge of the element of interest: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$4 5 \\backslash *$ MERGEFORMAT ( ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where denotes the gray value captured by a charge-coupled device (CCD) after Xrays penetrate the sample. denotes the gray value resulting from the X-ray beam without the sample. The mass absorption coefficient of the elements is denoted as. The subscripts‘object’ and‘base’ indicate that the corresponding parameters are related to the element of interest or base,while $( + )$ and $( - )$ indicate the values for high-energy X-rays after the $\\mathbf { k }$ -edge of the element of interest and low-energy X-rays before the $\\mathbf { k }$ -edge of the element of interest, respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "According to Eq.5, to obtain the specific distribution of the element of interest, a series of parameters such as mass absorption coefficient of all elements in the sample should be known at the two energies. However, for a specific sample, the types of elements and their proportions are difficult to measure，and the introduction of a theoretical mass absorption coefficient will increase the error during data processing. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Therefore, a uniform background approximation was proposed² in which the absorption differences of elements of interest at two energies can be ignored. Accordingly, the specific distribution of the element of interest in the sample is as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "67\\\\* MERGEFORMAT O ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where denotes the difference in the attenuation coeffcient under two energies,and the numerator of Eq.7 denotes the grayscale of the KES image after uniform background approximation. Although the absorption difference under high and low energies for the elements, with the exception of the element of interest, can be ignored under the uniform background approximation, an optimized energy range should be selected during the data acquisition of KES experiments to maintain the attenuation difference of the element of interest. This is not affected by the elements that are not of interest. According to Eq.7, there is a linear relationship between the grayscale of the KES image after uniform background approximation and distribution of the element of interest in sample . ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To evaluate the image quality during data processing, the contrast-to-noise ratio (CNR) is introduced'5,and it can be expressed as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$8 9 \\backslash ^ { * }$ MERGEFORMAT O ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where denotes the average of the grayscale of the attenuation coefficient of the object area， denotes the average of the grayscale of the attenuation coefficient of the corresponding background area,，denote the standard deviations of the values in the corresponding region. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 Experimental setup ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The experiments were conducted at BL13W1， the X-ray Imaging and Biomedical Applications Beamline at the Shanghai Synchrotron Radiation Facility. The experimental setup is illustrated in Fig.1. X-ray beam was emitted from a wiggler source and then monochromatized by double-crystal monochromator to modulate the photon energy required by KES method, and the energy of the output X-ray beam is in the range of $8 { - } 7 2 \\ \\mathrm { k e V }$ [36].The X-ray detector Was a Hamamatsu Orca Flash 4.0s CMOS camera with $2 0 4 8 { \\times } 2 0 4 8$ pixels.When combined with the Hamamatsu AA40 optical transformation (1:1), the effective pixel size was $6 . 5 \\mu \\mathrm { m }$ . The field of view for the detector system was $1 3 . 3 ~ \\mathrm { m m } { \\times } 1 3 . 3 ~ \\mathrm { m m }$ ，which implies that the KES method can evaluate the element distribution in a relatively large area of the alloy samples. The detector was placed $6 . 5 \\mathrm { c m }$ downstream of the sample, and the exposure time for each projection was $5 0 \\mathrm { m s }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3d60d32654dc1cbd7de3eff988c35e3c8bae250585a983c2680f966d972b5d69.jpg",
+        "img_caption": [
+            "Fig.1 (Color online) Experimental setup for KES X-ray imaging. (a) Diagram of the experiment. (b) Picture of the experimental devices. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Before the experiments,calibration of the element of interest with a standard sample is required. Fig.1(b) shows an image of the experimental devices, in which the green arrow denotes the propagation direction of X-rays, and the red dotted box in the picture denotes the location of the sample. In alloy materials, the doping of Cu and $\\mathbf { A } \\mathbf { g }$ is related to their structure, density, strength,and shape. In the experiments,copper $\\mathrm { ( C u ) }$ and silver $( \\operatorname { A g } )$ were selected for the investigation. The attenuation coefficient curves of the standard samples of $\\mathrm { C u }$ and $\\mathbf { A } \\mathbf { g }$ elements were experimentally measured by scanning the photon energy from 8.8 to $9 . 2 \\mathrm { k e V }$ with a step of $1 0 \\ \\mathrm { e V }$ for $\\mathrm { C u }$ and from 25.3 to $2 5 . 5 \\ \\mathrm { k e V }$ with a step of $1 0 \\ \\mathrm { e V }$ for Ag. According to the attenuation coefficient curves we obtained, which are shown in Appendix A (Supplementary Information), the energies are selected for the subsequent experiments,i.e., $8 . 9 3 5 \\mathrm { k e V }$ and $9 . 0 0 5 \\mathrm { k e V }$ for the K-edge of $\\mathrm { C u }$ and $2 5 . 3 7 \\mathrm { k e V }$ and $2 5 . 4 3 \\mathrm { \\ k e V }$ for the K-edge of ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Ag. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3. Linearity calibration ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1 Different element content in one KES image ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The absorption coefficient of elements to X-rays is not always continuous with the change in the X-ray energy. When the X-ray energy reaches the value at which the electrons at different energy levels in the inner layer of the atom of the substance are excited， the substance exhibits a strong absorption of X-rays at that energy. Absorption saltation is a well-known K-edge of the element. Theoretically， the magnitude of the saltation of the element is linearly related to the density of the element of interest, i.e.，the amount of the element of interest in the optical path directly affects the saltation degree of the attenuation coefficient of the sample when the photon energy is scanned across the K-edge. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Standard samples with known element contents were prepared to investigate their linearity with the grayscale of the KES image. During sample preparation, $\\mathrm { C u S O _ { 4 } }$ solutions of different concentrations were injected into polyamides1010 sample tubes with inner and outer diameters of $0 . 5 \\mathrm { m m }$ and $1 \\mathrm { m m }$ ,respectively. In the CuSO4 solution model, Cu exists in the form of ions. Sample tubes filled with a solution of $\\mathrm { C u }$ elements were placed from left to right in the order of descending densities,which corresponded to $9 ~ \\mathrm { m g / m l }$ ， $8 ~ \\mathrm { m g / m l }$ . $7 ~ \\mathrm { m g / m l }$ ， $6 ~ \\mathrm { m g / m l }$ 0 $5 ~ \\mathrm { m g / m l }$ ，4 $\\mathrm { m g / m l }$ ， $3 \\mathrm { \\ m g / m l }$ ， $2 \\mathrm { \\ m g / m l }$ ， $1 \\mathrm { \\ m g / m l }$ ， $0 . 8 \\mathrm { \\ m g / m l }$ ，and $0 \\mathrm { \\ m g / m l }$ . During image acquisition, the full phantom was accurately adjusted into the shadow of the incident X-ray beam to ensure identical exposure conditions for all samples with different element content. As mentioned above,energies of $8 . 9 3 5 \\mathrm { k e V }$ and $9 . 0 0 5 \\ \\mathrm { k e V }$ were selected to record images before and after the K-edge of Cu. The KES image and related analysis are shown in Fig. 2. Figure2(a) shows the KES image of the Cu element content in the phantom. Specifically, background noise can be observed after K-edge subtraction， especially around samples with lower concentrations of Cu. Additionally, the shadow of the sample tubes remains in the subtracted image because of the slight movement of the X-ray beam during image acquisition. This results in additional noise for the quantitative analysis of element content. This implies that the linearity between grayscale and element content deteriorates with the existence of noise. In the case of alloys, there are always all types of crystals that exist inside the sample after various treatment procedures [37,38] and X-ray scattering of the randomly distributed crystals significantly contribute to a noisy background in the KES image. This implies that the elimination of the effect of noise is usually critical for the application of KES X-ray imaging to the analysis of element content in alloys. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/9f944b72e67b5ef12d1d71781498844e61e59233a33e04682ac47248da9746fc.jpg",
+        "img_caption": [
+            "Fig 2 (Color online) Cu content in a KES image: (a) element distribution in the eleven sample tubes, (b) grayscale distribution after attenuation by samples with different concentrations of $\\mathrm { C u }$ element, and (c） calibrated grayscale according to contrast to noise ratio of the KES image. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Figure 2(b) shows the grayscale distribution directly obtained from the KES images of samples with different concentrations of Cu.A linear fitting of the distribution was performed, and the coeficient of determination (COD, also denoted as $R ^ { 2 }$ ） was introduced to evaluate the linearity of the distribution. The linearity increases as $R ^ { 2 }$ is closer to 1. According to Fig.2(b)，it is clear that a positive correlation between the grayscale of the KES image and concentration of Cu can be observed, which shows the potential of KES imaging for the quantitative analysis of element contents with a large field of view when compared to conventional electron methods. Unfortunately， from the direct observation of Fig.2(b)， the variation of grayscale with element concentration evidently deviates from a linear distribution. The COD for the linear fitting is O.979. This implies that an overall deviation of $2 . 1 \\%$ occurs while the grayscale is employed to evaluate the element content.Hence, the accuracy of the KES method was limited to $2 . 1 \\%$ . Evidently, this accuracy is not sufficiently high for the application of the KES method to the identification of element distribution, especially for the cases where the content of elements of interest in alloys is lower than $2 . 1 \\%$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "As analyzed above, noise is the main factor that affects the linearity between the grayscale and element content. By normalizing the pixel grayscale of the element of interest with respect to the noises of the adjacent background, the effect of noise on the linearity can be eliminated. Recently， CNR was introduced to calibrate the nonlinearity of the original grayscale of the KES image.As shown in Eq.9, the signals were normalized with the standard deviation of the grayscale in the adjacent area. By substituting the original grayscale of the KES image with the corresponding CNR, a new image for the distribution of the element of interest is obtained as shown in Fig.2(c). As shown in Fig.2(c), the linearity of the distribution is improved by the CNR calibration. Linear fiting was also performed for further quantitative analyses. The COD for the CNR-calibrated grayscale was 0.995. This implies that the accuracy of the KES image for the evaluation of element content can be improved accordingly. It should be noted that the accuracy of the method does not indicate its resolution limit. Based on the experimental results, the sample with a concentration of $0 . 8 ~ \\mathrm { m g / m l }$ can be resolved via KES imaging. Accordingly, the sensitivity of KES was $8 \\times 1 0 ^ { - 4 }$ in this experiment. Based on the results of the experiment, the dynamic range of the KES imaging method was $8 { \\times } 1 0 ^ { - 4 } – 9 { \\times } 1 0 ^ { - 3 }$ . Furthermore, these results can provide a reference for the evaluation of other elements in alloys, such as Sn, Ag,Mo,and Au. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2 Element content in different KES images ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Based on the linearity in KES X-ray imaging, the gray value of the KES image of standard samples can be used as a benchmark to conduct quantitative analysis of the element of interest in real samples.However, before using this benchmark for real samples, the consistency of the linearity between the grayscale and element density should be verified in experiments of KES imaging for different samples. Furthermore, consistency is crucial for the application of this method to the testing of multiple samples. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "For quantitative analysis,phantoms with standard samples were prepared to verify the effect of different experiments. To confirm the applicability of the method to other elements,another type of $\\mathrm { A g }$ was used in the experiments. Similarly, standard samples with different concentrations of $\\mathrm { A g N O } _ { 3 }$ solution filled into polymethyl methacrylate sample tubes (inner/outer diameter of $2 . 0 \\ : \\mathrm { m m } / 3 . 0 \\ : \\mathrm { m m }$ ）wereused.Three types of phantoms composed of four standard samples were designed for verification. The concentration of the standard samples was sequenced in an ascending order in the phantoms. However, the two standard samples in different phantoms were of the same concentration for the sake of comparison between different experiments. The results for the consistency evaluation of the different experiments are shown in Fig. 3.As shown in Fig.3(a), the KES images of the three phantoms are arranged in ascending order of $\\mathrm { A g }$ concentrations. From left to right, the correspondent concentrations of ${ \\bf A g N O } _ { 3 }$ were $0 . 4 ~ \\mathrm { m g / m l }$ . $0 . 6 ~ \\mathrm { m g / m l }$ ， $0 . 8 ~ \\mathrm { m g / m l }$ ，and $1 ~ \\mathrm { m g / m l }$ for phantom No.1;1 $\\mathrm { m g / m l } , 2 \\ \\mathrm { m g / m l } , 4 \\ \\mathrm { m g / m l }$ ，and $6 ~ \\mathrm { m g / m l }$ for phantom No.2; $6 ~ \\mathrm { m g / m l }$ ， $8 ~ \\mathrm { m g / m l }$ ，10 $\\mathrm { m g / m l }$ and $0 \\mathrm { m g / m l }$ for phantom No.3. According to Fig.3(a), the standard sample of water without $\\mathbf { A } \\mathbf { g }$ is not depicted in the KES image. This confirmed that the grayscale of the KES image solely contributes by the element of interest. The grayscale of the KES image decreased correspondingly with a lower concentration of Ag in the solution. Furthermore, the standard sample was revealed for the lowest concentration of $0 . 4 \\mathrm { m g / m l A g N O _ { 3 } }$ . This implied that the detection limit of KES imaging is less than $4 \\times 1 0 ^ { - 4 }$ for the element of interest of Ag. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/307672aac1e43b04c985b9f50f9ff7fbb0f69c35006638c95381b05bc7c3a666.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 (Color online） Consistency evaluation of different experiments. (a） KES images of Ag arranged in an ascending order of concentration for the three phantoms. (b) Original grayscale of KES images and its calibrated value corresponding to the location of standard samples with different concentrations of Ag. (c） Calibrated grayscale with respect to Ag element content with a linear fitting. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "An essential step for the KES image corresponds to the switch of energies before and after the K-edge of the element of interest. At the beamline of a synchrotron facility,a double-crystal monochromator is typically used to monochromatize and modulate the photon energy of X-rays. Given the hysteresis error of the monochromator and beam shift effect, it is difficult to precisely maintain the same Xray beam for different experiments. The vertical profile of an $\\mathrm { \\Delta X }$ -ray beam from a synchrotron facility normally exhibits a Gaussian distribution. Usually, the output direction of the X-ray beam at the two energies of the K-edge deviates slightly from each other. The subtraction of the two images leads to a one-way tilting background in the resulting image. Consequently, the pointing error of the incident X-ray beam leads to an increase in the entire grayscale distribution of the KES image. The beam intensity fluctuation among the experiments can result in a deviation of zero position in different KES images.Before the effects of the beam tilting and zero position drift were calibrated, it was difficult to evaluate the element content based on the grayscale distribution of the KES images in multiple experiments. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Figure 3(b) shows the grayscale distribution along the pixels in the KES images. The distribution of the original grayscale is shown by the blue line in Fig.3(b). It is evident that the baseline of the profiles of the KES images is tilted from the horizon line,and the slope of the incline varies from different experiments.Furthermore, the grayscale for standard samples with the same concentration in different phantoms differs from each other, especially for samples with higher content of elements of interest. Ideally, the baseline of the grayscale profiles should be horizontal. First, the rotation transformation in the coordinate system was implemented for each profile according to its slope value. Then, the calibrated baselines were reset to the zero position. After these two calibration processes,the grayscale profiles of the three phantoms are shown by the red line in Fig.3(b). As shown in Fig.3(b), it is obvious that the grayscale for samples with the same concentration in different phantoms becomes equal to each other after calibration. Additionally,a linear correlation between the grayscale and element content was observed in each phantom. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "For further quantitative analysis, the grayscale statistics of all samples in the three phantoms with respect to element content is conducted as shown in Fig.3(c). Then, a linear fitting was implemented for this distribution,and a high fitting degree was realized with a COD value of O.994. This implies that after calibration, the linearity between the grayscale and element content remained even though the KES image was considered in different experiments. Therefore, the element evaluation of multiple samples using the developed KES imaging method was feasible. Accordingly, the accuracy for the evaluation of the element content based on the grayscale of the KES image was $0 . 6 \\%$ . Based on the standard samples used in the experiments, the content resolution of the method was $2 \\times 1 0 ^ { - 4 }$ with a lower limit of $4 \\times 1 0 ^ { - 4 }$ . The theoretical mass absorption coefficient of some typical elements around K-edge are shown in Appendix B (Supplementary Information) and the values of the resolution and lower limit indicated that the linearity in the KES X-ray imaging method applies to a variety of doping elements in alloys. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.3 Alloy sheet with uneven thickness ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "A strong absorption effect must be considered for alloy samples. Accordingly, the X-ray energy around the K-edge of the element of interest should be sufficiently high to ensure acceptable transmission. Element Ag was selected for the experiments. It is well known that in a typical lead-free solder of Sn-Ag-Cu alloys, the growth and distribution of $\\mathrm { A g } _ { 3 } \\mathrm { S n }$ affect the mechanical properties of the alloy and fatigue life of the solder joint [1]. Moreover, the Ag content affects the formation of $\\mathrm { A g } _ { 3 } \\mathrm { S n }$ Therefore, a quantitative evaluation of the element content and distribution of $\\mathrm { A g }$ in lead-free solder is important. Considering the effect of strong absorption,an alloy sheet was used in the experiments.During sample preparation, the lead-free solder of M705(HIROSAKI) model containing $3 \\%$ silver was flattened to a sheet from a cylinder with a diameter of $0 . 3 ~ \\mathrm { m m }$ . The detector used for the data acquisition was composed of $2 0 4 8 \\times 2 0 4 8$ pixels CMOS detector from HAMAMATSU (model: ORCA-Flash 4.0 C11440), and an optical conversion system using an Optique Peter (model: MICRX016). The basic pixel size of this CMOS detector was $6 . 5 \\mu \\mathrm { m }$ ，which was 1O times the optical magnification, and the actual pixel size was $0 . 6 5 ~ { \\mu \\mathrm { m } }$ This allows for evaluation with a higher spatial resolution of the element distribution in the ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "alloys. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/0cd77d97dc0bf1321608112f3deff72d28b7dc39f6e9244cab4a42c66e6dc064.jpg",
+        "img_caption": [
+            "Fig 4 (Color online) KES imaging of lead-free solder. (a) KES image of element Ag in lead-free solder. (b) Surface plot of the grayscale of the image shown in (a). (c) Absorption image of lead-free solder at $2 5 . 4 3 \\mathrm { \\ k e V . }$ (d) The corresponding grayscale of the image shown in (c). "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 shows the results of KES imaging of $\\mathrm { A g }$ in the alloy sheet of lead-free solder, which is realized by subtracting the image acquired at $2 5 . 4 3 \\mathrm { k e V }$ from that at 25.37 keV and after calibration (Fig.4(a)). The comparison before and after calibration is shown in the Appendix C (Supplementary Information). The surface plot of the grayscale of the image shown in Fig.4(a) is shown in Fig.4(b). Based on the principle of the KES image, the grayscale value is proportional to the line integral of the linear coefficient for the element of interest. This implies that the integral path, e.g., the thickness of the sample, affects the results of the line integral, and this effect should be eliminated before it is employed to evaluate the content of the element. Furthermore, to show the effect of sample thickness, the absorption image of lead-free solder at $2 5 . 4 3 \\mathrm { \\ k e V } ,$ ， an energy point just above the K-edge of Ag, is provided in Fig.4(c). It should be noted that the images were spliced from the results of two separate measurements. As shown in Fig.4(a) and Fig.4(c), the border between the two spliced images is difficult to determine.Additionally, image splicing does not lead to an abnormal distribution of grayscales as shown in Fig.4(b) and Fig.4(d). This implies that it is feasible to extend the field of view (FOV) by splicing images of multiple measurements. In this experiment, FOV for KES imaging is $1 . 3 3 \\ \\mathrm { m m } \\times 2 . 6 6$ mm at a pixel size of $0 . 6 5 ~ { \\mu \\mathrm { m } }$ ，which is a large FOV when compared to the electronbased in-situ methods while maintaining high spatial resolution. The ability to analyze the sample in a large FOV is beneficial for the evaluation of the uniformity of element distribution in a large range of alloy sheets. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Figure 4(b) shows a surface plot of the grayscale in Fig.4(a). Based on the linearity between the grayscale and element content in KES imaging, the results shown in Fig.4(b) denote the actual content distribution of $\\mathrm { A g }$ in the flattened leadfree solder. A sinusoidal distribution in the cross section of the alloy sheet can be observed. The element content obtained by KES imaging is the additive effect of the element concentration and sample thickness at the point of concern. Rosin is usually injected into the hollow cylinder of an alloy to aid soldering. During sample preparation， the rosin was squeezed to two sides，and the thickness of the alloy material was correspondingly reduced. Therefore, a sinusoidal distribution of Ag in Fig.4(b) was obtained. For a conventional lead-free solder, the doping concentration of Ag is completely even as a whole, and the distribution fluctuation is minute. This implies that thickness variation dominates the distribution of element content. This deduction is confirmed by the grayscale distribution of the absorption image collected at an X-ray energy of $2 5 . 4 3 \\mathrm { k e V } ;$ ，which is higher than the K-edge of Ag. As shown in Fig.4(d)， the grayscale distribution is similar to that shown in Fig.4(b). When compared to Fig.4(d)， the distribution in Fig.4(b) shows higher degree of noise, especially at the locations with thicker alloy materials. This implies that noise is also a factor that affects the evaluation of element distribution in alloys. Before calibrating the effects of thickness and noise,it is difficult to quantitatively analyze the characteristics of the distribution of the elements of interest. ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/f6d9a7a4debbd57121e47d07d0829e3f769bd8cd48a8b29dae92392589fccff8.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Fig. 5 (Color online) Distribution characteristics of element Ag in the alloy sheet with normalized sample thickness. (a) KES image with noises. (b) Surface plot of the concentration distribution of the element of interest in the sample shown in (a). (c) CNR image with the effect of noises eliminated. (d) Surface plot of the concentration distribution of the element of interest in the sample shown in (c). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "By normalizing Fig.4(a) with Fig.4(c), the effect of sample thickness can be eliminated, and the distribution characteristics of the element of interest are realized as shown in Fig. 5. According to Fig.5(a) and 5(b)， the sinusoidal distribution dominated by the effect of the alloy thickness is removed. The content distribution of the element of interest normalized with thickness reveals the concentration fluctuation in the alloy sheet. This is pivotal for evaluating the quality of the alloy. The background of the image is quite noisy as per the direct observation in Fig.5(a). This is also confirmed by Fig.5(b), in which the signals representing the content of the element of interest are submerged in a noisy background. As demonstrated in Sect. 3.1,CNR is introduced to reduce the effect of noise,and the results are shown in Fig.5(c) and 5(d). As shown in Fig.5(c), the noisy background is efficiently depressed. Figure 5(d) shows the surface plot of the concentration distribution of Ag in the leadfree solder alloy. Based on Fig.5(d), the distribution of Ag content fluctuates above or below an average with a limited amplitude. This implies a fairly uniform distribution of $\\mathbf { A } \\mathbf { g }$ in the solder. Based on the noise-free distribution, the cluster phenomenon is explicitly revealed in the alloy sheet. As previously indicated, local agglomeration affects the fatigue life of the solder joint. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "To quantitatively verify this effect, the average and standard deviation of the $\\mathrm { A g }$ concentration shown in Fig.5(d) are determined, and the value is $0 . 0 4 2 8 { \\scriptstyle \\pm 0 . 0 0 1 1 }$ .This implied that the relative deviation of the concentration is $2 . 5 7 \\%$ . Overall， the uniformity of the Ag distribution in the lead-free solder was fairly good. However, the local agglomeration of $\\mathrm { A g }$ in the solder was related to the mechanical properties of the alloy and fatigue life of the solder joint. Therefore, the local anomalous distribution of Ag was investigated in further detail. ",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/7320107dd326e644091a279b0eb6efdbecd723fdc0f3e7e63b9010786c424d01.jpg",
+        "img_caption": [
+            "Fig. 6 Abnormal agglomeration of Ag in the alloy sheet. (a) Masses with concentration distribution higher than ; (b) Masses with size larger than twice of the average dimension along with concentration distribution exceeding. "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In engineering applications, the deviation of parameters by more than twice the standard deviation is usually considered abnormal. The abnormal agglomeration of Ag is shown in Fig.6(a)，which refers to regions of Ag agglomeration with a concentration deviation exceeding twice the standard deviation. According to Fig.6(a), the distribution of the areas for the abnormal agglomeration of Ag is mainly localized in the central part of the lead-free solder. The maximum size of the agglomeration is approximately .In the case of solders, agglomeration of the element of interest does not directly affect the solder joint because of the remelting process of the solder during welding. However, agglomeration with a unique size exhibits a high probability of contributing directly to its performance. In this sense, the critical value for a unique size is defined as two times larger than the average size corresponding to ，and the agglomeration is shown in Fig.6(b). This is representative of a typical distribution of the abnormal agglomeration. Accordingly, the mass number of $\\mathrm { A g }$ agglomerations, with a concentration deviation exceeding twice the standard deviation and size exceeding twice the average size, is 78. Hence, this can potentially contribute ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "to the fatigue life of solder joints. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4 Conclusion ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The doped elements in alloys significantly impact their performance， and conventional methods, including destructive methods, such as mass spectrometry, optical spectroscopy, and nondestructive methods of electron-based microscopy, have been extensively applied for element analysis in alloys. However, all the aforementioned methods usually require sputtering of the surface material of the sample for composition analysis or they are limited to the surface of alloys owing to their poor penetration ability. By exploiting the high penetration of X-rays, the X-ray K-edge subtraction method, which uses the grayscale of KES images to evaluate the content of the element of interest, exhibit high potential for nondestructive in situ detection of element content in alloys. However, factors, including X-ray scattering in alloys, weak signal of doped elements in a strong absorption background, and energy modulation of monochromatic X-ray beams, usually severely affect the linearity between grayscale and element content. Therefore, the application of the KES method for element analysis in alloys is limited.In this study, methods were developed to calibrate the linearity between the grayscale of the KES image and content of the element of interest for the aim of promoting the applications of KES imaging for element analysis in alloys. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "X-ray scattering and weak signals of doped elements in a strong absorption background prevent KES imaging from sensitive detection of the doped elements in alloys. CNR-based analysis, as opposed to grayscale of KES images, was proposed to calibrate the effect of noise on the measurement efficiency. The experimental results of a phantom with element Cu demonstrated that after normalization of grayscale in the KES image with the adjacent noisy background, the value of CNR is linearly related to the content of the element of interest. This implies that an elaborate calibration of the noises can lead to the application of the CNR-based KES method for element analysis in alloys. Currently， KES imaging of element distribution is a relative measurement. Accordingly, the consistency in the measurements of multiple samples is critical for the application of KES imaging to element analysis in alloys. Targeted approaches have been developed to calibrate the discrepancies between different measurements. Three phantoms with a series of standard samples were specially designed, and the experimental results of the phantoms verified that the linear coefficient remained the same after elaborate calibrations. The experimental results indicated that the lower limit of KES imaging for the content evaluation of $\\mathrm { A g }$ （204号 is $4 \\times 1 0 ^ { - 4 }$ . Hence, the applicability of KES imaging for multiple measurements of element content in alloys is established. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "An alloy sheet of lead-free solder with uneven thickness was used as the test sample for the KES imaging method. The splicing of two adjacent areas was conducted to validate the consistency in different measurements by extending the field of view of KES imaging for element distribution in alloys. The uneven thickness of the sample usually dominates the content of the element of interest, and it is difficult to reveal the abnormal distribution of the elements in alloys based on the primary grayscale of KES images. An absorption image collected at the upper energy of the Kedge was introduced to normalize the effect of thickness. The results demonstrated that a discrepancy in the distribution for the element of interest was revealed after an elaborate calibration. Furthermore， based on quantitative analysis,an anomalous distribution of the element of interest due to local agglomeration was located. Hence, based on the developed calibrating approaches, it can be concluded that X-ray KES imaging is capable of nondestructive and rapid screening of doped elements in alloys. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The authors are grateful to Ya-Nan Fu, Han Guo, Guan-Yun Peng, Fen Tao, Ling Zhang,and Hang Jiang for their assistance and fruitful discussions on experiments and data processing. Furthermore, the authors are grateful to Ling-Yu Feng, Hui Lu, and Peng-Yuan Qi for their guidance in sample preparation. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Authorcontributions ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Ti-Qiao Xiao conceived this research. Xiao-Lu Ju,Ti-Qiao Xiao, Biao Deng, Honglan Xie contributed to the study design. Material preparation,data collection and analysis were performed by Xiao-Lu Ju, Biao Deng, Ke Li, Fu-Cheng Yu and Ti-Qiao Xiao. Xiao-Lu Ju and Ti-Qiao Xiao wrote the first draft of the manuscript. All authors read and approved the final manuscript. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Funding ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Key Research and Development Program of China（Nos．2017YFA0403801，2017YFA0206004，2018YFC1200204） and the National Natural Science Foundation of China (NSFC) (Nos. 81430087,11775297, U1932205). ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "1. S.K. Kang, W.K. Choi, D.Y. Shih et al., Ag3Sn plate formation in the solidification ofnear-ternaryeutecticSn-Ag-Cu. JOM. 55, 61-65 (2003). http://doi.0rg/10.1007/s11837-003-0143-6   \n2. S.K. Kang, D.Y. Shih, D.L. Donald et al., Controlling $\\mathrm { A g } 3 \\mathrm { S n }$ plate formation in near-ternary-eutectic Sn-Ag-Cu solder by minor Zn alloying. JOM. 56， 34 (2004). http://doi.0rg/10.1007/s11837-004-0108-4   \n3. L.J. Ru, W.Y. Li, W.S.Li et al., Effects of Tace Cerium Addition on Microstructure and Properties of $C u 0 . 9 \\%$ Cr Alloy. J.Chinese Rare Earth Soc. 36, 106-111 (2018). http://doi.0rg/10.11785/S1000-4343.20180512   \n4. S.T. Ma, X. Che, Y. Wang et al., Tensile properties at room and low temperatures of solid-solution treated and aged al-8Zn-2.5Mg-1.5Cu(-0.15Y)alloys. Heat Treat Met. 44, 174-178 (2019). http://doi.0rg/10.13251/j.issn.0254-6051.2019.02.032 (in Chinese)   \n5. C. Yu, D.F. Yin, Effects of trace Ce on strengthening and fracture mechanisms of Al-Li-Cu-Mg-Ag-Zr alloy. Mining and Metallurgical Engineering 33， 116-119 (2013). http://doi.0rg/10.3969/j.issn.0253-6099.2013.02.030 (in Chinese)   \n6. B.P. Huang, Z.Q. Zheng, Independent and combined roles of trace Mg and Ag additions in properties precipitation process and precipitation kinetics of Al-CuLi-(Mg)-(Ag)-Zr-Ti alloys. Acta Mater. 46, 4381-4393 (1998). http://doi.0rg/10.1016/S1359-6454(98)00079-2   \n7. Q.H. Luo, H.Z. Wang, Elemental Quantitative Distribution and Statistical Analysis on Cross Section of Stainless Steel Sheet by Laser Ablation Inductively Coupled Plasma Mass Spectrometry. J. Iron Steel Res. Int. 22, 730-737(2015). http://doi.0rg/10.1016/S1006-706X(15)30064-9   \n8. V. Karki, M. Singh, Quantitative depth distribution analysis of elements in high alloy steel using MCs ${ . + }$ -SIMS approach. Int. J. Mass Spectrom. 430， 22-30 (2018). http://doi.0rg/10.1016/j.ijms.2018.04.001   \n9.A. Sussulini， J.S. Becker, J.S. Becker, Laser ablation ICP-MS:Application in biomedicalresearch. MassSpectrom Rev. 36, 47-57 (2017).   \n10.C. Bich, D. Touboul, A. Brunelle, Biomedical studies by TOF-SIMS imaging. Biointerphases 10, 018901 (2015). http://doi.0rg/10.1116/1.4901511   \n11. J. Nunez,R. Renslow, J.B. CliffII et al., NanoSIMS for biological applications: Current practices and analyses. Biointerphases13，O3B301 (2018). http://doi.0rg/10.1116/1.4993628   \n12.A. Sarkar, V. Karki, S.K. Aggarwal et al., Evaluation of the prediction precision capability of partial least squares regression approach for analysis of high alloy steel by laser induced breakdown spectroscopy. Spectrochim Acta B 108， 8-14 (2015). http://doi.0rg/10.1016/j.sab.2015.04.002   \n13.Y. Ishibashi， Rapid Analysis of steel by ICP-AES and ICP-MS with Laser Ablation Solid Sampling.ISIJ. Int. 42， 137-139 (2002). http://doi.org/0915- 1559(2002)1:2002<137:RAOSBI>2.0.TX;2-2   \n14. X.Y. Wei, Y.G. Zheng, Y.S. Zhang et al., Effect of microstructure and element distribution on erosion - corrosion behaviour of an iron base cast alloy. Acta Metall Sin. 030, 91-96 (1994). http://doi.0rg/10.1007/BF02943514   \n15. D.B. Kong, C.Q. Li, Formation mechanism of W( Al8 Cu4 Sc) phase in Al-Cu-LiSc alloy with high Cu content. Heat Treat. Met. 45， 66-70 (2020). http://doi.0rg/10.13251/j.issn.0254-6051.2020.02.012   \n16. M.K. Tiwari, A.K. Singh, K.J.S. Sawhney, Analysis of stainless steel samples by energy dispersive X-ray fluorescence (EDXRF) spectrometry. Bull. Mater. Sci. 24, 633-638 (2001). http://doi.0rg/10.1007/BF02704012   \n17. M. Kilo,M. Hund, G. Sauer et al.，Reaction induced surface segregation in amorphous CuZr, NiZr and PdZr alloys—an XPS and SIMS depth profiling study. J Alloy Compd. 236, 137-150 (1996). http://doi.0rg/10.1016/0925- 8388(95)02143-4   \n18. C.L. Luke, Determination of trace elements in inorganic and organic materials by X-ray fluorescence spectroscopy. Anal Chim Acta. 41， 237-250 (1968). http://doi.0rg/10.1016/S0003-2670(01)80392-5   \n19. N.M. Kebonye，K. John， S. Chakraborty et al.， Comparison of multivariate methods for arsenic estimation and mapping in floodplain soil via portable X-ray fluorescence spectroscopy. Geoderma. 384， 114792 (2021). http://doi.0rg/10.1016/j.geoderma.2020.114792   \n20.B. Deng, Q. Yang, H.L. Xie et al., First X-ray fluorescence CT experimental results at the SSRF X-ray imaging beamline. Chinese Phys. C 35， 402-404 (2011). http://doi.0rg/10.1088/1674-1137/35/4/015   \n21. Q. Yang, B. Deng, W.W. Lv et al., Fast and accurate X-ray fluorescence computed tomography imaging with the ordered-subsetsexpectation maximization algorithm. J Synchrotron Radiat. 19, 210-215 (2012). http://doi.0rg/10.1107/S0909049511052253   \n22. P.F. Sun, B. Deng, G.H. Du et al., Nondestructive rare earth element imaging of fish teeth from deep-sea sediments. X-Ray Spectrom. 44， 442-446 (2015). http://doi.0rg/10.1002/xrs.2624   \n23. P.F. Sun, B. Deng, Q. Yang et al.,An accelerated OSEM reconstruction algorithm using an accelerating factor for X-ray fluorescence tomography. Nuclear Techniques 38, 32-37 (2015).http://doi.0rg/10.11889/j.0253- 3219.2015.hjs.38.060201 (in Chinese)   \n24. B.Deng, G.H. Du, G.Z. Zhou et al., 3D elemental sensitive imaging by full-field XFCT. Analyst. 140, 3521-3525 (2015). http://doi.0rg/10.1039/c4an02401j   \n25.B. Jacobson， Dichromatic Absorption Radiography. Dichromography. Acta Radiol. 39, 437-452 (1953). http://doi.0rg/10.3109/00016925309136730   \n26. R.Y. Guo, H.J. Ma, Y.L. Xue et al., K-Edge Digital Subtraction X-Ray Imaging for Observation of $\\mathrm { C u } ^ { 2 + }$ Adsorption in Polymer Particles.Acta Optica Sinica 30, 2898-2903 (2010). http://oi.0rg/10.3788/AOS20103010.2898   \n27. T. Takeda, Y. Itai, H. Yoshioka et al., Synchrotron radiation cine K-edge energy subtraction coronary arteriography using an iodine filter method. Med. Biol. Eng. Comput. 32, 462-468 (1994). http://doi.0rg/10.1007/BF02524704   \n28.A. Suwa, H. Fukagawa, K. Suzuki et al., X-Ray K-Edge Subtraction Television System.JapJ.Appl1 Phys. 27, 1989-1996 (2014). http://doi.0rg/10.1143/JJAP.27.1989   \n29. S. Bayat, G.L. Duc, L. Porra et al., Quantitative functional lung imaging with synchrotron radiation using inhaled xenon as contrast agent. Phys. Med. Biol. 46, 3287-3299 (2001). http://doi.0rg/10.1088/0031-9155/46/12/315   \n30. S. Monfraix, S. Bayat, L. Porra et al., Quantitative measurement of regional lung gas volume by synchrotron radiation computed tomography. Phys. Med. Biol. 50, 1-11 (2005). http://doi.0rg/10.1088/0031-9155/50/1/001   \n31.L.Porra,L. Degrugilliers,L. Broche et al.， Quantitative Imaging of Regional Aerosol Deposition, Lung Ventilation and Morphology by Synchrotron Radiation CT. Sci Rep-UK. 8, 3519 (2018). http://doi.0rg/10.1038/s41598-018-20986-x   \n32. H. Elleaume，A.M. Charvet， S. Corde et al.， Performance of computed tomography for contrast agent concentration measurements with monochromatic X-ray beams: comparison of K-edge versus temporal subtraction. Phys. Med. Biol. 47, 3369-3385 (2002). http://doi.0rg/10.1088/0031-9155/47/18/307   \n33.D.M.L. Cooper, L.D. Chapman, Y. Carter et al., Three dimensional mapping of strontium in bone by dual energy K-edge subtraction imaging. Phys. Med. Biol. 57, 5777-5786 (2012). http://d0i.0rg/10.1088/0031-9155/57/18/5777   \n34.L.A. Lehmann, R.E. Alvarez, A. Macovski et al., Generalized image combinations indual KVP digital radiography. Med. Phys. 8， 659-667 (1981). http://doi.0rg/10.1118/1.595025   \n35. G.Lovric, S.F. Barre, J.C. Schittny et al., Dose optimization approach to fast Xray microtomography of the lung alveoli. J. Appl. Crystallogr. 46, 856-860 (2013). http://doi.0rg/10.1107/S0021889813005591   \n36.H.L. Xie, B. Deng, G.H. Du et al., Methodology development and application of X-ray imaging beamline at SSRF. Nucl. Sci. Tech.31，102 (2020). http://doi.0rg/10.1007/s41365-020-00805-7   \n37. T.M. Tong, J.J. Xu, T.Q. Xiao et al., Evolution of dendrite morphology of a binary alloy under an applied electric current: An in situ observation. Phys. Rev. E 81, 042601 (2010). http://doi.0rg/10.1103/PhysRevE.81.042601   \n38. Y.M. Yang, L. Xu, Y.D. Wang et al., Non-destructive identification of unknown minor phases in polycrystalline bulk alloys using three-dimensional X-ray diffraction. Mater Charact. 124, 206-214 (2017). http://doi.0rg/10.1016/j.matchar.2016.12.025 ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    }
+]

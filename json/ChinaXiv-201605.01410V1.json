@@ -1,0 +1,410 @@
+[
+    {
+        "type": "text",
+        "text": "The Roles of p21Waf1/cIP1 and Hus1 in Generation and Transmission of Damage Signals Stimulated by Low-Dose Alpha-Particle Irradiation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ye Zhao, $\\mathbf { \\Delta } _ { a , 1 } ^ { a , 1 }$ Xiaoyan Ma,b.1 Jun Wang,\" Shaopeng Chen,\"c Hang Yuan,\" An Xu,\"c Haiying Hangb² and Lijun $\\mathrm { W u } ^ { a , c , d , 2 }$ （204号 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\"KeyLaboaoscd; bNationaLaboatorfomacomolelesdCenterforomptatioldstesstefosicscdeyf   \nSciences,eijinginaKeyboratoyfnviomentalicolodlionontocholofnircee   \nAnhui203iadholfeendhgUiversitfecedhfnHefe P.R.China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhao，Y.,Ma, X.,Wang, J., Chen, S.,Yuan, H., Xu,A., Hang,H. and Wu, L. The Roles of p21wafi/cIPl and Hus1 in Generation and Transmission of Damage Signals Stimulated by Low-Dose Alpha-Particle Irradiation.Radiat. Res. 184, 578-585 (2015). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Previouslyreportedstudieshavedemonstratedthe involvement of $\\mathbf { p 2 1 } ^ { \\mathrm { w a f i / C I P 1 } }$ in radiation-induced bystander effects (RIBE).Mouseembryonicfibroblasts(MEFs)lackingHus1 fail toproliferateinvitro,butinactivationof p21allowsforthe continued growth of Hus1-deficient cells,indicating the close connection between p21 and Hus1 cells.In this study,wildtypeMEFs,Husl $\\mathbf { \\varepsilon } ^ { + / + } \\mathbf { p } \\bar { 2 } \\mathbf { 1 } ^ { - / - }$ MEFs and $\\mathbf { p 2 1 ^ { - / - } H u s 1 ^ { - / - } }$ MEFs were used in a series of radiation-inducedbystander effect experiments,the roles of $\\mathbf { p } 2 \\mathbf { 1 }$ and Hus1 in the induction and transmission of radiation-induced damage signals were investigated. Our results showed that after 5 cGy $\\alpha$ particle irradiation,wild-type MEFs induced significant increases in $\\mathbf { \\gamma } _ { \\mathbf { \\gamma } \\mathbf { - } \\mathbf { H } \\mathbf { 2 } \\mathbf { A } \\mathbf { X } }$ foci and micronuclei formation in bystander cells, whereas the bystander effects were not detectable in $\\mathbf { p 2 1 ^ { - / - } H u s 1 ^ { + / + } }$ MEFs and were restored again in $\\mathbf { p } 2 \\mathbf { 1 } ^ { - \\prime } \\mathbf { H } \\mathbf { u } \\mathbf { s } \\mathbf { 1 } ^ { - \\prime - }$ MEFs.Media transfer experiments showed that $\\mathbf { p } 2 \\mathbf { 1 } ^ { - } \\mathbf { H } \\mathbf { u } \\mathbf { s } \\mathbf { 1 } ^ { + / + }$ MEFs were deficient in the production bystander signals, but could respond to bystander signals.We further investigated themitogen-activated proteinkinases(MAPKs) thatmight be involvedinthebystander effects.Itwasfound thatalthough knocking out p21 did not affect the expression of connexin43 and itsphosphorylation,it did result in inactivation of some MAPK signal pathway kinases,including JNK1/2,ERK1/2 and p38,as well as a decrease in reactive oxygen species (ROS) levelsinirradiatedcells.However,theactivationofMAPK kinases and the ROS levels in irradiated cells were restored in the cell line by knocking out Hus1.These results suggest that $\\mathbf { p 2 1 ^ { w a f 1 / C I P 1 } }$ and Hus1 play crucial roles in the generation and transmission of bystander damage signals after low-dose $\\pmb { \\alpha }$ 1 particle irradiation. $\\circledcirc$ 2015 by Radiation Research Society ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Editor's note.The online version of this article(DOI:1O.1667/ RR14165.1) contains supplementary information that is available to all authorized users. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "These authors contributed equally to this work. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 Address for correspondence:P.O．Box 1138，Hefei,Anhui 230031, China; email: ljw@ipp.ac.cn and hh91@sun5.ibp.ac.cn. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In addition to the DNA damage that occurs in directly irradiated cells，neighboring nonirradiated cells receive signals,known as the radiation-induced bystander effect (RIBE),which have been well demonstrated with a variety ofbiological end points in various cell types,tissue models and in vivo $( l , ~ 2 )$ .It has been shown that both soluble factors and gap junction mediated intercellular communication(GJIC) are critical in mediating the bystander signals (3,4).Nevertheless,little is known about how radiation induced damage signals are generated and released from directly irradiated cells.In this study，we investigated the role of p21 and Hus1 in radiation-induced damage signal pathways. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "As a member of the Cip/Kip family,p21 promotes cell cycle arrest by binding to and inhibiting cyclin-dependent kinases (CDK) to regulate the progression of the cell cycle (5).It also acts to block DNA replication by binding to proliferating cell nuclear antigen (PCNA) (6). p21 can be induced by p53-dependent and p53-independent signal pathways after irradiation,and overexpression of p21 may lead to $\\mathbf { G } _ { 1 }$ and $\\mathbf { G } _ { 2 }$ arrest as well as replication firing arrest (7).Azzam et al.reported that the signals from irradiated cells induced the expression of p21 in nonirradiated neighboring cells,and this upregulation of p21 in bystander cells was associated with radiation-induced reactive oxygen species (ROS) (8).Hus1 is an evolutionarily conserved cell cycle checkpoint protein,and plays a central role in genome maintenance by mediating cellular responses to DNA damage and replication stress.Rad9,Hus1 and Rad1 can form a ring-like heterotrimer (9-1-1 complex)，which is important in checkpoint activation and DNA repair (9). Weiss et al. found that Hus1-deficient mouse embryo fibroblasts(MEFs) defective in Chk1 activation(IO).Cells deficient in Hus1 expression failed to proliferate in vitro, butinactivation of p21 allowed for the continued growth of Hus1-deficient cells $( l I )$ ，indicating a close relationship between p21 and Hus1.However,most studies of p21 and ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hus1 have been focused on direct irradiation and little is known about their roles in nontargeted irradiation effects. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DNA damage, particularly double-strand breaks (DSBs), has long been considered a major initiator of cellular responses to ionizing radiation. Since even a single unrepaired DSB can be lethal to a cell,detection and removal of these lesions are important cellular functions; their presence rapidly results in the recruitment of DNA repair machinery to the damage sites and triggers multiple signaling events (l2). The activation of multiple signal pathways,including mitogen-activated protein kinase (MAPK),ultimately leads to altered gene expression with secondary effects on cell signaling response and effector genes (l3). Previous studies have shown that many MAPK signal pathway kinases,including JNK,ERK1/2 and $\\mathtt { p } 3 8$ participate in radiation-induced bystander effects $( l 4 )$ ，and that p21 expression could be regulated via p53 and MEK/ ERK1/2 MAPK pathways to control cell proliferation after DNA damage $( l 5 )$ .Signaling from strand break-related damage can in turn result in cell cycle arrest, enhancement of DNA repair capacity or activation of apoptotic pathways when damage cannot be repaired.In this study,we examined the induction of $\\gamma { \\mathrm { - } } \\mathrm { H } 2 \\mathrm { A X }$ foci formation，micronuclei formation and protein expression of signal pathways in wild-type MEFs, $\\mathrm { p } 2 1 ^ { - } \\mathrm { H u s } 1 ^ { + / + }$ MEFs and $\\mathrm { p } 2 \\mathrm { l } ^ { - / - } \\mathrm { H u s } 1 ^ { - / - }$ MEFs,to elucidate the role of p21 and Hus1 in production and transmission of radiation-induced damage signal pathways involved in bystander effects. Our findings showedthatboth $\\mathsf { p } 2 1$ and Hus1 were important mediators of radiation-induced bystander effects. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MATERIALSANDMETHODS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cell Culture ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Wild-type MEFs, $\\mathrm { p } 2 \\mathrm { 1 ^ { - / - } H u s 1 ^ { + / + } }$ MEFs, $\\mathrm { p } 2 1 ^ { - } \\mathrm { H u s } 1 ^ { - \\prime - }$ MEFs and $\\mathrm { p } 2 \\mathrm { l } ^ { - / - } \\mathrm { H u s } 1 ^ { - / - }$ MEFs with plasmid containing continuously expressing Hus1 were kindly provided by Dr. Hang (Institute of Biophysics, Chinese Academy of Science,Beijing,China).These were cultured in Dulbecco's modified Eagle medium(DMEM;Gibco,Grand Island, NY) supplemented with $10 \\%$ fetal bovine serum (FBS;GE Healthcare Life Sciences/HyClone TM Laboratories,Logan,UT）plus $1 0 0 ~ \\mathrm { \\mu g / m l }$ streptomycin and $1 0 0 ~ \\mathrm { U / m l }$ penicillin $( \\mathbf { G i b c o } ^ { \\circledast }$ ,Grand Island,NY)at $3 7 ^ { \\circ } \\mathrm { C }$ in a humidified $5 \\%$ $\\mathrm { C O } _ { 2 }$ incubator (Sanyo,Gunma,Japan). Since the wild-type MEFs were not immortalized,MEFs from passage 5 to passage 15 were used in this study. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Alpha-ParticleIrradiation ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Alpha particles were derived from the $^ { 2 4 1 } \\mathrm { A m }$ irradiation source at the radiation facility,at a dose rate of $1 . 0 ~ \\mathrm { c G y / s }$ . The average energy andLET of alpha particles,measured at the cell layer,were $3 . 5 ~ \\mathrm { M e V }$ and $1 2 8 \\mathrm { \\ k e V / \\mu m }$ ,respectively.For irradiations,approximately $1 \\times 1 0 ^ { 4 }$ exponentially growing cells were seeded into specially designed stainless steel rectangular dishes $( 6 \\times 1 1 ~ \\mathrm { m m } )$ consisting of a $3 . 5 ~ { \\mu \\mathrm { m } }$ thick Mylar? film bottom onto which cells attached.The culture media was replaced every 2 days and the cells were irradiated after the culture reached full confluence.For partial irradiations, $5 0 \\%$ of the rectangular dish was shielded with $1 0 0 ~ { \\mu \\mathrm { m } }$ thickness aluminum below the dish,and the cells occupying the other $5 0 \\%$ area were irradiated with5 cGy.Sham-irradiated dishes went through the same irradiation procedure with $100 \\%$ shielding．After irradiation，all dishes were returned to the incubator for the subsequent experiments. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Immunochemical Stainingof γ-H2AX ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Irradiated and sham-irradiatedcells were incubated at $3 7 ^ { \\circ } \\mathrm { C }$ for 30 min,rinsed with PBS three times,fixed with $2 \\%$ paraformaldehyde solution for $2 0 ~ \\mathrm { m i n }$ at room temperature and then rinsed again with PBSthree times.Afterpermeabilization for $3 0 ~ \\mathrm { { m i n } }$ in TNBS solution (PBS supplemented with $0 . 1 \\%$ Triton TM X-100 and $1 \\%$ FBS)at room temperature,the cells were exposed for $^ \\textrm { \\scriptsize 1 h }$ at room temperature to anti- $\\cdot \\gamma$ -H2AX primaryantibody(Upstate?Biotechnology,LakePlacid, NY) in $\\mathrm { P B } { \\cal { S } } ^ { \\mathrm { + } }$ (PBS supplemented with $1 \\%$ FBS),washed with TNBS for $3 \\ \\times \\ 5 \\ \\mathrm { \\ m i n }$ ，and incubated with fluorescein isothiocyanateconjugated goat anti-mouse secondary antibody (Haoyang Biological Manufacture Company Ltd., Tianjin, China) in $\\mathrm { P B S ^ { + } }$ for another $^ \\textrm { \\scriptsize 1 h }$ After washing with TNBS for $3 \\times 5$ min,the cells were counterstained with $5 ~ { \\mu \\mathrm { g } } / { \\mathrm { m l } }$ Hoechst 33342(MolecularProbes?,Eugene,OR) for 30 min.Aftera final washwith TNBS,the stained cells on the Mylar film were immersed in $50 \\%$ glycerol-carbonate buffer $\\mathrm { ( p H ~ } 9 . 5 \\mathrm { ) }$ ．The stained rectangular disheswere loaded on a $\\Phi 3 5 \\mathrm { m m }$ glass bottom dish (glass thickness, $0 . 1 7 ~ \\mathrm { m m }$ ),which was used as a holder.Immunofluorescent images were captured using a Leica TCS SPT laser scanning confocal microscope (Bensheim, Germany).For quantitative analysis, the cells with $\\gamma { \\mathrm { - } } \\mathrm { H } 2 \\mathrm { A X }$ foci were regarded as positive cells and the fraction of positive cells was calculated as described previously( $\\cdot y -$ H2AX-positive cells/total cells) $( l 6 , l 7 )$ . At least 7OO cells per sample were counted and the fraction of $\\gamma$ -H2AX-positive cellswas normalized to the control (18). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Micronuclei Assay ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The frequency of micronucleus formation was measured by the cytokinesis block technique $( I 9 )$ .Three hours after exposure,the irradiated,sham-irradiated and bystander cells were trypsinized separately.Forpartially irradiated samples,a stainless steel disk with silicone edges was inserted into the stainless steel rectangular dishes to separate the directly irradiated cells from the bystander cells. Approximately $2 { - } 3 \\times 1 0 ^ { 4 }$ cells were seeded in $\\Phi 3 5 ~ \\mathrm { m m }$ culture dish. CytochalasinB(Sigma-Aldrich?LLC,St.Louis,MO) was added into the culture media at the final concentration of $2 . 5 ~ \\mu \\mathrm { g } / \\mathrm { m l }$ at $4 { \\ - } 6 \\mathrm { ~ h ~ }$ after seeding and the cultures were incubated at $3 7 ^ { \\circ } \\mathrm { C }$ ，After two cell cycles, the cells were rinsed in PBS,fixed in fixing solution (methanol:acetic $\\operatorname { a c i d } = 9 { : } 1$ ),stained with $0 . 1 \\%$ acridine orange for $5 ~ \\mathrm { m i n }$ and viewed under an Olympus IX71 fluorescence microscope (Tokyo, Japan). The number of micronuclei cells in at least 1,OoO binucleate cells was scored and the frequency of micronuclei cells per 1,Ooo binucleate cells was calculated. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Media Transfer Experiments ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To determine the role of p21 in either generation or transmission of the bystander signals,media transfer experiments were performed.The wild-type MEFs and $\\mathrm { p } 2 \\mathrm { 1 ^ { - / - } H u s 1 ^ { + / + } }$ MEFs were used as donor cells separately to transfer media to receptor cells.The donor cells under confluent conditions in a $3 5 ~ \\mathrm { m m }$ stainless steel dish with a $3 . 5 ~ { \\mu \\mathrm { m } }$ thickreplaceable Mylar film bottom were a $\\textsf { a }$ -particle irradiated with 5 cGy.After irradiation,the cultures were returned to the incubator for $1 0 ~ \\mathrm { { m i n } }$ .The media from the irradiated population was then collected, filtered through a $0 . 8 ~ { \\mu \\mathrm { m } }$ syringe filter and transferred immediately into the receptor cells.Thereafter,these receptor cells were incubated for $^ { 3 \\mathrm { ~ h ~ } }$ before undergoing micronucleus testing.Media from shamirradiated dishes was transferred to the receptor cells as controls. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Western Blot Analysis ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Western blot analyses were performed in directly irradiated and sham-irradiated cells.Total cell lysates were prepared in the presence of protease inhibitors and phosphatase inhibitors.Equal amounts of protein from each sample were resolved using polyacrylamide gel electrophoresis and were electro-blotted on PVDF membranes.The monoclonal antibodies used for Western blotting included:anti- $\\mathbf { \\nabla } \\cdot \\mathtt { a } .$ 1 tubulin,anti-JNK,anti-phospho-JNK,anti-Erk1/2,anti-phospho-Erk1/ 2,anti-p38 and anti-phosph-p38 (Cell Signaling Technology@, Danvers,MA)；anti-phospho-connexin43 and anti-connexin43(Santa Cruz Biotechnology? Inc., Santa Cruz,CA).The secondary antibodies were conjugated to horseradish peroxidase (Cell Signaling Technology)；signals were detected using the ECL system (Thermo Fisher Scientific Inc.,Rockford,IL). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8cc0ee91ef84a96093db43d0322fe37916470b849941a32d4e5040379a61835c.jpg",
+        "img_caption": [
+            "FIG.1. Panel A: The fraction of $\\gamma$ -H2AX-positive cells ( $\\dot { \\boldsymbol { \\gamma } }$ -H2AXpositive cells/total cells） in wild-type MEFs, $\\mathrm { p } 2 \\mathrm { 1 ^ { - } H u s 1 ^ { + / + } }$ MEFs, $\\mathrm { \\hat { p } } 2 1 ^ { - } \\mathrm { H u s } 1 ^ { - - }$ MEFs and $\\mathrm { p } 2 \\mathrm { 1 ^ { - } \\mathrm { \\bar { H } u s \\mathrm { 1 ^ { - } \\bar { \\Omega } m H u s \\mathrm { 1 } } } }$ MEFs.The results were normalized to the corresponding controls，and showed that the $\\mathrm { p } 2 \\mathrm { 1 ^ { - / - } H u s 1 ^ { + / + } }$ MEFs and $\\mathrm { \\ p { \\hat { 2 } } 1 ^ { - } H u s l ^ { - } \\mathrm { \\bar { \\ m H u s l } } }$ 1MEFslackedbystander effects while the $\\mathrm { p } 2 \\mathrm { l } ^ { - } \\mathrm { H u s } 1 ^ { - }$ MEFs restored the bystander effects. Panel B: The detection of micronuclei (MNi) formation in wild-type MEFs, $\\mathrm { p } 2 \\mathrm { 1 ^ { - / - } H u s 1 ^ { + / + } }$ MEFs, $\\mathrm { p } 2 \\mathrm { l } ^ { - } \\mathrm { H u s } 1 ^ { - - }$ MEFs and $\\mathrm { p } 2 \\mathrm { l } ^ { - } \\mathrm { H u s } 1 ^ { - } \\mathrm { \\bar { \\Omega } m } \\mathrm { - }$ （2 Hus1 MEFs $^ \\mathrm { ~ 3 ~ h ~ }$ after irradiation.The results showed that the $\\mathrm { p } 2 \\mathrm { 1 ^ { - / - } H u s 1 ^ { + / + } }$ MEFs and $\\mathrm { p } 2 \\mathrm { 1 ^ { - } \\mathrm { \\mathrm { \\bar { H } u s } 1 ^ { - } \\mathrm { \\bar { \\cdot } m H u s } 1 } }$ MEFs lacked RIBE while $\\mathrm { p } 2 \\mathrm { l } ^ { - / - } \\mathrm { H u s } 1 ^ { - / - }$ MEFs restored RIBE.Data were pooled from at least three independent experiments and the results were represented as mean $\\pm \\ \\mathrm { S D }$ ，significant compared with sham-irradiated control. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ROSMeasurement ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The fluorescent probe, $2 ^ { \\prime } 7 ^ { \\prime }$ -dichlorofluorescin (DCFH-DA; MolecularProbes),was employed to quantify the level ofROS as previously described (2O,2I).Confluent cultures were grown in Mylar film bottom dishes.Before irradiation,the cell cultures were washed with D-Hanks’buffer solution complemented with $1 \\%$ FBS(FDBS） at ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$3 7 ^ { \\circ } \\mathrm { C }$ for $2 \\ \\mathrm { m i n }$ ，stained with $2 ~ \\mu M$ DCFH-DA for $4 0 \\ \\mathrm { m i n }$ in an incubator and then washed with cold D-Hanks’ twice.After irradiation,the cells were incubated at $3 7 ^ { \\circ } \\mathrm { C }$ for $1 0 \\ \\mathrm { m i n }$ ，and the fluorescence was measured in FDBS with a fluorescence micro-plate reader $( 4 8 5 / 5 2 0 \\ \\mathrm { n m } )$ .Thevalues of relative fluorescence intensity were normalized to the controls. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Statistics ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis was performed on the means of the data obtained fromat least three independent experiments.The data were shown as means and standard deviations.The significance levels were assessed using the Student's $t$ test. $P \\leq 0 . 0 5$ among groups was considered statistically significant. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Bystander Effects were Deficient in $p 2 { \\cal I } ^ { \\mathrm { - } \\prime } H u s { \\cal I } ^ { \\mathrm { + } \\prime \\mathrm { + } } { \\cal M } E F s ,$ whiletheyResumed in $p 2 I ^ { - \\prime - } H u s I ^ { - / - } M E F s$ ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The induction and transduction of DNA damage signals were investigated in plateau-phase MEFs with different genetic backgrounds using a partial irradiation device as described in Materials and Methods.As shown in Fig.1A, significant increases in $\\gamma { \\mathrm { - } } \\mathrm { H } 2 \\mathrm { A X }$ foci formation were observed in directly irradiated cells with all genetic backgrounds compared to sham-irradiated controls $( P <$ 0.01).However, the levels of $\\gamma { \\mathrm { - } } \\mathrm { H } 2 \\mathrm { A X }$ foci formation were different in the adjacent nonirradiated bystander cells with different genetic backgrounds.A significant increase of $\\gamma \\mathrm { . }$ （2 H2AX induction was observed in wild-type MEFs $( P <$ 0.01),whereas the bystander response was not detectable in $\\mathrm { p } 2 \\mathrm { l } ^ { - / - } \\mathrm { H u s } 1 ^ { + / + }$ MEFs $( P ~ > ~ 0 . 0 5 )$ ．A slightly lower but significant bystander response was detected in $\\mathrm { p } 2 \\mathrm { l } ^ { - } \\mathrm { H u s } 1 ^ { - \\prime - }$ MEFs $\\mathit { P } \\prec 0 . 0 1$ ； Fig.1A)， suggesting that loss of Hus1 could induce bystander responses in $\\mathsf { p } 2 1$ -deficient mutants. To confirm this finding, $\\mathrm { p } 2 \\mathrm { l } ^ { - / - } \\mathrm { H u s } 1 ^ { - / - }$ MEFs containing plasmid expressing Hus1 were used. There was no significant increase of $\\gamma { \\mathrm { - } } \\mathrm { H } 2 \\mathrm { A X }$ induction in bystander $\\mathrm { p 2 1 ^ { - } H u s 1 ^ { - } \\mathrm { \\overline { { \\Omega } } m H u s 1 } }$ MEFs $( P > 0 . 0 5 )$ .The formation of micronuclei, considered as another bystander end point, was performed $^ { 3 \\mathrm { ~ h ~ } }$ after irradiation.The results were similar to the $\\gamma { \\mathrm { - H } } 2 \\mathrm { A X }$ induction. The bystander effects were not detectable in bystander $\\mathrm { p } 2 1 ^ { - } \\mathrm { H u s } 1 ^ { + / + }$ MEFs $( P > 0 . 0 5 )$ ,but were recovered in $\\mathrm { p } 2 \\mathrm { l } ^ { - } \\mathrm { H u s } 1 ^ { - }$ MEFs (Fig. 1B). There was no significant increase of micronuclei formation in bystander cells of $\\mathrm { p } 2 \\mathrm { 1 ^ { - / - } H u s 1 ^ { - / - } m H u s }$ 1MEFs $( P > 0 . 0 5 ) ,$ ！ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "GJICPlayedaMajorRoleinTransmissionof theBystander Signals in $p 2 I ^ { - \\prime - } H u s I ^ { - \\prime - } M E F s$ ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Gap junction mediated signal pathways have been shown toplay important roles in radiation-induced bystander effects.To check ifbystander effects observed in MEFs were mainly mediated through GJIC, lindane,an inhibitor of GJIC,was added to the media at a final concentration of $4 0 ~ \\mathrm { m } M$ (in $0 . 1 \\%$ DMSO) $^ { 2 \\mathrm { ~ h ~ } }$ before irradiation.Figure 2 shows that in partially irradiated dishes,the formation of $\\gamma \\mathrm { . }$ H2AX foci in bystander cells decreased significantly in $\\mathrm { p } 2 \\mathrm { l } ^ { - } \\mathrm { H u s } 1 ^ { - \\prime - }$ MEFs treated with lindane.In fact, there was no difference compared to sham-irradiated cells $\\langle P > 0 . 0 5$ Fig.2). These results indicate that GJIC played a major role in transmiting damage signal(s) to bystander cellsin $\\mathrm { p } 2 1 ^ { - } \\mathrm { H u s } 1 ^ { - \\prime - }$ MEFs after irradiation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/42e98ba9cc765891d325a0cf2436df32bee5267328d8c581454b00a4f8771b30.jpg",
+        "img_caption": [
+            "FIG.2.Detection of $\\gamma$ -H2AX foci formation in $\\mathrm { p } 2 1 ^ { - } \\mathrm { H u s } 1 ^ { - - }$ MEFs treated with $4 0 \\ m M$ lindane $^ { 2 \\mathrm { ~ h ~ } }$ before irradiation.The liandane treatments significantly reduced the $\\gamma { \\mathrm { - } } \\mathrm { H } 2 \\mathrm { A X }$ foci formation in bystander cells,suggesting that GJIC participated in bystander signal transmission.Data were pooled from three independent experiments and the results were represented as mean $\\pm \\mathsf { S D }$ ，significant compared with sham-irradiated control. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Knocking Out p21 Resulted in Deficient Production of Bystander Effects Signals ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Media transfer experiments were performed to determine whether the absence of p21 would result in the production of bystander signals and response to bystander signals.As shown in Fig.3A，compared with media from shamirradiated cells,the media from irradiated wild-type MEFs caused a significant increase in micronuclei formation in receptor wild-type MEFs $( P < 0 . 0 5 )$ .However,the media from irradiated $\\mathrm { p } 2 1 ^ { - } \\mathrm { H u s } 1 ^ { + / + }$ MEFs could not induce significant changes of micronuclei formation in receptor wild-type MEFs, suggesting that $\\mathrm { p } 2 \\mathrm { l } ^ { - } \\mathrm { H u s } 1 ^ { + / + }$ MEFs could not generate bystander signal(s). Meanwhile,when using $\\mathrm { p } 2 \\mathrm { l } ^ { - } \\mathrm { H u s } 1 ^ { + / + }$ MEFs as receptor cells, only the media from irradiated wild-type MEFs caused a significant increase of micronuclei formation (Fig. 2B)， suggesting that $\\mathrm { p } 2 1 ^ { - } \\mathrm { H u s } 1 ^ { + / + }$ MEFs could respond to bystander signal(s). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As shown above， gap junctional communication is involved in mediating bystander signals in MEFs and $\\mathrm { p } 2 \\mathrm { 1 ^ { - / - } H u s \\mathrm { 1 ^ { - / - } M E } }$ Fs (Fig. 2), and $\\mathrm { p } 2 1 ^ { - } \\mathrm { H u s } 1 ^ { + / + }$ MEFs could respond to the bystander signals.Further investigation will be needed to determine whether knocking out p21 would affect GJIC function. In this study,the expression levels of connexin43 $( \\mathrm { C x } 4 3 )$ ，an important gap junction channel protein，and itsphosphorylation form $\\left( \\mathrm { p - C x } 4 3 \\right)$ were checked $^ \\mathrm { ~ 3 ~ h ~ }$ after irradiation.As shown in Fig 4，the expressions of $\\mathrm { C x } 4 3$ were similar in wild-type MEFs, $\\mathrm { p } 2 \\mathrm { l } ^ { - } \\mathrm { H u s } 1 ^ { + / + }$ MEFs and $\\mathrm { p } 2 \\mathrm { l } ^ { - } \\mathrm { H u s } 1 ^ { - \\prime - }$ MEFs,and the p$\\mathrm { C x } 4 3$ were also detectable in $\\mathrm { p } 2 \\mathrm { l } ^ { - } \\mathrm { H u s } 1 ^ { + / + }$ MEFs and $\\mathrm { p } 2 1 ^ { - } \\mathrm { H u s } 1 ^ { - \\prime - }$ MEFs. These results suggest that the molecular composition of gap junction channels were similar in all three cell types,suggesting that the lack of bystander effects in $\\mathrm { p } 2 \\mathrm { l } ^ { - } \\mathrm { H u s } 1 ^ { + / + }$ MEFs was due to a deficiency in the production of bystander signals,but not in the transmission of bystander signals. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f3a9c1f399fe2bcf7dea582954e54257d3600af67bd55f87d2d35779586af71.jpg",
+        "img_caption": [
+            "FIG.3.The micronuclei (MNi） formation in media transfer experiment.Panel A:Wild-type MEFs as receptor cells.Panel B: $\\mathrm { p } 2 \\bar { 1 } ^ { - } \\mathrm { H u s } 1 ^ { + / + }$ MEFs as receptor cells.The results showed the number of cells with micronuclei in1,OoO binucleate cells.Bystander cells that received media from irradiated wild-type MEFs showed significantly increased micronuclei formation.Data were pooled from three independent experiments and the results were represented as mean $\\pm \\mathsf { S D }$ ，significant compared with sham-irradiated control. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Activation of MAPK Signal Pathways was Deficient in $p 2 I ^ { - } { H u s } I ^ { + / + }$ MEFs but Recovered of $p 2 I ^ { - \\prime } \\ – { H u s } { I ^ { - \\prime - } } \\ M E F s$ ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "It has been shown that the MAPK pathways play important roles in cellular recognition of and response to extracellular signals, including ionizing radiation and bystander signals (l3，22).Therefore，we examined the critical components in MAPK，c-Jun N-terminal protein kinase $( \\mathrm { J N K } 1 / 2 ) ,$ ，extracellular signal-regulated kinase (ERK1/2)，p38 and their phosphorylation forms (p-JNK1/ 2,p-ERK1/2 and p-p38), in all three cell types used above. As shown in Fig.5, the expression of $\\mathrm { J N K } 1 / 2$ were normal in all three cell types,but the expression of p-JNK1/2 could hardly be detected in $\\mathrm { p } 2 \\mathrm { l } ^ { - } \\mathrm { H u s } 1 ^ { + / + }$ MEFs.The expression of $\\mathrm { p } { \\mathrm { - } } \\mathbf { J } \\mathbf { N } \\mathbf { K } 1 / 2$ was recovered in $\\mathrm { p } 2 \\mathrm { l } ^ { - } \\mathrm { H u s } 1 ^ { - \\prime - }$ MEFs.Similar phenomena were also observed in the expression of ERK1/2 and $\\mathtt { p } 3 8$ . The phosphorylation of ERK1/2 and p38 was deficient in $\\mathrm { p } 2 \\mathrm { 1 ^ { - } H u s 1 ^ { + / + } }$ MEFs and was restored in $\\mathrm { p } 2 \\mathrm { l } ^ { - } \\mathrm { H u s } 1 ^ { - \\prime - }$ MEFs.These results suggest that knocking out of p21 results in dysfunction in the activation of MAPK signal pathways,and further knocking out of Hus1 appears to restore the activation of MAPK signal pathways, resulting in recovery of bystander effects in $\\mathrm { p } 2 \\mathrm { l } ^ { - } \\mathrm { H u s } 1 ^ { - - }$ MEFs. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e17a55acb75015df292547d1126457dd5132507b43b9ac41a4ad3151aeb9d1f.jpg",
+        "img_caption": [
+            "FIG.4.The expression levels of phosphor-connexin43 $( \\mathrm { p - C x } 4 3 )$ and connexin43 $( \\mathrm { C x } 4 3 )$ in MEFs, $\\mathrm { p } 2 \\mathrm { 1 ^ { - } H u s 1 ^ { + / + } }$ MEFs and $\\mathrm { p } 2 1 ^ { - } \\mathrm { H u s } 1 ^ { - - }$ MEFs $^ { 3 \\mathrm { ~ h ~ } }$ after irradiation. $\\mathsf { p } \\mathrm { - C x } 4 3$ and $\\mathrm { C x } 4 3$ expression levels were similar in MEFs, $\\mathrm { p } 2 \\mathrm { 1 ^ { - / - } H u s 1 ^ { + / + } }$ MEFs and $\\mathrm { p } 2 1 ^ { - } \\mathrm { H u s } 1 ^ { - - }$ MEFs. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Another important bystander effect signal, ROS level, was also detected in directly irradiated cells.As shown in Fig.6,the ROS level was significantly increased in irradiated MEFs compared to sham-irradiated controls ( $P$ $< 0 . 0 5 \\rangle$ ). However, there was not a significant increase in the ROS level in irradiated $\\mathrm { p } 2 \\mathrm { l } ^ { - } \\mathrm { H u s } 1 ^ { + / + }$ MEFs compared to sham-irradiated $\\mathrm { p } 2 \\mathrm { l } ^ { - } \\mathrm { H u s } 1 ^ { + / + }$ MEFs $( P > 0 . 0 5 )$ .These findings confirm the above results showing that knocking out of p21 leads to deficiency in the production of bystander signals in $\\mathrm { p } 2 \\mathrm { l } ^ { - } \\mathrm { H u s } 1 ^ { + / + }$ MEFs,which causes the disap pearance of bystander effects. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Our previous studies have shown that bystander effects could be induced by irradiating the cytoplasm of a cell (23) and were associated with the ROS/RNS generated in mitochondria (24,25).However, the mechanisms underlying the signal pathways involved in the generation of bystander signals were still unclear. p21 and Hus1 are essential in growth arrest and in genome maintenance after DNA damage. Cells deficient in the Husl gene failed to proliferate in vitro,but inactivation of p21 allowed for the continued growth of Hus1-deficient cells,indicating a close relationship between p21 and Hus1 $( l I )$ . In the current study，using wild-type MEFs, $\\mathrm { p } 2 1 ^ { - } \\mathrm { H u s } 1 ^ { + / + }$ MEFs and $\\mathrm { p } 2 1 ^ { - } \\mathrm { H u s } 1 ^ { - \\prime - }$ MEFs，we investigated the roles of $\\mathsf { p } 2 1$ and Hus1 in production and transmission of bystander signals. The irradiated wild-type MEFs could produce bystander signals in neighboring nonirradiated cells through gap junction channels and soluble extracellular factors， that induced $\\gamma { \\mathrm { - } } \\mathrm { H } 2 \\mathrm { A X }$ foci formation and micronuclei formation in bystander cells.The irradiated $\\mathrm { p } 2 1 ^ { - } \\mathrm { H u s } 1 ^ { + / + }$ MEFs could not induce $\\gamma { \\mathrm { - } } \\mathrm { H } 2 \\mathrm { A X }$ foci formation and micronuclei formation in neighboring nonirradiated cells,while irradiated $\\mathrm { p } 2 \\mathrm { l } ^ { - } \\mathrm { H u s } 1 ^ { - - }$ MEFs restored the ability to induce $\\gamma \\mathrm { . }$ H2AX foci formation and micronuclei formation in nonirradiated neighboring cells,and these increases could be inhibited through transfecting Hus1-expression plasmid into $\\mathrm { p } 2 \\mathrm { l } ^ { - / - } \\mathrm { H u s } 1 ^ { - / - }$ MEFs.These results indicated that the loss of p21 resulted in the absence of bystander effects after irradiation,while the inactivation of Hus1 in p21-deficient cells recovered the bystander effects (Fig.1).We also found that these effects were not specific to alpha-particle radiation and were also observed after 4 Gy gamma irradiation (Supplementary Fig. S1； http://dx.doi.org/10. 1667/RR14165.1.S1)， suggesting that these effects were independent of radiation type and LET. Previous studies by Azzam et al. showed that low-dose alpha-particles irradiation could increase p21 expression in nonirradiated bystander cells (3，26). Hus1 is required for the S-phase checkpoint (27)，and loss of Hus1 leads to defects in genotoxin-induced signaling to Chk1 and in significantly increased sensitivity to hydroxyurea (HU） and ultraviolet (UV) light, but in only minor effects on radiation sensitivity $( I I )$ . Thus,the lack of bystander response in p21-deficient cells could be dye to eithera defect in theirability to mount the response,that is,to generate the signal after irradiation, or from a defect in their ability to respond to such bystander signals.We addressed this question by performing media transfer experiments in cells with different genetic backgrounds,which functioned interchangeably in all possible permutations as either bystander signal producers or signal responders.The results of these experiments indicated that while wild-type MEFs were able to produce and respond to bystander signals, $\\mathrm { p } 2 \\mathrm { l } ^ { - } \\mathrm { H u s } 1 ^ { + / + }$ MEFs were unable to generate bystander signals，but retained the ability to respond to such signals (Fig. 3). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/74b7b09dc9ea2e6fcb72b75673c4354bcce8e3ed4b50dc28a40505bbfc4dcb3b.jpg",
+        "img_caption": [
+            "FIG.5.The activation of MAPKs $^ \\mathrm { ~ 3 ~ h ~ }$ after irradiation in wild-type MEFs, $\\mathrm { p } 2 \\mathrm { 1 ^ { - } H u s 1 ^ { + / + } }$ MEFs and $\\mathrm { p } 2 \\mathrm { l } ^ { - } \\mathrm { H u s } 1 ^ { - \\prime - }$ MEFs. The_phosphorylation of JNK1/2, ERK1/2 and $\\mathsf { p } 3 8$ increased after irradiation in wild-type MEFs.Loss of p21 in MEFs resulted in significant decrease of phosphorylation of $\\mathrm { J N K } 1 / 2$ ,ERK1/2 and $\\mathsf { p } 3 8$ ,but phosphorylation of $\\mathrm { J N K } 1 / 2$ ,ERK1/2 and p38 were recovered in $\\mathrm { p } 2 1 ^ { - } \\mathrm { H u s } 1 ^ { - \\prime - }$ MEFs. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Gap junctions are intercellular channels that allow ions and secondary messengers to pass freely among neighboring cells and they are essential for maintaining cell functions (28).Azzam et al.reported that molecules communicated through gap junctions resulted in upregulation of oxidative stress in neighboring cells adjacent to directly irradiated cells (29). In addition, regulation of gap junctions would affect the radiation-induced bystander effects (3).The current study additionally demonstrated that the GJIC plays an important roles in mediating ionizing radiation-induced bystander effects，as we clearly showed that the gapjunction channel inhibitor,lindane,inhibited the modest bystander response observed in $\\mathrm { p } 2 \\mathrm { l } ^ { - } \\mathrm { H u s } 1 ^ { - \\prime - }$ MEFs (Fig. 2). We then investigated whether knocking out of p21 would affect the intercellular communication of bystander signals or affect the production of bystander signals.To do this,the expression levels of $\\mathrm { C x } 4 3$ and $\\scriptstyle \\mathtt { p - C x 4 3 }$ were detected in all three cell types. The connexin43 is an important gap junction channel protein，and phosphorylation of connexin43 is a major event in regulating the function of GJIC (30).In the current experiments,the expression levels of $\\mathbf { C } \\mathbf { \\mathrm { x } } 4 3$ and $\\scriptstyle \\mathtt { p - C x 4 3 }$ after irradiation showed normal functioning of the gap junctions in all cell types (Fig. 4). These results suggest that knocking out of $\\mathsf { p } 2 1$ does not affect bystander signal transmission through gap junction channels,and the absence of bystander effects in $\\mathrm { p } 2 \\mathrm { l } ^ { - } \\mathrm { H u s } 1 ^ { + / + }$ MEFs may be mainly due to deficiency in the production of bystander signals. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/cb1011e87995790465e1ae6129808fa3312fc8f451ff6cfe0d5ee37b60a37623.jpg",
+        "img_caption": [
+            "FIG.6.ROS levels in directly irradiated MEFs and $\\mathrm { p } 2 \\mathrm { l } ^ { - } \\mathrm { H u s } 1 ^ { + / + }$ MEFs $1 0 \\ \\mathrm { m i n }$ after exposure.The ROS levels were attenuated in $\\mathrm { p } 2 \\mathrm { l } ^ { - / - } \\mathrm { H u s } 1 ^ { + / + }$ MEFs comparing to those in the MEFs.Data were pooled from three independent experiments and the results were represented as mean $\\pm \\mathsf { S D }$ ,significant compared with sham-irradiated control. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The generation of $\\gamma { \\mathrm { - } } \\mathrm { H } 2 \\mathrm { A X }$ foci in bystander cells suggests not only the generation of DSBs in nontargeted cells,but also activation of the kinases required for the underlying phosphorylation of H2AX. To determine the mechanisms underlying this phenomenon，we investigated the activation of MAPKs pathways including JNK1/2, ERK1/2 and $\\mathsf { p } 3 8$ in current study. Multiple MAPK pathways are activated by exposure to ionizing radiation, and play crucial roles in controlling cell survival and repopulation effects after irradiation(7).It has also been reported that activation of MAPKs is coordinated with an increase in $\\mathsf { p } 2 1$ expression (l5).Park et al.found that phosphorylations of ERK1/2 and $\\mathrm { J N K } 1 / 2$ were involved in regulating the phosphorylation of $\\mathrm { C x } 4 3$ in mouse cells $( 3 I )$ .In addition, $\\mathsf { p } 3 8$ was shown to be involved in ionizing radiation-induced bystander effects, together with NF- $\\mathbf { \\nabla \\kappa } \\kappa \\mathbf { B }$ -regulating COX-2 activity (32). In the current study，we found that the loss of $\\mathsf { p } 2 1$ resulted in inactivation of MAPKs pathways in $\\mathrm { p } 2 1 ^ { - } \\mathrm { H u s } 1 ^ { + / + }$ MEFs, and that $\\mathrm { p } 2 \\mathrm { l } ^ { - } \\mathrm { H u s } 1 ^ { + / + }$ MEFs were deficient in the phosphorylation of $\\mathrm { J N K } 1 / 2$ ，ERK1/2 and $\\mathtt { p } 3 8$ in shamirradiated cells and in directly irradiated cells.However, phosphorylation of JNK1/2， ERK1/2 and $\\mathtt { p } 3 8$ was restored in $\\mathrm { p } 2 \\mathrm { l } ^ { - } \\mathrm { H u s } 1 ^ { - - }$ MEFs (Fig. 5). In addition,our study also showed that knocking out of $\\mathsf { p } 2 1$ resulted in a decrease in ROS levels after alpha-particle irradiation in $\\mathrm { p } 2 1 ^ { - } \\mathrm { H u s } 1 ^ { + / + }$ MEFs,while the ROS levels were significantly increased in irradiated wild-type MEFs compared to sham-irradiated controls. Taken together，we hypothesize that the loss of p21 resulted in deficiency in activation of MAPK signal pathways,leading to deficiency in the production of bystander signals and the absence of bystander effects after alpha-particle irradiation.However, further loss of Hus1 in p21-deficient cells restored the activation of MAPK signal pathways and restoredthe bystander effects. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/bfdbc15afb996b15489ce8c0f2b333edca877f1115164417fc4e15046f3cccf0.jpg",
+        "img_caption": [
+            "FIG.7.Our current mechanism(s) for the bystander effects found in this study.We propose that loss of $\\mathsf { p } 2 1$ results in inactivation of the MAPK pathways and in the attenuation of the expression of ROS, which inhibits the generation of bystander signals in irradiated cells. The inactivation of Hus1 in p21-null MEFs restores the reproduction of bystander signals via reactivation of MAPK signal pathways and the induction of the bystander effects "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In summary，the data shown here indicate that,in agreement with previous studies,bystander effects in wild-type MEFs could be transmitted by two signaling pathways: soluble intercellular bystander factor(s） and GJIC.However, loss of p21 resulted in inactivation of the MAPK pathways and attenuated expression of ROS, thereby inhibiting the generation of bystander signals in irradiated cells.Interestingly,the inactivation of Hus1 in p21-null MEFs appears to restore the reproduction of bystander signals via reactivation of MAPK signal pathways and also restored the bystander effects (Fig.7). Thus, we conclude that $\\mathrm { p } 2 1 ^ { \\mathrm { w a f 1 / C I P 1 } }$ and Hus1 play crucial roles in the generation and transmission of bystander damage signals after low-dose alpha-particle irradiation. These findings provide further insight into the mechanisms underlying radiation-induced bystander effects that may help improve radiotherapy strategies in the future. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "SUPPLEMENTARYINFORMATION ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.S1. The fraction of micronuclei formation in wildtype MEFs, $\\mathrm { p } 2 \\mathrm { l } ^ { - } \\mathrm { H u s } 1 ^ { + / + }$ MEFs and $\\mathrm { p } 2 \\mathrm { l } ^ { - } \\mathrm { H u s } 1 ^ { - - }$ MEFs 3 h after 4 Gy gamma irradiation. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Natural Science Foundation of China (grant nos.81273004,30770504,31470829 and 10935009), the CAS/SAFEA International Partnership Program for Creative Research ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Teams and the Strategic Priority Research Program of the Chinese Academy of Sciences (grant no.XDB14030502). Received: June 8,2015;accepted: September 15,2015;published online: November 24,2015 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1.Mothersill C,Bucking C,Smith RW,Agnihotri N,O'Neill A, Kilemade M,et al. Communication of radiation-induced stress or bystander signals between fish in vivo.Environ Sci Technol 2006; 40:6859-64.   \n2. Choi VWY, Cheng SH, Yu KN. Radioadaptive response Induced by alpha-particle-induced stress communicated in vivo between zebrafish embryos.Environ Sci Technol 201O;44:8829-34.   \n3．Azzam EI,de Toledo SM,Little JB.Direct evidence for the participation of gap junction-mediated intercellular communication in the transmission of damage signals from alpha-particle irradiated to nonirradiated cells.Proc Natl Acad Sci U SA 2001;98:473-8.   \n4.Mothersill C， Seymour CB.Cell-cell contact during gamma irradiation is not required to induce a bystander effect in normal human keratinocytes:Evidence for release during irradiation of a signal controlling survival into the medium. Radiat Res 1998; 149:256-62.   \n5.Weinberg WC,Denning MF.p21Wafl control of epithelial cell cycle and cell fate.Crit Rev Oral Biol Med 2002;13:453-64.   \n6.Waga S,Hannon GJ, Beach D, Stillman B. The p21 inhibitor of cyclin-dependent kinases controls DNA replication by interaction with PCNA. Nature 1994; 369:574-8.   \n7.Deng CX,Zhang PM,Harper JW,Elledge SJ,Leder P.Mice lacking p21(CIPi/Wafl） undergo normal development,but are defective in G1 checkpoint control. Cell 1995;82:675-84.   \n8.Nagasawa H,Little JB.Induction of sister chromatid exchanges by extremely low doses of alpha-particles.Cancer Res 1992; 52:6394-6.   \n9.Parrilla-Castellar ER,Arlander SJ,Karnitz L.Dial 9-1-1 for DNA damage: the Rad9-Hus1-Rad1 (9-1-1） clamp complex.DNA Repair (Amst) 2004;3:1009-14.   \n'O．Weiss RS,Matsuoka S,Elledge SJ,Leder P.Hus1 acts upstream of chk1 in a mammalian DNA damage response pathway. Curr Biol 2002;12:73-7.   \n'1.Weiss RS,Enoch T,Leder P.Inactivation of mouse Hus1 results in genomic instability and impaired responses to genotoxic stress. Genes Dev 2000;14:1886-98.   \n'2.Burdak-Rothkamm S, Prise KM. New molecular targets in radiotherapy:DNA damage signalling and repair in targeted and non-targeted cells.Eur JPharmacol 2009; 625:151-5.   \n'3.Dent P,Yacoub A,Fisher PB，Hagan MP,Grant S.MAPK pathways in radiation responses. Oncogene 2003; 22:5885-96.   \n'4.Little JB,Azzam EI,de Toledo SM,Nagasawa H. Bystander effects:intercellular transmission of radiation damage signals. Radiat Prot Dosim 2002; 99:159-62.   \n'5. Tu Y, Wu W, Wu T, Cao_Z, Wilkins R, Toh BH, et al. Antiproliferative autoantigen CDA1 transcriptionally up-regulates p21(Wafl/Cip1）by activating p53 and MEK/ERK1/2 MAPK pathways.JBiol Chem 2007; 282:11722-31.   \n'6.d'Adda di Fagagna F,Reaper PM, Clay-Farrace L,FieglerH, Carr v UI △guII 1, a D1 1 uaHagt npuuit spustI telomere-initiated senescence.Nature 2Oo3;426:194-8.   \n17.Limoli CL,Giedzinski E,Bonner WM,Cleaver JE.UV-induced replication arrest in the xeroderma pigmentosum variant leads to DNA double-strand breaks,gamma-H2AX formation,and Mre11 relocalization.Proc Natl Acad Sci U S A 2002;99:233-8.   \n18.Mogi S,Butcher CE,Oh DH. DNA polymerase eta reduces the gamma-H2AX response to psoralen interstrand crosslinks in human cells. Exp Cell Res 2008; 314:887-95.   \n19.Fenech M.The in vitro micronucleus technique.Mutat Res 2000;   \n455:81-95.   \n20.Wan XS, Zhou Z, Kennedy AR.Adaptation of the dichlorofluorescein assay for detection of radiation-induced oxidative stress in cultured cells.Radiat Res 2003;160:622-30.   \n21.Wan XS, Zhou Z,Ware JH, Kennedy AR. Standardization of a fluorometric assay for measuring oxidative stress in irradiated cells.Radiat Res 2005;163:232-40.   \n22.Hei TK,Zhou H,Ivanov VN,Hong M,Lieberman HB,Brenner DJ,et al. Mechanism of radiation-induced bystander effects:a unifying model.J Pharm Pharmacol 2008; 60:943-50.   \n23.Wu LJ, Randers-Pehrson G, Xu A, Waldren CA, Geard CR, Yu Z, etal.Targeted cytoplasmic irradiation with alpha particles induces mutations in mammalian cells.Proc Natl Acad Sci U S A 1999;   \n96:4959-64.   \n24. Chen S, Zhao Y,Han W, Zhao G, Zhu L，Wang J,et al. Mitochondria-dependent signalling_ pathway are involved in the early process of radiation-induced bystander effects.Br J Cancer   \n2008;98:1839-44.   \n25.Chen S, Zhao Y, Zhao G, Han W,Bao L, Yu KN,et al. Upregulation of ROS by mitochondria-dependent bystander signaling contributes to genotoxicity of bystander effects.Mutat Res 2009;   \n666:68-73.   \n26.Azzam EI，De Toledo SM，Spitz DR，Little JB.Oxidative metabolism modulates signal transduction and micronucleus formation in bystander cells from alpha-particle-irradiated normal human fibroblast cultures.Cancer Res 2002;62:5436-42.   \n27.Weiss RS,Leder P, Vaziri C.Critical role for mouse Hus1 in an Sphase DNA damage cell cycle checkpoint.Mol Cell Biol 2003;   \n23:791-803.   \n28. Willecke K,Eiberger J，Degen J，Eckardt D,Romualdi A, Guldenagel M,et al. Structural and functional diversity of connexin genes in the mouse and human genome.Biol Chem   \n2002; 383:725-37.   \n29．Azzam EI,de Toledo SM,Gooding T,Little JB.Intercellular communication is involved in the bystander regulation of gene expression in human cells exposed to very low fluences of alpha particles.Radiat Res 1998;150:497-504.   \n30.Solan JL,Lampe PD. Connexin phosphorylation as a regulatory event linked to gap_ junction channel assembly.Biochim Biophys Acta 2005;1711:154-63.   \n31.Park JH,Lee MY,Heo JS,Han HJ.A potential role of connexin 43 in epidermal growth factor-induced proliferation of mouse embryonic stem cells:involvement of $\\mathbf { \\bar { C } } \\mathbf { a } 2 + / \\mathbf { P K C }$ ，p44/42 and p38 MAPKs pathways.Cell Prolif 2008;41:786-802.   \n32.Hei TK. Cyclooxygenase-2 as a signaling molecule in radiationinduced bystander effect.Mol Carcinog 2006; 45:455-60. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

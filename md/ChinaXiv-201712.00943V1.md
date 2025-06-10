@@ -1,0 +1,143 @@
+# 临床研究
+
+# 造血干细胞移植后硬皮病样慢性移植物抗宿主病的临床表现
+
+杨 欢,李志涛,林 韧,范志平,黄 芬,江千里,周红升,刘启发,孙 竞南方医科大学南方医院血液科//血液病研究所，广东广州 510515摘要：目的 探讨异基因造血干细胞移植(all-HSCT)后硬皮病样慢性移植物抗宿主病(ScGVHD)的发病率、危险因素。方法对我院2012年1月\~2014年12月之间进行alo-HSCT的259例患者发生ScGVHD的情况进行回顾性分析。结果134例$( 5 1 . 7 \%$ )发生慢性移植物抗宿主病(cGVHD),其中22例为硬皮病型,即ScGVHD在移植患者中的发病率为 $8 . 4 9 \% ( 2 2 / 2 5 9 )$ 、在cGVHD患者中的发病率为 $1 6 . 4 \% ( 2 2 / 1 3 4 )$ 。ScGVHD出现的中位时间为移植后12.5(4\~28)月。单因素分析结果提示预处理方案是否含全身照射(TBI)( $\scriptstyle P = 0 . 0 3 1$ )、GVHD预防方案是否含霉酚酸酯(MMF)( $P { = } 0 . 0 4 6$ 、cGVHD( $P { = } 0 . 0 0 8 { \mathrm { ~ , ~ } }$ 的发生、供者淋巴细胞回输(DLI)( $\scriptstyle P = 0 . 0 0 1$ )均与ScGVHD的发生具有相关性。多因素分析确定cGVHD[相对危险度 $( \mathrm { R R } ) { = } 3 . 5 1 2 , 9 5 \%$ 可信区间$\left( \mathrm { C I } \right) { = } 1 . 2 3 5 { \sim } 9 . 9 8 7 , P { = } 0 . 0 1 8 ]$ 和DLI( $\mathrm { R R } { = } 5 . 2 1 7 , 9 5 \%$ CI=1.698\~16.029, $\scriptstyle P = 0 . 0 0 4$ )为ScGVHD发病的独立危险因素。结论ScGVHD 是移植后一种较为少见的并发症,移植物抗宿主病(GVHD)和DLI是其发病的独立危险因素。
+
+关键词：造血干细胞移植；硬皮病样移植物抗宿主病;临床特征;危险因素
+
+# Sclerodermatous chronic graft-versus-host disease after hematopoietic stem cell transplantation: incidence, clinical characteristics and risk factors
+
+YANG Huan,LIZhitao,IRen,FANZhiping,HUANGen,JANGQianli,ZHOUHongsheng,LIQifa,Jng Departmentoftlogyiteftolofoitalticalesitygou
+
+Abstract: Objective To investigate the incidenceandrisk factors of sclerodermatouschronic graft-versus-hostdisease (ScGVHD)afterallogeneic hematopoieticstemcelltransplantation (allo-HSCT).Methods Theclinical dataof259 patients undergoing alo-HSCT in Nanfang Hospital between January,2012 and December,2014 wereanalyzed.Results Chronic GVHD following allo-HSCT occurred in 134 $( 5 1 . 7 \% )$ ） cases,among whom 22 patients showed sclerodermatous features at a median of 12.5 months (range 4-28 months) after the transplantation. The overallincidence of ScGVHD was $8 . 4 9 \%$ (22/259) in the recipients and $1 6 . 4 \%$ (22/134) in those with cGVHD. Univariate analysis showed that the conditioning regimen with total body irradiation $_ { ( P = 0 . 0 3 1 ) }$ ， GVHD prophylaxis with MMF $\scriptstyle ( P = 0 . 0 4 6 )$ ，presence of chronic GVHD $_ { ( P = 0 . 0 0 8 ) }$ ，and donor lymphocyte infusion $( P { = } 0 . 0 0 1 )$ were all closely associated with the occurrence of ScGVHD. Multivariate analysis identified chronic GVHD ( $\mathrm { R R } { = } 3 . 5 1 2$ ， $9 5 \%$ CI: 1.235-9.987, $P { = } 0 . 0 1 8 )$ and donor lymphocyte infusion ( $\mathrm { R R } { = } 5 . 2 1 7 ,$ $9 5 \%$ CI: 1.698-16.029, $P =$ 0.004)as the independent risk factorsof ScGVHD.Conclusion ScGVHD following allo-HSCT is notacommoncomplication, and cGVHD and donor lymphocyte infusion are the independent risk factors for ScGVHD.
+
+Key words:hematopoieticstemcelltransplantation;sclerodermatouschronicgraft-versus-ostdisease;clinicalcharacteristics; risk factors
+
+慢性移植物抗宿主病(chronic graft-versus-hostdisease,cGVHD)为异基因造血干细胞移植(allo-HSCT)后一组临床表现类似于自身免疫疾病或其他免疫性疾病的临床综合征，主要累及的脏器包括皮肤、口腔、肺、肝脏、肾、消化道、眼、生殖道、肌肉和骨骼、造血和免疫系统等,在allo-HSCT中发病率约为 $3 0 \% { \sim } 7 0 \%$ 。皮肤是慢性GVHD最常受累的靶器官，硬皮病样慢性移植物抗宿主病(sclerodermatous chronic graft-versus-hostdisease,ScGVHD)是其中较为少见的一种类型,主要表现为皮肤硬化、筋膜炎或关节挛缩，皮肤及附属器官的变化表现为皮肤硬化、萎缩、毛细血管扩张、色素沉着或脱失、红斑、挛缩、溃疡、脱发、指甲变化等[3]。ScGVHD可严重影响生活质量，近年在国外渐受重视，已有相关大样本研究报道[24-5]，国内关于ScGVHD仅有少量个案报道，近年国内半相合异基因移植比例增加是否可能导致ScGVHD发病率和临床特征变化，是国内外学者都关切的问题。本文就我院2012\~2014年间259例allo-HSCT患者中ScGVHD的发病率、临床特征及危险因素等情况进行回顾性分析，总结报告如下。
+
+# 1资料和方法
+
+# 1.1 病例基本资料
+
+2012年1月\~2014年12月在我院行allo-HSCT患者281例，本研究纳入其中存活大于100d的患者259例。男169例，女90例，移植时中位年龄29(10\~59)岁。其中，急性髓系白血病(AML)99例，急性淋巴细胞白血病(ALL)96例，急性未分化型白血病(AUL)12例，慢性粒细胞白血病(CML)21例,骨髓增生异常综合征(MDS)7例,非霍奇金淋巴瘤(NHL)15例，多发性骨髓瘤(MM)1例，阵发性睡眠性血红蛋白尿(PNH)1例，再生障碍性贫血(AA)7例。初诊时疾病高危组137例，标危组122例。
+
+# 1.2供者及移植类型
+
+亲缘移植207例，其中同胞HLA全相合移植133例、亲缘非同胞HLA高分辨全相合3例、亲缘HLA半相合68例;非亲缘移植55例，其中HLA全相合移植43例、不全相合12例。ABO血型相合149例，ABO血型主要不合43例，次要不合49例，主次均不合18例。供受者性别相同125例，男供女57例，女供男77例。骨髓移植(BMT)1例，外周血造血干细胞移植(PBSCT)180例，BMT联合PBSCT78例。
+
+# 1.3预处理方案
+
+白消安(Bu) $+$ 环磷酰胺 $\mathrm { ( C y ) }$ 和全身放疗 $\mathrm { ( T B I ) + C y }$ 标准预处理方案,伊达比星 $\mathrm { ( I D A ) } { + } \mathrm { B u C y } \cdot \mathrm { T B I } { + } \mathrm { C y } +$ 依托泊苷(VP-16)、氟达拉滨(Flu) $+$ 阿糖胞苷 $\left( \mathrm { { A r a } \mathrm { { - } C } } \right) +$ $\mathrm { T B I + C y + V P - 1 6 \_ I D A + T B I + C y + V P - 1 6 }$ 超强预处理方案， $\mathrm { F l u + B u }$ 减低剂量预处理方案。通常髓系肿瘤选择BuCy、淋巴系肿瘤选择 $\mathrm { T B I + C y }$ 再生障碍性贫血选择$\mathrm { F l u + C y }$ 方案预处理 $+$ 兔抗人胸腺细胞球蛋白(ATG)，单倍体移植采用北京大学人民医院GIAC方案预处理，移植前未缓解或复发患者接受超强预处理方案。其中，预处理方案含TBI者156例，不含TBI者103例。
+
+# 1.4GVHD的预防和治疗
+
+同胞HLA全相合移植采用环孢素 $( \mathrm { C s A } ) +$ 短疗程甲氨蝶呤(MTX),亲缘HLA半相合移植采用"北京方案"$\mathbf { C s A + M T X + }$ 霉酚酸酯(MMF)+ATG(7.5或 $1 0 \mathrm { m g / k g }$ ，法国赛诺菲公司产品)，非亲缘供者移植采用 $\mathbf { C } _ { \mathrm { { S A + M T X + A T G } } }$ 中 $7 \mathrm { m g / k g }$ ,法国赛诺菲公司产品)。急性GVHD(aGVHD)治疗首选甲泼尼龙 $( \mathbf { M P } , 1 { \sim } 2 \ \mathbf { m g } ^ { - 1 } { \cdot } \mathbf { k g } ^ { - 1 } { \cdot } \mathbf { d } ^ { - 1 } )$ ,MP治疗无效者加用二线治疗，如抗CD25单克隆抗体、其他免疫抑制剂和第三方间充质干细胞(MSC)输注等；慢性GVHD(cGVHD)者首选MP联合CsA治疗，无效者加用其他免疫抑制剂或第三方MSC输注。
+
+# 1.5 cGVHD和ScGVHD的定义
+
+cGVHD的诊断参照2014NIH工作组提出的诊断和分级标准，根据整体严重程度将cGVHD分为轻、中、重度。其中轻度cGVHD:1或2个器官受累且最大评分1分，肺积分0分；中度cGVHD：3个或以上器官受累且最大评分1分，或者1个或以上器官(不包括肺)受累且最大评分2分，或者肺积分1分;重度cGVHD：1个或以上器官受累且最大评分3分，或者肺积分2或3分。ScGVHD定义为临床表现为皮肤硬化、筋膜炎或关节挛缩的一类cGVHD[2]。若病变出现在超过2个解剖部位为广泛型ScGVHD,反之为局限型 $\mathrm { S c G V H D ^ { [ 6 ] } }$ ○ScGVHD患者皮肤硬化程度通过改良的Rodnan评分法(RS)进行评分，即把皮肤化分为17个部位，每个部位分0分(正常）1分（可疑硬化）2分(肯定硬化）3分(绷紧)，17个部位包括双侧手指、手背、前臂、上臂、大腿、小腿、足背共14处加面部、前胸、腹部)。
+
+# 1.6研究终止时间
+
+本研究为回顾性分析，对患者从进行移植随访至死亡或2015年10月1日，中位随访时间为29(3\~44)月。
+
+# 1.7统计学处理
+
+采用SPSS20.0软件进行统计分析。单因素分析采用Pearson $\chi ^ { 2 }$ 检验、Fisher确切概率法及两独立样本 $t$ 检验，多因素分析采用二分类logistic回归， $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+# 2.1 cGVHD和ScGVHD发病率
+
+本研究259例患者中，134例 $( 5 1 . 7 \%$ )发生cGVHD,其中轻度68例 $( 5 0 . 7 \% )$ ）、中度45例（ $3 3 . 6 \%$ ）、重度21例 $( 1 5 . 7 \% )$ 。cGVHD累及部位为皮肤 $( 6 2 . 7 \% )$ ）、肝脏 $5 3 . 0 \%$ 、口腔 $( 2 3 . 1 \% )$ 、眼 $( 1 5 . 7 \%$ ）、肺 $( 1 6 . 4 \% )$ 、肠道 $( 9 . 7 \% )$ 、肾脏 $( 2 . 2 \%$ )等，其中22例（ $1 6 . 4 \%$ 表现为硬皮病型，即ScGVHD在造血干细胞移植后存活大于100d患者中发病率为 $8 . 4 9 \%$ (22/259）。在22例ScGVHD患者中,12例 $( 5 4 . 5 \%$ )来自同胞HLA全相合移植，5例 $( 2 2 . 7 \% )$ 来自亲缘HLA不全相合移植，5例$( 2 2 . 7 \%$ 0来自非亲缘移植。
+
+# 2.2 ScGVHD临床特征
+
+见表1,本研究22例ScGVHD患者中有2例 $( 9 . 1 \% )$ 为关节硬化型，表现为关节挛缩、活动受限，皮肤未见明显硬化现象，其余20例 $( 9 0 . 9 \%$ )均表现为皮肤硬化型，其中7例 $( 3 1 . 8 \%$ ）表现为局限型ScGVHD，13例$( 5 9 . 1 \%$ )为广泛型ScGVHD，皮损表现可见皮肤硬化、色素沉着或脱失、脱屑、溃疡、水疱形成等,均无雷诺现象(图1)。组织病理可见表皮轻度角化过度、基底细胞层色素增多、真皮及皮下脂肪小叶间隔胶原纤维增生（图2)。ScGVHD出现的中位时间为移植后12.5(4\~28)月，常从四肢开始向腹部、前胸、颈部发展，面部累及较少;早期常表现为皮肤色素沉着或脱失、弹性减弱、脱屑等，后逐步出现皮肤坚硬发亮、弹性消失，与皮下组织粘连、不能捏起，受累皮肤感觉变差、无汗、毛发脱落，病变范围扩大且可向深部累及肌肉和关节，出现肌筋膜炎和关节挛缩、强直。经干预治疗后硬化皮肤可变软，但病情易反复，早期干预疗效较好。22例ScGVHD患者中有合并口腔GVHD7例、肝脏GVHD7例、肺GVHD3例、肾脏GVHD1例，无消化道受累。20例皮肤ScGVHD患者中位RS评分值为11(2\~42)分。22例ScGVHD患者有15例进行了自身免疫抗体检查，其中13例抗核抗体(ANA)阳性、2例抗线粒体抗体(AMA)阳性、1例抗着丝点抗体(ACA)阳性，抗Scl-70抗体均阴性。有13例患者ScGVHD发病前已停止免疫抑制剂,5例患者有干扰素注射史。ScGVHD的治疗以CsA/他克莫司 $( \mathrm { F K } 5 0 6 ) +$ 糖皮质激素 $+$ 环磷酰胺、甲氨蝶呤、沙利度胺等免疫抑制剂为基础治疗，2例患者加用抗CD20单抗美罗华、1例加用酪氨酸激酶抑制剂伊马替尼治疗，9例患者因病情进展或常规治疗无效接受了1\~14次MSC输注， $7 7 . 3 \% ( 1 7 / 2 2 )$ 的患者在治疗中受益，1例患者因闭塞性细支气管炎合并严重肺部感染而死亡，其余病例均存活。
+
+表122例ScGVHD患者的临床资料Tab.1 Clinical characteristics of ScGVHD patients $( n { = } 2 2 )$   
+
+<html><body><table><tr><td>Patient</td><td>Skin pattern</td><td>Cutaneous manifestations</td><td>RS score</td><td>Autoimmune markers</td><td>Therapy</td></tr><tr><td>1</td><td>L</td><td>Hyperpigmentation,pruritus,ichthyosis</td><td>10</td><td>ANA</td><td>CsA+Pred+MTX+Thal+MSC</td></tr><tr><td>2</td><td>L</td><td>Hyperpigmentation, sclerosis</td><td>5</td><td>ANA</td><td>CsA+Pred+Thal+MTX</td></tr><tr><td>3</td><td>G</td><td>Hyperpigmentation,sclerosis</td><td>32</td><td>ANA</td><td>CsA+Pred+Thal+CTX+IM+MSC</td></tr><tr><td>4</td><td>L</td><td>Lichenification,sclerosis,desquamation</td><td>8</td><td>No positivity</td><td>FK506+Pred+MMF+CTX</td></tr><tr><td>5</td><td>G</td><td>Hyperpigmentation, desquamation,sclerosis</td><td>30</td><td>ANA</td><td>CsA+Pred+MTX+CTX</td></tr><tr><td>6</td><td>G</td><td>Hypo-and hyperpigmentation, desquamation</td><td>42</td><td>ANA, AMA, ACA</td><td>CsA+Pred+Ta+AZA+CTX+X+</td></tr><tr><td>7</td><td>G</td><td>Hyperpigmentation,sclerosis</td><td>40</td><td>ANA</td><td>CsA+Pred+MTX+Thal+CTX+AZA+MSC</td></tr><tr><td>8</td><td>G</td><td>Hyperpigmentation, sclerosis</td><td>19</td><td>ANA,AMA</td><td>CsA</td></tr><tr><td>9</td><td>G</td><td>Hyperpigmentation, sclerosis</td><td>22</td><td>ANA</td><td>CsA/FK506+Pred+CTX+Thal+COL+MSC</td></tr><tr><td>10</td><td>G</td><td>Hyperpigmentation, sclerosis</td><td>12</td><td>Not examined</td><td>CsA+Pred+AZA</td></tr><tr><td>11</td><td>G</td><td>Hyperpigmentation, sclerosis</td><td>10</td><td>ANA</td><td>CsA+Pred+MMF+CTX+MSC</td></tr><tr><td>12</td><td>L</td><td>Sclerosis</td><td>2</td><td>No positivity</td><td>FK506+Pred+MMF+MSC</td></tr><tr><td>13</td><td>L</td><td>Joint contracture</td><td>0</td><td>ANA</td><td>CsA</td></tr><tr><td>14</td><td>G</td><td>Hyperpigmentation, sclerosis</td><td>10</td><td>ANA</td><td>CsA</td></tr><tr><td>15</td><td>G</td><td>Hypopigmentation,desquamation</td><td>22</td><td>Not examined</td><td>CsA+Pred+MMF</td></tr><tr><td>16</td><td>G</td><td>Hypopigmentation,sclerosis,blister</td><td>10</td><td>ANA</td><td>FK506+MP+MMF+MTX+MSC</td></tr><tr><td>17</td><td>G</td><td>Hyperpigmentation, sclerosis</td><td>20</td><td>Not examined</td><td>CsA+MP+Thal</td></tr><tr><td>18</td><td>L</td><td>Hyperpigmentation, sclerosis</td><td>2</td><td>Not examined</td><td>CsA+Pred+CTX</td></tr><tr><td>19</td><td>L</td><td>Joint contracture</td><td>0</td><td>ANA</td><td>CsA+RTX+Thal+MSC</td></tr><tr><td>20</td><td>L</td><td>Hyperpigmentation, sclerosis</td><td>4</td><td>Not examined</td><td>FK506+MP</td></tr><tr><td>21</td><td>L</td><td>Hyperpigmentation, sclerosis</td><td>4</td><td>Not examined</td><td>FK506+MP</td></tr><tr><td>22</td><td>G</td><td>Hyperpigmentation,sclerosis</td><td>18</td><td>Not examined</td><td>CsA+MP+MMF</td></tr></table></body></html>
+
+L:Localized;G:Gerald;AAntiuceaibs;Antiodaliby;C:Attrorentiby;Co; Pred:Prednison；MTX:Methotrexate；Thal:Thalidomide;；MSC:Mesenchymalstemcell;；CTX:Cyclophosphamide;IM:Imatinib;FK506: Tacrolimus; MMF: Mycophenolate mofetil;MP: Methylprednisolone;AZA:Azathioprine;RTX: Rituximab; COL: Colchicine.
+
+# 2.3ScGVHD发生的危险因素分析
+
+根据文献报道[2.46],本研究把可能导致ScGVHD发病的因素纳人分析，包括疾病种类、移植前状态、供受者年龄性别、供者血缘、HLA配型、ABO血型、干细胞来源、移植有核细胞数、预处理方案、GVHD预防方案、是否发生过aGVHD或cGVHD、有无DLI。将259例患者分为ScGVHD( $\scriptstyle { \overbrace { n = 2 2 } }$ )患者组和非ScGVHD患者组（ $\overset { \prime } { \underset { \mathrm { \tiny ~ 1 } } { \mathrm { \tiny ~ 2 } } } =$ 237)进行比较分析。单因素分析结果提示，预处理方案是否含TBI( $\scriptstyle P = 0 . 0 3 1 .$ ）、GVHD预防方案是否含MMF$\left( P { = } 0 . 0 4 6 \right) . \mathrm { c G V H D } ( P { = } 0 . 0 0 8 )$ 的发生、DLIC $\scriptstyle P = 0 . 0 0 1 .$ 均与ScGVHD的发生具有相关性(表2)。应用logistic回归模型进行多因素分析，确定cGVHD和DLI为
+
+![](images/9c3ec46d6d432a41b8fdf7994d4d528862006535ebf52ad418e67ed62c68c069.jpg)  
+图1ScGVHD患者上肢皮损 Fig.1 Skin lesions in the upper limb of a patient with ScGVHD.
+
+![](images/7a6fe8d04f2ed21f1f29f2c8b25ef5b40a5c6f27afa7fd0a32b36c85c659a28d.jpg)  
+图2ScGVHD皮损组织病理像  
+Fig.2 Skin biopsy for a patient with ScGVHD showing slight hyperkeratosis in the overlying epidermis, atrophicchangesinthestratum spinosum,and pigmentation in the basal layer (HE staining,original magnification: $\times 1 0 0 \textbar$ .Increased melanin granules and melanophages were seen in the upper dermis.Collagen fiber hyperplasia and homogenization was observed from the middle layerof the dermis to the subcutaneous tissue.
+
+ScGVHD发病的独立危险因素，其中，发生过cGVHD的相对危险度(RR)为3.512( $_ { P = 0 . 0 1 8 }$ ）， $9 5 \%$ CI为1.235\~9.987，有无DLI的RR为5.217( $P { = } 0 . 0 0 4 )$ ， $9 5 \%$ CI为 $1 . 6 9 8 \substack { \sim } 1 6 . 0 2 9 .$ □
+
+# 3讨论
+
+Allo-HSCT是治疗血液肿瘤的重要手段，cGVHD是影响移植后患者生存时间和生活质量的重要因素，ScGVHD是其中较为少见的一种严重cGVHD。首例ScGVHD报道于20世纪70年代[8，近年国外报道日渐增多,我国研究者仅陆续个案报道13]。早期有研究者[14]报道在同胞HLA全相合骨髓移植患者中ScGVHD的发病率为 $3 . 6 \% ( 7 / 1 9 6 )$ ,发生中位时间为移植后2(0.8\~6)年，因皮肤外器官受累导致的死亡率可达 $2 0 \% { \sim } 4 0 \%$ L随着外周血造血干细胞移植、非亲缘供者移植及HLA半相合移植的技术的广泛开展，移植后cGVHD发病率较之同胞HLA全相合骨髓移植有所上升。近年来文献报道在进行长达2.7\~159.1月的随访研究中，ScGVHD出现的中位时间为移植后15\~18(2.5\~92)月[2.5-6],发病率为 $3 . 4 \% \sim 1 1 . 5 \% ^ { [ 6 , 1 6 ] }$ ,在cGVHD 患者中的发病率为$1 5 . 5 \% \sim 5 2 . 9 \% ^ { [ 2 , 4 - 6 ] }$ 。本组研究ScGVHD在移植患者中(存活大于100d)的发病率为 $8 . 4 9 \%$ ,在cGVHD患者中的发病率为 $1 6 . 4 \%$ ，与文献报道类似。当然，本研究中位随访时间为29(3\~44)月，国外报道中尚有移植后92月仍出现 $\mathrm { S c G V H D } ^ { [ 2 ] }$ ,若延长本研究病例随访时间，ScGVHD发病率可能略微升高。值得注意的是，本研究中同胞HLA全相合、亲缘HLA半相合、非亲缘移植患者比例分别为 $5 1 . 4 \% . 2 7 . 4 \% . 2 1 . 2 \%$ ，与国外近年研究样本的相应比例 $( 4 2 \% 4 \% , 5 5 \% )$ 存在差异明显2，提示“北京方案”的亲缘HLA半相合移植并不会增加ScGVHD的发病率。而且，我院近10年移植病例统计中同样发现,亲缘HLA半相合移植的cGVHD发病率相较非亲缘移植减低，说明我国北京大学人民医院GIAC预处理方案在HLA半相合移植后远期严重并发症的预防方面效果肯定。
+
+本研究中ScGVHD患者临床表现与既往报道中基本一致，主要为全身性或局限性皮肤硬化、色素沉着或脱失，可有苔藓样皮损、皮肤斑纹，严重时可出现皮肤溃疡、水疱形成，四肢累及较多，可累及胸腹及背部，较少累及面部，病情发展可致关节受累、活动受限。相较于系统性硬化，ScGVHD常无雷诺现象及关节疼痛，抗Scl-70抗体和抗着丝点抗体常为阴性，一般无消化道、心脏、肾脏受累。本研究中有2例患者为关节硬化型，表现为关节挛缩、活动受限，无明显皮肤硬化表现，这在文献报道中较少见。病变皮肤组织学病理可表现为基底细胞层细胞水肿、表皮细胞浸润和其他细胞改变、真皮上层胶原纤维增生等[18]。ScGVHD患者自身抗体谱可有ANA、AMA、ACA阳性，而与系统性硬化高度相关的抗Scl-70抗体阴性。
+
+预处理方案中TBI的使用与ScGVHD发病相关在文献中已有报道[2.4-5]。在小鼠GVHD模型中,经照射后行同源皮肤移植并经回输异基因的淋巴细胞诱导GVHD的小鼠出现了皮肤的纤维化损伤，而未接受照射行皮肤移植的小鼠则未出现上述变化[19]。其机制可能为照射处理上调皮肤内MHC分子和IFN的表达[2],这些因子及其下源因子可能会加强T淋巴细胞毒性[4，体外照射还可导致机体免疫调节因子减少、角质形成细胞损伤、皮肤损伤等，这些因素可能诱导ScGVHD的发生。Inamoto等指出 $\mathrm { T B I } { > } 4 5 0 \ \mathrm { c G y }$ 为ScGVHD发病危险因素，我院移植预处理TBI剂量通常为总剂量900cGy(分2d)或 $7 0 0 \ \mathrm { c G y } ( 1 \ \mathrm { d } )$ ，单因素分析提示TBI是ScGVHD危险因素（ $\scriptstyle P = 0 . 0 3 1 .$ ),与国外报道相符。
+
+表2单因素分析ScGVHD组和非ScGVHD组供受者临床特性 Tab.2 Univariate analysisof theclinical characteristics of the donors and recipients withand without ScGVHD   
+
+<html><body><table><tr><td></td><td>allo-HSCT patients (n=259)</td><td>ScGVHD (n=22)</td><td>Non-ScGVHD (n=237)</td><td>P</td></tr><tr><td colspan="5">Age at HSCT[year, median (range)]</td></tr><tr><td>Recipient</td><td>29(10-59)</td><td>25(12-41)</td><td>29(10-59)</td><td>0.150</td></tr><tr><td>Donor</td><td>31(7-61)</td><td>27.5(12-49)</td><td>32(7-61)</td><td>0.094</td></tr><tr><td colspan="5">Gender (male/female)</td></tr><tr><td>Recipient</td><td>169/90</td><td>13/9</td><td>156/81</td><td>0.526</td></tr><tr><td>Donor</td><td>149/110</td><td>14/8</td><td>135/102</td><td>0.545</td></tr><tr><td>Disease risk</td><td></td><td></td><td></td><td>0.543</td></tr><tr><td> Standard</td><td>122</td><td>9</td><td>113</td><td></td></tr><tr><td>High</td><td>137</td><td>13</td><td>124</td><td></td></tr><tr><td>Conditioning</td><td></td><td></td><td></td><td>0.031</td></tr><tr><td>With TBI</td><td>156</td><td>18</td><td>138</td><td></td></tr><tr><td>Without TBI</td><td>103</td><td>4</td><td>99</td><td></td></tr><tr><td>Stem cell source</td><td></td><td></td><td></td><td>0.423</td></tr><tr><td>PBSCT</td><td>180</td><td>17</td><td>163</td><td></td></tr><tr><td>BMT+PBSCT</td><td>78</td><td>5</td><td>73</td><td></td></tr><tr><td>Donor</td><td></td><td></td><td></td><td>0.858</td></tr><tr><td>Unrelated</td><td>55</td><td>5</td><td>50</td><td></td></tr><tr><td>Related</td><td>204</td><td>17</td><td>187</td><td></td></tr><tr><td>HLA match(10/10)</td><td></td><td></td><td></td><td>0.386</td></tr><tr><td>Matched</td><td>179</td><td>17</td><td>162</td><td></td></tr><tr><td>Mismatched</td><td>80</td><td>5</td><td>75</td><td></td></tr><tr><td>ABO compatibility</td><td></td><td></td><td></td><td>0.767</td></tr><tr><td>Match</td><td>149</td><td>12</td><td>137</td><td></td></tr><tr><td>Mismatch</td><td>110</td><td>10</td><td>100</td><td></td></tr><tr><td>Gender match</td><td></td><td></td><td></td><td>0.865</td></tr><tr><td>No</td><td>134</td><td>11</td><td>123</td><td></td></tr><tr><td>Yes</td><td>125</td><td>11</td><td>114</td><td></td></tr><tr><td>GVHD prophylaxis</td><td></td><td></td><td></td><td></td></tr><tr><td>With/ Without ATG</td><td>130/129</td><td>10/12</td><td>120/117</td><td>0.642</td></tr><tr><td>With/ Without MMF</td><td>111/148</td><td>5/17</td><td>106/131</td><td>0.046</td></tr><tr><td>aGVHD</td><td></td><td></td><td></td><td>0.901</td></tr><tr><td>No</td><td>121</td><td>10</td><td>111</td><td></td></tr><tr><td>Yes</td><td>138</td><td>12</td><td>126</td><td></td></tr><tr><td>cGVHD</td><td></td><td></td><td></td><td>0.008</td></tr><tr><td>No</td><td>129</td><td>5</td><td>124</td><td></td></tr><tr><td>Yes</td><td>130</td><td>17</td><td>113</td><td></td></tr><tr><td>DLI</td><td></td><td></td><td></td><td>0.001</td></tr><tr><td>No</td><td>135</td><td>4</td><td>131</td><td></td></tr><tr><td>Yes</td><td>124</td><td>18</td><td>106</td><td></td></tr><tr><td>Nucleated cell dose</td><td></td><td></td><td></td><td>0.485</td></tr><tr><td>≥10x10/kg</td><td>29</td><td>1</td><td>28</td><td></td></tr><tr><td><10x10/kg</td><td>230</td><td>21</td><td>209</td><td></td></tr></table></body></html>
+
+TBI:Totalbodyiradiation；PBSCT:Peripheral bloodstemcelltransplantation；BMT:Bonemarrowtransplantation；GVHD: Graft-versus-hostdisease;ATG:Anti-thymocyte globulin; MMF:Mycophenolate mofetil; DLI: Donor lymphocyte infusion.
+
+本研究发现GVHD预防方案中MMF的使用可能与ScGVHD的发病相关( $\scriptstyle P = 0 . 0 4 6 )$ ,在含MMF预防GVHD的移植患者中ScGVHD发病率偏低。临床上MMF常用于HLA不相合移植或供受者年龄较大、孕产史较多等有GVHD发生高危因素的患者，尽管在多因素分析中无显著意义，MMF在治疗ScGVHD的作用仍值得深入研究。MMF能抑制胶原基因的表达、细胞外基质的收缩、成纤维细胞的迁移，提示其具有抗纤维化作用[20]。Lai等[21在一项前瞻性研究中指出，在同胞HLA全相合和1个位点不合的移植患者中采用 $\mathrm { C s A } +$ $\mathbf { M T X + M M F }$ 预防GVHD相较于 $\mathbf { C s A + M T X }$ 方案其aGVHD发生率更低，黄河等22-23同样提出在非亲缘移植中应用MMF联合CsA、MTX预防aGVHD有效。本中心研究结果提示MMF在预防移植远期ScGVHD并发症方面可能具有一定效果，在国内文献报道中尚属首次发现，但明确结论尚需多中心前瞻性研究的证实。
+
+多因素分析显示既往cGVHD和DLI为ScGVHD发病的独立危险因素，其RR值分别为3.512( $_ { P = 0 . 0 1 8 } )$ ）、5.217( $\scriptstyle P = 0 . 0 0 4 )$ 。本研究22例ScGVHD患者中有18例 $( 8 1 . 8 \%$ )接受了1\~4次预防性和/或MRD检测指导的DLI,比例明显高于非ScGVHD患者的 $4 4 . 7 \%$ （ $P =$ 0.001)。对于移植前高危状态且无明显GVHD或有早期复发征象患者，常常行DLI、注射IFN、减量免疫抑制剂等诱导过继性免疫反应以增强移植物抗白血病效应(GVL)，但GVHD常常与之伴行。近期报道 $^ { [ 2 4 ] } \mathrm { D L I }$ 后的GVHD发生率达 $3 9 \%$ ,而在DLI中 $\mathrm { C D } 3 +$ 细胞量 ${ \geqslant } 1 0 \times$ $1 0 ^ { 7 } / \mathrm { k g }$ 的患者中GVHD发生率高达 $5 5 \%$ ,DLI后出现ScGVHD早期曾有报道[25]。cGVHD被认为是移植后患者生存的保护因素[26-27],DLI对于提高高危白血病(尤其是CML)移植后复发患者生存率效果肯定[28],那么在新时代，为了防止复发而人为诱导GVHD增加情况下，如何防止严重cGVHD,包括ScGVHD,是需要重视的问题之一。
+
+参考文献：   
+[1]Jagasia MH, Greinix HT, Arora MA,et al. National institutes of health consensus development project on criteria for clinical trials in chronic Graft-versus-Host disease:I. the 2O14 diagnosis and staging working group report[J].Biol Blood Marrow Transplant, 2015,21(3): 389-401.   
+[2]Inamoto Y, Storer BE,Petersdorf EW,et al.Incidence,risk factors, and outcomes of sclerosis in patients with chronic graft-versus-host disease[J].Blood,2013,121(25): 5098-103.   
+[3]White J，Creamer D,Du Vivier A，et al. Sclerodermatous graft-versus-hostdisease:clinical spectrumand therapeutic challenges[J].BrJDermatol,2007,156(5): 1032-8.   
+[4]MartiresKJ,Baird K, Steinberg SM,et al. Sclerotic-type chronic GVHD of the skin: clinical risk factors,laboratory markers,and burden of disease[J]. Blood,2011,118(15): 4250-7.   
+[5]Uhm J,Hamad N,Shin EM,et al. Incidence,risk factors,and Long-Term outcomes of sclerotic Graft-versus-Host disease after allogeneichematopoietic cell transplantation ［J].Biol Blood Marrow Transplant, 2014,20(11): 1751-7.   
+[6]Skert C,Patriarca F, Sperotto A,et al. Sclerodermatous chronic graft-versus-host disease after allogeneic hematopoietic stem cell transplantation:incidence,predictorsandoutcome[J]. Haematologica,2006,91(2): 258-61.   
+[7]Clements P,Lachenbruch P, Siebold J,et al. Inter and intraobserver variability of total skin thickness score(modified Rodnan TSS)in systemic sclerosis[J]. JRheumatol,1995,22(7):1281-5.   
+[8］ Shulman HM,Sale GE,Lerner KG,et al．Chronic cutaneous graft-versus-host disease in man[J].Am J Pathol,1978,91(3): 545-70.   
+[9］李铁军,李 乔,涂彩霞,等.慢性移植物抗宿主病一例[J].中华皮肤科 杂志,2002,35(5):342-342.   
+[10]齐焕英,付 越,金 江,等.硬皮病样慢性移植物抗宿主病2例[J].北京 大学学报:医学版,2004,36(5):559-60.   
+[11]郭一峰,王耀祖,郑 捷.硬皮病样慢性移植物抗宿主病3例[J].临床皮 肤科杂志,2004,33(3):154-6.   
+[12]董秀娟,焦雪丽,刘萌萌,等.非血缘异基因造血干细胞移植后硬皮病 样变1例附文献复习[J].生物医学工程与临床,2013(1):61-3.   
+[13]闫雨荷,谢 勇,刘跃华,等.移植术后致硬皮病1例[J].中国麻风皮肤 病杂志,2013(9): 597-8.   
+[14] Chosidow O, Bagot M, Vernant JP,et al. Sclerodermatous chronic graft-versus-host disease.Analysis of seven cases[J].JAm Acad Dermatol,1992,26(1): 49-55.   
+[15]Lee SJ,Wegner SA, Mcgarigle CJ,et al. Treatment of chronic graft-versus-host disease with clofazimine[J]. Blood,1997,89(7): 2298-302.   
+[16]Penas PF,Jones-Caballero M,Aragues M,et al. Sclerodermatous graft-vs-host disease - Clinical and pathological study of 17 patients [J].Arch Dermatol,2002,138(7): 924-34.   
+[17]于嗣俭,戴 敏,孙 竞,等.亲缘HLA不相合与无关HLA全相合供者造 血干细胞移植治疗血液肿瘤疗效比较[J].中华血液学杂志,2014,35 (9): 826-30.   
+[18] Terasaki K, Kanekura T, Setoyama M,et al. A pediatric case of sclerodermatouschronic graft-versus-host disease [J].Pediatr Dermatol,2003,20(4): 327-31.   
+[19]JDesbarats,TA Seemayer,WS Lapp.Irradiation of the skin and systemic graft-versus-host disease synergize to produce cutaneous lesions [J].Am JPathol,1994,144(144): 883-8.   
+[20]Roos N,Poulalhon N,Farge D,et al.In vitro evidence for a direct antifibrotic role of the immunosuppressive drug mycophenolate mofetil[J].JPharmacol Exper Therap,2007,321(2): 583-9.   
+[21]Lai Y,Ma J,Schwarzenberger P,et al. Combination of CsA,MTX and low-dose,short-course mycophenolate mofetil for GVHD prophylaxis[J].Bone Marrow Transplant,20o9,43(1): 61-7.   
+[22]黄 河,林茂芳,孟海涛,等.霉酚酸酯联合CsA和短程MTX预防非亲 缘异基因骨髓移植的急性GVHD[J].中华血液学杂志,2001(2): 19-21.   
+[23]梁 彬,黄 河,蔡 真,等.HLA基因位点全相合和1\~2个位点不合无 血缘关系异基因骨髓移植的临床疗效比较[J].中华血液学杂志, 2004,25(2): 74-7.   
+[24]Bar M,Sandmaier BM,Inamoto Y,et al.Donor lymphocyte infusion for relapsed hematological malignancies after allogeneic hematopoietic cell transplantation:prognostic relevance of the initial $\mathrm { C D } 3 { + } \mathrm { T }$ cell dose[J].Biol Blood Marrow Transplant, 2013,19 (6): 949-57.   
+[25]Jones-Caballero M,Fernandez-Herrera J, Cordoba-Guijarro S,et al. Sclerodermatous graft-versus-host disease after donor leucocyte infusion[J].BrJDermatol,1998,139(5): 889-92.   
+[26] Shokouhi S,Bray S,Bakhtiyari S,et al.Effects of aGVHD and cGVHD on survival rate in patients with acute myeloid leukemia after allogeneic stem cell transplantation[J].Int J Hematol Oncol Stem Cell Res,2015,9(3): 112-21.   
+[27] Punatar S,Gupta A,Gawande J,et al. Chronic graft versus host diseaseinacuteleukemiapatientsundergoingallogeneic hematopoietic stem cell transplant: analysis of risk factors,pattern and long term outcome[J]. Ind J Hematol Blood Transf,2016,32 (1):32-8.   
+[28]Hossain NM,Klumpp T,Ulicny JA,et al. Donor lymphocyte infusion in hematologic Malignancies-Good to be fresh?［J].Clin Lymphoma Myeloma Leuk,2016,16(2):111-5. (编辑：经媛)
+
+# （上接801页）
+
+[19]王雪峰,何援利,谭 峰.Bcl-2基因对环磷酰胺诱导的大鼠卵巢损伤的 保护作用[J].中国妇幼保健,2013,28(1):143-7.   
+[20] Christian M,Lam EW,Wilson MS,et al.FOXO transcription factors and their role in disorders of the female reproductive tract [J]. Curr Drug Targets,2011,12(9): 1291-302.   
+[21]Gilley J,Coffer PJ,Ham J.FOXO transcription factors directly activate bim gene expression and promote apoptosis in sympathetic neurons[J].J Cell Biol,2003,162(4): 613-22.   
+[22]Blumenfeld Z,Avivi I,Eckman A,et al. Gonadotropin-releasing hormone agonist decreases chemotherapy-induced gonadotoxicity and premature ovarian failure in young female patientswith Hodgkin lymphoma[J].Fertil Steril,2008,89(1):166-73.   
+[23]罗丽莉,刘红,钱元恕,等.新生大鼠卵母细胞调亡信号通路 SCF-FOXO3a的体外实验研究[J].生殖与避孕，2009,29(7):417-21.   
+[24]随旭霞,傅玉才,罗丽莉,等.Foxo3a转录因子参与卵母细胞的凋亡 [J].中国现代医学杂志,2007,17(12):1438-41.   
+[25]刘红.新生大鼠卵母细胞凋亡信号通路调控的实验研究[D].汕头： 汕头大学,2009.   
+[26]Kong XX,Fu YC,Xu JJ,etal.Resveratrol,an effective regulator of ovarian development and oocyte apoptosis[J].JEndocrinol Invest, 2011,34(11): e374-81.   
+[27] Manabe N,Goto Y,Matsuda-Minehata F,et al.Regulation mechanism of selective atresia in porcine follicles: regulation of granulosa cell apoptosis during atresia[J].JReprod Dev,2O04,50 (5):493-514.   
+[28]Ingman WV,Robertson SA.Defining the actions of transforming growth factor beta in reproduction [J].Bioessays,2Oo2,24(10): 904-14.   
+[29]Xu J, Oakley J, Mcgee EA. Stage-specific expression of Smad2 and Smad3 during folliculogenesis[J].Biol Reprod,2002,66(6):1571-8.   
+[30]李倩.mir-381在小鼠卵泡不同发育阶段的表达及其对颗粒细胞的 影响[D].武汉:华中农业大学,2014.   
+[31]杜玉爱.小鼠卵泡发育过程中miRNA-351、miRNA-871的表达规律 及其对卵泡颗粒细胞功能的调控研究[D].武汉：华中农业大学, 2014.   
+[32]但意.MiRNA-130a在小鼠卵泡发育过程中的表达和对颗粒细胞增 殖和凋亡的影响[D].武汉:华中农业大学,2014.
+
+(编辑：孙昌朋)

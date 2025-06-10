@@ -1,0 +1,232 @@
+# 小学儿童词汇知识与阅读理解的关系：交叉滞后研究
+
+陈红君 赵英 伍新春 孙鹏 谢瑞波 冯杰
+
+(北京师范大学心理学部，应用实验心理北京市重点实验室，儿童阅读与学习研究中心，北京 100875)摘要 对小学1、3、5年级共399 名学生进行为期1年的追踪测查，使用交叉滞后模型检验小学低、中、高年级儿童词汇知识与阅读理解的关系。在控制了语音意识、语素意识、一般认知能力和自回归效应之后，结果发现：在小学低年级，词汇知识与阅读理解之间未发现显著的纵向预测关系；在中年级，词汇知识和阅读理解存在显著的双向预测关系；在高年级，T1的阅读理解能够显著预测T2 的词汇知识，而T1的词汇知识对 T2 阅读理解的预测作用不显著。研究结果表明词汇知识与阅读理解的关系在小学不同年级段存在不同的模式，这一发现支持了阅读发展阶段论，并对阅读三角理论进行了一定的补充。
+
+关键词小学儿童；词汇知识；阅读理解；交叉滞后；追踪研究
+
+# 1问题提出
+
+小学时期是儿童发展的关键期，对于个体阅读能力的发展更是具有重要意义。2016 年12月27日，国家新闻出版广电总局发布《全民阅读“十三五”时期发展规划》，强调加强对少儿阅读规律的研究和运用。理解是阅读的最终目的和核心问题。阅读理解是个体根据头脑中已有的知识经验和信息，构建文本意义的过程(Kintsch,1998;Van den Broek,2010)。作为个体发展中的一项基本素质，阅读理解一直是国内外研究者关注的热点。词汇知识指个体理解他人的言语、表达自己的想法和解释读到的文本时所运用的与词汇含义有关的知识(Moats,2005)。儿童词汇知识在小学阶段迅速增长，每个儿童每年大概能习得几千个新的词语(Nagy&Anderson,1984)。词汇质量假说(Perfet,2007)认为，词汇知识的质量决定阅读理解的质量。一个人总体的认知资源有限，如果读者对文本中的词汇都很熟悉，能够快速加工词汇，提取词汇的意义，就可以将更多的认知资源用于其他更高级的活动，从而促进阅读理解。与该理论一致，以往研究也发现，词汇知识与阅读理解存在高度相关(Cunningham&
+
+Stanovich,1997; Koda,1989;Tannenbaum, Torgesen,& Wagner,2006)。
+
+为了探究词汇知识对阅读理解的影响，Seigneuric 和Ehrlich(2005)对法国 56 名一年级儿童进行了为期3年的追踪测查，结果发现T1(时间点1)的词汇知识不能显著预测T2(时间点2)的阅读理解，但可以显著预测 T3(时间点3)的阅读理解，T2的词汇知识可以显著预测 T3 的阅读理解。Zhang 等人(2012)对164 名7到8岁的香港儿童进行为期1年的追踪，结果发现 T1 的词汇知识不能显著预测 T2 的阅读理解。Storch 和 Whitehurst (2002)以626 名美国儿童为研究对象，对其学前至小学四年级期间的语音意识、词汇知识和阅读理解等能力进行测查，结构方程模型显示，小学低年级的阅读理解由早期的语音意识等较为底层的能力决定，而小学中年级的阅读理解主要由其当下的词汇知识水平决定。Shu 等人(2006)对北京五、六年级共152名儿童进行测查，结果发现，除了语素意识、快速命名和语音意识外，词汇知识也能显著预测阅读理解。Song 及其同事(2015)对 264 名汉语儿童进行长达 8年的追踪(4\~11岁)，结果表明 4\~10 岁的词汇知识及其增长速度都能显著预测 11岁时的阅读理解水平。根据以往研究，词汇知识对阅读理解的影响在不同年级之间的结果并不一致，本研究拟进一步对小学不同年级段词汇知识和阅读理解的纵向关系进行系统性的探究。
+
+阅读三角理论(Perfetti,2010)指出，词汇知识和阅读理解相互影响，良好的词汇知识会促进阅读理解，同时阅读理解会加深对词汇知识的学习。研究发现小学阶段只有约 $10 \%$ 的词汇是通过正规教学获得的(Penno,Wilkinson,&Moore,2002)。阅读过程中的伴随学习是词汇知识的主要来源(Nagy, Herman,& Anderson,1985;Wasik,Hindman,& Snell,2016)，也是儿童词汇知识迅速增长的重要原因(Ku&Anderson,2001)。Cain, Oakhill 和 Lemmon (2004)发现9 到10 岁的儿童能够根据上下文推断出生词的含义。相反，较差的阅读理解能力会阻碍词汇知识的发展(Cunningham& Stanovich,1991; Nagy & Anderson,1984; Nagy, et al.,2000)。因此,除词汇知识对阅读理解的影响外，阅读理解也可能会影响到儿童词汇知识的获得。而以往的研究中，大多注重探究词汇知识对阅读理解的影响，较少关注阅读理解对词汇知识的作用。
+
+Verhoeven 和VanLeeuwe (2008)对 2143名荷兰儿童进行6年的追踪研究(从一年级到六年级)，通过构建交叉滞后模型发现，词汇知识与阅读理解相互影响，T1的词汇知识显著预测 T2 的阅读理解，T2的阅读理解显著预测 T3的词汇知识，T3 的词汇知识显著预测 T4的阅读理解，T4 的阅读理解显著预测 T5 的词汇知识，T5 的词汇知识显著预测 T6 的阅读理解。Sparapani 等人(2018)对 468 名美国儿童一年级上学期和下学期的词汇知识和阅读理解进行了测查，结果发现词汇知识和阅读理解存在纵向的相互预测关系。而Quinn,
+
+Wagner,Petscher 和Lopez (2015)追踪美国316名一年级儿童直到四年级，通过构建潜变量增长模型，发现词汇知识能够显著预测阅读理解，而阅读理解对词汇知识的预测作用不显著。不过，Quinn 等人(2015)和 Sparapani 等人(2018)并未对任何影响词汇知识和阅读理解的变量进行控制，Verhoeven 和 VanLeeuwe 的研究(2008)也忽略了语音意识的影响，且并未验证不同年级词汇知识与阅读理解的关系是否存在差异。大量研究表明语音意识、语素意识、一般认知能力对词汇知识和阅读理解都有重要的影响(Henry&Maclean,2003;Mcbride-Chang et al.,2005；李虹，饶夏激，董琼，朱瑾，伍新春,2011；赵英，程亚华，伍新春，阮氏芳，2016)。为此，本研究将语音意识、语素意识和一般认知能力作为控制变量，进行更严格的考察，同时结合儿童阅读发展阶段的特点，通过对小学一、三、五年级儿童词汇知识和阅读理解能力进行一年的追踪测查，使用交叉滞后模型进行检验，以探讨小学不同年级段儿童的词汇知识与阅读理解之间的双向关系，并对阅读三角理论进行验证。
+
+根据阅读发展阶段论，小学低年级(一、二年级)处于“学会阅读”(leaming toread)阶段，儿童的主要任务是掌握字词，学会阅读的基本技巧；中年级(三、四年级)逐渐转向“通过阅读学习”(reading to learn)的阶段(Chall,1983)；高年级(五、六年级)，阅读成为儿童学习新知识的主要途径(Chall,1996)。同时，随着儿童在学校的进一步学习，词汇会变得越来越抽象(Minskoff,2005)。低年级的时候，儿童学习的词汇主要是基于他们的经验或者具体的事物;中年级儿童需要理解口语词汇中对应的所有书面词语(Graves,Juel,Graves,& Dewitz,2011);到了高年级，儿童需要学习来自教科书或课堂讨论中较为抽象的词汇(Minskoff,2005)。因此，对不同年级段的儿童而言，词汇知识和阅读理解可能存在不同的关系。低年级时，儿童的词汇知识和阅读理解都更多受到底层阅读技能的影响，如语音意识、语素意识等(Storch&Whitehurst,2002)；中年级时，儿童阅读理解受到词汇知识的影响(Storch&Whitehurst,2002)，且逐渐在阅读过程中理解并掌握词汇的内涵；高年级时，儿童主要通过阅读进行学习，词汇知识的主要来源是文本阅读(Nagy,Anderson,& Herman,1987)。
+
+以往研究也发现，低年级儿童的阅读理解主要由早期的语音意识等较为基本的能力决定(Storch&Whitehurst,2002)，而其词汇知识主要来源于口语经验；中年级时，阅读理解主要受到词汇知识的影响(Storch&Whitehurst,2002)，并且儿童能够通过对文本的理解推断出生词的含义(Cain,Oakhill&Lemmon,2004)，词汇知识和阅读理解可能相互影响；有元分析发现，对高年级儿童词汇知识的直接干预对阅读理解的影响效应几乎为0(Wright＆Cervetti,2017)，此时可能主要是阅读理解对词汇知识的影响。根据相关理论和以往研究结果，本研究假设：在控制了语音意识、语素意识等更为底层的能力之后，低年级儿童的词汇知识与阅读理解之间没有显著的纵向预测关系，中年级儿童的词汇知识和阅读理解之间存在显著的双向预测关系，在高年级，词汇知识对阅读理解的影响较小，主要是阅读理解影响词汇知识。
+
+# 2研究方法
+
+# 2.1被试
+
+本研究以山西省两所普通小学一、三、五年级共 399 名小学生为被试，其中男生198人、女生 201人。首次测试时间(T1)为一、三、五年级的秋季学期，第二次测试时间(T2)为其二、四、六年级的秋季学期。第一次测试共有 436名儿童参加，因转学等原因，到第二次测试时，低、中、高年级分别流失被试22、13、2人，流失率为 $8 . 4 9 \%$ 。对流失被试进行分析，卡方检验及方差分析(将年级作为控制变量)的结果显示，继续参加研究的被试与流失的被试在性别 $( \chi ^ { 2 } = 2 . 1 3 , p = 0 . 1 4 )$ 、月龄 $\left[ F \left( 1 , 4 3 3 \right) = 1 . 4 9 \right.$ $p = 0 . 2 2 ]$ 、一般认知能力 $[ F ( 1 , 4 2 7 ) =$ 0.22, $ { p } = 0 . 6 4 ]$ 及第一次测试的词汇知识 $\left[ F ( 1 , 4 3 3 ) = 1 . 0 2 , p = 0 . 3 1 \right]$ 、阅读理解 $[ F ( 1 , 4 3 3 ) = 0 . 2 8$ $p = 0 . 4 5 ]$ 、语音意识 $\left[ F \left( 1 , 4 3 3 \right) = 0 . 0 7 , p = 0 . 8 0 \right]$ 、语素意识 $\left[ F \left( 1 , 4 3 3 \right) = 0 . 2 8 , p = 0 . 5 9 \right]$ 上均未发现显著性差异，表明被试是随机流失。两次均参加测试的被试为本研究的研究对象，其人口学信息见表1。
+
+表1被试人口学变量  
+
+<html><body><table><tr><td>年级(T1)</td><td>总</td><td>男</td><td>女</td><td>月龄(M± SD)</td></tr><tr><td></td><td>127</td><td>67</td><td>60</td><td>76.08 ± 4.20</td></tr><tr><td>三</td><td>129</td><td>60</td><td>69</td><td>99.60 ± 4.68</td></tr><tr><td>五</td><td>143</td><td>71</td><td>72</td><td>124.56 ± 4.87</td></tr><tr><td>总</td><td>399</td><td>198</td><td>201</td><td>101.28 ± 20.54</td></tr></table></body></html>
+
+注：月龄为第一次施测时的月龄
+
+# 2.2研究任务
+
+# 2.2.1词汇知识测验
+
+词汇知识通过词汇定义任务进行测查，主试口头呈现1个双字词，要求儿童解释其含义，并记录下原始答案(李虹，董琼，朱瑾，刘俊娉，伍新春,2009)。共32个项目，按从易到难的顺序进行排列，连续5个项目出现明显错误或无反应则停止测验。由两位经过培训的评分者按照语义的贴切程度对儿童的原始答案进行0、1、2的评定。词汇解释语义贴切，符合语境，且又连贯准确得2分；语义不够贴切，或描述不够准确但整体语义可以理解得1分；语义完全错误得0分。取其均值为项目得分，该测验满分为64分。两次测试(T1，T2)的评分者一致性分别为0.93和0.94，内部一致性系数分别为0.90 和0.90。
+
+# 2.2.2阅读理解测验
+
+对于低、中、高不同年级，采取适合其难度水平的阅读理解测验。T2 的阅读理解测验与 T1相同。低年级采用语句理解任务，书面呈现1个句子和4张图片，要求儿童根据句子内容选择恰当的图片(李虹等，2009)，共2个练习20个项目，答对1题计1分，满分为 20分。两次测验(T1，T2)的内部一致性系数分别为0.88和0.67。
+
+中年级和高年级的测验取自国际性阅读评价项目PIRLS 的测验样题，书面呈现1篇文章，要求儿童根据文中内容回答问题。中年级使用的范文为《一个不可思议的夜晚》，共12个题目，其中5个开放题，总分为16分，两次测试(T1，T2)的内部一致性系数分别为0.79和0.66；高年级使用的范文为《寻找食物》，共15个题目，其中7个开放题，总分为17分，两次测试(T1，T2)的内部一致性系数分别为0.56 和0.53。阅读测验中选择题答对1题得1分，开放题由两名经过培训的评分者根据参考答案中的答题点进行0、1或0、1、2或0、1、2、3分评定。中年级阅读测验，两次测试(T1，T2)主观题部分的评分者一致性分别为0.85和0.90；高年级阅读测验，两次测试(T1，T2)的主观题部分的评分者一致性分别为0.82和0.98。
+
+# 2.2.3语音意识测验
+
+语音意识由音位删除任务进行测查，主试口头呈现1个音节，要求儿童进行跟读，并回答删除其中某个指定的音位后所剩的音节，如“/shenl/不说/sh/还剩什么？(en1)”(李虹等,2009)。答对1题计1分，满分为12分。测验的内部一致性系数为0.86。
+
+# 2.2.4语素意识测验
+
+语素意识由复合词产生任务进行测查(Liu&McBride-Chang,2010；董琼,2013)。主试口头呈现描述新异事物的句子，让儿童根据句子的内容创造出1个最能表达这个事物的新词。测验共20个项目，从易到难排列，若被试连续5个答错或无反应，则停止测验。两位评分者根据儿童的原始答案是否提取出关键语素、词汇结构的准确和简洁程度进行0到3分的评定，如“用叶子做成的盘子叫做什么”，回答“叶盘”得3分，“叶子盘”或“叶盘子”得2分，“叶子盘子”得1分，“盘叶”得0分。取其均分为项目得分，测验满分为60分。测验的评分者一致性为0.98，内部一致性系数为0.89。
+
+# 2.2.5一般认知能力测验
+
+使用瑞文推理测验测查儿童的一般认知能力，要求儿童通过非文字推理选择图形所缺部分(Raven,Court,& Raven,1996；张厚粲，王晓平,1989)，共 60个项目，每个项目计1分，满分为60分。测验的内部一致性系数为0.94。
+
+# 2.3研究程序
+
+首次测验前联系学校，在征得学校和老师同意后，发放被试招募单，由学生带回家，获得家长书面同意。瑞文推理测验和阅读理解测验采用集体施测，其余测验采用个别施测。在一、三、五年级的秋季学期对儿童的一般认知能力、语音意识、语素意识、词汇知识和阅读理解进行测查，一年之后（二、四、六年级秋季学期），对儿童的词汇知识和阅读理解进行再次测查。低年级的阅读理解测验时间约20分钟，中年级和高年级的阅读理解测验时间约35分钟，几乎所有学生都能在该时间内完成测验。主试均为山西师范大学的教育学或心理学的本科生或研究生，经过严格培训。
+
+采用 SPSS21.0对数据进行描述性统计和相关分析，采用Mplus7.0进行交叉滞后分析。检查数据发现数据较为完整，缺失程度较低，其中有2名儿童缺失一般认知能力的得分$( 0 . 5 \% )$ ,1名儿童缺失第二时间点的阅读理解得分 $( 0 . 3 \% ) , 1$ 名儿童缺失语音意识的成绩 $( 0 . 3 \% )$ 因此，在方差分析和相关分析中采用Listwise 对缺失数据进行处理，在交叉滞后检验中采用极大似然估计插补方法处理缺失数据(Little,Rubin,2002)。
+
+# 3结果
+
+# 3.1描述性统计
+
+三个年级在两次测查(T1、T2)中的词汇知识、阅读理解及T1的语音意识、语素意识和一般认知能力测验的得分情况及重复测量方差分析的结果，如表2所示。从表2中可以看出，三个年级儿童词汇知识随时间发展都有显著提高：低年级 $F ( 1 , 1 2 6 ) = 1 3 5 . 0 9 , p < 0 . 0 0 1$ $\mathfrak { \eta } _ { \mathfrak { p } } { } ^ { 2 } = 0 . 5 2$ ；中年级 $F \left( 1 , 1 2 8 \right) = 1 4 3 . 8 2 , p < 0 . 0 0 1$ $\mathfrak { \eta } _ { \mathfrak { p } } { } ^ { 2 } = 0 . 5 3$ ；高年级 $F \left( 1 , 1 4 2 \right) = 4 9 . 5 7 , p <$ 0.001, $\boldsymbol \eta _ { \mathrm { p } } ^ { 2 } = 0 . 2 6$ 。三个年级儿童阅读理解能力随时间发展也有显著提高：低年级 $F ( 1 , 1 2 6 ) =$ 266.03, $p < 0 . 0 0 1$ ， $\mathfrak { \eta } _ { \mathfrak { p } } { } ^ { 2 } = 0 . 6 8$ ；中年级 $F ( 1 , 1 2 8 ) { = } 9 4 . 1 3 , p { < } 0 . 0 0 1 , { \eta _ { \mathrm { p } } } ^ { 2 } { = } 0 . 4 2$ ；高年级 $F ( 1 , 1 4 2 )$
+
+$= 4 5 . 7 1$ ， $p < 0 . 0 0 1$ ， ${ \mathfrak { \eta } } _ { \mathfrak { p } } ^ { 2 } = 0 . 2 5$ 。
+
+表2三个年级两个时间点(T1、T2)测验结果 $( M \pm S D )$ 及重复测量方差分析结果  
+
+<html><body><table><tr><td>年级</td><td>变量(满分)</td><td>T1</td><td>T2</td><td>F</td><td>np²</td></tr><tr><td>低年级</td><td>词汇知识(64)</td><td>8.35 ± 5.02</td><td>13.51 ± 6.34</td><td>135.09***</td><td>0.52</td></tr><tr><td></td><td>阅读理解(20)</td><td>10.9 ± 5.11</td><td>17.65 ± 2.27</td><td>266.03***</td><td>0.68</td></tr><tr><td></td><td>语音意识(12)</td><td>6.22 ± 3.75</td><td></td><td></td><td></td></tr><tr><td></td><td>语素意识(60)</td><td>9.08 ±8.90</td><td></td><td></td><td></td></tr><tr><td>中年级</td><td>一般认知能力(60)</td><td>27.76 ± 9.30</td><td></td><td></td><td></td></tr><tr><td></td><td>词汇知识(64)</td><td>17.00 ± 7.19</td><td>23.13 ± 7.21</td><td>143.82***</td><td>0.53</td></tr><tr><td></td><td>阅读理解(16)</td><td>6.75 ± 2.71</td><td>9.24 ± 3.41</td><td>94.13***</td><td>0.42</td></tr><tr><td></td><td>语音意识(12)</td><td>9.16 ± 2.45</td><td></td><td></td><td></td></tr><tr><td></td><td>语素意识(60)</td><td>22.07 ± 12.22</td><td></td><td></td><td></td></tr><tr><td>高年级</td><td>一般认知能力(60)</td><td>40.55 ± 7.64</td><td></td><td></td><td></td></tr><tr><td></td><td>词汇知识(64)</td><td>27.07 ± 6.30</td><td>30.76±6.57</td><td>49.57***</td><td>0.26</td></tr><tr><td></td><td>阅读理解(17)</td><td>9.46 ± 2.73</td><td>10.97 ± 2.60</td><td>45.71***</td><td>0.25</td></tr><tr><td></td><td>语音意识(12)</td><td>10.32 ± 1.77</td><td></td><td></td><td></td></tr><tr><td></td><td>语素意识(60)</td><td>32.37 ± 10.50</td><td></td><td></td><td></td></tr><tr><td></td><td>一般认知能力(60)</td><td>44.68 ± 6.52</td><td></td><td></td><td></td></tr></table></body></html>
+
+注: $* _ { p } < 0 . 0 5$ ， $* * _ { p } < 0 . 0 1$ ， $* * * _ { p } < 0 . 0 0 1$ ，下同。
+
+# 3.2相关性分析
+
+分别对三个年级两次测验(T1、T2)的词汇知识、阅读理解和控制变量进行相关分析，结果如表3、表4和表5所示。从表 $3 { \sim } 5$ 中可以看出，无论是同一时间点还是不同时间点，三个年级的词汇知识与阅读理解都存在显著相关 $( p \mathrm { s } < 0 . 0 5 )$ ，词汇知识与语素意识、一般认知能力也都存在显著相关 $( p \mathrm { s } < 0 . 0 5 )$ 。低年级和中年级的词汇知识、阅读理解与语音意识都存在显著相关 $( p \mathbf { s } < 0 . 0 5 )$ ，相关系数在 $0 . 1 8 \sim 0 . 6 8$ 之间。高年级T1时间点的词汇知识与语音意识存在显著相关 $[ r _ { ( 1 4 1 ) } = 0 . 1 8$ ， $p = 0 . 0 3 7 < 0 . 0 5$ )，而 T2时间点的词汇知识与语音意识之间未发现显著相关 $[ r _ { ( 1 4 1 ) } = 0 . 1 4$ ， $p = 0 . 0 8 9 > 0 . 0 5 ]$ 。高年级T1时间点的阅读理解与语音意识未发现显著相关 $[ r _ { ( 1 4 1 ) } = 0 . 1 1 , p = 0 . 1 9 9 > 0 . 0 5 )$ ，而T2时间点的阅读理解与语音意识之间存在显著
+
+相关 $[ r _ { ( 1 4 1 ) } = 0 . 1 8$ $p = 0 . 0 3 5 < 0 . 0 5 ]$ 。
+
+表3 低年级T1和T2词汇知识、阅读理解和控制变量相关分析结果 $\scriptstyle ( n = 1 2 6 )$ 号  
+表5高年级T1和T2词汇知识、阅读理解和控制变量相关分析结果 $\scriptstyle ( n = 1 4 1 )$   
+
+<html><body><table><tr><td>研究变量</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td>1.T1 词汇知识</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2.T1阅读理解</td><td>0.33***</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>3.T2 词汇知识</td><td>0.64***</td><td>0.26**</td><td>1</td><td></td><td></td><td></td></tr><tr><td>4.T2阅读理解</td><td>0.23**</td><td>0.41***</td><td>0.18*</td><td>1</td><td></td><td></td></tr><tr><td>5.语音意识</td><td>0.32***</td><td>0.25**</td><td>0.20*</td><td>0.32***</td><td>1</td><td></td></tr><tr><td>6.语素意识</td><td>0.40***</td><td>0.29***</td><td>0.47***</td><td>0.21*</td><td>0.19*</td><td>1</td></tr><tr><td>7.一般认知能力</td><td>0.36***</td><td>0.28**</td><td>0.35***</td><td>0.30**</td><td>0.17</td><td>0.23**</td></tr><tr><td colspan="7">表4 中年级T1和 T2 词汇知识、阅读理解和控制变量相关分析结果(n=128)</td></tr><tr><td>研究变量</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td>1.T1词汇知识</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2.T1阅读理解</td><td>0.52***</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>3.T2 词汇知识</td><td>0.68***</td><td>0.51***</td><td>1</td><td></td><td></td><td></td></tr><tr><td>4.T2阅读理解</td><td>0.57***</td><td>0.57***</td><td>0.52***</td><td>1</td><td></td><td></td></tr><tr><td>5.语音意识</td><td>0.40***</td><td>0.32***</td><td>0.37***</td><td>0.45***</td><td>1</td><td></td></tr><tr><td>6.语素意识</td><td>0.49***</td><td>0.29**</td><td>0.47***</td><td>0.34***</td><td>0.24**</td><td>1</td></tr><tr><td>7.一般认知能力</td><td>0.37***</td><td>0.46***</td><td>0.34***</td><td>0.54***</td><td>0.27**</td><td>0.26**</td></tr></table></body></html>
+
+<html><body><table><tr><td>研究变量</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td>1.T1 词汇知识</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2.T1 阅读理解</td><td>0.35***</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>3.T2 词汇知识</td><td>0.53***</td><td>0.39***</td><td>1</td><td></td><td></td><td></td></tr><tr><td>4.T2 阅读理解</td><td>0.29**</td><td>0.50***</td><td>0.32***</td><td>1</td><td></td><td></td></tr><tr><td>5.语音意识</td><td>0.18*</td><td>0.11</td><td>0.14</td><td>0.18*</td><td>1</td><td></td></tr><tr><td>6.语素意识</td><td>0.27**</td><td>0.23**</td><td>0.32***</td><td>0.26**</td><td>0.23**</td><td>1</td></tr><tr><td>7．一般认知能力</td><td>0.19*</td><td>0.46***</td><td>0.27**</td><td>0.51***</td><td>0.18*</td><td>0.18*</td></tr></table></body></html>
+
+# 3.3交叉滞后检验
+
+在相关分析的基础上，通过交叉滞后模型来探讨词汇知识与阅读理解之间的纵向关系。在控制语音意识、语素意识和一般认知能力的影响后，构建理论模型见图1所示。
+
+![](images/7cfb52e6c714bc98cee8a56370b70007f473145e9242243ff5054844a77401d8.jpg)  
+图1词汇知识与阅读理解交叉滞后检验模型
+
+注：图中单箭头直线为预测关系，双箭头曲线为相关关系。
+
+在三个年级中分别进行检验，模型均饱和(RMSEA $\scriptstyle { \frac { } { } } = 0$ ， $\mathbf { S R M E } = 0$ ， $\mathrm { C F I } = 1$ ， $\mathrm { T L I } = 1$ ）低年级的模型结果如图2所示，T1的词汇知识可以显著预测 T2的词汇知识( $\mathrm { \ B } = 0 . 5 1$ ， $p <$ 0.001)，T1的阅读理解可以显著预测 T2 的阅读理解 $( \beta = 0 . 3 0 , p < 0 . 0 0 1 )$ 。控制变量中，T1的语素意识能够显著预测 T2 的词汇知识 $\mathrm { \Delta } \mathrm { \ B } = 0 . 2 5$ $p < 0 . 0 0 1 \$ )，T1的语音意识 $( \beta = - \ 0 . 0 2 , p =$ $0 . 7 3 > 0 . 0 5 \ >$ 、一般认知能力 $( \beta = 0 . 1 1 , p = 0 . 1 2 > 0 . 0 5 )$ 不能显著预测 T2 的词汇知识；T1 的语音意识 $( \beta = 0 . 2 1$ ， $p = 0 . 0 0 8 < 0 . 0 1 \$ 、一般认知能力 $( \beta = 0 . 1 7 , p = 0 . 0 4 < 0 . 0 5 )$ 能够显著预测 T2的阅读理解，T1的语素意识不能显著预测 T2的阅读理解 $( \beta = 0 . 0 5 , p = 0 . 5 8 > 0 . 0 5 )$ 。在控制语音意识、语素意识、一般认知能力和自回归效应的影响后，T1的词汇知识不能显著预测T2 的阅读理解 $( \beta = - 0 . 0 2 , p = 0 . 8 6 > 0 . 0 5 )$ ，T1 的阅读理解也不能显著预测 T2 的词汇知识(β= - 0.003, $p = 0 . 9 6 > 0 . 0 5 \$ 。
+
+![](images/313a1be06973112eafbab012c3f7055a6218e0b3ef168ae4f2e0c6e4f8e81ee2.jpg)  
+图2低年级模型结果
+
+注：为呈现结果更加简洁，控制变量(语音意识、语素意识和一般认知能力)及其相关路径系数未在图中显示，下同。
+
+中年级的模型结果如图3所示，T1的词汇知识可以显著预测 T2 的词汇知识 $( \beta = 0 . 4 5 , p$ $< 0 . 0 0 1 \rangle$ ，T1 的阅读理解可以显著预测T2的阅读理解 $( \beta = 0 . 2 3 , p = 0 . 0 0 2 < 0 . 0 1 )$ 。控制变量中，T1的语素意识能够显著预测 T2 的词汇知识 $( \beta = 0 . 1 6 , p = 0 . 0 2 < 0 . 0 5 )$ ，T1的语音意识(β$= 0 . 0 8$ $p = 0 . 2 2 > 0 . 0 5 \$ 、一般认知能力 $( \beta = 0 . 0 3$ ， $p = 0 . 6 8 3 > 0 . 0 5 )$ 不能显著预测T2的词汇知识；T1的语音意识 $( \beta = 0 . 1 9 , p = 0 . 0 0 6 < 0 . 0 1 )$ 、一般认知能力 $( \beta = 0 . 2 8 , p < 0 . 0 0 1$ 能够显著预测 T2 的阅读理解，T1的语素意识不能显著预测 T2 的阅读理解 $( \beta = 0 . 0 2$ $p = 0 . 7 4 > 0 . 0 5$ ）表现出低年级相同的趋势。在控制语音意识、语素意识、一般认知能力和自回归效应的影响后，T1的词汇知识可以显著预测 T2 的阅读理解 $( \beta = 0 . 2 6 , p = 0 . 0 0 1 < 0 . 0 1 )$ ，T1的阅读理解也可以显著预测 T2 的词汇知识 $( \beta = 0 . 1 9$ $p = 0 . 0 1 4 < 0 . 0 5 \$ 。
+
+![](images/b76540640cb79f886f471eb7af5a1cd52d58aac2836b12fe3201b049eb5e81af.jpg)  
+图3中年级模型结果
+
+高年级的模型结果如图4所示，T1的词汇知识可以显著预测 T2 的词汇知识 $( \beta = 0 . 4 1 , p$ $< 0 . 0 0 1 \rangle$ ，T1 的阅读理解可以显著预测T2的阅读理解 $( \beta = 0 . 2 8 , p < 0 . 0 0 1 )$ 。控制变量中，T1语素意识能够显著预测 T2 的词汇知识 $( \beta = 0 . 1 6$ $p = 0 . 0 3 < 0 . 0 5$ )，T1语音意识 $( \beta = 0 . 0 0$ $p =$ $0 . 9 9 > 0 . 0 5$ ）、一般认知能力 $( \beta = 0 . 0 9$ $p = 0 . 2 5 > 0 . 0 5 \$ 不能显著预测T2 的词汇知识；T1的一般认知能力能够显著预测 T2 的阅读理解 $( \beta = 0 . 3 4 , p < 0 . 0 0 1 )$ ，T1的语音意识 $( \beta = 0 . 0 5$ $p =$ $0 . 4 7 > 0 . 0 5 )$ 和语素意识 $( \beta = 0 . 1 0 , p = 0 . 1 6 > 0 . 0 5 )$ 不能显著预测T2的阅读理解，其趋势与低、中年级同中有异。在控制语音意识、语素意识、一般认知能力和自回归效应的影响后，T1的词汇知识不能预测 T2 的阅读理解 $( \beta = 0 . 0 9 , p = 0 . 2 1 > 0 . 0 5 )$ ，而T1的阅读理解可以显著预测T2 的词汇知识 $( \beta = 0 . 1 7 p = 0 . 0 3 3 < 0 . 0 5 )$ 。
+
+![](images/e1416f06ba45463e7cf41428dced518adcf73d0728888820fc48ae247719df03.jpg)  
+图4高年级模型结果
+
+# 4讨论
+
+# 4.1小学儿童词汇知识与阅读理解的关系
+
+本研究采用交叉滞后设计，对小学低、中、高年级汉语儿童词汇知识与阅读理解之间的纵向关系进行了检验，结果与假设基本一致。小学低、中、高年级在间隔一年的两次测验中，词汇知识和阅读理解都有显著提高。词汇知识在低、中年级的增长较大，在高年级增长减小;阅读理解在低、中、高三个年级段的增长逐渐减小。这符合儿童阅读发展的特点，阅读发展阶段论(Chall,1993)认为，阅读发展早期儿童主要学习阅读的基本技巧。因此，在低、中年级，词汇知识和阅读理解发展迅速，到了高年级，儿童已经具备独立阅读能力，阅读发展的速度较之前有所下降。
+
+在控制了语音意识、语素意识、一般认知能力和自回归效应后，三个年级段词汇知识与阅读理解的纵向关系有所变化：在小学低年级，词汇知识与阅读理解之间未发现显著的纵向预测关系；中年级儿童的词汇知识与阅读理解存在双向预测关系；在高年级，仅发现了阅读理解对词汇知识的显著预测作用。研究结果支持了阅读发展阶段论(Chall,1993)，进一步对阅读三角理论进行了补充。低年级儿童处于“学会阅读”阶段，主要学习阅读的基本技能，底层认知及语言技能的掌握可以支持儿童词汇知识的获得及书面文本的理解；中年级儿童逐渐转向“通过阅读学习”阶段，词汇知识的丰富使得儿童可以开始进行独立的阅读活动，而对文本的理解又可以帮助儿童学习其中的生词，促进词汇知识的提高；高年级儿童已经进入“通过阅读学习”阶段，词汇知识的主要来源是文本阅读(Nagy,Anderson, & Herman,1987)
+
+# 4.1.1小学低年级
+
+低年级的交叉滞后检验未发现词汇知识与阅读理解之间的显著预测作用，与之前的一些研究结果一致(Seigneuric & Ehrlich,2005; Storch & Whitehurst,2002; Zhang et al.,2012)。根据阅读发展阶段论，在“学会阅读”阶段，儿童主要任务是学会阅读的底层技巧，为发展词汇知识和阅读理解能力做好充足的准备(Chall,1983)。一年级的语音意识和一般认知能力能够显著预测其二年级的阅读理解，相比于词汇知识，语音意识是低年级儿童阅读理解更为重要的影响因素(Storch&Whitehurst,2002)。虽然有研究发现，一年级的词汇知识能够显著预测其二年级的阅读理解(Verhoeven& Van Leeuwe,2008)，但值得注意的是，Verhoeven 和 VanLeeuwe(2008)的研究中未对语音意识进行控制。本研究在相关分析中，也发现T1的词汇知识和 T2 的阅读理解存在显著相关，但在控制了语音意识等变量的交叉滞后分析中，未发现显著预测效应。儿童阅读发展早期，阅读理解涉及的主要是对基本信息的理解与掌握，因此更多受到语音意识和一般认知能力等底层因素的影响。另一方面，低年级儿童阅读理解处于较为基础的发展阶段，还不能通过阅读进行学习(Chall,1983)，因此该阶段的阅读理解并不能预测其词汇知识的发展。语素意识能够显著预测T2的词汇知识，这与之前的研究发现相一致(Storch&Whitehurst,2002；赵英等,2016)，语素意识好的儿童对词汇中的语素有更熟练的操纵能力，能更快习得生词的含义，促进词汇知识的发展。在小学低年级，词汇知识和阅读理解存在一定相关，而一些底层的语言与认知技能，如语音意识、语素意识和一般认知能力，可能是影响二者发展的主要因素。
+
+# 4.1.2小学中年级
+
+小学中年级，交叉滞后检验发现，词汇知识与阅读理解之间存在双向预测的关系，与之前的研究发现相一致(Verhoeven&VanLeeuwe,2008)。到了三、四年级，阅读教学和课程往往更加强调拥有阅读理解的能力，逐渐转向了“通过阅读学习”阶段(Chall,1983)。以往的研究发现，对四年级儿童的词汇知识训练能够显著提高其阅读能力(McKeown,Beck,Omanson,&Perfetti,1983)。此阶段，儿童已经具备一定量的词汇知识，能够利用词汇知识对文本信息加以理解。根据词汇质量假说(Perfetti,2007)，对文本中字词的快速加工能够释放更多的认知资源以促进理解，拥有更为丰富的词汇知识的儿童能够在阅读过程中更加快速的通达词义，将更多的注意力集中在对文本信息的整合加工，从而更好地发展阅读理解。并且，对文本的充分理解又能帮助儿童学习文本中的词汇，根据上下文信息推断出词汇的含义。前人的研究发现，中、高年级的儿童从阅读中能够学会新的词语(Cain etal,2004; Shu,Anderson& Zhang,1995)。阅读理解能力更高的儿童，能够通过对文本整体的理解对其中部分的生词含义进行较为准确地猜测，从而习得新的词汇，促进词汇知识的发展，而较差的阅读理解能力则会阻碍其发展(Cunningham& Stanovich,1991; Nagy & Anderson,1984; Nagy, et al.,2000)。
+
+本研究在中年级汉语儿童中，进一步验证了词汇知识与阅读理解的双向关系。以往研究大多注重词汇知识对阅读理解的影响而忽视其反向的关系，本研究表明阅读理解能力对词汇知识也有着重要影响。该结果进一步支持了阅读三角理论，在小学中年级，具备词汇知识对理解至关重要，丰富的词汇知识能够使儿童更好的理解文本；反过来，对文本的理解能够帮助儿童了解生词的部分意义，增加词汇知识。
+
+# 4.1.3小学高年级
+
+小学高年级，交叉滞后检验发现，T1词汇知识不能显著预测T2 阅读理解，而 T1的阅读理解对T2词汇知识有显著预测作用。在高年级儿童的结果中，除一般认知能力能够显著预测 T2的阅读理解外，其他控制变量及词汇知识对T2的阅读理解的预测作用均不显著。根据阅读发展阶段论，高年级儿童已经具备独立的阅读能力，通过阅读获取信息成为其学习新知识的主要途径(Chall,1996)。此阶段，儿童的阅读材料也更加丰富和复杂，阅读理解涉及更为复杂的阅读过程(如推理、综合评价等)，与词汇知识相比，对阅读理解影响更多的可能是语义分析、语法知识等能力(Storch&Whitehurst,2002;Chen,Lau,&Yung,1993)。在词汇训练的研究中，也发现高年级儿童词汇知识训练不能带来阅读理解的提高(Tuinman & Brady,1974;Wright & Cervetti,2017)。高年级儿童要学习教材、课堂讨论中更为抽象的词汇(Minskoff,2005)，其词汇知识的主要来源是在阅读过程中的伴随学习(Nagy,Anderson,&Herman,1987)。可以推测，在小学高年级，词汇知识和阅读理解的关系中占主导作用的可能是阅读理解对词汇知识的影响。
+
+# 4.2研究意义与不足
+
+本研究通过更为严格的设计对小学儿童词汇知识与阅读理解的纵向关系进行了较为全面的探究，促进了研究者们对于小学不同年级段儿童词汇知识与阅读理解关系的认识。研究结果对阅读三角理论(Perfeti,2010)进行了验证和补充，词汇知识和阅读理解的关系在整个小学阶段处于动态变化的过程，本研究发现其由低年级的纵向相互预测作用不显著，到中年级的纵向相互预测，再到高年级以阅读理解影响词汇知识为主的关系模式。同时，研究结果验证了阅读发展阶段论(Chall,1983)，小学不同年级，儿童阅读发展存在不同的特点。小学低年级处于“学会阅读”阶段，儿童主要学习阅读的基本技能，词汇知识和阅读理解主要受底层的阅读技能的影响；到了中年级，儿童逐渐过渡到“通过阅读学习”阶段，具备一定量的词汇知识以促进阅读理解，且儿童在阅读的过程中也能够通过对文本的理解掌握部分生词的含义，促进词汇知识的发展；高年级儿童主要通过阅读进行学习，其阅读理解的过程更加复杂，受到语法知识、元认知等更多高层次能力的影响(Storch& Whitehurst，2002；Chen,Lau,&Yung，1993)，词汇知识对其影响可能较小，而良好的阅读理解能力可以促进词汇知识的发展，此阶段主要是阅读理解影响词汇知识。
+
+基于本研究的结果，小学阶段的阅读教学应该结合儿童的发展特点进行针对性地指导。在小学低年级，应针对语音意识等底层的语言和认知能力进行巩固和加强，指导儿童学会阅读的基本技能。在中年级，一方面要指导儿童进行词汇学习，促进其阅读能力的提升；另一方面要培养学生的阅读理解能力，引导其通过上下文信息对生词的含义进行推导和掌握。在高年级，阅读理解对词汇知识的影响可能占主要地位，因此教学中可以将更多精力投入到阅读训练中，让学生成为独立的阅读者，能从阅读中学习。
+
+当然，本研究也存在一些不足，需要未来研究进一步完善。一方面，本研究中小学低年级阅读理解能力的测查采取的是句子理解，未对更高层次的篇章理解进行测查。但需要指出的是，对于低年级的学生来说，还难以独立完成篇章理解任务。而且，在我国的基础教育课程标准中，阅读是三、四年级的阶段目标，一、二年级的主要任务是字词的学习。因此，使用该阅读测验更能体现低年级儿童的阅读理解水平。前人研究中也发现该任务能够较好测查低年级儿童的阅读理解能力(Wu etal.,2009)。不过，后续研究可以开发适合小学一到六年级的阅读理解测验，进一步考察儿童词汇知识与阅读理解的关系。另一方面，本研究主要对词汇知识深度进行了探索，忽略了词汇知识广度在小学低年级的影响。越到高年级，对词汇的学习要求也越高，儿童词汇知识深度的差异可能会在高年级中有更多的体现(Perfeti,2010)。因此，之后的研究可以同时对词汇知识深度和广度进行探索，进一步加深对小学词汇知识和阅读理解之间相互关系的了解。
+
+# 5结论
+
+本研究发现，在控制了语音意识、语素意识、一般认知能力和自回归效应的影响后，小学不同年级段，词汇知识与阅读理解的关系有一定的变化：低年级儿童的词汇知识与阅读理解相互之间没有显著的预测作用；中年级儿童的词汇知识与阅读理解存在双向预测关系；在高年级，只存在阅读理解对词汇知识的单向预测关系。该发现对阅读三角理论进行了验证和补充，并支持了阅读发展阶段论。根据儿童阅读发展的特点，在小学不同年级段，词汇知识与阅读理解的关系处于动态变化之中：低年级时，词汇知识和阅读理解主要受到较为基础的语言和认知能力的影响；中年级时，词汇知识和阅读理解相互影响；到了高年级，阅读理解对词汇知识的影响占主导作用。
+
+# 参考文献
+
+Cain,K.,OahillJ,&mo,K.().Idalrencsfreeofodeagsfrootetcef reading comprehension,vocabulary knowledge,andmemorycapacity.JournalofEducationalPsychology96,671-681.   
+Chall,J. S.(1983).Learning to read: The great debate.New York,NY: McGraw-Hil.   
+Chall,J.S.(1996).Americanreadingachievement:Shouldwe worry?Research intheTeachingofEnglish,30,303-310.   
+Chen,M.J.,uL,ng,YF.9).eveoptofotsiidingeteiolJoualofolg 28,481-507.   
+Cunningham,A.E.,&anoich,K.E.(991).ackingthequeeectsofprinexposureilden:Assoctioswithocblar general knowledge,and spelling.Journal of Educational Psychology,83,264-274.   
+Cunningham,.E.,&Stanovich,K.E.(199).Earlyeadingcqusiionanditselationtoeadingexperienceandabilityarlate. Developmental Psychology,33,934-945.   
+Dong Q.(2013).TheStructure,DevelopmentofMorphologicalAwarenesandtsroleintheeadingdevelopmentofChinesechdren (Unpublished doctorial dissertation). Beijing Normal University.   
+[董琼.(2013).汉语语素意识的结构、发展及其在阅读发展中的作用(博士学位论文).北京师范大学.]   
+Graves,M.F,Juel,C.Graves,B.B.,&Dewitz,P.().Teachingreadinginthstentury(5thed.).NewYork,N:arson.   
+Henry,D.L.,&acean,..().Relatiosipsetweenoingemoryexpesiveoablaryndeticalogi children withand without intellectual disabilities.Educational & Child Psychology,20,51-63.   
+Kintsch,W.(1998). Comprehension: A paradigm for cognition.New York,NY: Cambridge UniversityPress.   
+Koda,K.(1989).Theefectsoftransferredvocabuaryknowedge othedevelopmentof2eadingproficiencyForeignLanguage Annals,22,529-540.   
+Ku,Y.M,&nderson,.C.(ool).Cinsechren'sincdentalaingofordmeaings.Contemporaryducationalyolog 26,249-266.   
+LiH.,Dong,Q,Zu,J,LiuJ.P.,&Wu,X.C.().eroleofmorphlogicalawarenceinindergartenrs'lngsticill development. Psychological Science,32,1291-1294.   
+[李虹，董琼，朱瑾，刘俊娉，伍新春.(2009).语素意识在学前儿童言语技能发展中的作用．心理科学,32,1291-1294.]
+
+Li,H,Rao,X.S.,gQ,Zu,J,&Wu,X.C.().eoleofpoolgicaalawareeoolgicaawareneadapiding in linguisticskilsdevelopmentofkindergartener.PsychologicalDevelopmentandEducation,27,58-16:
+
+[李虹，饶夏微，董琼，朱瑾，伍新春.(2011).语音意识、语素意识和快速命名在儿童言语发展中的作用.心理发展与教育,27,158-163.]
+
+Litle R.J.A.,Rubin D.B.(20o2).Statistical analysis with missing data (Second Edition).New York,NY: Wiley.   
+Liu,P.D.,&cBrde-Chang,C.(10).Whatisorhologicalawarene?Tappinglxicalcmpoudingwarensiniethid graders.JournalofEducational Psychology,102,62-73.   
+Mcbride-Chang,C.,ChoJ.R,Liu,H,Wagner,R.K,Su,H.,Zhou,A.,use,A.(o).Changing modelsacrosscl Associations of phonological awarenessand morphological structure awareness with vocabularyand word recognition in second gradersfromBeijing,HongKong,Korea,andtheUnitedtates.JournalofExperimentalChildsychology92,140 160.   
+McKeown,M.G,eck,I.L,Omanon,R.C,&erfeti,C.A. (1983).eeectsofong-terocabularyisructioadng comprehension:Areplication.Journal ofLiteracy Research,15,3-18.   
+Minskoff,E.(20o5).TeachingReading to StrugglingLearners.Baltimore,MD:Brookes.   
+Moats,L. C. (20o5). How speling supports reading. American Educator, 6,42-43.   
+Nagy,WE,derson,R.C.(984).HoayodsrethentedhoolEglisdingResechQarterl90430.   
+Nagy, W.E.,Anderson,R.C.,&Herman,P.A.(1987).Learing wordmeanings fromcontextduringnormalreading.American Educational Research Journal,24,237-270.   
+Nagy,W.E.,Heran,P.A.,&derson,R.C.(198).Laingwordsfromcontext.ReadingResearch Quarterly-5   
+Nagy,WE.,oKlotloVblaocsfd 3,269-284.   
+Nationalreading inthe"ThirteenFive"perioddevelopmentplan.(016-2-28).ChinaPressPublicitons RadioFilmandTelevisions Journal,3,1-7.   
+[全民阅读“十三五”时期发展规划.(2016-12-28)．中国新闻出版广电报,3,1-7.]   
+Penno,J.F.,Wiso,IA,&o,.. (o).Vocabulacqsitiofrotacherexpaatiadepeatedlistengto: Do they overcome the Matthew efect? Journal of Educational Psychology,94,23-33.   
+Perfeti,C.(2oo7).Readingability:Lexical qualityto comprehension.Scientific Studiesof Reading,11,357-383.   
+Perfeti,C.(2o0).Decoding,ocabularydcomprehensionhegoldentrangleofreadingskillI.G.cKeow&L.Kucan (Eds.),Bringing reading research to life,(pp.291-303).New York,NY:Guilford.   
+Quin,J.M.,WgerR..ehr,Y,oe,D.(l).evelopetalelatiosbtweecablaryoledgedding comprehension:A latent change score modeling study.Child Development,86,159-175.
+
+Raven,J.C.,&Court,J.H. (1986).Raven'sprogressivematricesandRaven'scolouredmatrices.London:HKLewis   
+Seigneuric,A.,&Erlich,M.F.(o5).Contributionofworkingmemorycapacitytochildren'sreadingcomprehensionAlongitdinal investigation.Reading and Writing,18,617-656.   
+Shu,H.,nderson,R.C,&Zhang,H.(995).Icidentallearingofwordmeaningshilereading:ACinesendAmericaco cultural study.ReadingResearchQuarterly,30,76-95.   
+Shu,H.,McBride-Chang,CWu,S.,&iu,H.(o6).UnerstandingCinesedevelopmentaldyslexia: Morphologicalawara core cognitiveconstruct. Journal of Educational Psychology,98,122-133.   
+Song,S.,Su,.,KangC.,Liu,H,Zhang,Y.,cBride-Chang,C.,Shu,H.(15).Tacingchildren'svocabularydevelopro preschool through the school-age years: An8-year longitudinal study.Developmental Science,18,119-131.   
+Sparapani,N,o,C.ean,Lod,T,ote,J,y.().ectdreproaefctsmoniail vocabulary,and reading comprehension in first grade.Contemporary Educational Psychology,53,159-167.   
+Storch,S.A.,&WitehurstG.J.(2)Orallanguagendode-relatedprecursos teading:Evidencefroalongitudinalstrctural model.Developmental Psychology,38,934-947.   
+Tanenbaum,K.R.Torgesen,J.K.,&Wagner,R.K.(o6).Relationshipsbetweenword knowledgeandreadingcompreesionn third-gradechildren.Scientific StudiesofReading,10,381-398.   
+Tuinman,J.J.,&BradyM.E.(1974).Howdoesvocabularyaccountforvarianceonreadingcomprehensiontests?Apreliiary instructionalanalysis.InPNacke(Ed),teraction:Researchnd practiceforcollge-adultreading,(p.76-84).lemson SC:National Reading Conference   
+VandenBroek,P.().Usingtextsinienceducation:CognitiveprocesssadknowledgeepresentatioSienc446.   
+Verhoeven,L,&VanLeeuwe,J.(oo8).Predictionofthedevelopmentofreadingcomprehension:AlongitudinalstudyApplied Cognitive Psychology,22,407-423.   
+Wasik,B.A.,dan,.H,&ellE..().ookeadigdcabularevelopent:ematicviearlod Research Quarterly,37,39-57.   
+Wright,T.S.,&Cerveti,G.N.(17).Asstematicrevieofteresearchoncabularyinstructionthatimpactstextcompreesion. Reading Research Quarterly,52,203-226.   
+Wu,X.,Andersn,.,,uX,ag,J.,y..).olicaresde's literacydevelopment:Aninterventionstudy.ScientificStudiesofReading,13,26-52   
+Zhang,H.C.,&Wang,X.P.(989)tandardationeseachoaven'sadardprogresseatricesinia.Actaologica Sinica,21,113-121.   
+[张厚粲，王晓平.(1989).瑞文标准推理测验在我国的修订．心理学报,21,113-121.]
+
+Zhang,J.,McBride-Chang,C.Tong,X.,Wong,A.M.Y,Shu,H,&Fong,C.Y.C.(012).Readingwithmeaning:thecotribtiof meaning-relatedvariablesat thewordandsubword levels toearlyChinesereadingcomprehension.ReadingandWriting,25, 2183-2203.
+
+Zhao,Y.,ChengY,Wu,X.C&uan,.F.(6).eiprocalrelatioshpetwenmopolgicalawareessndbla knowledge among Chinese children:Alongitudinal study.Acta Psychologica Sinica,48,1434-1444.
+
+[赵英，程亚华，伍新春，阮氏芳.(2016).汉语儿童语素意识与词汇知识的双向关系：一项追踪研究．心理学报,48,1434-144.]
+
+# The relation between vocabulary knowledge and reading comprehension in Chinese elementary children: A crosslagged study
+
+CHEN Hongjun; ZHAO Ying; WU Xinchun; SUN Peng; XIE Ruibo; FENG Jie (Research CenterofChildren's Reading and Learning,Beijing KeyLaboratory ofApplied Experimental Psychology,School ofPsychology,Beijing Normal University,Beijing10o875,China)
+
+# Abstract
+
+Vocabulary knowledge is one of the most important predictors of reading comprehension. According to the DVC (decoding, vocabulary, comprehension) reading skilltriangle model (Perfetti, 2010), reading comprehension is dependent on knowing the meanings of words being read. At the same time, readers can infer the meanings of unfamiliar words encountered in reading. Therefore, a reciprocal relationship may exist between vocabulary knowledge and reading comprehension, which is not documented in previous research. The aim of the present study is to examine the relation between vocabulary knowledge and reading comprehension in diferent grades of elementary school.
+
+A total of 399 students from first, third and fifth grades were tested on vocabulary knowledge and reading comprehension tasks at two time points over one year, along with phonological awareness, morphological awareness and nonverbal reasoning at Time 1 (the fall semester in grade 1, 3 and 5) as control variables.A cross-lagged model was used to investigate the relation between vocabulary and reading comprehension in each grade span.
+
+The results showed that， after controlling for phonological awareness， morphological awareness,and nonverbal reasoning, the relation between vocabulary and comprehension varied in different developmental stages. Vocabulary knowledge did not significantly predict later reading comprehension in primary grades (grade 1 to grade 2). Bidirectional predictive relation was found between vocabulary knowledge and reading comprehension in middle grades (grade 3 to grade 4). Vocabulary knowledge in grade 5 did not predict later reading comprehension in grade 6, while reading comprehension in grade 5 significantly predicted later vocabulary knowledge in grade 6.
+
+The results support reading stage theory (Chall,1983) and supplement the DVC reading skil triangle model (Perfetti， 2010). The relation between vocabulary knowledge and reading comprehension among Chinese elementary children changes over time. The primary grades are in the stage of “learning to read", children's vocabulary knowledge and reading comprehension are mainly affected by the basic cognitive and linguistic skills.The reciprocal relationship between vocabulary knowledge and reading comprehension is evident in middle grades. The enrichment of vocabulary knowledge enables children to read skilled,and the comprehension of texts can also help children learn new words from texts. Reading comprehension plays an increasingly important role in vocabulary development from middle to upper elementary grades. These findings have implications for reading instruction in Chinese at different developmental stages.
+
+Key wordselementary school; vocabulary knowledge; reading comprehension; cross-lagged model

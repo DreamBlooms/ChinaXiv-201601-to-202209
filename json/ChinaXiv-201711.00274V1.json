@@ -1,0 +1,655 @@
+[
+    {
+        "type": "text",
+        "text": "Concordance Among Indices of Intrinsic Brain Function: Inter-lndividual Variation and Temporal Dynamics Perspectives ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chao-Gan Yan1.2.3, Zhen Yang2,4.5, Stanley J. Colcombe², Xi-Nian Zuo1, Michael P. Milham2.5 1Key Laboratory of Behavioral Science and Magnetic Resonance Imaging Research Center, Institute of Psychology, Chinese Academy of Sciences,Beijing, China; ²Nathan Kline Institute for Psychiatric Research，Orangeburg，NY，USA；³Department of Child and Adolescent Psychiatry, NYU Langone Medical Center School of Medicine, New York, NY, USA; 4Center for Neuromodulation in Depression and Stress，Department of Psychiatry， Perelman School of Medicine, University of Pennsylvania, PA, USA; 5Child Mind Institute, New York, NY, USA; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Corresponding author: ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chao-Gan Yan, Ph.D.   \nKey Laboratory of Behavioral Science and Magnetic Resonance Imaging Research Center, Institute of Psychology, Chinese Academy of Sciences,Beijing, China   \n16 Lincui Road, Chaoyang District, Beijing 100101, China   \nTel: +86-10-64101582   \nFax: +86-10-64101582   \nE-mail: ycg.yan@gmail.com ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Various resting-state fMRl (R-fMRl) measures have been developed to characterize intrinsic brain activity. While each of these measures has gained a growing presence in the literature, questions remain regarding the common and unique aspects these indices capture.The present work provided a comprehensive examination of inter-individual variation and intra-individual temporal variation for commonly used measures,including fractional amplitude of low frequency fluctuations,regional homogeneity,voxel-mirrored homotopic connectivity, network centrality and global signal correlation. Regardless of whether examining intra-individual or inter-individual variation, we found that these definitionally distinct R-fMRl indices tend to exhibit a relatively high degree of covariation. When taken as a measure of intrinsic brain function, inter-individual diferences in concordance for R-fMRl indices appeared to be stable,and negatively related to age (i.e., functional concordance among indices decreases with age). To understand the functional significance of concordance,we noted that higher concordance was generally associated with higher strengths of R-fMRl indices, regardless of whether looking through the lens of inter-individual (i.e., high vs.low concordance participants) or intra-individual (i.e., high vs. low concordance states identified via temporal dynamic analyses) differences. Finally, temporal dynamics analyses also revealed that high concordance states are characterized by increased within- and between-network functional connectivity, suggesting more general variations in network integration and segregation. The current study draws attention to questions regarding how to select an R-fMRl index for usage in a given study,as well as how to compare findings across studies that examine inter-individual or group differences using different indices. Additionaly,our work suggests global neural signals exist in the brain,and their spontaneous variations over time result in fluctuations in the connectedness of brain regions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: resting-state fMRl; intrinsic brain activity; concordance; temporal dynamics; interindividual variation ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Intrinsic brain activity (IBA) is posited to play a central role in human brain function. In particular, it is believed to help maintain a state of preparedness through the continuous representation of high probability patterns of functional interactions at the local and systems levels,regardless of stimulation level or task demands (Raichle, 2010,2015). In support of the proposed functional significance of IBA,prior work has linked intra-individual variations in behavior to the state of spontaneous activity in task-relevant systems, as wellas those that can interfere (Fox et al., 2007; Kelly et al., 20o8). Additionally,a growing literature has worked to link inter-individual variations in trait IBA properties (e.g.,functional connectivity) to differences in complex behavioral phenomena (e.g.， personality， social reciprocity, intelligence, anxiety) among individuals (see reviews in Di Martino et al., 2014a; Fox and Raichle, 2007; Kely et al., 2012). As efforts to characterize IBA differences among individuals and clinical groups has increased, a growing number of measures have been proposed - each posited to reveal a distinct aspect of intrinsic brain function (see reviews in Craddock et al.,2013; Margulies et al.,2010; Zuo and Xing,2014). While definitional differences exist among these various measures from a theoretical perspective，practical distinctions and commonalities among these measures are yet to be fully explored empirically. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The most fundamental IBA measures are those focused on regional fluctuation properties. Among them,amplitude-based measures have gained particularly attention and can be carried out in either the temporal [e.g., resting state fluctuation amplitude (RSFA, Kannurpati and Biswal,20o8)] or frequency domains [e.g.,amplitude of low frequency fluctuations (ALFF,Zang et al.,2007); fractional ALFF (fALFF, Zou et al., 2008); Hearst Component (Maxim et al., 2005). Complementing these regional measures,is functional connectivity, which indexes the interregional synchronization of IBA using measures of temporal correlation or spatiotemporal component decompositions, such as independent component analysis (ICA, Beckmann et al., ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2005)]. Building on top of the inter-regional synchronization measures,are those focused on particular theoretical constructs,such as local synchronization [e.g., regional homogeneity (ReHo, Zang et al., 2004; Zuo et al., 2013),interhemispheric synchronization [e.g., voxelmirored homotopic connectivity (Anderson et al.,2011; VMHC, Zuo et al.,2010b)] or network centrality [e.g., degree centrality (DC, Buckner et al., 2009; Zuo et al.,2012)]. While each of these measures is widely employed to examine individual and group diferences, they are commonly studied in isolation of one another. As a result, questions remain regarding how similar or distinct the various IBA indices are,especialy in the absence of an integrative neurophysiological perspective of their underlying mechanisms. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Realizing the potential for diferences and overlaps among these indices,some studies have attempted to include a range of measures in their examination of individual- or groupdifferences. For example,Yan et al. (2013a; 2013b) examined inter-individual diferences in ALFF,fALFF,ReHo, DC, intrinsic functional connectivity (iFC) with a focus on devising strategies for reducing and standardizing their variability. Chen and Xu et al (2015) systematically investigated various IBA metrics regarding their intra-individual, inter-individual variability and test-retest reliability using richly sampled R-fMRl datasets. In a recent study, fALFF,ReHo and DC were observed to converge at the left angular gyrus regarding their across-individual correlation with the working memory maintenance (Yang et al., 2015). Similarly,an array of IBA measures was reported to converge their alterations at insula and posterior cingulate cortex in patients with Autism Spectrum Disorders (Di Martino et al., 2014b) Such convergence in findings may suggest the presence of a more fundamental mechanism underlying the different IBA measures and their variations across individuals. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The goal of the present work is to provide a comprehensive understanding of interdependencies among different IBA measures within and across individuals. In service of this goal, we identified three potential strategies:1) Examine how concordant difering indices are with respect to their variation across voxels. From this perspective, prior work has found that ALFF is strongly coupled with fALFF (Zou et al., 2008; Zuo et al., 2010a),and also positively correlated with ReHo across voxels (Nugent et al., 2015; Yuan et al., 2013). In a recent study, Aiell et al. (2015)examined the inter-correlation between fALFF,ReHo and DC across voxels, finding high pair-wise correlations between the 3 measures across voxels.2) Examine how concordant different indices are with respect to their variation from one individual to the next (i.e., are they capturing unique inter-individual variation vs. shared). Aiello et al. (2015) also provided initial insights in this regard,as they comprehensively examined correlations between fALFF,ReHo and DC across participants,finding high correlation for allthe gray matter voxels. Beyond that, Yang et al. (2016) used a fully data-driven discovery-replication framework to examine interindividual diferences in 6 IBA measures (ALFF,fALFF,ReHo, ReHo-2, DC and eigenvector centrality)and 6 morphology measures, mapping a set of interdependencies of the IBA metrics and their morphological associations.3) Examine how concordant difering indices are with respect to their variation over time (e.g.,from one time window to the next within a given individual), this perspective is yet to be investigated. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "While optimal methodologies are stillbeing determined (Hindriks et al.,2016), the temporal dynamic perspective of IBA measures makes it possible to determine how differing measures can be coupled together within an individual. A growing number of studies have demonstrated temporally dynamic changes in iFC patterns (Alen et al.,2014; Chang and Glover, 2010; Handwerker et al.,2012; Hutchison et al.,2013; Kang et al.,2011; Kiviniemi et al.,2011; Smith et al.,2012; Yang et al.,2014)). Based on the spatiotemporal structures of iFC, brain activity can be decoded into distinct brain states (Allen et al. 2014; Yang et al., 2014; Zalesky et al., ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2014). Dynamic functional network analysis also showed that the dynamic FC fluctuations coincide with periods of high and low network modularity in IBA (Betzel et al., 2016). However, the temporal dynamics of regional IBA as well as their interdependencies remain unexplored. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The present work made use of the publicly available Enhanced Nathan Kline Institute - Rockland Sample dataset, which provides resting state fMRl data with a relatively high temporal resolution ( $\\mathrm { ' T R } = 0 . 6 4 5 \\mathrm { \\mathsf { s } } ,$ ）compared to traditional imaging sequences (thereby making it more optimal for temporal dynamics anaylses). Similar to prior work,we first examined the intercorrelation and concordance of difering R-fMRl measures (ALFF/fALFF,ReHo,DC and VMHC) across participants. We then investigated the temporal dynamics of these measures and the extent to which their variations over time are coupled with one another. To determine if a common driving force (either physiological or neuronal) drives their temporal dynamics,we also investigated the time varying patern of global signal correlation (GSCorr). We also tested for any potential relationships with physiological noises (respirational volume and heart rate). Finally,to examine their potential value in neuronal applications,we investigated how coupling relationships change with age across the lifespan. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "MATERIALS AND METHODS ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Participants and Imaging Protocols ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Multiband fast-sampling R-fMRl data $( \\mathsf { T } \\mathsf { R } \\ = \\ \\mathsf { 0 } . 6 4 5 \\mathsf { s }$ ，10 minutes/900 volumes) of 173 neurotypical individuals ages between ages 8.0 and 86.0 with quality pass datasets (mean age: 44.5;117 females) were selected from the publicly available Enhanced Nathan Kline Institute - RocklandSample(AvailableviaInternationalNeuroimagingData-sharing Initiative: http://fcon_1000.projects.nitrc.org). Images were acquired in a 3T Siemens TIM Trio scanner using the following multiband echo-planar imaging (EPl) sequence: ${ \\sf T E } = 3 0 ~ \\mathrm { m s }$ , flip angle $= 6 0 ^ { \\circ }$ ， slice thickness $= 3 . 0 \\ \\mathsf { m m }$ ， field of view $= 2 2 2 \\mathsf { m m }$ , matrix size $= 7 4 \\times 7 4 . 7 \\mathrm { { R } = 6 4 5 \\mathrm { { m s } } }$ ; no gap, resolution $= 3 . 0 \\times 3 . 0 \\times 3 . 0 ~ \\mathsf { m m } ^ { 3 }$ . During the data acquisition， participants were instructed to simply rest with eyes open (Nooner et al., 2012). For spatial normalization and localization，a high-resolution T1-weighted magnetization prepared gradient echo image (MPRAGE) was also obtained for each participant. The Nathan Kline Institute institutional review board approved the submission of anonymized data obtained with writen informed consent from each participant. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Preprocessing ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Unless otherwise stated,all preprocessing was performed using the Data Processing Assistant for Resting-State fMRl (DPARSF，Yan and Zang，2010，htp://fmri.org/DPARSF)，which is based on Statistical Parametric Mapping (SPM8) (http://www.fil.ion.ucl.ac.uk/spm） and the toolbox for Data Processing & Analysis of Brain Imaging (DPABl， Yan et al.， in press, http://rfmri.org/DPABl). The first 10 s of data were removed to allow data to reach equilibrium, leaving a total of 884 volumes for final analysis.The functional volumes for each subject were motion-corrected using a six-parameter (rigid body） linear transformation with a two-pass procedure (registered to the first image and then registered to the mean of the images after the first realignment). Individual structural images (T1-weighted MPRAGE) were co-registered to the mean functional image after realignment using a 6 degrees-of-freedom linear transformation without re-sampling. The transformed structural images were then segmented into gray matter (GM)，white mater (WM) and cerebrospinal fluid (CSF) (Ashburner and Friston，2005).The Diffeomorphic Anatomical Registration Through Exponentiated Lie algebra (DARTEL） tool (Ashburner，20o7) was used to compute transformations from individual native space to MNl space. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Nuisance Regression ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Recent work has demonstrated that micro head movements,as small as 0.1mm between time points,can introduce systematic artifactual inter-individual and inter-group variability in R-fMRl measures (Power et al.，2012a,b; Satterthwaite et al.，2012; Van Dijk et al.，2012). Here we utilized the Friston 24-parameter model (Friston et al.,1996) to regress out head motion effects from the realigned data (i.e., 6 head motion parameters,6 head motion parameters one time point before，and the 12 corresponding squared items） based on recent reports that higherorder models demonstrate benefits in removing head motion effects (Satterthwaite et al., 2013; Yan et al.， 2013a). Head motion was also controlled at the group-level by taking mean framewise displacement as a covariate (Satterthwaite et al., 2013; Yan et al., 2013a). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The signals from WM and CSF were regressed out to reduce respiratory and cardiac effects. In addition,linear and quadratic trends were also included as regressors since the blood oxygen level dependent (BOLD） signal demonstrates low-frequency drifts.Global signal regression (GSR)is not performed because of its controversy in increasing negative correlations (Murphy et al.,2009; Weissenbacher et al., 2O09)and may distort group differences in iFC (Gotts et al., 2013; Saad et al.,2012). Temporalfiltering was not performed to keep the temporal dynamics of time series. After nuisance regression,the functional data were registered into MNl152 space with $3 \\mathsf { m m } ^ { 3 }$ cubic voxels by using transformation information acquired from the previous DARTEL step. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "R-fMRl Indices for Regional Characteristics and Functional Synchrony ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We examined the interdependency among the following five R-fMRl based indices of intrinsic brain activity: ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1) Amplitude measures: ALFF (Zang et al., 2007) and fALFF (Zou et al., 2008). ALFF is the sum of amplitudes within a specific low frequency range (0.01 - O.1 Hz in the current study) from a Fourier decomposition of the time course.fALFF is the ratio of the ALFF of a given low frequency band (here， $0 . 0 1 \\mathrm { ~ - ~ } 0 . 1 \\mathsf { H z } )$ to the sum of Fourier amplitudes across the entire frequency range.ALFF is proportional to the strength or intensity of low frequency oscillations, while fALFF represents the relative contribution of specific oscillations to the whole detectable frequency range.Given the high colinearity between fALFF and ALFF,we chose to include only one of the two measures in the concordance indices. fALFF was chosen because it's less susceptible to artifactual contributions of motion and pulsatile eects as compared with ALFF (Yan et al., 2013a; Zou et al., 2008; Zuo et al., 2010a). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2)Regional homogeneity (ReHo， Zang et al.， 2004). ReHo assesses the degree of regional synchronization/coherence among fMRl time courses.It is defined as the Kendal's coeffcient of concordance (or Kendal's W,Kendall and Gibbons,1990) between the time series of a given voxel with those of its nearest neighbors (26 in the current study). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3)Homotopic interhemispheric connecitivty. VMHC (Anderson et al.， 2011; VMHC, Zuo et al., 2010b)corresponds to the functional connectivity between any pair of symmetric interhemispheric voxels - that is，the Pearson's correlation coeffcient between the time series of each voxel and that of its symmetrical inter-hemispheric counterpart. The resultant VMHC values were Fisher-Z transformed. For bettr correspondence between symmetric voxels, VMHC requires that individual functional data are first registered in MNl space and smoothed (4.5 mm FWHM) and then registered to a symmetric template. The group averaged symmetric template was created by first computing a mean normalized T1 image across participants,and then this image was averaged with its left-right mirrored version (Zuo et al.,2010b). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4) Network degree centrality (Buckner et al., 2009； Zuo et al.， 2012). Degree centrality is the number or sum of weights of significant connections for a voxel. Here，we calculated the weighted sum of positive correlations by requiring each connection's statistical significance to exceed a threshold of $r > 0 . 2 5$ (Buckner et al., 2009). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5) Global Signal correlation (GSCorr): GSCorr is the Pearson correlation coeficient between the global mean time series (averaged across all voxels inside the group mask) and each voxel in the group mask. These correlation values were then Fisher-Z transformed. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Dynamic R-fMRl Indices ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Dynamic R-fMRl indices were generated using sliding time-window analysis. First, we applied hamming windows (length of 100 TRs, overlapping of 3 TRs)1 to BOLD signals to obtain windowed time series; second,within each window, we calculated the above-mentioned R-fMRl indices (i.e.,fALFF,ReHo, VMHC, DC and GSCorr).To characterize the dynamic R-fMRI indices, we compute the mean and standard deviation (SD) map across time windows for each index.To quantify temporal variations of these indices,we also computed the coeficient of variation (CV: mean/SD) map over time for each index. The mean, SD,and CV maps were then Z-standardized relative to its own mean and SD across all the voxels within the group mask. Across participants,we performed one-sample t-tests on the Z maps of mean, SD,and CV to investigate the overall pattern of temporal variation. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Correlation between Global Mean of R-fMRl Indices ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "For static analysis,the global mean of each index was computed within the group mask for each participant. Pearson's correlation coefficient was then computed between pairs of the global mean of R-fMRl indices across participants.For dynamic analysis,we calculated the global mean of a given R-fMRl measure for each time window. This resulted in one global mean time series per index per participant. Within each participant, we calculated the correlations between pairs of the global mean time series of R-fMRl indices. These correlations were then averaged across participants to provide an estimation of the overall dynamic correlations.To examine if the temporal dynamics of these measures are being driven by physiological noises, we examined their relationship with each: motion, global signal, respiration volume per time (RVT) and heart rate (HR). RVT and HR were extracted by applying AFNI's RetroTS program on the physiological data. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Voxel-wise Concordance Index ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We calculated the Kendall's W of the five static R-fMRl indices across participants for each voxel as a static voxel-wise concordance index.To compare the within-individual dynamic concordance to the static functional concordance across individuals,we calculated Kendall's W for the five R-fMRl indices across time windows as the dynamic voxel-wise concordance index. A one-sample t-test was performed on the Z-standardized dynamic voxel-wise concordance index to examine the pattern among subjects. The rank order of the static voxel-wise concordance,as well as the rank order of the group t map of dynamic voxel-wise concordance index,was calculated to compare their consistence. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Volume-wise Concordance Index ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "For static analysis,we calculated Kendal's W of the R-fMRl indices across allbrain voxels for each participant. To investigate the properties of the functional concordance, we compared subjects with the highest $20 \\%$ static volume-wise concordance to those with lowest $20 \\%$ static volume-wise concordance. For each R-fMRl measure, two-sample t-tests were performed between the highest $20 \\%$ and lowest $20 \\%$ subjects to capture the group differences. For dynamic analysis,dynamic volume-wise concordance index was computed the same way as static analysis, but for each time window. The mean dynamic spatial functional coupling index (across time) was then compared with the static volume-wise concordance index. To characterize the properties of high concordance states in contrast with low concordance states at the within-individual level, we compared properties of top $20 \\%$ windows with highest dynamic volume-wise concordance to those windows with the lowest $20 \\%$ dynamic volume-wise concordance. For each individual,a mean map of a given measure was calculated for the top $20 \\%$ windows,as well as a mean map for the lowest $20 \\%$ windows. Then paired t-test was performed to compare the property difference between the high windows and the low windows. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Age Effects on Functional Concordance ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Finally,to examine potential role of functional concordance in development, we linked the functional concordance indices to age across the lifespan.A general linear model with sex and motion as covariates was utilized with DPABl. Specifically, for voxel-wise or volume-wise concordance,index, the following regression model was constructed: ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "A givenmeasure $= 6 0 + 6 1 \\times 4 9 \\textcircled { < } + 6 2 \\times 5 \\textcircled { < } \\times + \\mathsf { b } 3 \\times \\mathsf { m e a n F D } + \\mathsf { e r r o r }$ （204号",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Mean FD was included to control for the residual effect of head motion.We opted to employ group-level corrections over scrubbing approaches for the folowing reasons: (1) recent work suggested that scrubbing offers litte advantage over group-level motion correction combined with Friston 24 model at the individual level. Scrubbing can also be less conservative when motion correlates with a between-subject variable of interest,and can be incomplete in their corrective effects (Yan et al., 2013a); (2) scrubbing of non-contiguous time points alters the underlying temporal structure of the data,which can unintentionally bias estimates of an individual's intrinsic activity patterns towards one state over another in temporal dynamics studies.The results were corrected for multiple comparisons using Gaussian random field theory. In appreciating recent reports on enhancing the primary threshold (P value at individual voxel level) (Eklund et al., 2015; Woo et al., 2014),we have set voxel-level $\\mathsf { P } { < } 0 . 0 0 1$ $( Z { > } 3 . 1 )$ ， cluster-level $\\mathsf { P } { < } 0 . 0 5$ for multiple comparison correction. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Static and Dynamic R-fMRl Indices ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The first step in the present work was to characterize the temporal variation in our R-fMRl indices of interest.In this regard,for each of the indices,we carried out sliding window analyses (window size: 100 TRs $= 6 4 . 5$ sec)and then calculated the voxel-wise coefficient of variation across windows for each participant.The resultant coeffcient of variation maps are depicted in Figure 1,along with the traditional static R-fMRl index maps.As expected,the temporal mean and static index map were nearly equivalent. Inspection of the CV maps revealed different patterns of variation across R-fMRl indices.fALFF appeared to show lower temporal variation in high level cognitive regions (e.g.，default mode network components,dorsolateral prefrontal cortex),and higher variation in lower-level primary sensory and motor areas,as well as subcortical regions.In contrast, for ReHo and DC,the variation is high among allthe cortices, including the default mode network. Of note, CV is not applicable for VMHC and GSCorr as they contain negative correlation values. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Evaluating Concordance among R-fMRl Indices: Global-Level Analyses ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "From the perspective of inter-individual variation,all measures were closely coupled with each other at the global level. Static analyses that calculated for each participant the mean grey matter value for each of the measures of interest, found high correlation between each pair of R-fMRl indices across individuals (Figure 2A). Dynamic analyses capitalized on the ability to perform within-individual analyses; specifically,at each time window,the mean gray matter value for each of the measures was calculated for each participant; a high degree of correlation was noted between allpairs of R-fMRl indices over time (mean correlation scores across participants depicted in figure) (Figure 2B), indicating common fluctuation patterns underlying all the functional aspects. Of note, GSCorr is less correlated with fALFF (mean $\\mathsf { r } = 0 . 5 4 \\AA$ )，but highly correlated with DC (mean $\\mathsf { r } = 0 . 8 7$ ). Nuisance parameters, including motion, RVT and HR did not appear to be major driving forces for the observed ensemble changes. The temporal changes did not correlate with global signal itself (Figure 2B). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Evaluating Concordance among R-fMRl Indices: Voxel-wise Analyses ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "From a static perspective,at each voxel, we calculated the Kendal's W (coefficient of concordance) of the 5 R-fMRl indices (fALFF/ReHo/VMHC/DC/GScorr)across the participants. As demonstrated in the concordance map (Figure 3A), the gray matter regions exhibit high concordance across individuals,including cerebral cortex and subcortical regions.In contrast, the white matter regions demonstrated low concordance.From a temporal dynamic perspective, we calculated the voxel-wise Kendal's W of the 5 R-fMRl indices across time windows within each individual. As demonstrated in the one-sample t-test on the Z-standardized withinindividual concordance maps (Figure 3B), these analyses revealed that the voxel-wise concordance maps are highly similar to the static concordance.The rank order of the static concordance (Figure 3C) and the rank order of the dynamic concordance (Figure 3D) demonstrated a high correlation ( $\\mathfrak { r } = 0 . 8 4$ ,Figure 3E). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Importantly, the voxel-wise concordance changes with age. As indicated by age effects on the concordance map, the brain showed widespread reductions in functional concordance as age increases, especially the subcortical areas (Figure 4A). To quantify the overall functional concordance,we averaged the dynamic voxel-wise concordance across gray matter voxels, and found this mean functional concordance index is negatively correlated with age across participants $( \\mathsf { r } = - 0 . 4 2$ , Figure 4B). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Evaluating Spatial Concordance among R-fMRl Indices: Volume-wise Analysis ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Statically, we calculated the concordance (Kendal's W) of the five measures across voxels for each individual, finding that volume-wise static concordance varies across participants,and is negatively correlated with age ( $_ { ( \\Gamma = - 0 . 4 9 }$ ,Figure 5A). Dynamically, the same concordance among the five R-fMRl indices was computed for each time window, yielding a concordance time-series for each participant (see Figure 5B for an example). As expected, the mean dynamic volumewise concordance was highly correlated with the static concordance ( ${ \\tt ( r = 0 . 9 8 }$ , Figure 5C), and also negatively correlated with age $r = - 0 . 4 9$ , Figure 5D). Of note, the CV of dynamic volumewise concordance is positively correlated with age ( $_ { \\mathrm { r } } = 0 . 2 1$ ， Figure 5E), suggesting that with age, the relationships among the various measures are slightly less stable. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "UnderstandingLow/High Concordance ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "To understand the functional significance of concordance among different indices,we first divided participants into five groups based on volume-wise static concordance,and then compared the highest and lowest group using a two-sample t-test. Participants with the highest $20 \\%$ volume-wise static concordance demonstrated much higher values of all the five R-fMRl indices than those with the lowest $20 \\%$ concordance (Figure 6A). This suggests functional concordance level also reflects traits differences in intrinsic brain activity properties. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "To further investigate relationships between concordance and the strength of R-fMRl indices, we carried out temporal dynamic analyses,which differentiated high and low concordance states on a within-individual basis. Specifically, for each participant, we sorted the windows based on their concordance score and we calculated the mean map for the highest $20 \\%$ and lowest $20 \\%$ of windows. For each R-fMRl index, this yielded two maps for each participant (high concordance,low concordance). Paired t-tests were employed to identify systematic changes in the R-fMRl indices across the two concordance states. The windows with high concordance demonstrated higher scores for allfunctional aspects (fALFF/ReHo/VMHC/DC/GSCorr) relative to those observed with low concordance (Figure 6B),suggesting high and low energy states existing in the brain.When looked at individually for each of the 7 large-scale networks previously defined by Yeo et al., the limbic network emerged as a notable exception, showing only modest increases in R-fMRl indices from low to high-energy states. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Given the seemingly broad nature of increases in connectivity during high concordance states, we pursued one additional question - namely,whether increases in connectivity were specific to connections within network,or extend to those between networks? To answer this question, we investigated the intra-network functional connectivity and inter-network functional connectivity using the Yeo 7 networks (Yeo et al.,2011). For a pre-defined network,we calculated the mean time course for that network,and then correlated with all the voxels within another network. These correlations were averaged to represent the general correlation between the two networks.The correlation between the mean time course and allvoxels within the same network can be averaged to represent the within-network functional connectivity.In general, within network functional connectivity is higher than between-network connectivity (Figure 7). For between-network connectivity, the limbic network demonstrated the lowest connectivity with others.The observation that both intra- and inter-network correlations were higher in the highest $20 \\%$ windows than the lowest $20 \\%$ windows (Figure 7),suggests that both within- and betweennetwork connectivity were increased during higher concordance states. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The present work provided a comprehensive examination of inter-individual variation and intraindividual temporal variation for commonly used measures of intrinsic brain function.We found that definitionally distinct R-fMRl indices of intrinsic brain function tend to exhibit a relatively high degree of co-variation within and between individuals.When taken as a measure of intrinsic brain function, inter-individual differences in concordance for R-fMRl indices appeared to be stable,and negatively related to age (i.e.,functional concordance among indices decreases with age).In attempting to understand the functional significance of concordance,we noted that higher concordance was generally associated with higher strengths for the various R-fMRl indices.Finally, temporal dynamics analyses revealed that high concordance states are ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "characterized by increased within-and between-network functional connectivity,suggesting more general variations in network segregation and integration. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Our findings that differing R-fMRl indices exhibit commonalities in their patterns of variation across time and individuals have multiple implications. From a methodological perspective, they draw attention to questions regarding how to select an R-fMRl index for usage in a given study, as well as how to compare findings across studies that examine individual and group diferences using different indices.The present work suggests that while differing indices share variation across individuals (and time), there was also unique variance associated with each of the indices - particularly in subcortical and limbic areas.As such,while it may remain justifiable for investigators to select one index or another based upon its congruence with a theoretical construct of interest, it is not fair to assume the difering measures are independent of one another. Perhaps more importantly,it is worth noting that we found that the concordance among the indices may in fact serve as a unique aspect of intrinsic brain function, which possesses stable trait differences among individuals. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Beyond insights into study or analytic design,we believe the findings of the present work have potentially profound implications for our understanding of intrinsic brain function. In particular, the present work found that as concordance among measures varies over time, the degree of functional integration in the brain indexed by the various indices changes as wel.This is analogous to the high efficiency states and low efficiency states defined by Zalesky et al. (Zalesky et al.,2014).For periods of high concordance,we found that notably different indices of connectivity (i.e., ReHo, DC, GCoRR, VMHC) and oscillatory power allshowed maximal values,suggesting heightened functional integration. Consistent with this notion, connectivity both within and between large-scale functional networks was greater in these states. In contrast. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "low concordance periods were generally characterized by lower R-fMRl indices and decreased connectivity within and between networks. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Examination of the correlation between the concordance among R-fMRl indices and physiological signals (e.g., cardiac, respiratory) failed to find any meaningful relationships, increasing suspicions of a potential neural etiology for this phenomena. Prior findings suggested that wide-spread fluctuations in fMRl signals (i.e., global signal) are correlated with spontaneous fluctuations detectable in the electrophysiological local field potentials (Scholvinck et al.,2010). Additionally，,dynamic changes in functional connectivity were associated with variations in the amplitude of alpha and theta oscilations measured by electroencephalography (Chang et al., 2013),and are linked to wakefulness (Tagliazucchi and Laufs, 2014). Consistent with these prior works, our findings suggested that global neural signals exist in the brain,and their spontaneous variations over time result in fluctuations in the connectedness of brain regions - both within and between functional systems,as wellas locally (i.e., ReHo) and globally (i.e., DC, GSCorr). Additionally, our work suggests that these fluctuations in connectivity across brain regions are linked to fluctuations in the prominence of low frequency fluctuations. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "A key question is what drives inter-individual variation in concordance among R-fMRl indices. The present work draws atention to age as a contributing factor,finding progressive age-related decreases across the lifespan (age: 8-86). However, this only provides a clue into underlying etiology,the question that what age-related factor may be driving this relationship remains open. One possibility is the inter-individual variation in morphology (Yang et al.,2016),as gray matter volume changes with age (Sowell et al.,20o3); such changes tend to show more complex paterns than the linear decreases with age observed in the present study. Second, is the possibility that it may reflect age-related changes in brain composition or neurochemistry. In this regard,it is important to note that iron,an essential precursor for dopamine synthesis, exhibits age-related increases in brain concentrations throughout the lifespan (Acosta-Cabronero et al, 2016). A third consideration is recent work showing age-related decreases in brain temperature, which is thought to reflect by brain metabolism and cerebral blood flow (Sakai et al.,2011). Future work,integrating R-fMRl with other imaging modalities has the potential to diferentiate between these possibilities,as well as to potentially reveal others. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The present study revealed a temporal dynamic pattern of regional and global aspects of intrinsic brain activities.This dynamic nature is consistent with previous reports that focused on dynamic functional connectivity paterns (Chang and Glover,2010; Sakoglu et al.，2010), based on which intrinsic brain activities could be decoded into several states (Allen et al., 2014; Leonardi et al.,2013); see reviews in (Calhoun et al., 2014; Hutchison et al., 2013; Tagliazucchi and Laufs,2015). Interestingly, high-level cognitive regions,including the default mode network and dorsolateral prefrontal cortex,demonstrated that temporal variations were lower in regional activity measures (i.e., fALFF), but higher in functional connectivity indices (i.e., ReHo and DC). These regions are cortical hubs,and thus are expected to exhibit greater stability. This is supported by the high test-retest reliability of these regions (Zuo and Xing,2014),and further supported by the lower temporal variability in regional strength. However, these regions are highly connected to other brain regions to process multimodal information (Buckner et al., 2009); thus the connections should be flexible.This is supported by high temporal variability in functional synchrony measures in the current study,as well as by findings suggesting that these regions consistently forming dynamic functional connections (Zalesky et al.,2014). In contrast, the lower-level primary regions showed higher temporal variability in both regional strength and functional synchrony (high CV in fALFF,ReHo and DC),while with relatively lower actual regional activity (low mean in fALFF). This indicates the lower-level regions keep less active but more flexible states during resting-state. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Several limitations in the present work merit consideration.First, the R-fMRl indices examined here were considered to reflect different functional aspects of intrinsic brain activity.There would be other aspects beyond the 5 R-fMRl indices examined in the present work, their variations may provide leverage for a deeper understanding of the physiological processes underlying the resting state signal. Second, we found the ensemble changes of intrinsic brain activity,which could be divided into high-integration and low-integration states.As simultaneous electrophysiological recordings were not available for these datasets,we can only speculate how the neuronal ensemble firing related to these fluctuations in functional concordance.Third, we found how functional concordance is related to age in healthy participants,while its generalizability to clinical populations remains unknown. Further studies should apply these methods to neuropsychiatric disorders to test their sensitivity and specificity in brain disorders. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "In sum,the present work provided a comprehensive examination of the functional concordance of intrinsic brain indices from inter-individual variation and temporal dynamics perspectives.The current study draw atention to questions regarding how to select an R-fMRl index for usage in a given study, as well as how to compare findings across studies that examine differences between individuals or groups using diferent indices. Our work suggests global neural signals exist in the brain,and their spontaneous variations over time result in fluctuations in the connectedness of brain regions. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGEMENTS ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "This Work was sSupported by the Hundred Talents Program of the Chinese Academy of Sciences (Y5CX072006 to CGY), the National Basic Research (973) Program (2015CB351702 to XNZ), the Natural Science Foundation of China (81471740,81220108014 to XNZ), the National Institutes of Health (U01MH099059 to MPM), the Child Mind Institute (1FDN2012-1 to MPM) ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "and gifts to the Child Mind Institute (MPM) from Phylis Green,Randolph Cowen,and Joseph F Healey.Dr.Yan, Dr. Milham and Dr. Zuo are also members of the international collaboration team (under its trial stage with Pl: Dr. Xun Liu) supported by the CAS K.C.Wong Education Foundation. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Acosta-Cabronero,J., Betts, M.J., Cardenas-Blanco,A., Yang, S., Nestor, P.J.,2016. In Vivo MRI Mapping of Brain Iron Deposition across the Adult Lifespan. J Neurosci 36,364- 374.   \nAiello,M., Salvatore, E., Cachia, A.,Pappata, S., Cavaliere, C., Prinster, A., Nicolai, E., Salvatore, M., Baron, J.C., Quaranteli, M., 2015. Relationship between simultaneously acquired resting-state regional cerebral glucose metabolism and functional MRl: a PET/MR hybrid scanner study. Neuroimage 113, 111-121.   \nAllen,E.A., Damaraju,E.,Plis, S.M., Erhardt, E.B., Eichele,T., Calhoun, V.D.,2014.Tracking Whole-Brain Connectivity Dynamics in the Resting State. Cereb Cortex 24, 663-676.   \nAnderson, J.S., Druzgal, T.J., Froehlich,A., DuBray, M.B.,Lange,N., Alexander, A.L., Abildskov,T., Nielsen,J.A., Cariello,A.N., Cooperrider,J.R., Bigler, E.D., Lainhart, J.E., 2011. Decreased interhemispheric functional connectivity in autism. Cerebral cortex 21, 1134-1146.   \nAshburner, J.,2007.A fast difeomorphic image registration algorithm. Neuroimage 38, 95-113.   \nAshburner, J., Friston, K.J., 2005. Unified segmentation. Neuroimage 26, 839-851.   \nBeckmann, C.F., DeLuca, M., Devlin,J.T., Smith, S.M., 2005. Investigations into resting-state connectivity using independent component analysis. Philos Trans R Soc Lond B Biol Sci 360, 1001-1013. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Betzel,R.F.,Fukushima, M.,He,Y., Zuo, X.N., Sporns,O.,2016. Dynamic fluctuations coincide with periods of high and low modularity in resting-state functional brain networks. Neuroimage 127, 287-297. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Buckner, R.L., Sepulcre, J., Talukdar,T., Krienen, F.M., Liu, H., Hedden, T., Andrews-Hanna, J.R., Sperling, R.A., Johnson, K.A., 2009. Cortical hubs revealed by intrinsic functional connectivity: mapping, assessment of stability, and relation to Alzheimer's disease. J Neurosci 29, 1860-1873.   \nCalhoun, V.D., Miller, R., Pearlson, G., Adali, T., 2014. The chronnectome: time-varying connectivity networks as the next frontier in fMRl data discovery. Neuron 84,262-274.   \nChang,C., Glover, G.H.,2010. Time-frequency dynamics of resting-state brain connectivity measured with fMRl. Neuroimage 50,81-98.   \nChang, C., Liu, Z., Chen, M.C., Liu, X., Duyn,J.H.,2013. EEG correlates of time-varying BOLD functional connectivity. Neuroimage.   \nChen, B., Xu, T.,Zhou, C., Wang,L.,Yang, N., Wang, Z., Dong, H.M., Yang, Z., Zang, Y.F., Zuo,X.N., Weng, X.C., 2015. Individual Variability and Test-Retest Reliability Revealed by Ten Repeated Resting-State Brain Scans over One Month. PLoS ONE 10, e0144963.   \nCraddock, R.C., Jbabdi, S., Yan, C.G., Vogelstein, J., Castellanos, F.X., Di Martino, A., Kelly, C.,Heberlein, K., Colcombe, S., Milham, M.P., 2013. Imaging human connectomes at the macroscale. Nat Methods 10, 524-539.   \nDi Martino, A., Fair, D.A., Kelly, C., Satterthwaite,T.D., Castellanos,F.X., Thomason, M.E., Craddock, R.C., Luna, B., Leventhal, B..,Zuo, X.N., Milham, M.P.,2014a. Unraveling the miswired connectome: a developmental perspective. Neuron 83,1335-1353.   \nDi Martino,A., Yan, C.G., Li, Q.,Denio,E., Castellanos,F.X., Alaerts,K., Anderson, J.S.,Assaf, M., Bookheimer, S.Y., Dapretto, M., Deen, B., Delmonte, S., Dinstein,I., Ertl-Wagner, B., Fair, D.A., Gallagher,L., Kennedy, D.P., Keown, C.L., Keysers, C., Lainhart, J.E.,Lord, C., Luna, B., Menon,V., Minshew, N.J., Monk, C.S., Mueller, S., Muller, R.A., Nebel, ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "M.B.,Nigg, J.T., O'Hearn, K., Pelphrey, K.A., Peltier, S.J., Rudie, J.D., Sunaert, S., Thioux, M., Tyszka,J.M., Uddin,L.Q., Verhoeven, J.S.,Wenderoth, N.,Wiggins, J.L., Mostofsky, S.H., Milham,M.P., 2014b. The autism brain imaging data exchange: towards a large-scale evaluation of the intrinsic brain architecture in autism. Mol Psychiatry 19, 659-667. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Eklund, A., Nichols,T., Knutsson, H.,2015. Can parametric statistical methods be trusted for fMRI based group studies? arXiv preprint arXiv:1511.01863.   \nFox, M.D., Raichle, M.E., 2007. Spontaneous fluctuations in brain activity observed with functional magnetic resonance imaging. Nat Rev Neurosci 8, 700-711.   \nFox,M.D., Snyder, A.Z., Vincent, J..,Raichle,M.E.,2007. Intrinsic fluctuations within cortical systems account for intertrial variability in human behavior. Neuron 56,171-184.   \nFriston, K.J.,Williams, S., Howard,R., Frackowiak, R.S.,Turner, R.,1996.Movement-related effects in fMRl time-series.Magn Reson Med 35,346-355.   \nGotts,S.J., Saad, Z.S., Jo, H.J., Walace, G.L.,Cox, R.W., Martin, A.,2013. The perils of global signal regression for group comparisons: a case study of Autism Spectrum Disorders. Front Hum Neurosci 7, 356.   \nHandwerker, D.A.,Roopchansingh,V., Gonzalez-Castillo, J., Bandettini, P.A., 2012. Periodic changes in fMRl connectivity. Neuroimage 63,1712-1719.   \nHindriks,R., Adhikari, M.H., Murayama, Y., Ganzeti, M., Mantini, D.,Logothetis, N.K.,Deco， G., 2016.Can sliding-window correlations reveal dynamic functional connectivity in restingstate fMRl? Neuroimage 127, 242-256.   \nHutchison,R.M., Womelsdorf,T., Allen, E.A., Bandettini, P.A., Calhoun,V.D., Corbetta,M., Della Penna, S., Duyn, J.H., Glover, G.H., Gonzalez-Castillo, J., Handwerker, D.A., Keilholz, S., Kiviniemi, V., Leopold, D.A., de Pasquale, F., Sporns, O., Walter, M., Chang,C.,2013. Dynamic functional connectivity: promise, issues,and interpretations. Neuroimage 80, 360-378.   \nKang,J.,Wang,L., Yan, C.,Wang, J., Liang, X., He,Y.,2011. Characterizing dynamic functional connectivity in the resting brain using variable parameter regression and Kalman filtering approaches. Neuroimage 56,1222-1234.   \nKannurpatti, S.S., Biswal, B.B., 2008. Detection and scaling of task-induced fMRl-BOLD response using resting state fluctuations. Neuroimage 40, 1567-1574.   \nKelly,A.M., Uddin, L.Q., Biswal, B.B., Castellanos, F.X., Milham, M.P., 2008. Competition between functional brain networks mediates behavioral variability. Neuroimage 39, 527- 537.   \nKelly,C., Biswal, B.B., Craddock, R.C., Castellanos,F.X., Milham, M.P.,2012. Characterizing variation in the functional connectome: promise and pitfalls. Trends Cogn Sci 16,181- 188.   \nKendall, M.G., Gibbons, J.D., 1990. Rank correlation methods. E. Arnold ; Oxford University Press, London; New York, NY.   \nKiviniemi, V., Vire,T.,Remes,J.,Elseoud,A.A.,Starck,T.,Tervonen,O., Nikkinen, J.,2011.A sliding time-window ICA reveals spatial variability of the default mode network in time. Brain Connect 1, 339-347.   \nLeonardi, N., Richiardi, J., Gschwind, M., Simioni, S., Annoni, J.M., Schluep, M., Vuilleumier,P., Van De Vile, D.,2013. Principal components of functional connectivity: a new approach to study dynamic brain connectivity during rest. Neuroimage 83, 937-950.   \nMargulies,D.S., Bottger,J.,Long,X.,Lv,Y., Kelly,C.,Schafer, A., Goldhahn,D.,Abbushi, A., Milham, M.P., Lohmann, G., Vilringer, A., 2010. Resting developments: a review of fMRl post-processing methodologies for spontaneous brain activity. Magma 23, 289-307.   \nMaxim, V., Sendur,L., Fadili, J., Suckling,J., Gould, R., Howard,R., Bullmore, E., 2005. Fractional Gaussian noise, functional MRl and Alzheimer's disease. Neuroimage 25, 141-158. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Murphy, K., Birn, R.M., Handwerker, D.A.,Jones, T.B., Bandettini, P.A.,2009.The impact of global signal regression on resting state correlations: are anti-correlated networks introduced? Neuroimage 44, 893-905. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Nooner, K.B., Colcombe, S.J., Tobe, R.H., Mennes, M., Benedict, M.M., Moreno,A..，Panek, L.J., Brown, S., Zavitz, S.T.,Li, Q., Sikka, S., Gutman, D., Bangaru, S., Schlachter, R.T., Kamiel, S.M., Anwar, A.R., Hinz, C.M., Kaplan, M.S., Rachlin, A.B., Adelsberg, S., Cheung, B., Khanuja, R., Yan, C., Craddock, C.C., Calhoun, V., Courtney,W., King, M., Wood, D., Cox, C.L., Kelly, A.M., Di Martino, A., Petkova, E., Reiss, P.T., Duan, N., Thomsen, D., Biswal, B., Coffey， B., Hoptman, M.J., Javit, D.C.,Pomara, N., Sidtis, J.J., Koplewicz, H.S., Castellanos, F.X., Leventhal, B.L., Milham, M.P., 2012. The NKlRockland Sample: A Model for Accelerating the Pace of Discovery Science in Psychiatry. Frontiers in neuroscience 6, 152. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Nugent, A.C., Martinez,A., D'Alfonso,A., Zarate,C.A.,Theodore,W.H.,2015.The relationship between glucose metabolism, resting-state fMRl BOLD signal, and GABAA-binding potential: a preliminary study in healthy subjects and those with temporal lobe epilepsy. J Cereb Blood Flow Metab 35, 583-591. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Power, J.D., Barnes, K.A., Snyder, A.Z., Schlaggar, B.L., Petersen, S.E.,2012a. Spurious but systematic correlations in functional connectivity MRl networks arise from subject motion. Neuroimage 59, 2142-2154. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Power,J.D., Barnes, K.A., Snyder, A.Z., Schlaggar, B.L.,Petersen, S.E, 2012b. Steps toward optimizing motion artifact removal in functional connectivity MRl; a reply to Carp. Neuroimage. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Raichle,M.E., 2010. Two views of brain function. Trends Cogn Sci 14，180-190.",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Raichle,M.E., 2015.The restless brain: how intrinsic activity organizes brain function. Philos Trans R Soc Lond B Biol Sci 370. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Saad,Z.S., Gots, S.J., Murphy, K., Chen, G., Jo, H.J., Martin, A., Cox, R.W., 2012. Trouble at rest: how correlation patterns and group differences become distorted after global signal regression. Brain Connect 2, 25-32.   \nSakai,K., Yamada, K., Mori, S., Sugimoto, N., Nishimura, T., 2011. Age-dependent brain temperature decline assessed by difusion-weighted imaging thermometry. NMR Biomed 24, 1063-1067.   \nSakoglu, U., Pearlson, G.D., Kiehl, K.A.,Wang, Y.M., Michael, A.M., Calhoun, V.D., 2010. A method for evaluating dynamic functional network connectivity and task-modulation: application to schizophrenia. Magma 23, 351-366.   \nSatterthwaite, T.D., Elliott, M.A., Gerraty, R.T., Ruparel, K.,Loughead, J., Calkins, M.E., Eickhoff, S.B., Hakonarson, H., Gur, R.C., Gur, R.E., Wolf, D.H., 2013. An improved framework for confound regression and filtering for control of motion artifact in the preprocessing of resting-state functional connectivity data. Neuroimage 64, 240-256.   \nSatterthwaite, T.D., Wolf, D.H.,Loughead,J., Ruparel, K., Eliot, M.A., Hakonarson, H., Gur, R.C.,Gur, R.E., 2012. Impact of in-scanner head motion on multiple measures of functional connectivity: Relevance for studies of neurodevelopment in youth. Neuroimage 60,623-632.   \nScholvinck, M.., Maier,A., Ye,F.Q., Duyn, J.H., Leopold, D.A., 2010. Neural basis of global resting-state fMRl activity. Proc Natl Acad Sci U S A 107， 10238-10243.   \nSmith,S.M., Miller, K.L., Moeller, S., Xu,J., Auerbach,E.J.,Woolrich,M.W.,Beckmann, C.F., Jenkinson, M., Andersson, J., Glasser, M.F.,Van Essen, D.C., Feinberg, D.A., Yacoub, E.S., Ugurbil, K., 2012. Temporally-independent functional modes of spontaneous brain activity. Proc Natl Acad Sci U S A 109,3131-3136.   \nSowell, E.R., Peterson, B.S.,Thompson, P.M., Welcome, S.E., Henkenius, A.L.,Toga,A.W., 2003.Mapping cortical change across the human life span. Nat Neurosci 6,309-315.   \nTagliazucchi, E.,Laufs, H., 2014. Decoding wakefulness levels from typical fMRl resting-state data reveals reliable drifts between wakefulness and sleep. Neuron 82, 695-708.   \nTagliazucchi, E., Laufs,H.,2015. Multimodal imaging of dynamic functional connectivity. Front Neurol 6, 10.   \nVan Dijk, K.R., Sabuncu, M.R., Buckner, R.L., 2012. The influence of head motion on intrinsic functional connectivity MRl. Neuroimage 59, 431-438.   \nWeissenbacher, A., Kasess,C., GerstI, F., Lanzenberger, R., Moser, E., Windischberger, C., 2009.Correlations and anticorrelations in resting-state functional connectivity MRl: a quantitative comparison of preprocessing strategies. Neuroimage 47, 1408-1416.   \nWoo, C.W., Krishnan, A., Wager, T.D.,2014. Cluster-extent based thresholding in fMRl analyses: pitfalls and recommendations. Neuroimage 91, 412-419.   \nYan, C., Zang, Y., 2010. DPARSF: A MATLAB Toolbox for \"Pipeline\" Data Analysis of RestingState fMRl. Front Syst Neurosci 4, 13.   \nYan, C.G., Cheung, B., Kely, C., Colcombe, S., Craddock, R.C., Di Martino, A., Li, Q., Zuo, X.N., Castellanos, F.X., Milham, M.P., 2013a. A comprehensive assessment of regional variation in the impact of head micromovements on functional connectomics. Neuroimage 76,183-201.   \nYan, C.G., Craddock, R.C., Zuo, X.N., Zang, Y.F., Milham, M.P., 2013b. Standardizing the intrinsic brain: towards robust measurement of inter-individual variation in 1000 functional connectomes. Neuroimage 80, 246-262.   \nYan, C.G., Wang, X.D., Zuo, X.N., Zang, Y.F., in press. DPABl: Data Processing & Analysis for (Resting-State) Brain Imaging. Neuroinformatics.   \nYang,Z., Craddock, R.C., Margulies, D.S., Yan, C.G., Milham, M.P., 2014. Common intrinsic connectivity states among posteromedial cortex subdivisions: Insights from analysis of temporal dynamics. Neuroimage 93 Pt 1, 124-137.   \nYang,Z., Jutagir, D.R., Koyama, M.S., Craddock, R.C., Yan, C.G., Shehzad, Z., Castellanos, F.X.,Di Martino, A., Milham, M.P., 2015. Intrinsic brain indices of verbal working memory capacity in children and adolescents. Dev Cogn Neurosci 15, 67-82.   \nYang,Z., Qiu, J.,Wang, P., Liu, R., Zuo, X.N., 2016. Brain structure-function associations identified in large-scale neuroimaging data.   \nYeo, B.T., Krienen, F.M., Sepulcre, J. Sabuncu, M.R., Lashkari, D., Holinshead, M., Roffman, J.L., Smoller, J.W., Zollei,L., Polimeni, J.R., Fischl, B.,Liu,H., Buckner, R.L.,2011. The organization of the human cerebral cortex estimated by intrinsic functional connectivity. J Neurophysiol 106,1125-1165.   \nYuan,R., Di, X., Kim, E.H., Barik, S., Rypma, B., Biswal, B.B., 2013. Regional homogeneityof resting-state fMRl contributes to both neurovascular and task activation variations. Magn Reson Imaging 31, 1492-1500.   \nZalesky, A., Fornito,A., Cocchi, L., Gollo,L.., Breakspear, M., 2014. Time-resolved restingstate brain networks. Proc Natl Acad Sci U S A.   \nZang,Y.F., He, Y., Zhu, C.Z., Cao, Q.J.,Sui, M.Q., Liang, M., Tian, L.X., Jiang, T.Z., Wang, Y.F.,2007. Altered baseline brain activityin children with ADHD revealed by restingstate functional MRl. Brain Dev 29, 83-91.   \nZang,Y.F., Jiang, T.Z., Lu, Y.., He, Y., Tian, L.X., 2004. Regional homogeneity approach to fMRl data analysis. Neuroimage 22, 394-400.   \nZou, Q.H., Zhu, C.Z., Yang, Y.,Zuo, X.N., Long, X.Y., Cao, Q.J., Wang, Y.F.,Zang, Y.F., 2008. An improved approach to detection of amplitude of low-frequency fluctuation (ALFF) for resting-state fMRl: fractional ALFF. J Neurosci Methods 172, 137-141.   \nZuo, X.N., Di Martino, A., Kelly, C., Shehzad, Z.E., Gee, D.G., Klein, D.F., Castellanos, F.X., Biswal, B.B., Milham,M.P., 2010a. The oscillating brain: Complex and reliable. Neuroimage 49, 1432-1445.   \nZuo,X.N., Ehmke,R., Mennes,M., Imperati, D., Castellanos,F.X., Sporns,O., Milham, M.P., 2012.Network Centrality in the Human Functional Connectome. Cereb Cortex 22, 1862- 1875.   \nZuo,X.N., Kelly,C., Di Martino, A., Mennes, M., Margulies, D.S., Bangaru, S., Grzadzinski, R., Evans, A.C., Zang, Y.F., Castellanos, F.X., Milham, M.P.,2010b. Growing together and growing apart: regional and sex diferences in the lifespan developmental trajectories of functional homotopy. J Neurosci 30, 15034-15043.   \nZuo, X.N., Xing, X.X., 2014. Test-retest reliabilities of resting-state FMRl measurements in human brain functional connectomics: a systems neuroscience perspective. Neurosci Biobehav Rev 45, 100-118.   \nZuo, X.N., Xu,T., Jiang,L., Yang, Z., Cao, X.Y., He, Y., Zang, Y.F., Castellanos, F.X., Milham, M.P.,2013. Toward reliable characterization of functional homogeneity in the human brain: Preprocessing, scan duration, imaging resolution and computational space. Neuroimage 65, 374-386. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "FIGURELEGENDS ",
+        "text_level": 1,
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Figure 1. The static and temporal dynamic patterns of R-fMRl indices.T scores of static (A), temporal mean of dynamic (B), and temporal coefficients of variation of dynamic (CV, C) R-fMRI indices. Average t values of Z-standardized temporal CV of dynamic R-fMRl indices were computed within each of the seven networks defined by Yeo et al (2011) and ploted using radar plots (D). SomMot: Somatomotor; DorsAttn: Dorsal Attention; VentAttn: Ventral Attention; Control: Frontoparietal Control. ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Figure 2. Global-level concordance among R-fMRl indices.(A) Static concordance: Pearson's correlations between pairs of global mean of static R-fMRl indices were computed across participants.(B) Dynamic concordance: Pearson's correlations were computed between pairs of global mean time series derived from dynamic R-fMRl indices within a participant and then averaged across participants.For dynamic concordance,the contributions of nuisance variables were also examined: motion, global signal (GS), respiration volume per time (RVT)and heart rate (HR). ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Figure 3. Functional concordance among five R-fMRl indices: voxel-wise analyses. (A) Static concordance among R-fMRl indices computed across participants (Kendal's W); (B) Dynamic concordance among R-fMRl indices (T scores) computed in two steps: first, in each participant, Kendal's W was computed across time window among five R-fMRl indices; then one-sample Ttests were performed to collapse the concordance maps (after Z-standardization) across participants;(C) Rank order of A; (D) Rank order of B;(E) Spatial correlation between C and D. ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Figure 4. Age efects on dynamic voxel-wise within-individual concordance (Kendal's W). (A) Wide-spread reductions in functional concordance as age increases. Of note, the result is corrected at voxel-level $\\mathsf { P } < 0 . 0 0 1$ 0 ${ \\sf T } > 3 . 1$ given the degree of freedom $= 1 6 9$ ）and cluster-level $\\mathsf { P } < 0 . 0 5$ . (B) Mean functional concordance index (dynamic voxel-wise concordance averaged across gray matter voxels) is negatively correlated with age across subjects. ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Figure 5. Functional concordance among five R-fMRl Indices: volume-wise analyses.(A) Static volume-wise spatial concordance among R-fMRl indices was plotted as a functional of age; (B) An exemplar dynamic volume-wise concordance among R-fMRl indices for a given subject (one concordance time-series/participant); (C) Correlations between static and mean dynamic (averaged time windows) volume-wise spatial concordance; the mean (D) and the coefficient of variation (CV: E) of dynamic volume-wise spatial concordance was plotted as a function of age. ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Figure 6. Differences in magnitude of R-fMRl indices between high and low concordance participants or time windows (A) T cores obtained via comparing the static R-fMRl indices between participants with highest and lowest $20 \\%$ of concordance (static volume-wise spatial concordance) were plotted for each voxel on surface map (top row). Of note, the result is corrected at voxel-level $\\mathsf { P } < 0 . 0 0 1$ （ $\\intercal > 3 . 2$ given the degree of freedom $= 6 8$ )and cluster-level P $< 0 . 0 5$ . The average t scores of each of the seven Yeo et al., (2011) networks were plotted in radar chart (bottom row). (B) For each participant, the mean R-fMRl index maps for the windows with highest $20 \\%$ and lowest $20 \\%$ concordance (dynamic volume-wise spatial concordance) were calculated,yielding two maps (high concordance,low concordance),and then paired ttests were performed between high and low concordance maps across participants.The result is corrected at voxel-level $\\mathsf { P } < 0 . 0 0 1$ 0 ${ \\sf T } > 3 . 1$ given the degree of freedom $\\mathbf { \\epsilon } = 1 7 2$ )and clusterlevel $\\mathsf { P } < 0 . 0 5$ . SomMot: Somatomotor; DorsAttn: Dorsal Attention; VentAttn: Ventral Attention; Control: Frontoparietal Control. ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Figure 7. Intra- and inter-network functional connectivity between high and low concordance state.(A) Mean functional connectivity averaged among the highest $20 \\%$ windows of dynamic volume-wise spatial concordance. (B) Mean functional connectivity averaged among the lowest $20 \\%$ windows of dynamic volume-wise spatial concordance.(C) Paired T-tests on functional connectivity between the highest and the lowest $20 \\%$ windows. ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 31
+    },
+    {
+        "type": "image",
+        "img_path": "images/4d4f9d33fa0df6b499651455bb04cb6192331dc9c20e3ec82c1c576e998fd5e3.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 32
+    },
+    {
+        "type": "image",
+        "img_path": "images/fcb7d332161925f7ceba8331ca3c8df4f42d2e6530ffae354db46c50a6186f7d.jpg",
+        "img_caption": [
+            "Between-subject correlation (across individuals) "
+        ],
+        "img_footnote": [],
+        "page_idx": 33
+    },
+    {
+        "type": "image",
+        "img_path": "images/8241c38aa9c1770ca2760a8cb5ad41710d2f46ff605cd23eac9254dfe221a390.jpg",
+        "img_caption": [
+            "Within-subject correlation (across time windows) "
+        ],
+        "img_footnote": [],
+        "page_idx": 33
+    },
+    {
+        "type": "image",
+        "img_path": "images/bab46ed9455c1d15c593d155e8ba506d5c3deb23bb8387b998c9c9034e43984b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 34
+    },
+    {
+        "type": "image",
+        "img_path": "images/624856e9600e800735059b745eb1b504b444cc1c7f021c568edc5e9484e47d6f.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 34
+    },
+    {
+        "type": "image",
+        "img_path": "images/2752da298399e7527c7c30b4c5ef2ab900adffb97946f3aff6acdae64db909a2.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 35
+    },
+    {
+        "type": "image",
+        "img_path": "images/1c590dea8931261828888590b00031e0f5ee226b751c54f6120a4e151acf455a.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 35
+    },
+    {
+        "type": "image",
+        "img_path": "images/42afd876631c9a8a269337f61c6cff00121d7780b360e453bafa642fab929db7.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 36
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e04019b77813543a5542cfb265c47c4da2f916e07d8e8075a1be6e677616db7.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 37
+    },
+    {
+        "type": "image",
+        "img_path": "images/9f138a778c2f27507c169a5f8da25ea184b04cd8f53092f8d3c3e3e8d5ef7951.jpg",
+        "img_caption": [
+            "NetworkFC:meanoflower $20 \\%$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 38
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c3c3373d1f47aeeef8df64817bd7153534b5ad5db912062270f814cd46a19f4.jpg",
+        "img_caption": [
+            "NetworkFC:meanofhigher $20 \\%$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 38
+    },
+    {
+        "type": "image",
+        "img_path": "images/86f672ae36767bd5109666beb8067cf75a07c831f2680782b9923b3c6332d8a4.jpg",
+        "img_caption": [
+            "Network FC:paired t test "
+        ],
+        "img_footnote": [],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "1: Visual   \n2: Somatomotor   \n3:Dorsal Attention   \n4:Ventral Attention   \n5:Limbic   \n6: Frontoparietal   \n7: Default ",
+        "page_idx": 38
+    }
+]

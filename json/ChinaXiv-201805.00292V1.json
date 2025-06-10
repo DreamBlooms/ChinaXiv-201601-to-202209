@@ -1,0 +1,584 @@
+[
+    {
+        "type": "text",
+        "text": "不完备系统多准则决策的云PDR方法‘",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "袁旭梅，王亚娜，张旭(燕山大学 经济管理学院，河北 秦皇岛 066000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对多准则决策问题的意义以及经典粗糙集方法在不完备系统方案排序问题中的不足，在前人基于概率优势关系(PDR)排序方法的基础上，结合云理论提出了基于云概率优势关系的不完备系统多准则决策方法，即云PDR排序法。将期望、熵、超熵等参数引入PDR方法，充分考虑了决策的模糊性、波动性和随机性，评价过程和结果更加客观全面。以煤炭资源型城市为例进行应用研究，获得其中各城市发展水平及其波动情况的排序，并通过与其他方法结果的比较验证了本文方法的优势与有效性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：多准则决策；粗糙集；不完备系统；云PDR方法；煤炭资源型；城市发展水平 中图分类号：TP391 doi: 10.3969/j.issn.1001-3695.2017.08.0717 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cloud PDR method for multi-criteria decision making with incomplete system ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yuan Xumei, Wang Yana, Zhang Xu (School of Management &Economics,Yanshan University,Qinhuangdao Hebei O66ooo,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Aimingatthesignificanceofthe multi-criteriadecision making problemand the insuficientoftheclasical rough set method inthe project scheduling problems of incompletesystem,a multi-criteria decision making methodof incomplete systemcombined with cloud probabilistic dominancerelation (cloud PDR)is proposed in this paperbasedon the predecessors' probabilistic dominance relation (PDR)sorting method.The parameters such as expectation,entropyand super entropyare introduced intothePDR method considering the fuzzinessvolatilityandrandomnessofthedecision simultaneouslywhose evaluation proceses and results are more objective and comprehensive.Taking the development levelofcoalresource-based cityas aexample,thearticleobtainsthe sortingofeachcityand meanwhileverifiestheadvantagesandtheefectivenesof the method by comparing with other methods. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: multi-criteria decision making;rough set; incomplete system; cloud PDR method;coalresource type；urban development level ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "多准则决策(multi-criteriadecisionmaking，MCDM)是指在多个准则或属性下，选择最优备选方案或进行备选方案排序的问题。针对该问题的方法研究已经取得了丰硕的成果，如AHP法、TOPSIS 法、PROMETHEE 法、因子分析法、主成分分析法[1]、粗糙集法等。粗糙集方法[2-3]作为一种信息与知识的数据分析理论，是波兰科学家Pawlak 教授于1982年提出的一种新型的、能够定量分析和处理不精确、不一致、不完整等各种不完备信息的有效工具。随着研究的发展，粗糙集理论不断成熟，受到越来越多的关注并取得诸多研究成果。其中，对传统粗糙集模型的拓展，尤其是与其他方法的结合，为解决多属性决策中的排序问题提供了一种有效的方法并在众多领域获得广泛应用[4-5]。李晓莉[4将粗糙集与TOPSIS 法结合用于第三方供应商的评价；尹宗成等[5结合粗糙集与信息熵对煤炭资源型城市发展水平进行评价。然而，这些研究均涉及到属性约简和权重确定，带有一定的主观性。基于此，Greco等人[提出了基于优势关系的粗糙集模型，并带动了一系列的方法研究[7\\~II]。Zhang 等人针对两类集值决策表研究了基于 $\\alpha$ 优势的定量粗糙集模型和近似推理模型；Lyu等人[8提出基于优势关系的排名模型并应用于能源评估；翁世洲等人[9基于优势关系下的粗糙集理论，通过对原有排序模型的改进，分析了新的排序模型和排序约简的概念；韦碧鹏等人[10]基于不完备序信息系统中现有优势关系存在的不足，提出了 $\\alpha$ 优势关系的概念并设计出不完备序信息系统以及序决策系统的属性约简算法；翁世洲等人[1探索了概率优势关系的粗糙集模型以及基于此模型的排序方法，并通过对物流供应链的绩效评价验证其合理性。然而，这一方法虽无须确定权重但对优势关系要求相对严格，容错能力较差，在实际应用方面效果并不理想。为此，翁世洲等人[12]提出了基于概率优势关系的粗糙集模型，其仅要求两个方案满足优劣关系的属性个数达到一定比例即可，极大地简化了整个排序与决策过程。另外，考虑到实际应用中数据缺失的情况，李柏敏等人[13]进一步研究了不完备系统中的概率优势关系排序方法。综上，现有方法不断弥补并完善了传统粗糙集排序方法的不足，但是其对决策者主观模糊性和随机性的考虑仍较为欠缺，容易导致决策结果扭曲、片面等问题。针对这一现象，本文提出了基于云模型的云概率优势关系方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "云模型是我国学者李德毅在概率论和模糊论的基础上提出了一种用语言值来描述定性概念与其定量数值之间的不确定性转换模型。随着该模型研究的日趋成熟，其已经在多个领域得到应用[14-17]。王雪青等人[14]利用云转换开展了对中国区域建筑产业竞争力的评价研究；阎长顺等人[15]针对现有的数据挖掘模型解决客户不确定性行为的不足，提出了一种基于云模型的动态客户细分分类模型；张明媛等人[16利用云模型的正向云发生器和逆向云发生器对山东省的旱涝情况进行了综合评价；周永林等人[17基于云模型理论提出了一种改进的多层次模糊综合评价方法。然而，现有文献中运用云模型理论和特点分析不完备系统多准则决策问题的研究还不多见。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文在对现有多准则决策问题分析方法进行总结的基础上，结合现有的不完备系统PDR排序法和云理论，提出一种基于云PDR 的不完备系统粗糙集排序方法。通过引入期望 $U$ 、熵 $A$ 和超熵 $S = \\left. U , A , V , f \\right.$ ，使决策过程和结果充分考虑了模糊性和随机性等因素，为多准则下方案排序问题提供了更加符合客观实际和现实操作的分析思路与方法。最后，应用云PDR方法对煤炭资源型城市发展水平进行排序、比较和分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 不完备系统的云PDR排序方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1不完备系统的 PDR 排序法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1基本思路",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PDR(probabilistic dominancerelation)是基于概率优势关系的排序方法，在不完备系统中，其基本思想是通过构建具有容错能力的概率优势关系，根据各对象的条件属性值计算其优势度、 $\\alpha$ 概率优势类、概率优势矩阵和综合优势度，并据此确定各对象排序。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.2相关概念 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义1不完备系统。定义一个四元组 $S = \\left. U , A , V , f \\right.$ 为一个系统，其中 $U = \\bigl \\{ x _ { _ 1 } , x _ { _ 2 } , \\cdots , x _ { _ m } \\bigr \\}$ 为非空有限的对象集合，称为论域； $A = \\left\\{ a _ { 1 } , a _ { 2 } , \\cdots , a _ { n } \\right\\}$ 为非空有限的条件属性集合（指标集)；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\left\\{ f _ { \\boldsymbol { k } } : U \\times A \\to V _ { \\boldsymbol { k } } , \\boldsymbol { k } \\leq n \\right\\}$ 是一个函数，为 $U$ 与 $A$ 的关系集， $\\boldsymbol { V } _ { \\boldsymbol { k } }$ 是$a _ { \\scriptscriptstyle k }$ 的有限值域。若存在一个属性 $a \\in A$ 使得 $\\boldsymbol { V } _ { \\boldsymbol { k } }$ 为未知值，且均为偏序集(用\\*表示)，则称该系统为不完备系统，本文仍将其记作 $s$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义2优势度。假设 $S = \\left. U , A , V , f \\right.$ 为不完备系统，对 $\\forall x _ { i }$ ，$x _ { _ { j } } \\in U$ ， $a \\in A$ ，称 $p _ { _ a } ( x _ { _ i } , x _ { _ j } )$ 为对象 $\\boldsymbol { x } _ { { } _ { j } }$ 相比于 $x _ { i }$ 在属性 $\\mathbf { \\Psi } _ { a }$ 下取值的优势度。若在 $\\mathbf { \\Psi } _ { a }$ 下 $x _ { _ j } > x _ { _ i }$ ，则 $\\boldsymbol { x } _ { j }$ 相比于 $x _ { i }$ 在 $\\mathbf { \\Psi } _ { a }$ 下取值的优势度为1，即 $x _ { _ j } \\succ x _ { _ i }$ ；若在 $\\mathbf { \\Delta } _ { a }$ 下 $x _ { _ j } < x _ { _ i }$ ，则 $\\boldsymbol { x } _ { j }$ 相比于 $x _ { i }$ 在 $\\mathbf { \\Delta } _ { a }$ 下取值的优势度为0，即 $x _ { _ j } \\prec x _ { _ i }$ ；若在 $\\mathbf { \\Psi } _ { a }$ 下 $x _ { _ j } = x _ { _ i }$ 或其中一个值为缺省值 $( ^ { * } )$ ，则 $\\boldsymbol { x } _ { { } _ { j } }$ 相比于 $x _ { i }$ 在 $\\mathbf { \\Psi } _ { a }$ 下取值的优势度为0.5，即 $x _ { _ { j } } \\sim x _ { _ { i } }$ 。（其中“ $\\succ$ ”表示“优于”，“～”表示“不相上下”，“ $\\prec ^ { \\prime \\prime }$ 表示“劣于\")。因此，对象 $\\boldsymbol { x } _ { j }$ 在全体属性集 $A$ 下不劣于 $x _ { i }$ 的优势度可记为 $p _ { _ A } ( x _ { _ i } , x _ { _ j } )$ ，其为 $p _ { _ a } ( x _ { _ i } , x _ { _ j } )$ 中取值为1的属性个数与Pa(xi,xj)中取值为0.5 的属性个数之和与全体属性集数量的比值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义3 $\\alpha$ -概率优势类。在不完备系统 $S = \\left. U , A , V , f \\right.$ 中，称 $R _ { _ A } ^ { ^ { \\geq \\alpha } }$ 为 $s$ 在 $A$ 下的 $\\alpha$ -概率优势关系，即$R _ { _ A } ^ { \\ge \\alpha } = \\{ ( x _ { _ i } , x _ { _ j } ) | p _ { _ A } ( x _ { _ i } , x _ { _ j } ) \\ge \\alpha , 0 . 5 \\le \\alpha \\le 1 \\}$ 。给定 $\\alpha$ ，则称 $[ x _ { i } ] _ { A } ^ { \\geq \\alpha }$ 为对象 $x _ { i }$ 关于 $A$ 的 $\\alpha$ 概率优势类，表示比对象 $x _ { i }$ 概率优的元素集合。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义4优势矩阵和综合优势度。对概率优势类进行集合运算即可得到优势矩阵，其中的各元素用 $D _ { \\boldsymbol { A } } ^ { \\ge \\alpha } ( x _ { i } , \\boldsymbol { x } _ { j } )$ 表示。进一步对优势矩阵中各行元素取算术平均值即可得到各个对象的综合优势度，记为 $d _ { _ A } ^ { ^ { 2 \\alpha } } \\left( x _ { _ i } \\right)$ ，依据 $d _ { _ A } ^ { ^ { 2 \\alpha } } \\left( x _ { _ i } \\right)$ 即可对全体对象集进行排序。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 云模型理论",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1云模型的基本概念",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "云模型(cloudmodel)是由李德毅教授在结合传统的概率统计论和模糊数学理论的基础上提出了一种用语言值来描述某个定性概念与其定量数值之间的不确定性转换模型。通常，云模型采用期望 $U$ (expected value)、熵 $A$ (entropy)和超熵 $H _ { e }$ (hyperentropy)对定性与定量相互间的映射进行刻画。其中， $U$ 是最能代表所要研究内容定性概念的最典型样本点，即所有云滴在论域分布中的期望； $A$ 是对定性概念不确定性的度量，由概念的随机性和模糊性共同决定，代表着一个定性概念的可度量粒度，反映了概念外延的离散程度和模糊程度，此外熵还能反映随机性和模糊性之间的关联性； $H _ { e }$ 是对 $A$ 不确定程度的度量，即熵的熵，由熵的模糊性和随机性共同决定，反映了代表定性概念值的样本出现的随机性和云滴的凝聚度，同时间接地反映了云的厚度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2云模型的比较与运算规则",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "云滴 $C _ { _ 1 } ( E _ { _ { x 1 } } , E _ { _ { n 1 } } , H _ { _ { e 1 } } )$ 与 $\\forall x _ { i }$ 之间的云运算与比较规则如表1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 云PDR方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设 $x _ { 1 } , x _ { 2 } , \\cdots , x _ { m }$ 是 $\\mathbf { \\Sigma } _ { m }$ 个对象， $a _ { _ 1 } , a _ { _ 2 } , \\cdots , a _ { n }$ 为对象的 $n$ 个属性， $f _ { _ { i j k } }$ 为第 $i$ 个对象第 $j$ 个属性的第 $k$ 个值（204号 $( \\ i = 1 , 2 , . . . , m ; \\ j = 1 , 2 , . . . , n ; k = 1 , 2 , . . . , L )$ 。云PDR方法的具体步骤如下。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)属性值的云转换。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据云模型的概念与特点，首先需要将原始数据转换为相应的云滴形式，即 $X _ { _ i } ( E _ { _ x _ { i } } , E _ { _ n _ { i } } , H _ { _ e _ { i } } )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/8d019d244192aa42495e986a3cfdef5bc00a9ea514c1cc8f0a859e6fb5473143.jpg",
+        "table_caption": [
+            "表1云运算与云比较规则"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Ex</td><td>E</td><td>He</td></tr><tr><td>+</td><td>Ex1+Ex2</td><td>√Em²+En²</td><td>He²+ He²</td></tr><tr><td></td><td>Ex-Ex2</td><td>E 2 𝑛2 +E²</td><td>He²+He²</td></tr><tr><td>×</td><td>Ex1×Ex2</td><td>|ExEx 2 E En1 E2 E</td><td>Ex1 Ex He He2 Ex2 Ex2</td></tr><tr><td>÷</td><td>Ex1÷Ex2</td><td>Ex1 En1 Ex2 E E Em2 Ex2</td><td>E + 2 2 H H2 Ex Ex2</td></tr><tr><td>Ex1>Ex2</td><td></td><td>C1(Exl,E,He)>C(Ex,En,He2）</td><td></td></tr><tr><td>En>En2</td><td></td><td></td><td></td></tr><tr><td>He >He2</td><td></td><td>C1(Ex1,E,H1）<C(Ex2,En2,He2)</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { x _ { i j } } = \\frac { \\displaystyle \\sum _ { k = 1 } ^ { L } f _ { i j k } } { L } \\qquad E _ { n _ { i j } } = \\frac { 1 } { L } \\sum _ { k = 1 } ^ { L } \\Bigl | f _ { i j k } - E _ { x _ { i } } \\Bigr |\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { e _ { i j } } = S ^ { 2 } = { \\frac { 1 } { L - 1 } } { \\sum _ { k = 1 } ^ { L } } { \\left( f _ { _ { i j k } } - E _ { _ { x _ { i } } } \\right) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中，期望 $E _ { x }$ 、熵 $E _ { n }$ 和超熵 $H _ { e }$ 的含义与前文1.2.1相同，这里不再赘述。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)云优势度的计算。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设属性 $\\boldsymbol { a } _ { n }$ 下对象 $x _ { i }$ 的云属性值为 $X _ { _ i } ( E _ { _ x _ { i } } , E _ { _ n _ { i } } , H _ { _ e _ { i } } )$ ，对象 $\\boldsymbol { x } _ { { } _ { j } }$ 的云属性值为 $X _ { _ { j } } ( E _ { _ { x _ { j } } } , E _ { _ { n _ { j } } } , H _ { _ { e _ { j } } } )$ ，根据定义2，两对象之间 $E _ { \\scriptscriptstyle x } \\setminus E _ { \\scriptscriptstyle n }$ 和 $H _ { e }$ 的优势度如表2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/203b28386e33ca2eb52cb9ec7ecad7ab27fff00695f3d5e2df73a8190693baeb.jpg",
+        "table_caption": [
+            "表2两对象 $E _ { x }$ 、 $E _ { n }$ 和 $H _ { e }$ 的优势度"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>pa(x,x)</td><td>p(x,x)</td><td>p(x,x）</td></tr><tr><td>E>E</td><td>1</td><td></td><td></td></tr><tr><td>E=EvE=*E</td><td>0.5</td><td></td><td></td></tr><tr><td>E<E</td><td>0</td><td></td><td></td></tr><tr><td>E>E</td><td></td><td>0</td><td></td></tr><tr><td>En =EVE=*E</td><td></td><td>0.5</td><td></td></tr><tr><td>E<E</td><td></td><td>1</td><td></td></tr><tr><td>H>He</td><td></td><td></td><td>0</td></tr><tr><td>H=HvH=*H</td><td></td><td></td><td>0.5</td></tr><tr><td>H <He</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $p _ { { \\bf \\Pi } _ { a } } ^ { \\bf \\dot { \\prime } } ( x _ { i } , x _ { j } )$ 、 $p _ { { \\mathrm { ~ } } _ { a } } ^ { \\cdot } ( x _ { i } , x _ { j } )$ 和 $p _ { \\ a } ^ { \\cdot } ( x _ { i } , x _ { j } )$ 分别表示对象 $\\boldsymbol { x } _ { j }$ 相比于 $x _ { i }$ 在属性 $\\mathbf { \\Psi } _ { a }$ 下期望 $E _ { _ x }$ 、熵 $E _ { _ n }$ 和超熵 $H e$ 的优势度。根据云滴比较规则， $E _ { x _ { i } } > E _ { x _ { i } }$ 时， $p _ { { \\mathrm { ~ } } _ { a } } ^ { ' } ( x _ { i } , x _ { j } ) { = } 1$ ，表示对于期望 $\\mathbf { \\nabla } _ { E _ { x } } , \\mathbf { \\nabla } _ { x _ { j } }$ 优于 $x _ { i }$ ， $p _ { { \\mathrm { ~ } } _ { a } } ^ { \\prime } ( x _ { { } _ { i } } , x _ { { } _ { j } } ) ^ { = 0 . 5 }$ ，表明 $\\boldsymbol { x } _ { { } _ { j } }$ 与 $x _ { i }$ 不相上下；相反， $E _ { n _ { j } } > E _ { n _ { i } }$ 、$H _ { e _ { i } } > H _ { e _ { i } }$ 时， $\\smash { p _ { \\ a } ^ { \\cdot } ( x _ { i } , x _ { j } ) \\cdot \\ p _ { \\ a } ^ { \\cdot } ( x _ { i } , x _ { j } ) }$ 均为0,表示对于熵和超熵，$\\boldsymbol { x } _ { { } _ { j } }$ 劣于 $x _ { i }$ ，即 $\\boldsymbol { x } _ { { } _ { j } }$ 波动更明显、不确定性更强烈。反之亦然。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上，在属性 $\\mathbf { \\Psi } _ { a }$ 下对象 $\\boldsymbol { x } _ { j }$ 相比于 $x _ { i }$ 的云优势度可记为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\np _ { _ a } ( x _ { _ i } , x _ { _ j } ) { = } \\big [ p _ { _ a } ^ { ^ { \\prime } } , p _ { _ a } ^ { ^ { \\prime } } , p _ { _ a } ^ { ^ { \\prime } } \\big ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "类似地，对象 $\\boldsymbol { x } _ { { } _ { j } }$ 在全体属性集 $A$ 下不劣于 $x _ { i }$ 的云优势度可记为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\np _ { _ A } \\big ( x _ { _ i } , x _ { _ j } \\big ) { = } \\big [ \\dot { p _ { _ A } } , \\dot { p _ { _ A } } , \\dot { p _ { _ A } } \\big ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\dot { p _ { \\mathcal A } } \\left( x _ { i } , x _ { j } \\right) = \\frac { \\left| \\dot { a _ { \\left| + 0 . 5 \\right| b _ { i } } } \\right| } { \\left| A \\right| } } \\\\ { \\dot { p _ { \\mathcal A } } \\left( x _ { i } , x _ { j } \\right) = \\frac { \\left| \\dot { a _ { \\left| + 0 . 5 \\right| b _ { i } } } \\right| } { \\left| A \\right| } } \\\\ { \\dot { p _ { \\mathcal A } } \\left( x _ { i } , x _ { j } \\right) = \\frac { \\left| \\dot { a _ { \\left| + 0 . 5 \\right| b _ { i } } } \\right| } { \\left| A \\right| } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "la、a和 $\\left| a ^ { \\cdot } \\right|$ 分别表示在 $E _ { \\scriptscriptstyle x } \\setminus E _ { \\scriptscriptstyle n }$ 和 $H _ { e }$ 下 $\\boldsymbol { x } _ { { } _ { j } }$ 占优的属性个数，即 $p _ { { \\bf \\Pi } _ { A } } ( x _ { i } , x _ { j } ) , \\ p _ { { \\bf \\Pi } _ { A } } ^ { \\bf \\hat { \\Pi } } ( x _ { i } , x _ { j } )$ 和 $p _ { \\textsc { * } _ { i } } ^ { * } ( x _ { i } , x _ { j } )$ 中取值为1的属性;$\\left| b \\right|$ 表示 $\\boldsymbol { x } _ { { } _ { j } }$ 与 $x _ { i }$ 不相上下的属性个数，即 $\\begin{array} { r l } { \\dot { p _ { \\scriptscriptstyle A } } ( x _ { { \\scriptscriptstyle i } } , x _ { { \\scriptscriptstyle j } } ) , } & { { } \\dot { p _ { \\scriptscriptstyle A } } ( x _ { { \\scriptscriptstyle i } } , x _ { { \\scriptscriptstyle j } } ) } \\end{array}$ 和 $p _ { \\textsc { * } _ { i } } ^ { \" } ( x _ { i } , x _ { j } )$ 中取值为0.5 的属性； $\\left| A \\right|$ 为全体属性集的数量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)计算 $\\alpha$ 概率云优势类、云优势矩阵和综合云优势度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a)计算 $\\alpha$ 概率云优势类。根据定义3，分别可得 $E _ { \\scriptscriptstyle x }$ 、 $E _ { n }$ 和",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$H _ { e }$ 三个特征下不完备系统 $s$ 在 $A$ 下的 $\\alpha$ 概率云优势关系( $E _ { x }$ ）以及相应的对象 $x _ { i }$ 的 $\\alpha$ 概率云优势类 $\\big (  \\left[ x _ { i } \\right] _ { A } ^ { \\flat \\alpha } , \\left[ x _ { i } \\right] _ { A } ^ { \\prime \\prime \\circ \\alpha } , \\left[ x _ { i } \\right] _ { A } ^ { \\prime \\prime \\prime \\circ \\alpha } \\big )$ 即$R _ { \\mathrm { \\Lambda } } ^ { \\smash { \\prime } \\mathrm { { ^ { s c } } } } = \\bigl \\{ \\bigl ( x _ { i } , x _ { j } \\bigr ) \\bigl | p _ { \\mathrm { \\Lambda } _ { A } } ^ { \\cdot } \\bigl ( x _ { i } , x _ { j } \\bigr ) \\geq \\alpha , 0 . 5 \\leq \\alpha \\leq 1 \\bigr \\} , \\bigl [ x _ { i } \\bigr ] _ { \\mathrm { \\Lambda } _ { A } } ^ { \\smash { \\prime } \\mathrm { { ^ { s c } } } } = \\bigl \\{ x _ { j } \\mathopen { } \\mathclose \\bgroup \\left| \\bigl ( x _ { i } , x _ { j } \\bigr ) \\in R _ { \\mathrm { \\Lambda } _ { A } } ^ { \\smash { \\prime } \\mathrm { { ^ { s c } } } } \\aftergroup \\egroup \\right. \\bigr \\}$ $R _ { \\ A } ^ { * _ { 2 \\alpha } } = \\left\\{ \\left( x _ { i } , x _ { j } \\right) \\Big | p _ { \\ A } ^ { \\cdot } \\left( x _ { i } , x _ { j } \\right) \\geq \\alpha , 0 . 5 \\leq \\alpha \\leq 1 \\right\\} , \\left[ x _ { i } \\right] _ { \\ A } ^ { * _ { 2 \\alpha } } = \\left\\{ x _ { j } \\Big | \\left( x _ { i } , x _ { j } \\right) \\in R _ { \\ A } ^ { * _ { 2 \\alpha } } \\right\\}$ $\\bar { R ^ { * _ { \\alpha } } } = \\left\\{ \\left( x _ { i } , x _ { j } \\right) \\middle | p ^ { * } _ { \\mathrm { \\alpha } _ { A } } \\left( x _ { i } , x _ { j } \\right) \\geq \\alpha , 0 . 5 \\leq \\alpha \\leq 1 \\right\\} , \\left[ x _ { i } \\right] _ { \\mathrm { \\alpha } _ { A } } ^ { * _ { \\alpha } } = \\left\\{ \\left. x _ { j } \\right| \\left( x _ { i } , x _ { j } \\right) \\in R _ { \\mathrm { \\alpha } _ { A } } ^ { * _ { \\alpha } } \\right\\}$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(b)计算云优势矩阵。根据定义4，不完备系统 $s$ 中 $E _ { x }$ 、 $E _ { n }$ 和 $H _ { e }$ 三个特征下各对象的云优势矩阵元素（ $: D _ { \\cal A } ^ { \\prime \\prime } ( x _ { i } , x _ { j } ) , D _ { \\cal A } ^ { \\prime \\prime \\geq \\alpha } \\left( x _ { i } , x _ { j } \\right) , D _ { \\cal A } ^ { \\prime \\prime \\geq \\alpha } \\left( x _ { i } , x _ { j } \\right) \\rangle$ 满足式(6)。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { _ A } ^ { \\infty } ( x , x _ { , j } ) = \\{ \\frac { [ \\stackrel { [ x _ { j } ] _ { _ A } ^ { [ \\alpha ] } } { [ \\overline { { x _ { j } } } ] _ { _ A } ^ { [ \\alpha ] } } - [ x _ { i } ] _ { _ A } ^ { [ \\alpha ] } ] _ { _ A } ^ { [ \\alpha ] } } { [ [ x _ { j } ] _ { _ A } ^ { [ \\alpha ] } - [ x _ { i } ] _ { _ A } ^ { [ \\alpha ] } ] + [ [ x _ { i } ] _ { _ A } ^ { [ 2 \\alpha ] } - [ x _ { j } ] _ { _ A } ^ { [ \\alpha ] } ] , [ x _ { i } ] _ { _ A } ^ { [ \\alpha ] } \\neq [ x _ { j } ] _ { _ A } ^ { [ \\alpha ] } } ] _ { _ B } ^ { [ \\alpha ] } \\} \\} _ { 0 . 5 , \\mathrm { { e l s e } } . }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} D _ { \\mathrm { \\Lambda } _ { A } } ^ { \\mathsf { ^ { * } } \\alpha } \\big ( x _ { i } , x _ { j } \\big ) = \\{ \\frac { \\Big | \\Big [ x _ { j } \\Big ] _ { \\mathrm { \\Lambda } _ { A } } ^ { \\mathsf { ^ { * } 2 } \\alpha } - \\big [ x _ { i } \\Big ] _ { \\mathrm { \\Lambda } _ { A } } ^ { \\mathsf { ^ { * } 2 } \\alpha } \\Big | } { \\Big [ \\Big [ x _ { j } \\Big ] _ { \\mathrm { \\Lambda } _ { A } } ^ { \\mathsf { ^ { * } 2 } \\alpha } - \\big [ x _ { i } \\Big ] _ { \\mathrm { \\Lambda } _ { A } } ^ { \\mathsf { ^ { * } 2 } \\alpha } \\Big | + \\Big [ \\big [ x _ { i } \\Big ] _ { \\mathrm { \\Lambda } _ { A } } ^ { \\mathsf { ^ { * } 2 \\alpha } } - \\big [ x _ { j } \\Big ] _ { \\mathrm { \\Lambda } _ { A } } ^ { \\mathsf { ^ { * } 2 \\alpha } } \\Big | , \\big [ x _ { i } \\Big ] _ { \\mathrm { \\Lambda } _ { A } } ^ { \\mathsf { ^ { * } 2 \\alpha } } \\neq \\Big [ x _ { j } \\Big ] _ { \\mathrm { \\Lambda } _ { A } } ^ { \\mathsf { ^ { * } 2 \\alpha } } } \\end{array}  \n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { \\mathrm { \\Lambda } _ { A } } ^ { - \\alpha } \\big ( x _ { i } , x _ { j } \\big ) = \\{ \\frac { | [ x _ { j } ] _ { \\mathrm { \\Lambda } _ { A } } ^ { - _ { 2 \\alpha } } - [ x _ { i } ] _ { \\mathrm { \\Lambda } _ { A } } ^ { - _ { 2 \\alpha } } | }  [ [ x _ { j } ] _ { \\mathrm { \\Lambda } _ { A } } ^ { - _ { 2 \\alpha } } - [ x _ { i } ] _ { \\mathrm { \\Lambda } _ { A } } ^ { - _ { 2 \\alpha } } ] + [ [ x _ { i } ] _ { \\mathrm { \\Lambda } _ { A } } ^ { - _ { 2 \\alpha } } - [ x _ { j } ] _ { \\mathrm { \\Lambda } _ { A } } ^ { - _ { 2 \\alpha } } ] , [ x _ { i } ] _ { \\mathrm { \\Lambda } _ { A } } ^ { - _ { 2 \\alpha } } \\neq [ x _ { j } ] _ { \\mathrm { \\Lambda } _ { A } } ^ { - _ { 2 \\alpha } }  \n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(c)计算综合云优势度。最后，根据式(6)在不完备系统 $s$ 中计算 $E _ { x }$ 、 $E _ { n }$ 和 $H _ { e }$ 三个特征下各对象的综合云优势度$( \\ d _ { \\ A } ^ { \\ast \\alpha } , d _ { \\ A } ^ { \\ast \\geq \\alpha } , d _ { \\ A } ^ { \\ast \\geq \\alpha } )$ ，如式(7)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { \\mathrm { ~ } _ { A } } ^ { \\infty } \\left( x _ { i } \\right) = \\frac { \\displaystyle \\sum _ { j = 1 } ^ { n } D _ { \\mathrm { ~ } _ { A } } ^ { \\infty } \\left( x _ { i } , x _ { j } \\right) } { n } d _ { \\mathrm { ~ } _ { A } } ^ { \\infty } \\left( x _ { i } \\right) = \\frac { \\displaystyle \\sum _ { j = 1 } ^ { n } D _ { \\mathrm { ~ } _ { A } } ^ { \\infty \\alpha } \\left( x _ { i } , x _ { j } \\right) } { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { \\mathbf { \\lambda } _ { A } } ^ { \\because \\infty } \\Big ( \\boldsymbol { x } _ { i } \\Big ) = \\frac { \\displaystyle \\sum _ { j = 1 } ^ { n } D _ { \\mathbf { \\lambda } _ { A } } ^ { \\prime \\prime } \\Big ( \\boldsymbol { x } _ { i } , \\boldsymbol { x } _ { j } \\Big ) } { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据综合云优势度可以获得各对象 $E _ { \\scriptscriptstyle x } \\setminus E _ { \\scriptscriptstyle n }$ 和 $H _ { \\epsilon }$ 的排序。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 算例分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 背景与数据",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以文献[1]中煤炭资源型城市发展水平排序问题为研究对象，依据其所提出的12个指标(工业增加值占GDP比重 $a _ { I }$ 、第三产业增加值占GDP 比重 $a _ { 2 }$ 、人口自然增长率 $a _ { 3 }$ 、非农业人□比重 $a _ { 4 }$ 、第三产业从业人员比重 $a _ { 5 }$ 、人均 $\\mathrm { G D P } a _ { \\delta }$ 、在岗职工平均工资 $a \\tau$ 、人均消费品零售额 $a _ { \\delta }$ 、每十万人拥有医生数量 $a g$ ，人均教育支出aio、人均园林绿地面积 $a _ { I I }$ 、建成区绿化覆盖率$a _ { I 2 } \\mathrm { , }$ ，分别应用主成分分析法[1]、基于约简的粗糙集方法[5]、基于优势关系的粗糙集方法[13]以及本文所提出的云PDR排序方法，对唐山 $x _ { I }$ 、大同 $x _ { 2 }$ 、阳泉 $x _ { 3 }$ 、晋城 $x _ { 4 }$ 、朔州 $x s$ 和石嘴山 $x _ { 6 }$ 六个煤炭资源型城市发展水平进行排序。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "考虑到数据的代表性，对于前三种方法以2009年数据进行计算，对于本文方法则选用2007-2009三年的数据进行分析(表3)。由于各方面原因，原始数据中个别指标的数据存在缺失，因此这里所研究的煤炭资源型城市发展水平排序属于不完备系统排序问题。其中",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX = \\left\\{ x _ { 1 } , x _ { 2 } , \\cdots , x _ { m } , m = 6 \\right\\} , A = \\left\\{ a _ { 1 } , a _ { 2 } , \\cdots , a _ { n } , n = 1 2 \\right\\} ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk = \\{ 1 , 2 , \\cdots , L , L = 3 \\} \\circ\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b7932e694f7982addcaff9b28ca3c8e61b452d0c8ba8c1e1cd31ecfcd05e4621.jpg",
+        "table_caption": [
+            "表3煤炭资源型城市的城市化水平原始数据表"
+        ],
+        "table_footnote": [
+            "数据来源：中国城市统计年鉴2008-2010"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">U</td><td colspan=\"12\">A</td></tr><tr><td>年份</td><td>a1</td><td>a2</td><td>a3</td><td>a4</td><td>a5</td><td>a6</td><td>a7</td><td>a8</td><td>a9</td><td>a10</td><td>a11</td><td>a12</td></tr><tr><td rowspan=\"3\">X1</td><td>2007</td><td>57.42</td><td>32.25</td><td>5.72</td><td>32.60</td><td>44.11</td><td>37765</td><td>23178.40</td><td>8953.55</td><td>190.64</td><td>495.40</td><td>25.86</td><td>43.33</td></tr><tr><td>2008</td><td>59.34</td><td>31.11</td><td>4.05</td><td>33.51</td><td>44.82</td><td>48054</td><td>29422.98</td><td>11101.58</td><td>184.20</td><td>638.40</td><td>26.80</td><td>44.31</td></tr><tr><td>2009</td><td>57.76</td><td>32.80</td><td>4.45</td><td>*</td><td>43.70</td><td>51179</td><td>33330.85</td><td>13061.21</td><td>190.27</td><td>700.32</td><td>28.46</td><td>45</td></tr><tr><td rowspan=\"4\">X2</td><td>2007</td><td>52.46</td><td>41.87</td><td>10.37</td><td>46.54</td><td>50.70</td><td>15581</td><td>22449.72</td><td>5977.43</td><td>528.31</td><td>505.98</td><td>18.99</td><td>31.60</td></tr><tr><td>2008</td><td>52.92</td><td>41.74</td><td>8.06</td><td>46.94</td><td>53.28</td><td>17974</td><td>25382.96</td><td>7456.09</td><td>237.53</td><td>697.75</td><td>19.03</td><td>32.08</td></tr><tr><td>2009</td><td>47.69</td><td>47.09</td><td>10.90</td><td>47.28</td><td>50.68</td><td>18710</td><td>28172.02</td><td>8388.36</td><td>275.63</td><td>913.12</td><td>25.41</td><td>36.4</td></tr><tr><td>2007</td><td>59.07</td><td>39.05</td><td>5.16</td><td>51.58</td><td>36.26</td><td>20839</td><td>25186.36</td><td>7646.24</td><td>278.93</td><td>556.35</td><td>14.24</td><td>34.67</td></tr><tr><td rowspan=\"4\">X3</td><td></td><td>59.21</td><td>39.16</td><td>5.95</td><td>59.66</td><td>35.91</td><td>23593</td><td>30458.07</td><td>9518.44</td><td>264.65</td><td>660.11</td><td>25.83</td><td>37.96</td></tr><tr><td>2008 2009</td><td>57.15</td><td>41.18</td><td>4.08</td><td>67.71</td><td>36.55</td><td>26383</td><td>34730.87</td><td>11472.02</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>63.57</td><td>31.62</td><td></td><td></td><td>45.41</td><td>18773</td><td></td><td></td><td>318.65</td><td>805.02</td><td>26.32</td><td>39.2</td></tr><tr><td>2007</td><td>63.51</td><td>32.23</td><td>4.02 1.49</td><td>23.45 24.08</td><td>45.11</td><td>23680</td><td>26401.46</td><td>5195.06</td><td>278.86</td><td>489.21</td><td>42.23</td><td>45.35</td></tr><tr><td rowspan=\"4\">X4 X5</td><td>2008</td><td></td><td>32.54</td><td></td><td>*</td><td>43.33</td><td>27108</td><td>30996.2 34197.11</td><td>6775.44</td><td>281.69</td><td>600.37</td><td>37.48</td><td>31.33</td></tr><tr><td>2009</td><td>63.32</td><td></td><td>3.83</td><td></td><td></td><td></td><td></td><td>8210.70</td><td>183.44</td><td>753.57</td><td>42.77</td><td>36.59</td></tr><tr><td>2007</td><td>60.67 61.84</td><td>30.56 31.55</td><td>11.71</td><td>25.09</td><td>50.48 50.67</td><td>21828 27458</td><td>23457.22</td><td>5335.88</td><td>361.28</td><td>590.01</td><td>17.76</td><td>42.17</td></tr><tr><td>2008 2009</td><td>52.34</td><td>42.4</td><td>10.44 11.53</td><td>25.64 25.74</td><td>55.68</td><td>36452</td><td>27043.65 27931.92</td><td>6730.02 8171.46</td><td>346.33 230.35</td><td>819.25 879.52</td><td>16.28</td><td>34.34</td></tr><tr><td rowspan=\"4\">X6</td><td></td><td>68.08</td><td>25.19</td><td>6.21</td><td>58.92</td><td>43.70</td><td>22264</td><td>22931.00</td><td>4831.66</td><td>234.57</td><td>713.31</td><td>23.83 93.22</td><td>42.34 34.64</td></tr><tr><td>2007</td><td>71.48</td><td>22.54</td><td>6.88</td><td>59.70</td><td>45.51</td><td>32102</td><td>27484.68</td><td>5917.11</td><td>232.85</td><td>821.84</td><td>98.32</td><td>39.41</td></tr><tr><td>2008 2009</td><td>65.60</td><td>29.01</td><td>5.21</td><td>60.82</td><td>44.35</td><td>37050</td><td>30320.38</td><td>7014.84</td><td>248.66</td><td>913.92</td><td>134.3</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>35.02</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2数据计算",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据本文1.3，运用云PDR方法计算六个煤炭资源型城市所构成的不完备系统中各个城市的发展水平排序，具体步骤如下。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)属性值的云转换。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据方法研究的需要，首先结合式(1)对原始数据的期望E、熵 $E _ { n }$ 和超熵 $H _ { e }$ 进行计算，结果如表4所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/dd35ea998c12d11a3b6782d1f2921f928a8fa6a3130df229fbdcab051bf189b5.jpg",
+        "table_caption": [
+            "表4煤炭资源型城市发展水平指标的 $E _ { x }$ 、 $E _ { n }$ 和 $H e$ 值"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">U</td><td colspan=\"10\">A</td></tr><tr><td>a1</td><td>a2</td><td>a3</td><td>a4</td><td></td><td></td><td>a7</td><td>a8</td><td>a9</td><td>a10</td><td>a11</td><td>a12</td></tr><tr><td rowspan=\"2\">X1</td><td>Ex</td><td>58.17 32.05</td><td>4.74</td><td></td><td>44.21</td><td>45666.00</td><td>28644.08</td><td>11038.78</td><td>188.37</td><td>611.37</td><td>27.04</td><td>44.21</td></tr><tr><td>En</td><td>0.78 0.63</td><td>0.65</td><td>*</td><td>0.41</td><td>5267.33</td><td>3643.78</td><td>1390.15</td><td>2.78</td><td>77.32</td><td>0.95</td><td>0.59</td></tr><tr><td rowspan=\"3\"></td><td>He</td><td>1.05 0.74</td><td>0.76</td><td>*</td><td>0.32</td><td>49260757.0</td><td>26223078</td><td>4221182.64</td><td>13.07</td><td>11046.10</td><td>1.73</td><td>0.70</td></tr><tr><td>Ex</td><td>51.02</td><td>43.57 9.78</td><td>46.92</td><td>51.55</td><td>17421.67</td><td>25334.90</td><td>7273.96</td><td>347.16</td><td>705.61</td><td>21.14</td><td>33.36</td></tr><tr><td>En</td><td>2.22 2.35</td><td>1.14</td><td>0.25</td><td>1.15</td><td>1227.11</td><td>1923.45</td><td>864.35</td><td>120.77</td><td>138.34</td><td>2.84</td><td>2.03</td></tr><tr><td rowspan=\"4\">X2</td><td>He</td><td>8.39 9.31</td><td>2.28</td><td>0.14</td><td>2.24</td><td>2676464.33</td><td>8187911</td><td>1478028.68</td><td>24975.0</td><td>41487.58</td><td>13.65</td><td>6.99</td></tr><tr><td>Ex</td><td>58.48 39.80</td><td>5.06</td><td>59.65</td><td>36.24</td><td>23605.00</td><td>30125.10</td><td>9545.57</td><td>287.41</td><td>673.83</td><td>22.13</td><td>37.28</td></tr><tr><td>En</td><td>0.88 0.92</td><td>0.66</td><td>5.38</td><td>0.22</td><td>1852.00</td><td>3292.49</td><td>1284.30</td><td>20.82</td><td>87.46</td><td>5.26</td><td>1.74</td></tr><tr><td>He</td><td>1.32 1.44</td><td>0.88</td><td>65.05</td><td>0.10</td><td>7684092.00</td><td>22857569</td><td>3659696.68</td><td>782.77</td><td>15600.60</td><td>46.75</td><td>5.48</td></tr><tr><td rowspan=\"4\">X4</td><td>Ex</td><td>63.47 32.13</td><td>3.11</td><td>*</td><td>44.62</td><td>23187.00</td><td>30531.59</td><td>6727.06</td><td>248.00</td><td>614.38</td><td>40.83</td><td>37.76</td></tr><tr><td></td><td>0.10 0.34</td><td></td><td>*</td><td></td><td>2942.67</td><td>2753.42</td><td></td><td>43.04</td><td>92.79</td><td></td><td></td></tr><tr><td>En</td><td>0.22</td><td>1.08 1.99</td><td>*</td><td>0.86</td><td>17550343.0</td><td>15354936</td><td>1021.34</td><td>3127.95</td><td></td><td>2.23</td><td>5.06</td></tr><tr><td>He</td><td>0.02 58.28 34.84</td><td>11.23</td><td>52.28</td><td>1.26 28579.33</td><td>26144.26</td><td>26144.26</td><td>2275267.87</td><td>312.65</td><td>17619.24 762.93</td><td>8.47 19.29</td><td>50.16 39.62</td></tr><tr><td rowspan=\"4\">X5</td><td>Ex</td><td>5.04</td><td>0.52</td><td>2.27</td><td>5248.44</td><td>1791.36</td><td>1791.36</td><td>6745.78 950.45</td><td>54.87</td><td>115.28</td><td>3.03</td><td>3.52</td></tr><tr><td>En</td><td>3.96 26.83 43.15</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>He</td><td>25.58</td><td>0.47 6.10</td><td>8.70 44.52</td><td>54408385.33</td><td>5612407.30 26912.02</td><td>5612407 26912.02</td><td>2010309.44</td><td>5136.43</td><td>23333.79</td><td>16.01</td><td>20.89</td></tr><tr><td>Ex</td><td>68.39 2.06 2.29</td><td>0.59</td><td>0.66</td><td>30472.00 5472.00</td><td>2654.01</td><td>2654.01</td><td>5921.20 729.09</td><td>238.69 6.64</td><td>816.35 68.70</td><td>108.61</td><td>36.36</td></tr><tr><td rowspan=\"2\">X6</td><td>En He</td><td>8.71 10.58</td><td>0.71</td><td>0.84</td><td>56649124.00</td><td>13896688.8</td><td>13896688</td><td>1191585.48</td><td>75.23</td><td>10083.35</td><td>17.12 501.36</td><td>2.04</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>7.03</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b)计算云优势度。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以唐山 $( x _ { 1 }$ )和大同( $x _ { _ 2 }$ )在指标 $a _ { _ 2 }$ 下的数据为例计算云优势度。根据表4,大同( $x _ { _ 2 }$ )在指标 $a _ { _ 2 }$ 下 $E _ { \\scriptscriptstyle x }$ 的取值(43.57)比唐山 ${ \\bf \\Xi } ( { \\bf \\Lambda } _ { x _ { 1 } } )$ 的 $E _ { _ x }$ 取值(32.05)大且 $E _ { \\scriptscriptstyle n }$ 和 $H _ { e }$ 的取值也大，因此根据前述计算规则 $p _ { _ { a _ { 2 } } } \\left( x _ { _ 1 } , x _ { _ 2 } \\right) = \\left[ 1 , 0 , 0 \\right]$ 。同理可获得其他对象的云优势度。在本算例中共涉及6个城市，12个评价指标，因此会产生30个比较对和360个云优势度比较结果。由于篇幅的限制，这里不再对各云优势度一一列出。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据云优势度，由式(4)可计算在全体属性集 $A$ 下相应的云优势度。仍以唐山 ${ \\bf \\Xi } ( { \\bf \\Lambda } _ { X _ { 1 } } )$ 和大同( $x _ { _ 2 }$ )为例，其在全体属性集 $A$ 的云优势度如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\dot { p _ { \\scriptscriptstyle A } } } \\left( x _ { \\scriptscriptstyle 1 } , x _ { \\scriptscriptstyle 2 } \\right) = \\frac { 5 + 1 \\times 0 . 5 } { 1 2 } = 0 . 4 5 8 3 ~ , ~ p _ { \\scriptscriptstyle A } ^ { \\cdot } \\left( x _ { \\scriptscriptstyle 1 } , x _ { \\scriptscriptstyle 2 } \\right) = \\frac { 3 + 1 \\times 0 . 5 } { 1 2 } = 0 . 2 9 1 7 ~ , } } \\\\ { { \\displaystyle { \\dot { p _ { \\scriptscriptstyle A } } } ^ { - } \\left( x _ { \\scriptscriptstyle 1 } , x _ { \\scriptscriptstyle 2 } \\right) = \\frac { 3 + 1 \\times 0 . 5 } { 1 2 } = 0 . 2 9 1 7 ~ \\circ } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "即对于期望 $E _ { x }$ 、熵 $E _ { n }$ 和超熵 $H _ { e }$ ，大同分别以 $4 5 . 8 3 \\% . 2 9 . 1 7 \\%$ 和 $2 9 . 1 7 \\%$ 的概率优于唐山。相反地，",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "${ p _ { _ A } } ^ { \\cdot } \\left( { x _ { _ 2 } } , { x _ { _ 1 } } \\right) = \\frac { 6 + 1 \\times 0 . 5 } { 1 2 } = 0 . 5 4 1 7 { } ~ , { } ~ { p _ { _ A } } ^ { \\cdot } \\left( { x _ { _ 2 } } , { x _ { _ 1 } } \\right) = \\frac { 8 + 1 \\times 0 . 5 } { 1 2 } = 0 . 7 0 8 3 { } ~ ,$ $p _ { _ A } ^ { \\cdot } \\left( x _ { _ 2 } , x _ { _ 1 } \\right) = \\frac { 8 + 1 \\times 0 . 5 } { 1 2 } = 0 . 7 0 8 3 \\circ$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "即对于期望 $E _ { \\scriptscriptstyle x }$ 、熵 $E _ { _ n }$ 和超熵 $H _ { e }$ ，唐山分别以 $5 4 . 1 7 \\% . 7 0 . 8 3 \\%$ 和 $70 . 8 3 \\%$ 的概率优于大同。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "同理，运用MATLAB 程序可计算其他所有p(x,x），P(x,xj)和p(𝑥,x)的值，见表5。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/aa622f32e831d40e50873c60aafb9185516fbb09f0484aacfa1cc35fbba5b516.jpg",
+        "table_caption": [
+            "表5各比较对在全体属性集 $\\left( x _ { 2 } , x _ { 6 } \\right)$ 下的云优势度"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>比较对</td><td>云优势度</td><td>比较对</td><td>云优势度</td></tr><tr><td>(x,x)</td><td>[0.46,0.29,0.29]</td><td>(x,x)</td><td>[0.54,0.71,0.71]</td></tr><tr><td>(x，x）</td><td>[0.54,0.38,0.38]</td><td>(x,x）</td><td>[0.58,0.58,0.58]</td></tr><tr><td>(x,x)</td><td>[0.63,0.46,0.46]</td><td>(x,x）</td><td>[0.46,0.63,0.63]</td></tr><tr><td>(x,x)</td><td>[0.54,0.38,0.29]</td><td>(x,x）</td><td>[0.58,0.33,0.42]</td></tr><tr><td>(x,x)</td><td>[0.54,0.38,0.38]</td><td>(x,x)</td><td>[0.58,0.58.0.42]</td></tr><tr><td>(x,x)</td><td>[0.46,0.63,0.63]</td><td>(xx)</td><td>[0.46,0.63,0.63]</td></tr><tr><td>(x,x)</td><td>[0.42,0.42,0.42]</td><td>(x,x）</td><td>[0.42,0.67,0.58]</td></tr><tr><td>(x,x)</td><td>[0.46,0.46,0.46]</td><td>(x,x）</td><td>[0.50,0.58,0.58]</td></tr><tr><td>(x,x）</td><td>[0.50,0.42,0.42]</td><td>(x,x4)</td><td>[0.29,0.63,0.63]</td></tr><tr><td>(x,x）</td><td>[0.58,0.50,0.50]</td><td>(x,x)</td><td>[0.50,0.58,0.58]</td></tr><tr><td>(x，x)</td><td>[0.38,0.54,0.54]</td><td>(x，x)</td><td>[0.46,0.54,0.63]</td></tr><tr><td>(x，x）</td><td>[0.54,0.38,0.38]</td><td>(x，x）</td><td>[0.42,0.42,0.58]</td></tr><tr><td>(x,x）</td><td>[0.54,0.46,0.54]</td><td>(x,x）</td><td>[0.42,0.50,0.50]</td></tr><tr><td>(xx)</td><td>[0.71,0.38.0.38]</td><td>(xx）</td><td>[0.46,0.46.0.46]</td></tr><tr><td>(x,x）</td><td></td><td>(x，x）</td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "c)计算概率云优势类。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "取 $\\alpha = 0 . 5$ (至少半数原则)，即在12 个评价指标中，城市 $\\boldsymbol { x } _ { { } _ { j } }$ 在其中至少某6个指标下均比城市 $x _ { i }$ 的取值更优，则基本可以相信 $x _ { _ { j } } \\succ x _ { _ { i } }$ 。依据式(5)可得各城市的云优势类，如表6所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以唐山 ${ \\bf \\Xi } ( { \\bf \\Lambda } _ { X _ { 1 } } )$ 例， $\\left\\{ x _ { _ 1 } , x _ { _ 3 } , x _ { _ 4 } , x _ { _ 5 } , x _ { _ 6 } \\right\\}$ 表示对于期望 $E _ { _ x }$ ，阳泉、晋城、朔州和石嘴山均以过半的概率优于唐山，说明唐山平均发",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "展水平较低；对于熵 $E _ { n }$ 和超熵 $H _ { \\it _ { c } }$ ， $\\left\\{ x _ { 1 } \\right\\}$ 表示没有其他城市可以以过半的概率稳定于唐山，即唐山处于比较稳定的发展水平。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/00bd2e502c07ee15f22bec2aab2a11b424bea37e7b9f3dca70cf1a67c6f239c9.jpg",
+        "table_caption": [
+            "表6各城市发展水平的概率云优势类"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Ex</td><td>En</td><td>He</td></tr><tr><td>[x]20.5</td><td>{x,x,x4,x,x}</td><td>{x}</td><td>{x}</td></tr><tr><td>[x]0.5</td><td>{x,x,x,x,x}</td><td>{x，x,x,x，x}{x，x,x,x4}</td><td></td></tr><tr><td>[x]05</td><td>{x，x,x}</td><td>{x,x，x} {x，x，x,x}</td><td>{x，x,x}</td></tr><tr><td colspan=\"2\">计算会优势矩阵和综合去视势度。 云优势矩阵婚卡 [[0.5,0.5,0.5][0.5,1,1] [0,1,1][0.33,1,1] [x]20.5</td><td>进一步由式(6)可得所有城市之间E、E和H两两比较的 U</td><td>U</td><td>[0,1,1] [0,1,1]</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "依据式(7)分别将上述优势矩阵按行取平均值，则可计算综合云优势度，如表7所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/4694c6e0b9861e7b204d09c10f36290f46d57eecc3eae438db525165fe5d7d07.jpg",
+        "table_caption": [
+            "表7各城市发展水平的综合云优势度"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>城市</td><td>云优势度</td></tr><tr><td>唐山</td><td>[0.22,0.92,0.92]</td></tr><tr><td>大同</td><td>[0.22,0.25,0.47]</td></tr><tr><td>阳泉</td><td>[0.61,0.58,0.70]</td></tr><tr><td>晋州</td><td>[0.45,0.58,0.42]</td></tr><tr><td>朔州</td><td>[0.61,0.08,0.08]</td></tr><tr><td>石嘴山</td><td>[0.88,0.58,0.42]</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3 结果分析与比较",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.1煤炭资源型城市发展水平排序 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据综合云优势度可以分别对唐山、大同、阳泉、普城、朔州和石嘴山六个煤炭资源型城市发展水平进行排序。其中，按照 $E _ { x }$ 排序，石嘴山、阳泉(朔州)、晋城、唐山(大同)；按照 $E _ { n }$ 排序，唐山、阳泉(晋城、石嘴山)、大同、朔州；按照 $H _ { e }$ 排序，唐山、阳泉、大同、晋城(石嘴山)、朔州。因此，根据云模型的排序规则(先根据 $E _ { x }$ 排序，若 $E _ { x }$ 相同，再根据 $E _ { n }$ 、 $H _ { e }$ 排序)，六个城市在云PDR方法下的发展水平排名为石嘴山、阳泉、朔州、晋城、唐山、大同。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.2方法结果比较",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在研究方法方面，表8比较了主成分分析法[1]、基于约简的粗糙集方法[5]、基于优势度的粗糙集方法[13]和本文基于云优势度的粗糙集方法对六个煤炭资源型城市的排序结果。由于篇幅所制，这里不对其他方法进行一一计算，详见文献[1,5,13]。需要指出的是，由于文献[1,5]对数据的完整性要求较高，本文",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对缺失数据进行了补充。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对比发现，六个城市的排名总体差距不大，少数城市发生了一定程度的改变。以大同为例，其在其他方法中排名较为领先而在本文所提出的云PDR方法中排名则相对落后。这是由于云PDR方法是综合分析城市发展水平、波动情况和不确定因素的结果，而本文选用的是2007一2009年的数据，在现实中，煤炭市场正受到2008 年全球经济衰退的猛烈冲击。大同作为一座典型的煤炭城市，自然处于较为艰难的困境，发展缓慢( $\\left( E _ { x } \\right)$ ，需求变化( $E _ { n }$ )和不确定风险( $\\cdot \\ { \\cal H } _ { \\it e }$ )显著，导致排名相对落后。这与本文方法所得结果相符，说明结合云模型的优势度排序方法能够同时挖掘评价中各方面的主客观性质，结果更加全面且符合实际。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/0c4622e7d9e3ac6c64358e7142e7fc2c81267856323959f54c55024aa26d590a.jpg",
+        "table_caption": [
+            "表8各煤炭资源型城市发展水平不同方法的排序"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">主成分</td><td rowspan=\"2\">信息熵</td><td rowspan=\"2\">优势度</td><td colspan=\"4\">云PDR</td></tr><tr><td>Ex</td><td>En</td><td>He</td><td>综合</td></tr><tr><td>唐山</td><td>6</td><td>5</td><td>4</td><td>5</td><td>1</td><td>1</td><td>5</td></tr><tr><td>大同</td><td>1</td><td>1</td><td>3</td><td>5</td><td>5</td><td>3</td><td>6</td></tr><tr><td>阳泉</td><td>2</td><td>2</td><td>1</td><td>2</td><td>2</td><td>2</td><td>2</td></tr><tr><td>晋城</td><td>5</td><td>6</td><td>6</td><td>4</td><td>2</td><td>4</td><td>4</td></tr><tr><td>朔州</td><td>4</td><td>3</td><td>5</td><td>2</td><td>6</td><td>6</td><td>3</td></tr><tr><td>石嘴山</td><td>3</td><td>4</td><td>2</td><td>1</td><td>2</td><td>4</td><td>1</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文在基于概率优势关系的粗糙集模型的基础上，结合云理论提出一种基于云PDR的不完备系统粗糙集排序方法。通过计算云优势度、概率云优势类和综合云优势度，依据云之间的比较规则对各方案进行排序，通过算例分析说明了方法的可行性和有效性；通过与其他相关文献结果的对比验证了方法的优势，其中云模型的数字特征(期望、熵、超熵)是使本研究方法优于其他方法、结果更加客观全面的关键。综上，云PDR方法可以应用到现实领域中需要考虑不确定因素的不完备系统多准则决策问题。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]李新春，彭红军，赵晶.煤炭资源型城市发展对策研究[J].软科学,2006 (3): 81-85.  \n[2]Pawlak Z.Rough sets [J].International Journal of Computer andInformation Science,1982,11(5):341-356.  \n[3]Pawlak Z, Skowron A.Rudiments of rough sets [J]. Information Sciences,2006,177(1):3-27.  \n[4]李晓莉．基于粗糙集的灰色 TOPSIS 法的第三方逆向物流供应商评价研究[J].科技管理研究,2013(14):67-71.  \n[5]尹宗成，丁日佳，赵振保.基于粗糙集理论的煤炭资源型城市发展水平综合评价 [J].煤炭学报,2007,32(10):1112-1116  \n[6]Greco S,Matarazzo B,Sowiski R. Rough sets theory for multicriteriadecision analysis [J].European Journalof Operational Research,2oo1,129(1): 1-47.  \n[7]Zhang HY, Yang SY.Feature selection and approximate reasoning of largescale set-valued decision tables based on $\\mathfrak { a }$ -dominance-based quantitativerough sets [J]. Information Sciences,2016.  \n[8]Lyu YJ,Weng S Z,Chen QM.Application of ranking model to energyevaluation based on dominance relation [J]. International Journal ofNonlinear Science,2012,14(3): 278-286.  \n[9]翁世洲，吕跃进，莫京兰．基于优势关系的排序模型及其保序性约简理论[J].广西师范大学学报：自然科学版,2013,31(3):37-44.  \n[10]韦碧鹏，吕跃进，李金海．α优势关系下粗糙集模型的属性约简[J]智能系统学报,2014,9(2):251-258.  \n[11]翁世洲，吕跃进．基于概率优势关系的排序方法及应用[J].山西大学学报：自然科学版,2015,(03):439-446.  \n[12]翁世洲，吕跃进．区间粗糙数的排序方法及其应用[J].南京大学学报:自然科学版,2015,(4):818-825.  \n[13]李柏敏，翁世洲，吕跃进．基于粗糙集的广西区域物流竞争力综合评价[J]．济南大学学报：自然科学版,2016,(05):341-346.  \n[14]王雪青，潘辉，刘炳胜．基于云模型的中国区域建筑产业竞争力评价研究[J]．山西财经大学学报,2012,(7):55-66.  \n[15]阎长顺，李一军．基于云模型的动态客户细分分类模型研究[J].哈尔滨工业大学学报,2007,(2):299-302.  \n[16]张明媛，高盼，袁永博.云模型理论在区域旱涝评价中的应用[J].模糊系统与数学,2016,30(1):174-181.  \n[17]周永林，王磊．基于云模型理论的多层次模糊综合评价法[J].计算机仿真,2016,33 (12):390-395.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

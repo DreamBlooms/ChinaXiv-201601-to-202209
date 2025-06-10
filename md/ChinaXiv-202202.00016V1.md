@@ -1,0 +1,217 @@
+# 关系依赖如何影响全球化城市网络的生长发育以苹果手机供应商为例
+
+刘清，蒋小荣2.3(1.中山大学地理科学与规划学院,广东广州510275；2.湖北文理学院资源环境与旅游学院，湖北襄阳441053；3.武汉大学经济与管理学院，湖北 武汉 430072)
+
+摘要：当下城市网络研究中存在相对重结构特征测度、轻影响机理分析的问题，而在城市网络影响机理的研究中，又存在重理论定性的宏观描述或基于独立变量的常规性统计分析，轻从图论、结构视角的城市网络微观发育机理研究。因此，从结构关系依赖视角出发，基于苹果手机2019年供应商数据构建研发型、生产型、代工服务型全球化城市网络，运用指数随机图模型的微观构型测度城市网络的生长发育机理。结果表明：(1)互惠性与中介效应在3类城市网络普遍存在,深刻影响城市网络的通性发育机理。(2）偏好依附过程与接收者、发送者效应是解释城市网络等级中心性发育的结构机理，二者都体现了城市网络发育中以入度为核心的路径依赖现象。(3)三角形结构（传递三角形与循环三方组)和同质性是促进城市网络集群发育、富人俱乐部现象的微观基础，同质性对城市网络的发育机理主要体现在核心城市间的联结关系上。（4)企业路径依赖与距离是影响城市网络发育的核心外生因素。其中,对距离的分类讨论发现,地理邻近性对3类城市网络存在便在性影响。认知邻近性在研发型城市网络对长距离联系的影响与敏感度更大;在生产型城市网络中对中等距离有正向影响，代工服务型城市网络对短距离阈值敏感。该研究对丰富与拓展现有城市网络影响机理的研究视角有重要意义。
+
+关键词：全球化城市网络；苹果手机；关系依赖；指数随机图模型
+
+# 文章编号：
+
+自1970s以来，跨国公司的全球扩张重组加速了经济全球化发展，这逐渐确立了以全球价值链分工为核心的新国际劳动分工格局，跨国空间关系已成为研究当代全球化地理的关键分析透镜[1]。在此背景下，基于企业视角的城市网络是当下城市体系研究的主流，在众多学者对城市网络的结构特征、动态演化、发展规律做出贡献的同时，随着城市网络研究视角由结构主义向后结构主义转变，对城市网络影响机制的研究也日益受到重视，成为当下完善城市网络理论建设的重要领域之一。
+
+近年来新经济地理学的关系转向、演化转向推动了城市网络研究从结构特征向影响机制的转变[3]。现有城市网络影响机制的研究主要在以下3个方面：(1)理论定性分析。已有学者主要从新经济地理学的关系、演化视角出发，汲取其产业区、产业集聚与集群、区位选择与模式、技术学习与创新(地理邻近/关系邻近/制度邻近)理论[3-4],或从结构动力学视角阐释网络的形成演化机制5。（2）回归模型分析。众多学者主要从行政职能等级、市场与成本、竞争优势、地理距离、要素禀赋等方面建立指标体系，运用多元线性回归、Logit回归、负二项回归、泊松回归等模型开展研究[6-8],这是当下城市网络影响因素分析的主要范式。（3）二次指派程序(QAP)相关与回归分析。鉴于上述模型是对独立变量的检验，部分学者在研究贸易网络、城市网络、人口流动网络时，引入QAP对关系变量进行非参数检验[9-11]。（4）指数随机图模型分析（Exponential ran-domgraphmodel,ERGM）。近年来，部分学者开始运用ERGM的微观网络构型来探索城市网络[2-14]、创新网络[15]、贸易网络[16-17]的形成演化。总体上现状研究存在以下相对不足：首先，现有关于城市网络影响因素的文献聚焦于理论定性分析或外生性指标定量统计，常规性描述统计分析主要强调外生因素对城市网络的影响，对于结构视角的微观构局如何影响城市网络生长发育的研究仍相对缺乏[12]。相比传统分析模型的独立依赖假设，较前沿的ERGM更适合观测网络中关系变量的条件依赖性，并能综合解释内生结构变量、外生协变量与内外因素交互(行动者一网络效应)对网络的影响，应加强ERGM对网络微观发育的研究。其次，在现有基于ERGM的城市网络研究中，较缺乏路径依赖、距离或不同类型距离对城市网络影响的解析和分类讨论。已有研究表明,跨国公司的区位策略受到现有企业网络的显著影响，公司投资行为也依赖于其过去已建立的惯例和投资基础，企业投资的路径依赖现象可能影响城市网络发育[18-19];再者，由于交易成本的存在,跨国公司更倾向于在地理区位接近的城市建立分厂，社会距离邻近也会诱发城市间的合作行为[2%，因此在ERGM分析中引入对路径依赖与不同距离的假设检验是有必要的。
+
+ERGM以网络依赖理论为计量基础，认为关系彼此依赖是网络生长发育的动力，这种关系依赖主要通过三角形结构、互惠结构、星型结构实现与发展[21]。已有研究表明,关系依赖对城市网络的生长发育具有构建作用，这主要体现在2个方面：（1）关系依赖可以影响城市节点间的连接关系。这首先体现在三角形结构中，当2个城市若均与第3个城市有连接关系时，这2个城市之间也具有较强的联系趋势[12]。随着跨境生产面临在全球范围的专业化作业、更短的产品交付以及更高效的技术联盟内协作与转让，城市间形成生产关联可以实现更有效的资源分配与优势互补，从而获得协同效应[5，这促进了城市网络以小群体结构建立联系。另外，互惠结构也是建立城市连接的基本构局，它反映网络城市节点间的双向流动程度[，进而衡量2个城市间的依赖性与协作性。外生协变量与内生结构变量均可以对网络互惠性带来影响，但是现有文献主要关注外部因素与网络的互惠性关系，较少研究基于网络自组织背景下，纯结构效应对网络互惠性的影响[16]。(2）内生性结构特征也会影响城市节点的权力格局。这主要体现在星型结构中，星型结构描述了节点中心度效应[16]。研究发现,在网络中节点的流行性(入度)与积极性(出度)都显著存在于星型结构的少数中心节点，换言之，网络关系更易于在拥有更高网络中心势或少数几个“明星"节点中建立[12.14]。因此,ERGM是研究城市网络影响因素的重要视角，适用于本文的网络生长发育机理研究。
+
+综上，本文基于苹果手机供应商构建全球化城市网络，从关系依赖视角运用ERGM方法，将外生协变量与内生结构性变量共同引入城市网络发育机理的假设验证，并具体讨论了路径依赖与距离对城市网络的影响，这对拓展现有城市网络影响机理的研究视角有重要意义，指标深化讨论也是对从结构视角研究城市网络的重要补充与完善。基于上述，本文回答的科学问题是：关系依赖通过哪些微观网络构型影响城市网络的生长发育？路径依赖与距离的影响体现在哪些方面？对此，本文的研究安排如下：首先分析全球化城市网络的结构特征与局部模体特征，再运用ERGM方法从内生纯结构效应、行动者一网络效应和网络关系协变量测度全球化城市网络的发育机理，并分析了不同类型的距离对城市网络发育的影响。
+
+# 1全球化城市网络结构特征与模体特征
+
+# 1.1全球化城市网络构建与结构特征
+
+本文构建城市网络的基础数据为2019年苹果手机供应商数据。数据根据苹果公司发布的2019年供应商名录整理。首先整理出各供应商总部与分支机构的经纬度数据，然后在各企业官网并结合2019年苹果公司供应商行业研究报告，查询整理出企业经营业务和为苹果手机供应的具体零部件。本文研究尺度选择地级城市行政单元：将所有总部与分支所在地归并至地级及以上城市；对于市隶属县这种行政体系的国家，若分支机构所在地在县级城市，则归并为县首府或政府驻地所在城市，最终整理出197家供应商企业，下属861家分支机构。
+
+关于城市网络的构建,本文将苹果手机零部件分为核心、专用、通用与代工服务4大类，对应研发、生产、代工服务3大价值环节(专用与通用零部件属
+
+# 干旱区地理
+
+于生产价值环节），对应的供应商企业为研发型、生产型与代工服务型，并根据每一大类相应企业的总部一支机构在各城市空间的生产布局，通过城市节点中心度与连通值进行功能性连接，分别构建研发型、生产型、代工服务型的全球化城市网络(图1)。由于本文核心在分析城市网络的影响机制，限于篇幅要求，关于城市网络的具体构建过程，零部件分类表与计量方法，请参照参考文献[4」。
+
+由图2发现，3类城市网络的总体特征为：（1)均为多中心城市网络；(2）网络等级化结构明显，众
+
+通用生产型城市 研发型城市  
+强般零部件 三线供应商 线供应商 核心零部件件  
+价值获取能力 代工服务型城市 通用生产型城市组装 代工 二线供应商 重要零部件零部件组装 OEM 在特定产业 被动元件整机组装 ODM 环节的创新 声学元件  
+弱 按订单装配！ OBM PCB/FPC基础研究电子组件弱 价值生产能力 强
+
+注：PCB为印制电路板，FPC为柔性电路板，OEM为原始设备制造商，ODM为原始设计制造商，OBM为原始品牌制造商。
+
+多节点只有少数功能性连接，少数节点却拥有大量功能性连接;(3）存在少数城市高权力、高声望并存的扁平网络结构，这些“明星"城市既是对外投资的发散地，也是吸引投资的承接地，并且权力总体高于声望。具体网络特征如下：研发型城市网络联系最紧密，多由科技中心城市组成，发达国家的研发型城市在区位上靠近世界城市或为企业总部和研发机构集聚地，发展中国家多为面向生产支撑型的新兴研发城市；生产型城市网络关联性最高且趋于均匀结构，涉及城市规模最大，主要由发展中国家区域中心城市和少数发达国家工业城市构成；代工服务型城市网络的等级结构与极化现象最显著，以中国台湾的部分城市为核心，权力与信息集中在这些城市节点，涉及城市数量最少且主要位于发展中国家。
+
+# 1.2全球化城市网络的局部模体特征
+
+模体是真实网络中高频次出现的相互连接子图，它是复杂网络中表征群体关系与局部生成机制的基础，也是ERGM中网络内生结构分析的前提[22]。本文运用Mavisto软件对网络中不同类型的模体关系频次进行统计，以期为后文的ERGM分析提供参考。模体分类及代码根据Davis等[23]确定，其中模体003代表一个关系常数项，互惠性模体包括021D、021U、111D、120D、120U，传递性模体包括021C、111U、030T、120C，集聚性模体包括030C、210和300。从3类真实网络的主要模体构成来看：（1)研发型城市网络中出现频次最多的模体为021D、021U、210和300，分别表征了网络的互惠性与集聚性，说明研发型网络中联系集团化与集群内互惠行为特征显著；（2）生产型城市网络中出现频次最多的模体为021C、030T、021D、021U和111D,表征传递性(流通性)与互惠性含义，说明生产型网络中连接结构通达性与互惠边较多；（3）代工服务型城市
+
+(a)研发型 (b)生产型 (c)代工服务型巴吞他尼 加川 卡巴图尔新里佛合肥 大津市博洛尼亚 斯缓装雷诺斯伊利诺伊 奥斯江 丹 门 华城 卡兰巴 武 龟尾 州 州 俄斯特拉发 塔尔萨 天津 镇工阿伦敦佛利蒙市 尼威尔新北 哈饮森嘉兴 撞格 南京 道 马尼拉玻 无锡瓦莱塔 鸣门 森城 雄 班级罗尔万隆波利斯 O 福麦地那 盐 都  
+哈罗兹堡川 台南 色 大连 诺克斯维尔利德 鹿特件 梅诺莫尼科 封 里尔 中川 首 南京 卡利佩尔 路曼维斯  
+黄 昆山阿帕丁 子 A T 甘物妈 海 中都柏林里全满 仓新电 东京 中山新加坡 河内中 济 约恩防 子 奥斯江不 福 A 珠海柳坊市石川萨尔庆星南京 好晋城
+
+Fig.2Topological structures of globalizing city networks based on iPhone's suppliers网络中出现频次最多的模体为021D、030T、030C和300，说明互惠性、传递性与集聚性在该网络中均相对显著，对于集聚性来说，其中030C这种具有循环三方组特性和210这种具有区域内相互合作的模体结构最为明显。总体发现，互惠性模体是全球化城市网络中出现最多的模体形式，此外研发型和代工服务型城市网络中集聚性模体显著，以模体030C和210为代表，生产型城市网络中传递性模体显著，以030T为主。再从真实网络与随机网络的频次分布比较来看(图3)：（1）首先从平均交互数发现，3类真实网络的平均交互数均明显高于随机网络的平均交互数，说明交互性是全球化城市网络普遍存在的一个重要特征；(2）通过对不同类型模体比较发现，真实网络总体在021D、021U、030C、030T、210模体类型上优于随机网络，而随机网络总体在模体003、021C、111D、111U、120U、120C中超过了真实网络。与相同规模和密度的随机网络相比,真实网络具有更为典型的交互性、传递性和循环三方组关系。因此，在ERGM模型中应考虑互惠性、传递性和集聚性等内源性微观网络构型。
+
+# 2指数随机图模型构建及变量设定
+
+# 2.1指数随机图模型构建
+
+指数随机图模型利用微观网络构型来探索城市网络的形成，相比观测独立变量的常规统计分析，它更适合观测关系变量的条件依赖性。因此ERGM是一种处理关系数据的网络统计模型，它可以在宏观层面解释网络，在微观层面上解释假设过程[23]。为了实现ERGM模型的概念化,本文假设整体网络体系为 $G ( n ) { = } \{ V , M \}$ ,其中网络中 $n$ 个城市节点表示为 $V = \{ 1 , 2 , \cdots , n \} , M = \{ ( i , j ) ; i , j { \in } V , i { \ne } j \}$ 表示城市节点间连接关系。此外设定 $G = ( V , E )$ 为一个真实网络， $E$ 为 $G$ 的子集，表示真实网络中城市节点的连接。接着用 $Y$ 表征 $M$ 中的元素,具体为 $( i , j ) { \in } E , y _ { i , j } { = } 1$ 表征跨国公司总部所在城市 $i$ 在城市 $j$ 建立分支机构，否则 $y _ { i , j } { = } 0$ 。最后，假设 $\scriptstyle y = \left[ { \boldsymbol { y } } _ { i , j } \right]$ 是随机城市网络的邻接矩阵，用 $\operatorname* { P r } ( Y = y | \theta )$ 表示 $\theta$ 条件下， $y$ 出现在 $Y$ 的概率。此外，ERGM包括节点属性协变量、网络关系协变量和网络内生结构变量3类，突出网络中各
+
+![](images/067c4a76ebca2fd275ec5d432d5b2c99d643a81b36c1d890b783f3496c21f772.jpg)  
+图3真实网络与同等规模和密度的随机网络的模体频次分布
+
+Fig.3Frequencydistributionsoftriadtypeforreal globalizingcitynetworksandrandomnetworks withthesamesizeanddensity
+
+# 干吴区地理
+
+个层次的相互依存关系。因此，基于上述模型假设，引入3类变量的ERGM基本形式为：$\mathrm { P r } \big ( Y = y | \theta \big ) = \left( \frac { 1 } { k } \right) \exp \bigl \{ \theta _ { 1 } ^ { \mathrm { { T } } } z _ { 1 } ( y , x ) + \theta _ { 2 } ^ { \mathrm { { T } } } z _ { 2 } ( y , \theta ) + \theta _ { 3 } ^ { \mathrm { { T } } } z _ { 3 } ( y ) \bigr \}$ (1)式中： $z _ { 1 } ( y , x )$ 和 $z _ { 2 } ( y , g )$ 分别为网络中的节点属性协变量和网络关系协变量; $z _ { 3 } ( y )$ 为网络结构变量； $\boldsymbol { \theta } _ { 1 } ^ { \mathrm { T } }$ 、$\boldsymbol { \theta } _ { 2 } ^ { \mathrm { T } } \setminus \boldsymbol { \theta } _ { 3 } ^ { \mathrm { T } }$ 分别为这些变量的估计系数，表示变量对网络形成的影响； $k$ 为一个保证模型为正态分布的常数。
+
+# 2.2被解释变量的界定
+
+本文的被解释变量通过对2.1部分所构建的$1 9 6 \times 1 9 6$ 研发型、 $\phantom { + } 2 1 6 { \times } 2 1 6$ 生产型与 $6 7 \times 6 7$ 代工服务型城市网络矩阵抽样得到。首先，在这3类全球化城市网络中，许多城市的连接关系是较稀疏与单一的，且出现部分城市的入度与出度值为0的现象。这在模型估计时会出现大量的乘数因子，尤其影响带有交替参数的模型收敛性。为了使本文的模型估计更稳健，本文通过门槛值设定在城市网络抽样来克服以上不足。抽样原采用Liu等[4提出的上截尾部分城市，选择出度为正值及首府城市作为样本，最后研发型、生产型与代工服务型城市网络分别抽样出88、85、53个城市样本矩阵。其次，由于ERGM仅用于分析二值网络矩阵，因此，在模型运算前先对3类抽样城市多值矩阵进行二值化处理，1代表城市间存在链接关系，0代表不存在链接关系，分别形成 $8 8 \times 8 8 . 8 5 \times 8 5$ 和 $5 3 \times 5 3$ 的二值矩阵样本。
+
+# 2.3解释变量的界定与研究假设
+
+ERGM模型在论证关系形成过程时有3种主要类型，即网络自组织过程、基于节点属性的过程和外生协变量过程，其中，网络自组织为关键变量，其余二者为外生控制变量。根据1.1部分对3类城市网络的结构特征分析，本文主要选择以下关键变量与控制变量(表1)。
+
+2.3.1内生结构效应网络自组织过程的微观构型为内生结构效应，本文选择了以下结构参数作为关键变量：（1）弧统计描述了节点形成联结的倾向。由于网络的组成元素是关系，因此弧作为最基本的关系变量计算边的数量，是城市网络的密度参数。(2）互惠性指城市网络节点建立双向连接的程度，以"城市对"形式统计。具有互惠性的城市因结构等价性而推动整体网络的平衡性，也因促进城市间空间相互作用而增强网络的互动性。（3）偏好依附过程测度节点的度分布（由 $k \mathrm { . }$ -star统计量描述），在有向网络中分为流行性（入度)与积极性(出度）。由于在网络中一些节点可能比其他节点更容易形成连接，偏好依附表征这些关键节点与多个合作伙伴接触的趋势，描述了这些具有高声望(权力)的城市如何进一步诱发声望(权力)集聚这一过程[],进而引发城市网络发育的路径依赖现象。（4）中介效应解释"中间人"假设，它计算通过中间节点连接两节点的路径数，实质是从连通性视角评估网络的可达性。连通性测度发送关系的城市节点同时接收关系的程度，控制节点出度与入度间的相关性，该网络属性以2-路径微观构局来模拟。为了考虑任意一对节点之间的多个中介，本文使用了交替k-2路径统计量。这个统计量是 $k { - } 2$ 路径的计数加权和，k是2个节点之间的中介数。（5）集群效应是影响网络小团体发育的重要结构力量。三角形统计量是基本的集群构型，传递性与闭合机制是其形成的驱动力，通常将传递三角形与循环三方组联合解释节点等级差异较大的有向网络。传递三角形基于这样一个假设，即两节点倾向于在与1个共同节点关联时发生相互关联，三方传递性促进三角形结构建立，ERGM中以交替k-三角形构局模拟该网络属性[19]。循环三方组所有关系方向均一致,从节点i到节点j的流通通过第3个节点返回，形成一个三元闭合结构，是一种间接的互惠形式。
+
+2.3.2行动者一网络效应该效应主要是从城市属性视角探索网络发育,也称为节点协变量[13]。本节选择以下节点协变量：（1）发送者与接收者效应。发送者和接收者分别表征具有特定属性的城市比网络中其他城市更易发送或接收更多关系的程度。已有研究表明，现有产业基础是跨国公司区位选择战略的重要因素[23],跨国公司倾向于在已有大量企业落户的城市布局分支机构，利用这些城市完备的产业链或产业集群获取集聚经济优势。因此，具有较多分支机构的城市倾向于发送或接收更多关系。(2）同质性指具有相同属性特征的节点更有可能相互联系[21]。在已有社会网络研究中发现，网络中节点选择存在同配性，即同类节点间（尤其是具有高权力、声望和连通值的节点)更易于建立连接关系，从而出现"富人俱乐部"或“马太效应”[23]。基于此，本文城市的同质性通过核心城市(node_core）与普通城市(node_ordinary)2个变量检验，前者是指核心城市与其他核心城市建立联系的数量，后者指的是普通城市与其他普通城市建立联系的数量。（3）城市相关属性 $( \beta )$ 。已有研究认为，节点的禀赋丰度和潜力影响着关系的形成，同样，城市自身的资源禀赋、经济发展水平和技术能力也会影响城市网络的形成。现有研究发现，城市的GDP、基础设施、创新环境、知名度、市场的规模和集中程度被认为是影响跨国公司选择设立分支机构的重要因素[7.3.15]。因此,本文引入6个城市特征变量：以城市（ $\mathrm { \mathop { J D P } } ( \beta _ { 1 } \mathrm { \_ G D P } )$ 表征经济发展水平；以城市公路数量( $\left| \beta _ { 2 _ { - } } \right.$ _highway)表征城市基础设施;以城市专利授权数量( $( \beta _ { 3 _ { - } }$ _patent)代表城市创新环境；以城市国际知名度( $\mid \beta _ { 4 _ { - } }$ .popularity)表征城市的知名度情况；以城市人口 $( \beta _ { 5 } \underline { { \mathrm { P 0 P } } } )$ 与赫芬达尔指数 $( \beta _ { - }$ Herfindahl)分别表征城市的市场规模与市场集中程度。
+
+关于上述变量的测度，发送者与接收者城市属性用跨国公司在城市布局的分支机构数量表征；同质性以度数作为城市分类依据，将城市网络中的城市分为核心与普通城市。由于3类城市网络规模与密度各异，因此采用不同的划分门槛值，具体为：研发型城市网络中，度数 $> 1 5$ 为核心城市，其余为普通城市；生产型城市网络中，度数 $> 1 2$ 为核心城市，其余为普通城市；代工服务型城市网络中，度数 ${ \mathrm { > } } 1 0$ 为核心城市，其余为普通城市。城市GDP数据来自中国城市统计年鉴、国际统计年鉴、各城市经济局或国家商业部经济分析网站并按2019年平均汇率处理；中国城市的高速公路数量在中国高速公路网站（www.China-highway.com)获取，国外城市的高速公路数量由百度地图(map.Baidu.com)爬取;专利授权数量来自各城市统计公报、知识产权署或经济局数据；城市的国际知名度是通过谷歌中城市名称搜索字条数量来衡量;城市人口通过城市百度百科整理；赫芬达尔指数用一个城市承接苹果手机零部件数量前3类产品数与该城市承接总产品(分支工厂)数的比值表示。
+
+2.3.3网络关系协变量网络关系协变量反映了关系的嵌入性，主要依赖二元属性关系和统计数据之间的交互作用实现。本节主要选取以下参数：(1)地理邻近(edgecovi)。现有文献表明，地理邻近性深刻影响着跨国公司的生产布局，城市间组织生产关系受合作伙伴空间距离的强烈影响[12.15]。本文通过
+
+ArcGIS计算网络中各城市的欧几里得距离，以城市间最短距离矩阵表征。（2）认知邻近(edgecov2）。本研究将苹果手机价值链分为研发、生产、代工服务3个主要分工环节，在该分工下同属一个二级分类的城市归于一类，由此依次得出3类城市网络中同类城市的社会距离矩阵。（3）开放程度(edgecov）。开放程度反映了城市生产的辐射能力，研究表明具有较强辐射能力，与众多城市都建立生产联系的城市也会影响网络的结构走向[12]。本文以一个城市在另一个城市间建立分支工厂的数量，表征开放程度。（4）路径依赖(edgecov4）。企业区位战略存在路径依赖，该指标采用苹果手机2012年供应商数据构建2012年城市网络，测度2019年城市网络的路径依赖现象。
+
+首先本文的ERGM模型是测度网络生长发育的影响因素，构建前提是基于网络依赖理论，具体的微观构型是三角形结构、互惠结构与星型结构。基于此，本文的模型构建思路是先从内生结构效应、行动者一网络效应、网络关系协变量3方面构建结构指标体系，再根据这些微观构型和ERGM的构建形式(文章2.1部分)建立基于关系变量的回归检验模型，具体模型方程为：
+
+$$
+{ \begin{array} { r l } & { P ( Y = \gamma | E = e _ { 1 } , e _ { 2 } , e _ { 3 } , \cdots , X = x _ { 1 } , x _ { 2 } , x _ { 3 } , \cdots , } \\ & { G = \displaystyle g _ { 1 } , g _ { 2 } , g _ { 3 } , \cdots ) = { \frac { 1 } { k } } \mathrm { e x p } } \\ & { \left[ { \mathrm { e n d o g e e f f e c t s } } ( e ) + { \mathrm { n o d e c o v } } ( x ) + { \mathrm { e d g e c o v } } ( g ) \right] = } \\ & { { \cfrac { 1 } { k } } \mathrm { e x p } \left( \sum _ { n = 1 } ^ { n } \delta _ { n } z _ { n } ( y , e , x , g ) \right) } \end{array} }
+$$
+
+式中： $Y$ 为网络估计值，指城市网络中带有权重的的链接； $y$ 为 $Y$ 的真实观测值; $E$ 和endogeefects(e)代表内生结构变量； $X$ 和nodecov $( x )$ 代表外生城市节点协变量; $G$ 和edgecov $( g )$ 代表外生网络关系协变量； $k$ 为保证概率在0\~1范围内的调节常数项 $z _ { n } ( y , e , x , g )$ 为3类网络统计指标； $\delta _ { \mathfrak { n } }$ 为 $z _ { n } ( y , e , x , g )$ 所对应的统计参数。
+
+# 3 建模结果
+
+# 3.1ERGM的估计结果
+
+本文使用R语言的statnet软件包估计ERGM参数，采用马尔可夫链蒙特卡罗极大似然值对模型进行估计。接着通过Akaike信息准则(AIC)和贝叶斯信息准则(BIC)来检验模型复杂度与拟合优度（表
+
+# 干辛区地理
+
+表1ERGM回归变量设定及假设检验  
+Tab.1 Regressionvariable settingandhypothesis testofERGM   
+
+<html><body><table><tr><td>网络效应</td><td>参数</td><td>Statnet命名</td><td>微观构型</td><td>假设检验</td></tr><tr><td colspan="3">内生结构效应</td><td>olvo</td><td>一个图中的关联数,表征关系的存在(常数项)</td></tr><tr><td rowspan="7"></td><td>互惠性</td><td>edges mutual</td><td>o←νo</td><td>城市之间是否倾向于建立双向链接关系?</td></tr><tr><td>流行性</td><td>gwidegree</td><td>O/ N 0 /0 O WO</td><td>城市网络是否具有聚敛性趋势,核心城市节点形成以输入关 系为主的星型结构?</td></tr><tr><td>积极性</td><td>gwodegree</td><td>O O O C O</td><td>城市网络是否具有扩张性趋势，核心城市节点形成以输出关 系为主的星型结构?</td></tr><tr><td rowspan="2">连通性</td><td>multiple 2-paths</td><td></td><td>城市之间是否倾向于建立中介关系，整体网络从而具备较高 连通性？</td></tr><tr><td>transitiy</td><td></td><td>城市网络是否具有传递性集聚的三角关系，拥有多个合作伙</td></tr><tr><td>循环三方组</td><td>cyclic triad</td><td>）</td><td>伴的城市间具有分工合作的倾向? 城市网络是否具有闭合性集聚的三角关系,子网络是否具有</td></tr><tr><td></td><td></td><td>ZO 5></td><td>三元闭合特征？</td></tr><tr><td rowspan="4">行动者一网络效应</td><td>发送者(分支机构) 接收者(分支机构)</td><td>sender_br</td><td></td><td>分支工厂布局较多的城市是否更倾向于发送更多关系？</td></tr><tr><td>同质性</td><td>receiver_br</td><td></td><td>分支工厂布局较多的城市是否更倾向于接收更多关系？</td></tr><tr><td rowspan="2"></td><td>homophily</td><td></td><td>核心城市是否更趋向于与其他核心城市建立链接关系？</td></tr><tr><td></td><td></td><td>普通城市是否更趋向于与其他普通城市建立链接关系?</td></tr><tr><td rowspan="4">网络关系协变量</td><td>城市相关属性(β) 地理邻近</td><td>nodecov</td><td>→O oivo</td><td>属性β强的城市能否吸引更多跨国公司设立分支机构？</td></tr><tr><td></td><td>edgecov1</td><td>organize</td><td>地理邻近的城市间是否更倾向于建立链接关系？</td></tr><tr><td>认知邻近 开放程度</td><td>edgecov2</td><td>Ovo open</td><td>认知邻近的城市间是否更倾向于建立链接关系？</td></tr><tr><td></td><td>edgecov3</td><td></td><td>开放程度高的城市是否更容易构建生产分工关系？</td></tr><tr><td></td><td>路径依赖</td><td>edgecov4</td><td>past ovo</td><td>城市网络是否倾向于在已有城市网络的基础上构建？</td></tr></table></body></html>
+
+注：O表示城市节点；在发送者与接收者效应中， $\textcircled { \bullet }$ 和 $\circledcirc$ 分别表示拥有较多或较少跨国公司分支机构数量的城市；在同质性中， $\oplus$ 和 $\circledast$ 分别表示核心城市与普通城市;在6个城市相关属性中，表示属性β强的城市；——→和---→指不同类型的网络联系，箭头朝向为关系发送方指向。
+
+2)。当AIC与BIC过大说明模型拟合不佳或过于复杂造成过拟合现象，因此AIC、BIC小的模型拟合效果更好。 $t -$ 比率是收敛统计量，其值小于0.1，认为参数估计结果是适当收敛的；当t-比率值大于2.0,则认为该参数估计值是极端的，在该模型估计中不合理(根据标准正态变量的近似临界值，选择极端值阈值为2.0)。最后关于模型拟合优度(GOF)检验，GOF在估计收敛的前提下进行，在此基础上，运用 statnet中的"gof()"功能进行GOF检查，在拟合常规"ergm()"框架中计算得出模型拟合程度的主要测度指标GOF $t -$ 比率,其拟合统计量(绝对值)小于0.1代表模型拟合度较好。本文3类城市网络均通过GOF检验，模型具有较高代表性。
+
+表2是ERGM回归估计结果，从3类城市网络的AIC和BIC系数可以看出，研发型城市网络数值最小，说明其拟合优度在3类中最高。总体而言，这3类城市网络的AIC与BIC都保持在一个较低数值区间，ERGM的估计结果在可接受的精度下可以描述城市网络的重要影响因素，具体分析结果如下：
+
+(1）3类城市网络的弧统计量在 $0 . 1 \%$ 的水平上均显著为负。弧数作为常数项，描述节点形成连接的倾向和网络密度的参数。说明全球化城市网络的整体密度相对较低，且关系的形成是受特定因素的影响，不是随机产生连接关系。
+
+(2)3类城市网络的互惠性均为正且在 $0 . 1 \%$ 的水平上通过显著性检验。这说明在基于苹果手机价值链建立的全球化城市网络中，互惠性存在普遍的正向积极影响，对城市网络的生长发育起基础性构建作用。城市各类生产要素是双向流动的，城市更倾向在与它建立了大额生产联系的城市中发送生产要素，建立合作关系。
+
+表2ERGM回归估计结果  
+Tab.2 EstimationresultsofERGMregression   
+
+<html><body><table><tr><td rowspan="2">变量</td><td colspan="2">研发型城市网络</td><td colspan="2">生产型城市网络</td><td colspan="2">代工服务型城市网络</td></tr><tr><td>估计值(标准误)</td><td>t-比率</td><td>估计值(标准误)</td><td>t-比率</td><td>估计值(标准误)</td><td>t-比率</td></tr><tr><td>edges</td><td>-5.65(0.23）)***</td><td>-0.01</td><td>- 3.74(0.11)***</td><td>-0.02</td><td>- 1.78(0.17)***</td><td>-0.01</td></tr><tr><td>mutual</td><td>3.32(0.14)***</td><td>-0.03</td><td>2.34(0.59)***</td><td>0.04</td><td>2.02(0.32)***</td><td>0.03</td></tr><tr><td>gwidegree</td><td>3.16(0.72)***</td><td>-0.02</td><td>1.63(0.38)**</td><td>-0.04</td><td>1.04(0.11)</td><td>0.12</td></tr><tr><td>gwodegree</td><td>-0.73(0.12)</td><td>0.07</td><td>0.59(0.24)</td><td>-0.07</td><td>0.99(0.36)</td><td>-0.09</td></tr><tr><td>multiple 2-paths</td><td>0.59(0.33）)***</td><td>-0.08</td><td>1.23(0.63)***</td><td>-0.04</td><td>0.71(0.57)*</td><td>-0.02</td></tr><tr><td>transitiy</td><td>2.49(0.37)***</td><td>-0.02</td><td>1.33(0.14)*</td><td>0.07</td><td>0.98(0.21)</td><td>0.08</td></tr><tr><td>cyclic triad</td><td>0.81(0.19)**</td><td>-0.07</td><td>0.66(0.28)**</td><td>-0.09</td><td>-0.27(0.03)</td><td>-0.09</td></tr><tr><td>sender_br</td><td>0.75(0.13)</td><td>-0.09</td><td>0.46(0.28)</td><td>-0.08</td><td>0.55(0.11)</td><td>-0.03</td></tr><tr><td>receiver_br</td><td>1.88(0.74)***</td><td>0.05</td><td>2.69(0.43)***</td><td>-0.02</td><td>2.05(0.92)***</td><td>0.01</td></tr><tr><td>node_core</td><td>3.99(0.83)***</td><td>-0.01</td><td>1.29(0.66)***</td><td>-0.05</td><td>2.56(0.79)***</td><td>0.02</td></tr><tr><td>node_ordinary</td><td>1.77(0.13)</td><td>0.06</td><td>0.94(0.11)**</td><td>0.07</td><td>0.88(0.51)</td><td>-0.14</td></tr><tr><td>β__GDP</td><td>-0.99(0.08)</td><td>-0.08</td><td>2.03(0.19)**</td><td>0.01</td><td>-1.28(0.37)</td><td>0.03</td></tr><tr><td>β2_highway</td><td>0.74(0.22)</td><td>-0.09</td><td>1.27(0.53)***</td><td>-0.02</td><td>0.68(0.79)***</td><td>-0.07</td></tr><tr><td>β_patent</td><td>3.56(1.23)***</td><td>-0.01</td><td>-1.99(0.55)</td><td>0.06</td><td>-0.82(0.15)</td><td>0.08</td></tr><tr><td>β4_popularity</td><td>4.44(0.98)**</td><td>-0.02</td><td>2.08(0.34)</td><td>0.02</td><td>1.38(0.22)</td><td>0.05</td></tr><tr><td>β5_pop</td><td>-0.32(1.57)</td><td>0.09</td><td>-0.65(0.09)</td><td>-0.04</td><td>-0.54(1.25)</td><td>0.19</td></tr><tr><td>β6_Herfindahl</td><td>-1.99(0.82)***</td><td>-0.05</td><td>-0.76(0.11)</td><td>-0.06</td><td>-0.47(0.09)*</td><td>0.04</td></tr><tr><td>edgecov1</td><td>1.04(0.53)**</td><td>0.06</td><td>2.97(1.22)***</td><td>0.01</td><td>0.39(0.02)*</td><td>-0.05</td></tr><tr><td>edgecov2</td><td>3.33(0.94)***</td><td>-0.01</td><td>-1.25(0.18)</td><td>0.05</td><td>1.62(0.88)**</td><td>-0.06</td></tr><tr><td>edgecov3</td><td>2.14(0.88)***</td><td>-0.02</td><td>1.09(0.26)**</td><td>-0.01</td><td>1.31(0.69)</td><td>0.05</td></tr><tr><td>edgecov4</td><td>5.23(1.64)**</td><td>0.01</td><td>3.33(0.73)***</td><td>-0.02</td><td>4.31(0.99)***</td><td>-0.01</td></tr><tr><td>AIC</td><td colspan="2">20.79</td><td colspan="2">26.03</td><td colspan="2">28.35</td></tr><tr><td>BIC</td><td colspan="2">32.86</td><td colspan="2">41.22</td><td colspan="2">42.64</td></tr><tr><td>GOF t-比率</td><td colspan="2">-0.02</td><td colspan="2">-0.05</td><td colspan="2">-0.03</td></tr></table></body></html>
+
+注：\*\*\*、\*\*、\*分别代表参数显著性水平 $0 . 1 \% , 1 \% , 1 \% , 5 \% ;$ t-比率 $\scriptstyle \cdot = ($ （观测值-预测值)/标准差。
+
+（3）偏好依附过程。流行性与积极性分别以2-入-星和2-出-星表征城市网络发育中的聚敛性和扩张性趋势。首先，3类城市网络的2-入-星估计值均为正，说明流行性正向促进全球化城市网络的发育，城市网络中明显存在受投资者欢迎的城市，跨国公司在选择分支工厂时也倾向优先考虑这些历史上的投资热度城市。但从显著性检验来看，研发型、生产型城市网络分别在 $0 . 1 \% 1 \%$ 检验水平上显著为正，代工服务型城市网络未通过显著性检验。再从图 $4 \mathrm { a } \mathrm { \sim } \mathrm { c }$ 分支工厂与入度中心性的回归分析也发现，研发型与生产型城市网络回归系数均较大，皮尔逊相关系数分别为极强相关与强相关，散点更倾向于在回归直线附近集聚分布；相比，代工服务型城市网络皮尔逊系数为中等相关程度，散点分布相对偏离回归直线。这与ERGM的估计结果总体一致，说明研发型企业最倾向在一些历史上受投资者欢迎的城市布局分支工厂，以利用这些城市已经积淀的研发资源与创新环境，对城市的选择门槛最高；生产型城市这种投资者偏好也较明显，以利用制造业城市已经积累的生产制造基础与工程技术；代工服务型城市虽也有这种投资偏好倾向，但由于主要侧重低成本劳动力优势，这种城市类型选择门槛较低，在全球的城市可替代性与移植性很强，因此分支工厂与入度的相关程度不甚显著。
+
+再看3类城市网络的积极性。首先研发型城市网络的ERGM估计值为负但并未通过显著性检验，生产型与代工服务型城市网络的估计值为正也未通过显著性检验。再从分支工厂与出度的回归检验发现(图4d\~f)，3类城市网络的相关系数均较低，
+
+(a)分支工厂与入度(研发型) (b)分支工厂与入度(生产型) (c)分支工厂与人度(代工服务型)2420 04 5040 07 86 P1630  
+度12 度 度 4人 20 人824 100 0 H 00 4 812 16 20 24 28 0 10 20 30 40 50 0 2 4 6 8 10分支工厂数 分支工厂数 分支工厂数(d)分支工厂与出度(研发型) (e)分支工厂与出度(生产型) (f)分支工厂与出度(代工服务型)70 100 40  
+0 8800008 0 度 3020 AP3100  
+出30 出20 10100 20100 · 0 i..1...0 4 8 1216 20 24 28 0 10 20 30 40 50 024681012141618分支工厂数 分支工厂数 分支工厂数
+
+注：Person's $\boldsymbol { r }$ 为皮尔逊相关系数，用以衡量线性回归中要素间相关程度，其值在0.8\~1.0之间为极强相关,在0.6\~0.8为强相关，在0.4\~0.6为中等相关,在0.2\~0.4为弱相关,在0.0\~0.2为极弱相关或无相关;Adj.R-Square为校正决定系数,用以反映拟合结果的质量，其值越接近1，说明拟合结果越好，负数说明结果存在较大偏差。
+
+且皮尔逊相关系数均小于0.2,说明分支工厂与出度相关性极弱或无相关性，且相比分支工厂与人度的散点回归图，其散点分布相对偏离回归直线且更离散。这总体说明，积极性是城市网络发育中并不显著的一个影响因素，即发送较多关系的城市并非就倾向于发送更多关系。并且，在研发型城市网络中，积极性还存在负向抑制作用，因此研发型城市更倾向在集聚基础上结网;在生产型与代工服务型城市网络存在不显著的正向促进作用，说明生产型与代工服务型城市在分散化力量下也能形成结网关系。因此，这3类城市网络体现出以流行性为核心塑造力的偏好依附过程。
+
+（4）中介效应。主要是通过2-路径微观构局来测度连通性对网络的影响。3类城市网络的2-路径估计值在 $0 . 1 \%$ 的显著水平上，均为正向相关，说明城市网络发育中普遍存在中介效应。具体而言，网络中普遍存在既是发送关系又是接收关系的节点，这些节点高权力与高声望并存，往往成为网络的核心节点，引导网络的等级结构发育，增强网络的联系通达度。
+
+（5）集群效应。首先，3类城市网络传递三角形的估计值均为正，研发型与生产型城市网络分别通过 $0 . 1 \%$ 和 $5 \%$ 水平的显著性检验，代工服务型城市网络未通过显著性检验。再看循环三方组所形成的闭合机制，研发型与生产型城市网络均在 $1 \%$ 的显著性水平上为正值，代工服务型城市网络为负值且未通过显著性检验。这总体说明,研发型与生产型城市网络存在较多的三角形闭合合作关系，加之这两类网络较大的网络密度与规模也保证了三方关系的构建。具体而言，城市也倾向于与它们合作者的合作者建立联系，由此形成次网络级别的小区域团体结构，生产要素的流动、交换与转让也会趋向在一个区域集群中得以开展，由此增强了城市间集群合作关系，是网络社群结构和凝聚子群发育的主要机理。
+
+(6）发送者与接收者效应。首先3类城市网络的发送者(分支机构)效应估计值为正向不显著(均未通过 $5 \%$ 的显著性检验)。相比，接收者(分支机构)效应估计值均为显著的正向积极影响(均在$0 . 1 \%$ 检验水平上显著)。说明基于分支工厂的发送者效应并不明显，并非分支工厂越多的城市向其他城市发送关系的概率就越大，二者没有显著规律性；相比，接收者分支工厂效应对城市网络发育有正向促进作用，这也是企业区位选择时的路径依赖现象，即现实中企业更倾向于将分支工厂布局在已经有较多分支工厂的城市，可以说，接收了更多关系的城市往往更倾向于吸引企业投资，建立更多的生产关系。
+
+（7）同质性。在本文中同质性指城市更倾向于与自己特征相似的城市联结，在3类城市网络中，基于核心城市的同质性估计值显著为正且通过 $0 . 1 \%$ 的显著性检验，而基于普通城市的同质性估计值虽然也均为正值，但只有生产型城市网络在 $1 \%$ 的检验水平上显著，研发型与代工服务型城市网络并未通过显著性检验。这种较大的差距表明，核心城市的同质性对城市网络发育有显著正向效应。换言之，一个核心城市与核心城市建立联系的趋势要比与普通城市建立联系的趋势大得多，这3类城市网络的发育与扩展更依赖核心城市之间的结网联系。这可以解释城市网络中的"富人俱乐部"和节点负向匹配现象，一般在网络中拥有较高中心性与连通值的城市节点间(核心城市)更倾向结网，而其余处于边缘地位、联系稀疏的普通城市之间结网概率并不高，相反，它们往往更倾向与这些高中心性城市建立联系，或最大化获取要素或实现资源交换。可以说，城市节点是围绕着核心城市间结网联系扩展网络的，同质性对城市网络的发育机理主要体现在核心城市间的联结关系上。
+
+（8）城市相关属性。在研发型城市网络中，变量 $\beta _ { 3 . }$ _patent ${ } _ { \cdot } \beta _ { 4 _ { - } }$ _popularity和 $\beta _ { 6 _ { - } }$ Herfindahl的参数估计值显著为正，最低通过了 $1 \%$ 的显著性检验，其余属性并未通过显著性检验，表明创新环境、国际知名度和市场集中程度是研发型城市网络发育的主要影响因素;变量 $\beta _ { \mathrm { 1 } \_ \mathrm { G D P } , \beta _ { 2 } }$ highwy估计值在生产型城市网路中为正值且通过 $0 . 1 \%$ 水平的显著性检验，表明经济发展水平、城市基础设施对生产型城市网络发育有显著的正向积极作用;在代工服务型城市网络的显著性检验，表明城市基础设施、市场规模与集中程度在代工服务型城市网络发育中发挥重要作用。
+
+(9）网络关系协变量。本文引入4个协变量第1个和第2个协变量是关于距离对城市网络的影响。首先地理邻近性的参数估计值显著为正，研发型、生产型与代工服务型城市分别通过 $1 \% . 0 . 1 \%$ 和
+
+$5 \%$ 的显著性检验。相比，认知邻近性对3类城市网络结网有差异化的正向影响，研发型和代工服务型城市网络分别通过 $0 . 1 \%$ 和 $1 \%$ 水平的显著性检验，生产型城市网络未通过显著性检验。结果表明，地理邻近性对3类城市网络均有正向显著影响，认知邻近性却根据不同城市网络类型其显著性作用不同。具体而言，地理邻近性与认知邻近性对研发型城市网络的发育均有显著影响，但认知邻近性的显著性最强;在生产型城市网络中地理邻近性的影响远大于认知邻近性；代工服务型城市表现出较微弱的地理邻近性与认知邻近性影响。第3个协变量开放程度的估计值均为正值，但对研发型与生产型城市网络具有显著影响，对代工服务型城市网络的发育并不明显。第4个协变量路径依赖为显著正向影响,3类城市网络均通过 $0 . 1 \%$ 的显著性检验。在外生协变量中，路径依赖对城市网络发育的影响是最普遍和最显著的，说明城市网络的形成有很强的依赖过去城市网络基础的倾向。通过对2012年与2019年城市网络贡献中心性的回归分析也再次证实了这一发现，首先3类城市网络的皮尔逊相关系数在 $0 . 5 { \sim } 0 . 8$ 之间，散点分布也主要集中在回归直线附近，所以过去的城市网络是现今城市网络发育的基础，二者之间有强相关关系(图5)。事实上也是如此，跨国公司会倾向在已经建立自己企业网络的城市持续投资，现有城市网络的发育也依赖以往这些产业基础。
+
+# 3.2对距离的讨论
+
+本节对距离与全球化城市网络的关系进行专门讨论。首先，总体上对城市间距离进行区段频数统计发现,城市间结网模式普遍存在明显的距离衰减规律，但生产型与代工服务型城市网络的距离递减性强于研发型城市网络。研发型、生产型与代工服务型城市网络在 $1 0 0 0 ~ \mathrm { k m }$ 以内分别建立了289、409与210条关系，分别占总数的 $5 1 \%$ 、 $5 4 \%$ 和$6 3 \%$ 。生产型与代工服务型城市网络随着距离增加逐渐减少，尤其到 $2 4 0 0 { \sim } 2 6 0 0 \ \mathrm { k m }$ 关系数减少到3或2条。相比，研发型城市网络的关系数量并非随距离的增加而一味减少，而是在 $1 0 0 0 0 { \sim } 1 2 0 0 0 \ \mathrm { k m }$ 、$2 2 0 0 0 { \sim } 2 4 0 0 0 \mathrm { k m }$ 之间出现了增长式跳跃(图6)。为了进一步研究这种现象背后规律，本文将距离分为空间距离与社会距离两类进行分类讨论(分别对应上文的地理邻近性与认知邻近性），通过箱线图考
+
+(a)研发型 (b)生产型 (c)代工服务型22 120 Adj.R-Square=0.58593 P=3.948+1.8707 22 100 140 Adj.R-Square=0.38816 P=-7.355+1.05418 22 80 60 Adj.R-Square=0.80244 -2.393+2.95948808060 406040 40 2020 200 8 8 0 1 0 a0 2040 60 80 100120140 0 20 40 60 80100120140160 180 010 2030405060702019年贡献中心性 2019年贡献中心性 2019年贡献中心性
+
+![](images/f349396fb94aa905f9535c7c6ea4eb1af3c69f9dc1b1132b25f99fcdfc3cb4dc.jpg)  
+图53类城市网络贡献中心性的路径依赖关系  
+Fig.5Path dependence relationship of contribution centrality in the three types of city networks   
+图6不同距离的全球化城市网络关系数分布  
+Fig.6Distribution of ties number in the globalizing city networks based different distance thresholds
+
+察不同距离阈值下地理邻近性和组织邻近性对全球化城市网络的影响，地理邻近性和认知邻近性对全球化城市网络发育的影响存在显著差异
+
+首先是地理邻近性对3类城市网络的影响，通过测度不同地理距离阈值的影响系数发现，地理距离阈值与影响系数是负相关关系，3类城市网络中箱线图拟合线都是在波动起伏中逐渐下降。当地理距离阈值达到 $2 0 0 0 ~ \mathrm { k m }$ 时影响系数均最大，但当距离阈值继续扩展至 $4 0 0 0 ~ \mathrm { k m }$ 时，影响系数成幂律式显著下降。之后，随着距离阈值继续扩大，3类城市网络影响系数虽有小规模波动，但总体发展趋势都是一致递减的(图7)。在认知邻近性对城市网络的影响中，研发型城市网络的认知邻近性与影响系数是正向关系，认知邻近性影响系数随社会距离增加而增加，说明在研发型城市网络中组织邻近性对长距离合作联系影响更大，敏感度更高。生产型城市网络的箱线拟合线表现出“先降后增再降低”的走向，具体而言，在社会距离阈值 $1 0 0 0 0 { \mathrm { k m } }$ 以内，认知邻近性对生产型城市网络的影响是递减的；但社会距离阈值扩展到 $1 2 0 0 0 { \sim } 1 8 0 0 0 \mathrm { k m }$ 区段时，认知邻近性影响系数随社会距离增加有一个小幅度提升;当社会距离阈值继续扩张到 $2 0 0 0 0 { \sim } 2 6 0 0 0 \mathrm { k m }$ 时，认知邻近性影响系数又出现大幅度下降。这总体说明认知邻近性主要在中等距离区段对生产型城市网络的产生正向影响，而在短距离与长距离内敏感度较低，并产生负向抑制作用。在代工服务型城市网络中，箱线拟合线在波动中持续下降，即认知邻近性随社会距离增加而降低。这说明代工服务型城市的认知邻近性只在短距离阈值内敏感，对中长社会距离阈值的作用不甚明显(图8)。
+
+![](images/d94ec4318f7eb86b73870c4424c6f4c6d382c929afc8c396652cc7f69f250f21.jpg)  
+图7地理邻近性对3类全球化城市网络的影响  
+Fig.7 Influences of geographic proximity on the three types of globalizing city networks
+
+# 4结论
+
+本文基于苹果手机2019年供应商数据构建3类全球化城市网络，着重从结构关系依赖视角运用ERGM测度城市网络的生长发育机理，在一定程度上丰富和拓展了现有城市网络的研究视角与内容。主要结论如下：（1）首先在局部模体中，互惠性模体是3类网络中出现最多的模体，且相比随机网络，这3类真实网络具有更典型的交互性、传递性和循环三方组关系。具体而言，研发型和代工服务型城市网络中集聚性模体显著，生产型城市网络中传递性模体显著。其次，在基于ERGM的结构发育机理里。（2）互惠性与中介效应在3类城市网络普遍存在，深刻影响城市网络的连通性发育机理。（3）偏好依附过程与接收者、发送者效应是解释城市网络等级中心性发育的核心结构机理，二者都体现了全球化城市网络发育中以入度为核心的路径依赖现。(4）三角形关系(传递三角形与循环三方组)和同质性是促进城市网络集群发育、富人俱乐部现象的微观基础，研发型与生产型城市网络存在较多的三角形闭合合作关系，小团体结构与社群网络发育显著，同质性对城市网络的发育机理主要体现在核心城市间的联结关系上。（5）企业路径依赖与距离是影响城市网络发育的核心外生因素。其中，对距离的分类讨论发现，地理邻近性对3种类型城市间结网模式的影响普遍存在，认知邻近性在研发型城市网络中随社会距离增加而增加，对长距离合作联系的敏感度更高；在生产型城市网络对中等距离有正向影响，代工服务型城市对短距离阈值敏感
+
+![](images/053880f0e790d5e70e3ecdeb8dd1dce4ddb7249e82c342a7a61476ddee2bb51b.jpg)  
+图8组织邻近性对3类全球化城市网络的影响  
+Fig.8Influences of cognitive proximity on the three types of globalizing city networks
+
+本文研究发现偏好依附与行动者效应影响城市网络等级中心性发育，并且表现出以入度和接收者为核心的结构依赖现象，互惠性的影响在城市网络普遍存在，这与现有研究结果一致。但不同部分研究所认为的互惠性与闭合机制影响城市网络集群发育，本文发现互惠性与中介机制还影响城市网络的连通性发育。此外，本文新增了同质性对城市网络集群发育的探讨，并发现同质性对城市网络的发育机理主要体现在核心城市间的联结关系上。另外，本文还存在以下研究不足：（1）在关于企业网络路径依赖的探讨中，文章只运用了2012年与2019年2个时间截面的对比数据，缺乏一个连续的历时性数据，无法刻画一个完整连贯的演变路径。今后应该补充多个时间截面数据，进一步对企业网络的路径依赖现象深化研究；(2）需要探索基于企业间价值链联系的城市网络发育机理研究。本文城市网络的企业构建主体是基于企业内价值联系，但全球价值链也存在于企业间联系，基于不同企业组织形式形成的城市网络可能呈现不同的生长发育机理，未来也需从企业间价值链维度完善此议题。
+
+# 参考文献(References)
+
+[1] Dicken P.Global shift:Reshaping the global economic map in the $2 1 ^ { \mathrm { s t } }$ century[M].Beijing: The Commercial Press,2009. [2] 宁越敏.企业空间组织与城市-区域发展[M].北京:科学出版 社,2011.[Ning Yuemin. Spatial organization of enterprise and de
+
+velopment of city-regional[M]. Beijing: Science Press,2011.]   
+[3]陈肖飞,苗长虹,潘少奇,等.轮轴式产业集群内企业网络特征 及形成机理——基于2014年奇瑞汽车集群实证分析[J].地理 研究,2018,37(2): 353-365.[Chen Xiaofei, Miao Changhong,Pan Shaoqi,et al. Characteristics and construction mechanism of enterprise networks in“Hub-and-Spoke”cluster:Empirical evidence from Chery cluster in 2O14,China[J]. Geographical Research, 2018, 37(2): 353-365.]   
+[4]刘清,杨永春,蒋小荣,等.基于全球价值链的全球化城市网络 分析：以苹果手机供应商为例[J]．地理学报,2021,76(4):870- 887.[Liu Qing, Yang Yongchun,Jiang Xiaorong,et al.An analysis of the multidimensional globalizing city networks based on global valuechain: A case studyof iPhone’s suppliers[J].Acta Geographica Sinica,2021,76(4): 870-887.]   
+[5]刘清,杨永春,蒋小荣.全球价值生产的空间组织:以苹果手机 供应链为例[J].地理研究,2020,39(12):93-112.[Liu Qing,Yang Yongchun,Jiang Xiaorong.Spatial organization of global value production: A case study of supply chain of Apple's iPhone[J]. Geographical Research, 2020,39(12): 93-112.]   
+[6]李仙德.基于上市公司网络的长三角城市网络空间结构研究 [J].地理科学进展,2014,33(12):1587-1600.[Li Xiande.Spatial structure of the Yangtze River Delta urban network based on the pattern of listed companies network[J]. Progress in Geography, 2014,33(12): 1587-1600.]   
+[7]薛德升,邹小华.基于中资商业银行全球空间扩展的世界城市 网络及其影响因素[J].地理学报,2018,73(6):989-1001.[Xue Desheng, Zou Xiaohua.The world city network based on the global expansion of Chinese commercial banks and its influencing factors[J].Acta Geographica Sinica,2018,73(6): 989-1001.]   
+[8]盛科荣,杨雨,孙威.中国城市的网络地位及影响因素研究- 基于上市公司500强企业网络视角[J].地理科学,2020,40(5): 68-78.[Sheng Kerong, Yang Yu,Sun Wei. Network position and underlying factors of cities in China: A study from corporate networks of the largest 5OO public companies[J]. Scientia Geographica Sinica, 2020,40(5): 68-78.]   
+[9]袁红林,辛娜.中国高端制造业的全球贸易网络格局及其影响 因素分析[J].经济地理,2019,39(6):108-117.[Yuan Honglin, Xin Na. Global trade network patern and influencing factors of advanced manufacturing in China[J]. Economic Geography, 2019,39 (6): 108-117.]   
+[10] 邵璇璇,姚永玲.长江中游城市群的空间网络特征及其影响机 制[J].城市问题,2019(1O):15-26.[Shao Xuanxuan, Yao Yongling. Spatial network characteristics and influence mechanism of urban agglomerations in the middle reaches of the Yangtze River[JJ. Urban Problems,2019(10): 15-26.]   
+[11]盛广耀.中国省际人口流动网络的演化及其解释[J].中国人口· 资源与环境,2018,28(11):1-9.[Sheng Guangyao. Study on the
+
+evolution and explanation of inter-provincial population flow net
+
+work in China[J].China Population,Resources and Environment, 2018, 28(11): 1-9.]   
+[12] 盛科荣,张红霞,赵超越.中国城市网络关联格局的影响因素分 析——基于电子信息企业网络的视角[J].地理研究,2019,38 (5): 32-46. [Sheng Kerong, Zhang Hongxia, Zhao Chaoyue. Determinants of the urban spatial network in China: An analysis through the lens of corporate networks within electronic information industry[J]. GeographicalResearch,2019,38(5): 32-46.]   
+[13]Chong Z,Pan S. Understanding the structure and determinants of city network through intra-firm service relationships:The case of Guangdong-Hong Kong-Macao Greater Bay Area[J]. Cities, 2020, 103(5): 1-11.   
+[14] Liu X, Derudder B,Liu Y. Regional geographies of intercity corporate networks: The use of exponential random graph models to assess regional network formation[J]. Regional Science,2O15,94(1): 109-126.   
+[15] Ma D,Yu Q,Li J,et al.Innovation difusion enabler or barrier: An investigation of international patenting based on temporal exponential random graph models[J].Technology in Society,2020,64: 1-12.   
+[16] 刘林青,陈紫若,田毕飞.结构依赖如何影响贸易网络形成及演 化：以“一带一路"为例[J].世界经济研究,2020,316(6):107- 121,138.[Liu Linqing,Chen Ziruo,Tian Bifei. How does structural dependence affect the formation and evolution of trade network: An empirical analysis based on“the Belt and Road”[J].World Economy Studies,2020,316(6):107-121,138.]   
+[17]马卫,黄晓燕,曹小曙.“一带一路"沿线国家开放度时空格局及 其影响因素[J].干旱区地理,2020,43(5):207-219.[Ma Wei, Huang Xiaoyan, Cao Xiaoshu. Spatio-temporal pattern of openness of countries alongthe Belt and Road Initiativeanditsinfuencing factors[J]. Arid Land Geography,2020,43(5): 207-219.]   
+[18] Boschma R A,Frenken K. Why is economic geography not an evolutionary science? Towards an evolutionary economic geography [J]. Journal of Economic Geography,2006,6(3): 273-302.   
+[19] 李从容,向文倩.关中平原城市群中心城市空间联系强度研究 [J].干旱区地理,2020,43(6):1593-1602.[Li Congrong,Xiang Wenqian.Spatial connection intensity of central cities in Guanzhong Plain City Group[J].Arid Land Geography,2O20,43(6): 1593-1602. ]   
+[20]Hymer S.The multinational corporation and the law of uneven development: Perspectives on world politics[M].London: Routledge,2006.   
+[21] Lusher D, Koskinen J,Robins G.Exponential random graph models for social networks: Theory,methods,and applications[M]. Cambridge: Cambridge University Press,2013.   
+[22]Zhang F,Ning Y M,Lou X Y. The evolutionary mechanism of China'surban network from 1997 to 2015: Ananalysis of air passenger flows[J]. Cities,2020,103(5):1-10.   
+[23]Davis JA,Leinhardt,S.The structure of positive relations in small groups[C]/Berger J, Zelditch M,Anderson B,et al. Sociological Theories in Progress.Boston,MA: Houghton Mifflin,1972:218-251.
+
+# How does relationship dependence affect the spatial growth of globalizing city networks: A case of iPhone' s suppliers
+
+LIU Qing'， JIANG Xiaorong2,3 (1.SchoolofGeographyandPlaing,SunYat-Sen UniversityGuangzhou510275,Guangdong,China;2.CollgeofResource Environmentand Tourism,HubeiUniversityof Artsand Science,Xiangyang 441053,Hubei,China;3.Economicsand Management School,Wuhan University,Wuhan 43OO72,Hubei, China)
+
+Abstract: Recently there has been an increase in the number of the relationship turns and the evolution of new economic geography，which facilities the transformation of city network research，namely，from structural characteristics to influence mechanism.In light of the existing research progress，the paper introduces microconfiguration through the lens of the structural perspective to investigate the growth and development mechanismofcity networks.Tobe more specific,initiall,thecitynetworksofR&D-oriented,production-oriented, and OEM service-oriented are specified built based on the suppliers’data of iPhone's components and parts in 2019,and afterward, we conduct motif analysis and exponential random graph model (ERGM) to examine the microprocesses in the spatial growth of city networks.The results demonstrate that: (1） reciprocity and the intermediary effect are widely and commonly distributed in the three types of city networks,which profoundly ffect connectivity development and promote the growth of the hierarchical structure and the availability of the entire network.(2）The process of preferential atachment and the effect of receiver and sender (branches) constitutecore structural mechanisms interpreting hierarchical centrality patern of city networks,both of them embody the phenomenon of path dependence centered on in-degree centrality in the growth processs of city networks.(3）Triangle structure (transitive triangle and circular triad motif)and homogeneity are micro basis components that promote the cluster growth and community structure of city network and the phenomenon of rich clubs.Moreover,the homogeneity influence on the spatial growth of city networks is primarily reflected in the linkages between core cities.(4)Enterprises‘path dependence and distance are the main external factors that drive and affect the growth of city networks. Overall,inthe current city network research, there is stilla problem that quite focuses on measuring structural characteristics,while ignoring the analysis of the influence mechanism. Furthermore,in the existing literature on the influence mechanism of city networks,many researchers focus ona qualitative macro description based on independent variables, nevertheless,but litle on the micro growth and development mechanism of city networks from the standpoint of graph theory and structuralism.Hence，a microconfiguration of ERGM is used through the lens of relationship dependence in this paper,subsequently; we introduce exogenous covariates and endogenous structural variables into the hypothesis verification of city network influence mechanism,which is very important for broadening the research scope of the influence mechanism of the existing city network research.
+
+Key words: globalizing city networks； iPhone；relationship dependence； exponential random graph model

@@ -1,0 +1,238 @@
+# DOI:10.5846/stxb201604150694
+
+贾雪莹，邹元春，姜明.模拟气候变化背景下铁输入对小兴凯湖狭叶甜茅生理生态的影响.生态学报,2017,37(14):4725-4733.JiaXY,ZouYgtspofaeofroeeuaedecEcologica Sinica,2017,37(14) :4725-4733.
+
+# 模拟气候变化背景下铁输入对小兴凯湖狭叶甜茅生理生态的影响
+
+贾雪莹1,²，邹元春¹，姜明1，"
+
+1中国科学院湿地生态与环境重点实验室，中国科学院东北地理与农业生态研究所，长春130102  
+2中国科学院大学，北京100049
+
+摘要：富铁地下水从农田流入湿地生态系统是近些年来湿地所面临的环境问题之一,在气候变化背景下更为复杂。通过湿地微生境人工模拟实验,研究铁输入、温度和水位3 因素对兴凯湖湿地植物优势物种——狭叶甜茅（Glyceria spiculosa（Fr.Schmidt.）Rosh.)整个生长周期生理生态的影响。对狭叶甜茅的株高、叶片数目、基茎 叶面积,叶片叶绿素 $^ { \mathrm { ~ \tiny ~ \ d ~ } } _ { \mathrm { ~ a ~ , ~ b ~ } }$ ,地上生物量及其总氮（TN）、总碳(TC）、总磷（TP）、总铁(TFe)含量的分析测试结果表明：（1)温度为主要影响因素,降温 $2 ^ { \circ } \mathrm { C }$ 效果明显且对株高、叶片数目和叶面积最显著。对照温度处理叶绿素a、b值最大,主要为生长速度相对缓慢而造成叶绿素聚集在细胞中导致浓度较高。(2)水位对狭叶甜茅基茎、地上部分总铁含量影响最显著， $. 5 \ \mathrm { c m }$ 淹水处理更有利于地上部分总铁含量富集。（3）3个铁输人强度对狭叶甜茅生理生态各指标没有达到显著水平。综合各指标特征加权分析表明,温度升高对其生长产生不利影响,降温$2 ^ { \circ } \mathrm { C }$ 处理植物表现出良好的适应性,淹水及铁输入条件下其生长状况显著增强,以目前小兴凯湖外源铁输入强度情况下湿地植物铁含量会有所增加。可以推测,在全球变暖趋势下,狭叶甜茅这种对气候变化敏感的物种,其生存将面临一定的威胁。
+
+关键词：温度；水位；铁输入；气候变化；小兴凯湖
+
+# Effects of iron input on the performance of Glyceria spiculosa from the Xiaoxingkai Lake under simulated climate change
+
+JIA Xueying1,²， ZOU Yuanchun1, JIANG Ming1   
+1Kebtte China   
+2 University of Chinese Academy of Sciences，Beijing 10o049,China
+
+Abstract: In recent years，iron-rich groundwater from farmlanddrainageand upstream runoffhas emerged asa serious environmental problem afecting into wetlandecosystems.This problem is furthercomplicated bythebackgroundof climate change.A microcosm experiment was designed to investigate the responses of (Glyceria spiculosa（Fr.Schmidt.）Rosh.）to covarying iron（Fe）concentrations，hydroperiods，andtemperatures,，inorder tobeter predict thefuture distributionof $G$ ： spiculosa in the Xiaoxingkai Lake wetlands. To test the entire growth cycle of $G$ .spiculosa under conditions that prevail in the field,this studyused thre artificial climatechambersandafactorial designconsisting ofthreeFelevels,three temperature settings，and threewaterlevels.Plantresponse variables wereheight,leaf number，stem diameter,leaf area，chlorophylla andb,biomass；alsomeasured were total concentrationsof iron,carbon,phosphorus，and nitrogen.Theresults showed the following:1）Themain efect of temperatureon plant height,leaf number,andleaf areawas significant，with the greatest values occurring in the $- 2 \%$ treatment.The temperature effect on chlorophyll $a$ and $b$ was significant，as well，with the greatestvalues intheambienttemperature treatment,likelybecauseoftherelativelyslowgrowthrateandhigherchlorophyl accumulationincells；2）Themainefectof waterlevelonstem diameterandtotal ironconcentrationof aboveground biomass was highly significant ( $P { < } 0 . 0 0 1$ ). The $5 \ \mathrm { c m }$ waterlogging treatment was the most favorable for increasing Fe uptake and accumulation in plants，such that total Fe concentration aboveground was increased by $2 2 7 . 1 \%$ and $4 7 5 . 9 \%$ versus the O cm and $- 5 \mathrm { \ c m }$ treatment levels，respectively.Lastly，3）the main effect of Fe level on all the ecophysiological traits investigated were insignificant ( $P { < } 0 . 0 5$ ).Based on this comprehensive analysis of G.spiculosa in its different growing stages，we conclude that an increase in temperature had adverse effects on $G .$ .spiculosa growth，and that it performed the best in the $- 2 \%$ treatment.It is also noteworthy that G.spiculosa grew better under flooded conditions.However,the current Feinputconcentrationsshouldnot significantly afectthe growthof G.spiculosa.Presumably，under accelerated global warming，G.spiculosa-which was clearly sensitive to climate change—willfacea near-certain threat.This could have consequences for the ecological structure and functions of these wetlands
+
+Key Words: temperature；water level； iron input；climate change；Xiaoxingkai Lake
+
+气候变化常伴随着气温和降水等条件的变化,对湿地生态系统的影响主要表现为对水文、土壤温度、生物地球化学过程及生态功能等方面[1-2],湿地植被群落及物种变化常受气候和水文条件的制约,植被通过调节优势生态物种、生物多样性、萌芽状况和成活率等以适应不同程度的气候变化[3]。某些植物适应气候变化的能力可能赶不上气候变化的步伐,导致物种组成及其植被分布格局受到影响,影响生态系统稳定性[4]。
+
+全球水体存在不同程度的铁污染[5-6]。三江平原是我国最大的淡水湿地分布区之一,该区的稻田用水大规模、长时期开采铁含量较高的地下水作为灌溉用水,总铁含量的平均值为 $4 . 5 3 ~ \mathrm { m g / L }$ ,最高可达 $1 1 . 4 ~ \mathrm { m g / }$ L[7-8]。灌溉用水形成了一个持续的铁输入源,不可避免地直接或通过农田退水间接进入天然湿地[9]。位于三江平原南端的中俄界湖兴凯湖铁含量在整个黑龙江水系中最高，达 $0 . 6 2 ~ \mathrm { m g / L ^ { [ 1 0 ] } }$ ,且受两国用水及农田退水影响而导致水位上下波动使该地区问题更加复杂化。迄今为止发表的研究报告大多停留在铁输入对湿地生态系统影响的探讨上[-2],对于气候变化背景和人类活动双重影响下的湿地生态系统的研究尚未开展相应的研究。因此,认识湿地植物对气温变化、水位波动及持续铁输入的响应特征和规律,揭示其与植物生理生态的影响及机制，具有重要的理论意义和实践价值。
+
+位于兴凯湖地区的典型湿地优势物种狭叶甜茅（Glyceria spiculosa（Fr.Schmidt.）Rosh.)具有发达的通气组织。为此研究区选取狭叶甜茅作为研究对象,采取原位移植生境模拟技术,通过研究狭叶甜茅在构建水位、温度和铁输入的"水+热 $^ +$ 化学组成”的多因子控制试验,为分析并预测气候变化及铁输入影响下湿地植物的生理生态响应提供科学参考价值。
+
+# 1材料与方法
+
+# 1.1供试材料
+
+于2014年9月29日，在黑龙江小兴凯湖( $\langle 4 5 ^ { \circ } 2 0 ^ { \prime } \mathrm { N } , 1 3 2 ^ { \circ } 1 9 ^ { \prime } \mathrm { E } \rangle$ 采集带根土的狭叶甜茅,带回温室培养一周,将其地上部分剪干净,使其萌发幼苗保证试验材料的均一性。培养30d,幼苗平均株高为 $5 \mathrm { - } 8 ~ \mathrm { c m }$ ,选择长势均一的幼苗将其放入内径 $1 2 \ \mathrm { c m }$ ,高 $1 5 \ \mathrm { c m }$ 装有原位土壤的培养钵内,培养钵侧面均匀打孔增强水体流通,每盆5—7棵,将4个培养钵(4个重复)放入内径 $3 0 ~ \mathrm { c m }$ ，高 $2 5 \ \mathrm { c m }$ 的PVC桶内，作为独立的系统。
+
+采样地选择具有代表意义的腐殖质沼泽土类型,其发育于深厚的湖相沉积物上,植被主要为小叶章-狭叶甜茅群落,采样地表层土壤的物理化学性质见表1。
+
+表1实验区内表层土壤的物理化学性质  
+Table1 Physical and chemical properties of the surface soil in the experimental zone   
+
+<html><body><table><tr><td>土层深度/cm Soil depth</td><td>pH</td><td>有机质/% Organic matter</td><td>全N/% Total nitrogen</td><td>全P/% Total phosphorus</td><td>全K/% Total kalium</td></tr><tr><td>0-5</td><td>6.28</td><td>33.83</td><td>1.11</td><td>0.50</td><td>1.55</td></tr><tr><td>5-10</td><td>6.22</td><td>15.72</td><td>0.43</td><td>0.22</td><td>2.22</td></tr><tr><td>10-15</td><td>6.15</td><td>5.41</td><td>0.25</td><td>0.15</td><td>2.80</td></tr><tr><td>15-30</td><td>6.93</td><td>3.51</td><td>0.17</td><td>0.14</td><td>3.20</td></tr></table></body></html>
+
+# 1.2研究方法与实验设计
+
+本实验采用人工气候箱(哈东联 HPG-400HX,中国)湿地微生境人工模拟方法。研究铁输入、温度和水位三因素对狭叶甜茅的影响。水位设计： $- 5 \ \mathrm { c m }$ （低于土表 $5 \ \mathrm { c m }$ ), $0 ~ \mathrm { c m }$ （表面水淹）， $5 ~ \mathrm { c m }$ （高于土表 $5 \ \mathrm { c m }$ ）。温度设计：依据兴凯湖监测到的7—9月各月5个时段的平均气温来模拟生境(表2,对照温度),对照温度、$- 2 \%$ （降低 $2 ^ { \circ } \mathrm { C }$ ）、 $+ 2 \%$ （升温 $2 ^ { \circ } \mathrm { C }$ ）。铁输入设计：根据 2014 年对兴凯湖水体各月铁浓度调查的平均值（表3,对照铁浓度）,对照铁浓度、农田退水时期总铁浓度 $2 . 2 3 ~ \mathrm { m g / L }$ 、农田退水时期总铁浓度的2倍 $4 . 4 6 ~ \mathrm { m g / L }$ 。培养过程中每两天补充去离子水以维持水位调控,溶液每周更换。由于培养箱空间有限,设计为三因素三水平正交实验,满足统计学要求,共9个处理,每个处理4个重复(表4),对于三者的交互作用,由于本实验方法的限制而无法做出相应分析,有待于进一步研究。
+
+# 1.3 指标测定
+
+每半个月测狭叶甜茅的株高、茎粗、叶面积、叶子数,每个重复测3株,共测3个重复(各指标测量次数视长势略有差异）,生物量最大时测定叶绿素a与b浓度。待 $9 0 \mathrm { ~ d ~ }$ 实验结束,剪除地上植株并 $7 0 \%$ 烘干至恒重,用电子天平(丹佛TP-114,美国)称量地上生物量干重。
+
+高度的测定：使用米尺测量植株的高度（精度为 $0 . 1 \mathrm { { \bar { \ c m } } } ^ { \cdot }$ ）
+
+茎粗的测定：用电子数显（精度为 $0 . 0 1 \mathrm { \ : \dot { m m } } ,$ 游标卡尺测定植株底部基茎。
+
+叶面积的测定：使用Li-3000C 便携式叶面积仪(LI-COR,美国)测量完全展开的成熟叶片（精度为0.01$\mathrm { c m } ^ { 2 }$ ）。
+
+叶绿素含量的测定：采用丙酮乙醇提取法测定叶绿素a与 $\mathbf { b } ^ { [ 1 3 ] }$
+
+植物元素测定方法采用《土壤·水·植物理化分析教程》：地上部分全碳(TC)采用外加热-重铬酸钾滴定法测定[14];全氮(TN)采用连续流动-钼酸铵分光光度法测定[15];全磷(TP)采用钼锑抗比色-连续流动法测定[16];植株铁元素含量采用强酸消解-ICP-AES 法测定[17]。
+
+# 1.4 数据处理
+
+实验数据处理采用加权综合评分法：  
+指标最小值 $\bar { Y } _ { i ( \operatorname* { m i n } ) }$ ,最大值 $Y _ { i ( \operatorname* { m a x } ) }$ ,极差 $R _ { i } = Y _ { i ( \operatorname* { m a x } ) } - Y _ { i ( \operatorname* { m i n } ) }$ （204号  
+指标对应无量纲极差化值为 ${ Y _ { t i } } ^ { \prime } \mathrm { = } \big ( Y _ { t i } \mathrm { - } Y _ { \mathrm { \operatorname* { m i n } } } \big ) / R _ { i }$   
+根据理论分析与实践经验,确定每个指标对试验目的的权重,记为 $\textstyle \ W _ { i }$
+
+$$
+W _ { 1 } + \ W _ { 2 } + W _ { 3 } + \cdots + W _ { n } = 1
+$$
+
+各指标的加权极差化值 $\begin{array} { r } { Y _ { \mathrm { { t } } } = \sum W _ { i } { Y _ { { t i } } } ^ { \prime } } \end{array}$ 各试验因子所占加权综合值 $\mathrm { \sf ~ K } _ { \mathrm { i } }$ 为相同设置的总和。
+
+结合 SPSS 20.0 重复测量方差分析（Repeated Measure ANOVA）和单因素方差分析（One-way ANOVA）进行统计,采用最小显著差异法(LSD)检验各指标差异( $\alpha = 0 . 0 5 \$ ）;本文所用数据符合Kolmogorov-Smirnov 正态分布检验,方差分析符合齐次性检验要求;各实验处理间的多重比较检验采用Duncan方法进行显著性分析比较( $\scriptstyle \alpha = 0 . 0 5 { \mathrm { ~ , ~ } }$ ）；作图软件为 $\mathrm { { 0 r i g i n ~ 9 . 0 } }$ 。
+
+http://www.ecologica.cn
+
+Table2Temperature and illuminance simulation of Xiaoxingkai Lake in the environmental chamber   
+表3兴凯湖7、8、9三个月的铁浓度  
+
+<html><body><table><tr><td rowspan="2">时段 Time period</td><td rowspan="2">光照 Illuminance/lx</td><td colspan="4">温度 Temperature/C</td></tr><tr><td>7月July</td><td>8月August</td><td>9月 September</td><td></td></tr><tr><td>0:00—7:00</td><td>0</td><td>16</td><td>17</td><td>11</td><td></td></tr><tr><td>7:00—11:00</td><td>10000</td><td>20</td><td>19</td><td>14</td><td></td></tr><tr><td>11:00—14:00</td><td>20000</td><td>28</td><td>26</td><td>19</td><td></td></tr><tr><td>14:00—16:00</td><td>15000</td><td>24</td><td>23</td><td>17</td><td></td></tr><tr><td>16:00—20:00</td><td>5000</td><td>21</td><td>20</td><td>15</td><td></td></tr><tr><td>20:00—24:00</td><td>0</td><td>17</td><td>18</td><td>12</td><td></td></tr></table></body></html>
+
+# 2结果
+
+2.1不同铁输入、温度、水位处理下狭叶甜茅的形态特征变化
+
+# 2.1.1 植株高度的变化
+
+株高共测量五次（11月15日、12月1日、12月15日、次年1月1日、1月15日，在图1表示为不同时期)，不同时期的株高存在显著性差异( $P { < } 0 . 0 0 1 \ )$ 。数
+
+表2培养箱模拟小兴凯湖监测温度和光照设置  
+Table 3The iron concentration of July，August,September in Xiaoxingkai Lake   
+
+<html><body><table><tr><td>铁离子 Fe</td><td>7月July/ 8 月 August/ (mg/L) (mg/L)</td><td>9月September/ (mg/L)</td></tr><tr><td>Fe2+</td><td>0.252 1.54</td><td>0.203</td></tr><tr><td>Fe3+</td><td>0.339 0.703</td><td>0.104</td></tr><tr><td>TFe总铁</td><td>0.591 2.243</td><td>0.208</td></tr></table></body></html>
+
+据分析显示,温度和水位是影响狭叶甜茅株高的主要影响因素( $P { < } 0 . 0 5 )$ ,铁输入对其影响没有达到显著性水平。温度为 $- 2 \%$ ,水位为 $5 \ \mathrm { c m }$ 的处理株高最大( $3 7 \pm 2 . 6 6 { \mathrm { ~ } } )$ $\mathrm { c m }$ ，最低为 $+ 2 \mathrm { ^ c } \mathrm { \cdot } 0 \ \mathrm { c m }$ 水位处理( $( 2 5 . 8 1 \pm 1 . 5 5 ) \mathrm { c m }$ 。
+
+# 2.1.2 叶片数目变化
+
+叶片数目共测量4次（11月15日、12月1日、12月15日、次年1月1日，在图2表示为不同时期），不同时期叶片数目存在显著性差异( $P { < } 0 . 0 0 1 \$ )。温度为影响该指标的主要因素( $P { < } 0 . 0 0 1$ ），水位和铁输入对其影响没有达到显著性水平。 $- 2 \%$ 处理时期3与4叶子数目最多，平均5.27片/棵，同时这两个时期也是所有处理叶片数目最多的时期。对照温度和 $+ 2 \%$ 处理下植物叶片数目相似，均为4.8片/棵左右，表现为随着温度升高叶片数目降低的趋势。在进入培养后期，叶片数目各处理均有所减少。
+
+# 2.1.3 基茎变化
+
+基茎共测量5次（11月15日、12月1日、12月15日、次年1月1日、1月15日，在图3表示为不同时期),不同时期植物基茎存在显著性差异( $P { < } 0 . 0 0 1 )$ ，水位为影响植物基茎的主要因素( $P { < } 0 . 0 1 \$ ），温度和铁输人对基茎影响不显著。基茎随着水位的升高而显著增粗,在 $5 \ \mathrm { c m }$ 水位各时期基茎最大,平均为 $( 2 . 1 7 { \scriptstyle \pm 0 . 0 3 } )$ （20mm, $- 5 \ \mathrm { c m }$ 和 $0 ~ \mathrm { c m }$ 水位各时期基茎相差不大,平均为 $( 2 . 0 9 { \pm } 0 . 1 3 ) \mathrm { m m }$ 和 $( 2 . 0 7 { \pm } 0 . 0 4 ) \mathrm { m m }$ 。且植物基茎较稳定,因此可以作为检测植物适应生境的指标之一。
+
+![](images/0a92273bd71ec5a82d036d78d1c0d306dc9d0e31a7c063cd2e59d542db99d659.jpg)  
+图1狭叶甜茅植株高度分布图  
+Fig.1The plant heights profile of $G$ ，spiculosaunder indifferent water table gradients and temperature
+
+# 2.1.4 叶面积变化
+
+叶面积共测量3次(12月1日、12月15日、次年1月1日,在图4表示为不同时期),不同时期狭叶甜茅叶面积存在显著性差异( $\scriptstyle P < 0 . 0 0 1 { \mathrm { ~ , ~ } }$ ）,温度为影响植物叶面积的主要因素( $P { < } 0 . 0 5 )$ ）,水位和铁输入对植物叶面积影响没有达到显著性水平（图4)。温度处理为 $- 2 \%$ 条件下3个时期叶面积最大,平均为 $( 2 . 1 8 { \pm } 0 . 2 1 ) \mathrm { c m } ^ { 2 }$ ，对照温度与 $+ 2 \%$ 温度条件下叶面积相似，分别为 $( 1 . 8 1 { \pm } 0 . 0 8 ) \mathrm { c m } ^ { 2 }$ 和 $( 1 . 7 8 { \pm } 0 . 1 5 ) \mathrm { c m } ^ { 2 }$ 。在进入培养后期，叶面积存在不同程度的降低趋势。
+
+表4实验设计的9种处理  
+Table 4The nine treatments of the experiment design   
+
+<html><body><table><tr><td>处理组 Treatment</td><td>温度/℃ Temperature</td><td>铁浓度/(mg/L) Concetraionn</td><td>水位/cm Water level</td><td>处理组 Treatment</td><td>温度/℃ Temperature</td><td>铁浓度/(mg/L) Concenration</td><td>水位/cm Water level</td></tr><tr><td>1</td><td>对照</td><td>对照</td><td>-5</td><td>2</td><td>对照</td><td>2.23</td><td></td></tr><tr><td>3</td><td>对照</td><td>4.46</td><td>0</td><td>4</td><td>-2</td><td>对照</td><td>5</td></tr><tr><td>5</td><td>-2</td><td>2.23</td><td>0</td><td>6</td><td>-2</td><td>4.46</td><td>-5</td></tr><tr><td>7</td><td>+2</td><td>对照</td><td>0</td><td>8</td><td>+2</td><td>2.23</td><td>-5</td></tr><tr><td>9</td><td>+2</td><td>4.46</td><td>5</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+温度对照处理组设定参数为表2兴凯湖7—9月野外监测数据,铁浓度对照处理组设定参数为表3兴凯湖7—9月铁浓度监测数据
+
+![](images/a955a80e68ff0f0b584e8efdb095f1d51a14cd279e46b3a277c1a0a3701bf8ef.jpg)  
+图2不同温度条件下狭叶甜茅叶子数目分布图(平均值+标准误差， $\scriptstyle n = 3$ ）Fig.2Number of leaves perplant of G.spiculosa under differenttemperature( $\mathrm { m e a n \pm S E }$ ， $n = 3$ ）不同小写字母表示差异显著( $\scriptstyle \cdot { P < 0 . 0 5 } )$ 1
+
+![](images/9eb41b873a95120c55fd1639ee58bcca0b0f3fd1125fbc6021d8a49c27e7eed0.jpg)  
+图3不同水位狭叶甜茅基茎分布图（平均值 $\cdot \pm$ 标准误差， $n = 3$ ）Fig.3The stem diameter profile of $_ { G }$ ，spiculosa under differentwaterlevel（ $\mathrm { m e a n } { \pm } \mathrm { S E }$ ， $n = 3$ ）不同小写字母表示差异显著( $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ 0
+
+2.2不同铁输入、温度、水位处理下狭叶甜茅叶绿素的变化
+
+叶绿素是植物光合作用的重要参与者，其含量的高低反映了植物的生长状况和叶片的光合能力。结果表明温度是影响狭叶甜茅叶绿素a和b的主要因素( $P <$ 0.05），水位和铁输入的影响不显著（图5）。数据分析表明,对照温度处理下的叶绿素a平均为 $( 2 . 2 7 \pm 0 . 1 6 )$ （204$\mathrm { m g / g }$ ,叶绿素b平均为( $0 . 7 1 { \scriptstyle \pm 0 . 0 5 }$ ） $\mathrm { m g / g }$ ,显著高于其他温度处理；温度为 $- 2 \%$ 处理的各叶绿素值其次， $+ 2 \%$ 条件下的叶绿素含量最少。
+
+# 2.3地上部分有机碳、总氮、总磷及总铁的变化
+
+水位是影响狭叶甜茅地上部分总铁含量的主要因素( $P { < } 0 . 0 0 1$ ,图6），温度及铁输入对总铁含量影响不显著。数据分析表明， $5 \ \mathrm { c m }$ 水位条件植株地上部分总铁含量均值为( $1 8 9 0 { \pm } 2 1 5 ) \mathrm { m g / k g , 0 ~ c m }$ 水位条件下含量为 $\left( 5 8 0 { \pm } 1 9 6 \right) \mathrm { m g / k g } , - 5 \ \mathrm { c m }$ 水位条件下含量为（ $3 3 0 \pm$
+
+![](images/0cd16f31fe0d9a22190089dabd788c17b591fe419d83e2af82a116de42fe7426.jpg)  
+图4不同温度狭叶甜茅叶面积分布图(平均值 $\pm$ 标准误差， $\scriptstyle n = 3$ ）Fig.4Leaf areaprofileof $G _ { \ l }$ ，spiculosaunderdifferenttemperature( $\mathrm { m e a n \pm S E }$ ， $n = 3$ ）不同小写字母表示差异显著( $\scriptstyle P < 0 . 0 5$ ）
+
+$7 2 ) \mathrm { m g / k g }$ ,淹水 $5 \ \mathrm { c m }$ 总铁含量显著高于 $0 ~ \mathrm { c m }$ 和 $- 5 \ \mathrm { c m }$ 。不同温度、水位及铁输入条件下,植株地上部分有机碳、总氮及总磷含量无显著性差异（表5）。
+
+![](images/e86a5f07916fbd46ee4264e017b44e143586e2f9acf328f7d1f75d480500e280.jpg)  
+图5不同温度狭叶甜茅叶片叶绿素含量分布图(平均值 $\pm$ 标准误差， $n = 3$ ）Fig.5Means of leaf chlorophyll content of $G$ ，spiculosa underdifferent temperature ( $\mathrm { m e a n \pm S E }$ ， $n = 3$ ）不同小写字母表示差异显著( $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$
+
+![](images/a5c37acdbd04587e3c5baaf2de816c079ffeceade2bf55f8774deed95bf0e902.jpg)  
+图6不同水位狭叶甜茅地上部分干重总铁含量(TFe)分布图（平均值 $\cdot \pm$ 标准误差， ${ \overline { { n = 3 } } }$ 0Fig.6The total iron（TFe）content of $G$ ，spiculosa dry weightunder different water level ( $\mathrm { m e a n \pm S E }$ ， $n = 3$ ）不同小写字母表示差异显著( $P { < } 0 . 0 5$ ）
+
+表5不同处理下狭叶甜茅地上部分干重总氮(TN）、总磷(TP)及总碳(TOC)含量  
+Table 5The total nitrogen，phosphorus and carbon of G. spiculosa dry weight   
+
+<html><body><table><tr><td>处理 Treatment</td><td>总氮TN/ （mg/kg）</td><td>总磷TP/ （mg/kg)</td><td>处理 ●Treatment</td><td>总氮TN/ （mg/kg)</td><td>总磷TP/ （mg/kg)</td><td>总碳 TOC/%</td></tr><tr><td>1</td><td>7590±220</td><td>608±35</td><td>2</td><td>6660±180</td><td>645±42</td><td>44.6±2.5</td></tr><tr><td>3</td><td>8830±350</td><td>733±41 33.1±2.9</td><td>4</td><td>7920±460</td><td>774±31</td><td>42.5±3.3</td></tr><tr><td>5</td><td>8370±440</td><td>777±24 44.4±3.8</td><td>6</td><td>8540±520</td><td>687±28</td><td>44.9±2.9</td></tr><tr><td>7</td><td>7980±260</td><td>650±43 44.3±6.7</td><td>8</td><td>8520±510</td><td>696±27</td><td>43.8±5.5</td></tr><tr><td>9</td><td>5640±120</td><td>613±39 44.0±4.1</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+2.4试验与理论最优组合
+
+试验最优组合：通过各指标极差化值及所占权重(表6)计算出9个处理组合的加权综合值。株高、叶子数目、茎粗、叶面积、叶绿素及总铁为正向指标,则各极差化值及加权综合值越大表明其组合更优。结果显示，处理4（降温 $2 ^ { \circ } \mathrm { C } { \mathrm { ~ , } } 0 { \mathrm { ~ m g / L } }$ Fe, $5 ~ \mathrm { c m }$ 水位)加权综合值最大,为0.676,表明其为9个处理中的最优组合。
+
+理论最优组合：由于本实验为正交设计,共9个处理满足统计学要求,理论上存在一个最优组合。表7数据显示温度 $\mathrm { K } _ { 2 } ( - 2 ^ { \circ } \mathrm { C } , 1 . 4 6 2 )$ 、铁浓度 $\mathrm { K } _ { 3 } ( 4 . 4 6 \mathrm { \ m g / L \ F e } , 1 . 7 0 7 )$ 、水位 $\mathrm { K } _ { 2 } ( 5 ~ \mathrm { c m }$ 水位,1.770)值最大,为试验各因子的最佳水平,由其形成的组合同时为该试验的理论最优组合。
+
+# 3讨论和结论
+
+# 3.1狭叶甜茅对温度变化的响应
+
+在气温波动影响下,植物通过调整形态、生理生化对温度变化做出感受、传导及适应调节[18]。本研究结果初步表明，降温 $2 ^ { \circ } \mathrm { C }$ 能促进狭叶甜茅的株高、叶片数、叶面积的增长,各指标有很好的一致性,加权综合法同时也验证了这一结论。而对照温度处理的叶绿素a及b最大， $- 2 \%$ 处理的叶绿素值次之，综合各指标表明，部分原因是生长速度相对缓慢而造成叶绿素聚集在细胞中所导致,Marlies[19]等也有类似的研究。增温 $2 ^ { \circ } \mathrm { C }$ 并没有使各指标高于其他处理,表明增温对其生理生态影响不明显,而温度降低 $2 ^ { \circ } \mathrm { C }$ 植物表现出了良好的适应性。前人研究表明部分湿地植物喜冷凉,不耐炎热,水芹和水田芥均为耐寒性较强的湿地植物,低温更有利于净化水体[20],对于本文研究的狭叶甜茅是否也为这一物种,有待于进一步研究。兴凯湖气温近54 年来呈波动上升趋势,这一变化必将引起湿地植物生长的适应性甚至胁迫性反应,前人研究狭叶甜茅应对气候变化更敏感[21]。董瑜等研究表明,湿地植物小黑三棱（Sparganium emersum Rehm.）对温度较敏感,表现为随温度升高生理上受到伤害,且很难通过调节自身生化物质来适应这种变化,应对气候变化的能力较弱,温度适应范围较窄[22]。类似研究表明,模拟增温使得芦苇吸收与转换光能的色素蛋白复合体较少,可利用弱光的能力较弱，暗呼吸速率显著升高,增加了碳的消耗[23]。综合以上研究结果,部分湿地植物应对温度变化敏感,尤其是气候变暖趋势下,湿地植物可能很难适应这一变化,势必会影响到整个生态系统的稳定性。
+
+Table 6Range values and weighted comprehensive values of each indexes in G.spiculosa   
+表7不同处理及试验因子对应加权综合值  
+
+<html><body><table><tr><td>处理 Treatment</td><td>株高 Height</td><td>8 叶子数目 Leaf number</td><td>茎粗 Stem diameter</td><td>叶面积 Leaf area</td><td>叶绿素 Chlcont</td><td>总铁 TFe</td></tr><tr><td></td><td>Y'</td><td>Y2</td><td>Y3</td><td>Y'4</td><td>Y'5</td><td>Y'16</td></tr><tr><td>1</td><td>0.061</td><td>0.000</td><td>0.176</td><td>0.279</td><td>0.975</td><td>0.103</td></tr><tr><td>2 3</td><td>0.240</td><td>0.922</td><td>0.382</td><td>0.126 0.523</td><td>0.975</td><td>1.000</td></tr><tr><td>4</td><td>0.284</td><td>0.969</td><td>0.088 0.118</td><td>0.901</td><td>1.000</td><td>0.156 0.668</td></tr><tr><td>5</td><td>1.000</td><td>0.953 0.016</td><td>0.000</td><td>0.000</td><td>0.134</td><td>0.357</td></tr><tr><td>6</td><td>0.000 0.445</td><td>1.000</td><td>0.176</td><td>1.000</td><td>0.611</td><td>0.098</td></tr><tr><td>7</td><td>0.044</td><td>0.516</td><td>0.206</td><td>0.117</td><td>0.541 0.000</td><td>0.041</td></tr><tr><td>8</td><td>0.061</td><td>0.906</td><td>1.000</td><td>0.450</td><td>0.675</td><td>0.000</td></tr><tr><td>9</td><td>0.418</td><td>0.750</td><td>0.824</td><td>0.261</td><td>0.306</td><td>0.737</td></tr><tr><td>权重Weight</td><td>0.2</td><td>0.2</td><td>0.1</td><td>0.2</td><td>0.2</td><td>0.1</td></tr></table></body></html>
+
+表6不同处理下狭叶甜茅各指标极差化值及权重  
+Table 7Weighted comprehensive values of different treatments and experimental factors   
+
+<html><body><table><tr><td>处理组 Treatment</td><td>温度 Temperature/C</td><td>铁浓度 Concentration of Fe/(mg/L)</td><td>水位 Water level/cm</td><td>加权综合值Y, Weighted comprehensive values</td></tr><tr><td>1</td><td>对照</td><td>对照</td><td></td><td>0.291</td></tr><tr><td>2</td><td>对照</td><td>2.23</td><td>5</td><td>0.591</td></tr><tr><td>3</td><td>对照</td><td>4.46</td><td>0</td><td>0.580</td></tr><tr><td>4</td><td>-2</td><td>对照</td><td>5</td><td>0.676</td></tr><tr><td>5</td><td>-2</td><td>23</td><td>0</td><td>0.161</td></tr><tr><td>6</td><td>-2</td><td>4.46 ●</td><td>-5</td><td>0.625</td></tr><tr><td>7</td><td>+2</td><td>对照</td><td>0</td><td>0.160</td></tr><tr><td>8</td><td>+2</td><td>2.23</td><td>-5</td><td>0.518</td></tr><tr><td>9</td><td>+2</td><td>4.46</td><td>5</td><td>0.503</td></tr><tr><td>K</td><td>1.461</td><td>1.127</td><td>1.434</td><td></td></tr><tr><td>K</td><td>1.462</td><td>1.270</td><td>1.770</td><td></td></tr><tr><td>K</td><td>1.182</td><td>1.707</td><td>0.901</td><td></td></tr></table></body></html>
+
+$\mathrm { K } _ { 1 } , \mathrm { K } _ { 2 } , \mathrm { K } _ { 3 }$ 代表各实验因子为相同设置所占三个加权综合值的总和
+
+# 3.2狭叶甜茅对水位变化的响应
+
+兴凯湖近54年来降雨量则呈稍减少趋势,个别年份波动较大,而水位波动是控制湿地特征的关键因子，这一降水变化直接影响到整个湿地生态系统植物群落的分布及稳定性。前人的研究表明湿地植物在水淹胁迫下,经过长期的适应与进化,形成了相应的生理生态适应机制[24-25]。国内外大量试验模拟湿地植物与水位的定量关系,试图评估不同水位条件下湿地植物群落响应效果从而制定适应性管理对策[26-28]。本研究结果表明,狭叶甜茅在 $5 \ \mathrm { c m }$ 水位下的各时期基茎相比于其它两个水位梯度均有明显提高,叶子数目也较最低增高了 $4 3 \%$ ,通过加权综合法表明淹水处理也为狭叶甜茅的最佳水位设置。这与曹昀和王国祥的研究结果相似，芦苇株高、基径、地上生物量随土壤含水量的减少而递减[29]。关于湿地植物更适应淹水条件的机制国内外有很多研究,综合结果为湿地处于还原环境,有机残体的分解速率缓慢导致土壤有机质处于积累状态,有利于植物的生长[30-32]。而在降水量减少的大趋势下,湿地植物生境水分条件变差,部分湿地生态系统植被会向着物种组成减少,结构简单、植株低矮和生产力下降的方向发展,进而导致湿地生态系统退化[3]。
+
+生境水分状况决定着植物的生存和生态类型,受水分条件变化的影响，植物物种组成、分布及种间相互作用均发生适应性变化[34],而关于整个湿地生态系统在水位波动下的变化趋势及响应机制,还有待于进一步探讨及研究。
+
+# 3.3狭叶甜茅对铁输入变化的响应
+
+植物生长环境中铁缺乏和过多都会产生不利影响,缺铁导致植物根系生长受阻、出现大量根毛、新叶发黄、生物量下降、叶绿素合成量降低等[1I-12];铁过量导致植物出现维管束鞘细胞形状发生变化甚至瓦解、个别细胞突变、原生质体收缩等[6。本研究结果表明,狭叶甜茅在 $5 \ \mathrm { c m }$ 水位条件下,地上部分的总铁含量较 $0 ~ \mathrm { c m }$ 和 $- 5 \ \mathrm { c m }$ 分别增长 $2 2 7 \%$ 和 $4 7 6 \%$ ,证明狭叶甜茅在淹水条件下更易吸收环境中的铁元素。Chen 等研究认为，水文情势是影响湿地植物吸收铁及磷元素的主要原因,且对植物根际微生物有显著性影响[35]。本实验所控制的铁输入浓度对狭叶甜茅生长的影响不显著,表明小兴凯湖在现有外源铁浓度输入的条件下,并没有明显影响到狭叶甜茅正常生长,综合各指标加权处理结果表明三个铁输入中 $4 . 4 6 ~ \mathrm { m g / L }$ Fe 为对狭叶甜茅生理生态影响的最佳水平。大量研究证明,湿地植物对于铁元素的耐受能力很强,据 Farmer[36]报道表明宽叶香蒲（Typha latifoliaL.)在铁浓度 $1 0 ~ \mathrm { { m g / L } }$ 处理下更有利于其生长。同是禾本科植物的丝毛雀稗（PaspalumurilleiSteudel）和狗尾草属一种（Setaria parviflora（Poir.）Kerguélen）, $5 6 ~ \mathrm { m g / L }$ 和 $1 1 2 ~ \mathrm { m g / L }$ Fe 环境开始出现铁毒[6],有关狭叶甜茅其最适浓度与耐受阈值为多少,还有待于进一步研究。针对湿地植物对铁元素的高耐受及吸附能力,国际上主要在矿山开采和工业污染区运用其进行环境修复[37-39]。Immers[11]等人的研究结果表明铁输入还可以作为提高水体质量的一项措施。有关湿地植物及整个生态系统对铁输入的响应和作用机制还有待于进一步研究。
+
+# 3.4狭叶甜茅群落未来适应性评估
+
+狭叶甜茅群落分布于中国(东北、内蒙古）、朝鲜、俄罗斯境内,研究表明北方淡水湿地增温速率接近$0 . 2 8 \% / ( 1 0 \mathrm { a } ) ^ { [ 2 1 }$ ],且东北地区气温增暖幅度随纬度升高而增大[40],而通过中国近50 年来平均地表气温变暖幅度计算得出,平均增温速率接近 $0 . 2 2 ^ { \circ } \mathrm { C } / ( 1 0 \mathrm { a } ) ^ { [ 4 1 ] }$ ,北方增温幅度明显高于全国。且资料表明东北地区降水量变化趋势不明显,整体呈现减少趋势，气候倾向率为 $- 5 . 7 1 \ \mathrm { m m } / ( \mathrm { 1 0 a } )$ ,且会出现16a的强显著周期和6a尺度的小尺度变化周期,气候变化整体呈现明显暖干化趋势[40]。北方湿地被认为是应对气候变化特别敏感的地带,主要因为其依靠低温和高水分利用性等气候条件。狭叶甜茅为湿地生态系统中敏感性物种,运用加权综合法对各指标进行分析表明该群落应对暖干气候变化其生存将面临一定的威胁。
+
+富铁地下水从农田流入湿地生态系统使北方湿地所面临的问题趋于复杂化,兴凯湖湖岗间发育的沼泽湿地同样面临考验。淡水水域中铁输入一直被认为是提高水质的一项有效措施,同时发现适量铁输人能够促进湿地植物的生长[12]。加权综合法结果表明 $4 . 4 6 ~ \mathrm { m g / L }$ Fe 更有利于狭叶甜茅群落的生长发育。综上所述,北方湿地中例如狭叶甜茅这种应对气候变化敏感的群落,未来生存将面临一定的威胁，适量铁输入会增强敏感群落的稳定性。
+
+# 参考文献（References）：
+
+［1］宋长春.湿地生态系统对气候变化的响应.湿地科学，2003，1(2)：122-127.2rwinesdobalateefdstoatingoesoldag:
+
+http ://www.ecologica.cn
+
+71-84.  
+[3] MortschLD,QuFliateangeenarosforGatlakessiostesudisLodceaoga96,4）：911.  
+[4] 霍宏.气候暖化对兴安落叶松光合和生长影响的研究[D].哈尔滨：东北林业大学，2007：1-2.  
+[5] Siqueira-SilaA,DilaLCzedoAAOlvaAIoaqfoatiodmoaatoyfotsfrospeiesfrstigectedtoexcess iron.Ecotoxicology and Environmental Safety，2012，78：265-275.  
+[6] SantanaBVN,DeArajoTO,AndradeGC,DeFreitas-SilvaL,KukiKN,PereiraEG,AzevedoAA,DilaLC.Leaf morphoaatoyfspeciestolerantto exc ess ironandevaluationof theirphytoextraction potential.Environmental Scienceand Polution Research，2004，21（4）：2550-2562.  
+[7] 姜明.三江平原湿地土壤铁迁移转化过程及其环境指征[D].长春：中国科学院东北地理与农业生态研究所，2007：12-16.  
+[8] 邹元春，于晓菲，霍莉莉，吕宪国，姜明.三江平原典型灌区井灌地下水中铁的随水迁移特征.环境科学,2012，33（4)：1209-1215.  
+[9] Zou Y C, u XG,David J,Wu HT.Distributionand biological cycle of ironin freshwater peatlandsof Sanjiang Plain,Northeast China. 164(3):238-248.  
+[10] 卢玲，董崇智，赵彩霞，刘永，战培荣.黑龙江水系不同水域水质的理化特征.水产学报，2003，27（4)：364-370.  
+[11] ImmersAK,Vendr 3 W,Van Donk E,Ter Heerdt GN,Geurts JJ,Bakker ES.Iron additionasa measure to restore water quality :Implications for 、Aquatic Botany，2014，116：44-52.  
+[12] Van der Welle MEW, amers LPM,Roelofs JG M.Diferential responses of the freshwater wetland species Juncuseffusus L.andCalthapalustris ly in sulfidic environments.Environmental Pollution，2007,147(1）：222-230.  
+[13] 张宪政.植物叶绿素含量测定 丙酮乙醇混合液法.辽宁农业科学.1986，（3)：26-28.  
+[14] 张韫.土壤有机质含量的测定/／张韫.土壤·水·植物理化分析教程.北京：中国林业出版社，2011：103-106.  
+[15] 张韞.全氮量分析/／张韫.土壤·水·植物理化分析教程.北京：中国林业出版社，2011：222-225.  
+[16] 张韞.全磷量分析/／张.土壤·水·植物理化分析教程.北京：中国林业出版社，2011：229-232.  
+[17] 张韫.土壤有效铁的测定/／张韫.土壤·水·植物理化分析教程.北京：中国林业出版社，2011：242-243.  
+[18] CharlesH,DukesJS.EfectsofwamingandalteredprecipiationonplantandnutrientdyamisofaNewEnglandsaltmarshEcolgicalApplications，2009，19（7）：1758-1773.  
+[19] VanderWelleMEW，CuppensM,amersPM,RoelofsJGM.Detoxifyingtoxicants：interactionsbetweensulfideandirontoxicinfreshwater wetlands.Environmental Toxicology and Chemistry，2006,25(6）：1592-1597.  
+[20] 胡绵好，袁菊红，杨肖娥.温度对植物浮床净化富营养化水体能力的影响.环境科学学报，2011，31（2)：283-291.  
+[21] ZouYC，WangGP,GraceM,LouXN,YuX,LuXG.Resposeoftwodoantborealfreshwaterwetlandplantstomanipulatedaingand altered precipitation.PloS One，2014,9（8）：e104454.  
+[22] 董瑜，田昆，肖德荣，张昆，郭绪虎，李娟.区域气候变化对纳帕海湖滨植物生理生化特性的影响.生态学报,2004,34（19)：5570-5578.  
+[23] 焦娟玉，尹春英，陈珂.土壤水、氮供应对麻疯树幼苗光合特性的影响.植物生态学报，2011,35(1)：91-99.  
+[24] CloseDC，DvoJaterlgtrtaeotadigtacteitoltusslRussian Journal of Plant Physiology，2003,50(6）:843-847．  
+[25] IslamMA，MacdoaldSE.Eopsiologicaldaptatiosocksprce（Picemriana）andaarack（Larixlricina）slingtodingTrees，2004，18(1):35-42.  
+[26] 王香红，栾兆擎，闫丹丹，王忠欣.洪河沼泽湿地17种植物的生态位.湿地科学，2015，13（1)：49-54.  
+[27] HudonC，WilcoxD，ngamJModelingwetndplantcounityesposetssatervelegulationsenariosineLakeOntarit.Lawrence River Basin. Environmental Monitoring and Assessment,2006,113(1/3）：303-328.  
+[28] SaltmarshA，MauchampA，RambalSConrastedectsofwaterliitationonleaffunctionsandgrowthoftwoemergentcoocuingplantspecies，Cladium mariscus and Phragmites australis.Aquatic Botany，2006,84(3）：191-198.  
+[29] 曹昀，王国祥.土壤水分含量对菖蒲（Acorus calamus）萌发及幼苗生长发育的影响.生态学报，2007,27（5)：1748-1755.  
+[30] 陈芳清，李永，郄光武，许文年.水蓼对水淹胁迫的耐受能力和形态学响应.武汉植物学研究，2008，26(2)：142-146.  
+[31] 田应兵，宋光煜，艾天成.湿地土壤及其生态功能.生态学杂志，2002,21(6)：36-39.  
+[32] 徐治国，何岩，闫百兴，任慧敏.营养物及水位变化对湿地植物的影响.生态学杂志，2006，25(1)：87-92.  
+[33] 谢涛，杨志峰.水分胁迫对黄河三角洲河口湿地芦苇光合参数的影响.应用生态学报，2009，20（3)：562-568.  
+[34] Blom CWPM,VoesenekLACJ.Floding:Thesurvivalstrategiesofplants.TrendsinEcology&Evolution,196,11（7）:290-295.  
+[35] Chen X P,Kong WD,He JZ, SmithS ，Smith F A，Zhu Y G.Do water regimes affect iron-plaque formation and microbialmunitiesintherhizosph ofpa nal of Plant Nutrition and Soil Science，2008，171(2）：193-199.  
+[36] Farmer L M, Pezeshki S R, D.Effects of hydroperiod and ironon Typhalatifolia grown in a phosphorus-enhanced medium.Journal of PlantNutrition，2005，28（7) 1175-1190.  
+[37 KukiKN,OlereaEGoeustsssotetalolalisfroalgetiotalmanagement，2008，42(1）：111-121.  
+[38] AmilsR,DeLteVueagenezroJpositoeiatitrtioofoealscylindrica.Plant Physiology Biochemistry,2007,45(5）：335-340.  
+[39] DaSilvaLC，Ova,AzedAA,DeujoJRespossfstigpantseestolltofroanonpeletizatiofctoteAir and Soil Pollution,2006，175(1/4)：241-256.  
+[40] 贺伟，布仁仓，熊在平，胡远满.1961—2005年东北地区气温和降水变化趋势.生态学报，2013，33（2)：519-531.  
+[41] 任国玉,郭军，徐铭志，初子莹，张莉，邹旭凯，李庆祥，刘小宁.近 50年中国地面气候变化基本特征.气象学报，2005，63（3)：942-956

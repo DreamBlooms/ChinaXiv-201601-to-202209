@@ -1,0 +1,172 @@
+# 西天山雪岭云杉林分密度对森林生物量分配格局和异速生长的影响
+
+李宗英²，罗庆辉1²，许仲林1,2(1.新疆大学资源与环境科学学院,新疆 乌鲁木齐830046;2.新疆大学绿洲生态教育部重点实验室，新疆 乌鲁木齐830046)
+
+摘要：雪岭云杉林是新疆天山北坡山地森林中广泛分布的优势种,探讨林分密度对天山雪岭云杉林器官生物量分配格局和树高-胸径异速生长的影响,对于阐明雪岭云杉林生物量在不同环境中的适应具有重要意义。通过分析在不同林分密度( $\scriptstyle \left( \leqslant 3 0 0 \right)$ 株 $\cdot \mathrm { h m } ^ { - 2 } , 3 0 0 \sim 4 5 0$ 株 $\cdot \mathrm { h m } ^ { - 2 } , 4 5 0 \sim 6 0 0$ 株 $\cdot \mathrm { h m } ^ { - 2 } \cdot > 6 0 0$ 株· $\mathrm { h m } ^ { - 2 }$ )下雪岭云杉林(Piceaschren-kiana)的生长特性,研究林分密度对雪岭云杉林器官生物量分配格局及树高-胸径异速生长的影响。结果表明,随着林分密度增加,雪岭云杉林各器官平均生物量均降低;树干和树根生物量占比增加,树枝生物量占比减少,树叶和树皮生物量占比变化不显著;雪岭云杉林树高和胸径均随林分密度的增加而降低。此外,雪岭云杉林树高 $( H )$ 和胸径 $( D )$ 间具有显著的异速生长关系,其中树高-胸径 $\left( H \mathbf { - } D \right)$ 的最优异速生长方程为： $y = 2 . 3 1 2 \times x ^ { 0 . 9 0 0 }$ （ $R ^ { 2 } { = } 0 . 7 6 1$ ，$P { < } 0 . 0 1$ );随着林分密度增加,雪岭云杉林 $\mathrm { l g } H \mathrm { - l g } D$ 呈现出复杂非线性异速生长关系,该关系的显著性受林分密度变化呈现逐渐降低的趋势,这表明林分密度通过雪岭云杉林对生长资源的竞争影响各器官的生长发育。研究结果可为雪岭云杉林的可持续经营与管理提供理论依据和数据支撑。
+
+关键词：林分密度；雪岭云杉林；生物量；异速生长
+
+森林作为陆地生态系统的主体，每年固定的碳含量约占整个陆地生态系统的 $6 5 \%$ 以上[1-2],森林生物量约占陆地生态系统生物量的 $9 0 \% ^ { [ 3 ] }$ ,在调节全球碳平衡、减缓温室气体浓度上升等方面具有重要作用[4]。植物不同器官指示植物的不同功能,各器官生物量分配比例的变化表征了植物获取资源的调控能力；植物在生长发育过程中，各器官呈现出明显的异速生长规律，异速生长分析是植物生态学领域研究植物适应策略的重要方法[5]。树高和胸径是反映树木生长情况的重要指标，其关系称为树高曲线，是当前森林资源调查统计与研究的重点内容。林分密度是指林木生长过程中单位面积上的立木株数[,其影响着植物群落光照、水分、热量等生态因子的分配，使得林下植物物种多样性和结构特征发生改变[7]。由于生长资源的不同分配,林分密度增加会导致植物个体间竞争光照、养分等资源,使得植物个体生物量产生变化。
+
+小尺度的森林生物量测算模型主要为单株生物量模型，也称为相对生长模型，由Kitterge首次引入树木的生物量测算当中，主要为线性模型[8]。20世纪60年代开始，相对生长方程多采用对数形式，使问题简化[9]。雪岭云杉(Picea schrenkiana)是第三纪森林植物中的子遗物种，广泛分布于中国新疆天山北坡山地森林，对于天山的水源涵养、水土保持和林区生态系统的形成和维护具有重要作用[10]。1980年，张瑛山等[]对天山云杉的生物量进行了初步研究，使用单株生物量回归模型： $y = a \times x ^ { b }$ ，且确定变量 $x$ 为胸径 $( D )$ 以及胸径平方 $( D ^ { 2 } )$ 和树高 $( H )$ 的乘积。此后，兰洁等[12]、王燕等[13]和张绘芳[14]等学者就生物量相对生长模型对天山云杉生物量估测的适用性进行验证分析，证明了此模型的科学性和适用性，这也是目前国内外使用最多的独立分量模型。以往关于天山北坡雪岭云杉林的研究主要集中在叶片-枯落物-土壤养分含量[15-17]和生物量估测[18-19]等方面，而有关林分密度变化对雪岭云杉林生长特性的影响研究较为缺乏，有关植物种内竞争对生物量分配和树高-胸径异速生长动态研究尚不深人。本文探究了林分密度变化对西天山北坡雪岭云杉林生物量分配格局的影响，以及对树木树高与胸径之间异速生长关系的影响，通过数据分析找出最适宜雪岭云杉生长的林分密度，使其更好地发挥生态和经济价值；同时解释森林经营方式对林地生产力和树木个体生长的影响，更好地促进天山雪岭云杉林群落生态的可持续发展。
+
+# 研究区概况与方法
+
+# 1.1 研究区概况
+
+天山山脉呈东西走向位于亚洲中部地区，总长约 $4 0 0 0 { \mathrm { k m } }$ ,南北宽约 $1 5 0 \mathrm { k m }$ ,研究区分布于西天山北坡 $\mathrm { 8 0 . 2 4 ^ { \circ } \sim 8 8 . 1 2 ^ { \circ } E } , \mathrm { 4 2 . 5 9 ^ { \circ } \sim 4 4 . 3 5 ^ { \circ } N } )$ ,属于中国境内天山区域，位于塔里木盆地和准格尔盆地的中间区域，年均温度为 $- 7 . 3 \ \sim 1 3 . 3 \ \mathrm { ^ { \circ } C }$ ,年均降水量为$1 0 0 \sim 8 0 0 \mathrm { m m }$ ，主要集中在5一9月，植被类型沿海拔从低到高依次为山地草原、山地草甸草原、针叶林、高山草原、高山垫状植物和积雪冰川[20]。分布在天山北坡海拔 $1 5 0 0 \sim 2 8 0 0 \mathrm { ~ m }$ 处的雪岭云杉林(Piceaschrenkiana)是主要树种，林下土壤为山地灰褐色森林土。
+
+# 1.2数据来源
+
+于2018年7月和8月在西天山北坡雪岭云杉林分布的典型区域(海拔 $1 5 0 0 \sim 2 8 0 0 ~ \mathrm { m } ,$ 进行野外采样，采样时样地均匀分布，在不同林分密度、自然生长状况良好、具有代表性的林区进行采集，反映研究区的整体情况。采样中按每 $5 0 \mathrm { m }$ 一个海拔间隔设置若干个 $2 0 ~ \mathrm { m } { \times } 2 0 ~ \mathrm { m }$ 的样方，共累计78个样地（图1)，对各样地中的树木进行每木检尺(起测胸径大于 $5 \mathrm { c m }$ )，记录样地内的树木株数、树高和胸径，使用手持GPS记录样地中心的经纬度、海拔数据。
+
+# 1.3 研究方法
+
+植物的异速生长模型通常被用以描述植物个体大小和其他属性之间的非线性关系，一般分为简单异速生长和复杂异速生长[2I],简单异速生长通常以幂指数的形式表现： $y = a \times x ^ { b }$ ，式中， $y$ 和 $x$ 是研究对象的生长特征参数， $\boldsymbol { a } , \boldsymbol { b }$ 为常数， $b$ 也称为异速生长指数[22-24],一般情况下，将树高和胸径数据进行对数转换，其生长关系符合线性方程[25]。利用样地每木检尺数据,根据天山云杉林生物量估算方程[1,26]计算出每株树木的各器官(树干、树皮、树枝、树叶和树根)生物量，累加得到个体生物量以及各样地的总生物量(表1)。该生物量估算方程在张瑛山等[1]、张思玉等[26]人对天山云杉生物量的估算研究中进行了专业的模型分析，且在模型适用性检验中相对误差 $( E )$ 保持在 $5 \%$ 左右， $r$ 值在0.95以上，具有对天山云杉生物量估算的科学性和适用性。计算过程中，对所有数据均进行了归一化处理。
+
+![](images/74b36929dd14f17ff00130540217557351126fc9ee0f81f1aa5b4db1bdf1d697.jpg)  
+图1研究区及采样点分布图  
+Fig.1Overview of the study area and distribution of sampling points
+
+# 表1云杉林生物量方程
+
+Tab.1 Biomass equation of Picea schrenkiana forest   
+
+<html><body><table><tr><td rowspan="2">生物量方程</td><td rowspan="2"></td><td colspan="2">模型参数</td></tr><tr><td>a</td><td>b</td></tr><tr><td>Y+=ax(D²×H)b</td><td>树干生物量</td><td>0.033759</td><td>0.907882</td></tr><tr><td>Y皮=ax(D²×H)b</td><td>树皮生物量</td><td>0.005498</td><td>0.830362</td></tr><tr><td>Y枝=a×(D²×H)b</td><td>树枝生物量</td><td>0.019814</td><td>2.602171</td></tr><tr><td>Y+ =a×(D²×H)b</td><td>树叶生物量</td><td>0.027648</td><td>2.252940</td></tr><tr><td>Y根=a×(D²×H)b</td><td>树根生物量</td><td>0.042731</td><td>2.187144</td></tr><tr><td>Yr=Y￥+Y+Y枚+ Y+Y根</td><td>单株生物量</td><td>1</td><td>1</td></tr><tr><td>y=10×∑/S i=1</td><td>样地生物量</td><td>1</td><td>1</td></tr></table></body></html>
+
+注：Y表示生物量， $D$ 表示胸径， $H$ 表示树高。
+
+# 2 结果与分析
+
+# 2.1林分密度对雪岭云杉林生物量分配的影响
+
+单株雪岭云杉林树干、树皮、树枝、树叶和树根等各器官生物量明显受林分密度变化的影响，各器官平均生物量均随着林分密度的增大呈降低趋势(表2)。林分密度 $3 0 0 \sim 4 5 0$ 株 $\cdot \mathrm { h m } ^ { - 2 }$ 和 $4 5 0 \sim 6 0 0$ 株·$\mathrm { h m } ^ { - 2 }$ 的雪岭云杉林各器官生物量之间差异不显著，其他林分密度范围内各器官生物量之间均差异显著(表2)。在林分密度 $\mathfrak { s o o }$ 株· $\mathrm { h m } ^ { - 2 }$ 内的树干平均生物量是密度 ${ > } 6 0 0$ 株· $\mathrm { h m } ^ { - 2 }$ 的2.4倍，是树皮平均生物量的2.2倍，树枝平均生物量的2.9倍，树叶平均生物量的2.5倍，树根平均生物量的2.4倍，雪岭云杉林树干、树皮、树枝、树叶、树根生物量的变异系数分别为 $0 . 6 9 3 , 0 . 6 4 3 , 0 . 7 4 1 , 0 . 6 4 7$ 和0.629，可见各器官随密度变化发生了不同程度的变化，其中树枝变化最大，树干次之，树根最小。
+
+西天山北坡雪岭云杉林各器官生物量大小顺序为树干 $>$ 树枝 $>$ 树根 $>$ 树叶 $>$ 树皮，随着林分密度的增加，各器官平均生物量所占整株生物量的百分比呈现不同的变化趋势，其中树枝平均生物量占比从 $3 1 . 4 2 \%$ 降低至 $2 7 . 8 4 \%$ ,树干和树根呈升高的趋势，树皮和树叶变化趋势不显著(图2)。
+
+# 2.2林分密度对雪岭云杉林树高和胸径的影响
+
+许多研究发现，树木树高和胸径的生长与林分密度密切相关，且多呈负相关关系[2]；然而也有研究结果表明，造林密度对林分平均高度有一定的影响，但差异较小[28]。从图3可以看出，天山雪岭云杉林的树高和胸径均随着林分密度的增加而逐渐减小，在林分密度 $2 0 0 \sim 4 0 0$ 株· $\mathrm { h m } ^ { - 2 }$ 和 $4 0 0 \sim 6 0 0$ 株·$\mathrm { h m } ^ { - 2 }$ ,雪岭云杉林树高和胸径的差异均不显著，在林分密度 $4 0 0 \sim 6 0 0$ 株· $\mathrm { h m } ^ { - 2 }$ 和 $6 0 0 \sim 8 0 0$ 株 $\cdot \mathrm { h m } ^ { - 2 }$ ,雪岭云杉林树高和胸径的差异显著;树高和胸径的变异系数分别为0.348和0.354，表明林分密度的变化对雪岭云杉林胸径的影响较大。
+
+表2不同林分密度范围内雪岭云杉林的生物量  
+Tab.2 Biomass of Picea schrenkiana forest in different stand density ranges   
+
+<html><body><table><tr><td rowspan="2">林分密度/(株·hm2)</td><td colspan="6">生物量</td></tr><tr><td>树干</td><td>树皮</td><td>树枝</td><td>树叶</td><td>树根</td><td>总生物量</td></tr><tr><td>≤300</td><td>526.45±264.52a</td><td>36.03±16.77a</td><td>391.11±279.42a</td><td>133.11±80.56a</td><td>158.07±92.42a</td><td>1244.77</td></tr><tr><td>300~450</td><td>355.33±226.18b</td><td>25.18±14.90b</td><td>220.44±133.92b</td><td>82.58±44.07b</td><td>99.81±51.85b</td><td>783.34</td></tr><tr><td>450~600</td><td>360.65±262.93b</td><td>25.29±17.26b</td><td>260.27±191.14b</td><td>93.46±61.50b</td><td>112.11±72.05b</td><td>851.79</td></tr><tr><td>>600</td><td>219.39±197.99c</td><td>16.03±13.36c</td><td>136.63±123.85c</td><td>53.53±42.29c</td><td>65.28±50.10c</td><td>490.87</td></tr></table></body></html>
+
+注：不同小写字母表示密度间差异显著。
+
+![](images/8046667c3b794964e8ab3cfe0035edb094b598f3e5c4f802e590e084fc10b0e0.jpg)  
+图2不同林分密度范围内雪岭云杉林的生物量分配Fig.2BiomassallocationofPicea schrenkiana forest indifferent stand densities
+
+![](images/5d86e1ead205701264d7324c3eadf242b6cea88239e1e01ce7f6600946d7a1f3.jpg)  
+图3不同林分密度雪岭云杉林的树高和胸径 Fig.3 Tree height and diameter at breast height of Picea schrenkiana forestindifferent stand densities
+
+# 2.3雪岭云杉林树高-胸径异速生长模型的建立
+
+根据实测的雪岭云杉林树高和胸径数据，利用SPSS22.0软件拟合树高和胸径之间的关系，初步选定5种符合平均树高和平均胸径的相关模型，各模型的形式和性能如表3所示。尽管各模型表现出了不同的 $R ^ { 2 }$ 值，但对于模型的评价，首先考虑其生态学意义，因此选择 $\boldsymbol { H = } \boldsymbol { a } \times \boldsymbol { D } ^ { b }$ 为平均树高和平均胸
+
+# 表3天山雪岭云杉林树高和胸径的模型拟合
+
+Tab.3Model fitting of tree height and diameter at breast heightofPiceaschrenkianaforestinTianshanMountains   
+
+<html><body><table><tr><td rowspan="2">拟合方程</td><td colspan="3">参数</td><td rowspan="2">R</td></tr><tr><td>a</td><td>b</td><td>C</td></tr><tr><td>H=a×D+b</td><td>0.417</td><td>5.006</td><td></td><td>0.730</td></tr><tr><td>H=a×Db</td><td>2.312</td><td>0.900</td><td></td><td>0.761</td></tr><tr><td>H=a+b× In(D)</td><td>-30.315</td><td>14.659</td><td></td><td>0.748</td></tr><tr><td>H=a×eb×D</td><td>7.967</td><td>0.022</td><td></td><td>0.632</td></tr><tr><td>H=c×D²+b×D+a</td><td>0.838</td><td>0.657</td><td>-0.003</td><td>0.728</td></tr></table></body></html>
+
+径之间关系的拟合模型。经过参数检验，确定拟合方程为 $y = 2 . 3 1 2 \times x ^ { 0 . 9 0 0 }$ ,雪岭云杉林平均树高和平均胸径呈极显著正相关关系（ $( P { < } 0 . 0 1 )$ （图4a）。将雪岭云杉林的树高、胸径数据进行对数转换，并进行线性和二次多项式回归分析，发现其二次项系数更显著，在 $\mathrm { l g } H \mathrm { - } \mathrm { l g } D$ 坐标图表现为非线性关系（图4b)，且达到显著水平 $( P { < } 0 . 0 1 )$ ）
+
+对雪岭云杉林平均树高-平均胸径 $\left( H \mathbf { - } D \right)$ 的最佳回归方程 $y = 2 . 3 1 2 \times x ^ { 0 . 9 0 0 }$ 和 $\mathrm { l g } H \mathrm { - } \mathrm { l g } D$ 的回归方程$y = 0 . 3 6 9 x ^ { 2 } + 0 . 0 3 7 x + 0 . 8 4 8$ 进行方差分析(表4)，后者的离差平方和与 $F$ 值均小于前者，说明雪岭云杉林 $\mathrm { l g } H \mathrm { - l g } D$ 的异速生长模型能极显著地描述西天山雪岭云杉林树高和胸径的生长关系。
+
+# 2.4林分密度对雪岭云杉林树高-胸径异速生长的影响
+
+不同林分密度下西天山雪岭云杉林 $\mathrm { l g } H$ 和 $\mathrm { l g } D$ 之间均呈现极显著正相关关系，各异速生长回归方程参数如表5所示。在林分密度 $\lvert \lvert \lvert \leqslant 3 0 0$ 株· $\mathrm { h m } ^ { - 2 }$ 条件下，样地内雪岭云杉个体间不存在或存在弱竞争关系，其 $\mathrm { l g } H$ 和 $\mathrm { l g } D$ 达到非线性极显著水平，且相关性最高(图5a);在林分密度 $3 0 0 \sim 4 5 0$ 株· $\mathrm { h m } ^ { - 2 }$ 和 $4 5 0 \sim$ 600株· $\mathrm { h m } ^ { - 2 }$ 条件下， $\lg H$ 和 $\mathrm { l g } D$ 之间非线性回归也达到极显著水平，但相关性逐渐降低（图 $5 \mathrm { b } \sim 5 \mathrm { c }$ ，表明样地内雪岭云杉个体间竞争逐渐加强。在林分
+
+![](images/fb2fe20244aaf06cc7b2adcfee7355a529ba74006ac848a7f7c879a195fdc147.jpg)  
+图4天山雪岭云杉林树高和胸径的异速生长模型  
+Fig.4Allometric growth modelof treeheightanddiameteratbreast heightofPiceaschrenkiana forest inTianshan Mountains
+
+表4天山雪岭云杉林树高和胸径的方差分析表  
+Tab.4 Variance analysis table of tree height and diameter at breast height of Piceaschrenkiana forestin Tianshan Mountains   
+
+<html><body><table><tr><td>回归分析</td><td>自由度</td><td>离差平方和</td><td>均方</td><td>F值</td><td>显著性</td></tr><tr><td>y=2.312x0.90</td><td>1</td><td>313.623</td><td>313.623</td><td>4079.854</td><td>0.000</td></tr><tr><td>残差</td><td>1067</td><td>82.022</td><td>0.077</td><td>1</td><td>1</td></tr><tr><td>y=0.369x² +0.037x+0.848</td><td>1</td><td>44.411</td><td>22.205</td><td>1805.420</td><td>0.000</td></tr><tr><td>残差</td><td>1067</td><td>13.099</td><td>0.012</td><td>二</td><td>二</td></tr></table></body></html>
+
+# 表5不同林分密度下雪岭云杉林IgH-IgD的异速生长关系
+
+Tab.5 Allometric growthrelationshipoflgH-lgDinPicea schrenkianaforestwithdifferentstanddensities   
+
+<html><body><table><tr><td rowspan="2">林分密度 /(株·hm-2)</td><td colspan="5">异速生长回归方程参数</td></tr><tr><td>a</td><td>b</td><td>C</td><td>R²</td><td>F P</td></tr><tr><td>≤300</td><td>-0.1324</td><td>1.1238</td><td>0.3230</td><td>0.7870</td><td>187.8850 <0.01</td></tr><tr><td>300~450</td><td>0.2839</td><td>0.1053</td><td>0.8869</td><td>0.7570 492.1000</td><td><0.01</td></tr><tr><td>450~600</td><td>0.1648</td><td>0.5910</td><td>0.5074</td><td>0.7300</td><td>432.9700 <0.01</td></tr><tr><td>> 600</td><td>0.5791</td><td>-0.4160</td><td>1.0313</td><td>0.7500</td><td>309.3850 <0.01</td></tr></table></body></html>
+
+密度 ${ > } 6 0 0$ 株· $\mathrm { h m } ^ { - 2 }$ 条件下， $\lg H$ 和 $\mathrm { l g } D$ 之间呈极显著关系。
+
+# 3讨论
+
+# 3.1雪岭云杉林各器官生物量及其分配特性分析
+
+植物体内各器官的资源分配模式是植物生长变化的主要研究内容，而环境变化会影响植物各器官生物量的分配[29]。林分密度的变化会使植物种群内个体间相互干扰且竞争生长空间和资源，进而导致各器官生物量所占比例发生变化[30]。本研究表明，随着林分密度的增加，雪岭云杉林各器官生物量均呈现降低的趋势，表明林分密度影响植物个体间器官对于资源的获取，植物通过各器官生物量的调节对资源竞争做出响应[31],以保证植物的正常生长发育；林分密度的增加使得雪岭云杉林将更多的光合产物分配给树干、树皮、树叶和树根，而抑制树枝的生长，表明各器官生物量分配响应不同林分密度具有可塑性[31-33],说明雪岭云杉林通过促进树叶和树干的生长来获取更多的光照，同时促进树根的生长来获取更多的地下水分和矿质养分，这可能是西天山北坡雪岭云杉林对于林分密度增加的响应。
+
+# 3.2雪岭云杉林生长特性的异速生长关系分析
+
+各种环境条件下植物生长的综合表现是植物生物学特性的综合反映[34-35]。本研究发现,雪岭云杉林树高和胸径呈简单异速生长关系，对树高和胸径数据取对数后， $ { \mathrm { l g } } H$ 和 $\mathrm { l g } D$ 呈非线性的异速生长关系。研究发现，随着林分密度的增加，雪岭云杉林树高和胸径均呈现降低的趋势，这是由于林分密度较小时，林木的枝干可以获得足够的伸展空间和光照条件，树根可以获取更多的水分和土壤养分，所以树高和胸径值较大;随着林分密度增大，研究区林地水分和光照受到限制，林木对生长资源和空间存在激烈竞争，从而导致雪岭云杉生长受到限制，故胸径和树高值减小。
+
+雪岭云杉林树高和胸径在不同林分密度下lgH-
+
+![](images/bdd976cdb5ddda85b040ce847789c1ed7f1207ece65148bc3de81cf6df18b970.jpg)  
+图5不同林分密度范围内雪岭云杉林树高-胸径的异速生长模型
+
+Fig.5Allometric growthmodelofheightanddiameteratbreastheightofPiceaschrenkianaforestindiferentstanddensities$\mathrm { l g } D$ 均表现为复杂的非线性异速生长关系，且在林分密度较低时，雪岭云杉林种群间不存在或存在弱竞争关系，其树高和胸径间的异速生长相关性达到最高，因此较小的林分密度有利于研究区林地生产力的增加和树木个体的生长；随着林分密度的增大,雪岭云杉林 $\lg H$ 和 $\mathrm { l g } D$ 的相关性降低，表明植物种群内个体间存在较强的种内竞争。然而已有研究表明树木高度与胸径之间的异速生长关系会随树木的发育而改变，在不同物种功能群中异速指数具有很大差异，因此可能不存在一个简单的、普适的植物高度和直径之间的异速关系[36]。异速生长关系是植物个体间相互作用的结果，因此有关植物生理学、生态学方面的内在机理研究对于探讨植物的异速生长关系尤为重要。
+
+# 4结论
+
+（1）西天山北坡雪岭云杉林各器官生物量大小关系为：树干 $>$ 树枝 $>$ 树根 $>$ 树叶 $>$ 树皮;随着林分密度的增加，各器官平均生物量均呈现降低趋势，同时各器官平均生物量所占整株生物量的百分比呈现不同的变化趋势，其中树枝所占百分比从$3 1 . 4 2 \%$ 降低至 $2 7 . 8 4 \%$ ,树干和树根呈升高趋势，树皮和树叶的变化趋势不显著，而且雪岭云杉林树干、树皮、树枝、树叶和树根生物量的变异系数分别为0.693、0.643、0.741、0.647和0.629。
+
+(2）随着林分密度的增加，西天山北坡雪岭云杉林的树高和胸径均呈现逐渐减小的趋势，其变异系数分别为0.348和0.354。
+
+(3）利用实测的雪岭云杉林树高 $( H )$ 和胸径$( D )$ 数据进行模拟，发现幂函数模型的拟合效果较好，其 $H \mathrm { - } D$ 的回归方程为： $y = 2 . 3 1 2 \times x ^ { 0 . 9 0 0 }$ （ $R ^ { 2 } =$ $0 . 7 6 1 , P { < } 0 . 0 1 \rangle$ ;将树高、胸径数据进行对数转换，并进行二次多项式回归分析，发现该模型拟合效果更佳，其 $\mathrm { l g } H \mathrm { - } \mathrm { l g } D$ 的回归方程为： $y = 0 . 3 6 9 x ^ { 2 } + 0 . 0 3 7 x +$ 0.848( $R ^ { 2 } { = } 0 . 7 7 4 , P { < } 0 . 0 1 )$ 0
+
+(4）在不同林分密度环境中，西天山北坡雪岭云杉林 $\mathrm { l g } H$ 和 $\mathrm { l g } D$ 均表现出复杂的非线性异速生长关系，且 $\lg H$ 和 $\mathrm { l g } D$ 均呈现极显著正相关关系( $P <$ 0.01);随着林分密度的增加,雪岭云杉林 $\mathrm { l g } H$ 和 $\mathrm { l g } D$ 的相关性逐渐降低；个体的树高和胸径可能存在更为复杂的异速生长关系，因此，对树高和胸径之间关系的考察，可考虑从植物生理学、生态学等内在机理方面对雪岭云杉林进行进一步的异速生长研究。
+
+# 参考文献(References）：
+
+[1]Waring R H, Schlesinger W H. Forest ecosystems,concepts and management[J]. Clinical& Experimental Allergy,1985,75: 284.   
+[2]Kramer PJ. Carbon dioxide concentration,photosynthesis,and dry matter production[J]. BioScience,1981,31(1): 29-33.   
+[3]刘广文.森林与碳循环[J].现代农业科技,2007,(19):219-220. [Liu Guangwen. Forest and carbon cycle[J]. Mordern Agricultural Science Technology,2007,(19): 219-220.]   
+[4]Woodwell G M, Whittaker R H,Reiners WA,et al. The biota and the world carbon budget[J]. Science,1978,199(4325): 141-146.   
+[5]范高华,崔桢,张金伟.等.密度对尖头叶藜生物量分配格局及 异速生长的影响[J].生态学报,2017,37(15):5080-5090.[Fan Gaohua, Cui Zhen, Zhang Jinwei,et al. Efects of population density on the biomass allocation and allometric growth of Chenopodium acuminatum[J]. Acta Ecologica Sinica, 2017,37(15): 5080- 5090.]   
+[6]郝建锋,王德艺,李艳,等.不同林分密度下川北白云山地区喜 树人工林的群落结构和物种多样性[J].植物研究,2015,35(5): 772-778.[Hao Jianfeng,Wang Deyi,Li Yan,etal. Effects of stand density on community structure and species diversity of Camptotheca acuminate plantation in Baiyun mountains, Mianzhu district, Sichuan Province[J].Bulletin of Botanical Research, 2015,35(5): 772-778.]   
+[7]康冰,刘世荣,蔡道雄,等.马尾松人工林林分密度对林下植被 及土壤性质的影响[J].应用生态学报,2009,20(10): 2323- 2331.[Kang Bing,Liu Shirong,Cai Daoxiong,et al.Effects of Pinus massoniana plantation stand density on understory vegetation and soil properties[J]. Chinese Journal of Applied Ecology, 2009,20(10): 2323-2331.]   
+[8]Kitterge J.Estimation of amount offoliageof treesand shrubs[J]. Journal of Forestry,1944,42: 905-912.   
+[9]王维枫,雷渊才,王雪峰,等.森林生物量模型综述[J].西北林学 院学报,2008,25(2): 58-63.[Wang Weifeng,Lei Yuancai,Wang Xuefeng,A review of forest biomass models[J]. Journal of Northwest Forestry University,2008,25(2): 58-63.]   
+[10]新疆森林编辑委员会.新疆森林[M].北京:中国林业出版社, 1989.[Xinjiang Forest Editorial Committee.Xinjiang Forest[M]. Beijing: China Forestry Press,1989.]   
+[11] 张瑛山,王学兰,周林生.雪岭云杉林生物量测定的初步研究 [J].八一农学院学报,1980(3):19-25.[Zhang Yingshan,Wang Xuelan,Zhou Linsheng.Primary study on biomass of Picea schrenkiana[J]. Journal of Xinjiang August 1st Agriculture Collge,1980 (3): 19-25.]
+
+[12]兰洁,肖中琪,李吉玫,等.天山雪岭云杉生物量分配格局及异速生长模型[J].浙江农林大学学报,2020,37(3):416-423.[Lan
+
+Jie,Xiao Zhongqi,Li Jimei.Biomass allocation and allometric growth of Picea schrenkiana in Tianshan mountain[J]. Journal of Zhejiang A&F University,2020,37(3): 416-423.]   
+[13] 王燕,赵士洞.天山云杉林生物生产力的地理分布[J].植物生态 学报,2000,24(2):186-190.[Wang Yan, Zhao Shidong.Productivity pattern of Pieca Schrenkiana Var.Tianschanica forest[J].Acta Phytoecologica Sinica,2000,24(2): 186-190.]   
+[14] 张绘芳,高亚琪,朱雅丽,等.新疆雪岭杉生物量模型对比研究 [J].西北林学院学报,2015,30(6):52-58.[Zhang Huifang, Gao Yaqi, Zhu Yali. et al. A comparative study on biomass models for Picea schrenkiana in Xinjiang[J]. Journal of NorthwestForestry University,2015,30(6): 52-58.]   
+[15]孙雪娇,常顺利,张毓涛,等.矿区道路两侧雪岭云杉叶片重金 属富集效应[J].生态学报,2018,38(9):167-176.[Sun Xuejiao, Chang Shunli, Zhang Yutao, et al. Accumulation of heavy metals in Picea schrenkiana leaves growing on roadsides in a mining area [J]. Acta Ecologica Sinica,2018,38(9): 167-176.]   
+[16] 常亚鹏,李路,许仲林.天山北坡雪岭云杉林地开垦的土壤有机 碳损失估算[J].生态学报,2017,37(4):1168-1173.[Chang Yapeng,Li Lu, Xu Zhonglin.Estimation of soil organic carbon loss from Picea schrenkiana forest to farmland in the Northern Tianshan Mountains[J].Acta Ecologica Sinica, 2017,37(4):1168- 1173.]   
+[17] 陈文静,贡璐,刘雨桐.季节性雪被对天山雪岭云杉凋落叶分解 和碳氮磷释放的影响[J].植物生态学报,2018,42(4):487-497. [Chen Wenjing,Gong Lu,Liu Yutong.Effects of seasonal snow cover on decomposition and carbon,nitrogen and phosphorus release of Picea schrenkiana leaf liter in Mt.Tianshan,Northwest China[J]. Chinese Journal of Plant Ecology,2018,42(4): 487-497.]   
+[18]Hu L.Dynamic monitoring of Picea schrenkiana forest biomass in West Tianshan Mountain region of Xinjiang[J].Scientia Silvae Sinicae,2008, 44(10): 14-19.   
+[19] Yutao ZShuai H,Jimei L. Research onbiomassand carbonstorage of Picea schrenkiana var. tianshanica community in Central Tianshan mountain, Xinjiang[C//International Conference on Chemistry & Chemical Engineering, IEEE,2010: 97-101.   
+[20] 李路,常亚鹏,许仲林.天山雪岭云杉林土壤CNP化学计量特 征随水热梯度的变化[J].生态学报,2018,38(22):8139-8148. [Li Lu, Chang Yapeng,Xu Zhonglin. Stoichiometric characteristics of Picea schrenkiana forest with a hydrothermal gradient and their correlation with soil physicochemical factors on Tianshan mountain[J]. Acta Ecologica Sinica,2018,38(22): 8139-8148.]   
+[21] 肖洒,王刚,李良.毛乌素沙地油蒿与杨柴异速生长模式及个体 大小的种内竞争调节[J].中国沙漠,2003,23(1):69-74.[Xiao Sa,Wang Gang,Li Liang.Adjustment of Artemisia ordosica and Hedysarum leave'sallmetric pattern and individual'ssize to the intra-species competition in Mu Us Sandland[J]. Journal of Desert Research,2003,23(1): 69-74.] [22]Peters R. The ecological implications of body size[J]. Journal of Applied Ecology,1983,22(1): 291. [23]Niklas K J. Size-dependent variations in plant growth rates and the 号 $3 / _ { 4 } .$ -power rule'[J].American Journal of Botany,1994,81(2): 134-   
+144. [24] 方精,韩文轩.幂指数异速生长机制模型综述[J].植物生态学 报,2008,32(4): 951-960.[Fang Jing,Han Wenxuan. Review on the mechanism models of allometric scaling laws: 3/4 VS 2/3 Power[J]. Chinese Journal of Plant Ecology,2008,32(4): 951-960.] [25] Thomas W S C.Competition and allmetry in three species of annual plants[J]. Ecology,1992,73(2): 648-656. [26] 张思玉,潘存德.天山云杉人工幼林相容性生物量模型[J].森林 与环境学报,2002,22(3):201-204.[Zhang Siyu,Pan Cunde. Study on the compatible biomass model of Picea schrenkiana young plantation[J]. Journal of Forest and Environment, 2002, 22 (3): 201-204.] [27] 方奇.不同密度杉木幼林系统生产力和生态效益研究[J].林业 科学,2000,36(增刊): 28-35.[Fang Qi. Study on productivity and ecologic benefits of young growth Chinese fir plantations systems in different densities[J]. Scientia Silvae Sinicae,20oo,36(Supl. ):   
+28-35.] [28] 李国新,黎颖锋,邓炳权,等.广东郁南尾巨桉人工林密度效应 [J].林业与环境科学,2017,3(4):9-13.[LiGuoxin,LiYingfeng, Deng Bingquan, et al. Density effects on the growth of eucalyptus urophylla and $E$ ，grandis plantation in Yunan country, Guangdong province[J].Forestryand Environmental Science,2017,33(4): 9-13.] [29] 杜国祯,孙国钧,王兮之,等.垂穗披碱草个体大小依赖的繁殖 分配与种群密度的关系[J].草业学报,1999(2):26-33.[Du Guozhen, Sun Guojun,Wang Xizhi,et al. The relationship between individual size dependent reproductive distribution and population density of Lepidoptera litura[J].Acta Ecologica Sinica,1999(2):   
+26-33.] [30] 安慧,上官周平.密度对刺槐幼苗生物量及异速生长模式的影 响[J].林业科学,2008,44(3):151-155.[An Hui,Shangguan Zhouping,Effectsof density on biomassand allometric pattern of Robinia pseudoacacia seedling[J]. Scientia Silvae Sinicae,2008,44 (3): 151-155.] [31] 平晓燕,贾丙瑞,袁文平,等.羊草种群生物量分配动态模拟[J]. 应用生态学报,2007,18(12): 2699-2704.[Ping Xiaoyan,Jia Bingrui,Yuan Wenping, et al. Biomass alocationof Leymus chinensis population: A dynamic simulation study[J]. Chinese Journal of Applied Ecology,2007,18(12): 2699-2704.] [32] 黄迎新,赵学勇,张洪轩,等.沙米表型可塑性对土壤养分、水分 和种群密度变化的响应[J].应用生态学报,2008,19(12): 2593-   
+2598.[Huang Yingxin, Zhao Xueyong, Zhang Hongxuan,etal. Responses of Agriophyllum squarrosum phenotypic plasticity to the changes of soil nutrient and moisture contents and population density[J]. Chinese Journal of Applied Ecology,2008,19(12): 2593-   
+2598.]
+
+[33]陈静,赵秋玲,王军辉,等.梓树幼苗生物量和异速生长模式的 密度效应研究[J].林业实用技术,2012(5):9-12.[Chen Jing, Zhao Qiuling,Wang Junhui,et al.Study on the density effect of catalpa seedling biomass and heterogenous growth model[J].Applied Forestry Technology,2012(5): 9-12.]
+
+[34]孙志蓉,翟明普,王文全,等.密度对甘草苗生长及甘草酸含量 的影响[J].中国中药杂志,2007,32(21):2222-2226.[Sun Zhirong,Zhai Mingpu,WangWenquan,et al.Effects of density on seedling growth and glycyrrhizinic acid content in Glycyrrhiza ura
+
+lensis[J]. China Journal of Chinese Materia Medica,2OO7,32(21): 2222-2226.]   
+[35]孙志蓉,翟明普,王文全,等.密度对小叶锦鸡儿播种苗生长的 影响[J].北京林业大学学报,2007,29(1):42-46.[Sun Zhirong, Zhai Mingpu,Wang Wenquan,et al. Effects of density on seedling growth of Caragana microphylla Lam.[J]. Journal of Beijing Forestry University,2007,29(1): 42-46.]   
+[36]Givnish T.Adaptation to sun and shade:A whole-plant perspective [J.Functional Plant Biology,1988,15(2): 63-02.
+
+# Effects of stand density on the biomass allocation and tree height-diameter allometric growth of Picea schrenkiana forest on the northern slope of the western Tianshan Mountains
+
+LI Zongying1²， LUO Qinghui1²， XU Zhonglin1.2 (1. College of Resourcesand Environmental Sciences,Xinjiang University,Urumqi 83o046,Xinjiang, China; 2.Key Laboratory of Oasis Ecology,Xinjiang University, Urumqi 830o46,Xinjiang, China)
+
+abstract: Picea schrenkiana is the dominant species widely distributed in the mountain forests on the northern slopes of the Tianshan Mountains.Determining the effects of individual density on the biomass allocation and height-diameter allometric relationship of $P .$ schrenkiana forest is important to clarify the adaptation strategy of $P .$ （204号 schrenkiana in different environments.In this paper,the effects of individual densityonbiomass allocation and the height-diameter allometric relationship of $P .$ schrenkiana forest were studied based on fields investigations of $P .$ schrenkiana forest with different stand densities $( < 3 0 0 , 3 0 0 - 4 5 0 , 4 5 0 - 6 0 0$ ${ > } 6 0 0$ plants $\cdot \mathrm { h m } ^ { - 2 }$ ).Theresults showed that the average biomass of all biomass components and branches alone decreased in $P .$ schrenkiana forest when stand density increased. However,the biomass proportions of stems and roots increased,whereas the proportions of leaves and bark were stable.Both the height and the diameter at breast height (DBH) of the $P .$ schrenkiana individuals decreased with increased stand density.Additionally，this study found that the relationship $y = 2 . 3 1 2 \times x ^ { 0 . 9 0 0 }$ can be used to reliably delineate the allometric growth relationship between the height $( H )$ and the DBH $( D )$ of $P .$ schrenkiana individuals ( $scriptstyle \mathrm { \mathrm { ~ \mathcal { R } ^ { 2 } = 0 . 7 6 1 } }$ ， $P { < } 0 . 0 1$ ).With the increase in individual density,the relationship between $\boldsymbol { \mathrm { l g } } \boldsymbol { H }$ and $1 \mathrm { g } D$ of $P .$ schrenkiana individuals showed a complex nonlinear allometric growth relationship,and the significance of the relationship graduallyreduced with density.This indicates that density had an impact on the resource competition of individuals and affected the growth of organs. The results can be used to inform the sustainable management of $P .$ schrenkiana forest.
+
+Keywords: stand density; picea schrenkiana forest; biomass； allometric growth

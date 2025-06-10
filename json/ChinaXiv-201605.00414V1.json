@@ -1,0 +1,555 @@
+[
+    {
+        "type": "text",
+        "text": "Expression of the inactive ZmMEK1 induces salicylic acid accumulation and salicylic acid-dependent leaf senescence ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yuan Li, Ying Chang, Chongchong Zhao,Hailian Yang and Dongtao Ren\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "StateKeyLaboatorontiooistryfogaciricuralUesitye \\*Correspondence: ren@cau.edu.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractLeaf senescence is the final leaf developmental process that is regulated by both intracellular factors and environmental conditions.The mitogen-activated protein kinase(MAPK) signaling cascades have been shown to play important roles in regulating leaf senescence;however, the component(s) downstream of the MAPK cascades in regulating leaf senescence are not fully understood. Here we showed that the transcriptions of ZmMEK1，ZmSIMK1,and ZmMPK3 were induced during dark-induced maize leaf senescence. Furthermore,in-gel kinase analysis revealed the 42 kDa MAPK wasactivated.ZmMEK1 interacted with ZmSIMK1 in yeastand maize mesophyll protoplasts and ZmSiMK1 was activated by ZmMEK1in vitro.Expression ofa dominant negative mutant of ZmMEK1 in Arabidopsis transgenic plants induced salicylic acid (SA) accumulation and SA-dependent leaf senescence. ZmMEK1 interacted with Arabidopsis MPK4 in yeast and activated MPK4 in vitro.SA treatment accelerated darkinduced maize leaf senescence.Moreover,blockage of MAPK signaling increased endogenous SA accumulation in maize leaves.These findings suggest that ZmMEK1-ZmSIMK1 cascade and its modulating SA levels play important roles in regulating leaf senescence. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Leaf senescence; MAPK cascade; salicylic acid   \nCitation: LiY,Chang Y,Zhao C,Yang H,Ren D(2o16) Expression of the   \ninactive ZmMEK1 induces salicylic acid accumulation and salicylic acid  \ndependent leaf senescence.J Integr Plant Biol XX:XX-XX doi: 10.1111/   \njipb.12465   \nEdited by: Qi Xie,Institute of Genetics and Developmental Biology,   \nCAS, China   \nReceived Aug.17,2015; Accepted Jan.28,2016   \nAvailable online on Jan.29,2o16 at www.wileyonlinelibrary.com/   \njournal/jipb   \n$\\mathfrak { O }$ 2016 Institute of Botany, Chinese Academy of Sciences ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Leaf senescence is the final step of the leaf development processes.The molecular mechanism of leaf senescence was extensively investigated in themodel plant Arabidopsis.It has been established that leaf senescence is a highly regulated process (Guo et al. 20o4; Lin and Wu 2oo4). During senescence, leaf cells undergo changes at the levels of structure,metabolism,and gene expression,including chloroplast breakdown, chlorophyll degradation，macromolecule hydrolysis，nutrient relocation from leaves to maturing seedsand energy metabolism alteration from carbon assimilation to catabolism(Lim et al. 2007; Guiboileau et al.2o1o).These rearrangements are essential for seed formation,including biomass production and yield.Leaf senescence is thus regarded as a yield-limitation phase in crop plants (Gregersen et al. 2013; Thomas 2013). Global gene expression analysis revealed that thousands of genes were upregulated in senescing Arabidopsis leaves.Among these genes, senescence-associated genes (SAGs) were showed to contribute greatly in controlling the onset and progression of leaf senescence (Buchanan-Wollaston et al. 2oo5; Breeze et al. 2011; Li et al.2o12b).A variety of transcription factors,belonging to WRKY,MYB,NAC,bZIP, C2H2-type zinc finger,and AP2/EREBP families, function as important regulatorsaffecting senescence processes (Guo et al. 2oo4; Miao etal.2oo4; Guo and Gan 2006; Guo and Gan 2011; Wu et al. 2012; Jiang et al. 2014). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Leaf senescence is an integrated event of leaf cells sensing and responding to internal and external signals. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Environmental stresses，such as osmotic stress，extreme temperature,nutrient limitation,pathogenattacks,and light intensity and quality，have great influences in initiation and progression of leaf senescence (Lim et al. 2007). Hormones have been shown to play important roles in leaf senescence.Auxin and cytokinin act as negative regulators, while ethylene,salicylicacid,jasmonicacid,and abscisicacid act as positive regulators in leaf senescence regulation (Guo and Gan 2012; Jibran et al. 2013; Zhang et al. 2013). However, the molecular mechanisms of how these internal and external signals are transduced and integrated to finally influence leaf senescence need to be elucidated.To date，only a few components mediating signal transduction during leaf senescence have been identified.For example,soybean SENESCENCEASSOCIATED RECEPTOR-LIKE KINASE(GmSARK) and its Arabidopsis homolog AtSARK are demonstrated to regulate leaf senescence through synergistic actions of auxin and ethylene (Xu et al. 2o11),indicating that the receptor-like kinase(s) may function as key factor(s) in leaf senescence regulating signaling pathways. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mitogen-activated protein kinase (MAPK) cascades are highly conserved signaling modules in all eukaryotes.A typical MAPK cascade is composed of three protein kinases:MAPKKK (as MAP3K/MEKK)，MAPKK (as MKK/MEK),and MAPK(as MPK)，which sequentially phosphorylate and therefore activate in special ways to convey signals from upstream receptors to downstream targets (Ichimura etal.2oo2).MAPK cascades are found in all studied plant species through the analysis of genome sequences and activities of MAPKs response to external stimuli (Rodriguez et al. 2o1o).The Arabidopsis genome contains 6o MAPKKKs,10 MAPKKs,and 20 MAPKs (lchimura et al. 20o2; Jonak et al. 2002).By sequence comparison and signature motif searches,orthologs of Arabidopsis MAPK genes in many other plant species, such as Medicago truncatula, tobacco,maize (Zea mays),and rice (Oryza sativa),have been identified and characterized (Rodriguez etal.2o1o).Some MAPK members in plant species without genome sequence information were either cloned based on the partial protein sequence (as sucrose activated CfSAPK in Cephalostachyum fuchsianum Gamble)(Li et al. 2012a) or depended on homolog sequence information from other species (as ZmMKK4and ZmMPK3 in maize)(Wang et al. 2010a; Kong et al. 2011). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MAPK cascades participate in numerous biological pro cesses of plant growth and development (Rodriguez et al. 2010).Tobacco NPK1-NQK1-NRK1 cascade and Arabidopsis $\\mathsf { A N P 1 } / 2 / 3$ -MKK6-MPK4 cascade are known to regulate cytokinesis (Soyano et al.2003;Kosetsu et al. 201o). YDA-MKK4/5- $M P K 3 / 6$ pathway negatively regulates stomatal development in Arabidopsis (Pillitteri and Dong 2o13). Recently it has been found that MKK9-MPK6 cascade plays a role in leaf senescence in Arabidopsis (Zhou et al.2oo9).An in-gel kinase assay showed ZmMPK5 is activated in senescing leaves of maize (Berberich et al. 1999), implicating the involvement of MAPK pathways in leaf senescence in maize.However,the molecular mechanism of MAPK cascades modulating leaf senescence is not fully understood.In this article,we show that ZmMEK1，a maize MAPK kinase，is involved in leaf senescence. Biological analyses revealed ZmSlMK1 isa downstream MAPK of ZmMEK1. In transgenic Arabidopsis plants,expression of ZmMEK1 dominant negative mutant $( Z m M E K 1 ^ { K R } )$ leads to early leaf senescence.We further showed that endogenous salicylic acid (SA）accumulation induced by $Z m M E K 1 ^ { { \\overline { { { \\kappa } } } } { K R } }$ expression is required for the early leaf senescence.Exogenous SA treatment enhances darkinduced leaf senescence in maize,suggesting the positive role of SA in maize leaf senescence regulation.Our data indicate that this ZmMEK1-ZmSIMK1 cascade plays an important role in modulating leaf senescence. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "reduced chlorophyll contents and increased ion leakage compared with untreated leaves (Figure 1B).We observed that the IDLs in the presence of PDg8o59 showed much more severe senescence phenotype than the control both at 2and 4 d in darkness (Figure 1A). Also,at each time point,the chlorophyll contents were always lower and the membrane ion leakage Was always higher in IDLs with PD98059 treatment than that in IDLs without PDg8o59 treatment (Figure 1B).These data indicated that treatment with PD98o59 on IDLs accelerates the rate of senescence induced by darkness.Furthermore, the in-gel kinase assay showed a 42-kDa kinase isactivated in the IDLsat 4 d in dark,and the activity of kinase disappeared in leaves treated with PD98059 andexhibited an accelerated senescence symptom (Figure 1C).Another 46-kDa kinase detected in all samples was considered as unspecific activation (Figure 1C). Inactivation of MAPKK-accelerated dark-induced leaf senescence suggested that a certain MAPK cascade may negatively regulate leaf senescence in maize plants. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To date,four maize MAPKK (ZmMKK1,-3,-4,and ZmMEK1) (Hardin and Wolniak 1998; Kong et al. 2011; Zhang et al. 2012; Caiet al.2014) and seven MAPK(ZmMPK3,-4,-5,-6,-7,-17, and ZmSIMK1) (Berberich et al. 1999; Gu et al. 2010; Wang et al. 2010a;Pan et al.2o12） have been identified.Due to the difficulty in generating knock out mutants for all known MAPKKs and MAPKs,it is hard to rule out which MAPKK(s) and MAPK(s) mediated the leaf senescence.To explore the potential MAPKK(s) and MAPK(s)，we then examined the transcript levels of the known MAPKK and MAPK genes in IDLs by quantitative real-time reverse transcription polymerase chain reaction (qRT-PCR).As shown in Figure 1D,the transcript levelsof ZmMEK1,ZmSIMK1,and ZmMPK3 displayed significant increase in leaves treated with dark for 1，2，and 3 d, respectively，compared with control，and these increases were observed in all leaves with or without PDg8o59. ZmMEK1 was gradually induced from 1 to 3 d of dark treatment.In the absence of PDg8o59,expressions of ZmSIMK1 were dramatically increased at o.5,1,and 2 d of dark treatment and then reduced at 3 d,whereas ZmSIMK1 displayed gradual increases from 0.5 to 3 d of dark treatment in the presence of PD98059. The change in the expression of ZmMPK3 was similar to ZmSIMK1,except for no obvious alteration at $0 . 5 { \\ : } { \\mathsf { d } }$ (Figure 1D). In leaves with dark treatment for 4 d,the expression of all these genes exhibited dramatic reduction compared with control ( $\\stackrel { \\prime } { < } 0 . 0 1$ -fold)(Figure 1D)，possibly due to severe cell death in senescent leaves (Figure 1A，B).However，the transcript levels of the other three MAPKKs and five MAPKs did not show significant changes $( < 2 . 5$ -fold) in dark-induced senescing leaves either in the presence or absence of PD98059 (Figure S1). These results demonstrated that darkinduced leaf senescence promotes the transcription of ZmMEK1，ZmSIMK1，and ZmMPK3，implying that ZmMEK1, ZmSIMK1,and ZmMPK3 might be the candidate members of MAPK in negatively regulating the leaf senescence process. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Blockage of MAPK signaling accelerates dark-induced leaf senescence in maize ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To explore whether MAPK signaling cascades are involved in the regulation of leaf senescence in maize,we first examined the rate of leaf senescenceaffected by PDg8o59,an inhibitor of MAP kinase kinase activity (Dudley et al. 1995). To obtain more synchronous and a better controlled process of senescence，we exploited the experimental system of individually darkened leaves (IDLs)developed by Weaver and Amasino (2oo1) which has been demonstrated to share many responses to natural and age-dependent senescence (Keech et al.2oo7). Dark treatment was applied to the second leaves of 2-week-old maize seedlings.For 2 d in darkness, leaves turned yellow，which was a particular feature of senescence (Figure 1A).Senescence became more pronounced at 4d(Figure 1A).Thiswas qualified by the gradually ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ZmSIMK1isadownstream MAPKofZmMEK1 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To further investigate whether the ZmSiMK1and $Z _ { Ḋ } \\mathsf { m } M _ { Ḋ } \\mathsf { P } { \\mathsf { K } } _ { 3 } Ḍ$ are downstream MAPKs of ZmMEK1,we examined the interactions between ZmMEK1 and ZmMPK proteins using the yeast two-hybrid (Y2H) system.In the Y2H system,strong interaction between ZmMEK1 and ZmSiMK1 was observed, while ZmMEK1 did not interact with other MAPKs,such as ZmMPK3，-4，-5，-6 -7,and -17 (Figure 2A). The interaction between ZmMEK1 and ZmSIMK1 was confirmed in planta by co-immunoprecipitation (ColP) assay using maize mesophyll protoplasts.When 35S:Myc-ZmMEK1 and 35S:Flag-ZmSIMK1 fusion proteins were transiently co-expressed in maize mesophyll protoplasts，the Flag-ZmSiMK1 fusion protein, but not Flag-ZmMPK3 or-5,could be co-immunoprecipitated with Myc-ZmMEK1 (Figure 2B).These results suggested that ZmMEK1 interacts specifically with ZmSIMK1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a204b11be28f2c4d6f35a9a263374c3be3ce6119e1a18a24136cca640b30584b.jpg",
+        "img_caption": [
+            "Figure1.Inactivationofmitogen-activatedproteinkinase(MAPK)signalingacceleratesdark-induced leafsenescence nmaize plants,and transcript levels of ZmMEK1, ZmSIMK1,and ZmMPK3 increase indark-induced senescent leaves (A),(B)Eectsof MAPKK inhibitorPDg8o59ondark-induced leaf senescence.(A)The second leavesof 2-week-old maize seedlings were pretreated with $2 0 0 \\mu \\mathrm { m o l } / \\ L$ PD98059 $( + )$ or mock $( - ) ,$ ，and then covered with aluminium foil to induce senescencefor2or4d,respectively.Thesecondleavesof2-week-oldmaizeseedlingswithouttreatmentwereusedasacontrol (CK). Bar $= 2 c m$ .(B) Chlorophyll(Chl) contents and membrane ion leakage in the leaves with indicated treatment.Three biological replicates were performed.Student's t-test analysis indicated the difference is significant( $^ { * } P < 0 . 0 5 , ^ { * * } P < 0 . 0 1 \\AA$ . Error bars indicate SDfromtriplicate experiments.FW,fresh weight.(C)MAPKactivities inthe leaves with indicatedtreatment were detected by in-gel kinase assay using MBPas substrate (top).Image of Coomassie blue(CBB)staining was usedasaloading control (bottom).(D) Expression of ZmMEK1, ZmSIMK1,and $Z m M P K _ { 3 }$ in leaves described in (A),as determined by quantitative real-timereversetranscriptionpolymerasechainreaction.Representativefoldchangesnormalizedtothetranscriptlevelsofthe control (K) leaves discribedin(A).Eror bars indicate SDfrom triplicateexperimentsandasterisksindicate significant differences between the dark-induced senescent leaves and CK ( $^ { * } P < 0 . 0 5$ ， $^ { * * } P < 0 . 0 1$ ,t-test). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To determine whether ZmMEK1 can phosphorylate and activate ZmSIMK1,we performed in vitro kinase assays using FLAG-tagged recombinant ZmMEK1 and His-tagged ZmSIMK1, ZmMPK3，and ZmMPK5.For activation of MAPKKs，the phosphorylation of conserved serine (S）and/or threonine (T)residues located in the kinase activation loop is required. Substitution of these S/T residues with aspartic acid (D)or glutamic acid (G) has been used to mimic constitutively active forms of MAPKKs.Similarly,kinase inactive form of MAPKKs can be obtained by replacing a conserved lysine (K) residue for arginine (R） in the adenosine triphosphate (ATP)-binding domain.This approach of mutations triggering constitutive activation and inactivation of protein kinase has been a powerful strategy for functional studies of MAPKKs in plants (Ren et al.20o2; Takahashi et al. 20o7; Liu et al. 2oo8). As such, we generated a constitutively active form of ZmMEK1 (as $Z _ { Ḋ } \\mathrm { m } \\bar { M } E K 1 Ḍ ^ { \\mathsf { D } { \\mathsf { D } } } )$ by substituting the conserved $S _ { 2 2 1 / \\top 2 2 7 }$ in the activation loop with $D /  D$ and a constitutively inactivate form $( Z \\mathsf { m } M \\mathsf { E } \\mathsf { K } 1 ^ { \\mathsf { K } \\mathsf { R } } )$ by mutating the conserved K10o of the ATPbinding site with R.The wild type ZmMEK1 is correspondingly named as $Z \\mathsf { m } M \\mathsf { E } \\mathsf { K } 1 ^ { \\mathsf { W } \\mathsf { T } }$ ，We expressed and purified FLAGtagged ZmMEKiWT， ZmMEK1DD，and ZmMEKiKR，and Histagged ZmSIMK1，ZmMPK3，and ZmMPK5 proteins，from Escherichia coli to testwhether ZmMEK1activates ZmSiMK1 in vitro． Autophosphorylation assays showed thatboth $Z _ { Ḋ } \\mathrm { m } { \\cal M } \\sf E K 1 ^ { \\mathrm { w } \\mathrm { T } }$ and $Z _ { Ḋ } \\mathrm { m } { \\cal M } E { \\sf K } _ { 1 } { } ^ { \\mathsf { D D } }$ had autophosphorylation activity ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b8298f3eeb6323857b44f8249f6a8a401e482d6c8cbba53ebfbea2ac7c3bc235.jpg",
+        "img_caption": [
+            "Figure2.Interactionof ZmMEK1and ZmSIMK1,and ZmMEK1 specifically phosphorylates ZmSIMK1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(A)Interaction between ZmMEK1 and ZmSIMK1 in the Y2H assay.ZmMEK1 fusions to GAL4 activating (AD） domain was coexpression with GAL4 binding domain fused ZmMPKs in yeast cels.Interaction was examined by yeast cell growth on synthetic defined (SD) medium lacking His,Leu,Trp,and Ade (upper panel),followed by assays for $\\beta$ -galactosidase activity (β- gal,bottompanel).(B)CoimmunoprecipitationofZmMEK1andZmSIMK1invivo.Maize mesophyllprotoplastsweretransfected with35S:Myc-ZmMEK1and35S:Flag-ZmSIMK1/35S:Flag-ZmMPK3/35S:Flag-ZmMPK5asindicated.Total proteins extracted from protoplasts were immunoprecipitated withanti-Mycagarose beads.Totalproteins(Input)andtheimmunoprecipitatedproteins (right panel) were detected usinganti-Mycantibodyoranti-Flagantibody.(C)Autophosphorylationasayforrecombinant ZmMEK1 proteins in the presence of $\\boldsymbol { M } \\boldsymbol { \\mathsf { n } } ^ { 2 + }$ or ${ \\cal M } \\mathrm { g } ^ { 2 + }$ . Bacterially expressed Flag-tagged wild-type ZmMEK1 (ZmMEK1WT), constitutively active variant $( \\boldsymbol { Z } \\mathsf { m } \\boldsymbol { M } \\mathsf { E } \\mathsf { K } _ { 1 } ^ { \\mathsf { D } \\mathsf { D } } )$ and inactive variant $( Z \\mathsf { m } M \\mathsf { E } \\mathsf { K } 1 ^ { \\mathsf { K } \\mathsf { R } } )$ were purified and used in in vitro kinase assays. Proteins were seperatedbysodiumdodecylsulfate polyacrylamide gel electrophoresis (SDS-PAGE)and exposed to X-ray film (toppanel),anddetectedwithanti-Flagantibody(bottompanel).(D)InvitroactivationassayofZmSIK1byZmMEK1.Purified Flag-tagged ZmMEK1 recombinant proteins were incubated with $( + )$ or without(-) His-tagged ZmSIMK1/ZmMPK3/ZmMPK5as shown in a kinase reaction system for 3o min.Then the kinase activities of $Z \\mathrm { m } { 5 } \\vert { M } { \\sf K } _ { 1 } / Z \\mathrm { m } { M } { \\sf P } { \\sf K } _ { 3 } / Z \\mathrm { m } { M } { \\sf P } { \\sf K } _ { 5 }$ were detected by an ingelkinaseassay using MBPassubstrateandsubjected toautoradiography(toppanel).The protein amounts were indicated by the immunoblotting withanti-Flag(midle panel)andanti-His antibody(bottom panel).(E)Interactions between ZmMEK1 variantsand ZmSIMK1 inpul-downassay.Recombinant His-tagged ZmSIMK1 wasincubated with Flag-tagged ZmMEK1WT, ZmMEK1DD,and $Z \\mathsf { m } M \\mathsf { E } \\mathsf { K } 1 ^ { \\mathsf { K R } }$ ,respectively,in the kinase reation buffer for 3o min. His-tagged green fluorescent protein(GFP) was usedascontrol.Total proteins were detectedusinganti-Hisantibodyandanti-Flagantibody.Chelating SepharoseFast Flow affinitied $\\mathsf { N i } ^ { 2 + }$ was used to pull down His-tagged ZmSIMK1 and GFP.ZmSIMK1and GFP were detected with anti-His antibody and anti-Flag antibody was used to detect their interacting proteins (right panel). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "in the presence of Mn²+ or Mg2+ ions, whereas, ZmMEK1KR had no detectable autophosphorylation activity (Figure 2C). Autophosphorylation activity of ZmMEK1WT suggested the ZmMEK1 belongs to the autoactive class of MAPKK(Kiegerl et al.2ooo; Cardinale et al. 20o2; Xu et al.2oo8).We further detected the kinase activities of ZmSIMK1 using an in-gel kinase assay with Myelin basic protein (MBP)as substrate.As shown in Figure 2D，ZmSiMK1 exhibited kinase activities toward the substrate MBP in the presence of ZmMEK1WT and ZmMEK1DD，while no kinase activities were detected for ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$Z _ { Ḋ } \\mathsf { m } M _ { Ḋ } \\mathsf { P } { \\mathsf { K } } _ { 3 } Ḍ$ or ZmMPK5.The pull-down assays confirmed the physical interactions of ZmSIMK1with ZmMEK1WT,ZmMEK1DD orZmMEK1KR，respectively.ZmMEKiWT，ZmMEK1DD，and ZmMEK1KR could be detected in the pull-down samples of ZmSIMK1,but not in that of His-tagged green fluorescent protein (GFP)(Figure 2E). ZmMEK1KR also was pulled down by ZmSIMK1,indicating that the site mutation in ATP-binding domain of ZmMEK1 onlyabolished its kinaseactivity toward the downstream MAPK(s) but not the ability of interaction with its target(s).To our surprise，the kinase activity of ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ZmSIMK1 activated by ZmMEK1DD was lower than that by ZmMEK1WT，which is not consist with several previously reported MAPKKs,such as MKK4,-5,-3,-9 in Arabidopsis and NtMEK2 in tobacco (Ren et al.2oo2; Ren et al. 2oo8; Xu et al. 2014).The reason for this unexpected phenomenon is currently unknown. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Taking these results together,we suggest that ZmSIMK1 is a downstream MAPK of ZmMEK1. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Expression of the inactive ZmMEK1 in transgenic Arabidopsis plants inducesearly leaf senescence ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In order to explore the possible function of ZmMEK1,we generated transgenic Arabidopsis lines expressing GFP-tagged ZmMEK1WT,ZmMEK1DD,andZmMEK1KRunderthecontrolofthe Cauliflower mosaic virus 35S promoter.Two independent homozygous transgenic lines for each construct were used for later experiments.An empty vector transgenic line expressing GFP (35S:GFP) was created as a control.To validate the suitability of gene expression in Arabidopsis，we first confirmed the expression of all ZmMEK1 and GFP constructs by Western blotting.Bands of expected molecular weights were detected for all GFP fusion proteins (Figure S2).As shownin Figure 3A,ZmMEKiWTand ZmMEKiDD expressinglines showed no obvious phenotypes compared with the vector control,but the two ZmMEK1KR expressing lines showed early leaf senescence phenotype,displaying dwarfism and earlyyellowingrosette leaves,visibleat5weeksaftergermination (Figure 3A). Consistently， leaves of both ZmMEKiKR plant (5-week-old) retained half its chlorophyll contentsand about two-fold of membrane ion leakage compared with that in Vector，ZmMEKiWT, and ZmMEKiDD plants (Figure 3B,C). Transcript levels of SAG12,a well-used senescence-associated gene,increased dramatically in ZmMEK1KR plants (Figure 3D). These data demonstrated that expression of the inactive ZmMEK1KR in Arabidopsis causes early leaf senescence. Notably, $Z m M E K \\boldsymbol { 1 } ^ { K R }$ transgenic line 17 exhibited more severe phenotype of dwarfism and early-yellowing leaves than line 24 (Figure 3A).We also found that ZmMEK1KR line 17 has a higher ZmMEKiKR expression level than line24 (Figure S2).This suggested a correlation between the $Z _ { Ḋ } \\mathrm { m } { \\cal M } E K 1 ^ { \\bar { \\mathsf { K } } { \\mathsf { R } } }$ protein level and the ZmMEK1KR-induced leaf senescence. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Expression of $z m M E K 1 ^ { K R }$ promotes SA accumulation in transgenic plants ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To elucidate the molecular mechanism of early senescence caused by the expression of $Z m M E K \\boldsymbol { 1 } ^ { K R }$ ，we determined the transcript levels of ethylene (ET-), jasmonic (JA-)，and SAresponsive genes，respectively，in the Vector， ZmMEKiWT, ZmMEK1DD， and $Z m M E K 1 ^ { K R }$ transgenic Arabidopsis plants. The transcript levels of SA-responsive genes，PR1 and PR5, increased dramatically in ZmMEK1KR plants,but no obvious change was detected in other transgenic plants (Figure 4A). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A ZmMEK1WT ZmMEK1DD ZmMEK1KR Vector 47 62 6 25 17 24 水米 B C 1.5 35 SAG12 \\*\\* \\*\\* (%) gbeeee gg 30 T 90 \\*\\* 25 \\*\\* 80 0.9 \\*\\* \\*\\* 20 70 0.6 15 60 10 2 0.3 5 0 0 0 Vector 4762 6251724 Vector 4762 625 1724 ctor 4762 6 25 1724 2 le galy K1WT ZmMEK1WT ZmMEK1DD ZmMEK ZmMEK1WT ZmMEK1DD ZmMEK1KR mMEK1 MEK ZmMEK1KR ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A 700 PR1 50 PR5 500 \\* 40 \\* 400 30 300 \\* 20 \\*\\* 200 ■ 10   \n(ploj) 5 0 出 0 1 2.0 ERF2 3.0 ACS6   \nreeeeeeeiteen 2.5 \\* 中 1.5 水 2.0 1.0 i 1.5 台 0.5 105 1 0 0   \nR 2.0 PDF1.2 3025 LOX2 1.5 2.0 105 水 1510 0.5 1 0 0 ctor 47626251724 47 6262517 24 Veu K1KR Veu EK1WT EK1DD K1KR ZmMEK1WT ZmMEK1DD nMB 公 mMB ME ME EK ZmN Zm 2   \nB 5 \\*\\* [T- b/r) t I1) 4 3 \\*\\* T 2 1 0 ector 47626251724 Vec EK1WT EK1DD mMEK1KR nMEK ZmMEK ZmN Zm ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The transcript levels of ET-responsive genes (as ERF2 and ACS6) and JA-responsive genes (as PDF1.2 and LOX2) did not show significant alteration in all tested genotypes.These results suggested that SA signaling pathway may mediate $Z m M E K \\boldsymbol { 1 } ^ { K R }$ -induced early leaf senescence.We then measured ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "SA levels in Vector， ZmMEKiWT， ZmMEK1DDand ZmMEK1KR transgenic plants.As shown in Figure 4B，two lines of ZmMEK1KR plants accumulated five- to eight-fold higher levels of SA than Vector,ZmMEK1WT,and ZmMEKiDD plants.The result suggested that expression of ZmMEKtKR in Arabidopsis transgenic plants increases SA accumulation and enhances SA-responsive genes expression. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Early leaf senescence induced by ZmMEKiKR dependent on SA accumulation ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To further know whether elevated SA level induced by $Z \\mathsf { m } M \\mathsf { E } \\mathsf { K } 1 ^ { \\mathsf { K } \\mathsf { R } }$ expression is required for the leaf senescence phenotype,we generated ZmMEK1KR/nahG and $Z m M E K 1 ^ { K R } /$ eds5-1 plants by crossing ZmMEK1KR with the nahG transgenic plant (nahG codes a SA-degrading salicylate hydroxylase) or with eds5-1 mutant (eds5-1 is defective in SA biosynthesis), respectively (Rogers and Ausubel 1997; Zhou et al. 1998). As shown in Figure 5A,when the rosette leaves of ZmMEK1KR plants become yellow，the leaves of ZmMEK1kR/nahG and ZmMEK1KR/eds5-1stillstay as green as the Vector control plants (Figure 5A).Consistently， the chlorophyll contents and membrane ion leakage in leaves of ZmMEK1KR/nahG and ZmMEK1KR/eds5-1 plants restored to the levels in Vector plants (Figure 5B).As expected,the SA levels in ZmMEK1kR/nahG and ZmMEK1KR/eds5-1 plants were significantly reduced and reached the level of Vector control plants (Figure 5C).These results demonstrated the phenotype of early leaf senescence caused by ZmMEK1KR can be rescued by reducing endogenous levels of SA,suggesting that ZmMEK1KR-induced leaf senescence is SA-dependent. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ZmMEK1activates Arabidopsis MPK4 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Since no obvious phenotype of early leaf senescence or SA Over-production Was detected in ZmMEK1WT or ZmMEK1DD transgenic Arabidopsis plants but only in $Z m M E K \\boldsymbol { 1 } ^ { K R }$ plants, we inferred that the introduction of ZmMEKiKR suppressed at least one Arabidopsis MAPK pathway which functions as a negative regulator of senescence and then results in early leaf senescence and SA accumulation.To identify which MAPK pathway(s)are blocked by $Z \\mathsf { m } M \\mathsf { E } \\mathsf { K } 1 ^ { \\mathsf { K } \\mathsf { R } }$ ,we need to determine the Arabidopsis MPK(s) activated by ZmMEK1.Phylogenetic analysisshowed that the homologof ZmMEK1in Arabidopsis is MKK6 (Figure S3).A previous study has reported that MKK6 phosphorylated MPK4 (Kosetsu et al.201o）which is the Arabidopsis ortholog of ZmSIMK1 (Guet al.201o;Figure S3). Accordingto the above data that ZmMEK1 interacted with ZmSIMK1 in maize protoplast,we inferred that MPK4 might be the downstream component of ZmMEK1in Arabidopsis.So we first tested the relationship of ZmMEK1 and MPK4 using the Y2H system and found that ZmMEK1 strongly swith MPK4, but not MPK5,MPK12,MPK13,MPK3,MPK6 (self-activation), and MPK1o in yeast (Figure 6A).Then,we performed an in-gel kinase assay using recombinant His-tagged MPK4 and Flagtagged ZmMEK1 mutant proteins.As shown in Figure 6B, MPK4 was activated by ZmMEK1WT.These results suggested that MPK4 is the downstream target MAPK of ZmMEK1 in Arabidopsis. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Effect of SA in dark-induced leaf senescence in maize The result that expression of ZmMEKiKR in transgenic Arabidopsis plants induced SAaccumulation and subsequently ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e2ce7348860d797a3d12259bd4aee39e7f668c58ccb6ff2b6c87ab1e7635c3c.jpg",
+        "img_caption": [
+            "Figure5. Early leaf senescence caused by ZmMEK1KR dependent on SA accumulation ",
+            "(A)The senescence phenotypes of 7-week-old Vector, $\\dot { Z } \\dot { m } \\dot { M } E K 1 ^ { K R }$ ，ZmMEK1KR/nahG，and ZmMEKiKR/eds5-1 plants. B $\\mathtt { a r } = 1 \\mathtt { c m }$ .(B）Chlorophyll (Chl） contents and membrane ion leakage，and (C) total SA levels in leaves of Vector, ZmMEK1KR， ZmMEK1KR/nahG，and ZmMEK1KR/eds5-1 plants. The third pair leaves of each plant grown for7 weeks were subjected to analysis.Error bars indicate SD from triplicate experiments,and asterisks indicate significant differences between the Vector， ZmMEK1KR，ZmMEKiKR/nahG，and ZmMEK1KR/eds5-1 plants and Vector $^ { \\ast } P < 0 . 0 5$ ， $^ { * * } P < 0 . 0 1$ ， t-test). "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/05f432863ff236fb510d870cee80b67535b62a29b8439b288d6cef828e3cef5b.jpg",
+        "img_caption": [
+            "Figure 6.ZmMEK1activates Arabidopsis MPK4 in vitro (A) Interaction between ZmMEK1and MPK4 in the yeast twohybrid (Y2H） assay. ZmMEK1 fusions to GAL4 activating domain(AD)was coexpression with GAL4 binding domain fused MPKs in yeast cells.Interaction was examined by yeast cell growth on synthetic defined(SD) medium lacking His, Leu, Trp，and Ade (upper panel)，followed by assays for ${ \\mathsf { \\beta } }$ galactosidase activity (β-gal,bottom panel).(B) An activation assay of ArabidopsisMPK4by ZmMEK1in vitro.Recombinant Flag-tagged ZmMEK1 mutant proteins were incubated with $( + )$ or without $( - )$ His-tagged MPK4 in a kinase reaction system.The kinase activities of MPK4 were detected by in-gel kinase assay using MBP as substrate and subjected to autoradiography (top).The protein amounts of Flag-tagged ZmMEK1 mutant proteins (middle) and His-tagged MPK4 (bottom) are shown by immunoblotting with anti-Flag and anti-Hisantibody,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "SA-dependent leaf senescence,led us to speculate that SA may also play a role in leaf senescence in maize.We thus analyzed the effect of SA on maize IDLs.The second leaves of 2-week-old maize seedlings were injected with different concentrations of SA and then covered by aluminum foil to induce leaf senescence.After 4 d in dark,the IDLs in the absence of SA displayed symptoms of leaf senescence,such as leaves turning yellow,chlorophyll content decreasing and ion leakage increasing (Figure 7A,B,o mmol/L SA).With the concentration of SA increasing，the symptoms of leaf senescence in IDLs became more pronounced.In IDLs with 1.0 mmol/L SA treatment,obvious necrotic phenotype was visualized on the tip of the leaves.When the concentration of SA increased to $2 . 0 \\ : \\mathrm { m m o l } / .$ ，the necrotic phenotype became more apparent to one-third of the treated leaves (Figure 7A). The chlorophyll contents and membrane ion leakage were consistent with the phenotype (Figure 7B).The data suggested that SA positively regulates leaf senescence in maize. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A 4 Days in d:   \nXI   \nB 0.8 0.4 0.2 0 30 (%) ehgeeai 25 20 \\* 15 i 10 uo 5 0 CK01.02.0 mM SA 4 Days in dark   \nC 15 (- 6/6m) S I 12 9 农 3 \\* \\*工 T 6 Tttl 3 0 上 CK -+ =+ 二+ 二+ 二+ PD98059 0.5 1 2 3 4 Days in dark ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Next,we determined the endogenous SA levels in maize IDLs treated with or without PDg8o59.As shown in Figure 7C, SA content gradually increased from $0 . 7 6 \\pm 0 . 0 0 4 \\mu \\mathrm { g } / \\mathrm { g }$ fresh weight (FW) in control to $7 . 5 9 \\pm 0 . 0 1 1 \\mu \\mathrm { g } / \\mathrm { g }$ FW in leaves of dark treatment at 4 d without PDg8o59 and to $1 2 . 8 4 \\pm$ $0 . 1 9 2 \\mu \\mathrm { g } / \\mathrm { g }$ FW in IDLs at 4 d upon PD98o59 treatment, indicating that the SA levels increase with the extent of senescence.In the presence of PDg8o59,senescent leaves accumulated more SA than leaves without PDg8o59 at each point,which is consistent with the phenotype that PD98059 accelerated maize leaf senescence (Figure 1A). These data suggested that senescence induces endogenous SA accumulation in maize leaves and SA participates in MAPK cascademediated dark-induced leaf senescence. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Leaf senescence is a critical process for seed quality determination in plants because of the relocation of biomass and energy from senescing leaves to seeds at this developmental stage.The mechanism of leaf senescence regulation and signal transduction in crop plants is important but poorly understood.Previous studies revealed that soybean receptorlike kinase GmSARK，Arabidopsis AtSARK，and Arabidopsis MKK9 positively regulate leaf senescence (Zhou et al.2oo9; Xu et al.2o11).In this study,we tried to identify a certain MAPK signaling cascade that may also be involved in the regulation of maize leaf senescence.By in-gel kinase activity assay and gene transcription detection,we found that a 42 kDa MAPK Was activated and ZmMEK1，ZmSIMK1，and ZmMPK3 gene transcriptions were strongly induced during dark-induced leaf senescence (Figure 1C，D).Although we currently did not know whether the 42kDa MAPKis ZmSIMK1 or ZmMPK3or other maize MAPK，the alteration of MAPK activity and transcription levels of MAPKK and MAPKs during leaf senescence suggest the involvement of MAPK cascade(s) in maize leaf senescence. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Does the MAPK cascade positively or negatively regulate leaf senescence? Due to the lack of MAPK and MAPKK loss-offunction maize mutants,we treated leaves with MAPKK activities specific inhibitor PDg8o59 (Beck et al. 2010; Wang et al.2o1ob) and checked the senescence phenotypes.The inhibitor treatmentabolished the activity of the 42 kDa MAPK, reduced transcription induction of ZmMEK1,ZmSiMK1,and ZmMPK3,and accelerated dark-induced leaf senescence rate (Figure 1).The results imply that the MAPKK and MAPKs may function as a cascade to negatively regulate maize leaf senescence.ZmMEK1 was a previously cloned maize MAPKK gene，but its biological function has not been unraveled (Hardin and Wolniak 1998). In previous studies,biological functions of MAPKK genes were usually studied by inducing expression of a constitutively active mutant in transgenic plants,such as Arabidopsis $M K K 3 ^ { D D }$ (Takahashi et al.2007), $\\scriptstyle { M K K g ^ { D D } }$ (Xu et al. 2008), and $M K K _ { 4 } ^ { D D } / M K K _ { 5 } ^ { D D }$ (Wang et al. 2007). Unfortunately，ZmMEKiDD and $Z m M E K 1 ^ { \\boldsymbol { W T } }$ expressing plants did not show an obvious phenotype (Figure 3B).We showed that $Z \\mathsf { m } M \\mathsf { E } \\mathsf { K } 1 ^ { \\mathsf { K } \\mathsf { R } }$ aninactivemutant of ZmMEK1with ATP binding site mutated,still retained the ability of binding with the downstream MAPK (Figure 2D，E).Therefore, $Z m M E K \\boldsymbol { 1 } ^ { K R }$ was used as dominant-negative mutant and was overexpressed in Arabidopsis transgenic plants.Overexpression of ZmMEK1KR induced an early senescence phenotype, suggesting that ZmMEK1 mediated MAPK cascade negative regulation of leaf senescence.Furthermore, the findings that ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ZmMEK1 interacts with Arabidopsis MPK4(Figure 6) imply that ZmMEK1KR may bind with MPK4 in its transgenic Arabidopsis plants and then interfere with MPK4-mediating signals to lead to early senescence phenotype. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In conserved MAPK cascade，downstream MAPKis phosphorylated and activated by upstream MAPKK and then transduces the signal to the downstream target,directing and maintaining the specification of signal transduction.To obtain further insight into biological function of MAPK cascades,itis important to identifythedownstream MAPK of MAPKK.In our study，we also tried to identify the downstream MAPK of ZmMEK1.We first determined the interactions between ZmMEK1 and ZmSiMK1 both in vitro (Figure 2A) and in vivo (Figure 2B),and then we found that ZmMEK1 activates ZmSIMK1 in vitro (Figure 2D).Taken together，these data demonstrated ZmSiMK1 is a downstream MAPK of ZmMEK1.In addition， the enhanced expression of both ZmMEK1 and ZmSIMK1 in dark-induced senescing leaves (Figure 1D) implied the relations between ZmMEK1 and ZmSiMK1 in regulating maize leaf senescence. However，to explore this possibility，interaction between ZmMEK1 and ZmSiMK1 in senescing leaves and further genetic evidence are needed. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "How does the MAPK cascade regulate leaf senescence? When we detect the marker genes expression,we found that PR1 and $P { \\mathsf { R } } { \\mathsf { 5 } } .$ ，marker genes_of SA signaling pathway，were Strongly induced in ZmMEK1KR transgenic Arabidopsis plants. The result implies that $Z m M E K 1 ^ { K R }$ expression-induced leaf senescence may be related to SA accumulation which is caused by SA over-production or SA catabolism reduction regulated by enzymes like SA $3$ -hydroxylase (Zhang et al. 2013).SA is an important plant hormone which is extensively investigated in various processes,especially in pathogen-plant interaction. In leaf senescence，SA was determined as a positive factor (Lim et al. 2oo7). Our study showed that SA levels in ZmMEKiKR transgenic plants were significantly higher (Figure 4B). Significantly reduced SA and abolished early leaf senescence phenotype were found in ZmMEK1KR/nahG and ZmMEK1KR/eds5-1 plants (Figure 5). These data are consistent with previous findings that senescent Arabidopsis leaves accumulate high levels of SA (Morris et al.2ooo) and suggest the positive role of SA in Arabidopsis leaf senescence. However，whether SA plays a similar role in maize leaf senescence regulation remains unclear. Some reports described the function of SA in some cases in maize as different from that in Arabidopsis.For example,SA is a well-known inducer of systemic acquired resistance (SAR) in Arabidopsis; however,it seems to have little or no effect on pathogen resistance in maize (Balint-Kurti and Johal 2oo9).As such,we explored the role of SA in maize leaf senescence and found exogenous SA accelerates the rate of dark-induced maize leaf senescence (Figure 7).So we conclude that SA likely also plays a positive role in leaf senescence in maize.That higher levels of SA accumulate in PDg8o59-treated senescent leaves also provides a clue that SA may mediate the regulation of MAPK cascade in leaf senescence in maize (Figure 7).Although our findings demonstrated that SA mediates ZmMEK1KR-induced leaf senescence in transgenic Arabidopsis plants and darkinduced leaf senescence in maize,a more detailed analysis of relations between MAPK cascade and SA in leaf senescence in maize needs to be performed. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "MATERIALS AND METHODS ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Plantmaterials and growth conditions ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Maize (Zea mays,inbred line B73) seedlings in this study were grown in a growth chamber under a 16-h light/8-h dark photoperiod at $1 0 0 \\mu \\mathrm { m o l } / 2 \\mathrm { m } / \\mathrm { s }$ ata temperature of $2 8 / 1 8 ^ { \\circ } C$ (day/night),and watered with Hoagland' solution $\\left( \\mathsf { p H } \\ 6 . 0 \\right)$ every 2 d. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Arabidopsis thaliana plants were grown in soil in a growth room with a 16-h light/8-h dark photoperiod at a photon flux densityof $1 0 0 \\mu \\mathrm { m o l } / 2 \\mathrm { m } / \\mu$ at $2 2 ^ { \\circ } \\mathsf { C } .$ ，Seeds were surface sterilized and sown on half-strength Murashige and Skoog (MS)medium $( 2 . 2 \\mathrm { g } / \\mathsf { L }$ MS salts, $1 \\%$ sucrose, $\\mathsf { p H } 5 . 8$ ,and $8 \\mathrm { g } / \\mathrm { L }$ agar).After imbibing for 4 d at $4 ^ { \\circ } \\mathsf C ,$ ，the seeds were germinated and grown on plates for7dand then transferred to soil.Arabidopsis wild-type plants,mutants and transgenic lines were all in the ecotype Col-o background. $Z m M E K 1 ^ { K R } /$ nahG and ZmMEK1KR/eds5-1 plants were generated by crossing $Z m M E K \\boldsymbol { 1 } ^ { K R }$ plants with nahGand eds5-1 plants,respectively. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For the chemical treatment experiments,maize leaves were injected with $2 0 0 \\mu \\mathrm { m o l } / \\ L$ of PD98059 or indicated concentration of SA and then darkened to induce senescence. The leaves treated with the same concentration of dimethyl sulfate or methanol were used as the control. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Transgenic Arabidopsis plants generation ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The maize ZmMEK1(GRMZM2G167856) complementary NDA (cDNA) was obtained by RT-PCR with specific primers and inserted into the pEGM-T easy vector.The constitutively kinase-active and -inactive mutants of ZmMEK1 were generated by QuickChange site-directed mutagenesis kit (Stratagene,Santa Clara,CA,USA).The genes of ZmMEK1 and its mutants were inserted into the Spel/Xhol sites of the pSuper13oo binary vector (Shi et al. 2012） containing a GFP coding sequence.The plasmids were electroporated into Agrobacterium tumefaciens strain C58C1,which was used to transform Arabidopsis by floral dip (Clough and Bent 1998). Gene-specific primers are listed in Table S1. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Induction of leaf senescence ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Dark-induced leaf senescence of maize plants was performed as described by Keech etal.(2oo7). In brief,the fully extended second leaves of 2-week-old maize seedlings were covered by aluminum foil while the rest of the plant remained in the light. These leavesare referred toas IDLs.Leavesweredarkened for 0.5,1,2,3 0r 4 d. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Measurements of chlorophyll content and membrane ion leakage ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The third pair of rosette leaves of individual Arabidopsis plants and the IDLs of maize plants were taken and used for chlorophyll content and membrane ion leakage analyses.For chlorophyll extraction，the leaves were ground with $9 5 \\%$ ethanol and incubated for $3 h$ ：Chlorophyll content was determined at 663 and 645 nm as previously described by Lichtenthaler(1987).The membrane ion leakage was detected as previously described (Li et al.2013). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Gene expression quantification by qRT-PCR ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "TotalRNA was isolated from leavesof Arabidopsisormaize using TRlzol reagent (Invitrogen,Carlsbad,CA,USA).Firststrand cDNA synthesis was performed using $1 \\mu \\ g$ of total RNA witholigo (dT) 16 as the primerand Moloney Murine leukemia virus reverse transcriptase (Promega，Madison，Wl，USA) following the manufacturer's protocol. Real-time PCR was performed on a 75oo real-time PCR system (Applied Biosystems，Foster City，CA，USA)，using SYBR Green Mix (Takara,Dalian, China).Expression levels of ubiquitin5and 18S ribosomal RNA (rRNA) were used as the internal controls in Arabidopsis and maize，respectively.Primers are listed in Table S1. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Yeast two-hybrid assay ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The yeast two-hybrid system (Clontech,Palo Alto,CA,USA) was used to test the interaction between ZmMEK1 and ZmMPKs or Arabidopsis MPKs.The coding regions of ZmMPKs or MPKs were amplified by PCR and inserted into the plasmid pGBKT7，which contains the GAL4 DNA binding domain，to produce the bait plasmids.The cDNA encoding ZmMEK1 was PCR amplified and cloned into pGADT7 vector,which contains the GAL4 activation domain，creating the prey plasmid pGADT7-ZmMEK1. The bait and prey plasmids were then cotransformed into yeast strain AH1o9.Transformants were screened by measuring the growth of yeast cells on standard synthetic dropout medium (SD/-His/-Leu/-Trp/-Ade).The $\\beta$ gal assaywas performed to determine protein-protein interactions using 5-bromo-4-chloro-3-indolyl-b-d-galactopyranoside (X-gal) as substrate. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Protoplast transient expression and coimmunoprecipitation Coding regions of ZmMEK1and ZmMPKswere amplified by PCR and cloned in frame into the326-N-Mycand 326-N-Flag vectors (Zhao et al.2o14),respectively,resulting in the Myc-ZmMEK1 and Flag-ZmMPKs constructs under the control of the 35S promoter.Transformation of maize leaf mesophyll protoplast was performed as described (http://genetics.mgh.harvard. edu/sheenweb/).In brief,protoplasts were isolated from 11- to 13-d-old etiolated maize seedlings (inbred B73 line).The second or third leaves were chopped into small pieces and then digested in $0 . 6 \\mathrm { m o l } / \\mathsf { L }$ mannitol,10 mmol/L 2-(N-Morpholino)ethanesulfonic acid (MES),pH 5.7,1mmol/L $\\mathsf { C a C l } _ { 2 }$ ，and $0 . 1 \\%$ (w/v)bovine serum albumin (BSA) supplemented with $1 . 5 \\%$ cellulose R10, $0 . 3 \\%$ macerozyme R1o (Yakult Honsha Co., Tokyo,Japan) for 15 min under vacuum followed by $3 h$ gentle shaking(40 rpm）at $2 5 ^ { \\circ } \\mathsf { C } .$ After releasing the protoplasts at 90 rpm, the protoplasts were filtered through a $3 5 - upmu \\mathrm { m }$ nylon mesh and collected by centrifugation at $1 5 0 \\times g$ for 1min. Protoplasts were washed twice with $\\mathsf { W } 5$ buffer $_ { ( 0 . 6 \\mathrm { m o l / L } }$ mannitol,2 mmol/L MES,pH 5.7,and 5 mmol/L KCI, $1 2 5 \\mathrm { m m o l } / \\mathsf { L }$ $\\mathsf { C a C l } _ { 2 } ,$ 、， $1 5 4 \\ : \\mathrm { m m o l / L } \\left( \\mathsf { a C l } _ { 2 } \\right)$ and then incubated on ice for 30 min. After collection by centrifugationat $1 5 0 \\times g$ for 1min, protoplasts were resuspended with $M M g$ solution $\\left( 0 . 4 \\mathrm { m o l } / \\right.$ L mannitol, $1 5 \\mathrm { m m o l / L } \\mathrm { \\ m g C l _ { 2 } } ,$ and 4 mmol/L MES,pH 5.7).Ten micrograms of plasmid 326-Myc-ZmMEK1 and 326-FlagZmMPKs plasmids,respectively,were transfected to $2 0 0 \\mu \\mathrm { L }$ protoplasts $( 4 \\times 1 0 ^ { 4 }$ cells).Polyethylene glycol (PEG) solution L $2 2 0 \\mu \\mathrm { L } 4 0 \\%$ PEG 4000 (w/v), $0 . 2 \\ : \\mathrm { m o l / L }$ mannitol,and $0 . 1 \\mathrm { m o l } / \\mathsf { L }$ $\\mathsf { C a C l } _ { 2 } ^ { \\bullet } ,$ wasadded to protoplasts by gently inverting the tubes. Protoplasts were incubated in the dark for 3o min at room temperature and then $8 0 0 \\mu \\mathrm { L }$ W5 solution was added to terminate transfection.After harvesting by centrifugation at $1 5 0 \\times g$ for2min, transfected protoplasts were resuspended with $1 0 0 \\mu \\mathrm { L } \\mathsf { W } 5$ solution and then incubated in the dark for $1 2 { - } 1 6 \\ h$ at $2 5 ^ { \\circ } C$ to allow protein expression. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "For coimmunoprecipitation assays，protoplasts with ex pression constructs were lysed by vigorous shaking in immunoprecipitation buffer(20 mmol/LTris-Cl,pH7.5,150 mmol/L NaCl, 1mmol/L ethylenediaminetetraacetic acid，1mmol/L ethyleneglycoltetraacetic acid，1mmol/L NaF，1mmol/L ${ \\mathsf { N a V O } } _ { 3 } .$ 10 mmol/L $\\beta$ -glycerophosphate, $1 \\mu \\mathrm { g } / \\mathrm { m L }$ aprotinin, $1 \\mu \\mathrm { g } / \\mathrm { m L }$ leupeptin, $1 \\% ( \\boldsymbol { \\mathsf { v } } / \\boldsymbol { \\mathsf { v } } )$ Triton X-1oo). Anti-MycAffinity Agrose Gel (Sigma-Aldrich,St Louis,MO, USA) was used for immunoprecipitation.After washing three times with the TBS buffer (20 mmol/L Tris-HCl, pH 7.5 and $1 5 0 \\mathrm { m m o l / L } \\mathrm { \\Delta N a C l ) }$ ，immunoprecipitates were subjected to immunoblot analysis with antiFlag antibody. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Immunoblot assay ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Protein extraction,separation and immunoblotanalyses were performed as previously described(Su etal.2o11).Monoclonal anti-Flag antibody,monoclonal anti-His antibody,monoclonal anti-Myc antibody (Sigma-Aldrich) were used as primary antibodies，and a horseradish peroxidase-conjugated goat anti-mouse antibody was used as secondary antibody in this study.The signal on immunoblot was detected by an enhanced chemiluminescence kit and exposed to X-ray film. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Pull-down assays ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "For the pull-down assay, $5 \\mu \\ g$ of His-tagged ZmSIMK1 or GFP protein was incubated with $5 \\mu \\mathrm { g }$ of Flag-tagged ZmMEK1 mutant proteins,respectively,at $2 5 ^ { \\circ } C$ for $3 0$ min in pull-down buffer (20 mmol/L HEPEs-NaOH,pH 7.5，10 mmol/L $\\boldsymbol { M } \\boldsymbol { \\mathsf { n C l } } _ { 2 }$ $1 0 \\mathrm { m m o l / L } \\mathrm { M g C l _ { 2 ; } }$ and $5 0 \\mu \\mathrm { m o l } / \\ L$ ATP).Then,the Chelating Sepharose Fast Flow (GE Healthcare,Piscataway，NJ,USA) affinited nickel $( \\mathsf { N i } ^ { 2 + } )$ ion was used to pull down ZmSIMK1. After washing three times with washing buffer $( 2 0 \\mathrm { m m o l / L }$ HEPES-NaOH,pH 7.5, $3 0 0 \\mathsf { m m o l / L } \\mathsf { N a C l } )$ ,the resin was added with $2 0 \\mu \\mathrm { L }$ of sodium dodecyl sulfate (SDS) loading buffer. Samples were analyzed by immunoblotting using anti-His or anti-Flagantibody. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Autophosphorylation assay ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Thein vitro autophosphorylation assay was performed according to a previously described method( $\\mathtt { \\backslash x _ { u } }$ et al. 2008). Equal amounts $( 2 \\mu \\mathrm { g } )$ of purified recombinant ZmMEK1 and its mutants were incubated at $3 0 ^ { \\circ } \\mathsf { C }$ for 30 min in a total volume of $3 0 \\mu \\mathrm { L }$ of reaction mixture containing1o mmol/L HEPEs (pH7.5), $1 \\mathrm { m m o l / L } \\mathrm { M g C l _ { 2 } }$ or $\\boldsymbol { M } \\boldsymbol { \\mathsf { n C l } } _ { 2 } ,$ 1 mmol dithiothreitol,and $1 \\mu \\mathsf { C i } \\left[ \\gamma ^ { 3 ^ { 2 } } \\mathsf { P } \\right]$ ATP.The reaction was stopped by the addition of SDS loading buffer and then subjected to SDS-PAGE (polyacrylamide gel electrophoresis) and autoradiography. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Protein preparation and in-gel kinase assays ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Total protein of plant samples was extracted and subjected to in-gel kinase assay as previously descried (Xu et al.2oo8). For recombinant protein kinase analysis, $2 \\mu \\ g$ of His-tagged MPK proteins purified on Chelating Sepharose Fast Flow was activated by $0 . 2 \\mu \\mathrm { g }$ of Flag-tagged ZmMEK1 mutant proteins purified using ANTl-Flag M2 Affinity Gel(Sigma-Aldrich) at $2 5 ^ { \\circ }$ C for 30 min in $2 0 \\ : \\mathrm { m m o l / L }$ HEPES-NaOH $\\left( \\mathsf { p } \\mathsf { H } ~ 7 . 5 \\right)$ ， $1 0 \\mathrm { m m o l / L }$ $\\boldsymbol { M } \\boldsymbol { \\mathsf { n C l } } _ { 2 }$ 1 $0 { \\mathrm { m m o l / L } } \\ M \\mathrm { g C l _ { 2 } } ,$ and $5 0 \\mu \\mathrm { m o l } / \\ L$ ATP in a final volume of $3 0 \\mu \\mathrm { L }$ .The reaction was stopped by addition of $1 0 \\mu \\mathrm { L }$ of $4 \\times 5 0 5$ loading buffer and the kinase activities were determined by an in-gel kinase assay.Myelin basic protein (MBP) was used as the substrate. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "SAextraction and measurement ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Rosette leaves of 5-week-old Arabidopsis plants grown on soil were harvested; $3 0 0 { - } 5 0 0 \\mathrm { m g }$ of samples were extracted twice with $5 \\mathsf { m L }$ of $9 5 \\%$ methanol for 1h，dried，and resuspended in $5 0 0 \\mu \\mathrm { L }$ of $5 \\%$ trichloroaceticacid.The samples were further extracted with 1mL of extraction solvent cyclohexane/ethyl acetate (1:1，v/v).The top phase which contains free SA was collected.The bottom aqueous phase which contains conjugated SA was added to HCl to a final concentration of $6 \\mathrm { m o l / L }$ to hydrolyze amino acid and then extraction with 1mL of extraction solvent.The SA released from conjugated SA was in the top phase.Combined the twice top phase and dried,and total SA was in it.Total SA was dissolved in $2 0 0 \\mu \\mathrm { L }$ of $10 \\%$ methonal in 2o mmol/L sodium acetate buffer， pH 5.5，and then subjected to highperformance liquid chromatography (HPLC）analysis.SA analysis was performed using the 126o Infinity HPLC (Aligent Technology,Wilmington,DE,USA)with a Luna 5u C18 100A analytic column $( 2 5 0 \\times 4 . 6 \\mathsf { m m }$ ，Phenomenex，Torrance,CA, USA)runwith $10 \\%$ methonal in $2 0 \\ : \\mathrm { m m o l / L }$ sodium acetate buffer, $\\mathsf { p H } 5 . 5$ ,ata flow rate of $1 \\mathrm { m L } / \\mathrm { m i n }$ for 30 min. SA was detected and fluorometrically quantified (excitation 294 nm; emission $4 2 6 \\mathsf { n m }$ ) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGEMENTS ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by grants from the State Basic Research Program (2o14CB1382o5)and the National Natural Science Foundation of China (311250o6 and 31030010) to D. Ren; the National Natural Science Foundation of China (30771124） to H.Yang;and the National Natural Science Foundation of China (31000127) to Y. Li. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "AUTHOR CONTRIBUTIONS ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Y.L.and D.T.R. designed research; Y.L.， Y.C.， C.C.Z.， H.L.Y.   \nperformed research;Y.L.and D.T.R.analyzed data;and Y.L.   \nand D.T.R.wrote the paper. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Balint-Kurti PJ， Johal GS (2oo9) Maize disease resistance. In: Bennetzen JL，Hake SC,eds.Handbook of Maize: Its Biology. Springer,New York.pp.229-253   \nBeck M,Komis G,Ziemann A,Menzel D,Samaj J(2o1o) Mitogenactivated protein kinase 4is involved in the regulation of mitotic and cytokinetic microtubule transitions in Arabidopsis thaliana. New Phytol 189: 1069-1083   \nBerberich T,Sano H, Kusano T (1999) Involvement of a MAP kinase, ZmMPK5，in senescence and recovery from low-temperature stress in maize. Mol Gener Genet 262: 534-542   \nBreeze E, Harrison E,McHattie S,Hughes L, Hickman R, Hill C, Kiddle S, Kim YS,Penfold CA,Jenkins D,Zhang C，Morris K,Jenner C, Jackson S,Thomas B,Tabrett A,Legaie R,Moore JD,Wild DL,Ott S,Rand D,Beynon J,Denby K,Mead A,Buchanan-Wollaston V (2011） High-resolution temporal profiling of transcripts during ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Arabidopsis leaf senescence reveals a distinct chronology of ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "processes and regulation. Plant Cell 23: 873-894 Buchanan-WollastonV,Page T, Harrison E,Breeze E,Lim PO,Nam HG, Lin JF，Wu SH，Swidzinski J，Ishizaki K，Leaver CJ (2005) Comparative transcriptome analysis reveals significant differences in gene expression and signalling pathways between developmental and dark/starvation-induced senescence in Arabidopsis. Plant J 42: 567-585 Cai GH,Wang GD,Wang L,PanJW,LiuY,LiDQ(2014)ZmMKK1,a novel group A mitogen-activated protein kinase kinase gene in maize, conferred chiling stress tolerance and was involved in pathogen defense in transgenic tobacco. Plant Sci 214: 57-73 Cardinale F,Meskiene I, Ouaked F, Hirt H (2oo2) Convergence and divergence of stress-induced mitogen-activated protein kinase signaling pathways at the level of two distinct mitogen-activated protein kinase kinases. Plant Cell 14: 703-711 Clough SJ，Bent AF (1998） Floral dip:A simplified method for Agrobacterium-mediated transformation of Arabidopsis thaliana. Plant J 16: 735-743 Dudley DT,Pang L, Decker SJ,Bridges AJ,Saltiel AR (1995)A synthetic inhibitor of the mitogen-activated protein kinase cascade.Proc Natl Acad Sci USA 92: 7686-7689 Gregersen PL，Culetic A，Boschian L，Krupinska K (2o13）Plant senescence and crop productivity. Plant Mol Biol 82: 603-622 Gu L,Liu Y, Zong X,Liu L,Li DP,Li DQ (2o1o) Overexpression of maize mitogen-activated protein kinase gene，ZmSIMK1 in Arabidopsis increases tolerance to salt stress.Mol Biol Rep   \n37: 4067-4073 Guiboileau A,Sormani R,Meyer C,Masclaux-Daubresse C (2010) Senescence and death of plant organs: Nutrient recycling and developmental regulation. CR Biol 333: 382-391 Guo YF,Cai ZH,Gan SS (2oo4) Transcriptome of Arabidopsis leaf senescence. Plant Cell Environ 27: 521-549 Guo YF,Gan SS (2oo6) AtNAP,a NAC family transcription factor, has an important role in leaf senescence. Plant J46: 601-612 Guo YF，Gan SS (2o12） Convergence and divergence in gene expression profiles induced by leaf senescence and 27 senescence-promoting hormonal， pathological and environmental stress treatments. Plant Cell Environ 35: 644-655 Guo YF,Gan SS (2011) AtMYB2 regulates whole plant senescence by inhibiting cytokinin-mediated branching at late stagesof development in Arabidopsis.Plant Physiol 156:1612-1619 Hardin SC,Wolniak SM (1998) Molecular cloning and characterization of maize ZmMEK1， a protein kinase with a catalytic domain homologous to mitogen- and stress-activated protein kinase kinases. Planta 206: 577-584 Ichimura K,Shinozaki K,Tena G,Sheen J, Henry Y,Champion A, Kreis M, Zhang SQ, Hirt H,Wilson C, Heberle-Bors E,Elis BE, Morris PC, Innes RW,Ecker JR,Scheel D, Klessig DF,Machida Y,Mundy J, Ohashi Y，Walker JC,Grp M (2oo2） Mitogen-activated protein kinase cascades in plants: A new nomenclature.Trends Plant Sci 7:   \n301-308 Jiang YJ，Liang G，Yang SZ，Yu DQ(2014） Arabidopsis WRKY57 functions as a node of convergence for jasmonic acid-and auxinmediated signaling in jasmonic scid-induced leaf senescence. Plant Cell 26: 230-245 Jibran R，Hunter D,Dijkwel P(2o13) Hormonal regulation of leaf senescence through integration of developmental and stress signals. Plant Mol Biol 82: 547-561 Keech O,Pesquet E,Ahad A,Askne A,Nordvall D,Vodnala SM, Tuominen H, Hurry V, Dizengremel P,Gardestrom P (2oo7) The different fates of mitochondria and chloroDlasts during darkinduced senescence in Arabidopsis leaves. Plant Cell Environ 30: 1523-1534   \nKiegerl S,Cardinale F,Siligan C,Gross A,Baudouin E,Liwosz A, Eklof S, Till S，Bgre L，Hirt H,MeskieneI (2ooO） SIMKK,a MitogenActivated Protein Kinase (MAPK) Kinase,is a specific activator of the salt stress-induced MAPK,SIMK. Plant Cell 12: 2247-2258   \nKong XP,Pan JW,Zhang MY,Xing X, Zhou Y, Liu Y,Li DP,Li DQ (2011) ZmMKK4,a novel group Cmitogen-activated protein kinase kinase in maize (Zea mays),confers salt and cold tolerance in transgenic Arabidopsis.Plant Cell Environ 34: 1291-1303   \nKosetsu K，Matsunaga S,Nakagami H,Colcombet J，Sasabe M, Soyano T,Takahashi Y, Hirt H,Machida Y (2o1o) The MAP kinase MPK4 is required for cytokinesis in Arabidopsis thaliana.Plant Cell 22: 3778-3790   \nLi LB,LiY, Zhang LH,Xu CH,Su TB,Ren DT, Yang HL(2012a) Sucrose induces rapid activation of CfSAPK,a mitogen-activated protein kinase,in Cephalostachyum fuchsianum Gamble cells.Plant Cell Environ 35: 1428-1439   \nLi ZH, Peng JY,Wen X,Guo HW (2o12b) Gene network analysis and functional studies of senescence-associated genes reveal novel regulators of Arabidopsis leaf senescence.JIntegr Plant Biol 54: 526-539   \nLi ZH,Peng JY,Wen X,Guo HW (2013) Ethylene-insensitive3 is a senescence-associated gene that accelerates age-dependent leaf senescence by directly repressing miR164 transcription in Arabidopsis.Plant Cell 25: 3311-3328   \nLichtenthaler HK (1987） Chlorophyls and carotenoids-pigments ofphotosynthetic biomembranes. Methods Enzymol 148: 350-382   \nLim PO,Kim HJ, Nam HG (2oo7) Leaf senescence.Annu Rev Plant Biol 58: 115-136   \nLin JF,Wu SH(2oo4) Molecular events in senescing Arabidopsis eaves. Plant J39: 612-628   \nLiu HX,Wang Y,Xu J,Su TB,Liu GQ,Ren DT(2oo8) Ethylene signaling is required for the acceleration of cell death induced by the activation of AtMEK5 in Arabidopsis. Cell Res 18: 422-432   \nMiao Y, Laun T, Zimmermann P, Zentgraf U (2oo4) Targets of the WRKY53 transcription factor and its role during leaf senescence in Arabidopsis.Plant Mol Biol 55: 853-867   \nMorris K,Mackerness SAH,Page T,John CF,Murphy AM,Carr JP, Buchanan-Wollaston V(2ooo) Salicylic acid has a role in regulating gene expression during leaf senescence. Plant J 23: 677-685   \nPan JW,Zhang MY, Kong XP, Xing X, Liu Y,Zhou Y,LiuY,Sun LP,Li DQ (2012)ZmMPK17,a novel maize group D MAP kinase gene,is involved in multiple stress responses.Planta 235: 661-676   \nPiliteri L，Dong J (2013） Stomatal development in Arabidopsis. Arabidopsis Book 11: e0162. doi: 10.1199/tab.0162   \nRen DT,Liu YD,Yang KY, Han L, Mao GH,Glazebrook J,Zhang SQ(2008) A fungal-responsive MAPK cascade regulates phytoalexin biosynthesis in Arabidopsis. Proc Natl Acad Sci USA 105: 5638-5643   \nRen DT,Yang HP,Zhang SQ (2002) Celldeath mediated by MAPK is associated with hydrogen peroxide production in Arabidopsis. J Biol Chem 277: 559-565   \nRodriguez MC,Petersen M, Mundy J(2o1o) Mitogen-activated protein kinase signaling in plants. Annu Rev Plant Biol 61: 621-649   \nRogers EE，Ausubel FM (1997）Arabidopsis enhanced disease susceptibility mutants exhibit enhanced susceptibility to several bacterial pathogens and alterations in PR-1 gene expression.Plant Cell 9: 305-316   \nShi YT,Tian SW, Hou LY, Huang XZ, Zhang XY,Guo HW,Yang SH(2012) Ethylene signaling negatively regulates freezing tolerance by repressing expression of CBF and type-A ARR genes in Arabidopsis. Plant Cell 24: 2578-2595   \nSoyano T,Nishihama R,Morikiyo K,Ishikawa M,Machida Y(2003) NQK1/NtMEK1 is a MAPKK that acts in the NPK1 MAPKKKmediated MAPK cascade and is required for plant cytokinesis. Genes Dev 17: 1055-1067   \nTakahashi F,Yoshida R, Ichimura K,MizoguchiT,Seo S,Yonezawa M, Maruyama K,Yamaguchi-Shinozaki K,Shinozaki K (2oo7） The mitogen-activated protein kinase cascade MKK3-MPK6 is an important part of the jasmonate signal transduction pathway in Arabidopsis. Plant Cell 19: 805-818   \nThomas H (2o13) Senescence,ageing and death of the whole plant. New Phytol 197: 696-711   \nWang HC,Ngwenyama N, Liu Y,Walker JC, Zhang SQ(2oo7) Stomatal development and patterning are regulated by environmentally responsive mitogen-activated protein kinases in Arabidopsis. Plant Cell 19: 63-73   \nWang JX, Ding HD,Zhang AY,Ma FF,Cao JM,Jiang MY(201oa) A novel mitogen-activated protein kinase gene in maize (Zea mays), ZmMPK3,is involved in response to diverse environmental cues. J Integr Plant Biol 52: 442-452   \nWang PC,Du YY,Li Y,Ren DT,Song CP (201ob) Hydrogen peroxidemediated activation of MAP kinase 6 modulates nitric oxide biosynthesis and signal transduction in Arabidopsis.Plant Cell 22: 2981-2998   \nWeaver LM, Amasino RM (2oo1) Senescence is induced in individually darkened Arabidopsis leaves but inhibited in whole darkened plants. Plant Physiol 127: 876-886   \nWu A,Allu AD,Garapati P, Siddiqui H,Dortay H, Zanor MI, AsensiFabado MA,Munne-Bosch S,Antonio C,Tohge T,Fernie AR, Kaufmann K,Xue GP，Mueller-Roeber B,Balazadeh S (2012) JUNGBRUNNEN1，a reactive oxygen species-responsive NAC transcription factor，regulates longevity in Arabidopsis.Plant Cell 24: 482-506   \nXu F,Meng T,Li PL, Yu YQ,Cui YJ,Wang YX, Gong QQ,Wang NN(2011) A soybean dual-specificity kinase,GmSARK,and its Arabidopsis homolog,AtSARK,regulate leaf senescence through synergistic actions of auxin and ethylene.Plant Physiol 157: 2131-2153   \nXu J,Li Y,Wang Y, Liu HX,Lei L, Yang HL, Liu GQ,Ren DT (2008) Activation of MAPK kinase 9 induces ethylene and camalexin biosynthesis and enhances sensitivity to salt stress in Arabidopsis. J Biol Chem 283: 26996-27006   \nXu J,Xie J,Yan CF,Zou XQ,Ren DT,Zhang SQ(2o14)A chemical genetic approach demonstrates that MPK3/MPK6 activation and NADPH oxidase-mediated oxidative burst are two independent signaling events in plant immunity. Plant J77: 222-234   \nZhang KW, Halitschke R, Yin CX,Liu CJ,Gan SS (2013) Salicylic acid 3-hydroxylase regulates Arabidopsis leaf longevity by mediating salicylic acid catabolism. Proc Natl Acad Sci USA 110: 148o7-14812   \nZhang MY,Pan JW, Kong XP, Zhou Y, Liu Y, Sun LP, Li DQ (2012) ZmMKK3,a novel maize group B mitogen-activated protein kinase kinase gene, mediates osmotic stress and ABA signal responses. JPlant Physiol 169: 1501-1510   \nZhao Y et al.(2014) REPRESSOR OF SILENCING5 encodes a member of the small heat shock protein family and is required for DNA demethylation in Arabidopsis.Plant Cell Online 26: 2660-2675   \nZhou CJ,Cai ZH,Guo YF,Gan SS (20o9) An Arabidopsis mitogenactivated protein kinase cascade,MKK9-MPK6,playsa role in leaf senescence. Plant Physiol 150: 167-177   \nZhou N，Tootle TL，Tsui F，Klessig DF,Glazebrook J(1998） PAD4 functions upstream from salicylic acid to control defense responses in Arabidopsis. Plant Cell 10: 1021-1030 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "SUPPORTING INFORMATION ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Additional supporting information may be found in the online version of thisarticle at thepublisher's web-site. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Figure S1. Transcript levels of ZmMKKs and ZmMPKs in dark-induced senescing leaves ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(A)Expression of ZmMKK1， ZmMKK3， and ZmMKK4. (B) Expression of ZmMPK4,ZmMPK5,ZmMPK6,ZmMPK7,and ZmMPK17. The second leaves of 2-week-old maize seedlings were covered with aluminium foil to induce senescence for o.5, 1, 2,3 0r 4 d with $( + )$ or without $( - ) 2 0 0 \\mu \\mathrm { m o l } / \\mathrm { L }$ of PD98059. The second leaves of 2-week-old maize seedlings without treatment were used as a control (CK).Total RNA was extracted from leaves of plants after dark treatment and applied to quantitative real-time reverse transcription poly merase chain reaction analysis. Expression levelswere normalized to the transcript levels of the control leaves.Error bars indicate SD from triplicate experiments. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Figure S2. Immunoblot analysis of ZmMEK1 proteins in transgenic Arabidopsis plants   \nTotal proteins were extracted from the third pair rosette leaves of Arabidopsis plants expressing green fluorescent protein (GFP)(Vector) and GFP-fused ZmMEK1 mutants $( Z \\mathsf { m } M \\mathsf { E } \\mathsf { K } 1 ^ { \\mathsf { W } \\mathsf { T } }$ ，ZmMEK1DD，andZmMEK1KR)，respectively， and subjected to immunoblot analysis with anti-GFP antibody (top and middle panel). Two independent transgenic linesof ZmMEK1were used foranalysis.Each linewas loaded with $1 0 ~ { \\mu \\mathrm { g } }$ total protein.The result of immunoblot with antitubulin antibody was used as the loading control (bottom panel). Figure S3.Phylogenetic relationships of ZmMEK1 proteinwith Arabidopsis MKKs (A)and ZmSiMK1with ArabidopsisMPKs(B) Amino acid sequences were aligned using the Lasergene Megalign program (DNAstar)   \nTable S1. Primers used in this study ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

@@ -1,0 +1,232 @@
+[
+    {
+        "type": "text",
+        "text": "A DEMONSTRATION EXPERIMENT OF AN NEW-GENERATION AIRBORNE ALTIMETERIN-SITU ABSOLUTECALIBRATIONSUITE ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（20 $X u X i  – y u ^ { \\mathcal { D } }$ ， $X u K e ^ { \\mathcal { D } }$ ， Shen Hua@， Wang Zhen-Zhan, Liu Ya-Long⑨ (The CAS Key Laboratory of Microwave Remote Sensing, Center for Space Science and Applied Research, Chinese Academy of Sciences, Beijing,100190) ②(University of Chinese Academy of Sciences, Beijing, 100039) xuxiyu $@$ mirslab.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "An airborne delay Doppler altimeter was flown in autumn 2014.A calibration suite including a GNSS buoy, two tide gauges and two GPS stations were established. An experiment was carried out to test the GNSS buoy as a whole under dynamic ocean condition， to validate its performance and accuracy via the inter-comparison of tide gauges,and to demonstrate the altimetry calibration methods and to estimate the altimeter system bias. This paper presented some methods and results. The GNSS buoy system was proven to have the ability of measuring the sea surface height within lcm,and the altimeter system bias had a consistency of centimeterlevel. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Index Terms—Delay Doppler altimeter， calibration, GNSS buoy, tide gauge ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Delay Doppler altimetry (DDA) is one of the most striking advances in microwave remote sensing in the last two decades [1],and will be the candidate type in satellite altimetry missions such as Sentinel-3 and Jason-CS.The measurement precision of DDA is significantly higher than that of the conventional altimeter, so its calibration brings more challenge.A method based on the combination of GNSS (global navigation satellite system） buoy and tide gauges was proposed to fulfill the calibration task,and a demonstration calibration experiment for an airborne DDA was carried out. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.CALIBRATIONMETHODS ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Absolute calibration of the altimeter can be fulfilled by the comparison of the Sea Surface Height(SSH) measured from the point at(or close to) the altimeter nadir.The in-situ SSH may be acquired from tide gauges or GNSS buoys [2,3,4]. The two instruments are complementary: tide gauges can provide continuous SSH series during a very long period, but they are usually located at the coastline,having a relatively long distance $( > 1 0 \\mathrm { k m } )$ from valid sub-satellite point; while the GNSS buoy can be deployed sporadically under the sub-satellite point. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The GNSS buoy is the essential instrument in the calibration methodology.It can calibrate the altimeter's SSH directly,and it can provide a reference to link the SSH of the tide gauge and altimeter,which is the prerequisite when the tide gauge is included in the calibration. On one hand, the tide gauge measures a “relative” SSH (the seal level relative to the gauge sensor, such as the pressure detector)； on the other hand, the tide gauge usually observes different sea surface (several kilometers apart from the satellite nadir). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "There are two ways to link the tide gauge SSH to the geodetic frame of the experiment field. One is the leveling technology, as shown in Fig. 1. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/922333a92a87963949b4702f5ff5df4405a8559ef3c45f1e9d7d6904d553c5fb.jpg",
+        "img_caption": [
+            "Fig.1.A sketch of linking the tide gauge height to the calibration field geodetic frame "
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The tide gauge SSH is linked to a GNSS reference station, whose absolute position can be realized in the geodetic frame.From Fig.1 we get that: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { h _ { _ { T G } } = h _ { _ { G N S S } } + \\Delta h _ { _ { T G _ { _ { - } G N S S } } } + d } \\\\ & { = h _ { _ { G N S S } } + \\left( \\Delta h _ { _ { 1 } } + \\Delta h _ { _ { 2 } } + \\Delta h _ { _ { 3 } } \\right) + d } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In Eq. (1), $h _ { \\scriptscriptstyle { T G } }$ is the absolute SSH by tide gauge,d is the height recorded by the gauge,i.e., the height from the water surface to the tide gauge sensor (here the sensor is a pressure one), hGNss is the GNSS station antenna height， and MhG_Nssis the height difference betweenthe GNSS antenna and the tide gauge sensor. △hTG_GNss is split to three parts, whose definitions are demonstrated clearly inFig.1.h is measured through a lever gauge. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "When the leveling is impracticable, another linking method may be considered. The GNSS buoy is deployed near the tide gauge,and if the two instruments are close enough, they share the same SSH. Therefore,the averaging of their SSHdifference series is an indicator of the bias of the tide gauge SSH from the absolute SSH. The determination of the datum of the mooring array in Bass Strait, Australia was a successful application of this method [3]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.THEDEMONSTRATIONEXPERIMENT",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A demonstration calibration experiment was carried out in late October and early November,2014.The experiment was held at the coastline of Yellow Sea, China,and lasted four days (Oct. 29，30，31 and Nov.1).An airborne altimeter was overhead around 14:Oo (local time),except the first day. A GNSS buoy (whose dynamic position solved by two GNSS stations） and two tide gauges (one was the permanent tide station nearby,and the other was deployed by the calibration team). The instruments were shown in Fig. $2 { \\sim } 4$ . The tide gauges recorded a SSH reading every minute, and the GNSS buoy has a sampling rate of 1Hz. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/443f7b785b5b85322a9ccde5b43b5e46dcadda6d523b88cbaf0a2f58d63efa71.jpg",
+        "img_caption": [
+            "Fig.2. The GNSS buoy working "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/95a157a03f47f0dd99d01fdbca55c8403ce86314723568007ef43d72bf26c8a7.jpg",
+        "img_caption": [
+            "Fig.3.The permanent tide station "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/16690fae846b4506f2c408c33c2fc3c8f6dfb0799d0009c50d8aee41a1c32b40.jpg",
+        "img_caption": [
+            "Fig. 4. Temporary tide gauge "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The experiment had a two-fold objective: ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$ Testing the GNSS buoy as a whole under dynamic ocean condition，and validating its performance and accuracy via the inter-comparison of tide gauges.A GNSS buoy is usually more complicated than a tide gauge,so the GNSS buoy can be overall calibrated by the comparison of a tide gauge; Demonstrating the altimetry calibration methods and geodetic frame linking methods. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4.RESULTS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The SSH series of the tide station, the tide gauge and the GNSS buoy were analyzed and the consistence between them were evaluated.Firstly,the tide station and the tide gauge both measured a relative SSH,but they share the same trend. The tide gauge was temporarily deployed by a simple rope,and was more influenced by waves and currents. The tide station was adopted as the comparison reference to evaluate the accuracy of the GNSS buoy. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Only the results of Oct.29,2014 were shown here to save space.The GNSS buoy acquired a 1Hz SSH series.There are two GNSS reference stations,so we get two GNSS solutions.The raw SSH series were shown in Fig. 5(a). The buoy operated for nearly eight hours，the SSH series between 13:00 and 16:0o were shown here because the altimeter was overhead about 14:Oo,and the tide variation of this period was very significant $( > 1 \\mathrm { m } )$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/18e00835c81b89f89885a2b1213a9528e4b7407c0f91db3104f1205b71ef292f.jpg",
+        "img_caption": [
+            "Fig. 5. SSH series by tide station and GNSS buoy "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The raw SSH series were pretty noisy, so they were lowpass filtered to depress the instrument noise and highfrequencyoceanwavedisplacements. Many filtering algorithms were tested and the Vondrak filter outperformed other algorithms.The Vondrak filter was also adopted by the Jason altimeters calibration team in Corsica[2]. The filtered SSH series were demonstrated in Fig. 5 (b). The SSH residual series were computed as following: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { S S H } = ( S S H _ { B u o y , s o l u t i o n 1 } + S S H _ { B u o y , s o l u t i o n 2 } ) / 2 - S S H _ { T i d e S t a t i o n }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The standard deviation of the residual series was $7 . 0 \\ \\mathrm { m m }$ The two buoy solutions were averaged for they contained similar instrument noises. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We also validated the bias between the GNSS buoy SSH (absolute height in ITRF2Oo8) and the tide station SSH (height relative to the pressure sensor). The bias was $9 . 3 9 9 6 \\mathrm { m }$ in Oct. 29 and was $9 . 3 9 8 4 \\mathrm { { m } }$ in Oct.30．The difference of the biases in two days was only $1 . 2 \\mathrm { m m }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The system bias of the altimeter was also calibrated by the calibration suites.There were four flights of the airborne altimeter overhead the calibration field,and the data in Nov. 1 was eliminated because the wave condition was rather severe in that day. The GNSS reliever in the buoys committed losing of lock events frequently,and the SSH ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/c7883166f6f51c7f3598eb23a7f8a88db7a7c1f6cb1eebb24c8cd24182de36bf.jpg",
+        "table_caption": [
+            "Table1.The calibrationresults. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Date</td><td>2014-10-30</td><td>2014-11-01</td><td>2014-11-03</td></tr><tr><td>Overhead Time</td><td>13:48</td><td>13:49</td><td>14:11</td></tr><tr><td>Altimeter SSH</td><td>6.01 m</td><td>6.89 m</td><td>6.42 m</td></tr><tr><td>Altimeter SWH</td><td>0.76 m</td><td>0.71 m</td><td>0.82 m</td></tr><tr><td>In-situ SSH</td><td>11.32 m</td><td>11.13 m</td><td>11.65 m</td></tr><tr><td>SSH Bias</td><td>-5.31 m</td><td>-5.24 m</td><td>-5.23 m</td></tr><tr><td>Altimeter Bias</td><td colspan=\"3\">-5.267±0.038</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "series of the tide station were relatively noisy, despite the low-passing filtering by the tide well.The result under this situation was not reliable.The results of the other three days were tabulated in Table 1. The altimeter internal path delay was not compensated beforehand, so it contributed the majority of the altimeter bias $( 5 . 2 6 7 \\mathrm { m } )$ .This value was comparable to the internal path delay of Jason-2 (4.976m) and HY-2A $( 4 . 6 0 5 \\mathrm { m } )$ altimeters.The standard deviation of the three days biases was $3 . 8 \\mathrm { c m }$ ，which demonstrated a very stable system， taking account to the various s in the calibration closure equation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5.CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the demonstration experiment, the performance of a GNSS buoy was validated. The GNSS buoy had a subcentimeter accuracy and could be served for altimeter calibration. The consistency between the GNSS buoy and the tide station is at the millimeter level between two days The system bias of the air-borne altimeter was also evaluated with a standard deviation of $3 . 8 \\mathrm { c m }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6.REFERENCES ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "[1]R.K.Raney.“The delayDopplerradaraltimeter”,IEEETrans. Geosci. Remote Sens.，Vol.36,No.5,pp.1578-1588,Sept.   \n1998 [2]P．Bonnefond,P.Exertier,O．Laurain,et,al.“Absolute calibration of Jason-1 and TOPEX/Poseidon altimeters in Corsica\".Marine Geodesy,26(3-4),2003:261-284 [3]C.Watson，R.Coleman,N.White,J.Church,and R.Govind.   \n2003.“Absolute calibration of TOPEX/Poseidon and Jason-1 using GPS buoys in Bass Strait,Australia\".Marine Geodesy, Special issueonJason-lcalibration/validation,Part1.Marine Geodesy,vol.26,no.3-4,pp.284-304,2003 [4]E.C.Pavlis,S.P.Mertikas,GAVDOS Team.“The GAVDOS mean sea level and altimeter calibration facility:results for Jason-l\". Marine Geodesy， Special issue on Jason-1 calibration/validation,Part 3.Marine Geodesy,vol.27,no.3-   \n4, pp. 631-655 ",
+        "page_idx": 2
+    }
+]

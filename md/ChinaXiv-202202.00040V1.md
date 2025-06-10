@@ -1,0 +1,225 @@
+# 白菜CesA基因家族鉴定及表达模式分析
+
+马宇辰1，赵玉梅』'²，黄丹霖1，张梦晴1，吴晓宇』²，王洁』'²，陈雨1，黄家保'²，段巧红l 2\*（1.山东农业大学园艺科学与工程学院，泰安271000；2.作物生物学国家重点实验室，泰安271000)
+
+摘要：为探究CesA基因家族在白菜生长发育及纤维素合成过程中的作用机制，该研究通过生物信息学的方法，以白菜的全基因组序列为研究区域，进行了理化特征、基因结构、进化特征、保守基序及结构域、顺式作用元件和组织表达等鉴定分析。结果表明：（1）白菜基因组中鉴定出16个编码纤维素合成酶亚基的CesA基因，该家族成员所编码蛋白的理论等电点介于4.76\~9.12，相对分子量 $1 7 . 7 6 { \sim } 1 2 2 . 6 7 \mathrm { k D }$ ，长度 $1 5 3 { \sim } 1 ~ 0 8 9 ~ { \mathrm { a a } }$ ；（2）其中15个基因不均匀地分布于白菜的7条染色体上， $B r a 0 3 6 0 0 8$ 定位于scaffold上；（3）大部分成员包含4-14个外显子，1-11个保守基序；（4）序列比对显示该家族具有保守的DDD-QXXRW保守功能域；（5）该家族编码蛋白主要分布在质膜上，二级结构以无规则卷曲与 $\mathfrak { a }$ 螺旋为主，多数成员都含有CesA蛋白典型的N端、C端和跨膜区；（6）CesA基因在茎中表达量相对较高，其中Bra011865、Bra023952和 $B r a 0 2 9 8 7 4$ 在茎、叶、花中显著表达。该研究利用生物信息学方法对白菜CesA基因家族进行了全基因组鉴定，为后续深入研究CesA基因功能奠定了基础，也为白菜生长发育研究奠定基础。
+
+关键词：纤维素合成酶，白菜，CesA，基因家族，基因表达
+
+# Identification and expression analysis of CesA gene family in Brassica
+
+rapa
+
+MA Yuchen1, ZHAO Yumeil' 2, HUANG Danlin1, ZHANG Mengqing1, WU Xiaoyul' 2, WANG Jiel' ², Chen Yul,HUANG Jiabaol' ², DUAN Qiaohongl' 2\* (1. College of Horticultural Science and Engineering, Shandong Agricultural University, Tai'an271000,Shandong, China；2.State Key Laboratory of Crop Biology,Tai'an 271000,Shandong, China）
+
+Abstract Celulose is the main component of plant cell walls.It is involved not only in cell morphology and development, but also in various cellular signal transduction pathways, thus affecting plant growth and development. Cellulose synthase is the main enzyme of cellulose synthesis in plants.In order to explore the role of CesA gene family in cellulose synthesis and development of Brassica rapa,we identified the members of CesA genes in $B$ 、rapa genome via bioinformatic method. The results were as follows:（1) We identified $1 6 \ : B r C e s A$ genes from $1 0 B$ rapa chromasomes with pl range from 4.76-9.12, molecular weight range from $1 7 . 7 6 \mathrm { - } 1 2 2 . 6 7 ~ \mathrm { k D }$ and amino acid length range from 153-1 O89 aa. (2) With an expectation of Bra036008,which located in scaffold, the rest of 15 BrCesA genes unevenly distributed in 7 chromosomes. (3) Most of CesA contained 4-14 exons and 1-11 conserved motifs. Sequence alignment showed that all CesAs contained DDD-QXXRW domain. (4) Subcellular location analysis presents a typical $\mathrm { \Delta N }$ （204号 terminal, C terminal and transmembrane structure and the protein showed plasma membrane location. (5) Tissue specific analysis by qRT-PCR showed relative highly expresson in stem of $B$ rapa seedlings. (6) When seedling treated with $1 5 0 \ \mathrm { m M } { \cdot } \mathrm { L } { \cdot } 1 \ \mathrm { N a C l }$ ，the expression of Bra01069 significantly increased after $6 \mathrm { ~ h ~ }$ . At present, although $B$ . rapa reference genome sequencing research has advanced to the new version $\mathrm { v } 3 . 0$ ，the CesA gene family has not been thoroughly identified and analyzed in $B$ .rapa,and the functions of many genes have not yet been clarified. In this study, bioinformatics methods were used to take the whole genome sequence of $B$ .rapa as the research field,and the whole genome identification of the CesA gene family of $B$ .rapa can not only lay the foundation for the subsequent in-depth study of the function of CesA gene, but also lay the foundation for the growth and development of $B$ rapa.
+
+Keywords Cellulose synthase， Brassica rapa， CesA， gene family， gene expression
+
+纤维素（cellulose）是植物细胞壁的主要成分（姚敦义等，1988），在细胞生长、分化、信号转导等过程中起到重要作用(Xie et al.,2021)。纤维素合酶（Cellulose synthases A,CesA)是合成纤维素的酶（Doblin etal.,2002），本质上属于糖基转移酶，最初在革兰氏阴性细菌醋杆菌中被鉴定（Wong etal.,1990），植物纤维素合酶是由36个单体组成的玫瑰状复合体，其单体主要由纤维素合成酶基因家族成员编码。高等植物纤维素合成酶复合体中，有不少于三种CesA亚型参与（Doblin etal.,2002），CesA亚基彼此相互作用形成高级复合物。
+
+迄今为止，CesA基因家族已经在模式植物拟南芥(Pear et al.,1996)、水稻(Huang et al.,2015)、烟草（Xu etal.,2017）中鉴定出来，其中拟南芥CesA基因的研究最为深入(Richmond,2000)。研究表明，拟南芥基因组拥有10个CesA基因(CesA1-10)，它们编码与细菌纤维素合成酶同源的蛋白(Pear et al.,1996)，其次生细胞壁的形成需要三种类型的 CesA 亚基(CesA4/不规则 XYLEM5 [IRX5], CesA7/IRX3 和 CesA8/IRX1)(Hernandez-Blanco et al., 2007)，CesA3基因突变使纤维素合成水平降低，通过茉莉酸和乙烯等信号通路激活木质素合成和防御反应（Cano-Delgado etal.,2003）；在水稻基因组中共鉴定到11个OsCesA基因，水稻中的赤霉素信号转导可以通过促进纤维素的合成，进而影响水稻植株节间的发育(Huang etal.,2015);此外，烟草基因组中鉴定出21个NtCesA基因，NtCesA7、NtCesA9、NtCesA11、NtCesA16、NtCesA18 等基因主要参与烟草次生细胞壁纤维素的合成（Xu etal.,2017）。除模式植物外，玉米(Appenzeller et al.,2004)、棉花（Meng et al.,2012）、巨龙竹（Wang et al.,2021）、紫花苜蓿(Liu etal.,2018）、罗布麻(Xie etal.,2021)等多种非模式植物中也鉴定出CesA 基因。从玉米中鉴定出12个不同的ZmCesA基因，在初级或次级细胞壁合成的独特细胞类型中表达(Doblin et al.,2002)。棉花中鉴定出18个CesA 基因（Meng et al.,2012）；巨龙竹中鉴定出 45个CesA 基因（Wang etal.,2021）。紫花苜蓿盛花期CesA 基因表达水平显著增长，纤维素含量大幅增加（Liu etal.,2018）。罗布麻CesA基因家族包含的大量光响应、胁迫响应、激素响应等元件，在植株生长发育与抗逆防御方面发挥着作用(Xieetal.,2021)。
+
+白菜（B.rapa）属十字花科（Cruciferae）芸薹属（Brassica）二年生草本植物，原产于我国，栽培历史悠久，年种植面积180万 $\scriptstyle \mathrm { h m } ^ { 2 }$ 左右(张凤兰等，2021)，是人们日常餐桌上必不可少的蔬菜。2011年，白菜全基因组测序工作完成（Wang etal.,2011），2017年获得了升级的 v2.5版本（Cai et al.,2017），2018 年获得了白菜参考基因组v3.0新版本（Zhang et al.,2018），为后续开展白菜基因研究奠定了坚实的基础（Chen etal.,2020）。目前CesA基因家族在白菜中还未进行深入鉴定与分析。本研究以白菜的全基因组序列为研究区域，依托在线软件与qRT-PCR分析，采用生物信息学方法，通过对CesA基因家族的结构、进化特征、组织表达等进行系统鉴定，拟探讨以下问题：（1）白菜CesA基因家族的遗传进化规律；（2）该家族成员的理化性质；（3）该家族成员的基因结构、蛋白质二级结构及保守结构域；（4）该家族成员在各组织中的表达模式以及在盐胁迫下的表达模式。
+
+# 1材料与方法
+
+# 1.1基因家族成员鉴定及理化性质分析
+
+根据拟南芥已经鉴定的10个CesA基因序列,通过BLAST在白菜基因组（B.rapa genomev1.5）中搜索候选的白菜CesA家族成员，并通过综合分析确定候选基因。使用TBtools 软件(Chen et al.,2020)结合 Expasy(Wang et al.,2012)（https://www.expasy.0rg/）分析白菜 CesA基因家族的蛋白质分子量(MW)、等电点(pI)等理化性质。
+
+# 1.2基因结构及保守结构域分析
+
+利用 TBTools 软件绘制白菜CesA基因结构图；利用 MEME（Kumaretal.,1994）（http://meme-suit.org/tools/meme）在线预 测CesA 蛋白质基序。TBtools软件(https://github.com/）绘制可视化MEME 结构，并进行基因结构分析。
+
+# 1.3基因在染色体上的分布及共线性关系分析
+
+通过白菜基因组数据库对鉴定获得的CesA基因家族成员进行染色体分析，利用TBTools软件作图进行分析。使用 BLAST 比对，合并、建库、蛋白对比；运行 MCScanX(Bolser et al.,2016)，进行下游分析及可视化作图，从而进行共线性分析，得到共线性图。
+
+# 1.4亚细胞定位预测和蛋白质二级与三级结构分析
+
+使用WoLF PSORT（http://www.genscript.com/wolf-psort.html) 进 行 亚 细 胞定位PRABI(https://npsa-prabi.ibcp.fr/cgi-bin/npsa_automat.pl?pag $\mathrel { \mathop : } =$ npsa_sopma.html)进行蛋白二级结构分 析。利用Phyre2 (Kelley et al.，2015）（htp://www.sbg.bio.ic.ac.uk/ phyre2/html/page.cgi?id=index）对白菜CesA蛋白进行三级结构预测。
+
+# 1.5白菜CesA基因家族成员蛋白跨膜螺旋与三级结构预测
+
+利用 TMHMM Server v2.0（http://www.cbs.dtu.dk/services/TMHMM/）对白菜CesA 蛋白跨膜螺旋进行预测。
+
+# 1.6C白菜CesA基因表达分析
+
+以“蛋黄白”白菜品种为实验材料。提取30d苗龄的根、茎、叶和80d苗龄的花和果荚的RNA，进行组织特异性表达分析。挑选生长状况相近的白菜幼苗浸泡于用Hoagland 营养液配制的 $\mathrm { 1 5 0 m m o l \cdot L ^ { - 1 } N a C l }$ 溶液中， $1 2 \mathrm { h }$ 后进行材料的RNA提取，并以正常水培幼苗为对照，进行盐胁迫下基因表达分析。
+
+使用 qPrimerDB-qPCR Primer Database （https:/biodb.swu.edu.cn/qprimerdb/） (Li et al.,2017)设计qRT-PCR引物，以BraActin2为内参基因（表1）。使用RNA提取试剂盒提取样品总 RNA，使用 HiScript llQRT SuperMix for qPCR 试剂盒反转录得到cDNA。使用ChamQUniversalSYBRqPCRMasterMix试剂盒进行定量实验。反应体系 $2 0 { \mu \mathrm { L } } { : } 2 { \mu \mathrm { L } }$ cDNA，上、下游引物各 $0 . 4 ~ \mu \mathrm { L }$ ,SYBR $1 0 ~ \mu \mathrm { L }$ ，用灭菌dd $\mathrm { H } _ { 2 } \mathrm { O }$ 补至 $2 0 ~ \mu \mathrm { L }$ 。PCR反应程序： $9 5 \ \mathrm { ^ \circ C }$ 预变性
+
+$3 0 ~ \mathrm { s } , 9 5 ^ { \circ } \mathrm { C }$ 变性 $1 0 \mathrm { ~ s ~ }$ ， $6 0 ^ { \circ } \mathrm { C }$ 退火 $2 2 { \mathrm { ~ s ~ } }$ ，进行 40个循环。基因的相对表达量以 $2 ^ { - \Delta \Delta \mathrm { C t } }$ 法计算。所得数据通过TBtools 进行可视化分析。
+
+表1白菜CesA基因家族表达分析的实时荧光定量PCR引物 Table 1 qRT-PCR primers for expression analysis of CesA gene family in Brassica rapa   
+
+<html><body><table><tr><td>基因编号 Gene ID</td><td colspan="2">引物序列（5’—3) Primer sequence</td></tr><tr><td>Bra023952</td><td>F:AAAGGTGGAGAAATTGAAGGGA</td><td>R:AATAATCACAACCCGGTAAGGT</td></tr><tr><td>Bra011345</td><td>F :GACATGATTCTCAGCCAATTCC</td><td>R:CTGATGTAGTTCGCACAGATTG</td></tr><tr><td>Bra011865</td><td>F:ATCGATACTCTAATCGCAACGT</td><td>R :ACAACCTGTCCCGACATATATC</td></tr><tr><td>Bra010691</td><td>F : CGCCTCGTCTAGTATTAACTGT</td><td>R : CCAACGTATATCGGTCCTTGTA</td></tr><tr><td>Bra029874</td><td>F :TTAGCTGTGGATATGAGGACAC</td><td>R:CAGTCTCCCTCCATAACCATAC</td></tr><tr><td>Bra005845</td><td>F:CGGAGCTCTACTTGTTCAAATG</td><td>R:GGTATCCACTGTTGATAGCGTA</td></tr><tr><td>Bra028768</td><td>F : CATGTCATTAGCTGTGGTTACG</td><td>R:GCATTTTGAACCCAGTCAGAAT</td></tr><tr><td>Bra033714</td><td>F : GCAAGCTCAAGATTCTAGAACG</td><td>R :AACCGCTGGGATAGTACAATAG</td></tr><tr><td>Bra036008</td><td>F :CGACAACGGAAGCAATTTTCTA</td><td>R:GACATCCCAAATCTCTTCTCGA</td></tr><tr><td>Bra006036</td><td>F : CTTGGCCTGGTAATAATGTTCG</td><td>R : TTTGCTGTTGTTGATGTAGTGG</td></tr><tr><td>Bra037793</td><td>F : TAATAGCACAAGAGATCACCCC</td><td>R :GAACCCCTGAGACTCGTATAAG</td></tr><tr><td>Bra024324</td><td>F :TTTGTTCTGATTAATGCCGACG</td><td>R : TCTCTGCAGATTTTACACGTCT</td></tr><tr><td>Bra031904</td><td>F :ATATGAAGGGTTTGGATGGGTT</td><td>R:ATAGGAAACACCATTTAGGCCA</td></tr><tr><td>Bra004814</td><td>F : GAGGACGAGGATGATAATGAGG</td><td>R :ATACACTAACCCAACATCCCAG</td></tr><tr><td>Bra006407</td><td>F :CAAGCAAGATCAATCCATACCG</td><td>R :AGAGACGGTCTAGATAGGTCTC</td></tr><tr><td>Bra012578</td><td>F :ACAGTCTCCACAATAGACAGTG</td><td>R:GGATAGGTATCACAACCGAGAG</td></tr><tr><td>BraActin 2</td><td>F :CGGTGTCATGGTTGGGAGA</td><td>R :CGTGCTCGATGGGGTACTTC</td></tr></table></body></html>
+
+# 2结果与分析
+
+# 2.1白菜CesA基因家族成员的鉴定与理化性质分析
+
+经筛选鉴定，得到16个白菜CesA基因家族成员（表2），分析结果表明白菜CesA家族蛋白等电点介于 $4 . 7 6 { \sim } 9 . 1 2$ 之间，酸性蛋白与碱性蛋白的数量相近，分别为7个与9个。分子量介于 $1 7 . 7 6 \mathrm { k D } { \sim } 1 2 2 . 6 7 \mathrm { k D }$ 之间。 $B r a 0 1 1 8 6 5$ 的氨基酸数目最多，Bra004814、Bra010691蛋白的氨基酸数目显著少于其他成员。
+
+表2白菜CesA基因家族信息  
+Table 2 Information of CesA gene family in Brassica rapa   
+
+<html><body><table><tr><td>基因编号 Gene ID</td><td>染色体 Chromosome</td><td>等电点 Isoelectric</td><td>分子量(kD) Molecular</td><td>起始位置(bp) Start location (bp)</td><td>终止位置(bp) End location (bp)</td><td>蛋白长度 Protein length</td></tr><tr><td>Bra023952</td><td>A03</td><td>point 6.34</td><td>weight (kD) 122.17</td><td>28 621 459</td><td>28 626 059</td><td>(aa) 1083</td></tr><tr><td>Bra011345</td><td>A01</td><td>6.51</td><td>121.85</td><td>2 640 630</td><td>2 645 508</td><td>1080</td></tr><tr><td>Bra011865</td><td>A01</td><td>7.04</td><td>121.03</td><td>150 169</td><td>154 808</td><td>1074</td></tr><tr><td>Bra010691</td><td>A08</td><td>6.98</td><td>31.61</td><td>16 010 300</td><td>16 016 114</td><td>287</td></tr><tr><td>Bra029874</td><td>A05</td><td>8.39</td><td>118.03</td><td>21 907 336</td><td>21 912 132</td><td>1 046</td></tr><tr><td>Bra005845</td><td>A03</td><td>7.67</td><td>118.62</td><td>899408</td><td>903 741</td><td>1055</td></tr><tr><td>Bra028768</td><td>A02</td><td>7.43</td><td>119.79</td><td>2 136 518</td><td>2 141 039</td><td>1066</td></tr><tr><td>Bra033714</td><td>A06</td><td>8.43</td><td>119.81</td><td>25 466 123</td><td>25 470 303</td><td>1052</td></tr><tr><td>Bra036008</td><td>scaffold</td><td>9.12</td><td>20.92</td><td>492 903</td><td>493 889</td><td>1089</td></tr><tr><td>Bra006036</td><td>A03</td><td>6.65</td><td>121.40</td><td>1703 119</td><td>1 708 289</td><td>1076</td></tr><tr><td>Bra037793</td><td>A09</td><td>7.65</td><td>122.18</td><td>3 605 709</td><td>3 610 867</td><td>1083</td></tr><tr><td>Bra024324</td><td>A06</td><td>7.24</td><td>122.67</td><td>14 970 360</td><td>14 975 283</td><td>1082</td></tr><tr><td>Bra031904</td><td>A02</td><td>7.81</td><td>121.49</td><td>27187 433</td><td>27192 926</td><td>1079</td></tr><tr><td>Bra004814</td><td>A05</td><td>4.76</td><td>17.76</td><td>1 926 040</td><td>1 927 962</td><td>153</td></tr><tr><td>Bra006407</td><td>A03</td><td>6.18</td><td>116.43</td><td>3 382190</td><td>3386 798</td><td>1034</td></tr><tr><td>Bra012578</td><td>A03</td><td>6.69</td><td>111.40</td><td>23 439101</td><td>23 442 994</td><td>985</td></tr></table></body></html>
+
+# 2.2白菜CesA家族基因系统进化分析
+
+许多物种中都有CesA家族同源基因的进化与表达（表3）。为了解白菜CesA基因家族与拟南芥CesA基因家族之间的进化关系，利用MEGA-X软件，对两者的CesA基因家族成员进行了系统进化分析，结果表明白菜CesA基因家族与拟南芥CesA基因家族有相近的进化关系（图1）。CesA基因可以分为4个亚族，同时，共发现有5个白菜CesA（Bra006407、Bra012578、Bra033714、Bra011865、Bra006036）与拟南芥CesA具有高度同源性，表明这五对基因具有高度的亲缘关系。通过对基因分化时间预测，在基因进化的角度推测以CesA1出现时间最早。
+
+![](images/4ff6c81971ff668c4d3665ce1759bc3b60a4984a28765174e3afd658e54c266d.jpg)  
+图1白菜与拟南芥CesA蛋白家族系统进化树
+
+Bra．白菜；AT.拟南芥。下同。   
+Bra.Brassicarapa;AT.Arabidopsisthaliana.The same below.
+
+Fig.1 Distribution of conserved motifs of CesA protein family in Brassica rapa and Arabidopsis thaliana
+
+表3CesA家族同源基因在不同物种中的功能研究  
+Table 3 Studies on the function of CesA family homologous genes in different species   
+
+<html><body><table><tr><td>拟南芥基因 ID</td><td>基因ID</td><td>物种</td><td>功能</td><td>参考文献</td></tr><tr><td>Arabidopsis thaliana ID</td><td>Gene ID</td><td>Species</td><td>Function</td><td>Reference</td></tr><tr><td>ATCesA2</td><td>CrCESA2-2</td><td>琯溪蜜柚 Guanxi pomelo</td><td>参与初生壁纤维素合成调控</td><td>Dai et al.,</td></tr><tr><td>ATCESA7、ATCESA8</td><td>CrCESA4、CrCESA7-1、CrCESA8</td><td>琯溪蜜柚</td><td>Regulation of primary wall cellulose synthesis 参与了汁胞粒化过程次生壁纤维素的积累</td><td>2021 Dai et al.,</td></tr><tr><td>ATCesA1、ATCesA3</td><td>AvCesA2、AvCesA3</td><td>罗布麻</td><td>Accumulation of secondary wall cellulose during granulation of juice cells 参与初生细胞壁纤维素合成基因</td><td>2021 Xie et al.,</td></tr><tr><td></td><td></td><td>Apocynum venetum</td><td>Primary cell wall cellulose synthesis gene</td><td>2021</td></tr><tr><td>ATCesA7、ATCesA4、 ATCesA8</td><td>AvCesA5、AvCesA8、AvCesA10</td><td>罗布麻 Apocynum venetum</td><td>参与次生细胞壁纤维素的合成 Primary cell wall cellulose synthesis</td><td>Xie et al., 2021</td></tr><tr><td>ATCesA6、ATCesA1</td><td>Del0040587、De10044972、</td><td>铁皮石斛</td><td>初生细胞壁的纤维素合成有关</td><td>Lan et al.,</td></tr><tr><td></td><td>Del0083985、De10040239</td><td>Dendrobium candidum</td><td>Primary cell wall is involved in cellulose synthesis</td><td>2019</td></tr><tr><td>ATCesA4、ATCesA7、</td><td></td><td>铁皮石斛</td><td>次生细胞壁合成相关</td><td>Lan et al.,</td></tr><tr><td></td><td>Del10044623、De10069041</td><td></td><td></td><td></td></tr><tr><td>ATCesA8</td><td></td><td>Dendrobium candidum</td><td>Secondary cel wall synthesis is related</td><td>2019</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ATCesA1、ATCesA3、</td><td>MlCesA7</td><td>南获</td><td>参与初级细胞壁的形成</td><td>Li et al.,</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="4">lutarioriparius</td></tr><tr><td>ATCesA4、ATCesA7、</td><td>MlCesA4、MICesA9</td><td>南获</td><td>参与次级细胞壁的形成</td><td>Li et al.,</td></tr><tr><td>ATCesA8</td><td></td><td>Miscanthus</td><td>Formation of secondary cell walls</td><td>2021</td></tr><tr><td rowspan="3">ATCesA8</td><td rowspan="3">ClCesA1</td><td>lutarioriparius</td><td></td><td></td></tr><tr><td>杉木</td><td>参与木材次生壁形成</td><td>Pang et al.,</td></tr><tr><td>Abies holophylla</td><td>Wood secondary walls form</td><td>2015</td></tr><tr><td rowspan="3">ATCesA1 ATCesA1、ATCesA2、</td><td rowspan="3">ClCesA2</td><td>杉木</td><td>参与细胞初生壁的形成</td><td>Pang et al.,</td></tr><tr><td>Abies holophylla</td><td>Formation of the primary wall of a cell</td><td>2015</td></tr><tr><td>兴安落叶松</td><td>与细胞初生壁的生长相关</td><td>Te et al.,</td></tr><tr><td>ATCesA3、ATCesA5、</td><td>LgCesA1、LgCesA3、LgCesA5和 LgCesA6</td><td>Larix gmelinii</td><td>Growth correlates with the primary wall of cells</td><td>2021</td></tr><tr><td>ATCesA6、 ATCesA4、ATCesA7、</td><td>LgCesA4、LgCesA8</td><td>兴安落叶松</td><td>与细胞次生壁的生长相关</td><td>Te et al.,</td></tr><tr><td>ATCesA8</td><td></td><td>Larix gmelinii</td><td>Growth correlates with cell secondary walls</td><td>2021</td></tr><tr><td>ATCesA3、ATCesA9</td><td>F01_cb9914_c103031/f5p6/3907、</td><td>巨龙竹</td><td>参与初生壁纤维素生物合成</td><td>Wang et al.,</td></tr><tr><td></td><td>F01__cb9914__c4357/f4p0/4200</td><td>Dendrocalamus sinicus</td><td>Primary wall cellulose biosynthesis</td><td>2021</td></tr><tr><td>ATCesA4、ATCesA7、 7</td><td>NtCesA7、NtCesA9、NtCesA11、</td><td>烟草</td><td>主要参与烟草次生细胞壁纤维素的合成</td><td> Xu & Kong,</td></tr><tr><td>ATCesA8</td><td>NtCesA16、NtCesA18</td><td>Nicotiana tabacum</td><td>Synthesis of cellulose from secondary cell wall</td><td>2017</td></tr><tr><td>ATCesA1、ATCesA3、</td><td>NtCesA19</td><td>烟草</td><td>参与初生细胞壁纤维素合成</td><td> Xu & Kong,</td></tr><tr><td>ATCesA6</td><td></td><td>Nicotiana tabacum</td><td>Primary cell wall cellulose synthesis</td><td>2017</td></tr><tr><td>ATCesA1、ATCesA3、</td><td>RpCesA2</td><td>刺槐</td><td>参与初生细胞壁纤维素合成</td><td></td></tr><tr><td>ATCesA6</td><td></td><td>Robinia pseudoacacia</td><td>Primary wall cellulose biosynthesis</td><td>Zhang et al.,</td></tr><tr><td></td><td>DlCesA3-2、DlCesA6、DlCesA7-1</td><td>龙眼</td><td>可能影响植物胚乳发育</td><td>2017</td></tr><tr><td>7:</td><td></td><td></td><td></td><td>Zhu et al.,</td></tr><tr><td></td><td>DlCesA7</td><td>Euphoria longan</td><td>Affect plant endosperm development</td><td>2020</td></tr><tr><td>></td><td></td><td>龙眼</td><td>可能参与龙眼体胚发育调控</td><td>Zhu et al.,</td></tr><tr><td></td><td></td><td>Euphoria longan</td><td>Regulation of somatic embryo development</td><td>2020</td></tr></table></body></html>
+
+注：拟南芥ID栏为物种基因家族对应同源基因；一一表示无对应基因。 Note: ID column of Arabidopsis thaliana is the corresponding homologous gene of the species gene family；- indicates no corresponding gene.
+
+# 2.3白菜CesA家族基因的结构和保守结构域分析
+
+利用 TBtools 对16个白菜CesA基因家族成员进行基因结构分析，结果显示（图2）。该家族成员大都包含 $4 { \sim } 1 4$ 个外显子。其中5个基因含有14个CDS序列，3个基因含有13个CDS 序列，4个基因含有12个CDS序列，Bra033714含11个CDS序列，Bra010691含6个CDS序列， $B r a 0 0 4 8 1 4$ 含有5个CDS序列，Bra036008含有4个CDS序列。表明部分家族基因结构间存在较大差异，具有丰富的多样性。
+
+利用MEME/MAST程序进行蛋白保守结构域分析（图3），共鉴定到10种Motif，大部分成员含有相同的Motif组成。均含有一个保守的Motif1;Bra011345基因中含有Motifl\~10及一个重复的Motif6；Bra011865基因中含有Motifl ${ \sim } 1 0$ 及一个重复的Motif8，推测具有差异的基因在白菜生长周期中发挥不同于其他的作用。利用DNAMAN对白菜CesA进行氨基酸序列进比对显示（图4），除了Bra010691、Bra036008和 $B r a 0 0 4 8 1 4$ ，其余家族基因都含有CesA蛋白典型DDD-QXXRW 保守功能域，与拟南芥CesA蛋白具有相同的保守功能域(Delmer DP，1999)。
+
+![](images/beb3cc5841c6ae882ddf404dbe99c014b2316c3dc76b3dab74c87952b37ebc32.jpg)  
+图2白菜CesA基因的结构
+
+Bra023952 Motif10 TKeKXAAAKYIENHYK_QM.LOERKERRLEKLAAPVSEEO.N Bra011345   
+Bra011865 Motif5 8SEVGTEYAPE   
+Bra029874 Motif4 ERiLELFe   
+Bra005845   
+Bra028768 Motif2 EAREYAExbLALExL.GYRDLKPENCLxoDGHMLSDFeLS Bra033714 MoD IFAyKK   
+Bra006036 Bra037793 MotfdGexDWWEGYELGPFTY Bra024324 Mot dGAEK-HEFGxWL   
+Bra031904 Motifs ARDLI.LLe.   
+Bra004814   
+Bra006407 Motif6 9LYMExeGGpbob   
+Bra012578   
+5 Motif7 ELLG.G8GVn   
+200 600 800 1000 1200   
+氨基酸Aminoacid(aa) 框选内容为白菜CesA蛋白D、DXD保守功能域与QXXRW保守功能域。   
+Boxes are CesA protein D，DXD conserved functional domain and QXXRW conserved functional domain.
+
+![](images/26d998a15ec2d01c6818ec62481d7de1ce143cb2e4e58b08cedffd04b682738d.jpg)  
+Fig.2 Structure of CesA gene in Brassica rapa   
+图3白菜CesA家族结构域分析  
+Fig.3Motif of CesAs family in Brassica rapa   
+图4白菜CesA家族氨基酸序列比对
+
+Fig. 4Multiple secquence alignment of CesA family in Brassica rapa
+
+# 2.4白菜CesA家族染色体定位与共线性分析
+
+利用TBtools绘制出白菜CesA家族基因的染色体分布图（图5）。CesA基因不均匀地分布于A01、A02、A03、A05、A06、A08、A09七条染色体上，Bra036008 定位于 scaffold上。
+
+利用TBtools对16个白菜CesA基因家族成员与拟南芥进行分析，共鉴定到7对共线性基因对（图6）。大多数白菜CesA家族成员都可找到在拟南芥中的直系同源基因，仅Bra010691和Bra004814无与之对应的共线性的基因。
+
+![](images/143d3c97d8243df561d5009e75e4600fa579eea4b593ed8825ef7359d46fbfb1.jpg)
+
+A01\~A10为白菜染色体。   
+A01\~A10 are Brassica rapa chromosomes.
+
+![](images/8b782f45f3fe8c459a3605991dc4de5d452865460710d61af10f768cf5ee48b5.jpg)  
+图5白菜CesA基因在染色体上的位置分布Fig. 5 Chromosome localization of CesA gene in Brassica rapa  
+图6白菜与拟南芥间CesA家族共线性分析
+
+1\~5为拟南芥染色体；A01\~A10为白菜染色体。   
+1-5are Arabidopsis thaliana chromosomes; A01-A10 are Brassica rapa chromosomes.
+
+Fig. 6 Synteny analysis of CesA family between Brassica rapa and Arabidopsis thaliana
+
+# 2.5亚细胞定位预测和蛋白质二级结构分析
+
+基因的亚细胞定位有助于我们进一步了解其功能。利用WoLFPSORT在线网站进行亚细胞定位分析，发现绝大多数白菜CesA定位在质膜上，与纤维素合酶的作用机制相符。蛋白质二级结构是多肽链在空间的三维排列中的一个高级组织层次，了解CesA蛋白的结构有助于预测其分子功能。利用PRABI在线网站对白菜CesA蛋白进行分析，发现CesA基因家族成员的蛋白质二级结构含有大量无规则卷曲、 $\mathfrak { a }$ -螺旋和延伸链结构及少量的β-转角(表3)。
+
+表3白菜CesA亚细胞定位预测与二级结构分析  
+Table 3 Prediction of subcellular location and secondary structure of CesA in B.rapa   
+
+<html><body><table><tr><td></td><td colspan="6">亚细胞结构定位</td><td colspan="6">蛋白质二级结构分析</td></tr><tr><td></td><td colspan="9">Sbcellular localization prediction</td><td colspan="4">Protein secondary structure</td></tr><tr><td>蛋白质ID</td><td>质膜 Plas</td><td>叶绿体 Chlo</td><td>胞浆 Cyto</td><td>线粒体 Mito</td><td>液泡</td><td>Vacu</td><td>细胞核 内质 Nucl 网 E.R.</td><td>α-helix (%)</td><td>α-螺旋</td><td>延伸链 Extended strand (%)</td><td>β-转角 β-turn (%)</td><td>不规则卷曲 Random coil (%)</td></tr><tr><td>Bra023952</td><td>11</td><td></td><td></td><td></td><td></td><td></td><td></td><td>31.86</td><td>15.51</td><td></td><td>4.89</td><td>47.74</td></tr><tr><td>Bra011345</td><td>12</td><td></td><td></td><td></td><td></td><td></td><td>1</td><td></td><td>32.13</td><td>16.67</td><td>4.63</td><td>46.57</td></tr><tr><td>Bra011865</td><td>12</td><td></td><td></td><td></td><td></td><td></td><td></td><td>33.71</td><td>15.74</td><td></td><td>5.59</td><td>44.97</td></tr><tr><td>Bra010691</td><td>7</td><td></td><td>1</td><td>1</td><td></td><td></td><td></td><td>35.54</td><td></td><td>24.04</td><td>9.06</td><td>31.36</td></tr><tr><td>Bra029874</td><td>9</td><td></td><td></td><td></td><td></td><td></td><td></td><td>32.7</td><td></td><td>14.63</td><td>4.49</td><td>48.18</td></tr><tr><td>Bra005845</td><td>10</td><td></td><td></td><td>1</td><td></td><td></td><td></td><td>33.27</td><td></td><td>14.6</td><td>4.36</td><td>47.77</td></tr><tr><td>Bra028768</td><td>11</td><td></td><td></td><td></td><td></td><td></td><td></td><td>33.49</td><td></td><td>14.45</td><td>4.69</td><td>47.37</td></tr><tr><td>Bra033714</td><td>11</td><td></td><td></td><td></td><td></td><td></td><td></td><td>35.08</td><td></td><td>14.54</td><td>5.23</td><td>45.15</td></tr><tr><td>Bra036008</td><td></td><td>1</td><td></td><td>4</td><td></td><td></td><td></td><td>28.04</td><td></td><td>17.46</td><td>8.47</td><td>46.03</td></tr><tr><td>Bra006036</td><td>13</td><td></td><td></td><td></td><td></td><td></td><td></td><td>31.78</td><td>15.24</td><td></td><td>4.28</td><td>48.7</td></tr><tr><td>Bra037793</td><td>13</td><td></td><td></td><td></td><td></td><td></td><td></td><td>31.95</td><td>15.14</td><td></td><td>4.89</td><td>48.01</td></tr><tr><td>Bra024324</td><td>13</td><td></td><td></td><td></td><td></td><td></td><td></td><td>32.75</td><td></td><td>14.37</td><td>4.2</td><td>48.68</td></tr><tr><td>Bra031904</td><td>13</td><td></td><td></td><td></td><td></td><td></td><td></td><td>32.25</td><td></td><td>14.02</td><td>3.73</td><td>50</td></tr><tr><td>Bra004814</td><td></td><td>8</td><td>4</td><td></td><td></td><td></td><td></td><td>16.99</td><td></td><td>26.14</td><td>10.46</td><td>46.41</td></tr><tr><td>Bra006407</td><td>11</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td>34.53</td><td></td><td>14.81</td><td>3.59</td><td>47.06</td></tr><tr><td>Bra012578</td><td>12</td><td></td><td></td><td></td><td></td><td></td><td></td><td>32.79</td><td></td><td>14.42</td><td>4.77</td><td>48.02</td></tr></table></body></html>
+
+注：关于亚细胞定位数值根据分选信号、氨基酸组成和功能域数，经kNN算法而得到；数值表示所占比例；“—"表示无数值
+
+Note: Values of subcellular localization is obtained according to sorting signals，amino acid composition and functional motifs from KNN.The numerical value represents the proportion column;—represents the absence of a value.
+
+# 2.6白菜CesA家族成员蛋白跨膜结构域预测
+
+利用TMHMM对白菜CesA家族成员蛋白的跨膜结构进行预测，结果显示（图7）：除Bra010691、Bra036008、Bra004814蛋白外，其余家族成员蛋白在C端均含有6个完整的跨膜结构域，且每个组成跨膜结构域的氨基酸数量与位置均相似，据此推测其可能有相同的结构和功能，而 Bra010691、Bra036008、Bra004814可能因为发生突变，相应功能发生变化，而导致跨膜结构缺失。仅有Bra005845、Bra006036、Bra024324、Bra028768、Bra031904、Bra033714、Bra037793蛋白在近N端均含有2个完整的跨膜结构域。
+
+横坐标为蛋白序列长度（氨基酸数量）；纵坐标为概率。
+
+![](images/c21486561e4c40c361c0d49ce94af95ac242af270791294642505dba35d2946c.jpg)  
+图7白菜CesA蛋白跨膜螺旋预测
+
+The x-coordinate is the length of the protein sequence (the number of amino acids); the y-coordinate is the probability.
+
+Fig.7 Prediction of CesA protein transmembrane helix of Brassica rapa
+
+# 2.7白菜CesA基因家族表达分析
+
+通过qRT-PCR 分析CesA 在根、茎、叶、花、果荚中表达水平，使用 TBtools 将这些基因进行可视化分析（图8）。结果表明CesA 基因在根、茎、叶、花、果荚中均有不同程度的表达，且在茎部表达量较高。Bra011865、Bra023952和Bra029874在茎、叶、花和果荚中表达量均显著高于在根中的表达水平，其中， $B r a 0 2 9 8 7 4$ 的表达量最为显著，在茎、叶、花中表达量为在根中表达量的6\~7倍。
+
+![](images/aae4f33219bf1048ac600912a7392d4dd06a562900dc15337fa4224d3f8171b2.jpg)  
+图8白菜不同组织中CesA基因的表达模式Fig.8 Expression pattern of CesA genes in different tissues
+
+通过qRT-PCR分析CesA在正常与 $1 5 0 \mathrm { m M } { \cdot } \mathrm { L } ^ { - 1 } \mathrm { N a C l }$ 胁迫状态下的表达水平，结果表明大部分CesA基因对盐处理有一定程度的响应，其中 $B r a 0 1 1 8 6 5$ 的 $2 \mathrm { h }$ 处理和 $6 \mathrm { { h } }$ 处理组，与 $B r a 0 1 0 6 9 1$ 的6h处理组响应最为显著，Bra024324、Bra028768及 $B r a 0 2 3 9 5 2$ 也有比较明显的响应（图9）。
+
+![](images/c55d63e690fea9607d4ac460fd19115685198144b40f4786dbc81ee34b3ed369.jpg)  
+图9在盐胁迫下白菜CesA基因家族表达分析
+
+Fig. 9 Expression analysis of CesA gene family under salt stress in Brassica rapa
+
+# 3讨论与结论
+
+纤维素是植物细胞壁形成的主要成分，通过参与细胞形态建成，调控细胞发育，参与多种胞内信号转导途径，从而影响植物体的生长发育。植物纤维素合酶是由36个单体组成的，本质为糖基转移酶的玫瑰状复合体。Doblineetal.（2002）研究显示，纤维素合酶的主要功能是负责在质膜上催化纤维素的生物合成，高等植物纤维素合成酶复合体中，存在三种以上CesA亚型参与，其亚基之间相互作用形成高级复合物。本研究鉴定到16个白菜CesA基因，对白菜和拟南芥CesA基因家族共线性分析显示，两者的进化关系较近，而聚类在同一分支上的基因，如Bra023952、Bra011345与ATCesA1（AT4G32410）聚类在同一分支上，可能具有相似的生物学功能。对白菜CesA基因家族成员进行的理化性质分析表明，蛋白等电点介于 $4 . 7 6 { \sim } 9 . 1 2$ 之间，对酸性及碱性环境适应性均较好。16个家族成员定位在7条染色体上，其中ChrA03上最多，且 $B r a 0 3 6 0 0 8$ 定位在 scaffold上。Nawaz etal.(2019）的研究表明，家族成员蛋白有8个完整的跨膜结构域，各种植物来源的CesA基因在序列水平上有些差异。本研究中，白菜CesA家族成员多数有8个完整的跨膜结构域，其中C端有6个，近N端有2个，多数成员具有类似的保守结构域组成，表明其功能存在相似性。CesA蛋白跨膜区在膜上形成一个通道用于分泌葡萄糖链，在分泌通道的活性区域的附近，DDD残基与QXXRW保守结构域行使催化糖链合成的功能（Richmond,2000），本研究显示，白菜CesA基因家族大部分成员均含有DDD-QXXRW结构域，与现有报道的拟南芥与烟草等具有相同的结构域，存在进化上的保守性。
+
+CesA在转录水平调控纤维素合成，编码序列中内含子的有无及其在序列中的位置造成了CesA基因间的差异（Richmond,2000）。已有研究显示，烟草中鉴定出21个CesA基因家族成员中有 $1 2 { \sim } 1 6$ 个内含子（Xu&Kong,2017），水稻中鉴定出11个家族成员中有1\~13个内含子（Wang et al.,2015），铁皮石斛（Lan et al.,2019）和巨龙竹（Wang etal.,2021）中均含有较多内含子。本研究对基因结构的分析显示，白菜CesA基因家族成员都有3\~13个内含子，因其内含子较多，基因进化保守性降低，转录时出现可剪接突变的概率较高，因此CesA基因家族之间在结构上存在差异，具有丰富的多样性。植物中存在多种纤维素合成酶基因，不同基因作用在不同部位，表达的功能有差异。南获的MICesA7参与初级细胞壁的形成，MICesA4、MlCesA9 则参与次级细胞壁的形成（Lietal.,2021）;杉木的ClCesA1参与木材次生壁形成，ClCesA2 参与细胞初生壁的形成（Pang et al.,2015）;琯溪蜜柚中，CrCesA2-2基因参与初生壁纤维素合成调控，CrCesA4、CrCesA7-1、CrCesA8参与了次生壁纤维素的积累（Dai etal.,2021）;罗布麻的AvCesA2、AvCesA3参与初生细胞壁纤维素合成，AvCesA5、AvCesA8、AvCesA10参与次生细胞壁纤维素合成（Xie etal.,2021）。在本研究中对二级结构的分析显示，除 $B r a 0 3 6 0 0 8$ 和 $B r a 0 0 4 8 1 4$ 外，白菜CesA基因家族成员均定位在质膜上，表明该基因家族与细胞壁纤维素合成相关。CesA基因具有组织表达的特异性，Lanet al.(2019)对铁皮石斛CesA 基因进行分析得出，De10015261、De10044519、De10126237基因只在铁皮石斛的根中表达，De10015633、De10018596只在茎中表达，De10002966 在根、叶、花中均有表达。本研究中，16个白菜CesA家族基因在根茎叶花果荚中表达的个数和表达量均不相同，其中茎中表达量相对较高，尤其Bra011865、Bra023952和 $B r a 0 2 9 8 7 4$ 在茎、叶、花中显著表达。Zhang et al.(2016）的研究表明，AtCesA6 在拟南芥盐胁迫耐受性中发挥重要作用。本研究表明，大部分CesA基因对盐胁迫存在一定程度的响应，其中 Bra010691的6h处理组响应最为显著，表明该家族成员参与非生物胁迫的信号应答（Xuetal.,2017）。
+
+目前对白菜CesA基因家族还没有进行系统的功能鉴定，许多基因的功能尚未发掘。本研究利用生物信息学方法对白菜CesA基因家族进行了全基因组鉴定，并对其进化关系、基因结构、顺式作用元件等进行分析，为进一步探究白菜生长发育机制奠定了基础。
+
+# 参考文献
+
+APPENZELLER L，DOBLIN M,BARREIRO R,et al.， 2004. Celulose synthesis in maize: isolation and express analysis of the celulose synthase (CesA） gene family[J]. Celulose, 11(3-4): 287-299.   
+BOLSER D, STAINES DM, PRITCHARD E, et al., 2003.Ensembl plants: Integrating tools for visualizing，mining，and analyzing plant genomics data[J]. Methods Mol Biol,1374: 115-140.   
+Cano-Delgado A， PENFIELD S,SMITH C,et al.， 2003.Reduced cellulose synthesis invokes lignification and defense responses in Arabidopsis thaliana[J]. Plant J,34(3): 351-62.   
+CAI C,WANG X, LIU B, et al., 2017. Brassica rapa genome 2.0: A reference upgrade through sequence re-assembly and gene re-annotation. Mol Plant, 1O(4):649-651.   
+CHEN C, CHEN H, ZHANG Y, et al., 2020. TBtools: An integrative toolkit developed for interactive analyses of big biological data[J]. Mol Plant,13(8): 1194-1202.   
+DELMER DP,1999. Cellulose biosynthesis: exciting times for a difficult field of study[J]. Annu Rev Plant Biol, 50: 245-276.   
+DOBLIN MS,KUREK I, JACOB-WILK D, et al., 2002. Cellulose biosynthesis in plants: from genes to rosettes[J]. Plant Cell Physiol, 43(12): 1407-20.   
+DAI YL， ZHAO QY, LIU RN,et al., 2021. Analysis of celllose content and synthase gene expression in juice sacs secondary wall during granulation of Guanxi pomelo[J/OL]. Journal ofFruit Science:1-13.[代亚兰，赵秋月，刘若南，等，2021．琯溪蜜柚成熟期间汁胞纤 维素含量及其合成酶[J/OL]．果树学报：1-13.]   
+Hernandez-Blanco C,FENG DX,HU J,et al., 2007. Impairment of celulose synthases required for Arabidopsis secondary cell wall formation enhances disease resistance[J]. Plant Cell, 19(3): 890-903.   
+HUANG D, WANG S, ZHANG B, et al., 2015. A gibberelln-mediated DELLA-NAC signaling cascade regulates cellulose synthesis in rice[J]. Plant Cell, 27(6): 1681-96.   
+KUMAR S, Tamura K, Nei M,1994. MEGA: Molecular evolutionary genetics analysis software for microcomputers[J]. Comput Appl Biosci, 10(2): 189-191.   
+KELLEY LA,MEZULIS S, YATES CM, et al., 2015. The Phyre2 web portal for protein modeling, prediction and analysis[J]. Nat Protoc, 10(6): 845-858.   
+LI W, WANG J, SUN Q, et al., 2017. Expression analysis of genes encoding double B-box zinc finger proteins in maize[J]. Funct Integr Genomics,17(6): 653-666.   
+LIU XQ, ZHANG H, GONG P, et al.， 2018. Transcriptome analysis of secondary cell wall synthesis regulation at different developmental stages in Alfalfa (Medicago sativa L.)[J]. Scientia Agricultura Sinica,51(11):2049-2059.[刘希强，张涵，龚攀，等，2018．紫花苜 蓿不同发育时期次生壁合成调控的转录组分析[J]．中国农业科学，51(11):2049-2059.]   
+LAN XT, HU S, FENG L, et al., 2019. Bioinformatic analysis of the cellulose synthase supergene family in Dendrobium candidum[J].JHenan Agric Sci, 48(08): 49-55.[兰晓天，胡淞，冯磊, 等，2019.铁皮石斛纤维素合成酶超级基因家族生物信息学分析[J]．河南农业科学, 48(08): 49-55.]   
+LI Y,HE YQ,LIN YH, et al., 2021. Bioinformatics analysis of celulose synthase CesA gene from Miscanthus lutarioriparius[J].Mol Plant Breed,19(13): 4378-4385.[李遥，何彦岑,林宇环, 等，2021．南获纤维素合成酶 CesA 基因的生物信息学分析[J].分子植物育种,19(13): 4378-4385.]   
+MENG CS,WANG ZW, ZHANG JH, et al.， 2012. Bioinformatic comparison of the celulose synthase gene family of cotton and Arabidopsis thaliana[J]. Guizhou Agric Sci, 40(07): 39-41.[孟成生，王志伟，张俊红，等，2012．棉花与拟南芥纤维素合成酶基因家族的生 物信息学比较[J]．贵州农业科学，40(07):39-41.]   
+NAWAZ, MALIN, XACHAN TF, et al., 2019. Characterization of cellulose synthase A (CESA) gene family in eudicots[J]. Biochem Genet, 57(2): 248-272.   
+PEAR JR，KAWaAGOE Y， SCHRECKENGOST WE，et al.，1996.Higher plants contain homologs of the bacterial celA genes encoding the catalytic subunit of cellulose synthase. Proc Natl Acad Sci USA, 93(22): 12637-42.   
+PANG J, TONG ZK,HUANG HH, et al.，2015. Isolation and expression analysis of cellulose synthase genes in Chinese fir (Cunninghamia lanceolata [J]. J Zhejiang A& F Univ, 32(1): 40-46.[庞景，童再康，黄华宏，等，2015．杉木纤维素合成酶基因CesA的克隆及表达 分析[J]．浙江农林大学学报，32(1):40-46.]   
+RICHMOND T, 2000. Higher plant cellulose synthases[J]. Genome Biol,1(4): 3001-3006.   
+TE RGL, XU K, LIN XF, BAI YE, 2021. Cloning of and bioinformatics analysis of celulose synthase(CesA)genesfromLarixgmelinii[J/OL].MolBreed:1-18. https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename= FZZW20210330001&uniplatform $\circleddash$ NZKPT&v=_MB1PS_Ch2DjioVqcoYL_Pw5MRDUtZjc gTYfFhYI1UjrI0jT5vN9tgs8CTJmX_3-.[特日格勒，徐坤，林晓飞，白玉娥，2021．兴安 落叶松纤维素合酶基因的克隆及生物信息学分析[J/OL].分子植物育种:1-18. https://kns.cnki.net/kcms/detail/detail.aspx?dbcode $\scriptstyle : =$ CAPJ&dbname $=$ CAPJLAST&filename $\mathbf { \sigma } =$ FZZW20210330001&uniplatform $\mathsf { \Pi } _ { 1 } = \mathsf { \Pi }$ NZKPT&v $\ c =$ _MB1PS_Ch2DjioVqcoYL_Pw5MRDUtZjc gTYfFhYI1UjrI0jT5vN9tgs8CTJmX_3-.]   
+WONG HC,FEAR AL,CALHOON RD,1990. Genetic organization of the celulose synthase operon in Acetobacter xylinum. Proc Natl Acad Sci USA, 87(20): 8130-4.   
+WANG X, WANG H, WANG J, et al., 2011. Brassica rapa genome sequencing project consortium. The genome of the mesopolyploid crop species Brassica rapa. Nat Genet, 43(10):1035-9.   
+WANG Y, TANG H, DEBARRY JD, 2012. MCScanX: A toolkit for detection and evolutionary analysis of gene synteny and collinearity[J]. Nucleic Acids Res, 40(7): e49.   
+WANG ZY,WANG JP,PAN YX, et al., 2015. Bioinformatic analysis of CesA gene family in Arabidopsis and Rice[J].JHenan Agric Sci,44(06):13-17.[王振怡，王金朋，潘玉欣，等, 2015．拟南芥和水稻CesA基因家族的生物信息学分析[J].河南农业科学,44(06):13-17.]   
+WANG WZ, WANG J, WANG CM, et al, 2021. Bioinformatics analysis of celulose synthase a (CesA) gene family based on the transcriptome of Dendrocalamus sinicus [J]. Mol Breed, 19(9):2912-2921.[王文治，王娟，王昌命，等，2021．基于转录组的巨龙竹CesA基因 家族的生物信息学分析[J]．分子植物育种，19(9):2912-2921.]   
+XU ZC，KONG YZ, 2017. Genome-wide identification， subcelular localization and gene expression analysis of the members of CESA gene family in common tobacco (Nicotiana tabacum L.)[J].Hereditas,39(6): 512-524.[徐宗昌，孔英珍，2017．普通烟草 CESA 基因 家族成员的鉴定、亚细胞定位及表达分析[J]．遗传，39(6):512-524.]   
+XIE S,LI GQ, SONG LX, et al., 2021. Bioinformatics analysis of Apocynum venetum CesA gene family[J].Guihaia,41(4):522-534.[解盛，李国旗，宋立肖，等，2021．罗布麻CesA 基因 家族的生物信息学分析[J]．广西植物，41(4):522-534.]   
+YAO DY,WANG JZ,1988.Cytoderm[J]. Chin Bull Bot,1988(1): 18-21.[姚敦义，王静之，1988. 细胞壁[J]．植物学通报，1988(1):18-21.]   
+ZHANG SS, SUN L, DONG XR, et al., 2016. Cellulose synthesis genes CESA6 and CSIl are important for salt stress tolerance in Arabidopsis[J]. J Integr Plant Biol, 58(7): 623-626.   
+ZHANG L， CAI X， WU J， et al.,2018. Improved Brassica rapa reference genome by single-molecule sequencing and chromosome conformation capture technologies. Hortic Res, 15;5:50.   
+ZHANG FL, YU SC, YU YJ, et al.,2021. Research progress on Chinese cabbage genetic breeding during‘The Thirteenth Five-year Plan’ in China[J]. Chin Veget,2021(1): 22-32.[张凤兰，于 拴仓，余阳俊，等，2021.“十三五"我国大白菜遗传育种研究进展[J]．中国蔬菜，2021(1): 22-32.]

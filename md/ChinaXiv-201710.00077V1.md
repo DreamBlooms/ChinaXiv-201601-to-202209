@@ -1,0 +1,166 @@
+# 基于双向流固耦合方法的某风扇特性数值研究
+
+张帅1,2 高丽敏1,2 郑天龙1,2 邓卫敏1,2(1．西北工业大学动力与能源学院，西安710072;2．先进航空发动机协同创新中心，北京100191)
+
+摘要风扇转子工作在高压比、高转速、高负荷的级环境中，实际流动中存在风扇的长叶片与流体间强烈的耦合作用。针对风扇实际工作中存在的流固耦合问题，本文通过基于时域推进的双向流固耦合方法对风扇转子的流固耦合问题进行求解，并在此基础上对该转子的超声速非失速颤振现象进行研究。分析结果表明，考虑耦合效应的转子特性线整体向大流量方向偏移 $0 . 7 \%$ ，效率降低约 $0 . 7 6 \%$ ，总压比基本保持不变，稳定工作裕度略有减小；转子在设计转速下近效率最大点处，可能会发生基于叶片一阶固有模态振动的超声速非失速颤振现象。
+
+关键词风扇转子；流固耦合；几何变形；气动性能；非失速颤振中图分类号：V231.3 文献标识码：A 文章编号：0253-231X(2017)08-1683-09
+
+# Numerical Investigations on Characteristic of Fan Based on Two-Way Fluid-Structure Interaction Approach
+
+ZHANG Shuai $^ { 1 , 2 }$ GAO Li-Min1,2 ZHENG Tian-Long $^ { 1 , 2 }$ DENG Wei-Min $^ { 1 , 2 }$ （204号 (1.School of Power and Energy,Northwestern Polytechnical University，Xi'an 710o72,China; 2.Collaborative Innovation Center of Advanced Aero-Engine，Beijing l0ol91,China)
+
+Abstract There is strong coupling between the long fan blades and the fluid in actual flow feld, because the fan rotor works in the high pressure ratio,high rotation speed and high load level environment. In this paper,the fluid-structure interaction(FSI) problem of the fan rotor is solved by two-way fluid-structure interaction method based on the time marching，and the supersonic unstalled flutter phenomenon of the fan rotor is studied. The numerical results show that the fan rotor characteristic line shift $0 . 7 \%$ towards the large flow direction, the efficiency is reduced $0 . 7 6 \%$ ， the total pressure ratio remains the same and the stable operation margin decreases slightly when the coupling influence is considered.The supersonic unstaled futter based on the frst-order natural mode vibration of the blade may occur near the maximum effciency point at the design speed of the fan rotor.
+
+Key wordsfan; fluid-structure interaction; geometric deformation; aerodynamic performance; unstalled flutter
+
+# 0引言
+
+随着现代先进航空动力装置性能的迅猛提升，航空发动机向着高推重比、高负荷、高性能的方向不断发展。对于承担工质加功功能的风扇/压气机，级压比越来越高，叶片长度越来越长，厚度越来越薄，叶尖切线速度越来越高，非定常气动负荷不断增大。叶片在气动力和离心力共同作用下的流动不稳定问题、气动弹性问题等更加突出；而叶片变形后使得叶型偏离最佳理想设计而影响风扇/压气机的气动性能，严重时会对叶片的结构强度及振动特性产生较大影响[1]。
+
+目前国内外针对叶轮机械中的叶片气动弹性问题的研究大多是通过流固耦合的分析方法来实现的，即采用耦合求解非定常气动力和结构体瞬时变形的方法，这种方法能够提高数值模拟的精度，特别是在非线性影响强度较强的跨声速区域，因为该方法能够反映流体流动与结构振动的耦合物理过程，不但考虑到结构变形引起气动力变化的非线性，还可以处理结构动力学方面的结构体大变形、几何及材料非线性等问题[2]。而随着计算机技术的迅猛提升，计算流体力学/计算固体力学（CFD/CSD）耦合计算方法也得到了迅速的发展[3-5]。Wilson等[6]用非线性气动弹性模型研究了跨声速风扇叶片在不同工作状态下，几何变形对性能的影响及叶尖相对安装角的变化，发现叶片在不同转速下的变形对气动性能影响显著。
+
+随着计算力学的发展，数值计算方法在叶轮机械叶片设计过程中扮演着重要的角色[7]，可以有效预测叶片在实际工作过程中存在的颤振等气动弹性问题[8]。本文采用基于时域推进的双向流固耦合数值计算方法对NASACR-120859风扇第一级风扇转子在设计转速下的气动弹性问题进行数值计算研究,探究风扇转子叶片的静气动弹性变形规律及其对风扇转子性能、内流场的影响；并在此基础上，进一步研究该风扇转子的超声速非失速颤振现象，为叶片设计和风扇实际工作中避免此类气动弹性不稳定现象提供数值计算与理论借鉴。
+
+求解方法、湍流模型等的正确及合理性，对该风扇转子的整机在设计转速下进行定常流场特性数值模拟。图2所示为该风扇两级叶片的流道及计算网格。风扇的单通道四排叶片网格总数150万，不考虑各级转、静子的叶顶间隙；其进出口条件保持和实验环境条件基本一致，两级转子的转速均为设计转速,进口总压为 $\mathrm { 1 0 1 3 2 5 ~ P a }$ ，总温为 $2 8 8 . 1 5 \mathrm { ~ K ~ }$ ，同时对第二级静子的背压进行调节；气体动力学方程的求解采用求解定常的雷诺时均Naiver-Stokes(N-S）方程的方法，湍流模型采用考虑气体剪切应力的 SST 湍流模型。
+
+# 1 计算模型建立
+
+# 1.1 算例验证
+
+本文所采用的数值模拟理论及方法均基于NASACR-120859风扇，此风扇是包括适度的高叶尖速度、高气动载荷叶片、多圆弧翼型等先进设计概念的两级风扇。该风扇转子的第一级转子叶片的弦长较宽、展弦比较大、叶片较薄并且带防振凸肩，第二级转子的叶片较短、稠度较大、展弦比相对较小，该风扇的各级动、静叶片的实物如图1所示。
+
+![](images/90970c574a19520cf7021fc1831bf0cbc6649b79d685626c9f76c997eecba7f0.jpg)  
+图1NASACR-120859两级风扇转子各级叶片实物图Fig.1 Blades physical pictures of NASA CR-120859  
+图2两级风扇计算网格 Fig.2 The calculation grid of two stage fan
+
+二 IL为验证本文所选取的几何模型简化方法、流场
+
+该风扇的整机性能特性曲线的实验与数值计算对比如图3、图4所示。从对比图中发现，实验测量与数值计算的绝热效率与总压比在变化趋势上完全吻合，在数值上略有差异，实验测量的绝热效率略高于数值计算值，而数值计算的总压比值略高于实验测量值。实验测量的出口测点位于第二级静子出口截面，而数值计算的效率计算截面位于风扇整机的延伸段出口，这导致实验测量的静温值大于数值计算，实验测量绝热效率略大于数值计算值。在几何建模过程中对该风扇进行简化，数值计算过程中不考虑风扇转子的第一级转子的叶片防振突肩（如图1(a)所示)及各级转、静子的叶顶间隙等因素，这些均可能使该风扇转子的数值计算总压比大于实验测量值。
+
+综上所述，本文所选取的数值计算方法、湍流模型、转子几何模型简化等经过检验，风扇转子的气动性能和实验测量的变化趋势及数值基本吻合，能够满足本文对于转子叶片耦合特性研究的要求。由于受困于数值计算的计算量、转静交界面数据传递、动静干涉等因素，本文在接下来的叶片耦合特性研究中均选用考虑叶顶间隙、不带减振突肩的NASACR-120859风扇的第一级转子。
+
+# 1.2本文计算模型
+
+NASACR-120859风扇第一级转子叶片长达
+
+$0 . 2 3 6 1 \mathrm { ~ m ~ }$ ，进口轮毂比达到0.4，叶片的设计参数见表1。由于此风扇第一级转子叶片展弦比大，在转子实际转动过程中，长风扇叶片受离心力及气动力影响变形大、耦合特性明显，因此为在流固耦合分析的基础上研究静气动变形对风扇性能、流场及振动特性的影响，选择该两级风扇的第一级转子作为研究对象，该转子的三维几何模型如图5。
+
+![](images/23e969985af456602639f78b3ac87ed20f5a5c75bd41ae6a24fd34ab9437d848.jpg)  
+图3风扇整机绝热效率对比图
+
+![](images/b59467443c8532f1a6d0b76bb991c45c08d6c096d80751cdf14661a1847afc78.jpg)  
+Fig.3 Comparison of the fan adiabatic efficiency   
+Fig.4 Comparison of the fan total pressure ratio
+
+网格生成是数值计算中很重要的环节，其质量决定着数值计算能否完成及其结果是否可靠，而双向流固耦合数值计算对于流体域及固体域的网格质量要求更高。双向流固耦合的计算方法是基于时域推进的非定常计算，计算域的网格是随着时间不断变化的动网格，对于本文研究的带叶顶间隙的风扇转子叶片，其叶尖变形量较大，叶顶间隙网格复杂，在数值计算过程中很容易出现负网格，导致数值计算无法继续进行。经过大量的网格类型及不同数量级网格的数值计算发现，流体域网格对于叶片变形比较敏感，在数值计算过程中很容易产生负网格，而非结构化网格的抗畸变能力相对较强，对于风扇在近失速或是近堵塞的工况都能很好的适应。流体域的非结构化网格节点数为621354，单元数为2322831，固壁处附面层层数为15，固体壁面的第一层网格尺度满足求解方程对于 $y ^ { + }$ 值的要求。
+
+表1NASACR-120859 第一级风扇转子主要参数Table 1 The main parameters of the first stagefan rotor  
+
+<html><body><table><tr><td>设计参数</td><td>数值</td></tr><tr><td>叶片数</td><td>28</td></tr><tr><td>叶高/m</td><td>0.2361</td></tr><tr><td>设计转速/(r/min)</td><td>10720</td></tr><tr><td>叶尖切线速度/(m/s)</td><td>441.96</td></tr><tr><td>叶顶间隙/mm</td><td>1.5</td></tr><tr><td>设计流量/(kg/s)</td><td>83.55</td></tr><tr><td>设计效率</td><td>0.894</td></tr><tr><td>设计压比</td><td>1.787</td></tr></table></body></html>
+
+![](images/4a6b84d2e9ea8dddb637d55a4075c6803ca5efc87e714f1861f63dda15b83947.jpg)  
+图4风扇整机总压比对比图  
+图5第一级转子三维几何模型 Fig.5 The three dimensional geometric model of the first stage rotor
+
+本文基于时域推进的双向流固耦合解法采用求解非定常雷诺平均N-S方程，流体介质选取理想气体，瞬态求解格式是基于动网格方法的二阶欧拉向后差分格式，详细求解器参数设置如表2，固体域采用求解基于瞬态动力学方程的直接积分方法。在双向的耦合时域推进方法中，流体域的非定常计算与固体域的结构瞬态分析采用相同的时间步长，而流体域与固体域的瞬态求解是顺序进行的。本文研究的风扇转子叶片的耦合特性主要关注的是固体域变形对流体域流场的影响，因此选取先求解流体域再
+
+求解固体域的顺序。
+
+表2求解器参数设置  
+Table 2 The parameter settings of solver   
+
+<html><body><table><tr><td>计算参数</td><td>数值</td></tr><tr><td>湍流模型</td><td>SST</td></tr><tr><td>最小时间步 (t/s)</td><td>1.0×10-5</td></tr><tr><td>总时间 (T/s)</td><td>0.12</td></tr><tr><td>虚拟时间步 (Step)</td><td>10</td></tr><tr><td>参考压力(Pref/Pa)</td><td>101325</td></tr><tr><td>进口总温(TT1/K)</td><td>288.15</td></tr><tr><td>进口总压(PT1/Pa)</td><td>0</td></tr><tr><td>出口背压(Pb/Pa)</td><td>Variables</td></tr></table></body></html>
+
+# 2风扇转子耦合特性分析
+
+对NASACR-120859风扇转子进行非定常计算和基于时域推进的双向流固耦合计算，对计算得到的转子性能参数进行时均化处理，图6、图7所示为两者的总性能参数对比图。叶片的气动弹性变形导致转子的等转速线发生明显的偏移，耦合后的特性曲线整体向大流量方向偏移 $0 . 7 \%$ 左右，变化趋势基本吻合。效率数值有所降低，最大效率值降低 $0 . 7 6 \%$ 耦合前后的总压比在数值上基本相同，转子的稳定工作裕度略有减小。在双向流固耦合计算过程中，由于随着时间的推进，叶片发生弯扭振动，导致转子叶片的各截面安装角变小，进口气流角变大，流道的通流面积发生变化，使得风扇转子的特性曲线发生整体偏移；同时，由于转子叶片的往复振动、流场的不断变化及叶顶间隙的变化等因素使得风扇转子的等熵效率相比于耦合之前有所降低。
+
+![](images/eae00b38d31afffa15681d408603cbee82de01961cdadec89bdbe63aaf0b4a9e.jpg)  
+图6耦合前后风扇转子等熵效率  
+Fig.6 The entropy efficiency of fan rotor between the unsteady and coupling way
+
+![](images/afc42d2fb07804dcf38060b3a2754371c3599a881a5483d56c10e882e7da7209.jpg)  
+图7耦合前后风扇转子总压比  
+Fig.7 The total pressure ratio of fan rotor between the unsteady and coupling way
+
+# 2.1流场分析
+
+为研究风扇转子耦合前后效率及压比的变化，对叶片表面的静压等参数进行分析。图8给出了风扇转子叶片在设计工况下，耦合计算在叶片典型叶高截面位置的表面静压变化情况，其中黑色实线表示双向流固耦合的非定常计算周期内静压波动的时均值，而虚线和点划线表示对应非定常周期内叶片表面静压波动的最大值与最小值。首先对比分析转子叶表静压的时均值，在沿着叶高方向，转子的吸、压力面的静压包络线面积逐渐增大，即从叶根到叶尖，转子叶片的负荷逐渐加大，做功能力逐渐增强；叶表静压波动主要集中于叶片的吸力面及靠近叶顶部分，静压波动沿着展向逐渐增强的同时，从叶片的前缘波及尾缘，而叶片压力面仅在叶片前缘及 $9 8 \%$ 叶高的尾缘处有较大的波动。转子叶表静压波动变化及分布趋势，与耦合过程中叶片的几何变形规律紧密相关，而叶片变形主要集中于叶片的前缘及叶片上半部分。
+
+针对转子较高截面叶表静压波动剧烈的情况，如图9为时均化的叶表静压变化趋势对比图。图9(a）中转子叶片考虑耦合效应的叶背静压突变位置(即激波位置）明显沿弦向提前 $7 \%$ 左右，而压力突变的趋势明显增强，考虑耦合效应的叶背激波有所增强，气流经过激波后的静压值基本保持不变；图9(b)中 $9 8 \%$ 叶高处的激波位置在叶背沿弦向提前了$1 0 \%$ 左右，激波强度也有所增加，但激波后的静压值基本保持不变；而耦合后的叶片吸、压力面的静压包线面积有所减小，转子叶片做功能力略有减小。综合以上分析，考虑双向流固耦合效应的计算结果在叶背表面的激波强度有所增加，激波位置沿弦向前移，导致叶片通道内流动损失有所增加，同时其做功能力略有减小，使得考虑耦合效应的风扇转子效率有所降低。
+
+# 2.2固体域计算结果及分析
+
+风扇转子叶片在工作过程中承受较大的离心力和气动力载荷，为了使得转子叶片在耦合过程中，由未收敛到收敛过程中叶片几何变形量振荡幅值尽可能小，以及耦合计算过程达到稳定收敛位置的时间历程尽可能短，通过改变固体叶片的初始阻尼比来实现上述要求。图10所示为风扇转子叶片在不同初始阻尼比下结构的响应历程。从图中分析发现，不同的初始阻尼比下，叶片弹性变形收敛到相同的幅值；初始阻尼比越小，叶片弹性变形收敛到稳定幅值的时间历程越短；耦合计算的收敛过程中，初始阻尼比越小，收敛过程中的不稳定振动幅值就越大，对于叶片流体域网格质量要求越高，在计算过程中就越容易出现负网格。当叶片的初始阻尼比为0.1时，叶片的静弹性变形响应的收敛时间最短，但其在收敛过程中的网格最大变形量远高于其他，这对叶片流体域的网格质量提出了很高的要求。因此，需要选择一个兼顾耦合过程收敛的时间历程与网格最大变形量的叶片初始阻尼比的值 $( \varepsilon { = } 0 . 3 )$ °
+
+![](images/243882d5cf09128a5e514b7c038c34d87317a6554fb25d51ef84e9f7d327d47d.jpg)
+
+![](images/765cee7f8c4bf180a968a1a07a65f9a1feac6b3b3e70021ea48028be8c077532.jpg)  
+图8风扇转子在典型叶高处表面静压变化包线图 Fig.8 The static pressure change package of the typical blade surface
+
+图 11 为初始阻尼比 $\varepsilon { = } 0 . 3$ 时，风扇转子叶片叶尖截面前缘、中部及尾缘 (LE、Mid 及 TE)
+
+在离心力载荷与气动力载荷作用下的响应。从变形幅值来分析，叶尖前缘的变形幅值最大，叶尖中部变形幅值次之，叶尖尾缘的变形量最小，可以发现叶片的振动形式是扭转；从振动的稳定性来分析，叶尖截面尾缘最先进入稳定状况，而变形量最大的叶尖截面前缘振动幅值较大并且收敛速度较慢。
+
+![](images/2853515ca05ead4b6dbf4022615cc3d385ac41fc66f6be283327caa23c213c69.jpg)
+
+在风扇转子的等转速工作线上，叶片在离心力及气动力载荷共同作用下叶顶截面前缘、中部及尾缘的静变形规律如图12所示。从图中分析可知，从叶片前缘变形幅值来看，叶片在近失速的工况点变形量最大。在转子的等转速工作线上，叶片叶尖截面最大变形量随着流量的增加而逐渐减小，特别是叶尖前缘变形量变化更加剧烈，这说明此处离心力载荷与气动力载荷在叶尖作用方向相同，气动力引起的叶片变形量随流量的增加而逐渐减小。而在风扇转子的近堵塞工况时，离心力引起的叶片变形量占总变形量的比重急剧上升，甚至在某些工况出现叶片的总变形量小于仅离心力载荷作用的总变形量，这说明此时有可能出现离心力与气动力在叶尖截面作用相反的状况，气动力的作用减弱了离心力对于叶片的作用。
+
+![](images/24c26ed22a1c9e97128b44a4c9b714f4e52a79b206ef18d53324c97848a28c63.jpg)  
+图10 不同初始阻尼比下叶片结构的响应历程Fig.1O Response of blade structures under different initialdamping ratios
+
+![](images/f31452d372bf6c3aba6d13576623392086604f8b48d039833f81553b12d794ef.jpg)  
+图9典型叶高处相对压力沿叶片弦长方向分布 Fig.9 The relative pressure at the typical blade surface distributes along the direction of the normalized chord length   
+图11叶尖截面监测点总变形量的时间响应历程 Fig.11 Time response of total deformation of monitoring points in tip section
+
+![](images/283d275e5a386e058df337e01818ce4cf2933e60f252879698e13aac2a1ff16a.jpg)  
+图12叶尖监测点总变形量随风扇转子工况变化 Fig.12 The total deformation of the blade tip monitoring point changes with the operating condition of fan
+
+# 3风扇转子耦合颤振特性研究
+
+由文献[9]知叶轮机械的主要颤振形式有：失速颤振、堵塞颤振、超声速非失速颤振、A100 型颤振、弯扭耦合颤振等，而本文接下来主要针对风扇中较具影响力的超声速非失速颤振现象进行研究。
+
+超声速非失速颤振是叶轮机械中最常出现的一类颤振现象，本文使用能量法对NASACR-120859第一级风扇转子叶片进行非失速颤振特性研究。由文献[9],[10]知，压气机的非失速颤振一般发生在转子效率较高的工况，选取该风扇转子在设计转速下的近效率最高点处的工况进行研究。由叶轮机械转子叶片以往的实验研究发现，转子叶片颤振受其前三阶振动模态影响较大，而高阶振动模态由于本身对应的叶片振动频率很高，而实际中叶片发生振动的频率较小且振动幅值较小[11]，所以文章主要基于能量法[12]对该风扇转子的前三阶模态的振动现象进行着重分析。
+
+通过对风扇第一级转子的前三阶模态的非定常气动力做功及气动阻尼系数计算来达到分析转子叶片稳定性问题。模态分析得到该转子叶片固有的一阶模态频率为 $1 8 9 . 3 4 \mathrm { H z }$ ，二阶模态频率为 ${ \mathrm { 5 9 9 . 3 2 H z } }$ 三阶模态频率为 $9 6 7 . 6 9 ~ \mathrm { H z }$ 。图 $1 3 { \sim } 1 5$ 分别为风扇转子前三阶模态对应的气动阻尼系数随叶间相位角[13](Inter-Blade Phase Angle，IBPA）变化图。叶片在一阶模态振动时，气动阻尼系数在 $\mathrm { I B P A } { = } 3 3 4 . 3 ^ { \circ }$ 附近出现负值，即不稳定区域，而第二、三阶模态对应的气动阻尼系数均为正值。通过计算分析发现，对于该风扇转子叶片，一阶模态为其最危险的模态,且其最危险的IBPA大概在 $3 3 4 . 3 ^ { \circ }$ 附近。通过控制IE $3 \mathrm { P A } { = } 3 3 4 . 3 ^ { \circ }$ 不变，改变风扇转子叶片的振动频率,得到其不同叶片振动频率对应的气动阻尼系数，通过插值得到转子气动阻尼系数为零的非失速颤振临界点。
+
+![](images/299b83a7877350e16ffb5818091ed29828060cc2ea0651c76f30dc234672564b.jpg)  
+图13 $f { = } 1 8 9 . 3 4 ~ \mathrm { H z }$ 一阶模态下叶片气动阻尼 Fig.13Aerodynamic damping of blade in first-order mode when $f { = } 1 8 9 . 3 4 ~ \mathrm { H z }$
+
+![](images/253bd111a2a8c4d9cfb6e00744b05ecb22003341ffa9170cd2a5680f85cb53e5.jpg)  
+图14 $f { = } 5 9 9 . 3 2 ~ \mathrm { H z }$ 二阶模态下叶片气动阻尼 Fig.14 Aerodynamic damping of blade in second-order mode when $f { = } 5 9 9 . 3 2 ~ \mathrm { H z }$
+
+![](images/69aabd368351e33193ef98bfc758453bbfc5acf286e37b18129759e83dbf73af.jpg)  
+图15 $f { = } 9 6 7 . 6 9 ~ \mathrm { H z }$ 三阶模态下叶片气动阻尼 Fig.15 Aerodynamic damping of blade in third-order mode when $f { = } 9 6 7 . 6 9 ~ \mathrm { H z }$ （204
+
+![](images/dfe2271026f9ec1e81da2a4253e828ffd8c7286c1a759e34261fa8405a28a58e.jpg)  
+图16IBPA $\mathsf { \Omega } _ { \mathsf { L } = 3 3 4 . 3 \mathsf { \Omega } ^ { \circ } }$ 一阶模态气动阻尼系数 Fig.16Aerodynamic damping of blade in first-order mode when IBPA $. = 3 3 4 . 3 ^ { \circ }$ （20
+
+依据线性插值对气动阻尼系数零点进行插值，当气动阻尼系数为零时，其对应的叶片振动频率为 $f { = } 2 0 1 . 3 4 ~ \mathrm { H z }$ (如图 16 所示)，即为一阶模态对应的颤振边界。对于该风扇第一级转子而言，第一阶模态是其前三阶模态中最不稳定的模态，所以可以认为一阶模态颤振边界即为该风扇转子的非失速颤振边界。以上分析表明，转子在设计转速下近效率最大点处，一阶模态频率低于 $f { = } 2 0 1 . 3 4$ $\mathrm { H z }$ 时，转子叶片可能会以一阶模态、IBPA $. = 3 3 4 . 3 ^ { \circ }$ 的形式发生超声速非失速颤振。而通过改变固体叶片的阻尼 (增设减振突肩等）可以使叶片避免非失速颤振的发生，以达到使风扇稳定工作的目的。
+
+# 4结论
+
+通过基于时域推进的双向流固耦合方法对NASA CR-120859 第一级风扇转子进行非定常数值模拟，并在此基础上对该转子的超声速非失速颤振特性进行了研究，通过计算分析得到以下主要结论：
+
+1）考虑双向流固耦合效应的风扇转子性能曲线向大流量方向整体偏移 $0 . 7 \%$ 左右；转子的等熵效率有所下降，最大效率点降低 $0 . 7 6 \%$ ；转子的总压比基本保持不变；转子的稳定工作裕度有所减小。
+
+2）考虑耦合效应的计算结果表明，叶背处激波位置向叶片前缘移动，最大位移量达到 $1 0 \%$ ，而激波的强度也略有增强，叶片通道损失增加；转子叶片吸、压力面的静压包络线围成面积有所减小，叶片做功能力减弱。
+
+3）转子在设计转速下的近效率最大点处，一阶模态频率低于 $f { = } 2 0 1 . 3 4 ~ \mathrm { H z }$ 时，转子叶片可能会以一阶模态、 $\mathrm { I B P A } { = } 3 3 4 . 3 ^ { \circ }$ 的形式发生超声速非失速颤振。通过改变叶片的结构阻尼 (增设减振突肩等）或材料阻尼可以避免其非失速颤振的发生。
+
+# 参考文献
+
+[1]汪松柏,李绍斌,宋西镇.基于流固耦合的跨声速压气机叶 片静气动弹性分析[J].力学与实践，2016,38(1)：38-42 Wang Songbai,Li Shaobin，Song Xizhen.Static Aeroelastic Analysis of A Transonic Compressor Blade Based on Fluid-Structure Interaction Method [J].Mechanics in Engineering,2016,38(1):38-42   
+[2]郑赞．基于非结构网格的气动弹性数值方法研究[J].航空 动力学报,2009,24(9):2069-2077 Zheng Yun.Computational Aeroelasticity with an Unstructured Grid Method[J].Journal of Aerospace Power, 2009，24(9):2069-2077   
+[3]Johnston D，Cross C，Wolff J.An Architecture for Fluid/Structure Interaction Analysis of Turbomachinery Blading[C]//4lst Joint Propulsion Conference & Exhibit. Tucson:American Institute of Aeronautics and Astronautics,2005:1-12   
+[4]Sadeghi M,Liu F.Coupled Fluid-Structure Simulation for Turbomachinery Blade Rows [C]//43rd AIAA Aerospace ScienceMeetingandExhibit.Nevada:AmericanInstitute of Aeronautics and Astronautics,20o5:1-19   
+[5]Yigit S,Schäfer M,Heck M.Grid Movement Techniques and TheirInfluence an Laminar Fluid-Structure Interaction Computations [J].Journal of Fluids & Structures, 2008,24(6):819-832   
+[6]Wilson MJ, Imregun M, Sayma AI. The Effect of Stagger Variability in Gas Turbine Fan Assemblies [J].Journal of Turbomachinery,2007,129(2):1059-1069   
+[7]Hall K,Kielb R,Ekici K,et al．Recent Advancements in Turbomachinery Aeroelastic Design Analysis [C]//43rd AIAA Aerospace Science Meeting and Exhibit.Nevada: American Institute of Aeronautics and Astronautics,2005: 1-23   
+[8]陈矛章.风扇/压气机技术发展和对今后工作的建议[J].航 空动力学报,2002,17(1):1-15 Chen Maozhang. Development of Fan/Compressor Techniques and Suggestions on Further Researches [J].Journal of Aerospace Power,2002,17(1):1-15   
+[9]Bendiksen.Recent Developments in Flutter Suppression Techniques for Turbomachinery Rotors [J].Journal of Propulsion & Power,1987,4(2):164-171   
+[10] Namba M,Ishikawa A.Three-Dimensional Aerodynamic Characteristics of Oscillating Supersonic and Transonic Annular Cascades [J]. Journal of Engineering for Gas Turbines & Power,1983,105(1):138-146   
+[11]吕文林.航空发动机强度计算[M].北京：国防工业出版社, 1988:71-74 Lv Wenlin.Aircraft Engine Strength Calculation [M].Bei Jing:National Defense Industry Press,1998:71-74   
+[12]Carta F O.Coupled Blade-Disc-Shroud Flutter Instabilities in Turbo-jet Engine Rotors [J].Journal of Engineering for Gas Turbines & Power,2011,89(3):419-426   
+[13]Lane F.System Mode Shapes in the Flutter of CompressorBlade Rows [J].Journal of the Aeronautical Sciences, 1956,23(1): 54-66

@@ -1,0 +1,56 @@
+[
+    {
+        "type": "text",
+        "text": "微生物燃料电池中高活性产电微生物的筛选鉴定、产电性能强化及其电子传递机制的研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "骆健美",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "个人简历",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "骆健美，女。工业发酵微生物教育部重点实验室（天津科技大学)、天津市工业微生物重点实验室、天津科技大学生物工程学院教授，硕士生导师，中国微生物学会会员。现为天津科技大学生物工程学院制药工程系主任。近5年作为项目负责人承担国家自然科学基金、国际科学基金、天津市科委、天津市教委、重点实验室开放基金、横向项目等科研项目10余项；已公开发表科研论文50余篇，参编出版省部级教材1部，授权和申请国家发明专利15项。主要从事生物技术领域的工作，研究方向包括：具有重要工业、医药和环境应用价值的微生物菌种筛选和改良；胁迫耐受性微生物的选育、生理机制研究及具有抗逆性能菌种的创建和应用；微生物细胞催化反应与过程调控。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "报告摘要 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "微生物燃料电池（MicrobialFuelCells，简称 MFCs）是一种利用产电微生物作为催化剂，将有机物（无机物）中的化学能直接转化为电能的生物反应器，在生物产能和处理废水方面具有广阔的应用前景。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "课题组以天津泰达污水处理厂的污泥为接种物，启动并运行MFCs。从阳极富集的生物膜上分离得到了多个分离株。其中，分离株P2-A-1和P2-A-5表现出较高的电化学活性，经鉴定后分别归属于Tolumonasosonensis 和 Kocuriarhizophila，这是该种属微生物产电性能的首次报道。除了产电条件的优化，细胞的通透化处理是提高MFCs输出功率的有效手段，化学剂处理增加了菌体对电极的粘附效率，降低了MFCs 内阻，增大了细胞通透性和细胞膜流动性，增加了关键电子载体 $\\mathrm { C o Q } _ { 1 0 }$ 含量。通过构建膜包裹型MFCs、阳极液的循环伏安扫描及GC-MS 成分分析，明确菌株的胞外电子传递机制。以模式产电微生物铜绿假单胞菌为对象，利用全局转录机制工程将系列内源和外源全局转录因子导入铜绿假单胞菌，利用代谢工程的思路，强化胞内电子的产生和胞外电子的传递，探讨高产电活性工程菌株的构建新策略和新方法。其中，外源全局转录因子IrrE 的导入能显著提高铜绿假单胞菌的产电性能和环境压力耐受性。进一步分析发现，该转录因子的导入对中心代谢途径相关基因、生物膜相关基因、中介体合成相关基因、群体感应系统以及一般胁迫响应相关基因等的表达水平产生明显的影响。说明IrrE在宿主生物中发挥着全局调控作用。课题成果对于丰富产电微生物的多样性，提高微生物燃料电池的输出功率具有重要的意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "与报告相关的近5年内发表的学术论文目录",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Luo J.M.\\*，Li M.， Zhou M.H.\\*，Hu Y.S. Characterization of a novel strain phylogenetically related to Kocuria rhizophila and its chemical modification to improve performance of microbial fuel cells[J]. Biosensors and Bioelectronics,2015,69:113-120. (Top Journal)   \n2. Luo J.M.\\*，Yang J.， He H.H., Jin T., Zhou L.，Wang M.， Zhou M.H.\\* A new electrochemically active bacterium phylogenetically related to Tolumonas osonensis and power performance in MFCs [J]. Bioresource Technology,2013,139: 141-148. （Top Journal)   \n3. Luo J.M.\\*, Li J.S., Liu D., Liu F., Wang Y.T., Song X.R.,Wang M. Genome shuffling of Streptomyces gilvosporeus for improving natamycin production[J]. Journal of Agricultural and Food Chemistry,2012,60 (23):6026-6036.（Top Journal)   \n4. Luo J.M., Liang Q.K., Shen Y.B., Chen X., Yin Z.N., Wang M.\\*. Biotransformation of bavachinin by three fungal cell cultures [J]. Journal of Bioscience and Bioengineering,2014,117 (2): 191-   \n196.   \n5. Luo J.M._Ning J.,Wang Y.X., Cheng Y.X., Zheng Y., Shen Y.B. Wang M.\\*. The effect of ethanol oncell properties and steriod 1-en-dehydrogenation biotransformation of Arthrobacter simplex[J]. Biotechnology and Applied Biochemistry,2014,61(5): 555-564.   \n6. Luo J.M.， Chi M.L., Wang H.Y., He H.H., Zhou M.H.\\* Electrochemical surface modification of carbon mesh anode to improve the performance of air-cathode microbial fuel cells[J]. Bioprocess and Biosystems Engineering,2013，36: 1889-1896.   \n7．杨佳，李明，朱思远，骆健美\\*，周明华，王敏．微生物燃料电池中Tolumonas Osonensis 菌 株的产电性能优化[J]．高校化学工程学报,2015,29(2):352-358.   \n8．李明，梁湘，骆健美\\*，周明华\\*．一株产电菌嗜根考克氏菌(Kocuria rhizophila)的分离及其 产电性能优化[J]．环境科学学报,DOI: 10.13671/j.hjkxxb.2014.1038. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    }
+]

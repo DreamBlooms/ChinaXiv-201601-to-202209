@@ -1,0 +1,145 @@
+# 树轮宽度记录的塔吉克斯坦北部160a平均最低气温变化
+
+杨美琳'，他志杰²，吴燕良¹²，赵鹏¹²，于瑞德1（1．中国科学院新疆生态与地理研究所荒漠环境研究室,新疆 乌鲁木齐830011；2．中国科学院大学，北京100049）
+
+摘要：利用塔吉克斯坦北部土耳其斯坦圆柏（Juniperus turkestanica)树轮宽度标准化年表与区域气候要素进行相关分析,发现当年2—3月平均最低气温与树木径向生长存在显著相关关系。据此对该地区1857—2016年2—3月平均最低气温进行重建,重建方程的解释量为 $3 9 . 5 \%$ ,调整自由度后的解释量为 $3 7 . 5 \%$ 。研究表明：在过去 $1 6 0 \mathrm { ~ a ~ }$ ，该地区经历了6个偏暖阶段,1857—1878年、1885—1890年、1907—1915年、1926—1931年、1960—1967年、1994—2016 年;5个偏冷阶段,1879—1884年、1891—1906年、1916—1925年、1932—1959年、1968—1993年。空间分析结果表明,研究区2—3月平均最低气温的重建结果可以代表塔吉克斯坦地区过去160a的2—3月平均最低气温的变化。
+
+关键词：树木年轮宽度；年表；月平均最低气温；土耳其斯坦圆柏（Juniperus turkestanica)；塔吉克斯坦
+
+利用具有定年准确、连续性强、分辨率高等特点的树轮资料，重建过去气候变化是全球变化研究的重要技术手段之一,并得到了广泛应用[1]。通过研究树木年轮可以了解树木的生长发育情况，以及过去几百甚至几千年来的气候变化情况[2-6] C
+
+天山是世界七大山系之一，位于欧亚大陆腹地，是我国开展树木年轮学研究最早的地区之一，在该地区已建立了大量的年表并重建了过去气候变化序列[7-10]。塔吉克斯坦位于天山最西端,是一个多山的国家，约 $9 3 \%$ 的领土被山脉所覆盖,约一半领土处于海拔 $3 \ 0 0 0 \ \mathrm { ~ m ~ }$ 以上，绝对海拔高度在287\~$7 ~ 4 9 5 ~ \mathrm { ~ m ~ }$ 。本文利用采自塔吉克斯坦北部天山的土耳其斯坦圆柏（Juniperus turkestanica）的树木年轮作为研究对象，建立树轮宽度年表，根据年表与气候资料的相关关系，重建并讨论该地区过去160a的2—3月平均最低气温的变化特征。
+
+# 1资料与方法
+
+# 1.1 研究区概况与数据资料
+
+本次样本采于塔吉克斯坦北部塔博沙尔(Taboshar; $6 9 ^ { \circ } 4 5 ^ { \prime } \sim 6 9 ^ { \circ } 4 8 ^ { \prime } \mathrm { E }$ $4 0 ^ { \circ } 3 7 ^ { \prime } \sim 4 0 ^ { \circ } 4 0 ^ { \prime } \mathrm { N }$ ；图
+
+1),该地区属温带气候区(11-12]。夏季炎热干燥,冬季短暂寒冷，气候特点为干旱大陆性气候，季节性和日气温变化较大[13],年平均降水量为 $2 7 1 \ \mathrm { m m }$ ，春季(3—5月)月降水量最大。夏季(6—7月）为高温期，7月最高气温达 $3 6 . 7 ~ \mathrm { ^ { q } C } , 1$ 月最低气温 $- 3 . 1 \mathrm { ~ \textdegree C }$ （图2）。采集树种土耳其斯坦圆柏喜光、耐寒、耐旱、耐瘠薄、适应性强,在山脊或河滩地均能生长，四季常绿。
+
+![](images/5c794627159b668d841538f8354611af351d0135a5e00b03663fff88d01ced7a.jpg)  
+图1采样点位置示意图  
+Fig.1Distribution of the sampling sites
+
+![](images/b5b74b2f1766b91c8537d1f9cc9c37242c88090ce15c3d231c8554aad1cc940e.jpg)  
+图21932—2016年苦盏气象站月平均气温及月降水量Fig.2Monthly temperature and precipitation at KhujandMeteorological Station during 1932 -2016
+
+气象数据来自距采样点最近的苦盏(Khujand)气象站 $( 6 9 ^ { \circ } 1 2 ^ { \prime } \mathrm { E } , 4 0 ^ { \circ } 1 0 ^ { \prime } \mathrm { N } )$ 。主要提取月平均气温、月平均最高气温、月平均最低气温以及月降水量数据。为了找到年轮宽度年代学与气候数据的良好相关性，利用英国东英吉利大学气候研究中心（ClimateResearch Unite,CRU TS 4.O,http://www.cru.uea.ac. uk[14]) $0 . 5 ^ { \circ } \times 0 . 5 ^ { \circ }$ 的格点气候集进行空间相关分析，其中包括1901—2016年网格点（ $6 6 ^ { \circ } 7 5 ^ { \prime } \sim$ $7 2 ^ { \circ } 2 5 ^ { \prime } \mathrm { E } , 3 8 ^ { \circ } 7 5 ^ { \prime } \sim 4 1 ^ { \circ } 7 5 ^ { \prime } \mathrm { N } )$ 的降水量、气温最小/最大值/平均值，下载的数据用Matlab进行处理，
+
+# 1.2样本采集及年表的建立
+
+样本采于2016年10月，位于塔吉克斯坦北部天山 $\langle 6 9 ^ { \circ } 4 5 ^ { \prime } \mathrm { E } , 4 0 ^ { \circ } 3 7 ^ { \prime } \mathrm { N } \rangle$ ,海拔 $1 \ 4 8 5 \sim 1 \ 5 8 5 \ \mathrm { m }$ ，,共采集22棵树，43根芯，样芯采集高度一般与胸平行高度,但有些树冠太低,则在离地面 $0 . 2 \sim 0 . 5 \mathrm { ~ m ~ }$ 高度取芯，每棵树垂直方向取两根芯。样树高度为$7 \sim 1 2 \mathrm { ~ m ~ }$ ,其直径为 $9 2 \sim 3 2 0 \ \mathrm { c m }$ 。样芯取出后放置在特制的硬纸板卡槽上，硬纸板卡槽的内径比样品的内径大 $1 \ \mathrm { m m }$ ,并用胶带固定，在硬纸板上标记。
+
+样本带回实验室后严格按照树木年轮分析程序[15]对树芯进行风干、固定和打磨,直至树芯在显微镜下能够清晰的分辨出早晚材为止，然后进行交叉定年和轮宽测量。使用Lintab年轮测量仪（精度为 $0 . \ 0 1 \ \mathrm { \ m m }$ ）进行树轮宽度的测量，并结合COFECHA交叉定年质量控制程序[16]实现对年轮数据测量结果的交叉定年检验,根据COFECHA 检验结果，剔除与主序列相关性较差的样芯。本次所采集样本由于有些样芯年代错误、缺轮、伪轮以及其他木材异常（如树木疾病或损伤)等原因，剔除5根芯，最终留下20 棵健康的树木，共计38根芯用于建立树轮宽度年表。为去除树木本身的生长趋势和非气候因素对树木生长的影响，采用ARSTAN年表研制程序[17]对年轮序列进行去趋势和标准化处理,去趋势方法采用负指数函数进行树木生长趋势拟合，去除树木本身的生长趋势和非气候因素对树木生长的影响。采用双权重平均法对年轮序列进行标准化，最终得到标准化年表(STD）、自回归年表（ARS)和差值年表（RES）3种类型年表。
+
+利用DENDROCLIM2002计算上年6月到当年9 月气候数据与树轮宽度年表之间的相关函数[18]以确定研究区内树轮宽度生长的主要限制因子。利用线性回归模型建立重建方程，并用交叉检验方法检验重建方程的稳定性。
+
+# 2结果与讨论
+
+# 2.1 年表特征
+
+由于STD年表比RES年表保留有更多的低频信息，更能反应气候的自然变化，本文采用STD 年表进行分析（图3），STD年表序列的长度为177a（1840一2016年），可靠的年表序列（子样本强度信号 $> 0 . 8 5$ ）长度为160a（1857—2016年），STD年表的统计特征见表1。表1中平均敏感度为0.484，标准差为0.555，第一主成分分析量达到了 $3 8 . 3 \%$ ，说明采样点的树木生长对气候变化具有一定的敏感性；信噪比为5.601，大于3，而样本总体解释量达到了0.897,均超过了0.85的最低阈值[19]，说明此年表是研究气候响应的可信资料。
+
+![](images/4851987633bba6ce81c043b47651c4ea3f5de33392371fd512a8d00bf894182b.jpg)  
+图3研究区树木年轮宽度年表(STD)和样本量Fig.3Tree-ring width chronology（STD）and theamount of samples
+
+# 表1树木年轮标准年表统计特征
+
+Tab.1 The statistical characteristics of the tree-ring width chronology   
+
+<html><body><table><tr><td>统计项</td><td>标准化年表(STD)</td></tr><tr><td>样本量(样芯/株)</td><td>38/20</td></tr><tr><td>平均指数</td><td>1.482</td></tr><tr><td>平均树间相关</td><td>0.643</td></tr><tr><td>平均敏感度</td><td>0.484</td></tr><tr><td>标准差</td><td>0.555</td></tr><tr><td>信噪比</td><td>5.601</td></tr><tr><td>第一主成分方差解释量</td><td>38.3%</td></tr><tr><td>样本总体解释量</td><td>0.897</td></tr></table></body></html>
+
+# 2.2树轮径向生长与气候要素的关系
+
+考虑到气候因子对树木生长的滞后效应，相关月份选为上一年6月到当年9月，对塔吉克斯坦苦盏气象站的月降水量、月平均气温、月平均最高气温和月平均最低气温与STD年表做了相关性分析（图4），大多数月份的月降水量、月平均气温、月平均最高气温和月平均最低气温与STD年表均无显著相关性，当年2一3月的降水量与STD年表的相关性达到了0.05的显著水平；当年2—3月的平均气温与 STD年表的相关性达到了0.05显著水平；当年2月的平均最高气温与STD年表达到了0.05的显著水平；当年2一3月的平均最低气温与STD年表达到了0.05的显著水平。
+
+# 2.3过去160a月均最低气温重建
+
+将 STD年表作为自变量，苦盏气象站当年2—3月的平均最低气温作为应变量，利用线性回归模型建立重建方程：
+
+$$
+Y = 5 . 4 2 X + 2 5 . 3 6 8 \ 8
+$$
+
+式中：Y为苦盏气象站2一3月平均最低气温的平均值； $X$ 为树轮宽度STD年表。重建方程可以解释该地区2—3月平均最低气温序列方差的 $3 9 . 5 \%$ ，调整自由度后的方差解释量为 $3 7 . 5 \%$ ，相关系数为0.62，超过了0.01的显著水平。从图5可以看出，当年2一3月的重建值与实测值的同步性较好，可用该重建方程重建当年2一3月的平均最低气温
+
+方程的稳定性直接影响到重建序列的质量，为了确定此方程是否稳定，本文采用逐一剔除法对重建方程进行交叉检验，确定方程的稳定性和可靠性，各检验统计量见表2。表中符号检验（ST)达到了0.01的显著水平，说明最低气温重建序列与实测序列在高低频变化上的一致性较好。乘积平均数 $\mathbf { \eta } ( \mathbf { \Omega } _ { t } )$ 为2.26,通过了0.05的显著性水平检验。误差缩减值 $( R E )$ 为 $0 . 1 7 , R E$ 取值 $\left[ \begin{array} { l } { - \infty , 1 } \end{array} \right]$ ，一般 $R E$ 为正值时，说明气候估计值较好的通过了检验。因此，用于重建塔吉克斯坦最低气温的方程是可靠的。
+
+通过方程(1），重建了过去160a以来塔博沙尔当年2一3月平均最低气温序列(图6）。其中连续3a以上（含3a）的高温时段有1858—1865年，1974—1877 年、1908—1913 年、1927—1929 年、1998—2010年，连续3a以上(含3a)的低温时段有1942—1945年、1951—1955年、1968—1976年。为了揭示该地区年代际尺度的冷暖变化特征，本文对月平均最低气温重建序列进行了11a滑动平均（图6)，其中高于距平线的为偏暖阶段，低于距平线的为偏冷阶段。1972年 $( 0 . 4 8 4 ~ \mathrm { ^ { 9 } C }$ )和1861年(2.724$\mathcal { \mathrm { C } }$ )为极端年份，该地区经历了6个偏暖阶段和5个偏冷阶段（表3），1857—1878年、1885—1890年、
+
+![](images/ffcdf4ae684632a875a10e36ce439a6f4d7dfac306f9198d8aace035488bb423.jpg)  
+注：P6\~P12表示上一年6—12月；1\~9为当年1—9月；虚线为 $P < 0 . 0 5$ □  
+图4不同采样点树木径向生长与各月气候因子之间的相关关系  
+Fig.4Correlation coeficients between monthly climatic factors and chronologiesat different sampling sit
+
+![](images/1019a0bf161aba8e5a0d64c3dd72f8b975e83d9483ffe92482bb89070d16ac82.jpg)  
+图51932—2016年当年2—3月平均最低气温重建值与观测值对比
+
+表2重建方程检验统计量  
+
+<html><body><table><tr><td>r</td><td>R²</td><td>SD</td><td>RE/CE</td><td>t</td><td>ST检验</td><td>F检验</td></tr><tr><td>0.35</td><td>0.12</td><td>49.12</td><td>0.17/0.17</td><td>2.26</td><td>55+/30-</td><td>15.91</td></tr></table></body></html>
+
+注： $\boldsymbol { \cdot } \boldsymbol { r }$ 为相关系数， $R ^ { 2 }$ 为决定系数， $\mathit { S D }$ 为标准差， $R E$ 为误差缩减值，$C E$ 为效率系数 $, t$ 为乘积平均数。
+
+1907—1915 年、1926—1931 年、1960—1967 年、1994一2016年为偏暖阶段，其中最暖的阶段为1857—1878 年,比平均值高 $0 . 5 1 \mathrm { ~ \textdegree C }$ ,持续了 $2 2 \mathrm { ~ a ~ }$ ，持续时间最长；1879—1884 年、1891—1906 年、1916—1925 年、1932—1959 年、1968—1993 年为偏冷阶段，其中最冷的阶段为1968—1993 年，比平均值低 $0 . 4 5 ~ \mathrm { ^ { \circ } C }$ ,持续时间最长的为1932—1959年,持续了 $2 8 \mathrm { ~ a ~ }$ 。
+
+![](images/ff9e78ef3929fa2808147f5e803c4e206e74b48e8b4e24c8b82b12144c43b7bf.jpg)  
+图6塔吉克斯坦北部1857—2016年2—3月平均最低气温重建序列、11a滑动平均  
+Fig.6The reconstructed monthly mean minimum temperature and 11-year moving average in north Tajikistan in February and March during 1857-2016
+
+# 表3过去160a来气温的冷暖变化阶段
+
+Tab.2Statistical characteristics of leave-one-out test   
+Tab.3The warm-cold periods of air temperature in the past 160 years   
+
+<html><body><table><tr><td>偏暖阶段</td><td>年数 /a</td><td>平均距平 /C</td><td>偏冷阶段</td><td>年数 /a</td><td>平均距平 /℃</td></tr><tr><td>1857—1878年</td><td>22</td><td>0.51</td><td>1879—1884年</td><td>6</td><td>0.25</td></tr><tr><td>1885—1890年</td><td>6</td><td>0.05</td><td>1891—1906年</td><td>16</td><td>0.19</td></tr><tr><td>1907—1915 年</td><td>9</td><td>0.45</td><td>1916—1925年</td><td>10</td><td>0.13</td></tr><tr><td>1926—1931年</td><td>6</td><td>0.38</td><td>1932—1959 年</td><td>28</td><td>0.37</td></tr><tr><td>1960—1967 年</td><td>8</td><td>0.10</td><td>1968—1993年</td><td>26</td><td>0.45</td></tr><tr><td>1994—2016年</td><td>13</td><td>0.40</td><td></td><td></td><td></td></tr></table></body></html>
+
+# 2.4 空间代表性
+
+为了探讨本文重建结果与地域代表性之间的关系，使用 Climate Research Unite（CRU TS4.0,$0 . 5 ^ { \circ } \times 0 . 5 ^ { \circ } )$ 格点数据中1932—2016年2—3月平均最低气温数据与同时期本文重建结果进行了空间相关分析。从图7可以看出，本文重建的2一3月最低气温序列不仅对塔吉克斯坦地区2一3月的最低气温变化有很好的代表性，同时还对哈萨克斯坦东部、蒙古国西部、中国新疆西部地区2—3月最低气温的变化有较好的代表性。
+
+![](images/1b96e2ea37b44ad45da3b07e448bec1dbe2e71ca9466820fa4224419be2a97c1.jpg)  
+Fig.5Comparison between observed and reconstructed monthly mean minimum temperature in February and March during 1932-2016   
+图71932—2016年2—3月平均最低气温与CRUTS4.0格点数据的空间相关分析  
+Fig.7Spatial correlation fields of reconstructed and observed monthly mean minimum temperature in February and March with gridded CRU TS4.0 during the 1932-2016
+
+# 3结论
+
+（1）本文利用塔吉克斯坦北部土耳其斯坦圆柏的样本，建立了树轮宽度STD年表、RES年表和ARS 年表，其中STD年表所包含的气候信息更多；将树轮宽度STD年表与月降水量、月平均气温、月平均最低气温及月平均最高气温作了相关性分析，发现树轮宽度STD年表与2一3月的月降水量、月平均气温、月平均最低气温呈现显著正相关,其中与月平均最低气温的相关系数最高，在此基础上，本文设计转换方程，重建了研究区1932—2016年2—3月平均最低气温的变化历史
+
+（2）对月平均最低气温重建序列进行了11a滑动平均之后，发现该地区偏暖阶段主要有6个，1857—1878 年、1885—1890 年、1907—1915 年、1926—1931 年、1960—1967 年、1994—2016 年，偏冷阶段主要有5个，1879—1884年、1891—1906年、1916—1925 年、1932—1959 年、1968—1993 年。
+
+（3）通过CRUTS $4 . 0 , 0 . 5 ^ { \circ } \times 0 . 5 ^ { \circ }$ 格点数据中1932—2016年2—3月平均最低气温数据与同时期本文重建结果进行空间相关分析，发现重建的2—3月最低气温序列不仅对塔吉克斯坦地区2一3月的最低气温变化有很好的代表性，同时还对哈萨克斯坦东部、蒙古国西部、中国新疆西部地区2—3月最低气温的变化有较好的代表性。
+
+# 参考文献（References）：
+
+[1]张同文,袁玉江,魏文寿,等.内蒙古东北部莫尔道嘎地区树轮 年表的建立[J].干旱区资源与环，2009，23（12）：177-181. [Zhang Tongwen,Yuan Yujiang,Wei Wenshou,et al.The tree-ring chronologies from Moerdaoga in the north east of Inner Mongolia [J].Journal of Arid Land Resources and Enviroment,2O09，23 (12):177-181.]   
+[2] 张志华，吴祥定，李骥.利用树木年轮资料重建新疆东天山300 多年来干旱日数的变化[J].应用气象学报，1996,7(1)：53- 60.[Zhang Zhihua,Wu Xiangding,Li Ji.Utilizing tree ring chronologies to reconstruct 3OO -year drought days in eastern Tianshan Mountains[J].Quarterly Journal of Applied Meteorology,1996,7 (1):53-60.]   
+[3] 袁玉江,李江风.天山乌鲁木齐河源450a冬季温度序列的重 建与分析[J].冰川冻土,1999,21(1）:64-70.[Yuan Yujiang, Li Jiangfeng.Reconstruction and analysis of 45O years winter temperature series in the Urumqi River source of Tianshan Mountains [J].Journal of Glaciology and Geocryology,1999,21（1）:64- 70.]
+
+[4]Esper J,Shiyatov S G,Mazepa V S,et al. Temperature-sensitive Tianshan tree ring chronologiesshow multi-centennial growth trends[J].Climate Dynamics,2003,21(7-8） :699-706.
+
+[5]Yu SL,Yuan YJ,Wei W S,et al.A 352-year record of summer temperature reconstruction in the western Tianshan Mountains,China,as deduced from tree-ring density[J].Quaternary Research, 2013,80(2):158-166.   
+[6]Chen Feng,Yuan Yujiang,Yu Shulong,et al.A 225-year long drought reconstruction for east Xinjiang based on Siberia larch (Larixsibirica）tree-ring widths:Reveals the recent dry trend of the eastern end of Tianshan[J].Quaternary International,2015, 358 :42 -47.   
+[7］尚华明,魏文寿,袁玉江,等.树木年轮记录的新疆新源 350 a 来温度变化[J].干旱区资源与环境,2011,25（9)：187－190. [Shang Huaming,Wei Wenshou,Yuan Yujiang,et al.Variations of temperature during last 35O years at Xinyuan recorded by tree-ring [J]. Journal of Arid Land Resourcesand Environment,2011,25 (9):187 -190. ]   
+[8]张同文,王丽丽,袁玉江,等.利用树轮宽度资料重建天山中段 南坡巴仑台地区过去645 年来的降水变化[J].地理科学， 2011,31(20）:251-256.[Zhang Tongwen,Wang Lili,Yuan Yujiang,et al.Based on the data of tree-ring,the precipitation change in the Baluntai area on the south slope of the middle part of Tianshan Mountain has been reconstructed in the past 645 years[J]. Geographic Science,2011,31(20）:251 -256.]   
+[9］齐元元,尚华明,张瑞波,等.利用树轮重建玛纳斯河流域过去 289 a降水变化[J].干旱区研究,2017,34(4）:942-949.[Qi Yuanyuan,Shang Huaming,Zhang Ruibo,et al. The 289 - year variation of precipitation reconstructed with tree-ring data in the Manas River Basin[J].Arid Zone Research,2017,34(4）:942- 949.]   
+[10]尚华明,魏文寿，袁玉江,等.树轮记录的中天山150 年降水变 化特征[J].干旱区研究,2010,27（3）:443-449.[Shang Huaming,Wei Wenshou,Yuan Yujiang,et al. The 15O-year precipitation change recorded by tree ring in the Central Tianshan Mountains[J].Arid Zone Research,2010,27(3）:443-449.]   
+[11] Campelo F,Nabais C,Gutiérrez E,et al. Vessel features of Quercus ilex L.growing under Mediterranean climate have a beter climatic signal than tree-ring width[J].Trees,2010,24(3）:463-470.   
+[12]Nowak A,Nowak S,Nobis M,et al. Vegetation of screes of the montane and colline zones in the Pamir-Alai Mts in Tajikistan （Middle Asia)[J].Plant Biosystems,2015,148(6）:223-248.   
+[13]Shukurov N,Kodirov O,Peitzsch M,et al. Coupling geochemical, mineralogical and microbiological approaches to assess the health of contaminated soil around the Almalyk mining and smeltercomplex, Uzbekistan[J]. Science of the Total Environment,2014,476- 477 :447 - 459.   
+[14]Harris I,JonesPD,Osborn T,et al. Updated high-resolution grids of monthly climatic observations-the CRU TS 3.10 Dataset[J].International Journal of Climatology,2014,34（3):623-642.   
+[15]Fritts H C. Tree Rings and Climate[M].London:Academic Press, 1976.   
+[16]Holmes R L.Computer-assisted quality control in tree-ring dating and measurement[J].Tree-Ring Bulletin,1983,43（1）:69 -78.   
+[17]Cook E R.A Time Series Analysis Approach to Tree-Ring Standardization[D].Tucson:The University of Arizona,1985.   
+[18]Cook E R,Kairiukstis L A.Methods of Dendrochronology[M]. Dordrecht:Kluwer Academic Publishers,199O:1 -391.   
+[19]Efron B.Bootstrap methods:Another look at the jackknife[J].The Annals of Statistics,1979,7(1) :1-26.
+
+# Tree-Ring-Based Reconstruction of Minimum Temperature in North Tajikistan in Recent 16O Years
+
+YANG Mei-lin，TA Zhi-jel2，WUYan-liang12，ZHAOPeng $^ { 1 , 2 }$ ，YU Rui-de1 (1.Laboratory of Desert Environment,Xinjiang Institute of Ecology and Geography,Chinese Academyof Sciences, Urumqi 830011,Xinjiang,China; 2.University of Chinese Academy of Sciences,Beijing 1Ooo49,China)
+
+Abstract：The correlation analysis between thenormalized tree-ring width chronologyof Juniperus turkestanica and theregional climatic elements in northern Tajikistan showed that the mean minimum temperature in February and Marchof thesame year wassignificantly correlated with theradial growth of tres.According to this,the average minimum temperature in the region from February to March,1857-2016 was reconstructed.The reconstruction equation could be used to explain $3 9 . 5 \%$ variation of the minimum temperature,and the interpretation amount after adjusting the degree of freedom was $3 7 . 5 \%$ ． The results showed that,in recent 16O years,the study area experienced 6 high-temperature periods including the periods of 1857 -1878,1885 -1890,1907-1915,1926 -1931, 1960 -1967 and 1994 -2016,and 5 low-temperature periods including the periods of 1879-1884,1891 -1906, 1916-1925,1932-1959 and 1968-1993．According to the results of spatial correlation analysis,the reconstructed results of the minimum temperature in February and March could be used to represent the actual situation in north Tajikistan.
+
+Key words:tree-ring width；chronology； monthly mean minimum temperature；Juniperus turkestanica； Tajikistan

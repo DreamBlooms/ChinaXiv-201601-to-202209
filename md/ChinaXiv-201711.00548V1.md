@@ -1,0 +1,205 @@
+$\beta$ -葡聚糖对肉仔鸡生长性能、免疫功能和肠道微环境的影响曲昆鹏」　张　倩²　杨家昶」　胡希怡」　曹丙健」　宋志刚1\*程宗佳（1.山东农业大学动物科技学院，泰安 271018；2.黄岛出入境检验检疫局，青岛 266555;
+
+3.比利时绿赛集团上海有限公司，上海200120）
+
+摘要：本试验旨在研究饲粮中添加 $\beta \mathrm { . }$ -葡聚糖对肉仔鸡生长性能、免疫功能和肠道微环境的影响。选取1日龄爱拔益加（AA）肉仔鸡672只，随机分为4个组，每组14个重复，每个重复12只鸡。对照组饲喂基础饲粮，试验组分别饲喂在基础饲粮上添加 100、150 和 $2 0 0 { \mathrm { g / t } } { \mathrm { \beta } } \cdot$ 葡聚糖的试验饲粮。试验期为42d。结果表明：1） $1 5 0 \ \mathrm { g / t }$ 剂量组 $_ { 1 \sim 2 1 }$ 日龄肉仔鸡体增重显著高于对照组（ $P { < } 0 . 0 5$ ）。2） $1 5 0 \ \mathrm { g / t }$ 剂量组肉仔鸡血清免疫球蛋白含量高于对照组（ $P { > } 0 . 0 5$ )。3)21日龄时， $1 5 0 \ \mathrm { g / t }$ 剂量组肉仔鸡盲肠内乳酸菌数量显著高于对照组( $_ { ( P < 0 . 0 5 ) }$ ，空肠和回肠内沙门氏菌数量显著低于对照组（ $P { < } 0 . 0 5$ ）；42日龄时，150和 $2 0 0 \ \mathrm { g / t }$ 剂量组肉仔鸡盲肠内沙门氏菌数量显著低于对照组和 $1 0 0 \ { \mathrm { g / t } }$ 剂量组（ $\scriptstyle P < 0 . 0 5$ ）。4）饲粮添加 $\beta$ 葡聚糖对42日龄肉仔鸡空肠绒毛高度与隐窝深度比值影响显著（ $_ { \cdot \cdot P < 0 . 0 5 }$ ）。由此可见，饲粮中添加适量的 ${ \beta }$ -葡聚糖可提高肉仔鸡出栏重，改善肉仔鸡生长性能，增加盲肠内乳酸菌数量，减少空肠、回肠和盲肠内沙门氏菌数量。
+
+关键词： $\beta$ -葡聚糖；肉仔鸡；生长性能；免疫功能；肠道微环境中图分类号：S831.5 文献标识码： 文章编号：
+
+$\beta$ -葡聚糖是一类非淀粉性多糖（NSP），普遍存在于细菌、真菌、酵母和植物中]。有研究认为 $\beta$ -葡聚糖中可能具有提高免疫功能的活性基团，作为一种广谱的免疫调节剂促进免疫器官的发育并强化免疫系统[2]，具有降血脂、降血糖、保护肝脏、抗炎、抗氧化等作用，能提高小鼠对病毒的抵抗能力[3]。我国 $\beta \mathrm { . }$ -葡聚糖资源丰富，因我国啤酒等发酵行业发展迅速，大量含有 ${ \mathfrak { \beta } } \qquad $ -葡聚糖的酵母泥作为发酵副产物可被利用，既防止了污染又产生了经济效益[4]。${ \mathfrak { \beta } } \qquad $ -葡聚糖有增强动物的免疫功能的效果，Sang 等[5研究发现，饲粮中添加一定水平的 $\beta$ -葡聚糖可提高小龙虾的免疫力，提高小龙虾的成活率。李志清等研究发现，在饲粮中添加 ${ \mathfrak { \beta } }$ （24号葡聚糖有提高肉仔鸡非特异性免疫力的趋势。吴春玉等[7]研究发现，饲粮中添加 $\beta$ -葡聚糖可提高花鲈的生长性能以及抗氨氮应激能力。为了更好地利用 ${ \mathfrak { \beta } }$ -葡聚糖作为饲料添加剂，本试验以白羽肉鸡为对象，研究 $\beta$ -葡聚糖对爱拔益加（AA）肉仔鸡生长性能、免疫器官、血清免疫指标和肠道菌群的影响。
+
+# 1材料与方法
+
+# 1.1 试验设计
+
+选取体重相近的1日龄AA肉仔鸡672只，随机分为4组（1个对照组和3个 $\beta$ -葡聚糖添加组），每组14个重复，每个重复12只鸡（均为公鸡）。试验期 $4 2 { \mathrm { ~ d ~ } }$ ，分 $_ { 1 \sim 2 1 }$ 日龄和$2 2 { \sim } 4 2$ 日龄2个饲养阶段。肉仔鸡饲喂玉米-豆粕型颗粒料，对照组饲喂基础饲粮，试验组分别饲喂在基础饲粮上添加100、150 和 $2 0 0 \ : \mathrm { g / t }$ 的 $\beta$ -葡聚糖（购自 Algal Scientific Cooperation,MI,USA）的试验饲粮。肉仔鸡4层笼养。基础饲粮组成及营养水平见表1。
+
+表1基础饲粮组成及营养水平 (风干基础)  
+Table1Composition and nutrient levels of basal diets（air-dry basis ） %   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="2">含量Content</td></tr><tr><td>1～21 日龄 1 to 21 days of age</td><td>22～42 日龄 22 to 42 days of age</td></tr><tr><td>原料Ingredients</td><td></td><td></td></tr><tr><td>玉米Corn</td><td>52.194</td><td>57.472</td></tr><tr><td>豆油 Soybean oil</td><td>5.129</td><td>4.804</td></tr><tr><td>豆粕 Soybean meal</td><td>38.926</td><td>34.364</td></tr><tr><td>石粉 Limestone</td><td>1.463</td><td>1.244</td></tr><tr><td>磷酸氢钙CaHPO4</td><td>0.800</td><td>0.600</td></tr><tr><td>氯化钠 NaCl</td><td>0.300</td><td>0.280</td></tr><tr><td>L-赖氨酸硫酸盐L-Lys·H2SO4</td><td>0.267</td><td>0.371</td></tr><tr><td>DL-蛋氨酸DL-Met</td><td>0.302</td><td>0.279</td></tr><tr><td>L-苏氨酸L-Thr</td><td>0.099</td><td></td></tr><tr><td>植酸酶Phytase (5000 IU/g)</td><td>0.020</td><td>0.086</td></tr><tr><td>维生素预混料 Vitamin premix1)</td><td>0.200</td><td>0.020</td></tr><tr><td>微量元素预混料Mineral premixl)</td><td>0.200</td><td>0.200</td></tr><tr><td>氯化胆碱 Choline chloride</td><td></td><td>0.180</td></tr><tr><td>合计 Total</td><td>0.100</td><td>0.100</td></tr><tr><td>营养水平 Nutrient levels2)</td><td>100.000</td><td>100.000</td></tr><tr><td></td><td></td><td></td></tr><tr><td>粗蛋白质 CP</td><td>21.50</td><td>20.00</td></tr><tr><td>代谢能 ME/(MJ/kg)</td><td>12.81</td><td>12.98</td></tr><tr><td>钙Ca</td><td>0.95</td><td>0.82</td></tr><tr><td>非植酸磷 NPP</td><td>0.44</td><td>0.40</td></tr></table></body></html>
+
+<html><body><table><tr><td>赖氨酸Lys</td><td>1.19 1.15</td></tr><tr><td>蛋氨酸Met</td><td>0.59 0.56</td></tr><tr><td>蛋氨酸+胱氨酸 Met+Cys</td><td>0.87 0.82</td></tr><tr><td>苏氨酸Thr</td><td>0.76 0.71</td></tr><tr><td>色氨酸Trp</td><td>0.22 0.20</td></tr></table></body></html>
+
+1 维生素预混料和微量元素预混料为每千克饲粮提供 Vitamin premix and mineralpremix provided the following per $\mathbf { k g }$ of diets: VA 9 000 IU, $\mathrm { V D } _ { 3 } 2 0 0 0 \mathrm { I U }$ ，VE11.0 IU,VK 1.00mg，硫胺素 thiamine $1 . 2 0 \ \mathrm { \ m g }$ ，核黄素riboflavin $5 . 8 0 ~ \mathrm { \ m g }$ ，烟酸niacin $6 6 . 0 \ \mathrm { \ m g }$ ，泛酸pantothenic acid $1 0 . 0 \mathrm { m g }$ ，吡哆醇 pyridoxine $2 . 6 0 \mathrm { m g }$ ，生物素 biotin $0 . 2 0 \mathrm { m g }$ ，叶酸 folic acid$0 . 7 0 \mathrm { m g }$ ， $\mathbf { V B } _ { 1 2 } 0 . 0 1 2 \mathrm { m g }$ ， $\mathrm { M n ~ 1 0 0 ~ m g }$ ， $\mathrm { Z n 7 5 . 0 \ m g }$ ，Fe $8 0 . 0 \mathrm { m g }$ ， $\mathrm { ~ I 0 . 6 5 m g }$ ， $\mathrm { C u 8 . 0 0 m g }$ ，Se（204号 $0 . 3 5 \mathrm { m g }$ 。
+
+2’营养水平为计算值。Nutrient levels were calculated values.
+
+# 1.2 饲养管理
+
+试验全期为 $4 2 { \mathrm { d } }$ ，分为前期（ $( 1 \sim 2 1$ 日龄）和后期（ $2 2 { \sim } 4 2$ 日龄）。整个试验期为笼养，自由采食和饮水。试验开始时温度为 $3 5 \ \mathrm { { ^ \circ C } }$ ，随后每周降低 $2 { \sim } 3 \ \mathrm { ^ { \circ } C }$ ，直到降到 $2 3 ^ { \circ } \mathrm { C }$ 。相对湿度保持在 $45 \%$ ，温度和湿度随肉仔鸡生长情况做相应调整。执行 $2 4 \mathrm { h }$ 光照程序。 $_ { 1 \sim 3 }$ 日龄肉仔鸡饮水中添加电解多维和葡萄糖，按照正常免疫程序进行免疫接种，其他管理措施与常规饲养管理相同。
+
+# 1.3样品采集
+
+21和42日龄的早晨，每个组在饲喂前称重，称重前不禁食。每次称量鸡的重量和剩余料量，计算 $_ { 1 \sim 2 1 }$ 日龄、 $2 2 { \sim } 4 2$ 日龄和全期 （ $_ { 1 \sim 4 2 }$ 日龄）的体增重、采食量、死淘率、料重比和欧洲生产指数（EPI）。严格记录死亡和淘汰的鸡只数量，死亡和淘汰的鸡称重，以调整以上的数据并定期计算。21和42日龄时屠宰，每个重复取1只鸡，取法式囊和脾脏称重；取空肠、回肠混合食糜和盲肠食糜；取空肠、回肠切片样。22和42日龄时，称重称料后，每个重复抽取1只鸡并且翅静脉采血，离心分离血清。
+
+# 1.4 指标分析
+
+# 1.4.1生长性能计算公式
+
+体增重（WG） $\mathbf { \Sigma } = \mathbf { \Sigma }$ 总鸡重 $^ +$ 死亡和淘汰的鸡重-初始鸡重;死淘率（DR， $\%$ ） $\mathbf { \Sigma } = \mathbf { \Sigma }$ （死亡和淘汰的鸡数/总鸡数） $\times 1 0 0$
+
+料重比（F/G） $\mathbf { \Sigma } = \mathbf { \Sigma }$ 总耗料量/体增重；  
+$\scriptstyle \mathrm { E P I = 1 0 0 0 0 \times }$ 平均体重（kg） $\times _ { \cdot }$ 成活率（%）／（料重比 $\boldsymbol { \mathbf { \rho } } _ { \times }$ 天数）。
+
+# 1.4.2 免疫功能指标
+
+免疫器官相对重量以免疫器官重/活重表示。
+
+血清免疫指标：内毒素（ET）、免疫球蛋白G（IgG）、免疫球蛋白A（IgA）含量采用生物素双抗体夹心酶联免疫吸附试验（ELISA）法测定，所需酶联免疫检测试剂盒购自南京建成生物工程研究所，使用ELx808超级酶标仪（Gene有限公司）。
+
+# 1.4.3 肠道指标
+
+以平板计数法测定空肠、回肠混合食糜和盲肠食糜内乳酸菌和沙门氏菌数量：将 $2 5 \mathrm { ~ g ~ }$ 食糜置于含 $2 2 5 ~ \mathrm { m L }$ 灭菌生理盐水的灭菌玻璃瓶内，充分振摇制成1：10的均匀稀释液，依次以10倍梯度稀释，选择 $2 { \sim } 3$ 个适宜的稀释度，移取 $1 \mathrm { m L }$ 稀释液于灭菌平血内（每个稀释度做2个平皿）；稀释液移入平皿后，立即将 $4 6 ^ { \circ } \mathrm { C }$ 左右的营养琼脂培养基注入平皿约15mL，混合均匀，待琼脂凝固后反转平板，置 $3 7 \ \mathrm { { ^ circ C } }$ 温箱内培养(24±2)h后计算菌落数，乘以稀释倍数后即得每克食糜含菌落总数。
+
+空肠、回肠切片样采集后使用切片机（Leica，德国）制备成组织切片，染色并封片后在 $1 0 { \times } 4$ 倍光镜(NIKONECLIPSE-80i)下观测其形态结构并利用 NIS-ElementsD4.20.00 软件测量空肠、回肠绒毛高度和隐窝深度。每个样本观察2个非连续切片，每张切片选取3视野，每个视野分别测定10 组数据，其平均值作为1个测定数据，计算空肠、回肠绒毛高度与隐窝深度比值（V/C）。
+
+# 1.5 统计分析
+
+试验数据用平均值 $\pm$ 标准差表示，利用SAS9.1统计软件中的ANOVA过程进行单因子方差分析， $P { < } 0 . 0 5$ 为差异显著。
+
+# 2结果与分析
+
+# 2.1 $\beta$ -葡聚糖对肉仔鸡生长性能的影响
+
+如表2所示，在 $_ { 1 \sim 2 1 }$ 日龄，饲粮添加 $\beta \mathrm { . }$ -葡聚糖对肉仔鸡体增重和 EPI有显著影响（ $P { < } 0 . 0 5$ ）。 $1 5 0 \ \mathrm { g / t }$ 剂量组体增重显著高于对照组及100、200g/t剂量组。随着饲粮 $\beta \mathrm { . }$ -葡聚糖添加水平增加，肉仔鸡的EPI先升高后降低，在 $1 5 0 \ \mathrm { g / t }$ 剂量组达到最大值。另外，饲粮
+
+# 添加 $\beta$ -葡聚糖具有降低料重比（ $\scriptstyle P = 0 . 0 8 7 9$ ）和死淘率（ $\scriptstyle P = 0 . 0 8 1 7$ ）的趋势。
+
+# 表2 $_ { 1 \sim 2 1 }$ 日龄肉仔鸡生长性能
+
+Table 2Growth performance of broilers aged from 1 to 21 days   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="4">β-葡聚糖添加水平 β-glucan supplemental level/(g/t)</td><td rowspan="2">P值 P-value</td></tr><tr><td>0</td><td>100</td><td>150</td><td>200</td></tr><tr><td>1日龄体重</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Weight on 1 days of age/g</td><td>37.4±0.2</td><td>37.5±0.2</td><td>37.5±0.1</td><td>37.2±0.2</td><td>0.656 9</td></tr><tr><td>21日龄体重</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Weight on 21 days of</td><td>879±9b</td><td>880±4b</td><td>910±6a</td><td>882±5b</td><td>0.002 3</td></tr><tr><td>age/g</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>体增重 WG/g</td><td>842±9b</td><td>842±4b</td><td>873±6a</td><td>845±5b</td><td>0.002 5</td></tr><tr><td>采食量FI/g</td><td>1088±9</td><td>1103±6</td><td>1112±12</td><td>1104±7</td><td>0.281 4</td></tr><tr><td>料重比F/G</td><td>1.32±0.01</td><td>1.32±0.00</td><td>1.31±0.01</td><td>1.31±0.01</td><td>0.087 9</td></tr><tr><td>死淘率 DR/%</td><td>1.79±0.95</td><td>0.00±0.00</td><td>1.79±0.95</td><td>0.00±0.00</td><td>0.081 7</td></tr><tr><td>欧洲生产指数 EPI</td><td>310±2c</td><td>317±1b</td><td>326±3a</td><td>320±2ab</td><td>0.000 2</td></tr></table></body></html>
+
+同行数据标肩标不同小写字母表示差异显著（ $_ { \cdot \textcircled { P } < 0 . 0 5 }$ ），相同或无字母表示差异不显著（ $P { > } 0 . 0 5$ ）。下表同。
+
+In the same row, values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，while with the same or no letter superscripts mean no significant difference ( ${ \mathrm { ' } P \mathrm { > } 0 . 0 5 \mathrm { ) } }$ ).The same as below.
+
+如表3所示，在 $2 2 { \sim } 4 2$ 日龄，饲粮添加 $\beta$ -葡聚糖对肉仔鸡体增重、采食量、料重比和死淘率均无显著影响（ $P { > } 0 . 0 5$ ）。
+
+表3 $2 2 { \sim } 4 2$ 日龄肉仔鸡生长性能  
+Table 3Growth performance of broilers aged from 22 to 42 days   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="4">β-葡聚糖添加水平 β-glucan supplemental level/(g/t)</td><td rowspan="2">P值 P-value</td></tr><tr><td>0</td><td>100</td><td>150</td><td>200</td></tr><tr><td>21日龄体重</td><td>879±9b</td><td>880±4b</td><td>910±6a</td><td>882±5b</td><td>0.002 3</td></tr><tr><td>Weight on 21 days of age/g</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>42日龄体重 Weight on 42 days</td><td>2 620±57</td><td>2 693±52</td><td>2 747±64</td><td>2 575±46</td><td>0.135 2</td></tr><tr><td>of age/g</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>体增重 WG/g</td><td>1 682±60</td><td>1 813±51</td><td>1 781±75</td><td>1 693±46</td><td>0.313 1</td></tr><tr><td>采食量FI/g</td><td>2 969±68</td><td>3 085±53</td><td>3 102±47</td><td>3 039±36</td><td>0.289 1</td></tr><tr><td>料重比 F/G</td><td>1.74±0.02</td><td>1.72±0.03</td><td>1.78±0.04</td><td>1.80±0.03</td><td>0.240 0</td></tr><tr><td>死淘率 DR/%</td><td>2.14±1.14</td><td>1.43±0.97</td><td>5.00±1.74</td><td>1.43±0.97</td><td>0.147 0</td></tr></table></body></html>
+
+如表4所示， $_ { 1 \sim 4 2 }$ 日龄，饲粮添加 $\beta \mathrm { . }$ -葡聚糖对肉仔鸡死淘率具有显著影响（ $. P { < } 0 . 0 5 )$ 。
+
+与100和 $2 0 0 ~ \mathrm { g / t }$ 剂量组相比， $1 5 0 ~ \mathrm { g / t }$ 剂量组死淘率显著提高（ $_ { . } P { < } 0 . 0 5$ ）。除此之外，饲粮添加 $\beta$ -葡聚糖对肉仔鸡体增重、采食量、料重比和EPI均无显著影响（ $. P { > } 0 . 0 5$ ）。
+
+Table 4 Growth performance of broilers aged from 1 to 42 days   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="4">β-葡聚糖添加水平 β-glucan supplemental level/(g/t)</td><td rowspan="2">P值 P-value</td></tr><tr><td>0</td><td>100</td><td>150</td><td>200</td></tr><tr><td>体增重WG/g</td><td>2 583±57</td><td>2 655±52</td><td>2 710±64</td><td>2 538±46</td><td>0.136 2</td></tr><tr><td>采食量FIg</td><td>3 561±64</td><td>3 673±46</td><td>3 698±50</td><td>3 636±31</td><td>0.236 6</td></tr><tr><td>料重比F/G</td><td>1.59±0.01</td><td>1.57±0.01</td><td>1.60±0.02</td><td>1.61±0.02</td><td>0.346 6</td></tr><tr><td>死淘率DR/%</td><td>3.57±1.44ab</td><td>1.19±0.81b</td><td>5.95±1.36a</td><td>1.19±0.81b</td><td>0.012 7</td></tr><tr><td>欧洲生产指数EPI</td><td>380±12</td><td>404±11</td><td>387±15</td><td>376±10</td><td>0.471 7</td></tr></table></body></html>
+
+2.2 $\beta$ -葡聚糖对肉仔鸡免疫器官的影响
+
+表4 $_ { 1 \sim 4 2 }$ 日龄肉仔鸡生长性能  
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="4">β-葡聚糖添加水平 β-glucan supplemental level/(g/t)</td><td rowspan="2">P值 P-value</td></tr><tr><td>0</td><td>100</td><td>150</td><td>200</td></tr><tr><td>21日龄 21 days of age</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>脾脏指数 Spleen index</td><td>0.70±0.05</td><td>0.69±0.04</td><td>0.67±0.03</td><td>0.79±0.06</td><td>0.327 7</td></tr><tr><td>法氏囊指数 Bursa of Fabricius index</td><td>2.03±0.15</td><td>2.03±0.13</td><td>2.20±0.09</td><td>2.05±0.11</td><td>0.702 0</td></tr><tr><td>42 日龄 42 days of age</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>脾脏指数 Spleen index</td><td>0.97±0.12</td><td>1.03±0.07</td><td>1.04±0.12</td><td>1.15±0.12</td><td>0.708 6</td></tr><tr><td>法氏囊指数Bursa of</td><td>1.16±0.17</td><td>1.40±0.14</td><td>1.18±0.13</td><td></td><td></td></tr><tr><td>Fabricius index</td><td></td><td></td><td></td><td>1.30±0.17</td><td>0.671 4</td></tr></table></body></html>
+
+如表5所示，在21和42日龄，饲粮添加 $\beta \mathrm { . }$ -葡聚糖对肉仔鸡脾脏指数和法氏囊指数均无显著影响 （ $_ { \cdot \cdot P > 0 . 0 5 }$ ）。
+
+# 表521和 42日龄肉仔鸡免疫器官指数
+
+2.3 $\beta$ -葡聚糖对肉仔鸡血清免疫指标的影响
+
+如表6所示，在21和42日龄，饲粮添加 ${ \beta } .$ -葡聚糖对肉仔鸡血清毒素、IgG和IgA含量均无显著影响（ $P { > } 0 . 0 5$ ）。
+
+# 表621和 42日龄肉仔鸡血清免疫指标
+
+Table 5Immune organ index of broilers at 21 and 42 days of age g/kg   
+Table 7Serum immune indexes of broilers at 21 and 42 days of age   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="4">β-葡聚糖添加水平 β-glucan supplemental level/(g/t)</td><td rowspan="2">P值 P-value</td></tr><tr><td>0</td><td>100</td><td>150</td><td>200</td></tr><tr><td>21日龄 21 days of age</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>内毒素 ET/ (EU/L)</td><td>78.9±5.90</td><td>87.7±6.50</td><td>93.3±6.00</td><td>87.0±7.20</td><td>0.504 9</td></tr><tr><td>免疫球蛋白GIgG/</td><td>5.55±0.33</td><td>6.69±0.50</td><td>6.63±0.53</td><td>5.82±0.48</td><td>0.2319</td></tr></table></body></html>
+
+<html><body><table><tr><td>（mg/mL) 免疫球蛋白AIgA/</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(mg/mL) 42 日龄 42 days of age</td><td>4.49±0.24</td><td>5.08±0.31</td><td>5.08±0.33</td><td>4.93±0.33</td><td>0.485 0</td></tr><tr><td>内毒素 ET/ （EU/L)</td><td>90.1±9.00</td><td>88.4±8.40</td><td>97.0±8.30</td><td>100±9.30</td><td>0.742 0</td></tr><tr><td>免疫球蛋白GIgG/ （mg/mL）</td><td>5.57±0.51</td><td>6.28±0.46</td><td>6.32±0.52</td><td>5.47±0.49</td><td>0.474 7</td></tr><tr><td>免疫球蛋白AIgA/ （mg/mL)</td><td>4.47±0.38</td><td>4.76±0.35</td><td>4.25±0.43</td><td>4.19±0.33</td><td>0.693 9</td></tr></table></body></html>
+
+2.4 $\beta$ -葡聚糖对肉仔鸡肠道菌群的影响
+
+如表7所示，21日龄时， $2 0 0 \ \mathrm { g / t }$ 剂量组肉仔鸡空肠和回肠内乳酸菌数量显著高于100和 $1 5 0 \ \mathrm { g / t }$ 剂量组（ $( P { < } 0 . 0 5 )$ ； $1 5 0 \mathrm { g / t }$ 剂量组肉仔鸡盲肠内乳酸菌数量显著高于对照组和100$\mathrm { \ g / t }$ 剂量组（ $P { < } 0 . 0 5$ ）。42日龄时，饲粮添加 ${ \beta }$ -葡聚糖对肉仔鸡空肠和回肠内乳酸菌数量有显著影响( $_ { . } { \cdot } { \cdot } { \cdot } { \cdot } { \cdot } ^ { } \ .$ ）；对肉仔鸡盲肠内乳酸菌数量影响不显著（ $. P { > } 0 . 0 5 .$ ）。 $2 0 0 \ : \mathrm { g / t }$ 剂量组肉仔鸡空肠和回肠内乳酸菌数量显著高于对照组（ $P { < } 0 . 0 5$ ）。
+
+表721和42日龄肉仔鸡肠道乳酸菌数量  
+Table 7Intestinal tract Lactobacillus number of broilers at 21 and 42 days of age   
+lgCFU/g   
+
+<html><body><table><tr><td colspan="6">igCrUrg</td><td rowspan="2">P值</td></tr><tr><td>项目</td><td colspan="3"></td><td colspan="2">β-葡聚糖添加水平 β-glucan supplemental level/(g/t)</td></tr><tr><td>Items</td><td>0</td><td>100</td><td></td><td>150</td><td>200</td><td>P-valu e</td></tr><tr><td>21日龄21days</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>of age</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>空肠和回肠</td><td></td><td></td><td></td><td></td><td></td><td>0.056</td></tr><tr><td>Jejunum and</td><td>6.30±5.78ab</td><td>6.18±5.48a</td><td></td><td>6.18±5.48a</td><td>6.46±5.60b</td><td></td></tr><tr><td>ileum</td><td></td><td></td><td></td><td></td><td></td><td>4</td></tr><tr><td>盲肠 Cecum</td><td>7.48±6.70a</td><td>7.48±6.78a</td><td></td><td>7.72±6.90b</td><td>7.53±6.70ab</td><td>0.066 0</td></tr><tr><td>42日龄42days</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>of age</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>空肠和回肠</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Jejunum and</td><td>4.70±3.90a</td><td>5.30±4.70ab</td><td></td><td>5.41±4.60b</td><td>5.54±4.90b</td><td>0.006</td></tr><tr><td>ileum</td><td></td><td></td><td></td><td></td><td></td><td>8</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>0.258</td></tr><tr><td>盲肠 Cecum</td><td>7.04±6.30</td><td>6.85±6.11</td><td></td><td>7.08±6.00</td><td>6.99±6.36</td><td>1</td></tr></table></body></html>
+
+如表8所示，21日龄时，饲粮添加 $\beta$ -葡聚糖对肉仔鸡空肠和回肠内沙门氏菌数量有显著影响 ( $P { < } 0 . 0 5 \$ ）；对盲肠内沙门氏菌数量影响不显著（ $. P { > } 0 . 0 5$ ）。其中 $1 5 0 \ \mathrm { g / t }$ 剂量组肉仔鸡空肠和回肠内沙门氏菌数量显著低于对照组（ $P { < } 0 . 0 5$ ）。42日龄时，饲粮添加 $\beta \mathrm { . }$ -葡聚糖对肉仔鸡空肠和回肠内沙门氏菌数量无显著影响（ $. P { > } 0 . 0 5$ ）；对盲肠内沙门氏菌数量有显著影响 ( $. P { < } 0 . 0 5$ ）。150和 $2 0 0 \mathrm { g / t }$ 剂量组肉仔鸡盲肠内沙门氏菌数量显著低于对照组和 100$\mathrm { g / t }$ 剂量组（ $. P { < } 0 . 0 5 )$ ）。
+
+Table 8Intestinal tract Salmonella number of broilers at 21 and 42 days of age   
+lgCFU/g   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="4">β-葡聚糖添加水平 β-glucan supplemental level/(g/t)</td><td rowspan="2">P值 P-valu</td></tr><tr><td>0</td><td>100</td><td>150</td><td>200</td></tr><tr><td>21日龄 21 days</td><td></td><td></td><td></td><td></td><td>e</td></tr><tr><td>of age</td><td></td><td></td><td></td><td></td><td>0.011</td></tr><tr><td>空肠和回肠</td><td>5.28±4.60b</td><td>6.15±5.48ab</td><td>4.76±4.18a</td><td>5.08±4.70ab</td><td>6</td></tr><tr><td>Jejunum and ileum</td><td></td><td>6.75±6.18</td><td>6.66±6.20</td><td>6.56±6.11</td><td>0.547</td></tr><tr><td>盲肠 Cecum</td><td>6.89±6.43</td><td></td><td></td><td></td><td>5</td></tr><tr><td>42日龄 42 days</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>of age</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>空肠和回肠</td><td>6.04±5.85</td><td>5.51±4.95</td><td>5.57±4.85</td><td>5.52±4.95</td><td>0.277 7</td></tr><tr><td>Jejunum and ileum</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>盲肠 Cecum</td><td>7.11±6.30b</td><td>7.15±6.60b</td><td>6.69±5.95a</td><td>6.69±5.85a</td><td>0.006 9</td></tr></table></body></html>
+
+# 2.5 $\beta$ -葡聚糖对肉仔鸡小肠V/C的影响
+
+如表9所示，21日龄时，饲粮添加 ${ \mathfrak { \beta } }$ -葡聚糖对肉仔鸡空肠和回肠V/C 无显著影响（ $. P { > } 0 . 0 5$ ）；42日龄时， $2 0 0 \ : \mathrm { g / t }$ 剂量组肉仔鸡空肠V/C 显著高于 $1 5 0 \ \mathrm { g / t }$ 剂量组（ $. P { < } 0 . 0 5 )$ ）；饲粮添加 ${ \mathfrak { \beta } } \qquad $ -葡聚糖对V/C无显著影响（ $. P { > } 0 . 0 5$ ）。
+
+表821和 42日龄肉仔鸡肠道沙门氏菌数量  
+表921和42日龄肉仔鸡小肠绒毛高度与隐窝深度比值  
+Table 9 The ratio of villus height to crypt depth (V/C） of small intestine of broilers at 21 and 42 days of age   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="4">β-葡聚糖添加水平 β-glucan supplemental level/(g/t)</td><td rowspan="2">P值 P-value</td></tr><tr><td>0</td><td>100</td><td>150</td><td>200</td></tr><tr><td>21日龄 21 days of</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>age</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>空肠 Jejunum</td><td>7.24±0.14</td><td>7.85±0.69</td><td>7.20±0.32</td><td>7.93±0.57</td><td>0.560 3</td></tr><tr><td>回肠Ileum</td><td>4.28±0.29</td><td>5.18±0.30</td><td>4.37±0.33</td><td>4.37±0.24</td><td>0.184 0</td></tr><tr><td>42日龄 42 days of</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>age</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>空肠Jejunum</td><td>7.93±0.77b</td><td>7.54±0.32ab</td><td>5.91±0.57a</td><td>8.11±0.87b</td><td>0.100 2</td></tr><tr><td>回肠Ileum</td><td>4.86±0.39</td><td>4.85±0.26</td><td>5.14±0.47</td><td>5.26±0.37</td><td>0.842 7</td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1β-葡聚糖对肉仔鸡生长性能的影响
+
+本试验结果表明，饲粮添加 $\beta$ -葡聚糖（ $1 5 0 \ \mathrm { g / t } )$ ）提高肉仔鸡出栏重，改善肉仔鸡生长性能。有报道指出，添加作为非淀粉多糖的 ${ \beta }$ -葡聚糖会增加肠道黏度，影响养分吸收，进而抑制动物生长[8]。而由于肠胃难以吸收 $\beta$ -葡聚糖，存在于肠道的益生菌可以将其利用促进益生菌生长，维护肠道的健康[9]。可能是2种作用效果互相影响导致了100 和 $2 0 0 \ \mathrm { g / t }$ 剂量组与对照组相比生长性能无显著差异。而 $1 5 0 \ \mathrm { g / t }$ 剂量组相比对照组拥有更高的体增重和出栏重，说明添加 $1 5 0 \ \mathrm { g / t \beta } .$ -葡聚糖有利于提高肉仔鸡生长性能，而当 ${ \mathfrak { \beta } }$ -葡聚糖添加量达到 $2 0 0 \mathrm { g / t }$ 时会对肉仔鸡生产造成不利的影响。
+
+# 3.2 $\beta$ -葡聚糖对肉仔鸡免疫功能的影响
+
+本试验发现，21日龄时 $1 5 0 \ \mathrm { g / t }$ 剂量组相比对照组拥有更高的法式囊指数；42日龄时免疫器官指数无显著差异。这与刘影等[10]对肉仔鸡饲粮添加 $\beta$ -葡聚糖的研究结果一致。该结果提示 $\beta$ -葡聚糖对肉仔鸡免疫功能的调节可能是通过影响肉仔鸡法氏囊来实现的。而 21日龄前法氏囊的良好发育对肉仔鸡体液免疫功能以及B淋巴细胞的免疫功能起着至关重要的作用。说明补充 $\beta$ -葡聚糖（ $1 5 0 \ \mathrm { g / t }$ ）可有效提高肉仔鸡免疫能力。
+
+本试验发现，补充 $\beta$ -葡聚糖（ $1 5 0 \ \mathrm { g / t } )$ ）可以提高肉仔鸡血清中IgG的含量。这与周怪等[1]研究 $\beta$ -葡聚糖对犊牛免疫指标影响的结果类似，也和 Benda等[12]研究 $\beta \mathrm { . }$ -葡聚糖调节山羊体液免疫的结果类似。IgG 是机体内存在的一类广泛参与体液免疫反应的球蛋白，具有结合抗原、激活补体和调节作用等生物学功能。这说明 $\beta$ -葡聚糖的补充可能对提高肉仔鸡体液免疫能力有一定作用，但对于在未感染外界微生物情况下血清IgG 含量提高的具体意义、好坏利弊仍需进一步的研究探索。
+
+# 3.3 $\beta$ -葡聚糖对肉仔鸡肠道微环境的影响
+
+本试验发现，适量补充 $\beta$ -葡聚糖（150或 $2 0 0 \ \mathrm { g / t } )$ 有助于肠道内乳酸菌的生长并抑制沙门氏菌的生长。潘树德等[13]研究发现，添加β -葡聚糖对盲肠中乳酸杆菌数量的影响呈提高趋势。作为机体内的第一道防御屏障，胃肠道内拥有良好的微生物菌群对动物生长性能有一定的促进作用。难以被消化道吸收的 $\beta$ -葡聚糖被乳酸菌利用并用于其生长，乳酸菌能够产生有机酸（乳酸、乙酸、丙酸等）、过氧化氢等化合物，能够抑制病原菌的增殖，因此适量补充 $\beta$ -葡聚糖可能在一定程度的抑制沙门氏菌的生长和增殖，由于未对肉仔鸡粪便进行观
+
+察，其潜在意义仍需进一步研究。
+
+本试验发现， $2 0 0 \ \mathrm { g / t }$ 剂量组肉仔鸡在42日龄时空肠V/C 最大。 $1 5 0 \ \mathrm { g / t }$ 剂量组肉仔鸡V/C 显著小于对照组，可能因为随着 $\beta \mathrm { . }$ -葡聚糖添加量增加其抗营养作用随之增加且在添加量为 $1 5 0 \ \mathrm { g / t }$ 时效果尤为显著所致。肉仔鸡消化吸收功能的结构基础是小肠黏膜形态结构，小肠的正常结构保证了养分充分的消化和吸收。小肠吸收养分的主要部位是小肠绒毛，V/C 能综合的反映小肠的功能情况也是是衡量小肠消化吸收功能的常用指标[4]。如果肠道黏膜上皮绒毛萎缩，则表现为小肠黏膜上皮绒毛高度减小，隐窝深度增加，导致吸收养分的能力下降。如果V/C 增大，小肠吸收养分的面积就随之增大，吸收养分的能力就得到加强。饲粮中添加 $2 0 0 { \mathrm { g / t } } \beta$ -葡聚糖在一定程度上加强了肉仔鸡空肠肠段的消化吸收能力。
+
+# 4结论
+
+饲粮中添加适量的 ${ \mathfrak { \beta } }$ -葡聚糖可提高肉仔鸡出栏重，改善肉仔鸡生长性能，增加盲肠内乳酸菌数量，减少空肠、回肠和盲肠内沙门氏菌数量。
+
+# 参考文献:
+
+[1]曹俊明,赵红霞,黄燕华,等.β-葡聚糖及其在水生动物中的应用研究[J].饲料工业,2013,34(18):1-6.  
+[2]魏占虎,李冲,李发弟,等.酵母 ${ \mathfrak { \beta } }$ -葡聚糖对早期断奶羔羊生产性能和采食行为的影响[J].草业学报,2013,22(4):212-219.
+
+[3] REYNOLDS JA,KASTELLO M D,HARRINGTON D G,et al.Glucan-induced enhancement of host resistance to selected infectious diseases[J].Infection and Immunity,1980,30(1):51-57.
+
+[4]王志宏,邢沈阳,张桂荣.啤酒废酵母中 RNA 和 $\beta$ (1,3) ${ \bf \nabla } \cdot { \cal D } $ -葡聚糖的综合提取[J].东北师大学报：自然科学版,2012,44(2):95-98.
+
+[5] SANG H M,FOTEDAR R.Effects ofdietary $\beta$ -1,3-glucan on the growth,survival,physiological and immuneresponseofmarron,Cheraxtenuimanus (smith,1912)[J].Fish & Shellfish Immunology,2010,28(5/6):957-960.
+
+[6]李志清.日粮中酵母细胞壁及其 $\beta$ -葡聚糖对肉仔鸡生长及免疫力的影响[D].硕士学位论文.北京:中国农业大学,2004:29-31.
+
+[7]吴春玉,曹俊明,黄燕华,等.饲料中添加 $\beta$ -葡聚糖对花鲈生长性能、体成分、血清生化指标和抗氨氮应激能力的影响[J].动物营养学报,2013,25(12):3033-3040.
+
+[8]陈正玲,王康宁.β-葡聚糖与家禽营养[J].饲料研究,1997(6):12-13.
+
+[9]周怿,刁其玉,屠焰,等.酵母 $\beta$ -葡聚糖和杆菌肽锌对早期断奶犊牛生长性能和胃肠道发育的影响[J].动物营养学报，2011,23(5):813-820
+
+[10]刘影,呙于明,袁建敏,等.β-1,3/1,6-葡聚糖对肉仔鸡生产性能和免疫功能的影响[J].中国农业大学学报,2003,8(1):91-94.
+
+[11]周怿,刁其玉,屠焰,等.酵母 ${ \beta }$ -葡聚糖对早期断奶犊牛生产性能和血液生理生化指标的影响[J].中国畜牧杂志,2010,46(13):47-51.
+
+[12]BENDA V,MADR P.Assessment of lymphocyte and phagocytic functions in goats treated with glucan[J].Journal of Veterinary Medicine,Series B,1991,38(1/2/3/4/5/6/7/8/9/10):681-684.
+
+[13]潘树德,李学俭,边连全,等.酵母 ${ \mathfrak { \beta } }$ -葡聚糖对断奶仔猪肠道菌群的影响[J].饲料工 业,2012,33(12):21-23.
+
+[14]县怡涵,赵秀英,李晨博,等.植物乳杆菌和干酪乳杆菌对仔猪生长性能、器官指数及小肠形态的影响[J].动物营养学报，2015,27(12):3805-3811.
+
+Effectsof $\beta$ -Glucan on Growth Performance,Immune Function and Intestinal Micro Environment of Broilers
+
+QU Kunpeng1ZHANG Qian² YANG Jiachang1HU Xiyi1CAO Bingjian1SONG Zhigang1\* CHENG Zongjia3   
+(1. College of Animal Science and Technology, Shandong Agricultural University, Tai'an 271018,   
+China; 2. Huangdao Entry-Exit Inspection and Quarantine Bureau, Qingdao 266555, China; 3. Belgian Green Groups in Shanghai, Shanghai 200120, China)
+
+Abstract:This experiment was conducted to investigate the effects of diet adding $\beta$ -glucan on growth performance, immune function and intestinal micro environment of broilers. A total of 672 one-day-old Arbor Acres (AA) broilers were randomly allocated to 4 groups with 14 replicates per group and 12 chickens per relicates. The control group was fed a basal diet, while the experimental groups were fed the basal diet supplemented with 1Oo,150 and $2 0 0 \ \mathrm { g / t \ \beta }$ -glucan, respectively. The experiment lasted for 42 days.The results showed as following: 1) the weight gain of broilers aged from 1 to 21 days in $1 5 0 ~ \mathrm { g / t }$ group was significantly higher than that in control group $( P { < } 0 . 0 5 )$ . 2) The serum immunoglobulin content of broilers in $1 5 0 ~ \mathrm { g / t }$ group was higher than that in control group ( $\mathrm { ( } P \mathrm { > } 0 . 0 5 \mathrm { ) }$ . 3）At 21 days of age, the caecal Lactobacillus number of broilers in $1 5 0 ~ \mathrm { g / t }$ （204号 group was significantly higher than that in control group $( P { < } 0 . 0 5 )$ ，while the number of Salmonella in jejunum and ileum was significantly lower than that in control group $( P { < } 0 . 0 5 )$ .At 42 days of age，the caecal Salmonella number of broilers in 150 and $2 0 0 \ \mathrm { \ g / t }$ group was significantly lower than that in control group and $1 0 0 ~ \mathrm { g / t }$ group $( P { < } 0 . 0 5 )$ . 4) The villus height to crypt depth ratio in the jejunum of broilers was significantly influenced by dietary $\beta$ -glucan supplementation $( P { < } 0 . 0 5 )$ ．In conclusion，moderate $\beta$ -glucan supplementation can improve the commercial body weight, growth performance and the number of Lactobacillus in caecum, while reduce the number of Salmonella in jejunum, ileum and caecum.
+
+Key words: $\beta$ -glucan； broilers； growth performance；immunity function； intestinal microenvironment

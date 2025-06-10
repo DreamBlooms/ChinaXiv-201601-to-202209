@@ -1,0 +1,202 @@
+# Soil wetting decreases the level of apparent activation energy for microbial respiration in subtropical forest ecosystems
+
+G. C. HAO $^ { 1 , 2 , \# }$ , W. P. ZHOU $^ { \cdot 3 , \# }$ ,Q. ZHUANG4, H. WEI, Q. ZHU, Y. L. LIU & W. J. SHEN1,2,\*
+
+（204号 $^ { I }$ Center for Ecological and Environmental Sciences,South China Botanical Garden,Chinese Academy of Sciences, Guangzhou 510650, China.   
+2Guangdong Provincial Key Laboratory ofApplied Botany, South China Botanical Garden, Chinese Academy of Sciences, Guangzhou 510650, China.   
+3Institute of Environment and Sustainable Development in Agriculture, Chinese Academy ofAgricultural Sciences, The Key Laboratory for Agro-Environment,Ministry ofAgriculture,Beijing 100081.   
+4Department of Earth, Atmospheric, and Planetary Sciences and Department ofAgronomy; Purdue University, West Lafayette,IN 47907-2051,USA.   
+Department ofEcology, Colege of Natural Resources and Environment, South China Agricultural University, Guangzhou 510642, China.   
+Climate Sciences Department, Climate & Ecosystem Sciences Division, Lawrence Berkeley National Laboratry, Berkeley, CA94720.   
+Joint Global Change Research Institute,Pacific Northwest National Laboratory,5825 University Research Court, CollegePark,Maryland20740,UnitedStates.   
+#These authors contributed equally to this work.   
+Correspondence: W. Shen. E-mail: shenweij@scbg.ac.cn   
+Keywords: apparent activation energy; soil moisture; subtropical forest; carbon cycle modeling
+
+# Abstract:
+
+Apparent activation energy (Ea) is one of the most important and sensitive parameters that control soil organic C (SOC) decomposition in prevailing earth system models (ESMs). The variation of apparent Ea is affected by multiple soil environmental factors, among which soil moisture exerts a strong effect. Aiming to better inform temperature sensitivity parameterization in ESMs, here we examined the relationship between apparent Ea and soil moisture with both incubation experiment and field measurement in subtropical forests.We found that apparent Ea declined as soil moisture increased, consistently in both incubation and field experiments.We speculated that this phenomenon was due to altered microbial community composition from changing soil moisture. Our results suggest that future warming and changing precipitation would significantly affect the decomposition of recalcitrant carbon pools in subtropical forests. Lacking representation of the impact of soil moisture on SOC decomposition temperature sensitivity in current ESMs might have biased climate projection.
+
+# 1. Introduction
+
+Activation energy (Ea),a measure of the minimum energy required to start a chemical reaction, is often synonymously referred to the temperature sensitivity of soil organic carbon (SOC) decomposition based on Arrhenius equation (Davidson et al.,1998; Craine et al., 2010a; Craine & Gelderman, 2011; Sierra, 2012). For example, Craine (2010) tested landscape-level variations in temperature sensitivity (apparent Ea) of labile SOC in a grassland ecosystem. Moreover, the relationship between temperature sensitivity and apparent Ea was discussed via recalcitrant organic matter-Ea relationship for different soils. It has been found that increase in reaction rate ( $\mathbf { \bar { \Psi } } = \mathbf { \Psi }$ the $Q _ { 1 0 }$ value) is larger for reactions with higher Ea. In other words, higher Ea results in less reactive and more recalcitrant SOC (Davidson & Janssens,2006;Kleber, 2010; Sierra, 2012).
+
+Predicting the temperature sensitivity of microbial decomposition is vital to projecting the responses of soil carbon dynamics to future climatic change and terrestrial ecosystem function (Friedlingstein et al., 2006; Schuur et al., 2009). The backbone of predicting microbial decomposition is the Arrhenius equation, which provides a solid theoretical framework for the temperature sensitivity of a variety of biochemical recalcitrance or substrate (Sierra,2012). Earth system models (ESMs) (Davidson et al.,2012; Wieder et al., 2015a) equipped with those detailed microbial processes and relied on Arrhenius-type temperature sensitivity parameterization have showed a promising capability to project responses of soil carbon dynamics to climate change (Wieder et al., 2015b). In these models, Ea, which is used to describe the reaction response to temperature under optimal conditions (Wang et al., 2O12), has been considered as one of the most important parameters determining SOC decomposition and its underlying processes (Allison et al., 2010; Wieder et al.,2015a).
+
+During the past decade, the relationship between apparent Ea and substrate quality was controversial for non-labile or low-quality organic matter decomposition studies (Luo et al., 2001; Fang et al.,2005; Sierra,2012). Recent studies focus on the relationship between Ea and abiotic and biotic drivers such as microbial respiration, topographic position, landscapelevel variation,and pH for different soils (Craine et al.,201Ob; Wang et al.,2012). In spite of investigation for the impacts of environmental variables on apparent Ea, few studies have examined the effect of soil moisture on the apparent Ea of microbial respiration (Davidson & Janssens,2006; Kleber, 2010; Zhou et al.,2011; Suseela et al.,2012a; Ding et al., 2016; Hursh et al.,2O16). Moreover, Ea-soil moisture relationship has not yet been coupled into large-scale models (Wieder et al.,2O15a), because their relationship is not still clearly understood at microbial process levels. Thus, an improved understanding of Ea-moisture relationship is required to inform better representation of SOC decomposition in those ESMs.
+
+Subtropical ecosystems process more carbon annually than other regions of the Earth (Holland et al.,2Oo0). Therefore,understanding Ea-moisture relationship is needed to better quantify responses of soil carbon pool to climatic change in this region, as illustrated by the carbon-quality temperature (CQT) hypothesis. Besides, the subtropical forests (e.g. southern China) experience more significantly changes in precipitation regimes compared to other tropical forests (Tang et al., 20o6) due to its unique climate regime. Moreover, both long-term observation data and model simulations have suggested a significance decreasing trend in soil moisture of subtropical forests (Zhou et al., 2011) due to changing precipitation patern (Liu et al.,2016; Luo et al., 2017). Thus, the variation in moisture among forest soils provides a golden opportunity for studies of the relationships between apparent Ea and soil moisture under different moisture conditions. Although many studies indicated that the declining soil moisture in subtropical forests has constrained root, soil microbial biomass, soil respiration, temperature and moisture sensitivity (Jiang et al.,2013; Xu et al., 2014; Wei et al.,2015), the effect of decreasing trend on apparent Ea has still not been investigated. The lack of examination could be due to limited precipitation manipulation experiments (Beier et al., 2012),or be ascribed to the complexity of apparent Ea-moisture relationship among different soils or different topographic positions (Craine et al.,2010b).
+
+This work is motivated by the needs to enhance the understanding of Ea-moisture relationship, so to improve projection of responses of SOC to environmental changes. Here we hypothesize that apparent Ea would decrease with increasing soil moisture, as high soil water content could reduce temperature sensitivity (Davidson et al., 1998; Suseela et al., 2012b). As intrinsic Ea-moisture relationship has not yet been investigated in laboratory experiments or field soils alone (Wang et al., 2012), to test our hypothesis, we used a combination of both laboratory incubation experiments and field measurements.
+
+# 2.Material and methods
+
+# 2.1 Site description
+
+The experiments were conducted in four subtropical forests in Guangdong province,southern China. The BF (climax evergreen broadleaved forest, more than 4OO years old, coverage $9 5 \%$ ） and CF (mixed coniferous and broadleaf forest, about 11O years old, coverage $90 \%$ ) sites are located at the Dinghushan Biosphere Reserve (DBR:1 $1 2 ^ { \circ } 3 0 ^ { \circ } { \sim } 1 1 2 ^ { \circ } 3 3 ^ { \prime } \mathrm { E }$ ， $2 3 ^ { \circ } 9 ^ { \prime } { \sim } 2 3 ^ { \circ } 1 1 ^ { \prime } \mathrm { N } ,$ ,and the CP (conifer plantation, 26 years old, coverage $70 \%$ ） and BP (native broadleaved species plantation, 26 years old, coverage $90 \%$ ； see detail in Wei's paper (2015)) are located at Heshan National Field Research Station of Forest Ecosystems $( { \mathrm { H S F } } { : } 1 1 2 ^ { \circ } { 5 4 ^ { \prime } } { \mathrm { E } }$ $2 2 ^ { \circ } 4 1 \mathrm { N }$ ）， Guangzhou Province, China. Mean annual air temperature is $2 2 . 3 ^ { \circ } \mathrm { C }$ at the DBR and $2 1 . 7 ^ { \circ } \mathrm { C }$ at the HSF. Mean annual precipitation is $1 6 7 8 \mathrm { m m }$ at the DBR and $1 7 0 0 \mathrm { m m }$ at the HSF. The soils are classified as oxisols in the USDA soil taxonomy, with a bulk density of $1 . 4 \mathrm { g } \mathrm { c m } ^ { - 3 }$ (table 1).
+
+Tabel 1. Soil characteristics including forest type (evergreen broadleaved forest (BF), coniferous broadleaved mixed forest (CF), coniferous species plantation (CP), broadleaved native species plantation (BP)), total organic carbon (TOC), total nitrogen (TN), total phosphorous (TP), water holding capacity (WHC).
+
+<html><body><table><tr><td>Forest</td><td>WHC</td><td>TOC</td><td>TN</td><td>TP</td><td>pH</td></tr><tr><td>type</td><td>(gg)</td><td>(mg g-1)</td><td>(mg g1)</td><td>(mg g1)</td><td></td></tr><tr><td>BF</td><td>0.31±0.002d</td><td>25.07±0.73a</td><td>1.86±0.05a</td><td>0.22±0.004b</td><td>3.10±0.02c</td></tr></table></body></html>
+
+<html><body><table><tr><td>CF</td><td>0.57±0.008b</td><td>16.95±0.46b</td><td>1.22±0.02b</td><td>0.25±0.004a</td><td>3.32±0.01b</td></tr><tr><td>CP</td><td>0.55±0.004c</td><td>14.80±0.26</td><td>1.05±0.01c</td><td>0.19±0.008</td><td>3.58±0.08a</td></tr><tr><td>BP</td><td>0.59±0.004a</td><td>13.30±0.32d</td><td>0.99±0.02c</td><td>0.22±0.05b</td><td>3.34±0.02b</td></tr></table></body></html>
+
+mean±standard error,superscripts denote significant diferences in WHC,TOC,TN,TPand pHamong forest types $( \mathrm { p } { < } 0 . 0 5 )$ ：
+
+# 2.2 Experimental Design
+
+For field measurement, three $1 0 \times 1 0 ~ \mathrm { m } ^ { 2 }$ quadrats were firstly established in each forest. Each quadrat contained three $\boldsymbol { 1 \times 1 } \ : \mathrm { m } ^ { 2 }$ plots,which were trenched for measuring heterotrophic respiration $\left( \mathrm { R } _ { \mathrm { h } } \right)$ . Trenching and collar installations were performed in November 2oo9.We measured soil $\mathrm { R _ { h } }$ using a portable $\mathrm { C O } _ { 2 }$ analyzer (Li-8100 Auto Soil $\mathrm { C O } _ { 2 }$ Flux system, Li-Cor Bioscience, NE, US) with a frequency of twice per month (normally on rainless days at the beginning and in the middle of a month) from February 2010 to January 2012.At the same time, soil temperature and moisture at 5cm depth were also recorded. One soil core was collected from the surface soil $( 0 - 2 0 \mathrm { c m } )$ using a circular soil collector with 4-cm inner diameter in each plot each month (normally after the second $\mathrm { C O } _ { 2 }$ measurement each month) and the three soil cores in the same quadrat were mixed as a composite sample. We therefore had three composite soil samples in each of the four forests per month during the investigation period (see Wei et al., 2015 for full details).
+
+For incubation experiment, four random surface soil cores (O-2Ocm),each of which were re-collected and mixed by five soil cores, were chosen at each forest. After collection, soils were passed through 2-mm sieve with apparent plant roots and stones being removed (Zhou et al.,2014). For each sample, we measured total organic C and total N concentration, water holding capacity (WHC) (Bailey et al., 1991),and pH in a 1:1 mixture of soil and water. After sieving,all soils had their soil moisture adjusted to either $20 \%$ ， $40 \%$ $60 \%$ 0 $80 \%$ water holding capacity(WHC). Four replicates of each forest were then incubated at five different temperatures $( 1 0 ^ { \circ } \mathrm { C } , 1 7 ^ { \circ } \mathrm { C } , 2 4 ^ { \circ } \mathrm { C } , 3 1 ^ { \circ } \mathrm { C } , 3 8 ^ { \circ } \mathrm { C } )$ with an additional 6 replicates incubated at the same temperature. Three flasks (or replicates) of each treatment were harvested on days 7 and 90 in order to measure microbial biomass carbon (MBC), dissolved organic carbon (DOC), total organic carbon (TOC), total nitrogen (TN), inorganic $\mathrm { \Delta N }$ 0 $\mathrm { N H } _ { 4 } ^ { + }$ and ${ \bf N O } _ { 3 } { \bf \ddot { \Psi } }$ ). Part of the soil at BP forest site in each flask was collected and stored at $- 2 0 ^ { \circ } \mathrm { C }$ or later analysis of PLFAs of fungal (F) and bacteria (B) on days 7 and 90. Microbial community PLFAs were analyzed according to Bossio and Scow (1998). The details for measuring methods can be found in Zhou et al (2014).
+
+# 2.3 Statistical analysis
+
+We used the Arrhenius equation to calculate the apparent activation energy (Ea), where the rate of soil $\mathrm { R } _ { \mathrm { h } }$ is described by:
+
+$$
+\mathrm { R _ { h } } { = } \mathrm { A }
+$$
+
+where $\mathrm { \Delta T }$ is temperature in Kelvin,R is the gas constant $( 8 . 3 1 4 \mathrm { ~ J ~ K ^ { - 1 } ~ m o l ^ { - 1 } } )$ ）and A is the frequency factor that is specific to each reaction and generated independently for each set of four replicates. Specifically， apparent Ea was calculated as the slope of the relationship between -1/RT and the natural logarithm of respiration rates.
+
+Significance differences between treatments were determined with Tukey's HSD post-hoc tests. One-way ANOVA and Pearson correlation were used to analyze soil moisture, soil microbial and chemical properties effect on apparent Ea. The relationship between apparent Ea and soil $\mathrm { R _ { h } }$ from field data was fitted with nonlinear least square method. All analyses were conducted in Matlab (R2014a).
+
+# 3. Results
+
+3.1 Soil respiration varied under different treatments
+
+Across all temperature treatments, the average soil $\mathrm { R _ { h } }$ of each forest $( \mathrm { n } { = } 2 4 )$ ),which reached the highest during 1O incubation days, declined with incubation days and the average soil $\mathrm { R } _ { \mathrm { h } }$ at $6 0 \% \mathrm { W H C }$ and $8 0 \% \mathrm { W H C }$ is higher than that at $20 \%$ WHC and $40 \%$ WHC (figure 1-4), and the average soil $\mathrm { R } _ { \mathrm { h } }$ at $20 \%$ WHC is the lowest with each forest. In addition, soil $\mathrm { R } _ { \mathrm { h } }$ responded to moisture levels on days 7,30 and 90 that represented the early, middle and late incubation stages were analyzed. We found that moisture had a significant effect on soil $\mathrm { R _ { h } }$ at all incubation stages at $3 1 ^ { \circ } \mathsf { C }$ and $3 8 ^ { \circ } C$ of each forest $( \mathrm { p } { < } 0 . 0 5 )$ .However, there were only significant differences between moisture and soil $\scriptstyle \mathrm { \mathrm { R } } _ { \mathrm { h } }$ at late incubation stage at $1 0 ^ { \circ } \mathsf { C } \ 1 7 ^ { \circ } \mathsf { C }$ and $2 4 ^ { \circ } \mathsf { C }$ of each forest $( \mathrm { p } { < } 0 . 0 5 )$
+
+# 3.2 The relationship between apparent Ea and soil moisture from incubation experiments
+
+The average adjusted coefficient of determination $( \mathbb { R } ^ { 2 } )$ between temperature and average soil $\mathrm { R } _ { \mathrm { h } }$ of each forest was $0 . 8 4 { \scriptstyle \pm 0 . 0 9 }$ across all moisture levels and all time points, by using the Arrhenius equation ( $\scriptstyle \mathbf { n = } 6 0$ $\mathrm { { \tt p } } { < } 0 . 0 0 1$ ). Apparent Ea varied significantly with incubation days across all moisture levels of each forest (table 2, figure 5). Apparent Ea varied from $1 3 1 . 3 6 \mathrm { k J }$ $\mathrm { m o l ^ { - 1 } }$ at $40 \%$ WHC (BF) to $1 4 . 8 8 \mathrm { k J \ m o l ^ { - 1 } }$ at $80 \%$ WHC (CP). The one-way ANOVA analysis showed that apparent Ea of each forest on day 7, 30 and 90 was significantly influenced by soil moisture $( \mathrm { p } { < } 0 . 0 5 )$ . To better elucidate the relationships between apparent Ea and soil moisture, we examined relationships between log-transformed apparent Ea and soil moisture
+
+10℃ 17℃ 0.08 0.10 米 0.02 朵 米 + 类 + 朵 米 ① 4 + 部 坐 + △米 + 余 . 函 ① 朵 + △ 米 + \* 0000 十全 △\*の \*△ 木 \*△Q \*△ \*△O+ △米 \*△ △米 \*△+O 迷   
+(t_s l_iou 0.20 0 20 4024C0 80 100 80% 0.40 0 20 431C0 80 100 米   
+oumy 米 米 鑫 0.10 业商 \*△ ① + 米 米 \*△ 迷 金 米△ \* \* 米△ . 番 0 20 40 60 80 100 0 20 40 60 80 100 Incubation time(day) 38℃ 0.10 0.05 步 + ① 净座 +O O+ 来 本 本 市 0 20406080 100 Incubation time(day)
+
+of BF forest time at different levels.
+
+1. Changes of $\mathrm { R } _ { \mathrm { h } }$ with incubation soil moisture
+
+10℃ 17℃ 0.20 0.20 米 0.15 △△ A 半 △ 金 4 金 △ △ 0 20% 0.105 中果 金 + 40% 0 20 40 60 80 100 △ 60% 0 20 40 60 80 100 (ls llor 2o loun)"y 米80% 24℃ 31℃ 0.20 0.40 0.15 朵 木 类番番番番 舍 金步 金 安 0 20 40 60 80 100 0 20 40 60 80 100 Incubation time(day) 38℃ 0.40 0.10 中 0.00 4 番 母步 0 20 40 60 80 100 Incubation time(day)
+
+Changes of CF forest incubation
+
+timeatdifferentsoilmoisturelevels.
+
+10°℃ 17℃ 0.10 0.10 朵 会 0.05 美舍 △ 金 8 播 金 △ 金金 0 20%60.05 △ 中 会 金 0 20 40 60 80 100 60% 0 20 40 60 80 100   
+(l_s L_jou ) 米80% 24℃ 31℃ 0.10 0.10 米 茶   
+oun 澳 断力 金 米 舍乐 金 0.05 本 米 \*④ 米 来来 古 迷 金 0 20 40 60 80 100 0 20 40 60 80 100 Incubation time(day) 38℃ 0.10 0.05 米 \* C 米 \* Q 迷 0 20 40 60 80 100 Incubation time(day)   
+Changes ofRh of   
+with incubation   
+different soil   
+levels. 4.   
+Changes of $\mathrm { R _ { h } }$ of   
+BP forest with   
+incubation time at
+
+![](images/bda50473e036ed598a79d3eb60b9c76b60bf9120ccb8735330658a15e75fb944.jpg)  
+Figure
+
+different soil moisture levels.
+
+BF CF 150 O 60 ○ 0   
+r △ △ + 40 。 0 数 ? + 〇\* ○达\* 米 \*\*4 0米 A ○+ 20 米 果 惠 米 米十 0X + +米△ ○+\* 米 米米 米 \* △ ○ 20% △ △ + 40% 0 20 40 60 80 100 △ 60% 0 20 40 60 80 100 米80% CP BP 100 100 十   
+(tior rr)rm 50 O△ 80 ○ 米 + 8 0 米 1050 0+料 + 米 △ 4 ○来△ 0\*+△ 米十 米 。 +△ \*+ ○ +\* 604020 \* + 米 + 4+ +母 ○4 ○\* 8 ○4\* \* 0 20 40 60 80 100 0 50 100 0 50 100 Incubation time(day) Incubation time(day)
+
+Figure 5. apparent forest time at moisture
+
+Changes of Ea of each with incubation different soil levels.
+
+after standardizing differences in average apparent Ea of each forest. The average apparent Ea of individual forest decreased linearly with increasing soil moisture ( $\mathbf { ( r { = } { - } 0 . 8 5 }$ ， $\mathbf { p { < } 0 . 0 0 1 }$ · figure 6), with $2 4 \mathrm { k J \ m o l ^ { - 1 } }$ greater Ea at $20 \%$ WHC $( 5 8 . 6 \mathrm { k J \ m o l ^ { - 1 } }$ ,BF) than at $80 \%$ WHC $( 3 4 . 9 \mathrm { k J \ m o l ^ { - 1 } } ,$ BP).
+
+Table 2.Average apparent Ea of each forest with different moisture levels   
+
+<html><body><table><tr><td></td><td>20%</td><td>40%</td><td>60%</td><td>80%</td></tr><tr><td>BF</td><td>62.38a</td><td>50.08a</td><td>33.33b</td><td>35.23b</td></tr><tr><td>CF</td><td>51.44a</td><td>40.18ab</td><td>35.34b</td><td>40.82ab</td></tr><tr><td>CP</td><td>48.06a</td><td>35.93b</td><td>32.06b</td><td>32.28b</td></tr><tr><td>BP</td><td>46.56a</td><td>37.69b</td><td>39.47b</td><td>45.21b</td></tr></table></body></html>
+
+Superscripts denote significant differences in apparent Ea of each forest with moisture levels.
+
+# 3.3 The relationship between apparent Ea and soil properties
+
+A positively significant influence of moisture treatments on MBC/DOC ratios $( \mathrm { p } { < } 0 . 0 1 )$ and negative effects on the PLFA concentrations of F:B ratio (figure 7) at BP forest site on day 7 and 90 $\mathrm { ( p { < } 0 . 0 1 \dot { ) } }$ ） (decreasing fungi and increasing bacteria) were detected with the same incubation temperature. The relationship between apparent Ea and MBC/DOC ratio was analyzed on day 7 and 90 at four forest sites. However, no significant Pearson correlation was found between apparent Ea and MBC/DOC with different soil moisture levels under the same incubation temperature. Meanwhile, the relationship between apparent Ea and F:B ratio also was analyzed at BP forest site on day 7 and 90.A significant correlation between apparent Ea and F:B ratio was only detected on day 7 (average $\scriptstyle \mathrm { r = 0 } . 6 2$ ）and 90 (average $\scriptstyle 1 = 0 . 8 3$ )with the same incubation temperature. For other properties (inorganic nitrogen and TN), we did not find a significant correlation with Ea $( \mathrm { p } { > } 0 . 0 1 )$ ：
+
+![](images/d5838512c03240a6ca2036028c313643ee6b696339a2c143f7b4588588ff37dc.jpg)  
+Figure 6. Relationship between apparent Ea of each forest and soil moisture from incubation experiments.
+
+![](images/dc4d537929d10f4c9bc096331acd8c7ecec94148b2c2e153f1a6d4988b1a1e6a.jpg)  
+Figure 7.Relationship between F:B ratio and soil moisture in BP forest on day 7and 90.
+
+3.4 The relationship between apparent Ea and soil moisture from field measurements The soil $\mathrm { R } _ { \mathrm { h } }$ ,which increased with soil temperature,followed Arrhenius equation at 5cm depth (adjusted $\mathrm { R } ^ { 2 } { = } 0 . 5$ $\scriptstyle 1 = 2 1 6$ $\mathrm { { \tt p } } { < } 0 . 0 0 1$ ; figure 8a). In order to investigate the apparent Ea-soil moisture relationship from field data, four soil moistures levels (each soil moisture level
+
+included 40 pairs of data) were firstly identified and then corresponding apparent Ea was matched.The results indicated that soil moisture had a significance impact on Ea.Ea of lower soil moisture ( $( 0 . 1 2 \% - 0 . 2 8 \%$ ） was lower significantly than that of higher soil moisture $( 0 . 3 3 \%$ $0 . 3 8 \%$ )(figure 8b).According to Crain (2O1O), there is a linearly decreasing correlation between log-transformed apparent Ea and log-transformed relative respiration rates at $2 0 ^ { \circ } \mathrm { C }$ $\mathrm { R } _ { 2 0 } ) ( \mathrm { l o g } ( \mathrm { E a } ) = 2 . 0 1 \mathrm { - } 0 . 0 9 4 ^ { \ast } \mathrm { l o g } ( \mathrm { R } _ { 2 0 } ) )$ . To test the relationship between apparent Ea and soil moisture, we pooled ${ \bf R } _ { 2 0 }$ from field data together from four forests sites (average soil temperature is 20.27, n is 12) (figure 9). As seen in figure 9, the apparent log-transformed Ea significantly declined with increasing soil moisture $( \mathrm { r } { = } { \_ } 0 . 7 1$ ， $\mathrm { { \tt p } } { < } 0 . 0 0 1$ ）
+
+# 4.Discussion
+
+Our results suggest that soil $\mathrm { R } _ { \mathrm { h } }$ is affected by soil moisture.Regardless of temperature treatments, soil $\mathrm { R } _ { \mathrm { h } }$ at lower moisture levels $( 2 0 \% )$ tended to be lower than that of other moisture levels, which has been attributed to soluble substrate limitation, thereby resulting in low microbial activity (Reichstein et al., 1983). However, soil $\mathrm { R } _ { \mathrm { h } }$ at higher moisture level is mainly limited by oxygen (Orchard and Cook, 1983). Soil $\scriptstyle \mathrm { \mathrm { R } } _ { \mathrm { h } }$ at $60 \%$ WHC that is the optimal moisture level tends to be higher, because higher microbial activity might override the influence of oxygen limitation (William. 20o7). We also found that the effect of moisture levels on soil $\scriptstyle \mathrm { R _ { h } }$ at different stages varied with temperature treatments. These results indicate that the responses of soil $\mathrm { R } _ { \mathrm { h } }$ to moisture levels are controlled by incubation temperature and a)
+
+![](images/b894e739debafbaf94ad85486df23436fbb8336e0eda8be7ee05ec2511f4e47a.jpg)  
+Figure 8.a) Relationship between $\mathrm { R _ { h } }$ and soil temperature from field measurements; b) Relationship between apparent Ea and soil moisture from field measurements.
+
+limitation of soluble substrate and oxygen concentration.
+
+![](images/2eb96d351ff128b47d5f2d084bae6519410fb2ac21b3e0a05477970b21bb6f5c.jpg)  
+Figure 9. Relationship between apparent Ea and soil moisture at soil temperature $2 0 ^ { \circ } \mathrm { C }$ with field measurements.
+
+Our results show that the apparent Ea decreases with increasing soil moisture. Considering the relation of apparent Ea, $\mathrm { Q } _ { 1 0 }$ and F:B ratio, the relationship between apparent Ea and soil moisture could be explained by their connections with oxygen concentration and microbial communities. First, higher soil moisture could reduce the diffusion of oxygen over a substrate during aerobic respiration (Davidson et al., 2012), impede microbial production of $\mathrm { C O } _ { 2 }$ ,thereby reduce temperature sensitivity $\left( \mathrm { Q } _ { 1 0 } \right)$ of reaction rates (Davidson et al., 1998). Therefore, apparent Ea also decreases because $\mathrm { { Q } _ { 1 0 } }$ and apparent Ea are positively linked with each other (Kleber, 201O). On the other hand, the relationship between apparent Ea and soil F:B ratio also shows that apparent Ea is affected by soil microbial communities. Because bacterial communities increase with increasing soil moisture, leading to more decomposition of labile substrate (lower apparent Ea), thereby resulting in decrease in apparent Ea. In our study, no significant correlation between apparent Ea and MBC/DOC ratio deserves discussion.Although substrate concentration such as MBC or DOC also controls enzyme respiration reaction in Michaelis-Menton kinetics, no significant correlation is found between apparent Ea and MBC/DOC ratio with different soil moisture levels that had a significance impact on MBC/DOC ratio. High soil water might increase substrate availability, however, microbial substrate decomposition can be strongly limited due to alteration of microbial communities or cell energy demands (Schimel & Weintraub, 2Oo3) even if substrate availability is unlimited. This means that soil water changes substrate availability by altering the composition and activity of decomposer microbes (Williams, 20o7). In all,apparent Eamoisture relationship is collectively controlled by soil oxygen concentration and microbial communities.
+
+Apparent Ea is closely linked to recalcitrant substrates, which means that the more recalcitrant carbon pool, the more apparent Ea, according to CQT hypothesis (Fierer et al., 2003). The increasing apparent Ea implies that more recalcitrant carbon would be decomposed with the decline in soil moisture. In the future, more soil $\mathrm { C O } _ { 2 }$ emission and a stronger carbon-climate feedback would be triggered due to the increase in temperature sensitivity (apparent Ea) of subtropical SOC as a result of climate warming and soil moisture decline. This contradicts a previous study that claimed that soil respiration would decrease in subtropical forests if soil moisture continues to decrease (Jiang et al., 2013).
+
+To date, apparent Ea-moisture relationship has not yet been incorporated into ESMs. Recently, 3 out of 4 published microbial models have incorporated the soil moisture effect on soil enzymatic processes (Wieder et al.,2015a) based on DAMM module that considers soil moisture impact on substrate and oxygen supply (Davidson et al., 2012; Zhang et al., 2014). In these models, apparent Ea is a sensitivity parameter with a fixed value that intrinsically represents temperature sensitivity of enzymatic-processes (Davidson et al. 2012). However, our study demonstrated a linear relationship between apparent Ea and soil moisture. These observed apparent Ea-moisture relationships could be considered in ESMs to capture the response of SOC to future warming and precipitation pattern changes.
+
+There are inherent uncertainties in our findings from three aspects. First, the effect of incubation time on Ea has not been accounted for in this study. Second, only oxisol soils were tested at different forest sites,which might have led to potential biases in the findings as
+
+Craine et al (2012) showed the relationship between $\mathrm { E a } _ { 2 0 }$ and $\mathbf { R } _ { 2 0 }$ differed across 28 sites. Third, while we used WHC as a metric of soil water content, matric potential is a more appropriate expression than either volumetric or gravimetric water content. This is because when soil water content is sufficiently low, the expression of matric potential of water available to the organisms is applicable to all soil textures (Davidson et al.,1998; Suseela et al., 2012b). The connection of water matric potential and apparent Ea will be discussed in our next study.
+
+# 5.Conclusions
+
+Because explicit Ea-moisture relationship has not yet been examined in laboratory experiments or field soils, this study fills the knowledge gap with both field measurements and incubation experiments. Our study showed that apparent Ea decreased with the increasing soil water content in both incubation experiment and field settings. Soil microbial communities and oxygen concentrations were the dominant factors controlling the apparent Ea-moisture relationship. We expect that incorporating this observed relationship into microbial process-based models could improve the prediction of soil microbial respiration. Further studies combining incubation experiments and field observations remain needed to explore how soil moisture affects apparent Ea across different climate regimes, topography, soils and land cover types.
+
+# Acknowledgements
+
+This research was sponsored by the National Natural Science Foundation of China (31290222, 31400420, 31425005), the Guangdong Hundred, Thousand and Ten Thousand Talents Program, and the International Partnership Program for Creative Research Teams of the Chinese Academy of Sciences.
+
+# Authorship
+
+WS designed the study; WZ and HW conducted the laboratory incubation and field measurement; GH, WZ,HW analyzed the data; GH wrote the paper, and allauthors edited drafts and contributed to the revisions. The authors declare no competing financial interests. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+
+References   
+Allison, S.D., Wallnstein, M.D.& Bradford, M.A. 2010. Soil-carbon response to warming dependent on microbial physiology. Nature Geoscience, 3,336-340.   
+Beier, C., Beierkuhnlein, C., Wohlgemuth, T.,Penuelas,J.,Emmett, B., Korner, C., de Boeck, H., Christensen, J.H.,Leuzinger, S., Janssens,I.A.& Hansen, K.2012. Precipitation manipulation experiments - challenges and recommendations for the future. Ecology Letters,15, 899-911.   
+Craine, J., Spurr, R., McLauchlan, K.& Fierer, N. 201Oa.Landscape-level variation in temperature sensitivity of soil organic carbon decomposition. Soil Biology and Biochemistry, 42, 373-375.   
+Craine, J.M., Fierer, N. & McLauchlan, K.K. 2010b. Widespread coupling between the rate and temperature sensitivity of organic matter decay. Nature Geoscience, 3, 854-857.   
+Craine, J.M. & Gelderman, T.M. 2011. Soil moisture controls on temperature sensitivity of soil organic carbon decomposition for a mesic grassand. Soil Biology and Biochemistry, 43, 455-457.   
+Davidson, E.A., Belk,E.& Boone,R.D.1998. Soil water content and temperature as independent or confounded factors controlling soil respiration in a temperate mixed hardwood forest. Global Change Biology, 4,217-227.   
+Davidson, E.A.& Janssens, I.A. 2oo6. Temperature sensitivity of soil carbon decomposition and feedbacks to climate change. Nature, 440,165-173.   
+Davidson, E.A., Samanta, S., Caramori, S.S. & Savage, K. 2012. The Dual Arrhenius and Michaelis-Menten kinetics model for decomposition of soil organic matter at hourly to seasonal time scales. Global Change Biology,18,371-384.
+
+Ding, J., Chen,L., Zhang, B.,Liu,L., Yang, G.,Fang, K., Chen, Y., Li, F., Kou, D., Ji, C., Luo, Y. & Yang, Y.2016. Linking temperature sensitivity of soil $\mathrm { C O } _ { 2 }$ release to substrate, environmental and microbial properties across alpine ecosystems. Global Biogeochemical Cycles, 9, 1310-1323.
+
+Fang,C., Smith, P., Moncrieff, J.B.& Smith, J.U. 2005. Similar response of labile and resistant soil organic mater pools to changes in temperature. Nature, 433, 57-59.   
+Fierer, N.,Allen, A.S., Schimel, J.P.& Holden, P.A. 2003. Controls on microbial CO2 production: A comparison of surface and subsurface soil horizons. Global Change Biology, 9,1322-1332.   
+Friedlingstein,P.,Cox,P.,Bets,R., Bopp,L., von Bloh,W.,Brovkin, V.,Cadule,P.,oney, S., Eby, M., Fung, I., Bala, G., John, J., Jones, C., Joos,F., Kato, T., Kawamiya, M., Knorr, W., Lindsay, K., Matthews, H.D., Raddatz, T., Rayner, P., Reick, C., Roeckner, E., Schnitzler, K.-G., Schnur, R., Strassmann, K., Weaver, A.J., Yoshikawa, C.& Zeng, N. 2006. Climate-Carbon Cycle Feedback Analysis: Results from the C 4 MIP Model Intercomparison. Journal of Climate,19,3337-3353.   
+Holland, A., Jason, I., Neff, C., Townsend, A.R. & Mckeown, B. 20oo. Uncertainties in the temperature sensitivity of decomposition in tropical and subtropical ecosystems : Implications for models. 14, 1137-1151.   
+Hursh, A., Ballantyne,A.,Cooper,L.,Maneta, M., Kimball,J. & Wats, J. 2016.The sensitivity of soil respiration to soil temperature, moisture, and carbon supply at the global scale. Global Change Biology, 1-14.   
+Jiang,H., Deng, Q., Zhou, G., Hui,D., Zhang,D., Liu,S., Chu, G.&Li, J.2013. Responses of soil respiration and its temperature/moisture sensitivity to precipitation in three subtropical forests in southern China. Biogeosciences,10, 3963-3982.   
+Kleber, M. 2010. What is recalcitrant soil organic matter? Environmental Chemistry, 7, 320- 332.   
+Liu, L., Wang, X., Lajeunesse, M.J., Miao, G., Piao, S., Wan, S., Wu, Y., Wang, Z., Yang, S., Li, P.& Deng, M. 2016. A cross-biome synthesis of soil respiration and its determinants under simulated precipitation changes. Global Change Biology, 22, 1394-1405.   
+Luo, Y., Jiang, L., Niu, S.& Zhou, X. 2017. Nonlinear responses of land ecosystems to variation in precipitation. New Phytologist, 214, 5-7.   
+Luo, Y., Wan, S., Hui, D.& Wallace, L.L. 20o1. Acclimatization of soil respiration to warming in a tal grass prairie. Nature, 413, 622-625.   
+Schimel, J.P. & Weintraub, M.N. 2003. The implications of exoenzyme activity on microbial carbon and nitrogen limitation in soil $\because$ a theoretical model. 35, 549-563.   
+Schuur, E.A.G., Vogel, J.G., Crummer, K.G.,Lee, H., Sickman, J.O.& Osterkamp, T.E. 2009. The effect of permafrost thaw on old carbon release and net carbon exchange from tundra. Nature, 459, 556-559.   
+Sierra, C.A. 2012. Temperature sensitivity of organic matter decomposition in the Arrhenius equation: Some theoretical considerations. Biogeochemistry, 108, 1-15.   
+Suseela, V., Conant, R.T., Wallenstein, M.D. & Dukes, J.S. 2012. Effects of soil moisture on the temperature sensitivity of heterotrophic respiration vary seasonally in an old-field climate change experiment. Global Change Biology, 18,336-348.   
+Wang, G., Post, W.M., Mayes, M.A., Frerichs, J.T. & Sindhu, J. 2012. Parameter estimation for models of ligninolytic and cellulolytic enzyme kinetics. Soil Biology and Biochemistry, 48, 28-38.   
+Wei, H., Chen, X., Xiao, G., Guenet, B., Vicca, S.& Shen, W. 2015.Are variations in heterotrophic soil respiration related to changes in substrate availability and microbial biomass carbon in the subtropical forests ? Nature Publishing Group,5,1-11.   
+Wieder, W.R., Allison, S.D., Davidson, E.A., Georgiou, K., Hararuk, O., He, Y., Hopkins, F., Luo, Y., Smith,M.J., Sulman, B., Todd-Brown, K., Wang, Y.P., Xia, J. & Xu, X. 2015a. Explicitly representing soil microbial processes in Earth system models. Global Biogeochemical Cycles, 29,1782-1800.   
+Wieder, W.R., Grandy, A.S., Kallenbach, C.M., Taylor, P.G. & Bonan, G.B. 2015b. Representing life in the Earth system with soil microbial functional traits in the MIMICS model. Geoscientific Model Development, 8, 1789-1808.   
+Williams, M.A. 20o7. Response of microbial communities to water stress in irigated and drought-prone tallgrass prairie soils. Soil Biology and Biochemistry, 39,2750-2757.   
+Xu, X., Schimel, J.P., Thornton, P.E., Song, X., Yuan, F. & Goswami, S. 2014. Substrate and environmental controls on microbial assimilation of soil organic carbon: A framework for Earth system models. Ecology Letters,17, 547-555.   
+Zhang, X., Niu, G.Y., Elshall, A.S., Ye,M., Barron-Gafford, G.A. & Pavao-Zuckerman, M. 2014.Assessing five evolving microbial enzyme models against field measurements from a semiarid savannah - What are the mechanisms of soil respiration pulses? Geophysical Research Letters, 41, 6428-6434.   
+Zhou, G., Wei, X., Wu, Y., Liu, S., Huang, Y., Yan, J., Zhang, D., Zhang, Q., Liu, J., Meng, Z, Wang, C., Chu, G., Liu, S., Tang, X.& Liu, X. 2011. Quantifying the hydrological responses to climate change in an intact forested small watershed in Southern China. Global Change Biology, 17, 3736-3746.   
+Zhou, W., Hui, D.& Shen, W. 2014. Effects of soil moisture on the temperature sensitivity of soil heterotrophic respiration: A laboratory incubation study. PLoS ONE,9. e92531, doi: 10.1371/journal.pone.0092531.

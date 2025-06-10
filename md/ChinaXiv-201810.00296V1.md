@@ -1,0 +1,99 @@
+# 胸外传奇：中国第一例食管癌切除及重建手术诞生在协和
+
+邴钟兴，李单青
+
+中国医学科学院北京协和医学院北京协和医院胸外科，北京100730
+
+通信作者：李单青电话：010-69152630，E-mail：lidanqing@ pumch.cn
+
+【摘要】20世纪40年代北京协和医院吴英恺教授和娄克斯教授组建食管癌多科协作研究小组，在国内最早开展食管癌外科治疗领域探索。回顾中国第一例食管癌切除及重建手术在北京协和医院开展的始末经历及其历史意义，总结吴英恺教授和娄克斯教授早期开展食管癌外科治疗的围手术期管理经验，以及对食管吻合技术提出的优化方案。
+
+【关键词】食管癌；吴英恺；娄克斯；北京协和医院【中图分类号】R735.1；R-09 【文献标志码】E 【文章编号】1674-9081（2018)06-0000-05
+
+# Legend of Thoracic Surgery : the Earliest Exploration of Surgical Treatment for Esophageal Cancer in China was Carried Out in PUMCH
+
+BING Zhong-xing，LI Shan-qing
+
+Departmentof Thoracic Surgery，Peking Union Medical Colege Hospital,Chinese Academy of Medical Sciences& Peking Union Medical College，Beijing，China，100730
+
+Corresponding author：Tel:O10-69152630,E-mail：lidanqing@ pumch.cn
+
+【Abstract】 In the 194Os，Y. K. Wu and H. H. Loucks set up a multi-branch cooperation group on esophageal cancer in PUMCH and the earliest exploration of surgical treatment for esophageal cancer was carried out in China.This paper reviewed theexperienceand historical significance of the first operation of esophageal cancer resection and reconstruction in China and summarized the experience of Y.K.Wu and H.H.Loucks on perioperative management of esophageal cancersurgery and optimization of the esophageal anastomosis.
+
+【Key words】 esophageal cancer；Y.K. Wu；H.H.Loucks；PUMCH
+
+MedJPUMCH，2018,9(6):0-00
+
+食管外科距今已有120多年历史，是胸外科主要专业之一。迄今为止，外科手术仍是食管癌治疗公认的首选方式，尤以早期患者为然[1]。1938 年，美国芝加哥Phemister、Adams及波士顿Samuel Marshall医生几乎同时成功完成了世界上最早的食管癌切除 $^ +$ 胃食管吻合术[2-3]，是食管外科治疗领域的突破性标志。我国吴英恺教授在当时北京协和医院外科主任娄克斯教授（H.H.Loucks）的指导下于1940 年完成首例手术并获得成功，为我国食管外科治疗领域发展奠定了基础。
+
+吴英恺1933年毕业于沈阳小河沿医学院（原辽宁医学院)，同年6月来到北京协和医院，经历了实习医生、住院医师、主治医师兼讲师3个阶段的学习与实践。1939 年秋，吴英恺被娄克斯教授选入由肿瘤科、病理科、放射科及耳鼻喉科精英医师组成的食管癌多科协作研究小组。
+
+食管癌在中国的发病率很高，北京协和医院的关颂韬医师于1937年报道，食管癌占院内所有接诊肿瘤患者的 $10 \%$ ，占消化道肿瘤患者的 $5 1 \% ^ { [ 4 ] }$ 。早在20世纪20 年代后期，时任外科主任Adrian Taylor教授便已开始尝试食管癌的手术切除治疗，可惜术后患者均未能长期存活，主要原因是严重的术后感染和肿瘤复发[5]。到了30年代，国内食管癌的治疗方式主要以胃造瘘为主，患者术后仅能维持几个月的痛苦残生[6]。这种姑息性手术治疗无法达到肿瘤根治目的及消化道的生理功能重建。
+
+食管癌多科协作研究小组成立的初衷即是为解决当时国内食管癌治疗遇到的问题和不足，为食管癌患者提供更优质的治疗方案。娄克斯教授倡导的多科协作、综合治疗思路，是具有前瞻性和创新性的学术探索，因此也成就了中国食管癌外科治疗的进步，这是北京协和医院早期众多特色学术成果中的典范，亦是协和对世界医学界的贡献之一[7]
+
+老协和图书馆里资料齐全，尽管地处远东，但学术资料几乎与美国医学界同步，医生们均可享用。吴英恺查阅了近30年内关于食管癌外科治疗研究的百余篇文献，通过研究对比国外开展的不同类型食管癌手术发现，手术方法都各有利弊，手术适应症和禁忌症均需严格把握。食管肿瘤的发生部位是术前选择术式的最重要影响因素，但仍需依据术中具体发现作出相应的决策调整。由于食管解剖位置较深，上始于颈部与咽相连，下行人纵膈经贲门与胃相接，行径生理环境复杂而特殊，因此食管手术富有挑战性，属于大型复杂外科手术。经左胸入路的食管癌切除及胃食管吻合术目前仍是绝大多数胸外科医生对下段食管癌外科治疗的首选[8]。经左胸入路手术可良好地显露食管中下段、左侧膈肌、主动脉和位于左上腹的胃和脾，其优点在于患者术后可经口进食以提高生存质量。
+
+O1940年3月29日，一名中国男性患者，58岁，因“左腹切口疝”复诊拟行“左侧腹部切口疝修补术”就诊于我院外科门诊，患者主诉吞咽困难3周，以固体食物为著，伴随左上腹疼痛及胃液返流。术前行胃肠道造影检查提示食管下段及贲门处管壁不规则狭窄，食管镜检查提示距门齿 $3 8 ~ \mathrm { c m }$ 处可见食管占位，取活检病理提示食管鳞癌。术前在结核门诊由Dr.B.H.Y.Tang完成左侧人工气胸术，并于1周内分3次进行胸腔内充气。
+
+由于位置肿瘤较适合尝试手术切除，因此娄克斯教授决定在1940年4月26日与吴英恺一同完成中国首例食管癌切除 $^ +$ 胃食管重建术。然而在术前1天，娄克斯教授因患严重感冒无法实施手术。时任总住院医师吴英恺从医院打电话请示娄克斯教授，建议推迟手术，而教授却鼓励说：“Goon，Ying-Kai，since thepatient is ready.I am sure you can do the job.I wish youall the best.”[9]
+
+就这样，吴英恺带领手术团队开始了中国首例食管癌切除 $+$ 胃食管重建术。当天的第一助手由外科总住院医师范乐成担任，马月青医生负责麻醉，麻醉方式采用当时常规的气管内插管正压通气的吸入麻醉。参考美国之前2例手术经验教训，娄克斯教授带领多科合作研究小组事先制订了手术计划，本例手术决定采取左侧胸腹联合人路，选择高位的经左侧腹直肌切口。腹腔探查肿瘤位于食管裂孔下方的腹段食管，累及胃、贲门但未及胃底；肿瘤与周围组织关系不密切，可推动，且肿瘤周围只有少数可扪及的腹腔淋巴结；腹腔内未探及肝脏和其他脏器转移的明确证据。于是将腹部切口经左侧第八肋骨上缘延长至腋后线。为进一步显露术野，予第七、八肋切除术，松解左下肺与膈肌粘连带，后沿向食管裂孔方向彻底打开膈肌，打通胸腹腔。探查胸腔可见肿物累及食管下段长约 $3 \ \mathrm { c m }$ ，肿物与纵膈胸膜轻度粘连，通过钝行分离至完全松解。双侧迷走神经与肿物粘连紧密，分离过程中右侧胸膜破损致右侧气胸，经右侧正压通气后行胸膜修补处理。
+
+进一步游离显露位于肝胃韧带内的胃左动脉及脾胃韧带内的胃短动脉，结扎切断上述动脉后，胃体上半部分可较轻松地移入胸腔内。在距肿瘤 $5 ~ \mathrm { c m }$ 处，通过针线型缝合器（1924年，Hultl/VonPetz装置）沿胃小弯及胃底斜行将胃体横断，远端胃残端进行间断浆肌层缝合。接下来在食管远端距肿瘤 $3 \ \mathrm { c m }$ 处将食管横断，完整移除食管肿瘤及胃贲门部，后行食管残端与所余胃底行端侧吻合（图1A）。将食管后壁铆钉在胃底前壁，仔细操作吸引器及敷料垫，避免将术野污染。具体吻合方法：首先进行内层（包括黏膜层及黏膜下层）丝线间断缝合，再行外层（浆肌层及部分黏膜下层）褥式缝合（图1B)。进一步将胸胃铆钉在膈肌周围（图1C），放置胸腔引流及建立空肠造瘘（保证术后营养支持）后，逐层关闭胸腹切口。术中输血$2 0 0 ~ \mathrm { m l }$ ，手术全程麻醉平稳。
+
+历经 $^ { 7 \mathrm { ~ h ~ } }$ 奋战，吴英恺带领团队最终成功地切除了大小约 $5 \ \mathrm { c m } { \times } 6 \ \mathrm { c m }$ 的食管下段肿物，将胃游离上提至胸腔，于主动脉弓下方用双层缝线对食管和胃进行端侧吻合术。因手术时间长，吴英恺担心患者术后耐受及吻合口瘘等问题，在其回忆录中曾详细记录了关于“术后”的一件轶事。一—吴英恺对手术团队说：“我看这个病人难以恢复”范乐成医生说：“那也
+
+![](images/b79152c9f893933d3dcfd0b0bc96248e8c0fabb04efb93f2469223a9ef0afe1f.jpg)  
+Fig.8.Case 2. Operative procedure
+
+A.First stage of the resection and esophago-gastrostomy. B.The anastomosis is effected byan inner layer of interrupted fine silk sutures including the mucosa and submucosa and an outer layer of mattress sutures of medium silk extending through the seromuscular and submucosal layer. C.The completed anastomosis. The diaphragm is closed around the stomach, which is made partially intrathoracic.
+
+Y.K.WU AND H.H.LoUCKs本例食管癌切除 $^ +$ 胃食管重建术的关键步骤图解[5]难说，不是有句谚语叫做新手交好运嘛，我看这个病定能恢复。”手术室里有人说：“我们打个赌吧，若是病人恢复了，吴大夫请客。”吴英恺答应了下来。患者术后予磺胺抗感染治疗，1周出现发热，体温最高 $3 9 . 2 ~ \mathrm { { ‰ } }$ 。左侧胸腔引流管术后持续负压吸引，第1天引流 $5 0 ~ \mathrm { m l }$ 淡血性胸水，后1周内无引流,第8天拔除胸腔引流管，复查胸部X线见双肺复张良好，拆除皮肤缝线。但患者胸腹切口下两处软组织出现积液，均予积极处理，1个月后完全愈合。术后2周内通过空肠造瘘予肠内营养支持，2周后开始尝试饮水，并过渡到半流食，术后第18天拔除空肠造瘘管。约术后3周恢复正常进食，无吞咽困难，随诊时主诉餐后有胸骨后饱胀感，术后1个半月患者体重增长了 $5 ~ \mathrm { k g }$ 。术后第26天复查消化道造影提示吻合口通畅，无狭窄，无吻合口瘘。术后病理提示食管下段鳞癌，肿瘤侵及胃贲门，周围可见转移淋巴结（图2）。术后患者规律、长期随诊9个月余，一日三餐恢复正常，无胃食管反流症状，患者营养状态良好，恢复木工工作。
+
+果然“新手交好运”应验了，患者术后恢复良好，未出现吻合口瘘等严重并发症，第3周顺利出院。其实“新手交好运”看似偶然，实则存在必然。这是外科医生及多科合作研究小组长期虔心查阅钻研、制订合理手术计划以及平日刻苦训练的必然结果，也与当年老协和先进的吸人麻醉、抗休克、抗感染治疗等多方技术支持密切相关。为此，吴英恺兑现承诺，在娄克斯教授支持下，用整月薪水的1/3，在鹿鸣春饭馆花了30元置办一桌酒席，宴请手术团队。
+
+从此，食管癌外科治疗于北京协和医院开展起来，截止1941年8月吴英恺离京赴美进修深造，娄克斯教授带领的食管癌多科协作小组共完成11例食管癌切除术，手术死亡3例，手术死亡率为 $2 7 . 2 \%$ ，而当时国外患者的手术死亡率约为 $5 0 \%$ [10]。吴英恺将这些珍贵的学术资料整理编写并与娄克斯教授联合署名，先后发表在《中华医学杂志》和TheAmericanJournalof Surgery（《美国胸外科杂志》）上[11」，引起国际范围内胸外科同行的关注，文章至今仍多次被引用。
+
+吴英恺在美国圣路易斯华盛顿大学巴恩医院胸外科进修期间曾受邀在美国圣路易斯市外科学会上做报
+
+![](images/a17efb575050da0a56d446fbbe21e12742453ef7f42c7ba6e6bdb62fce7373c2.jpg)
+
+Pathologieal Report. Dr. H. C. Pai of Department ol Fathology examined the surgical specimen and made the following report:-
+
+“The specimen (Fig. 10) consists of the cardia of a stomach with a portion of the fundus and a portion of the lower end of the esophagus. The esophagus rmeasures 4 cm, in leugth and the portion of stomach measures 5.5 cm. elong the lesser curvatute. At the junetion of the esopbegus and the stomach there is attached some fibro-adipose tissue. Embedded in the adipose tissue there is a lymph node measuring $1 . 8 \mathrm { c m }$ in diamcter. On section, the cut surface of the lymph node shows that it conteins a small circumscribed nodule of pinkish gray tumor tissue, and that it slso contains a calcified fibrotic tuberele. Upon opening the lumen, a deep ulcer is found in the cardiac region of the stomach. The edge of the ulcer is elevated, The base and the edge of the ulcer are markedly indurated and infiltrated with firm grayish tumor tissue. The tumor tissue extends beneath the mucosa for a short distance on both the gastric and esophageal sides. The esophqgeal mucosa also is superficially eroded.,The line of resection of the esopbagus is about 1.5 cm, beyond the region infiltrated by the tumor.
+
+"Microscopic examination of sections of the wall of the esophagus and the cardis of the stomach show sinilur tumor tissue. The latter consists of irregular masses and thin strands of anaplastic squamous epitheliel cells which show marked variation in size, shape nnd staining reaction (Fig.1l). Among them are many mitotic figures. Oecnsionally there occur epithelial pearls. Section of the lymph node adjaeent to the cardin of the stomach shows a small bit of tumor tissue embedded in it. In addition there is a large calcified and fibrosed caseous nodule surrounded by dense fibrous tissue and a few fresh tubercles.
+
+"Pathological Diagnosis; Squamous cellcarcinomaof lower end of esophagus with direct extension to cardia of stomach and metastasis to regional lymph node. Tubereulosis of para-eardial lymph node.
+
+图12本例患者术后石蜡病理
+
+A．大体标本（溃疡型食管癌)；B.镜下标本照片；C.左下为石蜡病理报告原文[5]告，与美国同道们分享中国食管癌外科治疗的宝贵经验（图3)。吴英恺分析总结手术经验有以下六点：（1）此类手术成功率低、死亡率高的主要原因是胸腔内胃食管吻合口瘘导致严重的纵膈及胸腔感染，而胸膜可阻挡术中部分术野对吻合口的污染，因此在行吻合口重建时，可尝试应用纵膈胸膜覆盖保护吻合口，减少吻合口瘘的发生。（2）充分显露胸腔对于精确的手术操作尤为重要，应尽量保证食管切断与肿瘤切缘有足够距离。（3）为减少手术操作时间，可将患者腹部探查及空肠造瘘术预先完成，分期手术。（4）患者术前营养状况及体重下降程度与术后吻合口愈合密切相关，应在术前积极改善患者营养状况。（5）术中将网膜瓣覆盖在胃食管吻合缝线处有可能降低术野感染。（6）在胃食管吻合过程中应尽可能减少吻合口张力，以免引起术后吻合口缺血致吻合口瘘或进食后胸胃破裂[6]
+
+美国圣路易斯华盛顿大学巴恩医院胸外科主任葛兰姆（EvartsA.Graham）教授当时也在尝试做食管癌切除同时行胃食管吻合术，但一直无存活病例，而娄克斯、吴英恺教授所做11例患者中，长期存活6例,手术死亡3例，远期死亡2例，其中包括文中所述的首例患者，因经验缺乏，食管切断距肿瘤组织边界太近，患者在术后1年余复发，术后一年半死亡[10]。对此葛兰姆教授非常欣赏，立刻把吴英恺和娄克斯署名的《食管癌外科治疗》报告在他主编的TheAmericanJournal of Surgery上刊载[1]
+
+![](images/01b2dfcc84530d520d9cb419411c16a7b56957184433ad373a3db9652100e37c.jpg)  
+图3图3美国圣路易斯华盛顿大学巴恩医院胸外科医师与葛兰姆教授合影，左起第一位是吴英恺[10]
+
+北京协和医院外科学系从AdrianTaylor教授开始就 直秉承“最高标准”一—永远不放弃对新理论的尝试及对新技术的追求和挑战。娄克斯教授一直在老协和强调，复杂的外科手术是由最常见的基本功组合而成的，外科医生必须熟识生理、病理知识，才能通过不断思考和研究论证将这些操作有序地组合起来，改良出更好的手术操作程序，这样才有可能改善患者以往令人惋惜的生活状况[7]
+
+时至今日，食管癌外科治疗已有了革命性的发展，胃食管重建方式及吻合技术也有了进一步改进和优化，均可通过微创方式完成。但吻合口瘘依旧是亘古不变的难题，目前仍有许多国内外医疗中心报道吻合口瘘发生率在 $10 \%$ 以上，且治疗效果不理想，患者预后不佳[12]。反观早年娄克斯、吴英恺教授在食管癌切除术的探索之路，他们通过有限的病例经验，总结发现吻合口瘘相关影响因素，包括食管自身解剖特点（吻合口张力及血运问题）、重建吻合方式的选择、操作细节及围手术期患者自身营养管理等关键问题，这些有预见性的创新理念，均为20世纪40年代北京协和医院食管癌外科治疗领域的发展奠定了基础，做出了杰出贡献。
+
+致谢：感谢徐乐天教授、李乃适教授对本文的悉心指导和史料支持！
+
+# 参考文献
+
+［1］黄国俊.半个世纪以来我国食管癌外科治疗的基本经验［J]．中华肿瘤杂志，2007，29：795-797.  
+[2]Adams WE，Phemister DB.Carcinoma of the lower thoracicesophagus，report of a successful resection and esophagogastw stomy［J].JThorac Surg，1938，7：621-639.  
+[3]Marshall S.Carcinoma of the esophagus：Successful resectionof lower end of esophagus with reestablishment of esophagealgastric continuity[J]．SurgClin North Am，1938，73：643-648.  
+[4]Wan S,Yim AP.A Chinese thoracic surgeon and his two de-cisions［J].Ann Thorac Surg，1999，67：1190-1193.  
+[5] Wu YK,Loucks HH. Surgical treatment of carcinoma of theesophagus[J].Chin Med J，1941,60：1-33.  
+[6] Wu YK，Loucks HH.Resection of esophagus for carcinoma[J].JThorac Surg，1942，11: 516-528.  
+[7]http：//blog.sciencenet.cn/home.php? mod $\ c =$ space&uid$= 4 5 6 4 0 \& d _ { \mathrm { { o } } } = \mathrm { { b l o g } \& i d = 7 5 2 2 9 8 }$ ，［8］陈克能.食管癌手术入路的百年演变及临床意义［J]．中华胃肠外科杂志,2012，15:886-888.  
+[9］吴英恺.学医、行医、传医 70年（1927-1997）［M].北京：中国科学技术出版社，1997：  
+[10] Wu YK.Reminiscence of personal association with Americanthoracic and cardiovascular surgery［J].Am J Surg，1980,139: 765-770.  
+[11］Wu YK,Chen PT，Fang JP，Surgical treatment of esopha-geal carcinoma ［J]．AmJSurg，1980，139：805-809.  
+［12］王鹏程.食管癌根治术后吻合口瘘的原因分析及诊治［J]．医学综述，2013，19：4087-4089.
+
+(收稿日期：2018-00-00)

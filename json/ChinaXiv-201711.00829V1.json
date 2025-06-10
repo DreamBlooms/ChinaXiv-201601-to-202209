@@ -1,0 +1,352 @@
+[
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 刘磊 张彩霞 刘红丽 李福昌\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3 （山东农业大学动物科技学院，泰安271018）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4摘要：本试验旨在研究饲粮中胆碱添加水平对 $3 { \\sim } 5$ 月龄獭兔肝脏脂肪代谢的影响。选用  \n5 200 只体重相近的3月龄獭兔，随机分成5组（每组40个重复，每个重复1只)，分别饲喂  \n6 在基础饲粮基础上添加0（对照）、200、400、600 和 $8 0 0 ~ \\mathrm { { m g / k g } }$ 的 $5 0 \\%$ 氯化胆碱（折算为胆  \n7 碱的添加水平后分别为0、87、174、261和 $3 4 8 ~ \\mathrm { m g / k g }$ ）的试验饲粮，试验饲粮实测胆碱水  \n8 平分别为800、900、1000、1100 和 $1 2 0 0 \\mathrm { m g / k g }$ 。预试期7d，正试期 $5 3 \\mathrm { d } _ { \\circ }$ 结果表明：饲  \n9 粮中胆碱添加水平显著影响肝脏中单不饱和脂肪酸和多不饱和脂肪酸的含量（ $P { < } 0 . 0 5 \\$ 。与  \n10 对照组相比，饲粮中添加7、174、261 和 $3 4 8 ~ \\mathrm { m g / k g }$ 的胆碱显著增加血清中类胰岛素样生长  \n11 因子1（IGF-1）和瘦素（LEP）的含量（ $P { < } 0 . 0 5 \\$ )，饲粮中添加174和 $2 6 1 ~ \\mathrm { m g / k g }$ 的胆碱显  \n12 著增加血清中生长激素（GH）的含量（ $P { < } 0 . 0 5$ ，饲粮中添加261和 $3 4 8 ~ \\mathrm { m g / k g }$ 的胆碱显著  \n13 增加血清中脂蛋白酯酶（LPL）的活性和极低密度脂蛋白（VLDL）的含量（ $P { < } 0 . 0 5$ ，饲粮  \n14 中添加 $2 6 1 \\mathrm { \\ m g / k g }$ 的胆碱显著提高肝脏中肉碱棕榈酸转移酶1（CPT1）mRNA的表达水平  \n15 （ $_ { \\cdot \\cdot P < 0 . 0 5 }$ )。综上所述，饲粮中添加 $2 6 1 ~ \\mathrm { { m g / k g } }$ 的胆碱（饲粮实测胆碱水平为 $\\mathrm { 1 0 0 0 m g / k g \\rangle }$   \n16 改变了獭兔肝脏中脂肪酸组成，促进了肝脏中脂肪酸氧化关键基因CPT1的表达，同时加强  \n17 了肝脏中甘油三酯（TG）的输出过程。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "批注[W用1]：原来的数据单位是 $9 \\%$ ，换算成胆碱后小数点后位数太多，又鉴于 $5 0 \\%$ 氯化胆碱是粉剂，用质量单位表示更好些，将%换算为了 $\\mathbf { { \\mathrm { ~ \\ m g / k g } } }$ ，请核实是否有误",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：胆碱；獭兔；肝脏；脂肪代谢中图分类号：S816 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "胆碱是人类、畜禽以及水产动物生长发育必需的有机化合物，在体内主要以卵磷脂、溶血卵磷脂、磷酸胆碱、神经胆碱等形式存在，在维持细胞膜完整性及甲基代谢途径等方面起到重要作用。在家兔上，已有研究发现饲粮中添加氯化胆碱可以增强家兔的免疫力，提高毛皮品质，提高日增重和饲料转化效率[1。除促生长作用外，胆碱对畜禽的脂肪代谢也有重要",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "收稿日期：2016-12-19  \n基金项目：现代农业产业技术体系建设专项(CARS-44-B-1)；山东农业大学青年科技创新基  \n金项目（2015—2016)；中国博士后科学基金项目（2015M58061)；山东农业大学博士后科  \n学基金项目（2015—2017)  \n作者简介：刘磊（1985-)，男，山东泰安人，讲师，博士，从事家兔营养与生理研究。E-mail:  \nliusanshi1985@126.com  \n$^ *$ 通信作者：李福昌，教授，博士生导师，E-mail:chlf@sdau.edu.cn",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "的调节作用。在大鼠[2]、鹅[3]、肉鸡[4]和乳牛[5]上的研究发现，饲粮中胆碱缺乏时，肝脏合成甘油三酯（TG）的能力超过了脂蛋白的合成与运输能力，从而导致多余的TG 在肝脏中累积，加剧了脂肪肝的发生[2-5]。胆碱影响机体脂肪代谢主要是通过磷脂酰乙醇胺-N-甲基转移酶（PEMT）实现的。卵磷脂是动物细胞膜的主要成分，而脂肪酸则是合成细胞膜磷脂的主要基底物质，在肝脏内，胆碱负责合成大约 $70 \\%$ 的卵磷脂，PEMT途径合成近 $30 \\%$ 的卵磷脂，但PEMT 敲除的小鼠中，PEMT 途径合成的卵磷脂减少，使过多的脂肪酸用于合成TG，从而导致脂肪累积，当补充胆碱后使脂肪酸合成卵磷脂和 TG 的过程得到重新分配，改善了肝脏内脂肪的异常累积。獭兔是一种皮肉兼用兔，从出生到3月龄是以增加体重为主，从3月龄到5月龄则生长速度变慢，以毛皮的熟化为主，在此阶段，獭兔的免疫机能已经基本完善，食欲旺盛，采食量增加，体内脂肪积累增加，易发脂肪肝，同时也造成了能量的浪费，在饲粮中添加胆碱能否改善 $3 { \\sim } 5$ 月龄獭兔肝脏内脂肪含量？目前尚未知晓。鉴于此，本试验拟通过在饲粮中添加不同水平的氯化胆碱，研究 $3 { \\sim } 5$ 月龄獭兔肝脏内脂肪代谢的变化，确定胆碱调节家兔肝脏内脂肪代谢的机制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验动物及饲养管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选取体重[( $1 9 5 1 \\pm 1 2 5$ ）g]相近的3月龄獭兔 200只（公母各占1/2)，随机分为5组(每组40个重复，每个重复1只)，分别饲喂在基础饲料基础上添加0(对照)、200、400、600和 $8 0 0 \\mathrm { m g / k g }$ 的 $5 0 \\%$ 氯化胆碱（折算为胆碱的添加水平后分别为0、87、174、261和 348$\\mathrm { m g / k g }$ ）的试验饲粮，试验饲粮实测胆碱水平分别为800、900、1000、1100 和 $1 2 0 0 \\mathrm { m g / k g }$ 9试验用 $5 0 \\%$ 氯化胆碱购自特明科氯化胆碱（上海）有限公司，基础饲粮参考De Blas 等7的生长兔饲养标准配制而成，其组成及营养水平见表1。试验兔单笼饲养，试验期间每天饲喂2次。采用常规饲养管理和免疫程序，自然采光和通风，自由采食和饮水。预试期7d，正试期 $5 3 \\mathrm { d } .$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/333cff00d45f0a1a85013e90246f60df151170b92500f6259c00428733b024c5.jpg",
+        "table_caption": [
+            "表1基础饲粮组成及营养水平 (风干基础)",
+            "Table 1Composition and nutrient levels of the basal diet (air-dry basis) % "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>原料 Ingredients</td><td>含量Content</td><td>营养水平 Nutrient levels2)</td><td>含量Content</td></tr><tr><td>玉米Corn</td><td>16.0</td><td>消化能 DE/(MJ/kg)</td><td>10.08</td></tr><tr><td>大豆粕 Soybean meal</td><td>17.0</td><td>粗蛋白质CP</td><td>15.89</td></tr><tr><td>小麦麸Wheat bran</td><td>18.0</td><td>粗纤维CF</td><td>12.62</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/d9dcdc2d62df30a7fe3238391f8dcf38a6c7a7feb308f5e2b78b4e5109f2a5ea.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "1预混料为每千克饲粮提供 The premix provided folowing per kg of the diet:VD1O00 IU,VA12 000 IU,Cu 40 mg，VE 50 mg，VK2 mg， $\\mathrm { Z n 5 0 ~ m g }$ ， $\\mathrm { ~ I ~ } 0 . 5 \\mathrm { ~ m g ~ }$ ， $ { \\mathrm { M n } } 3 0  { \\mathrm { m g } }$ ，Fe $1 0 0 ~ \\mathrm { { m g } }$ ，Se $0 . 0 5 ~ \\mathrm { m g }$ ， $\\mathrm { N a C l } 5 0 0 0 \\mathrm { m g }$ CaHPC $) _ { 4 } 1 5 0 0 0 \\mathrm { m g }$ ， $1 0 \\%$ 杆菌肽锌 $10 \\%$ zinc bacitracin $3 0 0 ~ \\mathrm { { m g } }$ ，地克珠利 diclazuril $\\mathrm { 1 ~ m g }$ 。"
+        ],
+        "table_body": "<html><body><table><tr><td>花生秧 Peanut vine</td><td>46.0</td><td>粗脂肪 EE</td><td>2.18</td></tr><tr><td>碳酸氢钙 CaHPO4</td><td>1.5</td><td>钙Ca</td><td>1.23</td></tr><tr><td>食盐 NaCl</td><td>0.5</td><td>磷P</td><td>0.60</td></tr><tr><td>预混料 Premix1)</td><td>1.0</td><td>赖氨酸Lys</td><td>0.56</td></tr><tr><td>合计Total</td><td>100.0</td><td>蛋氨酸Met</td><td>0.22</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2营养水平为计算值。Nutrient levels were calculated values. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2样品采集",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验结束后每组随机选取8只兔，心脏采血，室温避光静置 $1 5 ~ \\mathrm { m i n }$ 后， $3 ~ 0 0 0 ~ \\mathrm { r / m i n }$ 离心 $1 0 \\mathrm { m i n }$ ，分离血清，置于-20℃下冷冻保存；屠宰后分离肝脏和背腰最长肌处肌肉组织样品，用液氮冷冻后，与-70℃冰箱中保存待测。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3指标测定与方法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "血清中生长激素（GH,XY-10032）、瘦素（LEP,XY-10065）、类胰岛素生长因子-1（IGF-1,XFFM1880）含量测定应用竞争性放射免疫分析法，采用相应的酶联免疫吸附试验（ELISA）试剂盒（购自上海信帆生物科技有限公司)，在BiotekELX808超级酶标仪上完成。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "血清中极低密度脂蛋白（VLDL，H249）、TG（F001-1）含量及肝脂酶（HL，A067）和脂蛋白脂酶（LPL，A067）活性采用相应的ELISA 试剂盒测定（购于南京建成生物工程有限公司)。血清中总脂酶（TE）活性为HL和LPL活性之和，即 $\\scriptstyle \\mathrm { T E = H L + L P L }$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "脂肪酸含量测定：将待测样品切碎，称取 $1 . 0 \\mathrm { g }$ 左右，置于 $1 0 ~ \\mathrm { m L }$ 具塞玻璃试管中，再加入 $2 { \\mathrm { m L } }$ 的苯与石油醚的等体积混合液，浸提 $1 2 \\mathrm { h }$ ；然后再加入 $2 ~ \\mathrm { m L } 0 . 4 ~ \\mathrm { m o l / L }$ 的氢氧化钾甲醇溶液，进行甲酯化；充分摇匀混合后静置 $1 5 \\mathrm { m i n }$ ，用移液器沿瓶壁转动玻璃管缓缓加入蒸馏水，使液面上升至瓶口处，取上清液待测，如果出现浑浊可加入几滴无水乙醇。利用岛津GC-2014 型气相色谱测定脂肪酸组成，各种主要脂肪酸的相对含量采用面积归一法计算，其定性采用与标准品保留时间对比来判定。标准品购买于美国NU-CHEK公司，共包含${ \\bf C l } 4 { \\bf : 0 } { \\sim } { \\bf C } 2 2 { \\ : : } 6$ 等共16种脂肪酸甲酯。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "肝脏总RNA 的提取及荧光定量RCR：Trizol法提取样品总RNA，将提取的总RNA反转录为cDNA，所用的试剂盒均由TaKaRa 提供。使用大连宝生物有限公司提供的试剂盒",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(DRR041A)，采用 SYBRGreenI染料法，在美国 ABI7500 荧光定量RCR仪上进行实时荧光定量PCR。引物序列见表2。数据采用用 $2 ^ { - \\Delta \\Delta \\mathrm { C T } }$ 法分析。目的基因的mRNA用3-磷酸甘油醛脱氢酶（GAPDH）mRNA标准化（ $\\Delta C \\mathrm { T } \\dot { } .$ )。在CT值的基础上，GAPDHmRNA的表达量在整个试验阶段是稳定的（ $P { > } 0 . 1 0 )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e85bc8afc377d3f334beba8ef07350db1ff353c6ddd8e7e57a4d1dbda4ba8268.jpg",
+        "table_caption": [
+            "表2引物序列"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Table 2</td><td colspan=\"2\">Primer sequences</td></tr><tr><td>基因 Genes</td><td>GeneBank 登录号 GeneBank Accession No.</td><td>引物序列 Primer sequences (5'→3')</td><td>产物长度 Product size/bp</td></tr><tr><td>3-磷酸甘油醛脱氢酶 GAPDH</td><td>NM_001082253</td><td>F:TGCCACCCACTCCTCTACCTTCG R:CCGGTGGTTTGAGGGCTCTTACT</td><td>163</td></tr><tr><td>乙酰辅酶 A羧化酶 ACC</td><td>XM_002719077.2</td><td>F:TGGCTGTATCCATTATGTCAAGC</td><td>236</td></tr><tr><td rowspan=\"2\">肉碱棕榈酰转移酶1 CPT1</td><td rowspan=\"2\">XM_002724092.2</td><td>R:TGAAGAAAGGGTCAGGAAGGCAGTA</td><td rowspan=\"2\">380</td></tr><tr><td>F:AGGTGCTCCTCTCCTACCACGG R:GTTGCTGTTCACCATCAGTGGC</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4数据处理与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验数据采用SAS8.0统计软件的ANOVA程序进行单因素方差分析，如果处理效应差异显著（ $\\scriptstyle \\mathbf { P < } 0 . 0 5 )$ ，采用Duncan 氏法进行多重比较，数据以平均值和均方根误差(R-MSE)表示， $P { < } 0 . 0 5$ 为差异显著。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1饲粮中胆碱添加水平对 $3 { \\sim } 5$ 月龄獭兔肝脏脂肪酸组成的影响 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，饲粮中添加不同水平的胆碱对獭兔肝脏中饱和脂肪酸（SFA）的含量没有显著影响（ $P { > } 0 . 0 5 \\$ )，但对肝脏中单不饱和脂肪酸（MUFA）和多不饱和脂肪酸（PUFA）的含量有显著影响（ $_ { _ { P < 0 . 0 5 } }$ )。肝脏中MUFA的含量随胆碱添加水平的增加呈先升高后降低的趋势，在 $2 6 1 ~ \\mathrm { { m g / k g } }$ 胆碱添加组到达最大值，在 $3 4 8 ~ \\mathrm { m g / k g }$ 胆碱添加组到达最小值；而肝脏中PUFA的含量随胆碱添加水平的增加则呈先降低后升高的趋势，在 $2 6 1 ~ \\mathrm { { m g / k g } }$ 胆碱添加组到达最小值，在 $3 4 8 ~ \\mathrm { m g / k g }$ 胆碱添加组到达最大值。与对照组相比，饲粮中添加 $3 4 8 ~ \\mathrm { m g / k g }$ 的胆碱显著降低了肝脏中C16:1的含量（ $_ { . P < 0 . 0 5 }$ ，却显著增加了C18:2的含量（ $P { < } 0 . 0 5 )$ ·与对照组相比，饲粮中添加 $1 7 4 . 2 6 1 \\ \\mathrm { m g / k g }$ 的胆碱显著增加了肝脏中C18:1的含量( $P { < } 0 . 0 5 \\rangle$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3饲粮中胆碱添加水平对 $3 { \\sim } 5$ 月龄獭兔肝脏脂肪酸组成的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Table3Efectsofcholine supplemental levelon fatyacid composition in liveof3-to 5-month-old Rexrabbits ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f5e5428be533cb66e2863a6a9115d31a50abe13fe5c52bc4f4864708f70100c9.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "同行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5 \\rangle$ ，相同字母或无字母表示差异不显著（ $. P { > } 0 . 0 5 \\rangle$ °In the same row,values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，whilewith the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ "
+        ],
+        "table_body": "<html><body><table><tr><td>脂肪酸</td><td colspan=\"5\">胆碱添加水平 Choline supplemental level/（mg/kg）</td><td rowspan=\"2\">均方根误差 R-MSE</td><td rowspan=\"2\">P值 P-value</td></tr><tr><td>Fatty acids</td><td>0</td><td>87</td><td>174</td><td>261</td><td>348</td></tr><tr><td>C14:0</td><td>0.22</td><td>0.26</td><td>0.27</td><td>0.24</td><td>0.21</td><td>0.04</td><td>0.0878</td></tr><tr><td>C16:0</td><td>15.90bc</td><td>16.69ab</td><td>16.61abc</td><td>16.87a</td><td>15.82c</td><td>0.76</td><td>0.030 6</td></tr><tr><td>C16:1</td><td>0.46a</td><td>0.49a</td><td>0.54a</td><td>0.54a</td><td>0.31b</td><td>0.10</td><td>0.0016</td></tr><tr><td>C17:0</td><td>1.27</td><td>1.22</td><td>1.28</td><td>1.11</td><td>1.19</td><td>0.15</td><td>0.219 8</td></tr><tr><td>C18:0</td><td>23.49ab</td><td>22.81b</td><td>22.79b</td><td>22.51b</td><td>24.10a</td><td>0.95</td><td>0.018 7</td></tr><tr><td>C18:1</td><td>9.35b</td><td>9.74b</td><td>11.10a</td><td>12.15a</td><td>7.76℃</td><td>1.29</td><td>0.0001</td></tr><tr><td>C18:1T</td><td>0.78</td><td>0.89</td><td>0.74</td><td>0.92</td><td>0.72</td><td>0.15</td><td>0.0592</td></tr><tr><td>C18:2</td><td>33.89b</td><td>33.84b</td><td>32.40b</td><td>32.87b</td><td>35.65a</td><td>1.57</td><td>0.0042</td></tr><tr><td>C18:3(n-6)</td><td>0.44</td><td>0.43</td><td>0.44</td><td>0.44</td><td>0.43</td><td>0.10</td><td>0.9989</td></tr><tr><td>C18:3(n-3)</td><td>0.75</td><td>0.66</td><td>0.83</td><td>0.72</td><td>0.85</td><td>0.16</td><td>0.178 3</td></tr><tr><td>C20:4</td><td>10.96</td><td>10.65</td><td>10.63</td><td>9.34</td><td>10.76</td><td>1.14</td><td>0.059 7</td></tr><tr><td>C22:5</td><td>1.05</td><td>0.98</td><td>1.07</td><td>1.02</td><td>0.94</td><td>0.12</td><td>0.2809</td></tr><tr><td>C22:6</td><td>1.41</td><td>1.31</td><td>1.37</td><td>1.25</td><td>1.25</td><td>0.26</td><td>0.6711</td></tr><tr><td>饱和脂肪酸 SFA</td><td>40.88</td><td>40.99</td><td>40.89</td><td>40.74</td><td>41.32</td><td>0.85</td><td>0.7523</td></tr><tr><td>单不饱和脂肪酸 MUFA</td><td>10.60c</td><td>11.13bc</td><td>12.53ab</td><td>13.62a</td><td>8.79d</td><td>1.42</td><td>0.0001</td></tr><tr><td>多不饱和脂肪酸PUFA</td><td>48.52ab</td><td>47.88bc</td><td>46.76cd</td><td>45.64d</td><td>49.89a</td><td>1.52</td><td>0.0001</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2饲粮中胆碱添加水平对 $3 { \\sim } 5$ 月龄獭兔血清脂肪代谢物含量及相关酶活性和激素含量的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图1可知，与对照组相比，饲粮中添加87、174、261和 $3 4 8 \\mathrm { \\ m g / k g }$ 的胆碱显著增加血清中IGF-1和 LEP 的含量（ $P { < } 0 . 0 5 \\mathrm { ~ }$ ；与对照组相比，饲粮中添加174 和 $2 6 1 ~ \\mathrm { m g / k g }$ 的胆碱显著增加血清中GH的含量（ $_ { . } { \\cal P } { < } 0 . 0 5$ )。饲粮中添加不同水平的胆碱对獭兔血清中TG 含量及 HL 和 TE 活性的影响不显著（ $_ { P > 0 . 0 5 }$ )；与对照组相比，饲粮中添加261和 $3 4 8 ~ \\mathrm { m g / k g }$ 的胆碱显著增加血清中LPL的活性和VLDL的含量（ $P { < } 0 . 0 5 \\rangle$ 0°",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/da4d8d1816c4529ec72bdf8c24115c543b85fc02da2fbc8ab94ffde8c8fe2a8c.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "数据柱标注不同小写字母表示差异显著（ $P { < } 0 . 0 5 \\$ ，相同字母或无字母表示差异不显著（ ${ \\cdot } P { > } 0 . 0 5 { \\rangle }$ 。下图同。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Date columns with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ .The same as below. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图1饲粮中胆碱添加水平对 $3 { \\sim } 5$ 月龄獭兔血清脂肪代谢物含量及相关酶活性和激素含量的影响 Fig.1 Effects of choline supplemental level on metabolin,hormone and enzyme contents/activities involved in lipid metabolism in serum of 3-to 5-month-old Rex rabbits (n=8) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3饲粮中胆碱添加水平对 $3 { \\sim } 5$ 月龄獭兔肝脏脂肪代谢相关基因表达的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图2可知，饲粮中添加不同水平的胆碱对獭兔肝脏中乙酰辅酶A羧化酶(ACC)mRNA表达水平的影响不显著（ $P { > } 0 . 0 5 \\ '$ ；与对照组相比，饲粮中添加 $2 6 1 \\mathrm { \\ m g / k g }$ 的胆碱显著提高肝脏中肉碱棕榈酰转移酶1（CPT1）mRNA的表达水平（ $P { < } 0 . 0 5$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e64e6967bf2dcb581e1d6e2b667d6d0480094ee6a59f54e06a43dd7c0678bdcf.jpg",
+        "img_caption": [
+            "图2饲粮中胆碱添加水平对 $3 { \\sim } 5$ 月龄獭兔肝脏脂肪代谢相关基因表达的影响",
+            "Fig.2Effects of choline supplemental level on gene expression involved in lipid metabolism in liverof 3-to "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5-month-oldRexrabbits $\\scriptstyle ( n = 8 )$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1 饲粮中胆碱添加水平对 $3 { \\sim } 5$ 月龄獭兔肝脏脂肪酸组成和脂肪代谢相关基因表达的影响胆碱能够提供不稳定的甲基供体，在动物脂肪沉积的调控中起着尤为重要的作用，以降低肝脏脂肪含量的作用最为明显。研究报道，饲粮中添加胆碱可以降低肉仔鸡肝脏脂肪含量[8-9]。本试验中，饲粮中添加174 和 $2 6 1 ~ \\mathrm { m g / k g }$ 胆碱后显著增加了獭兔肝脏中MUFA的含量（主要是通过增加C16:1和C18:1的含量)，却显著降低了肝脏中PUFA的含量（主要是通过降低C18:2的含量)，暗示胆碱能促进PUFA向MUFA转化，说明胆碱影响獭兔的肝脏脂肪酸组成。此外，胆碱对獭兔肝脏脂肪酸代谢的影响可能是通过CPT1实现的。CPT1 是家兔脂肪酸氧化的限速酶，在本试验中发现，饲粮中添加 $2 6 1 ~ \\mathrm { { m g / k g } }$ 胆碱后显著增加了肝脏中CPT1mRNA的表达水平，说明胆碱可以增加肝脏脂肪酸的 $\\beta$ 氧化过程，主要机制可能是胆碱提供以S-腺苷蛋氨酸为活性的甲基供体，间接参与肉碱的合成，调节体内的肉碱平衡，进而影响机体细胞内脂肪酸氧化，促进机体内脂肪酸的分解代谢[10]。ACC 是催化脂肪酸合成第1步反应的限速酶，关于胆碱对獭兔ACC活性影响的研究尚未报道。本试验结果表明，饲粮中添加胆碱獭兔对肝脏 $A C C$ mRNA表达水平的影响不显著，说明胆碱并未影响到獭兔肝脏脂肪酸合成过程。这一现象与Wu 等[2在大鼠上得出的结果不一致，Wu 等2发现胆碱可通过促进甲基代谢，使氨基酸转化，影响脂肪酸合成过程。上述研究结果的差异说明胆碱对脂肪酸代谢的影响具有物种的差异性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2饲粮中胆碱添加水平对 $3 { \\sim } 5$ 月龄獭兔血液中脂类代谢相关指标的影响 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "肝脏内合成的TG可在肝脏中储存，也可经过组装后以VLDL的形式输出。在肝脏中，胆碱在胆碱激酶的催化下发生磷酸化，可合成磷脂酰胆碱，磷脂酰胆碱是磷脂的重要组分，由磷脂酰胆碱构成的磷脂与肝脏内其他脂类物质合成VLDL。本研究发现，饲粮中添加261和 $3 4 8 ~ \\mathrm { m g / k g }$ 的胆碱显著增加了獭兔血清中VLDL 的含量，这一结果与在肉鸭[]上得出的结果相一致，暗示胆碱加强了肝脏内合成的TG的输出能力。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "LPL 和HL在血浆脂蛋白胆固醇代谢中发挥着关键性作用。LPL是TG 降解的限速酶，它参与各种脂蛋白的代谢并对其进行调控，使血浆中富含脂质的脂蛋白降解。到达血液中的VLDL 经LPL 分解，然后生成甘油和脂肪酸，或者氧化为二氧化碳和水，储存能量进一步供能[12]。本试验中，饲粮中添加 261 和 $3 4 8 ~ \\mathrm { m g / k g }$ 的胆碱同时也提高了獭兔血清中LPL 的活性，加强了机体对血液中VLDL 利用，使TG 和甘油的量增加，但在本试验中，胆碱的添加并未改变血清中TG 的含量，这一结果可能与升高的HL 活性有关，HL 主要在肝脏中合成，能够水解TG 和磷脂等。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3饲粮中胆碱添加水平对 $3 { \\sim } 5$ 月龄獭兔血液激素代谢的影响 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "畜禽的脂肪代谢还受到一些激素的调节，如GH、LEP 和IGF-1。GH的主要生理功能是促进神经组织以外的所有其他组织生长，促进机体蛋白质合成，刺激骨关节软骨和骨垢软骨生长。近期研究发现GH对脂肪代谢也有重要的调节作用，如彭永佳[13]发现GH能够降低小鼠肝脏内脂肪酸合成过程。在本试验中，饲粮中添加174 和 $2 6 1 ~ \\mathrm { { m g / k g } }$ 的胆碱显著增加了獭兔血清中GH的含量，说明GH可能参与胆碱对獭兔肝脏脂肪代谢过程的调控。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "IGF-1是人体内肝细胞、肾细胞、脾细胞等十几种细胞自分泌和旁分泌的产物。IGF-1作用于脂肪细胞能促进脂肪分解和糖原合成，降低血液中总 TG 和 VLDL 的含量[14]。本试验发现胆碱的添加使獭兔血清中IGF-1的含量显著增加，说明IGF-1可能参与胆碱调节机体对 TG 和VLDL的利用过程。此外，IGF-1可抑制GH的合成分泌，但GH对IGF-1有正调控作用。李光玉[15研究指出，血清中GH含量的变化与IGF-1含量的变化具有同步性，GH含量的升高或降低伴随着IGF-1含量的升高或降低，本试验所得结果与此一致。因此，胆碱添加后血清中IGF-1含量升高也可能是继发性的，是由GH含量的升高引起的。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "LEP 是一种由脂肪组织分泌的激素，参与糖、脂肪及能量代谢的调节，并能使机体减少采食量，增加能量释放，抑制脂肪细胞的合成。已有研究表明，LEP对脂肪代谢的影响主要是通过控制CPT1 的活性来实现的[16]。本试验中发现胆碱的添加显著升高了血清中LEP 的含量，表明LEP信号也参与胆碱调节獭兔脂肪代谢过程，肝脏中CPT1mRNA表达水平的增加可能也与LEP含量的升高有关。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "饲粮中添加 $2 6 1 ~ \\mathrm { { m g / k g } }$ 的胆碱（饲粮实测胆碱水平为 $1 0 0 0 \\mathrm { m g / k g }$ ）改变了 $3 { \\sim } 5$ 月龄獭 兔肝脏中脂肪酸的组成，促进了肝脏中脂肪酸氧化关键基因CPT1的表达，同时加强了肝脏 中 TG 的输出过程。 参考文献： [1] 袁毅军.氯化胆碱在家兔配合饲料中的应用[J].中国养兔杂志,2002(2):38-39. [2] WU G S,ZHANG L Y,LI T T,et al.Choline deficiency attenuates body weight gain and improves glucose tolerance in ob/ob mice[J].Journal of Obesity,2012,2012:319172. [3] 张文旭,王宝维,葛文华,等.胆碱对鹅体内脂质代谢及肝脏FAS 基因 mRNA 表达的影响[J]. 中国农业科学,2013,46(13):2777-2787. [4] 王斯佳,蔡辉益,刘国华,等.二次回归正交旋转组合设计优化21\\~42 日龄肉仔鸡胆碱和蛋氨 酸需要量[J].动物营养学报,2012,24(6):1019-1029. [5] COOKE R F,SILVA DEL RIO N,CARAVIELLO D Z,et al.Supplemental choline for preventionandallviationoffattyliverindairycatte[J]JournalofDairy Science,2007,90(5):2413-2418 [6] RESSEGUIE M E,DA COSTA K A,GALANKO J A,et al.Aberrant estrogen regulation of PEMT results in choline deficiency-associated liver dysfunction[J].Journal of Biological Chemistry,2011,286(2):1649-1658. [7] DE BLAS C,MATEOS G GFeed formulation[M]/DE BLAS C,WISEMAN J.The nutrition of the rabbit.Wallingford:CABI International,1998:222-232. [8] 沈红,霍启光.日粮胆碱水平及其存在形式对肉仔鸡的影响[J].中国畜牧杂 志,1999,35(6):24-26. [9] 郭玉琴,丁角立,何菁.日粮中不同甜菜碱和胆碱水平对肉仔鸡脂类代谢的影响[J].中国畜 牧杂志,1998,34(5):31-32. [10] HONGU N,SACHAN D S.Carnitine and choline supplementation with exercise alter carnitine profiles,biochemical markers of fat metabolism and serum leptin concentration in healthy women[J].The Journal of Nutrition,2003,133(1):84-89. [11] 闻治国.胆碱对北京鸭生长发育和脂肪代谢的影响及其调控机制[D].博士学位论文.北京: 中国农业大学,2015. ！[12] CWIKLINSKA A,GLIWINSKA A,SENDEROWSKA Z,et al.Impact of phosphatidylcholine ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "liposomes on the compositional changes of VLDL during lipoprotein lipase (LPL)-mediatedlipolysis[J].Chemistry and Physics of Lipids,2016,195:63-70.  \n[13]彭永佳.SOCS 家族参与生长激素调节小鼠脂肪代谢的作用[D].硕士学位论文.杨凌:西北农林科技大学,2009.  \n[14] LI X W,GUAN Y,LI Y,et al.Effectsof insulin-like growth factor-1 on the assembly andsecretion of very low-density lipoproteins in cow hepatocytes in vitro[J].General andComparative Endocrinology,2016,226:82-87.  \n[15]李光玉.梅花鹿、马鹿营养、血清 IGF-1 浓度及鹿茸生长规律研究[D].博士学位论文.北京:中国农业科学院,2005.  \n[16] 黄艳娜.超表达瘦素和脂联素对肌纤维类型和肌肉中脂肪分解关键功能基因影响的研究[D].博士学位论文.杭州:浙江大学,2011",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Effectsof Choline Supplemental Level on Lipid Metabolismin Liver of 3-to 5-Month-Old Rex Rabbits ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "LIU LeiZHANG Caixia LIU HongliLIFuchang\\* (CollegeofAnimal Scienceand Technology,ShandongAgricultural University,Tai'an271018, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This experiment was conducted to investigate the effects of choline supplemental level on lipid metabolism in liver of 3-to 5-month-old Rex rabbits.Two hundred 3-month-old Rex rabbits with similar body weight were randomly divided into 5 groups with 4O replicates in each group and 1 rabbit in each replicate.Rabbits in the 5 groups were fed experimental diets which supplemented with 0 (control),200,400,600 and $8 0 0 ~ \\mathrm { { m g / k g } }$ $50 \\%$ choline chloride（converted from $50 \\%$ choline chloride to choline,the supplemental levels were O,87,174,261 and $3 4 8 ~ \\mathrm { m g / k g }$ respectively）based on a basal diet,and the measured levels of choline in experimental diets were 800,900,1 000,1100 and $\\mathrm { 1 ~ 2 0 0 ~ m g / k g }$ ,respectively. The pre-test period lasted for 7 days,and the experimental period lasted for 53 days.The results showed that dietary choline supplemental level had significantly effects on the contents of monounsaturated fatty acids and polyunsaturated fatty acids in liver $_ { ( P < 0 . 0 5 ) }$ .Compared with control group,dietary supplemented with 87,174, 261 and $3 4 8 ~ \\mathrm { m g / k g }$ choline significantly increased the contents of insulin-like growth factor 1 (IGF-1）and leptin(LEP) in serum( $( P { < } 0 . 0 5 )$ ，dietary supplemented with 174 and $2 6 1 ~ \\mathrm { m g / k g }$ choline significantly increased the content of growth hormone (GH) in serum $( P { < } 0 . 0 5 )$ ，dietary supplemented with 261 and $3 4 8 ~ \\mathrm { m g / k g }$ choline significantly increased the lipoprotein lipase (LPL) activity and very low density lipoprotein(VLDL）content in serum $( P { < } 0 . 0 5 )$ ，and dietary supplemented with $2 6 1 ~ \\mathrm { { m g / k g } }$ choline significantly increased the carnitine palmitoyltransferase-1 (CPT1） mRNA expression level in liver $( P { < } 0 . 0 5 )$ .In conclusion, dietary supplemented with 261 $\\mathrm { m g / k g }$ choline (the measured level of choline in the diet is $\\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ ）alters the fattyacid composition in liver,promotes the $C P T 1$ gene expression,which is the key enzyme fatty acid oxidation,strengthens the output process of triglycerides（TG）from liver. Key words:choline;Rex rabbits; liver; lipid metabolism ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

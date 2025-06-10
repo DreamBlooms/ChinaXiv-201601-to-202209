@@ -1,0 +1,406 @@
+[
+    {
+        "type": "text",
+        "text": "虚拟和真实金钱奖赏幅度对海洛因戒断者 风险决策的影响 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨玲」王斌强」耿银凤²姚东伟」曹华」 张建勋」许琼英1(西北师范大学心理学院，物质成瘾与康复研究所，兰州 730070)(菏泽信息工程学校学前教务科，菏泽 274000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要已有研究表明海洛因成瘾者风险决策能力受损，但少有研究关注不同幅度金钱奖赏对戒断期海洛因成瘾者风险决策的影响以及这种影响是否会受到金钱奖赏类型的调节。因此,本研究使用气球模拟风险任务(BART)，通过两个实验探究不同幅度虚拟和真实金钱奖赏对海洛因戒断者风险决策的影响。结果显示，在虚拟奖赏情景中，海洛因戒断者未爆破气球按键次数和爆破气球个数均显著大于正常组被试，以及两组被试在25分奖赏条件下的未爆破气球按键次数和爆破气球个数均显著大于1分奖赏；而在真实奖赏情景中，海洛因戒断者未爆破气球按键次数和爆破气球个数均显著小于正常组被试，以及两组被试在25分奖赏条件下的未爆破气球按键次数和爆破气球个数均显著小于1分奖赏。这些结果进一步表明戒断期海洛因成瘾者的风险决策行为与正常人相比存在不同；金钱奖赏幅度对两组被试的风险决策变化特征具有相同的影响，且这种影响都受到金钱奖赏类型的调节。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词海洛因戒断者；风险决策；金钱奖赏幅度；气球模拟风险任务 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "风险决策(riskydecision-making)是指个体在面对两个或两个以上不确定的结果选项时进行权衡，从而做出判断和抉择的过程(Kahneman& Tversky,1979)。风险决策缺陷被认为是毒品成瘾者的主要特征之一，成瘾者在个人情感，职业和社会生活中面临日益增长的消极后果(如，身体伤害，失去工作、家庭、亲人、朋友或社会地位)时仍然倾向于选择立即奖赏(如，药物摄入)(Fein& Chang,2008;Liet al.,2013)，他们很难根据结果反馈做出适应性的决策行为(Redish,Jensen,& Johnson,2008)。针对不同毒品类型的实验研究均支持了这一观点，例如，大麻（Gonzalez， Schuster，Mermelstein，& Diviak，2015)，冰 毒(Kohno，Morales，Ghahremani,Hellemann,&London,2014)，可卡因(Verdejo-Garcia et al.,2007)。神经影像学的研究结果显示,毒品成瘾者的风险决策相关脑区，包括腹内侧前额叶皮层(ventralmedial prefrontalcortex,VMPFC)、眶额叶皮层(orbitofrontal cortex,OFC)、前扣带回(anterior cingulate cortex,ACC)和脑岛(insula)等区域激活存在异常，表明其风险决策能力受到损伤(Bolla et al.,2004; Erscheet al.,2005,2006; Hanlon,Wesley, Stapleton,Laurienti,& Porno,2011; Vaidya et al.,2012；严万森，李纾，隋南,2011)。与此同时，越来越多的研究开始强调风险决策缺陷在成瘾行为的维持和复吸中同样扮演着重要角色(Verdejo-Garcia et al.,2014)，决策功能的损伤可能会加剧成瘾物质的使用并危及使用者停止用药和抵制复吸的能力(Gonzalez,Schuster,Mermelstein,&Diviak,2015;Fein&Chang,2008)。研究进一步明确指出，毒品成瘾者的决策缺陷对于成瘾者治疗维持时间和治疗后复吸率具有显著的预测作用(Black&Rosen,2011; Passetti,Clark,Mehta,Joyce,&King,2008)。在此基础上，研究使用不同的方法对成瘾者的风险决策进行干预,如非侵入性脑刺激(Gorini,Lucchiari,Russell-Edu,& Pravettoni,2014)、目标管理训练和正念冥想(Alfonso,Caracuel,Delgado-Pastor,& Verdejo-Garcia,2011)等。全面深入地考察毒品成瘾者的风险决策，不仅可以帮助人们认识成瘾行为发生的原因，而且可以为今后毒品滥用的干预与治疗提供借鉴。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关于成瘾者决策研究常见的实验范式有延迟折扣任务(Delay Discounting Task,DDT)(Petry & Casarella,1999)、爱荷华赌博任务(Iowa Gambling Task, IGT)(Bechara,Damasio,Damasio,& Anderson,1994)以及剑桥赌博任务(Cambridge Gamble Task, CGT)(Rogers, et al.,1999)。DDT被认为主要是评估个体的冲动性决策，而IGT和CGT 则主要用于考察被试的风险性决策(Yao et al.,2017; Zhao,Li,Hu,Wu,&Liu,2017)。已有大量研究通过这些任务来探究不同物质成瘾者的决策功能状况，除毒品成瘾者以外，还包括其他合法成瘾物质使用者，如,香烟吸食者(Bickel, Odum,& Madden,1999; Reynolds,Karraker,Horn,& Richards,2003)，酒精依 赖者(Petry,2001； Noel,Bechara,Dan,Hanak,& Verbanck, 2007； Lawrence,Luty, Bogdan,Sahakian,&Clark,2009)等。随着研究工作不断深入开展，研究人员不再只是简单地证实成瘾者的决策功能受到损伤，他们开始关注影响成瘾者决策功能的内外因素，以期为后续的有效干预提供科学依据。研究发现，不同类型的毒品使用可能会造成成瘾者包括决策功能在内的认知损伤差异。如早期研究结果显示，与正常人相比，可卡因成瘾者表现出更高的右侧眶额叶皮层激活以及更低的右侧背外侧前额叶皮层(dorsolateral prefrontal cortex,DLPFC)和左侧内侧前额叶皮层(medial prefrontal cortex,MPFC)激活(Bolla et al.,2003)，相反，大麻使用者表现出更低的右侧眶额叶皮层和右侧背外侧前额皮层激活以及更高的小脑(cerebellum)激活(Bolla,Eldreth,Matochik,&Cadet,2005)。上述研究采用了相同的实验范式，从认知神经活动层面进行了间接的比较，另有部分研究对不同物质成瘾者的行为数据结果直接比较后发现，戒断期可卡因成瘾者相较于海洛因成瘾者表现出更高的冲动性和风险寻求行为(Bomovalova,Daughters,Hernandez,Richards,&Lejuez,20o5)；可卡因成瘾者相较于尼古丁成瘾者和健康组被试表现出更高的延迟折扣率(Garcia-Rodriguez,Secades-Villa,Weidberg,& Yoon,2013)。研究同时强调，多重物质的使用可能会加剧决策功能的损伤(Hopko et al.,2006)，而且决策功能损伤可能会随着戒断时间增长而有所恢复(周平艳等,2014a)。海洛因等阿片类药物仍然是我国毒品滥用的主要物质之一，进一步探究戒断期海洛因成瘾者的风险决策特征对于其康复治疗具有重要意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "与决策相关的研究通常都伴随着一定的金钱奖赏，这是因为金钱具有一定的社会属性，能够最大程度地提供与现实相近的决策情景。对于金钱奖赏幅度(高、中、低)进行操纵来考察个体认知加工特点的实验研究较为普遍(纪丽燕，陈宁轩，丁锦红，魏萍,2015)。研究发现，金钱奖赏幅度会影响个体的风险决策。例如，在概率折扣任务中，被试对低额奖赏的折扣率要小于高额奖赏，时间折扣任务则刚好与之相反(Estle,Green,Myerson,& Holt,2006)。另有研究对 IGT 任务中盈利牌和亏损牌的立即奖赏幅度差异进行操纵后发现，当奖赏幅度的差异降低时，被试会更少地选择亏损牌来获得更大的金钱奖励。反之，当奖赏幅度的差异增大时，被试则会更多地选择亏损牌从而导致更大的金钱损失(Van,Houx,& Spruijt,2006)。这表明在风险决策过程中，个体在低额金钱奖赏条件下更易做出风险规避行为，而在高额金钱奖赏条件下则易做出风险偏好行为。但是，部分研究结果却与之相反，个体的风险偏好水平会随着奖赏幅度的增加而减小(Bormovalova et al.,2009)。研究进一步发现，金钱奖赏幅度对风险决策的影响会受到奖赏类型的调节，虚拟金钱奖赏幅度对被试的风险决策行为没有影响，而真实金钱奖赏幅度能够显著改变被试的风险决策行为，具体表现为高额真实金钱奖赏可以降低被试的风险偏好水平(Xu et al.,2018；徐四华，方卓，饶恒毅,2013)。考虑到已有研究在考察奖赏幅度与风险决策关系时的结果并不一致，且尚未有研究以毒品成瘾者为研究对象具体考察其在虚拟和真实奖赏情景下风险决策行为与正常人的差异。本研究拟对此进行补充，原因是，决策加工涉及环境刺激的奖赏价值或者情感效价，评估潜在选项的奖赏或惩罚，整合潜在积极或消极结果信息，并最终做出选择行为等过程(赵海潮，黄小璐，何清华,2016)，毒品成瘾者的奖赏加工受损，其对奖赏幅度的变化相较于正常人更不敏感(Goldstein et al.,2008; Goldstein et al.,2007)，以毒品成瘾者为研究对象来考察金钱奖赏幅度对风险决策的影响不仅是对以往研究的拓展，而且能够更好地了解毒品成瘾者的风险决策特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "气球模拟风险任务(BART,Balloon Analogue Risk Task) (Lejuez et al.,2002)是近年来研究人员开发出的一种更接近现实生活中真实风险决策的认知任务。被试通过不断按键让气球体积变大，每一次按键伴随着累积更高的收益和更大风险的损失。与DDT、IGT 和CGT 相比,BART 因为其较高的生态效度以及较多的行为指标受到研究者的青睐(徐四华等,2013)。更为重要的是，该程序能够比较容易的通过操纵奖赏幅度来探究被试在不同水平奖赏条件下的风险决策行为(Bormovalova et al.,2009)。目前国内外已有多项研究使用 BART对不同人群的风险决策进行探究。如Lejuez 等人(2003)最早以吸烟者和非吸烟者为被试，验证了BART 的有效性;Fein 和Chang(2008)通过事件相关电位考察了酒精使用人员与正常人在风险决策过程中的电生理差异;Crowley 等人(2010)探讨了同时具有反社会行为和成瘾行为的青少年与一般青少年脑区激活的不同;Hevey 等人(2017)比较了抑郁症患者和正常控制组被试之间的风险决策状况；田录梅等人(2018)探究了同伴在场和自尊水平对青少年冒险行为的影响。少有研究使用BART来探究毒品成瘾者的风险决策(Bornovalova et al.,2005; Hopko et al.,2006)，仅有的研究也并未深入考察金钱奖赏幅度和金钱奖赏类型对毒品成瘾者风险决策的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本研究以戒断期海洛因成瘾者作为研究对象，使用BART全面探究金钱奖赏对海洛因戒断者风险决策的影响。实验1使用了虚拟金钱奖赏，其主要目的是探究海洛因戒断者与正常组被试在1分和25分虚拟奖赏情景下的风险决策差异。实验2使用了真实金钱奖赏，其主要目的是探究海洛因戒断者与正常组被试在1分和25分真实奖赏情景下的风险决策差异。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2实验1：虚拟奖赏情景下的风险决策特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 被试 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究共选取被试64名，其中戒断期男性海洛因成瘾者33名，均来自甘肃省兰州市某强制隔离戒毒所。年龄在 19\\~54 岁之间(平均年龄 $4 0 . 9 4 \\pm 9 . 7 4$ 岁)。文化程度文盲/半文盲2人，小学8人，初中20人，高中/职高/中专/技校2人，大专1人。满足DSM-IV阿片类药物依赖诊断标准。初次吸食海洛因的平均年龄为 $2 5 . 9 4 \\pm 7 . 7 6$ 岁，本次入所戒断时长为 $1 4 . 0 9 { \\scriptstyle \\pm 6 . 4 3 }$ 月。正常组男性被试31名，通过口头和广告两种方式招募，无毒品使用史。年龄在18\\~52岁之间(平均年龄 $4 0 . 4 5 { \\pm } 9 . 1 0$ 岁)。文化程度小学9人，初中17人，高中/职高/中专/技校5人。所有被试均为右利手，视力或矫正视力正常，无色觉障碍，无既往精神病史或心血管疾病。经统计检验，两组被试的年龄 $( t ( 6 2 ) \\substack { = 0 . 2 1 , p > 0 . 0 5 } )$ 以及文化程度 $( \\chi ^ { 2 } { = } 4 . 0 5 , p { > } 0 . 0 5 )$ 无显著性差异。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 实验设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验采用2(奖赏幅度：1分,25分 $) { \\times } 2 ($ 被试类型：海洛因戒断组，正常被试组)的两因素混合实验设计。其中奖赏幅度是组内变量，被试类型是组间变量。因变量是未爆破气球平均按键次数和爆破气球个数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.3 实验程序",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "电脑屏幕中央最先呈现一个气球，气球下方有“当前气球收益”、“前一气球收益\"和\"总收益\"三个标签。被试需要按\"1\"键给气球充气，每按一次\"1\"键气球会扩大 $0 . 3 \\mathrm { c m }$ ，并获得相应奖赏条件下的金钱数额，同时,“当前气球收益\"会显示按键后的收益总额。随着按\"1\"键次数的增加，气球会逐渐变大，当前气球收益相应也会增加。每个气球可被充气的次数介于1\\~128次，每个气球爆破点也处于1\\~128次之间，平均爆破点为64次。被试在按键吹气球的过程中，可以随时停止按键，并通过按\"5\"键将当前气球收益保存到总收益。如果被试按\"1\"键的次数达到气球的爆破点，气球就会爆炸，那么“当前气球收益\"就会显示相应的损失额度，并从总收益中减去由于当前气球爆破造成的损失。吹爆气球或按\"5\"键保存当前收益，该试次就会结束。随后会呈现另一个气球开始新的试次，直至实验结束(如图1)。正式实验开始前，被试需要完成预实验的练习以保证被试完全理解实验任务。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验共包括60个气球,1分奖赏条件和25 分奖赏条件下各30个气球。两种奖赏条件的呈现顺序在被试之间进行平衡，目的是减少练习效应和顺序效应。同时，被试在两种奖赏条件之间会获得短暂的休息以减少疲劳效应。尽管本研究使用的是虚拟奖赏，但是要求被试将实验中获得的奖励想象为真实金钱奖赏，并尽可能多的获取盈利。被试同意进行实验后签署知情同意书。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/645f1e8a948d5099da2c0f0291badd84bfacd467239bff81c4878559735a47c6.jpg",
+        "img_caption": [
+            "图1 BART流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "首先，对未爆破气球平均按键次数进行2(奖赏幅度:1分,25分) $\\times 2$ (被试类型：海洛因戒断组，正常被试组)重复测量方差分析。结果发现，奖赏幅度主效应显著 $( F ( 1 , 6 2 ) = 2 5 . 5 9 _ { \\div }$ $p { < } 0 . 0 0 1$ $\\mathfrak { n } _ { \\mathrm { p } } ^ { 2 } \\mathrm { = } 0 . 2 9 )$ ，事后检验(LSD 法)表明,1分奖赏条件下的未爆破气球平均按键次数小于25 分奖赏条件 $( p { < } 0 . 0 0 1 )$ ；被试类型主效应显著 $( F ( 1 , 6 2 ) { = } 6 . 9 9$ $p { < } 0 . 0 5$ $\\mathfrak { n } _ { \\mathrm { p } } ^ { 2 } \\mathrm { = } 0 . 1 0 \\}$ ，同样，事后检验(LSD 法)表明，海洛因戒断者未爆破气球按键次数大于正常组被试 $( p { = } 0 . 0 1 )$ ；奖赏幅度和被试类型交互作用不显著 $( F ( 1 , 6 2 ) { = } 0 . 6 5$ $p { > } 0 . 0 5 )$ (图2)。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/882c7c66717ed7b696861e5711753900402f5c7a82f34879923c6a22a436334e.jpg",
+        "img_caption": [
+            "图2两组被试在虚拟奖赏1分/25分收益下未爆气球平均按键次数"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其次，对爆破气球个数进行2 (奖赏幅度:1分,25分) $\\times 2$ (被试类型：海洛因戒断组，正常被试组)重复测量方差分析。结果发现，奖赏幅度主效应显著 $( F ( 1 , 6 2 ) = 1 5 . 1 0$ $p { < } 0 . 0 0 1$ $\\mathfrak { n } _ { \\mathrm { p } } ^ { 2 } \\mathrm { = } 0 . 2 0 )$ ，事后检验(LSD 法)表明,1分奖赏条件下的爆破气球个数小于 25 分奖赏条件$( p { < } 0 . 0 0 1 )$ ；被试类型主效应显著 $( F ( 1 , 6 2 ) { = } 7 . 4 5$ $p { < } 0 . 0 1$ ， $\\displaystyle { \\mathfrak { \\eta } } _ { \\mathfrak { p } } { } ^ { 2 } { = } 0 . 1 1 \\rangle$ ，同样，事后检验(LSD 法)表明，海洛因戒断者的爆破气球个数大于正常组被试 $( p { = } 0 . 0 0 8 )$ ；奖赏幅度和被试类型交互作用不显著 $( F ( 1 , 6 2 ) = 0 . 0 0 2 , p > 0 . 0 5 )$ （图3）。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2727b5ff89bc952ab7a3e99c9c0fa3686ba4cbbf7a444e35d02e33e1eba92852.jpg",
+        "img_caption": [
+            "图3两组被试在虚拟奖赏1分/25分收益下爆破气球个数"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "实验1结果显示，海洛因戒断者未爆破气球平均按键次数以及爆破气球个数均显著大于正常组被试，说明了海洛因戒断者具有更高的风险偏好水平，其在行为决策中往往会忽视潜在风险，追求及时性的奖励。这与其他物质成瘾者的研究结果相一致(Lejuez et al.,2003;Fein& Chang,2008;Hanson,Thayer,& Tapert,2014)，即使是长期戒断后的海洛因成瘾者其决策功能依然存在损伤(Liet al.,2013；周平艳等,2014a)。此外，实验1还发现，两组被试在 25 分奖赏条件下的未爆破气球平均按键次数以及爆破气球个数显著大于1分奖赏，说明个体的风险决策会受到奖赏幅度的影响，其在高额的虚拟奖赏情景下更容易表现出风险偏好行为。鉴于已有研究对虚拟和真实金钱奖赏是否能够引起相同的决策行为存在争议，实验2将使用真实金钱奖赏来考察海洛因戒断者和正常组被试的风险决策行为差异，进一步探究奖赏幅度与被试类型之间的关系。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3实验2：真实奖赏情景下的风险决策特征 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1 方法",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 被试 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "研究共选取被试82名，其中戒断期男性海洛因成瘾者42名，均来自甘肃省兰州市某强制隔离戒毒所。年龄在 28-60 岁之间(平均年龄 $4 7 . 5 2 \\pm 6 . 8 8$ 岁)。文化程度文盲/半文盲3人，小学13人，初中17人，高中/职高/中专/技校8人，大专1人。满足DSM-IV 阿片类药物依赖诊断标准。初次吸毒的平均年龄为 $3 3 . 4 0 { \\scriptstyle \\pm 9 . 8 2 }$ 岁，本次入所戒断时长为 $1 3 . 7 1 \\pm 7 . 1 5$ 月。正常组男性被试 40人，通过口头和广告两种方式招募,无毒品使用史。年龄在 27-60 岁之间(平均年龄 $4 8 \\pm 8 . 0 6$ 岁)。文化程度文盲/半文盲1人，小学5人，初中17人，高中/职高/中专/技校14人，大专1人，大学2人。所有被试均为右利手，视力或矫正视力正常，无色觉障碍，无既往精神病史或心血管疾病。经统计检验，两组被试的年龄 $( t ( 8 0 ) = - 0 . 2 9 , p > 0 . 0 5 )$ 以及文化程度$( \\chi ^ { 2 } { = } 7 . 8 7 , p { > } 0 . 0 5 )$ 无显著性差异。实验2被试和实验1被试无一重复。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1.2 实验设计",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "同实验1。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1.3 实验程序",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "基本同实验1。不同之处在于，实验开始之前，主试会告知被试本实验使用的是真实金钱奖赏，实验任务结束后，主试会根据被试在实验任务中获得的奖赏总额进行换算，被试的盈利越多，最终获得报酬就越多。实验2根据被试的行为表现设置了四个奖赏等级：60元以下获得5元现金奖励,60\\~80元获得10元现金奖励,80\\~100元获得15元现金奖励,110元以上获得 20元现金奖励。被试事先并不知道具体的折扣方式，他们只需要尽可能让自己的收益最大，实验最后每名被试平均获得14.43元现金奖励。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2结果",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "同样，首先对未爆破气球平均按键次数进行2(奖赏幅度:1分,25分) $\\times 2$ (被试类型：海洛因戒断组，正常被试组)重复测量方差分析。结果发现，奖赏幅度主效应边缘显著 $( F ( 1 ,$ $8 0 ) { = } 3 . 2 2$ $\\scriptstyle { p = 0 . 0 7 7 }$ $\\mathfrak { n } _ { \\mathrm { p } } ^ { 2 } \\mathrm { = } 0 . 0 4 \\}$ ，事后检验(LSD 法)表明,1分奖赏条件下的未爆破气球平均按键次数大于25分奖赏条件 $( p { = } 0 . 0 7 7 )$ ；被试类型主效应显著 $( F ( 1 , 8 0 ) { = } 6 . 3 3$ $p { < } 0 . 0 5$ $\\boldsymbol \\eta _ { \\mathrm { p } } ^ { 2 } { = } 0 . 0 7 \\mathrm { \\cdot }$ ，事后检验(LSD 法)表明，海洛因戒断者未爆破气球按键次数小于正常组被试 $_ { ( p = 0 . 0 1 4 ) }$ ；奖赏幅度和被试类型交互作用不显著 $( F ( 1 , 8 0 ) \\overline { { = 1 . 5 2 } } , p { > } 0 . 0 5 )$ (图4)。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/13587378e870c68dbd32a0755871f1305af259c6160d4da582c49bc3eee8f1fe.jpg",
+        "img_caption": [
+            "图4两组被试在真实奖赏1分/25分收益下未爆气球平均按键次数"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "其次，对爆破气球个数进行2(奖赏幅度:1分,25 分) $\\times 2$ (被试类型：海洛因戒断组，正常被试组)重复测量方差分析。结果发现，奖赏幅度主效应显著 $( F ( 1 , 8 0 ) { = } 4 . 1 6$ $p { < } 0 . 0 5$ $\\mathfrak { \\eta } _ { \\mathfrak { p } } { } ^ { 2 } { = } 0 . 0 5 \\mathfrak { \\mathrm { \\rangle } }$ ，事后检验(LSD法)表明,1分奖赏条件下的爆破气球个数大于25分奖赏条件 $( p { = } 0 . 0 4 5 )$ ；被试类型主效应显著 $( F ( 1 , 8 0 ) { = } 4 . 1 4 , p { < } 0 . 0 5 , { \\eta _ { \\mathrm { p } } } ^ { 2 } { = } 0 . 0 5 )$ ，同样，事后检验(LSD 法)表明，海洛因戒断者的爆破气球个数小于正常组被试 $( p { = } 0 . 0 4 5 )$ ；奖赏幅度和被试类型交互作用不显著 $( F ( 1 ,$ $8 0 ) { = } 1 . 2 4$ $p { > } 0 . 0 5 \\$ （图5)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/d9a1863efff76e4bb8c037f92b40b4658339b040e171bf9f2453d1a2dbae5c95.jpg",
+        "img_caption": [
+            "图5两组被试在真实奖赏1分/25分收益下爆破气球个数"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "实验2结果显示，海洛因戒断者未爆破气球平均按键次数以及爆破气球个数显著小于正常组被试，说明了海洛因戒断者相较于正常组被试风险偏好水平降低，即海洛因戒断者面对风险选项反而更为谨慎。此外，实验2还发现,1分奖赏条件下的未爆破气球平均按键次数以及爆破气球个数显著大于25分奖赏，说明在真实奖赏情景中，随着奖赏幅度的增加，海洛因戒断者和正常组被试的风险偏好水平都有所降低，结果与已有研究相一致(Bormovalova et al.,2009; Johnson & Bickel, 2002)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究采用 BART实验范式，通过虚拟奖赏和真实奖赏两个实验探讨不同幅度金钱奖赏对海洛因戒断者和正常组被试风险决策的影响。结果发现，在虚拟奖赏情景中，随着奖赏幅度的增加，个体的风险偏好水平升高；在真实奖赏情景中，则表现出相反的趋势。此外，通过比较海洛因戒断者和正常组被试的风险决策特征发现，在虚拟奖赏情景中，海洛因戒断者的整体风险偏好水平高于正常组被试，而在真实奖赏情景中，海洛因戒断者的风险偏好水平低于正常组被试。进一步的分析讨论如下：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "首先，虚拟奖赏和真实奖赏是否能够引起相同的决策行为历来存在争议，目前已有不少研究对该问题进行了较为深入的回答。早期的行为实验结果发现，被试在虚拟奖赏和真实奖赏条件下的延迟折扣率无显著差异，表明虚拟奖赏和真实奖赏对于考察个体的冲动性决策具有相同的生态效度(Johnson&Bickel,2002)。随后的研究同样证实了这一结论(Madden,",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Begotka,Raiff,&Kasterm,2003)。进一步的神经影像学结果显示，个体在虚拟奖赏和真实奖赏条件下前扣带回，纹状体，后扣带回以及前额皮层激活无显著差异(Bickel,Pitcock,Yi,&Angtuaco,2009)。上述研究主要考察金钱奖赏类型对冲动性决策的影响，新近研究在探讨金钱奖赏类型与风险性决策的关系时，其结果与以往研究并不一致。研究发现，在BART任务中,与虚拟奖赏相比，个体在真实奖赏条件下未爆破气球按键次数明显更少(徐四华等,2013)，且个体在真实奖赏条件下的负性反馈之后表现出更大的反馈相关负波(feedback-relatednegativity,FRN)(Xu et al.,2016)，这说明真实奖赏条件下的金钱损失会增加个体的负面情绪，与之相应的风险偏好行为进一步减少。本研究结果在一定程度上支持了近来关于风险决策的实验研究。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "但是，本研究部分结果与前人的研究存在不一致。Bornovalova等人(2009)使用BART 考察了3种不同幅度(1分,5分,25 分)真实金钱奖赏下被试的风险决策行为差异，结果表明，当奖赏幅度增加时，被试表现出显著降低的风险偏好水平。徐四华等人(2013)研究进一步指出,真实奖赏条件下的风险偏好水平随着奖赏幅度的增加而降低，虚拟奖赏条件下的风险偏好水平并不会随着奖赏幅度的增加而改变。之后的 ERP研究结果同样发现，相较于小额的真实奖赏，被试在大额真实奖赏条件下面临消极反馈时表现出更大的FRN成分。然而，这种差异在虚拟奖赏条件下并未出现(Xuetal.,2018)。本研究证实了这一观点，无论是海洛因戒断者还是正常组被试在真实奖赏风险决策任务中，个体的风险偏好水平会随着奖赏幅度的增加而降低。尽管如此，少许的研究结果同样发现，个体的风险偏好会随着奖赏幅度的增加而升高(Estle et al.,2006; Van et al.,2006)，引起这一差异的主要原因可能是实验任务以及奖赏额度大小的不同。与本研究结果相符的各项实验研究使用了BART，且伴随着更接近真实环境的小额金钱奖励刺激。然而，其他研究则使用了概率折扣任务和IGT 两种经典实验范式，该类任务通常伴随高额金钱奖赏刺激。有研究指出，延迟折扣任务中的高额奖励脱离真实情境，因此个体会低估金钱奖赏的真实价值(Hinvest＆Anderson,2010)。所以，不同金钱奖赏条件诱发的动机性差别可能是影响他们风险决策模式的主要原因。本研究的另一结果也为此假设提供了证据，即被试在虚拟奖赏条件下的风险偏好水平随着奖赏幅度的增加而上升。此外，如前文所述，已有研究表明，真实奖赏条件下的风险决策行为受到奖赏幅度的调节，虚拟奖赏条件下的奖赏幅度对被试的风险决策行为没有影响(徐四华等,2013;Xu et al.,2018)。本研究结果与其不一致的原因可能是选择被试的不同。已有研究以在校大学生为被试，相较于本研究中的成年人被试，他们在行为决策中更加合理，因而奖赏幅度的差异并不显著。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "其次，本研究结果发现，在虚拟奖赏情景中，海洛因戒断者风险偏好水平高于正常人，然而在真实奖赏情景中，海洛因戒断者的风险偏好水平低于正常人。这与已有研究结果存在部分不一致。已有大量研究使用不同的实验范式来考察各类物质成瘾者的风险决策特征，其结果普遍表明，与正常人相比，物质成瘾者表现出更高的风险偏好水平，他们更愿意选择高风险的大额奖赏而非低风险的小额奖赏。例如,Li等人（2013）等人使用IGT任务发现，海洛因戒断者与正常被试相比更倾向于选择不利纸牌;Lejuez等人(2003)使用BART发现吸烟者的未爆破气球按键次数明显高于非吸烟者;Hanson,Thayer 和 Tapert(2014)研究发现，大麻成瘾者相比正常被试爆破气球个数更多。本研究在真实奖赏情景下并未发现海洛因戒断者的风险偏好水平高于正常组被试，原因可能是，本研究所选取的被试属于强制隔离戒毒人员，他们对金钱的价值感知相较于正常人更高，换言之，同等金钱对于强制隔离海洛因成瘾者而言具有更大的交换价值，因而他们更为谨慎，表现出更低的风险偏好行为。虚拟奖赏对于两组被试具有同等意义，可能更准确地反映了海洛因戒断者和正常组被试的风险决策差异。与本研究结果相类似的另一研究使用IGT 发现，可卡因成瘾者在虚拟奖惩条件下进行不利选择的次数显著多于控制组，但在真实奖惩条件下两组被试没有显著差异(Vadhan， Hart，Haney，Gorp& Foltin,2009)。由此可见，使用虚拟奖赏对于评估物质成瘾者的风险决策，尤其是特殊环境下成瘾者的风险决策仍然具有重要意义。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "最后，无论是虚拟奖赏情景还是真实奖赏情景，奖赏幅度对海洛因戒断者和正常组被试的风险决策变化特征具有相同的影响，即虚拟奖赏情景下，两组被试的风险偏好水平随着奖赏幅度的增加而升高；真实奖赏情景下，两组被试的风险偏好水平随着奖赏幅度的增加而降低。造成这一结果的原因可能是，一方面海洛因成瘾者的金钱奖赏敏感性随着戒断时间的增长显示出一定水平的恢复(周平艳等,2014b)，从而表现出与正常人相同的风险决策行为；另一方面本研究仅从行为层面探讨了奖赏幅度对两组被试风险决策变化特征的影响，考虑到行为指标反应不够敏感，因此并未观测到两组被试的风险决策变化特征差异。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "鉴于本研究的不足以及与前人研究结果的不一致，未来的研究仍然需要对以下的问题进行深入探究：(1)虚拟奖赏与真实奖赏对风险决策的影响机制是否相同，以及奖赏幅度对风险决策的影响是否受到奖赏类型的调节。Xu等人(2016)将已有研究关于虚拟金钱奖赏与真实金钱奖赏的不一致结果归纳为延迟奖赏时间长度，奖赏额度以及奖赏概率的不同等因素，具体的原因与结论有待进一步考证。(2)我国的毒品戒断者多处于强制隔离环境，成瘾者的风险决策特征是否会受到所处环境的影响，使用虚拟金钱奖赏来评估成瘾者的风险决策是否相较于真实金钱奖赏更具有优势。(3)后续研究可以通过更为敏感的认知神经科学手段来探究金钱奖赏幅度对其他物质成瘾者(如香烟，酒精等)和正常组被试风险决策的影响差异。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "总体而言，在虚拟奖赏情景中，随着奖赏幅度的增加，海洛因戒断者和正常组被试的风险偏好水平升高；然而，在真实奖赏情景中，随着奖赏幅度的增加，海洛因戒断者和正常组被试的风险偏好水平降低。海洛因戒断者在虚拟奖赏情景中的风险偏好水平高于正常组被试，在真实奖赏情景中的风险偏好水平低于正常组被试。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "致谢：非常感谢匿名审稿人及编委专家为本研究提出的宝贵意见；非常感谢甘肃省第二强制隔离戒毒所对本研究的大力支持。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Alfonso,J.P.,Caracuel,A.，Delgado-Pastor,L.C.,& Verdejo-Garcia,A. (2011).Combined goal management training and mindfulness meditation improve executive functions and decision-making performance in abstinent polysubstance abusers.Drug and Alcohol Dependence,Il7(1),78-81.   \nBechara,A.，Damasio,A.R.，Damasio,H.，& Anderson,S.W.（1994). Insensitivity to future consequences following damage to human prefrontal cortex. Cognition, 50(1-3),7-15.   \nBickel,W. K., Odum,A.L.,& Madden, G.J. (1999). Impulsivity and cigarete smoking: delay discounting in current, never,and ex-smokers.Psychopharmacology, 146(4),447-454.   \nBickel,W.K.,Pitcock,J.A.,Yi,R,&Angtuaco,E.J. (2o09).Congruence ofbold response across intertemporal choice conditions: fictive and real money gains and losses.Journalof Neuroscience the Offcial Journal of the Society for Neuroscience, 29(27), 8839-8846.   \nBlack,A. C.,& Rosen, M.I. (2011).A money management-based substance use treatment increases valuation of future rewards.Addictive Behaviors, 36(1),125-128   \nBolla,K.I.,Eldreth,D.A.,London,E.D.,Kiehl,K.A.,Mouratidis,M.,& Contoreggi,C.,..Ernst,.(2003). Orbitofrontal cortex dysfunction in abstinent cocaine abusers performing a decision-making task. Neuroimage, 19(3),1085-1094.   \nBola,K.I.,Eldreth,D.A.,Matochik,J.A.,& Cadet,J.L. (20o5).Neural substratesoffaultydecision-making in abstinent marijuana users. Neuroimage, 26(2), 480-492.   \nBolla,K.,Erst,,Kiehl,K.,ouratidis,.,dreth,D,Cotoreggi,C.ondonE.().Prefrontalortical dysfunction in abstinent cocaine abusers.Journal of Neuropsychiatry & Clinical Neurosciences，16(4), 456-464.   \nBormovalova,M.A.,Cashman-Rols,A.,ODonnel,J.M.,Etinger,K.,Richards,J.B.,Dewit,H.,&Lejuez,CW. (2009).Risk taking diffrences on a behavioral task as a function of potential reward/loss magnitude and individual differences in impulsivity and sensation seeking.Pharmacology Biochemistry & Behavior, 93(3),   \nBornovalova,M.A.,Daughters,S.B.,Hernandez,G.D.,Richards,J.B.,&Lejuez, C.W. (2oo5).Differences in impulsivity and risk-taking propensity between primary users of crack cocaine and primary users of heroin in a residential substance-use program. Experimental and Clinical Psychopharmacology,13(4),311-318.   \nCrowley,T.J.,Dalwani,M.S.,Mikulichgibertson,S.K.,Du,Y.P.,Lejuez,C.W.,Raymond,K.M.,&Banich,M. T.(2010). Risky decisions and their consequences: Neural processing by boys with antisocial substance disorder. Plos One, 5(9), e12835.   \nErsche,K.D.,Fletcher,P.C.,Lewis,S.J. G., Clark,L.,Stocks-Gee,G.,London,., Sahakian,B.J.(2005). Abnormal frontal activations related to decision-making in current and former amphetamine and opiate dependent individuals. Psychopharmacology, 180(4), 612-623.   \nErsche,K.D,Fletcher,P.C.,Roiser,J.P.,Fryer,T.D.,London,M.,&Robbins,T.W.,&Sahakian,B.J.(2006). Differences in orbitofrontal activation during decision-making between methadone-maintained opiate users, heroin users and healthy volunteers.Psychopharmacology, 188(3),364-373.   \nEstle,S.J., Green,L.,Myerson,J.,&Holt,D.D. (206).Dierentialefectsofamount on temporaland probability discounting of gains and losses. Memory & Cognition, 34(4), 914-928.   \nFein, G., & Chang,M. (2oo8). Smaler feedback ern amplitudes during the bart are asociated with a greater family history density of alcohol problems in treatment-naive alcoholics.Drug & Alcohol Dependence, 92(1-3), 141-148.   \nGarcia-Rodriguez,O., Secades-Villa,R., Weidberg, S.，& Yoon, J. H. (2013). A systematic assessment of delay discounting in relation to cocaine and nicotine dependence. Behavioural Processes, 99(4),100-105.   \nGoldstein,R.Z,Parvaz,M.A., Maloney,T.,Alia-Klein,N.，Woicik,P.A.,Telang,F.,. Volkow,N.D (2008). Compromised sensitivity to monetary reward in current cocaine users: an erp study. Psychophysiology, 45(5), 705-713.   \nGoldstein,R. Z., Tomasi,D.,Alia-Klein,N.,Cotone,L.A.， Zhang,L.，Telang,F.，&Volkow,N.D(2007). Subjective sensitivity to monetary gradients is associated with frontolimbic activation to reward in cocaine abusers. Drug & Alcohol Dependence,87(2-3),233-240.   \nGonzalez,R. Schuster,R.M.,Mermelstein,R.M.,& Diviak,K.R. (2015).The role of decision-making in cannabis-related problems among young adults. Drug & Alcohol Dependence, 154, 214-221.   \nGorini,A.,Lucchiari, C.,Ruell-Edu,W.,&Pravetoni, G. (O14).Modulationofriskychoices inrecentlyabstinent dependent cocaine users: a transcranial direct-current stimulation study. Frontiers in Human Neuroscience,8, 661.   \nHanlon,C.A.,Wesley,M.J.,Stapleton,J.R.,Laurienti,P.J.，&Porino,L.J.(2O11).The assciationbetween frontal-striatal connectivity and sensorimotor control in cocaine users. Drug & Alcohol Dependence,115(3), 240-243.   \nHanson,K.L.,Thayer,R.E.,& Tapert,S.F. (2O14).Adolescent marijuana users have elevated risk-taking on the balloon analog risk task. Journal of Psychopharmacology, 28(11),1080-1087.   \nHevey,D.,Thomas,K.,Laureanoschelten,S.,Looney,K.,&Booth,R. (20l7). Clinicaldepresson and punishment sensitivity on the bart. Frontiers in Psychology, 8,670.   \nHinvest,N.S.,& Anderson,I.M.,(2010).The effects ofreal versus hypothetical reward on delayand probability discounting. Quarterly Journal of Experimental Psychology, 63(6),1072-1084.   \nHopko,D.R.,Lejuez,C.W., Daughters,S.B.,Aklin,W. M., Osborme,A.,Simmons,B.L.,& Strong, D.R(2006). Construct validity of the ballon analogue risk task (bart): relationship with mdma useby inner-city drug users in residential treatment. Journal of Psychopathology & Behavioral Assessment, 28(2),95-101.   \nJi,L.Y.,Chen,N.X.,Ding, J. H.,& Wei,P.,(2015).Monetary incentive modulates the localized attentional interference effect.Acta Psychologica Sinica,47(6),721-733.   \n[纪丽燕，陈宁轩，丁锦红，魏萍.(2015)．奖赏预期调节局部注意干扰效应．心理学报,47(6),721-733.]   \nJohnson,M. W.,& Bickel, W. K.(2002). Within-subject comparison of real and hypothetical money rewards in delay discounting. Journal of the Experimental Analysis of Behavior, 77(2),129-146.   \nKahneman,D.,& Tversky,A. (1979).Prospect theory:An analysisof decisionunder risk. Econometrica,47(2) 263-291.   \nKohno,M., Morales,A. M., Ghahremani, D.G., Hellemann, G.,& London,E.D.(2014). Risky decision-making: prefrontal function and mesocorticolimbic resting-state connectivity in methamphetamine users. Jama Psychiatry, 71(7),812-820.   \nLawrence,A.J.,Luty,J.,Bogdan,N.A., Sahakian,B.J.,&Clark,L. (2o9).Problemgamblerssharedeficitsin impulsive decision-making with alcohol-dependent individuals. Addiction,104(6),1006-1015.   \nLejuez, C. W.,Aklin, W.M.,Jones,H.A.,Richards,J.B.,Strong,D.R.,Kahler, C.W.,&Read,J. P. (2003).The balloon analogue risk task (bart） diffrentiates smokersand nonsmokers. Experimental & Clinical Psychopharmacology, 11(1),263.   \nLejuez,C.W.,Read,J.P.,Kahler, C.W.,Richards,J.B.,Ramsey,S.E.，Stuart,G.L.，..Brown.R.J.(2002). Evaluation of a behavioral measure of risk taking: the balloon analogue risk task (bart). Journal of Experimental Psychology Applied, 8(2),75-84.   \nLejuez,C.W.,Aklin, W.M.,Bornovalova,M.,& Moolchan,E.T. (2005). Differences inrisk-taking propensity across inner-city adolescent ever- and never-smokers. Nicotine & Tobacco Research, 7(1),71-79.   \nLi, X., Zhang,F.,Zhou,Y., Zhang,M., Wang,X.,& Shen,M. (2013).Decision-making deficits are stillpresent in heroin abusers after short- to long-term abstinence. Drug & Alcohol Dependence,130(1-3), 61-67.   \nMadden, G.J.,Begotka,A. M.,Raiff,B.R.,& Kastern,L.L. (20o3). Delay discounting ofreal and hypothetical rewards. Experimental and Clinical Psychopharmacology, 11,139-145.   \nNoel,X.,Bechara,A.,Dan,B., Hanak, C.,& Verbanck,P(207). Response inhibitiondeficit is involved inpoor decision making under risk in nonamnesic individuals with alcoholism. Neuropsychology, 21(6),778-786   \nPasseti,F.，Clark,L.，Mehta,M.A.,Joyce,E.,& King,M. (2008). Neuropsychological predictors of clinical outcome in opiate addiction. Drug & Alcohol Dependence, 94(1-3), 82-91.   \nPetry,N.M. (2O01). Delay discounting of money and alcohol in actively using alcoholics,curently abstinent alcoholics,and controls. Psychopharmacology,154(3),243-250.   \nPetry,N.M.,& Casarella,T. (1999). Excessive discounting of delayed rewards in substance abusers with gambling problems. Drug & Alcohol Dependence, 56(1),25-32.   \nRedish,A.D.,Jensen,S.,&Johnson,A.(2oo8).Aunified framework for addiction: vulnerabilities in thedecision process. Behavioral & Brain Sciences, 31(4),415-437.   \nReynolds,B.,Karaker,K.,Horn,K.,ichards,JB. (O3).Delayandprobabilitydiscountingasrelatedtoirt stages of adolescent smoking and non-smoking. Behavioural Processes. 64(3), 333-344.   \nRogers,R.D.,Everit,B.J.,Baldacchino,A.,Blackshaw,A.J.,Swainson,R.,Wynne,K.,.obbins,TW.(999). Dissociable deficits in the decision-making cognition of chronic amphetamine abusers,opiate abusers,patients with focal damage to prefrontal cortex,and tryptophan-depleted normal volunters: Evidence for monoaminergic mechanisms.Neuropsychopharmacology,20(4),322-339.   \nTian,L M., Yuan, J. C.,& Li, Y. M. (2017). Effects of peer presence and self-esteem on adolescent risk-taking behavior:Evidence from an ERP study. Acta Psychologica Sinica, 50(1), 47-57.   \n[田录梅，袁竞驰，李永梅.(2018).同伴在场和自尊水平对青少年冒险行为的影响：来自 ERPs 的证据．心理 学报, 50(1),47–57.]   \nVadhan,N. P.,Hart, C.L.,Haney,M., Gorp, W. G. V.,&Foltin,R.W. (2009). Decision-making in long-term cocaine users: efects of a cash monetary contingency on gambling task performance.Drug & Alcohol Dependence,102(1-3), 95-101.   \nVaidya,J. G.,Block,R.1.,OLeary,D.S.,PontoL.B.,Ghoneim,M.M.,&Bechara,A. (2012).Effects of chronic marijuana use on brain activity during monetary decision-making. Neuropsychopharmacology Oficial Publication ofthe American Collge of Neuropsychopharmacology, 37(3), 618-629.   \nVan,d.B.R.，Houx,B.B.，& Spruijt, B.M. (2006). The effect of reward magnitude diffrences on choosing disadvantageous decks in the iowa gambling task. Biological Psychology, 71(2),155-161.   \nVerdejo-Garcia,A.,Albein-Urios,N.，Martinez-Gonzalez,J.M., Civit,E.，De,1. T.R.,& Lozano,O. (2014). Decision-making impairment predicts 3-month hair-indexed cocaine relapse. Psychopharmacology， 231(21), 4179-4187.   \nVerdejo-Garcia,A.,Benbrook,A.,Funderburk,F.,David,P.,Cadet,J.L.,&Bolla,K.I. (2O07).Thedifferential relationship between cocaine use and marijuana use on decision-making performance over repeat testing with the iowa gambling task. Drug & Alcohol Dependence, 90(1),2-11.   \nXu,S.H.,Fang, Z.,& Rao,H. Y. (2O13). Real or hypothetical monetary rewards modulates risk taking behavior. Acta Psychologica Sinica, 45(8), 874-886.   \n[徐四华，方卓，饶恒毅.(2013)．真实和虚拟金钱奖赏影响风险决策行为．心理学报,45(8),874-886.]   \nXu,S.,Pan, Y.,，Qu,Z.,，Fang，,Z, Yang,Z. j.，Yang,F.Rao,H. (2018).Differential efectsof real versus hypothetical monetary reward magnitude on risk-taking behavior and brain activity. Scientific Reports, 8.   \nXu, S.,Pan. Y., Wang, Y., Spaeth,A. M., Qu, Z.,& Rao, H. (2016). Real and hypothetical monetary rewards modulate risk taking in the brain.Scientific Reports, $^ { 6 ( 1 ) }$   \nYan,W.S.,Li,S.,& Sui,N. (2011).Research paradigms and neural mechanisms for decision-making deficits in addicts. Advances in Psychological Science,19(5), 652-663. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[严万森，李纾，隋南.(2011).成瘾人群的决策障碍:研究范式与神经机制．心理科学进展,19(5),652-663.]",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Yao,Y. W.,Chen,P.R,Li, C.S.R.,Hare,T.A.,Li,S.,Zhang,J.T.,..Ma,S.S. (2017). Combied reality therapy and mindfulness meditation decrease intertemporal decisional impulsivity in young adults with internet gaming disorder.Computers in Human Behavior; 68(5),210-216.   \nZhao, Q.L.,Li,H. Q.,Hu,B., Wu,H.Y.,&Liu,Q.Y. (2O17).Abstinent heroin addicts tend to take risks: ERPand source localization.Frontiers in Neuroscience,ll(6),1-12.   \nZhao,H. C., Huang, X.L.,& He,Q. H., (2O16). Cognitive dysfunction and underlying neural basis in substance addiction. Chinese Science Bulletin,61(34),3672-3683.   \n[赵海潮，黄小璐，何清华.(2016).物质成瘾所伴随的认知功能缺陷及其神经基础．科学通报,61(34), 3672-3683.]   \nZhou,P.Y.,Liu,D.W.,Zhou,R.L.,Sun,B.L.,Xiao,J.,&Li,S.(2014a).Impairmentof drug addiction on decision making and recovery after abstinence. Chinese Journal of Clinical Psychology,22(6),951-956.   \n[周平艳，刘丹玮，周仁来，孙本良，肖洁，李松.(2014a).药物成瘾对决策行为的损伤及戒断后的恢复．中国 临床心理学杂志,22(6),951-956.]   \nZhou,P.Y.,Liu,D.W., Zhou,R.L.,Sun,B.L., Xiao,J.,&Li,S. (2014b).Sensitivity to monetaryreward indrug abstainers at different post-drug withdrawal phases: An ERP Study. Chinese Journal of Clinical Psychology, 22(6),951-956.   \n[周平艳，刘丹玮，周仁来，孙本良，肖洁，李松.(2014b).不同戒断期毒品戒断者对金钱奖赏敏感性的ERP研 究．中国临床心理学杂志,22(4),571-576.] ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The Influence of Hypothetical and Real Money Rewards on the Risky Decision-making of the Abstinent Heroin User ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Yang Lingl,Wang Binqiang1, Gen Yinfeng², Yao Dongwei1,Cao Hual, Zhang Jianxun1, Xu Qiongyin1   \n( InstituteofSubstanceAddiction and Rehabilitation,Schoolof Psychology,Northwest Normal University   \nLanzhou 73ooo0,China)(Department ofpreschool education, Heze Information Engineering School of ShanDongProvince,Heze,2470o0,China) ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Today,drug abuse is closely being watched by most of society. It has been found that risky decision-making deficit is one of the main characteristics of drug abuse. Drug abusers are facing increasingly negative consequences in their personal,， emotional, professional, and social lives. However,they still prefer to choose immediate reward,and it is difficult for them to make adaptive decisions. Several studies have shown that risky decision-making abilities of heroin addicts are impaired,but few studies have focused on the impact of different levels of monetary reward on risky decision-making for heroin addicts during abstinence and whether such effects are regulated by type of monetary reward. Therefore, this study used the balloon analogue risk task to examine the effects of different levels of hypothetical and real money rewards on risky decision-making in the abstinent heroin user. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Two experiments were included in the study. In Experiment 1,a hypothetical reward was used. however,the participants were asked to imagine the money prizes obtained in the experiment as real money rewards and to obtain as much profit as possible. The results showed that the main effect of the reward magnitude was significant. Post-hoc testing showed the average adjusted pumps (the mean number of pumps for balloons that did not pop) and the total number of popped balloons were significantly less under the 1-cent reward condition compared with the 25-cent reward condition. The main effects of the group were significant, and post-hoc testing showed that the average adjusted pumps and the total number of popped balloons were significantly higher for the abstinent heroin users compared with the non-heroin users. The interaction between the reward magnitude and the group was not significant. Experiment 2 used real rewards. The final rewards of the participants were converted according to their performance in the experimental task. The results showed that the main effect of reward magnitude was marginal significant for the average adjusted pumps and the main effect of the reward magnitude was significant for the total number of popped balloons. Post-hoc testing showed the average adjusted pumps and the total number of popped balloons were significantly higher under the 1-cent reward condition compared with the 25-cent reward condition. The main effects of the group were significant, and post-hoc testing showed that the average adjusted pumps and the total number of popped balloons for the abstinent heroin users were significantly smaller compared with non-heroin users.The interaction between the reward magnitude and the group was not significant. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The results of the study indicate that monetary reward magnitude has the same effect on risky decision-making of the abstinent heroin user as it does on the non-heroin user. The impact of money magnitude on risky decision-making is regulated by type of money reward. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Key wordsthe abstinent heroin users; risky decision-making; monetary reward magnitude; balloon analogue risk task; ",
+        "page_idx": 17
+    }
+]

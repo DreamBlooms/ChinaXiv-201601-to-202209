@@ -1,0 +1,145 @@
+# Inconel625熔敷金属中δ相的形核与粗化机理
+
+# 邸新杰1) 邢希学1) 王宝森2)
+
+1）天津大学天津市现代连接技术重点实验室，天津3000722）宝山钢铁股份有限公司宝钢研究院，上海 201900
+
+摘要利用扫描电镜（SEM）和透射电镜（TEM）研究了 Inconel625 熔敷金属中δ相的形成机理，并揭示了焊后热处理（PWHT）过程中δ相粗化的内在规律．结果表明，经 $8 5 0 \mathrm { ~ \textdegree ~ }$ 焊后热处理的Inconel625 熔敷金属中大量析出的针条状8相呈网格状分布在基体 $\boldsymbol { \gamma }$ 相中，且其附近出现了贫 $\gamma ^ { \prime \prime }$ 相区域.δ相的形成是一个类贝氏体转变的固态相变过程，其晶核是在 $\gamma ^ { \prime \prime }$ 相密排面的层错上通过切变方式形成的．同时,δ相的粗化行为是扩散控制的长大过程。保温时间较短时，实际δ相颗粒的平均尺寸符合LSW 理论，随着保温时间的延长,δ相的高密度、不同向析出特征使得其实际尺寸偏离了经典LSW理论的预测值.
+
+关键词 Inconel625 熔敷金属；焊后热处理；δ相；形核；粗化 中图法分类号 TG401 文献标识码A 文章编号 0412—1961(200×)×—××—×
+
+# NUCLEATIONANDCOARSENINGMECHANISM OF 8 PHASE IN
+
+# INCONEL625DEPOSITEDMETAL
+
+DI Xinjie, XING Xixue   
+Tianjin Key Laboratory of Advanced Joining Technology Tianjin University, Tianjin 300072   
+WANG Baosen   
+Baosteel Research Institute,Baoshan Iron &Steel Co., Ltd., Shanghai 201900   
+Correspondent: DI Xinjie, associate professor, Tel:022-27405889, $E$ -mail: dixinjie@ tju.edu.cn   
+Supported by Tianjin Natural Science Foundation (No.llJCYBJCO6OO0) and the Key Project of   
+Tianjin Municipal Science and Technology Support Program (No.11ZCGYSF00100)   
+Manuscript received $2 0 0 ^ { * } - * * - * *$ , in revised form $2 0 0 ^ { * }$ \*\*\*\*
+
+ABSTRACTUsing Inconel625 wire to weld high yield strength steels or stainless steels that commonly used in nuclear power plant components and gas turbines can significantly improve high temperature mechanical properties and corrosion resistance of weld structure. However, toughness fatigue strength and creep rupture strength of weld would decline obviously because of the precipitation of δ phase during service at elevated temperatures for a long time. This paper aims to investigate nucleation mechanism of δ phase in Inconel625 deposited metal by means of SEM and TEM. Meanwhile, coarsening inherent law of δ phase during post-weld heat treatment (PWHT） at $8 5 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ for 2,4 and $8 \mathrm { ~ h ~ }$ respectively was revealed. The results indicate that a large number of needle-like δ phase precipitates in Inconel625 deposited metal after PWHT at $8 5 0 \ \mathrm { { ^ \circ C } }$ . These δ phases appear a grid-like distribution in $\gamma$ -matrix, and there are some poor $\gamma ^ { \prime \prime }$ phase regions appearing near S phase. Formation process ofS phase is asolid phase transformation process which is like bainite transformation in steels. Crystal nucleus of δ phase form in the close-packed plane of $\gamma ^ { \prime \prime }$ phase by shear mode, and coarsening behavior of S phase is a diffusion-controlled growth process. When PWHT holding time is shorter,actual average size of S phase is in line with LSW theory. With PWHT holding time extending,its actual average size deviates from the predicted value of classical LSW theory，because of the high-density and non-directional precipitation characteristics of δ phase.
+
+KEY WORDsInconel625 deposited metal, post-weld heat treatment, δ phase, nucleation, coarsening
+
+Inconel625 合金是一种加入Mo,Nb,Ti,Si,Fe,Al 等元素形成弥散γ'相[Ni(Al,Ti,Nb)]或亚稳定 $\gamma ^ { \prime \prime }$ 相 $( \mathrm { N i } _ { 3 } \mathrm { N b } )$ ）增强的镍、銘基固溶体[1-4]．由于该合金在中、高温（ $6 0 0 { \ - } 9 0 0 \ \mathrm { ^ circ C }$ ）环境中工作时仍具有较高的力学性能和良好的耐蚀性及抗氧化性，被广泛应用于航天航空、燃气轮机和核电设备的热端部件及一些其它特殊工业领域，例如复合材料模具和低温液体处理[5-8]．因此,Inconel625 焊丝不但被用于焊接镍基合金本身，而且常用于低合金高强钢或不锈钢等金属材料的连接，可以显著提高焊件的高温力学性能和耐蚀性能[9,10]．然而，当焊件在中、高温环境中长期工作时，焊缝组织中金属间化合物8相（ $\mathrm { \Delta N i _ { 3 } N b }$ ）的析出，使焊缝的疲劳强度、蠕变强度等一系列力学性能迅速下降，进而导致焊接结构的失效[11-13]．因此，控制镍基合金焊缝组织中8相的析出就显得极为必要.
+
+目前，针对8相的研究已经取得一定的进展Sundararaman 等人[14]将 Inconel625 合金在 $7 5 0 \ \mathrm { { ^ \circ C } }$ 下保温 $^ { 1 0 0 \mathrm { ~ h ~ } }$ 后，发现其组织中有少量的8相析出,而在 $7 0 0 \ \mathrm { ~ \textdegree ~ }$ 下进行类似的热处理时，则没有观察到8 相的析出．当时效温度升高到 $8 0 0 \mathrm { ~ ‰ ~ }$ 时，该合金组织中析出了大量的δ相.Huang 和Langdon[15]及Zhang 等[16]研究发现，Inconel718合金在等温压缩变形过程中，其组织中的平板状8相会发生溶解和断裂，结果导致平板状8相发生球化，并转变成球状8相颗粒.8相一直被认为是镍基高温合金中的一种有害相，但近期研究[17,18]发现,δ相可以有效的阻止晶界滑移，并可以控制晶粒尺寸.
+
+本课题组研究发现，与一般供货状态Inconel625合金的组织结构不同，焊态Inconel625熔敷金属的显微组织由大小不均匀的柱状Ni-Cr奥氏体和少量的块状 MC 型碳化物(M 为 Nb 和 Ti)、颗粒状Laves相及弥散分布的y'相组成．将焊态Inconel625熔敷金属在850℃进行焊后热处理（PWHT）时，其微观组织中析出了大量的y"相和8相．当熔敷金属中含有大量的8相时，其疲劳强度、蠕变强度及韧性将明显下降，这和文献[11]—[13]的研究结果一致．然而，已有的报道中并未对熔敷金属中8相的形成机理及其粗化规律进行系统、深入的研究.
+
+在之前研究的基础上，本工作借助 SEM和TEM，进一步研究了Inconel625熔敷金属中δ相的形态、结构及其分布特点，并对其形成机理进行了深入探讨．同时，揭示了在 $8 5 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 不同PWHT保温时间后8相粗化的内在规律.
+
+# 1 实验方法
+
+利用钨极氩弧焊（GTAW）的方法将Inconel625焊丝堆焊在Q235B钢板上．熔敷金属的化学成分（质量分数， $0 \%$ ）为： $\mathrm { ~ C ~ } 0 . 0 1$ ， $\mathrm { { M n ~ 0 . 0 9 } }$ ，Si 0.08,Cr22.66,Mo 8.71, Nb 3.53, Fe 0.32, $\operatorname { C u } 0 . 0 1$ , Al 0.14, Ti0.21，Ni余量．焊接时采用的工艺参数为：焊接电流 $( 1 1 0 \pm 5 )$ A，焊接电压 $( 1 3 \pm 0 . 5 ) \$ V，焊接速度(25$\pm 1$ ） $\mathrm { { m m } } / \mathrm { { m i n } }$ ，层间温度 $( 1 0 0 \pm 5 )$ $\mathrm { { ^ \circ C } }$ ，焊丝直径2.5$\mathrm { m m }$ ，焊接完成后，沿焊接方向将熔敷金属等分为4组（图1），第I组用于焊态组织观察，第II,III,IV组分别用于在 $8 5 0 \ \mathrm { ~ ^ { \circ } C }$ 保温2，4和 $^ \textrm { \scriptsize 8 h }$ 的PWHT.切取焊态及PWHT后的熔敷金属试样，经过镶嵌、磨制、抛光和腐蚀制成相应的金相试样．借助JEOLJSM-6360LV型SEM观察熔敷金属的微观组织结构，并采用PHILIPSCM200型TEM对熔敷金属中的析出相进行结构观察及选区电子衍射分析.
+
+![](images/f5b624cd611725e10c7df97f0aa7dbab2dbd82df961dae4e15dea831ee313dfc.jpg)  
+图1堆焊试件示意图
+
+# 2实验结果及分析
+
+# 2.1 熔敷金属中的δ相
+
+图2为焊态及PWHT后Inconel625熔敷金属微观组织的SEM像．由图2可见，焊态Inconel625熔敷金属中只有少量的MC型碳化物和Laves相析出而经850℃PWHT的熔敷金属中，除MC型碳化物和Laves 相外，还析出了大量的针条状二次相，该析出相呈网格状分布在熔敷金属组织的晶粒内部.在TEM下对其进一步观察，结果如图3所示．由图3a可见，熔敷金属中的针条状二次相主要有3个不同的取向，且其附近出现了贫 $\gamma ^ { \prime \prime }$ 相区域．放大后观察可知，该析出相的精细亚结构主要为层错(图3b).图3c为图3b中针条状二次相的选区电子衍射谱图.对其衍射斑点进行标定可知，该析出相是具有斜方晶体结构的δ相，其晶格常数分别为 $\mathrm { a } { = } 0 . 5 1 ~ \mathrm { \ n m }$ $\mathsf { b } { = } 0 . 4 3 ~ \mathrm { n m }$ $\mathrm { c } { = } 0 . 4 6 \ \mathrm { n m }$ ．此外，由图3c还可以判断出δ相和基体 $\gamma$ 相之间存在以下的位向关系：$\left( 1 1 0 \right) _ { \delta } / / \left( 2 2 0 \right) _ { \gamma }$ ; $[ 1 \overline { { 1 } } 1 ] _ { \delta } / / [ 0 0 4 ] _ { \gamma }$ ，即δ相和基体γ相共格．能谱分析结果（图3d）显示，δ相中富含Ni和 $\mathrm { N b }$ ，且 ${ \mathrm { N i } } { \mathrm { : N b } } { \approx } 3 { : } 1$ ，因此和 $\gamma ^ { \prime \prime }$ 相一样,δ相的化学式可以表示为 $\mathrm { N i } _ { 3 } \mathrm { N b }$
+
+![](images/4ef42f9a9734dea524f1e8101bab759f98c48c6c609570b5d508a55008e17d0a.jpg)  
+Fig.1Schematic diagram of overlay welding sample   
+图2Inconel625 熔敷金属组织的SEM像
+
+Fig.2SEM images of Inconel625 deposited metal(a) as-welded(b)after post-weld heat treatment at $8 5 0 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ for 4h
+
+![](images/a8cdc83279062758614e431a9dcb03c7cb1f163d25a4541f7f3f73d3045b24e4.jpg)  
+图3Inconel625熔敷金属中δ相的TEM像、选区电子衍射谱及能谱图  
+3TEM images and corresponding SAED patterns and EDS of S phase in Inconel625 deposited meta (a) low magnified TEM image(b) high magnified TEM image (c) SAED of point I shown in Fig.3b (d) EDS of point II shown in Fig.3b
+
+# 2.2 8相的形核
+
+对8相的形成过程进行深入分析，结果如图4所示．由图可见，在PWHT过程中，随着热处理温度的升高，合金元素的扩散速度及其在基体中的溶解度都不断增加，导致熔敷金属中的Laves相不断溶解，同时释放出了大量的Nb 原子．而 $\gamma ^ { \prime \prime }$ 相的析出温度范围是 $6 7 8 { \mathrm { - } } 9 3 6 \ \mathrm { ~ \textdegree }$ []，因此首先在熔敷金属中析出了大量的 $\gamma ^ { \prime \prime }$ 相．随着热处理过程的进行,熔敷金属中的 $\gamma ^ { \prime \prime }$ 相与基体γ相失去共格，并从基体中析出．因此，在 $\gamma ^ { \prime \prime } / \gamma$ 界面处产生了较大的晶格畸变，导致在 $\gamma ^ { \prime \prime }$ 相的密排面上出现错排，从而产生层错（图4a）．熔敷金属中 $\gamma ^ { \prime \prime }$ 相密排面原子层的堆垛顺序为：A1B1C1A2B2C2A1B1C1，当有一条不完全位错滑过 B2 面时，产生新的原子堆垛顺序：A1B1C1A2C1A2C2A1B1C1，形成的新的层错为3个连续的CACA堆垛型结构，这正好是δ相的晶体结构特征[19.20]，即δ相在 $\gamma ^ { \prime \prime }$ 相密排面的层错上通过切变的方式形核（图4b）.
+
+完成形核的8相沿着阻力最小的方向！ $( \gamma ^ { \prime \prime }$ 相的3个不同的密排方向）不断长大，这使得长大后的8相有且仅有3个不同的取向．在8相生长的过程中将与其它 $\gamma ^ { \prime \prime }$ 相相交，从而使得 $\gamma ^ { \prime \prime }$ 相中产生新的层错．8相会在这些新产生的层错处进一步形核使得熔敷金属中δ相的含量不断增加（图4c）.图4d为图4c中8相的选区电子衍射谱图.对其衍射斑点进行标定可知,δ相和 $\gamma ^ { \prime \prime }$ 相之间存在以下的位向关系:$( 0 2 0 ) _ { \delta } / / ( 0 1 0 ) _ { \gamma ^ { \ast } } ; [ 2 0 \overline { { { 4 } } } ] _ { \delta } / / [ 0 0 3 ] _ { \gamma ^ { \ast } }$
+
+![](images/a774cdb8d179b5e506b809d8abce11c52817a8b81e4c9e655584c70040093cd8.jpg)  
+图4Inconel625熔敷金属中δ相的形成过程及其电子衍射普  
+Fig.4Formation process of δ phase in Inconel625 deposited metal and its SAED patterns (a) $\gamma ^ { \prime \prime }$ phase with stacking faults(b) dislocations slide over stacking faults in $\gamma ^ { \prime \prime }$ phase (c)δ phase (d) SAED of Point I shown in Fig.4c
+
+# 2.3 8相的粗化
+
+图5为Inconel625熔敷金属在 $8 5 0 \ \mathrm { { ^ \circ C } }$ 分别保温2,4和 $8 \textup { h }$ 后其组织中8相的TEM像．由图5可以看出，随着保温时间的延长，熔敷金属中8相的平均尺寸不断增大，其含量也不断增加．表1为实验中测得的熔敷金属中δ相的平均尺寸（平均长度 $\bar { l }$ 和平均宽度 $\overline { { \boldsymbol { w } } }$ ），对其分析可知,δ相的平均长度 $\bar { l }$ 和平均宽度 $\overline { { \boldsymbol { w } } }$ 都与 $\mathbf { t } ^ { 1 / 3 }$ 成线性关系（图6），符合LSW 理论[21,22]，即:
+
+$$
+\overline { { d } } ^ { 3 } - \overline { { d } } _ { 0 } ^ { 3 } = k t
+$$
+
+式中， $\overline { d } ^ { 3 }$ 为时效后析出相颗粒的平均直径，nm;$\overline { { d } } _ { 0 }$ 为 $\mathrm { \ t { = } t _ { 0 } }$ 时析出相颗粒的平均直径，nm; $\mathbf { k }$ 为析出相的长大速率, $n m ^ { 3 } / h$ ;t为保温时间,h.
+
+将表1中的实验数据代入式（1），得到8相平均长度 $\bar { l }$ 和平均宽度 $\overline { { \boldsymbol { w } } }$ 的长大速率分别为 $1 . 0 6 \times 1 0 ^ { 9 }$ $n m ^ { 3 } / h$ 和 $2 . 0 4 \times 1 0 ^ { 5 } ~ n m ^ { 3 } / h$ ，其长度方向的长大比宽度方向更为显著．由图6还可以看出，在热处理保温时间为8h时，实际δ相的平均长度 $\bar { l }$ 的值比计算值略小，而其实际平均宽度 $\overline { { \boldsymbol { w } } }$ 的值比计算值略大.
+
+表1不同保温时间下8相的平均尺寸  
+Table 1The average size of δ phase at different hold time   
+
+<html><body><table><tr><td>Hold time, h</td><td>i,nm</td><td>w,nm</td></tr><tr><td>2</td><td>913</td><td>57</td></tr><tr><td>4</td><td>1423</td><td>84</td></tr><tr><td>8</td><td>1894</td><td>136</td></tr></table></body></html>
+
+图7为δ相平均长度 $\bar { l }$ 与平均宽度 $\overline { { \boldsymbol { w } } }$ 的比值 $K$ 随PWHT保温时间的变化规律．由图7可见，随着保温时间的延长， $K$ 值不断增大但其增大速度不断降低．研究[23.24]表明，与基体 $\gamma$ 相共格析出的δ相的最终形状不仅取决于最小界面能判据，还要满足最小弹性能准则，即:
+
+$$
+K = \frac { { { \gamma } _ { L } } } { { { { \gamma } _ { W } } } } + \frac { \pi { { A } \mathrm { t } } } { 1 2 { { \gamma } _ { W } } }
+$$
+
+式中， $\gamma _ { \textup { L } }$ 和 $\gamma _ { \mathrm { ~ W ~ } }$ 分别为δ相纵向和横向与基体γ相之间的界面能， $K J / m o l { \mathrm { ~ ; ~ } } { \mathrm { ~ A ~ } }$ 是与错配度有关的参量．由式(2)可知，当δ相尺寸很小，即 $\mathrm { \bf A } {  } 0$ 时， $K$ 值趋向于纵向和横向两界面能之比；随着8相的长大，其弹性应变能不断增加，当8相粗化长大到一定程度时， $K$ 值大小主要取决于8相的弹性应变能，从而导致 $K$ 值不断增大；当δ相与基体γ相之间失去共格后， $K$ 值的增大速度降低．这与图7所示的实际测得的 $K$ 值随保温时间增加快速增大而后趋于平缓的变化规律相一致.
+
+![](images/ba3f45c615804fd264276517e90b83c83567ff437e50e30df14da1a18601f621.jpg)  
+图5Inconel625熔敷金属在850℃保温不同时间后δ相的TEM像
+
+Fig.5 TEM images of S phase in Inconel625 deposited metal after post-weld heat treatment at $8 5 0 \ \mathrm { { ^ \circ C } }$ for different holding times
+
+![](images/c55d5c161c5c0bd8411bba93b5aaf53c9c5abace9bb4f05977a66e5206101860.jpg)  
+图6在 $8 5 0 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 下8相的平均尺寸与热处理保温时间的关系 Fig.6 Relationship between average sizes of δ phase and the cube root of post-weld heat treatment holding times at $8 5 0 \ \mathrm { { ^ \circ C } }$
+
+# 3 分析讨论
+
+由以上分析可知，Inconel625熔敷金属中δ相的析出是一个固态相变的过程.8相在y"相密排面的层错上的形核是通过切变的方式进行的，同时在δ相的长大过程中伴随着Nb原子的扩散[6.20]，因此8相是γ"相通过类贝氏体转变方式形成的．由于8相是在γ"相密排面的层错上形核的，且δ相晶核的长大也将沿着阻力最小的方向（γ"相的密排方向）进行，因此长大后的δ相有且只有3个不同的取向,其周围出现了贫 $\gamma ^ { \prime \prime }$ 相区域（图3a和图5）.
+
+随着保温时间的延长，熔敷金属中的8相不断长大，当不同取向的δ相相互连接时，δ相的长大受到抑制，随着8相尺寸的增大和含量的增加这种抑制效果更加显著，使得实际8相颗粒的平均尺寸偏离了经典LSW理论的预测值.此外,Burke和Miller[25]研究发现δ相与基体γ相的高错配度产生的较大应变能增加了δ相偏聚长大的驱动力，而且δ相的高密度析出特征也增加了δ相之间的偏聚长大的可能性．显然，这种偏聚长大也是导致实际δ相颗粒的平均尺寸与经典LSW 理论的预测值不一致的原因之一.
+
+![](images/8f72a97ac6540ae922c5342f6fc14ec3b34a1f3f6209ef7f12c16b52d334baf6.jpg)  
+图7在 $8 5 0 \ \mathrm { ~ \textdegree ~ }$ 下焊后热处理保温时间对8相 $K$ 值的影响 Fig.7 Effect of post-weld heat treatment holding times on $K$ value of δ phase at $8 5 0 \ \mathrm { { ^ \circ C } }$
+
+# 4结论
+
+（1）经 $8 5 0 \mathrm { ~ \textdegree ~ }$ PWHT的熔敷金属中析出了大量的针条状δ相，这些不同取向的δ相呈网格状分布在基体相中，且其附近出现了贫 $\gamma ^ { \prime \prime }$ 相区域.
+
+(2)δ相的形成是一个类贝氏体转变的固态相变过程.δ相在 $\gamma ^ { \prime \prime }$ 相密排面的层错上通过切变方式形核，且晶核沿着 $\gamma ^ { \prime \prime }$ 相的密排方向不断长大.
+
+（3）8相的粗化行为是扩散控制的生长过程保温时间较短时，8相的平均尺寸符合LSW理论,随着保温时间的延长,8相的高密度、不同向析出特征使得其实际尺寸偏离了LSW理论的预测值.
+
+# 参考文献
+
+[1] Special Metals Corporation Products,， INCONEL $\textsuperscript { \textregistered }$ alloy 625, www.specialmetals.com/products   
+[2] Murr L E, Martinez E, Gaytan S M. Metall Mater Trans, 2011; A42: 3491   
+[3] Xu Y L, Ran Q X,Li J, Peng J C, Xiao X S, Cao X L, Jia G Q. Mater Sci Eng, 2013; A569: 27   
+[4] Paul C P, Ganesh P, Mishra S K, Bhargava P,Negi J, Nath A K. Opt Laser Technol,2007; 39: 800   
+[5] Evans N D, Maziase P J, Shingledecker JP, Yamamoto Y. Mater Sci Eng, 2008; A498: 412   
+[6] Dupont JN, Lippold JC, Kiser S D. Welding Metallurgy and Weldability of Nickel-base Alloys. New Jersey: John Wiley & Sons,2009: 47   
+[7] Shankar V, Bhanu Sankara Rao K, Mannan S L,J Nucl Mater; 2001; 288: 222   
+[8] Smith GD,Tillack D J,Patel S J. In: Loria E A ed., Superalloys718, 625， 706 and VariousDerivatives, Warrendale PA: The Minerals Metals & Materials Society, 2001: 35   
+[9] Janaki Ram D J, Venugopal Reddy A, Prasad Rao K, Madhusudhan Reddy G. J Mater Proc Technol,2005;167: 73   
+[10] Shoemaker L E.In: Loria E A ed., Superalloys718,625, 706 and Various Derivatives,Warrendale PA: The Minerals Metals & Materials Society,2005: 409   
+[11] Cortial F, Corrieu JM,Vernot-Loier C.Metall Mater Trans, 1995; A26: 1273   
+[12] Mathew MD, Bhanu Sankara Rao K, Mannan S L. Mater Sci Eng, 2004; A372: 327   
+[13] Mathew M D, Parameswaran P, Bhanu Sankara Rao K. Mater Charact, 2008; 59: 508   
+[14] Sundararaman M,Mukhopadhyay P, Banerjee S. Metal Trans,1988; A19: 453   
+[15] Huang Y,Langdon TG. J Mater Sci, 2007; 42: 421   
+[16] Zhang HY, Zhang S H,Cheng M, Li Z X. Mater Charact, 2010; 61: 49   
+[17] Yeh A C,Lu K W, Kuo CM,Bor HY, Wei CN. Mater Sci Eng,2011; A530: 525   
+[18] Kuo C M, Yang Y T, Bor HY, Wei C N, Tai C C. Mater Sci Eng,2009; A510-511: 289   
+[19] Dong J X, Xie X S, Wang M. Ordnance Mater Sci Eng, 1993; 16: 51   
+[20] Xie X S, Dong J X, Fu S H, Zhang M C. Acta Metall Sin, 2010; 46: 1289   
+[21] FootnerPK,Richards BP.JMater Sci,1982; 17: 2141   
+[22]Smokingermain R E,translated by Zhang R J.Modern Physical Metallurgy.Beijing:Metallurgical Industry Press, 1980: 176 (SmokingermainRE著，张人洁译.现代物理冶金学. 北京：冶金工业出版社,1980:176)   
+[23] CahnJW.Acta Metall,1966;14:83   
+[24] OrianRA.Acta Metall,1964;12:1399   
+[25]Burke M G, Miller M K.Precipitationin Alloy718. Pennsylvania:TMS,1991: 3377

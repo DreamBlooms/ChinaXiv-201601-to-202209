@@ -1,0 +1,349 @@
+[
+    {
+        "type": "text",
+        "text": "化学热力学方法对工质热稳定性的预测与实验验证",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "戴晓业1 安青松2 骞伟中史琳1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．清华大学热科学与动力工程教育部重点实验室，北京100084;2.天津大学中低温热能高效利用教育部重点实验室天津大学机械工程学院，天津300072;3.清华大学化学工程系绿色反应工程与工艺北京市重点实验室，北京100084)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要利用 $\\mathrm { 1 5 0 { \\sim } 3 5 0 ^ { \\circ } C }$ 热源范围的中高温有机朗肯循环在可再生能源和工业余热利用领域具有广泛的应用前景。但是在中高温热源温度下，有机工质可能会发生热分解，因此热稳定性成为中高温有机朗肯循环工质筛选的首要限制条件。本文提出一种化学热力学方法来对有机工质的热稳定性进行预测。首先通过理论分析给出可能的反应途径；再选择吉布斯函数作为指标，计算各反应中 $\\Delta G = 0$ 时的温度，以最小值 $T _ { \\mathrm { g } }$ 作为表征热稳定性的参数。通过与已有的实验结果比较，发现不同有机工质 ${ T _ { \\mathrm { g } } }$ 值的相对大小关系与热分解温度的相对大小关系基本一致。使用化学热力学方法对 R152a 的热分解温度范围进行预测并设计实验进行验证，实验结果与预测结果相符合。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词有机朗肯循环；热稳定性；化学热力学；吉布斯函数中图分类号：TK123 文献标识码：A 文章编号:0253-231X(2017)04-0679-05",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chemical Thermodynamics PredictiOh Method for the Working Fluid Thermal Stability ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DAI Xiao-Ye1 AN QingSong2 QIAN Wei-Zhong? SHI Lin1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.KeyLaboratoryof Thermal ScienceandPoWEngineringof Ministryof EducationofChina,Departmentof Thermal Engineering! singhua University，Beijing 100084,China; 2.KeyLaboratoryofEficient UtilizationLwandMedium GradeEnergyMOE,Scholof MechanicalEngineeing,ianjin University， Tianjin 300072,China; 3.BeijingKeyLaboratory ofGi een Shemical Reaction Engineering and Technology, Department of Chemical Engineering, Tsinghua University，Beijing 100084,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract The high temperature ( $\\mathrm { ^ { \\prime } 1 5 0 { \\sim } 3 5 0 ^ { \\circ } C }$ ） Organic Rankine Cycles (ORC) have wide application prospects in the renewable energy utilization and industry waste heat recovery. The working fuid thermal stability is the primary limitation for the high temperature ORCs due to the decomposition of working fluids at high temperatures. This paper presented a chemical thermodynamics prediction method for the working fluid thermal stability. The possible reaction paths were first analyzed by theory. The temperature of each reaction was calculated when the Gibbs function change was zero and the minimum value $\\it { \\mathcal { Z } } _ { \\mathrm { g } } ^ { \\times \\sum } \\dot { \\bf w } ^ { \\mathrm { a s } }$ chosen as the indicator of thermal stability. The relative values of $T _ { \\mathrm { g } }$ were consistent with the relative values of existing experimental decomposition temperatures.A decomposition experiment was designed to verify the prediction method with R152a as test fuid. The results showed that the prediction result was consistent with the experimental result. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key wordsorganic rankine cycle (ORC); thermal stability; chemical thermodynamics; Gibbs function ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "有机朗肯循环 (Organic Rankine Cycle，ORC)是一种具有广泛应用价值的热电转换技术，目前在太阳能、地热、生物质能和工业余热利用等领域都有着良好的应用前景[1-4]。有机朗肯循环适用的热源温度范围很广，当热源温度比较低时，系统的热效率会受到热源温度的限制，从而造成整个系统的经济性的下降。因此目前利用 $1 5 0 { \\sim } 3 5 0 ^ { \\circ } \\mathrm { C }$ 热源范围的中高温有机朗肯循环受到广泛的关注，被认为是有机朗肯循环技术今后发展的重要方向之一。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "但是在较高的热源温度下，有机工质就可能会发生热分解。工质一旦在系统中发生分解，产生的不凝性气体可能造成冷凝压力的提高，引起系统输出的下降；产生的固态产物可能会覆盖在换热器表面影响换热，甚至可能堵塞管道或者损毁活动部件，影响系统的安全运行[5]。因此在中高温有机朗肯循环的工质筛选研究中，有机工质的热稳定性应该是首先要考虑的筛选条件。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前针对有机工质热稳定性的研究，主要集中在热分解实验方面。Calderazzi 等[]以不同温度下有机工质的压力变化和反应前后饱和蒸汽压的变化作为是否发生热分解的判断依据，对R134a、R141b、R13I1、R7146和R125等有机工质的热稳定性进行了实验研究。Angelino 等[7]使用和Calderazzi 等相近的方法，通过实验获得 R227ea、R23、R236fa、R143a和R245fa等HFC类有机工质的安全使用温度。Andersen 等[8]对正戊烷、异戊烷、新戊烷、苯和甲苯等碳氢类工质在 $3 1 5 ^ { \\circ } \\mathrm { C }$ 下的热分解率进行了测量，提出用一级反应模型来计算工质的反应速率常数，并实验发现了压力对于这些碳氢类工质热分解的影响极小。Dai等[9]建立了适合肴机工质热稳定性的化学动力学模型，并设相关实验，获得了正戊烷的表观动力学参数此外，其他工质如正丁烷、异丁烷、环戊烷等的安全使用温度以及热分解产物也由Pasetti等以及戴晓业等[11-13]以不同的实验研究方获得。总的来说，目前已经有部分有机工质的实验研究结果，但是这些研究结果大多是针对具体的某一种工质，且实验方法比较复杂。适合有机朗肯循环的有机工质有上百种，不可能每一种都进行热分解实验来获得热稳定性数据。因此需要有一种便于操作的理论预测方法，来对有机工质的热稳定性数据范围进行大致的预测，方便实际工质筛选工作的进行。目前针对有机工质热稳定性的理论预测，专门的研究结果还比较匮乏。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文提出一种对有机工质热稳定性进行预测的化学热力学方法，使用便于计算的热力学参数来表征有机工质的热稳定性，选择有机朗肯循环中最常用的烷烃类和HFC类工质进行了方法分析，并设计了相关实验对预测方法进行了验证。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1理论与实验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于化学反应过程，通常需要从化学热力学和化学动力学两个方面进行分析。化学动力学主要研究反应可能的历程以及反应速度的快慢；化学热力学主要研究反应发生的可能性以及方向性。动力学研究方面，通常需要大量精确的动力学实验或者量子化学层面的反应历程分析，一般是复杂且较难获得的；热力学研究方面，如果反应方程式已经获得，单纯计算化学热力学参数是比较容易实现的。有机工质的热分解一般来说与工质分子本身的分子结构有关，这些结构上的不同在热力学参数中也会反应出来，因此选择化学热力学分析方法作为有机工质热稳定性的预测方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在化学热力学参数中，通常使用吉布斯函数来判断反应发生的方向。对于定温定压系统，自发的反应总是朝着吉布斯函数减少的方向进行，即$( \\mathrm { d } G ) _ { T , P } \\leqslant 0 .$ 。因此对于给定的化学反应方程式，当$\\Delta G > 0$ 时，反应是无法自发进行的；当 $\\Delta G = 0$ 时，反应恰好达到平衡态；当 $\\Delta G < 0$ 时，反应才能自发的进行。因此当 $\\Delta G = 0$ 时的温度是反应在热力学上可以自发发生的最低温度。对于给定的某一有机工质，其分解途径可能有多种，需要对每个可能的反应都进行热力学计算，以各个反应中 $\\Delta G = 0$ 时温度 $T _ { G = 0 }$ 的最小值作为预测指标,本文中称其为热力学分解温度 $T _ { \\mathrm { g } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于定温定压条件下反应的吉布斯函数变化$\\Delta G$ ，可以用范特霍夫等温式来计算。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta G ( T , P ) = \\Delta \\mathrm { g } ^ { \\theta } ( T ) + R T \\sum _ { i } \\ln \\left( \\frac { p _ { i } } { p ^ { \\theta } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\Delta \\mathrm { g } ^ { \\theta } ( T )$ 是温度为 $T$ 、压力为参考压力 $p ^ { \\theta } =$ $1 0 1 . 3 2 5 ~ \\mathrm { k P a }$ 时的吉布斯函数变化量，只与温度有关系； $p _ { i }$ 是 $\\mathbf { \\chi } _ { i }$ 物质的分压力，对于生成物值为正，反应物值为负。其中 $\\Delta \\mathrm { g } ^ { \\theta } ( T )$ 可以由化学热力学软件HSCChemistry 6.0 计算获得。HSC Chemistry 由芬兰Outotec研究中心开发研制，是目前世界上使用最广泛的热力学数据软件之一。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了对预测的结论进行验证，需要设计相应的热分解实验。由于不同的实验方法对于热分解温度的具体数值判断会存在差距，本文使用与对比文献中相同的压力法来进行验证实验，即使用工质在高温下的压力变化来表征热分解是否发生。具体实验使用的反应装置以及具体实验方法同文献[9]中相同，这里不再赘述。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果与讨论",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1化学热力学参数 $T _ { \\mathrm { g } }$ 计算",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.1烷烃类工质 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "要计算化学热力学参数，首先需要对可能发生的反应途径进行分析。对于烷烃类的工质，可以用Rice和Herzfeld提出的链式有机物热分解反应理论来对反应历程进行理论推测[14]。主要包括三个步骤：1）引发反应：反应物分子在它的最弱的键上分解产生原始的自由基。对于烷烃类工质，C-C键的强度要远小于C-H键的强度，因此引发反应主要是C-C 键断裂的过程。2)持续反应：原始自由基中的一个自母体分子中夺取氢原子，形成较小的饱和分子和一个新的自由基。对于烷烃类来说，新自由基的自分解比与母体反应更容易进行，因此复杂自由基易脱氢为烯类。3）断链反应：断链发生于自由基的复合或歧化反应。以正戊烷为例，通过以上的反应历程分析，可以获得如下三个不同的反应途径：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Reactionl: $\\mathrm { C _ { 5 } H _ { 1 2 } } \\mathrm { = C _ { 4 } H _ { 8 } + C H _ { 4 } }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Reaction2: $\\mathrm { C _ { 5 } H _ { 1 2 } } { = } 2 \\mathrm { C _ { 2 } H _ { 4 } } { + } \\mathrm { C H _ { 4 } }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Reaction3: $\\mathrm { C _ { 5 } H _ { 1 2 } } { = } \\mathrm { C _ { 3 } H _ { 6 } } { + } \\mathrm { C _ { 2 } H _ { 4 } } { + } \\mathrm { H _ { 2 } }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分别对这三个反应进行吉布斯函数变化值的计算，本文中吉布斯函数计算都假设反应分解率为$1 0 \\%$ ，其在不同压力下 $\\Delta G = 0$ 时的温度值 $T _ { G = 0 }$ 的计算结果如图1所示。 山",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff3927d6b087903e18d97e3c59f20cf05b7ce5be6c087daef5519e2d6564d76b.jpg",
+        "img_caption": [
+            "图1 正戊烷三个分解反应在不同压力下的 $T _ { G = 0 }$ 值Fig.1 $T _ { G = 0 }$ of n-pentane decomposition reactions indifferent pressures"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图1可以看出，不同反应途径之间 $T _ { G = 0 }$ 值的大小相差是很大的，以 $\\mathrm { 5 \\ M P a }$ 时为例，三个反应的$T _ { G = 0 }$ 分别为202、380和 $5 1 6 ^ { \\circ } \\mathrm { C }$ ，相差超过 $3 0 0 ^ { \\circ } \\mathrm { C }$ 可以看出 $T _ { G = 0 }$ 值对于反应途径是非常敏感的，对于有机工质，如果反应的机理并不明确，反应途径罗列不完整的话， $T _ { G = 0 }$ 值可能会有很大偏差。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同时从图1中可以看出，随着压力的增大, $T _ { G = 0 }$ 值会有小幅度的增高，也就是压力越大，反应越难进行。这与反应平衡理论是一致的。但是从文献中可以得知，在正戊烷的热分解实验中，压力对于热分解程度并没有明显影响[8,9]。这是因为虽然从热力学上来说，随着压力的增大，正戊烷分解的可能性会减小，但是从动力学上来说，分解反应速率并没有明显变化。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于正戊烷，Reaction1对应的 $T _ { G = 0 }$ 即正戊烷的热力学分解温度 $T _ { \\mathrm { g } }$ 。以 $\\mathrm { 5 \\ : M P a }$ 时为例，此时的 $T _ { \\mathrm { g } }$ 为 $2 0 2 ^ { \\circ } \\mathrm { C }$ ，也就是说在 $2 0 2 ^ { \\circ } \\mathrm { C }$ 以上正戊烷就有可能分解到 $1 0 \\%$ 。但是热力学的结果只能说明反应的可能性，实际上在这样的温度条件下动力学反应速率是极慢的，根据已有的动力学模型，正戊烷在 $2 0 2 ^ { \\circ } \\mathrm { C }$ 的条件下要分解到 $1 0 \\%$ ，需要 $4 . 6 3 \\times 1 0 ^ { 4 }$ 年[11]，与ORC系统的使用周期相比这个分解速率显然是可以忽略的。这说明只考虑简单反应历程热力学参数变化得到的 $T _ { \\mathrm { g } }$ 在绝对数值上并没有太大的意义。所以要利用 $T _ { \\mathrm { g } }$ 来进行有机工质热稳定性的预测，主要需考虑不同工质 $T _ { \\mathrm { g } }$ 值的相对大小关系。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用与正戊烷同样的计算方法对异戊烷、正丁烷异丁烷的 $T _ { \\mathrm { g } }$ 值进行计算。由于烷烃类工质实际热分解过程中压力影响很小，下面的计算结果统一选择 $4 \\mathrm { M P a }$ 时的数值作为比较。多种工质的 $T _ { \\mathrm { g } }$ 值与文献中得到的工质实际热分解安全温度的比较如表1所示。从表1可以看出不同工质的 $T _ { \\mathrm { g } }$ 的相对大小关系与文献中给出的热分解温度值相对大小关系基本一致。这是因为从本质上讲，由于烷烃类工质的结构相近，分解的反应形式也相近，其 $T _ { \\mathrm { g } }$ 值的相对大小一定程度上反映的就是分子结构的差异，如短链烷烃比长链烷烃稳定（正丁烷&正戊烷、异戊烷&异丁烷)等。这对于烷烃类工质热稳定性的预测有着很好的指导意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表部分烷烃类工质 $T _ { \\mathrm { g } }$ 值 $\\mathbf { ( 4 ~ M P a ) }$ 与热分解温度范围实验值",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/d77855c1bf7159d76742ad1ad7ddf7357e0c4c1fb98f77f8664cae1baf7615c9.jpg",
+        "table_caption": [
+            "Table 1 ${ \\varGamma } _ { \\mathrm { g } }$ (4 MPa) and experimental decompositiontemperatures of some alkanes "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>工质</td><td>Tg/°C</td><td>热分解范围/C[11]</td></tr><tr><td>正戊烷</td><td>196</td><td>280~300</td></tr><tr><td>异戊烷</td><td>155</td><td>260~280</td></tr><tr><td>正丁烷</td><td>206</td><td>300~320</td></tr><tr><td>异丁烷</td><td>215</td><td>300~320</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 HFC 类工质 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "相对烷烃类工质，HFC类有机工质由于卤素元素的存在，使得反应历程更加的复杂，目前对其热分解途径的研究结果还比较少。本文选择对氟代乙烷结构的工质进行分析，这是因为乙烷结构不易再次分解，一般会发生脱氢或氟生成乙烯结构。同时由于氟原子很难被电离，因此 $\\mathrm { F _ { 2 } }$ 是很难直接生成的。通过上述两个简化条件，氟代乙烷结构的分解途径可以比较容易的分析出来。选择文献中已有热分解温度实验结果的R134a、R125、R143a和R141b作为研究对象。其中R141b为HCFC类工质，但是其分析原理相同，这里一并作为比较。这几种工质的可能反应途径与 $4 \\ \\mathrm { M P a }$ 下的 $T _ { \\mathrm { g } }$ 值计算结果如表2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/3c48fac6b8d5cb1bc11154d29e50a7075835feb0977387129c343a7a7469552c.jpg",
+        "table_caption": [
+            "表2部分HFC类工质 $T _ { \\mathrm { g } }$ 值 $\\mathbf { ( 4 \\ M P a ) }$ 与热分解温度 范围实验值 Table 2 $T _ { \\mathrm { g } }$ （ $\\bf ( 4 \\ M P a )$ and experimental decomposition temperatures of some HFCs "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>工质</td><td>Tg/C</td><td>热分解范围/C[5,6]</td></tr><tr><td>R141b</td><td>183</td><td>90~122</td></tr><tr><td>R143a</td><td>563</td><td>350~400</td></tr><tr><td>R134a</td><td>550</td><td>368~389</td></tr><tr><td>R125</td><td>883</td><td>396~422</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从计算结果可以看出，HFC类工质 $T _ { \\mathrm { g } }$ 值的相对大小关系和文献中的热分解实验温度相对大小关系基本一致。特别可以看出，R141b的热稳定性相对结构相似的HFC 类工质要差的多，可能是Cl原子的影响；对于HFC类工质来说，除了R143a 和R184的 $T _ { \\mathrm { g } }$ 值比较接近外，基本上符合F原子数越 $\\mathbf { \\hat { \\mathcal { P } } } _ { \\mathrm { g } } ^ { \\dagger }$ 值越大的趋势。 H",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2实验验证 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "选择目前尚无热分解温度实验结果的R152a作为验证对象。计算其 $4 ~ \\mathrm { M P } _ { \\ P } \\{ \\widehat { \\mathsf { P } } \\} \\bar { \\mathcal { F } } _ { \\mathrm { g } }$ 的结果为 $2 9 9 ^ { \\circ } \\mathrm { C }$ 。从 $T _ { \\mathrm { g } }$ 的相对大小可以推断， $\\mathrm { R 1 5 2 a }$ 的热分解范围应该为 $1 2 2 { \\sim } 3 5 0 ^ { \\circ } \\mathrm { C }$ 。选择压力法来表征工质的热稳定性，即从反应过程中压力的变化来判断是否发生热分解反应。实验周期为 $5 0 \\ \\mathrm { h }$ ，为防止热分解后压力过高，选择较低的实验起始压力 $0 . 8 5 \\mathrm { \\ M P a }$ 。先在 $2 0 0 ^ { \\circ } \\mathrm { C }$ 下进行实验，结果发现压力基本没有变化，说明没有发生明显的热分解现象。将温度提高到 $2 4 0 ^ { \\circ } \\mathrm { C }$ ，在实验周期内其压力发生了明显的变化，如图2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/caa5d52009367510d53c1dbe42422ccd39de175bb63adf78e05d8200514ac6da.jpg",
+        "img_caption": [
+            "图2 $\\mathrm { R 1 5 2 a }$ 在 $2 4 0 ^ { \\circ } \\mathrm { C }$ 下的实验压力变化Fig.2 Pressure changes of R152a at $2 4 0 ^ { \\circ } \\mathrm { C }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图2中可以看出，R152a的实验压力在 $5 0 \\mathrm { ~ h ~ }$ 的实验周期中发生了明显的变化，极差约 $0 . 1 5 \\mathrm { M P a }$ 变化幅度超过实验初值的 $1 7 \\%$ ，因此可以判断R152a在 $2 4 0 ^ { \\circ } \\mathrm { C }$ 下必然发生了剧烈的热分解反应。因此使用压力法获得的R152a的明显热分解温度范围为$2 0 0 { \\sim } 2 4 0 ^ { \\circ } \\mathrm { C }$ ，与化学热力学方法的预测范围一致因此化学热力学方法是可以对HFC类工质热稳定性进行预测的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3结果讨论与展望 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将同类的工质的计算结果进行比较，可以发现对于烷烃类工质，在分子结构相似的情况下，碳链越长工质越不稳定，比如正戊烷和正丁烷；对于HFC类工质，在分子结构相似的情况下，氟原子数越大工质越稳定，比如R152a、R143a 和R125。因此可以看串干质的热稳定性主要与工质的分子结构有着密切的关系， $T _ { \\mathrm { g } }$ 值实际上就是对分子结构不同的一种体现。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将不同类的工质的结果进行比较，可以发现不同种类的工质的 $T _ { \\mathrm { g } }$ 值的大小关系并不一致。比如R152a的 $T _ { \\mathrm { g } }$ 值要大于表1中的烷烃类工质，但是热分解温度却明显要低。而且R141b和其他HFC类工质并不是同类工质，但是其 $T _ { \\mathrm { g } }$ 值却符合预测规律。这主要是由于反应途径的获得方法导致的。从 $T _ { \\mathrm { g } }$ 值的计算过程中就可以看出，不同的反应途径对于 $T _ { \\mathrm { g } }$ 值有很大的影响。这说明化学热力学预测方法的使用是有限制的，必须要在相近的反应途径获得方法下才能进行互相比较。对于分子结构比较复杂的工质，其反应途径可能难以通过化简分析得到，那么直接使用化学热力学预测方法就会存在困难。因此针对有机工质的分子结构特点寻找更普适的表征指标是改进热稳定性理论预测方法的可能方向。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从验证实验结果中可以看出，R152a压力的变化趋势是先升高后降低的，这很有可能是R152a首先发生了热分解反应，随后热分解产物和 $\\mathrm { R 1 5 2 a }$ 以及热分解产物之间又发生了包括化合反应在内的复杂的二次反应，当化合反应的速率高于分解反应的速率时，系统压力又开始下降，并能下降至低于初始压力的水平。这也说明HFC类工质的热分解反应历程远比烷烃类要复杂的多，存在着程度很高的二次反应。由于二次反应的存在，对于HFC类工质的热分解规律研究会变得更为复杂。目前热稳定性研究中针对HFC类工质的热分解特点的现有结果还很少，可能会是一个有价值的研究方向。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文提出一种化学动力学方法来对有机工质的热稳定性进行预测。首先结合有机工质分子结构的特点，分析可能的分解反应途径。针对不同的反应，使用吉布斯函数来表征反应的难易程度，计算出 $\\Delta G = 0$ 时的温度值 $T _ { G = 0 }$ ，并选择最小值 $T _ { \\mathrm { g } }$ 作为表征有机工质热稳定性强弱的参数。最后通过不同工质的热力学分解温度 $T _ { \\mathrm { g } }$ 相对大小比较，结合已有的热稳定性实验数据，来推测还没有实验数据的有机工质的热分解温度范围。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对部分已有热分解温度实验数据的烷烃类工质和HFC类工质进行 $T _ { \\mathrm { g } }$ 值的计算，发现已有的实验结果与 $T _ { \\mathrm { g } }$ 相对大小结果一致。选择R152a作为验证并进行热分解实验，同样发现实验结果与化学热力学方法推测的规律一致。因此使用热力学分解温度$T _ { \\mathrm { g } }$ 作为热稳定性表征参数的化学热力学方法可以对有机工质的热稳定性起到预测的作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于不同反应途径之间的 $T _ { G = 0 }$ 值相差很大，因此对于反应途径的判断是非常重要的。对于一柴结构复杂的有机工质（比如氟代丙烷、硅氧烷等），现有的反应机理研究成果较少，因此要使用化学热力学方法的话还是需要机理实验或者反动力学分析等其他工作的辅助。从计算结果中以看出化学热力学方法实际上就是对不同分子结构的体现，因此对于工质热稳定性预测的进一步工作需要更多关注工质分子结构与热稳定性之间的联系。同时从验证实验中可以看出，HFC类工质的热分解反应中包含着很大程度的二次反应过程，因此对于HFC类工质的热分解特点进行研究也是值得关注的热稳定性研究方向之一。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Vélez F,Segovia JJ,Martin M C,et al.A Technical, Economical and Market Review of Organic Rankine Cycles for the Conversion ofLow-Grade Heat for Power Generation [J].Renewable and Sustainable Energy Reviews, 2012,16(6): 4175-4189   \n[2] Chen H,Goswami D Y,Stefanakos E K.A Review of Thermodynamic Cyclesand Working Fluids for the Conversion of Low-Grade Heat [J].Renewable and Sustainable Energy Reviews,2010,14(9):3059-3067   \n[3]翟慧星，安青松，史琳.低温地热有机朗肯循环混合工质设 计初探[J].工程热物理学报，2014,35(8):1498-1502 ZHAI Huixing,AN Qingsong,SHI Lin.Preliminary Study onMixture Working Fluids Design for Low Temperature Geothermal Binary Organic Rankine Cycle [J]. Journal of Engineering Thermophysics,2014,35(8):1498-1502 [4]安青松，史琳.中低温热能发电技术的热力学对比分析[J]. 华北电力大学学报，2012，39(2)：79-83 AN Qingsong， SHI Lin. Thermodynamic Comparative Analysis of Power Generation System for Low-And MidGrade Heat Sources [J]. Journal of North China Electric Power University,2012,39(2):79-83   \n[5] 戴晓业，安青松，骞伟中，史琳.有机朗肯循环工质热稳定 性研究进展[J].工程热物理学报，2016,37(6):1167-1172 DAI Xiaoye,AN Qingsong,QIAN Weizhong，SHI Lin. Research Progress of the Organic Rankine Cycle Working Fluids Thermal Stability [J]. Journal of Engineering Thermophysics, 2016,37(6):1167-1172 [6] Calderazzi L,di Paliano P C.Thermal Stability of R-134a, R-141b,R-13I1,R-7146,R-125 Associated with Stainless Steel as a Containing Material [J]. International Journal of Refrigeration,1997, 20(6): 381-389   \n[7] Angelino G,Invernizzi C. Experimental Investigation on the Thermal Stability of Some New Zero ODP RefrigerantsK> International Journal of Refrigeration, 2003, 26Q: 51-58 8Andersen W C,Bruno T J.Rapid Screening of Fluids for Chemical Stability in Organic Rankine Cycle Applications [J]. Industrial & Engineering Chemistry Research,2005, 44(15): 5560-5566   \n[9] Dai XY,Shi L,An QS,et al. Chemical Kinetics Method for Evaluating the Thermal Stability of Organic Rankine Cycle Working Fluids [J]. Applied Thermal Engineering, 2016,100:708-713   \n[10] Pasetti M, Invernizzi C M, Iora P. Thermal Stability of Working Fluids for Organic Rankine Cycles:An Improved Survey Method and Experimental Results for Cyclopentane,Isopentane and N-butane [J]. Applied Thermal Engineering, 2014,73(1): 764-774   \n[11] Dai X Y Shi L,An Q S, et al. Screening of Hydrocarbons as Supercritical ORCs Working Fluids by Thermal Stability [J]. Energy Conversion and Management, 2016, 126:632-637   \n[12]戴晓业,安青松，史琳.几种典型ORC 工质热稳定性的实验 研究[J].工程热物理学报,2013,34(8):1416-1419 DAI Xiaoye,AN Qingsong,SHI Lin. Experimental Research for the Thermal Stability of Isobutene and Isopentane [J].Journal of Engineering Thermophysics，2013, 34(8): 1416-1419   \n[13]戴晓业，安青松,骞伟中，史琳.HFC245fa 作为有机朗肯循 环工质的热稳定性和材料相容性研究[J].工程热物理学报, 2015,36(7): 1392-1396 DAI Xiaoye， AN Qingsong， QIAN Weizhong， SHI Lin.Thermal Stability and Material Compatibility of HFC245fa as Organic Rankine Cycle Working Fluids [J]. Journal of Engineering Thermophysics,2015,36(7):1392- 1396   \n[14] Rice F O, Herzfeld K F. The Thermal Decomposition of Organic Compounds from the Standpoint of Free Radicals. VI. The Mechanism of Some Chain Reactions [J]. Journal of the American Chemical Society, 1934,56(2): 284-289 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

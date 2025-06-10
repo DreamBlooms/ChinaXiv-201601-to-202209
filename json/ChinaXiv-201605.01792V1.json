@@ -1,0 +1,505 @@
+[
+    {
+        "type": "text",
+        "text": "Supersymmetric Electroweak Corrections to Single Top Quark Production at the Fermilab Tevatron ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chong Sheng Li $^ { 1 }$ , Robert J. Oakes ² and Jin Min Yang3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Department of Physics and Astronomy, Northwestern University, Evanston, Illinois 60208-3112,USA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We have calculated the $O ( \\alpha _ { e w } M _ { t } ^ { 2 } / M _ { W } ^ { 2 } )$ supersymmetric electroweak corrections to single top quark production via $q \\bar { q } ^ { \\prime } \\to t b$ at the Fermilab Tevatron in the minimal supersymmetric model. The supersymmetric electroweak corrections to the cross section are a few percent for $\\tan \\beta > 1$ ，and can exceed $1 0 \\%$ for $\\tan \\beta < 1$ .The combined effects of SUSY electroweak corrections and the Yukawa corrections can exceed 1O% for favorable parameter values,which might be observable at a highluminosity Tevatron. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS number: 14.80Dq; 12.38Bx; 14.80.Gt ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The top quark has now been discovered by the CDF and DO collaborations at the Fermilab Tevatron[1]. Measurements of its mass are $1 7 6 \\pm 9 G e V$ and $1 7 0 \\pm 1 8$ from CDF and D0, respectively， and the world-average value of the top quark mass from Run I at the Tevatron was recently reported to be $1 7 5 \\pm 6 G e V$ ， based on roughly $1 0 0 \\ p b ^ { - 1 }$ of data[2]. At the Tevatron the dominant production mechanism of the top quark is the QCD pair production process $q \\bar { q }  t t [ 3 ]$ .However， because the top quark is so heavy， electroweak production of single top quarks can become significant， particularly at the next Tevatron Run-II. With $\\sqrt { s } = 2$ TeV and an integrated luminosity of $2 f b ^ { - 1 }$ one can expect， in the Standard Model(SM)， that for a $1 7 5 G e V$ top quark, there will be about $1 . 4 \\times 1 0 ^ { 4 } t \\bar { t }$ pairs and $5 \\times 1 0 ^ { 3 }$ single top events produced[4]，which is about $3 5 \\%$ of the total $t t$ rate. After taking into account the $b$ -tagging efficiency and the detection efficiency[5], there are about 1000 single- $b$ -tagged $t t$ pairs in the $l$ +jets sample, 100 in the dilepton sample, and 250 single top events in the $l { + } \\mathrm { j }$ iets sample available for testing various properties of the top quark. Even with fewer events, single top production processes are important because they involve the electroweak interaction and, therefore, can probe the electroweak sector of the theory, in contrast to the QCD pair production mechanism,and provide a consistency check on the measured parameters of the top quark in the QCD pair production. At the Tevatron single top quarks are produced primarily via the $W$ -gluon fusion process[6] and the Drell-Yan type single top process, $q \\bar { q } ^ { \\prime }  W ^ { * }  t b ( W ^ { * } \\mathrm { p r o c e s }$ s)[7],which can reliably be predicted in the SM. The theoretical uncertainty in the cross section is only about a few percent due to QCD corections[8]. As analysed in Ref.[9], the statistical error in the measured cross section for the $W ^ { * }$ process at the Tevatron will be about $\\pm 3 0 \\%$ ; however,a high-luminosity Tevatron would alow a measurement of the cross section with a statistical uncertainty of about 6%[9]. At this level of experimental accuracy a calculation of the radiative corrections in the SM is necessary and effects beyond the SM, for example SUSY corrections, should also be considered. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In Ref.[9] the QCD and Yukawa corrections to the $W ^ { * }$ process have been calculated in the SM. In a previous paper [10] we calculated the Yukawa corrections to this process from the Higgs sector in the general Two-Higgs-Doublet Model(2HDM) and the Minimal Supersymmetric Model(MSSM)[11] and found that the corrections can amount to more than a 15% reduction in the production cross section relative to the tree leve result in the 2HDM, and a $1 0 \\%$ enhancement in the MSSM. However, in the MSSM, in addition to these Yukawa corrections from the Higgs sector, the Supersymmetric (SUSY） corrections due to super particles (sparticles) should also be taken into account. The dominant virtual effects of sparticles arise from the SUSY electroweak corrections of order $O ( \\alpha _ { e w } M _ { t } ^ { 2 } / M _ { W } ^ { 2 } )$ and the SUSY QCD corrections of order $O ( \\alpha _ { s } )$ which arise from loops of charginos, neutralinos and squarks,and gluinos and squarks. It is well-known[12] that the anomalous magnetic moment for a spin $1 / 2$ fermion vanishes in the SUSY limit and away from the SUSY limit there is a partial cancellation. Therefore, in general, one can expect the Yukawa corrections from the Higgs sector and the SUSY electroweak corrections from virtual charginos and neutralinos to cancel to some extent. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this paper we present the calculation of the $O ( \\alpha _ { e w } M _ { t } ^ { 2 } / M _ { W } ^ { 2 } )$ SUSY electroweak corrections at the Fermilab Tevatron in the MSSM,and show the combined efect of including all the $O ( \\alpha _ { e w } M _ { t } ^ { 2 } / M _ { W } ^ { 2 } )$ terms from both Yukawa corrections and SUSY electroweak corrections. The $O ( \\alpha _ { s } )$ SUSY QCD corrections will be given elsewhere[13]. The paper is organized as follows: In Sec. II we present the analytic results in terms of the well-known standard notation of one-loop Feynman integrals. In Sec. III we give some numerical examples and discuss the implications of our reults. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. Calculations ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Formalism ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In our calculations we used dimensional regularization to control all the ultraviolet divergences in the virtual loop corrections and we adopted the on-mass-shell renormalization scheme[14]. Including the $O ( \\alpha _ { e w } M _ { t } ^ { 2 } / M _ { W } ^ { 2 } )$ electroweak corrections, the renormalized amplitude for $q \\bar { q } ^ { \\prime } \\to t b$ can be written as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { r e n } = M _ { 0 } + \\delta M ^ { S U S Y - E W }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $M _ { 0 }$ is the tree-level matrix element and $\\delta M ^ { S U S Y - E W }$ represents the SUSY electroweak corrections. The tree-level Feynman diagram for single top quark production via $q \\bar { q } ^ { \\prime } \\to t b$ is shown in Fig.1(a). The amplitude $M _ { 0 }$ is given by ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { 0 } = i \\frac { g ^ { 2 } } { 2 } \\frac { 1 } { \\hat { s } - M _ { W } ^ { 2 } } \\bar { v } ( p _ { 2 } ) \\gamma _ { \\mu } P _ { L } u ( p _ { 1 } ) \\bar { u } ( p _ { 3 } ) \\gamma ^ { \\mu } P _ { L } v ( p _ { 4 } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The amplitude $\\delta M ^ { S U S Y - E W }$ is given in the following section. Here $p _ { 1 }$ and $p _ { 2 }$ denote the momentum of the incoming quarks $q$ and $\\bar { q } ^ { \\prime }$ ，while $p _ { 3 }$ and $p _ { 4 }$ are used for the outgoing $t$ and （20 $b$ quarks,and $\\hat { s }$ is the center-of-mass energy of the subprocess. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The renormalized differential cross section for the subprocess is ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { d { \\hat { \\sigma } } } { d \\cos \\theta } } = { \\frac { { \\hat { s } } - M _ { t } ^ { 2 } } { 3 2 \\pi { \\hat { s } } ^ { 2 } } } \\overline { { { \\sum } } } | { \\cal M } _ { r e n } | ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\theta$ is the angle between the top quark and incoming quark. Integrating this differential cross section over $\\cos \\theta$ one obtains the cross section for subprocess ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { \\sigma } = \\hat { \\sigma } _ { 0 } + \\Delta \\hat { \\sigma }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where the tree-level cross section $\\hat { \\sigma } _ { 0 }$ is given by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { \\sigma } _ { 0 } = \\frac { g ^ { 4 } } { 1 2 8 \\pi } \\frac { \\hat { s } - M _ { t } ^ { 2 } } { \\hat { s } ^ { 2 } ( \\hat { s } - M _ { W } ^ { 2 } ) ^ { 2 } } [ \\frac { 2 } { 3 } ( \\hat { s } - M _ { t } ^ { 2 } ) ^ { 2 } + ( \\hat { s } - M _ { t } ^ { 2 } ) ( M _ { t } ^ { 2 } + M _ { b } ^ { 2 } ) + 2 M _ { t } ^ { 2 } M _ { b } ^ { 2 } ] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "and $\\Delta \\hat { \\sigma }$ represents the SUSY electroweak corrections. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The total hadronic cross section for the single production of top quarks via $q \\bar { q } ^ { \\prime }$ can be written in the form ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma ( s ) = \\sum _ { i , j } \\int d x _ { 1 } d x _ { 2 } \\hat { \\sigma } _ { i j } ( x _ { 1 } x _ { 2 } s , M _ { t } ^ { 2 } , \\mu ^ { 2 } ) [ f _ { i } ^ { A } ( x _ { 1 } , \\mu ) f _ { j } ^ { B } ( x _ { 2 } , \\mu ) + ( A  B ) ] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { s } } & { { = } } & { { ( P _ { 1 } + P _ { 2 } ) ^ { 2 } , } } \\\\ { { } } & { { } } & { { } } \\\\ { { \\hat { s } } } & { { = } } & { { x _ { 1 } x _ { 2 } s , } } \\\\ { { } } & { { } } & { { } } \\\\ { { p _ { 1 } } } & { { = } } & { { x _ { 1 } P _ { 1 } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\np _ { 2 } = x _ { 2 } P _ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Here $A$ and $B$ denote the incident hadrons and $P _ { 1 }$ and $P _ { 2 }$ are their four-momenta,while （204号 $i , j$ are the initial partons and $x _ { 1 }$ and $x _ { 2 }$ are their longitudinal momentum fractions. The functions $f _ { i } ^ { A }$ and $f _ { j } ^ { B }$ are the usual parton distributions[15,16]. Finally, introducing the convenient variable $\\tau = x _ { 1 } x _ { 2 }$ and changing independent variables,the total cross section becomes ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma ( s ) = \\sum _ { i , j } \\int _ { \\tau _ { 0 } } ^ { 1 } \\frac { d \\tau } { \\tau } ( \\frac { 1 } { s } \\frac { d L _ { i j } } { d \\tau } ) ( \\hat { s } \\hat { \\sigma } _ { i j } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\tau _ { 0 } = ( M _ { t } + M _ { b } ) ^ { 2 } / s$ . The quantity $d L _ { i j } / d \\tau$ is the parton luminosity, which is defined to be ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { d L _ { i j } } { d \\tau } } = \\int _ { \\tau } ^ { 1 } { \\frac { d x _ { 1 } } { x _ { 1 } } } [ f _ { i } ^ { A } ( x _ { 1 } , \\mu ) f _ { j } ^ { B } ( \\tau / x _ { 1 } , \\mu ) + ( A  B ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 SUSY electroweak corrections ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The SUSY electroweak corrections of order $\\alpha _ { e w } M _ { t } ^ { 2 } / M _ { W } ^ { 2 }$ to the process $q \\bar { q } ^ { \\prime } \\to t b$ arise from the Feynman diagrams shown in Fig.1(b)-(g). The matrix element for these corrections can be written as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta M ^ { S U S Y - E W } = \\delta M _ { W t \\bar { b } } ^ { S U S Y - E W } + \\delta M _ { b o x } + \\delta M _ { b o x } ^ { c }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\delta M _ { W t \\bar { b } } ^ { S U S Y - E W }$ representscorretions aringfromtheself-nergydiagramsandvertex diagrams [Fig.1(b)-(e)], while $\\delta M _ { b o x }$ and $\\delta M _ { b o x } ^ { c }$ correspond to the box diagram [Fig1.(f)] and crosed box dagramig.(g),iely $\\delta M _ { W t \\bar { b } } ^ { S U S Y - E W }$ is given by ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { \\delta { \\cal M } _ { W \\bar { t } \\bar { b } } ^ { S U S Y - E W } } } & { { = i } } & { { \\displaystyle \\frac { g ^ { 2 } } { 2 } \\frac { 1 } { \\hat { s } - M _ { W } ^ { 2 } } \\bar { v } ( P _ { 2 } ) \\gamma _ { \\mu } P _ { L } u ( P _ { 1 } ) \\bar { u } ( P _ { 3 } ) [ \\gamma ^ { \\mu } P _ { L } ( \\frac { 1 } { 2 } \\delta Z _ { L } ^ { t } + \\frac { 1 } { 2 } \\delta Z _ { L } ^ { b } + E _ { 3 } ) ] ~ , } } \\\\ { { } } & { { } } & { { ~ + P _ { 3 } ^ { \\mu } P _ { L } E _ { 2 } ^ { L } + P _ { 4 } ^ { \\mu } P _ { L } E _ { 3 } ^ { L } ] v ( P _ { 4 } ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The renormalization constants and form factors in Eq.(14) are ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { Z _ { L } ^ { \\prime } } & { = \\cfrac { 1 } { 8 \\pi ^ { 2 } } [ l R _ { \\tilde { c } _ { 1 } \\tilde { x } _ { 0 } } | ^ { 2 } ( - \\frac { \\Delta } { 2 } + F _ { 1 } ^ { ( k _ { 1 } ^ { \\circ } \\tilde { x } _ { 0 } ^ { k _ { 1 } } ) } ) + 2 M _ { t } \\lambda _ { \\tilde { x } _ { 0 } } L _ { \\tilde { x } _ { 1 } ^ { \\circ } \\tilde { x } _ { 0 } ^ { k _ { 2 } } } R _ { \\tilde { x } _ { 0 } ^ { k _ { 1 } ^ { \\circ } } \\tilde { x } _ { 0 } ^ { \\prime } } ^ { \\varepsilon ( \\tilde { c } _ { 0 } ^ { k _ { 2 } } ) } ( G _ { 0 } ^ { ( k _ { 3 } ^ { \\circ } \\tilde { x } _ { 0 } ^ { k _ { 1 } } ) } )  } \\\\ & {  + M _ { t } ^ { 2 } ( | R _ { \\tilde { c } _ { 3 } \\tilde { x } _ { 0 } ^ { k _ { 1 } } } | ^ { 2 } + | I _ { \\tilde { c } _ { 3 } \\tilde { x } _ { 0 } ^ { k _ { 1 } ^ { \\circ } } } | ^ { 2 } ) G _ { 1 } ^ { ( k _ { 1 } ^ { \\circ } \\tilde { x } _ { 0 } ^ { k _ { 2 } } ) } ] + \\frac { g ^ { 2 } } { 3 2 \\pi ^ { 2 } } \\lambda _ { t } ^ { 2 } T _ { \\tilde { x } _ { 0 } ^ { k _ { 1 } } } ^ { \\varepsilon } | V _ { j } | ^ { 2 } \\mathcal { H } _ { t } ^ { 2 } G _ { 1 } ^ { ( k _ { 3 } ^ { \\circ } \\tilde { x } _ { 0 } ^ { k _ { 1 } } ) } , } \\\\ { Z _ { L } ^ { \\prime } } & { = \\cfrac { g ^ { 2 } } { 3 2 \\pi ^ { 2 } } \\lambda _ { t } ^ { 2 } R _ { \\tilde { c } _ { 0 } ^ { k _ { 2 } } } ^ { 2 } | V _ { j } | ^ { 2 } ( - \\frac { \\Delta } { 2 } + F _ { 1 } ^ { ( k _ { 1 } ^ { \\circ } \\tilde { x } _ { 0 } ^ { k _ { 1 } } ) } ) , } \\\\ { E _ { 1 } ^ { L } } &  = \\cfrac { g } { 8 \\sqrt { 2 } \\pi ^ { 2 } } \\lambda _ { t } V _ { j } ^ { \\ast } R _ { t } \\{ R _ { \\tilde { c } _ { 1 } \\tilde { x } _ { 0 } ^ { k _ { 1 } } } O _ { k _ { 2 } } ^ { \\varepsilon } M _ { \\tilde { x } _ { 0 } ^ { k _ { 1 } } } \\varTheta _ { \\tilde { x } _ { 1 } \\tilde { x } _ { 0 } ^ { k _ { 1 } } } \\alpha _ { \\tilde { x } _ { 0 } ^ { k _ { 1 } } } \\alpha \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { 3 } ^ { L } = \\frac { g } { 4 \\sqrt { 2 } \\pi ^ { 2 } } \\lambda _ { t } V _ { j 2 } ^ { * } R _ { \\tilde { t } _ { i } } \\left[ L _ { \\tilde { t } _ { i } \\tilde { \\chi } _ { k } ^ { 0 } } O _ { k j } ^ { R ^ { * } } M _ { \\tilde { \\chi } _ { j } ^ { + } } ( c _ { 0 } + c _ { 1 1 } ) - R _ { \\tilde { t } _ { i } \\tilde { \\chi } _ { k } ^ { 0 } } O _ { k j } ^ { L ^ { * } } M _ { t } ( c _ { 1 2 } + c _ { 2 3 } ) \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where sums over $i , j , k$ are implied and the functions $c _ { i j } ( P _ { 4 } , P _ { 3 } , M _ { \\tilde { \\chi } _ { j } ^ { + } } , M _ { \\tilde { t } _ { i } } , M _ { \\tilde { \\chi } _ { k } ^ { 0 } } )$ are the threeine $F _ { 0 , 1 } ^ { ( i j k ) } , G _ { 0 , 1 } ^ { ( i j k ) }$ andcostantsinaboeqations are defined as ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { \\check { \\mathcal { C } } _ { \\epsilon } ^ { \\theta , \\theta , \\theta } } } & { { - } } & { { \\displaystyle \\int _ { i \\alpha } ^ { i } d y ^ { 2 } \\tan \\theta \\tan ^ { \\theta } [ \\frac { \\kappa \\theta ^ { i } ( \\theta - \\theta ^ { i } ) + ( \\theta - \\theta ^ { i } ) ^ { i } } { \\theta ^ { i } } - y ^ { i } + \\theta  } } \\\\ { { } } & { { } } & { {  \\theta ^ { i } ] ^ { i } } } \\\\ { { \\displaystyle ( \\mathcal { L } _ { \\epsilon } ^ { \\theta , \\theta } ) } } & { { - } } & { { \\displaystyle \\int _ { i \\alpha } ^ { i } \\frac { \\partial ^ { - 1 } ( y ^ { i } ) } { \\partial y ^ { 2 } ( y ^ { i } ) } \\frac { y ^ { i - 1 } - 1 - y ^ { i } } { 1 1 + | y ^ { i } | } \\frac { y ^ { i } } { y ^ { i } } | \\frac { 1 } { y ^ { i } } \\frac { \\theta ^ { i } } { y ^ { i } } } } \\\\ { { } } & { { \\cdot } } & { { \\displaystyle \\frac { \\Lambda } { M _ { \\epsilon } \\epsilon ^ { i } \\epsilon ^ { i } \\delta ^ { i } } \\frac { y ^ { i } } { \\theta ^ { i } } } } \\\\ { { } } & { { \\mathcal { L } _ { \\epsilon } } } & { { - } } & { {  \\epsilon \\epsilon \\epsilon ^ { i } \\mathcal { S } _ { \\epsilon } ^ { \\theta } , \\quad \\epsilon  - } } \\\\ { { } } & { { \\mathcal { R } _ { \\epsilon } } } & { { - } } & { { \\displaystyle \\mathrm { s i n } \\theta _ { i _ { \\epsilon } } ^ { i } , } } \\\\ { { } } & { { \\mathcal { R } _ { \\epsilon } ^ { i } } } & { { - } } & { { \\displaystyle \\mathrm { s i n } \\theta _ { i _ { \\epsilon } } ^ { i } , } } \\\\ { { } } & { { \\mathcal { L } _ { \\epsilon } \\epsilon _ { i } ^ { i } } } & { { - } } & { { \\mathcal { L } _ { \\epsilon } \\mathrm { s i n } \\theta _ { i _ { \\epsilon } } ^ { i } } } \\\\ { { } } & { { \\mathcal { L } _ { \\epsilon } \\epsilon _ { i } ^ { i } } } & { { - } } & { { \\mathcal { L } _ { \\epsilon } \\epsilon _ { i } \\mathcal { S } ^ { \\theta , \\theta } \\epsilon _ { i } } } \\\\ { { } } & { { \\mathcal { L } _ { \\epsilon } \\epsilon _ { i } ^ { i } } } & { { - } } & { { \\mathcal { L } _ { \\epsilon } \\epsilon _ { i } ^ { - i } \\Delta { \\theta } _ { i _ { \\epsilon } } - \\epsilon _ { i } \\mathcal { S } ^ { \\theta , \\theta } \\epsilon _ { i } , } } \\\\ { { } } &   \\mathcal { R } _ { \\epsilon } \\epsilon _ { i } ^ { - i }  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nO _ { i j } ^ { R } = \\frac { 1 } { \\sqrt { 2 } } N _ { i 3 } ^ { * } U _ { j 2 } + N _ { i 2 } ^ { * } U _ { j 1 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $\\theta _ { q }$ is the mixing angle of squark $\\tilde { q }$ ,and ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { A _ { j } } } & { { = } } & { { \\displaystyle \\frac { g m _ { q } N _ { j 4 } ^ { * } } { 2 m _ { W } \\sin \\beta } , B _ { j } = C _ { j } ^ { * } + \\frac { g N _ { j 2 } ^ { \\prime } } { 2 C _ { W } } } } \\\\ { { } } & { { } } & { { } } \\\\ { { C _ { j } } } & { { = } } & { { \\displaystyle \\frac { 2 } { 3 } e N _ { j 1 } ^ { \\prime * } - \\frac { 2 } { 3 } \\frac { g S _ { W } ^ { 2 } } { C _ { W } } N _ { j 2 } ^ { \\prime * } , } } \\\\ { { } } & { { } } & { { N _ { j 1 } ^ { \\prime } } } & { { = } } & { { N _ { j 1 } C _ { W } + N _ { j 2 } S _ { W } , } } \\\\ { { } } & { { } } & { { } } \\\\ { { N _ { j 2 } ^ { \\prime } } } & { { = } } & { { \\displaystyle - N _ { j 1 } S _ { W } + N _ { j 2 } C _ { W } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the above $S _ { W } \\equiv \\sin \\theta _ { W }$ and $C _ { W } \\equiv \\cos \\theta _ { W }$ . The chargino masses $\\tilde { M _ { j } }$ and matrix elements $V _ { i j }$ depend on parameters $M , \\mu$ and $\\tan \\beta$ , whose expressions can be found in Ref.[11]. The neutralino masses $M _ { \\tilde { \\chi } _ { j } ^ { 0 } }$ and matrix elements $N _ { i j }$ are obtained by diagonalising the matrix （204号 $Y$ [11]. Given the values of the parameters $M , M ^ { \\prime } , \\mu$ and $\\tan \\beta$ ， the matrix $N$ and $M _ { \\tilde { \\chi } _ { j } ^ { 0 } }$ （204号 can be obtained numerically. Here, $\\mu$ is the coefficient of the $H _ { 1 } - H _ { 2 }$ mixing term in the superpotential and $M$ and $M ^ { \\prime }$ are the masses of gauginos corresponding to $S U ( 2 )$ and $U ( 1 )$ ， respectively. With the grand unification assumption, i.e. $S U ( 2 ) \\times U ( 1 )$ is embedded in some grand unified theory, we have the additional relation $\\begin{array} { r } { M ^ { \\prime } = \\frac { 5 } { 3 } \\frac { g ^ { \\prime 2 } } { g ^ { 2 } } M } \\end{array}$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The box diagram amplitude $\\delta M _ { b o x }$ is ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { \\delta { \\cal M } _ { b o x } } } & { { = } } & { { i \\bar { u } ( P _ { 3 } ) \\left[ \\left( f _ { 1 } ^ { b } P _ { R } + f _ { 2 } ^ { b } P _ { L } + f _ { 3 } ^ { b } ~ { \\bar { p } } _ { 4 } P _ { R } + f _ { 4 } ^ { b } ~ { \\bar { p } } _ { 4 } P _ { L } \\right) u ( P _ { 1 } ) ~ { \\bar { v } } ( P _ { 2 } ) ~ { \\bar { p } } _ { 3 } P _ { L } \\right. } } \\\\ { { } } & { { } } & { { + \\left. \\left( f _ { 5 } ^ { b } \\gamma ^ { \\mu } P _ { R } + f _ { 6 } ^ { b } \\gamma ^ { \\mu } P _ { L } \\right) u ( P _ { 1 } ) ~ { \\bar { v } } ( P _ { 2 } ) \\gamma ^ { \\mu } P _ { L } \\right] v ( P _ { 4 } ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Here the form factors fi,3.5 are ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l l l } { { f _ { 1 } ^ { b } } } & { { = } } & { { \\displaystyle - \\frac { g ^ { 2 } } { 8 \\sqrt { 2 } \\pi ^ { 2 } } \\lambda _ { t } V _ { j 1 } V _ { j 2 } ^ { * } R _ { \\tilde { t } _ { i } } L _ { \\tilde { q } _ { t } } L _ { \\tilde { q } _ { t } \\tilde { \\chi } _ { k } ^ { 0 } } ^ { * } \\left[ L _ { \\tilde { t } _ { i } \\tilde { \\chi } _ { k } ^ { 0 } } M _ { t } \\big ( D _ { 1 2 } - D _ { 1 3 } + D _ { 2 2 } - D _ { 2 6 } \\big ) \\right. } } \\\\ { { } } & { { } } & { { \\left. + R _ { \\tilde { t } _ { i } \\tilde { \\chi } _ { k } ^ { 0 } } M _ { \\chi _ { k } ^ { 0 } } \\big ( D _ { 1 2 } - D _ { 1 3 } \\big ) \\right] , } } \\\\ { { f _ { 3 } ^ { b } } } & { { = } } & { { \\displaystyle - \\frac { g ^ { 2 } } { 8 \\sqrt { 2 } \\pi ^ { 2 } } \\lambda _ { t } V _ { j 1 } V _ { j 2 } ^ { * } R _ { \\tilde { t } _ { i } } L _ { \\tilde { q } _ { t } } L _ { \\tilde { q } _ { t } \\tilde { \\chi } _ { k } ^ { 0 } } ^ { * } L _ { \\tilde { t } _ { i } \\tilde { \\chi } _ { k } ^ { 0 } } \\big ( D _ { 1 2 } - D _ { 1 3 } + D _ { 2 4 } - D _ { 2 5 } \\big ) , } } \\\\ { { f _ { 5 } ^ { b } } } & { { = } } & { { \\displaystyle - \\frac { g ^ { 2 } } { 8 \\sqrt { 2 } \\pi ^ { 2 } } \\lambda _ { t } V _ { j 1 } V _ { j 2 } ^ { * } R _ { \\tilde { t } _ { i } } L _ { \\tilde { q } _ { t } } L _ { \\tilde { q } _ { t } \\tilde { \\chi } _ { k } ^ { 0 } } ^ { * } L _ { \\tilde { t } _ { i } \\tilde { \\chi } _ { k } ^ { 0 } } D _ { 2 7 } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "and $f _ { 2 , 4 , 6 } ^ { b }$ can be obtained through the permutation ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { 2 , 4 , 6 } ^ { b } = f _ { 1 , 3 , 5 } ^ { b } \\bigg | _ { \\tilde { t } _ { i } \\tilde { x } _ { k } ^ { 0 } \\left. R _ { \\tilde { t } _ { i } \\tilde { x } _ { k } ^ { 0 } } , L _ { \\tilde { q } _ { l } \\tilde { x } _ { k } ^ { 0 } } \\right. R _ { \\tilde { q } _ { l } \\tilde { x } _ { k } ^ { 0 } } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The sums over $i , j , k , l$ are implied and the functions $D _ { i j } ( P _ { 4 } , P _ { 3 } , - P _ { 1 } , M _ { \\tilde { \\chi } _ { j } ^ { + } } , M _ { \\tilde { t } _ { i } } , M _ { \\tilde { \\chi } _ { k } ^ { 0 } } , M _ { \\tilde { q } _ { l } } )$ are the four-point Feynman integrals[17]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The amplitude for the crossed box diagram $\\delta M _ { b o x } ^ { c }$ is ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta M _ { b o x } ^ { c } \\ = \\ - i \\bar { u } ( P _ { 3 } ) \\left[ f _ { 1 } ^ { c } P _ { L } + f _ { 2 } ^ { c } P _ { R } + f _ { 3 } ^ { c } \\ P _ { 4 } P _ { L } + f _ { 4 } ^ { c } \\ P _ { 4 } P _ { R } \\right] u ( P _ { 2 } ) \\ \\bar { v } ( P _ { 1 } ) P _ { L } v ( P _ { 4 } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where the form factors $f _ { n } ^ { c }$ are ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { f _ { 1 } ^ { c } } } & { { = } } & { { \\displaystyle - \\frac { g ^ { 2 } } { 8 \\sqrt { 2 } \\pi ^ { 2 } } \\lambda _ { t } U _ { j 1 } ^ { * } V _ { j 2 } ^ { * } R _ { \\tilde { t } _ { i } } L _ { \\tilde { q } _ { l } ^ { \\prime } } L _ { \\tilde { q } _ { l } ^ { \\prime } \\tilde { x } _ { k } ^ { 0 } } ^ { \\prime } M _ { \\chi _ { j } ^ { + } } \\left[ M _ { t } R _ { \\tilde { t } _ { i } \\tilde { x } _ { k } ^ { 0 } } ( D _ { 0 } + D _ { 1 2 } ) + M _ { \\chi _ { k } ^ { 0 } } L _ { \\tilde { t } _ { i } \\tilde { x } _ { k } ^ { 0 } } D _ { 0 } \\right] } } \\\\ { { } } & { { } } & { { } } \\\\ { { f _ { 2 } ^ { c } } } & { { = } } & { { \\displaystyle - \\frac { g ^ { 2 } } { 8 \\sqrt { 2 } \\pi ^ { 2 } } \\lambda _ { t } U _ { j 1 } ^ { * } V _ { j 2 } ^ { * } R _ { \\tilde { t } _ { i } } L _ { \\tilde { q } _ { l } ^ { \\prime } } R _ { \\tilde { q } _ { l } ^ { \\prime } \\tilde { x } _ { k } ^ { 0 } } ^ { \\prime } M _ { \\chi _ { j } ^ { + } } \\left[ M _ { t } L _ { \\tilde { t } _ { i } \\tilde { x } _ { k } ^ { 0 } } ( D _ { 0 } + D _ { 1 2 } ) + M _ { \\chi _ { k } ^ { 0 } } R _ { \\tilde { t } _ { i } \\tilde { x } _ { k } ^ { 0 } } D _ { 0 } \\right] } } \\\\ { { } } & { { } } & { { } } \\\\ { { f _ { 3 } ^ { c } } } & { { = } } &  { \\displaystyle - \\frac { g ^ { 2 } } { 8 \\sqrt { 2 } \\pi ^ { 2 } } \\lambda _ { t } U _ { j 1 } ^ { * } V _ { j 2 } ^ { * } R _ { \\tilde { t } _ { i } } L _ { \\tilde { q } _ { l } ^ { \\prime } } L _ { \\tilde { q } _ { l } ^ { \\prime } \\tilde { x } _ { k } ^ { 0 } } ^ { \\prime } M _ { \\chi _ { j } ^ { + } } R _ { \\tilde { t } _ { i } \\tilde { x } _ { k } ^ { 0 } } ( D _ { 0 } + D _ { 1 1 } ) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { 4 } ^ { c } = - \\frac { g ^ { 2 } } { 8 \\sqrt { 2 } \\pi ^ { 2 } } \\lambda _ { t } U _ { j 1 } ^ { * } V _ { j 2 } ^ { * } R _ { \\tilde { t } _ { i } } L _ { \\tilde { q } _ { l } ^ { \\prime } } R _ { \\tilde { q } _ { l } ^ { \\prime } \\tilde { \\chi } _ { k } ^ { 0 } } ^ { \\prime } M _ { \\chi _ { j } ^ { + } } L _ { \\tilde { t } _ { i } \\tilde { \\chi } _ { k } ^ { 0 } } ( D _ { 0 } + D _ { 1 1 } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The sums over $i , j , k , l$ are again implied and the functions $D _ { i j } ( P _ { 4 } , P _ { 3 } , - P _ { 2 } , M _ { \\tilde { \\chi } _ { j } ^ { + } } , M _ { \\tilde { t } _ { i } } , M _ { \\tilde { \\chi } _ { k } ^ { 0 } } , M _ { \\tilde { q } _ { l } ^ { \\prime } } )$ aetho $L _ { \\tilde { q } _ { i } \\tilde { \\chi } _ { j } ^ { 0 } } ^ { \\prime } , R _ { \\tilde { q } _ { i } \\tilde { \\chi } _ { j } ^ { 0 } } ^ { \\prime }$ Raxg are defined by ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { { \\cal L } _ { \\tilde { q } _ { 1 } \\tilde { \\chi } _ { j } ^ { 0 } } ^ { \\prime } } } & { { = } } & { { { \\cal A } _ { j } ^ { \\prime } \\cos \\theta _ { \\tilde { q } } - C _ { j } ^ { \\prime } \\sin \\theta _ { \\tilde { q } } , } } \\\\ { { } } & { { } } & { { } } \\\\ { { { \\cal L } _ { \\tilde { q } _ { 2 } \\tilde { \\chi } _ { j } ^ { 0 } } ^ { \\prime } } } & { { = } } & { { - { \\cal A } _ { j } ^ { \\prime } \\sin \\theta _ { \\tilde { q } } - C _ { j } ^ { \\prime } \\cos \\theta _ { \\tilde { q } } , } } \\\\ { { } } & { { } } & { { } } \\\\ { { { \\cal R } _ { \\tilde { q } _ { 1 } \\tilde { \\chi } _ { j } ^ { 0 } } ^ { \\prime } } } & { { = } } & { { - { \\cal A } _ { j } ^ { \\prime * } \\sin \\theta _ { \\tilde { q } } + { \\cal B } _ { j } ^ { \\prime } \\cos \\theta _ { \\tilde { q } } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { R _ { \\tilde { q } _ { 2 } \\tilde { \\chi } _ { j } ^ { 0 } } ^ { \\prime } = - A _ { j } ^ { \\prime * } \\cos \\theta _ { \\tilde { q } } - B _ { j } ^ { \\prime } \\sin \\theta _ { \\tilde { q } } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "with ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { j } ^ { \\prime } = \\frac { g m _ { q } N _ { j 3 } ^ { * } } { 2 m _ { W } \\cos \\beta } , B _ { j } ^ { \\prime } = C _ { j } ^ { \\prime * } - \\frac { g N _ { j 2 } ^ { \\prime } } { 2 C _ { W } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { j } ^ { \\prime } = - \\frac { 1 } { 3 } e N _ { j 1 } ^ { \\prime * } + \\frac { 1 } { 3 } \\frac { g S _ { W } ^ { 2 } } { C _ { W } } N _ { j 2 } ^ { \\prime * } .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3. Numerical results and conclusion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the following we present numerical results for the corrections to the total cross section for single top quark production via $q \\bar { q } ^ { \\prime } \\to t b$ at the Fermilab Tevatron with $\\sqrt { s } = 2$ TeV. In our numerical calculations we used the MRSG parton distribution functions[16] and chose the scale $\\mu = \\sqrt { \\hat { s } }$ . Also we neglected SUSY corrections to the parton distribution functions. For the parameters involved，we chose $M _ { Z } = 9 1 . 1 8 8 G e V , M _ { W } = 8 0 . 3 3 G e V , M _ { t } = 1 7 5 G e V , M _ { b } =$ （204号 $5 G e V$ and $\\alpha _ { e w } = 1 / 1 2 8$ . Other parameters were determined as follows: ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(i) The upper bound on $\\tan \\beta$ ； viz, $\\tan \\beta < 0 . 5 2 G e V ^ { - 1 } M _ { H ^ { + } }$ ， was determined from data on $B \\to \\tau \\nu X$ [18]. The lower limits on $\\tan \\beta$ are $\\tan \\beta > 0 . 6$ from perturbative bounds [19] and $\\tan \\beta > 0 . 2 5$ (for $M _ { t } = 1 7 5 \\mathrm { G e V }$ ） from perturbative unitarity[19]. We limited the value of $\\tan \\beta$ to be in the range of 0.25 to 5, as larger values of $\\tan \\beta$ are not interesting,although allowed by the current data[18], since the effects are negligibly small. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(ii) For the parameters $M _ { \\tilde { t } _ { R } } , M _ { \\tilde { t } _ { L } }$ $\\tan \\beta$ and $M _ { L R } \\equiv A _ { t } + \\mu \\cot \\beta$ in top squark (stop) mass matrix[20] ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal M } _ { \\tilde { t } } ^ { 2 } = \\left( \\begin{array} { c c } { { M _ { \\tilde { t } _ { L } } ^ { 2 } + m _ { t } ^ { 2 } + 0 . 3 5 \\cos ( 2 \\beta ) M _ { Z } ^ { 2 } } } & { { - m _ { t } ( A _ { t } + \\mu \\cot \\beta ) } } \\\\ { { - m _ { t } ( A _ { t } + \\mu \\cot \\beta ) } } & { { M _ { \\tilde { t } _ { R } } ^ { 2 } + m _ { t } ^ { 2 } + 0 . 1 6 \\cos ( 2 \\beta ) M _ { Z } ^ { 2 } } } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "we assumed $M _ { \\tilde { t } _ { R } } = M _ { \\tilde { t } _ { L } }$ . There are then three free parameters in the stop sector and we chose the mass of the lighter stop $m _ { \\tilde { t } _ { 1 } } , M _ { L R }$ and $\\tan \\beta$ to be the three independent parameters. The best current lower bound on the stop mass is 55GeV coming from LEP, operating at $\\sqrt { s } = 1 3 0 - 1 4 0$ GeV[21]. We conservatively took the lower bound to be 50 GeV for $m _ { \\tilde { t } _ { 1 } }$ .For the other squarks; i.e., $\\tilde { q } , \\tilde { q } ^ { \\prime }$ and $\\tilde { b }$ ， we neglected the mixing between left- and right-handed states and assumed $M _ { \\tilde { q } _ { 1 } } = M _ { \\tilde { q } _ { 2 } } = M _ { \\tilde { q } _ { 1 } ^ { \\prime } } = M _ { \\tilde { q } _ { 2 } ^ { \\prime } } = M _ { \\tilde { b } _ { 1 } } = M _ { \\tilde { b } _ { 2 } }$ which was then determined by[20] ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { \\tilde { b } _ { 1 } } ^ { 2 } = m _ { b } ^ { 2 } + M _ { \\tilde { t } _ { L } } ^ { 2 } + \\cos ( 2 \\beta ) ( - \\frac { 1 } { 2 } + \\frac { 1 } { 3 } S _ { W } ^ { 2 } ) M _ { Z } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(iii） For the parameters $M , M ^ { \\prime } , \\mu$ and $\\tan \\beta$ in the chargino and neutralino matrix, we put $M = 2 0 0$ GeV, $\\mu = - 1 0 0$ GeV and then used the relation $\\begin{array} { r } { M ^ { \\prime } = \\frac { 5 } { 3 } \\frac { g ^ { \\prime 2 } } { g ^ { 2 } } M } \\end{array}$ [11] to determine （204号 $M ^ { \\prime }$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Some typical numerical calculations of the SUSY electroweak corrections are given in Figs.2-4. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 shows the SUSY electroweak correction $\\Delta \\sigma / \\sigma _ { 0 }$ as a function of lighter stop mass $M _ { \\tilde { t } _ { 1 } }$ ， assuming $\\tan \\beta = 1$ and $M _ { L R } = m _ { t }$ . The correction is only a few percent of the treelevel value $\\sigma$ and is quite sensitive to the lighter stop mass. There are two peaks at about $M _ { \\tilde { t } _ { 1 } } = 7 5$ GeV and 67GeV due to the fact that $m _ { t } = 1 7 5$ GeV, $M _ { \\tilde { \\chi } _ { j } ^ { 0 } } = ( 1 0 0 , 1 0 7 , 1 2 8 , 2 2 1 )$ GeV and the threshold for open top decay into a neutralino and a lighter stop is crossed in these regions. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 gives the SUSY electroweak correction as a function of $M _ { L R }$ ， assuming $\\tan \\beta = 1$ （20 and $M _ { \\tilde { t } _ { 1 } } = 6 0$ GeV. This correction is also sensitive to $M _ { L R }$ . With increasing $M _ { L R }$ the mass splitting between the two stop quarks increases. Since we fixed the mass of $\\tilde { t } _ { 1 }$ ， the mass of $\\tilde { t } _ { 2 }$ then increases with $M _ { L R }$ . Furthermore, with an increase of $M _ { L R }$ ， $M _ { \\tilde { t } _ { L } }$ increases and thus the sbottom masses also increase, as seen from Eq.(52). Since we assumed the masses of the squarks $\\tilde { q } _ { 1 } , \\tilde { q } _ { 2 } , \\tilde { q } _ { 1 } ^ { \\prime }$ and $\\tilde { q } _ { 2 } ^ { \\prime }$ are degenerate with the sbottoms, these masses then also increase with $M _ { L R }$ . So,with an increase of $M _ { L R }$ ，all the squark masses except the lighter stop increase and their virtual effects decrease due to decoupling effects. From Fig.3 one sees that for $M _ { L R } > 2 0 0$ GeV the magnitude of the correction drops below one percent. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In Fig.4 we present both the SUSY electroweak correction and the Yukawa correction[10] as a function of $\\tan \\beta$ . For the SUSY electroweak correction we assumed $M _ { L R } = m _ { t }$ . Since boththesecorretiosareproprtioalto $\\frac { M _ { t } ^ { 2 } } { M _ { W } ^ { 2 } \\sin ^ { 2 } \\beta }$ ,theycanbe verylargeforsmall $\\tan \\beta$ . From Fig.4 one sees that the SUSY electroweak correction exceeds -10% for $\\tan \\beta < 0 . 5$ ， and tends to infinity when $\\tan \\beta$ tends to zero. As in the case of the Yukawa correctins, the SUSY electroweak corrections are negligibly small for $\\tan \\beta > 1$ . Also, comparing the ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "SUSY electroweak correction with the Yukawa correction in Fig.4,one notes that the SUSY electroweak correction and Yukawa correction have opposite signs, and thus cancel to some extent. If the lighter stop quark has the same mass as the charged Higgs boson, the cancellation is appreciable. However,as seen in Fig.4, if the charged Higgs is much heavier than the lighter stop quark, the magnitude of Yukawa correction is much smaller than the SUSY electroweak correction and there is very little cancellation. In such a case the combined effects can exceed -10% for $\\tan \\beta < 1$ ： ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "To summarize, the combined effects of SUSY electroweak corrections and the Yukawa corrections can exceed $1 0 \\%$ for favorable values of the parameters. Since the cross section for single top production can be reliably predicted in the SM [9] and the statistical error in the measurement of the cross section will be about $6 \\%$ at a high-luminosity Tevatron[9], these corrections may be observable; at the least, interesting new constraints on these models can be established. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This work was supported in part by the U.S. Department of Energy, Division of High Energy Physics,under Grant No. DE-FG02-91-ER4086. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1] CDF Collaboration, Phys.Rev.Lett. 74, 2626(1995); D0 Collaboration, Phys.Rev.lett. 74, 2632(1995).   \n[2] S.Willenbrock,hep-ph/9611240,and reference therein.   \n[3] F.Berends, J. Tausk and W. Giele, Phys.Rev.D47, 2746(1993).   \n[4] C.-P. Yuan, hep-ph/9604434, and reference therein.   \n[5] Dan Amidei and Chip Brock, \"Report of the TeV2000 Study Group on Futu ElectroWeak Physics at the Tevatron\"， 1995;and reference therein.   \n[6] S.Dawson, Nucl.Phys. B249, 42(1985) S.Willenbrock and D.Dicus, Phys.Rev.D3 155(1986); S.Dawson and S.Willnbrock, Nucl.Phys.B284, 449(1987); C.P.Yuan, Phys.Rev.D41, 42(1990); F.Anselmo, B.van Eijk and G.Bordes, Phys.Rev.D45, 2312(1992); R.K.Ellis and S.Parke, Phys.Rev.D46,3785(1992); D.Carlson and C.P.Yuan, Phys.Lett.B306,386(1993); G.Bordes and B.van Eijk, Nucl.Phys.B435, 23(1995); A.Heinson, A.Belyaev and E.Boos, hep-ph/9509274.   \n[7] S.Cortese and R.Petronzio, Phys.Lett. B306, 386(1993).   \n[8] T.Stelzer and S.Willenbrock, Phys.Lett. B357, 125(1995).   \n[9] M.Smith and S.Willenbrock, hep-ph/9604223.   \n[10] C.S.Li, R.J.Oakes and J.M.Yang, hep-ph/9608460, to appear in Phys.Rev.D   \n[11] H. E. Haber and C. L. Kane, Phys. Rep. 117, 75 (1985); J. F. Gunion and H. E. Haber, Nucl. Phys. B272,1 (1986).   \n[12] S.Ferrara and E.Remiddi, Phys.Lett.B53(1974)347; P.Fayet and S.Ferrara, Phys.Rep.C32(1977)No.5.   \n[13] C.S.Li, R.J.Oakes and J.M.Yang, work in progress.   \n[14] A. Sirlin, Phys. Rev. D22(1980)971; W.J. Marciano and A. Sirlin, ibid. 22, 2695(1980); 31,213(E)(1985); A. Sirlin and W.J. Marciano, Nucl.Phys.B189(1981)442; K.I.Aoki et al., Prog.Theor.Phys.Suppl. 73(1982)1.   \n[15] H.L. Lai et.al., Phys.Rev.D51, 4763(1995).   \n[16] A.D. Martin, R.G. Roberts and W.J. Stirling,Phys. Lett. B354, 155(1995).   \n[17] G. Passarino and M. Veltman, Nucl. Phys. B160(1979)151.   \n[18] ALEPH Coll. CERN-PPE/94-165.   \n[19] V.Barger, M.S.Berger and P.Ohmann, Phys.Rev.D47, 1093(1993).   \n[20] J.Ellis and S.Rudaz, Phys.Lett.B128, 248 (1983) A.Bouquet, J.Kaplan and C.Savoy, Nucl.Phys.B262, 299 (1985).   \n[21] L.Rolandi (ALEPH), H.Dijkstra (DELPHI),D.Strickland (L3), G.Wilson (OPAL), Joint Seminar on the First Results of LEP1.5, CERN, December 12, 1995; ALEPH Coll, CERN-PPE/96-10, Jan. 1996; L3 Coll., H.Nowak and A.Sopczak, L3 Note 1887, Jan. 1996; Opal Coll., S.Asai and S.Komamiya, OPAL Physics Note PN-205, Feb.1996. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Figure Captions ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Feynman diagrams for the SUSY electroweak (SUSY EW) corrections: (a) treelevel,(b)-(h) one-loop corrections. Fig.2 The SUSY electroweak (SUSY EW) correction $\\Delta \\sigma / \\sigma _ { 0 }$ as a function of $M _ { \\tilde { t } _ { 1 } }$ , assuming $\\tan \\beta = 1$ and $M _ { L R } = m _ { t }$ ： Fig.3 The SUSY electroweak (SUSY EW） correction as a function of $M _ { L R }$ ， assuming $\\tan \\beta = 1$ and $M _ { \\tilde { t } _ { 1 } } = 6 0$ GeV. Fig.4 The SUSY electroweak (SUSY EW) correction and the Yukawa correction as a function of $\\tan \\beta$ ． $M _ { L R } = m _ { t }$ was assumed for the SUSY EW correction. ",
+        "page_idx": 12
+    }
+]

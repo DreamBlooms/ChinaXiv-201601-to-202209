@@ -1,0 +1,458 @@
+[
+    {
+        "type": "text",
+        "text": "Interdomain interface-mediated target recognition by the Scribble PDZ34 supramodule ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jinqi $\\mathsf { R e n } ^ { \\star } \\dag$ ,Lei Feng\\*,Yujie Bait, Haohong Pei\\*, Zengqiang Yuant and Wei Feng\\*1 \\*NationalLabororyofacomolulesiuteofoicscadeyfces5tuadejin tUniversity of Chinese Academy of Sciences,Beijing 10oo49,China \\$StateKeyLaboratoyfdoiensstiutefosisCeseadyfees5atuadeji ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tandem-arranged PDZ [PSD-95 (postsynaptic density-95),Dlg (discs large homologue) and ZO-1(zonula occludens-1)] domains often form structural and functional supramoduleswith distinct target-binding properties.In the present study,we found that the two PDZ domains within the PDZ34 tandem of Scribble, a cell polarity regulator,tightly pack in a‘front-to-back’mode to form a compact supramodule.Although PDZ4 contains a distorted $\\alpha { \\bf B } / \\beta { \\bf B }$ pocket,the attachment of PDZ4 to PDZ3 generates an unexpected interdomain pocket that is adjacent to and integrates with the canonical $\\alpha { \\bf B } / \\beta { \\bf B }$ pocket of PDZ3 to form an expanded target-binding groove.The structure of the PDZ34-target peptide complex further demonstrated that the peptide binds to this expanded target-binding groove with its upstream residues anchoring into the interdomain pocket directly.Mutations of the interdomain pocket and disruptions of the PDZ34 supramodule both interfere with its target-binding capacity.Therefore,the interdomain interface between the PDZ34 supramodule is intrinsically required for its target recognition and determines its target-binding specificity. This interdomain interface-mediated specific recognition may represent a novel mode of target recognition and would broaden the target-binding versatility forPDZ supramodules.The supramodular nature and target recognition mode of the PDZ34 tandem found in the present study would also help to identify the new binding partners of Scribble and thus may direct further research on the PDZ domainmediated assembly of Scribble polarity complexes. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: PDZ domain,scaffold protein, Scribble,supramodule, target recognition. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PDZ [PSD-95 (postsynaptic density-95)，Dlg (discs large homologue) and ZO-1 (zonula occludens-1)] domains are one of the most abundant protein-protein interaction modules that have the capacity to recognize a short stretch of residues at the C-termini of target proteins (referred to as the C-terminal peptide）[1-4]. Most of the PDZ domain-containing proteins are multimodular scaffold proteins and often contain multiple PDZ domains so that they can simultaneously interact with various binding partners and thereby assemble supramolecular signalling complexes[1,4,5].A striking feature of these multiple PDZ domain-containing proteins is that the PDZ domains within themare often arranged in tandem with relatively short covalent linkers [5] (Supplementary Figure S1).More and more studies demonstrate that these tandem-arranged PDZ repeats generally function as one structural and functional supramodule (rather than two independent domains） that possesses distinct target-binding properties and therefore cannotbe treated as a simple sum of each PDZ domain within the tandem [5,6] (Supplementary Figure S1). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Scribble is a keycell polarity regulator that plays a fundamental role in controlling the establishment and maintenance of cell polarity and the mislocalization of Scribble is also directly correlated to tumorigenesis [7-1O]. Scribble is a classical multimodular scaffold protein that contains 16 leucine-rich repeats (LRRs) and four PDZ domains (PDZ1PDZ4; Figure 1A). The N-terminal LRR domain of Scribble can associate with Lgl (lethal giant larvae）and is required for the membrane localizationof Scribble in epithelial cells[11-13].The formation of the Scribble-Dlg-Lgl complex at the basolateral region is antagonistic to the apical Par (partitioning defective)-3-Par-6- aPKC(atypical protein kinase C) complex,which is essential for establishing the apical-basal polarity of epithelial cells [14-17]. In contrast, the C-terminal PDZ domains of Scribble can interact witha rather diverse range of target proteins to assemble distinct polarity complexesand regulate different forms ofcell polarity (SupplementaryFigure S1).For instance,Scribble is capable of interacting with Vangl2 (vang-like protein 2） through its PDZ domains to control planarcell polarity[11,18,19].With the help ofitsPDZ domains,Scribble canalso assemble the Scribble- $\\cdot \\beta$ 1 PIX( $\\boldsymbol { \\beta }$ -p21-activated kinase-interacting exchange factor)-PAK (p21-activated kinase） complex [2O-22] and works together with NOS1AP(Nitric oxide synthase 1 adaptor protein) at the leading edge of migrating cells to control cell migration [23,24]. Consistent with the above essential roles of the PDZ domains, the neural tube closure defect induced by mutations of Scribble in mouse embryo development is largely caused by the lack of the last two PDZ domains [25]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/922b7c35fc865cdbab3ab5fe4a757c2f8615134ce04b7e13febc7262fde0bfa9.jpg",
+        "img_caption": [
+            "Figure 1The overall structure of the PDZ34 tandem of Scribble ",
+            "(A blue and orange respectively.The target-binding DZdomainishighlightedbyapurplearrow.(D)Asurfacerepresentationof thePDZ34tandem.Thetwotarget-bindingpocketsare charged,negativelycharged residues and remaining residues are coloured yelow,blue,redand white respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Among the four PDZ domains of human Scribble,the last two PDZ domains (PDZ3 and 4) are connected by a short linker with four residues $( \\mathrm { P ^ { 1 0 9 3 } - A { \\mathrm { - } } P { \\mathrm { - } } P ^ { 1 0 9 6 } }$ ； Figure 1A).Moreover, the three proline residues within the linker are highly conserved (Figure 2A） and,due to the intrinsic rigidity of proline, they would endow the covalent linker with an exceptional rigidity that would constrain the two PDZ domains to work together. Based on the previous studies of tandem PDZ repeats [5.6], the specific arrangement of the PDZ34 tandemin Scribble and the intrinsic rigidity of its‘proline-rich'covalent linker suggest that these two PDZ domains could intimately contact each other and function as one structural supramodule.However, the available biochemical studies of Scribble PDZ domains largely focused on each isolated PDZ domain of the PDZ34 tandem [26-28], which may not reflect the target-binding property of this PDZ tandem. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the present study,we determined the crystal structure of the Scribble PDZ34 tandem and found that the two PDZ domains tightly pack in a ‘front-to-back’manner to form an integrated structural supramodule.To gain insights into the targetbinding property of this PDZ supramodule,we further solved the crystal structure of the PDZ34 tandem in complex with the C-terminal peptide.Unexpectedly, the peptide not only binds to the canonical $\\alpha { \\bf B } / \\beta { \\bf B }$ pocket of PDZ3 but also has direct contacts with the interdomain interface betweenPDZ3 and PDZ4. Thus,the intrinsic interdomain interface between the PDZ34 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A βA βB βC αA βD   \nScribble 1000 \"GLGF\"loop 1020 104 1060 Human AALEGPYPVEEIRLPRAGGPLGLSIVGGSDHSSHPFGVQEPGVFISKVLPRGLAARSG-LRVGDRILAVN Mouse TALEGPYPVEEICLPRAGGPLGLSIVGGSDHSSHPFGVQDPGVFISKVLPRGLAARCG-LRVGDRILAVN Rat TALEGPYPVEEICLPRAGGPLGLSIVGGSDHSSHPFGVQDPGVFISKVLPRGLAARCG-LRVGDRILAVN Fish CPMEDEYPIEEVTLIKAGGPLGLSIVGGSDHASHPFGINEPGVFISKVIPNGLASQSG-LRVGDRILEVN Fly NQLAEPLISEEVVLPKNQGSLGFSIIGGTDHSCVPEGTREPGIFISHIVPGGIASKCGKLRMGDRILKVN . PDZ3 . PDZ4 E aB βF A B   \nSHmanGDVEVCLESLKALGGGHAE Mouse GQDVREATHQEAVSALLRPCLELCLLVRRDPPPP:GMRELCIQKAPGEKLGISIRGGAKGHAGNPCDPTDE Rat GQDVREATHQEAVSALLRPCLELCLLVRRDPPPPGMRELCIQKAPGEKLGISIRGGAKGHAGNPCDPTDE Fish SIDLRHATHQEAVRALLSNKQEIRMLVRRDPSPPGMQEIVIHKQPGEKLGISIRGGAKGHAGNPFDPTDE Fly EADVSKATHQDAVLELLKPGDEIKLTIQHDPLP.P:GFQEVLLSKAEGERLGMHIKGGLNGQRGNPADPSDE 。 βC αA' βD' βE aB' βF   \nScribble 1140 = 1180 1200 aB1 Human GIFISKVSPTGAAGRDGRLRVGLRLLEVNQQSLLGLTHGEAVQLLRSVGDTLTVLVCDGFEASTDAALEV Mouse GIFISKVSPTGAAGRDGRLRVGLRLLEVNQQSLLGLTHAEAVQLLRSVGDTLTVLVCDGFDTSTTTALEV Rat GIFISKVSPTGAAGRDGRLRVGLRLLEVNQQSLLGLTHAEAVQLLRSVGDTLTVLVCDGFDTSTTTALEV Fish GIFISKVSSNGAAARDGRLRVGMRILEVGNNSLLGMTHTEAVRVLRASGDSLVMLICDGFDPKSASTIEA Fly GVFVSKINSVGAARRDGRLKVGMRLLEVNGHSLLGASHQDAVNVLRNAGNEIQLVVCKGYDKSNLIHSIG   \nB (1040 159 K104 βE βB βD L1098 BC E1159 B βB 1158 A1094 1187 P1095 180° C1189 F1029 + V1054 V1019 L1166 1158 1019 R1156 F1029 1098 1028 A1094 P1095. R1156 H D1131 P1093 P1096 D1128 D1128 βB/βCloop ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "are shown as sticks. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "supramodule is directly involved in discriminating its binding targets. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "MATERIALSANDMETHODS ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Protein expression and purification ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DNA sequences encoding the human Scribble PDZ3 (residues 991-1092)，PDZ34 (residues 991-1203)and PDZ34 mutants were each cloned into a modified version of the pET32a vector that contains an N-terminal ${ \\mathrm { G B } } 1 { \\mathrm { - H i s } } _ { 6 }$ -tag.Recombinant proteins were expressed in Escherichia coli BL21(DE3)host cells at $1 6 ^ { \\circ } \\mathrm { C }$ .The $\\mathrm { G B 1 - H i s } _ { 6 }$ -tagged fusion proteins were purified by $\\mathrm { N i ^ { 2 + } }$ -Sepharose 6 FastFlow (GE Healthcare)affinity chromatography followed by size-exclusion chromatography (Superdex-200 26/60,GE Healthcare).For the PDZ34 wildtype protein,after the cleavage of the GB1-tag,the resulting protein was further purified by another round of size-exclusion chromatography. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Crystallization and data collection ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The crystals of Scribble PDZ34（ $\\mathrm { \\Delta \\cdot m g / m l }$ in $5 0 \\mathrm { m M }$ Tris/HCl, $\\mathrm { p H } 8 . 0$ ， $1 0 0 \\mathrm { m M }$ NaCl, $1 \\mathrm { m M }$ EDTA and $1 \\mathrm { m M }$ DTT）were obtained at $1 6 ^ { \\circ } \\mathrm { C }$ using the vapour diffusion method (sitting drop) in $3 \\mathrm { M } \\mathrm { N a C l }$ and 0.1 M Tris/HCl, $\\mathrm { p H } 7 . 5$ . For the crystallization ofthe PDZ34-peptide complex,the commercially synthesized peptide(with a sequence of‘-S-W-F-Q-T-D-L') was dissolved and then mixed with Scribble PDZ34( $\\mathrm { 8 ~ m g / m l }$ in $5 0 \\mathrm { m M }$ Tris/HCl, $\\mathrm { p H } 8 . 0$ ， $1 0 0 \\mathrm { m M }$ NaCl, $1 \\mathrm { m M }$ EDTA and $1 \\mathrm { m M }$ DTT）with a 5:1 molar ratio of peptide to protein. The crystals of the PDZ34-peptide complex were obtained at $1 6 ^ { \\circ } \\mathrm { C }$ using the vapour diffusion method (sitting drop） in $0 . 2 { \\bf M }$ KI, $0 . 1 \\mathbf { M }$ HEPES, $\\mathrm { p H } 7 . 5$ and $10 \\%$ (w/v)PEG 3350.Before being flash-frozen in liquid nitrogen,the crystals of PDZ34 and the PDZ34-peptide complex were cryoprotected with paraffin oils and the mother liquor supplemented with $2 5 \\%$ ethylene glycerol respectively. Diffraction data were collected at the beamline BL17U of the Shanghai Synchrotron Radiation Facility with a wavelength of $0 . 9 7 9 \\mathrm { \\AA }$ $( 1 \\textup { \\AA } = 0 . 1 \\textup n \\textup m$ at $1 0 0 \\mathrm { K }$ . All datasets were processed and scaled usingiMOSFLM[29] and SCALA module in the CCP4 (Collaborative Computational Project No.4) suite [30]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Structural determination ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The structure of Scribble PDZ34 was solved by the molecular replacement method using the isolated PDZ3 domain of PSD95(PDB code:1TP3)as search model with PHASER[31].The structure model was further manually built with COOT[32] and refined with Phenix [33].For the determination of the PDZ34- peptide complex structure,the refined Scribble PDZ34 structure wasused as the search model for the molecular replacement method.The peptide was built manually according to the $2 F _ { } 0 { - } F _ { } \\mathrm { c }$ andFo-Fc electron densitymaps.The overall quality of the final structural models of PDZ34 and the PDZ34-peptide complex was assessed by PROCHECK[34].The protein structure figures were prepared using the programPyMOL (http://www.pymol.org). The statistics for the data collection and structural refinement are summarized in Supplementary Table S1. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "to the C-terminal end of thioredoxin(Trx;referred to as the Trx-tagged C-terminal peptides). To mitigate potential steric hindrance,nine amino acid residues were used as a linker to separate the peptide from the Trx-tag. The Trx-tagged Cterminal peptides were purified by $\\mathrm { N i ^ { 2 + } }$ -Sepharose 6 Fast Flow (GEHealthcare）affinity chromatography followed by sizeexclusion chromatography(Superdex-2O0 26/60,GE Healthcare). The fresh-purified Trx-tagged C-terminal peptides were then concentrated to $\\mathrm { \\sim } 1 . 5 \\mathrm { m M }$ and used for the binding assay.In contrast, the C-terminal peptide with a sequence of ‘-S-W-F-Q-TD-L’used for the crystallization of the PDZ34-peptide complex was commercially synthesized. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Isothermal titration calorimetry assay ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The isothermal titration calorimetry (ITC) assay was performed using a MicroCalorimeter ITC2OO (Microcal LLC） at $2 5 ^ { \\circ } \\mathrm { C }$ The Scribble PDZ34 was in the sample cell and the Trx-tagged C-terminal peptide was in the syringe of the instrument. The Trx alone was used as the negative control.The concentrated Trx-tagged C-terminal peptide $( \\sim 1 { - } 1 . 5 \\ : \\mathrm { m M } )$ was sequentially injected into the stirred calorimeter cell $( \\sim 2 2 5 \\mu 1 )$ initially containing PDZ34 $( \\sim 0 . 1 \\mathrm { - } 0 . 1 5 \\mathrm { m M } )$ with the injection sequence of $1 9 \\times 2 \\mu 1$ at $2 \\mathrm { m i n }$ intervals.Each experiment was repeated three times.The heat of dilution obtained by the titration of the peptide into the buffer was subtracted.The integrated,corrected and concentration-normalized peak areas of the raw data were finally fitted with a model of one binding site using Origin 7.0 (Origin Lab). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The overall structure of the PDZ34 tandem of Scribble ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To investigate whether the last two PDZ domains of Scribble can form one integrated structural unit,we initiated the present study by structural characterization of the PDZ34 tandem.We purified the PDZ34 tandem and obtained high-quality crystals of this fragment after crystal screening and optimization.The structure of the PDZ34 tandem was solved by the molecular replacement method and was refined to $2 . 6 \\mathring \\mathrm { A }$ resolution (Supplementary Table S1).In the structure,both PDZ3 and PDZ4 adopt a canonical PDZ domain fold in which six $\\beta$ -strands $( { \\beta } \\mathrm { A } { - } \\beta \\mathrm { F } )$ form a $\\beta$ -sandwich with its two open sites capped by two $\\alpha$ -helices (αAand $\\alpha { \\bf B }$ ） (Figure 1B).As expected, the two PDZ domains within the PDZ34 tandem physically interact with each other and are arranged in a ‘front-to-back’fashion (if the site containing the conventional $\\alpha { \\bf B } / \\beta { \\bf B }$ target-binding pocket is defined as the ‘front’ site of the PDZ domain; Figures 1B and 1C). Thus,the PDZ34 tandem of Scribble indeed forms an integrated structural supramodule with a compact conformation (Figure 1D).Remarkably,the short rigid‘proline-rich’covalent linker between PDZ3 and PDZ4 also restrains the two PDZ domains,which may facilitate and stabilize the interdomain interactions for the supramodule formation (Figures1B and1C;see below for details).Moreover, the two $\\alpha \\mathbf { B } / \\beta \\mathbf { B }$ target-binding pockets of this PDZ34 supramodule are nearly parallel to each other and are both accessible for binding to potential C-terminal target peptides (highlighted by arrows in Figure 1D). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Trx-tagged C-terminal peptides ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The C-terminal peptides used for the measurement of binding affinity were obtained by fusing the corresponding amino acids ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Interdomain interaction interface between the PDZ34 supramodule ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The interdomain interaction interface between the PDZ34 supramodule (buried with $\\sim 3 4 0 \\mathrm { \\AA } ^ { 2 }$ )is formed by the‘front’site of PDZ3 (including $\\beta \\mathbf { B }$ $\\beta \\mathrm { C }$ and the $_ { \\beta \\mathrm { B } - \\beta \\mathrm { C } }$ loop),the‘back'site of PDZ4 (including $\\beta \\mathrm { D } ^ { \\prime }$ ， $\\beta \\mathrm { E } '$ ， $\\beta \\mathrm { F } ^ { \\prime }$ and the $\\beta \\mathrm { E } ^ { \\prime } { \\ - } \\alpha \\mathrm { B } ^ { \\prime }$ and $\\beta \\mathbf { B } ^ { \\prime } - \\beta \\mathbf { C } ^ { \\prime }$ loops)and the covalent linker (Figures1B and1C).Since both the‘front’site of PDZ3 and the‘back’site of PDZ4 are highly hydrophobic (Figure 1E),the packing core in the middle of the interdomain interface is largely contributed by the hydrophobic contacts between PDZ3 and PDZ4,e.g. $\\mathrm { \\Delta V a l ^ { \\mathrm { l 0 1 9 } } }$ ， $\\mathrm { P r o } ^ { 1 0 2 8 }$ ， $\\bar { \\mathrm { P h e } } ^ { 1 0 2 9 }$ and $\\mathrm { V a l } ^ { 1 0 5 4 }$ from PDZ3 form a hydrophobic cluster with Leu1098, $\\mathrm { L e u ^ { 1 1 5 8 } }$ $\\mathrm { L e u ^ { 1 1 6 6 } }$ ,Leu1187 and $\\mathrm { C y s ^ { i 1 8 9 } }$ from PDZ4 (Figures 2A and 2B).Interestingly,one open site of this hydrophobic cluster is capped by $\\mathrm { { A l a ^ { 1 0 9 4 } } }$ and $\\mathrm { P r o } ^ { 1 0 9 5 }$ from the covalent linker,which supports that this short rigid linker not merely restrains the two PDZ domains in the supramodule but also is directly involved in the interdomain interactions (Figure 2B).Besides the abovehydrophobic contacts,the electrostatic interactions between Lys1040 from PDZ3 and $\\mathrm { \\ G l u ^ { 1 1 5 9 } }$ from PDZ4 in the interdomain interface probably further stabilize this compact supramodule (Figure 2B).Moreover, there is anadditional interaction network formed between the two $_ { \\beta \\mathrm { B } - \\beta \\mathrm { C } }$ loops from PDZ3 and PDZ4, i.e. the imidazole ring of $\\mathrm { H i s } ^ { 1 0 2 7 }$ from PDZ3 forms a hydrogen bond with the carboxy side chain of $\\mathsf { A s p } ^ { 1 1 2 8 }$ from PDZ4 and also parallels with the side chain of $\\mathsf { A s p } ^ { 1 1 3 1 }$ from PDZ4 (Figure 2B); $\\mathrm { A r g ^ { 1 1 5 6 } }$ from PDZ4 forms electrostatic interactions with Aspl131 and its bulky side chain furtheraligns well with the side chain of $\\mathrm { P r o } ^ { 1 0 2 8 }$ from PDZ3 (Figure 2B). Taken together,all of the above interdomain interactions integrate the two PDZ domains to form a compact supramodule. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To probe the essential roles of the interdomain contacts and the short rigid linker for the formation of the PDZ34 supramodule, we introduced mutations in the interdomain interaction interface (i.e.the L1158Q mutation to disrupt the central hydrophobic packing) and in the covalent linker(i.e.the replacement of proline with serine orwith a flexible‘ $\\left. \\cdot ( \\mathbf { G S } ) _ { 3 } \\right.$ -’linker;Figure 2B).As expected,both the limited proteolysis assay and the thermal denaturation experiment demonstrated that all of the mutations significantly destabilize the PDZ34 tandem (Supplementary Figure S2),suggesting the severe disruption of the supramodular structure and possible dissociation of the two PDZ domains within the tandem.Thus,the interdomain packing together with the rigid linker contributes to the formation of the PDZ34 supramodule with a higher stability. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "An unexpected expanded target-binding groove within the PDZ34 supramodule ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Since the two $\\alpha { \\bf B } / \\beta { \\bf B }$ target-binding pockets of the PDZ34 supramodule are both exposed(Figure1B),we wondered whether they possess the capacity of binding to the C-terminal target peptides.Based on the current knowledge of PDZ domains [1,2],PDZ3 and PDZ4 within the PDZ34 supramodule belong to the typical class-I PDZ domain (Supplementary Figure S3A). However,the proteomic studies of Scribble PDZ domains demonstrated that PDZ3 can bind to C-terminal peptides but PDZ4 cannot [26,27].To investigate the target-binding capacity of each PDZ domain within the PDZ34 supramodule,we next compared the $\\alpha { \\bf B } / \\beta { \\bf B }$ target-binding pockets of isolated PDZ3 and PDZ4 with that of the canonical class-IPDZ domain PSD-95 PDZ3 by superimposing $\\alpha { \\bf B }$ (Supplementary Figure S3B). Interestingly, Scribble PDZ3 contains a similar open $\\alpha { \\bf B } / \\beta { \\bf B }$ pocket to that ofPSD-95PDZ3,whereas the $\\alpha { \\bf B } / \\beta { \\bf B }$ pocket of PDZ4 is much narrower due to its $\\beta \\mathbf { B }$ being relatively closer to its $\\alpha { \\bf B }$ with a shift of $2 \\textup { \\AA }$ (Supplementary Figure S3B).Moreover,at one side of the $\\alpha { \\bf B } / \\beta { \\bf B }$ pocket of PDZ4, $\\mathbf { A r g } ^ { 1 1 1 0 }$ from the‘RLGI' loop extends from this loop and covers a part of the pocket and at the other side a hydrogen bond is formed between the side chain of $\\mathrm { H i s ^ { 1 1 7 0 } }$ from $\\alpha { \\bf B }$ and the backbone of $\\mathrm { I l e } ^ { 1 1 1 5 }$ from $\\beta \\mathbf { B }$ to further lock down this pocket (Supplementary Figures S3D and S3E).Thus,consistent with the previous studies of isolated Scribble PDZ domains [26,27], the $\\alpha { \\bf B } / \\beta { \\bf B }$ pocket of PDZ4 is unlikely to be capable of binding to the C-terminal peptides but that of PDZ3 can.However, our structure-based analysis did not rule out the possibility that the closed $\\alpha { \\bf B } / \\beta { \\bf B }$ pocket of PDZ4 within the PDZ34 supramodule could interact with its targets in an unconventional way and thus may open upon binding to certain target molecules. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Although PDZ4 contains a distorted $\\alpha { \\bf B } / \\beta { \\bf B }$ pocket,it intimately packs with PDZ3 in the PDZ34supramodule (Figure 1B).More significantly,the attachment of PDZ4 to PDZ3 in the PDZ34 supramodule generates an unexpected elongated pocket between the two domains (referred to as the interdomain pocket hereafter) that is adjacent to the canonical $\\alpha { \\bf B } / \\beta { \\bf B }$ target-binding pocket of PDZ3(Figure 3A).This interdomain pocketis constructedby the residues fromboth the two PDZ domains,i.e.the upper half of the pocket is formed by $\\mathbf { S e r } ^ { 1 0 1 7 }$ ， $\\mathrm { \\Delta V a l ^ { 1 0 1 9 } }$ ， $\\mathrm { S e r } ^ { 1 0 3 9 }$ and Lys1040 from PDZ3 and $\\mathrm { G l u ^ { 1 1 5 9 } }$ ${ \\mathrm { S e r } } ^ { 1 1 6 4 }$ and $\\mathrm { L e u ^ { 1 1 6 6 } }$ from PDZ4,whereas the lower half of the pocket is contributed by $\\mathrm { H i s ^ { 1 0 2 4 } }$ from PDZ3 and the $\\beta { \\bf E } ^ { \\prime } { \\ - } \\alpha { \\bf B } ^ { \\prime }$ loop ofPDZ4(Figure 3B).Furthermore, this interdomain pocket is found to merge with the $\\alpha { \\bf B } / \\beta { \\bf B }$ pocket of PDZ3 to form an expanded target-binding groove that may provide additional sites forrecognizing the C-terminal target peptide (Figure 3A,and see below). Based on the conventional recognition mode for the Cterminal peptide, the $\\alpha { \\bf B } / \\beta { \\bf B }$ pocket of PDZ3 would accommodate the last three residues (the O,-1and $- 2$ positions) of the peptide, whereas the interdomain pocket could recognize the upstream two residues (the $^ { - 3 }$ and $^ { - 4 }$ positions; Figure 3B). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Identification of the C-terminal peptide for binding to the PDZ34 supramodule ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Based on the above structure-based analysis,we next searched for the C-terminal peptide that can bind to the expanded targetbinding groove of the PDZ34 supramodule.Previous studies have demonstrated that isolated PDZ3 prefers to bind to PDZbinding motifs (PBMs) with the sequence‘- $\\cdot \\phi - \\phi$ -[EDQH]-[TS]- X-[LIV]'(where $\\phi$ isahydrophobic residue andXisanyresidue) [27]. Since the $\\alpha { \\bf B } / \\beta { \\bf B }$ pocket of PDZ3 occupies a large part of the expanded target-binding groove,we took advantage of the optimizedPBMsof isolated PDZ3 to seek the C-terminal peptides for the PDZ34 supramodule.We fused these artificial sequences to the C-terminal end of Trx and measured the binding affinity between each Trx-tagged C-terminal peptide and the PDZ34 supramodule by using an ITC assay (Supplementary Figure S4A).The feasibility of this strategy was proved by the observation that the Trx alone showed no binding to the PDZ34 supramodule,whereas the Trx-tagged C-terminal peptide could bind (Supplementary Figures S4B and S4C).As expected,all these artificial C-terminal peptides can indeed bind to the PDZ34 supramodule but with distinct binding affinities (Supplementary Figure S4C).Moreover,consistent with the above structural analysis (Figure 3；Supplementary Figure S3),the interaction between the PDZ34 supramodule and each peptide showed a ${ \\sim } 1 { : } 1$ stoichiometry (Supplementary Figure S4C),suggesting that this supramodule contains only one target-binding site that can interact with the C-terminal peptide.Thus,the PDZ34 supramodule can recognize these C-terminal peptides most probably through the expanded target-binding groove (Figure 3,and see below). However,to validate this assumption and further elucidate the target recognition mode of the PDZ34 supramodule, the structure of the PDZ34 supramodule in complex with the C-terminal peptide was required.After comparison of the binding affnities between each peptide and the PDZ34 supramodule,we selected a C-terminal peptide with the sequence of ‘-S-W-F-Q-T-D-L' (that shows a relatively stronger bindingaffinity with a $K _ { \\mathrm { d } }$ of ${ \\sim } 7 \\mu \\mathrm { M } )$ （20 for further investigation of the complex structure (Figure 3C). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a8f7404323aa1357c9f05c6cf0c7bd46b208eea465872cf8b098105a94155121.jpg",
+        "img_caption": [
+            "oftheC-terminalpeptideforthePDZ34supramodule.TesequencesoftheC-terminalpeptidesusedforthebindingassayredicated. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "Figure 3An expanded target-binding groove within the PDZ34 supramodule "
+        ],
+        "table_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The crystal structure of the PDZ34-C-terminal peptide complex ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We failed in our attempt to determine the structure of the PDZ34-C-terminal peptide complex by co-purifying the PDZ34 supramodule and the Trx-tagged C-terminal peptide and then we resorted to the synthetic C-terminal peptide.Interestingly, the synthetic ‘-S-W-F-Q-T-D-L’peptide binds to the PDZ34 supramodule with a similar ${ \\sim } 1 { : } 1$ stoichiometry but a higher affinity $( { \\sim } 1 \\ \\mu \\mathbf { M } )$ when compared with the Trx-tagged C-terminal peptide $( { \\sim } 7 \\mu \\mathrm { M }$ ； Supplementary Figure S5).This difference is possibly caused by some spatial hindrance between the Trxtag and the PDZ34 supramodule.Nevertheless,we successfully determined the crystal structure of the PDZ34-C-terminal peptide complex by using the synthetic peptide (Figure 4A; Supplementary Table S1).In the complex structure,only one C-terminal peptide binds to the expanded target-binding groove of the PDZ34 supramodule,whereas the presumable $\\alpha { \\bf B } / \\beta { \\bf B }$ target-binding pocket of PDZ4 is unoccupied (Figure 4A), which is consistent with the above biochemical characterization and structure-based analysis (Figure 3;Supplementary Figure S3). As expected, the last three residues of the C-terminal peptide form a $\\beta$ -strand that anchors with $\\beta \\mathbf { B }$ of PDZ3 in an antiparallel fashion and the upstream two residues of the peptide indeed penetrate into the interdomain pocket between PDZ3 and PDZ4 (Figures 4B-4D).More specifically, the carboxy group of ${ \\mathrm { L e u } } ^ { 0 }$ formsa hydrogen-bond network with the backbone of the‘PLGL' loopof PDZ3 and its side chain inserts into the hydrophobic pocket formed by $\\alpha { \\bf B }$ and $\\beta \\mathbf { B }$ of PDZ3,whereas the hydroxy group of $\\mathrm { T h r } ^ { - 2 }$ specifically forms a hydrogen bond with the side chain of $\\mathrm { H i s ^ { 1 0 7 1 } }$ at the $\\alpha { \\bf B } 1$ position of PDZ3 (Figures 5A and 5B). The side chain of $\\mathsf { A s p } ^ { - 1 }$ also forms a hydrogen bond with $\\mathbf { S e r } ^ { 1 0 1 7 }$ from $\\beta \\mathbf { B }$ of PDZ3.In addition to the above conventional contacts between the C-terminal peptide and the $\\alpha { \\bf B } / \\beta { \\bf B }$ pocket of PDZ3, the side chains of the two upstream residues $\\mathbf { G } \\mathbf { l } \\mathbf { n } ^ { - 3 }$ and Phe-4 directly insert into the upper and lower halves of the interdomain pocket of the PDZ34 supramodule respectively (Figure 4D), thus supporting that the interdomain interface is directly involved in the recognition of the C-terminal peptide. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0cf700b4a11109cc2b157e578b145e9f0a44c2f5f14d7a38681b6b687af906cb.jpg",
+        "img_caption": [
+            "Figure 4The structure of the PDZ34-C-terminal peptide complex ",
+            "C-terminal peptide in the complex structure as a stick r The electron density map (2Fo-Fc map) of the peptide is shownand contoured at $1 . 0 \\sigma$ level.(C)A combined surface betweenthePDZ34supramoduleandtheC-terminalpeptide.Inthissurfacerepresentation,thecoourshemefolows thatofFigure() "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Interdomain interface-mediated specific recognition of the C-terminal peptide ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Based on the above structure of the PDZ34-C-terminal peptide complex, the interdomain pocket can indeed recognize $\\mathbf { G } \\mathbf { l } \\mathbf { n } ^ { - 3 }$ and $\\mathrm { P h e } ^ { - 4 }$ of the‘-S-W-F-Q-T-D-L’ peptide. More specifically, $\\mathrm { G l n } ^ { - 3 }$ fits well into the upper half of the interdomain pocket, i.e. its hydrophilic side chain forms a hydrogen-bond network with $\\mathbf { S e r } ^ { \\mathrm { { l i } \\bar { 6 4 } } }$ and $\\mathrm { G l u } ^ { \\mathrm { 1 1 5 9 } }$ from PDZ4 and $\\mathrm { S e r } ^ { 1 0 3 9 }$ from PDZ3 (Figure 5C). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The change of $\\mathbf { G } \\ln ^ { - 3 }$ to $\\mathbf { G } \\mathbf { l } \\mathbf { u } ^ { - 3 }$ or $\\mathrm { H i s } ^ { - 3 }$ in the C-terminal peptide moderatelydecreased the binding affinity( ${ \\sim } 3$ -fold）possibly due to mildly interfering with this hydrogen-bond interaction network (since $\\mathbf { G } \\mathbf { l } \\mathbf { u } ^ { - 3 }$ and $\\operatorname { H i s } ^ { - 3 }$ may also be capable of forming a hydrogen bond with $S { \\mathrm { e r } } ^ { 1 1 6 4 }$ or $S { \\mathrm { e r } } ^ { 1 0 \\bar { 3 } 9 }$ ; Figure 3C; Supplementary Figure S6).In contrast, replacing $\\mathbf { G } \\ln ^ { - 3 }$ with $\\mathsf { A s p } ^ { - 3 }$ significantly disrupted the PDZ34-peptide interaction (with a ${ \\sim } 1 0$ -fold lower binding affinity) probably because the side chain of $\\mathsf { A s p } ^ { - 3 }$ is too short to reach the position for forminga hydrogen-bond network with those residues within the upper half of the interdomain pocket (Figure 3C;Supplementary Figure S6).As expected, the change of ${ \\mathrm { S e r } } ^ { 1 0 3 9 }$ to $\\bar { \\mathbf { A } } \\bar { \\mathbf { l } } \\mathbf { a } ^ { 1 0 3 9 }$ or $\\dot { \\mathrm { G l u } } ^ { 1 0 \\overline { { 3 } } 9 }$ within the interdomain pocket could also decrease the binding affinity (Figure 5D).In addition to the above interactions between $\\mathrm { G l n } ^ { - 3 }$ and the upper half of the interdomain pocket, $\\mathrm { P h e } ^ { - 4 }$ of the C-terminal peptide directly inserts into the lower half of this pocket. The bulky aromatic ring of Phe-4 aligns with the side chain of His1024 from PDZ3 and is also capped by the $\\beta \\mathrm { E } ^ { \\prime } { \\ - } \\alpha \\mathbf { B } ^ { \\prime }$ loop of PDZ4 (Figure 5C). Consistent with the role of $\\mathrm { P h e } ^ { - 4 }$ ，the mutation of $\\bar { \\mathrm { P h e } } ^ { - 4 }$ to $\\mathrm { S e r } ^ { - 4 }$ also decreased the binding affinity ( ${ \\sim } 3$ -fold; Figure 3C, the‘-S-S-S-Q-T-D-L’ peptide). Therefore,the $^ { - 3 }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ef68d776735f7b4f8c424d5d97e4646f0bbfad2d6467dac1ca9acff34a6cbe8.jpg",
+        "img_caption": [
+            "igure 5Interaction interface between the PDZ34 supramodule and the C-terminal peptid "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/24fe5d9deb32aa6f9c79a06923b2b8c72a48fb16e415252444b8afc6e2e02863.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"8\">Peptide</td><td colspan=\"7\">Kd (μM)</td></tr><tr><td></td><td></td><td>Sequence</td><td></td><td></td><td></td><td></td><td></td><td>PDZ34 WT</td><td>PDZ34 S1039A</td><td>PDZ34</td><td>PDZ34</td><td>PDZ34</td><td>PDZ34</td><td>PDZ3</td></tr><tr><td rowspan=\"2\">… TRX</td><td>-6 S</td><td>-5</td><td>-4 F</td><td>-3 Q</td><td>-2</td><td></td><td>-1</td><td></td><td>12.5±1.7</td><td>S1039E</td><td>L1158Q</td><td>SASS</td><td>GS-Linker 1.7±0.1</td><td></td></tr><tr><td>S</td><td>W S</td><td>K</td><td>Q</td><td></td><td>T T</td><td>D D</td><td>L L</td><td>7.3±1.7 2.3±0.1</td><td>32.5±2.2 ND</td><td>2.2±0.3 5.6±0.1</td><td>1.6±0.4 6.6±0.2</td><td>11.5±1.4</td><td>0.8±0.1 14.5±2.5</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "interactions are shown as sticks.The upper and lower halves of the nterdomain pocketare highlighted by red circles.(B)The canonical interactions between the $\\alpha \\mathsf { B } / \\beta \\mathsf { B }$ pocketofPDZ3andthe of PDZ34,PDZ34 mutants and PDZ3forthe‘-S-W-F-Q-T-D-L'and'-S-S-K-Q-T-D-L'peptides.ND,notdetermined. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "and-4 positions of the C-terminal peptide can be specifically recognized by the upper and lower halves of the interdomain pocket respectively.In contrast with $\\mathrm { G l n } ^ { - 3 }$ and $\\mathrm { P h e } ^ { - 4 }$ $\\mathrm { T r p } ^ { - 5 }$ of the C-terminal peptide protrudes from the target-binding groove of the PDZ34 supramodule (Figure 5C), thus suggesting that the $- 5$ position of the C-terminal peptide does not contribute to the binding.Consistent with this structural feature,the $\\mathrm { T r p } ^ { - 5 }$ to $\\mathbf { G } \\mathbf { l } \\mathbf { y } ^ { - 5 }$ mutant (the‘-S-G-F-Q-T-D-L'peptide) showed a similar binding affinity to that of the‘-S-W-F-Q-T-D-L’ peptide (Figure 3C). Taken together,all of the above additional interactions between the two upstream residues and the interdomain pocket contribute to the high bindingaffinity and specificity between the C-terminal peptide and the PDZ34 supramodule. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Disruptions of the PDZ34 supramodule interfere with its target-binding property ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Since the interdomain pocket is essential for binding to the Cterminal peptide (Figure 5C),the dissociation of the PDZ34 supramodule would eliminate the interdomain pocket and thus modulate its target-bindingproperty. To validate this hypothesis, we evaluated the binding between the PDZ34 mutants (with the mutations in the interdomain interaction interface and covalent linker to destabilize and dissociate the PDZ34 supramodule; Supplementary Figure S2) and the‘-S-W-F-Q-T-D-L’ peptide. However,all of the mutants showed a relatively higher binding affinity for the‘-S-W-F-Q-T-D-L’ peptide than that of the wild-type (Figure 5D).The possible explanation is that the dissociation of the PDZ34 supramodule would also expose the extended hydrophobic $_ { \\beta \\mathrm { B } - \\beta \\mathrm { C } }$ loop of PDZ3 that could recognize the upstream $\\mathrm { P h e } ^ { - 4 }$ and $\\mathrm { T r p } ^ { - 5 }$ of‘-S-W-F-Q-T-D-L’ peptide (Supplementary Figure S3C),which would compensate for the loss of the interactions between the interdomain pocket and the peptide.Consistent with this assumption,PDZ3 alone binds to the‘-S-W-F-Q-T-D-L’ peptide with a higher affinity than that of the PDZ34 supramodule $( \\sim 1 \\mu \\mathbf { M }$ compared with $\\mathord { \\sim } 7  { \\mu }  { \\mathbf { M } }$ Figure 5D). Thus, the‘-S-W-F-Q-T-D-L’peptide is not the optimal peptide for binding to the PDZ34 supramodule but PDZ3. Based on the structure of the PDZ34-C-terminal peptide complex (Figure 3C),we found that the lower half of the interdomain pocket is slightly negatively charged and thus redesigned a Cterminal peptide with $\\mathrm { P h e } ^ { - 4 }$ and $\\mathrm { \\bar { T } r p } ^ { - 5 }$ replaced by $\\mathrm { \\dot { L } y s ^ { - 4 } }$ and $\\mathsf { S e r } ^ { - 5 }$ respectively,for the PDZ34 supramodule (Supplementary Figure S7A). As expected, the‘-S-S-K-Q-T-D-L'peptide binds to the PDZ34 supramodule much more strongly than PDZ3 $( \\sim 2 \\mu \\mathbf { M }$ compared with $\\mathord { \\sim } 1 5  { \\mu }  { \\mathbf { M } }$ ； Figure 5D； Supplementary Figure S7B).All of the PDZ34 mutants showed decreased binding affinity for the‘-S-S-K-Q-T-D-L’ peptide due to the loss of the interdomain pocket (Figure 5D; Supplementary Figure S8). Taken together,all of the above data demonstrate that disruptions of the PDZ34 supramodule interfere with its target-binding capacity and specificity and could most probably switch its target recognition mode to that of isolated PDZ3(see the Discussion). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Tandem-arranged PDZ domains inmultimodular scaffold proteins often form a compact structural supramodule that possesses distinct target recognition characteristics [5,6]. In the present study，we determined the structure of the PDZ34 tandem of Scribble,which revealed the intrinsic supramodular nature of this PDZ tandem.This finding would broaden the growing list of tandem-arranged PDZ supramodules and also provides an opportunity to compare and generalize their interdomain packing features.Compared with other tandem-arranged PDZ supramodules,the Scribble PDZ34 supramodule has a similar ‘front-to-back’interdomain packing mode to that of GRIP1 (glutamate receptor-interacting protein 1） PDZ12,Syntenin PDZ12 and PSD-95 PDZ12 supramodules,but the effects of this interdomain packing mode on their target-binding capacities are significantly different (Figures 6A-6D).In the GRIP1 PDZ12 supramodule,the‘back'site of PDZ1 packs with the ‘front' targetbinding pocket of PDZ2 and blocks the target-binding capacity of PDZ2 [35] (Figure 6B)，whereas in the Scribble PDZ34 supramodule,the ‘front-to-back’interdomain packing generates aninterdomain pocket (rather than blocks the target-binding pocket of PDZ3） for recognizing C-terminal target peptides (Figure 6A).In contrast,this type of interdomain packing has no direct effect on the target-binding capacity of each domain in both the Syntenin PDZ12 and the PSD-95 PDZ12 supramodules (Figures 6C and 6D）[36,37].Therefore，the‘front-to-back' interdomain packing seems to play diverse roles in regulating the target-binding property ofPDZ supramodules.More interestingly, in addition to the above ‘front-to-back’interdomain packing mode,the‘front-to-front'and‘back-to-back'modesare found in the INAD (inactivation no after potential D) PDZ45 and GRIP1 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "PDZ45 supramodules respectively (Figures 6E and 6F) [38,39], further suggesting that the interdomain packing modes of tandemarrangedPDZ supramodulesarealso diverse. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In the Scribble PDZ34 supramodule, the interdomain pocket between PDZ3 and PDZ4 is close to the canonical $\\alpha { \\bf B } / \\beta { \\bf B }$ pocket of PDZ3 and integrates with it to form an expanded target-binding groove (Figure 3). The structure of the PDZ34 supramodule in complex with the C-terminal peptide demonstrated that the interdomain pocket and the $\\alpha { \\bf B } / \\beta { \\bf B }$ pocket of PDZ3 are both directly involved in recognizing the C-terminal peptide,i.e. the $\\alpha { \\bf B } / \\beta { \\bf B }$ pocket of PDZ3 accommodates the last three residues of the C-terminal peptide,whereas the interdomain pocket recognizes the upstream two residues (Figure 4). In contrast, if the PDZ34 supramodule was opened between the two PDZ domains，the extended hydrophobic $_ { \\beta \\mathrm { B } - \\beta \\mathrm { C } }$ loop of PDZ3 (that is buried in the interdomain interaction interface） would be exposed to interact with the upstream residues of the Cterminal peptide (Supplementary Figure S3C). Consistent with this assumption,isolated PDZ3 indeed prefers to bind to the C-terminal peptide with hydrophobic residues at the $^ { - 4 }$ and $- 5$ positions (Figure 5D) [27]. Therefore,although the PDZ34 supramodule and PDZ3 share a similar $\\alpha { \\bf B } / \\beta { \\bf B }$ pocket，the additional segments that recognize the upstream residues of the Cterminal peptide are different (the interdomain pocket compared with the hydrophobic $_ { \\beta \\mathrm { B } - \\beta \\mathrm { C } }$ loop)，which would cause the target-binding difference between them (Figure 4; Supplementary Figure S3). Supporting this hypothesis, the $- 5$ position of the Cterminal peptide that is essential for binding to PDZ3 was found not to be critical for interacting with the PDZ34 supramodule (Figure 5） [27]. Moreover, the PDZ34 supramodule prefers to interact with the ‘-S-S-K-Q-T-D-L’peptide,whereas PDZ3 binds to the‘-S-W-F-Q-T-D-L’ peptide with a stronger affinity (Figure 5).Mutations of the upstream residues of the C-terminal peptide that insert into the interdomain pocket interfere with the binding to the PDZ34 supramodule (Figures 3 and 4). Thus, the interdomain interface of the PDZ34 supramodule is directly involved in its target recognition and may determine its targetbinding specificity (such as the discrimination of some binding partners from that of PDZ3).More interestingly,disruptions of the PDZ34 supramodule could somewhat modulate its targetbinding property and the PDZ34 mutants show the similar targetbinding property to that of PDZ3 (Figure 5). Thus, the formation and dissociation of the PDZ34 supramodule may also act as a functional switch to differentiate the binding targets between the PDZ34 supramodule and PDZ3.However,the C-terminal peptides used in the present study may not be the optimal target peptide for the PDZ34 supramodule because we did not perform the systematic screening of each position of the C-terminal peptide for binding to this PDZ supramodule.The seeking of the best target peptide and potential cellular ligands for the Scribble PDZ34 supramodule still needs and is worthy of further investigation. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The interdomain interface-mediated specific target recognition mode of the Scribble PDZ34 supramodule is significantly distinct from that of other tandem-arranged PDZ supramodules (Figure 6). In the Syntenin PDZ12 and PSD-95 PDZ12 supramodules,the two $\\alpha { \\bf B } / \\beta { \\bf B }$ target-binding pockets are both capable of binding to Cterminal peptides and can synergistically interact with two target proteins [36.37] (Figures 6C and 6D).However,in the GRIP1 PDZ12 and PDZ45 supramodules,one PDZ domain cannot bind to the C-terminal peptide but can help the proper folding of the other PDZ domain that can bind to the target peptide [35,38] (Figures 6B and 6F) and in the INADPDZ45 supramodule,one PDZ domain can maintain the reduced state of the other PDZ domain for binding to the C-terminal peptide [39](Figure 6E). In these PDZ supramodules,the interdomain interface is not directly involved in the target recognition but probably facilitates the formation of the active state of one of the two PDZ domains. The recognition of C-terminal target peptides solely depends on one PDZ domain and needs the other PDZ domain to help to maintainitsproper folding/active state (Figure 6).Therefore,the interdomain interface-mediated specific recognition ofC-terminal peptides found in the Scribble PDZ34 supramodule represents a novel mode of target recognition and would broaden the targetbinding versatility for tandem-arranged PDZ supramodules. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e772a61236e324165f77be2cf64a5e0a72556404c8267bef507ad9055276cbd.jpg",
+        "img_caption": [
+            "Figure 6Structural comparison of different tandem-arranged PDZ supramodules ",
+            "A combined surface and ribbon representation of the Scribble PDZ34 s dule (A),the GRIP1PDZ12 supramodule (PDB code: 2QT5)(B),the Syntenin PDZ12 supramodule (PDB code:1W9E) (C),the PSD-95 PDZ12 supramodule (PDB code: 3GSL) ),the INAD (PDB code:3R0H) (E)and the GRIP1 PDZ45s oramodule (PDB code:1P1D)(F).Briefly,among these p "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Finally,as a key cell polarity regulator,Scribble has been reported to bind to its target proteins through PDZ3 and PDZ4 to regulate cell polarity[23,27,4O].However,in these studies, the two PDZ domains were largely treated as two separate domains without considering the possibility that they can work together to function as an integrated supramodule (Figure 1).Since the structural and biochemical analysis demonstrated that the PDZ34 tandem should be considered as one structural and functional unit (Figures1 and4),the bindingdata that were obtained based on isolated PDZ3 or PDZ4 may not actually reflect the interaction relationship between Scribble and its target proteins and need to be carefully reinterpreted.Thus,the supramodular nature of the PDZ34 tandem found in the present study may also help us to rethink and direct further research on the PDZ domain-mediated interactions between Scribble and its target proteins. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "AUTHORCONTRIBUTION ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Jinqi Ren,Lei Feng, Zengqiang Yuan and Wei Feng conceived and designed experiments. Jinqi Ren,Lei Feng,Yujie Bai and Haohong Pei performed the research. Jinqi Ren and Wei Feng wrote the paper.Wei Feng co-ordinated the entire research project. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGEMENTS ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We thank the staff at beamline BL17U of the Shanghai Synchrotron Radiation Facility for the beam time. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "FUNDING ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Major Basic Research Program of China [grant numbers 2011CB910503 and 2014CB910202];and the National Natural Science Foundation of China [grant numbers 31190062,31470746,31300611 and 31200577]. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1Zhang,M.and Wang,W.(2O03) Organization of signaling complexes by PDZ-domain scaffold proteins.Acc.Chem.Res.36, 530-538 CrossRef PubMed   \n2Nourry, C., Grant, S.G.and Borg,J.P.(2Oo3) PDZ domain proteins: plug and play! Sci. STKE 2003,RE7 PubMed   \n3Sheng,M.and Sala, C.(2Oo1) PDZ domains and the organization of supramolecular complexes.Annu.Rev. Neurosci.24,1-29 CrossRef PubMed   \n4Harris,B.Z.and Lim,W.A.(2001) Mechanism and role of PDZ domains in signaling complex assembly.J. Cell Sci.114,3219-3231 PubMed   \n5Feng,W.and Zhang,M.J.(2O09) Organization and dynamics of PDZ-domain-related supramodules in the postsynaptic density. Nat. Rev. Neurosci.10,87-99 CrossRef PubMed   \n6Ye,F.and Zhang,M.J.(2O13) Structures and target recognition modes of PDZ domains: recurring themes and emerging pictures.Biochem.J.455,1-14 CrossRef PubMed   \n7Elsum,I., Yates,L, Humbert,P.O.and Richardson, H.E. (2012)The Scribble-Dlg-Lgl polarity module in development and cancer: from flies to man.Essays Biochem.53, 141-168 CrossRef PubMed   \n8Yamanaka,T.and Ohno,S.(2Oo8) Role of Lgl/Dlg/Scribble in the regulation of epithelia junction,polarity and growth.Front.Biosci.13,6693-6707 CrossRef PubMed 9Humbert,P.O.,Grzeschik, N.A., Brumby,A.M.,Galea,R.,Elsum,I.and Richardson, H.E. (2008) Controloftmourigenesisbythe Scribble/Dlg/Lglpolaritymodule.Oncogene27, 6888-6907 CrossRef PubMed   \n10CordeosicotlLctao Montagner,M.,Parenti,A.R.,Poletti,A.et al.(2011) The Hippo transducer TAZ confers cancer stem cel-related traits on breast cancer cells.Cell147,759-772 CrosSRef PubMed   \n11Kally,L.M,McNickle,A.,Brenwald,P.J.,Hubbard,A.L.andBraiterman,L.(06) Scribbleassociates withtwopolarityproteins,LglandVangl2,viadistinctmolecular domains.J. Cell Biochem.99,647-664 CrossRef PubMed   \n12Albertson,R.,Chabu,C.,Sheehan,A.and Doe, C.Q.(2004) Scribble protein domain mapping revealsamultistep localization mechanismand domains necessary for establishing cortical polarity.J.CellSci.117,6061-6070 CrossRef PubMed   \n13ZeitlerJuCPe,dder.Dastroingy and proliferationin the Drosophila tumorsuppressor Scribble.J.Cell Biol.167, 1137-1146 CrossRef PubMed   \n14Dow,L.E.and Humbert,P.O.(2Oo7)Polarityregulatorsandthecontrolofepithelial architecture,cell migration,and tumorigenesis.Int. Rev. Cytol.262,253-302 CrossRef PubMed   \n15HariaraDtia tumor-suppressor genes in Drosophila.Annu.Rev.Genet.40,335-361 CrossRef PubMed   \n16BilderDi,ndemon,Neativguioofellri growth by Drosophila tumor suppressors.Science 289,113-116 CrossRef PubMed   \n17Humbert,P.O.,Dow, L.E.and Russel,S.M.(2Oo6)The Scribble and Par complexes in polarity and migration: friends or foes? Trends Cell Biol.16,622-630 CrossRef PubMed   \n18Montcouquiol,M.,achel,R.A.,Lanford,P.J.,Copelad,N.G.Jenkins,N..ndKlly, M.W.(003)Identificationof Vangl2andScrb1asplanarpolaritygenesinmammals. Nature 423,173-177 CrossSRef PubMed   \n19Montcouquiol,,ns,N,u,D.Kach,J.,ickman,JD.Forge,A,acel,A, Copeland,N.G.,Jenkins,N.A.,Bogani,D.,Murdoch,J.etal.(2Oo6)Asytric localization of Vangl2 and Fz3 indicate novel mechanisms for planar cellpolarity in mammals.J.Neurosci.26,5265-5275 CrossRef PubMed   \n20Audebert,.varo,CurryCerot-Golz,.cie,Pch Dupont,J.L.,Premont,R.T.,Sempere, C.,Strub,J.M.et al. (2004) Mammalian Scribble forms a tight complex with the betaPIX exchange factor. Curr Biol.14,987-995 CrossRef PubMed   \n21Osmani,N., Vitale,N.,Borg,J.P.and Etienne-Mannevile,S.(20o6) Scrib controls Cdc42 localizationandactivitytopromotecellpolarizationduring astrocytemigration.Cur.Biol. 16,2395-2405 CrossRef PubMed   \n22Nola,S.bbgh.,rcheoOmani.NourryCdebert,,ao Rachel,R.,Montcouquiol,M.,Sans,N.etal.(2Oo8) Scrib regulates PAK activity during the cell migration process.Hum.Mol.Genet.17,3552-3565 CrossRef PubMed   \n23RichierL,linKatbrgL,olil.,Brn,C Zinck,N.,MetalnikovP.,Trimble,W.S.etal.(010)NOS1APassociates with Scribbleand regulates dendritic spine development.J.Neurosci.30,4796-4805 CrossRef PubMed   \n24AnasseeJo Moon,R.T.(2012)A protein complex of SCRIB,NOS1AP and VANGL1 regulates cell polarityand migration,and is associated with breast cancer progression.Oncogene 31, 3696-3708 CrossRef PubMed   \n25Murdoch,J..,Henderson,D.J.,Doudney,K.,Gaston-Massuet,C.,Philips,H.., Paternotte,C.,Arkel,R., Stanier,P.and Copp,A.J.(2003) Disruption of scribble (Scrb1) causes severe neural tube defects in the circletail mouse. Hum.Mol.Genet.12,87-98 CrossRef PubMed   \n26Ivaron Pawson,T.,Mofat,J.etal.(2014)Large-scale interactionprofilingofPDZdomains through proteomic peptide-phage display using human and viral phage peptidomes. Proc.Natl.Acad.Sci.U.S.A.111,2542-2547CrossRefPubMed   \n27ZhangheoBeldsaPaDo Lasky,L.A.,Wiesmann,C., Hunziker, W.and Sidhu, S.S.(2Oo6) Convergent and divergent ligandspecificityamong PDZdomains ofthe LAPand zonulaoccludens (ZO)families.J. Biol. Chem.281,22299-22311 CrossRef PubMed   \n28Tonikian,RZangYinsyS.,Curel,h,J.H,eva,HA Appleton,B.A.,Evangelista,M.,Wu,Y.etal.(2Oo8)Aspecificity map for the PDZ domain family.PLoS Biol.6,2043-2059 CrossRef   \n29ttye1 iMOSFLM:anew graphicalinterface fordifraction-image processing with MOSFLM. Acta Crystallogr.DBiol.Crystallogr.67,271-281CrossRefPubMed   \n30Dodson,E.J.Winn,M.andRalph,A.（1997)CollaborativeComputationalroect number4:providing programs forproteincrystallography.Methods Enzymol.277, 620-633 CrossRef PubMed   \n31McCoy,A.J.(2Oo7) Solving structures of protein complexes by molecular replacement with Phaser. Acta Crystallogr.D Biol. Crystallogr.63,32-41 CrossRef PubMed   \n32Emsley,P.and Cowtan,K.(2oo4) Coot: model-building tools for molecular graphics.Acta Crystallogr.D Biol.Crystallogr.60,2126-2132 CrossRef PubMed   \n33Adams,P.D.,Afonine,P.V.,Bunkoczi,G.,Chen,V.B.,Davis,I.W.,Echols,N., Headd,J.J., Hung,L.W., Kapral,G.J., Grosse-Kunstleve,R.W.etal.(2O1O) PHENIX: a comprehensive Python-based system for macromolecular structure solution.Acta Crystallogr.D Biol. Crystallogr.66,213-221 CrossRef PubMed   \n34Laskowski, R.A., Macarthur, M.W.,Moss,D.S.and Thornton,J.M.(1993) Procheck - a program to check the stereochemical quality of protein structures.J.Appl. Crystallogr. 26,283-291 CrossRef   \n35Long,J.,Wei,Z,Feng,W.,Yu,C.,Zhao,Y.X.and Zhang,M.(2O08) Supramodular nature of GRIP1 revealed by the structure of its PDZ12 tandem in complex with the carboxyl tail of Fras1.J.Mol.Biol.375,1457-1468 CrossRefPubMed   \n36Kang,B.S.,Cooper, D.R.,Jelen,F.,Devedjiev,Y.,Derewenda,U.,Dauter,Z.,Otlewski,J. and Derewenda, Z.S.(2O03) PDZ tandem of human syntenin: crystal structure and functional properties. Structure11,459-468 CrossRef PubMed   \n37Long,J.F.,Tochio,H.,Wang,P.,Fan,J.S.,Sala, C., Niethammer, M.,Sheng,M.and Zhang,M.(2Oo3) Supramodular structure and synergistic target binding of the N-terminal tandem PDZ domains of PSD-95.J.Mol.Biol.327,203-214 CrossRef PubMed   \n38Feng,W.,Shi,Y.W.,Li,M.and Zhang,M.J.(2OO3) Tandem PDZ repeats in glutamate receptor-interacting proteins havea novel mode of PDZ domain-mediated target binding. Nat. Struct.Biol.10,972-978 CrossRef PubMed   \n39Liu,W.,Wen,W.Y.,Wei,Z.Y.,Yu,J.,Ye,F.,Liu,C.H., Hardie, R.C.and Zhang,M.J.(2011) The INAD Scaffold Is a dynamic,redox-regulated modulator of signaling in the Drosophila eye.Cell145,1088-1101 CrossRef PubMed   \n40Lahuna,O.,Quellari,M.,Achard,C.,Nola, S., Meduri,G.,Navarro,C., Vitale,N., Borg, J.P.and Misrahi,M.(2Oo5)Thyrotropin receptor trafficking relies on the hScrib-betaPIX-GIT1-ARF6 pathway.EMBO J.24,1364-1374 CrossRef PubMed ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

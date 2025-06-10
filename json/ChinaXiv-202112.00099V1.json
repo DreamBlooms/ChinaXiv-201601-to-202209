@@ -1,0 +1,445 @@
+[
+    {
+        "type": "text",
+        "text": "拉萨河谷杨树人工林枯落物蓄积特征及持水性能",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘琳12.3，熊东红1²，张宝军1²，袁勇1,2.3，张闻多1.2.3(1.中国科学院山地灾害与地表过程重点实验室,四川 成都610041；2.中国科学院水利部成都山地灾害与环境研究所，四川 成都 610041；3.中国科学院大学，北京100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：研究拉萨河谷典型杨树人工林枯落物蓄积及其持水性能对深入探究青藏高原人工林水源涵养能力具有重要意义。本文以拉萨河谷区5种不同林龄(12a、15a、19a $\\cdot 2 7$ a和 $3 2 \\mathrm { a } )$ 杨树人工林为研究对象，通过野外观测、室内浸水法对不同林龄枯落物蓄积量以及最大持水量(率）、有效拦蓄量(率)等持水性能指标进行了定量研究。结果表明：(1)不同林龄枯落物蓄积量、最大持水量和有效拦蓄量均呈 $2 7 ~ \\mathrm { a } { > } 1 5 ~ \\mathrm { a } { > } 3 2 ~ \\mathrm { a } { > } 1 9 ~ \\mathrm { a } { > } 1 2 ~ \\mathrm { a }$ ，分别介于8.32\\~$2 6 . 1 2 \\ : \\mathrm { t \\cdot h m ^ { - 2 } } \\ : . 2 4 . 0 3 \\mathrm { \\sim 6 0 . 8 9 \\ : t \\cdot h m ^ { - 2 } }$ 和 $1 9 . 8 5 { \\sim } 4 9 . 1 5 ~ \\mathrm { t \\cdot h m } ^ { - 2 } , 2 7 ~ \\$ a林龄成熟林枯落物一致表现为最佳。枯落物蓄积量、林分特征是影响最大持水量、有效拦蓄量的主要因素。（2）枯落物最大持水率和有效拦蓄率表现为 $1 2 { \\mathrm { ~ a } } { > } 1 9 { \\mathrm { ~ a } } { > } 1 5 { \\mathrm { ~ a } } { > } 2 7$ $\\mathrm { a } { > } 3 2 \\mathrm { a }$ ，范围在 $2 2 8 . 3 7 \\% { \\sim } 2 8 8 . 6 7 \\%$ 和 $1 8 8 . 1 8 \\% { \\sim } 2 3 8 . 4 8 \\%$ ,林龄对最大持水率和有效拦蓄率影响不显著，主要受林木类型影响。研究结果可为该区防沙治沙生态工程建设及其生态效益评价提供科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：林龄；杨树人工林；枯落物；持水性能；拉萨河谷",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "水文功能是森林生态系统功能的重要体现[],森林生态系统通过林冠层、枯枝落叶层和土层，对降水进行截留及再分配、保持水土、延缓地表径流、抑制土壤水分蒸发等方面发挥着其独特的生态水文功能[2-3]。在森林生态系统中,枯落物层是森林土壤特有的发生层，具有提高水源涵养、增强水文生态功能、优化森林生态系统服务的功能效应。枯落物层不仅能截留自身干质量2\\~4倍的雨水[4-5],还能有效增加地表粗糙度，促进水分入渗，从而延缓地表径流,为土壤和植物提供水分[6。此外,通过枯落物的分解可以有效改善表土养分状况[-8],改良土壤结构，增加土壤的孔隙度与渗透性[,进而提高土壤层的水源涵养功能。枯落物水文效应的研究是森林生态系统涵养水源功能评价过程中不可忽视的重要环节。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前,黄土高原[5.10]冀北山区[11-12]、北京地区[13]辽东低山区[14]、宁夏六盘山[15]等地区的不同林分枯落物及其水文效应已有大量报道。刘一霖等探究了川西高山峡谷区6种森林枯落物持水与失水特性，认为亮叶桦一青麸杨林枯落物持水性能最好。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张学龙等6对比了祁连山5种典型灌木林枯落物水源涵养能力，发现吉拉柳枯落物层的持水能力最强，甘青锦鸡儿最弱。Zhang等[]认为混交林比纯林具有更高的截留强降雨的能力。有不少学者对不同林龄枯落物及其水文效应进行了研究，杨家慧等[8]发现黔中柳杉人工林枯落物的水源涵养能力随林龄增加呈先增加后减小的趋势，且成熟林持水性能最佳。高迪等[9研究表明宁夏六盘山华北落叶松人工林枯落物持水性能与林龄呈正相关关系。富丽等[20]认为陇东黄土高原经营7a的苹果林枯落物水源涵养功能显著高于其他林龄。研究表明，林下枯落物的水文功能由枯落物现存量及其持水特性共同决定，树种组成、林龄等对枯落物层的蓄积量及持水特性具有重要影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "被誉为“亚洲水塔”的青藏高原是我国乃至亚洲重要的水源涵养区[2]。拉萨河谷区作为青藏高原生态安全屏障的重要区域，是我国和亚洲重要的水源补给区之一。由于拉萨河谷区冬春季降水少，蒸发量大，且大风频发；该区河漫滩和河流阶地多为沙地,其易蚀性颗粒含量达 $6 9 . 4 6 \\% ^ { [ 2 2 ] }$ ,导致该区沙害严重。自20世纪80年代，该区陆续实施了一系列以防沙治沙为目的造林工程，使得区内人工林面积迅速扩大，植被覆盖度显著提升，枯落物蓄积量也明显增加。人工林的枯枝落叶层能有效增加地表粗糙度和表土含水率,减轻风蚀[23],对涵养水源、改良土壤理化性质等方面具有重要作用[24]。杨树人工林是拉萨河谷区主要的造林植被类型，然而该区杨树人工林水源涵养、防沙治沙等生态成效评估鲜有涉及，特别是造林工程实施以来，不同生长阶段下杨树人工林枯落物蓄积量及水文效应更少有报道。因此，本文以拉萨河谷区不同林龄典型杨树人工林为研究对象，旨在了解杨树人工林不同生长阶段的枯落物水源涵养特征，为该区科学营造、经营林地，促进生态工程的建设及防沙治沙生态工程效益评价提供参考依据，对青藏高原生态安全屏障建设具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区概况与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区位于拉萨河中下游河谷地带( $2 9 ^ { \\circ } 2 1 { ' } _ { \\sim }$ $2 9 ^ { \\circ } 9 0 ^ { \\prime } \\mathrm { N } , 9 0 ^ { \\circ } 4 5 ^ { \\prime } { \\sim } 9 1 ^ { \\circ } 4 8 ^ { \\prime } \\mathrm { E } )$ ,海拔高度 $3 5 0 0 { \\sim } 3 8 5 0 \\ \\mathrm { m }$ ，属高原温带半干旱季风气候，最高气温 $2 9 . 6 ~ \\mathrm { \\textdegree C }$ ，最低气温 $- 1 6 . 5 \\mathrm { ~ \\textdegree C }$ ,年平均气温 $7 . 4 ~ \\mathrm { { ^ { \\circ } C ^ { [ 2 5 ] } } }$ ;全年日照时间$3 0 0 0 \\mathrm { ~ h ~ }$ 以上,年降水量 $4 4 0 ~ \\mathrm { m m }$ ,降水在年内分配极不均匀，主要集中在6一9月，占全年降水量的 $9 0 \\%$ 左右，年蒸发量高达 $2 1 9 8 ~ \\mathrm { m m }$ 。土壤类型主要为灌丛草原土、草甸土、潮土以及风沙土[26]。植被分区属于雅鲁藏布江中游谷地灌丛草原区，植被主要由亚高山灌木、草甸和河谷人工林群落组成。其中河谷地段经多年的人工造林，形成了以杨、柳等为主的人工林系统。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2样地选择 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于杨树人工林龄组的划分，国家林业局《森林资源规划设计调查主要技术规定》(2003)中定义：杨树人工林幼龄林 $\\leqslant 1 0 \\mathrm { ~ a ~ }$ ,中龄林为 $1 1 { \\sim } 1 5 \\mathrm { ~ a ~ }$ ，近熟林为 $1 6 { \\sim } 2 0 \\mathrm { ~ a ~ }$ ，成熟林为 $2 1 \\sim 3 0 \\mathrm { ~ a ~ }$ ，过熟林 $\\geqslant 3 1$ ao基于前期实地踏勘及年轮计数法获取的杨树空间分布及其林龄数据，结合林业部门历史造林档案资料与影像数据，经过详细的野外调查，于2020年5月在拉萨河河谷区(墨竹工卡-曲水段)选择造林前生境、土壤类型、地形地势等立地条件相似的杨树人工林，即 $1 2 \\mathrm { ~ a ~ } , 1 5 \\mathrm { ~ a ~ } , 1 9 \\mathrm { ~ a ~ } , 2$ 7a和32a共5种不同林龄的典型杨树人工林。每一林龄人工林内分别布设3个 $2 0 ~ \\mathrm { m } { \\times } 2 0 ~ \\mathrm { m }$ 的标准样地，调查样地海拔、树高、胸径、冠幅以及林分密度等基本信息，详见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.1枯落物采集与储量测定于2020年5月中旬采集枯落物样本，在选定的样地内随机选取3个50$\\mathrm { c m } { \\times } 5 0 \\mathrm { c m }$ 样方作为枯落物收集区。每个样方用钢尺测定枯落物厚度至少6次，蓄积量采用全收获法[]室内剔除枯落物中的泥土、砾石等杂质后，将枯落物装袋称重作为湿重，然后放入鼓风干燥箱烘干至恒重 $( 6 5 \\mathrm { ~ \\textdegree C } , 2 4 \\mathrm { ~ h } )$ ，计算枯落物自然含水率及蓄积量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.2枯落物持水及拦蓄能力测定采用室内连续浸泡法测定枯落物持水能力[11.14]。在尽量保持枯落物原状的条件下,将烘干后的枯落物随机选取 $5 0 \\ \\mathrm { g }$ 装人尼龙网袋(预先编号并称重），重复3次。浸入清水中后，分别测定 $0 . 0 8 \\ : \\mathrm { h . 0 . 2 5 \\ : h . 0 . 5 \\ : h . 1 \\ : h . 2 \\ : h . 4 }$ $ { \\mathrm { ~ h ~ } } , 6  { \\mathrm { ~ h ~ } } , 8  { \\mathrm { ~ h ~ } } , 1 2  { \\mathrm { ~ h ~ } }$ 和 $2 4 \\mathrm { h }$ 的枯落物湿重，计算枯落物最大持水量、最大持水率、有效拦蓄量和有效拦蓄率等[19.21],计算公式为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { 0 } = M _ { 1 } - M _ { 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\mathrm { { m } } } = { \\frac { W _ { \\mathrm { { 0 } } } } { M _ { \\mathrm { { 0 } } } } } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW = ( 0 . 8 5 \\times R _ { { \\scriptscriptstyle m } } - R _ { { \\scriptscriptstyle 0 } } ) \\times M\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { i } = \\left[ ( M _ { 1 i } - M _ { 0 } ) / M _ { 0 } \\right] \\times M\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1样地基本信息",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/d3206092167dbfff2b953c3ea6185f76369df80b4164baf36a7f16f61d9b3254.jpg",
+        "table_caption": [
+            "Tab.1 General characteristics of sample plots "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>林龄/a</td><td>龄组</td><td>主要树种</td><td>经纬度</td><td>海拔/m</td><td>平均树高/m</td><td>平均胸径/cm</td><td>平均冠幅/m</td><td>林分密度/(株·hm2)</td></tr><tr><td>12</td><td>中龄林</td><td>银白杨</td><td>29°25'N,90°46'E</td><td>3842</td><td>8.2±0.6</td><td>12.3±3.2</td><td>2.2±0.3</td><td>2550</td></tr><tr><td>15</td><td>中龄林</td><td>北京杨</td><td>29°28'N,90°57'E</td><td>3588</td><td>12.4±2.5</td><td>8.60±1.5</td><td>1.5±0.4</td><td>6500</td></tr><tr><td>19</td><td>近熟林</td><td>北京杨</td><td>29°40'N,91°15'E</td><td>3611</td><td>9.2±1.8</td><td>8.85±1.7</td><td>2.0±0.4</td><td>3000</td></tr><tr><td>27</td><td>成熟林</td><td>北京杨</td><td>29°41'N,91°25'E</td><td>3705</td><td>20.1±2.3</td><td>20.9±6.7</td><td>3.4±0.8</td><td>2700</td></tr><tr><td>32</td><td>过熟林</td><td>北京杨</td><td>29°53'N,91°48'E</td><td>3720</td><td>21.5±1.7</td><td>25.1±5.6</td><td>3.1±1.1</td><td>1300</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { l } = \\left[ ( M _ { \\mathrm { 1 } } - M _ { l j } ) / M _ { \\mathrm { 0 } } \\right] \\times M\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\textstyle \\ W _ { 0 }$ 为枯落物最大持水量 ${ \\bf \\Pi } ( \\bf g ) ; { \\cal M } _ { 1 }$ 为浸泡 $2 4 \\mathrm { ~ h ~ }$ 后的枯落物质量 $( \\mathbf { g } ) \\colon M _ { 0 }$ 为风干后枯落物的质量${ \\bf \\Pi } ( \\mathbf { g } ) ; R _ { { \\scriptscriptstyle m } }$ 为最大持水率 $( \\% )$ $R _ { 0 }$ 为自然含水率 $( \\% )$ ：$W$ 为有效拦蓄量 $\\left( \\mathbf { { t } } \\cdot \\mathbf { { h m } } ^ { - 2 } \\right)$ ； $M$ 为枯落物蓄积量(t·$\\mathrm { h m } ^ { - 2 }$ )；0.85为有效拦蓄系数； $M _ { 1 i }$ 为枯落物浸泡 $i \\textrm { h }$ 后的质量 $( \\mathbf { g } ) \\dag M _ { l j }$ 为失水 $i$ 小时后的质量 $( \\mathbf { g } ) ; Q _ { i }$ 和$Q _ { \\iota }$ 分别为不同浸泡时间下枯落物持水量和同失水时间下枯落物失水量 $\\left( \\mathbf { t } \\cdot \\mathbf { h } \\mathbf { m } ^ { - 2 } \\right)$ ）",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4数据处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用Excel2010进行数据处理，运用SPSS20对",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5种不同林龄枯落物蓄积和持水能力进行单因素方差分析(One-wayANOVA),SigmaPlot14.0制图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 不同林龄枯落物蓄积量特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5种不同林龄枯落物的厚度与蓄积量有明显差异(表2)。枯落物厚度介于 $3 . 5 6 { \\sim } 6 . 0 6 ~ \\mathrm { c m } , 2 7$ a林龄枯落物厚度最大，19a的厚度最小。枯落物蓄积量范围为 $8 . 3 2 { \\sim } 2 6 . 1 2 \\ \\mathrm { t \\cdot h m } ^ { - 2 }$ ，从大到小依次排列为27a$\\cdot 2 6 . 1 2 \\mathrm { t } \\cdot \\mathrm { h m } ^ { - 2 } ) { > } 1 5$ a( $1 3 . 8 9 \\mathrm { t \\cdot h m } ^ { - 2 } ) { > } 3 2$ a( $1 2 . 7 4 \\mathrm { t } \\cdot \\mathrm { h m } ^ { - 2 } ) >$ $1 9 \\mathrm { a } ( 1 0 . 5 0 \\mathrm { t } \\cdot \\mathrm { h m } ^ { - 2 } ) { > } 1 2$ a $\\cdot 8 . 3 2 \\mathrm { t } \\cdot \\mathrm { h m } ^ { - 2 }$ )，27a林龄枯落物蓄积量显著高于其他林龄枯落物（ $( P { < } 0 . 0 5 )$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/20724c8a05897728563615fca95118d3280c446fd2dee34b68f8d7e3bd42d832.jpg",
+        "table_caption": [
+            "表2不同林龄枯落物厚度和蓄积量",
+            "Tab.2 Thickness and total litter storage capacity of litter in different stand age! "
+        ],
+        "table_footnote": [
+            "注：不同小写字母表示不同林分各指标具有显著差异（ $( P { < } 0 . 0 5 )$ 。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td>样地</td><td>林龄/a</td><td>厚度/cm</td><td>蓄积量/(t·hm-2)</td><td>自然含水率/%</td></tr><tr><td>1</td><td>12</td><td>5.72±0.46a</td><td>8.32±1.35c</td><td>6.88±0.53b</td></tr><tr><td>2</td><td>15</td><td>3.72±0.25b</td><td>13.89±2.05b</td><td>7.21±0.78b</td></tr><tr><td>3</td><td>19</td><td>3.56±0.10b</td><td>10.50±1.65bc</td><td>6.59±0.82b</td></tr><tr><td>4</td><td>27</td><td>6.06±0.25a</td><td>26.12±0.45a</td><td>9.97±0.40a</td></tr><tr><td>5</td><td>32</td><td>5.89±0.51a</td><td>12.74±2.69b</td><td>5.86±0.75b</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2不同林龄枯落物持水性能",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1不同林龄枯落物的最大持水量和最大持水率5种不同林龄枯落物最大持水量范围在 $2 4 . 0 3 \\sim$ $6 0 . 8 9 \\mathrm { ~ t } \\cdot \\mathrm { h m } ^ { - 2 }$ ，表现为27a( $6 0 . 8 9 \\mathrm { ~ t } \\cdot \\mathrm { h m } ^ { - 2 } ) { > } 1 5$ a(33.72$\\mathrm { h m ^ { - 2 } } ) { > } 3 2 \\ \\mathrm { a } ( 2 9 . 1 0 \\ \\mathrm { t } { \\cdot } \\mathrm { h m ^ { - 2 } } ) { > } 1 9 \\ \\mathrm { a } ( 2 7 . 1 3 \\ \\mathrm { t } { \\cdot } \\mathrm { h m ^ { - 2 } } ) { > } 1 2$ a$( 2 4 . 0 3 \\ \\mathrm { t } \\cdot \\mathrm { h m } ^ { - 2 } )$ )。不同林龄枯落物可最大程度上吸持自身干质量 $2 . 2 8 { \\sim } 2 . 8 9$ 倍的雨水，27a林龄枯落物吸持能力显著高于其他林龄 $( P { < } 0 . 0 5 )$ 。由图1可知，林龄12a的最大持水率最高( $2 8 8 . 6 7 \\%$ )，之后随着林龄增加依次为 $2 4 3 . 0 3 \\%$ (15a) $2 5 8 . 4 5 \\%$ (19a）、$2 3 3 . 1 2 \\% ( 2 7 \\mathrm { a } )$ 和 $2 2 8 . 3 7 \\% ( 3 2 \\mathrm { a } )$ ○",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/af6d9bec12eb4a067ed799eaaaadd5326edb1a0ba072f5c63dd939c16c17ce85.jpg",
+        "img_caption": [
+            "图1不同林龄枯落物最大持水量(率)"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2不同林龄枯落物的有效拦蓄能力由图2可知，不同林龄枯落物的有效拦蓄量为 $1 9 . 8 5 { \\sim } 4 9 . 1 5 \\mathrm { ~ t ~ }$ $\\mathrm { h m } ^ { - 2 }$ ,有效拦蓄量与蓄积量的变化趋势一致，表现为$2 7 ~ \\mathrm { a } { > } 1 5 ~ \\mathrm { a } { > } 3 2 ~ \\mathrm { a } { > } 1 9 ~ \\mathrm { a } { > } 1 2 ~ \\mathrm { a }$ 。其中，27a林龄枯落物有效拦蓄量最高 $\\left( 4 9 . 1 5 \\mathrm { t } \\cdot \\mathrm { h m } ^ { - 2 } \\right)$ ）,林龄12a、15a、19a和 $3 2 \\mathrm { ~ a ~ }$ 枯落物的有效拦蓄量分别为 $1 9 . 8 5 \\mathrm { ~ t } \\cdot \\mathrm { h m } ^ { - 2 }$ 、$2 7 . 6 9 \\mathrm { t } \\cdot \\mathrm { h m } ^ { - 2 } \\cdot 2 2 . 3 7 \\mathrm { t } \\cdot \\mathrm { h m } ^ { - 2 }$ 和 $2 3 . 9 9 \\mathrm { t } \\cdot \\mathrm { h m } ^ { - 2 }$ 。不同林龄枯落物的有效拦蓄率从大到小依次排列为12a$( 2 3 8 . 4 8 \\% ) > 1 9$ a $2 1 3 . 0 9 \\%$ ） $> 1 5$ a( $( 1 9 9 . 3 6 \\% ) > 3 2$ a$( 1 8 8 . 2 5 \\% ) { > } 2 7$ a( $1 8 8 . 1 8 \\%$ ),12a林龄枯落物的有效拦蓄率显著高于其他林龄( $( P { < } 0 . 0 5 )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/cbce64469d2246f7f4dea6149127ed665affcf3e6833360c271ba59507aa5e27.jpg",
+        "img_caption": [
+            "Fig.1 Maximum water-holding capacity and rate of litter in different stand ages ",
+            "图2不同林龄枯落物有效拦蓄量(率)",
+            "Fig.2 Modified interception amount and rate of litter in different stand ages "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.3不同林龄枯落物的持水动态各林龄枯落物持水量随浸水时间增加呈逐渐增大后趋于稳定趋势(图3)，在相同时间内，27a枯落物的持水量明显高于其他林龄( $_ { ( P < 0 . 0 5 ) }$ 。 $0 { \\sim } 2 \\mathrm { h }$ 内，各林龄枯落物持水量迅速增加，其中 $2 7 \\mathrm { a }$ 吸持水量可达到最大持水量的 $8 3 \\%$ 左右，表明27a林龄枯落物在短历时降雨内（ $^ { 2 \\mathrm { ~ h ~ } }$ 内)可具有明显的持水作用； $2 { \\sim } 8 \\mathrm { ~ h ~ }$ 时间段内各林龄枯落物持水量增幅逐渐减缓，浸泡至 $1 2 \\mathrm { h }$ ，基本达饱和状态，该时段内各林龄枯落物吸持水量随时间增加从大到小均表现为 $2 7 ~ \\mathrm { a } { > } 1 5 ~ \\mathrm { a } { > } 3 2 ~ \\mathrm { a } { > } 1 9 ~ \\mathrm { a } >$ $1 2 \\mathrm { ~ a ~ }$ 。将持水量与浸水时间进行拟合，发现各林龄枯落物的持水量与浸水时间的关系均存在对数方程的变化，相关系数 $R ^ { 2 }$ 高达0.97以上(表3)，表明各林龄枯落物的持水量与浸水时间呈较显著的对数",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "80「(a) +12a -0- 15a -- 19a 350 (b) 500(c)+27a+32a (-z)/ +12a015a-19a0 280 400 +27a32a10 300140 200A 持870 +12a-15a→-19a 1000 0 02 46 81012141618202224 246 81012141618202224 24681012141618202224浸水时间/h 浸水时间/h 浸水时间/h",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3不同林龄枯落物持水量和持水速率与浸水时间关系",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f2488964706104fbecc9f703da9fac49356fc4d766c4330c096b6288f7b9f329.jpg",
+        "table_caption": [
+            "Tab.3 Relationship of water-holding capacity, waterholding rate and water soaking time in five stand ages "
+        ],
+        "table_footnote": [
+            "注：\\*\\*表示 $P { < } 0 . 0 1$ 。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">林龄/a</td><td colspan=\"2\">持水量</td><td colspan=\"2\">持水速率</td></tr><tr><td>关系式</td><td>R²</td><td>关系式</td><td>R</td></tr><tr><td>12</td><td>y=2.29ln(t)+18.25</td><td>0.97**</td><td>v=18.48t-0.83</td><td>0.99**</td></tr><tr><td>15</td><td>y=2.92ln(t)+25.51</td><td>0.99**</td><td>v=22.09t-0.81</td><td>0.99**</td></tr><tr><td>19</td><td>y=2.45ln(t)+21.14</td><td>0.97**</td><td>v=26.73t-0.82</td><td>0.99**</td></tr><tr><td>27</td><td>y=4.99ln(t)+47.01</td><td>0.99**</td><td>U=48.92t-0.84</td><td>0.99**</td></tr><tr><td>32</td><td>y=2.86ln(t)+21.50</td><td>0.98**</td><td>v=22.41t-0.80</td><td>0.99**</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "关系。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "不同林龄枯落物持水速率随浸水时间均呈现一致的减小趋势，且各林龄间差异较大，在持水的初始阶段(2h内)表现尤为明显。综合来看，枯落物在浸水伊始持水速率最大，浸水 $2 \\mathrm { { h } }$ 内，持水速率迅速下降，其中，27a持水速率较其他林龄显著下降中 $_ { ( P < 0 . 0 5 ) }$ ,但其持水速率均高于其他林龄，且其他林龄间无显著差异 $( P { > } 0 . 0 5 )$ ；浸泡 $2 { \\sim } 2 4 \\mathrm { ~ h ~ }$ 时段，各林龄枯落物持水速率逐渐趋于稳定，且各林龄间差异不显著( $( P { > } 0 . 0 5 )$ )。将各林龄枯落物的吸水速率与浸水时间进行拟合，均呈显著幂函数减小趋势( $R ^ { 2 }$ 均达0.99)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.4不同林龄枯落物的失水过程枯落物的风干过程(即失水过程)在一定程度上反映了其在自然条件下的保水能力，是枯落物截流保水能力的间接体现[27]。不同林龄枯落物失水量、失水率随时间延长呈逐渐增加趋势，其失水过程均可分为快速失水$( 0 { \\sim } 4 \\mathrm { h } )$ 和缓慢失水 $( 4 { \\sim } 4 8 \\mathrm { h } )$ 两阶段(图4)。失水伊始至 $^ { 4 \\mathrm { h } }$ 时,27a林龄枯落物失水量最高,15a、32a、$1 9 \\mathrm { a }$ 次之， $1 2 \\mathrm { ~ a ~ }$ 失水量最小;随后各林龄枯落物失水量均以 $2 7 ~ \\mathrm { a } { > } 1 5 ~ \\mathrm { a } { > } 3 2 ~ \\mathrm { a } { > } 1 9 ~ \\mathrm { a } { > } 1 2$ a缓慢失水至 $^ { 4 8 \\mathrm { ~ h ~ } }$ 均未达稳定状态。将各林龄枯落物的失水量与失水时间进行拟合，均表现为失水量随时间延长呈显著对数函数增长趋势，拟合相关系数高达0.99(表4)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图4所示，不同林龄枯落物失水速率随失水时间均呈现减小趋势，各林龄枯落物失水速率有差异性，在快速失水阶段 $( 0 { \\sim } 4 \\mathrm { h } )$ 表现尤为明显。各林龄枯落物在前 $^ { 4 \\mathrm { h } }$ 失水速率呈迅速减小趋势，其中，27a失水速率显著大于其他林龄( $_ { \\cdot } P { < } 0 . 0 5 )$ ，其次为1 $5 \\mathrm { ~ a ~ } , 3 2 \\mathrm { ~ a ~ } , 1 9 \\mathrm { ~ a ~ } , 1 2 \\mathrm { ~ a ~ }$ ;在缓慢失水阶段，不同林龄枯落物失水速率逐渐减小至趋于稳定，各林龄间无显",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "40 (a)+12a -15a -19a 100 (b) +12a015a-19a 250[(c）+12a -e-15a --19a →27a32a 80 →27a32a （1/ 200 +27a+32a Q %/率 60 150   \n20 □ 40 100 4   \n10 20 50   \n0 0 0 4 8 1216 2024 283236404448 4 8 1216 202428 3236404448 4 812162024283236404448 失水时间/h 失水时间/h 失水时间/h ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "著差异 $( P { > } 0 . 0 5 )$ 。将各林龄枯落物的失水速率与失水时间进行拟合，均呈显著幂函数减小趋势( $\\cdot \\ R ^ { 2 }$ 达0.99以上)(表4)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表4不同林龄枯落物失水速率与失水时间关系式",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f86374dc2347c95f1a304ed18488480d1959e8751e5d421323158c7feb154934.jpg",
+        "table_caption": [
+            "Tab.4 Relationship ofwater loss capacity,water loss rate and water dehydration time in five stand ages "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">林龄/a</td><td colspan=\"2\">失水量</td><td colspan=\"2\">失水速率</td></tr><tr><td>关系式</td><td>R</td><td>关系式</td><td>R²</td></tr><tr><td>12</td><td>y=9.62ln(t+10.51)-22.65</td><td>0.99**</td><td>v=22.98t-1.04</td><td>0.99**</td></tr><tr><td>15</td><td>y=10.82ln(t+6.82)-19.13</td><td>0.99**</td><td>v=29.95t-1.06</td><td>1.00**</td></tr><tr><td>19</td><td>y=8.59ln(t+13.45)-21.76</td><td>0.99**</td><td>v=25.33t-1.04</td><td>1.00**</td></tr><tr><td>27</td><td>y=15.94ln(t+9.77)-33.51</td><td>0.99**</td><td>v=54.89t-1.03</td><td>0.99**</td></tr><tr><td>32</td><td>y=9.79ln(t+8.08)-19.47</td><td>0.99**</td><td>v=26.50t-1.05</td><td>1.00**</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1不同林龄典型杨树人工林枯落物蓄积状况",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "拉萨河谷典型杨树人工林枯落物蓄积量表现为27a林龄枯落物蓄积量最大,其次为 $1 5 \\mathrm { ~ a ~ } , 3 2 \\mathrm { ~ a ~ }$ 19a,12a枯落物蓄积量最小。枯落物的蓄积量与树种的林龄、生长状况等自身特性及林下的植被类型、立地环境等外部条件有关[19]。有研究表明枯落物的蓄积量随着林龄增大而增加[28]。本研究结果中，12a的蓄积量显著低于 $1 5 \\mathrm { a } _ { \\cdot } 1 9 \\mathrm { : }$ 和 $2 7 \\mathrm { a }$ 。随着林龄增加,林木生长日趋旺盛,林分结构逐步完善[18],成熟林的枯落物输出量较中龄林、近熟林大，因而蓄积量在27a林龄的成熟林阶段达最佳。到32a时，即过熟林阶段，林木逐渐老化、更新减缓，其生长量有所下降[29],枯落物输入量与蓄积量减小。本研究与杨家慧等[18和富丽等2的研究结果基本一致。林分密度不同使得林木受到的太阳辐射、降雨截留以及林冠大小具有差异性，进而导致枯落物蓄积量变化[13]。林分密度越大，枯落物分解越慢[30]，现存量与林分密度显著正相关[31]。郭婧等[32]认为林分密度的增加能够促进枯落物储量的输入。15a林地的林分密度为6500株， $\\mathrm { h m } ^ { - 2 }$ ,远大于其他林龄，这可能是15a林龄枯落物蓄积量仅次于27a的主要原因。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2不同林龄典型杨树人工林枯落物的持水性能",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.1最大持水量(率)与有效拦蓄量(率）枯落物水源涵养能力主要包括厚度、蓄积量、持水量、持水率、拦蓄量、拦蓄率等4。随着林龄增加，拉萨河谷典型杨树人工林枯落物的持水性能总体呈逐渐增加后减小趋势，成熟林达最佳。最大持水量与有效拦蓄量常用以表示枯落物层的水源涵养功能[33]。5种不同林龄枯落物的最大持水量与有效拦蓄量均表现为 $2 7 ~ \\mathrm { a } { > } 1 5 ~ \\mathrm { a } { > } 3 2 ~ \\mathrm { a } { > } 1 9 ~ \\mathrm { a } { > } 1 2 ~ \\mathrm { a }$ ，表明27a枯落物水源涵养功能显著高于其他林龄枯落物。通过方差分析，枯落物最大持水量、有效拦蓄量与枯落物的蓄积量呈显著正相关关系（ $_ { ( P < 0 . 0 5 ) }$ ，说明蓄积量是影响最大持水量与有效拦蓄量差异的主要因素[28]。拉萨河谷区杨树人工林枯落物输入量的提高及现存量的保护对林地水源涵养能力的提升有重要意义。枯落物最大持水率、有效拦蓄率随林龄增加呈逐渐减小趋势，但无显著差异性(除12a枯落物）。这表明林龄对北京杨枯落物最大持水率与有效拦蓄率无显著影响，各林龄枯落物的半分解层占比及分解程度不同可能是两组指标随林龄逐渐减小的主要因素[5]。此外，12a林龄枯落物最大持水量与有效拦蓄量显著低于其他林龄，但最大持水率、有效拦蓄率均显著高于其他林龄。Yuan等[34]发现树种对枯落物持水率有显著影响，由于12a主要树种为银白杨，且该林地中混有少量青杨树种，相同树种下枯落物的最大持水率在各生长阶段无显著差异[33],两种林木的混交导致枯落物组成与质地发生改变，这可能是最大持水率、有效拦蓄率均高于其他林龄的主要原因。林木类型是最大持水率、有效拦蓄率的重要影响因素，在今后应重视拉萨河谷防沙治沙工程的人工林营造与优化中树种的选择。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.2持水过程与失水过程枯落物的吸、失水过程是枯落物截流保水能力的直接与间接体现。本研究中拉萨河谷典型杨树人工林的枯落物持水量、失水量随持水、失水时间延长的动态变化过程中，均表现为27a最大，其次为 $1 5 \\textrm { a } , 3 2 \\textrm { a } , 1 9 \\textrm { a } , 1 2$ a枯落物蓄积量最小。持水量与失水量主要受枯落物蓄积量的影响[16]。由于林龄和树种的差异，各林龄枯落物持水率、失水率随林龄增加具有差异性。总体上来看，27a枯落物持水量最大，且失水率最小，其拦蓄、保水能力最强。从枯落物持水过程来看，由于风干状态下的枯落物表面水势低，枯落物在浸泡初期持水速率最大，随着浸水时间的增加，枯落物湿润程度增加，持水速率逐渐降低[2]。本研究中，枯落物在浸泡前 $2 \\mathrm { h }$ 内的持水量可达到最大持水量的 $8 3 \\%$ 左右，表明枯落物在浸水的 $^ { 2 \\mathrm { ~ h ~ } }$ 内对降雨的拦蓄能力较强。在失水过程中，各林龄枯落物在失水前 $^ { 4 \\mathrm { ~ h ~ } }$ 内失水明显，但失水 $4 8 \\mathrm { ~ h ~ }$ 后仍未达稳定状态。刘一霖等\"认为川西高山峡谷区6种森林枯落物失水 $2 4 \\mathrm { h }$ 后均未达稳定，表明失水过程较吸水过程更缓慢，枯落物具有良好的保水能力。本研究结果进一步说明了拉萨河谷不同林龄典型杨树人工林枯落物虽然前 $^ { 4 \\mathrm { h } }$ 失水较快，但保水时间可至少达 $4 8 \\mathrm { { h } }$ ，拦蓄与保水能力较好，这更有利于蒸发量较大的拉萨河谷区人工林地水分的保持。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究中各林龄枯落物具有较好的拦蓄截流能力，通过对比分析，不同生长阶段的典型杨树林中成熟林的持水功能最佳。枯落物的持水性能与分解速率有密切联系。邓艳等认为各林分分解层和半分解层的持水能力皆大于未分解层。半分解层占比与持水量成正相关[33]。本研究仅对各林龄枯落物的总持水性能进行分析研究，未考虑不同林龄下不同分解层枯落物的持水特性，今后应加强研究。森林水文效应是通过林冠层、枯落物层和土壤层对降水进行再分配，进而达到截流保水，因此，今后还应加强林冠层和土壤层的综合水文效应研究以及强化多树种、多生长阶段的典型人工林研究，为更详细地评价拉萨河谷区防风固沙林水源涵养功能提供科学依据",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "拉萨河谷区典型杨树人工林枯落物充分发挥了减轻风蚀、涵养水源等重要作用。本研究中，5种不同林龄枯落物蓄积量变化介于 $8 . 3 2 { \\sim } 2 6 . 1 2 \\ \\mathrm { t \\cdot h m } ^ { - 2 }$ ，可吸持自身干质量2.28\\~2.89倍的雨水，有效拦蓄量达 $1 9 . 8 5 { \\sim } 4 9 . 1 5 ~ \\mathrm { t \\cdot h m } ^ { - 2 }$ ,具有良好的截流拦蓄效益；枯落物蓄积量、持水性能（最大持水量、有效拦蓄量)均随林龄表现为 $1 2 { \\mathrm { a } } { < } 1 9 { \\mathrm { a } } { < } 3 2 { \\mathrm { a } } { < } 1 5 { \\mathrm { a } } { < } 2 7$ a,27 a林龄枯落物最佳，表明林龄是提高持水性能的重要推动因素，且成熟林水源涵养能力最强。在拉萨河谷区典型杨树人工林的经营和管理等方面，应采取有效措施，如对过熟林进行适当采伐更新以提高林地生产力；加强林地管护，促进枯落物层的保护与积累；在优化防风固沙林中应更加注重造林树种的选择与合理配置，本研究为实现防风固沙、保持水土等生态效益可持续发展具有重要意义。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References):",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]孙向阳,王根绪,吴勇,等.川西亚高山典型森林生态系统截留 水文效应[J].生态学报,2013,33(2):501-508.[Sun Xiangyang, Wang Genxu,Wu Yong,etal.Hydrologic regime of interception for typical forest ecosystem at subalpine of Western Sichuan, China[J]. Acta Ecologica Sinica,2013,33(2): 501-508.]   \n[2]胡晓聪,黄乾亮,金亮.西双版纳热带山地雨林枯落物及其土壤 水文功能[J].应用生态学报,2017,28(1):55-63.[Hu Xiaocong, Huang Qianliang,Jin Liang. Hydrological functions of the litters and soil of tropical montane rain forest in Xishuangbanna, Yunnan, China[J]. Chinese Journal of Applied Ecology,2017,28(1): 55-63.]   \n[3]张晓梅,邸利,史再军,等.甘肃泾川中沟小流域不同坡位刺槐 人工林土壤水分特征[J].干旱区研究,2019,36(5):1300-1308. [Zhang Xiaomei,Di li, Shi Zaijun,et al. Soil moisture content under artificial Robinnia pseudoacacia forestat different slope positions in the Zhonggou minor basin, Jingchuan County,Gansu Province[J].Arid Zone Research,2019,36(5):1300-1308.]   \n[4]王美莲,王飞,姚晓娟,等.不同林龄兴安落叶松枯落物及土壤 水文效应研究[J].生态环境学报,2015,24(6):925-931.[Wang Meilian,Wang Fei, Yao Xiaojuan, etal.Hydrological effects of forest litters and soil in Xing'an Larch Forest at different stand ages [J].Ecology and Environmental Sciences,2015,24(6): 925-931.]   \n[5]侯贵荣,毕华兴,魏曦,等.黄土残塬沟壑区3种林地枯落物和 土壤水源涵养功能[J].水土保持学报,2018,32(2):357-363. [Hou Guirong,Bi Huaxing,Wei Xi,etal.Water conservation function of litters and soil in three kinds of woodlands in gully region of Loess Plateau[J]. Journal of Soil and Water Consevation,2018,   \n32(2): 357-363.] [6]张学龙,金铭,刘贤德,等.祁连山5种典型灌木林枯落物蓄积 量及其持水特性[J].生态环境学报,2015,24(5):735-740. [Zhang Xuelong,Jin Ming,Liu Xiande,et al.Litter storage and its water holding capacity characteristics of five typical shrubs in Qilian Mountains[J]. Ecology and Environmental Sciences,2015,24 (5): 735-740. ] [7]邓艳,蒋忠诚,覃星铭,等.岩溶生态系统中不同植被枯落物对 土壤理化性质的影响及岩溶效应[J].生态学报,2009,29(6):   \n3307-3315.[Deng Yan, Jiang Zhongcheng,Qin Xingming,et al. Impacts of litter on physical and chemical soil properties and its karst effects on different forested Karst ecosystem[J].Acta Ecologica Sinica,2009,29(6): 3307-3315.] [8]范琳杰,李向义,李成道,等.极端干旱区花花柴(Karelinia caspia)和胡杨(Populus euphratica)叶凋落物分解和养分释放特征 [J].干旱区研究,2021,38(2): 479-486.[Fan Linjie,Li Xiangyi, Li Chengdao,et al.Decomposition and nutrient release characteristics of Karelinia caspia and Populus euphratica leaf liters in extreme arid regions[J].Arid Zone Research,2021,38(2): 479-486.] [9]Upton A,Vane C H,Girkin N,et al.Does liter input determine carbon storage and peat organic chemistry in tropical peatlands? [J]. Geoderma,2018,326: 76-87. [10] 杨寒月,张光辉,张宝军.黄土丘陵区沟坡典型植物群落枯落物 蓄积量及其持水性能[J].中国水土保持科学,2019,17(3):83-   \n90.[Yang Hanyue, Zhang Guanghui, Zhang Baojun. Growth characteristics of typical plant communities on gully slopes in the Losee hilly-gully region[J].Research of Soil and Water Conservation,   \n2019, 17(3): 83-90.] [11] 陈波,杨新兵,赵心苗,等.冀北山地6种天然纯林枯落物及土 壤水文效应[J].水土保持学报,2012,26(2):196-202.[Chen Bo, Yang Xinbing, Zhao Xinmiao,et al.Hydrological effcts of six natrual pure forests litters and soil in northern mountain of Hebei provinc[J]. Journal of Soil and Water Consevation,2012,26(2):   \n196-202.] [12] 张伟,杨新兵,张汝松,等.冀北山地不同林分枯落物及土壤的 水源涵养功能评价[J].水土保持通报,2011,31(3):208-212. [Zhang Wei, Yang Xinbing, Zhang Rusong,et al. Evaluation on water conservation functions of litter and soils under different forests in mountainous area of northern Hebei Province[J]. Bulletin of Soil and Water Conservation,2011,31(3): 208-212.] [13] 王玲,赵广亮,周红娟,等.八达岭林场不同密度油松人工林枯 落物水文效应[J].生态环境学报,2019,28(9):1767-1775. [Wang Ling, Zhao Guangliang, Zhou Hongjuan, et al. Hydrological characteristics of litter ina Pinus tabulaeformis plantation with different densities in BadalingForest Farm[J].Ecologyand Environmental Sciences,2019,28(9): 1767-1775.] [14] 杨霞,陈丽华,康影丽,等.辽东低山区5种典型水源涵养林枯 落物持水特性[J].生态学杂志,2019,38(9):2662-2670.[Yang Xia,Chen Lihua,Kang Yingli,etal.Water-holding characteristics of litter in five typical water conservation forests in low mountainousareasofeasternLiaoning[J].Chinese Journalof Ecology, 2019,38(9): 2662-2670.]   \n[15] 莫菲,于澎涛,王彦辉,等.六盘山华北落叶松林和红桦林枯落 物持水特征及其截持降雨过程[J].生态学报,2009,29(6): 2868-2876.[Mo Fei,Yu Pengtao, Wang Yanhui,et al.The waterholdingcapaiyofliesieforssofripiisu prechtii and Betula albo-sinensis in Liupan Mountain and their rainfall interceptionprocessJ].ActaEcologica Sinica,2009,29(6): 2868-2876.]   \n[16] 刘一霖,温娅檬,李巧玉,等.川西高山峡谷区6种森林枯落物 的持水与失水特性[J].水土保持学报,2019,33(5):151-156. [Liu Yilin,Wen Yameng,Li Qiaoyu,etal.Water-holding and water-losscharacterstsofsixtypes offorestliterintealpina gorge region of western Sichuan[J]. Journal of Soil and Water Consevation,2019,33(5): 151-156.]   \n[17] Zhang B B, $\\operatorname { X u } Q$ ,Gao DQ,etal.Highersoilcapacityofintercept ing heavy rainfallin mixed stands than in pure stands in riparian forests[J]. Science of the Total Environment,2019,658:1514-1522.   \n[18] 杨家慧,谭伟,卯光宪,等.黔中不同龄组柳杉人工林枯落物水 源涵养能力综合评价[J].水土保持学报,2020,34(2):296-301. [Yang Jiahui, Tan Wei, Mao Guangxian,et al. Water conservation abilityof litter in Cryptomeria fortunei plantation with different age groups in central Guizhou[J]. Journal of Soil and Water Consevation,2020,34(2): 296-301.]   \n[19] 高迪,郭建斌,王彦辉,等.宁夏六盘山不同林龄华北落叶松人 工林枯落物水文效应[J].林业科学研究,2019,32(4):26-32. [Gao Di,Guo Jianbin,Wang Yanhui,et al.Hydrological effcts of forestlitersofLrix rincis-uppechtilantatiosivaing ages in Liupanshan of Ningxia,China[J]. Forest Research,2019, 32(4): 26-32.]   \n[20] 富丽,赵锦梅,李永宁,等.陇东黄土高原不同林龄苹果林地枯 落物及土壤的水文效应[J].水土保持通报,2018,38(5):40-45. [Fu Li, Zhao Jinmei,Li Yongning,etal. Hydrological effects of litters and soil in apple tree plantation at different stand ages of Longdong Loess Plateau[J]. Bulletin of Soil and Water Conservation,2018,38(5): 40-45.]   \n[21] 王振波,李嘉欣,郭义强,等.青藏高原山水林田湖草生态保护 修复模式——以拉萨河流域为例[J].生态学报,2019,39(23): 8966-8974.[Wang Zhenbo,Li Jiaxin,Guo Yiqiang,et al.Ecological protection and restoration model of multi-ecological elements in Qinghai-Tibet Plateau: A case study of Lhasa River Basin[J]. Acta Ecologica Sinica,2019,39(23): 8966-8974.]   \n[22] 常春平,原立峰.拉萨河下游河谷区风沙灾害现状、成因及发展 趋势探讨[J].水土保持研究,2010,17(1):122-126.[Chang Chunping, Yuan Lifeng. A disscussion on thestatus,origin and developmental trends of blown-sand in the valley of lower reaches of ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Lhasa River, Tibet Plateau[J].Research of Soil and Water Conser",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "vation,2010,17(1):122-126.] [23] 李昂,高天鹏,张鸣,等.西北风蚀区植被覆盖对土壤风蚀动态 的影响[J].水土保持学报,2014,28(6):120-123.[Li Ang,Gao Tianpeng, Zhang Ming,et al. Influences of vegetation cover on dynamic changes of soil wind erosion in wind erosion region of Northwest China[J]. Journal of Soil and Water Consevation,2O14,28(6):   \n120-123.] [24] 刘小娥,苏世平,李毅,等.黄土高原地区人工林营造—混交林 模式生态效益研究[J].干旱区研究,2021,38(2):380-391.[Liu Xiao'e,Su Shiping,Li Yi,et al. Study on the ecological benefits of a plantation mixed forest model in the Loess Plateau[J].Arid Zone Research,2021,38(2): 380-391.] [25] Xin F M,Yan X L, Zhang C Y,et al. Characteristics of stem sap flow of two poplar species and their responses to environmental factors[J]. Scientia Silvae Sinicae,2019,55(2): 22-32. [26]Dai FQ,Lyu ZQ,Liu G C.Assessing soil quality for sustainable cropland management based on factor analysis and fuzzy sets: A case study in the Lhasa River Valley,Tibetan Plateau[J]. Sustainability,2018,10(10): 3477. [27] 宝虎,赵鹏武,周梅,等.大兴安岭南段典型天然林枯枝落叶层 及土壤层持水特性研究[J].干旱区资源与环境,2020,34(2):   \n175-181.[Bao Hu, Zhao Pengwu, Zhou Mei,et al. Water holding capacits of litters and soils in typical natural forests in south of Da Xing'an Mountains[J]. Journal of Arid Land Resources and Environment,2020,34(2): 175-181.] [28] 石亮,舒洋,张波,等.不同龄组兴安落叶松林枯落物的水文效 应[J].水土保持通报,2016,36(5): 91-95.[Shi Liang,Shu Yang, Zhang Bo,et al.Hydrological effects of litters in Xing'an larch forest at different stand ages[J]. Journal of Soil and Water Conservation,2016,36(5): 91-95.] [29]马和平,赵垦田,杨小林,等.拉萨半干旱河谷人工杨树纯林生 态增益研究[J].安徽农业科学,2010,38(32):18204-18207.[Ma Heping, Zhao Kentian, Yang Xiaolin,et al. Study on the ecological gain of artificial pure poplar forest in semi-arid valley region of Lasa[J]. Journal of Anhui Agricultural Sciences 2O10,38(32): 18204- 18207.]   \n[30] 李明军,喻理飞,杜明凤,等.不同林龄杉木人工林植物-凋落 叶-土壤C、N、P化学计量特征及互作关系[J].生态学报,2018, 38(21): 7772-7781.[Li Mingjun,Yu Lifei, Du Mingfeng,et al. C, N,and P stoichiometry and their interaction with plants,litter,and soil in a Cunninghamia lanceolata plantation with different ages [J]. Acta Ecologica Sinica,2018,38(21): 7772-7781.]   \n[31] 赵鸣飞,薛峰,吕烨,等.黄土高原森林枯落物储量、厚度分布规 律及其影响因素[J].生态学报,2016,36(22):7364-7373.[Zhao Mingfei,Xue Feng,Lyu Ye,etal. The effect of environmental factors on the distribution of litter mass and litter depth in forests of loess plateau region[J].Acta Ecologica Sinica,2016,36(22): 7364-7373.]   \n[32] 郭婧,喻林华,方晰,等.中亚热带4种森林凋落物量、组成、动 态及其周转期[J].生态学报,2015,35(14):4668-4677.[Guo Jing,Yu Linhua,Fang Xi,et al.Litter production and turnover in four types of subtropical forests in China[J].Acta Ecologica Sinica,2015,35(14): 4668-4677.]   \n[33] 李文影,满秀玲,张阳武.不同林龄白桦次生林土壤特性及其水 源涵养功能[J].中国水土保持科学,2009,7(5):63-69.[Li Wenying,Man Xiuling, Zhang Yangwu. Soil properties and water conservation function of Betula platyphylla secondary forest with different stand ages[J]. Science of Soil and Water Conservation, 2009, 7(5): 63-69.]   \n[34] Yuan Y,Li X, Xiong D H,et al. Efects of restoration age on water conservation function and soil fertility quality of restored woodlands in phosphate mined-out areas[J]. Environmental Earth Sciences,2019,78(23): 1-14. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Litter storage and its water-holding capacity of Populus plantations in Lhasa River Valley ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "LIU Lin1,23， XIONG Donghong1²， ZHANG Baojun12, YUAN Yong1,23，ZHANG Wenduo1.,2,3   \n(1.Key Laboratory of Mountain Hazards and Earth Surface Processs,Chinese Academy of Sciences,Chengdu   \n610041,Sichuan,China; 2.Institute of Mountain Hazards and Environment, Chinese Academy of Sciences,   \nChengdu 610041,Sichuan, China; 3. Universityof the Chinese Academy of Sciences,Beijing 100049, China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Liter is an important functional layer with hydrological benefits for forests.It can effectively perform ecosystem functions,such as increasing surface roughness,capturing precipitation,and improving soil structure, thus promoting water retention function in the soil.Total liter amount and water-holding capabilities of Populus plantations in Lhasa River Valley are important for exploring water conservation capacity of Tibetan plateau plantations.Five diferent stand ages (12a,15a,19a,27a,and32a)ofPopulus plantations were investigated in the Lhasa River Valley area.Total liter storage capacity was determined using harvesting methods.Water-holding performance indicators,such as maximum water-holding capacity,maximum water-holding rate, modified interception amount,and modified interception rate,were measured using the immersion method. We found the folowing results: (1）Total liter storage capacity,maximum water-holding capacity,and modified interception amount of the five stand ages all showed $2 7 ~ \\mathrm { a } { > } 1 5 ~ \\mathrm { a } { > } 3 2 ~ \\mathrm { a } { > } 1 9 ~ \\mathrm { a } { > } 1 2 ~ \\mathrm { i }$ a,which ranged from 8.32 to $2 6 . 1 2 \\mathrm { t } \\cdot \\mathrm { h m } ^ { - 2 }$ ,24.03 to $6 0 . 8 9 \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { - 2 }$ （204号 and 19.85 to $4 9 . 1 5 ~ \\mathrm { t } \\cdot \\mathrm { h m } ^ { - 2 }$ ,respectively. The litter of 27 a had the best water-holding capacity.We found total liter storage capacity and stand characteristics were the main factors afecting maximum water-holding capacity and effective interception. (2) Maximum water-holding rate and modified interception rate of liters exhibited 12 （204号 $a { > } 1 9 \\ a { > } 1 5 \\ a { > } 2 7 \\ a { > } 3 2 ;$ a,ranging from $2 2 8 . 3 7 \\%$ to $2 8 8 . 6 7 \\%$ and $1 8 8 . 1 8 \\%$ to $23 8 . 4 8 \\%$ ，respectively. The maximum water-holding rate and modified interception rate were not significantly influenced by stand age, but mainly influenced by tree type. Our results provide a scientific basis for ecological engineering and its ecological benefits for evaluation in the Lhasa River Valley area. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Keywords: stand age; Populus plantations; liters; water-holding capacity; Lhasa River Valley ",
+        "page_idx": 8
+    }
+]

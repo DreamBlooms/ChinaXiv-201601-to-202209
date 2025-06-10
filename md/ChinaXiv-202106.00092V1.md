@@ -1,0 +1,144 @@
+# 塔里木河下游生态输水条件下胡杨林生态系统恢复研究
+
+朱成刚'，艾克热木·阿布拉²，李卫红¹，周洪华1(1.中国科学院新疆生态与地理研究所,荒漠与绿洲生态国家重点实验室,新疆 乌鲁木齐830011;2.新疆塔里木河流域管理局,新疆 库尔勒841000)
+
+摘要：基于文献阅读，对塔里木河下游生态输水条件下胡杨林生态系统的恢复响应进行了讨论分析。生态输水显著抬升了地下水位，降低了地下水矿化度与土壤干旱指数，有效改善了塔里木河下游胡杨林生态系统的生境；胡杨复壮明显，距河道 $5 0 \mathrm { m }$ 胡杨冠幅最大增长达 $5 1 1 . 2 0 \%$ ，距河道$5 0 0 \mathrm { m }$ 内胡杨枯枝比平均小于0.15。输水后，下游胡杨树干径向生长平均增加 $6 2 . 8 0 \%$ ，以胡杨为建群种的下游荒漠河岸林植被面积从2000年的 $4 9 2 \mathrm { k m } ^ { 2 }$ 增加到2020年的 $1 4 2 3 \ \mathrm { k m } ^ { 2 }$ ,其中，低、中、高覆盖度植被面积分别增加 $2 0 . 8 0 \%$ ） $4 4 8 . 0 0 \%$ 和 $1 9 0 . 0 0 \%$ ；下游生态环境与植被群落对输水响应敏感，随输水量变化响应波动;现有输水模式因缺乏面上水文过程而难以保障下游胡杨林的有效更新，胡杨种群历经输水20a依然保持“倒金字塔"型的退化龄级结构，并出现显著的性比偏雄与性别空间分异；胡杨群落依然处于恢复演替的初级阶段且不稳定，下游生态系统退化态势尚未彻底扭转。基于研究综述，探讨了塔里木河下游生态恢复中存在的问题，提出“优化输水方案，扩大受水面积和采取更加积极的恢复措施”的建议。
+
+关键 词：塔里木河；生态输水；胡杨；生态恢复
+
+# 文章编号：
+
+塔里木河是世界第五大内陆河，地处暖温带极端干旱区,生态系统极为脆弱[1-2]。沿塔里木河流域发育的以胡杨(PopuluseuphraticaOliv.)为优势建群种的荒漠河岸林是中亚重要的荒漠森林生态系统，为区域提供着包括资源供给、气候调节、风沙防护、水土保持和生物多样性保护等多重生态服务功能[3-5]，同时,也是重要的胡杨基因库[6-7]。然而,由于塔里木河流域各主要源流区大规模水土资源开发，导致水资源在流域上下游空间分布的逐渐失衡，下游来水逐年减少。自20世纪70年代起，塔里木河下游近 $4 0 0 ~ \mathrm { k m }$ 河道长期断流，尾闾湖泊台特玛湖干涸，塔里木河下游胡杨林生态系统严重退化衰败，荒漠化加剧，生物多样性显著降低，“绿色走廊"濒临消失，生态环境日趋恶化，成为20世纪末中国西北干旱区生态问题最为突出的典型区之一[1.8]。国家从2000年开始向塔里木河下游实施生态输水，以挽救垂死的胡杨林。本文通过梳理塔里木河下游实施生态输水以来胡杨林生态系统恢复的相关研究，归纳了生态输水条件下胡杨林生态系统的恢复状况，探讨了生态输水中存在的问题，并提出对策建议，旨在为塔里木河流域的二期治理与塔里木河下游胡杨林生态系统保育恢复提供参考与支撑。
+
+# 1生态输水对塔里木河下游胡杨林 生态系统生境的改善
+
+# 1.1地下水位有效抬升，随生态输水量变化波动
+
+地下水是干旱区自然植被赖以生长与生存的重要水源，是控制塔里木河流域胡杨林植被群落分布、演替和生长的关键生境因子[9-10]。胡杨凭借其地下水湿生特性,得以在极端干旱的塔里木盆地生存、繁衍，并成为该区域具有重要生态服务价值的
+
+# 干旱区地理
+
+荒漠河岸林生态系统的优势建群种[5]。塔里木河下游长时间断流导致地下水位持续下降，生态输水前下游沿河地下水埋深普遍已经增大至 $8 { \sim } 1 2 \mathrm { m }$ ,这是造成沿河胡杨林显著衰败及群落物种多样性受损的重要原因["。生态输水下，塔里木河下游的地下水位显著抬升[12-13],下游距河道 $5 0 0 \mathrm { ~ m ~ }$ 范围内地下水埋深由生态输水前2000年的平均 $8 . 5 7 \mathrm { ~ m ~ }$ 恢复到2020年的平均 $4 . 4 0 \mathrm { ~ m ~ }$ 。这是持续生态输水对沿河浅层地下水有效补给的结果。结合输水中各断面水量监测，利用水平衡方法测算，大西海子水库下泄水量中补给沿岸土壤包气带、地下水和沿途河面蒸发耗散及进入台特玛湖的水量分别占 $4 4 . 5 0 \%$ 、$4 3 . 7 0 \% . 3 . 1 0 \%$ 和 $8 . 7 0 \%$ ，有 $8 8 . 2 0 \%$ 的水量补给了塔里木河下游沿岸包气带与地下水，有效改善了胡杨林生境4。但同时，基于多年的地下水位监测，我们也不难发现，塔里木河下游的地下水位随不定期的生态输水水量变化波动明显。在输水早期(2000一2003年），经5次大水量生态输水后，地下水响应明显，并在2003年地下水位恢复至一个阶段峰值，其中下游英苏村以上的区段地下水位抬升幅度超过 $8 0 . 0 0 \%$ ,横向影响范围超过 $1 0 0 0 \mathrm { m } ^ { [ 1 4 - 1 5 ] }$ 。2004—2009年伴随输水量的下降，特别是2007—2009年，上游来水锐减，大西海子连续3a下泄水量不足$0 . 2 5 { \times } 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ ,塔里木河下游各区段地下水位显著下降；2010年后，随塔里木河向下游输送水量加大，下游两岸地下水位再次抬升，但单一年份的输水量下降同样会导致沿岸地下水位大幅波动与显著下降，比如2014年[14],保障塔里木河下游相对稳定的河道内生态流量与下泄水量是维持两岸地下水位稳定的关键。
+
+# 1.2地下水矿化度显著降低，两岸淡化带范围扩大
+
+塔里木河下游第四纪沉积层厚度超过 $2 0 0 \mathrm { ~ m ~ }$ ，含水层为颗粒细小的细沙和粉细沙层为主，并夹杂多个黏土层，透水性和导水能力不佳[12]。区内可被生态系统利用的地下水主要是具有自由表面的潜水，多为塔里木河渗漏形成，水质不好，矿化度 $3 \sim$ $1 0 \ \mathrm { g } \bullet \mathrm { L } ^ { - 1 }$ ,局部与河道或古河道距离较近区段潜水矿化度 $1 { \sim } 3 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 或 ${ < } 1 \ \mathrm { g } \bullet \mathrm { L } ^ { - 1 }$ ,属于河水冲淡型透镜体，厚度一般 $3 0 \mathrm { ~ m ~ }$ 左右。多年河道断流使得塔里木河下游可被植被利用的浅层地下水失去补给，随同地下水位下降，地下水矿化度也显著升高，输水前塔里木河下游两岸的地下水矿化度已经普遍在 $3 \mathrm { g } \bullet \mathrm { L } ^ { - 1 }$ 以上，甚至为大于 $1 0 \ \mathrm { g \cdot L ^ { - 1 } }$ 的盐卤水，这进一步加剧了下游胡杨的渗透胁迫与整体退化[1]。经过生态输水，塔里木河下游两岸的地下水矿化度显著下降，沿河两岸横向 $1 ~ \mathrm { k m }$ 范围内平均由输水前的 $\scriptstyle 4 \sim$ $1 1 \ \mathrm { g } \bullet \mathrm { L } ^ { - 1 }$ 左右降至 $1 { \sim } 5 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 \ [ 1 7 ] }$ 。其中下游上、中段的地下水矿化度由输水前的 $4 { \sim } 5 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 下降到 $1 { \sim } 3 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 两岸淡化带影响范围最远延伸至距河道 $1 ~ \mathrm { k m }$ 左右[14]。地下水矿化度与生态输水量显著相关，2005一2008年，随输水量减少，地下水矿化度表现出明显的上升波动[14]
+
+# 1.3生态输水缓解了全球升温可能对下游胡杨林生态系统的负面影响
+
+气候变化被认为是影响全球生物多样性的一个重要威胁[18],全球快速升温将对各类生态系统产生显著影响，一些研究已经揭示了气候变化对植物生长与发展的负面作用[19-20]。中国西北干旱区对全球气候变化响应尤为敏感，升温更快。过去几十年,这里的气温以 $0 . 3 3 { \sim } 0 . 3 9 ~ \mathrm { { ^ { \circ } C } \cdot ( 1 0 a ) ^ { - 1 } }$ 增幅上升[21-22]尽管分析显示，中国西北干旱区的降水也在增加，但升温导致的水循环加剧和干旱区蒸散发改变更趋明显,并抵消了降水增加的效应[23-24]。研究分析显示，塔里木河下游过去 $6 0 \mathrm { ~ a ~ }$ 标准化降水蒸散指数(SPEI)指示的气象干旱呈显著增强趋势，但输水后沿河胡杨林立地的土壤水分随输水对包气带和地下水的补给作用而有效改善，胡杨林生境土壤干旱指数整体呈下降趋势，生态输水在一定程度上抵消并阻断了全球升温引发的气象干旱对塔里木河下游胡杨林可能带来的负面效应[14]。基于胡杨树木年轮的分析也发现，受生态输水影响，当塔里木河下游沿岸地下水埋深小于 $6 \mathrm { m }$ 的情况下，升温对胡杨的生长具有促进作用[9]。
+
+# 2胡杨生长与生理生态过程对生态输水的响应
+
+# 2.1 塔里木河下游胡杨显著复壮
+
+历经几十年的断流与生态退化，目前塔里木河下游的荒漠河岸林植被带主要分布在河道两侧 $1 \mathrm { k m }$ 左右的范围内[25]。胡杨的生物量主要分布在距离河道 $7 0 0 \mathrm { ~ m ~ }$ 范围内，占到了塔里木河下游胡杨总生物量的 $9 1 . 3 7 \%$ ，且胡杨生物量整体在横向上随着距河道渐远而减少[26]。生态输水对河岸两侧生境的主要影响范围与胡杨林的分布区域基本重合，输水显著改善了胡杨个体的长势，特别是近河道 $5 0 0 \mathrm { ~ m ~ }$ 范围内的胡杨[12.27]。输水后沿河胡杨的当年生小枝长度及枝条上叶片数与叶长、叶宽、叶重均明显增加28；相比输水前，在距离河道 $5 0 \mathrm { m }$ 处，胡杨冠幅最大增加了 $5 1 1 . 2 0 \%$ ;距离河道 $5 0 0 \mathrm { m }$ 范围内胡杨成株的枯枝比显著下降，平均小于0.15,但距离河道 $1 0 0 0 \mathrm { m }$ 和 $1 5 0 0 \mathrm { m }$ 处胡杨枯枝比仍高达0.42和 $0 . 7 4 ^ { \left[ 2 9 - 3 0 \right] }$ ；胡杨树干的径向生长也在输水后平均增长 $6 2 . 8 0 \%$ ，且胡杨枝下高呈下降趋势[15.30]。输水后胡杨的新增生物量显著增加了 $1 5 4 . 4 0 \% ^ { [ 3 1 ] }$ ,胡杨林郁闭度在离河道 $5 0 \mathrm { ~ m ~ }$ 处比输水前增加了 $3 8 0 . 8 0 \% ^ { [ 1 4 ] }$ 。这些都显示，生态输水有效遏制了塔里木河下游胡杨林的衰败，胡杨个体长势出现明显复壮。
+
+# 2.2胡杨生理生态活性显著提升
+
+塔里木河下游胡杨可利用的水分主要来源于地下水与深层土壤水[32]。生态输水前受地下水位持续下降与土壤水分降低、地下水矿化度升高与土壤盐分增加等生境恶化影响，下游胡杨处在不同程度的干旱胁迫与渗透胁迫中。研究已经揭示，干旱与盐胁迫会从器官形态结构[33]、植株个体生长与生物量分配[34]、光合作用[35]、水力传导与渗透调节[16.36]、内源激素调控[37]等多个方面影响植物生理生态过程。输水通过抬升地下水位、改善水质和土壤水分条件,促进沿河胡杨的光合速率与光合活性[35.38]；使得胡杨叶片正午保持更高水势与更好的水分条件[16.38];改善并恢复胡杨木质部的水力传导与干旱胁迫下栓塞的木质部导管[39-40],使胡杨木质部中径流显著提升[4I],为胡杨生长提供更好的水分保障,并进一步改善胡杨的光合同化作用与整体生长。对比其他几个河岸林杨树种,胡杨干旱胁迫下的脆弱性相对更大，对干旱响应更为敏感，干旱条件下胡杨木质部栓塞程度更高、水力导度损失更大[36]。在野外常常表现出因水力传导失败造成的死梢与枯枝，这是干旱胁迫的结果,也是胡杨将更多生物量分配至吸水根系的一种适应与应对干旱的策略。水分条件一旦改善，胡杨能够在复水后逐步恢复包括光合、气孔导度、水力传导和生长调节等功能[36，这是胡杨在输水后明显复壮的生理生态基础。陈亚宁等多位学者基于输水前后胡杨林群落内植被生理生态指标对地下水位的响应,确定并提出了塔里木河下游胡杨林生态系统恢复的适宜生态水位在 $2 { \sim } 4 \mathrm { m }$ 左右,胁迫地下水位 $6 \mathrm { m }$ ,临界地下水位 $9 { \sim } 1 0 ~ \mathrm { m }$ 左右的结论[11.42-43],为塔里木河下游胡杨林生态系统的恢复提供了重要的支撑。
+
+# 3生态输水对胡杨种群发展与群落格局的影响
+
+# 3.1输水遏制了胡杨的衰败，但未扭转种群结构老化、更新乏力和退化的态势
+
+基于塔里木河下游生态监测断面多年的野外调查监测和区域尺度上的遥感监测分析可知，生态输水基本遏制了塔里木河下游胡杨的衰败,两岸胡杨植株个体得以不同程度复壮,植株冠幅、郁闭度及生物量均增加、个体径向生长与生理指标明显改善[8.14]。输水前下游胡杨普遍死梢、衰败凋亡的颓势得到遏制[31]。调查发现,胡杨的种群更新在输水后仅出现在近河道 $3 0 0 \mathrm { ~ m ~ }$ 范围内，相对较高比例的幼株也只是出现在近河道处[630],并且更新的幼株多为无性繁殖产生。生态输水抬升了地下水位，改善了胡杨生存的生境,这对塔里木河下游衰败的胡杨是一个拯救的过程,但是却难以实现胡杨的落种更新[29]。这是因为,胡杨实生苗只有在洪水作用下的洪泛环境与土壤湿润处方能落种定植5。由于具R策略属性的有性繁殖受抑，胡杨种群更新乏力，种群及植株个体适合度均不同程度下降。历经生态输水 $2 0 \mathrm { ~ a ~ }$ ,塔里木河下游胡杨种群的龄级结构依然呈“倒金字塔"型，种群发展动态指数与种群密度统计结果均指示区内胡杨种群衰退的趋势尚未彻底扭转44。近河道处胡杨克隆幼株比例随地下水抬升增大是生态输水对胡杨种群结构重要改善与促进，并且，克隆繁殖可以在地下水位浅但是由于上层土壤盐分较高、阻止落种更新的区段实现种群更新545。试验分析也显示，在相似地下水位与生境条件下，由于胡杨成株对其克隆幼株的水分生理整合，使其克隆繁殖具有K策略的属性，进而克隆幼株能够在极端干旱生境下较实生幼株具有相对更好的水分获取能力与生存优势[46]。但在现实中，胡杨根孽繁殖的速率和有效性难以满足塔里木河下游胡杨种群的更新需求，且过渡依赖无性繁殖对胡杨种群的基因多样性可能产生的影响尚不确定。调查发现,塔里木河下游胡杨种群性比显著偏雄,且性别空间分异明显，这种趋势在下游胡杨无性繁殖
+
+# 干吴区地理
+
+下可能进一步恶化,并加剧种群的退化[44]
+
+# 3.2胡杨林群落植被长势好转，但群落物种多样性变化不显著，稳定性不足
+
+塔里木河下游的生态输水工程有效改善了胡杨林群落的生境，尤其是水分条件的改善对下游胡杨林群落内植被长势有明显促进作用[29.47-49]。下游胡杨林生态系统自然归一化植被指数(NDVI)随生态输水整体呈增加趋势,NDVI由输水前的平均0.14提升至目前的 $0 . 2 1 ^ { [ 5 0 ] }$ 。伴随生态输水进程和地下水位的抬升，塔里木河下游胡杨林生态系统自然植被面积从2000年的 $4 9 2 \mathrm { k m } ^ { 2 }$ 扩大到2020年的 $1 4 2 3 \mathrm { k m } ^ { 2 }$ 增幅达到 $1 8 8 . 0 0 \%$ 。其中，2020年塔里木河下游低、中、高覆盖度的植被较2000年分别增加 $2 0 . 8 0 \%$ ，$4 4 8 . 0 0 \%$ 和 $1 9 0 . 0 0 \%$ ，自然植被在多年间随输水量变化呈上下波动[14.51-52]。有研究显示,下游植物种类由输水前的9科13属17种，增加到输水后的15科36属46种[52],但样地调查发现物种多样性较高的区域仅发生在河漫滩与试验漫溢区，且多为抗干扰能力较弱的草本和半灌木，而胡杨林群落内物种多样性变化不大。输水改善了胡杨林群落内植被的长势，但超过 $8 5 \%$ 的群落植被分布格局表现为聚集分布，且受输水影响明显并对输水量响应敏感，胡杨林群落多处于恢复演替的初级阶段，尚难以自我维持并恢复，在输水量下降的年份均出现不同程度逆向演替，整个群落稳定性依然不足[29.48.53]。
+
+# 4生态输水及胡杨林生态系统恢复的局限性
+
+塔里木河下游的生态输水工程取得了较好的生态与社会效益，是新疆和我国西北干旱区内陆河流域综合治理与生态修复较为成功的案例。回顾过去20a生态输水的历程与塔里木河下游胡杨林生态系统的恢复研究，可以发现一些不足：
+
+（1）生态输水影响范围有限，下游胡杨林种群退化态势尚未彻底扭转。过去20a塔里木河下游实施的生态输水主要沿齐文阔尔河与老塔里木河河道下泄，生态水通过下渗与侧渗补给两岸地下水和包气带,地下水影响范围有限，在 $1 0 0 0 \mathrm { m }$ 左右[14],对胡杨种群更新明显改善也多在近河道 $3 0 0 \mathrm { ~ m ~ }$ 以内[6.30],胡杨依然主要分布在距河 $7 0 0 \mathrm { ~ m ~ }$ 的狭窄范围内[26]。目前单一沿河道的生态输水方式缺乏胡杨林群落植被落种更新与有效恢复所需的洪泛环境[5],这在一定程度上限制了生态输水的整体效益[14]。下游胡杨种群更新乏力、年龄结构老化、群落稳定性不佳的退化态势尚未彻底扭转[44.54]
+
+（2）生态水量保障水平与调度管理方案有待提高与完善。向塔里木河下游输送的生态水量在很大程度上仰赖上游各源流的来水保障。过去20a是塔里木河流域上游各源流区及干流区耕地面积增加最为迅速的时段，尤其是塔里木河干流，灌溉面积的增加速度及幅度较各源流更大[55]。持续增长的灌溉面积和农业用水是流域“三生”用水供需矛盾加剧的主要原因，也在一定程度上增加了下游生态需水保障的不确定性。过去20a的生态输水调度管理相对粗放，有待优化，最大与最小输水量相差可达100倍以上，2007—2009年3a下泄生态水量不足 $0 . 2 5 { \times } 1 0 ^ { 8 } \mathrm { m } ^ { 3 } , 2 0 1 7$ 年下泄水量单年曾超过 $1 2 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ 入台特玛湖水量 $2 . 3 0 { \times } 1 0 ^ { 8 } \mathrm { m } ^ { 3 [ 1 4 ] }$ ,湖面水域最大超过$5 5 0 \mathrm { k m } ^ { 2 }$ ，对流域丰枯情景下的水资源调控与生态输水的管理有待优化。
+
+（3）下游胡杨林生态系统依然脆弱，稳定性有待提高。生态输水受上游源流丰枯与流域“三生”用水供需关系影响，在输水时间与输水量上仍存在较大不确定性,整体波动较大[14]。对生态输水量极为敏感的塔里木河下游胡杨林生态系统植被格局与植被群落结构尚不稳定[14.54],胡杨种群结构老化,更新整体乏力,胡杨幼株占比不足 $1 0 \% ^ { [ 4 4 ] }$ 。遇枯水年，生态输水量减少，塔里木河下游地下水位会快速下降、矿化度上升，且沿河胡杨林生态系统植被盖度下降、胡杨径向生长降低等[14.53],生态系统整体仍然较为脆弱，稳定性和自我维持能力有待提升。
+
+# 5建议
+
+（1）充分利用下游新老河道与水系汊道，开展水系连通建设与包括节制闸、引水闸等生态输水辅助设施建设；构建塔里木河干流与孔雀河、纳绅河及齐文阔尔河与老塔河河道间的河-河连通体系，增大生态输水影响范围，共同恢复包括孔雀河下游与塔里木河下游组成的"绿色走廊”。
+
+（2）明确并分阶段科学规划塔里木河下游生态修复范围与恢复目标，科学确定台特玛湖恢复水域面积与入湖生态水量，优化输水方案；建议水头到达台特玛湖后即由上而下分段实施有控制漫溢，将生态输水措施与塔里木河卜游胡杨生繁规律相契合，在胡杨落种期实施有控制的人造洪泛环境，优先对近河道种群结构相对较好的胡杨群落实施面上给水，促进其有性繁殖与林下植被层恢复；建立塔里木河下游胡杨苗圃，围绕库-格(库尔勒-格尔木)铁路、218国道和乌-尉(乌鲁木齐-尉犁)高速公路的生态防护科学规划生态补植，结合多种措施改善下游胡杨林退化的种群结构与群落格局，促进下游胡杨林生态系统有效恢复重建。
+
+(3）进一步完善塔里木河流域水资源管理体制，强化流域水资源的统一调配管理，优化并加强最严格水资源管理的水量管控目标，恢复并强化塔里木河干流“生态河流"的属性，保障下游生态输水常态化与输水时间、输水量的稳定，减少输水波动与不确定因素，促进下游生境稳定恢复，逐步增强塔里木河下游胡杨林生态系统的稳定性与恢复力。
+
+# 参考文献(References)
+
+[1]陈亚宁,李卫红,陈亚鹏,等.科技支撑新疆塔里木河流域生态 修复及可持续管理[J].干旱区地理,2018,41(5):901-907. [Chen Yaning,Li Weihong,Chen Yapeng,et al. Science in supporting the ecological restoration and sustainable development of the Tarim River Basin[J].Arid Land Geography,2018,41(5): 901- 907.]   
+[2] 陈亚宁,陈亚鹏,朱成刚,等.西北干旱荒漠区生态系统可持续 管理理念与模式[J].生态学报,2019,39(20):7410-7417.[Chen Yaning,Chen Yapeng,Zhu Chenggang,et al.The concept and mode of ecosystem sustainable management in arid desert areas in northwest China[J]. Acta Ecologica Sinica,2019,39(20): 7410- 7417.   
+[3] Aishan T,Halik U,Betz F,et al.Modeling height-diameter relationship for Populus euphratica in the Tarim riparian forest ecosystem,northwest China[J]. Journal of Forest Research, 2016,27(4): 889-900.   
+[4] Wang D D,Yu Z T,Peng G,et al.Water use strategies of Populus euphratica seedlings under groundwater fluctuation in the Tarim River Basin of Central Asia[J]. Catena,2018,166(7): 89-97.   
+[5] Thomas F M,Lang P.Growth and water relations of riparian poplar forests under pressure in Central Asia's Tarim River Basin[J].River Research Application,2021,37(2): 233-240.   
+[6] ThomasFM,YuR,SchferP,etal.How diverse are Populus"diversifolia"leaves? Linking leaf morphology to ecophysiological and stand variables along water supply and salinity gradients[J]. Flora, 2017,233(3): 68-78.   
+[7] Ling HB, Zhang P,Xu HL,et al.How to regenerate and protect desert riparian Populus euphratica forest in arid areas[J]. Scientific Reports,2015,5: 15418,doi: 10.1038/srep15418.   
+[8] 陈曦,包安明,王新平,等.塔里木河近期综合治理工程生态成 效评估[J].中国科学院院刊,2017,32(1):20-28.[Chen Xi, Bao Anming, Wang Xinping,et al.Ecological effect evaluation of comprehensive control project in Tarim River Basin[J].Bulletin of Chinese Academy of Sciences,2017,32(1): 20-28.]   
+[9]Zhou HH, Chen YN, Zhu C G,et al. Climate change may accelerate the decline of desert riparian forest in the lower Tarim River, northwestern China: Evidence from tree-rings of Populus euphratica[J].Ecological indicators,2020,111(4): 105997,doi: 10.1016/j. ecolind.2019.105997.   
+[10]Pang Z H, Huang T M,Chen Y N. Diminished groundwater recharge and circulation relative to degrading riparian vegetation in the middle Tarim River,Xinjiang Uygur,western China[J]. Hydrological Processes,2009,24(2): 147-159.   
+[11]Chen Y N, Zillacus H, Li W H,et al. Groundwater level affects plant species diversity along the lower reaches of the Tarim River, western China[J]. Journal of Arid Environment,20O6,66(2): 231- 246.   
+[12] 李丽君,张小清,陈长清,等.近20 a塔里木河下游输水对生态 环境的影响[J].干旱区地理,2018,41(2):238-247.[Li Lijun, Zhang Xiaoqing, Chen Changqing,et al. Ecological effects of water conveyance on the lower reaches of Tarim River in recent twenty years[J]. Arid land Geography,2018,41(2): 238-247.]   
+[13] 杨鹏年,董新光,吾买尔江.塔里木河下游第五次应急输水后地 下水恢复量的计算[J].自然资源学报,2005,20(1):1-6.[Yang Pengnian,Dong Xinguang,Omerjan. Calculation of groundwater recharge volume after the fifth emergency water transfer to the lower reaches of the Tarim River, Xinjiang[J]. Journal of Natural Resources,2005,20(1): 1-6.]   
+[14] 邓铭江,黄强,畅建霞,等.大尺度生态调度研究与实践[J].水力 学报,2020,51(7): 757-773.[Deng Mingjiang,Huang Qiang, Chang Jianxia,et al.Large-scaleecologicaloperationresearch andpractice[J]. Journal of Hydraulic Engineering,2020,51(7): 757-773.]   
+[15] 陈亚宁,李卫红,徐海量,等.塔里木河下游地下水位对植被的 影响[J].地理学报,2003,58(4): 542-549.[Chen Yaning,Li Weihong,Xu Hailiang,et al.The influence of groundwater on vegetation in the lower reachesof Tarim River, China[J].Acta Geographica Sinica,2003,58(4): 542-549.]   
+[16] Fu A H, Chen Y N,Li W H.Analysis on water potential of Populus euphratica Oliv and its meaning in the lower reaches of Tarim River, Xinjiang[J].Chinese ScienceBuletin,006,51(supp1.):22 228.   
+[17]Hao X M, Li W H. Impact of ecological water conveyance on groundwater dynamics and vegetation recovery in the lower reaches of the Tarim River in northwest China[J]. Environmental Monitoring and Assessment,2014,186(11): 7605-7616.   
+[18]McculloughIM,Davis FW,Williams A P.Arange ofposibilities: Assessing geographic variation in climate sensitivity of pon
+
+# 干旱区地理
+
+derosa pine using tree rings[J].Forest Ecology and Management, 2017,402(20): 223-233.   
+[19]Thomas C D,Cameron A,Green R E,et al.Extinction risk from climate change[J]. Nature,2004,427(6970): 145-148.   
+[20] Hamann A, Wang T.Potential effcts of climate change on ecosystem and tree species distribution in British Columbia[J]. Ecology, 2006,87(11): 2773-2786.   
+[21]Li BF, Chen Y N, Shi X. Why does the temperature rise faster in the arid region of northwest China[J]? Journal of Geophysical Research:Atmospheres，2012,117(8):D16115，doi:10.1029/ 2012JD017953.   
+[22] Chen Y N,Li Z, Fan Y. Progress and prospects of climate change impacts on hydrology in thearid region of northwest China[J]. Environmental Research,2015,139(5): 11-19.   
+[23]Yang YH, Chen YN,Li WH,et al.Climatic change of inland river basin in an arid area:A case study in northern Xinjiang, China [J]. Theoretical and Applied Climatology,2012,107(1): 143-154.   
+[24]Su B D, Huang JL,Fischer T,et al. Drought losses in China might double between the $1 . 5 ~ \mathrm { { ^ \circ C } }$ and $2 . 0 ~ \mathrm { { ^ { q } C } }$ warming[J].Proceedings of the National Academy of Sciences,2018,115(42): 10600-10605.   
+[25] 朱绪超,袁国富,邵明安,等.塔里木河下游河岸带植被的空间 结构特征[J].植物生态学报,2015,39(11):1053-1061.[Zhu Xuchao, Yuan Guofu, Shao Mingan,etal.Spatial patern of riparian vegetation in desert of the lower Tarim River Basin[J]. Chinese Journal of Plant Ecology,2015,39(11):1053-1061.]   
+[26] 王希义,徐海量,潘存德,等.塔里木河下游胡杨生物量及其空 间分布特征[J].西北植物学报,2016,36(1):2314-2321.[Wang Xiyi,Xu Hailiang,Pan Cunde,et al.Spatial distribution of Populus euphratica biomass in the lower reaches of Tarim River[J].Acta Botanica Boreali-Occidentalia Sinica,2016,36(11): 2314-2321.]   
+[27]Lang P,Ahlborn J,Schafer P,et al. Growth and water use of Populus euphratica trees and stands with diferent water supply along the Tarim River,NW China[J]. Forest Ecology and Management, 2016,380(15): 139-148.   
+[28] 李卫红,陈亚鹏,张宏峰,等.塔里木河下游断流河道应急输水 与地表植被响应[J].中国沙漠,2004,24(3):301-305.[Li Weihong, Chen Yapeng, Zhang Hongfeng, et al. Response of vegetation to water input at lower dry Tarim River[J].Journal of Desert Research,2004,24(3): 301-305.]   
+[29] 徐俏,叶茂,徐海量,等.塔里木河下游生态输水对植物群落组 成、多样性和稳定性的影响[J].生态学杂志,2018,37(9):2603- 2610.[Xu Qiao,Ye Mao,Xu Hailiang,et al. Effects of ecological water conveyance on the composition,diversity and stability of plant communities in the lower reaches of Tarim River[J]. Chinese Journal of Ecology,2018,37(9): 2603-2610.]   
+[30] 牛婷,李霞,张绘芳,王建刚,等.胡杨对非确定性输水响应的生 态表征[J].资源科学,2012,34(5): 819-826.[Niu Ting,Li Xia, Zhang Huifang,et al.Ecological characterization of Populus euphratica's response to non-deterministic water delivery[J]. Resources Science,2012,34(5): 819-826.]   
+[31]Ling H B, Zhang P,Guo B,et al. Negative feedback adjustment challenges reconstruction study from tree rings:A study case of response of Populus euphratica to river discontinuous flow and ecological water conveyance[J]. Science of the Total Environment, 2017,574(1): 109-119.   
+[32] 陈亚宁,李卫红,陈亚鹏,等.荒漠河岸林建群植物的水分利用 过程分析[J].干旱区研究,2018,35(1):130-136.[Chen Yaning, Li Weihong, Chen Yapeng,et al. Water use process of constrctive plants in desert riparian forest[J].Arid Zone Research, 2018, 35(1): 130-136.]   
+[33] Guerfel M, Baccouri O, Boujnah D,et al. Impacts of water stress ongas exchange,water relations,chlorophyll content and leaf structure in the two main Tunisian olive (Olea europaea L.) cultivars[J]. Scientia Horticulturae,2009,119(3): 257-263.   
+[34] Gries D, Zeng F,Foetzki A,et al. Growth and water relations of Tamarix ramosissima and Populus euphratica on Taklamakan Desert dunes in relation to depth to a permanent water table[J].Plant, Cell and Environment,2003,26(5): 725-736.   
+[35] Chen YP, Chen Y N,Li W H,et al. Characterization of photosynthesis of Populus erphratica grown in the arid region[J].Photosynthetica,2006,44(4): 622-626.   
+[36]Hukin D, Cochard H, Dreyer E,et al. Cavitation vulnerability in roots and shoots: Does Populus euphratica Oliv.,a poplar from arid areas of Central Asia,differ from other poplar species[J]. Journal of Experimental Botany,2005,56(418): 2003-2010.   
+[37]Zhuang L, Chen Y N.Physiological responses of three contrasting plant species to groundwater level changes in an arid environment [J]. Journal of IntegrativePlant Biology,2006,48(5): 520-526.   
+[38] 朱成刚,陈亚宁,李卫红,等.干旱胁迫对胡杨PSII光化学效率 和激能耗散的影响[J].植物学报,2011,46(4):413-424.[Zhu Chenggang,Chen Yaning,Li Weihong,etal.Effect of drought stress on photochemical efciency and dissipation of excited energy in photosystem II of Populus euphratica[J]. Chinese Bulletin of Botany,2011,46(4): 413-424.]   
+[39]Ayup M, Chen Y N, Nyongesah M J,et al. Xylem anatomy and hydraulic traits of two co-occurring riparian desert plants[J]. Iawa Journal,2015,36(1): 69-83.   
+[40] Zhou H, Chen Y,Li W,et al. Xylem hydraulic conductivity and embolism in riparian plants and their responses to drought stress in desert of northwest China[J]. Ecohydrology.2013,6(6): 984-993.   
+[41]Ma JX,Huang X,Li W H. Sap flow and trunk maximum daily shrinkage (MDS) measurements for diagnosing water status of $P o p$ （20 ulus euphratica in an inland river basin of northwest China[J].Ecohydrology,2013,6(6): 994-1000.   
+[42]Hao X M, Chen Y N,Li W H. Indicating appropriate groundwater tables for desertriver-bank forest atthe Tarim River, Xinjiang, China[J].Environmental Monitoring and Assessment, 2009,152 (6): 167-177.   
+[43]Hao X M,Li WH,Huang X,et al.Assessment of the groundwater threshold of desert riparian forest vegetation along the middle and lower reaches of the Tarim River.China[J].Hydrological Process, 2010(24): 178-186.   
+[44] 周莹莹,陈亚宁,朱成刚,等.塔里木河下游胡杨种群结构[J].中 国沙漠,2018,38(2):315-323.[Zhou Yingying,Chen Yaning, Zhu Chenggang,et al.Population structure characteristics of Populus euphratica in the lower reaches of Tarim Rive[J].Journal of Desert Research,2018,38(2): 315-323.]   
+[45]Kramp K, Schmitt T,Lang P,et al. Clones or no clones: Genetic structure of riparian Populus euphratica forests in Central Asia[J]. Journal of Arid Land,2018,10(5): 750-766.   
+[46] Zhu C G,Li W H, Chen Y N,et al.Characteristics of water physiological integration and its ecological significance for Populus euphratica young ramets in an extremely drought environment[J]. Journal of Geophysical Research,2018,123(10): 5657-5666.   
+[47]陈亚宁,李卫红,陈亚鹏,等.塔里木河下游断流河道输水的生 态响应与生态修复[J].干旱区研究,2006,23(4):521-530. [Chen Yaning,Li Weihong,Chen Yapeng,et al. Ecological response and ecological regeneration of transfusing stream water along the dried-up watercourse in the lower reaches of the Tarim River,Xinjiang[J].Arid Zone Research,2006,23(4): 521-530.]   
+[48] 陈永金,刘加珍,陈亚宁,等.输水前后塔里木河下游物种多样 性与水因子的关系[J].生态学报，2013,33(7):2212-2224. [Chen Yongjin,Liu Jiazhen,Chen Yaning,et al.Analysis of the relationship between species diversity and hydrologic factors during an interval of intermitent water delivery at the lower reaches of Tarim River,China[J]. Acta Ecologica Sinica,2013,33(7): 2212- 2224.]   
+[49] 孙天瑶,李雪梅,许民,等.2000—2018年塔里木河流域植被覆 盖时空格局[J].干旱区地理,2020,43(2):415-424.[Sun Tianyao,Li Xuemei,Xu Min,etal.Spatial-temporalvariations of vegetation coverage in the Tarim River Basin from 2OOO to 2O18lJl.Ar
+
+id Land Geography,2020,43(2): 415-424.]
+
+[50] 雍正,赵成义，施枫芝,等.近20年塔里木河干流区地下水埋深 变化特征及其生态效应研究[J].水土保持学报,2020,34(3): 182-189.[Yong Zheng,Zhao Chengyi, Shi Fengzhi,et al.Variation characteristics of groundwater depth and its ecological effect in the main stream of Tarim River in Recent 2O years[J].Journal of Soil and Water Conservation,2020,34(3): 182-189.]   
+[51]王珊珊,王金林,周可法,等.塔里木河下游土地利用/覆被变化 对生态输水的响应[J].水资源保护,2021,37(2):69-74,80. [Wang Shanshan,Wang Jinlin, Zhou Kefa,et al. Response of land use/land cover change to ecological water transmission in the lower reach of Tarim River[J].Water Resources Protection, 2O21,37(2): 69-74,80.]   
+[52] 刘斌,赵雅莉,白洁,等.塔里木河下游流域输水工程生态效应 评价研究[J].地理空间信息,2020,18(3):112-117.[Liu Bin, Zhao Yali,Bai jie,et al.Ecological effect evaluation of water conveyance project in the lower reaches of Tarim River[J]. Geospatial Information,2020,18(3): 112-117.]   
+[53] 邓铭江,周海鹰,徐海量,等.塔里木河下游生态输水与生态调 度研究[J].中国科学(技术科学),2016,46(8):864-876.[Deng Mingjiang, Zhou Haiying,Xu Hailing,et al.Research on the ecological operation in the lower reaches of Tarim River based on water conveyance[J]. Science China: Technologica, 2016,46(8): 864- 876.]   
+[54] 史浩伯,陈亚宁,李卫红,等.塔里木河下游植被种间关系与稳 定性分析[J].干旱区研究,2020,37(1):220-226.[Shi Haobo, Chen Yaning,Li Weihong,et al.Interspecific association and stability of vegetation in the lower reaches of the Tarim River[J].Arid Zone Research,2020,37(1): 220-226.]   
+[55] 任强,龙爱华,杨永民,等.近20年塔里木河干流生态环境变化 遥感监测分析[J].水利水电技术,2021,52(3):103-111.[Ren Qiang,Long Aihua, Yang Yongmin, et al.Analysis on remote sensing monitoring of eco-environment variation of main stream basin of Tarim River in recent 2O years[J].Water Resources and Hydropower Engineering,2021, 52(3): 103-111.]
+
+# Ecosystem restoration of Populus euphratica forest under the ecological water conveyance in the lower reaches of Tarim River
+
+ZHU Chenggang'， Aikeremu Abula， LI Weihong'， ZHOU Honghua' (1.State KeyLaboratoryofDesertandOasis Ecology,Xinjiang InstituteofEcologyandGeography,ChineseAcademyofSciences, Urumqi830o1,Xinjiang,China；2.Xinjiang Tarim River Basin Authority,Korla 841ooo,Xinjiang, China)
+
+Abstract: The desert riparian forest distributed in the Tarim River Basin,with Populus euphratica Oliv.as the dominant species,is an important desert forest ecosystem in Central Asia.It provides multiple ecological services for the region,including resource supply,climate regulation,sand protection,soil and water conservation,andbiodiversity protection,and an important $P .$ euphratica gene pool. However, because of the large-scale development of water and soil resources in the upper reaches of the Tarim River Basin,the spatial distribution of water resources in its upper and lower reaches is gradually imbalanced, resulting in a $4 0 0 \mathrm { - k m }$ river cutoff in the lower reaches of the Tarim River. As a result, $P .$ euphratica forest ecosystems in the lower reaches of the basin were seriously degraded,desertification intensified,biodiversitywas significantlyreduced,andtheecological environmentdeteriorated day by day. In 20o,the Chinese government began to implement an ecological restoration project in the Tarim River and enforce ecological water conveyance to the lower reaches to save the dying $P .$ euphratica forest. On the basis of the literature review, in this paper, the restoration of $P .$ euphratica forest ecosystems under ecological water conveyance in the last 2O years in the lower reaches of the Tarim River was discussd and analyzed. Ecological water conveyance significantly raised the groundwater level,reduced the groundwater salinity and soil drought index,and effectively improved the habitat of $P .$ euphratica forest ecosystems in the lower reaches of the Tarim River. The rejuvenation of $P .$ euphratica was obvious: its crown width increased by $51 1 . 2 0 \%$ at $5 0 \mathrm { m }$ away from the river,and its crown was full within $5 0 0 \mathrm { ~ m ~ }$ away from the river; the average ratio of dead branches was less than O.15. Because of water conveyance, on average, the radial growth of $P .$ euphratica trunk increased by $6 2 . 8 0 \%$ ,and the vegetation area of the desert riparian forest with $P .$ euphratica as the constructive species increased from $4 9 2 \ \mathrm { k m } ^ { 2 }$ in 2000 to $1 4 2 3 ~ \mathrm { k m } ^ { 2 }$ in 2020. Low-，medium-,and high-coverage vegetation areas increased by $20 . 8 0 \%$ ， $4 4 8 . 0 0 \%$ ,and $1 9 0 . 0 0 \%$ ,respectively, in the lower reaches of the Tarim River. The ecological environment and vegetation community in the lower reaches ofthe Tarim River were sensitive to and fluctuated with changes in water conveyance.The existing ecological water conveyance mode barely ensured the effective regeneration of the $P .$ euphratica forest in the lower reaches because of its lack of surface hydrological processes, and the $P .$ euphratica population still maintained the“inverted pyramid” degradation age class structure after 20 years of ecologic water conveyance.There were significant sex ratio bias and sexual spatial segregation in the $P .$ euphratica community in the lower reaches of the Tarim River,which was still in the primary stage of restoration and succession,and the degradation trend of the downstream $P .$ euphratica community had not been completelyreversed.On the basisofthe review,in this paper,the problems in the ecological restoration of the lower reaches of the Tarim River were discussed,and suggestions for“optimizing the water conveyance scheme, expanding the water receiving area, and taking more active restoration measures” were put forward.
+
+Key words: Tarim River; ecological water conveyance; Populus euphratica; ecological restoration

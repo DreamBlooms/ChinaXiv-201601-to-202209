@@ -1,0 +1,226 @@
+牛奶中霉菌毒素来源、转化及危害高亚男1,2.3王加启1,2,3 郑楠1,2.3\*(1.农业部奶产品质量安全风险评估实验室（北京)，北京100193；2.农业部奶及奶制品质量监督检验测试中心（北京)，北京 100193；3.中国农业科学院北京畜牧兽医研究所，动物营养学国家重点实验室，北京 100193)
+
+摘要：霉菌毒素污染是牛奶质量安全的主要风险之一，其种类主要包括黄曲霉毒素（AFs)赭曲霉毒素（OT）、玉米赤霉烯酮（ZEA）、伏马毒素（FUM）、脱氧雪腐镰刀菌烯醇（DON）、T-2 毒素（T-2）等。牛奶中的霉菌毒素主要来源于动物饲料，本文在国内外已有文献报道基础上，对牛奶中霉菌毒素来源、转化以及危害、限量进行综述。
+
+关键词：霉菌毒素；牛奶；来源；危害
+
+中图分类号：TS201.6 文献标识码： 文章编号：
+
+据联合国粮食及农业组织（FAO）报道，在全球范围内，受到不同程度霉菌毒素污染的谷物约占谷物总量的 $2 5 \%$ ，而在我国，霉菌毒素污染谷物的现象尤为突出，污染率在 $9 0 \%$ 以上[1-2]。其中，黄曲霉毒素（aflatoxins,AFs）、赭曲霉毒素（ochratoxins,OTs）、玉米赤霉烯酮（zearalenone,ZEA，又称F-2毒素）、脱氧雪腐镰刀菌烯醇（deoxynivaleno,DON，亦称呕吐毒素）、T-2毒素（T-2）及伏马毒素（fumonisin,FUM）等是常见于饲料的毒性较高、受人关注的主要霉菌毒素[3]。奶牛采食由霉菌毒素污染的饲料后，可在牛奶中检测到相应的霉菌毒素及其代谢物[4]。因此，饲料中本身存在的原毒素及经过牛体内代谢产生的代谢物，构成了牛奶中霉菌毒素的主要种类。本文就牛奶中霉菌毒素来源、转化及危害、限量研究进展进行综述，为今后在此领域开展更深入的研究提供参考。
+
+1牛奶中霉菌毒素种类及来源
+
+Huang 等[5]对牛奶中霉菌毒素进行检测时发现，牛奶中存在霉菌毒素黄曲霉毒素$\mathbf { M } _ { 1 } ( \mathbf { A F M } _ { 1 } )$ 、赭曲霉毒素A(OTA)、ZEA及 $\mathfrak { a }$ 玉米赤霉烯醇（α-zearalenol, $\mathfrak { a }$ -ZEL)，其中 $1 5 \%$ 含有2种毒素， $45 \%$ 含有3种毒素， $2 2 \%$ 含有4种毒素，表明牛奶中存在多种霉菌毒素共存的现象。
+
+饲料中存在的霉菌毒素是牛奶中霉菌毒素的主要来源，因此，饲料中霉菌毒素的污染程度决定了牛奶中霉菌毒素的种类及水平[。通常认为，相对于单胃动物，反刍动物对霉菌毒素具有更强的耐受力。这是由于瘤胃液内的原虫对一些霉菌毒素如OTA、ZEA、T-2、DON具有脱毒和屏蔽效果，对奶牛起到一定的保护作用[。但对于某些霉菌毒素具有相反的作用，它们在瘤胃微生物的作用下并不会发生降解及失活，反而代谢成具有更高活性的代谢物，如ZEA被转化为活性更高的 $\mathfrak { a }$ -ZEL[8]。经过体内的代谢消化，饲料中的霉菌毒素就可能会转化到乳汁中，从而对人类健康造成威胁。
+
+1.1 AFs
+
+AFs 主要由仓贮性霉菌一一曲霉菌产生，其最适生长温度为 $2 5 { \sim } 3 0 ~ ^ { \circ } \mathrm { C }$ ，相对湿度为$8 0 \% \sim 9 0 \% ^ { \circ }$ 。由此可见，在高温高湿的天气下，曲霉菌更易生长，从而分泌AFs 污染饲料。其主要污染饲料种类为生粕、玉米、棉籽粕和青饲料等[10-11]。AFs 污染与所处的地理位置有密切关系，有研究表明，绵阳市饲料中黄曲霉毒素 $\mathbf { B } _ { 1 }$ ( $\mathbf { A F B } _ { 1 }$ ）检出率为 $100 \%$ ，总体超标率为 $3 . 9 \% ^ { [ 1 2 ] }$ ；而上海市浦东地区饲料中 $\mathbf { A F B } _ { 1 }$ 检出率和平均含量均较低[13]。研究表明，当奶牛摄入浓度为 $1 { \sim } 1 0 \ \mu \mathrm { g / m L }$ 的 $\mathbf { A F B } _ { 1 }$ 时，其体内的瘤胃微生物只能代谢降解不到 $10 \%$ 的 $\mathbf { A F B } _ { 1 } ^ { [ 1 4 ] }$ ，其余 $90 \%$ 没有被瘤胃微生物代谢的 $\mathbf { A F B } _ { 1 }$ 可在肝脏中经羟基化转化为毒性较低的 $\mathbf { A F M } _ { 1 } \mathbf { \Lambda } ^ { [ 1 5 ] }$ ，代谢生成的 $\mathbf { A F M } _ { 1 }$ 不仅可以与体内的葡糖酸结合，也可以通过全身循环系统代谢到尿和乳中[16]。Valenta 等[17]研究表明，饲料中 $\mathbf { A F B } _ { 1 }$ 向牛奶中 $\mathbf { A F M } _ { 1 }$ 的转化率为 $1 \% \sim 2 \%$ ，高产奶牛转化率可达到 $6 . 2 \% ^ { [ 1 8 ] }$ 。因此，我们可以认为， $\mathbf { A F M } _ { 1 }$ 在乳汁中的转移率介于 $0 . 1 \% \sim 6 . 0 \% ^ { [ 1 9 ] }$ ，公认平均值为 $1 . 7 \%$ 。如果按照 $1 . 7 \%$ 的转化率计算，那么当饲粮干物质中 $\mathbf { A F B } _ { 1 }$ 含量超过 $3 0 ~ \mu \varrho / \mathrm { k g }$ 时，乳汁中 $\mathbf { A F M } _ { 1 }$ 的含量就会达到美国等国家的安全限量（ $0 . 5 ~ { \mu \mathrm { g / k g } } )$ 。同样，当饲粮干物质中含有超过 $3 ~ { \mu \mathrm { g / k g } }$ 的 $\mathbf { A F B } _ { 1 }$ 时，乳汁中 $\mathbf { A F M } _ { 1 }$ 的含量就会达到欧盟等的安全限量（ $0 . 0 5 ~ \mu \mathrm { g / k g } )$ 。因此，我们需要严格控制饲料中 $\mathbf { A F B } _ { 1 }$ 的含量，从源头上防止牛奶中 $\mathbf { A F M } _ { 1 }$ 含量超标，保护人类健康安全。
+
+1.2 OTA
+
+OTs 是一种有毒的次生代谢产物，其是由曲霉属中的赭曲霉和青霉属中的纯绿青霉分泌产生的，在温带地区具有优势，赭曲霉在 $8 ^ { \sim } 3 7 ^ { \circ } \mathrm { C }$ 均能生长，最佳生长温度为 $2 4 { \sim } 3 1 ^ { \circ } \mathrm { C }$ 生长繁殖所需的最适湿度为 $9 5 \% \sim 9 9 \%$ ，在 $\mathrm { p H } \ 3 { \sim } 1 0 \$ 时生长良好。OTs主要污染小麦、大麦、玉米、燕麦、干豆等农产品[20]。欧盟和我国的调查结果显示，谷物和饲粮受到OTA 污染的程度较低，其含量在 $5 . 2 { \sim } 8 0 . 0 ~ \mu \mathrm { g / k g }$ 之间[21-22]。然而，上海市浦东地区饲料及饲料原料中霉菌毒素污染状况的调查结果表明，该地区饲料及饲料原料霉菌毒素污染以 DON、OTA、ZEA 为主，其中OTA 检出率为 $4 6 . 8 1 \% ^ { [ 1 3 ] }$ 。以上研究结果表明，OTA污染在不同国家、地区间分布不均匀，具有地域性。
+
+反刍动物摄入的OTA经瘤胃微生物转化成为低毒的赭曲霉毒素 $\mathfrak { a }$ （Otα），因此，OTA只会对瘤胃未完全发育的犊牛产生影响[23]。健康奶牛对OTA的代谢率约为 $0 . 0 1 \text{‰}$ ，即每摄入1kg 饲粮可代谢 $1 2 \mathrm { m g } \mathrm { O T A } ^ { [ 2 4 ] }$ 。并且，研究表明，只有当牛体摄入的OTA含量达到1.66mg/kg BW时，才可在乳中检测到OTA及其代谢产物OTα的存在[25]。因此，牛奶中 OTA主要来源可能并不是饲粮，而是在其他过程中污染的。近些年来的报道表明，奶及奶制品可在储存和运输的过程中会被OTA 污染[19.26-27]。以上研究结果表明，牛奶中OTA 的存在不仅要关注饲粮中OTA的含量，还有关注储存和运输过程的影响。
+
+# 1.3 ZEA
+
+ZEA 是一种雌激素类真菌毒素，主要由田间霉菌镰刀菌分泌产生，其最适生长环境为高温低湿状态，ZEA 主要污染玉米、小麦、大米、大麦、小米和燕麦等谷物[28]。Rodrigues等[29]对来自美国、欧洲和亚洲饲料样品进行分析研究，其结果表明，ZEA 检出率为 $45 \%$ ，含量平均值为 $2 3 3 ~ { \mu \mathrm { g / k g } }$ 。对来自全球的17316份饲料及饲料原料样品进行分析，结果表明，ZEA 阳性检出率为 $3 6 \%$ ，含量平均值为 $1 0 1 ~ \mu \mathrm { g } / \mathrm { k g } ^ { [ 3 0 ] }$ 。上述分析结果表明，饲料及饲料原料中 ZEA污染较为严重，应加强监测。
+
+ZEA 在瘤胃微生物降解产生的代谢产物至少有5种：玉米赤霉酮（zearalanone,ZAN）、$\mathbf { \alpha } _ { \mathbf { a } } .$ 玉米赤霉醇(α-zearalanol, $\mathfrak { a }$ -ZAL)、 ${ \mathfrak { \beta } }$ -玉米赤霉醇（ $\beta$ -zearalanol, $\beta$ -ZAL）、 $\mathbf { \alpha } _ { \mathrm { ~ \mathfrak { a } . ~ } }$ 玉米赤霉烯醇(α-zearalenol, $\mathfrak { a }$ -ZEL)、 ${ \beta }$ 玉米赤霉烯醇（ $\beta$ -zearalenol, $\beta$ -ZEL）。Kiessling 等[31]研究发现，ZEA代谢产物 $\mathfrak { a }$ ZEL 的含量大约是 $\beta$ -ZEL的2倍。奶牛连续21d摄入 $5 4 4 . 5 ~ \mathrm { m g / d }$ 的 ZEA后,乳中可检测出 ZEA 和 $\mathbf {  { a } }$ -ZEL的存在，转化率为 $0 . 0 6 \% ^ { [ 1 4 ] }$ 。研究表明，ZEA在牛体内的转化率具有剂量效应，当奶牛摄入ZEA 的剂量为 $1 . 8 { \sim } 6 . 0 \mathrm { ~ g }$ 不等时，其转化率随之变化，范围为 $0 . 0 0 8 \% \sim 0 . 0 1 6 \% ^ { [ 2 5 ] }$ 。以上研究结果表明，ZEA很少在组织中沉积，并且转化到牛奶中的效率也很低。
+
+# 1.4 伏马毒素 ${ \bf B } _ { 1 } ( \mathrm { F B } _ { 1 } )$
+
+FUM是由串珠镰刀菌产生的水溶性次级代谢产物，最适宜生长温度为 $2 5 ^ { \circ } \mathrm { C }$ 左右。到目前为止，已鉴定出的FUM及其类似物共计28种，其中以毒性最强的 $\mathrm { F B } _ { 1 }$ 为主。FUM对饲料的污染在世界范围内普遍存在，主要污染对象为玉米、小麦等饲料原料。Silva 等[32]对葡萄牙玉米中FUM含量进行调查统计，结果显示，约有 $2 2 \%$ 样品被FUM污染，其中部分样品中 FUM含量较高，超过了欧盟的限量标准。并且，对全球各大洲玉米及其制品总 FUM的污染情况进行调查，结果显示，各大洲被FUM污染趋势为：大洋洲>非洲 $>$ 拉丁美洲>亚洲>北美洲 $>$ 欧洲[33]。
+
+饲料中FUM向牛奶中转化的报道较少。有研究表明，即使以 $5 \mathrm { m g / k g }$ BW剂量口服 $\mathrm { F B } _ { 1 }$ 牛奶中也没有检测到 $\mathrm { F B } _ { 1 }$ 的存在[21,34]。体外研究表明， $\mathrm { F B } _ { 1 }$ 在瘤胃中具有很低的转化率[49],在乳中可以检测到 $\mathrm { F B } _ { 1 }$ 的存在。Hammer 等[35]报道，泌乳奶牛静脉注射 $0 . 0 4 6 { \sim } 0 . 0 6 7 ~ \mathrm { m g / k g }$ BW的 $\mathrm { F B } _ { 1 }$ ，在牛奶中也有 $\mathrm { F B } _ { 1 }$ 的检出。欧洲食品安全局（European Food SafetyAuthority,EFSA）的研究表明只有少量的 $\mathrm { F B } _ { 1 }$ 可以转化到牛奶中，对人体并无明显伤害[8]。
+
+1.5 DON
+
+DON 由一种田间霉菌一一镰刀菌属霉菌产生，其最适生长温度为 $5 { \sim } 2 5 ~ ^ { \circ } \mathrm { C }$ 。通常作物在生长期间会被镰刀菌属霉菌污染，并且，当作物被收割储存后，该霉菌仍可以无性繁殖的形式存活。DON一般在大麦、小麦、玉米中含量较高，在黑麦、高梁、大米中的含量较低。同时，其发生也具有一定的地域性，黄俊恒等[36]对不同地区DON 污染情况的分析结果表明，在481份华东地区饲料及饲料原料中，DON在小麦及麸皮中超标率为 $67 \%$ ；在华南地区的185 份样品中，DON 超标率为 $4 8 \%$ ；在华北地区的96 份样品中，DON 超标率为 $3 3 \%$ 。
+
+通常情况下，反刍动物对DON 具有较强的降解能力，因此DON 不会对反刍动物产生负面影响。但当反刍动物摄入极高量的 DON，超过其自身代谢清除能力时，会对机体造成伤害。在健康的反刍动物中，机体摄入的DON 可以很快被瘤胃内微生物转化为去环氧-脱氧雪腐镰刀菌烯醇(DOM-1)，DOM-1是毒性只有 DON 的 1/54 的低毒脱环氧化物形式。有研究表明，当奶牛饲粮中添加 $1 . 9 \mathrm { m g / k g \ B W }$ 的 DON时，只有不到 $1 \%$ 的 DON 被机体吸收[37]。当以更高添加量 $2 9 3 3 { \sim } 5 8 6 7 up \mu \mathrm { g } / \mu \mathrm { g } \mathrm { B W }$ 的 DON 饲喂奶牛时，结果发现，只有 $2 7 ~ \mathrm { n g / m L }$ 的DOM-1在牛奶中被检测出来[38]。结合其他研究结果表明，DON不仅可以在反刍动物中代谢降解，在非反刍动物中也可以，并且，不会在机体中发生生物累积作用。因此，动物肉、蛋、奶中DON 残留污染问题并不是威胁公共健康的安全风险因子。
+
+1.6 T-2
+
+T-2 广泛分布于自然界，其产生受环境的影响很大，低温、变温、高水分含量、中性和酸性条件均有利于镰刀菌菌株产生T-2。T-2容易污染玉米、小麦、大麦及燕麦等粮食和饲料原料，动物通过饲粮摄入T-2之后会引起各种中毒症状和疾病。陈心仪[39]检测了我国 18个省份的176份饲料样品，结果发现T-2检出率为 $100 \%$ 。单安山等[40]对东北地区116份饲料原料样品进行分析，结果表明，T-2检出率为 $100 \%$ ，但无样品超标。以上分析结果表明，T-2 对我国饲料及饲料原料的污染状况并不严重，污染程度较轻，但其高检出率也表明要加强对其防控。
+
+T-2 作为一种污染我国饲料的主要霉菌毒素，主要作用于动物的造血组织和免疫器官，对其造成伤害。所有物种均对T-2敏感，其中以猪为最为敏感。对于反刍动物而言，由于其体内瘤胃微生物的降解作用，因此对 T-2的耐受性较强。有研究表明，饲粮中T-2到奶中的转化率为 $0 . 0 5 \% { \sim } 2 . 0 0 \% ^ { [ 4 , 1 4 ] }$ 。
+
+# 2牛奶中霉菌毒素危害及限量
+
+由于霉菌毒素对人类具有免疫毒性、肾毒性、肝毒性等负面影响，因此，霉菌毒素被认为是在牛奶质量安全中应重点关注的危害因子，其中AFMi和OTA甚至具有致癌、诱发突变和导致畸形等生物危害，严重威胁人类健康，OTA 可能对婴幼儿的危害更大。但是，目前全球仅对牛奶中 $\mathbf { A F M } _ { 1 }$ 进行限量，对其他霉菌毒素只设定每周容许摄入量（provisionaltolerable weekly intake,PTWI）等制度。为更好保护人类健康，应制定更为详细具体的限量标准。
+
+# 2.1牛奶中AFMi危害及限量
+
+$\mathbf { A F M } _ { 1 }$ 于 2002 年被国际癌症研究中心(International Agency Research on Cancer，IARC)确定为I类致癌物。其靶器官为肝脏，并伴有严重的血管通透性破坏和中枢神经损伤。研究表明，AFs 的毒性主要通过2个途径发挥作用：1）通过干扰RNA 和DNA 的合成，从而干扰蛋白质的合成，进而影响细胞代谢，对动物机体造成全身性伤害[41]；（2）与DNA 结合，抑制DNA的甲基化，从而改变基因表达和细胞分化，激活动物体内致癌基因的转化形成，降低机体的抗病力[42]。不同国家及地区对AFMi的限量标准如表1所示。
+
+在取自全球的22189份奶样中，亚洲有1709份样品超过欧盟限量标准，占总全球样品总量的 $7 . 7 \%$ ，其次为非洲（ $1 . 1 \%$ ）、欧洲和美国（ $0 . 5 \%$ ）[43]。欧洲牛奶中 $\mathbf { A F M } _ { 1 }$ 含量较低，可能与其饲料中AFs 含量较低相关。Sadia 等[4l研究表明，巴基斯坦牛奶中 $\mathbf { A F M } _ { 1 }$ 平均含量为 $0 . 2 5 2 \mu \mathrm { g / L }$ 。同时，研究表明，印度牛奶中 $\mathbf { A F M } _ { 1 }$ 含量为 $0 . 1 { \sim } 3 . 8 \ \mu \mathrm { g } / \mathrm { L } ^ { [ 4 5 ] }$ ，对人体健康造成严重威胁。然而，Fallah 等[46]研究表明，伊朗牛奶样品中 $\mathbf { A F M } _ { 1 }$ 含量为 $0 . 0 1 3 { \sim } 0 . 2 5 0 \mu \mathrm { g / L }$ 含量较低。同时，Heshmati 等[47]检测结果表明，超高温处理（UHT）牛奶样品中 $\mathbf { A F M } _ { 1 }$ 含量范围为 $0 . 0 2 1 { \sim } 0 . 0 8 7 \mu \mathrm { g / L }$ 。不同地区牛奶样品中 $\mathbf { A F M } _ { 1 }$ 含量不同，可能是受当地气候及地理环境，以及饲养、管理方式和检测方法的影响[48]。
+
+# 表1不同国家牛奶及奶制品中 $\mathbf { A F M } _ { 1 }$ 限量规定
+
+Table 1Limited provisions on aflatoxin $\mathbf { M } _ { 1 }$ in milk and milk products in different countries[49.   
+  
+
+<html><body><table><tr><td colspan="3">μg/kg</td></tr><tr><td>国家</td><td>牛奶</td><td>奶制品 Milk products</td></tr><tr><td>Countries</td><td>Milk</td><td></td></tr><tr><td>美国USA</td><td>0.50</td><td>0.50</td></tr><tr><td>欧盟EU</td><td>0.05</td><td>0.05</td></tr><tr><td rowspan="3">澳大利亚 Austria</td><td>0.05，0.01(巴氏杀菌婴幼儿牛奶)</td><td>0.02 (黄油)</td></tr><tr><td></td><td>0.25 (奶酪)</td></tr><tr><td></td><td>0.4 (奶粉)</td></tr><tr><td>法国 France</td><td>0.05，0.03 (<3岁儿童)</td><td></td></tr><tr><td rowspan="3">瑞士 Switzerland</td><td>0.05</td><td>0.025 (乳清及产品)</td></tr><tr><td></td><td>0.25 (奶酪)</td></tr><tr><td></td><td>0.02 (黄油)</td></tr><tr><td>保加利亚Bulgaria</td><td>0.50</td><td>0.10 (奶粉)</td></tr><tr><td>巴西Brazil</td><td></td><td>0.50 (液态奶)</td></tr><tr><td></td><td></td><td>5.0 (奶粉)</td></tr><tr><td>捷克 Czech Republic</td><td>0.05</td><td></td></tr><tr><td>罗马尼亚 Romania</td><td>0</td><td>0</td></tr><tr><td>土耳其 Turkey</td><td>0.05</td><td>0.25 (奶酪)</td></tr><tr><td>阿根廷 Argentina</td><td>0.05</td><td>0.50 (奶制品)</td></tr><tr><td>洪都拉斯 Honduras</td><td>0.05</td><td>0.25 (奶酪)</td></tr><tr><td>埃及Egypt</td><td>0</td><td>0</td></tr><tr><td>尼日利亚 Nigeria</td><td>1</td><td></td></tr><tr><td>伊朗Iran</td><td>0.50</td><td></td></tr></table></body></html>
+
+根据已发现的真菌毒素重要性和危害性排序，OTA仅次于AFs，被IARC列为2B 类人类致癌物。其主要靶器官是肾脏，可导致肾小管变性和机能损伤，并且具有极强的肾毒性、肝毒性、神经毒性和免疫毒性，可致畸、致癌、致突变，严重威胁人类健康。OTA主要从 3个方面发挥其毒性作用：1）抑制动物机体中的线粒体呼吸途径，导致ATP耗竭，无法正常供能；2）通过抑制DNA及RNA的合成以及苯丙氨酸-TRNAL连接酶的活性，从而抑制蛋白质的合成；3）造成机体细胞内氧化损伤，增加细胞中的脂质过氧化物含量[50]。由于OTA对人类健康具有严重的危害性，并且其分布十分广泛，因此联合国粮农组织和世界卫生组织下的食品添加剂联合专家委员（Joint FAO/WHO Expert Committee on FoodAdditives,JECFA）将OTA的PTWI设定为 $1 0 0 \mathrm { n g / k g \ B W }$ 。对意大利、挪威、法国、瑞典、中国牛奶样品的分析结果表明，其OTA 含量范围为 $5 . 0 { \sim } 8 4 . 1 ~ \mathrm { n g } / \mathrm { L } ^ { [ 5 , 2 7 , 5 1 . 5 3 ] }$ ，对于1个成年人而言，其OTA摄入量不足以达到PTWI水平。但是，对于OTA每日允许摄入量（tolerablydaily intake，TDI）为 $5 \mathrm { n g / ( k g \ B W \cdot d ) }$ 的婴幼儿来说，牛奶中 $5 . 0 { \sim } 8 4 . 1 ~ \mathrm { n g / L }$ 的OTA含量可能会对其造成危害，这是由于婴幼儿每天需摄入大量牛奶。并且，对苏丹牛奶样品进行分析时发现，OTA含量为 $2 \ 7 3 0 \ \mathrm { n g / L }$ 时会对成年人健康造成威胁[26]。这可能是由于饲粮组分的突然改变或者是饲粮中蛋白质饲料的比例过高，导致牛体内瘤胃对OTA 降解能力降低。但是，世界各国并未设置牛奶及奶制品中的OTA限量标准。
+
+# 2.3牛奶中ZEA危害及限量
+
+为保护消费者健康，IARC(1993)将 ZEA列为3类可能致癌物，其具有类雌激素作用，主要作用于生殖系统。结构上，ZEA与内源性雌激素相似，因此，ZEA可以如同雌激素一样，在机体内与雌激素受体（ER）竞争性结合，从而激活雌激素反应元件，发生一系列拟雌激素效应，造成动物机体发生雌性激素综合征[54]。如果动物（包括人）在妊娠期间内食用了被 ZEA污染的饲粮或食物，可能会导致流产、死胎和畸胎的发生。研究发现，机体本身无法将 ZEA完全代谢清除，因此，ZEA在体内会有一定的残留和蓄积。所以，在饲粮或食物中做好 ZEA的防毒检测具有重要意义[28]。
+
+JECFA推荐 ZEA及其代谢物的每日最大容许摄入量(provisional maximum tolerable dailyintake,PMTDI）为 $0 . 5 ~ { \mu \mathrm { g / k g ~ B W } }$ 。对埃及、英国及中国的400 批次牛奶样品进行ZEA、ZAN及 $\mathfrak { a }$ -ZAL检测时发现,检出的最高含量为ZEA $1 2 . 5 ~ { \mu \mathrm { g } } / { \ k \mathrm { g } } ^ { \left[ 5 , 5 5 - 5 7 \right] } .$ 。假设正常成年人 ${ ( 5 0 \mathrm { \sim } 7 0 \mathrm { k g } ) }$ 在摄入报道最高 ZEA含量（ $1 2 . 5 ~ \mu \varrho / \updownarrow \mathrm { g }$ ）情况下，需每天饮用 $2 . 0 { \sim } 2 . 8 \mathrm { ~ L ~ }$ 的牛奶才会超过PMTDI的设定。因此，牛奶中 ZEA的暴露并不是一种危害因子。但是，ZEA的代谢物需要引起注意，例如， $\mathfrak { a }$ -ZEL 的毒性是ZEA的3倍，在中国牛奶样品中已有 $7 3 . 5 ~ \mathrm { n g / k g }$ 的检出
+
+量[5]。
+
+2.4牛奶中 $\mathrm { F B } _ { 1 }$ 危害及限量
+
+$\mathrm { F B } _ { 1 }$ 被IARC列为2B类人类致癌物，目前对FUM的毒性作用机理尚不清楚，根据其结构与人及其他动物机体内的神经鞘氨醇极为相似的特点，推测这类毒素在人及动物机体内的靶器官是大脑，产生神经毒性。
+
+欧盟委员会推荐单独及混合 $\mathrm { F B } _ { 1 }$ 、 $\mathrm { F B } _ { 2 }$ 、 $\mathrm { F B } _ { 3 }$ 的 PMTDI 为 $2 ~ \mu \mathrm { g / k g }$ BW。Maragos 等[58]研究报道，在155批次的牛奶样品中，有1批次的样品检测到含量为 $1 \ 2 9 0 \ \mathrm { n g / L }$ 的 $\mathrm { F B } _ { 1 }$ 。Gazzotti等[59]研究报道，在10批次的牛奶样品中，有8批次的样品含有 $\mathrm { F B } _ { 1 }$ ，最高值为430ng/kg。即使成年人摄入报道的最高牛奶中 $\mathrm { F B } _ { 1 }$ 含量 $( 1 2 9 0 \mathrm { n g / L } )$ ，也很难超过设定的PMTDI,对人体健康不会造成很大的威胁。但目前对牛奶中 $\mathrm { F B } _ { 1 }$ 检测的报道并不是很多，因此，可以在以后的检测工作中加强对 $\mathrm { F B } _ { 1 }$ 的检测。
+
+2.5牛奶中DON、T-2危害及限量
+
+DON、T-2均属于单端孢霉菌毒素，目前大约170 种单端孢霉菌毒素，根据特征功能集团，单端孢霉菌毒素分为A 型[包含 HT-2 毒素(HT-2)、T-2]和B 型[包括 DON、3-乙酰脱氧雪腐镰刀菌烯醇(3-ADON)、15-乙酰脱氧雪腐镰刀菌烯醇(15-ADON)]。DON 主要由胃肠道吸收进入血液，造成胃肠道黏膜损伤。T-2可以经由血液进入免疫器官，如胸腺、骨髓、肝、脾等，通过其特有的倍半萜烯结构来抑制 DNA和RNA 转录、翻译过程，从而抑制蛋白质的合成，对免疫器官造成伤害，影响机体免疫性能和繁育功能[60]。除了上述危害，T-2还可以导致淋巴细胞中DNA 单链断裂，造成淋巴细胞的损伤；并且，T-2可作用于氧化磷酸化过程的多个环节，从而抑制线粒体呼吸途径，导致机体供能不足[61]。
+
+欧盟委员会设定HT-2和 T-2的PMTDI为 $6 0 \mathrm { n g / k g \ B W }$ ，DON为 $1 \mu \mathrm { g } / \ k \mathrm { g } \mathrm { B W }$ 。DON与T-2 在牛奶中检出的情况较少，只有在丹麦的20批次牛奶样品中发现5批次样品中含有0.3ng/mL 的 DON 代谢物——DOM-1[62]。在DON代谢解毒过程中，机体中的胃肠道和瘤胃中微生物区系发挥了重要作用。通过总结前人研究可以发现，无论是反刍动物还是非反刍动物，对 DON 都具有较强的降解能力，可将其转化为低毒物质，且无生物累积作用。因此，DON可不作为一类危害因子，应降低对其关注度。
+
+# 3小结
+
+牛奶中霉菌毒素的存在严重威胁着人类和动物的健康。当奶牛摄食由霉菌毒素污染的饲粮后，可能会导致牛奶产量的下降以及乳成分的改变，并且，牛奶中也可能就会含有霉菌毒素。目前牛奶中霉菌毒素的研究集中于 $\mathbf { A F M } _ { 1 }$ ，全球牛奶样品中均有 $\mathbf { A F M } _ { 1 }$ 的检出。然而，牛奶中还存在有OTA、ZEA、 $\mathrm { F B } _ { 1 }$ 、 $\mathfrak { a }$ -ZEL、DOM-1等霉菌毒素，因此，我们要全面关注牛奶中霉菌毒素存在的情况。为严格防控牛奶中的霉菌毒素的产生，在源头上要降低霉菌毒素污染饲料的情况：不使用发霉变质的饲料；保持饲料加工和贮藏环境的干燥、通风和卫生清洁；不要过多、过久地储存饲粮和饲料原料；可在饲粮中使用脱霉剂。为掌握牛奶中霉菌毒素污染状况，应进行风险监测任务及开展牛奶中多霉菌毒素检测技术的研究，从而保证牛奶质量安全。目前霉菌毒素检测方法主要有薄层色谱分析法、高效液相色谱法、液相色谱-质谱法、酶联免疫吸附测定法，未来研究重点应放于开发应用更加高效、简单的方法同时检测牛奶中多种霉菌毒素的共存，并根据实际牛奶摄入量及霉菌毒素污染情况，设定相应的毒素限量，更好地保护人类健康。
+
+# 参考文献：
+
+[1]IHESHIULOR O O M,ESONU B O,CHUWUKA O K,et al.Effects of mycotoxins in animal   
+nutrition:a review[J].Asian Journal of Animal Sciences,2O11,5(1):19-33.   
+220 [2] 尹青岗,王峰,赵国华,等.粮食与饲料中玉米赤霉烯酮控制技术研究进展[J].饲料研   
+221 究,2009(6):32-35.   
+222 [3] HUSSEIN S H,BRASEL J M.Toxicity,metabolism,and impact of mycotoxins on humans and   
+223 animals[J].Toxicology,2001,167(2):101-134.   
+224 [4]CAVRETS,LECOEUR S.Fusariotoxin transferin animal[J].Food and Chemical   
+225 Toxicol0gy,2006,44(3):444-453.   
+226 [5] HUANG L C,ZHENG N,ZHENG B Q,et al.Simultaneous determination of aflatoxin   
+227 M1,ochratoxinA,zearalenoneand $\mathfrak { a }$ -zearalenolinmilkbyUHPLC-MS/MS[J].Food   
+228 Chemistry,2014,146:242-249.   
+229 [6] 郑楠,王加启,韩荣伟,等.牛奶质量安全主要风险因子分析ⅡI.霉菌毒素[J]).中国畜牧兽   
+230 医,2012,39(3):1-9.   
+231 [7] 刘丹,易洪琴,徐国忠,等.饲料霉菌毒素对奶牛的毒害作用[J].上海畜牧兽医通   
+232 讯,2009(4):65-66.   
+233 [8] The European Food Safety Authority.Opinion of the scientific panel on contaminants in the   
+234 food chain [CONTAM] related to fumonisinsasundesirable substancesin animal   
+235 feed[R].Parma:The European Food Safety Authority,2005,235:1-32.   
+236 [9] 杨丽梅,申光荣.饲料中霉菌毒素的危害及其预防[J].饲料工业,2003,24(12):53-55.   
+237 [10] DING X X,LI P W,BAI Y Z,et al.Aflatoxin $\mathbf { B } _ { 1 }$ in post-harvest peanuts and dietary risk in   
+238 China[J].Food Control,2012,23(1):143-148.   
+239 [11] KELLER L A M,GONZALEZ PEREYRA M L,KELLER K M,et al.Fungal and mycotoxins   
+240 contamination in corn silage:monitoring risk before and after fermentation[J].Journal of Stored   
+241 Products Research,2013,52:42-47.   
+242 [12]苟双.绵阳市饲料黄曲霉毒素 $\mathbf { B } _ { 1 }$ 污染情况调查[J].饲料广角,2013(12):30-32.   
+243 [13]王政,严敏鸣,倪卫忠,等.上海市浦东地区规模养殖场中饲料及饲料原料中霉菌毒素污染   
+244 状况调查[J].畜牧与兽医,2013,45(10):85-87.   
+245 [14] YIANNIKOURIS A,JOUANY J P.Mycotoxins in feeds and their fate in animals:a   
+246 review[J].Animal Research,2002,51(2):81-99.   
+247 [15]KUILMAN M E M,MAAS R F M,FINK-GREMMELS J.Cytochrome P450-mediated   
+248 metabolism and cytotoxicity of aflatoxin $\mathbf { B } _ { 1 }$ inbovinehepatocytes[J].Toxicologyin   
+249 Vitro,2000,14(4):321-327.   
+250 [16] FINK-GREMMELS J.Mycotoxins in cattle feeds and carry-over to dairy milk:a   
+251 review[J].Food Additives & Contaminants Part A,2008,25(2):172-180.   
+252 [17] VALENTA H,GOLL M.Determination of ochratoxin A in regional samples of cow's milk   
+253 from Germany[J].Food Additives and Contaminants,1996,13(6):669-676.   
+254 [18] VELDMAN A,MEIJS J A C,BORGGREVE G J,et al.Carry-over of aflatoxin from cows’   
+255 food to milk[J].Animal Science,1992,55(2):163-168.   
+256 [19] COFFEY R,CUMMINS E,WARD S.Exposure assssment of mycotoxins in dairy   
+257 milk[J].Food Control,2009,20(3):239-249.   
+258 [20]王守经,胡鹏,汝医,等.谷物真菌毒素污染及其控制技术[J].中国食物与营   
+259 养,2012,18(3):13-16.   
+260 [21] RICHARDJL.Some majormycotoxins andtheir mycotoxicoses-an   
+261 overview[J].International Journal of Food Microbiology,2007,119(1/2):3-10.   
+262 [22] BINDER E M,TAN L M,CHIN L J,et al.Worldwide occurrence of mycotoxins in   
+263 commodities,feeds and feed ingredients[J].Animal Feed Science and   
+264 Technol0gy,2007,137(3/4):265-282.   
+265 [23] Whitlow L W,Hagler W M.Mycotoxins:a review of dairy concerns[C]//Mid-Soutl Ruminant   
+266 Nutrition Conference.Raleigh,NC:North Carolina State University,2O05:47-58.   
+267 [24]HULT K,TEILINGA,GATENBECK S.Degradation ofochratoxinAbya   
+268 ruminant[J].Applied and Environmental Microbiology,1976,32(3):443-444.   
+269 [25] PRELUSKY D B,VEIRA D M,TRENHOLM H L,et al.Metabolic fate and elimination in   
+270 milk,urine and bile of deoxynivalenol following administration to lactating sheep[J].Journal of   
+271 Environmental Science and Health,Part B,1987,22(2):125-148.   
+272 [26] ELZUPIR A O,MAKAWI S Z A,ELHUSSEIN A M.Determination of aflatoxins and   
+273 ochratoxin a in dairy cattle feed and milk in Wad Medani,Sudan[J].Journal of Animal and   
+274 Veterinary Advances,2009,8(12):2508-2511.   
+275 [27] PATTONO D,GALLO P F,CIVERA T.Detection and quantification of ochratoxin A in milk   
+276 produced in organic farms[J].Food Chemistry,2011,127(1):374-377.   
+277 [28]于淼,王秋霞.饲料中霉菌毒素研究进展[J].饲料广角,2013(12):21-24.   
+278 [29] RODRIGUES I,NAEHRER K.A three-year survey on the worldwide occurrence of   
+279 mycotoxins in feedstuffs and feed[J].Toxins,2012,4(12):663-675.   
+280 [30] STREIT E,NAEHRER K,RODRIGUES I,et al.Mycotoxin occurrence in feed and feed raw   
+281 materials worldwide:long-term analysis with special focus on Europe and Asia[J].Journal of the   
+282 Science of Food and Agriculture,2013,93(12):2892-2899.   
+283 [31]KIESSLINGKH,PETTERSSONH,SANDHOLMK,etal.Metabolismof   
+284 aflatoxin,ochratoxin,zearalenone,andthreetrichothecenesbyintactrumenfluid,rumen   
+285 protozoa,and rumen bacteria[J].Applied and Environmental Microbiology,1984,47(5):1070-1073.   
+286 [32] SILVA L J G,LINO C M,PENA A,et al.Occurrence of fumonisins $\mathbf { B } _ { 1 }$ and ${ \bf B } _ { 2 }$ in Portuguese   
+287 maize and maize-based foods intended for human consumption[J].Food Additivesand   
+288 Contaminants,2007,24(4):381-390.   
+290 社,2006:51-78.   
+291 [34] SCOTT P M,DELGADO T,PRELUSKY D B,et al.Determination of fumonisins in   
+292 milk[J].Journal of Environmental Science and Health,Part B,1994,29(5):989-998.   
+293 [35] HAMMER P,BLUETHGEN A,WALTE H G.Carry-over of fumonisin $\mathbf { B } _ { 1 }$ into the milk of   
+294 lactating cows[J].Milk Science International,1996,51(12):691-695.   
+295 [36] 黄俊恒,黄广明,李婉华.2015 年 19 省区饲料及饲料原料霉菌毒素污染状况分析[J].养   
+296 猪,2016(2):14-16.   
+297 [37] PESTKA J J.Deoxynivalenol:toxicity,mechanisms and animal health risks[J].Animal Feed   
+298 Science and Technology,2007,137(3/4):283-298.   
+299 [38] COTE L M,DAHLEM A M,YOSHIZAWA T,et al.Excretion of deoxynivalenol and its   
+300 metaboliteinmilk,urine,andfecesoflactatingdairycows[J].JournalofDairy   
+301 Science,1986,69(9):2416-2423.   
+302 [39] 陈心仪.2009-2010 年中国部分省市饲料原料及配合饲料的霉菌毒素污染概况[J].浙江畜   
+303 牧兽医,2011(2):7-10.   
+304 [40] 单安山,周长路,张圆圆,等.东北地区不同饲料原料中霉菌毒素含量的测定[J].东北农业大   
+305 学学报,2013,44(5):96-100.   
+306 [41] 王晓晓,王宝维,王鑫,等.黄曲霉毒素对畜禽的危害、检测及去毒方法[J].中国饲   
+307 料,2011(13):33-36.   
+308 [42] 谢光洪,陈承,徐闯,等.黄曲霉毒素检测方法的研究[J].饲料工业,2007,28(6):53-56.   
+309 [43] FLORES-FLORES M E,LIZARRAGA E,DE CERAIN A L,et al.Presence of mycotoxins in   
+310 animal milk:a review[J].Food Control,2015,53:163-176.   
+311 [44] SADIA A,JABBAR M A,DENG Y J,et al.A survey of aflatoxin $\mathbf { M } _ { 1 }$ in milk and sweets of   
+312 Punjab,Pakistan[J].Food Control,2012,26(2):235-240.   
+313 [45] SIDDAPPA V,NANJEGOWDA D K,VISWANATH P.Occurrence of aflatoxin $\mathbf { M } _ { 1 }$ in some   
+314 samples of UHT,raw & pasteurized milk from Indian states of Karnataka and Tamilnadu[J].Food   
+315 and Chemical Toxicology,2012,50(11):4158-4162.   
+316 [46] FALLAH A A,RAHNAMA M,JAFARI T,et al.Seasonal variation of aflatoxin $\mathbf { M } _ { 1 }$   
+317 contaminationinindustrialandtraditional Iraniandairyproducts[J].Food   
+318 Control,2011,22(10):1653-1656.   
+319 [47] HESHMATI A,MILANI J M.Contamination of UHT milk by aflatoxin $\mathbf { M } _ { 1 }$ in Iran[J].Food   
+320 Control,2010,21(1):19-22.   
+321 [48] ASI M R,IQBAL S Z,ARINO A,et al.Effect of seasonal variations and lactation times on   
+322 aflatoxin $\mathbf { M } _ { 1 }$ contamination in milk ofdifferent speciesfrom Punjab,Pakistan[J].Food   
+323 Control,2012,25(1):34-38.   
+324 [49] IQBAL S Z,JINAP S,PIROUZ A A,et al.Aflatoxin $\mathbf { M } _ { 1 }$ in milk and dairy products,occurrence   
+325 and recent challenges:a review[J].Trends in Food Science & Technology,2015,46(1):110-119.   
+326 [50] HOHLER D.Ochratoxin A in food and feed:occurrence,legislation and mode of   
+327 action[J].Zeitschrift fur Ernährungswissenschaft,1998,37(1):2-12.   
+328 [51]BREITHOLTZ-EMANUELESSONA,PALMINGER-HALLENI,WOHLINPO,et   
+329 al.Transfer of ochratoxin a from lactating rats to their offspring:a short-term study[J].Natural   
+330 Toxins,1993,1(6):347-352.   
+331 [52] SKAUG M A.Analysis of Norwegian milk and infant formulas for ochratoxin A[J].Food   
+332 Additives and Contaminants,1999,16(2):75-78.
+
+333 [53]BOUDRA H,BARNOUINJ,DRAGACCI S,et al.Aflatoxin $\mathbf { M } _ { 1 }$ and ochratoxin A in raw bulk   
+334 milk from French dairy herds[J].Journal of Dairy Science,2007,90(7):3197-3201.   
+335 [54]邓友田,袁慧.玉米赤霉烯酮毒性机理研究进展[J].动物医学进展,2007,28(2):89-92.   
+336 [55] XIA X,LI X W,DING S Y,et al.Ultra-high-pressure liquid chromatography-tandem mass   
+337 spectrometry for the analysis of six resorcylic acid lactones in bovine milk[J].Journal of   
+338 Chromatography A,2009,1216(12):2587-2591.   
+339 [56] EL-HOSHY S M.Occurrence of zearalenone in milk,meat and their products with emphasis   
+340 on influence of heat treatments on its level[J].Archiv Fur   
+341 Lebensmittelhygiene,1999,50(6):140-143.   
+342 [57] Final SCOOP Task 3.2.10.Collection of occurrence data of Fusarium toxins in food and   
+343 assessmentofdietaryintake bythepopulationofEUMemberStates.Subtask   
+344 I:Zearalenone.European Commission,Directorate-GeneralHealthand Consumer   
+345 Protection[G].[S.1.]Scientific Cooperation on Questions Relating to Food,2003: 239-482.   
+346 [58] MARAGOS C M,RICHARD JL.Quantitation and stability of fumonisins ${ \bf B } _ { 1 }$ and ${ \bf B } _ { 2 }$ in milk[J].Journal of the Association of Official Analytical Chemists,1994,77(5):1162-1167. [59] GAZZOTTI T,LUGOBONI B,ZIRONI E,et al.Determination of fumonisin $\mathbf { B } _ { 1 }$ in bovine milk byLC-MS/MS[J].Food Control,2009,20(12):1171-1174. [60] 靳露,董国忠.呕吐毒素对动物免疫及繁殖性能的影响[J].饲料研究,2012(3):18-21. [61]邹广迅,张红霞,花日茂.T-2 毒素的毒性效应及致毒机制研究进展[J].生态毒理学 报,2011,6(2):121-128. [62] SORENSEN L K,ELBAEK T H.Determination of mycotoxins in bovine milk by liquid chromatography tandem mass spectrometry[J].Journal of Chromatography B,2005,820(2):183-196. Mycotoxins in Cow's Milk: Origin,Transform and Hazard GAO Yanan1,2.3WANG Jiaqi1.2.3ZHENG Nan1,2.3\* (1. Ministry of Agriculture-Milk Risk Assessment Laboratory, Beijing 100193, China; 2. Ministry of Agriculture-Milk and Dairy Product Inspection Center, Beijing 1O0193, China ; 3. State Key Laboratory of Animal Nutrition, Institute of Animal Science, Chinese Academy of Agricultural Sciences,Beijing 100193, China)
+
+Abstract: Mycotoxin contaminant is a serious problem for cow's milk safety， and the main mycotoxins in the milk include aflatoxin,ochratoxin, zearalenone,fumonisin,deoxynivalenol and T-2 toxin.Mycotoxins in the milk come mainly from animal feeds,this review summarized the origin and transform as well as the hazard and regulations of mycotoxins in cow's milk, based on the previous study at home and abroad.

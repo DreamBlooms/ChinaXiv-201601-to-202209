@@ -1,0 +1,581 @@
+[
+    {
+        "type": "text",
+        "text": "新疆喀什噶尔河流域地下水形成的水文地球化学过程",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "曾妍妍²，周金龙1²，乃尉华³，李麟¹，谭鹏飞¹（1．新疆农业大学水利与土木工程学院,新疆 乌鲁木齐830052；  \n2．新疆水文水资源工程技术研究中心，新疆 乌鲁木齐830052;  \n3．新疆维吾尔自治区地质矿产勘查开发局第二水文工程地质大队,新疆 昌吉831100)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：新疆喀什噶尔河流域地下水的形成主要受到溶滤、蒸发浓缩、阳离子交换和混合等的影响。石膏、岩盐和萤石矿物发生溶解,为地下水中的 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ ） $\\mathrm { \\Delta N a } ^ { + }$ ） $\\mathrm { C l } ^ { - }$ 和 $\\mathrm { F } ^ { - }$ 提供重要来源;石膏、长石类、方解石和白云石等矿物的溶解,为地下水中的 $\\mathrm { C a } ^ { 2 + }$ 和 $\\mathrm { M g } ^ { 2 + }$ 提供主要来源。Gibbs 图解法表明,北部克孜勒苏河地下水系统中潜水主要受岩石风化和蒸发浓缩的双重影响,承压水主要受岩石风化的影响;南部盖孜河地下水系统中潜水主要受蒸发浓缩的影响，个别浅层承压水采样点受岩石风化的影响。北部克孜勒苏河地下水系统中的阳离子交换作用强于南部盖孜河地下水系统;同时,阳离子交换作用随着含水层深度的逐渐增加而增强。地表水与地下水存在混合作用,不同含水层之间也存在着混合作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：地下水；水化学特征；水文地球化学；喀什噶尔河流域；新疆",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "新疆喀什地区拥有“五口通八国，一路连欧亚”的独特地缘优势，是古丝绸之路南北两道的交汇点，也是现今“一带一路”丝绸之路经济带的核心，其战略地位尤为重要。研究区位于喀什地区西部的喀什噶尔河流域，受自然条件及社会经济发展水平等方面因素的制约，其水环境、生态环境特殊且脆弱，虽然区域水资源量较为丰富，但时空分布不均匀，水资源总量控制精度不高，生活用水及工农业用水较为紧缺，是我国水质型缺水地区，地下水是该区的主要水源[1]。该区地下水中有害组分超标严重,水质极差,超标化学组分主要有 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 、总硬度、TDS、Na+、$\\mathrm { C l } ^ { - } \\ 、 \\mathrm { F e } \\ 、 \\mathrm { M n } \\ 、 \\mathrm { F } ^ { - }$ 和 As 等[2-3]。地下水化学组分是地下水与环境长期相互作用的产物[4-6],地下水在与周围环境长期作用的过程中形成其特有的水化学特征，在一定程度上记录着水体赋存条件、补给来源、运移等信息[7-8] ○",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，许多学者在喀什地区开展了较多的地下水研究工作，主要包括地下水质量评价[3、地下水资源评价[9]、地下水化学特征[10-11]、地下水污染[12-13]和地下水开采[14]等方面,而对地下水主要水化学成分形成的水文地球化学过程的认识仍显不足。本文以新疆喀什噶尔河流域为研究区，结合水化学和同位素数据，综合采用饱和指数法、离子比值法、Gibbs图解法、钠吸附比值法等，分析影响研究区地下水化学形成与演化的水文地球化学过程，以期为该区地下水的合理开发利用及水质处理提供科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 自然地理概况 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "喀什噶尔河流域位于新疆西南端，具有三面环  \n山、一面敞开的独特地形条件，北部为天山山脉南支  \n脉，西部为帕米尔高原，南部为喀喇昆仑山脉，东部  \n与叶尔羌河流域毗邻，直通塔里木盆地腹地。行政  \n区划隶属喀什地区的喀什市、疏勒县、疏附县、伽师  \n县、岳普湖县、英吉沙县管辖。平面上从西向东调查  \n区宽度逐渐增大，呈三角形展布，研究区平原区面积$1 . 0 6 \\times 1 0 ^ { 4 } \\ \\mathrm { k m } ^ { 2 [ 3 , 1 5 ] }$ O",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.2地下水赋存及补径排条件",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据含水层介质，研究区内地下水主要为第四系松散岩类孔隙水。依据含水层结构、地下水赋存条件、水动力特征等，将地下水划分为单一结构潜水和多层结构潜水-承压水两种类型，承压水区界线见图1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "单一结构潜水主要分布在研究区上游砾质平原的广大地区，水位埋深一般为 $5 . 0 \\sim 1 4 0 . 0 \\mathrm { ~ m ~ }$ ，本次采集的潜水样品均来自单一结构潜水含水层。多层结构潜水－承压水分布在研究区中下游细土平原的广大地区， $3 0 0 \\mathrm { ~ m ~ }$ 钻探深度范围内，上层为潜水，下部为多层结构承压水。研究区多层结构潜水-承压水区的潜水水质极差，一般不作为开采含水层[3]。因此，在潜水-承压水区内仅以承压水为研究对象，并根据研究区水文地质条件及当地地下水开采情况，按井深将承压水划分为浅层承压水（井深 $\\leqslant 1 0 0$ m)和深层承压水（井深 $> 1 0 0 \\mathrm { ~ m ~ }$ ）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区地表水是地下水最主要的补给来源，此外，地下水主要接受地下水的侧向径流、大气降水入渗、田间灌溉水入渗等补给；地下水总体流向与地形坡降趋势一致，由西向东径流;地下水排泄方式为潜水蒸发蒸腾、泉水排泄、侧向径流向下游排泄和人工开采等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 地下水系统",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以研究区中部东西向展布的库木塔格背斜为地下水的分水岭，将第四系地下水系统分为北部克孜勒苏河地下水系统(I)和南部盖孜河地下水系统(II)两个子系统1（图1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/77f3b70304415952c40c199c1bacb7f6c50b651b1d9ae26f97761cf53f2100ae.jpg",
+        "img_caption": [
+            "图1地下水和地表水采样点分布示意图",
+            "Fig.1Groundwater and surface water sampling sites "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4样品的采集与测试 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.1水化学样品地下水采样点布设以《区域地下水污染调查评价规范（DZ/T0288－2015）》为依据，遵循区域控制原则，以绿洲灌区为重点控制区，地下水采样点布设精度为1:250000。在研究区共采集地表水水样8组;地下水水样55 组，其中潜水水样10组，承压水水样45组（浅层承压水水样31组，深层承压水水样14组）。地下水和地表水采样点分布见图1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "地下水水样测试由中国地质科学院水文地质环境地质研究所矿泉水检测中心完成，其中， $\\mathrm { ~ K ~ } ^ { + } \\cdot \\mathrm { N a } ^ { + }$ 测定方法为火焰原子吸收分光光度法; $\\mathrm { C a } ^ { 2 + } \\cdot \\mathrm { M g } ^ { 2 + }$ 测定方法为乙二胺四乙酸二钠滴定法； $\\mathbf { C l } ^ { - }$ 测定方法为硝酸银容量法; $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 测定法为硫酸钡比浊法;$\\mathrm { H C O } _ { 3 } ^ { - }$ ） $\\mathrm { C O } _ { 3 } ^ { 2 - }$ 采用酸碱滴定法测定; $\\mathrm { N O } _ { 3 } ^ { - }$ 测定法为紫外分光光度法，各离子指标检出限均为0.05$\\mathbf { m } \\mathbf { g } \\cdot \\mathbf { L } ^ { - 1 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用阴阳离子平衡检验方法对水样数据进行可靠性检验，水中阴阳离子的平衡误差可用下式来计算[16]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE = \\frac { \\sum N c - \\sum N a } { \\sum N c + \\sum N a } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $E$ 代表相对误差 $( \\% ) { : } N c$ 和 $N a$ 分别代表阳离子和阴离子的毫克当量浓度 $( \\mathrm { \\ m e q \\cdot L ^ { - 1 } }$ )。阴阳离子平衡误差的绝对值小于 $5 \\%$ 为可靠数据，经检验，研究区水样阴阳离子的平衡误差 $E$ 为 $- 2 . 0 1 \\%$ \\~$3 . 8 2 \\%$ ，说明所有地下水水样数据均为可靠数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.2氢氧同位素样品在研究区共采集D、 $^ { 1 8 } 0$ 同位素23组，其中地表水水样8组、潜水水样4组、浅层承压水水样7组、深层承压水水样4组。氢氧同位素测试由中国地质大学(北京)生物地质与环境地质国家重点实验室的水环境同位素化学实验室完成，测试仪器为美国Picarro公司的液态水气态水同位素分析仪 $\\mathrm { L } 2 1 2 0 \\ \\mathrm { ~ - ~ } \\mathrm { I } , \\mathrm { ~ } \\delta ^ { 1 8 } \\mathrm { ~ O ~ }$ 的分析精度为$\\pm 0 . 2 0 \\% o$ ;8D分析精度为 $\\pm 1 . 0 0 \\% o$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2地下水水化学特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1地下水化学组分含量",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1北部克孜勒苏河地下水系统(I）北部克孜勒苏河地下水系统水化学参数统计结果见表1，地下水 $\\mathrm { \\ p H }$ 在 $6 . 8 5 \\sim 1 0 . 2 3$ ,整体呈弱碱性。潜水中淡水 $\\mathrm { ^ { ' } T D S } < 1 \\ \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ L ^ { - 1 } }$ ）、微咸水（TDS 为 $\\mathrm { ~ 1 ~ } \\sim 3 \\mathrm { ~ g ~ } \\cdot$ （204号${ \\mathrm { L } } ^ { - 1 }$ )和咸水（TDS 为 $3 \\sim 1 0 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ L ~ } ^ { - 1 } \\cdot$ )水样分别占潜水水样的 $6 0 . 0 \\%$ $. 2 0 . 0 \\%$ 和 $2 0 . 0 \\%$ ,浅层承压水中淡水、微咸水、咸水和盐水( $\\mathrm { \\langle T D S > 1 0 ~ g ~ \\cdot ~ L ^ { - 1 } ~ \\rangle }$ 水样分别占浅层承压水水样的 $2 5 . 0 \\% . 3 1 . 2 \\% . 3 7 . 5 \\%$ 和 $6 . 3 \\%$ ,深层承压水中淡水、微咸水、咸水和盐水水样分别占深层承压水水样的 $2 5 . \\ 0 \\% . 3 3 . \\ 3 \\%$ 、$2 5 . 0 \\%$ 和 $1 6 . 7 \\%$ 。潜水均为极硬水( $\\mathrm { T H } > 4 5 0 ~ \\mathrm { m g } ~ \\cdot$ （204${ \\mathrm { L } } ^ { - 1 }$ ),浅层承压水中硬水（TH 为 $3 0 0 \\sim 4 5 0 ~ \\mathrm { m g } ~ \\cdot$ .${ \\mathrm { L } } ^ { - 1 }$ )和极硬水水样分别占浅层承压水水样的$1 2 . 5 \\%$ 和 $8 7 . 5 \\%$ ，深层承压水中微硬水（TH为$1 5 0 \\sim 3 0 0 ~ \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 }$ )、硬水和极硬水水样分别占深层承压水水样的 $8 . 3 \\% . 8 . 3 \\%$ 和 $8 3 . 4 \\%$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从各离子含量均值可以看出，地下水中： $\\mathrm { { N a } ^ { + } + }$ $\\mathrm { K } ^ { + } > \\mathrm { C a } ^ { 2 + } > \\mathrm { M g } ^ { 2 + }$ ， $\\mathrm { S O } _ { 4 } ^ { 2 - } > \\mathrm { C l } ^ { - } > \\mathrm { H C O } _ { 3 } ^ { - }$ 。因此,北部克孜勒苏河地下水系统中阳离子以 $\\mathrm { { N a } ^ { + } + K ^ { + } }$ 为主，阴离子以 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 为主。潜水水化学类型以 $\\mathrm { S O } _ { 4 }$ 型水为主，承压水水化学类型以 $\\mathrm { S 0 } _ { 4 } \\mathrm { ~ . ~ } \\mathrm { S 0 } _ { 4 } \\mathrm { ~ \\cdot ~ } ($ Cl型水为主。2.1.2南部盖孜河地下水系统(I）南部盖孜河地下水系统水化学参数统计结果见表2,地下水pH为 $6 . 9 7 \\sim 8 . 6 5$ ,整体呈弱碱性。潜水中微咸水和咸水水样分别占潜水水样的 $4 0 . 0 \\%$ 和 $6 0 . 0 \\%$ ，浅层承压水中淡水、微咸水和咸水水样分别占浅层承压水水样的 $4 0 . 0 \\%$ $. 4 6 . 7 \\%$ 和 $1 3 . 3 \\%$ ，深层承压水中淡水和微咸水水样均占深层承压水水样的 $5 0 . 0 \\%$ 。潜水中硬水和极硬水水样分别占潜水水样的 $8 0 . 0 \\%$ 和 $2 0 . 0 \\%$ ，浅层承压水中微硬水、硬水和极硬水水样分别占浅层承压水水样的 $2 0 . \\ 0 \\% . \\ 1 3 . \\ 3 \\%$ 和$6 6 . 7 \\%$ ，深层承压水中极软水( $\\mathrm { ^ T H } < 7 5 \\ \\mathrm { m g } \\ \\cdot \\ \\mathrm { L } ^ { - 1 } ,$ 和极硬水水样均占深层承压水水样的 $5 0 . 0 \\%$ ,虽然极软水含量低于《生活饮用水卫生标准（GB5749-2006)》,但是长期饮用会不利于人体健康,因此也可列为劣质水。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/5bc07b36244ba49426ef30bdcf2cf37048df41ebf9ea8dbfe09e90607fd06801.jpg",
+        "table_caption": [
+            "表1地下水系统I水化学指标统计结果",
+            "Tab.1Statistical results of hydrochemical parameters in groundwater system I "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">指标</td><td rowspan=\"2\"></td><td rowspan=\"2\">pH</td><td></td><td>TH</td><td>Na++K+</td><td>Ca²+</td><td>Mg2+</td><td>Cl-</td><td>S0-</td><td>HCO3</td></tr><tr><td colspan=\"9\">/(mg·L-1)</td></tr><tr><td>潜水(n=5)</td><td>最大值</td><td>10.23</td><td>4 617.0</td><td>767.1</td><td>1138.0</td><td>287.9</td><td>187.4</td><td>1 506.0</td><td>1 317.0</td><td>327.8</td></tr><tr><td rowspan=\"3\">浅层承压水(n=16)</td><td>最小值</td><td>7.45</td><td>354.8</td><td>592.5</td><td>32.7</td><td>55.5</td><td>28.5</td><td>22.9</td><td>96.2</td><td>115.4</td></tr><tr><td>平均值</td><td>8.91</td><td>1507.6</td><td>697.8</td><td>277.5</td><td>164.7</td><td>67.2</td><td>368.4</td><td>508.8</td><td>205.2</td></tr><tr><td>最大值</td><td>7.76</td><td>14 548.0</td><td>2 727.0</td><td>3 686.4</td><td>753.1</td><td>460.8</td><td>5 865.0</td><td>3 734.0</td><td>388.6</td></tr><tr><td rowspan=\"4\">深层承压水(n=12)</td><td>最小值</td><td>6.85</td><td>214.0</td><td>371.3</td><td>14.1</td><td>43.1</td><td>11.0</td><td>15.8</td><td>65.1</td><td>54.6</td></tr><tr><td>平均值</td><td>7.37</td><td>2 918.5</td><td>1 320.5</td><td>502.8</td><td>253.1</td><td>162.8</td><td>647.7</td><td>1 225.4</td><td>214.8</td></tr><tr><td>最大值</td><td>9.68</td><td>21 059.0</td><td>2 970.0</td><td>6 167.5</td><td>828.2</td><td>721.0</td><td>9 279.0</td><td>3 940.0</td><td>652.7</td></tr><tr><td>最小值</td><td>7.28</td><td>249.3</td><td>209.7</td><td>14.4</td><td>49.6</td><td>16.2</td><td>26.3</td><td>60.6</td><td>139.6</td></tr><tr><td></td><td>平均值</td><td>7.79</td><td>4 814.9</td><td>1 354.1</td><td>1 041.2</td><td>315.6</td><td>260.8</td><td>1 436.1</td><td>1 584.9</td><td>312.4</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/caa4be262153644df0e06d26617b0c9911208dc49c28e3c3c85cf8e4eeed7edd.jpg",
+        "table_caption": [
+            "表2地下水系统 $\\mathbf { I I }$ 水化学指标统计结果",
+            "Tab.2Statistical results of hydrochemical parameters in groundwater system II "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">指标</td><td rowspan=\"2\"></td><td rowspan=\"2\">pH</td><td></td><td>TH</td><td>Na++K+</td><td>Ca²+</td><td>Mg²+</td><td>Cl-</td><td>S0-</td><td>HCO3</td></tr><tr><td colspan=\"9\">/(mg·L-1)</td></tr><tr><td rowspan=\"3\">潜水(n=5)</td><td>最大值</td><td>8.07</td><td>5 048.0</td><td>554.9</td><td>1 027.7</td><td>360.5</td><td>293.0</td><td>1 313.0</td><td>2 316.0</td><td>425.0</td></tr><tr><td>最小值</td><td>7.47</td><td>1 091.0</td><td>326.3</td><td>172.0</td><td>106.6</td><td>73.9</td><td>247.5</td><td>377.9</td><td>66.8</td></tr><tr><td>平均值</td><td>7.72</td><td>2 896.4</td><td>408.6</td><td>571.5</td><td>226.5</td><td>156.5</td><td>763.6</td><td>1 045.1</td><td>223.4</td></tr><tr><td rowspan=\"3\">浅层承压水(n =15)</td><td>最大值</td><td>7.94</td><td>8 299.0</td><td>3 278.0</td><td>1 625.8</td><td>641.4</td><td>479.4</td><td>2 293.0</td><td>2 877.0</td><td>534.3</td></tr><tr><td>最小值</td><td>6.97</td><td>589.0</td><td>255.7</td><td>62.6</td><td>48.1</td><td>21.8</td><td>78.8</td><td>245.6</td><td>72.9</td></tr><tr><td>平均值</td><td>7.47</td><td>2 249.0</td><td>943.0</td><td>405.4</td><td>190.1</td><td>133.6</td><td>528.9</td><td>858.2</td><td>217.4</td></tr><tr><td rowspan=\"3\">深层承压水(n=2)</td><td>最大值</td><td>8.65</td><td>1 366.0</td><td>1 004.0</td><td>274.1</td><td>113.8</td><td>46.1</td><td>215.0</td><td>265.5</td><td>765.0</td></tr><tr><td>最小值</td><td>7.68</td><td>746.9</td><td>35.0</td><td>181.3</td><td>39.4</td><td>27.9</td><td>162.8</td><td>221.1</td><td>115.4</td></tr><tr><td>平均值</td><td>8.17</td><td>1 056.5</td><td>519.5</td><td>227.7</td><td>76.6</td><td>37.0</td><td>188.9</td><td>243.3</td><td>440.2</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从各离子含量均值可以看出地下水中： $\\mathrm { { N a } ^ { + } + }$ $\\mathrm { K ^ { + } } > \\mathrm { C a } ^ { 2 + } > \\mathrm { M g } ^ { 2 + }$ ,潜水和浅层承压水中： $\\mathrm { S O } _ { 4 } ^ { 2 - } ~ >$ $\\mathrm { C l } ^ { - } > \\mathrm { H C O } _ { 3 } ^ { - }$ ,深层承压水中： $\\mathrm { H C O } _ { 3 } ^ { - } > \\mathrm { S O } _ { 4 } ^ { 2 - } > \\mathrm { C l } ^ { - }$ 。因此，南部盖孜河地下水系统中阳离子以 $\\mathrm { { N a } ^ { + } + K ^ { + } }$ 为主,潜水和浅层承压水中阴离子以 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 为主,深层承压水中阴离子以 $\\mathrm { H C O } _ { 3 } ^ { - }$ 为主。潜水水化学类型以 $\\mathrm { S O _ { 4 } \\cdot C l , C l \\cdot S O _ { 4 } }$ 型为主，承压水水化学类型以 $\\mathrm { S O _ { 4 } \\cdot C l _ { \\Omega } } \\mathrm { , S O _ { 4 } \\cdot H C O _ { 3 } }$ 型为主。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 氢氧同位素特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "氢氧同位素化学性质稳定，在地下水研究中常作为天然示踪剂，可以用来研究地下水起源、地下水形成和演化规律以及其中的水-岩相互作用等[17-18] ○",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Craig[19]根据全球降水资料,研究表明大气降水中8D和 $\\boldsymbol { \\mathfrak { \\delta } } ^ { 1 8 } \\mathrm { O }$ 值之间呈线性关系，即全球大气降水线（globalmeteoricwaterLine，GMWL）,线性方程为$\\mathfrak { I D } = 8 \\mathfrak { E } ^ { 1 8 } \\mathbf { O } + 1 0$ 。王文祥等[20]对塔里木盆地多条河流中的水样分析表明，塔里木盆地大气降水线（localmeteoric waterLine,LMWL）为 $\\mathfrak { \\delta D } = 8 \\mathfrak { E } ^ { 1 8 } \\mathrm { O } + 1 5$ ,研究区位于塔里木盆地西部，因此，将该方程作为研究区大气降水线方程[1]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究区地表水和地下水的8D与 $\\boldsymbol { \\mathfrak { \\delta } } ^ { 1 8 } \\boldsymbol { 0 }$ 之间的关系见图2。由图2可以看出，地表水和地下水样品均分布在当地大气降水线的下方，表明降水补给过程中有一定程度的蒸发。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图2可以看出，潜水、浅层承压水和深层承压水分布在一条与大气降水线基本平行的直线上，这是由于3种类型的地下水为同一来源造成的，主要来源于山前河流的入渗补给。同时，潜水、浅层承压水和深层承压水 $ { 8 \\mathrm { D } }  { \\Omega }  { \\mathfrak { s } } ^ { 1 8 } 0 \\$ 值相近,表明垂向上潜水、浅层承压水和深层承压水有较密切的水力联系[20-21],这为不同含水层之间地下水的混合提供了条件。研究区长期大量开采深层淡水，形成区域地下水水位降落漏斗，促使浅层地下水越流补给深层地下水，表明研究区不同含水层之间地下水存在着混合作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4f59839960273ea1f435cdb9b7f80ed2965382121a71823888a3e32013c5005a.jpg",
+        "img_caption": [
+            "图2地表水和地下水的&D与 $8 ^ { 1 8 } 0$ 之间的关系 Fig.2Relationship between SD and $\\boldsymbol { \\mathfrak { \\delta } } ^ { 1 8 } \\mathrm { O }$ in surface water and groundwater "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3地下水水化学形成",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "研究区地下水水化学形成主要受到溶滤、蒸发浓缩、阳离子交换和混合等作用的影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 溶滤作用",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.1饱和指数法矿物的饱和指数（saturationindex,SI)是用来表征某种矿物在地下水中的溶解沉淀状态，可以用来指示水－岩相互作用的方向。一般认为当SI绝对值小于0.5时,表明该矿物与水",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "溶液处于平衡状态[22] O ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表3可以看出，研究区地下水中石膏、岩盐和萤石SI值大部分都小于-0.5，说明石膏、岩盐和萤石矿物将发生溶解。饱和指数法分析结果表明，地下水中 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ ） $\\mathrm { { N a } ^ { + } }$ 、 $\\mathbf { C l } ^ { - }$ 和 $\\mathrm { F } ^ { - }$ 主要来源于研究区石膏、岩盐和萤石等矿物的溶解。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.2地下水中的离子组成",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1) $\\gamma \\mathrm { N a } ^ { + } / \\gamma \\mathrm { C l } ^ { - }$ ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\gamma \\mathrm { N a } ^ { + } / \\gamma \\mathrm { C l } ^ { - }$ 的关系可以用来反映 $\\mathrm { { N a } ^ { + } }$ 和 $\\mathbf { \\mathrm { C l } ^ { - } }$ 的来源。前人研究表明 $\\mathrm { { N a } ^ { + } }$ 主要来源于硅酸盐和蒸发岩的风化溶解， $\\mathrm { C l } ^ { - }$ 在地下水中相对稳定，主要来源于蒸发岩的风化溶解[23]。从理论上看,若地下水中的 $\\mathrm { { N a } ^ { + } }$ 和 $\\mathrm { C l } ^ { - }$ 全部来源于含水层中蒸发岩的岩盐的风化溶解，则 $\\gamma \\mathrm { N a } ^ { + } / \\gamma \\mathrm { C l } ^ { - }$ 的比值应该等于1,即岩盐是地下水中 $\\mathrm { { N a } ^ { + } }$ 和 $\\mathrm { C l } ^ { - }$ 的最主要来源。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图3可以看出，大部分水样靠近直线 $y = x$ ，表明岩盐矿物的溶解是研究区地下水中 $\\mathrm { { N a } ^ { + } }$ 和 $\\mathrm { C l } ^ { - }$ 的主要来源,同时还可以看出,虽然靠近直线 $y = x$ 但其中大部分水样位于该直线的左上方，表明研究区地下水中 $\\mathrm { { N a } ^ { + } }$ 还可能受到其余含钠矿物溶解作用的影响，如钠长石、芒硝等。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/2d125ed501c09ce53598b9b0a347531ac47b7f577c6eca6a58eb33dcabb1fc37.jpg",
+        "table_caption": [
+            "表3地下水中主要矿物的饱和指数统计",
+            "Tab.3Saturation index of major minerals in groundwater "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">地下水类型</td><td rowspan=\"2\"></td><td colspan=\"3\">北部克孜勒苏河地下水系统</td><td colspan=\"3\">南部盖孜河地下水系统</td></tr><tr><td>石膏</td><td>岩盐</td><td>萤石</td><td>石膏</td><td>岩盐</td><td>萤石</td></tr><tr><td rowspan=\"3\">潜水</td><td>最大值</td><td>-0.50</td><td>-4.51</td><td>-0.77</td><td>-0.33</td><td>-4.74</td><td>-0.57</td></tr><tr><td>最小值</td><td>-1.75</td><td>-7.44</td><td>-5.74</td><td>-1.10</td><td>-6.02</td><td>-1.51</td></tr><tr><td>平均值</td><td>-1.06</td><td>-6.45</td><td>-2.51</td><td>-0.69</td><td>-5.24</td><td>-1.23</td></tr><tr><td rowspan=\"3\">浅层承压水</td><td>最大值</td><td>0.01</td><td>-3.49</td><td>2.10</td><td>-0.06</td><td>-4.21</td><td>0.36</td></tr><tr><td>最小值</td><td>-1.92</td><td>-7.86</td><td>-5.83</td><td>-1.45</td><td>-6.94</td><td>-2.67</td></tr><tr><td>平均值</td><td>-0.71</td><td>-5.92</td><td>-1.93</td><td>-0.86</td><td>-5.73</td><td>-1.23</td></tr><tr><td rowspan=\"3\">深层承压水</td><td>最大值</td><td>-0.05</td><td>-3.09</td><td>1.56</td><td>-1.31</td><td>-5.89</td><td>-1.23</td></tr><tr><td>最小值</td><td>-1.92</td><td>-7.95</td><td>-5.57</td><td>-1.55</td><td>-6.16</td><td>-1.87</td></tr><tr><td>平均值</td><td>-0.61</td><td>-5.58</td><td>-1.16</td><td>-1.43</td><td>-6.03</td><td>-1.55</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/24d4632a692b3ddf5cff0670484976fa2ce4fee245565b72522f76ad17a9cf30.jpg",
+        "img_caption": [
+            "图3地下水 $\\gamma \\mathrm { N a } ^ { + } / \\gamma \\mathrm { C l } ^ { - }$ 的关系",
+            "Fig.3Relationship between $\\gamma \\mathrm { N a } ^ { + }$ and $\\gamma \\mathrm { C l } ^ { - }$ of groudwater "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma ( \\mathrm { C a ^ { 2 + } + M g ^ { 2 + } } ) / \\gamma ( \\mathrm { H C O _ { 3 } ^ { - } + S O _ { 4 } ^ { 2 - } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\gamma ( \\mathrm { C a ^ { 2 + } + M g ^ { 2 + } } ) / \\gamma ( \\mathrm { H C O _ { 3 } ^ { - } } + \\mathrm { S O _ { 4 } ^ { 2 - } } )$ 的关系可以用来反映 $\\mathrm { C a } ^ { 2 + }$ 和 $\\mathrm { M g } ^ { 2 + }$ 的来源,当 $\\gamma ( \\mathrm { { { C a } ^ { 2 + } + M g ^ { 2 + } } ) / \\lambda }$ $\\gamma ( \\mathrm { H C O } _ { 3 } ^ { - } + \\mathrm { S O } _ { 4 } ^ { 2 - } ,$ ）的比值接近1时,表明碳酸盐和硅酸盐矿物的溶解是地下水中 $\\mathrm { C a } ^ { 2 + }$ 和 $\\mathrm { M g } ^ { 2 + }$ 的主要来源;当 $\\gamma ( \\mathrm { C a ^ { 2 + } + M g ^ { 2 + } } ) / \\gamma ( \\mathrm { H C O _ { 3 } ^ { - } + S O _ { 4 } ^ { 2 - } } )$ 的比值远大于1时，表明碳酸盐矿物的溶解是地下水中$\\mathrm { C a } ^ { 2 + }$ 和 $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ 的主要来源；当 $\\gamma \\ : ( \\mathrm {  ~ C a ^ { 2 } ~ ^ { + } ~ } + \\mathrm {  ~ M g ^ { 2 } ~ ^ { + } ~ } ) / \\$ $\\gamma ( \\mathrm { H C O } _ { 3 } ^ { - } + \\mathrm { S O } _ { 4 } ^ { 2 - }$ )的比值远小于1时,表明蒸发岩和硅酸盐矿物的溶解是地下水中 $\\mathrm { C a } ^ { 2 + }$ 和 $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ 的主要来源[24]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从图4可以看出,大部分水样靠近直线 $y = x$ 且基本位于该直线的右下方，同时结合研究区第四系含水层矿物的岩矿鉴定结果，表明研究区地下水中 $\\mathrm { C a } ^ { 2 + }$ 和 $\\mathrm { M g } ^ { 2 + }$ 主要来源于石膏等蒸发岩(硫酸盐)矿物、长石类等硅酸盐矿物以及方解石和白云石等碳酸盐矿物的溶解。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 蒸发浓缩作用",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Gibbs图是通过 $\\gamma \\mathrm { { N a } ^ { + } / \\gamma ( \\mathrm { { N a } ^ { + } + \\mathrm { { C a } ^ { 2 + } ~ } } ) }$ 与TDS的关系来反应水化学组分的成因机制，可以较直观地反映地下水化学成分的形成[25]。在Gibbs 图的右下方，表明地下水化学组分主要受大气降水的影响；在Gibbs图的左中部，表明地下水化学组分主要受岩石风化的影响;在Gibbs图的右上方，反映地下水化学组分主要受蒸发浓缩的影响[26] O",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图5可以看出，北部克孜勒苏河地下水系统中潜水、浅层承压水和深层承压水均分布在Gibbs图的上部，表明潜水主要受到岩石风化和蒸发浓缩的双重影响，承压水主要受岩石风化的影响。南部盖孜河地下水系统中潜水主要分布在Gibbs 图的右上部，个别浅层承压水采样点零星分布在中部，说明潜水主要受蒸发浓缩的影响，个别浅层承压水采样点受岩石风化的影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "研究区蒸降比为3.2，结合饱和指数法分析结果，强烈的蒸发浓缩作用将导致地下水中溶解度高的盐类离子 $\\mathrm { ^ { ' } N a ^ { + } , C l ^ { - } , S O _ { 4 } ^ { 2 - } }$ 等)发生积聚,溶解度低的盐类离子 $( \\mathrm { \\bf C a } ^ { 2 + } \\cdot \\mathrm { \\bf M g } ^ { 2 + } \\cdot \\mathrm { \\bf H C O } _ { 3 } ^ { - } \\cdot \\mathrm { \\bf C O } _ { 3 } ^ { 2 - }$ 等)发生沉淀[27] 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 阳离子交换作用",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "钠吸附比值（sodium adsorption ratio,SAR）的定义是 $\\mathrm { { N a } ^ { + } }$ 含量与 $\\mathrm { C a } ^ { 2 + }$ ） $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ 含量平均值的平方根的比值。可用来判断地下水中 $\\mathrm { C a } ^ { 2 + } / \\mathrm { M g } ^ { 2 + }$ 与 $\\mathrm { { N a } ^ { + } }$ 的交换作用，SAR值越大，固相表面对 $\\mathrm { { N a } ^ { + } }$ 的吸附趋势越强,阳离子交换作用越强[28]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "不同地下水系统中各地下水类型的SAR值统计见表4，并利用研究区地下水水样数据绘制SAR值与井深的关系图（图6）。由表4和图6可以看出，总体上北部克孜勒苏河地下水系统的SAR值高于南部盖孜河地下水系统，表明北部克孜勒苏河地下水系统中 $\\mathrm { { N a } ^ { + } }$ 被吸附的趋势强于南部盖孜河地下水系统，即北部克孜勒苏河地下水系统中的阳离子交换作用强于南部盖孜河地下水系统。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/32d49b940f93edf197feb9466beae684a7853af4af838a14aac7976e62c83869.jpg",
+        "img_caption": [
+            "图4地下水 $\\gamma ( \\mathrm { C a ^ { 2 + } + M g ^ { 2 + } } ) / \\gamma ( \\mathrm { H C O _ { 3 } ^ { - } } + \\mathrm { S O _ { 4 } ^ { 2 - } } )$ 的关系",
+            "Fig.4Relationship between $\\gamma ( \\mathrm { C a } ^ { 2 + } + \\mathrm { M g } ^ { 2 + } )$ and $\\gamma ( \\mathrm { \\ H C O } _ { 3 } ^ { - } + \\mathrm { S O } _ { 4 } ^ { 2 - } ) .$ ）of groudwater "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1e273458e3080b171449e3f27360bd29fe5e4a9d7849e695979916dfdbbfaeaf.jpg",
+        "img_caption": [
+            "注：APD代表大气降水作用,RWD代表岩石风化作用，ECD代表蒸发浓缩作用。",
+            "图5研究区地下水化学Gibbs分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/90d5666352f445bb45154f7eb0616afcdab0c3ecf71940e3a4a139c7e038e174.jpg",
+        "table_caption": [
+            "表4不同地下水系统中各地下水类型的SAR值统计",
+            "Tab.4SAR values in different types of groundwater in different groundwater systems "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>地下水系统</td><td>地下水类型</td><td>最小值</td><td>最大值</td><td>平均值</td><td>地下水系统</td><td>地下水类型</td><td>最小值</td><td>最大值</td><td>平均值</td></tr><tr><td>I</td><td>潜水</td><td>4.2</td><td>92.3</td><td>29.3</td><td>Ⅱ</td><td>潜水</td><td>16.8</td><td>37.2</td><td>26.2</td></tr><tr><td></td><td>浅层承压水</td><td>2.0</td><td>147.9</td><td>36.9</td><td></td><td>浅层承压水</td><td>6.4</td><td>65.6</td><td>28.5</td></tr><tr><td></td><td>深层承压水</td><td>2.2</td><td>219.2</td><td>45.0</td><td></td><td>深层承压水</td><td>27.4</td><td>30.9</td><td>29.2</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/67f4099154c924fe45cd5e4e873ab8196e007fead1a0ad355066ec1b508ebb8e.jpg",
+        "img_caption": [
+            "Fig.5Gibbs diagram of groundwater chemistry in the study area ",
+            "图6SAR值与井深的关系",
+            "Fig.6Relationship between SAR values and well depths "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "研究区地下水SAR值依次表现为：深层承压水 $>$ 浅层承压水 $>$ 潜水，表明随着含水层深度的逐渐增加，SAR值呈逐渐升高的趋势;研究区地下水中阳离子交换作用依次表现为：深层承压水 $>$ 浅层承压水 $>$ 潜水。由图5可以看出，个别承压水点分布在Gibbs图的范围之外，造成这种情况的原因很有可能是承压水发生了明显的阳离子交换作用，而",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Gibbs 未将这一因素考虑在内。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4 混合作用",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "混合作用是研究区地下水水化学形成的一种较为普遍的地质作用，混合作用包括了地表水与地下水的混合以及不同含水层之间地下水的混合。地表水是研究区地下水最主要的补给来源，地表水与浅层地下水之间水力联系复杂，它们之间相互补给、相互控制[28]。以研究区北部克孜勒苏河地下水系统中的克孜勒苏河和南部盖孜河地下水系统中的依格孜牙河为例，选取克孜勒苏河上游采集的地表水点KS-5和靠近该水样下游的潜水点K18，与依格孜牙河上游采集的地表水点DB4和靠近该水样下游的潜水点K51（图1），分别对比两个地下水系统中地表水和地下水的主要化学组分含量。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由图7可以看出，两个地下水系统中地表水水样和潜水水样主要化学组分的含量变化总体上趋势一致,因此，可以判断地表水与地下水存在混合作用，地下水水质在一定程度上会受到地表水水质的影响。同时，由“2.2氢氧同位素特征”可知，垂向上潜水、浅层承压水和深层承压水有较密切的水力联系，表明不同含水层之间的地下水发生了混合作用。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/6714c798727c65f0bc5dca1d1ec161525dce105d563fd94e0bc7688a393dd882.jpg",
+        "img_caption": [
+            "图7地表水与地下水中主要化学组分的关系 Fig.7Relationship of major chemical components between surface water and groundwater "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）北部克孜勒苏河地下水系统中潜水水化学类型以 $\\mathrm { S O } _ { 4 }$ 型为主，承压水水化学类型以 $\\mathrm { S O } _ { 4 }$ 、$\\mathrm { 5 0 _ { 4 } \\cdot C l }$ 型为主;南部盖孜河地下水系统中潜水水化学类型以 $\\mathrm { S O _ { 4 } \\cdot C l , C l \\cdot S O _ { 4 } }$ 型为主,承压水水化学类型以 $\\mathrm { S O _ { 4 } \\cdot C l , S O _ { 4 } \\cdot H C O _ { 3 } }$ 型为主。地下水氢氧同位素特征分析表明，研究区地下水初始补给源主要为大气降水，且在降水补给过程中有一定程度",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "的蒸发。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）研究区地下水的形成过程主要受溶滤、蒸发浓缩、阳离子交换和混合等的影响。饱和指数法分析结果表明，地下水中 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 、 $\\mathrm { { N a } ^ { + } }$ 、 $\\mathbf { C l } ^ { - }$ 和 $\\mathrm { F } ^ { - }$ 主要来源于研究区石膏、岩盐和萤石等矿物的溶解。主要离子组分之间的毫克当量比值表明，岩盐和钠长石等含钠矿物的溶解是地下水中 $\\mathrm { { N a } ^ { + } }$ 和 $\\mathrm { C l } ^ { - }$ 的主要来源; $\\mathrm { C a } ^ { 2 + }$ 和 $\\mathrm { M g } ^ { 2 + }$ 主要来源于石膏等蒸发岩矿物、长石类等硅酸盐矿物以及方解石和白云石等碳酸盐矿物的溶解。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）北部克孜勒苏河地下水系统中潜水主要受岩石风化和蒸发浓缩的双重影响，承压水主要受岩石风化的影响;南部盖孜河地下水系统中潜水主要受蒸发浓缩的影响，个别浅层承压水采样点受岩石风化的影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（4）北部克孜勒苏河地下水系统中的阳离子交换作用强于南部盖孜河地下水系统;同时，随着含水层深度的逐渐增加，阳离子交换作用逐渐增强。研究区地表水与地下水存在混合作用，地表水水质对地下水水质有一定影响;研究区不同含水层之间也存在着混合作用。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）:",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]乃尉华,常志勇,陆成新,等.新疆喀什经济开发区水文地质环境地质调查评价报告［M].北京：地质出版社，2017：42－44.[Nai Weihua,Chang Zhiyong,Lu Chengxin,et al.The Hydrogeo-logical Environmental Geological Survey Evaluation ReportofKashi Economic Development Zone,Xinjiang[M].Beijing:Geolog-ical Press,2017:42 -44.]  \n[2］纪媛媛,李巧,周金龙.新疆喀什地区地下水质量与污染评价[J].节水灌溉,2014（1）：50-53.［Ji Yuanyuan,LiQiao,ZhouJinlong.Assessment of groundwater quality and pollution in Kash-garRegion of Xinjiang[J].Water Saving Irrigation,2O14（1）:50-53.]  \n[3］曾妍妍,周殷竹,周金龙,等.新疆喀什地区西部地下水质量现状评价［J].新疆农业大学学报,2016,39（2）：167－172.［ZengYanyan,Zhou Yinzhu,Zhou Jinlong,et al.Assessment of groundw-ater quality qtatus in Western Kashgar,Xinjiang[J]. Journal ofXinjiang Agricultural University,2016,39(2） :167-172.]  \n[4］邵杰,李瑛,侯光才，等.新疆伊犁河谷地下水化学特征及其形成作用[J].干旱区资源与环境，2017，31（4）：99-105.［ShaoJie,Li Ying,Hou Guangcai,etal.Chemical characteristicsof grou-ndwater in YiliRiver Valley of Xinjiang[J]. Journal of Arid LandResources and Environment,2017,31(4）:99-105.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[5]Sefie A,Aris A Z,Ramli MF,et al.Hydrogeochemistry and groundwater quality assessment of the multilayered aquifer in Lower Kelantan Basin,Kelantan,Malaysia[J].Environmental Earth Sciences, 2018,77(10):397. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[6]周巾枚,蒋忠诚,徐光黎,等.崇左响水地区岩溶地下水主要离于特征及控制因系[J」.坏境科字,2019,4U(））:2145－ 2151.[Zhou Jinmei,Jiang Zhongcheng,Xu Guangli,et al.Major ioniccharacteristics and controlling factors of Karst Groundwater atXiangshui,Chongzuo[J].Environmental Science,2019,40（5）：2143 - 2151. ]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[7]Zhang F,Jin Z D,Hu G,et al.Seasonally chemical weathering and （204 $\\mathrm { C O } _ { 2 }$ consumption flux of Lake Qinghai River system in the Northeastern Tibetan Plateau[J].Enviromental Earth Science,2009, 59:297 -313.   \n[8]Ma B,Jin M,Liang X,et al. Groundwater mixing and mineralization processes in a mountain-oasis-desert basin，Northwest China: Hydrogeochemistry and environmental tracer indicators[J].Hydrogeology Journal,2017,26（D22）:1-18.   \n[9］曲鹏飞.喀什经济开发区地下水资源评价和可持续利用[D]. 西安：长安大学,2015.[Qu Pengfei.Evaluation and Sustainable Utilization of Groundwater Resources in Kashi Economic Development Region[D].Xi'an:Chang'an University,2015.]   \n[10］陈小兵,周宏飞,张学仁,等.新疆喀什噶尔冲积平原区地下水 水化学特征[J].干旱区地理,2004,27(1）：75-79.[Chen Xiaobing,Zhou Hongfei,Zhang Xueren,et al. Chemical characteristics of groundwater in Kashgaer Allvial plain,Xinjiang[J].Arid Land Geography,2004,27(1):75-79.]   \n[11］魏兴,周金龙,乃尉华,等.新疆喀什三角洲地下水化学特征及 演化规律［J].环境科学,2019,40（9）：4042－4051.［Wei Xing,Zhou Jinlong,Nai Weihua,et al.Hydrochemical characteristics and evolution of groundwater in the Kashgar Delta Area in Xinjiang[J].Environmental Science,2019,40(9）:4042-4051.]   \n[12］魏兴,周金龙,曾妍妍,等.喀什地区西部地下水重金属空间分 布特征及成因分析[J].环境化学,2017,36（8）：1802-1811. [Wei Xing,Zhou Jinlong,Zeng Yanyan,et al. Spatial distribution and orign of heavy metals in groundwater in the Western Kashgar Prefecture[J].Environmental Chemistry,2017,36（8）:1802- 1811.]   \n[13］魏兴,周金龙,乃尉华,等.新疆喀什三角洲地下水 $\\mathrm { 5 0 } _ { 4 } ^ { 2 }$ -化学 特征及来源[J].环境科学,2019,40（8）:3550-3558.［Wei Xing,Zhou Jinlong,Nai Weihua,et al. Chemical characteristics and sources of groundwater sulfate in the Kashgar Delta, Xinjiang[J]. Environmental Science,2019,40(8）:3550 -3558.]   \n[14］玉山江·阿布都肉苏力.基于改进积分型Richards 方程的新 疆喀什地区地下水开采影响评估研究［J].地下水,2019,41 (2）:58-59,67.[Yu Shanjiang Abudurousuli.Impact assessment of groundwater exploitation in Kashi,Xinjiang based on improved integral richards equation[J].Ground Water,2019,41（2）:58- 59,67. ]   \n[15］毛炜峰,孙本国,王铁,等.近50 年来喀什噶尔河流域气温、降 水及径流的变化趋势[J].干旱区研究,2006,23（4）：531- 538.[Mao Weiyi,Sun Benguo,Wang Tie,et al. Change trends of temperature,precipitation and runoff volume in the Kaxgar River Basin since recent 5O years[J].Arid Zone Research,2006,23 (4) :531-538.]   \n[16]Li PY,Qian H,Wu JH,et al. Occurrence and hydrogeochemistry of fluoride in shallow alluvial aquifer of Weihe River,China[J]. Environmental Earth Sciences,2014,71(7）:3133-3145.   \n[17］范广群,张建明,张德忠,等.银川平原水体氢氧同位素及主要 水化学参数特征[J].干旱区研究,2018,35（5）:1040－1049. [Fan Guangqun,Zhang Jianming,Zhang Dezhong,et al. Hydrogen and oxygen isotopes and hydrochemical parameters of water samples from the Yinchuan Plain[J].Arid Zone Research,2018,35 (5）:1040 -1049.]   \n[18］郭新,李升,余斌.绿洲带地表水与地下水 8D $\\mathfrak { 8 } ^ { 1 8 } 0$ 特征[J]. 干旱区研究,2019,36(3）:567-574.[Guo Xing,Li Sheng,Yu Bin. Characteristics of D and $\\mathfrak { F } ^ { 1 8 } \\mathrm { O }$ in surface water and groundwater in the Oases[J].Arid Zone Research,2019,36（3）:567- 574.]   \n[19]Craig H. Isotopic variations in meteoric waters[J]. Science,1961, 133(3465）:1702 -1703.   \n[20］王文祥,王瑞久,李文鹏,等.塔里木盆地河水氢氧同位素与水 化学特征分析[J].水文地质工程地质,2013,40(4）:29 -35. [Wang Wenxiang,Wang Ruijiu,Li Wenpeng,et al.Analysis of stable isotopes and hydrochemistry of Rivers in Tarim Basin[J]. Hydrogeology& Engineering Geology,2013,40(4）:29-35.]   \n[21］姜凌.干旱区绿洲地下水水化学成分形成及演化机制研究 [D].西安:长安大学,2009.[Jiang Ling.Study on Hydrochemical Composition Formation and Evolution Mechanisms of the Groundwater in Oasis of Arid Areas[D].Xi'an:Chang'an University,2009.]   \n[22］曾妍妍,周金龙,贾瑞亮,等.新疆祁漫塔格地区地表水水化学 特征及成因分析[J].干旱区资源与环境,2017,31（6)：64- 70.[Zeng Yanyan,Zhou Jinlong,Jia Ruiliang,etal. Hydrochemical characteristics and causes of surface water in Qimantage area, Xinjiang[J]. Journal of Arid Land Resources and Environment, 2017,31(6) :64 -70. ]   \n[23]Faye S,Maloszewski P,Stichler W,et al. Groundwater salinization in the Saloum（Senegal）delta aquifer:Minor elements and isotopic indicators[J]. Science of the Total Environment,2005,343（1- 3) :243 - 259.   \n[24］魏国孝.现代吉兰泰盆地地下水演化规律及古大湖补给水源 研究［D].兰州：兰州大学,2011.[Wei Guoxiao.Research on Groundwater Recharge and Evolution in Jilantai Basin and Water Supply for Jilantai-Hetao Paleo-Megalake[D]. Lanzhou: Lanzhou University,2011.]   \n[25]Gibbs R J. Mechanisms controling world water chemistry[J].Sci",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ence,1970,170(3962）:1088-1090. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[26］任孝宗，李建刚，刘敏，等.浑善达克沙地东部地区天然水体的水化学组成及其控制因素[J].干旱区研究，2019，36（4)：791-800.［Ren Xiaozong,Li Jiangang,Liu Min,et al.Hydrochemicalcomposition of natural waters and its affecting factors in the EastHunshandak Sandy Land[J].Arid Zone Research,2O19,36（4）：791-800.]",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[27］李皎，李明慧，方小敏，等.柯鲁克湖水化学特征分析[J].干旱区地理,2015,38（1）:43-51.[Li Jiao,Li Minghui,Fang Xi-aomin,et al.Hydrochemical characteristics of the Hurleg Lake[J].Arid Land Geography,2015,38(1） :43-51.]",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[28］王晓曦，王文科，王周锋，等.滦河下游河水及沿岸地下水化学 特征及其形成作用[J].水文地质工程地质，2014，41（1)：25- 33.［Wang Xiaoxi,Wang Wenke,Wang Zhoufeng,et al.Hydrochemical characteristics and formation mechanism of river water and groundwater along the downstream Luanhe River,Northeastern China[J].Hydrogeology & Engineering Geology,2014,41（1）:25 -33.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Hydrogeochemical processes of groundwater formation in the Kashgar River Basin,Xinjiang ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ZENG Yan-yan $^ { 1 , 2 }$ ，ZHOU Jin-long'²，NAI Wei-hua³，LILin’，TAN Peng-feil (1.College of Water Conservancyand Civil Engineeing,Xinjiang Agricultural University,Urumqi 83oo52,Xinjiang,China;   \n2. Xinjiang Hydrology and Water Resources Engineering Research Center,Urumqi 830o52,Xinjiang,China;   \n3.No.2HydrologicalandEngineering Geology PartyofXinjiang Bureau ofGeologyand Mineral Resources Explorationand Development,Changji 83110o,Xinjiang,China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The formation of groundwater was mainly affcted by leaching，evaporation，cation exchange,and mixing in the Kashgar River Basin.The disolutionof gypsum，halite，and fluorite minerals provided important sources of $\\mathrm { S O } _ { 4 } ^ { 2 - }$ ， $\\mathrm { { N a } ^ { + } }$ ， $\\mathrm { C l ^ { - } }$ ，and $\\mathrm { F } ^ { - }$ to groundwater. $\\mathrm { C a } ^ { 2 + }$ and $\\mathrm { M g } ^ { 2 + }$ were mainly derived from the dissolution of minerals such as gypsum,feldspar，calcite，and dolomite.Gibbs diagrams show that unconfined groundwater was mainly affected by rock weathering and evaporation-concentration，whereas confined groundwater was predominantly affected by rock weathering in the northern part of the Kezilesu River groundwater system.Unconfined groundwater was mainly affected by evaporation-concentration，while shalow confined water was affected byrock weathering in the Gaizi River groundwater system in the southern part.Cation exchange was stronger in the Kezilesu River groundwater system inthe northern part than in the Gaizi River groundwater system in the southern part.In general，cation exchange gradually increased with aquifer depth downward.Mixed action occurred both between the surface and groundwater，and also among different aquifers. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words:groundwater；hydrochemical characteristics；hydrogeochemical；the Kashgar River Basin； Xinjiang ",
+        "page_idx": 9
+    }
+]

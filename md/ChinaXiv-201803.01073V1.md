@@ -1,0 +1,252 @@
+# DOI:10.5846/stxb201702110236
+
+赵玉,张玉,熊国保,严武.区域异质性视角下赣江生态系统服务支付意愿及其价值评估.生态学报,2018,38（5)：1698-1710.ZhaoY,Zaoodperspective.Acta Ecologica Sinica,2018,38(5） :1698-1710.
+
+# 区域异质性视角下赣江生态系统服务支付意愿及其价值评估 1
+
+赵玉1²，张 玉¹,熊国保¹,\*,严武²
+
+1东华理工大学经济与管理学院，南昌330013  
+2 江西财经大学金融管理国际研究院，南昌330013
+
+摘要;赣江是中国最大淡水湖鄱阳湖水系的第一大河流，为流域内两千多万常住人口提供着重要的生态系统服务。研究赣江生态系统服务价值及其支付意愿可为建立和实施流域生态补偿机制提供决策依据。在随机效用理论框架下采用Tobit模型和实际调查数据,分析了居民对赣江生态系统服务的支付意愿及其影响因素,并运用条件价值评估法测算了赣江生态系统服务价值。可能的亮点在于,第一,将心理距离、心理所有权等微观因素纳入生态系统服务支付意愿模型中,通过测算心理变量对支付意愿影响的偏效应,探讨了提升生态系统服务支付意愿的可行路径;第二,比较分析了河流上、中、下游居民生态系统服务支付意愿的差异,并探讨了支付意愿异质性产生的原因。结果表明：(1)除居民收入和年龄外,对赣江环境治理满意度、支付偏好、对环保部门的信任度、与河流的心理距离、对河流的心理所有权也是影响其支付意愿的主要因素。（2)赣江生态系统服务支付意愿的区域异质性是由上、中、下游居民支付偏好、对环保部门信任度和收入的差异造成的。（3)满意度、信任度、心理距离和心理所有权的平均偏效应分别为7.22、3.84、2.7、1.85元/户。（4)赣江流域 WTP预测值的中位数为19.57元/户,其中,南昌、吉安和赣州每户居民每月愿意支付的金额分别为23.24、19.70、16.86元,赣江为流域居民创造的生态系统服务价值为13.60 亿元/a,其中，南昌段、吉安段和赣州段的生态系统服务价值分别为4.31亿元 $^ { \prime } \mathrm { a } , 3 . 2 1$ 亿元/a和4.65亿元/a。最后，基于研究结论提出了相应的政策建议。 0
+
+关键词：生态补偿；生态系统服务价值;支付意愿；条件价值法；赣江流域
+
+# Willingness-to-pay for ecosystem services of Ganjiang River and its value assessment : a regional heterogeneity perspective
+
+ZHAO $\mathrm { Y u } ^ { 1 , 2 }$ ， ZHANG Yu’， XIONG Guobao1,\* ， YAN Wu² 1 College of Economics and Management，East China Universityof Technology，Nanchang 33o013,China 2International Institutefor FinancialStudies，Jiangxi UniversityofFinanceand Economics，Nanchang 33Oo13,China
+
+Abstract:Ganjiang River，the bigest river in the largestfreshwater lakein China，Poyang Lake，provides ecosystem services for approximately 2O milionresidents in thebasin.This study，focusing on the value of ecosystem servicesand wilingnesstopay（WTP），canbe aplied toboth establishingand enforcing acompensation mechanism for watershed ecology.Thestudy，using the Tobit model within the framework of random utilitytheoryandactual data from a survey, analyzed theresidents’WTPforecosystemservicesand itsinfluencing factors.Inadition，it estimated thevalueof ecosystem services usingthecontingent valuemethod.The highlightsareas follows:Firstly，microscopicfactors，including psychic distanceand psychological ownership，were incorporated intotheresidents’WTP model.The studyalso analyzed howtoincrease thevalueofecosystemservices viacalculatingthepartial efectof psychological factors in WTP.Secondly, consideringthe diferences inecological，economic，and socialconditionsamong theupper，middle，and lowerreachesof thebasin，theheterogeneityofdiferentregions wasconsidered intheevaluationof theresidents’WTP.Theresultsshowed that:（1）Besides the factors of residents’incomeandage，the main influencing factors included the satisfaction of environmental management，payment preference,degree of trust in thelocal environmental protection department，psychic distance to theriver，andownershipof it.（2）Regional heterogeneitiesof residents’WTPwerecaused bypayment preference，degreeof trustinthelocalenvironmental protectiondepartment,andresidents'income.（3）Thepartialefects of satisfaction，trust level，psychic distance，and psychologicalownership were 7.22，3.84，2.78，and1.85Yuan per month per household,respectively.（4）The median WTP in Ganjiang Basin was 19.57 Yuan per month per household,and the WTPfor ecosystem services in Nanchang，Ji'an，and Ganzhou were 23.24，19.70,and16.86 Yuan per month per household，respectively.Inaddition，thevalueof ecosystem servicesof Ganjiang Riverwas estimatedatover1.36 bilion Yuan per year，and those of Nanchang, $\mathrm { J i ^ { \prime } a n }$ ，and Ganzhou were O.431 billion， 0.321 billion，and O.465 billion Yuan per year，respectively.Finally，corresponding policy recommendations were proposed based on the findingsof this study.
+
+Key Words: eco-compensation；value of ecosystem services；willingness topay；contingent value method; Ganjiang Basin
+
+水是生命之源、生产之要和生态之基。河流是水资源的重要组成部分。作为一个由上下游构成的完整生态系统,河流在生物圈物质循环中起着重要作用。河流生态系统服务功能是指河流生态系统为人类生存提供的自然环境和效用。根据河流生态系统提供服务的机制、类型和效用,可以把其生态系统的服务功能划分为提供产品、调节功能、文化功能和生命支持等[1]。随着经济增长和工业文明的快速发展,人类过度取水、排放污水、滥砍滥伐等活动破坏了河流生态系统的平衡。正确认识和准确评价生态系统服务功能是建立河流生态环境保护制度的基础。
+
+河流生态系统具有的典型环境公用品外部性和非排他性特征,排除了其在市场上交易的可能。人们很难从传统市场上发现河流生态系统的价值信号和水资源的稀缺程度[2]。这使得人们对河流生态系统的重要性认识不充分,河流生态系统服务的价值被长期低估甚至忽略,政策制定者对生态环境的质量不够重视,各方利益相关者在生态修复和环境治理过程中也常常抱有搭便车的心理[3]。河流生态系统服务具有外部性和公共物品属性等特点,由于缺乏有效市场,其价值无法在市场中得到体现,仅能采用替代评估技术估算[4]。国内外学者在研究生态系统服务支付意愿（WTP）和支付水平时主要采用条件价值评估法（CVM）[5-6]。CVM 由Davis 在1963年提出,主要用于测度非市场物品的价值,目前该方法已经被广泛应用于分析社会、经济因素和生态系统服务之间的关联[7-8]。CVM询价模式有开放式、单边界支付卡、双边界支付卡、二分式等,其中支付卡问卷应用最为广泛[9],应用对象包括林地[10]、湿地[11]、公园[12]等单一生态系统服务功能的价值,也包括清洁空气[13]、野生动植物[14]等资源的生态系统服务价值。针对CVM和支付意愿模型存在的争议,有学者探讨了在使用CVM时出现的时间稳定性[6]、陈述性偏好异常[15]、内生性问题[16]和各类偏差[17],并给出了一些有益的解决方案。WTP 和CVM是有着心理学内涵的经济学概念[18]。在影响 WTP 的各类因素中除了社会经济变量还有非经济因素[4],越来越多的研究者在评估生态系统服务价值时将偏好、态度和距离等非经济变量引人支付意愿方程中[17]。
+
+由于经济、社会等因素的差异,区域生态系统服务的支付意愿和价值均存在较明显在空间异质性[19-20]。这种异质性表现为随着居民与被评价对象距离的增加,生态环境保护支付意愿将会降低[21]。在采用陈述性偏好方法时,异质性偏好也会影响到居民支付意愿及生态系统服务价值的评估[22]。在最近的相关研究中,Castro 等采用CVM测算了流域居民、游客、生态学专家等异质性利益相关者对美国中南部俄克拉荷马州Kiamichi河流域生态系统的支付意愿,居住在流域内和流域外的利益相关者在支付意愿上存在明显差异,被调查者认为河流生态系统服务的重要性依次体现为物种多样性、淡水供应、水质和娱乐[23]。在对尼泊尔
+
+Chure 地区的调查中 Bhandari等人发现,如果河流水质能得到保障，下游居民愿意支付比所缴纳水费更高的金额,而上游居民的支付意愿较低[24]。与 Bhandari等人的研究结论不同,在关于中国西江跨流域河流污染与治理问题的研究中,He 发现污染的负外部性导致下游居民的支付意愿会低于上游居民的支付意愿[25]。以上研究均表明流域上下游生态系统服务支付意愿存在异质性，其政策启示在于，将异质性因素纳入流域生态政策的框架中,将有助于政策获得公众的支持[26]。 2
+
+贯穿江西南北的赣江是长江的八大支流之一，同时也是中国最大淡水湖鄱阳湖水系的第一大河流,为流域内两千多万常住人口提供着重要的生态系统服务。其生态系统服务主要包括向流域内居民提供生活用水保障流域内工农业生产用水,支撑渔业水产品生产、维持流域内的生物多样性、为中国第一大淡水湖补充水源、向人们提供休闲娱乐场所、连通长江经济带的运输航道等。尽管赣江被称为江西的“母亲河”,但评估赣江生态系统服务价值的文献却极度匮乏。测量赣江生态系统服务价值和居民的支付意愿既能合理评估赣江生态环境的货币效益,又能显著改进江河生态环境治理公共政策的决策质量。相关研究对于赣江流域生态补偿标准的确定和赣江流域的生态修复以及实施江西省生态文明试验区建设的国家战略都显得非常重要和迫切。有鉴于此,比较分析了赣江流域上、中、下游居民异质性支付意愿,探究了异质性产生的原因,并测量了赣江上、中、下游的生态系统服务价值,尝试为环保和财政等决策部门制定赣江流域生态补偿决策提供参考依据。
+
+# 1研究区域
+
+赣江为鄱阳湖水系中最大河流,长江八大支流之一，主河道长 $8 2 3 \mathrm { k m }$ ,纵贯江西省南部和中部。流域地处长江中下游右岸,地理位置 $1 1 3 ^ { \circ } 3 0 ^ { \prime }$ 1 $1 1 6 ^ { \circ } 4 0 ^ { \prime } \mathrm { E }$ ${ 2 4 ^ { \circ } 2 9 ^ { \prime } }$ —29°11'N 之间。流域面积8.35 万 $\mathrm { k m } ^ { 2 }$ ，自然落差$9 3 7 \mathrm { m }$ ,多年平均流量 $2 1 3 0 \mathrm { m } ^ { 3 }$ ,水能理论蕴藏量360万 $\operatorname { k W } _ { \mathrm { ~ o ~ } }$ 流域东西窄而南北长,南北最长 $5 5 0 \mathrm { k m }$ ,东西平均宽约 $1 4 8 \mathrm { k m }$ ,呈不规则四边形。流域东临抚河流域,西隔罗霄山脉与湘江流域毗邻,南以大庾岭、九连山与珠江流域东江、北江为界，北通鄱阳湖。
+
+赣江发源于江西省石城县横江镇赣江源村石寮岽,自南向北流经江西省赣州、吉安、宜春、南昌、九江5市44 个县（市、区),最终汇入鄱阳湖,与长江相连,是江西省水运大动脉。按河谷地形和河道特征划分为上、中、下游三段。其中,上游流域范围包括整个赣州市所辖各县(市、区),以赣州市为中心;中游流域范围包括整个吉安市所辖各县(市、区)及乐安县(属抚州市),以吉安市为中心;下游流域范围包括宜春的樟树市、南昌市市所辖各县(市、区)和九江市永修县吴城镇。赣江为流域内 2000 多万人提供着淡水、航运、水产、水利、水电、休闲娱乐等重要的生态系统服务。借助RS 和GIS手段研究发现,1990—1995年赣江上游流域生态系统服务价值变化不大,1995—2005 年生态系统服务价值总量不断增加,且各类生态服务功能价值波动较大[27]。利用鱼类完整性指数F-IBI评价赣江流域淡水生态系统完整性和健康状态,结果表明赣江水系各河流的水生态系统健康处于差到一般的状态[28]。借助遥感数据和谢高地当量,有学者推测出 2013 年赣江流域的生态价值当量经济价值为64170元/km,流域内林地、草地、农业用地、湿地、河流湖泊和荒地总的生态经济价值为 46.85亿元[29]。随着社会-经济因子的变化,赣江流域生态系统服务呈现一定的空间异质性,因此,未来还需要进一步评估该地区各类自然和社会-经济因子对不同类型生态系统服务的限制作用和格局影响,以便更好地应对区域生态问题[30]。
+
+# 2研究方法与数据分析
+
+# 2.1 研究方法
+
+随着经济的发展和生活水平的提高,赣江流域的居民对赣江生态环境治理的需求迅速扩张，而生态环境治理的供给并没有相应增加,这导致供需出现了巨大缺口。根据林达尔均衡可知赣江生态环境治理有效供给的关键在于消费者按自己从赣江生态环境消费中获得的边际效用水平真实地表达出自己的需求，从而承担相应的成本。由于无法准确获取每一个消费者的真实偏好,由物价部门给出的赣江生态环境治理定价常常是无效的,导致了有效供给不足。条件价值法是在 Hicks提出的补偿变动、等值变动两个福利计量公式的基础上发展而来的评估公共物品价值的陈述偏好方法。主要利用问卷调查技术诱导被访者陈述自己的偏好,考察受访者在假想环境下的经济行为，并得到其支付意愿。
+
+假设被调查者的效用函数除受个人收人、市场商品价格、受教育程度、家庭规模等可观测要素影响外，还受到个人对环境的偏好、感知等心理因素的影响,被调查者的决策行为具有不确定性。在问卷中设计假想的环境变化，同时需要被调查者报告愿意为环境改变所支付的费用。条件价值评估通过问卷调查的方式,获得被调查者的偏好水平,推导在不同环境状态下的消费者的等效用点,并通过定量支付意愿或补偿意愿的分布规律评估环境的经济价值[31]。
+
+Hanemann 首次将随机效用理论引入单边界条件价值评估中,为该评估方法奠定了经济学基础[32]。假设如果改善环境给居民增加的价值大于他支付改善环境的成本,该居民支付改善环境的成本后效用增加,他就会对付费改善环境质量持肯定态度,如果支付成本太大以至于改善环境得不偿失,该居民就不会同意改善环境。根据随机效用理论,假设被调查者的效用函数U由可观测的非随机部分V和不可观测的随机部分 $\boldsymbol { \varepsilon }$ 两部分组成。
+
+个人效用函数以下列基本模型表征：
+
+$$
+U { = } \mathrm { V } \left( q , w , x \right) { + } \varepsilon
+$$
+
+个人效用 $U$ 是环境状态 $\textit { q }$ 、居民个人收入 $w$ 和其他变量 $x$ 的函数， $\varepsilon$ 为不可观测因素。设初始环境状态为 $q _ { 0 }$ ,改善后的环境状态为 $q _ { 1 }$ ,环境状态的提升需要居民支付 $\mathbf { \Phi } _ { a }$ 单位的费用。则两种环境状态下的居民个人效用函数为
+
+$$
+\begin{array} { c } { { U _ { 0 } = \mathrm { V } \left( q _ { 0 } , w , x \right) + \varepsilon _ { 0 } } } \\ { { U _ { 1 } = \mathrm { V } \left( q _ { 1 } , w - a , x \right) + \varepsilon _ { 1 } } } \end{array}
+$$
+
+通过条件价值评估法询问受访者是否愿意支付由调查者给出的费用数额 $\mathbf { \Omega } _ { a }$ ,受访者只需要回答“愿意”或“不愿意”。受访者权衡环境改善增加的效用为！ $\langle U _ { 1 } - U _ { 0 } \rangle$ 和所需支付费用 $\mathbf { \Omega } _ { a }$ 后作出决策。将受访者愿意支付费用记作WTP,它揭示了受访者的效用,居民愿意支付则表明 $U _ { \scriptscriptstyle 1 } \geqslant U _ { \scriptscriptstyle 0 }$ ,居民不愿意支付则表明 $U _ { \scriptscriptstyle 1 } < U _ { \scriptscriptstyle 0 }$ 。
+
+设潜变量WTP表示受访者 $i$ 愿意支付的水平,其阈值为 $0 , Y _ { i }$ 表示 $\mathbb { W } \mathrm { T P } _ { i }$ 的观测值。根据随机效用分析可知， $\mathbb { W } \mathrm { T P } _ { i }$ 可能与环境变量、支付变量、个人特征、家庭特征等变量有关，是 $K$ 个解释变量的线性函数，这 $K$ 个因素的取值对于个人 $i$ 来说为 $x _ { i k }$ ,这意味着他愿意为环境改善支付的费用 $\mathbb { W } \mathrm { T P } _ { i }$ 可由以下Censored 模型给出
+
+$$
+\mathrm { W T P } _ { i } = \sum _ { k = 1 } ^ { \mathrm { ~ K ~ } } \beta _ { k } x _ { i k } \ + \ e _ { i } = V _ { i } \ + \ e _ { i }
+$$
+
+式中,若 $\mathrm { W T P } _ { i } { > } 0 \rangle$ 则 $\overline { { Y _ { i } } } = \mathrm { W T P } _ { i }$ ;若 $\mathrm { W T P } _ { i } { \leqslant } 0$ ，则 $Y _ { i } = 0$ 。 $V _ { i }$ 表示 ${ \mathrm { W T P } } _ { i }$ 的确定性部分。 $\beta _ { k }$ 是与第 $k$ 个变量相关的系数,如果 $\beta _ { k } \mathcal { S } 0$ ,对某个特定的个人而言,第 $k$ 个因素取值的增加会导致他愿意支付的程度提高;反之， $\cdot \beta _ { k } < 0$ 会导致他愿意支付的程度下降。但是，因为愿意支付的程度与各因素之间的关系并不精确或者有些影响因素未包含在方程中所以式(4)中还包括了一个误差项 $\boldsymbol { e } _ { i }$ ,用以捕捉这种随机性。一般采用极大似然法估计模型(4)中的参数。部分学者采用 Heckman两步法作为极大似然法的替代方法,即第一步采用Probit模型估计受访者愿意支付的概率,第二步通过增加一个由 Probit 估计值推导出来的逆米尔斯比率来估计模型(4)。然而古扎拉蒂和波特指出Heckman 两步法并不像极大似然估计那样有效。
+
+三 为了估计赣江生态环境治理的意愿价值,需要预测出 $Y _ { i }$ 的均值 $\operatorname { E } ( Y _ { i } \mid X _ { i } )$ 。设 $\varphi$ 是标准正态分布的概率分布函数, $\Phi$ 是标准正态分布的累计分布函数， $X$ 为自变量向量,模型(4)中的 $\boldsymbol { e } _ { i }$ 服从均值为0,方差为 $\mathbf { \sigma } _ { \mathbf { { \sigma } } ^ { 2 } } ^ { 2 }$ 的正态分布，则
+
+$$
+\begin{array} { r } { \mathrm { E } ( \ Y _ { i } \mid \ X _ { i } ) = \ \mathrm { E } ( \ Y _ { i } > 0 \mid \ X _ { i } ) \mathrm { E } ( \ Y _ { i } \mid Y _ { i } > 0 , X _ { i } ) } \\ { = \Phi \ ( \ V _ { i } / \sigma ) \ \mathrm { E } ( \ Y _ { i } \mid Y _ { i } > 0 , \ X _ { i } ) } \\ { = \Phi \ ( \ V _ { i } / \sigma ) \ \mathrm { E } ( \ V _ { i } + e _ { i } \mid \ V _ { i } + e _ { i } > 0 ) } \end{array}
+$$
+
+$$
+\begin{array} { l } { = \Phi \mathrm { ~ ( ~ } V _ { i } / \sigma \mathrm { ~ ) ~ } \left[ \begin{array} { l } { V _ { i } \dag \mathrm { ~ C ~ } ( e _ { i } \mid e _ { i } > - } { V _ { i } } ) \right]} \end{array}   \\  = \Phi \mathrm { ~ ( ~ } V _ { i } / \sigma \mathrm { ~ ) ~ } \left[ \begin{array} { l } { V _ { i } \dag \sigma \dag ( V _ { i } / \sigma ) / \mathrm { ~ \right. ~ } } \end{array} \end{array}
+$$
+
+式中， $\varphi ( V _ { i } / \sigma ) / \Phi ( V _ { i } / \sigma )$ 为第 $i$ 个样本的逆米尔斯比率。因此,第 $k$ 个自变量 $x _ { k }$ 对居民愿意支付额度Y的影响可以通过求偏导数得到,若 $x _ { k }$ 为离散变量,则可以采用差分模型(6)得到 $x _ { k }$ 的偏效应。偏效应的小大衡量了 $x _ { k }$ 对 $\operatorname { E } ( Y \mid X )$ 影响的边际强度。 2
+
+$$
+\frac { \Delta E ( \textit { Y } | \textit { X } ) } { \Delta x _ { k } } = E ( \textit { Y } | \ \bar { X } _ { i \neq k } , x _ { k } = n + 1 ) \ - \ E ( \textit { Y } | \ \bar { X } _ { i \neq k } , x _ { k } = n )
+$$
+
+根据经过调整的 Spike 模型（7）,计算整个样本的平均支付意愿,式中 $\mathrm { W I P } R _ { 0 }$ 为调查样本中的零支付比率[33]
+
+$$
+\operatorname { E } ( \operatorname { W I P } ) = \operatorname { E } ( Y _ { i } \mid X _ { i } ) \times ( 1 - \operatorname { W T P } R _ { 0 } )
+$$
+
+# 2.2问卷设计与调查
+
+Ryan 和 Spash采用开放式CVM调查问卷获取了居民对生物多样性支付意愿的数据,然后在计划行为理论框架下研究了态度、主观规范和感知行为控制3个心理因子对居民支付意愿的影响,并给出了WTP 和CVM方法的心理学解释[34]。与购买私人物品类似,人们在做出公共物品支付决策时同样存在判断偏差和非理性行为[18],从行为经济学上来解释生态系统服务支付意愿并据此设计环境政策是十分必要的[35]。行为经济学中关于科斯定理和“禀赋效应"实验表明,被试会高估其拥有的物品价值,而低估无产权的物品价值[36]，除了产权以外,情感因素也可以解释被试对物品价值的误判[37]。但现有文献在使用CVM方法评估生态系统服务价值时,鲜有涉及产权变量和情感因素。科斯定理指出资源配置的最终状态与产权配置的初始状态无关,但禀赋效应表明当个人一旦拥有某项物品,那么他对该物品的估值要比未拥有之前大大增加,这一效应的存在会导致资源配置比科斯定理预测的更有“粘性”。20世纪90年代以来,一些欧美学者开始从心理学的角度,探讨所有权的产生和影响,提出了从禀赋效应衍生出来的“心理所有权”概念[38]。所谓的心理所有权是一种心理状态,即个体感觉物体好像是他的一样[39]。心理层面上的所有权是一种占有感,它使得人们把占有物视为自我的延伸,影响着人类的态度、动机和行为产生，进而决定着资源的配置。
+
+考虑到河流产权的模糊性,将心理所有权作为产权的替代变量,加人支付意愿模型以考察“禀赋效应”对生态系统服务支付意愿的影响。另外,在支付意愿模型中用即反映空间远近又折射情感亲疏的心理距离作为物理距离的替代变量。同时,在模型中加人满意和信任等心理因素,探讨提升居民支付意愿和生态系统服务价值的新途径。CVM研究中支付意愿是否能反映评估对象的生态属性、受访者的社会经济属性以及心理因素,是检验CVM有效性的主要准则。借鉴国内外研究成果,将影响赣江生态系统服务支付意愿的因素分为两部分：一般影响因素和心理影响因素。
+
+根据赣江流域居民的学历结构,选用制作简便且易于理解的支付卡来测量流域内居民对赣江生态系统服务的偏好。调查问卷的主要内容分为四部分：第一部分为引言,主要介绍赣江生态系统的资源状况及其主要的生态功能。第二部分为支付决策的心理影响因素,包括受访者对赣江水质的满意度、赣江水质改善对生活质量影响的感受、对环保部门生态治理的信任程度、对居住地距离赣江的远近感受、对赣江心理所有权的感受。第三部分为受访者的支付意愿调查,首先询问受访者是否愿意支付,如果愿意支付,则进一步询问支付数额以及对支付形式的偏好;为验证支付卡片调查结果,同时设计了开放式题项;如果不愿意支付,则追问不愿意支付的原因。第四部分为支付决策的一般影响因素,包括受访者性别、年龄、户籍、家庭人口、文化程度和月收入等社会经济信息。表1报告了本研究所涉及的变量、编码方式、测量尺度、以及自变量对支付意愿的预期影响方向。
+
+修正CVM方法中的偏差是获得有效支付意愿的前提。针对CVM中的假象偏差,在问卷的引言部分介绍了赣江生态系统服务功能;针对投标起点偏差,采用支付卡方式进行调查的同时以开放式题项询问了受访者愿意支付的最大金额;针对策略性偏差,部分问题采取了逆向编码的方式,对较敏感的收入问题以区间尺度测量,询问支付意愿时用两个类似的题项相互印证。针对抗议性偏差,将支付数额放在是否愿意支付题项之后，并设计了一个辨明零支付原因的题项[17]。
+
+表1主要变量及赋值说明  
+Table 1Major variables and assignment   
+
+<html><body><table><tr><td>变量名称</td><td>变量说明与赋值 Variable declaration and assignment</td><td>测量尺度 Measurement scale</td></tr><tr><td>Variable name</td><td>1,3,5,10,20,30,40,50,75，100，150,</td><td>定比</td></tr><tr><td>月支付金额 Monthly willingness to pay</td><td>200,300 非常满意=1,满意=2,一般=3,不满意=4,</td><td></td></tr><tr><td>环境满意度 Satisfaction index</td><td>非常不满意=5</td><td>定距</td></tr><tr><td>水质改善对生活的影响Water quality</td><td>显著提高=1,有一定提高=2,没感觉=3 环保税=1,水费附加=2,治污费=3,捐款=</td><td>定距 定类</td></tr><tr><td>支付偏好 Preferences for payment</td><td>4,其他=5 非常信任=1,信任=2,部分信任=3,不信任</td><td></td></tr><tr><td>对环保部门的信任度Credibility index</td><td>=4,非常不信任=5</td><td>定距</td></tr><tr><td>心理距离 Psychological distance 心理所有权 Psychological ownership</td><td>非常近=1,近=2,一般=3,远=4,非常远=5</td><td>定距 定距</td></tr><tr><td>籍贯Domicile</td><td>李克特5分量表 本地=1,外地=0</td><td>+ +</td></tr><tr><td>性别Gender</td><td>男性=0,女性=1</td><td>不确定</td></tr><tr><td>家庭人数Family size</td><td>由受访者填写</td><td>不确定</td></tr><tr><td>年龄Age</td><td><18 岁=1,18—30=2,31—40=3,41—50= 4,51—60=5,61—70=6,>70 岁=7</td><td></td></tr><tr><td>文化程度 Education level</td><td>高中及以下=0,高中以上=1</td><td>定类</td></tr><tr><td>月收入Monthly income</td><td>≤3000 元=1,3001—5000=2,5001—7000= 3,7001—9000=4,>9000 元=5</td><td>定距</td></tr><tr><td>收入占比Ratio of revenue</td><td>76%—100%=1,51%-75%=2,26%-50% =3,25%及以下=4</td><td>定距</td></tr><tr><td>中游地区 Midstream</td><td>1表示问卷采集于赣江中游,0表示否</td><td>定类</td></tr><tr><td>上游地区 Upstream</td><td>1表示问卷采集于赣江上游，0表示否</td><td>定类</td></tr></table></body></html>
+
+数据来源：根据调查问卷整理;“-"表示变量对受访者月支付金额的预期影响为负值，“ $+ ^ { ; }$ ”表示变量对受访者月支付金额的预期影响为负直，“一"表示变量为因变量
+
+为了保证调查结果全面、准确、可信,课题组采取了在南昌、吉安和赣州市随机抽取社区并安排调查员携带小礼品走访调查的方式,与居民进行“一对一,面对面"的沟通和交流。经过试调查和问卷修订后,在正式调查过程中,首先根据统计年鉴估算出 2016年3个地区常住人口户数合计约520万户,然后依据 Scheaffer 抽样公式，在 $5 \%$ 抽样误差范围内,计算得到随机抽样数量不应少于400户,实际调查中涉及赣江沿岸630 户家庭。在抽样时,依据经济发展水平、样本点与赣江的距离远近、调研成本和随机抽样的合理性,在每个地区随机抽取10个沿江社区,然后根据社区的大小分配调查对象的数量。3个地区共发放630份问卷,收回 593 份有效问卷，问卷有效率为 $9 4 . 1 3 \%$ 。其中，南昌、吉安和赣州分别收回189份、204 份和200 份有效问卷。
+
+表2报告了受访者主要社会经济属性变量的统计描述情况。由表2可以看出：总体而言,调查样本呈正态分布,符合抽样统计原则,抽样具有一定代表性。其中男性占总样本数的 $5 2 . 8 \%$ ,女性占总样本数的 $4 7 . 2 \%$ ，性别比例与实际较为吻合。受访者年龄主要集中在18 至60 岁之间,占受访人数的 $7 3 . 3 6 \%$ ,受访者中大专、本科及以上学历占 $3 8 . 1 1 \%$ ,高中、中专、初中及以下学历占 $6 1 . 8 9 \%$ ,受访者个人月均收入水平主要集中在5000元及以下,这主要是因为调查包含了部分退休人员,而这部分人员收入水平较低,此外,还可能与受访者更愿意报告实发收入有关。
+
+在支付额度的相关问题中零响应个体为108个，约占样本总数的 $1 8 . 2 \%$ 。在向受访者问及“非常不愿意'和"不愿意”支付的原因时，“水体环境治理属于公共服务,应由政府提供"被提及123次，“收入低,无力支付”
+
+被提及的频数为103次，“水体环境污染是由企业排污导致,应由企业承担治理费用”被提及100次，“对我国现行体制下治理环境没有信心"被提及41次,认为“赣江水体生态环境质量对自己生活影响较小"被提及 24次，“不是本地户口"被提及20次。除"收入低,无力支付”属于真实零响应群体的态度外,以上其他的理由都属于抗议性响应群体的态度。分析产生抗议性响应的主要原因有助于提高居民对河流生态系统服务价值付费的意愿。
+
+表2受访者社会属性变量的统计描述  
+Table 2The main characteristics of respondents surveyed   
+
+<html><body><table><tr><td>变量 Variable</td><td>类别 Category</td><td>频数 Frequency</td><td>百分比/% Percentage</td><td>变量 Variable</td><td>类别 Category</td><td>频数 Frequency</td><td>百分比/% Percentage</td></tr><tr><td rowspan="2">性别Gender</td><td>男</td><td>313</td><td>52.78</td><td>学历 Education level</td><td>高中及以下</td><td>367</td><td>61.89</td></tr><tr><td>女</td><td>280</td><td>47.22</td><td></td><td>高中以上</td><td>226</td><td>38.11</td></tr><tr><td rowspan="6">年龄Age</td><td><18岁</td><td>25</td><td>4.22</td><td>户籍 Domicile</td><td>本地</td><td>492</td><td>82.97</td></tr><tr><td>18-30岁</td><td>134</td><td>22.60</td><td></td><td>外地</td><td>101</td><td>17.03</td></tr><tr><td>31—40岁</td><td>120</td><td>20.24</td><td>月收入Monthly income</td><td>≤3000元</td><td>342</td><td>57.67</td></tr><tr><td>41—50岁</td><td>92</td><td>15.51</td><td></td><td>3001- -5000元</td><td>160</td><td>26.98</td></tr><tr><td>51—60岁</td><td>89</td><td>15.01</td><td></td><td>5001—7000元</td><td>58</td><td>9.78</td></tr><tr><td>61—70岁</td><td>98</td><td>16.53</td><td></td><td>7001—9000元</td><td>18</td><td>3.04</td></tr><tr><td></td><td>>70岁</td><td>35</td><td>5.90</td><td></td><td>>9000 元</td><td>15</td><td>2.53</td></tr></table></body></html>
+
+数据来源：根据调查数据整理
+
+在对赣江水质满意度的调查中， $7 . 6 \%$ 的人对赣江水质非常满意， $2 7 . 7 \%$ 的人对赣江水质表示满意，表明居民对赣江水质满意度偏低。在支付偏好的调查中， $1 1 . 0 \%$ 的人选择了以环境税形式支付， $3 3 . 9 \%$ 的人选择了以水费附加的形式支付， $1 0 . 3 \%$ 的人选择一次性支付一定数量的治污费， $2 0 . 4 \%$ 的人希望以捐款的形式支付，选择"其他”选项的受访者主要来自抗议性响应群体。
+
+# 3结果与分析
+
+# 3.1计量结果
+
+表3列出了模型(4)的估计结果。大部分参数的符号符合预期。其中居民对赣江水质满意度、支付偏好、对环保部门的信任度、年龄、月收人等5个变量对居民愿意支付的额度产生了显著影响。水质满意度变量前的参数表明居民对赣江水质满意度越高越倾向于付费来改善赣江生态环境。居民对环保部门越信任越倾向为赣江生态环境治理付费。从主要控制变量年龄和收人来看,赣江生态环境治理为年轻人和高收人人群带来了较高的效用。
+
+区位虚拟变量的显著性表明赣江生态环境治理为上游、中游和下游居民带来的效用并不一致。从区位变量的显著性来看,同等条件下,下游居民的支付意愿高于中、上游地区居民的支付意愿,这一发现与 Bhandari等人的结论类似[24]。导致效用差异的原因可以采用区位和其他变量的交互变量来测度。以表3中的模型为基准,剔除不显著的解释变量,并加入居民的心理距离、心理所有权等变量和交互变量。
+
+表4中报告了改进模型的估计结果。其中,在基准模型的基础上,剔除了不显著的变量,并将其他变量作为控制变量,加人心理距离和心理所有权得到模型1。这两个变量的相关系数约为0.02,加入模型后不会产生共线性问题。心理距离和心理所有权的显著性表明两个变量都会影响受访者的支付决策。
+
+研究发现相对于住宅与赣江的实际距离而言,居民与赣江的心理距离对支付意愿的解释力更强。心理距离与空间距离相关,但不一定成正比。心理距离既反映了居民与赣江空间远近又折射了居民对赣江的情感亲疏。心理距离变量前的系数表明,若居民感觉河流离自己越远,则其为治理河流生态环境付费的意愿越低。心理所有权变量前的系数说明,居民河流的心理所有权越强烈,则其为治理河流生态环境付费的意愿越高。在模型1中引入区位虚拟变量与其他变量的交叉项来考察不同地区支付意愿的异质性及其原因,在剔除不显著的交互变量之后得到模型2。进一步研究心理距离和心理所有权的调节作用,在模型2的基础上加入心理距离和心理所有权与其他变量的交互项,在剔除不显著的交互项之后得到模型3。比较模型2和3中变量的系数可知，大多数系数变化不大，说明模型3是稳健的。
+
+Table 3 Estimation results of benchmark model   
+
+<html><body><table><tr><td>变量Variable</td><td>系数Coefficient</td><td>标准误 Standard error</td><td>Z</td><td>概率Probability</td></tr><tr><td>满意度 Satisfaction index</td><td>-11.598 ***</td><td>2.060</td><td>-5.630</td><td>0.000</td></tr><tr><td>水质对生活的影响 Water quality</td><td>-0.573</td><td>2.638</td><td>-0.217</td><td>0.828</td></tr><tr><td>支付偏好 Preferences for payment</td><td>-7.244***</td><td>1.236</td><td>-5.861</td><td>0.000</td></tr><tr><td>籍贯Domicile</td><td>3.499</td><td>4.305</td><td>0.813</td><td>0.416</td></tr><tr><td>信任度 Credibility index</td><td>-7.247 ***</td><td>2.052</td><td>-3.531</td><td>0.000</td></tr><tr><td>性别Gender</td><td>-2.303</td><td>3.273</td><td>-0.704</td><td>0.482</td></tr><tr><td>家庭人数Family size</td><td>0.254</td><td>0.911</td><td>0.279</td><td>0.781</td></tr><tr><td>年龄Age</td><td>-5.683 ***</td><td>1.043</td><td>-5.446</td><td>0.000</td></tr><tr><td>文化程度 Education level</td><td>1.274</td><td>3.809</td><td>0.334</td><td>0.738</td></tr><tr><td>月收入Monthly income</td><td>10.306 ***</td><td>1.879</td><td>5.485</td><td>0.000</td></tr><tr><td>收入占比 Ratio of revenue</td><td>0.789</td><td>1.783</td><td>0.442</td><td>0.658</td></tr><tr><td>中游地区Midstream</td><td>-6.656 *</td><td>4.006</td><td>-1.661</td><td>0.097</td></tr><tr><td>上游地区Upstream</td><td>-7.831*</td><td>4.034</td><td>-1.941</td><td>0.052</td></tr><tr><td>截距项 Intercept</td><td>96.215 ***</td><td>13.337</td><td>7.214</td><td>0.000</td></tr><tr><td>标准误 Standard error 0</td><td>36.441***</td><td>1.182</td><td>30.835</td><td>0.000</td></tr><tr><td>似然比对数 Likelihood ratio</td><td></td><td>-2487.157</td><td></td><td></td></tr></table></body></html>
+
+数据来源：根据调查数据整理;“\*\*\*"表示 $1 \%$ 的显著水平，“\*\*”表示 $5 \%$ 的显著水平，“\*”表示 $1 0 \%$ 的显著水平
+
+表3基准模型的估计结果  
+表4改进模型的估计结果  
+Table 4Estimation results of improved models   
+
+<html><body><table><tr><td rowspan="2">变量Variable</td><td colspan="2">模型1Model1</td><td colspan="2">模型2Model 2</td><td colspan="2">模型3Model 3</td></tr><tr><td>系数 Coefficient</td><td>Z</td><td>系数 Coefficient</td><td>Z</td><td>系数 Coefficient</td><td>Z</td></tr><tr><td>满意度 Satisfaction index</td><td>-11.214 ***</td><td>-5.677</td><td>-11.537 ***</td><td>-5.968</td><td>-11.450 ***</td><td>-6.031</td></tr><tr><td>支付偏好 Preferences for payment</td><td></td><td>-6.002</td><td>-11.649 ***</td><td>-5.882</td><td>-11.927 ***</td><td>-6.153</td></tr><tr><td>信任度 Credibility index</td><td>-6.132 ***</td><td>-3.033</td><td>-15.626 ***</td><td>-4.580</td><td>-27.203 ***</td><td>-4.020</td></tr><tr><td>年龄Age</td><td>-5.780 ***</td><td>-5.967</td><td>-5.629 ***</td><td>-5.960</td><td>-8.504***</td><td>-3.132</td></tr><tr><td>月收入Monthly income</td><td>9.369 ***</td><td>5.610</td><td>14.381***</td><td>6.128</td><td>25.993 ***</td><td>6.055</td></tr><tr><td>中游地区 Midstream</td><td>-10.372 **</td><td>-2.556</td><td>-46.500 ***</td><td>-2.779</td><td>-44.104 ***</td><td>-2.637</td></tr><tr><td>上游地区Upstream</td><td>-11.770 ***</td><td>-3.007</td><td>-62.098 ***</td><td>-3.812</td><td>-60.527 ***</td><td>-3.779</td></tr><tr><td>心理距离Psychological distance</td><td>-5.487***</td><td>-3.618</td><td>-5.037***</td><td>-3.333</td><td>-12.047 *</td><td>-1.740</td></tr><tr><td>心理所有权Psychological ownership</td><td>2.856 *</td><td>1.757</td><td>2.725 *</td><td>1.715</td><td>2.809 *</td><td>1.807</td></tr><tr><td>中游×支付偏好 Interaction term of midstream with preferences</td><td></td><td></td><td>6.453 **</td><td>2.202</td><td>6.439 **</td><td>2.245</td></tr><tr><td>for payment 中游×信任度 Interaction term of midstream with credibility index</td><td></td><td></td><td>11.370 **</td><td>2.437</td><td>11.021 **</td><td>2.360</td></tr><tr><td>中游×月收入</td><td></td><td></td><td>-8.526**</td><td>-2.071</td><td>-8.743 **</td><td>-2.154</td></tr><tr><td>Interaction term of midstream with monthly income 上游×支付偏好</td><td></td><td></td><td>7.212**</td><td></td><td></td><td></td></tr><tr><td>Interaction term of Upstream with preferences for payment</td><td></td><td></td><td></td><td>2.594</td><td>7.352 ***</td><td>2.699</td></tr><tr><td>上游×信任度 Interaction term of Upstream with credibility index</td><td></td><td></td><td>16.827 ***</td><td>3.649</td><td>15.503***</td><td>3.410</td></tr><tr><td>上游×月收入</td><td></td><td></td><td>-11.075 ***</td><td>-2.985</td><td>-9.334**</td><td>-2.550</td></tr></table></body></html>
+
+续表  
+
+<html><body><table><tr><td rowspan="2">变量Variable</td><td colspan="2">模型1Model1</td><td colspan="2">模型2Model 2</td><td colspan="2">模型3Model 3</td></tr><tr><td>系数 Coefficient</td><td>Z</td><td>系数 Coefficient</td><td>Z</td><td>系数 Coefficient</td><td>Z</td></tr><tr><td>心理距离×信任度</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Interaction term of psychological distance with credibility index</td><td></td><td></td><td></td><td></td><td>4.241 **</td><td>2.379</td></tr><tr><td>心理距离×月收入</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Interaction term of psychological distance with monthly income</td><td></td><td></td><td></td><td></td><td>-4.628 ***</td><td>3.428</td></tr><tr><td>截距项 Intercept</td><td>108.287***</td><td>8.964</td><td>138.528***</td><td>8.951</td><td>160.013 ***</td><td>6.012</td></tr><tr><td>标准误 Standard error σ</td><td>36.052 ***</td><td>30.878</td><td>34.979 ***</td><td>30.892</td><td>34.256***</td><td>30.866</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>似然比对数Likelihood ratio</td><td>-2480.324</td><td></td><td>-2464.38</td><td></td><td>-2455.018</td><td></td></tr></table></body></html>
+
+数据来源：根据调查数据整理;“\*\*\*"表示 $1 \%$ 的显著水平，“ $^ { * * }$ ”表示 $5 \%$ 的显著水平，“ $^ *$ ”表示 $1 0 \%$ 的显著水平
+
+模型3交互项系数的显著性表明,信任度和收入水平都会调节居民心理距离对支付意愿的影响。交互项系数的符号表明,信任度越高,居民与河流的心理距离越近,支付意愿也越高,而收入越低,居民与河流的心理距离越远,支付意愿也越低。通过讨论模型3中的虚拟变量的取值,得出南昌、吉安和赣州居民支付偏好前的系数分别为-11.93、-5.49、-4.58;信任度前的系数分别为-27.20、-16.18、-11.70、月收入前的系数分别为25.99、17.25和16.66。这表明,不同区域居民支付意愿的异质性主要是由居民的支付偏好、对环保部门信任程度以及月收入存在显著差异导致的。 C
+
+# 3.2 偏效应分析
+
+提高环保受益人的支付意愿,有助于提升环境治理服务的均衡价格，从而缓解赣江生态环境治理设施供给不足的问题。测算各影响因素对居民WTP 的偏效应,有助于找到提升居民WTP 的可行路径。根据模型 3的计量结果,在控制了收入、年龄、支付偏好、区位等变量之后,分别讨论不同地区的心理距离、心理所有权、信任度、满意度对居民支付意愿的影响。按照式(5)模拟得到WTP 期望值,然后按照式(6)做差分,得到满意度、信任度、心理距离和心理所有权四个心理因素对居民WTP 影响的偏效应（表5）。
+
+表5心理因素偏效应的模拟结果  
+Table 5 Simulation results of psychological factors'partial effecl   
+
+<html><body><table><tr><td>区域</td><td>Taol3Smmdato orpsychoroglkarTactorspartarCheet 差分序</td><td>满意度</td><td>信任度</td><td>心理距离</td><td>心理所有权</td></tr><tr><td>Region 南昌</td><td>Difference sequence</td><td>Satisfaction index</td><td>Credibility index</td><td>Psychological distance</td><td>Psychological ownership</td></tr><tr><td></td><td>2-1</td><td>-9.671</td><td>-12.712</td><td>-3.265</td><td>1.888</td></tr><tr><td></td><td>3-2</td><td>-8.611</td><td>-11.140</td><td>-3.106</td><td>1.970</td></tr><tr><td></td><td>4-3</td><td>-7.284</td><td>-9.015</td><td>-2.934</td><td>2.048</td></tr><tr><td></td><td>5-4</td><td>-5.796</td><td>-6.602</td><td>-2.751</td><td>2.122</td></tr><tr><td>吉安</td><td>平均偏效应</td><td>-7.840</td><td>-9.867</td><td>-3.014</td><td>2.007</td></tr><tr><td></td><td>2-1</td><td>-9.047</td><td>-2.452</td><td>-2.987</td><td>1.669</td></tr><tr><td></td><td>3-2</td><td>-7.813</td><td>-2.323</td><td>-2.807</td><td>1.757</td></tr><tr><td></td><td>4-3</td><td>-6.369</td><td>-2.188</td><td>-2.617</td><td>1.843</td></tr><tr><td></td><td>5-4</td><td>-4.857</td><td>-2.050</td><td>-2.420</td><td>1.927</td></tr><tr><td></td><td>平均偏效应</td><td>-7.021</td><td>-2.253</td><td>-2.708</td><td>1.799</td></tr><tr><td>赣州</td><td>2-1</td><td>-8.869</td><td>0.595</td><td>-2.911</td><td>1.611</td></tr><tr><td></td><td>3-2</td><td>-7.595</td><td>0.605</td><td>-2.726</td><td>1.701</td></tr><tr><td></td><td>4-3</td><td>-6.130</td><td>0.616</td><td>-2.532</td><td>1.788</td></tr><tr><td></td><td>5-4</td><td>-4.622</td><td>0.626</td><td>-2.333</td><td>1.873</td></tr><tr><td></td><td>平均偏效应</td><td>-6.804</td><td>0.610</td><td>-2.625</td><td>1.743</td></tr><tr><td>赣江流Basin</td><td>平均偏效应</td><td>-7.222</td><td>-3.837</td><td>-2.782</td><td>1.850</td></tr></table></body></html>
+
+数据来源：根据调查数据整理
+
+表5中的差分序"2—1"表示所考察变量取2,其他变量取均值得到的 WTP 期望值减去所考察变量取1,其他变量取均值得到的WTP 期望值,其他的差分序的含义依此类推。表中第3列至第6列中的数据为差分值,表示自变量对居民WTP影响的偏效应。当差分序为"2—1"时,满意度变量的偏效应为-9.671,表示保持其他变量不变,满意度由“非常满意"变化到“满意"时,南昌市每户居民每月愿意支付的金额约减少9.67元。当差分序为"3—2"时,满意度变量的偏效应为-8.611,表示保持其他变量不变,满意度由“满意"变化到“一般"时,南昌市每户居民每月愿意支付的金额约减少8.61元。其他数值可做类似解释。从表中的结果可知在多数情况下,满意度、信任度和心理距离的影响是边际递减的,而心理所有权的影响是边际递增的。另外,同一变量对下游居民WTP 的影响大于对上游居民WTP 的影响,这也是南昌居民的WTP 大于吉安居民的WTP，而吉安居民的WTP又大于赣州居民WTP的主要原因。
+
+# 3.3价值估算
+
+图1报告了WTP预测值。真实的WTP取值范围为[0,300],由于遗失了关键变量,基准模型以及模型1和2导致了WTP估值偏小。从模型的回归标准误和极大似然对数值可知,模型3的拟合效果最好。应采用模型3来评估WTP值。由于预测结果的直方图显示WTP预测值呈左侧截尾的非对称分布,因此,预测值的中位数更有代表性。经过式（7)的Spike 公式调整,由模型3得到的WTP中位数为19.57元/户。其中,南昌、吉安和赣州居民的WTP分别约为23.24、19.70元/户和16.86元/户。
+
+![](images/85a3365e704909f7913d1e3e62788748f8146d6413286ce568e8f769daaadaa2.jpg)  
+图1赣江流域居民WTP期望值的概率分布图  
+Fig.1Probability distribution of residents'WTP expectation in Ganjiang Basin
+
+7 赣江流域人口2015年约为 2072.84万人,按照江西省3.58人/户的户均人口来估算,赣江流域约有579.01万户家庭。其中,南昌地区154.46万户,吉安地区135.77万户,赣州地区约为229.89万户。根据 WTP值和人口户数可以测算出,赣江每年为流域内居民创造的条件生态价值为13.60亿元。其中,南昌段生态系统服务价值为4.31亿元/a,吉安段生态系统服务价值为3.21亿元/a,赣州段生态系统服务价值为4.65亿元/a。考虑到工业、农业、旅游业以及下游其他利益相关者的取用水权益,赣江生态环境治理会产生溢出效应,因此有理由认为本研究评估的结果是赣江生态系统服务价值的下限。
+
+# 4结论与讨论
+
+# 4.1 主要结论
+
+本文在随机效用分析框架下建立了生态系统服务支付意愿模型,采用Tobit模型和调查数据,分析了居民对赣江生态系统服务的支付意愿及其影响因素,借助偏效应分析得到了心理因素对支付意愿的影响,运用CVM方法和预测得到的支付意愿中位数,估计了赣江的生态系统服务价值。得到如下研究结论：（1)除居民收入和年龄外,对赣江环境治理满意度、支付偏好、对环保部门的信任度、与河流的心理距离、对河流的心理所有权也是影响其支付意愿的主要因素。（2)赣江生态系统服务支付意愿的区域异质性是由上、中、下游居民支付偏好、对环保部门信任度和收入的差异造成的。（3)满意度、信任度、心理距离和心理所有权的平均偏效应分别为7.22、3.84、2.7、1.85元/户。（4)赣江流域 WTP预测值的中位数为19.57元/户,其中,南昌、吉安和赣州每户居民每月愿意支付的金额分别为23.24、19.70、16.86元,赣江为流域居民创造的生态系统服务价值为13.60亿元/a,其中,南昌段、吉安段和赣州段的生态系统服务价值分别为4.31亿元/a、3.21亿元/a和4.65亿元/a。 ？（
+
+# 4.2讨论
+
+表6为本文与国内相关文献研究结果的比较。从表6可知,不同文献的WTP值存在一定差异。CVM估算结果的差异主要是受到了调查方案、问卷方式、调查对象认知水平、调查地区的经济发展状况等因素的影响。部分文献采用易受到极值影响的WTP均值估算生态系统服务价值,而本文采用了更稳健的中位数统计量估算生态系统服务价值。 >
+
+表6本研究与国内其他河流生态系统服务研究结果的对比  
+Table 6 Comparison between this study result and river ecosystem services of other research findings in domestic   
+
+<html><body><table><tr><td>作者(发表时间) Authors（dateline)</td><td>研究对象 Object of stduy</td><td>问卷方式 The way of questionnaire</td><td>WTP值 Vaule of WTP</td><td>正支付率/% Rate of WTP>0</td></tr><tr><td>彭晓春,等[40]，（2010)</td><td>东江流域下游生态环境</td><td>支付卡式</td><td>332.7—364.5元户-1a-1</td><td>91.30</td></tr><tr><td>张翼飞,等[41]，（2012)</td><td>漕河泾(上海)生态环境</td><td>开放式</td><td>246.0元户-1a-1</td><td>56.9</td></tr><tr><td></td><td>秦淮河(南京)生态环境</td><td></td><td>304.8元户-1a-1</td><td>42.8</td></tr><tr><td>陈红光,等[42]，（2014)</td><td>蚕花巷河(杭州)生态环境</td><td></td><td>243.6元户-1a-1</td><td>38.6</td></tr><tr><td></td><td>三江平原生态旅游水资源</td><td>支付卡式</td><td>112.5元人-1a-1</td><td>75.1</td></tr><tr><td></td><td></td><td>单边界二分式</td><td>136.2元人-1a-1</td><td>74.2</td></tr><tr><td></td><td></td><td>双边界二分式</td><td>168.7元人-1a-1</td><td>74.0</td></tr><tr><td>郑雪梅,白泰萱[43]，（2016)</td><td>大伙房水源生态系统服务</td><td>开放式</td><td>93.8—137.6元人-1a-1</td><td>68.2</td></tr><tr><td>陈莹,等[44]，（2017）</td><td>太湖上游(宜兴)生态环境</td><td>支付卡式及开放式</td><td>162.5元户-1a-1</td><td>69.7</td></tr><tr><td></td><td>太湖上游(湖州)生态环境</td><td>支付卡式及开放式</td><td>194.9元户-1a-1</td><td>68.6</td></tr><tr><td></td><td>太湖下游(苏州)生态环境</td><td>支付卡式及开放式</td><td>275.8元户-1a-1</td><td>72.6</td></tr><tr><td>本研究，（2017) This study</td><td>赣江上游(赣州)生态系统服务</td><td>支付卡式及开放式</td><td>202.3元户-1a-1</td><td>81.0</td></tr><tr><td></td><td>赣江中游(吉安)生态系统服务</td><td>支付卡式及开放式</td><td>236.4元户-1a-1</td><td>77.5</td></tr><tr><td></td><td>赣江下游(南昌)生态系统服务</td><td>支付卡式及开放式</td><td>278.9元户-1a-1</td><td>87.0</td></tr></table></body></html>
+
+除CVM方法外,选择实验法(CE)也是常用的陈述性偏好测量方法。张小红采用选择实验法得出湘江流域每户居民愿意为湘江生态环境支付204.63元/a[45]。考虑到赣江和湘江在地理位置、流域内人口特征、经济状况等的相似性,可以认为使用支付卡及开放式CVM和CE 得到的评价结果相差不大。
+
+本研究的政策启示在于：
+
+(1)根据自变量偏效应的大小,政策制定者应按照如下优先序来提升居民购买赣江生态系统服务的意愿：提升居民对环境治理的满意度>提高居民对环保部门的信任度>缩短居民与赣江的心理距离>增强居民对赣江的占有感。通过生态环境治理制度的创新让居民分享到河流治污的成果,以提升居民对水质的满意度；
+
+http://www.ecologica.cn
+
+通过提升环保部门对环境污染事件的处置效率和力度,来提高居民对环保部门的信任度;通过水上公园等公共设施建设和开发水上运动、水上旅游和水上养生保健等亲水项目,增加居民在日常生活中和赣江接触的次数,从心理上缩短人与河流的距离;通过加快水权制度改革,加大赣江生态环境信息的披露和宣传,鼓励居民参与赣江流域的环保公益活动,来提升居民对河流的心理所有权。
+
+(2)针对赣江上、中、下游生态系统服务价值的差异和居民异质性的支付意愿,在实务操作中有必要实施生态系统服务差别定价。相关部门在确定赣江流域的生态补偿标准和环保税率时应因地制宜,而不搞一刀切。应针对居民支付偏好的差异设计多样化的支付方式。对于积极响应群体,既可以考虑通过环保税、水费附加或治污费的形式向其征收生态系统服务价值补偿金，也可以发起成立相关的公益基金，接受居民捐款。对于真实零响应群体和抗议性响应群体，政策制定者既要晓之以义又要予之以利。可以借助绿色金融制度创新针对零支付或低支付意愿人群推出有偿的付费模式,激发居民参与生态系统服务支付的积极性。围绕赣江流域污水处理、水上运动、生态水产品养殖、水上旅游、水上养生保健等盈利性项目,政策制定者可以鼓励社会资本针对流域内居民定向发行绿色债券或绿色股票来筹集所需资金，使居民在参与生态系统服务付费的同时享受到保护水生态环境带来的收益。 。
+
+# 参考文献（References）：
+
+［1］欧阳志云，赵同谦，王效科，苗鸿.水生态服务功能分析及其间接价值评价.生态学报，2004，24（10)：2091-2099.  
+[2］冉涛，温汝俊，叶兆木，黄浩波.基于选择性实验方法(CE)和河流生态服务法(RESA)的梁滩河生态价值评估实验设计//2015年中国环境科学学会学术年会论文集(第一卷).深圳：中国环境科学学会，2015：557-562.  
+［3］李静，杨娜，陶璐.跨境河流污染的"边界效应”与减排政策效果研究一 -基于重点断面水质监测周数据的检验.中国工业经济，2015，(3):31-43.  
+[4]SpashCocitftigntsghtsdtalefsinilsttalts.Land Economics，2006,82(4）:602-622.  
+[5］张茵，蔡运龙.条件估值法评估环境资源价值的研究进展.北京大学学报：自然科学版，2005，41（2）：317-328.  
+[6］张翼飞，王丹.应用意愿价值评估法评价河流生态恢复的时间稳定性——以上海城市内河为例.应用生态学报，2013，24(4)：927-934.  
+[7]CastJVebg,teB,rcia-oreteabellJVugCC,pEEoyeeverdeoffrlildemand：a landscape-scale spatial analysis. Landscape and Urban Planning,2014,132：102-110.  
+[8]Martin-LpezB,esta-ArandiaI，Garca-LorenteM，PaloI，Casado-AruagaI，DelAoDG,Gomez-BgetunE，Oteros-zasE,Palacios-Aune,atslJtndpataoteCUovgthrough social preferences.PLoS One，2012，7(6): e38970.  
+[9］杨凯，赵军.城市河流生态系统服务的CVM估值及其偏差分析.生态学报，2005,25(6)：1391-1396.  
+[10］李国志.城镇居民公益林生态补偿支付意愿的影响因素研究.干旱区资源与环境，2016,30(11)：98-102.  
+[11］于文金，谢剑，邹欣庆.基于CVM的太湖湿地生态功能恢复居民支付能力与支付意愿相关研究.生态学报，2011,31（23）：7271-7278.  
+[12]RathaakeRWEooicvauesfrcreatioalplangatHrtonPsNtioalPark,SriLanka.TousGaes，（）:213-232.  
+[13] FranciscoJPSWilingnesstforairqualityiprovementfromusingelectricjepeysinmetroanila.TeSngaporEcoomiceview,2015, 60(4) : 1550073.  
+14 Martinez-EspieiraR.ABox-CoxDoubl-Hurdeoelofildlifevaluatio：tecitizen'sperspctie.EolgicalEooics，O,58（）：192- 208.  
+[15] PoeGL.BehavioralomaliesinontingentvalusandctualhicAgriculturalandesouceEooicsRevi016,4(）：46-69.16 WhiteheadJCmprigilgsstoatesfoualitmprovnts oughjnttiatioiqualityerceptiouthoocJournal,2006，73（1）：100-111.  
+[17] 曹先磊，刘高慧，张颖，李秀山.城市生态系统休闲娱乐服务支付意愿及价值评估——以成都市温江区为例.生态学报，2017，37（9)：2970-2981.  
+[18]KahnaitocoitKEantatedilesfblcs：yloalprseihlcac1993，4(5):310-315.  
+[19］唐秀美，郝星耀，刘玉，潘瑜春，李虹.生态系统服务价值驱动因素与空间异质性分析.农业机械学报,2016,47（5）：336-342.  
+[20」孙艺杰，仕志匹，赵胜男，张静.陕四河谷盆地生念系统服务协间与权衡时空差异分析.地埋字报，2017，72（3)：521-532.  
+[21高琴，敖长林，陈红光，佟锐.基于居民生态认知的非使用价值支付意愿空间分异研究——以三江平原湿地为例.生态学报，2014，34(7)：1851-1859.  
+[22］史恒通，赵敏娟.生态系统服务功能偏好异质性研究——基于渭河流域水资源支付意愿的分析.干旱区资源与环境，2016，30（8)：36-40.  
+[23]CastroAJugC，Garc-ote,JlaJisoCL.WingstfosesogakeoerosiSouth-CentralU.S.watershedwithregionalconflict.Joualof WaterResourcesPlaingandManagement,2O16,14（9)：05016006.  
+24]Bandi,aKChsthryalAesthaUesetsfosticedatodake'slnforselected ecosystem services in the Chure region of Nepal. Applied Geography，2016,69：25-34.  
+[25]HeJ，HuagA,XuLDSatialereeityndrasbodarypoltiootingentvauatio（CV）tudoeXijgiaebasin in south China.China Economic Review，2015,36：101-130.  
+[26]ZhaoMJ,TaoX,SiH,YaoLY,LiuB,QianLEostemservicevaluatioofwatersdrestratioinheSangRvesierheterogeneous preferences. Journal of Resources and Ecology，2015,6(6）：405-411.  
+[27］陈美球，赵宝苹，罗志军，黄宏胜，魏晓华，吕添贵，许莉.基于RS与GIS 的赣江上游流域生态系统服务价值变化.生态学报，2013，33(9): 2761-2767.  
+[28］陈宏文，张萌，刘足根，张柱，方红亚.赣江流域淡水生态系统完整性与健康状态的鱼类F-IBI值评价.长江流域资源与环境，2011，20(9):1098-1107.  
+[29］肖池伟，刘影，李鹏.赣江流域生态经济价值与生态补偿研究.地域研究与开发，2016,35（3）：133-138.  
+[30]WagXDEFuJtlasresdecsiesouand Ecology，2016,7(6):439-452.  
+［31］张翼飞.城市内河生态修复的意愿价值评估法实证研究.北京：科学出版社，2014：21  
+[32] Hanemam W M. Welfare evaluations in contingent valuation experiments with discrete res] American Journal of Agricultural Economics,1984,66(3):332-341.  
+[33] KristrimB.Spikemodels incontingent valuation.American Journalof Agricultural Economics，1997,79(3）:1013-1023.  
+[34]RyaASshCLataleaseEmpcalalyifeolgcalexplaatiofongntvauJoufEconomic Psychology，2011,32(5）: 674-687.  
+[35]KimYlingC，oHUdersadingvialxaatisf-dvergehsallesltifenvironmental policy. Annual Review of Resource Economics，2015,7:169-187.  
+[36]Isoni A,Loomes G,Sugden R. The wilingness to pay-willing ss to accept gap,the "endowment effect"，subject misconceptions，and experimentalprocedures for eliciting valuations:comment.American Economic Review,2011,101(2）：991-1011.  
+37ielAtiseseiocJournal of Economic Psychology，2011,32(6): 908-917.  
+[38]Etzioni A. The socio-economics of property. Journal of Social Behavior and Psychology，1991,6(6): 465-468.  
+[39]PierceJubefeldnSEployoership:oetalodelfpocesadfscadefagetRevi99(1):121-144.  
+[40］彭晓春，刘强，周丽旋，郑淑颖，郭梅，张杏杏.基于利益相关方意愿调查的东江流域生态补偿机制探讨.生态环境学报，2010,19（7)：1605-1610.  
+[41]张翼飞，张真，王丽，张蕾.长江三角洲城市内河环境治理的居民支付意愿比较研究——上海、南京与杭州实例调查.中国环境科学，2012, 32(11) : 2103-2112.陈红光，王秋丹，李晨洋.支付意愿引导技术：支付卡式、单边界二分式和双边界二分式的比较——以三江平原生态旅游水资源的非使用价值为例.应用生态学报，2014，25（9）：2709-2715.13 郑雪梅，白泰萱.大伙房水源受水城市居民生态补偿支付意愿及影响因素分析.湿地科学，2016，14(1)：65-71.44] 陈莹，马佳.太湖流域双向生态补偿支付意愿及影响因素研究——以上游宜兴、湖州和下游苏州市为例.华中农业大学学报：社会科学版，2017，(1)：16-22.  
+[45］张小红.基于选择实验法的支付意愿研究——以湘江水污染治理为例.资源开发与市场，2012，28（7)：600-603.

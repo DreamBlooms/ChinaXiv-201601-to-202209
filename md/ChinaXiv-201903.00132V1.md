@@ -1,0 +1,341 @@
+# 同轴电极结构中非线性介质空间电荷极化与退极化暂态过程仿真研究
+
+孙云龙李忠华　索长友　郑欢（哈尔滨理工大学工程电介质及其应用技术教育部重点实验室 哈尔滨150080）
+
+![](images/83bfe1ada4fd28304feb8e1aaf1044613951abed0959bbc40a61304c82cfdebf.jpg)
+
+孙云龙男 1993年生，博士研究生。主要从事非线性绝缘电介质暂态介电机理研究与分析方面的工作。
+
+摘要：非线性介质是指其电导率和（或）介电常数随电场强度变化而变化的电介质。非均匀电场中非线性介质由于介质的介电性能参数在空间呈梯度变化，在电场作用下将发生空间电荷极化，而极化形成的空间电荷又影响电场的分布，探明这种空间电荷极化的动态过程有助于高压直流绝缘结构的设计和故障分析。为此，利用COMSOLMultiphysics 有限元软件中的瞬态求解器仿真研究了同轴电极结构下具有场致增强型和温度增强型电导的非线性电介质在阶跃电压下的极化和退极化过程。研究结果发现：极化建立过程中，内电极附近空间电荷密度随时间变化会出现“过冲”现象；退极化过程中，内电极附近空间电荷会出现“反极性过冲”现象；“过冲”现象与“反极性过冲”现象相互呼应，均源自动态松弛时间的时空分布；温度梯度与场强对空间电荷“过冲”行为的影响规律不同。
+
+关键词：非线性介质 温度梯度 空间电荷极化退极化 中图分类号：TM215
+
+![](images/0093a45b2ed4d9b8058764cea878b4ce0d2739bc7d9411ae0cd5b8686e784a1f.jpg)
+
+李忠华男 1962年生，博士，教授，博士生导师，主要从事非线性聚合物绝缘理论与相关测试技术、电缆绝缘与诊断技术等方面的研究工作。
+
+# Simulation on Space Charge during Polarization and Depolarization of Non-Linear Dielectric in Coaxial Electrode Structure
+
+Sun Yunlong Li ZhonghuaSuo ChangyouZheng Huan (Key Laboratory of Engineering Dielectrics and its Application Technology， Ministry of Education Harbin University of TechnologyHarbin15oo80China ）
+
+Abstract: The nonlinear dielectric is a sort of dielectrics that their conductivity and (or） permittivity will change with the electric field. Under inhomogeneous field. The nonlinear dielectric will polarize for its conductivity and (or） permittivity that have strong dependence on temperature and electric field. The space charge accumulated in polarization process will affect the electric field pattern. To ascertain the characteristics of this space charge polarization is of a great significance to help to design the insulation structure and to diagnose the insulation breakdown.In this paper, a coaxial model of high voltage direct current (HVDC) cable insulation was built and the finite-element analysis software (COMSOL Multi-physics) was employed to simulate space charge dynamic process caused by the nonlinear conductivity of insulation with different temperature gradients and step voltage amplitudes. The results show that a space charge density overshoot phenomenon occurs during polarization and an opposite polarity charge density overshoot occurs during depolarization near the inner electrode. The polarity charge density overshoot and opposite polarity charge density overshoot are both inducedby the distribution of dynamic relaxation time in dielectrics.The phenomenon of overshoot during polarization and depolariza-tion echoes each other.The temperature gradient and the electric field have diferent influence on space charge overshoot phenomenon.
+
+Keywords: Non-linear dielectrics, temperature gradient, space charge, polarization, depolarization
+
+# 1 引言
+
+随着柔性输电技术的发展，聚合物挤出绝缘高压直流电缆具有广泛的应用前景[1-6]。众所周知，直流稳态电场分布取决于绝缘材料的电导率，因此在存在内高外低的温度梯度条件下，聚合物绝缘高压直流电缆中由于绝缘材料电导非线性因素会引起电缆绝缘中出现“电场分布翻转”现象，即电缆线芯表面电场强度低于绝缘外表面处电场强度的现象[7-8]。由于最大电场是绝缘结构设计的主要依据，工程界往往只关注电场分布问题。然而“电场分布翻转”的本质是绝缘介质在直流电场作用下慢极化形成的空间电荷所引起的。
+
+长期以来，有关空间电荷的产生、聚积和耗散机理以及空间电荷测试和空间电荷抑制方面的研究一直是电气绝缘领域的研究热点[9-12]。绝缘介质中空间电荷往往来源于绝缘介质中杂质的热电离、极性分子的极化、电极的注入、陷阱、介电常数或电导在绝缘介质中的不均匀分布以及界面的影响[13-14]。为此可将空间电荷分为两类，一类是产生在强电场下取决于绝缘材料微观特性（如陷阱等因素）的空间电荷；另一类是由材料宏观介电参数在空间变化而形成的慢极化引起的空间电荷。针对前者，相关研究报道较多[15-20]，但引起高温度梯度下高压直流电缆电场分布翻转的正是后一类空间电荷，它与绝缘材料电导率非线性属性、结构参数、温度梯度和外施电压等多种因素有关，且发生在任何电场下。由于空间电荷测试技术无法区分这两类空间电荷，通常认为后一种空间电荷数值上也相对较小[21-22],常常被研究者忽略，至今相关研究报道也较少。
+
+仿照高压直流电缆绝缘结构，本文建立二维轴对称同轴电极结构模型，基于COMSOL有限元分析软件，利用数值法求解绝缘介质中电场时空分布，进而得到极化、退极化过程中空间电荷时空分布的变化规律。研究结果有助于对复杂绝缘结构中非线性绝缘介质空间电荷极化特性的理解。
+
+# 2 同轴电极结构下非线性介质空间电荷极化仿真模型
+
+# 2.1仿真模型
+
+参考 $3 2 0 \mathrm { k V }$ ，500MW直流电缆典型结构[23],对其进行简化后建立如图1所示的二维轴对称同轴电极结构模型，模型中内电极半径为 $2 6 \mathrm { m m }$ ，非线性绝缘介质厚度为 $2 4 \mathrm { m m }$ ，外电极半径为 $5 2 \mathrm { m m }$ 。
+
+![](images/d3eb039494a71110b4ae0d933d13dc92e197c6d52fb62c300e520844aa033a73.jpg)  
+图1同轴电极结构下非线性介质仿真模型 Fig.1Simulation model of nonlinear dielectrics in coaxial electrode
+
+# 2.2材料属性、边界条件与加载方式
+
+# 2.2.1 材料属性
+
+模型求解时各部分材料属性见表1。
+
+# 表1模型各部分材料属性
+
+Tab.1Material properties in the model   
+
+<html><body><table><tr><td></td><td>内、外电极(铜)</td><td>介质</td></tr><tr><td>电导率γ/(S·m-1)</td><td>5.998 × 107</td><td>y(E,T)</td></tr><tr><td>相对介电常数ε</td><td>108</td><td>2.3</td></tr></table></body></html>
+
+表1中电导率表达式 $\gamma ( E , T )$ 由文献[24]给出，即
+
+$$
+\gamma ( E , T ) = A \exp ( - { \frac { \varphi _ { \mathrm { e } } q } { k _ { \mathrm { b } } T } } ) { \frac { \sin h ( B \mid E | ) } { \mid E \mid } }
+$$
+
+式中，γ为电导率 $( \mathbf { S } \cdot \mathbf { m } ^ { - 1 } )$ ； $A$ 为与材料有关的常数 $( \mathrm { V } \cdot ( \Omega \cdot \mathrm { m } ^ { 2 } ) ^ { - 1 } )$ ； $\varphi _ { \mathrm { e } }$ 为活化能（eV）； $\boldsymbol { q }$ 为元电荷量； $k _ { \mathrm { b } }$ 为玻尔兹曼常数 $\left( \mathbf { J } \cdot \mathbf { K } ^ { - 1 } \right)$ ； $T$ 为材料绝对温度(K)； $B$ 为电导率对电场的依赖系数 $( \mathbf { m } \cdot \mathbf { V } ^ { - 1 } )$ ； $E$ 为电场强度 $\left( \mathrm { V } \cdot \mathrm { m } ^ { - 1 } \right)$ 。由实测电导率数据按照式 (6)进行数据拟合，得到 $\mathcal { A } = 3 . 5 9 \times 1 0 ^ { 7 } \mathrm { V } \cdot ( \Omega \cdot \mathrm { m } ^ { 2 } ) ^ { - 1 }$ ， $\varphi _ { \mathrm { e } } =$ $0 . 9 6 \mathrm { e V }$ ， $B = 1 . 1 4 \times 1 0 ^ { - 7 } \mathrm { m \cdot V ^ { - 1 } }$ 。
+
+# 2.2.2温度场的确定
+
+模型中温度边界条件的设定见表2。
+
+Tab.2 Boundary conditions of temperature   
+
+<html><body><table><tr><td>边界</td><td>温度/K</td></tr><tr><td>内电极边界Tin</td><td>Tout+△T</td></tr><tr><td>外电极边界 Tout</td><td>313</td></tr></table></body></html>
+
+通过改变表2中 $\Delta T$ 实现介质中不同的温度梯度分布，半径 $\boldsymbol { r }$ 处介质的温度为
+
+$$
+T ( r ) = T _ { \mathrm { i n } } - \frac { \ln { r } - \ln { R _ { \mathrm { i n } } } } { \ln { R _ { \mathrm { o u t } } } - \ln { R _ { \mathrm { i n } } } } \Delta T
+$$
+
+式中， $R _ { \mathrm { i n } }$ 、 $R _ { \mathrm { o u t } }$ 分别为内、外电极半径； $\boldsymbol { r }$ 为介质中任意一点处半径。
+
+# 2.2.3电场边界条件的确定
+
+外电极接地，内电极施加由式（3）确定的激励电压。
+
+$$
+U ( t ) = \left\{ \begin{array} { c c } { { 0 } } & { { t < 0 \mathrm { s } } } \\ { { U _ { \mathrm { 0 } } } } & { { 0 \mathrm { s } \leqslant t \leqslant 5 0 0 0 0 \mathrm { s } } } \\ { { 0 } } & { { 5 0 0 0 0 \mathrm { s } < t } } \end{array} \right.
+$$
+
+研究电压幅值对非线性介质空间电荷极化的影响时，分别设置 $U _ { 0 }$ 为正极性 $1 0 0 \mathrm { k V }$ 、 $2 0 0 \mathrm { k V }$ ，$3 0 0 \mathrm { k V }$ ， $4 0 0 \mathrm { k V }$ 和 $5 0 0 \mathrm { k V }$ 。
+
+# 2.3数值求解方法
+
+采用软件COMSOLMultiphysics有限元软件中的瞬态求解器对模型求解，其本质是对泊松方程进行数值求解过程。数值求解过程中，空间网格剖分单元大小和时间步长是影响求解精度的关键因素。对计算区域进行三角网格剖分时，剖分单元最大尺寸设定值为 $0 . 2 \mathrm { m m }$ 。为了充分保证极化和退极化过程能达到稳态，计算时间为150000s，其中前50000s为极化过程，后100000s为退极化过程。为了保证计算精度和缩短计算时间，采取分时段设定计算步长，具体设置见表3。
+
+# 表3仿真计算步长
+
+表2温度边界条件  
+Tab.3 Simulation time step   
+
+<html><body><table><tr><td>物理过程</td><td>时间段/s</td><td>步长/s</td></tr><tr><td rowspan="4">极化过程</td><td>0 ～1(50 000 ～ 50 001)</td><td>0.01</td></tr><tr><td>1~ 10(50 001～ 50 010)</td><td>0.1</td></tr><tr><td>10 ～ 100(50 010～ 50 100)</td><td>1</td></tr><tr><td>100 ～ 1000(50 100 ～ 51000)</td><td>10</td></tr><tr><td rowspan="2"></td><td>1000 ～ 10000(51000 ～ 60 000)</td><td>100</td></tr><tr><td>10000 ～ 50 000(60 000～ 150 000)</td><td>1000</td></tr></table></body></html>
+
+# 2.4数值求解结果
+
+COMSOLMultiphysics有限元软件计算结果可直接提供电势 $\varphi$ 、电场强度 $E$ 、电位移 $D$ 和电荷密度 $\rho$ 的时空分布，但直接提取的空间电荷密度 $\rho$ 的时空分布结果存在模型误差（由剖分网格精细程度决定)，电极边界处空间电荷密度明显和物理事实不符。为此，本研究采取由电位移 $D$ 的整体时空分布推算出电极附近受模型误差影响处的电位移 $D$ ，进一步计算出空间电荷密度 $\rho$ 的时空分布，具体关系式为
+
+$$
+\rho _ { i } = 2 \frac { D _ { i + 1 } r _ { i + 1 } - D _ { i } r _ { i } } { r _ { i + 1 } ^ { 2 } - r _ { i } ^ { 2 } }
+$$
+
+式中， $D _ { i }$ 和 $D _ { i + 1 }$ 分别为半径 $r _ { i }$ 与 $\boldsymbol { r } _ { i + 1 }$ 处对应的电位移。
+
+# 3 空间电荷极化建立过程
+
+# 3.1空间电荷极化建立过程的温度梯度效应
+
+为了研究温度梯度对极化建立过程中空间电荷的影响规律，在内电极施加电压幅值 $U { = } 3 0 0 \mathrm { k V }$ 的正极性阶跃电压，分别在温度梯度为 $\Delta T = 0 \mathrm { K }$ 、 $\Delta T =$ 10K、 $\Delta T = 2 0 \mathrm { K }$ 、 $\Delta T = 3 0 \mathrm { K }$ 、 $\Delta T = 4 0 \mathrm { K }$ 和 $\Delta T = 5 0 \mathrm { K }$ 条件下进行了电场数值仿真，仿真得到电场强度时空分布云图如图2所示。
+
+从图2可以看出，随着温度梯度的增加，稳态电场分布逐渐出现翻转。由于边界条件没变，介质内部电场发生翻转的本质必然是空间电荷的积累。通过计算得到与图2各个温度梯度下电场分布相对应的空间电荷密度分布云图，如图3所示。
+
+从图3可以看出，在正极性阶跃电压作用下，极化过程介质中积累的空间电荷均为正极性空间电荷，对于内电极（阳极）来说为同极性空间电荷，将会削弱内电极附近电场；对于外电极（阴极）而
+
+20100 105045 半径/mm 403530250 2 时间/s 3 4 ×1040 5(a）△T=OK302010105045403530250 43半径/mm 时间/s ×104 0(b）△T=10K32010582 45403530250 4 5 103半径/mm 时间/s ×104(c）△T=20K130201058 45403530250 2 3 5 10时间/s ×104(d）△T=30K3020 20100 105045 半径/mm 4035 30250 1 时间/s 2 4 ×104 5(e）△T=40K30202010场 504540 35 30 250 53 4×102半径/mm 时间/s(f) $\Delta T { = } 5 0 \mathrm { K }$ （20
+
+M 0.04 0.030.024 5 0.012 J半径/mm 1 时间/s ×104(a）△T=OK0.040.03  
+0.010.02半径/mm 40 3530 250 2 时间/s 3 4x1510.01(b）△T=10K0.04  
+V 0.030.024 5 0.01半径/mm 1 时间/s 2 3 ×104 0(c）△T=20K0.040.030.020.0150 45 40 35 30 250 2 3 4× 10半径/mm 1 时间/s 0(d）△T=30K0.04  
+1 0.030.02  
+8 45 403 0.01半径mm 3530 250 1 2 时间/s 3 4×10(e）△T=40K  
+1 10.03 0.0250 45403530 250 2 3 4x15001半径/mm 1 时间/s(f) $\Delta T { = } 5 0 \mathrm { K }$ （204号
+
+言为异极性空间电荷，将会增强外电极附近电场，使得电场逐渐发生如图2所示的翻转变化。在所研究电压幅值下，稳态径向空间电荷密度分布形式随着温度梯度的增加逐渐由内高外低转变为内低外高。在相近的温度和场强条件下，空间电荷密度数值与文献[13]、文献[22]、文献[25]和文献[26]实测数值在同一数量级。
+
+介质内稳态平均空间电荷密度可以反映其稳态时积累的空间电荷总量，介质的稳态平均空间电荷密度与温度梯度关系如图4所示。从图4可知，在确定电压下温度梯度越大，平均空间电荷密度越大。
+
+![](images/362a723aadf11098d5ac3208c8b3a83ad9d7476ea8d71d353cd005fdf9dfffe6.jpg)  
+图4稳态平均空间电荷密度与温度梯度关系 Fig.4Steady average space charge density vs. temperature gradient
+
+在图3中， $\Delta T { = } 0 \mathrm { K }$ 时径向电荷密度随时间增加基本呈现单调变化，而存在温度梯度时内电极附近电荷密度随时间变化出现“过冲”现象，即空间电荷密度随极化时间先增加后减小，最后趋于稳态值的非单调现象。
+
+为了更清晰地体现不同温度梯度条件下非线性介质极化过程中出现的空间电荷密度“过冲”行为的动态过程，分别在介质 $r = 2 6 \mathrm { m m }$ （内电极）、 $r =$ $3 8 \mathrm { m m }$ 和 $r = 5 0 \mathrm { m m }$ （外电极）位置处提取空间电荷密度，得到空间电荷密度随极化时间变化的曲线,如图5所示。
+
+空间电荷极化“过冲”现象很不明显。随着温度梯度增大，空间电荷密度“过冲”现象逐渐凸显出来，任意位置空间电荷达到稳态的时间缩短；内电极暂态空间电荷峰值增大；在介质中部位置暂态空间电荷过冲现象逐渐消失；在外电极附近极化过程则呈现单调性。同时，内电极附近稳态空间电荷密度随着温度梯度的增加先增大后减小，外电极附近空间电荷密度单调增加。
+
+![](images/86a4786c1a1ac9b6ad8b082f7e470d87c9326e757c795833c7e1077c08f9cb8f.jpg)
+
+![](images/103e08adc84d4a54330796aeaedca18e29c089215aa10a2be0f416a45d7d6fc1.jpg)  
+图5不同温度梯度下不同部位介质中空间电荷极化过程 Fig.5Space charge polarization in dielectrics at different positions under different temperature gradients
+
+极化空间电荷的产生是介质电导率在空间呈梯度分布的结果，不同位置电荷密度随时间的变化过程由式（5）决定[27]
+
+$$
+\rho ( t , r ) + \tau ( t , r ) \frac { \partial \rho ( t , r ) } { \partial t } = J \nabla \tau ( t , r )
+$$
+
+式中， $\tau ( t , r )$ 为介质中载流子的动态松弛（响应）时间，由下式表示
+
+$$
+\tau ( t , r ) = \frac { \varepsilon } { \gamma ( t , r ) }
+$$
+
+式中， $\boldsymbol { \varepsilon }$ 为介电常数，与温度和电场无关； $\gamma ( t , r )$ 为介质电导率的时空分布。
+
+空间电荷的动态行为很大程度取决于松弛时间的时空分布情况。由计算得到不同温度梯度下松弛时间 $\tau ( t , r )$ 的时空分布如图6所示。
+
+从图6可以看出，介质的动态松弛时间在任意时刻沿半径方向均呈现内低外高的分布形式；施加电压之初，动态松弛时间的空间分布梯度高于稳态时动态松弛时间空间分布梯度。在内电极施加正极性电压时，带正电的载流子由内电极向外电极迁移，由于内导体附近 $\boldsymbol { r }$ 处松弛时间小于 $r + \Delta r$ 处松弛时
+
+1200  
+1 10008000600040002000半径/mm 极化时间/s 0(a）△T=OK12000s12000 10000  
+10000 1 8000 40002000半径/mm 极化时间/s 0(b）△T=10K12000s12000 10000间 9000 8000时 灵 6000 3000 6000松 40002000半径/mm 极化时间/s 10(c）△T=20K1200012000 10000  
+间 9000 8000  
+300 600040002000半径/mm 极化时间/s o(d）△T=30K12000s12000 10000  
+/宝 9000 80003000 600040002000半径/mm 极化时间/s 10(e）△T=40K12000s12000 1000080003000 600040002000半径/mm 极化时间/s 1(f) $\Delta T { = } 5 0 \mathrm { K }$ （20图6极化过程松弛时间时空分布规律
+
+间， $\boldsymbol { r }$ 处电荷迁移速率大于 $r + \Delta r$ 处电荷迁移速率，因而形成正极性空间电荷的积累，同时正电荷的积累反过来降低了 $\boldsymbol { r }$ 处的电场，并使电导率下降，载流子迁移速率下降，这是一个负反馈过程，因此最终达到稳态。
+
+由图6同样可知，随着温度梯度的增大，动态松弛时间的时空梯度增大。这将导致施加电压初期内电极附近电荷的积累速率过快，进而导致内电极附近空间电荷极化过程中表现出“过冲”现象，且温度梯度越大，“过冲”现象越明显。介质松弛时间由内向外逐渐增大，相应电荷积累速率逐渐减小，因此空间电荷表现出如图5所示规律。
+
+为了表述空间电荷极化暂态过程的“过冲”行为，以 $\Delta T = 3 0 \mathrm { K }$ 、 $U { = } 3 0 0 \mathrm { k V }$ 时结果为例，提取极化过程中暂态最大电荷密度和稳态电荷密度沿半径方向的分布，如图7所示。
+
+（./电 0.024 稳态值暂态最大值  
+0.022 A  
+0.020 内电极  
+0.018外电极  
+0.016  
+0.014 过冲区域  
+0.01225 30 35 40 45 50半径/mm
+
+由于仿真结果存在模型误差，图7中两条曲线重合起始点是很难确定的，因此取暂态最大值与稳态值的差值小于稳态值的 $3 \text{‰}$ 定义为临界点，以此认为两点重合，标记为A点（A点的确定标准并不影响后续对结果的分析)，A点到内电极之间为“过冲”区域；同时以内电极边缘处电荷密度暂态最大值与对应位置稳态值的差与稳态值之比 $k$ 表示最大“过冲”的程度。
+
+基于上述定义，得到确定的电压幅值，不同温度梯度下，极化过程中与空间电荷“过冲”程度和“过冲”区域，如图8所示。由图8可知，在确定的电压幅值下，温度梯度的增加使得空间电荷“过冲”程度增大，“过冲”区域变宽。
+
+# 3.2空间电荷极化建立过程的电压幅值效应
+
+为了研究电压幅值对空间电荷极化过程的影响，在固定温度梯度 $\Delta T = 5 0 \mathrm { K }$ 的前提下，对幅值分别为100kV、 $2 0 0 \mathrm { k V }$ 、 $3 0 0 \mathrm { k V }$ 、 $4 0 0 \mathrm { k V }$ 和 $5 0 0 \mathrm { k V }$ 的正极性阶跃电压作用下的极化过程进行了仿真，得到极化过程介质中典型电场时空分布云图，如图9所示。
+
+![](images/1f9dd0bcee5b30678edbcf3622a9456c71d7ce0403be7d59cf931de625dfa068.jpg)  
+图8极化过程温度中梯度对空间电荷过冲程度与区域的影响
+
+![](images/8da2262ccb825d39804de62faa0cf66a33fc5455cdeda7134b4bb55781e43878.jpg)  
+Fig.8The degree and the range of space charge overshoot in polarization related with the temperature gradient
+
+结合图9与前文图2f（ $\Delta T = 5 0 \mathrm { K }$ ， $U { = } 3 0 0 \mathrm { k V }$ 时的电场时空分布云图）可以发现，电压幅值越大，电场翻转过程越快。
+
+同样，通过计算可得到与图9中不同电压幅值下电场时空分布相对应的空间电荷密度时空分布云图，如图10所示。
+
+![](images/39011a3fc8136a47343a8e8afcf53be3a301e5140fed5b8772a397409a1d5c82.jpg)  
+图10不同电压幅值下空间电荷密度时空分布云图 Fig.10 Temporal and spatial distribution of space charge density with different voltages
+
+稳态时介质的平均空间电荷密度与极化电压关系如图11所示。由图11可知，介质中空间电荷总量随极化电压增大而增大，但增加速率随极化电压增大而减小。
+
+![](images/54336571a56027c68a5bcf64471032f7484dd492443f508b195bf5181ce59a39.jpg)  
+图9不同电压幅值下电场强度时空分布云图 Fig.9Temporal and spatial distribution of electric field with different voltages   
+图11稳态平均空间电荷密度与极化电压关系 Fig.11Steady average space charge density vs. polarization voltage
+
+为了更清晰地对比不同电压幅值下介质中的空间电荷极化动态过程，同样做出半径 $r = 2 6 \mathrm { m m }$ （内电极）、 $r = 3 8 \mathrm { m m }$ 和 $r = 5 0 \mathrm { m m }$ （外电极）处的空间电荷密度随极化时间变化的曲线，如图12所示。
+
+由图12可知，随电压幅值增大，任何位置空间
+
+(/电 0.04 -U=100kVU=200kV  
+0.03 U=300kVU=400kV  
+0.02 U=500kV  
+0.01  
+0.00  
+10'³10°²10°10°10'10²10104105时间/s(a）r=26mm  
+（电./电 0.05 U=100kV  
+0.04 U=200kVU=300kV  
+0.03 U=400kV  
+0.02 U=500kV  
+0.01  
+0.00  
+10'10²10°10°1010²10²10410时间/s(b）r=38mm  
+电./ 0.05 U=100kV  
+0.04 U=200kV  
+0.03 U=300kV U=400kV  
+0.02 U=500kV  
+0.01  
+0.00  
+10²10²10'10°10'10²1010410时间/s(c） $r = 5 0 \mathrm { m m }$
+
+电荷达到稳态的时间缩短；内电极暂态空间电荷峰值增大；在介质中部暂态空间电荷过冲现象逐渐消失；外电极附近空间电荷建立过程无过冲现象，且稳态电荷密度随极化电压增加而增加。
+
+在确定的温度梯度条件下，极化过程中电压幅值对空间电荷“过冲”程度和“过冲”区域的影响如图13所示。
+
+![](images/a34945573326f7a6d1c96566b99dcadf06bfcde9fe321956850f090a0665909d.jpg)  
+图12不同电压幅值下不同部位介质空间电荷极化过程 Fig.l2Space charge polarization in dielectrics at different positions under different voltage amplitudes
+
+由图13b可知，当 $\Delta T = 0 \mathrm { K }$ 时，在电压大于等于 $3 0 0 \mathrm { k V }$ 时才出现明显“过冲”现象，而后随着电压幅值的增加“过冲”程度与区域增大。当$\Delta T \geqslant 1 0 \mathrm { K }$ 时，电压幅值的增大使得“过冲”程度与区域减小。由此可见，电压幅值对极化“过冲”现象影响规律相反。由式（1）电导率公式可知，温度梯度越高，电导率空间分布梯度越大；而电压幅值的增加使同轴结构中场致增强型非线性绝缘介质中电场分布趋于均匀[8]，进而减小电导率空间分布梯度。
+
+![](images/a5d003b17c6d4da2985642ebb7c5694f8d17bffb949113a3422b84222d8222a3.jpg)  
+图13极化过程中电压幅值对空间电荷过冲程度与区域的影响  
+Fig.13The influence of voltage on the degree and the range of space charge overshoot in polarization
+
+# 4空间电荷退极化耗散过程
+
+# 4.1空间电荷退极化耗散过程的温度梯度效应
+
+研究温度梯度对退极化过程空间电荷的影响时，极化电压 $U = 3 0 0 \mathrm { k V }$ ，温度梯度分别设置为 $\Delta T$ $= 0 \mathrm { K }$ 、 $\Delta T = 1 0 \mathrm { K }$ 、 $\Delta T = 2 0 \mathrm { K }$ 、 $\Delta T = 3 0 \mathrm { K }$ 、 $\Delta T = 4 0 \mathrm { K }$ 和$\Delta T = 5 0 \mathrm { K }$ ，在上述条件下对空间电荷退极化过程进行仿真，得到空间电荷退极化过程电场时空分布如图14所示。
+
+由图14可知，退极化过程中，内电极附近电场与极化时方向相反，而外电极附近电场与极化时同向，中间区域存在一个电场为零的点，而零电场出现的位置在退极化过程中是变化的，最终稳态时电场处处为零。
+
+根据电场时空分布计算得到不同温度梯度下退极化过程空间电荷密度时空分布，如图15所示。
+
+由图15可知，在温度梯度 $\Delta T = 0 \mathrm { K }$ 时，介质中空间电荷密度随时间单调减小，这与该温度梯度下极化过程没有出现“过冲”现象相吻合；当$\Delta T \geqslant 1 0 \mathrm { K }$ 时，随着温度梯度的增加，内电极附近空间电荷出现“反极性过冲”现象，即内电极附近空间电荷不是随时间单调减小到零，而是出现反极性的峰值后再衰减到零。退极化过程的“反极性过冲”与极化过程的“过冲”相互呼应，“反极性过冲”仍是由动态松弛时间的时空分布所决定的。由于退极化过程内电极附近出现反向电场，故出现“反极性过冲”。
+
+20  
+(.u->/ 202 100武 5403530250 2 时间/s 4 6 810 -10 -20(a）△T=OK20  
+(u./ 10 10505 0-10-10-5045403530 250 半径/mm 2 4 时间/s 6 810 -20(b）△T=10K20  
+(ww./ 1001半径/mm 2 4 时间/s 6 8 ×10-20 10 -10(c）△T=20K20  
+(u-/ 20 100-10 0半径/mm 4时间 8×10 1020(d）△T=30K2010-3845 4035 30250 半径/mm 2 时间/s 4 6 810 1020(e）△T=40K20  
+(.uw-/ 201001 10-38 -10454035 30250 半径/mm 2 时间/s 4 6 8×10 -20(f）△T=50K0.04M 0.020-0.02403530250 2 4 时间/s 6 8100 -0.04(a）△T=OK0.04  
+1 0.0210-0.025045403530 250 半径/mm 2 时间/s 4 6 810 -0.04(b）△T=10K0.04  
+国 0.02 0.01 0.020-0.01 00645.403530 250 8 10 -0.02半径/mm 2 时间/s ×104 -0.04(c）△T=20K0.04  
+新 0.030.02 0.020.01-0.0 0-0.9 045403530250 半径/mm 2 4 时间/s 6 8 ×10-0.04 10 -0.02(d）△T=30K0.04  
+1 0.0200045 403530250 半径/mm 2 时间/s 4 6 8 ×104-0.04 10 -0.02(e）△T=40K0.040.020.020-0.02 0-0.04 045403530 250 半径/mm 2 时间/s 4 6 810 -0.02(f) $\Delta T { = } 5 0 \mathrm { K }$
+
+为了表征退极化“反极性过冲”程度，提取退极化起始时电荷密度和暂态最大电荷密度分布，结果如图16所示。
+
+![](images/dfad9ee3ef7632c393fd2d3f70f34200e1fc5395ef41f3bda315e55cf0909821.jpg)  
+图16径向初始与最大暂态空间电荷密度分布 Fig.16Distribution of initial and maximum transient space charge density along the radius
+
+图16中，A点为出现“反极性过冲”的临界点，A点与内电极间定义为“反极性过冲”区域；以内电极边缘处负电荷密度峰值绝对值与对应位置初始值之比 $k$ 定义最大“反极性过冲”程度。由此得到确定的电压幅值下温度梯度对退极化过程空间电荷“反极性过冲”程度和区域的影响规律，如图17所示。
+
+梯度的增加而增大。
+
+# 4.2空间电荷退极化耗散过程的极化电压幅值效应
+
+固定温度梯度 $\Delta T = 5 0 \mathrm { K }$ ，在极化电压幅值分别为 $1 0 0 \mathrm { k V }$ 和 $5 0 0 \mathrm { k V }$ 条件下，仿真得到此时典型电场分布云图与对应的空间电荷密度分布云图，分别如图18和图19所示。
+
+![](images/e89fb077dda455e050fb8216489b7dfcdfa672ba724763da5433d4ab0c81307e.jpg)  
+图18不同极化电压退极化过程电场强度时空分布云图 Fig.18Temporal and spatial distribution of electric field with different voltages during depolarization
+
+由图17可知，退极化过程中温度梯度对空间电荷“反极性过冲”程度和区域的影响规律与极化过程相同，即“反极性过冲”程度与区域均随着温度
+
+![](images/ba32efe4dfaf60a180072f65c820f5c3d71ae6e9b8471b36476b3a30de08928c.jpg)  
+Fig.17The influence of temperature gradient on the degree and the range of space charge overshoot in depolarization
+
+![](images/fc3982b2361c218bb5d2192a6c93245264d491d6347c01a4fe83d4e72c72ada8.jpg)  
+图17退极化过程中温度梯度对空间电荷过冲程度与区域的影响  
+图19不同极化电压退极化过程空间电荷密度时空分布 Fig.19Temporal and spatial distribution of space charge density with different voltages during depolarization
+
+由图18与图19可知，极化电压增大，初始退极化电荷密度和退极化过程的电场随之增大。
+
+退极化过程中，极化电压幅值对空间电荷“反极性过冲”的影响如图20所示。
+
+由图20a可知，在空间电荷退极化耗散过程中，“反极性过冲”程度随着极化电压幅值的增大而减小，这与极化过程规律一致。而极化电压幅值的改变对空间电荷“过冲”区域基本没有影响，这一点与极化过程不同。
+
+![](images/4d926ed61184b72c1c54174818b9bdef62b9bd51fadd360dccb6c96cee671dda.jpg)  
+图20退极化过程中极化电压幅值对空间电荷过冲程度与区域的影响  
+Fig.20The influence of polarization voltage on the degree and the range of space charge overshoot in depolarization process
+
+# 5 结论
+
+同轴结构非线性介质中存在温度梯度时，在外加电场的作用下会发生由电导率梯度引起的空间电荷极化。针对这种空间电荷极化与退极化行为，本文研究了温度梯度与极化电压幅值对其的影响，得出如下结论：
+
+(1）当极化电压一定，随温度梯度的增大，极化稳态空间电荷密度由内高外低分布逐渐过渡到内低外高分布；温度梯度越大，介质中平均空间电荷密度越大，极化到稳态所需时间越短。(2）空间电荷极化过程中，内电极附近空间电荷会出现“过冲”现象；退极化过程中出现“反极性过冲”现象。“过冲”与“反极性过冲”相互呼应，均源自动态松弛时间的时空梯度分布。(3）温度梯度与场强对空间电荷“过冲”和“反极性过冲”行为的影响效果相反。
+
+参考文献   
+[1]温加良，吴锐，彭畅，等．直流电网在中国的应用 前景分析[J]．中国电机工程学报，2012，32(13): 7-12. Wen Jialiang,Wu Rui, Peng Chang,et al.Analysis of DC grid prospects in China[J]. Proceedings of the CSEE,2012,32(13): 7-12.   
+[2] 何金良，党斌，周，等．挤压型高压直流电缆 研究进展及关键技术述评[J]．高电压技术，2015, 41(5): 1417-1429. He Jinliang,Dang Bin, Zhou Yao,et al. Reviews on research progress and key technology in extruded cables for HVDC transmission[J]. High Voltage Engeering,2015,41(5): 1417-1429.   
+[3]John C Fothergill. The coming of age of HVDC extruded power cables[C]. Electrical Insulation Conference. Philadelphia, USA,2014: 124-137.   
+[4] Mazzanti G, Marzinot M. Extruded cables for high voltage current transmission: advances in research and development[M]. Manhattan, USA: Wiley-IEEE Press,2013: 1-18.   
+[5] Rongsheng Liu. Long-distance DC electrical power transmission[J]. IEEE Transactions on Dielectrics and Electrical Insulation,2013,20(5): 37-46.   
+[6] Ohki Y. Development of XLPE-insulated cable for high voltage DC submarine transmission line[J]. IEEE Electrical Insulation Magazine,2013,29(4): 65-67.   
+[7] Reddy Ch Chakradhar,Ramu T S.On the computation of electric field and temperature distribution in HVDC cable insulation[J]. IEEE Transactions on Dielectrics and Electrical Insulation, 2006,13(6): 1236-1244.   
+[8] 李忠华，刘乐乐，郑欢，等．HVDC 电缆电场分 布影响因素的仿真研究[J]．中国电机工程学报, 2016，36(9): 2563-2571. Li Zhonghua, Liu Lele, Zheng Huan, et al. Simulation on the influence factors of electric field distribution in HVDC cable[J]. Proceedings of the CSEE,2016,36(9): 2563-2571.   
+[9]Mahdavi S, Zhang Y, Alquie C,et al. Determination of space charge distribution in polyethylene samples submitted to $1 2 0 \mathrm { k V }$ DC voltage[J]. IEEE Transactions on Electrical Insulation,1991, 26(1): 57-62.   
+[10]Fabiani D, Montanari G C, Laurent C,et al. Polymeric HVDC cable design and space charge accumulation. part 1: insulation/semicon interface[J] IEEE Electrical Insulation Magazine,2007, 23(6): 11-19.   
+[11] Castellon J, Notingher P, Agnel S,et al. Electric field and space charge measurements in thick power cable insulation[J]. IEEE Electrical Insulation Magazine, 2009,25(3): 30-42.   
+[12]Zhang Yibo, Christen Thomas,Meng Xing, et al. Research progress on space charge characteristics in polymeric insulation[J]. Journal of Applied Dielectrics,2016, 6(1): 1-13.   
+[13]仇斌，何军，屠德民．直流交联聚乙烯绝缘中空 间电荷的形成机理[J]．绝缘材料，2010，43(6)： 39-43. Qiu Bin, He Jun,Tu Demin. Formation mechanism of space charge in DC XLPE insulation[J]. Insulation Materials,2010,43(6): 39-43.   
+[14]罗杨，吴广宁，彭佳，等．聚合物纳米复合电介 质的界面性能研究进展[J]．高电压技术，2012, 38(9): 2455-2464. Luo Yang, Wu Guangning, Peng Jia, et al. Research progress on interface properties of polymer nanodielectrics[J]. High Voltage Engineering,2012, 38(9): 2455-2464.   
+[15]张冶文，赵晖，李宗泽，等．聚乙烯与聚丙烯中 空间电荷注入特性的比较[J]．高电压技术，2014, 40(9): 2613-2618. Zhang Yewen,Zhao Hui, Li Zongze,et al. Comparison of space charge injection behaviors between polythene and polypropylene[J]. High Voltage Engineering,2014, 40(9): 2613-2618.   
+[16]周溴，伍能成，廖瑞金，等．不同交联度交联 聚乙烯的空间电荷特征[J]．高电压技术，2013, 39(2): 294-301. Zhou Quan,Wu Nengcheng,Liao Ruijin, et al. Space charge characteristics of cross-linked polyethylene with different cross-linking degrees[J]. High Voltage Engineering,2013,39(2): 294-301.   
+[17]吴振升，叶青，周远翔，等．表面修饰纳米 $\mathrm { S i O } _ { 2 } /$ XLPE 的电导电流和空间电荷特性[J]．高电压技 术，2014，40(10):3268-3275. Wu Zhensheng, Ye Qing, Zhou Yuanxiang,et al. Conduction current and space charge characteristics of SiO2/XLPE nanocomposites with nanoparticles surface modification[J]. High Voltage Engineering, 2014,40(10): 3268-3275.   
+[18]钟琼霞，兰莉，吴建东，等．交联副产物对交联 聚乙烯中空间电荷行为的影响[J]．高电压技术, 2015，41(11): 2903-2910. Zhong Qiongxia, Lan Li,Wu Jiandong,et al. The influence of cross-linked by-products on space charge behavior in XLPE[J]. High Voltage Engineering,2015,41(11): 2903-2910.   
+[19]闫志雨，韩宝忠，赵洪，等．炭黑／交联聚乙烯纳 米复合材料的空间电荷电导特性[J]．高电压技术, 2014，40(9): 2661-2667. Yan Zhiyu,Han Baozhong, Zhao Hong,et al. Space charge and electrically conductive characteristics of CB/XLPE nanocomposites[J]. High Voltage Engineering,2014, 40(9): 2661-2667.   
+[20]刘通，傅明利，侯帅，等．温度梯度影响高压直流 电缆用交联聚乙烯中空间电荷分布的作用机理[J]. 高电压技术，2015，41(8)：2665-2673. Liu Tong,Fu Mingli, Hou Shuai, et al. Mechanism of space charge distribution in XLPE used in HVDC cable under temperature gradient[J]. High Voltage Engineering,2015,41(8): 2665-2673.   
+[21]Fabiani D, Montanari G C, Bodega R,et al. The effect of temperature gradient on space charge and electric field distribution of HVDC cable models[C]. IEEE 8th International Conference on Properties and Application of Dielectric Materials, Bali, Indonesia, 2006: 65-68.   
+[22]McAllister I W, Crichton G C, Pedersen A. Space charge in DC cables[C]. Conference Record of the IEEE International Symposium on Electrical Insulation, Montreal, Canada, 1996: 661-665.   
+[23]杨佳明，王暄，韩宝忠，等．LDPE 纳米复合介 质的直流电导特性及其对高压直流电缆中电场分 布的影响[J]．中国电机工程学报，2014，34(9): 1454-1461. Yang Jiaming, Wang Xuan, Han Baozhong,et al. DC conductivity characteristics of LDPE nanocomposites and its effect on electric field distribution in HVDC cables[J]. Proceedings of the CSEE,2014,34(9): 1454-1461.   
+[24] Steve Boggs,Dwight HDamon, Jesper Hjerrild,et al. Effect of insulation properties on the field grading of solid dielectric DC cable[J].IEEE Transaction on Power Delivery,2001,16(4):456-461.   
+[25] Holboll JT,Henriksen M,Hjerrild J. Space charge build-up in XLPE cable with temperature gradient[C].Annual Report Conference on Electrical Insulation and Dielectric Phenomena.Victoria, Canada,2000:157-160.   
+[26] Bambery K R,Fleming RJ,Hoboll JT.Space charge profiles in low density polyethylene samples containing a permittivity/conductivity gradient[J]. Journal of Physics D:Applied Physics,2001,34(20): 3071-3077.   
+[27] McAllister I W, Crichton G C, Pedersen A.Charge accumulation in DC cables:a macroscopic approach [C].Conference Record of the IEEE International Symposium on Electrical Insulation,Pittsburgh, USA,1994: 212-216.

@@ -1,0 +1,189 @@
+# 来源于红球菌胆固醇氧化酶ChOG的异源表达、纯化及催化反应结构分析
+
+张玉富¹，王建文¹，李松涛¹，朱张亮¹，路福平'2,3，毛淑红¹2.3\*，
+
+秦慧民1,2,3\*
+
+1天津科技大学生物工程学院，2天津科技大学工业发酵微生物教育部重点实验室，3工业酶国家工程实验室 天津 300457摘要：胆固醇氧化酶是胆固醇代谢过程中的关键酶，临床上用胆固醇氧化酶作为检测血清胆固醇含量的应用潜力巨大。将来源于红球菌Rhodococcusruber的胆固醇氧化酶ChOG，分别转化到大肠杆菌宿主BL21(DE3)和Rosetta(DE3)中，在不同条件下进行诱导表达，结果表明：BL21(DE3)菌株在诱导温度为 $1 6 ~ \mathrm { { ^ \circ C } }$ 、IPTG 浓度为 $0 . 1 \mathrm { m m o l / L }$ 时，ChOG可溶性表达量最高 $( 0 . 4 9 \mathrm { m g / m L } )$ 。ChOG的最适反应温度为 $3 0 ^ { \circ } \mathsf { C }$ ，最适反应 $\mathfrak { p H }$ 为7.5。最适反应条件下，酶活性达到 $8 . 0 \mathrm { U / m g }$ 。利用TLC、HPLC 对ChOG 催化产物胆甾-4-烯-3-酮进行了鉴定分析。三维结构及定点突变分析表明 $\mathrm { \ G l u { 4 0 6 } }$ 及 Arg408、Glu261在进行胆固醇C3 羟基的脱氢、质子传递，以及底物异构化发挥重要作用。
+
+关键词：胆固醇氧化酶；Ch0G；分离纯化；酶活力测定；结构分析
+
+The expression, purification and structural analysis of
+
+# cholesterol oxidase ChOG
+
+Yufu Zhangl,Jianwen Wangl,Songtao Lil,Zhangliang Zhul ,Fuping $\mathrm { L u } ^ { 1 , 2 , 3 }$ , Shuhong Mao1.,2.3\* Hui-Min Qin1,2.3\* Zhang JingZhang Yu-fu Qin Hui-minMao Shu-hong Lu Fu-ping
+
+1.CollegeofBiotechnology,Tianjin UniversityofScienceandTechnology,2.KeyLaboratoryofIndustrialFermentatio
+
+Microbiology,MinistryofEducation,3.NationalEngineeringLaboratoryforIndustrialEnzymes,Tianjin3o457,Cina;
+
+Abstract: Cholesterol oxidase is a key enzyme during cholesterol metabolism. It could be potential used to detect the cholesterol level in serum in clinical trials.The cholesterol oxidase from Rhodococcus ruber (ChOG) was transformed into BL21(DE3) and Rosetta(DE3) for protein expression，and was induced at different conditions. The results showed that ChOG was overexpressed at $1 6 ~ \mathrm { { ^ circ C } }$ and 0.1 mmol/L IPTG. The activity reached $8 . 0 3 3 \mathrm { U / m g }$ after purification with Ni-NTA superflow. The product cholest-5-en-3-one was characterized by TLC and HPLC, respectively. The structural analysis showed that Glu406, together with Arg408 and Glu261 played an important role during the dehydrogenation of cholesterol C3-OH，proton transfer，and isomerization.
+
+Key words: cholesterol oxidase, ChOG,activity assay, structural analysis
+
+胆固醇，主要分布在人脑和神经组织中，它是生成胆酸及类固醇激素的前体物质，也是细胞膜的组成成分。人血浆中胆固醇水平过高会引起多种疾病和并发症，危害人类健康[1]。而胆固醇氧化酶是胆固醇降解的第一步反应，且产物胆甾-4-烯-3-酮是一些固醇类激素药物的前体，具有治疗心血管疾病和抗肥胖等功效[2]。胆固醇氧化酶能将胆固醇氧化生成胆甾-4-烯-3-酮同时生成 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ ，也可以作用于含有 $3 \beta$ -羟基的甾体类化合物[3]。胆固醇氧化酶主要应用于临床检测血清中胆固醇的浓度[4]，去除食品中胆固醇[5]，以及作为一种防治鳞翅目害虫的生物农药[]。
+
+胆固醇氧化酶来源很广泛，是一类依赖于黄素腺嘌呤二核苷酸（FAD）的氧化酶，其FAD结合的方式分为结合和非共价结合两种方式[7]。研究者已经获得了非共价结合酶ChOA的晶体结构[8.9]，该酶分为FAD 结合域和底物结合域，由于蛋白链总在含有辅基和底物结合区域来回蜿蜒折叠，所以在拓扑结构上其仍然是属于单域蛋白。来源于Streptomyces 胆固醇氧化酶的活性位点是由His447、Glu361和Asn485组成的氢键网组成。其空间结构包括了2个结构域：与FAD结合的介于α螺旋之间中心的β折叠，与甾体环结合的巨大β片层[10]。Asn485 的构象使得ND2原子与FAD 的C4形成很强的氢键。胆固醇氧化酶（PDBID:1I19）氧化半反应中，氧通道可能是从底物结合区域延伸到FAD的水通道，其中活性位点的精氨酸和谷氨酸残基通过构象变化，控制氧气是否进入此通道，接收FAD传递的氢质子[]。Kojima等对胆固醇氧化酶的氧结合位点进行定点突变，V191A的脱氢/氧化活性比为 $1 5 0 \%$ ，比野生型提高了400 倍[12]。研究胆固醇氧化酶的结构、活性、稳定性、动力学等特性，对其工业化应用具有指导意义[13]。目前人们对胆固醇氧化酶的催化机制进行了一定程度的研究，但对于Rhodococcus来源的胆固醇氧化酶的催化机制研究还未见报道。本文对来源于红球菌Rhodococcusruber的胆固醇氧化酶ChOG 进行了异源表达、分离纯化、酶催化机理以及生物信息学分析，为胆固醇氧化酶的应用奠定理论基础。
+
+# 1材料与方法
+
+# 1.1材料
+
+1.1.1试剂
+
+实验使用常规试剂为国药集团化学试剂有限公司和上海生工生物工程股份有限公司生产。胆固醇及胆甾-4-烯-3-酮标准品购自 Sigma 公司。酵母提取物及胰蛋白脉为OXOID 公司生产。Prime STARMax及DpnI购自TaKaRa。Ni-NTASurperflow及DisposableColumn 购自德国QIAGEN 公司，10 KDa 超滤管购自Millipore。质粒小提试剂盒购自美国OMEGA公司，BCA蛋白浓度试剂盒购自北京Solarbio科技有限公司。
+
+# 1.1.2菌株、质粒
+
+大肠杆菌 BL21(DE3)，Rosetta(DE3)，pET-28a $( + )$ 质粒为本实验室保藏；ChOG(苏州金唯智公司全基因合成)。
+
+# 1.2方法
+
+# 1.2.1Ch0G的诱导表达及产物鉴定
+
+将重组基因ChOG-pET28a 质粒（限制性内切酶为NdeI和 EcoRI)，转化入BL21(DE3),Rosetta(DE3)，挑单克隆转化子过夜培养作为种子液，按 $1 \%$ 的接种量转接至 $1 0 0 ~ \mathrm { { m L } }$ LB 液体培养基中， $3 7 \mathrm { ~ \textdegree ~ }$ $2 0 0 ~ \mathrm { r / m i n }$ 振荡培养，当 $O D _ { 6 0 0 }$ 达到0.6-0.8，加入IPTG 使其终浓度为0.1mmol/L , $2 5 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 下培养，同时投入 $0 . 1 \%$ （质量分数）胆固醇底物，过夜培养后取1mL菌液，使用乙酸乙酯萃取产物，进行TLC法初步分析鉴定产物。将剩余菌液离心，收集菌体，使用 PBS 缓冲液清洗2次，加入适量破碎缓冲液，超声破碎细胞后进行离心取上清和少量沉淀进行SDS-PAGE分析目标蛋白的表达。
+
+# 1.2.2Ch0G诱导条件的优化
+
+按照上述方法进行培养 ChOG-pET28a- BL21(DE3)，ChOG-pET28a-Rosett(DE3)，加入终浓度为0.05、0.1、0.5 mmol/L的IPTG，分别在16℃、25℃培养 $1 6 \mathrm { h }$ ，37℃培养 $^ { 4 \mathrm { h } }$ 离心收集菌体，超声破碎后高速离心取上清液，进行 SDS-PAGE，使用Quantity One 采集凝
+
+胶图像，用ImageLab 软件做灰度分析，研究不同诱导条件下蛋白表达量的变化。使用 BCA试剂盒测定上清液总蛋白的浓度，计算不同表达宿主、诱导条件下的ChOG 表达量差异。
+
+# 1.2.3Ch0G 蛋白纯化
+
+异源表达的蛋白ChOG 在N 端含有His 标签，采用亲和层析法（Ni-NTA Surperflow 树脂）初步纯化蛋白。按上述最优诱导条件培养1L菌液，离心收集菌体，加入适量破碎缓冲液，超声破碎， $4 0 0 0 0 g 4 \mathrm { ~ \textdegree ~ }$ 离心 $3 0 \mathrm { m i n }$ ，取上清液与提前平衡的 Ni-NTA Surperflow 结合1h，使用洗杂缓冲液，洗脱20个柱体积，洗脱杂质蛋白，用10个柱体积洗脱缓冲液溶出目标蛋白ChOG。用 $1 0 \mathrm { \ K D a }$ 超滤管浓缩蛋白，并使用PBS 缓冲液置换Tris-HCI缓冲液，BCA法测定纯化后蛋白的浓度。
+
+# 1.2.4Ch0G活性分析及产物鉴定
+
+酶活力检测方法参考季文明等[14]的方法。溶液A（4-氨基-安替比林 $1 \mathrm { m m o l / L }$ ，苯酚6mmol/L，辣根过氧化物酶 $7 0 0 0 \mathrm { U / L }$ ,PBS 缓冲液)；溶液 $\mathbf { B } ( 0 . 8 \%$ 胆固醇, $4 . 3 \%$ Triton X-100,异丙醇)。
+
+将 $3 ~ \mathrm { m L }$ 溶液A和 $1 5 0 ~ \mu \mathrm { L }$ 溶液B混合， $3 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 保温 $3 \mathrm { m i n }$ 后加入 ${ 5 0 \mu \mathrm { L } }$ 适量浓度酶液，准确反应 $5 \mathrm { m i n }$ ，置于沸水终止反应。 $5 0 0 ~ \mathrm { { n m } }$ 测定光吸收值 $O D _ { 5 0 0 }$ ，根据酶活定义及 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 的标准曲线计算酶活。
+
+酶活定义： $3 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，PBS 缓冲液 $\mathrm { p H } 7 . 5$ ，每分钟催化胆固醇生成 $\mathrm { 1 ~ \mu m o l ~ H _ { 2 } O _ { 2 } }$ 所需要的酶量，定义为一个酶活力单位（U）。
+
+将反应液置于不同温度下，测定酶活，得到酶最适反应温度。配制不同 $\mathfrak { p H }$ 的溶液A，在最适温度下，测定酶活，得到酶最适反应 $\mathfrak { p H }$ 。
+
+将上述酶反应液加入适量乙酸乙酯，萃取产物胆甾-4-烯-3-酮，加入适量色谱甲醇溶解后使用 $0 . 2 2 \mu \mathrm { m }$ 滤膜过滤制得样品。液相测定条件为Agilent1200，色谱柱为DiKMAC18色谱柱( $2 5 0 \mathrm { m m } { \times } 4 . 6 \mathrm { m m }$ ， ${ 5 } \mu \mathrm { m } )$ ，进样量 $1 0 ~ \mu \mathrm { L }$ ，流动相为甲醇，流速 $0 . 6 \mathrm { m L } / \mathrm { m i n }$ ，柱温 $3 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，紫外检测器，检测波长为 $2 4 0 \mathrm { n m }$
+
+# 1.2.5Ch0G基因序列的生物信息学分析
+
+应用DNAMAN翻译，得到ChOG 的氨基酸序列，预测了其分子量及等电点等信息。通过 NCBI（http://www.ncbi.nlm.nih.gov/）BLAST 进行蛋白质相似性检索；蛋白空间结构采用 SWISS-MODEL（htp://www.swissmodel.expasy.org/）预测蛋白结构（模板 PDB ID：1I19,氨基酸序列相似度 $70 \%$ ）。
+
+# 1.2.6通过定点突变的方法研究关键氨基酸残基的作用
+
+根据胆固醇氧化酶基因ChOG 和拟突变的氨基酸位点设计引物(表1)。以ChOG-pET28a为模板，设计引物并使用Prime STARMax 进行PCR 扩增得到含有目的基因的载体。PCR扩增条件为：98℃ 30s；98℃10s，55℃15s，72℃ 7min，30个循环； $7 2 \mathrm { ~ \textdegree ~ }$ 5 min。PCR 扩增产物经DpnI酶处理后，转化大肠杆菌 JM109，卡那霉素抗性平板筛选转化子，经测序鉴定对应位点是否成功突变。对测序成功的突变体，转化到大肠杆菌BL21(DE3)，按照1.2.2诱导表达，分离纯化突变体蛋白，检测其酶活力。
+
+表1ChOG突变体构建引物  
+Table 1.Primer used for the construction of ChOG mutants.   
+
+<html><body><table><tr><td>Primer name</td><td>Sequence of primer</td></tr><tr><td>E406A_F</td><td>ACGGCCCCGTCGCGATCCGATGCTG</td></tr><tr><td>E406A_R</td><td>CAGCATCGGATCGCGACGGGGCCGT</td></tr><tr><td>R408A_F</td><td>CCCCGTCGAGATCGCATGCTGCGGACTC</td></tr><tr><td>R408A_R</td><td>GAGTCCGCAGCATGCGATCTCGACGGGG</td></tr><tr><td>E261A_F</td><td>CGGGCGTGCGGCGGCGATCTGGT</td></tr><tr><td>E261A_R</td><td>ACCAGATCGCCGCCGCACGCCCG</td></tr><tr><td>H71A_F</td><td>GCGGCGCGATGCACGGGTGGACGCC</td></tr><tr><td>H71A_R</td><td>GGCGTCCACCCGTGCATCGCGCCGC</td></tr></table></body></html>
+
+The bold face letters indicate the mutation generated.
+
+# 2结果与讨论
+
+# 2.1不同诱导条件的Ch0G蛋白表达量差异分析
+
+根据 DNAMAN 预测结果显示，ChOG 的分子量约为 $5 9 . 1 9 \mathrm { k D a }$ ，其等电点约为5.41。BCA 法测定上清液总蛋白浓度，通过Image lab 灰度分析 SDS-PAGE 电泳图，结果发现（图1）两种大肠杆菌 BL21(DE3)、Rosetta(DE3)均在16℃，IPTG 浓度为 $0 . 1 \ \mathrm { m m o l / L }$ 时，破碎上清中目标蛋白的浓度最大，分别为 $0 . 4 9 \mathrm { m g / m L }$ 、 $0 . 1 6 \mathrm { m g / m L }$ 。重组质粒 ChOG-pET28a 在BL21(DE3）表达量与Rosett(DE3)相比较高。高温高浓度 IPTG 诱导条件下表达的目标蛋白浓度相对较低，可能是由于高温高浓度的诱导剂会使目标蛋白肽链合成速度快，导致形成较多折叠错误的蛋白质，其疏水基团暴漏在蛋白结构外表，从而使蛋白溶解度很低[15,16]。
+
+![](images/4bfe5d6b953b36bb1ea05465d23f1f10aebeb5d8c3bb5f7184f1bcc7825b6d99.jpg)  
+图1在BL21(DE3)和Rosetta(DE3)中ChOG 表达量分析
+
+Fig.1 Expression and induction conditions of ChOG in BL21(DE3) and Rosetta(DE3) strains.
+
+A: Supernatant of ChOG expressed in BL21(DE3) B: Supernatant of ChOG expressed in Rosetta(DE3); M: marker; 1-9: $1 6 ~ \mathrm { ^ { \circ } C }$ $0 . 0 5 \mathrm { m m o l / L }$ IPTG; $1 6 ~ \mathrm { ^ { \circ } C }$ $0 . 1 \mathrm { m m o l / L }$ IPTG; $1 6 ~ \mathrm { { ^ \circ C } }$ $0 . 5 \mathrm { m m o l / L }$ IPTG; $2 5 \ \mathrm { { ^ \circ C } }$ $0 . 0 5 \mathrm { m m o l / L }$ IPTG;
+
+25℃,0.1 mmol/L IPTG; $2 5 \ \mathrm { { ^ \circ C } }$ , 0.5 mmol/L IPTG; $3 7 \ \mathrm { { ^ \circ C } }$ ,0.05 mmol/L IPTG; $3 7 \ \mathrm { { ^ \circ C } }$ ,0.1 mmol/L IPTG; $3 7 \ \mathrm { { ^ \circ C } }$ ， 0.5 mmol/L IPTG. C: The concentration of soluble ChOG in diffrent induction conditions.(l-3: $1 6 \mathrm { ~ \ ' C ~ } 0 . 0 5$ ,0.1, 0.5 mmol/L IPTG; 4-6: 25 C 0.05,0.1,0.5 mmol/L IPTG; 7-9: 37 C 0.05,0.1, 0.5 mmol/L IPTG).
+
+# 2.2 Ch0G纯化及酶活测定
+
+经过不断探索，发现 $5 0 \mathrm { m m o l / L }$ 咪唑洗脱缓冲液洗脱杂质蛋白时，会将少量目标蛋白洗脱，今后实验方案中需要降低其咪唑浓度洗脱杂质蛋白。溶出缓冲液中咪唑浓度为400mmol/L时，将Ni-NTA Surperflow上结合的目标蛋白洗脱下来。如图2所示，经过亲和层析后，得到较为纯净的蛋白。SDS-PAGE 电泳条带介于45 与 $6 6 . 2 \mathrm { k D a }$ 之间,与理论值 $5 9 . 1 9 \mathrm { k D a }$ 相符。纯化后的蛋白洗脱液经超滤管进行浓缩，使用BCA法测得所得蛋白溶液浓度为0.44mg/mL。
+
+![](images/d066aeb18b7aab1f8d55584f334c606f76e190422b8b676fb640df5a9af731f4.jpg)  
+图2纯化ChOG SDS-PAGE图谱Fig.2 SDS-PAGE of purified ChOG
+
+M: marker; lanes 1-9:whole cell liquor before inducing; whole cell liquor induced at $0 . 1 \mathrm { m m o l / L }$ IPTG; supernatant; precipitant; flowthrough; washing buffer;resin before elution; elution buer;resin after elution
+
+在 ChOG 酶活反应体系中加入不同浓度 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ ，反应 $5 \mathrm { m i n }$ ，沸水浴终止反应，测得 $O D _ { 5 0 0 }$ 得到 $O D _ { 5 0 0 }$ 与 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 浓度的线性方程： $\scriptstyle \mathbf { y } = 0 . 2 \mathbf { x }$ $\scriptstyle \mathrm { R } ^ { 2 } = 0 . 9 9 9 4$ 其中 $\mathbf { x }$ 为反应液 $5 0 0 \mathrm { n m }$ 的光吸收 $O D _ { 5 0 0 }$ ，y为 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 的浓度（ $\mu \mathrm { m o l / m L }$ ， $\mathbf { R } ^ { 2 }$ 为相关系数。根据 $O D _ { 5 0 0 }$ 与 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 浓度的线性方程及酶活力定义计算得到亲和层析纯化后ChOG的比酶活。比酶活 $\mathrm { \langle U / m g \rangle } = 0 . 2 { \cdot } O D _ { 5 0 0 } { \cdot } \mathrm { f { \cdot } V / ( T { \cdot } m ) }$ $O D _ { 5 0 0 }$ 为反应液 $5 0 0 \mathrm { n m }$ 的光吸收值，f为稀释倍数，V反应液体积（mL)，T反应时间（min),$\mathbf { m }$ 为 ChOG的质量（ $\mathrm { m g } ^ { \cdot }$ ）°
+
+酶的催化活性受温度的影响较大。一方面，提高温度可以增加酶促反应速度，另一方面，随着温度升高，酶蛋白逐渐变性而失活。酶的最适反应温度是这两种影响的综合结果。以1mmol/L 胆固醇为底物，不同温度下测定胆固醇氧化酶ChOG 相对酶活，结果如图3（A）所示。ChOG的最适反应温度为 $3 0 ^ { \circ } \mathrm { C }$ 。且随着温度升高，酶活力开始下降。在 $2 0 { \sim } 4 5 \ \mathrm { ~ } ^ { \circ } \mathrm { C }$ 间ChOG可以保持 $60 \%$ 以上的相对酶活。在 $3 0 \mathrm { ~ \textdegree C }$ 下测定了不同 $\mathfrak { p H }$ 值对胆固醇氧化酶ChOG 的相对酶活影响，结果如图3（B）所示。ChOG 的最适反应pH为7.5，并且在 $\mathrm { p H } 6 . 5 { \sim } 8 . 0$ 之间可保持 $60 \%$ 以上的相对酶活。pH可能通过影响底物与酶活性基团的解离影响酶的活力，低于或高于最适 $\mathfrak { p H }$ ，酶均不能发挥其最佳催化能力。酶最适反应条件较为温和。在最适反应条件下，ChOG 的比酶活为 $8 . 0 \mathrm { U / m g }$ 。目前已经报道的胆固醇氧化酶的活力为 $0 . 5 { \mathrm { - } } 7 \mathrm { U / m g ^ { [ 1 7 ] } }$ 因此ChOG与胆固醇氧化酶家族相比，具有相对较高的催化活性。通过双倒数法，测得ChOG的 $K _ { \mathrm { m } }$ 为 $2 0 2 . 3 ~ \mu \mathrm { m o l / L }$ 。
+
+A
+
+![](images/9633aaba745aa74f55db6609dc8898bc543bfd95b9da1235c360cda1e8bef28a.jpg)  
+图3温度(A)和pH(B)对ChOG 酶活性的影响 Fig.3Effect of temperature(A) and pH(B) on ChOG activity
+
+# 2.3酶催化产物鉴定
+
+胆甾-4-烯-3-酮在紫外光（ $2 5 4 \mathrm { n m }$ ）下可以显色，通过TLC检测发酵菌液的样品，发现转化了ChOG-pET28a的大肠杆菌发酵液萃取有机相在胆甾-4-烯-3-酮标品相应位置有显色，而转有pET28a 的大肠杆菌发酵液萃取有机相在相应位置没有显色，可以初步判断ChOG 在大肠杆菌表达且具有催化胆固醇氧化的功能。
+
+通过HPLC 检测酶催化产物，发现标品胆甾-4-烯-3-酮在保留时间 $2 5 . 6 3 \mathrm { m i n }$ 有吸收峰，而 ChOG 酶反应在相同时间也检测到吸收峰，证明异源表达纯化的ChOG 具有氧化胆固醇生成胆甾-4-烯-3-酮的能力(图4)。
+
+![](images/ebe5931a9ee1f0c1a8fc8b82820d579155b558a3a999bd6241a4c7c82862989c.jpg)  
+图4TLC(A)及HPLC(B)产物分析  
+Fig. 4 Product analysis with (A) TLC and (B) HPLC.
+
+ChOG-pET28a-BL21(DE3) strain was cultured and induced at $1 6 ~ \mathrm { { ^ \circ C } }$ ,0.1mmol/L IPTG. A.1-4: Cholesterol; 4-Cholesten-3-one; Control (pET28a); ChOG product. B. HPLC analysis.
+
+# 2.4Ch0G三维结构及催化机制分析
+
+不同来源的胆固醇氧化酶由于序列上存在较大差异，因此蛋白质结构之间也存在差异。通过检索蛋白质数据库（PDB)，ChOG与B.Sterolicum来源胆固醇氧化酶 BCO 在氨基酸序列比对中具有较高的相似度。利用 SWISS-MODEL(htp:/swissmodel.expasy.0rg）进行同源建模。胆固醇氧化酶ChOG具有典型的罗斯曼折叠模式结构，该结构包括两个相邻的βαβ单位组成的超二级结构。ChOG 的结构由两个结构域组成，即辅因子FAD 结合区域和底物结合区域（图5)。FAD位于一个四股β-折叠片层中β3 和β4 围成的口袋中。FAD 磷酸基团的O原子与蛋白质loop 区的氨基酸残基的N原子形成氢键。His71侧链与辅因子FAD 形成共价结合。FAD与ChOG 氨基酸通过共价相互作用结合，成为共价结合型胆固醇氧化酶的基本特征[18-19]。 $\mathrm { L i m } ^ { [ 1 8 ] }$ 等通过结构与动力学研究，分析了B.Sterolicum来源胆固醇氧化酶BCO中 His121的重要作用。发现H121A保持了与野生型相似的催化活性，但其氧化还原电位降低了 $1 0 0 \mathrm { m V }$ 。结构研究发现突变体引起了FAD异咯嗪环的极性空间结构的改变。ChOG 中His71与BCO的His121在空间位置上完全相同，且H71A对酶催化活性影响较小，所以推测 His71与FAD共价结合，稳定蛋白质的空间结构。另外，ChOG 拥有一个底物结合区域，底物结合区有足够大的空间可以容纳胆固醇。胆固醇结合位点的是由隔离了蛋白外界环境的大量loop包围形成的疏水“口袋”组成，这个区域表现出更高的柔性（图5)。据相关文献报道[8]胆固醇底物进入疏水口袋，相关loop 会在空间结构上进行调整，从而促进生物催化反应能顺利进行。
+
+![](images/f260cac17f740ba4992559b3543c56d135e2d4ce74cc89426a4c675e741a690a.jpg)
+
+# 图5AChOG的模拟三维结构；B胆固醇氧化酶序列比对
+
+Fig.5 (A). Simulated 3D structure of ChOG.FAD was colored as salmon stick. The catalytic residues were showed as magenta sticks; (B). Sequence alignments of cholesterol oxidases.   
+These sequence include Burkholderia cepacia (B.cepa,BAB63263.1),Burkholderia thailandensis   
+E264 (B. thai, ABC36409.1), Brevibacterium sterolicum (B. ster, PDB: 1I19), Chromobacterium sp. DS-1 (C. sp., BAG70948.1), Rhodococcus erythropolis (R. eryt, ABW74861.1).
+
+胆固醇氧化酶ChOG 的催化反应需要满足以下条件：首先，胆固醇与辅因子FAD 在底物结合域内的定位，使胆固醇底物C3的质子氢传递到异咯嗪的N5位置；第二，两个催化步骤需要侧链的官能团：(a）需要亲核碱在氧化过程接受C3 的氢质子，(b）需要亲核碱在异构化反应过程中进行质子传递。最后，在氧化半反应中与分子氧反应生成过氧化氢。
+
+![](images/91b476ae2496054a4e1379b72c63299c2a7cf9adff527fbe053c02bbe784d802.jpg)  
+图6：(A)ChOG 突变体的纯化 SDS-PAGE 电泳图；(B)ChOG 突变体的酶活力测定Fig 6 ;(A). The purification of ChOG mutants M: marker; lanes 1-4:H71A; E406A; R408A; E261A.(B). Activity analysis of ChOG mutants.
+
+胆固醇氧化酶ChOG 催化底物包括：1）还原半反应，即使甾环上的3-羟基脱氢，将两个氧化还原当量转移到氧化态的黄素辅因子（ $\mathrm { E - F l _ { \mathrm { o x } } }$ ）而成为还原态（ $\mathrm { \ E - F l _ { r e d } H } .$ ，Glu406为亲核碱夺取底物胆固醇C3 羟基的质子， $\mathrm { A r g 4 0 8 }$ 在 $\mathrm { \ G l u { 4 0 6 } }$ 相互作用范围之内，起到协同脱氢作用；2）氧化半反应，即还原态的辅因子FAD与氧分子反应，生成氧化态的FAD 和过氧化氢，Glu261和Glu406 参与了胆固醇C3-OH脱氢及质子传递过程，协同作用与氧分子进行氧化半反应；3）异构化，即被氧化的甾环上的双键从△5-6移到△4-5，Glu406 促使异构化反应进行，并生成最终产物胆甾-4-烯-3-酮。
+
+Vrielink A.等[7.9]对FAD共价结合型胆固醇氧化酶进行了研究阐明催化残基的重要作用，CoulombeR.等[1]通过对胆固醇氧化酶 BCO氧气进入活性中心通道的结构学基础研究，阐明Glu475在氧化过程中起到亲核碱和异构化作用。质子氢从底物C3传递到FAD-N5，活性中心的 Arg477与底物胆固醇氧化酶C3羟基形成了氢键，稳定FAD 的嘧啶环结构。氧化过程中失去的质子传递到Glu311。通过ChOG与胆固醇氧化酶家族氨基酸序列和B.ster来源BCO三维结构比对结果发现：Glu261、Glu406、Arg408三个催化残基在胆固醇氧化酶家族中高度保守，GhoG 突变体 E261A、E406A、R408A几乎丧失酶催化活性，因此推测其在胆固醇催化反应过程中起到至关重要的作用。
+
+# 3结论
+
+本文以来源于红球菌的胆固醇氧化酶ChOG为研究对象，实现了ChOG的异源可溶性表达，ChOG 具有催化胆固醇生成胆甾-4-烯-3-酮的活性。通过Ni亲和层析得到纯净的ChOG，并测定了其酶学性质及动力学参数。对ChOG进行三维建模，通过序列比对及定点突变验证，Glu261、Glu406、Arg408是ChOG 酶催化反应的保守位点。同时本研究为胆固醇氧化酶ChOG的工业化应用提供了重要的理论依据。
+
+# 参考文献
+
+[1] Zhang H,Liu R, Zheng J. Selective determination of cholesterol based on cholesterol oxidase-alkaline phosphatase bienzyme electrode.Analyst, 2012,137(22): 5363-5367.   
+[2] Uhia I, Galan B,Morales V,et al. Initial step in the catabolism of cholesterol by Mycobacterium smegmatis mc2155.Env Microbiol Rep,2011,13(4): 943-959.   
+[3] Doukyu N,Nihei S. Cholesterol oxidases with high catalytic activity from Pseudomonas aeruginosa: Screening, molecular genetic analysis, expression and characterization. JBiosci Bioeng, 2015,120(1): 24-30.   
+[4] Doukyu N. Characteristics and biotechnological applications of microbial cholesterol oxidases.Appl Microbiol Biot, 2009,83(5): 825-837.   
+[5]Mathieu J，Wang F, Segatori L,et al. Increased resistance to oxysterol cytotoxicity in fibroblasts transfected with a lysosomally targeted Chromobacterium oxidase. Biotechnology Bioeng,2012,109 (9): 2409-2415.   
+[6] Pollegioni L. Cholesterol oxidase: A model flavoprotein oxidase and a biotechnological tool.FEBS J, 2009,276(23): 6825-6825.   
+[7] Vrielink A, Ghisla S.Cholesterol oxidase: biochemistry and structural features.FEBS J,2009,276 (23): 6826-6843.   
+[8] Yue Q K, Kass IJ, Sampson N S,et al. Crystal structure determination of cholesterol oxidase from Streptomyces and structural characterization of key active site mutants. Biochemistry-US,1999,
+
+38(14): 4277-4286.
+
+[9] Vrielink A,Lloyd LF, Blow D M. Crystal-structure of cholesterol oxidase from Brevibacterium sterolicum refined at 1.8-A resolution.JMol Biol,1991,219(3): 533-554.
+
+[10] Lario IP, Sampson N, Vrielink A. Sub-atomic resolution crystal structure of cholesterol oxidase: What atomic resolution crystallography reveals about enzyme mechanism and the role of FAD cofactor in redox activity. JMol Biol, 2003,326(5): 1635-1650.
+
+[11]Coulombe R,Yue K Q, Ghisla S,etal.Oxygen access to the active siteof cholesterol oxidase through a narrow channel is gated by an Arg-Glu pair.JBiol Chem,2001,276(32): 30435-30441.
+
+[12] Kojima K,Kobayashi T, Tsugawa W,et al. Mutational analysis of the oxygen-binding site of cholesterol oxidase and its impact on dye-mediated dehydrogenase activity[J]. JMol Catal B-Enzym, 2013, 88(88): 41-46.
+
+[13] Moradpour Z,GhasemianlA. Protein engineering of microbial cholesterol oxidases: a molecular approach toward development of new enzymes with new properties. Appl Microbiol Biotechnol, 2016, 100: 4323-4336.
+
+[14] 季文明，陈毅力，张和春．比色法测定胆固醇氧化酶酶活．无锡轻工大学学报,2000,5(19):251-254.
+
+Ji W M, Chen YL, Zhang H C,et al. Assay of cholesterol oxidase activity by colorimetry. Journal of Wuxi university of light industry,2000, 5(19): 251-254.
+
+[15] Hoffmann F,van den Heuvel J, Zidek N,et al. Minimizing inclusion body formation during recombinant protein production in Escherichia coli at bench and pilot plant scale.Enzyme Microb Tech,2004,34(3-4): 235-241.
+
+[16] Carrio M M, Vilaverde A. Constrution and deconstrution of bacterial inclusion bodies.JBiotechnol, 2002,96(1): 3-12.
+
+[17] Volonte F，Pollgioni L,Molla G,et al. Production of recombinant cholesterol oxidase containing covalently bound FAD in Escherichia coli. BMC Biotechnol,2010,10,33.
+
+[18] Lim L,Molla G, Guinn N,et al. Structural and kinetic analyses of the H121A mutant of cholesterol oxidase.Biochem J,2006,400:13-22.
+
+[19] Motteran L,Pilone M S,Molla G, et al. Cholesterol oxidase from Brevibacterium sterolicum - The relationship between covalent flavinylation and redox properties.JBiol Chem,2001,276(21): 18024- 1803.

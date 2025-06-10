@@ -1,0 +1,920 @@
+[
+    {
+        "type": "text",
+        "text": "Full carbon and greenhouse gas balances of fertilized and nonfertilized reed canary grass cultivations on an abandoned peat extraction area in a dry year ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JARVI JARVEOJA¹,MATTHIAS PEICHL²,MARTIN MADDISON1,ALAR TEEMUSK1 and ULO MANDER1,3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1DepartmentofGeography,Instituteof Ecologyand Earth Sciences,UnioersityofTartu,46 Vanemuise St，Tartu 51014, Estonia,²DepartmentofForestEcologyand Management,Swedish Unioersityof Agricultural Sciences Skogsmarksgrand1, 90183UmeawedenHydrosstedopoceseseserchnitioaleseahitutefenceadgfor Environment and Agriculture (Irstea),1 rue Piere-Gills de Gennes CS 10030，F92761 Antony Cedex,France ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bioenergy crop cultivation on former peat extraction areas is a potential after-use option that provides a source of renewable energy while mitigating climate change through enhanced carbon (C) sequestration.This study investigated the fullCand greenhouse gas (GHG) balances of fertilized (RCG-F)and nonfertilized (RCG-C) reed canary grass (RCG; Phalaris arundinacea) cultivation compared to bare peat (BP) soil within an abandoned peat extraction area in western Estonia during a dry year.Vegetation sampling,static chamber and lysimeter measurements were carried out to estimate above- and belowground biomass production and allcation,fluxes of carbon dioxide $\\left( \\mathrm { C O } _ { 2 } \\right)$ ，methane $\\mathrm { ( C H _ { 4 } ) }$ and nitrous oxide $( \\mathrm { N } _ { 2 } \\mathrm { O } )$ in cultivated strips and drainage ditches as well as the dissolved organic carbon (DOC) export, respectively. Heterotrophic respiration was determined from vegetation-free trenched plots.Fertilization increased the above-to belowground biomass productionratio and the autotrophic to heterotrophic respiration ratio. The full C balance (incl. $\\mathrm { C O } _ { 2 } ,$ （20 $\\mathrm { C H } _ { 4 }$ and DOC fluxes from strips and ditches) was 96, 215 and $1 8 \\mathrm { { 0 } } \\ \\mathrm { g } \\mathrm { ~ C } \\ \\mathrm { m } ^ { - 2 } \\ \\mathrm { y r } ^ { - 1 }$ in RCG-F, RCG-C and BP,respectively,suggesting that all treatments acted as C sources during the dry year. The C balance was driven by variations in the net $\\mathrm { C O } _ { 2 }$ exchange, whereas the combined contribution of $\\mathrm { C H } _ { 4 }$ and DOC fluxes was $< 5 \\%$ . The GHG balances were 3.6, 7.9 and 6.6 t $\\mathrm { C O } _ { 2 } \\mathrm { e q h a } ^ { - 1 } \\mathrm { y r } ^ { - 1 }$ in RCG-F, RCG-C and BP, respectively. The $\\mathrm { C O } _ { 2 }$ exchange was also the dominant component of the GHG balance,while the contributions of $\\mathrm { C H } _ { 4 }$ and $\\mathrm { N } _ { 2 } \\mathrm { O }$ were ${ < } 1 \\%$ and $1 \\%$ ，respectively. Overall, this study suggests that maximizing plant growth and the associated $\\mathrm { C O } _ { 2 }$ uptake through adequate water and nutrient supply is a key prerequisite for ensuring sustainable high yields and climate benefits in RCGcultivations established on organic soils following drainage and peat extraction. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "eywords:bioenergy,iomassproduction,abondioide,arbonsequestration,dissledrganicarbon,landmaagemet ethane,nitrous oxide,organic soils,Phalarisarundinacea ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received12 July 2015;accepted20August 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Commercial peat extraction for energy production and horticultural use is an important industry in many countries within northern Europe (e.g., Finland, Sweden, Ireland,Estonia,Belarus) and other parts of the world (i.e., USA，Canada，Russia，Indonesia） (Waddington et al., 2002;Lemus & Lal,2005;Couwenberg et al.,2011;Don et al.,20l2).Peat extraction has taken place on more than $5 0 \\ 0 0 0 \\ \\mathrm { k m } ^ { 2 }$ of northern peatland areas which accounts for $10 \\%$ of the total loss of natural peatlands due to human use (Joosten & Clarke,2oo2).Peat extraction can commonly be sustained over several decades depending on the depth of the peat deposit but eventually ceases, resulting in large abandoned areas of drained and degraded peat soils.Furthermore,due to the expansion of peat extraction activities into pristine peatlands and the vast areas of current peat extraction sites being annuallyabandoned,the extent of these degraded areas will likely increase in the future，resulting in a growing demand for developing appropriate after-use strategies (Tuittila et al.,200o;Maljanen et al.,201O).Inaddition, the large carbon dioxide $\\left( \\mathrm { C O } _ { 2 } \\right)$ emission from these drained organic soils is a major concern from the climate change perspective (Gorham，1991；Waddington et al.，2002; Mäkiranta et al.，2007;Salm et al.,2012)，which further amplifies the need for adequate management strategies. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 J. JARVEOJA et al. ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Among different after-use options,cultivating dedicated high-yielding energy crops (e.g.，RCG，Phalaris arundinacea) on abandoned peat soils has been suggested as a promising strategy to increase the proportion of renewable energy supply while creating a sink for atmospheric $\\mathrm { C O } _ { 2 }$ without competing for productive agricultural land required for food crop production (Lewandowski et al.，2003；Lemus & Lal，2005;Shurpali et al.,2010;Don et al.,2012).Furthermore,cultivation of perennial crops has the advantage of reducing the need for regular tillage commonly associated with annual crop cultivation,which could reduce the associated C losses and therefore increase the soil C sequestration potential (Adler et al.,2007; Jones et al.,2015).Although RCG grows well on most kinds of soils,highest biomass is commonly reached on wet and humus-rich soils (e.g.，in abandoned peat extraction areas) (Don et al., 2012).In addition,RCG is adapted to short growing seasons and low temperatures.Thus，the potential of RCG cultivation is especially high in Northern Europe given the climatic conditions and vast occurrence of organic soils. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In most bioenergy cropping systems，fertilizer is applied to maximize biomass production (Maljanen et al.,2010; Don et al.,2012). Increased plant growth and nutrient supply may,however,also alter the above- and belowground allocation of plant biomass and trigger structural changes in the belowground biomass due to its contrasting effects on root and rhizome production (Kätterer&Andrén,1999;Xiong&Kätterer,2010;Kinmonth-Schultz&Kim,2011;Jones etal.,2015).Furthermore,enhanced plant growth and changes in biomass allocation following fertilization may also modify the partitioning of the ecosystem $\\mathrm { C O } _ { 2 }$ exchange into its component fluxes of gross and net primary production as well as soil heterotrophic and plant autotrophic respiration (Shurpali et al.，2008;Kandel et al.，2013).To date,detailedinformation of fertilization effects on biomass allocation and $\\mathrm { C O } _ { 2 }$ balance partitioning is limited for perennial cropping systems; however， this knowledge is crucial to confidently predict variations in annual yields and the C cycle of bioenergy cropping systems on abandoned organic soils under future climate change and management scenarios (Strand et al., 2008;Gong et al.,2014; Jones et al.,2015). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Within the climate change context, it is imperative to understand fertilization effects on not only biomass pro duction but also on the full ecosystem C balance which is determined by the net $\\mathrm { C O } _ { 2 }$ exchange of vegetation and soil as well as by non- $\\mathrm { . C O } _ { 2 }$ carbon fluxes such as the exchange of methane $\\mathrm { ( C H _ { 4 } ) }$ and the aquatic export of dissolved organic carbon (DOC).Furthermore, due to the relatively small area coverage by drainage ditches, most studies focus on the C balance of the cultivated strips ignoring potentially high emissions from ditches (Sundh et al.，2000;Schrier-Uijl et al.，2010;Hyvonen et al.，2013). Although individual studies have previously investigated the patterns and magnitudes of the different C balance components (Sundh et al.，2000; Shurpali et al.,2009;Strack et al.,2011;Hyvonen et al., 2013),a comprehensive assessment of all major C fluxes from both strips and ditches and their contrasting contributions to the full annual Cbalance in fertilized and nonfertilized RCG cultivations on organic soil is currently lacking. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A major drawback of nitrogen (N) fertilizer applica tion is that it may cause high emissions of the greenhouse gas (GHG) nitrous oxide $( \\mathrm { N } _ { 2 } \\mathrm { O } )$ (Crutzen et al., 2008).Considering that $\\mathrm { N } _ { 2 } \\mathrm { O }$ has a much larger (by 298 times） global warming potential compared to $\\mathrm { C O } _ { 2 }$ (IPCC，2013)，the positive fertilizer effects on plant growth and C sequestration could be partly or entirely offset when considering the GHG balance of bioenergy cultivations (Don et al.,2012).A recently proposed strategy for reducing $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions is to substitute annual crops with perennial crops,such as RCG,which have a lowerN-demand and higherN-use efficiencyand hence emit $4 0 { - } 9 9 \\%$ less $\\mathrm { N } _ { 2 } \\mathrm { O }$ compared to conventional annual crops (Don et al.,2012).To date,the number of studies investigating the trade-off between the increased $\\mathrm { C O } _ { 2 }$ uptake due to stimulated plant growth and the enhanced $\\mathrm { N } _ { 2 } \\mathrm { O }$ emission following fertilization is,however,limited and its implication for the GHG balance of bioenergy cultivations therefore highly uncertain. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To address these knowledge gaps,this study investigated the full C and GHG balance in fertilized and nonfertilized RCG cultivations compared to bare peat soil in an abandoned peat extraction area in western Estonia. The study addressed the following specific ques tions: ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.How does fertilization affect the above- and belowground biomass production and allocation   \n2.How does the net ecosystem $\\mathrm { C O } _ { 2 }$ exchange (NEE) and its partitioning into production and respiration component fluxes differ among the fertilized RCG, nonfertilized RCG and bare peat treatments   \n3.What are the full C and GHG balances and the contributions of their respective component fluxes from cultivated strips and drainage ditches in the fertilized RCG, nonfertilized RCG and bare peat treatments ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Material and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Study site ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The study site $( 5 8 ^ { \\circ } 3 4 ^ { \\prime } 2 0 ^ { \\prime \\prime } \\mathrm { N }$ 1 $2 4 ^ { \\circ } 2 3 ^ { \\prime } 1 5 ^ { \\prime \\prime } \\mathrm { E }$ ：Halinga Parish,Pärnu County）is located within the largest Estonian peat extraction area,Lavassaare,which is situated in the northern part of the ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Pärnu Lowland.The region has a temperate climate with a 30-year (1981-2010) mean annual temperature of $6 . 3 ~ ^ { \\circ } \\mathrm { C }$ and annual precipitation of $7 4 6 ~ \\mathrm { m m }$ (Estonian Weather Service). The peat extraction area is divided into $2 0 \\mathrm { ~ m ~ }$ wide strips separated by $1 \\mathrm { ~ m ~ }$ wide drainage ditches. Commercial peat extraction at the site started in the 196Os and lasted until 2006.In 2007,the abandoned strips were tilled and sown with seeds of the Estonian-bred RCG variety Pedja'. Since the $\\mathrm { \\ p H } _ { \\mathrm { K C L } }$ of the remaining peat was above 5.O (Table 1),no liming was carried out.The remaining peat deposit is approximately $0 . 4 5 { - } 0 . 6 0 \\mathrm { ~ m ~ }$ deep and consists of well-mineralized Phragmites-Carex peat with a degree of humification of H7 according to the von Post scale.The main soil properties are summarized in Table 1.No fertilization or biomass harvest was carried out between the seeding in 2007 and spring 2012. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Experimental design ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The study was designed as a replicated field experiment with six experimental plots $( 2 . 5 \\times 1 0 ~ \\mathrm { m } )$ of which four were located within the cultivated strips and two within the abandoned bare peat strips.The cultivated plots consisted of two fertilized plots and two adjacent nonfertilized control plots.The fertilized plotsreceived $7 2 \\mathrm { ~ k g ~ N } ,$ $1 8 \\ \\mathrm { k g ~ P }$ and $3 6 ~ \\mathrm { k g ~ K }$ of mineral fertilizer per hectare once per year during the early growing season since 2012.Thus,the experiment consisted of two replicate plots for each of the three treatments: reed canary grass cultivation with fertilization (RCG-F),reed canary grass cultivation control (RCG-C)and bare peat (BP). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Above- and belowground biomass and net primary production ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Above-and belowground biomass stocks were measured in the cultivated RCG-F and RCG-C plots.Aboveground biomass was harvested on five subplots $( 5 0 \\times 5 0 ~ \\mathrm { c m } )$ within each plot in September 2014.Belowground biomass (roots and rhizomes) ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/fc76b37ecdc3862be1bc8c111bb6204ac48cde4e132249383afbed459d54dc0c.jpg",
+        "table_caption": [
+            "Table 1 Mean values of the soil chemical and physical properties in $0 { - } 2 0 ~ \\mathrm { c m }$ depth for reed canary grass with fertilization (RCG-F),reed canary grass control (RCG-C) and bare peat (BP) treatments;numbers in parentheses indicate standard error "
+        ],
+        "table_footnote": [
+            "\\*All variables were measured in 2014,except for $C \\%$ and $8 \\%$ which were measured in 2012. "
+        ],
+        "table_body": "<html><body><table><tr><td>Soil property*</td><td>RCG-F</td><td>RCG-C</td><td>BP</td></tr><tr><td>pH</td><td>5.15 (0.02)</td><td>5.11 (0.04)</td><td>5.47 (0.17)</td></tr><tr><td>Bulk density (g cm-3)</td><td>0.17 (0.01)</td><td>0.18 (0.01)</td><td>0.19 (0.01)</td></tr><tr><td>C (%)</td><td>46.5 (0.7)</td><td>45.5 (0.6)</td><td>44.3 (0.9)</td></tr><tr><td>N (%)</td><td>2.8 (0.1)</td><td>2.9 (0.1)</td><td>2.4 (0.1)</td></tr><tr><td>C:N</td><td>16.6</td><td>16.0</td><td>18.6</td></tr><tr><td>Soil C stock (kg C m-²)</td><td>15.6</td><td>16.6</td><td>16.4</td></tr><tr><td>Total P (mg g-1)</td><td>0.32 (0.01)</td><td>0.32 (0.01)</td><td>0.25 (0.01)</td></tr><tr><td>K (mg g-1)</td><td>0.26 (0.01)</td><td>0.12 (0.02)</td><td>0.09 (0.02)</td></tr><tr><td>Ca (mg g-1)</td><td>0.69 (0.03)</td><td>1.03 (0.03)</td><td>0.29 (0.02)</td></tr><tr><td>NH4-N (mg L-1)</td><td><1.5</td><td><1.5</td><td><1.5</td></tr><tr><td>NO3-N (mg L-1)</td><td>85.0 (24.4)</td><td>33.0 (3.7)</td><td>49.5 (4.8)</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "was determined in April and September from five soil cores per plot taken to a depth of $3 0 \\ \\mathrm { c m }$ using an $8 . 5 ~ \\mathrm { c m }$ diameter corer. Each soil core was divided into three $1 0 \\ \\mathrm { c m }$ sections (0-10,10-20 and $2 0 { - } 3 0 ~ \\mathrm { c m } ,$ ).After manually washing each core over a $0 . 5 ~ \\mathrm { m m }$ mesh sieve to remove the bulk soil,roots and rhizomes were manually picked with tweezers from the residual soil.Both above- and belowground biomass was oven-dried at $7 0 ~ ^ { \\circ } \\mathrm { C }$ toa constantweightand analyzed for C concentrationsat the Tartu Laboratory of the Estonian Environmental Research Centre. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Annual aboveground net primary production (ANPP) was calculated by multiplying the harvested biomass with its C concentration. The annual belowground net primary production (BNPP) was estimated with the maximum-minimum method (McClaugherty et al.，1982) as the difference between the maximum (September sampling) and minimum (April sampling） belowground biomass stocks.The sum of ANPP and BNPP resulted in the annual total net primary production $( \\mathrm { N P P } _ { B } )$ estimate based on biomass sampling (Eqn 1). ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { N P P } _ { B } = \\mathrm { A N P P } + \\mathrm { B N P P }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Vegetation greenness index ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To estimate plant development,we derived a vegetation greenness index from digital images using repeat photography (Sonnentag et al.， 2012； Peichl et al.，2015).AWingscapes TimelapseCam 8.0 camera (model WSCT01;Wingscapes, Calera,AL,USA) was installed on a vertical pole at $3 ~ \\mathrm { m }$ height above the ground surface viewing the experimental plots with a downward looking viewing angle of $1 5 ^ { \\circ }$ from a southerly direction.The white balance was set to ‘sunlight'.The camera wasprogrammed to take images at half-hourly intervals from mid-April to late October 2014. The vegetation greenness index was derived from the green chromatic coordinate $( g _ { \\mathrm { c c } } )$ (Eqn 2): ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { \\mathrm { c c } } = \\frac { G } { R + G + B }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $R , G$ and $B$ are the digital numbers (O-255) of the red, green and blue image channels.The RGB digital numbers were calculated for each pixel and averaged over selected regions of interest (ROI) representing fertilized and nonfertilized RCG cultivations as well as bare peat areas,respectively. Three-day mean $g _ { \\mathrm { c c } }$ time series were then created by assigning the 90th percentile to all values within a 3-days window to the center day of a discrete (nonoverlapping) moving window following Sonnentag et al. (2012).To estimate the collar-specific $g _ { \\mathrm { c c } } ,$ images were also taken from above each collar on July 19 and analyzed for their $g _ { \\mathrm { c c } }$ .The time series of the mean $g _ { \\mathrm { c c } }$ in RCG-F andRCG-C were then multiplied with the relative difference in $g _ { \\mathrm { c c } }$ among collars to obtain collar-specific $g _ { \\mathrm { c c } }$ estimates for the growing season as input for the regression models described below. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Meteorological and soil enuironmentalmeasurements ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "During every sampling event, soil volumetric water content (VWC) was measured on each plot in two depths (O-5 and ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$1 5 { - } 2 0 ~ \\mathrm { c m } ,$ ）using a handheld Decagon GS3 soil moisture sensor (Decagon Devices Inc.,Pullman,WA,USA).In addition,soil temperature $( T _ { \\mathrm { s } } )$ was recorded on each plot in four different depths (10,20,30 and $4 0 ~ \\mathrm { c m } ^ { \\cdot }$ ）byahandheld CometS0141 temperature logger with Pt10o0TG8 sensors (Comet Systems Ltd., Roznov pod Radhostem, Czech Republic).At each plot, continuous $3 0 ~ \\mathrm { m i n }$ recordsof water table level (WTL）position relative to the soil surface were obtained with submerged HOBO Water Level Loggers (model U20-001-01; Onset Computer Corporation,Bourne,MA,USA).These automatic WTL records were calibrated with manual WTL measurements taken at the same locations. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A meteorological stationwas installed on-site in June to continuously measure air temperature $( T _ { \\mathrm { a } } )$ using a shielded temperature sensor (model CS 107; Campbell Scientific Inc., Logan,UT, USA）as well as photosynthetically active radiation (PAR) and precipitation (PPT) using a LI-190SL Quantum Sensor (LI-COR Inc., Lincoln, NE, USA) and a Young 52202 tipping bucket (R.M. Young Company，Traverse City，MI，USA)，respectively.All meteorological instruments were mounted on a pole at $1 . 2 \\mathrm { m }$ height above the ground.Soil temperature, $T _ { \\mathrm { s } }$ (model CS 107; Campbell Scientific Inc.),wasrecorded at 5 and $3 0 \\ \\mathrm { c m }$ depths. The soil volumetric water content, VWC (model CS615; Campbell Scientific Inc.),was measured at $1 0 \\ \\mathrm { c m }$ depth.One sensor for each of the $T _ { \\mathrm { s } }$ and VWC measurements was placed in one of the RCG-F,RCG-C and BP plots.All automated meteorological and soil environmental data were collected in 1 min intervals and stored as $1 0 ~ \\mathrm { m i n }$ averages on a CR10oo datalogger (Campbell Scientific Inc.). On-site meteorological measurements were complemented byhourly data of $T _ { \\mathrm { a } } ,$ global radiation and PPT from the nearby( ${ \\sim } 2 0 ~ \\mathrm { k m }$ away）Pärnu meteorological station (Estonian Weather Service） for 2014.Global radiation was converted to PAR based on its linear regression relationship to on-site PAR during periods when both measurements were available. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Net ecosystem $C O _ { 2 }$ exchange,respiration and productionmeasurements ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Net ecosystem $\\mathrm { C O } _ { 2 }$ exchange (NEE) and ecosystem respiration (RE) on the RCG-F and RCG-C plots were measured using the closeddynamicchambermethodataweeklyto biweekly interval from May to December 2014.Three PVC collars $( \\sigma 5 0 ~ \\mathrm { c m } )$ with a water-filled ring for airtight sealing were permanently installed into the soil to a depth of $1 0 \\ \\mathrm { c m }$ within each plot.For NEE measurements,a transparent $9 5 \\%$ transparency)Plexiglas chamber (h $5 0 \\ \\mathrm { c m } ,$ $\\mathrm { ~ V ~ } 6 5 \\ \\mathrm { L } ;$ ）was used.The chamber was equipped witha TRP-2 probe(PP Systems,Hitchin,UK)which measuredPAR and $T _ { \\mathrm { a } }$ inside the chamber.An additional sensor was placed on the chamber outside to record the ambient $T _ { \\mathrm { a } }$ .Thechamber was climate-controlled via internal and external metal thermoelectric cooling ribs powered by a rechargeable12-V battery. In addition, frozen cooling packs were fixed inside thechamberto furtherlimitthe $T _ { \\mathrm { a } }$ increase inside the chamber during measurements.The headspace air was continuously mixed by a low-speed fan. Immediately after each NEE measurement, RE measurements were conducted on the same collar with the chamber covered by an opaque,light reflecting shroud that blocked $100 \\%$ of the incoming PAR. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "During each chamber deployment period (3 and $4 ~ \\mathrm { m i n }$ for RE and NEE measurements,respectively), $\\mathrm { C O } _ { 2 }$ concentration, PAR, $T _ { \\mathrm { a } } ,$ pressure and relative humidity inside the chamber were monitored with a portable infrared gas analyzer (IRGA, EGM-4; PP Systems) connected to the chamber in a closed loop through $1 . 5 \\mathrm { ~ m ~ }$ inlet and outlet tubing (inner $\\begin{array} { r l } {  { } } & { { } \\quad \\mathrm { ~ \\ } \\quad \\mathrm { ~ \\ } \\quad \\mathrm { ~ \\ } \\quad \\mathrm { ~ \\ } \\quad \\mathrm { ~ \\ } \\quad \\quad \\mathrm { ~ \\ } \\quad \\quad \\mathrm { ~ \\ } \\quad \\quad \\mathrm { ~ \\ } \\quad \\quad \\mathrm { ~ \\ } \\quad \\quad \\mathrm { ~ \\ } \\quad \\quad \\mathrm { ~ \\ } \\quad \\quad \\mathrm { ~ \\ } \\quad \\quad \\quad \\mathrm { ~ \\ } \\quad \\quad \\mathrm { ~ \\ } \\quad \\quad \\quad \\mathrm { ~ \\ } } \\end{array}$ flowrate $3 5 0 \\ \\mathrm { m l \\ m i n ^ { - 1 } } .$ ).Measurements were conducted in a random plot order between 1O:00 and 14:00 to avoid diurnal effects on the fluxes.Gross primary production (GPP) was derived from the difference between NEE and RE (Eqn 3): ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { G P P = N E E - R E }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In addition,hourly net primary production rates based on the $\\mathrm { C O } _ { 2 }$ flux measurements $( \\mathrm { N P P } _ { F } )$ were derived for each sampling date from the difference between NEE and heterotrophic respiration $\\operatorname { ( R h ; }$ see below) (Eqn 4): ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\tt N P P } _ { F } = { \\tt N E E } - { \\tt R h }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Due to the absence of vegetation,NEE and RE at the BP plots were represented by the static chambermeasurements described below. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Heterotrophicand autotrophicrespiration measurements ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Heterotrophic respiration (Rh） was measured concurrently with NEE and RE fluxes on trenched plots (A $0 . 0 7 ~ \\mathrm { m } ^ { 2 } ;$ ）which were established in the RCG-F and RCG-C plots in late March 2014.Within each plot,three subplots were trenched to $0 . 5 \\mathrm { ~ m ~ }$ depth and a water-permeable cloth was inserted vertically to prevent lateral root in-growth.All living plants were clipped and removed from inside these trenched plots and the plots were kept vegetation-free for the remaining year. One PVC collar $(  O \\ 1 7 . 5 \\ \\mathrm { c m } ) ,$ ）was permanently installed to $1 0 \\ \\mathrm { c m }$ depth in each of the trenched plots.During the measurement,an opaque chamber $\\mathrm { { ( h ~ 3 0 ~ c m , ~ V ~ 0 . 0 6 5 ~ L ) } }$ equipped with a lowspeed fan was placed onto the collar and the $\\mathrm { C O } _ { 2 }$ concentration as well as headspace $T _ { \\mathrm { a } }$ was measured every $4 . 8 \\mathrm { ~ s ~ }$ with the EGM-4 IRGA during $3 ~ \\mathrm { m i n }$ .Autotrophic respiration (Ra) was derived as the difference between the measured RE and Rh (Eqn 5): ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { R a } = \\mathrm { R E } - \\mathrm { R h }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Relative humidity was also measured in the BP plots using the same collars and chamber.However, trenching and vegetation removal were not necessary,and as Rh measurements represent RE in vegetation-free ecosystems， Rawasnot determined in the BP plots. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$C H _ { 4 } ,$ 号 $N _ { 2 } O$ and nongrowing season $C O _ { 2 }$ flux measurements ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Methane $\\mathrm { ( C H _ { 4 } ) }$ and nitrous oxide $( \\mathsf { N } _ { 2 } \\mathrm { O } )$ fluxes were measured weekly to biweekly during the 2014 growing season (May 1 to October 31） and once per month outside the growing season with the closed static chamber method at the same measurement locations (i.e.， same collars) of the NEE and RE measurements.During each 1-h chamber deployment period, four evenly timed $( 0 , \\ 0 . 3 3 , \\ 0 . 6 6$ and $^ { \\mathrm { ~ 1 ~ h ~ } }$ ）air sampleswere drawn from the chamber headspace ( $\\mathrm { ~ h ~ } 5 0 \\ \\mathrm { c m } ,$ $\\mathrm { ~ V ~ } 6 5 ~ \\mathrm { L } ;$ white opaque PVC chambers) with polypropylene syringes through a plastic tube into pre-evacuated (0.3 mbar) $1 0 0 ~ \\mathrm { m L }$ glass bottles. The air samples were analyzed within a week for $\\mathrm { C H } _ { 4 }$ and $\\mathrm { N } _ { 2 } \\mathrm { O }$ concentrations using a Shimadzu GC-2014 gas chromatograph (GC) combined with a Loftfield automatic sample injection system (Loftfield et al.,1997),a flame ionization detector (FID) and an electron capture detector (ECD).To obtain RE estimates during the nongrowing season months of January to April, the same air sampleswere also analyzed for their $\\mathrm { C O } _ { 2 }$ concentrations on the same GC using the ECD detector. These RE measurements were also assumed to represent NEE from January to April inall treatments. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Ditch $C O _ { 2 }$ ， $C H _ { 4 }$ and $N _ { 2 } O$ flux measurements ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To account for the spatial variation between fluxes from strips and drainage ditches, $\\mathrm { C O } _ { 2 } ,$ （204号 $\\mathrm { C H } _ { 4 }$ and $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes were measured within the same peat extraction area from drainage ditches bordering RCG-F,RCG-C and BP strips at a monthly interval from June to December 2011 (with an annual PPT of $8 2 6 ~ \\mathrm { m m }$ ,2011 was wetter than 2014).Three collars were permanently installed at the bottom of each ditch.The measurements were conducted using same chamber and measurement protocol as described above for the static chamber measurements in the strips. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fluxcalculation and quality control ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fluxes of $\\mathrm { C O } _ { 2 } , \\mathrm { C H } _ { 4 }$ and $\\mathrm { N } _ { 2 } \\mathrm { O }$ were calculated from the change in gas concentrations in the chamber headspace volume corrected for air density using the ideal gas law (Eqn 6): ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { \\mathrm { d y n , s t a t } } = S \\times { \\frac { p \\times V \\times M \\times t } { R \\times T _ { \\mathrm { a } } \\times A } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $F _ { \\mathrm { d y n } }$ and $F _ { \\mathrm { s t a t } }$ are fluxes measured by the dynamic chamber (i.e., $\\mathrm { C O } _ { 2 }$ inm $\\lg \\ C O _ { 2 } { - } C \\ \\mathrm { m } ^ { - 2 } \\ \\mathrm { h } ^ { - 1 } ;$ and the static chamber method (i.e., $\\mathrm { C H } _ { 4 }$ in $\\mu \\mathrm { g } \\mathrm { C H } _ { 4 } \\mathrm { - } \\mathrm { C } \\mathrm { m } ^ { - 2 } \\mathrm { h } ^ { - 1 }$ $\\mathrm { N } _ { 2 } \\mathrm { O }$ in $\\mu \\mathrm { g } \\ \\mathrm { N } _ { 2 } \\mathrm { O - N }$ $\\mathrm { m } ^ { - 2 } \\mathrm { h } ^ { - 1 }$ and $\\mathrm { C O } _ { 2 }$ inm $\\mathrm { ~ g ~ C O _ { 2 } { - } C ~ m ^ { - 2 } ~ h ^ { - 1 } ) } ,$ ,respectively, $s$ is the linear slope fitted to the concentration change over time $\\mathrm { { ( p p m ~ s ^ { - 1 } } }$ for the dynamic and $\\mathrm { { p p m } \\ h ^ { - 1 } }$ or ppb $\\mathbf { h } ^ { - 1 }$ for the static chamber method), $p$ is the air pressure (measured by the EGM-4 instrument or approximated by a constant value of $1 0 1 3 \\mathrm { ~ k P a }$ in the dynamic and static chamber methods,respectively), $V$ is chamber headspace volume,M is the molar mass of thegas, $R$ isthe universal gas constant of 8.3143 $( \\mathrm { J ~ m o l ^ { - 1 } ~ K ^ { - 1 } } )$ 、 $T _ { \\mathrm { a } }$ is the mean headspace air temperature during the measurement ${ \\mathrm { ( } } ^ { \\circ } \\mathrm { K } )$ 1 $A$ is the collar area,and t converts the time unit from seconds to hour (i.e., $t = 3 6 0 0$ for the dynamic chamber method and $t = 1$ for the static chamber method).In the dynamic chamber method,S was the slope with the best $R ^ { 2 }$ from the individual slopes determined for windows of 25 measurement points (i.e., $2 ~ \\mathrm { m i n } \\dot { }$ ）moving stepwise (with one-point increments) over the measurement period after discarding the first two measurement points (i.e.,applying a 9.6 s‘dead band').In the static chamber method,S was calculated over all four data points. The headspace volume was corrected for changes in effective chamber height due to frost heave (resulting in uplifting of the collars) or snow/ice buildup. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "All dynamic chamber $\\mathrm { C O } _ { 2 }$ fluxes with a coefficient of determination $( R ^ { 2 } ) \\geq 0 . 9 0$ 0 $\\begin{array} { r } { \\left( P < 0 . 0 0 1 \\right) } \\end{array}$ ）were accepted as good fluxes. However,as low fluxes generally result ina lower $R ^ { 2 }$ (which is especially critical forNEE measurements)， fluxeswith $S \\leq \\pm 0 . 1 5 \\ \\mathrm { p p m \\ s ^ { - 1 } }$ were always accepted. The S threshold was determined based on a regression between S and $R ^ { 2 }$ values.For static chamber measurements,the $R ^ { 2 }$ threshold for accepting $\\mathrm { C O } _ { 2 } ,$ （ $\\mathrm { C H } _ { 4 }$ and $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes was 0.90 $( P < 0 . 0 5 )$ ，0.80 （20 $( P < 0 . 1 )$ and0.80 $\\begin{array} { r } { P < 0 . 1 \\AA , } \\end{array}$ ,respectively,except no filtering criterion was used when the maximum difference in the concentration values was less than the gas-specific GC detection limit (i.e., ${ < } 2 0 ~ \\mathrm { p p m }$ for $\\mathrm { C O } _ { 2 } , { < } 2 0$ ppb for $\\mathrm { C H } _ { 4 }$ and ${ < } 2 0 ~ \\mathrm { p p b }$ for $_ { \\mathrm { N _ { 2 } O } ) }$ ： This study used the atmospheric sign convention in which positive (e.g.,RE) and negative (e.g., GPP and NPP) fluxes represent emission and uptake,respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Modeldevelopment forestimatingannual $C O _ { 2 } , C H _ { 4 }$ and $N _ { 2 } O$ fluxes ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Nonlinear regression models following Kandel et al. (2013) were used to estimate annual RE and GPP fluxes based on $T _ { \\mathrm { a } } ,$ PAR and vegetation development. Specifically,GPP fluxes from each collar were fitted to PAR inside the chamber using a hyperbolic function with an additional parameter describing the seasonal changes in vegetation biomass (expressed by the collar-specific $g _ { \\mathrm { c c } }$ estimates) (Eqn 7): ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { G P P } } = { \\frac { a \\times A _ { \\operatorname* { m a x } } \\times { \\mathrm { P A R } } \\times g _ { \\operatorname { c c } _ { \\operatorname { n o r m } } } } { a \\times { \\mathrm { P A R } } \\times A _ { \\operatorname* { m a x } } \\times g _ { \\operatorname { c c } _ { \\operatorname { n o r m } } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where GPP is gross primary production $\\left( \\mathrm { m g \\ C O _ { 2 ^ { - } } C \\ m ^ { - 2 } \\ h ^ { - 1 } } \\right)$ 1 PARis the photosynthetically active radiation $( \\mu \\mathrm { m o l } \\mathrm { ~ m } ^ { - 2 } \\mathrm { ~ s } ^ { - 1 } )$ inside the chamber, $\\alpha$ is the light-use efficiency of photosynthesis (i.e., the initial slope of the light response curve, $\\mathrm { m g } \\mathrm { C O } _ { 2 }$ C $\\mu \\mathrm { m o l }$ photons $\\cdot ^ { - 1 }$ ） $A _ { \\mathrm { m a x } }$ is maximum photosynthesis at light saturation ( $\\mathrm { m g ~ C O _ { 2 ^ { - } } C ~ m ^ { - 2 } ~ h ^ { - 1 } } )$ and $g _ { \\mathrm { c c _ { n o r m } } }$ is the collar-specific chromatic greenness index normalized to scale between 0 and 1. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "RE fluxes were fitted to headspace $T _ { \\mathrm { a } }$ accounting for effects from vegetation biomass using an exponential function (Eqn 8): ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { R E } = R _ { 0 } \\times \\mathrm { e x p } ^ { ( b \\times T _ { \\mathrm { a } } ) } + ( \\beta \\times g _ { c c _ { \\mathrm { n o r m } } } ) \\times \\mathrm { e x p } ^ { ( b \\times T _ { \\mathrm { a } } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where RE is ecosystem respiration $\\left( \\mathrm { m g \\ C O _ { 2 } { - } C \\ m ^ { - 2 } \\ h ^ { - 1 } } \\right)$ ） $T _ { \\mathrm { a } }$ is air temperature $( ^ { \\mathrm { o } } \\mathrm { C } ) , R _ { 0 }$ is the soil respiration (mg $\\mathrm { C O } _ { 2 }$ 1 $\\mathrm { ~ C ~ m } ^ { - 2 } \\mathrm { ~ h } ^ { - 1 } )$ at $0 \\ { ^ { \\circ } C } , b$ is the sensitivity of respiration to $T _ { \\mathrm { a } } ,$ and $\\beta$ is a scaling parameter representing the contribution of plant respiration to ecosystem respiration.Using the respective model coefficients,hourly GPP and RE were modeled for the entire year using hourly $T _ { \\mathrm { a } } ,$ PAR and $g _ { \\mathrm { c c } }$ as input variables. Annual GPP and RE were then estimated from the cumulative sumsof thesemodeled estimates.The balancebetween annual GPP and RE estimates resulted in the annual NEE in RCG-F and RCG-C. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the BP plots,RE was modeled based on an exponential relationship to $T _ { \\mathrm { a } }$ only (Eqn 9): ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { R E } = R _ { \\mathrm { 0 } } \\times \\mathrm { e x p } ^ { ( b \\times T _ { \\mathrm { a } } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The cumulative RE model estimates also represented annual NEE at the BP treatment. The GPP and RE model parameters for the different treatments are summarized in Table 2. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Due to weak relationships with environmental variables,the annual $\\mathrm { C H } _ { 4 }$ exchange was estimated by linear interpolation. The annual $\\mathrm { N } _ { 2 } \\mathrm { O }$ exchange,however,was calculated by scaling the median of the measured fluxes to an annual sum as the occurrence of episodic high peak fluxes would have caused annual sums to be overestimated in the linear interpolation method.Annual ditch emissions were estimated by scaling the mean $\\mathrm { C O } _ { 2 }$ and $\\mathrm { C H } _ { 4 }$ fluxes as well as the median $\\mathrm { N } _ { 2 } \\mathrm { O }$ flux to the entire year. The annual GHG balances were estimated by converting the cumulative strip and ditch fluxes to $\\mathrm { C O } _ { 2 }$ equivalents $\\mathrm { C O } _ { 2 }$ eq）using the global warming potentials (GWP, over a 1oo-year time frame including carbon-climate feedbacks） of 34 and 298 for $\\mathrm { C H } _ { 4 }$ and ${ \\mathrm { N } } _ { 2 } { \\mathrm { O } } ,$ respectively (IPCC, 2013). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Concentrations and fluxes of dissolued organic carbon ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Starting in February 2014,dissolved organic carbon (DOC) concentrations were determined for water samples taken at each flux sampling location from groundwater wells (perforated PVC pipes; $\\sigma ~ 7 . 5 ~ \\mathrm { c m } ^ { \\cdot }$ ）which collected soil solution from the soil surface down to $5 0 ~ \\mathrm { c m }$ depth.From late June onward, DOC concentrations were estimated at $3 0 \\ \\mathrm { c m }$ soil depth (below the main rooting zone) on every flux sampling date using stainless steel plate lysimeters with a collecting area of $6 2 5 ~ \\mathrm { c m } ^ { 2 }$ (Uri et al.,2011).All water samples were analyzed for their DOC concentrations within 1 day after collection. The DOC export was calculated by multiplying the DOC concentration with the water leaching rate which was assumed to be $5 0 \\%$ of the monthly precipitation based on previous literature estimates (Klove et al.,2010;Hyvonen et al.,2013).To assess the sensitivity of the annual DOC export to the choice of this assumed leaching rate,DOC export was also estimated using rates of $2 5 \\%$ and $7 5 \\%$ of the monthly precipitation to provide a minimum-maximum range which very likely encompasses the true leaching rate. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f6fa4d35f03bf2f1b8231606915b87b45cc95db27ef3094b765fef70340482a7.jpg",
+        "table_caption": [
+            "Table 2 Parameters for the gross primary production (GPP) (Eqn 7) and ecosystem respiration (RE) (Eqns 8 and 9) models for reed canary grass with fertilization (RCG-F),reed canary grass control (RCG-C) and bare peat (BP) treatments; $\\alpha$ is the quantum-use efficiency of photosynthesis (mg $\\mathrm { C O } _ { 2 } \\mathrm { - } C \\ \\mu \\mathrm { r }$ $\\mu \\mathrm { m o l }$ photons); $A _ { \\mathrm { m a x } }$ is the maximum rate of photosynthesis at light saturation ( $\\mathrm { m g \\ C O _ { 2 } { - } C \\ m ^ { - 2 } \\ h ^ { - 1 } } ,$ ： $R _ { 0 }$ is the soil respiration (mg $\\mathrm { C O } _ { 2 }$ $\\mathrm { ~ C ~ m } ^ { - 2 } \\mathrm { ~ h } ^ { - 1 } )$ at $0 ~ ^ { \\circ } \\mathrm { C } ; ~ b$ is the sensitivity of respiration to air temperature; and $\\beta$ is a scaling parameter representing the contribution of plant respiration to ecosystem respiration; numbers in parentheses indicate standard error; Adj. $R ^ { 2 } = { }$ adjusted $R ^ { 2 }$ "
+        ],
+        "table_footnote": [
+            "n.a.,not applicable. "
+        ],
+        "table_body": "<html><body><table><tr><td>Model properties</td><td>RCG-F</td><td>RCG-C</td><td>BP</td></tr><tr><td>GPP model</td><td></td><td></td><td></td></tr><tr><td>α</td><td>-1.21 (0.73)</td><td>-0.33 (0.22)</td><td>n.a.</td></tr><tr><td>Amax</td><td>-386 (56)</td><td>-120 (25)</td><td>n.a.</td></tr><tr><td>Adj. R²</td><td>0.71</td><td>0.67</td><td>n.a.</td></tr><tr><td>RE model</td><td></td><td></td><td></td></tr><tr><td>R0</td><td>11.9 (8.8)</td><td>12.8 (5.5)</td><td>13.0 (3.6)</td></tr><tr><td>b</td><td>0.045 (0.008)</td><td>0.035 (0.007)</td><td>0.045 (0.010)</td></tr><tr><td>β</td><td>61 (22)</td><td>37 (12.2)</td><td>n.a.</td></tr><tr><td>Adj. R²</td><td>0.90</td><td>0.89</td><td>0.61</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Statisticalanalysis ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Collar flux data were averaged for each plot before conducting further statistical analysis to avoid pseudoreplication.The nonparametric Friedman one-way analysis of variance (ANovA) by ranks test for dependent samples was used to account for repeated measurements in time when testing for treatment effects (i.e., fertilized RCG,nonfertilized RCG and bare peat) on the growing season or annual means of the various component fluxes.Thisanalysiswas followedbya Bonferroni post hoc comparison to determine significant differences among treatment means.The Mann-Whitney $U$ -test wasused when comparing only the fertilized and nonfertilized treatments for significant effects (i.e.,on GPP,NPP and Ra fluxes and biomass pools).The significance level was $P < 0 . 0 5$ unless stated otherwise.All calculations and statistics were computed using the MATLAB software (MATLAB Student version,2013a;Mathworks,Natick,MA,USA). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Environmentalconditions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The annual mean $T _ { \\mathrm { a } }$ and total PPT for the study year 2014 were $6 . 9 \\ ^ { \\circ } \\mathrm { C }$ and $5 2 5 ~ \\mathrm { m m } ,$ ，respectively，which indicates warmer and drier conditions relative to the long-term climate normal $( 6 . 3 ~ ^ { \\circ } \\mathrm { C }$ and $7 4 5 ~ \\mathrm { m m }$ .PAR and $T _ { \\mathrm { a } }$ peaked in the first week of July and in the first week of August, respectively (Fig. 1a,b).The growing season included two warm and dry periods:one from mid-May to mid-June and the other from early July to early August. Total rainfall during these two periods was only 22.8 and $3 7 . 7 ~ \\mathrm { m m }$ ，respectively (Fig.1c). The dry summer was interrupted by intermittent rainfall events in mid- to late June and eventually terminated by2weeks of heavy rainfall $1 7 9 . 5 ~ \\mathrm { m m } ,$ ）from early to late August. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Soil temperatures at 5 and $1 0 \\ \\mathrm { c m }$ depths were similar among the three treatments throughout the year (Fig.1d).The WTL,however,was higher in RCG-F and RCG-C compared to BP for most of the measurement period and dropped below the depth of the peat layer (i.e., $< - 4 5 ~ \\mathrm { c m } ,$ ）inall treatments during the two dry and warm summerperiods (mid-May to mid-Juneand early July to early August) (Fig.1e).The intermittent rainfall in late June and the onset of heavy rainfall in early August were reflected by rapid increases in the WTL. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/cf79ec9520a90eac55acb649c786f37c8d15ea0096133626a89cc5c5d7fbece8.jpg",
+        "img_caption": [
+            "Fig.1Seasonal patterns of (a) photosynthetically active radiation (PAR),(b) air temperature $( T _ { \\mathrm { a } } ) ,$ (c)precipitation (PPT),(d) soil temperature $( T _ { s } )$ at 5 and $1 0 \\ \\mathrm { c m }$ depths (dots and lines represent manual and automated measurements,respectively) and (e) water table level(WTL)forreedcaarygrasswithfrtilzation(CG-F),eedcnarygrasscotrol(CG-Candbareeat(B)reatmentsin214. Data for PAR, $T _ { \\mathrm { a } }$ and PPT were taken from the Pärnu meteorological station for January 1 to June 11 and measured at the study site from June 12 to December 31. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Vegetation greenness index ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The $g _ { \\mathrm { c c } }$ was higher in RCG-F than in RCG-C throughout the growing season (Fig.2). Its temporal patterns sug gest that plant growth started in mid-May and that full canopy development was reached by the second week of June in both RCG-F and RCG-C. Furthermore， the dry period in late June coincided with a temporary reduction in $g _ { \\mathrm { c c } }$ .The start of the senescence period in early August，asindicated by the decline in $g _ { \\mathrm { c c } } ,$ coincided with decreasing $T _ { \\mathrm { a } }$ and $T _ { s }$ .The $g _ { \\mathrm { c c } }$ eventually decreased to its pregrowing season values after the har vest cut on September 3. The $g _ { \\mathrm { c c } }$ did not show any seasonal patterns in BP，except for small fluctuations related to illumination noise and color changes due to soil moisture variations. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/28344aa8f985c6972faa8ecca19fbc18790916d8a630ea1233df22a43cc3e72f.jpg",
+        "img_caption": [
+            "Fig.2 Temporal pattern of 3-day means of the vegetation greenness index $( g _ { \\mathrm { c c } } )$ forreed canary grass with fertilization (RCG-F),reed canary grass control (RCG-C) and bare peat (BP) treatments in 2014. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Above-and belowground biomass production and allocation ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "At the time of harvest, mean aboveground biomass $( \\pm$ standard error) in RCG-F and RCG-C was $2 3 4 \\pm 1 9$ and $4 2 \\pm 6 \\mathrm { ~ g ~ m ~ } ^ { - 2 } ,$ ，respectively (Fig. 3). The belowground biomass increased from $5 3 6 \\pm 1 7$ and $3 6 4 \\pm 2 2 \\mathrm { ~ g ~ m } ^ { - 2 }$ in April to $6 4 6 \\pm 2 3$ and $4 1 6 \\pm 2 9 \\mathrm { ~ g ~ m } ^ { - 2 }$ in September in RCG-F and RCG-C，respectively，and was significantly greater in RCG-F than in RCG-C on both sampling dates (Fig.3).Both root and rhizome biomass decreased significantly with soil depth.The upper $0 -$ $1 0 \\ \\mathrm { c m }$ layer contained $57 \\%$ and $5 8 \\%$ of total belowground biomass, $9 2 \\%$ and $9 3 \\%$ of rhizome biomass and $4 6 \\%$ and $4 3 \\%$ of the root biomass in RCG-F and RCG-C, respectively.While root biomass in RCG-F was significantly greater than in RCG-C for all soil depth classes and sampling dates,rhizome biomass was significantly greater (on both sampling dates） in the upper $1 0 \\ \\mathrm { c m }$ layer only in RCG-F compared to RCG-C. The root to rhizome ratio was 2.84 and 2.31 in RCG-F and RCG-C, respectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a011aad3e936583ce91ebba684a11befdac17fb125cc95e75af99cef5283369.jpg",
+        "img_caption": [
+            "Fig.3Aboveground (AG) biomass (white bars) in September and the vertical distribution $\\left( 0 { - } 3 0 \\ \\mathrm { c m } \\right.$ depth) of belowground root (dark red and gray bars)and rhizome (light red and gray bars) biomass (dry weight) as a mean ( $\\boldsymbol { \\cdot } \\pm$ standard error) ofApril and Septembersampling dates inreed canary grass with fertlization (RCG-F)andreed canary grasscontrol(RCG-C) treatments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The C concentration of harvested aboveground biomass was $4 8 \\%$ and $4 7 \\%$ ，while itwas $5 0 \\%$ for belowgroundbiomassinbothRCG-FandRCG-C, respectively，without any significant difference between the April and September sampling dates. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Both above- and belowground ${ \\mathrm { N P P } } _ { B }$ derived from biomass sampling were greater in RCG-F(-115 and $- 5 5 \\textrm { g C m } ^ { - 2 } \\textrm { y r } ^ { - 1 } )$ than in RCG-C $( - 2 0$ and $- 2 6 \\ \\mathrm { g }$ $\\mathrm { ~ C ~ m } ^ { - 2 } \\ \\mathrm { y r } ^ { - 1 } )$ (Table 3). The ratio of above- to belowground $\\mathrm { N P P } _ { B }$ decreased from 2.1 in RCG-F to 0.8 in RCG-C, respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Seasonal net ecosystem $C O _ { 2 }$ exchange,respiration and production ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A negative midday NEE，that is, $\\mathrm { C O } _ { 2 }$ uptake，was observed in RCG-F from late May to the end of Septem ber, with a maximum uptake rate of $1 6 2 ~ \\mathrm { m g } \\mathrm { C } ~ \\mathrm { m } ^ { - 2 } ~ \\mathrm { h } ^ { - 1 }$ noted in early July (Fig. 4a). In comparison，midday NEE remained close to zero during the early growing season (May and June) and switched to positive values suggesting CO2 emission of up to 77 mg C m-² h-1 during the late growing season (July and August） in RCG-C. Both RCG-F and RCG-C were small $\\mathrm { C O } _ { 2 }$ sources for most of the nongrowing season. Continuous midday $\\mathrm { C O } _ { 2 }$ emission occurred throughout the year in BP,reaching a maximum rate of $7 1 \\mathrm { ~ m g ~ C ~ m } ^ { - 2 } \\mathrm { ~ h } ^ { - 1 }$ in early July. The annual mean midday NEE was significantly lower in RCG-F than in RCG-C and BP (Fig. 5a). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "During the growing season, midday RE was highest in RCG-F and lowest in BP,reaching peak values of 268, 149 and $7 1 \\mathrm { \\ m g } \\mathrm { C } \\mathrm { \\ m } ^ { - 2 } \\mathrm { h } ^ { - 1 }$ during late July in RCG-F,RCG-C and BP,respectively (Fig. 4b). The annual mean midday RE was significantly higher in RCG-F than in BP(Fig. 5b). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Midday GPP was consistently greater (i.e., more negative) in RCG-F than in RCG-C during the growing season (Fig.4c). In RCG-F，GPPpeakedwith $- 3 5 9 ~ \\mathrm { m g }$ $\\mathrm { ~ C ~ m } ^ { - 2 } \\mathrm { ~ h } ^ { - 1 }$ simultaneously with $T _ { \\mathrm { a } }$ in late July whereas in RCG-C,values remained in the range of $- 5 0$ to $- 1 1 0 \\mathrm { \\ m g \\ C \\ m } ^ { - 2 } \\mathrm { \\ h } ^ { - 1 }$ throughout most of the growing season following the pattern of $g _ { \\mathrm { c c } }$ . The seasonal patterns in midday NPP were similar to those of GPP, reaching maximum rates of $^ { - 2 1 1 }$ and $- 8 5 ~ \\mathrm { m g } \\mathrm { C } ~ \\mathrm { m } ^ { - 2 } ~ \\mathrm { h } ^ { - 1 }$ in RCGF and RCG-C, respectively (Fig. 4d). The mean midday GPP and NPP were significantly lower (i.e.， suggesting greater production) in RCG-F than in RCG-C (Fig. 5c, d). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Heterotrophic and autotrophic respiration ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Similar seasonal patterns of Rh were observed in RCG-F and RCG-C,with maximum rates of 119 and $9 2 ~ \\mathrm { m g }$ $\\mathrm { ~ C ~ m } ^ { - 2 } \\mathrm { ~ h } ^ { - 1 } .$ ，respectively, occurring in late July (Fig. 6a). ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/086af645fe4d4568fc5577f3eb23f6b9ac2864afeacb276ac3e234ac6a8b3c7a.jpg",
+        "table_caption": [
+            "Table3 The full carbon(C) balance $( \\mathrm { g } \\mathrm { ~ C ~ m } ^ { - 2 } \\ \\mathrm { y r } ^ { - 1 } )$ and the annual sums of its components: ecosystem respiration (RE), gross primary production (GPP),above- and belowground net primary production (ANPP, BNPP), total net primary production $( \\mathrm { N P P } _ { B } ;$ based on biomass sampling),net ecosystem $\\mathrm { C O } _ { 2 }$ exchange (NEE) and methane $\\mathrm { ( C H _ { 4 } ) }$ ，export of dissolved organic carbon (DOC) and the ditch $\\mathrm { C O } _ { 2 }$ and $\\mathrm { C H } _ { 4 }$ fluxes for reed canary grass with fertilization (RCG-F),reed canary grass control (RCG-C) and bare peat (BP) treatments.Negative and positive fluxes represent C uptake and emission,respectively "
+        ],
+        "table_footnote": [
+            "n.a.,not applicable. $^ { * } \\mathrm { G P P }$ for BP was assumed to be zero. $\\dagger$ The total $\\mathsf { C }$ balance is the sum of area-weighted (strip width $\\ d = 2 0 ~ \\mathrm { m } ;$ ditch width $\\mathbf { \\Psi } = 1 \\mathbf { \\Psi } \\mathbf { m } ^ { \\mathrm { ~ \\dagger ~ } }$ ）fluxes of NEE, $\\mathrm { C H } _ { 4 }$ and DOC as well as the ditch $\\mathrm { C O } _ { 2 }$ and $\\mathrm { C H } _ { 4 }$ fluxes. "
+        ],
+        "table_body": "<html><body><table><tr><td>C flux component</td><td>RCG-F</td><td>RCG-C</td><td>BP</td></tr><tr><td>Strips</td><td></td><td></td><td></td></tr><tr><td>RE</td><td>512</td><td>326</td><td>170</td></tr><tr><td>GPP</td><td>-433</td><td>-125</td><td>n.a.</td></tr><tr><td>ANPP</td><td>-115</td><td>-20</td><td>n.a.</td></tr><tr><td>BNPP</td><td>-55</td><td>-26</td><td>n.a.</td></tr><tr><td>NPPB</td><td>-170</td><td>-46</td><td>n.a.</td></tr><tr><td>NEE</td><td>79</td><td>201</td><td>170*</td></tr><tr><td>CH4</td><td>0.014</td><td>0.018</td><td>0.020</td></tr><tr><td>DOC export</td><td>4.2</td><td>4.2</td><td>4.1</td></tr><tr><td>Ditches</td><td></td><td></td><td></td></tr><tr><td>CO2</td><td>360</td><td>415</td><td>298</td></tr><tr><td>CH4</td><td>0.134</td><td>0.120</td><td>0.063</td></tr><tr><td>Total Cbalance†</td><td>96</td><td>215</td><td>180</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In RCG-F and RCG-C, Rh was higher $( P < 0 . 0 1 ) \\$ ）from early July to mid-August than in BP where maximum Rh rates of $7 7 ~ \\mathrm { m g ~ C ~ m } ^ { - 2 } ~ \\mathrm { h } ^ { - 1 }$ were observed (Fig. 6a). In comparison,Ra was consistently higher in RCG-F than in RCG-C throughout the growing season (Fig. 6b). Maximum Ra during July was approximately 2.5 times higher in RCG-F $( { \\sim } 1 5 0 ~ \\mathrm { m g } \\mathrm { ~ C ~ m ~ } ^ { - 2 } \\mathrm { ~ h ~ } ^ { - 1 } )$ than in RCG-C $( \\sim 6 0 \\mathrm { ~ m g ~ C ~ m } ^ { - 2 } \\mathrm { ~ h } ^ { - 1 } )$ ．Except for one sampling date (May 3O),theRa to Rh ratio was always $\\geq 1$ in RCG-F while it was $\\leq 1$ in RCG-C for most of the growing season (Fig. 6c). The mean growing season Rh was not significantlydifferentbetweenRCG-FandRCG-C (Fig. 5e).In contrast,mean Ra was significantly higher in RCG-F than in RCG-C (Fig. 5f). Averaged over all sampling dates,Rh accounted for $4 2 \\%$ and $6 2 \\%$ ofRE in RCG-F and RCG-C, respectively. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$C H _ { 4 }$ and $N _ { 2 } O$ exchanges ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Throughout the growing season, $\\mathrm { C H } _ { 4 }$ emission occurred in the range of 0.01 to $9 . 3 ~ \\mu \\mathrm { g } \\mathrm { ~ C ~ m } ^ { 2 } \\mathrm { ~ h } ^ { - 1 }$ in all three treatments (Fig. 7a).Between mid-June and early September, the mean $\\mathrm { C H } _ { 4 }$ emission was approximately 1.5 times higher in BP than in RCG-F and RCG-C( $\\cdot P = 0 . 0 5 2$ ） During the nongrowing season, the $\\mathrm { C H } _ { 4 }$ exchange was close to zero with small rates ( $_ { - 2 . 3 }$ to $3 . 7 ~ \\mu \\mathrm { g } \\mathrm { ~ C ~ m } ^ { 2 } \\mathrm { ~ h } ^ { - 1 } )$ （20 of both uptake and emission occurring at individual collars and sampling dates,with no differences among the three treatments. The annual mean $\\mathrm { C H } _ { 4 }$ exchange was ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/b49ad9bd13a206e8768f1e7d2f942b4494dc522e7435d49f19a3ada85dbd9f36.jpg",
+        "img_caption": [
+            "Fig.4 (a) Net ecosystem $\\mathrm { C O } _ { 2 }$ exchange (NEE), (b) ecosystem respiration (RE), (c) gross primary production (GPP) and (d) net primary production $( \\mathrm { N P P } _ { F } )$ for reed canary grasswith fertilization (RCG-F),reed canary grass control (RCG-C)and bare peat (BP) treatments;rorbarsindicatestandarderror;thehorizontaldottd linein (a)visualizesthezerolineaboveandbelowwhichemision and uptake occur, respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "100 bc 300 C 50   \nE -500 E 30100 ab 9 -100 bu) m -150 0 RCG-FRCG-C BP RCG-FRCG-C BP   \n(c） -4zU 100 @ 100 =   \ndd5 m-100 ddN m 0   \nGC-200 C-100 9-300 bu) m-400 -200 RCG-F RCG-C RCG-F RCG-C   \n(g bu 200 Bu 150 150 h 100 50 50 0 0 RCG-F RCG-C RCG-FRCG-C BP   \n0 12 (h) (-4 50 + −u ə 6r) 8 + 1 。 2 40 +   \nHO u Nbrl) 302010 + 40 N + 0 上 RCG-FRCG-C BP RCG-FRCG-C BP ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "not significantly different among the three treatments (Fig. 5g). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In all three treatments, $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes were within the range of $- 0 . 4$ to $2 5 ~ \\mu \\mathrm { g } ~ \\mathrm { N } _ { 2 } \\mathrm { O - N ~ m } ^ { - 2 } ~ \\mathrm { h } ^ { - 1 }$ for most of the year，with the exception of large emission peaks of up to $4 2 0 ~ \\mu \\mathrm { g } ~ \\mathrm { N } _ { 2 } \\mathrm { O - N ~ m } ^ { - 2 } ~ \\mathrm { h } ^ { - 1 }$ in RCG-F on July 4 and September 3 (Fig.7b).On September 3,an $\\mathrm { N } _ { 2 } \\mathrm { O }$ emission peak of $1 7 2 \\ \\mu \\mathrm { g } \\ \\mathrm { N } _ { 2 } \\mathrm { O - N } \\ \\mathrm { m } ^ { - 2 } \\ \\mathrm { h } ^ { - 1 }$ was also observed in RCG-C. These peak emission events on July 4 and September 3 coincided with large rainfall events occurring just prior to both sampling dates (compare with Fig.1c).The annual means and medians of the $\\mathrm { N } _ { 2 } \\mathrm { O }$ exchange were not significantly different among the three treatments (Fig. 5h).The $\\mathrm { N } _ { 2 } \\mathrm { O }$ emission factor (i.e., the $\\%$ of $\\Nu$ fertilizer lost as $_ { \\mathrm { N _ { 2 } O } ) }$ was $0 . 6 3 \\%$ in RCG-F. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Ditch emissions of $C O _ { 2 } ,$ （204号 $C H _ { 4 }$ and $N _ { 2 } O$ ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Mean $\\mathrm { C O } _ { 2 } , \\mathrm { C H } _ { 4 }$ and $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions from the drainage ditches were not significantly different among treatments (Fig.8a-c). Ditch $\\mathrm { C O } _ { 2 }$ emissions accounted for $5 9 9 \\%$ of the total ditch C flux(Table 3) and ${ > } 9 8 \\%$ of the total GHG flux from ditches(Table 4)in all three treatments. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "DOC concentrations and export ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Concentrations of DOC ranged within $1 0 { - } 1 9 \\ \\mathrm { m g \\ L ^ { - 1 } }$ in the nongrowing season months and increased during the early growing season to a maximum of $2 5 ~ \\mathrm { m g ~ L } ^ { - 1 }$ (Fig. 9). No soil solution samples could be retrieved from the dried out soil during the two dry summer periods.Averaged over all sampling dates and depths, the mean DOC concentrations were 17，16and $1 6 ~ \\mathrm { m g ~ L } ^ { - 1 }$ in RCG-F, RCG-C and BP,respectively, with no significant differences among treatments (see inset figure in Fig.9).Assuming the leaching rate to be $5 0 \\%$ of the annual precipitation, the annual DOC export was estimated at 4.2, 4.2 and $4 . 1 \\ \\mathrm { g } \\mathrm { C } \\ \\mathrm { m } ^ { - 2 } \\ \\mathrm { y r } ^ { - 1 }$ in RCG-F, RCG-C and BP，respectively (Table 3). In comparison, the annual DOC export was 2.1， 2.1 and $2 . 1 \\ \\mathrm { g }$ $\\mathrm { ~ C ~ m } ^ { - 2 } \\ \\mathrm { y r } ^ { - 1 }$ assuming a leaching rate of $2 5 \\%$ and 6.3, 6.2 and $6 . 2 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \\mathrm { y r } ^ { - 1 }$ assuming a leaching rate of $7 5 \\%$ in RCG-F, RCG-C and BP, respectively. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/37b5c175ba5915585a30129027c0fedddd4b48f9de25f8d52b2442a059d6a4e1.jpg",
+        "img_caption": [
+            "Fig.6(a)Heterotrophic respiration (Rh),(b) autotrophic respiration (Ra) and (c) the $\\mathrm { R a } / \\mathrm { R h }$ ratio for reed canary grass with fertilization (RCG-F),reed canary grass control (RCG-C) and bare peat (BP) treatments;error bars indicate standard error; the horizontal dotted line in (c） indicates $\\mathrm { { R a } / \\mathrm { { R h } = 1 } }$ (i.e., $\\mathbf { R a } = \\mathbf { R h } ^ { \\prime }$ ） ",
+            "Fig.8 Box plots for ditch emissions of (a）carbon dioxide $\\scriptstyle ( \\mathbf { C O } _ { 2 } ) .$ ，(b)methane $\\mathrm { ( C H _ { 4 } ) }$ and(c) nitrous oxide $( \\mathrm { N } _ { 2 } \\mathrm { O } )$ for reed canary grass with fertilization (RCG-F),reed canary grass control(RCG-C)and bare peat (BP) treatments (see Fig.5 for a description of the box plot features). "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Thefull carbonbalance ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Themodel estimatesof cumulativeannualREwere 512, 326 and $1 7 0 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \\mathrm { y r } ^ { - 1 }$ in RCG-F,RCG-C and BP, ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "200   \n0 C 10050 bu）   \n(b) 75   \nH cm 5025 brl） 0   \n(c) (-4z-uN6 100F 75   \n10 50   \nN 25 6rl) 0 RCG-F RCG-C BP ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "respectively,and $- 4 3 3$ and $- 1 2 5 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \\mathrm { ~ y r ~ } ^ { - 1 }$ for GPP in RCG-F and RCG-C, respectively (Table 3). The carbon-use efficiencies (i.e., the ratio of $\\mathrm { N P P } _ { B }$ to GPP) were 0.39 and 0.37 in RCG-F and RCG-C,respectively. The cumulative NEE based on model estimates suggested annual $\\mathrm { C O } _ { 2 }$ emission of 79,201 and $1 7 0 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \\mathrm { y r } ^ { - 1 }$ in RCG-F, RCG-C and BP, respectively (Table 3). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The cumulative $\\mathrm { C H } _ { 4 }$ exchange resulted in annual $\\mathrm { C H } _ { 4 }$ emission of 0.01, 0.02 and $0 . 0 2 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \\mathrm { y r } ^ { - 1 }$ in RCG-F，RCG-C and BP，respectively (Table 3).The cumulative $\\mathrm { C O } _ { 2 }$ and $\\mathrm { C H } _ { 4 }$ fluxes from the ditches were 360，415 and $2 9 8 \\mathrm { ~ g ~ } \\mathrm { ~ C ~ m ~ } ^ { - 2 } \\mathrm { ~ y r ~ } ^ { - 1 }$ and 0.13,0.12 and $0 . 0 6 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \\mathrm { y r } ^ { - 1 }$ in RCG-F，RCG-C and BP,respectively (Table 3). Combining the area-weighted annual $\\mathrm { C O } _ { 2 }$ and $\\mathrm { C H } _ { 4 }$ exchanges from the $2 0 \\mathrm { ~ m ~ }$ wide strips and the $1 \\mathrm { ~ m ~ }$ wide drainage ditches with the DOC export resulted in full C balances of 96, 215 and $\\boldsymbol { 1 8 0 \\ \\mathrm { g } }$ $\\textrm { C m } ^ { - 2 } \\ : \\mathrm { y r } ^ { - 1 }$ in RCG-F，RCG-C and BP，respectively (Table 3).The relative contribution of DOC export to the full C balance was $4 . 1 \\%$ ， $1 . 9 \\%$ and $2 . 2 \\%$ in RCG-F, RCG-C and BP,respectively，while the relative contribution ofthe $\\mathrm { C H } _ { 4 }$ exchangewas ${ < } 1 \\%$ forall treatments. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/dcf146a11218d37e12c631716326eb3b2e964e4de0201d9a6b0b9220217150df.jpg",
+        "img_caption": [
+            "Fig.7Exchanges of (a) methane $\\mathrm { ( C H _ { 4 } ) }$ and (b) nitrous oxide $\\mathrm { ( N } _ { 2 } \\mathrm { O } )$ forreed canary grass with fertilization (RCG-F),reed canary grasscontrol(CG-Candbarepeat(B)treatments;errorbarsindicatestandarderorarrowindicates tmingoffertlizrapplication;the horizontaldottedline visualizes thezero line aboveand below which emission and uptake occur,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/b907227cc14480de161afa3addc5344d4168a039d0aab9a617c19f8c856e1975.jpg",
+        "table_caption": [
+            "Table 4 The greenhouse gas (GHG) balance (t $\\mathrm { C O } _ { 2 } \\ \\mathrm { e q \\ h a } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 } )$ and its component fluxes net ecosystem $\\mathrm { C O } _ { 2 }$ exchange (NEE),methane $\\mathrm { ( C H _ { 4 } ) }$ and nitrous oxide $( \\mathrm { N } _ { 2 } \\mathrm { O } )$ within the strips and carbon dioxide $\\left( \\mathrm { C O } _ { 2 } \\right)$ $\\mathrm { C H } _ { 4 }$ and $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions from the ditches adjusted for their global warming potentials (34 and 298 for $\\mathrm { C H } _ { 4 }$ and ${ \\mathrm { N } } _ { 2 } { \\mathrm { O } } ,$ respectively) for reed canary grasswith fertilization (RCG-F)，reed canary grass control (RCG-C) and bare peat (BP) treatments "
+        ],
+        "table_footnote": [
+            "\\*The total GHG balance is the sum of area-weighted (strip width $\\mathrm { \\Omega } = 2 0 \\ \\mathrm { m } ;$ ：ditchwidth $\\begin{array} { r l } { \\mathbf { \\Psi } } & { { } = 1 \\mathbf { \\Psi } \\mathbf { m } } \\end{array}$ ）fluxesof $\\mathrm { C O } _ { 2 } ,$ $\\mathrm { C H } _ { 4 }$ and $\\mathrm { N } _ { 2 } \\mathrm { O }$ in strips and ditches. "
+        ],
+        "table_body": "<html><body><table><tr><td>GHG flux component</td><td>RCG-F</td><td>RCG-C</td><td>BP</td></tr><tr><td>Strips</td><td></td><td></td><td></td></tr><tr><td>NEE</td><td>2.9</td><td>7.4</td><td>6.2</td></tr><tr><td>CH4</td><td>0.006</td><td>0.008</td><td>0.009</td></tr><tr><td>NO</td><td>0.21</td><td>0.15</td><td>0.10</td></tr><tr><td>Ditches</td><td></td><td></td><td></td></tr><tr><td>CO2</td><td>13.2</td><td>15.2</td><td>10.9</td></tr><tr><td>CH4</td><td>0.061</td><td>0.055</td><td>0.029</td></tr><tr><td>NO</td><td>0.04</td><td>0.07</td><td>0.17</td></tr><tr><td>Total GHG balance*</td><td>3.6</td><td>7.9</td><td>6.6</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/671c8b102c703a5b93b46a96d0df4f504e9fe38cd73025504f7ff0e58cca3e37.jpg",
+        "img_caption": [
+            "Fig.9Concentrations of dissolved organic carbon (DOC） in soil solution $( 0 { - } 5 0 ~ \\mathrm { c m }$ depth) for reed canary grass with fertilization (RCG-F),reed canary grass control (RCG-C) and bare peat (BP) treatments;error bars indicate standard error.The inset figure shows the treatment means from all sampling dates (seeFig.5 fora description of the box plot features). "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The greenhouse gas balance ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Combining the area-weighted annual $\\mathrm { C O } _ { 2 } ,$ $\\mathrm { C H } _ { 4 }$ and $\\mathrm { N } _ { 2 } \\mathrm { O }$ exchanges from the strips and drainage ditches resulted in total GHG balances of 3.6,7.9 and $6 . 6 \\mathrm { ~ t ~ C O } _ { 2 }$ eq $\\mathrm { \\ h a } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 }$ in RCG-F，RCG-C and BP，respectively (Table 4).The contribution of the combined ditch $\\mathrm { C O } _ { 2 } ,$ $\\mathrm { C H } _ { 4 }$ and $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions to the total GHG balance in RCG-F $( 1 8 \\% )$ ）was two times greater than in RCG-C $( 9 \\% )$ and BP $( 8 \\% )$ .The sum of $\\mathrm { C H } _ { 4 }$ and $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes from both strips and ditchesaccounted for 5.9,1.8 and $1 . 6 \\%$ of the total GHG balance in RCG-F，RCG-C and BP,respectively. The $\\mathrm { N } _ { 2 } \\mathrm { O }$ to biomass yield ratio (i.e., the ratio of the $\\mathrm { N } _ { 2 } \\mathrm { O }$ flux to yield in $\\mathrm { C O } _ { 2 }$ eq)increased from 0.05 in RCG-F to 0.21 in RCG-C. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Above- and belowground biomass production and allocation ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The yields in both RCG-F $( 2 . 3 \\mathrm { ~ t ~ h a } ^ { - 1 } )$ ）and RCG-C $( 0 . 4 \\mathrm { ~ t ~ h a } ^ { - 1 } )$ were at the bottom end of the range of 2.0 to $1 3 . 9 \\mathrm { ~ t ~ h a } ^ { - 1 }$ and 1.0 to $1 1 . 0 \\mathrm { ~ t ~ h a } ^ { - 1 }$ previously reported for fertilized and nonfertilized RCG cultivations,respectively (Shurpali et al.,2010;Heinsoo et al.,2011;Mander et al.,2012;Kandel et al.,2013;Karki et al.,2014).The lowyields in this studywere likely due to water stress constraining plant growth during an exceptionally dry summer. Our findings therefore suggest that RCG cultivation on abandoned peat extraction areas has limited potential for economically sustainable biomass production during dry years without proper WTL management. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "While aboveground biomassisharvestedand exported from the system，a significant fraction of belowground biomass C is permanently incorporated into the soil C pool and BNPP is therefore important with regard to long-term C sequestration (Xiong & Kätterer,201O). Specifically,RCG cultivations have been previously highlighted as systems with a higher potential for C input into the soil compared to annual crops and nonrhizomatous perennial leys due to their expansive rootstocks and high root turnover rates (Hansson & Andren,1986;Xiong & Kätterer,2010;Don et al.,2012). In our study,BNPP $( 2 0 { - } 5 6 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \\mathrm { y r } ^ { - 1 } )$ was at the lower end of the $8 0 { - } 2 3 5 \\ \\mathrm { g } \\mathrm { ~ C ~ m } ^ { - 2 } \\ \\mathrm { y r } ^ { - 1 }$ reported for irrigated RCG cultivations in Sweden (Kätterer $\\&$ Andrén, 1999）and a RCG cultivation in the same abandoned peat extraction area during wet years (Mander et al., 2012).Thus,BNPP and its contribution to soil C sequestration in RCG cultivation systems might be considerably reduced during dry years. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Fertilizer effects on plant growth and soil nutrient status might affect not only the total biomass production but also its allocation into above- and belowground components (Xiong & Kätterer,201O).For instance,the greater above- to belowground biomass ratio in RCG-F than in RCG-C suggests that fertilization resulted in greater biomass yields available for bioenergy production,however,at the cost of C allocation and long-term storage belowground.Nevertheless，given the greater absolute magnitudes of BNPP,increased C input to the soil may still occur in fertilized compared to nonfertilized RCG cultivations. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Belowground biomass dynamics have been proposed as one of the least understood aspects of plant functioning (Strand et al., 20o8). Specifically,a good understanding of the partitioning of belowground biomass into roots and rhizomes is imperative as it has important implications for nutrient uptake and storage and pro vides information on plant survival strategies (Don et al.,2012;Jones et al.,2015).The increase in the root to rhizome biomass ratio observed in our study suggests that fertilized RCG plants invest less into storage organs,that is,rhizomes,under nutrient-rich conditions. Asroots and rhizomes have different turnover times and longevity(Xiong & Kätterer，201O)，structural changes in belowground biomass due to fertilization may affect the potential for long-term soil C storage. Our study therefore highlights the need to consider fertilization effects on belowground biomass structure and allocation patterns, for example,in process-based models，to improve predictions of C sequestration under future climate and management scenarios (Strand et al., 2008; Shurpali et al., 2010; Gong et al.,2014). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Seasonal net ecosystem $C O _ { 2 }$ exchange,respiration and production ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Midday net $\\mathrm { C O } _ { 2 }$ uptake occurred only in RCG-F whereas RCG-C and BP were consistent net $\\mathrm { C O } _ { 2 }$ sources even during the midday.However,midday net $\\mathrm { C O } _ { 2 }$ uptake also occurred at RCG-C after intermittent rainfall at the end of June which indicates that nonfertilized RCG cultivations might also sequester $\\mathrm { C O } _ { 2 }$ given sufficient water supply. In comparison，both fertilized and nonfertilized RCG cultivations with $\\mathrm { V W C } > 5 5 \\%$ provided midday net $\\mathrm { C O } _ { 2 }$ uptake for the entire growing season ina Danish study (Kandel et al.,2013).Daily net $\\mathrm { C O } _ { 2 }$ uptake rates also decreased by about half from wet to dry years in a RCG cultivation in eastern Finland (Shurpali et al.,2oo9). The combined findings from this and other studies indicate that soil water availability is a major control of the $\\mathrm { C O } _ { 2 }$ sink-source strength of RCG cultivations on drained peat soils. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Understanding the controls and seasonal patterns of the NEE component fluxes GPP,NPP and RE is essential to explain the variations in NEE.Overall,the independent estimates of annual NPP and modeled GPP based on biomass and flux sampling,respectively agreed reasonably well in both RCG-F and RCG-C given that NPP commonly represents between $3 9 \\%$ and $5 8 \\%$ of GPP (Waring et al.,1998;Vicca et al.,2012).The enhanced potential for GPP and NPP due to fertilization resulted in a more pronounced response to abiotic conditions (e.g., $T _ { \\mathrm { a } }$ and PPT) in RCG-F than in RCG-C which may explain why the timing of peak production was decoupled from that of plant development and instead more closelyrelated to that of $T _ { \\mathrm { a } }$ in RCG-F. In contrast,GPP and NPP in RCG-C were considerably lower and their seasonal patterns followed closely that of the plant development. Thus,GPP and NPP might be controlled primarily by abiotic controls in fertilized RCGcultivationswhereasreducedphotosynthetic capacity might be the main constraint on plant productioninnonfertilized (i.e.,lowproductive) cultivations. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The greater midday net $\\mathrm { C O } _ { 2 }$ uptake in RCG-F relative to RCG-C was due to variations in GPP as the increase in GPP (by $6 9 \\%$ ）was larger than the increase in RE (by $3 7 \\%$ ）inRCG-F relative to RCG-C. Similarly,GPP was also reported as the main driver for interannual variations in NEE during wet and dry years in a Finnish RCG cultivation (Shurpali et al.，2009). This suggests that ensuring optimum growing conditions is essential not only for achieving economically sustainable yields but also to maximize the $\\mathrm { C O } _ { 2 }$ sequestration potential in RCG cultivations. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Heterotrophic and autotrophic respiration ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The difference in the RE partitioning into its components Rh and Ra between RCG-C $( \\mathrm { R h } > \\mathrm { R a } ,$ ）andRCG-F （204号 $( \\mathrm { R h } < \\mathrm { R a } )$ was the result of enhanced plant growth due to fertilization and the subsequent increase of Ra in RCGF.Meanwhile, fertilization had no significant effect on Rh.Previous studies reported a decrease or no effect on mineralization rates following fertilization,with the contrasting findings primarily related to the indirect effects of fertilization on soil $\\mathrm { \\Delta p H }$ (e.g.,Fog,1988;Aerts & Toet, 1997).Overall, the contribution of Rh to RE in RCG-F $( 4 2 \\% )$ was similar to the $45 \\%$ reported fora fertilized RCG cultivation in Finland (Shurpali et al.，2Oo8）but lower than the $5 5 \\mathrm { - } 7 5 \\%$ observed in other drained and natural peatlands (Silvola et al.,1996;Riutta et al.,2007; Biasi et al.,2012). Thus, fertilization of RCG systems may reducetherelativecontributionofRhto REwhich has important implications for the response of RE to management and climate impacts as the two respiratory component fluxes Ra and Rh respond to different controls, that is, to biotic vs.abiotic variables,respectively. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "During the warmest summer period (July to August), Rh was consistently higher in RCG-F and RCG-C than in the bare peat soil. Increased mineralization of organic matter in drained peat soils following cultivation and itsnegative implications for the C and GHG balances have been previously highlighted in several studies (Kasimir-Klemedtsson et al.，1997；Drosler et al.，2008; Maljanen et al.,2010; Schrier-Uijl et al.,2014).Although Rh rates were not significantly different among treatments over the entire measurement period,we estimatedthatthecumulative $\\mathrm { C O } _ { 2 }$ lossdueto mineralization during the warmest summer period (July and August) was 50 and $4 3 \\mathrm { ~ g ~ C ~ m } ^ { - 2 } \\mathrm { ~ y r } ^ { - 1 }$ greater in RCG-F and RCG-C,respectively,relative to BP.Thus,a substantial additional C input from plant $\\mathrm { C O } _ { 2 }$ uptake is required to outbalance these $\\mathrm { C O } _ { 2 }$ losses due to enhanced mineralization in cultivated organic soils. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Thefullcarbonbalance ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Our finding that both RCG-F and RCG-C as well as the bare peat soil were considerable annual $\\mathrm { C O } _ { 2 }$ sources is in contrast to previous work conducted in the same abandoned peat extractionarea inwhich both fertilized and nonfertilized RCG cultivations were $\\mathrm { C O } _ { 2 }$ sinks duringa year with above-normal precipitation (911 $8 2 6 ~ \\mathrm { m m }$ ）(Mander et al.,2012).This indicates a switch from a $\\mathrm { C O } _ { 2 }$ sink in a previous wetter year to a $\\mathrm { C O } _ { 2 }$ source during the dry year in the current study. Similarly, the $\\mathrm { C O } _ { 2 }$ sink strength of a fertilized RCG cultivation established on organic soil in Finland substantially decreased from $- 1 2 7$ and $- 2 1 1 \\textrm { g C m } ^ { - 2 } \\textrm { y r } ^ { - 1 }$ during two wet years to $^ { - 9 }$ and $- 5 2 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \\mathrm { y r } ^ { - 1 }$ in two dry years (Shurpali et al., 2009). Thus, these results highlight the risk that future increases in drought frequency (IPCC,2013) might considerably reduce the potential of RCG cultivations for C sequestration. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Furthermore,while fertilized and nonfertilized RCG systems in our study and in another study in Denmark (Kandel etal.,2013)were large $\\mathrm { C O } _ { 2 }$ sources, the Finnish RCG cultivation remained a $\\mathrm { C O } _ { 2 }$ sink even during dry years (Shurpali et al.，2O09)． These contrasting $\\mathrm { C O } _ { 2 }$ source-sink strength potentials could be related to differences in the annual mean $T _ { \\mathrm { a } }$ (6.9 and 7.3 for this study and the Danish site vs. $3 . 7 ~ ^ { \\circ } \\mathrm { C }$ for the Finnish site, respectively）and its effect on Rh.For instance,annual Rh from BP in the current study $( 1 7 0 \\mathrm { ~ g ~ C ~ m } ^ { - 2 } \\mathrm { ~ y r } ^ { - 1 } )$ （204号 was about twice that of bare peat soil at the Finnish site $( 7 2 \\mathrm { ~ g ~ C ~ m } ^ { - 2 } \\mathrm { ~ y r } ^ { - 1 } )$ during a dry year (Shurpali et al., 2008).Thus,a latitudinal effect from the positive correlation between $T _ { \\mathrm { a } }$ and Rh might determine the $\\mathrm { C O } _ { 2 }$ sink-source strength of RCG cultivation during dry yearswith reduced plant $\\mathrm { C O } _ { 2 }$ uptake. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The annual $\\mathrm { C H } _ { 4 }$ emissions of $< 0 . 0 2 \\mathrm { ~ g ~ } \\mathrm { ~ C ~ m ~ } ^ { - 2 } \\mathrm { y r } ^ { - 1 }$ from RCG-F and RCG-C were much smaller compared to the ranges of 3 to $1 4 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \\mathrm { y r } ^ { - 1 }$ reported for pristine peatlands (Roulet et al.，20o7;Nilsson et al.，2008) and of 0.5 to $1 . 5 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \\mathrm { y r } ^ { - 1 }$ observed in restored or cultivatedcutawaypeatlands(Tuittila et al.， 2000; Hyvonen et al.,2009). These low $\\mathrm { C H } _ { 4 }$ emissions were likely the result of an exceptionally low WTL which reduced the potential for anaerobic $\\mathrm { C H } _ { 4 }$ production. In comparison, $\\mathrm { C H } _ { 4 }$ emissions of 18 to $3 1 \\ \\mathrm { ~ \\bar { g } ~ C ~ m } ^ { - 2 } \\ \\mathrm { y r } ^ { - 1 }$ were observed in an Irish RCG cultivation on cutaway peatland in which the WTL remained mostly close to the surface (i.e.，within $1 0 \\ \\mathrm { c m } ,$ ）(Wilson et al.，2009). Thus,while the contribution of the $\\mathrm { C H } _ { 4 }$ exchange to the full C balance was negligible in these dry RCG systems, cultivation techniques which raise the WTL to sustain high biomass yields during dry years,for example, paludiculture(Wichtmann & Schäfer,2Oo7;Karki et al., 2014),might considerably increase the potential for $\\mathrm { C H } _ { 4 }$ emissions in cultivated organic soils. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The annual DOC export $( \\sim 4 . 2 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \\mathrm { y r } ^ { - 1 } )$ at this site was slightly lower than the 5.7 and $6 . 2 ~ \\mathrm { g }$ $\\mathrm { ~ C ~ m } ^ { - 2 } \\ \\mathrm { y r } ^ { - 1 }$ reported from a Finnish RCG cultivation in an abandoned peat extraction area (Hyvonen et al., 2013）and from a Canadian cutover peatland (Strack et al.,2011),respectively. Together, these studies suggest that the DOC export from cultivated peatlands is considerably lower in comparison withthe $1 2 \\mathrm { - } 1 5 \\mathrm { ~ g ~ }$ $\\mathrm { ~ C ~ m } ^ { - 2 } \\dot { \\mathrm { ~ y ~ r ~ } ^ { - 1 } }$ reported for natural peatlands (Roulet et al., 2007;Nilsson et al.,2008;Koehler et al.,2009).Nevertheless,despite the relatively small contribution to the full C balance $( \\sim 2 \\mathrm { - } 4 \\% )$ during the dry year in this study, DOC export might increase under management and climate scenarios that alter soil hydrology and runoff (Freeman et al.,2004). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "After incorporating all major C fluxes of $\\mathrm { C O } _ { 2 } ,$ （ $\\mathrm { C H } _ { 4 }$ and DOC from strips and ditches,all three treatments represented net C sources.Although the net C emission was lowest in RCG-F,its source strength would further increase when including the additional C loss viatheexportofharvestedbiomass $( 1 1 5 \\mathrm { ~ g ~ }$ $\\mathrm { ~ C ~ m } ^ { - 2 } \\ \\mathrm { y r } ^ { - 1 } )$ .Meanwhile，RCG-C wasa considerably greater $\\boldsymbol { \\mathrm { ~ C ~ } }$ source than RCG-F and BP，regardless of whether or not the additional export of harvested biomass was accounted for. This indicates that fertilized RCG cultivations may to some extent mitigate the negative effects on the full C balance commonly observed following cultivation of drained peat soils (Maljanen et al., 2010). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Ditch $\\mathrm { C O } _ { 2 }$ and $\\mathrm { C H } _ { 4 }$ emissions are rarely included in C balance estimates due to the small area coverage by ditches (Maljanen et al.，201O). Previous studies，however，reported considerable $\\mathrm { C H } _ { 4 }$ emissions specifically from water-logged drainage ditches in abandoned peat extraction areas (Maljanen et al.，201o;Hyvonen et al., 2013).In contrast, the $\\mathrm { C O } _ { 2 }$ flux constituted the dominant ditch C emission component in this study likely as the result of the exceptionally dry conditions at this study site at which ditches dry out completely during the summer months. Overall,ditch emissions accounted for $8 – 1 8 \\%$ of the full C balance although ditches represented $< 5 \\%$ of the area in this study. Thus,the combined $\\mathrm { C O } _ { 2 }$ and $\\mathrm { C H } _ { 4 }$ emissions from ditches might represent a significant component of the full Cbalance not only in wet but also in dry cropping systems. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The greenhouse gas balance ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions from the strips were low $( 0 . 0 3 { - } 0 . 0 7 \\ \\mathrm { g }$ $\\mathrm { N } _ { 2 } \\mathrm { O } \\mathrm { ~ m } ^ { - 2 } \\mathrm { ~ y r } ^ { - 1 } )$ in all treatments when compared to the range of $0 . 2 – 5 . 5 \\ \\mathrm { g } \\ \\mathrm { N } _ { 2 } \\mathrm { O } \\ \\mathrm { m } ^ { - 2 } \\ \\mathrm { y r } ^ { - 1 }$ reported for agricultural systems (Klemedtsson et al.,20o5;Maljanen et al., 2010; Don et al.,2012).However,high peak fluxes were observed afterrainfall which indicates that annual $\\mathrm { N } _ { 2 } \\mathrm { O }$ emission might be greater during wetter years with more frequent rainfall events.Furthermore，fertilizer application did not result in an immediate increase in $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions although it likely enhanced the potential for the high peak $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions occurring after the heavy rainfall in late June. Overall, the combined contribution of $\\mathrm { N } _ { 2 } \\mathrm { O }$ and $\\mathrm { C H } _ { 4 }$ emission from strips and ditches to the GHG balance was small $( < 6 \\% )$ during the dry year in this study.To some extent, this low contribution might be due to using the median when extrapolating $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes to the annual scale.Using the mean would have increased the contribution of $\\mathrm { N } _ { 2 } \\mathrm { O }$ $( 3 \\%$ 1 $6 \\%$ and $3 0 \\%$ ，respectively，for BP，RCG-C and RCG-F）as the mean is highly sensitive to the few extremely large peak emission rates measured in RCG-F and RCG-C. Given the highly non-normal distribution of $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes, the choice of the median over the mean appeared therefore more reasonable. Nevertheless, the large uncertainty related to upscaling of $\\mathrm { N } _ { 2 } \\mathrm { O }$ fluxes in agricultural systems remains problematic and can only be reduced through measurements with high temporal (i.e., hourly to daily） resolution. In support of our findings,other studies also found a relatively small contribution of $\\mathrm { N } _ { 2 } \\mathrm { O }$ and $\\mathrm { C H } _ { 4 }$ to the GHG balance of cultivated organic soils (Hyvonen et al.,2009; Shurpali et al.,2010;Mander et al.,2012;Karki et al.,2015a).We therefore conclude that the net $\\mathrm { C O } _ { 2 }$ exchange determines both the C and GHG balances in RCG cultivations on organic soils. Management practices need to be therefore carefully evaluated with respect to their direct and indirect impacts on the ecosystem $\\mathrm { C O } _ { 2 }$ exchange. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The recently proposed management strategy of cultivating perennial bioenergy crops with low N-demand, such as RCG,to reduce $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions compared to conventional crop cultivation (Don et al., 2012) is sup ported by the low N-emission factor (O.63) observed in this current study.However，in contrast to other perennial cropping systems (e.g.，Miscanthus） which mayproduce high yields and greater climate benefits without fertilization (Strullu et al.,2011),the lower $\\mathrm { N } _ { 2 } \\mathrm { O }$ to yield ratio in the fertilized compared to the nonfertilized RCG system in our study suggests that the increase in biomass production and net $\\mathrm { C O } _ { 2 }$ uptake largely exceed the increase in $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions (in $\\mathrm { C O } _ { 2 }$ eq）following moderate fertilization,even after accounting for the additional emissions of about $0 . 5 \\mathrm { ~ t ~ C O } _ { 2 }$ eq $\\mathrm { \\ h a } ^ { - 1 } \\ \\mathrm { \\ y r } ^ { - 1 }$ occurring during fertilizer production，transport and application (Järveoja et al.,2013). Thus,moderate fertilization could still be a beneficial management practice to maximize yield and climate benefits of RCG cultivation given the limited land resources available for reachingnational bioenergy production targets.Nevertheless, other aspects such as economic constraints,effects on combustion qualityandecological concerns(e.g., groundwater eutrophication） must be considered when evaluating optimum fertilizer rates (Smith & Slater, 2010;Verhoeven & Setter,201O; Don et al.,2012). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In contrast to previous studies suggesting that RCG cultivations provide negative GHG balances and thus mitigate the GHG emissions from drained organic soils (Shurpali et al.,2010;Mander etal.,2012),both the fertilized and nonfertilized RCG systems had positive GHG balances in the current study due to the exceptionally dry conditions during the studied year.However, previous studies indicate that a negative GHG balance could beachieved by cultivating RCG in agricultural systems with elevated WTL and sufficient soil water availability (Kätterer&Andrén,1999;Freibaueretal.,2004;SchrierUijl et al.,2014;Karki et al.,2015b).Although raising the WTL in drained organic soils might result in increased $\\mathrm { C H } _ { 4 }$ emissions,these increases have been estimated to bemodest (Komulainen et al.,1998;Tuittila et al.,2000; Wilson et al.,2009;Karki et al.,2014),and are therefore unlikely to compromise the benefitsgained from increased plant growth and $\\mathrm { C O } _ { 2 }$ uptake due to sufficient water supply. Thus,we conclude that, when converting abandoned peat extraction areas into RCG cultivations, management strategies need to ensure optimum plant growth through adequate water and nutrient supply to maximize the net ecosystem $\\mathrm { C O } _ { 2 }$ uptake asitsbenefitsarelikelytoconsiderablyexceedtheassociated potentially negative effects from increased $\\mathrm { C H } _ { 4 }$ and $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "This study was supported by the European Regional Development Fund through ENVIRON(Centre of Excellence in Environmental Adaption)，by the Ministry of Education and Researchof the Republic of Estonia (grant IUT2-16) andby the Estonian Environmental Observatory Biosphere-Atmosphere Science and Development Programme: BioAtmos (KESTA, ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "SLOOM12022T).We would like to thank Dr.Ivika Ostonen for comments and discussions,Dr.Marika Truu for participation in setting up the experiment and Dr.Veiko Uri for providing the plate lysimeters.We are grateful to Mae Uri，Kristi Jänesmägi,Kaarel Kukk and Kevin Keskiila for their help in the laboratory.We also thank the three anonymous reviewers for their constructive comments on the original version of the manuscript. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Adler PR, Grosso SJD,Parton WJ (2007) Life-cycle assessment of net greenhouse-gas flux for bioenergy cropping systems.Ecological Applications,17,675-691.   \nAerts R, Toet S (1997) Nutritional controls on carbon dioxide and methane emission from Carex-dominated peat soils.Soil Biology and Biochemistry,29,1683-1690.   \nBiasi $C ,$ Pitkamaki AS,Tavi NM,Koponen HT,Martikainen PJ(2012)An isotope approach based on C-13 pulse-chase labelling Vs.the root trenching method to separate heterotrophic and autotrophic respiration in cultivated peatlands.Boreal Enuironment Research,17,84-9.   \nCouwenberg J,Thiele A,Tanneberger F et al. (20l1) Assessing greenhouse gasemissions from peatlands using vegetation as a proxy.Hydrobiologia, 674, 67-89.   \nCrutzen PJ,Mosier AR,Smith KA,Winiwarter W (2008) $\\mathrm { N } _ { 2 } \\mathrm { O }$ release from agrobiofuel production negates global warming reduction by replacing fossil fuels. Atmospheric Chemistry and Physics,8,389-395.   \nDon A,Osborne B,Hastings A et al. (2012) Land-use change to bioenergy production in Europe: implications for the greenhouse gas balance and soil carbon. GCB Bioenergy,4,372-391.   \nDrosler M,Freibauer A,Christensen TR,Friborg T (2008) Observations and status of peatland greenhouse gas emissions in Europe.In: The Continental-Scale Greenhouse Gas Balance of Europe (eds Dolman AJ,Valentini R,Freibauer A),pp.243-261. Springer, New York.   \nFog K(1988) The effect of added nitrogen on the rate of decomposition of organic matter. Biological Reviews,63,433-462.   \nFreeman C,Fenner N,Ostle NJ et al.(2o04) Export of dissolved organic carbon from peatlands under elevated carbon dioxide levels. Nature,430,195-198.   \nFreibauer A, Rounsevell MDA, Smith P, Verhagen J (2O04) Carbon sequestration in the agricultural soils of Europe. Geoderma,122,1-23.   \nGong J Kellomaki S,Shurpali NJ et al. (2014) Climatic sensitivity of the $\\mathrm { C O } _ { 2 }$ flux in a cutaway boreal peatland cultivated with a perennial bioenergy crop (Phalaris arundinaceae,L.): beyond diplotelmic modeling.Agricultural and Forest Meteorology,198-199,232-249.   \nGorham E (1991) Northern peatlands: role in the carbon cycle and probable responses to climatic warming. Ecological Applications,1,8-195.   \nHansson A-C,Andren O (1986) Below-ground plant production in a perennial grass ley (Festuca pratensis Huds.) assessed with different methods. Journal of Applied Ecology,23,657-666.   \nHeinsoo K,Hein K, Melts I, Holm B,Ivask M(2011) Reed canary grassyield and fuel quality in Estonian farmers' fields.Biomass and Bioenergy,35,617-625.   \nHyvonen NP,Huttunen JT, Shurpali NJ,Tavi NM,Repo ME,Martikainen PJ (2009) Fluxes of nitrous oxide and methane on an abandoned peat extraction site: effect of reed canary grass cultivation. Bioresource Technology,100,4723-4730.   \nHyvonen NP,Huttunen JT, Shurpali NJ, Lind SE,Marushchak ME,Heitto L,Martikainen PJ (2013) The role of drainage ditches in greenhouse gas emissions and surface leaching losses from a cutaway peatland cultivated with a perennial bioenergy crop.Boreal Environment Research,18,109–126.   \nIPCC (2013) The physical science basis.In: Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change (eds Stocker TF, Qin D,PlattnerG-K,Tignor M,Allen SK,Boschung J Nauels A, XiaY, Bex V Midgley PM).Cambridge University Press, Cambridge.   \nJarveoja J, Laht J, Maddison M, Soosaar K,Ostonen I Mander U (2013) Mitigation of greenhouse gas emissions from an abandoned Baltic peat extraction area by growing reed canary gras: life-cycle assessment. Regional Environmental Change, 13, 781-795.   \nJones MB,Finnan JHodkinson TR (2O15) Morphological and physiological traits for higher biomass production in perennial rhizomatous grasses grown on marginal land. GCB Bioenergy,7,375–385.   \nJoostenH,ClarkeD (2Oo2)WiseUseofMiresand Peatlands:BackgroundandPrinciples Including a Framework for Decision-Making.International Mire Conservation Group and Internatonal Peat Society, Saarijarvi, Finland.   \nKandel TP,ElsgaardL,Karki S,LerkePE (20l3)iomass yieldand greenhouse ga emissions from a drained fen peatland cultivated with reed canary grass under diferent harvest and fertilizer regimes.BioEnergy Research,6,883-895.   \nKarki S, Elsgaard L,Audet J, Laerke PE (2014) Mitigation of greenhouse gas emissions from reed canary grass in paludiculture: efect of groundwater level. Plant and Soil,83,217-0.   \nKarki S,Elsgaard L,Kandel TP,Laerke PE (2015a) Full GHG balance of a drained fen peatland cropped to spring barley and reed canary grass using comparative assessment of $\\mathrm { C O } _ { 2 }$ fluxes.Environmental MonitoringandAssessment,87,62.   \nKarki S,Elsgaard L,Laerke PE (2015b)Efect of reed canary grasscultivation on grenhouse gas emission from peat soil at controlled reweting. Biogeosciences,12, 595-606.   \nKasimir-KlemedtsonA,KlemedtssonL, BerglundK,MartikainenP,SilvolaJenema O (1997) Greenhouse gas emissions from farmed organic soils: a review. Soil Useandanagement,13,245-250.   \nKaterer T,Andren O (1999) Growth dynamics of reed canarygrass (Phalaris arundinacea L.）and its allocation of biomass and nitrogen below ground in a field receiving daily irrigation and fertilisation. Nutrient Cycling in Agroecosystems,54, 21-29.   \nKinmonth-Schultz H, Kim S (2011) Carbon gain,alocation,and storage in rhizomes inresponse to elevated atmospheric carbon dioxide and nutrient supply in a perennialC3 grass,Phalarisarundinacea.Functional Plant Biology,38,797-807.   \nKlemedtsson L, Von Arnold K,Weslien P,Gundersen P (2005) Soil CN ratio as a scalar parameter to predict nitrous oxide emissions.Global Change Biology,11, 1142–1147.   \nKlove B,Sveistrup TE,Hauge A (2010)Leaching of nutrients and emission of greenhouse gases from peatland cultivation at Bodin,Northern Norway. Geoderma,154, 219-232.   \nKoehler A-K,Murphy K,Kiely G, Sottocornola M (2009) Seasonal variation of DOC concentration and annual loss of DOC from an Atlantic blanket bog in South WesternIreland.Biogeochemistry,95,231-242.   \nKomulainen V-M,Nykänen H,Martikainen PJ,Laine J(1998)Short-term efectof restoration on vegetation change and methane emissions from peatlands drained for forestry in southern Finland. Canadian Journal of Forest Research,28,402-411.   \nLemus R,Lal R (2oo5) Bioenergy crops and carbon sequestration. Critical Reviews in Plant Sciences,24,1.   \nLewandowski I, Scurlock JMO, Lindvall E, Christou M (2003) The development and current status of perennial rhizomatous grasses as energy crops in the US and Europe.Biomasandioenergy,25,3561.   \nLoftfield N,Flessa H,Augustin J, Beese F(1997) Automated gas chromatographic system for rapid analysis of the atmospheric trace gases methane,carbon dioxide, and nitrous oxide. Journal of Environment Quality,26,560.   \nMakiranta P,Hytonen J,Lasse A et al. (2Oo7) Soil greenhouse gas emissions from afforested organic soil croplands and cutaway peatlands. Boreal Environment,12, 159-175.   \nMaljanen M, Sigurdsson BD, Gumundsson J, Oskarsson H, Hutunen JT, Martikainen PJ (201o) Greenhouse gas balances of managed peatlands in the Nordic countries-present knowledge and gaps.Biogeosciences,7,2711-2738.   \nMander U,Jarveoja J,Maddison M, Soosaar K,Aavola R,Ostonen I, Salm J-O (2012) Reed canary grass cultivation mitigates greenhouse gas emissions from abandoned peat extraction areas. GCB Bioenergy,4, 462-474.   \nMcClaugherty CA,Aber JD,Melillo JM(1982) The role of fine roots in the organic matter and nitrogen budgets of two forested ecosystems. Ecology,63,1481-1490.   \nNilsson M, Sagerfors J, Buffm I et al.(20o8) Contemporary carbon accumulation in a boreal oligotrophic minerogenic mire -a significant sink after accounting for all C-fluxes.GlobalChange Biology,14,231.   \nPeichl M,Sonnentag O,Nilssn MB (2015)Bringing color into the picture: using digital repeat photography to investigate phenology controls of the carbon dioxide exchange ina boreal mire. Ecosystems,18,115-131.   \nRiutta T,Laine J,Tuitila E-S (20o7) Sensitivity of CO2 exchange of fen ecosystem components to water level variation. Ecosystems,10,718-733.   \nRoulet NT,Lafleur PM,Richard PJH,Moore TR,Humphreys ER,Bubier J(2007) Contemporary carbon balance and late Holocene carbon accumulation in a northern peatland. Global Change Biology,13,397-411.   \nSalm J-O, Maddison M,Tammik S,Soosaar K,Truu J, Mander U (2012)Emissionsof （20 $\\mathrm { C O } _ { 2 } ,$ （204号 $\\mathrm { C H } _ { 4 }$ and $\\mathrm { N } _ { 2 } \\mathrm { O }$ from undisturbed,drained and mined peatlands in Estonia. Hydrobiologia, 692,41-55.   \nSchrier-UijlAP,KroonPS,LeffelaarPA,vanHuissteden JC,BerendseF,Veal EM (2010) Methane emissions in two drained peat agro-ecosystems with high 30 5nn   \nSchrier-Uijl AP,Kroon PS,Hendriks DMD,Hensen A, Van Huissteden J, Berendse F,Veenendaal EM (2014) Agricultural peatlands: towards a greenhouse gas sink -a synthesis of a Dutch landscape study. Biogeosciences,11, 4559-4576.   \nShurpali NJ,Hyvonen NP,Huttunen JT,Biasi C,Nykänen H,Pekkarinen N, Martikainen PJ(2o08) Bare soil and reed canary grass ecosystem respiration in peat extraction sites in Eastern Finland.Tellus Series B,60,200-209.   \nShurpali NJ,Hyvonen NP,Huttunen JT et al. (20o9) Cultivation of a perennial grass for bioenergy on a boreal organic soil -carbon sink or source? GCB Bioenergy,1, 35–50.   \nShurpali NJ, Strandman H, Kilpelainen A et al. (2010)Atmospheric impact of bioenergybased on perennial crop (reed canary grass,Phalaris arundinaceae,L.) cultivation on a drained boreal organic soil. GCB Bioenergy,2,130-138.   \nSilvola J,Alm J,Ahlholm U,Nykanen H, Martikainen PJ (1996) $\\mathrm { C O } _ { 2 }$ fluxes from peat in boreal mires under varying temperature and moisture conditions.Journal of Ecology,84,219-228.   \nSmith R,Slater FM (2010) The effects of organic and inorganic fertilizer applications to Miscanthus×giganteus,Arundo donax and Phalaris arundinacea,when grown as energy crops in Wales,UK.GCB Bioenergy,2,169-179.   \nSonnentag O, Hufkens $\\mathrm { K } ,$ Teshera-Sterne C et al. (2012) Digital repeat photography for phenological research in forest ecosystems.Agricultural and Forest Meteorology, 152, 159–177.   \nStrack M,Tóth K, Bourbonniere R,Waddington JM (2011) Dissolved organic carbon production and runoff quality following peatland extraction and restoration. Ecological Engineering,37,1998-2008.   \nStrand AE,Pritchard SG,McCormack ML,Davis MA,Oren R (2008) Irreconcilable differences: fine-root life spans and soil carbon persistence. Science,319,456- 458.   \nStrullu L, Cadoux S,Preudhomme M, Jeuffroy M-H, Beaudoin N (2011) Biomass production and nitrogen accumulation and remobilisation by Miscanthus×giganteusas influenced by nitrogen stocksin belowground organs.Field Crops Research, 121, 381-391.   \nSundh I, Nilsson M,Mikkela C,Granberg G, Svensson BH (2Oo0) Fluxes of methane and carbon dioxide on peat-mining areas in Sweden. Ambio, 29, 499-503.   \nTuittila E-S,Komulainen V-M,VasanderH,NykänenH,MartikainenPJ,LaineJ (2000) Methane dynamics of a restored cut-away peatland.Global Change Biology,6,569-581.   \nUri V,Lohmus K,Mander U et al. (2011) Long-term effects on the nitrogen budget of a short-rotation grey alder (Alnus incana (L.) Moench) forest on abandoned agricultural land.Ecological Engineering,37,920-930.   \nVerhoeven JTA,Setter TL (201O) Agricultural use of wetlands: opportunities and limitations.Annals of Botany,105,155-163.   \nVicca S,Luyssaert S,Penuelas Jet al.(2012) Fertile forests produce biomass more efficiently.Ecology Letters,15,520-526.   \nWaddington JM,Warner KD,Kennedy GW (2002) Cutover peatlands: a persistent source of atmospheric $\\mathrm { C O } _ { 2 }$ Global Biogeochemical Cycles,16,1-7.   \nWaring RH, Landsberg JJ,Williams M (1998) Net primary production of forests: a constant fraction of gross primary production?Tree Physiology,18,129-134.   \nWichtmann W, Schäfer A (2oo7) Alternative management options for degraded fens - utilisation of biomass from rewetted peatlands.   \nWilson D,Alm J,LaineJ Byrne KA,FarrellEP,Tuittila E-S (2O09)Rewettingof cutaway peatlands:are we re-creating hot spots of methane emissions? Restoration Ecology,17,796-806.   \nXiong S,Katterer T (201o) Carbon-allocation dynamics in reed canary grass as affected by soil type and fertilizationrates innorthern Sweden.Acta Agriculturae Scandinavica,SectionB-Soil & PlantScience,60,24-32. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    }
+]

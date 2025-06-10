@@ -1,0 +1,480 @@
+[
+    {
+        "type": "text",
+        "text": "社会排斥对消费选择偏向的影响：怀旧的调节作用及社会联结的中介作用\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李斌\\*\\*1,2张淑颖2.3冯凯²（'暨南大学企业发展研究所，广州，510632）（暨南大学管理学院，广州，510632）(广州市南国学校，广州，510665)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要社会排斥会导致许多消极影响，人们会尝试通过各种策略对此进行缓解，而消费是其中重要的一种应对方式。本文通过3个实验考察了社会排斥和消费选择偏向（体验性消费vs.实物性消费）的关系，同时探讨了怀旧的调节作用和社会联结的中介作用。结果发现，社会排斥可以提高消费者对体验性消费的偏好，怀旧调节了社会排斥与体验性消费偏向的关系，并通过社会联结的中介作用进一步缓冲了社会排斥对消费选择偏向的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词社会排斥 消费选择偏向 体验性消费 怀旧 社会联结",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "社会排斥普遍存在于我们的日常生活，如求职被拒、表白被拒、被高档商店的员工忽视等(Lee& Shrum,2012)，甚至在与亲近的人日常来往中也经常被拒绝、被孤立和被忽视(Baumeister etal.,2005)。社会排斥这种不愉快的经历会对个体产生重大的负面影响，威胁人们的社会联结感和归属感(Mourey et al.,2017)。在缓解社会排斥引起的不适的策略中，消费是一种重要的应对方法(Chen et al.,2017; Su et al.,2019)。人们可以通过消费获得一定的心理满足感，从而缓解社会排斥导致的负面心理影响。然而社会排斥是如何影响不同性质的消费呢？其中的心理机制与边界条件是什么？这些问题暂时都还没明确的答案。本研究将从消费意图出发，将消费类型划分为体验性消费与实物性消费，来进一步探讨社会排斥和消费选择偏向之间的关系，及其影响机制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2文献综述与假设提出",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "社会排斥(socialexclusion)是指个体感到被其他个体或社会团体忽视、拒绝或孤立的情绪(Williams,2007)。社会排斥作为一种不愉快的经历，会对个体的认知、生理和心理功能产生重大影响(Baumeister et al.,2005;Mourey et al.,2017)，如在智力测试和学习能力上表现较差(Baumeister et al.,2002)、感知温度更低(Zhong&Leonardeli,2008)、会感到低自尊等(Williams＆Nida,2011)。为了缓冲社会排斥带来的负面影响，个体通常会采取新的行为或调整原有行为来应对社会排斥危机，消费行为是其中一种有效的社会排斥缓解策略(丁瑛，宫秀双，2016; Jiang et al.,2018)。Mead 等人(2011)提出，个体借助消费能够获得社会接纳感并实现归属感目标，因此在遭受社会排斥后个体会倾向于选择带有某种特征或具备某种象征意义的产品，如提高对炫耀性消费、拟人化产品、独特性产品和享乐品的偏好(Chen et al.,2017;Liang etal.,2018;Xu&Jin,2020)。那么，社会排斥也可能会影响消费者对不同消费类型的选择偏向。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "van Boven和Gilovich (2003)根据消费意图把消费活动分成了两种类型：体验性消费(experiential purchase)和实物性消费(material purchase)。体验性消费是指为了获得某种生活经历或经验而产生的消费行为，强调过程和体验；而实物性消费是指为了拥有某种实物商品而进行的消费行为，强调占有和归属(李斌等，2018)。过去的研究发现体验性消费比实物性消费更有助于提升消费者的幸福感(Lee et al.,2018; Sun et al.,2019;Weingarten& Goodman,2021)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "与实物性消费相比，体验性消费由于其社会互动性强和谈话价值高(Bastos&Brucks,2017)，人们倾向于和他人分享体验性消费(Lin etal.,2018)，因此体验性消费能够更有效地发展社会关系(Gilovich&Gallo,2020)，缓解社会排斥带来的心理危机感，提高幸福感(Galloet al.,2019;Weingarten&Goodman,2021)。因此，当人们受到社会排斥后，相对于实物性消费，更倾向进行体验性消费。由此提出",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "H1：社会排斥会影响个体的消费选择偏向，与经历社会接纳的个体相比，经历社会排斥的个体更偏向选择体验性消费而非实物性消费。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在社会排斥影响人们的消费选择偏向的过程中也可能受到其他因素的调节，如怀旧也是人们经常采用的一种应对策略。怀旧是对过去苦乐参半的渴望，以积极情感为主(李斌等，2015;Wildschut et al.,2006)。怀旧能够帮助个体维持自尊，缓解生存性威胁，增强社会联系和归属感(Juhl et al.,2010; Sedikides& Wildschut,2019; Wildschut et al.,2006)，是一种高度社会性的情感(Juhl etal.,2021)。当个体因为遭受群体排斥而产生关系缺失时，怀旧可以缓冲这种负面效应(Abakoumkin et al.,2017; Gravani et al.,2018)。由于怀旧不仅能够促进社会联系，建立更有意义的人际关系，还能加强个体的归属感；因此它能够缓解社会排斥给个体心理和认知带来的负面影响(Cordaro,2011)，此时个体对利用体验性消费缓冲社会排斥带来的威胁的迫切性下降。综上，提出",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$H 2$ ：怀旧在社会排斥对消费选择偏向的影响中起调节作用。具体来说，怀旧会缓冲社会排斥对消费选择偏向的影响，使得人们在两种消费选择偏向中没有差异或者减弱这种偏向。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "社会排斥会进一步降低社会联结感，增强社会联结需求，使得人们急需通过体验性消费提供此种社会联结感。与此同时，当人们进行怀旧时，又会提高其社会联结感，降低社会联结需求(Juhl et al.,2021; van Tilburg et al.,2019)，从而缓冲了人们对体验性消费的渴望。由此提出",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "H3：社会排斥和怀旧的交互效应通过社会联结的中介作用进一步影响人们的消费选择偏向。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/288013ade6b8e96382bc0ad67eb46851be41aeca5a53f9871f30227eb887f567.jpg",
+        "img_caption": [
+            "图1研究模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 实验1 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验1的目的是借助两个子实验验证H1，即社会排斥（vs.社会接纳）会影响个体的消费选择偏向。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1实验1a ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.1实验设计与被试",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "我们在网上招募了207名志愿者参与情境实验，排除测谎题不通过的无效被试后，得到了 202个有效被试，平均年龄是 $2 5 . 3 0 \\pm 7 . 1 4$ 岁，其中男性96人（ $47 . 5 \\%$ ）。本实验采用单因素（社会排斥vs．社会接纳）组间实验设计。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.2实验刺激物的选取 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了确定因变量所采用的实验产品，我们先招募了69名被试 $( 2 3 . 6 7 \\pm 1 . 7 9 \\$ 岁，其中44名女性)进行实物性消费和体验性消费的材料筛选。首先，让被试根据实物性消费和体验性消费的定义，回忆过往的消费经历，分别写下符合两种消费类型定义的典型消费例子。然后我们选取了分别位于每种消费类型排名前十一位的例子，如\"书籍、电影、旅行、手机、名牌鞋子、演唱会门票等”。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "接着，我们召集了两名心理学专家，一男一女，让他们分别根据价值和吸引力两方面对前面的消费类型的例子进行两两匹配。最后选择了匹配度最高的\"购买书籍”（实物性消费）和\"看电影”（体验性消费）作为两种消费类型的典型代表。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.3实验流程与测量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将被试随机分成实验组（排斥组）和对照组（接纳组），首先完成一个用来操纵社会排斥感（社会接纳感）的实验任务，该操纵方法主要参考了Breen 和 Kashdan（2011）的研究中的情境材料。两组的故事情境前提相同，为被试和朋友约好一起看一场演出。接下来通过不同情境对社会排斥进行操纵：社会排斥组的被试被告知他/她的朋友们自己去看了，却没有叫上他/她一起去；而社会接纳组的被试则被告知他/她和朋友们约定时间一起看了演出。随后对被试感受到的排斥感进行测量（如\"你感觉自己被排斥了\"等，Breen&Kashdan, 2011, $\\alpha = . 9 4$ ）。接着，让被试在一个体验性消费与实物性消费（看电影vs．购买书籍）的消费情境进行选择。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.4实验结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "首先对社会排斥的操纵进行有效性检验。结果显示，排斥组的被排斥感( $\\mathrm { \\Delta } M = 4 . 6 5$ ， $S D =$ 1.75)显著高于接纳组( $\\mathbf { \\mathit { M } } = 2 . 8 2$ ， $S D = 1 . 7 0 \\$ )， $t ( 2 0 0 ) = - 7 . 4 7 , p < . 0 0 1$ , Cohen's $d = - 1 . 0 6$ 。即社会排斥操纵成功。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对社会排斥与社会接纳两种条件下被试的消费决策类型选择进行卡方检验，结果发现（见表1），社会排斥和社会接纳两种条件下的消费选择比例有显著差异， $\\chi ^ { 2 } ( 1 ) = 6 . 8 0$ ， $p$ $< . 0 1$ ，进一步分析发现，在社会接纳情境下选择实物性消费的比例（ $5 7 . 1 \\%$ ）显著高于体验性消费 （ $4 2 . 9 \\%$ ）， $p < . 0 5$ ；在社会排斥情境下选择体验性消费的比例（ $61 . 3 \\%$ ）显著高于实物性消费（ $3 8 . 7 \\%$ ）， $p < . 0 5$ 。这说明，社会排斥改变了被试的消费选择偏向，使得人们更",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "偏向选择体验性消费而不是实物性消费。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/86e01aae3fcb890b6f4f102bdb12d3b053c699f6cbcd05ecd3d2e26c477538eb.jpg",
+        "table_caption": [
+            "表1社会排斥和社会接纳条件下消费类型选择人数比例 $( N = 2 0 2 ^ { \\cdot }$ "
+        ],
+        "table_footnote": [
+            "注：\\*\\* $p < . 0 1$ "
+        ],
+        "table_body": "<html><body><table><tr><td>社会排斥操纵</td><td>实物性消费</td><td>体验性消费</td><td>x</td></tr><tr><td>社会接纳</td><td>57.1% (52)</td><td>42.9% (39)</td><td>6.80**</td></tr><tr><td>社会排斥</td><td>38.7% (43)</td><td>61.3% (68)</td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "进一步以社会排斥作为自变量，加入性别、年龄、受教育水平和收入作为控制变量，以被试的消费选择偏向作为因变量'进行二元logistics 回归分析发现，社会排斥可以显著预测消费选择偏向， $B = . 8 8$ ， $S E = . 3 1$ ， $\\mathrm { W a l d } \\chi ^ { 2 } = 7 . 8 6$ ， $p < . 0 1$ ，这表明社会排斥会使人们对体验性消费产生更大的选择偏好。基于此，假设1得到验证。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2实验1b ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验1a初步验证了H1，实验1b尝试进一步通过不同实验范式去重复验证结果的稳健性与有效性。首先更换了社会排斥的操纵任务，采用了虚拟网络交友任务进行启动（Wan etal.,2014）。其次，改变了消费选择偏向的测量方式，采用单一维度的消费选择偏向得分进行测量(Chan& Mogilner,2017)，这样可以更敏感地测量出消费者的选择偏向程度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.1实验设计与被试",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "我们在网上招募了160名被试，排除测谎题不通过等无效被试后，得到151名有效被试，平均年龄是 $2 1 . 6 0 \\pm 4 . 3 2$ 岁，其中男性53人（ $3 5 . 1 \\%$ ）。本实验采用单因素（社会排斥vs.社会接纳）组间实验设计。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.2实验流程与测量",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将被试随机分成实验组（排斥组）和对照组（接纳组），首先完成一个用来操纵社会排斥感（社会接纳感）的实验任务，该操纵方法主要参考了Wan等人（2014）的研究中的情境材料。首先让被试阅读一段故事，然后将自己代入故事的主人公的角色。具体为被试在某社交平台上主动添加了三位感兴趣的陌生人为好友，三天之后，得到了不同交友反馈。社会排斥组的被试得到的反馈是三个人都拒绝了好友申请，而社会接纳组的被试得到的反馈则是三个人都接受了好友申请。之后，被试需要简单描述此刻的感受，然后回答自己感到被排斥的程度（同实验1a, Breen& Kashdan,2011, $\\ a = . 9 6$ ）。接着，给被试提供了两个杯子和简短的广告语（如图2），一个强调物品的拥有（杯子上写着：我的咖啡杯），另一个强调体验（杯子上写着：我的咖啡时光）。被试需要在9点计分的李克特量表上对自己的偏好进行打分（ $1 =$ 我的咖啡杯； $9 =$ 我的咖啡时光），得分越高消费选择越偏向体验性消费(Chan&Mogilner, 2017)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/edfd95f715b35d60cdb89bbb0268557586a2700fd7c8ac48e1dae93983ac0799.jpg",
+        "img_caption": [
+            "图2实验材料图例"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.3实验结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "首先对社会排斥的操纵进行有效性检验。结果显示，排斥组的被排斥感( $\\mathrm { \\Delta } M = 5 . 5 1$ ，SD= .95)显著高于接纳组( $M = 1 . 6 4$ $S D = . 9 0 { }$ ), $t ( 1 4 9 ) = 2 5 . 5 6 , p < . 0 0 1$ ,Cohen's $d = 4 . 1 8$ 。这表明社会排斥操纵成功。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "接着对两种社会情境卜被试的消费选择偏好进行差异分析，结果发现差异显著，相对社会接纳，社会排斥时消费选择偏向得分更高， $M _ { ☉ \\nexists \\rlap / { \\bmod { / } } \\vec { \\kappa } } = 7 . 7 8 , S D _ { \\substack { \\# \\rlap / { \\bmod { / } } \\vec { \\kappa } } } = 1 . 1 0 , M _ { \\substack { \\# \\rlap / { \\bmod { / } } \\vec { \\kappa } \\ll \\vec { \\kappa } \\ll \\vec { \\kappa } } } = 4 . 2 3 ,$ $S D _ { \\mathit { \\Pi } _ { \\vec { t } \\mathtt { E } \\hat { \\pi } \\vec { t } \\vec { \\alpha } \\vec { t } \\vec { \\beta } \\vec { x } \\vec { z } \\vec { y } \\vec { y } } } = 3 . 0 3$ ， $t ( 1 4 9 ) = 9 . 5 6 , p < . 0 0 1$ ,Cohen's $d = 1 . 5 6$ ，这说明被试在被社会排斥的情况下比在被社会接纳的情况下更加偏好体验性消费。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "进一步以社会排斥作为自变量，加入性别、年龄、受教育水平和收入作为控制变量，以被试的消费选择偏向作为因变量进行回归分析，结果发现社会排斥可以显著预测消费选择偏向， $B = 3 . 6 5$ ， $S E = . 4 1$ ， $t = 9 . 0 1$ ， $p < . 0 0 1$ ，这表明社会排斥会使人们对体验性消费产生更大的选择偏好，这与实验1a结果一致。基于此，假设1再次得到验证。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4实验2 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "实验1通过两个子实验重复验证了H1，即与被社会接纳的个体相比，受到社会排斥的个体的消费选择偏向更倾向于体验性消费。那么，为何在社会排斥的情境下，被试的消费选择偏向会发生变化，更倾向选择体验性消费呢？实验2除了在更大样本上重复验证实验1结果外，更进一步挖掘社会排斥影响消费选择偏向的作用机制，探讨怀旧的调节作用及社会联结的中介作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1实验设计与被试",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本实验在网上招募了712名志愿者参与问卷调查，排除测谎题不通过的无效被试后，得到了699个有效被试，平均年龄是 $2 8 . 9 6 \\pm 9 . 6 7$ 岁，其中男性365人（ $5 2 . 2 \\%$ ）。本实验采用2（社会排斥 vs.社会接纳） $\\times 2$ （怀旧vs.控制）组间实验设计，因变量为消费选择偏向。所有被试被随机分配到4种情境进行实验。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2实验流程与测量",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "实验2流程与实验1a相似，差别在于增加了怀旧的操纵。首先让被试完成操纵社会排斥感（社会接纳感）的任务，之后回答自己此时感受到社会排斥的程度（同实验1， $a = . 8 8 \\AA$ ）然后，让被试完成事件回忆任务(Juhletal.,2021)对怀旧进行操纵。先呈现怀旧的概念，接着让被试回忆过去生活中最为怀旧（或普通）的一个事件，并写下四个和怀旧（或普通）事件相关的关键词。随后对被试感受到的怀旧程度进行测量（如\"我现在感到挺怀旧的\"等，Zou etal., 2019, $\\alpha = . 9 0 { \\mathrm { ) } }$ )。接着，对被试感受到的社会联结进行测量(如\"我感到自己与亲朋好友之间紧密相连\"等，Hepper et al.,2012， $\\alpha = . 8 1$ ）。随后让被试在一个体验性消费与实物性消费（看电影 vs.购买书籍）的消费情境进行选择。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.3实验结果与分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "首先对社会排斥的操纵进行有效性检验，结果显示社会排斥组的被排斥感 $\\scriptstyle ( M = 3 . 5 1$ ，SD$= 1 . 6 5 )$ 显著高于社会接纳组 $\\mathit { M } = 3 . 1 1$ ， $S D = 1 . 4 3$ ), $t ( 6 9 7 ) = - 3 . 4 1 , p < . 0 1$ , Cohen's $d = - . 2 6$ ，这表明社会排斥操纵成功。接着对怀旧的操纵进行有效性检验，结果显示怀旧组的怀旧感 $( M _ { \\mathbf { \\Sigma } }$ $= 3 . 6 1$ ， $S D = 1 . 4 5 )$ 显著高于控制组 $\\stackrel { \\cdot } { M } = 3 . 0 4$ ， $S D = 1 . 2 5 )$ ， $t ( 6 9 7 ) = - 5 . 3 3$ ， $p < . 0 0 1$ , Cohen's $d =$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "-.42，这表明怀旧操纵成功。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对不同的社会排斥与怀旧条件下的被试消费选择比例进行分析，如下图3所示，在控制的条件下，社会排斥组（ $7 3 . 6 \\%$ ）选择体验性消费的人数比例显著高于社会接纳组（ $1 8 \\%$ ），$\\chi ^ { 2 } = 8 3 . 8 2$ ， $p < . 0 0 1$ ；在怀旧的条件下，社会排斥和社会接纳两种条件下的消费选择偏向差异显著，社会排斥组（ $5 8 . 2 \\%$ ）选择体验性消费的人数比例显著高于社会接纳组（ $2 5 . 7 \\%$ ），$\\chi ^ { 2 } = 4 5 . 4 4$ ， $p < . 0 0 1$ 。但怀旧条件下的两种消费选择比例的差距显然小于控制条件下的差距，这说明怀旧可能起到了缓冲作用。进一步分析不同社会情境下有无启动怀旧对于消费选择偏向的影响发现，当被试感到社会接纳时，怀旧和控制两种条件下的体验性消费选择比例分布没有显著差异，怀旧组（ $2 5 . 7 0 \\%$ ）和控制组（ $1 8 . 0 \\%$ ），都更倾向选择实物性消费， $\\chi ^ { 2 } = 2 . 7 1$ $p > . 0 5$ 。这说明，当个体处于社会接纳的情境时，怀旧对个体的消费选择偏向影响不显著。但在社会排斥条件下，尽管怀旧组和控制组都倾向选择体验性消费，但怀旧组选择体验性消费的比例（ $5 8 . 2 \\%$ ）显著小于控制组（ $7 3 . 6 \\%$ ）， $\\chi ^ { 2 } = 8 . 6 9$ ， $p < . 0 1$ ，这初步说明怀旧缓冲了社会排斥对体验性消费的选择倾向。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/0de958829f406d670ecff4d93223e5594410e079902c0e9a502fc7c428cdf234.jpg",
+        "img_caption": [
+            "图3怀旧在社会排斥与消费选择偏向间的调节效应"
+        ],
+        "img_footnote": [
+            "注： $^ { * * } p < . 0 0 1 , ^ { * * } p < . 0 1 \\AA$ "
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "进一步以消费选择偏向为因变量，采用Logistics回归分析社会情境、怀旧与否及两者的交互作用对于消费选择偏向的影响，同时加入性别、年龄、受教育水平和收入作为控制变量，结果如表2所示：社会排斥的主效应显著 $( p < . 0 0 1 )$ ，社会排斥下被试更倾向于选择体验性消费，再次验证H1。怀旧的主效应不显著 $( p > . 0 5 )$ ，但怀旧与社会排斥的交互效应显著 $( p$ <.001)，这说明社会排斥与怀旧的交互作用对消费选择有显著预测作用，再次验证了假设2。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/4d23da42033d7f7f22b0461d06a5b8802b59f145ed34bbd3797e943c9b05d1fc.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：社会排斥状态：社会接纳 $\\scriptstyle = 0$ ，社会排斥 $\\scriptstyle \\cdot = 1$ ；怀旧状态：控制组 $_ { . = 0 }$ ，怀旧组 $_ { \\cdot } = 1$ ；消费选择偏向：实物性消费 $\\scriptstyle = 0$ ，体验性消费 $^ { \\cdot = 1 }$ 。"
+        ],
+        "table_body": "<html><body><table><tr><td>自变量</td><td>B</td><td>SE B</td><td>Exp(B)</td><td>df</td><td>P</td></tr><tr><td>社会排斥</td><td>3.04</td><td>.34</td><td>20.99</td><td>1</td><td>.000</td></tr><tr><td>怀旧</td><td>.52</td><td>.29</td><td>1.68</td><td>1</td><td>.076</td></tr><tr><td>社会排斥×怀旧</td><td>-1.58</td><td>.40</td><td>.21</td><td>1</td><td>.000</td></tr><tr><td>确定系数</td><td></td><td>Cox&Snell R²=.28,Nagelkerke R²=.37</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "为何怀旧会缓冲社会排斥对消费选择偏向的影响？我们进一步检验此调节效应是否会通过社会联结的中介作用而达到缓冲效果。我们采用Hayes（2013，Model8）提出的被中介的调节（mediated moderation）分析法和 bootstrap 程序检验社会联结对怀旧调节作用的中介效应，以样本量选择为5000，置信区间为 $9 5 \\%$ ，加入性别、年龄、受教育水平和收入作为控制变量进行回归模型分析，结果表明，在社会排斥和怀旧的交互作用下，社会联结的中介作用显著， $B = . 2 5$ $S E = . 1 0$ ， $9 5 \\% \\mathrm { C I } = [ . 0 9 , . 4 7 ]$ 。具体来说，在控制条件下，社会联结的中介效应不显著， $B = - \\ . 1 0 , S E = . 0 7 , 9 5 \\% \\mathrm { C I } = [ - \\ . 2 6 , . 0 1 ]$ ；但在怀旧条件下，社会联结的中介效应显著， $B = . 1 4 , S E = . 0 6 , 9 5 \\% \\mathrm { C I } = [ . 0 5 , . 2 8 ] \\mathrm { } \\mathrm { } \\mathrm { }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "进一步分析社会排斥和怀旧对社会联结的影响，发现社会排斥和怀旧对社会联结的交互效应显著（见图4）， $F ( 1 , 6 9 5 ) = 1 4 . 8 8 , p < . 0 0 1 , \\eta ^ { 2 } =$ $\\eta ^ { 2 } = . 0 2$ ，在怀旧的情况下，社会排斥组的社会联结感 $\\mathrm { \\Delta } M = 3 . 7 9$ $S D = . 0 6 )$ 显著高于控制组 $( M = 3 . 4 9 , S D = . 0 6 )$ ， $F ( 1 , 6 9 5 ) = 1 2 . 0 9 , p$ $< . 0 1$ ， $\\eta ^ { 2 } = . 0 2$ ；在控制的情况下，社会排斥组的社会联结 $( M = 3 . 1 5 , S D = . 0 8 )$ 显著低于社会接纳组的社会联结感 $( M = 3 . 3 8 , S D = . 0 7 )$ ， $F ( 1 , 6 9 5 ) = 4 . 6 8 , p < . 0 5$ ， $\\eta ^ { 2 } = . 0 1$ ，这进一步说明社会排斥通过降低社会联结感增加了对体验性消费的选择偏向，而怀旧则通过提升社会联结感缓冲了社会排斥对消费选择偏向的影响。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在实验2中，我们再次验证了 $\\mathrm { H } 1$ ，即社会排斥会导致被试更偏向体验性消费。此外，证实了怀旧在此过程中起到调节作用，此调节效应可以通过社会联结的中介进一步影响被试的消费选择偏向，即验证了H2 和H3。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/6a68fb5f1b25543a1c8bca5b2a76640556b6ce0d433a7e2cded8484cd1e3eff7.jpg",
+        "img_caption": [
+            "图4怀旧在社会排斥与社会联结感间的调节效应"
+        ],
+        "img_footnote": [
+            "注： $^ { * * } p < . 0 1$ \\*， $\\dot { \\mathbf { \\zeta } } _ { p } < . 0 5$ 。"
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究从消费意图的角度出发探讨社会排斥对消费者购买行为的影响，具有积极的理论意义。首先，丰富了社会排斥的后果变量特别是消费领域的研究。先前关于社会排斥的行为研究大多集中在反社会行为、亲社会行为等(Chen et al.,2017；丁瑛，宫秀双,2016;Liang etal.,2018; Suetal.,2019)。而本研究关注社会排斥对新消费类型的偏好影响，探讨个体遭受社会排斥后，是否倾向选择体验性消费作为一种补偿机制来缓解社会排斥带来的负面影响，这同时也是对人们采用何种方式或何种消费来应对社会排斥带来的消极影响的最新补充和拓展。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "其次，拓展了消费类型的前因研究。目前将消费类型作为因变量，探讨情境因素和特质因素如何影响消费者的体验性消费和实物性消费行为的相关研究较为缺乏，只有少数研究进行了尝试(李斌等，2018;Yang etal.,2020)，当前的研究在一定程度上丰富了消费类型前因研究。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "最后，揭示了社会排斥影响消费选择偏向的心理机制。过去的研究发现社会排斥会增强人们建立新的社会联系的欲望(Lakin et al.,2008;Maner etal.2007)。本研究基于先前社会排斥影响社会联结的研究，引入怀旧的调节作用以增强社会联结感(Wildschut et al.,2006,2010;Zhou etal.,2008)，更进一步揭示社会排斥影响个体消费选择偏向的背后机制。这无疑也促进了人们对社会排斥与消费类型的两者关系更深刻的理解。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究同时具有一定的实践价值。首先，对商家的营销工作开展具有一定价值。如企业在推广体验性产品的营销实践中，适当借助故事广告启动消费者的社会联结需求，这样可以增加他们对体验性消费的偏好取得更好的营销效果。其次，也对消费者在面对自我威胁情境下的应对策略有所启示。如在遭受社会排斥后，消费者可以通过进行体验性消费与怀旧等手段去消除或缓冲随之而来的自尊威胁、社会联结水平降低等负面影响。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "但是本研究仍在存在一定的局限性和不足，需要未来的研究进一步关注和探讨。首先，关于研究范式。受到疫情影响，本研究在三个实验中均采用的线上情境实验的方式进行，未来研究可以考虑采取线下实验室实验的方式以严格控制相关的实验条件，增强实验的严谨性。其次，关于心理机制。被试的一些相关特质如物质主义、社会地位等没有被考虑进去，它们也可能影响人们的消费决策，未来研究可以考虑不同特质的消费者在遭受社会排斥后的消费选择偏向是否有差异。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "丁瑛，宫秀双.(2016).社会排斥对产品触觉信息偏好的影响及其作用机制.心理学报,48(10),1302-1313.  \n李斌,马红宇，李爱梅，凌文轻.(2015).怀旧的触发、研究范式及测量.心理科学进展,23(7),1289-1298.  \n李斌，卫海英，李爱梅，李方君，陈晓曦.(2018).体验性消费与实物性消费的双加工理论模型：现象、机制及影响因素．心理科学进展,26(5),761-769.  \nAboJournal ofSocial Psychology,47(3),373-381.  \nBastosd598-612.  \nte589-604.  \netePersonality andSocial Psychology,83(4),817-827.  \nBn  \nChan,C  \nChR23-34.  \nCordaroF(oUUi",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "al 177-190. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Gilovich,T&tatpo ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Gravanid   \nHayes,Fl   \nHppe 102-119.   \nJiagH Journal ofConsumer Behaviour,17(1),34-46.   \nJl Personality,4(3),014.   \nJJ   \nLiL Science, 19(8),16-822. Research,39(3),530-544.   \nJ   \ning. conspicuous consumption.Journal ofConsumer Behaviour,17(4),355-365.   \nL Human Behavior,85,71-81.   \na JournalofPersonalityand Social Psychology,92(1),42-55.   \nMeadL affiliation.Journal ofConsumer Research,37(5),902-919.   \noreyJ Research, 44(2),414–431.   \nSedikidesCt)lpodcialovefcial   \nSuLa 46(4),808–824.   \nu needsatisfaction.AsianJournalofSocialPsychology,22(4),391-400.   \nvanBoven,L,ich).atihestioulfeoalidialso EuropeanJournalofSocialPsychology,49(3),521-532.   \nWaEu   \nWeigrten 855-877.   \nWit   \nildt Journal ofPersonality and Social Psychology,98(4),573-586.   \nWilliams,K.D.(2007).Ostracism.Annual Review ofPsychology,58,425-452.   \nWilliams,K.D&Nda,.(l1).Ostraism:CosencsdoingCuentirectiosinologicaliec,(5.   \nXuW Logistics,33(2),351-370.   \nagC Social Psychology,23(3),328-338.   \nZhong,C.-Badel()deloialeioliallloloicalc4   \nZh 1023-1029. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The Effect of Social Exclusion on Consumer Choice: The ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Moderating Role of Nostalgia and Mediating Role of Social ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Connectedness ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Li Bin1,2, Zhang Shuying2,3, Fung Hoi² (lThe Institute of Enterprise Development, Jinan University, Guangzhou, 510632) (2Management School, Jinan University, Guangzhou, 510632) (Guangzhou Nanguo School, Guangzhou, 510665) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "AbstractIt is usual for individual to feel socially excluded.As an unpleasant experience, social exclusion results in adverse effect on individual's cognitive, physical and psychological functions. Social exclusion refers to a feeling of being ignored,rejected or isolated by other individuals or social groups. Previous studies have shown that individuals generally resort to consumption to alleviate the negative effects of social exclusion， for example, they have a preference for unique products and anthropomorphic products after being socially excluded.van Boven & Gilovich (2O03） classified purchases into two types: experiential purchase and material purchase.Experiential purchase refers to those made with the main purpose of obtaining life experience such as watching a movie and going to a concert while material purchase refers to those made with the main purpose of obtaining a tangible good such as buying accessories and clothes. However,so far there are few studies atempting to examine the effect of social exclusion on experiential purchase and material purchase. The current research aims to explore the efect of social exclusion on experiential purchase and material purchase. Meanwhile, this research also interested in investigating the factors that might moderates the effects of social exclusion on experiential purchase and material purchase and factors that might mediate the moderating effects. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Study la and 1b respectively used a single-factor (social exclusion vs. social inclusion) betwen-subject design to explore the effect of social exclusion on consumer purchase. Participants were asked to take times to imagine that they were the protagonist of the story and reported which consumption activity (experiential purchase or material purchase) to get involved after reading the story. In study 2,a two-factor (social exclusion vs. social inclusion; nostalgia vs.control) between-subject design were employed to investigate the moderating role of nostalgia and mediating role of social connectedness.Participants were randomly assigned to the socially included group or the socially excluded group. Social exclusion and inclusion were manipulated in the same way as study 1. Right after the exclusion or inclusion manipulation there was another task requiring participants to recall a nostalgic event or an ordinary event in order to manipulate nostalgia.Participants were also randomly asigned to nostalgic group and control group. Then they were required to report their feelings of social connectedness and decide which purchase (experiential purchase or material purchase) to have. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Our findings are as follows: (1) Compared with those who are socially included, socially excluded individuals are more likely to have experiential purchase over material purchase.(2） Nostalgia moderates the efect of social exclusion on purchase. Specifically,after being socially excluded, there is a significant difference on the purchase decision between nostalgic individuals and control ones. Participants in the control group prefer to choose experiential purchase more than nostalgic individuals. However,for those who are socially included, there is no significant difference on purchase decision between nostalgic group and control one. (3） Social connectedness mediates this moderation effect. Taken together, these findings indicate that socially excluded consumers have a tendency towards experiential purchase, which enriches the researches of the antecedent of experiential purchase and the consequence of social exclusion. Furthermore, it reveals an important underlying mechanism to cope with the negative influence of social exclusion. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Keywords social exclusion, consumer choice, experiential purchase, nostalgia, social connectedness ",
+        "page_idx": 14
+    }
+]

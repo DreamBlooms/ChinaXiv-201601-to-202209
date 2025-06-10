@@ -1,0 +1,594 @@
+[
+    {
+        "type": "text",
+        "text": "反向蒙特卡罗方法在卫星辐射分析中的研究与应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "兰婷1.2 陈东1 陈善强 师立勤1 刘四清1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1(中国科学院空间科学与应用研究中心北京 100190)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2(中国科学院大学北京 100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要反向蒙特卡罗方法（AMC/RMC)是Geant4中一个强有力的偏置技术.粒子产生于包含灵敏体的反向界面并在几何体中被反向追踪直至外界面或溢出能量阈值，其计算时间只集中于对结果有贡献的粒子径迹．与正向蒙特卡罗方法（FMC）相比，RMC 更高效，特别是当灵敏体远小于几何体其他部分和外界面时，其优势更明显。通过RMC与FMC 的比较,验证了RMC 应用于卫星辐射剂量分析的准确性.RMC与 SHIELDOSE2和 SSAT的比较说明了RMC是高精度卫星辐射剂量的优选方法.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 Geant 4,RMC,辐射剂量中图分类号 P3",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Implementation of Adjoint/Reverse Monte Carlo Method in the Analysis of Satellites Radiation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LAN Ting1,2 CHEN Dong1 CHEN Shanqiang1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SHI Liqin1 LIU Siqing1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1(Center for Space Science and Applied Research,Chinese Academy of Sciences,Beijing 100190) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2(UniversityofChineseAcademyofSciences,Beijing 1o0049) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract The Reverse Monte Carlo (RMC) method is a powerful biasing technique available in Geant 4,also known as the Adjoint Monte Carlo method. In this method,particles are generated on the external boundary of the sensitive part of the geometry and then tracked backward in the geometry till they reach the external source surface, or exceed an energy threshold. By this way the computing time is focused only on particle tracks that are contributing to the talies.The RMC method is much rapider than the Forward Monte Carlo (FMC) method when the sensitive part of the geometry is smaller compared to the rest of the geometry as well as the external source. Compared with the FMC method,accuracy of the RMC method applied to the radiation dose of the satellite is verified. Comparisons of RMC with the SHIELDOSE2, SSAT show that RMC is the preferred method of high-precision satellite radiation dose. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key wordsGeant 4, RMC,Radiation dose ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "空间辐射环境[1-2]的主要来源包括地球辐射带、太阳高能粒子、银河宇宙射线等.由于这些辐射源的存在，空间辐射环境十分复杂.辐射带粒子和太阳高能粒子等不仅局限在材料表面发生相互作用，能量高的粒子会穿过材料表面进入材料内部,影响航天器内部载荷的正常运行.研究分析辐射效应对航天器的辐射防护具有重要意义.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "前向 (正向)蒙特卡罗方法 (FMC)[3] 起源于 20世纪40年代，是一种随机抽样技巧,粒子直接从外部射入并正向追踪.为得到期望的精确模拟结果，蒙特卡罗模拟通常需要大量的计算时间．当灵敏体与剩余几何体以及外界面相比均很小时，很多计算时间花费在对探测器信号并无贡献的粒子群上.这种情况下反向蒙特卡罗方法（RMC/AMC）能用于加速计算.反向蒙特卡罗方法最早被成功应用是在20世纪60年代，核科学家通过反向蒙特卡罗方法得到核反应堆某些部分辐射剂量的快速评估[4-5]．在空间系统辐射分析方面反向蒙特卡罗方法还被用于NOVICE代码中[6].",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "常见的蒙特卡罗方法仿真软件主要有MORSE,$\\mathrm { E G S ^ { \\ast } }$ ， ${ \\mathrm { M N C P } } ^ { * * }$ ， $\\mathrm { N O V I C E ^ { * * * } }$ ，Geant $4 ^ { * * * * * }$ 等，其中 NOVICE 和Geant4 可实现反向蒙特卡罗模拟.NOVICE商用软件目前无法获取，Geant4给出了反向蒙特卡罗方法的开源，但只提供两种简单能谱的反向蒙特卡罗辐射计算[7]．在中国反向蒙特卡罗方法主要用于医学、飞行器、机械制造等红外热辐射特性研究,Dong,Qi,Shuai等[8-11]在这方面有较多研究成果，但在航天器剂量分析领域的应用相对较少．本文基于Geant4的RMC模块实现了任意能谱的反向蒙特卡罗剂量分析，通过与FMC，SHIELDOSE2,SSAT等进行比较，研究反向蒙特卡罗方法用于高精度剂量计算的可行性",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1基本原理与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 Geant4RMC模块 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "反向蒙特卡罗方法(Reverse/AdjointMonte",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Carlo,RMC/AMC)是Geant4中一个强有力的偏置技术.粒子在几何体灵敏部分的反向界面(见图1界面 $A$ ）上产生，之后在几何体中被反向追踪直至到达外界面或者溢出能量阈值．这样计算时间只针对于对结果有贡献的粒子径迹．当几何体的灵敏部分相比其他部分和外界面(见图1界面 $B$ ）(扩散的且不像激光束)很小时，RMC方法比正向蒙特卡罗方法快很多．目前RMC方法在Geant4中只用于实现部分电磁过程,即电子、质子和离子的反向离散电离(通过电子离化和韧致辐射以及质子和离子电离得到的持续能量获得)以及电子的反向离散韧致辐射、反向光电效应、反向康普顿散射和近似多重散射．RMC是Geant4中一个重要模块，从版本9.3加入，这里所使用的版本为Geant4.9.5.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 反向蒙特卡罗方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如图1所示，反向粒子（反向电子、反向 $\\gamma$ 粒子等)在反向界面 $A$ 持续产生，带有随机的位置、能量 $( 1 / E$ 分布）和方向．反向界面为用户定义体或球的外界面，包含一个或几个灵敏体，相对于整个几何体来说是小的.用户可设定反向界面的最大和最小值．反向初级粒子产生后在几何体中被反向追踪直至到达一个用户定义的外界面 $B$ (球面或立体界面)或在达到用户定义的最高能量限制前被终止，这个能量限制代表外界面的最大能量.在反向踪迹中，反向过程发生在反向粒子在几何体内被追踪或散射或转换成其他类型的反向粒子处．一个反向追踪阶段对应一个Geant4事件",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如图1中路径1所示，当一个反向粒子达到外界面 $A$ 时，其权重、类型、位置和方向被记录，同时一个与最后产生的初级反向粒子类型相同、能量相同但方向相反的常规粒子产生，在灵敏区域被正向追踪，像正向蒙特卡罗方法模拟一样进行权重抽样．一个正向追踪阶段对应一个Geant4事件.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "产生于反向界面并在模拟中考虑的反向和正向粒子类型表是一个在物理表中声明过的反向过程函数．例如如果只考虑电子和 $\\gamma$ 电磁过程，则只将反向电子和反向 $\\gamma$ 粒子作为初级粒子.这样一个反向事件将被分为4个G4事件，即反向电子的反向追踪、正向电子的正向追踪、反向 $\\gamma$ 粒子的反向追踪和正向 $\\gamma$ 粒子的正向追踪.因此 100 个反向事件需考虑 400个G4事件．如果将质子的离化也考虑进来，反向质子和正向质子也作为初级粒子，则100 个反向事件需考虑600个G4事件.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 真实环境模拟处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Geant4中只能实现两种能谱分布，即简单的指数分布和幂指数分布，而空间环境却是复杂多变的，为实现广泛应用这里将针对外部环境真实能谱进行分析.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "外界环境采用的是辐射带模型 $\\mathrm { A E 8 ^ { [ 1 2 ] } }$ 在太阳峰值时处于低轨道 (近地点 $4 0 0 \\mathrm { k m }$ ，远地点 $\\mathrm { 5 0 0 k m } )$ 高度的捕获电子微分能谱，如图2所示.在反向蒙特卡罗模拟中需对图2所示的任意能谱采用线性插值方法，插值多项式",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\np ( E ) = f ( E _ { 0 } ) + \\frac { f ( E _ { 1 } ) - f ( E _ { 0 } ) } { E _ { 1 } - E _ { 0 } } ( E - E _ { 0 } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/21ae79f71e681601d802ba01b092a3777fb0d647733c15a9297f9abd801ba4e4.jpg",
+        "img_caption": [
+            "图1反向蒙特卡罗模块在Geant4中的实现过程 Fig.1Schematic view of an adjoint/reverse simulation in Geant 4 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/45dd4c0badc12beb4698f48a6b9c33264bccb88e6afd2ac34dd8df992273dca9.jpg",
+        "img_caption": [
+            "图2外部环境卫星轨道能谱(AE8Max) Fig.2Satellite particle energy spectrum (AE8Max) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 归一化处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "正向蒙特卡罗方法得到的模拟结果是针对每个事件数给出的，其对应于归一化到外部源发出的一个粒子积分通量．实际剂量需进一步通过公式处理得到真实粒子数才能计算分析.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "归一化粒子数 $N _ { \\mathrm { r } }$ 主要与能谱分布和角分布有关.假设给定外部积分能谱 $\\varPhi$ (单位 $\\mathrm { c m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 } { \\cdot } \\mathrm { s } \\mathrm { r } ^ { - 1 } )$ ，则 $N _ { \\mathrm { r } } ~ = ~ \\phi 4 \\pi ^ { 2 } R ^ { 2 }$ ．这里给定的是离散全向微分能谱 $\\varPhi ^ { \\prime }$ (单位 $\\mathrm { c m ^ { - 2 } { \\cdot } s ^ { - 1 } }$ ，有",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\varPhi ^ { \\prime } = \\sum \\Big [ \\frac 1 2 ( E _ { i + 1 } - E _ { i } ) ( f _ { i } - f _ { i + 1 } ) + } \\\\ { \\displaystyle f _ { i + 1 } ( E _ { i + 1 } - E _ { i } ) \\Big ] , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "即 $\\varPhi ^ { \\prime } = \\frac 1 2 \\sum ( E _ { i + 1 } - E _ { i } ) ( f _ { i } + f _ { i + 1 } ) .$ （204号由此得出正向归一化粒子数",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN _ { \\mathrm { r } } = \\phi ^ { \\prime } \\pi R ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "与正向蒙特卡罗方法模拟类似，反向蒙特卡罗方法模拟通过抽样微分截面计算反向权重因子归一化到真实情况．在反向蒙特卡罗方法中，对每一个散射初级粒子和反向反应的产物均考虑一个相应的独立反应．一个给定的反向反应的抽样反向微分截面 $\\partial ^ { 2 } \\sigma ^ { + } ( E ) / \\partial E \\partial \\varOmega$ 等于带有倒置的发射体和产物(或散射发射体）能量的正向微分截面，即",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial ^ { 2 } \\sigma ^ { + } ( E ) } { \\partial E ^ { \\prime } \\partial \\varOmega } = \\frac { \\partial ^ { 2 } \\sigma ( E ^ { \\prime } ) } { \\partial E \\partial \\varOmega } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中, $\\partial ^ { 2 } \\sigma ( E ^ { \\prime } ) / \\partial E \\partial \\varOmega$ 为正向反应的微分截面, $\\varOmega$ 给出了产物或散射发射体相对于发射体的方向．不考虑其他偏置和权重修正，反向权重为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } {  { W = W _ { \\mathrm { d } } \\mathrm { e } ^ { - \\int _ { 0 } ^ { x _ { 1 } } \\sum _ { j , t } ^ { + } ( E _ { 1 } , x ) \\mathrm { d } x } N _ { A } \\frac { \\partial ^ { 2 } \\sigma ( E _ { 0 } ) } { \\partial E _ { 1 } \\partial \\varOmega } \\mathrm { d } x \\mathrm { d } E _ { 0 } \\mathrm { d } \\varOmega _ { 0 } . } } \\\\ & { } & { \\mathrm { e } ^ { - \\int _ { 0 } ^ { x _ { 0 } } \\sum _ { i , t } ^ { + } ( E _ { 0 } , x ) \\mathrm { d } x } W _ { n } . \\quad \\quad \\quad ( } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $W _ { \\mathrm { d } }$ 与探测表面的反向初级粒子的抽样有关$W _ { \\mathrm { n } }$ 为外部通量的归一化因子.外部通量的归一化是通过乘以反向粒子到达外界面的权重来实现的，同时伴随相应的方向通量.因此到达外界面的反向权重",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { W = \\mathrm { d } E _ { 1 } \\mathrm { d } \\varOmega _ { 1 } \\mathrm { d } S _ { \\mathrm { d } } \\cos \\theta _ { \\mathrm { d } } \\mathrm { e } ^ { - \\int _ { 0 } ^ { x _ { 1 } } \\sum _ { j , t } ^ { + } ( E _ { 1 } , x ) \\mathrm { d } x } N _ { A } . } \\\\ & { \\qquad \\frac { \\partial ^ { 2 } \\sigma ( E _ { 0 } ) } { \\partial E _ { 1 } \\partial \\varOmega } \\mathrm { d } x \\mathrm { d } E _ { 0 } \\mathrm { d } \\varOmega _ { 0 } \\mathrm { e } ^ { - \\int _ { 0 } ^ { x _ { 0 } } \\sum _ { i , t } ^ { + } ( E _ { 0 } , x ) \\mathrm { d } x } f ( E _ { 0 } , \\varOmega _ { 0 } ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2辐射剂量分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 RMC与FMC电子屏蔽分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 几何模型与环境 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "所模拟的结构体为半径 $1 0 \\mathrm { c m }$ 屏蔽厚度 $1 \\mathrm { m m }$ 的简单球体，灵敏体为位于球心的半径 $\\mathrm { 5 } \\mathrm { m m }$ 高度 $\\mathrm { 5 } \\mathrm { m m }$ 的圆柱体，垂直方向距离球心 $6 \\mathrm { c m }$ 和 $- 6 \\mathrm { c m }$ 处各有一块长宽均为 $4 \\mathrm { c m }$ 厚度 $0 . 2 5 \\mathrm { m m }$ 的Ta板.精度作为截断误差取为 $5 \\%$ ．计算机CPU型号为IntelCorei5-2400，主频 $3 . 1 0 \\mathrm { G H z }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "精度定义为正向和反向蒙特卡罗模拟时计算沉积在灵敏体的能量所设定的预期精确度.即当计算出的相对统计误差沉积能量达到该精度时运行中止并记录结果，否则继续运行按照用户指定的事件数处理．在默认情况下预期精度被设置为0,这意味着运行将不会中止.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 模拟结果对比分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将反向蒙特卡罗模拟结果与正向蒙特卡罗作对比,得到的总能量分别为 $1 3 2 . 7 2 \\mathrm { M e V }$ 和 $1 3 3 . 8 6 \\mathrm { M e V }$ 中即剂量为 $1 . 1 6 0 4 1 \\times 1 0 ^ { - 6 }$ rad 和 $1 . 1 7 0 3 5 { \\times } 1 0 ^ { - 6 }$ rad,将正向蒙特卡罗结果作为参考值，相对误差为 $0 . 8 5 \\%$ 业由于Geant4本身反向物理过程处理带来的误差及其他误差，正向与反向蒙特卡罗模拟对比误差达到约 $1 0 \\%$ 都是可信服的.因此反向蒙特卡罗方法与正向蒙特卡罗方法在电子屏蔽剂量分析中的准确性是可比拟的.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图 $3 { \\sim } 5$ 分别为给定几何体在捕获电子能谱作用下正向和反向蒙特卡罗得到的模拟结果对比.图3为灵敏体中沉积能量随初始电子能量的变化，正向和反向蒙特卡罗结果符合较好.图4为进入灵敏体的电子通量随能量的变化，图5为进入灵敏体的 $\\gamma$ 通量随能量的变化.",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4651ff162f9d95cfedab73e5d954ea50f8181e2b20457829a5107136c4c9e5d2.jpg",
+        "img_caption": [
+            "图3灵敏体沉积能量与初始电子能量的变化关系 Fig.3Energy deposited in the sensitive volume versus primary electron energy "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "误差大的部分原因在于初始能谱高能电子较少导入外部真实环境的模拟离散插值也会带来一部分误差．在极少数情况下，到达外部源时反向轨迹可能会产生一个很高的权重.虽然这不显著发生，但往往会影响模拟结果．反向多重散射和反向轫致辐射在Geant4中的处理也有一定误差.对于反向多次散射，使用与正向相同的模型.这种近似使得反向与正向蒙特卡罗方法模拟之间存在差异．对于轫致辐射，反向与正向蒙特卡罗模拟模型中使用的微分截面之间的区别是在反向蒙特卡罗模拟中 $> 1 0 0 \\mathrm { k e V }$ 的产生界面有更高的 $\\gamma$ 通量．反向过程应利用方向微分截面对反向次级粒子进行抽样并计算反向微分截面，而事实上使用的微分截面是通过数值推导由正向模型提供的方向截面在次级 $\\gamma$ 能量上获得的，正反向微分截面不匹配",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f9d20dacbf498039d42ce04e6fb5e40801704db85bd0311565854ea4a8e648e.jpg",
+        "img_caption": [
+            "图4灵敏体中电子通量随能量的变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb1ae95a63fb0c3762e40a1ed165e5c65d178650c169c5e625487672dcb3b85f.jpg",
+        "img_caption": [
+            "Fig.4Fluence of electron entering the sensitive volume ",
+            "图5灵敏体中 $\\gamma$ 通量随能量的变化 Fig.5Fluence of $\\gamma$ entering the sensitive volume "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图6给出的是电子离散能谱环境精度取 $5 \\%$ 屏蔽厚度 $d$ 取 $0 . 1 \\mathrm { m m }$ 情况下灵敏体大小变化影响正向与反向蒙特卡罗方法的模拟结果．圆柱体灵敏体大小由灵敏体底面半径和高度决定.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图6图（a）为两种方法针对不同灵敏体大小对沉积剂量的影响．由图6(a）可知，灵敏体大小对沉积剂量的影响很大，尺寸越小剂量沉积越多，相对而言计算难度越大．而正向和反向两种蒙特卡罗方法模拟结果符合较好,误差较小,均在 $6 \\%$ 以内,这说明自定义轨道能谱应用于电子屏蔽的Geant4工具包蒙特卡罗计算是可行的，通过与正向蒙特卡罗模拟结果的对比说明反向蒙特卡罗用于电子屏蔽剂量计算准确度是可信服的.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图6(b)为两种方法对比模拟的相对误差与灵敏体大小之间的关系.由于Geant4本身反向物理过程处理带来的误差及其他误差使得正向和反向蒙特卡罗模拟对比误差在约 $1 0 \\%$ 内都是可信服的.图6(b)",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "中可见误差浮动区间为 $0 \\mathrm { \\sim } 6 \\%$ ，平均误差 $3 . 6 9 \\%$ ，结果较好.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图6(c)给出了两种方法在精度取 $5 \\%$ 而屏蔽厚度 $d$ 取 $0 . 1 \\mathrm { m m }$ 情况下要达到预期精度的计算时间随灵敏体大小的变化．对于正向蒙特卡罗方法而言，灵敏体尺寸越小耗时越久，从几分钟变化到几十小时，跨越3个数量级，而反向蒙特卡罗方法基本耗时不变，稳定在几秒钟.随着屏蔽厚度和精度的变化，反向蒙特卡罗方法计算时间也较稳定而正向蒙特卡罗方法则不稳定.这是反向蒙特卡罗方向的一个优点.在模拟中还发现精度与计算时间成负相关，精度越小，计算时间越长，正向蒙特卡罗方法耗损的时间越多，这可用于电子的屏蔽计算．质子模拟过程计算时间较短，这是因为质子追踪路径多为直线，而电子散射较多.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "用于鉴定运算时间的品质因子灵敏值FOM（定义符号 $S _ { \\mathrm { F O M } } \\mathrm { \\backslash }$ ）为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { \\mathrm { F O M } } = \\frac { 1 } { R ^ { 2 } T } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中, $R$ 为计算沉积能量的精确度， $T$ 为以分钟为单",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5550b456e8bd56bfa6ac07cb78347ad2cbf222fcbd6c01f16f22cac30c4993cb.jpg",
+        "img_caption": [
+            "图6灵敏体大小对沉积剂量和计算时间的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.6Different sizes of the sensitive volume affect on computed dose and computing time位的计算所消耗的时间．本文精度 $R$ 取 $5 \\%$ ，正向蒙特卡罗方法和反向蒙特卡罗方法的计算时间分别为 41085.4s和 $\\mathrm { 1 9 . 6 0 9 s }$ 。品质因子分别为0.58和1224.这意味着要达到相同的精度反向蒙特卡罗方法比正向蒙特卡罗方法快大约2110倍.这便是反向蒙特卡罗方法的最大优势之处.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由此可知，反向蒙特卡罗方法是计算剂量精度较高且高效的方法.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2 RMC与SHIELDOSE2和扇段分析法比较",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "目前用于计算剂量的常用方法是简单的球模型和平板模型法、较复杂的扇段法 (射线追踪法）以及三维蒙特卡罗方法．简单的球模型和平板模型法是将卫星结构简化为简单的几何结构，计算简单几何屏蔽结构中的辐射剂量，代表工具例如 SHIELDOSE2[13-14]．扇段分析法 (射线追踪法)是考虑卫星三维屏蔽结构，但简化粒子与材料的相互作用,代表工具例如 SSAT[15]．三维蒙特卡罗方法既考虑粒子与材料的相互作用过程，又可以处理复杂的三维屏蔽结构，所以精度更高，而且反向蒙特卡罗比正向蒙特卡罗更高效.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 与 SHIELDOSE2 比较",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "SHIELDOSE2是航天工程中常用的辐射剂量计算软件，可以计算四种简单屏蔽下的辐射剂量，包括有限平板、半无限平板、实心球和球壳屏蔽．选择实心球模型与RMC进行比较.选择实心球材料为Al (密度 $2 . 7 \\mathrm { g } \\cdot \\mathrm { c m } ^ { - 3 } .$ )，目标灵敏球的材料为Si（密度 $2 . 3 3 \\mathrm { g } \\cdot \\mathrm { c m } ^ { - 3 } .$ ).由于Geant4中不允许载荷有重叠,在反向蒙特卡罗方法模拟中需要挖空比灵敏球大一点的区域.选择挖空半径为灵敏体球半径.外界环境采用的是电子辐射带模型AE8在太阳峰值时处于地球同步轨道高度的粒子能谱数据，时间周期为一年，",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图7 给出的是 SHIELDOSE2 和反向蒙特卡罗方法模拟得到的捕获电子沉积剂量随A1屏蔽实心球半径变化的曲线．Al 屏蔽球尺寸由屏蔽半径决定．在同步轨道上质子虽然对总剂量也有贡献，但是贡献最大的是电子，而且其随半径变化最显著，所以对比的主要是捕获电子沉积剂量．可以看出,二者随 Al 屏蔽球尺寸变化趋势基本相同，半径越小则屏蔽厚度越小，沉积剂量越大，随半径增大变化趋势越剧烈．例如当A1屏蔽球半径取 $3 \\mathrm { m m }$ 灵敏体球半径取 $1 \\mathrm { n m }$ 时，SHIELDOSE2 捕获电子沉积剂量为 $3 . 2 7 8 0 0 \\times 1 0 ^ { 4 } \\mathrm { r a }$ ，RMC计算的出的剂量为 $3 2 4 6 2 . 6 9 \\mathrm { r a d }$ 。相对误差为 $0 . 9 8 \\%$ ：当Al屏蔽球半径取 $7 \\mathrm { m m }$ 灵敏体球半径取 $1 \\mathrm { n m }$ 时，SHIELDOSE2捕获电子沉积剂量为 $3 . 6 3 9 0 0 \\times 1 0 ^ { 2 } .$ rad,RMC计算的剂量为219.67rad，相对误差为 $6 5 . 6 5 \\%$ .将RMC计算结果作为参考值，相对误差变化分析如图8所示",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图8表明了SHIELDOSE2和RMC两种方法模拟得出的沉积剂量之前的相对误差与A1屏蔽球半径变化之间的关系.当Al屏蔽球半径范围在 $0 . 1 { \\sim } 5 \\mathrm { m m }$ 内时两者误差较小，随着屏蔽球半径增大，误差在半径为 $ { \\mathrm { 3 } }  { \\mathrm { m m } }$ 时达到一个最小峰值，半径 $\\mathrm { 5 } \\mathrm { m m }$ 之后继续增大则误差也随之增大．在半径较小或较大时误差都较大，误差从 $0 . 9 8 \\%$ 到 $6 5 \\%$ 变化不等,平均误差为 $3 0 . 5 2 \\%$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "前面通过与正向蒙特卡罗方法的比较已经说明反向蒙特卡罗方法在电子屏蔽计算剂量时的准确度是可信的.SHIELDOSE2是利用预先计算的电子和质子蒙特卡罗模拟结果推算出来的剂量[16],图8表明在屏蔽尺寸较小或较大时，SHIELDOSE2的计算误差会增加.因此，反向蒙特卡罗方法是高精度计算剂量时的更优选择",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/bf03cc4f15acfa6fc2f6428091f53363292b8b7f83168461aa035f1f5d4149c1.jpg",
+        "img_caption": [
+            "图7SHIELDOSE2与RMC 的剂量深度曲线Fig.7Dose-depth curves of SHIELDOSE2 and RMC"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/4977da9db932bec34750d8c4075a1cec47533c60d5110262d0faf160670137c4.jpg",
+        "img_caption": [
+            "图8SHIELDOSE2与RMC 沉积剂量的相对误差 Fig.8 Difference between SHIELDOSE2 and RMC "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 与扇段分析法比较",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "扇段分析法[17]是航天器设计中计算辐射剂量的常用方法，这种方法简化了粒子与材料的相互作用，将所关心位置的全向立体角划分为若干小的扇面，在每个扇面内发出若干条射线，直线追踪射线路径的物质，并积分路径上的等效厚度，对等效厚度求平均得到该扇面的屏蔽厚度，利用该扇面的等效屏蔽厚度在剂量深度曲线中插值得到该扇面的剂量贡献",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "SSAT[15]为欧空局（ESA）基于 Geant4 开发的扇段屏蔽分析工具，目前已得到广泛应用．本文将RMC的结果与SSAT的结果进行了比较，",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "RMC三维结构体模型如图9所示，选择长度 $2 0 \\mathrm { c m }$ 屏蔽厚度 $2 \\mathrm { m m }$ 的正方体壳作为卫星载体，半径 $1 \\mathrm { m m }$ 的球形载荷作为灵敏体,材料均为Al.卫星有效载荷4个，垂直方向距离中心 $\\pm 6 \\mathrm { c m }$ 处各有一块长宽均为 $5 \\mathrm { c m }$ 厚度 $1 \\mathrm { m m }$ 的平板,材料为Ta,水平沿 $Y$ 轴方向距离中心 $\\pm 5 \\mathrm { c m }$ 处各有一个长度 $2 \\mathrm { c m }$ 的正方体盒子，材料为Al.截断误差精度取 $5 \\%$ 业",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "SSAT几何模型与RMC基本相同，唯一不同是少了灵敏体．SSAT的屏蔽厚度计算方法有法向传输（NORM)和直线传输(SLANT)两种，这里采用的是 SLANT方法.RMC外界环境采用的是电子辐射带模型AE8在太阳峰值时处于地球同步轨道高度时间周期为一年的离散能谱.SSAT采用的是如图7所示 SHIELDOSE2的实心球模型剂量深度曲线.",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5e39c50881a5da44eac3dfba1c211c051cfb2ead0cacc8122403e35f2311403.jpg",
+        "img_caption": [
+            "图9RMC 结构体模型Fig.9Satellite structure of RMC"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "不同灵敏体位置对沉积剂量的影响列于表1,平均误差为 $3 1 . 2 8 \\%$ .位置 $\\boldsymbol { a }$ 是卫星结构中心 $( 0 , 0 , 0 )$ 以RMC方法计算结果作为参考值，RMC与SSAT相对误差为 $4 9 . 1 0 \\%$ ，误差较大．位置 $b$ 是 $( 0 , \\ - 3 5$ $0 ) \\mathrm { m m }$ ，距离 $Y$ 轴负半轴盒子中心 $\\mathrm { 1 5 m m }$ ，RMC与 SSAT 相对误差为 $2 8 . 4 6 \\%$ ．位置 $\\mid c \\mid$ 为 $( 0 , \\ 0 ,$ $\\mathrm { 5 0 ) m m }$ ，距离 $Z$ 轴正半轴 Ta 板中心 $1 0 \\mathrm { m m }$ ，两者相对误差为 $2 4 . 8 2 \\%$ .位置 $d$ 为 $( 0 , 0 , 9 0 ) \\mathrm { m m }$ ，位于 $Z$ 轴卫星A1立方体壳和 $\\mathrm { T a }$ 板之间，距离 A1立方体壳 $1 0 \\mathrm { m m }$ ，距离Ta板 $3 0 \\mathrm { m m }$ ，RMC与SSAT相对误差为 $2 2 . 7 4 \\%$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3结论与讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过自定义能谱环境的电子屏蔽和质子屏蔽分析，比较RMC与FMC两种方法的沉积剂量和计算时间.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1）自定义能谱计算得到的灵敏体中沉积能量随初始电子能量的变化，RMC和FMC结果符合较好.以FMC结果作为参考值，电子屏蔽计算相对误差为 $0 . 8 5 \\%$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2）RMC和FMC两种蒙特卡罗方法模拟结果曲线符合较好，误差较小.不同灵敏体大小两种方法的相对误差浮动区间为 $0 \\mathrm { \\sim } 6 \\%$ ，平均误差 $3 . 6 9 \\%$ ，结果较好.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3）对比分析两种方法的计算时间，电子屏蔽计算时RMC比FMC速度提高2110倍,质子屏蔽计算时速度提高43倍.在相同情况下，RMC和FMC的计算时间随灵敏体大小的变化而变化．FMC耗时久且变化大，而RMC耗时基本不变.随着屏蔽厚度和精度的变化反向蒙特卡罗方法计算时间较稳定而正向蒙特卡罗方法则不稳定，",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/ed0925221290ae61e21bbbc1c3744defead5f8cd1094194935d887effed142b0.jpg",
+        "table_caption": [
+            "表1不同位置RMC 和 SSAT剂量对比",
+            "Table 1Comparison of radiation dose between RMC and SSAT method at different locations "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">位置点</td><td colspan=\"2\">RMC</td><td rowspan=\"3\">SSAT 剂量/rad</td><td rowspan=\"3\">相对误 差/(%)</td></tr><tr><td>沉积能量/MeV</td><td>剂量/rad</td></tr><tr><td>a</td><td>2.496 54 ×10-8</td><td>353 18.82</td><td>526 60</td><td>49.10</td></tr><tr><td>b</td><td>2.25308×10-8</td><td>318 74.56</td><td>409 47.6</td><td>28.46</td></tr><tr><td>C</td><td>2.318 71 ×10-8</td><td>328 03.04</td><td>409 45.7</td><td>24.82</td></tr><tr><td>d</td><td>2.43317 ×10-8</td><td>344 22.31</td><td>422 51.3</td><td>22.74</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "与FMC 模拟结果的对比表明RMC自定义能谱运用于卫星辐射剂量分析是可行且可信的．而且RMC在计算时间上有很大优势，不仅高效而且稳定.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对比RMC与 SHIELDOSE2和 SSAT 的沉积剂量，得到以下结果，",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1)RMC和SHIELDOSE2两种方法的剂量深度曲线基本相符.随A1屏蔽球尺寸变化趋势基本相同，半径越小则屏蔽厚度越小，沉积剂量越大．以RMC计算结果作为参考值，相对误差随半径变化有浮动，中间小两头大，平均误差为 $3 0 . 5 2 \\%$ 业",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2)RMC和SSAT对比使用自定义卫星模型,考虑处于几何体不同位置的灵敏体，并计算分析沉积剂量．以RMC 结果为参考值，SSAT与RMC相对误差平均为 $3 1 . 2 8 \\%$ 业",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "SHIELDOSE2实现简单屏蔽球的剂量计算SSAT忽略了粒子与材料的相互作用.与这两种方法计算结果的比较可知，反向蒙特卡罗方法是可信且精度较高的计算方法.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "反向蒙特卡罗方法是一种快速且高精度的计算剂量方法.由于Geant4发展的局限性，后期将研究重叠卫星结构和改进反向蒙特卡罗模拟的粒子和反向物理过程.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]Jiao Weixin.Space Weather [M].Beijing:Meterological Press,2003．In Chinese(焦维新.空间天气学[M].北京：气 象出版社，2003)   \n[2] Tribble A C. The Space Environment [M].Beijing: China Astronautic Publishing House,2Oo9.In Chinese(Tribble A C.空间环境[M].北京：中国宇航出版社,2009)   \n[3]Xu Shuyan.Application of Monte-Carlo Method in Experimental Nuclear Physics [M].Beijing:The Atom Enegy Publishing House,2006．In Chinese（许淑艳．蒙特卡罗方 法在实验核物理中的应用[M].北京：原子能出版社，2006)   \n[4]Kalos M H.Monte Carlo integration of the adjoint Gamma-Ray transport equation[J]. Nucl.Sci. Eng., 1968,33:284-287   \n[5]Eriksson B,Johansson C,Leimdorfer M.Monte Carlo integration of the adjoint neutron transport equation[J]. Nucl.Sci.Eng.,1969,37:410-418 [6] Jordan T. Space system analysis using the novice code system [C]//First European Conference on Radiation and its Effects on Devices and Systems. La Grande-Motte: IEEE,1991:312-316 [7] Desorgher L. Implementation of the reverse/adjoint Monte Carlo method into Geant 4[J].Nucl.Inst.Methods Phys. Res.Sect. A, 2010,621(1/2/3):247-257 [8] Dong Shikui, Shuai Yong,Tan Heping,et al. Computation of radiative heat transfer in participating media using Backward Monte Carlo method[J].J.Harbin Inst. Technol.,2004,36(12):1602-1604.In Chinese (董士奎,帅永,谈 和平,等.反向蒙特卡罗法模拟参与性介质中热辐射传递[J].哈 尔滨工业大学学报，2004,36(12):1602-1604)   \n[9] Qi Xueqin，Wang Pingyang, Zhang Jingzhou，，et al. Reverse Monte Carlo simulation on infrared radiation of lobed nozzle/mixer plume [J]. J. Shanghai Jiaotong Univ., 2005,39(8):1229-1239.In Chinese(元雪琴,王平洋,张靖周, 等.反向蒙特卡罗法模拟波瓣喷管的红外辐射特性[J].上海交通 大学学报,2005,39(8):1229-1239)   \n[10] Shuai Yong,Dong Shikui, Liu Hualin. Simulation of infrared radiation characteristics of high temperature freestream flow including particles by using backward MonteCarlo method[J].J. Infrared Millim.Waves， 2005, 24(2):100-104.In Chinese(帅永，董士奎,刘林华．高温含粒 子自由流红外辐射特性的反向蒙特卡罗法模拟[J].红外与毫米 波学报,2005,24(2):100-104)   \n[11] Lü Jianwei,Wang Qiang.Numerical calculation and simulation of infrared radiation characteristics of aircraft skin using RMC method[J].Infrared Laser Eng., 2009, 38(2):232-237．In Chinese（吕建伟，王强．飞行器蒙皮红外 辐射特征的反向蒙特卡罗计算与分析方法[J].红外与激光工程, 2009, 38(2):232-237)   \n[12] Vette J I. The AE-8 Trapped Electron Model Environment [R], NSSDC/WDC-A-R&S 91-24. Greenbelt, Maryland: NASA Goddard Space Flight Center,1991   \n[13] Seltzer S M. SHIELDOSE,A Computer Code for SpaceShielding Radiation Dose Calculations,National Bureau of Standards [R], NBS Technical Note 1116. Washington: U S.Government Printing Ofice, 1980   \n[14] Seltzer S M. Updated calculations for routine spaceshielding radiation dose estimates: SHIELDOSE-2 [M]. Gaithersburg, MD: NIST Publication, 1994   \n[15] Santin G.New Geant 4 based simulation tools for space radiation shielding and effects analysis [J]. Nucl. Phys. B, 2003,125:69-74   \n[16] Seltzer S M. Conversion of depth-dose distributions from slab to spherical geometries for space-shielding applications [J].IEEE Trans.Nucl. Sci.,1986,33(6):1292-1297   \n[17] ECSS Secretariat. Space engineering—Methods for the calculation of radiation received and its effects and a policy for design margins [S],ECSS-E-10-12.Noordwijk, The Netherlands: ESA, 2008 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,116 @@
+临床研究
+
+# 大脑前动脉A1段动脉瘤的手术处理
+
+王华伟'，薛 哲1,马玉栋',王文鑫',武 琛',孙正辉1,2  
+1解放军总医院神经外科,北京100853；解放军总医院海南分院神经外科,海南三亚 572013
+
+摘要：目的 回顾性分析手术治疗的23例大脑前动脉近端(A1段)动脉瘤患者的病例资料,探讨手术治疗的技巧和方法。方法2004年1月\~2014年12月期间共手术治疗1437例颅内动脉瘤，选择其中A1段动脉瘤23例 $( 1 . 6 \%$ )，所有患者术前均经数字减影血管造影术(DSA)或CT血管造影(CTA)明确诊断,并行手术夹闭治疗颅内A1段动脉瘤，术后行"3H"疗法预防血管痉挛,于术后第6、12、48、60个月门诊随访,行CT血管造影(CTA)复查，并使用Glasgow预后分级(GOS)评价术后疗效。结果 所有A1动脉瘤均采取翼点人路开颅手术完全夹闭；有7名 $( 3 0 . 4 3 \%$ )患者为多发动脉瘤；术后平均随访时间38.52(6\~60)个月，平均Glasgow预后分级为4.83分（ⅢII\~V级）。结论术前仔细分析影像资料对于其诊断和治疗至关重要。手术治疗的关键是保护穿支动脉不受损伤，术中充分打开侧裂并进行载瘤动脉临时阻断可使手术安全、有效。
+
+关键词：大脑前动脉；动脉瘤；显微手术
+
+# Surgical management of proximal anterior cerebral artery (A1) aneurysms
+
+WANG Huawei',XUE Zhel,MA Yudong,WANG Wenxint,WU Chen1,SUN Zhenghui,2   
+Departmentofueryealspitaoei5;epatntofrosgeal   
+HospitalofPLA,Sanya572013,China
+
+Abstract: Objective Toreviewour experience insurgicalmanagementof proximal anterior cerebral artery (Al)aneurysms in 23 patients. Methods Between January, 2004 and December, 2014, 23 patients $( 1 . 6 \% )$ with A1 aneurysms diagnosed by CTA or DSA were treated surgicaly.The“3H"therapy was adopted for postoperative prevention of cerebrovascular spasm.Althe patients were followed upand examined with cerebrovascular CTA at6,12,48and60months aftertheoperation with their Glasgow Outcome Scale score recorded.Results The patients consisted of15 men and 8 women with anage range of 16 to 72 years (mean 51.3 years). The average diameter of the aneurysms was $5 . 8 \mathrm { m m } .$ , ranging from 3.2 to $9 . 7 \mathrm { m m }$ Twenty-two saccular aneurysms were found in these patients; 21 patients presented with SAHand two had vascular malformation.Allthe A1 aneurysms were managed throughthepterional approach,and the mean postoperative GlasgowOutcome Scale score was 4.8. Conclusion Thorough analysis of the angiographic data is esential for the diagnosisand treatmentofA1 aneurysms. Preservation of the perforators and prevention of aneurysm rupture are critical during the surgery.Full exposure of the Sylvian fissure and temporary occlusion of the parent artery ensures safe and effective dissection of A1 aneurysms.
+
+Key words: aneurysm; anterior cerebral artery; microneurosurgery
+
+大脑前动脉A1段动脉瘤为临床较为少见，据文献报道其患病率低于颅内动脉瘤的 $2 \% ^ { [ 1 - 6 ] }$ ,迄今为止，仅少量文献对其外科处理方法进行过报道[1.2.6-8]。然而,A1段动脉瘤具有其独特的临床特点，如常伴发脑血管畸形或多发性动脉瘤，而且与其他部位动脉瘤相比，其较小直径者更易发生破裂[1.2.6-8];由于A1段动脉瘤多与穿支动脉相毗邻,施行手术夹闭颇为困难[1,2.5.9-10]。解放军总医院神经外科近10年来共诊断与手术治疗A1段动脉瘤病例23例，现对其临床与影像学特点、外科手术技巧及治疗效果进行总结，以期为临床提供指导。
+
+# 1 资料和方法
+
+# 1.1研究对象
+
+本研究收集2004年1月\~2014年12月在我院接受外科手术治疗的颅内动脉瘤患者共1437例，选择其中经数字减影血管造影术(DSA)或CT血管造影术(CTA)明确诊断的A1段动脉瘤患者23例，所提供的2个病例资料已获得患者的同意。
+
+# 1.2一般资料
+
+所有符合纳入标准的23例患者中，男性15例中 $6 5 . 2 2 \%$ ），女性8例 $( 3 4 . 7 8 \%$ )；年龄16\~72岁，平均50.26岁。21例 $( 9 1 . 3 0 \%$ )因蛛网膜下隙出血(SAH)入院，其中因A1动脉瘤破裂出血者16例(16/21)，2例(2/21)因A1动脉瘤破裂出血者同时存在颅内血肿。根据Hunt-Hess(H-H)分级，0级(未破裂)2例、I级5例、ⅡI级
+
+13例、Ⅱ级1例、V级2例。数字减影血管造影术(DSA)显示，动脉瘤发生于右侧大脑前动脉者14例、左侧9例，呈囊状(22例)或梭型(例1,表1);平均直径为 $5 . 8 0 \mathrm { m m }$ （ $3 . 2 0 { \sim } 9 . 7 0 ~ \mathrm { m m } ,$ ,破裂者平均直径 $6 . 0 0 \ \mathrm { m m } [ ( 2 . 0 0 \sim$
+
+$9 . 7 0 ~ \mathrm { m m }$ ),16例、未破裂者 $5 . 4 0 \mathrm { m m } [ ( 1 . 8 0 { \sim } 7 . 8 0 \mathrm { m m } )$ 7例;动脉瘤起自大脑前动脉A1段近端者21例、远端者2例;其中3例合并脑血管畸形(对侧大脑前动脉A1段发育不全2例、对侧A1段闭锁1例，表1)。
+
+表1病例临床及影像资料  
+Tab.1 Clinical and radiological features of the patients   
+
+<html><body><table><tr><td>Patient No.</td><td>Sex/Age</td><td>Side</td><td>Shape</td><td>Size (mm)</td><td>CT Scan</td><td>Rupture</td><td>Location</td><td>Direction</td><td>Anomaly</td><td>Multiplicity</td></tr><tr><td>1</td><td>M/44</td><td>R</td><td>Fusiform</td><td>2.0x8.0</td><td>SAH</td><td>A1</td><td>proximal</td><td></td><td>none</td><td>None</td></tr><tr><td>2</td><td>M/70</td><td>R</td><td>Saccular</td><td>4.1x6.4</td><td>SAH</td><td>A1</td><td>proximal</td><td>posterior</td><td>none</td><td>None</td></tr><tr><td>3</td><td>F/64</td><td>L</td><td>Saccular</td><td>3.0x4.8</td><td>SAH</td><td>A1</td><td>proximal</td><td>posterior-inferior</td><td>none</td><td>R/LPCoA;R/LAChA</td></tr><tr><td>4</td><td>M/45</td><td>R</td><td>Saccular</td><td>4.6x7.8</td><td>SAH</td><td>ACoA</td><td>proximal</td><td>posterior-inferior</td><td>none</td><td>ACoA</td></tr><tr><td>5</td><td>M/41</td><td>R</td><td>Saccular</td><td>5.1x9.7</td><td>SAH</td><td>A1</td><td>proximal</td><td>posterior</td><td>none</td><td>None</td></tr><tr><td>6</td><td>M/56</td><td>L</td><td>Saccular</td><td>3.2x5.7</td><td>SAH</td><td>A1</td><td>proximal</td><td>posterior</td><td>none</td><td>None</td></tr><tr><td>7</td><td>M/39</td><td>R</td><td>Saccular</td><td>4.1x5.5</td><td>SAH</td><td>RMCA</td><td>proximal</td><td>posterior</td><td>none</td><td>RMCA</td></tr><tr><td>8</td><td>M/41</td><td>L</td><td>Saccular</td><td>4.1×7.2</td><td>SAH</td><td>RPCoA</td><td>proximal</td><td>posterior</td><td>RA1 hypoplasia</td><td>RPCoA</td></tr><tr><td>9</td><td>M/45</td><td>R</td><td>Saccular</td><td>3.0x3.6</td><td>Normal</td><td>No</td><td>proximal</td><td>posterior-inferior</td><td>none</td><td>none</td></tr><tr><td>10</td><td>F/57</td><td>R</td><td>Saccular</td><td>3.9x6.4</td><td>SAH</td><td>A1</td><td>distal</td><td>posterior</td><td>none</td><td>none</td></tr><tr><td>11</td><td>M/64</td><td>R</td><td>Saccular</td><td>4.3x7.1</td><td>SAH</td><td>RPCoA</td><td>proximal</td><td>superior</td><td>none</td><td>RPCoA</td></tr><tr><td>12</td><td>F/47</td><td>R</td><td>Saccular</td><td>1.8x3.2</td><td>Normal</td><td>No</td><td>proximal</td><td>posterior-superior</td><td>none</td><td>none</td></tr><tr><td>13</td><td>F/72</td><td>R</td><td>Saccular</td><td>7.0x9.0</td><td>SAH;ICH</td><td>A1</td><td>proximal</td><td>posterior-inferior</td><td>none</td><td>none</td></tr><tr><td>14</td><td>M/48</td><td>R</td><td>Saccular</td><td>2.7x4.5</td><td>SAH</td><td>A1</td><td>proximal</td><td>posterior</td><td>LA1 hypoplasia</td><td>none</td></tr><tr><td>15</td><td>M/61</td><td>L</td><td>Saccular</td><td>3.4x5.1</td><td>SAH</td><td>A1</td><td>distal</td><td>inferior</td><td>none</td><td>none</td></tr><tr><td>16</td><td>F/60</td><td>R</td><td>Saccular</td><td>4.5×7.7</td><td>SAH</td><td>A1</td><td>proximal</td><td>posterior-inferior</td><td>none</td><td>none</td></tr><tr><td>17</td><td>M/40</td><td>L</td><td>Saccular</td><td>6.0x6.0</td><td>SAH</td><td>A1</td><td>proximal</td><td>posterior-inferior</td><td>none</td><td>LAChA</td></tr><tr><td>18</td><td>M/53</td><td>L</td><td>Saccular</td><td>3.0x4.0</td><td>SAH</td><td>A1</td><td>proximal</td><td>posterior</td><td>none</td><td>none</td></tr><tr><td>19</td><td>F/42</td><td>R</td><td>Saccular</td><td>2.0x3.0</td><td>SAH</td><td>A1</td><td>proximal</td><td>superior</td><td>none</td><td>none</td></tr><tr><td>20</td><td>F/16</td><td>L</td><td>Saccular</td><td>3.2×3.4</td><td>SAH;ICH</td><td>LMCA</td><td>proximal</td><td>posterior</td><td>none</td><td>LMCA</td></tr><tr><td>21</td><td>M/44</td><td>L</td><td>Saccular</td><td>2.7×4.7</td><td>SAH</td><td>A1</td><td>proximal</td><td>posterior-inferior</td><td>none</td><td>none</td></tr><tr><td>22</td><td>M/59</td><td>L</td><td>Saccular</td><td>5.0x6.1</td><td>SAH</td><td>A1</td><td>proximal</td><td>posterior-superior</td><td>RA1 aplasia</td><td>none</td></tr><tr><td>23</td><td>F/48</td><td>R</td><td>Saccular</td><td>4.0x4.8</td><td>SAH</td><td>A1</td><td>proximal</td><td>posterior</td><td>none</td><td>none</td></tr></table></body></html>
+
+M/F:Male/fale;Rigteft:ubacdmogIC:Itracebalto;Aoialsofteebte PCoA:posteroaitoteaiteal:db direction.
+
+# 1.3 治疗方法
+
+所有动脉瘤均采取经翼点人路手术夹闭，关键步骤有如下：切开硬膜后显微镜下分开外侧裂前端，牵拉额叶外侧，见颈内动脉床突上段、分叉处及大脑前A1段，沿A1动脉向远端分离暴露动脉瘤，进一步完全游离动脉瘤颈，用动脉瘤夹予以完全夹闭。术中多普勒血管超声测量同侧A1、A2血流速度并记录;术中电生理监测仪监测体感及运动诱发电位。对于多发性动脉瘤，尽量予以一期全部夹闭，若夹闭困难则二期再行处理。为防正颅内血管痉挛，术后采用扩容、血液稀释和升高血压的"3H"疗法，同时应用尼莫地平注射液 $7 . 5 \mu \mathrm { g } / ( \mathrm { k g } \cdot \mathrm { h } )$ 持续静脉泵注。
+
+# 1.4 随访
+
+所有患者于术后第6、12、48、60个月门诊复查时进行随访，行脑血管CTA复查，评估有无复发，判断预后情况使用Glasgow预后分级(GOS)评分，于每次复查时均记录GOS评分，本研究将最后一次随访时GOS评分纳入评估标准。
+
+# 2结果
+
+本组23例患者均经手术完全夹闭。其中多发性动脉瘤7例，共17个动脉瘤，1例(例3)伴发2对镜像动脉瘤，共5个动脉瘤(图1)，同期手术夹闭同侧A1段3个动脉瘤；其余6例患者均为2个动脉瘤，术中予以全完夹闭。术后仅1例患者(图2)出现短暂性上肢肌力减退(4级)伴轻度失语，但肌张力正常，给予尼莫地平扩血管及加强功能锻炼，6月后复查基本恢复正常。其他患者术后平稳无任何并发症发生。本组患者术后随访6\~60个月，平均38.52个月，GOS分级Ⅲ\~V级，平均评分4.83分(表2)。
+
+![](images/f6b177fc6b74b80fa3db2a8f4122f10f5b6770b13024e5b4af3517dd4208dc2f.jpg)  
+图1大脑前动脉A1段动脉瘤夹闭术前及中术中影像学检查所见  
+Fig.1Thre-dimensional digital subtractionangiography(3D-DSA)showedananeurysmonthe proximalsegmentof the left proximal anterior cerebral artery (arrow indicates,Panel $A$ ). The coexistent mirror posterior communicating aneurysms and anteriorchoroidal artery aneurysms were also present onthe 3D-DSA (arowsand arowheads indicate,Panel B-C). IntraoperativephotographshowedthattheAlaneurysmhasabroadbaseandthataperforator originates fromitsbase (arrow and arrowheads indicate, Panel $D$ ).The A1 aneurysm and the two other ipsilateral aneurysms were clipped completely; the perforator was preserved (arrow and arrowhead indicate, Panel $E$ .Intraoperative indocyanine green fluorescence showed occlusionofall three aneurysmsand patencyofthe perforatorand parent artery (arrowandarrowhead indicate,PanelF).
+
+# 3讨论
+
+大脑前A1段动脉瘤具有以下特点：(1)发生率低，在颅内动脉瘤中所占比例不足 $2 \% ^ { [ 1 - 6 ] }$ ,本组病例仅占我院同期颅内动脉瘤手术治疗颅内动脉瘤的 $1 . 6 0 \% ( 2 3 /$ 1437),与文献报道一致;(2)女性人群高发[1.6.1],但本组23例中男性所占比例(15/23)高于女性，与文献报道略有不同;(3)以右侧好发[3.5.7.10-11],本组病例起源于右侧者14/23例，同样显示右侧优势；(4)可同时合并颅内其他部位动脉瘤(即多发动脉瘤)[1-2.4-8.12],本组多发性动脉瘤7例 $( 3 4 . 4 3 \%$ )。因此，术前需根据DSA结果判断是否合并其他部位动脉瘤，尤其是难以确定责任动脉者，DSA更是制定手术方案的重要依据；(5)合并颅内血管畸形的比例高达 $4 0 \% ^ { [ 2 - 4 , 1 1 - 1 3 ] }$ ,但本组仅发现3例合并脑血管畸形者，可能与地区或种族差异有关。
+
+与其他部位的颅内动脉瘤相比，直径较小的A1段动脉瘤更易发生破裂,平均直径 $< 7 . 0 0 \ \mathrm { m m } ^ { [ 2 . 3 , 5 . 7 , 1 2 , 1 4 ] }$ 。本
+
+![](images/2ea33120798a01efd69988a52d0b54c9e7651da28471e5f9c7b10af12caedaa2.jpg)  
+图2大脑前动脉A1段动脉瘤夹闭手术前后影像学检查所见
+
+![](images/4c4dedc90797b5f7ea7804f84bf329a5c2d7cd0e72add402489d79a02e14f17d.jpg)
+
+Fig.2 CTA showed a proximal posterior-inferior A1 aneurysm (arrow, Panel $A$ ） The A1 aneurysm is behind the internal common artery (ICA) in the surgical corridor and is blurred by blood.Wide opening of the Sylvian fissure and mobilization of the ICA facilitate clipping with a mini-clip (Panel B).CT scan reveals infarction of the left basal ganglia on the third day (arrow, Panel C). Post-surgery CTA showed the occlusion of the A1 aneurysm and patency of the parentartery (arrow,Panel $D _ { } ^ { \prime }$ ）
+
+# 表2手术夹闭结果
+
+Tab.2 Outcome of surgical clipping   
+
+<html><body><table><tr><td>Patient</td><td>Sex/Age</td><td>H-</td><td>Treatment</td><td>opproach</td><td>Complication</td><td>Followsup</td><td>Trearaed)</td><td>Follow up</td></tr><tr><td>1</td><td>M/44</td><td>1</td><td>Wrapping</td><td>pterional</td><td>no</td><td>5</td><td>22</td><td>48</td></tr><tr><td>2</td><td>M/70</td><td>2</td><td>Clipping</td><td>pterional</td><td>no</td><td>5</td><td>4</td><td>40</td></tr><tr><td>3</td><td>F/64</td><td>2</td><td>clipping LPCoA, LAChA, A1</td><td>pterional</td><td>no</td><td>5</td><td>4</td><td>36</td></tr><tr><td>4</td><td>M45</td><td>1</td><td>clipping all</td><td>pterional</td><td>no</td><td>5</td><td>9</td><td>36</td></tr><tr><td>5</td><td>M/41</td><td>1</td><td>Clipping</td><td>pterional</td><td>no</td><td>5</td><td>5</td><td>60</td></tr><tr><td>6</td><td>M/56</td><td>2</td><td>Clipping</td><td>pterional</td><td>no</td><td>5</td><td>12</td><td>30</td></tr><tr><td>7</td><td>M/39</td><td>1</td><td>clipping all</td><td>pterional</td><td>no</td><td>5</td><td>60</td><td>48</td></tr><tr><td>8</td><td>M/41</td><td>2</td><td>clipping all</td><td>pterional</td><td>no</td><td>5</td><td>3</td><td>60</td></tr><tr><td>9</td><td>M/45</td><td>0</td><td>Clipping</td><td>pterional</td><td>no</td><td>5</td><td></td><td>60</td></tr><tr><td>10</td><td>F/57</td><td>2</td><td>Clipping</td><td>pterional</td><td>no</td><td>5</td><td>10</td><td>24</td></tr><tr><td>11</td><td>M/64</td><td>2</td><td>clipping all</td><td>pterional</td><td>no</td><td>5</td><td>2</td><td>60</td></tr><tr><td>12</td><td>F/47</td><td>0</td><td>Clipping</td><td>pterional</td><td>no</td><td>5</td><td></td><td>48</td></tr><tr><td>13</td><td>F/72</td><td>4</td><td>Clipping</td><td>pterional</td><td>no</td><td>4</td><td>5</td><td>48</td></tr><tr><td>14</td><td>M/48</td><td>2</td><td>Clipping</td><td>pterional</td><td>no</td><td>5</td><td>2</td><td>48</td></tr><tr><td>15</td><td>M/61</td><td>2</td><td>Clipping</td><td>pterional</td><td>no</td><td>5</td><td>8</td><td>12</td></tr><tr><td>16</td><td>F/60</td><td>2</td><td>Clipping</td><td>pterional</td><td>no</td><td>5</td><td>16</td><td>36</td></tr><tr><td>17</td><td>M/40</td><td>2</td><td>clipping all</td><td>pterional</td><td>no</td><td>5</td><td>2</td><td>24</td></tr><tr><td>18</td><td>M/53</td><td>3</td><td>Clipping</td><td>pterional</td><td>no</td><td>5</td><td>9</td><td>60</td></tr><tr><td>19</td><td>F/42</td><td>2</td><td>Clipping</td><td>pterional</td><td>no</td><td>5</td><td>8</td><td>60</td></tr><tr><td>20</td><td>F/16</td><td>4</td><td>clipping all</td><td>pterional</td><td>no</td><td>3</td><td>3</td><td>12</td></tr><tr><td>21</td><td>M/44</td><td>2</td><td>Clipping</td><td>pterional</td><td>infarction</td><td>4</td><td>2</td><td>12</td></tr><tr><td>22</td><td>M/59</td><td>1</td><td>Clipping</td><td>pterional</td><td>no</td><td>5</td><td>2</td><td>12</td></tr><tr><td>23</td><td>F/48</td><td>2</td><td>Clipping</td><td>pterional</td><td>no</td><td>5</td><td>3</td><td>12</td></tr></table></body></html>
+
+A1:Proximalsegmentofanteriorcerebralartery;PCoA:Posteriorcommunicatingartery;AChA:Anteriorchoroidalartery $\ddot { \cdot }$ Unknown.
+
+组患者动脉瘤平均直径为 $5 . 8 0 \mathrm { m m }$ ，而动脉瘤破裂者约为 $6 . 0 0 \mathrm { m m }$ 。但A1段动脉瘤破裂出血后较少形成颅内血肿,其发生率仅为 $1 0 \% ^ { [ 4 - 6 ] }$ ,推测其原因是,A1段血管易发生粘连或埋于额叶底,出血后较少形成血肿[2.5.12]。由于A1段动脉瘤瘤体多指向后方[1-6.12]（已经本组病例术中确认),因此术前的二维DSA检查，尤其是合并其他部位动脉瘤者极易漏诊，对于疑似大脑前动脉A1段动脉瘤患者，应当施行多角度DSA检查。
+
+大脑前动脉A1段动脉瘤的外科手术原则是保护邻近的穿支动脉。解剖学研究显示，共有8\~12支穿支动脉起源于大脑前动脉A1段，经前穿质进入脑实质，维持透明隔、前联合、苍白球、内囊前肢、纹状体前下部、下丘脑前部等结构血供[9-10.15],这些穿支动脉均为终末血管,损伤后则可导致肢体瘫痪。由于A1段动脉瘤的脆弱性,术中对动脉瘤、载瘤动脉和穿支动脉的分离十分困难,因此阻断血管近端对减少瘤腔内血流、降低动脉瘤张力至关重要，有助于术中分离动脉瘤并将其夹闭；同时，术中放置临时阻断夹亦应避免损伤回返动脉(heubnerartery)且阻断时间不宜过长,尤其对侧A1段动脉发育不良者，应行术中体感诱发电位(SEP)监测;为了防止动脉瘤夹在撤出脑压板时挤压穿支动脉，分离动脉瘤颈后应选择尺寸较小的(略宽于动脉瘤颈宽)动脉瘤夹，尽量平行于颅底角度进行夹闭,甚至可于手术显微镜下将动脉瘤夹切割至适宜长度[12]。为了确认夹闭后载瘤动脉血流通畅与否,本组病例经罂粟碱湿敷载瘤动脉后均通过术中彩色多普勒超声或吲哚菁绿荧光血管造影(ICGA)显示载瘤动脉，防止载瘤动脉狭窄或误夹穿支动脉，同时以体感诱发电位监测患者肢体活动。术后以"3H"疗法防止脑血管痉挛性缺血，并持续静脉泵注尼莫地平以扩张血管、提高脑灌注,有助于提高疗效、改善预后。本组1例患者于术后第3天出现右侧上肢肌力减弱(4级)和轻度失语,经CT确认发生基底节梗死，但术中确认载瘤动脉与穿支动脉血流通畅、体感诱发电位无异常变化，推测其缺血性改变可能与术后脑血管痉挛有关，给予尼莫地平扩血管及加强功能锻炼,出院时右上肢肌力恢复正常，术后6个月门诊随访时失语症状完全消失。
+
+本组23例患者中大部分(19例)动脉瘤瘤体指向后方,与文献报道一致[1,2.4-8.12],此亦为A1段动脉瘤易埋于或粘连于额叶底部的原因，术中若操作不当牵拉额叶可造成高危A1段动脉瘤破裂。这是因为在选择翼点入路施行动脉瘤夹闭术时，A1段动脉瘤瘤体指向后方者其术野易被载瘤动脉遮挡，给分离动脉瘤颈及穿支动脉造成困难，若蛛网膜下隙出血沾染术野则分离难度更大。依我们的经验，术中应充分打开侧裂、颈动脉池和视交叉池使手术视野显著扩大，不仅便于操作且可减少对额叶的牵拉,此点对蛛网膜下隙出血并同时存在严重脑肿胀的患者尤为重要；若打开上述结构后瘤体仍难以显露，可切除部分额叶直回以利于动脉瘤的显露。存在以下两种情况时，可考虑经对侧经翼点入路行动脉瘤夹闭术：(1)合并对侧动脉瘤，尤其以对侧为责任动脉瘤者；(2)A1段动脉瘤瘤体指向后下方，由于载瘤动脉的遮挡，经同侧翼点入路显露动脉瘤困难。但是，若术前难以判断A1段动脉瘤的形态及瘤体指向，尤其是A1段为责任动脉瘤时，不宜盲目选择经对侧翼点入路，以免导致不良后果。根据我们的经验，此种情况应优先处理A1段责任动脉瘤，若难以同期夹闭对侧非责任动脉瘤，可考虑择期夹闭对侧动脉瘤或术后采用血管内栓塞治疗，本组仅1例(例4)患者采取二期手术，其余22例均经同侧翼点入路施行动脉瘤夹闭术。临床观察显示，A1段动脉瘤以囊状多见,梭型者少见[1-2.4-8.12],本组仅1例(例1)为梭型A1段动脉瘤。由于此种类型的动脉瘤瘤壁上包含有数支穿支动脉，直接夹闭易造成其供血区梗死,处理十分棘手,迄今为止,仅有数例手术夹闭成功的报道[5,16-17]。因此,对于梭形A1段动脉瘤,若对侧A1段血运良好可代偿同侧A1段血流，应选择动脉瘤孤立的方法，此法因保留了Heubner回返动脉，故术后较少发生缺血性卒中[18]；当对侧A1段动脉难以代偿同侧A1段供血时，夹闭或孤立动脉瘤则有可能带来严重后果，此时应考虑行动脉瘤包裹术，但须加固动脉瘤瘤壁以减少破裂的风险。
+
+目前，介入治疗颅内动脉瘤已经取得令人满意的效果[19]。对于A1段动脉瘤,因其特殊的解剖位置使得血管内治疗的难度较其他位置的颅内动脉瘤要大，但对于瘤体较小、瘤颈相对较窄、瘤顶指向内侧、载瘤动脉管径较宽、Hunt-Hess分级Ⅲ级以上及无合并颅内血肿的A1动脉瘤可优先考虑介入栓塞;而对于伴有颅内血肿(血肿量 $> 3 0 ~ \mathrm { m L }$ )、载瘤动脉痉挛情况较重且Hunt-Hess分级Ⅱ级以下者及介入治疗失败者，手术治疗应为首选方法。
+
+大脑前动脉A1段动脉瘤患病率极低，但手术处理却十分为困难，术前细致地的影像学检查并制定完善的治疗方案对提高手术疗效、改善预后至关重要；术中充分打开侧裂并行载瘤动脉临时阻断是手术安全实施的关键，可保护穿支动脉免受损伤、防止动脉瘤术中破裂。同时，术中辅助体感诱发电位监测、彩色多普勒超声或吲哚菁绿荧光血管造影等措施可降低手术风险、减少并发症。
+
+# 参考文献：
+
+[1]Yilmaz M,Kalemci O,Yurt A,et al. Treatment of aneurysms arising from the proximal (A1) segment of the anterior cerebral artery
+
+[J].Bosn JBasic Med Sci,2014,14(1): 8-11.   
+[2]Bhaisora KS,Behari S,Prasadh G,et al.A I-segment aneurysms: management protocol based on a new classification[J].Neurol India,2014,62(4): 410-6.   
+[3]Park HS,Choi JH,Kang M,et al. Management of aneurysms of the proximal (A1） segment of the anterior cerebral artery [J].J Cerebrovasc Endovasc Neurosurg,2013,15:13-9.   
+[4]Suzuki M, Onuma T, Sakurai Y,et al.Aneurysms arising from the proximal (A1) segment of the anterior cerebral artery.A study of 38 cases[J]. JNeurosurg,1992,76(3): 455-8.   
+[5]Dashti R,Hernesniemi J,Lehto H,et al. Microneurosurgical management of proximal anterior cerebral artery aneurysms [J]. Surg Neurol, 2007,68(4): 366-77.   
+[6]Lee JM,Joo SP,Kim TS,et al. Surgical management of anterior cerebral artery aneurysms of the proximal (A1） segment[J].World Neurosurg,2010, 74(4-5): 478-82.   
+[7]Lehecka M,Niemela M,Hernesniemi J. Surgical management of anterior cerebral artery aneurysms of the proximal (A1) segment[J]. World Neurosurg,2010,74(4-5): 439-40.   
+[8］刘 威,曲元明,赖建君,徐广明.大脑前动脉近端动脉瘤的显微外科治 疗[J].中华外科杂志,2004,42:1381-3.   
+[9]Rosner SS,Rhoton AL Jr., Ono M,et al. Microsurgical anatomy of the anterior perforating arteries[J].JNeurosurg,1984,61: 468-85.   
+[10]Dunker RO,Harris AB. Surgical anatomy of the proximal anterior cerebral artery[J].JNeurosurg,1976,44: 359-67.   
+[11]Handa J,Nakasu Y,Matsuda M,et al. Aneurysms of the proximal anterior cerebral artery[J]. Surg Neurol,1984,22: 486-90.   
+[12]Hino A,Fujimoto M,Iwamoto Y,et al. Surgery of proximal anterior cerebral artery aneurysms[J].Acta Neurochir (Wien),2OO2,144: 1291-6;discussion 6.   
+[13] Teal JS,Rumbaugh CL,Bergeron RT,et al. Angiographic demonstration of fenestrations of the intradural intracranial arteries [J]. Radiology,1973,106:123-6.   
+[14]Lubicz B,Bruneau M,Dewindt A,et al.Endovascular treatment of proximal anterior cerebral artery aneurysms[J].Neuroradiology, 2009,51:99-102.   
+[15]Perlmutter D,Rhoton AL Jr. Microsurgical anatomy of anterior cerebral anterior communicating recurrent artery complex[J].Surg Forum,1976,27: 464-5.   
+[16]Shigemori M,Kawaba T,Yoshitake Y,et al.Fusiform aneurysm of the proximal anterior cerebral artery ［J].J Neurol Neurosurg Psychiatry,1988,51:451.   
+[17]Tamura M,Tsukahara Y,Yodonawa M.Fusiform aneurysm of the anterior cerebral artery (A1 segment)--a case report[J].No Shinkei Geka,1985,13:1337-40.   
+[18]Mariniello G,Vecchione D,Di Martino G,et al.Fusiform aneurysm of the proximal anterior cerebral artery (A1)[J].Cent Eur Neurosurg,2010,71: 96-8.   
+[19]Zanaty M,Chalouhi N,Tjoumakaris SI,et al.Endovascular management of cerebral aneurysm ：review of the literature [J]. Transl Stroke Res,2014,5:199-206. □ 寸
+
+（编辑：吴锦雅）

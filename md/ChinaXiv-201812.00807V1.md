@@ -1,0 +1,260 @@
+投喂频率对虎斑乌贼生长性能、体成分、消化酶活性、组织脂肪酸和氨基酸含量的影响朱婷婷 李晨晨 陆游金敏王学习 罗嘉翔 周歧存\*(宁波大学海洋学院鱼类营养研究室，宁波315211)
+
+摘要：本试验旨在研究投喂频率对虎斑乌贼生长性能、体成分、消化酶活性、组织脂肪酸和氨基酸含量的影响。试验选用初始体重为 $( 1 3 . 0 8 { \pm } 0 . 0 1 ) \mathrm { ~ g ~ }$ 的虎斑乌贼幼体180只，随机分成3 组(投喂频率分别为每天1、2和4次，分别命名为F1、F2和F4投喂组)，每组3个重复，每个重复20只。试验期4周。结果表明：1)F2 和F4 投喂组的增重率、特定生长率和肝体比均显著高于F1 投喂组 $_ { ( P < 0 . 0 5 ) }$ ，F1 和 F4 投喂组的饵料效率显著低于F2 投喂组$( P { < } 0 . 0 5 )$ 。2)F4 投喂组的肝脏水分含量显著低于F1投喂组 $( P { < } 0 . 0 5 )$ ，肝脏粗脂肪含量显著高于F1 和 F2 投喂组 $( P { < } 0 . 0 5 )$ 。F2 和F4 投喂组的肌肉水分含量显著低于F1投喂组 $_ { ( P < 0 . 0 5 ) }$ ，肌肉粗蛋白质和粗脂肪含量显著高于F1投喂组 $( P { < } 0 . 0 5 ) \circ \ 3 )$ 各组肌肉的总氨基酸、必需氨基酸和非必需氨基酸含量没有显著性差异 $( P { > } 0 . 0 5 )$ 。F1投喂组的肝脏总氨基酸、必需氨基酸和非必需氨基酸含量显著低于F2 和F4投喂组 $( P { < } 0 . 0 5 )$ ,F2 投喂组的肝脏总氨基酸和非必需氨基酸含量与F4投喂组之间没有显著性差异 $( P { > } 0 . 0 5 ) _ { \circ } 4 ) \mathrm { F } 1$ 投喂组的肌肉和肝脏的二十二碳六稀酸(DHA)含量和 DHA/二十碳五稀酸(EPA)显著高于F2 和 F4 投喂组 $( P { < } 0 . 0 5 )$ ，而F2和F4投喂组之间没有显著性差异 $( P { > } 0 . 0 5 )$ 。各组肌肉和肝脏的多不饱和脂肪酸和 $\mathtt { n } { - } 3$ 高不饱和脂肪酸含量没有显著性差异 $( P { > } 0 . 0 5 ) _ { \circ } 5 ) \mathrm { F } 1$ 投喂组的肝脏谷胱甘肽过氧化物酶活性显著高于F2投喂组 $( P { < } 0 . 0 5 )$ 。F1投喂组的前肠 $\mathbf { \boldsymbol { a } } .$ -淀粉酶、脂肪酶和碱性磷酸酶活性均显著高于F2投喂组 $( P { < } 0 . 0 5 )$ ，F2 和F4投喂组之间没有显著性差异 $( P { > } 0 . 0 5 )$ 。由此可见，虎斑乌贼幼体养殖的适宜投喂频率为每天2次。
+
+关键词：虎斑乌贼；投喂频率；生长性能；体成分；消化酶活性；组织脂肪酸；组织氨基酸中图分类号：S968.9 文献标识码： 文章编号：
+
+投喂策略由投喂频率、摄食水平（或投饲率）和投饲方式等环节组成，是鱼类集约化养殖管理的重要内容之一[。投喂频率为影响水产养殖的重要因素之一，不合理的投喂频率会导致鱼类生长速度缓慢，从而使个体间的规格分化差异变大[2。投喂频率过高往往会降低饲料效率，进而导致养殖成本升高并且造成养殖环境的恶化；而投喂频率过低则会导致鱼类生长性能的降低[3]。因此，适宜的投喂频率对鱼类的养殖有重要的意义。
+
+虎斑乌贼（Sepia pharaonis），隶属于软体动物门（Mollusca），头足纲（Cephalopoda)，十腕目（Decapoda），乌贼科（Sepiidae），乌贼属（Sepia），广泛分布于我国南海海域[4]。虎斑乌贼个体较大，口味鲜美，具有抗病力强、生长快和适合高密度养殖等优点，是一种具有养殖前景的经济头足类[5]。目前国内外学者对虎斑乌贼的研究主要集中在乌贼膜特性[、生态因子的耐受程度[7以及乌贼不同组织的体成分、氨基酸、脂肪酸等营养成分[8]和胚胎发育[9]等，但有关投喂频率对虎斑乌贼影响的研究还尚未见报道。本试验旨在通过研究不同投喂频率对虎斑乌贼生长性能、体成分、消化酶活性、组织氨基酸和脂肪酸含量的影响，确定适宜投喂频率，为虎斑乌贼幼体阶段的合理投喂和养殖、品质调控和能量物质转换利用等提供科学依据。
+
+# 1材料与方法
+
+# 1.1 试验设计
+
+试验用虎斑乌贼购自象山来发养殖场，并在宁波市海洋与渔业科技创新基地进行养殖试验。试验前，将虎斑乌贼幼体放在 $3 0 0 \mathrm { { L } }$ 的蓝桶中驯养2周，养殖桶置于室内自然光照下，室内为透明塑料顶棚，水体每天充气，驯养期间每日用冰鲜虾（体成分和氨基酸组成、脂肪酸组成分别见表1和表2）投喂2次。驯养结束后，饥饿 $2 4 \mathrm { h }$ ，挑选大小均一、体表无外伤的初始体重为（ $1 3 . 0 8 { \scriptstyle \pm 0 . 0 1 }$ ） $\mathrm { \bf { g } }$ 的虎斑乌贼幼体180只，随机分成3组(投喂频率分别为每天1、2 和4次，分别命名为F1、F2和F4投喂组)，每组3个重复，每个重复 20只。试验期4周。
+
+表1冰鲜虾体成分(湿重基础）和氨基酸组成（干物质基础)   
+Table 1Body composition(wet weight basis) and amino acid composition (DM basis) of chilled shrimp   
+
+<html><body><table><tr><td>P 项目Items</td></tr><tr><td>体成分 Body composition/%</td></tr><tr><td>水分Moisture 79.91</td></tr><tr><td>粗脂肪 Crude lipid 2.15</td></tr><tr><td>粗蛋白质 Crude protein 12.45</td></tr><tr><td>粗灰分Ash 2.89</td></tr></table></body></html>
+
+氨基酸组成 Amino acid composition/ $\mathrm { ( g / k g ) }$
+
+必需氨基酸 EAA  
+苏氨酸 Thr 0.24  
+氨酸Val 0.26  
+蛋氨酸 Met 0.20  
+异亮氨酸Ilf 0.26  
+亮氨酸Leu 0.42  
+苯丙氨酸 Phe 0.25  
+赖氨酸Lys 0.44  
+组氨酸His 0.14  
+精氨酸Arg 0.35  
+非必需氨基酸 NEAA  
+天门冬氨酸 Asp 0.57  
+丝氨酸 Ser 0.23  
+谷氨酸Glu 0.87  
+甘氨酸 Gly 0.28  
+丙氨酸 Ala 0.30  
+胱氨酸Cys 0.04  
+酪氨酸Tyr 0.18  
+脯氨酸Pro 0.27  
+总氨基酸 TAA 5.29  
+必需氨基酸 EAA 2.56  
+非必需氨基酸 NEAA 2.73  
+必需氨基酸/总氨基酸 EAA/TAA 0.05
+
+Table 2Fatty acid composition of chilled shrimp (percentage of total fatty acids) %
+
+表2冰鲜虾脂肪酸组成（占总脂肪酸的百分比)  
+
+<html><body><table><tr><td>项目Items</td><td>冰鲜虾 Chilled shrimp</td></tr><tr><td>C12:0</td><td>0.17</td></tr></table></body></html>
+
+<html><body><table><tr><td>C14:0</td><td>11.55</td></tr><tr><td>C14:1n</td><td>0.24</td></tr><tr><td>C16:0</td><td>23.14</td></tr><tr><td>C16:1n</td><td>9.84</td></tr><tr><td>C18:0</td><td>2.52</td></tr><tr><td>C18:1n-9</td><td>18.13</td></tr><tr><td>C18:2n-6</td><td>1.92</td></tr><tr><td>C18:3n-6</td><td>0.19</td></tr><tr><td>C18:3n-3</td><td>0.62</td></tr><tr><td>C18:4n-3</td><td>0.93</td></tr><tr><td>C20:0</td><td>0.11</td></tr><tr><td>C20:1n-9</td><td>1.92</td></tr><tr><td>C20:2n-6</td><td>0.06</td></tr><tr><td>C20:3n-6</td><td>0.13</td></tr><tr><td>C20:4n-6</td><td>0.65</td></tr><tr><td>C20:3n-3</td><td>0.06</td></tr><tr><td>C20:5n-3 (EPA)</td><td>15.51</td></tr><tr><td>C22:0</td><td>0.20</td></tr><tr><td>C22:1n-9</td><td>1.78</td></tr><tr><td>C22:5n-6</td><td>0.08</td></tr><tr><td>C22:5n-3</td><td>0.41</td></tr><tr><td>C24:0</td><td>0.05</td></tr><tr><td>C22:6n-3 (DHA)</td><td>9.76</td></tr><tr><td>饱和脂肪酸 SFA</td><td>37.74</td></tr><tr><td>单不饱和脂肪酸 MUFA</td><td>31.91</td></tr><tr><td>多不饱和脂肪酸PUFA</td><td>30.32</td></tr><tr><td>n-3 高不饱和脂肪酸 n-3HUFA</td><td>27.29</td></tr></table></body></html>
+
+<html><body><table><tr><td>n-6 高不饱和脂肪酸n-6HUFA</td><td>3.03</td></tr><tr><td>n-3/n-6</td><td>9.01</td></tr><tr><td>DHA/EPA</td><td>0.63</td></tr></table></body></html>
+
+EPA：二十碳五稀酸 eicosapentaenoic acid;DHA：二十二碳六稀酸 docosahexaenoic acid。表7、表8同。The sameas Table 7and Table 8.
+
+# 1.2 饲养管理
+
+3 组虎斑乌贼随机分在9个桶中，每个桶 20只。在试验中不同的投喂频率和时间分别为：F1投喂组，每天1次（09:00）；F2 投喂组，每天2次(09:00、18:00)；F4投喂组，每天4次(09:00、12:00、15:00 和18:00)。每次投喂都为过量投喂，投喂前将冰冻虾解冻，吸除表面水分并称重，投喂后1h吸出残饵，吸去表面水分并称重，摄食量为投喂重量减去残饵重量，每天08:00 以微流水方式换水，换水量为 $30 \%$ 。养殖周期为4周，在此期间，水温为$2 9 . 0 { \sim } 3 4 . 9 ^ { \circ } \mathrm { C }$ ，溶解氧浓度为 $6 . 0 \mathrm { m g / L }$ 以上，盐度为 $2 3 . 0 \% 0 { \sim } 2 7 . 3 \%$ 。
+
+# 1.3样品采集
+
+养殖试验结束后，饥饿 $2 4 \mathrm { h }$ ，将乌贼用 $0 . 1 5 \mathrm { m o l / L }$ 氯化镁（ $\mathrm { M g C l } _ { 2 }$ ）麻醉后[10]，称重计数，计算增重率(weight gain rate，WGR)、成活率(survival rate，SR)和特定增长率(specificgrowth rate，SGR)等指标。在每个养殖桶中随机取3只乌贼，分别称重，测量其胴长，解剖取肝脏称重，用来计算肥满度(condition factor，CF)和肝体比(hepatosomatic index，HSI)。取10 只乌贼，在冰袋上解剖，取其前肠、肝脏于 $2 . 0 ~ \mathrm { m L }$ 离心管内，用于消化酶活性及氨基酸、脂肪酸含量的测定，剥离腹部肌肉于 $4 \mathrm { m L }$ 离心管内，用于肌肉组成成分、氨基酸及脂肪酸含量的测定，样品于 $. 8 0 ^ { \circ } \mathrm { C } .$ 冰箱中保存。
+
+# 1.4 分析方法
+
+肌肉和肝脏常规营养成分含量测定参照 AOAC(1995)[11]方法，其中水分含量测定用$1 0 5 ^ { \circ } \mathrm { C }$ 恒重法；粗蛋白质含量测定采用蛋白测定仪(Leco FB-528)，原理是热导吸收法；粗脂肪含量的测定采用脂肪测定仪(SX360)，原理是索氏抽提法；粗灰分含量的测定采用马弗炉$5 5 0 ^ { \circ } \mathrm { C }$ 焚烧失重法。
+
+脂肪酸含量分析：将肝脏和肌肉样品冷冻干燥 $4 8 \mathrm { h }$ ，在盐酸-甲醇溶液和氢氧化钾-甲醇溶液中抽提脂肪进行前处理后，送到中国科学院宁波材料技术与工程研究所测试中心，使用气相-质谱仪(GCMS-QP2010 Plus，SHIMADZU 公司，日本)进行脂肪酸的甲酯化，用面积归一法求得各类脂肪酸的相对百分含量。
+
+氨基酸含量分析：将肝脏和肌肉样品用 $6 \mathrm { m o l / L }$ 盐酸沙浴 $2 4 \mathrm { h }$ 后，用 $5 0 ~ \mathrm { m L }$ 容量瓶定容并吸取 $1 ~ \mathrm { m L }$ 溶液进行旋转蒸发，将旋转蒸发后的样品加入 $0 . 0 2 \mathrm { m o l / L }$ 的盐酸后，使用氨基酸分析仪（L-8900）进行分析。
+
+肠道消化酶活性和肝脏抗氧化酶活性分析：肠道胰蛋白酶(trypsin)、淀粉酶 $\overset { \cdot } { \mathtt { a } }$ -amylase,AMS)、脂肪酶（lipase，LPS)、肌酸激酶（creatine kinase，CK)、 $\gamma \cdot$ 谷氨酰转移酶（ $\gamma \cdot$ glutamyltransferase, $\gamma$ GT）、碱性磷酸酶(alkaline phosphatase,AKP)、 $\mathrm { { N a } ^ { + } }$ $\mathrm { K ^ { + } } .$ -ATP酶( $\mathrm { \cdot N a ^ { + } }$ $\mathrm { K } ^ { + }$ -ATPase)活性，肝脏的丙二醛(malondialdehyde，MDA)含量及超氧化物歧化酶(superoxide dismutase，SOD)、谷胱甘肽过氧化物酶(glutathione peroxidase，GSH-Px)活性，均采用南京建成工程生物研究所试剂盒进行测定。
+
+# 1.5计算公式
+
+成活率 $( \% ) { = } 1 0 0 { \times } N _ { \mathrm { t } } / N _ { 0 }$   
+增重率 $\scriptstyle ( { { \% } } ) = 1 0 0 \times ( { { W } _ { \mathrm { t } } } - W _ { 0 } ) / W _ { 0 }$   
+特定生长率 $\scriptstyle ( { ^ { 0 } / 0 } / { \mathrm { d } } ) = 1 0 0 \times ( \ln W _ { \mathrm { t } } - \ln W _ { 0 } ) / t$   
+摄食量(feed intake，FI， $\scriptstyle { \mathrm { g } } ) =$ 投喂量-残饵量；   
+饲料效率(feed efficiency，FE， $\scriptstyle { \% } ) = 1 0 0 \times ( W _ { \mathrm { f } } + W _ { d } - W _ { \mathrm { i } } ) / F$ 肥满度 $( \mathbf { g } / \mathrm { c m } ^ { 3 } ) { = } 1 0 0 { \times } W / L ^ { 3 }$   
+肝体比 $( \% ) { = } 1 0 0 { \times } W _ { \mathrm { h } } / W _ { \odot }$ （20
+
+式中： $N _ { \mathrm { t } }$ 为试验结束时乌贼数量(只)； $N _ { 0 }$ 为试验初始乌贼数量(只)；Wt为试验乌贼末均重 $\mathbf { \tau } ( \mathbf { g } )$ ; $W _ { 0 }$ 为试验乌贼初均重 $\mathbf { \tau } ( \mathbf { g } )$ ; $\mathbf { \chi } _ { t }$ 为试验天数(d)；Wf为终末乌贼总重 $\mathbf { \tau } ( \mathbf { g } )$ ; $W _ { \mathrm { d } }$ 为死亡乌贼总重 $\mathbf { \tau } ( \mathbf { g } )$ ；Wi为初始乌贼总重 $\mathbf { \tau } ( \mathbf { g } )$ ; $F$ 为摄食量 $\mathbf { \tau } ( \mathbf { g } )$ ； $W$ 为乌贼体重 $\mathbf { \tau } ( \mathbf { g } )$ ; $L$ 为乌贼胴长(cm)； $W _ { \mathrm { h } }$ 为肝脏重(g)。
+
+# 1.6数据处理及分析
+
+数据先用Excel2007处理，然后用 SPSS16.0软件进行统计学分析。先对数据作单因素方差分析(one-wayANOVA)，差异显著时，用Turkey 程序进行多重比较， $P { < } 0 . 0 5$ 表示差异显著，结果用平均值 $\pm$ 标准误表示。
+
+# 2结果
+
+# 2.1投喂频率对虎斑乌贼生长性能及形态学指标的影响
+
+投喂频率对虎斑乌贼生长性能及形态学指标的影响见表3。试验结果表明，各组虎斑乌贼的存活率和肥满度没有显著性差异 $( P { > } 0 . 0 5 )$ 。摄食量随着投喂频率的升高而显著上升$( P { < } 0 . 0 5 )$ 。F4 投喂组的饵料效率显著高于F1和F4 投喂组 $( P { < } 0 . 0 5 )$ ，F1 和 F4 投喂组之间没
+
+有显著性差异( $_ { ( P > 0 . 0 5 ) }$ 。F2 和F4 投喂组的增重率、特定生长率和肝体比显著高于F1投喂组$( P { < } 0 . 0 5 )$ ，F2和F4投喂组之间没有显著性差异 $( P { > } 0 . 0 5 )$ 。
+
+# 表3投喂频率对虎斑乌贼生长性能及形态学指标的影响
+
+Table 3Effects of feeding frequency on growth performance and morphology indexes of Sepia pharaonis   
+
+<html><body><table><tr><td rowspan="2">项目</td><td colspan="3">组别Groups</td></tr><tr><td>F1</td><td>F2</td><td>F4</td></tr><tr><td>Items 初始体重 Initial weight/g</td><td>13.08±0.02</td><td>13.1±0.00</td><td>13.07±0.03</td></tr><tr><td>增重率 WGR/%</td><td>28.08±1.17a</td><td>73.02±4.23b</td><td>69.91±6.50b</td></tr><tr><td>存活率 SR/%</td><td>56.67±6.67</td><td>75.00±0.00</td><td>71.67±3.33</td></tr><tr><td>特定生长率 SGR/(%/d)</td><td>0.99±0.04a</td><td>2.19±0.10b</td><td>2.11±0.16b</td></tr><tr><td>摄食量FI/g</td><td>575.00±9.29a</td><td>1 167.67±15.33b</td><td>1 827.00±31.90c</td></tr><tr><td>饲料效率 FE/%</td><td>11.51±0.69a</td><td>16.59±0.84b</td><td>9.67±0.47a</td></tr><tr><td>肝体比 HSI/%</td><td>2.34±0.19a</td><td>3.68±0.44b</td><td>3.92±0.11b</td></tr><tr><td>肥满度 CF/%</td><td>16.84±0.68</td><td>15.50±0.99</td><td>16.48±1.28</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $_ { . } { \scriptstyle { P < 0 . 0 5 } }$ ），相同或无字母表示差异不显著（ $_ { .  { P } > 0 . 0 5 }$ ）。下表同。In the same row, values with different small letter superscripts mean significant difference $_ { ( P < 0 . 0 5 ) }$ ，while withthe same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ .The same as below.
+
+# 2.2投喂频率对虎斑乌贼肝脏和肌肉组成的影响
+
+投喂频率对虎斑乌贼肝脏和肌肉组成的影响见表4。试验结果表明，各组虎斑乌贼的肝脏粗蛋白质含量没有显著性差异 $( P { > } 0 . 0 5 )$ ；F4投喂组的肝脏水分含量显著低于F1投喂组$( P { < } 0 . 0 5 )$ ；F4 投喂组的肝脏粗脂肪含量显著高于F1和F2 投喂组 $_ { ( P < 0 . 0 5 ) }$ ，F2 投喂组显著高于F1投喂组 $( P { < } 0 . 0 5 )$ 。F2 和F4投喂组的肌肉水分含量显著低于F1投喂组 $( P { < } 0 . 0 5 )$ ，肌肉粗蛋白质和粗脂肪含量显著高于F1投喂组 $( P { < } 0 . 0 5 )$ ，但F2和F4 投喂组之间没有显著性差异 $( P { > } 0 . 0 5 )$ 。
+
+Table 4Effects of feeding frequency on liver and muscle composition of Sepia pharaonis（wet weight basis）)
+
+<html><body><table><tr><td>项目</td><td colspan="3">组别 Groups</td></tr><tr><td>Items</td><td>F1</td><td>F2</td><td>F4</td></tr><tr><td>肝脏Liver</td><td></td><td></td><td></td></tr><tr><td>水分 Moisture</td><td>75.23±2.06b</td><td>71.29±0.94ab</td><td>67.55±1.81a</td></tr><tr><td>粗蛋白质 Crude protein</td><td>14.06±1.16</td><td>11.90±0.17</td><td>12.27±0.74</td></tr><tr><td>粗脂肪 Crude lipid</td><td>6.79±0.65a</td><td>12.41±0.53b</td><td>15.41±0.86c</td></tr><tr><td>肌肉Muscle</td><td></td><td></td><td></td></tr><tr><td>水分 Moisture</td><td>85.08±0.32b</td><td>81.79±0.12a</td><td>81.97±0.38a</td></tr><tr><td>粗蛋白质 Crude protein</td><td>12.76±0.35a</td><td>16.16±0.16b</td><td>15.78±0.43b</td></tr><tr><td>粗脂肪 Crude lipid</td><td>0.19±0.02a</td><td>0.26±0.01b</td><td>0.26±0.01b</td></tr></table></body></html>
+
+2.3投喂频率对虎斑乌贼组织氨基酸组成的影响
+
+投喂频率对虎斑乌贼肌肉氨基酸组成的影响见表5。试验结果表明，F2投喂组的肌肉必需氨基酸中苏氨酸（Thr）、亮氨酸（Leu）和赖氨酸（Lys）含量显著高于F1投喂组 $( P { < } 0 . 0 5 )$ F4 投喂组与F1和F2投喂组之间没有显著性差异 $( P { > } 0 . 0 5 )$ 。F2投喂组的肌肉非必需氨基酸中天门冬氨酸（Asp）、丝氨酸（Ser）、谷氨酸（Glu）和丙氨酸（Ala）含量显著高于F1投喂组 $( P { < } 0 . 0 5 )$ ，F4 投喂组与F1和F2 投喂组之间没有显著性差异 $( P { > } 0 . 0 5 )$
+
+表5投喂频率对虎斑乌贼肌肉氨基酸组成的影响(干物质基础)
+
+Table 5Effects of feeding frequency on muscle amino acid composition of Sepia pharaonis (DM basis）g/kg   
+
+<html><body><table><tr><td>项目</td><td colspan="3">组别 Groups</td></tr><tr><td>Items</td><td>F1</td><td>F2</td><td>F4</td></tr><tr><td>必需氨基酸 EAA</td><td></td><td></td><td></td></tr><tr><td>苏氨酸Thr</td><td>0.26±0.00a</td><td>0.28±0.00b</td><td>0.28±0.00ab</td></tr><tr><td>氨酸 Val</td><td>0.24±0.01</td><td>0.27±0.01</td><td>0.25±0.00</td></tr><tr><td>蛋氨酸Met</td><td>0.15±0.01</td><td>0.14±0.02</td><td>0.15±0.00</td></tr><tr><td>异亮氨酸 Ile</td><td>0.27±0.01</td><td>0.28±0.01</td><td>0.27±0.00</td></tr><tr><td>亮氨酸 Leu</td><td>0.49±0.01a</td><td>0.53±0.01b</td><td>0.51±0.00ab</td></tr></table></body></html>
+
+<html><body><table><tr><td>苯丙氨酸 Phe</td><td>0.24±0.01</td><td>0.26±0.01</td><td>0.24±0.00</td></tr><tr><td>赖氨酸Lys</td><td>0.51±0.00a</td><td>0.54±0.01b</td><td>0.52±0.01ab</td></tr><tr><td>组氨酸 His</td><td>0.13±0.01</td><td>0.14±0.00</td><td>0.13±0.00</td></tr><tr><td>精氨酸Arg</td><td>0.71±0.02</td><td>0.67±0.01</td><td>0.68±0.02</td></tr><tr><td>非必需氨基 NEAA</td><td></td><td></td><td></td></tr><tr><td>天门冬氨酸 Asp</td><td>0.63±0.01a</td><td>0.67±0.01b</td><td>0.65±0.01ab</td></tr><tr><td>丝氨酸 Ser</td><td>0.26±0.00a</td><td>0.28±0.00b</td><td>0.27±0.00ab</td></tr><tr><td>谷氨酸 Glu</td><td>1.06±0.01a</td><td>1.14±0.02b</td><td>1.11±0.00ab</td></tr><tr><td>甘氨酸 Gly</td><td>0.25±0.01</td><td>0.25±0.00</td><td>0.25±0.00</td></tr><tr><td>丙氨酸 Ala</td><td>0.30±0.01a</td><td>0.32±0.01b</td><td>0.31±0.00ab</td></tr><tr><td>半胱氨酸 Cys</td><td>0.07±0.01</td><td>0.07±0.01</td><td>0.07±0.00</td></tr><tr><td>酪氨酸Tyr</td><td>0.17±0.01</td><td>0.16±0.02</td><td>0.18±0.01</td></tr><tr><td>脯氨酸Pro</td><td>0.22±0.01</td><td>0.23±0.00</td><td>0.23±0.01</td></tr><tr><td>总氨基酸 TAA</td><td>5.96±0.07</td><td>6.24±0.14</td><td>6.11±0.04</td></tr><tr><td>必需氨基酸 EAA</td><td>3.00±0.05</td><td>3.12±0.08</td><td>3.04±0.03</td></tr><tr><td>非必需氨基酸 NEAA</td><td>2.96±0.03</td><td>3.12±0.06</td><td>3.07±0.02</td></tr><tr><td>必需氨基酸/总氨基酸</td><td></td><td></td><td></td></tr><tr><td>EAA/TAA</td><td>0.05±0.00</td><td>0.05±0.00</td><td>0.05±0.00</td></tr></table></body></html>
+
+投喂频率对虎斑乌贼肝脏氨基酸组成的影响见表6。试验结果表明，F1投喂组的肝脏中Thr、缬氨酸（Val）、蛋氨酸（Met）、异亮氨酸（Ile）、Leu、苯丙氨酸（Phe）、Lys、组氨酸（His）、精氨酸（Arg）、Asp、Ser、Glu、甘氨酸（Gly）、Ala、半胱氨酸（Cys）、酪氨酸（Tyr）、总氨基酸、必需氨基酸和非必需氨基酸含量均显著高于F2和F4 投喂组$( P { < } 0 . 0 5 )$ ，其中F2 和F4 投喂组之间的肝脏中 Val、Met、His、Arg、Asp、Glu、Gly、Ala、Cys、总氨基酸和非必需氨基酸含量没有显著性差异 $( P { > } 0 . 0 5 )$ 。
+
+表6投喂频率对虎斑乌贼肝脏氨基酸组成的影响 (干物质基础)  
+Table 6Effects of feeding frequency on liver amino acid composition of Sepia pharaonis (DM   
+
+<html><body><table><tr><td>basis)</td><td>g/kg</td><td></td></tr><tr><td>项目</td><td colspan="2">组别 Groups</td></tr><tr><td>Items</td><td>F1</td><td>F2</td><td>F4</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="4">必需氨基酸 EAA</td></tr><tr><td>苏氨酸 Thr</td><td>0.23±0.00c</td><td>0.17±0.01b</td><td>0.15±0.00a</td></tr><tr><td>氨酸 Val</td><td>0.21±0.00b</td><td>0.16±0.01a</td><td>0.15±0.00a</td></tr><tr><td>蛋氨酸 Met</td><td>0.15±0.00b</td><td>0.10±0.00a</td><td>0.10±0.00a</td></tr><tr><td>异亮氨酸 Ile</td><td>0.22±0.00c</td><td>0.17±0.01b</td><td>0.15±0.00a</td></tr><tr><td>亮氨酸Leu</td><td>0.33±0.00c</td><td>0.25±0.01b</td><td>0.23±0.00a</td></tr><tr><td>苯丙氨酸 Phe</td><td>0.22±0.00c</td><td>0.17±0.00b</td><td>0.15±0.00a</td></tr><tr><td>赖氨酸Lys</td><td>0.37±0.00c</td><td>0.28±0.01b</td><td>0.25±0.00a</td></tr><tr><td>组氨酸 His</td><td>0.12±0.00b</td><td>0.09±0.00a</td><td>0.08±0.00a</td></tr><tr><td>精氨酸Arg</td><td>0.26±0.01b</td><td>0.18±0.01a</td><td>0.17±0.00a</td></tr><tr><td colspan="4">非必需氨基酸 NEAA</td></tr><tr><td>天门冬氨酸 Asp</td><td>0.46±0.01b</td><td>0.35±0.02a</td><td>0.31±0.00a</td></tr><tr><td>丝氨酸 Ser</td><td>0.22±0.00c</td><td>0.17±0.01b</td><td>0.15±0.00a</td></tr><tr><td>谷氨酸 Glu</td><td>0.60±0.01b</td><td>0.46±0.02a</td><td>0.41±0.01a</td></tr><tr><td>甘氨酸 Gly</td><td>0.20±0.01b</td><td>0.14±0.01a</td><td>0.13±0.00a</td></tr><tr><td>丙氨酸 Ala</td><td>0.20±0.00b</td><td>0.16±0.01a</td><td>0.14±0.00a</td></tr><tr><td>半胱氨酸Cys</td><td>0.11±0.00b</td><td>0.06±0.00a</td><td>0.06±0.00a</td></tr><tr><td>酪氨酸Tyr</td><td>0.19±0.00c</td><td>0.14±0.00b</td><td>0.13±0.00a</td></tr><tr><td>脯氨酸 Pro</td><td>0.20±0.00</td><td>0.18±0.03</td><td>0.14±0.00</td></tr><tr><td>总氨基酸 TAA</td><td>4.27±0.07b</td><td>3.23±0.12a</td><td>2.89±0.03a</td></tr><tr><td>必需氨基酸 EAA</td><td>2.10±0.03c</td><td>1.57±0.04b</td><td>1.42±0.02a</td></tr><tr><td>非必需氨基酸 NEAA</td><td>2.17±0.04b</td><td>1.66±0.08a</td><td>1.47±0.02a</td></tr><tr><td>必需氨基酸/总氨基酸</td><td>0.05±0.00</td><td>0.05±0.01</td><td>0.05±0.00</td></tr><tr><td>EAA/TAA</td><td></td><td></td><td></td></tr></table></body></html>
+
+# 2.4投喂频率对虎斑乌贼组织脂肪酸组成的影响
+
+投喂频率对虎斑乌贼肌肉脂肪酸组成的影响见表7。试验结果表明，各组肌肉中二十碳五稀酸(EPA)、饱和脂肪酸（SFA）、单不饱和脂肪酸（MUFA）、多不饱和脂肪酸（PUFA）和 n-3高不饱和脂肪酸（n-3HUFA）含量没有显著性差异 $( P { > } 0 . 0 5 )$ ；F1 投喂组肌肉中二十二碳六稀酸(DHA)、n-6 高不饱和脂肪酸（n-6HUFA）含量和 DHA/EPA 显著高于F2 和 F4 投喂组 $( P { < } 0 . 0 5 )$ ，F2和F4投喂组之间没有显著性差异 $_ { ( P > 0 . 0 5 ) }$ 。F2 投喂组的 $\mathrm { n } { - } 3 / \mathrm { n } { - } 6$ 显著高于F1投喂组 $( P { < } 0 . 0 5 )$ ，但与F4 投喂组没有显著性差异 $( P { > } 0 . 0 5 )$ 。
+
+表7投喂频率对虎斑乌贼肌肉脂肪酸组成的影响(占总脂肪酸的百分比)
+
+Table 7Effects of feeding frequency on muscle fatty acid composition of Sepia pharaonis   
+
+<html><body><table><tr><td colspan="3">(percentage of total fatty acids)</td><td></td></tr><tr><td>项目</td><td colspan="3">组别 Groups</td></tr><tr><td>Items</td><td>F1</td><td>F2</td><td>F4</td></tr><tr><td>C14:0</td><td>2.71±0.41</td><td>3.14±0.08</td><td>3.01±0.02</td></tr><tr><td>C16:0</td><td>22.94±0.78a</td><td>25.91±0.45b</td><td>25.37±0.44ab</td></tr><tr><td>C16:1n</td><td>0.93±0.38</td><td>0.65±0.04</td><td>0.68±0.03</td></tr><tr><td>C18:0</td><td>13.38±0.92</td><td>12.82±0.46</td><td>13.52±0.18</td></tr><tr><td>C18:1n-9</td><td>3.71±0.48</td><td>4.28±0.27</td><td>4.33±0.08</td></tr><tr><td>C18:2n-6</td><td>0.35±0.03</td><td>0.29±0.01</td><td>0.28±0.01</td></tr><tr><td>C18:3n-6</td><td>0.14±0.01</td><td>0.17±0.06</td><td>0.12±0.01</td></tr><tr><td>C18:3n-3</td><td>0.09±0.01</td><td>0.06±0.01</td><td>0.06±0.00</td></tr><tr><td>C20:0</td><td>0.30±0.04</td><td>0.27±0.02</td><td>0.29±0.01</td></tr><tr><td>C20:1n-9</td><td>3.79±0.25</td><td>3.45±0.13</td><td>3.80±0.13</td></tr><tr><td>C20:2n-6</td><td>0.62±0.08</td><td>0.54±0.02</td><td>0.59±0.03</td></tr><tr><td>C20:4n-6</td><td>2.16±0.06b</td><td>1.54±0.10a</td><td>1.69±0.08a</td></tr><tr><td>C20:3n-3</td><td>0.32±0.03</td><td>0.28±0.01</td><td>0.25±0.02</td></tr><tr><td>C20:5n-3 (EPA)</td><td>12.86±0.56</td><td>13.61±0.21</td><td>13.34±0.23</td></tr><tr><td>C22:1n-9</td><td>0.19±0.03</td><td>0.20±0.03</td><td>0.11±0.01</td></tr><tr><td>C22:5n-6</td><td>1.16±0.06b</td><td>0.87±0.06a</td><td>0.93±0.08ab</td></tr><tr><td>C22:5n-3</td><td>2.27±0.08</td><td>2.01±0.13</td><td>2.23±0.04</td></tr><tr><td>C22:6n-3 (DHA)</td><td>32.06±0.88b</td><td>29.90±0.51a</td><td>29.43±0.25a</td></tr><tr><td>饱和脂肪酸 SFA</td><td>39.33±1.46</td><td>42.15±0.65</td><td>42.18±0.28</td></tr><tr><td>单不饱和脂肪酸 MUFA</td><td>8.62±0.64</td><td>8.58±0.47</td><td>8.89±0.15</td></tr><tr><td>多不饱和脂肪酸 PUFA</td><td>52.05±1.43</td><td>49.27±0.97</td><td>48.93±0.25</td></tr></table></body></html>
+
+<html><body><table><tr><td>n-3高不饱和脂肪酸n-3HUFA</td><td>47.62±1.44</td><td>45.86±0.77</td><td>45.32±0.07</td></tr><tr><td>n-6高不饱和脂肪酸n-6HUFA</td><td>4.44±0.38b</td><td>3.41±0.21a</td><td>3.61±0.19a</td></tr><tr><td>n-3/n-6</td><td>10.73±0.35a</td><td>13.54±0.64b</td><td>12.61±0.63ab</td></tr><tr><td>DHA/EPA</td><td>2.50±0.06b</td><td>2.20±0.01a</td><td>2.21±0.06a</td></tr></table></body></html>
+
+投喂频率对虎斑乌贼肝脏脂肪酸组成的影响见表8。试验结果表明，F2和F4投喂组的肝脏中EPA、MUFA含量和 $\mathrm { n } { - } 3 / \mathrm { n } { - } 6$ 均显著高于F1 投喂组 $( P { < } 0 . 0 5 )$ ，而 F2 和F4 投喂组之间没有显著差异 $( P { > } 0 . 0 5 )$ 。F1投喂组的肝脏中DHA、SFA含量和DHA/EPA著高于F2和 F4投喂组 $( P { < } 0 . 0 5 )$ ，而 F2 和F4 投喂组之间没有显著性差异 $( P { > } 0 . 0 5 )$ 。
+
+表8投喂频率对虎斑乌贼肝脏脂肪酸组成的影响(占总脂肪酸的百分比)
+
+Table 8Effects of feeding frequency on liver fatty acid composition of Sepia pharaonis   
+
+<html><body><table><tr><td colspan="2">(percentage of total fatty acids)</td><td colspan="2">%</td></tr><tr><td>项目</td><td colspan="3">组别Groups</td></tr><tr><td>Items</td><td>F1</td><td>F2</td><td>F4</td></tr><tr><td>C12:0</td><td>0.06±0.01</td><td>0.07±0.00</td><td>0.07±0.00</td></tr><tr><td>C14:0</td><td>7.52±0.17</td><td>8.08±0.22</td><td>8.10±0.03</td></tr><tr><td>C14:1n</td><td>0.08±0.00a</td><td>0.11±0.01b</td><td>0.12±0.00b</td></tr><tr><td>C16:0</td><td>18.31±0.17b</td><td>15.88±0.29a</td><td>15.55±0.10a</td></tr><tr><td>C16:1n</td><td>8.05±0.14a</td><td>9.71±0.13b</td><td>9.79±0.02b</td></tr><tr><td>C18:0</td><td>7.38±0.12b</td><td>5.17±0.07a</td><td>5.04±0.10a</td></tr><tr><td>C18:1n-9</td><td>13.99±0.07a</td><td>15.31±0.22b</td><td>15.00±0.17b</td></tr><tr><td>C18:2n-6</td><td>0.94±0.03a</td><td>1.65±0.03b</td><td>1.64±0.02b</td></tr><tr><td>C18:3n-6</td><td>0.40±0.05b</td><td>0.20±0.01a</td><td>0.19±0.01a</td></tr><tr><td>C18:3n-3</td><td>0.30±0.01a</td><td>0.49±0.01b</td><td>0.52±0.01b</td></tr><tr><td>C18:4n-3</td><td>0.25±0.03a</td><td>0.40±0.02b</td><td>0.38±0.04ab</td></tr><tr><td>C20:0</td><td>0.16±0.00b</td><td>0.12±0.00a</td><td>0.13±0.01a</td></tr><tr><td>C20:1n-9</td><td>2.37±0.04</td><td>2.56±0.07</td><td>2.57±0.04</td></tr><tr><td>C20:2n-6</td><td>0.31±0.01a</td><td>0.35±0.01ab</td><td>0.38±0.01b</td></tr><tr><td>C20:3n-6</td><td>0.17±0.01a</td><td>0.24±0.01b</td><td>0.24±0.02b</td></tr></table></body></html>
+
+<html><body><table><tr><td>C20:4n-6</td><td>2.04±0.07b</td><td>1.15±0.03a</td><td>1.24±0.03a</td></tr><tr><td>C20:3n-3</td><td>0.08±0.01</td><td>0.07±0.00</td><td>0.07±0.01</td></tr><tr><td>C20:5n-3 (EPA)</td><td>12.39±0.42a</td><td>15.65±0.33b</td><td>16.14±0.39b</td></tr><tr><td>C22:0</td><td>0.19±0.03</td><td>0.17±0.05</td><td>0.15±0.01</td></tr><tr><td>C22:1n-9</td><td>1.24±0.07a</td><td>1.55±0.04b</td><td>1.61±0.05b</td></tr><tr><td>C22:5n-6</td><td>0.17±0.01b</td><td>0.11±0.02a</td><td>0.13±0.01ab</td></tr><tr><td>C22:5n-3</td><td>0.76±0.01a</td><td>0.99±0.07b</td><td>1.02±0.03b</td></tr><tr><td>C24:0</td><td>0.15±0.01</td><td>0.14±0.07</td><td>0.10±0.02</td></tr><tr><td>C22:6n-3 (DHA)</td><td>22.70±0.76b</td><td>19.80±0.56a</td><td>19.83±0.16a</td></tr><tr><td>饱和脂肪酸 SFA</td><td>33.78±0.21b</td><td>29.65±0.53a</td><td>29.15±0.04a</td></tr><tr><td>单不饱和脂肪酸MUFA</td><td>25.72±0.15a</td><td>29.24±0.36b</td><td>29.08±0.26b</td></tr><tr><td>多不饱和脂肪酸PUFA</td><td>40.50±0.25</td><td>41.11±0.83</td><td>41.78±0.28</td></tr><tr><td>n-3 高不饱和脂肪酸n-3HUFA</td><td>36.47±0.29</td><td>37.41±0.81</td><td>37.95±0.27</td></tr><tr><td>n-6 高不饱和脂肪酸n-6HUFA</td><td>4.03±0.05b</td><td>3.70±0.04a</td><td>3.83±0.06ab</td></tr><tr><td>n-3/n-6</td><td>9.06±0.17a</td><td>10.12±0.20b</td><td>9.91±0.15b</td></tr><tr><td>DHA/EPA</td><td>1.84±0.13b</td><td>1.26±0.04a</td><td>1.23±0.04a</td></tr></table></body></html>
+
+2.5投喂频率对虎斑乌贼肝脏抗氧化性能和肠道消化酶活性的影响
+
+投喂频率对虎斑乌贼肝脏抗氧化性能和肠道消化酶活性的影响见表9。试验结果表明，各组肝脏超氧化物歧化酶活性和丙二醛含量没有显著性差异 $( P { > } 0 . 0 5 )$ ，F1投喂组的肝脏谷胱甘肽过氧化物酶活性显著高于F2投喂组 $( P { < } 0 . 0 5 )$ ，与 F4 投喂组没有显著性差异 $( P { > } 0 . 0 5 )$ 。
+
+各组前肠的胰蛋白酶、肌酸激酶、 $\gamma \cdot$ -谷氨酰转移酶和 $\mathrm { \Delta N a ^ { + } }$ ， $\mathrm { K ^ { + } } .$ -ATP酶活性没有显著性差异 $( P { > } 0 . 0 5 )$ 。F1投喂组的前肠 $\mathfrak { a } .$ -淀粉酶、脂肪酶和碱性磷酸酶活性均显著高于F2 投喂组$( P { < } 0 . 0 5 )$ ，F2 和F4投喂组之间没有显著性差异 $( P { > } 0 . 0 5 )$ 。
+
+表9投喂频率对虎斑乌贼肝脏抗氧化性能和肠道消化酶活性的影响
+
+Table 9Effects of feeding frequency on liver antioxidant ability and intestinal digestive enzyme activities of Sepia pharaonis
+
+<html><body><table><tr><td>Items</td><td>F1</td><td>F2</td><td>F4</td></tr><tr><td>肝脏Liver</td><td></td><td></td><td></td></tr><tr><td>超氧化物歧化酶 SOD/(U/mg prot)</td><td>84.85±6.07</td><td>85.69±8.58</td><td>102.12±4.72</td></tr><tr><td>谷胱甘肽过氧化物酶GSH-Px/ (U/mg prot)</td><td>376.94±27.60b</td><td>230.77±34.68a</td><td>311.38±14.74ab</td></tr><tr><td>丙二醛 MDA/(mmol/mg prot)</td><td>2.21±0.28</td><td>3.47±0.73</td><td>4.50±0.78</td></tr><tr><td>前肠Anterior intestine</td><td></td><td></td><td></td></tr><tr><td>α-淀粉酶a-AMS/(U/mgprot)</td><td>0.48±0.04b</td><td>0.30±0.03a</td><td>0.32±0.04ab</td></tr><tr><td>脂肪酶LPS/（U/gprot)</td><td>38.90±5.46b</td><td>17.59±2.45a</td><td>22.08±1.09ab</td></tr><tr><td>胰蛋白酶 Trypsin/（U/mg prot）</td><td>415.14±109.99</td><td>295.56±97.59</td><td>367.17±46.61</td></tr><tr><td>肌酸激酶 CK/(U/mg prot)</td><td>0.33±0.05</td><td>0.28±0.01</td><td>0.49±0.09</td></tr><tr><td>γ-谷氨酰转移酶γ-GT/(U/gprot)</td><td>0.03±0.01</td><td>0.08±0.02</td><td>0.03±0.01</td></tr><tr><td>碱性磷酸酶 AKP/(金氏单位/g prot)</td><td>0.16±0.03b</td><td>0.07±0.02a</td><td>0.07±0.01a</td></tr><tr><td>Na+，K+-ATP 酶 Na+，K+-ATPase</td><td></td><td></td><td></td></tr><tr><td>/(U/mg prot)</td><td>1.91±0.26</td><td>1.50±0.10</td><td>1.38±0.07</td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1投喂频率对虎斑乌贼生长性能的影响
+
+在适宜的投喂频率范围内，大多数鱼类的生长速率会随着投喂频率的增加而增加[12]，林艳等[13]研究发现，每天投喂5次时，团头鲂(Megalobrama ambycephala）的特定生长率和增重率都显著高于每天投喂1和2次的。王武等[14]在瓦氏黄颡鱼(Pelteobagrus vachellirichardson)幼鱼的研究中也发现，随着投喂频率的增加，黄颡鱼的特定生长率显著升高。许氏平(Sebastes schlegeli)幼鱼的特定生长率在每天投喂4次时最高，比其他组(每天投喂1、2、3次)高 $2 . 2 5 \% \sim 1 5 . 4 3 \% ^ { [ 1 ] }$ 。本试验同样发现，当每天投喂2次（F2投喂组）时，虎斑乌贼的增重率和特定生长率都显著高于F1投喂组，这可能是因为在适宜的较高投喂频率下，虎斑乌贼每天接近或达到饱食的次数更多，使得自身获得更多的营养与能量用于体重增加[15]，进而引起饵料效率的提高，这在团头鲂[13]里也有相同的结果，说明适当的提高投喂频率有利于鱼类的生长。本试验中，F2投喂组的饵料效率显著高于F4投喂组，可能是因为当投喂频率过高时，一方面，由于虎斑乌贼增加了因摄食而需要消耗的能量，使其用于生长的能量减少，并且水生生物各种活动行为频繁，能量消耗过快，不利于其自身生长，并且会增加饵料成本[16]；另一方面，因为乌贼是有胃动物，胃中可以容纳较多的食物，反复多次饲喂会导致消化道内含物反射性急速移动，在未消化的情况下被排掉，从而降低了食物的转化效率，影响生长。
+
+3.2投喂频率对虎斑乌贼肝脏和肌肉组成成分、形态学指标及组织氨基酸组成的影响
+
+有研究发现，投喂频率对吉富罗非鱼（Oreochromisniloticus）的肝体比没有显著性影响[17]，而黄颡鱼（Pelteobagrus vachelli）的肝体比随投喂频率的增加而减小[18]。也有研究报道,提高投喂频率会使鱼类的摄食量增加，摄入的能量除了用于正常生长外，多余的能量会转化为脂肪而储存，进而使鱼体脂肪含量升高，相对应的鱼体水分含量会降低[19]；董桂芳等[20]在斑点叉尾（Ictalurus punctatus）的研究上发现，当投喂频率较高时，试验鱼食物丰富，食物竞争和自相残杀的所消耗的能量较少，于是食物中大量的脂肪和蛋白质等物质被存储在肝脏中；而当投喂频率较低时，鱼类摄入的能量更多的被用于竞争食物和躲避同类相残，所以蛋白质等营养物质大多数被分解掉。本研究中，随着投喂频率的升高，虎斑乌贼的肌肉和肝脏粗脂肪含量显著上升，水分含量显著降低，出脂肪含量的升高也导致肝体比呈现出上升趋势，这与上述报道相似，这可能是由于随投喂频率的升高，鱼类的摄食活跃性降低[21]，使饵料中过量的营养物质转换为脂肪存储在肝脏中[22]。而虎斑乌贼肝脏氨基酸含量随投喂频率升高而下降，F2 投喂组肝脏粗蛋白质含量最高，但与其他各组没有显著性差异的结果也验证了以上推论，这与大黄鱼(Larimichthys crocea)[23]和黑棘鲷(Acanthopagrus schlegeli)[24]的研究结果相近。肌肉中粗蛋白质和粗脂肪含量变化一致，均随着投喂频率的升高显著上升，这与肌肉中大量必需和非必需氨基酸的变化趋势相似，说明虎斑乌贼摄食的过多能量，会以脂肪和蛋白质的形式存储于肌肉中，肌肉是重要的储存能量组织；而随着投喂频率的升高，Thr、Leu、Lys、Asp、Ser、Glu 和Ala 含量在肌肉中的变化趋势与肝脏中相反，这是是氨基酸在体内组织中转移的结果，我们推测这可能也是肝脏粗蛋白质含量降低的原因之一。不同投喂频率组的必需氨基酸/总氨基酸（EAA/TAA）没有显著性差异，但比值都大于联合国粮农组织(FAO)和世界卫生组织(WHO)推荐的理想蛋白质模式：EAA/TAA<40%[25]，投喂冰鲜虾的乌贼，其氨基酸比例均衡，种类齐全，均属于优质水产蛋白质。
+
+# 3.3投喂频率对虎斑乌贼组织脂肪酸组成的影响
+
+海水鱼靠自身合成EPA和DHA 的含量不能满足其自身生长的需要，必须要从食物中获得[26]。缺乏EPA 和DHA会对鱼类的视觉系统和色素沉积产生不利作用，降低鱼苗捕食能力，影响神经内分泌系统发育，升高死亡率[27]。花生四烯酸(ARA，C20:4n-6)作为高不饱和脂肪酸其中之一也影响着某些海水鱼的正常发育[28]，在本研究中，随着投喂频率从每天1次升高到每天2次，乌贼肌肉和肝脏中的C20:4n-6含量均显著降低，而F2和F4投喂组之间没有显著性差异。随着投喂频率的升高，虽然肌肉中的 EPA含量没有显著性差异，但是总体表现出上升趋势，而肌肉中DHA含量和 DHA/EPA 显著下降，这与肝脏中的 EPA 和DHA 含量变化相一致，表明肌肉和肝脏中脂肪酸的含量和组成有一定的正相关性，这可能跟脂肪储存及脂肪酸的选择性保留相关。鱼体脂肪酸 $\mathrm { n } { - } 3 / \mathrm { n } { - } 6$ 作为评价水产品质量优劣的重要因素之一，WHO/FAO 推荐的水平是至少在 $0 . 1 { \sim } 0 . 2 ^ { [ 2 9 ] }$ ，在虎斑乌贼试验中，冰鲜虾和虎斑乌贼的肌肉 $\mathrm { n } { - } 3 / \mathrm { n } { - } 6$ 为 $9 . 0 1 { \sim } 1 3 . 5 4 \$ ，远大于WHO/FAO的推荐值，表明冰鲜虾作为虎斑乌贼的饵料，能够满足其脂肪酸的需要量。
+
+# 3.4投喂频率对虎斑乌贼肝脏抗氧化性能和肠道消化酶活性的影响
+
+肝脏是重要的代谢器官，是自由基产生的重要场所。自由基会导致脂肪酸的氧化[30]。丙二醛作为脂质过氧化的最终产物，具有细胞毒性[31]，本研究中，虎斑乌贼肝脏丙二醛含量随着投喂频率的升高表现为升高的趋势，这表明高频率的投喂会引起肝脏氧化应激，这与团头鲂[32]肝脏丙二醛含量在每天投喂6次时达到最高的结果相一致。在鱼类研究中，超氧化物歧化酶和谷胱甘肽过氧化物酶是评价细胞抗氧化能力的重要指标[33]。本试验中，F4 投喂组肝脏超氧化物歧化酶活性最高，这会缓解由高频投喂引起的氧化应激。F2投喂组谷胱甘肽过氧化物酶活性显著低于F1投喂组，而F4投喂组与F1和F2投喂组没有显著性差异。然而，目前关于投喂频率对虎斑乌贼氧化应激确切机制的研究还比较少，需要进一步深入研究。
+
+消化酶活性被认为是评价鱼类吸收消化食物的能力之一[34]。本研究中，3种消化酶（α-淀粉酶、脂肪酶和胰蛋白酶）活性都是随投喂频率的升高表现为先降低后升高的趋势，F1投喂组的虎斑乌贼的前肠α-淀粉酶、脂肪酶活性均显著高于其他组，但各组间胰蛋白酶活性没有显著性差异，这与灰海马（Hippocampus erectus）[35]、条石鲷（Oplegnathus fasciatus）[3]和奥尼罗非鱼（Oreochromisniloticus $\times O$ affreus）[36]的研究结果相似。这可能是由于在较低的投喂频率下，虎斑乌贼摄入的食物不足，机体自身需要通过提高肠道消化酶活性，使食物中的营养物质被充分吸收，进而满足正常生长所需要的能量；而当摄入的食物增多时，虎斑乌贼用较低的消化酶活性就能获得满足正常生长需要的能量，这也进一步验证了与F4 投喂相比，F2投喂组的虎斑乌贼对饵料的利用率更高。最近研究发现，肠道肌酸激酶、 $\gamma \cdot$ 谷氨酰转移酶、碱性磷酸酶和 $\mathrm { \Delta N a ^ { + } }$ ， $\mathrm { K ^ { + } } .$ -ATP 酶和消化酶的变化有相似的趋势[37]，表明鱼在最佳投饲频率下吸收养分的能力增强。
+
+# 4结论
+
+综合考虑生长性能、饵料利用、肝脏和肌肉体成分、肝脏抗氧化酶活性、肠道消化酶活以及组织脂肪酸和氨基酸组成，在本试验条件下，虎斑乌贼幼体的适宜投喂频率为每天 2次。
+
+# 参考文献：
+
+[1]SVEIER H, LIED E.The effect of feeding regime on growth, feed utilisation and weight dispersioninlargeAtlanticsalmon (Salmosalar) reared in seawater[J].Aquaculture,1998,165(3/4):333-345.   
+[2]JOBLING M.Effect of feeding frequency on food intake and growth of Arctic charr,Salvelinus alpinus L[J.Joumal ofFishBiology,1983,23(2):177185.   
+[3]宋国,彭士明,孙鹏,等.饥饿与再投喂及投喂频率对条石鲷幼鱼生长和消化酶活力的影响 [J].中国水产科学,2011,18(6):1269-1277.   
+[4] 黄梓荣.南海北部陆架区头足类的种类组成和资源密度分布[J].南方水产科 学,2008,4(5):1-7.   
+[5]MINTON J W,WALSHL S,LEE P G,et al.First multi-generation culture of the tropical cuttlefish Sepia pharaonis Ehrenberg,1831[J].Aquaculture International,20o1,9(5):379-392.   
+[6]HOQUE M S,BENJAKUL S,PRODPRAN T.Properties of film from cuttefish (Sepia pharaonis) skin gelatinincorporatedwithcinnamon,clove and star anise extracts[J].Food Hydrocolloids,2011,25(5):1085-1097.   
+[7]戴远棠,谢晓晖,黄国光,等.虎斑乌贼幼体对盐度及pH值耐受力的研究[J].河北渔 业,2012(10):8-11,16.   
+[8]陈道海,文菁,赵玉燕,等.野生与人工养殖的虎斑乌贼肌肉营养成分比较[J].食品科 学,2014,35(7):217-222.   
+[9]陈道海,王雁,梁汉青,等.虎斑乌贼(Sepia pharaonis)胚胎发育及孵化历期观察[J].海洋与 湖沼,2012,43(2):394-400.   
+[10] MESSENGER J B,NIXON M,RYAN K P.Magnesium chloride as an anaesthetic for cephalopods[J].ComparativeBiochemistryandPhysiologyPartC:Comparative Pharmacology,1985,82(1):203-205.   
+[11]BELLARDI S,BIANCHINI M L,DOMENIS L,et al.Effect of feeding schedule and feeding
+
+rate on size and number of adipocytes in rainbow trout oncorhynchus mykiss[J].Journal of the World Aquaculture Society,1995,26(1):80-83.
+
+[12]孙丽慧,王际英,丁立云,等.投喂频率对星斑川鲽幼鱼生长和体组成影响的初步研究[J].上海海洋大学学报,2010,19(2):190-195.
+
+[13]林艳,缪凌鸿,戈贤平,等.投喂频率对团头鲂幼鱼生长性能、肌肉品质和血浆生化指标的 影响[J].动物营养学报,2015,27(9):2749-2756.   
+[14]王武,周锡勋,马旭洲,等.投喂频率对瓦氏黄颡鱼幼鱼生长及蛋白酶活力的影响[J].上海水产 大学学报,2007,16(3):224-229.   
+[15]TUCKER B J,BOOTH M A,ALLAN G L,et al.Effects of photoperiod and feeding frequencyonperformanceofnewlyweanedAustraliansnapperPagrus auratus[J].Aquaculture,2006,258(1/2/3/4):514-520.   
+[16]LEE S M,PHAM M A.Effects of feeding frequency and feed type on the growth,feed utilizationandbodycompositionofjuvenileoliveflounder,Paralichthys olivaceus[J].Aquaculture research,2010,41(9):e166-e171.   
+[17]孙晓锋,冯健,陈江虹,等.投喂频率对尼罗系吉富罗非鱼幼鱼胃排空、生长性能和体组成 的影响[J].水产学报,2011,35(11):1677-1683.   
+[18]方巍.黄颡鱼摄食和投喂策略的研究[D].硕士学位论文.武汉:华中农业大学,2010.   
+[19]CHO S H,LIM Y S,LEE J H,et al.Efcts of feeding rate and feeding frequency on survival,growth,and body composition of Ayu post-larvae Plecoglossus altivelis[J].Journal of the World Aquaculture Society,2003,34(1):85-91.   
+[20] 董桂芳,胡振雄,黄峰,等.投喂频率对斑点叉尾幼鱼生长、饲料利用和鱼体组成的影响 [J].渔业现代化,2012,39(2):48-53.   
+[21]DWYER K S,BROWN J A,PARRISH C,et al.Feeding frequency affects food consumption,feeding pattern and growth of juvenile yellowtail flounder (Limanda ferruginea)[J].Aquaculture,2002,213(1/2/3/4):279-292.   
+[22]覃希.投喂频率和投喂水平对吉富罗非鱼幼鱼生长性能和生理机能的影响[D].硕士学位 论文.南宁:广西大学,2014.   
+[23]孙瑞健,徐玮,米海峰,等.饲料脂肪水平和投喂频率对大黄鱼生长、体组成及脂肪沉积的 影响[J].水产学报,2015,39(3):401-409.   
+[24]楼宝,毛国民,骆季安,等.饲喂频率对黑鲷生长及体生化成分的影响[J].海洋水产研 究,2006,27(6):19-24.   
+[25] Joint FAO/WHO Codex Alimentarius Commission,Joint FAO/WHO Food Standards
+
+Programme,World Health Organization.Codex alimentarius:general requirements(food hygiene)[M].[s.l.]:Food & Agriculture Organization,2001.
+
+[26]WATANABE T,KITAJIMA C,FUJITA S.Nutritional values of live organisms used in Japan for mass propagation of fish:a review[J].Aquaculture,1983,34(1/2):115-143.
+
+[27] BELL M V,BATTY R S,DICK JR,et al.Dietary deficiency of docosahexaenoic acid impairs vision at low light intensities in juvenile herring (Clupea harengus L.)[J].Lipids,1995,30(5):443-449.
+
+[28] SARGENT J R,MCEVOY L A,BELL J G.Requirements,presentation and sources of polyunsaturated fatty acids in marine fish larval feeds[J].Aquaculture,1997,155(1/2/3/4):117-127.
+
+[29]何志刚,刘文革,伍远安,等.饲料脂肪水平对芙蓉鲤鲫形体指标、组织脂肪含量与脂肪酸组成的影响[J].饲料研究,2016(6):36-41.
+
+[30] FLOOD L P,CARVAN III M J,JAEGER L,et al.Reduction in hepatic microsomal P-450 and related catalytic activity in farm-raised red drum[J].Journal of Aquatic Animal Health,1996,8(1):13-21.
+
+[31] BANERJEE B D,SETH V,BHATTACHARYA A,et al.Biochemical effects of some pesticides on lipid peroxidation and free-radical scavengers[J].Toxicology Letters,1999,107(1/2/3):33-47.
+
+[32]LI X F,TIAN H Y,ZHANG D D,et al.Feeding frequency afects stressinnate immunity and disease resistance of juvenile blunt snout bream Megalobrama amblycephala[J].Fish & Shellfish Immunology,2014,38(1):80-87.
+
+[33] JIN Y,TIAN L X,ZENG S L,et al.Dietary lipid requirement on non-specific immune responsesin juvenilegrasscarp (Ctenopharyngodon idella)[J].Fish& Shelfish Immunol0gy,2013,34(5):1202-1208.
+
+[34]尹飞,彭士明,孙鹏,等.低盐胁迫对银鲳幼鱼肠道消化酶活力的影响[J].海洋渔 业,2010,32(2):160-165.
+
+[35]席寅峰,张东,施兆鸿.投喂频率对雌雄分化后灰海马生长发育、饵料转换效率及消化酶活力的影响[J].海洋渔业,2013,35(1):77-85.
+
+[36]强俊,王辉,李瑞伟,等.饲喂频率对奥尼罗非鱼仔稚鱼生长、体成分和消化酶活力的影响[J].广东海洋大学学报,2009,29(4):79-83.
+
+[37]TIAN H Y,ZHANG D D,LI X F,et al.Optimum feeding frequency of juvenile blunt snout bream Megalobrama amblycephala[J].Aquaculture,2015,437:60-66.
+
+Effects of Feeding Frequency on Growth Performance, Body Composition, Digestive Enzyme Activities, Tissue Fatty Acid and Amino Acid Compositions of Sepia pharaonis   
+ZHU Tingting LIChenchen LU You JIN Min WANG Xuexi LUO Jiaxiang ZHOU Qicun\*   
+(Laboratory ofFish Nutrition,School ofMarine Sciences, Ningbo University，Ningbo 315211, China)
+
+Abstract: This experiment was conducted to investigate the effects of feeding frequency on growth performance, body composition， digestive enzyme activities, tissue faty acid and amino acid compositions of Sepia pharaonis. A total of 180 juvenile Sepia pharaonis with the initial body weight of ( $( 1 3 . 0 8 { \pm } 0 . 0 1 \$ ） g were randomly divided into 3 groups (feeding frequencies were 1, 2 and 4 times a day, named F1, F2 and F4 groups, respectively), and each group had 3 replicates of 20 Sepia pharaonis per replicate. The experiment lasted for 4 weeks. The results showed as follows: 1) the weight gain rate (WGR), specific growth rate (SGR) and hepatosomatic index (HSI) in F2 and F4 groups were significantly higher than those in F1 group $( P { < } 0 . 0 5 )$ ，however，the feed efficiency (FE) in F1 and F4 groups was significantly lower than that in F2 group ( $( P { < } 0 . 0 5 )$ . 2) The liver moisture content in F4 group was significantly lower than that in F1 group $( P { < } 0 . 0 5 )$ , and the liver crude lipid content was significantly higher than that in F1 and F2 groups $( P { < } 0 . 0 5 )$ . The muscle moisture content in F2 and F4 groups was significantly lower than that in F1 group （204号 $( P { < } 0 . 0 5 )$ , and the muscle crude protein and crude lipid contents was significantly higher than that in F1 group ( $( P { < } 0 . 0 5 )$ ).3) There were no significant differences on the contents of total amino acids (TAA), essential amino acids (EAA) and non-essential amino acids (NEAA) in muscle among all groups $( P { > } 0 . 0 5 )$ . The contents of TAA, EAA and NEAA in liver in F1 group were significantly lower than that in F2 and F4 groups $( P { < } 0 . 0 5 )$ , the contents of TAA and NEAA in liver in F1 group had no significant difference with F4 group $( P { > } 0 . 0 5 )$ . 4) The docosahexaenoic acid (DHA) content and DHA/eicosapentaenoic acid (EPA) in muscle and liver in F1 group were significantly higher than that in F2 and F4 groups $( P { < } 0 . 0 5 )$ , and there were no significant differences on DHA content and DHA/EPA in muscle and liver between 2 and F4 groups $( P { > } 0 . 0 5 )$ . There were no significant differences on the contents of polyunsaturated fatty acids (PUFA) and n-3 high unsaturated fatty acids (n-3HUFA） in muscle and liver among all groups $( P { > } 0 . 0 5 )$ .5）The liver glutathione peroxidase activity in F1 group was significantly higher than that in F2 group $( P { < } 0 . 0 5 )$ . The activities of $\mathfrak { a }$ -amylase, lipase and alkaline phosphatase in anterior intestine in F1 group were significantly higher than that in F2 group $( P { < } 0 . 0 5 )$ ，but no significant differences were found between F2 and F4 groups $( P { > } 0 . 0 5 )$ .According to the experimental results, the appropriate feeding frequency for juvenile Sepia pharaonis is 2 times a day.
+
+Key words: Sepia pharaonis； feeding frequency; growth performance;； body composition; digestive enzyme activities; tissue fatty acids; tissue amino acids

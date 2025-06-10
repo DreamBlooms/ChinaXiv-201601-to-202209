@@ -1,0 +1,361 @@
+[
+    {
+        "type": "text",
+        "text": "马铃薯低氮肥胁迫响应TCP转录因子的鉴定与分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "牛苏燕，梁芳，张珍华，蒋素华，武思，王默霏，袁秀云，崔波",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（郑州师范学院，郑州450044）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：TCP转录因子是植物特有的一类转录因子，参与植物生物学过程的多个方面。为研究马铃薯TCP转录因子在响应低氮肥胁迫中的作用，该文以氮肥供应不足（0.05mmol·L-）和氮肥供应充足（7.5 mmol·L-1）条件下的马铃薯根和叶片构建了4个转录组学文库进行测序，并对差异表达的TCP转录因子进行分析。结果表明：（1）4个转录组文库共鉴定TCP转录因子24个，主要分布在2号、3号和6号染色体上。（2）结构域分析表明，24个TCP 转录因子均具有典型的basic-Helix-Loop-Helix结构域。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（3）系统进化分析表明，马铃薯与拟南芥TCP蛋白可聚集于一起，分属于10个亚类。（4）转录组测序结果表明，在低氮肥胁迫下，大多数TCP转录因子被抑制表达，有3个TCP转录因子在根中显著性差异表达，5个TCP转录因子在叶中特异性表达。（5）根据GO功能分析和马铃薯TCP转录因子与拟南芥TCP转录因子的亲缘关系分析，推测这些TCP转录因子参与了马铃薯对低氮肥胁迫的响应。该文为进一步研究马铃薯与其他粮食作物TCP转录因子响应低氮肥胁迫的分子功能奠定了基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：马铃薯，TCP转录因子，氮肥胁迫，转录组测序，生物信息学分析中图分类号：Q943 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Identification and analysis of TCP transcription factors in Solanum tuberosum response to low nitrogen fertilizer stress ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "NIU Suyan, LIANG Fang, ZHANG Zhenhua, JIANG Suhua, WU Si, WANG Mofei, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：河南省科技攻关计划项目(202102110167)：河南省高等学校重点科研项目(21A210029，21B210011)；郑州师范学院高层次人才科研启动专项经费(2018)[Supported by Key Scientific and Technological Project of Henan Province(202102110167); KeyResearch Projects ProgramofHgher Education Institutes in Henan Province(21A210029,21B210011);Scientific Research Starting Foundation of Zhengzhou Normal University (2018)]。  \n第一作者：牛苏燕（1986-），博士，讲师，主要从事薯类作物育种及功能基因组学等研究工作，（E-mail）niusuyan@zznu.edu.cn; niusuyan1234@163.com。  \n\\*通信作者：崔波，博士，教授，主要从事植物分子育种等研究工作，（E-mail）laocuibo@163.com。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YUAN Xiuyun, CUI Bo\\* ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(Zhengzhou Normal University,Zhengzhou 450044, China) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract:TCP transcription factors are a type of plant-specific transcription factors，which have been implicated in multiple aspects of plant biological processes.To study the role of potato TCP transcription factors in response to low nitrogen fertilizer stres,here,four mRNA libraries from potato roots and leaves under the conditions of low nitrogen fertilizer $( 0 . 0 5 \\mathrm { m m o l \\cdot L ^ { - 1 } }$ ）and sufficient nitrogen fertilizer $( 7 . 5 \\ \\mathrm { m m o l } \\cdot \\mathrm { L } ^ { - 1 } .$ ） were constructed for transcriptome sequencing,respectively. Meanwhile,the differentially expressed TCP transcription factor were analyzed.The results were as follows: (1)A total of 24 TCP transcription factors were identified in the four transcriptome libraries,and mainlydistributed on the second，third and sixth chromosomes.(2) The analysis of domains showed that allof 24 TCP transcription factors contained basicHelix-Loop-Helix domain. (3） The phylogenetic analysis showed that the TCP proteins of potato and Arabidopsis thaliana were closely related,and clustered into 10 subgroups. (4) Transcriptome sequencing results showed that the expression levels of most potato TCP transcription factors were suppressed by low nitrogen fertilizer stress.Among them，three TCP transcription factors were significantly differentially expressed in roots, while five TCP transcription factors were specifically expressed in leaves. (5)According to the GO functional analysis and the relationship between the potato and the A. thaliana TCP transcription factors,it is predicted that these TCP transcription factors are involved in response of potato to low-nitrogen fertilizer stress.The research provided a foundation for further study on the molecular role of transcription factors response to low nitrogen fertilizer stress in potato and other crops. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Solanum tuberosum， TCP transcription factors， nitrogen fertilizer stress，transcriptome sequencing, bioinformatics analysis ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "TCP 转录因子是植物体内所特有的一类调控蛋白，参与植物的形态建成及生长过程中逆境响应的调控（Martin-Trilo & Cubas,2010; Jean-Michel etal.,2014; Mukhopadhyay & Tyagi,2015; Challa etal.,2016）。例如，大麦基因 BDI1（Branched and Indeterminate Spikelet1）编码了一个CYC/TB1型TCP 转录因子，在大麦花序结构和小穗发育中起着至关重要的作用（Shang etal.,2020)。过表达水稻基因OsPCF7不仅增加了转基因水稻幼苗的茎高、根长和总根数，促进了水稻的分蘖和抽穗，还增加了单株穗数和饱满粒数（Lietal.,2020)。此外，有研究证明蓝莓 VcTCP18在拟南芥中过表达显著降低了种子的发芽率，同时在转基因植株中也出现了花期晚、莲座少、主枝少等芽休眠现象（Li et al,2021)。槭树 TCP转录因子ApTCP2可通过miR319调控拟南芥叶片的形态发生、影响开花和正向调节叶片的衰老（Zhu etal.,2022)。还有研究证明 TCP 转录因子参与植物抗逆过程，例如水稻和拟南芥中过表达毛竹（Phyllostachys edulis）转录因子PeTCPl0不仅提高了转基因植株的耐旱性同时也降低了对ABA的敏感性（Liu etal.,2020）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "马铃薯（Solanum tuberosum）是世界上第四大粮食作物，广泛种植于中国、俄罗斯、印度、乌克兰、美国等国家。近来年，随着马铃薯主粮化在我国的推进，马铃薯的种植面积和产量越来越高，这对实现我国农业的可持续发展和保障我国粮食安全发挥着日益重要的作用。然而，马铃薯整个生育过程中总是受到氮素的限制，氮肥供应过量或者不足均会严重影响商品薯的产量和质量（Maltas et al,2018)。有研究表明，转录因子参与调控植物生长发育过程中所面临的缺素胁迫，例如，在低氮肥胁迫下，拟南芥AtTCP20能够与其他蛋白质互作后激活氨同化关键基因，从而提高植株的氮同化能力（Guan et al.,2017）。此外，白桦 BpTCP3 和香蕉Ma06_g15900 也参与低氮胁迫的应答反应（任丽，2019；阚宝林等，2021)。随着基因组数据的发表，马铃薯中转录因子的研究也陆续有报道。例如，马铃薯 StMYB44转录因子响应低磷胁迫，在缺少磷元素的情况下表达量被抑制，能够通过抑制马铃薯块茎磷酸激酶1的表达量，进而负调控马铃薯中的磷转运（Zhou etal.,2017)。此外，牛苏燕等（2021）基于转录组学方法，鉴定出了响应低氮肥胁迫的36个MYB转录因子。肖熙鸥等（2018）对马铃薯基因组进行检索获得了43条TCP转录因子，但未对转录因子进行功能分析和验证。虽然有研究证明了从马铃薯品种‘费乌瑞它’中克隆的转录因子 StTCP13在响应盐胁迫逆境中发挥一定作用（李佳皓等，2021)，但是，马铃薯TCP转录因子是否参与氮肥饥饿胁迫以及在其供应不足条件下的作用尚不明确。因此，该文以马铃薯氮肥供应不足和充足条件下的转录组数据为基础，利用生物信息学技术分析研究TCP转录因子的基本信息和保守结构域，在不同组织和不同施氮水平下的表达情况，GO 功能以及与拟南芥TCP转录因子的亲缘关系，为进一步深入研究马铃薯TCP转录因子在响应氮肥胁迫中的作用奠定基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1试验材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以马铃薯薯条型品种‘RussetBurbank’为材料，分别种植于氮肥供应充足 $7 . 5 \\ \\mathrm { m m o l } { \\cdot } \\mathrm { L } ^ { - 1 }$ 和供应不足（低氮肥胁迫）0.05 mmol-L-1（Sharifi et al.,2007;Li etal.,2010）的水培系统中，植株的培养方法和生长条件参照 Xie等（2017）报道的方法。培养10d后，按处理不同分取叶片和根进行转录组测序文库[根对照(Root control)和叶片对照(Leaf control)为马铃薯氮供应充足的根和叶片测序文库；根处理(Root treatment)和叶处理(Leaf treatment)为马铃薯氮供应不足的根和叶片测序文库]的构建，以氮肥供应充足条件下的植株为对照，每个处理分别取4个生物学重复，最后进行转录组测序。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2马铃薯TCP基因家族响应氮肥胁迫相关基因的生物信息学分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于转录组数据和 Phytozome 12.1（https:/phytozome.jgi.doe.gov/pz/portal.html）马铃薯基因组数据库获取TCP基因序列信息；利用在线分析软件ProtParam 和 SOPMA对 TCP蛋白的理化性质和二级结构进行预测；使用 BLAST2GO软件分析 TCP转录因子的功能注释；利用 MEGA7.0.14软件，将马铃薯 TCP家族蛋白序列和拟南芥TCP家族蛋白序列数据库（http://planttfdb.gao-lab.org/family.php?sp $\\vDash$ Ath&fam=TCP）比对分析后，采用邻接法构建系统进化树；利用MEME Suite5.4.1（http://meme-suite.org/）程序分析马铃薯 TCP家族蛋白的基序，设定基序宽度最小值为6、最大值为60，基序数量为6，其余参数为默认值；利用 HemI1.0.3.7软件，根据马铃薯TCP转录因子在4个不同测序文库中的表达量绘制基因表达热图（Deng et al,2014)，并以 log2（foldchange）大于1或小于-1，且P-value ${ > } 0 . 0 5$ 为显著性差异表达基因，对转录组获得的TCP转录因子进行差异分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1马铃薯TCP转录因子的鉴定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "马铃薯4个转录组测序文库共鉴定24个TCP转录因子，以马铃薯基因组数据库Phytozome为参考获得这些基因的相关信息（表1)。结果表明，这些TCP转录因子主要来自2号染色体（5个基因)，其次为3号和6号染色体，分别有4个基因。基因长度在606\\~2137bp之间，氨基酸在201\\~534个之间。外显子数目在1\\~6个之间，其中基因 PGSC0003DMG400016363 含有外显子最多为6个。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/7ce732e6d517c9d67d1dbfe530354f31c51daf385fc52c98aae7a1aac893e288.jpg",
+        "table_caption": [
+            "表1马铃薯TCP转录因子基因特征 Table 1 The characteristics of TCP transcription factor in Solanum tuberosum "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>基因号 Gene ID</td><td>染色体位置 Chromosome location</td><td>基因长度 Genes length (bp)</td><td>氨基酸个数 Amino acids number</td><td>外显子数目 Exons number</td></tr><tr><td>PGSC0003DMG400000597</td><td>3</td><td>1325</td><td>414</td><td>3</td></tr><tr><td>PGSC0003DMG400000823</td><td>5</td><td>1065</td><td>354</td><td>1</td></tr><tr><td>PGSC0003DMG400001362</td><td>2</td><td>852</td><td>283</td><td>2</td></tr><tr><td>PGSC0003DMG400003382</td><td>5</td><td>1116</td><td>371</td><td>3</td></tr><tr><td>PGSC0003DMG400009276</td><td>11</td><td>1170</td><td>389</td><td>1</td></tr><tr><td>PGSC0003DMG400009406</td><td>7</td><td>936</td><td>311</td><td>3</td></tr><tr><td>PGSC0003DMG400012396</td><td>7</td><td>1203</td><td>400</td><td>2</td></tr><tr><td>PGSC0003DMG400015377</td><td>12</td><td>1266</td><td>421</td><td>1</td></tr><tr><td>PGSC0003DMG400016363</td><td>1</td><td>1347</td><td>448</td><td>6</td></tr><tr><td>PGSC0003DMG400020247</td><td>2</td><td>699</td><td>232</td><td>2</td></tr><tr><td>PGSC0003DMG400021568</td><td>9</td><td>606</td><td>201</td><td>1</td></tr><tr><td>PGSC0003DMG400022738</td><td>8</td><td>1125</td><td>374</td><td>1</td></tr><tr><td>PGSC0003DMG400022964</td><td>2</td><td>1005</td><td>334</td><td>1</td></tr><tr><td>PGSC0003DMG400024254</td><td>3</td><td>1101</td><td>366</td><td>1</td></tr><tr><td>PGSC0003DMG400024928</td><td>1</td><td>1605</td><td>534</td><td>1</td></tr><tr><td>PGSC0003DMG400026105</td><td>6</td><td>984</td><td>327</td><td>1</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/17af92e83bdaed15be8db81ce6c74eca3f0a751332f99d01ce12f36c62482987.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>PGSC0003DMG400026568</td><td>2 2 137</td><td>218</td><td>3</td></tr><tr><td>PGSC0003DMG400033078</td><td>6 1425</td><td>410</td><td>2</td></tr><tr><td>PGSC0003DMG400040232</td><td>2 840</td><td>279</td><td>1</td></tr><tr><td>PGSC0003DMG400004054</td><td>6 940</td><td>279</td><td>2</td></tr><tr><td>PGSC0003DMG400004082</td><td>6 918</td><td>305</td><td>2</td></tr><tr><td>PGSC0003DMG400005705</td><td>3 1137</td><td>378</td><td>1</td></tr><tr><td>PGSC0003DMG400024632</td><td>3 1640</td><td>344</td><td>1</td></tr><tr><td>PGSC0003DMG400045197</td><td>1 843</td><td>280</td><td>1</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2马铃薯TCP家族蛋白理化性质分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "理化性质分析结果显示，24个TCP家族蛋白平均相对分子质量为 $3 7 \\ 6 9 3 . 7 0 \\ \\mathrm { D a }$ ，最小值为PGSC0003DMG400021568，编码蛋白的分子质量为21143.87Da，最大值为PGSC0003DMG400024928编码蛋白的分子质量为 $5 7 5 5 4 . 2 4 \\mathrm { D a }$ （表2）。等电点（pI）平均值为7.51，最小值为PGSC0003DMG400024254 编码蛋白（5.22），最大值为PGSC0003DMG400045197编码蛋白(10.08)，分别有11个TCP家族蛋白呈酸性（ $\\mathrm { \\ p I } < 7$ ）和13个TCP蛋白呈碱性（ $\\mathrm { \\ p I } > 7$ ）。24个TCP家族蛋白的平均疏水性值均小于0，最小值为PGSC0003DMG400004054（-1.015），最大值为PGSC0003DMG400021568（-0.283）。二级结构预测结果显示，24个TCP蛋白均具有 $\\mathfrak { a }$ 螺旋、 $\\beta$ 转角、延伸链和无规则卷曲4种构型（表2)，其中 $\\mathfrak { a }$ 螺旋和无规则卷曲构成所占平均比值分别为 $1 9 . 2 0 \\%$ 和$6 3 . 3 4 \\%$ ，而延伸链和β转角所占比平均值分别为 $4 . 0 9 \\%$ 和 $1 3 . 3 8 \\%$ 。在这些TCP家族基因中，24个TCP蛋白均表现为无规则卷曲所占比最大，18个TCP蛋白 $\\mathfrak { a }$ 螺旋所占比大于延伸链占比，而有6个TCP蛋白PGSC0003DMG400024632、PGSC0003DMG400004082、PGSC0003DMG400021568、PGSC0003DMG400001362、PGSC0003DMG400026568 和 PGSC0003DMG400016363 则表现相反，出现了α螺旋所占比小于延伸链占比的现象。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/e1a751cdfde8717f3703236524c55093b7f73de7b79f661105900bbe12af3b53.jpg",
+        "table_caption": [
+            "表2马铃薯TCP家族蛋白理化性质 Table 2 Physicochemical properties of TCP family proteins in Solanum tuberosum "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>基因号</td><td>相对分子质量 molelatimass</td><td>pp值</td><td>平均疏水性 Average hydrophobicity</td><td>α螺旋 Alpha helix (%)</td><td>延伸链 Extended</td><td>β转角 Beta turn (%)</td><td>无规卷曲 Random coil (%)</td></tr><tr><td>PGSC0003DMG400000597</td><td>(Da) 44 261.60</td><td>7.06</td><td>-0.713</td><td>24.62</td><td>(%) 10.63</td><td>4.35</td><td>60.39</td></tr><tr><td>PGSC0003DMG400000823</td><td>40 647.28</td><td>8.68</td><td>-0.981</td><td>24.86</td><td>13.56</td><td>5.08</td><td>56.50</td></tr><tr><td>PGSC0003DMG400001362</td><td>31 700.15</td><td>6.53</td><td>-0.755</td><td>13.07</td><td>18.73</td><td>3.53</td><td>64.66</td></tr><tr><td>PGSC0003DMG400003382</td><td>41 177.75</td><td>6.59</td><td>-0.995</td><td>21.83</td><td>10.24</td><td>4.85</td><td>63.07</td></tr><tr><td>PGSC0003DMG400009276</td><td>41 394.59</td><td>8.02</td><td>-0.737</td><td>17.22</td><td>12.34</td><td>3.34</td><td>67.10</td></tr><tr><td>PGSC0003DMG400009406</td><td>35162.67</td><td>6.39</td><td>-0.889</td><td>19.94</td><td>9.65</td><td>2.89</td><td>67.52</td></tr><tr><td>PGSC0003DMG400012396</td><td>43 555.86</td><td>6.17</td><td>-0.68</td><td>15.00</td><td>12.25</td><td>3.00</td><td>69.75</td></tr><tr><td>PGSC0003DMG400015377</td><td>45 806.76</td><td>6.76</td><td>-0.595</td><td>17.34</td><td>14.25</td><td>5.23</td><td>63.18</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/be63239dfd170773d509540fec7d85c54b4495afd1edd07184c9c8cb1a125beb.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>PGSC0003DMG400016363</td><td>49 071.20</td><td>9.08</td><td>-0.188</td><td>21.88</td><td>22.54</td><td>7.59</td><td>47.99</td></tr><tr><td>PGSC0003DMG400020247</td><td>25 079.06</td><td>6.65</td><td>-0.586</td><td>26.72</td><td>7.76</td><td>3.45</td><td>62.07</td></tr><tr><td>PGSC0003DMG400021568</td><td>21 143.87</td><td>8.52</td><td>-0.283</td><td>11.44</td><td>19.90</td><td>6.47</td><td>62.19</td></tr><tr><td>PGSC0003DMG400022738</td><td>40 247.19</td><td>7.83</td><td>-0.52</td><td>11.50</td><td>11.50</td><td>3.48</td><td>73.53</td></tr><tr><td>PGSC0003DMG400022964</td><td>38 062.86</td><td>5.82</td><td>-0.907</td><td>22.46</td><td>15.27</td><td>3.89</td><td>58.38</td></tr><tr><td>PGSC0003DMG400024254</td><td>38 626.04</td><td>5.22</td><td>-0.355</td><td>15.03</td><td>10.66</td><td>3.01</td><td>71.31</td></tr><tr><td>PGSC0003DMG400024928</td><td>57 554.24</td><td>6.88</td><td>-0.838</td><td>18.91</td><td>10.30</td><td>2.25</td><td>68.54</td></tr><tr><td>PGSC0003DMG400026105</td><td>35 025.56</td><td>7.20</td><td>-0.793</td><td>17.74</td><td>16.51</td><td>3.67</td><td>62.08</td></tr><tr><td>PGSC0003DMG400026568</td><td>24 635.71</td><td>7.98</td><td>-0.633</td><td>16.06</td><td>20.64</td><td>5.50</td><td>57.80</td></tr><tr><td>PGSC0003DMG400033078</td><td>44476.60</td><td>6.74</td><td>-0.781</td><td>22.20</td><td>9.51</td><td>5.12</td><td>63.17</td></tr><tr><td>PGSC0003DMG400040232</td><td>30 001.52</td><td>8.91</td><td>-0.606</td><td>17.56</td><td>10.39</td><td>5.38</td><td>66.67</td></tr><tr><td>PGSC0003DMG400004054</td><td>31 121.52</td><td>9.47</td><td>-1.015</td><td>33.33</td><td>13.62</td><td>2.51</td><td>50.54</td></tr><tr><td>PGSC0003DMG400004082</td><td>34 005.46</td><td>8.63</td><td>-0.814</td><td>11.15</td><td>14.10</td><td>2.62</td><td>72.13</td></tr><tr><td>PGSC0003DMG400005705</td><td>42 882.44</td><td>9.35</td><td>-0.595</td><td>37.30</td><td>11.38</td><td>3.97</td><td>47.35</td></tr><tr><td>PGSC0003DMG400024632</td><td>39 060.43</td><td>5.58</td><td>-1.005</td><td>9.01</td><td>11.05</td><td>2.62</td><td>77.33</td></tr><tr><td>PGSC0003DMG400045197</td><td>29 948.42</td><td>10.08</td><td>-0.308</td><td>14.64</td><td>14.29</td><td>4.29</td><td>66.79</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3马铃薯TCP转录因子基序分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对获得的马铃薯 TCP转录因子的结构域进行预测，结果表明 24个转录因子均包含基序1即Motif1，且在所有基序中序列最长（60个氨基酸）（表3)，说明该基序是马铃薯 TCP转录因子中不可缺少的结构域（图1)。从整体上来看，可以把 TCP转录因子分为4类：第一类有11个基因都包含有基序1和3，同时有3个基因含有基序5；第二类有9个基因都包含有基序1和2，其中有3个TCP蛋白（PGSC0003DMG400009406、PGSC0003DMG400012396 和 PGSC0003DMG400015377）含有基序 4和6；第三类有3个基因，只包含有基序1；第四类只有1个基因（PGSC0003DMG400033078），包含有基序1、2和3。进一步分析保守的Motif序列特征发现，24个TCP转录因子均具有典型的 basic-Helix-Loop-Helix (bHLH) 结构域。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/00e6d7d9ac4151bed97192ab13e64cb986ebd9c9efa302aba4600124db830cc1.jpg",
+        "table_caption": [
+            "表3马铃薯TCP转录因子的保守基序长度及氨基酸序列",
+            "Table 3 Length and amino acid sequences of motifs of TCP transcription factors in Solanum tuberosum "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>基序 Motif</td><td>序列长度 Length of amino acid</td><td>氨基酸序列 Amino acid sequence</td></tr><tr><td>Motif 1</td><td>（aa） 60</td><td>KDRHTKVGGRGRRIRLPALCAARVFQLTDELGHKSDGETIEWLLQQAEPAIIAATGTGTI</td></tr><tr><td>Motif 2</td><td>21</td><td>PANFSSLNISLRSSGSSVSAP</td></tr><tr><td>Motif 3</td><td>6</td><td>GRKDRH</td></tr><tr><td>Motif 4</td><td>17</td><td>FGQDPDENYMKKRYRED</td></tr><tr><td>Motif 5</td><td>9</td><td>DTIKSFFPM</td></tr><tr><td>Motif 6</td><td>6</td><td>MLGFHH</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e5ed8c0477f9051b56617fd871f7bf3bc8f3affed5fd4aa8d76a32e3481658b0.jpg",
+        "img_caption": [
+            "图1马铃薯TCP转录因子的基序分析",
+            "Fig.1 Motif analysis of TCP transcription factors in Solanum tuberosum "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4马铃薯TCP转录因子的蛋白进化分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了解析马铃薯TCP蛋白的进化关系并预测其功能，利用MEGA7.0.14软件分析马铃薯TCP家族蛋白和拟南芥TCP家族蛋白（PlantTFDB数据库）的进化关系（图2）。结果表明，24个马铃薯TCP 家族蛋白与拟南芥的TCP蛋白聚集在了一起，且分别归属于10个亚类中，说明马铃薯TCP家族蛋白与拟南芥TCP蛋白具有比较高的保守性。从图2可以看出PGSC0003DMG400000597和PGSC0003DMG400033078与拟南芥AT3G47620.1（AtTCP14）亲缘关系较近，PGSC0003DMG400015377与拟南芥AT3G15030.1（AtTCP4）亲缘关系较近，PGSC0003DMG400004054和 PGSC0003DMG400005705，PGSC0003DMG40000823与AT1G68800.1（AtTCP12）关系最近；PGSC0003DMG400004082和PGSC0003DMG400024632与拟南芥AT5G08070.1（AtTCP17）和AT5G60970.1（AtTCP5）关系近；PGSC0003DMG400045197、PGSC0003DMG400024254和PGSC0003DMG400022738与拟南芥AT2G45680.1（AtTCP9）、AT5G51910.2（AtTCP19）和AT5G51910.1（AtTCP19）亲缘关系较近；PGSC0003DMG400009406与拟南芥 AT2G31070.1（AtTCP10）亲缘关系较近。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/cf42a15e05aec5bf517ea48d184e0117dc838fd4c4e99563a93817c3917eb418.jpg",
+        "img_caption": [
+            "图2马铃薯TCP家族蛋白与拟南芥TCP家族蛋白进化树"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig. 2 Phylogenetic analysis of TCP protein in Solanum tuberosum and Arabidopsis thaliana ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5马铃薯TCP转录因子的GO功能注释分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "GO注释分析结果表明，24条TCP转录因子序列分别被注释到分子功能（15条）、生物过程（22条）和细胞组分（18条)。所有TCP序列被进一步富集到 26个功能类别，其中DNA 结合功能（11个）、细胞核功能（17个）、蛋白质结合功能（6个）、转录因子活性（13个）、转录调控(12个)、叶形态发生（8个）、细胞分化（8个）、发育正向调控(8个)、防御反应调控（6个）等功能组包含的序列较多；细胞大小调控（4个）、叶片衰老的负调控（4个）、叶绿体功能（3）、次生枝形成调控（3个）、核心启动子近端序列特异性 DNA 结合（2）、核心启动子结合(2个)、脱落酸响应(2个)、营养期向生殖期过渡的调节（1个）、细胞增殖（2个）、细胞分裂素响应（2个）、赤霉素响应（2个）、种子休眠结束中胚发育（2个）、种子萌发调控（2个）、花序发育（2个）、根发育（2个）、生理节律调控（1个)",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "和解剖结构形态发生（1个）功能组包含的序列较少。其中生物过程主要集中在转录调控、发育正向调控、叶形态发生和细胞分化，细胞组分主要富集在细胞核的功能，分子功能集中在DNA结合和转录因子活性 (图3)。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/70d9f2cb50bf64713499ed12b219aa15918a890e405ff7a7ad9c9a12e521ebf9.jpg",
+        "img_caption": [
+            "图3马铃薯TCP转录因子功能注释"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A-S.生物学过程；T,U.细胞组分；V-Z.分子功能。A.生理节律调控；B.解剖结构形态发生；C.营养期向生殖期过渡的 调节控；D.细胞增殖；E.细胞分裂素响应；F.脱落酸响应；G.赤霉素响应；H.种子休眠结束中胚发育；I.种子萌发 调控；J.花序发育；K.根发育；L.次生枝形成调控；M.细胞大小调控；N.叶片衰老的负调控；O.防御反应调控；P. 叶形态发生；Q.细胞分化；R.发育正向调控；S.转录调控；T.叶绿体功能；U.细胞核功能；V.核心启动子近端序列 特异性DNA 结合；W.核心启动子结合；X.蛋白质结合；Y．DNA结合；Z.转录因子活性。 A-S.Biological Process; T,U.Celular Component; V-Z. MolecularFunction.A. Circadian rhythm; B.Anatomical structure morphogenesis; C.Regulationoftimingoftransitionfromvegetative toreproductivephase;D.Cellproliferation;E.Responseto cytokinin;F.Response toabscisicacid;G.Response to gibberelin;H.Embryo development ending inseeddormancy;I. Regulationof seed germination; J.Inflorescence development;K.Rot development;L.Regulationof secondary shoot formation; M.Regulation ofcellsize; N.Negative regulationof leaf senescence; O.Regulationof defense response;P.Leaf morphogenesis; Q.Celldiferentiation;R.Positiveregulationofdevelopment; SRegulationoftranscription;T.Chloroplast; U. Nucleus; V.Core promoter proximal region sequence-specific DNA binding; W.Core promoter binding; X.Protein binding; Y. DNA binding; Z. Transcription factor activity. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Function annotation of Solanum tuberosum TCP transcription factors ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.6马铃薯TCP转录因子在低氮肥胁迫和不同组织中的表达分析",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "基于马铃薯转录组数据，获得了24个马铃薯TCP转录因子在不同转录组文库中的表达量，并绘制表达热图（图4)。结果显示，在低氮肥胁迫处理后，24个TCP转录因子在叶中被抑制或被诱导表达但都未达到显著性差异水平，只有2个基因PGSC0003DMG400000823 和 PGSC0003DMG400022738的差异表达水平最大，分别上调了1.81-fold 和1.58-fold。在2个根转录文库中，共获得19个 TCP转录因子，包括11个被抑制表达的 TCP转录因子和8个被诱导表达的 TCP转录因子，其中3个TCP转录因子显著性差异表达（PGSC0003DMG400000597和 PGSC0003DMG400024254下调表达、PGSC0003DMG400015377上调表达），2个TCP转录因子PGSC0003DMG400022964和PGSC0003DMG400033078下调表达幅度较大。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "此外，分析了TCP转录因子在不同组织中的表达差异，结果表明21个TCP转录因子在根和叶中显著性差异表达。除了有5个TCP转录因子在叶中特异性表达之外，有5个TCP转录因子在叶中的表达量显著性低于在根中的表达量，而剩下的11个TCP转录因子在叶中显著性高表达（2个TCP 转录因子PGSC0003DMG400009406和PGSC0003DMG400015377差异表达水平最大，分别上调了6.40-fold和 8.45-fold）（图4)。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/d177b5297434985dd2039ec49173ccc22780d3433c4a9ebc60188150b3a2508d.jpg",
+        "img_caption": [
+            "图4马铃薯TCP转录因子基因表达热图Fig. 4 Gene expression heatmap of Solanum tuberosum TCP transcription factors"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3讨论与结论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "由于TCP转录因子在植物生长发育及抵御逆境胁迫中发挥着关键的调控作用，使得TCP转录因子家族越来越受到研究者的重视。马铃薯作为中国第四大粮食作物，在其生长发育过程中总是遭受到氮素的胁迫，而 TCP转录因子是否参与马铃薯抵御低氮素胁迫的响应还鲜有报道。鉴于此，本研究基于4个转录组文库共鉴定出24个马铃薯TCP转录因子家族成员，对其进行蛋白质序列结构分析发现这些转录因子都具有b-HLH结构。此外，发现马铃薯TCP转录因子家族成员的序列、等电点、分子量和外显子数目存在较大差异，在染色体上的分布呈现不均匀特征，这与前人的研究结果一致（肖熙鸥等，2018)。此外，分析了TCP转录因子在氮肥低胁迫下不同组织中的表达情况，发现叶片中的 TCP 转录因子均未达到显著性差异水平，只有2个基因的诱导表达幅度较大，这一结果与香蕉中低氮肥胁迫后多数基因上调表达的响应情况不同（阚宝林等，2021)，可能是物种的特异性导致TCP转录因子的响应模式不同；而根中基因 PGSC0003DMG400000597和 PGSC0003DMG400024254 显著性下调表达，PGSC0003DMG400015377却呈现出相反的表达模式。由此可见，马铃薯 TCP转录因子在叶片和根两个组织中响应氮肥胁迫的表达模式存在差异，且不同转录因子成员响应低氮肥胁迫的模式也存在差异。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "课题组曾利用循环水培系统研究了20个马铃薯栽培品种对低氮肥胁迫在生理水平上的响应，证明了基因型不同的马铃薯对低水平氮肥供应的耐受力和敏感度不同；在低氮肥供应条件下生长的马铃薯（包括马铃薯品种“Russet Burbank\"）地上部分的高度和根的长度显著性低于生长在氮肥供应充足条件下的植株；同时，低氮肥生长条件下马铃薯的生物量积累也受到严重抑制（Xie et al.,2017)。在本研究中，转录因子PGSC0003DMG400000597和PGSC0003DMG400024254在氮肥胁迫条件下的根和叶片中表达趋势一致，且在根中被显著性抑制表达，而转录因子PGSC0003DMG400015377却表现出相反趋势，在根和叶片中被诱导表达。聚类分析显示，这3个TCP转录因子与拟南芥转录因子AT3G47620.1（AtTCP14）、AT2G45680.1（AtTCP9）和AT3G15030.1（AtTCP4）亲缘关系最近，表明其可能与拟南芥转录因子AtTCP14、AtTCP4 和 AtTCP9具有相似的生物学功能。在拟南芥中，AtTCP14参与调节激活种子萌发过程中胚胎的生长潜力（Tatematsu etal.,2008）,还可与AtTCP15一起通过促进幼嫩节间的细胞分裂来调节植物的形态（Kieffer etal.,2011)；AtTCP4通过与功能基因的顺式作用元件结合参与调控植物激素（如生长素和油菜素内酯）的合成，从而影响植物的生长发育；且拟南芥 AtTCP4受miR319 调控，能通过调控拟南芥主根的伸长参与干旱胁迫响应（Schommer et al,2008）；还有研究报道 AtTCP9 参与了激素合成酶1（Isochorismate synthase1，ICS1）的协同调控（Wang etal,2015)，在拟南芥中参与调节细胞的大小、叶片的衰老和根的发育（Danisman et al.,2012）。此外，有研究报道，拟南芥 AtTCP20 可激活硝酸盐转运蛋白1.1（Nitrate transporter 1.1，NRT1.1）的表达来调控硝酸盐运输期间侧根发育的系统信号转导途径而影响植株侧根的生长（Guan etal.,2014)。在本研究中，马铃薯 TCP 转录因子PGSC0003DMG400020247和PGSC0003DMG400040232与拟南芥",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "AT3G27010.1（AtTCP20）亲缘关系最近。结合前期马铃薯响应低氮肥胁迫的生理研究结果，生长在氮肥供应不足条件下的马铃薯地上部分和根的生长速度明显低于生长在氮肥供应充足条件下的植株，推测这些转录因子在马铃薯低氮肥胁迫中可能通过影响氮代谢相关基因的表达来调控植株形态的建成和生物量的形成与积累。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "在本研究中，我们还发现马铃薯地上部组织叶片中4个转录因子在氮肥胁迫处理下被抑制表达，而它们在马铃薯地下部组织根中不表达，推测其可能通过响应低氮肥胁迫调控马铃薯地上部分的生长。其中，基因PGSC0003DMG400005705与拟南芥AtTCP12关系最近；PGSC0003DMG400004082和PGSC0003DMG400024632与AtTCP17和 AtTCP5关系近；PGSC0003DMG400045197与AtTCP9 和AtTCP19亲缘关系较近。研究表明，AtTCP12是一个防止腋芽生长的转录因子，能够延迟早期腋芽的发育，参与控制生长素诱导的顶端优势（Aguilar-Martinez et al.,2007），AtTCP17和AtTCP5通过负调控边界特异性基因如CUC基因的表达，在调控地上部侧生分生组织形态发生中起关键作用（Koyamaet al,2007)。此外，GO功能注释结果显示 AtTCP19参与植物逆境胁迫的防御调控，且该基因还能与AtTCP20 以冗余方式在控制叶片衰老中发挥作用（Danisman et al.,2013)。因此，推测这些马铃薯 TCP转录因子可能具有与上述拟南芥TCP转录因子相似的生物学功能，为一进步验证这些TCP转录因子在马铃薯应对低氮肥胁迫中的调控作用提供参考。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本研究依据马铃薯转录组数据，利用生物信息学方法鉴定了马铃薯氮肥供应不足和充足条件下的24个TCP转录因子，并对其染色体位置、TCP结构域、系统进化树和保守基序，以及不同组织在氮肥胁迫条件下的表达情况进行了分析，以期为进一步研究马铃薯TCP转录因子在氮肥供应不足和其他逆境胁迫下的功能奠定基础。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "AGUILAR-MARTINEZ JA,POZA-CARRION C,CUBAS P,2007. Arabidopsis BRANCHED1 acts as an integrator of branching signals within axillary buds [J]. Plant Cell, 19(2): 458-472.   \nCHALLA KR,AGGARWAL P, NATH U, 2016.Activation of YUCCA5 by the transcription factor TCP4 integrates developmental and environmental signals to promote hypocotyl elongation in Arabidopsis [J].Plant Cell,28(9): 2117-2130.   \nDANISMAN S,WAL F, DHONDT S,et al.，2012. Arabidopsis Class I and Class II TCP transcription factors regulate jasmonic acid metabolismand leaf development antagonistically[J]. Plant Physiol,159(4): 1511-152.   \nDANISMAN S, VAN-DIJK AD,BIMBOA, et al.,2013.Analysis of functional redundancies within the Arabidopsis TCP transcription factor family [J] JExp Bot, 64(18): 5673-5685.   \nDENG WK,WANG YB,LIU ZX, et al.，2014. HemI: a toolkit for ilustrating heatmaps [J].PLoS ONE,9(11): e111988.   \nGUAN P,RIPOLLI J, WANG R, etal.,2017.Interacting TCPand NLP transcription factors control plant responses to nitrate availability [J]. Proc Natl Acad Sci USA,114(9): 2419-2424.   \nGUANP, WANG R,NACRY P,et al.,2014. Nitrate foraging by Arabidopsis roots is mediated by the transcription factor TCP20 through the systemic signaling pathway [J]. Proc Natl Acad Sci USA,111(42): 15267-15272.   \nJEAN-MICHEL D, MICHAEL W, THOMAS R, et al.，2014.Class I TCP-DELLA interactions in inflorescence shoot Apex determine plant height [J]. Curr Biol, 24(16): 1923-1928.   \nKAN BL, YANG Y, DU PM, et al.,2021. Whole Genome Identification of Musa acuminata TCP Family and Its ResponsetoLowNitrogenStress[J]. MolPlantBreed,1-19[2021-0506]. https://kns.cnki.net/kcms/detail/46.1068.S.20210506.1613.011.html.[阐宝琳，杨勇，杜鹏萌，等，2021.香蕉 TCP 家族的全基因组鉴定及对低氮肥胁迫的响应[J].分子植物育种，1-19[20210506]. https://kns.cnki.net/kcms/detail/46.1068.S.20210506.1613.011.html.]   \nKIEFFER M, MASTER V, WAITES R,et al.,2011.TCP14 and TCP15 afect internode length and leaf shape in Arabidopsis [J]. Plant J, 68(1): 147-158.   \nKOYAMA T,FURUTANI M,TASAKA M,et al.,2007.TCP transcription factors control the morphologyof shoot lateral organs via negative regulation of the expression of boundary-specific genes in Arabidopsis [J]. Plant Cell, 19(2): 473-484.   \nLI WP,CHEN GL， XIAO GS, et al.，2020. Overexpresion of TCP transcription factor OsPCF7 improves agronomic trait in rice [J]. Mol Breed, 40(5): 48.   \nLI YQ,AN S, CHENG QQ,et al.，2021. Analysis of evolution,expresson and genetic transformation of TCP transcription factors in Blueberry reveal that VcTCP18 negatively regulates the release of flower bud dormancy [J]. Front Plant Sci, 12: 697609.   \nLI JH, XIE MQ,WAN CY,et al.,2021. Prokaryotic Expressionof transcription factor StTCP13in potato and its function of salt stress[J].Acta Agric Boreal-Sin,36(2):33-39.[李佳皓，谢敏秋，万传银，等，2021.马铃薯 转录因子 StTCP13 基因的原核表达及盐胁迫功能研究[J].华北农学报，36(2):33-39.]   \nLI XQ, SVESHNIKOV D, ZEBARTH BJ, et al., 2010. Detection of nitrogen sufficiency in potato plants using gene expression markers [J]. Am J Potato Res, 87(1): 50-59.   \nLIU HL, GAO YM, WU M, et al.,2020.TCP10,a TCP transcription factor in moso bamboo (Phyllostachys edulis), confers drought tolerance to transgenic plants [J]. Environ Exp Bot,172(9): 104002.   \nMALTAS A, DUPUIS B,SINAJ S,2018.Yield and quality response of two potato cultivars to nitrogen fertilization [J]. Potato Res,61(5): 97-114.   \nMARTIN-TRILLO M, CUBAS P,2010.TCP genes: a family snapshot ten years later [J]. Trends Plant Sci,15(1): 31-39.   \nMUKHOPADHYAY P, TYAGI AK,2015. OsTCP19 influences developmental and abiotic stress signaling by modulating ABI4-mediated pathways [J]. Sci Rep, 5(1): 9998.   \nNIU SY,JIANG SH,YI ZF,etal.,2021. Characterization of MYB transcription factors in Solanum tuberosum under low nitrogen fertilizer stress [J]．Mol Plant Breed, 1-21[2021-0617]. http://kns.cnki.net/kcms/detail/46.1068.s.20210617.1124.009.html.[牛苏燕，蒋素华，台作峰，等，2021．在 低氮肥胁迫下马铃薯MYB转录因子的特征分析[J].分子植物育种，1-21[20210617]. http://kns.cnki.net/kcms/detail/46.1068.s.20210617.1124.009.html.]   \nRENL,2019.Function analysis of BpTCP3 gene in Betula platyphylla [D]. Harbin: Northeast Forestry University. [任丽，2019.白桦 BpTCP3 基因的功能研究[D]．哈尔滨：东北林业大学].   \nSHANG Y, YUAN L,DI ZC,et al.,2020.A CYC/TB1 type TCP transcription factor controls spikelet meristem identity in barley (Hordeum vulgare L.) [J]. JExp Bot, 71 (22): eraa416.   \nSHARIFI M， ZEBARTH BJ，COLEMAN W，2007. Screning for nitrogen-use efficiency in potato with a recirculating hydroponic system[J]. Comm Soil Sci Plan, 38(3-4): 359-370.   \nSCHOMMER C,PALATNIK JF,AGGARWAL P, et al.,2008. Control of jasmonate biosynthesis and senescence by miR319 targets [J]. Plos Biol, 6(9): e230.   \nTATEMATSU K,NAKABAYASHI K, KAMIYA Y, et al.,2008.Transcription factor AtTCP14 regulates embryonic growth potential during seed germination in Arabidopsis thaliana [J]. Plant J, 53(1): 42-52.   \nWANG XY,GAO J, ZHU Z,et al.,2015.TCP transcription factorsare critical for thecoordinated regulation of isochorismate synthase 1 expression in Arabidopsis thaliana [J]. Plant J, 82(1): 151-162.   \nXIAO XO,LIN WQ,FENG XF, et al.,2018. Genome-wide identification and analysis of TCP gene in Potato [J]. Mol Plant Breed,16(24):7933-7938.[肖熙鸥，林文秋，冯雪峰，等，2018.马铃薯 TCP基因家族全基因组 鉴定与分析[J].分子植物育种，16(24):7933-7938.]   \nXIE XF,LI XQ, ZEBARTHBJ, et al.,2018.Rapid screening of potato cultivars tolerant to nitrogen deficiencyusing a hydroponic system [J]. Am JPotato Res, 95: 157-163.   \nZHOU XJ, ZHA MR, HUANG J, et al.,2017. StMYB44 negatively regulates phosphate transport by suppressing expression of PHOSPHATE1 in potato [J]. JExp Bot, 68(5): 1265-1281.   \nZHU L,LI SS,MA QY, et al.，2022. The Acer palmatum TCP transcription factor ApTCP2 controls leaf morphogenesis,accelerates senescence,and affects flowering via miR319 in Arabidopsis thaliana [J]. J Plant Growth Regul, 41(1): 244-256. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

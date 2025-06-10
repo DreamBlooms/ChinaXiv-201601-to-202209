@@ -1,0 +1,176 @@
+# DOI: 10.5846/stxb201711272118
+
+苟娇娇,王飞,金凯,董强.黄土高原植被恢复引发区域气温下降.生态学报,2018,38(11)：3970-3978.GouJ，Wangdetictac)
+
+# 黄土高原植被恢复引发区域气温下降
+
+苟娇娇1,3,王飞1,2,3，\*，金 凯²，董 强1,3
+
+1中国科学院水利部水土保持研究所，杨凌712100  
+2西北农林科技大学水土保持研究所，杨凌 712100  
+3中国科学院大学，北京100049
+
+摘要;黄土高原退耕还林(草)等生态恢复工程促进了地表植被覆盖增加,进而通过影响地表-大气之间热量交换影响区域气候过程。基于黄土高原1998—2000年和2008—2010年 SPOT卫星反演的植被覆盖资料,54个地面气象站气温资料及EIN-Interim地表热通量数据,采用空间分析交叉验证及地表热量平衡分析的方法,从站点尺度探讨了退耕还林(草)工程初期和10年后黄土高原植被变化与气温和地表热通量变化之间的关系。研究表明,退耕还林(草)工程开展10年后,黄土高原气温最小值、最大值与平均值均有下降,植被覆盖增加与气温变量降低在空间上呈正相关。同时,植被覆盖增加与潜热通量增加、感热通量与大气下行长波辐射下降在空间上也呈正相关关系。这些结果表明,植被恢复可通过增加地表蒸散发作用对区域气候产生降温效应,会减缓气温升高对黄土高原生态系统的影响。 2
+
+关键词：黄土高原;退耕还林(草);区域气候;空间分析交叉验证;地表热量平衡
+
+# Cooling effect induced by vegetation restoration on the Loess Plateau
+
+GOU Jiaojiao1,3，WANG Fei1,2,3,\*，JIN Kai²， DONG Qiang1,3   
+1InstituteofSoiland Water Conseruation,ChineseAcademyofScience&Ministryof Water Resources,Yangling7210,China   
+2College ofResourcesandEnvironment,NorthwestAgricultureandForestry University,Yangling72oo,China   
+3University of Chinese Academy of Sciences,Beijing 10oo49,China
+
+Abstract:A large-scalere-vegetation with regional ecological engineering on theLoess Plateau，including the Grain for Green Project（GGP），has already greatly impacted the heating and energy flux between the landand atmosphere，which inducesregional climate.We used two methods，the cros-checking of spatial change and surface heatbalance analysis to detect the relationships among the vegetation change，temperature change，and surface heat flux change during the GGPat the station scale over the LoessPlateau.The10 days normalized diference vegetation index（NDVI）derived from SPOT data was used to indicatethevegetation.The monthly temperature data from 54 weather stations within or nearbythe Loess Plateau wereused to describe the temperaturechange.TheEIN-Interim surface heat fluxes were analyzed to determine the surface heat condition.Two stages，the initial stage（1998—2000，Stage I）ofGGPand10 yearsafter（2008—2010, Stage II） were compared.The minimum，maximum，and mean temperatures were lower in Stage II，and the increase of vegetation wasspatially positivelycorrelated tothe decrease inall temperature variables.Meanwhile，the increase in vegetation was spatiallypositivelycorelated totheicrease inlatent heatflux，andthe decreaseof sensibleheatflux and the atmospheric downward longwave heat flux.Theseresults indicated that vegetationrestoration maylower thetemperatures throughanincrease insurface evapotranspiration，andtherebymitigate theclimate warming efectontheecologicalsystem
+
+of the Loess Plateau.
+
+Key Words:the Loess Plateau;；the Grain for Green Project （GGP）；regional climate；cros-checking of spatial change; surface heat balance
+
+植被作为陆地生态系统的主体,也是气候系统中重要的、动态的组成部分[1-2]。陆地植被可以通过改变地表反照率及陆地表面净辐射在感热、潜热与地面热通量之间的分配[3];或通过改变表面粗糙度[4]来调节大气动力特征,进而调节地-气间的水分和能量循环,影响地表面能量平衡,从而影响气候特征。目前在局地和区域的尺度探寻植被对气候的影响过程与机制方面已经开展了众多研究[5-6]。但是,由于地球表面物理、化学和生物特性存在明显区域差异,植被对气候要素影响的机制也可能会因区域不同而存在差异。例如,砍伐森林可能导致热带地区的气温升高,但在寒冷地区气温反而下降[7。因此,为了进一步认识植被与气候因子之间的关系,有必要再在不同地区和不同时空尺度下分析植被分布和变化过程、地表参数及气候对其的响应。
+
+黄土高原是中国气候变化的敏感区域之一，其独特的自然气候状况以及生态环境变化受到中外学者广泛关注[8-9]。为缓解中国北方地区的水土流失和土地退化等问题,自1999 年开始在黄土高原开展了大规模的退耕还林(草)等生态工程,植被增长效果显著[10]。目前对黄土高原退耕还林(草)政策下的农户特征变化[]、经济效益[12]研究较多,而对于该政策区域环境效应,尤其是植被恢复后其与大气之间的相互作用的探讨较少。郭建侠等使用中尺度气象模式耦合陆面植被模式模拟退耕还林对局地环境要素的影响[13];王平等基于CLM 模型对黄土高原植被覆盖变化对气温和降水的影响作了模拟研究[14];梁玲等使用中尺度气候模式模拟了黄土高原植被改变对夏季气候影响[15];张静辉等使用区域气候模式研究黄河源区植被覆盖度对区域气候影响[16]。但以上研究大多基于模型模拟的方法,较少使用观测数据证明局地或区域尺度上植被恢复对气候的反馈作用。对于黄土高原来说,基于观测数据的退耕还林(草)工程是否可能导致区域气温变化尚未清楚。本文利用遥感卫星反演的植被覆盖数据,结合 54个位于黄土高原还林(草)工程区的气象站资料及 EIN-Interim 热通量数据,采用空间分析交叉验证及地表热量平衡分析的方法，从站点尺度探寻三者间的可能关系，分析植被变化对气温影响的基本过程与其物理机制。
+
+# 1研究区与数据
+
+黄土高原地区位于黄河中上游地区,占地面积大约 $6 2 . 4 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ ,介于 $3 3 ^ { \circ } 4 3 ^ { \prime } - 4 1 ^ { \circ } 1 6 ^ { \prime } \mathrm { N } , 1 0 0 ^ { \circ } 5 4 ^ { \prime } - 1 1 4$ 。.$3 3 ^ { \prime } \mathrm { E }$ 之间,包括太行山以西,青海日月山以东,秦岭以北阴山以南广大地区[17]（图1)。该区土壤深厚,主要土壤类型为褐土、黑泸土和黄绵土,这些土壤毛管孔过大,易于蒸发,保水性较差[18];而且该区为典型大陆性季风气候,大部分地区平均年降水量 $4 0 0 ~ \mathrm { { m m } }$ 左右,空间分异较大,而且季节性分布明显,约有 $6 9 . 3 3 \%$ 降雨量以暴雨形式集中在6—9月。黄土高原的独特地形地貌结构及其土质疏松和暴雨频发等特征,导致该地水土流失十分严重，是我国生态脆弱区和水土保持重点区。
+
+（本文主要采用基于地面气象站的气温观测数据、基于遥感卫星反演的植被 NDVI数据与EIN-Interim 再分析资料3类研究数据。所用地面实际观测资料来自中国气象数据共享网 1998—2000 年、2008—2010 年黄土高原站点的气候资料月值数据集。
+
+在黄土高原及周边地区选取了54个气象站点,选取原则为：(1)站点气温数据连续,在1998—2000 年、2008—2010年5月至9月无缺失情况；(2)站点位于还林还草工程的覆盖区,保证站点周围在退耕还林工程后期主要土地类型为草地或林地(绿地占比大于 $3 3 . 3 3 \%$ )。选取的站点分布如图1所示，气象站 $1 0 ~ \mathrm { k m }$ 绿地比重是根据黄土高原 2005年1:25 万土地利用数据[19]在ArcGIS 空间分析平台中计算得到。
+
+NDVI数据集由 SPOT卫星搭载的植被传感器 SPOTVGT反演得到,空间分辨率为 $1 ~ \mathrm { k m }$ ，使用每月 $1 0 \mathrm { ~ d ~ }$ 最大值合成的 NDVI产品（VGT-S10）。1998—2008年VGT-S10数据来源于“黑河计划数据管理中心”
+
+![](images/c39d6ece48c0de370477ebdc20335bbf1c8d67817e0c3cbdd8d424a6b9d4f7de.jpg)  
+图1研究区位置与气象站分布  
+Fig.1Location of the study site and distribution of weather stations
+
+（http://westdc.westgis.ac.cn）;2008—2010 年使用比利时 VITO研究所图像处理与存档中心提供的VGT-S10数据产品（htp://www.vito-eodata.be）。本文选取 1998—2000 年、2008—2010 年 ERA-Interim 月平均地表热通量资料。ERA-Interim数据集的水平分辨率为 $0 . 1 2 5 ^ { \circ } \times 0 . 1 2 5 ^ { \circ }$ ,垂直分辨率60层,ERA-Interim再分析资料同化方案、数据源等参照相关文献[20]。
+
+# 2方法
+
+# 2.1 数据处理
+
+气温数据为植被生长季(5—9月)54个气象站的月平均气温( $T _ { \mathrm { m e a n } }$ ,Mean temperature）、月最高气温( $T _ { \mathrm { m a x } }$ ，Maximum temperature）与月最低气温( $T _ { \mathrm { m i n } }$ ,Minimum temperature）的均值。NDVI月值为基于VGT-S10 产品的DN 值转换的 NDVI数据的月最大值合成值。选取ERA-Interim 数据集的植被生长季感热通量（SH,Sensibleheat flux）、潜热通量(LH,Latent heatflux)与大气下行长波辐射（LD,Atmospheric downward longwave radiation）3个热通量值分析地表热量平衡状况。计算生长季热通量均值并使用克里金插值的方法估计54个气象站的辐射量值。所有的站点气温值、NDVI值及热通量采取站点周围9个像元平均值。
+
+# 2.2气温、NDVI的时空变化特征
+
+对 1998—2000年和 2008—2010 年两个时段的植被生长季 NDVI（NDVI in growing season，以下记为NDVIg)和气温变化的空间格局进行了分析。同时利用ArcGIS 10.0的空间分析工具计算 NDVI和气温变量的最大值、最小值、平均值和标准差,分析其时间变化特征,并分析了NDVIg 和气温的变异系数(CV,Coefficientof variation）。
+
+# 2.3植被变化与气温、热通量变化空间交叉验证
+
+为了量化生长季(5—9月)黄土高原植被生长变化对气温的影响,本文选取两个典型时段进行差值分析：1998—2000年(黄土高原退耕还林(草)工程初期,以下简称 S1)与2008—2010年(工程开展10年后,以下简
+
+称 S2）。首先计算 S1、S2 两时段间平均年 $\mathrm { N D V I g }$ 、气温变量及热通量的变化量,然后通过ArcGIS10.0的空间分析工具对变化量进行叠加分析,以检测植被覆盖度与气温和地表热通量之间的关系,并探寻其影响机制。
+
+# 3结果与讨论
+
+# 3.1 植被时空变化
+
+在退耕还林(草)开始的10 年间,黄土高原 $\mathrm { \Delta N D V I g }$ 整体增加（表1）,其中 S1和 S2 期时段 NDVIg 均值分别为0.38 和0.45,增加幅度高达 $1 8 . 4 2 \%$ ;同期, $\mathrm { \Delta N D V I g }$ 最大值也增加了 $1 3 . 1 6 \%$ 。而且,S1时段NDVIg 的CV值比 S2高,表明 S1时段区域内单元的NDVIg差异大,分布不均,而 S2 时段的区域内差异较小。（
+
+表1黄土高原植被NDVIg 统计值  
+Table1 The statistic characters of NDVIg on the Loess Plateau   
+
+<html><body><table><tr><td>时段 Time periods</td><td>平均值 Mean</td><td>最大值 Maximum</td><td>最小值 Minimum</td><td>标准差 Standard deviation</td><td>变异系数/% Coefficient of variation</td></tr><tr><td>S1</td><td>0.38</td><td>0.83</td><td>0.02</td><td>0.17</td><td>44.74</td></tr><tr><td>S2</td><td>0.45</td><td>0.88</td><td>0.01</td><td>0.18</td><td>40.00</td></tr></table></body></html>
+
+S1;黄土高原退耕还林(草)工程初期,the intial stageof theGrain for Green Project（GGP);S2:工程开展10年后,10yearsafter GGP
+
+两个时段 $\mathrm { \Delta N D V I g }$ 及两时段变化值的空间分布差异明显（图2）,植被恢复区域明显增加。无植被覆盖或植被较少覆盖区域( $0 { < } \mathrm { N D V I g } { \leqslant } 0 . 3 )$ 从 S1时段的总面积占比 $3 9 \%$ 下降至 S2 时段的 $2 5 . 1 0 \%$ ;植被高覆盖区域0 $\mathrm { \Delta N D V I g } \geqslant 0 . 6 \$ 的面积从 $5 \%$ 增加至 $1 0 . 3 2 \%$ （图 $2 \mathrm { a }$ 、图 2b)。黄土高原中部、东部、东南部的绿地覆盖面积增加较快, $\mathrm { \Delta N D V I g }$ 增加的区域占到全区的 $9 2 . 3 7 \%$ ;强烈的恢复过程伴随着有小部分区域的植被退化过程（图2c），在兰州以北较为明显, $\mathrm { \Delta N D V I g }$ 下降最低值达到 $- 0 . 2 8 _ { \circ }$ 退化区域可能受到自然状况与人类活动的共同作用,该区域地处半干旱偏旱区,土壤瘠薄,水资源短缺,生态治理难度较大[21];可能存在的过度放牧也会对干旱区风沙草原植被退化有着重要的驱动作用[22]。
+
+![](images/44a2667a3dc9fa9bc30220b67f630c2517f07035bb1c90c0739d620c441c4c84.jpg)  
+图2黄土高原不同时段NDVIg均值及两时段差值空间分布
+
+Fig.2The spatialdistributionof themeanNDVIgi998—20（S1）and2008—2010（S2），andthedierenceofNDVIgbetweenS2and S1
+
+# 3.2站点尺度植被覆盖与气温变化
+
+统计得到54个站点S1、S2时段 $\mathrm { \Delta N D V I g }$ 与气温变量统计值如表2所示。站点尺度的植被覆盖变化与像元尺度的结果一致(表2、图2）,NDVIg各统计值在S2时段均出现上升;同时各气温变量最大值与均值下降。其中,各站点的NDVIg最大值增加幅度最大,达0.07（表2）。研究时段内,生长季各气温变量 $T _ { \mathrm { m e a n } } \setminus T _ { \mathrm { m a x } }$ 、 $T _ { \mathrm { m i n } }$ 的均值与最大值都下降,表明降温是该区的一致趋势,尤以 $T _ { \mathrm { m a x } }$ 最为明显。与之相反的是,S1至S2 时段,统计的气温变量的最小值都升高。这说明黄土高原气温状况仍受到大尺度全球变暖背景的影响,使得气温变量最小值出现上升;但其作用不如局地强迫明显,黄土高原气温总体上呈下降趋势。而且,S1时段 NDVIg 与各气温变量的CV值比 S2高,表明 S1时段区域内单元的NDVI差异大,分布不均,而 S2时段的区域内差异较小。进一步对两个时段NDVI以及气温指标的均值统计量进行 $9 9 \%$ 置信区间的配对样本T检验,NDVI、 $T _ { \mathrm { m e a n } } \setminus T _ { \mathrm { m a x } }$ 的均值的在 $P { = } 0 . 0 1$ 水平上存在显著差异, $T _ { \mathrm { m i n } }$ 值在两时段差异不显著。 2
+
+表2站点尺度植被NDVIg及气温变量统计值  
+Table 2The NDVIg and temperature variable statistics in the Loess Plateau at site scale   
+
+<html><body><table><tr><td>时段 Time periods</td><td>变量 Variables</td><td>单位 Units</td><td>平均值 Mean</td><td>最大值 最小值 Maximum Minimum</td><td>标准差 变异系数/% Standard deviation Coefficient of variation</td></tr><tr><td>S1</td><td>NDVIg</td><td>/</td><td>0.42</td><td>0.75 0.12</td><td>45.24</td></tr><tr><td></td><td>Tmean</td><td>℃C</td><td>19.16</td><td>23.98 9.31</td><td>15.87</td></tr><tr><td></td><td>Tmux</td><td>℃</td><td>25.61</td><td>30.29 15.44</td><td>12.92</td></tr><tr><td></td><td>Tmin</td><td>℃</td><td>13.46</td><td>18.87 4.23</td><td>22.51</td></tr><tr><td>S2</td><td>NDVIg</td><td>/</td><td>0.49</td><td>0.82 0.13</td><td>40.82</td></tr><tr><td></td><td>Tmean</td><td>℃</td><td>18.91</td><td>23.90 10.06</td><td>11.05</td></tr><tr><td></td><td>Tmax</td><td>℃</td><td>25.28</td><td>29.89 16.26</td><td>12.30</td></tr><tr><td></td><td>Tmin</td><td>℃</td><td>13.45</td><td>18.85 5.07</td><td>22.00</td></tr></table></body></html>
+
+NDVIg:植被生长季 NDVI,NDVI in growing season; $T _ { \mathrm { m e a n } }$ :气温平均值,Mean temperature; $T _ { \mathrm { m a x } }$ ：气温最大值,Maximum temperature; $T _ { \mathrm { m i n } }$ ：气温最 小值,Minimum temperature
+
+研究时段内NDVIg 变化（△NDVIg） $T _ { \mathrm { m e a n } }$ 变化（ $\overline { { \Delta T _ { \mathrm { m e a n } } } }$ ） $\cdot ^ { T _ { \mathrm { m a x } } }$ 变化( $\Delta { T _ { \mathrm { { m a x } } } }$ 与 $T _ { \mathrm { m i n } }$ 变化( $\Delta T _ { \mathrm { m i n } }$ )的空间分布如图3所示。图3表明气温变化的空间格局与NDVIg 变化大致呈相反模式,植被覆盖增加(减少)的站点气温下降(上升)。在退耕还林(草)开始的10年间,黄土高原中部偏南靠近黄河主干道的站点NDVIg增长幅度远大于其他地区站点，最大的在离石站，增幅达到 $0 . 1 9$ 。研究时段内黄土高原植被覆盖整体呈增加趋势，少数站点的 NDVIg 出现下降,最大值出现在黄土高原东北部的集宁站,平均 NDVIg下降0.04。黄土高原西北部站点的 NDVIg值变化较小。
+
+植被覆盖增加地区的气温下降现象比较普遍（图3）,各站点 $T _ { \mathrm { m e a n } }$ 值在中部偏南靠近黄河主干道下降情况较明显,在阳泉站达到最低 $- 1 . 1 \mathrm { ~ \textdegree C }$ ;西南部有少数变暖现象,变暖幅度为 $0 { - } 1 \ \mathrm { { ^ circ C } }$ ,最高的增温出现在佛坪站$0 . 7 9 ~ \mathrm { ^ { \circ } C }$ （图3b）。 $\Delta T _ { \mathrm { m a x } }$ 值分布与 $\Delta { T _ { \mathrm { { m e a n } } } }$ 值大致相同,西南部升温中部降温,分别在玛曲站 $( 0 . 8 2 ~ \mathrm { ^ { \circ } C }$ )与榆林站$( - 1 . 9 5 \mathrm { ~ \textdegree C ~ } )$ 达到最高（图3c）。 $\Delta T _ { \mathrm { m i n } }$ 空间分布模式与 $\Delta { T _ { \mathrm { { m e a n } } } }$ 与 $\Delta T _ { \mathrm { m a x } }$ 分布模式存在差异,其在中部地区有少数变暖站点，幅度在0一 $. 0 . 5 \mathrm { ^ { \circ } C }$ ,变暖站点仍集中分布于西南地区，最高的增温出现在佛坪站达 $1 . 2 5 \mathrm { ^ { \circ } C }$ ;降温最低的站点西移至固原北部的盐池站,达到 $- 1 . 5 4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ （图 3d)。黄土高原及周边植被覆盖站点的日最低气温空间分布变异性高于日平均气温与日最高气温。
+
+对研究时段内平均 $\mathrm { \Delta N D V I g }$ 、气温变化的交叉验证分析表明,植被覆盖增加与气温变量降低在空间上呈正相关，且植被对气温的影响在日间较夜间大(图3、图4)。在研究时段内 $T _ { \mathrm { m e a n } } \setminus T _ { \mathrm { m a x } }$ 的第 $\mathrm { I V }$ 象限站点数最多，占黄土高原的大部分区域,分别约占 $6 4 . 8 1 \% . 7 2 . 2 2 \% ; T _ { \mathrm { m i n } }$ 第I、 $\mathrm { \Delta I V }$ 象限站点数大致相同,分别约占 $4 4 . 4 4 \%$ 、$4 6 . 3 0 \%$ 。这表明植被对气温的影响在日间较夜间大,可能是因为植被与大气间的大部分能量交换活动都在有光照的日间。站点数在第Ⅲ象限空间上呈极少数分布， $T _ { \mathrm { m e a n } } \setminus T _ { \mathrm { m a x } }$ 与 $T _ { \mathrm { m i n } }$ 站点数分别占 $5 . 5 6 \%$ ） $3 . 7 0 \%$ 和$5 . 5 6 \%$ 。
+
+![](images/bc15a05cb2c1c4baabe2d2691f368c1d3a03586a56a8a1039601e9c5fda868e8.jpg)  
+图3基于气象站的NDVIg、Tmean、Tmax与 $T _ { \mathrm { m i n } }$ 生长季变化情况
+
+Fig.3Site-based Changes of NDVIg，mean temperature ( $T _ { \mathrm { m e a n } } )$ ， maximum temperature ( $T _ { \mathrm { m a x } }$ ），and minimum temperature ( $T _ { \mathrm { m i n } }$ inthe growing season（mean of 1998—2000 minus mean of 2008—2010）
+
+# 3.3地表热量平衡分析
+
+上述结果表明,植被覆盖增加可能会对黄土高原的局地热量状况造成影响,带来一定的降温效应。植被可以通过改变下垫面的反照率、粗糙度及蒸散等方式影响大气,从而影响地面环流和能量平衡,引起局地气温的变化[2-3]。为进一步验证研究结果,使用热量平衡分析的方法对植被覆盖变化对气温影响的基本过程及其可能的物理机制作一些探讨,选择影响地表能量平衡关系的物理量[23」：地-气之间的感热（△SH)、潜热通量（△LH)与大气下行长波辐射（△LD)。另外,还对研究时段内生长季植被覆盖度变化分级为3类：高绿化站点0 $\mathrm { \Delta \Delta N D V I g { > } 0 . 1 \dot { } }$ ）、中绿化站点 $( 0 . 0 5 { < } \Delta \mathrm { N D V I g } { \leqslant } 0 . 1 )$ )与低绿化站点( $\mathrm { 0 } { < } \Delta \mathrm { N D V I g } { \leqslant } 0 . 0 3 \mathrm { , }$ ),定量统计其对应气温与热通量变化值如表3所示。
+
+各气温变化与△NDVIg变化高度一致（表3),气温变化对应NDVIg绿化区间呈梯度分布,即随着绿化程度的增加，各气温变量的降温程度也相应增加。 $T _ { \mathrm { m a x } }$ 变量在中绿化与低绿化站点出现少量增温。除△LD在低绿化站点下降幅度较中绿化站点高外，热通量变化与 $\Delta \mathrm { N D V I g }$ 变化相一致,随着绿化程度增加, $\Delta \mathrm { L H }$ 增加的幅度增加，△SH下降的幅度增加, $\Delta \mathrm { L D }$ 下降的幅度增加。
+
+表3S1至S2时段不同NDVIg增长幅度对应气温变量与热通量变化  
+able 3Mean temperature variables andheat fluxeschanges at sites grouped bytheamplitudeof NDVIgincreased（△NDVI），between S1 nd S2   
+
+<html><body><table><tr><td>区间 Range</td><td>△NDVIg</td><td>△Tmean/C</td><td>△Tmax/℃</td><td>△Tmin/C</td><td></td><td>(m2)</td><td></td></tr><tr><td>>0.1</td><td>0.13</td><td>-0.44</td><td>-0.10</td><td>-0.64</td><td>14.92</td><td>-13.52</td><td>-5.72</td></tr><tr><td>0.05—0.1</td><td>0.07</td><td>-0.26</td><td>0.02</td><td>-0.37</td><td>6.70</td><td>-4.44</td><td>-5.14</td></tr><tr><td>0—0.05</td><td>0.03</td><td>-0.11</td><td>0.05</td><td>-0.14</td><td>3.98</td><td>-3.75</td><td>-6.15</td></tr></table></body></html>
+
+△NDVIg:植被生长季 NDVI变化,NDVI change in growing season; $\Delta T _ { \mathrm { { m e a n } } }$ ：气温平均值变化,Mean temperature change; $T _ { \mathrm { m a x } }$ ：气温最大值变化,
+
+![](images/457932aae656a255d6242ad0b51c0d8215b794d0762df14a259d42fd1bc68566.jpg)  
+图4黄土高原植被NDVIg与气温变化关系  
+Fig.4The relationships between the changes of the temperature and NDVIg on the Loess Plateau
+
+Maximum temperature change ; $T _ { \mathrm { m i n } }$ ：气温最小值变化,Minimum temperature change;△LH:潜热通量变化,Latent heat flux change;△SH:感热通量变化, Sensible heat fluxchange; $\Delta \mathrm { L D }$ :下行长波辐射变化,Downward longwave radiation change
+
+为探讨△NDVIg与气温变化之间的物理关联，交叉验证了热通量变化与 $\mathrm { \Delta N D V I g }$ 变化之间的关系。由图5可得,在退耕还林(草)开始的10年间,黄土高原植被覆盖增加与潜热通量增加、感热通量与下行长波辐射下降在空间上呈正相关关系(表3,图5)。植被覆盖增加后,地表潜热通量由于区域土壤含水量的增加、地表粗糙率及叶面积指数的增大及蒸散发的增加而出现了显著增加,感热通量减少。如图5所示,约有 $6 4 . 8 1 \%$ 的站点植被覆盖与潜热通量同时增加,增加幅度为 $0 . 4 6 { - } 4 4 . 7 7 ~ \mathrm { W / m } ^ { 2 }$ ;约为 $7 4 . 0 7 \%$ 的站点植被覆盖增加但感热通量减少,减少幅度为- $- 0 . 2 2 - 3 0 . 5 3 \mathrm { ~ W / m } ^ { 2 }$ 。
+
+长波辐射变化可以从植被地面反照率方面进行解释,一般而言,植被的反照率比荒漠地要低得多[24]。黄土高原地区植被覆盖增加后引起地表反照率的改变,会对地表吸收短波太阳辐射和发射长波辐射造成影响。许多研究证明,植被覆盖的增加,可以通过减少地表反照率,增加地表面吸收的太阳辐射量,从而产生对气温的正反馈[25]。然而,这种正反照率反馈可能部分被更高的蒸散发的冷却作用所抵消[26]。这种蒸散发带来大气中水汽增加,使得云量增加,会造成下行长波辐射的明显减少,如图5所示,减少的站点分别占黄土高原的$7 9 . 6 3 \%$ ,幅度在 $- 0 . 0 2 { \mathrm { - } } 1 3 . 9 1 \ \mathrm { W / m } ^ { 2 } .$ □
+
+从热量平衡的角度分析,植被增加使得土壤含水量增加,表面阻抗增加,植被的蒸腾增加,以及粗糙度增加而造成的湍流垂直扩散增强,会造成潜热通量增加,感热通量的减少。感热通量减小幅度小于潜热的增加幅度，故该区的有效热通量（感热 $+$ 感热)是增加的，数值在 $0 . 2 4 { - } 1 4 . 2 4 ~ \mathrm { W / m } ^ { 2 }$ 。再加上反照率减少，吸收的净短波辐射增加。通过分析热量平衡分量变化,由于地表净吸收的辐射增加,且有效热通量的值增加,要在更低的气温下才能使地表吸收的短波、发射的长波、输送的有效热通量达到新的平衡。通过植被蒸散作用加强并可能导致降温的结果与梁玲等[15]、苟娇娇等[27]在黄土高原进行的植被变化对气候影响试验数值模拟研究一致。这与北极地区植被增长反馈作用分析[28]及中国的土地覆盖变化敏感性试验研究结果[29]不同,他们认为植被增长使得地表反照率减少,增加了表面吸收的太阳辐射量,进而导致植被对气温的正反馈。然而,从局地尺度上来看,黄土高原气候冬季严寒、夏季暖热,且大量覆盖草地覆被。植被的蒸散发作用在该地区有着重要的地位,其可以在植被增加的情况下削弱由于反照率减少导致的变暖,植被需要蒸腾更多的水分,从而在生长季持续降温反馈。植被恢复可能会对黄土高原气候变暖现象有减缓作用。
+
+![](images/89347d90f32c75c3e9cc79affddd9678649b023dfff793fd8aab3b9bb2e4f940.jpg)  
+图5黄土高原植被NDVIg变化与热通量变化关系  
+Fig.5The relationship between the changes in the heat fluxes and NDVIg on the Loess Plateau
+
+# 4结论
+
+本文基于气象观测数据与卫星遥感 NDVI数据,对黄土高原生态工程实施前后10年间（S1:1998—2000年,工程初期;S2:2008—2010年,工程10年后)的植被增长状况与气温变量时空变化状况进行交叉验证,探讨黄土高原植被恢复对气温的反馈作用;同时基于EIN-Interim再分析资料提取的地面观测热通量值变化，分析植被变化对气温影响的基本过程及其可能的物理机制,探讨植被与大气间相互作用。通过研究得出以下结论： N 1
+
+(1)黄土高原植被恢复比较明显,生长季植被增加显著;与之对应的是生长季3个气温变量( $T _ { \mathrm { m e a n } } \setminus T _ { \mathrm { m a x } }$ $T _ { \mathrm { m i n } }$ )的均值与最大值在 S2 时段都下降,尤以 $T _ { \mathrm { m a x } }$ 最为明显。
+
+(2)植被覆盖增加与气温变量降低在空间上呈正相关。同时,植被覆盖增加与潜热通量增加、感热通量与下行长波辐射下降在空间上也呈正相关关系,植被恢复通过加剧植被蒸散作用导致近地面降温。
+
+研究还存在一定不足,数据的不确定性和模型缺陷会阻碍对植被活动增加引起的气温反馈大小的定量结论。未来应考虑加大观测数据的测量时空精度、在模型模拟中引入其他参数(如叶面积指数、表面反照率)使陆面过程参数化更符合实际状况。这些改进预期能够更好地了解植被在气候系统中的作用。
+
+# 参考文献（References）：
+
+[1]ZhangXZ,TagQH,ZegJYeQWaingcolingfetsofcroplandgreesschagesuring98intherhClaiEnvironmental Research Letters，2013，8(2）:024038.[2」马迪，刘征宇，吕世华，MichaelN，容新尧，陈广善，王富瑶.东亚季风区植被变化对局地气候的短期影响.科学通报，2013，58(17)：
+
+[3]Shen MG,PiaoSL,JeongSJ,ZhouLM,ZngZZ,CiaisP,ChenDL,HuangMT,JinCS,LiLZX,LiY,MyneniRB,YangK,ZhangGX.EvaporativelingoverthbetanPlateauiucdbygeatiogowthresofteatioalcadyfSciesoftUieStates of America，2015，112(30)：9299-9304.  
+[4］周艳莲，孙晓敏，朱治林，张仁华，田静，刘允芬，关德新，袁国富.几种不同下垫面地表粗糙度动态变化及其对通量机理模型模拟的影响.中国科学D辑：地球科学，2006，36(S1)：244-254.  
+[5］高学杰，张冬峰，陈仲新,PalJS,GiorgiF.中国当代土地利用对区域气候影响的数值模拟.中国科学D辑：地球科学，2007，37（3）397-404.  
+[6］张井勇，董文杰，符淙斌.中国北方和蒙古南部植被退化对区域气候的影响.科学通报，2005，50(1）：53-58.  
+[7]BnanGB.Forestsandimatechangeforcigs，fedbacks，andthelatebenefitsofforests.Sience,2O08,20(5882）：44-1449  
+[8]KahoroSA,XuXX,henWY，HuaR，RazaS,DingK.Efectsof ferentlad-usesystesonsolagregates:acseudyofssPlateau（Northern China).Sustainability，2017,9（8）：1349.  
+[9］李振朝，韦志刚，文军，符睿.近50年黄土高原气候变化特征分析.干旱区资源与环境，2008，22（3）：57-62.  
+[10］易浪，任志远，张，刘雯.黄土高原植被覆盖变化与气候和人类活动的关系.资源科学,2014，36(1)：166-174.  
+[11] 杨蒙，王飞，王蕾钦，谢向向.近15年黄土丘陵区退耕农户特征变化研究.干旱区资源与环境，2017，31(6)：44-50.  
+[12］刘志超，杜英，徐丽萍，杨改河，冯永忠.黄土丘陵沟壑区退耕还林(草)工程的经济效应——以安塞县为例.生态学报，2008，28（4)：1476-1482.  
+[13］郭建侠，杜继稳，郑有飞.陕北地区不同植被改善方案对环境影响的数值模拟.生态学报，2004，24（7）：1365-1372.  
+[14］王平.基于CLM模型的植被变化对黄土高原气温和降水影响研究[D].南京：南京信息工程大学,2013.  
+[15］梁玲，吕世华，尚伦宇.黄土高原植被改变对夏季当地气候影响的数值模拟.高原气象，2008，27（2)：293-300.  
+[16］张静辉，文军，张堂堂，罗亚勇，史小康，田辉．黄河源区植被覆盖度对区域气候影响的数值模拟，高原气象，2011，,30(4)：989-995.  
+[17］张含玉，方怒放，史志华.黄土高原植被覆盖时空变化及其对气候因子的响应.生态学报，2016，36(13）：3960-3968.  
+[18]焦俏，王飞，李锐，张文帅.ERS卫星反演数据在黄土高原近地表土壤水分中的应用研究.土壤学报，2014,51(6)：1388-1397.  
+[19]张文帅，王飞，穆兴民，李锐，何毅.近25年延河流域土地利用/覆盖变化的时空特征.水土保持研究,2012,19(5)：148-152,57,291.  
+[20]DeD,UalaS,monsAJ,erifordP,PoliP,KbayashS,daeU,masedaMA,alsaoG,uerP,echoldA C M,Van DeBergL,BidotJ,BormannN,DelsolC,DraganiR,FuentesM,erAJ,HaimbergerL,HealySB,HersbachH,HlmEV,IsaksenL,KalbergP,KhlerM,Matricardi M,MeNallAP,Monge-SanzBM,MorereteJJ,ParkBK,PeubeyC,DeRosnayP,TvolatoC,ThepautJN，VitartFeERA-InterianalysisoaoadpefoceofthataiilatiosteQuartelyJoualofthRoalMeteorological Society,2011，137(656）: 553-597.  
+[21］张丽华，谢忠奎，王亚军，郭志鸿.陇中黄土高原土地利用变化对土壤有机碳、无机碳的影响.土壤通报，2013，44(2）：369-375.  
+[22］张燕，魏祎梅，魏茂宏，李琳.甘肃黄河三峡湿地资源调查.草业科学,2016，33（8)：1509-1517.  
+[23］郑益群，钱永甫，苗曼倩，于革，孔玉寿，章东华.植被变化对中国区域气候的影响Ⅱ：机理分析.气象学报，2002,60（1）：17-30.  
+[24]AdamsJM.Vegetation-ClimateInteraction：how VegetationMakestheGlobalEnvironment.NewYork：Springer，200：10-104.  
+[25]FieldCobellete，rillebacsf eestrosstmatehaeAalRevotdResources, 2007,32: 1-29.  
+[26］李伟平，季劲钩，董文杰，刘新.年际时间尺度上全球植被与大气相互作用的诊断分析.大气科学,2008，32（1)：75-89.  
+[27］苟娇娇，王飞，于恩涛，金凯.黄土高原地区土地覆盖变化对气候的反馈作用数值模拟.干旱区地理，2017,40(4)：850-859.  
+[28]ChapinIFS,SturmM,SerezeMC,McFadenJP.KeyJR,LloydAH,McGuireAD,RuppT,LynchAH,ShimelJ,BrigerJ,ChapmanWL,Epstein HE,EuskirchenES,HinzmanLD,JiaG,PingCL,TapeKD,ThompsonCDC,WalkerDA,WelkerJM.Roleofland-surface changes in arctic summer warming.Science，2005，310(5748）：657-660.29 韩振宇，高学杰，石英，吴佳，王美丽，GiorgiF.中国高精度土地覆盖数据在 RegCM4/CLM模式中的引入及其对区域气候模拟影响的分析.冰川冻土，2015，37(4)：857-866.

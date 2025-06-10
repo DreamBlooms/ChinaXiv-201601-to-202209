@@ -1,0 +1,277 @@
+[
+    {
+        "type": "text",
+        "text": "汤加勇」　赵华1\\*何爱华」　周继昌²　贾　刚」刘光芒」陈小玲」　蔡景义1（1.四川农业大学动物营养研究所，成都611130，2.深圳市慢性病防治中心分子生物学实验室，深圳",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "518020) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在克隆、鉴定猪硒蛋白P基因（Sepp1)，并探明其在猪不同组织中的 mRNA 相对表达量，为以猪为模型研究硒蛋白P（SeIP）的功能奠定基础。根据表达序列标签（EST）序列设计引物，利用cDNA 末端快速克隆（3'-RACE）技术从猪肝脏总 RNA 中扩增出含开放阅读框（ORF）至 polyA片段，然后与EST序列进行拼接；采用荧光定量PCR 技术考察 Seppl在猪9个组织中的mRNA相对表达量。结果显示：1）扩增出共1707bp 的片段，测序后与EST拼接获得了2109 bp 的猪 Seppl序列，并提交至NCBIGenBank 数据库，序列号为EF113596.2；该基因1170 bp 的ORF编码区和对应的氨基酸残基与人相应序列分别有 $8 3 . 7 2 \\%$ 和 $7 5 . 6 4 \\%$ 序列同源性，其编码390个氨基酸，含有14个硒代半胱氨酸（Sec）残基，分别位于第59、267、286、309、311、327、339、352、354、361、376、378、385和387位。2）SepplmRNA在猪组织中广泛分布，在肝脏中具有最高分布，依次为甲状腺>肾脏>睾丸>下丘脑>脾脏>垂体>心脏>肌肉。本试验成功克隆、鉴定了猪 Sepp1，检测了其在猪不同组织中表达分布情况，为其进一步以猪为模型探讨其功能奠定了基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：猪；Seppl；克隆；荧光定量PCR中图分类号：S828 文献标识码： 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "硒（Se）是哺乳动物新陈代谢所必需的基本微量元素，其在动物的健康生长、繁殖等方面起着重要作用。Se在动物体内主要以硒蛋白的形式来发挥其多种生理功能，而硒蛋白又是一种特殊的蛋白质，它",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "收稿日期：2015-09-20  \n项目基金：国家自然科学基金面上项目（30871844，31272468）；四川隆达畜牧科技有限公司项目（2015SCLD001）  \n作者简介：汤加勇（1981—)，男，籍贯？，硕士，实验师，主要研究领域为营养与分子生物学。E-mail:  \n410699653@qq.com  \n\\*通信作者：赵华，副研究员，硕士生导师，E-mail: zhua666@126.com是Se以硒代半胱氨酸（selenocysteine，Sec）形式结合到蛋白质上的形成存在。Sec是第21种氨基酸，它由密码子UGA 编码，而UGA在生物系统中是一终止密码子，其识别需要特殊的机制。将UGA 识别为指导 Sec 合成的密码子，需要特殊因子的参与，如硒蛋白 mRNA 自身3'-非编码区（3'-UTR）的 Sec插入稳定的茎-环结构硒代半胱氨酸插入序列(seleno cysteine insertion sequence，SECIS)[-2]。在人体中分离得到了25 种硒蛋白[3]，它们很多是作为细胞重要的抗氧化防御系统，起着清除氧自由基的作用，具有保护生物膜完整、解毒和增强机体免疫等功能[4]。硒蛋白P（SeIP）是其中一种较为特殊的硒蛋白，它主要是由肝脏分泌到血浆中的一种含硒分泌性糖蛋白，人体血浆中约 $5 0 \\%$ 的 Se 是以SelP的形式存在[5]。高等哺乳动物中硒蛋白一般只有一个 Sec 残基，而 SelP 是目前在高等生物中发现的唯一含多个 Sec 残基的硒蛋白[6-7]。SelP被认为在生物体内起转运和储存硒的作用[8]。  \n目前，虽然在人和鼠中已经通过试验探索了部分 SelP 的功能，但对 SeIP 而言，在以人为模型的研究中由于不易获得有效的研究材料，使得其功能及其在代谢中的作用机理尚没有精确的科学阐明，其生物学功能也还有待于进一步的深入研究；猪与人类在营养代谢、生理结构和功能、基因同源性等方面具有较高的相似性，它已成为研究人类医学问题的一种理想模型。因此，以猪为模型研究 SeIP 的生物学功能具有重要意义，然而猪中完整的硒蛋白P基因（Sepp1）序列还未见报道。本试验拟克隆猪 Seppl,对其基因序列进行生物信息学分析，并对其 mRNA 在猪不同组织中的分布情况进行分析，为进一步以猪为模型研究SeIP的生物学功能奠定基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1主要仪器设备Tetrad 2梯度 PCR仪（Bio-Rad）、5804R 台式高速冷冻离心机（Eppendorf）、MillQ Plus 超级纯水仪（Millipore）、凝胶成像系统 GelDoc XR（Bio-Rad）、电泳仪及水平电泳槽（Bio-Rad）、Nanodrop2000微量核酸分析仪（Thermo）、7900HT荧光定量PCR仪（ABI)，文中提及的其他设备、器械均为国产。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2主要试剂、克隆菌株及质粒 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "主要试剂：TRIzol Reagent 购自 Invitrogen 公司；PrimeScriptTM逆转录试剂盒、TaqDNA 聚合酶、",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DNA 分子量标准均购自大连宝生物工程有限公司；One-step SYBRGreen 荧光定量试剂盒购自QIAGEN  \n公司；引物由上海生工生物公司合成；DNA凝胶回收试剂盒、快速质粒小量提取试剂盒均购自OMEGA  \nBio-Tek公司。克隆菌株及质粒：大肠杆菌（Escherichiacoli）TOP10为本实验室保存，克隆载体pMD19-T购自  \n大连宝生物工程有限公司。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3Sepp1的克隆与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过 NCBIGenBank 数据库查询猪表达序列标签(expressed sequence tag,EST),获得1段疑似 Seppl的序列片段（GenBank 登录号：CX065456.1)，根据该片段设计 Sepp1 快速克隆的上游引物 F1:ATCAACAAGAAGAAAACCAAACAGA，下游引物：3'-site adapter primer，采用 cDNA 末端快速克隆（3'-RACE）技术扩增含完整3'-端全长的 Seppl。采集新鲜“杜 $\\times$ 长 $\\times$ 大”（DLY）猪肝脏组织，采用TRIzol 法提取总RNA，通过琼脂糖凝胶电泳和核酸测定仪检测其质量。以质量合格的总RNA为模板，以 Oligo (dT)-3'-site primer为引物，按逆转录试剂盒说明书操作合成第1链cDNA。然后以cDNA 为模板，以F1和3'-site adapter primer 引物对扩增获得含完整开放阅读框（ORF）至polyA的 Seppl序列。PCR反应条件为 $9 4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 变性 $5 ~ \\mathrm { m i n }$ ，35个循环（94℃ 30s，57℃ 30s，72℃ 2 min)，然后 $7 2 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 延伸 $1 0 ~ \\mathrm { m i n }$ ，4℃保存。对PCR产物进行 $1 . 5 \\%$ 的琼脂糖凝胶电泳，对目的片段进行胶回收（具体步骤按胶回收试剂盒说明书操作)，然后将回收片段连接到 pMD19-T载体上（具体步骤按克隆试剂盒说明书操作)，转入TOP10 感受态细胞，然后涂布含 Amp 的LB平板，37℃倒置培养过夜。通过PCR 对转化子进行阳性鉴定，对阳性转化子进行划线纯化并摇菌，再送上海英骏生物技术有限公司测序。利用 NCBIBlast、SCEISearch 2.18 等在线分析软件对克隆的基因序列进行分析并与EST序列进行拼接，确认后提交 NCBI GenBank。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4Sepp1在猪不同组织中的相对表达量分析DLY公猪6只（约 $6 0 ~ \\mathrm { k g } { \\cdot }$ ，屠宰后新鲜收集肝脏、肾脏、肌肉、甲状腺、垂体、下丘脑、心脏、睾丸、脾脏等组织，切割成 $\\mathrm { ~ 1 ~ g ~ }$ 左右大小，装入 $1 . 5 ~ \\mathrm { m L }$ 离心管中（无RNA酶，Axygen，USA)，液氮中保存待测。采用 TRIzol 法提取总RNA，用于定量分析。采用 ABIPrimer Express 3.0软件设计定量引物对，Sepp1 定量引物对为：AACCAGAAGCGCCAGACACT和 TGCTGGCATATCTCAGTTCTCAGA,看家基因Actb 定量引物对为：CCCAAAGCCAACCGTGAGAA 和CCACGTACATGGCTGGGGTG。引物送上海生工生物公司合成。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用QIAGENT 公司 One-step SYBR Green RT-PCRKit 进行一步法实时荧光定量分析（ABI7900HT)，荧光定量PCR反应体系为 $1 0 \\mu \\mathrm { L }$ ，包含 ${ 5 . 0 \\mu \\mathrm { L } }$ $2 { \\times } \\mathrm { S }$ YBR Green Mix（含 RT-mix）、total RNA 100ng、上下游引物混合液 $1 \\mu \\mathrm { L }$ （ $\\scriptstyle \\cdot 2 \\mu \\mathrm { m o l } / \\mathrm { L }$ )，每个样重复2次。RT-PCR反应条件为 $9 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 变性 $3 0 ~ \\mathrm { s }$ ，48℃反转录 $4 0 \\mathrm { m i n }$ ，40个循环（95℃5s，60℃34s)，溶解曲线（95℃15s，60 $\\mathrm { { ^ \\circ C } }$ 60 s，95 ℃ 15 s)。本试验采用ΔCt相对定量方法来对不同组织基因表达量进行分析，具体方法为：以看家基因Actb 作为参比基因，每一个样品中，△Ct 值是目标基因和参比基因Ct值的差值（△Ct=Ctrage-Ctrference)），以肾脏组织中目标基因表达量为标准，假定其表达量为1，其ΔCt 值定为△CtR，其他组织样品中目标基因 △Ct值减去△CtR 值的差值即为△△Ct（△Ct-△CtR)，根据基因PCR 扩增是 2\"扩增的原理，则目标基因在其中组织样品中的相对表达量为 $2 ^ { - \\Delta \\Delta \\mathrm { C t } }$ 。数据以平均值 $\\pm$ 标准误表示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1Sepp1的克隆与分子生物学分析以猪肝脏总RNA为模板，反转录合成第1链cDNA，利用F1和3'-RACE的方法扩增获得了1条1700 bp 左右的目的条带（图1-A）。该片段经TA克隆到pMD19-T载体后，送上海英俊公司测序确定，然后与 EST序列进行拼接，获得一段2109 bp 的cDNA序列，其含有完整的ORF 和 polyA 结构，经分析确定其为猪 Sepp1，然后提交 NCBIGenBank 数据库，序列号为:EF113596.2。Sepp1经 SECISearch 2.18软件分析，具有典型的硒蛋白特有的3-UTR SECIS 发夹结构（图1-B)。经NCBIBlast 比对分析该基因的 ORF区长1170bp，编码 390个氨基酸，含有14个 Sec残基，分别位于第59、267、286、309、311、327、339、352、354、361、376、378、385和387位，其中大部分位于C端。人 SelP（NP-005401）含10 个 Sec，小鼠 SelP（AAA42129.2）含10个 Sec，牛 SelP（BAA84781.1）含12个Sec，这几个物种",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SelP 的 Sec 大部分（ $9 0 \\%$ 以上）都分布在C-端[3.6-7]。采用 SingalP3.0 server 在线软件（www.cbs.dtu.dk/services/singalP/）对猪 SelP进行信号肽预测，结果显示其在21和22位氨基酸有可能的信号肽切割位点（图1-C)。猪 Sepp1的ORF编码区与人、小鼠、牛 Sepp1的ORF区的同源性分别为：$8 3 . 7 2 \\%$ 、 $76 . 3 1 \\%$ 、 $8 7 . 0 2 \\%$ 。猪 SeIP 的氨基酸序列与人、小鼠、牛SelP的氨基酸序列的同源性分别为：$7 6 . 1 5 \\%$ 、 $6 8 . 7 0 \\%$ 、 $8 2 . 1 4 \\%$ ，序列比对见图2。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A.猪 SepplRT-PCR 分析（M:DNA 分子量标准，1：PCR 扩增产物)。B.猪 Seppl3'-UTR SECIS 发夹结构分析。C.SeIP蛋白信号肽预测。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d889f5d52c320f5feb43c19f39482d14fb1a7a9099b310feb7f4831699e69fa.jpg",
+        "img_caption": [
+            "图1猪 Sepp1的克隆及基因序列分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A. RT-PCR analysis of porcine Sepp1 (M: DNA molecular weight marker,lane 1: RT-PCR product).B. SECIS hairpin structure analysis of 3'-UTR of Seppl of pig. C. Potential signal peptide predicted of SelP protein. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Cattle MWRGLGLALALCLLLTGGTESQGOS PMLN SVTVVALLQASUYLCILQASRLEDLRVKLEKEG 80   \nHuman MWRSLGLALALCLLPSGGTESQDOSSLCKQPPAWSIRDQDPMLNSNGSVTVVALLQASUYLCILQASKLEDLRVKLKKEG 80   \nMouse MWRSLGLALALCLLPYGGAESQGQSPACKQAPPWNIGDONPMLNSEGTVTVVALLQASUYLCLLQASRLEDLRIKLENOG 80   \nPig MWRGLGLALALCLLSWGGTESQGKSSEC PPGWSIKL DPMLNS SVTVVALLQASUYLCILQASRLEDLRVKLEKEG 80   \nCattle SNISYVVVNHQG ISSRLKYVHLKNKVSEHIPVY PDVWTLLNGNKDDFLIYDRCGRLVYHLGLPYSFLTFTYVE 160   \nHuman YSNISYIVVNHQGISSRLKYTHLKNKVSEHIPVYQQEENQTDVWTLLNGSKDDFLIYDRCGRLVYHLGLPESFLTFPYVE 160   \nMouse FNISYIVVNHQGSPSOLKHAHLKKQVSDHIAVYRQDEHQTDVWTLLNGNKDDFLIYDRCGRLVYHLGLPYSFLTFPYVE 160   \nPig SNISY IVVNHQGIAS QLKYVYLKSKVSEHIPVYQQEE NQTDVWTLLNGNKDDFLIYDRCGLLVYHLGLPYSFLTFPYVE 160   \nCattle DSIKTVYCEDKCGNCSLKALEDEDVCKNVFLATKEKT AEASQ. .RHHHPHPHPHHGHQLHENAHLSESPKPDTPDT 234   \nHuman EAIKIAYCEKKCGNCSLTTLKDEDFCKRVSLATVDKTVETPS..... .PHYHHEHHHNHGHQHLGSSELSENQQPGAPNA 234   \nMouse EAIKIAYCEKRCGNCSFTSLEDEAFCKNVSSATASKTTEPSE. ..EHNHHKHHDKHGHEHLGSSKPSENQQPGALDV 234   \nPig EAIKTVYCENKCGNCSLKTLKDEDFCKNVYLATEEK! ITEAPQPHHHHDHHHHRHHHHHHGHQHLGNGHLSEHPKPEAPDA 240   \nCattle PENPPPSGLHHHHHR. . HKGPQRQGHSDNCDTPVGSESLQPSLPQKKLURKRCINQLLUQFPKDSESALSSCCCHCRHLV 312   \nHuman PTHPAPPGLHHHHK.. .HKGQHRQGHPENRDMPA.SEDLOD. .LQKKLCRKRCINOLLCKLPTDSELAPRSUCCHCRHLI 308   \nMouse ETSLPPSGLHHHHHHHKHKGQHRQGHLESUDMGA.SEGLOLSLAORKLURRGCINOLLCKLSEESGAATSSCCCHCRHL 313   \nPig PEQPPPSGLHHHHG.. . HKGHQRQGHSENUDMPAGSESLQLSLPQKKLURRGCISQLLCKFPKNSESALRSUCUHCRHLI 317   \nCattle FEKTGSAITUQCTEKLPSLCSUQGLLAEENVIES JRLPPAAUQAAGQQLNPTEASTKUSUKNKAKMUKUPS 385   \nHuman FERTCSAITUOOKENLPSLOSUOGLRAEDNITESCOURLPPAAUOIS.OOLIPEASASURUKNOAKKUDUPS 380   \nMouse FEKSGSAITUQCAENLPSLCSUQGLFAEEKVIESCQCRSPPAA.UHS.QHVSPTEASPNUSUNNKTKKUKUNL 384   \nPig FEKTESAVTUQCGENLPSLCSUQGLLAEENVIESUQURLPPAAUQAS .QQLNPAEASTKUSUKNKAGRUKUPS 389 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Alignment of the amino acid sequence of SelP among cattle, human, mouse and pig ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2Sepp1在猪不同组织中的相对表达量分析",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "采用 RT-PCR 对猪肝脏、肾脏、肌肉、甲状腺、垂体、下丘脑、心脏、睾丸、脾脏共9个组织进行了Seppl的相对表达量分析，以肾脏组织的表达量为1，其他组织相对肾脏组织的相对表达量分析结果见图3。Sepp1在猪9个组织中均有mRNA 表达，在肝脏中相对表达量最高，其次是甲状腺；在肝脏和甲状腺中的相对表达量均高于肾脏组织，分别是肾脏组织的6.8倍和1.7倍；在其余几个组织中的相对表达量均低于肾脏组织，在肌肉中的相对表达量最低，只有肾脏组织中相对表达量的0.01。Sepp1在猪9个组织中的相对表达量依次是肝脏>甲状腺>肾脏>睾丸>下丘脑>脾脏>垂体>心脏>肌肉。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/98e264eae261d0a4201f080966caf8f83270737357002b35a96300f88bfbc6c4.jpg",
+        "img_caption": [
+            "图3猪 Sepp1在猪不同组织中的相对表达量",
+            "Fig.3The relative expression level of Seppl in various tissues of pigs "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "未知序列基因的克隆可根据其在不同物种间序列同源性比较，选择同源性较高的序列片段设计兼并引物，PCR扩增获得部分片段并测序分析，然后根据获得的部分基因片段信息，设计引物，采用5'-RACE和3'-RACE 等方法，获得基因的完整序列。随着猪表达序列标签数据库等生物信息数据库的急剧丰富，利用在线生物信息学软件查询获得目标基因 EST序列片段，特别是5'-EST序列信息，在此基础上设计引物，采用传统5'-RACE 和3'-RACE 等方法克隆获得基因片段并进行序列鉴定和分析，成为克隆猪硒蛋白基因的强有力手段。本试验采用传统PCR方法结合EST生物信息学分析等技术手段克隆并鉴定猪中的 Seppl，并将其提交NCBIGenBank 数据库，序列号为：EF113596.2。分析猪 Sepp1CDS 编码区和人Sepp1 CDS区有 $8 3 . 7 2 \\%$ 的同源性。经 SECISearch 2.18 软件分析，猪 Sepp1具有硒蛋白基因特有的典型3'-UTRSECIS茎-环发夹结构。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "硒蛋白是一种特殊蛋白质，是 Sec 以编码密码子UGA 的形式掺入到合成的蛋白质中，即 Sec 合成进入蛋白质则是由密码子UGA介导的翻译行为，在没有特殊识别因子存在时，UGA 是一个终止信号；而在有特殊识别因子时，该密码子则指导 Sec 合成掺入到蛋白质分子中，故 Sec 被认为是第 21种氨基酸[9]。SelP 的氨基酸序列中含有 10\\~17个 Sec 残基[6-7]，人和小鼠的 SelP 含有10个 Sec 残基，牛的含12个 Sec 残基。本研究中对猪 Seppl编码的氨基酸序列进行分析，发现其含14个 Sec 残基。SelP 是一种胞外糖蛋白，是血浆硒最主要的存在形式，占血浆总硒含量的 $5 0 \\%$ （人）或 $60 \\%$ （鼠）[5-6]。采用 SingalP",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.0 server在线软件（www.cbs.dtu.dk/services/singalP/）对猪SelP进行信号肽预测，发现其在21和 22位氨基酸之间有可能的信号肽切割位点，说明该蛋白质为分泌性胞外蛋白。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "硒蛋白的 Sec 是由UGA 编码的，UGA有双重功能，既可以编码 Sec，同时也可以起到终止密码子的作用，使蛋白质翻译终止，2种作用相互竞争[10]。猪 SeIP 存在14个UGA编码的 Sec，故理论上应该在任意一个 Sec/UGA 处翻译终止，产生多个亚型。已有报告发现大鼠 SeIP 有至少4个亚型，蛋白质翻译在第2个、第4个、第7个和第10个 Sec/UGA处终止产生的N端相同，C端不同的亚型 $^ { [ 1 1 ] }$ 。人SelP至少也有2种亚型,分别是在第2个 Sec 处终止只含有1个 Sec 的小亚型和含有10个 Sec的全长 SelP[12]。Takahashi 等[]的研究发现，SelP 不同亚型之间的功能不一样，仅含1个 Sec 的小亚型有还原氧化型的低密度脂蛋白，起抗动脉硬化的作用，而位于C端的9个 Sec 则起转运和储存硒的作用。猪 SelP 是否也具有多个亚型尚不清楚。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "SeIP 是一种富 Se蛋白，它能够结合肝素并通过肝素结合于细胞膜，被广泛认为有运输硒、抗氧化、结合重金属等功能[8.14]。硒蛋白P 主要表达部位是肝脏，但在其他组织部位也有表达[7]，由肝脏产生的SelP 分泌到血浆中，而由其他组织细胞产生的 SelP 则分泌到细胞间隙[15]。本研究也发现猪 Seppl 的mRNA在肝脏中具有最高丰度，其次为甲状腺和肾脏。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 本试验成功克隆了猪 Seppl，并提交NCBIGenBank 数据库，序列号为EF113596.2。$\\textcircled{2}$ 猪硒蛋白P为分泌性蛋白，其氨基酸序列中含有14个 Sec 残基，在21和 22 位氨基酸位点具有可能的信号肽切割位点。$\\textcircled{3}$ RT-PCR 结果显示，Sepp1在猪各种组织中均有表达，其中在肝脏中具有最高的 mRNA分布，随后依次是甲状腺>肾脏>睾丸>下丘脑>脾脏>垂体>心脏>肌肉。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]LOW S C,BERRY M J.Knowing when not to stop:selenocysteine incorporation in eukaryotes[J].Trends in Biochenmical Sciences,1996,21(6):203-208. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[2] BEHNE D,KYRIAKOPOULOS A.Mammalian selenium-containing proteins[J].Annual Review of Nutrition,2001,21:453-473 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[3] KRYUKOV G V,CASTELLANO S,NOVOSELOV SV,et al.Characterization of mammalian selenoproteomes[J].Science,2003,300(5624):1439-1443. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[4]MOGHADASZADEH B.BEGGS A H.Selenoproteins and their impact on human health through diverse physiological pathways[J].Physiology(Bethesda),2006,21(5):307-315.   \n[5]SCHOMBURG L,SCHWEIZER U,HOLTMANN B,et al.Gene disruption discloses role of selenoprotein P in selenium delivery to target tissues[J].The Biochemical Journal,2Oo3,370(2):397-402.   \n[6]READ R,BELLEW T,YANG J G,et al.Selenium and amino acid composition of selenoprotein P,the major selenoprotein in rat serum[J].Journal of Biological Chemistry,1990,265(29):17899-17905.   \n[7]SAIJOH K,SAITO N,LEE M J,et al.Molecular cloning of cDNA encoding a bovine selenoprotein P-like protein containing 12 selenocysteines and a (His-Pro） rich domain insertion,and itsregional expression[J].Molecular Brain Research,1995,30(2):301-311.   \n[8]FAIRWEATHER-TAIT S J,COLLINGS R,HURST R.Selenium bioavailability:current knowledge and future research requirements[J].American Journal of Clinical Nutrition,2010,91(5):1484S-1491S.   \n[9]KVICALA J.Selenium and the organism[J].Casopis Lekaru Ceskych,1999,138(4):99-106.   \n[10]GRUNDNER-CULEMANN E,MARTIN G W,TUJEBAJEVA R,et al.Interplay between termination and translation machinery in eukaryotic selenoprotein synthesis[J].Journal of Molecular Biology,2001,310(4):699-707.   \n[11]MA S G,HILL K E,CAPRIOLI R M,et al.Mass spectrometric characterization of ful-length rat selenoprotein P and three isoformsshortened at the C terminus[J].Journal of Biological Chemistry,2002,277(15):12749-12754.   \n[12]AKESSON B,BELLEW T,BURK R F.Purification of selenoprotein P from human plasma[J].Biochimica et Biophysica Acta (BBA)-Protein Structure and Molecular Enzymology,1994,1204(2):243-249.   \n[13] TAKAHASHI K,SAITO Y.Structure and function of human selenoprotein ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[14]HILL K E,WU S,MOTLEY A K,et al.Production of selenoprotein P (Sepp1) by hepatocytes is central to selenium homeostasis[J].Journal of Biological Chemistry,2012,287(48):40414-40424. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "KUROKAWA S,HILL K E,MCDONALD W H,et al.Long isoform mouse selenoprotein P (Sepp1) supplies rat myoblast L8 cells with selenium via endocytosis mediated by heparin binding properties and apolipoprotein E receptor-2 (apoER2)[J].Journal of Biological Chemistry,2012,287(34):28717-28726. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Cloning,Identification and Tissue mRNA Relative Expresson Level Analysis of Porcine Selenoprotein P Gene ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "TANG Jiayong1 ZHAO Hua1\\* HE Aihual ZHOU Jichang² JIA Gang1 LIU Guangmang1 CHEN ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Xiaolin1 CAI Jingyil ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1. Animal Nutrition Institute,Sichuan Agricultural University, Chengdu 611130, China；2.Molecular Biology Lab,Shenzhen Center for chronic Disease Control, Shenzhen 518020, China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The objective of this experiment was to clone and identify porcine selenoprotein P gene (Seppl),and investigate its mRNA relative expression level in porcine tissues for further study of its roles using pig models. Total RNA was extracted from pig liver for $3 ^ { \\prime }$ -RACE with primer designed according to a Sepp1-like EST sequence,and assembled with the EST sequence. We further investigated the mRNA relative expresson level in 9 tissues of pigs by the qPCR technology.The results showed as folows: 1)1 707 bp cDNA fragment of the Seppl containing the open reading frame (ORF) tillto its poly(A)tail was isolated,and a2109 bp fullength cDNA was acquired. The sequence of porcine Seppl was submited to NCBI GenBank with accession number of EF113596.2. The 1 170 bp ORF share an $8 3 . 7 2 \\%$ identity to that of human, while their amino acid sequences had $7 5 . 6 4 \\%$ identity. The ORF of porcine Seppl encode 390 amino acids,which has 14 selenocysteine (Sec) encodedby TGA codon,the Sec residues located at positions of 59,267,286,309,311,327,339,352,354,361, 376,378,385 and 387 from N- to C-terminal of the mature SelP.2)The Seppl mRNA was wildly expressed in various tissues and exhibited the highest mRNA distribution in liver,followed by thyroid,kidney，testis, hypothalamus,spleen,pituitary,heart and muscle.In conclusion,the porcine Seppl is cloned and identified; also its mRNA distribution in porcine tissues is investigated in present study，which ofers an effective alternative to further study its biology roles using pig models. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words: pig; Sepp1; clone; RT-PCR ",
+        "page_idx": 10
+    }
+]

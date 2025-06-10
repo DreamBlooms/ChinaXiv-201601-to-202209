@@ -1,0 +1,494 @@
+[
+    {
+        "type": "text",
+        "text": "南山26m天线轨道高差测量及其对指向精度的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "温浩兴1,2,3，许谦1,2，王娜1,2(1.中国科学院新疆天文台，新疆乌鲁木齐 830011；2.中国科学院射电天文重点实验室，新疆乌鲁木齐 830011；3.中国科学院大学，北京 100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：轮轨式天线的轨道作为承载整个天线重量的基础，其精度好坏将直接影响天线在方位方向运转的平稳性，进而引起天线轴系偏差从而影响天线指向精度。本文介绍改造后的乌鲁木齐南山26m天线（NSRT:Nanshan Radio Telescope）轨道结构以及轨道高差测量，并建立天线在不同方位、俯仰角下轨道高差引起天线指向偏差的数学模型。利用“十字扫描”法实测多颗标准源在相应位置的指向数据，并通过高斯拟合得到指向偏差。通过分析可知轨道高差引起的指向偏差经过修正可以提高天线指向精度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：轨道高差；26m天线（NSRT）；整体轨道；十字扫描；指向偏差中图分类号：P111.44文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来随着天线朝着大口径、高频段方向发展，天线指向精度作为重要的性能指标愈发受到关注。一般要求天线指向误差小于十分之一的波束宽度，但随着天线口径以及观测频率增加实现这一目标极具挑战，因此任何引起指向误差的因素都需要慎重考虑。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "对于轮轨式方位俯仰型天线而言，轨道高差将会引起天线在方位方向的运转偏差，引入轴系误差造成指向精度下降。早期的天线如上海 $2 5 \\mathrm { m }$ 、新疆 $2 5 \\mathrm { m }$ 天线均采用拼接轨道，天线运转过程中在轨道接缝处会产生跳动引起天线方位偏差，另外拼接轨道在接缝处容易产生应力集中造成轨道寿命下降，因此拼接轨道多用于精度要求不高的场合。随着天线口径增大、观测频段提高拼接方式已经无法满足要求，因此全焊接的高精度轨道已经在一些大天线上得以运用如：美国GBT1 $0 0 \\mathrm { m } ^ { [ 1 ] }$ 、上海 $\\mathrm { T M } 6 5 \\mathrm { m } ^ { [ 2 ] }$ 等天线。高精度轨道焊接技术，随着轨道规模以及运用环境场合不同，其焊接工艺差别较大不可一概而论。以中国科学院新疆天文台即将建的110m全可动射电望远镜天线（QTT）[3]为例，其指向精度要求1.5角秒，为了能够实现这一目标轨道的精度要求控制在 $0 . 2 \\mathrm { m m }$ （峰峰值），同时天线运行在全年温差较大的高海拔地区因此轨道的焊接将会是新的挑战。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "新疆南山 $2 5 \\mathrm { m }$ 望远镜于1993年建成，2015年完成升级改造。改造后天线口径26m如图1所示，采用了全焊接轨道技术，图2为NSRT天线一段焊接头。在轨道焊接后以及天线运行正常期间对轨道高差开展了三次测量，以验证轨道精度与可靠性。测得轨道精度比改造前提高了一个数量级，有效的修正了轨道高差引起的指向精度偏差。轨道高差对指向的影响，国内外都有研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea7b2f357eda055ac770bc505f84b0b9c27188a53efb87741de3374a804dd854.jpg",
+        "img_caption": [
+            "图1南山26m天线图2南山26m天线焊接轨道 Fig.1NSRT 26m telescopeFig.2 welding joint of NSRT "
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "国内，南山 $2 5 \\mathrm { m }$ 李永江[4采用数字水准仪测量了改造之前轨道高差，研究发现，轨道接缝处是影响天线指向精度的主要因素，指向误差通过四个固定方位拟合得到，存在较大拟合误差。刘璇[5在李永江的基础上在改造后的天线二次平台上测量天线的轨道高差，对天线指向进行修正，同样也存在较大的拟合误差。密云 $5 0 \\mathrm { m }$ 考虑轨道不平度[6，利用有限元仿真得到天线方位轴倾斜误差，得到非线性指向修正模型，使用有限元仿真会使计算结果存在一定的偏差。上海的天马65m采用了单台倾角仪和水准仪[2测量轨道高差，研究轨道沉降对天线指向的影响；国外，如意大利的SRT64m[7]和美国的DSN34m[8等，通过使用倾角仪测量大口径射电望远镜轨道高差，计算出天线的指向偏差。本文将建立轨道高差引起天线指向偏差的模型，选取射电源通过“十字扫描”法进行实测得到指向偏差，对比实测值与轨道高差引起的指向偏差用以修正指向。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 轨道高差测量",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1轨道高差测量方案",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "NSRT天线轨道改造为11段弧形钢轨整体焊接式轨道，轨道直径 $1 5 \\mathrm { m }$ 、轨道宽 $2 1 0 \\mathrm { m m }$ 。整个改造过程中，在轨道安装在灌浆浇筑前、轨道底部悬空部分灌浆浇筑后和轨道上加载天线载荷后三个不同施工期对天线轨道精度进行了测量，前两期测量结果主要说明轨道灌浆的质量达到了天线安装过程的精度要求，第三期是轨道加载荷后正常运行一段时间测量，结果作为天线完全改造完成后的轨道精度指标。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于白天温差大会对数据的准确性产生较大影响，因此测量时间调整到夜间23:30以后，此时环境温度较为均匀，测得的数据比较准确。使用徕卡高精度水准仪和高度尺测量，在轨道上布设220个观测点，轨道内外圈各布88个点，轨道中圈布44个点，具体布设如图3所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e449a5d666a83c4d502e9920628ac830c6c67c7c286f384aeea2b8b4a7ac1e0.jpg",
+        "img_caption": [
+            "图3南山26m天线轨道观测点和焊缝分布 Fig.3NSRT 26m track observation point and weld distribution "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以J0为观测基准点，逆时针顺序编号，标记观测点77个（单圈），共内外两圈；在与焊缝相邻的校正点处中间位置加测2个点；焊缝以H1逆时针顺序编号，标记观测点11个（单圈），共内中外三圈；在焊缝与焊缝之间的轨道中间位置，以N1逆时针顺序编号，标记观测点11个。为区分内外轨道，以字母a表示外侧轨道，b表示中间轨道，c表示内侧轨道，共标记观测点220个。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2轨道高差测量结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 轨道改造三期的高差测量和数据分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "NSRT天线轨道不平度要求为 $0 . 4 5 \\mathrm { m m }$ （峰峰值），在轨道焊接后、灌浆后以及天线落到轨道上运转一段时间后，对轨道不平度进行了三次测量。对轨道施工中的每个关键阶段进行监测可以及时修正装调误差，为最终满足轨道精度要求起到重要支持作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1）第一期轨道在灌浆浇筑前的测量高差",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "第一期轨道高差的测量结果如图4所示。轨道在没有灌浆之前，轨道的内外圈的高差峰峰值都是 $0 . 0 7 6 \\mathrm { m m }$ ，并且内外圈的高差基本一致。焊缝处的高差值跟其他标记点处高差值都比较接近说明轨道的焊接质量较好。计算可知轨道内外圈高差的均方根误差（RMS）值分别为$0 . 0 1 2 8 \\mathrm { m m }$ 、 $0 . 0 1 3 0 \\mathrm { m m }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/58e23a5dbe038093d712d742f1168fb474acc925515add52169911fe9e299d4b.jpg",
+        "img_caption": [
+            "图4南山26m天线轨道高差分布 Fig.4NSRT 26mtrackunevenness distribution "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）第二期轨道底部灌浆浇筑后测量高差",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "轨道底部悬空部分灌浆浇筑充实后轨道的精度会发生变化，本次测量检测灌浆工艺，保证灌浆后轨道高差在允许范围内。第二期测量结果如图5所示，轨道内外圈高差峰峰值分别为$0 . 0 5 2 \\mathrm { m m }$ 、 $0 . 0 6 2 \\mathrm { m m }$ ，均小于没有灌浆的轨道高差峰峰值 $0 . 0 7 6 \\mathrm { m m }$ 。计算得到内外圈轨道高差的RMS值分别为 $0 . 0 1 2 3 \\mathrm { m m }$ 、 $0 . 0 1 3 2 \\mathrm { m m }$ 。分析可知，灌浆后轨道内圈的高差略好于灌浆前，外圈的高差与灌浆前基本一致。综上表明，所采用的灌浆工艺是成功的。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4b6a8586900006e86344187215a73fc9a94e5f577cce1ff3ffab52f1b33d6927.jpg",
+        "img_caption": [
+            "图5南山26m天线轨道高差分布Fig.5NSRT 26m track unevennessdistribution"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3）第三期轨道加载天线载荷后测量",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在轨道浇筑完成后，天线坐落在轨道上，正常运行一段时间，对轨道高差进行了测量。第三期测量结果如图6所示，图中轨道内外圈高差的峰峰值分别为 $0 . 2 5 4 \\mathrm { { m m } }$ 、 $0 . 2 2 2 \\mathrm { m m }$ 。计算得到轨道内外圈高差的RMS分别为 $0 . 0 5 7 8 \\mathrm { m m }$ 、 $0 . 0 5 6 2 \\mathrm { m m }$ ，容易看出这次轨道内外圈高差的RMS值均大于前两期的RMS值。说明轨道承载后精度受到一定影响，但仍满足设计需求。另外，轨道改造之前拼接轨道峰峰值为 $1 . 2 0 0 \\mathrm { m m }$ ，采用整体焊接轨道技术后轨道精度提高了近一个数量级。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b6d7f79b0ad66aba46a5157261db7907ce7ba30a179adeb0c3648fbc3a23c6c8.jpg",
+        "img_caption": [
+            "图6南山26m天线轨道高差分布 Fig.6 NSRT 26m track unevenness distribution "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图7显示了三期轨道内外圈高差平均值的分布，可以很清楚看到轨道浇筑前、浇筑后和加载荷后高差分布的变化。前两次测量轨道没有载荷，变形较小，在 $0 ^ { \\circ }$ 到 $2 7 0 ^ { \\circ }$ 区间，第二期的高差变化比第一期高差变化要大，灌浆对这部分轨道影响明显， $2 7 0 ^ { \\circ }$ 到 $3 6 0 ^ { \\circ }$ 第二期轨道高差变化比第一期轨道高差变化要小，表明灌浆后一部分轨道高差被优化，而第三期轨道高差变化是其中最大的，显然承载后对轨道精度有一定影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bae32110e2cfebf6e32071fbbdf03b3e5f37ad33b971d60b1d486187c3520cb1.jpg",
+        "img_caption": [
+            "图7内外圈轨道平均高差分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 轨道高差数据拟合",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "轨道高差测得的数据是离散的点，为充分地分析轨道高差与指向偏差之间的关系，需要完全显示轨道高差的连续变化，对第三期轨道高差进行拟合。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef0da3cde2eaca117bcb362571bfcb89fb0be06a1c92ff2ee335564ef9e21aec.jpg",
+        "img_caption": [
+            "Fig.7 Average unevenness distribution in inner and outer track "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "轨道高差包含了正弦分量，对内外圈平均高差进行Fourier和正弦函数八阶拟合，拟合函数的系数通过非线性最小二乘拟合得到，正弦函数拟合的 $\\operatorname { R M S E } { = } 0 . 0 1 6 9$ ，Fourier函数拟合的RMSE=0.0172，由图8可以看出正弦函数拟合不仅从大尺度 $( 0 ^ { \\circ }$ 到 $3 6 0 ^ { \\circ } { } _ { \\cdot }$ 拟合出了轨道高差变化，也从小尺度上拟合出了轨道高差的波动变化，所以正弦函数拟合更接近真实测量值，这样可以通过拟合函数求出未测量点的高差值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 建立轨道高差计算天线指向模型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1轨道高差引起天线座架绕坐标轴的转角计算 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "天线座架跟轨道面是四个轮子的点接触[9]，通过轨道四点高差可以计算出座架绕三坐标轴的转角，如图9所示：其中，正北（坐标Y轴的正向）是方位 $0 ^ { \\circ }$ ，逆时针旋转一圈是方位 $0 ^ { \\circ }$ 到 $3 6 0 ^ { \\circ }$ 。在三维坐标系中，1、2、3、4点逆时针编号，分别代表座架与轨道接触的四点。1表示1、2两点或4、3两点之间的距离， $h$ 表示座架高度，r表示轨道半径，求解座架绕X、Y和Z轴的转角都采用右手定则。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/859434b63a7c482e32aa788b84b799847d8ce382f64f16b6a73bbfc5f161b91b.jpg",
+        "img_caption": [
+            "图8南山26m天线轨道高差拟合 Fig.8 NSRT 26m track unevenness fitting ",
+            "图9南山 $2 6 \\mathrm { m }$ 天线座架坐标系 Fig.9 NSRT 26m coordinate of the alidade structure "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 座架绕X轴的转角",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "计算座架绕X轴的转角 $a _ { x }$ ， $h _ { 1 }$ 、 $h _ { 2 }$ 、 $h _ { 3 }$ 、 $h _ { 4 }$ 分别表示1、2、3、4四点的高差，图9中4、1两点和3、2两点共同作用引起座架绕X轴转动，求得4、1和3、2两组转角，取它们平均值，则转角 $a _ { x }$ 计算公式：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { a _ { x } \\approx \\frac { 1 } { 2 } \\ast \\left( \\frac { h _ { 4 } - h _ { 1 } } { 2 r \\ast c o s \\frac { \\pi } { 4 } } + \\frac { h _ { 3 } - h _ { 2 } } { 2 r \\ast c o s \\frac { \\pi } { 4 } } \\right) = \\frac { 1 } { 2 \\sqrt { 2 } \\ast r } \\ast \\left[ - 1 \\mathrm { ~ - ~ } 1 \\mathrm { ~ } 1 \\mathrm { ~ } 1 \\right] \\left[ \\begin{array} { l } { h _ { 1 } } \\\\ { h _ { 2 } } \\\\ { h _ { 3 } } \\\\ { h _ { 4 } } \\end{array} \\right] , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 座架绕Y轴的转角",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "计算座架绕Y轴的转角 $a _ { y }$ ，图9中4、3两点和1、2两点共同作用引起座架绕Y轴转动，求得4、3和1、2两组转角，取它们平均值，则转角 $a _ { y }$ 计算公式：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { a _ { y } \\approx \\frac { 1 } { 2 } * \\left( \\frac { h _ { 4 } - h _ { 3 } } { 2 r * c o s \\frac { \\pi } { 4 } } + \\frac { h _ { 1 } - h _ { 2 } } { 2 r * c o s \\frac { \\pi } { 4 } } \\right) = \\frac { 1 } { 2 \\sqrt { 2 } * r } * \\left[ 1 \\ - 1 \\ - 1 \\ 1 \\right] \\left[ \\begin{array} { l } { h _ { 1 } } \\\\ { h _ { 2 } } \\\\ { h _ { 3 } } \\\\ { h _ { 4 } } \\end{array} \\right] , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.3 座架绕Z轴的转角",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "计算绕Z轴的旋转角 $a _ { z }$ ，由于绕Z轴的旋转受到座架绕X轴的影响，图10中 $\\varDelta x _ { 4 I }$ 是由4、1两点的高差引起的， $\\varDelta x _ { 3 2 }$ 是由3、2两点的高差引起的， $\\varDelta x _ { 4 I }$ 、 $\\varDelta x _ { 3 2 }$ 使座架绕Z轴产生旋转角 $a _ { z }$ ，则转角 $a _ { z }$ 的计算公式：",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1d107320b65c5ce74a745b60d39de552c0a507c3e7ccd3c892980d4d5a9378d.jpg",
+        "img_caption": [
+            "图10南山 $2 6 \\mathrm { m }$ 天线座架绕Z轴转角",
+            "Fig.10 The angle of the NSRT $2 6 \\mathrm m$ alidade structure of the $Z$ -rotation "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\begin{array} { r l } & { \\approx \\frac { \\Delta x _ { 4 1 } - \\Delta x _ { 3 2 } } { l } , \\qquad ( 3 ) } \\\\ & { \\sharp \\sharp : ~ \\Delta x _ { 4 1 } \\approx h * \\left( \\frac { h _ { 4 } - h _ { 1 } } { 2 r * c o s _ { 4 } ^ { \\pi } } \\right) = h * ( \\frac { h _ { 4 } - h _ { 1 } } { \\sqrt { 2 } * r } ) , } \\\\ & { \\Delta x _ { 3 2 } \\approx h * \\left( \\frac { h _ { 3 } - h _ { 2 } } { 2 r * c o s _ { 4 } ^ { \\pi } } \\right) = h * ( \\frac { h _ { 3 } - h _ { 2 } } { \\sqrt { 2 } * r } ) , } \\\\ & { l = 2 r * \\cos \\frac { \\pi } { 4 } = \\sqrt { 2 } * r , \\qquad ( 6 ) } \\end{array}$ 那么： $\\begin{array} { r } { a _ { z } \\approx \\frac { h * \\left( \\frac { h _ { 4 } - h _ { 1 } } { \\sqrt { 2 } * r } \\right) - h * \\left( \\frac { h _ { 3 } - h _ { 2 } } { \\sqrt { 2 } * r } \\right) } { \\sqrt { 2 } * r } = \\frac { h } { 2 * r ^ { 2 } } * \\left[ - 1 \\begin{array} { c c c c } { 1 } & { - 1 } & { 1 } \\end{array} \\right] \\left[ \\begin{array} { c } { h _ { 1 } } \\\\ { h _ { 2 } } \\\\ { h _ { 3 } } \\\\ { h _ { 4 } } \\end{array} \\right] , } \\end{array}$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2天线方位、俯仰指向偏差计算 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于X轴跟俯仰轴平行，因此，天线俯仰方向指向偏差 $a _ { e l } = a _ { x }$ ；方位轴方向的指向偏差受到转角 $a _ { x }$ 、 $a _ { y }$ 和 $a _ { z }$ 的综合影响，所以方位方向的指向偏差 $a _ { a z }$ [10]计算较复杂。如图11所示，轴XEL垂直于指向平面， $\\theta _ { \\mathrm { e l } }$ 是方位角， $a _ { a z }$ 的计算公式：",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/79868c317afde5fb4c8af26bc4fb840f9850d1d07c20bf413513bb12cc5116b9.jpg",
+        "img_caption": [
+            "图11方位指向误差计算 Fig.11 Calculation of azimuth pointing error "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { a _ { a z } = \\frac { \\Delta _ { x e l } } { \\cos ( \\theta _ { e l } ) } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\Delta _ { \\mathrm { { x e l } } } { = } a _ { z } * \\cos ( \\theta _ { e l } ) - a _ { y } * \\sin ( \\theta _ { e l } )$ ，(9)",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "那么： $a _ { a z } = a _ { z } - a _ { y } * \\tan ( \\theta _ { e l } )$ (10)",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于，计算结果是弧度值，需要乘上系数 $\\begin{array} { r } { \\mathrm { k } = \\frac { 1 8 0 * 3 6 0 0 } { \\pi } } \\end{array}$ 得到角秒 $( \" )$ 单位。综上可得，轨道高差引起天线方位、俯仰指向偏差的计算公式：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { a _ { a c l } } \\\\ { a _ { e l } } \\end{array} \\right. = k \\ast \\left\\{ \\begin{array} { l l } { a _ { z } - a _ { y } \\ast \\tan ( \\theta _ { e l } ) } \\\\ { a _ { x } } \\end{array} \\right\\} = k \\ast \\left\\{ \\left[ \\begin{array} { l l l } { \\frac { h } { 2 \\ast r ^ { 2 } } } & { - \\frac { \\tan ( \\theta _ { e l } ) } { 2 \\sqrt { 2 } \\ast r } } & { 0 } \\\\ { 0 } & { 0 } & { \\frac { 1 } { 2 \\sqrt { 2 } \\ast r } } \\end{array} \\right] \\left[ \\begin{array} { l l l } { - 1 } & { 1 - 1 } & { 1 } \\\\ { 1 } & { - 1 - 1 } & { 1 } \\\\ { - 1 } & { - 1 } & { 1 } \\end{array} \\right] \\left[ \\begin{array} { l } { h _ { 1 } } \\\\ { h _ { 2 } } \\\\ { h _ { 3 } } \\end{array} \\right] \\right\\} ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "天线的指向偏差 $\\delta$ 计算公式：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta = \\sqrt { { a _ { a z } } ^ { 2 } + { a _ { e l } } ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3轨道高差计算指向偏差结果",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上指向偏差计算公式(11)，取俯仰角 $4 5 ^ { \\circ }$ 时，带入轨道高差，计算得到方位、俯仰指向偏差值。如图12所示，偏差计算值中含有周期成分。对计算结果进行了正弦函数拟合，得到方位指向偏差范围 $- 7 . 7 6 1 4 ^ { \\prime \\prime }$ 至 $7 . 6 5 4 4 ^ { \\prime \\prime }$ ，俯仰指向偏差范围 $\\cdot 2 . 0 8 0 8 ^ { \\prime \\prime }$ 至 $2 . 0 8 0 8 ^ { \\prime \\prime }$ 。可以看出方位指向偏差值较大，俯仰偏差值相对较小，这是由于方位偏差的计算计入了座架绕X、Y轴的转角，所以方位偏差计算值比较大。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f8f49c07094f1b93296d2c2128490ec29f4d7436e9964b088ec340e448e1f94a.jpg",
+        "img_caption": [
+            "图12南山26m天线指向：(a)方位指向偏差；(b)俯仰指向偏差 Fig.12NSRT 26m pointing error.(a) Azimuth pointing error;(b) Elevation pointing error "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图13中天线的指向偏差由公式(12)计算得到，指向偏差计算值范围 $0 . 4 3 2 4 ^ { \\prime \\prime }$ 至 $7 . 8 2 5 1 ^ { \\prime \\prime }$ ，指向偏差是由轨道上四点高差计算得到，所以轮子每转过 $9 0 ^ { \\circ }$ ，四点高差就会重复出现，但是计算的方向会不一样，指向偏差呈现一定周期性。把图13中的指向偏差和图6(a)中的轨道高差进行对应，可以得出，高差大的地方不是天线指向偏差最大的地方，因为指向偏差是由天线的每个位置对应轨道上四点的高差共同作用的结果。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/911256ab77e67548c0cf1be78d37b6b4193472efa163573c25b9b9273fda67aa.jpg",
+        "img_caption": [
+            "图13南山26m天线指向偏差 Fig.13NSRT 26m pointing error "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3指向偏差计算与分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本次测量时间白天，使用“十字扫描”对多颗标准射电源进行扫描测量，一次方位或俯仰扫描60s，每秒采集功率读数2次，测得高精度的功率读数，同时控制天线扫描并实时读取天线位置信息，每次方位或俯仰扫描记录120个数据。使用高斯拟合出这些标准射电源的实际指向偏差，并与使用前述模型算的指向偏差进行对比用以修正指向偏差。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "因为“十字扫描”是对方位、俯仰分别进行扫描，在一次方位和俯仰扫描的过程中标准源位置时刻都在变化，所以当方位扫描结束，可以拟合出与方位扫描对应的方位、俯仰坐标，与接下来的俯仰扫描时的方位、俯仰坐标位置是不一样的。同理俯仰扫描结束，可拟合出俯仰扫描对应的方位、俯仰坐标。使用拟合得到的方位、俯仰坐标值，通过前述模型可以算出此位置上由轨道高差引起的方位、俯仰指向偏差，实测指向偏差值和轨道高差计算得到的指向偏差值的结果如表1和表2所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/3451ecc4e6c40314437c63cb54c843cd7daa7e85ef7ee3a1fd690a272af9b072.jpg",
+        "table_caption": [
+            "表1方位指向偏差实测值和轨道高差引起指向偏差计算值"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>源名</td><td>方位 （°）</td><td>俯仰 （°）</td><td>实测方位偏差 （\"）</td><td>高差引起方位 偏差(\")</td></tr><tr><td>3c274</td><td>101.5975</td><td>29.1565</td><td>-21.7555</td><td>-0.2434</td></tr><tr><td>3c286</td><td>75.9878</td><td>30.6041</td><td>-17.6586</td><td>-3.3441</td></tr><tr><td>3c295</td><td>49.5861</td><td>36.1761</td><td>-8.0785</td><td>-5.2041</td></tr><tr><td>4c39.25</td><td>89.3666</td><td>64.8951</td><td>-9.1674</td><td>-0.5307</td></tr><tr><td>3c144</td><td>246.4513</td><td>53.1852</td><td>-8.4652</td><td>-6.4995</td></tr><tr><td>3c147</td><td>310.8331</td><td>79.0983</td><td>-7.7633</td><td>-2.7021</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表2俯仰指向偏差实测值和轨道高差引起指向偏差计算值",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/2f5de9f7d7cd2a02352d659e5e0340c9b9c6ae75f778c98688525158b9618223.jpg",
+        "table_caption": [
+            "'ab.1 The measured and calculated values of azimuth pointing errol ",
+            "lab.2The measured and calculated values of elevation pointing error "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>源名</td><td>方位 （°）</td><td>俯仰 （）</td><td>实测俯仰偏差 （\"）</td><td>高差引起俯仰 偏差(\")</td></tr><tr><td>3c274</td><td>101.8157</td><td>29.3555</td><td>-27.7921</td><td>-1.7932</td></tr><tr><td>3c286</td><td>76.1524</td><td>30.8024</td><td>-18.0468</td><td>-1.4261</td></tr><tr><td>3c295</td><td>49.6825</td><td>36.3319</td><td>-9.1442</td><td>-0.1361</td></tr><tr><td>4c39.25</td><td>89.5538</td><td>65.1008</td><td>-7.3441</td><td>-1.4191</td></tr><tr><td>3c144</td><td>246.7546</td><td>53.0002</td><td>-9.6841</td><td>1.3911</td></tr><tr><td>3c147</td><td>310.3456</td><td>78.9432</td><td>-11.3976</td><td>0.5705</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表1、2中实测的标准射电源，通过高斯拟合分别拟合出它们方位和俯仰的位置，再拟合得到它们的在该方位和俯仰位置时的真实指向偏差值，把刚才拟合出的方位和俯仰坐标带入前述轨道高差计算天线指向偏差的模型，算出该方位和俯仰位置时轨道高差引起的指向偏差值。使用轨道高差计算的方位、俯仰指向偏差值，修正实测的方位、俯仰指向偏差，结果表明，天线的指向精度得到了提高。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文介绍了采用高精度焊接轨道技术后NSRT天线轨道峰峰值由改造前的1.200mm提高到$0 . 2 5 4 \\mathrm { m m }$ ；为了修正因轨道高差造成的指向偏差，建立了轨道高差计算天线指向偏差模型；基于“十字扫描”法测量了NSRT天线的指向精度，通过比较发现修正掉轨道高差引起的指向偏差后，天线整体指向精度得到改善。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "天线的指向偏差是由结构、控制和环境等因素综合作用产生的，轨道高差引起的天线指向偏差只是结构因素中的小部分，所以还得综合考虑各种因素，如：温度、风等引起的误差，NSRT已经做了一些有关温度对天线座架影响的工作[1]，下一步将构建基于温度可控、湿度可监测的双倾角仪轴系偏差测量系统，实时测量天线座架结构全天候变形情况，并构建模型修正指向误差。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]Symmes Arthur,AndersonRobert,EganDennis.Improvingtheservicelifeof the1OO-metergreenbank telescopeazimuthtrack[J].Proceedings of SPIE,2008,V.7012,701238.  \n[2]付丽,凌权宝,赵融冰,钱志瀚.TM65m天线基础和轨道沉降及对天线指向的影响[J].红外与激光工程，2016，45(11)：190-196.Fu Li,Ling Quanbao,Zhao Rongbing,Qian Zhihan.Setlements of foundationand track ofTM65 mand its effect onantennapointing[J]. Infrared and Laser Engineering,2016,45(11):190-196.  \n[3]王娜.新疆奇台110米射电望远镜[J].中国科学:物理学力学天文学，2014，44：783-794.  \nWang Na.Xinjiang Qitai 110m radio telescope[J].Sci Sin-Phys MechAstron,2014,44: 783-794.  \n[4]李永江,艾力·玉苏甫,张正禄,艾力·伊沙木丁.天线轨道变形精密测量与指向偏差模型研究[J].武汉大学学报(信息科学版)，2013，38(2):176-180.  \nLiYongjiang,AiliYusup,Zhang Zhenglu,AiliYishamud.Antenna TrackDeformationPreciseMeasurementandPointingErorModel[J].Geomatics and Information Science of Wuhan University,2O13,38(2):176-180.  \n[5]刘璇,艾力·玉苏甫,项斌斌,王从思,许谦,王军.轨道不平度对天线指向的影响分析与修正[J].天文学报，2017，58(4)：47-57.  \nLiu Xuan,AilYusupXianginbn,WangCongsiXu QianWangJunAalysisandCoretionoftheIfuenceof theTackIruityon Antenna Pointing[J].Acta Astronomica Sinica,2O17,58(4): 47-57.  \n[6]姜正阳,孔德庆,张洪波,王松根.考虑轨道不平度的射电望远镜指向修正方法[J].天文研究与技术，2015，12(4)：417-423.Jiang Zhengyang,Kong Deqing,Zhang Hongbo,WanfSonggen.A Method to Calibrate Pointing Errors of aRadioTelescopecludingRoughnsoftheTlescopeRailTrack[J].AstronomicalResearch&Tchology,O15,(4):17-423.  \n[7]ToninoP,FrancoB,SergioP,etal.TheSRTinclinometerformonitoringtherailandthethemalgradienteffectsontealidadestructure[C].Proceedings of SPIE,2014,9145(28): 72-78.  \n[8]WodekGawronski.ModelingandControlofAntennasandTelescopes[M].Springer Science+BusinessMedia,20o811-22.  \n[9］吴江.110米高精度全可动反射面天线轨道不平度及其对指向精度的影响[D].西安电子科技大学，2016.  \nWuJiang.The IregularitiesofTrackandIts InfluenceonPointing AccuracyofFullySterableReflectorAntenna withteDiaeterof110 Meters[D].Xidian University,2016.  \n[10]W.Gawronski,F.Baher,andO.Quintero.Azimuth-Track-Level Compensation to Reduce Blind-Pointing Errors of theBeam-Waveguide Antennas[RJ.The Telecommunications and Mission Operations Progress Report,199,139:1-18.  \n[11]王惠,宁云炜,闫浩.26米天线座架温度分布规律及变形影响分析．天文研究与技术[J]，2018，15(2)：208-215.Wang Hui,Ning Yunwei,Yan Hao.Temperature Distributionand Deformation ImpactAnalysis of26m AntennaFrame[J].Astronomical Research & Technology,2018,15(2): 208-215.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Measurement of NSRT 26m Antenna Track Unevenness and Influence on Pointing Accuracy ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Wen Haoxing1,2.3，Xu Qian1,2，Wang $\\mathrm { N a } ^ { 1 , 2 }$ （204号 (1. XinJiang Astronomical Observatory，Chinese Academy of Sciences，Urumqi 83oo11，China; 2.Key LaboratoryofRadio Astronomy,CAS,Urumqi 83oo11,China; 3.University of Chinese Academy of Sciences，Beijing 1Ooo49，China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The track of wheel on track antenna is the important foundationwhich to carrying the whole antenna weight; its precision will directly influence the operation of the antenna in azimuth direction stability,causing the shaftingerror and finally influence the antenna pointing accuracy.This paper will introduction the reconstructed $2 6 \\mathrm { m }$ antenna (NSRT:Nanshan Radio Telescope） track structure and track unevenness measurement, and establishment the mathematical model of antenna pointing error caused by the track unevenness of the antenna under different azimuth and elevation angle.The cross scanning method is used to measure the pointing data of multiple standard radio sources in corresponding positions，and the pointing error is obtained through Gauss fiting method.Through analysis, we can see that the pointing error caused by track unevenness is corrected, and the antenna pointing accuracy couldbe improved. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Track unevenness;NSRT; Continuous track; Cross scanning; Pointing error ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "\\*基金项目：国家重点基础研究发展计划973(2015CB857102),国家自然科学基金委员会-中国科学院天文联合基金资助(U1731135),西部之光-西部青年学者项目(2016-QNXZ-A-7),中国科学院天文台站设备更新及重大仪器设备运行专项经费支持收稿日期：2018-04-16；修订日期：2018-作者简介：温浩兴，男，硕士，研究方向：天文技术与方法。Email:wenhaoxing@xao.ac.cn",
+        "page_idx": 8
+    }
+]

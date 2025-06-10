@@ -1,0 +1,300 @@
+[
+    {
+        "type": "text",
+        "text": "高惠，滕丽微，汪洋，王继飞，刘振生.阿拉善马鹿（Cerus alashanicus)生境适宜性评价.生态学报,2017,37（11）:3926-3931.GaoH,TengLWWagY，WangJF,LuZabitataessentofrddee（Cerulshnicus）eHlanoutains，hinaActaolgicaSinica,2017,37(11) :3926-3931.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "阿拉善马鹿（Cervusalashanicus）生境适宜性评价",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高惠¹，滕丽微1,²，汪 洋1，王继飞³，刘振生1,2，\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1东北林业大学野生动物资源学院，哈尔滨150040  \n2国家林业局野生动物保护学重点开放实验室，哈尔滨150040  \n3宁夏贺兰山国家级自然保护区管理局，银川750021",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：阿拉善马鹿（Cerous alashanicus）目前仅分布于贺兰山地区,对该物种进行生境适宜性的评价和分析是物种有效保护的前提和基础。2013—2014年通过样线调查及巡山资料查询,确定阿拉善马鹿出现位点86个,结合13种环境变量数据,利用最大熵(maximum entropy，MaxEnt)模型,并根据最大约登指数划定适宜与不适宜生境区,对贺兰山地区阿拉善马鹿的生境适宜性进行评价。ROC 曲线(receiver operating characteristic curve）检测证明模型预测精度较高,研究结果表明;阿拉善马鹿主要分布于贺兰山东坡的中部和南部,以及西坡的中北部,适宜生境面积为 $6 6 7 . 8 7 ~ \\mathrm { k m } ^ { 2 }$ ,占研究区域面积的 $1 8 . 2 \\%$ ;矿区、坡度和海拔是影响阿拉善马鹿分布的最主要环境变量,矿区对阿拉善马鹿的影响最大,建议管理部门加大对此人为干扰的管控力度,控制和减少现有矿区的规模,以促进该种群的发展。 ，",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：阿拉善马鹿；生境评价;最大熵模型;贺兰山",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Habitat assessment of red deer （Cervus alashanicus） in the Helan Mountains,China",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GAO Hui1，TENG Liwei1,²，WANG Yang1，WANG Jifei³,LIU Zhensheng1,2, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1CollegeofWildlife Resources，Northeast Forestry University，Harbin 15OO4O,China   \n2KeyLaboratory of Conservation Biology，State ForestryAdministration,Harbin15oo4O,China   \n3Helan Mountains National Nature Reserve of Ningxia，Yinchuan 75Oo21,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Ceruus alashanicus 6nlyocurs inthe Helan Mountains.Evaluatingthehabitatsuitabilityof Ceruus alashanicus is the premise and foundation of efective protectionforthis population.We used a Geographic Information Systems(（GIS）and the Maximum Entropy（MaxEnt）model topredict habitat suitability for Cervusalashanicus in the Helan Mountains.The dataneeded in this research,included occurrence recordsof Cerus alashanicusand environmental factors.Wecolected86 GPScoordinates for Ceruus alashanicus occurrance obtained by line transect surveysand patrol data from the Helan Mountai National Nature Reserve from 20l3 to2O14.Environmentalfactors weregrouped into threecategories，including topographic data（elevation，slope，and aspect）extracted fromthe Digital Elevation Model（DEM），six vegetation factors extracted from the Thematic Mapper（TM）image of the Helan Mountains（2OO7），and water resourcesand human interference factors，including roads，mining，and forest protection points extracted from the1:50o vectormapsof the Helan Mountains.GIS wasusedto produce thedataneeded in the model.Thedistribution of Cerus alashanicus was predictedusing the model of MaxEnt.Thearea under the curve（AUC）values of a Receiver Operating Characteristic （ROC）curve was used to assessthe accuracy of the MaxEnt model，and the Youden Index was aplied to determine the threshold valuefor habitatclasification inthe MaxEnt model.Thesimulated habitatwasdividedintotwocategories, includngsuitableandunsuitablehabitatusingathreshold valueofO.31.Finally,thedistributionmapof habitatsuitability of Cervus alashanicus inthe Helan Mountains was generatedfromthedataandsoftware,andtheAUC valuefor trainingdata andtestdata wereO.956andO.898respectively，which indicatedthattheresultof theassssmentwas excellent.Theresults showed thatsuitablehabitatforCerusalashanicuswasprimarilydistributedinthecentralandsouthernregionsof the Ningxia Helan Mountain National NatureReserve（easternpart）andtoalesser extent in the northernregionof the InnerMongolia Helan Mountain National Nature Reserve（western part），with a total area of $6 6 7 . 8 7 ~ \\mathrm { k m } ^ { 2 }$ ，accounting for $1 8 . 2 \\%$ （2 of the total assessment area.Most northernareas of Helan Mountains were unsuitable habitatfor Cerus alashanicus because of lower precipitationand more mining.Jackknifetestsandthecontributionof environmentalvariables indicated that mining 0 $3 0 . 4 \\% )$ ，slope ( $26 \\%$ ），altitude ( $1 0 . 8 \\%$ ），and aspect ( $8 . 4 \\%$ ）were the main factors affecting habitat selection of Cervus alashanicus ，followed by the forest protection points $( 5 . 7 \\% )$ ），grasslands $( 4 . 2 \\%$ ），roads $( \\underline { { 4 . 2 \\% } } ) \\int \\mathrm { \\hat { s h r u b s } } \\ : ( 4 \\% )$ ，alpine meadows $( 3 . 8 \\%$ ），broad-leaved forests $( 1 . 3 \\% )$ ），and water resources( $0 . 9 \\%$ ). Coniferous forest and desert had little effect onthe habitat selection of Cerus alashanicus.Theresponse curvesshowed that habitat suitability increased gradually with the increase of distance from mine and road，and decreased when the slop was more than $3 0 ^ { \\circ }$ Results from our study suggested that mining was the most serious human interference for the Cerus alashanicus.Managers need to take more regulatoryactions to protect thesuitable habitat areasof Cerus alashanicus in order to promote theconservationof this population. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words:Ceruus alashanicus；habitat suitability assessment；maximum entropy model；Helan Mountains ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "生境适宜性评价是以动物对生活环境的要求为基础,分析研究区域内各生态因子的实际分布情况，从而明确研究范围内适合某动物生存分布的区域[1]。对野生动物进行生境适宜性评价和分析对该物种的保护具有非常重要的作用。目前,利用3S(GIS,RS,GPS)技术结合生态位模型对生境适宜性进行分析已越来越多的运用到野生动物生境评价之中[2-5]。生态位模型的基本原理是根据每种生物特殊的生存环境,从目标物种已知分布区出发,利用数学模型归纳或模拟其生态位需求,将其投射到目标地区即可得到目标物种的适生区分布[6]。生态位模型中的最大熵（MaxEnt)模型是最具有代表性的物种分布模型之一[7-9],近年来在国内外物种地理分布的研究中得到广泛应用,且相较其他生态位模型表现出更好的预测能力[10-12]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "阿拉善马鹿（Ceruus alashanicus）原为马鹿（Ceruus elaphus）的一个亚种,为国家Ⅱ级重点保护野生动物[13],《中国哺乳动物多样性及地理分布》（2015)将此亚种提升为种[14],依据此名录目前中国境内的马鹿分为阿拉善马鹿、四川马鹿(C.macneili）、西藏马鹿（C.wallchii）、东北马鹿（C.xanthopygus）和塔里木马鹿( $C$ yarkandensis）。阿拉善马鹿目前仅分布于宁夏和内蒙古交界的贺兰山中段,是我国唯一幸存的该亚种的有效种群[15-17],刘振生等[18-19]和骆颖等[20]已对贺兰山地区阿拉善马鹿的生境选择进行了较为详细的研究,然而该地区阿拉善马鹿的生境适宜性尚未见分析报道,并且阿拉善马鹿在贺兰山地区的种群数量一直处于较低水平,在此背景下,利用 MaxEnt模型对贺兰山地区的阿拉善马鹿生境进行评价,明确阿拉善马鹿在此区域的主要分布地,分析分布区与主要环境变量之间的关系,能够为该物种的合理管护、促进种群发展及进一步探讨同域分布草食性动物的共存机制提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究地区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "贺兰山位于宁夏回族自治区和内蒙古自治区交界处( $3 8 ^ { \\circ } 2 1 ^ { \\prime } - 3 9 ^ { \\circ } 2 2 ^ { \\prime } \\mathrm { N }$ ， $1 0 5 ^ { \\circ } 4 9 ^ { \\prime } - 1 0 6 ^ { \\circ } 4 2 ^ { \\prime } \\mathrm { E } )$ ,由内蒙古贺兰山国家级自然保护区(贺兰山西坡)和宁夏贺兰山国家级自然保护区(贺兰山东坡)组成。海拔一般为2000— $3 0 0 0 \\mathrm { ~ m ~ }$ ,山势陡峭、高差悬殊;为典型的大陆性气候,全年干旱少雨,年均气温 $- 0 . 9 \\mathrm { { ^ { c } } }$ ,年平均降水$4 2 0 ~ \\mathrm { m m } ^ { [ 1 5 ] }$ ;植被依据海拔的上升呈现明显的垂直分异,自下而上依次为山地草原带（1400— $1 6 0 0 \\mathrm { ~ m ~ }$ )，山地疏林草原带（1600- $2 0 0 0 \\ \\mathrm { m } \\mathrm { \\Omega }$ ),山地针叶林带（1900- $3 0 0 0 \\ \\mathrm { m } \\mathrm { \\dot { \\Omega } } ,$ ）,亚高山灌丛和草甸带（3000—3556m）[21]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 阿拉善马鹿出现点信息采集及处理",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "自2013年4月—2014年4月，在贺兰山分4个季节对阿拉善马鹿进行样线法调查，样线根据贺兰山的地形特征和沟系走向进行布设，共设定样线25条，自沟口到山脊方向覆盖该区域所有生境类型。利用GPS（集思宝G330)对观察到的阿拉善马鹿实体、新鲜粪便、足迹等出现点信息进行定位，每个季节调查1次。此外，查阅贺兰山保护区2013—2014年的野外巡护记录资料，提取阿拉善马鹿出现位点信息。通过野外调查和资料查询共获得91个阿拉善马鹿发现位点，将其导入到ArcGIS中，去除出现在研究区域外的错误坐标点，最后得到86个阿拉善马鹿出现点信息(图1)。将剩余位点转换成MaxEnt软件要求的.csv格式，字段设置为物种名称、经度和纬度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2环境变量信息获取及处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用于阿拉善马鹿生境评价的环境变量分为地形因子、植被因子、水源及人为干扰因子。地形因子包括坡度、坡向和海拔，从国际科学数据服务平台网站（http://datamirror.csdb.cn）下载 $3 0 \\mathrm { ~ m ~ }$ 分辨率的数字高程模型(DEM)提取得到;植被因子划分为高山草甸、针叶林、阔叶林、灌丛、草地和荒漠6种类型,从经解译的2007年贺兰山TM遥感影像中提取获得;矿区、道路和护林点3种人为干扰因子及水源的距离栅格图层从贺兰山1:5000的矢量化地图中提取,经ArcGIS 的空间分析工具进行缓冲分析得到。所有环境变量在 ArcGIS 10中利用空间分析工具进行相关性检测,去除相关性过高(大于0.8)的因子,将剩余变量进行边界范围和坐标系的一致化,栅格大小为 $3 0 \\mathrm { ~ m } \\times 3 0 \\mathrm { ~ m ~ }$ ,并输出为MaxEnt 软件要求的格式。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ec140c18f08cec8a056f14970f015a8218890ab87670a82440857727f407c670.jpg",
+        "img_caption": [
+            "图1研究区域的阿拉善马鹿出现点图",
+            "'ig.1 The occurrence points of Cervus alashanicus in study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 MaxEnt模型预测 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MaxEnt 3.3.3软件从 http://www.cs.princeton.edu/—schapire/maxent/网站下载得到。依次将阿拉善马鹿出现点数据和环境变量数据导人后,将各环境因子设定为连续型（Continuous）变量或离散型（Categorical)变量，设定 $7 5 \\%$ 的数据用于模型的建立，剩余 $2 5 \\%$ 的数据用于模型的检测，用jackknife检验各环境变量的重要性,其余设置成默认值,结果以Logistic 格式输出并导入到 ArcGIS10 中做进一步处理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4模型验证 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MaxEnt 模型带有自检验功能,利用受试者工作特征曲线（Receiver operating characteristic curve，ROC 曲线)对模型进行检验,根据 ROC 曲线与横坐标围成的面积即 AUC（Area under ROC Curve）值对模型的准确度进行判定[2224]。AUC 值越大,表明环境变量与模型的相关性越大,预测的效果越好,评定标准设为:AUC 值为0.5—0.6,不及格;0.6—0.7,较差;0.7—0.8,一般;0.8—0.9,良好;0.9—1.0,优秀[25-26]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5 阿拉善马鹿适宜生境评定 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将模型输出的概率分布图导人到ArcGIS10中,依据最大约登指数(Youden'sindex)选择概率切断点对MaxEnt模型预测的生境适宜图进行重分类,约登指数用来判断ROC曲线的临界值点,指数越大表明预测效果越好[27-29]。将大于概率切断点的区域作为阿拉善马鹿的适宜生境,小于概率切断点的区域作为阿拉善马",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "鹿不适宜生境,最终得到贺兰山地区阿拉善马鹿的生境适宜性分布等级图。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1模型预测效果检验",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ROC 曲线评价结果为：训练集（Training data)与验证集（Test data）的AUC值分别为0.965和0.898,表明MaxEnt模型的预测结果较好（图2），所建模型可以用于分析贺兰山地区马鹿的分布情况。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2环境因子对阿拉善马鹿分布的影响 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "经相关性分析表明,13个环境变量之间的空间相关性均小于0.8,都可作为阿拉善马鹿生境适宜性评价因子,从Jackknife 检验结果看出（图3）,距矿区距离、坡度和海拔是对模型预测增益最大的3种因子,意味着阿拉善马鹿的分布对这几种因子的变化较敏感。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b54bc0855e63493c7a52e641158a87ba8f2ac8d1937a86df8ec2ee87743736fa.jpg",
+        "img_caption": [
+            "图2阿拉善马鹿生境评价结果的ROC曲线验证 Fig.2ROC curve verification of Cervus alashanicus in the Helan Mountains，China "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6813eb0c9411f90b148311167a134fe7a0fef7d336d913ef0a9080066e28f887.jpg",
+        "img_caption": [
+            "图3刀切法测定环境变量的重要性",
+            "Fig.3Jackknife test of environmental variable importance "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "各环境变量对MaxEnt模型的贡献率表明：矿区( $3 0 . 4 \\%$ ）、坡度( $2 6 \\%$ ）、海拔 $( 1 0 . 8 \\% )$ 和坡向 $( 8 . 4 \\% )$ 这4种环境因子对模型的累积贡献率达 $7 5 . 6 \\%$ ,对阿拉善马鹿分布影响较大;其次为护林点 $( 5 . 7 \\% )$ 、草地$( 4 . 2 \\%$ ）、道路( $4 . 2 \\%$ ）、灌丛 $( 4 \\% )$ 、高山草甸 $( 3 . 8 \\%$ ），阔叶林 $( 1 . 3 \\% )$ 和水源 $( 0 . 9 \\% )$ ;而针叶林和荒漠这2个变量的贡献率非常小。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "各环境变量对阿拉善马鹿分布预测的响应曲线表明：阿拉善马鹿的生境适宜性随距矿区和距护林点距离的增加而明显增加,在 $1 0 0 0 \\mathrm { ~ m ~ }$ 范围内,随距道路距离的增加适宜性也有增加趋势,随着距水源距离的增加以及在超过 $3 0 ^ { \\circ }$ 的坡度范围后适宜性都在逐渐降低,而随着海拔的增加,适宜度出现两个峰值,分别为1500—$2 0 0 0 ~ \\mathrm { { m } } ^ { i }$ 和 $2 8 0 0 {  { - } } 3 0 0 0 ~ \\mathrm { m } _ { \\odot }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3阿拉善马鹿生境适宜性分布",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据约登指数为“灵敏度 $+$ 特异度-1\"的求算方法,在MaxEnt模型运算结果中,选取约登指数最大值时的概率切断点0.31对阿拉善马鹿分布预测图进行重分类,最终得到贺兰山阿拉善马鹿生境适宜性分布图（图4)。其中,适宜生境面积为 $6 6 7 . 8 7 ~ \\mathrm { k m } ^ { 2 }$ ,不适宜生境面积为 $3 0 0 8 . 1 0 ~ \\mathrm { k m } ^ { 2 }$ ,分别占研究区域总面积的 $1 8 . 2 \\%$ 和$8 1 . 8 \\%$ 。从分布图中可以看出,阿拉善马鹿的适宜生境主要分布于宁夏贺兰山国家级保护区的中部和南部，内蒙古贺兰山国家级自然保护区中北部,贺兰山北部的大部分区域都属于阿拉善马鹿的不适宜生境。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "阿拉善马鹿的适宜生境主要分布于贺兰山东坡的中部和南部以及西坡的中北部,这一结果可能是由于贺兰山不同区段降水与植被覆盖度不同造成的：保护区北段降水量约 $1 8 0 ~ \\mathrm { m m }$ ,区内荒漠化严重，加上矿区较多对稀疏的植被产生较大的破坏;中部降水量约 $4 0 0 ~ \\mathrm { m m }$ ，1995年开始的援德项目使中段的植被保存完好；南段降水约 $3 0 0 ~ \\mathrm { { m m } }$ ,由于1999 年以前矿石开采活动严重，只在高山区域有稀疏森林与中段相连[21,30]。北段降水量少造成植被生长较差，加上矿区对阿拉善马鹿生存造成较强的人为干扰，导致贺兰山北部大部分地区成为阿拉善马鹿不适宜分布区。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "研究结果表明海拔和坡度这两个地形因子对阿拉善马鹿具有较大影响，在超过 $3 0 ^ { \\circ }$ 的坡度后适宜度逐渐降低，在海拔 $1 5 0 0 { - } 2 0 0 0 \\ \\mathrm { m }$ 和 $2 8 0 0 { - } 3 0 0 0 \\ \\mathrm { m }$ 处适宜度出现两个峰值,骆颖[31]对阿拉善马鹿的研究发现坡度是其生境选择的一个重要限制因子，阿拉善马鹿通常选择坡度较缓的地方，同时发现在贺兰山地区该物种存在明显的季节性迁徙现象，冬春季多活动于低海拔地区的山地草原带，夏秋季偏爱选择高海拔地区的山地针叶林地带，与本次研究结果相对应。这可能是由于冬春季气温较低，阿拉善马鹿偏向于低海拔地区活动，而夏秋季天气炎热，阿拉善马鹿喜欢选择相对凉爽的高海拔地区生活。吴文等利用MaxEnt模型对小兴安岭南麓的马鹿（Ceruus elaphus)冬季适宜性进行评价,结果表明地形因子中的坡向贡献率最高,海拔的贡献率很低,与本研究结果不同,可能是由于两个研究区域气温、风向和植被分布存在差异,小兴安岭地区的马鹿对西北坡表现出显著的回避,偏爱在低海拔地区活动,相比较而言阿拉善马鹿受海拔的影响要大于坡向;小兴安岭地区马鹿的生境适宜度随坡度 $( 0 { - } 3 6 ^ { \\circ } ) $ )的增大而不断降低,与本研究结果相似,说明两个地区的马鹿都喜欢平缓的生境[27.32]。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/09738b7fe40840b9c399d7fc1565348c6261c6549a0730f8585b0695465ba496.jpg",
+        "img_caption": [
+            "图4 阿拉善马鹿生境适宜性分布图",
+            "Fig.4The distribution of habitat suitabilityof Cervus alashanicus inHelan Mountains，China "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "阿拉善马鹿仅分布于贺兰山地区,从保护区建成以来,加大了对野生动物的保护力度,阿拉善马鹿种群虽有所恢复但数量仍然较少。本次研究发现,矿区这一人为干扰对该物种生境适宜度影响最大,20 世纪80 年代,贺兰山地区有较多的工矿企业,员工人数众多,其生产和生活活动对野生动物造成了严重的干扰,如频繁的运输车辆、机器的噪音以及多种因素导致的环境污染等[21]，目前,保护区内很多矿区已经关闭,但仍存在的矿区干扰依旧较大,在调查期间发现离矿区较近的区域路面和植被都被采煤产生的粉尘染成黑色,人为活动对当地植被的破坏加土车辆来往等产生的噪音严重降低了阿拉善马鹿生境的质量,矿区产生的干扰强度大这一结果在贺兰山岩羊生境评价研究中也有体现[33]。研究表明,矿产开发能够导致景观格局的变化,使矿区周围植被的种类和生物量降低,加剧野生动物生境的破碎化[34」。张国钢和张正旺[35]研究发现铁矿开采对褐马鸡(Crossoptilon mantchuricum)产生了屏障作用,降低其生境的连接度,使褐马鸡很少出现在矿区周围。匡先辉[36]的研究也表明矿区等人为干扰因素对蜂桶寨大熊猫（Ailuropoda melanoleuca）的栖息地景观格局产生明显影响。本次研究结果可使相关部门有针对性的加大阿拉善马鹿适宜生境区域的控制力度,特别是加强对矿区的管控,减少矿区的规模,重视矿区周围植被和环境的恢复,降低矿区等人为干扰对阿拉善马鹿和其他野生动物的影响,为阿拉善马鹿种群的保护和发展提供有利条件。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "致谢：宁夏贺兰山国家级自然保护区管理局胡天华高级工程师和内蒙古贺兰山国家级自然保护区管理局王兆锭工程师帮助野外调查和数据收集，特此致谢。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "［1」三急.内家白乌拉特荒误焰喉羚生境迫且性评D[D」.北京：中国杯业科字研究阮，2UI).  \n2]Kanaga,adaralSesaablgrrerdeIndia and Nepal. Ecography，2011,34(6)：970-981.  \n[3］王芸，赵鹏祥.青木川自然保护区大熊猫生境评价.应用生态学报，2012，23（1）：206-212.  \n[4] MartinJRevillEQeeiobiatabiltiee：aseabiliand linking scales to make the most of scarce data.Journal of Applied Ecology,2012,49(3）:621-631.  \n[5] 李佳，李言阔，缪泸君，谢光勇，袁芳凯.江西桃红岭国家级自然保护区梅花鹿生境适宜性评价.生态学报，2014，34（5）：1274-1283.  \n[6] 蔡静芸，张明明，粟海军，张海波.生态位模型在物种生境选择中的应用研究.经济动物学报，2014，18(1)：47-52，58.  \n[7] PhilipsSJ，AdeRhieE.iuetoodelinfesacstrbtioolocalelin9/4) : 231-259.  \n8Pilipddeligfrsiettessdpsievatiog161- 175.  \n[9] DeCastroPenaJC,KamioLHYodrigues,arian-NetoE,Deiqueira.seingthecoservatiostatusofsecieswithlidavailable data and disjunct distribution.Biological Conservation，2O14，17O：130-136.  \n[10］吴文浩，李明阳.基于生态位模型的松材线虫潜在生境预测方法研究.林业调查规划，2009,34（5)：33-38．  \n[11] 曹向锋，钱国良，胡白石，刘凤权.采用生态位模型预测黄顶菊在中国的潜在适生区.应用生态学报，2010,21（12)：3063-3069.  \n[12]ElithJ，LeathckJR.Spciesdistrutimodelsologicalexplaatoandpredictiarosspacndti.Aualeviefolg,Evolution，and Systematics，2009,40(1）:677-697.  \n[13］昶野，张明明，刘振生，胡天华，李志刚.贺兰山同域分布岩羊和马鹿的夏季食性.生态学报，2010,30(6)：1486-1493.  \n[14]蒋志刚，马勇，吴毅，王应祥，周开亚，冯祚建，刘少英,罗振华,李春旺.中国哺乳动物多样性及地理分布.北京：科学出版社,2015.  \n[15] 王小明，李明，唐绍祥，刘志霄，李元广，盛和林.贺兰山偶蹄类动物资源及保护现状研究.动物学杂志，1999,34（5）：26-29.  \n[16] 盛和林.中国鹿类动物．上海：华东师范大学出版社，1992：1-215．  \n[17] 李明，王小明，盛和林，玉手英利，增田隆一，永田纯子，大泰司纪之.马鹿四个亚种的起源和遗传分化研究.动物学研究，1998，19(3):177-183.  \n[18] 刘振生，曹丽荣，翟昊，胡天华，王小明.贺兰山区马鹿对冬季生境的选择性.动物学研究，2004，25(5）：403-409.  \n[19] 刘振生，张明明，李志刚，胡天华，翟昊.贺兰山马鹿冬季取食和卧息生境选择.兽类学报，2009，29（2)：133-141.  \n[20] 骆颖，张明明，刘振生，李志刚，胡天华，翟昊．贺兰山马鹿冬春季生境的选择.生态学报，2009，29(5)：2757-2763.  \n[21] 狄维忠.贺兰山维管植物.西安：西北大学出版社，1987.  \n[22] VanagasGReceieroeringharacerstcuresndcompasoofadcsurgeryiskratificiosstesInteractiveardioladThoracic Surgery，2004，3（2）: 319-322.  \n[23] 王运生，谢丙炎，万方浩，肖启明，戴良英.ROC 曲线分析在评价入侵物种分布模型中的应用.生物多样性，200，15(4)：365-372.  \n[24] 李明阳，席庆，徐海根.基于 WEB 数据库和 Maxent 模型的白头叶猴潜在生境评价研究.林业资源管理，2010，（4)：31-36,57.  \n[25] 齐增湘，徐卫华，熊兴耀，欧阳志云，郑华，甘德欣.基于MAXENT 模型的秦岭山系黑熊潜在生境评价.生物多样性，2011，19（3)：343-352.  \n[26] Aratjo MB，PearsoRG,TuilerW,ErhardM.Validationofspecies-liateipactmodelsunderclimatechange.GbalChangeBiolog，2005，11(9):1504-1513.  \n[27］吴文，李月辉，胡远满，陈龙，李悦，李泽鸣，聂志文，陈探.小兴安岭南麓马鹿冬季适宜生境评价.生物多样性，2016,24（1)：20-29.  \n2]Jimebisbibcc,2007, 31(3) : 361-369.  \n[29]侯宁，戴强，冉江洪，焦迎迎，程勇，赵成.大相岭山系泥巴山大熊猫生境廊道设计.应用与环境生物学报，2014，20(6)：1039-1045.  \n[30]张明春.贺兰山岩羊的种群动态及警戒行为研究[D].上海：华东师范大学，2012.  \n[31] 骆颖.贺兰山岩羊（Pseudois nayaur）和马鹿（Cerus elaphus alxaicus）的食性及生境选择比较研究[D].哈尔滨：东北林业大学,2011.  \n[32］李言阔，张明海，蒋志刚.基于生境可获得性的完达山地区马鹿（Cerus laphus xanthopygus）冬季生境选择．生态学报，208，28（10）：4619-4628.  \n[33］刘振生，高惠，滕丽微，苏云，王晓勤，孔芳毅.基于MAXENT模型的贺兰山岩羊生境适宜性评价.生态学报，2013，33（22）：7243- 7249.  \n［34］康萨如拉，牛建明，张庆，韩砚君，董建军，张靖.草原区矿产开发对景观格局和初级生产力的影响—以黑岱沟露天煤矿为例.生态学报，2014，34(11):2855-2867.  \n[35］张国钢，张正旺.山西五鹿山地区铁矿开采对褐马鸡活动的影响.北京师范大学学报：自然科学版，1999,35(2）：266-269.  \n［36］匡先辉.基于RS 的蜂桶寨大熊猫栖息地景观格局变化研究[D].雅安：四川农业大学，2012.",
+        "page_idx": 5
+    }
+]

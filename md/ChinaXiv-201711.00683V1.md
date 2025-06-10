@@ -1,0 +1,228 @@
+彩色印刷
+
+编号：
+
+# 一种高推力和低红外特征的双S形二元排气系统
+
+王丁，吉洪湖，黄伟（南京航空航天大学能源与动力学院，南京210016）
+
+摘要：基于某轴对称排气系统，建立了一种小中段偏径比（ ${ \cal { S } } _ { \mathrm { { m } } } / D )$ 、出口偏径比（ $. S _ { \mathrm { o } } / D \}$ ）大于0的双S形二元排气系统模型。该双S形二元排气系统在除了上方探测面 $0 ^ { \circ }$ 到 $2 0 ^ { \circ }$ 的角度范围内，所研究的其余方位角均做到了喷管型面对排气系统内部涡轮等高温部件的遮挡。通过数值计算研究了双S形二元排气系统的推力和红外特性，并与基准轴对称排气系统进行了对比。结果表明：小中段偏径比和大长径比使双S形二元排气系统避免了推力损失，相比基准轴对称排气系统，该双S形二元排气系统的推力增加了 $0 . 2 \%$ ；双S形二元排气系统的红外辐射强度在侧向探测面上最小，在上方探测面最大；相比基准轴对称排气系统，双S形二元排气系统在 $0 ^ { \circ }$ 方位角降低了 $9 7 \%$ 以上，在侧向、上方和下方探测面 $9 0 ^ { \circ }$ 方向分别降低了 $6 2 . 1 \%$ 、 $2 6 . 1 \%$ 和 $34 . 9 \%$ 。
+
+关键词：排气系统；双S弯二元喷管；红外辐射；推力中图分类号：V218 文献标识码：A
+
+# A Serpentine 2-D Exhaust System with High Thrust
+
+and Low Infrared Signature
+
+WANG Ding, JI Hong-hu, HUANG Wei
+
+(College ofEnergyand Power Engineering,Nanjing UniversityofAeronauticsand Astronautics,Nanjing 210o16,China)
+
+Abstract: Based on an axisymmetric exhaust system, a serpentine 2-D exhaust system with small middle offset-diameter ratio $( S _ { \mathrm { m } } / D )$ and exit offset-diameter ratio $( S _ { 0 } / D )$ greater than zero was established. Excepting the range of $0 ^ { \circ }$ to $2 0 ^ { \circ }$ on the upper detection plane, the serpentine 2-D exhaust system could completely blocked the infrared (IR) radiation of internal components such as turbine and cone, etc.at other detection directions studied in this work.The thrust and IR characteristics of the serpentine 2-D exhaust system were studied numericaly. The results show that, the serpentine 2-D exhaust system has little thrust loss because of small $S _ { m } / D$ and large $L / D$ ,and the thrust of the serpentine 2-D exhaust system increases $0 . 2 \%$ compared with the axisymmetric exhaust system; the integral IR radiation intensity of the serpentine 2-D exhaust system is the weakest on the side detection plane while the strongest on the upper detection plane; comparing with the axisymmetric exhaust system, the integral IR radiation intensity of the serpentine 2-D exhaust system reduces at least $9 7 \%$ at the angle on the direction right behind the exit of the nozzle,and reduces at least $6 2 . 1 \%$ ， $2 6 . 1 \%$ and $34 . 9 \%$ on the direction vertical to the axis of the exit of the nozzle on the side, upper and lower detection planes respectively.
+
+Key words: exhaust system; serpentine 2-D nozzle; infrared radiation; thrust
+
+# 0引言
+
+为了提高飞行器的战场生存能力，要求飞行器要具备高度的隐身性能[1-2]，红外隐身作为飞行器隐身的重要组成部分越来越受到重视。发动机排气系统是飞行器在中波范围内的主要红外辐射源，它在 $3 { \sim } 5 ~ \mu \mathrm { m }$ 内的辐射贡献占整个飞行器的 $90 \%$ 以上[3]，其辐射主要包含高温壁面辐射和燃气辐射两部分，而在排气系统后方小角度探测区间，排气系统内部的涡轮、中心锥、混合器等高温部件辐射又占据了排气系统总辐射的 $90 \%$ 以上。在众多的红外抑制措施中，双S形二元喷管通过其中心线的两次弯折，可以达到对发动机内部高温部件如涡轮、中心锥等部件的有效遮挡，具有突出的红外抑制效果。
+
+国外对双S形二元喷管技术的研究工作起步较早，并已应用到某些军机上。Brunet[4]等设计了一种型面遮挡的双S形喷管，其中心线在中间位置偏离了涡轮轴线，而出口位置又回到了涡轮轴线；Darrell等[5数值研究了不同长度及出口宽高比的双S形排气系统对喷管出口壁面温度分布的影响。
+
+国内的刘常春[]、章叶川[7]、魏永斌[8]、孙啸林[9]等设计了 S形及双 S形喷管，并数值研究了其气动或红外特性；中段偏径比对排气系统推力损失有着很大影响，可查文献中，为了保证良好的红外抑制效果，中段偏径比最小取值为0.25，出口偏径比为0，长径比为1.8，此双S形排气系统相比轴对称排气系统，推力的损失最小，为 $1 . 6 \% ^ { [ 1 0 ] }$ 。由此可见，双S形排气系统的应用还需进一步解决推力损失问题。本文基于轴对称排气系统，设计了一种小中段偏径比（喷管中心线在中段偏离涡轮轴线的最大距离与喷管直径的比值)，出口偏径比(喷管中心线在出口偏离涡轮轴线的距离与喷管直径的比值）大于0的双S形二元排气系统，通过数值计算研究了其推力及红外特性，并与基准轴对称排气系统进行了对比。本文设计的双S形二元排气系统既避免了推力损失，又具有良好的红外抑制效果。
+
+# 1双S形喷管模型设计
+
+# 1.1设计目的和设计基准
+
+基于轴对称排气系统，本文旨在设计一种双S形二元喷管来代替轴对称喷管，组成双S形二元排气系统，并且使之同时具备良好的气动性能和红外隐身性能。
+
+如图1所示为基准轴对称排气系统，由图可知，基准轴对称排气系统由末级涡轮盘（内涵进口）、外涵进口、混合器、中心锥、支板、轴对称喷管等部件组成。双S形二元排气系统是将图1中轴对称收敛喷管段换成双S形二元喷管而构成的，其他部件与基准轴对称排气系统共用，如图2所示。其中，双S形二元喷管与轴对称喷管的出口面积相同。
+
+![](images/9594d13009227fd9a4c9cebe6195b3eff9749d6530d500064b85e3122debea27.jpg)  
+图1轴对称排气系统系统物理模型Fig.1 Geometric model of axisymmetric exhaust system
+
+![](images/51ccf564d865b8bf59bd490c26d1d5be7ac3f436c53e9f8493bcb3bbbac91d63.jpg)  
+图2双S形二元排气系统物理模型 Fig.2 Geometric model of serpentine 2-D exhaust system
+
+双 S弯二元喷管的几何参数包括：进口直径$D$ 、进口面积 $A _ { \mathrm { i n } }$ 、出口面积 $A _ { \mathrm { o u t } }$ 、出口宽高比$A R _ { \mathrm { o u t } }$ 、喷管长度 $L$ 、中段偏距 $S _ { \mathrm { m } }$ 以及出口偏距 $S _ { \mathrm { o } }$ ，其中，中段偏距 $S _ { \mathrm { m } }$ 为喷管中心线在中段偏离涡轮轴线的最大距离。双S形二元喷管的设计简图如图3所示。
+
+![](images/2a30d4de4752fbf2b3df4e45ac49a5f0aa4ed19a440128fcbc0b6e06376618e9.jpg)  
+图3双S形二元喷管设计简图Fig.3 Sketch map of serpentine 2-D nozzle
+
+定义长径比为喷管长度与喷管进口直径的比值 $L / D$ ，中段偏径比为中段偏距与喷管进口直径的比值 $S _ { \mathrm { m } } / D$ ，出口偏径比为出口偏距与喷管进口直径的比值 $S _ { \mathrm { o } } / D$ ，出口面积比为 $A _ { \mathrm { o u t } } / A _ { \mathrm { i n } }$ 。
+
+# 1.2 设计依据
+
+从红外抑制的角度考虑，本文设计的双S形二元喷管通过型面的两次弯折，以达到喷管型面在喷□后方对排气系统内部中心锥、涡轮等高温部件的有效遮挡，从而有效降低可探测到的红外辐射信号。
+
+从排气系统气动性能的角度考虑，由于喷管型面的弯折势必引起流动阻力的增大，从而对气动性能不利，下面从喷管的中段偏径比 $S _ { \mathrm { m } } / D$ 和长径比$L / D$ 两个参数来分析其对气动性能的影响。
+
+# 1.2.1中段偏径比 $S _ { m } / D$ 的影响
+
+表1给出了出口偏径比 $S _ { \mathrm { o } } / D$ 为0时，其他设计参数相同的前提下，不同中段偏径比 $S _ { \mathrm { m } } / D$ 取值的排气系统的无量纲推力 $F / F _ { \mathrm { a x i s } }$ 的对比，其中， $F _ { \mathrm { a x i s } }$ 表示基准轴对称排气系统的实际推力。由表1可知，排气系统的无量纲推力 $F / F _ { \mathrm { a x i s } }$ 随喷管 $S _ { \mathrm { m } } / D$ 的增大而减小，显然这是由于随着 $S _ { \mathrm { m } } / D$ 的增大,双S形流道的流动阻力增大所致。
+
+表1不同 $S _ { m } / D$ 的排气系统的无量纲推力对比Table1 Comparison of non-dimensional thrust of exhaust  
+
+<html><body><table><tr><td colspan="4">systemwithdifferentSm/D</td></tr><tr><td rowspan="3">F/Faxis</td><td rowspan="3">Axisymmetric</td><td colspan="3">Serpentine 2-D</td></tr><tr><td>Sm/D=0.49</td><td>Sm/D=0.52</td></tr><tr><td>0.969</td><td>0.963</td><td>Sm/D=0.55 0.958</td></tr></table></body></html>
+
+可以发现，双S形二元喷管的中段偏径比对排气系统气动性能影响较大，因此本文设计的双S形喷管，大大减小 $S _ { \mathrm { m } } / D$ 的取值，同时适当增大 $s _ { \mathrm { o } } / D$ ，保证喷口正后方位喷管型面对排气系统内部高温部件的全遮挡效果，有效地减小了流道的流动阻力，增强排气系统的气动性能和红外抑制能力。
+
+# 1.2.2长径比 $L / D$ 的影响
+
+表2给出了出口偏径比 $S _ { \mathrm { o } } / D$ 为0时，其他设计参数相同的前提下，不同长径比 $L / D$ 取值的排气系统的无量纲推力的对比，由表2可知，排气系统的无量纲推力 $F / F _ { \mathrm { a x i s } }$ 随喷管 $L / D$ 的增大而增大。
+
+表2不同 $L / D$ 的排气系统的无量纲推力对比Table 2 Comparison of non-dimensional thrust of exhaustsystemwithdifferent $L / D$   
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2">Axisymmetric</td><td colspan="3">Sysieirwin CrCItL/L Serpentine 2-D</td></tr><tr><td>L/D=2</td><td>L/D=2.5</td><td>L/D=3</td></tr><tr><td>F/Faxis</td><td>1</td><td>0.937</td><td>0.969</td><td>0.988</td></tr></table></body></html>
+
+图4为轴对称喷管的半收敛角 $\theta$ 图示， $\theta$ 是影响喷管最大流量系数 $C _ { d , m a x }$ 的重要因素。图5所示为收敛喷管的最大流量系数 $C _ { d , m a x }$ 与半收敛角 $\theta$ 的关系，由图可知， $\theta$ 越小， $C _ { d , m a x }$ 越大。而本文中，轴对称收敛喷管较短， $L / D$ 为 $0 . 5 5 D$ ，半收敛角较大，而双S形二元喷管较长， $L / D$ 为 $2 . 5 D$ ，等效的半收敛角相比轴对称喷管小了很多，因此双S形二元排气系统 $C _ { d , m a x }$ 会比轴对称排气系统大很多；同时喷管长度的增加也导致了沿程损失的增大，然而综合效果双S形二元排气系统的流量系数仍比基准增大排气系统大，从而双S形二元排气系统的推力随着流量系数的增大而增大。
+
+![](images/5c5587235712da1068bfcfee11bfd8b65106cfbb2033d1c71de6a335f37c0c5a.jpg)  
+图4喷管半收敛角0图示Fig.4Map of nozzle half angle 0
+
+![](images/722d9fc871c78acf9c2cf21c4ce79611cd75a6913ce4d02fff5c5e9dc7d61bc8.jpg)  
+图5最大流量系数与半收敛角的关系Fig.5 $C _ { d , m a x }$ versus $\theta$ （204号
+
+$L / D$ 的增加对排气系统的气动性能有着很大的提升，因此本文设计的双S形二元喷管的 $L / D$ 取值适当的增大，以弥补双S形流道弯折引起的气动损失。
+
+# 1.3设计结果
+
+综合上文中几何参数对双S形排气系统气动性能的影响，本文选择了兼顾气动性能和红外抑制能力的一组双S形二元喷管设计参数，如表3所示。由表可知， $S _ { \mathrm { m } } / D$ 取值非常小，为0.12，大大减小了气动损失；适当的增大 $s _ { \mathrm { o } } / D$ 取值，使之大于0,即出口轴线向上方偏离了进口轴线，在损失小部分气动性能的前提下，保证了喷管型面能够对排气系统内部的高温部件有比较理想的遮挡效果，保证了排气系统的红外抑制效果；双S形二元喷管 $L / D$ 的其取值为2.5，约为轴对称喷管的4.5倍，大大减小了喷管的半收敛角 $\theta$ ，对排气系统气动性能的提升有着至关重要的作用。
+
+表3双S形二元喷管设计参数Table 3 Design parameters of serpentine 2-D nozzle  
+
+<html><body><table><tr><td>Parameter</td><td>Value</td></tr><tr><td>L/D</td><td>2.5</td></tr><tr><td>Sm/D</td><td>0.12</td></tr></table></body></html>
+
+<html><body><table><tr><td>SD</td><td>0.31</td></tr><tr><td>Aout/Ain</td><td>0.47</td></tr><tr><td>ARout</td><td>3</td></tr></table></body></html>
+
+# 2 计算方法
+
+排气系统红外特性的计算分为两部分：流场计算和红外辐射特性计算。流场计算为红外特性计算提供所需要的排气系统壁面温度，喷流温度场、压力场以及组分浓度场等数据。
+
+# 2.1流场计算方法
+
+采用Fluent软件对流场进行计算，选用隐式耦合求解器，对连续性方程、动量方程和能量方程的离散采用2阶迎风差分格式；湍流模型选用SST（shearstresstransport)k-ω 模型，燃气组分计算选用组分传输模型，辐射换热计算选用DO（discreteordinates）模型。
+
+由于模型具有对称性，故选用1/2的排气系统模型，半圆柱形计算域的外径为 $1 0 D$ （ $D$ 为上文中的喷管进口直径），轴向长度为 $3 0 D$ 。整个流场均采用结构化的六面体网格，对称面上及局部网格如图6所示，对靠近壁面附近以及排气系统内流网格进行了加密处理。经过网格独立性验证，最终选择网格量为300万左右。
+
+![](images/361cf7b4b7204bb0bd9297cf9dd7b8b9c5ea58062103f86cd5ec4d34e7b33ca6.jpg)  
+图6对称面上网格 Fig.6Gridin symmetric plane
+
+发动机的工作状态为地面试车工况，来流马赫数为0。排气系统内、外涵均为压力进口边界条件，涡轮后燃气落压比为2.25，总温为 $8 3 0 \mathrm { ~ K ~ }$ ，外涵压比为2.3，总温为 $3 8 5 \mathrm { K }$ ，外流场边界为压力出口边界，其中压力和温度与大气环境相同。中心锥和支板为绝热边界条件，混合器和喷管与周围流体进行耦合换热。在辐射换热计算中，所有壁面的发射率设为0.8。
+
+# 2.2红外辐射强度计算方法
+
+采用本课题组自主开发的飞行器红外特征计算分析软件（NUAA-IR）对红外辐射进行计算，红外辐射强度计算采用反向蒙特卡洛法[11]。
+
+双S形二元排气系统在整个后半球范围内设置三个探测面，如图7所示，分别为上方探测面（ $\scriptstyle { \mathfrak { a } } = 0 ^ { \circ } \sim 9 0 ^ { \circ } .$ ）、下方探测面（ $\scriptstyle \mathbf { q } = 0 ^ { \circ } \sim - 9 0 ^ { \circ }$ ）和侧向探测面（ $\mathrm { | \{ = 0 ^ { \circ } \sim 9 0 ^ { \circ } \} }$ ）。
+
+![](images/647d5f6e2fc8c0515a720dbd04deea7b4ff2dd55b123ecee254a50de15424d3f.jpg)  
+图7探测面分布图Fig.7 Sketch map of detection planes
+
+# 2.3计算方法验证
+
+由于全尺寸发动机真实状态下的红外特征实验数据难以获得，本文采用1/3缩比的排气系统模型对计算方法进行验证。涡扇发动机红外辐射特性模拟实验系统如图8所示。实验台系统主要由主流子系统、次流子系统和排气子系统组成。主流子系统产生内涵高温燃气流，由内涵风机提供的约0.6$\mathrm { k g / s }$ 的常温气流，经过燃烧室后形成 $8 3 0 ~ \mathrm { K }$ 的内涵高温燃气流。次流子系统产生外涵气流，由外涵风机提供的约 $1 ~ \mathrm { k g / s }$ 的气流，流体介质为空气，流入排气系统的空气温度为 $3 2 1 \mathrm { ~ K ~ }$ 。内、外涵气流经过混合器部件后进行掺混，形成混合燃气由喷管排出。图9给出了轴对称排气系统缩比的实验模型，它模拟了涡轮、中心锥、混合器、支板和轴对称喷管等结构。
+
+![](images/2c72a7c38c68127c515467e64d80265e18d1967eae51560e679264a614c5a92b.jpg)  
+Fig.8 Sketch map of experiment system
+
+![](images/419ec7f5652eea6a1a1a0b56a6bf7adbc24bae026e0760b36fabd248c57b4988.jpg)  
+图8试验台系统图
+
+图10所示为轴对称排气系统在 $3 { \sim } 5 ~ \mu \mathrm { m }$ 波段的红外特征分布的实验测量值和计算值的对比，其中$\mathrm { C } _ { 1 }$ 是用于无量纲化的常数。由图可知，采用本文计算方法得到的轴对称排气系统的红外特征分布与实验结果基本吻合，平均误差不大于 $1 5 \%$
+
+![](images/fe5508070c78168fe9dc8f65ce39e6af2f9c16701c66625220e3c574db24179f.jpg)  
+Fig.9Experimental model of axisymmetric exhaust system   
+图10 实验和计算红外辐射强度对比 Fig.10 Comparison of integral IR radiation intensity between experimental and computational results
+
+# 3计算结果与分析
+
+# 3.1气动性能计算结果
+
+表4给出了双S形二元排气系统无量纲推力$F / F _ { \mathrm { a x i s } }$ 的大小，并与基准轴对称排气系统进行了对比。由表4可知，相比基准轴对称排气系统，双S形二元排气系统的实际推力并未降低，反而增加了$0 . 2 \%$ 。表5给出了基准轴对称和双S形二元排气系统的流量系数，后者比前者增大了0.005，这是导致双S形二元排气系统推力较大的原因。
+
+表4无量纲推力对比 Table 4 Comparison of non-dimensional thrust   
+
+<html><body><table><tr><td colspan="2">Axisymmetric</td><td>Serpentine 2-D</td></tr><tr><td>F/Faxis</td><td>1</td><td>1.002</td></tr><tr><td></td><td colspan="2">表5流量系数对比 Table5Comparison ofCd</td></tr><tr><td colspan="2"></td><td>AxisymmetricSerpentine 2-D</td></tr><tr><td>Cd</td><td>0.973</td><td>0.978</td></tr></table></body></html>
+
+# 3.2流场计算结果
+
+轴对称和双S形二元排气系统对称面上的静压分布对比如图11所示，图中 $p ^ { * }$ 为喷管进口的平均总压。可以看到，由于双S形二元喷管的型面特征，对称面上的静压受流道弯折的影响也呈现出不对称性；对比轴对称喷管和双S形二元喷管出口截面的静压可知，双S形喷管的出口截面附近的静压更靠近环境压力，说明了相比轴对称喷管，高温燃气在双S形二元喷管内膨胀的更充分，由于轴对称喷管较短，导致燃气在出口截面的不完全膨胀程度过大，对气动性能不利。
+
+![](images/24c2b9dddf63d7a6629fcbd7c3b60b67bbd7d43c9daaf6d028b273bceee09be4.jpg)  
+图9轴对称排气系统实验模型  
+图11对称面上静压分布对比  
+Fig.11 Comparison of static pressure distribution
+
+图12所示为轴对称和双S形二元排气系统对称面上的马赫数Ma分布对比。由图可知，双S形二元喷管内的Ma分布受流道弯折影响，在喷管出口附近
+
+Ma为1的等马赫数线与竖直的几何喉道呈现出了一定的角度；对比喷管出口截面附近的马赫数大小可知，轴对称喷管的Ma约为0.9，而双S形二元喷管的 Ma基本上达到了1，气动性能更好。
+
+![](images/0c5d2647c75f8ee269d236fab63599db11fe17bb997c9af07ed729136122371a.jpg)  
+图12双S形和轴对称排气系统对称面上马赫数分布对比
+
+图13所示为轴对称和双S形二元排气系统对称面上的温度分布对比，图中 $T ^ { * }$ 为排气系统内涵进口的总温。由图可知，由于双S形二元喷管的圆转矩、流道偏转和截面收缩引起的强三维效应，加之其长度较长，使得内、外涵气流的掺混作用显著增强，相比轴对称排气系统，双S形二元排气系统外流场高温喷流的长度明显减小，从而增强了排气系统喷流辐射的红外抑制效果。
+
+![](images/5f877c0437e1f154974753c26950f63f73da665727dd37840a7609ef3d77f5c9.jpg)  
+Fig.12 Comparisonof mach number distribution   
+图13对称面上温度分布对比
+
+# 3.3光谱辐射特性分析
+
+图14给出了双S形二元排气系统在上方探测面 $0 ^ { \circ }$ 、 $5 ^ { \circ }$ 、 $1 0 ^ { \circ }$ 、 $1 5 ^ { \circ }$ 、 $3 0 ^ { \circ }$ 、 ${ { 6 0 } ^ { \circ } }$ 及 $9 0 ^ { \circ }$ 方位角 $3 { \sim } 5 ~ \mu \mathrm { m }$ 波长范围内的无量纲光谱辐射强度分布。其中， $C _ { \lambda }$ 为用于无量纲化常数。由图可知，排气系统在 $3 { \sim } 5 ~ \mu \mathrm { m }$ 波长范围内的光谱辐射强度主要由两部分组成，一部分是高温壁面在 $3 { \sim } 4 . 1 6 ~ \mu \mathrm { m }$ 和 $4 . 6 3 { \sim } 5 ~ \mu \mathrm { m }$ 波段内的固体辐射，另一部分是$4 . 1 6 { \sim } 4 . 6 ~ \mu \mathrm { m }$ 波段内的燃气辐射。固体辐射特点为全波段辐射尤其在整个波段范围内的辐射分布是连续的；燃气辐射的特点是选择性辐射，如 $4 . 1 6 \mathrm { \sim } 4 . 6$ $\mu \mathrm { m }$ 波段内的波峰和波谷则是由于燃气中的 $\mathrm { C O } _ { 2 }$ 强发射和强吸收作用产生的。从 $0 ^ { \circ }$ 到 $9 0 ^ { \circ }$ 方位角，燃气辐射光谱的幅值逐渐变大，这是由于随着探测角的增大，高温燃气的投影面积逐渐增大所致；而固体辐射光谱的幅值先增大后减小， $1 0 ^ { \circ }$ 方位角最大，这是由于此方位角上排气系统内部高温部件的投影面积最大所致。
+
+![](images/01f42c6adb3e2b107b7a5cdd62b324faea1a075d42051b686ad609ac83db3d61.jpg)  
+图14上方探测面的光谱强度
+
+Fig.14 Spectral radiant intensity on upper detection plane
+
+# 3.4积分辐射强度分布
+
+# 3.4.1双S形二元排气系统红外特征分布
+
+图15给所示为双S形二元排气系统在侧向探测面上在 $3 { \sim } 5 ~ \mu \mathrm { m }$ 波长范围内的积分辐射强度分布，并给出了高温喷流和固体壁面的辐射贡献。其中 $\mathbf { C } _ { 2 }$ 是用于无量纲化的常数（下文中 $\mathbf { C } _ { 2 }$ 的意义相同）。由图可知，双S形二元排气系统在侧向探测面上的积分辐射强度比较小，而且主要来自高温喷流的贡献。这是由于在窄边探测面上，双S形二元喷管型面完全遮挡了排气系统内部的涡轮、中心锥等高温部件。
+
+![](images/8bd21216bf8fd2e5a6d716627ee6ba017ca9d63c5f3b634b3bef374d385bf6ef.jpg)  
+Fig.13 Comparison of temperature distribution   
+图15 侧向探测面上双S形二元排气系统积分强度 Fig.15 Distributions of integral IR radiation intensity of serpentine 2-D exhaust system on side detection plane   
+图16所示为双S形二元排气系统在上方和下
+
+方探测面上 $3 { \sim } 5 ~ \mu \mathrm { m }$ 波长范围内的积分辐射强度分布以及高温喷流和固体壁面的辐射贡献。由图可知，下方探测面上，整个排气系统的红外辐射特性和侧向探测面类似，高温喷流的贡献占据了主导因素。在上方探测面上， $0 ^ { \circ }$ 到 $2 0 ^ { \circ }$ 小角度范围，排气系统的辐射比较大，主要是因为在此角度范围的涡轮、中心锥、混合器等高温壁面投影面积比较大，如图17所示；随着角度的增大，排气系统内部的高温部件的投影面积减小到0， $2 0 ^ { \circ }$ 方位角以后，整个排气系统红外辐射绝大多数来自高温喷流辐射贡献。
+
+![](images/7237dd1ecfd54f3b3d7ba244e85e9b66c04fdd57f1b1d114670d381091605845.jpg)  
+图16上方和下方探测面上双S形二元排气系统积分强 度分布 Fig.16Distributions of integral IR radiation intensity of serpentine 2-D exhaust system on upper and lower detection planes
+
+![](images/37aa91ac16a3cacca6b68de3e03b77f57ff992e7c2e93676698a5173ff28f37c.jpg)
+
+# 3.4.2与基准轴对称排气系统对比
+
+图18所示为基准轴对称和双S形二元排气系统在侧向探测面上积分辐射强度的对比分布。由图可知，在侧向探测面上，相比基准轴对称排气系统，双S形二元排气系统 $0 ^ { \circ }$ 方位角，积分辐射强度降低了 $9 7 \%$ 以上，在 $9 0 ^ { \circ }$ 方位角降低了 $6 2 . 1 \%$ 以上。
+
+![](images/26c1f2b9dadc6e7eff36d9286b9daad7f7762f4dfe75615cc3179ed6c7dea8e7.jpg)  
+图18侧向探测面上基准轴对称和双S形二元排气系统积分强度对比
+
+Fig.18 Comparison of integral IR radiation intensity between axisymmetric and serpentine 2-D exhaust systems on side detection planes
+
+图19所示为基准轴对称和双S形二元排气系统在上方和下方探测面上的积分辐射强度的对比分布。由图可知，在上方探测面上，双S形二元排气系统在 $1 0 ^ { \circ }$ 方位角红外辐射强度最大，在此方位角，相比基准轴对称排气系统降低了 $70 . 6 \%$ 以上；在上方 $9 0 ^ { \circ }$ 、下方 ${ - 9 0 } ^ { \circ }$ 纯喷流辐射贡献的方位角，相比基准轴对称排气系统，双S形二元排气系统分别降低了 $2 6 . 1 \%$ 和 $34 . 9 \%$ 。由此可知，双S形二元喷管的遮挡效应使排气系统固体壁面的红外抑制效果显著；而喷管型面偏转和圆转矩的过渡形式，提高了排气系统的内涵热流和外涵冷流掺混程度，从而明显增强了喷流辐射的红外抑制效果。
+
+![](images/384677cfcb85db245f35bde3c9287ad61833594f6df4280d49a7425a7c25305f.jpg)  
+图17上方探测面各部件投影面积 Fig.17 Projective area of components on upper detection plane   
+图19上方和下方探测面上基准轴对称和双S形二元 排气系统积分强度对比 Fig.19 Comparison of integral IR radiation intensity between axisymmetric and serpentine 2-D exhaust systems on upper and lower detection planes
+
+# 4结论
+
+本文基于某轴对称排气系统，设计了一种小中段偏径比、出口偏径比大于0的双S形二元排气系统，数值研究了其推力和红外特性。通过本文的研究，得到以下结论：（1）由于双S形二元喷管的半收敛角比较小，相比基准轴对称排气系统，双S形二元排气系统的流量系数增加了0.005，推力增加了 $0 . 2 \%$ 。（2）双S形二元排气系统在侧向和下方探测面红外辐射较小；在上方探测面比较大，在 $1 0 ^ { \circ }$ 方位角由于涡轮、中心锥等高温部件部分暴露于视野中，红外辐射强度最大，此方位角相对于基准轴对称排气系统，红外辐射仍降低了 $7 0 . 6 \%$ 以上。（3）相比基准轴对称排气系统，双S形二元排气系统的红外辐射在 $0 ^ { \circ }$ 方向降低了 $9 7 \%$ 以上，在侧向、上方和下方探测面垂直于喷管出口轴线方向分别降低了 $6 2 . 1 \%$ 、 $2 6 . 1 \%$ 和 $34 . 9 \%$ 。
+
+# 参考文献：
+
+[1］桑建华，张宗斌．红外隐身技术发展趋势[J]．红外与 激光工程，2013,42(01):14-19. SANG Jianhua, ZHANG Zongbin.Development trends of infraredstealthtechnology[J].InfraredandLaser Engineering,2013,42(01):14-19.   
+[2]航空发动机手册第七分册，进排气装置[M]．北京：航 空工业出版社，2002.   
+[3]金捷，朱谷君，徐南荣，等．发动机高速排气系统红 外辐射特性的数值计算与分析[J].航空动力学 报, $2 0 0 2 , 1 2 ( 5 ) : 5 8 2 \AA { - 5 8 5 } .$ JIN Jie，ZHU Gujun，XU Nanrong，et al. Numerical simulation of infrared radiation characteristics for aero engine high-speed exhaust system[J]. Journal of Aerospace Power,2002,12(5):582-585.   
+[4]Brunet E,Seine N S,Daris T,et al. Exhaust assembly forming a horizontal propulsion gas elbow in an aircraft: United States,US007784284B2[P].2010-08-31.   
+[5]Darrell S,Crowe, Christopher L, et al. Effect of geometry on exit temperature from serpentine exhaust nozzles[A]. 53rd AIAA Aerospace Science Meeting[C]. Kissimmee, Florida.AIAA-2015-1670.   
+[6]刘常春，吉洪湖，黄伟，等.一种双 S弯二元喷管的红 外辐射特性数值研究[J].航空动力学报，2013, 28(7):1482-1488. LIU Changchun，JI Honghu,HUANG Wei,et al. Numerical simulation on infrared radiation characteristics of serpentine 2-D nozzle[J]. Journal of Aerospace Power, 2013,28(7): 1482-1488.   
+[7]章叶川，王占学，史经纬,等.双S弯喷管流动及红外特 性分析[J].航空动力学报，2013,28(11):2468-2474. ZHANG Yechuan, WANG Zhanxue, SHI Jingwei, et al. Analysis on flow and infrared radiation characteristics of double S-nozzle[J]. Journal of Aerospace Power,2013, 28(11):2468-2474. (in Chinese)   
+[8]卫永斌,艾俊强.并列双发三维非对称多 S 弯喷管参数 化设计方法[J].航空动力学报,2015,30(2):271-280. WEI Yongbin, AI Junqiang. Parameter design method of double juxtaposition 3-D asymmetric several-S-shaped nozzles[J].JournalofAerospacePower,2015, 30(2):271-280.   
+[9]孙啸林,王占学,周莉，等.基于多参数耦合的 S弯隐身 喷管设计方法研究[J].工程热物理学报,2015,36(11): 2371-2375. SUN Xiaolin，WANG Zhanxue,ZHOU Li,et al.The design method of serpentine stealth nozzle based on coupledparameters[J].JourmalofEngineering Thermophysics,2015,36(11): 2371-2375.   
+[10]刘常春，吉洪湖，李娜，等.一种二元S 弯喷管的红外 辐射特性数值研究[J].工程热物理学报，2010，31(9)： 1567-1570. LIU Changchun, JI Honghu,LI Na, et al. Numerical simulation on infrared radiant characteristics of 2D S-nozzles[J]. Journal of Engineering Thermophysics, 2010，31(9): 1567-1570.   
+[11]黄伟，吉洪湖，斯仁，等.涡扇发动机排气系统红外特 征[J]．推进技术，2010,31(6): 745-750. HUANG Wei，JI Honghu,SI Ren，et al. Infrared characteristics calculating of turbofan engine exhaust system[J]. Journal of Propulsion Technology, 2010,31(6): 745-750.

@@ -1,0 +1,439 @@
+[
+    {
+        "type": "text",
+        "text": "短期 $\\mathbf { N } \\cdot \\mathbf { P }$ 添加对荒漠草原土壤非保护性有机碳的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张雅柔'，安慧'，王波²，文志林²，杜忠毓¹，吴秀芝'，李巧玲3",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.宁夏大学西北土地退化与生态恢复省部共建国家重点实验室培育基地，西北退化生态系统恢复与重建教育部重点实验室,宁夏 银川 750021；2.盐池县草原实验站,宁夏 吴忠751506;3.宁夏大学农学院，宁夏 银川750021)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以干旱、半干旱地区荒漠草原土壤为研究对象,研究N、P养分添加对荒漠草原 $0 { \\sim } 3 0 ~ \\mathrm { c m }$ 土层土壤颗粒有机碳和轻组有机碳含量、分配比例、敏感指数的影响,探讨荒漠草原土壤非保护性有机碳分配比例及其向保护性有机碳的转化速率对N、P添加的响应。研究结果表明：短期 $_ { \\mathrm { ~ N ~ } , \\mathrm { ~ P ~ } }$ 添加能促进荒漠草原表层土壤( $( 0 { \\sim } 1 0 ~ \\mathrm { c m } )$ 土壤颗粒有机碳和轻组有机碳的积累，分别使其增加了 $5 0 \\% { \\sim } 7 0 \\% \\ . 1 5 \\% { \\sim } 3 1 \\%$ 。短期N、P添加显著增加土壤非保护性有机碳分配比例（ $2 5 \\% { \\sim } 5 2 \\%$ ),而降低了土壤非保护性有机碳向保护性有机碳转化速率常数( $2 4 \\% { \\sim } 4 2 \\%$ )。荒漠草原土壤有机碳主要以非保护性有机碳形式储存,短期N、P添加通过影响土壤非保护性有机碳分配比例,使土壤肥力提高，土壤有机碳的活性组分增加，不利于土壤有机碳的稳定。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：N添加；P添加；荒漠草原；非保护性有机碳",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "草地是陆地生态系统中面积最大的生态系统，对维持全球以及区域性生态平衡具有极其重要的作用[]。近年来，我国约 $9 0 \\%$ 的草地处于不同程度的退化中，这是人类活动的加剧和全球气候变化共同作用的结果[]。对于退化草地的恢复重建，关键在于适当的改变草地的土壤结构，提高退化草地的土壤肥力[2]。养分添加因能提高草地生态系统生产力、恢复土壤养分有效性、提高土壤有机碳，已经成为恢复退化草地的有效策略[3-4]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "土壤碳库是全球生态系统碳库中极其重要的一部分，由有机碳库和无机碳库共同构成,其中有机碳库是评估土壤质量的重要指标[5]。活性有机碳占比很小，但在土壤中移动较快，易氧化分解，是土壤有机碳的活性部分[6。土壤颗粒有机碳(SoilPar-ticulateOrganicCarbon，POC）和轻组有机碳（SoilLight-fractionOrganicCarbon,LFOC)是通过物理分组的方法分离得到的活性有机碳组分，因其都具有较快的转化速度，且不含有物理或生物保护成分，被称为非保护性有机碳[7]。土壤非保护性有机碳由新鲜的或处于分解过程中的动植物残体以及与土壤矿质结合不紧密的植物残体组成，具有很强的生物学活性，对土壤管理措施或土壤的碳源输入响应敏感。研究表明进行土壤恢复措施或土地利用方式转变时，土壤结构和性质发生变化，土壤非保护性有机碳由于其易变性而易受人为干扰的影响，可以灵敏的指示土壤有机碳库的变化，反映土壤碳库的稳定性[8-9]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "N(Nitrogen)和P(Phosphorus)通常是草地生态系统的限制因子，然而由于人类活动的加剧，改变了N循环和生态系统P的有效性[10-11]。外源N的输入通过改变有机物的输入、微生物活性和土壤碳循环等过程对土壤有机碳的积累与稳定产生影响。土壤中P含量的变化同样会影响土壤有机碳的稳定性，持续增加的外源N输入，可使草地土壤由N限制向",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "P限制转变[12]。目前,关于N、P添加对土壤颗粒有机碳、轻组有机碳产生影响的研究诸多。其中有研究表明，N添加可以提高青藏高原高寒草甸颗粒有机碳含量[13]和黑土农田土壤轻组有机碳含量[14]; ${ \\bf N } + { \\bf \\Delta }$ P添加可以提高华北平原农田土壤颗粒有机碳含量和轮作农田土壤轻组有机碳含量。也有研究表明，N添加降低了内蒙古针茅草原土壤颗粒有机碳含量[15];P添加降低了杉木林土壤颗粒有机碳含量[16]；$\\mathrm { N + P }$ 添加降低了棕壤农田土壤颗粒有机碳含量[17-18]和黄土高原农田土壤轻组有机碳含量[19]。总之,N或P添加以及 $\\mathrm { N + P }$ 添加对土壤颗粒有机碳和土壤轻组有机碳的影响十分复杂，但关于养分添加对土壤非保护性有机碳分配比例及向保护性有机碳转化速率的研究较少[14-20],有必要进一步研究土壤非保护性有机碳对多种限制养分(N、P)添加的响应。因此，本文以宁夏荒漠草原为研究对象，通过野外N、P添加控制试验，研究养分添加对荒漠草原土壤颗粒有机碳和轻组有机碳含量、分配比例的影响，阐明荒漠草原非保护性有机碳的分配比例及其向保护性有机碳转化速率对养分添加的响应特征，探讨非保护性有机碳对环境变化的敏感指数，为全球变化对荒漠草原生态系统的影响提供数据支持。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况与研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区位于宁夏盐池县南部 $( 3 7 ^ { \\circ } 1 8 ^ { \\prime } 3 6 \" \\mathrm { N }$ $1 0 6 ^ { \\circ } 5 5 ^ { \\prime } 4 8 \" \\mathrm { E }$ ),是鄂尔多斯台地逐渐向黄土高原发展的中间地带，海拔 $1 5 2 3 \\mathrm { ~ m ~ }$ ，是荒漠草原向典型草原的过渡地带。气候类型是中温带大陆性气候，年均气温 $7 . 6 \\mathrm { { ^ { \\circ } C } }$ ,四季温差较大,年均无霜期 $1 6 5 \\mathrm { ~ d ~ }$ 。气候干旱，年降水量为 $3 0 0 \\mathrm { m m }$ ，主要在6—9月集中降水，降水年际变率大；多年平均蒸发量约为年降水量的8倍。灰钙土和淡灰钙土为研究区主要的地带性土壤,风沙土和草甸土为研究区主要的非地带性土壤。土壤结构松散,肥力较低。土壤 $\\mathrm { \\ p H }$ 值8.4，有机碳含量 $6 . 1 7 ~ \\mathrm { g } \\cdot \\mathrm { k g } ^ { - 1 }$ ，全钾 $1 4 . 3 5 ~ \\mathrm { g } \\cdot \\mathrm { k g } ^ { - 1 }$ ，全磷 $0 . 3 0 \\ \\mathrm { g }$ $\\mathbf { k g } ^ { - 1 }$ ，全氮 $0 . 6 3 ~ \\mathrm { g } \\cdot \\mathrm { k g } ^ { - 1 }$ ,速效钾 $1 7 4 . 1 ~ \\mathrm { m g } \\cdot \\mathrm { k g } ^ { - 1 }$ ,碱解氮$3 6 . 1 4 ~ \\mathrm { m g \\cdot k g ^ { - 1 } }$ ,有效磷 $4 . 2 5 \\mathrm { m g \\cdot k g ^ { - 1 } }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植被类型以荒漠草原植被和沙生植被为主，主要优势种有短翼岩黄耆（Hedysarum brachypterum）、米蒿（Artemisia dalai-lamae）、长芒草（Stipa bun-geana）银灰旋花(Convolvulusammannii）达乌里胡枝子（Lespedeza davurica）、阿尔泰狗娃花(Heteropap-pus altaicus）砂珍棘豆(Oxytropis racemosa）委陵菜（Potentilla chinensis）短花针茅（Stipa breviflora）、远志(Polygalatenuifolia)等。由于水分和养分等自然气候条件的限制,植株生长矮小,种类组成较为简单，生产力相对较低，群落片层结构不突出",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1样地选择及试验设计本试验依托盐池县草原实验站的荒漠草原野外观测站，选择地势平坦的区域作为试验样地。N、P养分添加试验采用草地生态系统营养物研究网络(NutrientNetwork)的试验设计[21]。养分添加试验采用随机区组设计,共设置4种处理CK（对照）、N添加、P添加和 $\\mathrm { N + P }$ 添加。 $\\mathrm { ~ N ~ }$ ）P添加处理分别为：N 添加[缓释型(NH2)2CO,10g·$\\mathbf { m } ^ { - 2 } \\cdot \\mathbf { a } ^ { - 1 } \\mathrm { ~ N ~ } .$ 、P添加 $[ \\mathrm { C a ( H _ { 2 } P O 4 ) _ { 2 } H _ { 2 } O } , 1 0 \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { a } ^ { - 1 } \\mathrm { P } ]$ 、$\\mathrm { N + P }$ 添加 $( 1 0 \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 } \\mathrm { N } + 1 0 \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 } \\mathrm { P } )$ 。每个处理4次重复，共16个 $6 \\mathrm { m } { \\times } 6 \\mathrm { m }$ 的样方，样方间设置2$\\mathrm { ~ m ~ }$ 缓冲带。于2018年5月进行养分添加，具体试验设计及养分添加水平参照张雅柔等[22]荒漠草原 $_ \\mathrm { ~ N } , \\mathrm { P }$ 添加实验设计。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2土壤样品采集2018年8月底在每个样方内采用四点取样法，按照 $0 { \\sim } 1 0 \\ \\mathrm { c m } \\setminus 1 0 { \\sim } 2 0 \\ \\mathrm { c m }$ 和20\\~30cm 的层次采集土壤样品，每个样方内同层土壤混合均匀装入自封袋后带回实验室，风干后去除枯枝和沙石等杂物，过 $2 \\mathrm { m m }$ 土壤筛，用于测定土壤有机碳、颗粒有机碳和轻组有机碳。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3土壤样品测定采用重铬酸钾容量法-外加热法测定土壤有机碳[23]。土壤颗粒有机碳采用六偏磷酸钠分离法[3测定。取 $2 0 \\ \\mathrm { g }$ 过 $2 ~ \\mathrm { m m }$ 筛的风干土样于 $2 5 0 ~ \\mathrm { m L }$ 三角瓶中，加入 $1 0 0 ~ \\mathrm { { m L } }$ 六偏磷酸钠溶液 $( 5 \\ \\mathrm { g } \\cdot \\mathrm { L } ^ { - 1 } )$ ，手摇 $1 5 \\mathrm { m i n }$ 后于往复振荡器上振荡$1 8 \\mathrm { { h } }$ ,其悬浊液过 $5 3 ~ \\mu \\mathrm { m }$ 筛，然后用蒸馏水多次冲洗至澄清。将筛上残留物分离、烘干、称重，计算土壤颗粒有机碳含量。土壤颗粒有机碳含量与有机碳含量的比值为颗粒有机碳的分配比例。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土壤轻组有机碳参照Janzen等[24]的分离方法测定，取过 $1 0 \\mathrm { \\ g }$ 过 $2 \\mathrm { m m }$ 筛的风干土样于 $1 0 0 ~ \\mathrm { { m L } }$ 离心管中，加入比重为 $1 . 8 \\ \\mathrm { g } \\cdot \\mathrm { c m } ^ { - 3 }$ 的NaI溶液 $5 0 ~ \\mathrm { m L }$ ，震荡$3 0 \\mathrm { m i n }$ 后 $3 5 0 0 \\mathrm { r \\cdot m i n } ^ { - 1 }$ 离心 $1 5 \\mathrm { m i n }$ ，吸取悬浮液并用微孔滤膜过滤,继续向离心管中加 $2 0 { \\sim } 3 0 ~ \\mathrm { m L }$ 的 $\\mathrm { { N a I } }$ ，重复三次至没有可见的轻组物质，用 $0 . 0 1 \\ \\mathrm { m o l } \\cdot \\mathrm { L } ^ { - 1 }$ 的$\\mathrm { C a C l } _ { 2 }$ 溶液洗涤分离出轻组部分，再用 $1 0 0 { \\sim } 1 5 0 ~ \\mathrm { m L }$ 去离子水冲洗并转移到已称量烧杯中， $6 0 ~ \\mathrm { { ^ { \\circ } C } }$ 下烘$1 7 \\mathrm { ~ h ~ }$ ,称量测定轻组有机碳含量。轻组有机碳含量与有机碳含量的比值为轻组有机碳的分配比例。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤颗粒有机碳和轻组有机碳性质相似但组  \n成和起源不同，因此以颗粒有机碳和轻组有机碳占  \n有机碳比例的均值来表示土壤非保护性有机碳分  \n配比例[23]：  \n土壤非保护性有机碳分配比例 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$   \n颗粒有机碳分配比例+轻组有机碳分配比例×100%2",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤非保护性有机碳向保护性有机碳转化速率常数 $( k )$ 计算公式[25]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk = p / ( T T _ { p } U )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $p$ 为保护性有机碳含量（土壤有机碳与非保护 性有机碳的差值）； $U$ 为非保护性有机碳含量（颗粒 有机碳与轻组有机碳的均值)； $T T _ { p }$ 为保护性有机碳 周转时间( $\\mathrm { { 1 0 0 a ) } }$ 0 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "N、P添加处理的土壤活性有机碳敏感指数(Sensitivity Index,SI)计算公式[26]：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SI=活性有机碳含量-对照活性有机碳含量对照活性有机碳含量",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3数据分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用SPSS20.0软件进行数据统计与分析，采用双因素方差分析(Two-wayANOVA)分析养分添加和土壤层次对土壤颗粒有机碳、轻组有机碳的影响以及不同养分添加及其交互作用对土壤颗粒有机碳、轻组有机碳含量、分配比例、土壤非保护性有机碳分配比例和土壤非保护性有机碳向保护性有机碳转化速率常数的影响。采用SigmaPlot14.0软件进行图形处理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1N、P添加对荒漠草原土壤颗粒有机碳和轻组 有机碳的影响 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$_ { \\mathrm { ~ N ~ } , \\mathrm { ~ P ~ } }$ 添加、土层深度及其交互作用对土壤颗粒有机碳、轻组有机碳均有显著影响(表1)。随着土层深度的增加土壤颗粒有机碳、轻组有机碳含量显著降低(图1)。N添加、P添加和 $\\mathrm { N + P }$ 添加显著增加$0 { \\sim } 1 0 ~ \\mathrm { c m }$ 土壤颗粒有机碳含量(表2，图 $1 \\mathrm { a } \\sim$ 图1c)，土壤有机碳含量分别增加了 $5 0 \\%$ 7 $5 2 \\%$ 和 $7 5 \\%$ 。P添加和 $\\mathrm { N + P }$ 添加增加 $1 0 { \\sim } 3 0 ~ \\mathrm { c m }$ 土壤颗粒有机碳含量，而N添加降低 $1 0 { \\sim } 3 0 ~ \\mathrm { c m }$ 土壤颗粒有机碳含量。N添加显著增加 $0 { \\sim } 3 0 ~ \\mathrm { c m }$ 土壤轻组有机碳含量(表2)，而P添加和 $\\mathrm { { N + P } }$ 添加显著增加 $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 和 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 土壤轻组有机碳含量（图 $1 \\mathrm { e } \\sim$ 图1f)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2N、P添加对荒漠草原土壤颗粒有机碳和轻组 有机碳分配比例的影响 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "随着土层深度的增加土壤颗粒有机碳分配比例和轻组有机碳分配比例显著降低(图2)。养分添加增加了土壤颗粒有机碳分配比例和土壤轻组有机碳分配比例，但是不同养分添加处理的影响程度存在差异。N添加和 $\\mathrm { N + P }$ 添加显著增加 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 土壤颗粒有机碳分配比例，而对 $1 0 { \\sim } 3 0 ~ \\mathrm { c m }$ 土壤颗粒有机碳分配比例没有显著影响(表3，图 $2 \\mathrm { a }$ ，图2c)。P添加显著增加 $0 { \\sim } 3 0 ~ \\mathrm { c m }$ 土壤颗粒有机碳分配比例（表3，图2b）。 $\\mathrm { N + P }$ 添加显著增加 $0 { \\sim } 3 0 ~ \\mathrm { c m }$ 土壤轻组有机碳分配比例(图2f)，而P添加和N添加分别显著增加 $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 和 $2 0 { \\sim } 3 0 ~ \\mathrm { c m }$ 土壤轻组有机碳分配比例(图2d，图2e)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3N、P添加对荒漠草原土壤非保护性有机碳分配比例及向保护性有机碳转化速率的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "随着土层深度的增加土壤非保护性有机碳分",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/1e9c2b6d4e49cc2e305e015adef72929fb0b6cb03db02c46b80502d9e7c013c9.jpg",
+        "table_caption": [
+            "表1养分添加与土层深度对土壤颗粒有机碳和轻组有机碳影响的双因素方差分析",
+            "Tab.1Two-way ANOVAof the efects of nutrient addition and soil depth on soil particulate organic carbonandlight-fraction organic carbon "
+        ],
+        "table_footnote": [
+            "注： $P { < } 0 . 0 5$ 表示在0.05水平上差异显著， $P { < } 0 . 0 1$ 表示在0.01水平上差异显著， $F$ 是检验统计量， $P$ 是显著性检验。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理</td><td colspan=\"2\">土壤颗粒有机碳</td><td colspan=\"2\">土壤轻组有机碳</td></tr><tr><td>F</td><td>P</td><td>F</td><td>P</td></tr><tr><td>养分添加</td><td>1125.9</td><td><0.001</td><td>1564.6</td><td><0.001</td></tr><tr><td>土层深度</td><td>75.9</td><td><0.001</td><td>72.4</td><td><0.001</td></tr><tr><td>养分添加×土层深度</td><td>26.3</td><td><0.001</td><td>18.4</td><td><0.001</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5bfc096fdebedf5603405f4e956459903e7293f1b0175445bc9906307022bda9.jpg",
+        "img_caption": [
+            "注：\\*表示在0.05水平上差异显著， $^ { * * }$ 表示在0.01水平上差异显著。下同。",
+            "图1N、P添加对土壤颗粒有机碳和轻组有机碳的影响",
+            "Fig.1 Effects of Nand Paddition on soil particulate organic carbon and light-fraction organic carbon "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2N、P添加对土壤颗粒有机碳和轻组有机碳影响的双因素方差分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b7f06504abefcc88ac40d27baeac50a345bd99ccf29df9dc754b85ed80875a89.jpg",
+        "table_caption": [
+            "Tab.2Two-way ANOVA of the effects of N and Padditions on soil particulate organic carbon and light-fractionorganic carbon "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理</td><td rowspan=\"2\">土层深度 /cm</td><td colspan=\"2\">N添加</td><td colspan=\"2\">P添加</td><td colspan=\"2\">N+P添加</td></tr><tr><td>F</td><td>P</td><td>F</td><td>P</td><td>F</td><td>P</td></tr><tr><td rowspan=\"3\">土壤颗粒有机碳</td><td>0~10</td><td>173.6</td><td><0.001</td><td>189.5</td><td><0.001</td><td>23.2</td><td><0.001</td></tr><tr><td>10~20</td><td>0.4</td><td>0.530</td><td>21.2</td><td><0.001</td><td>5.8</td><td>0.033</td></tr><tr><td>20~30</td><td>2.0</td><td>0.179</td><td>23.0</td><td><0.001</td><td>3.1</td><td>0.105</td></tr><tr><td rowspan=\"3\">土壤轻组有机碳</td><td>0~10</td><td>38.2</td><td><0.001</td><td>0.1</td><td>0.785</td><td>50.9</td><td><0.001</td></tr><tr><td>10~20</td><td>34.0</td><td><0.001</td><td>126.6</td><td><0.001</td><td>1.1</td><td>0.319</td></tr><tr><td>20~30</td><td>78.2</td><td><0.001</td><td>3.8</td><td>0.075</td><td>0.6</td><td>0.456</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "配比例显著降低，土壤非保护性有机碳向保护性有机碳转化速率常数显著增加(图3)。养分添加增加了土壤非保护性有机碳分配比例，但是降低了土壤非保护性有机碳向保护性有机碳转化的速率，而且不同养分添加处理的影响程度存在差异(表4)。P添加显著增加了 $0 { \\sim } 3 0 ~ \\mathrm { c m }$ 土壤非保护性有机碳分配比例(图3b)。 $\\mathrm { N + P }$ 添加显著增加了 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 和 $2 0 \\sim$ $3 0 ~ \\mathrm { c m }$ 土壤非保护性有机碳分配比例，而N添加显著增加了 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 土壤非保护性有机碳分配比例（图3a，图3c)。P添加和 $\\mathrm { N + P }$ 添加显著降低了0\\~30cm土壤非保护性有机碳向保护性有机碳转化的速率(图3e，图3f)，而N添加显著降低了 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 和$2 0 { \\sim } 3 0 ~ \\mathrm { c m }$ 土壤非保护性有机碳向保护性有机碳转化的速率(图3d)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4N、P添加对荒漠草原土壤颗粒有机碳和轻组 有机碳敏感指数的影响 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤颗粒有机碳、轻组有机碳含量的敏感指数分析表明（图4）， $0 { \\sim } 1 0 \\ \\mathrm { c m }$ 土层N添加、P添加和 $\\mathrm { N + P }$ 添加的土壤颗粒有机碳敏感指数均高于轻组有机碳； $1 0 { \\sim } 2 0 \\ \\mathrm { c m } \\ . 2 0 { \\sim } 3 0 \\ \\mathrm { c m }$ 和 $0 { \\sim } 3 0 ~ \\mathrm { c m }$ 土层N添加、P添",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cd4fa88661c8b5c447be8dddfd4dae28a8ce95360f08c568acfbbc89e47d3a38.jpg",
+        "img_caption": [
+            "图2N、P添加对土壤颗粒有机碳和轻组有机碳分配比例的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Effects of N and $\\mathrm { \\bf ~ P }$ addition on soil particulate organic carbon and light-fraction organic carbon proportion 加和 $\\mathrm { N + P }$ 添加的土壤轻组有机碳敏感指数均高于 颗粒有机碳。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/db089fc969ab519129ca81cda357b5a1d169eef0f214a1d8347ef1300a51a647.jpg",
+        "table_caption": [
+            "表3N、P添加对土壤颗粒有机碳和轻组有机碳分配比例影响的双因素方差分析 Tab.3Two-way ANOVA of the effects of N and Padditions on soil particulate organic carbon and light-fraction organic carbon proportion "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理</td><td rowspan=\"2\">土层深度 /cm</td><td colspan=\"2\">N添加</td><td colspan=\"2\">P添加</td><td colspan=\"2\">N+P添加</td></tr><tr><td>F</td><td>P</td><td>F</td><td>P</td><td>F</td><td>P</td></tr><tr><td rowspan=\"3\">颗粒有机碳分配比例</td><td>0~10</td><td>28.0</td><td><0.001</td><td>51.2</td><td><0.001</td><td>4.9</td><td>0.046</td></tr><tr><td>10~20</td><td>0.1</td><td>0.808</td><td>5.5</td><td>0.037</td><td>2.4</td><td>0.148</td></tr><tr><td>20~30</td><td>1.1</td><td>0.318</td><td>12.1</td><td>0.005</td><td>1.8</td><td>0.209</td></tr><tr><td rowspan=\"3\">轻组有机碳分配比例</td><td>0~10</td><td>1.5</td><td>0.250</td><td>0.7</td><td>0.428</td><td>10.9</td><td>0.006</td></tr><tr><td>10~20</td><td>1.7</td><td>0.213</td><td>11.8</td><td>0.005</td><td>7.0</td><td>0.021</td></tr><tr><td>20~30</td><td>52.8</td><td><0.001</td><td>4.7</td><td>0.051</td><td>15.8</td><td>0.002</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "土壤颗粒有机碳(POC)与土壤轻组有机碳(LFOC)相似，主要是处于新鲜的动植物残体和腐殖化有机物之间暂时或过渡性的有机物质，周转周期短,均为土壤非保护性有机碳,对环境变化敏感[27]。荒漠草原短期N、P添加的土壤颗粒有机碳和轻组有机碳均随土层深度的增加显著降低，与郑娇娇等[13]高寒草甸的研究相似，主要与植物地上部分的枯落物归还量以及根系的垂直分布有关。随着土层深度的增加，土壤有机质的含量降低、容重增大，对土壤微生物的生长和繁殖造成了制约，从而导致深层土壤积累的土壤颗粒有机碳和轻组有机碳含量减少[28],N、P添加没有改变这种垂直分布格局。研究发现，N添加、P添加和 $\\mathrm { N + P }$ 添加均显著增加0\\~10cm土层的土壤颗粒有机碳含量和分配比例，与祁瑜等[15]对针茅草原的研究结果一致;N添加、P添加和$\\mathrm { N + P }$ 添加均不同程度增加 $0 { \\sim } 3 0 ~ \\mathrm { c m }$ 的土壤轻组有机碳含量和分配比例，与韩晓日等7对棕壤研究结果一致。植物残体、根系及真菌、放线菌等微生物是土壤颗粒有机碳和轻组有机碳的主要来源[29],N、P添加可以改善土壤中速效养分状况而提高植物的光合速率，促进植物根系和地上部的生长，提高进入到土壤中枯枝落叶的量和根系分泌物的量[26]；还可以影响土壤微生物群落活性和组成[30],提高植物残茬和根向有机质的转化效率，导致土壤颗粒有机碳与土壤轻组有机碳的输入高于损失。表明N添加、P添加和 $\\mathrm { N + P }$ 添加在一定程度上促进了荒漠草原土壤颗粒有机碳与土壤轻组有机碳的积累，",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/97eb17cb3de350a4074134e62a5aa906373949a45dea61b41dc22d3184da8baf.jpg",
+        "img_caption": [
+            "图3N、P添加对土壤非保护性有机碳分配比例及向保护性有机碳转化速率常数的影响 Fig.3Effects ofN and Paddition on the proportion ofunprotected organic carbon and rate constant for C transferring from the unprotected to the protected soil pool "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/4fc109f0be041548556d8488e0aacd83f0e71ef959dfa482c75a94795e336e3a.jpg",
+        "table_caption": [
+            "表4N、P添加对土壤非保护性有机碳分配比例及向保护性有机碳转化速率常数的影响双因素方差分析 Tab.4Two-wayANOVAof the effcts of Nand Padditions on the proportionof unprotected organiccarbon and rate constant forC transferring from the unprotected to the protected soil pool "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理</td><td rowspan=\"2\">土层深度 /cm</td><td colspan=\"2\">N添加</td><td colspan=\"2\">P添加</td><td colspan=\"2\">N+P添加</td></tr><tr><td>F</td><td>P</td><td>F</td><td>P</td><td>F</td><td>P</td></tr><tr><td rowspan=\"3\">土壤非保护性有机碳分 配比例</td><td>0~10</td><td>15.5</td><td>0.002</td><td>18.4</td><td>0.001</td><td>8.0</td><td>0.015</td></tr><tr><td>10~20</td><td>0.2</td><td>0.673</td><td>9.1</td><td>0.011</td><td>4.7</td><td>0.052</td></tr><tr><td>20~30</td><td>4.7</td><td>0.051</td><td>18.4</td><td>0.001</td><td>9.1</td><td>0.011</td></tr><tr><td rowspan=\"3\">转化速率常数k</td><td>0~10</td><td>14.3</td><td>0.003</td><td>16.5</td><td>0.002</td><td>9.0</td><td>0.011</td></tr><tr><td>10~20</td><td>0.7</td><td>0.420</td><td>9.8</td><td>0.009</td><td>5.3</td><td>0.040</td></tr><tr><td>20~30</td><td>7.9</td><td>0.016</td><td>23.8</td><td><0.001</td><td>12.4</td><td>0.004</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "土壤非保护性有机碳对土地管理措施反应敏感，是草地生态系统能量转化的先驱。土壤非保护性有机碳向保护性有机碳的转化与土壤有机碳的稳定密切相关[25],N、P添加主要是通过改变有机碳的保护性来影响其稳定性和分解率[31]。研究发现,N添加、P添加和 $\\mathrm { N + P }$ 添加均不同程度增加了土壤非保护性有机碳分配比例，减缓了土壤非保护性有机碳向保护性有机碳转化的速率。这是由于，荒漠草地处于草地与荒漠的过渡阶段，生态环境脆弱且不稳定，土壤有机碳主要以性质相对不稳定的非保护性有机碳形式储存，利于地上植被等的吸收利用[8.32]N、P添加可以改善土壤中速效养分状况而促进植物根系和地上部的生长，增加进入土壤的根系分泌物和有机残体数量;还可以提高植物残茬和根向有机质的转化效率,增加土壤活性有机碳[26]。因此,短期N、P添加不利于荒漠草原土壤有机碳的稳定。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3680f51cb06c299a661b83297975d9c5bf95f33b4eea006e3ecfb10042a6e4cc.jpg",
+        "img_caption": [
+            "图4N、P添加和土层深度的土壤颗粒有机碳和 轻组有机碳的敏感指数 Fig.4Sensitivity index of soil particulate organic carbon and light-fraction organic carbon in N and Paddition and soil depths "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "土壤有机碳含量改变的主要原因是通过影响土壤保护性有机碳和非保护性有机碳含量而改变土壤有机碳的分解速率[31]。土壤颗粒有机碳和轻组有机碳为土壤有机碳的非保护性部分[],但两者对环境变化的敏感指数不同。本研究中， $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 土层的土壤颗粒有机碳对 $_ { \\textrm { N } , \\textrm { P } }$ 添加的敏感指数较高。这是由于，土壤颗粒有机碳主要聚集在0\\~10cm表层,其含量占土壤有机碳含量的 $1 0 \\%$ 以上[13],本研究的荒漠草原土壤结构松散，质地较粗，表层土壤颗粒有机碳含量占土壤有机碳含量的 $2 4 \\%$ 以上，对气候变化和人为干扰的响应更加敏感。因此，土壤颗粒有机碳能较好地反映N、P添加对0\\~10cm土层土壤质量的影响。 $1 0 { \\sim } 2 0 ~ \\mathrm { c m } \\ 、 2 0 { \\sim } 3 0 ~ \\mathrm { c m }$ 和$0 { \\sim } 3 0 ~ \\mathrm { c m }$ 土层的土壤轻组有机碳对N、P添加的敏感指数较高。主要由于轻组有机碳与土壤呼吸速率、生物量氮、土壤矿化碳、矿化氮等均有显著的正相关[33-34],是表征土壤肥力和养分平衡的敏感指标。因此，土壤轻组有机碳能较好的反映N、P添加对$1 0 { \\sim } 2 0 \\ \\mathrm { c m } \\ . 2 0 { \\sim } 3 0 \\ \\mathrm { c m }$ 和 $0 { \\sim } 3 0 ~ \\mathrm { c m }$ 土层土壤质量的影响，与Zhang等[35]的研究结果一致。研究区属荒漠草原向典型草原的过渡地带，生态系统脆弱，易受环境变化和人为干扰的影响，其植物、根系、微生物及土壤的结构复杂多变，是土壤颗粒有机碳和土壤轻组有机碳的敏感指数在不同土层未表现出一致规律的原因。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）短期N、P添加能显著增加荒漠草原0\\~10cm土壤颗粒有机碳含量和分配比例，并促进荒漠草原表层土壤轻组有机碳的积累。（2）土壤有机碳主要以非保护性有机碳形式储存,短期N、P添加使荒漠草原土壤非保护性有机碳分配比例增加，土壤非保护性有机碳向保护性有机碳转化速率常数降低，土壤肥力提高，土壤有机碳的活性组分增加，不利于土壤有机碳的稳定。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]白永飞,黄建辉,郑淑霞,等.草地和荒漠生态系统服务功能的 形成与调控机制[J].植物生态学报,2014,38(2):93-102.[Bai Yongfei,Huang Jianhui, Zheng Shuxia,et al. Drivers and regulating mechanisms of grassland and desert ecosystem services[J]. Chinese Journal of Plant Ecology,2014,38(2): 93-102.]   \n[2]韩潼,牛得草,张永超,等.施肥对玛曲县高寒草甸植物多样性 及生产力的影响[J].草业科学,2011,28(6):926-930.[Han Tong,Niu Decao,Zhang Yongchao,et al.Effects of fertilization on characteristics of Maqu alpine meadow communities and production[J]. Pratacultural Science,2011,28(6): 926-930.]   \n[3]Wang C,Zhu F, Zhao X,et al. The effects of N and P additions on microbial N transformations and biomass on saline-alkaline grassland of Loess Plateau of Northern China[J]. Geoderma,2014,213 (1): 419-425.   \n[4]李春丽,李奇,赵亮,等.环青海湖地区天然草地和退耕恢复草 地植物群落生物量对氮、磷添加的响应[J].植物生态学报, 2016,40(1O): 1015-1027.[Li Chunli,Li Qi, Zhao Liang,et al. Responses of plant community biomass to nitrogen and phosphorus additions in natural and restored grasslands around Qinghai Lake Basin[J]. Chinese Journal of Plant Ecology,2016,40(10):1015- 1027.]   \n[5]Sharma V,Hussain S,Sharma KR,et al.Labile carbon pools and soil organic carbon stocks in the foothill Himalayas under different land use systems[J]. Geoderma, 2014,232-234: 81-87.   \n[6]Fred JB, Christopher JM. Subsurface microbiological heterogeneity:current knowledge,descriptive approaches and applications [J].FEMS Microbiology Reviews,1997,20(3-4):231-247.   \n[7]Six J, Conant R T,Paul E A,et al. Stabilization mechanisms of soil organic matter: Implications for C-saturation of soils[J].Plant and Soil,2002,241(2): 155-176.   \n[8]杨玉盛,刘艳丽,陈光水,等.格氏栲天然林与人工林土壤非保 护性有机C含量及分配[J].生态学报,2004,24(1):1-8.[Yang Yusheng, Liu Yanli, Chen Guangshui,etal. Content and distribution of unprotected soil organic carbon in natural and monoculture plantation forests of Castanopsis kawakamii in subtropical China [J]. Chinese Journal of Applied Ecology,2004,24(1): 1-8.]   \n[9]吕茂奎,谢锦升,周艳翔,等.红壤侵蚀地马尾松人工林恢复过 程中土壤非保护性有机碳的变化[J].应用生态学报,2014,25 (1): 37-44.[Lyu Maokui, Xie Jinsheng, Zhou Yanxiang,et al.Dynamics of unprotected soil organic carbon with the restoration pro cess of Pinus massoniana plantation in red soil erosion area[J]. Chinese Journal of Applied Ecology,2014,25(1): 37-44.]   \n[10]Perring MP,Hedin L O,Levin S A,et al. Increased plant growth from nitrogen addition should conserve phosphorus in terrestrial ecosystems[J]. Proceedings of the National Academy of Sciences of the United States of America,2008,105(6): 1971-1976.   \n[11]Marklein A R,Houlton B Z.Nitrogen inputs accelerate phospho rus cycling rates across a wide variety of terrestrial ecosystems[J]. New Phytologist,2012,193(3): 696-704.   \n[12] 施瑶,王忠强,张心昱,等.氮磷添加对内蒙古温带典型草原土 壤微生物群落结构的影响[J].生态学报,2014,34(17):4943- 4949.[ShiYao,Wang Zhongqiang, Zhang Xinyu,etal.Effects of nitrogen and phosphorusaddition on soil microbial community composition in temperate typical grassland in Inner Mongolia[J]. Acta Ecologica Sinica,2014,34(17): 4943-4949.]   \n[13] 郑娇娇,方华军,程淑兰,等.增氮对青藏高原东缘典型高寒草 甸土壤有机碳组成的影响[J].生态学报,2012,32(17):5363- 5372.[Zheng Jiaojiao,Fang Huajun, Cheng Shulan,et al. Effects of N addition on soil organic carbon components in an alpine meadow on the eastern Qinghai-Tibetan Plateau[J]. Acta Ecologica Sinica,2012,32(17): 5363-5372.]   \n[14] 赵丽娟,韩晓增,王守宇,等.黑土长期施肥及养分循环再利用 的作物产量及土壤肥力变化IV.有机碳组分的变化[J].应用生 态学报,2006,17(5): 817-821.[Zhao Lijuan,Han Xiaozeng, Wang Shouyu,et al.Changes of crop yield and soil fertility under longterm fertilization and nutrients-recycling and reutilization on a black soil:IV.Soil organic carbon and its fractions[J].Chinese Journal of Applied Ecology,2006,17(5): 817-821.]   \n[15] 祁瑜,MulderJ,段雷,等.模拟氮沉降对克氏针茅草原土壤有机 碳的短期影响[J].生态学报,2015,35(4):1104-1113.[Qi Yu, Mulder J,DuanLei,etal.Short-termefectsofsimulatingnitrogen deposition on soil organic carbon in a Stipa krylovii steppe[J].Acta Ecologica Sinica,2015,35(4): 1104-1113.]   \n[16] 李艳鹏,贺同鑫,王清奎.施肥对杉木林土壤酶和活性有机碳的 影响[J].生态学杂志,2016,35(10):2722-2731.[Li Yanpeng,He Tongxin,Wang Qingkui. Impact of fertilization on soil organic carbonand enzyme activities in a Cunninghamia lanceolata plantation[J]. Chinese Journal of Ecology,2016,35(10): 2722-2731.]   \n[17] 韩晓日,苏俊峰,谢芳,等.长期施肥对棕壤有机碳及各组分的 影响[J].土壤通报,2008,39(4):730-733.[Han Xiaori,Su Junfeng,Xie Fang,etal.Effect of long-term fertilization on organic carbon and the diferent soil organic fractions of brown earth[J]. Chinese Journal of Soil Science,2008,39(4): 730-733.]   \n[18] 王玲莉,韩晓日,杨劲峰,等.长期施肥对棕壤有机碳组分的影 响[J].植物营养与肥料学报,2008,14(1):79-83.[Wang Lingli, Han Xiaori,Yang Jinfeng,etal.Efectof long-term fertilization on organic carbon fractions in a brown soil[J].Plant Nutrition and Fertilizer Science,2008,14(1): 79-83.]   \n[19]Wu TY,Schoenau JJ,LiF,et al.Influence of cultivationand fertilization on total organic carbon and carbon fractions in soils from the Loess Plateau of China[J]. Soil & Tillage Research,2004,77 (1): 59-68.   \n[20] 龚伟,颜晓元,蔡祖聪,等.长期施肥对小麦-玉米作物系统土 壤颗粒有机碳和氮的影响[J].应用生态学报,2008,19(11): 2375-2381.[Gong Wei, Yan Xiaoyuan, Cai Zucong,et al.Effects of long-term fertilization on soil particulate organic carbon and nitrogen in a wheat-maize cropping system[J]. Chinese Journal of Applied Ecology,2008,19(11): 2375-2381.]   \n[21]Borer E T,Seabloom E W, Mitchell C E,et al. Multiple nutrients and herbivores interact to govern diversity,productivity,composition,and infection in a successional grassland[J]. Oikos,2014,123 (2): 214-224.   \n[22] 张雅柔,安慧,刘秉儒,等.短期氮磷添加对荒漠草原土壤活性 有机碳的影响[J].草业学报,2019,28(10):12-24.[Zhang Yarou,An Hui,Liu Bingru,etal.Effects of short-term nitrogen and phosphorus addition on soil labile organic carbon in desert grassland[J]. Acta Prataculturae Sinica, 2019,28(10): 12-24.]   \n[23] 阎欣,刘任涛,安慧.土壤易氧化有机碳与溶解性有机碳对荒漠 草地沙漠化过程中土壤碳库变异的表征[J].草业学报,2018, 27(11):15-25.[Yan Xin, Liu Rentao,An Hui. Characterization of readily oxidizable carbon and dissolved organic carbon within the soil carbon pool during desertification of grassland in central China [J].Acta Prataculturae Sinica,2018,27(11): 15-25.]   \n[24] Janzen HH, Campbell C A, Brandt S A,et al.Light-fraction organic matter in soils from long-term rop rotations[J].Soil Science Society of America Journal. 1992,56(6): 1799-1806.   \n[25]Garten Jr JC,Post II WM,Hanson PJ,et al.Forest soil carbon inventories and dynamics along an elevation gradient in the southern Appalachian Mountains[J]. Biogeochemistry,1999,45(2):115- 145.   \n[26] Liang Q,Chen H, Gong Y,et al. Effects of 15 years of manure and inorganic fertilizers on soil organic carbon fractions in a wheatmaize system in the North China Plain[J].Nutrient Cycling in Agroecosystems,2012,92(11): 21-33.   \n[27] 余健,房莉,卞正富,等.土壤碳库构成研究进展[J].生态学报, 2014,34(17): 4829-4838.[Yu Jian,Fang Li, Bian Zhengfu, et al. A review of the composition of soil carbon pool[J].Acta Ecologica Sinica,2014,34(17): 4829-4838.]   \n[28] 周世兴,邹秤,肖永翔,等.模拟氮沉降对华西雨屏区天然常绿 阔叶林土壤微生物生物量碳和氮的影响[J].应用生态学报, 2017,28(1):12-18.[Zhou Shixing,Zou Cheng, Xiao Yongxiang, ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "et al.Effects of simulated nitrogen deposition on soil microbial biomass carbon and nitrogen in natural evergreen broad-leaved forest in the Rainy Area of West China[J].Chinese Journal of Applied Ecology,2017,28(1): 12-18.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[29]柳敏,宇万太,姜子绍,等.土壤活性有机碳[J].生态学杂志, 2006,25(11):1412-1417.[Liu Min,Yu Wantai,Jiang Zishao,et al.A research review on soil active organic carbon[J].Chinese Journal of Ecology,2006,25(11): 1412-1417.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[30] 程淑兰,方华军,徐梦,等.氮沉降增加情景下植物-土壤-微生 物交互对自然生态系统土壤有机碳的调控研究进展[J].生态 学报,2018,38(23):8285-8295.[Cheng Shulan,Fang Huajun, Xu Meng,et al.Regulation of plant- soil- microbe interactions to soil organic carbon in natural ecosystems under elevated nitrogen deposition: A review[J]. Acta Ecologica Sinica,2018,38(23): 8285-8295.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[31]吴建国,张小全,王彦辉,等.土地利用变化对土壤物理组分中 有机碳分配的影响[J].林业科学，2002,38(4):20-29.[WuJianguo,Zhang Xiaoquan,Wang Yanhui,etal. The effects of land use changes on the distribution of soil organic carbon in physical frac ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "tionation of soil[J]. Scientia Silvae Sinicae,2002,38(4): 20-29.]   \n[32] 阎欣,安慧.土壤非保护性有机碳对荒漠草原沙漠化的响应[J]. 生态学报,2018,38(8): 2846-2854.[Yan Xin,An Hui.Response of unprotected soil organic carbon to desertification in desert grassland[J]. Acta Ecologica Sinica,2018,38(8): 2846-2854.]   \n[33]倪进治,徐建民,谢正苗.土壤轻组有机质[J].环境污染治理技 术与设备,2000,1(2):58-64.[Ni Jinzhi, Xu Jianmin,Xie Zheng miao,et al. Soil light fraction organic matter[J]. Techniques and Equipments for Environmental Pollution Control, 2Ooo,1(2): 58- 64.]   \n[34]宇万太,赵鑫,马强,等.长期定位试验下施肥对潮棕壤活性碳 库及碳库管理指数的影响[J].土壤通报,2008,39(3):539-544. [Yu Wantai,Zhao Xin,Ma Qiang,et al. Effect of long-term fertilization on available carbon pool and carbon pool management index in an aquic brown Soil[J]. Chinese Journal of Soil Science, 2008,39(3): 539-544.]   \n[35]Zhang NL,Wan SQ,Li LH,et al. Impacts of urea N addition on soil microbial community in a semi-arid temperate steppe in northern China[J]. Plant and Soil, 2008,311(1-2): 19-28. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Effects of short-term nitrogen and phosphorus addition on unprotected soil organic carbon in desert grassland ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Yarou'， AN Hui'， WANG Bo²， WEN Zhilin²， DU Zhongyu, WU Xiuzhi'， LI Qiaoling³   \n(1.Breeding Base for State Key Laboratory of Land Degradation and Ecological Restoration in   \nNorthwest China,Ministry of Education Key Laboratory for Restoration and Reconstruction of Degraded Ecosystem in Northwest China,Ningxia University,Yinchuan 75OO21,Ningxia, China; 2. Grassland Experiment Station of Yanchi, Wuzhong 751506,Ningxia, China; 3.School of Agriculture,Ningxia University,Yinchuan 75OO21,Ningxia, China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract: To explore the response of the proportion of unprotected organic carbon and the transformation rate of unprotected soil organic carbon into protected soil organic carbon into nutrient addition, the content, proportion, and sensitivity index of particulate organic carbon (POC）and light fraction organic carbon (LFOC） were investigated under nitrogen (N)and phosphorus (P)adition in a desert grassland in arid and semiarid regions. The results showed that soil POC in topsoil ( $0 { - } 1 0 ~ \\mathrm { c m }$ layer) significantly increased by $5 0 \\% - 7 0 \\%$ under nutrient addition (N addition, $\\mathrm { ~ \\bf ~ P ~ }$ addition,and combined $\\mathrm { \\Delta N }$ and $\\mathrm { ~ \\bf ~ P ~ }$ addition),and the soil LFOC in topsoil significantly increased by $1 5 \\% - 3 1 \\%$ . The proportion of unprotected organic carbon significantly increased under nutrient addition $( 2 5 \\% - 5 2 \\% )$ ), but the conversion rate of unprotected soil organic carbon to protected soil organic carbon decreased $( 2 4 \\% - 4 2 \\%$ ). Soil organic carbon is mainly stored as unprotected organic carbon in desert grassland. The labile components of soil organic carbon increased as the proportion of unprotected organic carbon increased under short-term nitrogen and phosphorus addition.Therefore,nutrientaddition was detrimentalto the stability of soil organic carbon in desert grassland. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Keywords: nitrogen addition; phosphorus addition; desert grassland; unprotected soil organic carbon ",
+        "page_idx": 8
+    }
+]

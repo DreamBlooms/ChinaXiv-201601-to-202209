@@ -1,0 +1,403 @@
+[
+    {
+        "type": "text",
+        "text": "傅氏凤尾蕨复合群的分子系统学研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王小娇」，王佳玫，杨东梅，王发国，陈红锋²，郎月婷‘（1.海南大学热带农林学院园艺学院，海口570228；2.中国科学院华南植物园/广东省应用植物学重点实验室，广州510650)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：杂交和多倍化是蕨类植物物种形成的主要机制，往往导致多倍体复合群的出现。同一复合群的成员在形态上具有明显的连续性与过渡性，复合群内部往往存在复杂的亲缘关系，给分类带来很大困难。傅氏凤尾蕨复合群是凤尾蕨属中分类学问题最为突出的复合群之一，成员间仅以植株的高度、羽片的大小、裂片间隙的大小、裂片先端的形状或孢子囊群的长短等细小的特征相区别。为确定该复合群某些成员的分类学位置，理清成员间的亲缘关系，该文选取了3个叶绿体DNA片段atpB、matK 和 trnL ${ \\bf \\nabla } \\cdot { \\bf F } _ { \\mathbf { \\Omega } }$ 构建傅氏凤尾蕨复合群的系统发育树，并结合孢粉学证据，探讨该复合群成员间的亲缘关系。结果表明：百越凤尾蕨和傅氏凤尾蕨的关系最为密切，建议把百越凤尾蕨归并到傅氏凤尾蕨中；硕大凤尾蕨与傅氏凤尾蕨的关系较远，但其孢子形态与傅氏凤尾蕨有一定重叠，两者的亲缘关系待深入研究；线裂凤尾蕨是一独立的种，与该复合群其它成员明显不同；隆林凤尾蕨都较早分化出来，单独作为一支，但其孢子形态多变，暗示其可能是杂种起源。由于没有采集到小傅氏凤尾蕨、贵州凤尾蕨和江西凤尾蕨的样本，因此这三者与傅氏凤尾蕨的亲缘关系，本文不作讨论。1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：傅氏凤尾蕨复合群，分子系统学，孢粉学，亲缘关系中图分类号：Q949 文献标识码：A 文章编号：201803053",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DOl:10.11931/guihaia.gxzw201803053 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Molecular systematics study on the Pteris fauriei complex ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(Pteridaceae) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Xiaojiao1, WANG Jiamei1, YANG Dongmei1, WANG Faguo², CHEN Hongfeng², LANG Yueting² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1. College of Horticulture,Tropical College ofAgriculture and Forestry,Hainan University, Haikou, 570228, China; 2.South China Botanical Garden，Chinese Academy of Sciences/Guangdong Provincial Key Laboratory of Applied Botany,Guangzhou,510650, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Hybridization and polyploidation are the main machenisms of speciation of ferns,which lead to the formation of polyploid complexes.Members of the same complex have obvious continuity and transition in morphology，and the genetic relationships within the complex group are complicated, which cause much taxonomic confusion to ferns.Pteris fauriei complex is one of the most confusing complexes in Pteris.Members in this complex are highly similar in morohology and just classifiedbya few tiny characteristics,such as the height of plant,the size of pinnae,the sizeof the gap in the lobes,the distance between segments and the leghth of sori and so on.In order to determine the taxonomic position of some members of the complex and clarify the genetic relationships among members,threechloroplast DNA fragments,atpB, matK,and trnL-F were selected to construct a phylogenetic tree of the Pteris fauriei complex.Based on the results from molecular systematics study and palynological study, the genetic relationships among members of the $P .$ fauriei complex were discussed.Result shows that the relationship between $P .$ fauriei var: chinensis and $P .$ fauriei is very closely,so we suggset to incorporate $P .$ fauriei varchinensis into $P .$ fauriei.The relationship between $P .$ majestica and $P .$ faurieiisrelatively far,but the spore morphology of $P .$ majestica overlaps with that of $P .$ fauriei,so their genetic relationship needs further study. $P .$ angustipinnula is an independent species,different from other members of the complex.P. splendida was earlier differentiatedas aseparate branch,but its spore morphology isvariable,suggesting that it may be a hybrid origin.Since we didn't get the samples of $P .$ fauriei var.minor,P. guizhuensis andP.obtusiloba, their genctic relationships with $P .$ fauriei were not dissguessed here. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key word: Pteris fauriei complex，molecular phylogeny，palynology， genetic relationship ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "杂交和多倍化是蕨类植物物种形成的主要机制(Grant,1981;Rieseberg&Willis,2007）。由于自然杂交和多倍化的频繁发生（Chao etal,2012b），凤尾蕨属（PterisL.）种类丰富，约有 250 种，而且类型多样，广泛分布于热带、亚热带及温带地区(Tryon etal,1990)。杂交和多倍化往往导致多倍体复合群的出现。蕨类植物中同一复合群成员间的孢子体形态虽然有所区别，常常被鉴定为不同的种，但整体上却具有明显的连续性与过渡性，而且成员间存在复杂的亲缘关系（杨东梅，2011；Chao etal，2010，2012a，2014；张良，2013；Chang etal，2013；Jaruwattanaphan et al，2013）。理清复合群成员间的亲缘关系不仅有助于解决分类学问题，还有助于理解复合群的形成机制，从而推动凤尾蕨属植物的物种起源与分化规律的研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "傅氏凤尾蕨复合群是凤尾蕨属中分类学问题最为突出的复合群之一。Huang etal（2006，2007）、杨东梅（2011）和张良（2013）的研究表明，该复合群包括傅氏凤尾蕨（Pteris faurieiHieron）、小傅氏凤尾蕨（P.faurieivar.minorHieron）、百越凤尾蕨（P.fauriei var.chinensisChing et S.H.Wu）、线裂凤尾蕨（P.angustipinnula Chinget S.H.Wu）、硕大凤尾蕨（P.majestica Ching ex Ching et S.H.Wu）、隆林凤尾蕨（P.splendida Ching ex Ching et S.H.Wu）、江西凤尾蕨（P.obtusiloba Ching et S.H.Wu）、贵州凤尾蕨（P.guizhouensis Ching ex Ching etS.H.Wu）等。除傅氏凤尾蕨和小傅氏凤尾蕨外，其余5种均原产我国，与傅氏凤尾蕨形态相近，仅以植株的高度、羽片的大小、裂片间隙的大小、裂片先端的形状或孢子囊群的长短等细小的特征而区别于傅氏凤尾蕨（秦仁昌和吴兆洪，1983）。如硕大凤尾蕨以高大的形体、宽大的羽片而异于傅氏凤尾蕨，但杨东梅（2011）通过孢粉学实验发现硕大凤尾蕨与傅氏凤尾的孢子形态特征重叠明显，而且硕大凤尾蕨的孢子形态多变，暗示其可能是杂种起源。另外，傅氏凤尾蕨是广布种，在华南、华中、华东、西南等地可见，日本、东南亚也产，可生于海拔 $5 0 { \\sim } 2 3 0 0 \\mathrm { m }$ 处，几乎覆盖了其它7种的分布区域（Shieh，1975；Shieh，1994；吴兆洪，1990）。形态学及生物地理学的证据初步表明，该复合群成员间的亲缘关系密切，但种间界限模糊。另外，百越凤尾蕨、江西凤尾蕨及贵州凤尾蕨三者的分类学位置仍有待确定。百越凤尾蕨以侧生羽片较宽较长，裂片较宽较长而区别于傅氏凤尾蕨，但杨东梅（2011）认为其羽片形态特征均在傅氏凤尾蕨的变化范围之内。秦仁昌和吴兆洪（1983）认为江西凤尾蕨的裂片短，两侧边缘平行，先端圆，羽轴上有针状长刺而异于傅氏凤尾蕨，但丁明艳(2006)发现江西凤尾蕨的模式标本为幼体植株，无成熟孢子囊，鉴于其部分裂片顶端变狭，有钝头，基部扩大，而把其处理为斜羽凤尾蕨P.oshimensis Hieron.的异名。秦仁昌和吴兆洪（1983）认为贵州凤尾蕨以叶柄远短于叶片，羽片披针形，不呈镰刀状，裂片上部 $1 / 3 { \\sim } 3 / 5$ 不育，而异于傅氏凤尾蕨。杨东梅(2011)发现其它凤尾属植物的标本也存在羽片高度不育的情况。因此，杨东梅(2011)认为贵州凤尾蕨具有如此高度不育的裂片，可能与叶片的成熟度有关，而并非其独有的特征。杨东梅（2011）查阅贵州凤尾蕨的模式标本时发现，其叶柄稍短于叶片或与叶片等长，而并非远短于叶片。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "尽管傅氏凤尾蕨复合群存在以上突出的分类学问题，但是专门针对该复合群的分类学研究寥寥无几。除了台湾学者Huangetal（2006；2007）先后从细胞学、生物地理学角度深入研究了傅氏凤尾蕨、小傅氏凤尾蕨的分类学关系外，几它相关研究都集中在傅氏凤尾蕨一个种上，并未涉及该复合群的其它成员（翁若芬，1985；Kato etal，1992；李春香等，2004;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "戴锡玲等，2005；丁明艳，2006；Schuetpelz et al，2007；Zhang et al，2008）。纵有涉及该复合群其它成员，如硕大凤尾蕨、隆林凤尾蕨，也是从属的水平讨论属下种类的关系（张良，2013；Chaoetal，2014）。因此，傅氏凤尾蕨复合群成员间的亲缘关系仍有待澄清。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为确定该复合群某些成员的分类学位置，理清成员间的亲缘关系，在前人研究的基础上，本研究以居群生物学的理论为基础，主要运用孢粉学、分子生物学等手段，分析该复合群形态特征的变异规律,综合评价各特征的分类学意义，并选取3个叶绿体DNA片段atpB、matK和trnL ${ \\bf \\nabla } \\cdot { \\bf F } _ { \\mathbf { \\Omega } }$ 构建系统发育树，结合孢粉学数据，探讨该复合群成员间的亲缘关系。孢粉学方面的研究结果已经发表（王佳玫等，2016)，本文将着重阐述分子生物学的研究结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1样品采集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据傅氏凤尾蕨复合群的分布范围，赴广东、广西、海南、贵州、云南等主要分布区进行野外采样，共采集12个居群，各居群个体间距 $5 \\mathrm { m }$ 以上。每个个体采集新鲜、干净的叶片（首选嫩叶）放入茶包袋中，做好标记，再放入装有硅胶的自封袋中保存。凭证标本存放在海南大学热带农林学院。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "按《中国植物志》第3卷（吴兆洪，1990）把野外采集的凤尾蕨属植物进行分类处理（表1)。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e4d99aac2b7fff7d3d4d40ec7496e97adc01f32ab3b1a897bb972421a03430bd.jpg",
+        "table_caption": [
+            "表1傅氏凤尾蕨复合群植物样品采集情况",
+            "Table 1 Sample sources of Pteris fauriei complex "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>种</td><td>采集地编号</td><td>样本份数</td><td>J T 凭证标本</td></tr><tr><td>Species</td><td>Collection numbered</td><td>No. of samples</td><td>Voucher specimen</td></tr><tr><td>线裂凤尾蕨</td><td>XB</td><td>3</td><td>Wang JM5，Wang JM6，Wang JM7</td></tr><tr><td>Pteris angustipinnula</td><td></td><td></td><td></td></tr><tr><td>傅氏凤尾蕨</td><td>XX</td><td>2</td><td>Wang JM 9，Wang JM 10</td></tr><tr><td>P. fauriei</td><td>HN</td><td>1</td><td>Luo WQ 20150202</td></tr><tr><td></td><td>XN</td><td>3</td><td>Wang JM4，Wang JM8，Wang JM11</td></tr><tr><td></td><td>XX</td><td>1</td><td>Wang JM15</td></tr><tr><td></td><td>GL</td><td>4</td><td>WangJM16，WangJM17，WangJM19，WangJM20</td></tr><tr><td></td><td>GF</td><td>2</td><td></td></tr><tr><td></td><td></td><td></td><td>Wang JM21，Wang JM 23</td></tr><tr><td></td><td>GH</td><td>1</td><td>Wang JM 24</td></tr><tr><td></td><td>LL</td><td>4</td><td>Wang JM27，Wang JM30，Wang JM35，Wang JM40</td></tr><tr><td></td><td>LD</td><td>3</td><td>Wang JM 43，Wang JM 45，Wang JM 49</td></tr><tr><td></td><td>LS</td><td>6</td><td>Wang JM 60，Wang JM61，Wang JM63，Wang JM66,</td></tr><tr><td>YJ</td><td></td><td></td><td>Wang JM 69，Wang JM71</td></tr><tr><td>百越凤尾蕨</td><td></td><td>1</td><td>Wang JM 88</td></tr><tr><td>P. fauriei var.</td><td></td><td></td><td>Wang JM1，Wang JM2，Wang JM3，Wang JM13，Wang</td></tr><tr><td></td><td>XN</td><td>5</td><td>JM 14</td></tr><tr><td>chinensis</td><td></td><td></td><td></td></tr><tr><td>硕大凤尾蕨</td><td></td><td></td><td></td></tr><tr><td>P. majestica</td><td>YJ</td><td>3</td><td>WangJM77，WangJM78，WangJM79</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/eb7df1aaa9ebfe9ace81dd51979f3444543ff24306b5b94c557f9faa6af1c3eb.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>隆林凤尾蕨</td><td></td><td></td><td></td></tr><tr><td>P.splendida</td><td>XX</td><td>1</td><td>Wang JM 12</td></tr><tr><td></td><td>LL</td><td>1</td><td>Wang JM 37</td></tr><tr><td></td><td>LD</td><td>2</td><td>Wang JM49，Wang JM50</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采集地：XN.广西龙州弄岗保护区弄岗保护站附近；XB．广西龙州板闭村；XX．广西大新下雷保护区; HN．海南五指山水满乡五指山；GL．贵州册亨赖子山；GF．贵州册亨福尧村；GH.贵州册亨花冗；LL．贵 州荔波保护区三岔河保护站漏斗森林；LD.贵州荔波保护区翁昂保护站洞羊山；LS．贵州荔波保护区翁昂 保护站石上森林；YJ．云南景东无量山自然保护区。   \nColecting place: XN. Nonggang protection station in Longgang,Longgang, Guangxi; XB.Banchang village, Longzhou, Guangxi; XX. Daxinxia protection reserve in Guangxi; HN. Wuzhishan， Shuiman Township, Wuzhishan,Hainan；GL.Guizhou Henglishan Mountain；GF. Canghengfu Vilage，Guizhou Province；GH. Guizhou Chenheng Flower Estate; LL.Fungal Forest, Sancha River Conservation Station, Guizhou Libo Nature Reserve; LD.Dongyang Mountain, Guizhou Wengpo Nature Reserve；LS. Shishang Forest, Weng'ang Protection Station, Libo, Guizhou; YJ. Wuliangshan Nature Reserve, Jingdong, Yunnan. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2DNA片段测序 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "使用改良的CTABDNA提取方案提取叶片总DNA。对得到的DNA进行三个叶绿体片段 atpB、matK 和 trnL-FPCR扩增。用三对引物(表2)分别扩增atpB、matK 和 trnL- $F$ 叶绿体基因3个区域。PCR反应体积为 $3 0 { \\mathrm { u L } }$ ，包括每种引物（5p） $( 1 . 2 { \\pm } 1 . 2 ) \\mu \\mathrm { ~ l ~ }$ ，样品DNA $4 . 2 \\sim$ 6 ng,Taq DNA 聚合酶 $0 . 6 \\mathrm { ~ \\textmu ~ L } , 1 0 \\times$ 缓冲液(包括 $\\mathbf { M g } ^ { 2 + }$ )， $2 . 5 \\mathrm { m m o l } { \\cdot } \\mathrm { L } ^ { - 1 } \\mathrm { d N T P }$ ，超纯水（ddH20）等。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "atpB PCR反应的条件： $9 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 预变性2分钟， $9 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 变性20 秒， $5 2 \\mathrm { ~ \\textdegree ~ }$ 退火30秒， $7 2 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 延伸100秒，循环34次，最后 $7 2 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 延伸10分钟。trnL-FPCRPCR反应的条件： $9 4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 预变性5分钟， $9 4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 变性45 秒， $5 1 \\ \\mathrm { ~ \\textdegree C }$ 退火1分钟， $7 2 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 延伸90秒，循环34次，最后 $7 2 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 延伸7分钟。matKPCR反应的条件： $9 4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 预变性2分钟， $9 4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 变性45 秒， $5 1 \\ \\mathrm { ~ \\textdegree C }$ 退火1分钟， $7 2 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 延伸 90秒，循环 34次，最后 $7 2 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 延伸10 分钟。PCR 产物经 InvitrogenTM（Shanghai，China）纯化并测序。matK和atpB用两个引物双向测序，trnL ${ \\bf \\nabla } \\cdot { \\bf F } _ { \\mathbf { \\Omega } }$ 用一个引物单向测序。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/507d58d72b62e89a2377a6231a0a5a43b7141bc408f475923f114d8b6606a4ce.jpg",
+        "table_caption": [
+            "表2PCR扩增及测序的引物",
+            "Table 2 Primers used for amplification and sequencing "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>扩增片段 Region</td><td>引物名称 Primer names</td><td>引物序列 Primer sequences(5'-3')</td><td>引物参考来源 References</td></tr><tr><td rowspan=\"2\">atpB</td><td>ATPB672F</td><td>TTGATACGGGAGCYCCTCTWAGTGT</td><td>Pryer et al,2004</td></tr><tr><td>ATPE384R</td><td>GAATTCCAAACTATTCGATTAGG</td><td>Pryer et al, 2004</td></tr><tr><td rowspan=\"4\">matK</td><td>FERmatK</td><td>ATTCATTCRATRTTTTTATTTHTGGARGAYAGA</td><td>Kuo et al,2011</td></tr><tr><td>fEDR</td><td>TT</td><td></td></tr><tr><td>FERmatK</td><td>CGTRTTGTACTYYTRTGTTTRCVAGC</td><td>Kuo et al,2011</td></tr><tr><td>rAGK e</td><td>GGTTCAAGTCCCTCTATCCC</td><td>Taberlet et al, 1991</td></tr><tr><td rowspan=\"2\">trnL-F</td><td></td><td></td><td></td></tr><tr><td>f</td><td>ATTTGAACTGGTGACACGAG</td><td>Taberlet et al,1991</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "叶绿体基因的联合数据包含3个基因及基因间隔区片段，串联顺序依次为matK、atpB和trnL- ${ \\bf \\nabla } \\cdot { \\bf F }$ 。各基因片段的序列依次为898、1141、360bp，联合矩阵序列的长度为2 399 bp。本文对3个叶绿体DNA片段的数据矩阵采用最大简约法(maximum parsimony method,MP)进行分析，采用贝叶斯分析法（Bayesian inference，BI）对单个基因片段进行逐个分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "研究中，设置狭眼凤尾蕨Pteris biaurita为外类群（outgroup)，狭眼凤尾蕨Pteris biaurita的3条相关序列来自NCBIGenBank，序列号分别为 KF289546、ZL213和AY545508。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1最大简约法（maximumparsimonymethod，MP）分析结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在单个叶绿体片段的MP树中，matK 基因构建的进化树（图1）结果表明，来自云南景东的硕大凤尾蕨（YJ）分化相对较晚，支持其作为一个种。除硕大凤尾蕨外的傅氏复合群的其它成员作为一大支，自展支持率达 $9 9 \\%$ 。其中，来自贵州赖子山的傅氏凤尾蕨（GL)聚在一支，其自展支持率为 $8 7 . 2 \\%$ ；来自其他采集地的傅氏凤尾蕨和百越凤尾蕨基本聚在一支，自展支持率为 $8 5 . 2 \\%$ ；虽然线裂凤尾蕨和隆林凤尾蕨从傅氏凤尾蕨一支分出来的自展支持率只有 $3 2 . 5 \\%$ ，但之后有 $9 0 . 1 \\%$ 的自展支持率支持线裂凤尾蕨作为一支，有 $7 4 . 9 \\%$ 的自展支持率支持隆林凤尾蕨作为一支。3个叶绿体基因片段的联合数据分析结果（图2）与matK基因的MP树的拓扑结构类似（MP的自展支持率： $> 7 0 \\%$ ），虽然受atpB基因和trn $L { - } F$ 基因间隔区的影响，总体的自展支持率相对较低。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "两个MP树都表明，来自云南景东的硕大凤尾蕨与该复合体其他成员的亲缘关系最远，聚合成一支；百越凤尾蕨与傅氏凤尾蕨亲缘关系最近，两者聚合成一支；线裂凤尾蕨和隆林凤尾蕨各单独聚成一支。与王佳玫等(2016)的孢粉学结论相一致，具体为：线裂凤尾蕨的孢子具有远极脊、近极脊及脊状或拟网状纹饰，能清晰地从傅氏凤尾蕨复合体其它成员中区分出来；傅氏凤尾蕨和百越凤尾蕨的孢子形态具有脊状或拟网状纹饰，但不具远极脊，两者形态则较为相近，难以区别；隆林凤尾蕨的部分孢子只具有远极脊，推测其可能是杂种起源；硕大凤尾蕨的孢子以其均具有远极脊和近极脊而区别于其他孢子 (图2)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "74.9 PterissplendidaXX PterissplendidaLD 32.5 PterisangustipinnulaXB PterisangustipinnulaXB 90.1 PterisangustipinnulaXX PterisfaurieiYJ -PterisfaurieiGF -PterisfaurieiGH -PterisfaurieiLL PterisfaurieiLL 63.8 PterisfaurieiLL -Pterisfaurieivar.chinensisLD -PterisfaurieiLD 99.0 -PterisfaurieiLS 0 -PterisfaurieiLS PterisfaurieiLS PterisfaurieiXN PterisfaurieiXN PterisangustipinnulaXX 85.2 PterisfaurieiHN -PterisfaurieiXN -Pterisfaurieivar.chinensisXN 63.0 Pterisfaurieivar.chinensisXN -Pterisfaurieivar.chinensisXN 99.6 64.8 -Pterisfaurieivar.chinensisXN PterisfaurieiXX PterisfaurieiLS PterisfaurieiGL 87.2 -PterisfaurieiGL -PterisfaurieiGL -PterisfaurieiGL PterismajesticaYJ PterismajesticaYJ PterismajesticaYJ Pterisbiaurita ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7cacff2051db17d5e847009808a336750b84c70a3b072f69cbed9f13c6bdace3.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "线裂凤尾蕨 Pterisangustipinnula 百越凤尾蕨 P.faurieivar.chinensis 傅氏凤尾蕨 P.fauriei 隆林凤尾蕨 P.splendida 硕大凤尾蕨 P.majestica ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/254656fe23b2a187d12b3ab876efb1051a98ae1bf525f944640bec393850d514.jpg",
+        "img_caption": [
+            "图2 基于傅氏凤尾蕨复合体的3个叶绿体基因所得的最大简约树，右边为孢子图 Fig.2 Maximum parsimony tree of Pteris fauriei complex based on the combined three chloroplast genes, On the right is the spore picture "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/2df3cc7df479f3551c67940889cc312f6ef9927425af8365b08a0237609a68b6.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e9b0e0f410c5497a5b9c3bfe6fe50ec7b9486c0fb61d86252ee01fa20b526c3f.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b718f042f9d9f2a9c94910d35ecc56fb0ca8f450e4f1a4c7867be3e62416386f.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "V ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2贝叶斯分析法（Bayesianinference，BI）分析结果 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由于傅氏凤尾蕨复合体的3个叶绿体基因片段matK、atpB和 trnL- ${ \\bf \\nabla } \\cdot { \\bf F }$ 的最优碱基替代模型各不相同，因此本文分别对这3个叶绿体基因片段建立BI树。建树结果经Tracer v1.5软件检验，ESS 值大于 200且Estimates 呈正态分布，说明本次运行的BI树结果可靠。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "matK基因的BI树（图3）表明，傅氏凤尾蕨基本按居群聚集为三大支，分别是来自广西的傅氏凤尾蕨（XN、XX)，来自贵州册亨县赖子山的傅氏凤尾蕨（GL）和来自贵州其他地区的傅氏凤尾蕨（GF、GH、LL、LD、LS)，虽然存在来自海南的样品（HN）嵌合到某个分支中。另外，有很高的后验概率分别支持线裂凤尾蕨、隆林凤尾蕨分别作为单独一支。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "atpB 基因的BI树（图4）支持傅氏凤尾蕨和百越凤尾蕨作为一支（ $\\mathrm { ' B I P P : 9 8 \\% }$ ），线裂凤尾蕨、隆林凤尾蕨、硕大凤尾蕨各自单独为一支。trnL ${ \\bf \\nabla } \\cdot { \\bf F }$ 基因间隔区的BI树型并不理想，几乎为梳子结构（图5）。但其结果也支持百越凤尾蕨和傅氏凤尾蕨聚成一支，线裂凤尾蕨所有样本都聚成一支。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "此外，在MP 树和 BI树中，来自贵州册亨县赖子山的傅氏凤尾蕨(GL)都独立成一系。这应该是特殊的生境造成的。赖子山位于贵州黔西南地区册亨县，是一片山群的统称，位置偏僻。而且来自该地的样本生长在被石灰岩包围的一小片的土壤中。可见，该样本的生境类似孤岛。孤岛效应导致赖子山的样本与外界缺少基因交流，而自成一支。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "PterismajesticaYJ 0.99 PterissplendidaXX 0.71 PterissplendidaLD PterisfaurieiYJ 1.00 1.00 PterisangustipinnulaXB 0.34 PterisangustipinnulaXB 0.20 PterisangustipinnulaXX 0.12 PterisfaurieiXN 0.05 PterisfaurieiHN PterisfaurieiXN 0.12 PterisfaurieiXN 0.05 Pterisfaurieivar.chinensisXN 0.11 0.11 Pterisfaurieivar.chinensisXN 1.00 0.97 0.12 Pterisfaurieivar.chinensisXN 0.99 PterisfaurieiXX Pterisfaurieivar.chinensisXN 0.12 PterisfaurieiLS PterisangustipinnulaXX 1.00 0.06 PterisfaurieiLL 0.00 PterisfaurieiLS 0.07 PterisfaurieiLD 0.01 PterisfaurieiLS 0.06 PterisfaurieiGF 0.01 PterisfaurieiLS 1.00 $0 . 9 9$ 0.06 PterisfaurieiLL PterisfaurieiLD 0.06 PterisfaurieiGH PterisfaurieiLL 0.21 PterisfaurieiGL 0.20 PterisfaurieiGL 1.00 PterisfaurieiGF PterisfaurieiGL 0.20 PterismajesticaYJ PterismajesticaYJ Pterisbiaurita ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 Bayesian inference tree of Pteris fauriei complex based on the chloroplast gene matk ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "0.20 PterismajesticaYJ PterismajesticaYJ PterismajesticaYJ Pterisfaurieivar.chinensisXN 0.02PterisfaurieiGL PterisfaurieiLL 0.02 Pterisfaurieivar.chinensisXN PterisfaurieiXN 0.02 PterisfaurieiXX PterisfaurieiGH 0.02 Pterisfaurieivar.chinensisLD Pterisfaurieivar.chinensisXN 0.02 PterisfaurieiLD 0.98 PterisfaurieiLL 0.02 PterisfaurieiLD PterisfaurieiGF 0.02 PterisfaurieiGL PterisfaurieiLL 0.02 PterisfaurieiLS Pterisfaurieivar.chinensisXN 0.20 0.02 PterisfaurieiLS PterisfaurieiGL 0.98 PterisfaurieiXN 0.10 0.02 PterisfaurieiXN 0.02 PterisfaurieiLS PterisfaurieiLS 0.02 Pterisfaurieivar.chinensisXN Pterisfauriei HN 0.02 PterisfaurieiLS PterisfaurieiLL 0.02 PterisfaurieiLS 0.03 PterisfaurieiGF PterisfaurieiYJ 1.00 0.16 PterisangustipinnulaXB 0.39 PterisangustipinnulaXX 0.09 1.00 0.17 PterisangustipinnulaXX PterisangustipinnulaXB PterisangustipinnulaXB 1.00 0.10 PterissplendidaXX PterissplendidaLL 0.09 PterissplendidaLD PterissplendidaLD PterisfaurieiLD Pterisbiaurita ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "=ig.4 Bayesian inference tree of Pteris fauriei complex based on the chloroplast gene atpB ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "0.61 PterisfaurieiXN 0.88 PterisfaurieiXN Pterisfaurieivar.chinensisXN 0.03 0.14 PterisfaurieiXX 0.16 Pterisfaurieivar.chinensisXN 0.00 0.81 0.15 Pterisfaurieivar.chinensisXN Pterisfaurieivar.chinensisXN PterisfaurieiXN 0.00 0.04 PterisfaurieiHN PterisfaurieiLL 0.04 PterisfaurieiGF 0.00 PterisfaurieiLL 0.04 PterisfaurieiLS PterisfaurieiLS 0.08 PterisfaurieiGH 0.02 PterisfaurieiLD 0.00 0.09 PterisfaurieiGH 0.08 PterisfaurieiLL 0.05 0.07 PterisfaurieiLL PterisfaurieiLL 0.02 PterisfaurieiLS 0.75 PterisfaurieiGL 0.26 PterisfaurieiGL 0.07 0.01 0.86 PterisfaurieiGL 0.32 PterisfaurieiGL PterisfaurieiGF PterisfaurieiLS 0.98 0.03 1.00 0.41 PterisangustipinnulaXB PterisangustipinnulaXB PterisangustipinnulaXB 0.05 -PterisfaurieiLD PterisfaurieiYJ 1.00 PterissplendidaLD PterismajesticaYJ PterismajesticaYJ Pterisbiaurita ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3傅氏凤尾蕨复合群成员间的亲缘关系讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由于没有采集到小傅氏凤尾蕨、贵州凤尾蕨和江西凤尾蕨的样本，因此这三者与傅氏凤尾蕨的亲缘关系，本文不作讨论。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1百越凤尾蕨与傅氏凤尾蕨的关系",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在单个叶绿体片段或联合叶绿体序列矩阵得到的MP树和BI树中，百越凤尾蕨和傅氏凤尾蕨都聚在一起。这表明在傅氏凤尾蕨复合群中，百越凤尾蕨和傅氏凤尾蕨的关系最为密切。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "百越凤尾蕨因羽片宽度和长度稍大于傅氏凤尾蕨，而作为傅氏凤尾蕨的变种发表。杨东梅（2011）发现百越凤尾蕨的羽片大小在傅氏凤尾蕨的变化范围之内，建议把百越凤尾蕨归并到傅氏凤尾蕨中。张良（2013）的研究结果与杨东梅（2011）一致。他发现，P.fauriei复合亚群在形羽片对数、侧生羽片与叶轴的角度、裂片的数目和轴刺的长短等特征上变异较大，而且这些特征都具有明显的过渡性。根据王佳玫等（2016）的发现，除了孢子体形态，百越凤尾蕨与傅氏凤尾蕨在孢子形态上区别甚微，本文建议把百越凤尾蕨作归并到傅氏凤尾蕨中，把 $P .$ fauriei var. chinensis Ching et S.H. Wu 作为 $P .$ fauriei Hieron 的异名处理。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2硕大凤尾蕨与傅氏凤尾蕨的关系",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "单个基因片段的MP树和BI树都表明，硕大凤尾蕨远离傅氏凤尾蕨复合群其它成员组成的那一大支，表明硕大凤尾蕨与傅氏凤尾蕨的关系较远。杨东梅（2011）发现其孢子形态多变，与傅氏凤尾蕨有一定的重叠，推测其可能是杂种起源，与傅氏凤尾蕨具有相同的祖先。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "王佳玫等（2016）通过扫描电镜发现，硕大凤尾蕨的孢子具有近极脊和远极脊，异于该复合群其它成员。因此，两者的亲缘关系还有待深入研究。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3线裂凤尾蕨与傅氏凤尾蕨的关系",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "叶绿体片段得到的MP树和BI树都表明，线裂凤尾蕨单独作为一支，与王佳玫等(2016)的结论一致。王佳玫等（2016）发现，线裂凤尾蕨的孢子形态稳定而且特殊，只有一种瘤刺状纹饰，能清晰地从傅氏凤尾蕨复合体其它成员中区分出来。因此，本文认为线裂凤尾蕨是一独立的种，与该复合群其它成员明显不同。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.4隆林凤尾蕨与傅氏凤尾蕨的关系",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "隆林凤尾蕨以裂片羽裂几乎达羽轴，羽轴上面有较多的长刺，裂片顶端有一短尖刺，裂片基部一对叶脉几以直角开展并与羽轴近平行而区别于傅氏凤尾蕨(秦仁昌、吴兆洪，1983)。在叶绿体片段得到的MP 树和BI树中，隆林凤尾蕨都较早分化出来，单独作为一支，与张良（2013）的研究结果一致。而且，隆林凤尾蕨的孢子形态多变，暗示其可能是杂种起源（王佳玫等，2016)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "CHANG YF,LI J，LU SG,et al，2013. Species diversity and reticulate evolution in the Asplenium normale complex (Aspleniaceae) in China and adjacent areas[J].Taxon, 62: 673-687.   \nCHAO YS,DONG SY, CHIANG YC,et al,2012a.Extreme multiple reticulate origins of the Pteris cadieri complex (Pteridaceae)[J].IntJ Mol Sci,13(4): 4523-4544.   \nCHAO YS,LIU HY,CHIANG YC, et al,2012b. Polyploidy and speciation in Pteris (Pteridaceae)[J]. Botany: 1-7.   \nCHAO YS,LIU HY,HUANG YM,et al, 2010.Reproductive traits of Pteris cadieri and $P .$ grevilleana in Taiwan: Implications for their hybrid origin[J]. Bot Stu,51(2): 209-216.   \nCHAO YS, ROUHAN G,AMOROSO VB, et al,2014. Molecular phylogeny and biogeography of the fern genus Pteris (Pteridaceae)[J].Ann Bot,114: 109-124   \nDAI XL，WANG QX，YU J，ZHU RL，2005.Spore morphology of Pteridophytesfrom China VI.Pteridaceae[J].Acta Bot Yunnan,27(5):489-500.[戴锡玲，王全喜，于晶，等,2005．中国蕨类植物孢子形 态的研究VI.凤尾蕨科[J]．云南植物研究,27(5):489-500.]   \nDING MY,20o6.Systematic study of fern and Pteridaceae and classification and revision of Pteridophyte[D]. GuangZhou.School ofLife Sciences,Sun Yat-sen University.[丁明艳,2006．蕨科与凤尾蕨科的系统学研究 及篦形凤尾蕨组的分类修订[D].广州：中山大学生命科学学院.]   \nGRANT V,1981. Plant Speciation[D]. New York, Columbia University Press.   \nHUANG YM,CHOU HM,HSIEH TH,et al，2006.Cryptic characteristics distinguish diploid and triploid varieties of Pteris fauriei (Pteridaceae)[J]. Can JBot, 84: 261-268.   \nHUANG YM,CHOU HM,WANG JC,et al,20O7.The distribution and habitatsof the Pteris faurieicomplex in Taiwan[J]. Taiwania,52(1): 49-58.   \nJARUWATTANAPHAN T, 2013. Biosystematic studies on the Pteris excelsa and $P .$ cretica complexes including multiple Cyto-reproductive Types[D]. Chiba.Ph.D thesis. Chiba University.   \nKATO M,NAKATON,CHENG X,et al,1992.Cytotaxonomic studyofferns of Yunnan,southwestern China[J]. J Plant Res,105:105-124.   \nKUO LY,LIFW,CHIOU WL,et al,2011.First insights into fern matK phylogeny[J]. Mol Phylogenet Evol,59: 556-566.   \nLI CX,LU SG, YANG Q,2O04.Phylogenetics of Pteris (Pteridaceae)from China based on the chloroplast trnL $F$ intergenic space sequences[J]. JGenet Mol Biol,15(1): 58-63.   \nPRYER KM,SCHUETTPELZ E,WOLFPG,et al,2004.Phylogeny and evolution of ferns (monilophytes)with a fous on the early leptosporangiatc divergenccs[J].Am JBot,291(10):1582-1589.   \nQIN RCH,WU ZHH,1983.The Chinese Pteris Plant[M] / South China Botanical Garden.Nstitute of South China Institute of Botany,Chinese Academy of Sciences.Beijing:1:1-16.[秦仁昌，吴兆洪，1983．我国凤尾蕨属植 物资料[M]//中国科学院华南植物研究所．中国科学院华南植物研究所集刊．北京：1:1-16.]   \nRIESEBERG LH, WILLIS JH, 2007. Plant speciation[J]. Science, 317(5840): 910-914.   \nSCHUETTPELZE,SCHNEIDER H, HUIETL,et al,2OO7. A molecular phylogeny of the fern family Pteridaceae: assessing overallrelationships and the afinities of previously unsampled genera[J]. Mol Phylogenet Evol,44: 1172-1185.   \nSHIEH WC,1994. Flora of Taiwan I. $2 ^ { \\mathrm { n d } }$ ed[M] // Editorial Commitee of the Flora of Taiwan. Taipei: Epoch Publishing Co. Ltd,206-233.   \nSHIEH WC, et al, 1975. Flora of Taiwan I. $1 ^ { \\mathrm { s t } }$ ed[M] //LIHL,LIU TS,HUANG TC. Taipei: Epoch Publishing Co. Ltd,281-301.   \nTABERLET P,GIELLY L., PAUTOU G, et al,1991..Universal primers for amplification of three non-coding regions of chloroplast DNA [J].Plant Mol Biol,17: 1105-1109.   \nTRYON RM,TRYON AF, KRAMER KU,1990.The familiesand genera of Vascular plants.Vol.1.[M] // KRAMER KU, GREEN PS.Pteridophytes and Gymnosperms .Berlin. Springer-Verlag: 230-256.   \nWANG JM,YANG DM,WANG AH,et al,2016. Morphological observation of the spores from Pteris fauriei complex by SEM[J].JTrop Biol,7(3):387-394.[王佳玫，杨东梅，王爱华，等，2016．傅氏凤尾蕨复合群孢 子形态的扫描电镜观察[J].热带生物学报,7(3):387-394.]   \nWENG RF,1985. Observation on chromosomes of some Chinese ferns[J]. JWuhan Bot Res,3:367-370.[翁若芬. 一些中国蕨类植物染色体的观察．武汉植物研究,1985.3:367-370.]   \nWU ZH,1990. Chinese Flora(Vol 3 Vol 1)[M] // QINRC, YAN GX.Beiing: Science Press:10-88.[吴兆洪.1990. 中国植物志(第三卷第一册)/秦仁昌，邢公侠．北京：科学出版社,1990:10-88.]   \nYANG DM,2011. Systematic studies of Pteris(Pteridaceae) in China [D]. GuangZhou. The Graduate School of the Chinese Academy of Sciences.[杨东梅．中国凤尾蕨属（凤尾蕨科）的系统分类学研究[D].广州．中 国科学院华南植物园.2011.]   \nZHANG KM, SHI L, ZHANG XC, et al, 208. Gametophyte morphology and development of six Chinese species of Pteris (Pteridaceae)[J].Am Fern J, 98(1): 33-41.   \nZHANG L,2013. Systematic Studies of Pteris L [D].ChengDu. Chengdu Institute of Biology of Chinese Academyof Sciences.[张良,2013．凤尾蕨属的分子系统学研究[D]．成都．中国科学院成都生物研究所.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

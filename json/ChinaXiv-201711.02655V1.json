@@ -1,0 +1,236 @@
+[
+    {
+        "type": "text",
+        "text": "抗菌肽改良设计及抗炎作用的研究进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨静，贾如涵，李文慧，石大林，邵明洋，韩跃武（兰州大学基础医学院，兰州730000）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[摘要]抗菌肽因其具有广谱抗菌活性、不容易引起抵抗性，被认为是先天免疫系统对抗微生物感染的多功能工具。然而，因大然抗菌肽存在抗菌活性低、稳定性低、溶血性高等问题，使其较难应用于临床，所以研究人员对抗菌肽进行改良设计以期获得更高抗菌活性、更低溶血活性的新型抗菌肽。另外，天然抗菌肽作为一类免疫效应因子而被发现，其表现出的抑菌、免疫调节、内毒素中和等作用，使得研究人员对抗菌肽在抗炎作用的研究表现出极大的兴趣。本文就抗菌肽的药物设计方法及抗炎作用机制进行了综述。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[关键词]：抗菌肽；优化设计；抗炎",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The development of optimized design and anti-inflammatory mechanisms of antimicrobial peptides ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(YANG Jing， JIA Ru-han,LI Wen-hui,SHI Da-lin， SHAO Ming-yang,HAN Yue-wu) (School of Basic Medical Sciences，Lanzhou University.LanZhou,730000) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Abstract]Because antimicrobial peptides have a broad spectrum of antimicrobial activity and are not easy to cause resistance,it are understood asbroad multifunctional tools of the innate immune system to fight microbial infections.However, the antimicrobial activity and stability of natural antimicrobial peptides is lower,and hemolytic activity of antimicrobial peptides is higher,resulting in more diffcultly applying to clinical trials.So reseachers optimize to design it to achieve the newly antimicrobial peptides of higher antimicrobial activity and lower hemolytic activity.ln addition，natural antimicrobial peptides are discovered as a class of immune effectors,resulting from antimicrobial activity，immunomodulatory activity and the ability of neutralizing endotoxin of antimicrobial peptides and so on.so reseachers are more interested in its anti-inflammatorydevelopment.the anticle review optimized design and anti-inflammatory mechanism of antimicrobial peptides. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Keyword]antimicrobial peptides; optimized design; anti-inflammatory ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "抗菌肽（AMP）在整个自然界是普遍存在的，而且在预防和对抗感染方面发挥着重要的作用。它们在昆虫和植物的免疫防御机制发挥着主要的作用，同时也是动物先天免疫应答的重要组成部分。人们对抗菌肽的研究始于20世纪70年代，起初是因昆虫缺乏淋巴细胞和免疫球蛋白吸引了许多的研究人员研究不同昆虫物种的免疫机制，而抗菌肽则是昆虫免疫体系的关键组份，它在机体的免疫系统中起重要作用，构成了低等动物机体快速有效的免疫机制。抗菌肽因其免疫调节的优势也被称为宿主防御肽，截至目前已有 2500 种具有免疫调节优势的肽被鉴定，它们虽具有多样化的一级结构和二级结构，但也有着一定的共同点。例如，它们含有过多的精氨酸和赖氨酸使其带有阳离子电荷，易与带负电的细胞膜结合；另外，在这些肽序列中存在大约 $5 0 \\%$ 疏水氨基酸，这使其进一步的裂解细胞膜[1]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "抗菌肽能够杀死多种微生物，包括细菌、酵母、寄生虫和病毒[2。现已建立了在线数据库作为抗菌肽的储存库，其中最广泛的是2004年成立的抗菌肽数据库（APD）作为天然 AMP的储存库，其已包括来自全部生物的 2600 多个AMP 的一级结构和二级结构[3，新的 AMP的报道仍在继续。目前，已有多种天然抗菌肽进入临床试验阶段，但因其稳定性性低、毒性大等问题，使其难于开发。现已通过合理的设计和计算生物学策略来优化AMP 的生物学功能，从而在保留 AMP 对靶细菌活性的同时消除对宿主细胞的不利影响[4]。降低 AMP 的生产成本也可以通过对抗菌肽的合理设计来实现，就是在不影响其生物功能的同时产生较短的初级结构[5]。另外，抗菌肽能够成为最有前景的新型抗生素是因其表现出的免疫调节活性，例如抑菌、诱导趋化因子和内毒素中和等作用。抗菌肽药物应用在抗炎方面的研究也进行的如火如茶。本文就抗菌肽的设计方法及其在抗炎方面的作用机制进行了综述。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1．抗菌肽的优化设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 点突变 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "点突变即对多肽序列某些位点的氨基酸进行替换，以期能够提高它的抗菌活性或降低溶血活性。多肽序列一级结构的改变使其二级结构发生改变，形成有利于破膜的两亲性螺旋结构。在以往的研究中，人们通常认为增加抗菌肽的阳离子电荷数可以增加其抗菌活性，这可能是由于抗菌肽与细菌细胞膜的结合是通过其所带的正电荷与细菌细胞膜磷脂上负电荷发生静电作用来实现的，所以增加抗菌肽的正电荷有利于其结合到细菌细胞膜上，便于与膜相互作用从而提高了抗菌活性。但这也不是一定的，天然抗菌肽chensinin-1并没有较好的生物活性的优势,其突变体 MC1-1是将母肽序列中的Gly用Trp 替换，其对部分菌的 MIC 值（最小抑菌浓度）有了明显的降低，同时其突变体MC1-3是在 MC1-1的基础上将多肽序列中的His 用 Arg 替代，其MIC 值对照于MC1-1而言没有降低反而升高。另外，理论上来说增加抗菌肽疏水氨基酸的比值能够增加其抗菌活性，抗菌肽分子的疏水端借助分子中连接结构的柔性插入到细菌细胞膜中，牵引整个分子进入质膜，扰乱了质膜上蛋白质和脂质原有的排列秩序，最终导致膜裂解而死亡。也有研究表明，特殊氨基酸的替换也能够增加其抗菌活性，例如，色氨酸残基能显著提升对革兰氏阴性菌的抗菌活性，例如蛋白IK-6 和Chensinin-1b的设计[7,8]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2抗菌肽杂合体",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "合成杂合肽主要有两种不同的方法：一种是连接不同类型的抗菌肽的部分序列，获得比亲本更高的抗菌活性及降低溶血性；另外一种是连接同种类型的抗菌肽序列，以改善抗菌活性及减少细胞毒性。例如，已有研究人员利用cecropin A和cecropin B的1-7位氨基酸序列分别与 Melittin的4-11位氨基酸序列连接形成两种不同的杂合肽CAM和CBM，CAM和CBM不仅保留了两种抗菌肽的特征，而且还降低了抗菌肽的溶血活性[9]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3纳米靶向运输抗菌肽",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "靶向运输抗菌肽较常见的就是利用纳米材料作为药物载体，靶向性的结合到肿瘤或受损组织而释放负载药物，在肿瘤或其他疾病的诊断和治疗中发挥重要的作用[10]（前列腺癌，南京大学，参考文献8)。纳米粒子的靶向性分为被动靶向和主动靶向，被动靶向是依靠 EPR效应（“增强渗透与潴留效应\"）使得肿瘤组织的药物浓度远远高于正常组织；主动靶向是在纳米粒子上装载有靶向配体，靶向结合到特异组织或细胞表面的抗原，减少非特异性分布。靶向配体包括抗体、多肽、核酸适体、小分子等。纳米靶向运输抗菌肽能够减小其对宿主的不利影响，同时还能够提高抗菌活性，例如，研究人员利用 DP 结构（自组装 DNA 纳米锥体)作为支架，向其加入靶向探测和治疗部分，其中GSH-AuNC（谷胱甘肽金纳米簇）作为靶向探测部分，AMD（放线菌素D）作为治疗试剂，最终组装成 DPAu/AMD。DP 结构被细菌细胞内大量的 DNaseI降解释放出 AMD 杀死感染细菌，结果表明这样的结构比游离的AMD 更有利于杀死感染细菌[1]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4新型自组装纳米抗菌肽 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "新型自组装纳米抗菌肽就在于多肽分子的自组装而形成纳米结构。分子自组装的关键因素是分子间通过非共价键相互作用的化学互补性和结构兼容性。只要肽分子之间或其中某一片段与另一片段之间存在非共价键相互协同作用力，而且肽分子能够在空间尺寸和方向上实现重排和堆积的导向作用，就能产生肽分子的自组装。在多肽自组装研究中，新型自组装抗菌肽通过自组装形成的纳米材料由于具有广谱的抗菌活性、不易导致细菌耐药性，有望替代传统抗生素作为一种新型的抗菌剂，因此，它在抗菌药物开发方面有着巨大的发展前景[12,13]。由天然氨基酸（L-型）组成的自组装多肽的细胞毒性低，降解性可控，运载效率及细胞摄取率高，同时还具有降低药物毒副作用等优点。抗菌肽的自组装对于其抗菌或抗癌活性也是非常重要的。2012年，Chen 等对自组装纳米多肽PTP-7b 的细胞溶解机制进行了研究，指出了多肽自组装的重要性：肽的自组装对于它的抗菌或抗癌治疗活性的重要性并不亚于其带电性和二级结构[14]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2．抗菌肽的抗炎作用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "抗菌肽具有先天免疫的作用，并且因其具有抗细菌、病毒的活性而保护宿主。作用模式主要是抗菌肽所带的正电荷与带负电荷的细胞膜发生静电作用而结合在一起，通过插入外膜的疏水核、破坏细菌膜而影响膜的通透性以及膜相关酶活性，最终导致细胞死亡。抗菌肽对炎症的调节是多方面的，主要通过抑制生物性致炎因子的生长、调节炎症相关信号通路、免疫调节活性、直接中和LPS（脂多糖）抑制炎症。如：抗菌肽α-防御素和β-防御素对包膜病毒和非包膜病毒都具有抗病毒活性，多种病毒都对防御素敏感反映出防御素的多种抗病毒机制，比如防御素的直接靶标就有包膜、糖蛋白、衣壳，另外其还能够抑制病毒融合和进入后被中和[15]。防御素还可以通过结合和调节宿主细胞表面受体以及破坏胞内信号的传导来抑制病毒的复制[16]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1抑制生物性致炎因子的生长",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由细菌、病毒、真菌、支原体和寄生虫等生物性致炎因子引起的炎症，是最常见和最重要的一类炎症。抗菌肽作为先天免疫的第一道防线，对细菌、酵母菌、病毒有着强有力的抗菌活性，抗菌肽对这些生物性致炎因子的抗菌作用机制主要是与细胞膜的相互作用。抗菌肽与膜的作用模式最初是通过静电相互作用，使得抗菌肽吸附在带有负电荷的细胞膜上，大多数的抗菌肽通过外膜的疏水核心及扰乱细菌膜而影响了膜的通透性和膜相关酶蛋白，最终致使细胞死亡]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "另外，抗菌肽还能够通过抑制细菌、真菌和原生动物的菌落表面生物被膜的形成与降解生物被膜的能力，来表现其抗菌活性从而实现抗炎作用。生物被膜是微生物的一种保护模式，生物被膜的存在使得微生物的耐药性增加。美国国立卫生研究院的研究中，发现约 $8 0 \\%$ 的慢性感染疾病与生物被膜的形成相关[18]。这是因为细菌生物被膜对抗生素的耐受性增加，以及对吞噬作用和防御系统其他机制抵抗力的增加等都是导致慢性感染的原因[9]。例如，与异物相关的葡萄球菌感染的持续性是由于生物被膜的形成；还有肺囊性纤维化患者由铜绿假单胞菌引起的慢性肺部感染也是因为粘液样菌株生物被膜的形成引起的[20（biofilm)。已有研究证明人来源的抗菌肽LL-37会被口腔中的牙龈卟啉单胞菌形成的菌斑周围的生物被膜Biofilm 降解，从而失去抗菌活性，说明细菌 Biofilm在一定程度上能够保证菌群不受伤害[21]。虽然细菌生物被膜使得细菌更难以被抑制和杀死，有Yang Liu等人研究发现，一系列β类肽对浮游的细菌有生物活性的同时，还对细菌生物被膜 Biofilm有分解的作用[22]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "抗菌肽能够消灭广谱的细菌、酵母菌、寄生虫及病毒等生物性致炎因子，减轻其对机体的损伤，抑制其在机体内释放炎症因子，抑制炎症发生的过程或减轻炎症的症状。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2调节炎症的相关通路",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Toll样受体（TLRs）、丝裂原活化蛋白激酶途径（MAPK）和核转录因子信号转导途径（NF-k B）是细胞内三条重要的信号通路，在炎症转导调控中具有重要意义。表皮内存在的角质形成细胞，作为皮肤的物理屏障，可以通过不同的机制来识别微生物中的保守结构成分以便于启动先天免疫应答。这些细胞可以表达PRRs（模式识别受体)，例如 Toll样受体1、2、6,它们能够识别细菌脂肽（肽聚糖、脂磷壁酸和和 NOD2-样受体鉴定胞壁酰二肽）[23]。PRRs能够引发细胞内信号传导的级联，导致促炎细胞因子和趋化因子的表达，其随后促进嗜中性粒细胞的募集。例如，在应对早期感染快速的宿主响应和适应性免疫的激活和调节，人类抗菌肽α-防御素1、2，β-防御素2、3和LL-37的表达是在同等水平的。另外，MAPK 和 NF-k B位于TLR下游信号的枢纽位置，广泛分布于免疫细胞，当细胞受到应激刺激后，抗菌肽通过炎症相关信号通路和转录因子，调节炎性细胞因子 TNF-α、IL-6、IL-8、IL-12 等基因的转录、表达和分泌，从而对炎症反应进行调控，发挥抗炎作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3免疫调节活性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "免疫调节活性，即当微生物经过物理和化学屏障入侵宿主时，通过识别和消除病原微生物直接发起免疫响应。在感染最初的几个小时到发病，先天免疫系统是宿主防御的主力，其依赖于可溶性组分和效应细胞去控制感染。抗菌肽一个主要的免疫调节活性是它可以通过促进白细胞表达趋化因子刺激细胞募集[24]，白细胞是先天免疫的主要组分，且能够通过 PRRs吞噬和消除病原微生物。另外，部分抗菌肽和一些趋化因子有高的相似性，这些抗菌肽大多是两亲性阳离子肽，所以AMP在足够高的浓度下就可以直接表现出趋化因子活性。一些AMP还能够通过促进重组金属蛋白酶和上皮细胞代谢的产生以及上皮和角质形成细胞的迁移表现出伤口愈合的能力[25]。抗菌肽还可以促进巨噬细胞和树突状细胞分化，导致免疫应答极化包括适应性免疫的激活[26]。例如，12个氨基酸先天防御调节蛋白IDR-1018 有着优化的广谱免疫调节活性，其保护大量动物模型并具有优良的抗菌膜活性[27]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4通过中和LPS（脂多糖）抑制炎症",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "截至目前，在免疫系统中抗菌肽的功能研究最多的特征机制是这些蛋白质分子中和革兰氏阴性菌外膜内毒素LPS 的能力。在细菌死亡或分裂期间，内毒素被释放在血液中。这些流动的分子可以被 LBP（LPS 结合蛋白）识别，同时在少量LPS 聚集的情况下，还负责刺激单核细胞。在低浓度的情况下，LBP 结合LPS，将 LPS 转让给CD14（LPS 的受体)，促使单核细胞的激活[28]。LBP 中和能力的另一特征就是将磷脂转移给 LPS 聚集体和将 LPS 转移给磷脂膜。因此，LBP 被认为是脂转移蛋白。事实上，LBP 可以将LPS 转移给高密度和低密度脂蛋白，在一定条件下减轻刺激作用。而感染引起的体内紊乱，由宿主免疫系统恢复其平衡的基本策略是基于 LBP 和 CD14 对内毒素的解毒和中和。其中一个机制就是 AMPs 能够中和内毒素分子，覆盖LPS 对CD14和LBP的识别位点，因此防止了ToII样受体4（TLR4）促炎基因的表达[29]。因此，几种 AMP作为先天免疫系统的清除剂。例如，防御素的一些作用：（1）可以与 LPS 反应，中和LPS，阻碍了与CD14 的结合；（2）离散 LPS,降低了与 LBP 结合亲和力。（3)清除了单核细胞和巨噬样细胞表面的 LPS，抑制了前炎性因子的产生[30]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以上所讲的抗菌肽的抗炎作用表明，抗菌肽不仅通过直接杀死病原微生物发挥抗炎作用而且在调节和平衡先天免疫系统的响应也起到至关重要的作用。倘若合成的抗菌肽分子表现出免疫调节的活性，对于我们更好的理解先天免疫系统是有决定性意义的，并且有助于设计治疗感染和炎症过程的新型抗菌肽。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3．小结 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "抗生素发现的“黄金时代”已经过去，而耐药菌的出现和抗生素日益减少的供应使得研发新型抗生素迫不及待。对于即将到来的健康危机，抗菌肽是最为理想的解决方案，所以引导了越来越多的研究小组研究和理解这些蛋白是如何发挥其抗菌活性和免疫调节活性的。现已利用抗菌肽的这些功能开发出少数肽在进行临床实验评估。虽然天然的AMP 尚未取代市场上最有效的抗生素，但在AMP 研究领域已经取得了显着进展，尤其是在鉴定新肽序列、评估其抗感染的潜力方面。随着研究的不断深入，抗菌肽势必成为一代新的抗生物造福于人类。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[参考文献] ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] De 1 F C, Silva O N, Lu T K, et al. Antimicrobial Peptides: Role in Human Disease and Potential as Immunotherapies.[J]. Pharmacology & Therapeutics, 2017.   \n[2] Silva O.N., de la Fuente-Nunez C., Haney E. F., et al. An anti-infective synthetic peptide with dual antimicrobial and immunomodulatory activities[J]. Sci Rep.2016,6 (11):35465.   \n[3]Wang G, Li X, Wang Z. APD3: the antimicrobial peptide database as a tool for research and education[J]. Nucleic Acids Research, 2016, 44(Database issue):D1087-D1093.   \n[4]Fjell C D, Hiss JA, Hancock R E, et al. Designing antimicrobial peptides: form follows function[J]. Nature Reviews Drug Discovery, 2011, 11(1):37.   \n[5]Deslouches B, Steckbeck JD,Craigo JK, et al. Rational Design of Engineered Cationic Antimicrobial Peptides Consisting Exclusively of Arginine and Tryptophan，and Their Activity against Multidrug-Resistant Pathogens[J]. Antimicrobial Agents & Chemotherapy, 2013, 57(6):2511.   \n[6] Dong W, Mao X, Yue G,et al. Antimicrobial and anti-inflammatory activities of three chensinin-1 peptides containing mutation of glycine and histidine residues[J]. Scientific Reports,2017, 7:40228.   \n[7] Sun Y, Dong W, Sun L,et al. Insights into the membrane interaction mechanism and antibacterial properties of chensinin-1b[J]. Biomaterials,2015,37:299-311.   \n[8] Bi X, Wang C, Dong W, et al. Antimicrobial properties and interaction of two Trp-substituted cationic antimicrobial peptides with a lipid bilayer.[J]. Journal of Antibiotics,2014, 67(5):361-8.   \n[9] Cao Y, Yu R Q,Liu Y,et al. Design, recombinant expression,and antibacterial activity of the cecropins-melitinhybridantimicrobialpeptides.[J]. CurrentMicrobiology，2010, 61(3):169-175.   \n[10] Kateb B, Chiu K, Black K L,et al. Nanoplatforms for constructing new approaches to cancer treatment, imaging, and drug delivery: What should be the policy?[J]. Neuroimage, 2011, 54 Suppl 1(1):S106.   \n[11] Setyawati M I, Kutty R V, Tay C Y, et al. Novel theranostic DNA nanoscaffolds for the simultaneous detection and killing of Escherichia coli and Staphylococcus aureus.[J]. Acs Applied Materials & Interfaces,2014, 6(24):21822-21831.   \n[12] Anayalópez J L，Lópezmeza J E，Ochoazarzosa A. Bacterial resistance to cationic antimicrobial peptides[J]. Critical Reviews in Microbiology,2013,39(2):180.   \n[13] Lee J K, Park Y J, Kum K Y, et al. Antimicrobial efficacy of a human $\\beta$ -defensin-3 peptide using an Enterococcus faecalis dentine infection model.[J]. International Endodontic Journal, 2013, 46(5):406.   \n[14] Chen L, Patrone N,Liang JF. Peptide Self-Assembly on Cell Membranes to Induce Cell Lysis[J]. Biomacromolecules, 2012, 13(10):3327.   \n[15] Hazlett L，Wu M.Defensins in innate immunity.[J].Cell & Tissue Research，2011, 343(1):175-88.   \n[16] Demirkhanyan L, Marin M, Lu W, et al. Sub-inhibitory concentrations of human $\\mathfrak { a }$ -defensin potentiate neutralizing antibodies against HIV-1 gp41 pre-hairpin intermediates in the presence of serum.[J]. Plos Pathogens, 2013, 9(6):e1003431.   \n[17] Li Y, Xiang Q, Zhang Q, et al. Overview on the recent study of antimicrobial peptides: origins, functions, relative mechanisms and application[J]. Peptides, 2012, 37(2):207.   \n[18] Park S C，Park Y，Hahm K S. The Role of Antimicrobial Peptides in Preventing Multidrug-Resistant Bacterial Infections and Biofilm Formation[J]. International Journal of Molecular Sciences, 2011, 12(9):5971-5992.   \n[19] Gordya N, Yakovlev A, Kruglikova A, et al. Natural antimicrobial peptide complexes in the fighting of antibiotic resistant biofilms: Calliphora vicina medicinal maggots[J]. Plos One, 2017, 12(3):e0173559.   \n[20] Butt A,Khan A. Antibiotics Resistance of Bacterial Biofilms[J]. Middle East Journal of Business,2015, 10:38-45.   \n[21] Ji S, Kim Y,Min B M, et al. Innate immune responses of gingival epithelial cells to nonperiodontopathic and periodontopathic bacteria.[J]. Journal of Periodontal Research, 2010, 42(6):503-510.   \n[22] Liu Y, Knapp K M, Yang L, et al. High in vitro antimicrobial activity of $\\beta$ -peptoid-peptide hybrid oligomers against planktonic and biofilm cultures of Staphylococcus epidermidis[J]. International Journal of Antimicrobial Agents,2013,41(1):20.   \n[23] Krishna S, Millr L S. Innate and adaptive immune responses against Staphylococcus aureus skin infections[J]. Seminars in Immunopathology,2012,34(2):261.   \n[24] Haney E F, Mansour S C， Hancock R E W. Antimicrobial Peptides: An Introduction[M].Antimicrobial Peptides. Springer New York, 2017.   \n[25] Steinstraesser L, Hirsch T, Schulte M, et al. Innate defense regulator peptide 1018 in wound healing and wound infection[J]. Plos One, 2012, 7(8):e39373.   \n[26] Am V D D, Joosten S A, Vroomans E,et al. The antimicrobial peptide hLF1-11 drives monocyte-dendritic cell differentiation toward dendritic cells that promote antifungal responses and enhance Th17 polarization[J]. Journal of Innate Immunity, 2012, 4(3):284.   \n[27] Mansour S C， Pena O M， Hancock R E. Host defense peptides: front-line immunomodulators.[J]. Trends in Immunology,2014, 35(9):443.   \n[28] Mares J, Kumaran S,Gobbo M, et al. Interactions of Lipopolysaccharide and Polymyxin Studied by NMR, Spectroscopy[J]. Journal of Biological Chemistry, 2009, 284(17):11498.   \n[29] De Yang, Arya Biragyn, David M. Hoover, et al. Multiple Roles of Antimicrobial Defensins, Cathelicidins,and Eosinophil-Derived Neurotoxin in Host Defense[J].Annual Review of Immunology, 2004, 22(1):181.   \n[30] Pulido D, Nogués M V, Boix E,et al. Lipopolysaccharide Neutralization by Antimicrobial Peptides: A Gambit in the Innate Host Defense Strategy[J]. Journal of Innate Immunity, 2012, 4(4):327-336. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,634 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201608101640 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孙才志，张智雄.中国水生态足迹广度、深度评价及空间格局.生态学报,2017,37(21)：7048-7060.SunCZZaoftdc",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中国水生态足迹广度、深度评价及空间格局",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孙才志1,2,\\*,张智雄1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1辽宁师范大学城市与环境学院，大连116029  \n2辽宁师范大学海洋经济与可持续发展研究中心，大连116029",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要;运用生态足迹方法对水资源进行流量资本和存量资本区分,测算分析了中国31个省市1997—2014年的水生态足迹广度与深度。结果显示： $\\textcircled{1}$ 中国的水生态足迹广度受年际水资源量丰枯影响，总体呈波动趋势;各省市的水生态足迹广度存在着明显差异,南方地区水生态足迹广度普遍大于北方地区; $\\textcircled{2}$ 研究期内,中国的水生态足迹深度只有1998 年为1,其余年份的水资源流量资本已不能满足人类生产生活的需求,需要消耗水资源存量资本;各省市之间水生态足迹深度相差较大,整体上北方高南方低,其中14个省份18年的平均水生态足迹深度为1,平均水生态足迹深度最高的地区是宁夏的308.12； $\\textcircled{3}$ 运用空间自相关方法对31个省市的水生态足迹广度和深度进行分析得出,中国省际水生态足迹广度与深度均存在明显的空间集聚现象。水生态足迹广度H-H集聚地区主要集中在中国南方地区,水生态足迹深度H-H集聚地区主要集中在中国北方地区。通过对全国水生态足迹广度与深度的测度分析为水生态足迹分析提供新的研究方法,同时也为区域水资源可持续利用提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：水生态足迹广度；水生态足迹深度；空间格局",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Assessment of water ecological footprint size, depth， and spatial pattern in China SUN Caizhi1.2,\\*,ZHANG Zhixiong1 A ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 College of Urban and Environment,Liaoning Normal University,Dalian116O29,China   \n2 Center forStudiesof Marine Economyand SustainableDevelopment,Liaoning Normal University，Dalian116029,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Water isan importantresourceforour lifeand production，andthedevelopmentof human beings and societyare closely related.Theaccelerating growth in water consumption and exploration is creating serious water scarcityproblems in China.Ecological economist William Rees first formally presented theconceptof theEcologicalFootprint inthe1990s.With thedevelopmentof this research，scholarsatempt to introduce newmethodsor indicators toimproveresearch methods into theecological fotprint.Inparticular，Niccolucci and Wackernagel putforwardtwo indicatorsofa3Dmodelfootprintdepth and size,andthemodel isa temporal-spatialapproach that moreclearlyexplainsthediferences between human demand for natural capitalflowsand stocks.Thewater ecological fooprintwasderived fromtheecological footprintconcept，and represents theamountof waterresources productivelandareasstillneed,intermsofathewaterresourcesaccount.Inthis paper，weappliedfotprint size anddepth to thesustainableuseof water resources.Using theecological fotprint method to distinguish betwenflowandthe stockof waterresources，this methodwasusedtoanalyze water ecological fooprintsize and depth among 31 provinces in China during the period from1997 to 2014.The results showed the folowing three points:1) Thedepth of the water ecological fooprint was afected bywater resource quantity change betweencontinuous high flow yearsandlowflow years.They exhibitafluctuating trendin the interior nationwide,andthe water ecological fotprint sizeof diferent provinces differwith footprintsizehigher inthesouth than inthenorth.2）During 997—2014，the water ecological footprintdepth was1in1998,and inotheryearsflowcapitalcouldnot meetpeople'sneeds，andanincreasein thestockcapitalof waterwas needed.Thewaterecological footprintdepth exhibitedalargediference betweencountries, but it wasobvious that itwas lower inthe south thanin thenorth.Among these,theaverage sizeof the waterecological footprint was1in theother14provincesandthislastedfor18years，andicluded Zhejiang，Fujian，Jiangxi，Hubei, Hunan，Guangdong，Guangxi,Hainan,Chongqing，Sichuan,Guizhou，Yunnan,Xizang，and Qinghai,withthehighestof in Ningxia，being 308.12.3）Weanalyzed thewater ecological fotprint sizefor31provincesusing theglobal spatial autocorelationmethod.InChina，thewaterecological fooprintsizeanddepth existedasanobviousspatialagglomeration spatialclusterfeature.ThewaterecologicalfootprintsizehadaH-H（high-high）correlation inprovincesmainly insouthern China,and inL-L（low-low）corelationprovinces inthe northof China.The water ecological footprint depth was in H-H corelation inprovinces mainly inthenorthof China,andinL-Lcorrelation mainlyinthesouthof China.Thisprovideda new method toanalyze the water ecological footprint throughanalyzing the water ecological fotprint sizeand depth，andat the same time,it provided a theoretical basis for regional sustainable utilization of water resources. > ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words:water ecological footprint size；water ecological footprint depth；spatial pattern ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中国是一个严重缺水国家,人均水资源量仅为世界平均水平的 $1 / 4 ^ { [ 1 ] }$ ,水资源时空分布不均,客观上加剧了中国水资源短缺现象。随着中国经济社会的快速发展,用水量逐年增加,水资源短缺和水资源过度消耗已经成为中国水资源利用面临的主要问题。对当前经济社会状态下水资源的占用情况和水资源消耗程度的测度，可以为中国水资源可持续利用提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "20 世纪90 年代加拿大生态经济学家Willam Rees 提出了“生态足迹（Ecological Foot-print)”理论[2-3],该方法基于土地的生物生产功能,用面积大小的方式直观地反映人类废物排放和资源消费过程中对生态环境的占用程度[4]。随着研究的深人，国外学者尝试引人新的方法或指标对生态足迹研究方法加以改进和完善。其中,2009 年 Niccolucci和 Wackernagel 等将\"生态足迹\"与“生态承载力”相结合进行研究测算,提出两个新指标,即生态足迹广度和生态足迹深度,分别来表示人类活动对于自然资源的流量资本占用水平和对存量资本的消耗程度,将生态足迹的研究向纵深扩展[4]。在国内,方恺[46]以中国为实例,测度分析了中国的生态足迹广度与深度,推动了该研究方向在中国的发展。由生态足迹衍生出的水生态足迹和水足迹（WaterFootprint)[2.7-9]是目前采用生态足迹法研究水资源的两个方向。近年来,国内学者使用生态足迹方法研究水资源主要集中在对国家或地区水足迹[10-12]和产品水足迹[13]方面的计算与分析,黄林楠等[14]提出了水资源生态足迹和水资源生态承载力的计算算法;孙才志等[15.16]测度了中国的水足迹和灰水足迹,赵良仕等[1,17-18]运用空间计量的方法分析了中国省际水足迹强度的收敛关系。传统的水足迹方法主要用于对当前社会生产水平下所消费的水资源量的测度,不能客观的反映社会用水对于当前水资源量的真实消耗情况,而将水生态足迹与水生态承载力结合的方法可以较好的表征水资源资本消耗情况,这也为水资源可持续利用的研究提供了新的方法和途径。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "水资源是一种可再生资源。根据生态经济学家Daly[19]提出的可持续发展需要遵循的基本准则中,可再生资源的占用速度不应快于其再生速度,不可再生资源的消耗速度不应快于相应可再生资源的替代速度。即使资本流量被完全占用,仍符合可持续发展的最低限度。Daly准则的关键,在于如何追踪被人类利用的自然资本存量和流量[4]。基于此,本文参照这一准则,以中国31个省(直辖市、自治区)为研究对象(以下简称“省市\"),对水资源流量资本和存量资本进行区分,将水足迹、水生态足迹与水生态承载力研究相结合,引人水生态足迹广度与水生态足迹深度测算方法,分别反映人类活动对水资源流量资本的占用水平和对存量资本消耗程度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究方法及数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1 水生态足迹 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "水生态足迹的测算方法是将消耗的水资源量转化为相应的产水面积,根据之前研究文献[14]得出的均衡",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "值,得出研究区域消耗的水资源量所需要的产水面积,即水生态足迹。参照文献[15]计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ E F } _ { \\mathrm { w } } = { E F } _ { \\mathrm { w r } } + { E F } _ { \\mathrm { w q } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， ${ E F } _ { \\mathrm { w } }$ 为区域水足迹生态， $E F _ { \\mathrm { w r } }$ 为区域水量生态足迹， ${ E F } _ { \\mathrm { w q } }$ 为区域水质生态足迹。其中，水量生态足迹计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE F _ { \\mathrm { { w r } } } = P \\times e f _ { \\mathrm { { w r } } } = \\gamma \\times ( W F / w )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $P$ 为区域人口数量, $e f _ { \\mathrm { w r } }$ 为区域人均水生态足迹， $\\gamma$ 为全球水资源均衡因子, $\\boldsymbol { \\mathcal { W } } \\boldsymbol { F }$ 为区域水足迹, $w$ 为水资源世界平均生产能力。区域水足迹 $\\boldsymbol { W } \\boldsymbol { F }$ 的计算方法采用之前对水足迹的研究文献[15]中的计算方法,本文中测算水量生态足迹所采用的水足迹主要包括城乡居民消费的农畜产品水足迹、工业产品水足迹、生活用水足迹以及生态水足迹,文献[15]中的水污染足迹将作单独测算,不计入水量生态足迹的测算范围。参照黄林楠和世界自然基金会（World Wide Fund for Nature or World Wildlife Fund,WWF)的计算结果[7],取全球水资源均衡因子 $\\gamma$ 为5.19,取水资源世界平均产生能力 $w$ 为 $3 1 4 0 \\mathrm { m } ^ { 3 } / \\mathrm { h m } ^ { 2 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为有效核算污染物对水生态足迹的影响,本文将核算化学需氧量(COD)和氨氮( $\\mathrm { N H } _ { 3 }$ )排放量作为水生态足迹中水质生态足迹子账户，以此来分析污染物排放浓度对水生态足迹的影响。测度模型为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE F _ { _ { w q } } = \\gamma \\times \\operatorname* { m a x } \\left[ E F _ { \\mathrm { { c o n } } } , E F _ { \\mathrm { { N H _ { 3 } } } } \\right] = \\gamma \\times \\operatorname* { m a x } \\bigl [ \\frac { L _ { \\mathrm { { c o p } } } } { C _ { \\mathrm { { c o n } } } } , \\frac { L _ { \\mathrm { { N H _ { 3 } } } } } { C _ { \\mathrm { { N H _ { 3 } } } } } \\bigr ] / w\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $E F _ { \\mathrm { c o D } }$ 代表COD 水生态足迹； $E F _ { \\mathrm { N H _ { 3 } } }$ 代表 $\\mathrm { N H } _ { 3 }$ 水生态足迹； $L _ { \\mathrm { C O D } }$ 代表区域内社会工业、农业、生活过程中COD 的排放量； $L _ { \\mathrm { N H } _ { 3 } }$ 代表区域内社会工业、农业、生活过程中氨氮的排放量; $C _ { \\mathrm { c o D } }$ 代表国内单位面积水域COD排放达标浓度; $C _ { \\mathrm { N H } _ { 3 } }$ 代表国内单位面积水域氨氮的排放达标浓度。本文中COD 和氨氮的核算方法采用之前的研究文献[16]的核算方法，污染物浓度达标排放标准采用《污水综合排放标准》（GB8978—1996)中二级排放标准,COD 和氨氮的排放达标浓度分别为 $1 2 0 . 2 5 ~ \\mathrm { m g / L _ { \\odot } }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.2 水生态承载力",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于生态足迹模型的水资源承载力兼具自然属性以及空间属性,可将其定义为:某一区域在某一具体历史发展阶段,水资源最大供给量可供支持该区域资源、环境和社会(生态、生产和生活)可持续发展的能力[14],强调满足生态需求的情况下,区域产水能力所能供给的最大的土地面积。本文根据生态承载力理论，参照文献[14,20]采用如下水生态承载力计算公式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE C _ { \\nu } = 0 . 4 \\times \\varphi \\times \\gamma \\times ( Q / w )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varphi = { \\frac { W M } { w } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $E C _ { w }$ 为区域水生态承载力， $\\varphi$ 为区域水资源产量因子， $Q$ 为区域水资源总量,WM为区域产水模数( $\\mathbf { m } ^ { 3 } /$ （20 $\\mathrm { { h m } } ^ { 2 }$ )。据之前研究文献[3.14,20],一个国家或地区的水资源开发率若超过 $3 0 \\% - 4 0 \\%$ 将引起生态环境恶化,水资源量中需预留 $6 0 \\%$ 水量以维护生态环境,故取水资源可利用系数为0.4。水资源产量因子是各区域单位面积产水能力与水资源世界平均生产能力的比值。由于年际水资源量丰枯也会导致区域水资源产量因子波动。为了保证研究结果客观准确,本文选取研究期内各省市多年平均产水模数,根据公式(5)测算得到全国以及各省市多年平均的水资源产量因子（表1）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.3水生态足迹广度与深度",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "生态系统可以提供的自然资源和生态服务统称为自然资本,根据其属性,可分为存量和流量资本两部分[6,21]。人类对自然资本流量的占用水平称为足迹广度[5,6]。水生态足迹广度代表了人类社会发展对水资源流量资本的占用情况。结合Hicks经济学理论角度来看，财富总量并不会随资本流动而减小，自然资本的流动意味着生态发展的可持续[22]。生物圈可提供的自然资本流量的上限为生物承载力[4],所以水生态承载力水平是水资源可提供的流量资本的上限,根据生态足迹研究文献[46],推导出水生态足迹广度计算公式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { E F _ { _ { W S } } = \\operatorname* { m i n } [ E F _ { _ { W } } , E C _ { _ W } ] } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 < E F _ { \\scriptscriptstyle  { W } } \\leqslant E C _ { \\scriptscriptstyle  { W } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， ${ E F } _ { \\mathrm { w s } }$ 为区域水生态足迹广度，公式(7)为水生态足迹广度的取值范围。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0cafd3d6dc2285933a5a72015cb001235fd07b5ffe98cd14e55271ab95549460.jpg",
+        "table_caption": [
+            "表1中国各省市1997—2014年水资源产量因子",
+            "Table 1The Yield Factor for water resources of all provinces in China from 1997 to 2014 "
+        ],
+        "table_footnote": [
+            "由于资料和数据限制，本文全部数据中的全国数据尚未统计到中国港澳台地区数据"
+        ],
+        "table_body": "<html><body><table><tr><td>地区 Region</td><td>产量因子 Yield factor</td><td>地区 Region</td><td>产量因子 Yield factor</td><td>地区 Region</td><td>产量因子 Yield factor</td><td>地区 Region</td><td>产量因子 Yield factor</td></tr><tr><td>全国 National total</td><td>0.92</td><td>黑龙江</td><td>0.59</td><td>河南</td><td>0.75</td><td>贵州</td><td>1.81</td></tr><tr><td>北京</td><td>0.45</td><td>上海</td><td>1.78</td><td>湖北</td><td>1.64</td><td>云南</td><td>1.68</td></tr><tr><td>天津</td><td>0.31</td><td>江苏</td><td>1.22</td><td>湖南</td><td>2.68</td><td>西藏</td><td>1.18</td></tr><tr><td>河北</td><td>0.24</td><td>浙江</td><td>3.08</td><td>广东</td><td>3.31</td><td>陕西</td><td>0.57</td></tr><tr><td>山西</td><td>0.19</td><td>安徽</td><td>1.60</td><td>广西</td><td>2.59</td><td>甘肃</td><td>0.17</td></tr><tr><td>内蒙古</td><td>0.13</td><td>福建</td><td>3.13</td><td>海南</td><td>3.45</td><td>青海</td><td>0.30</td></tr><tr><td>辽宁</td><td>0.64</td><td>江西</td><td>3.07</td><td>重庆</td><td>2.07</td><td>宁夏</td><td>0.06</td></tr><tr><td>吉林</td><td>0.71</td><td>山东</td><td>0.59</td><td>四川</td><td>1.63</td><td>新疆</td><td>0.18</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "人类对自然资本存量的消耗程度用足迹的深度来表示[]。水生态足迹深度代表了人类社会经济发展消耗的水量对水资源存量资本的消耗程度。参照生态足迹深度研究文献[4推导出水生态足迹深度测算公式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE F _ { _ { w d } } = 1 + \\frac { \\operatorname* { m a x } \\bigl [ E F _ { _ { W } } - E C _ { _ { W } } , 0 \\bigr ] } { \\mathrm { E C W } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $E F _ { w d }$ 为区域水生态足迹深度。进一步分析,水生态足迹深度分为自然深度和附加深度两部分[6]。即：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE F _ { { _ w d } } { = } E F _ { { _ w d } } ^ { N } { + } E F _ { { _ w d } } ^ { A }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $E F _ { w d } ^ { N }$ 为区域水生态足迹自然深度,参照方恺[4]对生态足迹深度的研究,本研究中取水生态足迹自然深度值恒为1, $E F _ { w d } ^ { A }$ 为区域水生态足迹的附加深度。由公式(8）、（9)可知， $E F _ { w d } \\gtrsim 1$ 。其中,当 $E F _ { w } \\leqslant E C _ { w }$ 时,表明该区域仅有自然深度,该区域的水资源流量资本可以满足自身发展的需求,故 ${ E F } _ { w d } = 1$ ;而当 $E F _ { w } { > } E C _ { w }$ 时，该区域的水资源流量资本已经无法满足人类的需求,需要动用存量资本，故 $E F _ { w d } > 1$ 。流量资本维持着年际可再生资源流及其生态服务的供给,在其不足时,存量资本将作为补充而被消耗[23]。区域的 $E F _ { w d }$ 越大,表明该区域消耗的水资源存量资本越多,发展越不可持续。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据来源",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文选取中国31个省(市、自治区)作为研究区域,选取1997—2014年的统计数据,以及国内外的研究文献[14]。数据来源:《中国统计年鉴》、《中国水资源公报》、《中国环境统计年鉴》、《中国农村统计年鉴》、《中国畜牧业年鉴》以及各省市统计年鉴、水资源公报等。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1水生态足迹 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据公式(1—3)测算得出1997—2014年中国的水量生态足迹、水质生态足迹、水生态足迹以及各省市的水生态足迹(表2)。结果显示,研究期内中国的水生态足迹的整体趋势与水量生态足迹大致相同,总体上呈上升趋势。其中1997—2001年的水量生态足迹与水生态足迹经历了一个先上升,又下降的趋势;2001 年以后,中国的水量生态足迹和水生态足迹呈现明显上升的趋势,水量生态足迹年平均增长率为 $2 . 5 7 \\%$ ,水生态足迹的年平均增长率为 $2 . 1 8 \\%$ 。研究期内中国的人口数量由 $1 2 . 3 7 \\times 1 0 ^ { 8 }$ 人上升到 $1 3 . 6 8 \\times 1 0 ^ { 8 }$ 人，国内生产总值年平均增速达 $9 \\%$ 以上,用水量从 $5 5 6 6 . 0 6 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ 增长到 $6 0 9 5 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ 。水资源需求量同人口增加和经济发展呈正比,水量生态足迹增长趋势也与中国逐年增长的用水量相符。水质生态足迹呈小幅波动并逐步降低趋势,在水生态足迹占比从 $3 . 7 2 \\%$ 下降到 $2 . 6 9 \\%$ ,其中，1997—2006 年波动上升,2006 年以后呈现出明显的下降趋势,到2014年水质生态足迹下降至研究期内最低值。研究期内的工业废水排放达标率从 $6 1 . 8 \\%$ 上升至$9 0 \\%$ 以上,废水处理率的提高和污染物排放量得到了相应控制是水质生态足迹下降的主要原因。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/ffc6b7fcdac61278f03992ce0be54719db8aa9399b4dd49c048cd1ac38255e66.jpg",
+        "table_caption": [
+            "表21997一2014中国各省市平均水生态足迹和水生态承载力 $/ 1 0 ^ { 4 } \\mathrm { h m } ^ { 2 }$ ",
+            "Table 2The average ${ E F } _ { \\mathrm { w } }$ and $E C _ { \\mathrm { w } }$ all provinces in China from 1997 to 201 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>Table2 1997年</td><td></td><td></td><td></td><td>2014年</td><td></td><td></td><td></td><td>平均Average</td><td></td></tr><tr><td rowspan=\"5\">地区</td><td>水量生</td><td>水质生</td><td>水生</td><td>水生态</td><td>水量生</td><td>水质生</td><td>水生</td><td>水生态 水量生</td><td>水质生</td><td>水生</td><td>水生态</td></tr><tr><td>态足迹</td><td>态足迹</td><td>态足迹</td><td>承载力</td><td>态足迹</td><td>态足迹</td><td>承载力</td><td>态足迹</td><td>态足迹</td><td>态足迹</td><td>承载力 Water</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>态足迹</td><td></td><td></td><td></td><td></td></tr><tr><td>cvologiea ecolgia</td><td></td><td>ecolpgial</td><td>ecolrgieal</td><td> volgieal ecolgia</td><td></td><td>ecaryinal</td><td></td><td>cvolgmeal cogica</td><td>ecolpgia</td><td>ecalgical</td></tr><tr><td>footprint</td><td>footprint</td><td></td><td>capacity</td><td>footprint</td><td>footprint</td><td>eoolgia</td><td>capacity</td><td>footprint</td><td>footprint</td><td>capacity</td></tr><tr><td>北京</td><td>1428.57</td><td>62.02</td><td>1490.59</td><td>62.03</td><td>1989.54</td><td>34.81</td><td>2024.35</td><td>51.68 1649.86</td><td>48.85</td><td>1698.71</td><td>70.79</td></tr><tr><td>天津</td><td>962.61</td><td>52.19</td><td>1014.80</td><td>4.80</td><td>1416.18</td><td>43.72</td><td>1459.89 22.97</td><td>1125.29</td><td>50.65</td><td>1175.94</td><td>23.75</td></tr><tr><td>河北</td><td>9414.33</td><td>405.04</td><td>9819.36</td><td>152.51</td><td>13472.64</td><td>268.95</td><td>13741.58 126.56</td><td></td><td>11153.85367.38</td><td>11521.23</td><td>222.40</td></tr><tr><td>山西</td><td>3596.66</td><td>168.74</td><td>3765.41</td><td>80.96</td><td>4517.92</td><td>112.23</td><td>4630.16 166.01</td><td>4069.61</td><td>144.07</td><td>4213.68</td><td>121.62</td></tr><tr><td>内蒙古</td><td>4590.91</td><td>152.41</td><td>4743.32</td><td>379.00</td><td>7822.90</td><td>243.46</td><td>8066.36</td><td>7052.81</td><td>217.97</td><td>7270.77</td><td>432.43</td></tr><tr><td>辽宁</td><td>5517.03</td><td>260.95</td><td>5777.98</td><td>822.22</td><td>7485.67</td><td>244.92</td><td>7730.59</td><td>526.05 308.01 6576.18</td><td>271.30</td><td></td><td>1235.40</td></tr><tr><td>吉林</td><td>3912.28</td><td>220.45</td><td>4132.73</td><td>681.16</td><td>6618.04</td><td>174.92</td><td>6792.96 1051.83</td><td></td><td>5335.45 228.03</td><td>6847.48 5563.48</td><td>1803.89</td></tr><tr><td>黑龙江</td><td>11109.05</td><td>265.92</td><td>11374.98 3300.61</td><td></td><td>11861.84</td><td>248.59</td><td>12110.43 4128.54</td><td>12214.89</td><td></td><td></td><td>3001.84</td></tr><tr><td>上海</td><td>2733.18</td><td>111.99</td><td>2845.17</td><td>290.00</td><td>3119.39</td><td>58.29</td><td>3177.68736.74</td><td></td><td>265.43 84.82</td><td>12480.32</td><td>415.49</td></tr><tr><td>江苏</td><td>13599.82</td><td>263.46</td><td>13863.27</td><td>1367.12</td><td>18432.79</td><td>272.66</td><td>18705.453292.62</td><td>3035.31</td><td></td><td>3120.13</td><td>3153.16</td></tr><tr><td>浙江</td><td>7214.17</td><td>205.97</td><td>7420.15 24875.75</td><td></td><td>6170.27</td><td>175.40</td><td>6345.67 26000.64</td><td>13295.92</td><td>290.61</td><td>13586.54</td><td>6632.28 20394.74</td></tr><tr><td>安徽</td><td>9368.60</td><td>321.45</td><td>9690.05 3754.22</td><td></td><td>12098.02</td><td>240.32</td><td>12338.33 9150.51</td><td>6440.77</td><td>191.51</td><td></td><td>7732.07</td></tr><tr><td>福建</td><td>5353.11</td><td>132.88</td><td>5486.00 38732.86</td><td></td><td>6540.29</td><td>168.75</td><td>6709.04 25288.67</td><td>10877.67</td><td>256.20</td><td>11133.87</td><td>5730.89 25137.85</td></tr><tr><td>江西</td><td>7720.61</td><td>222.65</td><td>7943.26 46052.71</td><td></td><td>10214.89</td><td>257.28</td><td></td><td>5580.63</td><td>150.26</td><td></td><td></td></tr><tr><td>山东</td><td>12901.12</td><td>607.56</td><td>13508.68</td><td>413.56</td><td>21089.85</td><td>377.43</td><td>10472.17 33581.36 21467.29 296.01</td><td>8052.53</td><td>232.80</td><td></td><td>8285.33 32717.81 15745.77 1117.76</td></tr><tr><td>河南</td><td>11908.94</td><td>569.31</td><td>12478.25</td><td>659.2016464.91</td><td></td><td>469.78</td><td>16934.69 1021.50</td><td>15254.23</td><td>491.54</td><td></td><td>15789.16 1916.43</td></tr><tr><td>湖北</td><td>9789.54</td><td>329.03</td><td>10118.57 6924.68</td><td></td><td>9631.31</td><td>312.32</td><td>9943.639467.96</td><td>15243.41</td><td>545.75 309.52</td><td></td><td>10125.28 10332.35</td></tr><tr><td>湖南</td><td>10862.45</td><td>384.39</td><td>11246.84 38984.96</td><td></td><td>12123.38</td><td>382.80</td><td>12506.18 32183.29</td><td>9815.75</td><td>406.08</td><td></td><td>12084.79 31584.37</td></tr><tr><td>广东</td><td>12675.00</td><td>412.58</td><td>13087.58 85160.5516627.24</td><td></td><td></td><td>429.31</td><td>17056.55 35012.01</td><td>11678.71 13525.94</td><td>418.52</td><td></td><td>13944.46 40380.74</td></tr><tr><td>广西</td><td>8014.08</td><td>433.27</td><td>8447.35 54050.41</td><td></td><td>11435.35</td><td>314.40</td><td>11749.75 35265.62</td><td></td><td>416.63</td><td></td><td>8682.52 33041.31</td></tr><tr><td>海南</td><td>1137.65</td><td>53.52</td><td>1191.17 10410.45</td><td></td><td>2004.67</td><td>55.13</td><td>2059.80 9067.17</td><td>8265.89 1498.14</td><td>57.57</td><td></td><td>1555.71 8421.85</td></tr><tr><td>重庆</td><td>4674.47</td><td>131.63</td><td>4806.10 4979.56</td><td></td><td>5106.75</td><td>141.20</td><td>5247.95 10551.59</td><td>4777.51</td><td>134.05</td><td></td><td>4911.56 7320.53</td></tr><tr><td>四川</td><td>14462.34</td><td>534.03</td><td>14996.37 18959.29</td><td></td><td>12320.48</td><td>531.83</td><td>12852.31 28446.26</td><td>14440.78</td><td>549.06</td><td></td><td>14989.84 26802.62</td></tr><tr><td>贵州</td><td>4490.29</td><td>205.76</td><td>4696.04 19256.47</td><td></td><td>4674.96</td><td>206.15</td><td>4881.11 17587.92</td><td>4850.51</td><td>215.92</td><td></td><td>5066.43 12031.90</td></tr><tr><td>云南</td><td>4535.13</td><td>306.29</td><td>4841.41 28254.87</td><td></td><td>6143.11</td><td>340.95</td><td>6484.06 16378.65</td><td>5796.62</td><td>301.18</td><td></td><td>6097.80 22564.42</td></tr><tr><td>西藏</td><td>365.67</td><td>121.04</td><td>486.71 28362.63</td><td></td><td>516.28</td><td>141.41</td><td>657.69 34154.69</td><td>488.85</td><td>137.09</td><td></td><td>625.93 34447.18</td></tr><tr><td>陕西</td><td>4467.54</td><td>150.83</td><td>4618.37</td><td>412.34</td><td>8561.31</td><td>138.39</td><td>8699.70 1266.10</td><td>5980.66</td><td>153.51</td><td>6134.17</td><td>1395.40</td></tr><tr><td>甘肃</td><td>2779.21</td><td>119.49</td><td>2898.69</td><td>136.66</td><td>3301.53</td><td>178.47</td><td>3480.00 208.73</td><td>3322.45</td><td>147.82</td><td>3470.27</td><td>238.32</td></tr><tr><td>青海</td><td>750.95</td><td>93.52</td><td>844.48</td><td>713.84</td><td>461.69</td><td>125.48</td><td>587.16 1856.76</td><td>729.79</td><td>112.07</td><td>841.86</td><td>1360.93</td></tr><tr><td>宁夏</td><td>791.78</td><td>47.70</td><td>839.47</td><td>2.42</td><td>2015.50</td><td>57.68</td><td>2073.18</td></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2水生态承载力",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据公式(4)和测算得出的水资源产量因子，计算得到全国(图1)和各省市18年的平均水生态承载力（表2）。结果显示,中国水生态承载力受年际水资源量丰枯影响,整体呈波动状态。2011年的水生态承载力是研究期内的最低值，该年份降水量比常年值偏少 $9 . 4 \\%$ ,是1956年以来年降水量最少的一年。受季风气候的影响,中国降水量和水资源量分布呈由南向北递减趋势,因此各省市水生态承载力有较大差别。水生态承载力分布状况与中国降水量和水资源量的时空分布相似,降水量较充足的南方地区水生态承载力较高,水生态承载力排在前五位的省市都位于南方地区,分别是广东、西藏、广西、江西、湖南;降水量较少的北方地区水生态承载力较低,宁夏、天津、北京、山西、河北,这5个省市地处于华北和西北地区,是中国主要的缺水区域，水生态承载力排在研究区域的后五位。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3水生态足迹广度",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "区域足迹广度反映了一个区域的流量资本占用水平[6],水生态足迹广度则可以直观反映区域水资源流量资本的占用情况。根据公式(6)计算得到中国的水生态足迹广度如(图1)所示,整体上呈波动趋势;结合公式(7)给出的水生态足迹广度取值范围可知,随着中国水生态足迹持续增长,除1998年外,其余年份的水生态足迹均高于同年的水生态承载力,社会生产生活对水资源流量资本的占用已达到极限,水生态足迹广度的变化趋势同水生态承载力一致,在此不再赘述。当水资源流量资本被完全占用时,为满足生产生活用水需求,水资源存量资本也开始消耗。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e13e2ef5e307703ac305e071240805f510643766430f5b28dcea6e3c73ddb90e.jpg",
+        "img_caption": [
+            "图11997一2014年中国水生态承载力与水生态足迹广度变化图 $/ 1 0 ^ { 4 } \\mathrm { h m } ^ { 2 }$ ",
+            "Fig.1 Water ecological carrying capacity and water ecological footprint size change in China from 1997 to 201 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "各省市水生态足迹广度计算结果如(表3)所示,结合(表2)可知,浙江、福建、江西、湖北、湖南、广东、广西、海南、四川、重庆、贵州、云南、西藏 青海14个省市18 年的平均水生态足迹低于当地平均水生态承载力的上限,这些省市大部分位于中国降水量相对充足的南方地区。受气候影响,南方地区水系发达,水量丰沛,其水资源量占全国水资源总量的 $80 \\%$ 以上[24],除湖北、重庆之外,其余地区人均水资源量均超过 $2 0 0 0 \\mathrm { m } ^ { 3 }$ ,水资源流量资本可以满足当地用水需求。其余省市的水资源流量资本已经被完全占用,水生态足迹广度取值是当地水生态承载力的上限。宁夏地区的水生态足迹广度最低,仅为 $4 \\times 1 0 ^ { 4 } \\mathrm { h m } ^ { 2 }$ ,与水生态足迹广度最高的四川相比,宁夏的水生态足迹广度仅为四川的1/3747,人均水资源量为 $1 / 1 8$ ,水资源短缺是该地区水生态足迹广度较低的主要原因。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4水生态足迹深度",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "足迹深度表征了人类对超出生物承载力部分资源的累计需求[4],区域水生态足迹深度反映了一个区域对水资源存量资本的消耗程度,数值越大,表明研究区域对超出水生态承载力部分的水资源消耗比例越大。结合水生态承载力和水生态足迹广度的测算结果,结合公式(8),测算出全国水生态足迹深度和各个省市的水生态足迹深度（表3）。结果显示,1997—2014年间,除 1998 年水生态足迹深度为1外,其余年份的水生态足迹深度均高于1,其中2011年水生态足迹深度达到2.13,是研究期内全国水生态足迹深度最大值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "各省市的水生态足迹深度相差较大,整体上由南向北递增;平均水生态足迹低于当地平均水生态承载力上限的14个省市研究期内平均水生态足迹深度为1,社会生产生活用水不需要动用水资源存量资本；水生态足迹深度较高的地区大都位于中国北方地区,如京津冀、陕甘宁、山西、内蒙古、山东、河南、以及东三省地区,受气候条件影响,北方地区降水量相对于南方地区偏少,包括东北、西北、山东半岛、海河流域、黄河流域、淮河流域的水资源量只占全国水资源总量的 $1 4 . 4 \\%$ ,人口却占全国的 $4 3 . 2 \\%$ ,耕地占全国的 $5 8 . 3 \\% ^ { [ 2 4 ] }$ ,耕地人口和水资源情况的不匹配,导致这些地区水资源流量资本完全占用,对水资源存量资本消耗极其严重，平均水生态足迹深度最高的宁夏已达到308.12。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/71bdaa6a2d9b572f305fb10357ced69aaa6020b11219332654776efb8c7cd4c7.jpg",
+        "table_caption": [
+            "Table 3Water ecological footprint size all provinces in China ",
+            "表4中国各省市水生态足迹深度分布表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"9\"></td><td rowspan=\"2\"></td><td rowspan=\"2\">平均</td></tr><tr><td>地区</td><td>1998年</td><td>2000年</td><td>2002年</td><td>2004年</td><td>2006年</td><td>2008年</td><td>2010年</td><td>2012年</td><td>2014年</td></tr><tr><td>北京</td><td>189.53</td><td>35.64</td><td>36.17</td><td>57.11</td><td>61.08</td><td>146.68</td><td>66.80</td><td>195.64</td><td>51.68</td><td>70.79</td></tr><tr><td>天津</td><td>34.48</td><td>1.85</td><td>2.51</td><td>36.19</td><td>18.06</td><td>59.18</td><td>14.96</td><td>191.74</td><td>22.97</td><td>23.75</td></tr><tr><td>河北</td><td>379.47</td><td>233.73</td><td>83.25</td><td>266.95</td><td>129.29</td><td>290.87</td><td>216.56</td><td>622.49</td><td>126.56</td><td>222.40</td></tr><tr><td>山西</td><td>126.96</td><td>90.67</td><td>83.55</td><td>115.31</td><td>105.58</td><td>102.93</td><td>112.93</td><td>152.11</td><td>166.01</td><td>121.62</td></tr><tr><td>内蒙古</td><td>2429.16</td><td>248.38</td><td>180.34</td><td>348.29</td><td>307.66</td><td>308.88</td><td>274.56</td><td>473.53</td><td>526.05</td><td>432.43</td></tr><tr><td>辽宁</td><td>2350.46</td><td>273.02</td><td>318.10</td><td>1180.65</td><td>988.40</td><td>1023.81</td><td>5325.48</td><td>4334.14</td><td>308.01</td><td>1235.40</td></tr><tr><td>吉林</td><td>2225.32</td><td>3620.45</td><td>1526.98</td><td>1177.11</td><td>1404.76</td><td>1238.17</td><td>5296.79</td><td>2381.81</td><td>1051.83</td><td>1803.89</td></tr><tr><td>黑龙江</td><td>4616.42</td><td>5693.47</td><td>1852.84</td><td>1969.06</td><td>2453.33</td><td>988.24</td><td>3372.62</td><td>3277.90</td><td>4128.54</td><td>3001.84</td></tr><tr><td>上海</td><td>588.51</td><td>313.85</td><td>704.83</td><td>207.23</td><td>253.72</td><td>454.65</td><td>449.99</td><td>381.66</td><td>736.74</td><td>415.49</td></tr><tr><td>江苏</td><td>5198.29</td><td>3796.95</td><td>1481.94</td><td>859.58</td><td>3377.27</td><td>2950.71</td><td>3037.62</td><td>2878.23</td><td>3292.62</td><td>3153.16</td></tr><tr><td>浙江</td><td>7304.18</td><td>6532.35</td><td>6190.02</td><td>6205.78</td><td>6685.60</td><td>6561.32</td><td>6573.72</td><td>6879.93</td><td>6345.67</td><td>6632.28</td></tr><tr><td>安徽</td><td>8930.83</td><td>6238.95</td><td>10267.42</td><td>3784.40</td><td>5087.83</td><td>7383.38</td><td>12205.71</td><td>7419.32</td><td>9150.51</td><td>7732.07</td></tr><tr><td>福建</td><td>5674.25</td><td>5111.96</td><td>5270.90</td><td>5334.62</td><td>5624.22</td><td>5680.36</td><td>5999.84</td><td>6397.25</td><td>6709.04</td><td>5730.89</td></tr><tr><td>江西</td><td>7268.94</td><td>7143.08</td><td>7021.59</td><td>7471.81</td><td>8151.58</td><td>8625.57</td><td>8753.25</td><td>9422.71</td><td>10472.17</td><td>8285.33</td></tr><tr><td>山东</td><td>2228.86</td><td>872.62</td><td>132.21</td><td>1641.69</td><td>534.00</td><td>1452.26</td><td>1284.43</td><td>1011.34</td><td>296.01</td><td>1117.76</td></tr><tr><td>河南</td><td>4184.57</td><td>5722.98</td><td>1279.59</td><td>2102.58</td><td>1316.91</td><td>1753.43</td><td>3638.89</td><td>896.79</td><td>1021.50</td><td>1916.43</td></tr><tr><td>湖北</td><td>10468.44</td><td>9347.47</td><td>9119.94</td><td>8935.48</td><td>4634.60</td><td>10337.97</td><td>11122.02</td><td>7502.45</td><td>9467.96</td><td>10125.28</td></tr><tr><td>湖南</td><td>11882.63</td><td>11208.44</td><td>10946.93</td><td>11689.13</td><td>12055.75</td><td>12188.01</td><td>12755.03</td><td>13436.54</td><td>12506.18</td><td>12084.79</td></tr><tr><td>广东</td><td>13133.46</td><td>12700.64</td><td>12660.94</td><td>13241.64</td><td>13596.01</td><td>13109.17</td><td>14289.18</td><td>15370.69</td><td>17056.55</td><td>13944.46</td></tr><tr><td>广西</td><td>8627.87</td><td>7887.73</td><td>7954.09</td><td>7649.87</td><td>8355.52</td><td>8034.75</td><td>8680.56</td><td>9177.70</td><td>11749.75</td><td>8682.52</td></tr><tr><td>海南</td><td>1149.81</td><td>1310.70</td><td>1468.98</td><td>1379.72</td><td>1520.32</td><td>1645.95</td><td>1716.20</td><td>1939.61</td><td>2059.80</td><td>1555.71</td></tr><tr><td>重庆</td><td>4966.88</td><td>4373.04</td><td>4377.30</td><td>4688.75</td><td>3696.01</td><td>5094.25</td><td>5455.48</td><td>5223.56</td><td>5247.95</td><td>4911.56</td></tr><tr><td>四川</td><td>15101.94</td><td>14415.40</td><td>14170.04</td><td>14597.78</td><td>14470.66</td><td>14782.25</td><td>15783.96</td><td>16055.17</td><td>12852.31</td><td>14989.84</td></tr><tr><td>贵州</td><td>5016.91</td><td>5035.08</td><td>5027.65</td><td>5322.82</td><td>5385.54</td><td>5248.55</td><td>5072.91</td><td>4822.48</td><td>4881.11</td><td>5066.43</td></tr><tr><td>云南</td><td>5294.91</td><td>5419.56</td><td>5433.04</td><td>5643.50</td><td>6209.09</td><td>6587.04</td><td>6803.40</td><td>7548.69</td><td>6484.06</td><td>6097.80</td></tr><tr><td>西藏</td><td>534.65</td><td>573.99</td><td>613.03</td><td>595.68</td><td>651.65</td><td>737.92</td><td>650.45</td><td>653.94</td><td>657.69</td><td>625.93</td></tr><tr><td>陕西</td><td>1666.49</td><td>1287.94</td><td>667.98</td><td>980.48</td><td>777.38</td><td>946.49</td><td>2637.83</td><td>1561.70</td><td>1266.10</td><td>1395.40</td></tr><tr><td>甘肃</td><td>227.84</td><td>187.03</td><td>119.32</td><td>156.75</td><td>180.68</td><td>186.43</td><td>245.69</td><td>377.89</td><td>208.73</td><td>238.32</td></tr><tr><td>青海</td><td>867.91</td><td>723.18</td><td>809.86</td><td>812.14</td><td>879.34</td><td>925.16</td><td>851.53</td><td>813.02</td><td>587.16</td><td>841.86</td></tr><tr><td>宁夏</td><td>5.12</td><td>O 1.99</td><td>6.61</td><td>3.94</td><td>4.56</td><td>3.43</td><td>3.53</td><td>4.74</td><td>4.14</td><td>4.00</td></tr><tr><td>新疆</td><td>1224.06</td><td>1110.32</td><td>1457.46</td><td>936.56</td><td>1162.75</td><td>851.45</td><td>1586.00</td><td>1038.23</td><td>676.33</td><td>1080.45</td></tr><tr><td>全国 National total</td><td>209616.39 170252.94</td><td></td><td>177149.25</td><td>129454.47</td><td>142636.56</td><td>167319.77</td><td>212350.49</td><td>193829.41</td><td>165282.27</td><td>166745.58</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/7f0318b999054e11ad2d853218797235b3c0ce17cb84cd8130f5153667becba8.jpg",
+        "table_caption": [
+            "表3中国各省市水生态足迹广度分布表 $\\cdot 1 0 ^ { 4 } \\mathrm { h m } ^ { 2 }$ ",
+            "Table 4Water ecological footprint depth of all provinces in China "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>地区 Region</td><td>1998年</td><td>2000年</td><td>2002年</td><td>2004年</td><td>2006年</td><td>2008年</td><td>2010年</td><td>2012年</td><td>2014年</td><td>平均 Average</td></tr><tr><td>北京</td><td>8.20</td><td>43.32</td><td>41.06</td><td>26.61</td><td>27.53</td><td>12.09</td><td>27.59</td><td>9.96</td><td>39.17</td><td>23.99</td></tr><tr><td>天津</td><td>31.68</td><td>522.18</td><td>412.28</td><td>29.11</td><td>64.34</td><td>19.88</td><td>88.00</td><td>7.33</td><td>63.57</td><td>49.51</td></tr><tr><td>河北</td><td>27.82</td><td>41.39</td><td>117.67</td><td>38.57</td><td>90.98</td><td>42.36</td><td>57.70</td><td>22.26</td><td>108.58</td><td>51.80</td></tr><tr><td>山西</td><td>34.65</td><td>43.06</td><td>49.26</td><td>37.08</td><td>41.21</td><td>39.45</td><td>37.93</td><td>33.66</td><td>27.89</td><td>34.65</td></tr><tr><td>内蒙古</td><td>2.09</td><td>17.96</td><td>27.68</td><td>18.21</td><td>26.92</td><td>30.05</td><td>34.85</td><td>21.31</td><td>15.33</td><td>16.81</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "http ://www.ecologica.cn ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/d333a12ff2c82b5a95769b762b65ec3f707cb27a902500d75f81a6de597f9e4f.jpg",
+        "table_caption": [
+            "续表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>地区Region</td><td>1998年</td><td>2000年</td><td>2002年</td><td>2004年</td><td>2006年</td><td>2008年</td><td>2010年</td><td>2012年</td><td>2014年</td><td>平均 Average</td></tr><tr><td>辽宁</td><td>2.90</td><td>19.37</td><td>18.50</td><td>5.48</td><td>6.92</td><td>7.25</td><td>1.41</td><td>1.87</td><td>25.10</td><td>5.54</td></tr><tr><td>吉林</td><td>2.24</td><td>1.16</td><td>3.37</td><td>4.62</td><td>4.16</td><td>4.80</td><td>1.18</td><td>2.82</td><td>6.46</td><td>3.08</td></tr><tr><td>黑龙江</td><td>2.34</td><td>1.75</td><td>5.80</td><td>5.73</td><td>5.12</td><td>14.27</td><td>4.55</td><td>4.88</td><td>2.93</td><td>4.16</td></tr><tr><td>上海</td><td>4.96</td><td>8.94</td><td>4.05</td><td>13.79</td><td>12.31</td><td>7.07</td><td>7.48</td><td>8.83</td><td>4.31</td><td>7.51</td></tr><tr><td>江苏</td><td>2.61</td><td>3.13</td><td>8.04</td><td>13.88</td><td>3.99</td><td>4.63</td><td>4.56</td><td>4.98</td><td>5.68</td><td>4.31</td></tr><tr><td>浙江</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>安徽</td><td>1.12</td><td>1.53</td><td>1.05</td><td>2.75</td><td>2.23</td><td>1.58</td><td>1.00</td><td>1.76</td><td>1.35</td><td>1.44</td></tr><tr><td>福建</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>江西</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>C1.00</td></tr><tr><td>山东</td><td>6.48</td><td>16.40</td><td>100.32</td><td>8.43</td><td>28.75</td><td>10.79</td><td>12.85</td><td>16.97</td><td>72.52</td><td>14.09</td></tr><tr><td>河南</td><td>3.16</td><td>2.34</td><td>11.42</td><td>6.77</td><td>12.40</td><td>9.84</td><td>5.09</td><td>21.22</td><td>16.58</td><td>8.24</td></tr><tr><td>湖北</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>2.17</td><td>1.00</td><td>1.00</td><td>1.54</td><td>1.05</td><td>1.00</td></tr><tr><td>湖南</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>广东</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>广西</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>海南</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>重庆</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.21</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>四川</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>贵州</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>云南</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>西藏</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>陕西</td><td>3.28</td><td>3.81</td><td>7.29</td><td>5.60</td><td>7.90</td><td>6.83</td><td>2.65</td><td>4.91</td><td>6.87</td><td>4.40</td></tr><tr><td>甘肃</td><td>14.62</td><td>15.72</td><td>26.55</td><td>20.02</td><td>19.80</td><td>19.87</td><td>16.21</td><td>11.55</td><td>16.67</td><td>14.56</td></tr><tr><td>青海</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>宁夏</td><td>175.65</td><td>431.08</td><td>144.63</td><td>243.63</td><td>254.04</td><td>394.84</td><td>421.15</td><td>339.59</td><td>500.90</td><td>308.12</td></tr><tr><td>新疆</td><td>2.60</td><td>2.92</td><td>2.48</td><td>3.84</td><td>3.68</td><td>5.33</td><td>3.42</td><td>5.80</td><td>10.24</td><td>4.07</td></tr><tr><td>全国 National total</td><td>1.00</td><td>1.15</td><td>1.13</td><td>1.60</td><td>1.58</td><td>1.39</td><td>1.16</td><td>1.34</td><td>1.56</td><td>1.35</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3空间格局",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为使计算数据更加均匀,更加接近或具备正态分布,便于研究,本文对水生态足迹广度与深度计算结果取自然对数,并对结果进行全局和局部空间相关性分析。取对数可以降低数据之间的差距,使数据更加均匀,更加接近或具备正态分布[25]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1 全局自相关分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在研究水生态足迹广度与深度的空间自相关系数中,本文选择全局 Moran's指数作进一步的分析研究。1997—2014年间中国水生态足迹广度全局Moran's指数测算结果如表4所示,整体呈波动趋势。经检验，中国各年份的水生态足迹广度全局 Moran's指数正态统计量Z值均大于0.05 置信水平下的临界值(1.96）,中国各省市水生态足迹广度在各个年份均出现正相关,相邻地区水生态足迹广度较高的省市和较低的省市均出现相对集聚的现象,水生态足迹广度较高的省份互相邻近,水生态足迹广度较低的省份也互相邻近。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1997—2014年间中国水生态足迹深度全局Moran's指数测算结果如表5所示,整体呈波动趋势。中国水生态足迹深度全局 Moran's指数的正态统计量Z值均大于在0.05 置信水平的下的临界值(1.96),中国各省市的水生态足迹深度在各个年份均出现正相关,这说明相邻地区水生态足迹深度较高的区域和较低的区域均出现相对集聚的现象,水生态足迹深度较高的省市邻近,水生态足迹深度较低的省市也邻近。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/ddaff7d9ac08d2ae02f7742d763a12a4472315424180635da6f727c4b08bae06.jpg",
+        "table_caption": [
+            "表5中国各省市水生态足迹广度全局自相关Moran's指数",
+            "Table 5The global spatial auto correlation index of water ecological footprint size in China "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>年份Year</td><td>Moran's I</td><td>Z(1)</td><td>P</td><td>年份Year</td><td>Moran's I</td><td>Z(1)</td><td>P</td></tr><tr><td>1997</td><td>0.5259</td><td>4.5436</td><td>0.0000</td><td>2006</td><td>0.5500</td><td>4.7389</td><td>0.0000</td></tr><tr><td>1998</td><td>0.3851</td><td>3.4017</td><td>0.0003</td><td>2007</td><td>0.5630</td><td>4.8449</td><td>0.0000</td></tr><tr><td>1999</td><td>0.5795</td><td>4.9803</td><td>0.0000</td><td>2008</td><td>0.5319</td><td>4.5938</td><td>0.0000</td></tr><tr><td>2000</td><td>0.4681</td><td>4.0756</td><td>0.0000</td><td>2009</td><td>0.5278</td><td>4.5595</td><td>0.0000</td></tr><tr><td>2001</td><td>0.5863</td><td>5.0345</td><td>0.0000</td><td>2010</td><td>0.4699</td><td>4.0890</td><td>0.0000</td></tr><tr><td>2002</td><td>0.5966</td><td>5.1168</td><td>0.0000</td><td>2011</td><td>0.4463</td><td>3.8981</td><td>0.0000</td></tr><tr><td>2003</td><td>0.4393</td><td>3.8395</td><td>0.0001</td><td>2012</td><td>0.4270</td><td>3.7431</td><td>0.0001</td></tr><tr><td>2004</td><td>0.5125</td><td>4.4345</td><td>0.0000</td><td>2013</td><td>0.4572</td><td>3.9865</td><td>0.0000</td></tr><tr><td>2005</td><td>0.4475</td><td>3.9082</td><td>0.0000</td><td>2014</td><td>0.5752</td><td>4.9432</td><td>0.0000</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2水生态足迹广度局部空间相关性分析 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "全局Moran's指数可以辨别研究区域内观测值的聚集或分散特征，但并不能表明研究范围内部具体的空间集聚特征,故选取局部 Moran's指数来研究中国各省市水生态足迹广度是否存在局部集聚现象。本文利用MATLAB 软件计算得出了中国31个省市水生态足迹广度局部 Moran's指数,得到各省市空间集聚情况,并做出了1997年和2014年中国水生态足迹广度LISA集聚地图。如图2所示,水生态足迹广度高高集聚(H-H)与低低集聚(L-L)地区较多,而高低集聚(H-L)与低高集聚(L-H)地区相对较少,中国水生态足迹广度在空间上集聚现象明显，省际水资源流量资本占用情况存在明显的空间关联性。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/427c6ac7e9de5d2ddb93f68c0704bc3cebd7bb244adad17692784c0f883e2277.jpg",
+        "img_caption": [
+            "图2中国各省市水生态足迹广度的LISA集聚分布",
+            "Fig.2LISA cluster map of the water ecological footprint size in China "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1)水生态足迹广度H-H集聚地区",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "据图2可知,水生态足迹广度稳定在H-H集聚的14个省市分别为江苏、浙江、安徽、福建、江西、湖北、湖南、广东、广西、海南、重庆、四川、贵州、云南,主要集中在西南部和东南沿海区域。受季风气候影响,这些省市的降水量相对充足,除江苏和安徽之外,其余省市18年的水生态足迹平均值均低于水生态承载力平均值的上限,随着人口增长和经济发展,用水量和水生态足迹广度的增加仍可保持在水生态承载力上限以下,这些省市的水资源流量资本可以满足经济社会的生活生产需求。安徽和江苏处于水资源由丰转少的过渡地区,且人口密度较高,特别是安徽的水资源利用效率较低[1],正常大小农业耗水量大,水资源流量资本被完全占用,与周围地区形成水生态足迹广度H-H集聚。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn(2)水生态足迹广度H-L集聚地区",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "黑龙江稳定在水生态足迹广度H-L集聚地区。研究期内黑龙江的水生态足迹广度排在中国31个省市的中等水平。黑龙江的水资源量相对充足，人均水资源量超过 $2 0 0 0 \\mathrm { m } ^ { 3 }$ ，随着人口增长和经济发展，耗水量也在逐年增加,但利用效率较低[1],特别是农业耗水量较大,导致其水生态足迹较高，历年的水生态足迹均超过了同年的水生态承载力。与其相邻的吉林和内蒙古，水资源较为短缺，两省市的历年水生态足迹均超过了同年的水生态承载力上限,水生态足迹广度较低,相对而言黑龙江是高值区,故与周围区域形成水生态足迹广度H-L集聚。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(3)水生态足迹广度L-H集聚地区",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "上海、西藏两个地区稳定在水生态足迹广度L-H集聚地区。西藏的水资源量充足,但经济发展相对落后,人口密度较低,水生态足迹广度较小,且水生态足迹低于生态承载力上限,与其相邻的四川和云南地区水生态足迹广度较高,相较而言西藏处于低值区域，故存在L-H集聚。上海的降水量较大,但由于产水区域面积相对较小,水生态承载力相对较低。同时上海是中国人口密度最大的地区,经济发达,对水资源的需求和消耗量都比较大,水生态足迹已超过水生态承载力上限,故与周围区域形成L-H集聚。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(4)水生态足迹广度L-L集聚地区",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "北京、天津、河北、山西、内蒙古、辽宁、河南、陕西、甘肃、宁夏、新疆11个省市稳定在水生态足迹广度L-L集聚地区。这些省市大部分位于中国北方地区和西北地区,受气候和降水量由东南向西北递减趋势影响,这些省市是中国主要的缺水地区,水资源流量资本较小。研究期内这11个省市水资源量仅占全国的 $1 0 . 7 5 \\%$ ，但贡献了全国生产总值的 $2 8 . 8 1 \\%$ ,人口比例占全国的 $30 \\%$ ,水资源与经济规模和人口规模的不匹配，使得水资源消耗极其严重,水资源流量资本被完全占用;而西北地区部分省市蒸发量大,导致农业耗水量较大[26-27],进一步加剧了水资源短缺,最终形成了水生态足迹广度L-L集聚。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "吉林和青海的水生态足迹广度由L-H集聚区落入到了L-L集聚区。两省市处于水生态足迹广度H-L集聚到L-L集聚的过渡地区,易受两者影响。与吉林相邻的辽宁 2014 年水生态足迹广度较1997年有大幅度降低,导致其由L-H集聚变为L-L集聚。青海是长江、黄河等大河的发源地,水资源量种族,除1997年外,历年水生态足迹均低于水生态承载力,水资源利用呈良好发展态势。而经济发展相对落后,人口密度较低,使得青海18年的平均水足迹处于全国最低值,相邻的四川、新疆两地区2014的水生态足迹广度较1997年均有所下降,导致相邻区域平均值降低,水生态足迹广度与周围地区由L-H集聚落入L-L集聚。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3水生态足迹深度局部空间自相关分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本文在全局自相关分析的基础上，选取局部Moran's指数来研究中国各省市水生态足迹深度是否存在局部集聚现象。利用MATLAB软件计算得出了中国31个省市水生态足迹深度局部 Moran's指数,得到各省市空间集聚情况,并做出1997年和2014年的中国水生态足迹深度LISA集聚地图。如图3所示,水生态足迹深度高高集聚(H-H)与低低集聚(L-L)地区较多,高低集聚(H-L)与低高集聚(L-H)地区相对较少,表明中国水生态足迹深度在空间上集聚现象明显,省际水资源存量资本占用情况存在明显的空间关联性。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/6db8e263cf955ee8241c3a0541c2556e3a24f0f6e5005318b194f16d51cdc686.jpg",
+        "table_caption": [
+            "表6中国各省市水生态足迹深度全局自相关Moran's指数",
+            ""
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"8\">Table6 The global spatial auto correlation index of water ecological footprint depth in China</td></tr><tr><td>年份Year</td><td>Moran'sI</td><td>Z(1)</td><td>P</td><td>年份Year</td><td>Moran'sI</td><td>Z(1)</td><td>P</td></tr><tr><td>1997</td><td>0.6358</td><td>5.4333</td><td>0.0000</td><td>2006</td><td>0.6750</td><td>5.7506</td><td>0.0000</td></tr><tr><td>1998</td><td>0.4504</td><td>3.9312</td><td>0.0000</td><td>2007</td><td>0.6738</td><td>5.7426</td><td>0.0000</td></tr><tr><td>1999</td><td>0.6696</td><td>5.7096</td><td>0.0000</td><td>2008</td><td>0.6365</td><td>5.4413</td><td>0.0000</td></tr><tr><td>2000</td><td>0.5490</td><td>4.7309</td><td>0.0000</td><td>2009</td><td>0.6314</td><td>5.3994</td><td>0.0000</td></tr><tr><td>2001</td><td>0.7057</td><td>6.0007</td><td>0.0000</td><td>2010</td><td>0.5518</td><td>4.7530</td><td>0.0000</td></tr><tr><td>2002</td><td>0.6776</td><td>5.7720</td><td>0.0000</td><td>2011</td><td>0.5537</td><td>4.7685</td><td>0.0000</td></tr><tr><td>2003</td><td>0.5324</td><td>4.5942</td><td>0.0000</td><td>2012</td><td>0.5274</td><td>4.5562</td><td>0.0000</td></tr><tr><td>2004</td><td>0.6244</td><td>5.3409</td><td>0.0000</td><td>2013</td><td>0.5443</td><td>4.6919</td><td>0.0000</td></tr><tr><td>2005</td><td>0.5411</td><td>4.6666</td><td>0.0000</td><td>2014</td><td>0.6287</td><td>5.3760</td><td>0.0000</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "http ://www.ecologica.cn(1)水生态足迹深度H-H集聚地区",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "北京、天津、河北、山西、内蒙古、辽宁、山东、河南、陕西、甘肃、宁夏11个省市的水生态足迹深度稳定在H-H集聚地区,主要分布在北方的黄河、海河以及辽河流域。受气候和降水趋势影响,这些地区是中国主要的缺水地区,水资源流量资本被完全占用。京津冀和辽宁是中国传统工业区[28],山东、河南则是中国传统农业大省[29.30],这些地区人口密度高,地表水资源缺乏,部分省市为满足生产生活需求而大量开采地下水[24]造成极其严重的水资源消耗,耕地、人口、经济规模与水资源量的不匹配是造成水资源存量资本消耗的主要原因;山西、内蒙古、陕西、甘肃、宁夏地区虽然人口密度较低,但是受气候和降水量影响,可利用的水资源流量资本较少，同时水资源利用效率偏低，导致水资源存量资本消耗严重。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(2)水生态足迹深度H-L集聚地区",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "水生态足迹深度H-L集聚地区是一个不稳定集聚区,处于这一集聚地区的省市相对较少,并且1997年和2014 年没有省份稳定在H-L集聚,这也与中国各省市不同年份的水资源量丰枯情况有关。1997年上海市处于水生态足迹深度H-L集聚地区,2014 年江苏和新疆处于水生态足迹深度H-L集聚地区。水生态足迹深度H-L集聚地区多处于H-H集聚区和L-L集聚区的过渡地区,易受这两个区域的影响。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/658f1a74d7f55c5d1c412899b37527bc9ed5062f4695344d2dc31d963318816f.jpg",
+        "img_caption": [
+            "图3中国个省市水生态足迹深度的LISA集聚分布",
+            "Fig.3LISA cluster map of the water ecological footprint depth in China "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(3)水生态足迹深度L-H集聚地区",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "黑龙江稳定于水生态足迹深度L-H集聚地区。黑龙江的水资源量相对充足,但由于其农业耗水量较大，用水效率较低[1],各年份均不同程度的消耗了水资源存量资本,1997年和 2014年的水生态足迹深度分别为3.45 和2.93。但是相较于与其相邻的内蒙古(对应年份值为12.52、15.33)和吉林(对应年份值为6.07、6.46)来说,其水生态足迹深度处于低值区，故与周围区域形成L-H集聚。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(4)水生态足迹深度L-L集聚地区",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "浙江、安徽、福建、江西、湖北、湖南、广东、广西、海南、重庆、四川、贵州、云南、西藏、青海15个省市水生态足迹深度稳定在L-L集聚地区,大部分位于水资源量和降水量充足的南方地区。除安徽外,其余省市在研究期内平均水生态足迹深度均为1,水资源流量资本可以满足当地生产生活的用水需求。内陆和沿海经济发达的省市虽然在经济、人口规模和用水效率有一定的差别，但得益于相对充足的水资源量能够将用水需求维持在水资源流量资本之内,不需要动用存量资本。西藏和青海人口密度较低,经济规模较小,对水资源的压力相",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "对较低，水资源流量资本即可满足用水需求。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "新疆的水生态足迹深度从1997年的L-L集聚落入到2014年的H-L集聚。经济发展和人口增长加剧了新疆的水资源压力,水生态足迹深度呈波动上升的趋势,存量资本的消耗日趋严重,故从L-L集聚落入H-L集聚。江苏的水生态足迹深度由H-H集聚进入到H-L集聚地区,上海的水生态足迹深度由H-L集聚进入到L-L集聚地区,两省市的人口密度高,经济规模较大,水生态足迹深度位于L-L集聚区到H-H集聚区的过渡带，各个年份均消耗了不同程度的水资源存量资本。但两省市2014 年的水生态足迹深度较1997年相比均有大幅度下降,而与江苏邻接的安徽 2014年的水生态足迹深度较1997年也有所降低,故江苏的水生态足迹深度由 H-H集聚转为H-L集聚,上海由H-L集聚转为L-L集聚。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本研究通过对中国各省的水生态足迹广度与深度测算,中国各个省市水生态承载力,水生态足迹广度和深度进行了测算,并对结果进行了分析和评价。结果显示：",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1)1997—2014年,中国的水生态足迹总体上呈上升趋势;在水生态足迹构成方面,水量生态足迹占比逐年上升,水质生态足迹逐年减少。中国的水生态承载力受年际水资源量丰枯影响较大,整体处于波动状态。各省市的水生态承载力差别较大,与中国水资源量由南向北递减的分布特征相一致。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(2)1997—2014年,中国的水生态足迹广度呈波动的趋势,除1998年之外,其余年份的水资源流量资本均被完全占用。受水资源分布影响,各省市的水生态足迹广度有较大差别,整体上由南向北递减。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(3)1997—2014年,中国的水生态足迹深度呈波动上升的趋势,除 1998 年外,其余年份的水生态足迹深度均超过1,需要动用存量资本来满足用水需求。在全国内部,南方地区的水生态足迹深度小,北方地区则相对较高。其中,14个省市18年的平均水生态足迹深度为1,这些省市水资源流量资本可以满足经济社会用水需求。宁夏的水生态足迹深度最高,达到308.12。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(4)借助空间自相关分析对全国31个省市18年的水生态足迹广度与深度进行空间关联特征分析表明：中国的水生态足迹广度与深度存在明显的空间集聚现象。其中,水生态足迹广度H-H集聚区主要集中在中国南方地区,H-L集聚区包括黑龙江,L-L集聚区主要集中在中国华北和西北地区,L-H集聚区较为不稳定,主要包括上海和西藏;水生态足迹深度H-H集聚区主要集中在中国北方地区,L-H-集聚区包括黑龙江,L-L集聚区主要集中在中国南方地区,H-L集聚区较为不稳定,没有一个省市稳定于H-L集聚区。依据计算结果绘制出水生态足迹广度与深度的LISA集聚地图并进行分析。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "由于研究缺乏各省市月度数据,水生态足迹广度与深度的年内变化是本文未能解决的问题。此外,1998年中国水生态足迹广度低于当年的水生态承载力,且水生态足迹深度为1,但该年中国爆发了特大洪水,多个省市遭受了不同程度的洪涝灾害,各月份雨洪资源利用可能存在较大差异,洪水月份水资源流量资本可能出现未有效利用的情况。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "1]走 赵良仕，孙才志，郑德凤.中国省际水资源利用效率与空间溢出效应测度.地理学报，2014,69(1)：121-133.2］谭秀娟，郑钦玉.我国水资源生态足迹分析与预测.生态学报，2009，29（7)：3559-3568.  \n[3］张义，张合平，李丰生，郭琳.基于改进模型的广西水资源生态足迹动态分析.资源科学,2013，35(8)：1601-1610.  \n[4］方恺.生态足迹深度和广度：构建三维模型的新指标.生态学报，2013，33（1)：267-274.  \n[5］方恺，李焕承.基于生态足迹深度和广度的中国自然资本利用省际格局.自然资源学报，2012，27（12）：1995-2005.  \n[6］方恺.基于改进生态足迹三维模型的自然资本利用特征分析——选取11个国家为数据源.生态学报，2015，,35(11）：3766-3777.  \n[7]Hoekstroetof‘alater’dslicablinbao//VialateTrade：ProinofteatoalpMeeting on Virtual Water Trade.The Netherlands：IHE DELFT,2OO3：171-182.  \n[8]HoekstraAY,ChapagainAK.GlobalizationofWater：Saring thePanet'sFreshwaterResources.OxfordBlackwlPublishing,0.  \n[9]VanOel,MekoMHoekstrThextealwaterfotprintofethers：Gogapall-explicituantifctiondact",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "assessment.Ecological Economics，2009，69(1）：82-92.[10］吴志峰，胡永红，李定强，匡耀求.城市水生态足迹变化分析与模拟.资源科学，2006,28(5）：152-156.[11] 龙爱华，徐中民，张志强.西北四省(区)2000年的水资源足迹.冰川冻土，2003，25(6)：692-700.[12] 龙爱华，徐中民，王新华，尚海洋.人口、富裕及技术对 200年中国水足迹的影响.生态学报，2006,26(10)：3358-3365.[13］刘秀巍，刘馨磊，孙庆智，王来力，吴雄英.产品水足迹研究及其在纺织行业的应用.纺织导报，2011，（3）：23-26.[14] 黄林楠，张伟新，姜翠玲，范晓秋.水资源生态足迹计算方法.生态学报，2008，28（3）：1279-1286.[15］孙才志，陈栓，赵良仕.基于ESDA的中国省际水足迹强度的空间关联格局分析．自然资源学报，2013，28（4)：571-582.[16］孙才志，韩琴，郑德凤.中国省际灰水足迹测度及荷载系数的空间关联分析.生态学报，2016,36(1)：86-97.[17]赵良仕，孙才志，郑德凤.中国省际水足迹强度收敛的空间计量分析.生态学报，2014，34（5)：1085-1093.[18] 赵良仕，孙才志，邹玮.基于空间效应的中国省际经济增长与水足迹强度收敛关系分析.资源科学，2013，35(11)：224-2231.[19]Daly HE,FarleyJ.Ecological Economics：Principlesand Applications.Washington；Island Press，2004：29-36.[20] 杨振华，苏维词，赵卫权，谢柱军,李艳丽.基于GRNN模型的岩溶地区城市水生态足迹分析与预测.中国岩溶，2016,35（1)：36-42.[21]DalyHOperatioalizngstaabledevelopntbyvetingiaturalapital/JoAarkeC，ads.InvestinginNaturalCapital:TheEcologicalEconomicsAproach to SustainabilityWashington：IslandPress,1994：23-37.[22]HicksJR.ValueandCapital;AnInqiryintoSomeFundmentalPrinciplesofEconomicheoryOxfordOxfordUiverstyre,946.[23］方恺，Reinout H.自然资本核算的生态足迹三维模型研究进展．地理科学进展，2012，31（12）：1700-1707．[24］王瑷，盛连喜，李科，孙弘颜.中国水资源现状分析与可持续发展对策研究.水资源与水工程学报，2008，19（3）：10-14.[25］俞立平，刘爱军.主成分与因子分析在期刊评价中的改进研究.情报杂志，2014，33（12）：94-98.[26] 管瑶，何仲林，张斌，李林.新疆水资源开发利用现状合理性分析.水土保持通报，2006，26(2)：104-106.[27］施雅风，曲耀.乌鲁木齐河流域水资源承载力及其合理利用.北京：科学出版社，1992；210-220.［28］封志明，刘登伟．京津冀地区水资源供需平衡及其水资源承载力．自然资源学报，2006，21（5）：689-699.[29] 杨风.山东水资源可持续利用发展路径.水利发展研究，2015，15(1)：46-50，65-65.[30］王红霞.河南农业灌溉水资源综合利用浅议.河南水利与南水北调，2011，（18)：181-182.",
+        "page_idx": 12
+    }
+]

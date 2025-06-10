@@ -1,0 +1,241 @@
+[
+    {
+        "type": "text",
+        "text": "仿生消化法测定猪饲料原料还原糖释放量的重复性和可加性研究廖睿赵峰\\*张虎王钰明张宏福（中国农业科学院北京畜牧兽医研究所动物营养学国家重点实验室，北京100193）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在建立单胃动物仿生消化系统模拟猪饲料原料消化后还原糖释放量的测定方法，为饲料养分生物学效价的评估提供参考。还原糖释放量与饲粮上样量的线性关系研究以玉米-豆粕型饲粮（ $7 5 \\%$ 玉米 $+ 2 5 \\%$ 豆粕）为研究对象，上样量设0.2、0.4、0.6、0.8和 $1 . 0 { \\mathrm { ~ g ~ } } 5$ 个处理，每个处理 4个重复，每个重复1根消化管；方法的重复性检验以玉米-豆粕饲粮、大麦、花生粕和米糠为研究对象，每个样品设3个批次，每个批次4个重复；方法的可加性检验设19个处理，其中处理1～7分别为玉米、大麦、高粱、大豆粕、花生粕、棉籽粕和米糠饲粮，处理 $8 \\sim 1 9$ 为2种或2种以上饲料原料按不同比例组合制备的12种饲粮，每个处理4个重复，每个重复1根消化管，在仿生消化系统中模拟猪消化后测定各处理的还原糖释放量。结果表明：饲粮上样量在 $0 . 2 { \\sim } 0 . 8 \\mathrm { ~ g ~ }$ 时，还原糖总释放量与上样量呈显著的线性关系（ $R ^ { 2 } { = } 0 . 9 9 9 \\ 2$ ），还原糖相对释放量在 $5 5 9 . 5 6 { \\sim } 5 8 2 . 7 0 \\$ mg/gDM变化，变异系数为 $1 . 6 6 \\%$ ，而上样量为 $1 . 0 \\ \\mathrm { g }$ 时，还原糖相对释放量比上样量为 $0 . 2 { \\sim } 0 . 8 \\ \\mathrm { g }$ 时的平均值下降 $5 . 3 7 \\%$ ；3个批次的大麦、花生粕、米糠和玉米-豆粕饲粮的还原糖释放量的批内变异系数、批间变异系数和总变异系数均不大于 $1 . 6 8 \\%$ ，批间最大相对偏差分别为 $0 . 6 8 \\%$ 、 $1 . 5 0 \\%$ 、$1 . 3 9 \\%$ 和 $0 . 2 9 \\%$ ；12 种饲粮还原糖释放量的实测值显著高于计算值（ $P { < } 0 . 0 5$ ），而还原糖释放量的计算值与实测值的线性回归模型与 $y = x$ 相重合（截距 $\\scriptstyle P = 0 . 4 8 0 \\ 5$ ；斜率 $P { = } 0 . 5 1 4 \\ 1$ ）。由此得出，当饲粮上样量在 $0 . 2 { \\sim } 0 . 8 \\ \\mathrm { g }$ 时，上样量与还原糖释放量呈显著线性关系；仿生消化法测定饲料中还原糖释放量的重复性和可加性满足定量分析的基本要求。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：仿生消化系统；还原糖；重复性；可加性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S816",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "猪饲粮中碳水化合物的含量在 $6 0 \\%$ 以上，其中淀粉的含量在 $4 0 \\%$ 左右[]，非淀粉多糖的含量在$9 . 3 2 \\% \\sim 5 9 . 9 7 \\% ^ { [ 2 ] }$ ，这些碳水化合物可在酶的催化下水解成含有醛基的还原糖，是动物潜在可利用的养分。因此，建立以仿生消化方法测定饲料原料的还原糖释放量对饲料营养价值的评定及饲用酶制剂效应的评估有重要意义。目前，在饲料原料经酶水解后还原糖释放量的测定方法上，基于非淀粉多糖酶活性的测定方法[3-4]，师昆景等[5建立了饲料原料在 4 种非淀粉多糖酶催化后还原糖释放量的测定方法。Pedersen 等[以仔猪胃和小肠内获得的消化液及干食糜为材料，在 24 孔板内模拟体内的消化过程，建立了仔猪食糜在木聚糖酶催化后木糖释放量的测定方法。薛梅等[7在三角瓶中以胃蛋白酶及胰液素2个阶段消化为基础，简述了饲料在模拟家禽体内消化后还原糖释放量的测定方法。然而，以上试验并未研究测定方法的重复性与可加性是否满足定量分析的基本要求。从测定的过程看，这些方法仍会出现饲料样品粘贴于消化管壁而难以与消化液充分接触，微生物发酵引起反应液pH急剧下降等一系列问题，从而影响测试结果的精确性。针对上述问题，Zhao 等[8]在研制了用于测定饲料酶水解物能值的单胃动物仿生消化系统（SDS-2）的基础上，进一步开发了以仿生消化法测定饲料原料还原糖释放量的模块。本研究基于该模块从上样量与还原糖释放量的线性关系、测定结果的重复性和可加性3个方面展开研究，旨在为建立饲料在消化酶水解后还原糖释放量的测定方法方面提供参考。  \n1 材料与方法  \n1.1 饲料原料  \n选用玉米、大麦、高梁、米糠、大豆粕、棉籽粕和花生粕为代表性饲料原料。采用四分法取样后粉碎过 40 目筛。充分混合均匀后，贮存于样品瓶中-20℃保存备用。饲料原料及其营养成分列于表1。其中干物质、粗蛋白质、粗灰分、粗脂肪、粗纤维含量分别按照GB/T 6435-2006[9]、GB/T 6432-1994[10]、GB/T 6438-2007[11]、GB/T 6433-2006[12]、GB/T 6434-2006[13]的方法进行测定，无氮浸出物含量为计算值，计算公式为：  \n无氮浸出物含量=100-(粗蛋白质含量 $+$ 粗纤维含量 $+$ 粗脂肪含量 $^ +$ 粗灰分含)。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/bf34229fd0c2e5f3376e7138baa982229964e12044be8113961affa5117315f9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">饲料d 原gedlints</td><td colspan=\"7\">营养成分 Nutritional components</td></tr><tr><td>干物质 matter/%</td><td>粗蛋白质 protein/%</td><td>粗纤维 fiber/%</td><td>粗脂 extrac/%t</td><td>ash/%</td><td>无氮浸出物 NFE/%</td><td>总能 Gross energy/(MJ/kg)</td></tr><tr><td>玉米Corn</td><td>87.24</td><td>8.71</td><td>1.85</td><td>4.13</td><td>1.31</td><td>84.00</td><td>18.76</td></tr><tr><td>大麦 Barley</td><td>88.79</td><td>10.28</td><td>4.35</td><td>2.59</td><td>2.31</td><td>80.47</td><td>18.34</td></tr><tr><td>高梁 Sorghum</td><td>87.00</td><td>9.60</td><td>1.69</td><td>3.08</td><td>1.40</td><td>84.23</td><td>16.34</td></tr><tr><td>大豆粕 Soybean meal</td><td>88.35</td><td>44.00</td><td>7.43</td><td>1.02</td><td>6.04</td><td>41.51</td><td>17.30</td></tr><tr><td>花生粕 Peanut meal</td><td>91.54</td><td>51.48</td><td>5.17</td><td>8.74</td><td>5.02</td><td>29.59</td><td>21.19</td></tr><tr><td>棉籽粕 Cottonseed meal</td><td>90.48</td><td>50.05</td><td>11.84</td><td>2.87</td><td>6.41</td><td>28.83</td><td>20.00</td></tr><tr><td>米糠 Rice bran</td><td>90.08</td><td>15.05</td><td>7.83</td><td>18.43</td><td>8.17</td><td>50.52</td><td>21.66</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究由3个试验组成。其中试验1研究饲粮上样量与还原糖释放量的线性关系。以玉米：豆粕按 75：25比例混合配制成玉米-豆粕饲粮，上样量设0.2、0.4、0.6、0.8 和 $1 . 0 \\mathrm { ~ g ~ } 5$ 个处理，每个处理设4个重复，每个重复1根消化管。试验2研究不同测定批次间饲料经消化酶水解后还原糖释放量的重复性。以玉米-豆粕饲粮、大麦、花生粕和米糠为研究对象，每个样品设3个测定批次，每个批次设4个重复，每个重复1根消化管。试验3研究饲料原料间在仿生消化后还原糖释放量的可加性，共19个处理（表2)，其中处理 $1 { \\sim } 7$ 为7种单一饲料原料，处理 $8 \\sim 1 9$ 为2种或2种以上饲料原料按不同比例组合制备的12种饲粮，每个处理设4个重复，每个重复1根消化管。在仿生消化系统中以猪模拟消化液及流程测定各处理还原糖的释放量。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/7b1dc1e9ee63d1d77e17828534920e3fc66f1461473d3182ba4350f91cc14736.jpg",
+        "table_caption": [
+            "Table1 Feed ingredients and their nutritional components (DM basis) % ",
+            "表2试验2各处理饲粮组成(干物质基础)",
+            "Table2 Composition of each treatment diets in trial 2(DMbasis) % "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目 Items</td><td colspan=\"8\">原料 Ingredients</td></tr><tr><td></td><td colspan=\"8\">大麦 高梁</td></tr><tr><td></td><td>玉米 Corn</td><td>Barley</td><td>Sorghum</td><td>Soybean meal</td><td>Peanut meal</td><td>Cottonseed meal</td><td></td><td>米糠 Rice bran</td></tr><tr><td>处理1 Treatment 1</td><td>100.00</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>处理2Treatment 2</td><td></td><td>100.00</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>处理3 Treatment 3</td><td></td><td></td><td>100.00</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>处理4 Treatment 4</td><td></td><td></td><td></td><td></td><td>100.00</td><td></td><td></td><td></td></tr><tr><td>处理5 Treatment 5</td><td></td><td></td><td></td><td></td><td></td><td>100.00</td><td></td><td></td></tr><tr><td>处理6 Treatment 6</td><td></td><td></td><td></td><td></td><td></td><td></td><td>100.00</td><td></td></tr><tr><td>处理7 Treatment 7</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>100.00</td></tr><tr><td>处理8 Treatment 8</td><td>59.60</td><td>40.40</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>处理9 Treatment 9</td><td>60.25</td><td>39.75</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>处理10 Treatment 10</td><td></td><td>60.61</td><td>39.39</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>处理11 Treatment 11</td><td>41.94</td><td>28.38</td><td>29.68</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/51027a7307504ea2467b1ddcd4b76596fbfcfa9663b1a2b4e24150d792472192.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>处理12 Treatment 12</td><td></td><td></td><td></td><td>59.22</td><td>40.78</td><td></td><td></td></tr><tr><td>处理13 Treatment 13</td><td></td><td></td><td></td><td>59.39</td><td></td><td>40.61</td><td></td></tr><tr><td>处理14 Treatment 14</td><td></td><td></td><td></td><td></td><td>60.15</td><td>39.85</td><td></td></tr><tr><td>处理15 Treatment 15</td><td></td><td></td><td></td><td>47.25</td><td>32.54</td><td>20.21</td><td></td></tr><tr><td>处理16 Treatment 16</td><td>31.42</td><td>21.26</td><td>22.21</td><td>25.11</td><td></td><td></td><td></td></tr><tr><td>处理17 Treatment 17</td><td>24.95</td><td>16.87</td><td>17.65</td><td>19.92</td><td>20.61</td><td></td><td></td></tr><tr><td>处理18 Treatment 18</td><td>21.16</td><td>14.31</td><td>14.94</td><td>16.88</td><td>17.43</td><td>15.28</td><td></td></tr><tr><td>处理19 Treatment 19</td><td>19.03</td><td>12.86</td><td>13.45</td><td>15.19</td><td>15.67</td><td>13.74</td><td>10.06</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3仿生消化法测定饲料的还原糖释放量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.1猪模拟消化液及反应溶液的制备",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "胃缓冲液（ $\\mathsf { p H } 3 . 0 \\rangle$ ：称取 $2 . 5 9 \\ \\mathrm { g }$ 氯化钠和 $0 . 2 5 \\mathrm { ~ g ~ }$ 氯化钾，倒入 $5 0 0 ~ \\mathrm { m L }$ 烧杯中，加 $3 5 0 ~ \\mathrm { m L }$ 去离子水溶解，并用 $2 \\mathrm { m o l } / \\mathrm { L }$ 的盐酸（HCI）在 $3 9 \\mathrm { ~ \\textdegree ~ }$ 下调节溶液的 $\\mathsf { p H }$ 至3.0。冷却后将上述溶液转入$5 0 0 ~ \\mathrm { m L }$ 容量瓶中，去离子水定容。小肠缓冲液：称取 $ { 0 . 5 2 \\mathrm { ~ g ~ } }$ 无水磷酸氢二钠、 $2 . 5 7 \\ \\mathrm { g }$ 无水磷酸二氢钠和青霉素12万U，倒入100mL烧杯中，加 $4 0 ~ \\mathrm { m L }$ 去离子水溶解，并用1mol/L的磷酸或 $1 \\ \\mathrm { m o l / L }$ 的氢氧化钠在 $3 9 \\mathrm { ~ \\textdegree ~ }$ 下调节溶液的pH至6.30。冷却后将上述溶液转入 $5 0 0 ~ \\mathrm { m L }$ 容量瓶中，去离子水定容。模拟胃液（胃蛋白酶活性 $7 3 7 . 5 \\mathrm { U / m L }$ ）：称取 $1 4 7 . 5 \\mathrm { k U }$ 的胃蛋白酶（Sigma，P7000） $0 . 2 1 \\ \\mathrm { g }$ 溶解于 $2 0 0 \\mathrm { m L } \\mathrm { p H } 3 . 0$ 的胃缓冲液中，缓慢搅拌直至溶解，临用前配制。模拟小肠液：称（量）取淀粉酶（Sigma，A3306）41.41kU、胰蛋白酶（Amersco，0785）$1 2 . 8 2 \\mathrm { ~ k U }$ 、糜蛋白酶（Amersco，0164） $1 . 6 2 ~ \\mathrm { k U }$ ，溶解于 $1 7 ~ \\mathrm { m L }$ 去离子水中，并缓慢搅拌直至溶解$1 5 \\mathrm { m i n }$ 以上，临用前配制。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.2基于仿生消化系统的饲料还原糖释放量测定过程",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "称取一定质量的饲料样品（1g以内，精确到 $0 . 0 0 0 \\textrm { 2 g }$ ）置于玻璃模拟消化管中，同步测定样品的干物质含量；往消化管中加入 $1 0 ~ \\mathrm { m L }$ 模拟胃液，模拟消化器另一端安装好电动搅拌器；将模拟消化器置于预热好的单胃动物仿生消化系统中，按照模拟消化器下端进水、上端出水的原则，接好管路。每组5根模拟消化器间串联连接。消化液加液管和缓冲液加液管与系统以快速接头相连，搅拌电机的插头与电源相连接；在单胃动物仿生消化系统控制软件中，胃阶段模拟消化的参数为：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "温度 $3 9 \\mathrm { ~ \\textdegree ~ }$ ，蠕动泵转速 $1 8 0 ~ \\mathrm { r / m i n }$ ，消化时间 $^ { 4 \\mathrm { h } }$ ；在胃模拟消化结束时，将 $6 ~ \\mathrm { m L }$ 小肠缓冲液通过3 号蠕动泵自动注入消化管中，然后通过4号蠕动泵将 $1 . 6 ~ \\mathrm { m L }$ 模拟小肠液自动泵入模拟消化管中;在单胃动物仿生消化系统控制软件中，小肠阶段模拟消化的参数为：温度 $3 9 \\mathrm { ~ ^ { \\circ } C }$ ，蠕动泵转速180r/min，消化时间为 $^ { 1 6 \\mathrm { ~ h ~ } }$ ；小肠模拟消化结束后，将玻璃消化管内的消化液无损失地转移到合适体积的干净容量瓶中，然后用去离子水定容，封口膜密封，摇匀备用（酶空白组不需要转移到容量瓶中，直接滤膜过滤）。从容量瓶中取 $3 0 ~ \\mathrm { m L }$ 消化液，用一次性注射器吸取，通过 $0 . 2 2 ~ { \\mu \\mathrm { m } }$ 滤膜过滤，滤液进行适当倍数的稀释备用。取 $2 { \\mathrm { ~ m L ~ } }$ 稀释后的消化液加入到试管中，然后加入 $2 { \\mathrm { ~ m L ~ } }$ 去离子水，振荡混匀，加 $5 ~ \\mathrm { m L }$ 二硝基水杨酸(DNS)溶液并沸水浴 $5 ~ \\mathrm { m i n }$ ，冷却至室温后定容至 $2 5 ~ \\mathrm { m L }$ 混匀， $5 4 0 ~ \\mathrm { n m }$ 处测吸光度（OD）值。参照GB/T23881-2009的方法制作葡萄糖标准曲线及配制DNS 溶液。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4 还原糖释放量的计算按GB/T6435-20069的方法测定样品水分并计算其干物质含量，还原糖释放量计算公式如下：还原糖释放量 $\\mathrm { ( m g / g ~ D M ) } { = } [ ( { \\tt a } \\times O D _ { 1 } { + } { \\tt b } ) \\times D \\times { \\tt V } { - } ( { \\tt a } \\times O D _ { 2 } { + } { \\tt b } ) \\times 1 7 . 6 ] / ( w \\times D M )$ 式中：a为标准曲线回归系数；b为标准曲线回归常数； $O D _ { 1 }$ 为每个重复测定管的OD值； $O D _ { 2 }$   \n为消化酶空白管的OD 值； $D$ 为样品稀释倍数； $V$ 为定容体积； $w$ 为每个重复测定管饲料样品质量：  \nDM为饲料样品的干物质含量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5数据处理及统计分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以 SAS 9.0的MEANS模块对基本统计量进行分析，批次变异系数、批间变异系数及总变异系数根据李辉等[4]的方法进行计算。最大绝对偏差=Max{[(最大值-平均值) $\\mapsto$ (平均值-最小值)]/2}，最大相对偏差 $\\ c =$ 最大绝对偏差/平均值 $\\times 1 0 0$ 。采用GLM 模块对数据进行方差分析；采用REG 模型进行还原糖释放量与上样量线性模型的分析；通过 TTEST模块的 Paired选项对饲粮还原糖释放量的实测值与计算值间的差异进行配对t检验。以REG 模块通过 TEST 选项分析饲粮还原糖释放量的计算值与实测值的回归斜率与截距分别与1和0的显著性差异，判断实测值与计算值是否相等，从而检验方法是否具有可加性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "数据柱标注不同小写字母表示差异显著。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Date columns with different letters mean significant difference $( P { < } 0 . 0 5 )$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d04b1a95fc07766716db37ee27c2e2a9ba84e2527ecd6519b2dce9b7e7272989.jpg",
+        "img_caption": [
+            "图1饲粮上样量对还原糖释放量的影响",
+            "Fig.1 Effect of dietary sample volume on the release amount of reducing sugar "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2仿生消化法测定饲料还原糖释放量的重复性",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表 3可知，同一批次的4个重复内，大麦、花生粕、米糠和玉米-豆粕饲粮的还原糖释放量的最大相对偏差分别为 $1 . 4 0 \\%$ 、 $2 . 1 9 \\%$ 、 $0 . 8 8 \\%$ 和 $0 . 3 9 \\%$ ，批次内变异系数分别为 $0 . 9 3 \\%$ 、 $1 . 2 9 \\%$ 、$0 . 6 1 \\%$ 和 $0 . 3 4 \\%$ ；不同测定批次间大麦、花生粕、米糠和玉米-豆粕饲粮的还原糖释放量的最大相对偏差分别为 $0 . 6 8 \\%$ 、 $1 . 5 0 \\%$ 、 $1 . 3 9 \\%$ 和 $0 . 2 9 \\%$ ，批次间变异系数分别为 $0 . 6 4 \\%$ 、 $1 . 2 7 \\%$ 、 $1 . 3 6 \\%$ 和$0 . 2 5 \\%$ 。3个批次的4个重复测定中，大麦、花生粕、米糠和玉米-豆粕饲粮的总变异系数分别为$1 . 0 2 \\%$ 、 $1 . 6 8 \\%$ 、 $1 . 4 6 \\%$ 和 $0 . 3 8 \\%$ 。从不同批次的还原糖释放量平均值的多重比较统计结果可以看出，花生粕和米糠的还原糖释放量在测定批次间存在显著性差异（ $\\scriptstyle \\cdot < 0 . 0 5 )$ ）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/90cfeb929043485bc7bc7a2ac21615e3ef2ac9630b9eaf090ab637c426aaf5df.jpg",
+        "table_caption": [
+            "表3仿生消化法测定饲料还原糖释放量的重复性",
+            "Table 3Repeatability of the release amount of reducing sugar determined by simulated digestion method "
+        ],
+        "table_footnote": [
+            "2.3仿生消化法测定饲料原料间还原糖释放量的可加性"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">重复</td><td colspan=\"2\">Barley(mg/g DM)</td><td colspan=\"3\">花生粕 Peanut Deal/mg/g</td><td colspan=\"3\">Rice bran(mg/g DM)</td><td colspan=\"3\">玉米-豆粕饲粮 Core-/mg/g DM)l</td></tr><tr><td></td><td>批次1 批次2 批次3 Batch1 Batch2 Batch3</td><td></td><td>Batch1 Batch2 Batch3</td><td>批次1 批次2 批次3</td><td></td><td>Batch1 Batch2 Batch3</td><td>批次1 批次2 批次3</td><td>批次1 Batch1</td><td>批次2 Batch2</td><td>批次3 Batch3</td></tr><tr><td>1</td><td></td><td>593.57 590.68 587.52</td><td></td><td>76.43</td><td>77.84 75.08</td><td></td><td></td><td>343.05 333.52 345.72</td><td>570.33</td><td>573.82</td><td>572.04</td></tr><tr><td>2</td><td></td><td>603.20 595.82 591.32</td><td></td><td>77.24</td><td>78.21 76.54</td><td></td><td>343.46 331.13 343.03</td><td></td><td>573.58</td><td>570.49</td><td>576.56</td></tr><tr><td>3</td><td></td><td>586.49 597.48 589.46</td><td></td><td>78.46</td><td>78.01</td><td>75.03</td><td>343.04 335.78 344.45</td><td></td><td>574.41</td><td>570.87</td><td>575.79</td></tr><tr><td>4</td><td>601.65 598.18 584.24</td><td></td><td></td><td>75.10</td><td>78.01</td><td>76.24</td><td></td><td>344.11 335.25 339.65</td><td>572.80</td><td>570.18</td><td>574.23</td></tr><tr><td>统计量 Statistics</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均值 Mean</td><td></td><td>596.23 595.54 588.14</td><td></td><td>76.81</td><td>78.02</td><td>75.72</td><td>343.41 333.92 343.22</td><td></td><td></td><td>572.78 571.34</td><td>574.65</td></tr><tr><td>标准差 SD 批内变异系数</td><td>7.74</td><td>3.39</td><td>3.03</td><td>1.41</td><td>0.15</td><td>0.78</td><td>0.50 2.10</td><td>2.62</td><td>1.76</td><td>1.67</td><td>2.00</td></tr><tr><td>CV intra/% 批间变异系数</td><td></td><td>0.93</td><td></td><td></td><td>1.29</td><td></td><td>0.61</td><td></td><td></td><td>0.34</td><td></td></tr><tr><td>CV inter/%</td><td></td><td>0.64</td><td></td><td></td><td>1.27</td><td></td><td>1.36</td><td></td><td></td><td>0.25</td><td></td></tr><tr><td>总变异系数 CV total/%</td><td></td><td>1.02</td><td></td><td></td><td>1.68</td><td></td><td></td><td>1.46</td><td></td><td>0.38</td><td></td></tr><tr><td>批内最大绝对偏差 MADintra/(mg/g DM)</td><td></td><td>8.36</td><td></td><td></td><td>1.68</td><td></td><td></td><td>3.04</td><td></td><td>2.26</td><td></td></tr><tr><td>批内最大相对偏差 MRD intra/%</td><td></td><td>1.40</td><td></td><td></td><td>2.19</td><td></td><td></td><td>0.88</td><td></td><td>0.39</td><td></td></tr><tr><td>批间最大绝对偏差 MADinter/(mg/g DM)</td><td></td><td>4.05</td><td></td><td></td><td>1.15</td><td></td><td></td><td>4.75</td><td></td><td>1.65</td><td></td></tr><tr><td>批间最大相对偏差</td><td></td><td>0.68</td><td></td><td></td><td>1.50</td><td></td><td></td><td>1.39</td><td></td><td>0.29</td><td></td></tr><tr><td>MRDinter/% P值</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P-value</td><td></td><td>0.100 6</td><td></td><td></td><td>0.021 6</td><td></td><td></td><td><0.000 1</td><td></td><td>0.081 7</td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，通过 $t$ 检验得知，仿生消化后获得的由玉米、大麦、高梁、大豆粕、花生粕、棉籽粕和米糠按不同比例混合配制而成的12 种饲粮的还原糖释放量的实测值显著高于计算值（ $. P { < } 0 . 0 5$ ），而从还原糖释放量的计算值与实测值的线性回归分析可以得出，回归模型的决定系数为0.9996（ $P { < } 0 . 0 5$ ），截距与0比较无显著性差异（截距 $_ { [ - 1 . 9 9 }$ ，P=0.4805），斜率与1比较无显:9著性差异（斜率 $_ { - 0 . 9 9 }$ ， $P { = } 0 . 5 1 4 \\ 1$ ）。这说明12种饲粮的还原糖释放量的实测值与计算值的一元线",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "性回归模型与 $y = x$ 这条直线相重合。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/4dd53a04ed7afad82877b968be476c3d9dd0d4dfdf40adef6b50bd7c500e133e.jpg",
+        "table_caption": [
+            "表4饲粮还原糖释放量的实测值与计算值",
+            "Table 4 The determined and caculated values of the release amount of reducing sugar "
+        ],
+        "table_footnote": [
+            "1)还原糖释放量实测值与计算值的回归反省。Regression analysis of determined values on calculated values for mean of the release amount of reducing sugar. 2)无效假设：截距 $\\scriptstyle = 0$ ；备择假设：截距 $\\neq 0$ 。 H0: intercept=0; Hα: intercept/0. 3)无效假设：斜率 $_ { . = 1 }$ ；备择假设：斜率≠1。H0:slope $\\scriptstyle : = 1$ ; Hα: slopef1. 4回归模型的显著性。The significance of regression model. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目 Items</td><td colspan=\"3\">还原糖释放量</td></tr><tr><td colspan=\"3\">The release amount of reducing sugar/(mg/g DM) 实测值 计算值 差值</td></tr><tr><td></td><td>Determined value</td><td>Calculated value</td><td>Difference</td></tr><tr><td>处理1Treatment 1</td><td>643.35</td><td></td><td></td></tr><tr><td>处理2 Treatment 2</td><td>530.44</td><td></td><td></td></tr><tr><td>处理3 Treatment 3</td><td>640.96</td><td></td><td></td></tr><tr><td>处理4 Treatment 4</td><td>15.16</td><td></td><td></td></tr><tr><td>处理5 Treatment 5</td><td>76.87</td><td></td><td></td></tr><tr><td>处理6 Treatment 6</td><td>7.34</td><td></td><td></td></tr><tr><td>处理7 Treatment 7</td><td>307.51</td><td></td><td></td></tr><tr><td>处理8 Treatment 8</td><td>594.30</td><td>595.93</td><td>-1.63</td></tr><tr><td>处理9 Treatment 9</td><td>647.95</td><td>640.58</td><td>7.37</td></tr><tr><td>处理10 Treatment 10</td><td>614.55</td><td>609.33</td><td>5.22</td></tr><tr><td>处理11 Treatment 11</td><td>569.11</td><td>573.98</td><td>-4.87</td></tr><tr><td>处理12 Treatment 12</td><td>42.46</td><td>40.32</td><td>2.13</td></tr><tr><td>处理13 Treatment 13</td><td>11.02</td><td>11.98</td><td>-0.97</td></tr><tr><td>处理14 Treatment 14</td><td>48.14</td><td>49.16</td><td>-1.02</td></tr><tr><td>处理15 Treatment 15</td><td>34.63</td><td>33.66</td><td>0.97</td></tr><tr><td>处理16 Treatment 16</td><td>468.12</td><td>460.13</td><td>7.99</td></tr><tr><td>处理17 Treatment 17</td><td>386.87</td><td>381.23</td><td>5.64</td></tr><tr><td>处理 18 Treatment 18</td><td>337.83</td><td>324.25</td><td>13.59</td></tr><tr><td>处理19 Treatment 19</td><td>330.24</td><td>322.52</td><td>7.72</td></tr><tr><td>统计量 Statistics</td><td></td><td></td><td></td></tr><tr><td>处理8~19 的平均值</td><td>340.44</td><td>336.92</td><td></td></tr><tr><td>Mean of treatments 8 to19 t检验P值</td><td></td><td></td><td></td></tr><tr><td>P-value of t-test</td><td>0.041 8</td><td></td><td></td></tr><tr><td>回归分析参数估计 Parameter estimates of regression analysis1)</td><td></td><td></td><td></td></tr><tr><td>截距 Intercept</td><td></td><td>-1.99</td><td></td></tr><tr><td>P值P-value2)</td><td></td><td>0.480 5</td><td></td></tr><tr><td>斜率 Slope</td><td></td><td>0.99</td><td></td></tr><tr><td>P值P-value3)</td><td></td><td>0.514 1</td><td></td></tr><tr><td>决定系数R²</td><td></td><td>0.999 6</td><td></td></tr><tr><td>P值P-value4)</td><td></td><td><0.000 1</td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1饲粮上样量对还原糖释放量的影响",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "饲粮在畜禽体内的消化分为物理消化、化学消化及微生物消化，其中以消化酶参与的化学消化起主导作用[15]。除幼龄动物外，健康畜禽体内消化酶的分泌量超过其对饲粮相应底物完全水解的需要量[16]。在基于透析分离水解产物的仿生消化中，模拟消化液内主要消化酶的活性与体内消化液接近[8，消化液的体积（mL）与样品上样量（g）的比例在10:1以上，该比值接近或高于体内肠道食糜的相应比值[17]。因此，相对于样品的上样量，酶的活性是过量的。本研究中，为了准确测定水解液中产物的生成量，仿生消化过程与外界无物质交换。因此，在模拟消化液体积不变的情况下，随着上样量的增加可能存在水解产物对酶促反应的抑制，当酶活性过量且产物抑制效应不明显时，酶促反应速度呈一级反应，即产物的生成量与底物浓度呈线性关系[18]。而当底物浓度继续增大并出现明显的产物抑制效应时，则会出现产物的生成量随底物浓度增加而偏离上述线性关系。本试验中，随着饲粮上样量在 $0 . 2 { \\sim } 0 . 8 \\ \\mathrm { g }$ 间梯度增加，还原糖释放量呈线性增加。然而，上样量 $1 . 0 \\ \\mathrm { g }$ 的处理对上样量与还原糖释放量的线性关系有明显影响。当上样量在 $0 . 2 { \\sim } 0 . 8 \\ \\mathrm { g }$ 间梯度变化时，所计算的每克样品的还原糖释放量相对稳定；而上样量在 $\\boldsymbol { 1 . 0 \\mathrm { ~ g ~ } }$ 时，所计算的每克样品的还原糖相对释放量出现明显下降。上述结果表明，本仿生消化方法中，上样量在 $0 . 8 \\mathrm { ~ g ~ }$ 以上时水解产物对酶促反应的抑制较为明显，从而使还原糖的释放量偏离上样量与还原糖释放量的稳定线性关系。因此，本方法中上样量应控制在 $0 . 2 { \\sim } 0 . 8 \\ \\mathrm { g }$ 之间。  \n3.2 仿生消化法测定饲料原料还原糖释放量的重复性和可加性  \n重复性与可加性是检验定量分析方法是否成立的关键。统计学定义重复性是在重复测试条件下，得到的独立测定结果间的一致程度[19]。一般通过批内变异系数、批间变异系数及总变异系数来表示方法重复性的优劣[14]。本试验对玉米-豆粕饲粮、大麦、花生粕和米糠各进行 3个批次测定仿生消化后的还原糖释放量，其批内变异系数、批间变异系数及总变异系数均在 $1 . 6 8 \\%$ 以内，该变异程度与仿生消化法测定饲料的干物质消化率及酶水解物能值的变异系数（在 $1 . 4 0 \\%$ 以内）类似[14],比实验室间测定饲料干物质含量及总能的变异系数（分别为 $1 . 2 7 \\%$ 和 $1 . 2 9 \\%$ ）稍高[20]，但是比基于三角瓶的模拟消化法测得的饲料干物质消化率变异系数（ $6 . 8 9 \\%$ ）低[21]。这表明仿生消化法测定饲",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "料原料还原糖释放量的变异程度可以达到饲料概略养分测定类似的重复性。虽然花生粕和米糠不同测定批次间的还原糖释放量存在着差异显著，但还原糖释放量的批间最大绝对偏差分别为 1.15和 $4 . 7 5 ~ \\mathrm { m g / g }$ DM，相对偏差分别为 $1 . 5 0 \\%$ 和 $1 . 3 9 \\%$ ，它比饲料粗蛋白质测定允许的相对偏差（ $3 \\%$ 以内）低[10]。因此，在本试验所用仿生消化法测定饲料还原糖释放量的重复性是满意的。方法的可加性是指样品间按不同比例组合后的测定值与理论值相等[8]。一般通过对多个待测样品按不同比例组合形成一系列新样品后，将新样品所检测的实测值与根据新样品中单一样品的比例及其测定值计算得到的计算值进行回归分析，通过比较得到的回归直线与 $y = x$ 的显著性检验来判断[22]。生物学法测定鸡饲料原料的代谢能值具有满意的可加性[20]；仿生消化法测定饲料的酶水解物能值也具有较好可加性[23]。本研究中，由7种饲料原料配制的12 种饲粮，虽然配对 $\\mathbf { \\Psi } _ { t }$ 检验表明饲粮还原糖释放量的实测值略高于计算值，但饲粮的还原糖释放量的实测值对计算值的回归模型与 $y = x$ 无显著性差异。这表明仿生消化法测定饲料原料的还原糖释放量具有满意的可加性。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论  \n$\\textcircled{1}$ 仿生消化法测定饲粮还原糖释放量时上样量在 $0 . 2 { \\sim } 0 . 8 \\ \\mathrm { g }$ 之间，上样量与还原糖释放量呈显著线性关系。  \n$\\textcircled{2}$ 仿生消化法测定饲料还原糖释放量的重复性和可加性可满足定量分析的基本要求。  \n参考文献:  \n[1] HERRER-SALDANA R E,HUBER J T,POORE M H.Dry matter，crude protein，and starchdegradability of five cereal grains[J].Journal of Dairy Science,1990,73(9):2386-2393.  \n[2] MALATHI V,DEVEGOWDA G.In vitro evaluation of nonstarch polysaccharide digestibility of feedingredients by enzymes[J].Poultry Science,2001,80(3):302-305.  \n[3]中华人民共和国国家质量监督检验检疫总局,中国国家标准化管理委员会.GB/T 23874-2009 饲料添加剂木聚糖酶活力的测定(分光光度法)[S].北京:中国标准出版社,2009.[4]中华人民共和国国家质量监督检验检疫总局,中国国家标准化管理委员会.GB/T 23881-2009 饲用纤维素酶活性的测定(滤纸法)[S].北京:中国标准出版社,2009.  \n[5]师昆景,张召佐,张铁鹰,等.DNS 法快速评定非淀粉多糖酶体外酶解饲料原料效果的研究[J].饲料广角,2011(10): 40-43.  \n[6] PEDERSEN N R,AZEM E,BROZ J,et al.The degradation of arabinoxylan-rich cell walls in digestaobtained from piglets fed wheat-based diets varies depending on digesta collection site,type of cerealandsource of exogenous xylanase[J].Journal of Animal Science,2013,90(Suppl.4):149-151.  \n[7]薛梅,史雪萍,张廷荣,等.肉鸡小麦型饲粮4 种单酶复配效应的体外法评定[J].动物营养学报,2014,26(12):3747-3756.  \n[8] ZHAO F,REN L Q,MI B M,et al.Developing a computer-controled simulated digestion system topredict the concentration of metabolizable energy of feedstuffs for rooster[J].Journal of AnimalScience,2014,92(4):1537-1547.  \n[9]中华人民共和国国家质量监督检验检疫总局,中国国家标准化管理委员会.GB/T 6435-2006 饲料中水分和其他挥发性物质含量的测定[S].北京:中国标准出版社,2007.  \n[10]中华人民共和国国家质量监督检验检疫总局,中国国家标准化管理委员会.GB/T 6432-1994 饲料中粗蛋白测定[S].北京:中国标准出版社,1995.  \n[11]中华人民共和国国家质量监督检验检疫总局,中国国家标准化管理委员会.GB/T 6438-2007饲料中粗灰分的测定[S].北京:中国标准出版社,2007.  \n[12] 中华人民共和国国家质量监督检验检疫总局,中国国家标准化管理委员会.GB/T 6433-2006 饲料中粗脂肪的测定[S].北京:中国标准出版社,2006.  \n[13]中华人民共和国国家质量监督检验检疫总局,中国国家标准化管理委员会.GB/T 6434-2006 饲料中粗纤维的含量测定[S].北京:中国标准出版社,2006.[14] 李辉,赵峰,计峰,等.仿生消化系统测定鸭饲料原料代谢能的重复性与精密度检验[J].动物营养学报,2010,22(6):1709-1716.  \n[15]杨凤.动物营养学[M].2版.北京:中国农业出版社,1999.  \n[16] LONGLAND A C.Digestive enzyme activities in pigs and poultry[R].Walingford:CABI,1991:3-18.[17]张建智,赵峰,张宏福,等.基于T型套管瘘术的鸡小肠液组分与食糜消化特性的研究.[D].硕士学位论文.扬州：扬州大学,2011.  \n[18]王镜岩,朱圣庚,徐长法.生物化学[M].3版.北京:高等教育出版社,2006.  \n[19]中华人民共和国国家质量监督检验检疫总局,中国国家标准化管理委员会.GB/T 3358.2-2009 统计学词汇及符号第2部分:应用统计[S].北京:中国标准出版社,2010.  \n[20] BOURDILLON A,CARRE B,CONAN L,et al.European reference method for the in vivodetermination of metabolisable energy with adult cockerels:reproducibility,effect of food intake andcomparison with individual laboratory methods[J].British Poultry Science,1990,31(3):557-565.  \n[21] CLUNIES M,LEESON S.In vitro estimation of dry matter and crude protein digestibility[J].PoultryScience,1984,63(1):89-96.  \n[22]赵峰,李辉,张宏福.单胃动物仿生消化系统测定鸭饲料酶水解物能值可加性的研究[J].动物营养学报,2015,27(2):495-502.  \n[23] SIBBALD I R.A test of the additivity of true metabolizable energy values of feedingstuffs[J].PoultryScience,1977,56(1):363-366.  \nStudy on the Repeatability and Additivity of the Release Amount of Reducing Sugar of FeedIngredients Determined with Simulated Digestion Method for Pigs  \nLIAO Rui ZHAO Feng\\* ZHANG Hu WANG Yuming ZHANG Hongfu",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(State Key Laboratory ofAnimal Nutrition, Institute ofAnimal Sciences, Chinese academy of Agriculture Sciences,Beijing 100193, China) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This study was conducted to establish the method for determining the release amount of reducing sugar of feed ingredients digested with simulated digestion system to mimic the digestion of pigs, which provides a reference for the evaluation of feed nutrient bioavailability. A corn-soybean meal diet ( $7 5 \\%$ （204号 $\\mathrm { c o r n } { + } 2 5 \\%$ soybean meal) was formulated to test the linear relationship between the release amount of reducing sugar and sample volume of diet. Five treatments of sample volume were consisted of 0.2, 0.4, 0.6, 0.8 and $1 . 0 \\ \\mathrm { g }$ . Each treatment contained 4 replicates with 1 digestion tube per replicate. Corn-soybean meal diet, barley, peanut meal and rice bran were used to test the repeatability of the method. Each sample was determined for 3 batches with 4 replicates in each.There were 19 treatments to test the additivity of the method. Treatments 1 to 7 were corn, barley,sorghum, soybean meal, peanut meal, cottonseed meal and rice bran,respectively. Treatments 8 to 19 were 12 diets formulated with 2 or more than 2 kinds of fed ingredients at different proportions. Each treatment contained 4 replicates with 1 digestion tube per replicate. The release amount of reducing sugar of each treatment was determined after the feed was digested with simulated digestion system to mimic the digestion of pigs.The results showed as follows: when the sample volume changed from 0.2 to $0 . 8 \\mathrm { ~ g ~ }$ ，a significant linear relationship $\\scriptstyle ( R ^ { 2 } = 0 . 9 9 9 \\ 2 )$ ）was observed between the total release amount of reducing sugar and sample volume, and the relative release amount of released reducing sugar ranged from 559.56 to $5 8 2 . 7 0 \\mathrm { m g / g }$ DM with a coefficient of variation (CV) of $1 . 6 6 \\%$ . However, the release amount of reducing sugar at $\\boldsymbol { 1 . 0 \\ \\mathrm { g } }$ of sample volume was $5 . 3 7 \\%$ （204号 lower than the mean of these at 0.2 to $0 . 8 ~ \\mathrm { g }$ of sample volume.The CV of intra-batch, inter-batch and total for the release amount of reducing sugar were alless than $1 . 6 8 \\%$ ,and the inter-batch maximum relative difference among repeated determinations were $0 . 6 8 \\%$ ， $1 . 5 0 \\%$ ， $1 . 3 9 \\%$ and $0 . 2 9 \\%$ for barley, peanut meal, rice bran and corn-soybean meal, respectively. The determined values were greater than the calculated values of the release amount of reducing sugar in 12 diets( $P { < } 0 . 0 5 \\$ ）. However,the linear regression model of calculated values and determined values of the release amount of reducing sugar was consistent to the line of $y = x$ （ $\\scriptstyle P = 0 . 4 8 0 \\ 5$ for intercept; $P { = } 0 . 5 1 4 \\ 1$ for slope). It is concluded that a significant linear relationship is found between sample volume and the release amount of reducing sugar at the sample volume ranged from 0.2 to $0 . 8 \\mathrm { ~ g ~ }$ ； the repeatability and additivity of the release amount of reducing sugar determined with simulated digestion method can meet the basic requirements of quantitative analysis. Key words: simulated digestion system; reducing sugar; repeatability; additivity ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

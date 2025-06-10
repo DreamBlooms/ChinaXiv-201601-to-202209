@@ -1,0 +1,350 @@
+[
+    {
+        "type": "text",
+        "text": "拖延行为的发展认知机制及神经基础 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "冯廷勇 王雪珂 苏 缇（西南大学心理学部，重庆400715)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 拖延是指尽管预见到拖延会带来不利后果,人们仍自愿推迟开始或完成某一计划好的任务。研究表明，不同文化背景下有 $1 5 \\% \\sim 2 0 \\%$ 的成年人存在慢性拖延，超过 $40 \\%$ 的学生承认自己存在学业拖延，部分学生还会形成特质性拖延。严重的拖延不仅影响人们的学业、工作和生活，甚至还会危害到人们的身心健康。鉴于目前对于拖延产生的核心机制、形成的关键期以及发展认知神经机制还不是很清楚，本项目拟从拖延的时间决策理论出发，首先系统探明拖延决策的核心机制，尤其是远期价值评估、延迟折扣和自我控制能力等在拖延决策过程中的认知加工机制和神经基础；其次结合行为-环境变量-脑的多模态数据，从发展角度探究拖延形成的关键期（敏感期）、影响因素以及发展认知神经机制；最后从行为干预和脑的可塑性角度出发，试图制定各关键年龄阶段拖延预防与干预的临床方案。本研究的开展对于把握拖延形成的认知机制、神经基础及其发展规律具有重要的科学价值，对于拖延行为的预防和干预也具有直接的现实意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 拖延行为，决策，时间折扣，神经基础，干预 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1提出问题",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "拖延(Procrastination)是指尽管预见到拖延会带来不利后果,人们仍自愿推迟开始或完成某一计划好的任务(Steel,2007)。大量研究表明，拖延不仅普遍存在而且还具有跨时间和跨情景的稳定性(Elliot,2002; Steel,2010; Steel&Ferrari,2013)。研究表明，不同文化背景下有$1 5 \\% \\sim 2 0 \\%$ 的成年人存在慢性拖延(Ferrari,O'Callghan,& Newbegin,2005; Harriott & Ferrari,1996)，超过 $40 \\%$ 的学生承认自己存在学业拖延行为(Esteban&Ramirez,2014；楚翘,肖蓉,林倩,2010)，甚至部分个体会形成特质性拖延(Solomon& Rothblum,1984)。随着现代社会的高速发展，拖延问题更加严重和突显。拖延不仅严重影响人们学习、工作的效率，让人陷入不断的心理冲突、自我否定和强烈自责等负性情绪泥潭，甚至还会危害到人们的身心健康(Chen etal.,2020; Sirois,2007; Stead,Shanahan,& Neufeld,2010)，因此拖延行为受到了国内外研究者的广泛关注和重视。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "虽然，先前研究者从拖延的界定及类型、影响因素、成因以及干预等方面进行广泛的探讨。然而，拖延产生的核心机制目前尚不清楚。早期心理动力学、认知心理学及行为主义的解释都未能深入探讨拖延行为产生的过程(蒙茜,郑涌,2006)。近年提出的时间取向的双维度模型 $2 { \\times } 2$ model of time-related academic behavior) (Strunk, Cho, Steele,& Bridges, 2013)和情绪调节理论(STMR,short-term mood regulation theory) (Sirois, 2014; Sirois & Pychyl, 2013)考虑了任务执行的动机与任务拖延的动机，但并没有探究时间因素（尤其是延迟折扣现象）如何在这其中发挥作用。时间动机模型(temporal motivation theory)(Steel& Konig,2006)细化了执行任务的动机如何随着任务结果的临近而上升，但却并没有在模型中反映出拖延动机的作用。在先前的理论基础上，拖延的时间决策理论将动机维度和延迟折扣整合起来，系统阐明了拖延中“现在做还是以后做？”的决策机制(Zhang,Liu,&Feng,2019;张顺民,冯廷勇，2017)。只有准确把握了拖延产生的核心机制（包括认知机制、神经基础和形成机制），才能有效地对其进行预防和干预。同时，从发展角度考察拖延是如何形成的、拖延形成的关键期（敏感期）及发展认知神经机制几乎是一片空白。要真正探明任何一种认知能力和人格特质的形成及机制，都离不开从儿童发展及脑可塑性角度去探究，这也是中国“脑计划”之“儿童青少年脑智开发”部分的重要出发点。因此，本项目试图从拖延的时间决策理论出发，首先系统探明拖延决策的核心机制，尤其是远期价值评估、延迟折扣和自我控制能力等对拖延形成的作用机制和神经基础；其次从发展角度探究拖延形成的关键期（敏感期）、影响因素和发展认知神经机制，并试图制定各关键年龄阶段的预防与干预的临床方案。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2国内外研究现状及分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1拖延产生的成因与机制",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "先前研究者试图从不同的研究取向来解释拖延产生的成因，例如健康心理学取向（逃避焦虑，维护自尊）、心理动力学取向（对死亡本能的抗争和回避）、行为主义取向（追逐及时奖赏，习得拖延习惯）(宋梅歌,苏缇,冯廷勇,2015)。2000年以后，从认知心理角度（尤其是时间取向）来探究拖延的成因和机制逐渐成为了研究主流：（1）时间动机理论（TemporalMotivation Theory，TMT）模型从时间折扣和价值表征角度对拖延行为的产生进行了解释(Steel&Konig,2006)。在时间动机理论模型中，Delay（D）指从任务开始到完成的时间距离，当个体感觉到目标还很远，离可能获得的奖赏或惩罚时间还有很久时，更容易推迟任务。期望（E）和价值（V）都比较高的任务更有吸引力，更能引发个体行动的动机，也更少有拖延行为的产生(Steel&Konig,2006)。然而，该理论用延迟折扣解释了个体为什么在未来会有更强的行动动机，但却未能直接解释拖延的动机，尤其是任务负性过程的作用。（2）时间-动机的双维模型(Strunk etal.,2013)将拖延动机划分为“时间”维度和“动机”维度。其中，“时间”维度表示从及时行动到严重拖延，“动机”维度表示从趋近动机到回避动机。这两个维度的结合形成了四种不同的心理和行为特征，即拖延一趋近、拖延一回避、及时行动一趋近、及时行动一回避。具体而言，拖延一趋近是指延迟任务是为了达到更好的期望结果，它就相当于积极拖延，延迟任务是为了获得更加有效的策略或方案(Choi& Moran,2009)；拖延一回避是指拖延是为了避免不想要的结果，而不是争取期望的结果，它就相当于传统意义上的拖延，一般是由自我调控失败(Klassen et al.,2010)或逃避型的应对方式(Deniz,Tras,&Aydogan,2009)造成的；及时行动一趋近是指运用趋近的动机及时开始行动的行为，如在任务上获得优势；及时行动一回避是指运用回避的动机及时开始行动的行为，如回避潜在的不良后果或惩罚(Strunk etal.,2013)。该理论从“时间”和“动机”两个维度全面刻画了个体四种心理与行为特征，但它没有解释个体是如何做出“行动”或“拖延”的决策。（3）新近有研究者提出拖延的短期修复理论（STMR）(Sirois,2014; Sirois&Pychyl,2013)，从情绪调控的角度来解释拖延行为的形成原因。该理论将拖延视为一种自我调控的失败，认为拖延是由于个体屈服于修复负性情绪从而放弃远期的正性结果的行为(Ackerman&Gross,2005)。但该理论只能解释为什么人们不愿意在当前执行任务的现象，并没有说明延迟时间在拖延行为中的作用和机制，而时间维度是拖延行为中一个非常重要的组成部分。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "拖延行为的产生有着复杂的心理机制，Procee,Kamphorst,van Wissen,and Meyer (2013)提出的拖延行为的概念模型（ConceptualModel），系统地将影响拖延的主要因素分为三个维度：任务相关因素、个性相关因素以及状态性因素(R Procee et al.,2013)。其中，任务相关的因素包括包含任务的价值、任务结构、延迟时间、厌恶程度、环境诱惑等；个人特质相关的因素包含尽责性、神经质、冲动性、寻求刺激、自尊、自我控制、害怕失败等；个人状态性的因素包括情绪、奖赏寻求、自我损耗、应对策略等。虽然该模型详细介绍了各个维度的因素对拖延行为的影响，但是各个因素之间是如何相互作用的并没有做详细的解释。由此可见，片面地关注某一特定的影响因素都无法准确地理解拖延。例如回避焦虑、害怕失败以及低自尊等都被认为是拖延的原因，但却又都无法完整地解释拖延(Thakkar＆Neal,2009)，因此要想全面地理解拖延就必须把握其核心的心理机制。任何拖延行为在产生之前都需要回答一个问题：“现在做还是以后做?”，这实质上是一个决策问题(Zhang etal.,2019;张顺民,冯廷勇，2017)。无论拖延的个体具有何种特质，拖延前都需要权衡这个问题，而决定个体是否拖延最重要的因素就是个体对这个决策过程的认知机制。为此，冯廷勇团队在前期系列研究的基础上，提出了拖延的时间决策模型（Time decision model of procrastination，TDM）(Zhang,Becker,Chen,& Feng,2018; Zhang&Feng,2019)，该模型试图从四个层次阐明拖延中“现在做还是以后做？”的决策机制：首先，拖延动机和行动动机的竞争是决定是否拖延的根本；其次，拖延动机的竞争可以进一步简化为任务负性过程和任务正性结果的权衡；再次主动推迟任务使负性过程发生延迟折扣是拖延的核心目的；最后，自我控制能力在任务负性过程和任务正性结果的权衡中起调控作用。认知过程理论和认知计算模型如图1和模型1所示。在拖延的时间决策过程中，除了任务本身的效用，个体的认知能力也与拖延的形成密切相关。其中所涉及的核心能力包括远期价值表征、延迟折扣、自我控制、情绪调节、预期想象等(Chen, Liu, Zhang,& Feng, 2019; Rebetez, Barsics, Rochat, D'Argembeau,& Linden, 2016;Tice,Bratslavsky,&Baumeister,2001)。TDM模型表明，在某个时间点t处，个体首先会经历拖延或者不拖延动机的斗争，实际上是任务过程效用和结果效用之间的斗争，两者的斗争会导致拖延或者不拖延的决定。其中，个体回避任务的动机则源于在当前时间点t上所感知任务的负性过程效用，也就是个体感知的不愉快程度（如厌恶、焦虑等负性情绪）；而个体行动动机源于个体感知到的任务在未来可以产生的结果价值大小，即任务的正性结果效用。此外，TDM模型还指出，任务负性过程效用和结果效用的斗争可以被某些核心能力所影响。例如，低自我控制、负性情绪调控都意味着对负性过程的非适应性调节，即个体会以拖延行为来回避任务执行过程中的不愉快体验(Digdon& Howell,2008)。由此，基于 TDM 模型我们可以得知执行任务的动机更多地来自于任务的正性结果，拖延的动机更多地来自于对任务过程的负性认识。不过，拖延的时间决策模型还需要大量研究进行检验和完善，尤其是从发展认知神经机制角度考察任务未来结果效用评估、未来负性过程评估、延迟折扣（包括不同年龄阶段儿童对于奖赏和惩罚的敏感性，以及时间认知、时间洞察力与预期想象等）以及自我调节能力在拖延决策模型中的作用及机制。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/593566c8a734268a7f1d5da273c408912656fb7f1ae2ff0bd842825e6bee36cf.jpg",
+        "img_caption": [
+            "图1拖延的时间决策模型(资料来源：Zhang&Feng,2019;S.Zhangetal.,2019)"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "注：被试在接收任务的同时会产生对实时任务厌恶（real-time task aversivness），和实时任务结果效用（real-time outcomeutility）。通常，被试不会立即执行任务，而是会预期任务厌恶(Task-delay aversiveness)会在随着时间流逝在未来某段时间内有所下降，但预期的任务过程效用（Task-delay outcome utity）的评估权重由于离任务截止日期较远会被逐渐折扣。此时，被试会有一个预期的，较短的拖延时间(the expected delay)。然而，事实上，实时的任务厌恶（real-timetask aversivness）并不会呈持续下降的变化趋势，就像今天和一个星期后的今天考试，个体所感知的实际痛苦或厌恶程度可能相等，因此，实时的任务厌恶程度可能呈水平趋势变化。而实时的任务结果效用（real-time outcome utility）则随着任务截止日期的临近，缓慢增长。当在某一时间点上，实时的任务结果效用接近任务厌恶的评估权重时，由刚开始接收任务到这个时间点的时间才是被试实际拖延的时间(theactual delay)。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD e c i s i o n = \\frac { E _ { \\mathrm { e n g a g e m e n t } } ~ V _ { e n g a g e m e n t } } { 1 + \\Gamma _ { \\mathrm { e n g a g e m e n t } } ~ \\circledast D _ { \\mathrm { e n g a g e m e n t } } } + \\frac { E _ { o u t c o m e } ~ V _ { o u t c o m e } } { 1 \\Gamma ~ _ { o u t c o m e } ~ D _ { o u t c o m e } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "模型1",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Engagement utility outcome utility ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "注：拖延决策的计算公式：E代表期望，V代表价值，「代表对延迟的敏感性，D代表延迟时间。值得注意的是Dengagement 代表对任务过程的延迟，由个体对任务的主动推迟产生，而Doutcome 代表的是对任务结果的延迟，表示未来结果距离决策的时间(S. Zhang et al.,2019)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2拖延行为的神经基础 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于拖延行为的神经基础及机制，目前研究者主要从大脑结构态、静息态及脑电加工等角度进行考察。Hu等（2018）利用VBM技术分析拖延与大脑灰质的关系，结果发现：拖延与海马旁回（PHG）和眶额叶的灰质体积呈正相关，而与额中回（MFG）和额下回（IGF）的灰质体积呈负相关，这说明拖延可能与自我控制、情绪调控和预期想象等有密切关系(Hu,Liu,Guo,&Feng,2018)。采用静息态磁共振技术（Rs-fMRI），研究者发现：与自我控制相关的脑区的功能连接（例如vmPFC-DLPFC,vmPFC-dACC）与拖延存在负相关(Wu,Li,Yuan,&Xue,2016)；大尺度网络分析表明，正常组的额顶网络（frontoparietalnetwork,FPN）与扣带脑岛网络（cingulo- opercular network，CON）之间的连接显著强于拖延组(W.Zhang,Wang,&Feng,2016;苏缇 et al.,2018)，这些研究从神经基础角度证实了自我调控失败（self-regulatory failure）可能是拖延的原因之一。先前大量行为研究表明，冲动性和拖延具有高相关性（元分析： $_ { r = 0 . 4 1 }$ ）(Steel,2007)，甚至有行为遗传研究认为拖延是冲动性的副产物(Gustavson,Miyake,Hewitt&Friedman,2014)。Liu 和Feng（2017）发现，拖延和冲动性具有共享的神经基础—背外侧前额叶（DLPFC），进一步中介分析表明，DLPFC完全中介了冲动性对拖延的影响，这说明两者高相关的原因是与自我调控失败密切相关(P.Liu&Feng,2017)，而非拖延是冲动性的副产物。Wu等人利用事件相关电位技术（ERP）研究发现，高拖延者在加工延迟时间及奖赏价值时表现出更强和潜伏期更长的 P2电波，支持了拖延者对延迟折扣更加敏感的假设(H.Wu et al.,2016)。已有研究还发现，调控方式（regulatory mode）影响拖延行为，是通过旁海马与前额叶（PHG-aPFC）及旁海马与背侧扣带前回（PHG-dACC）的双稳态功能连接来实现的（Zhang,Ni,&Feng,2017)。另外，Zhang 和Feng（2020）从神经基础的角度发现，拖延与特质性焦虑具有共享的神经基础一右侧海马体（hippocampus），进一步中介分析发现，负责预期想象的右侧海马体在特质性焦虑与拖延之间的起到中介作用(Zhang,Chen,Xu,Zhang,&Feng,2020)。然而，这些形态学（VBM）和静息态磁共振（Rs-fMRI）的研究只能静态考察拖延的神经基础，无法直接探明拖延决策的认知神经机制。更重要的是，无法揭示拖延特质形成的发展认知神经机制（脑的可塑性），以及远期价值评估、自我控制、情绪调节、预期想象等能力在拖延决策中如何作用的认知神经机制。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3拖延行为的干预 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "目前对于拖延行为的干预，主要方法有：（1）将长期目标划分成短期子目标，增加及时行动的动机(陈婉东,2015)；（2）改变不合理的信念，例如对失败的恐惧、完美主义等(蒙茜,郑涌,2006)； （3）提升未来任务的价值认知，并降低短期诱惑的价值(李洋,2010);（4）提高拖延者在任务执行过程中的自我管理和监控(Wäschle,Allgaier,Lachner,Fink,&",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Nückles,2014;王亚琳,2014)。根据拖延的时间决策模型（TDM），个体对负性情绪的调节、对远期奖赏的预期能力以及对时间的管理能力都可能起到减少拖延的作用。先前的研究证实，对未来的正性结果进行预期想象能够促使个体做出更多有利未来的决策(Benoit,Gilbert,&Burgess,2011; Peters＆ Buechel,2010)。同时研究也进一步证实，这种预期想象的作用主要依赖于所预期事件的效价：积极预期会降低未来目标价值的时间折扣，而消极预期则会增加未来目标价值的时间折扣(L.Liu,Feng,Chen,Li,& Rao,2013;魏佳明,冯廷勇,2019)。脑成像的研究也显示，高拖延者确实在预期想象相关的脑区（如海马、旁海马）与正常个体存在差异(Hu et al.,2018;Liu&Feng,2017)。这些结果说明，利用预期想象和情绪调节也能够有效减少拖延。同时，拖延决策需要人们权衡什么时候去做，需要考虑“今天做还是明天做”、“明天截止还是下周截止”等，这就涉及时间的延迟折扣(Frederick,Loewenstein,&O'Donoghue,2002; Steel&Konig,2006)。目前研究者往往从时间管理和自我管理两个角度采取干预措施减少个体的拖延行为(Strunk et al.,2013;Wäschle et al.,2014;侯智慧,闻素霞,2014;王洁洁,2016)，因此时间管理能力也是干预拖延的有效措施。此外，采用神经干预方法，尤其是直流电刺激（TDCS）、经颅磁刺激（TMS）等无创技术刺激背外侧前额叶（DLPFC），能够提高被试自控能力，进而降低拖延行为，也是一条需要尝试和验证的思路。虽然拖延的干预和预防一直受到研究者的关注，但是基于拖延行为的核心认知能力以及其各个年龄阶段儿童发展特点的干预或预防方案还很少，同时现有干预研究的有效性也值得进一步验证。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3研究构想",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "基于上述内容，本项目拟以拖延的时间决策模型作为理论依据，结合行为-环境变量-脑的多模态数据，从发展角度对拖延行为的发展认知神经机制进行系统性的研究。研究的主要目标有3点：（1）检验和完善拖延的时间决策模型，探明拖延形成的关键期（敏感期)及心理发展机制；（2）采用多模态MRI（Task、Resting、VBM、DTI等）、fNIRS 等技术探明拖延形成的发展认知神经机制，尤其是预期价值评估、延迟折扣和自我调控等能力发展对拖延形成的作用及脑机制；（3）试图制定儿童青少年各阶段拖延预防与干预的有效方案。总体的研究框架及技术路线见图2。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c7876605daddd03287d4e0e7b46fd1acac57143a4fe6f3a85c53ea29a3dc184.jpg",
+        "img_caption": [
+            "图2项目的研究框架与技术路线图"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1行为发展与环境变量的测查",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "研究1：儿童拖延行为的发展趋势和影响因素",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "拖延的形成有其自身的发展规律：从拖延倾向（儿童早期的行为表现）到拖延行为（儿童期的惯用应对方式）再到拖延特质（青春期较稳定的人格特质）。本项目的行为研究采用横断设计系统考察6岁 ${ \\sim } 1 5$ 岁儿童拖延的发生与发展特点、形成的关键期（敏感期）、影响因素（包括各种坏境变量、教育变量）以及各阶段自我控制、远期价值表征、时间折扣、情绪调节等能力发展对拖延的影响或作用机制；同时，从发展角度来检验和完善决策的时间拖延模型。本项目根据儿童心理发展规律计划将6\\~15 岁划分为三个阶段(林崇德,2009):6\\~8岁（儿童早期：小学低年级）、10\\~12岁（儿童中后期：小学中高年级）和12\\~15岁（青春期），每个阶段筛选拖延组（或拖延易感组）和正常组各120人。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对于6\\~8岁儿童，采用一对一任务测试和家人、教师评价方式的收集幼儿拖延行为、拖延决策以及自我控制、时间折扣、情绪调节等相关指标数据；对于10\\~12岁、12\\~15岁两组儿童青少年，主要采用一对一任务测试和自陈量表的测试方式收集拖延行为、拖延决策及自我控制、远期价值表征、时间折扣、情绪调节、预期想象等能力的数据。同时对家庭教养方式、人口学变量等环境因素进行测量。根据儿童青少年各年龄段学业拖延人口比例（ $1 0 \\% { \\sim } 2 0 \\%$ ）(S.Zhang et al.,2019;左艳梅,2010)，预计3个年龄阶段初筛合计需要 2000\\~3000名被试。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2脑发育的测查",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "研究2：拖延形成的发展认知神经机制",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "先前对于成人的研究表明，个体的拖延特质可能与额叶（背外侧前额叶，dIPFC；腹内侧前额叶，vmPFC）、扣带前回（ACC）、脑岛（insula）、杏仁核（amgydala）、海马（HIP）等脑区密切相关，而这些脑区负责的功能包括自我控制、自我监测、价值评估、情绪调控、负性情绪和预期想象等，而这些能力的发展不足对拖延特质的形成有着关键的作用。而6\\~8岁、 $1 0 { \\sim } 1 2$ 岁和 $1 2 { \\sim } 1 5$ 岁是人脑额顶系统、边缘系统发育的关键时期(Giedd etal.,1999;Lenroot et al.,2007; Zuo et al.,2017)。因此，本项目计划在研究1被试的基础上，进行 MRI多模态或近红外脑成像fNIRS（fNIRS主要针对6\\~8岁低龄儿童）扫描（先接受行为测查，然后再做脑发育测查）。MRI的模态主要包括结构态（灰质（VBM）和白质纤维（DTI））、静息态（RS-fMRI）和任务态。（1）对于大脑灰质的分析，包括灰质体积（Volume）、灰质密度（Density）、皮质厚度（Thickness）等指标，主要考察拖延与各脑区发育的关系；（2）对于白质神经纤维的分析，包括各向异性指标（FA）和平均弥散率(MD)等指标，主要考察拖延与各脑区之间的连接性（即脑区互动、信息传递）的关系；（3）对于静息态的分析，包括低频振幅（ALFF）、局部一致性（Reho），功能连接（FC）、大尺度脑网络及“小世界”网络属性等指标，考察拖延在静息状态下大脑活动基本模式和特性；（4）将静息态、结构态、任务态等多模态的分析结果进行联合分析（Conjunction analysis），进一步确证拖延的神经基础及各模态分析的可靠性。对于结构态和静息态分析的基本逻辑是从行为到脑（从结构、静息不同模态系统考察拖延的神经基础），再从脑到行为（从脑数据来预测拖延的行为，进一步验证和确认拖延的神经基础和发展认知神经机制）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "为了进一步检验和完善拖延的时间决策模型（拖延的核心过程：“现在做还是以后做”决策），就必须要进行实验室研究，包括行为实验和任务态的神经机制研究。本项目主要采用“拖延决策”任务范式(魏佳明,冯廷勇,2019)和任务过程与任务结果的“自由建构”范式(S.Zhang,Becker,etal.,2018)。这两个范式的实验效度和生态效度都较高，又简单易操作，能够保证儿童青少年的拖延决策的实验室研究的可行性。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3行为-环境变量-脑的关联分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "研究3:建构预测儿童拖延形成的行为-环境-脑多层次模型",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在研究2与研究3的基础上，收集完三个年龄组（6\\~8岁、10\\~12岁、12\\~15岁）的各项行为、环境变量和脑的多模态数据以后，然后整合行为-环境变量-脑的数据，系统分析：（1）拖延形成的关键期（敏感期），以及各阶段表现特点；（2）拖延形成的影响因素，包括个人能力或特质因素、家庭教育因素、环境因素等；（3）进一步检验拖延的时间决策模型在各阶段的适用性，并进行修正和完善；（4）采用中介分析或建模分析来考察环境因素",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "如何通过脑结构和脑功能来影响拖延的形成。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.4干预评估与脑的可塑性",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "研究4：各年龄阶段的拖延行为的干预与预防",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在条件许可的情况，本项目计划选择40\\~60名10\\~12岁具有严重拖延的儿童青少年，分成实验组和对照组，实验组进行干预训练，训练方式预计包括预期想象训练（指向任务结果，而非任务过程）、时间管理训练、情绪调节训练、自我监控训练等。首先，在训练前系统收集被试的行为数据和脑成像的多模态数据；其次，进行以团队训练和个人训练相结合的为期1\\~2个月的训练，训练后再收集其关键的行为数据和脑成像数据，进行效果评估;最后，将训练前、后的行为数据与大脑的可塑性进行关联分析，进一步从操纵角度来验证拖延的发展认知神经机制。在此基础上，力图开发适合儿童青少年不同年龄阶段的拖延预防与干预方案（分别对应儿童期、青少年期和青年期；兼顾家庭、学校、儿童青少年自身）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4理论构建 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "首先，从认知机制层面来看，拖延行为产生的认知机制是拖延领域的核心科学问题，本研究团队经过五年的理论建构和系列实证研究，原创性地提出了拖延的时间决策模型（Temporal decisional model of procrastination），论文发表于国际心理学顶级期刊（实验心理学旗舰杂志）Journal of Experimental Psychology: General (Zhang et al.,2019)。该理论从任务负性过程和任务正性结果的权衡及自我调控角度揭示了拖延产生的认知机制。具体而言，该模型指出拖延动机和不拖延动机的斗争是决定是否拖延的根本；其次，拖延动机的斗争可以进一步简化为任务负性过程和任务正性结果的权衡；再次，主动推迟任务使负性过程发生延迟折扣是拖延的核心目的；最后，自我控制能力在任务负性过程和任务正性结果的权衡中起调控作用。这是关于拖延的原创性理论及实验研究，也是纯本土的高水平研究，它对于揭示拖延的认知机制具有重要的科学价值，对于拖延行为的干预和预防也具有重要的实践意义，同时还引起国际同行的广泛关注和高度评价（Psychology Today 进行报道和高度评价），这为本项目提供了坚实和充分的理论基础。虽然已有研究证明在拖延时间决策模型的指导下能够有效减少拖延行为(Zhang,Becker,et al.,2018)，但还需要进行系统性验证和完善。根据先前研究和拖延的时间决策模型（TDM），拖延的形成与自我控制、远期价值表征（包括延迟折扣、预期想象等）、时间认知（包括时间洞察力、时间折扣）、情绪调节乃至自我的发展都密切相关(Chen et al.,2019; Tice et al.,2001;宋梅歌 etal.,2015)。有研究表明，高拖延与对未来时间洞察力呈负相关，而与高宿命现在呈正相关(Jackson,Fritch,Nagasaka,&Pope,2003;宋梅歌,冯廷勇,2017)。该研究认为拖延是将现在自我的任务推迟给未来的自我，自我连续性会对拖延产生影响，因此高自我连续性的个体表现出更少的拖延行为(Blouin-Hudon&Pychyl,2015)。先前大量研究表明，自我控制、时间认知、价值表征、情绪调节等在儿童青少年时期的发展有两次高峰时期：（1）儿童早期，尤其是6\\~8岁；（2）青春期及前期（10\\~15岁），10岁开始是儿童具体形象思维向抽象逻辑思维过渡的关键转折年龄，12\\~15 岁更是个体身心发展第二次高峰时期(林崇德,2009)。就拖延而言，从拖延倾向（儿童早期的行为倾向）到拖延行为（儿童时期的惯用应对方式），再到特质性拖延（青春期较稳定的人格特质），应该也有其自身的发展和形成规律。因此，本项目以拖延的时间决策模型为理论基础，从儿童发展角度（主要是 $6 { \\sim } 1 5$ 岁）重点考察拖延的发生与发展特点、拖延形成的关键期（敏感期）以及自我控制、价值表征、时间折扣、情绪调节、预期想象等认知能力发展对拖延的影响或作用机制；同时，从发展角度来检验和完善拖延的时间决策模型。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "其次，从神经基础层面来看，个体的拖延特质与额叶、边缘系统（例如杏仁核、海马）等脑区的功能缺陷有关(Liu& Feng,2017;Wu et al.,2016; Zhang& Feng,2019; Zhang et al.,2016)。而4\\~6岁、10\\~12岁和12\\~15岁是人脑额顶系统、边缘系统发育的关键时期(Giedd etal.,1999;Zuo et al.,2017)。因此拖延的形成可能与这些年龄段的额顶系统、边缘系统发育有关。额顶系统负责着复杂的认知功能，包括自我控制、价值评估、情绪调控等，边缘系统则负责情绪、记忆与预期想象等能力，而这些能力的发展对拖延特质的形成有着关键的作用。首先，大量的研究表明个体背外侧前额叶区域（DLPFC）能够通过自上而下的调控来帮助个体做出具有长远利益的决策(Figner et al.,2010; Hare,Camerer,& Rangel,2009)。而神经影像学的研究也证实，高拖延的个体在背外侧前额叶区域有着更小的灰质体积和自发性神经活动(P.Liu&Feng,2017; C.Zhang et al.,2017)。这一结果表明，拖延特质的形成可能与脑发育关键期负责自我控制的背外侧前额叶的发育不良有关。其次，额叶还是价值评估网络的核心部分(Peters＆Büchel,2011）。先前的研究表明，腹内侧前额叶（vmPFC）能够负责编码远期的价值表征(McClure,Laibson,Loewenstein,& Cohen,2004)。高拖延的个体则更倾向于局限于当前的得失而忽视远期的利益(Wu etal.,2016)。这一结果表明，拖延特质的形成可能与腹内侧前额叶的不良发育有关。最后，拖延的特质往往伴随着更差的情绪调节能力(Sirois &Pychyl,2013)。依据拖延决策模型，高拖延个体应该对负性刺激更为敏感(张顺民,冯廷勇,2017)。与该假设相符，先前的研究表明，高拖延的个体更多地体验到负性的情绪(Ackerman& Gross,2005;Lay,1986)。然而，良好发育的额顶网络能够通过与边缘系统的神经连接来进行情绪调节(Davidson,Putnam, Nitschke,Larson,& Dalton, 2002; Ochsner& Gross,2008)。因此高拖延特质的形成可能与额叶与边缘系统的白质纤维连接的发育不足有关。此外，冯廷勇团队通过建立拖延多模态数据库（行为-脑-环境，2000多人），基于行为-脑(Behavioural-Brain-configuration)、脑-行为(Brain-Behavioural-configuration)和机器学习的联合分析，进一步揭示了拖延行为的三重神经结构拓扑网络，包括自我控制网络（以背外侧前额叶和前扣带回为核心）、情绪调节网络（以脑岛和眶额叶为核心）和预期想象网络（以腹内侧前额叶和海马为核心）(Chen etal.,2019)，三重神经网络的提出为系统的探究拖延行为的神经基础提供了科学依据。综上可述，拖延特质的形成与个体价值评估、自我控制、情绪调节以及预期想象能力的欠发育有关。而这些能力的发育不良很可能会体现在儿童青少年时期（6\\~15岁）额叶及相关的神经连接的脑发育上。因此，本项目拟采用MRI多模态（任务态（task）、静息态（resting）、形态学（VBM）和神经纤维追踪（DTI））、磁共振（fNIRS）技术重点对6\\~8岁、10\\~12岁和12\\~15岁儿童的脑结构和脑功能发育进行考察，利用脑结构、脑功能数据与行为之间的关联分析，系统探明远期价值评估、延迟折扣、自我控制、情绪调节以及预期想象能力等对拖延作用的发展认知神经机制。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "最后，从干预角度来看，先前研究者从改变不合理信念、提高自我管理、细化目标等角度对拖延的干预进行了积极探索。然而，从发展角度结合儿童各阶段身心发展特点的干预或预防方案还很少，更没有从脑可塑性角度来探究干预的有效性。拖延的预防和干预具有重要的现实意义，尤其在拖延形成的敏感期进行有效的干预能够起到事半功倍的效果，甚至改变个体一生的时间管理模式和人格特质。因此本项目试图根据各年龄阶段（儿童期、青少年、青年）的发展特点，制定各自的预防和干预方案，并采用实验组、对照组前后测模式来探究预防和干预方案的有效性和优缺点。根据已有研究和干预训练，目前对于拖延的预防或干预技术包括预期想象训练、负性情绪调节训练、自我控制训练和时间认知与管理训练等(Liu etal.,2013; Zhang,Peng,Qin,Suo,&Feng,2018;蔡曙光,张笑,冯廷勇,2016)。在研究条件允许的情况下，试图将干预实验前、后的观测数据与大脑的可塑性进行联合分析，进一步确证拖延干预的有效性及其发展认知神经机制。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "综上所述，探明拖延的核心认知机制、神经基础及发展认知神经机制具有重要的科学价值和现实意义。因此本项目试图以拖延的时间决策模型作为理论依据，结合行为-环境变量-脑的多模态数据，从发展角度对拖延行为的发展认知神经机制进行系统性的研究，并试图制定各关键年龄阶段的拖延预防与干预的临床方案。本项目的开展一方面从发展角度来检验和完善拖延的时间决策模型，对于探明拖延决策的心理机制、拖延形成及其发展认知神经机制具有重要的科学价值，另一方面从脑的可塑性角度探究干预的有效性，对于拖延行为的预防和干预也具有直接的现实意义。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Ackerman,D.S.,& Gross,B.L.(2oo5).My instructor made medo it: Task characteristics of procrastination. Journal of Marketing Education. 27(1), 5-13.   \nBenoit,R. G. Gilbert,S.J.，& Burgess,P. W. (2011). A neural mechanism mediating the impact of episodic prospection on farsighted decisions. Journal of Neuroscience, 31(18), 6771-6779.   \nBlouin-Hudon,E. C.,& Pychyl,T.A. (2O15).Experiencing the temporallyextended self: Initial support for the role of affective states, vivid mental imagery, and future self-continuity in the prediction of academic procrastination. Personality & Individual Diffrences, 86, 50-56.   \nChen, Z.,Liu,P., Zhang, C.,&Feng,T. (2019). Brain morphological dynamics ofprocrastination: The crucial role of the self-control, emotional,and episodic prospection network. Cerebral Cortex,30(5),2834-2853.   \nChen,Z., Zhang,R.,Xu,T.,Yang,Y., Wang,J.,&Feng,T.(2O2O).Emotional atitudestowardsprocrastination in people: A large-scale sentiment-focused crawling analysis. Computersin Human Behavior. doi:110:106391   \nChoi, & Moran. (2o09). Why not procrastinate? Development and validation of a new active procrastination scale. Journal of Social Psychology,149(2),195-211.   \nDavidson,R.J.,Putnam,K., Nitschke,J.,Larson, C.,& Dalton,K. (2002).Probing the circuitry of emotion, emotion regulation and affective style. Psychophysiology,39,15-25.   \nDeniz,M.E.,Tras,.,& Aydogan,D. (2oo9).An investigation of academic procrastination,locus of control,and emotional intelligence. Kuram Ve Uygulamada Egitim Bilimleri, 9(2), 623-63.   \nDigdon,N.L., & Howel, A. J. (2008). Collge students who have an eveningness preference report lower selfcontrol and greater procrastination. Chronobiology International, 25(6),1029-1046.   \nEliot,R. (2002). A ten-year study of procrastination stability (Unpublished master's thesis). University of Louisiana. Monroe.   \nEsteban,R.F.C.,& Ramirez,A. (2O14).Procrastination and demographic characteristics associated with college students. Tehran University Medical Journal,72(2),113-120.   \nFerrari,J.R.,O'Callghan,J.,&Newbegin,I. (20o5).Prevalenceof procrastination inthe United States,United Kingdom, and Australia: Arousal and avoidance delays among adults. North American Journal of Psychology, 7(1), 1-6.   \nFigner,B.,Knoch,D.,Johnson,E.J.,Krosch,A.R.,Lisanby,S.H.Fehr,E.,& Weber,E.U.(2010).Lateral prefrontal cortex and self-control in intertemporal choice. Nature Neuroscience,13(5), 538-539.   \nFrederick,S.,Loewenstein, G.,&O'Donoghue,T.(0o2).Time discounting and time preference: Acriticalreview. Journal of Economic Literature, 40(2),351-401.   \nGiedd,J. N,Blumenthal,J.,Jefries,N.O.,Castellnos,F.X,iu,H.,jdenbos,A.,Rapoport,J.L.(999). Brain development during childhood and adolescence: A longitudinal MRI study. Nature Neuroscience, 2(10), 861-863.   \nGustavson,D.E,Miyake,A.,Hewit,J.K.,&Friedman,N.P. (2014). Geneticrelations among procrastination, impulsivity,and goal-management ability: Implications for the evolutionary origin of procrastination. Psychological Science,25(6),1178-1188.   \nHare,T.A., Camerer, C.F.，& Rangel,A. (2009). Self-Control in decision-making involves modulation of the vmPFC valuation system. Science, 324(5927), 646-648.   \nHarriott,J.,&Ferrari, J.R.(1996).Prevalenceofprocrastination among samplesofadults.Psychological Reports, 78(2), 611-616.   \nHu, Y.,Liu,P., Guo,Y.,&Feng,T. (2018). The neural substrates of procrastination: Avoxel-based morphometry study. Brain & Cognition, 121,11-16.   \nJackson,T.,Fritch,A. Nagasaka,T.,&Pope,L. (2Oo3).Procrastinationand perceptionsof past,present，and future.Individual Differences Research,1(1),17-28.   \nKlasen,R.M.,Ang,R.P.,Chong,W.H., Krawchuk,L.L.,Huan,V.S.,Wong,I. Y.F.,& Yeo,L. S. (2010). Academic procrastination in two settings: Motivation correlates, behavioral patterns, and negative impact of procrastination in Canada and Singapore. Applied Psychology-an International ReviewPsychologie Appliquee-Revue Internationale, 59(3), 361-379.   \nLay, C.H. (1986).At last, my research article on procrastination. Journal of Research in Personality，20(4), 474 495.   \nLenroot,R.K.,GogtayN.,Greenstein,D.K.Wels,E.M.,Waace,G.L.,Clasen,L.S.,Giedd,J.N.(007). Sexual dimorphismof brain developmental tajectories during childhood and adolescence. Neuroimage, 36(4), 1065-1073.   \nLiu, L.,Feng,T.，Chen, J.,Li, H.,& Rao, H. (2013). The value of emotion: How does episodic prospection modulate delay discounting? Plos One,8(11),1717-1718.   \nLiu, P.,& Feng,T. (2017). The overlappng brain region accounting for the relationship between procrastination and impulsivity: A voxel-based morphometry study. Neuroscience, 360, 9-17.   \nMcClure,S.M.,Laibson,D.1.,Loewenstein,G.,& Cohen, J. (2oo4). Separate neural systems value immediate and delayed monetary rewards. Science, 306(5695), 503-507.   \nOchsner,K.N.,& Gross,J.J.(2oo8).Cognitive emotionregulation: Insights fromsocial cognitiveandaffective neuroscience. Current Directions in Psychological Science,17(2),153-158.   \nPeters,J.，& Buichel, C. (2011). The neural mechanisms of inter-temporal decision-making: Understanding variability. Trends in cognitive sciences,15(5),227-239.   \nPeters，J.，& Buechel, C. (2010). Episodic future thinking reduces reward delay discounting through an enhancement of prefrontal-mediotemporal interactions. Neuron, 66(1),138-148.   \nProcee,R., Kamphorst, B.A. Van Wissen,A.,Meyer,J. J. C.,Action,N. H.,& Ethiek,L. W. (2013). A Formal Model of Procrastination. Paper presented at the Benelux Conference on Artificial Intelligence.   \nRebetez,M. M.L., Barsics, C.，Rochat,L.,D'Argembeau,A.，& Linden,M. V.D. (2016). Procrastination, consideration of future consequences, and episodic future thinking. Consciousness & Cognition, 42(5), 286-292.   \nSirois,F.(2007). \"Tll look after my health,later\": Areplication and extensionof the procrastination-health model with community-dwelling adults Personality and Individual Differences, 43(1),15-16.   \nSirois,F. (2014).Absorbed in the moment? An investigation of procrastination,absorption and cognitive failures. Personality & Individual Differences,71,30-34.   \nSirois,F.,& Pychyl,T. (2013). Procrastination and the priorityof short-term mood regulation: Consequences for future self. Social & Personality Psychology Compass,7(2),115-127.   \nSolomon,L.J.，& Rothblum,E.D.(1984).Academic procrastination-frequency and cognitive-behavioral correlates. Journal of Counseling Psychology, 31(4), 503-509.   \nStead,R.,Shanahan,M.J.,&Neufeld,R.W. J.(2Ol0).\"Tll gototherapy, eventualy\": Procrastination,stressand mental health.Personality & Individual Difrences, 49(3),175-180.   \nStel,P. (2oo7).The nature of procrastination: A meta-analytic and theoretical review of quintessential selfregulatory failure.Psychological Bulltin,133(1),65-94.   \nSteel,P.(2010).TheProcrastinationEquation:How to Stop Putting Things Offand Start Getting Stuff Done. Toronto: Random House Canada.   \nStel,P.,& Ferrri, J. (20l3). Sex,education and procrastination:An epidemiological studyof procrastinators' characteristics from a global sample. European Journal of Personality,27(1), 51-58.   \nStel,P.,& Konig. (2oo6). Integrating theories of motivation.Academy of Management Review, 31 (4),889-913.   \nStrunk,K. K., Cho, Y.J., Steele, M. R.,& Bridges,S.L. (2013). Development and validation of a $2 { \\times } 2$ model of time-related academic behavior: Procrastination and timely engagement. Learning & Individual Differences, 25, 35-44.   \nThakkar,& Neal. (2Oo9).Why procrastinate: An investigation of the root causes behind procrastination. Lethbridge Undergraduate Research Journal, 4(2).   \nTice,D.M.,Bratslavsky,E.,& Baumeister,R.F. (2oo1).Emotional distress regulation takes precedence over impulse control: If you feel bad,do it! Journal ofPersonality & Social Psychology,80(1),53-67.   \nWaschle, K.,Allgaier,A.,Lachner,A.,Fink,S.,& Nuckles,M. (2o14). Procrastination and self-eficacy: Tracing vicious and virtuous circles in self-regulated learning. Learning & Instruction, 29,103-114.   \nWu, H., Gui, D., Lin, W., Gu,R., Zhu, X.,& Xun,L. (2016). The procrastinators want it now: Behavioral and event-related potential evidence of the procrastination of intertemporal choices. Brain & Cognition, 107, 16-23.   \nWu, Y.,Li,L., Yuan,B.,& Xue,T. (2O16).Individual diferences inresting-state functionalconnectivitypredict procrastination. Personality & Individual Differences, 95, 62-67.   \nZhang,C.,Ni, Y.,&Feng,T. (2O17).The effect of regulatory mode on procrastination: Bi-stable parahippocampus connectivity with dorsal anterior cingulate and anterior prefrontal cortex. Behavioural Brain Research, 329,51-57.   \nZhang,R.， Chen,Z.，Xu,T., Zhang,L.，& Feng,T.(2020). The overlapping region in right hippocampus accounting for the link between trait anxiety and procrastination. Neuropsychologia. doi:146:107571   \nZhang，S.，Becker，B.，Chen,Q.，& Feng，T. (2018).Insufficient task-outcome asociation promotes task procrastination through a decrease of hippocampal-striatal interaction. Human Brain Mapping, 40(2), 597-607.   \nZhang, S.,& Feng, T. (2019). Modeling procrastination: Asymmetric decisions to act between the present and the future. Journal of Experimental Psychology General, 149(2).   \nZhang,S., Liu, P.,& Feng, T. (2019). To do it now or later: The cognitive mechanisms and neural substrates underlying procrastination. Wiley Interdisciplinary Reviews: Cognitive Science, e1492.   \nZhang,S.,Peng, J., Qin,L.,Suo,T.,& Feng,T. (2018). Prospective emotion enables episodic prospection to shift time preference.British Journal of Psychology, 109(3),487-499.   \nZhang, W., Wang, X.,& Feng,T. (2016). Identifying the neural substrates of procrastination: A resting-state fMRI study. Scientific Reports, 6, e33203.   \nZuo, X.,He, Y., Betzel,R., Colcombe,S., Sporns,O.,& Milham,M. (2017). Human connectomics acros the lifespan. Trends Cognitive Science,21(1),32-45.   \n蔡曙光,张笑,冯廷勇.(2016).“先扬后抑”vs.“先抑后扬”:反馈顺序对决策信心建构的影响．心理科学， 39(3), 686-692. 陈婉东.(2015).任务具体化对学业拖延的改善作用.(硕士学位论文).陕西师范大学.   \n楚翘,肖蓉,林倩.(2010).大学生拖延行为状况与特点研究.中国健康心理学杂志,018(8),970-972.   \n侯智慧,闻素霞.(2014).时间管理训练对初中学习拖延者的干预研究.科教导刊旬刊.   \n李洋.(2010).大学生学习拖延及干预研究.(硕士学位论文).天津大学.   \n林崇德.(2009).发展心理学.第2版:人民教育出版社.   \n蒙茜，郑涌.(2006).拖延研究述评.西南大学学报(社会科学版)(4),15-18.   \n宋梅歌,冯廷勇.(2017).时间洞察力对拖延行为的影响机制：时间折扣的中介作用.心理发展与教育,33(6), 1216-1225.   \n宋梅歌,苏缇,冯廷勇.(2015).拖延行为的时间取向模型.心理科学进展,23(7),1216-1225.   \n苏缇,郭逸群,陈志毅,张顺民,黄希庭,冯廷勇.(2018).拖延的脑机制：基于大尺度脑网络的分析.中国科学， 48,1-12.   \n王洁洁.(2016).时间管理训练对初中生学习拖延的干预研究.(硕士学位论文).重庆师范大学.   \n王亚琳.(2014).自我控制团体辅导对研究生学业拖延的改善.中国健康心理学杂志,022(002),208-210 魏佳明,冯廷勇.(2019).预期想象对拖延的影响:想象过程和想象结果的效应分离.心理科学(3),1-6. 张顺民,冯廷勇.(2017).拖延的决策模型.心理科学,40(5),1242-1247.   \n左艳梅.(2010).中学生学业拖延的问卷编制及其与父母教养方式的关系研究.(硕士学位论文).西南大学,重 庆. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Developmental cognitive mechanism and neural basis of procrastination ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "FENG Tingyong,WANG Xueke,SU Ti (Faculty of Psychology， Southwest University, Chongqing 400715, China) ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Procrastination，as Steel (2O07） reviewed， is the phenomenon that individuals voluntarily delay to start or complete an intended course of action despite expecting to be worse off for the delay. The previous studies have indicated that chronic procrastination exists in different cultural backgrounds, with about $1 5 \\% { \\sim } 2 0 \\%$ of adults troubled.Academically, more than $40 \\%$ of students admit to academic procrastination, and some may even suffer from chronic tendencies. Obviously, putting off the task irrationally not only does harm to individuals’ study, work,emotion, but also endangers mental health. However, little is known about procrastination concerning the core mechanism of origin,the critical period of its formation,and its corresponding underlying neural substrates.To fill this gap, the current study investigates the core mechanism of procrastinated decision-making，especially the cognitive and neural mechanisms of long-term value evaluation, delay discounting and self-control, which rely on the Temporal Decision Model (TDM) we outlined. In addition,on the basis of child development, we further aim to clarify the formation of the critical period and ascertain the relevant factors and corresponding neural mechanismsfrom a behavior-environment-brain perspective. What'smore, considering intervention for procrastination and malleability of the brain, we would also shed light on how to prevent or intervene the procrastination in these critical periods. Thus, the current project can reap enormous scientific contributions to clarify the neurocognitive mechanism and the rules of development of procrastination,and further obtain the practical significance for the prevention and intervention against procrastination. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Key words: Procrastination; Decision-making; Time discounting; Neural basis; Intervention ",
+        "page_idx": 18
+    }
+]

@@ -1,0 +1,169 @@
+山羊羔羊回肠细菌群落定植与消化功能的发育性变化李小鹏 $^ { 1 , 2 }$ 焦金真 $^ { 1 , 2 }$ 颜琼娴」谭支良 1\*
+
+（1.中国科学院亚热带农业生态研究所，亚热带农业生态过程重点实验室，湖南省畜禽健康养殖工程技术中心，农业部中南动物营养与饲料科学观测实验站,长沙 410125；2.中国科学院大学，北京 100049）
+
+摘要：本试验旨在研究山羊羔羊回肠细菌群落定植与消化功能的发育性变化。选用 44 只湘东黑山羊羔羊，随机选择4只在1、7、14日龄（非反刍阶段)，28、42（过渡阶段）和56、70日龄（反刍阶段）屠宰取样。采集回肠食糜测定乙酸含量，淀粉酶、纤维素酶和木聚糖酶活性，总细菌数量和部分功能性细菌（普雷氏菌属、甲烷菌、纤维降解菌和淀粉降解菌）占总细菌百分比。结果表明：14日龄开始在回肠食糜中检出乙酸，日龄增长显著提高了其含量（ $P < 0 . 0 5 )$ ，56\~70日龄增长最快；日龄增长显著或极显著提高了纤维素酶和木聚糖酶活性（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1 \$ )；日龄增长极显著提高了总细菌数量和甲烷菌（最早检出在7日龄)、普雷氏杆菌和栖瘤胃普雷氏菌占总细菌百分比（ $P { < } 0 . 0 1 \dot { . }$ ；纤维降解菌（琥珀酸丝状杆菌和黄色瘤胃球菌）和淀粉降解菌（嗜淀粉瘤胃杆菌）均在28日龄开始检出。综合得出，山羊羔羊回肠纤维降解消化能力是在28日龄建立之后逐渐完善的，7日龄即可检出大量甲烷菌定植，之后逐渐趋于稳定。
+
+关键词：细菌定植；消化功能建立；回肠
+
+中图分类号：S826
+
+反刍动物拥有与单胃动物或其他非草食性动物所不同的生理特性，即胃肠道内存在大量微生物群落，可以消化其他动物难以消化的纤维素类物质，并通过自身的生物转化，将其转换成动物性蛋白质(肉和奶)为人类所利用[Il。反刍动物胃肠道内微生物区系不是一出生就存在的，而是出生后随着与母体和环境的接触，经过消化道环境的适应和选择，经定植、存活和繁殖，逐步建立起来的[]。通常反刍动物在1\~20 日龄处于非反刍阶段，21\~56 日龄处于过渡阶段，57日龄后进入反刍阶段，而在反刍功能完善过程中其胄肠道生理功能和微生物群落均会发生较大转变。在这个变化过程中，胃肠道微生物会分泌各种功能性酶以降解和消化各种营养物质，从而逐步完善胃肠道的消化、吸收与代谢功能[3-4]。Hungate[5]在1966 年率先对反刍动物瘤胃微生物生态系统开展系统性研究，随后的近半个世纪越来越多的研究者关注瘤胃微生物的消化代谢功能这一研究领域，相对而言，数量庞大的反刍动物后肠道微生物的营养消化、吸收与代谢功能研究则没有受到应有的重视。基于上述分析，本试验选择湘东黑山羊为试验动物，通过测定其回肠主要功能酶（淀粉酶、木聚糖酶和纤维素酶）活性、乙酸含量和主要功能性细菌数量等指标，旨在揭示反刍动物小肠道细菌群落演替与营养消化功能完善的发育性变化规律。
+
+1 材料与方法
+
+# 1.1 试验动物
+
+选择体况良好、年龄[（ $2 . 0 { \pm } 0 . 3 \$ ）岁]、体重[（ $2 5 . 0 { \pm } 1 . 0 \$ ）kg]相近的经产湘东黑山羊母羊60只，参照前期研究进行同情发情处理，并在妊娠期第60天进行超声波检查，选取其中 44只怀孕1胎的母羊作为试验对象，将44只母羊单栏饲养在通风良好、温度[（24±1）℃]适宜、自然光照的羊舍内。羔羊出生后进行标号、称重。
+
+# 1.2 饲养与管理
+
+出生后 $2 0 \mathrm { d }$ 内所有羔羊（44只）仅以母羊乳喂养，每只羔羊每天供给1L羊奶，分2次饲喂（08：00 点和17:00)。分别在1、7和14日龄时，随机选取4只进行屠宰。剩余羔羊在 21\~40日龄内逐步断奶，并辅以食料和牧草，即每只羔羊每天供给 $0 . 5 \mathrm { L }$ 羊奶、 $0 . 1 2 \mathrm { k g }$ 开食料和 $0 . 0 4 \mathrm { k g }$ 新鲜牧草。41\~70 日龄期间，每只羔羊每天提供 $0 . 1 7 \mathrm { k g }$ 开食料和 $0 . 0 6 \mathrm { k g }$ 牧草。分别在28、42、56和70日龄时随机选取4只进行屠宰。
+
+# 1.3羊奶、开食料
+
+每 $1 0 0 \mathrm { g }$ 羊奶中含有总固形物 $1 2 . 9 \ \mathrm { g }$ ，粗脂肪 $3 . 7 \ \mathrm { g }$ ，粗蛋白质 $3 . 5 \mathrm { \ g }$ ，酪蛋白 $2 . 9 \ \mathrm { g }$ ，乳糖 $4 . 5 \ : \mathrm { g }$ ，粗灰分 $0 . 8 \ \mathrm { g }$ 。钙含量 $1 3 4 ~ \mathrm { m g / L }$ ，总能为 $2 . 7 2 \mathrm { k J / L }$ 。开食料组成见表1。
+
+# 表1开食料组成(干物质基础)
+
+Table 1 Composition of the starter （DMbasis） %  
+
+<html><body><table><tr><td>项目Items 含量Content</td></tr><tr><td>玉米粉 Corn flour 21.10</td></tr><tr><td>脂肪粉 Fat powder 22.00</td></tr><tr><td>乳清粉Whey powder 7.41</td></tr><tr><td>奶粉Milk powder 5.10</td></tr><tr><td>豆粕 Soybean meal 32.00</td></tr><tr><td>鱼粉Fish meal 6.50</td></tr><tr><td>磷酸氢钙 CaHPO4 2.53</td></tr><tr><td>碳酸钙 CaCO3 0.86</td></tr></table></body></html>
+
+食盐 NaCl 0.50   
+预混料Premix 2.00   
+合计 Total 100.00
+
+每千克预混料含有 One $\mathbf { k g }$ of premix contained the following: $\mathrm { M g } \mathrm { S O } _ { 4 }$ ·H2O 119.0 g， FeSO4-7H2O 2.5 g,CuSO4-5H2O 0.8 g, MnSO4· H2O 3.0 g, $\mathrm { Z n S O _ { 4 } }$ H2O 5.0 g, Na2SeO3 10.0 mg, KI 40.0 mg， CoCl·6H2O 30.0 mg,VA95000IU，VD17500IU,VE18 000IU。
+
+# 1.4样品采集
+
+羊羔屠宰后，迅速将整个肠段用充满二氧化碳（ $\mathrm { C O } _ { 2 }$ ）的塑料袋装好，在保证无氧状态下 $3 0 \mathrm { m i n }$ 内转移到实验室。将回肠内所有食糜称重（1、7和14 日龄每只羔羊约 ${ 5 } \mathrm { g }$ ；28、42、56 和70 日龄每只羔羊约 $1 5 \mathrm { g }$ )。其中取 $2 { \mathrm { g } }$ 食糜储存到-80℃冰箱，以用于DNA 提取和细菌数量分析；取 $3 \mathrm { g }$ 食糜用 $1 \mathrm { m L } 2 5 \%$ 偏磷酸和 $6 \mathrm { m L }$ 水混匀，离心（ $1 7 \ : 0 0 0 \times g$ ，4℃,$1 0 \mathrm { m i n }$ )，将上清液储存到 $- 2 0 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 用于乙酸含量的测定[7]。称取28、42、56 和70 日龄食糜各4g，39℃预热，在无氧状态下用无菌的 $0 . 1 \mathrm { m o l } / \mathrm { L }$ 柠檬酸-磷酸盐缓冲液（pH为6.6）进行1：3稀释，然后放置到-20 $\mathrm { { } ^ { \circ } C }$ 冰箱，用于酶活性分析检测
+
+# 1.5消化酶活性和乙酸含量的测定
+
+回肠食糜乙酸含量参考Garcia-Gonzalez 等[8的方法用气相色谱仪（7890A,Agilent 公司）进行测定。酶活性的测定：先将样品解冻，然后无氧条件下超声震碎细菌细胞，随后离心（15$0 0 0 \times g$ ，4℃， $2 0 \mathrm { m i n }$ )，选取上清液作为酶溶解液。分别针对淀粉酶、纤维素酶（CMCase)和木聚糖酶，定量取 $0 . 5 ~ \mathrm { m L }$ 酶溶解液、 $0 . 5 \mathrm { m L 0 . 1 m o l / L }$ 柠檬酸-磷酸盐缓冲液（ $\mathrm { \ p H } { = } 6 . 6$ ）和$1 . 0 \mathrm { g }$ 对应的反应底物（淀粉、羧甲基纤维素和木聚糖，均购自 Sigma 公司）溶解于 $1 0 0 ~ \mathrm { { m L } }$ 水中并混匀，然后置于 $3 9 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 恒温培养箱中分别培养15、30 和 $1 5 \mathrm { m i n }$ 。为了保证试验结果的准确性，设置2个空白对照（分别只有反应底物或酶溶解液）以校正结果。酶活力单位定义为每分钟产生1μmol/L还原糖消耗的酶量。
+
+# 1.6 功能性细菌定量
+
+本试验中选取的细菌包括：总细菌（general bacteria，GB)；普雷氏菌属，包括普雷氏杆菌（Prevotella,Pre）和栖瘤胃普雷氏菌（Prevotella ruminocula,Pr)，该菌属属于典型蛋白质降解菌，同时也是淀粉降解菌；2种纤维降解菌（celllolytic bacteria，Cb)，包括琥珀酸丝状杆菌（Fibrobacter succinogenes，Fs）和黄色瘤胃球菌（Ruminococcus flavefaciens，Rf);2种淀粉降解菌（Amylolytic bacteria,Ab)，包括反刍月形单胞菌（Selenomonas ruminantium,SELE）和嗜淀粉瘤胃杆菌（Ruminobacter amylophilu，RAMY)；甲烷菌(Methanogen，Met),是完全不同于细菌且进化独特的一类微生物——古菌或者古细菌，已知的瘤胃古菌均为严格厌氧产甲烷古菌，其中大部分为氢营养古菌，可以利用碳水化合物降解过程中释放的氢和$\mathrm { C O } _ { 2 }$ 生成甲烷[9。之所以选取上述细菌作为研究对象，是因为它们在营养物质消化方面起重要作用。用于实时定量PCR（real-time quantitative PCR，qPCR）的细菌特异性引物见表2。
+
+表2实时定量PCR的细菌引物  
+Table 2Primers of bacteria used for real-time quantitative PCR   
+
+<html><body><table><tr><td>引物名称 Primer names</td><td>引物序列 Primer sequences (5’-3’)</td><td>扩增效率 Amplification efficiency/%</td><td>产物大小 Product size/bp</td><td>参考文献 Reference</td></tr><tr><td>甲烷菌-FMet-F</td><td>GGATTAGATACCCGGTAGT</td><td>97.30</td><td>192</td><td>Hook 等[10]</td></tr><tr><td>甲烷菌-RMet-R</td><td>GTTGATCCAATTAAACCGCA</td><td></td><td></td><td></td></tr><tr><td>细菌-FGB-F 细菌-RGB-R</td><td>CGGCAACGAGCGCAACCC CCATTGTAGCACGTGTGTAGCC</td><td>98.40</td><td>146</td><td>Denman 等[11]</td></tr><tr><td>普雷氏杆菌-FPre-F</td><td>GGTTCTGAGAGGAAGGTCCCC</td><td></td><td>121</td><td>Stevenson 等[12]</td></tr><tr><td>普雷氏杆菌-RPre-R</td><td>TCCTGCACGCTACTTGGCTG</td><td>102.20</td><td></td><td></td></tr><tr><td>栖瘤胃普雷氏菌-FPr-F</td><td>GAAAGTCGGATTAATGCTCTATGTTG</td><td>98.60</td><td>74</td><td>Stevenson 等[12]</td></tr><tr><td>栖瘤胃普雷氏菌-R Pr-R</td><td>CATCCTATAGCGGTAAACCTTTGG</td><td></td><td></td><td></td></tr><tr><td>琥珀酸丝状杆菌-FFs-F</td><td>GTTCGGAATTACTGGGCGTAAA</td><td>102.90</td><td>121</td><td>Denman 等[11]</td></tr><tr><td>琥珀酸丝状杆菌-RFs-R 黄色瘤胃球菌-FRf-F</td><td>CGCCTGCCCCTGAACTATC CGAACGGAGATAATTTGAGTTTACTTAGG</td><td></td><td></td><td></td></tr><tr><td>黄色瘤胃球菌-RRf-R</td><td>CGGTCTCTGTATGTTATGAGGTATTACC</td><td>101.40</td><td>132</td><td>Denman 等[11]</td></tr><tr><td>反刍月形单胞菌-FSELE-F</td><td>CAATAAGCATTCCGCCTGGG</td><td>98.00</td><td></td><td></td></tr><tr><td>反刍月形单胞菌-RSELE-R</td><td>TTCACTCAATGTCAAGCCCTGG</td><td></td><td>138</td><td>Stevenson 等[12]</td></tr><tr><td>嗜淀粉瘤胃杆菌-FRAMY-F</td><td>CTGGGGAGCTGCCTGAATG</td><td>104.10</td><td></td><td></td></tr><tr><td>嗜淀粉瘤胃杆菌-RRAMY-R</td><td>CTGGGGAGCTGCCTGAATG</td><td></td><td>102</td><td>Stevenson 等[12]</td></tr></table></body></html>
+
+1.8.1 总DNA提取
+
+回肠食糜细菌总DNA 的提取采用Qiagen 公司的QIAamp DNA Stool Mini kit 试剂盒。取 $0 . 2 \ \mathrm { g }$ 左右的食糜样，按照说明书进行DNA提取。唯一改进的一点是ASL 缓冲液加入后，应在95℃培养 $1 0 \mathrm { m i n }$ ，来确保革兰阴性菌和阳性菌细胞壁的裂解。提取的总DNA 用 ${ 5 0 \mu \mathrm { L } }$ 无菌无酶水溶解，并用微量紫外分光光度计 ND-100 测定其核酸浓度（ $\mathrm { \Omega _ { n g / \mu L } }$ ）及纯度（ $\mathrm { O D } _ { 2 6 0 }$ $\mathrm { n m / O D } _ { 2 8 0 \mathrm { n m } }$ )，并于-20℃保存备用。
+
+# 1.8.2 实时定量PCR分析
+
+# 1.8.2.1 目标片段的扩增
+
+以回肠内细菌总DNA为模板进行PCR。反应体系和反应条件均参考焦金真等的研究。PCR结束后，取 $2 0 \mu \mathrm { L }$ PCR产物用 $2 \%$ 琼脂糖凝胶电泳检测。
+
+# 1.8.2.2扩增产物的克隆
+
+按照Wizard ${ } ^ { \textregistered } { \mathrm { S V } }$ Gel&PCRClean-UPSystem回收纯化试剂盒建议程序对PCR产物进行纯化回收。按照pMD@18-TVector 试剂盒的建议程序将 PCR产物连接到pMD18-T载体上，并转化到 $5 0 \mu \mathrm { L }$ 大肠杆菌（ $E .$ coli）感受态细胞中，转化后置入 $3 7 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 预热的 $9 5 0 ~ \mu \mathrm { L }$ SOC 液体培养基，于 $3 7 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 和 $1 8 0 ~ \mathrm { r / m i n }$ 条件下培养 $1 . 5 \mathrm { h }$ 。最后，取 $5 0 \mu \mathrm { L }$ 菌液涂于加有氨苄青霉素（Amp）、异丙基- $\beta$ -D-硫代半乳糖苷（IPTG）和毗喃半乳糖苷衍生物（X-gal）的LB 培养基平板上， $3 7 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 倒置培养 $1 2 { \sim } 1 6 \mathrm { h }$ ，直至观察到菌落为止。挑选单个白色菌斑培养，然后进行菌液PCR 鉴定。PCR后鉴定为阳性的菌液进行测序鉴定。测序由生工生物工程（上海）股份有限公司完成。比对验证正确的菌液,按照 TaKaRaMiniBESTPlasmid Purification Kit Ver.3.0 试剂盒的建议程序提取质粒DNA。
+
+# 1.8.2.3 标准曲线制作和样品检测
+
+分别取各细菌的阳性克隆质粒，用微量紫外分光光度计ND-100 检测其浓度。根据各质粒的分子质量与质量浓度计算拷贝数（个)，制得标准品。然后对已知拷贝数质粒标准品进行 10 倍的连续梯度稀释，取5\~8个稀释梯度作为模板进行PCR。标准质粒和样品的实时定量PCR条件一致，均采用 $1 0 ~ \mu \mathrm { L }$ 体系。反应体系：SYBRGreenI荧光染料预混试剂 ${ 5 \mu \mathrm { L } }$ ，ROX $0 . 2 { \mu \mathrm { L } }$ ，上、下游引物（ $\mathrm { 1 0 \mu m o l / m L }$ 各 $0 . 2 ~ \mu \mathrm { L }$ ，质粒DNA模板或样品 DNA 模板 $1 \mu \mathrm { L }$ （DNA 模板浓度稀释到 $1 0 ~ \mathrm { { n g / \mu L } }$ 左右)，牛血清白蛋白(BSA)0.05μL 和灭菌双蒸去离子水 $3 . 3 5 \mu \mathrm { L }$ 。反应条件：95 $\mathrm { { } ^ { \circ } C }$ 预变性 $3 0 ~ \mathrm { s }$ ： $9 5 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 变性 $5 \mathrm { ~ s ~ }$ ， $6 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 退火和延伸30s并采集荧光信号，共40个循环； $6 0 ~ \mathrm { { ^ { \circ } C } }$ 升至 $9 5 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 15 s,60 ℃15 s、95 ℃ 15 s,自动采集荧光信号。
+
+# 1.8.2.4 细菌数量的计算方法
+
+将实时定量PCR结果循环阈值（Ct）代入相应的标准曲线中得到其lg值，然后根据参考文献[13]中公式计算细菌数量[lg（个/g）]，再计算功能菌占总细菌百分比。
+
+试验结果用SPSS21.0软件进行单因素方差分析（ANOVA）和两变量相关性分析（BivariateCorrelations），结果用平均值 $\pm$ 标准差表示， $P { < } 0 . 0 5$ 为差异显著。
+
+2结果
+
+2.1 乙酸含量
+
+由于在1和7日龄的回肠食糜样品中没有检测到乙酸，因此表3中只列出了14、28、42、56和70日龄回肠食糜乙酸含量。日龄对羔羊回肠食糜中乙酸含量有显著影响( $\scriptstyle ( P = 0 . 0 4 5 )$ ，其中28、42和56日龄显著高于14日龄（ $P { < } 0 . 0 5$ )，显著低于70日龄（ $P { < } 0 . 0 5 \$ ）°
+
+Table 3Acetate concentration in ileal chymus of lambs at different days of age $\%$   
+
+<html><body><table><tr><td rowspan="2">项目Item</td><td colspan="5">日龄 Days of age</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>14</td><td>28</td><td>42</td><td>56</td><td>70</td></tr><tr><td>乙酸 Acetate</td><td>1.97±0.13a</td><td>3.8±3.17b</td><td>3.97±2.77b</td><td>3.50±1.95b</td><td>7.61±2.38c</td><td>0.63</td><td>0.045</td></tr></table></body></html>
+
+同行数据肩标字母相异表示差异显著（ $P { < } 0 . 0 5 \$ )，相同或无字母表示差异不显著（ $. P { > } 0 . 0 5$ )。下表同。
+
+Values in the same row with different letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,whilewith the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ .The same as below.
+
+# 2.2 消化酶活性
+
+由于1、7和14日龄的羔羊回肠食糜样品不足，无法检测各消化酶活性，因此表4只列出了28、42、56和70日龄的消化酶活性。回肠食糜淀粉酶活性随日龄变化出现波动性增长，但变化并不显著( $\scriptstyle \cdot = 0 . 1 1 8 )$ ；日龄增长对纤维素酶( $\scriptstyle P = 0 . 0 3 0 )$ 和木聚糖酶的活性( $\scriptstyle \cdot = 0 . 0 0 1$ ）有显著或极显著影响，其中42、56和70日龄显著高于28日龄（ $( P { < } 0 . 0 5 )$ 。
+
+表3不同日龄羔羊回肠食糜乙酸含量  
+表4不同日龄羔羊回肠食糜中消化酶活性  
+Table 4Digestive enzyme activities in ileal chymus of lambs at different days of age U/g   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">日龄 Days of age</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>28</td><td>42</td><td>56</td><td>70</td></tr><tr><td>淀粉酶 Amylase</td><td>0.73±0.05</td><td>1.17±0.45</td><td>0.75±0.14</td><td>0.78±0.25</td><td>0.76</td><td>0.118</td></tr><tr><td>纤维素酶 CMCase</td><td>0.028±0.007b</td><td>0.076±0.036a</td><td>0.080±0.010a</td><td>0.075±0.028a</td><td>0.008</td><td>0.030</td></tr><tr><td>木聚糖酶 Xylanase</td><td>0.089±0.007b</td><td>0.240±0.093a</td><td>0.240±0.036a</td><td>0.330±0.066a</td><td>0.026</td><td>0.001</td></tr></table></body></html>
+
+由表5可知，从总细菌数量来看，日龄对羔羊回肠食糜细菌总细菌数量有极显著影响$P { < } 0 . 0 1 \ \cdot$ )；其中，7、14、28和42日龄显著高于1日龄（ $\scriptstyle \cdot { P < 0 . 0 5 }$ )，而显著低于56和70日龄（ $P { < } 0 . 0 5 )$ 。从功能性细菌占总细菌百分比来分析，日龄变化极显著影响羔羊回肠食糜中普雷氏杆菌（ $_ { . } { \cal P } { < } 0 . 0 1$ )、栖瘤胃普雷氏菌（ $P { < } 0 . 0 1 \rangle$ ）、甲烷菌（ $P { < } 0 . 0 1$ )、琥珀酸丝状杆菌（ $P { = } 0 . 0 0 6 { \mathrm { : } }$ )、黄色瘤胃球菌（ $_ { \cdot \cdot P = 0 . 0 0 2 }$ ）和嗜淀粉瘤胃杆菌占总细菌百分比（ $\scriptstyle P = 0 . 0 0 1 .$ ，但对反刍月形单胞菌占总细菌百分比没有显著影响（ $scriptstyle \cdot = 0 . 7 1 4 )$ 。随着日龄增长，羔羊回肠食糜中普雷氏杆菌、栖瘤胃普雷氏菌、甲烷菌和琥珀酸丝状杆菌占总细菌百分比均呈现逐渐增加的趋势，而黄色瘤胃球菌、嗜淀粉瘤胃杆菌和反刍月形单胞菌占总细菌百分比则没有类似规律。黄色瘤胃球菌和嗜淀粉瘤胃杆菌占总细菌百分比的峰值分别出现在42 和第 28日龄。相对而言，山羊羔羊回肠食糜优势细菌是普雷氏杆菌、栖瘤胄普雷氏菌、甲烷菌和嗜淀粉瘤胄杆菌，而琥珀酸丝状杆菌和黄色瘤胃球菌数量相对较少，反刍月形单胞菌最少。
+
+表5不同日龄羔羊回肠食糜总细菌数量和功能性细菌占总细菌百分比  
+Table 5GB number and functional bacteria percentage of GB in ileal chymus of lambs at diferent days of age   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="7">日龄 Days of age</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>1</td><td>7</td><td>14</td><td>28</td><td>42</td><td>56</td><td>70</td></tr><tr><td>总细菌GB/[lg（个/g）] 普雷氏菌属 Pre/%</td><td>5.59±0.28c</td><td>8.22±0.34b</td><td>8.30±0.25b</td><td>7.96±0.62b</td><td>8.23±0.44b</td><td>10.01±0.93a</td><td>9.73±0.38a</td><td>0.27</td><td><0.001</td></tr><tr><td>普雷氏杆菌 Pre</td><td>4.92±2.94c</td><td>19.91±10.95bc</td><td>9.75±6.94c</td><td>11.24±10.05c</td><td>8.55±3.04c</td><td>44.49±19.37ab</td><td>55.28±16.13a</td><td>4.02</td><td><0.001</td></tr><tr><td>栖瘤胃普雷氏菌 Pr</td><td>0.36±0.15</td><td>1.85±0.87b</td><td>1.01±0.56b</td><td>0.82±1.09b</td><td>1.86±1.35b</td><td>2.51±1.76b</td><td>14.64±8.43a</td><td>1.06</td><td><0.001</td></tr><tr><td>甲菌Met</td><td></td><td>5.26±0.064d</td><td>5.74±0.22cd</td><td>5.96±0.48bc</td><td>6.55±0.19ab</td><td>7.22±0.30a</td><td>7.14±0.41a</td><td>0.16</td><td><0.001</td></tr><tr><td>纤维降解菌Cb/%</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>琥珀酸丝状杆菌 Fs</td><td></td><td></td><td></td><td>0.30±0.32b 0.87±0.81b</td><td>0.20±0.25b 14.11±8.30a</td><td>1.51±0.46a 1.52±1.12b</td><td>1.13±0.76a</td><td>0.18</td><td>0.006</td></tr><tr><td>黄色瘤胃球菌 Rf</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.62±0.77b</td><td>1.75</td><td>0.002</td></tr><tr><td>淀粉降解菌 Ab</td><td></td><td>0.70±0.63</td><td>0.53±0.37</td><td>0.91±0.49</td><td>0.67±0.41</td><td>0.43±0.43</td><td></td><td></td><td></td></tr><tr><td>反刍月形单胞菌 SELE 嗜淀粉瘤胃杆菌 RAMY</td><td></td><td></td><td></td><td>53.89±26.50a</td><td>4.95±3.48b</td><td>22.70±12.04b</td><td>0.53±0.28 3.42±3.64b</td><td>0.87 6.20</td><td>0.714 0.001</td></tr></table></body></html>
+
+# 2.4 相关性分析
+
+表6表示羔羊回肠细菌组成与消化功能指标的相关系数，相关系数的绝对值大于0.40的为显著相关。乙酸含量与普雷氏杆菌、栖瘤胃普雷氏菌和甲烷菌占总细菌百分比呈显著正相关（ $( P { < } 0 . 0 5 )$ )。淀粉酶活性只与黄色瘤胃球菌占总细菌百分比呈显著正相关（ $( P { < } 0 . 0 5 )$ 。纤维素酶活性与甲烷菌占总细菌数量呈极显著正相关（ $\scriptstyle \cdot < 0 . 0 1 { \dot { ) } }$ ，与嗜淀粉瘤胃杆菌占总细菌百分比呈显著负相关（ $\cdot P { < } 0 . 0 5 \$ )。木聚糖酶活性与普雷氏杆菌、栖瘤胃普雷氏菌、甲烷菌和琥珀酸丝状杆菌占总细菌百分比呈显著正相关（ $( P { < } 0 . 0 5 )$ ，却与嗜淀粉瘤胃杆菌占总细菌百
+
+# 表6羔羊回肠食糜细菌组成与消化功能发育指标的相关系数
+
+Table 6The correlation coefficients between bacterial communityand digestive functional indexes in ileal
+
+chymus of lambs   
+
+<html><body><table><tr><td>项目Items</td><td>乙酸 Acetate</td><td>淀粉酶 Amylase</td><td>纤维素酶 Cellulase</td><td>木聚糖酶 Xylanase</td></tr><tr><td>普雷氏杆菌 Pre</td><td>0.547*</td><td>-0.298</td><td>0.399</td><td>0.601*</td></tr><tr><td>栖瘤胃普雷氏菌 Pr</td><td>0.620*</td><td>-0.027</td><td>0.365</td><td>0.595*</td></tr><tr><td>反刍月形单胞菌 SELE</td><td>0.143</td><td>-0.01</td><td>-0.124</td><td>-0.268</td></tr><tr><td>甲烷菌 Met</td><td>0.456*</td><td>-0.089</td><td>0.625**</td><td>0.750*</td></tr><tr><td>琥珀酸丝状杆菌 Fs</td><td>0.285</td><td>-0.35</td><td>0.359</td><td>0.546*</td></tr><tr><td>黄色瘤胃球菌 Rf</td><td>-0.178</td><td>0.594*</td><td>0.4</td><td>0.247</td></tr><tr><td>嗜淀粉瘤胃杆菌 RAMY</td><td>-0.322</td><td>-0.286</td><td>-0.576*</td><td>-0.704**</td></tr></table></body></html>
+
+\*\*表示差异极显著（ $P { < } 0 . 0 1$ )，\*表示差异显著（ $\scriptstyle P < 0 . 0 5 .$ ）\*\* meant extremely significant diffrence( $\scriptstyle { \cal P } < 0 . 0 1$ ），and \* meant significant difference( $\scriptstyle \left. { P < 0 . 0 5 } \right.$ ）：
+
+# 3讨论
+
+# 3.1山羊羔羊出生后回肠消化功能的发育
+
+直接的研究已证实，除了瘤胃具有强大的降解纤维物质的能力外，反刍动物小肠（包括空肠和回肠）对饲粮纤维类物质亦有很强的补偿消化能力[14-15]。由此可以判断，反刍动物后消化道消化能力的建立和完善与后肠道定植的细菌数量和种类直接相关，而肠道细菌消化能力最直接的表征即是产生挥发性脂肪酸（VFA）的能力和酶活性的大小。随着反刍动物日龄的增长，伴随着各种消化酶（尤其是纤维降解酶）被小肠道细菌分泌，进入反刍动物后肠道的饲料（尤其是纤维物质）才能被转化成VFA，此过程亦即碳水化合物降解能力逐渐建立并完善的过程[3-4]。有研究表明，在反刍动物的盲肠和结肠部位亦存在较强的纤维消化能力[16-17]。本试验结果表明，随着日龄的增长，山羊羔羊回肠食糜中的乙酸含量逐渐升高，且纤维素酶和木聚糖酶的活性亦同步升高，根据数据应可推断小肠（回肠）细菌自14日龄起在逐步形成降解和消化纤维类物质的能力。至于是何种细菌其主导作用，将在后文进一步讨论。张英杰等[18研究认为，回肠内淀粉酶活性随着羔羊日龄的增长逐渐增长，3个月基本稳定;并认为可能是羔羊从出生后，随着采食量逐渐增加和食物来源的变化，消化道发育日渐完善和肠道细菌的演变，肠道消化酶活性逐渐增加。而在本试验条件下，28\~70日龄间并未发现回肠食糜中淀粉酶活性随日龄增长而发生显著变化，而纤维素酶和木聚糖酶活性显著增加。
+
+其可能的原因是，回肠并非淀粉酶分泌的主要部位，而随着山羊羔羊的逐渐断奶，后肠道细菌定植数量逐渐增加，对进入后肠道的纤维类物质（纤维素、半纤维素和木聚糖）的响应增强，进而分泌纤维素酶和木聚糖酶的能力也增强。
+
+# 3.2山羊羔羊出生后回肠细菌定植
+
+回肠内细菌种类和数量虽然无法与瘤胃内细菌种类和数量相比，但是从本试验结果来看回肠内细菌数量也达到了 $1 0 ^ { 8 } { \sim } 1 0 ^ { 9 }$ 。出生后1周，山羊羔羊回肠内细菌数量增加了3个数量级，之所以羔羊产后1周后肠道细菌迅速出现，其主要来源应该包括母体细菌、奶和周围环境[19-20]。通常而言，羔羊出生后3周内不具备反刍功能，瘤胃的发育与功能亦不完善，母羊奶则成为后肠道细菌定植和生存的主要营养源[21]。本试验中普雷氏菌属和淀粉降解菌成为出生后羔羊回肠内最早定植的细菌，且在14 日龄的回肠食糜中即检测到了一定量的乙酸，其原因是上述细菌会参与进入后肠道的乳酸、乳糖和其他低聚糖转化为VFA的过程[21]。本试验中山羔羊回肠食糜中细菌总数在56 和70日龄达到峰值且保持相对稳定，据此可推断山羊后肠道细菌定植应该在2月龄左右即完成。就功能细菌而言，羔羊回肠食糜中普雷氏杆菌、栖瘤胃普雷氏菌和琥珀酸丝状杆菌占总细菌比例随日龄增长亦显著增加，这伴随着乙酸含量以及纤维素酶与木聚糖酶活性的升高。考虑到普雷氏杆菌和栖瘤胃普雷氏菌是回肠食糜中的优势菌群，仅就此而言，回肠消化纤维类物质的能力应该取决于普雷氏杆菌和栖瘤胃普雷氏菌数量的增加。相关性分析结果亦表明,这2种菌占总细菌百分比与乙酸含量呈显著正相关。至于回肠食糜中的黄色瘤胃球菌和嗜淀粉瘤胃杆菌数量的峰值分别出现在42 日龄和 28 日龄，可能与逐步断奶过程提供的饲粮变化有关，有待在今后的试验研究中进一步验证。此外，本试验中，42日龄为彻底断奶并改变饲粮的取样期，从细菌数量的变化来分析，断奶尤其容易引起回肠食糜中黄色瘤胃球菌和嗜淀粉瘤胃杆菌数量的急剧变化（与 28 和 56 日龄相比)，焦金真等在盲肠和结肠亦观察到类似的研究结果。而甲烷菌在回肠内细菌中，其数量虽然不是最多的，但仅次于普雷氏菌属，而且自检测的第7日龄开始，其数量一直相对稳定，可见甲烷菌在反刍动物后肠道的定植可能在1周内即可基本完成。
+
+4结论
+
+$\textcircled{1}$ 本试验研究认为山羊回肠消化降解纤维物质的能力不是出生就有的，而是28日龄开始，随着普雷氏杆菌和栖瘤胃普雷氏菌等功能性细菌的定植逐渐建立并进一步完善。
+
+$\textcircled{2}$ 回肠内最早定植的细菌是普雷氏菌属、反刍月形单胞菌和甲烷菌；而纤维降解菌， 包括琥珀酸丝状杆菌和黄色瘤胃球菌，则是在28日龄开始定植。   
+（204 $\textcircled{3}$ 甲烷菌不仅在瘤胃内大量存在，在回肠中也有数量可观的甲烷菌存在，但数量不随 饲粮的变化而改变。   
+参考文献:   
+[1]刘敏雄.反刍动物消化生理学[M].北京:北京农业大学出版社,1991:12.   
+[2]冯仰廉.反刍动物营养学[M].北京:科学出版社,2004.   
+[3]KRAUSE D O,NAGARAJA T G,WRIGHT A D Get al.Board-invited review:rumen microbiology:leadingthewayinmicrobialecology[J].JournalofAnimal Science,2013,91(1):331-341.   
+[4]REY M,ENJALBERT F,MONTEILS V.Establishment of ruminal enzyme activities and fermentation capacity in dairy calvesfrom birth through weaning[J].Journal ofDairy Science,2012,95(3):1500-1512.   
+[5]HUNGATE R E.The rumen and its microbes[M].New York:Academic Press,1966.   
+[6]HE Z X,WU D Q,SUN Z H,et al.Protein or energy restriction during late gestation alters fetal growth and visceral organ mass:an evidence of intrauterine programming in goats[J].Animal Reproduction Science,2013,137(3/4):177-182.   
+[7]MAO S Y,HUO W J,Zhu W Y.Use of pyrosequencing to characterize the microbiota in the ileumofgoatsfedwithincreasingproportionofdietarygrain[J].Current Microbiology,2013,67(3):341-350.   
+[8]GARCIA-GONZALEZ R,LOPEZ S,FERNANDEZ M,et al.Screening the activity of plants and spices for decreasing ruminal methane production in vitro[J].Animal Feed Science and Technology,2008,147(1/2/3):36-52.   
+[9]焦金真,王芃芃,汤少勋,等.浏阳黑山羊胃肠道不同部位重要功能微生物的数量分布特征 研究[J].畜牧兽医学报,2013,44(10):1590-1599.   
+[10] HOOK S E,NORTHWOOD K S,WRIGHT A D G,et al.Long-term monensin supplementation does not significantly affect the quantity or diversity of methanogens in the rumen of the lactating dairy cow[J].Applied and Environmental [11]DENMAN S E,MCSWEENEY C S.Development of a real-time PCR assay for monitoring anaerobic fungal and celulolytic bacterial populations within therumen[J].FEMS Microbiology Ecology,2006,58(3):572-582.   
+[12]STEVENSON D M,WEIMER P J.Dominance of Prevotella and low abundance of classical ruminal bacterial species in the bovine rumen revealed by relative quantification real-time PCR[J].Applied Microbiology and Biotechnology,2007,75(1):165-174.   
+[13] ZHOU M,HERNANDEZ-SANABRIA E,GUAN L L.Assessment of the microbial ecology of ruminal methanogens in catle with different feed efficiencies[J].Applied and Environmental Microbiol0gy,2009,75(20):6524-6533.   
+[14]TAN Z L,LU D X,HU M,et al.Effect of dietary structural to nonstructural carbohydrate ratioon rumen degradability and digestibility of fiber fractionsof wheat strawin sheep[J].Asian-Australasian Journal of Animal Sciences,2002,15(11):1591-1598.   
+[15]TAN Z L,LU D X,HU M,et al.Effects of dietary nitrogen sources on fiber digestion and ruminal fluid characteristics in sheep fed wheat straw[J].Asian-Australasian Journal of Animal Sciences,2001,14(10):1374-1382.   
+[16]CUMMINGS JH.Short chain fatty acids in the human colon[J].Gut,1981,22(9):763-779. [17]JIAO J Z,WANG P P,HE Z X,et al.In vitro evaluation on neutral detergent fiber and celulose digestion by post-ruminal microorganisms in goats[J].Journal of the Science of Food and Agriculture,2014,94(9):1745-1752.   
+[18]张英杰,刘月琴,孙洪新,等.羔羊小肠 pH 及主要消化酶发育规律的研究[J].畜牧兽医学 报,2005,36(2):149-152.   
+[19]MANDAR R,MIKELSAAR M.Transmission of mother's microflora to the newborn at birth[J].Biology of the Neonate,1996,69(1):30-35.   
+[20]HUNT K M,FOSTER J A,FORNEY L J,et al.Characterization of the diversity and temporal stability of bacterial communities in human milk[J].PLoS One,2011,6(6):e21313.   
+[21]ORSKOV E R,BENZIE D,KAY R N B.The effects of feeding procedure on closure of the oesophageal groove in young sheep[J].British Journal of Nutrition,1970,24(3):785-795.   
+[22]FAUBLADIER C,JULLIAND V,DANEL J,et al.Bacterial carbohydrate-degrading capacity
+
+in foal faeces:changes from birth to pre-weaning and the impact of maternal supplementation with fermented feed products[J].British Journal of Nutrition,2013,110(6):1040-1052.
+
+Developmental Changes in Bacterial Colonization and Digestive Function in Ileum of Lambs LI Xiaopeng1,2 JIAO Jinzhen1.2 YAN Qiaoxian1TAN Zhiliang1\* (1. Key Laboratory for Agro-Ecological Processes in Subtropical Region, Hunan Provincial Engineering Research Center for Healthy Livestock and Poultry Production, South-Central Experimental Station of Animal Nutrition and Feed Science in Ministry of Agriculture, Institute of Subtropical Agriculture, The Chinese Academy of Sciences, Changsha 410125, China; 2. Graduate University of Chinese Academy of Sciences, Beijing 10oo49, China) Abstract: The objective of this study was to investigate the developmental changes in bacterial colonization and digestive function in ileum of lambs. Forty four Xiangdong black lambs were used in this trial,and 4 of them were randomly slaughtered at 1,7 and 14 days of age (nonrumination period),28 and 42 days of age (transition period),and 56 and 7O days of age (rumination period),respectively. The ileal chymus was sampled to determine acetate content, activities of amylase,celulase and xylanase,as well as general bacteria number and selected functional bacterial species (Prevotella,methanogen, and cellulolytic and amylolytic bacteria). The results showed as follows: acetate could be detected in ileal chymus of lambs since at 25 days of age,and the content was significantly increased with increasing days of age $( P < 0 . 0 5 )$ ； the increase of days of age significantly increased the activities of celllase and xylanase ( $P { < } 0 . 0 5$ or $P { < } 0 . 0 1 \$ ); the increase of days of age significantly increased general bacterial number and the percentages of Prevotella, Prevotella ruminocula and methanogen (firstly detected at 7 days of age) ingeneral bacterial $( P { < } 0 . 0 1 )$ ； cellulolytic (Fibrobacter succinogenes and Ruminococcus flavefaciens) and amylolytic bacteria (Ruminobacter amylophilu) were firstly detected at 28 days of age.In conclusion,the fiber-degrading capacity in ileum of lambs is established at 28 days of age and then gradually achieved; a great number of methanogen can be detected at 7 days of age, and then the number gets stable.
+
+Key words: bacterial colonization； functional establishment; ileumi

@@ -1,0 +1,317 @@
+[
+    {
+        "type": "text",
+        "text": "土壤水分含量对藹草幼苗保护酶与渗透调节物质的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "曹昀1²，纪欣圣'，国志昌'，吴海英}（1江西师范大学地理与环境学院,江西南昌330022；2江西师范大学鄱阳湖湿地与流域研究教育部重点实验室,江西南昌330022)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以草幼苗为试材,通过为期 $5 0 \\mathrm { ~ d ~ }$ 的室内盆栽控水试验，按照土壤水分含量设置7个水分梯度： $( 1 0 \\pm 0 . 5 ) \\%$ 、 $( 1 5 \\pm 0 . 5 ) \\%$ 、 $( 2 0 \\pm 0 . 5 ) \\%$ 、 $( 2 5 \\pm 0 . 5 ) \\%$ 、 $( 3 0 \\pm 0 . 5 ) \\%$ 、 $( 4 0 \\pm 0 . 5 ) \\%$ （土壤水分饱和)和 $5 1 \\%$ （淹水 $2 \\ \\mathrm { c m }$ )，研究了不同土壤水分含量对植物的抗氧化酶活性、丙二醛含量、可溶性蛋白含量的影响。结果表明：(1)土壤水分含量在 $2 0 \\% \\sim 3 5 \\%$ 之间时SOD(超氧化物歧化酶）活性较高，低于 $20 \\%$ 和高于 $3 5 \\%$ 时,SOD活性下降，且在不同土壤水分含量下试验 $5 0 \\mathrm { ~ d ~ }$ 的 SOD活性均大于试验 $2 5 \\mathrm { ~ d ~ }$ 的。（2)CAT(过氧化氢酶)与POD(过氧化物酶)活性达极显著相关 $p < 0 . 0 1$ ，均随土壤水分含量的增加呈先大幅下降后平稳再小幅上升的趋势。（3)MDA(丙二醛)含量与 SOD活性趋势相反，随土壤水分含量的增加不断下降，在试验 $2 5 \\mathrm { ~ d ~ }$ 时淹水组略有上升。 (4)可溶性蛋白在 $2 0 \\% \\sim 4 0 \\%$ 之间时含量较高，植株生长状况较好，在干旱和淹水胁迫条件下可溶性蛋白含量呈下降趋势。由此可见：当轟草幼苗受到干旱等胁迫时，草幼苗会开启抗氧化酶系统以保护植株组织，可长时间的胁迫或者胁迫超过其耐受范围（土壤水分含量小于 $20 \\%$ 或处于土壤水分过饱和淹水条件)就会不同程度的破坏植物的防御系统从而影响其生长发育。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词： 草；抗氧化酶系统；丙二醛；可溶性蛋白；土壤水分含量",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S152.7 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "土壤水分是影响植物的生长发育和生理代谢的重要环境因子，在水分胁迫的环境下，植物能够启动保护酶/抗氧化酶系统和调整渗透调节物质的含量对环境作出响应。草（Phalarisarundinacea）又名草芦、园草芦,为多年生根茎型草本植物，主要分布在我国东北、华北、华中、华东等地，全球温带地区广布,喜湿,对环境要求不高[1-2]。由于具有较强的抗逆性和较高的产量，藹草成为优质牧草和重要湿地植物[3]。当草受到盐、水分等胁迫环境时,胁迫环境对其细胞所产生的伤害会使植物中保护酶发生反应，开启其自我防御系统，但当胁迫强度超过一定的程度或长时间的胁迫时就会破坏其防御系统从而影响植株的正常发育甚至导致植株的死亡。国志昌研究草幼苗期的水分生态幅为 $7 . 4 8 \\% \\sim 5 2 . 2 0 \\%$ ，最适水分生态幅为 $1 8 . 9 9 \\% \\sim 4 0 . 6 0 \\% ^ { \\ [ 4 ] }$ 。目前对草的研究主要有幼苗期的水分生态幅[4]、盐胁迫对其生理的影响[5] 盐胁迫下氮磷钾肥对其离子吸收与分布的影响[、光合作用日变化、光合特性的研究[7]、不同位叶对光合作用响应能力及光和贡献率的研究[8]、干旱胁迫及复水对其生理特征的影响等。对草从干旱到淹水不同土壤水分含量下生理生化特征变化的研究未见报道。本文通过盆栽试验的方法，设置7个水分梯度全面的模拟了从干旱到淹水的不同土壤水分状况，分析藹草的生理生化指标，旨在解释不同土壤水分含量对草幼苗保护酶与渗透调节物质的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验材料与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "试验材料为草幼苗，于2015年4月从鄱阳湖南矶山国家级自然保护区采集草根状茎，在试验室萌发育苗，幼苗长到三叶一心时把根茎长势均匀且大小一致的幼苗移栽到盆中（长 $3 5 \\ \\mathrm { c m }$ ，宽 $2 6 ~ \\mathrm { c m }$ ，高 $1 3 \\ \\mathrm { c m }$ ）,每盆10株，基质为沙壤土，基本性状为：$\\mathrm { p H } 5 . 2 4 \\$ ,有机质 $2 4 . 5 7 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g } ^ { - 1 }$ ，全氮 $\\mathrm { ~ 1 . ~ } 3 9 \\mathrm { ~ g ~ }$ ：$\\mathbf { k g } ^ { - 1 }$ ,土壤田间持水量为 $3 0 . 7 0 \\%$ 。试验采用随机区组设计，设置7个水分梯度来模拟湿地的不同土壤水分含量，分别为C1： $( 1 0 \\pm 0 . 5 ) \\%$ 、C2:( $1 5 ~ \\pm$ $0 . 5 ) \\%$ 、C3: $( 2 0 \\pm 0 . 5 ) \\%$ 、C4: $( 2 5 \\pm 0 . 5 ) \\%$ 、C5:$( 3 0 \\pm 0 . 5 ) \\%$ 、 $\\mathrm { C } 6$ 饱和： $( 4 0 \\pm 0 . 5 ) \\%$ 和C7：( $5 1 \\pm$ $0 . 5 ) \\%$ 、淹水 $2 \\ \\mathrm { c m }$ ,每组设3个重复。试验在植物阳光培养室中进行，试验于4月10日开展，5月30日结束，试验结束后取各组生长状况良好的植株从上往下数第3\\~5片叶片，对其SOD、POD、CAT、MDA及可溶性蛋白等各生理生化指标进行测定。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土壤水分含量采用人工控制浇水的方法，每天20：00 时用HH2型土壤水分仪测定土壤水分含量，根据土壤水分状况计算出所需水分体积，定量补充至设置值。用氮蓝四唑法测定超氧化物歧化酶（SOD），过氧化物酶（POD）的测定采用愈创木酚法，高锰酸钾滴定法测定过氧化氢酶(CAT）、硫代巴比妥酸法测定丙二醛（MDA），采用考马斯亮蓝G-250 染色法测定可溶性蛋白[10] ○",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据分析 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用重复测量方差分析检验藹草酶活性的差异显著性，试验数据采用Excel和SPSS19.0软件进行分析处理，采用Pearson对草的各指标与土壤水分含量之间进行相关性分析，采用单因素方差分析LSD进行差异性检验。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1土壤水分含量对藹草幼苗保护酶活性的影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 土壤水分含量对草 SOD 的影响²试验25d 时草已经对土壤水分含量产生响应，综合两组数据，土壤水分含量在 $1 5 \\%$ 以下和 $40 \\%$ 以上均属于胁迫环境。试验第 $2 5 \\mathrm { ~ d ~ }$ 第 $5 0 \\mathrm { ~ d ~ }$ 草叶片 SOD含量随着土壤水分含量的不同产生了显著变化，其变化趋势基本一致，两者在0.01水平上显著相关( $R =$ 0.917)。第 $2 5 \\mathrm { ~ d ~ }$ 时，土壤水分含量在 $1 5 \\% \\sim 4 0 \\%$ 之间时其SOD活性较稳定，保持在 $2 2 0 . 5 2 \\sim 2 2 7 . 1 2$ $\\mathrm { ~ U ~ } \\cdot \\mathrm { ~ g ~ } ^ { - 1 }$ 之间,各组间 SOD 含量无显著性差异;当土壤水分含量低于 $1 5 \\%$ 和高于 $40 \\%$ 时，SOD活性下降,在 $10 \\%$ 时 SOD 活性最低为 $2 1 1 . 5 4 \\mathrm { ~ U ~ } \\cdot \\mathrm { ~ g ~ } ^ { - 1 }$ ,其且",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$10 \\%$ 含量组与其它各组均呈显著性差异（ $\\boldsymbol { P } <$ 0.05）。第 $5 0 \\mathrm { ~ d ~ }$ 时，草SOD各组间均呈极显著性差异。土壤水分含量在 $2 0 \\% \\sim 3 5 \\%$ 之间时草的SOD 活性较高,在 $2 2 7 . 5 3 \\sim 2 2 8 . 3 9 \\mathrm { ~ U ~ } \\cdot \\mathrm { ~ g ~ } ^ { - 1 }$ 之间；当土壤水分含量低于 $20 \\%$ 和高于 $3 5 \\%$ 时，草 SOD活性下降；土壤水分含量为 $5 1 \\%$ （淹水 $2 \\ \\mathrm { c m }$ ）时SOD 活性最低为 $2 1 5 . 6 2 \\mathrm { ~ U ~ } \\cdot \\mathrm { ~ g ~ } ^ { - 1 }$ 。在不同土壤水分含量下试验50d的SOD活性均大于试验 $2 5 \\mathrm { ~ d ~ }$ （图1a）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.2²土壤水分含量对藹草CAT 的影响²不同土壤水分含量下草的CAT活性均呈极显著性差异$P < 0 . 0 1$ ,实验 $2 5 \\mathrm { ~ d ~ }$ 和 $5 0 ~ \\mathrm { d }$ 时CAT活性变化趋势一致在0.01水平上呈显著相关 $R = 0 . 9 8$ 。土壤水分含量在 $3 0 \\% \\sim 4 0 \\%$ 之间时草的CAT活性保持稳定，土壤水分含量低于 $30 \\%$ 和高于 $40 \\%$ 时CAT活性大幅提高。其中试验 $5 0 \\mathrm { ~ d ~ }$ ,土壤水分含量为 $10 \\%$ 时CAT活性最大为 $1 4 . 6 2 \\mathrm { ~ U ~ } \\cdot \\mathrm { ~ g ~ } ^ { - 1 }$ ，为 $3 0 \\% \\sim 4 0 \\%$ 之间时平均CAT活性的3.29倍。试验 $2 5 \\mathrm { ~ d ~ }$ 与 $5 0 \\mathrm { ~ d ~ }$ 相比，土壤水分含量在 $3 0 \\% \\sim 4 0 \\%$ 之间时两组CAT活性维持在同一水平不存在显著性差异，其他水分含量下试验 $5 0 \\mathrm { ~ d ~ }$ 时的CAT活性整体高于试验 $2 5 \\mathrm { ~ d ~ }$ 时水平（图1b）。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/80d3fff046e7f213391cab8cf3f38c3c7bc28ef5537924f4dfa839670601ad25.jpg",
+        "img_caption": [
+            "图1土壤水分含量对草抗氧化酶的影响Fig.1Effects of soil moisture content on antioxidaseof $P$ ，arundinacea"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.3土壤水分含量对藹草 POD 的影响²土壤水分含量低于 $20 \\%$ 和高于 $4 0 \\%$ 时，POD活性显著高于其他组。不同土壤水分含量处理 $2 5 \\mathrm { ~ d ~ }$ 和50d草叶片POD 活性均呈极显著性差异 $P < 0 . 0 1$ ,整体随土壤水分含量的增加呈先下降后上升趋势。试验25d，在土壤水分含量为 $3 5 \\%$ 时POD活性最低为（204号 $1 3 9 . 0 0 \\mathrm { ~ U ~ } \\cdot \\mathrm { ~ g ~ } ^ { - 1 }$ 。试验50d,在土壤水分含量为 $4 0 \\%$ 时POD活性最低，均两侧POD活性逐渐升高，且试验 $5 0 \\mathrm { ~ d ~ }$ 时的POD活性整体高于试验25d时水平（图1c）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 土壤水分含量对藹草MDA和可溶性蛋白的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "随土壤水分含量的增加试验 $2 5 \\mathrm { ~ d ~ }$ 和 $5 0 \\mathrm { ~ d ~ }$ 时MDA含量变化趋势一致。MDA含量在土壤水分含量为 $3 0 \\% \\sim 4 0 \\%$ 之间时保持稳定，低于 $30 \\%$ 时MDA含量大幅提高。试验 $2 5 \\mathrm { ~ d ~ }$ 时MDA含量在土壤水分含量低于 $30 \\%$ 和高于 $40 \\%$ 时均较高而在试验 $5 0 \\mathrm { ~ d ~ }$ 时MDA含量较25d时有所下降，可是在土壤水分含量为 $3 0 \\% \\sim 4 0 \\%$ 之间时仍然保持稳定，此点与 $2 5 \\mathrm { ~ d ~ }$ 时情况相近（图2a）。随着时间推移，MDA含量基本处于下降趋势。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "草叶片可溶性蛋白含量随土壤水分含量增加呈先升高后降低趋势。土壤水分含量在 $20 \\%$ \\~$40 \\%$ 之间时可溶性蛋白含量较高。对可溶性蛋白含量进行二次拟合， $R ^ { 2 } = 0 . 9 7 5$ （图2b）。在土壤水分含量为 $3 5 \\%$ 时出现最大值为 $2 4 . 8 3 \\mathrm { ~ m g ~ } \\cdot \\mathrm { ~ g ~ } ^ { - 1 }$ ,在淹水条件下含量最低。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3土壤水分含量和藹草生理指标相关性分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1表明，土壤水分含量与各指标均呈负相关，其中与CAT、MDA相关性较高为－0.715和-0.959，说明土壤水分含量是影响草生理特征的主要因素;除了SOD与CAT、POD呈负相关关系以外，其他指标之间均呈正相关，其中SOD与可溶性蛋白、CAT与POD在0.01水平上极显著相关。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/61995c1299edf3f6cd1230ea425773c42b63a03639f549477e5c9ae574c8e28e.jpg",
+        "img_caption": [
+            "图2土壤水分含量对草MDA和可溶性蛋白的影响Fig.2Effects of soil moisture content on MDA andsoluble protein of $P$ ，arundinacea"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/7f4e7a99ee6c2ae97b00b56bf4c65bf0a90646a9a4a10248f1b2ed9f46fcb634.jpg",
+        "table_caption": [
+            "表150d后生物特征值的相关性",
+            "Tab.1 Correlation between the biological characteristic valueafter50days "
+        ],
+        "table_footnote": [
+            "注： $* *$ 在0.01水平(双侧)上显著相关; $*$ 在0.05水平(双侧)上 显著相关 "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>土壤水 分含量</td><td>SOD</td><td>CAT</td><td>POD</td><td>MDA</td><td>可溶性 蛋白</td></tr><tr><td>土壤水 分含量</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SOD</td><td>-0.351</td><td>1.000</td><td></td><td></td><td></td><td></td></tr><tr><td>CAT</td><td>-0.715</td><td>-0.340</td><td>1.000</td><td></td><td></td><td></td></tr><tr><td>POD</td><td>-0.582</td><td>-0.439</td><td>0.991 **</td><td>1.000</td><td></td><td></td></tr><tr><td>MDA</td><td>-0.959 **</td><td>0.420</td><td>0.635</td><td>0.427</td><td>1.000</td><td></td></tr><tr><td>可溶性 蛋白</td><td>-0.326</td><td>0.994 **</td><td>-0.349</td><td>0.467</td><td>0.391 1.000</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3结论与讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 草幼苗保护酶活性对土壤水分含量的响应",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "超氧化物歧化酶(SOD)是植物细胞活性氧清除过程中第一个做出反应的抗氧化酶[11],能通过歧化反应清除活性氧自由基，使活性氧保持在较低水平，减轻细胞的过氧损伤,使细胞免受伤害[12]。有研究认为在水分胁迫下，SOD活性随着胁迫强度的增大而增加[13]。而本研究综合试验中期和后期的数据,在干旱和土壤淹水的水分胁迫下的处理组SOD活性反而低于适宜水分含量的处理组，SOD活性随土壤水分含量的增加呈现先增大后降低的趋势。对苗期紫花苜蓿研究表明植物在遭受逆境胁迫时，SOD活性增加，但随着时间的推移SOD活性逐渐消耗降低[14]。有研究发现7种草坪草随胁迫天数的推移SOD 活性呈现先增高7d后又下降趋势[15]。以上研究与本研究干旱和土壤水分过饱和的水分胁迫下的处理组SOD活性低于适宜水分含量相一致，说明长时间受到胁迫的处理组SOD活性较低，此时植物的自我防御系统受损。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "过氧化物酶（POD）和过氧化氢酶（CAT)是植物抗氧化酶系统的重要组成部分[16-17],在胁迫环境中分解 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ ,应对膜脂过氧化。本研究表明草在长期胁迫环境下POD和CAT活性随着土壤水分含量的增加先大幅下降后小幅升高，在对须芒草、草和柳枝稷的干旱和盐耦合胁迫的研究中也得到类似结论[18]。说明干旱和淹水都会对藹草产生胁迫,导致抗氧化酶系统开启POD和CAT活性提高，以清除活性氧保护植物组织。草在土壤水分含量低于$30 \\%$ 和高于 $40 \\%$ 时会启动植物防御系统，从而CAT活性升高，且随着胁迫时间的延长CAT活性升高。试验 $5 0 \\mathrm { ~ d ~ }$ 仍维持在较高水平，持续清除植物体多余自由基。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 草MDA、可溶性蛋白对土壤水分含量的响应",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "丙二醛(MDA)是植物在逆境环境中细胞膜脂过氧化或脂膜脱脂的主要产物，其具有细胞毒性[19],MDA含量是评价膜脂过氧化的程度的重要指标[20]。因此可以用 MDA 的含量来衡量草在不同水分条件下细胞膜脂过氧化程度和生长状况。试验 $2 5 \\mathrm { ~ d ~ }$ 时 MDA含量在土壤水分含量低于 $30 \\%$ 和高于 $40 \\%$ 时均较高说明在此水分条件下草开始受到水分胁迫，而在 $3 0 \\% \\sim 4 0 \\%$ 的水分条件下 $2 5 \\mathrm { ~ d ~ }$ 和$5 0 \\mathrm { ~ d ~ }$ 的MDA含量都保持相近的稳定状态，证明此水分条件下适合草生长。随着时间的推移，MDA含量下降说明藹草已经对水分胁迫做出反应，减小了膜脂过氧化作用。本研究发现MDA含量随着土壤水分含量的减少大幅上升，试验 $5 0 \\mathrm { ~ d ~ }$ 与 $2 5 \\mathrm { ~ d ~ }$ 相比整体小幅下降并且MDA含量的变化趋势与POD、CAT活性一致且与SOD 活性相反。说明在试验前25d，处于胁迫环境的草体内活性氧增加MDA含量增加，抑制了SOD 的活性。试验 $2 5 \\mathrm { ~ d ~ }$ 到50d的SOD、POD和CAT活性提高，适应所处环境清除活性氧使MDA含量下降。有关草盐胁迫的研究[21]中 MDA的响应与本研究相一致。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "可溶性蛋白是植物体内各种酶的重要组成部分，在植物体中发挥着重要的作用，直接关系到酶的合成和细胞的各种化学反应[22]。在自然干旱胁迫下随着时间的推移土壤水分含量下降藹草可溶性蛋白不断升高[10]。本研究发现土壤持续干旱胁迫和淹水的处理组，随着胁迫的加剧草叶片可溶性蛋白含量整体呈下降趋势，与宋家壮等研究结果不一致。分析认为由于此时的干旱和淹水胁迫超过了藹草的耐受范围，细胞受损蛋白质水解，叶片可溶性蛋白含量下降。原因可能是可溶性蛋白具有较强的亲水性，短期的干旱胁迫可以使可溶性蛋白增加使细胞保持适当的渗透势提高保水能力防止脱水，而长期的胁迫则使植株受损发生水解反应导致可溶性蛋白含量下降[23-24] O",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "可见,干旱等胁迫条件会使草幼苗植株开启抗氧化酶系统以清除活性氧和多余的自由基来保护植物组织，而一旦胁迫条件超过植物的耐受范围（王壤水分含量小于 $20 \\%$ 或处于土壤水分过饱和淹水条件)时，植物的防御系统就会受到不同程度的破坏，其保护酶以及可溶性蛋白含量降低从而影响植物的生长发育。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1］张永亮,骆秀梅.草的研究进展[J].草地学报,2009,16(6)：659-666.[ZHANG Yongliang,LUO Xiumei.Research progress ofreed canarygrass[J].Acta Agrestia Sinica,2009,16（6）:659-666.]  \n[2]张永亮,张浩,徐金波,等.草人工草地的生长动态研究[J].中国草地学报,2012,34（3）:21－27.[ZHANG Yongliang，ZHANG Hao,XU Jinbo,et al.The growth dynamic research of reedcanarygrass artificial grassland[J].Chinese Journal of Grassland,2012,34(3):21-27.]  \n[3] SAHRAMAA M.Evaluation of reed canary grass for different end-usesandinbreeding[J].Agricultural&Food Science,2OO3,23（3-4):227 -241.  \n[4] 国志昌,曹昀，陈冰祥,等.根茎萌发与幼苗期的草水分生态幅[J].广西植物,2016,36（8）：1000－1007.[GUO Zhengchang,CAO Yun,CHENBingxiang,etal.Water ecological ampli-tude of Phalaris arundinacea at rhizomatic germination and seed-ling stage[J].Guihaia,2016,36(8）:1000-1007.]  \n[5]聂微微,张永亮,任秀珍,等.盐碱胁迫对草幼苗生理特性的影响[J].内蒙古民族大学学报：自然科学版,2010,25（2）：175",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "-177.［NIE Weiwie,ZHANG Yongliang,REN Xiuzhen,et al. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Effect saline-alkali stress on physiological characteristics of Phalaris arundinacea[J].Journal of Inner Mongolia University for Nationalities,2010,25(2）:175-177.]   \n[6］张永亮.氮磷钾肥对盐胁迫下草离子吸收与分布的影响[C] //中国草学会.中国草学会 2013 学术年会论文集.中国草学 会,2013:6.[ZHANG Yongliang. Effectsof nitrogen phosphorus potassium fertilization on the absorption and distribution of Ions in reed canarygrass under salt stress[C]//Chinese Herb Society. Chinese herb society proceedings of 2013 academic conference. Chinese Herb Society,2013:6.]   \n[7]李萍萍,陈歆,付为国,等.草光合作用日变化及其与环境因 子的关系［J].生态学杂志,2006,25（10）：1157－1160.［LI Pingping,CHEN Xin,FU Weiguo,etal. Diurnal change ofPhalaris arundinacea photosynthetic characteristics and its relations with environmental factors[J].Chinese Journal of Ecology,2006,25 （10):1157 -1160.]   \n[8］张小晶,宗仁旭,游明鸿,等.灌浆期藹草不同位叶对光照强度 响应能力及光合贡献率[J].草业科学,2016,33（5）：942- 948.[ZHANG Xiaojing,ZONG Renxu,YOU Minghong,et al. Photosynthetic contribution rate and response of Phalaris arundinacca leaves at the different position in filling stage to light intensity[J]. Pratacultural Science,2016,33（5） :942-948.]   \n[9]宋家壮,李萍萍,付为国,等.水分胁迫及复水对藹草生理生化 特性的影响[J].草业学报,2012,21（2）:62-69.［SONG Jiazhuang,LI Pingping,FU Weiguo,et al.Effect of water stress and rewatering on the physiological and biochemical characteristics of Phalaris arundinacea[J].Acta Prataculturae Sinica,2012,21 (2) :62 -69.]   \n[10］王学奎.植物生理生化实验原理和技术[M].二版.北京：高等 教育出版社,2006:190－192.[WANG Xuekui.Plant physiological and biochemical experiment principle and technology[M].2nd edition.Beijing:Higher Education Press,2006:190 -192.]   \n[11］马旭俊,朱大海.植物超氧化物歧化酶(SOD)的研究进展[J]. 遗传,2003,25（2）:225-231.[MA Xujun,ZHU Dahai.Functional roles of the plant superoxide dismutase[J]. Hereditas(Beijing）,2003,25(2):225-231.]   \n[12］崔江慧,李霄,常金华,等.PEG 模拟干旱胁迫对高梁幼苗生理 特性的影响[J].中国农学通报,2011,27（9）:160－165.［CUI Jianghui,LI Xiao,CHANG Jinhua,et al.Biochemical characteristics in sorghum seedlings under PEG simulated drought stress[J]. Chinese Agricultural Science Bulletin,2011,27(9）:160 -165.]   \n[13］姜慧芳,任小平.干旱胁迫对花生叶片 SOD 活性和蛋白质的影 响[J].作物学报,2004,30（2）:169-174.[JIANG Huifang, REN Xiaoping.The effect on SOD activity and protein content in groundnut leaves by drought stress[J].Acta Agronomica Sinica, 2004,30(2) :169 -174.]   \n[14］张永峰,殷波.混合盐碱胁迫对苗期紫花苜蓿抗氧化酶活性及 丙二醛含量的影响[J].草业学报,2009,18（1)：46－50. [ZHANG Yongfeng,YINBo.Influencesof salt and alkali mixed stresses on antioxidative activity and MDA content of Medicago sativa at seedling stage[J].Acta Prataculturae Sinica,20O9,18（1）: 46 -50.] ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[15］籍越，滕开琼. $\\mathrm { N a } _ { 2 } \\mathrm { C O } _ { 3 }$ 胁迫对不同草坪品种 $\\mathbf { 0 } _ { 2 }$ 产生及 SOD 活性的影响[J].河南农业大学学报,2000,34（2)：177-179.［JIYue,TENG Kaiqiong.The effect of $\\mathrm { N a } _ { 2 } \\mathrm { C O } _ { 3 }$ on $\\mathbf { 0 } _ { 2 }$ -produciton andSODactivity in various lawn breeds[J].Journal of Henan Agricul-turalUniversity,2000,34(2):177-179.]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[16］刘晓静,柳小妮.多效唑和烯效唑对草地早熟禾一些生化指标及其抗性的影响［J].草业学报，2006，15（2）：48-53.［LIUXiaojing,LIU Xiaoni.Effects of paclobutrazol and uniconazole onsome physiological and biochemical indices and the resistance ofPoa pratensis[J].Acta Prataculturae Sinica,2006,15（2）:48-53.]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[17］刘建新，胡浩斌，赵国林，等.多裂骆驼蓬中生物碱类物质对玉 米幼苗生长及某些生理特性的影响[J].草业学报，2007，16 (1):75-8O.[LIUJianxin,HUHaobin,ZHAOGuolin,et al.The physiological characteristics effects of Z.mays seeds at different concentrations of alkaloid extract from $P$ .multisectum[J].Acta Prataculturae Sinica,2007,16(1）:75-80.] ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[18］李雁博.须芒草、草和柳枝稷对干旱和盐耦合胁迫的生理响 应[D].杨凌：西北农林科技大学，2014.［LIYanbo.Physiologi cal coupling response to drought and salinity stress in bluestem, reed canarygrass and switchgrass[D].Yangling:Northwest Agriculture&ForestryUniversity,2014.] ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[19］蔡仕珍,潘远智，陈其兵,等．低温胁迫对花叶细辛生理生化及生长的影响［J].草业学报，2010，19（1)：95－102.［CAIShizhen,PAN Yuanzhi,CHENQibing,etal.Effectsoflow temper-atures on physiological and biochemical indexesand growth of Asa-rum splendens[J].Acta Prataculturae Sinica,2010,19（1)：95-102.]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[20］汪月霞，孙国荣，王建波，等.NaCl胁迫下星星草幼苗MDA含 量与膜透性及叶绿素荧光参数之间的关系［J].生态学报， 2006,26(1）:122-129.[WANGYuexia,SUNGuorong,WANG Jianbo,et al.Relationships among MDA content,plasma membrane permeability and the chlorophyll fluorescence parameters of Puccinellia tenuiflora seedlingsunder NaCl stress[J].Acta Ecologica Sinica,2006,26(1) :122-129.] ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[21］BERRY JA,DOWNTON WJS.Environmental regulation of pho tosynthesis[M]//GOVINDJE ed.Photosynthesis(Vol.II).New York:Academic Press,1982:294 -306. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[22］米海莉，许兴，李树华，等.水分胁迫对牛心朴子、甘草叶片色 素、可溶性糖、淀粉含量及碳氮比的影响[J].西北植物学报， 2004,24(10):1816-1821.［MI Haili,XU Xing,LI Shuhua,et al.Effects of soil water stress on contents of chlorophyll,soluble sugar,starch,C/N of two desert plants(Cynanchum komarovii and Glycyrrhiza uralensis）[J].Acta Bot Boreal Occident Sin,2004,24 （10):1816-1821.] ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[23］董伊晨，刘悦秋.土壤水分对异株荨麻保护酶和渗透调节物质 的影响及其与叶片光合和生物量的相关性[J].生态学报， 2009,29(6）:2845-2851.[DONG Yichen,LIU Yueqiu.Soil waterinfluences on protective enzymes and osmolytes of Urtica dioica and their correlations with leaf photosynthesis and biomass[J].ActaEcologica Sinica,2009,29(6）:2845-2851.] ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[24]CHEN S Y.Membrane-lipid peroxidation and plant stress[J].ChineseBulletin ofBotany,1989,6(4)211-217. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Effects of soil moisture content on antioxidase and osmoregulation substrate content of Phalaris arundinacea seedlings ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "CAO Yun1²， JI Xin-sheng'，GUO Zhi-chang1，WU Hai-ying' (1College of Geography and Environment,Jiangxi Normal University,Nanchang 330022,Jiangxi,China; 2KeyLaboratoryof PoyangLake Wetlandand Watershed Research,MinistryofEducation,Jiangxi Normal University, Nanchang 330022,Jiangxi,China) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Soil moisture isan important environmental factor that affects plant growth and physiological metabo lism.Under water stressconditions，plants can start the protective enzyme/antioxidant enzyme system and adjust the content of osmotic adjustment substances to respond to the environment.To study the $P$ . arundinaceas’ responding mechanism of antioxidant enzyme defencing system to different soil moisture,we selected $P$ . arundinacea seedlings in good growth condition with well preserved rhizomeand consistent germination as test materials.Through 5O days indoor potted water control experiment,we set up seven water gradients of $( 1 0 \\pm 0 . 5 ) \\%$ 、 $( 1 5 \\pm 0 . 5 ) \\%$ 、（ $2 0 \\pm$ $0 . 5 ) \\% ( 2 5 \\pm 0 . 5 ) \\% , ( 3 0 \\pm 0 . 5 ) \\% , ( 4 0 \\pm 0 . 5 ) \\%$ （saturated soil moisture）and $51 \\%$ （2 cm flooded）based on the volumetric water content.The soil moisture content was controlled by manual watering method.It was measured with a HH2 soil moisture meter every day at 2O:OO PM,calculated the required moisture volume based on the soil moisture status and quantified the supplement to the set value.The effects of diferent soil moisture content on malondialdehyde（MDA）,superoxide dismutase（SOD）,peroxidase（POD）,catalase（CAT）and soluble protein content were studied using nitroblue tetrazolium method to measure SOD,guaiacol method to measure POD,CAT was measured by potassium permanganate titration method to measure CAT,Glucosinolates barbituric acid method to measure MDA and Coomasse brlliant blue G-25O dyeing method to measure soluble protein.The results showed as follws:（1）The activity of SOD was higher when the soil moisture content was between $20 \\%$ and $3 5 \\%$ ,and when the soil moisture content was below $20 \\%$ or above $3 5 \\%$ ,the activity of SOD was decreased.The activities of SOD in 5Odays were higher than those in 25 days of the experiment under diferent soil water content.（2）The activities of CAT and POD were extremely significantly correlated with $p < 0 . 0 1$ ,both of which had a trend with a sharp drop at thebegining,and thenbecoming steady,then going up slightly withthe increase of soil moisture content.（3）The content of MDA was opposite to the trend of SOD,and it was decreased with the increase of soil moisture content. The C7 group（flooding $2 \\ \\mathrm { c m }$ ）was increased slightly in 25 days of the experiment.（4）The content of soluble protein was higher with the value between $20 \\%$ and $40 \\%$ ,and the plants were growing well. The soluble protein showed a drop trend under drought or flooding stressconditions.So it can be seen that when the $P$ . arundinacea seedling was exposed to drought or other stress,it willtrigger the antioxidant enzyme system to protect the plant tissue,and the antioxidant enzyme defense system would work through aseries of antioxidant protection mechanism to increase plant stress resistance ability,reduce or eliminate the damages to the plants,but the long-term stress or the stress which beyond the plant's tolerance (the soil moisture content is less than $20 \\%$ or the soil moisture content is oversaturated）willdestroy the plant’s defense system in various degres thus affecting the plant's growth and development. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Key words:P.arundinacea ；antioxidase；Malondialdehyde；soluble protein；soil water content ",
+        "page_idx": 5
+    }
+]

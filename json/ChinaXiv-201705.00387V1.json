@@ -1,0 +1,441 @@
+[
+    {
+        "type": "text",
+        "text": "Effective side chain selection for enhanced open circuit voltage of polymer solar cells based on 2D-conjugated anthracene derivatives ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "L. Ai a b, X.H. Ouyang a, Q.D. Liu a, S.Y. Wang a, R.X. Peng a, A. Islam a, Z.Y Ge a' ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "NingboIstituteftealogg)cdfecs)asdb   \nPRChina   \nb University of Chinese Academy of Sciences,Beijing 10o049,PR China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLEINFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nSide chains   \nOpen circuit voltage   \n2D-anthracene-based polymers   \nPolymer solar cells   \nMolecular energy level   \nPower conversion efficiency ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Two novel conjugated donor-acceptor polymers were synthesized by combining anthracene donor and benzothiadiazole acceptor with two different side chains (conjugated and non-conjugated).Their absorption spectroscopy，thermogravimetric analysis,electrochemical cyclic voltammetry，theoretical prediction,surface morphology,and photovoltaic performance were investigated.The resultant twodimensional configuration showed good optical and electrochemical properties.By selectively introducing branched conjugated side chains and non-conjugated linear side chains on the polymer backbone,the highest occupied molecular orbital levels are low lying which results in an increased open circuit voltage for polymer solar cells.The open circuit voltage of $1 . 0 2 \\mathrm { ~ V ~ }$ in this work was among the highest value for anthracene-based polymer solar cells ever. Our results suggest a good way to regulate the molecular energy levels by selecting appropriate side chains. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Polymer solar cells (PSCs) have attracted much attention due to theirpotential as a competitive technology for green energywith the advantages of low cost,flexibility, light weight, transparency and large-area manufacturing compatibility[1-6].State-of-the-art solution-processed PSCs have achieved power conversion efficiency(PCEs) of $8 \\% - 1 0 \\%$ [7-11].Great efforts have been devoted to modulate the propertiesof the bulk heterojuntion(BHJ) layers in PSC devices in the past decades.Several molecular design strategies have been successfully used to modulate absorption spectra,band gaps,and molecular energy levels of the active-layer materials, resulting in significant improvements in the photovoltaic performance of PSC devices [12-16]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Much of the early progress in the field of organic photovoltaics focused on improving fill factor (FF) and short circuit current $( \\mathrm { J } _ { \\mathsf { S C } } )$ either by optimizing film morphology with structures such as the bulk and planar-mixed heterojunctions,or by developing suitable functional materials with increased absorption.As a result,PSCs with high Jsc over $1 7 \\ \\mathrm { m A } / \\mathrm { c m } ^ { 2 }$ and FF over $70 \\%$ were achieved [17-2O].In addition,the molecular energy levels of donor and acceptor materials can be modified by molecular design to increase the open circuit voltage $( \\mathsf { V } _ { 0 \\mathsf { C } } )$ and PCEs.One feasible approach is to introduce appropriately sized and shaped side chains appended to polymer back-bone,a feature which was recognized asa critical factor impacting the photovoltaic parameters of the corresponding PSCs as reported [12,21,22].By introducing different conjugated side chains onto the back-bone of 2D-based polymers,their molecular energy levels including the HOMO levels and the lowest unoccupied molecular orbital (LUMO）levels can be effectively tuned without changing their optical properties. Conjugated branched side chains have a positive influence in adjusting molecular energy levels but have adverse effects on the structural orderand solubility,so the non-conjugated side chains should be carefully selected.Severalstudieshavereported thatthe dodecylthienyl-basedpolymerscandeliverasignificantly improved $\\mathsf { V } _ { 0 \\mathsf { C } }$ but with a slightly reduced Jsc relative to the dodecylphenyl-based polymers.For instance，Lidzeyet al.[23] presented a photovoltaic polymer with relatively low $\\mathsf { V } _ { 0 \\mathsf { C } }$ (0.59V) byincorporating the 4-dodecyloxyphenyl group into the anthracene unit of the conjugated polymer,PPATBT(see Scheme 1a).After that,2-dodecylthienyl was also introduced in anthracene-based polymer back-bone and the similar linear dodecyloxy chains wereattached on 4,7-di(thiophen-2-yl)benzo[c][1,2,5]thiadiazole (DTBT) unit,an improved $\\mathsf { V } _ { 0 \\mathsf { C } }$ of 0.96Vwas obtained with slightly reduced $\\mathsf { J s c }$ in the PSCs based on PTA12OTBT(see Scheme 1a) [24]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/e22fe69c5b89ee4983357e7722ab5fd678c56600b067808f3379ee04f5a2ceed.jpg",
+        "img_caption": [
+            "Scheme1. (a)Molecular structureof tworeferencepolymersand target polymer; (b)Synthetic procedureof P1 and P2:(i) $\\mathsf { C u B r } _ { 2 }$ ,t-butyl-itrite,actoile, $6 5 ^ { \\circ } C ,$ 4 h; (i) n-BuLi, THF, $0 ^ { \\circ } \\mathsf C$ then $5 0 ^ { \\circ } \\mathsf C , 2 \\mathrm { h }$ ：2,6-dibromo-9,10-anthraquinone $^ { \\textrm { 1 h } }$ andthen $\\mathrm { S n C l } _ { 2 } { \\bullet 2 } \\mathrm { H } _ { 2 } 0$ .i $2 0 \\%$ HCl, $1 . 5 \\mathrm { h }$ ：(ii)bis(pinacolato)diboron, $\\mathrm { P d ( d p p f ) } _ { 2 } \\mathrm { C l } _ { 2 }$ ,KOAc,1,4-dioxane, $2 0 \\mathrm { h }$ ：(iv)2M ${ \\mathrm { K } } _ { 2 } { \\mathrm { C O } } _ { 3 }$ (aq.), $\\mathrm { P d } ( \\mathrm { P P h } _ { 3 } ) _ { 4 } ,$ toluene,Aliquat 336,95 $^ { \\circ } C$ $^ { 4 8 \\mathrm { ~ h ~ } }$ ：(v)2M ${ \\mathrm { K } } _ { 2 } { \\mathrm { C O } } _ { 3 } ( \\mathsf { a q } . )$ 一 $\\mathrm { P d } ( \\mathrm { P P h } _ { 3 } ) _ { 4 } ,$ toluene,Aliquat 336, 95 $^ { \\circ } C$ $2 4 \\mathrm { ~ h ~ }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In viewof this,the design and synthesis of novel anthracene-based polymers with suitable side chains are thought to be a crucial component for highly-efficient PSCs. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In an effort to tune the molecular structure to manipulate the desired high $\\mathsf { V } _ { 0 \\mathsf { C } }$ for bulk hetero-junction polymer solar cells,we design and synthesize two novel alternating conjugated polymers with 2-(2-ethylhexyl)-thienyl group attached on anthracene and linear alkyl chains on DTBT unit,named as P1 and P2.The synthetic routes of the monomers and polymers are outlined in Scheme 1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Experiment ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Materials ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All reagents and chemicals were purchased from commercial sources(Aldrich,Acros,TCI) and used without further purification unless stated otherwise.Tetrahydrofuran(THF)was dried over $\\mathsf { N a } \\mathrm { / }$ benzophenoneandfreshlydistilledpriortouse.2.6- dibromoanthracene-9,10-dione 2,4,7-bis(5-bromothiophen-2-yl) benzo[c][1,2,5]thiadiazole 5 and 4,7-bis(5-bromo-4- hexylthiophen-2-yl)benzo[c][1,2.5]thiadiazole 6 were prepared according to reported literature[25,26].Other solvents of analytical grade were purchased and used without further purification. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Characterization ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fourier transform-infrared(FTIR) spectra were performed using Thermo Nicolet 67Oo spectrophotometer. Nuclear magnetic resonance(NMR） spectra were measured on a Bruker DRX-400 spectrometer (in CDCl3,TMS as internal standard).UV-vis absorption spectra were recorded using a Perkin-Elmer Lambda ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "950. $^ 1 \\mathrm { H }$ NMR spectra were recorded on a Bruker DMX-400 spectrometer. Chemical shifts were calibrated against TMS as an internal standard.Molecular weight was measured by a Waters 1515 gel permeation chromatograph with a refractive index detector at room temperature (THF as the eluent),and polystyrene was used as a standard.Differential scanning calorimetry(DSC) curves were obtained with a Mettler Toledo DSC 822 instrument at $2 0 \\ ^ { \\circ } \\mathsf { C } \\ \\mathsf { m i n } ^ { - 1 }$ under a flow of nitrogen. Thermogravimetric analyses(TGA）were carried out usinga PerkineElmer Pyris thermogravimeter under a dry nitrogen gas flowat a heating rate of $1 0 ~ \\mathrm { ^ { \\circ } C } ~ \\mathrm { m i n ^ { - 1 } }$ 、Cyclic voltammetry of the polymer films were measured in acetonitrile with O.1 M of tetrabutylammoniumhexafluorophosphate $\\left( { \\tt B u } _ { 4 } { \\tt N P F } _ { 6 } \\right)$ using a scan rate of $1 0 0 \\mathrm { \\ m v } \\ s ^ { - 1 }$ at room temperature.Platinum disk, $\\mathsf { A g / A g C l }$ ，and platinum plate were used as the working electrode,reference electrode,and counter electrode,respectively.The polymer films forelectrochemical measurements were cast from a chloroform solution, ca. $5 \\mathrm { \\ m g \\ m L ^ { - 1 } }$ .Ferrocene was used as the internal standardin each measurementand itislocatedat $0 . 4 0 ~ \\mathrm { V }$ vs.the $\\mathsf { A g / A g C l }$ electrode.HOMO and LUMO energy levels were calculated according to the following equations: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathsf { E } _ { \\mathsf { H O M O } } ( \\mathsf { e V } ) = - \\mathsf { e } ( \\varphi _ { 0 \\mathrm { X } } + 4 . 4 0 )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathsf { E } _ { \\mathrm { L U M O } } ( \\mathsf { e V } ) = - \\mathsf { e } ( \\varphi _ { \\mathrm { r e } } + 4 . 4 0 )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E } _ { \\mathrm { g } } ^ { \\mathrm { e c } } ( \\mathrm { e V } ) = - \\mathsf { e } ( \\varphi _ { \\mathrm { o x } } - \\varphi _ { \\mathrm { r e } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\Phi _ { 0 \\mathbf { X } }$ is the onset oxidation potential vs $\\mathsf { A g / A g C l }$ and $\\varphi _ { \\mathrm { r e } }$ is the onset reduction potential vs $\\mathsf { A g / A g C l }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.Charge mobility ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Charge mobility was measured using the space charge limited current model (SCLC) [14,27]. Electron-only and hole-only devices were fabricated with a cell structure of ITO/Al/polymer: $\\mathrm { P C } _ { 7 1 } \\mathrm { B M } / \\mathrm { C a } /$ Al and ITO/PEDOT:PSS/polymer: $\\mathrm { P C } _ { 7 1 } \\mathrm { B M } / \\mathrm { A u }$ ，respectively.The mobility was determined by fitting the dark current to the model of a single carrier SCLC,which is described by the following equation: $\\mathrm { J } = ( \\bar { 9 } / 8 ) \\varepsilon _ { 0 } \\varepsilon _ { \\mathrm { r } } \\mu ( ( \\nabla ^ { 2 } ) / ( \\mathrm { d } ^ { 3 } ) )$ ,where Jis the current, $\\mu$ is the zero-field mobility, $\\scriptstyle { \\varepsilon _ { 0 } }$ is the permittivity of free space, $\\varepsilon _ { \\mathrm { r } }$ is the relative permittivity of the material,d is the thickness of the active layer, andVis the effectivevoltage.The effective voltage can be obtained by subtracting the built-in voltage $( \\mathsf { V } _ { \\mathsf { b i } } )$ and the voltage drop $( \\mathsf { V } _ { \\mathsf { s } } )$ from the substrate's series resistance from the applied voltage $( \\mathsf { V } _ { \\mathrm { a p p l } } ) , \\mathsf { V } = \\mathsf { V } _ { \\mathrm { a p p l } } - \\mathsf { V } _ { \\mathrm { b i } } - \\mathsf { V } _ { \\mathrm { s } } .$ The charge mobility can be calculated from the slope of the $\\boldsymbol { \\mathrm { J } } ^ { 1 / 2 } \\sim \\boldsymbol { \\mathrm { V } }$ curves. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4.Device fabrication ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "All devices were fabricated with the structure of ITO/PEDOT: PSS/polymer: $\\mathrm { P C _ { 7 1 } B M / C a / A l }$ .ITO/glass substrates were cleaned ultrasonically in detergent,water,acetone,and iso-propanol (IPA) sequentially,followed by treating in an ultraviolet ozone chamber (Ultraviolet Ozone Cleaner, Jelight Company,USA) for $2 0 ~ \\mathrm { { m i n } }$ The cleaned substrates were covered with a $4 0 \\mathrm { - n m }$ -thicklayerof PEDOT:PSS (Baytron PV PAI 4O83,Germany) by spin coating.After annealing in a glove box with argon at $1 5 0 ~ ^ { \\circ } \\mathrm { C }$ for $2 0 \\ \\mathrm { m i n }$ ，the samples were cooled to room temperature.Polymers and $\\mathsf { P C } _ { 7 1 } \\mathsf { B M }$ (purchased from American Dye Source） were dissolved in dichlorobenzene (DCB), and $3 \\%$ diiodooctane(DiO)was added. The solution was heated at $7 0 ~ ^ { \\circ } C$ and stirred overnight at the same temperature before use.The solution of polymer: $\\mathrm { P C } _ { 7 1 } \\mathrm { B M }$ was then spin-coated to form the active layer $\\left( \\sim 1 0 0 \\mathrm { n m } \\right)$ .Finally,two layersof $2 0 \\ \\mathrm { n m } \\ C \\mathrm { a }$ and $1 0 0 ~ \\mathrm { { n m } }$ Al were evaporated as a cathode through a shadow mask under high vacuum ( ${ < } 1 0 ^ { - 6 }$ Torr).The effective area of the device was measured to be $0 . 0 4 \\mathrm { c m } ^ { 2 }$ .The device characteristics were obtained using a xenon lamp at AM 1.5 solar illumination (Oriel Instruments).The current-voltage $\\left( \\mathsf { J } - \\mathsf { V } \\right)$ characteristics of the devices were measured out on a computer-controlled Keithley 2440 Source Measurement system.The EQE of the PSCs were measured using a Stanford Research Systems model SR83O DSP lock-in amplifier coupled with WDG3 monochromator and $5 0 0 \\mathrm { W }$ xenon lamp.The light intensityat each wavelength was calibrated with a standard single-crystal Si photovoltaic cell. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5.Synthesis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5.1.5,5'-(2,6-dibromoanthracene-9,10-diyl)bis(2-(2-ethylhexyl) thiophene) (3) ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2-(2-Ethylhexyl)thiophene $\\left( 8 . 6 \\ \\mathrm { g } , 4 4 . 0 \\ \\mathrm { m m o l } \\right) ,$ was dissolved in anhydrous THF( $\\mathrm { 1 0 0 ~ m L } )$ ）in a three-necked round-bottom flask under the nitrogen protection.The solution was cooled to $0 ^ { \\circ } \\mathsf C$ and a solution of n-BuLi ( $2 . 4 \\mathrm { M }$ in hexane,18.3 mL, $4 4 . 0 \\ : \\mathrm { m m o l }$ wasadded dropwise overa period of $3 0 \\mathrm { m i n }$ with stirring.After this addition, the reaction mixture was warmed to room temperature,stirred for $0 . 5 \\mathrm { ~ h ~ }$ and heated up to $5 0 ~ ^ { \\circ } C$ for another $^ { 2 \\mathrm { ~ h ~ } }$ .2,6-dibromo-9,10- anthraquinone $( 4 . 0 \\ \\mathrm { g } , 1 1 . 0 \\ \\mathrm { m m o l } )$ wasadded to the mixture and the temperature was kept at $5 0 ^ { \\circ } C$ foranother $1 . 5 \\mathrm { ~ h ~ }$ Then the reaction mixture was cooled to $0 ^ { \\circ } \\mathsf C .$ A solution of $\\mathrm { S n C l } _ { 2 } { \\cdot } 2 \\mathrm { H } _ { 2 } 0$ $2 2 . 4 \\mathrm { g } ,$ $9 9 . 0 \\ \\mathrm { m m o l } \\cdot$ inHCl( $1 0 \\%$ $5 0 ~ \\mathrm { m L }$ ）wasadded.After stirring for an additional $1 . 5 \\mathrm { h }$ ,thesolvent wasremoved under reduced pressure and the product was purified by column chromatography using hexane as the eluent and recrystallized from methanol to afford the pureproduct as light yellow needles $( 4 . 5 ~ \\mathrm { g } , 6 . 6 ~ \\mathrm { m m o l }$ ，yield $6 0 \\%$ ） FTIR(KBr, $\\mathsf { c m } ^ { - 1 }$ ）3064 (ar0matic C-H),2958,2925,2856 (alkyl ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "C-H),1504,1493,1459,1436 (ar0matic $\\mathsf { C } { = } \\mathsf { C }$ ） $^ 1 \\mathrm { H }$ NMR(CDCl3, 400 MHz, $\\delta / \\mathsf { p p m } \\mathrm { , }$ ): 8.06 (s,2H),7.78(d,2H, ${ \\sf J } = 9 . 3 5 { \\sf H z }$ ） $7 . 4 6 - 7 . 4 3$ （20 (m,2H),6.98 (dd,4H, ${ \\mathrm { J } } = 3 . 5 1 { \\mathrm { H z } }$ 0，2 $2 . 9 0 ( \\mathrm { t } , 4 \\mathrm { H } , \\mathrm { J } = 6 . 6 1 \\ : \\mathrm { H z }$ ),1.54-1.36 (m,18H),0.99-0.92 (m,12H).Anal.Calcd.for $\\mathrm { C } _ { 3 8 } \\mathrm { H } _ { 4 4 } \\mathrm { B r } _ { 2 } \\mathrm { S } _ { 2 }$ : C, 62.98; H,6.12;Br,22.05.F0und: C,62.69;H,6.30;Br, $2 2 . 0 4 \\%$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5.2. $^ { 2 , 2 ^ { \\prime } }$ -(9,10-bis(5-ethylhexylthiophen-2-yl)anthracene-2,6- diyl)-bis(4,4,5,5-tetramethyl-1,3,2-dioxaborolane) (4) ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A mixture of $_ { 5 , 5 \" }$ -(2,6-Dibromoanthracene-9,10-diyl)bis(2-(2- ethylhexyl)thiophene）（3）（ $_ { \\mathrm { ~ \\scriptsize ~ ( 0 . 6 ~ \\ g , } }$ ，2.77mmol)，bis(pinacolato) diboron ( $_ { . 2 . 8 1 \\ \\mathrm { g } }$ 11.08 mmol), $\\mathrm { C H } _ { 3 } \\mathrm { C O O K }$ 1 $\\left. 0 . 5 4 \\ \\mathrm { g } , 5 . 5 4 \\ \\mathrm { m m o l } \\right.$ ,and [1,1-bis(diphenylphosphino)ferrocene]dichloropalladium(II) （ $1 5 4 ~ \\mathrm { m g }$ ,0.15mmol) were dissolved in dioxane( ${ \\mathfrak { g o m L } }$ under nitrogen.The mixture was stirred for $4 8 \\mathrm { h }$ at $8 5 ^ { \\circ } C$ and allowed to cool down to room temperature.Dioxane was distilled off using a rotary evaporator.The crude product was dissolved in dichloromethane and washed with brine for3 times; the organic layer was dried over anhydrous sodium sulfate.The solvent was removed at a reduced pressure to give the crude product.The crude solid was purified by column chromatography on silica gel using ethyl acetate/ dichloromethane as an eluent (DCM/EA (2:1) $( \\boldsymbol { \\mathbf { v } } / \\boldsymbol { \\mathbf { v } } ) ;$ .Recrystallization product from ethyl acetate gave_light yellow powder. ( $_ { 1 . 3 5 ~ \\mathrm { g } }$ （2 1.66 mmol, yield $6 0 \\%$ ).FTIR(KBr, $\\mathsf { c m } ^ { - 1 }$ ) 3063 (aromatic C-H),2957, 2922,2854(alkyl $\\mathsf { C - H }$ ),1505,1490,1462,1440 (ar0matic $\\mathsf { C } { \\mathrm { = } } \\mathsf { C }$ ） $^ 1 \\mathrm { H }$ NMR (400 MHz, $\\mathsf { C D C l } _ { 3 }$ ，δ/ppm): 8.59 (s，2H)，8.03 (d，2H, ${ \\mathrm { J } } = 9 . 0 1 { \\mathrm { H z } } $ 7.83 $( \\mathrm { d } , 2 \\mathrm { H } , \\mathrm { J } = 8 . 8 4 \\ : \\mathrm { H z } )$ ,7.11 (dd,4H, ${ \\mathrm { J } } = 3 . 5 1 { \\mathrm { H z } }$ 0,3.05 $\\mathbf { \\varepsilon } - 2 . 9 9$ (m,4H), $1 . 8 5 - 1 . 3 8 \\$ (m,42H), $1 . 0 9 - 0 . 9 2 \\$ (m,12H). Anal. Calcd. for $\\mathrm { C _ { 5 0 } H _ { 6 8 } B _ { 2 } O _ { 4 } S _ { 2 } }$ : C, 73.34; H,8.37.Found: C,73.11;H, $8 . 4 2 \\%$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5.3.Preparationof polymer $( P 1 )$ ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ina 25 mL dry two-necked flask， $^ { 2 , 2 ^ { \\prime } }$ (9,10-bis(5- ethylhexylthiophen-2-yl)anthracene-2,6-diyl)-bis(4,4,5,5- tetramethyl-1,3,2-dioxaborolane）（4）( $1 9 9 . 5 ~ \\mathrm { { \\ m g } }$ ， $0 . 2 5 ~ \\mathrm { \\ m m o l }$ ） monomer 5 $( 2 0 6 . 5 ~ \\mathrm { m g } , 0 . 2 5 ~ \\mathrm { m m o l } )$ ）， $\\mathrm { P d } ( \\mathrm { P P h } _ { 3 } ) _ { 4 }$ 1 $( 5 ~ \\mathrm { m g } )$ and $\\mathsf { K } _ { 2 } \\mathsf { C O } _ { 3 }$ $( 2 \\mathrm { M } , 1 \\mathrm { m L }$ were dissolved in degassed toluene $( 5 \\mathrm { m L }$ ).Themixture was placed under an argon atmosphere,refluxed with vigorous stirring at $9 5 ^ { \\circ } \\mathsf { C }$ for $^ { 3 \\mathrm { h } }$ and then bromobenzene(1 mL) was added. After $^ { 1 2 \\mathrm { ~ h ~ } }$ ，phenylboronic acid( $\\mathrm { \\Delta } ^ { \\prime } 1 \\mathrm { \\ m L } , 2 \\mathrm { \\ m }$ in THF) was added and the reaction mixture was stirred for another $2 4 \\mathrm { h }$ .After cooling to room temperature,the mixture was dissolved in chloroform, washed withbrine for3 times and dried overanhydrous sodium sulfate. The solvent was concentrated to about $1 0 \\ \\mathrm { \\ m L }$ and the polymer precipitated in methanol and collected by filtration.Then the solid was washed in a Soxhlet extractor sequentially with MeOH,acetone and hexane.After that,the solid was Soxhletextracted with chloroform.The chloroform fraction was collected and concentrated under reduced pressure,and precipitated in methanol. The final product was collected by filtration and dried under vacuum at $4 0 ^ { \\circ } C$ overnight (yield $7 0 \\%$ ).FTIR(KBr, $\\mathsf { c m } ^ { - 1 }$ )3065 (aromatic C-H),2954,2920,2854 (alkyl C-H),1619 (aromatic $\\mathsf { C } =$ N),1504,1492,1455,1435(ar0matic $\\mathsf { C } { = } \\mathsf { C }$ ） $\\mathrm { ^ 1 H }$ NMR(400 MHz, $\\mathsf { C D C l } _ { 3 }$ $\\delta / \\mathsf { p p m } \\bar { }$ ): 8.19-7.51 (br,10H), $7 . 1 3 - 6 . 9 4 \\$ (br,4H),2.97 - 2.89 (br,3H), $2 . 8 4 - 2 . 7 3 \\$ (br, 3H), $1 . 8 1 - 0 . 7 8$ (br,28H). Anal. Calcd.for $( C _ { 6 4 } \\mathrm { H } _ { 7 6 } \\mathrm { N } _ { 2 } \\mathrm { S } _ { 5 } ) _ { \\mathrm { n } }$ :C,74.37;H,7.41;N,2.71.F0und:C,74.55;H,7.22；N, $2 . 8 6 \\%$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5.4. P2 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ina $2 5 ~ \\mathrm { m L }$ dry two-necked flask,a mixture of 2,2'-(9,10-bis(5- ethylhexylthiophen-2-yl)anthracene-2,6-diyl)-bis(4,4,5,5-tetramethyl-1,3,2-dioxaborolane)(4) $( 1 9 9 . 5 ~ \\mathrm { m g } , 0 . 2 5 ~ \\mathrm { m m o l } )$ ,monomer 6 $( 2 0 6 . 5 ~ \\mathrm { m g } , 0 . 2 5 ~ \\mathrm { m m o l } )$ and $\\mathrm { P d } ( \\mathrm { P P h } _ { 3 } ) _ { 4 }$ (5 mg) were dissolved in a mixture of degassed toluene $( 5 ~ \\mathrm { m L }$ ）and an aqueous solution of ${ \\mathrm { K } } _ { 2 } { \\mathrm { C O } } _ { 3 }$ (2M,1 mL). The mixture was placed under an argon atmosphere,refluxed with vigorous stirring at $9 5 ~ ^ { \\circ } C$ for $^ { 4 \\mathrm { ~ h ~ } }$ and then bromobenzene ( $\\mathrm { 1 ~ m L }$ wasadded.After $^ { 1 2 \\mathrm { ~ h ~ } }$ ，phenylboronicacid (1 mL,2 M in THF) was added and the mixture was stirred for another $^ { 1 2 \\mathrm { ~ h ~ } }$ .After cooling to room temperature,the mixture was dissolved in chloroform,washed with brine for3 times and dried overanhydrous sodium sulfate.The solvent was concentrated to about $1 0 ~ \\mathrm { \\ m L }$ and the polymer precipitated in methanol and collected by filtration.Then the resulting solid was washed in a Soxhlet extractor sequentially with MeOH,acetone and hexane. After that,the polymer was Soxhlet-extracted with chloroform.The chloroform fraction was collected,concentrated under reduced pressure,and precipitated in methanol.The final product was collected by filtration and dried under vacuum at $4 0 ^ { \\circ } C$ overnight (yield $8 0 \\%$ ).FTIR(KBr, $\\mathsf { c m } ^ { - 1 }$ ）3064 (ar0matic C-H),2958,2925, 2856 (alkyl C-H),1606 (aromatic $\\mathsf { C } \\mathrm { = } \\mathsf { N }$ )，1510,1490,1465，1439 (aromatic $\\mathsf { C } { = } \\mathsf { C } ,$ 二： $^ 1 \\mathrm { H }$ NMR( ${ \\bf \\dot { 4 0 0 M H z } }$ $\\mathrm { C D C l } _ { 3 }$ = $\\delta / \\ p \\mathrm { p m } \\dot { }$ ):8.19-7.51(br, 8H), $7 . 1 3 \\textrm { - } 6 . 9 4$ (br,4H), $2 . 9 7 - 2 . 8 9$ (br,3H), $2 . 8 4 - 2 . 7 3 \\$ (br,3H), $1 . 8 1 - 0 . 7 8$ (br,54H).Anal. Calcd. for $( C _ { 5 2 } \\mathrm { H } _ { 5 2 } \\mathrm { N } _ { 2 } \\mathrm { S } _ { 5 } ) _ { \\mathrm { n } }$ : C, 72.18; H, 6.06;N,3.24. Found:C, 72.22;H, 5.98;N, $3 . 4 3 \\%$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/d8baf42eddddce6be36b444b8a0063bc0667ab541acabf3e5dafd6a1c333925e.jpg",
+        "table_caption": [
+            "Table 1 Molecular weights and thermal properties of P1 and P2. "
+        ],
+        "table_footnote": [
+            "a $\\mathbf { M } _ { \\mathrm { n } }$ $\\mathrm { M } _ { \\mathrm { w } }$ and PDI of polymers were determined by GPC using polystyrenes as standards with chloroform as eluent. b The temperature of $5 \\%$ weight loss under nitrogen. "
+        ],
+        "table_body": "<html><body><table><tr><td>Polymer</td><td>Mn (Da)a</td><td>Mn (Da)a</td><td>PDIa</td><td>Td(°C)b</td></tr><tr><td>P1</td><td>5800</td><td>7900</td><td>1.36</td><td>340</td></tr><tr><td>P2</td><td>15,000</td><td>23.900</td><td>1.59</td><td>406</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.Synthesis and thermal stability ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A key intermediate for the synthesis of the polymers was the bis-boronate ester monomer 4,which was obtained in high yield from 2,6-dibromo-9,10-bis(4-(ethylhexyl)thiophene)anthracene upon reaction with bis(pinacolato)diboron in the presence of a palladium catalyst.Suzuki coupling reactions between monomer 4 and dibromides 5 or 6 afforded polymers P1 and P2.The chloroform fraction of P1 with Mn of 58oo Da and an Mw of 7900 Da is able to be processed into films in BHJ devices.The analogous polymer P2 with linear alkyl substituents on the thiophene-bridgedunitshad $\\begin{array} { r l r } { \\mathrm { M n } } & { { } = } & { 1 5 , 0 0 0 } \\end{array}$ Daand $\\mathsf { M w } = 2 3 , 9 0 0$ Da in its chloroform fraction (Table 1).The thermogravimetric analysis(TGA) curves are shown in Fig.1c. The results found that the polymers exhibit good thermal stability with $5 \\%$ weight-loss temperature $\\mathrm { ( T _ { d } ) }$ value of $3 4 0 ^ { \\circ } \\mathsf C$ and $4 0 6 ^ { \\circ } C$ for P1and P2,respectively.Thermal properties of the copolymers were determined by differential scanning calorimetry (DSC).As shown in Fig. S1 (Supporting information), DSC analysis of all the polymers demonstrated no apparent thermal transition up to $2 7 5 ^ { \\circ } \\mathsf C .$ This indicated that all polymers possessed the amorphous nature. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.Absorption spectra ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Absorption spectra of the polymers in chloroformand solid thin films are shown in Fig.1 and the values of the absorption maxima are illustrated in Table 2.In solution,the polymers P1 and P2 exhibit the short-wavelength absorption at $3 5 1 ~ \\mathrm { { n m } }$ which originates from the ${ \\pi } { - } { \\pi } ^ { * }$ transition of the conjugated backbones,whereas the long-wavelength absorption peak at $5 2 6 \\mathrm { n m }$ for P1 and $5 1 1 ~ \\mathrm { { n m } }$ for P2are attributed to the internal charge transfer interaction from the donor to the acceptor units.As shown in the film (Fig.1), the absorption bands of P1 are broad and red-shifted to $5 3 1 \\mathrm { n m }$ which can be attributed to stronger interchain packing in the ordered structure of P1 in the solid film.Notably,P2also showed red-shift absorption maxima in the thin film as compared to those in chloroform solution,which can be ascribed to the weak interaction of polymerchains in the solid state,caused by the large dihedral angle of $8 0 . 9 ^ { \\circ }$ between the anthracene moiety and the thiophene rings at the 9,10-positions [28].The onsets absorption spectra of the films are $6 3 3 \\mathrm { n m }$ for P1 and $6 4 4 \\mathrm { n m }$ for P2,corresponding to optical band gaps $( \\mathrm { E _ { g } ^ { o p t } } )$ of 1.95 and $1 . 9 2 \\ \\mathrm { e V }$ ,individually. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/521ef3ab78affd5aef9c549230cb0ee778bb0a232c18c4b878911c7b30aab22f.jpg",
+        "img_caption": [
+            "Fig.1.TheUVVsbotiospeofadn()oofosouiod)sif;(Acusfditatingatef $1 0 \\ ^ { \\circ } { \\mathsf { C } } \\operatorname* { m i n } ^ { - 1 }$ under a $\\mathsf { N } _ { 2 }$ atmosphere;(d) Cyclic voltammetry curve of P1 and P2 films. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d65912f3835ef8857f307454f8ee425b1971a86ddfde8c136c8ecd4b48d86a9c.jpg",
+        "table_caption": [
+            "Table 2 Optical and electrochemical properties of the polymers. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">Polymer</td><td colspan=\"5\">UV-Vis absorption</td><td rowspan=\"2\" colspan=\"2\">Cyclic voltammetry</td></tr><tr><td colspan=\"2\">Solution</td><td colspan=\"2\">Film</td></tr><tr><td>λmax(nm)</td><td>λoneset(nm)</td><td>λmax(nm)</td><td>λoneset(nm)</td><td>Band gap</td><td>HOMO(eV)</td><td>LUMO(eV)</td></tr><tr><td>P1</td><td>351,526</td><td>594</td><td>354,531</td><td>633</td><td>1.95</td><td>−5.12</td><td>-3.50</td></tr><tr><td>P2</td><td>351,511</td><td>632</td><td>359,535</td><td>644</td><td>1.93</td><td>-5.57</td><td>-3.60</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.Electronic energy levels and theoretical calculations ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Cyclic voltammetry (CV）was performed to determine the HOMO and LUMO levels of the polymers.The oxidation onsets of P1 andP2 filmsmeasured bycyclicvoltammetry(CV) were $0 . 7 2 \\mathrm { V }$ and $1 . 1 7 \\mathrm { V } ,$ ,respectively.The CV curves are shown in Fig.1d.According to the equation $\\mathrm { E } _ { \\mathrm { H O M O } } = - \\mathbf { e }$ 1 $\\mathrm { \\Delta E _ { 0 x } } + 4 . 4 0 )$ (eV),the EHoMo levels were calculated to be $- 5 . 1 2 \\ \\mathrm { e V }$ for P1 and $- 5 . 5 7 \\ \\mathrm { e V }$ for P2. Since $\\mathsf { V } _ { 0 \\mathsf { C } }$ is determined by the difference of LUMO energy level of acceptor and HOMO energy level of the donor, the lower HOMO energy levels of P1 and P2 are beneficial to the high $\\mathsf { V } _ { 0 \\mathsf { C } }$ of the photovoltaic devices. Toprovide further insight into the fundamentals of molecular architecture,molecular simulation was carried out forP1 and P2,with a chainlength of $\\mathbf { n } = 1$ at the DFT B3LYP/6-31G(d) level with the Gaussian O9 program package.As depicted in Scheme 2a,the ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9235b1bdd1f5b1f274297bb5e1f20efef8cc09835271936cdb77d405010e3e83.jpg",
+        "img_caption": [
+            "Scheme 2.(a) Calculated HOMOs and LUMOs of P1 and P2 using the DFT method at the B3LYP-6-31 $\\mathbf { g }$ (d) level.(b) Energy levels of different components in a photovoltaic device. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "LUMOs of the donor-acceptor copolymers are well distributed along the conjugated chains,while their HOMOs are localized on the DTBT acceptor unit,suggesting effective delocalization of the HOMO band and p-type behavior. Although the HOMO and LUMO isosurface configurations ofP1 were quite similar to those of P2, the backbone of P2 was markedly distorted compared to P1. Such steric hindrance by the alkyl side chains inP2 twisted the structure of the conjugated backbone,which is attributed to the interrupted internal charge transfer (ICT).However,for P2,both the HOMO and LUMO energy level are decreased.The electronic energy level diagrams of the donor and acceptor materials are shown in Scheme 2b. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4.Photovoltaic performance and electron mobility ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "PSCs were fabricated and characterized to investigate the photovoltaic properties of the polymers.The device structure used in this Work is ITO/PEDOT:PSS/polymer: $\\mathrm { P C } _ { 7 1 } \\mathrm { B M } / \\mathrm { C a } / \\mathrm { A l }$ .After the device optimization,solar cells were fabricated with blends of polymers and $\\mathsf { P C } _ { 7 1 } \\mathsf { B M }$ .Solar cells fabricated ina weight ratio of1:3 in dichlorobenzene（DCB） solution gave the best performance.A PCE of $1 . 1 2 \\%$ with $\\mathsf { V } _ { 0 \\mathsf { C } }$ of $0 . 8 2 ~ \\mathrm { V } ,$ a Jsc of $4 . 2 4 ~ \\mathrm { m A } / \\mathrm { c m } ^ { 2 }$ ,and a FF of $3 0 . 0 \\%$ was obtained for P1: $\\mathrm { P C } _ { 7 1 } \\mathrm { B M }$ under 1 sun of simulated AM $1 . 5 \\mathsf { G }$ solar radiation ( $1 0 0 \\mathrm { m W } \\mathrm { c m } ^ { - 2 } ,$ ),whileP2exhibitedarelatively higher PCE of $1 . 9 4 \\%$ with a $\\mathsf { V } _ { 0 \\mathsf { C } }$ of $0 . 8 6 \\mathrm { V }$ aJsc of $6 . 2 9 \\mathrm { m A } / \\mathrm { c m } ^ { 2 }$ and a FF of $3 5 . 9 \\%$ The $\\mathsf { J } { - } \\mathsf { V }$ curves of PSCs are shown in Fig.2a,and the device performances are summarized in Table 3. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To further improve the photovoltaic performance of the device, we tried to employa variety of polar solvents,including methanol, ethanol,and propanol,to optimize the performance of PSCs. Inspired by recent work on post-solvent treatment,[29-33].We modified the literature procedure as follows:(i) spin-coated the active layer and dried under vacuum;(ii) ethanol (or other polar solvents) was added dropwise on top of the active layer and a short wet time (such as $4 5 \\ s \\cdot$ ）was required;(ii）polar solvent was removed by spin coating at high speed (such as $2 5 0 0 ~ \\mathrm { r p m } ,$ ； (iv) dried under vacuum and annealed at $1 0 0 ~ ^ { \\circ } \\mathsf { C }$ for $1 0 \\ \\mathrm { m i n }$ .From Table 3 and Fig. 2b，P2 was treated with different solvents. Remarkably,after the solvent exposure,the performance of P2- based PSCs was enhanced.The most optimized solvent was ethanol and the PCE values changed from $1 . 6 1 \\% ~ \\pm ~ 0 . 1 \\%$ $3 . 4 3 \\% ~ \\pm ~ 0 . 2 \\%$ ，witha largely increased $\\mathsf { V } _ { \\mathrm { O C } }$ ranging from $0 . 8 6 \\pm 0 . 0 2 \\mathrm { ~ V ~ }$ to $1 . 0 2 \\pm 0 . 0 1 \\mathrm { ~ V } ,$ 、andFF from $3 5 . 9 \\%$ to $4 6 . 6 \\%$ The reduced HOMO level of the donor polymer resulted in a higher $\\mathsf { V } _ { 0 \\mathsf { C } }$ However, polar solvent treatment on the P1: $\\mathrm { P C } _ { 7 1 } \\mathrm { B M }$ blend film did notshow large enhancement,probably because of its non-uniform film formation and poor solubility of the DTBT unit.The effect of wetting time was investigated,and the resultsare plotted in Fig.2c. In P2-based cells,the carrier mobilityallowed improvement relative to P1-based cells.The electron and hole mobility were studied across the film by applying single-carrier space charge limited conduction(SCLC） method,giving electron mobility values of 3. $6 2 \\times 1 0 ^ { - 7 }$ and $4 . 7 \\dot { 8 } \\times 1 0 ^ { - 7 } \\mathrm { c m } ^ { 2 } \\mathrm { V } ^ { - \\top } \\mathrm { S } ^ { - 1 } ,$ and hole mobility values of $6 . 9 9 \\times 1 0 ^ { - 8 }$ and $2 . 2 7 \\times 1 0 ^ { - 7 } \\mathrm { c m } ^ { 2 } \\mathrm { V } ^ { - 1 } \\mathrm { S } ^ { - 1 }$ for P1 and P2,individually. $( \\boldsymbol { \\mathrm { J } } ^ { 1 / 2 } { \\sim } \\boldsymbol { \\mathrm { V } }$ curves were shown in Fig.2d) The slightly different carrier mobility of the two copolymers demonstrates that introduction of long or branched chains such as hexyl and 2-ethyhexyl on the molecular back-bone hasan impact on their carrier mobility.This is probably due to their different packing and ordering structure. Additionally,the electron mobility of P2 isvery close to the hole mobility,which indicatesa good balance of carriers in the blend film and it could help to explain the improved device performance. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6b38d07397d059f4f6c6108e0f5743ddbeb8c46cca6038a753456b176e895ad9.jpg",
+        "img_caption": [
+            "Fig. 2. (a) $\\boldsymbol { \\mathrm { J } } { - } \\boldsymbol { \\mathrm { V } }$ characteristics of the devices with the configuration of ITO/PEDOT:PSS/Polymer: $\\mathrm { P C } _ { 7 1 } \\mathrm { B M } / \\mathrm { C a } / \\mathrm { A l }$ under the illumination of AM 1.5G, $1 0 0 \\mathrm { \\ m W \\ c m ^ { - 2 } }$ (b)Current density-voltage (J-V) curvesof the PSCs based on $\\mathrm { P } 2 / \\mathrm { P C } _ { 7 1 } \\mathrm { B M }$ (1:3,w/w) with solvent exp e.(c)Wetting time dependence of PSCs performance of I $\\boldsymbol { \\mathrm { \\Sigma } } ^ { } 2 . ( \\mathbf { d } ) \\boldsymbol { \\mathrm { J } } ^ { 1 / 2 }$ \\~V characteristics of electron-only (ITO/Al/Polymer: $\\mathrm { P C } _ { 7 1 } \\mathrm { B M } / \\mathrm { C a } / \\mathrm { A l } )$ .The inset depicts the hole-only (ITO/PEDOT: PSS/Polymer: $\\mathrm { P C } _ { 7 1 } \\mathrm { B M } / \\mathrm { A u } )$ devices. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.5.Morphologiesof the activelayer ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Besides the above-mentioned parameters such as thermal stability,absorption,and energy levels,the morphologyof the photoactive layer playsa key role in the photovoltaic performance of PSCs.We directly examined the surface morphology with or without polar solvent exposure via tapping-mode atomic force microscopy(AFM).The AFM topography imagesare shown in Fig.3. In the P2: $\\mathsf { P C } _ { 7 1 } \\mathsf { B M }$ blends,it could be observed that the blend film without solvent exposure exhibited relatively course phase separation between the polymer and $\\mathrm { P C } _ { 7 1 } \\mathrm { B M }$ witha root-mean-square (RMS) surface roughness of $0 . 4 7 ~ \\mathrm { { n m } }$ (see Fig.3a). Globular clusters were formed on the surface by methanol treatment.It could be attributed to the $\\mathsf { P C } _ { 7 1 } \\mathsf { B M }$ domains,in which $\\mathsf { P C } _ { 7 1 } \\mathsf { B M }$ crystallized before the polymer solidified. The propanol-treated device(with roughness $0 . 8 4 ~ \\mathrm { { n m } }$ ）and ethanol-treated device(with roughness $0 . 3 8 ~ \\mathrm { n m } ^ { \\cdot }$ )formed fiber-like interpenetrating morphologies.Tens of seconds of polar solvent treatment did not provide an adequate driving force for reconstructing the morphologies of the polymer films,possibly because polymers are relatively bulky as compared to the small molecules [34].However,as some of the polar solvent molecules penetrated the active layer, $\\mathsf { P C } _ { 7 1 } \\mathsf { B M }$ particles could be redistributed to reduce the contact areas with the polar solvents, and after appropriate wetting time, $\\mathsf { P C } _ { 7 1 } \\mathsf { B M }$ particles aggregated to the tens-of-nanometers length domains,thus,forming nanoscale phase separation of the blend films (see Fig.3a,d,e and f).This relatively smooth surface and more ordered structure are beneficial to the charge transport,thus leading to an increase in $\\ J _ { S C }$ and $\\mathsf { V } _ { 0 \\mathsf { C } } ,$ as well as the device efficiency. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/3abd7455808dd1cf725f5460db186e88a990c190f17104227455582d3a7b4b74.jpg",
+        "table_caption": [
+            "Table 3 Performance of the polymer: $\\mathrm { P C } _ { 7 1 } \\mathrm { B M }$ BHJ solar cells before and after various polar solvent treatments with a wetting time of $4 5 \\ s ,$ at a blend ratio of 1:3 under the illumination with AM 1.5G, $1 0 0 \\mathrm { \\ m W \\ c m ^ { - 2 } }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Solvent treatment</td><td>Jsc [mA cm-²]</td><td>Voc [V]</td><td>FF [%]</td><td>PCE [%]</td></tr><tr><td>P1</td><td></td><td></td><td></td><td></td></tr><tr><td>None</td><td>4.24 ± 0.2</td><td>0.82 ± 0.02</td><td>30.0 ± 0.3</td><td>1.12 ± 0.2</td></tr><tr><td>Propanol</td><td>3.82 ± 0.4</td><td>0.84 ± 0.03</td><td>28.5 ± 0.5</td><td>0.90 ± 0.3</td></tr><tr><td>Methanol</td><td>5.00 ± 0.4</td><td>0.82 ± 0.02</td><td>30.5 ± 0.5</td><td>1.23 ± 0.2</td></tr><tr><td>Ethanol</td><td>5.64 ± 0.3</td><td>0.86 ± 0.02</td><td>32.2 ± 0.3</td><td>1.51 ± 0.4</td></tr><tr><td>P2</td><td></td><td></td><td></td><td></td></tr><tr><td>None</td><td>6.29 ± 0.3</td><td>0.86 ± 0.02</td><td>35.9 ± 0.2</td><td>1.94 ± 0.2</td></tr><tr><td>Propanol</td><td>5.64 ± 0.2</td><td>0.87 ± 0.02</td><td>32.7 ± 0.5</td><td>1.61 ± 0.1</td></tr><tr><td>Methanol</td><td>6.08 ± 0.2</td><td>0.97 ± 0.02</td><td>34.7 ± 0.2</td><td>2.05 ± 0.2</td></tr><tr><td>Ethanol</td><td>7.23 ± 0.1</td><td>1.02 ± 0.01</td><td>46.6 ± 0.3</td><td>3.43 ± 0.2</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.Conclusions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In summary,two 2,6-substituted anthracene-based polymers consistof anthracene and DTBTunits as building blocks in the main chain were synthesized by Suzuki coupling polymerization. The resulting two-dimensional polymersrevealed good absorptionand thermal stability.By directlyattaching branched alkylthienyl side chains instead of linear alkyl-conjugated side chains on the anthracene unit,the molecular energy levels were effectively tuned with deeper HOMO levels of $5 . 1 2 \\mathrm { e V }$ and attainable $\\mathsf { V } _ { 0 \\mathsf { C } }$ of $0 . 8 2 \\ \\mathrm { e V }$ forP1.The nonconjugated hexyl side chains were introduced in the DTBT back-bones to improve the solubility of the polymer and film formation of the active layer.Asa result,an enhanced $\\mathsf { V } _ { 0 \\mathsf { C } }$ of $1 . 0 2 \\mathrm { e V }$ from the anthracene and DTBT copolymers (anthracene-based polymer）was obtained by introducing branched alkylthienyl chains inanthracene unit and linearalkyl chains in DTBT without sacrificing the $\\mathsf { J s c }$ of the original backbone.To the best of our knowledge,a $\\mathsf { V } _ { 0 \\mathsf { C } }$ of $1 . 0 2 \\mathrm { ~ V ~ }$ is one of the highest values for two dimensional anthracene-based polymers solar cells.Overall,this work demonstrates a good way to regulate the photovoltaic propertiesby effective selection of the side chains. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/bf0ff7fd6310f717af21b95c2a61b035068185741f5bf10dc228e5691d7dbbae.jpg",
+        "img_caption": [
+            "Fig.3.Tapping-mode atomic force microscopy (AFM)topography image of the blend fim of $\\mathrm { P } 2 / \\mathrm { P C } _ { 7 1 } \\mathrm { B M }$ (1:4,w/w); (a) without solvent treatment, (b)with methanol treatment, (c) wi sizes are $2 . 0 ~ { \\mu \\mathrm { m } } \\times 2 . 0 ~ { \\mu \\mathrm { m } } .$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The present research was financially supported by the National Natural Science Foundation （No.21074144，No．51273209，No. 21102156)，CAS External Cooperation Program(GJHZ1219）and Projects from Ningbo Science and Technology Bureau (2012B10022, 2012D10009,2013D10013,2013A610032 and 2013A610015). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Appendix A.Supplementarydata ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Supplementary data related to this article can be found at http:// dx.doi.org/10.1016/j.dyepig.2014.12.010. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] Krebs FC. Fabrication and processing of polymer solar cells: a review of printing and coating techniques. Sol Energy Mater Sol Cells 2009;93:394-412.   \n[2]Li G, Zhu R, Yang Y. Polymer solar cells. Nat Photonics 2012;6:153-61.   \n[3]Guenes S,Neugebauer H, Sariciftci NS. Conjugated polymer-based organic solar cells. Chem Rev 2007;107:1324-38.   \n[4] Jφrgensen M, Norrman K, Gevorgyan SA, Tromholt T, Andreasen B, Krebs FC. Stability of polymer solar cells. Adv Mater 2012;24:580-612.   \n[5] Lin YZ, Li YF, Zhan XW. Small molecule semiconductors for high-eficiency organic photovoltaics. Chem Soc Rev 2012;41:4245-72.   \n[6] Chen JW, Cao Y. Development of novel conjugated donor polymers for high efficiency bulk heterojunction photovoltaic devices. Acc Chem Res 2009;42: 1709-18.   \n[7] He ZC, Zhong CM, Su SJ, Xu M,Wu HB, Cao Y. Enhanced power-conversion efficiency in polymer solar cells using an inverted device structure. Nat Phot 2012;6:591-5.   \n[8] Chen HY,Hou JH, Zhang SQ, Liang YY, Yang GW, Yang Y, et al. Polymer solar cells with enhanced open-circuit voltage and efficiency. Nat Photonics 2009;3: 649-53.   \n[9] Guo X, Zhang MJ,Ma W, Ye L, Zhang SQ, Liu SJ, et al. Enhanced photovoltaic performance by modulating surface composition in bulk heterojunction polymer solar cells based on PBDTTT-C-T/PC7iBM. Adv Mater 2014;26: 4043-9.   \n[10] Nguyen TL, Choi H, Ko SJ, Uddin MA,Walker B, Yum S,et al. Semi-crystalline photovoltaic polymers with efficiency exceeding $9 \\%$ ina ${ \\sim } 3 0 0 ~ \\mathrm { n m }$ thick conventional single-cell device. Energy Environ Sci 2014;7:3040-51.   \n[11] Ye L, Zhang SQ, Zhao WC, Yao HF,Hou JH. Highly efficient 2D-conjugated benzodithiophene-based photovoltaic polymer with linear alkylthio side chain. Chem Mater 2014;26:3603-5.   \n[12] Li YF. Molecular design of photovoltaic materials for polymer solar cells: toWard suitable electronic energy levels and broad absorption. Acc Chem Res 2012;45:723-33.   \n[13] Dou LT, Chen CC, Yoshimura K, Ohya K, Chang WH, Cao J, et al. Synthesis of 5H-dithieno [3,2-b:2',3'-d] pyran as an electron-rich building block for donor-acceptor type low-band gap polymers. Macromolecules 2013;46: 3384-90.   \n[14] Liu SJ, Zhang K, Lu JM, Zhang J, Yip HL, Huang F,et al. High-efficiency polymer solar cells via the incorporation of an amino-functionalized conjugated metallopolymer as a cathode interlayer. JAm Chem Soc 2013;135:15326-9.   \n[15] Zhang MJ, Gu Y, Guo X, Liu F, Zhang SQ, Huo LJ, et al. Efficient polymer solar cells based on benzothiadiazole and alkylphenyl substituted benzodithiophene with a power conversion efficiency over $8 \\%$ ，Adv Mater 2013;25: 4944-9.   \n[16] Liao SH, Jhuo HJ, Cheng YS, Chen SA. Fellerene derivative-doped zinc oxide nanofilm as the_cathode of inverted polymer solar cells with low-band gap polymer (PTB7-Th) for high performance. Adv Mater 2013;25:4766-71.   \n[17] Li WW, Hendriks KH, Roelolf WSC, Kim YH,Wienk MM, Janssen RAJ. Efficient small band gap polymer solar cells with high fill factors for ${ 3 0 0 } \\mathrm { n m }$ thick films. Adv Mater 2013;25:3182-6.   \n[18] Zheng QD,Jung BJ, Sun J, Katz HE. Ladder- type oligo-p-phenylene-containing copolymers with high open circuit voltages and ambient photovoltaic activity. J Am Chem Soc 2010;132:5394-404.   \n[19] Vandewal K, Tvingstedt K, Gadisa A, Inganas O, Manca JV. On the origin of the open- circuit voltage of polymer - fullerene solar cells. Nature 2oo9;8:904-9.   \n[20] Gadisa A,Mammo W, Andersson LM, Admassie S, Zhang F, Andersson MR, et al.A new donor-acceptor-donor polyfluorene copolymer with balanced electron and hole mobility. Adv Funct Mater 2007;17:3836-42.   \n[21] Ye L, Zhang SQ, Huo LJ, Zhang MJ, Hou JH. Molecular desigh toward highly efficient photovoltaic polymers based on two-dimensional conjugated benzodithiophene. Acc Chem Res 2014;47:1595-603.   \n[22] Kuo CY, Nie WY,Tsai H, Yen HJ, Mohite AD, Gupta G, et al. Structural design of benzo [1，2-b:4,5-b'] dithiophene-based 2D conjugated polymers with bithienyl and terthienyl substituents toward photovoltaic applications. Macromolecules 2014;47:1008-20.   \n[23] Almeataq MS,Yi HN,Faifi SA,Alghamdi ABB, Iraqi A, Scarratt NW,et al. Anthracene-based donor-acceptor low band gap polymers for application in solar cells. Chem Commun 2013;49:2252-4.   \n[24] Liu CC, Cai WZ, Guan X, Duan CH, Xue QF, Ying L, et al. Synthesis of donoracceptor copolymers based on anthracene derivatives for polymer solar cells. Polym Chem 2013;4:3949-58.   \n[25] Zhang HC, Guo EQ, Zhang YL, Ren PH, Yang WJ. Donor-acceptor-substituted anthracene-centered cruciforms: synthesis,enhanced two-Photon absorptions，and spatially separated frontier molecular orbitals. Chem Mater 2009;21:5125-35.   \n[26] Wang EG,Wang M,Wang L, Duan CH, Zhang J, Cai WZ, et al. Donor polymers containing benzothiadiazole and four thiophene rings in their repeating units with improved photovoltaic performance. Macromolecules 20o9;42:4410-5.   \n[27] Wang Y, Yang F,Liu Y,Peng RX, Chen SJ, Ge ZY. New alkylfuranyl-substituted benzo [1, 2-b: 4, 5-b'] dithiophene-based donor-acceptor polymers for highly efficient solar cells. Macromolecules 2013;46:1368-75.   \n[28] Teng C,Yang XC,Yang C,Li SF, Cheng M, Hagfeldt A, et al. Molecular design of anthracene-bridged metal-free organic dyes for efficient dye-sensitized solar cells.JPhy Chem C 2010;114:9101-10.   \n[29] Liu XF,Wen W，Bazan GC. Post-deposition treatment of an arylatedcarbazole conjugatedpolymer for solar cell fabrication. Adv Mater 2012;24:4505-10.   \n[30] Zhou H, Zhang Y, Seifter J, Collins SD, Luo C, Bazan GC, et al. High-efficiency polymer solar cells enhanced by solvent treatment. Adv Mater 2013;25: 1646-52.   \n[31] Wang Y, Liu Y, Chen SJ, Peng RX, Ge ZY. Significant enhancement of polymer solarcell performance via side-chain engineering and simple solvent treatment. Chem Mater 2013;25:3196-204.   \n[32] Yao EP,Chen CC,Gao J, Liu YS,Chen Q, Cai M,et al. The study of solvent additive effects in efficient polymer photovoltaics via impedance spectroscopy. Sol Energy Mater Sol Cells 2014;130:20-6.   \n[33] Yeh PN, Liao SH, Li YL, Syue HR, Chen SA.Large active area inverted tandem polymer solar cell with high performance via alcohol treatment on the surface of bottom active layer P3HT: ICBA.Sol Energy Mater Sol Cells 2014;128: 240-7.   \n[34] Nam S, Chung DS, Jang J, Kim SH, Yang C,Kwon SK,et al. Effects of poor solvent for solution-processing passivation of organic field effect transistors. JElectrochem Soc 2010;157:H90-3. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

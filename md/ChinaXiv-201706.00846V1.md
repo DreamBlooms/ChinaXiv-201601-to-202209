@@ -1,0 +1,241 @@
+# DOI: 10.5846/stxb201606161172
+
+博文静,王莉雁,操建华,王效科,肖燚,欧阳志云.中国森林生态资产价值评估.生态学报,2017,37(12):4182-4190. BoWJ,WangJagXK,ugZVatioia'solcaesirestaEolcc): 4182-4190.
+
+# 中国森林生态资产价值评估
+
+博文静1,²，王莉雁1,²，操建华³，王效科¹，肖燚¹，欧阳志云1，\*
+
+1中国科学院生态环境研究中心，北京100085  
+2中国科学院大学，北京100049  
+3中国社会科学院农村发展研究所，北京100732
+
+摘要:森林资源是支撑人类社会发展的重要生态资产,探索森林生态资产价值的评估方法,对合理利用和有效保护森林资源具有重要意义。运用净现值法计算了中国森林生态资产总价值为698.5万亿元，其中直接价值为7.5万亿元,包括林木价值4.5万亿元和林下产品价值3.0万亿元;间接价值为691万亿元,其中,气候调节价值量最高，占间接价值的 $4 8 \%$ ;水源涵养价值量次之,占间接价值的 $2 7 \%$ 。从森林生态资产总价值的分布来看,广西省、广东省和云南省位于全国前列,分别占森林生态资产总价值的 $10 \%$ $9 \%$ 和 $9 \%$ 。单位面积森林生态资产价值表现为海南省、浙江省和广东省较高,分别为954万元 $\langle \mathrm { h m } ^ { 2 }$ ，915万元 $\mathrm { \hbar } \mathrm { m } ^ { 2 }$ 和888万元/ $\mathrm { \hbar } \mathrm { m } ^ { 2 }$ 。森林生态资产价值研究为我国编制自然资源资产负债表提供理论依据,因此全面的估算中国森林生态资产价值很有意义。 ，
+
+关键词：森林；生态资产；价值评估
+
+# Valuation of China's ecological assets in forests
+
+BO Wenjing1.2，WANG Liyan1,2, CAO Jianhua³，WANG Xiaoke1， XIAO $\mathrm { Y i } ^ { 1 }$ ， OUYANG Zhiyun1\* \*   
+1 Research Center for Eco-Environmental Sciences，Chinese Academy of Sciences，Beijing 1Oo085，China   
+2 University of Chinese Academy of Sciences，Beijing 10o049,China   
+3Rural Development Institute Chinese Academy of Social Sciences，Beijing 1Oo732,China
+
+Abstract:Forest resources comprisean important ecological asset supporting humansociety.Exploring valuation methods forecological assetsfoundinforestsisof greatsignificancetotherationaluseandefectiveprotectionofnaturalresources. In this paper,theNet Present Value Method was used to estimate the valueof ecological assets in Chineseforests.We found that the totalvalueof China'sforestecologicalassetsis CNY698.5trilion（USD104.5trillion），which includesdirect value and indirect value.Thedirectvalue is CNY7.5 trillon（USD1.1trillon）includingstumpage value CNY4.5 trillon (0.6trillion USD）and forest products value CNY3.Otrillion（USD0.4 trllion).Theindiret valueis CNY691 trillion (103.4 trilion USD）including climate regulation value，water conservation value，carbon sequestration value，and soon. The climate regulation and water conservation values account for $48 \%$ and $2 7 \%$ of the forest assets'indirect value respectively.The valueof forest ecologicalaset in Guangxi Province,Guangdong Province，and Yunnan Province account for $1 0 \%$ ； $9 \%$ ，and $9 \%$ of the China forest asset value，respectively，which are among the highest proportions in the whole country.Hainan Province，Zhejiang Province，and Guangdong Province have high value densitiesatabout CNY 9.5 million/ $\mathbf { \dot { m } } ^ { 2 }$ (USD1.4 million/ $\mathbf { \dot { m } } ^ { 2 }$ ），CNY 9.1 million $\mathrm { / m ^ { 2 } \left( \ U S D \ 1 . 4 \ m i l l i o n / m ^ { 2 } \right. }$ ）and CNY 8.8 million $/ \mathrm { m } ^ { 2 }$ (USD 1.3 million/ $\mathbf { \chi } _ { \mathbf { m } } ^ { \prime }$ ）respectively.Due to the ecological asset concept，the evaluation index and method are not unified，and the valuationresultsare quite diferent.Therefore，itisnecessary toassess China'sforest ecologicalasset value comprehensively.
+
+Key Words:forest；ecological asset；valuation
+
+森林生态系统作为人类社会经济发展和生态安全保障的重要自然资源,能够为社会提供丰富的生态产品与服务,是重要的生态资产。开展森林生态资产实物量和价值量及其变化量的评价,将为我国环境与发展综合决策、政府生态环境绩效评估考核等提供科学依据。
+
+随着社会经济的快速发展,人类对森林资源利用范围和强度不断增大,水土流失、荒漠化和土地退化等生态环境问题不断加剧,由此造成的社会经济损失也不断剧增。为了提高人类对森林资源重要性的认识,国内外学者都在探讨建立一套科学完善的森林资产价值评估体系[1]。2002 年欧盟统计局编制的《欧洲森林环境与经济核算框架》（简称IEEAF-2002）,对森林资源核算及纳入国民经济核算体系做了系统的研究,提出了森林资源核算的估价方法,如净现值法、立木价值法等[2]。2003 年联合国统计署(UNSD)组织编制的《综合环境和经济核算》（简称 SEEA-2003)推荐的森林资源估价,采用市场价法和净现值法[3。2004 年联合国粮农组织编制的《林业环境与经济核算指南》（简称FAO-2004 指南）,使用 SEEA-2003 推荐的方法对林地和林木资产以及林产品和服务流量进行了核算[4]。
+
+国内关于森林生态资产价值评估的案例不少,但由于生态资产概念的不统一,各研究案例结果差异较大。一种观点认为,生态资产是自然资源有形价值和生态系统服务无形价值的总和[5-8];另一种观点认为,生态资产是所有者对其实施生态所有权并且可以从中获得经济利益的生态景观实体[9]。前者将生态资产定义为价值,而后者将其定义为生态景观实体。研究认为,生态资产是生产与提供生态产品与服务的生态系统,生态资产价值是生态系统每年提供的生态系统服务价值净现值的总和,如Liu 等[10]对美国新泽西州的12项生态系统服务价值进行评估,总价值是116亿美元/a,按照 $3 \%$ 的贴现率，生态资产价值为3870亿美元。
+
+森林生态资产的价值包括直接价值和间接价值两部分,其中直接价值是森林生态系统产生的直接的经济价值,包括现存的林木价值和森林每年提供的林下产品价值净现值的总和。间接价值是森林未来预期每年产生的生态系统调节服务价值净现值的总和,包括土壤保持、防风固沙、水源涵养、固碳、产氧、病虫害防治、气候调节等。本文基于中国第八次森林资源清查资料,计算了全国森林生态资产的直接和间接价值,并与其它估价方法结果进行比较，为我国建立自然资源估价体系提供科学依据。
+
+# 1研究方法
+
+# 1.1森林生态资产直接价值
+
+森林生态资产直接价值包括林木和林下产品的价值。林木价值估算采用简化的净现值法[1],即只以成熟林木所获得的收益为基础,忽略了中间性间伐收益和管理成本。假定该收益只在林木达到成熟树龄 $T$ 时才发生。在此点上所发生的价格和要收获的数量都以下标 $T$ 表示。为求得净现值,要在直到收获为止的 $\left( \begin{array} { l } { T { - } t } \end{array} \right)$ 期间内采用每一年的贴现率进行折现。林木价值定价模型：
+
+$$
+T V = \sum _ { t = 1 } ^ { n } \ : \frac { A _ { t } \ : Q _ { T } \ : P _ { _ T } } { ( 1 \ : + \ : r _ { f } ) \ : ^ { T - t } }
+$$
+
+式中,TV为林木价值(元)； $A _ { t }$ 为森林面积( $\mathrm { { h m } } ^ { 2 }$ ）； $Q _ { r }$ 为每 $\mathrm { { h m } } ^ { 2 }$ 成熟林木的蓄积量( $\mathbf { m } ^ { 3 } / \mathrm { h m } ^ { 2 }$ ）； $\boldsymbol { P } _ { \boldsymbol { T } }$ 为成熟林木每 $\mathbf { m } ^ { 3 }$ 平均立木价格(元); $T$ 为树木成熟树龄(年)； $\mathbf { \chi } _ { t }$ 为树木现时树龄（年）; $r _ { f }$ 为贴现率,参考工商银行2010—2015 年平均存款利率。
+
+林下产品价值(FPV)是将森林未来预期每年产生的林下产品纯收益(FPI)通过净现值法折算成现值。林下产品价值定价模型：
+
+http://www.ecologica.cn
+
+$$
+\mathrm { F P V } = \sum _ { i = 1 } ^ { n } { \frac { \mathrm { F P I } } { ( 1 + r _ { f } ) ^ { ( i - 1 ) } } }
+$$
+
+式中,FPV 为林下产品价值(元);FPI为林下产品年收益（元); $r _ { f }$ 为贴现率; $n$ 为计算期(年）。
+
+# 1.2森林生态资产间接价值
+
+森林生态资产间接价值是森林生态系统每年为人类提供的调节服务价值的净现值,如水源涵养、土壤保持、固碳释氧、气候调节、空气净化等。通过净现值法,将森林未来预期每年产生的生态系统服务价值折算成现值,公式为：
+
+$$
+\mathrm { F I V } = \sum _ { l = 1 } ^ { m } \sum _ { i = 1 } ^ { n } { \frac { F _ { l } } { ( 1 + r _ { f } ) ^ { ( i - 1 ) } } }
+$$
+
+式中,FIV 为森林生态资产间接价值（元）; $\boldsymbol { F } _ { l }$ 为第1项森林生态系统服务的价值（元/a）； $\underline { { r _ { f } } }$ 为贴现率； $\mathbf { \nabla } _ { m }$ 为生态系统服务类型的数量； $n$ 为计算期(年)。
+
+(1)水源涵养价值
+
+森林水源涵养功能是指森林对通过林冠层、枯落物层、根系和土壤层对降水进行截留、吸收和储存,从而有效涵养土壤水分、缓和地表径流和补充地下水的作用。运用影子工程法,将建设水库成本替代水源涵养价值。
+
+$$
+V _ { s } = A \cdot C \cdot \left( P - R - E T \right)
+$$
+
+式中， $V _ { s }$ 为水源涵养价值(元/a); $C$ 为水库单位库容的工程造价( $\sqrt { 2 } \mathrm { { L } } / \mathrm { { m } } ^ { 3 }$ ； $\mathcal { P }$ 为降雨量（mm）； $R$ 为暴雨径流量（mm）；ET为蒸散发量( $\mathbf { \dot { m } } \mathbf { \dot { m } } ,$ : $A$ 为森林的面积( $\mathbf { h m } ^ { 2 } .$ 。 ?
+
+(2)土壤保持价值
+
+土壤保持功能是森林通过林冠层、枯落物、根系等各个层次消减雨水的侵蚀能量,增加土壤抗蚀性从而减轻土壤侵蚀,减少土壤流失,保持土壤的作用。土壤保持量是通过森林生态系统减少的土壤侵蚀量,即潜在土壤侵蚀量与实际土壤侵蚀量的差值。其中,实际土壤侵蚀是当前地表覆盖情形下的土壤侵蚀量,潜在土壤侵蚀则是指没有地表覆盖因素情形下可能发生的土壤侵蚀量。选用减少面源污染和减少泥沙淤积两个指标,核算森林生态系统的土壤保持价值。
+
+$$
+V _ { n } = \lambda \times \frac { A _ { t } } { \rho } \times \mathrm { ~ c ~ }
+$$
+
+$$
+V _ { m } = \sum _ { i = 1 } ^ { 3 } A _ { t } \times C _ { i } \times P _ { i }
+$$
+
+$$
+A _ { t } = R \times K \times L \times S \times ( 1 - C )
+$$
+
+式中， $A _ { t }$ 为单位面积土壤保持量( $\mathrm { ~ t ~ h m } ^ { - 2 } \mathrm { ~ a } ^ { - 1 }$ ）； $V _ { n }$ 为减少泥沙淤积价值(元/a); $\lambda$ 为泥沙淤积系数; $\rho$ 为土壤容重 $\left( { \mathrm { t } } / { \mathrm { m } } ^ { 3 } \right)$ ; $\boldsymbol { \mathscr { C } }$ 为水库清淤工程费用 $\cdot \overrightarrow { \pi } / \mathrm { m } ^ { 3 }$ ）； $c _ { i }$ 为土壤中氮、磷、钾的纯含量 $( \% )$ $P _ { i }$ 为环境工程降解成本（元/t)； $R$ 为降雨侵蚀力因子,用多年平均年降雨侵蚀力指数表示; $K$ 为土壤可蚀性因子,表示为标准小区下单位降雨侵蚀力形成的单位面积上的土壤流失量； $L$ 为坡长因子(无量纲)； $s$ 为坡度因子（无量纲）； $C$ 为植被覆盖因子(无量纲）。
+
+# (3)固碳释氧价值
+
+森林的固碳释氧功能对于调节气候、维护和平衡大气中 $\mathrm { C O } _ { 2 }$ 和 $\mathrm { ~ O } _ { 2 }$ 的稳定具有重要意义,能有效减缓大气中二氧化碳浓度升高,减缓温室效应,改善生活环境。固碳释氧价值包括固碳价值和释氧价值。
+
+$$
+\mathrm { N E P } \ = \ \mathrm { N P P - } R s
+$$
+
+$$
+V _ { \cal C } = \mathrm { N E P } \times { \cal C } M
+$$
+
+$$
+V _ { _ o } { = } \operatorname { N P P } { \times } C
+$$
+
+式中，NEP为固碳量(t);NPP为净生产力（t）; $R s$ 为土壤呼吸损失碳量 $( \mathfrak { t } ) ; V _ { c }$ 为森林固碳价值（元/a）；NEP
+
+为森林固碳总量 $\left( \ V \mathrm { a } \right)$ ： $C M$ 为造林成本(元/t); $V _ { o }$ 为生态系统释氧价值(元/a); $C$ 为制氧成本(元/t)。
+
+(4)气候调节价值
+
+森林生态系统通过蒸腾作用与光合作用,降低气温、减少气温变化范围、增加空气湿度,从而起到气候调节的作用。将森林生态系统降温消耗的用电量作为气候调节价值的评价指标。
+
+$$
+V _ { \boldsymbol { q } } = \boldsymbol { A } \times \mathrm { G P P } \times \boldsymbol { d } \times \boldsymbol { p } \times 1 0 ^ { 6 } / ( 3 6 0 0 \times R )
+$$
+
+式中， $V _ { _ q }$ 为森林生态系统气候调节的价值(元/a)； $A$ 为森林面积( $\cdot \mathrm { k m } ^ { 2 }$ );GPP为森林生态系统单位面积蒸腾消耗热量 $( { \bf k } { \bf J } \mathrm { \bf ~ m } ^ { - 2 } { \bf d } ^ { - 1 } ) ,$ ; $d$ 为空调开放天数(天)； $p$ 为电价（元/kwh）； $R$ 为空调能效比：3.0。
+
+(5)空气净化价值
+
+森林能有效吸收有害气体(如二氧化硫、氮氧化物、粉尘等)和阻滞粉尘，从而起到净化空气的作用。采用替代成本法,通过工业治理大气污染物的成本评估森林空气净化价值。
+
+$$
+V _ { a } = Q _ { \mathrm { s o _ { 2 } } } \times A \times c _ { \mathrm { s o _ { 2 } } } + Q _ { \mathrm { N o _ { 3 } } } \times A \times c _ { \mathrm { N o _ { _ { 3 } } } } + Q _ { \mathrm { d u s t s } } \times A \times c _ { \mathrm { d u s t s } }
+$$
+
+式中， $\boldsymbol { V } _ { a }$ 为森林生态系统空气净化价值(元/a); $Q _ { \mathrm { { s o } _ { 2 } } }$ 为单位面积森林吸收二氧化硫量 $\big ( \mathrm { k g \ h m } ^ { - 2 } \mathrm { a } ^ { - 1 }$ ） $c _ { \mathrm { { S O } } _ { 2 } }$ 为二氧化硫治理成本（元/kg); $Q _ { \mathrm { N O } _ { x } }$ 为单位面积森林吸收氮氧化物量 $\left( \mathrm { ~ k g ~ h m } ^ { - 2 } \mathrm { a } ^ { - 1 } \right.$ ） $c _ { \mathrm { N O } _ { x } } ^ { \phantom { \dagger } }$ 为氮氧化物治理成本（元/（204号 $\mathbf { k g } ^ { \mathbf { \sigma } } ,$ ; $Q _ { \mathrm { d u s t s } }$ 为单位面积森林滞尘量 $\mathbf { \chi } ^ { \prime } \mathbf { k g \ h m } ^ { - 2 } \mathbf { a } ^ { - 1 }$ ） $c _ { \mathrm { d u s t s } }$ 为工业粉尘治理成本（元/ $\mathbf { \dot { k } _ { g } } ^ { \mathrm { ~ } }$ ） $\mathbb { \tilde { A } }$ 为林分面积( $\left. \mathbf { h } \mathbf { m } ^ { 2 } \right.$ 。
+
+# 1.3森林生态资产价值
+
+森林生态资产价值是直接价值和间接价值的总和,定价模型为：
+
+$$
+F V = \mathrm { \ F D V + F I V }
+$$
+
+式中， $F V$ ,森林生态资产价值(元);FDV,森林生态资产直接价值(元);FIV,森林生态资产间接价值（元）。
+
+# 2研究结果
+
+# 2.1森林生态资产直接价值
+
+根据第八次全国森林资源清查数据,计算得到我国31个省、自治区、直辖市森林生态资产直接价值为7.5万亿元,其中林木价值为4.5万亿元,林下产品价值为3.0万亿元。广西省、山东省和云南省森林生态资产直接价值较高，分别占全国森林生态资产直接价值的 $1 3 . 7 \%$ $8 . 6 \%$ 和 $7 . 5 \%$ ,其余省份均不足 $7 \%$ 。主要原因为2010 年广西省和山东省林下经济产值均居于全国前列,而云南省森林资源丰富,林木存量价值占全国总林木价值的 $12 \%$ 。 ?
+
+# 2.1.1 林木价值
+
+根据第八次全国森林资源清查数据，结合《中国林业统计年鉴》（2010 年卷)中不同树种成熟林的立木价格，用简化的净收益法公式(1)计算，得到我国森林林木价值为4.5万亿元。其中，幼龄林、中龄林、近熟林、成熟林 过熟林的林木价值分别占我国森林林木总价值的 $2 5 \% . 4 0 \% . 3 4 \% . 1 \%$ 和 $0 . 4 \%$ （图1）。从区域上看，云南省、黑龙江省和内蒙古林木价值位于全国前列，分别占全国林木总价值的 $12 \%$ ） $10 \%$ 和 $9 \%$ ,而上海市、天津市和宁夏自治区林木价值较低，其林木价值总和仅占全国林木总价值的 $0 . 1 2 \%$ 。说明我国森林资源分布差距较大，总体来看，西南地区和东北地区林木价值普遍较高，而西北和华北地区较低。
+
+![](images/ecf6ae96b92f89a9b7c5354551763eecaf63313ebb63abebe87c55dcdeecf8f5.jpg)  
+图1森林林木价值各龄级分布图  
+Fig.1The stumpage value in different aged forest in China
+
+表1不同龄级森林林木价值/亿元  
+Table1Stumpage values of China   
+
+<html><body><table><tr><td>区域 Region</td><td>幼龄林 Young forest</td><td>中龄林 Middle aged forest</td><td>近熟林 Near- mature forest</td><td>成熟林 Mature forest</td><td>过熟林 Premature forest</td><td>合计 Total value</td></tr><tr><td>北京市</td><td>30.7</td><td>27.5</td><td>16.3</td><td>0.4</td><td>0.2</td><td>75.2</td></tr><tr><td>天津市</td><td>7.8</td><td>2.7</td><td>0.5</td><td>0.02</td><td>0.01</td><td>11.0</td></tr><tr><td>河北省</td><td>221.0</td><td>188.9</td><td>101.5</td><td>0.8</td><td>0.2</td><td>512.4</td></tr><tr><td>山西省</td><td>80.3</td><td>144.1</td><td>148.0</td><td>0.8</td><td>0.2</td><td>373.4</td></tr><tr><td>内蒙古</td><td>392.2</td><td>1705.1</td><td>1885.2</td><td>26.0</td><td>13.0</td><td>4021.5</td></tr><tr><td>吉林省</td><td>388.2</td><td>805.3</td><td>1232.3</td><td>16.0</td><td>5.3</td><td>2447.1</td></tr><tr><td>辽宁省</td><td>660.1</td><td>306.5</td><td>245.8</td><td>3.1</td><td>0.6</td><td>1216.1</td></tr><tr><td>黑龙江省</td><td>705.0</td><td>2304.0</td><td>1702.0</td><td>20.1</td><td>9.1</td><td>4740.1</td></tr><tr><td>上海市</td><td>4.7</td><td>3.4</td><td>1.6</td><td>0.01</td><td>0.001</td><td>9.7</td></tr><tr><td>江苏省</td><td>71.7</td><td>198.1</td><td>71.4</td><td>0.3</td><td>0.02</td><td>341.5</td></tr><tr><td>浙江省</td><td>247.3</td><td>476.0</td><td>336.4</td><td>1.9</td><td>0.2</td><td>1061.9</td></tr><tr><td>安徽省</td><td>180.4</td><td>443.8</td><td>255.1</td><td>1.6</td><td>0.3</td><td>881.2</td></tr><tr><td>福建省</td><td>525.9</td><td>909.2</td><td>739.4</td><td>9.7</td><td>1.7</td><td>2186.0</td></tr><tr><td>江西省</td><td>778.8</td><td>1054.1</td><td>280.0</td><td>3.3</td><td>0.4</td><td>2116.5</td></tr><tr><td>山东省</td><td>113.9</td><td>53.5</td><td>31.7</td><td>0.6</td><td>0.3</td><td>200.0</td></tr><tr><td>河南省</td><td>192.6</td><td>293.8</td><td>165.4</td><td>0.6</td><td>0.1</td><td>652.6</td></tr><tr><td>湖北省</td><td>701.5</td><td>400.1</td><td>192.8</td><td>1.7</td><td>0.3</td><td>1296.3</td></tr><tr><td>湖南省</td><td>721.1</td><td>714.7</td><td>378.2</td><td>4.0</td><td>0.7</td><td>1818.8</td></tr><tr><td>广东省</td><td>419.6</td><td>538.8</td><td>359.3</td><td>3.3</td><td>0.7</td><td>1321.8</td></tr><tr><td>广西省</td><td>906.2</td><td>1101.6</td><td>323.0</td><td>3.6</td><td>0.5</td><td>2334.9</td></tr><tr><td>海南省</td><td>61.1</td><td>99.2</td><td>1 81.9</td><td>1.0</td><td>0.3</td><td>243.6</td></tr><tr><td>重庆市</td><td>89.8</td><td>303.9</td><td>267.8</td><td>2.0</td><td>0.7</td><td>664.3</td></tr><tr><td>四川省</td><td>429.1</td><td>1327.6</td><td>1084.4</td><td>36.1</td><td>59.4</td><td>2936.6</td></tr><tr><td>贵州省</td><td>778.8</td><td>774.6</td><td>374.0</td><td>0.0</td><td>0.4</td><td>1927.8</td></tr><tr><td>云南省</td><td>1690.0</td><td>1927.4</td><td>1762.6</td><td>23.7</td><td>24.4</td><td>5428.0</td></tr><tr><td>西藏</td><td>168.7</td><td>560.8</td><td>2325.3</td><td>73.7</td><td>51.9</td><td>3180.4</td></tr><tr><td>陕西省</td><td>345.3</td><td>627.5</td><td>513.9</td><td>8.3</td><td>6.8</td><td>1501.7</td></tr><tr><td>甘肃省</td><td>216.3</td><td>251.7</td><td>212.4</td><td>3.8</td><td>2.8</td><td>687.0</td></tr><tr><td>青海省</td><td>11.2</td><td>38.0</td><td>27.7</td><td>0.8</td><td>0.9</td><td>78.6</td></tr><tr><td>宁夏</td><td>10.8</td><td>13.2</td><td>7.7</td><td>0.02</td><td>0.0</td><td>31.8</td></tr><tr><td>新疆</td><td>88.6</td><td>212.0</td><td>257.1</td><td>8.8</td><td>6.9</td><td>573.5</td></tr></table></body></html>
+
+香港、澳门、台湾地区数据尚缺
+
+# 2.1.2 林下产品价值
+
+根据《中国林业统计年鉴》2010年各地区林下经济产值数据,通过净现值法公式(2)计算,得到我国31个省、自治区、直辖市林下产品价值为3.03万亿元,其中广西省和山东省林下产品价值较高,分别占全国林下产品价值的 $2 6 \%$ 和 $2 1 \%$ ,其林下经济总面积分别达到86.67万 $\mathrm { h m } ^ { 2 [ 2 0 ] }$ 和20万 $\mathrm { h m } ^ { 2 [ 2 1 ] }$ 。而黑龙江、内蒙古等地区森林资源丰富,截至2010年,林下产品价值较低,未来具有较大的发展空间。
+
+# $2 . 2$ 全国森林生态资产间接价值
+
+2010 年我国31个省、自治区、直辖市森林生态系统服务价值为19.10万亿元/a,通过净现值法公式（3），将计算期 $n$ 设定为100 年,贴现率为 $2 . 7 7 \%$ ,计算得出我国森林生态资产间接价值为662万亿元。其中，气候调节价值量最高，占森林生态资产间接价值的 $4 8 \%$ ;水源涵养价值量次之，占间接价值的 $2 7 \%$ ;固碳释氧和土壤保持分别占间接价值的 $1 8 \%$ 和 $4 \%$ ;其余间接价值较低,占比均不到总价值的 $5 \%$ （图3）。
+
+从我国森林生态资产间接价值空间分布来看(图4),南部地区高于北部地区,其中广西省、广东省和云南省生态资产间接价值较高，分别占我国森林生态资产间接价值的 $9 . 5 \% . 8 . 7 \%$ 和 $8 . 7 \%$ ;而华北和西北地区较低，如天津和宁夏仅占总价值的不到 $1 \%$ 。
+
+![](images/b5a3b45fc6f4c38a793fd1c69cdbb332dd86afa71ca76af0af93a79f3a08226b.jpg)
+
+# 2.2全国森林生态资产价值
+
+森林生态资产价值是直接价值和间接价值的总和，根据计算，2010年我国森林生态资产总价值为698.5万亿元，其中直接价值为7.5万亿元，间接价值为691万亿元。表明森林生态系统除了为人类提供木材、林下产品等直接产品价值外，还具有巨大的间接价值。
+
+我国森林生态资产价值按空间分布来看，广西省、广东省和云南省位于全国前列，分别占全国森林生态资产总价值的 $10 \%$ 、9%和 $9 \%$ ,而宁夏自治区、天津市和上海市森林生态资产价值较低，主要由于其森林面积和蓄
+
+![](images/cbce3976eda8bf0013ac3e3ac262557e2cc7e17dfd3fc965c51445de494674e8.jpg)  
+Fig.2The forest products value of China   
+图3森林生态资产间接价值量构成图
+
+![](images/131a40bb089597c2ba23af701a105ba88a30259a0cee401f301aa126be370f53.jpg)  
+图2林下产品价值分布图  
+Fig.3The scale map of indirect value of ecological asset forest in China   
+图4森林生态资产间接价值分布图  
+Fig.4The forest ecological asset indirect value of China
+
+http ://www.ecologica.cn
+
+积量较小。单位面积森林生态资产价值表现为海南省、浙江省和广东省较高,分别为954万元/ $\langle \mathrm { h m } ^ { 2 }$ ，915万元 $/ \mathrm { h m } ^ { 2 }$ 和888万元 $/ \mathrm { h m } ^ { 2 }$ ;宁夏自治区、青海自治区和内蒙古自治区较低,仅为114万元 $/ \mathrm { { h m } } ^ { 2 }$ 、116万元 $/ \mathrm { h m } ^ { 2 }$ 和140万元 $\langle \mathrm { h m } ^ { 2 }$ (表2）。总体来看,华东和中南地区较高,西北和东北地区较低,主要原因在于南部和东部地区的森林覆盖度高,年降雨量大,蒸发慢,森林生态系统提供的水源涵养、气候调节等生态系统服务功能量较高，而西部地区如青海、宁夏等省森林覆盖度较低,年降雨量少,蒸发量大["],因此,该地区水源涵养、气候调节等生态系统服务功能量较低,造成单位面积森林生态资产价值差距较大。 7
+
+表2中国各地区森林生态资产价值量/( $1 0 ^ { 4 }$ 元 $\langle \mathrm { h m } ^ { 2 }$ ）  
+  
+
+<html><body><table><tr><td colspan="7">Table 2 Theecologicalassetvalueof forestof China</td></tr><tr><td>省份 Provinces</td><td>间接价值 Indire ealie</td><td>直接价值 Direct ralue/</td><td>林木价值 Stumpage</td><td>林下产值 Forest product</td><td>生态资产价值 Ecological</td><td>单位面积价值 Per unit</td></tr><tr><td></td><td></td><td></td><td>亿元</td><td>亿元</td><td>ase亿元e/</td><td>（10元/m²2）</td></tr><tr><td>广西</td><td>682931.0</td><td>10279.0</td><td>2334.9</td><td>7944.1</td><td>693209.9</td><td>766.7</td></tr><tr><td>广东</td><td>632855.1</td><td>1867.7</td><td>1321.8</td><td>545.9</td><td>634722.8</td><td>888.0</td></tr><tr><td>云南</td><td>624275.6</td><td>5672.9</td><td>5428.0</td><td>244.9</td><td>629948.5</td><td>412.6</td></tr><tr><td>江西</td><td>581179.8</td><td>4173.7</td><td>2116.5</td><td>2057.2</td><td>585353.5</td><td>741.0</td></tr><tr><td>福建</td><td>502113.9</td><td>2761.7</td><td>2186.0</td><td>575.7</td><td>504875.5</td><td>832.1</td></tr><tr><td>四川</td><td>457955.9</td><td>3604.5</td><td>2936.6</td><td>667.9</td><td>461560.4</td><td>389.9</td></tr><tr><td>湖南</td><td>434745.3</td><td>2578.1</td><td>1818.8</td><td>759.3</td><td>437323.5</td><td>597.9</td></tr><tr><td>浙江</td><td>372998.7</td><td>2576.4</td><td>1061.9</td><td>1514.5</td><td>375575.2</td><td>915.9</td></tr><tr><td>黑龙江</td><td>300397.6</td><td>4897.7</td><td>4740.1</td><td>157.6</td><td>305295.3</td><td>156.6</td></tr><tr><td>湖北</td><td>265909.7</td><td>3016.6</td><td>1296.3</td><td>1720.3</td><td>268926.4</td><td>469.8</td></tr><tr><td>内蒙古</td><td>235675.2</td><td>4261.8</td><td>4021.5</td><td>240.3</td><td>239937.0</td><td>140.1</td></tr><tr><td>贵州</td><td>218922.2</td><td>2249.3</td><td>1927.8</td><td>321.5</td><td>221171.5</td><td>462.0</td></tr><tr><td>陕西</td><td>205580.5</td><td>1596.2</td><td>1501.7</td><td>94.5</td><td>207176.7</td><td>324.1</td></tr><tr><td>安徽</td><td>187289.4</td><td>2614.1</td><td>881.2</td><td>1732.9</td><td>189903.5</td><td>651.0</td></tr><tr><td>西藏</td><td>172907.8</td><td>3180.4</td><td>3180.4</td><td>0.0</td><td>176088.1</td><td>207.5</td></tr><tr><td>重庆</td><td>157610.9</td><td>1229.6</td><td>664.3</td><td>565.3</td><td>158840.4</td><td>753.2</td></tr><tr><td>辽宁</td><td>153664.4</td><td>2281.8</td><td>1216.1</td><td>1065.7</td><td>155946.3</td><td>400.3</td></tr><tr><td>吉林</td><td>151292.9</td><td>4765.3</td><td>2447.1</td><td>2318.2</td><td>156058.3</td><td>207.1</td></tr><tr><td>河北</td><td>118846.2</td><td>720.5</td><td>512.4</td><td>208.1</td><td>119566.7</td><td>384.4</td></tr><tr><td>河南</td><td>92735.5</td><td>1193.4</td><td>652.6</td><td>540.8</td><td>93928.9</td><td>307.6</td></tr><tr><td>海南</td><td>92359.9</td><td>290.0</td><td>243.6</td><td>46.4</td><td>92649.9</td><td>954.1</td></tr><tr><td>山东</td><td>69182.8</td><td>6486.6</td><td>200.0</td><td>6286.6</td><td>75669.4</td><td></td></tr><tr><td>山西</td><td>59351.1</td><td>373.4</td><td>373.4</td><td>0.0</td><td>59724.5</td><td>468.7</td></tr><tr><td>新疆</td><td>52343.4</td><td>603.9</td><td>573.5</td><td>30.4</td><td>52947.3</td><td>283.8 295.5</td></tr><tr><td>甘肃</td><td>34236.0</td><td>693.3</td><td>687.0</td><td>6.3</td><td>34929.3</td><td>141.3</td></tr><tr><td>江苏</td><td>25753.1</td><td>947.8</td><td>341.5</td><td>606.3</td><td>26700.9</td><td>213.3</td></tr><tr><td>北京</td><td>18310.6</td><td>114.9</td><td>75.2</td><td>39.7</td><td>18425.4</td><td>429.5</td></tr><tr><td>青海</td><td>4331.9</td><td></td><td>78.6</td><td>0.0</td><td>4410.5</td><td>116.5</td></tr><tr><td>宁夏</td><td>1778.8</td><td>78.6</td><td>31.8</td><td>0.0</td><td>1810.6</td><td>114.2</td></tr><tr><td>上海</td><td>1424.4</td><td>31.8</td><td></td><td>0.0</td><td>1434.1</td><td></td></tr><tr><td>天津</td><td>1366.2</td><td>9.7</td><td>9.7</td><td>0.0</td><td>1377.2</td><td>328.9</td></tr><tr><td></td><td></td><td>11.0</td><td>11.0</td><td></td><td></td><td>183.1</td></tr><tr><td>合计</td><td>6910325.7</td><td>75161.7</td><td>44871.2</td><td>30290.5</td><td>6985487.4</td><td>436.7</td></tr></table></body></html>
+
+尚缺香港、澳门、台湾地区数据
+
+# 3结论与讨论
+
+本文用净现值法估算得到我国森林生态资产价值为698.5万亿元,单位面积森林生态资产价值为436 万元/hm。由于对生态资产概念的不统一，目前很多研究将生态系统服务价值等同于生态资产价值,造成生态资产价值的低估。如文献[5,13-14]均参照Costanza 等[16]全球森林生态系统服务价值参数,计算得出森林生态资产单位面积价值为2603—17534元 $\langle \mathrm { h m } ^ { 2 }$ 。
+
+![](images/ae254c813e7c461ec10a9c5d96a82fd516f01694709f1a990b812645940ae93c.jpg)  
+图5森林生态资产和单位面生态资产价值分布图Fig.5The ecological asset value of forest in China
+
+本研究基于第八次森林清查数据计算得出,我国森林生态系统服务价值为19.92万亿/a,而国家林业局[11]计算的全国森林生态服务总价值量为12.68万亿/a,主要原因在于核算指标不同,本文主要考虑了森林生态系统最终服务的价值,如水源涵养、土壤保持、固碳释氧、防风固沙、气候调节、空气净化和游憩价值。而国家林业局的核算指标体系中,未对气候调节的价值进行核算,而是增加了生物多样性保护的价值。但我们认为生物多样性维持、有机质生产、土壤及其肥力形成、营养物质循环等属于支持服务,这些功能支撑了产品提供功能与生态调节功能,已经体现在产品功能与调节功能之中,所以,对生物多样性维持价值进行核算可能会造成重复计算问题[15]。此外,森林生态系统光合作用吸收大量的太阳能,而蒸腾作用从周围环境中带走大量的热,所以森林对全球气候起到重要的调节作用,应该对该项服务进行价值核算。
+
+生态系统服务是生态资产所产生的收益。生态系统服务价值只代表了生态资产一年能够产生的价值，没有包括生态资产的预期总价值,因此不能简单地用生态系统服务价值代替生态资产价值。理论上,可以通过收益法将每年的生态系统服务的流量价值折算成生态资产的价值[10]。但这种方法目前也存在一些问题： $\textcircled{1}$ 生态资产的管理和利用方式可能会影响其未来的收益。如 Beukering 等[17]模拟估算了罗塞火山国家森林公园在3种情景模式下,即森林保护、选择性的利用以及森林砍伐的经济效益,发现3种模式的估算结果具有很大差异。 $\textcircled{2}$ 气候变化等自然因素可能会影响未来的生态系统服务价值。Wang等[18]研究了1989—2011年锡林郭勒盟草地生态系统气候变化对生态系统服务价值的影响,结果表明 $3 3 \%$ 的研究区域生态系统服务价值随着气候变化而显著降低。此外,不考虑生态系统服务之间的权衡和协同关系,简单的将各项服务的价值累加,可能与实际情况出现差异。如Edward 等[19]研究表明,随着鱼虾养殖等供给服务的增加,湿地生态系统的海岸带防护、生物多样性保护等生态系统服务的价值会随之下降。 >
+
+本文计算森林生态资产价值的假设是在土地利用方式保持不变的情况下,每年森林提供的生态系统服务功能量保持不变,但未来的研究应该聚焦于不同林分类型和龄级的森林,在不同情境模式下,以及气候变化背景下,森林生态系统服务以及生态资产价值的变化,找出经济和生态效益最优化的管理方式,为管理层决策提供依据。
+
+# 参考文献（References）:
+
+[1］高敏雪.森林核算国际研究进程及相关理论问题辨析／/高敏雪，张颖，许健，周恩博，高亚春.综合环境经济核算与计量分析——从国际经验到中国实践.北京：经济科学出版社，2012：126-163.  
+[2]EuropauronFekfteatedtaldcocoifoesEFefor Official Publications of European Communities,2O02：102.  
+[3]UnitedsoeaosoteatialeardOrtifooceatidveontoIntegrated Environmental and Economic Accounting 2Oo3.New York：United Nations，2003.  
+4]FAO.alotadoctsrtfoaalis,lrestt,FAO，2004.  
+[5］潘耀忠，史培军，朱文泉，顾晓鹤，范一大,李京.中国陆地生态系统生态资产遥感定量测量.中国科学D辑：地球科学,2004,34(4)：375-384.  
+[6] 高吉喜，范小杉.生态资产概念、特点与研究趋向.环境科学研究，2007，20(5)：137-143.  
+[7] 王健民，王如松.中国生态资产概论.南京：江苏科学技术出版社，2001.  
+[8] 蒋菊生.生态资产评估与可持续发展.华南热带农业大学学报，2001，7(3)：41-46.  
+[9] 黄兴文，陈百明.中国生态资产区划的理论与应用.生态学报，1999，19(5)：602-606.  
+[10] LiuS,Costa,rogtJateVngeJeseosevidatualaital：spaiallifttransfer approach.Environmental Management，2010,45(6）：1271-1285.  
+[11］中国森林资源核算研究项目组.生态文明制度构建中的中国森林资源核算研究.北京：中国林业出版社，2015：52-78.  
+[12] 马立新，覃雪波，孙楠，杨国亭.大小兴安岭生态资产变化格局.生态学报，2013，33（24)：7838-7845.  
+[13] 谢高地，鲁春霞，冷允法，郑度，李双成.青藏高原生态资产的价值评估．自然资源学报，2003，18（2)：189-196.  
+[14] 张淑英，陈云浩，李晓兵，潘耀忠，李京，史培军.内蒙古生态资产测量及生态建设研究.资源科学，2004，26(3）：22-28.  
+[15］欧阳志云，朱春全，杨广斌，徐卫华，郑华，张琰，肖燚.生态系统生产总值核算：概念、核算方法与案例研究.生态学报，2013，33(21) : 6747-6761.  
+16]CostanzaR,AreR,deGrotR,FrberS,rass,HanB,ibgK,eemS,'illRV,aelJ,asRG,den Belt M.Thevalue of the world's ecosystem services and natural capital.Nature，1997,387(6630)：253-260.  
+[17]vanBeukerieaHeoicatiofLeuseatialrkatradosiaEolcalc,2003，44(1):43-62.  
+[18]WangH,ZhouSL,iXB,LiuHH,ChiDK,XuKK.Theifuencefimatechageandumanacivitiesoecosystemsevicevalue.Ecological Engineering，2016,87：224-239.  
+[19] Barbier E B.Economics：account for depreciation of natural capital.Nature,2O14,515(7525）：32-33.  
+[20] 李瑞盟，韦彦，刘朝霞.关于广西发展林下经济的思考.广西财经学院学报，2012，25(1)：21-25.  
+[21］王焕良，王月华，谷振宾.做好林下经济发展这篇大文章——山东省林下经济发展调研报告.林业经济，2011，（1)：30-35.

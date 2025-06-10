@@ -1,0 +1,184 @@
+# 基于MODIS数据的蒙古高原积雪时空变化研究
+
+姜康¹，包刚¹²，乌兰图雅，姜莉，王牧兰（1内蒙古师范大学地理科学学院,内蒙古呼和浩特010022;2内蒙古师范大学内蒙古自治区遥感与地理信息系统重点实验室,内蒙古呼和浩特010022)
+
+摘要：利用Terra卫星和Aqua卫星提供的2002年9月1日\~2017年5月31日每日积雪覆盖产品 MOD10C1和MYD10C1,提取蒙古高原积雪日数、积雪面积、积雪初日及积雪终日信息，得到蒙古高原积雪特征分布和变化趋势，同时，结合蒙古高原108个地面气象观测站的气温资料，分析研究区积雪变化特征和气温的关系。结果表明：(1)蒙古高原平均积雪日数在 $6 0 \sim 9 0 \mathrm { ~ d ~ }$ 之间，积雪初日主要分布在 $3 1 5 \sim 3 3 5 \mathrm { ~ d ~ }$ 之间，积雪终日大多集中在 $3 1 \sim 6 1 \mathrm { ~ d ~ }$ 之间，蒙古高原东部地区积雪初日有明显的提前趋势，西南地区积雪终日有明显的提前趋势。（2)积雪面积在积雪季内呈“单峰型”,1月份为积雪面积最大月，年均积雪面积呈微弱的下降趋势。(3)最大积雪覆盖面积与温度具有明显的相关性，稳定积雪覆盖区的临界温度大概介于 $- 1 1 \sim - 8 \mathrm { ~ } \mathrm { { ~ ‰ ~ } }$ 之间。 (4)温度是影响积雪特征变化的重要因素。
+
+关键 词：蒙古高原；积雪；MODIS；气候变化；温度文章编号： 1000 -6060(2019)04 -0782-08(0782\~0789)
+
+积雪因其辐射特性和导热性质的特殊性，对气候变化、能量平衡、水循环以及植被返青期等将产生巨大影响[1-2],是全球变化的重要指示器。多年来，积雪一直是人们气候变化研究的重点内容之_[3-5]。自20 世纪80年代开始,随着遥感技术的广泛应用，国内外学者开展了一系列的相关研究[6-8]。研究发现由于全球气候变暖,1972—1990年北半球陆地积雪面积在不断减少[9],然而 SAN-KEY等[1°]利用MODIS和TM/ETM $^ +$ 影像分析美国亚利桑那州积雪时空变化趋势，发现部分高海拔地区积雪日数在1988—2014年间呈上升趋势，可见积雪特征在小尺度范围存在差异性。国内积雪研究区域主要集中在我国三大积雪区（青藏高原、新疆和东北一内蒙古），而北方边疆及其周边国家地区的研究相对较少。国内学者在积雪深度[11]、积雪面积[12]、积雪日数[13]等的分布和变化以及与气候因子的关系方面做了大量研究，研究表明中国三大积雪区积雪日数存在不同的年代际周期，积雪日数与冬季平均气温有明显的负相关关系。从研究方法看，遥感技术已成为获得积雪日数的主要方法，方法主要包括波段判别[14]和像元值判别[15],识别精度也得到明显的提高。
+
+蒙古高原深居欧亚大陆腹地，因其特殊的地理位置和干旱脆弱的生态系统，成为全球变化最敏感和典型的地区之一[16-18]。蒙古高原河流湖泊众多,积雪融水是其重要来源之一，积雪是影响该地区水量平衡,牧草返青的重要因素[19]。但积雪面积、积雪量过大及积雪时间过长也会引起雪灾的发生，严重影响当地牧民生活及畜牧业的发展[20]。近年,蒙古高原积雪面积、湖泊面积变化研究也得到了广泛的关注。如TAO等基于TM数据的研究表明，蒙古高原湖泊面积和数量在1980—2010年间呈快速消退趋势，特别是内蒙古地区由于高强度的人为干扰导致其湖泊面积快速萎缩[2I]。萨楚拉等[22]和PUREVJAV等[23]分别利用 MODIS 积雪产品,分析2002—2012 年蒙古高原最大积雪面积时空变化，发现蒙古高原最大积雪面积呈微弱的减少趋势，且积雪面积年内变化呈现双峰和单峰的波动特点。尽管上述研究初步分析了蒙古高原积雪面积特征，但蒙古高原积雪初日、终日、积雪面积变化的综合研究相对薄弱，特别是积雪面积随温度变化的动态仍有待进一步探究。从地理位置看，蒙古高原地处中国东北一内蒙古积雪区和新疆积雪区的中间，其积雪变化对我国北方水资源变化将产生重要影响。
+
+本文利用MODIS每日积雪产品MOD10C1和MYD10C1，通过对两种数据进行最大值合成和掩膜处理，获得每日积雪覆盖数据，研究蒙古高原2002—2017年积雪初日、终日和积雪面积的年际，年内变化，并与研究区108个气象台站的月气温数据相结合，分析积雪空间变化特征与温度变化之间的关系。研究结果对合理利用有限的冰雪水资源，防灾减灾和植被返青期研究具有重要意义。
+
+# 数据与方法
+
+# 1.1 研究区概况
+
+蒙古高原主体主要包括中国内蒙古自治区和蒙古国[24],地理位置介于 $8 7 ^ { \circ } 4 0 ^ { \prime } \sim 1 2 2 ^ { \circ } 1 5 ^ { \prime } \mathrm { N } , 3 7 ^ { \circ } 4 6 ^ { \prime } \sim$ $5 3 ^ { \circ } 0 8 ^ { \prime } \mathrm { E }$ 之间(图1）。地貌类型主要为高平原和山地，地势西高东低，西北部多山地，东南部为广阔的戈壁,中部和东部为大片丘陵,平均海拔 $1 ~ 5 8 0 \mathrm { ~ m ~ }$ 。蒙古高原东起大兴安岭，西至阿尔泰山，北界为萨彦岭、雅布洛诺夫山脉，南界为阴山山脉。气候类型属温带大陆性气候，夏季炎热短暂，冬季严寒漫长，是亚洲大陆的冷源之一,年平均降雨量约 $2 0 0 ~ \mathrm { { m m } }$ 。
+
+# 1.2 数据及预处理
+
+1.2.1MODIS 积雪数据本文数据源为 MODIS积雪产品数据，分别为Terra卫星的MOD10C1和Aqua卫星的MYD10C1产品，时间分辨率均为1d,空间分辨率为 $0 . 0 5 ^ { \circ } \times 0 . 0 5 ^ { \circ }$ ,数据格式为.hdf,该数据包含了四种数据集，分别为 $5 ~ \mathrm { k m }$ 分辨率的全球日积雪范围图（Daily snowextent,global at $5 ~ \mathrm { k m }$ ）、每日积雪图清晰指数（Clear index forthe daily snowmap）、每日云遮挡百分比（Dailycloudobscurationpercentage）和网格单元数据质量评估（GeneralQAofdataingridcell）。本文所用的是第一个数据集。选取2002—2016年每年9月1日～次年5月31日的数据，共8170 幅影像，其中MOD10C1缺失 27幅，MYD10C1缺失1幅。将当年9月1日\~次年5月31日记为一个积雪季，共计15个积雪季。利用蒙古高原矢量边界将影像裁剪后得到研究区每日积雪遥感影像。影像像元值所代表的含义如表1所示。积雪信息为积雪在栅格所占的百分比，用 $0 \sim$ 100 表示[25]。为提高数据精度,在此采用最大值合成法作为新影像的积雪覆盖率[8,26],当影像缺失时，用单幅影像作为最大值影像，新影像记为MODMYD10C1。
+
+![](images/f93fa7a4f1812fcef81fbf30789930651f671ff02f5e05bfa5884f3fad03f989.jpg)  
+图1研究区地理位置及气象台站点分布图Fig.1Location of study area and distribution ofmeteorological stations
+
+1.2.2气象数据所使用的气象数据包括研究区108个气象台站2002一2014年月气温数据和内蒙古7个气象台站(表2)2011一2013年的积雪数据。气温数据主要用于研究区积雪面积随温度的变化特征。数据来源于内蒙古48个气象台站和蒙古国60个气象台站，分别从中国气象数据共享网和蒙古国科学院地理与地质生态研究所获得[27]。积雪数据用于验证积雪初日和积雪终日的精度，包括7个气象台站2011年9月1日 $\sim 2 0 1 3$ 年5月31日的日积雪深度数据，根据台站日积雪数据得到积雪季内台站实测积雪初日和积雪终日。
+
+# 1.3积雪提取方法
+
+本文积雪日数的计算方法参考刘俊峰等[28],积雪初日和积雪终日参考杨倩等[29]和张海军等[30]的方法。通过统计得到蒙古高原15个积雪季的积雪日数（SnowCoverDays,SCD）,进一步计算积雪初日（SnowCoverOnsetDates,SCOD）,积雪终日（SnowCover Melting Dates,SCMD)及其变化[26] 0
+
+表1影像像元值及含义  
+Tab.1Value and meaning of image pixel   
+
+<html><body><table><tr><td>数值</td><td>含义</td></tr><tr><td>0~100</td><td>积雪覆盖百分比</td></tr><tr><td>107</td><td>河冰</td></tr><tr><td>111</td><td>夜晚</td></tr><tr><td>237</td><td>内陆水域</td></tr><tr><td>239</td><td>海洋</td></tr><tr><td>250</td><td>被云遮挡的水域</td></tr><tr><td>253</td><td>未测值</td></tr><tr><td>255</td><td>填充</td></tr></table></body></html>
+
+表2SCOD和SCMD精度验证  
+Tab.2Accuracy verification of SCOD and SCMD   
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="2">SCOD-SCMD</td><td colspan="2">实测数据</td><td rowspan="2">重合 率 /%</td></tr><tr><td>积雪初 日/d</td><td>积雪终 日/d</td><td>积雪初 日/d</td><td>积雪终 日/d</td></tr><tr><td>额尔古纳右旗</td><td>315</td><td>87.5</td><td>311</td><td>91</td><td>94.8</td></tr><tr><td>根河</td><td>306.5</td><td>89</td><td>295</td><td>92</td><td>91.1</td></tr><tr><td>图里河</td><td>307</td><td>88.5</td><td>305</td><td>105</td><td>88.9</td></tr><tr><td>鄂伦春</td><td>313</td><td>83</td><td>315</td><td>108</td><td>85.5</td></tr><tr><td>满洲里</td><td>310</td><td>85.5</td><td>314</td><td>98</td><td>94.3</td></tr><tr><td>陈巴尔虎旗</td><td>312.5</td><td>86</td><td>308</td><td>104</td><td>86.1</td></tr><tr><td>鄂温克旗</td><td>318</td><td>88</td><td>307</td><td>99</td><td>86.1</td></tr></table></body></html>
+
+1.3.1积雪日数SCD气象台站对积雪日的定义为当视野范围内地表1/2以上面积被积雪覆盖时被认为积雪出现,记该天为一个积雪日[3.31]。根据刘俊峰等[32]的研究,不同百分比下所获取的MODIS年积雪日数较台站数据都偏小，但以积雪覆盖率 $> 0$ 为标准得到的MODIS年积雪日数与台站数据最为接近，且从其研究表明东北一内蒙古积雪区用该方法取得到的积雪日数与台站数据相关性较好[33]，所以本文以积雪覆盖率 $> 0$ 来界定积雪日。其算法如下：
+
+$$
+S _ { 0 } ~ = ~ \sum _ { i = 1 } ^ { n } C e i l ( { N _ { i } } \Big / { 1 0 0 } )
+$$
+
+式中： $S _ { 0 }$ 为某像元年积雪日数； $n$ 为一个积雪年中的总天数(273d或274d); $N _ { i }$ 为像元积雪覆盖率；Ceil为向上取整数。即只要像元值 $> 0$ ,就记为一个积雪天数。
+
+1.3.2积雪初日 SCOD为计算 SCOD，需要计算9月1日 $\sim 1 1$ 月30日时间段内的积雪日数 $S C D ^ { \prime }$ 假设研究区一旦开始降雪，在积雪终日前不会融化。SCOD的计算公式为：
+
+$$
+S C O D = D _ { 1 } - S C D ^ { \prime }
+$$
+
+式中： $s C D ^ { \prime }$ 为9月1日 $\sim 1 2$ 月1日内积雪日数; $D _ { 1 }$ 为12月1日对应的儒略日（ $D = 3 3 4 \mathrm { ~ d ~ }$ 或 $3 3 5 \mathrm { ~ d }$ 。1.3.3 积雪终日 SCMD为计算 SCMD,需要计算2月1日～5月31日这段时间内的积雪日数 $S C D ^ { \prime \prime }$ O假设研究区一旦积雪融化，直到下一个积雪季才能再次被积雪覆盖。SCMD 的计算公式为：
+
+$$
+S C M D = D _ { 2 } + S C D ^ { \prime \prime }
+$$
+
+式中： $S C D ^ { \prime \prime }$ 为2月1日\~5月31日内积雪日数; $D _ { 2 }$   
+为2月1日对应的儒略日（ $\angle D = 3 2 { \mathrm { ~ d } }$ ）。
+
+# 2结果分析
+
+# 2.1 SCOD和SCMD精度验证
+
+为验证SCOD和SCMD精度，我们分别比较了额尔古纳右旗等7个气象台站 2011—2013 年SCOD-SCMD与实测数据的重合度，其中积雪初日和终日取两年的平均值。通过计算，本文方法得到的结果与实测数据平均重合率为 $8 9 . 5 \%$ 。可以认为本文积雪初终日计算方法准确度较高。具体来看，本文方法得到的积雪初日结果与实测数据较为接近，而积雪终日偏小，原因可能有以下两点：（1)受云层影响，积雪不能被监测到导致统计天数减少。(2)由于时间分辨率有限,对瞬时降雪不能及时监测。
+
+# 2.2SCD、SCOD及SCMD分布及变化分析
+
+将每年蒙古高原SCD平均后得到蒙古高原多年平均SCD分布图（图2a）。蒙古高原平均积雪天数在 $6 0 \sim 9 0 \mathrm { ~ d ~ }$ 左右， $s C D$ 与纬度的相关性较好，SCD随着纬度的升高逐渐增大，海拔高的地区SCD也相对较大,该趋势与相邻研究区具有一致性[34]。具体来看，内蒙古西部地区多为沙漠和沙地，气候干旱，东南部科尔沁地区由于海拔低温度高，两个地区SCD最短，在 $0 \sim 3 0 \mathrm { ~ d ~ }$ 左右。东北部大兴安岭及其西侧海拔较高，SCD较周围地区大，可达 $1 2 0 \sim 1 5 0 \mathrm { ~ d ~ }$ 左右。西北部山脉地区，纬度和海拔高，温度低，SCD最大,蒙古国阿尔泰山脉和杭爱山脉地区可达到 $1 8 0 \mathrm { ~ d ~ }$ 以上。
+
+通过趋势分析法得到蒙古高原近15aSCD变化情况（图2b），阿尔泰山脉、肯特山脉SCD以减少趋势为主，尤其是阿尔泰山脉南部，下降趋势明显。内蒙古西部也呈下降趋势，这与PAN等的研究结果一致[6],而东部地区总体呈弱的增加趋势。
+
+利用公式计算得到多年平均SCOD和SCMD（图2c和图2e），蒙古高原SCOD和SCMD与SCD分布较为一致，与海拔纬度同样具有较好的相关性。蒙古高原 SCOD主要分布在第 $3 1 5 \sim 3 3 5 \mathrm { ~ d ~ }$ 之间。SCMD大多集中在 $3 1 \sim 6 1 \mathrm { ~ d ~ }$ 之间。而在海拔较高的阿尔泰山脉和杭爱山脉地区SCOD在 $2 5 5 \sim 2 9 5 \mathrm { ~ d ~ }$ 之间，SCMD可以达到91d以上。
+
+![](images/7ac10fe9e621297dd49ec8e2a481005a056d925de7da1edffa77af2b2e350570.jpg)  
+图22002—2016年蒙古高原多年平均SCD、SCOD、SCMD空间分布及变化图
+
+利用趋势分析法得到蒙古高原近15a来SCOD和 SCMD的变化情况（图2d、2f）。SCOD总体呈微弱的提前趋势，SCMD区域差异较大。蒙古高原东部地区SCOD呈明显的提前趋势，SCMD推迟，SCD变大。西南地区 SCOD 推迟,SCMD 提前,SCD 减小。中部地区SCOD提前，SCMD也呈提前趋势，但SCMD 提前程度较 SCOD大，所以总体 SCD呈减小趋势。该结果与SCD变化趋势基本一致。
+
+# 2.3积雪面积变化
+
+利用MODMYD10C1数据统计得到蒙古高原各月平均积雪面积（SnowCoverArea， $s C A$ （图3）。月平均 SCA以当月每日的 SCA 算术平均代表[32]。蒙古高原SCA年内呈“单峰"型。除2002 年、2011年和2015年最大月为12月外，其余年份最大值均为1月份，1月份平均 $s C A$ 为 $1 . 0 2 \times 1 0 ^ { 6 } ~ \mathrm { k m } ^ { 2 }$ ,12月和2月次之。最小的为9月和5月，但都大于零，主要由于蒙古高原阿尔泰山脉、杭爱山脉等海拔较高，存在常年积雪区。
+
+月均SCA算术平均得到近 $1 5 \mathrm { ~ a ~ }$ 年均SCA（图4），可以看到年均 $s C A$ 波动较大，2002年平均SCA面积最大,为 $5 . 9 2 \times 1 0 ^ { 5 } \ \mathrm { k m } ^ { 2 }$ ,2014年面积最小，约为 $2 . 8 6 \times 1 0 ^ { 5 } { \mathrm { k m } } ^ { 2 }$ 。具体来看，从2002—2008年
+
+![](images/fc75be4104cf008abd1498d6a827ff228ef6138f5c5fdfa90829a4fa346e59ce.jpg)  
+Fig.2Multi-year SCD spatial distribution（a）and change（b),SCODdistribution（c）andchange（d),distributionof SCML （e）and change（f）in the Mongolia Plateau from 2OO2 to 2016   
+图3月平均积雪面积变化  
+Fig.3Change in monthly average snow cover area ( $S C A$ ）
+
+![](images/9009fab68152b6e6d2a8b90fd619a89fb4cc5832a0d00b835675ee1a3e20dd4d.jpg)  
+图4年均积雪变化  
+Fig.4Change of annual average snow cover area（SCA)
+
+SCA呈波动中下降趋势，从2009年开始增加，但是在2013年和2014年大幅度减少，2015年后又很快回升。趋势分析得到年均SCA变化趋势，可以看到积雪面积呈略微减少的趋势,这与萨楚拉等[22]的研究结果基本一致。
+
+# 2.4最大积雪覆盖与温度的关系
+
+温度是影响积雪面积变化的主要因素之一，积雪面积随温度的变化而呈现出收缩扩张的动态变化对于蒙古高原积雪的研究具有重要意义。由于温度数据有限，仅分析2002—2013年12个积雪季的变化。利用最大值合成法得到各月的最大积雪覆盖，多年平均得到各月最大积雪覆盖均值。由于较小的积雪覆盖率很难体现与温度的关系，故本文只取积雪覆盖率大于20的像元作为积雪覆盖区，温度与积雪覆盖两幅影像叠加得到积雪覆盖区的温度分布图（图5）。
+
+年内最大积雪覆盖的变化趋势与积雪面积变化趋势一致，从9月份开始积雪面积变大，由北向南扩张，1月达到最大值，几乎覆盖了整个蒙古高原，然后逐渐减少，由南向北收缩。除9月和5月外，积雪面积的扩张收缩与纬度呈现较好的相关性，积雪覆盖时间最短的是阿拉善和科尔沁地区，主要因为阿拉善地区干旱降雪少;科尔沁地区海拔较低，积雪季内平均温度较同纬度地区高 $3 \mathrm { ~ \textdegree C }$ 以上。
+
+积雪季内温度总体先降低后升高，除北部山脉地区外，温度与纬度也呈现较好的相关性，温度最低值主要分布在大湖盆地地区以及大兴安岭地区。从9月到12月,温度降低趋势在 $1 0 \mathrm { ~ \textdegree ~ { ~ \cdot ~ } ~ } \operatorname { m o n } ^ { - 1 }$ 左右，12月 $\sim$ 次年2月温度相对稳定。2\~5月，气温升高趋势在 $1 0 \mathrm { ~ \textdegree ~ { ~ \cdot ~ } ~ m o n ~ } ^ { - 1 }$ 左右。
+
+12月、1月和2月为年内积雪覆盖最大的三个月，积雪面积和温度相对稳定，积雪覆盖区与非积雪覆盖区的边界温度在 $- 1 1 \sim - 8 \mathrm { ~ } \mathrm { { ^ C } }$ 左右，表明蒙古高原稳定积雪覆盖区的临界温度可能在 $\mathrm { ~ - 1 1 ~ / ~ } \mathrm { ~ - ~ } 8 \mathrm { ~ } \mathrm { ~ } \mathrm { ~ C ~ }$ 之间。
+
+# 2.5积雪特征与气温的关系
+
+积雪季降水多以雪的形式降落到地表，所以本文主要研究气温与积雪特征的关系。其中温度为多年平均气温。
+
+通过趋势分析法得到蒙古高原气温变化分布图（图6a），其中温度呈上升和下降趋势的地区分别占$5 0 . 9 4 \%$ 和 $4 9 . 0 4 \%$ ,阿尔泰山脉和阿拉善地区温度呈较为明显的上升趋势,上升幅度在 $0 . 1 \mathrm { ~ \textdegree C ~ } \cdot \mathrm { ~ a ~ } ^ { - 1 } |$ 以上。大湖盆地以及大兴安岭地区温度呈明显的下降趋势,降低幅度也在 $0 . 1 \mathrm { ~ } \mathrm { ~ \textdegree ~ } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ 以上。
+
+通过相关分析，得到 $s C D$ （图6b）、SCOD（图6c)和SCMD（图6d）与气温的相关关系。可以看到,积雪特征与温度具有明显的相关关系。 $s C D$ 与温度具有明显的负相关关系[30],其中 $8 8 . 2 2 \%$ 的地区 $2 3 . 2 4 \%$ 为显著)和温度呈负相关， $1 1 . 3 \%$ 的地区 $0 . 1 5 \%$ 为显著)和温度呈正相关。SCOD与气温呈明显的正相关关系，其中呈正相关的地区占$8 0 . 7 7 \%$ (10. $89 \%$ 为显著），呈负相关的地区占19. $24 \%$ （ $0 . 2 9 \%$ 为显著)。SCMD与气温呈明显的负相关关系，呈负相关的地区占 $8 7 . 4 1 \%$ （ $2 5 . 0 1 \%$ 为显著），呈正相关的地区仅占 $1 2 . 1 1 \%$ （ $0 . 1 2 \%$ 为显著)。其中显著相关的地区通过 $\textstyle P < 0 . 0 5$ 的显著性检验。呈显著相关的地区也具有相似性，主要分布在肯特山脉、锡林郭勒和阿拉善地区。可以认为温度是影响积雪特征变化的重要因素。
+
+# 3结论
+
+利用MODIS积雪产品，分析蒙古高原近15a积雪特征的分布及变化，并结合温度数据，分析积雪特征与温度的相关性，得到以下结果：
+
+（1）蒙古高原平均 $s C D$ 在 $6 0 \sim 9 0 \mathrm { ~ d ~ }$ 左右， $s C D$ 与纬度的相关性较好，随着纬度的升高逐渐增大，海拔高的地区SCD也相对较大。东部地区SCD呈微弱的上升趋势，西南地区呈显著的下降趋势。蒙古高原SCOD主要分布在第 $3 1 5 \sim 3 3 5 \mathrm { ~ d ~ }$ 之间,SCMD大多集中在 $3 1 \sim 6 1 \mathrm { ~ d ~ }$ 之间。蒙古高原东部地区SCOD呈较明显的提前趋势，SCMD推迟，SCD变大。西南地区SCOD推迟，SCMD提前， $s C D$ 变小。中部地区SCOD提前， $S C M D$ 也呈提前趋势，但SCMD提前程度较SCOD大，所以总体SCD呈减小趋势。
+
+![](images/65f637debdd80d091fabdd60fd2e8763fe2f92a6b08d21972614426a41c122c0.jpg)  
+Fig.5Temperature distribution of snow covered area in each month in snow season
+
+![](images/80ae037908b5688946f60cd4fe3338566c3dd8b86026fc11a435c770c23ea165.jpg)  
+图5积雪季内各月积雪覆盖区温度分布图  
+图6蒙古高原气温变化及其与SCD、SCOD和SCMD的相关性  
+Fig.6Temperature variation in the Mongolia Plateau and its correlation with $S C D , S C O D$ and SCMD
+
+（2）SCA在积雪季内呈“单峰型”，1月份为SCA 最大月，平均 $s C A$ 为 $1 0 1 . 6 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ 。年均SCA 波动较大,总体有微弱的下降趋势。
+
+（3）最大积雪覆盖面积与温度具有明显的相关性。从9月到12月，平均温度降低趋势为 $1 0 \ \mathrm { ^ { c } }$ ·$\mathrm { { m o n } } ^ { - 1 }$ ,12月到次年2月温度相对稳定。2月到5月，平均气温升高趋势为 $1 0 \mathrm { ~ \textdegree ~ { ~ \cdot ~ } ~ } \mathrm { m o n } ^ { - 1 }$ 。蒙古高原稳定积雪覆盖区的临界温度可能在 $- 8 \sim - 1 1 ~ \mathrm { { ^ C } }$ 之间。
+
+（4）SCD、SCMD与温度具有较为显著的负相关关系，SCOD与温度具有较为明显的正相关关系，较高的相关性可以表明温度是影响积雪的重要因素
+
+# 参考文献(References)
+
+[1] WANG SY,YINH,YANGQC,etal. Spatiotemporal patterns of snow cover retrieved from NOAA-AVHRR LTDR:A case study in the Tibetan Plateau,China［J].International Journal of Digital Earth,2017,10(5):504-521.   
+[2] 邱玉宝，张欢，除多，等.基于MODIS的青藏高原逐日无云积 雪产品算法［J].冰川冻土，2017，39（3）：515-526.［QIU Yubao,ZHANG Huan,CHU Duo,et al.Cloud removing algorithm for the daily cloud free MODIS-based snow cover product over the Tibetan Plateau[J].JournalofGlaciologyand Geocryology,07, 39(3) :515 -526.]   
+[3]李培基,米德生.中国积雪的分布[J].冰川冻土,1983,5（4)： 9-18.［LI Peiji,MI Desheng.Distribution of snow cover in China [J]. Journal of Glaciology and Geocryology,1983,5（4）:9-18.]   
+[4］于灵雪,张树问,卜坤,等.雪数据集研究综述[J].地理科学, 2013,33（7）:878 -883．[YU Lingxue,ZHANG Shuwen,BU Kun,et al.A review on snow data sets[J].Scientia Geographica Sinica,2013,33(7) :878 -883.]   
+[5］李玉婷,柳锦宝,王增武,等.2003—2012 年四川省积雪时空动 态变化与气候响应研究[J].冰川冻土,2016,38(6)：1491- 1500.[LI Yuting,LIU Jinbao,WANG Zengwu,et al.Studyof spatiotemporal dynamics and climate response of snow cover in Sichuan Provincefrom 2003 to 2012[J].Journalof Glaciologyand Geocryology,2016,38(6):1491-1500.]   
+[6]PAN X D,LI X,CHENG G D,et al.Impact analysis of climate change on snow over a complex mountainous region using weather research and forecast model（WRF） simulation and moderate resolution imaging spectroradiometer data（MODIS）)-terra fractional snow cover products[J].Remote Sensing,2017,9(8）:774.   
+[7］唐志光,王建,王欣,等.基于 MODIS 数据的青藏高原积雪日 数提取与时空变化分析[J].山地学报,2017,35（3)：412- 419.[TANG Zhiguang,WANG Jian,WANG Xin,et al.Extraction and spatiotemporal analysis of snow covered days over Tibetan Plateau based on MODIS data[J].Mountain Research,2017,35（3）: 412 -419.]   
+[8]HALL D K,KELLY R E J,RIGGS G A,et al. Assessment of the relative accuracy of hemispheric-scale snow-cover maps[J].Annals of Glaciology,2002,34:24-30.   
+[9］王国强.内蒙古草原区积雪资源时空分布及影响因子研究 [D].呼和浩特：内蒙古农业大学,2011.［WANG Guoqiang.The analysis of snow distribution and impact factors in Inner Mongolia grassland[D].Hohhot：Inner Mongolia Agricultural University, 2011]   
+[10]SANKEY T,DONALD J,MCVAY J,et al. Multi-scale analysis of snow dynamics at the southern margin of the North American continental snow distribution[J].Remote Sensing of Environment, 2015,169:307 - 319.   
+[11］宾婵佳,邱玉宝,石利娟,等.我国主要积雪区AMSR-E被动微 波雪深算法对比验证研究［J].冰川冻土,2013,35（4）：801- 813.[BIN Chanjia,QIU Yubao,SHI Lijuan,et al. Comparative validation of snow depth algorithms using AMSR-E passive microwavedatain China[J].Journalof GlaciologyandGeocryology, 2013,35(4) :801 - 813. ]   
+[12］郑照军,刘玉洁.1980—2007年中国主要积雪区的积雪面积时 间特征分析[C]//中国气象学会 2007年年会,2007.［ZHENG Zhaojun,LIU Yujie.Analysis on the temporal characterization of area of 1980—2007 main snow cover over China[C]// Chinese Meteorological Society2007Anual ConferenceProcedings, 2007.]   
+[13］唐小萍,闫小利,尼玛吉,等.西藏高原近40 年积雪日数变化 特征分析[J].地理学报,2012,67（7）:951-959.[TANG Xiaoping,YAN Xiaoli,NI Maji,etal. Changes of the snow cover days on Tibet Plateau in last 4O years[J].Acta Geographica Sinica, 2012,67(7) :951-959.]   
+[14］曾小箕,丁建丽,鄢雪英,等.基于MODIS 数据的土库曼斯坦 山区积雪监测[J].干旱区地理,2013,36（4）：717－ 723. [ZENG Xiaoji,DING Jianli,YAN Xueying,et al. Snow monitoring using MODIS in Turkmenistan Mountains[J].Arid Land Geography,2013,36(4) :717 - 723.]   
+[15］唐志光,王建,王欣,等.近15 年天山地区积雪时空变化遥感研 究[J].遥感技术与应用,2017,32（3）：556-563.[TANG Zhiguang,WANG Jian,WANG Xin,et al.Spatiotemporal variation of snow cover in Tianshan Mountains based on MODIS[J].Remote Sensing Technology and Application,2017,32(3）:556-563.]   
+[16］包刚,包玉海,覃志豪,等.近10 年蒙古高原植被覆盖变化及 其对气候的季节响应[J].地理科学,2013,33（5)：613-621. [BAO Gang,BAO Yuhai,QIN Zhihao,et al.Vegetation cover changes in Mongolian Plateau and its response to seasonal climate changes in recent1yearsJ].Scientia Geographica Sinica,2013, 33(5) :613 -621.]   
+[17］薛海源,陈海山,华文剑.内蒙古地区植被对气候变化的响应 [J].气象与减灾研究,2015,38（2）:8-15.[XUEHaiyuan, CHEN Haishan,HUA Wenjian.Responsesof vegetation tocimate change in Inner Mongolia[J].Meteorology and Disaster Reduction Research,2015,38(2):8-15.]   
+[18］丹丹.蒙古高原近35 年气候变化[D].呼和浩特：内蒙古师范 大学,2014.[DAN Dan. Climate changes in Mongolia Plateau duringlast35years[D].Hohhot:Inner Mongolia Normal University, 2014.]   
+[19］JAAGUS J.The impact of climate change on the snow cover pattern in Estonia[J]. Climate Change,1997,36(1/2）:65 -77.   
+[20］萨楚拉.内蒙古草原牧区雪灾监测与风险评价研究[D].北 京：中国农业科学院,2015.[SACHULA.Pastral and grassland snow hazard monitoring and risk assessment research in Inner Mongolia［D].Beijing: Chinese Academy of Agricultural Sciences, 2015.]   
+[21]TAO S L,FANG JY,ZHAO X,et al.Rapid loss of lakes on the Mongolian Plateau[J].Proceedings of the National Academy of Sciences of the United States of America,2015,112(7):2281-2286.   
+[22]萨楚拉,刘桂香,包刚,等.近10 年蒙古高原积雪面积时空变 化研究［J].内蒙古师范大学学报（自然科学版),2012,41 （5）:531-536.[SACHULA,LIU Guixiang,BAO Gang,et al. The spatial and temporal changes of snow cover of the Mongolian Plateau in recent 1O years[J].Journal of Inner Mongolia Normal University（Natural Science Edition）,2012,41(5）:531-536.]   
+[23]PUREVJAV D,BAO Yuhai,BATSAIHAN V,et al. Spatiotemporal changes of snow cover in the Mongolian Plateau during 2001- 2012[J].Nature of Inner Asia,2017,1(2):95-101.   
+[24]CHENJQ,JOHNR,SHAO C L,et al.Policy shifts influence the functional changes of the CNH systems on the Mongolian Plateau [J].Environmental Research Letters,2015,10(8）:15.   
+[25］HALL D K. MODIS snow cower product[J].Remote Sensing of Environment,2002,39:432-438.   
+[26]WANG X,XIE H.New methods for studying the spatiotemporal variation of snow cover based on combination products of MODIS Terra and Aqua[J].Journal of Hydrology,2009,371（1/4）:192- 200.   
+[27]BAO G,QIN Z H,BAO Y H,et al. NDVI-based long-term vegetation dynamics and its response to climatic change in the Mongolian Plateau[J]. Remote Sensing,2014,6(9）:8337 -8358.   
+[28］刘俊峰，陈仁升.基于MODIS 双卫星积雪遥感数据的积雪日 数空间分布研究[J].冰川冻土，2011,33（3）：504-511.[LIU Junfeng,CHEN Rensheng.Validation of MODIS snow covered days by the combined using of MODIS Aqua and Terra snow cover products and in-situ observations all over China[J]. Journal of Glaciology and Geocryology,2011,33（3）:504-511.]   
+[29］杨倩,陈圣波,路鹏,等.2000—2010 年吉林省积雪时空变化特 征及其与气候的关系[J].遥感技术与应用，2012,27（3）： 413-419.[YANG Qian,CHEN Shengbo,LU Peng,et al. Spatiotemporal variation of snow cover in Jilin Province and its relationships to climate change from 200O to 2010[J].Remote Sensing Technology and Application,2012,27(3）:413-419.]   
+[30］张海军.2000—2009 年东北地区积雪时空变化研究［D].长 春：吉林大学,2010.［ZHANG Haijun.Study on spatio-temporal variations of snow from 2OOO to 2OO9 in Northeast China[D]. Changchun:Jilin University,2010.]   
+[31］安迪，李栋梁，袁云，等.基于不同积雪日定义的积雪资料比较 分析[J].冰川冻土，2009，31（6)：1019-1027.[ANDi，LI Dongliang,YUAN Yun,et al.Contrast between snow cover data of different definitions[J]. Journal of Glaciology and Geocryology, 2009,31(6):1019-1027.]   
+[32］刘俊峰，陈仁升，宋耀选.中国积雪时空变化分析[J].气候变 化研究进展,2012,8（5）:364-371.［LIUJunfeng,CHENRensheng,SONG Yaoxuan.Distribution and variation of snow cover in China[J].Climate Change Research,2012,8(5）:364-371.]   
+[33］刘俊峰，陈仁升.东北一内蒙古地区基于MODIS 单、双卫星积 雪数据及常规积雪观测结合的积雪日数研究[J].遥感技术与 应用,2011,26(4）:450-456.[LIU Junfeng,CHEN Rensheng. Studying the MODIS snow covered days by the use of MODIS aqua/terra snow cover products and insitu observations in north eastern and Inner Mongolia Region[J].Remote Sensing Technology and Application,2011,26(4） :450 -456.]   
+[34]DIETZ AJ,KUENZER C,CONRAD C. Snow-cover variability in Central Asia between 20OO and 2011 derived from improved MODIS daily snow-cover products[J]. International Journal of Remote Sensing,2013,34(11）:3879-3902
+
+# Spatiotemporal changes of snow cover in Mongolian Plateau based on MODIS data
+
+JIANG Kang1， BAO Gang1,²， WULANTUYA1， JIANG Li1， WANG Mu-lan1 (1Collge of Geographical Science,Inner Mongolia Normal University,HohhotOloo22,Inner Mongolia,China; 2Iner MongoliaKeyLaboratoryof Remote SensingandGeographic InformationSystems,Inner MongoliaNormal University, Hohhot O10022,Inner Mongolia,China)
+
+Abstract:The paper extracted the snow cover days（SCD）,snow cover area（SCA）,snow cover onset dates （SCOD）and snow cover melting dates（SCMD）in the Mongolian Plateauusing the daily snow cover products MOD10Cl and MYD10C1 derived from the Terraand Aqua satelite from September1,2002 to May31,2017.At the same time,the temperature fromthe 108 weather stations across the plateau was used to analyze the relationship between snow cover characteristics and temperature.The paper used the pixel discrimination method to identify snow-covered pixels,and used the method of pixel accumulation to obtain the annual snow cover days of the plateau.The results show as follows:（1）The average $S C D$ in the Mongolian Plateau ranged between 6O and 9O days, and it was correlated well with latitude. The $S C D$ in the eastern region showed a slight upward trend and the southwestern region showed a significant downward trend. The $S C O D$ in the plateau was mainly distributed between 315 and 335 days,and SCMD was mostlyconcentrated between 31 and 61 days.The SCOD in the east of the plateau showed a clear trend of moving early.(2） SCA presented“single-peak” during the snow season. The $S C A$ reached its maximum value in January,and the average $s C A$ was $1 0 1 . 6 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ . The average annual $S C A$ fluctuated greatly and there was a weak downward trend overall. （3）The maximum coverage area of snow has a significant correlation with temperature.From September to December,the average temperature was dropped by around $1 0 \mathrm { ~ } \mathrm { { ~ ‰ ~ } }$ per month,and the temperature wasrelatively stable from December to February.From February to May,the average temperature was risen by around $1 0 ~ \mathrm { { ^ { \circ } C } }$ per month.（4）There is a significant negative correlation between $S C D , S C$ ， MD and temperature.SCOD has a significant positive correlation with temperature.A higher correlation can indicate thattemperature is a key factor afecting snow cover.The paper used MODIS data to analyze the spatial and temporal distribution and changes of snowcover inthe Mongolian Plateau,and could provide referenceforthe subsequent changes in water resources and vegetation growth in the Mongolian Plateau.At the same time,this paper also shows the dynamic changes of snow in the Mongolian Plateau during the years and the relationship with temperature,which provides a basis for disaster prevention and animal husbandry in the Mongolian Plateau.
+
+Key words:Mongolian Plateau；snow cover；MODIS；climate change； temperature

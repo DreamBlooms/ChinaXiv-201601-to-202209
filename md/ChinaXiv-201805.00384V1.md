@@ -1,0 +1,327 @@
+# 改进PF算法在煤与瓦斯突出AE信号去噪中的研究
+
+付华，齐晓娟
+
+(辽宁工程技术大学 电气与控制工程学院，辽宁 葫芦岛 125105)
+
+摘要：煤与瓦斯突出会产生声发射信号（acousticemisson，AE），针对提取较纯净有效的AE信号问题，提出一种邻域动态调整（D）果蝇算法（fruitflyalgorithm，FOA）智能优化粒子滤波（particlefilter，PF）的去噪方法。利用果蝇个体表征PF中的每个信号点粒子，优化粒子滤波的重采样过程，并通过动态调整邻域粒子数量来改善果蝇算法的寻优能力和收敛速度。以均方根误差和信噪比为评价指标，对信号采集系统获取的煤与瓦斯突出AE信号分别用标准粒子滤波、果蝇优化粒子滤波、改进粒子滤波去噪，结果表明，改进粒子滤波法的信噪比提升了 $1 5 . 3 \mathrm { d B }$ 左右，且均方根误差最低。和其他两方法相比，改进粒子滤波去噪效果最优。
+
+关键词：煤与瓦斯突出；AE 信号；去噪；粒子滤波；果蝇算法；邻域动态调整 中图分类号：TN911.7 doi:10.3969/j.issn.1001-3695.2017.09.0924
+
+Research on de-noising of AE signals of coal - gas outbursts by improved PF algorithm
+
+Fu Hual, Qi Xiaojuan² (Faculty of Electrical & Control Engineering Liaoning Technical University,Huludao Liaoning 1251o5,China)
+
+Abstract: Coal-gas outbursts produce acoustic emision signals (AE).Given the problemofextracting more pure andeffective AE signals,this paper proposes an intellgent optimized particle filter(PF)of neighborhooddynamic adjustment (D)forfruit flyalgorithm (FOA).Each fruit flyindividualcharacterizingsignalparticleofFisused tooptimize theresampling procesof particle fitering,and adjusting thenumberof neighboring particles dynamicall improves the optimization ability and convergencerateoffruitflyalgorithm.Takingthrot-mean-squareerrorandsignal-to-noiseratioastheevaluationindex,from signal acquisitionsystem,theAEsignalsofcoal-gasoutburstarerespectivelyde-noising bystandard particle filter,fruitfly optimizedparticlefilterandimprovedparticlefilter.Theexperimentresultsshowthatthesignal-to-noiseratiooftheoptimized particle filteralgorithm is improvedbyabout15.3dB,and therot-mean-squareeroristhelowest.Compared withother two methods,the improved particle filter has the best de-noising effect.
+
+KeyWords:coal-gasoutbursts;acousticemisionsignal;de-noising;particlefilter;fruitflyal-gorithm;neighborhooddyamic adjustment
+
+# 0 引言
+
+声发射(acousticemission，AE)信号是煤与瓦斯突出时释放出的一种非平稳非线性的瞬时弹性波[1]。对声发射行为的监测，现已逐步成为防治矿井存在的煤与瓦斯突出灾害的重要手段[2-3]。在 AE信号采集过程中，由于煤矿采掘现场环境嘈杂，使 AE信号采集系统获取的传感器信号中存在大量不同的噪声干扰，将会对后续AE信号的特征提取、识别、预测等研究工作产生恶劣影响，因此对AE信号去噪的研究尤为重要。直至当前，国内外学者已提出了多种信号去噪方法并取得了良好的效果，但其中也不乏局限性的存在，例如：经典卡尔曼滤波法一般用于解决线性信号的去噪问题，不适用于非线性非平稳的AE 信号的去噪；文献[4]利用小波分析法对 AE 信号降噪，但小波分析法受小波基函数选取偏差的限制，去噪效果会受其影响，且对信噪比较低的信号去噪精度不理想；文献[5]提出了EMD 去噪算法，在对信号的高频序列滤波时会出现失真，且易出现信号的模态混叠问题。
+
+粒子滤波是一种较新的滤波技术，其不受系统非线性及噪声服从高斯分布的限制，适用于任何可由状态空间模型描述的系统，大大提高算法的适用范围。基于此，文献[6]提出了基于阈值去噪下的粒子滤波法，取得了较好的去噪效果，但其没有解决重采样过程的粒子贫化问题，去噪精度有待进一步提高。
+
+分析了以上方法存在的某些不足，本文提出动态邻域(D)调整果蝇算法（fruit flyoptimization algorithm,FOA）优化粒子滤波（particlefilter，PF）的方法，建立声发射信号状态空间模型，并进行煤与瓦斯突出的AE信号的去噪处理。和其他去噪方法对比，该去噪方法能够表现更好的去噪效果，弥补了其他方法的不足。
+
+# 1粒子滤波去噪算法
+
+粒子滤波是一种基于MonteCarlo思想的贝叶斯估计方法，已在信号处理、故障诊断、多目标跟踪等多领域涉猎研究[7-9]。
+
+粒子滤波处理随机信号的主要思想是：在状态空间中，通过加权求和代替积分运算，对随机信号 $\mathbf { x _ { k } ^ { \mathrm { i } } }$ （ $\mathbf { i } = 1 , 2 , \cdots , \mathbf { N } \ \cdot$ 的后验概率密度 $\mathrm { p } ( \mathrm { x } _ { \mathrm { k } } | \mathrm { z } _ { 1 : \mathrm { k } } )$ 进行近似，再由系统观测函数 $\mathbf { z } _ { \mathrm { 1 : k } }$ 的不断更新，实现随机信号的最小方差估计[10]，即
+
+$$
+\mathsf { p } ( \mathbf { x _ { k } } \mid \mathbf { z } _ { \mathrm { l : k } } ) = \frac { 1 } { \mathrm { N } } \sum _ { \mathrm { i = 1 } } ^ { \mathrm { N } } \mathbf { f } ( \mathbf { x _ { k } ^ { \mathrm { i } } } ) = \sum _ { \mathrm { i = 1 } } ^ { \mathrm { N } } \mathsf { o } _ { \mathbf { k } } ^ { \mathrm { i } } \mathbf { f } ( \mathbf { x _ { k } ^ { \mathrm { i } } } )
+$$
+
+其中: ${ \boldsymbol { \omega } } _ { \mathrm { k } } ^ { \mathrm i }$ 为粒子的权值， $\mathrm { ~  ~ N ~ }$ 为采样粒子数。
+
+实际上，粒子滤波去噪算法是对随机信号分布的真实状态的一种逼近估计，从而达到滤除噪声的效果，因而本文研究的AE 信号的去噪问题其实就转换成了对AE 信号真实分布的状态估计问题。
+
+利用粒子滤波对 AE信号进行去噪，首先要建立随机信号模型：
+
+$$
+{ \bf x _ { k } } = { \bf g } ( { \bf x } ( { \bf k } - 1 ) , { \bf k } - 1 ) + { \bf e _ { k - 1 } }
+$$
+
+$$
+{ \bf z } _ { \bf k } = { \bf h } ( { \bf x } ( { \bf k } ) , { \bf k } ) + { \bf v _ { \bf k } }
+$$
+
+然后，启动粒子滤波器模型： $\scriptstyle \mathbf { k } = 0$ 时刻，从先验分布 $\mathbf { p } ( \mathbf { x } _ { 0 } )$ （其中 $\mathbf { x } _ { 0 } ^ { \mathrm { i } } \sim \mathbf { N } ( \hat { \mathbf { x } } _ { 0 \mid 0 } , \mathbf { P } _ { 0 \mid 0 } )$ )中采样 $\mathrm { ~  ~ N ~ }$ 个信号点作为初始样本，给定初始权值 $\frac { 1 } { \mathrm { ~ N ~ } }$
+
+再从重要性分布 $\mathbf { q } ( \mathbf { x _ { k } } \mid \mathbf { x _ { k - 1 } } , \mathbf { z _ { k } } )$ 中采样 $\mathbf { k } { + } \mathbf { l }$ 时刻的信号点作为初步估计值；若有效信号点的数量满足式（4)
+
+$$
+\hat { \bf N } _ { \mathrm { e f f } } = \frac { 1 } { \displaystyle \sum _ { \mathrm { i = 1 } } ^ { \mathrm { N } } ( \mathrm { \omega } \mathrm { \omega } _ { \mathrm { k } } ^ { \mathrm { i } } ) ^ { 2 } } < { \bf N } _ { \mathrm { t h r } }
+$$
+
+则进入到重采样环节，选择权值较大的信号点复制，较小的删除：
+
+$$
+{ \mathfrak { o } } _ { \mathbf { k } } ^ { \mathrm { i } } = { \mathfrak { o } } _ { \mathbf { k } - 1 } ^ { \mathrm { i } } { \frac { \mathrm { p } ( \mathbf { z } _ { \mathbf { k } } \mid \mathbf { x } _ { \mathbf { k } } ^ { \mathrm { i } } ) \mathrm { p } ( \mathbf { x } _ { \mathbf { k } } ^ { \mathrm { i } } \mid \mathbf { x } _ { \mathbf { k } - 1 } ^ { \mathrm { i } } ) } { \mathrm { q } ( \mathbf { x } _ { \mathbf { k } } ^ { \mathrm { i } } \mid \mathbf { x } _ { \mathbf { k } - 1 } ^ { \mathrm { i } } , \mathbf { z } _ { \mathbf { k } } ) } }
+$$
+
+最后，令 $\mathbf { k } { = } \mathbf { k } { + } 1$ ，重复以上过程；满足最大迭代次数或精度要求即输出估计的信号状态：
+
+$$
+{ \bf x _ { k } } = \sum _ { \mathrm { i } = 1 } ^ { \mathrm { N } } \omega _ { \bf k } ^ { \mathrm { i } } \delta ( { \bf x _ { k } } - { \bf x _ { k } ^ { \mathrm { i } } } )
+$$
+
+其中: ${ \bf e } _ { { \bf k } - 1 }$ 为k-1时刻的系统噪声； $\mathbf { v _ { k } }$ 为观测噪声； $\mathrm { g } ( \bullet )$ 为状态转移函数； $\mathbf { h } ( \bullet )$ 为观测函数； $\mathbf { N } _ { \mathrm { t h r } }$ 为门限值。
+
+粒子滤波中 $\hat { \mathbf { N } } _ { \mathrm { e f f } }$ 决定着对AE 信号去噪的精度高低，而随着迭代次数增加，权值较大的信号点大量增加，权值偏小的信号点所剩无几，按照式（4）可以推出， $\hat { \mathbf { N } } _ { \mathrm { e f f } }$ 在不断降低，并且作为预测状态的信号点种类趋于单一化，即重采样过程造成了粒子贫化现象，大大提高了估计误差，限制了粒子滤波去噪算法的性能。
+
+# 2 D-FOA优化粒子滤波去噪算法
+
+# 2.1果蝇算法
+
+果蝇优化算法是基于生物觅食行为推演出的寻求全局优化的群智能算法[1]。发挥果蝇在觅食中视觉和嗅觉的优势来设计寻求最优解的搜索行为，由此进行迭代寻优，解决了流水线、资源约束项目等调度问题[12]。
+
+本文采用果蝇算法对粒子滤波的重采样过程进行优化改进，用果蝇群体表征信号点粒子，通过果蝇算法良好的寻优能力得到更多的有效粒子，解决粒子贫化问题。
+
+果蝇算法通过多次迭代，更新果蝇位置，从而选择携带味道浓度值最大的果蝇作为最优解。位置更新按下式执行：
+
+$$
+\begin{array} { r l } & { \mathrm { X _ { m + 1 } ^ { i } } = \mathrm { X _ { m } ^ { i } } + 2 \mathrm { r } \times \mathrm { r a n d o m v a l } \mathbf { u } - \mathrm { r } } \\ & { \mathrm { Y _ { m + 1 } ^ { i } } = \mathrm { Y _ { m } ^ { i } } + 2 \mathrm { r } \times \mathrm { r a n d o m v a l } \mathbf { u } - \mathrm { r } } \end{array}
+$$
+
+味道浓度值由下式控制：
+
+$$
+\mathbf { M } _ { \mathbf { k } } ^ { \mathrm { i } } = \exp \{ - \frac { 1 } { 2 \mathbf { R } _ { \mathbf { k } } } ( \mathbf { z } _ { \mathbf { n } } - \mathbf { z } _ { \mathbf { p } } ) \}
+$$
+
+其中: $\mathrm { ~ m ~ }$ 是迭代次数； $\mathbf { i } ( = 1 , 2 , \cdots , \mathbf { N } )$ 是果蝇个体； $\mathrm { ~  ~ N ~ }$ 是果蝇个体总数；randomvalue-r 是[0,1]内的随机数； $\mathbf { R } _ { \mathbf { k } }$ 是量测噪声方差； $Z _ { \mathrm { n } }$ 是更新的量测值，即粒子到目标的实际距离； $\mathsf { z _ { p } }$ 是预测量测值，即粒子到果蝇的预测距离。
+
+基于果蝇算法优化粒子滤波重采样的过程如下：
+
+a)初始化：令式（7）（8）中 $\mathrm { m } = 0$ ， $\mathbf { i } = 1 , 2 , \cdots , \mathbf { N }$ ：
+
+b)嗅觉搜索：按式（7）（8）更新路径，找寻权值较大的信号点粒子；
+
+c)评价个体：由式(9)计算果蝇个体释放的味道浓度 ${ \bf { M } } _ { \mathrm { { k } } } ^ { \mathrm i }$ ：
+
+d)视觉搜索：选择 $\operatorname* { m a x } ( \mathbf { M } _ { \mathbf { k } } ^ { \mathrm { i } } .$ 的果蝇个体作为寻得 $\operatorname* { m a x } ( \omega _ { \mathrm { k } } ^ { \mathrm { i } } )$ 的粒子；
+
+e)若终止准则满足，则输出权值最大粒子，否则，令 $\mathbf { m } = \mathbf { m } + 1$ 转至b)。
+
+在上述果蝇算法寻优求解的过程中，无法根据每一个粒子的状态和其邻域环境参数调整邻域粒子状态，易陷入局部最优而无法得到精确的全局最优解，间接影响了AE信号的去噪精度。
+
+# 2.2 D-FOA优化算法
+
+为解决3.1中无法寻求全局最优解的问题，引入一个调节因子--多样性因子D，D可以反映粒子多样性的程度，从而达到调控邻域粒子数量的目的。
+
+果蝇曾达到过的最大味道浓度值集合为$\mathbf { M _ { k } ^ { i } } = \{ \mathbf { M _ { k } ^ { l } } , \mathbf { M _ { k } ^ { 2 } } , \cdots , \mathbf { M _ { k } ^ { N } } \}$ 。分别取味道浓度的最大值 $\mathbf { M } _ { \mathrm { m a x } }$ 、最小值$\mathbf { M } _ { \operatorname* { m i n } }$ ，将 $[ \mathbf { M } _ { \mathrm { m i n } } , \mathbf { M } _ { \mathrm { m a x } } ]$ 平均分成 $\mathrm { ~  ~ N ~ }$ 个小区域，则多样性因子可表示为
+
+$$
+\mathrm { \Delta D = - \sum _ { i = 1 } ^ { N } p _ { i } \log ( p _ { i } ) }
+$$
+
+其中： $\mathrm { { p } _ { i } = \frac { a _ { i } } { N } }$ 为落入每个区域占比， $\mathbf { a } _ { \mathrm { i } }$ （ $\mathbf { i } = 1 , 2 , \cdots , \mathbf { N }$ ）为每个区域粒子数（粒子总数 $\sum _ { \mathrm { i = 1 } } ^ { \mathrm { N } } \mathrm { a _ { \mathrm { i } } = N }$ ）。
+
+具体对果蝇个体的控制策略为：如果当前次该果蝇的D值比前一次的值小，说明果蝇个体的多样性降低，此时应当减少该果蝇邻域范围的果蝇数量；如果当前次该果蝇的D值比前一次的值大，说明果蝇个体的多样性升高，此时应当增加该果蝇邻域范围的果蝇数量。
+
+在上述策略中，由以下两式控制邻域范围的果蝇数量：
+
+扩展因子： $\mathrm { E _ { i } = \frac { \Delta \ n u m b e r _ { i } U _ { i } } { \frac { 1 } { U _ { i } } } \sum _ { j \in n \ e i g h b o u m b e r _ { j } U _ { j } ) } ^ { n u m b e r _ { i } U _ { i } } }$ 限制因子： $\mathrm { R _ { i } = \frac { 1 } { V _ { i } } ( d n u m b e r _ { i } - 1 ) }$ 其中：number表示第i个果蝇的味道浓度值在所有果蝇中的排列序号（按函数值由小到大排列）， $\mathbf { U _ { i } }$ 表示第i个果蝇的邻域果蝇数，neighbor(i)表示第i个果蝇的邻域果蝇的集合；dnumber 表示第i个果蝇的目标函数值在所有果蝇中的排列序号（按函数值由小到大排列）， $\mathrm { \Delta V _ { i } }$ 表示第i个粒子的邻域粒子数。
+
+多样性因子D的加入，有效控制果蝇的邻域果蝇的数量，提高果蝇全局寻优能力，加快收敛速度，使得粒子快速向高似然区运动，缓解了粒子贫乏。
+
+# 3 基于D-FOA-PF算法的AE信号去噪
+
+# 3.1基于D-FOA-PF的AE信号去噪算法
+
+采用邻域动态调整果蝇算法优化粒子滤波，对 AE 信号的状态进行跟踪，经多个周期迭代，取达到最优目标值的粒子预测下一次的AE信号状态，并输出估计的AE信号状态。算法的流程图如图1所示。
+
+![](images/00d726b68b8615b25ee4eaecec703ffb7c8a5912936e8c895c58ef70ce3a8c40.jpg)  
+图1D-FOA-PF去噪算法流程图
+
+a)初始化。假设有一列AE信号，且当前信号有M个信号点，每个信号点有 $\mathrm { ~  ~ N ~ }$ 个粒子。在 $\scriptstyle \mathbf { k } = 0$ 时，从先验分布（20 $\mathsf { p } ( \mathrm { x } _ { 0 } \mid \mathrm { z } _ { 0 } ) = \mathsf { p } ( \mathrm { x } _ { 0 } )$ 中采样，取每个粒子权值为： ${ \mathfrak { G } } _ { 0 } ^ { \mathrm { i , j } } = { \frac { 1 } { \mathrm { N } } }$ ，其中$\mathbf { i } = 1 , 2 , \cdots , \mathbf { N }$
+
+b)信号点的重要性采样。即：
+
+$$
+\mathbf { X _ { k } ^ { \mathrm { i , j } } } \sim \mathbf { q } ( \mathbf { X _ { k } ^ { \mathrm { i , j } } } \mid \mathbf { X _ { k - 1 } ^ { \mathrm { i , j } } } , \mathbf { z _ { k } } ) = \mathbf { p } ( \mathbf { x _ { k } ^ { \mathrm { i , j } } } \mid \mathbf { X _ { k - 1 } ^ { \mathrm { i , j } } } )
+$$
+
+c信号点的重要性权值计算。由当前信号点的状态和量测值确定权值为：
+
+$$
+{ \mathfrak { O } } _ { \mathrm { k } } ^ { \mathrm { i } , \mathrm { j } } = { \mathfrak { O } } _ { \mathrm { k - 1 } } ^ { \mathrm { i } , \mathrm { j } } { \mathfrak { p } } ( \mathrm { Z } _ { \mathrm { k } } \mid \mathrm { x } _ { \mathrm { k } } ^ { \mathrm { i } , \mathrm { j } } )
+$$
+
+d)更新粒子迭代位置和方向。通过果蝇算法位置公式更新，经过了 $\mathbf { m }$ 次迭代的粒子位置和方向为：
+
+$$
+\mathrm { X _ { k } ^ { i , j ( m + 1 ) } = X _ { k } ^ { i , j ( m ) } + 2 r \times r a n d o m v a l u e - r }
+$$
+
+$$
+{ \bf Y _ { k } ^ { i , j ( m + 1 ) } } = { \bf Y _ { k } ^ { i , j ( m ) } } + 2 { \bf r } \times \mathrm { r a n d o m v a l u e } - { \bf r }
+$$
+
+e)信号点的粒子目标函数值的计算。首先由式（15）（16)计算距离 $\mathrm { D i s _ { i , j } }$ ，并更新味道浓度判定值为 $\mathrm { S _ { i , j } } = \mathrm { D i s _ { i , j } }$ ；再计算味道浓度值 $\mathbf { M } _ { \mathrm { k } } ^ { \mathrm { i , j } }$ 作为目标函数值。
+
+f)动态调整信号点的粒子邻域粒子数量。按式（10）计算粒子多样性因子 ${ \bf D } _ { \bf u }$ ，依照多样性控制策略调节邻域粒子数的增减。
+
+g)判定D-FOA迭代的停止条件。若粒子达到最大迭代次数或者取得的最优值，则迭代终止。否则，令 $\mathbf { k } = \mathbf { k } + \mathbf { l }$ ，跳至步骤d)，重新迭代寻求最优解。
+
+h)信号点权值归一化处理。
+
+$$
+\mathrm { { \dot { \omega } _ { k } ^ { i } = \frac { \omega _ { k } ^ { i } } { \sum _ { i = 1 } ^ { N } { \omega _ { k } ^ { i } } } } }
+$$
+
+i)信号点的状态估计。
+
+$$
+\tilde { \mathbf { x } } _ { \mathbf { k } } ^ { \mathrm { i } } = \sum _ { \mathrm { i } = 1 } ^ { \mathbf { N } } \boldsymbol { \omega } _ { \mathbf { k } } ^ { \mathrm { i } , \mathrm { j } } \mathbf { x } _ { \mathbf { k } } ^ { \mathrm { i } , \mathrm { j } }
+$$
+
+# 3.2基于D-FOA-PF算法的煤与瓦斯突出AE信号的去噪
+
+煤与瓦斯突出声发射的时间序列在分布上与地震波表现出同步性和重叠性[13]，基于此特点，将AE信号时域模型表征为
+
+$$
+{ \bf \cal X } _ { \mathfrak { o } } ( { \mathfrak { t } } ) = { \bf \cal X } _ { 1 } ( { \mathfrak { t } } ) \sin [ \Theta ( { \mathfrak { o } } ( { \mathfrak { t } } ) { \mathfrak { t } } - \delta ( { \mathfrak { t } } ) ]
+$$
+
+其中: $\mathbf { \boldsymbol { X } } _ { \mathrm { 6 } } ( \mathbf { \boldsymbol { t } } )$ 表示AE信号的随机过程， $\mathbf { \boldsymbol { X } } _ { 1 } ( \mathbf { \boldsymbol { t } } )$ 表示AE信号振幅的随机过程， $\boldsymbol { \omega } ( \mathbf { t } )$ 为角频率，δ(t)为相位角。
+
+由Gauss-Markov过程将式（19）写为离散形式：
+
+$$
+\mathrm { X } _ { 1 } ( \mathrm { k } ) = \mathrm { p } _ { \mathrm { X } _ { 1 } } \mathrm { X } _ { 1 } ( \mathrm { k } - 1 ) + \mathrm { q } _ { \mathrm { X } _ { 1 } } \mathrm { o } _ { 1 } ( \mathrm { k } - 1 )
+$$
+
+其中： $\mathbf { X } _ { 1 } ( \mathbf { k } )$ 为AE 信号时间序列， $\mathsf { p } _ { \mathrm { X } _ { 1 } } = \mathsf { e } ^ { - \gamma \Delta }$ ， $\mathbf { q } _ { \mathbf { X } _ { 1 } } = \mathbf { \sigma } \mathbf { \sigma } \mathbf { \sqrt { ( 1 - e ^ { - 2 \gamma \Delta } ) } }$ ，$\gamma = \frac { 1 } { \mathrm { T _ { c } } }$ ， $\mathrm { T _ { c } }$ 为 Gauss-Markov 过程间常数, $\omega _ { 1 } ( \mathbf { k } - 1 )$ 为系统噪声,$\Delta$ 为采样间隔， $\sigma$ 为Gauss-Markov过程标准差。
+
+考虑到煤矿采掘现场环境嘈杂，实际采集的声发射信号是含有大量随机噪声的，因此取随机噪声作为另一状态变量，即
+
+$$
+\mathrm { X } _ { 2 } ( \mathrm { k } ) = \mathrm { p } _ { \mathrm { X } _ { 2 } } \mathrm { X } _ { 2 } ( \mathrm { k } - 1 ) + \mathrm { q } _ { \mathrm { X } _ { 2 } } \mathrm { o } _ { 2 } ( \mathrm { k } - 1 )
+$$
+
+其中: $\omega _ { 1 }$ 和 $\omega _ { 2 }$ 是相互独立的参数。
+
+建立系统状态空间方程为
+
+$$
+{ \begin{array} { r l } & { \mathbf { X } ( \mathbf { k } ) = [ \mathbf { X } _ { 1 } ( \mathbf { k } ) \quad \mathbf { X } _ { 2 } ( \mathbf { k } ) ] ^ { \mathrm { T } } = } \\ & { { [ \begin{array} { l l } { \mathbf { p } _ { \mathbf { X } _ { 1 } } } & { ~ 0 ~ } \\ { 0 } & { \mathbf { p } _ { \mathbf { X } _ { 2 } } } \end{array} ] } \mathbf { X } _ { 1 } ( \mathbf { k } - 1 ) ] + } \\ & { { [ \begin{array} { l l } { \mathbf { q } _ { \mathbf { X } _ { 1 } } } & { ~ 0 ~ } \\ { 0 } & { \mathbf { q } _ { \mathbf { X } _ { 2 } } } \end{array} ] } { [ \begin{array} { l l } { \mathbf { e } _ { \mathbf { l } } ( \mathbf { k } - 1 ) } \\ { - 1 } & { ~ 0 ~ } \\ { ~ \mathbf { A } ( \mathbf { X } , \mathbf { k } - 1 ) + \mathbf { B } \mathbf { o } ( \mathbf { k } - 1 ) } \end{array} ] } = } \end{array} }
+$$
+
+基于状态方程建立观测方程为
+
+$$
+\begin{array} { r l } & { { \cal Z } ( { \bf k } ) = [ \sin ( \omega _ { \bf k } { \bf k } \Delta + \delta _ { \bf k } ) \quad 1 ] _ { { \bf X } _ { 2 } ( { \bf k } ) } ^ { { \bf X } _ { 1 } ( { \bf k } ) } ] + { \bf v } ( { \bf k } ) } \\ & { = { \bf C } ( { \bf X } , { \bf k } ) + { \bf v } ( { \bf k } ) } \end{array}
+$$
+
+其中， $\mathbf { A } ( \mathbf { X } , \mathbf { k } - 1 )$ 表示状态转移模型，B表示系统噪声的系数矩阵， $\boldsymbol { \omega } ( \mathbf { k } - 1 )$ 表示系统噪声矩阵， $\mathbf { C } ( \mathbf { X } , \mathbf { k } )$ 表示非线性观测函数，$\mathbf { v } ( \mathbf { k } )$ 表示观测噪声。
+
+在建立了AE信号状态空间模型的基础上，执行优化粒子
+
+滤波算法对声发射信号去噪的流程如下：
+
+a)输入采集的含噪 AE 信号和随机噪声信号至状态空间模型中，确定系统方程涉及的参数。
+
+b)将采集的含噪AE信号作为模型的初始状态，利用邻域动态调整果蝇算法优化重采样过程，获得最优采样信号点粒子。
+
+c)进行信号的状态估计，计算均方根和信噪比，评价去噪效果。
+
+# 4 D-FOA-PF 算法在煤与瓦斯突出 AE 信号去噪中的应用
+
+选取 $\ddot { \textrm { o } } 5 0 \mathrm { m m } \times 1 0 0 \mathrm { m m }$ 的成型煤样作为实验样品，加载速度为 $0 . 9 \mathrm { t / m i n }$ ，采样频率为1MHz，实验环境中加入模拟煤矿采掘现场的机械工作、人为、自然等产生的各类噪声，通过图 2所示的声发射信号采集系统获取煤岩体受载变形至破裂过程的声发射信号数据，采集的原始含噪声干扰发射信号如图3所示。
+
+初始化去噪算法的相关参数：粒子数 $\scriptstyle \mathbf { N } = 5 0 0$ ，果蝇最大迭代次数取1000，粒子权值 $\mathrm { \omega } _ { 0 } = 0 . 0 0 2$ 。
+
+![](images/f60d3632d1247546ec724e37ffdbdbc47ff7bab84299a8bcef367db43a6f9342.jpg)  
+图2AE信号采集系统图
+
+a:载荷传感器；b:压机；c:声发射接收三分量传感器；d:声发射信号接收传感器；e:位移计；f:煤样；g:高速数据采集系统
+
+采用SNR和RMSE作为评价指标，可由式（24）、（25）进行计算求得。
+
+$$
+\mathrm { S N R = 1 0 ^ { * } l g \frac { \displaystyle \sum _ { i = 1 } ^ { N } s ^ { 2 } ( i ) } { \displaystyle \sum _ { i = 1 } ^ { N } \tilde { x } ^ { 2 } ( i ) } }
+$$
+
+$$
+\mathrm { R M S E } = \sqrt { \frac { 1 } { \mathrm { N } } \sum _ { \mathrm { i } = 1 } ^ { \mathrm { N } } ( \mathrm { s } ( \mathrm { i } ) - \widetilde { \mathrm { x } } ( \mathrm { i } ) ) ^ { 2 } }
+$$
+
+其中:s(i)为原始信号， $\widetilde { \mathbf { x } } ( \mathrm { i } )$ 为去噪后的信号，N为粒子数。
+
+根据煤岩体破裂过程中声发射的时空规律[14]，可以看出图3信号特征被淹没在大量噪声之中，无法确定声发射信号的有效成分。分别利用标准PF法、FOA-PF、D-FOA-PF法对声发射信号进行降噪处理。通过MATLAB仿真，得到对应去噪后的信号如图4中的（a）～（c）所示。图4（a）中，信号丛集部分幅值有所降低，但在加载初期信号毛刺较多，依然受到部分噪声干扰；图4(b）(c)信号在幅值上较(a)信号降低更多，信号平滑，但(c中信号降噪更加彻底。
+
+![](images/c1ff2594d46759cd2a3f07a1c02bce53fb96fa75ac4fa7bcdbe7bcce2b5824bc.jpg)  
+图3原始含噪声发射信号图
+
+煤岩体处于破裂阶段时，AE信号频谱表现为破裂时信号强度最大，主频段最高，而随着破裂发展，信号强度变弱，主频率也较低[15]，图5(a)可以看出噪声分布在整个频率范围，较多集中在高频区。比较三种方法去噪后的频谱图，图5(c)中信号的频率分布更加清晰，且主频范围信号的最高幅值降低最多，可达350左右，高频部分突变信号大幅减少，煤岩体破裂的频谱特征规律表现最佳。
+
+![](images/7d368c96fbd0e894b4eaf2aad1f6ebcc7444407b6950868dc53f021ca26a6fec.jpg)  
+（a）标准PF算法声发射去噪信号图
+
+![](images/1cc6729724f0efe08dab204ac1a9904607947d906b5f2d68428d5eca6de32984.jpg)  
+（b）FOA-PF算法声发射去噪信号图
+
+![](images/adf312db694f288040d7619a40e877d08c6acaac2370f3b411e10093c761eebd.jpg)
+
+为深入分析噪声信号分布对AE信号的影响并进一步验证改进PF法的去噪效果，分别对图4的三组时域信号进行快速傅立叶变换（fastFouriertransform，FFT），得到三个频谱图，如图5所示。
+
+从图6中可以看出，初始迭代阶段，三种方法均方根误差相近；随着迭代次数增加，三曲线间的距离逐渐增大，且曲线3下降速度最快，最先收敛；其中曲线1较曲线2有更快的收敛速度，造成这种现象的原因是果蝇迭代中陷入了局部最优；
+
+迭代结束时，曲线3的均方根误差值最小。
+
+![](images/b90953b5218510fe776793a1d531ed5728be7e490825e7664cbd01880cdf7d42.jpg)  
+（a）原始信号FFT变换频谱图
+
+![](images/08ead4988460a05d2a9c2abe880b207346b0750d00e7e33c1f7dace596dc6380.jpg)  
+（b）标准PF算法去噪信号频谱图
+
+![](images/c676f54d4c5be7cf2012bd90bbd5782af973d19ecac3f020490785929da44da3.jpg)  
+（c）FOA-PF算法去噪信号频谱图
+
+![](images/921736bd5c3f74e982c2b65a6e97809dbc40343913de84d185142383b0cc8959.jpg)  
+图4声发射信号去噪图  
+（d）D-FOA-PF算法去噪信号频谱图  
+图5声发射信号去噪频谱图
+
+表1为信号的信噪比和均方根误差的比较值，综合以上数据分析，可以看出D-FOA-PF算法在AE信号去噪性能的具有较好的优越性。
+
+![](images/684ad939202ae5f883a6023b98b9aa8dc70eeb07414416d239f5b22e3957fd9d.jpg)  
+图6均方根误差比较图
+
+表1不同方法的评价指标数据对比  
+
+<html><body><table><tr><td>评价指标</td><td>原始AE信号</td><td>标准PF</td><td>FOA-PF</td><td>D-FOA-PF</td></tr><tr><td>SNR/dB</td><td>6.031</td><td>18.476</td><td>19.853</td><td>21.327</td></tr><tr><td>RMSE</td><td>0.593</td><td>0.431</td><td>0.358</td><td>0.206</td></tr></table></body></html>
+
+# 5 结束语
+
+将果蝇群智能优化算法融合进粒子滤波方法中，并对迭代过程作动态调整改进，从而提出一种新的优化算法以达到粒子状态的更优估计，实现了滤除煤与瓦斯突出时声发射信号中的噪声信号的目的。
+
+a)利用D-FOA对粒子滤波的重采样过程进行改进，缓解了粒子的贫化现象，增加了粒子多样性，加快了收敛速度，使信号在较短时间内达到较高精度的去噪效果。
+
+b)对声发射信号通过时域波形和频谱图进行了定性分析，滤噪效果直观明了；并通过SNR和RMSE作定量分析，评价滤噪能力的好坏。
+
+c)对采集的含噪AE信号分别进行标准粒子滤波法、果蝇优化粒子滤波法、改进粒子滤波法进行去噪，实验结果显示：改进粒子滤波的去噪方法将信噪比提高了约 $1 5 . 3 \mathrm { d B }$ ，均方根误差降低至较小数值，且较大程度上保留了AE信号的时域波形和频谱特征，提高了去噪算法的估计精度，得到的去噪信号较其他优化方法更为纯净，为后续的特征分析、预测等奠定了良
+
+好基础。
+
+# 参考文献：
+
+[1]左建平，裴建良，刘建锋．煤岩体破裂过程中声发射行为及时空演化机制[J]．岩石力学与工程学报,2011,30(8):1564-1570.  
+[2]何学秋，王恩元，刘贞堂，等．煤与瓦斯突出预测技术研究现状及发展趋势[J].中国安全科学学报,2003,13(6):40-43.  
+[3] 许江，耿加波，彭守建，等．不同含水率条件下煤与瓦斯突出的声发射特性[J].煤炭学报,2015,40(5):1047-1053.  
+[4]郭民臣，梅勇，马英基，等．基于LabVIEW 的声发射信号小波降噪方法研究[J].动力工程学报，2012,32(6):450-453.  
+[5]陈凯．基于经验模式分解的去噪方法[J]．石油地球物理勘探,2009,44(5): 603-608.  
+[6] 王向华，覃征，杨新宇．阈值去噪下的改进粒子滤波算法[J].西安交通大学学报,2010,44(2):31-34.  
+[7]向勇，李岩松．基于粒子滤波的光学电流互感器信号处理方法研究[J].电力系统保护与控制,2013,41(18):101-104.  
+[8]段琢华，蔡自兴，于金霞．不完备多模型混合系统故障诊断的粒子滤波算法[J].自动化学报,2008,34(5):581-587.  
+[9]王晶，宋策，杨立保．融合GrabCut的粒子滤波目标跟踪算法[J].仪器仪表学报,2014,35 (12):20-27.  
+[10]胡士强，敬忠良．粒子滤波算法综述[J].控制与决策,2005,20 (4):361-365.  
+[11]王林，吕盛祥，曾宇容．果蝇优化算法研究综述[J].控制与决策,2017,32 (7): 1153-1162.  
+[12]郑晓龙，王凌．随机资源约束项目调度问题基于序的果蝇算法[J].控制理论与应用,2015,32(4):540-545.  
+[13]王晓伟，刘占生，窦唯．基于AR 模型的声发射信号到达时间自动识别[J]．振动与冲击,2009,28(11):79-83.  
+[14]艾婷，张茹，刘建锋，等．三轴压缩煤岩破裂过程中声发射时空演化规律[J]．煤炭学报,2011,36(12): 2048-2057.  
+[15]王恩元，何学秋，刘贞堂，等．煤体破裂声发射的频谱特征研究[J]煤炭学报,2004,29(3):289-292

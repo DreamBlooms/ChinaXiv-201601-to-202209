@@ -1,0 +1,200 @@
+# DOI:10.5846/stxb201702210288
+
+王行,郭玉静,郑燕成,陈欢欢,田昆,肖德荣.藏香猪翻拱型放牧对不同类型高寒草甸植物特征的影响及土壤环境驱动力.生态学报,2018,38（6)：2101-2110.  
+WangH,GuYHaicofeaiogoitacteistsifalpine meadow and the underlying soil driving forces.Acta Ecologica Sinica,2O18,38(6):2101-2110.
+
+# 藏香猪翻拱型放牧对不同类型高寒草甸植物特征的影响及土壤环境驱动力 C
+
+王行},²，郭玉静¹，郑燕成¹，陈欢欢³，田昆¹，肖德荣1，\*
+
+1西南林业大学国家高原湿地研究中心/湿地学院，昆明650224  
+2 浙江大学环境与资源学院环境科学研究所，杭州310058  
+3中国科学院西双版纳热带植物园，景洪666303
+
+摘要;生态系统脆弱的高寒草甸是生态学研究的热点。藏香猪翻拱土壤并取食地下草根层,是藏族自治区一种特有的放牧类型,关于该放牧类型对藏区高寒草甸的影响尚缺乏研究。以滇西北高原国际重要湿地——纳帕海流域的典型高寒草甸为对象，研究了不同高寒草甸类型(陆生草甸与沼泽化草甸)中的植物群落结构特征对藏香猪翻拱型放牧的响应。结果表明,翻拱型放牧显著降低了植被盖度( $6 3 . 5 \%$ ）、地上生物量( $8 4 . 6 \%$ )与地下生物量 $( 9 7 . 4 \% )$ ,并促进植物生物量向地上部分的再分配。翻拱型放牧下随着植被盖度与生物量降低,植物竞争强度减小,植株高度与空间利用率提高。然而,不同草甸类型中的植物群落结构对翻拱型放牧表现出差异响应。陆生草甸上的群落组成基本未变,而沼泽化草甸上的优势植物华扁穗草（Blysmussinocompyessus）向1年生水生植物水蓼（Polygonum hydropiper)演替。土壤含水率是导致植物响应差异的关键驱动力。综上,藏香猪翻拱型放牧对植物生物量及盖度等特征均产生不利影响,导致高寒草甸生物量积累锐减,而植物群落结构的变化是放牧干扰与土壤水分、空间竞争协同作用的结果,反映出植物在不同环境中对放牧干扰的差异化响应。研究区域环境特征与放牧干扰的耦合关系，可以为藏香猪放牧作用下的高寒草地植物多样性保护及恢复提供理论依据。
+
+关键词：滇西北高原;高寒草甸;放牧；植物群落；生物量;藏香猪
+
+# The influence of Tibetan pig uprooting on plant community characteristics in different types of alpine meadow and the underlying soil driving forces
+
+WANG Hang1,2,GUO Yujing1,ZHENG Yancheng1，CHEN Huanhuan³,TIAN Kun1,XIAO Derong1 1NationalPlateau WetandsResearchCenter/ColeageofWetlands，SouthwestForestryUniversity，Kunming650224，China 2InstituteforEnironmentalScience，ColegeofEnironmental&ResourceSciences，ZhejiangUniversity，Hangzhou308，Cina 3 Xishuangbanna Tropical Botanical Garden，Chinese Academy of Sciences， Jinghong 666303，China
+
+Abstract:The fragile alpine meadow ecosystem is a hotspot for ecological studies.Pig uproting is characteristicof feding behaviors on roots below-ground,which is aunique herding pate in the Tibetan area；yet its impacton Tibetanalpine meadowhas not been extensively studied.The studyarea was Napahai，which is located in the Northwestern Yunnanand belongs tothe Ramsar Siteof international importance.Theresponsesof plantcommunitycharacteristics in two alpine meadow types （terrestrial meadow and swamp meadow）to pig uprooting were studied.The results showed that pig uprooting significantly decreased plant coverage $( 6 3 . 5 \% )$ ），above-ground biomass $( 8 4 . 6 \%$ ），below-ground biomass( $( 9 7 . 4 \%$ ），and promotedthere-distributionof biomassfrom below-toabove-ground.Under pig uproting，acompanied bydecreased plant coverageandbiomass，thecompetition among different species decreased，which increased theplant heightanddegreeof space utilization.Wefurtherobserved divergentresponsesof the communitystructure in twotypical alpine meadow typesto pig uprooting.Thestructureremainedunchanged in terrestrial meadow，while thedominant plant shifted from Blysmus sinocompyesss toan annual aquatic plant（Polygonum hydropiper）in swamp meadow.Soil moisture was the key driving forceexplaining thedivergentresponsesof plants topig uproting.Overal，piguproting was detrimental to plantbioass and coverage，leading toreduced biomass accumulation in the alpine meadow ecosystem.Thechanged communitystructure resulted fromthe synergisticeffectsamong bio-disturbance，soil moisture,and spatial competition，and thus mayreflectthe divergentresponsesof plants indiferent environments topiguproting.The studyofcouplingrelationshipsbetweenregional environments and hrding disturbance could providea scientific basis for plant protection andrestoration under Tibetan pig uprooting in alpine meadow.
+
+Key Words: Northwestern Yunnan; alpine meadow； herding； plant community； biomass； Tibetan pig
+
+高寒草甸占全国草地总面积的 $1 7 \%$ 左右[1],是高寒环境中典型的生态系统之一,在世界范围内极具代表性[2]。放牧是高寒草甸生态系统的主要干扰因素,影响着植物生长 群落特征及植物生产力[3]。生产力是生态系统获取能力的集中表现,而植物群落特征是生态系统结构与功能的基础[46]。近年来高寒草甸受超载放牧的影响,出现了大面积退化,成为生态学研究的热点[7-8]。
+
+藏香猪是分布于青藏高原东部、云南西北部以及甘肃西南部的高原特有猪种,生活在海拔3000—6000m的区域,对寒冷与缺氧的自然环境具有较强的适应性[9]。藏香猪放牧作为藏族自治区一种特有的放牧类型,目前已成为该区域的主要干扰因子之一,对区域社会经济与生态建设产生不利影响,受到当地普遍关注[10]根据动物行为学,藏香猪的主要行为是翻拱,即通过翻拱高寒草甸土壤草根层,取食地下块根[1-12],与牛羊选择性取食植物地上部分不同,藏香猪的翻拱过程没有选择性,且造成植物地上部分与根系的破坏,导致高寒草甸生态系统结构的改变与功能退化[11]。另外,藏香猪在翻拱过程中造成表土裸露、地表凹凸不平,形成明显的扰动层[10]。在西藏、云南以及甘肃的部分藏区,随着畜牧业多样化发展,当地放牧类型由传统牛羊放牧转变为牛羊与藏香猪共同放牧[12-13]。其中,在藏香猪放牧集中分布区,生态环境日益恶化。
+
+滇西北高原处于青藏高原东南缘,是高寒草甸的主要分布区,也是藏香猪放牧的典型区域[14]。纳帕海是滇西北高原生态系统的典型代表,受藏香猪过度放牧的影响，目前纳帕海流域草甸生态系统正逐年向荒漠化方向演变[15]。前期研究主要关注藏香猪放牧对土壤理化特征的影响[1,5],然而藏香猪翻拱如何影响该区域的植物生物量与群落结构？不同草地类型所表现出的响应是否存在差异性？这种差异与土壤环境因子的关系如何？目前尚缺乏相关研究。高寒草甸是青藏高原及缘区主要的草地类型,阐明藏香猪放牧对高寒草甸的影响,对维护高寒草甸生态系统稳定以及当地畜牧业的可持续发展具有重要意义。
+
+本文以滇西北高原典型生态系统——纳帕海作为研究对象,对猪拱放牧下的植物生物量及分配、盖度、高度、密度、空间利用度、物种丰富度以及群落结构组成等进行研究,探讨了不同高寒草甸类型(陆生草甸与沼泽化草甸)下,植物相关指标对猪拱放牧的响应。同时研究土壤理化指标,分析植物变化特征背后的主要土壤驱动因素。本文拟为藏香猪放牧的破坏程度进行客观评价，为滇西北高原生物多样性的保护提供理论依据。
+
+# 1研究地区与研究方法
+
+# 1.1 研究区概况
+
+纳帕海位于青藏高原东南缘、横断山脉中段的香格里拉市境内 $( 2 7 ^ { \circ } 4 9 ^ { \prime } - 2 7 ^ { \circ } 5 5 ^ { \prime } \mathrm { N } , 9 9 ^ { \circ } 3 7 ^ { \prime } - 9 9 ^ { \circ } 4 1 ^ { \prime } \mathrm { E } )$ ，平均海拔 $3 2 6 0 \mathrm { m }$ ,面积 $3 1 0 0 \mathrm { { h m } } ^ { 2 }$ （图1)。纳帕海四面环山,生态系统相对独立,从北向南依次为湖泊、沼泽、沼泽
+
+化草甸、陆生草甸等景观类型(图1)。沼泽化草甸与陆生草甸面积达 $1 5 1 0 \mathrm { h m } ^ { 2 }$ ,占整个流域面积的一半以上,是生物多样性保护的重点,同时也是藏区牧业发展的主要区域[12]。2005 年纳帕海被评选为国际重要湿地,具有较高的保护与研究价值。科学评估并合理利用当地植被资源成为该区域生态保护的重大需求。
+
+当地气候为寒温带高原季风气候,主要受西部南季风和南支西风的控制,形成了高寒冷湿、冬春干旱、夏秋多雨的气候特征。每年6一9月为雨季,其他月份为旱季,年均温度为 $5 . 4 0 ^ { \circ } \mathrm { C }$ ， $\geqslant 1 0 ^ { \circ } \mathrm { C }$ 积温 $1 5 2 9 ^ { \circ } \mathrm { C }$ 。 2
+
+![](images/731373dcb4b87eb0eb1c6c9538256acd79cd2e712437dad2ee312de42a54acfb.jpg)  
+图1纳帕海区位图与采样区域示意   
+Fig.1Geographic location of Napahai and sampling sites
+
+伊拉和布伦为两个采样区域，分布属于陆生草甸与沼泽化草甸
+
+# 1.2 研究方法
+
+# 1.2.1 样地设置与采样
+
+根据统计年鉴,2008年以前藏香猪放牧规模较小，且多以圈养为主;2008年以来随着市场对藏香猪需求增加,散养藏香猪数量剧增,在综合管控下,纳帕海藏香猪的载畜量平衡在115 头 $/ \mathrm { m } ^ { 2 }$ ,超出当地实际承载力（40头 $/ \mathrm { m } ^ { 2 }$ )。藏香猪翻拱型放牧的面积约占整个区域的 $5 \%$ 左右[16],主要以啃食高寒草甸上的草根层为主要行为方式。本文分析了藏香猪放牧对植物生物量与植被群落结构特征的影响。
+
+研究地点选在伊拉与布伦2个典型放牧区域(图1,图2）。其中,伊拉属于陆生草甸,土壤类型为草甸土,常年无淹水,土壤母质为河流冲击物,主要植物包括华扁穗草、早熟禾等草本植物;布伦属于沼泽化草甸,土壤类型为泥炭土（泥炭深度 $1 . 0 { - } 1 . 5 \mathrm { m } \mathrm { \Omega }$ ),季节性淹水,土壤母质为高度发育的泥炭层,除常见草本植物外还包括沼生煤菜、水蓼以及水葱等水生植物。两个区域均靠近居民点附近,放牧规模及放牧时长(每天5.5h)具有可比性。依据姚茜的研究结果[10],于2016年8月生长盛期在每个区域内调查藏香猪扰动较为明显、扰动深度在 $5 - 8 \mathrm { c m }$ 的猪拱景观斑块(平均扰动次数达2一3次,属典型猪拱斑块）,随机设置 $0 . 5 \mathrm { m } { \times } 0 . 5 \mathrm { m }$ 的样方。通过严格筛选典型猪拱斑块,确保干扰强度的一致性。其中,伊拉设置 20 个样方,布伦设置15个样方,每个样方之间间隔3- $\cdot 4 \mathrm { m }$ 。在猪拱斑块内设置样方的同时,选取临近位置分别设置20个与15个对照样方（无藏香猪翻拱区）。结合现场调查、高分卫星遥感影像数据判读以及草根层发育状况分析,确保所选取的对照样方在历史上没有被藏香猪干扰过,能够反映该区域的长期放牧效应。另外,对照样方与藏香猪翻拱样方区位临近，具有相对一致的气候、水文与地貌特征。
+
+![](images/28e81763fa839bbe6585bf5eba698a3539a1bc7461e6ca98991cd7219842cd18.jpg)  
+图2两处采样点(藏香猪翻拱斑块与对照斑块)现场照片  
+Fig.2Pictures for two sampling sites (pig-uprooted patches and controls included)
+
+# 1.2.2 植物与土壤样品分析
+
+样方盖度通过现场目测进行估算,同时对植物种类进行鉴定。收集样方中的所有植物带回实验室后,参照《数量生态学》[17],分别测定每种植株的数量及高度,并换算成群落水平的植被密度 $( 1 ^ { \circ } / \mathrm { m } ^ { 2 }$ )与植被平均高度（cm）。将植物全部浸入水中,通过排出水的体积得到植物所占空间体积 $( \mathrm { c m } ^ { 3 } / \mathrm { m } ^ { 2 } ) .$ ),经植被盖度标准化处理后用来表征植物对空间的利用程度[17]。所有植物的地上部分在 $8 0 ^ { \circ } \mathrm { C }$ 条件下烘 $1 2 \mathrm { h }$ 后称取重量,并换算为每平方米生物量干重 $( \mathrm { g } / \mathrm { m } ^ { 2 } )$ 。 D
+
+计算每种植物的相对密度、相对频度与相对显著度,以及三者加权计算得到的物种重要值,重要值最高的物种即为优势种。利用杰卡德相似性系数（Jaccard similarity coeficient ）[18]计算猪拱与对照条件下,植物群落之间的相似性。
+
+土壤采集用环刀法。在每个样方内,用容积为 $2 0 0 \mathrm { { c m } } ^ { 3 }$ 的环刀（直径 $7 0 \mathrm { { m m } }$ ,高度 $5 2 \mathrm { m m }$ )采集0—10cm的原状土壤。地下根系去除表面土壤、石块，在 $8 0 \mathrm { { ^ circ C } }$ 条件下烘12h后称取重量，并换算为每平方米生物量干重$( \mathbf { g } / \mathbf { m } ^ { 2 } )$ 。土壤 $\mathrm { \ p H }$ 、含水率、容重、有机质与总氮的测定参照《土壤农化分析》[9]。
+
+# 1.2.3 统计分析
+
+利用 SPSS 中的方差分析模型(two-way ANOVA）,对比分析猪拱与对照条件下的植物地上部分生物量、地下部分生物量、地上/地下生物量分配、植被盖度、植株密度、植株高度、植株空间利用度,以及物种丰富度（richness）等指标在 $\scriptstyle P = 0 . 0 5$ 水平上的差异性。在双因素方差分析的基础上,通过事后多重比较(Post HocTests）中的 Student-Newman-Keuls 分析每个采样点内部各相关指标的统计学差异性。在进行 ANOVA以及Post Hoc Tests 之前,对数据进行 one sample Shapiro-Wilk 正态性检验。对不符合正态分布的数据进行基于$\log _ { 1 0 }$ 的对数转换,使其数据满足正态性要求。
+
+利用Canoco4.5生态学多元统计分析模型[17],对(1)基于样方尺度的生物量绝对数量变化(地上部分生物量、地下部分生物量、植被盖度、植株密度),以及(2)基于单个物种水平的群落结构百分比变化(相对密度、相对频度、相对显著度、重要值)进行载荷矩阵的降维分析,得到样本的空间差异分布特征。进一步通过典范对应分析(CCA）,探讨土壤理化指标(pH、含水率、容重、有机质、总氮)与植物指标的相关性。
+
+# 2结果与分析
+
+# 2.1植物生物量及分配
+
+藏香猪放牧显著降低了高寒草甸地上部分与地下部分的总生物量(图3)。与对照(无藏香猪翻拱区)相比,伊拉与布伦两个区域的地上部分生物量分别降低了 $9 2 . 9 \%$ （ $\scriptstyle P < 0 . 0 0 1 { \mathrm { ~ } }$ 和 $7 6 . 2 \%$ （ ${ \cal P } { < } 0 . 0 0 1$ )；地下生物量分别降低了 $9 5 . 6 \%$ （ ${ \cal P } { < } 0 . 0 0 1$ 和 $9 9 . 1 \%$ （ $P { < } 0 . 0 0 1 )$ 。尤其在沼泽化草甸(布伦)区域,每平方米仅发现 $7 . 6 2 \mathrm { g }$ 的地下生物量残留,而在对照组中每平方米的地下生物量高达 $9 0 0 \mathrm { g }$ 。
+
+http://www.ecologica.cn
+
+翻拱型放牧显著改变地上/地下生物量的再分配。经翻拱后,地上生物量的相对百分比增加,尤其在布伦区域,地上/地下生物量由对照组中的 $4 5 . 1 \%$ 变为 $4 2 6 \%$ （图3），这种变化与优势植物的更替有关（详见2.3节)。
+
+![](images/cafe69b4dc61903ac2edb460a18e66d6b7d9222ae84c911401bf12fc7be84e3b.jpg)  
+图3猪拱与对照条件下的植物地上部分生物量、地下部分生物量及生物量分配比例
+
+Fig.3Above-ground biomass，below-ground biomass，and biomass alocation under pig uprooting scenario and controls 伊拉与布伦为两个采样区域。 $F$ 值与 $P$ 值为方差(two-way ANOVA)分析结果,每个样品内部的 $P$ 值为事后比较结果;伊拉每个水平（猪拱 与对照)下各有 20个样方( $n = 2 0$ ),布伦每个水平(猪拱与对照)下各有15个样方( $\phantom { + } n = 1 5$ );误差线为标准差
+
+# 2.2植物群落数量学特征
+
+随着生物量的减少，猪拱前后的植被盖度具有显著差异性(图4)。在伊拉与布伦区域,藏猪翻拱后的植被盖度分别降低了 $7 3 . 1 \% ( P { < } 0 . 0 0 1 )$ 和 $5 4 . 0 \%$ （ $P { < } 0 . 0 0 1 \$ )。与布伦相比,伊拉区域的植被在猪拱后,其裸露程度更为明显。在对照组中,每平方米范围内大约有 3000—5000 株植物,而这一数量在翻拱后锐减到180—400株( $F \mathrm { = } 2 5 5 , P { < } 0 . 0 0 1 )$ 。
+
+翻拱后植株变得稀疏,个体间隙加大,植物的平均高度增加(图4)。尤其在布伦,猪拱样方中植物的平均高度达到 $2 1 . 8 \mathrm { { c m } }$ ,显著高于对照组的 $9 . 2 3 \mathrm { c m }$ 。随着植物平均高度的增加,植物的空间利用度增加,由对照组中的 $5 5 7 \mathrm { c m } ^ { 3 } / \mathrm { m } ^ { 2 }$ 提高到 $1 1 7 8 \mathrm { c m } ^ { 3 } / \mathrm { m } ^ { 2 }$ 。然而在伊拉区域,植株的空间利用度未发生显著性变化( $\scriptstyle P = 0 . 1 1 8$ ）。
+
+# 2.3植物群落丰富度与组成结构变化
+
+对照组与藏香猪放牧组之间,植物物种数量没有发生明显变化( $\dot { F } = 0 . 0 2 9 , P = 0 . 8 8 6 \rangle$ ,在每个样方中平均观察到4—8种植物(图5)。其中,在陆生草甸(伊拉)上观察到的物种数量(6—8种)略高于在沼泽化草甸（布伦)上观察到的物种数量(4—6种）。
+
+然而,植物群落结构组成在猪拱后发生了较为显著的变化,且陆生草甸与沼泽化草甸植物组成的变化程度不同。根据每个物种的重要值(表1),对照组伊拉区域的优势植物主要有华扁穗草、碎米荠和黄花葡等,布
+
+![](images/d462c15fc6c62ebdfce5ad64032e491702fb8c183981bb9ab70e6b419d0215bc.jpg)  
+Fig.4Vegetation quantitative features under pig uprooting scenario and controls
+
+指标包括植被盖度、植株密度、植株高度以及植株空间利用度伦区域的优势植物主要有华扁穗草和白茅等。藏香猪翻拱干扰下，伊拉区域的优势植物依然为华扁穗草。而在布伦区域，优势植物华扁穗草（重要值从0.299 到0.083)向一年生水生植物水蓼(重要值从0到0.271)演替。 A
+
+伊拉区域,杰卡德相似性指数为 $9 3 . 2 \%$ ;布伦区域,杰卡德相似性指数仅为 $8 9 . 4 \%$ 。可见与陆生草甸相比,沼泽化草甸中的植物物种组成发生了更为明显的变化。
+
+# 2.4土壤环境对高寒草甸植物变化的驱动力
+
+对植物生物量等绝对数量指标进行空间分布特征分析(图6），所有猪拱样方中的样品聚类在一起（红色)，与对照组明显区分。可见,猪拱放牧均显著降低了所有样方（陆生草甸与沼泽化草甸)中的生物量，不利于生物量的积累。在对照样方中，样品空间分布较为分散(蓝色),表现出较强的空间异质性。对群落结构等相对数量指标进行空间分布特征分析(图6),样品主要以采样点进行聚类,即伊拉区域的群落结构组成明显不同于布伦区域的群落结构组成。
+
+![](images/c44e637f32ba8c133e657c180fcaf79e4095c02b096aa9ef4c41399a7f103b53.jpg)  
+图4猪拱与对照条件下的植被数量学特征  
+图5猪拱与对照条件下的样方植物种类  
+Fig.5Plant richness under pig uprooting scenario and controls
+
+从CCA 排序结果进一步看出,土壤含水率是影响生物量(图6)与植被群落结构组成(图6)最重要的环境因子,其次为土壤总氮。含水率箭头指向同时也是沼泽化草甸样品(布伦)的主要分布区域,表明水分对植物群落结构绝对数量与相对数量的改变均具有显著影响。土壤pH在猪拱前后未发生明显变化,并且该指标
+
+对整个植被分布差异的影响不显著( $P { > } 0 . 0 5 )$ 。
+
+表1猪拱与对照条件下样方中植物的重要值与杰卡德相似性指数(仅列出重要值综合比重较大的物种)  
+Table1The importancevaluesof plantspeciesandtheJaccardsmilaritycoeficientuderpiguprotigscenarioandcontros.Onlyspecie with large importance values are shown   
+
+<html><body><table><tr><td></td><td>植物名称 Species taxonomy</td><td>猪拱 Pig uprooting</td><td>对照 Control</td><td>植物名称 Species taxonomy</td><td>猪拱 Pig uprooting</td><td>对照 Control</td></tr><tr><td rowspan="10">伊拉Yila</td><td>华扁穗草 Blysmus sinocompyessus</td><td>0.212</td><td>0.199</td><td>布伦 Bulun 华扁穗草 Blysmus sinocompyessus</td><td>0.299</td><td>0.083</td></tr><tr><td>早熟禾Poa annua</td><td>0.090</td><td>0.021</td><td>早熟禾Poa annua</td><td>0.155</td><td>0.085</td></tr><tr><td>西伯利亚蓼Polygonum sibiricum</td><td>0.073</td><td>0.000</td><td>碎米荠 Cardamine hirsuta</td><td>0.040</td><td>0.045</td></tr><tr><td>崂峪苔草 Carex giraldiana</td><td>0.198</td><td>0.123</td><td>沼生煤菜 Rorippa islandica</td><td>0.036</td><td>0.115</td></tr><tr><td>水葫芦苗 Halerpestes cymbalaria</td><td>0.017</td><td>0.013</td><td>水葱 Scirpus validus</td><td>0.076</td><td>0.129</td></tr><tr><td>白茅Pantropical weeds</td><td>0.000</td><td>0.101</td><td>蕨麻Potentilla anserina</td><td>0.025 0.047</td><td>0.007</td></tr><tr><td>黄花蔺 Limnocharis</td><td>0.109</td><td>0.200</td><td>小藜 Chenopodium serotinum 水蓼Polygonum hydropiper</td><td>0.000</td><td>0.077</td></tr><tr><td>碎米荠 Cardamine hirsuta</td><td>0.199</td><td>0.083</td><td>白茅Pantropical weeds</td><td>0.205</td><td>0.271</td></tr><tr><td>相似性指数 Similarity coefficient</td><td>93.2%</td><td></td><td></td><td></td><td>0.000</td></tr><tr><td></td><td></td><td></td><td>相似性指数 Similarity coefficient</td><td>89.4%</td><td></td></tr></table></body></html>
+
+![](images/fce64690a828f622590cc7d56d6b00503eb498152f6eb9d7b5cb92717deffb0a.jpg)  
+图6_基于样方内总体群落生物量绝对数量改变以及基于物种个体组成百分比相对数量改变的CCA分析  
+Fig.6CCAresultsbasedontotalvegetationabsolutechanges iquadratsandbasedonrelativecommunitycompostionchangesforeach individual snecies
+
+环境因子包括土壤pH、含水率、容重、有机质和总氮
+
+# 3讨论
+
+3.1藏香猪放牧对高寒草甸影响的特殊性
+
+动物通过践踏、采食或者翻拱的方式直接或间接对生态系统产生影响。藏香猪通过翻拱方式对高寒草甸产生干扰,在取食过程中形成大量次生裸地(图2),干扰后的地下与地上生物量均不超过 $1 0 0 \mathrm { g / m } ^ { 2 }$ ,减少幅度甚至超过 $9 0 \%$ （图3）,对高寒草甸牧草生产力造成了极大破坏,不利于草地生态系统的可持续发展。牛羊等牲畜主要通过采食及践踏对生态系统产生干扰,经牛羊采食后,植物物种普遍矮化，进而影响地上地下生物量再分配[20];牛羊反复践踏也导致土壤容重增加[21]。然而,牛羊不破坏草根层,尤其对植物地下生物量的影响较小,整个生态系统的地下生产力基本保持平衡。有研究表明,在重度牛羊放牧下,高寒草甸的能量分配转人地下,草甸单位面积地下生物量甚至高于轻度放牧[22]。
+
+http://www.ecologica.cn
+
+藏香猪放牧具有特殊性,在纳帕海典型放牧区其干扰强度往往超过植物的受损阈值与补偿性生长限度，导致生物多样性指数以及均匀度指数均显著下降[10],由于根系遭到翻拱破坏，植物本身可能无法通过自身修复来适应十扰环境。而藏香猪十扰下的群落结构演替则表现出与牛羊重度放牧相似的特征，即在群落结构上形成破口,为一些具有较强竞争力的物种创造了新的入侵条件[23]。本文仅对典型藏香猪干扰下的植物群落结构特征进行了分析,要深人研究群落结构演替、资源利用特征及恢复再生机制与藏香猪放牧之间的关系,需要进一步比较不同放牧强度下藏香猪对高寒草甸植物的作用效应。
+
+# 3.2不同草甸类型对藏香猪放牧的响应
+
+藏香猪放牧形成大量次生裸地(图2),导致地上与地下生物量锐减。藏香猪在取食植物茎、叶的同时,造成地下根系破坏,根系表面水分快速蒸发后死亡[1]。在陆生草甸与沼泽化草甸区域,翻拱型放牧对植物生物量的影响具有一致性(图3)。与生物量密切相关的植物盖度、植株密度等植物生产力指标在不同类型草甸中也显著下降(图4)。放牧干扰影响植物资源量的供给与平衡,引起地上/地下生物量再分配,并对生态系统功能产生重要影响。在高寒草甸生态系统,地下生物量是地上生物量的1.7—2.2倍（图3）,藏香猪放牧对地下生物量的影响程度大于地上生物量,导致植物生产力更多向地上部分分配（图3),不利于土壤根系的生长及枯根残体积累,对区域土壤-植物生态系统的平衡产生深远影响。
+
+陆生草甸与沼泽化草甸区域的植物高度在猪拱后均有所增加（图4）,表现出较强的“干扰"适应策略。植物在放牧压力下,通过资源竞争优势,集中利用空间优势,最大限度的获取光资源[24]。高寒植物之间的竞争主要通过空间(光)竞争与营养竞争[25],猪拱样方中的植物具有较大的光能竞争优势。竞争胁迫耐受假说（stres-tolerance competition）[26-7]认为,直立、较高类型、快速生长的植物比低矮的植物具有较大的优势,可以获得更多的空间(光)资源[24,28]。猪拱样方中的植物具有较高的茎秆与较大的空间利用度,从而提高了对空间资源的利用。在对照样方中,植物覆盖度较高,彼此之间的生长受到临近物种的排斥与竞争,拓殖能力下降,群落结构组成的稳定性较高,但可供利用的生态位不足[25]。随着土壤裸露程度增加,竞争压力减小,周围植物在裸露地表上迅速繁殖,并随机占据新的生态位,裸地为多种植物生长提供了适宜的生境。另外,猪拱斑块往往呈现小型化、局部化的特点[10],也有利于不同植物的扩散与再生,导致物种丰富度在猪拱前后未发生显著变化(图5）。
+
+植物群落结构(表1)与空间利用程度(图4)在不同草甸类型中的响应不同。在沼泽化草甸(布伦）,藏香猪放牧导致植物群落结构演替,而在陆生草甸(伊拉),相关指标变化不显著,可见这种响应特征与草甸的类型密切相关（图2)。在布伦,土壤水分与养分含量较高,生态系统处于高营养水平,为植物演替创造了有力条件,表现为物种优势度的改变以及优势物种华扁穗草被水蓼所代替,表现出较强的空间拓殖性,导致空间利用度增加。 AN
+
+# 3.3 藏香猪放牧下土壤-植物的反馈机制
+
+放牧压力下,植物与土壤的关系是植物生态学研究的重要内容[29]。植物群落结构的改变同时受到土壤养分与水分的双重胁迫作用[30],表现出干扰条件下植物个体和植物种间对土壤有限资源的竞争[31]。在伊拉区域,藏香猪放牧导致土壤干旱加剧,土壤水分对植物生长产生胁迫,原先优势物种(华扁穗草)的优势度未发生改变,土壤对植物的反馈作用较弱。在布伦区域,受季节性淹水影响,土壤养分与水分含量较高,植物以较快的速度进行群落自组织,以适应自然生境的变化,表现出较强的土壤-植物反馈效应。优势种的更替是植物群落演替的重要标识。在植物未出现养分与水分胁迫的情况下,水生植物(水蓼)快速占据了生态位,成为次生演替过程中的先锋物种,导致群落结构整体优势度改变（图2）。水蓼（Polygonum hydropiper）作为一种机会主义者,在水分充足的条件下,能够在次生裸地上迅速生长,是沼泽化草甸中植物群落改变的关键物种[32](表1)。
+
+土壤养分与水分是影响植物生长的主导因素,植物不同个体对土壤资源利用程度的差异影响植物群落结构与群落动态。在不同生态位中,空间资源与土壤环境同时影响植物群落结构组成[33]。藏香猪放牧导致盖度降低、裸土面积增加,植物具有较高的空间竞争与光竞争优势,此时土壤水分成为制约生态系统演替过程和对环境变化响应的关键驱动因素。除土壤含水率外,土壤有机质、总氮以及容重作为土壤重要的理化指标,也是驱动植物群落结构改变的主要因素(图6)。综上可见,在藏香猪放牧下,植物生长对土壤环境的依赖性逐渐增加,在自我调控及组织中表现出较强的土壤-植物反馈效应,而植物演替过程中优势度的改变则表现出不同物种对土壤资源竞争的差异性，与优势种本身的生物学特性密切相关。 2
+
+# 4结论
+
+与牛羊放牧相比,藏香猪翻拱对高寒草甸生态系统的破坏更为严重。藏香猪在取食植物茎、叶的同时,通过翻拱土壤加速地下根系死亡,形成大量次生裸地,植物自我修复能力受到严重影响。在干扰条件下,植物地上及地下生物量锐减,其减少幅度甚至超过 $9 0 \%$ 。与生物量密切相关的植物盖度、密度等生产力指标也显著下降,从而不利于生物量的积累,并表现出与牛羊重度放牧相似的特征,加速草地生态系统退化。
+
+植物群落结构的变化则表现出藏香猪放牧干扰与土壤水分、空间竞争的协同作用关系。与陆生草甸相比,沼泽化草甸植物群落结构在猪拱前后发生了较为显著的变化,土壤水分是驱动其改变的主要因素。在水文条件较好的沼泽化草甸,一年生草本植物在次生裸地上快速生长并取代多年生草本植物,成为优势物种。
+
+植被破坏影响生态系统正常功能的发挥。因此,在高寒草甸的保护与恢复过程中,需要加强散养藏香猪的科学管理,改散养型放牧为圈养型放牧,减少放牧对高寒草甸的进一步破坏,维持区域生态系统结构与功能的稳定性。
+
+# 参考文献（References）：
+
+［1］廖国藩，贾幼陵.中国草地资源.北京：中国科学技术出版社，1996：1-10.  
+[2］王建林，欧阳华，王忠红，常天军，李鹏，沈振西，钟志明.西藏高寒草原生态系统表层土壤活性有机碳梯度分布及其与气候因子的关系.生态环境学报，2009，18(4)：1478-1483.  
+［3］范国艳，张静妮，张永生，李刚，王琦，杨殿林.放牧对贝加尔针茅草原植被根系分布和土壤理化特征的影响.生态学杂志，2010，29(9)：1715-1721.  
+[4］高永恒，陈槐，罗鹏，吴宁，王根绪.放牧强度对川西北高寒草甸植物生物量及其分配的影响.生态与农村环境学报，2008，24（3）：26-32.  
+[5]GrayANiier,aE.arbosdculatoatesiiftsforestslofadaglacoproductivity.Ecosphere，2016，7（1）：e01224．  
+[6]WardleD,ZackrisonOEfetsfpeisadfuioalgplssoisandostempropertie.ature,435（74)-10.  
+[7］高清竹，李玉娥，林而达，江村旺扎，万运帆，熊伟，王宝山，李文福．藏北地区草地退化的时空分布特征.地理学报，2005,60（6)：965-973.  
+[8］董全民，马玉寿，李青云，赵新全,王启基，施建军.牦牛放牧率对小嵩草高寒草甸暖季草场植物群落组成和植物多样性的影响.西北植物学报，2005，25(1)：94-102.  
+[9] Li MZ,TianSL,JinL,Zhou GY,LiY,ZhangY, WangT,Yeung CKL,ChenL,MaJD,ZhangJB,Jiang AA,LiJ,ZhouC W,ZhangJ, Liu YK,Sun XQ,ZhaoHW,NiuZ X,LouPE, XianLJ,Shen XY,LiuSQ,ZhangSH,ZhangMW,ZhuL,ShuaiSR,BaiL,TangG Q,Liu HF,JiangY Z,MaiMM,XiaoJ,Wang X,ZhouQ,Wang ZQ,StothardP,Xue M,Gao XL,Luo ZG,GuYR,Zhu HM,Hu XX,ZhaoYF,lastowGSWangJY,JiangZ,LiK,LiN,iXWeiLiRQ.Genocaalysidentifdistictpaesfeoindomesticated pigs and Tibetan wild boars.Nature Genetics，2013，45(12）：1431-1438.  
+[10] 姚茜，田昆，肖德荣，杨洪昇，曹萍麟.纳帕海湿地植物多样性及土壤有机质对猪拱干扰的响应.生态学杂志，2015，34(5)：1218-1222.  
+[11] 陈广磊，田昆，王行，张贊，孙梅，刘振亚，张晓宁，肖德荣.高原湿地纳帕海土壤持水力对不同放牧的响应.水土保持学报，2016，30(4)：123-129，141-141.  
+[12］肖德荣，田昆，杨宇明，袁华，李宁云，徐守国.高原退化湿地纳帕海植物多样性格局特征及其驱动力.生态环境，2007，16（2)：523-529.  
+［13］刘靖闻.甘南州藏猪遗传多样性及起源研究[D].兰州：甘肃农业大学，2012.  
+[14］肖德荣，田昆，张利权.滇西北高原纳帕海湿地植物多样性与土壤肥力的关系.生态学报，2008，28（7）：3116-3124.  
+[15］范桥发，肖德荣，田昆，姚茜，安素帮，余红忠.不同放牧对滇西北高原典型湿地土壤碳、氮空间分布的差异影响.土壤通报，2014，45(5):1151-1156.  
+[16] 唐明艳，杨永兴.不同人为干扰下纳帕海湖滨湿地植被及土壤退化特征.生态学报，2013，33（20）：6681-6693.  
+［17］张金屯.数量生态学.北京：科学出版社，2004：20-30.  
+[18] RicotaC,PodanJavolffcialilieasuefopreseeeataEodEvoluti5383-5389.  
+[19] 鲍士旦.土壤农化分析(第三版).北京：中国农业出版社，2000：263-282.  
+[20] 刘建军，浦野忠朗，鞠子茂，及川武久.放牧对草原生态系统地下生产力及生物量的影响.西北植物学报，2005，25(1)：88-93.  
+[21］益西措姆，许岳飞，付娟娟，孙永芳，巴桑吉巴，尼布，呼天明，苗彦军.放牧强度对西藏高寒草甸植被群落和土壤理化性质的影响.西北农林科技大学学报：自然科学版，2014，42(6)：27-33.  
+[22］王长庭，龙瑞军，王启兰，曹广民，施建军，杜岩功.放牧扰动下高寒草甸植物多样性、生产力对土壤养分条件变化的响应.生态学报，2008，28(9)：4144-4152.  
+[23］段敏杰，高清竹，万运帆,李玉娥，郭亚奇，旦久罗布，洛桑加措.放牧对藏北紫花针茅高寒草原植物群落特征的影响.生态学报,2010,30(14):3892-3900.  
+[24]ZangFZouXL,LiJuZ,DuGaceesoceutliatiooelidcatorantifspeciespeitieilScientific Reports，2015，5：16832.  
+[25］仁青吉，崔现亮，赵彬彬.放牧对高寒草甸植物群落结构及生产力的影响.草业学报，2008，17(6)：134-140.  
+2]Eslssfuture perspectives.Biological Conservation,2015，192：394-401.  
+[27]TilmanDedinDorouctivitdstaabilituediversitiassaostatu99（：718-720.  
+[30] GrimeJP.Benefitsofplatdiversitytocosystms:imediate,filerandfounderefects.JoualofEcolog998,86(6):90910.  
+[31] RubioA,Esuroaaleataltaadtslad/）：.  
+[30] 安慧，李国旗.放牧对荒漠草原植物生物量及土壤养分的影响.植物营养与肥料学报，2013，19(3)：705-712.  
+[31] FransenB,deoeeFtegitspeiealssso（）：2534-2546.  
+[32]LiF,XieYH,ZgC,nX,oBB,LiYZ,gYuJreaseddesitilitaeplaiaotrosemergent macrophyte Polygonum hydropiper. Ecological Engineering，2014,71：66-70.  
+33]edfordB，Wabdg,sestblidpantestfpatethAdol99,80(7):2151-2169. (0/

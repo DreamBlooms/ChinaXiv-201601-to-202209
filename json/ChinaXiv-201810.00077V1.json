@@ -1,0 +1,798 @@
+[
+    {
+        "type": "text",
+        "text": "一种非线性尺度空间自适应均衡水印算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "齐向明，李爽，李玥，候明君(辽宁工程技术大学 软件学院，辽宁 葫芦岛 125105)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对线性尺度空间水印算法嵌入水印位置定位不够精确，嵌入强度参数选取随机，提出一种非线性尺度空间自适应均衡水印算法。利用KAZE算法提取并筛选出非线性尺度空间稳定性强的特征点，构建嵌入水印区域；将水印图像奇异值分解，构造新矩阵作为待嵌入水印载体，通过调整果蝇优化算法的适应度函数计算嵌入强度，结合 DWT-SVD 算法自适应完成嵌入水印过程。对受到攻击的水印图像提取特征点，合成特征区域矩阵，使用嵌入水印的逆过程，提取水印。实验结果表明，PSNR值均达到44dB以上，平均NC值高达0.99，有效均衡了水印算法的不可见性和鲁棒性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：均衡水印；非线性尺度空间；自适应；KAZE算法；果蝇优化算法；奇异值分解 中图分类号：TP391.2 doi: 10.3969/j.issn.1001-3695.2018.08.0439 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Adaptive equalization watermarking algorithm in nonlinear scale space ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Qi Xiangming,Li Shuang, Li Yue, Hou Mingjun (CollegeofSoftwareLiaoning Technical University,Huludao Liaoning125105,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Aiming at the inaccuracy of embedding watermarking location and random selection of embedding intensity parameters,this paper proposed anonlinear scale space adaptive equalization watermarking algorithm.It used KAZE algorithm to extractand fiter the feature points with strong stability in nonlinear scale spaceforconstructing the watermark region.Then it used singula value decompositionon watermarking image,constructed anew matrix as the watermarking carier to be embeddedandcalculating theembedding intensitybyadjustingthe fitnessfunctionofthe ftuit flyoptimization algorithm,and withthe DWT-SVD algorithm,the watermark embedding proces is adaptivelycompleted.Extracting the feature points from theunderatack watermark image to synthesize the feature region matrix.And itused inverse processto extract watermark image.TheexperimentalresultsshowthatthePSNRvalues are above 44dBand theaverage NCvalueisas highas0.99,which effectively equalizes the invisibility and robustness of the watermarking algorithm. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: balanced watermarking;nonlinear scale space；self-adaption;KAZE algorithm；fruit fly optimization algorithm(FOA); singular value decomposition(SVD) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "大数据时代每天都会有海量信息产生，网络共享使得数字产权保护显得越来越重要。水印作为数字产权保护的一项有效措施，如何有效解决图像版权防伪认证，快速批量处理图像水印信息，成为热门研究课题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "水印是嵌入载体后不易被觉察，且不影响载体使用价值的标识，目的是确认内容创建者，判断载体是否被篡改。水印算法的核心是均衡水印透明性与鲁棒性。经典的水印方法有奇异值分解(SVD)、正交三角分解(QR)、三角分解(LU)等，特别是奇异值分解有效提高了水印算法的鲁棒性。文献[1\\~3]通过将宿主图像变换，再结合奇异值分解，提高了嵌入水印的鲁棒性，但因只嵌入水印奇异值向量，没有水印图像基空间结构信息，不可见性较差。文献[4]将NSCT、DCT、DWT和SVD 相结合一定程度均衡了不可见性和鲁棒性，可以有效抵抗常规攻击；文献[5，6]主要是为了提高算法鲁棒性，但只能抵抗常规攻击，对剪切、旋转等几何攻击鲁棒性较差。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "选择嵌入区域对提高水印抗几何攻击能力至关重要。原因是水印图像受几何攻击后，载体图像和水印坐标无法同步，提取水印时嵌入区域不能准确定位，导致提取水印不完整，因此文献[7]首次提出基于特征点的水印算法。文献[8]利用SIFT特征点对几何攻击不变特性，校正受到攻击水印图像，恢复水印的同步性，提高水印算法抗几何攻击能力；文献[9]将SIFT 与DWT结合，把DWT应用在由SIFT选定的特征区域；文献[10]利用尺度不变特征算法提取圆形区域特征点，将水印嵌入在DCT变换后的中频系数中，抗几何攻击能力较强；文献[11]利用SURF特征点构造“鲁棒零水印”序列，提高水印算法鲁棒性。文献[12，13]将SIFT与人类视觉系统(HVS)相结合，根据视觉特性确定嵌入强度，平衡算法的透明性和鲁棒性。文献[14]提出将果蝇优化算法(FOA)应用在小波域的水印算法上，自适应解决了透明性和鲁棒性的均衡问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述，水印算法鲁棒性与透明性均衡问题一直在发展和改进中，但仍然存在以下问题：a）线性尺度空间算法不能准确定位特征区域；b)线性构建的尺度空间提取特征点不够稳定；c）线性尺度空间对边缘光滑目标提取特征点不精确。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文提出一种基于非线性尺度空间的KAZE算法提取特征点，构建非线性尺度空间不变特征区域，以增强水印鲁棒性，通过FOA自适应调整嵌入强度，平衡水印的透明性和鲁棒性，利用非线性算法选取特征点定位水印位置，再做水印信息嵌入的逆过程，提取水印。本算法相比于线性水印算法，嵌入区域定位更精确，提取特征点更稳定，更能有效抵抗噪声攻击、常见攻击和几何攻击，自适应优化算法克服了非线性特征区域构建及嵌入强度参数随机选取工作量大的不足。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 基础理论",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1非线性尺度空间构建 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "非线性尺度空间的构建主要基于非线性扩散滤波原理[15]，特点是通过非线性扩散，在非线性尺度空间检测和描述特征，平滑噪声，尽可能保留目标原本边界，使其特征点更具稳定性，可以极大地保持图像的细节信息。非线性扩散滤波原理与物理学中二维热扩散过程描述相似，可以将图像亮度视为能量，亮度随尺度变化模拟热传导流动，通过热流扩散过程函数描述图像亮度扩散。该函数的引入使得扩散能够适应图像局部特征，更准确的提取出图像特征。如式（1）所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial L } { \\partial \\mathrm { t } } { = } \\mathrm { d i v } \\big ( c ( x , y , t ) \\nabla L \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：div 和 $\\nabla$ 分别表示散度和梯度，函数 $\\mathbf { c } ( \\mathbf { x } , \\mathbf { y } , \\mathbf { t } )$ 表示扩散的传导函数，参数t是尺度参数，t越大，图像表示形式越简单。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KAZE是最新的非线性尺度空间算法，它通过加性算子分裂算法(AOS)和可变传导扩散方法来构造，并进行非线性扩散，通过任意步长构建稳定的非线性尺度空间[16]。尺度级别按对数递增，共有O组octaves，每个octave 有S个sub-level，各个层级均采用与原始图像相同的分辨率。尺度参数 $\\sigma$ 如式（2）所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { \\mathrm { i } } \\left( o , s \\right) = \\sigma _ { 0 } 2 ^ { o + \\frac { s } { S } } , \\mathbf { 0 } \\in [ 0 . . . 0 - 1 ] , \\mathbf { s } \\in [ 0 . . . \\mathbf { S } - 1 ] , \\mathrm { i } \\in [ 0 . . . \\mathbf { N } ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： ${ \\sigma } _ { 0 }$ 是尺度参数的初始基准值， ${ \\mathrm { N } } { = } \\mathrm { O } ^ { { * } } \\mathrm { S }$ 是整个尺度空间包含的图像总数。非线性扩散滤波模型是以时间为单位的，将像",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "素为单位的尺度参数 ${ \\sigma } _ { \\mathrm { i } }$ 转换至时间为单位如式（3）所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt _ { i } = \\frac { 1 } { 2 } \\sigma _ { i } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KAZE算法构建尺度空间的流程是，首先通过高斯卷积平滑处理图像，减小噪声和形变等干扰；然后计算图像梯度直方图，以获取对比度因子参数k，确定保留边缘信息量；最后用进化时间序列构造非线性尺度空间，并且通过AOS算法及简单迭代求解，获取非线性尺度空间图像序列。如式（4）所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL ^ { i + 1 } = { \\Biggl ( } I - { \\bigl ( } t _ { i + 1 } - t _ { i } { \\bigr ) } \\sum _ { l = 1 } ^ { m } A _ { l } { \\bigl ( } L ^ { i } { \\bigr ) } { \\Biggr ) } ^ { - 1 } L ^ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：Ai是i尺度上图像亮度 $\\mathrm { L } _ { \\mathrm { i } }$ 在维度1上的传导矩阵,I为单位矩阵。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由此得到的特征点有更高的重复性和特殊性，能提取出图像中鲁棒性强的特征点，更加准确地确定嵌入区域。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2水印嵌入与提取 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SVD相比于其他水印嵌入方式稳定性更好，对非线性特征区域做奇异值分解，产生两个奇异向量矩阵（U、V）和一个对角矩阵（S）。奇异向量表征图像结构信息，对角线元素值包含图像重要特征信息。图像受到一定程度干扰时，对角线上奇异值不会有太大波动，仍能从分解的奇异值中提取出水印信息，而且由于奇异值是矩阵元素之间的一种表示[17]，而非视觉特性的体现，能很好的保证水印的不可见性，因此将水印嵌奇异值上。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据人类视觉系统特性，选择适当的嵌入位置和强度可以有效均衡水印。小波变换多分辨率特性和人眼视觉对低频分量敏感的特性一致，而低频分量又聚集大量能量信息，因此将水印叠加在小波分解后的低频分量中。DWT-SVD 结合算法使水印具有更好的透明性和鲁棒性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "传统水印嵌入方法是通过人工多次选取嵌入强度参数，工作量大且不能批处理。果蝇优化算法能通过自适应迭代，选取水印嵌入的最佳位置和强度，在该算法中，食物位置代表嵌入位置，味道浓度值代表嵌入强度。该算法包括以下几个步骤：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）初始化最大迭代次数Max、种群规模Pop，随机初始化果蝇群体位置(x_fly,y_fly)以及果蝇个体浓度 $S m l$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）赋予果蝇个体利用嗅觉搜寻食物随机方向与距离，Ram为搜寻距离。如式（5）所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left\\{ \\begin{array} { l l } { X _ { - } , f l y = x _ { - } f l y ( \\mathrm { i } ) + R a \\mathrm { m } } \\\\ { Y _ { - } f l y = y _ { - } f l y ( i ) + R a m } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c）预计与原点距离为D,味道浓度值Si为距离 $\\mathrm { ~ D ~ }$ 的倒数。如式（6）所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { D = s q r t ( X \\_ f l y \\left( i \\right) \\hat { \\setminus } 2 + Y \\_ f l y \\left( i \\right) \\hat { \\setminus } 2 ) } } \\\\ { { \\ } } \\\\ { { S _ { i } = \\displaystyle \\frac { 1 } { D } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "d)将味道浓度值S代入味道浓度适应度函数，求得果蝇个体位置味道浓度 $\\mathrm { { S m l } ( i ) }$ ，如（7）所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS m l \\left( i \\right) = o b j ( S \\left( i \\right) )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "适应度函数影响优化速度和最优解，即兼顾水印透明性和鲁棒性。采用峰值信噪比（PSNR）和归一化系数（NC）作为评价标准，分配 PSNR 和 NC 的权值比，构成目标函数Obj。如式（8）所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nO b j = \\alpha \\times \\left| P S N R - P S N R \\right| + \\left( 1 - \\alpha \\right) \\left( 1 - \\frac { 1 } { \\mathfrak { n } } \\sum _ { i = 1 } ^ { \\mathfrak { n } } N C _ { i } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中：PSNR是所期望的峰值信噪比， $\\alpha$ 是给峰值信噪比分配的权重，n为对图像攻击的次数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e)找出果蝇群体中味道浓度最高的位置（最优值），如式（9）所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ \\mathrm { b e s t S m e l l ~ b e s t I n d e x } ] = \\mathrm { m i n } ( \\mathrm { S m e l } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Smellbest ${ \\mathfrak { t } } = { \\mathfrak { t } }$ pestSmell ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "f)保留最佳味道浓度值和与其对应的位置坐标（X_fly,Y_fly），如式(10)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { X \\_ f l y } = \\mathrm { X } ( \\mathrm { b e s t I n d e x } ) } \\\\ { \\mathrm { Y \\_ f l y } = \\mathrm { Y } ( \\mathrm { b e s t I n d e x } ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "g)迭代寻优，重复执行步骤 ${ \\mathsf { b } } ) { \\mathsf { \\sim } } { \\mathsf { e } } ,$ ，并判断味道浓度是否优于前一迭代味道浓度，若是则执行步骤f)，迭代次数达到最大值时结束循环，得到最佳嵌入参数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 算法实现 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1水印图像预处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为消除图像像素空间相关性，需要对水印图像做加密处理。采用Anorld对水印图像中各像素点的位置进行随机而均匀的置乱，从而消除空间像素的相关性。置乱具有周期性，多次变换图像会在某一时刻恢复到原来的图像，其周期与图像的像素大小有关。图1(a)是 $3 2 \\times 3 2$ 的二值水印，对该图像进行Anorld置乱，图1 $( \\mathsf { b } \\sim ( \\mathsf { d } )$ 是对水印图像进行不同次数的变换，图(d)中水印置乱图像在 $\\scriptstyle { \\mathrm { t } = 2 4 }$ 时，恢复为原图像。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "经实经实 a)原始水印 $\\mathrm { 6 ) t = 5 \\qquad } \\mathrm { c } \\mathrm { ) t = } 2 0 \\qquad \\mathrm { d } \\mathrm { ) t = } 2 4$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2载体图像嵌入位置",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "特征区域的大小由水印图像大小确定。KAZE 算法虽能获得大量的特征点，但并不是所有特征点都适用于水印信息的嵌入和提取。因此在嵌入操作之前，必须对特征点进行筛选，删除掉对比度低和不稳定的特征点，让所剩特征点都具有较高稳定性。筛选的步骤为：首先采用KAZE作为图像特征点提取方法，通过非线性滤波对非线性尺度空间的原始图像进行特征点提取处理，获得特征点的集 $\\left\\{ P ^ { \\prime } \\right\\}$ ，删除掉 $3 { \\times } 3$ 矩形空间内两点在相邻层并且距离相等的重复特征点，并保存为 $\\left\\{ P ^ { \\ \" } \\right\\}$ ，然后通过计算生成距离集 $\\left\\{ D \\right\\}$ ，并对集 $\\left\\{ D \\right\\}$ 从小到大排序，最后根据水印图像的大小，选择特征点的个数，按照集 $\\left\\{ D \\right\\}$ 中的顺序选取对应的特征点和特征区域作为水印嵌入子块。图2是对载体图像Lena、Baboon、Barbara、plane 和Camer使用KAZE 算法提取的特征点，可以看出特征点较均匀地分布在载体图像上。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b2b828496859efa0cd82a184ef3ea5414abfa10afbe40ff4bfe2beade79227a.jpg",
+        "img_caption": [
+            "图1不同次数的水印置乱",
+            "图2图像特征点的提取"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 自适应均衡水印 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.1均衡水印嵌入",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设原始载体图像 $\\boldsymbol { { \\cal I } }$ 的大小为 $M { \\times } M$ ，水印图像 $\\pmb { W }$ 的大小为$N { \\times } N$ ，水印嵌入的具体流程如下过程：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)根据2.2节提取出原始载体图像的特征点，得到一维矩阵，将其构造成与水印图像大小相同的矩阵TT。并对TT做三级离散小波变换，取三级低频子带LL3进行SVD分解得：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ \\mathrm { U } , \\mathrm { S } , \\mathrm { V } ] = \\mathrm { S V D } ( \\mathrm { L L } 3 )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)将置乱后的水印图像进行奇异值分解，得到Uw，Vw和对角阵Sw，提取右奇异矩阵和对角矩阵，将该乘积作为水印嵌入的信息，左奇异矩阵用于水印的提取。水印信息矩阵：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { \\mathrm { w a t e r } } { = } \\mathrm { S } _ { \\scriptscriptstyle W } \\left( i , j \\right) { * } V _ { \\scriptscriptstyle W } \\left( i , j \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)使用式(13)在S 中添加水印，得嵌入水印矩阵 WW，式中 SS(i)由果蝇优化算法迭代得出：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW W = S + S S \\left( i i \\right) * W _ { w a t e r }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)对 WW 进行奇异值分解，得奇异对角阵 S1，将其与1)中的 $\\pmb { U }$ 和 $V$ 使用式(14)得嵌入水印后的LL3子带矩阵CW。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC W = U * S 1 * V ^ { T }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e)对CW做小波逆变换，重构水印图像。对含有水印信息的矩阵降维，替换原始图像的特征点，得到水印嵌入图像。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为确保算法透明性，采用PSNR作为水印图像透明性的评价标准，PSNR值的定义如式(15)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathit { P S N R } = 1 0 \\times \\log _ { 1 0 } \\left( \\frac { \\left( 2 ^ { n } - 1 \\right) ^ { 2 } } { M S E } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中：MSE为原图像与嵌入水印后图像的均方误差。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.2水印提取 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)将嵌入水印图像的相应像素点提取出来，呈一维序列，  \n使其构造成与水印大小一致的矩阵，作为水印的提取位置。b)将该矩阵做三级离散小波变换，得到低频子带LL3'。对  \nLL3'做奇异值分解，得对角矩阵S2。c）将b)中的对角奇异值矩阵S2和嵌入水印时的矩阵U1  \n和V1 进行奇异值逆变换，结果为矩阵 SN,嵌入强度参数 SS(ii)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由1.3节果蝇优化算法得出，使用式(16)提取出水印图像信息WN矩阵。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "d)利用水印的左奇异矩阵得到置乱的水印。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { W } ^ { * } = \\boldsymbol { U } _ { w } \\times \\boldsymbol { W } \\boldsymbol { N }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "e)使用Anorld 逆变换得到原始水印图像。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用相似度评价方法验证算法实用性，通过计算原始水印$\\pmb { W }$ 和提取出水印 $\\pmb { W }$ 的相似度来衡量提取水印的有效性，相似NC 的定义公式为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN C = \\frac { \\displaystyle \\sum _ { i = 1 } ^ { N } \\sum _ { j = 1 } ^ { N } W ( i , j ) \\times W ^ { * } ( i , j ) } { \\sqrt { \\displaystyle \\sum _ { i = 1 } ^ { N } \\sum _ { j = 1 } ^ { N } W ^ { 2 } ( i , j ) \\times \\sum _ { \\mathrm { i = 1 } } ^ { N } \\sum _ { j = 1 } ^ { N } W ^ { \\prime 2 } ( i , j ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\mathrm { W ( I , j ) }$ 为原始图像像素值， $\\mathrm { W } ^ { \\prime } ( \\mathrm { i } , \\mathrm { j } )$ 为嵌入水印后图像的像素值，N为图像的大小，i，j为矩阵的i行 $\\mathrm { j }$ 列。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 仿真实验与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "水印透明性用峰值信噪比（PSNR）衡量，值越大水印透明性越好，鲁棒性用归一化相关系数(NC)评价，值越大表示鲁棒性越强。选取 $5 1 2 \\times 5 1 2$ 标准灰度图像Lena、Baboon、Barbara、Plane 和Camer作为原始载体图像如图3(a)-(e)，选取 $3 2 \\times 3 2$ 的二值图像“辽宁工大”和 $6 4 \\times 6 4$ 的二值图像“版权保护”为水印图如图3(f)-(g)。测试试验中KAZE 算法的 Octave ${ \\boldsymbol { \\cdot } } = 2$ ，Sub-level=4，果蝇优化算法种群规模设定为5，最大迭代次数为50,PSNR 设定为42，对水印大小为 $3 2 \\times 3 2$ 的“辽宁工大” $\\alpha$ 值设定为0.4，水印大小为 $6 4 \\times 6 4$ 的“版权保护” $\\alpha$ 值定为0.3。实验中分别对水印载体图像进行以下9种攻击：压缩图像，高斯噪声，乘性噪声，椒盐噪声，中值滤波，缩放图像，旋转图像，剪切图像，平移含水印图像。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ccdea1770c3762997037787fda7baa3e27cc4d4008ce8779a81307832199415e.jpg",
+        "img_caption": [
+            "图3原始图像和水印图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1透明性实验 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从载体图像提取特征点时存在差异，因此从多组实验中（50次）选取一组最优解。图4(a)为标准灰度图像Lena、Baboon、Barbara、Plane和Camer。图像下面标有水印的嵌入强度ss（ii)值，用果蝇优化算法对水印图像Lena、Baboon、Barbara、Plane和Camer计算最优嵌入强度，根据数据可以分析出，使用不同的原始图像和水印图像所得到的最优嵌入参数各不相同。图4(b)",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为嵌入水印后的载体图像，图下标有图像的峰值信噪比PSNR ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "NC=1.0000经美",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "NC=1.0000 经实 经实 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "NC=1.0000 经实 经实 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "NC=1.0000 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "NC=1.0000 版权 保护 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/723ab3d6443f1d8ef9eb1b3de475a893cf568c00015bd1ae0755b45473e2f181.jpg",
+        "img_caption": [
+            "图4原始图像、含水印图像和提取出的水印图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "NC=1.0000 版权 保护 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "NC=1.0000 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "仿真实验表明，本文算法在没有受到攻击的条件下，透明性和鲁棒性都达到了理想效果。从结果可以看出，PSNR值都达到44dB以上，具有较好的感官效果，水印的透明性较好。同时，提取出来的水印NC值都达到了1.0000，水印具有较强鲁棒性。从视觉效果来看，含水印图像与原始水印图像没有明显变化，图像质量良好，且提取出的水印清晰可辨，还原度很高。实验结果验证了本文算法能较好的均衡水印透明性与鲁棒性之间的矛盾。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2鲁棒性实验 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为检验本文算法抵抗外部攻击的能力，分别对Lena、Baboon、Barbara、Plane和Camer五幅含水印图像进行常规攻击和几何攻击，验证其鲁棒性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.1常规攻击 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分别对含 $3 2 \\times 3 2$ 和 $6 4 \\times 6 4$ 水印的图像依次进行不同程度的额的高斯噪声、乘性噪声、椒盐噪声、中值滤波和压缩攻击，提取水印NC值如表1、2所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/118b159f8756d33f2ee691a20d2dcaac04f6020fb3684f19dfd2f77ab91ee72b.jpg",
+        "table_caption": [
+            "表1含 $3 2 \\times 3 2$ 水印图像常规攻击提取NC值"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">攻击方式 参数</td><td rowspan=\"2\"></td><td rowspan=\"2\">Lena</td><td rowspan=\"2\">Baboon</td><td rowspan=\"2\">Barbara</td><td rowspan=\"2\">Plane Camer</td></tr><tr><td></td></tr><tr><td>高斯噪声</td><td>0.01</td><td>0.9981</td><td>0.9985</td><td>0.9983</td><td>0.9979</td><td>0.9971</td></tr><tr><td rowspan=\"2\">乘性噪声</td><td>0.02</td><td>0.9927</td><td>0.9932</td><td>0.9919</td><td>0.9916</td><td>0.9910</td></tr><tr><td>0.01</td><td>0.9993</td><td>0.9989</td><td>0.9983</td><td>0.9992</td><td>0.9990</td></tr><tr><td rowspan=\"2\"></td><td>0.02</td><td>0.9930</td><td>0.9928</td><td>0.9922</td><td>0.9931</td><td>0.9934</td></tr><tr><td>0.01</td><td>0.9985</td><td>0.9968</td><td>0.9964</td><td>0.9956</td><td>0.9958</td></tr><tr><td>椒盐噪声</td><td>0.02</td><td>0.9921</td><td>0.9896</td><td>0.9911</td><td>0.9912</td><td>0.9904</td></tr><tr><td>中值滤波</td><td>3×3</td><td>0.9981</td><td>0.9926</td><td>0.9920</td><td>0.9990</td><td>0.9966</td></tr><tr><td rowspan=\"2\">压缩攻击</td><td>20</td><td>0.9999</td><td>0.9998</td><td>0.9999</td><td>1.0000</td><td>1.0000</td></tr><tr><td>50</td><td>1.0000</td><td>1.0000</td><td>1.0000</td><td>1.0000</td><td>1.0000</td></tr><tr><td></td><td>70</td><td>1.0000</td><td>1.0000</td><td>1.0000</td><td>1.0000</td><td>1.0000</td></tr><tr><td>含 64×64 水印图像常规攻击提取 NC 值</td><td>表2</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>T攻击方式</td><td>参数</td><td>Lena</td><td>Baboon</td><td>Barbara</td><td>Plane</td><td>Camer</td></tr><tr><td rowspan=\"2\">高斯噪声</td><td>0.01</td><td>0.9989</td><td>0.9982</td><td>0.9987</td><td>0.9989</td><td>0.9981</td></tr><tr><td>0.02</td><td>0.9940</td><td>0.9958</td><td>0.9944</td><td>0.9943</td><td>0.9938</td></tr><tr><td rowspan=\"2\">乘性噪声</td><td>0.01</td><td>0.9996</td><td>0.9991</td><td>0.9995</td><td>0.9996</td><td>0.9993</td></tr><tr><td>0.02</td><td>0.9967</td><td>0.9957</td><td>0.9969</td><td>0.9963</td><td>0.9967</td></tr><tr><td>椒盐噪声</td><td>0.01</td><td>0.9990</td><td>0.9971</td><td>0.9970</td><td>0.9975</td><td>0.9976</td></tr><tr><td></td><td>0.02</td><td>0.9923</td><td>0.9929</td><td>0.9903</td><td>0.9913</td><td>0.9909</td></tr><tr><td>中值滤波</td><td>3×3</td><td>0.9990</td><td>0.9948</td><td>0.9935</td><td>0.9994</td><td>0.9983</td></tr><tr><td rowspan=\"3\">压缩攻击</td><td>20</td><td>0.9999</td><td>1.0000</td><td>0.9999</td><td>0.9992</td><td>0.9996</td></tr><tr><td>50</td><td>1.0000</td><td>1.0000</td><td>1.0000</td><td>0.9999</td><td>0.9999</td></tr><tr><td>70</td><td>1.0000</td><td>1.0000</td><td>1.0000</td><td>1.0000</td><td>1.0000</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "数据表明，随着攻击强度的增大，对提取出的水印NC 值有一定的影响，但提取出的水印NC值仍然较大，特别是受到噪声攻击和压缩攻击，NC值还能够达到0.99以上，压缩程度到达70时，所有图像NC值都能达到1.0000，说明攻击对水印提取的质量影响不大。对比表1和表2的数据，嵌入 $3 2 \\times 3 2$ 大小的水印和 $6 4 \\times 6 4$ 大小水印在遭受相同常规攻击时得出的水印效果相似，NC值的走向大致相同。图5展示了常规攻击后含 $3 2 \\times 3 2$ 水印图像5(a)和提取出水印图像 5(b)，图6展示了常规攻击后含 $6 4 \\times 6 4$ 水印图像和提取出水印图像。从视觉上来看，所提取出的水印清晰可见，说明本算法可以抵抗常规攻击，鲁棒性较强。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f4418fd53f3597e8bef5177680f9a58babf39c09999706d5cbed5643b050bb02.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6df1164511a6f563181eb633acf0ae1317d5f0c2b3b4eac5697bc45812c9bd02.jpg",
+        "img_caption": [
+            "图5常规攻击图像和 $3 2 \\times 3 2$ 水印图像",
+            "图6常规攻击图像和 $6 4 \\times 6 4$ 水印图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.2几何攻击 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分别对Lena、Baboon、Barbara、Plane和Camer五幅含水印图像进行不同程度几何攻击。表3、表4分别列出了嵌入32$\\times 3 2$ 和 $6 4 \\times 6 4$ 水印图像的NC值。数据表明，旋转、剪切和平移攻击后，在一定强度内，随着攻击参数强度增大，对图像NC 值产生的影响不大。嵌入 $3 2 \\times 3 2$ 和 $6 4 \\times 6 4$ 大小水印图像数据的走势相同，而且嵌入 $6 4 \\times 6 4$ 水印图像的鲁棒性更优，这是由于原始图像的特征点提取数量是与水印大小成正比的，特征点提取的越多，在受到相同攻击时，对水印图像像素值的影响就会越小。攻击实验提取出的水印NC值都大于0.96，说明本文算法可以较好地抵抗几何攻击。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/3cef49e5c5b8dd1484ccd303b25ae51432522a128430f75b6c7a26561a319f0c.jpg",
+        "table_caption": [
+            "表3含 $3 2 \\times 3 2$ 水印图像几何攻击提取NC 值"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>攻击方式</td><td>参数</td><td>Lena</td><td>Baboon</td><td>Barbara</td><td>Plane</td><td>Camer</td></tr><tr><td rowspan=\"2\">旋转</td><td>10</td><td>0.9930</td><td>0.9828</td><td>0.9824</td><td>0.9839</td><td>0.9828</td></tr><tr><td>30</td><td>0.9864</td><td>0.9818</td><td>0.9801</td><td>0.9676</td><td>0.9642</td></tr><tr><td>剪切</td><td>左上1/4</td><td>0.9884</td><td>0.9809</td><td>0.9793</td><td>0.9751</td><td>0.9782</td></tr><tr><td rowspan=\"2\">平移</td><td>(10,10)</td><td>0.9908</td><td>0.9848</td><td>0.9860</td><td>0.9862</td><td>0.9831</td></tr><tr><td>(25,25)</td><td>0.9718</td><td>0.9705</td><td>0.9712</td><td>0.9710</td><td>0.9649</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/27bae81144877688dd8c4a04dd4f983477fe64e2803759bf2b1776d4f35012e5.jpg",
+        "table_caption": [
+            "表4含 $6 4 \\times 6 4$ 水印图像几何攻击提取NC 值"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>攻击方式</td><td>参数</td><td>Lena</td><td>Baboon</td><td>Barbara</td><td>Plane</td><td>Camer</td></tr><tr><td rowspan=\"2\">旋转</td><td>10</td><td>0.9987</td><td>0.9941</td><td>0.9940</td><td>0.9924</td><td>0.9928</td></tr><tr><td>30</td><td>0.9885</td><td>0.9835</td><td>0.9837</td><td>0.9776</td><td>0.9772</td></tr><tr><td>剪切</td><td>左上1/4</td><td>0.9912</td><td>0.9819</td><td>0.9771</td><td>0.9766</td><td>0.9793</td></tr><tr><td rowspan=\"2\">平移</td><td>(10,10)</td><td>0.9916</td><td>0.9889</td><td>0.9884</td><td>0.9897</td><td>0.9867</td></tr><tr><td>(25,25)</td><td>0.9872</td><td>0.9741</td><td>0.9737</td><td>0.9741</td><td>0.9720</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从下面展示的部分含水印载体图像和提取出的水印图像来看，含水印载体图像质量良好，所提取出的水印与原始水印图像并无差别，水印图像清晰可见，还原度很高。实验验证了本文算法在透明性良好的前期下，水印仍具有较强鲁棒性，达到了水印算法透明性和鲁棒性的均衡。部分受几何攻击的图像如图7、8所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/911f231f8c2e2afb053c80fdb34a2f4667cb513a099867d0d8e5659b6970a258.jpg",
+        "img_caption": [
+            "图7几何攻击图像和 $3 2 \\times 3 2$ 水印图像",
+            "图8几何攻击图像和 $6 4 \\times 6 4$ 水印图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "c(1)旋转(10) c(2)旋转(10) c(3)剪切左上角1/4c(4)平移(25,25) 版权 版权 版权 版权 保护 保护 保护 保护 d(1) d(2) d(3) d(4) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 对比实验 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以Lena为原始图像， $3 2 \\times 3 2$ “辽宁工大”为水印图像，实验结果与文献[10，14，18]算法对比，在抵抗噪声和常规攻击两个方面，NC 值都达到0.99以上，普遍高于文献[10，14，18],说明本文算法具有较强鲁棒性。但旋转攻击较文献[18]略低，这是由于为考虑KAZE 算法的效率，算法中选取的尺度范围较少(Octove ${ \\boldsymbol { \\cdot } } = 2$ ，Sub-level $\\scriptstyle = 4$ ），没有较好的保证其旋转不变性。对比实验结果如表5和图9所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/61a575058297b122f62d81fb92fd0c673dd33bbab61aabbd4df0e3a62c5cce3a.jpg",
+        "table_caption": [
+            "表5本文算法与文献[10,14,18]对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>攻击方式</td><td>参数</td><td>文献[10]</td><td>文献[14]</td><td>文献[18]</td><td>本文算法</td></tr><tr><td rowspan=\"2\">高斯噪声</td><td>0.01</td><td>0.9431</td><td>0.9819</td><td>0.9910</td><td>0.9981</td></tr><tr><td>0.02</td><td>0.9273</td><td>0.9774</td><td>0.9898</td><td>0.9927</td></tr><tr><td rowspan=\"2\">椒盐噪声</td><td>0.01</td><td>0.9429</td><td>0.9871</td><td>0.9958</td><td>0.9985</td></tr><tr><td>0.02</td><td>0.9322</td><td>0.9801</td><td>0.9912</td><td>0.9921</td></tr><tr><td>乘性噪声</td><td>0.01</td><td>0.9329</td><td>0.9814</td><td>0.9949</td><td>0.9993</td></tr><tr><td rowspan=\"2\">压缩攻击</td><td>50</td><td>0.9317</td><td>0.9962</td><td>0.9887</td><td>1.0000</td></tr><tr><td>70</td><td>0.9392</td><td>0.9976</td><td>0.9909</td><td>1.0000</td></tr><tr><td>中值滤波</td><td>3×3</td><td>0.9740</td><td>0.9912</td><td>0.9578</td><td>0.9981</td></tr><tr><td rowspan=\"2\">旋转</td><td>10</td><td>0.8838</td><td>0.9704</td><td>0.9978</td><td>0.9930</td></tr><tr><td>30</td><td>0.8046</td><td>0.9320</td><td>0.9886</td><td>0.9862</td></tr><tr><td>剪切</td><td>左上1/4</td><td>0.9504</td><td>0.9785</td><td>0.9875</td><td>0.9884</td></tr><tr><td>平移</td><td>(10,10)</td><td>0.8692</td><td>0.9725</td><td>0.9425</td><td>0.9908</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d5d8824d16723cdd2e4884fb26631b30ec8b0f52761a1ea00c2db2ff8ebf19c8.jpg",
+        "img_caption": [
+            "图9归一化相关系数对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了验证本文算法在具有较强鲁棒性的同时能兼顾水印的透明性，选择含 $3 2 \\times 3 2$ 大小水印的Lena 图像的PSNR 值与文献[10，14，18]对比。本文算法、文献[10，14，18]的PSNR值分别为48.6883、35.79、43.2748和48.4723，且本文算得到的所有含水印图像的PSNR 值都在44dB以上，优于文献[10,14,18]，显示出本文算法得到的水印图像透明性良好。本文算法对水印嵌入区域定位更准确，提取出的特征点更稳定，对各种攻击抵抗力较强，说明本文算法可以均衡水印的透明性和鲁棒性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过结合非线性尺度空间特征点检测算法和自适应算法，均衡水印透明性与鲁棒性，提出一种基于非线性扩散滤波原理的水印嵌入区域选取方案，依据果蝇觅食行为寻求自适应均衡水印最优参数，结合离散小波变换和奇异值分解算法，增强水印图像稳定性。实验结果表明，将水印信息嵌入到重要特征区域中，水印算法鲁棒性显著提高。在噪声、常规和几何攻击条件下，与现有文献比较，本文算法在水印均衡及算法效率两个方面都有提高。在计算速度和抗旋转攻击方面本文算法还存在不足，有待进一步研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]叶天语.DWT-SVD域全盲自嵌入鲁棒量化水印算法[J].中国图象图 形学报,2012,17(6):644-650.(Ye Tianyu.Perfectly blind self-embedding robust quantization-based watermarking scheme in DWT-SVD domain [J]. Journal of Image and Graphics,2012,17(6): 644-650 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[2] 姚蕾，王玲，李燕．基于NSCT-SVD 的多重数字水印算法[J].计算机 工程,2014,40(7): 106-109.(Yao Lei,Wang Ling,Li Yan. Multiple digital watermarking algorithm based on NSCT-SVD [J]. Computer Engineering, 2014,40 (7): 106-109.) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[3] 杨健，梁凤梅，范帅帅．一种结合奇异值分解的非下采样剪切波数字水 印算法[J].计算机应用研究，2018(2):507-510.(Yang Jian,Liang Fengmei, Fan Shuaishuai.Digital watermarking algorithm using nonsubsampled shearlet [J]. Journal of Computer Applications,2018 (2): 507- 510.) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[4]展虎，毛力．基于NSCT-DCT-DWT-SVD 联合数字水印算法[J].计算 机应用与软件，2018(3):309-315.(Zhan Hu,Mao Li.Joint digital watermarking algorithm based on NSCT-DCT-DWT-SVD[J].Computer Application AndSoftware,2018,35(03),309-315.) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[5]高晓玲，马旭．基于压缩感知和模糊理论的鲁棒数字水印算法[J]．计 算机工程与设计，2017,10,38(10):2672-2677.(Gao Xiaoling,Ma Xu. Robust digital watermarking algorithm based on compression sensing and fuzzy theory [J].Computer Engineering and Design,2017,10,38(10): 2672-2677. ) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[6]谢守江，张鸿宾，刘波．基于小波变换的3维网格水印[J].中国图像 图形学报,2006,11(10):1387-1394.(Xie Shoujiang,Zhang Hongbing,Liu Bo.Robust mesh atermarking based on wavelet transform [J].Journal of Image and Graphics,2006,11(10): 1387-1394.) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[7]Lee H,Kim H,Lee H.Robust image watermarking using local invariant features [J].WuHan Journal of Natural Science,2006,11 (6):1931-1934. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[8]严敏，陈军．基于QR分解的Contourlet域抗几何攻击水印算法[J].计 算机应用研究，2016,33(9):2813-2818.(Yan Min,Chen Jun.Antigeometric attack watermarking algorithm based on QR decomposition in Contourlet domain [J].Application Research of Computers,2016,33 (9): 2813-2818.) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[9]Lyu WL,ChangCC,Nguyen TS,et al. Image watermarking scheme based onscale-invariant feature transform [J].KSII Trans on Internet & Information Systems,2014,8(10): 3591-3696. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[10]高虎明，李凯捷，王英娟．基于 SIFT 抗几何攻击的数字水印算法[J]. 计算机应用，2013,33(3):748-751.（Gao Huming,Li Kaijie,Wang Yingjuan. Digital watermarking algorithm of anti-geometric based on SIFT [J].Journal of Computer Applications,2013,33 (3): 748-751.)   \n[11]朱光，师文，朱学芳．结合 SURF 特征的多功能彩色图像水印算法[J]. 中国图像图形学报,2013,18(12):1694-1702.(Zhu Guang,Shi Wen,Zhu Xuefang.Multi-purpose watermark algorithm of color image based on SURF[J]. Journal of Image and Graphics,2013,18 (12): 1694-1702.)   \n[12]陈淑琴，李智，程欣宇．人类视觉特性与 SIFT 相结合的视频双水印算 法[J].计算机应用,2017,37(7):1936-1942.(Chen Shuqin,Li Zhi,Chen Xinyu. Dual watermarking algorithm based on human visual characteristics and SIFT[J].Journal of Computer Applications,2017,37(7): 1936-1942.)   \n[13]齐向明，高婷．图像块的透明性与鲁棒性均衡水印算法[J].中国图像 图形学报,2017,22(6):719-730.(Qi Xiangming,Gao Ting.Invisible and robust watermarking algorithm based on an image block [J].Journal of Image and Graphics,2017,22(6): 719-730.)   \n[14]肖振久，孙健，王永滨，等．基于果蝇优化算法的小波域数字水印算法 [J].计算机应用,2015,35(9):2527-2530.(Xiao Zhen jiu,Sun Jian,Wang Yongbin,et al.Wavelet domain digital watermarking method based on fruit fly optimization algorithm[J]. Journal of Computer Applications,2015,35 (9): 2527-2530.)   \n[15] Qiu, Z, Yang L,Lu W.A new feature-preserving nonlinear anisotropic diffusion method for image denoising [H].Pattern Recognition Lettrs,2012, 33 (3): 319-330.   \n[16] Alcantarilla PF,Bartoli A,Davison A J.KAZE Features [C]// Proc of European Conference on Computer Vision.Berlin: Springer,20l2: 214-227.   \n[17]王奔．基于DWT-DCT-SVD的图像数字水印算法 [D].北京：北京邮电 大学,2010.(Wang Ben. An image watermarking algorithm based on DWTDCT-SVD[D].Beijing:BeijingUniversityofPostsand Telecommunications, 2010.)   \n[18]齐向明，李玥，高婷，等．图像块的自适应均衡水印[J].中国图象图 形学报,2018,23(4): 467-477.(Qi Xiangming,Li Yue,Gao Ting,et al. Watermarking alaorithm fnr adantive emali7atinn haced nn image hlnck [I ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Journal ofImage and Graphics,2018,23(4): 467-477.) ",
+        "page_idx": 6
+    }
+]

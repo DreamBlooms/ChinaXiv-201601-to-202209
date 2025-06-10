@@ -1,0 +1,435 @@
+[
+    {
+        "type": "text",
+        "text": "基于年轮信息的单株胡杨（Populuseuphratica）树干年新增生物量估算方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄运梅}²，徐海量'，张广朋,²，赵新风'(1．中国科学院新疆生态与地理研究所,新疆 乌鲁木齐830011；2．中国科学院大学,北京100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：胡杨作为塔里木河荒漠河岸林的关键树种,对水土保持、抑制沙漠化等发挥着重要的生态作用。胡杨生物量是研究荒漠河岸林生态系统的功能与服务的重要指标。胡杨是国家二级保护树种,也是扎根沙漠的唯一乔木树种,十分珍贵,难以大规模使用破坏性方法进行测量,因此针对胡杨的生物量计算一直是个难题。通过对胡杨破坏性较低的采样方法,提取不同树干高度下的胡杨树轮信息，实验结果表明： $\\textcircled{1}$ 不同高度的树轮生长量之间存在显著的相关性，平均相关性系数为0.878;在树干 $0 \\sim 0 . 5 \\ \\mathrm { m } \\ 0 . 5 \\sim 1 \\ \\mathrm { m } \\ . 1 \\sim 1 . 5 \\ \\mathrm { m } \\ 1 . 5 \\sim 2 \\ \\mathrm { m }$ 和 $2 \\sim 2 . 5 \\mathrm { ~ m ~ }$ 高度的树干密度分别为 $5 0 0 . 2 ~ \\mathrm { k g ~ \\cdot ~ m ~ ^ { - 3 } ~ } \\sqrt { 4 7 5 . 6 ~ \\mathrm { k g ~ \\cdot ~ m ~ ^ { - 3 } ~ } } \\ 5 0 2 . 2 ~ \\mathrm { k g ~ \\cdot ~ m ~ ^ { - 3 } ~ } \\ . 4 7 7 . 2 ~ \\mathrm { k g ~ \\cdot ~ m ~ ^ { - 3 } ~ }$ 和 $4 2 0 . 1 9 4 ~ \\mathrm { k g } \\cdot \\mathrm { ~ m ~ } ^ { - 3 }$ ,平均密度为471.4$\\mathbf { k g } \\cdot \\mathbf { m } ^ { - 3 }$ ,标准差为 $3 2 . 7 ; \\textcircled { 2 }$ 在获得树干不同高度下的树轮信息和树干密度基础上，可以准确计算出1株胡杨树干年生物量,在实验中1株胡杨树干的 $0 . 5 \\sim 1 . 5 \\mathrm { ~ m ~ }$ 高度处，长为 $1 \\mathrm { ~ m ~ }$ 的树干在1997—2013年的年新增生物量为0.61$\\sim 1 . 5 4 ~ \\mathrm { k g }$ ,年均新增生物量为 $0 . 9 2 ~ \\mathrm { k g }$ ,在2002一2003 年生物量增幅明显,年均新增生物量为 $1 . 5 4 ~ \\mathrm { k g }$ 。笔者使用的树干生物量计算方法对林木破坏性小且可操作性强,能计算出树干新增生物量,对研究胡杨新增生物量和生态价值的变化具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：胡杨(Populuseuphratica）;单株;年生物量;树木年轮；塔里木河下游",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "森林生物量是研究森林生态系统功能和结构的基础,也是评价生态系统的生产力、碳循环[等的重要指标。长期以来对生物量的估算都是森林生态生产力和营养物质分布等的重要研究课题[2],也是研究生态系统碳储量与平衡的基础[3]。目前,单株生物量的估算方法可以分为两大类，一类是实测法，包括直接收获法、标准枝和标准木法[4]，但是都对林木有较大的破坏性且工作量大，尤其不适用于珍稀保护树种生物量的估算。第二类是生物量模型法，对林木的破坏小，应用广泛，是确定森林生物量相对便捷、有效的测算方法。生物量模型法多使用胸径、树高及其派生因子等参数构建树木的体积模型或生物量模型（5-6]。据文献[7]统计,生物量模型涉及物种在100 种树种以上。随着树木年轮学的发展成熟，又因为树木年轮资料具有分辨率高、定年准确且具有环境指示意义的特点，树木年轮资料不仅广泛用于研究历史的气候[8-9]和极端气象事件[10]等；也越来越多的被应用于对树木蓄积量、生物量研究[]。例如,Shao 等[12]基于树木年轮信息,建立了动态估算马尾松的年材积生长量模型，Gea-Izquier-do 等[13]研究了树木年轮宽度与北方针叶林的生产力关系,程瑞梅等[14]利用马尾松的年轮宽度推算立地环境的历史生物量和生产力动态变化。利用具有年分辨率的树轮资料，可以有效地反映树干年生物量的变化[15],可以作为计算树干年生物的重要信息。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "胡杨作为塔里木河下游荒漠河岸林最重要的乔木树种，历来是塔里木河下游研究的重点。在以往的胡杨研究集中在胡杨对生态输水的响应(15-16]、胡杨的生长特性(17-18]等方面,而有关荒漠河岸胡杨林的生物量研究成果极少。仅有少数学者针对胡杨的生物量进行了研究。例如,董道瑞等[19]以材积公式为基础估算胡杨的生物量。材积公式采用胸径和树高及其派生因子作为主要参数建立方程式，是较为传统的估算森林的蓄积量、材积量的方式。但也由于胡杨胸径和树高没有明显的规律性，且无法进行大规模的破坏性采样，因而用于估算胡杨树干的生物量,具有较大的局限性。万红梅、杨帆等[20-21]利用Quickbird数据，分析提取树冠信息并分析胡杨树冠生物量的空间分布特征。上述研究没有从胡杨的年新增生物量角度探讨胡杨生物量的变化,但胡杨年新增生物量的研究对于探讨胡杨的生长变化更有意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此，本文针对如何估算胡杨树干年新增生物量这一科学问题进行探究，使用树木年轮方法，研究不同高度胡杨树干年生物量。在充分考虑胡杨的生长特性，分不同的树干高度段，把树干在不同高度上的形状差异也纳入树干生物量的计算中，不局限于胡杨的胸径树高因子建立生物量模型，以期为计算整株树的年新增生物量提供新的思路。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验样地设置在塔里木河下游的英苏断面。塔里木河下游是指从大西海子水库到台特玛湖的河段，位于塔克拉玛干沙漠和库姆塔格沙漠之间( $3 9 ^ { \\circ }$ $1 0 ^ { \\prime } 0 . 0 0 ^ { \\prime \\prime } \\sim 4 0 ^ { \\circ } 3 5 ^ { \\prime } 1 2 . 8 4 ^ { \\prime \\prime } \\mathrm { N }$ $8 8 ^ { \\circ } 2 7 ^ { \\prime } 2 9$ ： $8 8 ^ { \\prime \\prime } \\sim 8 7 ^ { \\circ } 3 3 ^ { \\prime }$ $4 8 . 9 6 ^ { \\prime \\prime } \\mathrm { E } \\cdot$ ),属于暖温带荒漠气候类型，气候极端干旱且昼夜温差大,多沙尘，年均气温 $1 0 . 8 ~ \\mathrm { { ^ { \\circ } C } }$ ,年均降水量在 $2 0 \\sim 5 0 ~ \\mathrm { m m }$ ，蒸发强烈,年蒸发量 $2 5 0 0 \\sim 3 0 0 0$ $\\mathbf { m } \\mathbf { m } ^ { [ 2 2 ] }$ 。塔里木河下游沿岸植被依赖于河流和地下水，形成了大片以胡杨为主的荒漠河岸林，阻挡两岸沙漠的合拢,形成“绿色走廊”[23],沿岸主要的植物包括胡杨、柽柳（Tamarixchinensis）梭梭（Haloxylonammodendron）骆驼刺（Alhagisparsifolia）罗布麻(Apocynumvenetam）花花柴（Kareliniacaspica）等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文把胡杨树干新增生物量的计算分为了体积和密度两部分。不同树干高度下的密度由采样获取样本，并进行一系列计算获得，而树干的体积难以通过采样实现。因而，本文利用不同树干高度下的树芯样本,在树木年轮宽度信息的基础上进行树干体积的计算,进而计算出树干年生物量，计算流程如下（图1）：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 野外采样 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2014年7月，在塔里木河下游英苏断面（ $4 0 ^ { \\circ }$ $2 3 ^ { \\prime } 4 8 . 1 ^ { \\prime \\prime } \\mathrm { N }$ ， $8 7 ^ { \\circ } 5 6 ^ { \\prime } 1 4 . 6 ^ { \\prime \\prime } \\mathrm { E } \\$ 采集树干树芯和树干密度样本。选取了5棵长势较好的成熟胡杨（表1），并使用生长锥在树干的不同高度采取树芯 $( 0 . 5 \\mathrm { ~ m ~ }$ $1 \\mathrm { ~ m ~ } , 1 . 3 \\mathrm { ~ m ~ } , 1 . 5 \\mathrm { ~ m ~ } , 2 \\mathrm { ~ m ~ } )$ ,5棵树合计采集样本40根树芯。此外，本文共选取5棵树进行密度样本采集。在每棵树树干的不同高度处采样 $( 0 \\sim 0 . 5 \\ \\mathrm { m } \\lrcorner 0 . 5 \\sim$ $1 \\textrm { m } , 1 \\sim 1 . 5 \\textrm { m } , 1 . 5 \\sim 2 \\textrm { m } , 2 \\sim 2 . 5 \\textrm { m } )$ ，总计获得59个小方块样本，去掉部分树皮截取树块，称取鲜重，以下为采集树轮样本的胡杨基本信息（表1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/035cf2cc135fb9fbb6d7dda87267f37f4aa10b965f37c54fe5dc8bf0fedbfa4c.jpg",
+        "img_caption": [
+            "图1树干年生物量估算方法流程图Fig.1Flow diagram of calculating stem net biomass"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 样本处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1树木年轮样本处理对树轮样本进行风干、打磨、抛光，为读取树轮做准备。根据树木年轮生长规律，同样的气候环境下不同树木树轮宽度的年际变化具有一致性[24]。使用树轮的骨架图方法,先把同一个高度的2个样本的窄、宽年进行对比，再对同一棵树的其他高度树轮进行对照;最后把所有树芯样本的窄、宽年进行对照并结合以往关于此区域胡杨径向生长量的研究结果，综合起来定年，以保证定年准确性。在初步定年完成后，使用树木年轮分析仪（LINTAB，精度为 $0 . 0 0 1 \\ \\mathrm { m m }$ )读取树轮宽度，再使用窄年骨架图进行对比校正，完成树芯样本的处理。在样本处理中，剔除难以辨识的树轮样本，最后保留了32个树芯样本，分别有 $0 . 5 \\mathrm { ~ m ~ } , 1 \\mathrm { m } \\mathrm { ~ } , 1 . 3 \\mathrm { m } \\mathrm { ~ } , 1 . 5 \\mathrm { ~ m ~ } ,$ （20$2 \\mathrm { ~ m ~ } . 2 . 5 \\mathrm { ~ m ~ }$ 高度样芯。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/a5eb95c0db6c5cd20a6eb7398edd90856e79b7d6f7c3d3856fbf04f61b6071c0.jpg",
+        "table_caption": [
+            "表1胡杨树轮样本的基本信息",
+            "Tab.1 Background information of trees. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号</td><td>树高 /m</td><td>树干基部 周长/cm</td><td>胸周长 /cm</td><td>冠幅 /m×m</td><td>位置</td></tr><tr><td>1</td><td>14.0</td><td>204.6</td><td>178.2</td><td>9.48×9.96</td><td>40°24'96.4\"N, 87°57'44.3\"E</td></tr><tr><td>2</td><td>8.3</td><td>120</td><td>103</td><td>6.87×5.78</td><td>40°23'48.1\"N, 87°56'14.6\"E</td></tr><tr><td>3</td><td>8.8</td><td>132.2</td><td>129.1</td><td>6.82 ×5.88</td><td>40°23'88.1\"N, 87°56'54.6\"E</td></tr><tr><td>4</td><td>8.7</td><td>128</td><td>106</td><td>6.98 ×5.83</td><td>40°24'48.6\"N, 87°56'94.1\"E</td></tr><tr><td>5</td><td>7.4</td><td>75.2</td><td>63.1</td><td>516×487</td><td>40°26'6.4\"N, 87°58'51.6\"E</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2树干密度样本处理树干的密度样本在称取鲜重后，再以恒温 $8 5 \\ \\mathrm { { ^ \\circ C } }$ 烘烤达到恒重，称取样本干物质的重量,然后使用排水法[25],量取树干密度样本的体积。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 数据处理和计算",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.1不同高度的树干树木年轮宽度的相关性分析对获取的不同高度的树干树木年轮宽度数据进行Pearson相关性分析，分析同一棵树不同高度的树木年轮之间的相关性和不同的胡杨树干树木年轮宽度的相关性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.2树干密度分析对胡杨树干的密度进行采样和计算，是为计算不同高度的树干生物量做准备。本文采用树干密度样本的体积和干重数据,计算出每一个木块的密度,再对每棵树和每一个树干高度进行分析，计算胡杨在不同高度上平均密度、标准差和所有样本的平均密度及标准差。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.3树干体积和生物量的计算本文研究单株胡杨的主体是树冠以下到地面以上的树干生物量。考虑采样的可操作性和计算的便捷性，选取离地面高度 $0 . 5 \\sim 3 \\mathrm { ~ m ~ }$ 树干的样本进行研究，利用此段所采的样本研究胡杨在不同高度树轮宽度的变化规律和密度的分布规律，以其作为研究整株树干生物量的基础。具体计算过程如下：首先利用所采密度样本，计算出树干干物质的密度;然后，提取树木年轮宽度，使用圆台公式计算胡杨的对应高度段的体积， $i$ 年的体积与i-1年的体积差( $\\Delta v = v _ { i } - v _ { i - 1 } ,$ ），即为 $\\mathbf { \\chi } _ { i }$ 年新增生物量所占的树干体积。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "计算中使用树干最外围的大圆半径作为半径 $\\boldsymbol { r }$ （或 $R$ ）， $r$ 包含了从采样年之前的树木年轮宽度。使用树木年轮样本，可以测量出每年的树轮宽度 $d$ ，每一年对应的树干半径 $r _ { i }$ ,即前一年树干半径为 $r _ { i - 1 }$ $= r _ { i } - d$ ;然后利用体积计算公式（2），得到 $\\boldsymbol { v } _ { i }$ 和$\\boldsymbol { v } _ { i - 1 }$ ,两者之差即第 $\\mathbf { \\chi } _ { i }$ 年树干新增的生物量所占的体积 $\\varDelta v$ 。 $r _ { 1 9 9 9 } \\ 、 r _ { 2 0 0 0 }$ 为 $1 9 9 9 , 2 0 0 0$ 年树干 $2 \\mathrm { ~ m ~ }$ 高度的树干半径；分别为1999、2000 年树干 $1 . 5 \\mathrm { ~ m ~ }$ 高度树干半径，使用公式(3)便可得到2000年树干在 $1 . 5 \\sim 2$ $\\mathrm { ~ m ~ }$ 段新增生物量所占的体积（图2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta v = \\frac { h \\times \\pi \\big ( r _ { i } ^ { 2 } + r _ { i } \\times R _ { i } + R _ { i } ^ { 2 } \\big ) } { 3 } -\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { h \\times \\pi \\big [ r _ { i - 1 } ^ { 2 } + r _ { i - 1 } \\times R _ { i - 1 } + ( R _ { i - 1 } ) ^ { 2 } \\big ] } { 3 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\varDelta v$ 为 $i$ 年新增的树干生物量的体积 $( \\mathbf { m } ^ { 3 } ) : h$ 为树干长度 $( \\mathbf { m } ) ; r _ { i } \\setminus r _ { i - 1 } \\setminus R _ { i } \\setminus R _ { i - 1 }$ 分别为在 $\\mathbf { \\chi } _ { i }$ 和 $i - 1$ 年树干截面的顶面和底面半径 $\\mathrm { ~ ( ~ m ~ ) ~ }$ ;树干年生物量计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta w = \\frac { \\pi } { 3 } \\rho h \\times ( 2 r _ { i } \\times d _ { i } + r _ { i } \\times D _ { i } + 2 R _ { i } \\times D _ { i } + d _ { i } \\times\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { i } - d _ { i } ^ { 2 } - D _ { i } ^ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\varDelta w$ 为树干年新增生物量 $( \\deg ) : \\rho$ 为树干密度（20 $( \\mathbf { k g } \\cdot \\mathbf { m } ^ { - 3 } ) ; d , D$ 分别为 $\\mathbf { \\chi } _ { i }$ 年的新增树木年轮宽度$\\mathrm { ( m ) }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/027b7b1c1a5e4765ac2e40a797359e52c3a6a1f2c3aa801ad5fe5a345481e127.jpg",
+        "img_caption": [
+            "图2树干体积计算示意图",
+            "Fig.2Sketch map of calculation for stem volume "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 不同高度的胡杨树干树木年轮相关性分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用预处理后的树木年轮宽度数据，同一棵树在不同高度树干上径向生长量的变化趋势较为一致，不同高度的树轮宽度曲线在窄、宽年的变化上十分一致，例如在1989—1999 年树轮的径向生长量相对于其他年份变化较小，生长量也较少;在2000 年后年轮宽度变宽，在2008年和2009年出现窄年。采用双侧检验Pearson相关性，检验结果表明所有样本的Pearson相关性系数的平均值为0.878。5棵树不同高度的树木年轮宽度的Pearson相关性系数分别为0.799、0.963、0.869、0.885和0.877，在0.01水平(双侧)上显著相关。此检验结果表明同一株树在不同高度上，胡杨的树轮径向生长量变化趋势一致,并且不同高度的树干径向生长量差异较小（图3）。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/afa8bf97a5c7c6698ecd47bb2f4533dea041bb5bee18680318513a544be960b8.jpg",
+        "img_caption": [
+            "Fig.3From1989 to 2014 year,T1 and T2 tree-ring width at $1 \\mathrm { ~ m ~ }$ ， $1 . 3 \\mathrm { ~ m ~ }$ ， $1 . 5 \\mathrm { ~ m ~ }$ of stem heights. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 胡杨树干密度",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "树与树之间的密度差异比同一棵树的不同高度上的密度差异更明显。经计算得到不同高度的树干平均密度，胡杨树干的干重和鲜重的平均重量比为$0 . 5 7 \\%$ ,胡杨树干的平均含水率为 $4 3 . 2 \\%$ 。胡杨1$\\sim 1 . 5 \\mathrm { ~ m ~ }$ 树干高度处的平均密度最大,其次是 $0 \\sim 0$ $5 \\mathrm { ~ m ~ }$ 高度处的树干,处于 $2 \\sim 2 . 5 \\mathrm { ~ m ~ }$ 高度的树干密度最小,在总体上有树干低处密度略高于树干高处的趋势,树干的平均密度为 $4 7 1 . 4 \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 3 }$ ,标准差32.8(表2)。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9e1e940c8c73edafd69d717549861052f073dd798eb2535c32ff6383a6c8049a.jpg",
+        "table_caption": [
+            "表25株树不同高度树干的样本平均密度",
+            "Tab.2Five trees stem dense data in different tree heights "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">样本高度 /m</td><td>树1</td><td>树2</td><td>树3</td><td>树4</td><td>树5</td><td>平均值</td><td>标准差</td></tr><tr><td colspan=\"7\">/ (kg·m-3)</td></tr><tr><td>0~0.5</td><td>418.1</td><td>464.9</td><td>460.9</td><td>609.6</td><td>547.4</td><td>500.2</td><td>77.9</td></tr><tr><td>0.5~1</td><td>386.7</td><td>462.5</td><td>529.4</td><td>447.7</td><td>551.6</td><td>475.6</td><td>66.2</td></tr><tr><td>1~1.5</td><td>401.0</td><td>469.0</td><td>533.2</td><td>507.7</td><td>600.0</td><td>502.2</td><td>73.9</td></tr><tr><td>1.5~2</td><td>397.9</td><td>442.7</td><td>469.5</td><td>461.5</td><td>614.3</td><td>477.2</td><td>81.4</td></tr><tr><td>2~2.5</td><td>386.5</td><td>一</td><td>454.0</td><td>一</td><td>一</td><td>420.2</td><td>74.2</td></tr><tr><td>标准差</td><td>12.9</td><td>10.8</td><td>38.7</td><td>73.3</td><td>33.83</td><td>32.7</td><td>二</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/609478f2c2cb05a5bd616bb744935bb719c1f9430f968a88f9c34c1d2318982d.jpg",
+        "img_caption": [
+            "图31989—2014 年T1、T2 不同高度树干径向生长量"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3树干不同高度下的胡杨年新增生物量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在体积和密度共同影响下，处于不同树干高度下的胡杨年生物量变化趋势较为一致，只在具体的变化量上略有差异。通过前文的计算，可以得出胡杨年生物量，以实验中的1棵胡杨（T2）为例，在树干的 $0 . 5 \\sim 1 . 5 \\mathrm { ~ m ~ }$ 高度处,长为 $1 \\mathrm { ~ m ~ }$ 的树干1997—2013年的年生物量为 $0 . 6 1 \\sim 1 . 5 4 \\mathrm { ~ k g }$ ,年均新增生物量为 $0 . 9 2 ~ \\mathrm { k g }$ ;1997—2000和2009 年生物量较小，在2002—2003 年生物量增幅明显，年均新增生物量为 $1 . 5 4 ~ \\mathrm { k g }$ 。假设此树的树干变形较小并使用此处$1 \\mathrm { ~ m ~ }$ 长的树干年新增生物量来推算 $5 \\mathrm { ~ m ~ }$ 的高的树干，1997—2013年新增生物量在 $2  { \\mathrm { ~ \\sim ~ } } 8  { \\mathrm { ~ \\ k g ~ } }$ 范围内波动，年均新增生物量为 $4 . 6 ~ \\mathrm { k g }$ 。在2000年生态输水开展后，年新增生物量为 $5 . 1 7 ~ \\mathrm { k g }$ ,最大生物量也为2002年的 $8 ~ \\mathrm { k g }$ ,最小生物量为2009 年 $3 . 0 ~ \\mathrm { k g }$ （图4）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/65a4d88ada2fedf9c4b80e0db0760acf1a59c270a65c08968ac918d4f613aec8.jpg",
+        "img_caption": [
+            "图4T2树干不同高度的年生物量变化 Fig.4Stem biomass at different stem heights from 1997 to 2013 year. ",
+            "图5T2树干( $\\mathrm { ~ 5 ~ m } )$ 年生物量与前一年英苏断面生态水量的变化",
+            "Fig.5Stem annual biomass and the previous a year ecological water in Yingsu section. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "胡杨树干的年新增生物量在时间上呈现出明显的波动,安红燕等[26]研究表明塔里木河下游胡杨树轮宽度变化与生态输水密切相关，并且发现胡杨径向生长量与断面水量存在着时滞效应，对比此处T2的树干新增年生物量与采样断面生态水量的变化趋势，发现当年生物量与其前一年的生态水量，变化趋势更为吻合、相关性更高(图5），这也说明了本文方法和结果的可靠性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "干旱区荒漠河岸林的生态价值已越来越受到人们的重视，其中胡杨是记录塔里木河下游环境变迁的重要载体[27],评价荒漠河岸林价值和塔里木河下游近年生态输水效应的重要部分[28]。本文采用不同高度的树木年轮宽度，直接计算出树干年生物量，为量化树干的年新增生态价值，进一步探讨胡杨林的年生物量变化对环境因子的响应，为评价荒漠河岸林的生态服务价值奠定基础资料。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "董道瑞等[19]使用胸径树高因子构建的材积公式(公式3)计算出胡杨树干生物量，并使用数理统计方法估算了树冠的生物量，完整的估算整棵树的生物量对于估算塔河下游生物量具有重要的意义，但是仅使用胸径、树高因子计算生物量，在估算胡杨树干生物量上有局限性；一方面树干生物量计算中没有考虑胡杨树干的弯曲和树形上的变化，另一方面树干生物量结果比较粗糙，无法估算胡杨树干年新增生物量。然而，在生态输水的背景下荒漠河岸林的年新增生物量是我们更加关注的问题，因为探究胡杨新增生物量的年变化，便于我们从新增生物量的层次分析胡杨对生态输水的响应，只有在计算出年新增生物量的情况下，才能进一步分析不同离河距离的胡杨年生物量的变化和累积情况",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $V$ 为胡杨树干材积（ $( \\mathbf { m } ^ { 3 }$ ）； $D$ 为树干胸径（cm）； $H$ 为树高 $\\mathrm { ( m ) }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文参考 Shao[12）、Grumlich(30]和 Rathgeber[(31]等学者研究松树、杉木等生物量的方法，发现这些树种的生物量计算方法，并不完全适用于胡杨；例如Shao所用的全收获法，利用不同高度树盘的年轮信息建立了树干体积数学模型，此方法精度较高，但是不利于荒漠河岸胡杨林的持续研究和极端干旱区的生态保护;Rathgeber利用胸径－树高的相关性，模拟历年林木胸径。但是考虑到不同立地条件下的胡杨树高与胸径的关系差异性，且塔里木河下游胡杨林的树高与胸径的相关性不显著[29]。因此,本研究参考其他学者的研究成果，并结合胡杨的特性，对研究方法进行了改进。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究具有以下特点： $\\textcircled{1}$ 立足于胡杨树木年轮信息，提出计算胡杨不同高度树干年新增生物量的方法。此方法基于树木年轮信息，具有年分辨率高，且对胡杨林破坏性小，同时考虑了胡杨树十形状不规则的特点； $\\textcircled{2}$ 生物量的计算不局限于只把胸径、树高及其派生因子纳入生物量模型中，应同时考虑胡杨区别于其他树种的生长特点，例如树干形状的弯曲等因子，以估算出比以往胡杨生物量模型更为准确的生物量。该方法可以作为对胡杨等重点保护树种、濒危树种生物量计算的一种破坏性较小，可实施性较强，且较为符合实际情况的方案。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "虽然本文的研究有初步的结果，但仍需深入研究，例如增加采样范围对不同离河距离、不同胸径范围的胡杨进行分类，以计算出能代表某一区域的树干年生物量，便于直接估算区域的胡杨树干新增生物量。此外，由于胡杨对于当地环境具有重要的生态保护作用，其生物量的准确验证难以实现。因此，如何有效评估算法的精度或者是找到一个精确性更高且操作性好、对林木破坏小的估算方法，将是胡杨生物量研究的一个难点。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）同一棵胡杨在不同高度的树轮径向生长量存在着显著的相关性，平均的Pearson相关系数为0.878,使用树干某一个高度上的胡杨树木年轮信息可以反映整株树干的径向生长量在时间上的变化趋势。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2）胡杨树干密度分布具有差异，在树干 $0 \\sim$ $0 . 5 \\textrm { m } , 0 . 5 \\sim 1 \\mathrm { m } \\textrm { } , 1 \\sim 1 . 5 \\textrm { m } , 1 . 5 \\sim 2 \\textrm { m }$ 和 $2 \\sim 2 . 5 \\mathrm { ~ m ~ }$ 高度上,树干密度分别为 $5 0 0 . 2 ~ \\mathrm { k g } \\cdot \\mathrm { ~ m ~ } ^ { - 3 } \\cdot 4 7 5 . 6 ~ \\mathrm { k g }$ （20号 $\\cdot \\ \\mathrm { m } ^ { - 3 } \\ . 5 0 2 . 2 \\ \\mathrm { k g } \\cdot \\ \\mathrm { m } ^ { - 3 } \\ . 4 7 7 . \\ 2 \\ \\mathrm { k g } \\cdot \\ \\mathrm { m } ^ { - 3 }$ 和 420. 194$\\mathbf { k g } \\cdot \\mathbf { m } ^ { - 3 }$ ,树干的平均密度为 $4 7 1 . 4 \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 3 }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（3）使用不同树干高度的胡杨树木年轮数据并结合不同高度的树干密度，计算出胡杨树干的年新增生物量。实验中在树干的 $0 . 5 \\sim 1 . 5 \\mathrm { ~ m ~ }$ 高度处，长为 $1 \\mathrm { ~ m ~ }$ 的树干在1997—2013 年的年新增生物量在$0 . 6 1 \\sim 1 . 5 4 \\mathrm { k g }$ ,年均新增生物量为 $0 . 9 2 ~ \\mathrm { k g }$ ，在",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2002一2003年生物量增幅明显，年均新增生物量为$1 . 5 4 ~ \\mathrm { k g }$ 。本文的树干新增生物量计算方法，对树木破坏性小且便于操作，为进一步研究胡杨年新增生态价值提供基础资料。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）:",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Houghton R A.Aboveground forest biomass and the global carbon balance[J].Global Change Biology,2005,11(6）:945-958.   \n[2]Jurskis VIC.Converting stem volume to biomass with additivity, bias correction,and confidence bands for two Australian tree spe cies[J].New Zealand Journal of Forestry Science,2001,31(3）: 298 -319.   \n[3]Brown SL,Schroeder P,Kern JS.Spatial distribution of biomass in forests of the eastern USA.[J].Forest Ecology & Management, 1999,123(1) :81 - 90.   \n[4］汤萃文,陈银萍,陶玲,等.森林生物量和净生长量测算方法综 述[J].干旱区研究,2010,27（6）:939-946.[TangCuiwen, Chen Yinping,Tao Lin,et al.Overview of forest biomass and models of estimating NPP[J].Arid Zone Research,2010,27(6):939 -946.]   \n[5]Chave J,Réjou- Méchain M,Burquez A,et al.Improved allometric models to estimate the aboveground biomass of tropical trees[J]. Global Change Biology,2014,20（10）:3177-3190.[6]Planck V N R,Macfarlane D W.A vertically integrated whole-tree biomass model.[J].Trees,2015,29(2）:449-460.   \n[7]项文化,田大伦,闫文德.森林生物量与生产力研究综述[J]. 中南林业调查规划,2003,22（3）:57-60,64.[XiangWenhua, Tian Dalun,Yan Wende.Review of researches on forest biomass and productivity[J]. Central South Forest Inventory & Planing, 2003,22(3):57 -60.]   \n[8]Esper J,Cook E,Schweingruber F.Low-frequency signals in long tree -ring chronologies for reconstructing past temperature variability.[J]. Science,2002,295(5 563）:2 250.   \n[9]Tian Q,Gou X,Zhang Y,et al. Tree - ring based drought reconstruction（A.D.1855-2001）for the Qilian Mountains,Northwestern China[J]. Tree-ring Research,2009,63(1）:27-36.   \n[10] Rammig A,Wiedermann M,Donges JF,et al. Tree- ring responses to extreme climate events as benchmarks for terrestrial dynamic vegetation models[J]. Biogeosciences Discussions,2014,11（2）: 2 537 -2 568.   \n[11]Zhang Y D,Liu Y C,Liu SR.Dynamics of stand biomass and volume of the tree layer in forests with different restoration approaches based on tree-ring analysis[J].Chinese Journal of Plant Ecology,2012,36(2):117 -125.   \n[12]Shao Q,Lin H,Liu J,et al.Dynamic analysis on carbon accumulation of a plantation in Qianyanzhou based on tree ring data[J]. Journal of Geographical Sciences,2009,19(6）:691-706.   \n[13]Gea - Izquierdo G,Bergeron Y,Huang JG,et al.The relationship between productivity and tree－ ring growth in boreal coniferous forests[J].Boreal Environment Research,2014,19（5）:363- 378.   \n[14］程瑞梅,封晓辉,肖文发,等.北亚热带马尾松净生产力对气候 变化的响应[J].生态学报,2011,31（8）:2086-2095.[Cheng Ruimei,Feng Xiaohui,Xiao Wenfa,et al.Response of net produc",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "tivity of Masson pine plantation to climate change in North Subtropical Region[J].Acta Ecologica Sinica,2011,31（8）:2 086 - 2 095.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[15]Ling H,Pei Z,Guo B,et al.Negative feedback adjustment challenges reconstruction study from tree rings:A study case of response of Populus euphratica to river discontinuous flow and ecological water conveyance[J].Science of the Total Environment,2017,574: 109 - 119.   \n[16]彭小梅,肖生春,程国栋,等.胡杨(Populus euphratica）树轮记 录的20 世纪40 年代前后黑河下游分水过程及其生态影响 [J].中国沙漠,2016,36（1）:206-215.[Peng Xiaomei,Xiao Shengchun,Cheng Guodong,et al. The water allocation history and its ecological impacts recorded in Populus euphratica tree ring in the lower reaches of the Heihe River around the $1 9 4 0 \\mathrm { s } [ \\mathrm { J } ]$ . Journal of Desert Research,2016,36(1）:206-215.]   \n[17］王日照,陈亚鹏,陈亚宁,等.地下水埋深对胡杨(Populus euphratica)叶片形态结构和水力导度的影响[J].中国沙漠,2016, 36(5）:1 302-1 309.[Wang Rizhao,Chen Yapeng,Chen Yaning,et al.Effects of groundwater level on morphological,anatomical structure and leaf hydraulic conductance of Populus euphratica [J].Journal of Desert Research,2016,36(5）:1 302-1 309.]   \n[18］蒋少伟,周多多,吴桂林,等.不同地下水埋深下胡杨枝条水力 导度及其季节变化[J].干旱区研究,2017,34（3）:648-654. [Jiang Shaowei,Zhou Duoduo,Wu Guilin,et al.Hydraulic conductivity and its seasonal variation of Populus euphratica shoot at the sites with varying groundwater depths[J].Arid Zone Research, 2017,34(3) :648 -654.]   \n[19］董道瑞,李霞,万红梅,等.塔里木河下游胡杨(Populus euphratica)地上生物量估测[J].中国沙漠,2013,33（3）：724-730. [Dong Daorui,Li Xia,Wan Hongmei,et al.Aboveground biomass estimation of Populus euphratica in the lower reaches of Tarim River[J].Journal of Desert Research,2013,33(3）:724-730.]   \n[20］万红梅,李霞,董道瑞,等.塔里木河下游林地树冠QuickBird 影像信息提取与分析[J].西北植物学报,2011,31（9）：1 878 -1 885.[Wan Hongmei,Li Xia,Dong Daorui,et al.Abstraction and analysis of tree -crown of forest land based on QuickBird Image in the lower reaches of Tarim River[J].Acta Botanica Boreali - Occidentalia Sinica,2011,31(9):1 878 -1 885.]   \n[21］杨帆,张绘芳,李霞,等.基于QuickBird 数据的塔里木河下游 荒漠林地上生物量估测[J].新疆农业科学,2014,51（11)： 2 066-2 O72.[Yang Fan,Zhang Huifang,Li Xia,et al. Aboveground biomass estimation of desert forest in the lower reaches of Tarim River based on QuickBird Image.[J].Xinjiang Agricultural Sciences,2014,51（11）: 2 066-2 072.]   \n[22]徐海量,宋郁东,陈亚宁.塔里木河下游生态输水后地下水变化 规律研究[J].水科学进展,2004,15(2）:223-226.[Xu Hailiang,Song Yudong,Chen Yaning.Study on variation of ground-water after ecological water transport in the lower reaches of Tarim River[J].Advances in Water Science,2004,15(2):223 -226.]   \n[23］邓铭江,杨鹏年,周海鹰,等.塔里木河下游水量转化特征及其 生态输水策略[J].干旱区研究,2017,34（4):717-726.[Deng Mingjiang,Yang Pengnian,Zhou Haiying,etal.Water conversion and strategy of ecological water conveyance in the lower reaches of the Tarim River[J].Arid Zone Research,2017,34（4）:717 - 726.]   \n[24］马利民,刘禹,赵建夫.交叉定年技术及其在高分辨率年代学 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "中的应用[J].地学前缘,2003,10（2）:351-355.[Ma Limin, Liu Yu,Zhao Jianfu. Cross-dating and its application in high resolving chronological research[J].Earth Science Frontiers,2003, 10(2) :351-355.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[25]卢翠香，陈健波，刘媛，等.邓恩桉生材含水率、年轮宽度及木 材密度研究[J].桉树科技，2014，31（2）：23-27.［LuCuixiang,Chen Jianbo,Liu Yuan,etal.Research on moisture content of green wood,annual ring width and wood dnsity of Eucalyptus dunnii[J].Eucalypt Science& Technology,2014,31（2）:23-27.] [26]安红燕，徐海量,叶茂,等.塔里木河下游生态输水后胡杨径向 生长量的时空变化[J].应用生态学报,2011,22（1)：29-34. [AnHongyan,Xu Hailiang,Ye Mao,et al.Spatiotemporal variation ofPopulus euphratica's radial increment at lowerreaches of Tarim Riverafter ecological water transfer[J].Chinese Journal of Applied Ecology,2011,22(1) :29-34.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[27」周洪华，李卫红，李玉朋，等.基于树木年轮技术的塔里木河下游河岸胡杨林生态需水量研究[J].生态学报，2017，37（22）：1-9.[Zhou Honghua,Li Weihong,Li Yupeng,et al.Estimation ofecological water demand of a desert riparian forest using tree ringsofPopulus euphratica in the lower Tarim River[J].Acta Ecologica",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Sinica,2017,37(22):1-9.]   \n[28」王敏，徐海量,叶茂,等.不同林龄胡杨径向生长量与地下水的 关系［J].水土保持研究,2017,24（1）：357-360.［WangMin, Xu Hailiang,Ye Mao,et al.Relationship between different stand age Populus euphratica's radial growth and groundwater[J].Research of Soil and Water Conservation,2017,24(1）:357-360.]   \n[29]董道瑞.塔里木河下游胡杨、怪柳群落地上生物量遥感估测 [D].乌鲁木齐：新疆农业大学,2012.［DongDaorui,Aboveground Biomass Estimation of Populous euphratica and Tamarix Community with Remote Sensing in the Lower Researches of Tarim River[D]. Urumqi:Xinjiang Agricultural University,2012.]   \n[30]Graumlich LJ,BrubakerLB,GrierC C.Long-term trends in forest net primary productivity:Cascade Mountains,Washington[J]. Ecology,1989,70(2）:405-410.   \n[31]Rathgeber C,Nicault A,Guiot J,et al.Simulated responses of Pinus halepensis forest productivity to climatic change and CO $^ 2$ increase using a statistical model.[J].Global & Planetary Change, 2000,26(4):405-421. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Annual Biomass Estimation of Individual Populus euphratica Based on Tree - ring ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Huang Yunmeil,2,Xu Hailiang1,Zhang Gaungpeng1,2,Zhao Xinfeng1 (1. Xinjiang Institute of Ecologyand Geography Chinese Academy of Sciences,Urumqi ,83011,Xinjiang China; 2.University ofChinese Academy ofSciences,Beijing,lOoo49,China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract：In the downstream of Tarim River,Populus euphratica is the keyspecies in desert forests which play the crucial role of protecting ecological environment and alleviation of sand damage to thelocal areas.Studying the biomass of P.euphratica can help reveal fundamental principles on the desert forests ecosystem function and value. AndP.euphratica,theonly tree species inthe desert in China,is the second -grade national key protection plant species,with a high value for its rareness.Therefore，the common destructive methods cannot be used to study tree biomass.On the other hand,how to precisely measure the biomass has always remains a tricky problem.Thus，in this research,for calculating the yearly stem biomass，we depend onan innovative method with lessdestructiveness in obtaining samples.For an individual tree，experiment samplesare taken from diffrent height positions in the stem to attain corresponding tree-ring width.Results show the rules that（1）there is a significant correlation between tree-ring growth at different heights withan average Pearson correlation coefficient ofO.878.The trunk density at different heights of tree trunks $0 - 0 . 5 \\mathrm { ~ m ~ }$ ， $0 . 5 - 1 \\mathrm { ~ m ~ }$ ， $1 - 1 . 5 \\mathrm { ~ m ~ }$ ， $1 . 5 - 2 \\mathrm { ~ m ~ }$ and $2 - 2 . 5 \\mathrm { m }$ are $5 0 0 . 2 ~ \\mathrm { k g } \\cdot$ （20 $\\mathrm { m } - 3$ ， $4 7 5 . 6 \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } - 3$ ， $5 0 2 . 2 ~ \\mathrm { k g } \\cdot \\mathrm { ~ m ~ } - 3$ ， $4 7 7 . 2 \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ m ~ } - 3$ and $4 2 0 . 1 9 4 ~ \\mathrm { k g } \\cdot \\mathrm { ~ m ~ } - 3$ respectively with the standarddeviation of32.7；（2）Basedonthe information of tree－ring and trunk densitiesat different trunk heights，theannual biomassof P.euphratica can be calculated accurately.In theexperiment,the annual biomass of the trunks at $0 . 5 - 1 . 5 \\mathrm { ~ m ~ }$ trunk height are changing from $0 . 6 1 - 1 . 5 4 ~ \\mathrm { k g }$ in 1997-2013，and the annual average biomass is $0 . 9 2 ~ \\mathrm { k g }$ .Between 2Oo2 and 2OO3，annual biomass increase obviously with an average annual biomass of $1 . 5 4 ~ \\mathrm { k g }$ .This method in this research is less destructive and easy to implement，and can be effectively applied in practical uses for calculating individual tree annual above biomass of P.euphratica.The estimationof annual stem biomass is of great significance for studying the changes of desert riparian forest ecological value. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Key words:Populus euphratica，annual biomass，tree - ring，the downstream of Tarim River ",
+        "page_idx": 6
+    }
+]

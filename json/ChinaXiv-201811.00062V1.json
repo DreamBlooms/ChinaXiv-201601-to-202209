@@ -1,0 +1,458 @@
+[
+    {
+        "type": "text",
+        "text": "古尔班通古特沙漠南缘丘间地梭梭 群落蒸散特征 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王泽锋},²，胡顺军¹，李浩1,2(1中国科学院新疆生态与地理研究所荒漠与绿洲生态国家重点实验室,新疆乌鲁木齐830011;2中国科学院大学,北京100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：根据2016年古尔班通古特沙漠南缘丘间地梭梭生育期定点观测的土壤水分、气象要素等资料,基于水量平衡原理估算了梭梭生育期蒸散量，分析了蒸散变化规律。结果表明：(1)在梭梭生长季，降雨量为 $2 0 6 . 7 \\ \\mathrm { m m }$ ,降雨分布不均，梭梭萌发期，降雨量最多;梭梭生长旺盛期，月降雨量逐月减少；梭梭枯落期，降雨量最少。(2)在梭梭生长季，梭梭群落 $0 \\sim 4 0 0 \\ \\mathrm { c m }$ 土壤贮水量变化整体呈下降趋势，梭梭萌发期是土壤贮水量盈余期,生长旺盛期和枯落期为土壤贮水量亏损期;梭梭群落发挥土壤水库效应，依靠生长季前土壤蓄水来弥补梭梭群落生长季需水缺额。(3)在梭梭生长季,蒸散量变化特征为多峰曲线，峰值主要出现在降雨集中期,最低值出现在土壤贮水量亏损期。(4)在梭梭生长季,梭梭群落累积蒸散量增幅始终高于累积降雨量增幅，累积蒸散量大于累积降雨量。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词： 古尔班通古特沙漠；梭梭群落；水量平衡；蒸散；降雨；土壤贮水量中图分类号：P426.2 文献标识码：A 文章编号",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蒸散是沙漠生态系统中水分输出的重要方式，不仅涉及到沙漠生态系统的热量平衡和水量平衡，而且是沙漠生态系统水文过程及水量转化的重要组成部分。因此，准确地估算干旱沙漠地区天然植被蒸散量，深人了解天然植被蒸散特征，可为揭示沙漠生态水文循环过程提供数据支持，为荒漠植被的恢复以及绿洲的建设提供理论支撑。在防风固沙林的实际管理工作中，掌握沙漠生态系统天然植被蒸散规律，可以帮助管理者制定更加合理的灌溉计划，优化水资源配置，提高水资源利用效益。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "古尔班通古特沙漠地处准噶尔盆地中央，具有年降雨量少，大气蒸发能力强，地下水位埋深大，土壤含水量低等特点，植被生长对水分的依赖性强。梭梭（Haloxylonammodendron）是该区主要的固沙植物[1]。目前对古尔班通古特沙漠水分消耗的研究主要集中在土壤蒸发[2-3]和梭梭蒸腾[4-6]方面,关于梭梭群落蒸散的研究还鲜有报道。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "沙漠蒸散是干旱区生态水文学研究中的一个热点和难点问题。蒸散量的测定主要有直接测定法和间接测定法。直接测定法包括Lysimeter称重法、涡度相关法和植物体内液流通量法。间接方法指测定与蒸散过程有内在联系的参量，依据一定原理计算出蒸散量，包括波文比-能量平衡法、空气动力学法和水量平衡法等[7-8]。其中水量平衡法是测定蒸散量的最基本方法，常用来对其它测定或估算方法进行检验或校核[9-10]。本文基于水量平衡原理,在梭梭生长季内对古尔班通古特沙漠南缘北沙窝沙区丘间地梭梭群落进行蒸散量测定，分析生长季内梭梭群落蒸散特征及蒸散与降雨、土壤贮水量的关系，以期为古尔班通古特沙漠植被保护、受损生态系统的恢复与重建提供科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 材料与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "试验地位于古尔班通古特沙漠南缘北沙窝( $4 4 ^ { \\circ }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$2 2 . 6 3 ^ { \\prime } \\mathrm { N } . 8 7 ^ { \\circ } 5 5 . 2 1 ^ { \\prime } \\mathrm { E } )$ ，深入沙漠 $5 ~ \\mathrm { k m }$ 。地貌类型以树枝状沙垄为主，沙垄呈南北走向近平行状排列，两侧不对称，沙垄西坡长而缓，坡长 $2 8 \\sim 3 6 \\mathrm { ~ m ~ }$ ,坡度$7 ^ { \\circ } \\sim 9 ^ { \\circ }$ ;东坡短而陡,坡长 $2 1 \\sim 2 4 \\mathrm { ~ m ~ }$ ,坡度 $1 5 ^ { \\circ }$ \\~$1 9 ^ { \\circ }$ ,坡顶高度 $5 \\sim 7 \\mathrm { ~ m ~ }$ 。土壤以风沙土为主，干容重在 $1 . 5 4 \\sim 1 . 6 5 \\mathrm { ~ g ~ } \\cdot \\mathrm { c m } ^ { - 3 [ 1 1 ] }$ 。潜水位埋深 $9 \\sim 1 0 \\mathrm { ~ m ~ }$ 。年平均气温 $5 . 7 ~ \\mathrm { ^ { \\circ } C }$ ,年温差在 $4 0 \\ \\mathrm { { ^ \\circ C } }$ 以上,极端最高气温 $4 1 . 5 ~ \\mathrm { ^ { \\circ } C }$ ,极端最低气温 $- 3 7 . 0 \\mathrm { ~ \\textdegree C }$ 。多年平均降水量为 $1 2 8 . 7 \\ \\mathrm { m m }$ ,蒸发量为 $1 ~ 7 6 4 ~ \\mathrm { m m }$ 左右[12]稳定积雪日数 $1 0 0 \\sim 1 6 0 \\mathrm { ~ d ~ }$ ,最大积雪深度多在20cm 以上[13]。雪融水以垂直入渗为主,地势平坦,无侧向流补给,无地表径流形成[14]。植被以梭梭(Haloxylon ammodendron）、白梭梭（Haloxylon persi-cum)为主,还伴生蛇麻黄（Ephedradistachya）、角果藜（Ceratocarpus arenarius）、沙蒿（Artemisia deserto-rum)以及众多短命植物[15-16] 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 实验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2015 年7月，在古尔班通古特沙漠南缘北沙窝试验场丘间低地，选取一块 $2 0 \\ \\mathrm { m } \\times 2 0 \\ \\mathrm { m }$ 左右的梭梭林样地，进行林分调差，结果如表1所示。试验样地梭梭自然生长密度0.25 株 $\\mathbf { \\Omega } / \\mathbf { \\Omega } \\mathbf { m } ^ { 2 }$ ,平均基径 $3 . 3 \\ \\mathrm { c m }$ ，平均高度 $1 9 2 ~ \\mathrm { c m }$ ,平均冠幅 $1 9 9 \\ \\mathrm { c m } \\times 1 9 2 \\ \\mathrm { c m }$ ,植被盖度 $20 \\% \\sim 3 0 \\%$ 。由于样地 $2 0 0 \\ \\mathrm { c m }$ 以下土层,受气象条件影响较小，土壤水分变异系数均低于0.1，随深度变化微小,属于土壤水分相对稳定层[17],因此，在样地按照对角线的原则安装5根中子管（图1），每10d采用CNC503B型号中子仪测定$0 \\sim 4 0 0 ~ \\mathrm { c m }$ 土体土壤含水率。测定深度为10、30、$5 0 \\ 、 7 0 、 9 0 、 \\cdots 3 7 0 、 4 0 0 \\ \\mathrm { c m }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "降雨量采用雨量计进行测定。在样地放置5个雨量计,每个雨量计口面直径 $2 0 \\ \\mathrm { c m }$ ,距地 $0 . 7 \\mathrm { ~ m ~ }$ 。每次降雨后立即用精度为 $0 . \\mathrm { ~ 1 ~ g ~ }$ 的电子称称重，计算每一个雨量计的降雨量，然后将5个雨量计降雨量的平均值作为这次降水事件的降雨量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据梭梭不同生长阶段对土壤蒸发量的影响[3],将梭梭发育期分为萌发期（4\\~5月）、生长旺盛期(6\\~9月)和枯落期(10月）。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/981af3ccfe453545bb278803711e1e627cf1dafaf38ed81505fc83365bbd6591.jpg",
+        "table_caption": [
+            "表1不同龄阶梭梭的形态特征",
+            "Tab.1Morphological features of Haloxylon ammodendron relative to growth stage "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>龄阶</td><td>基径 /cm</td><td>株高 /m</td><td>冠幅 /m×m</td></tr><tr><td>幼龄梭梭</td><td>2.0~4.3 0.5~1.2</td><td>0.4×0.3~1.3×1.1</td><td>117/162</td></tr><tr><td>中龄梭梭</td><td>4.4~7.3 1.7~2.1</td><td>1.5×1.3~1.7×1.5</td><td>25/162</td></tr><tr><td>成熟梭梭 7.4~17.2</td><td>2.6~4.2</td><td>1.9×2.5~4.2×4.0</td><td>20/162</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e002d2993b71033a53f118f05b3b509ede3414dd6b05a1e994689028ea435d2.jpg",
+        "img_caption": [
+            "图1中子管分布图",
+            "Fig.1Map of neutron tube distribution "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.1蒸散量测定方法采用水量平衡法测定梭梭群落蒸散量。以 $0 \\sim 4 0 0 ~ \\mathrm { c m }$ 土体为研究对象,根据水量平衡原理[18-20]得：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS W _ { t + \\Delta t } = S W _ { t } + P + U + \\left( R I - R O \\right) +\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( S I - S O ) \\mathrel { - } E T - D\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $S W _ { t + \\Delta t }$ 为 $\\mathbf { \\xi } _ { t } + \\Delta \\mathbf { \\xi } _ { t }$ 时刻 $0 \\sim 4 0 0 ~ \\mathrm { c m }$ 土体土壤贮水量 $( \\mathbf { m m } ) : S W _ { t }$ 为 $\\mathbf { \\chi } _ { t }$ 时刻 $0 \\sim 4 0 0 ~ \\mathrm { c m }$ 土体土壤贮水量（mm）; $P$ 为 $\\Delta t$ 时段内降雨量( $\\mathbf { m } \\mathbf { m }$ ）； $U$ 为地下水上升到目标土壤层的水量（mm）； $R I$ 为 $\\Delta t$ 时段内地表水流入水量( $\\mathbf { \\chi } _ { \\mathrm { m m } } ^ { \\cdot }$ ； $R O$ 为 $\\Delta t$ 时段内地表水流出水量（mm）； $S I$ 为 $\\Delta t$ 时段内非饱和带侧向流入水量$\\left( { \\mathrm { m m } } \\right) ; S O$ 为 $\\Delta t$ 时段内非饱和带侧向流出水量（mm）; $E T$ 为 $\\Delta t$ 时段内蒸发蒸腾量 $\\left( { \\bf m } { \\bf m } \\right) ; D$ 为深层渗漏量 $\\left( { \\bf m } { \\bf m } \\right) ^ { \\cdot }$ ）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于研究区潜水位埋深 $1 0 \\mathrm { ~ m ~ }$ 左右，因此地下水上升量 $U$ 可忽略;降雨次数少且单次降雨量小，深层渗漏量 $D$ 可忽略不计;地势平坦， $( R I - R O )$ 和 $( S I -$ $s o$ )可忽略不计，上述水量平衡方程可简化为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS W _ { t + \\Delta t } = S W _ { t } + P - E T\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由(2)式得：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE T = S W _ { t } - S W _ { t + \\Delta t } + P\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.2水平衡要素的确定降雨量计算：采用下式计算降雨量[3]",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP = 4 0 \\ m \\ / \\ ( 3 . 1 4 \\rho d ^ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $P$ 为降雨量( $\\mathbf { \\dot { \\tau } } _ { \\mathrm { m m } } )$ ； $m$ 为雨量计收集的降雨质量 $( \\mathbf { g } ) _ { \\mathbf { \\theta } ^ { } } ^ { } ( \\mathbf { \\rho } _ { \\mathbf { \\lambda } ^ { } } ^ { } \\mathbf { \\rho } _ { \\mathbf { \\lambda } ^ { } } ^ { } ( \\mathbf { \\rho } _ { \\mathbf { \\lambda } ^ { } } ^ { } \\mathbf { \\rho } _ { \\mathbf { \\lambda } ^ { } } ^ { } )$ 为水的密度,取 $1 \\ \\mathrm { g } \\cdot \\mathrm { c m } ^ { - 3 }$ $d$ 为雨量计的直径， $d$ 取 $2 0 ~ \\mathrm { c m }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤贮水量的计算：将 $0 \\sim 4 0 0 ~ \\mathrm { c m }$ 土体分成20层，分别为 $0 \\sim 1 0 \\ \\mathrm { c m } \\ . 1 0 \\sim 3 0 \\ \\mathrm { c m } \\ . 3 0 \\sim 5 0 \\ \\mathrm { c m } \\ 5 0 \\sim 7 0$ $\\mathrm { c m } \\ 7 0 \\sim 9 0 \\ \\mathrm { c m } \\ 9 0 \\sim 1 1 0 \\ \\mathrm { c m } \\ 1 1 0 \\sim 1 3 0 \\ \\mathrm { c m } \\ 1 3 0 \\sim 1 5 0$ $\\mathrm { c m } \\ . 1 5 0 \\sim 1 7 0 \\ \\mathrm { c m } \\ . 1 7 0 \\sim 1 9 0 \\ \\mathrm { c m } \\ . 1 9 0 \\sim 2 1 0 \\ \\mathrm { c m } \\ . 2 1 0 \\sim \\$ $2 3 0 \\ \\mathrm { c m } \\ , 2 3 0 \\sim 2 5 0 \\ \\mathrm { c m } \\ , 2 5 0 \\sim 2 7 0 \\ \\mathrm { c m } \\ , 2 7 0 \\sim 2 9 0 \\ \\mathrm { c m } \\ ,$ （204号$2 9 0 \\sim 3 1 0 \\ \\mathrm { c m } \\ 3 1 0 \\sim 3 3 0 \\ \\mathrm { c m } \\ 3 3 0 \\sim 3 5 0 \\ \\mathrm { c m } \\ 3 5 0 \\sim 3 7 0$ $\\mathrm { c m } \\ 、 3 7 0 \\sim 4 0 0 \\ \\mathrm { c m }$ 。采用下式计算土壤水储存量$S W$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS W = 1 0 \\times \\sum _ { i = 1 } ^ { n } \\ \\theta _ { i } h _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $S W$ 为 $0 \\sim 4 0 0 ~ \\mathrm { c m }$ 土体土壤水储存量 $( \\mathrm { m m } ) ; \\theta _ { i }$ 为第 $i$ 层土壤含水率( $\\mathrm { ( c m } ^ { 3 } \\cdot \\mathrm { c m } ^ { - 3 }$ ）； $h _ { i }$ 为第 $\\mathbf { \\chi } _ { i }$ 层土壤的厚度 $( \\mathrm { c m } ) { \\mathrm { } } ; n$ 为土体层数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1梭梭生长季降雨量及变化规律",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2016 年梭梭生长季，试验区共降雨28次，降雨量为 $2 0 6 . 7 \\ \\mathrm { m m }$ ，仅仅生长季的降雨量就是多年平均降雨量的 $1 6 0 . 6 0 \\%$ 。由图2可见， $0 \\sim 1 \\sqrt { 1 - 5 } \\sqrt { 5 } \\sim$ $1 0 \\mathrm { ~ m ~ }$ 和 $> 1 0 \\ \\mathrm { m m }$ 这四个量级的降雨发生频次分别占总降雨次数的 $7 . 1 4 \\% . 5 3 . 5 7 \\% . 2 1 . 4 3 \\%$ 和$1 7 . 8 6 \\%$ ;而对应的降雨量分别占总降雨量的$0 . 7 7 \\% 1 8 . 0 5 \\% . 2 1 . 3 4 \\%$ 和 $5 9 . 8 5 \\%$ 。降雨以小事件 $( < 5 ~ \\mathrm { \\ m m } )$ ）为主，出现频次占总降雨次数的$6 0 . 7 1 \\%$ ，降雨量占总量的 $1 8 . 8 2 \\ \\%$ ；虽然 $> 5 \\ \\mathrm { m m }$ 的降雨占总降雨次数的 $3 9 . 2 9 \\%$ ,次数较少，但其降雨量却占总量的 $8 1 . 1 9 \\%$ ，为降雨主要贡献量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图3可知，试验区生长季月降雨分布不均[21]。在梭梭萌发期（4～5月）,降雨量为91.6$\\mathbf { m } \\mathbf { m }$ ,占生长季降雨量的 $4 4 . 3 2 \\%$ ，降雨次数占总降雨次数的 $3 9 . 2 9 \\%$ ,该阶段降雨量最多；在梭梭生长旺盛期（6\\~9月），降雨量为 $7 6 . 9 \\ \\mathrm { m m }$ ,为生长季降雨量的 $3 7 . 2 0 \\%$ ，降雨次数占总降雨次数的 $5 0 \\%$ ，该阶段降雨最频繁，且月降雨量逐月减少，月降雨次数的变化趋势也呈现一致性;梭梭枯落期(10 月)降雨量为 $2 9 . 4 4 \\ \\mathrm { m m }$ ，仅为生长季降雨量的 $1 8 . 4 8 \\%$ ，该阶段降雨最少。其中梭梭生长季前期（4～7月）为降雨集中阶段，降雨量为 $1 5 3 . \\ 1 \\ \\mathrm { \\ m m }$ ，占总量的$7 4 . 1 0 \\%$ ,而且降雨频次为 $7 5 \\%$ ,故该阶段为梭梭群落发育提供了大部分水源，利于梭梭群落发育，但后期(8～10月)降雨不足，抑制了梭梭群落的发育。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/511c2ca365ab7e5d6a2d779876d66fc1d2644d06912aaa6f69aff6b0b10e20e1.jpg",
+        "img_caption": [
+            "图22016年梭梭生长季不同降雨量级下的降雨频次百分数和降雨量百分比"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/47327f9b000a14b8612365c2eecb5910961aac53bc193579902d6242211dd000.jpg",
+        "img_caption": [
+            "Fig.2Frequency percentage and amount percentage under different precipitation-class during growing reason of Haloxylon ammodendron community in 2016 ",
+            "图3梭梭生长季月降雨变化及月降雨频次百分比 Fig.3Monthly variation of precipitation and monthly frequency percentage during growing reason of Haloxylon ammodendron community "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2梭梭生长季土壤贮水量变化特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验区生长季土壤贮水量变化量为-25.8$\\mathbf { m } \\mathbf { m }$ ,土壤水分亏损，梭梭群落以消耗前期土壤储水来保持正常生长。图4描述了2016年梭梭群落生长季 $0 \\sim 4 0 0 ~ \\mathrm { c m }$ 土壤贮水量变化过程。梭梭群落$0 \\sim 4 0 0 ~ \\mathrm { c m }$ 土壤贮水量变化整体呈下降趋势；但4月22日 $\\sim 5$ 月2日，土壤贮水量由 $1 5 5 . 7 \\ \\mathrm { m m }$ 增至$1 7 3 . 5 \\mathrm { m m }$ ，土壤贮水量迅速增加，这是因为该阶段降雨 $5 9 . 8 ~ \\mathrm { m m }$ ,满足了蒸散需求，多余的水分储存在土壤中;5月3日\\~5月12日，土壤贮水量迅速下降，一方面是因为降雨量少，仅为 $6 . 0 \\ \\mathrm { m m }$ ,土壤水分补给量少，另一方面是因为此阶段试验区短命植物茂盛，蒸腾量随叶面积增长迅速上升，导致土壤贮水量下降;5月 22日 $\\sim 5$ 月30日，气温逐渐升高，梭梭即将进入生长旺盛期，但是降雨量仅为 $5 . 4 \\ \\mathrm { m m }$ ，无法满足需水要求，使土壤贮水量迅速下降；6月1日\\~9月30日，由于梭梭进入生长旺盛期，蒸散增强，降雨在形成土壤贮水后便以蒸散形式输出，使其土壤贮水量呈现缓慢降低的趋势；10月1日 $\\sim 1 0$ 月31日，为梭梭枯落期，梭梭对水分蒸散消耗降低，加之降雨补给，土壤贮水量缓慢增加。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c3a88d3b02dcfe81d1d18243f4b7b260e853a0f38f9be15ee87030e692f1111.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在融雪水入渗补给、降雨入渗补给和蒸散的共同作用下，梭梭群落生长季土壤贮水量变化过程可分为2个阶段，梭梭萌发期是土壤贮水量盈余期[22],生长旺盛期和枯落期为土壤贮水量亏损期。梭梭萌发期(4\\~5月)是古尔班通古特沙漠土壤水分变化最迅速的时期[23],受冬季雪融水和春季雨水的补给[24],土壤贮水量最大。5月之后,气温迅速升高使土壤蒸发加剧,梭梭叶面积不断增长使梭梭蒸腾量上升，导致土壤贮水量出现亏损；尽管地表大量结皮的存在减少了表层土壤的蒸发[25],降雨后土壤贮水量也出现短暂波动，但由于后期降雨不足，土壤贮水量仍呈整体下降趋势。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3梭梭群落生长季蒸散特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图5可知，古尔班通古特沙漠南缘梭梭群落蒸散量变化规律为多峰曲线。峰值首次出现在4月下旬，接着峰值出现在5月下旬、6月下旬、8月上旬和10月上旬，这些时段为降雨事件集中期，其中4月下旬、6月下旬和10 月上旬降雨量大于 $2 5 \\ \\mathrm { m m }$ ，降雨事件出现在各个时段初期，蒸散量主要源于降雨量;5月下旬和8月上旬降雨量都不足 $1 0 ~ \\mathrm { m m }$ ，由于前时段降雨对土壤贮水量的补充，导致这两时段蒸散量出现峰值。在每个峰值之间，存在蒸散低谷，最低值出现在8月中旬到9月下旬之间，一方面是因为该阶段降雨量较少，水源补给不足，另一方面因为前期降雨未充分储存在土壤中。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为更加明确地分析古尔班通古特沙漠南缘丘间地梭梭群落蒸散量变化规律，将生长季各月蒸散量绘于图6。从图6可以看出，梭梭萌发期，蒸散量逐月增大并达到峰值，4月降雨 $5 7 . 1 3 ~ \\mathrm { m m }$ ,蒸散51.20$\\mathbf { m } \\mathbf { m }$ ,降雨大于蒸散，输入多余输出，多余水分留在土壤,同时土壤中还储存着积雪融水及5月降雨的输入，使蒸散受水分胁迫的影响较小，为蒸散提供了水分来源，同时大量短命植物和梭梭的发育，也为蒸散耗水提供了动力，因此5月蒸散最高;梭梭生长旺盛期,蒸散逐月减小，前阶段(6\\~7月)降雨事件较频繁，降雨量大于蒸散量，降雨能满足蒸散，而后阶段(8\\~9月)少有降雨，且每次降雨强度不大，历时较短，水分无法下渗到深层土壤，往往只停留在土壤表层，尽管该阶段气温较高，潜在蒸散量大，但土壤水分补给不足，蒸散受到水分胁迫，导致蒸散量达到低谷；梭梭枯落期发生了一次大的降雨事件，降雨量为",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c29876f94c21b2a6820d1dc789517b11dea32b6a351d298f67fd2c68683eadc0.jpg",
+        "img_caption": [
+            "图4梭梭群落生长季土壤贮水量动态变化 Fig.4Variation of soil water storage during growing reason of Haloxylon ammodendron community ",
+            "图5梭梭群落蒸散量生长季变化 Fig.5Variation of evapotranspiration of during growing reason of Haloxylon ammodendron community "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/77b4dfc88caa3bcd17f266654b5c86e7d72a241e13afa1046bfb071a96e537a4.jpg",
+        "img_caption": [
+            "图6梭梭群落生长季月蒸散和降雨变化过程 Fig.6Monthly variation of evapotranspiration and precipitation during growing reason of Haloxylon ammodendron community "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$3 6 . 9 \\ \\mathrm { m m }$ ，使土壤水分得到了补给，蒸散量开始增加。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4梭梭生长季蒸散量与降雨量的关系",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "降雨量和蒸散量分别是天然荒漠生态系统中水分收入项和支出项中最大的分量，也是解释其水分收支状况的关键。图7看出，梭梭群落在4月的累积蒸散量低于累积降雨量；5月蒸散量和降雨量均有较大幅度的增加，但蒸散量的增幅明显高于降雨量的增度，并达到最大增幅，累积蒸散量开始高于累积降雨量;6\\~7月随着降雨稳定增加，蒸散的增加幅度也几乎稳定，且与降雨增幅相近;8～9月，尽管降雨量大幅减少，但由于土壤水库效应，累积蒸散量增幅高于累积降雨量的增幅;10月降雨幅度突然增加，为植物蒸散提供了水分来源，累积蒸发量也大幅升高。对整个生长季而言，累积蒸散量的增幅高于累积降雨量的增幅，累积蒸散量大于累积降雨量，降雨全部以蒸散的形式消耗。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5 土壤水库效应",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试验区潜水位埋深在 $9 \\sim 1 0 \\mathrm { ~ m ~ }$ ,降雨通常全部蓄存于土体之中，形成土壤水，犹如一个储水库，具有保蓄水分和调节植物蒸散的功能，并对降雨分配不均所造成的大气干旱起到有效的缓解作用[26]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "土壤水库对植物蒸散具有调节作用，一方面是以生长季前土壤的储水来弥补生长季内植物蒸散需水的缺额;另一方面，要用土壤储水来弥补降雨分布不均所造成的植物蒸散需水的缺额。由表1可见，2016 年梭梭群落生长季内的蒸散量为 $2 3 2 . 5 ~ \\mathrm { m m }$ 其中降雨满足率为 $8 8 . 8 9 \\%$ ，生长季内降雨不能满足梭梭群落蒸散需水量，故要依靠生长季前土壤蓄水来弥补需水缺额。4、7月和10月的降雨满足率为 $1 2 9 . 8 3 \\%$ ） $1 0 5 . 4 1 \\%$ 和 $1 0 4 . 0 8 \\%$ ,这些阶段降雨不仅能完全满足蒸散需水量，而且部分还可恢复土壤蓄水量，为下阶段梭梭蒸散提供部分水分来源。5、6、8月和9月的降雨满足率不足 $100 \\%$ ，降雨量不能完全满足梭梭蒸散要求，需要消耗土壤蓄水来弥补蒸散需水的缺额。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d9286e0886b12e582efd7d6943c9c351a41d6cd37b18ebe4125ac05ad48045a7.jpg",
+        "img_caption": [
+            "图7 梭梭群落生长季累积蒸散和累积降雨的月变化 Fig.7 Monthly variations of cumulative evapotranspiration and precipitation during growing reason of Haloxylon ammodendron community "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）2016年梭梭群落生长季降雨量为多年平均降雨量的 $1 6 0 . 6 0 \\%$ ,降雨丰富，降雨以小事件( $\\angle \\cdot \\angle$ $5 \\ \\mathrm { m m }$ )为主，但大于 $5 \\ \\mathrm { m m }$ 的降雨为降雨主要贡献量。试验区生长季内降雨量分布不均，梭梭萌发期，降雨量最多;梭梭生长旺盛期，月降雨量逐月减少;梭梭枯落期，降雨量最少。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/e4ab53001896b132b192a9c057f7cf80f193791ddebffb6f80932d0eb9560a96.jpg",
+        "table_caption": [
+            "表2梭梭群落生长季降雨满足率",
+            "Tab.2Precipitation satisfaction during growing reason of Haloxylon ammodendron community "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>日期</td><td>4月</td><td>5月</td><td>6月</td><td>7月</td><td>8月</td><td>9月</td><td>10月</td><td>生长季</td></tr><tr><td>降雨量／mm</td><td>66.50</td><td>25.01</td><td>31.50</td><td>30.00</td><td>12.20</td><td>3.20</td><td>38.20</td><td>206.70</td></tr><tr><td>蒸散量／mm</td><td>51.20</td><td>52.40</td><td>34.80</td><td>30.90</td><td>19.50</td><td>6.90</td><td>36.70</td><td>232.50</td></tr><tr><td>降雨满足率／%</td><td>129.83</td><td>47.87</td><td>90.58</td><td>105.41</td><td>49.14</td><td>46.12</td><td>104.08</td><td>88.89</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（2）梭梭生长季，土壤水分亏损，梭梭群落 $0 \\sim$ $4 0 0 \\ \\mathrm { c m }$ 土壤贮水量变化整体呈下降趋势。土壤贮水量变化过程可分为2个阶段：梭梭萌发期是土壤贮水量盈余期,生长旺盛期和枯落期为土壤贮水量亏损期。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3）2016年梭梭群落生长季蒸散量变化特征为多峰曲线，峰值主要出现在降雨集中期，最低值出现在土壤贮水量亏损期。梭梭萌发期，蒸散量逐月增大并达到峰值;梭梭生长旺盛期,蒸散逐月减小;梭梭枯落期蒸散回升。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（4）生长季内，梭梭群落累积蒸散量增幅始终高于累积降雨量增幅，累积蒸散量大于累积降雨量。4月，累积蒸散量低于累积降雨量； $5 \\sim 1 0$ 月，累积蒸散量高于累积降雨量，其中5月，蒸散量和降雨量都较大幅度增加，但蒸散量增幅明显高于降雨量增幅;6\\~9月，累积蒸散量增幅与累积降雨量增幅逐月降低；10月累积蒸散量和累积降雨量大幅升高。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（5）2016年梭梭群落生长季内的蒸散量为$2 3 2 . 5 ~ \\mathrm { m m }$ ,其中降雨满足率为 $8 8 . 8 9 \\%$ ,土壤发挥水库效应，依靠生长季前土壤蓄水来弥补梭梭群落生长季需水缺额。4、7月和10月的降雨满足率为$1 2 9 . 8 3 \\%$ ， $. 1 0 5 . 4 1 \\%$ 和 $1 0 4 . 0 8 \\%$ ,土壤开始储水;5、6、8月和9月的降雨满足率不足 $100 \\%$ ,土壤水分亏损。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1］王春玲,郭泉水,谭德远.准噶尔盆地东南缘不同生境条件下梭梭群落结构特征研究[J].应用生态学报，2005，16(7)：1224-1229.[WANG Chunling,GUO Quanshui,TAN Deyuan.Halox-ylon ammodendron community patterns in different habitats alongsoutheastern edge of Zhunger Basin[J].Chinese Journal of Ap-plied Ecology,2005,16(7):1224-1229.]  \n[2]翟翠霞,马健,李彦.古尔班通古特沙漠风沙土土壤蒸发特征[J].干旱区地理，2007，30（6）:805-811.[ZAICuixia，MAJian,LI Yan.Characteristics of soil evaporation in sandy soil ofGurbantunggut Desert[J].Arid Land Geography,2OO7,30（6）：805 -811.]  \n[3] 陈永宝，胡顺军，朱海.古尔班通古特沙漠南缘梭梭群落土壤蒸发特征［J].中国沙漠,2016,36（1）：190－197.［CHENYongbao,HU Shunjun,ZHU Hai.Soil evaporation of Haloxylonammodendron community in the south of Gurbantunggut Desert[J].Journal of Desert Research,2016,36(1）:190-197.]  \n[4] 曹晓明，程曦，王卷乐.古尔班通古特沙漠南缘非灌溉条件下梭梭蒸腾耗水特征[J].干旱区地理，2013，36(2）：292-301.[CAO Xiaoming,CHENG Xi,WANG Juanle.Water consumptionand transpiration of non-irrigated Haloxylon ammodendron in hin-terland of Taklimakan Desert[J].Arid Land Geography,2013,36(2):292-301.]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[5]孙鹏飞,周宏飞,李彦.古尔班通古特沙漠原生梭梭树干液流 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "及耗水量［J].生态学报,2010,30（24）:6901-6909.[SUN Pengfei,ZHOU Hongfei,LI Yan.Flow and water consumption of native Haloxylon ammodendron in the Gurbantunggut Desert[J]. Acta Ecologica Sinica,2010,30(24）:6901-6909.]   \n[6]李浩,胡顺军,王泽峰.古尔班通古特沙漠南缘梭梭茎干液流 变化及其对环境因子的响应[J].干旱区地理,2017,40（4）： 795-804.[LI Hao,HU Shunjun,WANG Zefeng.Dynamics and responses of sap flow of Haloxylon ammodendron to environmental variables in the southern edge of the Gurbantunggut Desert[J]. Arid Land Geography,2017,40(4）:795-804.]   \n[7］莫兴国.区域蒸发研究综述[J].水科学进展,1996,（2）:180- 185.[MO Xingguo.A review of regional evaporation[J].Advances in Water Science,1996,(2):180-185.]   \n[8］石元春,刘昌明,龚元石.节水农业应用基础研究进展[M].北 京：中国农业出版社,1995:83－88.［SHI Yuanchun,LIU Changming,GONG Yuanshi. Advances in basic research on watersaving agriculture[M]. Beijing:China Agriculture Press,1995:83 -88.]   \n[9]屈艳萍,康绍忠,张晓涛,等.植物蒸发蒸腾量测定方法述评 [J].水利水电科技进展,2006,（3）:72-77.[QU Yanping， KANG Shaozhong,ZHANG Xiaotao,et al. Review on the method f determining plant evapotranspiration[J].Advances in Science and Technology of Water Resources,2006,（3）:72-77.]   \n[10]许迪,刘钰,杨大文,等.蒸散发尺度效应与时空尺度拓展 [M].北京:科学出版社,2015:1-23.[XU Di,LIU Yu,YANG Dawen,et al.Evapotranspiration scale efect and spatio-temporal scale expansion[M]. Beijing:Science Press,2015:1 -23.]   \n[11］胡顺军,陈永宝,朱海.古尔班通古特沙漠南缘融雪水土壤入 渗量[J].应用生态学报,2015,26(4）:1007－1015.［HU Shunjun,CHEN Yongbao,ZHU Hai. Soil infiltration of snowmelt water in the southern Gurbantunggut Desert,Xinjiang,China[J].Chinese Journal of Applied Ecology,2015,26(4）:1007 -1015.]   \n[12］钱亦兵,吴兆宁.古尔班通古特沙漠环境研究[M].北京：科学 出版社,2010.[QIAN Yibing,WU Zhaoning.Study on the environment of Gurbantunggut Desert[ M]. Beijing: Science Press, 2010.]   \n[13］戴岳,唐立松,李彦.古尔班通古特沙漠南缘梭梭水分利用动 态[J].植物生态学报,2014,38（11）:1214-1225.[DAI Yue， TANG Lisong,LI Yan. Water use effciency of Haloxylon ammodendron in the south of Gurbantunggut Desert[J]. Chinese Journal of Plant Ecology,2014,38(11):1214-1225.]   \n[14］汤英,周宏飞,徐利岗.荒漠植被影响下的沙地稳定入渗率变 化特征[J].土壤通报,2009,40(2）:235－239.[TANG Ying， ZHOU Hongfei,XU Ligang.Variation characteristics of stable infiltration rate of sandy land affected by desert vegetation[J].Chinese Journal of Soil Science,2009,40(2):235- 239.]   \n[15］蒋进,王雪芹,雷加强.古尔班通古特沙漠工程防护体系内土 壤水分变化规律[J].水土保持学报,2003,17（3）：74－77. [JIANG Jin,WANG Xueqin,LEI Jiaqiang.Soil moisture distribution in straw barrier system in Gurbantunggut Desert of Xinjiang, China[J].Journal of Soil and Water Conservation,2003,17（3）: 74 -77. ]   \n[16］张立运,陈昌笃.论古尔班通古特沙漠植物多样性的一般特点 [J].生态学报,2002,22（11）:1923-1932.[ZHANG Liyun, CHEN Changdu. General characteristics of plant diversity in Gurbantunggut Desert[J].Acta Ecologica Sinica,,2002,22（11）： 1923 -1932.]   \n[17］朱海 胡顺军 李浩 古尔班通古特沙漠南缘固定沙丘+壤水 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "分时空变化特征[J].土壤学报，2016,53（1)：117-126.［ZHU Hai,HU Shunjun,LI Hao.Spatio-temporal variation of soil moisture in fixed dunes at the southern edge of Gurbantunggut Desert [J].Acta Pedologica Sinica,2016,53（1）:117-126.]   \n[18］BOULETG,CHEHBOUNIA,BRAUDI,etal.A simple water and energy balance model designed for regionalization and remote sensing data utilization[J].Agricultural and Forest Meteorology,2000, 105(1/3):117-132.   \n[19]ROSENQVIST L,HANSEN K,VESTERDAL L,et al.Water balance in afforestation chronosequences of common oak and Norway spruce on former arable land in Denmark and southern Sweden [J].Agricultural and Forest Meteorology,2010,150（2）:196- 207.   \n[20]YASEEF NR,YAKIRD,ROTENBERG E,et al.Ecohydrology of a semi-arid forest:Partitioning among water balance components and its implications for predicted precipitation changes[J].Ecohydrology,2010,3(2）:143-154.   \n[21］孙东霞,杨建成.古尔班通古特沙漠腹地与周边的降雨特征分 析[J].干旱区地理,2010,33（5）：769-774.[SUNDongxia, YANG Jiancheng. Characteristics of precipitation in the hinterland and surroundings of Gurbantunggut Desert[J].Arid Land Geography,2010,33(5):769-774.]   \n[22］赵从举，雷加强，王雪芹，等.古尔班通古特沙漠腹地春季土壤 水分空间分异研究[J].干旱区地理,2003，26(2)：154-158. [ZHAO Congju,LEI Jiaqiang,WANG Xueqin,et al. Study on spatial differentiation of soil moisture in the hinterland of Gurbantunggut Desert[J].Arid Land Geography,2003,26(2）:154-158.]   \n[23］周宏飞,肖祖炎,姚海娇,等.古尔班通古特沙漠树枝状沙丘土 壤水分时空变异特征[J].水科学进展，2013，24（6)：771- 777.［ZHOUHongfei,XIAO Zhuyan,YAO Haijiao,etal. Temporal and spatial variability of soil moisture in dendritic dunes of Gurbantunggut Desert[J].Advances in Water Science,2013,24（6）： 771 - 777.]   \n[24］秦艳芳,陈曦,周可法，等.古尔班通古特沙漠春季土壤含水量 空间格局[J].干旱区地理,2013,36（6)：1041-1048.［QIN Yanfang,CHENXi,ZHOUKefa,etal.Spatial pattern of soil water content in spring of the Gurbantunggut Desert[J].Arid Land Geography,2013,36(6):1041-1048.]   \n[25］杨艳凤,周宏飞,徐利岗.古尔班通古特沙漠原生梭梭根区土 壤水分变化特征[J].应用生态学报，2011，22（7)：1711- 1716.[YANG Yanfeng,ZHOU Hongfei,XU Ligang.Characteristics of soil moisture variation in the Haloxylon ammodendron zone in Gurbantunggut Desert[J].Chinese Journal of Applied Ecology, 2011,22(7):1711 -1716.]   \n[26］李开元,李玉山.黄土高原农田水量平衡研究[J].水土保持学 报,1995,9(2）:39-44.[LI Kaiyuan,LI Yushan.Study on farmland water balance in Loess Plateau[J].Journal of Soil and Water Conservation,1995,9(2）:39-44.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Evapotranspiration characteristics of Haloxylon ammodendron community in interdune lowland at the southern edge of Gurbantunggut Desert ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "WANG Ze-feng12，HU Shun-jun’，Ha1.2 (1State Key Laboratoryof Desert andOasis,Xinjiang Instituteof Ecologyand Geography,ChineseAcademicof Sciences, Urumqi 830011,Xinjiang,China；2University of Chinese Academic of Sciences,Beijing 100o49,China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract：According to the observed data about soil moistureand meteorological elements at the fixed observation points for Haloxylon ammodendron in the interdune lowlandat the Southern Edge of Gurbantunggut Desert,Xinjiang,China,during the growing season（from April1 to October 31）in 2016,their evapotranspiration was estimated based on the principle of water balance and theevapotranspiration change law was analyzed.The results showed as follows:（1） During their growing season of Haloxylon ammodendron,the precipitation was $2 0 6 . 7 \\ \\mathrm { m m }$ The distribution of precipitation in the experimental area was uneven,and it had the maximum precipitation during the Haloxylon ammodendron germination period.The precipitation was decreased month by month during the strong growth period of Haloxylon ammodendron,and the precipitation was the least when the Haloxylon ammodendron starts to wither and fall.（2）During the growing season of Haloxylon ammodendron,the water storage from the $0 \\sim$ $4 0 0 ~ \\mathrm { c m }$ soil layer of Haloxylon ammodendron community showed a decreasing trend.Meanwhile,the soil moisture was quickly replenished during the Haloxylon germination periodand it isreduced at other stages.The Haloxylon ammodendron community relied on soil water storage accumulated before the growth season to compensate for the water shortage in the growth season of Haloxylon ammodendron community.（3）The evapotranspiration of the growth season of Haloxylon ammodendron community showed an obvious multi-peak curve,and the peak occurred mainly in the concentrating period of rainfall,the lowest valueof evapotranspiration appears in the soil water storage lossperiod.（4）During the growing season,the rate of increase of the cumulative evapotranspiration was always higherthan thatof the accumulated precipitation,and the cumulative evapotranspiration was bigger than the cumulative precipitation. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Key words:Gurbantunggut Desert； Haloxylon ammodendron Community；water balance；Evapotranspire；pre-cipitation； soil water storage",
+        "page_idx": 6
+    }
+]

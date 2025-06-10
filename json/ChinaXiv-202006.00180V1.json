@@ -1,0 +1,382 @@
+[
+    {
+        "type": "text",
+        "text": "新疆S214省道高立式芦苇沙障合理间距分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈柏羽'，程建军'，李生宇²(1．石河子大学水利建筑工程学院,新疆 石河子832003；2．中国科学院新疆生态与地理研究所,新疆 乌鲁木齐 830011)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以新疆 S214 省道沙害防治区段为背景,应用CFD(computational fluid dynamics)数值模拟方法分析了高立式芦苇沙障周围的风沙流场,结果表明：高立式芦苇沙障周围流场可分为迎风侧减速区,上方加速区和背风侧恢复区,背风侧无明显涡流区生成,沙障间的合理间距与风速呈负相关。现场布置模式对 $2 0 \\ \\mathrm { m } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 的风沙流有较好防护效果,低于此风速时,第二道沙障背风侧基本无恢复区生成,后两道沙障迎风侧积沙较多且紧贴沙障分布,压埋沙障速度较快。通过相贴原理优化沙障间距,可以充分发挥各道沙障的防护作用,有效抵御风沙流侵袭,适当延长沙障使用年限。根据前人观测数据、现场调查和数值模拟结果,建议研究区内高立式芦苇沙障间距宜为 $2 0 \\sim 2 5 ~ \\mathrm { m } _ { \\circ }$ 该研究结果可为研究区内高立式芦苇沙障的合理布置提供理论依据,也可为其他风沙防护工程的建设提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：高立式芦苇沙障；风沙流场；合理间距；数值模拟；若羌县",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中国西北地区自然环境恶劣，沙漠和戈壁广泛分布。丰富的沙源和极端大风天气使得穿越荒漠地区的道路饱受沙害侵扰，严重干扰交通运输的正常运营。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "沙物质在风力作用下的侵蚀、搬运和再堆积过程是线路及其附属设施遭受沙害的根本原因，主要表现为风蚀和积沙[1]。风蚀导致路肩宽度不足,影响路基稳定性；砂粒堆积在路面则影响正常通行[2]。机械防沙体系在防治风蚀和积沙方面显现出较大优势，是防治沙害的有效方法之一。阻沙工程作为机械防沙体系中最先抵御风沙流的部分，起着消减风沙流动能、迫使砂粒沉积的重要作用[3-4] O阻沙工程的结构形式多样，这主要取决于不同区域的材料。例如：兰新铁路沿线中使用混凝土制作的挡沙墙[5-7],青藏铁路中使用的尼龙网沙障[8-9],以及塔克拉玛干沙漠公路中使用的高立式芦苇沙障等[10]。由于混凝土取材困难,加工及安装成本较高，尼龙网可靠性和耐久性较差，且对线路运营和生态环境存在潜在危害，使得它们很难推广应用。高立式芦苇沙障具有造价低廉、施工便捷、后期修补方便等特点，适用于沙害防治，目前已广泛应用在塔里木盆地沙漠公路及在建库一格铁路沿线。然而，针对高立式芦苇沙障风沙流场的研究较为薄弱[11-16]其在工程实际中的应用大多以经验为主，缺乏相应的理论研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文基于CFD数值模拟方法，研究了高立式带状芦苇沙障的风沙流特征及其布置的合理间距问题，为沙漠地区高立式芦苇沙障的工程设计提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "新疆S214省道(昆金公路)位于塔里木盆地东南部若羌县境内，西北连接G218国道，东南连接G315国道，途经台特玛湖干涸湖盆区，全长59.5km。该区深居欧亚大陆腹地，气候干旱，蒸发强烈，降水稀少。自20世纪50 年代以来，气候和人类活动影响导致塔里木河下游断流，至1972年台特玛湖干涸，此后植被大面积衰败死亡，干涸湖盆风蚀荒漠化加剧。受荒漠化影响，该线 $\\mathrm { K } 4 + 9 0 0 \\sim \\mathrm { K } 1 8 + 2 0 0$ 区段风沙灾害尤为严重（图1），主要表现为沙丘前移压埋线路。据调查，一次风沙天气过程中，K18里程桩处地表 $2 0 0 \\ \\mathrm { c m }$ 高度范围内的输沙量高达1.01$\\mathbf { m } ^ { 3 } \\cdot \\mathbf { m } ^ { - 1 }$ ,可见,该区风沙活动非常强烈。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为抵御风沙侵袭线路，S214省道采用了阻一固一输相结合的综合防沙模式,即在公路上风向平行于公路建立3条间距 $1 8 \\mathrm { ~ m ~ }$ 的高立式芦苇沙障，形成阻沙带（图2a），在阻沙带背风侧建立了 $1 0 0 \\mathrm { ~ m ~ }$ 宽的草方格，形成固沙带，临近公路的 $5 0 \\mathrm { ~ m ~ }$ 宽范围平整后铺洒戈壁砾石固定沙面，形成输沙带。根据现场调查，该模式建立之初，阻沙效果显著，有效遏制了沙丘迁移、沙埋路面现象。但运行2a后，现有3道高立式芦苇沙障已呈全埋状态，局部地段沙障倾倒、压埋现象严重，阻沙工程整体失效过快(图2b）。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f91cc7207dd164e055a90c298566b17a673e2e5bde43063b86ff19dcfd7cd76.jpg",
+        "img_caption": [
+            "图1研究区位置示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8af8b3a9c2abc6bfdcb22186313bcc588999e23eb00788e83e7ac5b6bf30583d.jpg",
+        "img_caption": [
+            "Fig.1Location map of the research area ",
+            "图2高立式芦苇沙障现状",
+            "Fig.2Current status of high-parallel reed sand barrier "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2数值模拟方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 几何建模及网格划分",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "现场布置的高立式芦苇沙障如图3a所示，沙障高度为 $1 2 0 \\ \\mathrm { c m }$ ,芦苇秆采用优质水生芦苇，直径约为 $2 \\ \\mathrm { c m }$ ,秆间距约为 $0 . 5 ~ \\mathrm { c m }$ ,沙障每隔 $3 \\mathrm { ~ m ~ }$ 设立1根截面为 $5 \\ \\mathrm { c m } \\times 5 \\ \\mathrm { c m }$ 的木质固定桩，沿高度方向每隔 $4 0 \\ \\mathrm { c m }$ 捆扎1道镀锌铁丝。经测算,沙障孔隙率约为 $3 5 \\%$ 。阻沙带总宽 $3 6 \\mathrm { ~ m ~ }$ ,由3道间距 $1 8 \\mathrm { ~ m ~ }$ 的高立式芦苇沙障组成，与主导风向夹角约为$6 0 ^ { \\circ \\left[ 1 7 - 1 9 \\right] }$ 。为充分模拟高立式芦苇沙障周围的风沙流场，运用AutoCAD建立沙障三维模型，3道沙障高度为 $1 2 0 \\ \\mathrm { c m }$ ,与入口风向夹角均为 $6 0 ^ { \\circ }$ ;芦苇秆以直径 $2 \\ \\mathrm { c m }$ 的圆柱体代替，间距 $0 . 5 ~ \\mathrm { c m }$ ，固定桩以相同截面尺寸的长方体代替，间距 $3 \\mathrm { ~ m ~ }$ ,沙障孔隙率为$3 5 \\%$ ,高立式芦苇沙障模型如图3b所示。计算域模型长度为 $2 0 0 \\mathrm { ~ m ~ }$ ,宽度和高度均为 $3 0 \\mathrm { ~ m ~ }$ ,计算域模型如图3c所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用非结构化四面体网格划分计算域模型，并对高立式芦苇沙障附近的网格进行加密，网格尺寸增长率为1.1。计算域模型网格数量约为 $6 \\times 1 0 ^ { 6 }$ 个，网格质量平均值约为0.8675,网格质量优良。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 计算参数",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文模拟的风沙流马赫数均小于0.3，因此，可认为是不可压缩流动，计算域模型出口边界条件为压力出口（pressure-outlet），压力差为0,计算域模型入口边界条件设置为速度人口（velocity-inlet），入口为典型风速廓线流[20-22]：",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a59f99703e469907ce146a1c14d9aaee3f2453df1c42bdca846c0b37eaac8b40.jpg",
+        "img_caption": [
+            "图3计算域及沙障模型示意图",
+            "Fig.3Schematic diagram of calculation domain and sand barrier model "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV \\big ( y \\big ) = \\frac { V } { k } \\mathrm { l n } \\frac { y } { y _ { 0 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $V$ 为摩阻风速； $k$ 为冯卡门系数（本文取0.4）；$y$ 为高度； $V ( y )$ 是 $y$ 高度的风速值。计算域其余壁面及芦苇沙障模型壁面的边界类型均为wall。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "风沙流中砂粒粒径通常为 $0 . 0 7 5 \\sim 0 . 2 5 ~ \\mathrm { m m }$ ，因此,数值模拟中砂粒粒径设定为 $d _ { \\mathrm { s } } = 0 . 1 5 \\ \\mathrm { m m }$ ,形状为颗粒（granular）,砂粒密度 $\\rho _ { \\mathrm { s } } = 2 ~ 6 5 0 ~ \\mathrm { k g } \\cdot \\mathrm { ~ m ~ } ^ { - 3 }$ ，黏度 $\\mu _ { \\mathrm { s } } = 0 . \\ 0 0 4 \\ 7 \\mathrm { P a } \\ \\cdot \\ \\mathrm { s } ^ { [ 2 3 ] }$ ,初始砂粒体积分数为$1 \\%$ ,类型为fluid。空气密度 $\\rho _ { \\mathrm { k } } = 1 . 2 2 5 \\ \\mathrm { k g } \\cdot \\mathrm { ~ m ~ } ^ { - 3 }$ ，空气动力黏度 $\\mu _ { \\mathrm { k } } = 1 . 7 8 9 \\times 1 0 ^ { - 5 } \\ \\mathrm { P a } \\cdot \\mathrm { \\ s }$ ,模拟风速选取$1 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 } , 1 5 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 和 $2 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3控制方程及模拟过程",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "控制方程有连续性方程、动量方程和 $k - \\varepsilon$ 湍流方程[24]。方程组求解计算方法采用 SIMPLEC 算法，该算法适用于不可压缩流动，并且可以加快迭代过程的收敛，各分量值收敛标准为 ${ { 1 0 } ^ { - 6 } }$ 量级。模拟离散格式为QUICK，其通常应用于四面体网格中以抑制由假扩散引起的误差，从而实现较高的求解精度和稳定性[25]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3模拟结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 流场分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于输沙量较大的地区而言，单道沙障往往无法满足防沙需求，通常需设置多道沙障来抵御风沙流侵袭，如何确定沙障之间合理间距成为关键所在。间距过小，容易造成积沙紧贴沙障，导致沙障过早掩埋,不利于充分发挥沙障的阻沙作用;间距过大，则无法有效拦截气流中裹挟的砂粒。根据相贴原理可以针对某一风速确定沙障的合理间距,即前一道沙障背风侧有效防护区间与后一道沙障迎风侧有效防护区间相贴，此时两道沙障的垂直间距即为合理间距[26]。为便于研究,本文定义沙障前后距地面0.5$\\mathrm { ~ m ~ }$ 高度处风速小于 $6 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 的区间为沙障有效防护区间。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "确定多道沙障的合理间距，需先厘清单道高立式芦苇沙障的流场特征。图4为不同风速下单道高立式芦苇沙障周围风速等值线。显然，高立式芦苇沙障周围存在明显的迎风侧减速区、上方加速区及背风侧恢复区。对比发现，随风速增大，沙障上方加速区范围呈逐渐减小，背风侧恢复区长度呈逐渐缩短的变化规律。因此，沙障有效防护区间也存在随风速增大而减小的变化趋势，表明沙障合理间距与风速呈负相关。另外，3种风速下芦苇沙障背风侧基本涡流区生成，这主要与芦苇秆之间能形成较大的孔隙率有关[27-29] ○",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为进一步确定风速与沙障合理间距的关系，绘制 $8 \\sim 2 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 风速下沙障合理间距随风速变化曲线(图5)。结果表明,当风速低于 $1 2 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 时，合理间距随风速变化幅度较大；而当风速高于$1 2 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 时，合理间距随风速变化幅度较小。沙障合理间距存在随风速增大而减小的变化规律，这与郝晓杰等[26]研究结论一致。另外，当风速为$2 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 时,合理间距约为 $1 8 . 5 \\mathrm { ~ m ~ }$ ,与现场的布置间距 $1 8 \\mathrm { ~ m ~ }$ 较为接近。可以预计，现场布置模式对该注：横坐标数值表示与沙障距离，正值表示背风侧，负值表示迎风侧。下同。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fd4d4704584bf16b5c5711371e522217e2a7efc3f869d2cd371d5eb19baeafe3.jpg",
+        "img_caption": [
+            "图5沙障合理间距随风速变化曲线 Fig.5 Curve of reasonable distance of sand barriers with wind velocity "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "风速下的风沙流有较好防护效果，但风速较小时，现场布置间距过于紧凑，各沙障不能完全发挥联防作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为研究优化前后高立式芦苇沙障周围流场特征,选取 $1 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 } , 1 5 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 和 $2 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 实验风速,根据相贴原理优化高立式芦苇沙障间距,优化后，3种风速下沙障合理间距分别为 $2 5 . 3 \\mathrm { ~ m ~ } . 2 0 . 5 \\mathrm { ~ m ~ }$ 和 $1 8 . 5 \\mathrm { ~ m ~ }$ 。因此，绘制优化前后芦苇沙障周围流场等值线如图6所示。可以看出，不同风速下，优化前后芦苇沙障周围的流场分布明显不同，特别是沙障背风侧的恢复区：风速为 $1 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 和 $1 5 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ （20时，优化前首尾两道沙障背风侧均有明显的恢复区，但第2道沙障背风侧恢复区长度明显较小，并且第",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "V:10 m·s-1 V:10m·s-1-3-1.501.534.567.5910.51213.5 -3-1.501.534.567.5910.51213.515 15风向→ (al) 风向 (b1)精建 10高 5 / 50-5051015202530 354045 50556065707580 8590 -505101520 253035404550 5560 65707580 8590V:15m·s-1 V:15 m·s-13-1.501.534.567.5910.51213.5 -3-1.501.534.567.5910.51213.515 15风向 (a2) 风向一 (b2)m10 10度 度高 5 高 50-5051015202530354045505560657075808590 -5051015202530354045505560657075808590V:20 m·s-1 V:20 m·s-1-3-1.50 1.534.567.5910.51213.5 -3-1.501.534.567.5910.51213.515 风向→ (a3) 15 风向一 (b3)10 10度 度高 5 高 50-5051015202530354045505560657075808590 -5051015202530354045505560657075808590位置/m 位置/m",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0e1355ad189fa27c4e5641c61ef9720dfb9a15531d1571b8701b648ef291824.jpg",
+        "img_caption": [
+            "图4不同风速下沙障周围风速等值线Fig.4Isoline maps of wind velocity distributionaround sand barrier",
+            "注：a为优化前，b为优化后。下同。",
+            "图6优化前后沙障周围风速等值线",
+            "Fig.6Isoline maps of wind velocity distribution around sand barrier before and after optimization "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2道沙障上方无加速区生成；优化后，3道沙障背风侧均有明显的恢复区生成，第2道沙障背风侧的恢复区长度较优化前显著增加，与第3道沙障背风侧恢复区长度相近，并且第2道沙障上方有加速区生成。风速为 $2 0 \\ \\mathrm { m \\cdot s ^ { - 1 } }$ 时,优化前3道沙障周围流场特征明显不同,相较于 $1 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 风速而言,首尾两道沙障上方的加速区范围明显减小，后两道沙障背风侧恢复区长度明显增加；优化后3道沙障周围流场特征与优化前相似，各沙障背风侧均能生成较长的恢复区，可以有效阻滞风沙流。因此，在 $2 0 \\mathrm { ~ m ~ }$ ·$\\mathrm { ~ s ~ } ^ { - 1 }$ 风速下，优化前后沙障周围流场分区特征相似，二者对该风速下的风沙流均有较好防护效果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "产生上述变化的原因在于气流经过沙障时会受其阻碍，背风侧风速显著降低，但随着距离的增加，风速会逐渐恢复直至与入口风速相同。当风速小于$2 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 时,优化前的沙障间距较小,气流绕过第1道沙障后，背风侧风速未恢复至临界起沙风速便提前遭遇第2道沙障的阻碍，第2道沙障未能发挥应有的防护作用，阻沙带整体防护区间过小。通过相贴原理优化沙障间距，可以掌握沙障背风侧风速恢复的程度，即在风速将要恢复至临界起沙风速时通过再次设置沙障来消减风速，以尽可能发挥沙障防护效果，增大阻沙带防护区间。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "沙障周围的风速变化情况可以反映优化前后沙障的防风效果，绘制距地面 $0 . 5 \\mathrm { ~ m ~ }$ 高度处风速变化曲线(图7），表明了3道沙障的位置关系。可以看出，由于沙障的阻碍作用，其周围风速变化剧烈，风速变化曲线在沙障前后存在明显的上升和下降段，整体呈波浪状。当风速为 $1 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 和 $1 5 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 时，沙障间距优化前后的风速变化曲线差异显著：优化前，由于第2道沙障位于第1道沙障遮蔽范围内，导致第2道沙障未能完全发挥阻风效果，沙障背风侧风速恢复较快，特别是靠近第3道沙障迎风侧的部分区域,风速大于 $6 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 的起沙风,表明阻沙带局部防风效果较弱；优化后，3道沙障均能很好地发挥阻风作用,沙障之间的风速始终小于 $6 \\mathrm { ~ m ~ } \\cdot$ $\\mathbf { s } ^ { - 1 }$ ,阻沙带整体防护效果较好，充分发挥了各道沙障的防护作用，并且阻沙带防护范围较优化前显著增加。当风速为 $2 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 时，由于优化前后沙障合理间距差别不大，二者流场分区特征相似，风速变化也趋于一致：沙障间 $0 . 5 \\mathrm { ~ m ~ }$ 高度处风速均小于6$\\mathbf { m } \\cdot \\mathbf { \\ s } ^ { - 1 }$ ,阻风效果良好,进一步表明现场布置模式对 $2 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 的气流有较好的防护效果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 积沙分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3种风速下优化前后沙障周围的积沙分布见图8,可以看出，不同风速下，沙障周围的积沙分布存在显著差异：随着风速逐渐增大，无论优化与否，3道沙障周围的积沙量均呈逐渐减少的变化趋势，表明沙障阻沙能力与风速呈负相关，这也重申了风速的主导作用。对于 $1 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 和 $1 5 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 风速而言，",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b645b590e2dbd7a32a361c37c5787d2f6b3d6579ab8be53b979dd35ef9448bfa.jpg",
+        "img_caption": [
+            "图7优化前后沙障周围距地面 $0 . 5 \\mathrm { ~ m ~ }$ 高度处风速变化曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.7 Variations in wind velocity at a distance of $0 . 5 \\mathrm { ~ m ~ }$ from ground around sand barrier before and after optimizatiol优化前积沙分布主要位于3道沙障之间，特别是第2、3道沙障迎风侧积沙较多；而优化后3道沙障周围积沙分布均匀，主要分布在每道沙障背风侧，迎风侧积沙明显减少，阻沙带防护范围较优化前显著增大。当风速为 $2 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 时，由于优化前后沙障间距相差不大，且流场特征与风速变化规律相似，因此，积沙分布形态也趋于一致，3道沙障周围的积沙主要分布在背风侧，且以第1道沙障背风侧积沙最多，而沙障迎风侧仅有少量积沙，阻沙带整体防沙效果较好。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bcae0a0f4ade299bc14ef152e8ac0d4f3c2fc19a4957fb98fb9b210f3132c491.jpg",
+        "img_caption": [
+            "陈柏羽等：新疆S214省道高立式芦苇沙障合理间距分析",
+            "注：标尺上的数字表示砂粒体积分数 $( \\% )$ 0",
+            "图8优化前后芦苇沙障周围积沙分布",
+            "Fig.8Distribution of sand deposits around the sand barrier before and after optimization "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据现场调查，新疆S214省道沿线防沙体系建立初期作用显著，但在干涸湖区极端风沙环境下，阻沙带失效过快,高立式芦苇沙障倾倒、沙埋现象严重。一方面是芦苇秆本身容易老化,需经常修补维护，另一方面是沙障布置间距缺乏理论依据，导致3道沙障之间不能协同防沙。数值模拟结果表明，高立式芦苇沙障背风侧无明显涡流区生成,这非常有利于拦截风沙流中的砂粒，且有固定沙面的作用。当多道沙障组合形成阻沙带时，如能合理布置沙障的间距，则可最大限度发挥沙障的防护效果，还可以延长整个防沙体系的使用寿命。但这不仅依赖于可靠的理论依据，还需要实地观测数据的支撑。根据前人观测结果，研究区内全年风速最大值出现在5月，最小值出现在1月， $3 \\mathrm { ~ m ~ }$ 高度处年平均风速约为 $5 ~ \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ，全年 $1 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 以下的风占到了$9 1 . 5 0 \\%$ [19]。因此,结合前人观测数据、现场调查情况及数值模拟结果，建议该区阻沙带内高立式芦苇沙障间距宜为 $2 0 \\sim 2 5 \\mathrm { ~ m ~ }$ ,即按 $1 0 \\sim 1 5 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 风速设防。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）单道高立式芦苇沙障周围流场可分为迎风侧减速区、上方加速区和背风侧恢复区。随风速逐渐增大，背风侧恢复区长度和上方加速区范围逐渐减小，迎风侧减速区无明显变化，并且背风侧恢复区内基本无涡流区生成。高立式芦苇沙障的合理间距存在随风速增大而减小的变化规律。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）通过对比分析,现场布置模式对 $2 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 的风沙流有较好的防护效果，低于此风速时，第二道沙障背风侧基本无恢复区生成，后两道沙障迎风侧积沙较多且紧贴沙障分布，砂粒压埋沙障速度较快。通过相贴原理优化 $1 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 和 $2 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 风速下的现场布置间距后，3道沙障背风侧均有明显的恢复区生成，流场分区更加合理，并且可以有效减少沙障迎风侧积沙量，减缓沙障失效速度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）根据前人观测数据、现场调查情况及数值模拟结果，建议研究区内高立式芦苇沙障间距宜为$2 0 \\sim 2 5 \\mathrm { ~ m ~ }$ 。高立式芦苇沙障的合理间距研究结果,可为新疆S214省道防沙体系的后续建设及改进提供理论支撑，也可为其他地区线路的防沙体系提供参考。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:   \n[1]Zhang KC,Niu Q H,QuJJ,et al.Characteristics of sand damages and dynamic environment along the tuotuohe section of the Qinghai-Tibet railway[J].Sciences in Cold and Arid Regions,2011,3 (2):137 -142.   \n[2]Xiao JH,Yao Z Y,QuJJ,et al. Influence of golmud-lhasa section of Qinghai-Tibet railway on blown sand transport[J].Chinese Geographical Science,2015,25(1） :39 -50.   \n[3］袁鑫鑫,王海峰,雷加强,等.不同结构尼龙网防风效应的风洞 模拟[J].干旱区研究,2017,34（1）:185-190.[Yuan Xinxin, Wang Haifeng,Lei Jiaqiang,et al.Wind tunnel simulation of wind protection effects of nylon nets with different structures[J].Arid Zone Research,2017,34(1）:185-190.]   \n[4］王睿,周立华,陈勇,等.库布齐沙漠机械防沙措施的防护效益 [J].干旱区研究,2017,34(2）:330-336.[Wang Rui,Zhou Lihua,Chen Yong,et al.Wind-blown sand control effect of sand barriers used in the Hobq Desert[J].Arid Zone Research,2017,34 (2):330 -336.]   \n[5]景文宏,程建军,蒋富强.轨枕式挡墙挡风沙功效的数值模拟 及试验研究[J].铁道科学与工程学报,2016,13（1):46-54. [Jing Wenhong,Cheng Jianjun,Jiang Fuqiang.Numerical simulation and experimental research on effct of sleeper typed retaining wall for wind and sand retaining[J].Journal of Railway Science & Engineering,2016,13(1）:46-54.]   \n[6]辛国伟,程建军,杨印海.铁路沿线挂板式沙障开孔特征与风 沙流场的影响研究[J].铁道学报,2016,38（10）：99－107. [Xin Guowei,Cheng Jianjun,Yang Yinhai.Studyon effectof characteristics of hanging-type concrete sand barrer opening and windsand field alongrailwayJ].Joumal of the China RailwaySociety, 2016,38:99 - 107.]   \n[7]Cheng Jianjun,Lei Jiaqiang,Li Shengyu,et al.Disturbance of the inclined inserting-type sand fence to wind-sand flow fieldsand its sand control characteristics[J].Aeolian Research,2016,21:139- 150.   \n[8]Zhang Kecun,Qu Jianjun,Liao Kongtai,et al.Damage by windblown sand and its control along Qinghai-Tibet Railway in China [J].Aeolian Research,2010,1(3-4）:143-146.   \n[9]Cheng Jianjun,Xue Chunxiao.The sand-damage-prevention engineering system for the railway in the desert region of the QinghaiTibet plateau[J]. Journal of Wind Engineering and Industrial Aerodynamics,2014,125:30 -37.   \n[10］黄强,雷加强,王雪芹,等.塔里木沙漠公路不同地貌部位的高 立式沙障阻沙特征[J].干旱区地理,2000,23（3）：227－232. [Huang Qiang,Lei Jiaqiang,Wang Xueqin,et al.Sand-obstructing effect of the high sandbreasks in the different morphologic scetions alongthe traim desert highwayJ].AridLand Geography,20,3 (3):227 -232.] [11］王训明,陈广庭,韩致文,等.塔里木沙漠公路沿线机械防沙体 系效益分析[J].中国沙漠,1999,19(2）:25-32.[Wang Xunming,Chen Guangting,Han Zhiwen,et al.The benefit of the prevention system along the desert highway in tarim basin[J]. Journal of Desert Research,1999,19(2）:25-32.] [12］韩致文,刘贤万,姚正义,等.复膜沙袋阻沙体与芦苇高立式方 格沙障防沙机理风洞模拟实验[J].中国沙漠,2000,20（1）:40 - 44.［Han Zhiwen,Liu Xianwan,Yao Zhengyi,et al.Wind tunnel test on sand-preventing mechanism of double-filmed sand-bag obstacle and upright checkerboard sand barrier[J].Journal of Desert Research,2000,20(1） :40 -44.] [13］金昌宁,董治宝,李吉均,等.高立式沙障处的风沙沉积及其表 征的风沙运动规律[J].中国沙漠,2005,25（5）:652-657. [Jin Changning,Dong Zhibao,Li Jijun,et al. Blown sand deposits and its indications on wind activities around high windbreaks[J]. Journal of Desert Research,2005,25(5）:652-657.] [14］曹子龙,赵廷宁,郑翠玲,等.带状高立式沙障防治草地沙化机 理的研究［J].水土保持通报,2005,25（4）：15－19.［Cao Zilong,Zhao Tingning,Zheng Cuiling,etal.Mechanism of highbandedsand-barriers forcontrolling grasslanddesertification[J]. Buletin of Soil and Water Conservation,2005,25(4):15-19.] [15］朴起亨.几种不同材料机械沙障防风效应研究[D].北京：北 京林业大学,2010.[Park Kihyung.Effects of Different Sand Barriers on Wind-Break and Sand Fixation[D]. Beijing: Beijing Forestry University,2010.] [16］丁录胜,程建军,陈柏羽,等.铁路高立式芦苇沙障防风阻沙的 现场测试与流场模拟计算[J].水土保持通报,2019,39（3）：   \n156 -162.[Ding Lusheng,Cheng Jianjun,Chen Boyu,et al.Field test and numerical simulation of windbreak and sand-resisting on high-parallel reed sand-barriers along railway[J].Bulletin of Soil and Water Conservation,2019,39(3）:156-162.] [17］胡正超,刘洋,李生宇,等.台特玛湖干涸湖盆风沙对公路潜在 危害评价[J].国土与自然资源研究,2018（2）:54－59.［Hu Zhengchao,Liu Yang,Li Shengyu,et al.The wind-blown sand hazard potential evaluation of highway on dry up lake-basin region of Taitema lake[J].Territory & Natural Resources Study,2018（2）:   \n54 -59.] [18］胡正超,吐尔逊·哈斯木，王慧玲,等.台特玛湖干涸湖盆区 S214 省道风沙灾害探讨[J].内蒙古农业大学学报（自然科学 版）,2018,39(6）:54-66.[Hu Zhengchao,Tursun Kasi,Wang Huiling,etal.indandsanddisastesinS214proviciagway of dry up lake-basin region of Taitema lake[J]. Journal of Inner Mongolia Agricultural University(Natural Science Edition）,2018,   \n39(6) :54 -66. ] [19］俞祥祥,台特玛湖干涸湖盆区风沙活动特征［D].北京：中国 科学院大学,2016.［Yu Xiangxiang,Characteristics of Blown Sand Activity on Dry up Lake-Basin Region of Taitema Lake[D]. Beijing:University of Chinese Academy of Sciences,2016.]   \n[20]Tennekes H.The logarithmic wind profile[J]. Journal of the Atmospheric Sciences,1973,30(2）:234-238.   \n[21]Bauer BO,Houser C A,Nickling WG.Analysis of velocity profile measurements from wind-tunnel experiments with saltation[J].Geomorphology,2004,59:81 -98.   \n[22]Jiang H,Dun H,Tong D,et al. Sand transportation and reverse patterns over leeward face of sand dune[J].Geomorphology,2017, 283:41-47.   \n[23]Huang N,Zheng X J,Zhou Y H.A multi-objective optimization method for probability density function of lift-off speed of windblown sand movement[J].Advances in Engineering Software, 2006,37(1) :32 -40.   \n[24]Lee SJ,ParkKC,Park CW.Wind tunnel observations about the shelter effect of porous fences on the sand particle movements[J]. Atmospheric Environment,2002,36(9）:1453-1463.   \n[25]Chen BY,Cheng JJ,Xin L G,et al.Effectiveness of hole platetype sand barriers in reducing aeolian sediment flux:Evaluation of effect of hole size[J].Aeolian Research,2019,38:1-12.   \n[26］郝晓杰,熊治文，蒋富强,等.青藏铁路不同防沙栅栏的布设位 置研究［J].铁道标准设计,2012（4）：16-20.［Hao Xiaojie， Xiong Zhiwen,Jiang Fuqiang,et al.Research on the positions of various kinds of sand barriers in Qinghai-Tibet railway[J].Railway Standard Design,2012(4）:16-20.]   \n[27］Perera MD AE S.Shelter behind two-dimensional solid and porous fences[J]. Journal of Wind Engineering and Industrial Aerodynamics,1981,8(1-2):93-104.   \n[28］凌裕泉，金炯,邹本功，等.栅栏在防止前沿积沙中的作用- 以沙坡头地区为例[J].中国沙漠,1984,4（3）：16－25.［Ling Yuquan,Jin Jiong,Zou Bengong,et al.Effect of fence techniques in levelling sand accumulation around sandbreaks:Case study in Shapotou district[J].Journal ofDesert Research,1984,4（3）:16 -25.]   \n[29]Tsukahara T,Sakamoto Y,Aoshima D,et al.Visualization and laser measurements on the flow field and sand movement on sand dunes with porous fences[J].Experiments in Fluids,2012,52(4):877 - 890. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Reasonable spacing of high-parallel reed sand barriers along the Xinjiang S214 provincial highway ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CHEN Bo-yu1， CHENG Jian-jun’，LI Sheng-yu² (1.CollegeofWaterResourcesndArchitecturalEngineeing,hihezi University,hihezi832O3,Xinjiang,China; :. Xinjiang institute of ecologyand geography Chinese academyof sciences Xinjiang,Urumqi 830o11,Xinjiang,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The CFD(computational fluid dynamics） numerical simulation method was used to study the windsand flow fields aroundthehigh-parallel reed sand barrierof the Xinjiang S214 provincial highwaysandcontrol section.Theresults showed thattheflow field division around the high-paralelreedsand barriercanbe divided into the windward side deceleration zone,the upper acceleration zone,and the leeward side recovery zone; no obvious vortex zone formation was observed on the leeward side.Reasonable spacing between sand bariers was found to be negatively correlated with wind speed.The field layout mode has a beter protective effect on wind-sand flows of 20 $\\mathbf { m } \\cdot \\mathbf { s } ^ { - 1 }$ ;when the wind velocity is lower,minimal eddy currents developed on the leeward side of the second sand barier.Moresand accumulatedon the windward sideof the latertwo sandbariers and theyare close to the distributionof sand barriers.The burial speed of sand barriers is also faster.Through optimizing the distance between sand barriers based on matching principles,the protection of each sandbariercanbe maintained,effctivelyresistingthe invasion of sand and prolonging the service life of the bariers.According to previous observational data, field investigation,andnumericalsimulationresults,itissuggestedthat high-parallelreedsandbarriers inthe study area should be spaced by $2 0 - 2 5 \\mathrm { ~ m ~ }$ . The results of this research provide a theoretical basis for the reasonable spacing of high-parallel reed sand bariers along the Xinjiang S214 provincial highway,andalso provide a reference for the construction of other wind-sand protection projects. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key Words:high-paralel reed sand barier；wind-sand flow fields；reasonable spacing；numerical simulation; Ruoqiang County ",
+        "page_idx": 7
+    }
+]

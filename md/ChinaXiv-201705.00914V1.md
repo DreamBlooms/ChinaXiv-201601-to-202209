@@ -1,0 +1,145 @@
+# 附面层抽吸对高负荷扩压叶栅变冲角性能影响
+
+陆华伟1　张永超¹　刘 俊¹刘 斌¹郭 爽²
+
+(1．大连海事大学轮机工程学院，大连116026;2．大连理工大学航空航天学院，大连116024)
+
+摘要针对高负荷压气机叶栅采用实验校核CFD 方法对其冲角特性进行研究，并通过吸力面及端壁附面层抽吸加以控制，结果表明高负荷扩压叶栅小冲角范围内流场性能差别不大，随着正冲角增大，二次流加剧并扩展至整个流道。附面层抽吸可以减少掺混损失，且吸力面抽吸方案冲角特性优于端壁抽吸方式。
+
+关键词附面层；高负荷；冲角；抽吸中图分类号：V235.11 文献标识码：A 文章编号:0253-231X(2017)04-0726-07
+
+# Investigation of Boundary Layer Suction on Compressor Cascade Incidence
+
+LUHua-Wei1 ZHANG Yong-Chao1 LIU Junk KLIU Bin1 GUO Shuang² (1.Marine Engineering College,Dalian Maritime University， Dalian 116026, China; 2. School of Aeronautics and Astronautics,DalianUmiversity of Technology, Liaoning, China)
+
+Abstract The numerical simulation that was yerified by an experiment was conducted to study the high-loaded compressor cascade incidence. Tenfluence of the boundary layer suction on incidence is explored and its control mechanism As explained from the perspective of vortex system. Results show that the performance of high-lnaded cascade is almost in same in a little range of incidence And the secondary flow increase withfhe growth of positive incidence and expand along span rapidly. The mixing loss in cascade reduce@dsignificantly via the boundary layer aspiration .In the meantime, the aspiration on suction side is superior to end-wall in terms of incidence performance.
+
+Key wordscompressor cascades, tip clearance, boundary layer suction, leakage, vortex structure
+
+# 0引言
+
+高负荷叶栅是实现压气机高压比、高效率最为直接的方案，然而其中逆压梯度和二次流动占有绝对重要地位，由其引起的二次流损失占到叶栅总损失的 $3 0 \% { \sim } 5 0 \%$ ，乃至更高[1。在叶片吸力面与轮毂形成的角区位置，大量低能流体堆积呈现出三维分离特性，在来流畸变条件下，极易引发角区失速甚至喘振，因此对角区分离及失速现象的有效控制是实现高性能压气机的关键[2-4]。
+
+压气机工作环境恶劣导致工况多变，变工况条件下，附面层流动极不稳定，叶栅级特性对整体性能影响较大，张华良[5]通过拓扑分析研究了冲角对叶栅二次涡的影响，发现随冲角增加流动非定常性增强，分离由开式向闭式形态转化。陈浮等[6,7]则实验研究了弯曲叶片冲角特性，结果表明冲角增大后，横向压力梯度增大，导致气流动能降低，易引起损失的激增。可见对高负荷叶栅冲角特性进行研究并加以控制是实现其应用价值的重要途径
+
+\1997年，MIT开展了压气机应用附面层抽吸技术的研究，研究发现附面层吸除可以提高压气机扩压能力及效率，改善其工作性能[8,9]。Reijinen[10]则通过实验证实了附面层吸除有助于增大气流折转能力，延迟旋转失速区域的形成，提高压比。Gbadebo等[11]通过低速扩压叶栅吸力面及端壁开槽形式对角区分离控制的研究表明：端壁开槽形式对角区分离控制更为有效，且最优开槽位置需覆盖分离结点。Gmelin[12]和Lemke等[13]以及Liesner等[14]通过实验与数值研究发现，端壁开槽位置的确定对二次流的控制有显著影响。
+
+本文针对NACA65-010高负荷压气机叶栅，采用实验校核数值方法研究附面层抽吸对高负荷叶栅冲角特性的影响。
+
+# 1叶栅参数定义
+
+NACA65-010叶型几何及气动参数详见文献[15]，定义冲角为来流与几何进气角之间夹角，文中主要研究了 $0 ^ { \circ }$ 、 $\pm 3 ^ { \circ }$ 和 $+ 5 ^ { \circ }$ 冲角性能。吸气槽分别位于吸力面 $6 0 \%$ 弦长、端壁 $5 0 \% \sim 7 5 \%$ 弦长处，以SS、EW表示，槽宽均为 $2 ~ \mathrm { m m }$ ，如图1所示。
+
+![](images/2b7bb91ebfc1836d4ebf2a73fc4f7eecc862e68e5f8d3bdcd240a840baad5959.jpg)  
+图1冲角及抽吸槽定义方式 Fig.1 definition of incidence and suction slot
+
+验结果的校核，图3、4所示为原型叶栅实验校核结果。比较可知，实验与数值结果中高损区位置及范围吻合度较高，均表现为角隅区高损形式，并向中径延伸，出口流线可见清晰的二次流涡，总压损失曲线除个别点外趋势及量值吻合较好，从而认证仿真结果可行性。
+
+![](images/76009dc672e28536bea7ae7a378c3d230e6919b1f057aa0135698941e4db7e14.jpg)  
+图3栅后总压损失云图及流线 Fig.3 Outlet total pressure loss and line
+
+# 2数值校核
+
+数值仿真采用ANSYSCFX计算软件，用ICEM模块建立H-O-H型结构化网格，如图2所系，对壁面进行加密处理，保证第一层网格结点满足 $y ^ { + } < 5$ ，湍流模型为标准 $k { - } \varepsilon$ 模型。计算域进口设定来流总压、总温、入射角、湍流特征长度及湍流强度，出口设定静压值，叶片表面及上下端壁设定无滑移绝热条件，节距方向设周期性边界条件，抽吸槽出口设定流量出口。
+
+![](images/dc2b7a1199892db513263c5ef72ce3cb9157c244d774099a2dee40a5ce882bbd.jpg)  
+图2网格示意图Fig.2 8 Schematic of mesh
+
+# 3仿真模型验证
+
+数值仿真的精度及可靠性很大程度上依赖于实
+
+![](images/066257e02cf3b940e0d11e4c8cdfda5d8b0c4677b3b79b6ac3a9fd07fceed0ae.jpg)  
+图4流量平均总压损失 Fig.4 10 Massflow-averaged total pressure loss
+
+# 4负荷叶栅冲角特性
+
+# 4.1壁面极限流线
+
+图5所示为不同冲角条件下端壁－吸力面极限流线及奇点分布，与设计工况(P00)相比，负冲角(N03)工况下，前缘鞍点S1向吸力面侧移动，马蹄涡吸力面分离线趋向吸力面，但没有汇集于结点，而是紧贴下端壁流至尾缘，这表明负冲角工况削弱了马蹄涡吸力面分支的流动。负冲角来流条件下，附面层所受的逆向与横向压力梯度相对减小，因此二次流损失随之降低，角区分离线起始于正常点并向端壁移动，中径流通面积增大。
+
+随着来流向正冲角发展，前缘鞍点S1移向压力面侧，马蹄涡吸力面分离线远离吸力面，消失于结点N1，由此可见，马蹄涡吸力面分支没有汇入通道涡，此时流道横向压力梯度和吸力面逆压梯度增加，端壁流线迅速向角区流动，集中脱落涡向叶型中部移动。正冲角工况进一步增大 (P05)，二次流扩展至整个流道内，角区分离线转化为一条沿叶高的型面分离线，叶片吸力面附面层完全分离，但壁面奇点分布没有明显改变，说明冲角改变后流场压力分布基本一致，只是区域及量值进一步增大。
+
+![](images/f131f481832290dd5973de0ebc7732e8f456bc07e8da5f2ce5b89d01363fd2f2.jpg)  
+图5变冲角端壁极限流线
+
+# 4.2面极限流线
+
+来流冲角的改变会直接影响到流场压力分布情况，而叶栅加载能力与型面静压分布息息相关，型面不同叶高处静压系数分布规律展示于图6中，其曲线包络面积即作功能力。负冲角时，由于前缘马蹄涡没有充分发展，吸力面分支被削弱而压力面分支被加强，因此前缘涡升力降低，丧失部分加功能力，又由于负冲角时二次流强度降低，吸力面流动相对稳定，因此 $2 0 \% { \sim } 5 0 \%$ 弦长处作功能力提升。正冲角来流则正好相反，马蹄涡压力面分支削弱而吸力面分支加强，因此前缘作功量增大。由其曲线分布规律发现，曲线斜率突跃点向前移动，表明沿流向附面层迅速增厚甚至分离使其作功能力下降。
+
+![](images/d2441f2587068cdff8efb74592d0635d0d222fedf40f0593506323683f67978a.jpg)  
+Fig.5 Limiting streamline on end-wall with incidence angle
+
+![](images/b044ac0892f06f6c39b9a227e792bddd17ec078b12e2887e6e03c0f11d36fa2e.jpg)  
+图6型面静压系数分布  
+Fig.6 Distribution of static pressure coefficient
+
+# 5变冲角附面层抽吸
+
+# 5.1极限流线
+
+图7为不同抽吸工况下对应的壁面极限流线,结果显示吸力面抽吸对角区的改善在于消除了集中脱落涡为主的闭式分离，同时马蹄涡吸力面分支得到加强，汇入壁角涡使其进一步壮大，因此端壁与吸力面可见一条清晰的分离线与再附线。而端壁抽吸则使角区分离形态转化为型面分离，由于抽吸槽沿流向分布，因此马蹄涡吸力面分支没有形成结点而是流入抽吸槽内。负冲角（N03）工况二次流相对较弱，因此吸力面抽吸（SS-N03）和端壁抽吸(EW-N03)均改善了附面层流动状况，由壁面奇点分布可知，端壁抽吸使型面附面层流动趋于复杂。随着向正冲角转变，横向压力梯度和逆压梯度增大，分离逐渐加剧，此时吸力面和端壁抽吸差异较大，表现为吸力面抽吸的正效应和端壁抽吸的负效应。其原因归结如下：吸力面抽吸槽提了升型面来流附面层动能及降低附面层位移厚度，尽管流道内二次流有所加强，但附面层能够抵抗压力梯度变化不会产生大尺度周向分离，因此抑了制端壁附面层与吸力面附面层的相互掺混。比较而言，端壁抽吸在一定程度上加强了端壁横向流动，但通过移除附面层减薄了附面层位移厚度，因此端部附面层动能得以恢复，然而端壁吸气槽给整个流场引入额外的径向压力梯度并诱导吸力面附面层向两端区移动，为此形成鞍点S3，此时吸力面附面层趋于不稳定，逆向压力梯度下过早分离形成闭式分离泡。
+
+失分布控制在角区内，恢复中径处流通能力。端壁抽吸方案对整个流场的影响要大得多，不仅没有改善，反而进一步转恶，分离线与再附线位置表明尾缘
+
+![](images/a5347c3da2b031faf02c6fe31d74e74b7ef7d1be3d69d5c4376b807e6319cc00.jpg)![](images/7fb4635c70d60f34d13f89c9220931c38128c55fbcce6ab84fab1982b7ce6806.jpg)
+
+# 5.2栅后总压损失云图及二次流线
+
+不同工况抽吸方案的出口总压损失云图及二次流线显示于图8，损失分布规律与壁面流线结果一致，负冲角时二次流强度低，流体轴向动能相对较高，扩压能力提升的同时导致出口静压增大，因此通道涡受强逆压作用结构为典型的外旋形式，表明其发展过程中始终处于耗散状态，涡心位置相对较低，损失核心位于涡心上方。附面层抽吸没有改变通道涡的形态，但损失分布变化较大，吸力面抽吸对型面损失(ProfileLoss）影响最为显著，尾迹区内流动掺混被大幅削弱，中径损失呈狭长分布，而端壁抽吸减小了角区损失（CornerLoss）规模，角区高损核心被移除，损失区向吸力面(SS）靠拢，但中径损失略有提升，出口总压损失趋均匀分布。正冲角 (P03)工况加强了流道内二次流动，通道涡有充足的低能流体补充，旋度增强并能够抵抗逆压梯度，因此旋向改为内旋形式，涡心对应于最大损失区，随着正冲角进一步增大 (P05)，高损区扩展至中径，尾迹内流体掺混剧烈。吸力面抽吸可以将延展至中径的损存在脱落涡，流体的剪切作用产生耗散，损失核心转移至中径。端壁附面层厚度减小导致通道涡抵抗逆压梯度能力下降，其旋向转为耗散的外旋式。
+
+Fig.7 Limiting streamline on end-wall   
+图8出口总压损失云图及二次流线  
+Fig.8 Contours of total pressure loss and streamline in outlet
+
+# 5.3抽吸流量研究
+
+在上文已确定的抽吸位置基础上，研究了不同冲角下流场整体性能 (以损失系数表征)随抽吸流量变化规律，鉴于吸力面及端壁抽吸对流场的作用机制不同，将流场划分为角区流动和型面流动，分别研究抽吸流量对其性能的影响。
+
+图 $9 ( \mathrm { a } ) \mathrm { \sim ( c ) }$ 分别为型面、角区及整体损失系数随抽吸流量变化规律，随着来流向正冲角改变，损失系数呈增大趋势，由N03到P05变化过程中，型面、角区及整体损失系数分别增大了 $5 2 \%$ 、 $1 0 \%$ 和 $1 2 \%$ 可见正冲角工况下二次流和逆压梯度会影响至整个流场，型面附面层位移厚度增长大于角区，然而损失的绝对量值表明高负荷叶栅角区损失占有绝对地位附面层堆积、掺混是该部分损失的主要来源。吸面抽吸对流场整体改善具有增益作用，角区和型面损失系数均随抽吸流量逐渐降低，但降低幅度递减，由于型面位置相对于角区附面层薄很多，因此型面损失系数的下降幅度大于角区，且随着来流向正冲角改变，改善效果越发明显。相比之下，端壁抽吸对流场的扰动更大，表现为角区损失系数减小而型面损失系数增大，主要是型面附面层迁移导致，而且角区的改善幅度较吸力面抽吸要小。P05冲角时端壁抽吸促进了流场分离，型面、端壁和整体损失系数提升，表明端壁抽吸对大正冲角工况适应能力较差。‘
+
+![](images/bd02958adeac4b5ad090c52b8abe16287a688b4cf8f125e75f1a002e34c0206c.jpg)
+
+![](images/c5cc50b4b99dc903a5221d5e6f44c6da5610d8eef0fd9ce00d0abfa9dcae051c.jpg)  
+图9损失系数随流量变化规律 Fig. 9xTotal pressure loss changing with mass-flow
+
+# 5.4附面层抽吸机理总结
+
+上述结果表明吸力面和端壁抽吸对型面及角区损失贡献不同，而且表现出不同的冲角特性。但不同抽吸方案在变冲角工况下表现的机理具有一致性，因此选取设计工况（ $\mathrm { { \dot { 0 } ^ { \circ } } }$ 冲角)阐述吸力面和端壁抽吸对流场的作用机理。
+
+图10所示为原型叶栅及抽吸后流场模型，对于原型叶栅ORI，吸力面根部附面层轴向动量亏损和逆压梯度共同作用形成角区分离线Line1和Line2,使得角区分离具有密闭性。由于高负荷叶栅来流附面层厚，横向压力梯度大导致端壁附面层Line4不断向角区堆积，并增益下角区集中脱落涡强度，扩展角区周向尺度。端壁自前缘而来的附面层流体Line3因Line4被迫拾升，在横向及逆向压力共同作用下汇集于角区分离线Line1结点处，补充增强上集中脱落涡。由此可见，吸力面端部附面层是形成角区分离的主要诱因，而端壁附面层起到补充增益作用。
+
+通过在吸力面开设吸气槽 (图10(b)）可以减小来流附面层厚度并提升新生附面层动能，因此角区分离线Line1向端部移动并且终止于尾缘，而Line2轴向动量恢复足以抵抗逆压梯度，为角涡发展提供了初始涡量，由于Line2没有形成螺旋结点，因此端壁附面层Line4迁移至吸力面后反向扭曲变形，没有足够的涡量形成大尺度周向分离。又由于Line4贴近壁面，所以Line3受到的周向和逆向挤压削弱，因此其随Line4一起流出尾缘。正是由于吸气位置更多的是影响到吸力面附面层分布，因而对型面流动的改善优于角区。
+
+图10(c)所示的端壁抽吸表明，覆盖角区分离结点的抽吸槽消除了角区分离线，这主要是因为端部附面层位移厚度减小、轴向动量提升。但是端壁抽吸引入的径向力导致中径处附面层迁移形成新分离线Line1，并与尾缘回流附面层形成的Line2共同形成闭式结构。此时端壁附面层部分被移除，新生附面层Line4以高动量流出尾缘，而端部附面层Line3攀升成为径向涡的补充流体，因此端壁抽吸方式对端部流动具有正贡献，对型面流动具有负贡献，而正冲角工况型面发生大尺度分离，此时端壁抽吸方案只能加剧其分离程度，表现不佳。
+
+![](images/58bb14c7b771cd3753e960517c724f4900c9348e228b45c2389b647ba7231784.jpg)
+
+![](images/99a75ef395a884aff3e4d74ddd20acbaac99036d4e7ffdec863dd2f50dbb8b83.jpg)  
+图10 流场模型 Fig.10 Topology of flow feld
+
+# 6结论
+
+针对高负荷压气机叶栅研究其冲角特性，并通过附面层抽吸加以控制，得出结论如下：
+
+1）高负荷叶栅冲角特性较差，正冲角工况下二次流扩展至整个流道，逆压梯度下易形成闭式分离，产生高湍动能耗散；2）吸力面附面层抽吸通过提升型面来流附面层动能及降低附面层位移厚度削弱流动分离，从而减少掺混损失，对型面损失的减小幅度大于角区，并且展现出较好的冲角特性；3)端壁覆盖分离结点的抽吸方式对端部流动有正贡献，但中径附面层不稳定并径向迁移造成闭式分离，产生压差损失及剪切耗散，尤其大正冲角工况下，型面分离严重，端壁抽吸导致角区及型面损失进一步增大，适应性较差。
+
+# 参考文献
+
+[1]Hosny W,Tabakoff W.An Analysis of Losses and Secondary Flow in Turbine Cascade [R].AD-736853,   
+[2]Zhang Y.F,Investigation of Endwall Flow Behavior and Its Control Strategies in Highly-Loaded Compressor [D]. Xi'an:Northwestern Polytechnical University, 2010   
+[3]Liesner K,Meyer R, Schulz S.Non-Symmetrical Boundary Layer Suction in a Compressor CASCADE[J].Journal of Theoretical and Applied Mechanics 2012,50(2):455-472   
+[4] Chen P P,Qiao W Y,S Farhan Ali Hashmi,Shi P J, Zhao L.Passive Control of Hub-corner Separation/Stall Using Axisymmetric-hub Contouring [J].Proceedings of theInstitution of Mechanical Engineers,Part G:Journal of Aerospace Engineering,2012,226(10):1214-1224   
+[5]张华良，王松涛，王仲奇．冲角对压气机叶栅内二次涡的影 响[J].航空动力学报,2006,21(1)：150-155 ZhangHualiang,Wang Songtao,Wang Zhongqi,Influence ofIncidence on Secondary Vortex in the Compressor Cascade [J]. Journal of Aerospace Power,2006,21(1):150- 155   
+[6] 陈浮,陈绍文,王可立,谷君,王仲奇．大折转角弯曲扩压叶 栅变冲角性能研究[J].工程热物理学报，2006,27(2)：220- 222 Chen Fu，Chen Shaowen，Wang Keli,Gu Jun，Wang Zhongqi.Performance of Curved Compressor Cascades withLarge Camber Anglesat Different Incidence [J].Journal of Engineering Thermophysics.2006,27(2):220-222   
+[7]陈绍文，陈浮，冯冬民，王仲奇.叶片弯曲对不同折转角扩压 叶栅冲角特性影响[J].航空动力学报．2007，22(3)：406- 410 Chen Shaowen,Chen Fu, Feng Dongmin,Wang Zhongqi. Effects of Blade Curved on Compressor Cascades With Different Camber Angles Under Different Incidences [J]. Journal of Aerospace Power,2007,22(3):406-410   
+[8] Schuler B J,Kerrebrock J L,Merchant A.Experimental Investigation of an Aspirated Fan Stage [C]//ASME4 Turbo Expo 2Oo2:Power for Land, Sea,and Air.Ameri can Society of Mechanical Engineers, 2002: 433-444   
+[9] Hubrich K,Bolcs A, Ott P. Boundary Layer Soction Via a Slot in a Transonic Compressor:Numericai ParameterStudyandFirst Experiments[C]//ASME Turbo Expo 2004:Power for Land,Sea,and Air.American Society of Mechanical Engineers,2004:527-536   
+[10]Reijnen D P.Experimental Study of Boundary Layer Suction ina Transonic Compressor [D].MIT,1997   
+[11]Gbadebo SA,Cumpsty NA,Hynes TP,Control of Three Dimensional Separations in Axial Compressors by Tailored Boundary Layer Suction [J].ASME Journal of Turbomachinery,2008,130:011004   
+[12]Gmelin C,Thiele F,Liesner K,Meyer R.Investigations of Secondary Flow Suction in a High Speed Compressor Cascade [R].ASME,GT2011-46479,2011   
+[13]Lemke M,Gmelin C,Thiele F.Simulations of a Compressor Cascade With Steady Secondary Flow Suction [J]. Numerical Fluid Mechanics and Multidisciplinary Design, 2013,121:549-556   
+[14] Liesner K,Meyer R.Experimental Setup for Detailed Secondary Flow Investigation by Two-Dimensional Measurement ofTotal Pressure Loss Coefficients in Compressor Caseade C]//VKI XIX Biannual Symposium on Measurement Techniquesin Turbomachinery, 2008   
+[15陆华伟，张永超，康达，阙晓旭.吸力面附面层抽吸对大转角 扩压叶栅气动性能影响[J].节能技术，2015(02)：131-135, 139 Lu Huawei, Zhang Yongchao,Kang Da,Kan Xiaoxu. Effects of Boundary Layer Suction on The High-turning Compressor Cascade [J].Energy Conservation Technology,2015(02):131-135,139
+
+![](images/89b6b6220320bb73280d6842b572e24945b34b3871c70806253acdda7a63716c.jpg)

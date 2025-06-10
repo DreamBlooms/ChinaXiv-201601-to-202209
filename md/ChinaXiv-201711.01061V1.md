@@ -1,0 +1,113 @@
+# 饲用酶制剂调节单胃动物肠道微生态及可能作用机理
+
+任 文 喻晓琼 翟恒孝 汪仕奎（帝斯曼（中国）动物营养研发有限公司，霸州165799）
+
+摘要：近年来，通过运用新的分子微生物学技术以及数据分析方法，许多研究证实饲用酶制剂不仅会促进机体对营养物质的消化吸收，而且会影响肠道中特定微生物的发育。其机理可能是通过调节食糜的物理化学性状以及肠道微生物所需营养物质的量，同时提高具有潜在益生效应物质的含量，从而影响肠道微生态的发育，本文拟总结饲粮添加饲用酶制剂对单胃动物肠道微生态的影响并探讨相关机理。
+
+关键词：饲用酶制剂；单胃动物；肠道微生态中图分类号：S816文献标识码：A 文章编号：1006-267X（2017）00-0000-00
+
+随着研究的深入，众多研究证实肠道微生物对畜禽的多种生理功能具有重要作用和广泛影响，如肠道组织的发育、免疫系统的发育以及营养物质的消化和吸收等[1-3]。胃肠道的微生态平衡发生紊乱时，常常伴随着动物生理机能的改变甚至疾病发生，比如大肠杆菌的过量繁殖是仔猪断奶后期腹泻发生的重要原因之一[4]。然而，胃肠道微生物菌群的多样性受到许多因素的影响，如食糜成分、pH、流通速度以及内源性酶类等[1.5]。以促进饲粮营养物质消化为主要目的饲用酶制剂可以改变肠道食糜的化学组成及物理特性，因此，肠道微生物因生存的环境的变化而受到饲用酶制剂的影响。然而，近年来饲用酶制剂研究主要集中在考察其对动物生长性能以及营养物质消化率的影响，而对肠道微生物区系的影响及其相关作用机制的研究相对较少。因此，本文旨在总结分析国内外关于饲用酶制剂对肠道微生态影响的文献报道，并尝试探讨其可能的作用机制，为拓展饲用酶制剂在畜牧生产上的科学应用提供理论支持。
+
+1饲用酶制剂影响肠道微生态状况的理论基础
+
+1.1通过降解底物影响食糜物理化学性状
+
+饲用酶制剂能降解构成植物细胞壁的非淀粉多糖类物质，破坏食糜周围的水化膜，从而影响食糜的物质组成以及物理化学特性。肠道微生物的种类因其对底物的喜好以及生长需要的不同而呈现差异，食糜的组成和结构对肠道微生物菌群的分布具有非常重要的影响。饲用酶制剂与肠道微生态之间的联系（图1）可从2个方面来更好地理解：一方面，饲粮组成自身会影响食糜的物理化学特性以及胃肠道的生理机能；另一方面，因饲用酶制剂对胃肠道中底物的降解或消化作用改变其含量而起到调节作用。饲用酶制剂的降解或消化作用是发展和应用饲用酶制剂的理论基础，因为其所作用的底物在胃肠道中不能被内源性的消化酶有效降解或者完全不能被降解而影响营养物质吸收。例如，饲粮中非淀粉多糖（non-starch polysaccharides，NSP）因不能被有效降解而导致食糜黏度增加是引起肉鸡饲料利用率降低最重要的原因[6-8]。食糜黏度的增加会减少肠道运动，从而使得食糜的排空速度降低，消化道内微生物也随之在体内进一步繁殖和代谢，通常伴随着有害菌的大量繁殖，从而影响肠道功能和机体健康。而在饲粮中添加NSP 酶（如木聚糖酶和葡聚糖酶）会通过部分或完全地降解可溶性 NSP 而降低食糜的黏度，调节消化道后端微生态环境，进而改变肠道内微生物菌群的组成以及代谢状况[8-10]。因此，饲用酶制剂会通过作用于主要的饲料原料（目标底物)，影响食糜的物理化学状态，进而调解或调节肠道微生物的状态。
+
+![](images/6e8c5da4099f8ddcca9d4dd00b948a5a8fac221355a8c78de37605c06a53f75d.jpg)  
+图1饲用酶制剂和肠道微生态之间的联系  
+Fig.1 Link between feed enzymes and gut microbiota[11]
+
+1.2影响肠道微生物代谢所需的营养物质
+
+肠道微生物所需的营养物质来源于食糜（饲粮和内源性分泌物)，食糜中这部分营养物质能耐受消化液降解或者机体对其吸收速率非常慢，使得肠道微生物能成功地与机体竞争并获取它们。因此，酶制剂对食糜底物的降解能力和状况决定了可供微生物利用营养物质的种类和数量。如添加植酸酶可以提高肠道中可利用磷的水平[12]，从而影响那些受可利用钙磷水平调节的微生物的数量。饲用酶制剂通过降解目标底物而影响肠道微生态所需营养物质的供应，肠道微生物的重要物质代谢作用是能够降解和发酵小肠未能消化的食物残渣（非消化性糖类等）和上皮细胞产生的黏液素，从中获取能量以保证自身生长繁殖[13]。饲粮中所含的纤维，尤其是可溶性 NSP 对进入后肠的未降解干物质的流通量具有非常显著的影响。研究表明，结肠微生物每天可发酵 $4 0 { \sim } 6 0 \ \mathrm { g }$ 碳水化合物并且产生挥发性脂肪酸（VFA)，而VFA也可以作为能量来源从而促进微生物的增殖[14]。一旦进入后肠的未降解干物质的流通量大大增加，会导致微生物大量增殖并与宿主竞争可利用的营养物质，引起肠道微生态紊乱和营养性腹泻。由于肠道微生物菌群只能与宿主竞争可利用的营养物质并且它们对底物的偏好和生长需要不同，因此饲用酶制剂可以通过影响食糜的消化降解状态而调节肠道中微生物菌群的分布。
+
+# 1.3 增加具有益生效应的物质
+
+增加具有益生效应的物质可能是饲用酶制剂影响肠道微生态发育的另一原因。饲料工业中使用的植物及植物副产物中含有几乎所有系列的多聚糖，通过添加特殊的NSP单酶或复合酶，可以在肠道中将这些多聚糖降解生成大量的寡糖。例如，在小麦型肉鸡饲粮中添加木聚糖酶后，盲肠中短链木寡糖的含量增加了5倍[9]。研究证实，寡糖能被肠道中有益菌代谢并对双歧杆菌和乳酸杆菌等产酸的有益菌具有高选择性增殖作用，且对条件致病菌有抑制作用，而双歧杆菌通过自身及产生的代谢产物排斥致病菌，在肠道中保持菌种优势，并与其他菌群相互作用，调整菌群间的关系，以保证肠道菌群最佳组合，维持肠道功能的平衡[15]。Campbell 等[1]在研究中发现，饲喂果寡糖和木寡糖后肠道中双歧杆菌的菌群数增加了 $8 \%$ 和 $1 7 \%$ ，总VFA的含量分别提高了 $6 7 . 7 \%$ 和 $7 4 . 6 \%$ ， $\mathsf { p H }$ 相应地降低了 $7 \%$ 和 $1 1 \%$ ，这种环境有助于益生菌的增殖并且抑制致病菌的增殖。此外，生成的VFA 中，丁酸能促进部分有益菌的生长，维持肠道中微生物菌群的动态平衡。被有益菌利用后剩余部分的寡糖还可以携带附着的病原菌排出体外，从而防止病原菌在肠道中集群，达到抑制有害菌的目的。
+
+2不同种类的饲用酶制剂对肠道微生物的影响及可能作用机理
+
+# 2.1NSP酶对肠道微生物的影响
+
+NSP 酶包括木聚糖酶、 $\beta ^ { \textrm { - } }$ 葡聚糖酶、纤维素酶以及 $\beta ^ { \textrm { - } }$ 甘露聚糖酶等，它们可以将高黏度的可溶性NSP 降解成多糖片段或寡糖。研究发现NSP 酶对胃肠道中有益菌有益生作用，而对有害菌具有抑制作用。胡向东等[17]研究发现，在 $40 \%$ 的小麦替代玉米的生长猪饲粮中添加$2 0 0 { \mathrm { U } } / { \mathrm { k g } }$ 木聚糖酶使得结肠乳酸杆菌和双歧杆菌的数量分别增加了 $20 \%$ 和 $1 1 \%$ ，大肠杆菌和梭菌的数量分别降低了 $1 1 \%$ 和 $1 5 \%$ 。叶楠等[18]在 $5 0 \%$ 小麦饲粮中添加 $1 \ 0 0 0 \ \mathrm { U / k g }$ 木聚糖酶，结果表明断奶仔猪盲肠双歧杆菌数量显著增加了 $8 . 5 \%$ 。以上研究中 NSP 酶的添加有效地调节了肠道微生态的状态，其可能的原因是 NSP 酶的添加一方面降低了肠道内容物的黏度，另一方面将可溶性NSP降解为一系列功能性寡糖，刺激有益菌产生的 $\beta ^ { \mathbf { \nu } - }$ 糖苷酶选择性地分解为丙酸和丁酸等短链脂肪酸作为碳源，降低胃肠道的 $\mathrm { \ p H }$ ，抑制肠道中病原菌的定植，同时促进有益菌迅速增殖。在类似的研究中，Engberg 等[19]和丁雪梅等[20]发现，在全小麦型饲粮中添加木聚糖酶使得回肠乳酸杆菌的数量分别增加了 $3 . 6 \%$ 和 $1 6 . 5 \%$ 。李学俭[21]证明，断奶仔猪玉米－豆粕型饲粮中添加 $\beta ^ { \textrm { - } }$ 甘露聚糖酶可以提高肠道内乳酸菌和双歧杆菌的数量并降低大肠杆菌数量。Zhou 等[22]研究证明断奶仔猪饲喂 $\beta ^ { \textrm { - } }$ 葡聚糖酶对粪便中乳酸杆菌的数量没有影响，但是可以显著减少大肠杆菌数量（ $6 \%$ )。以乳酸杆菌和双歧杆菌为代表的有益菌以及以大肠杆菌为代表的致病菌，这两类微生物作为动物肠道中的正常菌群对于维持动物肠道微生态平衡具有十分重要的作用[23]。然而，也有一部分研究发现饲用酶制剂对肠道微生物菌群影响不明显。O'Connell等[24]研究发现，在 $70 \%$ 小麦饲粮中添加NSP酶后，生长育肥猪的盲肠、结肠菌群数量没有受到影响。Smith 等[25]和 Reilly 等[26]在各自的研究中，在全大麦或全燕麦饲粮中添加NSP 酶后也发现了类似的结果。这可能由于此类饲粮中NSP含量较多而添加的 NSP酶不足，不能有效调节肠道食糜的物理化学结构或组成，因而不能显著影响肠道微生态。Hubener 等[9]研究发现小麦－黑麦混合饲粮中添加 $4 0 0 ~ \mathrm { U / k g }$ 木聚糖酶能降低细菌总数和特殊细菌种群数，同时也降低了总VFA的含量。因此，针对高 NSP含量的饲粮需要提高NSP酶的添加量使其对肠道微生物发挥作用。
+
+# 2.2植酸酶对肠道微生物的影响
+
+钙和磷是动物肠道微生态发育的重要调节剂，植酸酶的添加可以增加可利用磷的量，进而调节肠道微生物区系的发育。Ptak 等[2]分别在钙、可消化磷正常和缺乏水平的饲粮中添加 5000 FTU/kg的植酸酶，通过荧光原位杂交技术检测回肠中的微生物种群，发现在钙、可消化磷缺乏饲粮中添加植酸酶显著增加了回肠中总细菌（ $5 . 0 \%$ ）、乳酸杆菌（ $2 . 4 \%$ ）以及肠球菌（ $1 . 2 \%$ ）菌群数。此外，饲粮中钙、可消化磷的水平与植酸酶的交互作用会影响梭状芽孢杆菌、拟球梭菌－直肠真杆菌、双歧杆菌以及链球菌和乳球菌的数量。钙磷比以及植酸酶各自都会显著地影响菌群结构，并且两者的作用有叠加的趋势，因此植酸酶的添加会通过增加食糜中可利用营养物质磷的含量从而提高肠道微生物可获得磷的量，进而调节肠道总细菌数量。通过对回肠食糜进行荧光定量PCR检测，Metzler-Zebeli等[27]发现在生长育肥猪的低磷饲粮中添加1000FTU/kg 植酸酶可以显著提高严格厌氧菌的数量，如拟球梭菌(Clostridium coccoides)、柔嫩梭菌(Clostridium leptum)和拟杆菌属-普氏菌属-叶啉单胞菌(Bacteroides-Prevotella-Porphyrmonas),并且有增加肠杆菌科细菌数量的趋势，总细菌数量保持不变。而Wang 等[28]对断奶仔猪回肠食糜的微生物菌群进行 16s rRNA 研究发现，2 种来源的植酸酶均能增加回肠中双歧杆菌、乳酸杆菌以及梭状芽孢杆菌的数量，但植酸酶同时也增加了大肠杆菌和沙门氏菌的含量。梁陈冲等[29]在钙、磷缺乏饲粮（磷酸氢钙的添加量降低1/3）中添加不同来源的植酸酶后，不同试验组回肠和盲肠中需氧菌、总厌氧菌、乳酸菌、双歧杆菌、大肠杆菌数量与钙、磷正常添加水平组相比均没有显著变化，说明添加植酸酶可以通过增加肠道中微生物繁殖所必需的磷和钙的量以弥补饲粮中钙和磷缺乏对微生物带来的不利影响，进而维持肠道内微生物区系的稳定。植酸酶对钙与磷的消化率、矿物质消化率、肠道黏液素的分泌以及内源性的损失具有显著影响，这些均会影响营养物质的吸收利用以及肠道内环境，以上研究结果表明植酸酶在调节肠道微生物区系中扮演着重要的角色，但是植酸酶的作用明显受到饲粮中钙、磷添加水平的影响。
+
+# 2.3复合酶制剂对肠道微生物的影响
+
+复合酶制剂能够促使一系列底物发生反应并且能适合一系列饲料，同时不同复合酶对肠道微生物的影响存在变异性。Kiarie 等[30]研究发现，复合酶（果胶酶 $^ +$ 纤维素酶 $+$ 甘露聚糖酶 $+$ 木聚糖酶 $+$ 葡聚糖酶 $^ +$ 半乳糖苷酶）可以显著增加回肠中乳酸杆菌的数量（ $14 \%$ )。这意味着添加复合酶后，在肠道中产生了阿拉伯糖、木糖以及甘露糖残基等水解产物，这些水解产物可以作为肠道中乳酸杆菌代谢的营养物质促进菌群的增殖。Pluske 等[5通过总结得出了类似的结论：通过在饲粮中添加碳水化合物酶降解生成碳水化合物残基，可以促进胃肠道中有益菌群的增殖。Yi 等[31在玉米-豆粕型饲粮中添加复合酶（淀粉酶 $\vdots$ 蛋白酶 $\dot { . } +$ 木聚糖酶)，发现盲肠和结肠中乳酸杆菌的数量均显著增加了 $6 \%$ ，同时显著降低了结肠中大肠杆菌的数量（ $1 1 \%$ ）。Agboola等[32]研究发现在玉米-豆粕型饲粮中，复合酶（淀粉酶 $^ +$ 蛋白酶 $^ +$ 木聚糖酶）可以显著提高回肠中乳酸杆菌的数量。在这2个研究中，添加的复合酶能有效地增加肠道有益菌的菌群数并且降低肠道有害菌的数量，其发挥作用的可能的途径是通过影响食糜的物理化学状态及其组成，调节微生物代谢所需的营养物质的量并增加具有潜在益生效应的物质。同样的，Hogberg 等[23]在研究中也发现在谷物饲粮中添加复合酶（木聚糖酶 $+ \beta -$ 葡聚糖酶）增加了回肠中乳酸的摩尔比例，表明回肠中乳酸杆菌数量增加。通过在断奶仔猪的饲粮中添加 NSP 复合酶（β-葡聚糖酶$+ \beta ^ { \mathrm { ~ - ~ } }$ 木聚糖酶 $+ \beta -$ 甘露聚糖酶 $^ +$ 蛋白酶)，柴建民等[33]发现粪便中乳酸杆菌有增加（ $14 \%$ ）的趋势，并且大肠杆菌有降低（ $9 \%$ ）的趋势。Baurhoo 等[34]研究发现复合酶（蛋白酶 $\vdots$ 纤维素酶$+$ 木聚糖酶 $+ \beta -$ 葡聚糖酶）对玉米基础饲粮中动物肠道中乳酸杆菌和大肠杆菌的数量没有影响。也有少数研究发现了相反结果：Smith等[25]发现分别在 $67 \%$ 的大麦饲粮和 $6 4 . 5 \%$ 的燕麦饲粮中添加复合酶（木聚糖酶 $+ \beta -$ 葡聚糖酶）显著降低了回肠中乳酸杆菌的数量（ $14 4 \%$ 和 $56 \%$ )，并且有降低回肠中双歧杆菌和肠杆菌数量以及盲肠中双歧杆菌、肠杆菌、乳酸杆菌数量的趋势，其原因有待于进一步研究。与单体酶制剂相比，复合酶制剂对底物的降解作用更有针对性并且能适应一系列底物，在提高营养物质消化吸收的同时还能更有效地调控肠道中微生物的发育，因此复合酶制剂将会是未来酶制剂发展的一个重要方向。
+
+# 3小结
+
+饲用酶制剂对肠道微生态发育具有重要影响，有望拓展其功能成为肠道微生态调节剂，但还需要继续深入探究。首先，应用饲用酶制剂的主要研究集中在促进机体对营养物质的消化吸收方面，而以改善肠道微生态发育为目的的饲用酶制剂应用研究缺乏；其次，饲用酶制剂对肠道微生态发育调控受到多种因素的影响，包括动物机体的生理状况、饲粮组成以及肠道微生态区系起始状态等，尚不清楚饲用酶制剂与各因素之间的相互关系；再次，饲用酶制剂在肠道复杂环境下的酶解速度、效率以及代谢底物和产物种类对微生物代谢的影响尚不清楚，研究手段也相对缺乏，比如，NSP 酶降解 NSP 产生寡糖的过程存在产物和发酵速度不可控性等问题，会影响其对肠道微生态的调节效果。目前，已有研究发现部分酶制剂可以直接影响肠道中的微生物菌群，从而达到理想的肠道微生态调节效果，如碱性磷酸酶和葡萄糖氧化酶[35-37]。因此，加强饲用酶制剂在调控肠道微生态发育方面的研究、充分挖掘酶制剂在促进营养物质消化吸收和改善动物肠道健康方面的双重价值，对于提高动物生产性能和健康具有重要意义。
+
+# 参考文献：
+
+[1] GASKINS H R.Intestinal bacteria and their influence on swine growth[M].2nd ed.Florida:CRC Press LLC,2001:609-630.
+
+[2] CHANDRA R K.Nutrition and the immune system[J].Proceedings of the Nutrition Society,1993,52(1):77-84.   
+[3] NIBA A T,BEAL J D,KUDI A C,et al.Bacterial fermentation in the gastrointestinal tract of nonruminants:influence of fermented feeds and fermentable carbohydrates[J].Tropical Animal Health and Production,2009,41(7):1393-1407.   
+[4] FAIRBROTHER J M,NADEAU E,GYLES C L.Escherichia coli in postweaning diarrhea in pigs:an update on bacterial types,pathogenesis,and prevention strategies[J].Animal Health Research Reviews,2005,6(1):17-39.   
+[5] PLUSKE J R,PETHICK D W,HOPWOOD D E,et al.Nutritional influences on some major enteric bacterial diseases of pig[J].Nutrition Research Reviews,2002,15(2):333-371.   
+[6] ADEOLA O,COWIESONA J.Opportunities and challenges in using exogenous enzymes to improve nonruminant animal production[J].Journal of Animal Science,2011,89(1O):3189- 3218.   
+[7] BEDFORD M R,SCHULZE H.Exogenous enzymes for pigs and poultry[J].Nutrition Research Reviews,1998,11(1):91-114.   
+[8] CHOCT M,HUGHES R J,WANG J,et al.Increased small intestinal fermentation is partly responsible for the anti-nutritive activity of non-starch polysaccharides in chickens[J].British Poultry Science,1996,37(3):609-621.   
+[9] HUBENER K,VAHJEN W,SIMON O.Bacterial responses to different dietary cereal types and Xylanase supplementation in the intestine of broiler chicken[J].Archives of Animal Nutrition,2002,56(3):167-187.   
+[10] TOROK V A,OPHEL-KELLER K,LOO M,et al.Application of methods for identifying broiler chicken gut bacterial species linked with increased energy metabolism[J].Applied and Environmental Microbiology,2008,74(3):783-791.
+
+[11] KIARIE E,ROMERO L F,NYACHOTI C M.The role of added feed enzymes in promoting gut health in swine and poultry[J].Nutrition Research Reviews,2O13,26(1):71-88.
+
+[12] PTAK A,BEDFORD M R,SWIATKIEWICZ S,et al.Phytase modulates ileal microbiota and enhances growth performance of the broiler chickens[J].PLoS One,2015,10(3):e0119770.
+
+[13] ROBERFROID M B,BORNET F,BOULEY C,et al.Colonic microflora:nutritionand health.Summary and conclusions of an international life sciences institute (ILSI) [Europe] workshop held in barcelona,spain[J].Nutrition Reviews,1995,53(5):127-130.
+
+[14] WRIGHT E M,MARTiN M G,TURK E.Intestinal absorption in health and disease-- sugars[J].Best Practice & Research Clinical Gastroenterology,2003,17(6):943-956.
+
+[15] ANNUK H,SHCHEPETOVA J,KULLISAAR T,et al.Characterization of intestinal lactobacili as putative probiotic candidates[J].Journal of Applied Microbiology,2003,94(3):403-412.
+
+[16] CAMPBELL J M,FAHEY G C,WOLF B W.Selected indigestible oligosaccharides affect large bowel masscecal and fecal short-chain fatty acids,pH and microflora in rats[J].The Journal of Nutrition,1997,127(1):130-136.
+
+[17]胡向东,焦乐飞,李旭彬,等.小麦替代玉米饲粮添加木聚糖酶对生长猪生长性能、结肠菌群和氮排放的影响[J].动物营养学报，2014,26(9):2805-2813.
+
+18] 叶楠,陈代文,毛湘冰,等.不同木聚糖水平饲粮中添加木聚糖酶对断奶仔猪生长性能及肠道微生态环境的影响[J].动物营养学报,2011,23(11):1961-1969.
+
+[19] ENGBERG R M,HEDEMANN M S,STEENFELDT S,et al.Influence of whole wheat and xylanase on broiler performance and microbial composition and activity in the digestive tract[J].Poultry Science,2004,83(6):925-938.
+
+[20]丁雪梅,张克英.小麦-豆粕型日粮添加木聚糖酶对艾维茵肉鸡免疫指标、肠道形态和微生物菌群的影响[J].动物营养学报,2009,21(6):931-937.
+
+[21] 李学俭.β-甘露聚糖酶对断乳仔猪生产性能的影响及其机理的研究[D].博士学位论文.沈阳:
+
+沈阳农业大学,2008.
+
+[22] ZHOU T X,JUNG JH,ZHANG Z F,et al.Effect of dietary $\beta$ -glucan on growth performance,fecal microbial shedding and immunological responses after lipopolysaccharide challenge in weaned pigs[J].Animal Feed Science and Technology,2013,179(1/2/3/4):85-92.
+
+[23] HOGBERG A,LINDBERG J E.Influence of cereal non-starch polysaccharides and enzyme supplementation on digestion site and gut environment in weaned piglets[J].Animal Feed Science and Technology,2004,116(1/2):113-128.
+
+[24] O'CONNELL JM,SWEENEY T,CALLAN J J,et al.The effect of cereal type and exogenous enzyme supplementation in pig diets on nutrient digestibility,intestinal microflora,volatile fatty acid concentration and manure ammonia emissions from finisher pigs[J].Animal Science,2005,81(3):357-364.
+
+[25] SMITH A G,REILLY P,SWEENEY T,et al.The effect of cereal type and exogenous enzyme supplementationonintestinalmicrobiotaandnutrientdigestibilityinfinisher pigs[J].Livestock Science,2010,133(1/2/3):148-150.
+
+[26] REILLY P,SWEENEY T,O'SHEA C,et al.The effect of cereal-derived beta-glucans and exogenous enzyme supplementation on intestinal microflora,nutrient digestibility,mineral metabolism and volatile fatty acid concentrations in finisher pigs[J].Animal Feed Science and Technol0gy,2010,158(3/4):165-176.   
+[27] METZLER-ZEBELI B U,VAHJEN W,BAUMGARTEL T,et al.Ileal microbiota of growing pigs fed different dietary calcium phosphate levels and phytase content and subjected to ileal pectin infusion[J].Journal of Animal Science,2010,88(1):147-158.   
+[28] WANG J,LEI X G.Supplemental dietary phytase alters gut microbiota of weanling pigs[J].Journal of Animal Science,2011,89(E-Suppl.1):187.   
+[29] 梁陈冲,陈宝江,于会民,等.不同来源植酸酶对猪生长性能、营养物质表观消化率及肠道微生 物区系的影响[J].动物营养学报,2013,25(11):2705-2712.   
+[30] KIARIE E,NYACHOTI C M,SLOMINSKI B A,et al.Growth performance,gastrointestinal microbial activity,and nutrient digestibility in early-weaned pigs fed diets containing flaxseed and carbohydrase enzyme[J].Journal of Animal Science,2007,85(11):2982-2993.   
+[31] YI J Q,PIAO X S,LI Z C,et al.The effects of enzyme complex on performance,intestinal health andnutrient digestibility ofweaned pigs[J].Asian-Australasian Journal of Animal Sciences,2013,26(8):1181-1188.   
+[32] AGBOOLA A F,ODU O,OMIDIWURA B R O,et al.Effect of probiotic,carbohydrase enzyme and their combination on the performance,histomorphology and gut microbiota in broilers fed wheat-based diets[J].American Journal of Experimental Agriculture,2O15,8(5):307-319.   
+[33] 柴建民,魏荣贵,刘希峰,等.植物乳杆菌和非淀粉多糖复合酶对断奶仔猪生长性能、粪便微生 物菌群及血清指标的影响[J].动物营养学报,2016,28(6):1859-1866.   
+[34] BAURHOO N,BAURHOO B,ZHAO X.Efects of exogenous enzymes in corn-based and canadianpearlmillet-baseddietswithreducedsoybeanmealongrowth performance,intestinal nutrient digestibility,villusdevelopment,and selected microbial populations in broiler chickens[J].Journal of Animal Science,2011,89(12):4100-4108.   
+[35] MELO A D B,SILVEIRA H,LUCIANO F B,et al.Intestinal alkaline phosphatase:potential roles in promoting gut health in weanling piglets and its modulation by feed additives-a review[J].Asian-Australasian Journal of Animal Sciences,2O16,29(1):16-22.   
+[36]杨久仙,张荣飞,张金柱,等.葡萄糖氧化酶对仔猪胃肠道微生物区系及血液生化指标的影响[J]. 畜牧与兽医,2011,43(6):53-56.
+
+[37]汤海鸥,高秀华,李学军,等.葡萄糖氧化酶对仔猪生长性能、粪便菌群和血清指标的影响[J].动物营养学报,2014,26(12):3781-3786.
+
+Gut Microecosystem of Monogastric Animals Regulated by Feed Enzymes and Its Possible Mechanism1 REN Wen YU Xiaoqiong ZHAI Hengxiao WANG Shikui
+
+(DSM China Animal Nutrition Research Center Co., Ltd., Bazhou 165799, China)
+
+Abstract: In recent years, with the application of new molecular techniques coupled with data analysis methods，many studies have shown that feed enzymes can not only promote the digestion and absorption in host nutrition,but also show regulatory effects on specific intestinal microbial flora. Feed enzymes can adjust the physical and chemical properties of chyme as well as the amount of nutrients needed for gut microbes, while raise the content of potential prebiotics, thus influence the gut microecosystem. This article reviewed the effects of exogenous feed enzymes on gut microecosystem in monogastric animals,and its possible mechanism was discussed in this paper.
+
+Key words: feed enzymes; monogastric animal; gut microecosystem

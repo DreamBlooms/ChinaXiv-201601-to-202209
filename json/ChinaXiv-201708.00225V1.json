@@ -1,0 +1,245 @@
+[
+    {
+        "type": "text",
+        "text": "Simultaneous Cu doping and growth of $\\mathbf { T i O } _ { 2 }$ nanocrystalline array film as a glucose biosensor ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Y.Y. Cai,² P.P.Wang,a Y.X. Ye,² Z. F.Tian,² J. Liu,a K.Dai, and C. H. Liang \\*a ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: We present a novel strategy for simultaneous doping of $\\mathsf { c u }$ ions into $\\Gamma _ { 1 } 0 _ { 2 }$ nanocrystals and transforming amorphous anodic $\\mathsf { T i O } _ { 2 }$ nanotubes (TNTs) intataseopifigcisteidbadgu react with amorphous $\\mathsf { T i O } _ { 2 }$ nanotubes to form doped anatase ${ \\mathsf { N P s } }$ by dissolution and recrystallization processes.The Cu-doped $\\mathsf { T i O } _ { 2 }$ NPs (Cu-TNPs) film was characterized by X-raydifraction,scanning and transmission electron microscopy and Raman spectroscopy.The $\\mathsf { c u }$ -TNPs show a rugby-like shape with exposed active {101},{001} facets and the long-axis parallel to [001] latice direction.The substitutional $\\mathsf { C u } ^ { 2 + }$ ions dopants in $\\mathsf { T i O } _ { 2 }$ nanocrystals caused the swelingoftasi design would facilliate the ongoing effort toward improving nanostructured $\\mathsf { T i O } _ { 2 }$ as a practical biosensor for glucose molecules. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Cu-doping, ${ \\mathsf { T i O } } _ { 2 } ,$ Nanocrystalline,array, Biosensor ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Titanium dioxide $\\left( \\mathsf { T i O } _ { 2 } \\right)$ is a potential biomaterial of great interest in biomedical fields，e.g.，bone reconstruction, intravascularstents,drugdeliveryiosensingforhighstablityontoxicitylowcostandsoon.1inceCosnierandoworkers reported that mesoporous $\\mathsf { T i O } _ { 2 }$ films could worked as glucose biosensor by immobilizing enzyme molecules under an amperometric approach in ${ 1 9 9 7 } , ^ { 2 }$ the application of various nanostructured $\\mathsf { T i O } _ { 2 }$ to combine with glucose oxidase was the main aspectinthefabricationofasenstiveandstable biosensor.Althoughthesensivityandstabilityarefurtherimprovedthrough designingnew nanostructuresand/or loading newchemicalsubstances，the dificultiesfromimmobiling enzyme,storingat lower temperature,prolongingvalidityandloweringcostofthedevicearestiltoublesome.Soithasbecomeanimportant endeavortosubstituteeconomicalanddurableinorganicelectrochemicalcatalysts (metals,alloysandmetaloxides)forfragile enzymesbecausetheseactivematerialscoulddirectlycatalyze theelectrochemicaloxidizationof glucose molecules inalkaline media.For example，Yu et al. had proved that $\\mathsf { T i O } _ { 2 }$ nanotubes decorated with Ni nanoparticles displayed high catalytic electroactivity for the oxidation of glucose with the detection limit of $2 \\mathrm { ~ \\textmu ~ } \\mathsf { M } , \\mathbf { \\Lambda } ^ { 3 }$ and Li and coworkers had enhanced the sensitivity to $1 5 9 0 . 9 \\mu \\mathrm { M } \\mathsf { m M } ^ { - 1 } \\mathsf { c m } ^ { - 2 }$ by loading Ni-Cu alloy nanoparticles on $\\mathsf { T i O } _ { 2 }$ nanotubes.4 Meanwhile, Luo et al. had reported that CuO nanofibers modified $\\mathsf { T i O } _ { 2 }$ nanotubes in glucose sensing was of a low sensitivity of $7 9 . 7 9 \\mu \\ M \\ \\mathsf { m M } ^ { - 1 } \\mathsf { c m } ^ { - 2 } .$ ,but a good detection limit of 1μM.5 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Even though above catalysts displayed satisfied performances by combining with nanostructured $\\mathsf { T i O } _ { 2 }$ whose large specific surfaceareascouldfaclitetoimprovesensitivityandstabilityofthedevice,newchalengesarestillensuing.Ontheonehand, notethattherealactivecatalyticcenters aretheoxidizedspeciesofcatalytic metal,whichare usualloxidizedbeforesensing and function as active electron-transfer mediators after absorbing glucose molecules. The metal decorated on $\\mathsf { T i O } _ { 2 }$ usually suffers multiplecyclic voltammetry(CV)sweeping in strong alkali solution toincite increasing numberof oxidized species as active sites for metal catalysis. However,this pre-treatment step compels $\\mathsf { T i O } _ { 2 }$ to venture on the erosion in strong alkali solution. Herein,directly combining the metal oxide with $\\mathsf { T i O } _ { 2 }$ is desirable for fast and simple sensing detection in application.On the other hand,the electrode need an extra polymer binder (such as Nafion) to immobilize $\\mathsf { T i O } _ { 2 }$ sensor.It may reduce catalytic active sites and then degrade the glucose sensitivity,and the inevitable separation of the $\\mathsf { T i O } _ { 2 }$ sensor from the electrode after persistentoperationcan leadtoloss in electrochemicalactivity.4 Moreover,synthesizingof specimens viacommonchemical approaches could introduce contaminations from other chemicals,which would impair the biocompatibility of $\\mathsf { T i O } _ { 2 }$ in sensing process.' Under overall analysis,an approach to combine oxidized species of catalytic metal with $\\mathsf { T i O } _ { 2 }$ fixed or in-situ grown on the conductive substrate through a green and convenient method is thus desirable right now. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Doping isan efective wayto introduceions oroxidized species of metal into compounds.There are various methods such as sol-gel,magnetron sputtering,and solution impregnation,1 have been proposedfor doping metal ions in $\\mathsf { T i O } _ { 2 }$ for photocatalysis and biosensor. However，achieving green and uniform doping in $\\mathsf { T i O } _ { 2 }$ crystalline lattice and simultaneously immobilizing theas-formed dopedcompositeonafixed substrateremainsachalenge.Particularlyfordoping innanoscale crystals,theself-purificationeffctofnanoscalecrystalineevenresultsinsegregationoraccumulationofimpuritiesosurfaces orgrain boundaries.1112 Many reportshave proved that $\\mathsf { T i O } _ { 2 }$ nanotubes (TNTs)array filmcould be in-situ anodized on Ti substratetofroma Schotky-typecontact which enhanced therapid transportofsurface reaction electrons toTisubstratein biosensing，butreserving thearraystructureafterdopingisdificult.Anappropriateand greendoping strategytogetuniform distribution of impurities in $\\mathsf { T i O } _ { 2 }$ array structure together with immobilized Ti substrate is favor for practical film applications. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Laserablationinliquid (LAL)isafacileandgreen technique toobtain high purity nanocrystals withunique physicochemical properties.13-16LALemploys thehightemperaturesandhigh presurecharacteristicsinlaser-induced plasma plume,which lead tounsaturated valencesanddefects on the surface of theresulted nanocrystals because of thenonequilibrium growth processes.15 Here,tousethearastructureofTNTsasanimmobilizedsubstrate,weintentionallselectLAL-derivedreactiveCu colloid as the precursor of dopants.We demonstrated the efficiency of in-situ doping of ${ \\mathsf { C u } } ^ { 2 + }$ ions in $\\mathsf { T i O } _ { 2 }$ in a dissolutionrecrystallization process under hydrothermal treatment.The doped $\\mathsf { T i O } _ { 2 }$ nanoparticles (NPs)-assembled array structure was characterized withtheuseoffield-emission scanning electron microscopy(FESEM),ahigh-resolution transmissionelectron microscopy (HRTEM),X-ray diffraction (XRD),and Raman spectrometry.The ${ \\mathsf { C u } } ^ { 2 + }$ ions dopants in anatase nanocrystals increased theswellngofcrystalunitcell,aswellastheredshiftofabsorptionedge,andtheabsorption intevisible-lightregion. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experimental ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Preparation of TNTs by anodic oxidation of Ti ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A $0 . 2 5 ~ \\mathsf { m m }$ thick Ti foil $( 9 9 . 9 9 \\% )$ was sequentially cleaned in acetone,ethyl alcohol,and water under sonication,and then driedinairatroom temperature.Allofthechemical solventsand reagentsareanalytical grade.Theanodizing electrolyte is ethylene glycol solvent containing $0 . 2 5 ~ { \\mathsf { w t } } \\% ~ { \\mathsf { N H } } _ { 4 } { \\mathsf { F } }$ and $2 \\ v \\circ \\vert \\% \\ \\mathsf { H } _ { 2 } \\mathsf { O }$ 、One side of the metal Ti foil contact with the electrolyte through a $1 5 \\ c m$ diameter $o$ -ring. Graphite was used as the counter electrode in a two-electrode cell. Anodic oxidation was conducted at room temperature for $9 0 \\mathrm { \\ m i n }$ at a DC voltage of $6 0 \\mathsf { V } .$ .After repeated washing with deionized water and drying, some pieces of the as-formed TNTs films were annealed at $4 5 0 ^ { \\circ } \\mathsf C$ for $2 h$ for the subsequent comparative experiments and some films were kept amorphous for hydrothermal procedure. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "lydrothermal treatment of LAL-derived Cu colloid and TNTs film ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Colloidal Cu solution was prepared by LAL technique. Briefly,a Cu target $( 9 9 . 9 9 \\% )$ was immobilized on a supporter in a vessel filled with $1 5 ~ \\mathsf { m L }$ deionized water.The Cu target was then irradiated for $1 0 \\mathrm { \\ m i n }$ by an Nd/YAG pulsed laser with $1 0 6 4 ~ \\mathsf { n m }$ wavelength, $1 0 \\mathsf { H z }$ frequency，10 ns pulse duration,and $1 0 0 ~ \\mathrm { { m J } }$ /pulse energy. The fresh colloid was sealed in an autoclave containing a piece of amorphous TNTs film.The hydrothermal reaction proceeded for $1 5 \\mathsf { h }$ at $2 0 0 ^ { \\circ } { \\mathsf { C } }$ .After the reaction,the film was obtained and repeatedly washed in deionized water,and finally dried for further investigations. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ructural characterizationand properties ofCu-doped $\\mathbf { \\bar { \\Gamma } } \\mathbf { \\ i } \\mathbf { O } _ { 2 }$ NP film ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "An FEISirion 2O0 FESEMwasused toevaluatethe morphologyofthefilmproduct.Thecrystalline structurewasinvestigated on HRTEM(JEM,JEOL-2010).InTEMsamplepreparation,smallamountof theproduct wasstrippedfromtheTimetalsubstrate andthenultrasonicallydispersed inethanol,andtheobtainedsuspensions werethendroppedontoaholey-carboncoated tungsten-grid.Thephase structurewas investigatedbyusingXRDwiththeuseofaPhilipsdifractometer(X'pertPro)with Cu-Kα radiation $( \\lambda = 1 . 5 4 1 9 \\mathring { \\mathsf { A } } )$ . Electrochemical CV spectra,amperometric curves,and impedance spectra curves of the $\\mathsf { c u }$ -doped $\\mathsf { T i O } _ { 2 }$ NPs(Cu-TNPs)and blank anatase TNTs were obtained through a Zahner IM6e ElectrochemicalWorkstationto investigate the response as nonenzymatic glucose biosensors.Zeta potentialof the Cu collid was measured bya Zetasizer 3000 HSa. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The structural features of $\\mathtt { c u }$ -TNPs and annealed anatase TNTs without hydrothermal treatment were further analyzed through X-rayabsorption finestructure (XAFS)spectrometer,including X-rayabsorption near-edge structure (XANES)and extended $\\mathsf { x }$ -ray absorption fine structure (EXAFS).The XAFS spectra for $C u - K$ edge of the Cu-TNPs and Ti-K edge of the two anatase TNTs samples (sample annealed at $4 5 0 ^ { \\circ } \\mathsf C$ and hydrothermally treated sample)were obtained by using beamline BL14W1,belongingtoSanghaisynchrotronadiationadministratedbyShanghaiInstituteofAppliedPhysics Shanghai,China). Transmission (standard Cu foil, $\\mathsf { C u } _ { 2 } \\mathsf { O } _ { \\iota }$ ,and CuO)and fluorescence yield (Cu-TNPs and TNTs) spectra were obtained with the use of adouble-crystal Si(111)monochromator,ionchambers,andaGesolid-statedetectorequippedwithNifilter.TheXAFSdata were analyzed through an Athena program. Cu foil, $\\mathsf { C u } _ { 2 } \\mathsf { O } _ { \\cdot }$ , and CuO were used to extract the experimental XANES features of the Cu metal, ${ \\mathsf { C u } } ^ { + }$ ,and ${ \\mathsf { C u } } ^ { 2 + }$ ions, respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results and discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Figs.laand1bshowthetopand sideviewimages(inserted plot)of theanodizedTNTsbeforeandafterhydrothermaltreatment.TheoriginalTNTs-likeshape disappearedandonlytheNPsaccumulatedwhich wasdepictedasaCu-TNPsfilmarray on the Tisubstrate.Fig.1b shows the compact assembly array of irregular NPs,with an average particle size of ${ < } 1 0 0 \\ \\mathsf { n m }$ standing on the upper surface of Cu-TNPs film.Seing from the inserted plotin Fig.1b,the NPsaccumulated one by one along the direction of the original TNTs. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f16e474cda2d1eec7fdcb0d090f1c0ada10476e9336deca6abbeb947c6f5efe0.jpg",
+        "img_caption": [
+            "1 Top and side views (inserted plot) of the amorphous TNTs (a) and Cu doped-TNPs (b). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "HRTEM investigationprovidesmore detailed structureand phase information.Fig.2ashowsasingle particleinarugby-like shape.Thepartialzonein thewhiterectanglewasmagnifiedinFig.2bandthecorespondingselectedareaelectrondifraction (SAED) pattern is shown in Fig.2c. The lattice spacings of 4.74 and $3 . 5 3 \\mathring { \\mathsf { A } }$ correspond to (002) and (101) crystalline planes of the anatase $\\mathsf { T i O } _ { 2 } ,$ the angle between the two planes $( 6 8 . 3 ^ { \\circ } )$ is consistent with the standard data.The crystals grew along the longaxis of ellipsoid that is parallel to [Oo1] lattice direction with the exposed active $\\{ 1 0 0 \\}$ and {101} facets.Corresponding to the assembled NPs in Fig. 2d, the elemental mapping images in Figs. 2e,2f,and $2 \\mathsf { g }$ display the dispersion of O,Ti,and Cu, respectively,in theaccumulated NPs.TheamountofCuwas significantly lessr than theother two elements.Theresultof energy-dispersive X-ray spectroscopy shows that the atomic ratio of Ti and $\\mathsf { c u }$ was 16.35 to 0.4 (Fig.S1 in ESIt). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f0e7697f9bbaed54c664664bc2010557c6aa49f602c585a55050bde898b1550.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The XRD patrn shows the composition and structural information of the products.For comparison,TNTs samples were also annealed at $4 5 0 ^ { \\circ } \\mathsf C$ for $2 h$ to form pure anatase phase.The XRD results (Fig.3) indicated no significant difference between the anatase TNTs (red curve) and the $\\mathsf { c u }$ -TNPs (blue curve).All of the peaks are consistent with the data of standard cards [JCPDS card No.21-1272 (anatase $\\mathsf { T i O } _ { 2 } \\mathrm { : }$ ）and JCPDS card No.44-1294 (hexagonal Ti)].The observed phases were consistent with the HRTEM analysis.However,three peaks at $2 5 . 4 ^ { \\circ }$ (101), $4 8 . 0 ^ { \\circ }$ (200),and $6 3 . 0 ^ { \\circ }$ (204) of the anatase TNTs film a little shifted to the low-angledirection,therebyleading totheincreaseind-spacingsof (101),(2O0),and(204)planesfrom3.520,1.892and $\\mathtt { 1 . 4 8 0 \\AA }$ to 3.532,1.901 and $\\begin{array} { r } { 1 . 4 8 7 \\mathring { \\mathsf { A } } , } \\end{array}$ respectively. According to Equation (S1) in ESl for tetragonal-system compounds,the change in unit cell parameters (a,b,c) could be deduced.In this study,the a and c values increased from 3.785 and $9 . 5 1 3 \\mathrm { ~ \\AA ~ }$ to 3.803 and $9 . 5 4 3 \\mathring { \\mathsf { A } }$ in the anatase structure.The distortion of anatase lattce could be due to the doping of $\\mathsf { c u }$ species in the inner sites of original lattices. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9307f862120161ac4f469b620c8f7b36925eac8500b422fc48726ecf856352c7.jpg",
+        "img_caption": [
+            "Fig.2(a)TEMimageof asingleCu-TNPs;(b)magnifiedimageofNPin (a); (c)corespondingSAEDpattrnof NPin(b);and (d) TEMimage of accumulated NPs.(e-g) Elemental mapping images of O,Ti,and Cu corresponding to that in (d). ",
+            "Fig.3 XRD spectra of Cu-TNPs,anatase TNTs,and metal Ti foil. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 shows the Raman spectra of theannealed TNTs (black curve)and Cu-TNPs (red curve).The four typical Raman peaks of the anatase phase were found at $1 4 7 ~ \\mathsf { c m } ^ { - 1 }$ $[ \\mathsf { E } _ { \\mathsf { g } }$ mode), $3 9 9 ~ \\mathsf { c m } ^ { - 1 }$ $\\mathsf { \\Delta B } _ { 1 \\mathbf { g } }$ mode), $5 1 7 ~ { \\mathsf { c m } } ^ { - 1 }$ (both $\\mathsf { A } _ { 1 \\mathsf { g } }$ and $\\mathsf { B } _ { 1 \\mathsf { g } }$ modes),and （204号 $6 3 7 ~ \\mathsf { c m } ^ { - 1 }$ 0 $\\mathsf { E } _ { \\mathrm { g } }$ mode) for the TNTs sample.17 The dominant phase of Cu-TNPs is also the anatase $\\mathsf { T i O } _ { 2 }$ structure as XRD results. Similar to many reports about introducing metal ions into $\\mathsf { T i O } _ { 2 }$ lattice by substitutional strategy,18 ,18,19 Raman active modes of CuTNPs slightly shifted to lower frequency zone, respectively at $1 4 5 ~ \\mathsf { c m } ^ { - 1 } .$ $3 9 7 ~ { \\mathsf { c m } } ^ { - 1 }$ $5 1 5 ~ { \\mathsf { c m } } ^ { - 1 }$ and $6 2 7 ~ \\mathsf { c m } ^ { - 1 }$ . Based on the extensive energeticcomputationresults，itwasespeciallyeasierfortransitionmetals tosubstituteTisitesthantoform interstitial defects.20 Here, we proposed that the shift of Raman peaks was due tothe enlargement of anatase laticebysubstitutional doping of Cu ions. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "145 cm-1 ('n'r) ijitrsiu 397 cm-1 515 cm-1627 Cu-TNPs 147 cm-1 637 cm-1 517 cm-1 399cm anatase TNTs 200 400 600 800 1000 Raman Shift (cm-1) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 Raman spectra of Cu-TNPs and anatase TNTs.   \nFig. 5a shows the Cu K-edge XAFS spectra of the $\\mathsf { c u }$ foil, ${ \\mathsf { C u } } _ { 2 } { \\mathsf { O } } ,$ $\\mathsf { c u o } _ { \\mathsf { \\Pi } }$ ，and the as-prepared $\\mathsf { c u }$ -TNPs,and Fig.5b shows the corresponding XANES spectraof these samples atthe pre-edge region.In the XAFS spectrum,it isobvious tofindthat the dominant main peak and the shoulder peaks at the post-edge region of the $\\mathsf { c u }$ -TNPs most resembled those of CuO.In the XANES spectra,the pre-edge peaks were always intrinsic for various Cu ions species.21 The characteristic peaks of the ${ \\mathsf { C u } } ^ { 2 + }$ ions were found at (i) approximately $8 9 7 6 \\mathrm { e V }$ to 8979 eV (a very weak absorption caused by the dipole-forbidden $1 s \\to 3 { \\mathsf { d } }$ electronic transition),and (ii) at approximately ${ 8 9 8 5 ~ \\mathrm { e V } }$ to $8 9 8 8 \\mathsf { e V }$ asa shoulder peak,as well as at approximately $8 9 9 5 \\ { \\mathsf { e V } }$ to $8 9 9 8 \\mathsf { e V }$ as an intense peak (both attributed to the $1 s  4 { \\mathsf { p } }$ transition). The ${ \\mathsf { C u } } ^ { + }$ ions are normally discriminated by a single peak at 8983 eV to $8 9 8 4 \\ \\mathrm { e V } .$ InFig.5b,peakAat $8 9 7 8 \\mathrm { e V }$ and peak Bat 8986 eV were observed for CuO,whereas the peaks Cand D were found at 8983 and $8 9 8 2 \\ \\mathrm { e V } .$ ,respectively,which correspond to the pre-edge absorption of ${ \\mathsf { C u } } ^ { + }$ ions in $\\mathsf { C u } _ { 2 } \\mathsf { O }$ and Cu atoms in the Cu foil. For the Cu-TNPs,the weak pre-edge absorption at 8978 eV (peak A) and the intense peak between $8 9 9 5 \\ \\mathrm { e V }$ and $8 9 9 8 \\ { \\mathsf { e V } }$ both belong to ${ \\mathsf { C u } } ^ { 2 + }$ ions were found. However,the pre-edge shoulder peak B wasn't observed probably due to the low concentration of dopants. Therefore, the oxidation state of the Cu species in the $\\mathsf { c u }$ -TNPs sample was ${ \\mathsf { C u } } ^ { 2 + }$ ions. The post-edge region of the XAFS spectrum (EXAFS)couldbepresented inenergyspace,suchasinFig.5aand5b.EXAFScouldalsobeshowninwave-vector space (k space) with the use of ${ \\sf k } ^ { 3 }$ -weighted Fourier transform in Athena programs.Fig.S2a in ESI shows the EXAFS spectra of the Ti K-edgeabsorptionof theannealed TNTsample without hydrothermal treatment andthe Cu-TNPs sample,while Fig.S2b compares the Cu K-edge EXAFS spectra of Cu foil, ${ \\mathsf { C u } } _ { 2 } { \\mathsf { O } } ,$ CuO and Cu-TNPs in k-space.The Ti K-edge curves for the annealed TNTs (black)andtheCu-TNPs(red)werealmostthesame.Therefore,thecoordinationenvironmentshavenosignificantvariationfor the $\\mathsf { T i } ^ { 4 + }$ ions in the anatase $\\mathsf { T i O } _ { 2 }$ with and without hydrothermal treatment. For the Cu-TNPs Cu K-edge in Fig.S2b,the oscillation trend in the $\\boldsymbol { \\mathsf { k } }$ -space apparently departed from the other three curves of Cu foil, $\\mathsf { C u } _ { 2 } \\mathsf { O }$ ，CuO，respectively.This phenomenon furtherprovedthatthecoordinationcircumstancesofthedopants inanataselaticevariedwith CuspeciesinmetalCuoroxides. Wecouldthusassume thatthedopants didnotchange theanataselaticeenvironmentlargely,which wasconsistentwiththe above data analysis.   \na b e8 Cufoil Cu foil Cu,O Cu2O D CuO CuO Cu-TNPs   \n0.8 Cu-TNPs   \n0.6 B   \n0.4   \n0.2 Cu K-edge A   \n0.0   \n9000 9075 9150 9225 8980 9000 Energy (eV) Energy (eV) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "connected with other four units byedge-sharingand with another four by corner-sharing.In addition,the surface of $\\tilde { \\mathsf { T i O } } _ { 6 }$ was negatively charged because of the surplus of $\\mathsf { O } ^ { 2 - }$ ions,whereas the zeta potential of the as-formed colloid was approximately $+ 2 3 . 5 \\mathrm { ~ m V } .$ ,therebyindicating that the surfaces ofLAL-generatedcoloidal Cuclusters were positivelycharged.Theelectrostatic atraction results in Cu doping during the recrystallization process.As substitutional dopants in the lattice, ${ \\mathsf { C u } } ^ { 2 + }$ ions can occupy the site of $\\mathsf { T i } ^ { 4 + }$ ions in $\\mathsf { T i O } _ { 6 }$ octahedrons.23 Although lessbonding of the substitutional species with the nearest $0 ^ { 2 - }$ ions could not be neglected totally, the major role of larger ${ \\mathsf { C u } } ^ { 2 + }$ ions was to swell the unit cell in accordance with the enlarged a and c lattice parameters according to XRD, Raman and XAFS analysis. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ad307b357e77a9b1a10dd3ed6910ff83804dd1cb4fd57b1d51b6f968d0b8dd28.jpg",
+        "img_caption": [
+            "Fig.6 Schematic illustration of formation of Cu TNPsarray film. ",
+            "Fig.7(a) CV sweeping of anatase TNTs in 0.1 M NaOH solution (curve A)and in 0.1 M NaOH solution with $1 0 ~ \\mathsf { m M }$ glucose (curve B); Cu-TNPs in O.1 M NaOH solution (curve C) and in $0 . 1 \\mathsf { M }$ NaOH solution with $1 0 ~ \\mathsf { m M }$ glucose (curve $D$ ).(b)30times CV sweeping of $\\mathsf { c u }$ -TNPs in O.1 M NaOH solution with $1 0 ~ \\mathsf { m M }$ glucose.(c) Amperometric response of Cu-TNPs and anatase TNTs at $+ 0 . 6 5 \\vee$ with successive addition of $7 . 5 ~ \\mu \\ L$ glucose solution $( 1 0 0 ~ \\mathsf { m M } )$ at5 min intervals in $1 5 ~ \\mathsf { m L }$ NaOH solution (O.1 M).(d) Linear relationship between the oxidation current of $\\mathsf { c u }$ -TNPs and glucose concentration. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Cuis famous in oxidizing carbohydrate without surfacepoisoning in biosensing.24 Glucoseisatypical biosensing target becauseitisessentialtoorganisms,andelectrochemicaltechnologyisapopulartechniqueforbiosensingassessment.Alofthe tests were conducted with the use of saturated ${ \\sf A g / A g C l }$ as the reference electrode and Pt foil as the counter electrode. Both the anatase TNTs and the $\\mathsf { c u }$ -TNPs were used as working electrodes and sealed with the use of an epoxy resin,leaving an exposed area of $7 c m ^ { 2 }$ On the top surface.Fig.7a shows the CV sweeps of the two samples in 0.1 M NaOH aqueous solutions with and without $1 0 ~ \\mathsf { m M }$ glucose solute.The sweeping at $5 0 ~ \\mathrm { m V / s }$ was from $\\boldsymbol { 0 } \\boldsymbol { \\vee }$ to $+ 0 . 8 \\vee$ and then back to $_ { 0 \\vee }$ .CurvesAand B,which are fortheaataseTNTs,areclosetorectanglesanddidnotshowanyresponse triggeredbytheabsorbed moleculesonthesurface of the electrode.Curve C also did not display any oxidation or reduction peaks.Only curve D showed an apparent current response at approximately $+ 0 . 6 5 \\ : \\mathsf { V } ,$ .which was attributed to the oxidation peak of glucose on active ${ \\mathsf { C u } } ^ { 2 + } / { \\mathsf { C u } } ^ { 3 + }$ electron-transfer mediators.25 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "n A B T ↑c   \n-1.0 -0.2   \n0.0 0.2 0.4 0.6 0.8 0.0 0.2 0.4 0.6 0.8   \nPotential (V vs. Ag/AgCl) Potential (Vvs.Ag/AgCl)   \nC 100 100 Cu-TNPs   \n90   \n(vu) uen 0mM 00   \nglucose 60   \n50 anatase TNTs 50   \n40 40   \n0 500 10001500 2000 2500 0.1 0.2 0.3 0.4 time (s) Concentration (mM) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Thereaction processesare described with theuseof Equations(1),(2),and(3).Without pre-oxidationof theelectrode, the ${ \\mathsf { C u } } ^ { 2 + }$ ions in the $\\mathsf { T i O } _ { 2 }$ NPs could directly function as active sites for glucose oxidation. The 30 successive sweeps in NaOH solution with glucose (Fig.7b)confirmed thatthe doped electrode was stableunder CV.Fig.7cshowstheamperometric responses of the anatase TNTs and the Cu-TNPs with added $7 . 5 ~ \\mu \\ L$ pure glucose aqueous solution $( 1 0 0 ~ \\mathsf { m M } )$ at 5 min intervals in 15 mL NaOH solution $( 0 . 1 \\mathsf { M } )$ under $+ 0 . 6 5 \\vee$ oxidation potential. No significant current response was found for the anatase TNTs, whereas the current increased significantly at each addition of glucose for the $\\mathsf { c u }$ -TNPs.The initial current response of the anatase TNTs was higher than that of $\\mathsf { c u }$ -TNPs,which is possbly due to the enhanced interfacial impedance of the accumulation NPs(Fig.S3,seeESl).Fig.7dshows thelinearrelationshipbetween theresponsecurrentofCu-TNPsandtheconcentrationof glucose inNaOHsolution.Thisrelationship directlyreflectedthefastand stablesensorbehavioursofCu-TNPs in responseto glucose molecules. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathbf { C } \\mathbf { u } ^ { \\scriptscriptstyle 4 + }  \\mathbf { C } \\mathbf { u } ^ { \\scriptscriptstyle 3 + } + \\mathbf { e } ^ { \\scriptscriptstyle - } \\phantom { x } } \\\\ { \\mathbf { C } \\mathbf { u } ^ { \\scriptscriptstyle 3 + } + \\mathrm { g l u c o s e }  \\mathbf { C u } ^ { \\scriptscriptstyle 2 + } + \\mathrm { i n t e r m e d i a t e } \\phantom { x } } \\\\ { \\mathbf { C u } ^ { \\scriptscriptstyle 3 + } + \\mathrm { i n t e r m e d i a t e }  \\mathbf { C u } ^ { \\scriptscriptstyle 2 + } + \\mathrm { p r o d u c t } \\phantom { x } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In summary,we developed an eficient doping and in-situ phase modification route to obtain Cu-doped $\\mathsf { T i O } _ { 2 }$ nanocrystalline filmbyhydrothermal treatmentwiththeuseofanodicTNTsandLAL-erivedcoloidalCuclustersasprecursors.TheCu-doped anatase NPsaccumulatedonebyone along theoriginal directionof theinitialamorphous TNTs,therebyresulting inanew $\\mathsf { T i O } _ { 2 }$ NPsfilmon the immoblized Tisubstrate.The unique aray morphologywasobserved evenafterTNTs dissolutionand in-situ phase transition from amorphous $\\mathsf { T i O } _ { 2 }$ to rugby-shaped single-crystal $\\mathsf { T i O } _ { 2 }$ NPs with preferred [Oo1] long-axis growth direction and exposed active $\\{ 0 0 1 \\} ,$ {101} facets.The substitutional Cu dopants in the anatase nanocrystals caused the sweling of crystal unitcel,obviousredsiftofabsorptionedge,andenancedabsorptioninthevisible-lightregion.Thefimshowedanecelnt biosensing performance in the electrochemical test with theuseof glucose moleculesastargets.The present experimental design for fabricating doped- $\\cdot \\mathsf { T i O } _ { 2 }$ NPs film on immobilized substrate could be extended to the construction of similar structures for device in other applications. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This work was financial supported bythe National Basic Research Programof China (2014CB931704),the National Natural Science Foundationof China (NSFC，No.51371166，51571186，11404338，11304315，51401206，11504375）and China Postdoctoral Science Foundation. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1 S. L.Wu,Z.Y.Weng,X.M. Liu, K.W.K.Yeung and P. K.Chu,Adv.Funct.Mater.,2014,35,5464.   \n2 S.Cosnier,C.Gondran,A.Senillou,M.Gratzel and N.Vlachopoulos,Electroanal,1997,9,1387.   \n3 S.J. Yu,X.Peng,G.Z. Cao,M. Zhou,L.Qiao,J.Y.Yao and H. C.He,Electrochim.Acta.,2012,76,512.   \n4 X.L. Li,J.Y.Yao,F.L.Liu,H.C.He,M.Zhou,N.Mao,P.Xiao andY.H.Zhang,Sensor.Actuat.B,2013,181,501.   \n5 S. Luo,F.Su, C. Liu,J.Li, R. Liu,Y. Xiao,Y. Li, X. Liu and Q. Cai, Talanta.,2011,86,157.   \n6 I. Danaee,M.Jafarian,F.Forouzandeh,F.Gobal and M.G.Mahjani,Electrochim.Acta.,20o8,53,6602.   \n7 R.SabetrasekhH.nen,J..eseland,JWilJ.E.ingsen,..gstadaasndHJugeniomed.Mter1,5,   \n015003.   \n8 G. Colón,M. Maicu,M.C. Hidalgo and J.A. Navio, Appl. Catal. B-Environ.,2006,67,41.   \n9 W. Zhang,Y. Li,S. Zhu and F.Wang, Catal. Today.,2004,93-95,589.   \n10 K.Lalitha,G.Sadanandam,V.D.Kumari,M.Subrahmanyam,B.SreedarandN.Y.Hebalkar,J.Phys.Chem.C,2O10,114,22181.   \n11 G.M.Dalpian and J.R.Chelikowsky,Phys.Rev. Lett.,2006,96,226802.   \n12 D.Mocatta,G.Cohen,J.Schattner, O.Millo,E. Rabani and U.Banin, Science,2011,332,77.   \n13 C.Liang,Z.Tian,T.Tsuruoka,W. Cai and N. Koshizaki,J.Photoch.Photobio.A,2011,224,110.   \n14 G.Yang,Prog.Mater. Sci. 2007,52, 648.   \n15 J. Liu, C. Liang, Z. Tian,S. Zhang and G.Shao, Sci. Rep.,2013,3,1741.   \n16 J.Yang,T.Ling, W.T.Wu, H.Liu,M.R.Gao,C.Ling,L. Liand X.W.Du,Nat. Commun.,2013,4,1695.   \n17 C.Liang,K.Terabe,T. Hasegawa and M.Aono,Appl. Phys. Express.,2008,1,064002.   \n18 Z.Y. Zhang, C. L. Shao,L. N. Zhang,and X. H.Li J. Colloid Interf. Sci.,2010,351,57.   \n19B. Santara,B.Pal and P. K.Giri,J.Appl. Phys.,2011,110,114322.   \n20 K. N.Song,X.P.Han and G.S.Shao,J.Alloy. Compd.,2013,551,118.   \n21H.Irie,K.Kamia,T.banuma,S.Mura,D.A.Tyk,T.YokoyamaandK.HashimotoJ.Phys.Chem.C20,113,0761.   \n22K.Huo, H.Wang, X. Zhang,Y. Cao and P. K. Chu, ChemPlusChem.,2012,77,323.   \n23J.U. Brehm,M.Winterer and H. Hahn,J.Appl.Phys.,2006,100,064311.   \n24M.M.Rahman,A.J.Ahammad,J. H.Jin,S.J.Ahn and J.J.Lee, Sensors.,2010,10,4855.   \n25S. Luo,F.Su, C. Liu,J. Li, R. Liu, Y. Xiao,Y. Li, X. Liu and Q. Cai, Talanta.,2011,86,157. ",
+        "page_idx": 5
+    }
+]

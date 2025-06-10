@@ -1,0 +1,192 @@
+张廷廷1,2 陈超2\* 邵彦翔 2.3李炎璐²于欢欢 $^ { 1 , 2 }$ 彭士明4　杨传军5(1.上海海洋大学水产与生命学院，上海 201306；2.农业部海洋渔业资源可持续利用重点开放实验室，中国水产科学研究院黄海水产研究所，青岛 266071；3.大连海洋大学，大连116023；4.中国水产科学研究院东海水产研究所，上海 200090；5.明波水产有限公司，莱州 261400)
+
+摘要：为研究云纹石斑鱼幼鱼对高能低氮饲料的适应性，采用双因素试验设计，设蛋白质水平分别为$3 5 \%$ （P35）、 $40 \%$ （P40）、 $45 \%$ （P45），脂肪水平分别为 $9 \%$ （L9）、 $12 \%$ （L12）、 $1 5 \%$ （L15），共配制9 种试验饲料，依次标记为P35L9、P35L12、P35L15、P40L9、P40L12、P40L15、P45L9、P45L12、P45L15。选取初始平均体重为 $2 7 . 0 9 \mathrm { ~ g ~ }$ 的云纹石斑鱼幼鱼810尾，随分为9组，每组设置3个重复，每个重复30尾，饲喂9周后测定其生长性能、肌肉营养组成和血清生化指标。结果表明：1）随着饲料蛋白质和脂肪水平的升高，云纹石斑鱼幼鱼的增重率和特定生长率先升高后降低，且饲料蛋白质和脂肪水平间有显著的交互作用（ $. P { < } 0 . 0 5$ ），以P40L12组的增重率和特定生长率最高，分别为 $184 . 5 9 \%$ 和 $1 . 4 9 \%$ /d；饲料系数、摄食率和蛋白质效率随着蛋白质和脂肪水平的升高逐渐降低，且饲料蛋白质与脂肪水平对其有显著的交互作用（ $P { < } 0 . 0 5 \$ ）；各组试验鱼成活率差异不显著（ $P { > } 0 . 0 5$ ）。2）饲料脂肪水平对肌肉粗脂肪含量的影响显著（ $P { < } 0 . 0 5$ ），最高值出现在L15组；饲料蛋白质、脂肪水平及其交互作用对肌肉粗蛋白质、水分和粗灰分的含量无显著影响（ $P { > } 0 . 0 5$ ）。3）血清中谷草转氨酶活性随饲料脂肪水平的升高而升高，L15 组活性最高 $( 1 2 1 . 9 8 ~ \mathrm { U / L } )$ ，与L9组存在显著差异（ $P { < } 0 . 0 5$ ）；血清中谷丙转氨酶活性随饲料蛋白质水平的升高而升高，在P45 组出现最高值（ $8 9 . 7 9 \mathrm { U } / \mathrm { L } \dot { }$ ）；血清中总胆固醇含量和饲料脂肪水平呈显著的正相关（ $. P { < } 0 . 0 5$ ），但不受饲料蛋白质水平的显著影响（ $. P { > } 0 . 0 5$ ）；血清中尿素氮和饲料蛋白质水平呈显著的负相关（ $. P { < } 0 . 0 5 .$ ），P35组尿素氮含量为 $1 . 9 7 \mathrm { m m o l } / \mathrm { L }$ ，显著高于其他蛋白质水平组（ $. P { < } 0 . 0 5$ ）；饲料蛋白质、脂肪水平及其交互作用对血清中碱性磷酸酶活性及低密度脂蛋白胆固醇、高密度脂蛋白胆固醇及甘油三酯的含量无显著影响（ $P { > } 0 . 0 5$ ）。结果显示：在本试验条件下，饲料蛋白质水平为 $40 \%$ 和脂肪水平为 $12 \%$ 时云纹石斑鱼幼鱼的生长效果最好，饲料的利用率较高。
+
+关键词：云纹石斑鱼幼鱼；高能低氮；生长；肌肉营养组成；血清生化指标
+
+云纹石斑鱼(Epinephelusmoara)，俗称真油斑、草斑，隶属硬骨鱼纲(Osteichthyes)，辐鳍亚纲(Actinopterygii)，鲈形目(Perciformes)，熊科(Serranidae)，石斑鱼亚科(Epinephelinae)，石斑鱼属(Epinephelus)，为暖温性中下层鱼类，主要分布于日本、韩国及中国南部海域[1]。云纹石斑鱼肉味鲜美，生长速度快，具有较高的经济价值，已成为福建、广东及海南等沿海地区重要的养殖对象[2]。目前，云纹石斑鱼人工育苗技术已相对比较成熟[3-4]，因此，后续的重点在于进一步地推广示范健康及高效的生态养殖。
+
+石斑鱼对蛋白质的需求较高，在水产养殖过程中为使其快速生长，经常投喂高鱼粉含量配合饲料，但残余饲料、排泄物及饲料溶失于水体的营养成分会引起养殖水环境的高氮、磷污染，导致水体富营养化[5]。研究开发高能量低蛋白质配合饲料以及提高蛋白质的消化率和磷元素的利用率，可降低氮、磷排泄对水体的污染[6]。目前关于石斑鱼营养需求的研究主要针对点带石斑鱼(Epinephelus malabaricus)[7]、赤点石斑鱼(Epinephelus akaara)[8]、褐石斑(Epinephelus bruneus)[9]等，对云纹石斑鱼营养需求的研究仍属空白。Boonyaratpalin[0]推荐在实用石斑鱼配合饲料中经济有效的蛋白质水平为 $40 \%$ ，幼鱼阶段石斑鱼脂肪需求量约为 $1 0 \% ^ { [ 1 1 - 1 3 ] }$ 。本试验以此为依据，采用 $3 { \times } 3$ 双因子试验设计，采用提高脂肪水平的同时降低蛋白质水平的方法，分析高能低氮饲料对云纹石斑鱼幼鱼生长性能的影响，同时由血清生化指标分析云纹石斑鱼幼鱼肝脏健康、脂类代谢等状况，旨在为石斑鱼养殖过程中高能低氮饲料的高效利用提供重要的参考数据，为实现我国石斑鱼养殖产业的低碳、健康及可持续发展提供理论指导。
+
+1材料与方法
+
+1.1试验饲料
+
+采用 $3 { \times } 3$ 双因子试验设计，以鱼粉、豆粕与酪蛋白为蛋白质源，鱼油与豆油为脂肪源，设置蛋白质水平分别为 $3 5 \%$ （P35）、 $40 \%$ （P40）、 $45 \%$ （P45），脂肪水平分别为 $9 \%$ （L9）、 $12 \%$ （L12）、$1 5 \%$ （L15），共配制9种试验饲料，依次标记为P35L9、P35L12、P35L15、P40L9、P40L12、P40L15、P45L9、P45L12、P45L15。试验饲料组成及营养水平见表1。其中，鱼粉、豆粕、鱼油、豆油、 $\mathfrak { a }$ 淀粉、维生素及矿物质预混料购自青岛赛格林生物工程有限公司，酪蛋白、羧甲基纤维素、氯化胆碱、维生素C 磷酸酯购自青岛金海力水产科技有限公司。饲料原料粉碎后60目过筛，按配比精确称量后混合，向混合料中添加相应比例的鱼油与豆油再次混合，添加35%的水，混匀，用制粒机制成粒径为4mm的颗粒饲料， $5 5 ^ { \circ } \mathrm { C }$ 烘干后放入密封袋，置于 $0 ^ { \circ } \mathrm { C }$ 冰箱保存。
+
+表1试验饲料组成及营养水平(风干基础)  
+Table 1Composition and nutrient levels of experimental diets (air-dry basis) %
+
+<html><body><table><tr><td colspan="8"></td></tr><tr><td>项目Items</td><td>P35L9</td><td>P35L12</td><td>P35L15</td><td>P40L9</td><td>饲料Diets P40L12</td><td>P40L15</td><td>P45L9</td></tr><tr><td>1 原料Ingredients</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>44.50</td><td>44.50</td><td></td><td></td></tr><tr><td>1</td><td>44.50</td><td>44.50</td><td>44.50</td><td></td><td></td><td>44.50</td><td>44.50</td></tr><tr><td>豆粕 Soybean meal</td><td>15.00</td><td>15.00</td><td>15.00</td><td>15.00</td><td>15.00</td><td>15.00</td><td>15.00</td></tr><tr><td>■ 酪蛋白Casein</td><td></td><td></td><td></td><td>6.00</td><td>6.00</td><td>6.00</td><td>12.00</td></tr><tr><td>7</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>鱼油Fish oil</td><td>0.80</td><td>2.30</td><td>3.80</td><td>0.80</td><td>2.30</td><td>3.80</td><td>0.80</td></tr><tr><td>20 豆油 Soybean oil</td><td>4.40</td><td>5.90</td><td>7.40</td><td>4.40</td><td>5.90</td><td>7.40</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>4.40</td></tr><tr><td>α-淀粉 Alpha-starch</td><td>29.30</td><td>26.30</td><td>23.30</td><td>23.30</td><td>20.30</td><td>17.30</td><td></td></tr><tr><td>a</td><td></td><td></td><td></td><td></td><td></td><td></td><td>17.30</td></tr><tr><td>维生素预混料 Vitamin mixl)</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>h</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>矿物质预混料 Mineral mix2)</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>磷酸二氢钙 CaHPO4</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.00</td></tr><tr><td>氯化胆碱 Choline chloride</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.50</td></tr><tr><td>维生素C磷酸酯 Vitamin C phosphate</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.50</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>羧甲基纤维素 CMC</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr></table></body></html>
+
+<html><body><table><tr><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>14.00</td><td>16.60</td><td>14.60</td><td>15.90</td><td>14.70</td><td>13.50</td><td>13.00</td><td>11.90</td><td>10.30</td></tr><tr><td>34.14</td><td>34.24</td><td>34.72</td><td>39.60</td><td>38.86</td><td>39.99</td><td>44.27</td><td>44.64</td><td>45.03</td></tr><tr><td>9.50</td><td>11.60</td><td>15.10</td><td>9.40</td><td>12.40</td><td>15.10</td><td>10.10</td><td>12.60</td><td>15.50</td></tr><tr><td>38.50</td><td>35.56</td><td>32.62</td><td>32.59</td><td>29.65</td><td>26.71</td><td>26.68</td><td>23.74</td><td>20.80</td></tr><tr><td>9.10</td><td>9.20</td><td>9.20</td><td>9.10</td><td>9.20</td><td>9.30</td><td>8.90</td><td>9.60</td><td>9.10</td></tr><tr><td>18.35</td><td>18.67</td><td>19.62</td><td>18.62</td><td>19.08</td><td>19.88</td><td>19.00</td><td>19.54</td><td>20.23</td></tr><tr><td>18.61</td><td>18.34</td><td>17.70</td><td>21.27</td><td>20.37</td><td>20.12</td><td>23.30</td><td>22.85</td><td>22.25</td></tr><tr><td>3.59</td><td>2.95</td><td>2.30</td><td>4.21</td><td>3.13</td><td>2.65</td><td>4.38</td><td>3.54</td><td>2.91</td></tr></table></body></html>
+
+1)维生素预混料为每千克饲料提供 The vitamin premix provided the folowing per $\mathrm { k g }$ of diets: $\mathrm { V B _ { l } \ 1 1 0 \ m g }$ ， $\mathrm { V B } _ { 2 } 3 6 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 8 6 \mathrm { m g }$ ，生物素biotin $1 0 \mathrm { m g }$ ，泛酸钙 calcium pantothenate $5 0 7 \mathrm { m g }$ ，叶酸 folic acid $5 4 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 3 \ : \mathrm { m g }$ ，烟酸 nicotinic acid $1 4 5 0 \mathrm { m g }$ ，VK $1 0 \mathrm { m g }$ ，VC $5 0 0 \mathrm { m g }$ ，VA $6 0 0 0 \mathrm { { I U } }$ ， $\mathrm { V D } _ { 3 } 1 8 0 0 \mathrm { I U }$ ，VE$1 5 \mathrm { m g }$ 。  
+2)矿物质预混料为每千克饲料提供 The mineral premix provided the following per kg of diets： $\mathrm { M g S O _ { 4 } } { \cdot } 7 \mathrm { H _ { 2 } O } \ 2 \ 2 3 0 \ \mathrm { m g }$ ，KCl 3 020 mg， KAI(SO4)2·12H2O 12.7 mg,$\mathrm { C O C l _ { 2 } { \cdot } 6 H _ { 2 } O 4 0 \ m g }$ ， $\mathrm { Z n S O _ { 4 } { \cdot } 7 H _ { 2 } O 2 5 3 \ m g }$ ， $\mathrm { \ K I \ 8 \ m g }$ ， $\mathrm { C u S O _ { 4 } { \cdot } H _ { 2 } O 7 \ m } _ { \mathrm { i } }$ g， $\mathrm { M n S O _ { 4 } { \cdot } H _ { 2 } O \ 5 4 n }$ ng， $\mathrm { N a _ { 2 } S e O _ { 3 } } 2 . 5 \mathrm { m g }$ 。
+
+3)总能 $\scriptstyle ( \mathrm { k J / g } ) =$ 粗蛋白质含量 $( \% ) \ \times 2 4 \ ( \mathrm { k J / g } )$ （20 $+$ 粗脂肪含量 $( \% ) ~ \times 3 8 ~ \mathrm { ( k J / g ) } ~ +$ 淀粉含量 $( \% ) \ \times 1 7 \ \mathrm { { ( k J / g ) } }$ Gross energy $\scriptstyle ( \mathrm { k J } / \mathrm { g } ) =$ crude protein content（%）$\times 2 4$ C $\mathrm { | k J / g }$ ） $^ +$ crude fat content（%） $\times 3 8$ （kJ/g） $^ +$ starch content $( \% ) \ \times 1 7$ （kJg）。
+
+# 1.2试验设计与饲养管理
+
+试验用云纹石斑鱼幼鱼来自莱州明波水产有限公司，为同批次亲鱼产卵、人工授精和培育的鱼种。选择健康、相近规格的云纹石斑鱼幼鱼[（平均体重为 $2 7 . 0 9 { \scriptstyle \pm 2 . 0 7 }$ ）g]810尾，随机分配到27个1.2L的试验水泥池中，每个水泥池30尾，每组饲料随机饲喂3个水泥池（重复）。正式试验前先暂养1周，饲养试验周期为9周。养殖水体温度为（ $2 4 { \pm } 1$ ） $^ { \circ } \mathrm { C }$ ，盐度为30左右，采用流水养殖。试验期间每日饱食投喂2次（09:00、16:00），尽量保证不过剩。记录每天的摄食量以及水体温度、pH及盐度等信息。
+
+1.3样品采集与分析
+
+试验结束后，先将云纹石斑鱼幼鱼饥饿 $2 4 \mathrm { h }$ ，对每组鱼分别进行计数、称重统计，计算其生长指标。每个水池随机取5尾鱼，经 $1 0 0 \mathrm { m g / L }$ 的 MS-222 麻醉后，尾部静脉取血 $2 { \mathrm { m L } }$ 左右，低温放置 $1 2 \mathrm { h }$ 后4$0 0 0 ~ \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ ，分离出的血清于 ${ \bf \nabla } \cdot 2 0 { \bf \nabla } ^ { \circ } { \bf C } .$ 冰箱中保存，用于测定血清生化指标。每组另取8尾鱼冷冻保存用于肌肉中营养成分测定。
+
+试验饲料及肌肉营养成分含量测定方法为： $1 0 5 ^ { \circ } \mathrm { C }$ 常压干燥法测定水分含量；马福炉 $5 5 0 ^ { \circ } \mathrm { C }$ 灼烧法测定粗灰分含量；凯氏定氮法测定粗蛋白质含量；索氏抽提法（石油醚为抽提液）测定粗脂肪含量。
+
+血清生化指标采用南京建成生物工程研究所提供的试剂盒进行测定，具体方法如下：谷草转氨酶（GOT）、谷丙转氨酶（GPT）和碱性磷酸酶（AKP)活性采用微板法测定；高密度脂蛋白胆固醇（HDL-C）和低密度脂蛋白胆固醇（LDL-C）含量采用双试剂直接法测定；甘油三酯（TG）与总胆固醇（T-CHO)含量采用单试剂胆固醇氧化酶-过氧化物酶偶联（COD-PAP）法测定；尿素氮（UN）含量采用二乙酰比色法测定。
+
+1.4计算公式
+
+成活率(survival rate，SR， $\%$ 中车 $\scriptstyle 1 = 1 0 0 \times$ 试验末鱼体尾数/试验初鱼体尾数 $\times$ 增重率(weight gain rate，WGR， $\%$ 中 $_ { \mathrm { p = 1 0 0 \times ( } }$ 鱼体末重—鱼体初重)/鱼体初重;  
+特定生长率(specific growth rate，SGR， $\%$ / $\mathrm { { d } ) = 1 0 0 \times }$ (ln 鱼体末重—ln鱼体初重)/养殖天数;  
+饵料系数(feed conversion ratio，FCR) $\vDash$ 摄食总量/(鱼体末重—鱼体初重）；  
+蛋白质效率(protein efficiency ratio，PER) $\scriptstyle  \begin{array} { r l } \end{array} ) = ($ 鱼体末重—鱼体初重)/饲料蛋白质摄入总量;  
+摄食率(feed intake，FI, $\% ) = 1 0 0 \times$ 投饲总量/[(试验初鱼体总重 $+$ 试验末鱼体总重) $/ 2 \times$ 养殖天数]。
+
+# 1.5 数据统计及分析
+
+试验数据首先经 Excel 2013初步整理，再采用 SPSS 17.0软件对数据进行双因素方差分析(two-wayANOVA)，以检验蛋白质、脂肪水平及其交互作用对各项指标影响的显著性。若试验数据差异显著则。采用Duncan氏法进行多重比较，显著水平为 $P { < } 0 . 0 5$ ，数据以平均值 $\pm$ 标准差(mean±SD)表示。
+
+2结果
+
+# 2.1高能低氮饲料对云纹石斑鱼幼鱼生长性能的影响
+
+各组云纹石斑鱼幼鱼的生长性能见表2。P40与P45 组WGR、SGR 和PER无显著差异（ $( P { > } 0 . 0 5 )$ ），但均显著高于P35 组（ $. P { < } 0 . 0 5$ ）；FI和FCR均随着饲料蛋白质水平的升高而逐渐降低，FCR表现为P40与P45 组显著低于P35 组（ $P { < } 0 . 0 5$ ）。L9与L12组WGR、SGR 和FI无显著差异（ $P { > } 0 . 0 5$ ），但均显著高于L15组（ $P { < } 0 . 0 5$ ）；L12与L15组PER无显著差异（ $. P { > } 0 . 0 5$ ），但均显著高于L9组（ $. P { < } 0 . 0 5 \$ ）；FCR 随着饲料脂肪水平的升高而逐渐降低，表现为L15组显著低于L9组（ $_ { . P < 0 . 0 5 }$ ）。P40L12组有最高的WGR（ $1 8 4 . 5 9 \%$ ），同时有最高的 SGR（ $1 . 4 9 \%$ ）与最高的PER（2.25）。各组试验鱼 SR 均在 $9 8 \%$ 以上，且不受饲料蛋白质、脂肪水平及其交互作用的显著影响（ $. P { > } 0 . 0 5$ ）。饲料蛋白质与脂肪水平的交互作用对 WGR、SGR、FI、FCR、PER 均具有显著影响（ $P { < } 0 . 0 5$ ）。
+
+表2饲喂高能低氮饲料云纹石斑鱼幼鱼的生长性能  
+Table 2 Growth performance of juvenile Epinephelus moara fed diets with high energy and low nitrogen   
+
+<html><body><table><tr><td>组别</td><td>增重率</td><td>成活率</td><td>摄食率</td><td>特定生长率</td><td>饲料系数</td><td>蛋白质效率</td></tr><tr><td>Groups</td><td>WGR/%</td><td>SR/%</td><td>FI/%</td><td>SGR/(%/d)</td><td>FCR</td><td>PER</td></tr><tr><td>P35L9</td><td>135.81±5.77b</td><td>100.00±0.00</td><td>1.84±0.01g</td><td>1.22±0.01ab</td><td>1.59±0.02g</td><td>1.69±0.05a</td></tr><tr><td>P35L12</td><td>141.24±3.21c</td><td>99.00±1.00</td><td>1.75±0.01f</td><td>1.25±0.05abc</td><td>1.49±0.01f</td><td>1.81±0.04a</td></tr><tr><td>P35L15</td><td>124.24±5.37a</td><td>99.00±1.00</td><td>1.43±0.02a</td><td>1.15±0.05a</td><td>1.28±0.02c</td><td>1.92±0.07b</td></tr><tr><td>P40L9</td><td>173.76±4.24f</td><td>100.00±0.00</td><td>1.77±0.01f</td><td>1.43±0.01de</td><td>1.34±0.01d</td><td>2.01±0.07b</td></tr><tr><td>P40L12</td><td>184.59±1.06g</td><td>98.33±0.58</td><td>1.64±0.01d</td><td>1.49±0.00e</td><td>1.20±0.01ab</td><td>2.25±0.03c</td></tr><tr><td>P40L15</td><td>158.52±3.11e</td><td>98.67±1.53</td><td>1.51±0.01b</td><td>1.35±0.05cd</td><td>1.20±0.02ab</td><td>2.18±0.05bc</td></tr><tr><td>P45L9</td><td>181.92±6.88g</td><td>100.00±0.00</td><td>1.71±0.02e</td><td>1.48±0.02e</td><td>1.26±0.04c</td><td>2.19±0.05bc</td></tr><tr><td>P45L12</td><td>176.34±7.54f</td><td>100.00±0.00</td><td>1.61±0.01c</td><td>1.45±0.01de</td><td>1.21±0.03b</td><td>2.21±0.04c</td></tr><tr><td>P45L15</td><td>148.61±7.21d</td><td>98.67±1.53</td><td>1.42±0.01a</td><td>1.31±0.01bc</td><td>1.17±0.02a</td><td>2.12±0.05bc</td></tr><tr><td colspan="7">蛋白质水平Proteinlevel/%</td></tr><tr><td>35</td><td>133.76±3.63a</td><td>99.44±0.51</td><td>1.67±0.03</td><td>1.21±0.01a</td><td>1.45±0.03b</td><td>1.87±0.01a</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>40</td><td>172.29±2.77b</td><td>99.00±0.88</td><td>1.65±0.02</td><td>1.43±0.02b</td><td>1.25±0.03a</td><td>2.17±0.04b</td></tr><tr><td>45</td><td>168.96±4.94b</td><td>99.33±1.15</td><td>1.58±0.02</td><td>1.41±0.01b</td><td>1.22±0.04a</td><td>2.14±0.02b</td></tr><tr><td>脂肪水平Lipidlevel/%</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>9</td><td>163.83±5.15b</td><td>100.00±0.00</td><td>1.78±0.04b</td><td>1.38±0.02b</td><td>1.39±0.05b</td><td>1.96±0.03a</td></tr><tr><td>12</td><td>167.39±4.73b</td><td>99.11±0.84</td><td>1.68±0.04b</td><td>1.41±0.02b</td><td>1.29±0.02ab</td><td>2.11±0.03b</td></tr><tr><td>15</td><td>143.79±4.19a</td><td>98.66±0.67</td><td>1.45±0.04a</td><td>1.27±0.02a</td><td>1.22±0.05a</td><td>2.10±0.03b</td></tr><tr><td></td><td>双因素方差分析P值P-value of two-way ANOVA</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="7">蛋白质水平Protein</td></tr><tr><td></td><td><0.001</td><td>0.174</td><td>0.313</td><td>0.002</td><td>0.022</td><td>0.013</td></tr><tr><td>level</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>脂肪水平Lipidlevel</td><td><0.001</td><td>0.174</td><td>0.007</td><td>0.014</td><td>0.074</td><td>0.064</td></tr><tr><td>交互作用Interaction</td><td><0.001</td><td>0.269</td><td>0.023</td><td>0.007</td><td>0.035</td><td>0.049</td></tr></table></body></html>
+
+同列数据肩标不同字母表示差异显著 $( P { < } 0 . 0 5 )$ 。下表同。
+
+Values in the same column with different letter superscripts were significantly different $( P { < } 0 . 0 5 )$ . The same as below.
+
+# 2.2高能低氮饲料对云纹石斑鱼幼鱼肌肉营养组成的影响
+
+各组云纹石斑鱼幼鱼的肌肉营养成分见表3。肌肉中粗蛋白质、水分和粗灰分含量不受饲料蛋白质、脂肪水平及其交互作用的显著影响（ $. P { > } 0 . 0 5$ ）。随着饲料脂肪水平的增加，肌肉粗脂肪含量先降低后增加，L9 和L12 组差异不显著（ $. P { > } 0 . 0 5$ ），但均显著低于L15组（ $. P { < } 0 . 0 5 \$ ）；饲料蛋白质水平的升高未引起肌肉粗脂肪含量的显著变化（ $. P { > } 0 . 0 5$ ）。
+
+# 表3饲喂高能低氮饲料云纹石斑鱼幼鱼的肌肉营养组成
+
+%
+
+Table 3Muscle nutritive composition of juvenile Epinephelus moara fed diets with high   
+
+<html><body><table><tr><td colspan="5">energy and low nitrogen</td></tr><tr><td>组别</td><td>粗蛋白质</td><td>粗脂肪</td><td>粗灰分</td><td>水分</td></tr><tr><td>Groups</td><td>Crude protein</td><td>Crude lipid</td><td>Ash</td><td>Moisture</td></tr><tr><td>P35L9</td><td>19.85±0.75</td><td>3.58±0.55ab</td><td>1.31±0.20</td><td>75.65±0.75</td></tr><tr><td>P35L12</td><td>20.45±0.58</td><td>3.60±0.45ab</td><td>1.52±0.20</td><td>75.40±0.25</td></tr><tr><td>P35L15</td><td>19.95±0.12</td><td>4.15±0.30b</td><td>1.25±0.10</td><td>75.85±0.60</td></tr><tr><td>P40L9</td><td>19.83±0.25</td><td>3.35±0.21a</td><td>1.45±0.20</td><td>75.70±1.05</td></tr></table></body></html>
+
+<html><body><table><tr><td>P40L12</td><td>20.10±0.36</td><td>3.38±0.22a</td><td>1.40±0.15</td><td>76.05±0.75</td></tr><tr><td>P40L15</td><td>20.19±0.32</td><td>3.53±0.23ab</td><td>1.35±0.10</td><td>76.50±0.35</td></tr><tr><td>P45L9</td><td>19.75±0.33</td><td>3.48±0.24a</td><td>1.40±0.05</td><td>76.35±1.15</td></tr><tr><td>P45L12</td><td>20.20±0.70</td><td>3.35±0.25a</td><td>1.41±0.10</td><td>76.55±0.65</td></tr><tr><td>P45L15</td><td>20.40±0.25</td><td>4.15±0.26b</td><td>1.60±0.20</td><td>75.70±0.60</td></tr><tr><td>蛋白质水平Protein level/%</td><td></td><td></td><td></td><td></td></tr><tr><td>35</td><td>20.08±0.63</td><td>3.78±0.22</td><td>1.35±0.20</td><td>75.63±1.20</td></tr><tr><td>40</td><td>19.98±0.79</td><td>3.42±0.70</td><td>1.41±0.10</td><td>76.08±0.15</td></tr><tr><td>45</td><td>20.12±0.15</td><td>3.37±0.24</td><td>1.47±0.15</td><td>76.2±0.70</td></tr><tr><td>脂肪水平Lipidlevel/%</td><td></td><td></td><td></td><td></td></tr><tr><td>9</td><td>19.81±0.12</td><td>3.47±0.36a</td><td>1.38±0.15</td><td>75.90±0.35</td></tr><tr><td>12</td><td>20.25±0.69</td><td>3.44±0.21a</td><td>1.43±0.20</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>76.05±1.00</td></tr><tr><td>15</td><td>20.12±0.25</td><td>3.94±0.17b</td><td>1.41±0.15</td><td>76.02±0.40</td></tr></table></body></html>
+
+双因素方差分析 $P$ 值 $P$ -value of two-way
+
+ANOVA
+
+<html><body><table><tr><td>蛋白质水平 Protein</td><td>0.699</td><td>0.144</td><td>0.568</td><td>0.356</td></tr><tr><td>level 脂肪水平Lipid level</td><td>0.120</td><td>0.041</td><td>0.887</td><td>0.942</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>交互作用Interaction</td><td>0.408</td><td>0.058</td><td>0.629</td><td>0.407</td></tr></table></body></html>
+
+2.3高能低氮饲料对云纹石斑鱼幼鱼血清生化指标的影响
+
+各组云纹石斑鱼幼鱼血清生化指标见表4。饲料蛋白质和脂肪水平仅对血清中GOT活性和UN 含量存在显著的交互作用（ $P { < } 0 . 0 5$ ）。随着饲料蛋白质或脂肪水平的升高，血清中GOT活性均呈上升趋势，且饲料脂肪水平对其存在显著影响（ $_ { . } P { < } 0 . 0 5$ ）。血清中GPT 活性随饲料蛋白质水平的升高而显著升高L $. P { < } 0 . 0 5$ ）。血清中AKP 活性及HDL-C、LDL-C 和TG 含量在不同蛋白质或脂肪水平下未表现出显著性差异( $( P { > } 0 . 0 5 )$ )。血清中T-CHO含量随饲料脂肪水平的升高而升高,L15组显著高于L9、L12组( $_ { . } { \cdot } { \cdot } { \cdot } 0 . 0 5 \$ ），但不受饲料蛋白质水平的显著影响( $. P { > } 0 . 0 5$ ）。P35组血清中UN含量显著高于P40、P45组（ $. P { < } 0 . 0 5 \$ ），但不同脂肪水平组之间没有显著差异（ $. P { > } 0 . 0 5$ ）。
+
+ible 4Serum biochemical parameters of juvenile Epinephelus moara fed diets with high energy and low nitrol   
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2">谷丙转氨 碱性磷酸</td><td rowspan="2"></td><td rowspan="2">低密度脂蛋白</td><td rowspan="2">高密度脂蛋白</td><td rowspan="2"></td><td rowspan="2">总胆固醇</td><td rowspan="2">尿素氮</td></tr><tr><td>甘油三酯</td></tr><tr><td>组别</td><td>谷草转氨酶</td><td></td><td></td><td>胆固醇</td><td>胆固醇</td><td></td><td></td><td></td></tr><tr><td>Groups</td><td>GOT/(U/L)</td><td>酶</td><td>酶</td><td>LDL-C/(mmol/L HDL-C/(mmol/L</td><td></td><td>TG/(mmol/L T-CHO/(mmol/L UN/(mmol/L</td><td></td><td></td></tr><tr><td></td><td></td><td>GPT/(U/L) AKP/(U/L)</td><td></td><td></td><td>）</td><td>）</td><td>）</td><td>）</td></tr><tr><td></td><td></td><td></td><td></td><td>）</td><td></td><td></td><td></td><td></td></tr><tr><td>P35L9</td><td>60.47±5.09a 66.94±4.66a</td><td></td><td>20.07±2.33b</td><td>0.56±0.04a</td><td>0.98±0.07a</td><td>1.01±0.09a</td><td>2.50±0.17b</td><td>1.94±0.09d</td></tr><tr><td></td><td></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P35L12</td><td>92.03±7.23b 65.90±4.21a</td><td></td><td>20.14±3.91b</td><td>0.76±0.02c</td><td>1.94±0.13bc</td><td>1.07±0.09a</td><td>2.57±0.16d</td><td>2.12±0.99e</td></tr><tr><td>P35L15</td><td></td><td>131.32±11.11 77.98±5.73b 21.50±2.41c</td><td></td><td>0.90±0.04d</td><td>2.58±0.14d</td><td>1.69±0.13d</td><td>2.63±0.20d</td><td>1.84±0.09d</td></tr><tr><td>P40L9</td><td>83.25±7.34ab</td><td>89.87±7.93d</td><td>25.74±4.09d</td><td>0.56±0.01a</td><td>2.13±0.09cd</td><td>1.03±0.08a</td><td>1.93±0.14a</td><td>1.53±0.08c</td></tr><tr><td></td><td></td><td>e</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P40L12</td><td>86.53±6.87ab</td><td>87.89±6.92 20.28±1.15b d C</td><td>0.64±0.02b</td><td></td><td>2.07±0.12cd</td><td>1.18±0.13ab</td><td>2.33±0.11℃</td><td>1.36±0.15a</td></tr><tr><td>P40L15</td><td></td><td>18.89±2.37a</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>106.62±9.09bc 81.14±8.33b</td><td>b</td><td>0.56±0.05a</td><td></td><td>1.88±0.17bc</td><td>1.21±0.12ab</td><td>2.53±0.18d</td><td>1.37±0.14ab</td></tr><tr><td>P45L9</td><td></td><td>113.30±10.09b 92.06±6.12d 19.62±4.77b</td><td>0.52±0.03a</td><td>1.43±0.11ab</td><td></td><td>1.37±0.19bc</td><td>2.04±0.09a</td><td>1.41±0.17abc</td></tr><tr><td></td><td></td><td>e C</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P45L12</td><td>104.00±8.33bc</td><td>82.27±8.47b 18.61±3.65a</td><td>0.52±0.03a</td><td>1.64±0.17bc</td><td></td><td>1.36±0.12bc</td><td>2.02±0.15a</td><td>1.39±0.26ab</td></tr><tr><td>P45L15</td><td></td><td>C b</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>蛋白质水平Protein</td><td></td><td>128.00±7.82 95.07±8.48e17.17±2.22a</td><td>0.64±0.02b</td><td></td><td>1.83±0.15bc</td><td>1.54±0.14cd</td><td>2.58±0.15d</td><td>1.44±0.09bc</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>level/%</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>35</td><td>94.61±7.94 70.27±7.43a 20.57±4.65</td><td></td><td>0.74±0.05</td><td></td><td>1.83±0.15</td><td>1.25±0.09</td><td>2.47±0.23</td><td>1.97±0.31b</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>40</td><td></td><td>92.13±10.13 80.59±5.65b 21.64±3.98</td><td>0.58±0.03</td><td></td><td>2.03±0.18</td><td>1.24±0.09</td><td>2.26±0.29</td><td>1.42±0.15a</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>45</td><td>115.09±13.76 89.79±9.7518.47±5.19</td><td></td><td>0.56±0.02</td><td></td><td>1.63±0.17</td><td>1.41±0.15</td><td>2.22±0.26</td><td>1.41±0.18a</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+脂肪水平Lipidlevel/%
+
+<html><body><table><tr><td>9</td><td></td><td>85.67±6.98a 82.96±6.77 21.81±3.98</td><td></td><td>0.55±0.03</td><td>1.51±0.09</td><td>1.34±0.17</td><td>2.06±0.19a</td><td>1.63±0.09</td></tr><tr><td>12</td><td></td><td>94.19±8.55ab 78.69±7.87 19.68±3.09</td><td></td><td>0.64±0.02</td><td>1.88±0.14</td><td>1.21±0.18</td><td>2.34±0.27a</td><td>1.62±0.17</td></tr><tr><td>15</td><td></td><td>121.98±10.42b84.73±4.36 19.19±3.84</td><td></td><td>0.70±0.04</td><td>2.09±0.20</td><td>1.48±0.11</td><td>2.75±0.15b</td><td>1.55±0.21</td></tr></table></body></html>
+
+双因素方差分析 $P$ 值 $P$ -valueoftwo-way ANOVA蛋白质水
+
+<html><body><table><tr><td>平 Protein</td><td>0.254</td><td>0.040</td><td>0.30</td><td>0.160</td><td>0.624</td><td>0.255</td><td>0.274</td><td>0.005</td></tr><tr><td>level</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>脂肪水平</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Lipid</td><td>0.046</td><td>0.545</td><td>0.382</td><td>0.261</td><td>0.393</td><td>0.151</td><td>0.014</td><td>0.658</td></tr><tr><td>level</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>交互作用</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Interactio</td><td>0.031</td><td>0.380</td><td>0.150</td><td>0.111</td><td>0.255</td><td>0.105</td><td>0.065</td><td>0.031</td></tr><tr><td>n</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+3讨论
+
+3.1高能低氮饲料对云纹石斑鱼幼鱼生长性能的影响
+
+饲料蛋白质水平是影响鱼类生长性能的重要因素，在一定范围内增加饲料蛋白质水平可以显著提高鱼类的生长速度，这在肉食性鱼类中尤为明显[14]，但蛋白质水平过高时会转为能量被消耗利用，同时蛋白质代谢产生的氨氮进入水体，污染养殖环境[15]。本试验中，饲料低脂肪水平时，云纹石斑鱼幼鱼WGR和 SGR 随饲料蛋白质水平升高而升高，与黄颡鱼[16]、圆斑星鲽[7]的研究结果一致。随着饲料蛋白质和脂肪水平的升高，饲料所含能量也逐渐增加，所以云纹石斑鱼幼鱼的FI和FCR逐渐降低。本试验中，P40 组WGR 显著高于P35 组，但与P45 组无显著差异，P40L12组具有最高的WGR，为 $1 8 4 . 5 9 \%$ ，其次为P45L9组，为 $1 8 1 . 9 2 \%$ 。Chen 等[18]发现，点带石斑鱼幼鱼饲料最适的蛋白质水平为 $47 . 8 \%$ ； Jiang等[19]对珍珠龙胆石斑鱼的研究指出，蛋白质水平为 $40 \%$ 的饲料组生长速度显著低于蛋白质水平为 $45 \%$ 的饲料组，但蛋白质水平为 $45 \%$ 、 $5 0 \%$ 与 $5 5 \%$ 的饲料组之间生长情况无显著差异。本试验得出云纹石斑鱼幼鱼饲料最适蛋白质水平低于上述点带石斑鱼[18]和珍珠龙胆石斑鱼[19]的研究结果，推测原因为不同鱼种间对蛋白质的需求存在差异，或因饲料配方不同引起差异。本试验中，提高了饲料中脂肪水平后，脂肪对蛋白质起到了节约作用，得出云纹石斑鱼幼鱼最适蛋白质水平为 $40 \%$ ，和Boonyaratpalin[10]推荐的实用石斑鱼配合饲料中经济有效的蛋白质水平为 $40 \%$ 一致。
+
+脂类是海水鱼生长发育重要的营养元素，可为鱼类提供生长发育所需的能量和必需脂肪酸，并有助于脂溶性维生素的吸收和体内运输。本试验中，L12组WGR、SGR 和PER 高于L9组，但当饲料脂肪水平继续升高到 $1 5 \%$ 时，WGR 和 SGR 显著降低，PER 也呈下降趋势，这与在白甲鱼幼鱼[20]、红鳍东方鲀[211、异育银鲫[22]上得出的结果一致。本试验得出：云纹石斑鱼幼鱼饲料最适的脂肪水平为 $12 \%$ 此脂肪水平下可促进云纹石斑鱼幼鱼的生长，并且脂肪对蛋白质能够起到一定的节约作用，而过高的脂肪水平会降低云纹石斑鱼幼鱼的FI，进而抑制其快速生长。周立红等[23]以进口鱼油为脂肪源研究青石斑鱼的脂肪需求量，得出在蛋白质水平为 $52 . 5 5 \%$ 时，最佳脂肪水平为 $9 . 8 7 \%$ 。Rahimnejad 等[24]研究发现,饲料脂肪水平在14%时珍珠龙胆石斑鱼生长效果最佳，而本试验中L15组生长性能明显低于L12 组，造成这种差异的原因，我们分析认为Rahimnejad 等[24]的试验只设置了 $7 \%$ 与 $14 \%$ 2个脂肪水平，数值间距略大。
+
+# 3.2高能低氮饲料对云纹石斑鱼幼鱼肌肉营养组成的影响
+
+饲料脂肪水平过高容易引起脂肪在肝脏、腹腔及肌肉部位的沉积[25-26]，过多的脂肪沉积会影响其正常代谢，有损鱼的健康、影响鱼肉品质，进而降低其经济价值。本试验中，L15 组肌肉粗脂肪含量显著高于L9、L12组，与上述研究结论一致。在不同饲料蛋白质与脂肪水平下，肌肉中水分和粗灰分含量无显著差异，与涂永芹等[27]对春鲤、Regost 等[28]对大菱鲆的研究结果一致。
+
+3.3高能低氮饲料对云纹石斑鱼幼鱼血清生化指标的影响
+
+GOT 和GPT主要参与细胞内的转氨基作用和蛋白质的新陈代谢。正常生理情况下，血清中转氨酶的活性很低，当肝脏受损时，细胞通透性增大，2种转氨酶渗透进入血液使得血清GOT和GPT 活性升高，因而通过测定血清中这2种转氨酶的活性可以分析肝功能是否正常[29]。本试验中，高蛋白质组（P45组）组和高脂肪组（L12 组）血清中GPT活性要高于其他组，推测饲料高蛋白质和高脂肪水平下云纹石斑鱼幼鱼肝脏发生应激反应，肝功能受到一定程度的影响。AKP 是一种磷酸单酯水解酶，参与调控磷、钙的代谢，生长环境、饲料营养、生长状况等均能影响 AKP 的活性[30]。韦仕高等[311认为肝组织受损病变时会引发肝脏功能性障碍，血清中AKP 活性会升高。本试验中各组血清中AKP 活性没有表现出显著性差异。UN 是鱼类蛋白质代谢的最终产物，可以反映鱼体蛋白质代谢与饲料氨基酸的平衡状况。血清中 UN 含量低表明氨基酸平衡好，鱼体蛋白质的合成效率高[32-33]。本试验中P35 组血清中UN 含量显著高于P40与P45组，推断低蛋白质水平下鱼体氮沉积率少，蛋白质合成效率低。
+
+TG 和 T-CHO 是血脂的主要组成部分，且2种成分的合成主要发生在肝脏中，因此TG 和 T-CHO含量可以在一定程度上反映肝脏对脂肪的代谢状况[34]。Ding 等[35]研究发现，高脂饲料使肝脏产生应答反应，动物体内脂肪转运机制活跃，使血清 TG 和T-CHO含量逐渐升高。研究发现，白甲鱼血清中 TG和 T-CHO 含量随饲料脂肪水平的升高呈先升高后降低的趋势，向枭等[20]认为白甲鱼可以吸收饲料中的脂肪并将其分解成游离脂肪酸，使得肝脏合成的TG和T-CHO 逐渐增多，但饲料脂肪水平过高时，脂肪在肝脏的沉积使肝脏受损，对胆固醇和TG 的合成能力减弱，所以血清中TG 和 T-CHO的含量开始呈下降趋势。本试验中血清 T-CHO 含量没有出现上述情况，而是随着饲料脂肪水平的升高呈上升趋势，与王爱民等[36对珍珠龙胆石斑鱼的研究结论一致，但不同蛋白质水平组血清中T-CHO 含量差异不大，各组血清 TG 含量亦未表现出显著性差异。LDL-C 和HDL-C 参与生物体脂类的转运及分解，是反映肝脏脂类代谢的重要指标[37]。HDL-C 作为血液的“清洁使者”可将肝外组织过多的胆固醇回收运回肝脏进行转化代谢，减少胆固醇在外周组织与血管壁上的沉积，从而降低血液中胆固醇的含量；而 LDL-C 的作用机制与之相反，它负责将肝脏合成的内源性胆固醇运输到生物体各个组织[38]。Brunzell等[39]指出，血液中 HDL-C 含量偏低和LDL-C 含量偏高易导致动脉粥样硬化，引发心血管疾病。本试验中L15 组血清中 HDL-C 和LDL-C 含量略高于其他组，但差异不大，不同蛋白质水平组之间亦无显著性差异。由血清中 TG、T-CHO、HDL-C 和LDL-C 的含量变化可以推测本试验中各组试验鱼肝脏功能均没有受到明显损伤。
+
+4结论
+
+由生长性能、肌肉营养组成和血清生化指标综合分析得出，云纹石斑鱼幼鱼在饲料蛋白质和脂肪水平分别为 $40 \%$ 和 $12 \%$ 时生长效果最好，对应的蛋能比为 $2 0 . 3 7 \mathrm { m g / k J }$ ，蛋脂比为 $3 . 1 3 ~ \mathrm { m g / m g }$ 。参考文献：[1]郭明兰,苏永全,陈晓峰,等.云纹石斑鱼与褐石斑鱼形态比较研究[J].海洋学报,2008,30(6):106-114.[2]施兆鸿,张艳亮,高权新,等.饲料维生素E水平影响云纹石斑鱼幼鱼对氨氮胁迫的响应[J.动物营养学报,2015,27(5):1596-1604.[3]宋振鑫,陈超,翟介明,等.云纹石斑鱼生物学特性及人工繁育技术研究进展[J].渔业信息与战略,2012,27(1):47-53.[4]梁友,倪琦,王印庚,等.云纹石斑鱼规模化人工繁育技术研究[J].渔业现代化,2011,38(5):31-34.[5]高攀.草鱼低氮排放饲料配方的筛选与应用[D].硕士学位论文.武汉:华中农业大学,2008.[6]麦康森.无公害渔用饲料配制技术[M].北京:中国农业出版社,2003.
+
+[7]林建斌,李金秋,朱庆国.不同蛋白水平和不同能量蛋白比饲料对点带石斑鱼生长的影响[J].上海水产大学学报,2008,17(1):88-92.
+
+[8]陈学豪,林利民,洪惠馨.赤点石斑鱼人工配合饵料中蛋白质最适含量的研究[J]).台湾海 峡,1995,14(4):407-412   
+[9]YOSHII K,TAKAKUWA F,NGUYEN H P,et al.Effct of dietary lipid level on growth performance and feed utilization of juvenile kelp grouper Epinephelus bruneus[J].Fisheries Science,2010,76:139-145.   
+[10]BOONYARATPALIN M.Nutrient requirementsofmarine food fish cultured in Southeast Asia[J].Aquaculture,1997,151(1/2/3/4):283-313.   
+[11]LIN Y H,SHIAU S Y.Dietary lipid requirement of grouper,Epinephelus malabaricus,and effects on immune responses[J].Aquaculture,2003,225(1/2/3/4):243-250.   
+[12]LUO Z,LIU Y J,MAI K S,et al.Efect of dietary lipid level on growth performance,feed utilization and body composition of grouper Epinephelus coioides juveniles fed isonitrogenous diets in floating netcages[J].Aquaculture International,2005,13(3):257-269.   
+[13]TUAN L A,WILLIAMS K C.Optimum dietary protein and lipid specifications for juvenile malabar grouper (Epinephelus malabaricus)[J].Aquaculture,2007,267(1/2/3/4):129-138.   
+[14]LEE SM,JEON I G,LEE JYEfects of digestible protein and lipid levels in practical diets on growth,proteinutilizationandbodycompositionofjuvenilerockfish (Sebastes schlegeli)[J].Aquaculture,2002,211(1/2/3/4):227-239.   
+[15] KHAN M S,ANG K J,AMBAK M A,et al.Optimum dietary protein requirement of a Malaysian freshwater catfish,Mystus nemurus[J].Aquaculture,1993,112(2/3):227-235.   
+[16]KIM L O,LEE S M.Effects of the dietary protein and lipid levels on growth and body composition of bagrid catfish,Pseudobagrus fulvidraco[J].Aquaculture,2005,243(1/2/3/4):323-329.   
+[17]吕云云,陈四清,于朝磊,等.饲粮蛋白脂肪比对圆斑星鲽(Verasper variegates)生长、消化酶及血清生化 指标的影响[J].渔业科学进展,2015,36(2):118-124.   
+[18]CHEN H Y,TSAI J C.Optimum dietary protein level for the growth of juvenile grouper,Epinephelus malabaricus,fed semipurified diets[J].Aquaculture,1994,119(2/3):265-271.
+
+[19] JIANG S T,WU X Y,LI W F,et al.Effects of dietary protein and lipid levels on growth,feed utilization,body and plasma biochemical compositions of hybrid grouper (Epinephelus lanceolatus ×Epinephelus fuscoguttatus $\mathcal { G }$ ) juveniles[J].Aquaculture,2015,446:148-155.
+
+[20]向枭,周兴华,陈建,等.饲料脂肪水平对白甲鱼幼鱼生长性能、体组成和血清生化指标的影响[J].动物营养学报,2013,25(8):1805-1816
+
+[21]KIKUCHI K,FURUTA T,IWATA N,et al.Effect of dietary lipid levels on the growth,feed utilization,body composition and blood characteristics of tiger puffer Takifugu rubripes[J].Aquaculture,2009,298(1/2):111-117.
+
+[22]王爱民,吕富,杨文平,等.饲料脂肪水平对异育银鲫生长性能、体脂沉积、肌肉成分及消化酶活性的 影响[J].动物营养学报,2010,22(3):625-633.
+
+[23]周立红,胡家财,陈学豪.青石斑鱼人工配合饵料中脂肪适宜含量的研究[J].厦门水产学院学报，1995,17(2):13-16.
+
+[24]RAHIMNEJAD S,BANG I C,PARK J Y,et al.Effects of dietary protein and lipid levels on growth performance,feedutilizationandbodycompositionofjuvenilehybridgrouper,Epinephelus fuscoguttatusxE.lanceolatus[J].Aquaculture,2015,446:283-289.
+
+[25]WANG J T,LIU Y J,TIAN L X,et al.Effect of dietary lipid level on growth performance,lipid deposition,hepatic lipogenesis in juvenile cobia (Rachycentron canadum)[J].Aquaculture,2005,249(1/2/3/4):439-447.
+
+[26]YANG S D,LIN T S,LIOU C H,et al.Influence of dietary protein levels on growth performance,carcass composition and liver lipid classesof juvenile Spinibarbus hollandi (Oshima)[J].Aquaculture Research,2003,34(8):661-666.
+
+[27]涂永芹,韩冬,朱晓鸣,等.饲料中不同蛋白、脂肪水平对春鲤生长、饲料利用和体成分的影响[J].水生生物学报,2012,36(5):843-850.
+
+[28]REGOST C,ARZEL J,CARDINAL M,et al.Dietary lipid level,hepatic lipogenesis and flesh quality in turbot (Psetta maxima)[J].Aquaculture,2001,193(3/4):291-309.
+
+[29]LIN L,ZENG X L,ZHANG J.Effect of profenofos poisoning on liver lipid peroxidation and liver function in rabbits[J].Chinese Journal of Clinical Rehabilitation,2004,8(21):4380-4381.
+
+[30] 章龙珍,冯琳,侯俊利,等.铅暴露与排放对中华鲟幼鱼血液中碱性磷酸酶、乳酸脱氢酶及肌酸酶活力的影响[J].生态学杂志,2010,29(7):1359-1364.
+
+[31]韦仕高,韦霞,韦忠理.血清酶类指标变化对原发性肝癌诊断的临床价值[J].中国误诊学杂志,2010,10(9):2095-2096.
+
+[32]WU G Y,BAZER F W,DAVIS T A,et al.Arginine metabolism and nutrition in growth,health and disease[J].Amino Acids,2009,37(1):153-168.
+
+[33]吴莉芳,秦贵信,刘春力,等.饲料大豆蛋白对鲤鱼消化酶活力和血液主要生化指标的影响[J].西北农林科技大学学报:自然科学版,2009,37(8):63-69.
+
+[34]程汉良,夏德全,吴婷婷.鱼类脂类代谢调控与脂肪肝[J].动物营养学报,2006,18(4):294-298.
+
+[35]DING L Y,ZHANG L M,WANG J Y,et al.Effect of dietary lipid level on the growth performance,feed utilization,body compositionandblood chemistryofjuvenilestarry flounder(Platichthys stellatus )[J].Aquaculture Research,2010,41(10):1470-1478.
+
+[36]王爱民,韩光明,封功能,等.饲料脂肪水平对吉富罗非鱼生产性能、营养物质消化及血液生化指标的影响[J].水生生物学报,2011,35(1):80-87.
+
+[37]HALVER JE,HARDY R W.Fish nutrition[M].London:Academic Press,1989:154-209.
+
+[38]LUO L,XUE M,VACHOT C,et al.Dietary medium chain fatty acids from coconut oil have litle effects on postprandial plasma metabolite profiles in rainbow trout (Oncorhynchus mykiss)[J].Aquaculture,2014 420-421:24-31.
+
+[39]BRUNZELL J D,DAVIDSON M,FURBERG C D,et al.Lipoprotein management in patients with cardiometabolic risk:consensus statement from the American Diabetes Association and the American College of Cardiology Foundation[J].Diabetes Care,2008,31(4):811-822.
+
+Adaptation of Juvenile Epinephelus moara Fed Diets with High Energy and Low Nitrogen   
+ZHANG Tingting1.2 CHEN Chao²SHAO Yanxiang2,3LI Yanlu²YU Huanhuan1.2PENG Shiming4 YANG Chuanjun5   
+(1. College ofFisheries and Science,Shanghai Ocean University,Shanghai 201306,China；2.Yellow Sea Fisheries Research Institute, Chinese Academy ofFishery Sciences, Qingdao 266071, China; 3.Dalian Ocean University,Dalian 116023, China; 4. East China Sea Fisheries Research Institute, Chinese
+
+Academy of Fishery Sciences,Shanghai 200090, China; 5.Mingbo Aquatic Co.,Ltd.Laizhou 264000,
+
+China) Abstract: A 9-week trial was carried out to assess the adaptation of juvenile Epinephelus moara fed diets with high energy and low nitrogen. Nine practical diets were formulated to contain three protein levels $[ 3 5 \%$ （P35), $40 \%$ （P40）and $45 \%$ （P45）] and three lipid levels $[ 9 \%$ （L9）， $12 \%$ （L12）and $1 5 \%$ （L15）] by two-factor experimental design,and in turn marked P35L9,P35L12,P35L15,P40L9,P40L12,P40L15,P45L9,P45L12 and P45L15. Eight hundred and ten juvenile Epinephelus moara with the average initial body weight of $2 7 . 0 9 \mathrm { g }$ were randomly divided in 9 groups with 3 replicates,and each replicate had 30 fish. After feeding 9 weeks, the growth performance, muscle nutritive composition and serum biochemical parameters of juvenile Epinephelus moara were measured. The results showed as folows: 1) weight gain rate(WGR）and specific growth rate （SGR） were firstly increased and then decreased with the increase of dietary protein and lipid levels,and significant interactions between dietary protein and lipid levels were observed in WGR and SGR $( P { < } 0 . 0 5 )$ . The highest values of WGR and SGR were all found in P4OL12 group which were $184 . 5 9 \%$ and $1 . 4 9 \% / \mathrm { d }$ respectively.Feed conversion ratio (FCR), protein eficiency ratio (PER)and feed intake (FI) reduced gradually with the increase of protein and lipid levels,and significant interactions between dietary protein and lipid evels were observed in them ( $( P { < } 0 . 0 5 )$ . Survival rate showed no significant difference among 9 groups $( P { > } 0 . 0 5 )$ .2) Muscle crude lipid content significant affected by dietary lipid level $( P { < } 0 . 0 5 )$ ,and the highest value observed in L15 group; dietary protein, lipid levels and their interaction had no significant efects on the contents of crude protein, moisture and ash of muscle $( P { > } 0 . 0 5 )$ ). 3）serum glutamic oxalacetic transaminase (GOT) activity was increased with increase dietary lipid level,and the highest value (121.98 U/L)appeared inL15 group, which had significant diference compared with L9 group $( P { < } 0 . 0 5 )$ ； serum glutamic pyruvic transaminase (GPT) activity was increased with increase dietary protein level, and the highest value ( $\langle 8 9 . 7 9 ~ \mathrm { U / L } \rangle$ appeared in P45 group; serum total cholesterol content was positively correlated with dietary lipid level $( P { < } 0 . 0 5 )$ ，whereas it was not significantly affected by dietary protein level $( P { > } 0 . 0 5 )$ ； serum urea nitrogen（UN） content was negatively correlated with dietary protein level $( P { < } 0 . 0 5 )$ ,and it had the highest value (1.97 mmol/L) in P35 group which significantly higher than other protein level groups $( P { < } 0 . 0 5 )$ ; dietary protein, lipid levels and their interaction had no significant diferences on serum alkaline phosphatase (AKP) activity and the contents of triglyceride (TG), high-density lipoprotein (HDL-C) and low-density lipoprotein (LDL-C) $( P { > } 0 . 0 5 )$ . According to these results, juvenile Epinephelus moara fed the diet with $40 \%$ protein level and $12 \%$ lipid level has the best growth effect,and the utilization ratio of feed is higher under the condition of this experiment. Key words: juvenile Epinephelus moara; high energy and low nitrogen; growth; muscle nutritive composition; serum biochemical parameters

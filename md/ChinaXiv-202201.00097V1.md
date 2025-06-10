@@ -1,0 +1,147 @@
+# 疏勒河中游湿地景观时空演变及其影响因素
+
+王毓芳，赵成章，曾红霞，康满萍，赵婷婷，唐玉瑞（西北师范大学地理与环境科学学院，甘肃省湿地资源保护与产业发展工程研究中心,甘肃 兰州730070）
+
+摘要：湿地景观格局能够反映湿地类型的面积变化和空间分布特征,其时空演变有助于理解干扰因子与湿地生态过程之间的作用关系。选择疏勒河中游的库塘湿地、永久性河流湿地和内陆盐沼等5种湿地类型,采用景观格局分析法和主成分分析方法,研究了湿地类型面积、景观指数时空演变及其影响因素。结果表明：（1）1987—2017年疏勒河中游湿地总面积减少了 $4 7 7 . 2 4 ~ \mathrm { k m } ^ { 2 }$ ,其中库塘湿地、永久性河流湿地和内陆盐沼面积分别减少了 $5 0 . 9 9 \%$ 、$5 3 . 2 8 \%$ 和 $3 5 . 7 8 \%$ ,草本沼泽和沼泽化草甸面积增加了 $1 7 5 . 2 6 \%$ 和 $2 1 . 8 9 \%$ 。(2）各湿地在景观水平和类型水平上，斑块密度和景观形状指数呈现波动增大趋势,湿地景观斑块趋向破碎化和零散分布。（3）2017年人口、耕地较1987年分别增加了1.2倍和1.5倍，社会经济发展主要指标对湿地面积变化的解释度为 $6 8 . 8 9 \%$ ，气候因子对其的解释度为$2 2 . 0 9 \%$ 。过去 $3 0 \mathrm { a }$ 人口增长、耕地扩张和水利工程建设导致了疏勒河中游湿地面积减少和景观破碎化。
+
+关键词：湿地；景观格局；影响因素；主成分分析；疏勒河中游
+
+湿地是水陆生态系统相互扩展延伸所形成的一种特殊生境[1],环境的复杂性、交错性和融合性使得湿地拥有独特的生态功能[2],其景观格局能够反映湿地斑块在空间上的排列和组合[3],是理解气候变化和社会经济活动与湿地生态系统之间协同适应的理论基础[4]。湿地景观格局是在一定时空范围内湿地斑块在面积、形状、类型转换等要素的配置和组合[5],探讨湿地空间分布格局及其变化趋势，能够体现气候因子和人类经济活动干扰综合作用下湿地景观破碎化等生态过程[6-7]。湿地景观格局变化及其影响机制分析是湿地生态学和景观生态学领域长期关注的热点问题[8]，定量监测湿地景观格局的时空分异规律，定性分析其与自然和人为干扰之间的关系，对湿地生态系统的保护与管理具有重要意义。内陆河中游地区具有高山向平原盆地过渡的地貌特征，经过沿途渗漏、蒸发和利用，径流沿程递减，汇集的向心式水系孕育了大片湿地。湿地生态系统的形成演变与流域水文系统存在密切关系，有限的地表径流在人为影响下处于不断波动变化中，稀缺的水资源与急剧增加的人口、土地及农业用水造成积水条件易变和湿地类型与边界的不确定性，致使疏勒河中游湿地大面积减少，破碎化加重，湿地生态系统及其功能退化严重，大片草地和绿洲面临被荒漠吞噬的威胁，影响着整个流域的生态安全。因此，研究中游地区湿地景观时空演变及其影响因素，对于认识中游地区社会经济发展过程中，水资源利用的程度和效率与湿地生态之间的关联性具有重要意义，为疏勒河流域湿地保护修复提供决策参考。
+
+疏勒河中游湿地资源丰富，该区域人口稠密，农田广布，湿地景观受人为影响较大，是研究气候、经济和农业对湿地景观变化影响的代表性区域。该区湿地生态水文过程面临人类活动、气候变化等诸多因素的影响，其所支撑的湿地生态系统也因此发生不同程度的变化，农业发展和水资源开发利用等社会经济活动直接或间接影响湿地生态水文过程，进而对整个湿地生态系统的结构和功能的稳定性产生深刻而持久的影响[1-12]。近年来,国内外学者用遥感和GIS手段对平原湿地[13]、滨海湿地[14]高寒湿地[15景观格局演变进行系统研究，学术界在黑河[6塔里木河、锡林河[18等内陆河流域围绕湿地景观格局演变与气温、降水和社会经济之间的驱动分析做了大量研究，对疏勒河流域的研究集中在生态承载力[19]、陆地水储量[20]、生态风险评价[21]和土地利用[22]等方面，关于湿地景观格局的研究鲜有报道，特别是疏勒河中游湿地景观变化与气候和人为干扰因子之间的影响机制认识尚不清楚。鉴于此，本文基于Landsat数据，采用GIS技术、景观格局分析和主成分分析法，研究了疏勒河中游1987—2017年湿地面积变化、类型转换与人口、耕地、库塘建设之间的关系，以期厘清近30a人类社会经济活动对湿地类型及景观变化的作用规律。
+
+# 研究区概况与方法
+
+# 1.1 研究区概况
+
+疏勒河位于我国河西走廊最西端，发源于祁连山脉西段拖来南山与疏勒南山，研究区地处疏勒河中游瓜州县(原安西县)境内(图1)，地理位置位于$3 9 ^ { \circ } 5 2 ^ { \prime } { \sim } 4 1 ^ { \circ } 5 3 ^ { \prime } \mathrm { N } .$ $9 4 ^ { \circ } 4 5 ^ { \prime } { \sim } 9 7 ^ { \circ } 0 0 ^ { \prime } \mathrm { E }$ ,海拔 $1 1 0 9 { \sim } 2 9 0 1$ $\mathrm { ~ m ~ }$ ,属温带大陆性气候,平均气温 $6 . 9 8 { \sim } 9 . 8 2 ~ \mathrm { ^ { \circ } C }$ ,多年平均降水量 $4 7 { \sim } 6 3 ~ \mathrm { m m }$ ,年蒸发量 $3 2 0 0 ~ \mathrm { m m }$ ，降水集中在夏季,土壤以灌淤土、风沙土、草甸土和沼泽土为主，植被以荒漠植被、沙生植被、湿生植被、沼生植被和盐生植被为主,主要植物有芦苇(Phragmitesaustralis）香蒲(Typhaorientalis）芨芨草(Achnather-umsplendens）怪柳(Tamarixchinensis）假苇拂子茅(Calamagrostis pseudophragmites）、花花柴（Kareliniacaspia）赖草（Leymussecalinus）苔草（Carexlasio-carpa）、嵩草(Kobresiamyosuroides）等，中游湿地主要发育于昌马冲积扇和中游冲积平原，湿地水分主要依靠疏勒河地表径流和地下泉水补给，
+
+![](images/f189ff6f60fd63d0ad58fd0c2c00fcec68c930d8ad00a59787d0f92487fc405c.jpg)  
+图1研究区位置示意图  
+Fig.1 Schematic diagram of study area location
+
+# 1.2数据及方法
+
+1.2.1 数据来源及处理参照《全国湿地资源调查与监测技术规程》，结合疏勒河中游水文地貌条件和湿地植被群落特征，将研究区的湿地划分为：河流湿地、人工湿地和沼泽湿地3类，永久性河流湿地、库塘湿地、草本沼泽、沼泽化草甸和内陆盐沼等5型。湿地类型的提取由1987—2017年的7期LandsatTM影像和LandsatOLI影像解译获得，对遥感影像进行图像增强和几何校正预处理，TM、OLI遥感数据分别以4、3、2和5、4、3波段进行标准假彩色合成，根据2019年野外湿地类型调查数据，结合研究区湿地植被类型及影像纹理、色彩特征建立湿地类型解译标志(表1)，采用ENVI5.3软件，通过监督分类和目视解译相结合的方法获取研究区湿地类型数据。为提高解译精度，将包含各湿地类的314个野外实地采样点中的200个用于建立解译标志，其余114个采样点用于对湿地分类的精度验证分析和订正，且对分类结果进行编辑、修改，手动将错分、漏分的对象赋予正确的属性，最终分类总体精度在 $7 5 \%$ 以上，符合本文研究的精度要求。气温和降水数据来自中国气象科学数据共享网(http://data.cma.cn/），社会经济数据来源于《新中国60年·甘肃》（1949—2009）、《甘肃发展年鉴》（2013）、《瓜州县2017年国民经济和社会发展统计公报》、《瓜州县(九五十五)统计年鉴》(1996—2005)和已有文献研究结果[23]。
+
+1.2.2景观格局分析方法众多分析景观格局演变的方法中，如定性描述法、景观格局数量分析法和景观生态图叠置法，景观格局指数对景观格局的定量描述在相关研究中应用较为广泛。本文从景观密度大小及景观形状差异两方面选取斑块密度（PatchDensity,PD）和景观形状指数（LandscapeShapeIndex，LSI)来表征研究区湿地景观的破碎化过程。斑块密度(PD)值越大，说明景观破碎化程度越高;景观形状指数(LSI)越小，表明景观形状越规则，值越大，表明景观形状趋于复杂化。
+
+1.2.3主成分分析定量辨识生态系统退化的影响因素研究中，主成分分析法已经广泛应用于生态、地理等领域[24]。湿地类型变化的影响因子包括气候和人类经济活动，气候条件对湿地资源的影响主要表现在气温和降水两方面4，以人口增加和经济发展为表征的人为活动干扰对湿地景观的驱动也日渐突出8，故选取年均温、年降水量、总人口、地区生产总值、耕地面积、第一产业值6个影响指标。采用SPSS22.0软件对本文选取指标做主成分分析，进而探讨疏勒河中游湿地景观演变的主要影响因素。
+
+表1疏勒河中游湿地景观类型及其解译标志  
+Tab.1Landscape types and interpretation marks in alpine wetland of middle reaches of the Shule River   
+
+<html><body><table><tr><td>湿地类</td><td>湿地型</td><td>景观特征</td><td>遥感影像特征</td><td>543波段 组合显示</td><td>野外实地图片</td></tr><tr><td>河流湿地</td><td>永久性河流湿地</td><td>有明显水面、河道以及水流痕迹</td><td>呈条带状分布，边界清晰，呈绿 色、浅绿色,影纹均匀</td><td></td><td></td></tr><tr><td>人工湿地</td><td>库塘湿地</td><td>水面规则明显，不杂乱，无其他景 观交叉</td><td>形状规则,纹理均一,呈深蓝色</td><td></td><td></td></tr><tr><td rowspan="4">沼泽湿地</td><td>草本沼泽</td><td>分布于水体边缘，团状、块状簇拥 集中，参杂裸露水面</td><td>形状不规则，呈黑红色或深红 色，影纹不均、粗糙</td><td></td><td></td></tr><tr><td>沼泽化草甸</td><td>分布于草本沼泽边缘，地势平坦、 低洼处，景观较为均质，植被以苔 草、嵩草为主</td><td>片状分布，边界不规则，呈浅红 色,纹理比较均匀</td><td></td><td></td></tr><tr><td>内陆盐沼</td><td>集中连片,生长着芨芨草、赖草、芦 苇，因植被盖度和类型不一，景观 有明显的穿插现象</td><td>片状分布，有交叉纹路，呈淡红 色或浅灰色</td><td></td><td></td></tr><tr><td></td><td>主要以泌盐植物怪柳为优势种，地 表长有高度较低的芦苇和赖草，面 积较大</td><td>有点状、团簇状的红色斑点，质 地粗糙</td><td></td><td></td></tr></table></body></html>
+
+# 2结果与分析
+
+# 2.1湿地类型面积变化分析
+
+研究区湿地主要分布在疏勒河河道两岸和踏实盆地(图2)，永久性河流湿地广泛分布于疏勒河中游主河道，库塘湿地主要建设在主河道旁或绿洲内部耕地和村庄边缘，草本沼泽主要分布于疏勒河河漫滩和库塘湿地周边以及地下水和泉水出露带，沼泽化草甸主要分布于草本沼泽外围，内陆盐沼大部分分布在冲积扇外端和河滩外围。
+
+1987—2017年疏勒河中游湿地面积呈减少趋势（图3），总面积减少了 $4 7 7 . 2 4 ~ \mathrm { k m } ^ { 2 }$ ，降幅 $2 8 . 3 0 \%$ 。各类湿地类型的面积变化存在差异性，其中，库塘湿地、永久性河流湿地和内陆盐沼湿地面积均呈波动减少趋势，分别从1987年的 $2 3 . 2 6 \mathrm { k m } ^ { 2 } \setminus 1 8 8 . 3 8 \mathrm { k m } ^ { 2 }$ 和 $1 2 7 1 . 0 2 \mathrm { k m } ^ { 2 }$ 减少至2017年的 $1 1 . 4 \mathrm { k m } ^ { 2 } . 8 8 . 2 2 \mathrm { k m } ^ { 2 }$ 和 $8 1 6 . 6 8 ~ \mathrm { { k m } } ^ { 2 }$ ，降幅分别为 $5 0 . 9 9 \%$ 、 $5 3 . 2 8 \%$ 和$3 5 . 7 8 \%$ ;2017年草本沼泽和沼泽化草甸面积较1987年增加了 $5 0 . 9 3 \ \mathrm { k m } ^ { 2 }$ 和 $3 8 . 1 9 \mathrm { ~ k m } ^ { 2 }$ ,增幅为 $1 7 5 . 2 6 \%$ 和$2 1 . 8 9 \%$ 。
+
+# 2.2疏勒河中游湿地景观格局指数变化分析
+
+2.2.1景观水平上景观格局指数变化从不同时期疏勒河中游地区湿地景观水平上景观指数变化趋势可知（图4），1987—2017年期间，斑块密度(PD)整体呈先减小后增加趋势，其中，2007年斑块密度(PD)达到最小值为1.94,1987—2002年，斑块密度(PD)变化较为稳定，2007—2017年急剧增加，主要由于人类活动强度增加，斑块破碎化程度加重；景观形状指数(LSI)呈先增加后减小再增加的波动变化，最小值出现在研究初期(1987)为18.59，最大值出现在研究末期(2017)为64.58，景观形状指数(LSI)增加2.47倍，说明整个研究期间，湿地景观因受到人为干扰，边缘形状趋向复杂化。
+
+2.2.2类型水平上景观格局指数变化疏勒河中游各湿地景观格局指数变化趋势如图5所示，各湿地斑块密度(PD)均呈现增加趋势，湿地斑块均趋向破碎、零散分布。1987—2017年，库塘湿地斑块密度(PD)最小，总体稳定在 $0 . 0 0 2 { \sim } 0 . 0 3 0 , 2 0 1 7$ 年达到最大值0.035;永久性河流湿地斑块密度(PD)最小值出现在1997年，2017年增至最大0.74;1987—2007年草本沼泽斑块密度(PD)呈波动下降，之后呈显著增加趋势，2017年达多年最高值0.94；1987—2012年沼泽化草甸斑块密度(PD)呈波动减小趋势，之后又显著增加，2017年达多年最高为1.88；内陆盐沼斑块密度(PD)呈先减小后增加的趋势，1992年最小为0.47，2017年增至最大为2.17。
+
+![](images/8f5cbe14e0e7d4350da05e213ced4fde82f1ba268dd8456557b22505e7b26625.jpg)  
+Fig.2Wetland types in the middle reaches of Shule River from 1987 to 2017
+
+![](images/a6724703ec7d68f4b05e799db1780e52fa7b0dc1f283681d8c89e1456fd46cb8.jpg)  
+图21987—2017年疏勒河中游湿地类型  
+图3湿地类型面积变化  
+Fig.3Map of area changes of wetlands
+
+![](images/79889268e5c5d84193b35919107cb6fc5d0f51dbfd94a4d1a98a228ade5988bf.jpg)  
+Fig.4Inter-annual changes of PD and LSI in landscape-level
+
+![](images/cc4c28784ea392edcd0cd7930a4ac2387acf2fef5878a21f6856d28e44bbe577.jpg)  
+图4景观级别PD和LSI指数年际变化  
+图5类型水平的PD和LSI指数年际变化  
+Fig.5Inter-annual changes of PD and LSI in class-level
+
+各湿地景观形状指数(LSI)均呈现增加趋势，说明各类湿地边界受损严重，形状趋向复杂化。库塘湿地的景观形状指数(LSI)表现出先减小后增加的趋势，2017年达到最大值13.88；永久性河流湿地景观形状指数(LSI)呈现波动增加趋势，1992年景观形状指数(LSI)达前15a最大(113.92），2017年较1987年增加11;草本沼泽景观形状指数(LSI)呈先下降后增加态势,2017年达到多年最高值(109.41);沼泽化草甸景观形状指数(LSI)在研究期间波动性较大，最大值出现在2017年(174.85)；内陆盐沼景观形状指数(LSI)在1992年达到最低值为81.91，之后呈现波动增加趋势，2017年达到最大(179.01)。
+
+# 2.3疏勒河中游湿地景观变化影响因素分析
+
+2.3.1气温、降水年际变化对中游区内瓜州县  
+1987一2017年年降水量和年均温变化情况进行分
+
+析，该区年降水量和年均温总体呈上升趋势，多年平均气温为 $6 . 7 ~ \mathrm { ^ { \circ } C }$ ,年均温上升速率为 $0 . 0 4 ~ \mathrm { ^ { q } C \cdot a ^ { - 1 } }$ 多年平均降水量为 $6 8 . 9 \ \mathrm { m m }$ ,波动范围在 $2 3 . 4 \sim$ $1 0 7 . 7 ~ \mathrm { m m }$ ,年降水量上升速率为 $\boldsymbol { 0 . 1 8 \ \mathrm { m m } \cdot \mathrm { a } ^ { - 1 } }$ ,2017年降水量较平均高 $5 . 8 1 \%$ ,相较于降水量的变化,该区年均温的年际变化更大，且最大值出现在2017年为 $7 . 6 ~ \mathrm { ^ { \circ } C }$ 。
+
+2.3.2社会经济发展近30a瓜州县的主要社会经济发展指标如表2，2017年瓜州县总人口较1987年增长了1.2倍，2007—2012年增长速度最快为$2 5 . 7 0 \%$ ;生产总值由1987年的 $0 . 6 7 \times 1 0 ^ { 8 }$ 元增长至2017年的 $7 2 . 4 1 \times 1 0 ^ { 8 }$ 元，增长了107.1倍；耕地面积和第一产业分别增长了1.5倍和33.0倍，耕地面积的扩张主要依靠“两西项目”、疏勒河流域移民项目和九甸峡移民项目实施后对当地湿地资源和草地资源的围垦开荒[25]
+
+2.3.3湿地影响因素的主成分分析从表3可以看出，第一主成分中，总人口、地区生产总值、耕地面积和第一产业值的载荷量均高达0.8,而年均温和年
+
+Tab.2 Main social and economic indicators of Guazhou County   
+
+<html><body><table><tr><td>年份</td><td>总人口/10人</td><td>地区生产总值/10元</td><td>耕地面积/10 hm</td><td>第一产业值/10元</td></tr><tr><td>1987</td><td>6.8</td><td>0.67</td><td>1.45</td><td>0.35</td></tr><tr><td>1992</td><td>7.6</td><td>1.47</td><td>1.53</td><td>0.64</td></tr><tr><td>1997</td><td>9.07</td><td>5.22</td><td>1.58</td><td>2.05</td></tr><tr><td>2002</td><td>9.79</td><td>7.86</td><td>1.61</td><td>3.13</td></tr><tr><td>2007</td><td>11.71</td><td>17.52</td><td>2.40</td><td>5.01</td></tr><tr><td>2012</td><td>14.72</td><td>60.64</td><td>3.71</td><td>8.24</td></tr><tr><td>2017</td><td>14.96</td><td>72.41</td><td>3.68</td><td>11.89</td></tr></table></body></html>
+
+# 表3气候、人为因素与湿地类型变化主成分因子载荷矩阵
+
+表2瓜州县主要社会经济指标  
+Tab.3 Principal component factor load matrix of climate,human factors and wetland type change   
+
+<html><body><table><tr><td>指标</td><td>主成分1</td><td>主成分2</td></tr><tr><td>年均温/C</td><td>0.23</td><td>0.93</td></tr><tr><td>年降水量/mm</td><td>0.67</td><td>-0.58</td></tr><tr><td>总人口/人</td><td>0.97</td><td>0.01</td></tr><tr><td>地区生产总值/元</td><td>0.97</td><td>0.04</td></tr><tr><td>耕地面积/hm²</td><td>0.89</td><td>0.29</td></tr><tr><td>第一产业值/元</td><td>0.96</td><td>0.17</td></tr><tr><td>方差贡献率/%</td><td>68.89</td><td>22.09</td></tr></table></body></html>
+
+降水量对湿地变化的载荷量较低，说明第一主成分中人类经济活动对湿地面积变化的影响要远大于气候因子;第二主成分中，年均温对湿地变化的载荷量较高，总人口、生产总值和农业发展等各指标的载荷量均在0.3以下，与第一主成分中不同的是年均温的载荷量在第二主成分中有所提升，达到0.93，年降水量的载荷量依旧较低，说明降水量的变化对中游湿地生态作用较小。总体来看，以社会经济活动为代表的第一主成分解释了总变量的$6 8 . 8 9 \%$ ，以气候因子为代表的第2主成分解释了总变量的 $2 2 . 0 9 \%$ ,研究区湿地类型变化的主导因素是人类经济活动，1987一2017年，研究区人口呈直线上升趋势,经济发展迅猛,地区生产总值持续增长，同时耕地面积协同第一产业持续攀升，人口增加、经济发展对水资源需求量的增大，挤占湿地用水造成湿地水源补给短缺，围垦、排十、改造农田等活动直接改变原有湿地基质，导致中游湿地面积萎缩破碎，形状趋向不规则。该区湿地因包气带的存在，湿地水源补给主要来自河水和地下水，湿地土壤水带和毛管水带对地表水的存贮使得气温降水变化作为大背景对中游地区湿地类型干扰作用较小。
+
+# 3讨论
+
+# 3.1湿地类型变化影响因素分析
+
+水文过程在湿地发育、演替直至消亡的全过程中起着重要作用[26]。气候变化和人类活动共同作用于湿地变化，本文研究范围有限时间跨度相对较短，人类主导的社会经济活动是湿地面积变化最直接和最强烈的驱动因子，其影响往往掩盖了气候变化对湿地面积变化的贡献[27]。研究发现近30a疏勒河中游湿地总面积整体呈减小趋势，各型湿地面积变化不一，库塘湿地、永久性河流湿地和内陆盐沼湿地面积呈下降趋势，草本沼泽和沼泽化草甸呈上升趋势(图3)，气候因子在第1主成分中载荷量较低(表3），对湿地类型和景观的影响过程具有明显的滞后性[，湿地变化对降水和气温的响应并不显著，社会经济活动是导致湿地面积变化的主要因素。瓜州光热资源丰富、土地资源富饶,易于开垦且成本较低，自1984年以来，先后实施"两西"移民、疏勒河农业灌溉暨移民安置、九甸峡库区移民等3大项目工程,1987—2007年人口增加 $7 2 . 2 1 \%$ (表2)，为解决移民生产生活和收入问题,大面积的沙荒地和林草地被开垦为农田和作为移民安置基地[2，伴随着经济快速发展，土地资源无节制的开垦，使原本有限的水资源量与农业灌溉之间矛盾加剧；为解决灌溉、生活用水不足等问题，昌马水库于2003年建成蓄水，造成疏勒河中游洪峰向两岸扩张范围减小，河道水体与湿地水文之间的补给交换减弱；以及建设的田间配套渠系工程在满足农业灌溉的同时使分散的地表水归整，中游水量减少、河流改道，影响了湿地的生态用水，且温度升高导致蒸发量增大，在降水稀少的条件下，降水对湿地的生态作用无法得到体现，水利设施的建设造成1987一2007年湿地面积萎缩近 $1 3 . 4 7 \%$ 。21世纪初，实施的节水型社会建设工程，通过大范围推广垄膜沟灌等高效农田节水技术，调整高耗水农业种植结构，有效提高了水资源利用效率，解决了该区水资源供需矛盾，灌区用水出现富裕，在土地综合开发政策的影响下，研究区掀起了第二次土地开发高潮，致使绿洲外围盐沼湿地被大面积开垦，2007年后湿地总面积呈现下降态势。
+
+水利工程修建在造福人类社会的同时，也带来河流水文情势和生态环境的变化，进而对湿地生境、生态水文过程构成影响[28]。该区降水虽有所增加但不足以维持湿地生态用水，在湿地总面积减少的同时，永久性河流湿地、库塘湿地和内陆盐沼面积萎缩(图3)，主要原因是随着昌马水库蓄水、双塔水库泄洪渠加固和自溃坝防渗处理，以及灌区输水渠系的建设，河水被囿于狭窄的河槽或引入灌渠，渗漏率显著降低，在地下水位波动下降过程中深部包气带土层因排水压密作用，使得土壤水力特性发生变化，垂向入渗补给减少，无法通过补径排作用转为地表水补给湿地，塘坝和天然池塘因水源补给短缺库塘湿地萎缩近 $5 0 . 9 9 \%$ ；水利拦蓄工程的修建改变了天然河道的水文特性，径流受人为控制强烈，在对水资源进行有效调配的同时，极大减小了洪枯流量倍比，中下游水资源紧缺现象日渐加剧，河道水量减少永久性河流湿地面积缩减 $5 3 . 2 8 \%$ ；人口的过度增长和水利设施日益完善，该区大面积盐沼湿地被经过人为改良后成为优质耕地，加之过度放牧以及对盐沼地植被的砍挖致使内陆盐沼湿地面积萎缩近 $3 5 . 7 8 \%$ ,这与相关研究[29-31]结果相一致。
+
+湿地是在水环境规律性和随机性交替演化的环境下形成[32]，水分是制约湿地发育、演替的主要因素[33]。随着区域水文环境的变化,疏勒河中游主要湿地类型之间发生了转化。草本沼泽和沼泽化草甸分布在排水不畅、受地表水和地下水浸润的塘坝和河流周边水位较浅的滞水洼地。随着水库建设和渠系配套设施的完善，库塘补给水源下降，中心地带和外围因泥沙蓄滞局部微弱抬升，水位变浅，中游因水库的蓄水截流作用水面缩减，河流发育河曲形成牛轭湖，为通气组织发达的挺水植物和湿生草本植物提供了发育条件，草本沼泽面积因此扩展，地势较高处发育沼泽草甸；中游灌区人为有计划地合理安排生态输水，林草地灌水，河道两岸沼泽湿地水源得到了有效补给，稀缺的降水也为植被缓慢恢复提供了资源条件，草本沼泽和沼泽化草甸面积分别增加 $1 7 5 . 2 6 \%$ 和 $2 1 . 8 9 \%$ ○
+
+# 3.2湿地景观破碎化影响因素分析
+
+湿地景观破碎化是景观由单一、连续趋向复杂、分散的过程[34],通过湿地的生态过程和水文过程对人类活动的干扰响应敏感,主要表现为斑块数量增加导致密度增大，斑块形状趋于不规则，内部生境面积缩小及斑块彼此分离。研究发现人类经济活动对湿地面积的干扰与景观破碎化之间关系密切,各型湿地均呈现斑块密度增大、形状复杂化、景观趋向破碎化的趋势(图5)。疏勒河中游各型湿地景观破碎化影响因素如下：（1）库塘湿地景观破碎主要由于该区受水资源短缺的限制，大兴水利设施，修建的塘坝数量增多，直接导致库塘湿地斑块密度增大，随着绿洲扩大，自然河道消失，补给水源减少，库塘面积萎缩、水位变浅转化为其他湿地类型的过程中，湿地边缘形状趋向复杂化。(2）永久性河流湿地主要受水库截流和田间渠系设施完善大量引水灌溉，河道水量锐减，河流分支增多，斑块密度增大，湿地面积缩减，在河流水面内缩，水位变浅转为草本沼泽和沼泽化草甸的过程中景观形状趋向复杂。(3）草本沼泽因塘坝和河流整体水量补给减少后,水位下降,水面内缩,边缘由于泥沙淤积和来水量减少局部区域露出水面，在滞水嫌气的条件下植物残体和根系不易分解，发育了面积较小的草本沼泽,使草本沼泽斑块数量增多,面积增大,斑块密度加强，但由于各小斑块之间零散分布，并未连通，因而湿地景观形状复杂。(4）库塘干涸、河流萎缩地势较高处转为沼泽化草甸，斑块数量增多，对其面积扩展有积极作用，由于草甸是该区优质的放牧场所，在移民增加、畜牧过载的情况下，牛羊践踏和过度啃食部分草甸植被出现退化,大面积连片草甸之间链接断裂，小斑块数量增多，斑块密度增大，造成沼泽草甸边缘形状复杂化。(5）移民项目实施后由于生产生活条件差、收入来源比较单一，农村居民为满足生活需要，红柳、梭梭、白刺等盐沼植物被砍挖，导致盐沼地表植被严重损伤，增加了盐沼边缘形状的复杂度，减弱了连通性，盐沼地的围垦和田间渠系工程建设使集中连片的湿地相互隔离，不适耕种的盐沼地被残留下来呈小斑块零碎分布，斑块密度增加。人口增加、耕地无序扩张、田间渠系工程和人类破坏造成各型湿地破碎化加重的同时，中游湿地整体也呈空间离散化分布，湿地形状趋向复杂，景观内部破碎化程度增大。
+
+# 4结论
+
+1987—2017年疏勒河中游湿地面积减少了$2 8 . 3 0 \%$ ，受湿地水文过程的影响，草本沼泽和沼泽化草甸因库塘和水面缩减以及生态灌水提供了有利资源条件，面积分别增加 $5 0 . 9 3 ~ \mathrm { k m } ^ { 2 }$ 和 $3 8 . 1 9 \ \mathrm { k m } ^ { 2 }$ 库塘湿地、永久性河流湿地和内陆盐沼湿地在人口激增、水利工程建设和农业发展过程的扰动下湿地面积减小 $1 1 . 8 6 \ \mathrm { k m } ^ { 2 } \setminus 1 0 0 . 1 6 \ \mathrm { k m } ^ { 2 }$ 和 $4 5 4 . 3 4 ~ \mathrm { k m } ^ { 2 }$ 。景观格局指数在景观和类型水平受人类社会经济活动的干扰均呈增加趋势,湿地景观破碎化严重。农业社会经济活动是中游湿地面积萎缩破碎的主要因素，贡献力达 $6 8 . 8 9 \%$ ，气候变化对湿地变化的贡献力仅有 $2 2 . 0 9 \%$ ,被人类经济活动的影响所掩盖。内陆河中游湿地类型面积变化及景观破碎是一个复杂而紊乱的生态水文过程，今后还需深入探讨地下水埋深、土壤全盐量、干旱指数等因素对湿地面积和景观变化的影响。
+
+# 参考文献(References):
+
+[1] Zhao Wenzhi,Liu Bing,Zhang Zhihui.Water requirements of maize in the middle Heihe River Basin,China[J].Agricultural Water Management, 2009,97(2): 215-223.   
+[2] 徐晓龙,王新军，朱新萍，等.1996—2015年巴音布鲁克天鹅湖 高寒湿地景观格局演变分析[J].自然资源学报,2018,33(11): 1897-1911.[Xu Xiaolong,Wang Xinjun, Zhu Xinping,et al.Landscape pattern changes in alpine wetland of Bayanbulak Swan Lake during 1996-2015[J]. Journal of Natural Resources,2018,33(11): 1897-1911.]   
+[3] Cui Lu, Zhao Yonghua,Liu Jianchao,et al. Landscape ecological risk assessment in Qinling Mountain[J]. Geological Journal, 2018, 53:342-351.   
+[4] Gong Peng,Niu Zhengguo,Cheng Xiao,et al.China’s wetland change (1990-200O) determined by remote sensing[J]. Science China (Earth Sciences),2010,53(7): 1036-1042.   
+[5] 黄型,徐丽萍.玛纳斯河流域绿洲时空演变及其景观格局变化 [J].干旱区研究,2019,36(5): 1261-1269.[Huang Li,Xu Liping. Spatiotemporal evolution of the oasis and change of landscape pattern in the Manas River Basin[J].Arid Zone Research,2019,36 (5): 1261-1269.]   
+[6]吴金华,房世峰,刘宝军,等.乌裕尔河—双阳河流域湿地景观 格局演变及其驱动机制[J].生态学报,2020,40(13):4279- 4290.[Wu Jinhua,Fang Shifeng,Liu Baojun, etal. Landscape pattern evolution of wetland and its driving mechanism in Wuyuer-Shuangyang River Basin[J]. Acta Ecologica Sinica, 2020,40(13): 4279-4290.]   
+[7]孙鸿超,张正祥.吉林省松花江流域景观格局脆弱性变化及其 驱动力[J].干旱区研究,2019,36(4):1005-1014.[Sun Hongchao, Zhang Zhengxiang. Change of landscape patern vulnerabilityinthe Songhua River Basin in Jilin Provinceand itsdriving forces[J]. Arid Zone Research,2019,36(4): 1005-1014.]   
+[8]王晓峰,延雨,李月皓,等.银川市湿地景观演变及其驱动因素 [J].干旱区研究,2021,38(3): 855-866.[Wang Xiaofeng,Yan Yu, Li Yuehao,et al.Wetland landscape evolution and its driving factors in Yinchuan[J]. Arid Zone Research,2021,38(3): 855-866.]   
+[9]Chen Ang, Sui Xin, Wang Dongsheng,et al.Landscape and avifauna changes as an indicatorof Yellow River Delta Wetland restoration[J].Ecological Engineering,2016,86: 162-173.   
+[10]王效科,欧阳志云,苗鸿.中国西北干旱地区湿地生态系统的形 成、演变和保护对策[J].国土与自然资源研究,2003,25(4):52- 54.[Wang Xiaoke, Ouyang Zhiyun, Miao Hong.Formation, evalution and protection of wetland ecosystems in arid region,Northwestern China[J]. Territory and Natural Resources Study,2003,25 (4): 52-54.]   
+[11] 姚鑫,杨桂山,万荣荣,等.水位变化对河流、湖泊湿地植被的影 响[J].湖泊科学,2014,26(6):813-821.[Yao Xin, Yang Guishan, Wan Rongrong, et al. Impact of water level change on wetland vegetation of rivers and lakes[J]. Journal of Lake Sciences,2014,26 (6): 813-821.]   
+[12] 章光新,武瑶,吴燕锋,等.湿地生态水文学研究综述[J].水科学 进展,2018,29(5): 737-749.[Zhang Guangxin,Wu Yao,Wu Yanfeng,et al.A review of research on wetland ecohydrology[J].Advances in Water Science,2018,29(5): 737-749.]   
+[13]Liu Guilin, Zhang Luocheng,Zhang Qian, et al. Spatio-temporal dynamics of wetland landscape pattrns based on remote sensing in Yellow River Delta, China[J].Wetlands,2014,34(4): 787-801.   
+[14] Zhang Yujuan, Qu Jianguang,Li Dan. Evolution and prediction of coastal wetland landscape pattern: An exploratory study[J]. Journal of Coastal Research,2020,106(Suppl.): 553-556.   
+[15]王根绪,李元寿,王一博,等.近40 a来青藏高原典型高寒湿地 系统的动态变化[J].地理科学,2007,62(5):481-491.[Wang Genxu,Li Yuanshou,Wang Yibo,et al. Typical alpine wetland system changesonthe Qinghai-Tibet Plateau in recent 40 years[J]. Acta Geographica Sinica, 2007,62(5): 481-491.]   
+[16] 赵锐锋,姜朋辉,赵海莉,等.黑河中游湿地景观破碎化过程及 其驱动力分析[J].生态学报,2013,33(14):4436-4449.[Zhao Ruifeng,Jiang Penghui, Zhao Haili, et al. Fragmentation process of wetlands landscape in the middle reaches of the Heihe River anditsdrivingfesnalysis[J].ActaEologicaSnica,13 (14): 4436-4449.] [17] 曾光,高会军,朱刚.塔里木河三源流区湿地演化特征遥感分析 [J].干旱区资源与环境,2014,28(3):68-73.[Zeng Guang,Gao Huijun, Zhu Gang.Wetland evolution process of the three headwaters in the upper reaches of the Tarim River watershed based on RS[J]. Journal of Arid Land Resources and Environment, 2014, 28 (3): 68-73.] [18] 周亚军,刘廷玺,段利民,等.锡林河流域上游河谷湿地景观格 局演变及其驱动力[J].干旱区研究,2020,37(3):580-590. [Zhou Yajun,Liu Tingxi, Duan Limin,et al.Driving force analysis and landscape pattern evolution in the upstream valley of Xilin River Basin[J]. Arid Zone Research,2020,37(3): 580-590.] [19] 岳东霞,陈冠光,朱敏翔,等.近20a疏勒河流域生态承载力和 生态需水研究[J].生态学报,2019,39(14): 5178-5187.[Yue Dongxia, Chen Guanguang,Zhu Minxiang,et al. Biocapacity and ecological water demand in Shule River Basin over the past 20 Years[J]. Acta Ecologica Sinica,2019,39(14): 5178-5187.] [20] 岳东霞,苗俊霞,朱敏翔,等.疏勒河流域陆地水储量与植被指 数的时空耦合关系[J].生态学报,2019,39(14):5268-5278. [Yue Dongxia, Miao Junxia, Zhu Minxiang,et al.Spatio-temporal coupling between terrestrial water storageand VegetationIdex in Shule River Basin[J].Acta Ecologica Sinica,2019,39(14): 5268-   
+5278.] [21] 潘竟虎,刘晓.疏勒河流域景观生态风险评价与生态安全格局 优化构建[J].生态学杂志,2016,35(3):791-799.[Pan Jinghu, Liu Xiao.Landscape ecological risk assessment and landscape security pattern optimization in Shule River Basin[J]. Chinese Journal of Ecology,2016,35(3): 791-799.] [22]DaFuwen,Chen Xingpeng,Qi Jinghui.Spatiotemporalcharacteris tic of land use/land cover changes in the middle and lower reaches of Shule River Basin basedonanintensityanalysis[J].Sustainbility, 2019, 11(5): 1-19. [23] 章予舒,王立新,张红旗,等.疏勒河流域土地利用变化驱动因 素分析—以安西县为例[J].地理科学进展,2003,22(3):170-   
+178.[Zhang Yushu,Wang Lixin, Zhang Hongqi,et al. An analysis on land use changes and their driving factors in Shule River: An example from Anxi County[J]. Progress in Geography,2003, 22(3):   
+170-178.] [24］杜际增,王根绪,杨燕,等.长江黄河源区湿地分布的时空变化 及成因[J].生态学报,2015,35(18):6173-6182.[Du Jizeng, Wang Genxu, Yang Yan,et al. Temporal and spatial variation of the distributive paternsand driving force analysis in the Yangtze River and Yellow River source regions wetland[J]. Acta Ecologica Sinica,2015,35(18): 6173-6182.] [25] 常跟应,张文侠.基于生态文明的疏勒河流域大规模移民反思 [J].兰州大学学报(自然科学版),2014,50(3): 405-409.[Chang Genying,Zhang Wenxia. Ecological civilization-based rethinking of large-scale immigration and land development along Shule River [J]. Journal of Landzhou University (Natural Sciences),2014,50 (3): 405-409.]   
+[26] 章光新,武瑶,吴燕锋,等.湿地生态水文学研究综述[J].水科学 进展,2018,29(5): 737-749.[Zhang Guangxin,Wu Yao,Wu Yanfeng, et al. A review of research on wetland ecohydrology[J]. Advances inWater Science,2018,29(5): 737-749.]   
+[27] 李山羊,郭华明,黄诗峰,等.1973—2014年河套平原湿地变化 研究[J].资源科学,2016,38(1):19-29.[Li Shanyang,Guo Huaming,Huang Shifeng et al.Variation in Hetao Basin wetlands from 1973 to 2014[J]. Resources Science,2016,38(1): 19-29.]   
+[28] 刘彩红,王,曾平,等.丹江口水库水源地生态节地型人工湿 地设计——以内乡县温家堰河内源治理与湿地修复工程为例 [J].农业开发与装备,2020,25(3):77-78.[Liu Caihong,Wang Chong,Zeng Ping,et al. Design of ecological land saving constructed wetland in Danjiangkou Reservoir:Taking wenjiayanriver source control and wetland restoration project in Neixiang County as an example[J]. Agricultural Development Equipments,2020, 25(3): 77-78.]   
+[29] 吕金霞,蒋卫国,王文杰,等.近30a来京津冀地区湿地景观变 化及其驱动因素[J].生态学报,2018,38(12): 4492-4503.[Lyu Jinxia, Jiang Weiguo,Wang Wenjie,etal. Wetland landscape pattern change and its driving forces in Beijing-Tianjin-Hebei region in recent 30 years[J].Acta Ecologica Sinica,2018,38(12): 4492- 4503.]   
+[30] 张敏,宫兆宁,赵文吉,等.近30a来白洋淀湿地景观格局变化 及其驱动机制[J].生态学报,2016,36(15):4780-4791.[Zhang Min,Gong Zhaoning, Zhao Wenji, et al.Landscape pattern change and the driving forces in Baiyangdian wetland from 1984 to 2014 [J]. Acta Ecologica Sinica,2016,36(15): 4780-4791.]   
+[31] 赵锐锋,姜朋辉,赵海莉,等.土地利用/覆被变化对张掖黑河湿 地国家级自然保护区景观破碎化的影响[J].自然资源学报, 2013,28(4): 583-595.[Zhao Ruifeng,Jiang Penghui, Zhao Haili, et al.Effect of land use/cover change on landscape fragmentation of Zhangye Heihe National Wetland Nature Reserve[J]. Journalof Natural Resources, 2013, 28(4): 583-595.]   
+[32]Yu Haiyang, Zhang Fei, Kung Hsiang Te,et al.Analysis of land cover and landscape change patterns in Ebinur Lake Wetland National Nature Reserve,China from1972 to 2013[J].Wetlands Ecology and Management,2017,25(5): 619-637.   
+[33] 刘吉平,李艾玉,田学智,等.三江平原孤立湿地的形成及主要 类型[J].湿地科学,2014,12(2):141-147.[Liu Jiping,Li Aiyu, Tian Xuezhi,et al.Formation and main types of isolated wetlands in Sanjiang Plain[J]. Wetland Science,2014,12(2): 141-147.]   
+[34] 张金茜,巩杰,柳冬青.地理探测器方法下甘肃白龙江流域景观 破碎化与驱动因子分析[J].地理科学,2018,38(8):1370-1378. [Zhang Jinxi, Gong Jie,Liu Dongqing. Dynamics and driving factors of landscape fragmentation based on Geo Detector in the Bailongjiang Watershed of Gansu Province[J]. Scientia Geographica Sinica,2018,38(8): 1370-1378.]
+
+# Spatial-temporal evolution of wetland landscape patterns and its influencing factors in the middle reaches of the Shule River
+
+WANG Yufang， ZHAO Chengzhang， ZENG Hongxia， KANG Manping, ZHAO Tingting， TANG Yurui (College of Geographyand Environmental Science,Northwest Normal University,Research Centerof Wetland Resources Protection and Industrial Development Engineering of Gansu Province,Lanzhou 73oO7o,Gansu,China)
+
+Abstract: Wetland landscape paterns can reflect the area variations and the spatial distribution characteristics of wetland types;and their spatio-temporal evolution assists in understanding the relationship between disturbance factors and wetland ecological processes.In this paper， five wetland types—including reservoir wetland, permanent river wetland,and inland salt marsh—were selected for analysis in the middle reaches of the Shule River in China.Landscape patern,correlation,and principal component analysis were used to study the area of these wetland types,the spatio-temporal evolution of the landscape index and its influencing factors.The results show that: (1)In the past 3O years,the total area of wetlands in the middle reaches of the Shule River decreased by $4 7 7 . 2 4 ~ \mathrm { k m } ^ { 2 }$ . Among the wetland types,reservoir wetlands,permanent river wetlands,and inland salt marshes decreased by $50 . 9 9 \%$ ， $5 3 . 2 8 \%$ ，and $3 5 . 7 8 \%$ ，respectively, whereas the herb marsh and swamp meadow areas increased by $1 7 5 . 2 6 \%$ and $2 1 . 8 9 \%$ ,respectively.(2） At the landscape and class levels,the patch density and landscape shape index of each wetland type showed a trend of fluctuation and increase,and the patch density of the wetland landscape tended to be fragmented and scatered. (3) In 2017,the population and cultivated land experienced a 1.2-fold and $1 . 5 \textless$ fold increase,respectively, compared with 1987.The interpretation degree of the main indicators of social and economic development on wetland area change was $6 8 . 6 9 \%$ , and that of climatic factors was $2 2 . 0 9 \%$ . Population growth, farmland expansion, and water conservancy projects over the past 30 years led to the reduction of wetland areas and landscape fragmentation in the middle reaches ofthe Shule River.
+
+Keywords: wetland; landscape pattrm； influencing factors; principal component analysis；middle reaches of the Shule River

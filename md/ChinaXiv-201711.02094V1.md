@@ -1,0 +1,198 @@
+金银花提取物对蛋鸡生产性能、蛋品质、脂质代谢及蛋黄胆固醇含量的影响龙彬李周权\* 董国忠 王庆争 余忠稳（西南大学动物科技学院，重庆400716)
+
+摘要：本试验旨在研究饲粮中添加不同水平的金银花提取物对蛋鸡生产性能、蛋品质、脂质代谢及蛋黄胆固醇含量的影响。试验选用34周龄体况健康、产蛋率接近的京粉2号蛋鸡600 只，随机分成4组，每组5个重复，每个重复30只鸡。对照组饲喂基础饲粮，试验组分别饲喂在基础饲粮中添加100、200 和 $3 0 0 ~ \mathrm { { m g / k g } }$ 金银花提取物的试验饲粮。试验期 $3 5 \mathrm { d }$ 9结果表明：1）与对照组相比， $3 0 0 \mathrm { m g / k g }$ 组平均蛋重和平均日采食量显著增加 ( $\cdot P { < } 0 . 0 5 \$ 。2)与对照组相比，各试验组的哈氏单位均显著提高（ $P { < } 0 . 0 5$ )。3）与对照组相比，各试验组血清总胆固醇和甘油三酯含量均显著降低（ $\cdot P { < } 0 . 0 5$ )，200和 $3 0 0 \mathrm { m g / k g }$ 组血清高密度脂蛋白胆固醇含量显著增加（ $\scriptstyle P < 0 . 0 5 .$ )，200和 $3 0 0 ~ \mathrm { m g / k g }$ 组蛋黄胆固醇含量显著降低（ $\cdot P { < } 0 . 0 5$ 。由此可见，饲粮中添加金银花提取物可以提高平均蛋重、平均日采食量和鸡蛋哈氏单位，改善蛋鸡脂质代谢，降低蛋黄胆固醇含量，其中以 $3 0 0 \mathrm { m g / k g }$ 组效果最为明显。
+
+关键词：金银花提取物；蛋鸡；生产性能；蛋品质；蛋黄胆固醇
+
+中图分类号：S831
+
+金银花是忍冬科忍冬属多种植物的干燥花蕾，是我国的传统中药之一[1]。金银花主要化学成分为酚酸、黄酮、挥发类油和三萜皂苷类等[2-3]。金银花提取物主要的活性成分是绿原酸（chlorogenic acid,CGA）。研究表明，CGA具有抗氧化、抗菌、抗病毒等功能，可以增强机体免疫力[4]；最新研究表明，CGA在调控机体的糖脂代谢方面有显著作用[5]。目前关于金银花提取物对蛋鸡蛋黄胆固醇含量和脂质代谢的影响鲜有报道。因此，本研究以34周龄京粉2号蛋鸡为试验动物，在饲粮中添加不同水平的金银花提取物，分别测定蛋鸡的生产性能、蛋品质、脂质代谢和蛋黄胆固醇含量，并探讨通过添加金银花提取物来降低鸡蛋胆固醇含量的可能性，为金银花提取物在蛋鸡生产中的应用提供依据。
+
+# 1材料与方法
+
+1.1试验材料金银花提取物购于湖南绿蔓生物科技股份有限公司，有效成分CGA含量为 $2 5 \%$ 。
+
+# 1.2 试验设计及饲养管理
+
+试验选用同一鸡舍内产蛋率相近、体重相近、健康状态良好的34周龄京粉2号蛋鸡 600只，随机分成4组，每组5个重复，每个重复30只鸡。对照组饲喂基础饲粮（不含金银花提取物)，试验组分别饲喂在基础饲粮中添加100、200 和 $3 0 0 ~ \mathrm { { m g / k g } }$ 金银花提取物（有效成分CGA含量分别为25、50和 $7 5 \mathrm { m g / k g }$ ）的试验饲粮。基础饲粮组成及营养水平见表1。
+
+# 表1基础饲粮组成及营养水平 (风干基础)
+
+Table1Composition and nutrient levels of the basal diet（air-dry basis） %
+
+项目Items 含量Content  
+原料Ingredients  
+玉米Corn 63.00  
+豆粕 Soybean meal 25.68  
+豆油 Soybean oil 0.70  
+石粉 Limestone 8.16  
+磷酸氢钙 $\mathrm { C a H P O _ { 4 } }$ （202 1.67  
+DL-蛋氨酸DL-Met 0.16  
+食盐 NaCl 0.30  
+预混料 Premixl 0.33  
+合计 Total 100.00  
+营养水平 Nutrient levels²
+
+# ChinaXiv合作期刊
+
+代谢能ME/（ $\mathrm { M J / k g }$ ） 11.35  
+粗蛋白质 CP 16.99  
+蛋氨酸Met 0.42  
+赖氨酸Lys 0.84  
+蛋氨酸 $+$ 半胱氨酸 Met+Cys 0.72  
+钙Ca 3.60  
+有效磷 AP 0.43
+
+1)每千克预混料包含 Per kg of premix contained the following: VA 4 00o 00 IU， $\mathrm { V D } _ { 3 }$ 600000 IU，VE $2 0 ~ \mathrm { g }$ ， $\mathrm { V K } _ { 3 } 5 0 0 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } ~ 5 0 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } \textrm { 3 g }$ ，烟酸 nicotinic acid $1 \ 5 0 0 \ \mathrm { m g }$ ，泛酸pantothenic acid $7 0 \mathrm { m g }$ ，叶酸 folic acid $5 0 0 ~ \mathrm { m g }$ ，氯化胆碱 choline chloride $2 0 \ \mathrm { g }$ ，Fe $6 0 ~ \mathrm { g }$ ，Cu$\boldsymbol { 1 0 } \mathrm { g }$ ， $\mathbf { M n 5 0 } \mathbf { g }$ ，Zn 70 g，Se $2 5 ~ \mathrm { m g }$ 。
+
+2)营养水平为计算值。Nutrient levels were calculated values.
+
+试验期间，每天06:30和14:30各喂饲料1次。采用3层阶梯式笼养方式，自由采食、饮水。每天光照 $1 6 \mathrm { h }$ ，并清粪1次。试验分为预试期7d和正试期 $2 8 { \mathrm { ~ d ~ } }$ ，共 $3 5 \mathrm { ~ d ~ }$ 。
+
+# 1.3 测定指标及方法
+
+# 1.3.1 生产性能
+
+以重复为单位每天记录蛋重、产蛋数、投料量、剩余料量、鸡只存栏数、破软蛋数，并计算平均蛋重、产蛋率、平均日采食量、破软蛋率、料蛋比。
+
+# 1.3.2 蛋品质
+
+试验的最后1天，分别从每组中随机采取20个鸡蛋（每重复4个）用于测定鸡蛋物理品质指标，测定指标包括蛋形指数、蛋壳强度、蛋黄颜色、蛋壳厚度、哈夫单位。测定仪器包括蛋质检测仪（沈阳富士平工业有限公司）、蛋壳强度测定仪（沈阳富士平工业有限公司)、罗氏比色扇（美国罗氏公司）。
+
+# 1.3.3 蛋黄胆固醇含量
+
+从每组中随机采取10个鸡蛋（每重复2个）测定蛋黄胆固醇含量。煮熟鸡蛋，研磨均匀，称取蛋黄1g，用甲醇氯-仿溶液（1:3）研磨至无明显颗粒，混合 $8 ~ \mathrm { m i n }$ ，过滤至 $1 0 ~ \mathrm { m L }$ 容量瓶，并补充甲醇-氯仿溶液定容，待用。分别取 $0 . 0 2 {  { \mathrm { ~ m L } } }$ 蛋黄滤液、胆固醇标准液、甲醇-氯仿溶液加入样品管、标准管和空白管。在上述3支试管中加入邻苯二甲醛试剂 $3 ~ \mathrm { m L }$ ，浓硫酸 $2 { \mathrm { m L } }$ ，混匀，冷却。用T-6紫外可见分光光度计（北京普析）以空白管调零，在560nm 处比色，计算蛋黄胆固醇含量]。
+
+# 1.3.4 脂质代谢
+
+试验结束时，每个重复中随机选取1只鸡，翅静脉采血，以 $3 \ 0 0 0 \ \mathrm { r / m i n }$ 离心 $1 0 ~ \mathrm { { m i n } }$ 分离血清，于-20℃保存。血清总胆固醇(TC）、甘油三酯(TG）、高密度脂蛋白胆固醇(HDL-C)和低密度脂蛋白胆固醇（LDL-C）含量均采用南京建成生物工程研究所生产的试剂盒进行测定。
+
+# 1.4 统计分析
+
+试验数据差异采用 SPSS20.0软件进行单因素方差分析（one-wayANOVA）进行，采用Duncan氏法进行多重比较，结果以平均值±标准差表示。
+
+# 2结果
+
+# 2.1金银花提取物对蛋鸡生产性能的影响
+
+由表2可知，各试验组的产蛋率、料蛋比和破软蛋率与对照组相比无显著差异( $P { > } 0 . 0 5 )$ 。平均蛋重随着金银花提取物水平的增加呈先降低后升高的趋势，100 和 $2 0 0 ~ \mathrm { { m g / k g } }$ 组的平均蛋重与对照组相比无显著差异（ ${ \it P } { > } 0 . 0 5$ ， $3 0 0 \mathrm { \ m g / k g }$ 组的平均蛋重与对照组相比显著增加（ $_ { . P < 0 . 0 5 ) }$ 。 $3 0 0 \mathrm { m g / k g }$ 组的平均日采食量与对照组相比显著增加 ( $. P { < } 0 . 0 5 )$ ）°
+
+# 表2金银花提取物对蛋鸡生产性能的影响
+
+Table 2 Effects of honeysuckle extract on performance of laying hens
+
+<html><body><table><tr><td>Items</td><td>0</td><td>100</td><td>200</td><td>300</td></tr><tr><td>产蛋率 LR/%</td><td>92.81±1.83</td><td>91.62±1.90</td><td>92.15±2.15</td><td>94.07±1.76</td></tr><tr><td>平均蛋重 AEW/g</td><td>58.32±0.66b</td><td>58.17±0.44b</td><td>58.39±0.74b</td><td>59.33±0.55a</td></tr><tr><td>平均日采食量 ADFI/g</td><td>111.62±2.28b</td><td>111.22±2.37b</td><td>112.76±1.81b</td><td>115.26±0.27a</td></tr><tr><td>料蛋比F/E</td><td>1.94±0.06</td><td>1.98±0.08</td><td>1.97±0.05</td><td>1.95±0.04</td></tr><tr><td>破软蛋率 Broken egg rate/%</td><td>0.40±0.17</td><td>0.27±0.18</td><td>0.24±0.23</td><td>0.47±0.25</td></tr></table></body></html>
+
+同行数据肩标相同字母或无字母表示差异不显著（ $. P { > } 0 . 0 5 )$ ，肩标不同字母表示差异显著（ $_ { . P < 0 . 0 5 ) }$ 。下表同。
+
+In the same row, values with the same or no letter superscripts mean no significant difference （ $\cdot P { > } 0 . 0 5 \$ ）,while with the different letter superscripts mean significant difference( $\scriptstyle P < 0 . 0 5 { \mathrm { ~ , ~ } }$ ）： The same as below.
+
+# 2.2金银花提取物对蛋鸡蛋品质的影响
+
+由表3可知，与对照组相比，各试验组的蛋形指数、蛋黄颜色、蛋壳厚度、蛋壳强度均无显著差异（ $P { > } 0 . 0 5$ )。与对照组相比，各试验组的哈氏单位均显著提高（ $( P { < } 0 . 0 5 )$ ，分别提高了 $8 . 2 \%$ 、 $6 . 2 \%$ 和 $9 . 2 \%$ 。
+
+# 表3 金银花提取物对蛋鸡蛋品质的影响
+
+Table 3 Effects of honeysuckle extract on egg quality of laying hens   
+
+<html><body><table><tr><td>项目</td><td colspan="4">金银花提取物水平 Honeysuckle extract level/（mg/kg）</td></tr><tr><td>Items</td><td>0</td><td>100</td><td>200</td><td>300</td></tr><tr><td>蛋形指数ESI</td><td>1.36±0.03</td><td>1.35±0.02</td><td>1.37±0.04</td><td>1.36±0.02</td></tr><tr><td>蛋壳强度ES/kgf</td><td>3.35±0.75ab</td><td>3.40±0.50ab</td><td>3.15±059b</td><td>3.60±0.68a</td></tr><tr><td>蛋黄颜色YC</td><td>13.45±1.15</td><td>13.25±0.79</td><td>13.20±0.95</td><td>12.90±0.92</td></tr></table></body></html>
+
+<html><body><table><tr><td>蛋壳厚度ET/mm</td><td>0.38±0.03</td><td>0.39±0.03</td><td>0.38±0.04</td><td>0.38±0.03</td></tr><tr><td>哈氏单位 HU</td><td>85.72±4.42b</td><td>93.42±6.20a</td><td>91.10±4.62a</td><td>93.60±5.28a</td></tr></table></body></html>
+
+2.3金银花提取物对蛋鸡脂质代谢和蛋黄胆固醇含量的影响
+
+由表4可知，与对照组相比，各试验组的血清TG含量显著降低（ $P { < } 0 . 0 5 )$ ；各试验组的血清 TC 含量显著降低（ $P { < } 0 . 0 5 \$ ， $3 0 0 \mathrm { m g / k g }$ 组下降最明显为 $2 7 . 5 6 \%$ 。血清HDL-C含量随金银花提取物水平升高而升高，200、 $3 0 0 \mathrm { \ m g / k g }$ 组的血清 HDL-C 含量显著高于对照组（ $. P { < } 0 . 0 5 )$ 。与对照组相比，各试验组血清LDL-C 含量无显著差异（ $P { > } 0 . 0 5 \$ )。与对照组相比，200 和 $3 0 0 ~ \mathrm { { m g / k g } }$ 组的蛋黄胆固醇含量显著降低( $. P { < } 0 . 0 5 )$ ，分别下降了 $8 . 1 7 \%$ 和 $1 8 . 6 4 \%$ 。
+
+# 表4金银花提取物对蛋鸡脂质代谢和蛋黄胆固醇含量的影响
+
+Table 4 Effects of honeysuckle extract on lipid metabolism and yolk cholesterol content of   
+
+<html><body><table><tr><td colspan="2">laying hens</td><td colspan="3">(mmol/L)</td></tr><tr><td>项目</td><td colspan="3">金银花提取物水平 Honeysuckle extract level/（mg/kg）</td></tr><tr><td>Items</td><td>0</td><td>100</td><td>200</td><td>300</td></tr><tr><td>血清 Serum/（mmol/L)</td><td></td><td></td><td></td><td></td></tr><tr><td>甘油三酯 TG</td><td>18.78±1.12a</td><td>15.97±0.64b</td><td>15.55±0.59b</td><td>16.20±1.47b</td></tr><tr><td>总胆固醇 TC</td><td>3.58±0.66a</td><td>3.07±0.30b</td><td>3.01±0.22b</td><td>2.59±0.20b</td></tr><tr><td>高密度脂蛋白胆固醇HDL-C</td><td>1.01±0.06b</td><td>1.14±0.14ab</td><td>1.25±0.10a</td><td>1.26±0.13a</td></tr><tr><td>低密度脂蛋白胆固醇LDL-C</td><td>1.23±0.13</td><td>1.14±0.14</td><td>1.13±0.12</td><td>1.15±0.15</td></tr><tr><td>蛋黄Egg yolk/ (mg/g)</td><td></td><td></td><td></td><td></td></tr><tr><td>胆固醇Cholesterol</td><td>13.95±0.51a</td><td>14.00±0.81a</td><td>12.81±1.06b</td><td>11.43±1.02</td></tr></table></body></html>
+
+# 3讨论
+
+3.1金银花提取物对蛋鸡生产性能的影响本试验结果表明，饲粮中添加 $3 0 0 \mathrm { \ m g / k g }$ 的金银花提取物可以显著提高蛋鸡平均日采食量和平均蛋重。金银花提取物中的主要活性成分是CGA，CGA具有抗氧化性、抗菌、抗毒、提高免疫力等多种功能7。张瑞仙[8研究显示，在罗曼粉蛋鸡饲粮中分别添加 $0 . 5 \% . 1 . 0 \%$ 、$1 . 5 \%$ 和 $2 . 0 \%$ 金银花，蛋鸡的平均日采食量均分别提高了 $5 . 4 6 \%$ 、 $8 . 2 0 \%$ 、 $9 . 5 3 \%$ 和 $9 . 6 3 \%$ $1 . 0 \%$ 、 $1 . 5 \%$ 和 $2 . 0 \%$ 的添加量均显著提高了产蛋率。黄涛等在爱拔益加（AA）肉鸡饲粮中添加0（对照）、 $0 . 0 5 \%$ 、 $0 . 1 0 \%$ 、 $0 . 1 5 \%$ 和 $0 . 2 0 \%$ 的杜仲叶CGA，结果发现， $0 . 1 5 \%$ 试验组与对照组相比可以显著提高7\~14日龄和28\~35日龄肉鸡的平均日增重， $0 . 0 5 \%$ 和 $0 . 1 5 \%$ 试验组可分别降低28\~35日龄肉鸡料重比 $2 1 . 1 5 \%$ 和 $1 9 . 3 4 \%$ 。上述研究表明，CGA在改善动物生产性能方面具有积极作用。CGA 改善动物生产性能可能是由于其具有较强的抗氧化能力，对脂质过氧化抑制有积极作用[10]。关炳烽等[1]试验表明，金银花提取物抗氧化能力与CGA 含量相关，且其清除羟基自由基的能力优于维生素C。Zang 等[12研究发现，CGA 清除羟基的清除速率常数为 $7 . 7 3 \times 1 0 ^ { 9 }$ ，认为CGA 的抗氧化性可能与直接清除羟基自由基有关。李文娜等[13研究发现，CGA 对超氧阴离子、羟基自由基、烷过氧自由基及1,1-二苯基-2-苦肼基等自由基有较强的清除作用，对烷过氧自由基、超氧阴离子的清除能力超过了维生素C。此外，CGA 具有抗菌、抗病毒的能力，有助于提高家禽免疫力，从而改善生产性能。研究表明，CGA 可以增强流感病毒抗原引发的 T 细胞增殖[14]，并且在大鼠的研究中发现CGA 可以显著提高其体内免疫球蛋白E（IgE)、免疫球蛋白G（IgG）和白细胞介素-4（IL-4）含量[15]。马力等[研究表明，CGA可显著提高大鼠肠道固有层淋巴细胞中γ肿瘤坏死因子和α 干扰素含量。
+
+# 3.2金银花提取物对蛋鸡蛋品质的影响
+
+本试验结果表明，试验组蛋形指数、蛋黄颜色、蛋壳厚度、蛋壳强度与对照组相比均无显著差异。各试验组均显著提高了鸡蛋哈氏单位，说明金银花提取物能够提高蛋白高度，一定程度上有助于增强蛋白分泌。张瑞仙[研究发现，在饲粮中添加 $0 . 5 \%$ 和 $1 . 5 \%$ 的金银花粉可适当提高鸡蛋哈氏单位，但差异并不显著。鸡蛋蛋白的分泌主要是在输卵管的膨大部分，金银花提取物可能在此对分泌产生影响，由于其活性物质CGA具有很好的抗氧化能力，有助于维持细胞膜的正常生理功能，这对分泌部位细胞膜可能具有积极作用，但其具体机制尚不完全清楚。邵洪等[17认为，自由基会对氨基酸、多肽、蛋白质等进行修饰，促进蛋白质的降解，而金银花提取物中含有的CGA对自由基有良好的清除作用。
+
+3.3金银花提取物对蛋鸡脂质代谢和蛋黄胆固醇含量的影响
+
+蛋鸡体内的胆固醇来源主要有2个途径，第1个途径是外源性的胆固醇（饲粮中的胆固醇)，由于蛋鸡饲粮中通常不含胆固醇，所以这一途径可忽略不计；第2个途径是蛋鸡自身合成，合成的主要部位是肝脏，在肝脏中合成蛋黄胆固醇的前体物质是极低密度脂蛋白和卵黄蛋白原，合成的蛋黄胆固醇通过血液循环进入卵巢沉积于蛋黄中[18]。蛋鸡体内的胆固醇主要通过3种方式排出，其一是通过鸡蛋排出，这是最主要的方式，大概占胆固醇的 2/3;其二是由肝脏和肠道产生中性固醇以粪便形式排出体外；其三是在肝脏中氧化的胆固醇形成胆汁酸通过粪便排出[19]。本试验研究发现，200 和 $3 0 0 ~ \mathrm { { m g / k g } }$ 组蛋黄胆固醇含量与对照组相比分别下降了 $8 . 1 7 \%$ 和 $1 8 . 6 4 \%$ 。金银花提取物中主要活性物质CGA影响蛋鸡脂肪代谢的原因可能有：1）通过影响胆固醇合成和分解的相关酶活性及相关基因表达来影响胆固醇水平。李文娜等[20]研究发现，杜仲叶 CGA 提取物抑制猪肝脏 3-羟基-3-甲基戊二酸单酰辅酶 A（HMG-CoA）还原酶的效价强于辛伐他丁。HMG-CoA还原酶是胆固醇合成过程中的限速酶。Ong 等[21]给口服葡萄糖耐量试验后的db/db 小鼠饲喂含 250 mg/kg CGA的饲粮，发现CGA 可以通过激活腺苷酸活化蛋白激酶(AMPK)来改善葡萄糖和脂质代谢，从而影响AMPK-羟甲基戊二酸单酰辅酶A还原酶(HMGR)通路。AMPK作用于HMGR 肽链中 Ser-871位点[22]。研究不同浓度 5-氨基-4-咪唑羧基酰胺核苷（AICAR）对肝细胞 HMGR 活性影响时发现，随着 AICAR浓度增加，AMPK 呈剂量依赖性活化的同时，HMGR 呈剂量依赖性失活[23-24]。所以 CGA 可能通过激活 AMPK，导致 HMGR 磷酸化失活，使胆固醇合成受到显著抑制。胆固醇7α-羟化酶（CYP7A1）是肝脏合成并促使胆固醇转化为胆汁酸的限速酶[25]。
+
+Wan 等[2通过对大鼠饲喂正常饲粮、高胆固醇饲粮以及在高胆固醇饲粮的基础上添加 CGA(1和 $1 0 \ \mathrm { \ m g / k g }$ ）的饲粮的研究，发现与正常饲粮组相比，饲粮添加CGA后，CYP7A1表达有所增加，促使胆固醇转化为胆汁酸。2）通过调节胆固醇调节元件结合蛋白（SREBPs)影响胆固醇合成。Murase 等[27发现，在Hepal-6细胞中添加 $5 \mu \mathrm { m o l / L }$ CGA可以下调乙酰辅酶A羧化酶、脂肪酸合成酶和 $S R E B P  – 1 c$ 等mRNA表达。3）通过增强过氧化物酶体增殖物激活受体（PPARs）来提高内源胆固醇的逆向转运，增强胆汁酸排泄。Li等[28]给雄性黄金仓鼠饲喂高脂饲粮（含脂肪 $1 5 \%$ )，之后对试验组每天按每千克体重 $8 0 ~ \mathrm { m g }$ 的剂量在腹腔注射含 CGA 的溶剂，8周后CGA 显著提高了仓鼠肝脏 PPAR-α mRNA 和蛋白质的表达水平。Fruchart等[29]认为，PPARs 的活化作用于与高密度脂蛋白（HDL）相关的 5种基因，包括载脂蛋白A（apo-A）、载脂蛋白B（apo- ${ \bf \nabla } \cdot { \bf B }$ )、脂蛋白酯酶（LPL）、B族I型清道夫受体(SR-BI)和 ATP 结合盒转运蛋白A1（ABCAI)，从而促进HDL 形成，提高血清中HDL 含量，促进胆固醇逆向转运的过程。本研究结果表明，金银花提取物能显著降低血清中TC 和 TG 含量，且 $3 0 0 ~ \mathrm { { m g / k g } }$ 组效果最好。200 和 $3 0 0 \mathrm { m g / k g }$ 组均能提高血清HDL-C 含量，促进胆固醇的逆向转运过程。
+
+4结论
+
+$\textcircled{1}$ 饲粮中添加 $3 0 0 \mathrm { \ m g / k g }$ 金银花提取物可以显著提高蛋鸡平均蛋重和平均日采食量，且对蛋鸡生产性能无不良影响。
+
+$\textcircled{2}$ 饲粮中添加金银花提取物可以显著提高鸡蛋哈氏单位。
+
+$\textcircled{3}$ 饲粮中添加金银花提取物可通过提高血清 HDL-C 含量，促进胆固醇逆向转运，降低蛋黄胆固醇含量。
+
+参考文献：
+
+[1]康延国.中药鉴定学[M].3版.北京:中国中医药出版社,2012:280-283.
+
+[2]王林青,崔保安,张红英.金银花药理作用研究进展[J].中国畜牧兽医,2007,34(11):91-95.[3]张志美,郭时金,付石军,等.金银花活性成分及药理作用研究进展[J].家畜生态学报,2013,34(6):89-91.
+
+[4]陈绍华,王亚琴,罗立新.天然产物绿原酸的研究进展[J].食品科技,2008,33(2):195－199.
+
+[5]MENG S X,CAO JM,FENG Q,et al.Roles of chlorogenic acid on regulating glucose and lipids metabolism:a review[J].Evidence-based Complementary and Alternative Medicine,2013,2013:801457.
+
+[6]白利,王瑞雪,王际辉,等.邻苯二甲醛(OPA)法快速测定蛋黄粉中的胆固醇含量[J].中国酿造,2010,29(5):162-164.
+
+[7] 杜延兵,裘爱泳.绿原酸生物活性、资源及其提取纯化[J].现代食品科技,2006,22(2):250-252.
+
+[8]张瑞仙.杜仲叶、金银花对蛋鸡生产性能、免疫力、胆固醇代谢及蛋品质的影响[D].硕士学位论文.重庆：西南大学，2012:28
+
+[9]黄涛,陈玉敏,宋小珍,等.日粮中添加不同水平杜仲绿原酸对 AA 肉鸡生产性能、血清免疫指标及肉品质的影响[C]//中国畜牧兽医学会动物营养学分会第七届中国饲料营养学术研讨会论文集.郑州:中国畜牧兽医学会,2014:410
+
+[10]胡宗福,于文利,赵亚平.绿原酸清除活性氧和抗脂质过氧化的研究[J].食品科学,2006,27(2):128- 130.
+
+[11]关炳峰,谭军,周志娣.金银花提取物的抗氧化作用与其绿原酸含量的相关性研究[J].食品工业科技,2007,28(10):127-129.
+
+[12]ZANG L Y,COSMA G,GARDNER H,et al.Effect of chlorogenic acid on hydroxyl radical[J].Molecular and Cellular Biochemistry,2003,247(1/2):205-210.
+
+[13]李文娜,肖苑,陈阳,等.杜仲叶绿原酸提取物与绿原酸、维生素C 体外抗氧化比较[J].食
+
+品工业科技,2012,33(11):137-140.
+
+[14] BOON A C M,VOS A P,GRAUS Y M F,et al.In vitro,effect of bioactive compounds on influenza virus specific B-and T-Cell responses[J].Scandinavian Journal of Immunology,2002,55(1):24-32.
+
+[15] GONG J,LIU F T,CHEN S S.Polyphenolic antioxidants enhance IgE production[J].Immunological Investigations,2004,33(3):295-307.
+
+[16]马力,唐凤敏,曾天舒,等.菊花多糖和绿原酸免疫调节作用的研究[J].医药导报,2008,27(10):1168-1170.
+
+[17] 邵洪,汪仕良,尤忠义,等.氧自由基与蛋白质代谢[J].医学分子生物学杂志,1990,12(1):42-44.
+
+[18]GRIFFIN HD.Manipulation of egg yolk cholesterol:a physiologist's view[J].Worlds Poultry Science Journal,1992,48(2):101-112.
+
+[19] NABER E C.The cholesterol problem,the egg and lipid metabolism in the laying hen[J].Poultry Science,1976,55(1):14-30.
+
+[20]李文娜,韩宇东,刘银花,等.杜仲叶绿原酸提取物对脂代谢关键酶活性的影响[J].中药新药与临床药理,2012,23(1):30-33.
+
+[21]ONG K W,HSU A,TAN B K.Anti-diabetic and anti-lipidemic effects of chlorogenic acid are mediated by ampk activation[J].Biochemical Pharmacology,2013,85(9):1341-1351.
+
+[22] GILLESPIE JG,HARDIE D G.Phosphorylation and inactivation of HMG-CoA reductase at the AMP-activated protein kinase site in response to fructose treatment of isolated rat hepatocytes[J].FEBS Letters,1992,306(1):59-62.
+
+[23] CORTON J M,GILLESPIE J G,HAWLEY S A,et al.5-aminoimidazole-4-carboxamide ribonucleoside.A specific method for activating AMP-activated protein kinase in intact cells?[J].European Journal of Biochemistry,1995,229(2):558-565.
+
+[24]HENIN N,VINCENT M F,GRUBER H E,et al.Inhibition of fatty acid and cholesterol synthesis by stimulation of AMP-activated protein kinase[J].FASEB Journal,1995,9(7):541-546. [25]DIVEN W F,SWEENEY J,WARTY V,et al.Regulation of bile acid synthesis:isolation and characterizationofmicrosomalphosphatases[J].Biochemical and Biophysical Research Communications,1988,155(1):7-13.
+
+[26] WAN C W,WONG C N,PIN W K,et al.Chlorogenic acid exhibits cholesterol lowering and fatty liver attenuating properties by up-regulating the gene expression of PPAR- $\mathbf { \nabla } \cdot \mathbf { a }$ in hypercholesterolemic rats induced with a high-cholesterol diet[J].Phytotherapy Research,2013,27(4):545-551.
+
+[27]MURASE T,MISAWA K,MINEGISHI Y,et al.Coee polyphenols suppress diet-induced body fat accumulation by downregulating SREBP-1c and related molecules in C57BL/6J mice[J].American Journal of Physiology Endocrinology and Metabolism,2011,300(1):E122-E133.
+
+[28]LI S Y,CHANG C Q,MA F Y,et al.Modulating effects of chlorogenic acid on lipids and glucose metabolism and expresson of hepatic peroxisome proliferator-activated receptor- $\mathbf { \nabla } \cdot \mathbf { a }$ in golden hamsters fed on high fat diet[J].Biomedical and Environmental Sciences,2009,22(2):122 - 129.
+
+[29]FRUCHART J C,STAELS B,DURIEZ P.New concepts on the mechanism of action of fibrates and therapeutic prospectives in atherosclerosis[J].Bulletin De Lacademie Nationale De Medecine,2001,185(1):63-74.
+
+Effects of Honeysuckle Extract on Performance, Egg Quality,Lipid Metabolism and Yolk
+
+LONG Bin’LI Zhouquan\*DONG Guozhong WANG Qingzheng YU Zhongwen (Collge of Animal Science and Technology, Southwest University, Chongqing 400716, China)
+
+Abstract: The aim of this study was to investigate the efects of dietary different levels of honeysuckle extract on performance, egg quality, lipid metabolism and yolk cholesterol content of laying hens. Six hundred healthy Jingfen No.2 laying hens aged at 34 weeks with similar laying rate were randomly divided into 4 groups with 5 replicates per group and 30 hens per replicate. Hens on the control group were fed a basal diet, and others in the experimental groups were fed the basal diets supplemented with 10o,200, $3 0 0 ~ \mathrm { m g / k g }$ honeysuckle extract,respectively. The results showed as follows: 1） compared with the control group, the average egg weight and average daily feed intake of $3 0 0 ~ \mathrm { { m g / k g } }$ group were significantly increased $( P { < } 0 . 0 5 )$ . 2) Compared with the control group,the Haugh unit of experimental groups was significantly increased $( P { < } 0 . 0 5 )$ . 3) Compared with the control group,the contents of total cholesterol and triglyceride in serum of experimental groups were significantly decreased $( P { < } 0 . 0 5 )$ ，the serum high density lipoprotein cholesterol content of 200 and $3 0 0 \mathrm { m g / k g }$ groups was significantly increased $( P { < } 0 . 0 5 )$ ， the yolk cholesterol content of 200 and $3 0 0 ~ \mathrm { m g / k g }$ groups was significantly decreased $( P { < } 0 . 0 5 )$ ： These results indicates that dietary honeysuckle extract can increase the average egg weight, average daily feed intake and egg Haugh unit, improve the lipid metabolism,reduce the yolk cholesterol content,and the effect of $3 0 0 \mathrm { m g / k g }$ group is the most obvious.
+
+Key Words: honeysuckle extract; laying hens; performance; egg quality; yolk cholesterol

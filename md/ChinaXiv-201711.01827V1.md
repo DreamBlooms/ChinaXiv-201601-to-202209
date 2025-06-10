@@ -1,0 +1,166 @@
+# 饲粮能量水平对后备母猪卵巢发育及相关基因表达的影响
+
+梁鸿雁 赵春霞 韩华
+
+(黑龙江八一农垦大学动物科技学院，大庆 163319)
+
+摘要：本试验旨在研究饲粮能量水平对后备母猪卵巢发育及卵巢促卵泡素受体（FSHR）和促黄体素受体（LH/CGR）mRNA表达的影响。选择27头体重 $( 6 1 . 0 { \pm } 3 . 1 ) \$ ）kg的长 $\mathbf { \nabla } _ { \times }$ 大二元母猪，随机分成3组（每组3个重复，每个重复3头猪），分别饲喂低、中、高3个能量水平[分别为NRC(1998)推荐消化能需要的 $90 \%$ 、 $100 \%$ 和 $1 1 0 \% ]$ 的饲粮。试验期内各组平均日采食量相同，但摄入的消化能水平不同。试验母猪在第2个发情期的第19天屠宰。结果表明：高能组卵巢重及大卵泡数显著高于低能组（2 $( P { < } 0 . 0 5 )$ ；各组间小卵泡数量差异不显著 $( P { > } 0 . 0 5 )$ 。高能组卵巢FSHR和LH/CGRmRNA表达量最高，显著高于低能组 $( P { < } 0 . 0 5 )$ 。由此得出，高能量水平饲粮可促进后备母猪卵巢发育，有利于促进卵巢FSHR和LH/CGRmRNA的表达。
+
+关键词：能量水平；后备母猪；卵巢发育；基因表达中图分类号：S828
+
+作为哺乳动物的性腺，卵巢与母猪繁殖性能密切相关。后备母猪的卵巢发育、卵母细胞成熟和质量直接影响母猪排卵率及性腺激素的分泌，从而影响胚胎数和产仔数[1]。关于饲粮能量对母猪繁殖性能影响的研究有诸多报道，但结论不尽一致，多数研究者认为，通过对不同生长或繁殖周期母猪采用一定方式的限饲与补饲，可影响卵泡发育（总卵泡数、大卵泡数等）、排卵率、胚胎发育等[1-6]。但也有不同的报道，Almeida等[7研究发现，母猪发情周期采取第 $1 { \sim } 7$ 天限饲、第 $8 \sim 1 5$ 天限饲及第 $_ { 1 \sim 1 5 }$ 天饱饲3种饲喂方式，排卵率并没有显著差异。而营养因素对卵巢促性腺激素受体表达影响的报道较少，因此，关于后备母猪营养调控的机制仍有待于进一步完善。鉴于此，本试验以后备母猪为研究对象，研究不同饲粮能量水平对卵巢发育及卵巢促卵泡素受体（follicle stimulating hormone receptor，FSHR）和促黄体素受体（luteinizing hormone/chorionic gonadotropin receptor，LH/CGR）mRNA表达的影响，旨在为完善饲粮能量对动物繁殖性能作用的机制提供依据。
+
+# 1材料与方法
+
+# 1.1 试验设计
+
+选用健康、体况良好的（ $1 5 0 { \pm } 3$ ）日龄、体重为（ $_ { ( 6 1 . 0 \pm 3 . 1 }$ ） $\mathbf { k g }$ 的"长 $\times$ 大”二元后备母猪27头，随机分成3个组（每组3个重复，每个重复3头)，分别为： $1 4 . 2 8 \mathrm { M J / k g }$ 消化能组(中能组)，按NRC
+
+（1998）设计的饲粮（能量摄入为猪营养消化能需要量的 $100 \%$ ）饲喂； $1 2 . 8 6 \mathrm { M J / k g }$ 消化能组(低能组)，按标准饲粮能量降低 $10 \%$ 的饲粮（能量摄入为猪营养消化能需要量的 $90 \%$ ）饲喂； $1 5 . 7 1 \ \mathrm { M J / k g }$ 消化能组(高能组)，饲喂按标准饲粮能量增加 $10 \%$ （能量摄入为猪营养消化能需要量的 $1 1 0 \%$ ）的饲粮。各组饲粮组成及营养水平见表1。试验前将猪舍彻底清洗并消毒。参照NRC（1998）后备母猪营养需要推荐量，在试验期内，试验猪体重在 $7 5 \mathrm { k g }$ 以内时，每头猪饲喂量为 $2 . 1 \mathrm { k g / d }$ ；体重达到75kg 后，每头猪饲喂量为 $2 . 4 \mathrm { k g / d }$ 。除能量以外的其他营养成分摄入量相同。每天08:00、15:00 饲喂 2次，2次饲喂量相同。试验母猪单圈饲养，自由饮水。在试验猪体重达到 $8 0 ~ \mathrm { k g }$ 后，约26周龄开始，每天检测发情2次，以出现静立反射记为发情第1天。
+
+表1饲粮组成及营养水平 (风干基础)  
+Table1Composition and nutrient levels of diets (air-dry basis) %   
+
+<html><body><table><tr><td>项目Items</td><td>低能组Low energy</td><td>中能组 Mid energy</td><td>高能组 High energy</td></tr><tr><td>原料 Ingredients</td><td>group</td><td>group</td><td>group</td></tr><tr><td>玉米Corn</td><td></td><td>73.00</td><td>65.20</td></tr><tr><td>小麦麸 Wheat bran</td><td>58.00 21.94</td><td></td><td></td></tr><tr><td>豆粕 Soybean meal</td><td>17.60</td><td>22.50</td><td>23.90</td></tr><tr><td>豆油 Soybean oil</td><td></td><td>1.75</td><td>8.13</td></tr><tr><td>石粉 Limestone</td><td>1.10</td><td></td><td></td></tr><tr><td>磷酸氢钙CaHPO4</td><td></td><td>0.70</td><td>0.66 0.78</td></tr><tr><td>预混料 Premix1)</td><td></td><td>0.70 1.00</td><td></td></tr><tr><td>食盐 NaCl</td><td>1.00 0.24</td><td>0.28</td><td>1.00 0.28</td></tr><tr><td>L-赖氨酸 L-Lys</td><td></td><td></td><td></td></tr><tr><td>氯化胆碱 Choline chloride</td><td>0.09</td><td>0.04</td><td>0.02</td></tr><tr><td></td><td>0.03</td><td>0.03</td><td>0.03</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td></tr><tr><td>粗蛋白质CP</td><td>15.52</td><td>15.51</td><td>15.52</td></tr><tr><td>钙Ca</td><td>0.51</td><td>0.49</td><td>0.51</td></tr><tr><td>总磷TP</td><td>0.47</td><td>0.45</td><td>0.45</td></tr><tr><td>有效磷 AP</td><td>0.15</td><td>0.24</td><td>0.25</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>L-赖氨酸L-Lys</td><td>0.76</td><td>0.75</td><td>0.75</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.53</td><td>0.57</td><td>0.56</td></tr><tr><td>标准回肠可消化赖氨酸 SID Lys</td><td>0.66</td><td>0.66</td><td>0.66</td></tr><tr><td>标准回肠可消化蛋氨酸 SIDMet</td><td>0.20</td><td>0.23</td><td>0.23</td></tr><tr><td>标准回肠可消化苏氨酸 SIDThr</td><td>0.50</td><td>0.55</td><td>0.55</td></tr><tr><td>标准回肠可消化蛋氨酸+半胱氨酸 SID</td><td>0.40</td><td>0.43</td><td>0.43</td></tr><tr><td>Met+Cys</td><td></td><td></td><td></td></tr><tr><td>标准回肠可消化色氨酸 SID Trp</td><td>0.15</td><td>0.16</td><td>0.16</td></tr><tr><td>消化能 DE/(MJ/kg)</td><td>12.86</td><td>14.28</td><td>15.71</td></tr></table></body></html>
+
+1每千克预混料含有 One kilogram of premix contained the following:VA175 0 IU, $\mathrm { V D } _ { 3 } 2 0 0 0 0$ IU, VE 1 100 IU, VK $5 0 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 3 0 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } ~ 1 0 0 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 1 5 0 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } \mathrm { ~ 1 ~ } 5 0 0 \mathrm { ~ \textmu g }$ ，生物素biotin $5 \mathrm { m g }$ ，氯化胆碱 choline chloride 40 $0 0 0 ~ \mathrm { { m g } }$ ，叶酸 folic acid $3 0 ~ \mathrm { m g }$ ，烟酸 nicotinic acid $1 2 5 0 \mathrm { m g }$ ， $D _ { \mathbf { \delta } }$ -泛酸 $D$ -pantothenic acid $9 0 0 ~ \mathrm { { m g } }$ ， Cu (as copper sulfate) $5 0 0 ~ \mathrm { m g }$ ，Fe (as ferrous sulfate) $8 0 0 0 ~ \mathrm { { m g } }$ ， $\mathbf { M } \mathbf { n }$ (as manganese sulfate) $3 0 0 ~ \mathrm { m g }$ ，I (as potassium iodide) $1 4 ~ \mathrm { m g }$ ， $Z \mathrm { n }$ (as zinc sulfate) $8 0 0 0 \mathrm { m g }$ ，Se (as sodium selenite) $2 5 ~ \mathrm { m g }$ 。
+
+2）粗蛋白质为实测值，其余为计算值。CP was a measured value,while the others were calculated values.
+
+# 1.2样品采集
+
+在第2次发情的第19天，屠宰取卵巢，用吸水纸吸去卵巢表面水分后称重，并统计大卵泡数(直径 $> 3 ~ \mathrm { m m }$ 和小卵泡数(直径 $< 3 ~ \mathrm { m m }$ )，然后将卵巢置于液氮中速冻后一80℃保存，用于分子生物学检测。
+
+# 1.3 试验材料
+
+焦磷酸二乙酯(DEPC)(美国Sigma公司)、Trizol试剂(美国Invitrogen公司)、反转录酶(M-MLV)(美国Promega公司)、dNTP(中国TaKaRa公司)、RNase抑制剂(中国TaKaRa公司)、Oligo(dT)18(中国TaKaRa公司)。
+
+ABI System-7000型PCR仪(美国ABI公司）、GeneQuant-100核酸浓度测定仪(英国PharmaciaBiotech公司)、Sigma-3k15高速冷冻离心机(德国Sigma公司)。
+
+1.4卵巢FHSR和LH/CGRmRNA表达的检测
+
+1.4.1 样品总RNA提取
+
+取样品 $5 0 \sim 1 0 0 ~ \mathrm { ~ m g }$ ，采用Trizol一步法提取总RNA。经电泳检测总RNA的完整性。用GeneQuant-100核酸浓度测定仪检测总RNA的浓度和纯度。
+
+# 1.4.2 引物设计与合成
+
+引物使用Primer5.0软件设计，由上海生物工程技术有限公司合成，如表2所示。
+
+表2试验所用目的基因引物和探针  
+Table 2Objective gene primers and probe designed for this study   
+
+<html><body><table><tr><td>基因</td><td>引物序列</td><td>长度</td><td>登录号</td></tr><tr><td>Genes</td><td>Primer sequences (5'-3)</td><td>Length/bp</td><td>Accession No.</td></tr><tr><td>促卵泡 素受体</td><td>F:GCCTGCCCATGGATATTGAC</td><td></td><td></td></tr><tr><td>FSHR</td><td>R:TAGCAACCACAGATGACCACAAA</td><td>103</td><td>AF025377</td></tr><tr><td></td><td>FAM-TAMRA:CCCTTGTCGCAGCTGTACGTTGTGTC</td><td></td><td></td></tr><tr><td>促卵泡 素受体</td><td>F：CCCAGCATCTTGGATATTTCTTC</td><td></td><td></td></tr><tr><td>FSHR</td><td>R:TGGCATCTAGGAGATTGGTAAATTT</td><td>145</td><td>M29525</td></tr><tr><td></td><td>FAM-TAMRA:TGGAGTCCATTCAGACGCTAATTGCCA</td><td></td><td></td></tr></table></body></html>
+
+# 1.4.3 目的片段的扩增
+
+采用常规 PCR 法扩增目的片段和内参，用FSHR、LH/CGR 引物，以高能组、中能组和低能组卵巢的cDNA为模板，扩增目的片段，目的片段长度分别为103 和 $1 4 5 ~ \mathrm { b p }$ 。反应条件为：94℃预变性 $3 ~ \mathrm { m i n }$ ；94℃变性 $3 0 ~ \mathrm { s }$ ，59℃退火 $3 0 ~ \mathrm { s }$ ，72℃延伸30s，35个循环；72℃延伸 $6 ~ \mathrm { m i n }$ ；4℃保存。
+
+# 1.4.4纯化PCR产物的回收、连接、转化及序列测定
+
+采用V-gene Biotechnology Limited的DNA凝胶回收试剂盒回收目的基因产物，与pMD 18-T载体连接后，利用蓝/白菌落筛选法进行阳性克隆的初步筛选，运用日常型质粒DNA快速制备试剂盒提取质粒。将PCR鉴定正确的重组质粒送到TaKaRa公司进行序列测定。将测序结果与互联网上已知的核酸序列进行比较，用DNAMAN软件将测序结果与GenBank上的序列进行同源性比较。
+
+# 1.4.5 卵巢FSHR和LH/CGRmRNA表达量的测定
+
+使用实时荧光定量PCR仪，采用TaqMan探针法对FSHR和LH/CGRmRNA表达量进行检测。以连续稀释的重组质粒作为阳性质控标准品，制作标准曲线。PCR反应体系为 $2 5 . 0 ~ \mu \mathrm { L }$ ，其中：cDNA 1.00μL， $1 0 { \times } \mathrm { E x }$ Taq Buffer $2 . 5 0 \mu \mathrm { L }$ ， 2.5 mmol/L dNTP Mixture $2 . 0 0 ~ \mu \mathrm { L }$ ，10 pmol/L上下游引物各 $0 . 5 0 ~ \mu \mathrm { L }$ 10 pmol/L FAM-TAMRA探针 $0 . 2 5 ~ \mu \mathrm { L }$ ，Ex Taq HS $0 . 1 5 ~ \mu \mathrm { L }$ ， $\mathrm { \ d d H _ { 2 } O \ 1 8 . 1 0 \ \mu L }$ 。反应条件为： $9 5 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 预变性 $6 \mathrm { m i n }$ ；94℃变性 $3 0 ~ \mathrm { s }$ ，59℃退火 $3 0 ~ \mathrm { s }$ ，48个循环。每份样品所含的拷贝数通过Ct值与相应的标准曲线比较而得到。
+
+# 1.5 数据处理
+
+试验数据用平均值 $\pm$ 标准差表示，采用SPSS15.0软件进行方差分析和LSD法进行多重比较，
+
+$P { < } 0 . 0 5$ 为差异显著。
+
+# 2结果与分析
+
+2.1饲粮能量水平对后备母猪卵巢发育的影响
+
+由表3可知，饲粮能量水平显著影响后备母猪大卵泡数及卵巢重（ $. P { < } 0 . 0 5 )$ ，对小卵泡数无显著影响（ ${ \cdot } P { > } 0 . 0 5 { \mathrm { : } }$ 。随着饲粮能量水平的提高，大卵泡数增多，卵巢重增加。其中高能组大卵泡数、卵泡重均显著高于低能组（ $\scriptstyle . P < 0 . 0 5 )$ ，与中能组均差异不显著（ $P { > } 0 . 0 5 )$ ；低能组与中能组间大卵泡数量、卵泡重均无显著差异（ $P { > } 0 . 0 5 )$ 。
+
+表3饲粮能量水平对后备母猪卵巢发育的影响  
+Table 3Effects of dietary energy level on ovary development of prepubertal gilts   
+
+<html><body><table><tr><td>项目</td><td>低能组Low</td><td>中能组Mid</td><td>高能组High</td><td>P值</td></tr><tr><td>Items</td><td>energy group</td><td>energy group</td><td>energy group</td><td>P-value</td></tr><tr><td>卵巢重 Ovary weight/g</td><td>11.45±1.97a</td><td>12.67±2.04ab</td><td>13.85±3.14b</td><td>0.031</td></tr><tr><td>大卵泡数 Number of large follicle</td><td>17.21±2.26a</td><td>19.06±1.75ab</td><td>23.49±4.34b</td><td>0.029</td></tr><tr><td>小卵泡数 Number of small follicle</td><td>23.65±2.81</td><td>23.74±3.94</td><td>21.86±2.03</td><td>0.541</td></tr></table></body></html>
+
+同行数据肩标无字母或相同字母表示差异不显著 $( P > 0 . 0 5 )$ ，不同小写字母表示差异显著 $( P <$ 0.05)。下表同。
+
+In the same row, values with no letter or the same letter superscripts mean no significant difference ( $P$ ${ > } 0 . 0 5 { \mathrm { ) } }$ ,while with different small letter superscripts mean significant difference ( $\scriptstyle \overbrace { P } < 0 . 0 5$ ). The same as below.
+
+2.2饲粮能量水平对后备母猪卵巢FSHR和LH/CGRmRNA表达的影响
+
+# 2.2.1 卵巢组织总RNA的鉴定
+
+提取的总RNA经 $1 \%$ 琼脂糖凝胶电泳分析，见图1，有明显的完整3条带，分别为28S、18S 和5S，RNA没有降解，完全符合反转录要求。吸光度（OD） $_ { 2 6 0 } / \mathrm { O D } _ { 2 8 0 }$ 值均达到 $1 . 8 \sim 2 . 0$ ，达到试验纯度要求。
+
+![](images/ca8e90d5f98a771d3ee3424fb1be3e001c1805a9c86772b6df6b60bda66b018a.jpg)  
+图1卵巢组织总RNA 电泳图
+
+# 2.2.2 目的基因PCR产物的鉴定
+
+以重组质粒为模板，采用 FSHR、LH/CGR 引物进行常规 PCR 鉴定，见图2，电泳可见103 和145 bp 处有特异的条带，与预计的片段大小相符。基因序列分析结果表明，测序结果与GenBank 中公布的FSHR和LH/CGR基因序列的同源性均为 $100 \%$ 。
+
+![](images/486ef571ee1b04577933e5c31c8a6e073e8a93bf3a465c14eeb946e0c5648fa3.jpg)  
+Fig.1The electrophoresis result of total RNA from ovary   
+图2FSHR 和LH/CGR 重组质粒片段的PCR鉴定结果
+
+1：促黄体素受体LH/CGR；2：DL-2000 DNAMarker；3：促卵泡素受体FSHR。
+
+Fig.2Identification of FSHR and LH/CGR recombinant plasmid by PCR
+
+2.2.3饲粮能量水平对后备母猪卵巢FSHR和LH/CGRmRNA表达量的影响
+
+由表4可知，饲粮能量水平显著影响卵巢 $F S H R$ 和LH/CGRmRNA的表达量（ $( P { < } 0 . 0 5 )$ 。随着饲粮能量水平的提高，卵巢FSHR 和LH/CGRmRNA表达量均显著增加（ $_ { ( P < 0 . 0 5 ) }$ 。高能组卵巢FSHRmRNA表达量均显著高于低能组和中能组（ $( P { < } 0 . 0 5 )$ ；而中能组和低能组间FSHRmRNA表达量差异不显著（ $\scriptstyle P > 0 . 0 5 .$ )。高能组卵巢LH/CGRmRNA表达量显著高于低能组（ $_ { . P < 0 . 0 5 ) }$ ，但与中能组差异不显著 （ $. P { > } 0 . 0 5 )$ ；中能组和低能组间LH/CGRmRNA表达量差异不显著（ $_ { . P > 0 . 0 5 ) }$ 。
+
+表4饲粮能量水平对后背母猪卵巢FSHR和LH/CGRmRNA表达量的影响
+
+Table 4Efects of dietary energy level on expression levels of FSHR and LH/CGR mRNA in ovary of   
+
+<html><body><table><tr><td colspan="5">prepubertal gilts</td></tr><tr><td rowspan="2">项目Items</td><td>低能组Low energy</td><td>中能组Mid energy</td><td>高能组 High energy</td><td>P值</td></tr><tr><td>group</td><td>group</td><td>group</td><td>P-value</td></tr><tr><td>促卵泡素受体 FSHR/(×1010</td><td>1.74±0.12a</td><td>2.65±0.17a</td><td>4.27±0.35b</td><td>0.042</td></tr><tr><td>copies/mL)</td><td></td><td></td><td></td><td></td></tr><tr><td>促黄体素受体 LH/CGR/(×107</td><td>2.59±0.23a</td><td>4.38±0.39ab</td><td>7.16±0.57b</td><td>0.038</td></tr><tr><td>copies/mL)</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 3讨论
+
+3.1饲粮能量水平对后备母猪卵巢发育的影响
+
+卵泡的成熟是后备母猪初情期启动的标志之一。卵泡发育经历征集、选择、优势化和排卵等过程，期间受内分泌、旁分泌及自分泌等因素的影响。多个研究证实，能量可影响不同繁殖时期母猪的卵泡发育。本研究中，饲粮能量水平影响后备母猪大卵泡数及卵巢重，高能量水平显著增加大卵泡数及卵巢重，这与王延忠[、周东胜在对 $5 9 \mathrm { k g }$ 体重后备母猪饲喂混合油脂(油脂占消化能 $29 \%$ ，猪油：菜籽油 $\mathbf { \tau } = 1 : 1$ )的研究结果相一致。初情期前母猪在 $7 5 \mathrm { k g }$ 之后限饲至 $8 5 ~ \mathrm { k g }$ ，Booth 等发现卵泡数量显著低于自由采食母猪。Zak 等[5]、Van Den Brand 等[和Hazeleger等[10]在初产泌乳母猪中均得到了相近的结论。卵巢重量与母猪繁殖性能密切相关，卵巢重增加，可促进性腺激素的分泌，也利于更多的小卵泡继续发育。而排卵前大卵泡数的多少代表着可能的排卵率[。高能饲粮母猪卵巢重及大卵泡数的增加，可能引起排卵率、配种后胚胎数和产仔数的相应提高。另外，本研究中，不同能量水平对小卵泡数无显著影响，这与王延忠[]、周东胜的结论有所不同，可能是由于饲粮中添加油脂的种类差异所致。
+
+# 3.2饲粮能量水平对后备母猪卵巢FSHR和LH/CGRmRNA表达的影响
+
+关于饲粮能量水平对后备母猪卵巢FSHR 和LH/CGRmRNA表达影响的研究较少，本研究中，饲粮能量水平引起卵巢 FSHR 和 LH/CGR mRNA 表达量的显著变化，高能可促进卵巢 FSHR 和LH/CGR mRNA 的表达，且高能组FSHR 和LH/CGR mRNA表达量最高，均显著高于低能组，这与王延忠[的结论一致。这种显著性差异同样表现在50 日龄初情期前小母猪的卵巢 FSHR 和 LH/CGRmRNA表达量上[1]。由此表明，饲粮能量水平对卵巢FSHR 和 LH/CGR mRNA 表达量的差异影响具有长期效应，可能贯穿初情期前母猪的整个生长期内。
+
+众所周知，促卵泡素（FSH)、促黄体素（LH）是调控母畜繁殖系统的重要激素，FSH可启动卵泡征集，促进卵泡发育、成熟至排卵前阶段；LH与FSH协同促进卵泡生长成熟，并可诱发排卵。FSH、LH的生理作用是通过分别与FSHR 和LH/CGR特异性结合所介导。能量因素影响卵巢上FSHR和LH/CGR 表达的分子机制，目前还不是十分明了，可能通过调节卵巢FSHR 和LH/CGR的表达而改变卵泡对 FSH、LH 的敏感性，从而达到刺激卵泡发育、提高排卵率和产仔数的目的[1]，具体机制尚有待于进一步研究揭示。
+
+4结论
+
+$\textcircled{1}$ 提高饲粮能量水平可增加后备母猪卵巢重量，增加大卵泡数。$\textcircled{2}$ 提高饲粮能量水平有利于促进后备母猪卵巢FSHR 和LH/CGR mRNA 的表达。参考文献：
+
+[1]BOOTH P J,COSGROVE JR,FOXCROFT G R.Endodrine and metabolic responses to realimentation in feed-restricted prepubertal gilts:associations among gonadotropins,metabolic hormones,glucose,and uteroovarian development[J].Journal of Animal Science,1996,74(4):840-848.
+
+[2]BOOTH P J,CRAIGON J,FOXCROFT G R.Nutritional manipulation of growth and metabolic and reproductive status in prebupertal gilts[J].Journal of Animal Science,1994,72(9):2415-2424.
+
+[3]ARMSTRONG JD,BRITT J H.Nutritionally-induced anestrus in gilts:metabolic and endocrine changes associated with cessation and resumption of estrous cycles[J].Journal of Animal Science,1987,65(2):508-523.
+
+[4]ZAK L J,COSGROVE JR,AHERNE F X,et al.Pattern of feed intake and associated metabolic and endocrine changes differentially affect postweaning fertility in primiparous lactating sows[J].Journal of Animal Science,1997,75(1):208-216.
+
+[5]ZAK L J,XU X,HARDIN R T,et al.Impact of different paterns of feed intake during lactation in the primiparous SoW on follicular development and oocyte maturation[J].Reproduction,1997,110(1):99-106.
+
+[6] VAN DEN BRAND H,DIELEMAN S J,SOEDE N M,et al.Dietary energy source at two feeding levels during lactation of primiparous sows: I .Effects on glucose,insulin,and luteinizing hormone and onfollicle development,weaning-to-estrusinterval,and ovulation rate[J].Journal of Animal Science,2000,78(2):396-404.
+
+[7]ALMEIDA F R,KIRKWOOD R N,AHERNE F X,et al.Consequences of different pattrns of feed intake during theestrouscyclein giltson subsequent fertility[J].Journal ofAnimal Science,2000,78(6):1556-1563.
+
+[8]王延忠.能量来源和水平对后备母猪卵母细胞质量及相关基因表达的影响[D].硕士学位论文.雅安:四川农业大学,2007:32-34.  
+[9]周东胜.日粮能量水平和来源对后备母猪初情期启动、卵泡质量影响及机理研究[D].博士学位论文.雅安：四川农业大学,2013:39-44.
+
+[10] HAZELEGER W,SOEDE N M,KERNP B.The eect of feeding strategy during the pre-folliculr phase on subsequent follicular development in the pig[J].Domestic Animal Endocrinology,2005,29(2):362-370.
+
+[11]于淼瑛.不同日粮能量水平对初情期前母猪卵巢及子宫LH受体和FSH受体mRNA表达的影响[D].硕士学位论文.长春:吉林大学,2006:58.
+
+# LIANG Hongyan ZHAO Chunxia HAN Hua
+
+(College of Animal Science and Veterinary Medicine, Heilongjiang Bayi Agricultural University, Da'qing 163319, China)
+
+Abstract: This study aimed to study the effects of dietary energy level on ovary development and mRNA expression of folicle stimulating hormone receptor (FSHR） and luteinizing hormone/chorionic gonadotropin receptor (LH/CGR) of prepubertal gilts. Twenty-seven crossbred (LandracexYorkshire) gilts with the body weight of $_ { ( 6 1 . 0 \pm 3 . 1 }$ ) kg were selected and randomly allocated to 3 groups with 3 replicates each and 3 pigs in each replicate,and were fed diets with different energy levels which were $90 \%$ ， $100 \%$ （2 and $1 1 0 \%$ digestible energy (DE) recommended by NRC (1998), respectively. Gilts in all groups were taken the same average daily feed intake in experimental period,but got diferent DE. Gilts were slaughtered on the $1 9 ^ { \mathrm { t h } }$ day of the $2 ^ { \mathrm { n d } }$ estrus cycle. The results showed that ovary weight and the number of large follicles were significantly higher in the high energy group than those in the low energy group （202 $( P { < } 0 . 0 5 )$ . Whereas the number of small follicles had no significant difference among the three energy level groups $( P { > } 0 . 0 5 )$ . The high energy group had the highest FSHR and LH/CGR mRNA expression levels, which were significantly higher than those in the low energy group $( P { < } 0 . 0 5 )$ . In conclusion, higher dietary energy level has significant positive efects on ovary development,and promotes the expression of FSHR and LH/CGR in ovary of prepubertal gilts.
+
+Key words: energy level; prepubertal gilts; ovary development; gene expression i

@@ -1,0 +1,216 @@
+# GIFT-64算法的Biclique分析
+
+郭伟博'，刘 彬¹，王洋²(1.信息工程大学，郑州 450001;2．西安测绘总站，西安 710054)
+
+摘要：GIFT 算法是一种实现效率高、所需功耗低的轻量级分组密码算法，现有评估其安全性的研究成果较少。、利用 Biclique攻击方法，结合算法密钥调度方式以及轮函数结构的信息泄露规律，分别给出了对于GIFT-64算法的平衡 Biclique攻击和 Star攻击结果。对于GIFT-64算法的平衡Biclique攻击所需的数据复杂度和计算复杂度分别为$2 ^ { 3 2 }$ 和 $2 ^ { 1 2 7 . 3 6 }$ ；对于GIFT-64 算法的 Star攻击所需的数据复杂度和计算复杂度分别为2和 $2 ^ { 1 2 7 . 4 8 }$ 。这是首个对于全轮GIFT-64算法的安全性分析结果。
+
+关键词：轻量级分组密码；GIFT算法；密码分析；Biclique分析；Star攻击 中图分类号：TN918.1 doi:10.19734/j.issn.1001-3695.2018.11.0826
+
+# Biclique analysis of GIFT-64
+
+Guo Weibol,Liu Binl, Wang Yang2 (1.Information Engineering University,Zhengzhou45ooo1,China;2.Xi'an Divisionof Surveying& Mapping,Xi’an 710054, China)
+
+Abstract:GIFT isa lightweight block cipher with high efciencyand low power consumption.There are few research results toevaluate its security.This paper presented thebalanced Bicliqueand Star atackson GIFT-64 based on the Bicliqueattack method,combined with the information leakageofthekeyscheduling and the round function structureof GIFT-64.The data complexityand computationalcomplexity required for the balanced Biclique atack of GIFT-64 are $2 ^ { 3 2 }$ （204 and $2 ^ { 1 2 7 . 3 6 }$ respectively. The data complexity and computational complexity required for the Star attck of GIFT-64 are 2 and $2 ^ { 1 2 7 . 4 8 }$ respectively. These are the first security analysis for the ful-round GIFT-64.
+
+Key words: lightweight block cipher; gift; cryptanalysis; Biclique analysis; star attack
+
+# 0 引言
+
+GIFT算法是由Banik等人[1]于CHES2017上提出的一种SPN结构的轻量级分组密码算法，适用于物联网、无线传感网络等资源受限的环境。该算法基于PRESENT算法[2]设计理念进行设计，但与PRESENT算法相比，所需的功耗更低，甚至具有更优的实现效率。GIFT算法的密钥规模为128bit，根据分组规模的不同，可分为GIFT-64和GIFT-128这两种。
+
+Biclique分析方法由Bogdanov等人[3]于2011年Asiacrypt上提出的一种针对分组密码和哈希函数的新型攻击方法，其本质是基于中间相遇思想，利用差分攻击技术并借助密码算法结构和密钥调度的信息泄露规律实现密钥恢复的一种攻击方法。利用此攻击方法，一般能够实现对于全轮分组密码算法的安全性分析。最初被应用于对全轮AES算法4的攻击，且攻击复杂度低于穷举攻击，后续的，有一系列运用Biclique攻击方法分析其他分组密码算法安全性的分析结果，例如对LBlock[5]、PRESENT[6]、Piccolo[7,8]等算法的安全性分析。
+
+现有的对于GIFT算法的安全性分析结果较少，而由于GIFT算法采用与PRESENT算法类似的算法构造，因此对于PRESENT算法的一系列安全性分析方法对GIFT算法同样适用。其中，设计者在设计文档中简要分析了GIFT算法在差分分析、线性分析、不变子空间攻击、代数攻击等攻击方法下的安全性；赵静远等人[9结合自动搜索技术，找到了
+
+GIFT-64算法的10轮差分区分器，并基于此区分器给出了16轮和17轮GIFT-64算法的差分分析结果。本文中利用Biclique分析方法，首次评估了全轮GIFT-64算法在平衡Biclique攻击和Star攻击下的安全性。
+
+# 1 基础知识
+
+# 1.1GIFT算法简介
+
+GIFT 算法采用 SPN 结构进行设计，其设计理念与PRESENT算法类似，是由设计者为纪念PRESENT算法问世十周年推出了一种新的轻量级分组密码算法。与PRESENT相比，GIFT算法的S盒不再受分支数为3的限制，且在算法的实现效率方面更优。
+
+GIFT算法根据分组规模不同，分为GIFT-64和GIFT-128两种，加密轮数分别为28轮和40轮，所使用的密钥量均为128 比特。本文中主要分析GIFT-64 算法在Biclique 攻击下的安全性，因此此处仅对GIFT-64算法的具体结构进行介绍。
+
+GIFT-64算法的一轮轮函数顺序执行如下三个运算：S盒变换；比特置换；密钥加变换。下面详细介绍这三个运算的具体过程，GIFT-64算法的轮函数结构示意图如图1所示。
+
+a)S 盒变换。GIFT算法的S盒变换是算法唯一的非线性环节，其由16个相同的4-bit可逆S盒并置而成，对算法状态值的每一半子节均进行作用，达到混乱的效果。GIFT-64算法所采用的4-bitS盒的具体结构如表1所示。
+
+![](images/4318929f471159ffe9db114c1540e431b57905dd71e335c653d5904781c504eb.jpg)  
+图1GIFT-64 算法轮函数
+
+表1GIFT-64 算法的4-bit S 盒Table1The 4-bitS-box ofGIFT-64  
+
+<html><body><table><tr><td>X</td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>a</td><td>b</td><td>C</td><td>d</td><td>e</td><td>f</td></tr><tr><td>S(x)</td><td>1</td><td>a</td><td>4</td><td>c</td><td>6</td><td>f</td><td>3</td><td>9</td><td>2</td><td>d</td><td>b</td><td>7</td><td>5</td><td>0</td><td>8</td><td>e</td></tr></table></body></html>
+
+b)比特置换。GIFT-64算法的置换层是基于比特进行运算，实现将第 $i$ 个比特位置的状态值置换为第 $P ( i )$ 位，即
+
+$$
+b _ { P ( i ) } = b _ { i } , \forall i \in \{ 0 , 1 , . . . , 6 3 \}
+$$
+
+该算法每一轮的输入状态从右至左依次为第0至第63个比特，表2给出了GIFT-64算法具体的置换表。
+
+表2GIFT-64 算法的比特置换  
+
+<html><body><table><tr><td>i</td><td>0</td><td>1</td><td>2</td><td>3</td><td>4 5</td><td>6</td><td>7 8</td><td>9</td><td>10</td><td>11 12</td><td>13 14</td></tr><tr><td>P64(i)</td><td>0</td><td>17</td><td>34</td><td>51</td><td>48</td><td>1 18 35</td><td>32</td><td>49 2</td><td>19</td><td>16 33</td><td>50 3</td></tr><tr><td>i</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20 21</td><td>22 36</td><td>24</td><td>25 26 27</td><td>28</td><td>29 30</td><td>31</td></tr><tr><td>P64(i)</td><td>4</td><td>21</td><td>38</td><td>55</td><td>52 5</td><td>22 39</td><td>36</td><td>53 6 23</td><td>20</td><td>37 54</td><td>7</td></tr><tr><td>i</td><td>32</td><td>33</td><td>34</td><td>35</td><td>36 37</td><td>38 39</td><td>40</td><td>41 42</td><td>43 44</td><td>45</td><td>46 47</td></tr><tr><td>P64(i)</td><td>8</td><td>25</td><td>42</td><td>59</td><td>56 9</td><td>26 43</td><td>40</td><td>57 10</td><td>27 24</td><td>41</td><td>58 11</td></tr><tr><td>i</td><td>48</td><td>49</td><td>50</td><td>51</td><td>52 53</td><td>54 55</td><td>56</td><td>57 58</td><td>59 60</td><td>61</td><td>62 63</td></tr><tr><td>P64(i)</td><td>12</td><td>29</td><td>46</td><td>63</td><td>60 13</td><td>30 47</td><td>44</td><td>61 14</td><td>31 28</td><td>45 62</td><td>15</td></tr></table></body></html>
+
+c密钥加变换。该步骤由轮密钥加和轮常数加两部分组成。对于密钥加部分，通过密钥调度算法生成32bits的轮密钥 $R K ^ { r }$ ， $r \in \{ 1 , 2 , . . . , 2 8 \}$ ，将轮密钥划分成两部分，即
+
+$$
+R K ^ { r } = U \left\| V = u _ { 1 5 } . . . u _ { 0 } \right\| \nu _ { 1 5 } . . . \nu _ { 0 } ,
+$$
+
+将 $U$ 和 $V$ 分别与状态值 $\{ b _ { 4 i + 1 } \}$ 和 $\{ b _ { 4 i } \}$ 异或得到
+
+$$
+b _ { 4 i + 1 }  b _ { 4 i + 1 } \oplus u _ { i } , b _ { 4 i }  b _ { 4 i } \oplus \nu _ { i } , \forall i \in \{ 0 , . . . , 1 5 \}
+$$
+
+对于常数加部分，将单比特"1"和一个6比特常数$C { = } c _ { 5 } c _ { 4 } c _ { 3 } c _ { 2 } c _ { 1 } c _ { 0 }$ 分别与状态值的第63,23,19,15,11,7和第3个比特进行异或，即
+
+$$
+b _ { 6 3 }  b _ { 6 3 } \oplus 1 ,
+$$
+
+$$
+b _ { 2 3 }  b _ { 2 3 } \oplus c _ { 5 } , b _ { 1 9 }  b _ { 1 9 } \oplus c _ { 4 } , b _ { 1 5 }  b _ { 1 5 } \oplus c _ { 3 } ,
+$$
+
+$$
+b _ { 1 1 }  b _ { 1 1 } \oplus c _ { 2 } , b _ { 7 }  b _ { 7 } \oplus c _ { 1 } , b _ { 3 }  b _ { 3 } \oplus c _ { 0 }
+$$
+
+密钥调度算法对于GIFT-64算法，轮密钥 $R K ^ { r } = U \parallel V$ 由从密钥状态 $( k _ { 7 } \parallel k _ { 6 } \parallel . . . \parallel k _ { 0 } )$ 中提取的两个16比特字组成，且轮密钥的提取在密钥状态更新之前，即
+
+$$
+U  k _ { 1 } , V  k _ { 0 }
+$$
+
+密钥状态的更新方式如下：
+
+$$
+k _ { 7 } \parallel k _ { 6 } \parallel . . . \parallel k _ { 0 }  k _ { 1 } > > 2 \parallel k _ { 0 } > > 1 2 \parallel . . . \parallel k _ { 3 } \parallel k _ { 2 } ,
+$$
+
+这里的 $\ggg j$ 表示在一个16比特字中循环右移 $j$ 位。
+
+轮常数定义为 $( c _ { 5 } , c _ { 4 } , c _ { 3 } , c _ { 2 } , c _ { 1 } , c _ { 0 } )$ ，其通过一个LFSR作用进行状态值更新，初始值置0，采用如下函数进行状态更新：
+
+$$
+( c _ { 5 } , c _ { 4 } , c _ { 3 } , c _ { 2 } , c _ { 1 } , c _ { 0 } ) \gets ( c _ { 4 } , c _ { 3 } , c _ { 2 } , c _ { 1 } , c _ { 0 } , c _ { 5 } \oplus c _ { 4 } \oplus 1 )
+$$
+
+表3给出了GIFT-64算法中各轮使用的轮常数。关于算法更多的设计细节详见文献[1]。
+
+Table 64Bit permuation of GIFT-64   
+表3GIFT-64 算法的各轮轮常数  
+Table 3 Round constants ofGIFT-64   
+
+<html><body><table><tr><td>轮数 轮常数</td></tr><tr><td>1-14 01 03 07 0F 1F 3E 3D 3B 37 2F 1E 3C 39 33 15-28 27 0E 1D 3A 35 2B 16 2C 18 30 21 02 05 0B</td></tr></table></body></html>
+
+# 1.2Biclique分析方法基本原理
+
+Biclique 攻击首先需要构造Biclique 结构，而Bogdanov等人在文献[3]给出的对于AES算法的平衡Biclique 攻击中，提出了两种构造Biclique 结构的方法，分别为IndependentBiclique 结构和LongBiclique 结构。由于IndependentBiclique结构的构造更为简易，且攻击轮数更长，所以后续的研究结果中一般采用此结构对密码算法进行Biclique分析，本文中同样如此。而在进行具体攻击时，根据构造所得结构维数不同，还可分为平衡Biclique 攻击、非平衡Biclique 攻击和 Star攻击。下面介绍Biclique 结构和Biclique 攻击具体步骤。
+
+1)Biclique 结构
+
+一般来讲，一个Biclique 结构就是一个二分图，通常用三元组的形式进行表示。令 $\boldsymbol { r }$ 轮子算法 $f$ 在密钥 $K [ i , j ]$ 作用下将密文状态 $C$ 中的 $2 ^ { d _ { 1 } }$ 个元素 $C ^ { i }$ 映射到中间状态 $s$ 中的 $2 ^ { d _ { 2 } }$ 个元素 $S ^ { j }$ ，也就是 $S ^ { j } \longleftrightarrow \frac { K [ i , j ] } { f } \to C ^ { i }$ ， $\forall i \in \{ 0 , 1 , . . . , 2 ^ { d _ { 1 } - 1 } \} , \forall j \in \{ 0 , 1 , . . . , 2 ^ { d _ { 2 } - 1 } \}$ 。将这样的三元组 $( \{ C ^ { i } \} , \{ S ^ { j } \} , K [ i , j ] )$ 记为 $( d _ { 1 } , d _ { 2 } )$ 维Biclique 结构。若 $d _ { 1 } = d _ { 2 } = d \neq 0$ ，则称为平衡 Biclique 结构，若 $d _ { 1 } = 0 , d _ { 2 } = d ^ { \prime } \neq 0$ ，则称为 Star 结构， $\begin{array} { r } { d _ { 1 } \neq d _ { 2 } } \end{array}$ 且均不为0 时为非平衡Biclique 结构。图2表示一般的密文方向的Biclique 结构，相应的，根据算法实际，还可以构造明文方向的Biclique 结构用于实施攻击。
+
+![](images/77e818d823ac0dd5e5afb1097f1f799a95459924ff578cebffa0a1ab9439e92c.jpg)  
+Fig.1 Round function of GIFT-64   
+图2Biclique 结构 Fig.2Biclique structure
+
+2)Biclique攻击流程
+
+将一个分组密码 $E _ { K }$ 看做多个子算法的结合，即使得由密文状态C 映射到明文状态 $\mathrm { ~ \bf ~ P ~ }$ 有如下表示：
+
+$$
+P   V   S   C
+$$
+
+其中 $f$ 表示构造Biclique结构的子算法， $\scriptstyle { e _ { 1 } }$ 和 $e _ { 2 }$ 分别表示匹配阶段的子算法， $V$ 表示匹配向量，进而可将Biclique 攻击分为以下四步：密钥划分；构造 Biclique 结构；状态匹配；
+
+密钥筛选。
+
+攻击所需的复杂度主要包括数据复杂度和计算复杂度。其中，数据复杂度由进行Biclique 结构构造时所需的选择明（密）文数量决定，计算复杂度主要三部分组成，即Biclique结构构造、状态匹配以及密钥筛选所需的计算复杂度。由于GIFT-64算法的非线性部件 $s$ 盒占用的计算资源明显多于其他环节，因此在本文中进行计算复杂度估计时，近似的以所需计算的S盒个数来估计攻击所需的计算复杂度。且为了进一步降低攻击所需的计算复杂度，在上述介绍的状态匹配过程中，攻击者通过检验前向和后向匹配过程得到的匹配向量值是否一致，筛选错误密钥，此时，还可以利用预计算匹配技术3降低匹配阶段的计算复杂度。
+
+# 2 GIFT-64 算法的平衡Biclique 分析
+
+首先，本文利用文献[3]中构造Biclique 结构的方法，通过合适的密钥划分，构造得到了一个明文方向的5轮(4,4)平衡Biclique 结构。进一步地，给出了全轮GIFT-64算法的安全性分析结果。
+
+a)密钥划分。根据密钥调度算法，选取$k _ { 2 } [ 0 , 1 2 ] , k _ { 3 } [ 0 , 4 ] , k _ { 4 } [ 0 , 1 ] , k _ { 5 } [ 0 , 1 ]$ 为活动比特位。令 $K [ 0 , 0 ]$ 为上述8比特位置密钥为0，其余位置遍历的主密钥。将128比特主密钥划分为 $2 ^ { 1 2 0 }$ 个集合，每一密钥集合中包含 $2 ^ { 8 }$ 个密钥 $K [ i , j ]$ 。
+
+这里的 $K [ i , j ]$ 由 $K [ 0 , 0 ]$ 与密钥差分 $\Delta _ { i } ^ { k }$ 和 $\nabla { } _ { j } ^ { k }$ 组成，其中$\Delta _ { i } ^ { k } = ( k _ { 2 } [ 0 , 1 2 ] , k _ { 3 } [ 0 , 4 ] )$ ， $\nabla _ { j } ^ { k } = ( k _ { 4 } [ 0 , 1 ] , k _ { 5 } [ 0 , 1 ] )$ 。
+
+b)构造平衡Biclique 结构。基于上述划分的密钥空间，通过相应的轮密钥构造对应的相关密钥差分特征 $\Delta _ { i }$ 和 $\nabla _ { j }$ ，经分析可得， $( \Delta _ { i } , \nabla _ { j } )$ 中无重合的S盒，即两者相互独立，也就是说构造得到了一个5轮(4,4)平衡Biclique结构$( \{ P ^ { i } \} , \{ S ^ { i } \} , K [ i , j ] )$ 。图3给出了具体结构。
+
+c)状态匹配。根据构造得到的5轮(4,4)平衡Biclique 结构，得到 $2 ^ { 4 }$ 个明文状态 $P ^ { i }$ ，通过正确密钥解密得到对应的24个密文状态 $C ^ { i }$ ，选择第17轮的第 44-47个输出比特为匹配向量。由 $C ^ { i }$ 向上解密11轮，称为后向匹配阶段， $S ^ { j }$ 向下加密12轮，称为前向匹配阶段，图4给出了平衡Biclique攻击的状态匹配过程，由图可得，在前向匹配阶段只需对图中32个S盒进行预计算，12个S盒进行2次重计算，4个S盒进行2次重计算，148个S盒进行24重计算；在后向匹配阶段，只需对图中36个S盒进行预计算，4个S盒进行2次重计算，8个S盒进行2次重计算，101个S盒进行 $2 ^ { 4 }$ 重计算，即可完成匹配。图4中白色表示不需计算的S盒，淡灰色表示需预计算的S盒，灰色表示需重计算的S盒。
+
+综上，对于GIFT-64 算法的(4,4)平衡Biclique 攻击所需的数据复杂度为232个选择明文，计算复杂度为2127.36次全轮GIFT-64加密。证毕。
+
+![](images/4fdce290b9b9413a47e05cf5e9352b6c89bca9dab894eb40f44a2504a3adf48b.jpg)  
+图35轮（4,4）平衡Biclique 结构  
+Fig.35-round (4,4) Balanced Biclique structure
+
+d)密钥筛选。由于使用的匹配向量为第44\~47bit共24个可能值，即得平均一个错误密钥通过筛选的概率为 $2 ^ { - 4 }$ 。又根据每个密钥集合中含有 $2 ^ { 8 }$ 个密钥，所以每个密钥集合平均有$2 ^ { 8 } \times 2 ^ { - 4 } = 2 ^ { 4 }$ 个密钥通过筛选，即得到了 $2 ^ { 4 }$ 个候选密钥。最后，对每个集合中剩余的2+个候选密钥进行全轮加密，检验得到初始的正确密钥。上述GIFT-64 算法平衡 Biclique 攻击所需的复杂度指标由定理1给出。
+
+定理1采用5轮(4,4)平衡Biclique 结构对GIFT-64算法进行安全性分析，可恢复全轮GIFT-64算法的主密钥，攻击所需的数据复杂度为 $2 ^ { 3 2 }$ ，计算复杂度为 $2 ^ { 1 2 7 . 3 6 }$ 。
+
+证明攻击所需数据复杂度主要为构造平衡 Biclique 结构所需的选择明文量，根据图3可得，对于每一个Biclique结构，需遍历明文的第0-31个比特，第32-63个比特固定，即得数据复杂度为232个选择明文。
+
+攻击所需的计算复杂度主要包含三部分。一是构造Biclique 结构，由图3可得，构造过程需对64个S盒进行预计算，12个S盒进行2次重计算，4个S盒进行24重计算，即结构构造过程中共需计算176个S盒。二是状态匹配，主要包含前向匹配和后向匹配两个阶段。根据上述攻击过程可得，前向匹配阶段预计算32个S盒，对12个S盒进行2次重计算，4个S盒进行2次重计算，148个S盒进行 $2 ^ { 4 }$ 重计算，即需计算 $2 ^ { 4 } \times ( 3 2 + 2 \times 1 2 + 2 ^ { 2 } \times 4 + 2 ^ { 4 } \times 1 4 8 ) = 3 9 0 4 0$ 个S盒；后向匹配需要预计算36个S盒，对4个S盒进行2次重计算，8个S盒进行 $2 ^ { 2 }$ 次重计算，101个S盒进行 $2 ^ { 4 }$ 重计算，即需计算 $2 ^ { 4 } \times ( 3 6 + 2 \times 4 + 2 ^ { 2 } \times 8 + 2 ^ { 4 } \times 1 0 1 ) = 2 7 0 7 2$ 个S盒。也就是说，匹配阶段所需计算的S盒个数总计为： $3 9 0 4 0 + 2 7 0 7 2 = 6 6 1 1 2$ 。三是密钥筛选，由每一密钥子集合剩余 $2 ^ { 4 }$ 候选密钥，则
+
+$C _ { f l a s e } = 2 ^ { 4 }$ 。因此上述攻击所需的计算复杂度总计为$C = 2 ^ { 1 2 0 } \times ( \frac { 1 7 6 + 6 6 1 1 2 } { 2 8 \times 1 6 } + 2 ^ { 4 } ) \approx 2 ^ { 1 2 7 . 3 6 }$ 次全轮 GIFT-64 加密。
+
+![](images/eca12b228bde4a3ceb25619115f982db3abf84b84def526e0da4d78ad49a5e4e.jpg)  
+图4GIFT-64 算法平衡Biclique 攻击的状态匹配过程
+
+Fig.4Matching phase of balanced Biclique attack on GIFT-64
+
+# 3 GIFT-64 算法的 Star攻击
+
+上一章中主要运用平衡Biclique 攻击方法分析了全轮GIFT-64算法的安全性,在本节中主要考虑运用Star攻击给出对于全轮GIFT-64最低数据复杂度的攻击结果。Star攻击最先是由Bogdanov 等人[1]于 2014 年提出的一种非平衡Biclique攻击方法,最早应用于分析AES算法的安全性。该攻击方法的攻击过程与平衡Biclique攻击过程基本一致,但所需数据复杂度很少，一般为2\~3个已知明文,相应的计算复杂度就有所增加,下面给出针对GIFT-64算法Star攻击的具体步骤
+
+a)密钥划分。基于密钥调度算法，选取$k _ { 4 } [ 0 , 1 , 8 , 1 1 ] , k _ { 5 } [ 0 , 1 , 8 , 1 1 ]$ 为活动比特位。令 $K [ 0 , 0 ]$ 为上述8比特位置密钥为0，其余位置遍历的主密钥。将128比特主密钥划分为 $2 ^ { 1 2 0 }$ 个集合，每一密钥集合中包含 $2 ^ { \mathrm { { s } } }$ 个密钥 $K [ i , j ]$ 。这里的 $K [ i , j ]$ 由 $K [ 0 , 0 ]$ 与密钥差分 $\Delta _ { i } ^ { k }$ 和 $\nabla _ { \boldsymbol { j } } ^ { k }$ 组成，其中$\Delta _ { i } ^ { k } = ( k _ { 4 } [ 0 , 1 ] , k _ { 5 } [ 0 , 1 ] )$ ， $\nabla _ { j } ^ { k } = ( k _ { 4 } [ 8 , 1 1 ] , k _ { 5 } [ 8 , 1 1 ] )$ 。
+
+b)构造Star结构。基于上述划分的密钥空间，通过相应的轮密钥构造对应的相关密钥差分特征 $\Delta _ { i }$ 和 $\nabla _ { j }$ ，与平衡Biclique 结构一样， $( \Delta _ { i } , \nabla _ { j } )$ 中无重合的S盒，即两者相互独立，也就是说构造得到了一个4轮8维Star结构。图5给出了具体结构。
+
+c)状态匹配。根据构造得到的4轮8维Star结构，与上一节的攻击过程类似，选择第16轮的第44-47个输出比特为匹配向量。在前向匹配阶段只需对8个S盒进行预计算，8个S盒进行 $2 ^ { 4 }$ 重计算，164个S盒进行2重计算；在后向匹配阶段，只需34个S盒进行预计算，4个S盒进行2次重计算，2个S盒进行2次重计算，8个S盒进行2+重计算，117个S盒进行28重计算，即可完成匹配。图6给出了状态匹配阶段的具体路径，图中所用的颜色标志与图4相同。
+
+d)密钥筛选。由于使用的匹配向量为16轮输出状态的第44-47个比特共24个可能值，即得平均一个错误密钥通过筛选的概率为 $2 ^ { - 4 }$ 。又根据每个密钥集合中含有28个密钥，所以每个密钥集合平均有 $2 ^ { 8 } \times 2 ^ { - 4 } = 2 ^ { 4 }$ 个密钥通过筛选，即得到了24个候选密钥。最后，对每个集合中剩余的24个候选密钥进行全轮加密，验证得到正确密钥。上述GIFT-64算法Star攻击所需的复杂度指标由定理2给出。
+
+定理2采用4轮8维Star结构对GIFT-64算法进行安全性分析，可恢复全轮GIFT-64算法的主密钥，攻击所需的数据复杂度为2，计算复杂度为 $2 ^ { 1 2 7 . 4 8 }$ 。
+
+证明攻击所需的计算复杂度同样包含三部分。一是构造Star结构，由图5可得，构造过程需对60个S盒进行预计算，4个S盒进行2次重计算，即结构构造过程中共需计算 76个S盒。二是状态匹配，主要包含前向匹配和后向匹配两个阶段。根据上述攻击过程可得，在前向匹配阶段只需对8个S盒进行预计算，8个S盒进行24重计算，164个S盒进行2重计算，即需计算42120个S盒；在后向匹配阶段，只需34个S盒进行预计算，4个S盒进行2次重计算，2个S盒进行2次重计算，8个S盒进行 $2 ^ { 4 }$ 重计算，117个S盒进行2重计算。即需计算30130个S盒。也就是说，匹配阶段所需计算的S盒个数总计为： $4 2 1 2 0 + 3 0 1 3 0 = 7 2 2 5 0$ 。三是密钥筛选，由每一密钥子集合剩余 $2 ^ { 4 }$ 候选密钥，则 $C _ { f l a s e } = 2 ^ { 4 }$ 。因此上述攻击所需的计算复杂度总计为$C = 2 ^ { 1 2 0 } \times ( \frac { 7 6 + 7 2 2 5 0 } { 2 8 \times 1 6 } + 2 ^ { 4 } ) \approx 2 ^ { 1 2 7 . 4 8 }$ 次全轮GIFT-64 加密。数据复杂度方面，使用2个明密文对，使得攻击成功率为1。
+
+综上，对于GIFT-64算法的Star攻击所需的数据复杂度为2个选择明文，计算复杂度为 $2 ^ { 1 2 7 . 4 8 }$ 次全轮 GIFT-64 加密。证毕。
+
+![](images/d423ec90970e6ec38f7524da2f78b4d01506dd241b3807dba6b33bc8c13af83d.jpg)  
+Fig.4Rounds of 8-dimensional Star structure of GIFT-64
+
+![](images/456b545a34a023ee113ca5305caa54f5d3dba5b010e735138767e5a9e4a6c2b7.jpg)  
+图5GIFT-64 算法4轮8维 Star 结构
+
+图6GIFT-64 算法 Star攻击匹配阶段  
+Fig.6Matching phase of Star attack on GIFT-64
+
+# 4 结束语
+
+本文利用Biclique攻击方法分析了GIFT-64算法在平衡Biclique攻击和Star攻击下的安全性，结合GIFT-64 算法线性密钥调度算法的信息泄露规律，分别给出了首个对于全轮GIFT-64算法最优计算复杂度和最低数据复杂度的安全性分析结果。下一步工作主要考虑利用Biclique 攻击方法实现对于GIFT-128算法的安全性分析，扩充GIFT系列算法的安全性分析结果。
+
+# 参考文献：
+
+[1]Banik S,Pandey SK,Peyrin T,et al. GIFT:a small PRESENT[C]、、 Proc of International Conference on Cryptographic Hardware and Embedded Systems.Cham:Springer,2017:321-345.   
+[2]Bogdanov A，Knudsen L R,Leander G，et al. PRESENT:an ultra-lightweight block cipher [C]//Proc of International Workshop on Cryptographic Hardware and Embedded Systems.Berlin:Springer,2007: 450-466.   
+[3]Bogdanov A,Khovratovich D,Rechberger C.Biclique cryptanalysis of the fullAES[C]//Advances in Cryptology.2011:344-371.   
+[4]National Institute of Standard and Technology (NIST).Federal information processing standards publication 197 (FIPS Pub 197): specification for the advanced encryption standard (AES)[S].2001.   
+[5]Wang Yanfeng，Wu Wenling，Yu Xiaoli,et al.Security on LBlock against biclique cryptanalysis[C]//Proc of International Workshop on Information Security Applications.Berlin:Springer, 2012:1-14.   
+[6]Jeong K,Kang HC,Lee C,et al.Biclique cryptanalysis of lightweight blockciphersPRESENT,piccolo andLED[J].IACR Cryptology ePrint Archive,2012,2012:621.   
+[7]Wang Yanfeng,Wu Wenling,Yu Xiaoli,et al.Biclique Cryptanalysis of Reduced-Round Piccolo Block Cipher [C]//Proc of International Conferenceon Information Security Practice and Experience. Berlin:Springer,2012:337-352.   
+[8]Ahmadi S,Ahmadian Z,Mohajeri J,et al.Low-data complexity biclique cryptanalysis of block ciphers with application to Piccolo and Hight [J].IEEE Trans on Information Forensics and Security,2014, 9(10): 1641-1652.   
+[9]赵静远，徐松艳，张子剑，等．轻量级分组密码算法GIFT的差分 分析[J].密码学报,2018,5(4):335-343.(Zhao Jingyuan,Xu Songyan, Zhang Zijian,et al.Differential analysis of lightweight block cipher GIFT[J]. Journal of Cryptologic Research,2018,5(4): 335-343.)   
+[10]Bogdanov,A.,Chang,D.,Ghosh,M.，et al.Biclique with minimal data and time complexity for AES [C]//Information Security and Cryptology.2014:160-174.   
+[11]崔竞一，郭建胜，刘翼鹏．广义Independent Biclique 攻击框架及其
+
+应用[J].计算机学报,2018,41(2):349-367.(Cui Jingyi,Guo Jiansheng, Liu Yipeng.Generalized Independent Biclique automated attack framework and its applications[J]. Chinese Journal of Computers,2018, 41(2): 349-367.)

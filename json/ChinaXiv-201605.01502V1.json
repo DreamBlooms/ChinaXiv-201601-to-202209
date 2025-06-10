@@ -1,0 +1,589 @@
+[
+    {
+        "type": "text",
+        "text": "RESEARCHARTICLE ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Uncovering the Molecular Mechanism of Actions between Pharmaceuticals and Proteins on the AD Network ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Shujuan Cao1, Liang $\\gamma _ { \\mathrm { { u } } } \\mathfrak { u }$ , Jingyuan Mao², Quan Wang3,4, Jishou Ruan1.5 \\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 College of Mathematical SciencesandLPMC,Nankai University,Tianjin,PRC,2 Internal Medicine forthe Heart,Tianjin Universityof Traditional Chinese Medicine,Tianjin,PRC,3 National Laboratoryof Macromolecules,Institute of Biophysics,Chinese Academy of Science,Beijing,PRC,4 High Throughput Molecular Drug Discovery Center,Tianjin International Joint Academyof Biomedicine,TEDA,Tianjin,PRC, 5State Key Laboratory for Medical Chemical and Biology,Nankai University,Tianjin,PRC ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Editor:Weidong Le,Institute of Health Science, CHINA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: Cao S,YuL,Mao J,Wang Q,Ruan J (2015) Uncovering the Molecular Mechanism of Actions between Pharmaceuticals and Proteins on the AD Network.PLoS ONE 10(12): e0144387. doi:10.1371/journal.pone.0144387 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received: May11,2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Accepted: November17,2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Published: December 9,2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Copyright: $\\circledcirc$ 2015 Cao et al.This is an open access articledistributed under the terms of the Creative Commons Attribution License,which permits unrestricted use,distribution,and reproduction in any medium,provided the original author and source are credited. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "These authors contributed equally to this work. \\*jsruan $@$ nankai.edu.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Data Availability Statement:All relevant data are within the paper and its Supporting Information files. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Funding:J.R.and his research group are thankful for the financial support from the Natural Science Funding of China (grants 10671100,11101226, 31050110432,and 31150110577).J.R.also expresses gratitude to the International Development Research Center in Ottawa, Canada (grant 104519- 010). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Competing Interests:The authors have declared that no competing interests exist. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This study begins with constructing the mini metabolic networks (MMNs) of beta amyloid (Aβ)and acetylcholine (ACh) which stimulate the Alzheimer's Disease (AD).Then we generate the AD network by incorporating MMNs of Aβ and ACh,and other MMNs of stimuli of AD.The panel of proteins contains 49 enzymes/receptors on the AD network which have the 3D-structure in PDB.The panel of drugs is formed by 5 AD drugs and 5 AD nutraceutical drugs,and 20 non-AD drugs.All of these complexes formed by these 30 drugs and 49 proteins are transformed into dyadic arrays. Utilizing the prior knowledge learned from the drug panel,we propose a statistical classification (dry-lab). According to the wet-lab for the complex of amiloride and insulin degrading enzyme,and the complex of amiloride and neutral endopeptidase,we are confident that this dry-lab is reliable.As the consequences of the dry-lab,we discover many interesting implications.Especially,we show that possible causes of Tacrine, donepezil, galantamine and huperzine A cannot improve the level of ACh which is against to their original design purpose but they stillprevent AD to be worse as $\\mathsf { A } \\mathsf { \\beta }$ deposition appeared. On the other hand, we recommend Miglitol and Atenolol as the safe and potent drugs to improve the level of ACh before $\\mathsf { A } \\mathsf { \\beta }$ deposition appearing. Moreover, some nutrients such as NADH and Vitamin E should be controlled because they may harm health if being used in wrong way and wrong time. Anyway,the insights shown in this studyare valuable to be developed further. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Currently,the causes of Alzheimer's Disease (AD) remain quite unclear and no safe and effective drug may stop or reverse the progression of AD although many hypotheses have been proposed including cholinergic-,tau protein-,amyloid- hypotheses [1-3] and many risk factors have been identified including apolipoprotein E (APOE) [4-5], mutations of triggering ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "receptor expressed on myeloid cels 2 (TREM2)[6-7],susceptibility loci [8], viral [9],agerelated myelin breakdown [1O],dys-homeostasis [11],diabetes and cardiovascular risk factors [12],etc.Moreover,the epidemiological studies during 2005-2007 have showed that the prevalence of AD is increasing [13] while pharmaceuticals emerged as a new risk factor [14]. Therefore,it is appealing to discover safe and effective pharmaceutical treatments and to develop non-invasive imaging agents to detect AD.In addition,it is also important to understand the mechanism of pharmaceutical products and their effects on the prevalence of AD.This requires new insights into molecular mechanism of action between the available pharmaceuticals and the proteins on AD network. For simplicity, in the rest of this paper we only use the word “drug\" which could means ligand,compound,or pharmaceutical. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "There are three typical strategies to design drugs: (1) Choosing converting enzymes of the stimulus as the target in order to down-regulate the level of the stimulus; (2) Choosing cleaning enzymes as the target in order to up-regulate the level of the stimulus; and (3) Choosing the receptor as the target in order to prevent the specific function induced by the given stimulus from docking on a receptor. Some drugs may dramatically alter the level of the specific stimulus,and therefore they are welcomed by both doctors and patients.Nevertheless,clinical evidences show that almost all metabolic diseases cannot be completely cured with drugs, although the levels of the markers can be regulated to the expected level by these drugs.How to solve this puzzle is the main goal of drug design. An insight has newly emerged from industry which requires that multiple mechanisms of a disease should be covered when designing a particular drug (see A BioMAP.Drug Discovery Case Study). However,how to cover many mechanisms simultaneously has not yet been elucidated. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Since the molecular mechanism for conventional drug designing is increase or decrease the level of a stimulus.In practice,a disease may have more stimuli at the same time.For example, brain natriuretic peptide (BNP),angiotensin II (Ang-II or AII for short),and aldosterone are markers related to heart failure (HF) and hypertension (HT).Historically, while one drug is used to decrease the level of Ang-I, it can increase the level of BNP at the same time.Therefore a double inhibitor of NEP and ACE was proposed and Omapatrilat, Alatrioprilat, Sampatrilat and Gemopatrilat were thought to be the most potent double inhibitors [15].After substantial investigating,they were found to have failed the phase-II trials because the side-effects of these double inhibitors are stronger than either the NEP inhibitor/ACE inhibitor individually or a combination of them[16]. This reveals that artificially designed multiple inhibitors are both difficult and highly risky[17]. In this study, we willshow that our computational results suggest multiple inhibitors exist if we discover them in accordance with their natural tendency rather than through our own design. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We organize the rest of this paper as follows.Firstly,we show how to construct the AD network based on basic hypotheses and risk factors,how to form the panel of proteins and the panel of drugs,and then transform all complexes formed by the drugs and proteins in the panels into dyadic arrays by using ILbind [18] and Vina, the newest version of Autodock [19]. Secondly,we model the statistical classification by learning from 30 complexes formed by the given drugs and their targets.We then divide all 1,470 complexes into 7 groups of $\\mathrm { H } _ { 0 } – \\mathrm { H } _ { 6 }$ according to their dyadic arrays,where the complexes in $\\mathrm { H } _ { 0 }$ are highly recommended while those in $\\mathrm { H } _ { 6 }$ are highly rejected. Obviously, the complexes Amiloride-Insulin degradation enzyme (AMR-IDE) and Amiloride- neutral endopeptidase (AMR-NEP) are located at the top corner of $\\mathrm { H } _ { 1 }$ and therefore their positions are the worst cases relative to most of complexes in $\\mathrm { H } _ { 0 }$ or $\\mathrm { H } _ { 1 }$ . The $\\mathrm { I C } _ { 5 0 }$ results show that AMR strongly inhibits IDE and weakly inhibits NEP, which suggests that drug binds the protein is a high probability event for most complexes in $\\mathrm { H } _ { 0 }$ or $\\mathrm { H } _ { 1 }$ .Thirdly, we discuss on filtering some false positive complexes according to the function of the binding sites and binding position [20-21]. Finally, we draw some potential conclusions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MaterialsandMethods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Constructing the AD network ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Although this study focuses on AD,our proposed framework is applicable to all metabolic diseases. We begin with drug designing for metabolic diseases. Conventionally, investigating a mechanism of a metabolic disease constitutes three main steps: (1) picking stimuli that are strongly related to the given disease,based on clinical cases; (2) among allstrongly related stimuli, selecting a measureable and stable stimulus, which has both high sensitivity and specificity for diagnosing and managing the disease,as a biomarker; and (3) for each selected stimulus, finding its precursor,the enzymes that convert the precursor to the stimulus,the receptors of the stimulus and their associated functions,or the enzymes for cleaning the stimulus. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In order to explore ways of integrating the related mechanisms, we construct the mini metabolic network (MMN) ofa given stimulus.For a given stimulus,the center of an MMN should consists of the precursors,enzymes for converting the stimulus from the precursor, receptors for accepting the stimulus,and enzymes for cleaning the stimulus.Its standard form is shown in Fig 1A. Of course, in practice we can obtain many non-standard variants of an MMN because the precursors,the converting enzymes,and the cleaning enzymes can be regulated by other enzymes,and the receptors may be affected by the endogenic antagonists. Especially, many receptors are GPCR proteins,and therefore have tails composed of G-protein and enzymes.Beta-amyloid (Aβ),acetylcholine (ACh) and phosphorylated tau protein (PTP) are three markers related to AD.We begin with constructing the MMNs of $\\mathrm { A } \\beta$ ,Ach,and PTP,as show in Fig 1B,1C and 1D. For detail, see S1 File. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/09c5e29c854731f008c4eae409abd1ddb14ddba98e27cb43e560ebf6f1a8242d.jpg",
+        "img_caption": [
+            "ig1.(A)hegeneralforofMofstimuus.(B)TeMofA.(C)TheMofACh.(D)TeMMNoftauprotein.Tetiuli(midlerducts) nzymes,and receptorsare highlighted with red,orange,and green colors,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0144387.g001 doi:10.1371/journal.pone.0144387.g002 ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f75b2d9b12998aa9895dbaaa59a8e625d92a8b97ad162f9d0295a44923206485.jpg",
+        "img_caption": [
+            "Fig2.TheADnetworkgeneratedbasedonthreeinimetabolicetworks.Forlearlyunderstandingthisgrapestatetenodesanddgess folows: cyanboxes,andreceptorsareshownbygreenovals.Theedgesareconsistedofthreekindsofarrows.Inwhichgreenarowswith $\" + \"$ indicates the upregulatiiisd down- stream relationship. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In order to generate the AD network based on the three MMNs,we require their cross-talk information and additional auxiliary information mined from the literature, some other stimuli which do not appear in the three MMNs but activate or inactivate the enzymes of MMNs. For example, NF- $\\boldsymbol { \\kappa } \\mathrm { B }$ activates BACE-1 [22-23],and PKC activates ADAM [24]. The interaction between arachidonic acid (AA) and $\\mathrm { A } \\beta$ follows previous work [25],as does the interaction between protein tau and $\\mathrm { A } \\beta$ [26-27],the interaction between acetylcholine and $\\mathrm { A } \\beta$ [28-32], etc.For details,see Text A in S1 File of this paper.We construct an AD network which is much larger than the union of three MMNs,as shown in Fig 2. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Panel of proteins and panel of drugs ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We sort out these enzymes and receptors on the AD network to form the panel of proteins if they have a 3D-structure (partial or entire) in PDB. Consequently,49 enzymes/receptors with partially or entirely known structure in PDB are selected into the panel from the AD network, and are listed in Table A in S1 File.Each enzyme/receptor in the panel has more than one versions of 3D-structure in PDB. Especially, many enzymes/receptors have a large amount of versions in PDB,for example,the number of the versions of BACE-1 in PDB is more than 200. For these cases,we will use the alignment algorithm to select a few versions which are the best representatives of the 3D-structure of an enzyme or a receptor. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In order to show the effects of the AD drugs through using computer-aided approaches, we also need to construct a panel of drugs composed of AD drugs and non-AD drugs. We select 5 AD drugs and 5 nutraceutical drugs,including (1) Donepezil (E20), Galantamine (GNT),Tacrine (THA),and Huperzine A (HUP), which originally are AChE inhibitors [33-34]; (2) Memantine (377) is the unique antagonist of NMDAR [34]; and (3) the other 5 nutraceutical drugs are randomly selected from Drugbank. For example,NADH (NAI) is the nutraceutical [35], which is used to improve the function of the brain and central nervous system.For the nonAD drugs,we select 9 diabetes drugs and 11 drugs used for heart failure.Additionally, we add amiloride (AMR) as the referential drug,and it is not included in the panel.All 31 drugs are listed in Table B in S1 File. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The data transformed from all complexes formed by drug and protein in the panels ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Because the total number of possible drug-protein complexes formed by drugs and proteins in panels is $1 4 7 0 \\ ( = 3 0 ^ { * } 4 9 )$ , it is a time-consuming and money-consuming work if we check all complexes with wet-lab.Therefore,we employ dry-lab to elucidate the potential relationships. In this subsection, we willuse two tools,ILbind [18] and Vina,the newest version of AutoDock [19],to perform the task. Despite that ILbind is a potent tool to provide plentiful messages, it just fits to process single-chain of a protein. If we use ILbind individually,some actual binding relationships between drugs and proteins will be missed. This is because some medical pockets are the clefts formed by two or more chains and then ILbind cannot find it but Vina may correctly find it. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We transform all 1,470 complexes to the dyadic array as the form $( x _ { 1 } , x _ { 2 } )$ ,in which $x _ { 1 }$ is the value of the similarity output from ILbind, and $x _ { 2 }$ is the minimal free energy output from VINA for each complex formed by a drug and a protein in the panels. To fit in a single page, we present the data of 10 AD drugs and the 49 proteins in Table C in S1 File,the data of 9 diabetes drugs and 49 proteins in TableD in S1 File,and the data of $1 2 \\mathrm { H F }$ drugs (include AMR as the referential drug) and 49 proteins in Table E in S1 File,respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Prior knowledge about the values of similarity and free energy ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In order to understand the meanings shown in Tables C,D and E in S1 File, we begin with learning prior knowledge from the values of similarity and free energy based on the panel of drugs.For each drug,we search for the protein which is the original drug target,called its“target\".Each complex of drug and its target can then be converted to a dyadic array $( x _ { 1 } , x _ { 2 } )$ .We show the data in Table1. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Based on these 30 dyadic arrays,we have the mean $m$ and standard deviationo.The derived data regarding similarity and free energy are listed as show in Table 2. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "From the dyadic arrays of 30 complexes,we may find that the distribution of values of similarity is not normal.Typically,the values of similarity are distributed in [0.4,0.96]. Specifically, 3 samples are located in [0.4,0.54],2 samples in [0.54,0.68],and 25 samples in [0.68,0.96]. Regarding the benchmark set,the sensitivity of similarity is 0.833 if the low-bound is 0.68,or 0.9 if the low-bound id 0.54. Similarly, the values offree energy are not normally distributed either.Typically,1 sample belongs to interval [-4.4,-3.0],4 samples belong to [-5.8,-4.4],and the rest 25 samples belong to [-10,-5.8]. In other words,the sensitivity of free energy is 0.833 if the up-bound is -5.8,or 0.967 if the up-bound is -4.4.This indicates that the mean and the standard deviation of similarity or the free energy willbe slightly changed as the size of samples increases or the outlier samples are discarded.In the rest part, we choose O.68 as the threshold of similarity and -5.8 as the threshold offree energy. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/597b58cbcc363d9e6beb833ba63d9525b67f59ec43314876dcd7c7ff5eeb6603.jpg",
+        "table_caption": [
+            "「able 1.The values of similarity and free energy based on 30 drugs on their targets. In which $x _ { 1 }$ is the value of similarity output from ILbind, and $x _ { 2 }$ is he minimalfree energy output from VINA foreach complex formed bya drug anda protein ranging to the panels "
+        ],
+        "table_footnote": [
+            "doi:10.1371/journal.pone.0144387.t001 "
+        ],
+        "table_body": "<html><body><table><tr><td>No.</td><td>Drug</td><td>Target</td><td>PDB-id</td><td>X1</td><td>X2</td><td>No.</td><td>Drug</td><td>Target</td><td>PDB-id</td><td>X1</td><td>x2</td></tr><tr><td>1</td><td>E20</td><td>AChE</td><td>4bdt</td><td>0.9</td><td>-7</td><td>16</td><td>LF7</td><td>DPP-4</td><td>2qtb</td><td>0.91</td><td>-7.2</td></tr><tr><td>2</td><td>GNT</td><td>AChE</td><td>4bdt</td><td>0.9</td><td>-7.5</td><td>17</td><td>ACR</td><td>MGAM</td><td>3ctt </td><td>0.92</td><td>-8</td></tr><tr><td>3</td><td>THA</td><td>AChE</td><td>4bdt</td><td>0.91</td><td>-6.5</td><td>18</td><td>MIG</td><td>MGAM</td><td> 3ctt</td><td>0.92</td><td>-5.7</td></tr><tr><td>4</td><td>HUP</td><td>AChE</td><td>4bdt</td><td>0.91</td><td>-9.6</td><td>19</td><td>X8Z</td><td>ACE</td><td>108a</td><td>0.88</td><td>-5.8</td></tr><tr><td>5</td><td>CHT</td><td>AChE</td><td>4bdt</td><td>0.71</td><td>-3.6</td><td>20</td><td>X93</td><td>ACE</td><td>108a</td><td>0.91</td><td>-8.7</td></tr><tr><td>6</td><td>LPA</td><td>LIPT1</td><td>3a7u</td><td>0.86</td><td>-4.5</td><td>21</td><td>LPR</td><td>ACE</td><td>108a</td><td>0.91</td><td>-7.7</td></tr><tr><td>7</td><td>PSF</td><td>PRKCA</td><td>4dnl</td><td>0.8</td><td>-5.2</td><td>22</td><td>06X</td><td>CA1</td><td>1azm</td><td>0.55</td><td>-6.2</td></tr><tr><td>8</td><td>NAI</td><td>UDPGDH</td><td>3prj</td><td>0.88</td><td>-8.7</td><td>23</td><td>FUN</td><td>CA2</td><td>1fsn</td><td>0.88</td><td>-7.5</td></tr><tr><td>9</td><td>VIV</td><td>PRKCA</td><td>3iw4</td><td>0.71</td><td>-7.8</td><td>24</td><td>TLS</td><td>AT1</td><td>3vn2</td><td>0.75</td><td>-8.4</td></tr><tr><td>10</td><td>BRL</td><td> PPARy</td><td> 2xyw</td><td>0.88</td><td>-8.5</td><td>25</td><td>TIM</td><td>ADRB1</td><td>2y00</td><td>0.88</td><td>-6.2</td></tr><tr><td>11</td><td>P1B</td><td>PPARy</td><td>2xyw</td><td>0.88</td><td>-9.2</td><td>26</td><td>SNP</td><td>ADRB1</td><td>2y00</td><td>0.51</td><td>-6.3</td></tr><tr><td>12</td><td>T22</td><td>DPP-4</td><td>2qtb</td><td>0.91</td><td>-7.4</td><td>27</td><td>CVD</td><td>ADRB1</td><td>2y00</td><td>0.88</td><td>-7.5</td></tr><tr><td>13</td><td>356</td><td> DPP-4</td><td>2qtb</td><td>0.91</td><td>-8.2</td><td>28</td><td>2TN</td><td>ADRB1</td><td>2y00</td><td>0.53</td><td>-7.2</td></tr><tr><td>14</td><td>715</td><td>DPP-4</td><td>2qtb</td><td>0.91</td><td>-8.3</td><td>29</td><td>CLU</td><td>CYP2D6</td><td> 3qm4</td><td>0.64</td><td>-6.9</td></tr><tr><td>15</td><td>BJM</td><td>DPP-4</td><td>2qtb</td><td>0.91</td><td>-7.7</td><td>30</td><td>377</td><td>NMDAR</td><td>3jpw</td><td>0.49</td><td>-5.9</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In practice,the values of free energy are quite scattered. The value of free energy in [-10, -7.2] implies that the affinity of the ligand binding to the target cannot be ignored.Moreover,if the value of free energy is in [-11.4,-10.0],or less than -11.4, we should consider the value of similarity when evaluating whether or not the ligand may bind to the target, even though the value may be quite small.These cases are due to the fact that drugs do not bind to one domain, but rather to the clefts formed by two or more domains,which constitutes the most important drug targets for discovering drugs.Furthermore,for a smalligand which is more smaller relative to the pocket or a part of a drug binding to the pocket, its similarity is greater than 0.68, but its free energy is greater than -5.8. Based on the mean, standard deviation,and the derived data about similarity and free energy,we classify the $( x _ { 1 } , x _ { 2 } )$ -plan into seven areas as shown in Fig 3. Typically, area $\\mathrm { H } _ { 0 } { : } x _ { 1 } > 0 . 6 8$ and $x _ { 2 } < - 7 . 2$ ,is colored with red.Area $\\mathrm { H } _ { 1 }$ $0 . 5 4 < x _ { 1 } \\leq$ 0.68 and $x _ { 2 } < - 5 . 8$ or $0 . 5 4 < x _ { 1 }$ and ${ - 7 . 2 \\leq x _ { 2 } \\leq - 5 . 8 }$ ,itis the boundary zone of $\\mathrm { H } _ { 0 }$ and colored with orange.Area $\\mathrm { H } _ { 2 }$ $0 . 4 4 < x _ { 1 } \\le 0 . 5 4$ and $x _ { 2 } \\leq - 7 . 2$ ,iscolored with yellow.Area $\\mathrm { H } _ { 3 }$ $0 . 3 1 <$ $x _ { 1 } \\leq 0 . 4$ and $x _ { 2 } \\leq - 8 . 6 \\$ ,is colored with green.Area $\\mathrm { { H _ { 4 } } }$ $0 . 6 8 \\leq x _ { 1 }$ and $- 5 . 8 < x _ { 2 } < - 4 . 4$ is colored with blue. Area $\\mathrm { H } _ { 5 } \\colon 0 . 8 2 \\leq x _ { 1 }$ and $- 4 . 4 \\leq x _ { 2 } < - 3 . 0$ is colored with cyan,and the blank area is named $\\mathrm { H } _ { 6 }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "According to the dyadic arrays of the 30 complexes shown in Table 1 and the divisions in Fig 3,we find 17 samples in $\\mathrm { H } _ { 0 }$ ,4 samples in $\\mathrm { H } _ { 1 }$ ,1 sample in $\\mathrm { H } _ { 2 }$ ,O sample in $\\mathrm { H } _ { 3 }$ ,4 samples in $\\mathrm { H } _ { 4 } ,$ .and O sample in $\\mathrm { H } _ { 5 }$ .Inaddition,4complexes which fall in $\\mathrm { H } _ { 6 }$ should be rejected, this means the correct rate of this decision is 0.867 on this benchmark set.However,this benchmark set is not adequate because it has no negative samples. In general,a queried set of complexes often has no prior knowledge.We wish to construct a benchmark set which contains enough positive and negative samples so that we could estimate the rate of false positive and the rate of false negative. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/4a346fd1fe8ecd23c022d33d471372771941165ff4d86e694e4c1931b3baa744.jpg",
+        "table_caption": [
+            "Table 2. The derived data regarding similarity and free energy based on mean $\\pmb { m }$ and standard deviation o. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>m-3g</td><td>m-2g</td><td>m-g</td><td>m</td><td>m+0</td><td>m+2g</td><td>m+3g</td></tr><tr><td>similarity</td><td>0.14</td><td>0.40</td><td>0.54</td><td>0.68</td><td>0.82</td><td>0.96</td><td></td><td>-</td></tr><tr><td>free energy</td><td>1.4</td><td>-11.4</td><td>-10.0</td><td>-8.6</td><td>-7.2</td><td>-5.8</td><td>-4.4</td><td>-3.0</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/414845da90b7ede3d5e5e8ad53a8a91aa39d17c47b98a82794dc23d1208b569d.jpg",
+        "img_caption": [
+            "Fig 3. The seven areas $( H _ { 0 } - H _ { 6 } )$ of complexes to be recommended or rejected. ${ \\sf H } _ { 0 }$ is colored with red, $\\mathsf { H } _ { 1 }$ is colored with orange, ${ \\sf H } _ { 2 }$ is colored with yellow ${ \\sf H } _ { 3 }$ is colored with green. $\\mathsf { H } _ { 4 }$ is colored with blue, ${ \\sf H } _ { 5 }$ is colored with purple,and ${ \\sf H } _ { 6 }$ is blank. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0144387.g003 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Applying the same rules of classification shown in Fig 3,we classify these 1,470 complexes based on the dyadic arrays shown in Tables C,Dand E in S1 File into 7 classes: $\\mathrm { H } _ { 0 }$ $\\begin{array} { r } { \\mathrm { H } _ { 1 } , \\mathrm { H } _ { 2 } , \\mathrm { H } _ { 3 } , } \\end{array}$ $\\mathrm { H } _ { 4 }$ $\\mathrm { H } _ { 5 }$ and ${ \\mathrm { H } } _ { 6 } ,$ and the distribution of complexes in different areas are listed in Table 3. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "More than half of all complexes (768 of 1,470) can be rejected directly as they fall in $\\mathrm { H } _ { 6 }$ The sum of the number of $\\mathrm { H } _ { 0 }$ and $\\mathrm { H } _ { 1 }$ is 550,which is still too many to be tested one by one with a wet-lab by our group alone. Since complex AMR-IDE with dyadic array $( x _ { 1 } , x _ { 2 } ) = ( 0 . 5 5 , - 7 . 0 )$ （20 and complex AMR-NEP with dyadic array $( x _ { 1 } , x _ { 2 } ) = ( 0 . 6 , - 6 . 9 )$ are located in the top corner of $\\mathrm { H } _ { 1 }$ , we can get more confidence to show that the drugs bind to the corresponding proteins with high probability for these 550 complexes through testing that AMR binds to both IDE and NEP with wet-lab. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/45799285f5e8e9db2b66146bc373963c4895ee0702f160e780ef049ce453469d.jpg",
+        "table_caption": [
+            "Table3.Distribution of complexes falling into $H _ { 0 } - H _ { 6 }$ in Tables C, D and E in S1File. "
+        ],
+        "table_footnote": [
+            "doi:10.1371/journal.pone.0144387.t003 "
+        ],
+        "table_body": "<html><body><table><tr><td>NO. of set</td><td>Ho</td><td>H</td><td>H2</td><td>H</td><td>H4</td><td>H5</td><td>H6</td></tr><tr><td>Table C</td><td>67</td><td>123</td><td>26</td><td>1</td><td>0</td><td></td><td>273</td></tr><tr><td>Table D</td><td>46</td><td>106</td><td>55</td><td>13</td><td>1</td><td>0</td><td>220</td></tr><tr><td>Table E</td><td>26</td><td>182</td><td>52</td><td>1</td><td>3</td><td>0</td><td>275</td></tr><tr><td>Total</td><td>139</td><td>411</td><td>133</td><td>15</td><td>4</td><td>0</td><td>768</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/2f9bb5c9c66174b14c9416c6f0d6e35ebd38d7f6f73d7d5f664bd024a3579306.jpg",
+        "table_caption": [
+            "Table4Teedegedf5for5(ddate sinding to IDE and NEP compared with its controlling drug Bacitracin Aand DL-Thiophan,respectively. "
+        ],
+        "table_footnote": [
+            "doi:10.1371/journal.pone.0144387.t004 "
+        ],
+        "table_body": "<html><body><table><tr><td>No.</td><td>Compound</td><td>inhibition rate</td><td>quenching efficiency</td><td>IC50/uM</td><td>Reported value</td></tr><tr><td>1</td><td>Bacitracin A</td><td>77.08%</td><td>-7.05%</td><td>79.25</td><td>100uM</td></tr><tr><td>2</td><td> 5-(N,N-Dimethyl) amiloride hydrochloride</td><td>93.57%</td><td> 54.77%</td><td>178.5</td><td>none</td></tr><tr><td>3</td><td>Amiloride HCl dihydrate</td><td>95.02%</td><td>-6.64%</td><td>214</td><td>none</td></tr><tr><td>1</td><td>DL-Thiophan</td><td>102.01%</td><td>-4.56%</td><td>0.189</td><td>4.7nM</td></tr><tr><td>2</td><td>5-(N,N-Dimethyl) amiloride hydrochloride</td><td>80.96%</td><td>54.77%</td><td>829</td><td>none</td></tr><tr><td>3</td><td>Amiloride HCl dihydrate</td><td>65.21%</td><td>-6.64%</td><td>214</td><td>none</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "TestofAMR-IDEandAMR-NEPwithwet-lab ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The amiloride has two analogs including 5-(N,N-Dimethyl) amiloride hydrochloride and amiloride HCl dehydrate.In order to avoid the unfair output resulted by selection,two analogs are used in the test.In other words, we confirm that amiloride binds to IDE,and amiloride binds to NEP if both 5-(N,N-Dimethyl) amiloride hydrochloride and amiloride HCl dehydrate may bind to IDE and NEP,respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In order to ensure the correctness of the operations of the wet-lab for showing amiloride binding to IDE,we choose bacitracin A as the referential drug since it was reported as a good IDE inhibitor,and its value of $\\mathrm { I C } _ { 5 0 }$ i $1 0 0 \\mu \\mathrm { M }$ . With the same reason, we choose DL-Thiophan as the referential drug for showing amiloride binding to NEP.It was reported that DL-Thiophan is a good NEP inhibitor,and its value of $\\mathrm { I C } _ { 5 0 }$ i $0 . 1 8 9 \\mu \\mathrm { M }$ . We show the data of these two experiments below,while the simulations for the six cases are depicted in the Figs A-F in S1 File. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "From Table 4, we first confirm that our experimental operations are reliable through comparing the difference between the computed value $\\mathrm { I C } _ { 5 0 } = 7 9 . 2 5 \\mu \\mathrm { M }$ and the reported value $\\mathrm { I C } _ { 5 0 } = 1 0 0 \\mu \\mathrm { M }$ for Bacitracin A binding to IDE,and the difference between the computed value $\\mathrm { I C } _ { 5 0 } = 0 . 1 8 9 \\mu \\mathrm { M }$ and the reported value of $\\mathrm { I C } _ { 5 0 } = 0 . 0 0 4 7 \\mu \\mathrm { M }$ for DL-Thiophan binding to NEP. Then we may conclude that amiloride strongly inhibits IDE because the inhibition rate, the quenching efficiency and value of IC50 for 5-(N,N-Dimethyl) amiloride hydrochloride and amiloride HCl dehydrate binding to IDE are better than those of Bacitracin A.Meanwhile we may also conclude that amiloride weakly inhibits NEP because the corresponding data of 5-(N, N-Dimethyl) amiloride hydrochloride and amiloride HCl dehydrate meet the threshold, while these data are not better than that of DL-Thiophan.As a consequent, AMR is not only the diuretic,but also a double inhibitor of NEP and IDE.If this unexpected conclusion is utilized for hypertension associated diabetes I,the value is a million times more than the initial cost (60,000 RMB). Moreover,the wet-lab tests may enable us to confidently conclude that the drug binds to the protein for each complex in $\\mathrm { H } _ { 0 }$ or $\\mathrm { H } _ { 1 }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Statistical decision to recommend the complex to be validated with wetlab ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In order to definitively confirm whether or not the drug binds to a protein,the wet-lab test is necessary. However, we should assign the limited resources to test the most possible complexes. Therefore,a good recommendation based on the statistical decision is needed. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Decision. We strongly recommend the complexes in $\\mathrm { H } _ { 1 }$ or $\\mathrm { H } _ { 0 }$ for the wet-lab test. For complexes in $\\mathrm { H } _ { 2 } { \\cdot } \\mathrm { H } _ { 5 } .$ ,we moderately recommend the wet-lab test.For complexes in $\\mathrm { H } _ { 6 }$ we do not recommend the wet-lab test. Even though the complexes in $\\mathrm { H } _ { 1 }$ or $\\mathrm { H } _ { 0 }$ have a higher probability which means that the drug could bind to the corresponding proteins, we still need to filter the false positive complexes from $\\mathrm { H } _ { 1 }$ or $\\mathrm { H } _ { 0 }$ .Therefore,we should consider the function of the binding site, the position of the drug binding to the protein, etc. [20-21]. We propose a procedure for filtering false positive complexes as follows: ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Step 1. For a candidate complex determined by statistical decision,the protein (enzyme/receptor) in the complex may have more than one intrinsic ligand,and their binding sites on this protein can be recovered according to the data shown in PDB.If the binding sites of the drug recommended by Vina do not coincide with (nor are near to) one of these positions of the intrinsic ligands,then we do not recommend the wet-lab test for the complex. Otherwise,we continue on to step 2. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Step 2. If one of the binding sites of the drug is the same as the pocket of an intrinsic ligand, we also need to retrieve the pocket containing the intrinsic ligand.If the pocket has no function, then we do not recommend the wet-lab test. Otherwise, we go to step 3. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Step 3.If the drug binds to a functional pocket that we desire,then we still need to determine whether or not the binding pose is acceptable by checking the four computable features [21]. If acceptable, we then go to step 4. Otherwise, we do not recommend the wet-lab. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Step 4. Even if the drug in a complex has passed steps 1-3 in a fixed binding position, we further need to check whether the smal-interference of the given position is still adequate.If many positions within the neighborhood of the given position [20] may also pass step 3, then we recommend the wet-lab for the complex. Otherwise,we do not recommend. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Each step of the above procedure for filtering false positive complexes may have the chance to filter some false candidates.For example,the crystal structure of complexes formed by SC558,flurbiprofen and indomethacin binding to COX-2 were obtained in PBD,respectively. Loading these three intrinsic ligands on the same crystal structure (4COX in PDB), we obtain Fig 4A. Loading the NAI molecules onto all of the binding sites recommended by Vina, we obtain Fig 4B. Comparing Fig 4A and 4B, we may find that binding sites recommended by Vina do not come near the pockets of the three intrinsic ligands. Therefore, the NAI-COX2 complex will be rejected for further checking via the wet-lab at the first step,although the dyadic array of NAI-COX2, $( x _ { 1 } , x _ { 2 } ) = ( 0 . 8 3 , - 1 1 . 6 )$ is quite attractive.ACE possesses three intrinsic pockets to receive the ligand CAPTOPRIL (Fig 4C),and the pocket that may receive both CAPTOPRIL and NAI does not receive peptide AI (Fig 4D); therefore, the NAI-ACE complex will be rejected for testing via the wet-lab at the second step.The choline is a component of acetylcholine and cannot bind AChE and BHCE as fully as acetylcholine.As a consequence it will be rejected at the third step.HEMis a ligand that binds with HIV-1 protease at just one position.Any smallinterference will make it unable to enter,and thus it will be rejected at the forth step. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Although the above procedure for filtering false positive complexes has lower cost than the wet-lab test, it still will take too much human labor if we want to falter all false positive complexes from these 550 complexes.Next, we only filter a subset of complexes we have to involve, and we assume that drug may bind to the proteins for each of these complexes which had passed the filtering program. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Implications from the data in Table C in S1 File ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Checking Table C in S1 File,we may find that enzymes AChE and BCHE are inhibited by E20, GNT,THA and HUP because the dyadic arrays are (0.9,-8.2), (0.9,-8.8),(0.9,-8.0), (0.9,-9.5); (0.9,-8.4), (0.9,-8.4), (0.9,-7.7) and (0.9,-8.1),respectively.From this angle, we agree that E20, GNT,THA and HUP may improve the level of ACh.However,since these 4 drugs cross the ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/c155b025117a5036c22dd32e39733ea43ab00760d9692cf976aee6e75fea0b77.jpg",
+        "img_caption": [
+            "Fig 4. (A) COX-2 complexes in the NSAIDs only.(B) COX-2 complexes in the NSAIDs and NAl. (C)ACE in complex with the intrinsic igands only.(D)ACE in complex with the intrinsic ligands and NAl. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0144387.g004 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "blood-brain barrer (BBB)[36], we conclude they are useless to improve the level of ACh. It is against the original design purpose,but they still benefit to AD.The reasons are stated as below: ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "On one hand,each of E20,GNT,THA and HUP may paralyze the entire MMN of ACh. In fact, E20-ChAT in $\\mathrm { H } _ { 0 }$ ,E20-CHRM2,E20-CHRNA4,E20-CHRNB2 in $\\mathrm { H } _ { 1 : }$ ,and they cannot be filtered by filtering program, therefore we may conclude that E20 inhibits the enzyme ChAT, and blocks most receptors of ACh.In the same way, we may show that GNT,THA and HUP also paralyze the entire MMN of ACh.This implies that E20,GNT,THA and HUP are not only useless to improve the level of ACh, but also do not response the exogenous infusion of ACh. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, E20,GNT,THA,and HUP may paralyze the MMN of $\\mathrm { A } \\beta$ . We only use E20 as an example for illustration.In fact,(1) E20-BACE-1 is in $\\mathrm { H } _ { 0 }$ and (2) E20-NEP, E20-ECE,E20-ACE,E20-IDE are in $\\mathrm { H } _ { 0 }$ ；E20-MMP-2is in $\\mathrm { H } _ { 1 }$ ,E20-Cataepsin D,E20-MMP-9, and E20-Factor XI are in $\\mathrm { H } _ { 2 }$ .This result implies that the level of $\\mathrm { A } \\beta$ is kept in initial level without any changing if one of E20,GNT,THA and HUP is used and therefore do not change the state of $\\mathrm { A } \\beta$ deposition. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "377 may not block NMDAR because the dyadic array of 377-NMDAR fals into $\\mathrm { H } _ { 6 }$ It suggests that 377 may not be the selective blocker of NMDAR. Therefore,the role of 377 is not same as the original role shown in instructions. Moreover,since 377-ChAT is in $\\mathrm { H } _ { 1 }$ we may believe that 377 more possible is the inhibitor of ChAT.It suggests that 377 may not block NMDAR but weaken the activity of the producer ChAT. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Phosphatidylserine (PSF),choline (CHT), Lipoic Acid (LPA), Vitamin E(VIV),and NAI are approved nutraceuticals,rather than drugs.From Table C in S1 File, we see that PSF, CHT, and LPA are not likely to inhibit any of the 49 proteins. However, the data of VIV and NAI are of interest. For the 49 complexes formed by NAI and 49 proteins,30 complexes in $\\mathrm { H } _ { 0 } ,$ 12 complexes in $\\mathrm { H } _ { 1 { : } }$ , and 7 complexes in the $\\mathrm { H } _ { 6 }$ . Filtering these 42 complexes using filtering program, we can conclude that NAI can paralyze both MMNs of ACh and Aβ. Similarly, we get the same results for VIV.Moreover,both NAI and VIV cross the BBB [37-38],it means roles of NAI and VIV similar to the role of E20,GNT,THA,and HUP.Hopefully,NAI is a natural multiple inhibitors for multiple enzymes among A20,ACE,AChE,BACE1,BCHE,ChAT,CYLD, CYP1A1, $\\mathrm { G S K } 3 \\beta .$ IDE,MARK,MM-2,NEP,and PP2A. Overall, the role of NAI should be studied further. It shows an example to find the double or multiple inhibitors in natural way. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Implications of the data in Table D in S1 File ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "From Table D in S1 File, we may find that Acarbose (ACR), Pioglitazone (P1B), Sitagliptin (715),Linagliptin (356), Rosiglitazone (BRL), Vildagliptin (LF7) and Miglitol (MIG) may serve as diabetes drugs because ACR-IDE,P1B-IDE,715-IDE,356-IDE,BRL-IDE,and LF7-IDE are in $\\mathrm { H } _ { 0 }$ ,and MIG-IDE is in $\\mathrm { H } _ { 1 }$ .Especially,we assert that Alogliptin (T22) and Saxagliptin (BJM) are better inhibitors of NEP other than the inhibitor of IDE because T22-IDE and BJM-IDE in $\\mathrm { H } _ { 2 } ,$ but T22-NEP in $\\mathrm { H } _ { 0 }$ and BJM-NEP in $\\mathrm { H } _ { 1 }$ . Therefore, we may suggest alternatively using T22 and BJM as an inhibitor of NEP for heart failure rather than for diabetes. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, P1B can stop the entire MMN of ACh Because of the facts,(1) P1B-ChAT is in $\\mathrm { H } _ { 0 } ,$ (2) P1B-CHRM2,P1B-CHRNA7,P1B-CHRNA9,P1B-CHRNB2 and P1B-CHRNE are in $\\mathrm { H } _ { 0 }$ or $\\mathrm { H } _ { 1 }$ and (3) P1B-AChE and P1B-BCHE are in $\\mathrm { H } _ { 0 }$ .Similarly,we can show that P1B stops the entire MMN of $\\mathrm { A } \\beta$ .Since P1B crosses the BBB[39] and we can find the role of P1B to treat AD will be same as the role of E20,GNT,THA and HUP.Therefore, we suggest for these patients who have diabetes only,do not use P1B because it will weaken the learning and memory functions through restricting ACh binding to receptors. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Miglitol (MIG) only significantly inhibits AChE among all49 proteins. Therefore it is possibly a good drug to improve the level of ACh,although it cannot cross BBB.In other words, MIG is not so effctive for diabetes but it may be a potent AD drug. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Implications of the data in Table E in S1 File ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "From Table E in S1 File, we may find that lisinopril (LPR),captopril (X8Z),and trandolapril (X93) are really good inhibitors of ACE because the dyadic arrays are (0.91,-7.7),(0.88, -8.8), and (0.91,-5.8),respectively.Moreover,X93 may lower the level of ACh since X93 crosses the BBB [40] and X93-ChAT falls into $\\mathrm { H } _ { 1 }$ ： ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Telmisartan (TLS) is really an angiotensin I receptor blocker (ARB) because the dyadic array is (0.75,-8.4) and TLS may also be an inhibitor of ACE because the dyadic array is (0.77, -10.6).Moreover,the dyadic array of TLS-IDE is (0.74,-11.0) shows that TLS is also a good inhibitor of IDE.These computational results coincide with clinical experience that indicates that TLS is used as a diabetes drug and the effect of TLS is almost the same as the effect of lisinopril. Furthermore, TLS may paralyze both whole MMNs of ACh and $\\mathrm { A } \\beta$ and TLS crosses the BBB [41] imply that the role of TLS likes that of E20, GNT,THA,and HUP for AD.Therefore, TLS has potential multiple usages for HF,diabetes and AD, however it remains to be validated further. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Beta-blockers Atenolol (2TN) and Propranolol (SNP) can cross the BBB [42]. The dyadic array shows that 2TN is a safe drug because it only has the possibility to bind ACE,IDE and AChE.That is,2TN may have an unexpected role to improve the level of ACh.While SNP has the possibility to inhibit ChAT,AChE and BCHE but does not inhibit allreceptors on the MMN of ACh. Moreover, SNP may reduce $\\mathrm { A } \\beta$ production because SNP-BACE-1 is in $\\mathrm { H } _ { 1 }$ Therefore,SNP may prevent the $\\mathrm { A } \\beta$ deposition and may lower the level of ACh.Unlike E20, GNT,THA and HUP,SNP does not reject the infusion of ACh exogenously. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Discussion and Conclusion ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Overall, we generally define the MMN of a stimulus and use ACh and $\\mathrm { A } \\beta$ as the example to show the MMNs of ACh and $\\mathrm { A } \\beta$ .Then we show the network of AD generated by MMNs of ACh and $\\mathbf { A } { \\boldsymbol { \\beta } } ,$ and the MMNs of other stimuli related to AD.Based on the network of AD, many new insights are emerged. For example,among the 30 drugs we selected to form the drug panel, we find that some inhibitors of a converting enzyme or a cleaning enzyme for some stimulus could paralyze the whole MMN of the stimulus,and even some blockers of the receptors also could paralyze the whole MMN of the stimulus.It will provide an insight to study the difference of the effects of a drug between in vivo and in vitro and an insight to analyze the drug resistance.Moreover,since enzymes often have multiple functions,an insight is emerged that some drugs cannot cure the appointed disease but probably induce a new disease. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In detail, we show some valued implications in this study to share with readers as below: ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "1. Despite the role of E20, GNT,THA and HUP is against to their original design for improving the level of ACh because it could paralyze the entire MMN of ACh and therefore the original level of ACh is unchanged because no producer and no consumers. However, they still benefit AD in the sense that E20, GNT,THA and HUP keep the $\\mathrm { A } \\beta$ deposition unchanged because it also could paralyze the whole MMN of $\\mathrm { A } \\beta$ .Therefore,we must note that E20,GNT,THA and HUP are useless if we want to use them to treat AD before $\\ A \\beta$ deposition appearing. Especially, in this case the learning and memory ability will be harmed because ACh cannot be used by receptors,although we can infuse ACh to body exogenously. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2. The role 377 could not selectively block NMDAR but possible be the inhibitor of ChAT. Therefore,377 is useless for AD,which seems against to the original design. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3. The role NAI and VIV for AD is similar to the role of E20,GNT,THA and HUP.NAI sounds stronger than E20,GNT,THA and HUP to stop the whole MMNs of $\\mathrm { A } \\beta$ and ACh, while VIV weaker than NAI.Therefore,NAI and VIV willbe harmful if we want to use it to increase the level of ACh in preclinical AD.It suggests that nutrients also need to be controlled, due to their harmfulness if using in wrong time and wrong way. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.Besides to treat hypertension or heart failure associated with diabetes,TLS has a new role related to AD.Since TLS crosses BBB and TLS could stop the entire MMN of $\\mathbf { A } { \\boldsymbol { \\beta } } ,$ it follows that TLS keeps original level of $\\mathrm { A } \\beta$ deposition unchanged. This is good news for AD patients.TLS also stops the entire MMN of ACh.It also follows that original level of ACh is unchanged.However,ACh unbinding to receptors is a bad news for the learning and memory functions.Therefore,TLS is a safe drug for hypertension,heart failure,or diabetes,but could have a slight side effect to affect the learning and memory functions. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5.MIG hopefully is a potent drug to prevent the loss of ACh. Because it cannot cross BBB to interfere the proteins in brain and it just inhibits AChE which is a ubiquitous protein in central and peripheral nerve systems. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "6. 2TN a safe drug for heart failure and hypertension since it can bind to ACE,but its role to treat heart failure and hypertension is minor.A new role to improve the level of ACh could be found in this study because it could only inhibit AChE on MMN of ACh. Therefore, 2TN is also a potent drug to prevent the loss of ACh. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "More interesting conclusions could be mined from Tables C,D and E in S1 File,for example,both NAI and TLS are the basic elements of the source for discovering the multiple inhibitors in the natural way.Another example,amiloride is not only a diuretic but also a double inhibitor of IDE and NEP.Due to limited space, we only show these in this paper. Obviously, this study suggests that we should reconfirm the actual effects of each drug through using MMNs. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "S1 File. Supply materials for the network of AD: How to read the network of AD (Text A). ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The chemical names, functions and the 3D-structures of the 49 enzymes/receptors in the network of AD (Table A). The panel of 31 drugs consisted of 10 AD drugs,9 diabetes drugs, and 12 heart failure drugs (Table B).The data for 490 complexes formed by 10 AD drugs and 49 proteins (Table C).The data for 44l complexes formed by9 diabetes drugs and 49 proteins (Table D). The data for 539 complexes formed by 11 diabetes drugs and 49 proteins and the additional 49 complexes formed by the controlling drug amiloride (AMR) and 49 proteins (Table E).The simulation of IC50 data (Figs A-F).   \n(DOC) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "All authors would like to thank two anonymous reviewers whose structural suggestions encourage us to improve the quality of this paper essentially.J.R.would like to thank the Institute of Applied Mathematics at Tianjin University.He was a visiting professor at this institute from August 1 to October 1,and they generously provided him with time and resources to work on this paper.We also would like to thank Professor FangXiang Wu for his comments and revisions. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Conceived and designed the experiments: JM QW JR. Performed the experiments: JMQW. Analyzed the data: SC LY JR. Contributed reagents/materials/analysis tools: SC LY JR.Wrote the paper: SC LY JM QW JR. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "1. Bartus RT, Dean RL, BeerB,Lippa AS.The cholinergic hypothesis of geriatric memory dysfunction. Science.1982;217:408-17.PMID:7046051   \n2. HardyJ,Selkoe DJ.Theamyloid hypothesis of Alzheimer's disease: progress and problems on the road to therapeutics.Science.2002;297:353-356.PMID:12130773   \n3. Kosik KS,Joachim CL,Selkoe DJ.Microtubule associated protein tau is a major antigenic component of paired helical filaments in Alzheimer disease.PNAS USA.1986；83: 4044-4048.PMID:2424016   \n4. StrittmatterWJ,SaundersAM,Schmechel D,Pericak-Vance M,EnghildJ,Salvesen GS,etal.Apolipo proteinE:high-avidity binding to beta-amyloid and increased frequency of type 4allele in late-onset familial Alzheimer disease.PNAS USA 1993;90(5):1977-81.PMID:8446617   \n5.Mahley RW,Weisgraber KH, Huang Y.Apolipoprotein E4: a causative factorand therapeutic target in neuropathology, including Alzheimer's disease.PNAS USA.2006；103(15):5644-51.PMID: 16567625 6. JonssonT,Stefansson H,Steinberg S,Jonsdotirl,Jonsson PV,SnaedalJ,etal.VariantofTE2 associated with the risk of Alzheimer's disease.The New England Journal of Medicine.2012； 368 (2): 107-16.doi: 10.1056/NEJMoa1211103 PMID:23150908 7.GuerreiroR,Wojtas A,Bras J,Carrasquill M,RogaevaE,Majounie E,etal.TREM2 variants inAlzheimer's disease.The New England Journal of Medicine.2012； 368(2):117-27.doi: 10.1056/ NEJMoa1211851 PMID: 23150934 8.LambertJC.Meta-analysisof74,046 individuals identifies11 new susceptibility locifor Alzheimer's disease. Nature Genetics.2013; 45 (12): 1452-8. doi: 10.1038/ng.2802 PMlD: 24162737 9.Itzhaki RF,Wozniak MA. Herpes Simplex Virus Type 1in Alzheimer's Disease: The Enemy Within. Journal of Alzheimer's Disease.2008; 13(4):393-405. PMID: 18487848   \n10. Bartzokis G.Alzheimer's Disease as Homeostatic Responses to Age-related Myelin Break- down. Neurobiology of Aging. August 2011; 32(8):1341-71. doi: 10.1016/j.neurobiolaging.2009.08.007 PMID: 19775776   \n11.Heneka MT,NadrignyF,Regen T,Martinez-HernandezA,Dumitrescu-Ozimek L,Terwel D,etal. Locus ceruleus controls Alzheimer's disease pathology by modulating microglialfunctions through norepinephrine. PNAS USA.2010; 107: 6058-6063 doi: 10.1073/pnas.0909586107 PMID: 20231476   \n12. Rosendorff C, Beeri MS, Silverman JM.Cardiovascular Risk Factors for Alzheimer's Disease.The American Journal of Geriatric Cardiology.2007; 16(3):143-9. PMID: 17483665   \n13. Brookmeyer R,Johnson E, Ziegler-Graham K,ArrighiHM.Forecasting the globalburden of Alzheimer's disease. Alzheimer's & Dementia.2007； 3(3):186-91   \n14. Szekely CA,Town T, Zandi PP.NSAlDs for the Chemoprevention of Alzheimer's Disease.Sub- Cellular Biochemistry.2007；42:229-48.   \n15.Rossi GP.Dual ACE and NEPinhibitors: areviewof thepharmacologicalproperties of MDL100240. Cardiovasc Drug Rev.2003; 21(1):51-66.PMID:12595917   \n16. Jandeleit-Dahm KAM.Dual ACE/NEP inhibitors-morethan playing the ACEcard.Journalof Human Hypertension.2006;20,478-481.PMID:16543904   \n17. Melin V,JengAY,Monteil C,RenetS,HenryJP,Thuillez C,etal.Triple ACE-ECE-NEP Inhibition in Heart Failure: A Comparison With ACEand Dual ECE-NEP Inhibition.Journal of Cardiovascular Pharmacology.2005; 46(3): 390-397. PMID: 16116347   \n18.Hu G, Gao J,Wang K,Mizianty MJ,Ruan J,Lukasz K.Finding Protein Targets for Sma Biologically Relevant Ligands across Fold Space Using Inverse Ligand Binding Predictions.Structure.2012； 20: 1815-1822,doi: 10.1016/j.str.2012.09.011 PMID:23141694   \n19.Trott O, Olson AJ. AutoDock Vina: improving the speed and accuracy of docking with a new scoring function,efficient optimizationand multithreading,Journal of Computational Chemistry.2010；31:455- 461. doi: 10.1002/jcc.21334 PMID:19499576   \n20. Wang K,CuiW,Hu G,Gao J,Wu Z,Qiu X,etal.Computable Features Required to Evaluate the Efficacy of Drugs and a Universal Algorithm to Find Optimally Effective Drug in a Drug Complex.PLOS One.2012；7(3): e33709.doi: 10.1371/journal.pone.0033709 Epub 2012 Mar 23.PMID: 22457784   \n21.Cui W,Wang K,Ruan J, QiZ,Feng Y,Shao Y,etal.The Molecular Mechanism of Action of the CR6261-Azichromycin Combination Found through Computational Analysis. PLOS One 2012，7(5): e37790.doi: 10.1371/journal.pone.0037790 Epub 2012 May 31.PMID:22693576   \n22.Bourne KZ,Ferrari DC,Lange-Dohna C,RossnerS,WoodTG,Perez-Polo JR.Differential regulation of BACE1 promoteractivityby nuclear factor-kappaB in neurons and glia upon exposure to beta-amyloid peptides.JNeurosci Res. 2007; 85(6):1194-204. PMID: 17385716   \n23. Chen CH, Zhou W,LiuS, DengY,CaiF,Tone M,et al. Increased NF-kBsignaling up-regulates BACE1expression and its therapeutic potential in Alzheimer's disease.IntJNeuropsychopharmacol. 2012；15(1):77-90.doi:10.1017/S1461145711000149 PMID:21329555   \n24.Hung AY,Haass C,Nitsch RM,Qiu WQ,Citron M,WurtmanRJ,etal. Activation of protein kinase C inhibits cellular production of the amyloid beta-protein.J. Biol.Chem.1993；268:22959-22962 PMID: 8226807   \n25．Amtul Z, Uhrig M, Wang L, Rozmahel RF,Beyreuther K.Detrimental effects of arachidonic acid and its metabolites in cellular and mouse models of Alzheimer's disease: Structural insight. Neurobiology of Aging.2012;33 (4): 831.e21-31   \n26． BusciglioJ,Lorenzo A,Yeh J,Yankner BA.Beta-amyloid fibrils induce tau phosphorylationand loss of microtubule binding.Neuron,1995，14:879-888.PMlD:7718249   \n27. GotzJ,ChenF,Van DorpeJ,NitschRM.Formationofneurofibrillary tangles inP301Ltau transgenic mice induced by Aβ 42 fibrils. Science.2001; 293(5534):1491-1495.PMID: 11520988   \n28. Nitsch RM,Slack BE,Wurtman RJ,Growdon JH.Release of Alzheimer amyloid precursor derivatives stimulated by activationof muscarinic acetylcholine receptors.Science.1992；258: 304-307.PMID: 1411529   \n29. Buxbaum JD,OishiM,Chen H,Pinkas-Kramarski R,Jaffe EA,Gandy SE,etal. Cholinergic agonists and interleukin 1 regulate processing and secretion of the Alzheimer beta/A4 amyloid protein precursor. Proc Natl Acad SciUSA.1992;89:10075-10078.PMID:1359534   \n30. Thathiah A,De Strooper B.G protein-coupled receptors,cholinergic dysfunction,and Abeta toxicity in Alzheimer's disease.Sci. Signal.2009；2(93): re8.doi: 10.1126/scisignal.293re8 PMID:19843960   \n31. Wang HY,Lee DH, D'Andrea MR,Peterson PA, Shank RP,Reitz AB.Beta-amyloid (1-42) binds to alpha7 nicotinic acetylcholine receptor with high affnity.Implications for Alzheimer's disease pathology. J Biol Chem.2000; 275(8):5626-32.PMID: 10681545   \n32. Wang HY,Lee DH, Davis CB,Shank RP.Amyloid peptide abeta (1-42) binds selectively and with picomolar ainity to alpha7 nicotinic acetylcholine receptors.JNeurochem.2000；75(3):1155-61.PMID: 10936198   \n33. Birks J.Cholinesterase inhibitors for Alzheimer's disease.Cochrane Database Syst Rev 2006；1: CD005593.PMID:16437532   \n34. MangialascheF,SolomonA,WinbladB,MecocciP,Kivipelto M.Alzheimer'sdisease:clinical trialsand drug development. Lancet Neurol. 2010; 9:702-16.doi: 10.1016/S1474-4422(10)70119-8 PMID: 20610346   \n35. Belenky P,Bogan KL,and Brenner C (2007).NAD $^ +$ metabolism in health and disease.Trends Biochem. Sci. 32(1):12-9.PMID:17161604   \n36.Rui W, Han Y, Xi-can T.Progress in studies of huperzine A,anatural cholinesterase inhibitorfrom Chinese herbal medicine.Acta Pharmacologica Sinica.2006;27(1):1-26.PMID:16364207   \n37. Yorulmaz H,Burcu SF, Oztas B.Effect of Vitamin Eon Blood-Brain Barier Permeability in Aged Rats with PTZ-Induced Convulsions.Neurophysiology.2011; 42(5):349-353.   \n38. Kuhn W, MillerT,Winkel R,Danielczik S,GerstnerA,HickerR,Mattern C,and Przuntek H.Parenteral application of NADH in Parkinson's disease: clinicalimprovement partially due to stimulation of endogenous levodopa biosynthesis.JNeural Transm.1996;i03:1187-1193 PMID: 9013405   \n39. Grommes Christian,KarloJ.Colleen,Caprariello Andrew, Blankenship D'Arbra,DeChant Anne,Landreth Gary E.The PPARy agonist pioglitazone crosses the blood-brain barrier and reduces tumor growth in a human xenograft model. Cancer Chemotherapy and Pharmacology.2013; 71(4): 929- 936.doi: 10.1007/s00280-013-2084-2PMID:23358645   \n40．Jouquey S,Mathieu MN,Hamon G,Chevilard C.Effectof chronic treatment with trandolapril or enalapril on brain ACEactivity in spontaneously hypertensive rats.Neuropharmcology.1995；34(12):1689- 1692.   \n41. Gohlke P,Weiss S,Jansen A, Wienen W,Stangier J,Rascher W,etal.AT1 Receptor AntagonistTelmisartan Administered Peripherally Inhibits Central Responses to Angiotensin Ilin Conscious Rats. The Journal of pharmacology and experimental therapeutic.2001; 298:62-70.   \n42．Glenn ND, John B,James M and John MC. $\\beta$ -Adrenoceptor blockers and the blood-brain barrier.British Journal of Clinical Pharmacology.1981; 11:549-553.PMlD: 6115665 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

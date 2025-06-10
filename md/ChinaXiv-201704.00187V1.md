@@ -1,0 +1,145 @@
+# DOI: 10.5846/stxb201512142483
+
+刘发林.模拟火干扰对森林土壤微生物活性及氮矿化的影响.生态学报,2017,37（7);2188-2196.  
+LiuFLSiuafclil（：2188-2196.
+
+# 模拟火干扰对森林土壤微生物活性及氮矿化的影响
+
+# 刘发林\*
+
+中南林业科技大学,长沙410004
+
+摘要：火干扰产生热能从而诱导土壤有机质的化学氧化，改变碳和氮转换,对土壤的结构与功能产生严重影响,影响程度取决于火强度、火干扰持续时间和热渗透。在湖南省株洲市高视林场选取马尾松次生林火烧迹地,按两种土壤、3个温度和3种土壤水势进行试验设计与方差分析,探讨火干扰对土壤微生物及氮矿化的影响。结果表明：无机氮的浓度与火强度和初始土壤有机质含量呈正相关关系;火干扰后短期内土壤碳和氮浓度较高,微生物生物量碳和潜在可矿化氮较低,温度和土壤水势对基础呼吸速率没有显著影响;当土壤温度达 $1 6 0 ^ { \circ } \mathrm { C }$ 时，未受火干扰土壤中潜在可矿化氮浓度迅速不稳定增加,温度达 $3 5 0 \mathrm { ^ q C }$ 时破坏 $9 0 \%$ 的非微生物组织;土壤加热后水势对氮矿化过程有显著影响,水势越高,潜在可矿化氮损失越大,火干扰土壤的含水量与硝态氮之间呈正相关关系;培养14d期间，土壤火灾历史、热处理和土壤水势对微生物活性、碳和氮矿化有显著影响， $- 1 . 5 ~ \mathrm { M P a }$ 水势下加热到 $3 8 0 \mathrm { ^ { \circ } C }$ 后两种土壤的微生物生物量碳含量最高，土壤水势和可溶性糖呈负相关关系;水势和火干扰之间的交互作用显著影响微生物活性和氮转换,低水势土壤中的微生物生物量碳、可溶性糖和潜在可矿化氮浓度较高。
+
+关键词：马尾松；次生林；火干扰;微生物;氮矿化
+
+# Simulating the effects of fire disturbance on microbial activity and nitrogen mineralization in forest soil
+
+LIU Falin \* Central South UniversityofForestry& Technology，Changsha41OoO4，China
+
+Abstract：Heatfrom firedisturbance induces chemical oxidationof soil organic materthatalters theconversionof carbon （C）and nitrogen（N），which seriously influences soil structure and functions.However，theextent of oxidationdepends onthe fire intensityand duration,and heat penetration.Inthepresent study,aburnedareaof Pinus masonianasecondary forestlocated in the Gaojian State Forest Farm，Zhuzhou，Hunan Province，was selected to conductanexperimentof the effects offire disturbanceon microbialactivityand N mineralization of forest soil.Theexperiment wasconducted ina completelyrandomized design basedontwokindsof soil,threedifferent temperatures，andthreesoil water potentials，with eachtreatmentreplicated three times.Avarianceanalysis was performedonthedata.Theresults showed theconcentration of inorganicNand initialsoilorganicmatercontent werepositivelycorrelatedwithfireintensity.Shortlyafterfire disturbance，soil Cand Nconcentration were high，but microbial biomass Cand potentiallymineralized nitrogen（PMN) werelow，andtemperatureand soil water potential hadno significantefectonthebasicrespiration.PMNlosswasobserved in the unheatedcontrolsoilsof fire disturbancecompared with soils notexposedto fire.Whensoil temperaturereached （204 $1 6 0 ^ { \circ } \mathrm { C }$ ,it resulted inonly a modest increase in PMN concentrations in the soil not previouslyexposed to fire.If soil temperature exceeded $1 6 0 \mathrm { ^ { \circ } C }$ ，the PMN content fluctuated,and then increased rapidly.A soil temperature of $3 5 0 \mathrm { { ^ { \circ } C } }$ resulted in the destruction of $90 \%$ non-microbial tissues.The soil water potential after heating had a significant effect on N mineralization：the higherthesoil waterpotential，themore thePMNlossThere wasapositivecorrelation between the water contentof fire disturbedsoilandnitrateN.During the14day incubation，microbialactivityandCandN mineralizationweresignificantlyinfluencedbysoilfirehistory,initial heat treatment，andsoilwaterpotential.Therelease of soil availableCandNfromfiredisturbancesupportedtherecoveryof microbialactivityinlowwaterpotentials.Whensoil was heated to $3 8 0 \mathrm { { ^ { \circ } C } }$ at $- 1 . 5 \ \mathrm { M P a }$ water potential，soil microbial biomass C was the highest in both soils.A negative correlation betweensoil waterpotentialand solublesugarwasobserved forboth soils.Theconcentrationofsolubleanthrone reactive carbon（ARC）dropped significantly( $P { < } 0 . 0 5$ ）in both soils over time，resulting from the microbial consumption of sugarsreleasedfromthefiredisturbance.The interactionbetween water potentialandfiredisturbancesignificantlyffected the microbialactivityandNconversion,and inlowwaterpotential soil,microbialbiomassC,soluble sugar,andPMN were high.NewlyformedlabileNbyfiredisturbance wasprotected insoilwithlowwaterpotential.LabileNremainedlowerin moist than in dry soils regardless of soil fire history.
+
+Key Words:Pinus massoniana；secondary forest； fire disturbance；microbe；nitrogen mineralization
+
+火干扰对森林生态系统的影响错综复杂。众所周知,森林火灾促进土壤有机质的氧化从而改变其化学成分,但有机物氧化的程度取决于火干扰温度、持续时间和土壤热渗透性[-2],温度高于 $5 0 8 ^ { \circ } \mathrm { C }$ 时导致热敏性微生物死亡,超过 $7 0 8 ^ { \circ } \mathrm { C }$ 直接烧毁植被[3-4],随后,被烧死的植物和微生物迅速氧化为无机氮[5],然而,有机物在极高的温度下燃烧会导致氮挥发[6]。土壤温度增加会导致土壤水的比热和导热特性发生变化[2.7]。土壤含水量是影响评估火干扰对土壤生物和理化性质的主要因素[8]。潮湿土壤中热传导速度更快,热穿透更深,汽化潜热可以防止土壤温度超过 $9 5 8 ^ { \circ } \mathrm { C }$ ,直到水完全蒸发,这种潜热效应不会保护热敏感微生物，一旦水蒸发后对大多数耐高温微生物将是致命的[9-I]。许多学者研究表明,通过计划烧除短期内可提高林地质量和土壤养分浓度[12],但为了避免火灾风险,计划烧除一般在相对潮湿的季节进行,如冬季和春季末[13],相反,大多数森林火灾一般发生在土壤水分和有机层水分枯竭的旱季,如秋季。近年来火干扰导致土壤受热从而影响森林矿质土壤中碳和氮动态变化成为研究热点[14-15],分析土壤含水率、火强度、火灾历史对火干扰后土壤生态系统的影响,为土壤恢复提供理论依据。本研究的目的是研究火干扰后土壤水分和温度的变化对土壤微生物活性和氮矿化的影响，来模拟湿润和干燥的季节中、低强度火干扰对土壤的影响。
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+研究试验选取湖南省攸县高视林场马尾松（Pinus massoniana)次生林。南方丘陵地貌,成土母岩以紫砂页岩、板页岩及第四纪红色粘土为主，土壤肥沃，年平均气温为 $1 7 . 8 \mathrm { ^ { \circ } C }$ 和年降水量为 $1 4 1 0 ~ \mathrm { m m }$ 。样方及剖面设置在东北坡，坡度为( $( 2 5 \pm 5 ) ^ { \mathfrak { c } }$ ，海拔约 $8 0 0 \mathrm { ~ m ~ }$ ,土壤样品特征如表1。试验土壤均取自高视林场马尾松次生林，一套土壤样品收集于近 $8 0 \mathrm { ~ a ~ }$ 未过火的林地，一套土壤样品收集于2014年8月29日经中强度火干扰林地,两套土壤取样点海拔、土壤种类及地上林分的年龄、树种组成基本相似。
+
+表1土壤理化特征  
+Table 1 Physical and chemical characteristics of soil   
+
+<html><body><table><tr><td>土壤</td><td>pH</td><td>总碳 Total C/ （g/kg)</td><td>总氮 Total N/ (g/kg)</td><td>生物量碳 Biomass C/ (μg/g)</td><td>潜在可矿化氮 Potentially mineralized nitrogen(PMN)/(μg/g)</td></tr><tr><td>未受火干扰 No fire disturbance</td><td>5.5</td><td>31</td><td>1.2</td><td>127.2</td><td>15.1</td></tr><tr><td>火干扰 Fire disturbance</td><td>5.8</td><td>49</td><td>2.5</td><td>105.3</td><td>0.3</td></tr></table></body></html>
+
+http://www.ecologica.cn
+
+# 1.2 试验设计
+
+实验样本采用完全随机抽取并培养，按 $2 \times 3 \times 3$ 方式设计，代表两种土壤(近80a未过火的林地和2014年8月29日经中强度火干扰林地）、3个温度( $2 5 ^ { \circ } \mathrm { C } \mathrm { ~ , 1 6 0 ^ { \circ } C }$ 和 $3 8 0 \mathrm { ^ { \circ } C }$ )和3种土壤水势 $\left( - 0 . 0 3 \mathrm { \ M P a } _ { \mathrm { ~ - } 1 . 0 \mathrm { \ M P a } } \right.$ 和$- 1 . 5 ~ \mathrm { M P a } _ { \mathit { \Phi } , \mathit { \Phi } }$ ）,每个处理重复3次。于2014年9月8日同时收集两套土壤样品,先在未烧林分和中强度火烧迹地内各设置 $2 0 ~ \mathrm { m } { \times } 2 0 ~ \mathrm { m }$ 的标准地,在标准地内随机设置土壤剖面,选取0— $1 0 \ \mathrm { c m }$ 层土壤,先移除其他碎片，晾干,并经土壤筛( $2 ~ \mathrm { m m }$ 筛)后储存供测试。随后从两套土壤样品中各取4个样本,各样本分成3等份,分别湿润到 $- 0 . 0 3 \ \mathrm { _ { J } } - 1 . 0 \ \mathrm { _ { \Omega } } - 1 . 5 \ \mathrm { M P a }$ ,模拟土壤水势,浸泡7d后在 $2 5 \mathrm { ^ { \circ } C }$ 恒温状态观测样品重量的变化。另各取 $6 0 \mathrm { ~ g ~ }$ 土壤样品放置于金属密封罐并置于一个预热 $3 0 ~ \mathrm { m i n }$ 的马弗炉上,分别控制温度 $2 5 、 1 6 0 、 3 8 0 \%$ ,模拟中、低强度火表面温度。
+
+# 1.3 实验室分析
+
+土壤样本提取后立即加热(包括常温控制土壤)和加热后处理。取 $2 5 \mathrm { \ g }$ 烘干土壤样本和 $5 0 ~ \mathrm { m m }$ 的 $2 ~ \mathrm { m o l / \ell }$ L氯化钾摇动 $3 0 ~ \mathrm { m i n }$ ,通过42号滤纸。提取后分别通过贝特洛反应、水杨酸硝化测定铵态氮、硝态氮[16],微生物生物量由熏蒸/提取和芘三酮反应[17-18],微生物碳用烟熏样本芘三酮反应与未烟熏样本的差值乘 21来计算。潜在可矿化氮(PMN)是经14d厌氧孵化 $\boldsymbol { 5 } \mathrm { \textrm { g } }$ 的潮湿土壤放置在一个盛有 $1 2 . 5 ~ \mathrm { m m }$ 蒸馏水并充满 $\mathbf { N } _ { 2 }$ 气的离心管中， $2 5 \mathrm { { ^ \circ C } }$ 条件下孵化 $1 4 \mathrm { ~ d ~ }$ 后，向每个离心管中添加 $1 2 . 5 ~ \mathrm { m m }$ 的 $4 ~ \mathrm { m o l / L }$ 氯化钾并放置 $3 0 ~ \mathrm { m i n }$ ,再分析土壤铵态氮。潜在可矿化氮(PMN)值反映了孵化与孵化土壤样品之间的铵态氮的差异。可溶性已糖浓度用蒽酮反应碳测定，采用 $0 . 5 \mathrm { ~ M ~ }$ 的硫酸钾分析 $2 5 \mathrm { ~ g ~ }$ 新鲜土壤。微生物呼吸经三维好氧培养后通过碱性圈闭测定[19]，取 $5 0 \textrm { g }$ 新鲜土壤样品保持 $6 0 \%$ 的持水量并放置于1L 的玻璃瓶中,将 $2 0 ~ \mathrm { m L }$ 的 $1 \ \mathrm { m o l / L }$ 的氢氧化钠溶液放入土壤样品，并密封在 $2 5 \mathrm { ^ { \circ } C }$ 条件下分别培养为3、7、14d，随后转移到 $2 0 0 ~ \mathrm { m m }$ 锥形瓶，用 $2 4 ~ \mathrm { m L }$ 的 $2 \mathrm { m o l / L }$ 氯化钡和5滴指示剂溶液滴定，用 $1 \ \mathrm { m o l / L }$ 的盐酸溶液滴定终点。
+
+# 1.4 统计分析
+
+通过三因素方差分析,发现所有的数据都不违反方差分析假设检验,使用统计分析系统（SAS Institute)进行分析[20]。
+
+# 2结果与分析
+
+# 2.1 短期处理影响
+
+火干扰对土壤生物化学反应影响很大。经火干扰不久的土壤中碳、氮浓度较高,微生物生物量碳和潜在可矿化氮较低(表1）,微生物生物量碳受火干扰后迅速下降,土壤温度达 $3 8 0 \mathrm { ^ { \circ } C }$ 时下降最严重(图1）,火干扰历史和火干扰温度与微生物生物量碳之间的相互关系显著(表2)。未经火干扰的土壤微生物生物量碳浓度比火干扰温度达 $1 6 0 . 3 8 0 ^ { \circ } \mathrm { C }$ 的土壤高。当火干扰温度达 $1 6 0 ^ { \circ } \mathrm { C }$ 时土壤生物量碳均比对照样地减少,当温度升高到 $3 8 0 \mathrm { ^ { \circ } C }$ 土壤生物量碳损失更大（图1）。
+
+受热后土壤可溶性糖的浓度显著增加（表2）， $1 6 0 ^ { \circ } \mathrm { C }$ 时土壤可溶性糖的含量增加近4倍， $3 8 0 ~ \mathrm { { ^ { \circ } C } }$ 时增加近12 倍(图1)。未受火干扰的土壤加热到 $3 8 0 \mathrm { ^ { \circ } C }$ 比曾经经历火干扰的土壤释放更多的可溶性糖。
+
+火干扰后短期内温度和土壤水势对基础呼吸速率的影响不显著,因为土壤呼吸速率主要受水分和温度共同影响[21],而本次研究控制的温度为 $2 5 、 1 6 0 、 3 8 0 ^ { \circ } \mathrm { C }$ ,而森林地表火产生的高温可达 $4 0 0 \mathrm { ^ { \circ } C }$ 以上,试验温度最高只有 $3 8 0 ^ { \circ } \mathrm { C }$ ,热量向上辐射较多而向下热传导较少,因此,对土壤下层温度及土壤含水量的影响较小,从而对土壤基础呼吸速率影响不显著。
+
+如表2和图1,加热到 $1 6 0 ^ { \circ } \mathrm { C }$ 两种土壤的潜在可矿化氮浓度是对照样地的两倍，而 $3 8 0 \mathrm { ^ { \circ } C }$ 时潜在可矿化氮浓度比对照样地低。土壤受热导致铵态氮从氧化有机物中释放， $1 6 0 ^ { \circ } \mathrm { C }$ 时平均浓度增加 $1 0 \%$ 和 $3 8 0 \mathrm { ^ { \circ } C }$ 增加$2 2 \%$ ,相比之下，受热对硝态氮浓度没有显著的影响，与两种土壤火灾历史无关。
+
+如表2和图3,水势和土壤火干扰之间的交互作用显著影响微生物活动和氮转换,低水势土壤中的微生
+
+![](images/35b410ecd20e542f7a0c490e1cc4cdf24dd475c3ad054c93c6241eec00a3ca79.jpg)  
+图1不同温度和湿度水平下土壤微生物生物量碳、水溶性糖、基础呼吸、PMN、铵态氮和硝态氮差异
+
+Fig.1DifrenceofsoilmicrobialbiomassC，solublesugars，basalrespiration，PMN，ammonumnitrogenandnitratenitrogenon different temperatures and moisture levels
+
+表2微生物量碳、可溶性糖、基础呼吸、潜在可矿化氮、铵态氮和硝态氮的方差分析  
+Table 2ANOVA for microbial biomass C,soluble sugars，basal respiration,PMN,ammonium nitrogenand nitrate nitrot   
+
+<html><body><table><tr><td>项目 Project</td><td>源 Source</td><td>df</td><td>均方 Mean square(MS)</td><td>F</td><td>P>F</td></tr><tr><td>微生物量碳</td><td>土壤</td><td>1</td><td>13856</td><td>26.7</td><td>0.0001</td></tr><tr><td>Microbial biomass C</td><td>温度</td><td>2</td><td>105548</td><td>202.6</td><td>0.0001</td></tr><tr><td></td><td>土壤×温度</td><td>2</td><td>6511</td><td>12.5</td><td>0.0005</td></tr><tr><td></td><td>湿度</td><td>2</td><td>2649</td><td>5.1</td><td>0.0210</td></tr><tr><td></td><td>土壤×湿度</td><td>2</td><td>2058</td><td>3.9</td><td>0.0375</td></tr><tr><td></td><td>误差</td><td>16</td><td>515</td><td></td><td></td></tr><tr><td>可溶性糖</td><td>土壤</td><td>1</td><td>3433</td><td>65.9</td><td>0.0001</td></tr><tr><td>Soluble sugars</td><td>温度</td><td>2</td><td>12318</td><td>26.1</td><td>0.0001</td></tr><tr><td></td><td>土壤×温度</td><td>2</td><td>1369</td><td>22.7</td><td>0.0001</td></tr><tr><td></td><td>湿度</td><td>2</td><td>589</td><td>11.4</td><td>0.0007</td></tr><tr><td></td><td>土壤×湿度</td><td>2</td><td>35</td><td>0.6</td><td>0.5089</td></tr><tr><td></td><td>误差</td><td>16</td><td>51</td><td></td><td></td></tr><tr><td>基础呼吸</td><td>土壤</td><td>1</td><td>0.101</td><td>1.8</td><td>0.3044</td></tr><tr><td>Basal respiration</td><td>温度</td><td>2</td><td>0.027</td><td>0.5</td><td>0.6638</td></tr><tr><td></td><td>土壤×温度</td><td>2</td><td>0.079</td><td>3.9</td><td>0.3921</td></tr><tr><td></td><td>湿度</td><td>2</td><td>0.218</td><td>7.6</td><td>0.1983</td></tr><tr><td></td><td>土壤×湿度</td><td>2</td><td>0.417</td><td>3.7</td><td>0.1145</td></tr></table></body></html>
+
+续表  
+
+<html><body><table><tr><td>项目 Project</td><td>源 Source</td><td>df</td><td>均方 Mean square( MS)</td><td>F</td><td>P>F</td></tr><tr><td></td><td>误差</td><td>16</td><td>0.096</td><td></td><td></td></tr><tr><td>潜在可矿化氮</td><td>土壤</td><td>1</td><td>2661</td><td>58.4</td><td>0.0001</td></tr><tr><td>Potentially mineralized nitrogen</td><td>温度</td><td>2</td><td>1763</td><td>38.4</td><td>0.0001</td></tr><tr><td>（PMN)</td><td>土壤×温度</td><td>2</td><td>1056</td><td>23.1</td><td>0.0001</td></tr><tr><td rowspan="6">铵态氮 Ammonium nitrogen</td><td>湿度</td><td>2</td><td>164</td><td>3.5</td><td>0.0481</td></tr><tr><td>土壤×湿度</td><td>2</td><td>125</td><td>2.7</td><td>0.0901</td></tr><tr><td>误差</td><td>16</td><td>44</td><td></td><td></td></tr><tr><td>土壤</td><td>1</td><td>109</td><td>24.7</td><td>0.0001</td></tr><tr><td>温度</td><td>2</td><td>64</td><td>14.5</td><td>0.0002</td></tr><tr><td>土壤×温度</td><td>2</td><td>37</td><td>8.5</td><td>0.0025</td></tr><tr><td></td><td>湿度</td><td>2</td><td>612</td><td>138.9</td><td>0.0001</td></tr><tr><td></td><td>土壤×湿度</td><td>2</td><td>727</td><td>163.8</td><td>0.0001</td></tr><tr><td></td><td>误差</td><td>16</td><td>4.3</td><td></td><td></td></tr><tr><td>硝态氮</td><td>土壤</td><td>1</td><td>4981</td><td>1239.7</td><td>0.0001</td></tr><tr><td>Nitrate nitrogen</td><td>温度</td><td>2</td><td>11.4</td><td>2.8</td><td>0.0861</td></tr><tr><td rowspan="4"></td><td>土壤×温度</td><td>2</td><td>0.17</td><td>0.03</td><td>0.9587</td></tr><tr><td>湿度</td><td>2</td><td>384.8</td><td>95.8</td><td>0.0001</td></tr><tr><td>土壤×湿度</td><td>2</td><td>514.9</td><td>127.4</td><td>0.0001</td></tr><tr><td>误差</td><td>16</td><td>4</td><td></td><td></td></tr></table></body></html>
+
+在 $F$ 检验中直接把概率 $P$ 与显著水平 $\alpha$ 相比，如果 $P { > } \alpha$ ，则接受假设，如果 $P \leqslant \alpha$ ，则拒绝
+
+物生物量碳、可溶性糖和潜在可矿化氮浓度高，平均湿度条件卜火十扰与受热温度对土壤铵态氮的相互作用影响显著。受热到 $1 6 0 ^ { \circ } \mathrm { C }$ 土壤铵态氮增加 $( 9 \% - 1 3 . 3 \%$ )，受火干扰土壤升温到 $3 8 0 \mathrm { ^ { \circ } C }$ 时铵态氮增加$4 2 \%$ ,而未受火干扰土壤仅增加 $6 \%$ 。土壤历史与水势的相互作用对土壤氮矿化起重要作用,未受火干扰土壤铵态氮浓度较高,低水势土壤硝态氮浓度明显较高(图2）。
+
+受火干扰土壤微生物生物量碳初始浓度较低与先前火干扰造成下层碳损耗和微生物死亡有关[19],同时,铵态氮与潜在可矿化氮减少,较高的硝态氮会增强土壤硝化作用。相反,硝态氮浓度低的未受火干扰土壤中硝化菌的初始种群受火影响较大,研究表明大多数生物体在50— $1 2 0 \mathrm { ^ { \circ } C }$ 被杀死,且真菌比细菌对热更敏感[4]。潮湿土壤中微生物比干燥土壤死亡率更高,因为其潜热渗透和热传播影响[7],然而某种程度上干燥土壤微生物存活率更高可能与土壤预处理增强适应力有关。本次实验温度超过 $1 2 0 \%$ ,因此,微生物死亡也许是加热后可溶性糖增加的重要因素之一，这与Diaz-Ravina等研究发现加热后 $70 \%$ 的矿化碳来源于死微生物组织的观点一致[5]。此外,研究发现,当土壤温度达 $1 6 0 ^ { \circ } \mathrm { C }$ 时,潜在可矿化氮浓度迅速不稳定增加,归因于热破坏土壤有机质和热死亡微生物组织,而未受火干扰土壤中潜在可矿化氮少量增加,而近 $8 0 \mathrm { a }$ 未受火干扰土壤中潜在可矿化氮显著增加[22],当温度达 $3 5 0 \mathrm { ^ { \circ } C }$ 导致 $9 0 \%$ 非微生物组织的破坏。
+
+此外，有机质蒸馏启动温度在 $2 0 0 { - } 3 1 5 \mathrm { ^ { \circ } C }$ ，然而有机质燃烧产生的温度远远高于此温度，导致可燃物完全氧化[23],伴随氮的潜在挥发,这与净矿化速度大和土壤铵态氮浓度较高相吻合,归因于土壤中活的和死的有机物的热解。与Dunn 等研究表明无机氮的浓度与火强和初始土壤有机质含量呈正相关关系的研究结果吻合[13]。
+
+# 2.2受热处理14d后的影响
+
+如图3和4所示,培养14d期间土壤火灾历史、热处理和土壤水势对微生物活性、碳和氮矿化有显著影响。 $- 1 . 5 ~ \mathrm { M P a }$ 水势下加热到 $3 8 0 \mathrm { ^ { \circ } C }$ 后两种土壤的微生物生物量碳含量最高，而 $- 0 . 0 3 \ \mathrm { M P a }$ 水势下加热到$3 8 0 \mathrm { ^ { \circ } C }$ 后微生物生物量碳浓度最低。随着时间的推移,两种土壤可溶性糖含量显著下降,但比对照土壤高。培养14d并加热到 $3 8 0 \mathrm { ^ { \circ } C }$ 后可溶性糖浓度最高,土壤水势和可溶性糖成负相关关系,干燥土壤可溶性糖积累更多。 $- 0 . 0 3 \ \mathrm { M P a }$ 水势下累积二氧化碳演化最激烈,未受火干扰对照样品土壤的微生物生物量碳、可溶性糖含量最高， $- 1 . 5 ~ \mathrm { M P a }$ 水势下火干扰土壤中二氧化碳演化较低。培养14d 期间两种土壤的潜在可矿化氮都发生改变,未受火干扰土壤仍保持较高,高水势对照土壤潜在可矿化氮含量非常低,受火干扰对照土壤中铵态氮浓度比培养前降低，随后硝态氮浓度增加。
+
+![](images/5b5bc1ebf05c0f26509c83f64afd97ffa7be27cc3530eb4cd3dbb95aa90a1078.jpg)  
+图23种水势下土壤微生物生物量碳、水溶性糖、基础呼吸、PMN、铵态氮和硝态氮差异 Fig.2DierenceofsoilmicrobalbiomassCsoublesugars，basalespiration,Mammoiitrogeandnitrateirogatthee soil water potentials
+
+未烧对照土壤微生物生物量碳和可溶性糖含量与培养土壤样品相似，加热后可溶性糖增加与有关学者研究结果一致,表明干燥和再湿润导致可溶性糖释放,随后逐渐恢复到火烧前水平[16]。
+
+低水势条件下加热时释放碳和氮与微生物活动有关。两种土壤水溶性糖的浓度因加热而释放显著降低，然而干燥土壤水溶性糖较高,归因于碳矿化。加热后的土壤氮库的变化与初始火干扰后矿物与不稳定氮释放及潜在可矿化氮减少类似。火干扰土壤潜在可矿化氮比未受火干扰土壤损失多，火干扰土壤潜在可矿化氮含量较低归因于热诱导后挥发和不稳定氮的矿化。此外,试验研究表明,低强度火干扰下不稳定氮显著比高强度火干扰损失少[19]。土壤加热后水势对氮矿化过程有显著影响,水势越高,潜在可矿化氮损失越大,其次是无机氮净积累。火干扰土壤的含水量与硝态氮之间呈正相关关系,表明有机物恢复受有效水分的影响比铵态氮更大。样地设置和火干扰状况对土壤含水量有潜在影响,实验中使用的两种土壤生化成分显著不同与先前是否遭受火十扰关系紧密。之前受火十扰的土壤微生物生物量较低,但氮矿化率较快,这反映火十扰后土壤中生物量碳、潜在可矿化氮、可溶性糖和铵态氮浓度较低,收集土壤样品时火灾后的氮化物已经基本恢复到火前水平,相反,未受火干扰土壤中微生物活性相对较高,铵态氮浓度较低。低土壤水势可以保护新形成的不稳定氮,干燥土壤比湿润土壤保持更长,与火干扰历史无关。这种干燥的土壤条件发生在夏季森林火灾和秋季计划烧除，而潮湿的土壤条件通常发生在春季计划烧除。
+
+通过实验发现，实验温度超过深层矿质土壤层温度,火干扰时热量传递到土壤矿质层,影响土壤多孔介质的绝缘效果和汽化潜热[24]。除可燃物载量特别大的区域,此次实验控制温度影响最深为土壤表层 $3 \ \mathrm { c m }$ 。研究结果清楚地证明土壤水分和火灾历史对土壤生化特性的影响。
+
+![](images/c4dbce86570df8dd3d5da765648ee092844542b826483d6888e6d6c0a8b71dd9.jpg)  
+图-0.03MPa -1.0MPa -1.5MPa  
+图33种水势土壤受热14d后微生物生物量碳、可溶性糖和基础呼吸差异
+
+Fig.3Dierenceofsoilmicrobialbomass，solublesugarsndbasalrespirationatthreesoilwaterpotentialsafter14dexposureof three temperatures
+
+# 3结论与讨论
+
+通过实验发现，实验控制温度主要影响表层 $( 0 { - } 3 ~ \mathrm { c m } )$ )土壤，火干扰时影响土壤多孔介质的绝缘效果和汽化潜热。研究结果表明火灾历史、土壤水势和火干扰对土壤生化特性产生很大的影响。
+
+火干扰后短期内土壤碳和氮浓度较高,微生物生物量碳和潜在可矿化氮较低，火干扰历史和火干扰温度与微生物生物量碳之间的相互关系显著,土壤生物量碳损失随火干扰温度的增加而增大。受火干扰土壤微生物生物量碳初始浓度较低与先前火干扰造成下层碳损耗和微生物死亡有关，铵态氮与潜在可矿化氮减少。研究表明当土壤温度达 $1 6 0 ^ { \circ } \mathrm { C }$ 时，潜在可矿化氮浓度迅速不稳定增加，温度达 $3 5 0 \mathrm { ^ q C }$ 导致 $9 0 \%$ 非微生物组织的破坏,归因于火干扰破坏土壤有机质和导致微生物组织受热死亡。
+
+![](images/e74c70ff1012aef78f768e652c7bd5feb9e95cffc79bc2d420104bcc7d6a644c.jpg)  
+0.03MPa -1.0MPa -1.5MPa   
+图43种水势土壤受热14d后土壤潜在可矿化氮、铵态氮和硝态氮差异
+
+火干扰林地土壤潜在可矿化氮比未受火干扰土壤损失多,归因于热诱导后挥发和不稳定氮的矿化，低强度火干扰下不稳定氮损失比中强度火干扰显著减少。土壤加热后水势对氮矿化过程有显著影响,水势越高，潜在可矿化氮损失越大。火干扰土壤的含水量与硝态氮之间呈正相关关系。火干扰后短期内温度和土壤水势对基础呼吸速率的影响不显著,因为森林地表火产生的温度一般可达 $4 0 0 \%$ 以上，而本研究的试验最高温度控制在 $3 8 0 \mathrm { ^ { \circ } C }$ ,热量向上辐射较多而向下热传导较少,因此,对土壤下层温度及土壤含水量的影响较小，从而对土壤基础呼吸速率影响不显著。受热后土壤可溶性糖和铵态氮的浓度显著增加,而受热对硝态氮浓度没有显著的影响，与两种土壤火灾历史无关。
+
+培养 $1 4 \mathrm { ~ d ~ }$ 期间,土壤火灾历史、热处理和土壤水势对微生物活性、碳和氮矿化有显著影响。水势和火干扰之间的交互作用显著影响微生物活动和氮转换,低水势土壤中的微生物生物量碳、可溶性糖和潜在可矿化氮浓度高，平均湿度条件卜火十扰与受热温度对土壤铵态氮的相互作用影响显著。未受火十扰土壤潜在可矿化氮含量较高,高水势对照土壤潜在可矿化氮含量非常低,受火干扰对照土壤中铵态氮浓度比培养前降低,硝态氮浓度增加。
+
+# 参考文献（References）：
+
+1]Feebalssiaeleitsdpaosoil heating.Soil Biology and Biochemistry，1997,29：1-11.  
+[2]HungfRD,HgnG,rdsenWRynKC,eoffGIfueeffirefctostatitepructi/eE,NeuenschwandeLF,dsProcdingoftheaagenndProductivityofWesteMontaneForestSoilsteoutainResearchSatioGeralTechnical Report INT-280. USDA-FS,1991：32-50.  
+[3]Hedrtalaldolalpertiiapine forest soils.Biology and Fertility of Soils，1997,25：109-116.  
+[4]NearyDG,KlopatekCCDeBanLF,FioFireetsoneloroudsustainabiltyeviendsythesisForeolodManagement，199,122：51-71.  
+[5]Diaz-Raviaetathactealctiyinorestsltelatigdcdeseasudyhdleucine incorporation technique.Soil Biology and Biochemistry，1996,28：419-426.  
+[6]GiovaniG,uesiS，achifetsoftigooeicalrameterseatedtoilrtlitdptgowthSliec,1990，149:344-350.  
+[7]CampbellGngerD,ke,ungefdreictingthefetoftmpeatureoilalcuctil,1994，158:307-313.  
+[8]AlbiniFA，einardtEDodelingignitionandbuingateoflargeodyaturalfuelsInteratioalJoualofWildandFi，99，：81-91.  
+[9]BakerKFeletieilgfolosbaea//oegRV,oE,Esotseased-Pathogens.University of California Press，1970：234-238.  
+［10］陶玉柱.火对塔河森林土壤微生物及酶活性的干扰作用[D].哈尔滨：东北林业大学，2014.  
+［11］杨玉莲.模拟增温对高山森林土壤微生物和酶活性的影响[D].雅安：四川农业大学，2012.  
+[12]AroS，HaringtonMG，FederCF，CarlsonCE.Restoringfire-dependentponderosapineforestsinWesternMontanaRestoatioManagement Notes，1995，13：32-36.  
+[13]Duthsuesfoal143- 148.  
+[14］吕爱锋，田汉勤，刘永强.火干扰与生态系统的碳循环.生态学报，2005，25(10)：2734-2743.  
+[15］韩春兰，邵帅，王秋兵，李甄，孙仲秀，毛伟伟.兴安落叶松林火干扰后土壤有机碳含量变化.生态学报，2015，35（9):3023-3033.  
+[16]YangJEgeletoetteidlcSociety of America Journal,1998,62:1108-115.  
+[17]Joergensen R G, Brookes P C.Ninhydrin-reactive N measurements of microbial biomass in 0.5 m $\mathrm { K } _ { 2 } \mathrm { S O } _ { 4 }$ soil extracts.Soil Biology and Biochemistry1990,22(8)： 1023-1027.  
+[18]DeLuca,eElabldoofofmgatfoatigicoalassactidrdBiochemistry，1993，25：1297-1298.  
+[19]Zibilske L M. Carbon mineralization.Soil Science Society of America,1994：835-863.  
+[20]SAS Institute.SAS user's guide. 6th ed. Cary，NC: SAS Institute，1995.  
+[21]Raich JW,Poter CS.Global pat ternsof carbon dioxideemissions fromsoils.Global Biogeochem Cycles，1995,9：23-36  
+22]horasaUcaribeireactfifreolicalpropertsioeoiorsleSociety of America Journal,2001,65：232-238.  
+23]PietiukaRiteosoatigrtugitsropetubsraefBiochemistry，2000,32：277-288.  
+[24］刘发林，张思玉.火干扰下马尾松林物种多样性和土壤养分特征.西北林学院学报，2009,24（5）：36-40.

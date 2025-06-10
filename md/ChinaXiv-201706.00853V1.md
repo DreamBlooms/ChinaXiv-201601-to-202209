@@ -1,0 +1,235 @@
+# DOI: 10.5846/stxb201606071094
+
+李成,李娟,梁春平,赵联军,王大军,江建平.王朗自然保护区地栖脊椎动物群落结构和生境类型的关系.生态学报,2017,37（12)：4247-4257.LiCLiJioWanglang Natural Reserve.Acta Ecologica Sinica,2017,37(12）:4247-4257.
+
+# 王朗自然保护区地栖脊椎动物群落结构和生境类型的关系
+
+李成,李 娟²，梁春平³，赵联军³，王大军2，\*，江建平』
+
+1中国科学院成都生物研究所，成都610041  
+2北京大学，北京 100871  
+3王朗国家级自然保护区，平武622550
+
+摘要:2006年8—11月,采用围栏陷阱法对四川省王朗自然保护区地栖脊椎动物的群落结构进行了研究,结合森林砍伐、旅游和植被恢复方式等干扰因子所推动的动物栖息生境变化，探讨了动物群落结构和生境类型的关系。监测历时75d,8个样地共捕获3纲6目17科21种778只地栖脊椎动物,物种组成包括3种两栖类、1种鸟类和17种哺乳类。每百陷阱日的捕获率为$3 2 . 4 \%$ ;以普通鼩、高山姬鼠、纹背鼩、高原林蛙等4种为优势种，占全部捕获数的 $7 6 . 9 \%$ ;其余17种的个体数均较少，物种多度和其分布区域呈显著线性相关( $P { < } 0 . 0 0 1 { \rangle }$ 。动物群落多样性指数，以干扰相对弱的原生针叶林物种多样性指数和均匀度指数为最高,而优势度指数最低;其次为旅游干扰的原生林灌丛和自然更新的次生林灌丛；人工种植的次生针叶林多样性指数和均匀度指数最低,而优势度指数最高。以动物群落相似性指数进行系统聚类,8个样地的动物群落聚为3类：即干扰相对弱的原生针叶林动物群落、严重干扰的人工针叶林动物群落、部分干扰的原生林灌丛和次生林灌丛动物群落。
+
+关键词：地栖脊椎动物；围栏陷阱法；王朗自然保护区
+
+# The relationship between community structure of ground-dwelling vertebrates and habitat types in the Wanglang Natural Reserve
+
+LI Cheng¹,LI Juan ²,LIANG Chunping³, ZHAO Lianjun ³，WANG Dajun ²,\*， JIANG Jianping   
+1 Chengdu Institute of Biology，Chinese Academy of Sciences，Chengdu 610041，China   
+2Peking University,Beijing10o871，China   
+3 Wanglang Natural Reserve，Pingwu 622550,China
+
+Abstract:The community structure of grand-dweling vertebrates in the Wanglang Natural Reserve,Sichuan Province，was examined inrelation toa widerange of habitat changes asociated with logging，tourism，and restoration measures.Eight sampling sites from arange ofhabitats were monitored usingdrift-fences and pitfalltraps from Augusto November 006.A total of 778 individuals representing 21 species of vertebrates were captured in $7 5 \mathrm { ~ d ~ }$ , including three species of amphibians, one species of bird，and 17 species of mammals. The capture rate of vertebrates was $3 2 . 4 \%$ . The vertebrate community was dominated byfourspecies with highabundance.Therelativeabundanceofthe species wascorrelatedwiththeirdistribution ranges ( $P < 0 . 0 0 1$ ).Each species was trapped on different dates. Fifteen species were captured within $1 4 \mathrm { ~ d ~ }$ ，no new species were captured fromday15to30,andrestof the six specieswerecaptured after 3O samplingdays.Forlong-term investigations，15—3Odays intervalisenough toencountervertebratespeciesfromthismethod.Thecumulativenumberof species at the sampling site exhibited a logarithmic growth curve.After 4O—6O specimens were trapped, $70 \%$ of the overall species richnessinonesampling sitewas monitored.In general，changes inthequalityof habitatresulted inconsiderable diffrences inspeciescomposition，abundance，anddistribution pattern of communitystructure，with a marked decline in diversityandevenness indices，andasubstantial increase intheproportionof dominantspecies.Thediversityofvertebrates indierent habitats indicated that speciesdiversityindex（2.099）andevennessindex（O.875）was highest，but the species dominance index（O.149）waslowest in weakly disturbed primary forest.Both primary shrubland with tourismand secondary shrubland experiencing spontaneous recovery from loging had moderate indices.In contrast，the secondary forest withartificialrecoveryhadthelowest species diversityindex（1.337）and evennessindex（0.52O），butthe highest species dominance index（O.454).Basedon thesimilarityindex of community structure，a phenogram wasreflected in three assemblages representing weakly disturbed，partially disturbed，and heavily disturbed habitats.Amongthree disturbance factors，timber harvest accounted the high level of disturbance and $4 2 . 9 \%$ difference in species composition between logged andun-logged forestcommunities after 5O yearsof clear cuting.Species mostaffected by tourism were associated with primary forest under an intermediate level of disturbance，whereas after 5O years of regeneration,the spontaneous recovery produceda mixedcommunitystructurethat hadrecovered and exhibited higher species diversity
+
+Key Words : ground-dwelling vertebrates ； drift-fence pitfall traps； Wanglang Natural Reserve
+
+动物的群落结构受到多种因素的影响,建国以来至20世纪90年代，影响我国森林生态系统中的动物群落的主要原因为大规模的林业开发[1-4]。随着1998年国家天然林保护工程的实施,许多林区加快了采迹地的人工恢复,各地也纷纷新建一定数量的保护区以保育自然生态和生物多样性。进入21世纪以来,许多保护区开展了生态旅游,由此引发的保护区景区化的趋势已十分明显。当前,林业开发的后果未消,旅游开发的压力又接踵而至,对生物多样性保护带来了新的威胁[。
+
+四川王朗国家级自然保护区是全国建立最早的四个以保护大熊猫等珍稀野生动物及其栖息地为主的自然保护区之一,生物多样性丰富,人类活动较多。区内各种地栖脊椎动物[6-9]种类多、数量大、分布广,对环境的变化敏感,地栖脊椎动物种群动态和群落结构的变化可以较好地反映生境变化的质量和人类活动干扰的程度[10-14],因此,研究不同生境条件下的地栖脊椎动物多样性的变化,不仅可以探讨生态环境变化对物种多样性和群落结构的影响,而且可以依据干扰因子及影响程度制定相应的生态修复措施,对于生物多样性保育具有重要的意义。
+
+# 1研究区域和方法
+
+# 1.1 研究区域
+
+四川王朗国家级自然保护区建于1965年,保护区位于四川省绵阳市平武县境内,地理位置为 $1 0 3 ^ { \circ } 5 5 ^ { \prime }$ 一$1 0 4 ^ { \circ } 1 0 ^ { \prime } \mathrm { E } , 3 2 ^ { \circ } 4 9 ^ { \prime } \mathrm { - } 3 3 ^ { \circ } 0 2 ^ { \prime } \mathrm { N }$ ,总面积 $3 2 2 . 9 7 ~ \mathrm { k m } ^ { 2 }$ ,海拔 $2 3 0 0 { - } 4 9 8 0 \mathrm { ~ m ~ }$ ,相对高差 $2 5 0 0 \mathrm { ~ m ~ }$ 左右，平均海拔3200m。 年均温 $2 . 5 \mathrm { - } 2 . 9 \mathrm { ^ { \circ } C } \mathrm { ~ , ~ }$ 月平均温度 $1 2 . 7 \mathrm { ^ { \circ } C } , 1$ 月均温 $- 6 . 1 \mathrm { { ^ { \circ } C } }$ ， $\mathrm { \geqslant 1 0 ^ { \circ } C }$ 的积温 $1 0 5 6 . 5 \mathrm { ~ \textdegree C }$ ,年降雨量 $8 5 9 . 9 ~ \mathrm { m m }$ 。20世纪50年代，保护区内海拔 $2 7 0 0 \mathrm { ~ m ~ }$ 以下的针叶林已砍伐,采伐迹地部分采用了人工种植的方式进行植被恢复,部分迹地为自然更新的方式,植被型以次生阔叶林为主。 $2 7 0 0 \mathrm { ~ m ~ }$ 以上为原生林,植被型以针叶林为主[15]。1965年保护区建立后,管理站在豹子沟,豹子沟以上区域人类活动少;1983年,管理站迁至牧羊场；1999 年,保护区开展了生态旅游[16]。
+
+# 1.2 研究方法
+
+根据植被类型和影响因子,共选择了8个监测样地(图1),样地的小地名、经纬度、植被类型和主要影响因子见表1。样地1—5位于海拔 $2 7 0 0 \mathrm { ~ m ~ }$ 以下，以次生林为主;样地1位于人工种植的次生针叶林内,样地2—5 位于自然更新的次生林灌丛内;两者都受到了森林砍伐和旅游的影响,不同之处在于样地1采用了人工种植的植被恢复方式，样地2一5是自然更新的植被恢复方式。样地6—8位于海拔 $2 7 0 0 \mathrm { ~ m ~ }$ 以上，以原生林为主；样地6—7位于受到旅游干扰的原生林灌丛内，样地8位于干扰相对弱的原生针叶林内。
+
+为了保持取样的独立性，各个样地的间距均大于1$\mathrm { k m }$ ,仅样地4、5间距约 $5 0 0 \mathrm { ~ m ~ }$ ,但其间建有保护区管理站，管理站的房屋等建筑，以及干燥裸露的地面等障碍物，有效隔断了地栖脊椎动物的运动。地栖脊椎动物本身运动能力弱，如两栖动物的陆地核心生境半径在205一368m之间[17]；其次,干燥裸露的地面倍增了动物的运动阻力，限制了地栖脊椎动物的迁移距离[18]。综合动物的运动能力和建筑障碍等因素，样地4、5仍保持了取样的独立性。
+
+围栏陷阱法是在地上挖洞,埋下一个容器以捕捉经过时不慎掉入的动物，通常是体型较小的动物，如两栖爬行动物、小型哺乳类。这些动物，一旦遇到障碍，必沿着障碍物运动，围栏利用地栖动物在地面活动的习惯加以设计，增加动物掉落的机率，研究表明加围栏的陷阱是不加围栏的陷阱捕获数量的2倍[19]。在监测区布设围栏,两侧或两端配置陷阱是捕捉地栖动物的最佳设计[12,20-21]。
+
+![](images/44a2aa2e3500eef6730b1d27ce89147a3eb6202ebd8ceecffd46188bc06021c1.jpg)  
+图1监测样地分布  
+Fig.1/Distribution of sampling sites within Wanglang national nature reserve
+
+表1监测样地的基本信息  
+Table 1 Data of sampling sites   
+
+<html><body><table><tr><td rowspan="2">样地编号 Number of sampling sites</td><td rowspan="2">地名 Name of sampling sites</td><td rowspan="2">经纬度和海拔 Latitude, longitude, and altitude</td><td rowspan="2">植被类型 Vegetation type</td><td rowspan="2">主要树种 Species of vegetation</td><td colspan="3">影响因子 Influence factors</td></tr><tr><td>砍伐期 Logging period</td><td>旅游开发时间 Tourism development</td><td>恢复措施 Restoration measures</td></tr><tr><td>1</td><td>豹子沟</td><td>104.15594°E, 32.90927°N; 2450m</td><td>人工针叶林</td><td>粗枝云杉 (Picea asperata) 高山柳（Salix sp.）、</td><td>1950s</td><td>1965-</td><td>人工种植</td></tr><tr><td>2</td><td>七坪沟</td><td>104.12584°E, 32.95388°N; 2520m</td><td>次生林灌丛</td><td>沙棘（Hippophae rhamnoides）青杆 (Picea wilsonii)</td><td>1950s</td><td>1983</td><td>自然更新</td></tr><tr><td>3</td><td>楚家磨</td><td>104.11598°E, 32.96649°N; 2540m</td><td>次生林灌丛</td><td>沙棘、高山柳</td><td>1950s</td><td>1983-</td><td>自然更新</td></tr><tr><td>4</td><td>牧羊场</td><td>104.10242°E, 32.96942°N; 2560m</td><td>次生林灌丛</td><td>皂柳 (Salix wallichiana)</td><td>1950s</td><td>1983-</td><td>自然更新</td></tr><tr><td></td><td>熊猫馆</td><td>104.09565°E, 32.97022oN; 2540m</td><td>次生林灌丛</td><td>高山柳</td><td>1950s</td><td>1983-</td><td>自然更新</td></tr><tr><td>6</td><td>大草坪</td><td>104.05385°E, 32.9056N; 2970m</td><td>原生林灌丛</td><td>皂柳</td><td></td><td>1999-</td><td></td></tr><tr><td>7</td><td>金草坡</td><td>104.02963E, 33.00392°N; 2880m</td><td>原生林灌丛</td><td>皂柳、紫果云杉 (Picea purpurea)</td><td></td><td>1999-</td><td></td></tr><tr><td>8</td><td>一道坪</td><td>104.00577°E, 32.984°N; 2940m</td><td>原生针叶林</td><td>岷江冷杉 (Abies faxoniana)</td><td></td><td></td><td></td></tr></table></body></html>
+
+在每个样地中设置了1组围栏陷阱,1组围栏陷阱由四面 $3 \mathrm { ~ m ~ }$ 长的拦网和4个掉落桶组成,围栏 $5 0 ~ \mathrm { c m }$ 高，掉落桶直径 $2 2 \ \mathrm { c m }$ ，深 $3 4 ~ \mathrm { c m }$ ,桶内放入瓦片，加入2— ${ - 5 } ~ \mathrm { c m }$ 深的水（图2和图3），主要捕捉体型较小的地栖脊椎动物; $3 0 \ \mathrm { c m }$ 一般可以防止蛙类跳出[22],对其它的大型动物不会构成影响或带来危害。样地1、5、6、7、8采用了十字形围栏陷阱,样地2、3、4各由2组一字型围栏陷阱组成。监测结束后,用木板盖在掉落桶上,以避免非监测期有动物落入桶内。
+
+![](images/48b840d6ef97fb16bc6fc0edab908fcd51ece77900c6ae63a3e2f09535974a35.jpg)  
+图2围栏  
+Fig.2Arrayofdrift-fences   
+图3陷阱Fig.3Pitfall traps
+
+# 1.3 分析方法
+
+2006年8月22日—11月4日（合计 $7 5 { \mathrm { ~ d } } _ { , } ^ { \cdot }$ ),采用围栏陷阱法对王朗自然保护区的地栖脊椎动物进行了监测。每组陷阱合计开放300 陷阱日（4陷阱 $\times 7 5 , 6 6 , 8$ 组共计开放2400 陷阱日。以每百陷阱日的捕获率作为相对密度。
+
+对各个生境内的地栖脊椎动物群落的物种组成和数量进行以下统计分析,以探讨群落多样性和分布格局、及与生境类型之间的相互关系：
+
+(1)丰富度指数(Richness index) $R \setminus R = S$ （2）多样性指数（Diversity index） $H ^ { \prime }$ ,采用 Shannon-Wiener 指数 $H ^ { \prime } = - \sum P _ { i } \mathrm { l n } P _ { \mathrm { } i }$ （3）均匀度指数（Evenness index） $J ^ { \prime }$ ,采用Pielou 均匀度指数 $J ^ { \prime } { = } ~ H ^ { \prime } / \mathrm { l n } S$ （4）优势度指数（Dominance index） $D$ ,采用 Simpson 生态优势度指数 $D = \sum { ( P _ { i } ) ^ { 2 } }$ 式中,S为物种数 $, P _ { i } = _ { n _ { i } } ^ { \phantom { * } } / \ N , n _ { i }$ 为种 $i$ 的个体数， $N$ 为群落中所有种的个体数。（5)相似性指数,采用百分率相似性指数,将群落中每一个种的密度以百分率表示， $\sum { ( N _ { i } / N ) }$ 为每一种最低百分率之和 $\mathrm { { \mathcal { P } } } S = \sum \left( { N _ { i } } / { N } \right)$ 以百分率相似性 $( P S )$ 作为聚类统计量,用系统聚类法中最短距离法对不同生境类型的地栖脊椎动物群落进行聚类分析。
+
+# 2结果
+
+# 2.1 物种组成
+
+样地中共捕获3纲6目17科21种778只地栖脊椎动物（表2),包括3种两栖类、1种鸟类、17种哺乳类。从数量上看，哺乳类712只，占总个体数的 $9 1 . 5 \%$ ;其次是两栖类65只，占 $8 . 4 \%$ ,鸟类仅1只。
+
+北方山溪鲵被认为是终生水栖的物种,围栏陷阱法调查在样地1、5、6、8 的陷阱中均有发现,这4组陷阱离河流距离5- $5 0 \mathrm { ~ m ~ }$ 之间,说明北方山溪鲵有上陆活动的能力。
+
+http://www.ecologica.cn
+
+表2王朗自然保护区地栖脊椎动物种类和数量  
+Table 2Species and numbers of ground-dweling vertebrates captured in pitfall traps at Wanglang NR   
+
+<html><body><table><tr><td>纲</td><td>目</td><td>科</td><td>种</td><td>个体数</td></tr><tr><td>Class</td><td>Order</td><td>Family</td><td>Species</td><td>Total</td></tr><tr><td>两栖纲Amphibia</td><td>有尾目Caudata</td><td>小鲵科 Hynobiidae</td><td>北方山溪鲵 Batrachuperus tibetanus</td><td>7</td></tr><tr><td></td><td>无尾目Anura</td><td>蟾蜍科 Bufonidae</td><td>华西蟾蜍 Bufo andrewsi</td><td>14</td></tr><tr><td></td><td></td><td>蛙科 Ranidae</td><td>高原林蛙 Rana kukunoris</td><td>44</td></tr><tr><td>鸟纲Aves</td><td>雀形目Passeriformes</td><td>画眉科 Timaliidae</td><td>橙翅噪鹛 Garrulax elliotii</td><td>1</td></tr><tr><td>哺乳纲Mammalia</td><td>食虫目Insectivora</td><td>科 Soricidae</td><td>普通鼩 Sorex araneus</td><td>393</td></tr><tr><td></td><td></td><td></td><td>纹背鼩 Sorex cylindricauda</td><td>72</td></tr><tr><td></td><td></td><td></td><td>长尾 Soriculus caudatus</td><td>37</td></tr><tr><td></td><td></td><td></td><td>短尾鼩 Anourosorex squamipes</td><td>19</td></tr><tr><td></td><td></td><td>科 Talpidae</td><td>长吻鼹 Euroscaptor longirostris</td><td>3</td></tr><tr><td></td><td>啮齿目Rodentia</td><td></td><td>鼹 Uropsilus soricipes</td><td>13</td></tr><tr><td></td><td></td><td>鼠科 Cricetidae</td><td>绒鼠Eothenomys chinensis</td><td>19</td></tr><tr><td></td><td></td><td></td><td>高山姬鼠 Apodemus chevrieri</td><td>89</td></tr><tr><td></td><td></td><td></td><td>大耳姬鼠 Apodemus latronum</td><td>8</td></tr><tr><td></td><td></td><td></td><td>川西白腹鼠 Niviventer excelsior</td><td>12</td></tr><tr><td></td><td></td><td></td><td>高原酚鼠Myospalax baileyi</td><td>3</td></tr><tr><td></td><td></td><td></td><td>褐家鼠 Rattus norvegicus</td><td>2</td></tr><tr><td></td><td></td><td></td><td>麝鼠Ondatra zibethicus</td><td>3</td></tr><tr><td></td><td></td><td></td><td>巢鼠 Micromys minutus</td><td>3</td></tr><tr><td></td><td></td><td>跳鼠科Dipodidae</td><td>四川林跳鼠 Eozapus setchuanus</td><td>26</td></tr><tr><td></td><td></td><td></td><td>鼠 Sicista concolor</td><td>6</td></tr><tr><td></td><td>兔形目Lagomorpha</td><td>鼠兔科 Ochotonidae</td><td>藏鼠兔Ochotona thibetana</td><td>4</td></tr><tr><td>合计Total</td><td>6目</td><td>9科</td><td>21种</td><td>778只</td></tr></table></body></html>
+
+鸟类名录参考[7];哺乳类名录参考[6,8-9]
+
+# 2.2 丰度和分布
+
+物种的丰度和分布区域是物种基本的生物学和生态学参数。以该种总捕获数是否超过全部捕获数的$5 \%$ 为判别优势种的标准[12]，则捕获数超过39只（778只的 $5 \%$ ),属于优势种的动物有4种：普通（占总个体数的 $5 0 . 5 \%$ )、高山姬鼠 $( 1 1 . 4 \%$ ）、纹背鼩鼱（9.$2 \%$ ）、高原林蛙 $( \overleftarrow { 5 . 6 \% } ) _ { \mathrm { ~ \textQ ~ } } 4$ 种优势种的总捕获数598只占全部捕获数的 $7 6 . 9 \%$ 。
+
+物种个体数(对数转换)和其分布样地的数量呈极显著线性相关( $r = 0 . 9 2 1$ ， $P { < } 0 . 0 0 1$ ），分布广是优势种的特点，数量少的物种,其分布也非常局限（图4）。
+
+# 2.3捕获率和捕获日期
+
+![](images/6108c6419efa8f1793458a507d5f421d8448c8ec51159b9d5429f75aed95c6ad.jpg)  
+图4 $\bf { l g _ { 1 0 } }$ （个体数)与分布样地数量的关系  
+Fig.4The $\mathbf { l g }$ （counts）of vertebratesin relation to the number of sampling sites
+
+》每百陷阱日的捕获率为 $3 2 . 4 \%$ ;其中捕获率最高者为普通鼩，每百陷阱日的捕获率达 $1 6 . 4 \%$ ,其次为高山姬鼠,每百陷阱日的捕获率达 $3 . 7 \%$ (表3)；经 $\chi ^ { 2 }$ 检验,所有捕获物种中,有16个物种在不同样地间的捕获频次呈均匀分布;5个物种在不同样地间的捕获频次呈现不均匀分布,高原林蛙、普通鼩 、纹背鼩鼱、短尾鼩、高山姬鼠;其中普通鼩鼱、短尾鼩、高山姬鼠在人工针叶林内有明显增多的趋势,其对人工林和人为干扰有较强耐受性。
+
+不同样地中，以人工恢复的次生针叶林捕获率最高（样地 $1 , 6 4 . 0 \%$ )，其次是自然恢复的次生林灌丛（样地2 $- 5 , 3 3 . 3 \% - 4 1 . 7 \% \rangle$ ,最低的是受到旅游干扰的原生林灌丛（样地6—7, $9 . 0 \%$ 一 $1 9 . 7 \%$ )和干扰相对弱的原生针叶林（样地 $8 , 1 1 . 3 \%$ )。原生林样地6—8的样本数量明显比次生林样地1—5少,这也提示本研究,原生林的物种多样性丰富,而数量不丰,要注意保护这些稀有种群。
+
+表3地栖脊椎动物物种个体数和捕获率  
+Table 3Number of captured individuals and captured rate of ground-dwelling vertebrates   
+
+<html><body><table><tr><td>物种</td><td></td><td></td><td>cap</td><td>样地编号 Plot No.</td><td></td><td></td><td></td><td></td><td>物种个体数</td><td>物种捕获率</td></tr><tr><td>Species</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>Total</td><td>The captured rate</td></tr><tr><td>北方山溪鲵 Batrachuperus tibetanus</td><td>1</td><td></td><td></td><td></td><td>2</td><td></td><td>3</td><td>1</td><td>7</td><td>0.29%</td></tr><tr><td>华西蟾蜍 Bufo andrewsi</td><td>4</td><td></td><td>2</td><td>3</td><td>5</td><td></td><td></td><td></td><td>14</td><td>0.58%</td></tr><tr><td>高原林蛙Rana kukunoris</td><td>5</td><td>7</td><td>13</td><td>14</td><td>2</td><td>3</td><td></td><td></td><td>44**</td><td>1.83%</td></tr><tr><td>橙翅噪鹛 Garrulax elliotii</td><td></td><td></td><td></td><td></td><td></td><td>1</td><td></td><td>●</td><td>1</td><td>0.04%</td></tr><tr><td>普通鼩 Sorex araneus</td><td>126</td><td>63</td><td>64</td><td>58</td><td>44</td><td>20</td><td></td><td></td><td>393</td><td>16.38%</td></tr><tr><td>纹背鼩睛 Sorex cylindricauda</td><td>5</td><td>16</td><td>12</td><td>12</td><td>11</td><td>7</td><td>4</td><td></td><td>72 *</td><td>3.00%</td></tr><tr><td>长尾 Soriculus caudatus</td><td>1</td><td>9</td><td></td><td>7</td><td>4</td><td>8</td><td></td><td></td><td>37</td><td>1.54%</td></tr><tr><td>短尾鼩 Anourosorex squamipes</td><td>10</td><td>1</td><td>1</td><td>2</td><td>1</td><td>2</td><td></td><td></td><td>19**</td><td>0.79%</td></tr><tr><td>长吻鼹Euroscaptor longirostris</td><td>2</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td>3</td><td>0.13%</td></tr><tr><td>鼹 Uropsilus soricipes</td><td></td><td>5</td><td>4</td><td>2</td><td>1</td><td></td><td></td><td>1</td><td>13</td><td>0.54%</td></tr><tr><td>绒鼠Eothenomys chinensis</td><td>4</td><td>4</td><td>4</td><td>1</td><td>3</td><td>1</td><td></td><td>2</td><td>19</td><td>0.79%</td></tr><tr><td>高山姬鼠 Apodemus chevrieri</td><td>25</td><td>12</td><td>12</td><td>14</td><td>12</td><td></td><td></td><td>4</td><td>89**</td><td>3.71%</td></tr><tr><td>大耳姬鼠 Apodemus latronum</td><td></td><td>1</td><td></td><td></td><td>5</td><td></td><td></td><td></td><td>8</td><td>0.33%</td></tr><tr><td>川西白腹鼠 Niviventer excelsior</td><td>5</td><td></td><td>1</td><td>3</td><td>3</td><td></td><td></td><td></td><td>12</td><td>0.50%</td></tr><tr><td>高原酚鼠 Myospalax baileyi</td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td>3</td><td>0.13%</td></tr><tr><td>褐家鼠 Rattus norvegicus</td><td></td><td></td><td></td><td>● 2</td><td></td><td></td><td></td><td></td><td>2</td><td>0.08%</td></tr><tr><td>麝鼠Ondatra zibethicus</td><td>1</td><td></td><td></td><td>1</td><td>1</td><td></td><td></td><td></td><td>3</td><td>0.13%</td></tr><tr><td>巢鼠Micromys minutus</td><td></td><td>2</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td>3</td><td>0.13%</td></tr><tr><td>四川林跳鼠 Eozapus setchuanus</td><td>3</td><td>3</td><td>2</td><td>6</td><td></td><td></td><td></td><td></td><td>26</td><td>1.08%</td></tr><tr><td>蹶鼠 Sicista concolor</td><td></td><td></td><td></td><td></td><td>6</td><td></td><td></td><td></td><td>6</td><td>0.25%</td></tr><tr><td>藏鼠兔Ochotona thibetana</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1 1</td><td>4</td><td>0.17%</td></tr><tr><td>样地个体数 Total number</td><td>192</td><td>125</td><td>116</td><td>125</td><td>100</td><td>2 59</td><td>1 27</td><td>34</td><td></td><td></td></tr><tr><td>样地捕获率 The captured rate</td><td></td><td></td><td>38.67%</td><td>41.67%</td><td>33.33%</td><td>19.67%</td><td>9.00%</td><td>11.33%</td><td></td><td></td></tr><tr><td>样地物种数 Species richness</td><td>64.00% 13</td><td>41.67% 13</td><td>11</td><td>13</td><td>14</td><td>12</td><td></td><td>11</td><td></td><td></td></tr></table></body></html>
+
+利用 $\chi ^ { 2 }$ 检验各物种在不同样地间的捕获频次的均匀分布 Evenly distribution of species among different sites are tested by $\chi ^ { 2 } \mathrm { t e s t }$ ；\* $\scriptstyle P < 0 . 0 5$ ；\* 1 \* $\scriptstyle P < 0 . 0 1$ ，\*\*\*P<0.001
+
+每种动物被陷阱捕获的日期各不相同(表4）。7个物种在陷阱开放后的第2天即被捕获;13个物种 $1 0 \mathrm { ~ d ~ }$ 内被捕获，占被捕获物种总数的 $6 1 . 9 \%$ ;15 个物种在14d内被捕获;第15—30 天没有增加新的物种记录;有6个物种在30d后被捕获。
+
+物种被捕获的最短天数,对于规划针对一个地区的多样性调查方案有参考意义（图5）,10—14d的调查时间基本可以了解一个地区当季活动的动物。之后的半个月一般较难增加新的物种记录,其后,因为物种迁徙,才能增加新的记录。对于一个地区的深入调查或监测,两次调查或监测之间,中间最好间隔15一 $\cdot 3 0 \mathrm { ~ d ~ }$ 。
+
+各样地的累计物种数随累计样本数呈对数增长曲线（图6),说明样地内的大多数物种已被监测到,未来采到新种的几率相当低,此时计算多样性指数不会有太大的变化。同时,根据对数增长曲线的公式( $\scriptstyle { y = a }$ ln$( x ) \ : - \ : b )$ 发现在1个样地内捕获40一60只样本后，即可监测到该样地 $70 \%$ 的物种,为了尽量保护当地的动物不引起种群下降，建议日后的常规监测以每个样地捕获40一60只样本为宜。
+
+表4地栖脊椎动物被捕获的最短时间  
+Table 4The shortest days of captured success for ground-dwelling vertebrates   
+
+<html><body><table><tr><td rowspan="2">物种 Species</td><td colspan="8">Theshortestdayso l-uwennnigvertebrates</td><td rowspan="2">该种被捕获的 最短时间/d</td></tr><tr><td colspan="6">样地编号 Plot No.</td><td>8</td></tr><tr><td>北方山溪鲵 Batrachuperus tibetanus</td><td>21</td><td></td><td></td><td></td><td>2</td><td></td><td>7</td><td></td><td>captured success</td></tr><tr><td>华西蟾蜍 Bufo andrewsi</td><td></td><td></td><td>21</td><td></td><td></td><td></td><td></td><td>20</td><td>2</td></tr><tr><td></td><td>2</td><td></td><td></td><td>4</td><td>22</td><td></td><td></td><td></td><td>2</td></tr><tr><td>高原林蛙 Rana kukunoris</td><td>21</td><td>9</td><td>8</td><td>8</td><td>46</td><td>7</td><td></td><td></td><td>7</td></tr><tr><td>橙翅噪鹛 Garrulax elliotii 普通鼩 Sorex araneus</td><td></td><td></td><td></td><td></td><td></td><td>45</td><td></td><td></td><td>45 ?</td></tr><tr><td>纹背睛 Sorex cylindricauda</td><td>9</td><td>21</td><td>2</td><td>12</td><td>3</td><td>7</td><td>5</td><td>12</td><td>2</td></tr><tr><td>长尾鼩 Soriculus caudatus</td><td>3</td><td>3</td><td>6</td><td>4 2</td><td>11</td><td>30</td><td>7</td><td>1</td><td>3</td></tr><tr><td>短尾鼩 Anourosorex squamipes</td><td>8</td><td>2</td><td>39</td><td>53</td><td>2</td><td>2</td><td>56</td><td>gic</td><td>2</td></tr><tr><td></td><td>39</td><td>57</td><td></td><td></td><td>72</td><td>58</td><td></td><td></td><td>39</td></tr><tr><td></td><td>35</td><td>3521</td><td>35</td><td>17</td><td>36</td><td></td><td></td><td>12</td><td>32</td></tr><tr><td>绒鼠Eothenomys chinensis</td><td>6</td><td>6</td><td>2</td><td>27</td><td>16</td><td>35</td><td>O</td><td>7</td><td></td></tr><tr><td>高山姬鼠 Apodemus chevrieri</td><td></td><td>21</td><td></td><td></td><td>2</td><td>2</td><td></td><td>20</td><td>2</td></tr><tr><td>大耳姬鼠 Apodemus latronum</td><td>9</td><td>2</td><td>2</td><td>8</td><td>7</td><td>30</td><td>24</td><td>7</td><td>2 2</td></tr><tr><td>川西白腹鼠Niviventer excelsior</td><td>57</td><td></td><td>44</td><td>47</td><td>46</td><td></td><td></td><td></td><td>44</td></tr><tr><td>高原鼠Myospalax baileyi</td><td></td><td>21</td><td></td><td></td><td></td><td></td><td>14</td><td></td><td>14</td></tr><tr><td>褐家鼠 Rattus norvegicus</td><td></td><td></td><td></td><td>31</td><td></td><td></td><td></td><td></td><td>31</td></tr><tr><td>麝鼠Ondatra zibethicus</td><td>45</td><td></td><td>1</td><td>41</td><td>40</td><td></td><td></td><td></td><td>40</td></tr><tr><td>巢鼠 Micromys minutus</td><td></td><td>8</td><td>57</td><td>●</td><td></td><td></td><td></td><td></td><td>8</td></tr><tr><td>四川林跳鼠 Eozapus setchuanus</td><td>21</td><td>6</td><td>15</td><td>12</td><td>7</td><td>9</td><td></td><td>7</td><td>6</td></tr><tr><td>鼠 Sicista concolor</td><td></td><td></td><td></td><td></td><td></td><td>7</td><td>14</td><td>8</td><td>7</td></tr><tr><td>藏鼠兔Ochotona thibetana</td><td></td><td></td><td></td><td></td><td></td><td>7</td><td>20</td><td>24</td><td>7</td></tr></table></body></html>
+
+# 2.4地栖脊椎动物群落的多样性指数
+
+5055 4445   
+39404445   
+35-   
+31\*   
+14'   
+12   
+8   
+6 7 7   
+2 2 2 2 2 2← 2 3   
+巢
+
+不同样地的地栖脊椎动物群落多样性指数与物种丰富度并不相关(表5)；原生针叶林样地8有11个物种，物种多样性指数（2.099）和均匀度指数（0.875）最高，而群落的优势度指数最低（0.149）;其次是受到旅游干扰的原生林灌丛样地6一7;再次是自然恢复的次生林灌丛样地2一5；人工恢复的次生针叶林样地1，有13个物种，其多样性指数(1.337)和均匀度指数(0.520)却最低,但其群落优势种非常突出，优势度指数最高(0.454)。
+
+# 2.5地栖脊椎动物群落相似性与聚类分析
+
+砍伐、旅游、植被恢复措施等人为干扰活动的叠加和增强，会导致不同样地间的群落相似性降低，而歧异度增加(表6)。在各个样地间,相似性指数最高的是自然更新的次生林灌丛样地2—5;干扰相对弱的原生针叶林样地8与人工针叶林样地1,由于两者干扰因子差别最大,其相似性指数最小。
+
+![](images/d66460165e0b48556f7aa4cdf52a3b90db54fc8c5d90d1c802a176d27f8b0fe1.jpg)  
+图6样地中地栖脊椎动物累计物种数随累计样本数的变化
+
+Fig.6The acumulativenumberof species of ground-dwellng vertebrates inrelation totheaccumulative numberof samples
+
+表5不同样地的地栖脊椎动物的群落多样性特征  
+Table 5Characters of community diversity of ground-dwelling vertebrates in different habitats   
+
+<html><body><table><tr><td>多样性指数Index 1</td><td></td><td>1 2</td><td></td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td>物种丰富度 Richness index</td><td></td><td>13</td><td>13</td><td>11</td><td>13</td><td>14</td><td>12</td><td>8</td><td>11</td></tr><tr><td>物种多样性指数 Diversity index</td><td></td><td>1.337</td><td>1.733</td><td>1.538</td><td>1.834</td><td>1.961</td><td>2.066</td><td>1.767</td><td>2.099</td></tr><tr><td>均匀度指数 Evenness index</td><td></td><td>0.520</td><td>0.676</td><td>0.641</td><td>0.715</td><td>0.743</td><td>0.831</td><td>0.849</td><td>0.875</td></tr><tr><td>优势度指数 Dominance index</td><td></td><td>0.454</td><td>0.292</td><td>0.342</td><td>0.257</td><td>0.233</td><td>0.174</td><td>0.226</td><td>0.149</td></tr></table></body></html>
+
+表6不同样地间地栖脊椎动物群落相似性比较  
+Table 6Comparison of similarity index of groud-dwelling vertebrates in different habitats   
+
+<html><body><table><tr><td>样地 Sampling sites</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td>2</td><td>70.9</td><td>一</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>85.9</td><td>一</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td>72.3</td><td>82.4</td><td>85.1</td><td>一</td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td>71.5</td><td>78.6</td><td>75.9</td><td>84</td><td>一</td><td></td><td></td><td></td></tr><tr><td>6</td><td>58.1</td><td>73.3</td><td>63.9</td><td>72.6</td><td>71.5</td><td></td><td></td><td></td></tr><tr><td>7</td><td>60.2</td><td>64.7</td><td>62.3</td><td>63.1</td><td>65.8</td><td>67.3</td><td>一</td><td></td></tr><tr><td>8</td><td>39.6</td><td>59.5</td><td>49.4</td><td>54.2</td><td>62.3</td><td>72.1</td><td>55.2</td><td></td></tr></table></body></html>
+
+通过系统聚类,在相似性系数大于0.6的水平上，所有的样地聚为3组（图7)：一组为原生针叶林样地8,二组为人工恢复的次生针叶林样地1，三组为受到旅游干扰的原生林灌丛样地6—7和自然恢复的次生林灌丛样地2—5。因此，可以将8个样地划分为3种群落类型：原生针叶林群落、人工恢复的次生针叶林群落、自然恢复的次生林灌丛群落和受到旅游干扰的原生林灌丛群落。
+
+# 3讨论
+
+籍由监测生命周期较短，种类多，数量大，分布广的地栖脊椎动物，可以发现干扰对于动物群落多样性具有重要影响[1,4,13,23]。依据地栖脊椎动物群落结构的变
+
+![](images/20a8cb8ea135976450a3a6efe34f3c6984fbdbf6fa5375bed1cbfd31e82c1015.jpg)  
+图7地栖脊椎动物群落相似性指数聚类图  
+Fig.7The cluster phenogram of similarity index of communities of groud-dwelling vertebrates in different habitats
+
+化,有助于了解在人类活动干扰下,物种多样性的消失规律和影响程度。
+
+# 3.1人为干扰对地栖脊椎动物群落的影响
+
+# 3.1.1 砍伐
+
+森林采伐后,地形及短期内的土壤均无很大变化，其主要的不同在于植被的改变及更替,故动物区系及其数量的变动,主要是植被影响的结果。森林采伐后,动物区系也随之改变,树栖种类离开了,林缘种类减少了，林外的种类逐渐入侵了[1],如样地5发现的褐家鼠就是随着森林开发和旅游开发进人林区与人类的伴居种[3]。长期的监测研究显示,砍伐的影响通常在栖息地恢复时会渐渐趋缓,但影响至少会延续 $2 5 \mathrm { ~ a ~ }$ 之久，而对有尾目动物而言,影响可能持续 50—70 a[23]。在本文中,次生林样地1—5 和原生林样地6—8相比,体现了砍伐对生物多样性的长期影响。虽然砍伐已结束 $5 0 \mathrm { ~ \AA ~ }$ ，次生林样地的物种多样性恢复较快，但采伐区样地1—5 和未采伐区样地6—8之间有9个物种不同,在物种组成上的差异为 $4 2 . 9 \%$ ,即使考虑到样地间最高海拔和最低海拔之间 $5 2 0 \mathrm { ~ m ~ }$ 的差异,砍伐的影响也非常明显。
+
+# 3.1.2 旅游
+
+原生林样地6—8,体现了旅游对生物多样性的影响,干扰相对弱的原生林样地8,其物种多样性指数和均匀度指数均高于受到旅游干扰的原生林样地6—7。而且,受到旅游干扰的原生林样地6—7在群落性质上，与砍伐后自然恢复的次生林样地2—5具有某种相似性,即原生林受到旅游干扰后,其群落特征类似于经过50a自然恢复后的次生林,说明旅游干扰的负面影响较大。
+
+# 3.1.3 植被恢复措施
+
+人工恢复模式下乔木层群落结构要明显优于自然恢复模式；自然恢复模式下,灌木层、草本植物层的物种数量、多样性指数优于人工恢复模式[24]。次生林样地1—5,体现了植被恢复措施对生物多样性的影响。人工种植的次生林样地1,由于灌木层、草本植物层恢复缓慢,其地栖脊椎物种多样性指数和均匀度指数低,普通鼩数量多,优势度指数高。而自然更新的次生林灌丛样地2—5,灌木和草本植物恢复良好,其地栖脊椎动物群落特征已比较接近原生林灌丛样地的动物群落特征。
+
+# $3 . 2 ^ { \overset { \_ } { } }$ 地栖脊椎动物群落的演化趋势
+
+在人为活动的干扰下,动物的栖息环境产生了很大变化,推动着地栖脊椎动物群落的规律性演替,这种变化一方面体现在物种多度的变化,另一方面体现在群落多样性的演化[25]。
+
+物种多度既与它们的分布范围呈显著正相关,也与干扰因子密切相关。总体上,干扰的影响程度因物种而异[25]。常见种倾向于较大的分布区或者对环境改变具有较大的耐受性,砍伐、旅游、人工种植等人为干扰会造成少数物种的消失,但对生境改变容忍度高的物种会留存下来成为优势种,最明显的是物种单一化加剧，优势现象明显，如普通鼩数量占人工针叶林群落物种组成比的 $6 5 . 6 \%$ 。而稀有种分布区窄，数量少，抗干扰能力极低,对于干扰非常敏感,很容易陷入濒危或绝灭[26]。因此,稀有种的濒危性和抗干扰的脆弱性是保护生物学的中心原则,值得重点评价和保护[27]。然而,稀有种更多情况下,是受异常天气条件影响,随机出现的物种;常见种则是永久物种[28]。相对于偶然出现的稀有种,常见种更能反映干扰对环境的影响。高原林蛙、普通鼩鼱、纹背鼩鼱、短尾鼩、高山姬鼠等常见种在环境变化时,其敏感度更高。
+
+随着人类干扰的增加,地栖脊椎动物群落的稳定状态不断地被打破,推动着群落结构的演化。地栖脊椎动物群落多样性指数显示;原生针叶林样地具有最高的物种多样性指数和均匀度指数,而群落的优势度指数最低;其次是受到旅游干扰的原生林灌丛样地;再次是自然恢复的次生林灌丛样地;最后是人工恢复的次生针叶林样地,其多样性指数和均匀度指数最低,优势度指数最高。中国森林砍伐在1950—2000 年的 50 a中增加了18倍,天然林只剩 $3 0 \%$ [29]。在生物多样性保护和群落结构优化的角度上,这些仅存的天然林更有利于保育生物多样性。
+
+# 3.3地栖脊椎动物群落的保护措施
+
+首先,保护措施要具有时效性和全面性。物种丰富度和群落多样性指数与调查时间、调查类群密切相关（表7)。以15d和75d所发现的物种丰富度相比,其物种丰富度相差 $4 3 . 5 \%$ ;许多物种有迁徙习性，物种丰富度随时间和类群的变化规律,是制定保护规划的重要参考,尤其是对迁徙的物种,其停留的时间信息,是选择保护区域,制定保护措施的关键依据。而单一类群哺乳类比多个类群的群落多样性指数,下降了 $9 . 9 \%$ 。因为不同类群的动物可能占据相似的生态位，竞争类似的食物，其彼此的关系可能较同类群动物更加密切,在调查和分析动物群落的成员及相互关系时,宜以生态位角度解析同域动物群落间的关系[12]。
+
+表7调查的物种丰富度和群落多样性指数比较  
+Table7Comparisonof richness index and diversity indexof groud-dweling vertebrates inshortand long time period   
+
+<html><body><table><tr><td rowspan="2">样地 Sampling sites</td><td colspan="2">物种丰富度 Richness index</td><td></td><td colspan="3">群落多样性指数 Diversity index</td></tr><tr><td>15 d</td><td>75d</td><td>● 比值 Ratio/%</td><td>地栖哺乳类群落 Communities of groud-dwelling</td><td>地栖脊椎动物群落 Communities of groud-dwelling</td><td>比值 Ratio/%</td></tr><tr><td>1</td><td>6</td><td>13</td><td>46.2</td><td>mammals 1.142</td><td>vertebrates 1.337</td><td>85.4</td></tr><tr><td>2</td><td>7</td><td>13</td><td>53.8</td><td>1.607</td><td>1.733</td><td>92.7</td></tr><tr><td>3</td><td>6</td><td>11</td><td>54.5</td><td>1.266</td><td>1.538</td><td>82.3</td></tr><tr><td>4</td><td></td><td>13</td><td>53.8</td><td>1.589</td><td>1.834</td><td>86.6</td></tr><tr><td>5</td><td>77</td><td>14</td><td>50.0</td><td>1.724</td><td>1.961</td><td>87.9</td></tr><tr><td>6</td><td>7</td><td>12</td><td>58.3</td><td>1.964</td><td>2.066</td><td>95.1</td></tr><tr><td>7</td><td>5</td><td>8</td><td>62.5</td><td>1.595</td><td>1.767</td><td>90.3</td></tr><tr><td>8</td><td>8</td><td>11</td><td>72.7</td><td>2.026</td><td>2.099</td><td>96.5</td></tr><tr><td>平均值 Mean</td><td>6.6</td><td>11.9</td><td>56.5</td><td>1.61</td><td>1.79</td><td>90.1</td></tr></table></body></html>
+
+其次,砍伐对地栖脊椎动物群落多样性具有较大的负面影响,由于许多树种的扩散和传播依赖小型地栖哺乳动物[25],虽然天然林采伐已被国家天然林保护工程所取代,但其对生物多样性的负面影响会持续较长时期。旅游的影响同样不可忽视,对于旅游需有所限制,旅游活动尤其不能进入原生林内。最后,林业恢复措施方面,要重视自然更新,减少人为种植。
+
+致谢：王朗自然保护区;刘斌、罗春平、赵建华、黄俊忠、崔金元、袁志伟、谭良清、黎运喜等均参加了野外监测工作;成都生物研究所王刚博士和戴强副研究员协助数据分析;Janak Raj Khatiwada 博士帮助写作,特此致谢。
+
+# 参考文献（References）：
+
+［1］夏武平，李清涛.东北老采伐迹地的类型及鼠类区系的初步研究.动物学报，1957,9(4)：283-290.
+
+http://www.ecologica.cn
+
+[2] 夏武平.带岭林区采伐后短期内鼠类数量变动的趋势.动物学报，1958，10(4)：431-437.  
+[3] 夏武平，罗泽珣.大兴安岭森林采伐地区人房内鼠类区系的演替现象.动物学报，1962，14（2)：224-224.  
+[4］李俊生，宋延龄，徐存宝，曾治高，宋影.小兴安岭林区不同生境梯度中小型哺乳动物生物多样性.生态学报，2003，23（6)：1037-1047.  
+[5] 马建章，程鲲．自然保护区生态旅游对野生动物的影响.生态学报，2008，28(6)：2818-2827.  
+[6] 魏孝荣.平武县王朗自然保护区小型兽补遗.四川动物，1988，7(4)：42-42.  
+[7] 李桂垣，张清茂.王朗自然保护区鸟类调查报告.四川动物，1989，8(3)：17-20.  
+[8] 张国修，王再平，钟肇敏，冯云武.王朗自然保护区小型兽类的调查.四川动物，1991，10(2)：41-41.  
+[9] 刘少英，冉江洪，林强，刘世昌，陈佑平，蒋仕伟，赵联军.王朗自然保护区脊椎动物多样性.四川林业科技，2003,2（3）：10-14.  
+[10] BlockWM,ooMHbatelatiossfsdeptiialiaOakooadaloferpeoog99)51-60.  
+[11]Schmid-HesS，icarLCIpactofforestpatcharacterisisoallamalomunities：ultivariteproacholgicalConservation，2001，99(3）：293-305.  
+[12］周文豪，李敏嘉，于宏灿.台湾中部亚热带山地森林地栖脊椎动物的群落结构——兼论拦截篱掉落桶研究法的应用.特有生物研究，2002,4(1):1-11.  
+[13］肖治术，王玉山，张知彬，马勇.都江堰地区小型哺乳动物群落与生境类型关系的初步研究.生物多样性，2002，10（2)：163-169.  
+[14]KishaurtSV,uaiS.istrbutifampanseciesiKureukhatioalark（westeGatsdianelatigrelated habitat changes.Herpetological Journal,2004,14(3）：129-135.  
+［15］王开运.川西亚高山森林群落生态系统过程.成都：四川科学技术出版社，2004.  
+［16］李晟之．小规模：保护区旅游开发的选择——王朗自然保护区对生态旅游的探索.农村经济，2003，（1）：41-43.  
+[17]SemlitshD，deJRolocaliefesrodwadaanasfopadeptilBiology，2003，17(5）：1219-1228.  
+[18] Mazerolle MJ,Desrochers A.Landscaperesistance to frog movements.CanadianJournalof Zoology，2O05,83（3）：455-464.  
+[19]WilsoJDosopaoofatirifecidoalfetangantieodoliHerpetological Review，2004,35(2）：148-150.  
+[20]ComPSraighlidrifecsadpifallraps//HeyerWR,DoellA,cDiaridRHayekLAC,osterSedseasugdMonitoringBiologicalDversity：StandardMethodsforAmphbians.Washington，DC：SmithsonianInstitutionPress，994：109-117.  
+[21］古晓东，梁春平，戴强，李成.一种简便实用的小型陆栖脊椎动物监测方法——围栏陷阱法.四川动物，2009,28(2)：273-275.  
+[22]ParisKortonW，uingamRBcomparsooftechqesforsaplingampbiansinteforestsfSoutEastQsland,Australia.Herpetologica，1999,55(2）：271-283.  
+[23］关永才，庄铭丰，刘俊良.人工林经营对两栖类动物族群及群聚组成之影响.林业研究专讯，2007,14(1)：17-19.  
+[24］谭雪红，魏东,李林英，曹波，赵廷宁，赵方莹.山区公路边坡自然恢复与人工恢复的比较研究.公路，2010，（5）：169-172.  
+[25]李义明.择伐对动物多样性的影响.生态学报，2002，22（12)：2194-2201.  
+[26]CaoYWillasDWiliasE.HowiporantarearespeiesinqaticounitolgndoseidOceanography，1998,43（7）:1403-1409.  
+[27]CaYireeeatit（plytt),4(7): 1841-1842.  
+[28] MaguanAE，HendersonPA.Explainingtheexcesofarespeiesinnaturalspeciesabundancedistriutios.Nature，O,4（93）：714-716.  
+[29]LiYM，WilcoveD'S.Threats to vertebrate species in China and the United States.BioScience,2005,55(2):147-153.

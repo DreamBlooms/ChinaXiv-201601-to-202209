@@ -1,0 +1,95 @@
+临床研究
+
+# 机器人分站式杂交技术治疗冠心病的近期随访
+
+杨 明,高长青,刘帅,吴 扬，肖苍松,王嵘中国人民解放军总医院心血管外科，北京100853
+
+摘要：目的 总结机器人冠状动脉旁路移植与支架植人的杂交手术近期临床结果。方法 2007年1月\~2013年5月,35例患者接受器人冠状动脉旁路移植与支架植人的分站式杂交手术。患者的年龄为 $5 6 . 7 { \scriptstyle \pm 9 . 6 }$ 岁，其中男性32例，女性3例;冠脉双支病变10例，三支病变25例，冠脉病变支数 $2 . 7 { \pm } 0 . 5$ 支。首先完成机器人辅助下内乳动脉游离和非体外循环下、内乳动脉到前降支的吻合，术后2周内行其余病变冠脉的支架植人术，支架植人同期造影检查桥血管的通畅性。术后6个月、1至5年时复查64排CT,明确动脉桥血管和支架的通畅性,随访主要心脏不良事件(MACE)包括心源性死亡、急性心肌梗死和靶病变再次血运重建的发生率。结果 所有患者均顺利接受分站式杂交手术,无并发症发生。平均动脉桥血流量为 $3 6 . 0 { \pm } 2 2 . 5 ~ \mathrm { m L / m i n }$ ,支架植入时动脉桥血管造影检查通畅率为 $100 \%$ 。35例患者共植人49枚支架,植入 $1 . 3 4 { \pm } 0 . 6 \$ 枚,其中23例患者植入支架1枚，11例植入2枚，1例植人3枚。无失访患者，随访时间6\~ $6 2 ( 1 7 . 5 { \pm } 1 1 . 6 )$ 月。术后6个月时桥血管和支架内闭塞各1例，但无临床症状，其余患者桥血管及支架保持通畅，无心绞痛及MACE事件发生。结论 机器人冠状动脉旁路移植联合支架植人的分站式杂交有良好的近期桥血管和支架通畅率,是一种可供选择的治疗多支冠脉病变的微创方案。
+
+关键词：冠心病；杂交技术；微创手术；冠状动脉介入治疗
+
+# Short-term follow-up results of hybrid coronary revascularization by robotic coronary artery bypass grafting and stent implantation
+
+YANG Ming, GAO Changqing, LIU Shuai,WU Yang, XIAO Cangsong,WANG Rong DepartmentofCardiovascular Surgery,General HospitalofPLA,Beijing 1Oo853,China
+
+Abstracts: To assessthe short-term outcomes of staged hybrid coronary revascularization performedusing robotic-assisted off-pump coronary bypass grafting followed bypercutaneous coronary intervention (PCI) in a non-left anteriordescending (LAD)coronaryarterylesion. MethodsFromJanuary2007 to May, 2013,35patients (32 maleand3fmale patients,meanage $5 6 . 7 \pm 9 . 6 \$ years)underwent staged hybrid coronary revascularization.Ten patients had double-vessel and 25 patients had triple-vessel coronary diseases, and the lesions involved an average of $2 . 7 \pm 0 . 5$ coronary vessels. Coronary artery bypass grafting was completed inrobotic-asisted leftinternal thoracic artery(ITA)harvesting andLITA toLADbypas.Coronary angiography or 64-MSCT was performed to evaluate the patency of the ITA and stents at6 months and at1 to 5 years postoperatively.The patients were folowed for major adverse cardiac events (MACE) including cardiac death，acute myocardial infarctionandtargetlesionrevascularization.Results Staged hybridrevascularizationwas completed sucessfully in allte patients withoutcomplications.TheLITAtoLADanastomosis was completed in minimally invasive directcoronary bypass grafting (MIDCAB)or totallyroboticcoronary bypassgrafting onbeating heart (TECAB)with the assistanceofda Vinci Surgical System. The mean artery graft flow was $3 6 . 0 { \pm } 2 2 . 5 ~ \mathrm { m l / m i n } ,$ and the graft had a $1 0 0 \%$ patency before discharge. A total of 49 stents were deployed in 35 patients within 2 weeks after robotic coronary bypass grafting, with a mean of $1 . 3 4 { \pm } 0 . 6 \$ stents per case (1 stent in 23cases,2 stents in 11 cases,and 3 stents in 1 case). The patients were followed up for $1 7 . 5 { \pm } 1 1 . 6 \$ months, and1 patient hadartery graft occlusionand another had in-stent oclusion at6months.Allthe other33 patients had patent LITA-to-LAD anastomosis without angina or MACE. Conclusion Staged hybrid revascularization strategy has acceptable angiographic patency results for both LITA-LAD grafts and PCI interventions.
+
+Key words: coronary disease; hybrid revascularization; minimall invasive surgery; percutaneous coronary intervention
+
+# 微创是心血管外科的发展方向之一，微创级别较高
+
+的机器人辅助微创心脏手术已成为现实。自世界首例机器人、不开胸冠状动脉旁路移植术(CABG)报道以来[],机器人辅助冠状动脉旁路移植术已开展近15年，并取得了良好的应用结果[2-3]。随着支架远期通畅率的不断提高，对于非前降支病变，介入治疗对CABG术提出了强有力挑战。机器人冠状动脉旁路移植联合支架植入的“杂交"术式是微创、全冠状动脉血运重建的研究热点。国内自2007年开始开展机器人心脏手术，此前我们对机器人分站式“杂交"再血管化的临床应用进行了报道[4，但缺乏动脉桥及支架的通畅率等的随访结果。
+
+# 1对象和方法
+
+# 1.1 对象
+
+2007年1月\~2013年5月，解放军总医院心血管外科共完成机器人非体外循环下行冠状动脉旁路移植联合支架置入术35例，其中男32例，女3例;年龄36\~80岁，平均 $5 6 . 7 { \scriptstyle \pm 9 . 6 }$ 岁。所有患者术前均有心绞痛症状，冠状动脉造影显示为双支或3支病变患者。术前冠脉造影由心血管外科、内科介入及麻醉医师共同评估：该组患者均有严重的前降支病变，且前降支病变适合外科手术治疗，同时非前降支病变适合介入治疗，其中双支病变12例 $( 3 4 . 3 \%$ ),3支病变23例 $( 6 5 . 7 \%$ )。所有患者肺功能良好，无胸膜炎和左侧胸腔手术史，血气分析良好。排除巨大室壁瘤和严重肺部病变、不能耐受单肺通气的患者。术前常规双侧胸廓内动脉(ITA)的64层螺旋CT(64-MSCT)检查，排除ITA严重畸形患者
+
+# 1.2 方法
+
+手术方法：全组病人全麻后双腔气管插管，左侧胸部抬高、左上肢半垂位固定。右肺单肺通气后于左侧胸壁打直径为 $0 . 8 \mathrm { c m }$ 的小孔3个，3孔位于腋前线约 $5 \mathrm { c m }$ 处,第3、5和7肋间[5]。达芬奇"器人手术系统(USA)的内窥镜及机械臂分别插入3孔。术者于控制台上控制机械臂骨骼化法游离ITA,向上游离至第1肋间，向下游离至第6肋间。ITA游离完毕后，沿前降支走行方向切开心包，暴露靶血管。根据靶血管情况，行非体外循环下全机器人(TECAB)或侧胸壁小切口下冠状动脉旁路移植术(MIDCAB)。行MIDCAB时，左侧胸壁第四肋间开长度为 $6 \mathrm { c m }$ 的小切口，直视下ITA到靶血管吻合;行TECAB时无需胸壁小切口，全机器下完成ITA和靶血管的吻合(图1)。
+
+![](images/d7f906dfd4f1c5f0b3ba7961ff1cbfee59d2ee791119f57173266c8116637eb1.jpg)  
+图1机器人辅助下冠状动脉动脉旁路移植术 Fig.1Robotic-assisted coronary bypass grafting.A:Totally robotic coronary bypass grafting (TECAB)；B: Minimally invasive direct coronary artery bypass (MIDCAB); C: Incision of TECAB.
+
+# 1.3支架植入
+
+机器人辅助下CABG术后，常规监护及治疗，采用阿司匹林 $1 0 0 \mathrm { m g / d }$ 和硫酸氢氯吡咯雷 $7 5 \mathrm { m g / d }$ 抗凝,待患者胸片、心脏超声、血常规及生化复查均正常后，经桡动脉或股动脉穿刺植入国产药物涂层Firebird或Excel支架。手术成功标准：支架完全覆盖病变,靶血管远端血流TIMI3级，术中无夹层、复流和支架内血栓，术前当日口服负荷量肠溶阿司匹林 $3 0 0 \mathrm { m g }$ 和硫酸氢氯吡格雷 $3 0 0 ~ \mathrm { { m g } }$ ,术后常规予低分子肝素皮下注射 $2 { \sim } 3 \ \mathrm { d } _ { \circ }$ 支架置入术中检查前降支桥血管的通畅情况。术后常规阿司匹林联合硫酸氢氯吡咯雷各双联抗凝。
+
+# 1.4随访及统计学方法
+
+术后6个月、1\~5年时复查64排CT,明确动脉桥血管和支架的通畅率。桥血管通畅率评价指标参照改良Fitzgibbon标准分级：
+
+A级，桥血管通畅，无狭窄或狭窄直径 ${ < } 5 0 \%$ ;B级，血管狭窄直径大于 $70 \%$ ;C级，血管完全闭塞。支架通常情况采用相同的评价方法，分为通畅，支架内狭窄和闭塞。统计采用SPSS13.0统计学软件进行分析， $P <$ 0.05为差异有统计学意义。
+
+# 2结果
+
+# 2.1手术结果
+
+35例患者全部按计划成功接受分站式杂交手术，无围术期心肌梗塞等并发症。机器人辅助下冠状动脉旁路移植术中，TECAB18例，MIDCAB17例，均为ITA到前降支吻合，桥血流 $3 6 . 0 { \pm } 2 2 . 5 ~ \mathrm { m L / m i n }$ ,术后第1天引流量 $1 1 0 { \pm } 3 6 . 7 ~ \mathrm { m L }$ ,无需输血，平均ICU时间为 $3 4 . 0 \pm$ $1 5 . 7 \mathrm { h } .$ ，术后恢复顺利，无肺部相关并发症和切口愈合不良。外科手术至支架植入时间为 $1 1 . 8 { \pm } 7 . 2 \mathrm { d } , 1$ 例患者于术后第8天突发心绞痛症状，药物治疗未能控制而急诊右冠植入支架1枚后缓解，无心肌梗塞发生。35例患者共植入支架49枚，13例患者于回旋或顿缘支植入，18例患者于右冠植人，4例患者于回旋支和右冠均植入，植人支架 $1 . 3 4 { \pm } 0 . 6 \$ 枚，其中23例患者植入支架1枚，11例植入2枚，1例植入3枚。支架植入时动脉桥血管造影检查通畅率为 $100 \%$ （图2）。
+
+# 2.2随访结果
+
+术后35例患者接受了不同时段的随访，随访时间$6 { \sim } 6 2 ( 1 7 . 5 { \pm } 1 1 . 6 )$ 月。术后6个月时，34例 $( 9 7 . 1 \%$ 患者接受随访，桥血管和支架内闭塞各1例,但无心绞痛等症状。术后1年接受随访的患者25例，术后3年的患者16例(随访人数的 $4 5 . 7 \%$ ),5例术后5年(随访人数的$1 4 . 3 \%$ ),桥血管及支架均保持通畅，无心绞痛、心肌梗塞、心源性休克及再血管化治疗等MACE事件发生。
+
+![](images/23204f9f4b8aa45bf8412a1017ae32e570139568ade0f251f3dec0ba3755e6ab.jpg)  
+图2分站式杂交手术支架植入及桥血管造影  
+Fig.2PCI and graft angiography in staged hybrid revascularization strategy.A:A severe narrowing of the anterior descending artery;B:Angiography showing acceptable angiographic patency of the LIMA; C: A severe narrowing of the right coronary artery; D: The right coronary artery after PCI.
+
+# 3讨论
+
+近20年，微创术式在冠状动脉旁路移植术中得到了广泛的应用，诸如不停跳、微创小切口、腔镜或机器人辅助下冠状动脉旁路移植术。介人治疗是继内科药物治疗后治疗冠心病的主要方法之一，随着药物洗脱支架远期通畅率的不断提高，介入治疗对外科手术提出了强有力挑战。ITA和大隐静脉是最常用的搭桥材料，有报道指出搭桥术后静脉桥1年的通畅率为 $5 0 \% { \sim } 7 5 \% ^ { [ 8 ] }$ ( ○虽然面临介入治疗的挑战，大量的研究证实，ITA到前降支搭桥的远期通畅率优于支架植入术。正是基于外科手术和内科介入在冠状动脉血运重建方面各自的优势和局限性，融合内外科血运重建的"杂交"手术应运而生。杂交再血管化的概念由英国学者Angelini于1996年提出：多支病变的冠心病患者先接受非前降支支架植入，然后利用微创切口行非体外下ITA到前降支的旁路移植;采取左侧胸壁第4肋间切口直视下游离ITA，由于上述方法ITA游离困难和术后疼痛问题，此种杂交式手术此后并没有得到广泛的开展，
+
+机器人非体外循环下冠状动脉旁路移植术的出现避免了胸骨切开和体外循环的并发症，以最小创伤治疗多支血管病变的愿望，使得机器人搭桥联合支架植入式的杂交手术成为热点[410]。本组病例利用机器人微创游离ITA，在心脏跳动下吻合于前降支，然后对右冠或回旋支的局限性病变行支架植入达到尽可能完全再血管化。从本组病例的完成情况看，该方法安全可行，未见围术期并发症，术前多学科明确冠脉病变极为关键。
+
+机器人辅助下冠状动脉旁路移植术无需胸部切口即可游离ITA，游离长度不受切口限制，克服学习曲线后可轻松全程游离单侧或双侧ITA，并实现全机器人下CABG。机器人搭桥术后动脉桥血管通畅率是决定杂交手术成败的关键因素之一。目前的研究表明，机器人ITA游离对桥血管的组织结构及功能无不良影响[]此前，我们对200例机器人ITA游离和动脉桥血管的中期通畅率进行了随访研究[3,12],特别是对TECAB的桥血管通畅率已作出较为详细的近期随访["，未见ITA动脉桥本身的狭窄。同正中开胸相比，不同类型的机器人下冠脉搭桥手术均可显著的缩短术后恢复时间、并发症发生率低并具有更好的术后生活质量[13-14]。本组的35例患者依据前降支靶血管的条件行TECAB或MIDCAB,两组动脉桥血流量及术后恢复无明显差别，无肺部相关并发症和切口愈合不良，有良好的远期通畅率。
+
+杂交手术可分为一站式和分站式两种。一站式杂交手术对手术室设备要求苛刻，分站式杂交更符合国内现有的医疗条件。在外科手术和介入时间的顺序上，各医学中心有所不同。本研究中所有病例均采用先机器人下冠状动脉旁路移植后再行介入治疗，这种选择有其益处：前降支首先获得再血管化，对后期介入治疗起到保障作用，介入治疗安全性提高；术后抗凝治疗可为介入提供良好的基础，也可在支架植入同期行乳内动脉造影评估桥血管全程及吻合口的通畅情况。若先行支架植入术，介入过程中前壁心肌血供得不到保障，介入治疗的风险加大，同时外科手术前需停用抗凝药，术中鱼精蛋白的应用也加大了支架内狭窄的风险，也失掉了介入同时检查桥血管通畅率的机会。
+
+Vassiliades等[15]对杂交手术和非体外循环冠状动脉旁路移植术进行了比较，结果显示在3年内，杂交手术的死亡率、中风、非致死性心肌梗死等方面同常规手术没有区别。Kon等[1的研究也表明,杂交术式可安全的完成，术后并发症发病率较低，3个月后桥血管通畅率为 $9 6 . 3 \%$ 。本研究的临床随访结果也显示杂交手术有着良好的桥血管及支架近期通畅率。需要指出的是，尽管多项研究已证实了杂交手术治疗冠状动脉多支病变的有效性和安全性，在制定杂交手术指征上，有必要通过长期的临床随访结果来明确[。同常规开胸冠状动脉旁路移植术相比，杂交手术具有手术过程复杂、费用高昂的缺点。
+
+结果表明，机器人辅助旁路移植联合支架置入的分站式杂交手术是有效的治疗冠心病多支病变的可供选择方案之一，桥血管及支架均有良好的远期通畅率。本研究的局限性在于：该组病例选择性高、病例数较少，大宗病例和长期的临床结果对比有待于进一步完善。杂交和常规搭桥术后桥血管通畅率的对比随访正在进行中。
+
+# 参考文献：
+
+[1]Loulmet D,Carpentier A,d'attellis N,et al. Endoscopic coronary artery bypass grafting with the aid of robotic assisted instruments [J].Thorac Cardiovasc Surg,1999,118(1): 4-10.
+
+[2」高长青,吴扬,杨 明,寺.机器人微创非体外循坏冠状动脉旁路移植 术[J].中华外科杂志,2011,49(10):923-6.   
+[3］杨 明,高长青,吴 扬,等.机器人胸廓内动脉游离后动脉桥血管中期 通畅率随访[J].中华医学杂志,2013,93(6):428-31.   
+[4]高长青,杨 明,吴 扬,等.机器人非体外循环冠状动脉旁路移植与支 架置入"杂交"手术治疗多支冠脉病变[J].中华胸心血管外科杂志, 2011,27(7): 398-400.   
+[5]杨 明,高长青,王 刚,等.400例机器人微创心脏手术入路[J].中华胸 心血管外科杂志,2011,27(7):387-9.   
+[6]高长青,杨 明,王 刚,等.全机器人胸廓内动脉游离非体外循环冠状 动脉旁路移植术[J].中华外科杂志,2007,45(20):1414-6.   
+[7] Adams C,Burns DJ, Chu MW,et al. Single-stage hybrid coronary revascularization with long-term follow-up[J].Eur J Cardiothorac Surg,2014,45(3): 438-42.   
+[8]Magee MJ,Alexander JH, Hafley G,et al. Coronary artery bypass graft failure after on-pump and off-pump coronary artery bypass: findings from PREVENT IV[J].Ann Thorac Surg,2008,85(2): 494-9.   
+[9]Angelini GD,Wilde P, Salerno TA,et al. Integrated left small thorocotomyand angioplastyfor multivessel coronaryartery revascularization[J].Lancet,1996,347(9003): 757-8.   
+[10] Gao C, Yang M, Wu Y, et al. Hybrid coronary revascularization by endoscopic robotic coronary artery bypass grafting on beating heart and stent placement[J].Ann Thorac Surg,2009,87(3): 737-41.   
+[11]高长青,杨 明,王 刚,等.全机器人胸廓内动脉游离非体外循环冠状 动脉旁路移植术[J].中华外科杂志,2007,45(20):1414-6.   
+[12] Yang M,Gao CQ，Wu Y,et al.Robotic internal thoracic artery harvesting: the learning curve and graft patency[J]. Chin Med J, 2013,126(10): 1982-3.   
+[13] Srivastava S,Gadasalli S,Agusala MA,et al. Beating heart totally endoscopic coronary artery bypass[J]. Ann Thorac Surg,2010,89 (6): 1873-80.   
+[14] Bonaros N, Schachner T,Wiedemann D,et al. Quality of Life improvement after roboticallyassisted coronary artery bypass grafting[J]. Cardiology,2009,114(1): 59-66.   
+[15]Vassiliades TA,Kilgo PD,Douglas JS,et al. Clinical outcomes after hybrid coronary revascularization versus of-pump coronary artery bypass:a prospective evaluation [J].Innovations (Phila), 2009,4(6): 299-306.   
+[16]Kon ZN,Brown EN,Tran R,et al. Simultaneous hybrid coronary revascularization reduces postoperative morbidity compared with results from conventional off-pump coronary artery bypass [J]. Thorac Cardiovasc Surg,2008,135(2): 367-75.   
+[17]Bonati J，LehrE，Vesely MR，etal.Hybrid coronary revascularization:which patientsWhen How [J].Curr Opin Cardiol,2010,25(6): 568-74.
+
+(编辑：孙昌朋)

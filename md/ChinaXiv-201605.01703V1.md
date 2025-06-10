@@ -1,0 +1,303 @@
+# Higgs boson mass in NMSSM with right-handed neutrino
+
+Wenyu Wang $^ { 1 }$ ， Jin Min Yang $^ 2$ ， Lin Lin You1 （20 $^ { 1 }$ Institute of Theoretical Physics, Collge of Applied Science, Beijing University of Technology， Beijing 100124， China （204 $^ 2$ State Key Laboratory of Theoretical Physics, nstitute of Theoretical Physics， Academia Sinica, Beijing 100190, China
+
+# Abstract
+
+In order to have massive neutrinos, the right-handed neutrino/sneutrino superfield ( $N$ ）need to be introduced in supersymmetry. In the framework of NMSSM (the MSSM with a singlet $S$ ）such an extension will dynamically lead to a TeV-scale Majorana mass for the right-handed neutrino through the $S N N$ coupling when $S$ develops a vev (the free Majorana mass term is forbidden by the assumed $Z _ { 3 }$ symmetry). Also, through the couplings $S N N$ and $S H _ { u } H _ { d }$ , the SM-like Higgs boson (a mixture of $H _ { u }$ ， $H _ { d }$ and $S$ ） can naturally couple with the right-handed neutrino/sneutrino. As a result, the TeV-scale right-handed neutrino/sneutrino may significantly contribute to the Higgs boson mass. Through an explicit calculation，we find that the Higgs boson mass can indeed be sizably altered by the right-handed neutrino/sneutrino. Such new contribution can help to push up the SM-like Higgs boson mass and thus make the NMSSM more natural.
+
+PACS numbers: 12.60.Jv,11.30.Qc,12.60.Fr,14.80.Cp
+
+# I. INTRODUCTION
+
+Supersymmetry (SUSY) [1, 2] gives a natural solution to the hierarchy problem suffered by the Standard Model (SM). Also, it provides a good dark matter candidate and realizes the gauge coupling unification. Among the SUSY models, the Minimal Supersymmetric Standard Model (MSSM) [3] has been intensively studied. However, the recently discovered Higgs-like boson around 125 GeV caused a problem for this model, i.e., a 125 GeV Higgs boson requires a heavy stop or a large tri-linear coupling $A _ { t }$ and thus incurs the little hierarchy problem. Besides, the MSSM suffers from the $\mu$ -problem [4].
+
+It is remarkable that both the little hierarchy problem and the $\mu$ -problem can be solved in the Next-to-Minimal Supersymmetric Standard Model (NMSSM) [5] in which an additional gauge singlet $S$ is introduced (in fact， the NMSSM was proposed even earlier than the MSSM [6]). In this model the $\mu$ -problem is solved by the dynamical generation of the $\mu$ term through the coupling $S H _ { u } H _ { d }$ when $S$ develops a vev,while the little hierarchy problem is solved by the generation of an extra tree-level mass term for the SM-like Higgs boson (thus the stop mass or $A _ { t }$ is no longer required to be unnaturally large).
+
+Note that in order to have massive neutrinos, right-handed neutrino/sneutrino superfield(s) ( $N$ ) need to be introduced in SUSY models. For the NMSSM with such right-handed neutrino/sneutrino field(s) [7], some intriguing features are present. Due to the assumed $Z _ { 3 }$ symmetry, the free Majorana mass term for the right-handed neutrino is forbidden in the superpotential. Instead, a TeV-scale Majorana mass for the right-handed neutrino is dynamically generated through the $S N N$ coupling when $S$ develops a vev (note that such a TeV-scale majorana mass is too low for the see-saw mechanism and thus the neutrino Yukawa couplings $H _ { u } L N$ must be very small). In the same way, a TeV-scale mass for the right-handed sneutrino can also be generated, which can serve as a good dark matter candidate [9]. Further, through the couplings $S N N$ and $S H _ { u } H _ { d }$ , the SM-like Higgs boson (a mixture of $H _ { u }$ ， $H _ { d }$ and $S$ ） can naturally couple with the right-handed neutrino/sneutrino. As a result, the TeV-scale right-handed neutrino/sneutrino may significantly contribute to the Higgs boson mass (in the MSSM with split SUSY, the right-handed neutrino/sneutrino can also make sizable contribution to the Higgs mass,as studied in [10]). In this paper we will perform an explicit calculation for such contribution.
+
+This work is organized as follows. In Sec. II we present the spectrum and couplings for the Higgs boson and right-handed neutrino/sneutrino. In Sec. III the renormalization scheme is described. Numerical results and discussions are given in Sec. IV. Finall， we give a summary in Sec.V.
+
+# II. HIGGS AND RIGHT-HANDED NEUTRINO/SNEUTRINO IN NMSSM
+
+A. Model description
+
+The NMSSM with a right-handed neutrino superfield $N$ has a superpotential given by
+
+$$
+\begin{array} { r l } & { W = W _ { \mathrm { N M S S M } } + \lambda _ { N } S N N + y _ { N } H _ { u } \cdot L N , } \\ & { W _ { \mathrm { N M S S M } } = Y _ { u } H _ { u } \cdot Q u _ { R } - Y _ { d } H _ { d } \cdot Q d _ { R } - Y _ { e } H _ { d } \cdot L e _ { R } + \lambda S H _ { u } \cdot H _ { d } + \frac { 1 } { 3 } \kappa S ^ { 3 } , } \end{array}
+$$
+
+where the flavor indices are omitted and the dot denotes the $S U ( 2 ) _ { L }$ antisymmetric product. Since a global $Z _ { 3 }$ symmetry is imposed, there are no supersymmetric mass terms (like $H _ { u } H _ { d }$ ， $N N$ or $S S$ ) in the superpotential. Note that in this model we impose R-parity and thus the terms $N N N$ and $S S N$ are forbidden. As a result, the sneutrino-Higgs mixing is avoided and also there is no vev for the right-handed sneutrino (we will show how to get the globle minimum in the following). Although a bare Majorana mass term $N N$ is forbidden in the superpotential, a TeV-scale Majorana mass can be generated through the coupling $S N N$ （20 when $S$ develops a non-zero vev ( $v _ { s }$ ). Such a TeV-scale Majorana mass is too small for the conventional see-saw mechanism and thus the Yukawa coupling $y _ { N } H _ { u } L N$ should be very small ( $y _ { N } \ll 1$ ). Note that here we introduce only one right-handed neutrino superfield to illustrate its effects on the Higgs mass. In order to explain the neutrino masses and mixings, more right-handed neutrino superfields need to be introduced, each of which wil contribute to the Higgs mass. In this case, the calculation method is same as in our calculation,but the total effects may be more sizable due to more free parameters.
+
+The soft SUSY breaking terms for Higgs and right-handed sneutrino are given by (hereafter we use $N$ and $\tilde { N }$ to denote respectively right-handed neutrino and sneutrino)
+
+$$
+\begin{array} { l } { { - \mathcal { L } _ { \mathrm { s o f t } } =  M _ { H _ { u } } ^ { 2 } \vert H _ { u } \vert ^ { 2 } + M _ { H _ { d } } ^ { 2 } \vert H _ { d } \vert ^ { 2 } +  M _ { s } ^ { 2 } \vert S \vert ^ { 2 } + ( \lambda A _ { \lambda } H _ { u } \cdot H _ { d } S + \frac { \kappa } { 3 } A _ { \kappa } S ^ { 3 } + h . c . )  } } \\ { {  \qquad + M _ { \tilde { N } } ^ { 2 } \vert \tilde { N } \vert ^ { 2 } + ( \lambda _ { N } A _ { N } S \tilde { N } \tilde { N } + h . c . )  } } \end{array}
+$$
+
+Here we neglected the mixing between left-handed and right-handed sneutrinos because the
+
+mixing is assumed to be suppressed by $y _ { N }$ . In the following we briefly discuss the neutral Higgs neutrino sectors.
+
+# B. The neutral Higgs sector
+
+From Eq. (1) and Eq. (2) we get the Higgs potential
+
+$$
+\begin{array} { l } { { V = \lambda ^ { 2 } ( | H _ { u } | ^ { 2 } | S | ^ { 2 } + | H _ { d } | ^ { 2 } | S | ^ { 2 } + | H _ { u } \cdot H _ { d } | ^ { 2 } ) + \kappa ^ { 2 } | S ^ { 2 } | ^ { 2 } } } \\ { { \ \quad \ + \lambda \kappa ( H _ { u } \cdot H _ { d } S ^ { * } S ^ { * } + \mathrm { h . c . } ) + \displaystyle \frac { 1 } { 4 } g ^ { 2 } ( | H _ { u } | ^ { 2 } - | H _ { d } | ^ { 2 } ) ^ { 2 } } } \\ { { \ \quad \ + \displaystyle \frac { 1 } { 2 } g _ { 2 } ^ { 2 } | H _ { u } ^ { + } ( H _ { d } ^ { 0 } ) ^ { * } + H _ { u } ^ { 0 } ( H _ { d } ^ { - } ) ^ { * } | ^ { 2 } + { \cal M } _ { H _ { u } } ^ { 2 } | H _ { u } | ^ { 2 } + { \cal M } _ { H _ { d } } ^ { 2 } | H _ { d } | ^ { 2 } + { \cal M } _ { S } ^ { 2 } | S | ^ { 2 } } } \\ { { \ \quad \ \mathrm { } } } \\ { { \ \quad \displaystyle + ( \lambda A _ { \lambda } H _ { u } \cdot H _ { d } S + \displaystyle \frac { 1 } { 3 } \kappa A _ { \kappa } \ S ^ { 3 } + \mathrm { h . c . } ) } } \end{array}
+$$
+
+where $g ^ { 2 } = ( g _ { 1 } ^ { 2 } + g _ { 2 } ^ { 2 } ) / 2$ with $g _ { 1 }$ and $g _ { 2 }$ being the SM gauge coupling constants. Assuming $H _ { u }$ ， $H _ { d }$ and $S$ get vevs such that
+
+$$
+= v _ { u } + \frac { \mathrm { R e } ( H _ { R } ^ { 0 } ) + i \mathrm { I m } ( H _ { u } ^ { 0 } ) } { \sqrt { 2 } } , \quad H _ { d } ^ { 0 } = v _ { d } + \frac { \mathrm { R e } ( H _ { d } ^ { 0 } ) + i \mathrm { I m } ( H _ { d } ^ { 0 } ) } { \sqrt { 2 } } , \quad S = v _ { s } + \frac { S _ { R } + S _ { \mathrm { R e } } } { \sqrt { 2 } } ,
+$$
+
+we can get the mass terms for the Higgs felds, which are presented in [11]. Here we only show the conventions and give some brief comments:
+
+1. The mass matrix for the CP-even neutral Higgs is obtained from the real components of the Higgs fields. In the basis $h ^ { b a r e } = [ \mathrm { R e } ( H _ { u } ^ { 0 } ) , \mathrm { R e } ( H _ { d } ^ { 0 } ) , S _ { R } ]$ and using the minimization equations to eliminate the soft masses, one obtains three CP-even states (ordered in mass)
+
+$$
+h _ { i } = S _ { i j } h _ { j } ^ { b a r e }
+$$
+
+with an orthogonal rotation $S _ { i j }$
+
+2. The mass matrix for the CP-odd neutral Higgs is obtained form the imaginary components of the Higgs fields $[ \mathrm { I m } ( H _ { u } ^ { \cup } ) , \mathrm { I m } ( H _ { d } ^ { \cup } ) , S _ { I } ]$ . Its diagonalization is performed in two steps. First,one rotates it into a basis $( A , S _ { I } , G )$ where $G = - \sin \beta \mathrm { I m } ( H _ { u } ^ { \cup } ) +$ （ $\mathrm { { ; o s } } \beta \mathrm { { I m } } ( H _ { d } ^ { 0 } )$ is a massless Goldstone mode ( $\tan \beta = v _ { u } / v _ { d }$ is the ratio of the vevs of the two Higgs doublets). Dropping the Goldstone mode, the remaining $2 \times 2$ mass matrix $M _ { p } ^ { 2 }$ in the basis $( A , S _ { I } )$ can be diagonalized by an orthogonal $2 \times 2$ matrix $P _ { i j }$ into two physical CP-odd states $a _ { i }$ (ordered in mass):
+
+$$
+\begin{array} { r } { a _ { 1 } = P _ { 1 1 } A + P _ { 1 2 } S _ { I } , } \\ { \phantom { a _ { 2 } = } a _ { 2 } = P _ { 2 1 } A + P _ { 2 2 } S _ { I } . } \end{array}
+$$
+
+3. The neutralino mass matrix $\mathcal { M } _ { N }$ in the basis $\psi ^ { 0 } = \left( - i \lambda _ { 1 } , - i \lambda _ { 2 } , \psi _ { u } ^ { 0 } , \psi _ { d } ^ { 0 } , \psi _ { s } \right)$ can be diagonalized by an rotation matrix $N _ { i j }$ . Then one obtains five eigenstates (ordered in mass) $\chi _ { i } ^ { 0 } = N _ { i j } \psi _ { j } ^ { 0 }$
+
+# C. Right-handed neutrino/sneutrino sector
+
+Since there is no Dirac mass term here, the mass spectrum of the right-handed neutrino sector is very simple. Denoting $\tilde { N } = R + i M$ ， there are only one CP-even right-handed sneutrino (denoted as $R$ ） and one CP-odd right-handed sneutrino (denoted as $M$ ). The right-handed neutrino is denoted as $N$ . From Eq. (1) and Eq. (2) we can get the spectrum as
+
+$$
+\begin{array} { l } { { m _ { R } ^ { 2 } = 4 \lambda _ { N } ^ { 2 } v _ { s } ^ { 2 } + M _ { \tilde { N } } ^ { 2 } + 2 \lambda _ { N } v _ { s } A _ { N } + 2 \lambda _ { N } \big ( \kappa v _ { s } ^ { 2 } - \lambda v _ { u } v _ { d } \big ) } } \\ { { m _ { M } ^ { 2 } = 4 \lambda _ { N } ^ { 2 } v _ { s } ^ { 2 } + M _ { \tilde { N } } ^ { 2 } - 2 \lambda _ { N } v _ { s } A _ { N } - 2 \lambda _ { N } \big ( \kappa v _ { s } ^ { 2 } - \lambda v _ { u } v _ { d } \big ) } } \\ { { m _ { N } = 2 \lambda _ { N } v _ { s } . } } \end{array}
+$$
+
+With the above spectrum we can get the couplings between the Higgs and the right-handed neutrino/sneutrino. Note that in our numerical study we require $M _ { R } ^ { 2 }$ and $M _ { M } ^ { 2 }$ be positive, and,as a result, the global minimum of the scalar potential locates at the zero point of the right-handed sneutrino field (the right-handed sneutrino has no vev and thus R-parity is preserved). In the following we list the couplings which willbe used in our later calculations:
+
+$$
+\begin{array} { r l } & { \hat { V } _ { k , k , R } ^ { \ast } = \sqrt { 2 } \lambda _ { N } \lambda _ { 1 } \hat { V } _ { \alpha } S _ { 2 } + \mu _ { \alpha } \hat { S } _ { 1 1 } - \sqrt { 2 } \left( 2 \lambda _ { N } \alpha { R } _ { N } + \lambda _ { N } ^ { 2 } { \nu } _ { \alpha } + \lambda _ { N } ^ { 2 } { \nu } _ { \alpha } + \lambda _ { N } ^ { 2 } { \nu } _ { \alpha } \right. } \\ & { \left. - \sqrt { 2 } \lambda _ { N } \lambda _ { 1 } ( \alpha { R } _ { N } ^ { \ast } S _ { 2 } + \alpha { R } _ { \alpha } \lambda _ { 1 } ) - \sqrt { 2 } \left( 2 \lambda _ { N } \alpha { R } _ { N } - 4 \lambda _ { N } ^ { 2 } { \nu } _ { \alpha } + \lambda _ { N } ^ { 2 } { \nu } _ { \alpha } + \lambda _ { N } ^ { 2 } { \nu } _ { \alpha } \right. \right. } \\ & { \left. \left. \hat { V } _ { k , \alpha } \lambda _ { N } ^ { \ast } H _ { \alpha } H _ { \alpha } = - \lambda _ { N } ^ { 2 } { \nu } _ { \alpha } S _ { 3 } { \alpha } - \lambda ( S _ { 2 } ) { S } _ { 4 2 } + \lambda _ { N } ^ { 2 } { \nu } _ { \alpha } \right) - 4 \lambda _ { N } ^ { 2 } { S } _ { 3 3 } { S } _ { 4 3 } , } \\ & { \hat { V } _ { k , \alpha } \lambda _ { 1 } { \lambda } ^ { \ast } = \lambda _ { N } \left[ 2 { S } _ { 2 } { S } _ { 3 } { S } _ { 3 } - \lambda ( S _ { 1 } { S } _ { 2 } + { S } _ { 1 } { S } _ { 2 } ) - 4 \lambda _ { N } ^ { 2 } { S } _ { 3 } { S } _ { 4 2 } \right. \right. } \\ & { \left. \left. \hat { V } _ { k , \alpha } \lambda _ { 1 } ^ { \ast } - 2 \lambda _ { N } ( - \lambda _ { N } ^ { \ast } S _ { 2 } ) { S } _ { 3 } { S } _ { 4 3 } \right] \lambda _ { 1 } ^ { \ast } \widetilde { V } _ { 2 } ^ { \ast } + \sqrt { 2 } \alpha { S } _ { 2 } { F } _ { 1 } \right) + \sqrt { 2 } \lambda _ { N } ^ { 2 } { S } _ { 3 } { S } _ { 4 3 } { F } _ { 2 } , } \\ &  \hat { V } _ { k , \alpha } F _ { k , \alpha } = 2 \lambda _ { N } ( \lambda _ { N } ) \left( \lambda _ { N } ^ { \ast } \otimes \lambda _ { N } ^ { \ast } { F } _ { 2 } + \lambda _ { N } ^ { 2 } { F } _ { 3 } \right) - \sqrt { 2 } \alpha { S } _ { 2 }  \end{array}
+$$
+
+# III. RENORMALIZATIONSCHEME
+
+To calculate the neutrino/sneutrino contribution to the Higgs mass, we must calculate the one-loop Higgs propagator and choose a renormalization scheme. Here we follow [12] and choose the mixed renormalization scheme (other schemes give similar results). We choose the following parameter set
+
+$$
+\begin{array} { r } { M _ { Z } , ~ M _ { W } , ~ M _ { H ^ { \pm } } , ~ e , ~ \underbrace { t _ { H _ { u } } , ~ t _ { H _ { d } } , ~ t _ { H _ { s } } } _ { \mathrm { o n - s h e l l ~ s c h e m e } } \underbrace { \tan \beta , ~ \lambda , ~ v _ { s } , ~ \kappa , ~ A _ { \kappa } } _ { \mathrm { D R ~ s c h e m e } } , } \end{array}
+$$
+
+where $t _ { H _ { u } } , t _ { H _ { d } } , t _ { H _ { s } }$ are the tadpoles of the CP-even Higgs fields. Since we concentrate on the right-handed nuetrino/sneutrino contributions, the input parameters from the gauge interaction part need not be renormalized. For the parameters which need renormalization, we replace them by the renormalized ones plus the corresponding counterterms:
+
+$$
+\begin{array} { r l } & { t _ { H _ { u } } \to t _ { H _ { u } } + \delta t _ { H _ { u } } , \quad \tan \beta \to \tan \beta + \delta \tan \beta } \\ & { t _ { H _ { d } } \to t _ { H _ { d } } + \delta t _ { H _ { d } } , \quad \lambda \to \lambda + \delta \lambda } \\ & { t _ { H _ { s } } \to t _ { H _ { s } } + \delta t _ { H _ { s } } , \quad \kappa \to \kappa + \delta \kappa } \\ & { v _ { s } \to v _ { s } + \delta v _ { s } , \qquad A _ { \kappa } \to A _ { \kappa } + \delta A _ { \kappa } \ . } \end{array}
+$$
+
+In the following we will show how to determine the counter terms in the mixed renormalization scheme.
+
+$$
+\begin{array}{c} \begin{array} { c } { \cdots \bigcup _ { \bar { h } _ { i } } = \underbrace { e ^ { - \bar { h } _ { i } \cdot M } } _ { \bar { h } _ { i } } , \qquad \underbrace { e ^ { - \bar { h } _ { i } \cdot M } } _ { \begin{array} { c } { { \scriptstyle h _ { i } } } \\ { { \scriptstyle h _ { i } } } \end{array} } , } \\ { + \underbrace { e ^ { - \bar { h } _ { i } } } _ { \begin{array} { c } { { \scriptstyle h _ { i } } } \\ { { \scriptstyle h _ { i } } } \end{array} } , } \end{array}  \end{array}
+$$
+
+First, the Higgs doublet and singlet fields are replaced by the renormalized ones:
+
+$$
+\begin{array} { r l } { { H _ { u } \to \sqrt { \textstyle { Z _ { H } } } H _ { u } = \left( 1 + \frac { 1 } { 2 } \delta Z _ { H _ { u } } \right) H _ { u } } } & { { } } \\ { { } } & { { { } } } \\ { { H _ { d } \to \sqrt { \textstyle { Z _ { H _ { d } } } } H _ { d } = \left( 1 + \frac { 1 } { 2 } \delta Z _ { H _ { d } } \right) H _ { d } } } & { { } } \\ { { } } & { { { } } } \\ { { S \to \sqrt { \textstyle { Z _ { S } } } S = \left( 1 + \frac { 1 } { 2 } \delta Z _ { S } \right) S . } } & { { } } \end{array}
+$$
+
+Then the renormalized two-point functions can be obtained from the Feynman diagrams shown in Fig. 1
+
+$$
+\begin{array} { l l } { { \hat { \Sigma } _ { H _ { i } H _ { j } } ( k ^ { 2 } ) = S _ { i k } S _ { j l } \hat { \Sigma } _ { k l } ^ { S } ( k ^ { 2 } ) ~ } } & { { ( i , j , k , l = 1 , 2 , 3 ) , } } \\ { { \hat { \Sigma } _ { A _ { i } A _ { j } } ( k ^ { 2 } ) = P _ { i k } P _ { j l } \hat { \Sigma } _ { k l } ^ { P } ( k ^ { 2 } ) ~ } } & { { ( i , j , k , l = 1 , 2 ) , } } \end{array}
+$$
+
+where $S _ { i j }$ and $P _ { i j }$ are the matrix elements defined in Eqs.(5) and (6). The renormalization condition can be set as
+
+$$
+\delta Z _ { H _ { i } H _ { i } } = - \left. \frac { \partial \Sigma _ { H _ { i } H _ { i } } ( k ^ { 2 } ) } { \partial k ^ { 2 } } \right| _ { k ^ { 2 } = ( M _ { H _ { i } } ^ { ( 0 ) } ) ^ { 2 } } ^ { \mathrm { d i v } } \qquad ( i = 1 , 2 , 3 ) ,
+$$
+
+where $M _ { H _ { i } } ^ { ( 0 ) }$ denotes the corresponding tree-level Higgs mass,and 'div' shows that we chose the $\overline { { \mathrm { D R } } }$ renormalization scheme which means that in the field renormalization only the divergent part $\Delta = 2 / ( 4 - D ) - \gamma _ { E } + \ln ( 4 \pi )$ ( $\gamma _ { E }$ is the Euler constant） is kept.The field renormalization constants $\delta Z _ { H _ { d } } , \delta Z _ { H _ { d } } , \delta Z _ { S }$ are obtained by solving the equations
+
+$$
+\delta Z _ { H _ { i } H _ { i } } = | S _ { i 1 } | ^ { 2 } \delta Z _ { H _ { d } } + | S _ { i 2 } | ^ { 2 } \delta Z _ { H _ { u } } + | S _ { i 3 } | ^ { 2 } \delta Z _ { S } \qquad ( i = 1 , 2 , 3 ) \ .
+$$
+
+We use the feld renormalization constants to determine the conterterms listed in Eq. (18). The detailed calculations are lengthy. In the following we only present the final results and give some necessary comments.
+
+1. Tadpole parameters:
+
+The tadpole parameters are determined by the condition that they vanish after the renormalization. The Feynman diagrams are shown in Fig. 2 and the counter terms are determined by
+
+$$
+\delta t _ { H _ { i } } = S _ { j i } t _ { h _ { j } } ^ { ( 1 ) } ( i = u , d , s , j = 1 , 2 , 3 ) .
+$$
+
+where thi t(1) denote the one-loop Higgs tadpoles.
+
+![](images/c75b0e3ce02e1ec5416949633dbbb5ec8972ef804c3ce64b3ea27f7f4e1651b2.jpg)  
+FIG. 2: Feynman diagram for the Higgs tadpoles.
+
+2. The parameter $\tan \beta$
+
+$$
+\delta \tan \beta = \left[ { \frac { \tan \beta } { 2 } } ( \delta Z _ { H _ { u } } - \delta Z _ { H _ { d } } ) \right] _ { \mathrm { d i v } } .
+$$
+
+3.The coupling $\lambda$
+
+$$
+\delta \lambda = { \frac { e ^ { 2 } } { 4 \lambda M _ { W } ^ { 2 } s _ { W } ^ { 2 } } } \Bigl [ \Sigma _ { P , 1 1 } ( M _ { P , 1 1 } ^ { 2 } ) \Bigr ] _ { \mathrm { d i v } } ~ .
+$$
+
+The self-energy $\Sigma _ { P , 1 1 }$ is obtained from the self-energies in the mass eigenstate basis $\Sigma _ { A _ { i } A _ { j } } \ ( i , j = 1 , 2 , 3 )$ through
+
+$$
+\Sigma _ { P , 1 1 } = P _ { i 1 } \Sigma _ { A _ { i } A _ { j } } P _ { j 1 } \quad .
+$$
+
+4. The singlet Higgs vev $v _ { s }$
+
+$$
+\delta v _ { s } = \left. - v _ { s } \frac { \delta \lambda } { \lambda } \right| _ { \mathrm { d i v } } \ ,
+$$
+
+5. The coupling $\kappa$
+
+$\kappa$ is renormalized through the neutralino renormalization whose diagrams are shown in Fig. 3. Note that we have different conventions of vev and thus the formula is a little different from Ref. [12].
+
+$$
+\delta \kappa = \frac { 1 } { 2 v _ { s } } \delta ( \mathcal { M } _ { N } ) _ { 5 5 } - \kappa \frac { \delta v _ { s } } { v _ { s } } .
+$$
+
+$$
+\sqrt { \psi _ { i } } \prod \limits _ { k = 1 } ^ { \infty } \psi _ { i j } = \prod \limits _ { i = 1 } ^ { \psi _ { N } } \underbrace { \psi _ { i j } } _ { R , M } + \underbrace { \delta _ { i j } } _ { \chi _ { i } } \psi _ { X j }
+$$
+
+FIG.3: Feynman diagrams for the renormalized two-point neutralino functions.
+
+6. Tri-linear coupling $A _ { \kappa }$
+
+$A _ { \kappa }$ is renormalized by the CP-odd Higgs element $M _ { P , 2 2 } ^ { 2 }$ and is given by
+
+$$
+\delta A _ { \kappa } = \Bigl [ { - \frac { 1 } { 3 \kappa v _ { s } } \bigl [ \Sigma _ { P , 2 2 } \Bigl ( M _ { P , 2 2 } ^ { 2 } \Bigr ) - \delta f \bigr ] - A _ { \kappa } \bigl [ \frac { \delta \kappa } { \kappa } + \frac { \delta v _ { s } } { v _ { s } } \bigr ] \Bigr ] _ { \mathrm { d i v } } } ,
+$$
+
+where the fuction $f$ can be found in Ref. [12].
+
+After the determination of the counterterms, we put these terms into the Higgs mass matrix which is shown in the Appendix. Also,by adding the loop contribution to the Higgs mass matrix, we can get the mass correction for the Higgs boson.
+
+# IV. NUMERICAL RESULTS
+
+# A． The right-handed neutrino/sneutrino correction to the Higgs boson mass
+
+In our numerical calculation we concentrate on the SM-like Higgs boson which is the lightest CP-even Higgs boson dominated by the Higgs doublets. From the superpotential in
+
+![](images/ba7b021c28e726160c49fe292b872f8f6869648f04f33f07f2af18bab18a929d.jpg)  
+FIG.4: The right-handed neutrino/sneutrino contribution to the SM-like Higgs boson mass versus（204号 $\lambda \lambda _ { N }$ ：
+
+Eq. (1) we can see that the right-handed neutrino/sneutrino interacts with the doublet only through the F-term of the singlet Higgs $S$ , and thus the parameter $\lambda$ will play an important role in the correction to the Higgs boson mass. Also, from the superpotential we can also see that the right-handed neutrino/sneutrino couples to the Higgs sector through the parameter （204号 $\lambda _ { N }$ . So,as $\lambda _ { N }$ approaching zero, the right-handed neutrino/sneutrino should decouple form the NMSSM sector. To check this numerically, we scan the parameter space in the range:
+
+$$
+\begin{array} { r l } & { 0 < \lambda , \ \kappa , \ \lambda _ { N } < 1 , 2 < \tan \beta < 5 0 , } \\ & { 0 < \mu , M _ { \tilde { N } } < 1 \mathrm { ~ T e V } , - 1 \mathrm { ~ T e V } < A _ { \lambda } , A _ { \kappa } , A _ { N } < 1 \mathrm { ~ T e V } , } \end{array}
+$$
+
+Note that in the calculation of the Higgs mass spectrum we chose to use $\mu$ ( $= \lambda v _ { s }$ ）as an input parameter because it is commonly used in the NMSSM phenomenology studies and the relevant numerical packages. Also we note that $\lambda$ and $\lambda _ { N }$ may be rather constrained (e.g., $\lambda$ at weak scale must be below O.7) if we require perturbativity of the theory up to the grand unification scale [13]. Of course, if we just treat NMSSM as a low energy effective theory, such a stringent perturbativity constraint will be much relaxed.
+
+The correction to the Higgs boson mass versus product of $\lambda$ and $\lambda _ { N }$ is shown in Fig.4. From the figure we can see that when the product of $\lambda$ and $\lambda _ { N }$ approaches to zero, the correction will approach zero; when $\lambda \lambda _ { N }$ is at order 1, the right-handed neutrino/sneutrino will alter the mass significantly. Thus, if $\lambda$ and $\lambda _ { N }$ is not small, then the right-handed neutrino/sneutrino contribution to the Higgs boson mass must be taken into account.
+
+Now we check the SUSY limit in the right-handed neutrino/sneutrino sector. From Eq. (7) we can see that with $M _ { \tilde { N } }$ and $A _ { N }$ approaching zero, the right-handed neutrino/sneutrino sector has a SUSY limit for $\kappa v _ { s } ^ { 2 } \ = \ \lambda v _ { u } v _ { d }$ .In our second scan，we assume the relation （20 $\kappa v _ { s } ^ { 2 } = \lambda v _ { u } v _ { d }$ and let the parameter $\lambda , ~ \kappa , ~ \tan \beta , ~ A _ { \lambda } ,$ （204号 $A _ { \kappa }$ ， $M _ { \tilde { N } }$ and $A _ { N }$ vary randomly in range as in Eqs. (30, 31), only fixing $\lambda _ { N } = 0 . 9$ . The results are shown in Fig. 5. The results show that with $\sqrt { M _ { \tilde { N } } ^ { 2 } + A _ { N } ^ { 2 } }$ approaching zero, the Higgs mass correction approaches zero, which confirms the SUSY limit.
+
+![](images/84afd4fd0163c449a4b805717b67ff7354b2b9bb011b220ed23e6a97b4549ea0.jpg)  
+FIG.5: The right-handed neutrino/sneutrino contribution to the SM-like Higgs boson mass versus $\sqrt { M _ { \tilde { N } } ^ { 2 } + A _ { N } ^ { 2 } } .$
+
+It is well known that the Higgs mass can be enhanced by the hierarchy between the SM particles and their SUSY partners. In the right-handed neutrino/sneutrino sector, the mass hierarchy between sneutrino and neutrino is controlled by the soft parameters $M _ { \tilde { N } }$ and $A _ { N }$ In order to show the dependence on the mass splitting,we chose a benchmark point:
+
+$$
+\begin{array} { r l } & { \lambda = 0 . 2 , \lambda _ { N } = 0 . 3 5 , \kappa = 0 . 4 , \mathsf { t a n } \beta = 1 0 , } \\ & { } \\ & { \mu = 2 0 0 \mathrm { G e V } , A _ { \lambda } = 3 0 0 \mathrm { G e V } , A _ { \kappa } = - 5 0 0 \mathrm { G e V } , } \end{array}
+$$
+
+and scan the other two parameters in the range of $0 < M _ { \tilde { N } } < 1$ TeV and $- 1$ TeV $< A _ { N } <$ 1 TeV. The results are shown in Fig. 6, in which the left panel shows $\delta m _ { h }$ versus $M _ { \tilde { N } }$ and the right panel shows $\delta m _ { h }$ versus $m _ { R } ^ { 2 } / m _ { N } ^ { 2 }$ . From this figure we can see that as $M _ { \tilde { N } }$ increases (the mass slitting between sneutrino and neutrino also increases as shown in Eq. (7)), the mass correction increases.
+
+![](images/7fdd650f292a8582bbd00f7cb5ef8635233d5866b57e913c459cba02d3d7ab9c.jpg)  
+FIG. 6: The right-handed neutrino/sneutrino contribution to the SM-like Higgs boson mass versus the sneutrino soft mass $M _ { \tilde { N } }$ and the ratio $m _ { R } ^ { 2 } / m _ { N } ^ { 2 }$ (for $m _ { R }$ and $m _ { N }$ , see Eq. (7)).
+
+From the above results we see that the right-handed neutrino/sneutrino can either enhance or reduce the Higgs boson mass. Since the parameter space is multi-dimensional (9 input parameters)，we perform an intensive scan to try to figure out what parameter(s) determine the sign of the correction. We scan the parameter set $( \lambda , \ \lambda _ { N } , \ M _ { \tilde { N } } , \ A _ { N } )$ while fix other parameters as listed in Eq. (32). The results are shown in Fig. 7. We see that the parameter $\lambda$ plays the most important role in this aspect although it cannot solely determine the sign. For a large value of $\lambda$ the sign of the correction tends to be negative. Clearly, the sign is not sensitive to $\lambda _ { N }$ . We also checked that the sign is not sensitive to other parameters.
+
+# B. Higgs mass with all loop corrections under current experimental constraints
+
+In the preceding section we only considered the loop corrections from the right-handed neutrino/sneutrino. Of course, the loop corrections from other particles (especially the top and stop) should also be taken into account. In our following numerical study, we include all available loop corrections by using the package NMSSMTools [11]. Since the right-handed neutrino/sneutrino is a gauge singlet, it will not change the Higgs decay or the annihilation of the dark matter. So,we just add the right-handed neutrino/sneutrino correction to the Higgs boson mass in the NMSSMTools. Then we scan the NMSSM parameter space in the range:
+
+![](images/87547dd9423d0f628fd58b1439ebbd19dbb7fee087006673892f4e429a4896e4.jpg)  
+FIG.7: The right-handed neutrino/sneutrino contribution to the SM-like Higgs boson mass shown in the plane of $\lambda _ { N }$ versus $\lambda$ . Here we scan the parameter set $( \lambda , \ \lambda _ { N } , \ M _ { \tilde { N } } , \ A _ { N } )$ while fix other parameters as listed in Eq. (32). The red $\times$ ’ are for $\delta m _ { h } < - 1$ GeV, the green '+’ for $- 1$ GeV< （20 $\delta m _ { h } < 0$ , the blue $' \bigcirc$ ’for $0 < \delta m _ { h } < 1$ GeV,and the magenta $" \triangle ^ { \prime }$ for $\delta m _ { h } > 1$ GeV.
+
+$$
+\begin{array} { r l } & { 0 < \lambda , \ k < 1 , 2 < \tan \beta < 5 0 , } \\ & { \ 0 < ( \mu , M _ { 1 } = M _ { 2 } / 2 = M _ { 3 } / 6 , \ m _ { \tilde { Q } } , \ m _ { \tilde { t } } = m _ { \tilde { b } } = m _ { \tilde { \tau } } = m _ { \tilde { \mu } } ) < 1 \ \mathrm { T e V } , } \\ & { - 1 \ \mathrm { T e V } < ( A _ { \lambda } , \ A _ { \kappa } , \ A _ { t } = A _ { b } = A _ { \tau } = A _ { \mu } ) < 1 \ \mathrm { T e V } . } \end{array}
+$$
+
+For the neutrino/sneutrino sector, we set $\lambda _ { N } = 0 . 5$ and scan $M _ { \tilde { N } }$ ， $A _ { N }$ in the range
+
+$$
+0 < M _ { \tilde { N } } < 1 \mathrm { ~ T e V } , \quad - 1 \mathrm { ~ T e V } < A _ { N } < 1 \mathrm { ~ T e V } .
+$$
+
+In our scan we consider the following experimental constraints [14]: (1）We require the lightest neutralino $\tilde { \chi } _ { 1 } ^ { 0 }$ to account for the dark matter relic density $0 . 1 0 5 < \Omega h ^ { 2 } < 0 . 1 1 9$ ：， (2) We require the SUSY contribution to explain the deviation of the muon $a _ { \mu }$ ,i.e., $a _ { \mu } ^ { \mathrm { e x p } } -$ $a _ { \mu } ^ { \mathrm { S M } } = ( 2 5 . 5 \pm 8 . 0 ) \times 1 0 ^ { - 1 0 }$ at $2 \sigma$ level; (3）TheLEP-Iboundontheinvible $Z$ -decay, （20 $\Gamma ( Z  \tilde { \chi } _ { 1 } ^ { 0 } \tilde { \chi } _ { 1 } ^ { 0 } ) < 1 . 7 6 \mathrm { M e V }$ ，and the LEP-II upper bound on $\sigma ( e ^ { + } e ^ { - } \  \ \tilde { \chi } _ { 1 } ^ { 0 } \tilde { \chi } _ { i } ^ { 0 } )$ ，which is $5 \times 1 0 ^ { - 2 }$ pb for $i ~ > ~ 1$ ，as well as the lower mass bounds on the sparticles from the direct searches at LEP and the Tevatron; (4) The constraints from the direct search for the Higgs bosons at LEP-II, including the decay modes $h  h _ { 1 } h _ { 1 } , a _ { 1 } a _ { 1 }  4 f$ ，which limit all possible channels for the production of the Higgs bosons; (5) The constraints from $B$ -physics observables like $B  X _ { s } \gamma$ ， $B _ { s } \to \mu ^ { + } \mu ^ { - }$ ， $B ^ { + } \to \tau ^ { + } \nu$ ， $\Upsilon  \gamma a _ { 1 }$ ，the ${ a } _ { 1 } { - } { \eta } _ { b }$ mixing and the mass difference $\Delta M _ { d }$ and $\Delta M _ { s }$ ; (6) The newest results for Higgs, top and stop results of the LHC. These constraints have been encoded in the package NMSSMTools [11]. In addition to the above experimental limits, we also consider the constraint from the stability of the Higgs potential, which requires that the physical vacuum of the Higgs potential with non-vanishing vevs of Higgs scalars should be lower than any local minima.
+
+![](images/0035991a8b5547c63e6b4295a4265400b678255112e967a9456d50998fd451ca.jpg)  
+FIG.8: The left panel shows the loop-corrected mass of the SM-like Higgs with or without the right-handed neutrino/sneutrino contribution，while the right panel shows the ratio $m _ { h } ^ { \scriptscriptstyle \perp \vee \sqcup \sqcup \vee \sqcup \vee \sqcup \bigstar \operatorname { m a x } } / m _ { h } ^ { \scriptscriptstyle \perp \vee \sqcup \wedge \sqcup \wedge \sqcup \wedge \sqcup }$ with $m _ { h } ^ { \mathrm { { N M S S M + R H N } } }$ （20 $( m _ { h } ^ { \mathrm { { N M S S M } } } )$ denotingtheSMikeHgmasswih (without） the right-handed neutrino/sneutrino contribution.
+
+The numerical results of our scan are shown in Fig. 8 in which we show the SMlike Higgs mass versus the tri-linear parameter $A _ { t }$ in the left panel,and the ratio of $m _ { h } ^ { \scriptscriptstyle \mathrm { 1 V I S S M + R H N } } / m _ { h } ^ { \scriptscriptstyle \mathrm { 1 V M S S M } }$ NMSSM+RHN/ nNMSSM versus mh nNMSSM+RHN in the right panel. Again we see that the contribution of the right-handed neutrino/sneutrino is sizable, which helps to push up the SM-like Higgs boson mass and thus makes the NMSSM more natural.
+
+Note that from Figs.6 and 7 we see that the correction to the Higgs mass can be positive or negative, depending on the parameter space (the most sensitive parameter is $\lambda$ ). However, under current experimental constraints the results in Fig.8 show that in the major part of the survived parameter space the correction is positive. The reason is that the parameter samples which give negative corrections are hard to survive the current experimental constraints (especially the Higgs mass lower bound given by LEP-II).
+
+# V. SUMMARY
+
+In order to have massive neutrinos, the right-handed neutrino/sneutrino superfield must introduced in SUSY. In the framework of NMSSM such an extention will dynamically lead to a TeV-scale Majorana mass for the right-handed neutrino. Further, through the couplings $S N N$ and $S H _ { u } H _ { d }$ , the SM-like Higgs boson can naturally couple with such TeV-scale right-handed neutrino/sneutrino. As a result, the right-handed neutrino/sneutrino may significantly contribute to the Higgs boson mass. In this work we performed an explicit calculation and found that the Higgs boson mass can indeed be sizably altered by the righthanded neutrino/sneutrino. Such new contribution can help to push up the SM-like Higgs boson mass and thus make the NMSSM more natural.
+
+# ACKNOWLEDEGMENT
+
+This work was supported in part by NSFC (No. 11005006,11275245，10821504 and 11135003) and by Ri-Xin Foundation of BJUT from China.
+
+# Appendix
+
+Here we list the analytical renormalized formula for the elements of the Higgs mass matrix. Although they can be found in Ref. [12]，we checked them and modified them according to our convention. Note that $\beta _ { B }$ denotes the tree-level $\beta$ and the $c _ { X }$ ， $s _ { X }$ ， $t _ { X }$ denote respectively $\cos X$ ， $\sin X$ and $\tan X$ ：
+
+The scalar $3 \times 3$ mass matrix $M _ { S } ^ { 2 }$ in the basis $\boldsymbol { h } ^ { S } = ( H _ { u } , H _ { d } , S ) ^ { T }$ is given by the entries
+
+$M _ { S _ { i j } } ^ { 2 } = M _ { S _ { j i } } ^ { 2 }$ $( i , j = 1 , 2 , 3 )$ with
+
+$$
+\begin{array} { r l } { \left. \mathbf { x } _ { i , j + } ^ { \prime \prime } - \frac { \mathbf { x } _ { i + } ^ { \prime \prime } \mathbf { x } _ { i + } ^ { \prime \prime } } { 2 \mathbf { x } _ { i + } \mathbf { x } _ { j + } ^ { \prime \prime } } - \mathbf { x } _ { i + } \mathbf { x } _ { j + } \mathbf { x } _ { j + } \mathbf { x } _ { i + } ^ { \prime \prime } + \mathbf { x } _ { j + } \mathbf { x } _ { j + } \mathbf { x } _ { i + } ^ { \prime \prime } \right. } &  = \ : \sum _ { i = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum _ { \ell = 1 } ^ { 2 M } \sum  \end{array}
+$$
+
+The entries $M _ { P _ { i j } } ^ { 2 } = M _ { P _ { j i } } ^ { 2 } ~ ( i , j = 1 , 2 , 3 )$ of the pseudoscalar $3 \times 3$ mass matrix $M _ { P } ^ { 2 }$ in the basis $\boldsymbol { h } ^ { P } = ( a , a _ { s } , G ) ^ { \scriptscriptstyle T }$ read
+
+$$
+\begin{array} { r l } & { M _ { \mathrm { T h } } ^ { 2 } = \frac { 2 M ^ { 3 } M _ { \mathrm { T h } } ^ { 6 } \mathrm { S } _ { \mathrm { B } } ^ { 2 } M _ { \mathrm { T h } } ^ { 6 } } { v ^ { 2 } } + M _ { \mathrm { R } } ^ { 2 } + - M _ { \mathrm { W } } ^ { 2 } c _ { \mathrm { B } } ^ { 2 } , } \\ & { M _ { \mathrm { T h } } ^ { 2 } = \frac { \mathrm { i } M _ { \mathrm { W } } \mathrm { S } _ { \mathrm { B } } ^ { 2 } S _ { \mathrm { B } } ^ { 2 } } { \sqrt { 2 } v _ { 1 } c _ { \mathrm { A } } c _ { \mathrm { A } } } ( M _ { \mathrm { H } } ^ { 2 } - M _ { \mathrm { W } } ^ { 2 } c _ { \mathrm { B } } ^ { 2 } ) , \qquad \frac { \mathrm { S } _ { \mathrm { B } } ^ { 2 } c _ { \mathrm { B } } ^ { 2 } } { \sqrt { 2 } v _ { 1 } c _ { \mathrm { B } } c _ { \mathrm { B } } } ( t _ { M _ { \mathrm { B } } } + t _ { M } , t _ { 0 } ^ { 2 } \frac { s _ { \mathrm { B } } ^ { 2 } } { s _ { \mathrm { B } } ^ { 2 } } ) } \\ & { \qquad + \frac { M _ { \mathrm { T h } } ^ { 4 } \mathrm { W e } W \mathrm { S } _ { \mathrm { B } } ^ { 2 } S _ { \mathrm { B } } ^ { 2 } } { \sqrt { 2 } c _ { \mathrm { B } } ^ { 4 } c _ { \mathrm { B } } } [ 2 M _ { \mathrm { W } } ^ { 4 } v _ { \mathrm { W } } ^ { 2 } v _ { \mathrm { W } } - 6 v _ { \mathrm { W } } ^ { 2 } s _ { \mathrm { B } } ^ { 2 } ] , } \\ & { M _ { \mathrm { T h } } ^ { 2 } = \lambda _ { B } ^ { 2 } t _ { 1 } c _ { \mathrm { A } } \psi + \frac { M _ { \mathrm { T h } } ^ { 4 } \mathrm { S } _ { \mathrm { B } } ^ { 2 } \mathrm { S } _ { \mathrm { B } } ^ { 2 } } { 2 c _ { \mathrm { B } } ^ { 2 } } [ 2 M _ { \mathrm { W } } ^ { 3 } v _ { \mathrm { W } } - e ^ { 2 } ] + \frac { C _ { \mathrm { P H } } } { 2 M _ { \mathrm { W } } v _ { \mathrm { W } } \mathrm { S } _ { \mathrm { B } } ^ { 2 } } [ t _ { M } , t _ { 1 \mathrm { B } } - t _ { M _ { \mathrm { W } } } ] , } \\ &  M _ { \mathrm { T h } } ^ { 2 } = - 3 A _ { \mathrm { T h } } \epsilon _ { \mathrm { A } } + \frac { t _ { B } } { \sqrt { 2 } v _ { \mathrm { B } } c _ { \mathrm { B } } ^ { 2 } } - \frac  \mathrm { i } M \end{array}
+$$
+
+$$
+\begin{array} { l } { { M _ { P _ { 2 3 } } ^ { 2 } = \displaystyle \frac { M _ { W } s _ { W } s _ { 2 \beta } } { 2 \sqrt { 2 } e v _ { s } c _ { \Delta \beta } } \left[ 2 M _ { H ^ { \pm } } ^ { 2 } t _ { \Delta \beta } - M _ { W } ^ { 2 } s _ { 2 \Delta \beta } \right] - \displaystyle \frac { c _ { \beta } c _ { \beta _ { B } } ^ { 2 } t _ { \Delta \beta } } { \sqrt { 2 } v _ { s } c _ { \Delta \beta } } \left[ t _ { H _ { u } } + t _ { H _ { d } } t _ { \beta } t _ { \beta _ { B } } ^ { 2 } \right] } } \\ { { \displaystyle \phantom { \frac { M _ { W } s _ { W } s _ { \Delta \beta } } { 2 \sqrt { 2 } e v _ { s } } } } } \\ { { \displaystyle M _ { P _ { 3 3 } } ^ { 2 } = M _ { H ^ { \pm } } ^ { 2 } \tan ^ { 2 } \Delta \beta + \displaystyle \frac { M _ { W } ^ { 2 } \sin ^ { 2 } \Delta \beta } { e ^ { 2 } } \left[ 2 \lambda ^ { 2 } s _ { W } ^ { 2 } - e ^ { 2 } \right] } } \\ { { \displaystyle \phantom { \frac { M _ { W } s _ { W } s _ { \Delta \beta } } { 2 \sqrt { 2 } e v _ { s } } } } } \end{array}
+$$
+
+[1] J. Wess and B. Zumino, Nucl. Phys. B70 (1974) 39; M.F. Sohnius, Phys. Rep. 128 (1985) 39;   
+[2] S. Dimopoulos and H. Georgi, Nucl. Phys. B193 (1981) 150; N. Sakai, Z. Phys. C11 (1981) 153.   
+[3] For a review, see, e.g., H. E. Haber and G. L. Kane,Phys. Rept. 117, 75 (1985).   
+[4] J. E. Kim and H.P. Nilles, Phys. Lett. B138(1984) 150.   
+[5] See,e.g.，J. R. Ellis，et al.， Phys. Rev. D39, 844 (1989)； M. Drees， Int. J. Mod. Phys. A 4,3635 (1989)； P. N. Pandita, Phys. Lett. B318,338 (1993);Phys. Rev. D50, 571 (1994); S. F. King, P. L. White, Phys. Rev. D52, 4183 (1995)； B. Ananthanarayan, P.N. Pandita, Phys. Lett. B353,70 (1995); Phys. Lett. B371, 245 (1996); B. A. Dobrescu, K. T. Matchev, JHEP 0009,031 (2000)；V. Barger，et al.，Phys. Rev.D73,(2006) 115010；R. Dermisek, J. F. Gunion, Phys. Rev. Lett. 95, 041801 (2005); G. Hiller, Phys. Rev. D70, 034018 (2004); F. Domingo, U. Ellwanger, JHEP 0712, 090 (2007); Z. Heng, et al., Phys. Rev. D77, 095012 (2008)；R. N. Hodgkinson， A. Pilaftsis, Phys.Rev. D76, 015007 (2007)； Phys.Rev. D78, 075004 (2008); W. Wang, Z. Xiong, J. M. Yang, Phys. Lett. B680,167 (2009); J. Cao, J. M. Yang,JHEP 0812,006 (2008)； Phys. Rev. D78,115001 (2008)； U. Ellwanger, C. Hugonie and A. M. Teixeira, Phys. Rept. 496,1 (2010); J. Cao, Z. Heng and J. M. Yang, JHEP 1011, 110 (2010); M. Maniatis, Int. J. Mod. Phys. A25 (2010) 3505; U. Ellwanger, Eur. Phys. J. C 71,1782 (2011)； J. Ca0,et al., JHEP 1206,145 (2012)； JHEP 1203, 086 (2012)； JHEP 1210,079 (2012); Phys. Lett. B 703, 462 (2011); arXiv:1303.2426 [hep-ph].   
+[6] P. Fayet Nucl. Phys. B90 (1975) 104, Physics Letters Volume 69B,4.   
+[7] D. G. Cerdeno, C. Munoz and O. Seto, Phys. Rev. D 79,023510 (2009).   
+[8] R. Kitano and K. y. Oda, Phys. Rev. D 61 (200O) 113001.   
+[9] D. G. Cerdeno and O. Seto, JCAP 0908, 032 (2009). [10] J. Cao and J. M. Yang, Phys. Rev.D 71, 111701 (2005) [hep-ph/0412315].   
+[11] U.Ellwanger et al., JHEP 0502,066 (2005).   
+[12] K. Ender, T. Graf, M. Muhlleitner and H. Rzehak, Phys. Rev. D 85, 075024 (2012).   
+[13] D.J. Miller, R. Nevzorov, P.M. Zerwas, Nucl. Phys.B681, 3 (2004).   
+[14] K. Nakamura et al. [Particle Data Group Collaboration], J. Phys. G 37, 075021 (2010).

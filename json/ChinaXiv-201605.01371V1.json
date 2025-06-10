@@ -1,0 +1,458 @@
+[
+    {
+        "type": "text",
+        "text": "Succinylome Analysis Reveals the Involvement of Lysine Succinylation in Metabolism in Pathogenic Mycobacterium tuberculosis\\*图 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mingkun Yang‡, Yan Wang‡, Ying Chen‡, Zhongyi ChengS, Jing Gul, Jiaoyu Dengl, Lijun $\\pmb { \\mathsf { B i } } \\Vert$ ,Chuangbin Chen\\*\\*,Ran Mo‡, Xude Wang1l, and Feng Ge‡‡‡ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mycobacterium tuberculosis (Mtb), the causativeagent of human tuberculosis,remains one of the most prevalent human pathogens and a major cause of mortality worldwide.Metabolic network is a central mediatorand definingfeature of the pathogenicity of Mtb. Increasing evidence suggests that lysine succinylation dynamically regulatesenzymesincarbonmetabolisminbothbacteria and human cells; however, its extent and function in Mtb remain unexplored.Here，we performed a global succinylomeanalysisofthevirulentMtbstrain H37Rvbyusing high accuracy nano-LC-MS/MS in combination with the enrichment of succinylated peptides from digested cell lysates and subsequent peptide identification. In total, 1545 lysine succinylation sites on 626 proteins were identified in this pathogen.The identified succinylated proteins are involved in various biological processes and a large proportion of the succinylation sites are present on proteins in the central metabolism pathway. Site-specific mutations showed that succinylation is a negative regulatory modification on the enzymatic activity of acetylCoAsynthetase.Moleculardynamics simulations demonstrated that succinylation affects the conformational stabilityofacetyl-CoA synthetase,which iscritical forits enzymaticactivity.Furtherfunctional studiesshowed that CobB,a sirtuin-like deacetylase in Mtb,functions as a desuccinylase ofacetyl-CoA synthetase in in vitro assays. Together,our findings reveal widespread roles forlysine succinylation in regulating metabolism and diverse processes in Mtb.Our data provide a rich resource for functional analyses of lysine succinylation and facilitate the dissection of metabolic networks in this life-threateningpathogen. Molecular& CellularProteomics 14: 10.1074/mcp.M114.045922, 796-811, 2015. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Post-translational modifications (PTMs)1 are complex and fundamental mechanisms modulating diverse protein properties and functions,and have been associated with almost all known cellular pathways and disease processes (1,2). Among the hundreds of different PTMs,acylations at lysine residues, suchas acetylation (3-6),malonylation (7,8),crotonylation (9, 10)，propionylation (11-13)，butyrylation (11,13),and succinylation (7，14-16) are crucial for functional regulations of many prokaryotic and eukaryotic proteins.Because these lysine PTMs depend on the acyl-CoA metabolic intermediates,suchasacetyl-CoA(Ac-CoA),succinyl-CoA,and malonylCoA,lysine acylation could provide a mechanism to respond to changes in the energy status of the cell and regulate energy metabolism and the key metabolic pathways in diverse organisms (17, 18). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Among these lysine PTMs, lysine succinylation is a highly dynamic and regulated PTM defined as transferof a succinyl group $- C O - C H _ { 2 } - C H _ { 2 } - C C$ -）toa lysine residue of a protein molecule (8).It was recently identified and comprehensively validated in both bacterial and mammalian cells (8,14,16). It was also identified in core histones,suggesting that lysine succinylation may regulate the functions of histones and affect chromatin structure and gene expression (7). Accumulatingevidencesuggeststhatlysine succinylationisa widespread and important PTM in both eukaryotes and prokaryotes and regulates diverse cellular processes (16).The system-wide studies involving lysine-succinylated peptide immunoprecipitation and liquid chromatography-mass spectrometry (LC-MS/MS) have been employed to analyze the bacteria (E.coli) (14,16),yeast (S.cerevisiae),human (HeLa) cells,and mouse embryonic fibroblasts and liver cells (16,19). These succinylome studies have generated large data sets of lysine-succinylated proteins in both eukaryotes and prokaryotes and demonstrated the diverse cellular functions of this PTM. Notably, lysine succinylation is widespread among diverse mitochondrial metabolic enzymes that are involved in fatty acid metabolism,amino acid degradation,and the tricarboxylic acid cycle (19,2O).Thus,lysine succinylation is reported as a functional PTM with the potential to impact mitochondrial metabolismandcoordinatedifferentmetabolic pathways in human cells and bacteria (14,19-22). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mycobacterium tuberculosis (Mtb),the causative agent of tuberculosis (TB),is a major cause of mortality worldwide and claims more human lives annually than any other bacterial pathogen (23).About one third of the world's population is infected with Mtb,which leads to nearly1.3 million deaths and 8.6million new cases of TB in 2012 worldwide (24).Mtb remains a major threat to global health,especially in the developing countries. Emergence of multidrug resistant (MDR) and extensively drug-resistant (XDR) Mtb,and also the emergence of co-infection between TB and HiV have further worsened the situation (25-27). Among bacterial pathogens, Mtb has a distinctive life cycle spanning different environments and developmental stages (28)．Especially，Mtb can exist in dormant or active states in the host, leading to asymptomatic latent TB infection or active TB disease (29).To achieve these different physiologic states,Mtb developed a mechanism to sense diverse signals from the host and to coordinately regulate multiple cellular processes and pathways (30,31).Mtb has evolved its metabolic network to both maintain and propagate its survival as a species within humans (32-35). It is well accepted that metabolic network isa central mediator and defining feature of the pathogenicity of Mtb (23,36-38).Knowledge of the regulation of metabolic pathways used by Mtb during infection is therefore important forunderstanding its pathogenicity,and can also guide the development of novel drug therapies (39).On the other hand, increasing evidence suggests that lysine succinylation dynamically regulates enzymes in carbon metabolism in both bacteria and human cells (14,19-22). It is tempting to speculate that lysine succinylation may play an important regulatory role in metabolic processes in Mtb.However, to the best of our knowledge，no succinylated protein in Mtb has been identified,presenting a major obstacle to understand the regulatory roles of lysine succinylation in this life-threatening pathogen. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In order to fill this gap in our knowledge,we have initiated a systematic study of the identities and functional roles of thesuccinylated protein in Mtb.Because Mtb H37Rv is the first sequenced Mtb strain (4O) and has been extensivelyused for studies in dissecting the roles of individual genes in patho genesis (41),it was selected as a test case.We analyzed the succinylome of Mtb H37Rv by using high accuracy nano-LCMS/MS in combination with the enrichment of succinylated peptides from digested cell lysates and subsequent peptide identification.In total,1545 lysine succinylation sites on 626 proteins were identified in this pathogen.The identified succinylated proteinsare involved in various biological processes and render particular enrichment to metabolic process.A large proportion of the succinylation sites are present on proteins in the central metabolism pathway.We further dissected the regulatory role of succinylation on acetyl-CoA synthetase (Acs) via site-specific mutagenesis analysis and molecular dynamics (MD) simulations showed that reversible lysine succinylation could inhibit the activity of Acs.Further functional studies showed that CobB,a sirtuin-like deacetylase in Mtb,functions asa deacetylaseand asa desuccinylase of Acs in in vitro assays.Together,our findings provide significant insights into the range of functions regulated by lysine succinylation in Mtb. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "EXPERIMENTALPROCEDURES ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Bacterial Strains and Growth Conditions-The M.tuberculosis strain H37Rv (ATCC 27294) was obtained from the National Center for Medical Culture Collections (CMCC,Beijing,China).The seed culture was grown to log phase $( \\mathsf { O D } _ { 6 0 0 } \\approx 1 . 2 )$ in Middlebrook 7H9 liquid medium (Difco) supplemented with ADC (Albumin-dextrose-catalase) at $3 7 ^ { \\circ } \\mathsf { C }$ .After7 days of growth of log phase, the cultures were pellet, washed twice with PBS (0.1 M ${ \\mathsf { N a } } _ { 2 } { \\mathsf { H P O } } _ { 4 }$ ,0.15 M NaCl,pH 7.5),and resuspended in fresh liquid medium followed by incubation for 2-3 weeks toa final $\\mathsf { O D } _ { 6 0 0 } \\approx 0 . 6 \\mathopen { } \\mathclose \\bgroup  - 0 . 8$ .For carbon source utilization studies,Mtb seed culture was resuspended in fresh complex growth media containing additional carbon sources,such as $0 . 2 \\%$ pyruvate, $0 . 2 \\%$ glucose, $0 . 2 \\%$ glycerol, $0 . 2 \\%$ succinate，or $0 . 2 \\%$ acetate, respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PreparationofProteinLysateand In-solutionTrypsinDigestion-To identify as many succinylation events as possible,we have performed aseries of preliminary experiments using different amount of Mtb proteins to find the best protocol.Following is the optimized experimental procedures based on these preliminary experiments.In brief, bacterial cells $( 2 5 0 ~ \\mathsf { m } \\mathsf { I } )$ were harvested by centrifugation at $2 5 0 0 \\times g$ for $1 0 \\mathrm { \\ m i n }$ at $4 ^ { \\circ } \\mathsf { C }$ .The pellet was washed twice with ice-cold PBS, resuspended in ice-cold PBS containing $1 \\times$ protease inhibitor mixture (Roche Diagnostics Ltd,Mannheim,Germany) and $1 \\mathsf { m m }$ PMSF (Beyotime Institute of Biotechnology，Jiangsu,China).The mixture was placed in Lysing Matrix B bead beatervials (pre-filled with 0.1 mm silica; MP Biomedicals, Santa Ana, CA) and homogenized using the FastPrep-24 sample preparation system (MP Biomedicals,CA). The cells were lysed by bead-beating for five cycles of $3 5 \\mathrm { ~ s ~ }$ ata settingof $6 . 5 ~ \\mathsf { m } / \\mathsf { s }$ .Between each cycleof bead beating,the samples were incubated on ice for3 min.Cell lysateswere cleared of silicaand cellular debris via centrifugation at $1 2 , 0 0 0 \\times g$ for 15 min at $4 ^ { \\circ } \\mathsf { C }$ Supernatant was then filtered through the $0 . 2 \\ \\mu \\mathsf { m }$ syringe filters twice to sterilize lysate.The clarified lysate was precipitated by using $10 \\%$ trichloroacetic acid and $1 \\%$ sodium deoxycholate,and then washed twice with ice cold acetone.The precipitated proteins $( 2 { \\mathrm { ~ m g } } )$ were redissolved in $5 0 ~ \\mathsf { m m }$ ammonium bicarbonate, then in-solution digested by trypsin according to previously described (14，42).The protein concentration was determined with the Bradford assay (BioRad,Hercules,CA). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ImmunoaffinityEnrichmentofLysineSuccinylatedPeptides-Succinylated peptides were enriched usingagarose-conjugated anti-succinyl lysine antibody (PTM Biolabs Inc.，Chicago,IL)as previously described (14).Briefly，tryptic peptides were redissolved in NETN buffer (50 mM Tris-HCl, $\\mathsf { p } \\mathsf { H } \\ 8 . 0$ ，100mM NaCl，1 mM EDTA, $0 . 5 \\%$ Nonidet P-4O),and then incubated with anti-succinyllysine antibody conjugated proteinAagarose beadsat $4 ^ { \\circ } \\mathsf { C }$ for 6h with gentle rotation.The supernatant was removed and the beads were washed three times with NETNbuffer,twice with ETNbuffer $5 0 ~ \\mathsf { m m }$ Tris-Cl, ${ \\mathsf { p H } } 8 . 0$ 100 mm NaCl,1 mM EDTA),followed by three times wash with water. The bound peptides were eluted by washing three times with $1 \\%$ trifluoroacetic acid.The eluates were combined and dried in a SpeedVac.The resulting succinylated peptides were loaded onto selfpacked $\\mathsf { C } _ { 1 8 }$ STAGE tips according to the manufacturer's instructions to desalt the sample,prior to nano-HPLC-MS/MS analysis. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Nano-HPLC-MS/MS Analysis-The enriched peptides were dissolved in the HPLC buffer A $( 0 . 1 \\%$ (v/v) formic acid in water),and analyzed by online nanoflow LC-MS/MS using an easy nLC-1000 system (Thermo Scientific) connected to a $\\mathsf { Q }$ -Exactive (Thermo Scientific) mass spectrometer.Briefly,samples were injected onto the analytical $\\mathsf { C } _ { 1 8 }$ -nanocapillary LC column $( 5 ~ \\mu \\mathsf { m }$ particle size, $1 0 0 \\mathrm { ~ \\AA ~ }$ pore diameter) and eluted ata flow rate of $3 0 0 ~ \\mathrm { { n l / m i n } }$ with a 45 min gradient from $5 \\%$ solvent B $( 9 0 \\% \\mathsf { A C N } / 0 . 1 \\%$ formic acid, v/v) to $80 \\%$ solvent B.The peptides were then directly ionized and sprayed into a $\\mathsf { Q }$ -Exactive mass spectrometer by a nanospray ion source.Mass spectrometerwas operated ina data-dependentmode with anautomatic switch between MS and MS/MS acquisition.Full MS spectra from $m / z$ 350 to 16o0 were acquired with a resolution of 70,000 at $\\boldsymbol { \\mathrm { m } } / z = 2 0 0$ in profile mode.Following every survey scan,up to 15 most intense precursor ions were picked for MS/MS fragmentation by higher energy C-trap dissociation (HCD)with normalized collision energy of $3 5 \\%$ .Lockmass at $\\mathsf { m } / z 4 4 5 . 1 2 0 0 3$ was enabled for full MS scan.The dynamic exclusion duration was set to be 5 s with a repeat count of one and $\\pm \\nobreakspace 1 0 \\nobreakspace$ ppm exclusion window. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ProteinSequenceDatabaseSearch-Allacquired rawdatawere processed with the MaxQuant software (version 1.3.0.5) (43).The peak lists were searched against the Mtb H37Rv protein database from NCBl ftp site (http://www.ncbi.nlm.nih.gov/) containing 4018 protein sequences.Two missed cleavages were allowed for trypsin. The precursor and fragment ion mass tolerances were 10 ppm and 0.02 Da, respectively. Carbamidomethylation (Cys) was set as a fixed modification,whereas oxidation (Met), deamidation (Asn/Gln),succinylation (Lys),and acetylayion (Protein N-terminal) were set as variable modifications.Minimum peptide length was set at six.The estimated false discovery rate (FDR) thresholds for modification site, peptide and protein were specified at maximum $1 \\%$ .AIIMS/MS spectra for the identified peptides with succinylation modifications were manually inspected using criteria as previously reported (44,45). Furthermore,to improve the reliability of result,all succinylation sites assigned to the peptide C-terminal were removed, prior to bioinformaticsanalysis. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Bioinformatics Analysis-The identified succinylated proteins were grouped into biological process and molecular function class based on the Gene Ontology (GO) terms by Blast2GO software (46).The subcellular localization of succinylated proteins was analyzed with PSORTb program (47).To gain information on the over-representations,GO enrichment analysis was performed using Cytoscape plugin BiNGO (48,49) with the parameters as previously described (50).The reference GO ontology in Cytoscape ontology format was created using whole Mtb H37Rv proteome that extracted from MTBbase (http://www.ark.in-berlin.de/Site/MTBbase.html).Pathway and Pfam functional domain enrichment analyses were performed using the DAVID bioinformatics resource (51,52).Functional interaction networkanalysis was performed using interaction data as previously reported (53) and the interaction network was visualized by Cytoscape (version 3.0.2) (48).Amino acid sequence motifs were analyzed using motif-X (54) and an in-house script as previously reported (42). The position-specific heatmap was generated by plotting the $\\mathsf { l o g } _ { 1 0 }$ of the ratio of frequencies.The secondary structure types were determined for positions with succinylated lysine using NetSurfP tool (55). In our data,the corresponding $p$ value $< 0 . 0 5$ was considered statistically significant. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Production of Specific Antibodies against Mtb Proteins-The generations of polyclonal antibodies against the specific Mtb proteins were carried out by ABclonal Inc. (Wuhan,Hubei, China).Briefly, to produceantibodiesagainst the Mtb proteins,i.e.ATP synthasealpha chain (AtpA),ATP synthase beta chain (AtpF),3-oxoacyl-[acyl-carrier protein] synthase1 (KasA)，acyl-[acyl-carrier protein] desaturase (DesA1)，acyl-CoA ligase (FadD31)，F420-dependent glucose-6- phosphate dehydrogenase (Fgd1)，malate synthase G (GlcB),heat shock protein (HspX),two component system transcriptional regulator (MtrA) and polyketide synthase (Pks2), the full-length of the genes were cloned into the expression vector pGEX-4T (Pharmacia, Piscataway,NJ),and then each expression vector was transformed into E.coli strain BL21 (DE3) for overexpression.For expression,1 mM isopropyl- $\\cdot \\beta$ -D-1-thiogalactopyranoside (IPTG) was added into the logarithmically growing bacterial culture and cellswere harvested after $4 \\ h$ of induction at $3 0 ^ { \\circ } \\mathsf { C }$ .Following purification of these antigens,immunization and sampling of the anti-sera from rabbit were performed by ABclonal Inc.The specificity of the generated antibodieswas determined by the manufacturer using ELISA and Western blotting. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ImmunoprecipitationandWesternblotting-Tovalidatesuccinylation of identified proteins，we performed immunoprecipitation (IP) experiments to analysis the succinylated proteins in vivo using the generated specific protein antibodies.For IP，the protein specific antibody was conjugated to the protein G Dynabeads (Invitrogen AS, Oslo,Norway) in PBS by gentle rocking for $4 \\ h$ at $4 ^ { \\circ } \\mathsf { C }$ The conjugated beads were washed three times with PBS and incubated with the whole cell lysates overnight at $4 ^ { \\circ } \\mathsf { C }$ .The beads were then washed three times with PBS to remove the unbound proteins.Bound proteinswere boiled in SDS loadingbuffer for $5 \\min$ ，then subjected to $1 5 \\%$ SDS-PAGE and transferred to a polyvinylidene difluoride (PVDF) membrane.For Western blotting, the membrane was blocked overnight at $4 ^ { \\circ } \\mathsf { C }$ or $3 7 ^ { \\circ } \\mathsf { C }$ for $^ { 2 \\mathfrak { h } }$ in TBS buffer $( 2 5 ~ \\mathsf { m m }$ Tris-HCl, ${ \\mathsf { p H } } 8 . 0$ $1 5 0 \\mathrm { \\ m u } \\mathrm { \\ N a C l } _ { . }$ containing $5 \\%$ bovine serum albumin (BSA) and incubated with either the specific Mtb protein antibody or the anti-succinyl lysine antibody (PTM Biolabs Inc.,Chicago,IL) (1:2000,in $T B S / 5 \\%$ BSA) overnight at $4 ^ { \\circ } \\mathsf { C }$ Afterwashing three times with TBST buffer $2 5 ~ \\mathsf { m m }$ Tris-HCl, ${ \\mathsf { p H } } 8 . 0$ 5 $1 5 0 ~ \\mathsf { m m }$ NaCl, $0 . 1 \\%$ Tween20), the membrane was incubated with horseradish peroxidase-conjugated goat anti-rabbit antibody (1:5oo0 dilutions) for $1 \\ h$ at $3 7 ^ { \\circ } \\mathsf { C }$ Themembrane was then washed with TBST buffer and visualized with enhanced chemiluminescence (ECL） immunoblotting detection reagents (Advansta Inc.,Menlo Park,CA).The density of each band was determined with a fluorescence scanner (lmageQuant TL,GE Healthcare).Densitometry analysis was performed via the ImageJ suite (http://rsbweb.nih.gov/ij/). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Site-directed Mutagenesis and Purification of Acs-The deacetylase (CobB) and Acs expression vectors (pET32a-cobB and pET20bacs,kindly provided by Professor Jiao-Yu Deng,Wuhan Institute of Virology，CAS) were transformed into E.coli BL21 (DE3) for protein expression.The site-directed mutation of acs gene was introduced into the selected sites by PCR reaction.The PCR product was transformed into E.coli BL21 (DE3),and subsequently the mutagenesis was completely sequenced to confirm the presence of the site-directed mutation.Mutagenic primers were given below with the mutated base triplets underlined:K193R-sense: ${ \\boldsymbol { 5 } } ^ { \\prime }$ -CGCGGCAGAC",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CATCGCCCCTCAAGGCGGCC- ${ \\cdot } 3 ^ { \\prime }$ ，K193R-antisense: ${ \\boldsymbol { 5 } } ^ { \\prime }$ -CGATGGTCTGCCGCGCCGAAACTGCCCGTC- $\\cdot 3 ^ { \\prime }$ ，K366R-sense: $5 ^ { \\prime }$ -TTTATGAGATGGGGCCGTGAGATCCCCGAC- ${ \\cdot } 3 ^ { \\prime }$ ，K366R-antisense: ${ \\boldsymbol { 5 } } ^ { \\prime }$ 1 GCCCCATCTCATAAACATCCGGATGAGGGT ${ \\cdot } 3 ^ { \\prime }$ .Thewildtype E.coli BL21 (DE3)/pET32a-cobB,E.coli BL21 (DE3)/pET20b-acs and the site-directed mutants of acs gene were grown in $5 ~ \\mathsf { m l }$ LuriaBertani (LB) medium containing ampicillin $( 5 0 \\mathrm { \\mu } \\mathsf { g } / \\mathsf { m } \\mathsf { l } )$ overnight at $3 7 ^ { \\circ } \\mathsf { C }$ ，and then the cultures were transformed into $5 0 0 ~ \\mathrm { m l }$ fresh LB medium with ampicillin $( 5 0 ~ \\mu { \\sf g } / { \\sf m } | )$ at $3 7 ^ { \\circ } \\mathsf { C }$ in shaking flasks to optical densityat $6 0 0 \\mathsf { n m }$ of $0 . 4 \\sim 0 . 6$ .Cells were induced with $0 . 2 \\mathsf { m m }$ of IPTG at $1 8 ^ { \\circ } \\mathsf { C }$ for 12h.The cultured cells were harvested by centrifugation and washed twice with ice-cold PBS,resuspended in binding buffer $( 2 0 ~ \\mathsf { m m }$ Tris-HCl, $\\mathsf { p } \\mathsf { H } \\ 7 . 9$ ，500mMNaCland $5 ~ \\mathsf { m m }$ imidazole).The mixture was disrupted by high pressure cell disrupter with an output of 1500 W(1500 bar,JN-02C,JNBlO,Guangzhou,China).Cellular debris was removed by centrifugation at $8 0 0 0 \\times g$ for $3 0 \\mathrm { m i n }$ at $4 ^ { \\circ } \\mathsf { C }$ and the resulting supernatants were loaded onto an affinity $N _ { 1 } ^ { 2 + }$ column (Qiagen Inc., Chatsworth, CA) pre-equilibrated with the binding buffer.After the column was washed with binding buffer,followed bywashing buffer $2 0 ~ \\mathsf { m m }$ Tris-HCI, pH7.9, $5 0 0 \\mathrm { \\ m u } \\ N a { \\mathsf C } { \\mathsf i }$ and $6 0 ~ \\mathsf { m m }$ imidazoleor $8 0 ~ \\mathsf { m m }$ imidazole),the protein was eluted with elution buffer $2 0 ~ \\mathsf { m m }$ Tris-HCl, ${ \\mathsf { p H } } 7 . 9$ = $5 0 0 \\mathrm { \\ m u } \\ N a { \\mathsf C } { \\mathsf i }$ and $2 5 0 ~ \\mathsf { m m }$ imidazole). The elution was collected and concentrated usinga 30,ooo MWCO concentrator (Millipore) in storage buffer (20 mm Tris-HCl,pH8.0,50 mM NaCl).The protein concentration was determined with the Bradfordassay (Bio-Rad). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Acs Activity Assay-The activity of purified Acs and site-directed mutants of K193R,K366R,K193R/K366R proteins were measured as described (56,57).Briefly,each reaction contained $5 0 ~ \\mathsf { m m }$ Tris-HCl $\\left( \\mathsf { p } \\mathsf { H } \\ 8 . 0 \\right)$ ， $6 0 0 ~ \\mathsf { m m }$ hydroxylamine-HCl (pre-neutralized with KOH),10 mM $\\mathsf { M g C l } _ { 2 }$ ,2mM DL-Dithiothreitol (DTT),1 mM Coenzyme A(CoA),30 mM ATP,and $5 \\mathsf { m m }$ potassium acetate.Reactions were pre-incubated at $3 7 ^ { \\circ } \\mathsf { C }$ for 5 min before the addition of purified proteins $( 1 \\mu \\kappa )$ Samples without protein served asa blank,and formation of acetylhydroxamate by acetyl-phosphate (AcP) served as a standard.After 10 min incubation,the reactions were quenched by adding an equal volume of stop solution $[ 2 . 5 \\%$ (w/v) $\\mathsf { F e C l } _ { 3 }$ in $2 \\textsf { M H C l }$ ， $10 \\%$ (w/v) trichloroacetic acid]. The reaction products were centrifuged to remove turbidity,and then measured at $5 4 0 ~ \\mathsf { n m }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "InVitro Desuccinylation ActivityAssay-Thepurified recombinant CobB and Acs were incubated in $5 0 ~ \\mu \\vert$ of reaction buffer $( 5 0 ~ \\mathsf { m m }$ Tris-HCl, ${ \\mathsf { p H } } 8 . 5$ ，137 mM NaCl,2.7 mM KCl,1 mM ${ \\mathsf { M g C l } } _ { 2 } )$ with or without $5 0 0 ~ \\mu \\mathrm { M }$ （204 $\\mathsf { N A D } ^ { + }$ and in the presence or absence of $2 ~ \\mathsf { m m }$ Nicotinamide (NAM).The mixture was incubated at $2 5 ^ { \\circ } \\mathsf { C }$ for $1 0 \\mathrm { ~ h ~ }$ The reaction products were analyzed by SDS-PAGE and Western blotting. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Molecular Dynamics Simulations-The initial model of the Acs module was prepared from the available crystal structure (PDB code 2P20, $5 0 . 5 6 \\%$ sequence identity) via structural modeling using CPHmodels 3.2 Server (http://www.cbs.dtu.dk/services/CPHmodels).All simulations were based on the initial model and a total of seven systems were prepared for simulation using GROMACS 4.5.5 (58) in conjunction with the OPLS-AA/L all-atom force field (59).The protein was then solvated in simple point charge (SPC) water molecules in a cubic box (6O)，with the box edges ${ \\sim } 1 . 0 ~ \\mathsf { n m }$ fromany atom of the protein,and eighteenadditional ${ \\mathsf { N a } } ^ { + }$ ions were added to neutralize the charge of each system.Each system was then energy minimized usinga steepest descents integrator either until the maximum force was less than $1 0 0 0 ~ { \\mathsf { k J / m o l / n m } }$ on anyatom or until additional steps resulted in a potential energy change of less than $1 \\mathrm { ~ k J / m o l }$ .Next, the simulations were performed undera constant temperature of $3 0 0 ~ \\mathsf { K }$ and the V-rescale algorithm (61) was used with a temperature coupling time constant of 0.1 ps.All bond lengths were constrained using the linear constraint solver (LiNCS) algorithm (62).Van der Waals interactions used a simple cut off at $1 . 4 \\ : \\mathsf { n m }$ and long-range electrostatic interactions were handled using the particle mesh Ewald (PME) method (63,64) with a fourth-order spline interpolation and a $0 . 1 \\ \\mathsf { n m }$ Fourier grid spacing.Once each system was sufficiently equilibrated around the target temperature,isotropic was used for pressure couplingand the constant pressure was set to 1.0 bar in all directions and a pressure coupling time constant of 1.0 ps.Finally,each system was subjected to 10 ns of molecular dynamics (MD) simulation and the time step used in the simulations was 2 fs.All analyses were performed using the GROMACS suite of tools and a secondary structure recognition algorithm (DSSP) (65)，which was implemented in GROMACS.The PyMOL Molecular Graphics System (version 1.7.2, http://www.pymol.org) was employed to present the structural results of this study. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DetectionofProteinLysineSuccinylationinMtb-Toexamine the diversity and relative abundance of lysine succinylation proteins from different growth conditions of Mtb，Western blotting analysis was performed using with a polyclonal antisuccinyl lysine antibody (Fig.1).The virulent Mtb strain H37Rv were grown in minimal medium,either without an additional carbon source or treated with pyruvate，glucose，glycerol, succinate，or acetate and harvested at 30 day or 60 day. Strong immunoblot signals were observed at both 30 dayand 60 day (Fig.1),indicating that lysine succinylation was abundant in H37Rv under different culture conditions.Immunoblots with succinylated or non succinylated BSA confirmed that the protein bands detected were specific (Fig.1). However, succinylation signals were stronger when H37Rv were grown in medium containing succinate or pyruvate as a sole carbon source than those in no carbon medium (Fig.1),suggesting that different growth mediums may alter the lysine succinylation profile.As expected,Mtb exhibited different growth rate in media containing different carbon source (supplemental Fig. S1).These results implied that the lysine succinylation is likely linked with energy metabolism in Mtb.Moreover，as shown in supplemental Fig.S2,we obtaineda similar result as previously reported on lysine acetylation (66) when the strain was grown on different carbon source. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Enrichmentand ldentification ofLysine Succinylation Sites in Mtb-To identify the lysine succinylation sites in Mtb,we usedasimilarprocedure aspreviouslydescribed (7，14，16) (Fig.2A). In total,we identified 1561 unique modified peptides encompassing 1545 succinylation sites (class I) from 626 proteins with a FDR below $1 \\%$ for modified peptides.The proteomic data showed that $6 1 . 4 \\%$ of identified unique peptides (2541)across $8 4 . 5 \\%$ of the identified proteins (741) were immune-enriched,indicating the highly efficient enrichment procedure were used in this study (Fig.2B and 2C).All spectra containingsuccinylation were manually inspected to ensure diagnostic b- or y-ion series as previously described (44,45). Detailed information of all identified succinylated peptides are provided in the supplemental Table S1. The raw data has beenuploaded onto a public database PeptideAtlas (http:// www.peptideatlas.org) and can be accessed through the following link: http://www.peptideatlas.org/PASS/PASS00518. Annotated peptidespectra forall succinylated peptideswere deposited in PeptideAtlas and supplied as supplementary Dataset. The average peptide score was 117.9402 (Fig.2D) and the overall absolute peptide mass accuracy was 0.5752 parts permillion (ppm) (standard deviation,0.6173 ppm) (Fig. 2E)，confirmingthe high accuracy of modified peptide data obtained from MS.Furthermore,to assess the distribution of the average modified peptide length and succinylation sites, we calculated the number of amino acids per peptide and identified modification sites per protein.Supplemental Fig. S3A showed that the average peptide length was 15 amino acidsand theaveragesite coverage per identified protein was three lysine succinylation sites (supplemental Fig.S3B).We reasoned that multiple succinylation sites on one protein may playan important role in stabilization/destabilization of protein conformation and fulfill the delicate regulatory function. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/682f419f624a1f83661bfb05e25dfc8be0dcf596ebeda8240f26a6deecfb3d49.jpg",
+        "img_caption": [
+            "FIG.2.ProfinglysinesuccinylomeinMtbH37Rv.AWorkflowforsuinylomeanalysisofMtbH37Rv.B,Venndiagramshowingthe numberof identified succinylated peptides.C,Venn diagramshowing the numberof identified succinylated proteins. $D$ ,Distribution of peptide score.E,Distribution of precursor mass deviations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/16f1780d9c6cfeba8b558bea17a15c4bfe472bea61657320de8d756d48a9ddad.jpg",
+        "table_caption": [
+            "TABLE I Comparisonof Mtb H37Rv succinylomewith other published succinylomes.“su\" $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ succinylation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Species</td><td>Genome size (Mb)</td><td>Proteins</td><td>No. of su-sites</td><td>No.of su-proteins</td><td>Homologue with H37Rv</td><td>Ref</td></tr><tr><td>E. coli DH10B</td><td>4.47</td><td>4,124</td><td>2,580</td><td>670</td><td>128</td><td>(14)</td></tr><tr><td>E.coli BW25113</td><td>4.64</td><td>4,141</td><td>2,572</td><td>990</td><td>153</td><td>(16)</td></tr><tr><td>S.cerevisiae S288c</td><td>12.16</td><td>5,906</td><td>1,345</td><td>474</td><td>60</td><td></td></tr><tr><td>H.sapiens (HeLa)</td><td>3,209.29</td><td>67,778</td><td>2,004</td><td>738</td><td>24</td><td></td></tr><tr><td>M. musculus (liver)</td><td>2,798.79</td><td>73,462</td><td>2,140</td><td>750</td><td>58</td><td></td></tr><tr><td>D.melanogaster</td><td>139.485</td><td>17,526</td><td>-</td><td>104</td><td>6</td><td>（7）</td></tr><tr><td>M.musculus (MEFs)</td><td>2,798.79</td><td>73,462</td><td>2,565</td><td>779</td><td>75</td><td>(19)</td></tr><tr><td>M.musculus (liver)</td><td>2,798.79</td><td>73,462</td><td>1,190</td><td>252</td><td>45</td><td>(20)</td></tr><tr><td>M.tuberculosis H37Rv</td><td>4.41</td><td>4,018</td><td>1,545</td><td>626</td><td>-</td><td> In this study</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Conservation of Succinylated Proteins-To explore the evolutionary conservation of all identified lysine succinylation sites in this study，we searched the orthologs of 626 succinylated proteins of Mtb against the following previously reported succinylomes:Escherichia coli DH10B (14)，Escherichia coli BW25113 (16)，Saccharomyces cerevisiae S288c (16),Homo sapiens (16),Mus musculus (16),and Drosophila melanogaster (7).Theorthologsthatshowedthe highest homology to each other in both directions were counted and reported as the percentage of the total number of proteins in all analyzed species.The percentage of Mtb homologs of succinylated proteins in diverse organisms is showed in Table I.As a result of a global homology search using the amino acid sequence of target proteins,orthologs of 205 $( \\sim 3 2 . 7 \\% )$ Mtb succinylated proteins can be detected in the succinylomes of other species (supplemental Table S2).Moreover, we found that164 and 107 Mtb succinylated proteins have succinylated homologs in bacterial and eukaryotic cell, respectively (supplementalFig.S4).Interestingly，most succinylated proteins are involved in central carbon metabolism and lipids metabolism.These conserved succinylation events suggest that succinylation may playan important role in essential biological processes in this pathogen. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Functional Annotationand CellularLocalizationofSuccinylated Proteins-To betterunderstand the lysine succinylome in Mtb,we performed functional annotation analysis using the Gene Ontology (GO),Kyoto Encyclopedia of Genes and Genomes (KEGG),and Pfam database.Firstly,we investigated the GO functional classification of all the succinylated proteins based on their biological process and molecular function (Fig. 3).The classification results for biological process showed that the largest protein group of succinylated proteins was related to growth $( 2 6 . 6 0 \\% )$ ，followed by cellular process $( 1 8 . 4 4 \\% )$ ，metabolic process $( 1 7 . 0 4 \\% )$ and response to stimulus $( 9 . 3 3 \\% )$ .Interestingly, $1 . 0 5 \\%$ and $0 . 1 2 \\%$ of the total succinylated proteins were involved in immune system process and signaling,respectively,which could be an important mechanism for the survival of Mtb.In the molecular function classification,most succinylated proteins were related to the binding of various targets and enzyme activity.Approximately half of the lysine succinylated proteins $( 5 0 . 7 6 \\% )$ were categorized as catalytic activity-related proteins.Another large succinylated protein group is binding to targets $( 4 5 . 4 5 \\% )$ (supplemental Table S3).Within the cluster of cellular localization,a total of $7 4 . 4 4 \\%$ of the succinylated proteins was in the cytoplasmic category by the bacterial protein subcellular localization prediction program PSORTb (47). This result was alsoin agreement with the biological process analysis that most succinylated proteins were involved in cellular metabolism. Importantly，we also found that a sizable portion of succinylation proteins were located on cytoplasmic membrane $( 1 1 . 9 8 \\% )$ ，cell wall $( 0 . 4 8 \\% )$ ，and extracellular $( 0 . 8 \\% )$ These proteins could play a role in regulating the enveloperelated proteins to impact the virulence of mycobacteria. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Tofurtherelucidate the biological functions of succinylated proteins,we performed enrichment analysis using Cytoscape plugin BinGO.As shown in supplemental Figs.S5 and S6, the succinylated proteins were mostly enriched in growth $( \\pmb { \\rho } =$ $9 . 8 6 \\times 1 0 ^ { - 1 5 } ,$ ，and also statistically enriched in cellular metabolism process with specific enrichment in cellular ketone metabolic process $( \\pmb { \\rho } = 3 . 6 \\times 1 0 ^ { - 9 } )$ ，carboxylic acid metabolic process $( \\pmb { \\vert \\rho } = 3 . 8 6 \\times 1 0 ^ { - 9 } )$ ，oxoacid metabolic process $( \\pmb { \\vert \\rho } = 3 . 8 6 \\times 1 0 ^ { - 9 } )$ ，and organic acid metabolic process $\\varphi =$ $3 . 8 6 \\times 1 0 ^ { - 9 } )$ (supplemental Fig. S5 and supplemental Table S4A).Consistently, the GO enrichment analysis of molecular functions further demonstrated that many functions were enriched in our set,including catalytic activity and binding (supplemental Fig. S6 and supplemental Table S4A).We next performed cellular compartment analysis of all succinylated proteins and obtained the similar results.As expected，a significant portion of succinylated proteins were significantly enriched in membrane and cell wall (supplemental Fig. S6 and supplemental Table S4A).Moreover, proteins involved in ribosome，citrate cycle (TCA cycle)，fatty acid metabolism, glycolysis/gluconeogenesis,pyruvate metabolism，oxidative phosphorylation，glyoxylate，and dicarboxylatemetabolism were also enriched,as determined through the KEGG pathway analysis (supplemental Fig.S7 and supplemental Table S4B),indicating that lysine succinylation substrates were associated with the ribosome and cellular metabolism events. The Pfam domain analysis illustrated that most succinylated substrates were enriched with the acyl-CoA dehydrogenase domain,which catalyzed the first step in the $\\beta$ -oxidation of fattyacids and catabolism of some amino acids (supplemental Fig. S7 and supplemental Table S4B). Taken together, these findings suggested that the identified succinylated proteins have a wide distribution of functions and cellular localizations and render particular enrichment to metabolic process in Mtb. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea325a45fc4412b062da6f123aaa70eb74100922abbb28d76412fdafcff5dfc7.jpg",
+        "img_caption": [
+            "FIG.3.Histogramrepresentationsofthedistributionof identifiedsucinylatedproteinsaccording totheir biologicalprocesses, molecular functions and cellular localization. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Sequence RecognitionMotifsandLocal Structural Properties-We further compared the position-specific amino acid frequencies of the surrounding sequences (six amino acids to both termini) of succinylated lysine residues with those of al lysine residues that occurred in the Mtb proteome.We found that negatively charged amino acids (glutamic acids)was drastically overrepresented at position -1 using motif-X (Fig. 4A and supplemental Table S5A).Then，we compared our datasets to the reported succinylome of E.coli,showing that the succinylation pattern found in E.coli BW25113 were quite different from Mtb site-specific succinylation motifs. Interestingly,the same amino acid (glutamic acids) was preferred at position $+ 1$ in E.coli DH1oB.To further assess if there is significant enrichment or depletion of specific amino acids with respect to the general amino acid composition of the entire proteome,a position-specific intensity map was generated as previously described (42).The result showed a preference for polar acidic and polar basic amino acids (Fig. 4B).It can be seen that aspartic acid was most commonly found at $+ 1$ and glutamic acid was most commonly found at $^ { - 1 }$ ， $+ 2$ ：Aswell，we observed a significant preference for lysine at the $^ { - 6 }$ to $^ { - 4 }$ ，and $+ 5$ positions.These results indicated that succinylation preferentially occurred in lysinerich regions and polar acidic/basic amino acid regions of proteins.We next compared these data with the patterns generated from other succinylomes.Although we did not detect a strong bias fora specific succinylation site motif in E.coli DH1oB,there were modest biases for flanking amino acid residues.The different preference of amino acid residues surrounding lysine sites suggested the unique substrate preferences in Mtb.Next,we predicted the structural features of lysine succinylation sites in identified proteins with NetSurfP algorithm (55).As expected, succinylation sites were enriched on the protein surface $( 8 4 . 4 \\% )$ as compared with $7 5 . 5 \\%$ of the all lysine residue $( p ~ = ~ 3 . 0 7 9 ~ \\times ~ 1 0 ^ { - 2 } )$ . In accordance with previous report (16)，the succinylated lysine was more fre",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/9ca2fed9674422c73809434f5bd7a0fe007776491297564c2df47e04747c02a8.jpg",
+        "img_caption": [
+            "E.coliBW25113 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "E.coliDH10B ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/9f9ada7082111cc204a4126f4ad89556023e190db41a2877a8a0f7ae7b2184c5.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "M.tuberculosisH37Rv ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/90df3144e0c332a1cf1c5cf14d9d26b56dd7f14868b5464ee939879ac089f7db.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/526fdaa16e4065a546caecc3bd3e10a68c04d23a8f8b8c4c9a2095befd414273.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/dbc66491ccdef3c2eaefc81ba68a21990a885787025affc3ed0871ad26297b52.jpg",
+        "img_caption": [
+            "FIG.5.Thecompleteinteractionetorkofidentifiedsuccinylatedproteinsandtheirinteractingproteins.Thesuccinylatedproteins weregroupedusingfunctionalannotationandinteractionnetworkwasvisuaizedwithCytoscape.Therednodeborderrepresentsthe identified succinylated proteins. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "quently found in structured regions.Overall, $5 4 . 4 \\%$ of succinylated lysines were predicted to be localized in $\\alpha$ helix and $\\beta$ sheet structures in comparison to $4 5 . 5 \\%$ of all lysines (Fig. 4C and supplemental Table S5B).Therefore, lysine succinylation may have an effect on the surface properties of modified proteins similar as other PTMs,such as acetylation and phosphorylation. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Functional Interaction Networksof Succinylated Proteins in Mtb-We generateda protein interactionnetwork of all succinylated proteins using protein interaction information.The protein interaction map was visualized using Cytoscape (48) and consisted of a large network covering 1672 proteins among which there were 462 identified succinylated proteins (supplemental Table S6). Although further functional experimentswere needed to validate the potential interactions,such bioinformatic analysis should be useful for formulating testable hypotheses to understand the function of the identified succinylated proteins in Mtb.Then,the functional category was used to group the identified proteins (supplemental Table S7).As shown in Fig.5, several complexes and cellular functions formed prominent and highly connected clusters,such as cell wall and cell processes,intermediary metabolismand respiration, lipid metabolism,and virulence detoxification adaptation.The interaction networks of succinylated proteins involved in the ESX systems aswell asvirulence,detoxificationand adaptation function in Mtb are illustrated in supplemental Fig.S8.We speculate that the physiological interaction among these protein clusters might contribute to the cooperation and/or coordination of their functions in the control of diverse signaling and regulatory pathways in Mtb. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Succinylationof Enzymes Involved in Central Metabolism一 Increasing evidences show that lysine succinylation may play aregulatory role in metabolic pathways,similarwith lysine acetylation (4, 67).We investigated the succinylation of metabolic enzymes in Mtb by mapping succinylated proteins to KEGG metabolic pathways (supplemental Table S8)． As shown in Fig.6,a large proportion of metabolic enzymes were succinylated.The fact that nearlyall enzymes in majormetabolic pathways are subjected to succinylation implies that this PTM may regulate cellular metabolic process at multiple levels in Mtb.For example，a large proportion of metabolic enzymes were mapped to two essential pathways for the growth and survival of Mtb,i.e.mycolic acid biosynthesis (supplemental Fig. S9A) and purine nucleotides de novo biosynthesis pathways (supplemental Fig.S9B),were identified to be succinylated. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "D glucono 1, 5 Glucose Gnd1 lactone phosphate PpgK Ribulose 5 Gnd2 · 6 phosphate Glucose 6 phosphate ·RpIB phosphate Rpe gr Frutose↑ t opate Ribose 5 Xylulose 5 phosphate · pjkA,pfkB ↓↑GIpx· phosphate phosphate Tkt· Fructose 1-6-bisphosphate T Fba· ·Tkt Glyceraldehyde Tr Dilydrogyaetoie $$ Glycerol-yhosphate $$ Glycerol Sedoheptulose 7 phosphate Gap· Key: Tal· 1,3 bisphosphoglycerate Glycolysis/gluconeogenesis √↑ Pgk· PCavate deyrogenase Prhosprae4 Frustoat 6 3 phosphoglycerate Glyoxylate shunt ↓↑ PgmA • ridytionral eatyacids 2 phosphoglycerate Methylmalonyl pathway ↓↑ Eno· 2 \" ACS· > Acetyl-CoA 1 acetyl-ADPr 2(3)-0- NAD\\* · EchA1/A3/A5/A6/A7...A21... CitA, GltA · $$ Mycolicacid synthesis CO2 Propionyl CoA Oxaloacetate Rv3075c CitE AccA3, AccD5, AccE5+ PrpC ·Mdh Citrate (S)-methylmalonyl CoA Methylisocitrate Acn· Malate Ie12 (R)-methylmalny CA PrpD ·Fum Glyoxylate Icll· Isocitrate MutA, MutB · ·Acn Fumarate Icd1,Icd2 · GlnA3/4 Methylisocitrate Gdh · GlnA1/2 · Succinyl CoA ·Icl1Icl2 SdhA SdhBCD α ketoglutarate Glutamate L-glutamine ? Sauiras e →CoASH SucC/D· Suciat s sac KorAB· Kgd · GadB · ACS / CobB'√ ACS $\\cdot$ Acetyl-CoA semialdehyde Succinic CbT GABA NAD+ 2'(3)-0- GabD1,GabD2· acetyl-ADPr ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Confirmationof Succinylated Proteinsby lmmunoprecipitationand Westernblotting-Based on howwell theirbiological functionsand importance are understood,ten newlyidentified succinylated proteins，including AtpA，AtpF，KasA，DesA1, FadD31,Fgd1,GlcB,HspX,MtrA,andPks2,were selected for verification.These proteins were subjected to IP and Western analysis (supplemental Fig.S1O).The immunoprecipitated proteins were first confirmed by their specific antibodies. Anti-succinyl lysine antibody detected the respective proteins,confirming that they contain succinylated lysine residues.In comparison, the unmodified BSA (negative control protein) was not detected by anti-succinyl lysine antibodies, whereas the immuno-reactive signal was strongly observed when the succinylated BSA was used as positive control (supplemental Fig. S1O).These data provided additional biochemical evidence for these identified succinylated proteins. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "EffectofSuccinylation onAcs Activity-Acsplaysacrucial role in central metabolism and is important for maintaining adequate levels of Ac-CoA,ametabolite of many anabolic and catabolic processes.Itisreported thatacetylation of Acs completely abolishes the conversion of acetate to Ac-CoA (57,68,69) (Fig.7A). In this study,we identified two reliable succinylation sites on Acs,Lys193 and Lys366 (Fig.7B).We speculate that the Acsactivity may be regulated by reversible succinylation.To test our hypothesis,the acs gene of Mtb was cloned and was overexpressed as a His-tagged fusion protein,which was purified by ${ \\mathsf { N i } } ^ { 2 + }$ chromatography.As shown in Fig.7C, the recombinant Acs were both acetylated and succinylated.Based on the conservation analysis,lysine at 193 (in coil) and 366 (in $\\alpha$ helix) positions of Acs were conserved in the Mtb orthologs,suggesting that these residues could be important for an evolutionarily conserved function (supplemental Fig.S11A).To determine the functional consequences of succinylation on Acs acitivity，we converted the modified residues at the two positions (Lys193 and Lys366) to arginine (R),which essentially locks Acs into a constitutively desuccinylated state.All mutations were verified by both DNA sequencing(supplementalFig. S11B) andMSanalysis (supplemental Fig.S11C-S11F).Then,we measured the enzymatic activity of Acs and its mutants.The results showed that mutation of Lys193 and Lys366 to R (K193R, K366R, K193R/K366R)，which conserved the positive charge and structure with unmodified lysine (15), led to a significant increase of the enzymatic activity $( p < 0 . 0 1$ ）(Fig.7D).These datasuggest that succinylation on Lys193 andLys366 was a negative regulatory modification on Acs activity. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/7548c129804d2ba7fe0b18f776ed88900c6d52fad94fc1307b4d4b218a649ef7.jpg",
+        "img_caption": [
+            "FIG.7.SuccinylationprofingofAcsofMtb.A，SchematicilustrationofregulationofAcsactivitybyreversibleacetylationand succinylation.Bdentificationoftemodificationsitefs.eepresentatioofthoespoding/Mspectraofsuciylated peptidesfromAcsannotatedwithacomprehensiveseriesofbandyfragmentions.Detailsofsuccinylationsiteswerelistedinthe supplementalTableS.CeacetylatiouciylatiovelsofpurfiedecombinantAcseredeternedbyimmunoblotingsingspecific anti-acetyl/succinyl lysine antibodies. $D$ ，Succinylation of Lys193 and Lys366 affct the enzyme activity of Acs.The Acs and its mutants (Acs-K193R,Acs-6,andc-9R)eexpessdinE.olB1(DE3)ndtespificctitfssetedata are means $\\pm \\thinspace 5 . 0$ .from three independent assays.E, ${ \\mathsf { N A D } } ^ { + }$ -dependent deacetylation/desuccinylation of Acs by CobB protein (Rv1151c).Acs was incubated with CobB in the presence of ${ \\mathsf { N A D } } ^ { + }$ 1 $\\mathsf { . 0 . 5 } \\mathsf { m m }$ for10hat $2 5 ^ { \\circ } \\mathsf { C }$ .Nicotinamide (NAM,2 mm) was added to the reaction as CobB inhibitor. $F$ ，Quantificationof acetylated/sucinylatedAcsin thereactions fromE.Each sample was standardized bycomparing to the Coomassie blue stained gel. Error bars indicate S.D.of three measurements. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$N A D ^ { + }$ Dependent Desuccinylase Activity of Mtb-The sirtuin proteins,which are one conserved family of deacetylases, have a unique ability to remove acetyl and other acyl groups from protein lysine side chains in a nicotinamide adenine dinucleotide $( N A D ^ { + } )$ -dependent manner (7O).Recently，the human sirtuin protein (Sirt5) was showed to be an efficient $\\mathsf { N A D } ^ { + }$ -dependent protein lysine desuccinylase and demalonylase (8,71). In E.coli,a sirtuin-like protein CobB has deacetylase/desuccinylase activity (14).In Mtb H37Rv，the sirtuin-like protein,CobB (Rv1151c) is able to deacetylate Acs (57,69).Thus,CobB may have desuccinylase activity in Mtb H37Rv.To test this possibility，we expressed and purified CobB to measure the protein desuccinylase activity in the presence of $\\mathsf { N A D } ^ { + }$ .As shown in Fig. 7E and $7 F$ ，CobBcan desuccinylate Acs,while no reduction of succinylation was observed when CobB or $\\mathsf { N A D } ^ { + }$ was withdrawn from the reaction.Consistent with previous reports，CobB can also deacetylate Acswith similar efficiency (69,72).Therefore,our data suggest that CobB is a bifunctional enzyme with both lysine desuccinylationand deacetylationactivities in Mtb. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Molecular Dynamics Simulations of Acs-To gain insight into potential mechanisms by which succinylation might affect Acs enzymatic activity，we used molecular dynamics (MD) simulations to determine how succinylation of K193 and K366 influences the structure of Acs. It is reported that Acs uses the CoA as substrate to form the Ac-CoA complex and the residues in Acs that interact with the CoA may affect the binding of Acs with CoA by changing the conformation (73). In this study,we found the CoA-binding region marked with circular section in the unmodified Acs of Mtb,suggesting that the Acs could interact with the substrate CoA (Fig. 8A and supplemental Movie S1).When the lysine residues at 193 and 366 positions were mutated to R,we found that the CoA binding region in the mutants and the protein structures were almost accordance with the unmodified Acs structure (Fig. 8B-8D and supplemental Movies S2-S4). Therefore, the mutation of lysine residue to R can lock Acs into a constitutively desuccinylated state and maintain the protein structures to bind with CoA.The MD simulations of the succinylated Acs (K193su, K366su,K193su/K366su) showed that succinylation of K193 and K366 resulted in the change of charge at each modified position and led to the conformation change at this region,which may prevent the binding of Acs with CoA (Fig. $8 E - 8 G$ and supplemental Movies S5-S7). Therefore, succinylation at K193 and K366 could change the residue charge status from $+ 1$ to -1 and consequently disrupt the favorable interaction with the near helix region,leading to partially or completely perturbation of the neighboring regions and destabilization of the protein conformation.As shown in Fig.8H and 8/, the structures of succinylated (K193su, K366su, and K193su/K366su) and unmodified Acs were significantly different,whereas the R mutants (K193R，K366R，and K193R/ K366R) showed nearly identical structures with the unmodified Acs during the entire course of simulations.Furthermore, K193 and K366,which were positively charged before succinylation,were located in coil and $\\alpha$ helix region,respectively. The simulations showed that the mutants and unmodified Acs shared the similar secondary structures and underwent little change from the starting to their final states.However, the secondary structures of succinylated Acs were significantly different from that of unmodified Acs (Fig.8J and $^ { 8 K ) }$ . Owing to the perturbation of the secondary structures and the conformational fluctuations,the structures of succinylated Acs havea strong tendency to form the hydrophobic solventaccessible surface area (Fig.8L and 8M).Together， these observations suggest that the R mutants mimic the structure of unmodified Acs at the molecular level and the succinylation could influence the conformation of Acs. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In this study,we report the first extensive data on lysine succinylome in the virulent Mtb strain H37Rv.A total of1561 unique modified peptides encompassing 1545 succinylation sites (class l) were identified from 626 H37Rv proteins.Because lysine succinylation has emerged as an important regulatory PTM and may impact diverse metabolic pathways,our dataset provides a rich resource of putative regulatory modification sites in this life-threatening pathogen.We show that proteins inmajor metabolic pathways are targeted by succinylation.These pathways include glycolysis,fattyacid oxidation，TCA cycle,and mycolic acid biosynthesis，which are crucial components of Mtb's energy metabolic networks. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Among all metabolic pathways,mycolic acid biosynthesis pathway is unique to mycobacteria and is crucial for their success as pathogens (74).Our data showed that a large proportion of enzymes in mycolic acids biosynthesis pathway were succinylated (supplemental Fig.S9A). For example, the single fatty acid synthase (FAS) I type protein FAS,which generates CoA esters from Ac-CoA primers,creating precursors for elongation by all other fatty acid and polyketide systems,was found to be succinylated.In FAS-ll system of mycolic acid biosynthesis，sets of enzymes，which can be inhibited by many drugs used in treatment of TB (75),were also succinylated.Therefore,the reversible succinylation,although the mechanism remains unknown,could be an important mechanism for regulating the interaction of these drugs with FAS-ll-related enzymes,and could also be targets for novel drug therapies.The recent observation showed that Mtb is metabolically flexible and can even alter the host cellular metabolism,such as the pathogen-induced dysregulation of host lipid synthesis,to create a niche that is ideally suited to its persistent lifestyle (76).Mtb can utilize the lipid bodies accumulated in the infected host as a nutrient source via $\\beta$ -oxidation pathwayand this seems to sustain intracellular Mtb ina physiological state.Thus,aside from fatty acid biosynthesis pathway，the $\\beta$ -oxidationoffattyacids，which serves as carbon and energy source，is also required for survival of Mtb in the infected host cell (77). Several enzymes involved in this pathway were found to be succinylated in this study (Fig.6),indicating that lysine succinylation may play a crucial role in regulating the fatty acid metabolism of Mtb during infection. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/47f9a6aa00d9acd830f2d0a0f3053bfb062939759ffb80efc9061183bd6c6655.jpg",
+        "img_caption": [
+            "FIG.8.StructuralmodelingofAcs.FinalstructuresofthesimulationsofAcswereshown.Thecircularsection marks theCoA-binding region A-D.A, Nonsuccinylated (Wt) Acs.Site-directed mutants of $B$ ,Acs-K193R;C,Acs-K366R;and $D$ ,Acs-K193R/K366R.Acs succinylated at E, K193; $F$ ,K366;and G,K193 and K366. $H - I$ ,Analysis of the root mean square deviations (RMSDs), root mean square fluctuations (RMSFs) and radius of gyrations (Rgs) for the different Acs systems. $( T o p )$ Trajectories of the overall RMSDs of the different Acs systems.(Middle) Radius of gyrations profiles of the different Acs systems. (Bottom)Residue-specific RMSF profiles of the diferent Acs systems. $J { - } K ,$ Secondary structureevolutionofAcsanditsmutants.Theevolutioninsecondarystructureateachframewasmonitoredusing thedictionaryofprotein secondarystructure(DSSP)algoritm.Inthestripeseachpixelepresentsthesecondarystructure(color-coded)ofaresidue(185-190or 355-370, $\\mathsf { x }$ -dimension) at a given time in simulation (y-dimension). $L { - } M$ ,Time evolution of the solventaccessible surface area (SAS) calculated for the different systems that were simulated. "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "It isnowwidelyacceptedthatmetabolic adaptationto the host environment is a defining feature of the pathogenicity of Mtb (38,78).However,we lack biochemical knowledge of its metabolic networks and how theyare regulated.The succinylCoA is a succinyl donor to lysine and the concentration of succinyl-CoA may regulate succinylation levels globally.Our understanding of the role of succinyl-CoA and lysine succinylation on the control of Mtb metabolism remains rudimentary. However, their importance in the control of metabolism in bacteria,yeast and human,and the conservation of the enzymes involved in these pathways in Mtb,suggest that lysine succinylation may work together with many other PTMs to regulate the metabolic pathways of Mtb.Mtb may have unique mechanisms involved in controlling metabolic flux via succinyl-CoA and protein succinylation，because it resides in humans as its only known natural host and a large part of the energy status in Mtb occurs through the interaction with the human cells (35).Reversible succinylation isa strong candidate for dynamically controllingmetabolic pathways and enablingMtb to adapt to the changing host environment.To better understand the role of succinyl-CoA and protein succinylation in Mtb metabolism, it is essential to acquire an in-depthdescription of the succinylome in Mtb.Furthermore,it is important to understand how the succinylationofmetabolicenzymes regulatesmetabolic pathways in Mtb.More studies need to be done to accomplish this. Firstly，examine how environmental conditions as well as the carbonand energy balance of Mtb cells can influence the level of lysine succinylation. Secondly, determine the effects of succinylationonenzymaticactivity.Thirdly, identify lysinesuccinyltransferase and desuccinylase involved in controlling the succinylation status of proteins in Mtb.In mammalian cell, the histone H3 propionylation might be generated by the histone acetyltransferase p3o0 and that selection of donormolecules (propionyl-CoA versus acetyl-CoA) may determine the difference of modifications (79).In this study,we identified the first desuccinylase，CobB，inMtb，however，it remains unknown whether succinyltransferaseand moredesuccinylasesexist in Mtb.Acetylation of Acs by the acetyltransferase (Pat) inactivatedtheenzyme inS.enterica,whereasdeacetylationbythe CobB reactivated it (8O).We found the Pat homolog in Mtb (Rv0998) and further studies are thus necessary to identify the succinyltransferase in Mtb. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Being only one of many PTMs,lysine succinylation competes with other modifications,such as acetylation，for the same lysine residues.Accumulatingevidence indicated that lysine acetylation is a conserved PTM that links Ac-CoA metabolism and cellular signaling (81，82).Acs is the enzyme catalyzes the conversionofacetate into Ac-CoA and the level of Ac-CoA can fluctuate according to the changing metabolic conditions (83). In this study,we demonstrated that the enzymatic activity of Acs is affected by the lysine succinylation. It is thus expected that crosstalk exists between protein succinylation and acetylation may modulate protein activityand metabolic pathways in both Mtb and human cells.Jungblut and Schluter proposed a systematic nomenclature for the comprehensive description of protein species and suggested that protein species sequence including PTMs should replace the basic unit protein sequence (84,85).Therefore,our succinylome data may help to provide the accurate and detailed description of protein species in Mtb and to elucidate potential biologicalrolesof each proteinspecies. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In summary,we report the first large-scale,high resolution MS-basedsurveyof lysine succinylation in Mtb.The provided dataset may serve as important starting point for assessing the functional relevance of succinylation sites in this lifethreatening pathogen. Given that the high abundance of lysine succinylation and its induced conformation fluctuation,it is likely that reversible succinylation may be an important regulatory mechanism in metabolism.It would be interestingand important to investigate the biological functions of reversible succinylation in metabolic regulation in Mtb. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "\\* This work was supported by the National Basic Research Program of China (973 Program,2012CB518700),the Strategic Priority ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Research Program of the Chinese Academy of Sciences (Grant No. XDB14030202),the Key Program of the Chinese Academy of Sciences (KJZD-EW-LO2),and National Natural Science Foundation of China to C.Z. (31271362). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "SThis article contains supplemental Figs.S1 to S11,Tables S1 to S7,and Movies S1 to S8. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "To whom correspondence should be addressed: Institute of Hydrobiology, Chinese Academy of Sciences,Wuhan 430072,China. Tel./Fax: +86-27-68780500;E-mail: gefeng@ihb.ac.cn. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "1.Olsen,J.V.,and Mann,M. (2013) Status of large-scale analysis of posttranslational modifications by mass spectrometry.Mol. Cell.Proteomics 12,3444-3452   \n2.Zhao,Y.,and Jensen, O.N. (2009) Modification-specific proteomics: strategies for characterization of post-translational modifications using enrichment techniques.Proteomics 9, 4632-4641   \n3.Miao,J.,Lawrence,M.,Jeffers,V., Zhao,F.,Parker,D.,Ge,Y.,Sullivan, W.J.,Jr.,and Cui,L. (2013) Extensive lysine acetylation occurs in evolutionarily conserved metabolic pathways and parasite-specific functions during Plasmodium falciparum intraerythrocytic development.Mol. Microbiol. 89,660-675   \n4.Zhao,S., Xu,W., Jiang,W.,Yu,W.,Lin,Y., Zhang,T.,Yao,J., Zhou,L., Zeng,Y.,Li, H.,Li,Y., Shi, J.,An,W.,Hancock,S.M.,He,F.,Qin,L., Chin,J.,Yang,P.,Chen,X.,Lei, Q., Xiong,Y.,and Guan,K.L. (2010) Regulation of cellular metabolism by protein lysine acetylation.Science 327,1000-1004   \n5. Zhang,J., Sprung,R.,Pei,J., Tan,X., Kim,S., Zhu, H., Liu,C.F.,Grishin, N.V.,and Zhao,Y. (2Oo9) Lysine acetylation is a highly abundant and evolutionarily conserved modification in Escherichia coli. Mol. Cel.Proteomics 8, 215-225   \n6. Chen, Y., Zhao,W.H., Yang,J.S., Cheng, Z.Y., Luo, H., Lu, Z.K., Tan, M. J.,Gu,W.,and Zhao,Y. M. (2012) Quantitative acetylome analysis reveals the roles of SlRT1 in regulating diverse substrates and cellular pathways. Mol. Cell.Proteomics 11,1048-1062   \n7.Xie,Z., Dai,J., Dai, L., Tan, M., Cheng,Z.,Wu,Y., Boeke,J. D.,and Zhao, Y. (2012) Lysine succinylation and lysine malonylation in histones. Mol. Cell. Proteomics 11,100-107   \n8. Peng, C., Lu,Z., Xie,Z., Cheng, Z., Chen,Y., Tan,M., Luo, H., Zhang,Y., He,W., Yang,K.,Zwaans,B.M., Tishkoff,D.,Ho,L.,Lombard,D., He, T. C., Dai,J.,Verdin,E.,Ye,Y.,and Zhao,Y.(2011) The first identification of lysine malonylation substrates and its regulatory enzyme.Mol. Cell. Proteomics 10,M111 012658   \n9.Montelier,E.,Rousseaux,S., Zhao,Y.,and Khochbin,S.(2012) Histone crotonylation specifically marks the haploid male germ cell gene expression program: post-meiotic male-specific gene expression.Bioessays 34,187-193   \nI0.Tan,M.,Luo,H.,Lee,S.,Jin,F.,Yang,J.S.,Montelier,E.,Buchou,T., Cheng，Z.，Rousseaux，S.，Rajagopal，N.，Lu，Z.，Ye，Z.，Zhu，Q., Wysocka,J., Ye,Y., Khochbin, S.,Ren,B.,and Zhao,Y. (2011) Identification of 67 histone marks and histone lysine crotonylation as a new type of histone modification. Cel 146,1016-1028   \nI1.Zhang，K.，Chen,Y.，Zhang，Z.，and Zhao,Y.(2009) Identification and verification of lysine propionylation and butyrylation in yeast core histones using PTMap software.J.Proteome Res.8, 900-906   \nl2.Cheng, Z.,Tang,Y., Chen,Y., Kim,S., Liu, H.,Li,S.S.,Gu,W.,and Zhao, Y.(2009) Molecular characterization of propionyllysines in nonhistone proteins.Mol. Cell.Proteomics8,45-52   \n13.Chen,Y., Sprung,R.,Tang,Y., Bal, H., Sangras,B., Kim,S.C.,Falck,J. R., Peng,J., Gu,W.,and Zhao,Y.(2007) Lysine propionylation and butyrylationare novel post-translational modifications in histones.Mol. Cell. Proteomics 6,812-819   \n14. Colak,G., Xie,Z., Zhu,A.Y., Dai, L., Lu,Z., Zhang, Y.,Wan,X., Chen, Y., Cha,Y.H., Lin,H., Zhao,Y.,and Tan,M. (2013) Identification of lysine succinylation substrates and the succinylation regulatory enzyme CobB in Escherichia coli. Mol. Cell.Proteomics 12,3509-3520   \n15. Zhang, Z.,Tan,M., Xie,Z.,Dai, L.,Chen, Y.,and Zhao,Y. (2011) Identification of lysine succinylation as a new post-translational modification. Nat. Chem. Biol.7,58-63   \nI6.Weinert,B.T.,Scholz, C.,Wagner,S.A.,lesmantavicius,V., Su,D.,Daniel, J.A.,and Choudhary,C.(2013) Lysine succinylation is a frequently occuring modification in prokaryotes and eukaryotes and extensively overlaps with acetylation. Cell Rep.4,842-851   \n17.Lin,H.,Su,X.，and He,B. (2012) Protein lysine acylation and cysteine succination by intermediates of energy metabolism.ACS Chem. Biol.7, 947-960   \n18.Olsen, C.A.(2012) Expansion of the lysine acylation landscape.Angew. Chem.Int.Ed.Engl.51,3755-3756   \n19.Park,J.,Chen,Y.,ishkoff,D.X.,Peng,C.,Tan,M.,Dai,L.,ie,,ang, Y.,Zwaans,B.M.,Skinner,M.E.,Lombard,D.B.,and Zhao,Y.(2013) SIRT5-mediated lysine desuccinylation impacts diverse metabolic pathways.Mol. Cell 50,919-930   \n20.Rardin,M.J.,He,W.,Nishida,Y.,Newman,J. C.,Carico,C.,Danielson, S. R.,Guo,A., Gut,P., Sahu,A. K.,Li,B., Uppala,R.,Fitch,M.,Riff,T., Zhu,L., Zhou,J.,Mulhern, D., Stevens,R. D., Ilkayeva, O.R., Newgard, C. B.,Jacobson,M.P., Hellerstein,M., Goetzman,E.S., Gibson, B.W., and Verdin,E. (2013) SIRT5 regulates the mitochondrial lysine sucinylome and metabolic networks.Cell Metab.18,920-933   \n21.Newman,J.C.,He,W.,and Verdin,E. (2012) Mitochondrial protein acylation and intermediary metabolism: regulation by sirtuins and implications for metabolic disease.J. Biol. Chem. 287,42436-42443   \n22.He,W.,Newman,J.C.,Wang,M.Z., Ho,L.,and Verdin,E. (2012) Mitochondrial sirtuins: regulators of protein acylation and metabolism.Trends Endocrinol.Metab.23,467-476   \n23.Ehrt, S.,and Rhee,K.(2013) Mycobacterium tuberculosis metabolism and host interaction:mysteries and paradoxes.Curr. Top.Microbiol. Immunol. 374,163-188   \n24.Team,E.E. (2013) WHO publishes Global tuberculosis report 2013. Euro. Surveill. 18,20615   \n25.Corbett,E.L,Wat,C.J.,Walker,N.,Maher,D.,Williams,B.G.,Raviglione M.C.,and Dye,C.(20o3) The growing burden of tuberculosis: global trends and interactions with the HiV epidemic.Arch. Intern.Med.163, 1009-1021   \n26.Sun,G.,Luo,T.,Yang,C.,Dong,X.,Li,J.,Zhu,Y.,Zheng,H.,Tian,W, Wang,S., Barry,C.E.,3rd,Mei,J.,and Gao,Q.(2012) Dynamic population changes in Mycobacterium tuberculosis during acquisition and fixation of drug resistance in patients.J. Infect.Dis.206,1724-1733   \n27.Zhang,H.,Li,D.,Zhao,L.,Fleming,J.,Lin,N.,Wang,T.,Liu,Z.,Li,C., Galwey,N., Deng,J., Zhou,Y., Zhu,Y., Gao,Y.,Wang,T.,Wang,S., Huang,Y.,Wang,M.,Zhong,Q.,Zhou,L.,Chen,T.,Zhou,J.,Yang,R., Zhu,G., Hang,H.,Zhang,J.,Li,F.,Wan,K.,Wang,J., Zhang,X.E.,and Bi,L.(2013) Genome sequencing of 161 Mycobacterium tuberculosis isolates from China identifies genes and intergenic regions associated with drug resistance. Nat. Genet. 45,1255-1260   \n28.Srinivasan,L.,Ahlbrand,S.，and Briken,V. (2014) Interaction of Mycobacterium tuberculosis with host cell death pathways.Cold Spring Harb. Perspect.Med.4,a022459   \n29.Gengenbacher,M.,and Kaufmann,S.H.(2012) Mycobacterium tuberculosis:success through dormancy.FEMS Microbiol. Rev.36,514-532   \n30.Boon, C.,and Dick,T.(2012) How Mycobacterium tuberculosis goes to sleep: the dormancy survival regulator DosR a decade later. Future Microbiol.7,513-518   \n31.Wirth,T.,Hildebrand,F.,Alix-Beguec,C.,Wolbeling,F.,Kubica,.Kre mer，K.，van Soolingen，D.，Rusch-Gerdes,S.,Locht,C.，Brisse，S., Meyer,A.,Supply,P.,and Niemann,S. (2o08) Origin,spread,and demography of the Mycobacterium tuberculosis complex.PLoS Pathog.4, e1000160   \n32.de Carvalho,L.P.,Fischer,S.M., Marrero,J.,Nathan,C.， Ehrt,S.,and Rhee,K.Y. (2010) Metabolomics of Mycobacterium tuberculosis reveals compartmentalized co-catabolism of carbon substrates.Chem. Biol.17, 1122-1131   \n33.Marrero,J., Rhee,K.Y.,Schnappinger,D.,Pethe,K.,and Ehrt,S. (2010) Gluconeogenic carbon flow of tricarboxylic acid cycle intermediates is critical forMycobacterium tuberculosis to establish and maintain infection.Proc. Natl. Acad. Sci.U.S.A.107,9819-9824   \n34.Shi, S.,and Ehrt,S.(2006) Dihydrolipoamide acyltransferase is critical for Mycobacterium tuberculosis pathogenesis.Infect. Immun.74,56-63   \n35.Boshoff,H.I.,，and Barry, C.E.,3rd (2005) Tuberculosis- metabolism and respiration in the absence of growth.Nat. Rev.Microbiol.3, 70-80   \n36.Mehrotra,P.,Jamwal,S.V.,Saquib,N.,Sinha,N.,Siddiqui,Z., anivel,V., Chatterjee,S.,and Rao,K.V. (2014) Pathogenicity of Mycobacterium tuberculosis is expressed by regulating metabolic thresholds of the host macrophage. PLoS Pathog.10,e1004265   \n37. Chopra,T.,Hamelin,R.,Armand,F.,Chiappe,D.,Moniatte,M.,and McKinney,J.D.(2014) Quantitative Mass Spectrometry reveals plasticity of metabolic networks in Mycobacterium smegmatis.Mol. Cell.Proteomics 13,3014-3028   \n38.Eisenreich,W., Dandekar,T.,Heesemann,J.,and Goebel,W.(2010) Carbon metabolism of intracellular bacterial pathogens and possible links to virulence.Nat.Rev.Microbiol.8,401-412   \n39.Arora,N.,and Banerjee,A. K. (2012) Targeting tuberculosis: a glimpse of promising drug targets.Mini Rev.Med. Chem.12,187-201   \n40.Camus，J.C.，Pryor，M.J.，Medigue，C.，and Cole，S.T.(2002) Reannotation of the genome sequence of Mycobacterium tuberculosis H37Rv.Microbiology148,2967-2973   \n41.Meena,L.S.,and Rajni (2010) Survival mechanisms of pathogenic Mycobacterium tuberculosis H37Rv.FEBS J.277,2416-2427   \n42.Yang,M.K., Qiao,Z.X., Zhang,W.Y., Xiong, Q., Zhang,J.,Li,T.,Ge,F., and Zhao,J.D. (2013) Global phosphoproteomic analysis reveals diverse functions of serine/threonine/tyrosine phosphorylation in the model cyanobacterium Synechococcus sp. Strain PCC 7002.J. Proteome Res. 12,1909-1923   \n43.Cox,J.,and Mann,M.(2008) MaxQuant enables high peptide identification rates,individualized p.p.b.-range mass accuracies and proteome-wide protein quantification. Nat. Biotechnol. 26,1367-1372   \n44.Chen,Y.,Kwon,S.W.,Kim,S.C.,and Zhao,Y.M.(2005) Integrated approach for manual evaluation of peptides identified by searching protein sequence databases with tandem mass spectra.J.Proteome Res.4, 998-1005   \n45.Macek,B.,Gnad,F., Soufi,B.,Kumar,C.,Olsen,J.V.,Mijakovic,l.,and Mann,M. (2008)Phosphoproteomeanalysis of E.coli reveals evolutionary conservation of bacterial Ser/Thr/Tyr phosphorylation.Mol.Cell. Proteomics7,299-307   \n46.Conesa,A.，and Gotz，S. (2008) Blast2GO: A comprehensive suite for functional analysis in plant genomics. Int.J.Plant Genomics 2008: 619832   \n47.Yu,N.Y.,Wagner,J.R.Laird,M.R.，Meli, G.Rey,S.,Lo,R.,Dao,P, Sahinalp,S.C.,Ester，M.，Foster，L.J.,and Brinkman,F.S. (2010) PSORTb 3.0: improved protein subcellular localization prediction with refined localization subcategories and predictive capabilities forall prokaryotes. Bioinformatics 26,1608-1615   \n48.Shannon,P.,Markiel,A.,Ozier,O., Baliga,N.S.,Wang,J.T.,Ramage,D., Amin,N.,Schwikowski, B.,and ldeker,T. (2003) Cytoscape: a software environment for integrated models of biomolecular interaction networks. Genome Res.13,2498-2504   \n49.Maere,S., Heymans, K.,and Kuiper,M. (2005) BiNGO: a Cytoscape plugin to assess overrepresentation of gene ontology categories in biological networks.Bioinformatics 21,3448-3449   \n50.Hou,J.,Cui,Z,Xie,Z.,Xue,P.,Wu,P.,Chen,X.,Li,J.,Cai,T.,andYang, F. (2010) Phosphoproteome analysis of rat L6 myotubes using reversedphase $\\mathsf { C } _ { 1 8 }$ prefractionationand titanium dioxide enrichment.J.Proteome Res. 9,777-788   \n51.Huang,D.W., Sherman,B.T.,and Lempicki, R.A. (2009) Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources. Nat.Protoc.4,44-57   \n52.Huang,D.W., Sherman,B.T.,and Lempicki, R.A. (20o9) Bioinformatics enrichment tools: paths toward the comprehensive functional analysis of large gene lists.Nucleic Acids Res.37,1-13   \n53.Wang,Y.,Cui,T.,Zhang,C.,Yang,M., Huang,Y.X.,Li,W. H., Zhang,L, Gao,C. H., He,Y.,Li, Y. Q.,Huang,F., Zeng,J. M., Huang, C., Yang, Q.O.,Tian,Y. X., Zhao, C. C., Chen,H. C., Zhang,H.,and He,Z. G. (2010) Global protein-protein interaction network in the human pathogen Mycobacterium tuberculosis H37Rv.J.Proteome Res.9,6665-6677   \n54.Schwartz,D.,and Gygi, S.P. (2005)An iterative statistical approach to the identification of protein phosphorylation motifs from large-scale data sets.Nat. Biotechnol.23,1391-1398   \n55.Petersen,B.,Petersen,T.N.,Andersen,P.,Nielsen,M.,andLundegaard, C.(2009)A generic method for assignment of reliability scores applied to solvent accessibility predictions. BMC Struct. Biol. 9,51   \n56.Rose,I.A.,Grunberg-Manago，M.，Korey，S.R.，and Ochoa,S.(1954) Enzymatic phosphorylation of acetate.J.Biol. Chem.211,737-756   \n57. Li,R., Gu,J., Chen,P.,Zhang, Z.P., Deng,J.Y.,and Zhang,X.E. (2011) Purification and characterization of the acetyl-CoA synthetase from Mycobacterium tuberculosis.Acta Biochim.Biophys.Sin.43,891-899   \n58.Hess,B., Kutzner,C.,van der Spoel, D.,and Lindahl, E.(20o8) GROMACS 4:Algorithms for highly efficient, load-balanced,and scalable molecular simulation.J.Chem.Theory Comput.4, 435-447   \n59.Kaminski, G.A.,Friesner,R.A.,Tirado-Rives,J.,and Jorgensen,W.L. (2001) Evaluation and reparametrization of the OPLS-AA force field for proteins via comparison with accurate quantum chemical calculations on peptides.J.Phys.Chem.B 105,6474-6487   \n60.Berendsen, H.J.C., Postma,J.P.M.,van Gunsteren,W.F.,and Hermans, J.(1981) Interaction models forwaterin relation to protein hydration. Intermolecular Forces,pp.331-342,Springer Netherlands   \n61.Bussi,G.，Donadio，D.，and Parinello，M.(2007) Canonical sampling through velocity rescaling.J.Chem.Phys.126:014101   \n62.Hess,B., Bekker, H.,Berendsen,H.J.C.,and Fraaije,J.G.E.M.(1997) LINCS:A linear constraint solver for molecular simulations.J.Comput. Chem. 18,1463-1472   \n63.Darden,T.，York,D.，and Pedersen,L.(1993) Particle mesh Ewald: an N·log(N) method for Ewald sums in large systems.J.Chem. Phys.98, 10089-10092   \n64.Essmann, U.,Perera,L., Berkowitz,M.L., Darden,T., Lee,H.,and Pedersen,L.G.(1995)A smooth particle mesh Ewald method.J. Chem.Phys. 103,8577-8593   \n65.Kabsch,W.,and Sander, C.(1983) Dictionary of protein secondary structure:pattern recognition of hydrogen-bonded and geometrical features. Biopolymers 22,2577-2637   \n66.Weinert, B.T., lesmantavicius,V.,Wagner, S.A., Scholz, C.,Gummesson, B.,Beli, P., Nystrom,T.,and Choudhary, C.(2013) Acetyl-phosphate is acritical determinant of lysine acetylation in E.coli.Mol. Cel/51,265-272   \n67.Wang,Q.,Zhang,Y.,Yang, C., Xiong,H., Lin,Y.,Yao, J.,Li, H.,Xie,L., Zhao,W.,Yao,Y., Ning,Z. B., Zeng, R., Xiong,Y.,Guan, K.L., Zhao,S., and Zhao,G.P.(2010) Acetylation of metabolic enzymes coordinates carbon source utilization and metabolic flux.Science 327,1004-1007   \n68.Starai,V.J.,and Escalante-Semerena,J.C.(2oo4) Identification of the protein acetyltransferase (Pat) enzyme that acetylates acetyl-CoA synthetase in Salmonella enterica.J.Mol. Biol.340,1005-1012   \n69.Xu, H., Hegde,S.S.,and Blanchard,J.S.(2011) Reversible acetylation and inactivation of Mycobacterium tuberculosis acetyl-CoA synthetase is dependent on cAMP.Biochemistry 50, 5883-5892   \n70.Imai, S.,Armstrong,C.M.,Kaeberlein,M.,and Guarente,L. (20oo) Transcriptional silencing and longevity protein Sir2 is an NAD-dependent histone deacetylase.Nature 403,795-800   \n71.Du, J.T., Zhou, Y.Y., Su,X.Y.,Yu,J.J., Khan,S., Jiang,H., Kim,J.,Woo, J.,Kim,J. H.,Choi, B.H., He, B., Chen,W., Zhang, S., Cerione,R.A., Auwerx,J.，Hao,Q.,and Lin,H.N. (2011) Sirt5 is a NAD-dependent protein lysine demalonylase and desuccinylase.Science 334, 806-809   \n72.Gu, J.,Deng,J.Y., Li,R.,Wei, H., Zhang,Z.,Zhou, Y., Zhang,Y.,and Zhang,X.E.(2oo9) Cloning and characterization of NAD-dependent protein deacetylase (Rv1151c) from Mycobacterium tuberculosis. Biochemistry 74,743-748   \n73.Reger,A.S.,Carney,J.M.,and Gulick,A.M.(20o7) Biochemical and crystallographic analysis of substrate binding and conformational changes in acetyl-CoA synthetase.Biochemistry 46, 6536-6546   \n74.Zuber, B., Chami, M., Houssin,C., Dubochet,J.,Grifiths,G.,and Daffe,M. (2008) Direct visualization of the outer membrane of mycobacteria and corynebacteria in their native state.J. Bacteriol.190, 5672-5680   \n75.Grzegorzewicz,A.E.,Kordulakova,J.,Jones,V.,Born,S.E.,Belardinelli, J. M.,Vaquie,A.,Gundi, V.A.,Madacki, J., Slama,N., Laval,F.,Vaubourgeix,J.，Crew，R.M.，Gicquel，B.，Daffe，M.，Morbidoni，H.R., Brennan,P.J.,Quemard,A.,McNeil,M.R.,and Jackson,M. (2012)A common mechanism of inhibition of the Mycobacterium tuberculosis mycolic acid biosynthetic pathway by isoxyl and thiacetazone.J.Biol. Chem. 287,38434-38441   \n76.Russell, D.G.,Cardona,P.J.,Kim,M.J.,Allain,S.,and Altare,F.(2009) Foamy macrophages and the progression of the human tuberculosis granuloma. Nat. Immunol. 10, 943-948   \n77.Shi,L., Sohaskey,C.D.,Pfeiffer,C.,Datta,P.,Parks,M.,McFadden, J., North,R.J.,and Gennaro,M.L. (2010) Carbon flux rerouting during Mycobacterium tuberculosisgrowth arrest.Mol．Microbiol.78, 1199-1215   \n78.Munoz-Elias,E.J.，and McKinney,J.D. (20o6) Carbon metabolism of intracellular bacteria. Cell. Microbiol.8,10-22   \n79. Liu, B., Lin,Y. H., Darwanto,A., Song, X.H., Xu,G. L.,and Zhang, K.L. (2009)Identification and characterization of propionylation at histone H3 lysine 23 in mammalian cells.J.Biol. Chem.284,32288-32295   \n80.Starai, V.J., Celic,I., Cole,R.N., Boeke,J.D.,and Escalante-Semerena, J.C.(2002) Sir2-dependent activation of acetyl-CoA synthetase by deacetylation of active lysine.Science 298, 2390-2392   \n81.Crosby,H.A., Heiniger,E.K., Harwood, C.S.,and Escalante-Semerena, J.C. (2010) Reversible N epsilon-lysine acetylation regulates the activity of acyl-CoA synthetases involved in anaerobic benzoate catabolism in Rhodopseudomonas palustris.Mol.Microbiol.76,874-888   \n82.Schwer,B., Bunkenborg,J.,Verdin,R.O.,Andersen,J.S.,and Verdin,E. (2006) Reversible lysine acetylation controls the activity of the mitochondrial enzyme acetyl-CoA synthetase 2.Proc.Natl.Acad. Sci. U.S.A.103, 10224-10229   \n83.Wellen,K.E.,and Thompson,C.B.(2012)A two-way street: reciprocal regulation of metabolism and signaling.Nat. Rev.Mol. Cell Bio.13, 270-276   \n84.Schluter,H.,Apweiler,R.,Holzhutter,H.G.,and Jungblut,P.R. (2009) Finding one's way in proteomics: a protein species nomenclature. Chem. Cent. J.3,11   \n85.Jungblut,P.R., Holzhutter, H.G., Apweiler, R.,and Schluter, H.(2008) The speciation of the proteome.Chem. Cent. J.2,16 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    }
+]

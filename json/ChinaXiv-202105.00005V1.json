@@ -1,0 +1,570 @@
+[
+    {
+        "type": "text",
+        "text": "Enhancement of freshwater production of the seawater greenhouse condenser ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tahani K BAIT SUWAILAM1， Abdulrahim M AL-ISMAILI1\\*， Nasser A AL-AZRI², L HJanitha JEEWANTHA1, Hemesiri KOTAGAMA³",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Department of Soils, Water and Agricultural Engineering,Sultan Qaboos University,Al-Khoud 123,Oman; ² Department of Mechanical and Industrial Engineering,Sultan Qaboos University,Al-Khoud 123,Oman; Department of Natural Resource Economics,Sultan Qaboos University,Al-Khoud123,Oman ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Seawater greenhouse (SWGH) is a technology established to overcome issues related to open field cultivation in arid areas,such as the high ambient temperature and the shortage of freshwater.It adopts the humidification-dehumidification concept where evaporated moisture from a saline water source is condensed to produce freshwater within the greenhouse body. Various condenser designs are adopted to increase freshwater production in order to meet the irigation demand. The aim of this study was to experimentall investigate the practicality of using the packed-type direct contact condenser in the SWGH to produce more freshwater at low costs, simple design and high eficiency,and to explore the impact of the manipulating six operational variables (inlet air temperature of the humidifier,air mas flowrate of the humidifier, inlet water temperature of the humidifier, water mas flowrate of the humidifier, inlet water temperature of the dehumidifier and water mass flowrate of the dehumidifier)on freshwater condensation rate. For this purpose,a direct contact condenser was designed and manufactured. Sixty-four full factorial experiments were conducted to study the effect of the six operational variables. Each variable was operated at two levels (high and low flowrate),and each experiment lasted for $1 0 \\ \\mathrm { m i n }$ and followed by a $3 0 \\mathrm { - m i n }$ waiting time. Results showed that freshwater production varied between O.257 and $2 . 5 9 0 \\mathrm { L }$ for every $1 0 \\mathrm { m i n }$ When using Minitab statistical software to investigate the significant variables that contributed to the maximum freshwater production, it was found that the inlet air temperature of the humidifier had the greatest influence, followed by the inlet water temperature of the humidifier; the former had a negative impact while the latter had a positive impact on freshwater production.The response optimizer tool revealed thatthe optimal combination of variables contributed to maximize freshwater production when all variables were in the high mode and the inlet air temperature of the humidifier was in the low mode.The comparison between the old plastic condenser and the new proposed direct contact condenser showed that the latter can produce 75.9 times more freshwater at the same condenser volume. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: seawater greenhouse; humidification-dehumidification; direct contact condenser; freshwater production; water desalination ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "二 Introduction",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Seawater greenhouse (SWGH) is an engineering technology modified to tackle the challenges associated with the open field cultivation as it creates a favorable condition for plant growth in addition to refining its own freshwater for irrigation purposes (Ghaffour et al., 2O11; Al-Ismaili et al., 2012). The SWGH can be used in hot and dry places with poor water quality, such as oil-field water, saline ground or surface water, and seawater (Davies and Charlie, 2O04). The SWGH (Fig. 1) is a desalination unit that adopts humidification-dehumidification (HDH) approach and mimics the hydrological cycle where the evaporated water from the saline water source can be colected as freshwater after being condensed (Bourouni et al., 2OO1; Zurigat et al., 2008). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/1570e4f7d9a665e830813692ee6e9d0a1feb9a460eb9592e90e0480637b2b39a.jpg",
+        "img_caption": [
+            "Fig.1Schematicdiagram oftheseawater greenhouse (SWGH).1,first evaporativecooler; 2,second evaporative cooler; 3,condenser; 4,solar heater;5,fan; 6,saline groundwater wel; 7,freshwater tank.Red arrows,hot water cycle; blue arrows, cold water cycle. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In 2004,a prototype of the SWGH was built in Oman over an area of $7 2 0 ~ \\mathrm { m } ^ { 2 }$ .The SWGH is composed of two evaporative coolers and a condenser where the later is consisted of an array of 4832 PVC tubes that vertically intercepts the moist air stream. The amount of freshwater produced by the SWGH is $3 0 0 . 0 0 0 { - } 6 0 0 . 0 0 0 \\mathrm { L } / \\mathrm { d }$ ，which is relatively lower than the amount needed to meet the irrigation demand $\\mathrm { 1 0 0 0 . 0 0 0 \\ L / d ) }$ due to the ineffectiveness of the existing condensation unit (Al-Ismaili, 2O03; Pahlavan et al., 2011; Fadel et al., 2013). The condenser represents $20 \\%$ of the total capital cost of the SWGH in Oman and requires frequent maintenance (Al-Ismaili and Jayasuriya, 2016). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The overall eficiency of the SWGH is determined by the performance of the condenser (Davies and Charlie, 2004; Dawoud et al., 2006; Zurigat et al., 2008; Ghaffour et al., 2015). Several condenser designs and improvements were proposed by many researchers (Al-Khalidi et al., 2010; Mahmoudi et al., 2O1O; Hajiamiri and Salehi, 2O13), such as the plate channel condenser, the passive condenser, the vibrating plastic surface condenser and the direct contact condenser. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Direct contact dehumidification (DCD) is an innovative process that is proposed to improve the effectiveness of the SWGH condenser to produce more freshwater and to meet the irrigation demand of the SWGH (Zamen et al., 2013). The idea behind the DCD concept is to produce freshwater from saline-water through an HDH process. The DCD system consists of two major parts (a humidifier and a condenser) where the stream of moist hot air from the humidifier comes into a direct contact with the cool freshwater in the dehumidifier for condensation. Direct contact (DC) condensers are superior to indirect contact condensers in terms of having a simpler design, low-cost investment, ease of operation and maintenance, less heat transfer resistance due to the large surface area of the packing material, less pressure drop, higher water and energy recovery and leakage-free， corrosion-free and long-lasting material (Sideman and Moalem-Maron， 1982; Nawayseh et al.， 1999; Eslamimanesh and Hatamipour, 20O9; Mehrgoo and Amidpour, 2012; Zamen et al., 2013; Niroomand et al., 2015). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 shows a schematic diagram of the DCD system. In the SWGH, the condenser and the second evaporator (Fig. 1) willbe replaced by a humidifier and a dehumidifier that are filld with packing material. In the packed-type DCD system, hot seawater from the solar heater is sprayed on top of the packing material of the humidifier, and relatively cold freshwater is re-circulated in the dehumidifier.As the moist hot air enters the dehumidifier and encounters the cold freshwater, the water vapor undergoes a direct condensation process on the surface of the packing material of the dehumidifier. The movement of mass and heat in the humidifier is from the water to the air while it is vice versa in the dehumidifier. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/609025cf39b7724bc27e1a05934ec74ab29bf6de3e527cd44e50f24b00f9d153.jpg",
+        "img_caption": [
+            "Fig.2Schematic diagram of the experimental setup of the packed-type direct contact dehumidification (DCD) system. Red arrows, hot water cycle; blue arrows, cold water cycle. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Zamen et al. (2013) theoretically examined the DCD system via a simulation model using a finite difference method that simulated the humidifier and the dehumidifier units and estimated the amount of freshwater that can be produced on any day of the year. Polypropylene with a specific surface area of $3 2 0 ~ \\mathrm { m } ^ { 2 } / \\mathrm { m } ^ { 3 }$ was used as a packing material in the humidifier and the dehumidifier. Simulation results showed that the optimal height for the dehumidifier is $0 . 6 5 \\mathrm { ~ m ~ }$ ,andif the height exceeds $0 . 6 5 \\mathrm { ~ m ~ }$ ,an inversion area will be formed, in which evaporation will take place instead of condensation. Moreover, the optimal velocity of air flow into the HDH unit was calculated to be $0 . 1 6 \\mathrm { m / s }$ when the inlet water temperatures between $4 0 . 0 ^ { \\circ } \\mathrm { C }$ and $6 0 . 0 ^ { \\circ } \\mathrm { C }$ ,and the DC condenser was claimed to successfully produce freshwater between $6 . 0 \\times 1 0 ^ { 3 }$ and $2 2 . 0 { \\times } 1 0 ^ { 3 } \\mathrm { L } / ( \\mathrm { d } { \\cdot } \\mathrm { h m } ^ { 2 } )$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Several studies (Al-Khalidi et al., 2010; Zamen et al., 2013; Al-Ismaili et al., 2018) have found that freshwater production of the SWGH condenser is affected by various parameters, including inlet air temperature of the humidifier, air mass flowrate of the humidifier, inlet water temperature of the humidifier, water mass flowrate of the humidifier, inlet water temperature of the dehumidifier andwatermass flowrate of the dehumidifier. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This study conducted the first trial to the packed-type DCD system in the SWGH and investigated its capacity in producing freshwater at low costs, simple design and high efficiency by using the input data collected from the SWGH in Oman. This study also explored the impact of the manipulating six operational variables (i.e.， inlet air temperature of the humidifier, air mass flowrate of the humidifier, inlet water temperature of the humidifier, water mass flowrate of the humidifier, inlet water temperature of the dehumidifier and water mass flowrate of the dehumidifier) on freshwater condensation rate. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Direct contact dehumidification (DCD) system and experimental design ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The design of the proposed crossflow DCD system was developed on the basis of the study of Zamen et al. (2O13) and the wind tunnel specification was as described by Liao and Chiu (2002). The designed DCD system (Fig. 3) was assembled in the Agricultural Experiment Station of Sultan Qaboos University, Oman. The humidifier and the dehumidifier were filled with cellulose pads (0.6 $\\mathrm { m } { \\times } 0 . 6 ~ \\mathrm { m } { \\times } 0 . 6 ~ \\mathrm { m } \\$ . Two acrylic water compartments were placed on top of the humidifier and the dehumidifier. A number of $2 \\mathrm { - m m }$ size holes were drilled in the bottom of the acrylic water compartments to allow a uniform seepage of water to the pads of the humidifier and the dehumidifier. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e872c828f731fa6a3911da0be8ffc78cef3c159fe845f2f476fde91306b47191.jpg",
+        "img_caption": [
+            "Fig.3Two-dimension design (a) and layout (b)of the direct contact dehumidification (DCD) system. T1-T7, thermocouple sensors; RHT1-RHT3, relative humidity and temperature sensors. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Inlet water temperature, air temperature and relative humidity in the DCD system were monitored using dual relative humidity and temperature sensors and T-type thermocouples. Inlet, middle and outlet relative humidity values were measured using relative humidity and temperature sensors. The measurements were recorded using a data-logger at an interval of $2 \\mathrm { ~ s ~ }$ and averaged every 10 s.A digital anemometer was used to measure air speed through the condenser, and the amount of freshwater was measured manually at the end of each experiment using a graduated cylinder. Technical specifications of instruments are given in Table S1. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the experimental work, the water mass flowrate changed with the change of pump capacity, while the air mass flowrate varied with the change of fan capacity. The air mass flowrate was obtained by calculating the weighted average of the air speed from the fan inlet that was divided into four circles. The volumetric flowrate was then calculated by multiplying the area of each circle by the corresponding air speed, and eventually the mass flowrate was obtained using the air density. Zamen et al. (2O13) reported that the optimal air velocity for the maximum freshwater production was $0 . 1 6 ~ \\mathrm { m / s }$ , noting that this value lays between the two air velocities used in this experiment (high air velocity value of $0 . 2 7 \\mathrm { m } / \\mathrm { s }$ and low air velocity value of $0 . 1 1 ~ \\mathrm { m / s } \\dot { }$ ) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The mass flowrate of hot and cold water was manually measured using a $5 \\mathrm { L }$ empty bucket and a stopwatch. The pumps were operated at maximum capacity for high water mass flowrates and at half capacity for low water flowrates. Measurements were repeated three times and then the average values were obtained (Table 1). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We selected the values of water temperature, air temperature and relative humidity based on historical data obtained from the existing SWGH in Oman in 2OO5 (Figs.4-6). Summer data were considered because large amounts of freshwater are needed in summer and weather conditions are unfavorable for greenhouse cultivation. Then, the daily maximum and minimum values of the weather and operating parameters were obtained and used as much as possible in the experiments. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/d50f036dbf163a449319024f5ce12977bf33a95f93e0860b39269cc09f28cfe4.jpg",
+        "table_caption": [
+            "Table 1Experimental values (high and low) of the six operational variables used in this experiment "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Effect</td><td>mwh (kg/s)</td><td>mwd (kg/s)</td><td>ma,h (kg/s)</td><td>Twh (C)</td><td>Twd (C)</td><td>Ta,in (C)</td></tr><tr><td>High</td><td>0.27</td><td>0.15</td><td>0.04±0.01</td><td>50.0±5.0</td><td>31.0±5.0</td><td>28.0±3.0</td></tr><tr><td>Low</td><td>0.19</td><td>0.13</td><td>0.02±0.01</td><td>35.0±5.0</td><td>24.0±5.0</td><td>23.0±3.0</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae55822e4e0fbb1554e132b7c4081368d92f264258c56a47f84a5294785beba7.jpg",
+        "img_caption": [
+            "Note: $m _ { \\mathrm { w h } }$ ,water mass flowrate of the humidifier; $m _ { \\mathrm { w d } }$ ,water mass flowrate of the dehumidifier; $m _ { \\mathrm { a , h } }$ ,air mass flowrate of the humidifier; $T _ { \\mathrm { w h } }$ ,inletwater temperatureof the humidifier; $T _ { \\mathrm { w d } }$ ,inletwater temperatureof the dehumidifier; $T _ { \\mathrm { a , i n } }$ ,inletair temperatureof the humidifier. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/da2b24554e9d1a594188c060fdc8fc4aaf7207f64af8dc8d0852dfc87e5b34d2.jpg",
+        "img_caption": [
+            "Fig. 4Typical 3-d water temperature data of the SWGH as recorded in May 2005 (Bait-Suwailam and Al-Ismaili, 2019) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/71bc06f635328073f7dd660ab1a72a4cbca0a5369982c6ab14da6e709a949cb0.jpg",
+        "img_caption": [
+            "Fig.5Typical 3-d air temperature data of the SWGH as recorded in May 2O05 (Bait-Suwailam and Al-Ismaili, 2019) ",
+            "Fig. 6Typical 3-d relative humiditydata of the SWGH as recorded in May 2O05 (Bait-Suwailam and Al Ismaili, 2019) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Table 1 shows the high and low values of the six variables used in the experiments. Fullfactorial experiments with a combination of high and low values for each of the six operational variables were conducted (i.e., $2 ^ { 6 } { = } 6 4$ ) as detailed in Table S2. Full factorial of experiments was performed not only to investigate the effect of each variable on water production, but also to explore the interactions among these variables. Allthe experiments were conducted between O9:0O and 18:00 (LST) in summer of 2019. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The first trial experiments were operated for $3 0 \\mathrm { m i n }$ followed by a $3 0 \\mathrm { - m i n }$ waiting time, and then theoperation time $( 3 0 ~ \\mathrm { m i n } )$ wasreduced to $1 5 ~ \\mathrm { m i n }$ with a waiting time of $3 0 ~ \\mathrm { m i n }$ , and eventually to $1 0 ~ \\mathrm { { m i n } }$ followed by a 30-min waiting time. When the experiments were operated for 30 and 15 min, the temperature of the cold water in the dehumidifier increased to a temperature higher than the dew point temperature of the incoming moist air from the humidifier and hence, evaporation occurred in the dehumidifier instead of condensation. However, during the 1O-min experimental period, the temperature of the cold water in the dehumidifier remained below the dew point temperature and therefore, this time interval $( 1 0 \\ \\mathrm { m i n } )$ was selected to run all the experiments followedbya $3 0 \\mathrm { - m i n }$ water collection cycle. In the real SWGH, the DC condenser can be operated for hours because the cold water can be continuously supplied to the condenser from the first evaporative cooler as long as the system is operating. Whereas in these experiments, the operating time was limited due to the unavailability of continuous supply of the cold water to the dehumidifier. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2 Statistical analyses ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The index \"gained output ratio\" (GOR) was used to evaluate the performance of the HDH cycle with respect to the thermal energy consumption. The gained output ratio compares the amount of freshwater $( m _ { \\mathrm { f r e s h } } , \\mathrm { L } )$ produced with the amount of steam $( m _ { \\mathrm { { s t e a m } } } , \\mathrm { { L } ) }$ consumed, as follows (Tonner, 2008): ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\scriptstyle { \\mathrm { G O R } } = m _ { \\mathrm { f r e s h } } / m _ { \\mathrm { s t e a m } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the statistical analysis, Minitab statistical software was used to investigate the relationships among the six independent variables, and the possble interactions between each other and the dependent variable. The confidence level was set at $9 5 \\%$ and the significance level was 0.05. Regression test was used to determine the variables and interactions that significantly contribute to freshwater production. Analysis of variance (ANOVA)， coefficient of determination $( R ^ { 2 } )$ ， regression coefficients and factorial plots were used to interpret the results. The response optimizer was another useful tool in Minitab statistical software used to investigate the best experiment combination that contributes to the maximum freshwater production. The Pareto chart of the effects was developed to illustrate allthe significant variables and interactions among the six variables. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3Results and discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In all experiments, the temperature of the dehumidifier was lower than the dew point temperature of the moist air, indicating that condensation was feasible. This was manifested with freshwater ranged between $0 . 2 5 7$ and $2 . 5 9 0 \\mathrm { L }$ at the $1 0 \\mathrm { m i n }$ intervals in all experiments. Therefore, increasing the operating interval of the DC condenser would increase freshwater production when allimiting factors are kept constant. Detailed freshwater production of all experiments is given in Table S2. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Although Zamen et al. (2O13) reported that the maximum height of the dehumidifier should not exceed $0 . 6 5 \\mathrm { ~ m ~ }$ , it seems that there is still a room to increase the height since the gap between the dew point and the coolant temperature was maintained till the end of the 1O-min experiments. Therefore, further studies need to be performed to determine the optimum height of the dehumidifier and its impact on freshwater production. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1 Statistical analysis of the experiments ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 7 shows the Pareto chart for the significant variables and interactions based on decreasing level of significance. The $R ^ { 2 }$ was O.651，which indicates that the significant variables and interactions contributed to about $6 5 . 1 \\%$ of the variability in freshwater production, whereas the adjusted $R ^ { 2 }$ was 0.620. Table 2 shows the $F$ test and $P$ values of the significant effects. The model $F$ test value of 21.6O shows that the selected independent variables contributed to a significant amount of variance in freshwater production and that the overall model is good. Variables and interactions with $P { < } 0 . 0 5$ are considered to have significant effects on freshwater production. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e1499df99c1a7f604ff88824c584e75d53cae1550e2a53ead0437b9cf19c118a.jpg",
+        "img_caption": [
+            "Fig.7Pareto chartof the standardized effects when only the significant variables and interactions were included $( P { = } 0 . 0 5 )$ ： $m _ { \\mathrm { w h } }$ , water mass flowrate of the humidifier; $m _ { \\mathrm { W d } }$ , water mass flowrate of the dehumidifier; $m _ { \\mathrm { a , h } }$ ,air mass flowrate of the humidifier; $T _ { \\mathrm { w h } }$ , inlet water temperature of the humidifier; $T _ { \\mathrm { w d } }$ ，inlet water temperature of the dehumidifier; $T _ { \\mathrm { a , i n } }$ , inlet air temperature of the humidifier. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/43331a0b0adaff66985057c96b0a388568f8da981830b27b073c1d176ffdc6ca.jpg",
+        "table_caption": [
+            "Table2Analysis of variance (ANOVA)of thesignificant effects ofthe six selected variables and theirinteractions "
+        ],
+        "table_footnote": [
+            "Note:\\*meansthatthiscombinationshowstheinteractionamongthevariablesratherthanamathematicalmultiplicationofteirreal values. $m _ { \\mathrm { w h } }$ ,water mass flowrate of the humidifier; $m _ { \\mathrm { w d } }$ ,water mass flowrate of the dehumidifier; $m _ { \\mathrm { a , h } }$ ,air mass flowrate of the humidifier; $T _ { \\mathrm { w h } }$ ,inlet water temperature of the humidifier; $T _ { \\mathrm { w d } }$ ,inlet water temperature of the dehumidifier; $T _ { \\mathrm { a , i n } }$ ,inletair temperature of the humidifier. "
+        ],
+        "table_body": "<html><body><table><tr><td>Item</td><td>F value</td><td>P value</td></tr><tr><td>Model</td><td>21.60</td><td>0.000</td></tr><tr><td>Linear</td><td>46.71</td><td>0.000</td></tr><tr><td>Twh</td><td>10.52</td><td>0.002</td></tr><tr><td>Tain</td><td>82.89</td><td>0.000</td></tr><tr><td>3-way interactions</td><td>4.35</td><td>0.041</td></tr><tr><td>mwdXTwhXTwd*</td><td>4.35</td><td>0.041</td></tr><tr><td>5-way interactions</td><td>5.11</td><td>0.009</td></tr><tr><td> mwhXmwdXTwhXTwdXTa.in*</td><td>5.55</td><td>0.022</td></tr><tr><td>mwdxma.hXTwhXTwd×Ta.in</td><td>4.67</td><td>0.035</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Table 3 illustrates the regression coeficients for the efective variables and interactions. The coefficient values indicate the result of the increase in one unit of each effect and the corresponding impact on freshwater production. The sign of each efect implies whether the relation is directly (positive value) or inversely (negative value) proportional to freshwater production. Among the two significant variables,the inlet hot water temperature of the humidifier had a positive impact on freshwater production, while the inlet air temperature of the humidifier had a negative influence on freshwater production. Among the interactions, the 5-way interactions had a negative impact on freshwater production while the 3-way interaction had a positive impact on freshwater production. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As can be seen from Table 3, one unit increase in the inlet air temperature of the humidifier will result in a decrease of $0 . 4 0 0 \\mathrm { ~ L ~ }$ freshwater production,which is due to the small gap (small temperature gradient) between the inlet air temperature and the hot water temperature of the humidifier (Eslamimanesh and Hatamipour, 2Oo9). The inlet air temperature and the hot water temperature of the humidifier had the greatest impact on freshwater production ( $P$ values of 0.000 and O.002, respectively), in which the increase in one unit of the hot water temperature of the humidifier will result in the increase in freshwater production by $0 . 1 4 0 \\mathrm { ~ L ~ }$ 、This is because the increase in the hot water temperature of the humidifier would lead to more water evaporation and some of the sensible heat along with latent heat (moisture) willtransfer from the water to the air. Consequently, this willead to an increase in the temperature and moisture content of the air, thus increasing the temperature gap between the incoming airflow and the coolant, i.e., more freshwater production (Al-Khalidi et al., 2013). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/0f42760c7e7a8a7267239a24dcaba8459345fdb16cf6d1a348afa7038e3247fc.jpg",
+        "table_caption": [
+            "Table 3Regression coefficients for the significant variables and interactions "
+        ],
+        "table_footnote": [
+            "Note:\\*meansthathiscombinationshowstheinteractionbetweenthedummyvariablesratherthanamathematicalmultiplicatiof teir real values. $m _ { \\mathrm { w h } }$ ,watermass flowrate of the humidifier; $m _ { \\mathrm { w d } }$ ,water mass flowrate of the dehumidifier; $m _ { \\mathrm { a , h } }$ ,air mass flowrate of the humidifier; $T _ { \\mathrm { w h } }$ ,inlet water temperature of the humidifier; $T _ { \\mathrm { w d } }$ , inlet water temperature of the dehumidifier; $T _ { \\mathrm { a , i n } }$ , inlet air temperature of the humidifier. "
+        ],
+        "table_body": "<html><body><table><tr><td>Item</td><td>Coefficient</td></tr><tr><td>Constant</td><td>1.1814</td></tr><tr><td>Twh</td><td>0.1435</td></tr><tr><td>Ta.in</td><td>-0.4026</td></tr><tr><td>mwdXTwhXTwd*</td><td>0.0923</td></tr><tr><td>mwhXmwdXTwhXTwd×Ta.in*</td><td>-0.1041</td></tr><tr><td>mwdXma,hXTwhXTwaXTain</td><td>-0.0955</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the SWGH, the temperature of the air increased as the air approaches the second evaporator due to the solar heat input. Therefore, the inlet air temperature of the humidifier can be practically decreased by decreasing the length of the greenhouse (wide and shallow) or moving the DC condenser closer to the first evaporative cooler. Previous studies reported that the shallow and wide SWGHcan produce more freshwater compared to the long and narrow SWGH(Goosen et al., 2001; Sablani et al., 2O05). Only few practices can be done to increase the inlet water temperature of the humidifier, such as using a solar water heater with small diameter pipes and increasing the length of the solar heater pipes. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We basically used the response optimizer analysis to find the optimal combination of the six independent variables to maximize freshwater production to reach 10o0.0oo L/d (as a target), which meets the irigation demand of the current SWGH. It was found that the optimal combination to collect $1 0 0 0 . 0 0 0 \\mathrm { L }$ of freshwater per day was when all the variables were at a high mode and the inlet air temperature of the humidifier was at a low mode. Tables 4 and 5 show the goal and optimal combination for maximizing freshwater production including al the six operational variables. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/b90191ce968f6eb5526e9b7e3adde4540367aca575f3aa97b06700f74e191aac.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Response</td><td>Goal</td><td>Lower</td><td>Target</td><td>Upper</td></tr><tr><td>Total freshwater production (L/d)</td><td> Target</td><td>1.542</td><td>1000.000</td><td>1100.000</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/c10c628869b99fb07b59a117070a57888bda8f0058f1c944dda78aeaa7f22a04.jpg",
+        "table_caption": [
+            "Table 4 Response optimizer tool with the goal of maximizing freshwater production ",
+            "Table 5Optimal variable combination that contributes to the maximum freshwater production and the fitted production value "
+        ],
+        "table_footnote": [
+            "Note: The value of 1 denotes the high level of each variable while the value of $^ { - 1 }$ denotes the low level of each variable. $m _ { \\mathrm { w h } }$ ,water mass flowrate of the humidifier; $m _ { \\mathrm { w d } }$ ，water mass flowrate of the dehumidifier; $m _ { \\mathrm { a , h } }$ ，air mass flowrate of the humidifier; $T _ { \\mathrm { w h } }$ ,inletwater temperature of the humidifier; $T _ { \\mathrm { w d } }$ ,inletwater temperature of the dehumidifier; $T _ { \\mathrm { a , i n } }$ ,inletair temperature of the humidifier. "
+        ],
+        "table_body": "<html><body><table><tr><td>mwh</td><td>mwd</td><td>ma,h</td><td>Twh</td><td>Twd</td><td>Ta.in</td><td>Totl fitte fr/shmierproduction</td></tr><tr><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>-1</td><td>2.08848</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Figure 8 ilustrates the optimal experiment combination that contributes to the production of the desired $1 0 0 0 . 0 0 0 \\ \\mathrm { L } / \\mathrm { d }$ of freshwater. The slope of the graph indicates the extent of the effect on freshwater production, and the direction of the line shows whether the effect has a positive or negative impact on freshwater production. The inlet air temperature of the humidifier had a strong negative impact on freshwater production, while all other variables had a significant positive impact on freshwater production except the mass flowrate of the inlet air and the mass flowrate of the hot water of the humidifier, which have a relatively weak positive impact on freshwater production. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0183f95266217c9272ae2d002378fca0e126557b374efc7b94e5aa4923d8618.jpg",
+        "img_caption": [
+            "Fig.8Optimal combination that contributes to the maximum freshwater production.The value of 1 denotes the high level of each variable while the value of $^ { - 1 }$ denotes the low level of each variable.Horizontal dashed blue line is the $x$ -axis; red vertical line is the $y .$ -axis; black line is the slope that shows the impact of the variable on freshwater production. mwh, water mass flowrate of the humidifier; mwd, water mass flowrate of the dehumidifier; $m _ { \\mathrm { a , h } }$ ,air mass flowrate of the humidifier; $T _ { \\mathrm { w h } }$ ,inlet water temperature of the humidifier; $T _ { \\mathrm { w d } }$ ，inlet water temperature of the dehumidifier; $T _ { \\mathrm { a , i n } }$ ,inletair temperature of the humidifier. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2Effects of high and low levels of each variable on freshwater production ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A full factorial design of 64 experiments was performed in this study, of which half of them were performed in high mode while the others were in low mode. Figure 9 summaries the impact of the high (denoted 1) and low (denoted $^ { - 1 }$ ） modes of each variable on mean freshwater production, which was approximately $1 . 1 8 0 \\mathrm { ~ L } / 1 0 \\mathrm { ~ m i n }$ . The temperature of hot water of the humidifier had a relatively strong positive effect on mean freshwater production, while the inlet air temperature of the humidifier had a strong negative effect. In other words,the mean freshwater production increases as the temperature of hot water of the humidifier increases. Supplying hotter water to the humidifier would mean that the pads will be continuously supplied with hot water and the temperature gap between the incoming airflow and the hot water will be maintained, thus more freshwater will be produced (Al-Khalidi et al., 2013). ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/64d00de48837814548fa7244c088254dce91087421941c86fe8678b624e39ecc.jpg",
+        "img_caption": [
+            "Fig.9Overalleffect of the six variables on the mean freshwater production.The value of1 denotes the high level of each variable while the value of $^ { - 1 }$ denotes the low level of each variable. The effects shaded in grey are considered not significant therefore their impacts on the mean freshwater production are not explained.The slope of line indicates the strength of the efect on the mean freshwater production.The grey dotted line is the mean freshwater production of the 64 experiments,which equals to $1 . 1 8 0 \\mathrm { L } / 1 0 \\mathrm { m i n }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Regarding the inlet air temperature of the humidifier, the mean freshwater production rapidly decreases as the inlet air temperature of the humidifier increasing. Therefore, sustaining the big temperature gap between the incoming airflow and the hot water of the humidifier is crucial to produce freshwater. However, as the inlet air temperature of the humidifier increases, the temperature gap with the hot water will gradually decrease, which can result in a decrease in the overall freshwater production. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3Highest and lowest freshwater production ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "As mentioned above, the highest volume of freshwater produced was $2 . 5 9 0 \\mathrm { L }$ at a 10-min interval. The freshwater was collected when the mass flowrate of hot water of the humidifier, air mass flowrate and temperature of hot water of the humidifier were high. In this particular experiment, some of the important variables were in the optimal conditions for freshwater production based on the test of significance, namely,low inlet air temperature of the humidifier, high temperature of hot water of the humidifier, and low temperature of cold water of the dehumidifier. Here, the two significant variables including the inlet air temperature of the humidifier and high temperature of hot water of the humidifier were in optimal conditions for maximizing freshwater production (low inlet air temperature of the humidifier and high temperature of hot water of the humidifier to maintain the temperature gap between the incoming air and the hot water of the humidifier). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "On the contrary, at high inlet air temperature and mass flowrate of the humidifier, high water mass flowrate of the humidifier and high inlet water temperature of the dehumidifier conditions, the total freshwater collected was the lowest ( $\\langle 0 . 2 5 7 \\ \\mathrm { L } / 1 0 \\ \\mathrm { m i n } \\rangle$ . This combination produced the lowest freshwater among the 64 experiments, which is due to the combination of six variables that were all at their worst conditions for freshwater production and thus adversely impacted freshwater production. These results are in alignment with the reported findings in previous studies (AlKhalidi et al., 2010; Zamen et al., 2013; Al-Ismaili et al., 2018). An interactive psychrometric chart was used to demonstrate the changes in air temperature, relative humidity and other variables in the experiments with the maximum and minimum freshwater production (Fig. 10). ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/24861638550a4fb114e4b35d996d790d0f16fa547e35051a63de3599c496ab10.jpg",
+        "img_caption": [
+            "Fig.10Psychrometric chart for the experiments with maximum (P1,P2 and P3 in yellow)and minimum (P4,P5 and P6 in red) freshwater production. P1-P6, state points with the combination of temperature,relative humidity and humidity ratio. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In the experiment with the maximum freshwater production, the dry air entered the humidifier with a temperature, relative humidity and humidity ratio of $2 4 . 8 ^ { \\circ } \\mathrm { C }$ ， $4 4 . 2 \\%$ and $0 . 0 0 8 6 ~ \\mathrm { k g / k g }$ respectively (state point 1, P1; Fig. 1O). The sensible heat and moisture from the evaporation of water in the hot water cycle enriched the incoming air and raised the temperature,relative humidity and humidity ratio to $3 8 . 5 ^ { \\circ } \\mathrm { C }$ $1 0 0 . 0 \\%$ and $0 . 0 4 4 8 \\mathrm { k g / k g }$ , respectively (P2; Fig. 10). As the moisturerich hot air from the humidifier came in contact with the cold water circulating in the dehumidifier, condensation occurred on the packing material surface and a condensate of $2 . 5 9 0 \\mathrm { L }$ was collected in 10 minute interval. The outlet air temperature, relative humidity and humidity ratio were $3 5 . 8 ^ { \\circ } \\mathrm { C }$ $8 8 . 6 \\%$ and $0 . 0 3 3 7 \\mathrm { k g / k g }$ , respectively (P3; Fig. 1O). Theoretically, for condensation to occur, state points P2 and P3 must have a relative humidity of almost $1 0 0 . 0 \\%$ , but it is clear that the outlet relative humidity dropped to $8 8 . 6 \\%$ . In this experiment, different variables aided in maximizing the freshwater production, including the low inlet air temperature of the humidifier, low cold water temperature of the dehumidifier, high hot water temperature of the humidifier and high hot water mass flowrate of the humidifier, as these four variables are the optimal in terms of maximizing freshwater production based on the test of significance. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In the experiment with the minimum freshwater production, hot and dry air entered the humidifier with the temperature, relative humidity and humidity ratio of $2 6 . 3 ^ { \\circ } \\mathrm { C }$ ， $5 4 . 1 \\%$ and 0.0116 $\\mathrm { k g / k g }$ , respectively (P4; Fig. 1O). As evaporation occurred in the first evaporative cooler, these values increased to $3 0 . 9 ^ { \\circ } \\mathrm { C }$ ， $100 . 0 \\%$ and $0 . 0 2 8 7 ~ \\mathrm { k g / k g }$ , respectively (P5; Fig. 1O). The moisturerich air from the humidifier then came in contact with the cold water circulating in the dehumidifier, and condensation occurred on the surface of the packing material, resulting in a condensate collection of $0 . 2 5 7 \\mathrm { L } / 1 0 \\mathrm { m i n }$ and a decrease of air temperature by $1 . 9 ^ { \\circ } \\mathrm { C }$ . The outlet air temperature, relative humidity and humidity ratio were $2 9 . 0 ^ { \\circ } \\mathrm { C }$ $9 4 . 6 \\%$ and $0 . 0 2 4 2 \\mathrm { k g / k g }$ , respectively (P6; Fig. 10). In this experiment, air entered to the dehumidifier with temperature and moisture (P5) was much less than that in the experiment with the maximum freshwater production (P2),which explains the variation in freshwater production. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In both experiments, the outlet relative humidity was below $1 0 0 . 0 \\%$ . Theoretically， for condensation to be successful, P2 and P3 in the maximum freshwater production, and P5 and P6 in the minimum freshwater production have to stay on the saturation line. Only few measures can be taken to increase the outlet relative humidity, e.g. decreasing the air mass flowrate to an optimal level without affecting the freshwater production and increasing the mass flowrate of cold water of the dehumidifier. Table 6 shows the detailed moist-air properties for each state point in the experiments with the maximum and minimum freshwater production. ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/425c40d67c129cf34c8cb9044c38763db87fdb2b423f93505528470af2b83564.jpg",
+        "table_caption": [
+            "Table 6Values of diferent variables for each state point in the psychrometric chart of the experiments with the maximum and minimum freshwater production "
+        ],
+        "table_footnote": [
+            "Note:P1-P6,state points with the combination of temperature,relative humidity and humidity ratio. "
+        ],
+        "table_body": "<html><body><table><tr><td>Variable</td><td>P1</td><td>P2</td><td>P3</td><td>P4</td><td>P5</td><td>P6</td></tr><tr><td>Dry bulb temperature (C)</td><td>24.8</td><td>38.5</td><td>35.8</td><td>26.3</td><td>30.9</td><td>29.0</td></tr><tr><td>Wet bulb temperature (C)</td><td>16.8</td><td>38.5</td><td>34.0</td><td>19.7</td><td>30.9</td><td>28.3</td></tr><tr><td>Dew point (C)</td><td>11.8</td><td>38.5</td><td>33.6</td><td>16.3</td><td>30.9</td><td>28.0</td></tr><tr><td>Relative humidity (%)</td><td>44.2</td><td>100.0</td><td>88.6</td><td>54.1</td><td>100.0</td><td>94.6</td></tr><tr><td>Humidity ratio (kg/kg)</td><td>0.0086</td><td>0.0448</td><td>0.0337</td><td>0.0116</td><td>0.0287</td><td>0.0242</td></tr><tr><td>Enthalpy (J/kg)</td><td>46.8</td><td>153.9</td><td>122.5</td><td>56.0</td><td>104.5</td><td>91.0</td></tr><tr><td>Density (kg/m³)</td><td>1.179</td><td>1.104</td><td>1.120</td><td>1.171</td><td>1.142</td><td>1.152</td></tr><tr><td>Specific volume (m3/kg)</td><td>0.856</td><td>0.947</td><td>0.923</td><td>0.864</td><td>0.901</td><td>0.889</td></tr><tr><td>Pressure (Pa)</td><td>101,325</td><td>101,325</td><td>101,325</td><td>101,325</td><td>101,325</td><td>101,325</td></tr><tr><td>Airflow (m³/h)</td><td>122</td><td>122</td><td>122</td><td>122</td><td>122</td><td>122</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The maximum freshwater production ( $2 . 5 9 0 \\ \\mathrm { L } / 1 0 \\ \\mathrm { m i n } )$ was correlated with the gained output ratio of 2.32, while the minimum freshwater production $( 0 . 2 5 7 \\mathrm { L } / 1 0 \\mathrm { m i n } )$ was associated with the gained output ratio of O.56. Both gained output ratio values were higher than the value (0.53) reported by Xu et al. (2O2O) for another HDH cycle. It should be noted that the higher gained output ratio values indicate that the HDH system involves less steam consumption, i.e., less operating costs.Therefore, the HDH cycle at the maximum freshwater production is more efficient in terms of operating costs. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.4Comparison among the three seawater greenhouse (SWGH) condensers ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The SWGH in Oman is a crossflow indirect contact condenser that is made of plastic pipes with dimensions of $1 . 9 \\ \\mathrm { m } { \\times } 0 . 8 \\ \\mathrm { m } { \\times } 1 5 . 0 \\ \\mathrm { m }$ ， which can produce freshwater of about $3 0 0 . 0 0 0 \\mathrm { L }$ in $1 4 \\mathrm { h }$ .The condenser has a complex design by means that it has 4832 plastic pipes and 6O4 manifolds and requires continuous maintenance. Based on simulation model, Zamen et al. (2013) proposed to use the DC condenser with dimensions of $0 . 6 \\ \\mathrm { m } { \\times } 0 . 6 \\ \\mathrm { m } { \\times } 0 . 6 \\ \\mathrm { m }$ to produce $4 5 0 . 0 0 0 \\mathrm { L }$ of freshwater per day. In this study, a DC condenser was developed with the dehumidifier dimensions of $0 . 6 ~ \\mathrm { m } \\times 0 . 6$ $\\mathrm { m } { \\times } 0 . 6 \\mathrm { m }$ , which can produce as high as $2 . 5 9 0 \\mathrm { L }$ of freshwater in $1 0 \\mathrm { m i n }$ （ $2 1 7 . 5 6 0 \\mathrm { L } / \\mathrm { d } )$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In the literature of Zamen et al. (2O13), there was no information mentioned regarding the time interval of freshwater collection and the day of the year where the experiments were conducted. Therefore, the following assumption was made for comparison. Specifically, we assumed that it will take $1 4 \\mathrm { { h } }$ (June daytime length) for the maximum freshwater production ( $( 4 5 0 . 0 0 0 \\mathrm { L } / \\mathrm { d } )$ . Table 7 summaries the specifications of each of the three condensers. Based on the total freshwater produced per unit volume of the condenser, it is clear that the DC condenser mentioned by Zamen et al. (2O13) produced the highest amount of freshwater every $1 0 ~ \\mathrm { { m i n } }$ . However, this production was based on simulation results without experimental verification. In addition, freshwater produced from the three condensers was at different input variables such as mass flowrate of air, hot water and cold water, and the temperature of air, cold water and hot water. ",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/d09ce060850db0ecca9fa6baf70e5b9af5ed13991ed97eeb97e7bc29086b4f0d.jpg",
+        "table_caption": [
+            "Table7Specification of the three comparable condensers "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Direct contact (DC) condenser</td><td>Old plastic ondeaier ata (2019))</td><td>DirCD) ontact dseh umidification of Zamen et al. (2013))</td></tr><tr><td>Mode of freshwater collection</td><td>Experimental</td><td>Experimental</td><td>Simulation</td></tr><tr><td>Maximum freshwater production (L)</td><td>2.590</td><td>300.000</td><td>450.000</td></tr><tr><td>Condensate collection period</td><td>10 min</td><td>14 h</td><td>14 h</td></tr><tr><td>Condenser volume (m³)</td><td>0.216</td><td>22.800</td><td>0.216</td></tr><tr><td>Freshwater produced per unit volume (L/(10 min·m³))</td><td>11.990</td><td>0.158</td><td>24.800</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Comparing the two experimental studies, freshwater produced from the DC condenser is relatively higher than that from the old plastic condenser by 75.9 times, which emphasizes that the DC condenser in this study is very efficient and promising in producing freshwater for the SWGH due to its relatively smal size, simple design and high freshwater production. By highlighting the different advantages of the DC condenser with the plastic condenser, it is advisable to replace the plastic condenser of the existing SWGHs in Oman with the DC condenser. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4Conclusions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This study provided the first experimental trial to evaluate the performance of the proposed packedtype DCD system for the SWGH application. Based on the statistical analysis, the significant variables that highly contributed to water production in the DCD system were the inlet air temperature and inlet water temperature of the humidifier. The maximum freshwater production was $2 . 5 9 0 \\mathrm { L } \\left( 1 0 \\mathrm { m i n } \\right)$ that was collected when the mass flowrate of hot water of the humidifier, the mass flowrate of inlet air and the temperature of hot water of the humidifier were at high levels; while the minimum freshwater production was $0 . 2 5 7 \\mathrm { L }$ (10 min) that was collected when the mass flowrate of cold water of the dehumidifier and the temperature of hot water of the humidifier were at low levels. For the maximum and minimum freshwater production, the gained output ratio was 2.32 and 0.56, respectively. This indicates that the DC condenser was efficient in terms of operating costs at the maximum freshwater production. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The height of the dehumidifier can be increased to some extent since the coolant temperature was higher than the inlet dew point temperature in all experiments. The comparison between the high and low levels for each of the six variables in the 32 pair of experiments revealed that the inlet air temperature of the humidifier had the highest negative impact on freshwater production while the temperature of hot water of the humidifier had a relatively strong positive effect on freshwater production. The new packed-type DCD system is more efficient in producing freshwater compared to the old plastic condenser, as it can produce about 75.9 times more freshwater for the same condenser volume. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "We therefore highly recommended to investigate other possible variables that can affect freshwater production in the DCD system over a wider range of inputs. In addition, it is worthwhile to optimize the height of the current condenser design and to study the potential of using different packing materials with the focus on the locally available materials. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "We wouldlike to expressour sincere thanks to the Sultan Qaboos University for the research grant provided through His Majesty Sultan Qaboos Trust Fund (Project code: # SR/AGR/SWAE/17/01). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Al-IsmailiAM.2oo3.ModificationofaQuonset grenhouse toahumidification-dehumidificationsystem:design,construction and pilot testing. MSc Thesis.Muscat: Sultan Qaboos University.   \nAl-Ismaili AM, WeatherheadEK,Jayasuriya HP.2012.Mathematical simulationofthedehumidifierofseawater greenouse. In: International Conference of Agricultural Engineering. Valencia, Spain.   \nAl-IsmailiAM,JayasuriyaH.20l6.Seawater greenhouse inOman:Asustainable technique forfreshwaterconservationand production. Renewable and Sustainable Energy Reviews,54: 653-664.   \nAl-IsmailiA,JayasuriaH,ullYetal8.Empiicalmodelorteodenserofteseawatergreeouse.Cical Engineering Communications,205(9): 1252-1260.   \nAl-Ismaili AM,RamliNM,HussainMA,etal.2Ol9.Artificial neuralnetwork simulationofthecondenserofseawater greenhouse in Oman. Chemical Engineering Communications,206(8): 967-985.   \nAl-Khalidi A,ZurigatYH,DawoudB,etal.2O10.Performanceofa greenhousedeslinationcondenser: Anexperimental study. In: The $1 ^ { \\mathrm { s t } }$ International Nuclear & Renewable Energy Conference (INREC). Amman, Jordan.   \nAl-Khalidi A,ZurigatYH,DawoudB,etal.20l3.Condenserdesigns for greenhousedesalination.International Joualof Sustainable Water and Environmental Systems,5(1): 1-6.   \nBait-SuwailamTK,Al-IsmailiAM.2O19.Seawater grenhouse:Achievementsandfuturedevelopment.JournalofRecent Patents on Engineering, 13(1): 1-13.   \nBourouni K,ChaibiMT,TadristL.2Oo1.Waterdesalinationbyhumidificationanddehumidificationofair: stateof theart. Desalination, 137(1-3): 167-176.   \nDavies P, Charlie P. 2OO4. The seawater grenhouse and the watermaker condenser. In: The $3 ^ { \\mathrm { r d } }$ International Conference on Heat Powered Cycles. Larnaca, Cyprus.   \nDawoud B,ZurigatYH, Klitzing B,etal.2O06.Onthe possible techniques tocool thecondenserof seawater greenouses. Desalination, 195(1-3): 119-140.   \nEslamimanesh A,Hatamipour MS.20o9.Mathematical modelingof a directcontact humidification-dehumidification desalination process. Desalination, 237(1-3): 296-304.   \nFadel MA,AlMekhmaryM,MousaM.2O13.Waterandenergyuseeficienciesoforganic tomatoes productioninatypical greenhouse under UAE weather conditions. In: ISHS Acta Horticulturae 1054: International Conference on Agricultural Engineering: New Technologies for Sustainable Agricultural ProductionandFood Security.Muscat,Oman,81-88.   \nGhaffour N,Reddy VK, Abu-Arabi M.2011.Technologydevelopmentand applicationof solar energy indesalination: Middle EastDesalinationResearch Center(MEDRC)contribution.Renewable and Sustainable Energy Reviews,15(9): 4410-4415.   \nGhafourN,BundschuhJ,Mahmoudi H,etal.O15.Renewableenerg-drivendesalination technologies:Acompreesive review on challenges and potential applications of integrated systems. Desalination,356: 94-114.   \nGoosenMF,Al-Hinai H,Sablani S.2Oo1.Capacity-buildingstrateges fordesalination:activities,faciliesandeducational programs in Oman. Desalination,141(2): 181-189.   \nHajiamiri M,Salehi GR.20l3.Modelingof theseawater greenhouse systems.LifeScience Journal,10(8):353-359.   \nLiao CM,Chiu K H.2O02. Wind tunnel modeling the system performance of alternative evaporativecooling pads in Taiwan region. Building and Environment, 37(2): 177-187.   \nMahmoudiH,SpahisN,bdul-WahabAS,etal.2O10.Improvingtheperformanceofaseawatergrenhousedesalinationtem byassessmentofsimulationmodels fordiferentcondensers.RenewableandSustainableEnergyReviews,14(8):2182-2188.   \nMehrgoo M,Amidpour M.2012.Constructal designandoptimizationofadirectcontacthumidification-dehumidification desalination unit. Desalination, 293: 69-77.   \nNawayseh NK,FaridMM,OmarAA,etal.1999.Solardesalinationbasedonhumidificationprocess—I.Computersiulation. Energy Conversion and Management, 40(13): 1441-1461.   \nNiroomand N,Zamen M,Amidpour M.215.Theoretical investigationof usingadirectcontactdehumidifier inhumidification dehumdification desalination unit based on an open aircycle.Desalination and Water Treatment,54(2): 305-315.   \nPahlavanR,Omid M,Akram A.2011. Modeling and sensitivity analysis of energy inputs for greehouse cucumber production. Journal of Agricultural Technology, 7(6): 1509-1521.   \nSablaniSS,PerretJ,GoosenMFA,etal.2Oo5.Developmentofhumidification-dehumidificationseawatergeeouse technology for arid coastal regions. In: The $3 ^ { \\mathrm { t h } }$ LACCEI International Latin American and Caribbean Conference for Engineering and Technology \"Advances in Engineeringand Technology: A Global Perspective\". Cartagena,Colombia.   \nSideman S,Moalem-MaronD.1982.Directcontact condensation.Advances in Heat Transfer,15: 227-281.   \nXuL,ChenYP, WuPH,etal.2020.Humidification-dehumidification(HDH)desalinationsystem withair-colingcondenser and cellulose evaporative pad. Water, 12(142): 1-14.   \nZamenM,AmidpourM,FiroozjaeiMR.2013.Anovelintegratedsystemforfreshwaterproductioningrenhouse:Dyamic simulation. Desalination, 322: 52-59.   \nZurigatYH,AldossT,DawoudB,etal.28.Greenouse-Stateoftheartreviewandperformanceevaluationofehumidifier. In: Middle East Desalination Research Center Series of Research and Development Reports.MEDRC Project: 03-AS-003. Muscat: The Middle East Desalination Research Center Muscat Sultanate of Oman. https://www.medrc.org/wpcontent/uploads/2020 /04/03-AS-003.pdf. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Appendix ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/5233fc815c637c9ec1a374a0abab25b618abc2dc9ff996402871bb6d2aa184cc.jpg",
+        "table_caption": [
+            "Table S1 Technical specification of the instruments used in the study "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Instrument</td><td>Model</td><td>Measurements range</td><td>Accuracy</td></tr><tr><td>Digital anemometer</td><td>HHF-SD1, OMEGA,Taiwan of China</td><td>0.2-5.0 m/s</td><td>±5%</td></tr><tr><td>T-type thermocouple</td><td>TT-T-22-SLE-1000, OMEGA, USA</td><td>0.0℃-260.0℃</td><td>±2%</td></tr><tr><td>Relative humidity and temperature sensor</td><td>HMP155, VAISALA, Finland</td><td>0%-100% for relative humidity and -80.0C-60.0℃ for temperature</td><td>±2% for relative humidity and ±0.2℃ for temperature</td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/0b5d5e33c2a3eb2d708e10755a34ba2ba88ac2795b0047465bbd0e7bafebe5a7.jpg",
+        "table_caption": [
+            "Table S2Production of freshwater from all 64 experiments with the high and low values of each variable "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Experiment</td><td>(kg/s)</td><td>(g/s)</td><td>(kg/s)</td><td>T</td><td>T</td><td>To</td><td></td><td></td></tr><tr><td>1</td><td>0.19</td><td>0.15</td><td>0.04±0.01</td><td>50.0±5.0</td><td>24.0±5.0</td><td>23.0±3.0</td><td>0.970</td><td>5.820</td></tr><tr><td>2</td><td>0.27</td><td>0.15</td><td>0.04±0.01</td><td>50.0±5.0</td><td>24.0±5.0</td><td>23.0±3.0</td><td>1.800</td><td>10.800</td></tr><tr><td>3</td><td>0.27</td><td>0.15</td><td>0.02±0.01</td><td>35.0±5.0</td><td>31.0±5.0</td><td>23.0±3.0</td><td>1.090</td><td>6.540</td></tr><tr><td>4</td><td>0.27</td><td>0.15</td><td>0.02±0.01</td><td>50.0±5.0</td><td>24.0±5.0</td><td>23.0±3.0</td><td>2.300</td><td>13.800</td></tr><tr><td>5</td><td>0.19</td><td>0.13</td><td>0.04±0.01</td><td>50.0±5.0</td><td>31.0±5.0</td><td>23.0±3.0</td><td>1.520</td><td>9.120</td></tr><tr><td>6</td><td>0.27</td><td>0.13</td><td>0.04±0.01</td><td>35.0±5.0</td><td>31.0±5.0</td><td>23.0±3.0</td><td>2.362</td><td>14.172</td></tr><tr><td>7</td><td>0.27</td><td>0.13</td><td>0.04±0.01</td><td>50.0±5.0</td><td>31.0±5.0</td><td>23.0±3.0</td><td>1.200</td><td>7.200</td></tr><tr><td>8</td><td>0.27</td><td>0.13</td><td>0.02±0.01</td><td>35.0±5.0</td><td>24.0±5.0</td><td>28.0±3.0</td><td>0.590</td><td>3.540</td></tr><tr><td>9</td><td>0.19</td><td>0.15</td><td>0.04±0.01</td><td>35.0±5.0</td><td>31.0±5.0</td><td>23.0±3.0</td><td>1.380</td><td>8.280</td></tr><tr><td>10</td><td>0.19</td><td>0.13</td><td>0.02±0.01</td><td>35.0±5.0</td><td>31.0±5.0</td><td>23.0±3.0</td><td>1.152</td><td>6.912</td></tr><tr><td>11</td><td>0.19</td><td>0.13</td><td>0.04±0.01</td><td>35.0±5.0</td><td>31.0±5.0</td><td>28.0±3.0</td><td>0.674</td><td>4.044</td></tr><tr><td>12</td><td>0.27</td><td>0.15</td><td>0.04±0.01</td><td>50.0±5.0</td><td>31.0±5.0</td><td>23.0±3.0</td><td>2.209</td><td>13.254</td></tr><tr><td>13</td><td>0.19</td><td>0.13</td><td>0.02±0.01</td><td>50.0±5.0</td><td>31.0±5.0</td><td>23.0±3.0</td><td>2.249</td><td>13.494</td></tr><tr><td>14</td><td>0.27</td><td>0.13</td><td>0.02±0.01</td><td>35.0±5.0</td><td>31.0±5.0</td><td>28.0±3.0</td><td>0.617</td><td>3.702</td></tr><tr><td>15</td><td>0.27</td><td>0.15</td><td>0.02±0.01</td><td>35.0±5.0</td><td>24.0±5.0</td><td>23.0±3.0</td><td>2.373</td><td>14.238</td></tr><tr><td>16</td><td>0.27</td><td>0.15</td><td>0.04±0.01</td><td>50.0±5.0</td><td>31.0±5.0</td><td>28.0±3.0</td><td>1.415</td><td>8.490</td></tr><tr><td>17</td><td>0.19</td><td>0.15</td><td>0.04±0.01</td><td>50.0±5.0</td><td>24.0±5.0</td><td>28.0±3.0</td><td>0.485</td><td>2.910</td></tr><tr><td>18</td><td>0.27</td><td>0.13</td><td>0.02±0.01</td><td>50.0±5.0</td><td>31.0±5.0</td><td>23.0±3.0</td><td>1.570</td><td>9.420</td></tr><tr><td>19</td><td>0.27</td><td>0.13</td><td>0.02±0.01</td><td>35.0±5.0</td><td>24.0±5.0</td><td>23.0±3.0</td><td>1.513</td><td>9.078</td></tr><tr><td>20</td><td>0.27</td><td>0.13</td><td>0.02±0.01</td><td>35.0±5.0</td><td>31.0±5.0</td><td>23.0±3.0</td><td>0.874</td><td>5.244</td></tr><tr><td>21</td><td>0.19</td><td>0.15</td><td>0.02±0.01</td><td>35.0±5.0</td><td>31.0±5.0</td><td>23.0±3.0</td><td>1.041</td><td>6.246</td></tr><tr><td>22</td><td>0.19</td><td>0.15</td><td>0.04±0.01</td><td>35.0±5.0</td><td>31.0±5.0</td><td>28.0±3.0</td><td>0.630</td><td>3.780</td></tr><tr><td>23</td><td>0.19</td><td>0.13</td><td>0.04±0.01</td><td>50.0±5.0</td><td>24.0±5.0</td><td>23.0±3.0</td><td>1.920</td><td>11.520</td></tr><tr><td>24</td><td>0.27</td><td>0.13</td><td>0.04±0.01</td><td>50.0±5.0</td><td>24.0±5.0</td><td>23.0±3.0</td><td>2.590</td><td>15.540</td></tr><tr><td>25</td><td>0.19</td><td>0.15</td><td>0.02±0.01</td><td>50.0±5.0</td><td>31.0±5.0</td><td>23.0±3.0</td><td>1.836</td><td>11.016</td></tr><tr><td>26</td><td>0.19</td><td>0.15</td><td>0.04±0.01</td><td>50.0±5.0</td><td>31.0±5.0</td><td>23.0±3.0</td><td>1.760</td><td>10.560</td></tr><tr><td>27</td><td>0.19</td><td>0.13</td><td>0.02±0.01</td><td>50.0±5.0</td><td>24.0±5.0</td><td>23.0±3.0</td><td>1.631</td><td>9.786</td></tr><tr><td>28</td><td>0.19</td><td>0.13</td><td>0.02±0.01</td><td>50.0±5.0</td><td>31.0±5.0</td><td>28.0±3.0</td><td>1.067</td><td>6.402</td></tr><tr><td>29</td><td>0.27</td><td>0.15</td><td>0.02±0.01</td><td>50.0±5.0</td><td>31.0±5.0</td><td>23.0±3.0</td><td>1.070</td><td>6.420</td></tr><tr><td>30</td><td>0.19</td><td>0.13</td><td>0.02±0.01</td><td>35.0±5.0</td><td>31.0±5.0</td><td>28.0±3.0</td><td>0.489</td><td>2.934</td></tr><tr><td>31</td><td>0.19</td><td>0.13</td><td>0.02±0.01</td><td>50.0±5.0</td><td>24.0±5.0</td><td>28.0±3.0</td><td>1.279</td><td>7.674</td></tr><tr><td>32</td><td>0.27</td><td>0.13</td><td>0.04±0.01</td><td>35.0±5.0</td><td>24.0±5.0</td><td>23.0±3.0</td><td>0.940</td><td>5.640</td></tr><tr><td>33</td><td>0.27</td><td>0.13</td><td>0.04±0.01</td><td>50.0±5.0</td><td>31.0±5.0</td><td>28.0±3.0</td><td>0.851</td><td>5.106</td></tr><tr><td>34</td><td>0.27</td><td>0.15</td><td>0.02±0.01</td><td>50.0±5.0</td><td>24.0±5.0</td><td>28.0±3.0</td><td>1.366</td><td>8.196</td></tr><tr><td>35</td><td>0.27</td><td>0.13</td><td>0.02±0.01</td><td>50.0±5.0</td><td>24.0±5.0</td><td>23.0±3.0</td><td>2.000</td><td>12.000</td></tr><tr><td>36</td><td>0.19</td><td>0.13</td><td>0.02±0.01</td><td>35.0±5.0</td><td>24.0±5.0</td><td>23.0±3.0</td><td>1.725</td><td>10.350</td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/de95ab2452eca081e2fb0c4d92d5340e98371424d0b43c5343cf592d9aa13598.jpg",
+        "table_caption": [
+            "Continued "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"8\">Measured Measured</td></tr><tr><td>Experiment</td><td>mwh (kg/s)</td><td>mwd (kg/s)</td><td>(kg/s) ma.h</td><td>Twh (C)</td><td>Twd (℃)</td><td>Ta.in (C)</td><td>production (L/10 min)</td><td>production (L/h)</td></tr><tr><td>37</td><td>0.19</td><td>0.15</td><td>0.02±0.01</td><td>35.0±5.0</td><td>24.0±5.0</td><td>23.0±3.0</td><td>1.423</td><td>8.538</td></tr><tr><td>38</td><td>0.19</td><td>0.15</td><td>0.02±0.01</td><td>50.0±5.0</td><td>31.0±5.0</td><td>28.0±3.0</td><td>1.007</td><td>6.042</td></tr><tr><td>39</td><td>0.27</td><td>0.15</td><td>0.02±0.01</td><td>35.0±5.0</td><td>31.0±5.0</td><td>28.0±3.0</td><td>0.694</td><td>4.164</td></tr><tr><td>40</td><td>0.19</td><td>0.15</td><td>0.02±0.01</td><td>35.0±5.0</td><td>31.0±5.0</td><td>28.0±3.0</td><td>0.620</td><td>3.720</td></tr><tr><td>41</td><td>0.27</td><td>0.13</td><td>0.02±0.01</td><td>50.0±5.0</td><td>31.0±5.0</td><td>28.0±3.0</td><td>1.015</td><td>6.090</td></tr><tr><td>42</td><td>0.27</td><td>0.15</td><td>0.04±0.01</td><td>35.0±5.0</td><td>31.0±5.0</td><td>28.0±3.0</td><td>0.700</td><td>4.200</td></tr><tr><td>43</td><td>0.19</td><td>0.15</td><td>0.04±0.01</td><td>35.0±5.0</td><td>24.0±5.0</td><td>28.0±3.0</td><td>0.720</td><td>4.320</td></tr><tr><td>44</td><td>0.19</td><td>0.13</td><td>0.04±0.01</td><td>35.0±5.0</td><td>24.0±5.0</td><td>23.0±3.0</td><td>1.519</td><td>9.114</td></tr><tr><td>45</td><td>0.19</td><td>0.15</td><td>0.04±0.01</td><td>35.0±5.0</td><td>24.0±5.0</td><td>23.0±3.0</td><td>1.433</td><td>8.598</td></tr><tr><td>46</td><td>0.27</td><td>0.15</td><td>0.04±0.01</td><td>50.0±5.0</td><td>24.0±5.0</td><td>28.0±3.0</td><td>1.065</td><td>6.390</td></tr><tr><td>47</td><td>0.27</td><td>0.15</td><td>0.04±0.01</td><td>35.0±5.0</td><td>24.0±5.0</td><td>28.0±3.0</td><td>0.932</td><td>5.592</td></tr><tr><td>48</td><td>0.19</td><td>0.15</td><td>0.02±0.01</td><td>35.0±5.0</td><td>24.0±5.0</td><td>28.0±3.0</td><td>0.984</td><td>5.904</td></tr><tr><td>49</td><td>0.19</td><td>0.13</td><td>0.04±0.01</td><td>50.0±5.0</td><td>31.0±5.0</td><td>28.0±3.0</td><td>0.648</td><td>3.888</td></tr><tr><td>50</td><td>0.27</td><td>0.15</td><td>0.02±0.01</td><td>35.0±5.0</td><td>24.0±5.0</td><td>28.0±3.0</td><td>0.828</td><td>4.968</td></tr><tr><td>51</td><td>0.27</td><td>0.13</td><td>0.02±0.01</td><td>50.0±5.0</td><td>24.0±5.0</td><td>28.0±3.0</td><td>1.106</td><td>6.636</td></tr><tr><td>52</td><td>0.19</td><td>0.13</td><td>0.04±0.01</td><td>50.0±5.0</td><td>24.0±5.0</td><td>28.0±3.0</td><td>1.007</td><td>6.042</td></tr><tr><td>53</td><td>0.27</td><td>0.15</td><td>0.04±0.01</td><td>35.0±5.0</td><td>31.0±5.0</td><td>23.0±3.0</td><td>0.885</td><td>5.310</td></tr><tr><td>54</td><td>0.19</td><td>0.13</td><td>0.04±0.01</td><td>35.0±5.0</td><td>31.0±5.0</td><td>23.0±3.0</td><td>0.997</td><td>5.982</td></tr><tr><td>55</td><td>0.27</td><td>0.15</td><td>0.02±0.01</td><td>50.0±5.0</td><td>31.0±5.0</td><td>28.0±3.0</td><td>0.830</td><td>4.980</td></tr><tr><td>56</td><td>0.19</td><td>0.15</td><td>0.02±0.01</td><td>50.0±5.0</td><td>24.0±5.0</td><td>23.0±3.0</td><td>1.327</td><td>7.962</td></tr><tr><td>57</td><td>0.27</td><td>0.13</td><td>0.04±0.01</td><td>35.0±5.0</td><td>24.0±5.0</td><td>28.0±3.0</td><td>0.795</td><td>4.770</td></tr><tr><td>58</td><td>0.19</td><td>0.13</td><td>0.04±0.01</td><td>35.0±5.0</td><td>24.0±5.0</td><td>28.0±3.0</td><td>0.432</td><td>2.592</td></tr><tr><td>59</td><td>0.19</td><td>0.15</td><td>0.04±0.01</td><td>50.0±5.0</td><td>31.0±5.0</td><td>28.0±3.0</td><td>0.662</td><td>3.972</td></tr><tr><td>60</td><td>0.27</td><td>0.15</td><td>0.04±0.01</td><td>35.0±5.0</td><td>24.0±5.0</td><td>23.0±3.0</td><td>2.030</td><td>12.180</td></tr><tr><td>61</td><td>0.19</td><td>0.13</td><td>0.02±0.01</td><td>35.0±5.0</td><td>24.0±5.0</td><td>28.0±3.0</td><td>0.515</td><td>3.090</td></tr><tr><td>62</td><td>0.27</td><td>0.13</td><td>0.04±0.01</td><td>35.0±5.0</td><td>31.0±5.0</td><td>28.0±3.0</td><td>0.257</td><td>1.542</td></tr><tr><td>63 64</td><td>0.19 0.27</td><td>0.15 0.13</td><td>0.02±0.01 0.04±0.01</td><td>50.0±5.0 50.0±5.0</td><td>24.0±5.0 24.0±5.0</td><td>28.0±3.0 28.0±3.0</td><td>0.350 0.290</td><td>2.100 1.740</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 15
+    }
+]

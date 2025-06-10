@@ -1,0 +1,278 @@
+# 融合背景估计与U-Net的文档图像二值化算法
+
+熊炜ab，王鑫睿‘，王娟ab，刘敏aʰ，曾春艳a,b(湖北工业大学 a.电气与电子工程学院;b.太阳能高效利用湖北省协同创新中心，武汉 430068)
+
+摘要：针对低质量文档图像存在页面污渍、墨迹浸润、背景纹理等多种退化因素，提出一种融合背景估计与U型卷积神经网络(U-Net)的文档图像二值化算法。该算法首先进行图像对比度增强，然后通过形态学闭操作来估计文档图像背景，并利用全卷积网络，即U-Net对背景减除图像进行前景背景分割，最后采用全局最优阈值处理方法获得最终二值图像。实验结果表明，在 2016 和 2017年国际文档图像二值化竞赛中本文算法的 $F$ 值 $F$ -measure，FM)、伪 $F$ 值(pseudo $F$ -measure,p-FM)、峰值信噪比(peak signal to noise ratio,PSNR)、距离倒数失真度量(distance reciprocaldistortion，DRD)比性能次优的经典算法最高有 $5 . 5 8 \%$ 、 $2 . 4 7 \%$ 、 $0 . 8 6 \mathrm { d B }$ 、 $1 . 1 9 \%$ 的性能提升。
+
+关键词：文档图像二值化；对比度增强；形态学闭操作；U型卷积神经网络；全局最优阈值处理 中图分类号：TP391.41 doi:10.19734/j.issn.1001-3695.2018.07.0666
+
+Document image binarization algorithm based on background estimation and u-net
+
+Xiong Weia,b,Wang Xinruia, Wang Juana, b, Liu Mina,b, Zeng Chunyana,b, (a.SchoolofElectrical&ElectronicEngineeing,b.HubeiCollborativeInnovationCenterforHigh-eficiency Utiliation ofSolar Energy,Hubei University of Technology,Wuhan 430o68,China)
+
+Abstract: Degraded document images have various degradation factors，suchas page stains,ink bleed-through，and background texture.We propose a novel document image binarization algorithm basedon background estimation and U-Net. The algorithm first performs image contrast enhancement,and estimates the document background via morphological closing operations.We thenadopta fullyconvolutional network,namelythe U-Net,to extractthe foreground text fromthe documentbackground.Finaly,theglobaloptimal thresholding method isusedtoobtain theresulting binary image.The proposed technique has been extensively evaluated over the recent DIBCO benchmark datasets.Experimental results show that our proposed method outperforms otherstate-of-the-artdocument image binarizationalgorithms in terms ofF-measure, pseudo F-measure, PSNR and DRD, with $5 . 5 8 \%$ 、 $2 . 4 7 \%$ 、 $0 . 8 6 \mathrm { d B }$ and $1 . 1 9 \%$ ：
+
+Keywords: document image binarization;contrast enancement; morphological closing operation;u-net; global optimal thresholding
+
+# 0 引言
+
+图像二值化作为识别与分析文档图像的预处理步骤，被广泛应用于古籍文档修复，签名验证等领域I。受物理条件和人为因素的影响，低质量文档图像具有页面污渍等复杂背景特性[2]，导致图像的目标信息与背景差异较小，因此低质量文档图像二值化极具挑战性[3]。
+
+文档图像二值化算法划分为全局阈值法，局部阈值法和混合阈值法[4]。全局阈值法通过选取固定阈值 $G _ { T }$ 作用于所有像素点，将图像分为前景与背景两大类，算法优点在于复杂度较低，但处理具有复杂背景特性的图像会造成文本丢失，经典的全局阈值法有Otsu算法[5]等。局部阈值法基于滑动窗与图像的卷积操作来设定每个像素点的阈值。Wolf[利用图像的归一化对比度和邻域内标准差与灰度均值，从而进行局部二值化。局部阈值法还包括Sauvola算法[7]、Niblack算法[8]等。此类算法适用性强，但性能依赖邻域的窗口尺寸。
+
+Su等人[9将局部灰度值作归一化处理，以抑制图像背景亮度不均匀产生的影响(LMM算法)，但处理边缘区域时存在字符中空现象。Lu等人[10基于邻域内像素点的差异，检测出字符边缘并估计字符宽度进而完成二值化(BESE 算法)，但算法抑制背景污渍的能力较差。Howe通过图割方法实现能量函数最小化完成图像分割[1I]，并对算法的结构参数进行调优[12]，但是该类算法处理低对比度图像会损失部分笔画细节。Mesquita[13]提出一种人眼视觉模型，基于能量函数最小化与I/F-Race方法，区分文本与背景像素点。Kligler[14]依据文档图像的亮度变化将估计背景移除，利用图割算法得到二值结果，但算法会将浸润的墨迹错判为字符。Tensmeyer[15]结合相对暗特征与能量函数，采用5层全卷积神经网络完成图像二值化，该算法虽然能够较好的抑制背景污渍，但是容易造成笔画断裂。此外还有参数调优法[16]、分类器法[17]、聚类法[18]等混合阈值算法。本文将背景估计与U型卷积神经网络相结合，从而实现文档图像二值化，并通过实验对比分析验证本文方法的性能。
+
+# 1融合背景估计与U型卷积神经网络的文档图像二值化算法
+
+# 1.1算法流程
+
+本文提出方法的模型如图1所示。
+
+![](images/915e34456ebe516f4f10e9087f67a102e00fee53e36ba7d6600ac2e035f83ab9.jpg)  
+图1算法流程图  
+Fig.1Algorithm flowchart   
+Fig.2Image enhancement
+
+a)对彩色文档图像 $f ( x , y )$ 作灰度处理得到灰度图 $f _ { g r a y }$ ，并对图像 $f _ { g r a y }$ 进行对比度增强;
+
+b)利用形态学闭操作估计对比度增强图像 $f _ { e q }$ 的背景，其结构元的大小与文字笔画宽度有关；
+
+c)结合对比度增强图 $f _ { e q }$ 与背景估计图 $f _ { b g }$ ，得到去除背景图像 $f _ { n e g a t e }$ ；
+
+d)通过U-Net网络实现对背景减除图 $f _ { n e g a t e }$ 的分割得到图像 $f _ { s e g }$ ，并通过Otsu 算法得到二值结果图像 $f _ { f i n a l }$ 。
+
+# 1.2背景估计
+
+对原始文档图像采用加权平均法，如式(1)所示，作灰度化处理得到图 $f _ { g r a y }$ ，如图2(b)所示。
+
+$$
+f _ { g r a y } ( x , y ) = 0 . 2 9 9 f _ { R } ( x , y ) + 0 . 5 8 7 f _ { G } ( x , y ) + 0 . 1 1 4 f _ { B } ( x , y )
+$$
+
+其中: $f _ { R } ( x , y )$ 、 $f _ { G } ( x , y )$ 、 $f _ { B } ( x , y )$ 分别表示图像 $R$ 、 $G$ 、 $B$ 三通道的分量。
+
+对灰度图 $f _ { g r a y }$ 作线性灰度变换操作，如式(2)所示，得到图像 $f _ { e q }$ 如图2(c)所示，此时图像 $f _ { e q }$ 中字符与背景之间的对比度得到提高。
+
+$$
+f _ { e q } ( x , y ) = \left\{ \begin{array} { c c } { { h _ { 1 } } } & { { \qquad f _ { g r a y } ( x , y ) < l _ { 1 } } } \\ { { \qquad h _ { 2 } - h _ { 1 } \times ( f _ { g r a y } ( x , y ) - l _ { 1 } ) + h _ { 1 } \qquad l _ { 1 } < f _ { g r a y } ( x , y ) < l _ { 2 } } } \\ { { \qquad h _ { 2 } } } & { { \qquad f _ { g r a y } ( x , y ) > l _ { 2 } } } \end{array} \right.
+$$
+
+其中：图像 $f _ { g r a y }$ 中灰度值小于 $l _ { 1 }$ 和大于 $l _ { 2 }$ 的像素点分别占整幅图像的 $1 \%$ ， $h _ { 1 } = 0$ 、 $h _ { 2 } = 2 5 5$ 表示灰度变换图像 $f _ { e q }$ 的灰度值范围。
+
+笔画宽度变换算法[19]利用Canny 算子计算像素点 $p$ 的梯度 $\boldsymbol { d } _ { p _ { } }$ ，沿射线 $r = p \pm n { \bullet } d _ { p } ( n > 0 )$ 寻找匹配点 $q$ (梯度为 $d _ { q }$ )。若$d _ { p }$ 、 $d _ { q }$ 的方向相反则计算欧式距离 $\| { \overrightarrow { p - q } } \|$ ，并将 $p$ 与 $\boldsymbol { q }$ 之间的点赋值为 $\| { \overrightarrow { p - q } } \|$ (排除已被指定更小值的像素点)，若未能找到满足条件的像素点则将射线 $r = p \pm n \bullet d _ { p }$ 舍弃，图像 $f _ { e q }$ 的笔画宽度估计SWE如式(3)所示。
+
+$$
+S W E = \frac { 1 } { n u m } \sum _ { s ( x , y ) \neq 0 } s ( x , y )
+$$
+
+其中：num表示笔画宽度变换算法的输出矩阵 $s ( x , y )$ 中不为0的个数。
+
+使用圆形结构元对灰度变换图 $f _ { e q }$ 进行形态学闭操作得到估计背景图 $f _ { b g }$ ，如图2(d)所示，结构元直径和笔画宽度有关，如式(4)所示。
+
+$$
+f _ { e q } \bullet b = ( f _ { e q } \oplus b ) \odot b
+$$
+
+其中: $\oplus$ 表示膨胀， $\Theta$ 表示腐蚀， $b$ 代表结构元， $\textit { b }$ 的直径为$d = S W E + \Delta d$ （ $\Delta d$ 为增量)。
+
+计算灰度变换图 $f _ { e q }$ 与背景估计图 $f _ { b g }$ 的绝对差值，得到图像 $f _ { d i f f }$ ，如图2(e)所示，并将差值图像 $f _ { d i f f }$ 取反获得背景减除图 $f _ { n e g a t e }$ ，如图2(f)所示。与灰度图像相比，抑制了图像背景污渍，有利于字符与背景的分割。
+
+Pythagorica.D.14. Pythagorica.D.14. Pythagorica.D.14   
+cBbccre..40.2X.33 Bbege..42.33 .cBbecte..42.   
+cnng..fo.2.40. ecnng.o.2L.4. xconng C.fo.2.4.   
+egula.E.66.A.2.D.7 mgnla.E.66.A.52.D.7 regnla.E.66.A.52.D.70   
+enteicaeLE.... ndeegelE.. eneicgeL..4   
+ecbmng..46.2.38. echming..46.2L.38. recbmng..46.2L.38.   
+Kegel.E.56.2.44D.ff Kegel.E.6.24D. cgel.E.56.244D 1   
+igeEeferwoebemifiraunemmen igEefertoobemrnnemen tieSeferoolebiemirirgunemmen:   
+SnenendDantatteufparen/acbe SunftenndDanbaetcrfpren/gcbe BunfenendDandbaetcurfpiren/gcbe mchrermnadjiaennd fetbig mchrermadninnnn felbig mchrermnadinnennd felbige Cagsugeben. Cagsugeben. Cagiugeben (a)原始文档图像 (b)灰度图 $f _ { g r a y }$ （204号 (c)灰度变换图 $f _ { e q }$ Pythagorica.D.14. ocate. .402.33 Bbee.42 nng. 2 dnmg.o.2.40 gula.E.66.A..D. mcgula.E.66.A.52.D.7 egeLE.. eneegeLE .46.2.38. rechmng..46.2.38. cgel.E.6.2.44D Xegel.E.56.2.44D.5 1 tigeSeferroolebiemifrg nem tigeSefertooebiemirirgunemmen: ennddandbarteufpiren/gcb SunftenendDandbatcirfptren/gcbe mehrermnadinnenend felbi mchrermnadinnennd felbige Cagiugeben. agugeben (d)背景估计图 $f _ { b g }$ (e)差值图fdiff (f)背景减除图 $f _ { n e g a t e }$ （20 图）
+
+为确定 $\Delta d$ 的值，选取2009至2014年国际文档图像二值化竞赛(Document Image Binarization Contest,DIBCO)所提供的图像(共计76张)作为训练集，采用Otsu 算法对背景减除图像进行二值化，并使用F值对输出结果进行评估，如式(5)所示，训练结果如表1所示。
+
+$$
+\mathrm { F M } = { \frac { 2 \times R C \times P R } { R C + P R } }
+$$
+
+其中: $R C = { \frac { T P } { T P + F N } }$ 代表查全率， $P R = { \frac { T P } { T P + F P } }$ 代表查准率； $T P$ 表示为正确肯定像素数， $F P$ 表示为错误肯定像素数， $F N$ 表示为错误否定像素数。
+
+表1训练结果  
+Table1 Training results   
+
+<html><body><table><tr><td>△d</td><td>FM</td><td>d</td><td>FM</td><td>d</td><td>FM</td></tr><tr><td>1</td><td>73.349</td><td>11</td><td>87.927</td><td>21</td><td>87.210</td></tr><tr><td>2</td><td>81.205</td><td>12</td><td>87.914</td><td>22</td><td>87.124</td></tr><tr><td>3</td><td>84.848</td><td>13</td><td>87.793</td><td>23</td><td>87.059</td></tr><tr><td>4</td><td>86.498</td><td>14</td><td>87.667</td><td>24</td><td>86.984</td></tr><tr><td>5</td><td>87.454</td><td>15</td><td>87.603</td><td>25</td><td>86.947</td></tr><tr><td>6</td><td>87.783</td><td>16</td><td>87.537</td><td>26</td><td>86.886</td></tr><tr><td>7</td><td>87.897</td><td>17</td><td>87.443</td><td>27</td><td>86.833</td></tr><tr><td>8</td><td>88.070</td><td>18</td><td>87.387</td><td>28</td><td>86.787</td></tr><tr><td>9</td><td>88.036</td><td>19</td><td>87.337</td><td>29</td><td>86.750</td></tr><tr><td>10</td><td>87.975</td><td>20</td><td>87.270</td><td>30</td><td>86.693</td></tr></table></body></html>
+
+由表1可知 $\Delta d = 8$ 时F值较大，说明此时背景抑制效果
+
+较好，因此选取 $\Delta d = 8$ 进行对剩余数据集进行测试。
+
+# 1.3U型卷积网络
+
+# 1.3.1U型卷积神经网络模型
+
+由于U 型卷积神经网络(U-Net)[20]可以使用非常少的图像进行端到端训练，并且在ISBI神经元结构分割挑战赛中获得了优异的性能，因此本文采用U-Net对去除背景后的图像进行前景与背景分割，网络模型框如图3所示。
+
+U-Net 架构主要由收缩路径和称扩张路径组成。在收缩路径中，基本单元由两个 $3 { \times } 3$ 卷积核及步长为2的 $2 \times 2$ 最大池化组成，使用修正线性单元作为激活函数，在下采样过程中得到低分辨率的高维特征图。在扩张路径中对高维特征图进行上采样，用 $2 \times 2$ 的上卷积核进行反卷积操作，特征通道数被减半，并与收缩路径中对应层级的特征图进行级联，采用与收缩路径中相同的两个 $3 { \times } 3$ 的卷积核进行卷积运算。最后一层中卷积核大小为 $1 \times 1$ ，选择Sigmoid 函数作为激活函数将输入特征向量映射为输出层，如式(6)所示。
+
+$$
+\hat { S ( y ) } = \frac { 1 } { 1 + e ^ { - \hat { y } } }
+$$
+
+其中: $\hat { \bf \Phi } _ { y }$ 为激活函数的输入特征， $\hat { S ( y ) } \in ( 0 , 1 )$ 为当前像素被识别为文本的概率值。
+
+网络采用对数损失函数来反映预测值和真实值之间的差异，具体如式(7)所示，并通过反向传播算法对网络模型参数进行更新。
+
+$$
+J _ { C E } ( y , \hat { \dot { y } } ) = - \frac { 1 } { m } [ \sum _ { i = 1 } ^ { m } y _ { i } \ln ( S ( \hat { \dot { y _ { i } } } ) ) + ( 1 - y _ { i } ) \ln ( 1 - S ( \hat { \dot { y _ { i } } } ) ) ]
+$$
+
+其中: $y _ { i }$ 为真实值， $\hat { S ( y _ { i } ) }$ 为预测值， $\mid m$ 为样本个数。
+
+# 1.3.2网络训练
+
+选择经过背景估计操作后的文档图像及其标准图像作为网络的训练集，原始图像由2009至2014年DIBCO提供，考虑到图像大小不统一，其中最小图像高度为 263，因此实验选取步长为214的 $2 5 6 \times 2 5 6$ 窗口将图像裁切为相同大小的子图像，如图4所示。将2027张裁切图及其对应的标准图像作为输入对模型进行训练，并依据滑动窗位置完成对输出图像的拼接。
+
+D.70   
+endeDiegelE.s.2.42. endecael..2.442. 2.   
+recbmng..46.2.8. endreegeL..s.2.4242. rechmng..46.2L.38. 2.   
+cgel.E.56.244 XegelE.56.244. D.作   
+ieEefertoolehiemirfirgunemmen:   
+SunftenendDandbarfetrfptren/gcbe tigeeferiemirrgrgunemmennemmen mehrermnadsninnensn felbige unfenendDandbartcufpuren/gcbe pirengcbe Cagugeben mchrermmnadnnnensnd feibignenend feibige CaguBgeben geben.
+
+![](images/d6b91dfc5cef7c99fc210dfdbad0d9fd651da906f9fc9589fc6c5b0a6b32cf20.jpg)  
+图3U-Net网络结构图  
+图4文档图像裁切  
+Fig.4Document image clipping   
+图6U-Net输出图像及其灰度直方图Fig.6U-Net output and gray histogram
+
+为最大限度利用显存，实验选取学习率为 $1 0 ^ { - 4 }$ ，批次大小(BatchSize)为单张图像，网络训练的迭代次数为10，网络训练的误差率变化如图5所示，误差率处于0.013-0.014说明模型达到稳定状态。
+
+![](images/1c4e8e8b3b2ac0d32a10045119dd5ebe06f873941d4d6861abe4d0e9ac4bbf04.jpg)  
+Fig.3The architecture of U-Net   
+图5错误率曲线  
+Fig.5Error rate curve
+
+# 1.4全局最优阈值处理算法
+
+U-Net网络输出结果如图6(a)所示，灰度直方图如图6(b)所示。
+
+Pythagorica.D.14.   
+8e8bedcute..402.33 ecnung..o.2.40 n5   
+mrcgula.E.66.A.52.D.70 2.5   
+bendteSiegel.E.5.2.42. rechnung..46.21.38. 道 2 数   
+egel..6.2.44 点1.5   
+igeEefermolehiemir firgnnemmen: 0.5   
+nneandte 0 50 100 150 200 250 300 灰度级 agbugeben. (a)U-Net网络输出图像 (b)灰度直方图
+
+由图6(b)可知U-Net的输出图像具有显著的双峰特性，因此本文选择全局最优阈值处理算法(Otsu)进行二值化，Otsu算法根据图像的直方图分布特性得到 $\textbf { \em L }$ 个灰度级分量$p _ { i } ( i = 0 , 1 , 2 , . . . , L - 1 )$ ，选择一个阈值 $k \in [ 0 , L - 1 ]$ ，分别计算前景像素所占比例 $P _ { 1 } ( k ) = \sum _ { i = 0 } ^ { k } p _ { i }$ 与背景素所占比例 $P _ { 2 } ( k ) = \sum _ { i = k + 1 } ^ { L - 1 } p _ { i }$ 。计算前景与背景像素点的灰度均值 $\mu _ { 1 } ( k )$ 、 $\mu _ { 2 } ( k )$ ，如式(8)所示，并得到全局均值 $\mu { = } \sum _ { i { = 0 } } ^ { L - 1 } i p _ { i }$ 0
+
+$$
+\begin{array} { l } { \displaystyle \mu _ { 1 } ( k ) = \frac { 1 } { P _ { 1 } ( k ) } \sum _ { i = 0 } ^ { k } { i p _ { i } } } \\ { \displaystyle \mu _ { 2 } ( k ) = \frac { 1 } { P _ { 2 } ( k ) } \sum _ { i = k + 1 } ^ { L - 1 } { i p _ { i } } } \end{array}
+$$
+
+类间方差作为可分性度量，如式(9)所示，根据类间方差最大原理，找到使得 $\sigma _ { 1 2 } ^ { 2 } ( k )$ 最大的 $k$ ，即最优阈值 $k$ 对图像进行二值分类。
+
+$$
+\begin{array} { r l } & { \sigma _ { 1 2 } ^ { 2 } ( k ) = P _ { 1 } ( k ) [ \mu _ { 1 } ( k ) - \mu ] ^ { 2 } + P _ { 2 } ( k ) [ \mu _ { 2 } ( k ) - \mu ] ^ { 2 } } \\ & { \qquad = P _ { 1 } ( k ) P _ { 2 } ( k ) [ \mu _ { 1 } ( k ) - \mu _ { 2 } ( k ) ] ^ { 2 } } \end{array}
+$$
+
+最终二值图像如图7(a)所示，图像的字符完整保留，图6(a)中右下角污渍已被抑制，从视觉效果来看与标准图像较为接近。
+
+# 2 实验与分析
+
+实验测试集数据来源于2016-2017年国际文档图像二值化竞赛，共计30张图像。本文选取的评估指标为F值0 $F$ -measure,FM)、伪F值(pseudo F-measure,p-FM)、峰值信噪比(PSNR)、距离倒数失真度量(DRD)，其中前三个指标值越大说明算法准确性越高，DRD指标值越小说明像素分类错误率越低，具体定义请参考文献[21\~23]。
+
+Pythagorica. D 14: Pythagorica. D.14.   
+8e8bedcute..4o2.33. 8e8bedeute..40.2.33   
+dnung..o.2.40 Xechnng..o.2.40   
+mrgula.E.66.A.52.D.7 mregula.E.66.A.52.D.70   
+bendicDiegel...2.42. bendteRegel.E.5.2.42.   
+rechming..46.2.38. rechnuing..46.21.38.   
+egel..62.44 eegel..56.2.44..   
+igeEefermolehiemit furgmnemmen: ntigeEefermolehiemitfurgufnemmen:   
+DunftenondDandbaifeifpuren/gcbe SunffenondDandbarfeitfpuren/gcbe mebrermnadhsujinnenondfelbige mehrermnadsufinnensnd febige agbugeben. Cagougeben. (a)二值结果图像 (b)标准图像
+
+表2是本文算法与2016和2017年国际文档二值化竞赛的前三名算法(分别表示为TOP1、TOP2、TOP3)作对比，本文算法的四项评估指标值均优于前三名算法，说明本文提出的算法具有更高的准确性和鲁棒性。
+
+表22016—2017年DIBCO前三名算法对比  
+
+<html><body><table><tr><td colspan="6">DIBCO</td></tr><tr><td>竞赛</td><td>方法</td><td>FM</td><td>p-FM</td><td>PSNR</td><td>DRD</td></tr><tr><td rowspan="4">DIBCO2016</td><td>TOP1</td><td>87.61</td><td>91.28</td><td>18.11</td><td>5.21</td></tr><tr><td>TOP2</td><td>88.72</td><td>91.84</td><td>18.45</td><td>3.86</td></tr><tr><td>TOP3</td><td>88.47</td><td>91.71</td><td>18.29</td><td>3.93</td></tr><tr><td>本文算法</td><td>89.88</td><td>93.57</td><td>18.80</td><td>3.77</td></tr><tr><td rowspan="4">DIBCO2017</td><td>TOP1</td><td>91.04</td><td>92.86</td><td>18.28</td><td>3.40</td></tr><tr><td>TOP2</td><td>89.67</td><td>91.03</td><td>17.58</td><td>4.35</td></tr><tr><td>TOP3</td><td>89.42</td><td>91.52</td><td>17.61</td><td>3.56</td></tr><tr><td>本文算法</td><td>91.64</td><td>93.33</td><td>18.40</td><td>3.33</td></tr></table></body></html>
+
+表3是本文算法与各类二值化算法在2016年DIBCO数据集上的输出结果，其中－代表没有该指标值，Time代表时间复杂度，表示算法处理单张图像的平均速度(单位为s)。除Score外表中参数取平均值，Score值代表算法的综合性能，并根据Score值对算法排序，具体如式(10)所示。
+
+$$
+\begin{array} { l } { \displaystyle \mathrm { S c o r e } = \sum _ { i = 1 } ^ { M } \sum _ { j = 1 } ^ { N } R ( i , j ) } \\ { \displaystyle R = \left\{ \operatorname* { m a x } ( \psi _ { i } ( 1 { : } \beta ) ) / \psi _ { i } ( j ) i f 1 \leq i \leq 3 \right. } \\ { \displaystyle \psi _ { i } ( j ) / \operatorname* { m i n } ( \psi _ { i } ( 1 { : } \beta ) ) i f 4 \leq i \leq M }  \end{array}
+$$
+
+其中： $\psi = \{ \mathrm { F M , p – F M , P S N R , D R D } \}$ 为所有评估指标的集合， $N$ 为图像总数， $M$ 为指标数， $\beta$ 为单项指标总数。
+
+为评估所有算法性能，本文在NVIDIAGTX10808GGPU下进行实验，由于未将时间复杂度Time 纳入Score值的计算，算法执行效率Time不作为性能评估标准。
+
+各类算法的评估结果中 Tensmeyer 算法有较大的p-FM值，说明Tensmeyer算法像素分类正确率较高。Otsu算法选取固定阈值进行全局二值化，因此处理图像速度较快，本文算法有最高的FM、PSNR值，最小的DRD和Score值，由于复杂度较高因此处理图片速度较慢。
+
+表4是2017年DIBCO数据集的测试结果，其中Howe_base算法有较大的PSNR值，说明Howe_base算法的输出结果与标准图像的相似度较高。本文方法有最高的FM、p-FM值，最小的DRD和Score值，从指标数值方面说明本文方法的综合性能比Howe_alg3等传统二值化算法更好，同时优于Tensmeyer所提出的神经网络模型。
+
+# 表3DIBCO2016各类算法评估指标值
+
+Table 3Evaluation results of various algorithms in DIBCO2016   
+
+<html><body><table><tr><td>算法</td><td>Rank</td><td>Score</td><td>FM</td><td>p-FM</td><td>PSNR</td><td>DRD</td><td>Time(s)</td></tr><tr><td>本文算法</td><td>1</td><td>68.15</td><td>89.88</td><td>93.57</td><td>18.80</td><td>3.77</td><td>6.763</td></tr><tr><td>Wolf[6]</td><td>2</td><td>72.45</td><td>87.75</td><td>91.20</td><td>18.49</td><td>4.16</td><td>0.076</td></tr><tr><td>Tensmeyer[15]</td><td>3</td><td>73.83</td><td>87.67</td><td>94.73</td><td>18.04</td><td>4.36</td><td>62.500</td></tr><tr><td>Howe_alg2[12]</td><td>4</td><td>74.30</td><td>88.12</td><td>92.76</td><td>18.30</td><td>4.38</td><td>45.455</td></tr><tr><td>Sauvola[8]</td><td>5</td><td>76.51</td><td>87.78</td><td>90.62</td><td>17.95</td><td>4.58</td><td>0.075</td></tr><tr><td>Howe_base[12]</td><td>6</td><td>76.58</td><td>87.81</td><td>92.59</td><td>18.03</td><td>4.62</td><td>1.812</td></tr><tr><td>Kligler[14]</td><td>7</td><td>82.16</td><td>87.61</td><td>92.40</td><td>18.11</td><td>5.21</td><td>43.478</td></tr><tr><td>Howe_alg3[12]</td><td>8</td><td>83.57</td><td>87.47</td><td>92.28</td><td>18.05</td><td>5.35</td><td>12.500</td></tr><tr><td>Howe_conf[11]</td><td>9</td><td>85.14</td><td>86.26</td><td>90.22</td><td>17.24</td><td>5.44</td><td>2.597</td></tr><tr><td>Otsu[5]</td><td>10</td><td>86.26</td><td>86.59</td><td>89.92</td><td>17.79</td><td>5.58</td><td>0.015</td></tr><tr><td>LMM[9]</td><td>11</td><td>86.95</td><td>84.75</td><td>88.94</td><td>17.64</td><td>5.64</td><td>0.086</td></tr><tr><td>Howe_alg1[12]</td><td>12</td><td>191.50</td><td>79.62</td><td>85.23</td><td>17.63</td><td>6.28</td><td>4.167</td></tr><tr><td>Niblack[7]</td><td>13</td><td>1035.85</td><td>42.31</td><td>42.56</td><td>6.94</td><td>106.08</td><td>0.074</td></tr><tr><td>BESE[10]*</td><td>14</td><td>-</td><td>87.53</td><td>91.33</td><td>18.62</td><td>4.10</td><td>16.949</td></tr></table></body></html>
+
+表4DIBCO2017各类算法评估指标值
+
+Table 2Comparison with the top three algorithms in the 2O16-201   
+Table 4Evaluation results of various algorithms in DIBCO201   
+
+<html><body><table><tr><td>算法</td><td>Rank</td><td>Score</td><td>FM</td><td>p-FM</td><td>PSNR</td><td>DRD</td><td>Time (s)</td></tr><tr><td>本文算法</td><td>1</td><td>218.84</td><td>91.64</td><td>93.33</td><td>18.40</td><td>3.33</td><td>7.811</td></tr><tr><td>Howe_alg3[12]</td><td>2</td><td>279.45</td><td>86.06</td><td>90.86</td><td>17.54</td><td>4.52</td><td>18.519</td></tr><tr><td>Kligler[14]</td><td>3</td><td>298.65</td><td>90.10</td><td>91.48</td><td>18.52</td><td>5.13</td><td>62.500</td></tr><tr><td>Howe_base[12]</td><td>4</td><td>308.61</td><td>89.87</td><td>91.19</td><td>18.72</td><td>5.36</td><td>2.033</td></tr><tr><td>Howe_alg1[12]</td><td>5</td><td>317.94</td><td>88.68</td><td>90.08</td><td>17.43</td><td>5.53</td><td>6.329</td></tr><tr><td>LMM[9]</td><td>6</td><td>319.42</td><td>85.86</td><td>87.24</td><td>18.39</td><td>5.60</td><td>0.093</td></tr><tr><td>Howe_conf[11]</td><td>7</td><td>334.42</td><td>82.25</td><td>87.79</td><td>15.84</td><td>5.78</td><td>2.833</td></tr><tr><td>Howe_alg2[12]</td><td>8</td><td>353.07</td><td>86.86</td><td>89.43</td><td>16.32</td><td>6.30</td><td>66.667</td></tr><tr><td>Otsu[5]</td><td>9</td><td>358.47</td><td>81.75</td><td>87.07</td><td>15.58</td><td>6.32</td><td>0.019</td></tr><tr><td>Tensmeyer[15]</td><td>10</td><td>366.38</td><td>87.29</td><td>89.40</td><td>16.89</td><td>6.62</td><td>71.429</td></tr><tr><td>Sauvola[8]</td><td>11</td><td>366.85</td><td>85.82</td><td>87.39</td><td>16.02</td><td>6.58</td><td>0.092</td></tr><tr><td>Wolf[6]</td><td>12</td><td>767.98</td><td>77.74</td><td>80.05</td><td>13.85</td><td>15.54</td><td>0.093</td></tr><tr><td>Niblack[7]</td><td>13</td><td>3054.91</td><td>47.76</td><td>48.35</td><td>7.16</td><td>66.86</td><td>0.092</td></tr><tr><td>BESE[10]*</td><td>14</td><td></td><td>89.57</td><td>91.53</td><td>17.03</td><td>4.55</td><td>19.608</td></tr></table></body></html>
+
+注：\*BESE 算法处理图片DIBCO2016_8、DIBCO2017_1、DIBCO2017_2、DIBCO2017_3、DIBCO2017_4、DIBCO2017_5出现报错，BESE 算法的指标值均为剔除报错图片后的结果，因此未计算BESE 算法的Score值。
+
+如图8所示，本文选取三张具有代表性的测试图像，分别为页面中脊图像、笔画纤细图像、墨迹浸润图像，并展示各类算法的二值化图像。
+
+Otsu算法将图像的页面中脊处与浸润的墨迹误判为前景；WoIf算法处理笔画纤细图像和页面中脊图像时笔画断裂严重；Niblack算法较好地保留了文字边界信息，但输出图像含有大量噪点；Sauvola 算法处理弱笔画时损失部分字符细节；LMM算法在图像边缘处存在笔画中空现象；BESE 算法将浸润的笔墨错判为字符；文献[11，12]所提出的算法中，Howe_alg1算法处理页面中脊和低对比度字符效果较好，Howe的同类算法在墨迹浸润文档输出结果中仍有大量的背景被错判为前景；Kligler算法二值化输出结果中也有笔画不连续现象，处理墨迹浸润图像能力较差；Tensmeyer 算法在抑制背景的同时，容易忽略细弱笔画。
+
+本文提出的方法能较好地解决复杂背景的干扰问题，准确地分离出文本信息，因此从视觉效果方面体现本文算法的优势。
+
+ovicam"bilj zvest narocnik,zato naj mu bodo On gma halesponnasledikpicujoce vrstice njih shranfene.uib   
+lislig airu   
+rvidence iq ivolnt   
+ChrdeJoo iidlzjublanee(Zari seil)Najanejsadogodba minulega tedna je govor poslanca.dreutanjaozato,ker (a)原始文档图像 oqovieam“bilgjzestarohik，zato naj mu bodo tnfere haepo n oj aajvmiru rividence iq ivioil viil M. Rant. Chode gedjs (b)Otsu 算法结果 vieambiljzystnaronikzato naj mu bodo   
+Y pomeovemrau！Najvmiru   
+mp isisa ovven ajuve iq ivi V oimsien iv M.Rant. izjubanZriselNajvanejsadogodba minulega tedna je govor poslanca.rbanazato ker (c)Wolf算法结果 eboge V bnggareikato ajmubodo ocujocicYji olPvajodea Najvmiru MRant qivoooeimilov ijubljanqZhrseajanejsaadogodbaminulegatednajgoyorposlancaubeaatker (d)Niblack 算法结果 qovieambiljzestnaronik，zato naj mu bodo amm8.gmag   
+Zh s eNajmiru Previdesicc lkocieHetan r inq ivooist v oisydleivsM.Rant. (e)Sauvola算法结果 22@k amm8.gmag kzatonajmu bodo scjocj   
+% 'isio！ a！Najvmiru .yiw Pvidert inqivoiclYooeimilomievsM.Rant. S iidZjubanvZhriseisNajneisaadogodba mi- nuloga tedna je govor poslanca.soznibogae&ato, ker (f)LMM算法结果 2e aumegmay ovieambiljezyst'hatotnik，zatonajmu bodo hvalezr spoininaslednikot pricujoce vrstice v njih thranjere   
+h 2 Rs Berdeiice podvavena lajete Vecnt mirin pokojegovemaprahu！Najvmiru LqoYo.ci cuiay M. Rant. "h"uesusn os 1 (g)BESE 算法结果 27g. omn9gmay 武   
+hn talisEsg Najvmiru   
+4 Providenrc √ inq ivoigisl v eeoeimsvjilomimiesvsM.Kant. M. Rant. Ch ciilzjublianaye(Zhni seisNajvanejsajadogodba mi- nulega tedna je govor poslanca.dubdegaozato,ker (h)Howe_conf 算法结果 274. oqdvitabigjanik，zatonajmu bodo amm gmay   
+Thn Croridence aay ThdeIs iizjubanvZrisesajaneisaalogodba minulega tedna je govor poslanca.dubaeiaozato，ker oqviambigtarnik，zatonajmu bodo 27@k eoujoce vrsticevnjih Omn gma at Najvmiru Ha hra emce iqiveoiculvoeimjilowiievs.M.Rant. IhodeSstan iizjubanvZnni sesNajanesaalogodba minulega tedna je govor poslanca.Guibgngaozato，ker (j)Howe_alg1算法结果 274 sog8viam“bigjztarnik，zatonaj mu bodo ann nesmay erUi   
+rn alis Najvmiru 2 inqivoisveoimilogiievs.M.Rant. iidzjban(nsesNajanesaalogodbaminulega tedna je govor poslanca.duibgngaozato，ker (k)Howe_alg2算法结果 27Qk. spoqegavitambigzytanik，zato najmu bodo aumeygma Gilw Njir fhan Providence IChodeSstan iqivoislveoeimilogiisevs.M.Rant. izjuban(nisesNajvanessalogodba mi nulega tedna je govor poslanca.iuibenjaozato，ker (l)Howe_alg3算法结果 soqviam“bigjztalnik，zatonaj mu bodo 27@ joesc anm gmay   
+Phm xils a olve Najvmiru hras Providence inqivsoiseeoimsvsilogiivs. M. Rant. hode Sslan eds (m)Kligler算法结果 2 oviam“bi zyestarunik,zatc naj mu bodo 27@. me.gmay he2aspcjoce vrstcenji 8 rlises lrryisemes iqivsVeeidilcigimiv M. Rant. izdjubljaneve(Zani selisNajvanejaadogcdba miroga tedraje govcr pcslarca.drtteraszato，ke (n)Tensmeyer算法结果 29@. Onn smag 9Novicam“bil je zvestnarocnik,zato naj mu bodo hvaezn spominnaslednikoipricajoe vrsticev njih shranjene:   
+Thn ws ovir M.Rant. rovidence ChodeSslan ulega tedna jegvorposacartrgdb. r (o)本文算法结果
+
+# 3 结束语
+
+本文提出了一种融合背景估计与U型卷积神经网络的文档图像二值化算法，通过背景估计操作抑制图像污渍背景，利用U-net网络将文档图像的像素进行分类，并结合Otsu 算法完成精细二值分割。实验表明，在2016年和2017年国际文档图像二值化竞赛中本文算法的FM值、伪FM值、峰值信噪比(PSNR)、距离倒数失真度量(DRD)比性能次优的经典算法最高有 $5 . 5 8 \%$ 、 $2 . 4 7 \%$ 、 $0 . 8 6 \mathrm { d B }$ 、 $1 . 1 9 \%$ 的提升，充分证明本文算法的优越性能。
+
+# 参考文献：
+
+[1]Khitas M, Ziet L,Bouguezel S.Improved degraded document image binarization using median filter for background estimation[J]. Elektronika Ir Elektrotechnika,2018,24(3): 82-87.   
+[2]Sood R,Sharma M M.Binarization of ancient document images [J]. International Journal of Scientific Research and Engineering Studies, 2015,2(6):22-25.   
+[3]Milyaev S,Barinova O,Novikova T,et al.Fast and accurate scene text understanding with image binarization and off-the-shelf OCR [J]. International Journal on Document Analysis and Recognition,2015, 18(2): 169-182.   
+[4]Eskenazi S,Gomez-Kreimer P, Ogier JM.A comprehensive survey of mostly textual document segmentation algorithms since 2Oo8 [J]. Pattern Recognition,2017,64(1):1-14.   
+[5]Otsu N.A threshold selection method from gray-level histograms [J]. IEEE Trans on Systems,Man,and Cybernetics,1979,9(1):62-66.   
+[6]Wolf C,Jolion JM,Chassaing F. Text localization,enhancement and binarizationinmultimedia documents[C]//Procofthe16th International Conference on Pattern Recognition,Quebec:IEEE Press, 2002:1037-1040.   
+[7]Niblack W.An introduction to digital image processing [M]. Englewood Cliffs:Prentice-Hall,1986:115-126.   
+[8]Sauvola J,Pietikeiinen M.Adaptive document image binarization [J]. Pattern Recognition,2000,33(2):225-236.   
+[9]Su Bolan,Lu Shijian,Tan Chewlim.Binarization of historical document images using the local maximum and minimum [C]//Proc of the 9th IAPR International Workshop on Document Analysis Systems.NewYork: ACMPress,2010:159-166.   
+[10] Lu Shijian,Su Bolan,Tan Chewlim.Document image binarization using background estimation and stroke edges [J].International Journal on Document Analysis and Recognition,2010,13(4): 303-314.   
+[11]Howe N R.A laplacian energy for document binarization [C]//Proc of International Conference on Document Analysis and Recognition, Beijing:IEEE Press,2011:6-10.   
+[12] Howe N R.Document binarization with automatic parameter tuning [J]. International Journal on Document Analysis and Recognition,2013, 16(3): 247-258.   
+[13]Mesquita R G,Silva R M,Mello C A,et al.Parameter tuning for document image binarization using a racing algorithm [J].Expert Systems with Applications,2015,42(5):2593-2603.   
+[14]Kligler N,Katz S,Tal A.Document enhancement using visibility detection [C]//Proc of the Conference on Computer Vision and Pattern Recognition, Salt: IEEE Press,2018:2374-2382.   
+[15] Tensmeyer C,Martinez T.Document image binarization with fully convolutional neural networks [J].arXiv preprint arXiv:17O803276, 2017.   
+[16] Westphal F,Grahn H,Lavesson N. Efficient document image binarization using heterogeneous computing and parameter tuning [J]. International Journal on Document Analysis and Recognition,2O18,21 (1): 41-58.   
+[17] Ahmadi E,Azimifar Z, Shams M,et al.Document image binarization using a discriminative structural classifier [J].Pattern Recognition Letters,2015,63(1):36-42.   
+[18] Jana P,Ghosh S,Bera S K,et al. Handwritten document image binarization: an adaptive K-means based approach [C]// Proc of Conference on Calcutta Conference Lalit: IEEE Press,2O17:226-230.   
+[19] Yin Xucheng,Pei Weiyi,Zhang Jun,et al.Multi-orientation scene text detection with adaptive clustering[J].IEEE Trans on Pattern Analysis and Machine Intelligence,2015,37(9):1930-1937.   
+[20] Ronneberger O,Fischer P,Brox T.U-net: convolutional networks for biomedical image segmentation [C]//Proc of the 18th International Conference on Medical Image Computing and Computer-Assisted Intervention,Munich: Springer Press,2015:234-241.   
+[21] Gatos B,Ntirogiannis K,Pratikakis I. ICDAR 2OO9 document image binarization contest (DIBCO 2OO9)[C]// Proc of the 1Oth International Conference on Document Analysis and Recognition,Barcelona:IEEE Press,2009:1375-1382.   
+[22]PratikakisI,Zagoris K,Barlas G,et al.ICFHR2O16 handwritten document image binarization contest (H-DIBCO 2O16)[C]//Proc of the 15th International Conference on Frontiers in Handwriting Recognition, Shenzhen:IEEE Press,2016:619-623.   
+[23]Pratikakis I, Zagoris K,Barlas G,et al.ICDAR2O17 competition on document image binarization (DIBCO 2O17）[C]// Proc of the 14th IAPR International Conference on Document Analysis and Recognition, Kyoto:IEEE Press,2017:1395-1403.

@@ -1,0 +1,337 @@
+[
+    {
+        "type": "text",
+        "text": "临床研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "妊娠早中期服用阿司匹林对子痫前期高危人群预防作用的系统性评价",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "姚硕,吴焕,余艳红南方医科大学南方医院妇产科，广东广州510515",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的 系统性评价妊娠早中期服用阿司匹林对子痫前期高危人群的预防作用。方法 全面检索PubMed、Cochrane、OVID、web of science、Science Direct、EBSCO、Embase等英文数据库以及临床试验注册数据,纳人所有研究妊娠早中期服用阿司匹林对高危人群PE预防作用的相关文献，利用Revman5.3软件对数据进行meta分析。结果 最终纳入5个随机对照试验,860例受试者。结果显示,子痫前期高危人群妊娠16周前开始服用阿司匹林,妊娠期高血压发病风险 $\\mathrm { ( O R { = } 0 . 3 5 , 9 5 \\% C I \\ 0 . 1 7 { - } 0 . 7 5 , } P \\mathrm { = }$ 0.007）、子痫前期发病风险 $\\mathrm { ( O R { = } 0 . 7 5 , 9 5 \\% C I 0 . 4 7 { - } 0 . 9 8 , } P { = } 0 . 0 4 )$ 、胎儿宫内生长受限发病风险 $\\mathrm { \\langle O R { = } 0 . 5 3 , 9 5 \\% C I \\ 0 . 2 9 { - } 0 . 9 8 , } P { = }$ 0.04)以及早产发病风险 $\\mathrm { ( O R { = } 0 . 2 0 , 9 5 \\% C I 0 . 0 8 { - } 0 . 4 8 , P { < } 0 . 0 0 1 ) }$ 均较对照组降低，且试验组较对照组新生儿平均出生体质量增加了 $1 0 7 . 1 5 \\mathrm { g }$ ，差异有统计学意义 $( 9 5 \\% \\mathrm { C I } 7 6 . 1 3 \\ – 1 3 8 . 1 8 , P { < } 0 . 0 0 1 )$ 。结论子痫前期高危人群妊娠16周前开始服用阿司匹林可降低妊娠期高血压、子痫前期发病风险、胎儿宫内生长受限、早产风险,提高新生儿出生体质量。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：阿司匹林；子痫前期；胎儿宫内生长受限;meta分析",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Early intervention with aspirin for preventing preeclampsia in high-risk women: a meta-analysis ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YAO Shuo, WU Huan, YU Yanhong DepartmentofbstetricsndGynecoloyNanfangHospital,SouthernedicalniersityGuangzhou5,ina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:ObjectiveToestimate theeffectof early interventionwithaspirinforpreventionof preeclampsiainhigh-risk women.Methods A systematic reviewand meta-analysis were performed basedonthe principles and methods of Cochrane systematic reviews. Electronic databases were searched for randomized trials comparing aspirin with either placebo or no aspirin. Studies were included when meting the inclusion criteria that the participants were pregnant women atahighrisk of preclampsia and started aspirin therapyat16 gestational weeks orearlier， which were assessed by two independent reviewers.Meta-analysis was conducted using Review Manger 5.3 software.Results A total of 5 studies involving 860 participants were included in the final analysis.In the high-risk women,early useof aspirin showed an ORof 0.35 $( 9 5 \\% C \\mathrm { I }$ 0.17-0.75) for preventing pregnancy-induced hypertension (PIH), 0.75 $( 9 5 \\% \\mathrm { ~ C I ~ } 0 . 4 7 – 0 . 9 8 )$ ）for preeclampsia, 0.53（ $9 5 \\%$ CI 0.29-0.98) for intrauterine growth retardation, and 0.20 $( 9 5 \\% \\mathrm { C I } 0 . 0 8 – 0 . 4 8 )$ for preterm birth; the average birth weight in aspirin intervention group was $ { 1 0 7 . 1 5 \\mathrm { ~ g ~ } }$ 0 $9 5 \\%$ CI 76.13-138.18, $P { < } 0 . 0 0 1$ ）more than that in the control group. Conclusion In high-risk pregnancies，early aspirin intervention starting before 16 weks of gestation can prevent PIH,preelampsia, IUGR,and preterm birth and help to increase the birth weight. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: aspirin; preeclampsia; intrauterine growth retardation; meta-analysis ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "子痫前期(preeclampsia,PE)是妊娠期特有疾病，可引起母体肝、肾、脑等全身多器官异常，是妊娠期间引起孕产妇及胎儿死亡的重要原因[-2]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PE发病机制尚未完全明了，目前多认为妊娠期高血压疾病与子宫螺旋小动脉滋养细胞浸润肌层时不完全有关[3],导致胎盘子宫之间血流异常[4],因而血小板生成增多、血栓素生成过多、环前列腺素不足等一系列变化随之发生[5。因此，以阿司匹林(ASA)为代表的抗血小板药物逐渐被应用于临床以预防高危人群PE的发生。研究证实,ASA的抗炎作用可阻断血栓素的产生[67]。而子宫螺旋动脉浸润肌层这一过程多在12\\~16周完成[8]，因此近年来新观点认为宜在16周前使用ASA预防PE。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "从1985年Beaufils等发现PE高危人群妊娠12周起服用ASA可降低PE发病风险以来，许多学者对其预防效果和风险进行了大量临床试验，本研究检索出至少有67篇相关临床试验，但试验结果不一，ASA预防PE的作用仍存在争议。临床试验结果不同，与研究者所拟定纳入标准关系密切。一些研究者认为子宫血流的超声多普勒检查是PE的预测指标，也是高危因素，将超声异常者纳入高危人群一并研究[10-12],一些研究者所选受试者孕周不尽相同。Caritis等[13]的一项临床研究中，纳入2503名PE高危人群，于妊娠13-26周开始服用ASA，但结果显示ASA对PE并没有显著预防作用，且不能改善母胎结局。但Moore等[14]对该研究进行了二次分析，仅选取于妊娠13\\~16周开始服用ASA的PE高危人群，结果发现ASA减少了 $2 9 \\%$ 晚发型PE的发生。考虑临床试验结果不一，研究者开始利用meta分析对研究数据合并后进行客观、系统性的评价，以期获得最佳临床循证医学证据，但由于各研究结局定义、纳入标准、排除标准等不同，仍无统一定论。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此本文根据最新数据库及临床试验更新情况，针对PE高危人群妊娠16周前服用ASA的预防作用进行了系统评价以及meta分析。拟利用统计学方法对多个研究进行全面、系统、客观的综合评价，从而得出结论，以期为临床高危人群PE的预防提供最佳循证医学证据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1对象与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 对象",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "所有研究PE高危人群妊娠期间服用ASA的RCT。PE高危人群纳入标准：初产、既往PE病史、慢性高血压病或慢性肾脏疾病、易栓症、多胎妊娠、体外授精妊娠者、家族PE病史、1型或2型糖尿病、肥胖、系统性红斑狼疮、高龄妊娠(超过40岁）[15]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1文献检索策略全面检索相关文献。检索关键词包括：aspirin、antiplatelet、ASA、acetylsalicylic acid、pre-eclampsia、PIH、pregnancy complication、toxaemia、pregnancyinducedhypertension；检索数据库包括：PubMed、Cochrane、OVID、web of science、ScienceDirect、EBSCO、Embase以及临床试验注册数据库。检索截止日期为2014年12月27日。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2文献纳入与排除标准所有ASA预防PE高危人群的RCT均纳入研究。干预措施为试验组使用且仅使用ASA，对照组使用安慰剂或空白对照。结局指标包括：妊娠期高血压、PE、胎儿宫内生长受限、早产、出生体质量、分娩孕周等。限制语言为英语。排除标准包括：半随机或非随机的研究、数据不完整、失访率 $> 1 5 \\%$ 等。1.2.3文献筛选及资料提取文献筛选流程以PRISMA声明清单为指导原则，由2位研究者担任评价员，分别独立提取文献信息后汇总，以保证文献筛选的全面性和准确性。对提取文献是否最终纳入研究，当存在意见不一致，由双方讨论解决或由第3方裁决。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.4文献质量评价文献质量评价按照Cochrane协作网研究偏倚风险评价工具对所纳入的RCT进行评价。包括随机分配、分配隐藏、盲法、丢失结局数据、选择结局报告及其他偏倚。根据条目相关研究恰当性的预先指定问题来完成评价，判断“是\"表示低偏倚风险，“否\"表示高偏倚风险，“不清楚\"表明不清楚或不知道偏倚风险。若2名研究员对质量评价意见不一致，则通过讨论后解决或由第3方裁决。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 统计学分析方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究统计学分析使用Cochrane协作网meta分析软件Revman5.3。若研究结果未出现显著异质性（204号 $( P { \\geqslant } 0 . 1 , \\mathbb { I } { \\leqslant } 5 0 \\%$ ),则采用固定效应模型。当存在统计学异质性 $( P { < } 0 . 1 , { \\allowbreak } { \\mathrm { I } } ^ { 2 } { > } 5 0 \\%$ 时，分析其异质性原因。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 文献检索结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "经数据库全面检索及查重后，共获得ASA与PE相关的文献共计2328篇。进一步筛查，排除非RCT、通信、综述、非英语等文献，得到67篇与ASA预防PE相关的RCT。阅读全文或摘要,排除高危定义、研究对象、结局指标与本研究不相符者，最终获得与本研究纳人、排除标准相符合的5篇RCT。文献检索流程图，如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f55056b346eb3d669f1e808b3f6156341ba3629499c727d8b34a5fa0254e167.jpg",
+        "img_caption": [
+            "图1文献检索流程图 Fig.1 Flow chart of the process of trial selection. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2纳入文献情况 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "共纳入5篇已发表的 $\\mathrm { R C T } ^ { [ 1 4 , 1 7 - 2 0 ] }$ ,共860例符合纳入标准，实际纳入研究855例，各组均按随机化原则进行分配，干预措施均为试验组与安慰剂对照。纳入本研究的5篇文献基本特征见表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3纳入研究偏倚风险及文献质量评价结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对纳人的5篇文献按照Cochrane协作网研究偏倚风险评价工具进行文献质量评价：5篇均采用了随机分配的方法,3篇文献使用了盲法,其中2篇为双盲[14,18],1篇为单盲[17]。1篇仅提到采用随机方法,未具体描述分配细则[7]。文献均描述了具体失访情况,结局报道完整，无其他高风险偏倚。5篇RCT质量均较高(图2)。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/88e7da7b438e3f36c1f0b9fbb8ec8eafa6abe34474a0769f5ef65ec0f11fa90e.jpg",
+        "table_caption": [
+            "表1纳入文献的基本特征 Tab.1 Characteristics of Included Studies "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Author, year</td><td>No. of participants</td><td>No. of follow-up</td><td>Gestational entry (weeks)</td><td>Inclusion criteria</td><td>Intervention</td><td>Outcomes</td></tr><tr><td>Bakhti,2011</td><td>164</td><td>0</td><td>8-10</td><td>Primiparity without chronic arterial hypertension, nephropathy,a known auto-immune disorder,</td><td>ASA 100 mg/d VS placebo</td><td>PE;PIH； preterm birth; birth weight; postpartum hemorrhage</td></tr><tr><td>Benigni,1989</td><td>33</td><td>0</td><td>12</td><td>Women with hypertension orprevidustsetrcr early onset of pre-eclampsia</td><td>ASA 60 mg/d VS placebo</td><td>PE; PIH; preterm birth; IUGR; geatational age; perinatal death; birth weight; preterm birth</td></tr><tr><td>Hermida,1997</td><td>100</td><td>0</td><td>12-16</td><td>Women with risk factors of problem,bleeding or endocrine disease</td><td>ASA 100 mg/d</td><td>PE PIH preterirt JUG birth weight</td></tr><tr><td>Chiaffarino,</td><td>40</td><td>5</td><td><14</td><td>Women with chronic severeeoioahistry of of IUGR,history of intrauterine fetal death</td><td>ASA 100 mg/d</td><td>gestina ceiget abortion;</td></tr><tr><td>Moore,2014</td><td>523</td><td>0</td><td>13-16</td><td>Women with diabetes mellitus, chronic hypertension or a history ofPE</td><td>ASA 60mg/d VS placebo</td><td>PE; IUGR; birth weight</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1e303d4444b45d2c3efe8d11e79bc30c0054f9ef88cdb97339dbfa024f0cacf9.jpg",
+        "img_caption": [
+            "图2文献质量评价 Fig.2 Appraisal of the risks of bias in the included trials. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4纳入文献评价结果 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4.1妊娠期高血压疾病发病风险 4篇文献对妊娠期高血压的发病情况进行了报道，各文献之间存在轻度异质性 $P { = } 0 . 3 2 , \\mathrm { I } ^ { 2 } { = } 1 5 \\%$ ),采用固定效应模型。结果显示，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "332名受试者中，试验组11人、对照组28人发生妊娠期高血压，ASA与安慰剂对妊娠期高血压的预防作用有统计学意义 $( \\mathrm { O R { = } 0 . 3 5 , 9 5 \\% }$ $\\mathrm { C I } \\ 0 . 1 7 \\mathrm { - } 0 . 7 5 , P \\mathrm { = } 0 . 0 0 7 \\rangle$ ，因此认为PE高危孕妇16周前开始服用ASA可降低妊娠期高血压的发病风险(图2)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5篇文献均对ASA预防PE的作用进行了研究，各文献无显著统计学异质性 $\\scriptstyle P = 0 . 4 9 , 1 ^ { 2 } =$ $0 \\%$ ),采用固定效应模型。共纳入855名受试者，试验组430例中67例发生PE，对照组425例发生89例，两组结果有统计学意义( $\\mathrm { { O R } = }$ $0 . 6 8 , 9 5 \\% \\mathrm { C I } \\ 0 . 4 7 – 0 . 9 8 , P \\mathrm { = } 0 . 0 4 )$ ，认为高危孕妇16周前开始服用ASA可以降低PE发生风险(图4)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4.2 其他妊娠并发症发病风险 其中3篇文献(656名受试者)研究了ASA对IUGR的预防作用，各文献无显著异质性 $\\scriptstyle \\mathrm { ' } P = 0 . 5 8 , 1 ^ { 2 } = 0 \\%$ ），采用固定效应模型。结果显示，试验组18人发生IUGR，对照组31人，两组结果有统计学差异$\\mathrm { ( O R = 0 . 5 3 , 9 5 \\% C I 0 . 2 9 - 0 . 9 8 , } P \\mathrm { = } 0 . 0 4 )$ ，认为PE",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Treatment Control Odds Ratio Ddds Ratio   \nStudy or Subgroup EventsTotal EventsTotal Weight MH,Fixed,95%Cl M H,Fixed,95% Cl   \nBakhti 2011 1 82 9 2 35.7% 0.10[0.01,0.81] 国   \nBenigni1989 0 17 3 16 14.1% 0.11 [0.01,2.32]   \nChiaffarino 2004 5 16 7 19 17.7% 0.78 [0.19,3.19]   \nHermida 1997 5 50 9 50 32.5% 0.51 [0.16,1.63]   \nTotal(95% Cl) 165 167 100.0% 0.35 [0.17,0.75]   \nTotal events 11 28   \nHeterogeneity:Chi $\\underline { { \\underline { { \\mathbf { \\Pi } } } } }$ 3.53, df=3(P=0.32);P=15% 0.01 0.1 10 100   \nTest for overalleffect $z = 2 7 0$ $D F = D , D O 7 )$ Favours experimental Favours control ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Treatment Control Odds Ratio Odds Ratio Siudy or Subgroup Events Total Events Total Weight M-H,Fixed,95%CI MH,Fixed,95% CI Bakhli 2011 0 82 4 82 8.3% 0.11 [0.01,2.00] Denigni1909 0 17 0 16 Not estimable Chiaffarino 2004 5 16 7 19 6.2% 0.78[0.19,3.19] Hermida 1997 3 50 7 50 9.2% 0.39 [0.10,1.61] Moore2014 59 265 71 258 784% 0.75 [0.51,1.12] Total (95% Cl) 430 425 100.0% 0.68 [0.47,0.98] Totalevents 87 89 Heterogeneity ChP= 2.42,d $\\fallingdotseq$ 3（P=0.49) $P ^ { \\prime } = 1 0 ^ { - 3 }$ （204号 0.01 01 10 100 Testforoveralleffect $z =$ 2.07 $\\therefore E = \\square . \\square \\cdot 9 )$ Favours oxperimental Favours controll ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Treatment Control OddsRatio Odds Ratio   \nStudy or Subgroup EventsTotal EventsTotal Weight M-H,Flxed,95%CI M-H,Fxed,95%Cl   \nRenigni1989 2 17 6 16 18.6% 0.22[0.04,1.33]   \nHemida1997 1 50 2 50 6.7% 0.49[0.04,5.58]   \nMoore 2014 15 265 23 250 74.0% 0.61 [0.31,1.20]   \nTotal (95% Cl) 332 324100.0% 0.53[0.29,0.98]   \nTotal events 10 31   \nHeterugereily.Chr=1.09,d $= - 1$ （P=0.58），F=0% 0.01 01 1 1 100   \nTestfor overall effect Z=2.04 $\\sharp =$ 0.04} Favours experimental Favours control ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Treatment Control OddsRatio Odds Ratio Study or Subgroup Events Total EventsTotal WeightM.H,Fixed,95%Cl M-H,Fixed,95%CI Baknti 2011 4 82 18 82 64.4% 0.18 [0.06,0.57] Denigni1909 2 17 5 16 17.1% 0.29 [0.0:5,1.00] Hemida 1997 1 50 5 50 184% 018 [0.02,163] Total (95% Cl) 149 148100.0% 0.20 [0.08, 0.48] Totalevente 1 28 Heterogenerty:Chr $\\equiv 0$ 20, $1 \\equiv 2$ (F $\\ L =$ 0.9U);P=0% 0.01 0.1 1 10 100 Testfor overall effect $I = 3 . 5 0$ T $\\backprime =$ 0.0003) Favours experimentalFarourscontroll ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "高危人群妊娠16周前开始服用ASA可降低IUGR发病风险(图5)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3篇文献(297名受试者)对早产结局进行了报道，试验组与对照组对早产的预防作用各文献无显著异质性 $\\scriptstyle P = 0 . 9 0 , 1 ^ { 2 } = 0 \\%$ ),采用固定效应模型。结果显示，试验组(7例)与对照组(28例)对早产的预防作用有统计学差异 $\\mathrm { ( O R { = } 0 . 2 0 , 9 5 \\% C I 0 . 0 8 { - } 0 . 4 8 , P { < } 0 . 0 0 1 ) }$ ，认为PE高危人群妊娠16周前开始服用ASA可降低早产发病风险(图6)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5篇文献均研究了ASA对新生儿出生体质量的影响，其中1篇采用频数分布报道结果,未能纳入meta分析[20],余4篇文献之间存在轻度异质性 $\\scriptstyle ( P = 0 . 1 6 , \\mathrm { I } ^ { 2 } =$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$41 \\%$ )。采用固定效应模型。纳入691名受试者，结果显示,试验组较对照组平均出生体质量增加了 $\\mathrm { 1 0 7 . 1 5 ~ g }$ 有统计学差异 $( 9 5 \\% \\mathrm { C I } 7 6 . 1 3 - 1 3 8 . 1 8 , P { < } 0 . 0 0 1 )$ ，认为高危孕妇16周前开始服用ASA可提高新生儿体质量(图7)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Treatment Control Mean Difference MeanDiference   \nStudy rSubgroup Mean SD TotalMean SDTotal Welht IV,Fxgd,95% Cl IV,Fed,95%Cl   \nMoore2014 3,159014.75 2653.144 006.65 250 5.0% 15.00 [-123.96, 153.96]   \nHermida1997 3,265 64 503,155 96 50 94.1% 110.00[78.02,141.98] 口   \nChlaffarino 2004 2,780 340 162,616 779 19 $0 . 5 \\%$ 174.00[-213.87,561.87]   \nBenigni1989 2,922 599 172,264 1,072 16 0.3% 658.00[60.52,1255.48]   \nTotal (95% Cl) 348 343100.0% 107.15 [76.13, 138.18] 中   \nHeterogengty.Chr=5.10,df=3(P=0.16);=41% -1000 -500 1 500 1000   \nTestfor overalleffect Z= 6.77 (P< 0.00001) Favuurs experimentalFavours control ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "第1篇关于ASA预防PE的meta分析由Thomas等于1991年发表在Jama上[21],纳入了6篇RCT,394名受试者,对妊娠中晚期ASA治疗妊娠期高血压疾病高危因素孕妇的效果进行了系统性评价，认为小剂量ASA可减少妊娠期高血压疾病以及重度新生儿低体质量的发生,并且对母婴无明显不良影响。尽管一些临床试验数据未能明确提示ASA对PE的预防作用[22-24],随后的meta分析均显示ASA可改善妊娠结局[25-27]。随着临床试验数量的增多，也有一些研究者的评价认为小剂量ASA不能降低PE高风险和低风险人群的PE发病风险28，推测其原因可能对人群纳入标准、入组孕周以及ASA剂量有关。Duley等[27]2007年发表的meta分析中,纳入59个临床试验，对PE高危人群服用ASA的预防效果进行了系统评价，结果显示ASA可降低 $1 7 \\%$ PE的发生,但对妊娠期高血压无显著预防作用。该系统评价分析全面,但纳入研究中部分干预措施包含双嘧达莫、维生素C、鱼油等可能影响试验结果的药物,且个别样本量过小,可能影响meta分析结果。Roberge等[29]在2012年发表的一篇meta分析中，纳入5篇文献，发现ASA在妊娠16周前开始服用可显著减少妊娠37周前PE的发病率，但对37周发生的PE无显著预防作用;该研究纳入的研究中，2篇研究中对通过超声异常表现对高危人群进行了二次筛选，可能造成一定的选择偏倚。VillaP等[2]在2013年发表了一篇meta分析，但仅纳入研究有PE高危因素并且超声异常孕妇的3篇RCT,认为妊娠16周前开始服用ASA可降低PE以及重度PE的发病率。徐婷婷等[30在近期发表的一篇meta分析中认为,ASA对PE、早产、IUGR有预防作用，但未分析ASA对子痫前期高危人群妊娠期高血压发病率的影响，以及对分娩孕周、新生儿出生体质量的影响，本研究文献搜索更加全面，高危人群定义明确，文献纳入条件严格。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "尽管临床研究及系统评价不尽相同，目前仍认为ASA对预防PE确实存在一定效果。WHO认为早期服用ASA预防高危人群PE的证据等级较高[31]；美国妇产科医师协会(ACOG)在指南中建议将早期小剂量ASA1 $\\mathrm { 6 0 - 8 0 \\ m g } ,$ 作为高危人群PE的一级预防[15；美国预防医学工作组在最新的一篇报告中也指出，妊娠12周后服用小剂量ASA可将PE风险降低 $24 \\%$ ,早产降低$14 \\%$ ，胎儿宫内生长受限降低 $20 \\%$ ,并且认为其受益与ASA剂量关系不大，更加注重于妊娠16周前开始预防[32]。目前大量研究仍在进行中,未来希望通过更多研究明确ASA预防PE机制，进而应用于临床，改善妊娠结局。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本篇meta分析经全面检索英文数据库后，将研究范围限定为妊娠16周前服用ASA对PE高风险人群的预防效果，对高危因素、纳人对象、入组时间、试验方法定义明确，纳入的5篇RCT文献质量均较高。各结果异质性均可接受，具有良好的可信度。本系统评价认为，PE高危人群妊娠16周前服用ASA可对妊娠期高血压、PE起预防作用，同时可降低早产、IUGR发病风险，对新生儿出生体质量也有一定增加作用，希望有更多的多中心、大样本RCT文献发表，以便进一步评价其效果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]StudyWHOIC.Geographicvariation in theincidenceof hypertension in pregnancy[J].AmJ Obstet Gynecol,1988,158(1): 80-3.   \n[2]Khan KS,Wojdyla D, Say L,et al. WHO analysis of causes of maternal death:a systematic review [J].The lancet,2Oo6,367 (9516):1066-74.   \n[3]Madazli R,Budak E,Calay Z,et al.Correlation between placental bedbiopsy findings，vascularcell adhesion moleculeand fibronectin levels in pre-eclampsia[J].BJOG:An Int J Obstetrics & Gynaecology,2000,107(4): 514-8.   \n[4]Redman C.Pre-eclampsia and the placenta[J].Placenta,1991,12 (4):301-8.   \n[5]Bussolino Fand Camussi G. Effect ofprostacyclinon platelet-activating factor induced rabbit platelet aggregation [J]. Prostaglandins,1980,20(5): 781-91.   \n[6] Schiff E,Peleg E. The use of aspirin to prevent pregnancy-induced hypertension and lower the ratio of thromboxane[J].N Engl JMed, 1989,321(6): 351.   \n[7]Wallenburg HCS,Makovitz JW,Dekker GA,et al.Low-dose aspirin prevents pregnancy-induced hypertension and preeclampsia in angiotensin-sensitive primigravidae[J].Lancet,1986,1(8471):1-3.   \n[8]Ramsey EM and Crosby RW. Placental vasculature and circulation: anatomy,physiology,radiology,clinical aspects: Thieme,1980.   \n[9]Beaufils M, Uzan S,Donsimoni R et al. Prevention of pre-eclampsia by early antiplatelet therapy[J].Lancet,1985,1(8433): 840-2.   \n[10] Harrington K,Kurdi W,Aquilina J,et al.A prospective management study of slow-release aspirin in the palliation of uteroplacental insufficiency predicted by uterine artery Doppler at 2O weeks [J]. Ultrasound Obstet Gynecol,2000,15(1):13-8.   \n[11] Subtil D,Goeusse P,Houfflin-Debarge V,et al. Randomised comparison of uterine artery Doppler and aspirin ( $\\mathrm { 1 0 0 ~ m g }$ ）with placebo in nulliparouswomen: the Essai Regional Aspirine Mere-Enfant study (Part 2)[J].BJOG,2003,110(5): 485-91.   \n[12] Villa PM,Kajantie E,Raikkonen K,et al.Aspirin in the prevention of pre-eclampsia in high-risk women:a randomised placebocontrolled PREDO Trial and a meta-analysis of randomised trials [J]. BJOG,2013,120(1): 64-74.   \n[13]Caritis S,Sibai B,Hauth J,et al.Low-dose aspirin to prevent preeclampsia in women at high risk[J].N Engl JMed,1998,338 (11): 701-5.   \n[14]Moore GS,Allshouse AA,Post AL，et al. Early initiation of low-dose aspirin for reduction in preeclampsia risk in high-risk women:a secondary analysis of the MFMU High-Risk Aspirin Study[J]. JPerinatol, 2014.   \n[15] Gynecologists ACoOa. Hypertension in pregnancy. Report of the American Collge of Obstetricians and Gynecologists'Task Force on Hypertension in Pregnancy[J]. Obstet Gynecol,2013,122(5): 1122-31.   \n[16] Stang A. Critical evaluation of the Newcastle-Ottawa scale for the assessment ofthequalityofnonrandomizedstudiesin meta-analyses[J].Eur JEpidemiol,2010,25(9): 603-5.   \n[17]Benigni A,Gregorini G,Frusca T, et al. Effect of low-dose aspirin on fetal and maternal generation of thromboxane by platelets in women at risk for pregnancy-induced hypertension［J].N Engl J Med,1989,321(6): 357-62.   \n[18] Hermida RC,Ayala DE,Iglesias M,et al. Time-dependent effects of low-dose aspirin administration on blood pressure in pregnant women[J].Hypertension,1997,30(3 Pt 2): 589-95.   \n[19] Chiaffarino F,Parazzini F,Paladini D,et al.A small randomised trial of low-dose aspirin in women at high risk of pre-eclampsia[J]. urJUDstet GynecOIKeprOd BIOI,∠UU4,I1∠(∠): 14∠-4.   \n[20]Bakhti A, Vaiman D.Prevention of gravidic endothelial hypertension by aspirin treatment administered from the 8th week of gestation [J].Hypertens Res,2011,34(10): 1116-20.   \n[21]Imperiale TF,Petrulis AS.A meta-analysis of low-dose aspirin for theprevention of pregnancy-induced hypertensive disease [J]. JAMA,1991,266(2): 260-4.   \n[22] CLASP: a randomised trial of low-dose aspirin for the prevention and treatment of pre-eclampsia among 9364 pregnant women. CLASP(Collaborative Low-dose Aspirin Study in Pregnancy) Collaborative Group[J].Lancet,1994,343(8898): 619-29.   \n[23]Golding J.A randomised trialof low dose aspirin for primiparae in pregnancy. The Jamaica Low Dose Aspirin Study Group[J]. Br J Obstet Gynaecol,1998,105(3): 293-9.   \n[24]Rotchell YE,Cruickshank JK, Gay MP,et al. Barbados Low Dose Aspirin Study in Pregnancy (BLASP):a randomised trial for the prevention of pre-eclampsia and its complications[J].Br J Obstet Gynaecol,1998,105(3): 286-92.   \n[25]Duley L, Henderson-Smart D, Knight M,et al. Antiplatelet drugs for prevention of pre-eclampsia and its consequences: systematic review[J].BMJ,2001,322(7282): 329-33.   \n[26]Askie LM,Duley L,Henderson-Smart DJ,etal. Antiplateletagents for prevention of pre-eclampsia:a meta-analysis of individual patient data[J]. The Lancet,2007,369(9575): 1791-8.   \n[27] Duley L, Henderson-Smart D, Meher S,et al.Antiplatelet agents for preventing pre-eclampsia and its complications (Review）[J]. Cochrane Database of Systematic Reviews,2007,(2).   \n[28] Rossi AC,Mullin PM. Prevention of pre-eclampsia with low-dose aspirin or vitamins C and E in women at high or low risk:a systematic review with meta-analysis[J].Eur J Obstet Gynecol Reprod Biol,2011,158(1): 9-16.   \n[29]Roberge S,Giguere Y,Villa P,et al.Early administration of low-doseaspirin for theprevention ofsevereandmild preeclampsia: a systematic review and meta-analysis [J].Am J Perinatol,2012,29(7): 551-6.   \n[30]徐婷婷,邓春艳,周凡,等.低剂量阿司匹林对子痫前期高危人群预防 效果的系统评价研究[J].中华妇幼临床医学杂志:电子版,2014,5: 21-8.   \n[31]Organization WH. WHO recommendations for prevention and treatment of pre-eclampsia and eclampsia: evidence base[J].2011.   \n[32]LeFevre ML，Force USPST. Low-dose aspirin use for the prevention of morbidity and mortality from preeclampsia: u.s. Preventive services task force recommendation statement[J].Ann Intern Med,2014,161(11): 819-26. （起防绍由） ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

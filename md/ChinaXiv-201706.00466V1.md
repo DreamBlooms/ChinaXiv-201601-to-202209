@@ -1,0 +1,218 @@
+# DOI:10.5846/stxb201603250536
+
+杨世琦.基于欧氏距离的农业可持续发展评价理论构建与实例验证.生态学报,2017,37(11);3840-3848.   
+YangQAcasedfoestaableuraleopteaaiethdsdoclaaectaolc 37(11) :3840-3848.
+
+# 基于欧氏距离的农业可持续发展评价理论构建与实例验证
+
+# 杨世琦1,2，\*
+
+1中国农业科学院农业环境与可持续发展研究所，北京100081  
+2农业部农业环境与气候变化重点开放实验室，北京100081
+
+摘要：基于欧氏距离构建了农业可持续发展评价理论体系,包括农业可持续发展模型、评价函数、评价等级、目标系统、零系统与评价指标框架。选取宁夏吴忠市2000—2012年数据开展了实例验证,可持续发展指数（ASDI)范围是[0.65,0.70],呈现平缓上升趋势,呈现中持续发展状态。评价结果基本反映了农业系统情况,表明基于欧氏距离构建农业可持续发展评价方法是可行的。该方法的创新性与优势表现在：一是具有可靠的方法论；二是构建了农业可持续发展模型,引人目标系统与零系统概念，建立了农业可持续发展评价参照系,提升了评价的可控性;三是数学函数中隐含了指标权重,回避专家打分法引起的误差或错误，也回避了由于指标增减中指标权重不得不重新赋值的专家打分法缺陷;四是可持续发展评价指数采用函数模型转换,把欧氏距离转换成百分数值一方面易理解,另一方面不同系统的指数值能够进行相互比较。宁夏吴忠农业可持续发展水平偏低的主要原因是氮肥施用量高、秸秆还田率低、复合肥或专用肥比例低、保护性农作技术推广不够、土壤有机质低以及农村人均收入偏低等。
+
+关键词：农业可持续发展指数；目标系统;零系统;欧氏距离
+
+# A case study of a novel sustainable agricultural development evaluation method based on Euclidean distance theory
+
+YANG Shiqi1,2, \* 1InstuteofEironmentandSustainableDevelopment inAgriculture，ChineseAcademyofAgriculturalSciencs，Bjingoina 2Key Laboratory of Agro-Environment and Climate Change，Ministry of Agricultural，Beijing 1Oo081,China
+
+Abstract：A novel evaluation theory for sustainable agricultural development wasdevelopedusing thestandardized Euclidean distance method.Itcontainsanagriculture sustainable development model，anevaluation function，and agriculturesustainabledevelopmentranks.It includes a goal system,a zero system,andan index frame.Wuzhong County in Ningxia Hui Autonomous Region（WZC）was used as acase study area between 2O0O and 2012.The results showed that the agricultural sustainable development exponent（ASDE）in WZC slowly increased over the period from O.65 to 0.70.The positive features of the methodare:（1）the methodology was reliable；（2）theagriculture sustainabledevelopment model was constructed using the goalsystem and the zero system，which provides areference system for sustainableagricultural development and improvesevaluationcontrollability；（3）the index weights wereembedded in the evaluation function, which removes theerors or mistakes madebythe expert scoring methodandavoids having toreasign index weights because of indicatoradditionorsubtraction；and（4）theagriculture sustainabledevelopment exponentwas relatedtothecentesimal systembyafunction model transformation，which gives avery clear figureconception because the primitivevalue from the Euclideandistance isdificulttounderstand.Itisimportanttocomparesystemsandmethodapplication，andthismodel suggests thatthelow ASDEin WZCismainlydueto highnitrogenfertilizerapplicationrates，lowstrawapplicationrates, the compoundorspecialfertlizerratios，theproportionof thelandtakenupbyconservationfarmingareas，soilorganic matter levels，and income per rural person.
+
+Key Words: agricultural sustainable development exponent （ASDE）；goal system； zero system； Euclidean distance
+
+可持续性一词最早出现在19世纪的格林兄弟德语词典中,德语原词为 Nachhaltigkeit;“持续 稳定的长久利用"可持续性的原则出现在300 年前出版的图书中[1-2]。可持续发展作为概念在巴黎的生物圈会议上首次提及（1968）,而可持续性概念及其全球发展范式作为文献首次出现在《The Ecologist》学术期刊上（1972）。1978 年的布伦特兰报告首次推荐并引入可持续发展[3]。马斯特里赫特条约把可持续发展作为环境政策的一部分于1992年引入并在1997年的阿姆斯特丹条约中得到强化。联合国粮农组织(FAO)1988年给出可持续发展概念[4],之后不久美国加利福尼亚州议会提出了可持续农业概念(1985）,FAO 提出的可持续农业与乡村发展(SARD)作为一个过程包括4点准则[5]。
+
+关于可持续发展评价的方法有很多,如"驱动-状态-影响-响应"模型[6、聚类指数[7]、粗糙理论主导法[8]模糊集理论与改进模糊数学模型[9]、综合影响评价法[10]、生物经济模型理论[11]、生态足迹[12]、指标重要性法[13]线性回归法[14]、灰色关联法[15]、能值综合指数法[16],能流法[17]、神经网络预测法[18]、层次分析法[19]多准则决策法[20]、全排列多边形图示指标法[21]、多指标综合评价法[2-23]、Q法[24]、行星边界法[25]、以及Griggs 等发展了联合国可持续发展范式并重新提出了嵌套概念[26]。其中最常见的方法是层次分析法。
+
+关于可持续发展评价指标,联合国1995 年提出了第一套指标体系[2]之后,一些国家基于全球、国家和区域尺度也提出了大量的指标体系[28-29]。经合组织与欧盟是最早关注福利、生活质量与社会进步的评价组织,也建立了相应的指标体系[30-31]。联合国首脑会议 2000 年由 189个国家签署《千年宣言》（或《千年发展目标》）中提出8项目标,包含64个指标,实施期限 2000—2015年;联合国193个成员国参加的可持续发展峰会于2015年在纽约提出 2016—2030 年可持续发展目标体系,包括17个一级目标,169个二级目标和303 个评价指标[32-3],国际可持续发展研究所统计表明,已经有超过900 多套的可持续发展评价指标体系[34]。还有独立指标如人类发展指数、生态足迹等应用于国家间纵向与横向研究比较,专门针对社会经济系统的Ostrom 可持续性框架[35],以及UNCBD 生态系统方法等[36]。以往大量的文献专门针对可持续发展指标与评价方法做了研究[37],可持续发展指标倡议纲要筛选了600个用于评价的指标[38],Hammond 等人研究了各种指标及复合指标的连续性及其含义[39],Dalal-clayton、Bass和 Moldan 等人[40-41]证明决策者对聚类指数与指标联结的目标的重要性,然而聚类指标与复合指标普遍缺乏数据标准化与指标权重的规则,指标的公度性不足[42]。
+
+关于可持续发展评价,较为普遍的是层次分析法;但该方法应用中最大的障碍是指标权重。由于指标间的重要性比较受制于专家兴趣与教育背景的影响,权重结果可信度往往不高，一般都是研究者自定,即使一些权威评价机构也是如此。指标间重要性比较的可能遇到尴尬是这一问题的科学性受到怀疑,例如社会、经济与生态效益权重的赋值较难,一般都采用平均或差异不大的权重;还有如氮磷钾三种化肥的重要性比较会因区域、作物和人等因素而答案不同。本研究正是针对上述的问题与不足,提出了基于欧氏距离方法的农业可持续发展评价理论体系。
+
+# 1农业可持续发展模型构建
+
+对农业系统优劣判断评判，一般都会自觉或不自觉的参照了既定的目标，这些目标可以通过表征系统的一系列指标来反映,如单位面积的化肥施用量、人均粮食、人均耕地面积等。随着人类认知水平的提高,基本可以确定这些指标的合理的或公认的取值，如国内人均耕地 $0 . 1 5 \ \mathrm { h m } ^ { 2 }$ 就能基本满足对农产品的需求，英国氮肥施用量不超过 $2 7 5 \mathrm { k g \ N / h m } ^ { 2 }$ 基本就能避免面源污染，这些指标都可以作为农业可持续发展的指标。基于这种认识,把由这样一组指标构成的系统称之为目标系统(the goal system）,目标系统是实现可持续发展理想的系统状态。目标系统的状态用函数表示如下：
+
+$$
+G = F ( X _ { 1 } , X _ { 2 } , \cdots , X _ { m } )
+$$
+
+式中， $G$ 代表目标系统， $F$ 代表目标系统状态， $X _ { 1 } , X _ { 2 } , \cdots , X _ { m }$ 代表组成目标系统的指标状态值。农业系统的一般状态函数表示为：
+
+$$
+\forall S = f _ { i } ( X _ { 1 } , X _ { 2 } , \cdots , X _ { m } )
+$$
+
+目标系统如同参照系,是判断一个系统是否处于可持续发展状态以及这种状态的水平的依据,与目标系统的差异实际上就是距离，这个距离就可以衡量系统的发展状态，用 $D$ 表示为：
+
+$$
+D = \mid f _ { i } - F \mid
+$$
+
+式中， $D$ 代表系统与目标系统的距离 $\mathbf { \mathcal { I } } _ { i }$ 代表任一系统, $F$ 代表目标系统状态。这个距离概念还不十分清晰，只有相对大小,没有单位，因而无法读懂结果值接近目标系统的程度，不同系统之间也无法比较。为此,引入最差状态系统,它是目标系统的完全对立面,所有指标均表现最差,称之为零系统(the zero system）。如此,由零系统与目标系统如同一把标度尺,被考察的系统的所有状态就落在两者之间,其确定的位置可以通过数学模型转化赋予结果值量纲,使距离概念更加清晰(具体见内容二)。零系统用状态函数表示如下：
+
+$$
+Z = f _ { 0 } ( X _ { 1 } , X _ { 2 } , \cdots , X _ { m } )
+$$
+
+式中， $Z$ 代表系统与目标系统的距离 $\mathcal { I } _ { 0 }$ 代表零系统状态。通常零系统中的指标均取0值。
+
+# 2可持续发展评价数学模型构建
+
+引入欧氏距离(EuclideanDistance）概念作为可持续发展指数的核心理论。
+
+$$
+\hat { \mathcal { A } } _ { I G } = \sqrt { \sum _ { i , k = 1 } ^ { m , n } \left( \frac { x _ { i k } - x _ { G k } } { s _ { k } } \right) ^ { 2 } }
+$$
+
+式中， $d _ { \scriptscriptstyle { I G } }$ 代表I系统与目标系统的加权欧氏距离， $X _ { i k }$ 代表被评价系统的第 $k$ 个评价指标（数学概念上的第 $K$ 维变量)值(标准化后的值）， $X _ { G k }$ 代表目标系统的第 $k$ 个评价指标值（标准化后的值）。 $S _ { k }$ 代表第 $k$ 个指标值的标准差。方差的倒数实际上是指标权重,因此,这个公式可以看成是一种加权欧氏距离（Weighted Euclideandistance）。
+
+标准欧氏距离由于数据各维数值的量纲不同,需要将各维数据标准化。标准化数据依照下面公式。
+
+$$
+x _ { i k } = \frac { x - m } { s }
+$$
+
+式中， $x$ 代表原始值， $\overline { { m } }$ 代表均值,s代表标准差。标准化后的数据变量的数学期望为0,方差为1。
+
+依据可持续发展模型,引入目标系统与零系统距离做分母,任一系统与目标系统的距离做分子,其比值作为可持续发展指数。由于欧氏距离表示越小越接近目标系统,与目标系统的相似度越大。为了与通常的认识习惯一致,函数关系式中引入1,实现了数理统计学意义与实际应用的最佳对接。如此,可持续发展指数值不但在[0,1]之间,而且值越大,越接近目标系统,也越持续。
+
+$$
+\mathrm { A S D E } = 1 \ : - \frac { d _ { I G } } { d _ { Z G } }
+$$
+
+式中，ASDE 代表农业可持续发展指数（Agricultural Sustainable Development Exponent）, $d _ { I G }$ 代表点（系统状态I)与目标系统 $G$ 的距离， $d _ { Z G }$ 代表零系统 $Z$ 与目标系统 $G$ 的距离(最大距离）。另外,这个函数关系式也适于计算任意两个系统之间的距离,例如 $d _ { 1 2 }$ 表示系统1与2的距离, $d _ { 3 7 }$ 表示系统3与7的距离。ASDE值分成3个区间， $0 { < } \mathrm { A S D E } { < } 0 . 6 0$ 表示低持续， $0 . 6 0 { < } \mathrm { A S D E } { < } 0 . 8 0$ 表示中持续， $0 . 6 0 { < } \mathrm { A S D E } { < } 0 . 8 0$ 表示高持续。
+
+# 3评价指标体系构建与目标系统指标参考值
+
+基于前期评价指标框架研究基础,并参照《全国农业可持续发展规划2015—2030年》,从我国农业生产实际出发,优先考虑化肥、农药、土壤、养殖、耕地、水利、农技、农村环境、农业灾害、农村劳动力与农业产出等主要方面中的主要指标,评价指标由初选的80个,最终确定为17个（表1)。另外,如土壤重金属、水质与地膜污染等侧重于点,面上数据支持较为困难,故暂不考虑;科技进步率、农产品药残、加工食品的添加剂、饲料中的重金属添加剂、农村生活废水废物情况等也存在类似问题。
+
+表1农业可持续发展评价指标框架及目标系统指标参考值  
+Table1 The flame of index and the reference values of the goal syster   
+
+<html><body><table><tr><td>指标类别 Index category</td><td>编号 No.</td><td>指标 Index</td><td>目标系统的指标参考值 The reference values of the goal system</td></tr><tr><td rowspan="5">肥料 Fertilizer</td><td>1</td><td>氮肥施用量(纯氮/单季)</td><td>150—180 kg/hm²[43]</td></tr><tr><td>2</td><td>磷肥施用量(纯磷或五氧化二磷)</td><td>35 kg/hm²或80 kg/hm2[44]</td></tr><tr><td>3</td><td>钾肥施用量(氧化钾)</td><td>60—90kg/hm²[45]</td></tr><tr><td>4</td><td>秸秆还田率</td><td>100%</td></tr><tr><td>5</td><td>复合肥料施用比例</td><td>35%(2014年全国平均值）[46]</td></tr><tr><td>农药 Pestcide</td><td>6</td><td>农药施用量</td><td>7.9 kg/hm²（2014年全国平均值)[46]</td></tr><tr><td>土壤 Soil</td><td>7</td><td>土壤有机质</td><td>不小于20g/kg*</td></tr><tr><td>养殖 Breeding</td><td>8</td><td>畜禽粪便还田率</td><td>100% *</td></tr><tr><td>耕地 Arable land</td><td>9</td><td>人均耕地面积</td><td>大于0.15hm2[47]</td></tr><tr><td>水利 Irrigation works</td><td>10</td><td>农田灌水量、或节水灌溉面积</td><td>旱作灌水量;6×10m/hm²,或节水灌溉面积比例不 小于60%[48]</td></tr><tr><td rowspan="2">农技 Agricultural techniques</td><td>11</td><td>保护性农作技术推广面积(肥药水土)</td><td>100% *</td></tr><tr><td>12</td><td>测土配方面积比 .</td><td>100% *</td></tr><tr><td>农村环境 Rural environment</td><td>13</td><td>农村饮水安全</td><td>100% *</td></tr><tr><td>农业灾害 Agricultural disaster</td><td>14</td><td>农业非灾害面积比例</td><td>100% *</td></tr><tr><td>农村劳力Rural labor</td><td>15</td><td>劳动力大专以上学历</td><td>5%（2014年全国平均值）*[49]</td></tr><tr><td>农业产出 Agricultural output</td><td>16</td><td>人均粮食</td><td>400 kg[50]</td></tr><tr><td></td><td>17</td><td>农村居民可支配收入</td><td>10000.00元(2014年全国平均值)[46]</td></tr></table></body></html>
+
+\*作者自定
+
+# 3实例验证
+
+# 3.1 基本情况
+
+以宁夏回族自治区的吴忠市为例（Wuzhong County in Ningxia Hui Autonomous Region（WZC））。吴忠市位于宁夏中部,地处宁夏平原腹地,是宁夏沿黄河城市带核心区域。北连银川市和鄂尔多斯市,南接固原市,东靠陕西榆林市,西邻内蒙古阿拉善,素有“塞上江南"美誉。属温带大陆性半干旱气候,冬无严寒,夏无酷暑。年降水量在 $2 6 0 . 7 ~ \mathrm { m m }$ ,年蒸发量在 $2 0 1 8 ~ \mathrm { m m }$ ,平均气温 $9 . 4 \mathrm { { ^ { \circ } C } }$ ,四季分明,日照充足,蒸发强烈,雨雪稀少,昼夜温差大，全年日照 $2 9 5 5 \mathrm { ~ h ~ }$ ,无霜期163d,是全国太阳辐射最充足的地区之一,特别适宜农作物及瓜果生长。近年,由于大量施用肥药及灌水,地表水严重污染;秸秆焚烧与养殖污染问题也普遍存在,影响农业可持续发展。
+
+# 3.2 结果分析
+
+宁夏吴忠农业可持续发展指数总体呈现上升趋势,可持续发展指数介于0.65—0.70之间,均处于中持续发展状态,在中持续发展的偏低值区间,最高与最低可持续发展指数差值仅为0.05。中持续发展状态的主要原因有：施肥量高,如氮肥施用量基本都在 $3 5 0 ~ \mathrm { k g / h m } ^ { 2 }$ 以上,有些年份甚至接近 $4 0 0 ~ \mathrm { k g / h m } ^ { 2 }$ ;复合肥比例偏低，2005 年之前基本不使用复合肥,2012年的复合肥比例仅为 $1 7 \%$ 。由于地处半干旱区,空气干燥,农作物病虫害发生率较低，农药施用量不大，基本上全国平均水平的一半,2012年农药施用量最高仅为 $4 . 7 \mathrm { ~ k g / h m } ^ { 2 }$ 。秸秆还田总体上不到 $2 0 \%$ ,秸秆既是农村生活能源，又是牛羊冬季饲料，另外，农民还田利用的意识不够。畜禽粪便还田率在2006年之前比较高超过 $8 0 \%$ ,农户小规模养殖基本上都能做到全部还田利用，但随着规模化养殖的比例增加，畜禽粪便还田率有所下降，其主要问题还田成本增加。土壤有机质一是普遍低于 $2 0 \mathrm { g / k g }$ ,二是总体上是下降趋势,如 2000 年 $1 4 . 3 ~ \mathrm { g / k g }$ ,2012年为$1 0 . 1 ~ \mathrm { g / k g }$ ,主要问题是有机质还田不足。人均耕地面积接近 $0 . 2 \ \mathrm { h m } ^ { 2 }$ 均高于 $0 . 1 \ \mathrm { h m } ^ { 2 } / \$ 人，耕地资源相对充足。
+
+0.710.700.70  
+0.70 0.700.700.69  
+0.69 0.690.68 0.68  
+0.68 0.68  
+0.67 0.66  
+0.660.660.66 0.65  
+0.65  
+0.64  
+0.63  
+0.620000 300 2002 2005 2004 2005 900 2007 8000 6000 0100 401 Z022年份Year
+
+由于灌区渠系完善,旱作农田的灌水量增加较多,2005年以后的单位灌水量几乎翻了一番,灌溉量没有超过$6 0 0 0 \mathrm { ~ m } ^ { 3 } / \mathrm { h m } ^ { 2 }$ ,但整体上以大水漫灌为主,稻田灌水量较大,水利用效率总体较低。保护性农作技术（节肥节水节药)推广与普及不够,比例低于 $10 \%$ ,近几年还有下降趋势。测土配方技术2009年开始，至2012年，技术推广面积达到 $3 5 \%$ ,离目标还有很大距离。农村人口的饮用水有很大改善,2012年饮用水安全达到 $8 9 . 3 \%$ ，偏远山区还存在窖水卫生不达标问题。农业灾害(主要是旱灾)控制有很大提高,由于灌溉渠系网络的扩大，农业旱灾面积有大幅度的下降,2012 年不到 $10 \%$ 。农村劳动力素质总体较差，大专以上的农业劳动力不到$0 . 8 \%$ 。人均粮食占有量超过 $4 0 0 ~ \mathrm { k g / }$ 人,最高达到 $7 0 0 ~ \mathrm { k g / }$ 人左右，人均没有低于 $5 0 0 ~ \mathrm { k g }$ 。农村人口人均收入逐渐上升,2012年达到6378元,不到全国平均水平的 $6 5 \%$ 。
+
+# 3.3农业可持续发展的指标诊断
+
+以2012年为例,采用指标诊断方法,分析宁夏吴忠农业可持续发展状态的原因。表2是2012年农业可持续发展指标诊断,包括2012年与零系统、2012年与目标系统、目标系统与零系统的欧氏距离,以及欧式距离的比值。（系统目标-2012)/(2012-零系统)的比值反映了2012年农业系统全部指标在零系统与目标系统之间的相对位置,值越大,距目标系统越小,如氮肥施用量指标13.82表明 2012年氮肥用量远离目标系统,接近零系统，且距目标系统是距零系统距离的13.82倍（实际上是氮肥超量施用,不是施用量不足,而是依据数据处理原则后的结果),采用雷达图能够直观的反映了评价系统、目标系统与零系统之间的距离关系（图2),开展指标诊断,发现农业可持续发展存在的问题。（目标系统-2012)/（目标系统-零系统)比值反映了2012年农业系统的全部指标距目标系统的距离占全程距离的比例,值越小,距目标系统越近,如氮肥施用量0.93 表明当年施用量远离目标系统,是系统可持续发展指数低的原因之一。以2012年宁夏吴忠可持续发展指数0.70为参照，大于 $0 . 3 0 ( 1 \substack { - 0 . 7 0 } )$ 的指标有氮肥施用量、钾肥施用量、秸秆还田率、复合肥比例率、土壤有机质、保护性农作面积、测土配方比例、农业劳动力大专以上比例与农民人均收入等9个指标对综合指数的贡献为负;磷肥施用量、农药施用量、畜禽粪便还田率指标、人均耕地面积、单位农田灌水量、饮用水合格率、农业非灾害率和人均粮食等8个指标对综合指数的贡献为正。
+
+# 结果与讨论
+
+4.1基于欧氏距离的农业可持续评价理论的创新性及评价方法的优点
+
+基于欧氏距离的农业可持续评价方法的创新性与主要优点体现在：一是以成熟的方法论做基础,评价模型解释性好,评价结果可靠性高;二是模型中引入目标系统与零系统概念,类似农业可持续发展评价参照系，使任一评价系统置于其中,评价直观性、可控性与理解性有很大提高;三是评价函数中嵌合了指标权重,无需通过专家打分法确定指标权重及由此产生的权重偏差或错误；同时也避免了由于评价尺度改变引起的指标增减而导致的指标权重不得不重新赋值的问题,系统尺度可以自由缩放,提升了评价指标框架的针对性与灵活性,也大大降低了系统评价工作量，简化评价程序;四是基于模型转化的可持续发展指数与百分制接轨,结果易于理解,有助于评价结果的应用与推广。
+
+表22012年宁夏吴忠农业可持续发展指标诊断  
+Table2The index diagnosis of WZC in 2012   
+
+<html><body><table><tr><td>指标 Index</td><td>2012-零系统 2012-the zero system</td><td>目标系统-2012 The goal system-2012</td><td>目标系统-零系统 zero system</td><td>（目标系统-2012）/ (2012-零系统） Thegoalsystee(ete)/（Thegals)/ (2012-the zero system)</td><td>（目标系统-2012）/ （目标系统-零系统） (The gal eystm)/</td></tr><tr><td>氮肥施用量</td><td>0.231</td><td>3.197</td><td>3.429</td><td>13.82</td><td>0.93</td></tr><tr><td>Nitrogen fertilizer application 磷肥施用量</td><td>2.863</td><td>0.694</td><td>3.557</td><td>0.24</td><td>0.20</td></tr><tr><td>Phosphorus fertilizer application 钾肥施用量 Potash fertilizer application</td><td>1.909</td><td>1.643</td><td>3.552</td><td>0.86</td><td>0.46</td></tr><tr><td>秸秆还田率 Ratio of straw application</td><td>0.900</td><td>3.602</td><td>4.502</td><td>4.00</td><td>0.80</td></tr><tr><td>复合肥比例 Ratio of compound fertilizer application</td><td>1.676</td><td>1.774</td><td>3.450</td><td>1.06</td><td>0.51</td></tr><tr><td>农药施用量 Pesticide application</td><td>3.445</td><td>0.259</td><td>3.705</td><td>0.08</td><td>0.07</td></tr><tr><td>畜禽粪便还田率 Ratio of manure application</td><td>3.586</td><td>0.896</td><td>4.482</td><td>0.25</td><td>0.20</td></tr><tr><td>土壤有机质 Ratio of soil organic matter of >20 g/kg area</td><td>2.196</td><td>2.609</td><td>4.804</td><td>1.19</td><td>0.54</td></tr><tr><td>人均耕地面积 Arable land per capita</td><td>3.873</td><td>0.000</td><td>3.873</td><td>0.00</td><td>0.00</td></tr><tr><td>单位农田灌水量 Irrigation amount per unit</td><td>2.894</td><td>0.541</td><td>3.435</td><td>0.19</td><td>0.16</td></tr><tr><td>保护性农作面积比</td><td>1.291</td><td>3.012</td><td>4.303</td><td>2.33</td><td>0.70</td></tr><tr><td>Ratio of conservation farming area 测土配方面积比</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ratio of soil testing and formula fertilizer area</td><td>1.304</td><td>2.421</td><td>3.725</td><td>1.86</td><td>0.65</td></tr><tr><td>饮用水合格率 Ratio of drinking water security in the rural area</td><td>3.931</td><td>0.466</td><td>4.397</td><td>0.12</td><td>0.11</td></tr><tr><td>农业非灾害率</td><td>3.490</td><td>0.743</td><td>4.233</td><td>0.21</td><td>0.18</td></tr><tr><td>Ratio of non-disaster crop area 农村大专以上劳动力</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ratio of college degree labor force the in rural area</td><td>0.691</td><td>3.683</td><td>4.375</td><td>5.33</td><td>0.84</td></tr><tr><td>人均粮食 Grain per capita</td><td>3.873</td><td>0.000</td><td>3.873</td><td>0.00</td><td>0.00</td></tr><tr><td>农民人均收入 Income per farmer</td><td>2.735</td><td>1.558</td><td>4.293</td><td>0.57</td><td>0.36</td></tr></table></body></html>
+
+# 4.2评价指标体系中的指标正、负功效问题
+
+指标的正负功效实际上是相对的,根据作用对象而不同,例如化肥农药,对环境负功效,对作物正功效。在考虑生态环境多的情况下,用量越少越好,不用最好;在考虑作物产量多的情况下,一般是越多越好。因此，要同时实现“双"正功效,就要确定合理的施用量区间,在此范围内都是正功效,不超过环境危害容量,又能实现作物目标产量;超出合理的区间范围,就会产生负功效。粮食单产、人均粮食等越多对环境的负功效也越大。基于这种认知,所有指标全部按正功效处理,取值区间为 $[ 0 , X ]$ ,其中， $X$ 代表合适区间内的最大值。评级指标全部按照正功效对待也不是尽善尽美的,如同样的单产水平,可能出现施肥量低反而要得低分,施用量高要得高分问题，但出现概率很低，尤其在区域尺度上。
+
+![](images/ae54a61509ba3443141a09b6c754aea953e41f7829b1b73d89e149768f6ef8fe.jpg)  
+图2宁夏吴忠2012年可持续发展指标诊断  
+Fig.2The radar graph of the index diagnosisofWZC in 2012
+
+# 4.3评价指标的溢值问题
+
+评价中通常遇到评级指标如施肥量、用药量、人均耕地、人均粮食与人均收入等指标超出区间范围的情况。例如,合理的氮肥施用量区间是 $[ 0 , 1 8 0 ] \mathrm { k g / h m } ^ { 2 }$ ,如果遇到指标溢值将按下面公式处理：
+
+$$
+\scriptstyle Y = 2 A - X
+$$
+
+式中，Y代表变换后的值,A代表目标值, $X$ 代表溢值。转换后出现负值的按0对待（假定是溢值太多导致负功效过大)。溢值转换的好处，一是把指标溢值转换到区间内,二是“惩罚"溢值如超量施肥,三是合理处理溢值,不主张但也不绝对否定。磷肥、农药等指标溢值也按此法处理。但是对另一类指标如人均耕地、人均粮食和人均收入在溢值情况下，取合理区间的上限值,这一点有所差别。
+
+# 4.4评价指标的多少问题
+
+评价指标一般少则几个,十几个,多则几十个,甚至有上百个。《千年宣言》的 MDGs 包含 64个指标，SDGs（Sustainable Development Goals）包含303个指标,中国科学院可持续发展战略研究组2014 年全国可持续发展能力的评估涉及变量指数57个（过去45个)与基层指标415个（过去240个）。指标的多少反映评价内容的,理论上是越多越好,但实际上并非如此。多指标似乎考虑很周全,却降低了指标的敏感性,某一指标值的变化对结果的影响近乎其微,只有多数指标变化才可能对结果产生影响;多指标最大缺点忽视了不同指标间的关联性从而导致的信息以不同的数据形式重复出现,可以看成是人为性系统误差,评价结果也未必合理。如人均粮食与人均肉奶蛋信息的重叠,通常人均粮食一定程度上可以替代人均肉奶蛋。指标个数少在理论上似乎不周全,却提高了指标的权重,评价结果更有意义。因此,好的评级指标体系应该体现简单、全面、重点突出但不面面俱到特点。本指标体系也是基于最初80个指标的分析及指标数量变动多次验证结果,最终确定为15—20个指标,不但包含了系统大部分信息,且单个指标数值在较大浮动情况下,仅影响结果的千分位;在2—3个指标数值变动情况下,影响结果的百分位。
+
+# 4.5指标百分制处理
+
+有些指标的获取成本较高如地表水、地下水水质指标，同时由于是点上取样代表性也较差,国家的监测网点有时也覆盖不到。水质指标只是反应的点上问题,很难反映面上,尤其在尺度放大的情况下。鉴于以上情况,反映区域水质指标最好采用百分率,可以是污染百分率,也可以是饮用水安全百分率。类似问题如农业技术推广面积、农业非灾害面积等指标单位均可以试行百分制。
+
+4.6建立农业可持续发展评价机制并实施农业可持续发展行动。
+
+基于成熟的研究方法,尽快建立农业可持续发展评价机制并实施农业可持续发展行动是当务之急。我国农业发展迫切需要“农业可持续发展评价”这一指挥棒,并以之为抓手,开展不同行政区域或行政单元的农业可持续发展评价研究并给予排名,编制农业可持续发展年度报告，一是吸引大众参与，二是吸引社会关注，引起各级政府重视并能够付之行动,从政绩考核与实际需求考虑,引导和推动农业可持续发展战略的逐步贯彻落实。
+
+# 参考文献（References）：
+
+[1]Von Carlowitz H C.Sylvicultura Oeconomica.Leipzig,Braun,1713.   
+[2]GrunewaldK，BastianO.Ecosystemasessmentandmanageentaskeytolsforsustainablelandscapedevelopment：acasestudyf h Or Mountains region in Central Europe.Ecological Modelling，2015,295：151-162.   
+[3]UnitedNationsWorldCommissononEnviromentandDevelopment.OurCommonFuture（TheBruntlandReport）Oxford：OxfordUniversity Press，1987.   
+[4]FoodandAgiculurerganzatio（FO）ustaiableAgualroductio：mplcatiosfoInteatioalAgualeseacoe FAO,1989.   
+[5]FAO.taiabiltsialndualvelotp：n'sal99//wfod faodefin_en.htm.   
+[6]ZhouSD,uellrF，urhadB，CXJ，HouY.AesingagicuuralstaabldveloentbasedohRappoachasestudyin Jiangsu,China. Journal of Integrative Agriculture,2013,12（7）：1292-1299.   
+[7]Bolcro，olotaSAssesntfsustaiabledevelntineUsigaegatedSindexEcologicalIdicators，1，48: 699- 705.   
+[8]BoggiaAocLaoi，usoti，Gesnralaleevelotpotetialiingdoaco approach. Journal of Environmental Management，2014,144：160-167.   
+[9]CmeliGeJoooUdJetftalitaoe development:a novel approach using fuzzyset theory.Agriculture，Ecosystems & Environment,，2001,86(2):173-185.   
+[10]BondR，Jariceeseaecentfableeveo：ed Development，2001，29(6）：1011-1024.   
+[11]Sattler C，Nagel U J，Werner A，Zander P.Integrated ssessment of agricultural production practices to enhance sustainable development in agricultural landscapes.Ecological Indicators,2010,10(1) ：49-61.   
+12]egstettflalbletl Economics，2014,106：105-111.   
+[13]MarikaE，istodouuE，Xedisustaableevelopentindcatorforingsitesinproteedasldevelopntgd scoringof potentialenviroentalipactsandasesmentofanagementsenariosJoualofleanerProductionO15，59-70.   
+[14]Golusinoioicfhcdefsableeveloptiuthsteurohfr regression method. Renewable and Sustainable Energy Reviews，,2011,15(1)：766-772.   
+[15]LiuYB，YaoCS，WangGX，BaoS.Anintegratedsustanabledevelopmentaproachtoodelingtheeco-enviromentaleectsfrom urbanization.Ecological Indicators,2011,11(6）：1599-1608.   
+[16]Garc-tabeveo-ddlcl Indicators，2016,60: 996-1007.   
+[17]Odum HT,Elisabeth C.ModelingforAllSales:An Introduction to System.Simulation.SanDiego：Academic Press，2000.   
+18]PijanowB,roDGeliB,nkG.UigeuraletwondGtforeastduehags：ndrasfoaodel. Computers，Environment and Urban Systems，2002，26(6)：553-575.   
+[19]ShenLX,MuduliKareevelopingstaableevelopentfraeorkiotextofngustris：Aaaoc Policy,2015,46:15-26.   
+[20]Jayarana,re,MaliiielfableeveloalpgaldU Arab Emirates.Energy Policy，2015，87：447-454.   
+[21]LiF,LiuX,HuD,WangR,YangW,LiDaoDeuretatosdaevauatioacoreingurbable development：acase study for China's Jining City.Landscape and Urban Planning,2009,90(3/4）：134-142.   
+2]Frriiltil）il assess and compare municipal performance.Journal of Environmental Management,20o1,63(2）：117-131.
+
+http://www.ecologica.cn
+
+[23」BoggiartiaCeasusaablevelotigliidelsedoualtalagt(11）:2301-2306.  
+[24]DoodyDG,KeaeyP，BaryJ，MolesR，O'ReganBEvaluationoftheQ-methodasamethodofpublicparticipationintheeleionfsustainable development indicators.Ecological Indicators，2009,9(6）：1129-1137.  
+[25]ColeMJl,ewG.rackingsstaiableevelopentiatioalbaroeterfuthfricausingdsaled“fedjustspace”framework.Proceedingsof theNatioalAcademyofSciencesof theUnited StatesofAmerica,2014,11（42）：E4399-E4408.  
+[26]Griggaod-mihosrJ,surtef,eoblbedevelopment goals for people and planet. Nature，2013，495(7441）:305-307.  
+[27]UNSC.IiatosofSustanableeveloentCmissoonustanableDevelontrdSeioNewYork：UnitedNatiosooicdSocial Council,1995.  
+[28]Dahl AL.Achievements and gaps in indicators for sustainability.Ecological Indicators，2012,17:14-19.  
+[29]Rameste，lao，dersabiatoevelopet-clitiIndicators,2011,11(1): 61-71.  
+[30]Europeoofart,saabledsihtfroiithe European Communities，Washington，DC，2010.  
+[31]OECD. Wikiprogress.[2011-09-30]. ttp://www.wikiprogres.org/idex.php/.  
+[32]UNSD.Envstats:News and Notes.Issue 35，August 2014.New York: UN Statistical Division,  
+33]UNSD.ussoPaoPiplsofUsinQuantftOroalieGsdCitfoateE/44/58A/14.New York：UN Statistical Division，2015.  
+[34]ISD.Compendumofsustainabledevelopmntindiatorinititivs.201--07].hp://www.isdog/measure/compendium/.  
+[35]Ostrom E.A general framework for analyzing sustainability of social-ecological systems. ience，2009，325(5939）: 419-422.  
+[36]HinegtgaderialoalefooaceCode NR0107.2013-03-08].htp://ww.notingham.ac.uk/CEM/pd/NR107_T_080108pdf.  
+37]ReKfiaahdrtfalalos）：319-332.  
+[38]ArrisKatesaracteringdmeasuringsustanabledevelopntAualevieofviontndResoces（):559-586.  
+[39]HamonddriaseA，denburgEryantD，WodrdREvtaldcatosASsteaticroachteasuringReporigonEnvironmentalPolicyPeforanceintheContextofSustainableDevelopment.WashingtonDC：WorldResourcesInsitute，1995：43-43.  
+[40]Dalal-ClBssSARevofoitingechnsfortioalSustaableevelopntStrateieseportpreparedO.London：IIED，2006.  
+41]Moldanodesadueotalial17: 4-13.  
+[42]BohringerC,JochemPEMeasuringtheimmeasurableasurveyofsstaabilitindices.EologicalEonomics，O（）：-8.  
+[43］朱兆良.农田中氮肥的损失与对策.土壤与环境,2000,9(1)：1-6.  
+[44] Oenema O,Van Liere ,Plete S,etal.Environmental effectsof manure policyoptions inthe Netherlands[J].Water Sci.Technolo.,2004,49:101- 108.  
+[45] 中华人民共和国农业部.中华人民共和国农业行业标准肥料合理使用准则-钾肥(NY/T1869-2010),中国标准出版社,2010.  
+[46] 国统计年鉴 2014,北京;中国统计出版社,201547 http://city.ifeng.com/fhzl/njd/20130702/381026.shtml中华人民共和国农业部.可持续发展规划2015-2030.2015.  
+[49] 朱洪娇.我国居民受教育状况的性别和地区差异分析.社会科学家,2012，10（186)：42-45.  
+[50］唐华俊,李哲敏.基于中国居民平衡膳食模式的人均粮食需求量研究.中国农业科学,2012，45(11)：2315-2327.

@@ -1,0 +1,186 @@
+# 基于PSD的静电悬浮位置测量与控制系统设计
+
+代斌²，孙志斌，王飞龙²，翟光杰(1.中国科学院复杂航天系统电子信息技术重点实验室空间科学与应用研究中心北京100190;2.中国科学院大学 北京100190)
+
+摘要：建立了基于位置敏感探测器(PSD)的静电悬浮三维位置信息测量与控制系统，分析了PSD的结构与静电悬浮位置测量与控制原理。系统采用单片机STC12C5A60S2处理PSD输出信号,得出悬浮样品位置信息与PSD输出电压的对应关系实现单片机与上位机的通信对测量的位置数据进行分析、处理以及悬浮样品位置控制。利用锆材料进行悬浮实验实验结果表明:建立的测量系统能实现样品位置信息的非接触测量与稳定悬浮具有测量数据可靠运行稳定等优点，为材料悬浮加热和深过冷研究奠定了基础。关键词：位置敏感探测器；静电悬浮；信号处理
+
+中图分类号：TP274 文献标识码：A 文章编号:1000-9787(2015)03-0097-03
+
+# Design of measurement and control system of position of electrostatic levitation based on PSD
+
+DAI $\mathrm { B i n } ^ { 1 , 2 }$ ,SUN Zhi-bin’,WANG Fei-long1²,ZHAI Guang-jiel (1.Key Laboratory of Electronics and Information Technology for Space Systems ,Chinese Academy of Sciences Beijing 10019o ,China; 2.University of Chinese Academy of Sciences Beijing 10o19o ,China)
+
+Abstract:A measurement and control system of three-dimensional(3D）position information of electrostatic levitation based on position sensitive detector(PSD)is setup and structure of PSDand position measurement and control principle of electrostatic levitation are analyzed.Output signal of PSD is processed by STC12C5A60S2 MCU corresponding relationship between suspension sample position information and output voltage of PSD is obtained and communication between MCU and upper PC ,data analysis and processing,and position control on levitation sampleare realized.Use zirconium materials to carry out suspension experiment and test results indicate thatthe system can realize non-contact measurement of sample position informationand stable suspension of sampleand ithasadvantagesof stable operationandreliabledetecting data,and soon,and thismeasurement system laid foundation for material suspended heating and undercooling research.
+
+Key words: position sensitive detector(PSD)；electrostatic levitation; signal processing
+
+# 0引言
+
+深过冷(温度远低于熔点以下还保持液态)是材料科学重要的前沿课题之一在金属材料的研究过程中发现深过冷不仅能够获得非晶相而且能够获得超有序的单晶体，根据这种超有序的晶体结构可以获得晶体内部的原子排列[1]。研究材料的微观结构与性能的关联关系对获取新材料有重要意义[2]。
+
+无容器材料加工是进行材料深过冷研究的重要手段，而静电悬浮技术是无容器材料研究的重要方法之一。静电悬浮技术是利用带电样品在静电场中受到的库仑力来抵消样品重力实现无容器状态。无容器材料加工消除了容器壁对材料的污染、异质形核作用有利于材料样品获得深过冷对材料的研究和新材料的制备有重要的理论和现实意义[3\~5]。为了实现静电悬浮样品的悬浮与深过冷研究需要对样品的位置信息进行非接触测量。
+
+位置敏感探测器(position sensitive detector ,PSD)是基于非均匀半导体横向光电效应[]对入射光或粒子位置敏感的光电器件具有灵敏度高、位置分辨率高、响应速度快、非接触测量等优点在精密尺寸测量、超高速光通信、兵工等领域具有广泛的应用价值[7]。本文详细介绍了一维PSD的结构和工作原理并分析了静电悬浮位置测量原理最后提出了以德国SiliconSensor公司的二维PSDDL100-7PCBA3作为光电传感器，STC12C5A60S2单片机作为信息处理单元结合其他外围处理电路和光源，设计了一种静电悬浮位置测量控制系统。
+
+# 1测量系统原理
+
+# 1.1 PSD工作原理
+
+PSD对入射光在光敏面的光点位置敏感，可以通过各输出电极上电流信号的比值来确定入射光的位置[8]。一维PSD的断面结构如图1所示。
+
+![](images/71911f9d5b6735a10b8dc349be58770782f56b8e69fcdd981c7902d14c98058f.jpg)  
+图1一维PSD断面结构
+
+PSD由三层构成最上一层是P层，下面是N层中间插入一较厚的高阻I层形成P--N结构此结构的特点是I层耗尽层宽结电容小，光生载流子几乎都在I层耗尽区产生没有扩散分量的光电流因此,其响应速速比普通P-N结光电二极管要快得多。当光照射到PSD表面上时，在光斑位置处产生正比于光能量的电子-空穴对流过P层电阻，分别从P层相对的两个电极上输出电流 $I _ { 1 }$ 和 $I _ { 2 }$ 由于P层电阻是均匀的所以电极输出的光电流反比于入射光位置到各自电极之间的距离。
+
+二维PSD的工作原理与一维基本相同，分为四边形PSD、二面型 PSD 和枕型 $\mathrm { P S D } ^ { [ 9 ] }$ 。四边形 PSD 具有很小的暗电流和较高的反向击穿电压但其位置线性度差，而二面型PSD具有很好的位置线性度，但暗电流较大。运用Gear定理设计出来的枕型PSD具有暗电流小，位置线性度良好的特点在实际二维测量设计中得到了广泛的使用。本文设计的位置测量系统就是基于枕型PSD。
+
+# 1.2 静电悬浮位置测量原理
+
+本测量系统中采用阴影法测量悬浮样品位置，使用能量均匀的平行光照射到整个PSD的感光面上，若被测物体在PSD的前方，那么，被测物体的阴影就会留在PSD上。如果光斑能量分布均匀则光斑重心位置同阴影位置线性相关对PSD的测量信号进行反向放大即可得到悬浮小球的位置信息。
+
+要获得样品的三维位置信息,需要两片PSD平行 $z$ 轴摆放并相互垂直。如图2所示其中一片PSD检测悬浮材料的 $( \boldsymbol { \mathbf { \Phi } } _ { x } \mathbf { \Lambda } _ { z } )$ 坐标，另一片检测悬浮材料的 $( \boldsymbol { y } , \boldsymbol { z } )$ 坐标，当两片PSD同时检测时即可获得悬浮材料的( $x _ { \textit { y } \mathscr { z } } )$ 坐标。
+
+![](images/e3844c7a7461f41ff274a26313f03cbc5f94d2d00157adaeec59f05fb2ddcb3c.jpg)  
+图2位置检测结构示意图  
+Fig 2Structure diagram of position detector
+
+2测量与控制系统设计
+
+# 2.1 总体结构
+
+静电悬浮控制系统整体结构如图3所示。系统包括位置检测单元、处理控制单元、高压放大器及电极结构。位置检测单元使用PSD作为传感器获得悬浮样品的位置信号。处理控制单元对测量到的位置信号进行滤波处理并根据处理后的位置信号进行PID控制运算，将输出的控制信号传给高压放大器由高压放大器对电压控制信号进行放大，然后施加放大后的高压到上下电极，通过改变带电样品所受到的电场力调整悬浮样品的运动，实现对悬浮样品的悬浮控制。
+
+本系统中采用DL100-7PCBA3作为位置探测器，响应精度为 $0 . 5 ~ { \mu \mathrm { m } }$ ,线性度为 $\pm \textbf { l } \%$ ,感光面积为 $1 0 ~ \mathrm { m m } \times$ $1 0 \mathrm { m m }$ 。采用波长为 $6 6 0 ~ 5 3 2 \mathrm { n m }$ 波段的激光作为位置激光。
+
+为了实现三维控制，本系统需要三台高压放大器。因此本设计选用美国Trek公司的TRE-20/20C-H-CE作为$z$ 方向的高压放大器选择Trek公司的TRE-677B-H-CE作为 $x \ y$ 方向的高压放大器。
+
+![](images/6d1e6798fb03033c17923e83efe9c24e434b57bb46a122cd0dd2833bfda7ca37.jpg)  
+Fig 1 Cross-sectional structure of one-dimensional PSD   
+图3悬浮系统组成  
+Fig 3System components of suspension
+
+# 2.2 数据采集
+
+PSD 测量得到的信号是微弱的电流信号通常只有 $\mu \mathrm { A }$ 级不能直接进行信号采集必须经过PSD信号处理电路进行处理转换为电压信号并放大才能供控制系统使用。图4所示为一维PSD信号转换电路图中IC1IC2IC3IC4为高精度的运算放大器 $J _ { \mathrm { ~ R ~ } }$ 是给PSD施加的偏置电压。位置
+
+和电流电压的关系为
+
+$$
+X / L = \left( \ I _ { 2 } - I _ { 1 } \right) \left( \ I _ { 2 } + I _ { 1 } \right) \ = \left( \ U _ { 2 } - U _ { 1 } \right) \left( \ U _ { 2 } + U _ { 1 } \right) \ .
+$$
+
+![](images/b066f1acebde4e9a9ceff8a9582c9d40a749dcd5c9cf9c55cb26cf1637a38c0c.jpg)  
+图4一维PSD信号转换电路
+
+经过信号转换电路处理后的位置信号为电压信号，但电压信号为模拟信号其在传输的过程中易受到外界影响，为了防止噪声对位置信息的干扰，在信号采集之前在系统中加入A/D转换器将信号转换成数字信号后再加以处理。
+
+# 2.3数据处理与控制
+
+本系统中采用宏晶科技有限公司生产的STC12C5A60S2单片机作为CPU，主要实现A/D采样、PID算法、D/A转换与上位机通信等功能。
+
+A/D转换主要实现模拟信号到数字信号的转换PSD模块输出 $\pm 1 0 \mathrm { V }$ 的模拟量信号,经过A/D转换，才能给单片机处理。本文设计的A/D转换芯片采用具有16位精度的AD976，可转换 $\pm 1 0 \mathrm { V }$ 的电压。其采样流程为初始化AD,设定滤波所需采样次数后，启动A/D转换，延时 $2 0 ~ \mu \mathrm { s }$ 左右的时间等待A/D转换结束然后分别读取16位数据的低8位和高8位重新组装成16位数据，经过多次采样读取、一阶滤波得到最终AD采集结果。
+
+PID控制的结果需要经过D/A转换才能作用到高压放大器。本文设计采用AD7237作为D/A转换芯片，该芯片具12位转换精度输出范围设定为 $\pm 5 \mathrm { V }$ 。其数据输出流程为首先对DA芯片初始化对要输出的参数作范围限制防止转换时溢出发生错误然后把16位的数据转换为高8位和低8位分次写入AD7237硬件将自动舍弃高8位的前4位。启动D/A转后等待D/A转换结束。
+
+# 3实验结果与分析
+
+本实验中采用直径 $2 . 5 \mathrm { m m }$ 的锆球做悬浮实验如图5所示为悬浮实验实物图，中间发光的小球就是悬浮样品。悬浮过程中样品的位置曲线和控制电压曲线如图6(a)所示。样品稳定悬浮的部分截取100s的数据进行放大得到如图6(b)所示的位置误差曲线，位置误差的波动范围在$+ 0 . 2 \sim \mathrm { ~ - ~ } 0 . 2 \ : \mathrm { m m }$ 之间。
+
+样品稳定后悬浮电压在 $1 0 \mathrm { k V }$ 左右为了估算出稳定状态下样品的带电电荷忽略悬浮电压的变化，认为电极板间的悬浮电压为 $U = 1 0 \mathrm { k V }$ 样品稳定后样品受到的重力与电场力相等即qE=mg 电场E=U 极板间距 $d$ 为 $1 4 \mathrm { m m }$ 小球半径 $\boldsymbol { r }$ 为 $1 . 2 5 \mathrm { m m }$ 锆材料密度 $\rho$ 为 $6 . 4 9 \mathrm { g } / \mathrm { c m } ^ { 3 }$ 所以样品稳定时带电小球的电荷量为 $q = { \frac { 4 \pi \rho g d r ^ { 3 } } { 3 U } } \ g$ 取 $9 . 8 ~ \mathrm { m / s } ^ { 2 }$ 1得出 $q = 7 . 2 8 1 \times 1 0 ^ { - 1 0 } \mathrm { C } _ { \textrm { c } }$ （20
+
+![](images/751c106c0bca740d6fbd6e8ca143ffb1a24f78aba0059d5972e52aee63890c65.jpg)  
+Fig 4Signal conversion circuit of one-dimensional PSD   
+图5悬浮实验实物图  
+Fig 5Physical map of suspended experiment   
+图6实验结果  
+Fig6Experimental results
+
+0.800.6-5 -5 0.4  
+uu/ -10 -10 AX uuu/ 0.2  
+置 压 置 0.0  
+位 -15 -15 电 位 -0.2-20 -20 -0.4-0.6-25 -25 -0.810 203040 50 340360380400 420 440时间/s 时间/s  
+(a)悬浮过程样品位置曲线和控制电压曲线 (b)样品位置误差曲线(a) curves of suspension process sample (b) error curve of sample positiorposition and control voltage
+
+4结论
+
+本文采用枕型PSD作为位置探测器，利用阴影法测量悬浮样品位置信息，结合PSD信号处理电路、A/D转换电路、D/A转换电路、控制电路、高压放大器以及电极结构实现了静电悬浮位置信息测量与控制。利用锆球进行悬浮实验从实验结果可以看出：所建立的测量系统能实现样品的非接触测量与悬浮控制具有测量数据可靠运行稳定等优点位置控制误差为 $+ 0 . 2 \sim - 0 . 2 \mathrm { m m }$ 。本文的研究工作为材料悬浮加热和深过冷研究奠定了基础。
+
+# 参考文献：
+
+[1]Rulison AJ,Watkins JL Zambrano B.Electrostatic containerless processing system[J].Rev Sci Instrum,1997 ,68(7):2856 - 2863.   
+[2] SungY S Takeya H ,Togano K.Containerless solidification of Si, ZrNb and Mo by electrostatic levitation[J].Review of Scientific Instruments 2001 72(12) :4419-4423.   
+[3] Paradis P,Ishikawa T,Yoda S.Electrostatic levitation research and development at JAXA:Past and present activities in thermophysics[J].International Journal of Thermophysics,2005， 26(4):1031 -1049.   
+[4] Ishikawa T,Kiko UK K K.Thermophysical properties of liquid and supercooled rare earth elements measured by an electrostatic levitator[M].Tsukuba: Japan Aerospace Exploration Agency ， 2008.   
+[5]胡亮 鲁晓宇 侯智敏.静电悬浮技术研究进展[J].物理， 2007 36(12):944-950.
+
+(下转第102页)
+
+# 4误差分析
+
+随机误差是在重复测量中按不可预见的方式变化的测量误差的分量其参考值是对同一被测量进行无限多次重复测量所得的平均值随机误差等于误差减去系统误差。测试系统测试实验中近似认为传感器静态指标的随机误差服从正态分布[12]。
+
+利用正态分布假设和最大似然估计法，对传感器静态指标的随机误差进行统计分析。传感器静态指标的随机误差统计分析参数如表5所示。
+
+表5传感器静态指标的随机误差统计参数  
+Tab 5Random error statistics parameters of static indicators of sensor   
+
+<html><body><table><tr><td>均值的最大似然估计</td><td>标准差的最大似然估计</td><td>对数似然比 标准误差</td></tr><tr><td>-4.50×10-5</td><td>8.05×10-3</td><td>34032 8.05×10-5</td></tr></table></body></html>
+
+# 5结论
+
+1)设计了新型微力传感器的结构，并对其弹性元件进行了有限元静力分析和模态分析，传感器弹性柱体的纵向应变量高于一般的力传感器，灵敏度较高，适用于微力测量；固有频率远高于常见的外部动态力频率，几乎不会发生共振现象。
+
+2)对微力传感器进行了静态标定，标定的静态指标表明该传感器加载特性和卸载特性几近一致，保持了较好的线性度;静态特性良好。
+
+3)对传感器的静态指标的随机误差进行的分析表明:传感器的随机误差离散度小传感器静态特性稳定抗干扰能力强。
+
+# (上接第96页）
+
+[5]Huang Y Ergun A S Haeggstrom E,et al.Fabricating capacitive micromachined ultrasonic transducers with wafer-bonding technology[J].IEEE/ASME Journal of Micro-electro-mechanical Systems 2003 12(2):128-137.   
+[6]Ergun Arif Sanh ,Huang Yongli ,Zhuang Xuefeng ,et al.Capacitive micromachined ultrasonic transducers:Fabrication technology[J].IEEE Transactions on Ultrasonics Ferroelectrics and Frequency Control 2005 52(12) :2242-2258.   
+[7]Rey Patrice Salhi M Giroud S,et al.New manufacturing method for capacitive ultrasonic transducers with monocrystalline membrane[C]//IEEE 2Oth International Conference on Micro-electromechanical Systems 2007:581 -584.   
+[8]Zhuang Xuefeng,Wygant Ira O ,Lin Der-Song,et al.Wafer-bonded 2-D CMUT arrays incorporating through-wafer trench-isolated
+
+# 参考文献:
+
+[1]张志禹于文革.一种新型FBG微力传感器[J].传感器与微系统2014(3):71-75.  
+[2]孙圣和.现代传感器发展方向[J].电子测量与仪器学报，2009 23(1):1-10.  
+[3] 董大为.中国传感器发展应用状况分析[J].射频世界2010(3)：54 -57.  
+[4] 马炳辉，卢泽生.小型微力传感器的研制[J].机械工程学报，2006(5):227-229.  
+[5]张洪信.有限元基础理论与ANSYS应用[M].北京:机械工业出版社2006.  
+[6]李霞宋海堂.ANSYS在机械设计中的应用[J].计算机技术应用2007(11):45-46.  
+[7]Wang Jili Jiang Li Liu Hong.Auto static calibration of multi-axisforce sensor based on triaxial accelerometer[J].Chinese Journalof Scientific Instrument 2008(29) :432-435.  
+[8] 董健康韩庆奎.线性压力传感器的静态标定[J].天津大学学报199629(5):709-715.  
+[9]郑玮玮刘学观赵光霞.微压力传感器参数设计及灵敏度分析[J].仪表技术与传感器 $2 0 1 1 ( 7 ) : 1 5 - 1 7$   
+[10]王志胜，王道波，蔡宗.传感器标定的统一数据处理方法[J].传感器技术2004 23(3)：46-47.  
+[11］关石菡.数理统计在数据分析中的应用研究[J].林区教学，2011(6):87-88.  
+[12]廖念钊.互换性与技术测量[M].北京:中国质检出版社，2012.
+
+# 作者简介：
+
+章晓明(1983-）男，上海人硕士，工程师，主要研究方向为精密测量与控制。
+
+interconnects with a supporting frame[J].IEEE Transactions onUltrasonics Ferroelectrics and Frequency Control 2Oo9 56(1) :182-192.  
+[9] Mehmet Cezar.Development and microfabrication of capacitivemicromachined ultrasound transducers with diamond membrane-s[D].Turkey:Middle East Technical University 2011.  
+[10]Wooh Shi-Chang,Shi Yijun.Optimum beam steering of linearphased arrays[J].Wave Motion 1999 29(3):245-265.  
+[11］张 慧 何常德 苗静 ,等.一种基于Matlab 的CMUT阵列设计与仿真方法[J].传感技术学报2014 27(4)：490-494.  
+[12]程继隆.超声相控阵检测关键技术的研究[D].南京:南京航空航天大学2010.
+
+# 作者简介：
+
+李玉平(1988-）女，山西大同人硕士研究生研究方向为水下超声成像、MEMS水声传感器。
+
+# (上接第99页)
+
+[6]贺安之阎大鹏.现代传感器原理及应用[M].北京:宇航出版社1995.  
+[7] 庞亚萍.位置敏感探测器的发展状况及应用研究[J].科技情报开发与经济200716(24)：183-185.  
+[8]于丽霞 王福明.一维 PSD 器件及其在测量中的应用[J].现
+
+代电子技术 $2 0 0 7 ( 7 ) : 1 4 3 - 1 4 4$
+
+[9]唐九耀,黄梅珍.二维PSD 的结构和性能分析[J].功能材料与器件学报 $2 0 0 0 ~ \beta ( \ : 3 ) : 3 0 1 \ : - 3 0 4$
+
+# 作者简介：
+
+代斌(1988-）男 河南信阳人硕士研究生主要研究方向为图像处理与空间智能仪器。

@@ -1,0 +1,875 @@
+[
+    {
+        "type": "text",
+        "text": "A cultivated area forecasting approach in artificial oases under climate change and human activities ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Shaobo1, CHEN Fulong2\\*,CHEN Jie1, WANG Jing², LI Shaofei³, LONG Aihua2,4 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 School of Water Resources and Hydropower Engineering,Wuhan University, Wuhan 43oo81,China;   \n2Collge of Water Conservancy& Architectural Engineering,Shihezi University,Shihezi 832oo,China;   \n3 Department of Hydraulic Engineering,Tianjin Agricultural University,Tianjin 30o384,China;   \n4State KeyLaboratoryof Simulationand Regulationof WaterCycle in River Basin,China Instituteof WaterResourcesand   \nHydropower Research,Beijing 10oo38,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The cultivated area in artificial oases is deeply influenced by global climate change and human activities.Thus,forecasting cultivated area in artificial oases under climate change and human activities is of great significance. In this study, an approach named GD-HM-PSWROAM, consisting of general circulation model downscaling (GD), hydrological model (HM),and planting structure and water resource optimal allocation model (PSWROAM),was developed and applied in the irigation district of the Manas River Basin in Xinjiang Uygur Autonomous Region of China to forecast the cultivated area tendency. Furthermore，the catchment export of the MIKE11 HD/NAM model was set to the Kensiwate hydrological station. The results show that the downscaling efects of temperature can be fairly satisfying, while those of precipitation may be not satisfying but acceptable. Simulation capacity of the MIKE11 HD/NAM model on the discharge in the Kensiwate hydrological station can meet the requirements of running the PSWROAM. The accuracy of the PSWROAM indicated that this model can perform well in predicting the change of cultivated area at the decadal scale.The cultivated area in the Manas River Basin under current human activities may be generally decreasing due to the climate change. But the adverse effects of climate change can be weakened or even eliminated through positive human activities. The cultivated area in the Manas River Basin may even be increasing under assumed human activities and future climate scenarios.The effects of human activities in the future can be generally predicted and quantified according to the cultivated area trends under current human activities and the situations in the study area. Overallit is rationaland acceptable to forecast the cultivated area tendency in artificial oases under future climate change and human activities through the GD-HM-PSWROAM approach. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:GCMdownscaling; hydrological model;cultivatedarea;climatechange;humanactivities; Manas River Basin ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: ZHANG Shaobo,CHENFulong,CHENJie,WANG Jing,LIShaofei,LONG Aihua.2019.Acultivated areaforecasting approach inartificial oasesunderclimatechangeandhumanactivities.Journal of Arid Land，1(3):400-418. https://doi.0rg/10.1007/s40333-019-0056-z ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In recent years，global warming has become a world-wide environmental issue. The global averaged temperature has increased by $0 . 8 5 ^ { \\circ } \\mathrm { C }$ during the period 1880-2012 (IPCC,2013). The average precipitation over the mid-latitude land areas of the Northern Hemisphere has increased since 1901 (IPCC, 2O13). In arid and semi-arid regions,runoff which generally originates in mountainous regions and disspate in piedmont oases is the lifeline for the artificial oases (Zhou, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1999;Foda et al.,2017; Oduor and Mabanga,2018).Further, the population in catchments is usually sparse,and the influence of human activities on runof generation is fairly litle (Li et al. 2007；Chen et al.，2013；Xu et al.， 2013；Chen et al.，2015). Therefore，runoff yield and concentration in arid and semi-arid regions mainly depend on the natural conditions, such as climate and the types and amounts of water resource in catchments (Zhou, 1999). The main water resource types in most catchments in arid and semi-arid regions are glaciers, snow and precipitation (Allan,1996; Zhou,1999; Dawoud,2013). Global climate change have marked impacts on glaciers, snow and runoff in catchments (Chen et al.,2007; Pelto,2008; Wang et al.,2017). Many previous researches showed that the glaciers are melting and the equilibrium-line altitudes are increasing in many regions since the $2 0 ^ { \\mathrm { t h } }$ century (Fujita, 2008; Racoviteanu et al., 2008; Bolch et al., 2010a, b; Bhambri et al.,2011; Lambrecht et al.,2011; Scherler et al.,2011; Beedle et al.,2014; Zemp et al., 2015; Cook et al., 2016). Furthermore, the water equivalent decreased in some arid and semi-arid regions (Aizen et al.,1997). Changes of glaciers, snow and precipitation have led to the variations in runoff (Chiew and Mcmahon,2Oo2). Therefore,it is necessary to analyze the trends of runoff under climate change in the future to better manage water resource in catchments. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The artificial oases are the gathering places for human activities. Taking up only $3 \\% - 5 \\%$ of the land area in arid and semi-arid regions, the artificial oases feed $90 \\%$ of the population and create $9 5 \\%$ of the total output value (Lai, 2Oo5). The main industry in artificial oases is agriculture. Water shortage is a very serious problem in most artificial oases. The percentage of water consumption for agriculture is $70 \\%$ at the global scale,which is $8 5 \\% - 9 0 \\%$ higher than that in water-deficient countries such as Asia and Africa (Delgado and Rodriguez, 2O14). In the North Africa and Middle East, water shortage has resulted in health issues and even conflicts between countries (Shuval and Isaac,1994; Aeschbacher et al.,2005; Johnson et al.,2016; Qian et al.,2016).In China, the water resource utilization efficiency is higher than $90 \\%$ in most artificial oases,and $90 \\%$ of water consumption is used in agriculture (Zhang et al.,2O14). Many reservoirs in mountain passes are being constructed and canals and channels are being water-saving repaired to relieve the acute water shortage in artificial oases. Beyond that, water-saving irigation technologies such as drip irrigation and sprinkling irrigation are widely used in many artificial oases in arid and semi-arid regions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Global warming has led to changes of temperature, precipitation and evaporation in arid and semi-arid regions,which willinevitably influence the river runoff in artificial oases and impact the available water resource and water utilization processes in the future. All of these changes are closely related to the cultivated area,which is of great significance to the economic growth, social security and ecological protection in artificial oases. However, few studies are focused on forecasting cultivated area in artificial oases under climate change and human activities. In this study, a cultivated area predicting approach was developed to explore the variations of cultivated area in artificial oases under future climate scenarios and human activities.The approach named GD-HM-PSWROAM for short is consisting of general circulation model downscaling (GD), hydrological model (HM),and planting structure and water resource optimal allocation model (PSWROAM).The methodology and performance of the approach was ilustrated in details in the irrigation district of the Manas River Basin. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The irrigation district of the Manas River Basin is located in Xinjiang Uygur Autonomous Region, China. It is situated in the north of the Tianshan Mountains and south of the Gurbantunggut Desert (Fig.1). The climate in the basin is of typical continental arid, with hot and dry summers,and chilly winters. The mean annual precipitation varies between 11O and $1 9 0 ~ \\mathrm { m m }$ from the plains to the mountains (Ling et al.,2O12). The annual mean temperature is about $6 . 6 ^ { \\circ } \\mathrm { C }$ ，and the mean annual evaporation ranges from 1500 to $2 0 0 0 \\ \\mathrm { m m }$ (Ling et al.,2012). The region is consisted of three sub-irrigation districts named the Shihezi, Xiayedi and Mosuowan. The mean cultivated area in the three sub-irrigation districts during the period 2001-2010 was 303.87, 626.47 and 506.20 $\\mathrm { k m } ^ { 2 }$ ，respectively (Shihezi Statistics Bureau,2OlO). There are four plain reservoirs named the ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Moguhu,Daquangou, Jiahezi and Yuejin in the irrigation district of the Manas River Basin.There is a mountain reservoir named the Kensiwate in the upstream of the Manas River. The effective capacity of the four plain reservoirs and Kensiwate reservoir is $1 . 7 3 \\times 1 0 ^ { 8 }$ ， $0 . 3 6 \\times 1 0 ^ { 8 }$ ， $0 . 6 5 \\times 1 0 ^ { 8 }$ $0 . 7 5 \\times 1 0 ^ { 8 }$ and $1 . 1 2 \\times 1 0 ^ { \\bar { 8 } } \\mathrm { m } ^ { 3 }$ ,respectively (Shihezi Statistics Bureau, 2015). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/05fc8d37afd07d846c32c98408ff4d38162d6f7bc2b0e72384fac72df0d4ff21.jpg",
+        "img_caption": [
+            "Fig.1Locations of the three sub-irrigation districts (Xiayedi,Mosuowan and Shihezi),river and canal systems, reservoirs (Moguhu,Daquangou,JiaheziandYuejin),Kensiwate hydrological station,ihezi meteorologyation andthe selected European Centre for Medium-Range Weather Forecasts re-analysis Interim (ERA-Interim) points in the Manas River Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The main water resources in the irrigation district of the Manas River Basin are river runoff and groundwater. The Manas River originates from the northern slope of the middle Tianshan Mountains. The annual runoff of the Manas River is $1 . 3 2 \\times 1 0 ^ { 9 } \\mathrm { m } ^ { 3 }$ with $6 9 . 6 \\%$ of which appearing in June, July and August (Zhou,1999). There are two hydrological stations named the Kensiwate hydrological station and Hongshanzui hydrological station in the main stream of the Manas River. The Hongshanzui hydrological station is located in the mountain pass, however, it was abandoned in 1995.The Kensiwate hydrological station ( $4 3 ^ { \\circ } 5 8 ^ { \\prime } 0 0 ^ { \\prime \\prime } \\mathrm { N }$ ， $8 5 ^ { \\circ } 5 7 ^ { \\prime } 2 0 ^ { \\prime \\prime } \\mathrm { E }$ ：， $9 0 0 \\ \\mathrm { m }$ a.s.l.) is about $3 0 ~ \\mathrm { k m }$ upstream of the Hongshanzui hydrological station. About $9 5 . 5 \\%$ of the runoff in the Manas River Basin can be monitored in the Kensiwate hydrological station.The annual exploitable groundwater of the Shihezi, Xiayedi and Mosuowan sub-irrigation districts is $1 . 9 6 \\times 1 0 ^ { 8 }$ ， $0 . 7 8 \\times 1 0 ^ { 8 }$ and $0 . 6 6 \\times 1 0 ^ { 8 }$ （204号 $\\mathrm { m } ^ { 3 }$ ,respectively (Shihezi Statistics Bureau, 2010). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Data collection ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As the GD-HM-PSWROAM is an approach rather than a fixed model, some datasets for running it should be changed according to the selected models.Besides, these datasets have litle effect on tendency of cultivated area.Therefore,the main datasets were induced in detail while other less important datasets were introduced in brief. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Meteorological stations in catchments are fairly few in arid and semi-arid regions like Manas River Basin, due to high and steep terrain,and backward economic and technological situations. Furthermore,most of the stations are located in the mountain passes with discontinuous dataset. Even in the irrigation district, meteorological stations with observed temperature and precipitation for more than 3O years are few. Therefore, we selected the European Centre for Medium-Range Weather Forecasts re-analysis Interim (ERA-Interim) dataset to provide monthly mean daily temperature $( T )$ , monthly mean daily maximum temperature $\\left( T _ { \\mathrm { m a x } } \\right)$ , monthly mean daily minimum temperature ( $( T _ { \\mathrm { m i n } } )$ and monthly precipitation $( P )$ as the substitution to the study due to its good performance (Hodges et al., 2010; Sylla et al.,2010; Dee et al.,2011; Weedon et al.,2014). Its spatial and temporal resolutions are $0 . 1 2 5 ^ { \\circ } \\times 0 . 1 2 5 ^ { \\circ }$ and 1 month,respectively. The period of the dataset is from January 1979 to December 2012. The selected ERA-Interim points are shown in Figure 1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We used the general circulation models (GCMs),a kind of Navier-Stokes Equations basing on the rotating globe,to describe the physical processes of the atmosphere,ocean and land in the Earth (IPCC, 2013). The Representative Concentration Pathways (RCPs) are a set of scenarios containing the time series of all greenhouse gases, aero coloids and chemically active gases emissions and concentrations,and the scenarios of land use and cover (IPCC,2O13; Inatsu et al., 2015). RCP2.6, RCP4.5 and RCP8.5 are the three commonly used RCPs in many GCMs, which represent the low, middle and high emission scenarios,respectively (IPCC, 2013; Inatsu et al., 2015; Zhang et al., 2017). In this study，we obtained the outputs under RCP2.6,RCP4.5 and RCP8.5 scenarios of 28 GCMs (Table 1) by the Coupled Model Intercomparison Project, Phase 5 from the node DEUTSCHES KLIMA RECHEM ZENTRUM (DKRZ; https://www.dkrz.de/). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The monthly mean runoff dataset during the period 1979-2O12 in the Kensiwate hydrological station was provided by the Shihezi Water Conservancy Bureau. Other datasets such as crop irrigation schedule,water storage of reservoirs,and water surface evaporation used for the PSWROAM were obtained from the Statistical Yearbook of Shihezi (Shihezi Statistics Bureau, 2010,2015). ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/551cfb0fb99306ba94f035bba8eb79521594ddc4875fed87d5250c24a19f4706.jpg",
+        "table_caption": [
+            "Table1Spatial resolutions of the 28 GCMs provided by the DKRZ "
+        ],
+        "table_footnote": [
+            "Note: GCMs,general circulation models; DKRZ,DEUTSCHES KLIMA RECHEM ZENTRUM. "
+        ],
+        "table_body": "<html><body><table><tr><td>Model</td><td>Spatial resolution (longitude×latitude)</td><td>Model</td><td>Spatial resolution (longitude×latitude)</td></tr><tr><td>BCC-CSM1-1</td><td>2.813x2.791°</td><td>GISS-E2-H</td><td>2.500×2.000°</td></tr><tr><td>BCC-CSM1-1-m</td><td>1.125×1.121°</td><td>GISS-E2-R</td><td>2.500×2.000°</td></tr><tr><td>BNU-ESM</td><td>2.813×2.791°</td><td>HadGEM2-AO</td><td>1.875×1.250°</td></tr><tr><td>CanESM2</td><td>2.813°×2.791°</td><td>HadGEM2-ES</td><td>1.875°×1.250°</td></tr><tr><td>CCSM4</td><td>1.250×0.942°</td><td>IPSL-CM5A-LR</td><td>3.750°×1.895°</td></tr><tr><td>CESM1-CAM5</td><td>1.250×0.942°</td><td>IPSL-CM5A-MR</td><td>2.500×1.268°</td></tr><tr><td>CESM1-WACCM</td><td>2.500×1.895°</td><td>MIROC-ESM-CHEM</td><td>2.813°×2.791°</td></tr><tr><td>CNRM-CM5</td><td>1.406×1.401°</td><td>MIROC-ESM</td><td>2.813×2.791°</td></tr><tr><td>CSIRO-Mk3-6-0</td><td>1.875×1.865°</td><td>MIROC5</td><td>1.406o×1.401°</td></tr><tr><td>FGOALS-g2</td><td>2.813×2.791°</td><td>MPI-ESM-LR</td><td>1.875°×1.865°</td></tr><tr><td>FIO-ESM</td><td>2.813x2.791°</td><td>MPI-ESM-MR</td><td>1.875°×1.865°</td></tr><tr><td>GFDL-CM3</td><td>2.500×2.000°</td><td>MRI-CGCM3</td><td>1.125×1.121°</td></tr><tr><td>GFDL-ESM2G</td><td>2.500x2.022°</td><td>NorESM1-M</td><td>2.500×1.895°</td></tr><tr><td>GFDL-ESM2M</td><td>2.500×2.022°</td><td>NorESM1-ME</td><td>2.500×1.895°</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Climate scene forecasting through GCM downscaling ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "GCMs have become the most reliable and applicable approach to forecast climate scene in current studies.However, their spatial resolutions are too coarse and the biases are non-negligible for regional studies (Hewitson and Crane,2006; Maurer and Hidalgo,2008; Eden and Widmann, 2014; Inatsu et al., 2015). The downscaling approach could transform the coarse-scale outputs of GCMs to regional scales and correct the biases, which plays an important role in regional researches (Vrac et al.,2007; Inatsu et al.，2015). In this study,a combined approach of canonical correlation analysis (CCA） filtering，multi-model ensemble and extreme learning machine regressions (abbreviated as CEE) was applied in GCM downscaling because of its good performance (Zhang et al., 2017). The $T$ $T _ { \\mathrm { m a x } }$ $T _ { \\mathrm { m i n } }$ and $P$ were downscaled in this study. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In CEE downscaling,the CCA filtering was applied firstly to obtain the GCMs with the best simulation capacities on the $T _ { \\mathbf { \\delta } }$ $T _ { \\mathrm { m a x } }$ ， $T _ { \\mathrm { m i n } }$ and $P$ in the Manas River Basin. The T, $T _ { \\mathrm { m a x } }$ ， $T _ { \\mathrm { m i n } }$ and $P$ of the selected ERA-Interim points were extracted to constitute the ERA-Interim matrixes. Those of the nearest 25 points to each ERA-Interim point were extracted from the certain GCM outputs. Then, the corresponding GCM matrixes were constituted after removing redundancies. Finaly, the CCA filtering between ERA-Interim matrixes and GCM matrixes was carred out, and the GCMs with the best simulation capacities were obtained. In this study, the number of the selected GCMs for T, $T _ { \\mathrm { m i n } }$ ， $T _ { \\mathrm { m a x } }$ or $P$ was 4 and the period of the ERA-Interim matrixes and GCM matrixes was from January 1979 to December 2012. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "After the CCA filtering, the multi-model ensembles of $T _ { \\cdot }$ $T _ { \\mathrm { m a x } }$ ， $T _ { \\mathrm { m i n } }$ or $P$ were constituted by the 4 selected GCMs. The weights of the 4 GCMs were equivalent here.However, the weight of the time series in every point of every GCM needs to be adjusted in the extreme learning machine (ELM) regressions. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Finally,the spatial downscaling was carried out through ELM regressions.In this study, the ELM regressions in T, $T _ { \\mathrm { m a x } } ,$ ， $T _ { \\mathrm { m i n } }$ and $P$ downscaling were implemented from one ERA-Interim point to another. The corresponding dependent variable matrix was the ERA-Interim time series of T, $T _ { \\mathrm { m a x } }$ ， $T _ { \\mathrm { m i n } }$ and $P$ in the point. The corresponding independent variable matrix was constituted by the time series in the nearest 25 points of every selected GCM to the ERA-Interim point. It means that more than 100 time series could provide information. The calibration and validation periods in the ELM regressions was from January 1979 to December 2009 and from January 2010 to December 2012, respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "After the GCM downscaling, the $T _ { \\mathbf { \\delta } }$ $T _ { \\mathrm { m a x } }$ ， $T _ { \\mathrm { m i n } }$ and $P$ with needed resolution in the Manas River Basin were obtained. The potential evaporation $( E )$ can be calculated through Har Formula (Eq.1). Though the Penman Formula is more reliable,simulation capacities of most GCMs on wind speed are not reliable,and simulation results on sunshine duration cannot be obtained. Moreover, calculating $E$ with more factors will increase the uncertainties of the results.Therefore,Har Formula rather than Penman Formula was used in this study. Moreover, the other parameters including the relative distance between solar and Earth,declination, sunset hour angle,and solar radiation were calculated by Equations 2-5,respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE = \\mathbf { a } \\times R a \\times ( T _ { \\operatorname* { m a x } } - T _ { \\operatorname* { m i n } } ) ^ { \\frac { 1 } { 2 } } \\times ( T + 1 7 . 8 ) + \\mathsf { b } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd r = 1 + 0 . 0 3 3 \\times \\cos { \\left( 2 \\times \\pi \\times \\frac { J } { 3 6 5 } \\right) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta = 0 . 4 0 9 \\times \\sin \\left( 2 \\times \\pi \\times { \\frac { J } { 3 6 5 } } - 1 . 3 9 \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\omega s = \\operatorname { a r c c o s } \\left( - \\mathrm { t a n } \\varphi \\times \\mathrm { t a n } \\delta \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR a = 2 4 \\times 6 0 \\times { G _ { \\mathrm { s c } } } \\times d r \\times ( \\omega s \\times \\sin \\varphi \\times \\sin \\delta + \\cos \\varphi \\times \\cos \\delta \\times \\sin \\omega s ) / \\pi ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $E$ is the potential evaporation (mm);a and $\\boldsymbol { \\mathbf { b } }$ are constants for calibration; $R a$ is the solar radiation absorbed by the top of atmosphere $( \\mathrm { M J } / (  { \\mathbf { m } } ^ { 2 } \\cdot \\mathrm { d } ) )$ ：， $T _ { \\mathrm { m a x } }$ is the monthly mean daily maximum temperature $( ^ { \\circ } \\mathrm { C } )$ ：， $T _ { \\mathrm { m i n } }$ is the monthly mean daily minimum temperature $( ^ { \\circ } \\mathrm { C } )$ ：， $T$ is the mean daily temperature ${ \\mathrm { ( } } ^ { \\circ } \\mathrm { C } )$ ; dr is the relative distance between solar and Earth; $J$ is the day series; $\\delta$ is the declination (rad); os is the sunset hour angle (rad); $\\varphi$ is the latitude (rad);and $G _ { \\mathrm { s c } }$ is the solar constant $( = 0 . 0 8 2 0 \\mathrm { M J } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { m i n } ) )$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As it is impossible to monitor the potential evaporation,we selected the Global Land-surface Evaporation (GLEAM, the Amsterdam Methodology） dataset (Miralles et al.，201la) as the substitute dataset in calibrating the constants a and b in Har Formula. GLEAM is based on the Priestley and Taylor evaporation formula and the Gash analytical model of forest rainfall interception (Gash,1979; Valente et al.,，1997). It has been successfully validated over different climate conditions (Miralles et al., 201la, b,c; Poveda and Zapata,2016). The GLEAM dataset was adjusted referrng to the observed water surface evaporation in the Kensiwate hydrological station and Shihezi meteorological station before it was applied in calibrating the constants. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4Runoff forecasting through hydrological model ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Hydrological models have been widely applied in hydrological system simulation (Abbott et al., 1986; Xu et al.,1996; Santhi et al.,2001; Mcmichael et al.,2006; Sahoo et al.,2006; Arnold et al., 2012).MIKE11, developed by Danish Hydraulic Institute (DHI), is a module for simulating the runoff of rivers and canals, water quality and sediment transport (Shamsudin and Hashim, 2002). MIKE11 NAM is a rainfall-runoff model of MIKE11 RR (rainfall-runoff) module. NAM, one of the lumped and conceptual hydrological models advanced by Nielsen and Hansen (Makungo et al., 2010),is mainly applied in simulating the rainfal-runoff process in natural watershed. The temperature, precipitation, potential evaporation and initial snow water equivalent datasets are necessary in simulating the runoff yield and concentration process in NAM. MIKE11 HD/NAM has been widely applied in many researches due to its good performance and less required datasets (e.g.,Delphi, 201; Doulgeris et al., 2012; Luo et al.,2013; Lin et al., 2014; Vazifedoost et al., 2014; Gao et al.,2Ol7). Therefore,in this study,we selected this module for the runoff simulation of the Manas River. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "About $9 5 . 5 \\%$ of the runoff in the Manas River can be monitored in the Kensiwate hydrological station.In addition， the Kensiwate reservoir locates in only $2 ~ \\mathrm { k m }$ upstream of the Kensiwate hydrological station，and there are no tributaries between them. Selecting the Kensiwate hydrological station as the export means that the predicted runoff can be applied in the PSWROAM without adjustment. Therefore, the catchment export of the MIKE11 HD/NAM model was set to the Kensiwate hydrological station. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The catchment boundary of the Kensiwate hydrological station (Fig. 2） and rivers inside the catchment were extracted from the Advanced Spaceborne Thermal Emission and Reflection Radiometer Global Digital Elevation Model (ASTER GDEM DEM; htp://www.gscloud.cn/). The temperature and precipitation time series of six sub-catchments not shown were calculated from the ERA-Interim dataset through the Thiessen polygon approach. The potential evaporation time series was calculated from the temperature series through Har Formula. The initial snow water equivalent was extracted from the ERA-Interim dataset and the initial glacier water equivalent was obtained from the China Glacier Information System (Wu and Li,2O03).We set the calibration period and validation period from January 1979 to December 2009 and from January 2010 to December 2012, respectively,based on the period (January 1979 to December 2012) of the obtained runoff dataset in the Kensiwate hydrological station. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5 Cultivated area forecasting through PSWROAM ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As more than $90 \\%$ of the water consumption is for agriculture in many artificial oases in global, the cultivated area mainly depends on the water supply and it can be forecasted through PSWROAM. The PSWROAM is consist of the planting structure optimization model and water resource optimal allcation model. In most artificial oases, water utilization is considered as a constraint in building the model. In fact, the goal of water resource optimal allocation model is to guarantee the water supply for the planting structure optimization model. In this study，we constructed the water resource optimal alocation model according to the river and canal systems,reservoirs and sub-irrigation districts (Fig. 3). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The mathematical functions of PSWROAM were generalized as follows. The objective function is described as Equation 6. ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m a x } ( O V ) = \\operatorname* { m a x } \\Biggl ( \\sum _ { i = 1 } ^ { 3 } \\sum _ { j = 1 } ^ { n } \\Bigl ( S _ { i , j } \\times O V _ { i , j } \\Bigr ) \\Biggr ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $O V$ is the output value of the planting industry in the irrigation district of the Manas River Basin (USD); $S _ { i , j }$ is the cultivated area of the crop type numbered $j$ in the sub-irrigation district numbered i $( \\mathbf { m } ^ { 2 } )$ $O V _ { i , j }$ is the output value per unit area of the crop type numbered $j$ in the sub-irrigation district numbered $i$ (USD); and $n$ is the number of crop types in the irrigation district of the Manas River Basin. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/60c29337071d9e7e916b62e247a8e016244c0f467cdadb724d54a8ec60f32536.jpg",
+        "img_caption": [
+            "Fig.2Rivers in the catchment of the Kensiwate hydrological station ",
+            "Fig.3Water resource optimal allocation model constructed in this study "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Groundwater-2 Other water-2 Ecoeaas rivepply Groundwater-3 Other water-3 thedownstream.of Jiahezireservoir Xiayedi Mosuowan sub-irrigation district sub-irrigation district C31 C26 C34 > 2 C30 2 X X P16 P15 P14 P17 C29 C28 C25 C32 C33 R2 R3 R4 R5 C20 C19 C24 C23 C15 Water X Water   \ndiversion-2 P13 diversion-3 C22 < C17 C16 C21 X X P11 P10 P9 P12 5 P8 C13 C14 P7 C18 C6 C12   \nOther water-1 X P6 C11 Shihezi C10 X   \nsub-irrigation district P5 T C9 C7   \nGroundwater-1 C5 C4 C8 区 P3 P2 个c2 P4   \nLegend Water C3 diversion-1 P1 5   \nR1:Kensiwate reservoir   \nR2:Moguhu reservoir R1   \nR3:Daquangou reservoir   \nR4:Jiahezi reservoir   \nR5:Yuejin reservoir   \nC1-C34: canals numbers   \nWater diversion: water supply for other sub-irrigation districts in the Manas River Basin   \nP1-P17: points where canals join or separate   \nOther water: water resource other than groundwater and canal water in the studied sub-irrigation districts ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The constraint of cultivated area for crops can be expressed as: ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { i , j , \\mathrm { m i n } } \\leq S _ { i , j } \\leq S _ { i , j , \\mathrm { m a x } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $S _ { i , j , \\mathrm { m i n } }$ is the minimum cultivated area of the crop type numbered $j$ in the sub-irrigation district numbered $i ( \\mathbf { m } ^ { 2 } )$ ; and $S _ { i , j , \\operatorname* { m a x } }$ is the maximum cultivated area of the crop type numbered $j$ in the sub-irrigation district numbered $i ( \\mathbf { m } ^ { 2 } )$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Moreover, the constraint of cultivated area for the sub-irrigation districts can be expressed as follows: ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { i , \\mathrm { m i n } } \\leq S _ { i } \\leq S _ { i , \\mathrm { m a x } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $S _ { i , \\mathrm { m i n } }$ is the minimum cultivated area of the sub-irrigation district numbered $i$ （ $( \\mathbf { m } ^ { 2 } )$ ·， $S _ { i }$ is the cultivated area of the sub-irrigation district numbered $i ( \\mathbf { m } ^ { 2 } )$ ; and $S _ { i , \\operatorname* { m a x } }$ is the maximum cultivated area of the sub-irrigation district numbered $i ( \\mathbf { m } ^ { 2 } )$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The constraint of output value for the sub-irrigation districts is shown in Equation 9. ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nO V _ { i , \\operatorname* { m i n } } \\leq O V _ { i } = \\sum _ { j = 1 } ^ { n } ( S _ { i , j } \\times O V _ { i , j } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $O V _ { i , \\operatorname* { m i n } }$ is the minimum output value of the sub-irrigation district numbered $i$ (USD); and $O V _ { i }$ is the output value of the sub-irrigation district numbered $i$ (USD). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The constraint of water supply for the sub-irrigation districts can be expressed as: ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { i , k , \\mathrm { i r } } + V _ { i , k , \\mathrm { o t , n e } } \\le \\sum _ { j = 1 } ^ { n } V _ { j , k } \\times \\eta _ { j } + V _ { i , k , \\mathrm { g w } } + V _ { i , k , \\mathrm { o t , a v } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $V _ { i , k , \\mathrm { i r } }$ is the needed water quantity for agricultural irrigation of the sub-irrigation district numbered $i$ in the month numbered $k ( \\mathbf { m } ^ { 3 } )$ ： $V _ { i , k , \\mathrm { o t , n e } }$ is the needed water quantity for other industries of the sub-irrigation district numbered $i$ in the month numbered $k ( \\mathbf { m } ^ { 3 } ) ; V _ { j , }$ is the diverted water quantity of the canal numbered $j$ flowing into the sub-irrigation district in the month numbered $k$ $( \\mathrm { m } ^ { 3 } )$ · $\\eta _ { j }$ is the conveyance efficiency of the canal numbered $j$ . $V _ { i , k , \\mathrm { g w } }$ is the groundwater exploitation of the sub-irrigation district numbered $i$ in the month numbered $k ( \\mathrm { m } ^ { 3 } )$ ; and $V _ { i , k , \\mathrm { o t , a v } }$ is the other available water quantity of the sub-irigation district numbered $i$ in the month numbered $k ( \\mathbf { m } ^ { 3 } )$ = ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The constraints of groundwater exploitation are shown in Equations 1l and 12: ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { \\displaystyle { V _ { i , k , \\mathrm { g w } , \\mathrm { m i n } } \\leq V _ { i , k , \\mathrm { g w } } \\leq V _ { i , k , \\mathrm { g w } , \\mathrm { m a x } } , } } \\\\ { \\displaystyle { \\sum _ { k = 1 } ^ { 1 2 } V _ { i , k , \\mathrm { g w } } \\leq { V } _ { i , \\mathrm { g w } , \\mathrm { m a x } } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $V _ { i , k , \\mathrm { g w , m i n } }$ is the minimum groundwater exploitation of the sub-irrigation district numbered $i$ in the month numbered $k$ $( \\mathbf { m } ^ { 3 } )$ ： $V _ { i , k , \\mathrm { g w , m a x } }$ is the maximum groundwater exploitation of the sub-irrigation district numbered $i$ in the month numbered $k ~ ( \\mathrm { m } ^ { \\bar { 3 } } )$ ； and $V _ { i , \\mathrm { g w , m a x } }$ is the maximum annual groundwater exploitation of the sub-irrigation district numbered $i ( \\mathbf { m } ^ { 3 } )$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The constraint of ecological water supply can be expressed as follows: ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { k , \\mathrm { n e } } \\le V _ { 2 4 , k } \\times \\eta _ { 2 4 } + V _ { 2 6 , k } \\times \\eta _ { 2 6 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $V _ { k , \\mathrm { n e } }$ is the needed ecological water quantity of the Manas River in the downstream of the Jiahezi reservoir in the month numbered $k ( \\mathbf { m } ^ { 3 } )$ ： $V _ { 2 4 , k }$ and $V _ { 2 6 , k }$ are the diverted water quantity of the canal numbered 24 and 26 flowing into the sub-irrigation district in the month numbered $\\overline { { k \\ ( \\mathbf { m } ^ { 3 } ) } }$ respectively； and $\\eta _ { 2 4 }$ and $\\eta _ { 2 6 }$ are the conveyance efficiencies of the canal numbered 24 and 26, respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Water balance constraint of the points where canals join or separate is shown in Equation 14. ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { j = 1 } ^ { n } { \\cal V } _ { j , k , \\mathrm { i n } } \\times \\eta _ { j } = \\sum _ { j = 1 } ^ { n ^ { \\prime } } { \\cal V } _ { j , k , \\mathrm { f r } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $V _ { j , \\boldsymbol { k } , \\mathrm { i n } }$ is the diverted water quantity of the canal numbered $j$ flowing into the point in the month numbered $k ( \\mathbf { m } ^ { 3 } )$ ；and $V _ { j , \\boldsymbol { k } , \\mathrm { f r } }$ is the diverted water quantity of the canal numbered $j$ flowing ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "from the point in the month numbered $k ( \\mathbf { m } ^ { 3 } )$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Water balance constraint of reservoirs is expressed as: ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { i , k - 1 } + V _ { j , k , \\mathrm { c a } , \\mathrm { i n } } \\times \\eta _ { j } + V _ { i , k , \\mathrm { o t } , \\mathrm { i n } } - V _ { i , k , \\mathrm { e v } } - V _ { i , k , \\mathrm { l e } } - \\sum _ { j ^ { \\prime } = 1 } ^ { n } V _ { j ^ { \\prime } , k , \\mathrm { c a } , \\mathrm { f r } } = V _ { i , k } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $V _ { i , k - 1 }$ is the water storage of the reservoir numbered $i$ in the end of the month numbered $k { - } 1$ $( \\mathbf { m } ^ { 3 } )$ ， $V _ { j , k , \\mathrm { c a } , \\mathrm { i n } }$ is the diverted water quantity of the canal numbered $j$ flowing into the reservoir in the month numbered $k ( \\mathbf { m } ^ { 3 } )$ ， $V _ { i , k , \\mathrm { o t , i n } }$ is the other water quantity flowing into the reservoir numbered $i$ in the month numbered $k ( \\mathbf { m } ^ { 3 } )$ ：， $V _ { i , k , \\mathrm { e v } }$ is the evaporation loss of the reservoir numbered $i$ in the month numbered $k$ （204号 $( \\mathbf { m } ^ { 3 } )$ ：， $V _ { i , k , \\mathrm { l e } }$ is the leakage loss of the reservoir numbered $i$ in the month numbered $k$ （204号 $( \\mathbf { m } ^ { 3 } )$ ， $\\mathrm { V } _ { j ^ { \\prime } , k , \\mathrm { c a , f r } }$ is the diverted water quantity of the canal numbered $j \"$ flowing from the reservoir in the month numbered $k ( \\mathrm { m } ^ { 3 } )$ ; and $V _ { i , k }$ is the water storage of the reservoir numbered $i$ in the end of the month numbered $k ( \\mathbf { m } ^ { 3 } )$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Water storage constraint of reservoirs is expressed as Equation 16. ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { i , k , \\operatorname* { m i n } } \\leq V _ { i , k } \\leq V _ { i , k , \\operatorname* { m a x } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $V _ { i , k , \\operatorname* { m i n } }$ is the minimum water storage of the reservoir numbered $i$ in the end of the month numbered $k ( \\mathbf { m } ^ { 3 } )$ ; and $V _ { i , k , \\operatorname* { m a x } }$ is the maximum water storage of the reservoir numbered $i$ in the end of the month numbered $k ( \\mathbf { m } ^ { 3 } )$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The constraint of diverted water quantity for canals is shown in Equation 17. ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 \\leq V _ { j , k } \\leq V _ { j , k , \\operatorname* { m a x } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $V _ { j , k }$ is the diverted water quantity of the canal numbered $j$ in the month numbered $k ( \\mathbf { m } ^ { 3 } )$ and $V _ { j , k , \\operatorname* { m a x } }$ is the maximum diverted water quantity of the canal numbered $j$ in the month numbered $k$ $( \\mathbf { m } ^ { 3 } )$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Nonnegative constraint is shown as follows: ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 \\leq x ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $x$ refers all the physical quantities in the model. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Evaporation loss of reservoirs can be described as Equation 19: ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { i , k , \\mathrm { e v } } = E _ { i , k } \\times S _ { i , k } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $V _ { i , k , \\mathrm { { e v } } }$ is the evaporation loss of the reservoir numbered $i$ in the month numbered $k ( \\mathbf { m } ^ { 3 } )$ $E _ { i , k }$ is the water surface evaporation per unit area of the reservoir numbered $i$ in the month numbered $k$ $( \\mathrm { m } ^ { 3 } / \\mathrm { m } ^ { 2 } )$ ； and $S _ { i , k }$ is the average water surface area of the reservoir numbered $i$ in the month numbered $k ( \\mathbf { m } ^ { 2 } )$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Moreover, leakage loss of reservoirs is shown in Equation 20: ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { i , k , \\mathrm { l e } } = \\alpha _ { i , k } \\times ( V _ { i , k - 1 } + V _ { i , k } ) / 2 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $V _ { i , k , \\mathrm { l e } }$ is the leakage loss of the reservoir numbered $i$ in the month numbered $k ( \\mathbf { m } ^ { 3 } )$ $a _ { i , k }$ is the leakage coefficient of the reservoir numbered $i$ in the month numbered $k$ （20 $( \\mathbf { m } ^ { 3 } )$ ：， $V _ { i , k - I }$ is the water storage of the reservoir numbered $i$ in the end of the month numbered k-1 $( \\mathbf { m } ^ { 3 } )$ ; and $V _ { i , k }$ is the water storage of the reservoir numbered $i$ in the end of the month numbered $k ( \\mathbf { m } ^ { 3 } )$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.6 Evaluation indices ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The coeficient of determination $( R ^ { 2 } )$ and relative mean absolute residual (RMAR) were selected to evaluate the performance of the ELM regressions (Zhang et al., 20l7),which can be calculated through Equations 21 and 22, respectively. The $R ^ { 2 }$ ,RMAR and Nash coefficient $( R _ { \\mathrm { N S } } )$ were used to evaluate the performance of MIKE11 HD/NAM model. The $R _ { \\mathrm { N S } }$ is expressed as Equation 23. ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR ^ { 2 } = 1 - \\frac { \\displaystyle \\sum ( y _ { \\mathrm { { s i } } } - \\overline { { y _ { \\mathrm { o b } } } } ) ^ { 2 } } { \\displaystyle \\sum ( y _ { \\mathrm { o b } } - \\overline { { y _ { \\mathrm { o b } } } } ) ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { R M A R } = \\frac { \\sum \\left. y _ { \\mathrm { o b } } - y _ { \\mathrm { s i } } \\right. } { n \\times \\left( \\operatorname* { m a x } ( y _ { \\mathrm { o b } } ) - \\operatorname* { m i n } ( y _ { \\mathrm { o b } } ) \\right) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\mathrm { N S } } = 1 - \\frac { \\displaystyle \\sum ( y _ { \\mathrm { o b } } - y _ { \\mathrm { s i } } ) ^ { 2 } } { \\displaystyle \\sum ( y _ { \\mathrm { o b } } - \\overline { { y _ { \\mathrm { o b } } } } ) ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where $n$ is the length of the time series; $y _ { \\mathrm { o b } }$ is the observed time series; $y _ { \\mathrm { s i } }$ is the simulated time series;and $\\overline { { y _ { \\mathrm { o b } } } }$ is the mean of the observed time series. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1Performance of the GCM downscaling ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The mean $R ^ { 2 }$ and RMAR values of the GCM downscaling in the selected ERA-Interim points are listed in Table 2.The mean $R ^ { 2 }$ values of the ELM regressions on $T _ { \\cdot }$ $T _ { \\mathrm { m a x } }$ and $T _ { \\mathrm { m i n } }$ were all ${ \\ge } 0 . 9 6 7$ which means that the effect of CEE downscaling on temperature is satisfying. The mean RMAR values of the ELM regressions on $T _ { \\cdot }$ $T _ { \\mathrm { m a x } }$ and $T _ { \\mathrm { m i n } }$ were all ${ \\ge } 0 . 0 3 8$ , indicating that the regression error is about $4 . 0 \\%$ of the series variation. Compared with temperature, the performance of CEE downscaling on $P$ is not satisfying because the mean $R ^ { 2 }$ values were lower $( \\leq 0 . 4 0 5 )$ and the mean RMAR values were higher (0.169-0.174) under three climate scenarios (RCP2.6,RCP4.5 and RCP8.5). However, the effect of CEE downscaling on precipitation is acceptable in consideration of the vast spatial and temporal variations of precipitation in the study area (Zhang et al.,2017). In the Manas River Basin, the snow/glacier meltwater takes up more than $70 \\%$ of the runoff (Zhou, 1999; Chen et al.,2015). Therefore, the influence of the downscaling effect of precipitation on runoff and cultivated area is small. ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/2fd313c8a26157fe92f9778fa2f2499fe5ae78e18cf7563390408c346113dc27.jpg",
+        "table_caption": [
+            "Table 2Mean $R ^ { 2 }$ and RMAR values of the ELM regressions in all selected ERA-Interim points "
+        ],
+        "table_footnote": [
+            "Note: $R ^ { 2 }$ ,coeffcientof determination；RMAR,relativemeanabsoluteresidual;ELM,extremelearning machine；T,mean daily temperature; $T _ { \\mathrm { m a x } }$ monthly mean daily maximum temperature; $T _ { \\mathrm { m i n } } .$ ,monthly mean daily minimum temperature; $P$ ,monthly precipitation; RCP, Representative Concentration Pathway. "
+        ],
+        "table_body": "<html><body><table><tr><td>Climate factor</td><td>Scenario</td><td>R²</td><td>RMAR</td><td>Climate factor</td><td>Scenario</td><td>R²</td><td>RMAR</td></tr><tr><td rowspan=\"4\">T</td><td>RCP2.6</td><td>0.967</td><td>0.040</td><td></td><td>RCP2.6</td><td>0.967</td><td>0.043</td></tr><tr><td>RCP4.5</td><td>0.971</td><td>0.040</td><td>Tmin</td><td>RCP4.5</td><td>0.971</td><td>0.041</td></tr><tr><td>RCP8.5</td><td>0.973</td><td>0.038</td><td></td><td>RCP8.5</td><td>0.973</td><td>0.038</td></tr><tr><td>RCP2.6</td><td>0.973</td><td>0.038</td><td></td><td>RCP2.6</td><td>0.378</td><td>0.172</td></tr><tr><td rowspan=\"2\">Tmax</td><td>RCP4.5</td><td>0.967</td><td>0.041</td><td>P</td><td>RCP4.5</td><td>0.403</td><td>0.169</td></tr><tr><td>RCP8.5</td><td>0.970</td><td>0.039</td><td></td><td>RCP8.5</td><td>0.405</td><td>0.174</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2Simulation capacity of the MIKE11 HD/NAM model ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Although the calibration period of the MIKE11 HD/NAM model was from January 1979 to December 2O09,evaluating indices were calculated during the period from January 1980 to December 2009 because the performance of the model in 1979 was greatly affected by the initial conditions such as initial discharge or ground water level (Delphi,2O11; Doulgeris et al.,2012; Vazifedoost et al.,2O14). Indices for the validation were calculated in the period from January 2010 to December 2012.The indices used for evaluating the MIKE11 HD/NAM model are listed in Table 3,and the simulated and observed runoff in the Kensiwate hydrological station is shown in Figure 4. As shown in Table 3, the $R ^ { 2 }$ and $R _ { \\mathrm { N S } }$ values during the calibration and validation periods were ${ \\ge } 0 . 8 9 3$ . It means that the MIKE11 HD/NAM model is performed well on the simulation of the runoff in the Kensiwate hydrological station. Furthermore,the RMAR during the validation period was O.056,showing that the simulation error is about $5 . 6 \\%$ for the maximum runoff variation in the Kensiwate hydrological station. Therefore, the MIKE11 HD/NAM model is satisfactory for running the PSWROAM. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3Simulation capacity of PSWROAM in predicting cultivated area ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "It is diffcult to verify the accuracy of the PSWROAM from 1979 year by year since many datasets are required to drive the model. Moreover, the effctive capacities of reservoirs are always changing rapidly because the sedimentation and the corresponding monitoring dataset are confidential. Therefore, the PSWROAM was only used to simulate the cultivated area at the decadal scale. It was verified during the periods 1991-1995,1996-2000,2001-2005 and 2006-2010,as shown in Table 4. The simulated cultivated area was fairly close to the actual cultivated area, with the $R ^ { 2 }$ value of O.97. Therefore, the accuracy of the PSWROAM is satisfactory and it can be used to analyze the variations of cultivated area under the future climate scenarios at the decadal scale. ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/112ad4c88cdabc5d9b38d48d5436ad7a8abfa6d57b25265f2613bd78e4a9b8b1.jpg",
+        "table_caption": [
+            "Table 3Indices used for evaluating the MIKE11 HD/NAM model during the calibration and validation periods "
+        ],
+        "table_footnote": [
+            "Note:RNs,Nash coefficient. "
+        ],
+        "table_body": "<html><body><table><tr><td>Period</td><td>R²</td><td>RNs</td><td>RMAR</td></tr><tr><td>Calibration period</td><td>0.895</td><td>0.893</td><td>0.033</td></tr><tr><td>Validation period</td><td>0.921</td><td>0.921</td><td>0.056</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/cca065837b4a0a7b52c2abc67af0c81c4c4f78e2018fc2cd0617da902ec4b4ee.jpg",
+        "img_caption": [
+            "Fig.4Simulated and observed runof in January in the Kensiwate hydrological station during the period 1979- 2012 "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/9a6fdd472e6f0acadf5dcd528176b93b1e7974810548dbff4203ae5b26902ccc.jpg",
+        "table_caption": [
+            "Table 4Simulated and actual cultivated area in the irrigation district of the Manas River Basin "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Cultivated area</td><td>1991-1995</td><td>1996-2000</td><td>2001-2005</td><td>2006-2010</td></tr><tr><td>Simulated cultivated area (km²)</td><td>1281.47</td><td>1336.74</td><td>1435.06</td><td>1436.53</td></tr><tr><td>Actual cultivated area (km²)</td><td>1298.56</td><td>1320.48</td><td>1430.23</td><td>1442.84</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.4Trends of temperature, precipitation and potential evaporation under climate scenarios ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "After the CEE downscaling， the monthly mean potential evaporation was calculated by Har Formula. Then, the decadal annual mean temperature and mean annual precipitation and potential evaporation in the catchment of the Kensiwate hydrological station and in the irrigation district of the Manas River Basin were calculated. The results are shown in Figures 5-7, respectively. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/daa217d3dbf007e83a9f37a78db8e25631b7f5310f2492158d8257b6426c1037.jpg",
+        "img_caption": [
+            "Fig.5Decadal annual mean temperature in the catchment of the Kensiwate hydrological station (C)and in the irrigation district (I) of the Manas River Basin under RCP2.6,RCP4.5 and RCP8.5 scenarios during the period 2001-21oo. Values in the brackets are the variation rates at the decadal scale. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/56b2b8543b2e32eb5e087230a0965f6cb7dbce62f1f46de69bd60fe43d2b52c2.jpg",
+        "img_caption": [
+            "Fig.6Decadal mean annual precipitation in the catchment of the Kensiwate hydrological station (C)and in the irrigation district (I) of the Manas River Basin under RCP2.6,RCP4.5 and RCP8.5 scenarios during the period 2001-21oo.Values in the brackets are the variation rates at the decadal scale. ",
+            "Fig.7Decadal mean annual potential evaporation in the catchment of the Kensiwate hydrological station(C)and in the irrigation district (I) of the Manas River Basin under RCP2.6,RCP4.5 and $\\mathrm { R C P 8 } . 5$ scenarios during the period 2Oo1-21oo.Values in the brackets are the variation rates at the decadal scale. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "RCP2.6-C (0.3707 mm/10a) RCP2.6-I(2.8545 mm/10a) RCP4.5-C (0.3693 mm/10a) RCP4.5-I(2.2074 mm/10a) RCP8.5-C(-1.1196 mm/10a) -RCP8.5-I(-6.8338 mm/10a) 485 1740 i rrrrnairieem 475 1700 (in g-nrinriirrnn 465 1660 455- 1620 445 435 1580 425 1540 1-2030 2001-2010 2011-2020 2031-2040 2041-2050 2051-2060 2061-2070 2071-2080 2081-2090 2091-2100 2021- ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The decadal annual mean temperature in the catchment willincrease under RCP2.6, RCP4.5 and RCP8.5 scenario (Fig. 5), which may speed up the glacier melting. As shown in Figure 6, the decadal mean annual precipitation in the catchment will generally increase. Compared with the period 20o1-2O10, the decadal mean annual potential evaporation of the catchment during the period 2091-2100 will increase under RCP2.6 and RCP4.5 scenarios but decrease under RCP8.5 scenario (Fig. 7). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The decadal annual mean temperature in the irrigation district of the Manas River Basin will increase under RCP2.6,RCP4.5 and RCP8.5 scenarios, with the increasing rate being much higher than that in the catchment of the Kensiwate hydrological station (Fig.5). The decadal mean annual precipitation will increase under RCP2.6 scenario but decrease under RCP4.5 and RCP8.5 scenarios in the irigation district (Fig. 6). Furthermore, the decadal mean annual potential evaporation in the irrgation district of the Manas River Basin will increase under RCP2.6 and RCP4.5 scenarios but decrease under $\\mathsf { R C P 8 . 5 }$ scenario (Fig. 7). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.5Trends of annual runoff in the Kensiwate hydrological station under climate scenarios ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The temperature, precipitation and potential evaporation of sub-catchments during the period 2013-210o were calculated through the Thiessen Polygon approach. After that, the MIKE11 HD/NAM model was driven and the annual runoff and corresponding glacier and snow water equivalent during this period were obtained. Since the inter-annual variations of annual runoff were intense and the PSWROAM was driven at the decadal scale, the decadal mean annual runoff was obtained during the period 2Ol3-210O under the three scenarios and the results are shown in Figure ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "8. Moreover, the trends of mean glacier and snow water equivalent in the catchment under the three scenarios were calculated (Fig.9) because this water equivalent is closely related to the annual runoff in the Kensiwate hydrological station. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure 8, the annual runoff in the Kensiwate hydrological station will generally decrease under RCP2.6 and ${ \\mathrm { R C P } } 4 . 5$ scenarios but increase under $\\operatorname { R C P 8 . 5 }$ scenario.The decadal mean annual runoff during the period 2091-2100 will be $3 . 7 0 { \\times } 1 0 ^ { 7 } { - } 5 . 5 0 { \\times } 1 0 ^ { 7 } \\ \\mathrm { m } ^ { 3 }$ higher than that during the period 2OOl-2O10.As shown in Figure 9, the glacier and snow water equivalent in the catchment of the Kensiwate hydrological station will decrease rapidly under the three climate scenarios. According to the results of MIKE11 HD/NAM model in this study and previous study (Zhou,1999),glacier and snow meltwater contributes about $70 \\%$ of the total runoff. Therefore, the increase of runoff is mainly attributed to the melting of glacier and snow. The basic reason for the decrease of runof under RCP2.6, RCP4.5 and RCP8.5 scenarios is the decrease of the glacier and snow water equivalent. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/ca097905d86e899988d972e3cd5e33e81cf9c80285c257b991e642b119984ebb.jpg",
+        "img_caption": [
+            "Fig.8Decadal mean annual runoff in the Kensiwate hydrological station under RCP2.6,RCP4.5 and RCP8.5 scenarios during the period 2Ool-21Oo.Values in the brackets are the variation rates atthe decadal scale. "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/09923f868d137942232d015515076471b15246f02888f1374bfc88667bc22960.jpg",
+        "img_caption": [
+            "Fig.9Decadal mean glacier and snow water equivalent in the catchment of the Kensiwate hydrological station under RCP2.6,RCP4.5 and $\\mathrm { R C P 8 . 5 }$ scenarios during the period 2Oo1-21oo.Values in the brackets are the variation ratesat the decadal scale. "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.6Trends of cultivated area under climate scenarios and current human activities ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Due to water shortage in the Xiayedi and Mosuowan sub-irrigation districts is serious and there is no more land to expand farmland in the Shihezi sub-irrigation district, the maximum cultivated area in the irrigation district of the Manas River Basin under current human activities was set to equal to that during the period 2O01-2010. Finally, the PSWROAM was driven and the cultivated area in the irigation district of the Manas River Basin under the three climate scenarios and current human activities was predicted (Fig.10). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The cultivated area in the irrigation district of the Manas River Basin under the three climate scenarios and current human activities will generally decrease. The decreasing rate of cultivated area under RCP2.6, RCP4.5 and RCP8.5 is 15.796, 8.193 and $2 . 9 9 0 ~ \\mathrm { k m } ^ { 2 } / 1 0 \\mathrm { a }$ ，respectively. The decadal mean cultivated area during the period 2091-2100 will be $0 . 0 0 0 { - } 1 2 2 . 9 0 0 \\ \\mathrm { k m } ^ { 2 }$ lower than that during the period 2001-2010. ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/7cc3baa00e5044273a2bb9430972359a497fb72bf42aa7a3be13145083b1b90a.jpg",
+        "img_caption": [
+            "Fig.10Decadal mean cultivated area in the irrigation district of the Manas River Basin under current human activities and RCP2.6,RCP4.5and RCP8.5 scenarios during the period 2001-2100.Values inthe brackets are the variation rates at the decadal scale. "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.1Possible human activities to cope with the cultivated area decrease and the trends of cultivated area trends under assumed human activities ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "As above-mentioned,cultivated area in the irigation district of the Manas River Basin will decrease under current human activities and climate change.However, the decrease in cultivated area indicates land degradation in this region，which is very dangerous for the ecological environment and economic development. Therefore, measures should be taken to cope with this situation. The possible measures may be included: improving the conveyance efficiency of the canals,reducing the crop water consumption and abandoning the plain reservoirs. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The conveyance efficiency of the canal system in the Shihezi， Xiayedi and Mosuowan sub-irrigation districts is 0.82, 0.77 and 0.77,respectively (Shihezi Statistics Bureau,2010), which can be improved in the future. The conveyance eficiency of the canal system in the three sub-irigation districts was assumed to increase at the rate of 0.025/10a since 2O21, until 0.900.As the conveyance efficiency is lower than 1.Ooo, the assumption is feasible. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Even though the water requirement of cropping systems in the irrigation district of the Manas River Basin is relatively low, it is possible to reduce the water requirement by considering the technology progress such as deficit irrigation (Romero, et al., 2O04). Therefore, the monthly water requirement of cropping systems in the three sub-irigation districts was assumed to decrease at the rate of $0 . 1 5 ~ \\mathrm { m } ^ { 3 } / ( \\mathrm { h m } ^ { \\cdot } \\mathrm { \\bar { 2 } } { \\cdot } 1 0 \\mathrm { \\bar { a } } )$ on the base of that under current human activities. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "After the operation of the Kensiwate reservoir in 2Ol5,the flood prevention function of the Jiahezi reservoir has been taken over by the Kensiwate reservoir. The sedimentation capacity of the Jiahezi reservoir has reached $6 . 6 0 { \\times } 1 0 ^ { 7 } ~ \\mathrm { m } ^ { 3 }$ , which is very serious because its total capacity is only $1 1 . 0 0 \\times 1 0 ^ { 7 } \\mathrm { m } ^ { 3 }$ .Besides, the Jiahezi reservoir is a defective reservoir. Therefore, the Jiahezi reservoir may be abandoned in the future.In this paper, the Jiahezi reservoir was assumed to be abandoned in 2031 (Yang et al., 2013). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The water resource may be sufficient if the measures listed above are taken. Due to the economic growth and human survival stress, the cultivated area may increase if water resource is suficient. However,there is no redundant land for farmland area in the Shihezi sub-irrigation district.The cultivated area expansion is only possible in the Xiayedi and Mosuowan sub-irrigation districts. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Therefore, the maximum cultivated area in the Xiayedi and Mosuowan sub-irrigation districts after 2021 was assumed to be 1.5 times of that during the period 2001-2010. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "We adjusted parameters according to the quantified human activities assumed above,and drove the PSWROAM subsequently. Then the decadal mean cultivated area in the irrigation area of the Manas River Basin under assumed human activities was obtained (Fig. 11). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The cultivated area of the Manas River Basin under assumed human activities will generally increase.It means that the adverse effect of climate change on cultivated area may be weakened or eliminated through positive human activities. Comparing to that under current human activities, the cultivated area under $\\mathsf { R C P 2 } . 6$ and RCP8.5 scenarios is much higher during the period 2031-2040, which is mainly due to the abandonment of the Jiahezi reservoir. As shown in Table 5,abandoning the Jiahezi reservoir will obviously reduce the evaporation and leakage losses of the reservoir groups,which is fairly beneficial for the planting industry. However, the cultivated area increase after 2041 is mainly due to the improved conveyance efficiency of canals and reduced water requirement of crops. Overall, the decadal mean cultivated area during the period 2091-2100 will be $7 8 . 3 6 0 \\mathrm { - } 1 8 5 . 0 7 0 \\mathrm { k m } ^ { 2 }$ higher than that during 2001-2010. ",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/0890a41235cb83c6dfb271c7e6d10defd0ae62361590b43eb64970bc465d3316.jpg",
+        "img_caption": [
+            "Fig.11Decadal mean cultivated area of the Manas River Basin under assumed human activities and RCP2.6, RCP4.5 and $\\mathrm { R C P 8 . 5 }$ scenarios during the period 200l-2100. Values in the brackets are the variation rates at the decadal scale. "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/47fa19bf916f69de4dc9cd77d8d339b1c9b98bc372fd847063c072d38425c2a5.jpg",
+        "table_caption": [
+            "Table 5Evaporation and leakage losses under current and assumed human activities during the period 2031-2040 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Scenario</td><td colspan=\"2\">Evaporation loss (×10 m)</td><td colspan=\"2\">Leakage loss (×107 m)</td></tr><tr><td>Current</td><td>Assumed</td><td>Current</td><td>Assumed</td></tr><tr><td>RCP2.6</td><td>5.668</td><td>3.944</td><td>2.905</td><td>2.170</td></tr><tr><td>RCP4.5</td><td>5.976</td><td>4.006</td><td>3.207</td><td>2.221</td></tr><tr><td>RCP8.5</td><td>5.708</td><td>4.041</td><td>2.862</td><td>2.191</td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.2 Evaluation and application of GD-HM-PSWROAM approach ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The GD-HM-PSWROAM is consist of GCM downscaling, hydrological model, planting structure and water resource optimal allocation model. It provides an approach rather than a fixed model. Therefore, its advantages and disadvantages were analyzed in view of an approach rather than a fixed model. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The GD-HM-PSWROAM provides an approach in forecasting the cultivated area in artificial oases under climate change and human activities. Its applicability in artificial oases was demonstrated rational. The effects of GCM downscaling on temperature can be fairly satisfying, while its effect on precipitation is not satisfying but acceptable at least. Simulation capacity of the hydrological model can be satisfying for driving the PSWROAM. The accuracy of the PSWROAM can be fairly satisfying for analyzing the cultivated area at the decadal scale. In general, accuracy of the GD-HM-PSWROAM in predicting cultivated area at the decadal scale is fairly satisfying. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Unlike other fixed models, the specific models in GD-HM-PSWROAM need to be selected and adjusted on the basis of the practical situations of the study regions. Its performance is tremendously influenced by errors and uncertainties of the input datasets and the selected specific models.Raising the required datasets of the GD-HM-PSWROAM is fairly intractable. The matching among the input datasets and outputs datasets of the selected models is fairly uneasy. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The GD-HM-PSWROAM was only applied in artificial oases in this study. However, it does not mean that the approach cannot be applied in other regions.But there are a couple of points to be noticed when applying this approach in other regions.First, the monitoring datasets rather than the reanalysis datasets should be selected if the number and distribution of meteorological stations are satisfying. The monitoring datasets are more exact and reliable than the reanalysis datasets in general (Abbott et al.，1986; Hodges et al.，2010; Miralles et al.，2011c). Second, a distributed hydrological model rather than a lumped or semi-distributed model should be employed if the required datasets are satisfying. In lumped model and or semi-distributed model, the glacier and snow are usually assumed to be distributed evenly in the basins or sub-basins (Xu,20o9). However, the glacier and snow water equivalent can be precisely located into each cell in distributed models (Xu et al.,1996; Shamsudin and Hashim,2002; Delphi, 2011; Luo et al., 2013; Lin et al., 2014; Vazifedoost et al.， 2O14). Third,a relatively closed region rather than an open region is recommended. The pass-by water resource in study regions will not predicted in the GD-HM-PSWROAM,which may lead to errors and uncertainties. In some open regions, the quantity of the pass-by water resource is even higher than that of the indigenous water resource. Finally, precisely forecasting and quantifying the human activities are of great importance. The regulation effects of hydrological structures such as the reservoirs, sluice gates and pumps are enormous. Constructing or abandoning the reservoirs and channels will alter the PSWROAM on some degree. Drawing water for other industries will slow down the water supply for the planting industries. Applying water-saving irrigation technologies may slash the water requirement of the planting industries. To sum up, the GD-HM-PSWROAM provides an approach rather than a fixed model. Selecting proper models in GD-HM-PSWROAM will lead to better results. In other words, the improper models may lead to errors and uncertainties. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In this paper, the GD-HM-PSWROAM approach was developed to forecast the cultivated area in artificial oases under climate change and human activities at the decadal scale. The GD-HM-PSWROAM is consisting of GCM downscaling, hydrological model, planting structure and water resource optimal allocation model. The performance and methodology of the GD-HM-PSWROAM was illustrated in details in the Manas River irrigation district Basin. The effect of CEE downscaling effect on temperature can be satisfying since the mean $R ^ { 2 }$ is 0.97 and the mean RMAR is O.04.Although the effect of CEE downscaling on precipitation may be not satisfying but it is acceptable at least since the $R ^ { 2 }$ is 0.40 and the RMAR is O.17. The simulation capacity of MIKE11 HD/NAM model on the discharge in the Kensiwate hydrological station can be satisfying for driving the PSWROAM since the $R ^ { 2 }$ and $R _ { \\mathrm { N S } }$ values during the validation period are all 0.92. The accuracy of the PSWROAM is satisfying for analyzing the cultivated area at the decadal scale with the $R ^ { 2 }$ of 0.97. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The cultivated area of the Manas River Basin under current human activities will generally decrease under RCP2.6, RCP4.5 and RCP8.5 scenarios.Measures need to be taken to cope with the decreasing trend. The adverse effects of climate change on cultivated area may be weakened or eliminated through positive human activities. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Overall, we can predict the effects of human activities according to the trends of cultivated area under current human activities and situations in the study area. Then the trends of cultivated area under climate change and human activities can be forecasted through the PSWROAM.Therefore, it is rational to forecast the cultivated area in artificial oases under climate change and human activities through the GD-HM-PSWROAM approach. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The research was supported by the National Key Research and Development Program of China (2017YFC0404301), the National Natural Science Foundation of China (51769029),the National Science-technology Support Plan Projects of China (2O15BAD24B02)，and the Foundation of Tianjin Municipal Science and Technology Commission (15JCZDJC41400).The authors are very grateful to the DKRZ website for supplying the GCM dataset, the ECMWF website for supplying the ERA-Interim dataset,the GLEAM website for supplying the GLEAM dataset,the GS Cloud for supplying the GDEMDEM dataset and the Shihezi Water Conservancy Bureau for supplying the monthly mean flow dataset in Kensiwate hydrological station. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Abbott MB,BathurstJC,CungeJA,etal.1986.AnintroductiontotheEuropean Hydrological System-SystemeHydrologique Europeen,\"SHE\",1:Historyandpilosohyofapysically-based,distributedmodellngsystem.JouralofHydrology,87(1- 2): 45-59.   \nAeschbacherJ,LinigerH,WeingartnerR.2Oo5.Riverwatershortageinahighland-lowlandsystem.MountainResearchand Development, 25(2):155-162.   \nAizen VB,AizenEM,MelackJM,etal.1997.Climatic and hydrologicchanges inthe Tien Shan,Central Asia.Jourmalof Climate,10(6): 1393-1404.   \nAllanJA.1996.Wateruseand development inarid regions:Environment,economic developmentand waterresourcepolitics and policy. Review of European, Comparative & International Environmental Law,5(2): 107-115.   \nArmoldJG,MoriasiDN,GassmanPW,etal.0l2.SWAT: Modeluse,calibration,andvalidation.Transactionsof theABE, 55(4): 1345-1352.   \nBeedle MJ,Menounos B,WheateR.2014.Glacierchange in theCaribooMountains,British Columbia,Canada(1952-2005). The Cryosphere Discussions,8(3): 3367-3411.   \nBhambriR,BolchT,ChaujarRK,etal.2O11Glacierchangesin the Garhwal Himalaya,India,froml968to2O06basedon remote sensing. Journal of Glaciology, 57(203): 543-556.   \nBolchT,MenounosB,WheateR.0l0a.Ladsat-basedinventoryofglaciers inwesternCanada,198-2Oo5.RemoteSesingof Environment, 114(1): 127-137.   \nBolch T,YaoT,KangS,etal.Oob.AglacierinventoryforthewesternNyainqentanglhaRangeandtheNamCoBasin,ibet, and glacier changes 1976-2009.The Cryosphere,4: 419-433.   \nChenFL,Wang YX,Wu ZB.2015.Impactsof climate change and human activities on runofofcontinental river in arid areas-Taking Kensiwate hydrologicalstation in Xinjiang Manas RiverBasinasan example.Arid Zone Research,32(4):692- 697. (in Chinese)   \nChenYN,LiWH,XuCC,etal.2O7.Efectsofclimatechange on waterresources inTarimRiverBasin,NorthwestChina. Journal of Environmental Sciences,19(4): 488-493.   \nChen ZS,ChenYN,LiBF.2013.Quantifying theeffctsofclimate variabilityand humanactivities onrunoffor Kaidu River Basin in arid region of Northwest China.Theoretical and Applied Climatology,111(3-4): 537-545.   \nChiewFH S,McMahon TA.2002.Modelling the impactsof climate changeon Australian streamflow.Hydrological Proceses, 16(6): 1235-1245.   \nCook AJ,HolandPR,MeredithMP,etal.2O16.Ocean forcingofglacierretreatinthewester AntarcticPeninsula.Science, 353(6296): 283-286.   \nDawoud MA.2O13.The development of integrated water resource information management system in arid regions.Arabian Journal of Geosciences, 6(5): 1601-1612.   \nDee DP,Uppala SM,SimmonsAJ,etal.20l1.TheERA-Interimreanalysis:Configurationand performanceof thedata assimilation system. Quarterly Journal of the Royal Meteorological Society,l37(656): 553-597.   \nDelgado A,RodriguezDJ.2014.The UnitedNations World WaterDevelopment Report 2014: Waterand EnergyParis:United Nations Educational, Scientific and Cultural Organization Press,11.   \nDelphi M.2011.Investigate the compliance of MIKE11 and muskingum cunge method for flood routing in Karun River. International Journal of Current Research,3(11):190-193.   \nDoulgeris C,Georgiou P,PapadimosD,et al.2O12.Ecosystem approach to water resources managementusing the MIKE11 modeling system in the Strymonas River andLake Kerkini.Journalof Environmental Management,94(1):132-143.   \nEdenJM,WidmannM.2010.Statisticaldownscaling of GCM-simulated precipitationusing ModelOutput Statistics.In: Geophysical Research Abstracts.Vienna:EGUGeneral Assembly,12: 433.   \nFodaRF,AwadallahAG,GadMA.2017.Afastsmi distributedrainfallrunofmodelforengineering applications inaridand semi-arid regions.Water Resources Management, 31(15): 4941-4955.   \nFujita K.2008.Efectof precipitationseasonalityonclimaticsensitivityof glaciermassbalance.Earthand Planetary Science Letters,276(1-2): 14-19.   \nGao C,BaiT,YangWW,etal.2O17.Studyonflood propagationintheupstreamofHanjiang Riverusing MKE11 model.Joural of Water Resources Research,6(2):156-165.(in Chinese)   \nGashJHC.1979.Ananalyticalmodelofrainfaliterceptiobyforests.QuarterlyJournaloftheRoyalMeteorologicalSociety 105(443): 43-55.   \nHewitson BC,Crane R G.20o6.Consensusbetween GCMclimate change projections with empirical downscaling: precipitation downscaling over South Africa.International Journal of Climatology,26(10):1315-1337.   \nHodgesKI,LeeRWBengtssnL.20l1.Acomparisonof extratropical cyclones inrecentreanalysesERA-Interim,NASA MERRA,NCEP CFSR,and JRA-25.Journal of Climate,24(18): 4888-4906.   \nInatsu M,SatoT,YamadaTJ,etal.2015.Multi-GCMbymulti-RAMexperiments fordynamicaldownscalingonsummertime climate change in Hokkaido.Atmospheric Science Letters,l6(3): 297-304.   \nIPCC(Intergovernmental Panel on Climate Change).2013. Climate Change 2013:The Physical Science Basis.Contributionof Working GroupIto the Fifth Assessment Reportof theIntergovernmentalPanelon Climate Change.Cambridge:Cambridge University Press,1-1535.   \nJohnsonRJ,StenvinkelP,Jensen T,etal.20l6.Metabolicandidneydiseasesinthesetingofclimatechange,watershortage, and survival factors. Journal of the American Societyof Nephrology,27(8): 2247-2256.   \nLai X Q.20o5.China Oasis Agronomy. Beijing: China Agricultural Press,2.(in Chinese)   \nLambrechtA,MayerC,HaggW,etal0l1.Acomparisonof glaciermeltondebris-coveredglaciers in thenorthernandsouthe Caucasus. The Cryosphere,5(3): 525-538.   \nLiLJ, ZhangL,Wang H,etal.2O7.Asessng theimpactofclimate variabilityand humanactivitiesonstreamflowfromthe Wuding River basin in China.Hydrological Processes,21(25): 3485-3491.   \nLin B,Liu QJ,Shang H,et al.2014.Applicationof coupled MIKE1/NAMmodel in Naoli River Basin,northeastern China. Journal of Beijing Forestry University,36(5): 99-108.(in Chinese)   \nLing HB,XuHL,FuJY,etal.2l.Surfacerunoff processesandsustainableutilzationofwaterresourcesinManas River Basin,Xinjiang,China.Journal of Arid Land,4(3): 271-280.   \nLuo FL,YuanY,Fan JB.2013.Aplicationof SWMMand MIKE1lcoupled model in urban Tidal River network. China Rural Water and Hydropower, 3: 98-102.(in Chinese)   \nMakungoR,OdiyoJO,NdirituJG,etal.2010.Rainfallrunoff modellingapproach forungauged catchments:Acasestudyof Nzhelele River sub-quaternary catchment.Physics and Chemistry of the Earth,35(13):596-607.   \nMaurerEP,Hidalgo HG.2008.Utilityof dailyvs.monthlylarge-scale climate data:anintercomparisonof twostatistical downscaling methods.Hydrology and Earth System Sciences,12: 551-563.   \nMcMichael CE,HopeA S,Loaiciga HA.2006.Distrbuted hydrological modeling in California semi-arid shrublands: MIKE SHE model calibration and uncertainty estimation. Journal of Hydrology,317(3-4):307-324.   \nMiralesDG,Holmes TRH,DeJeuRAM,etal.20lla.Global land-surfaceevaporation estimatedfromsatelite-based observations.Hydrology and Earth System Sciences,15: 453-469.   \nMiralesDG,DeJeuRAM,GashJHC,etal.2Ol1b.Magnitudeandvariabilityofland evaporationanditscomponentsatthe global scale.Hydrology and Earth System Sciences,15: 967-981.   \nMirales DG,DeJeuRAM,GashJH,etal.211c.AnaplicationofGLEAMtoestimating global evaporation.Hydrologyand Earth System Sciences Discussions,8: 1-27.   \nOduor AR,Mabanga MM.2018.Improving the eficiencyof runoff pond system for supplementaryirrigation in arid and semi-aridareasofKenya.In:LealFilho W,de Trincheria GomezJ.Rainwater-Smart Agriculture inAridand Semi-Arid Areas. Cham, Switzerland: Springer Cham,199-213.   \nPelto MS.2O08.ImpactofclimatechangeonNorth Cascade alpine glaciers,andalpinerunof.NorthwestScience,82(1):65-75.   \nPoveda G, Zapata AF.2016.Scale invariant power laws capture the 3-Dcoupling between water,energyand carbon budgets across river basins of increasing Horton-Strahler Orders inthe Andes-Amazon system.In:AGUFall Meting Abstracts.San Francisco: AGU Fall Meeting.   \nQianLX,ZhangR,HongM,etal.2016.Anewmultipleitegalmodelfowatershortagerisasessmentanditsaplicationin Beijing, China. Natural Hazards,80(1): 43-67.   \nRacoviteanuAE,Arnaud,Willams MW,etal.2O08.Decadalchangesinglacierparameters intheCordileraBlanca,Peru, derived from remote sensing. Journal of Glaciology,54(186): 499-510.   \nRomeroP,BotiaP,arciaF2O04.Effectsofregulateddeficitirigationundersubsurfacedripirigatioconditionsongetative development and yield of mature almond trees.Plant and Soil,26O(1-2):169-181.   \nSahoo G B,RayC,CarloEHD.20o6.Calibrationandvalidationofa physicalldistributed hydrological model,MIKESHE,to predict streamflow athigh frequency ina flashy mountainous Hawaiistream.Journal ofHydrology,327(1-2): 94-109.   \nSanthi CJG,ArnoldJ,WillamsJR,etal.2Oo1.Validationof theswat modelonalargeriverbasin withpointand nonpoint sources.Journal of the American Water Resources Association,37(5): 1169-1188.   \nScherlerD,Bookhagen B,StreckerMR.2011SpatiallyvariableresponseofHimalayanglaciers toclimatechange affectedby debris cover. Nature Geoscience,4(3):156-159.   \nShamsudin S,Hashim N.2002.Rainfallrunoff simulationusing MIKE11NAM.Malaysian Jourmal ofCivilEngineering,15(2): 26-38.   \nShihezi StatisticsBureau2010.StatisticalYearbookEditorialBoardof0l0.Beijing:China StatisticsPres,1-419.(inChiese)   \nShihezi StatisticsBureau2015.StatisticalYearbookEditorialBoardof0l5.Beijing:China StatisticsPres,1-369.(inChiese)   \nShuval HI, Isaac J.1994.Water and peace in the Middle East.Desalination,88(1-3): 383.   \nSyll MB,CoppolaE,MariotiL,etal.210.Multiyearsimulationof theAfrican climate usingaregional climate model (RegCM3) with the high resolution ERA-interim reanalysis.Climate Dynamics,35(1): 231-247.   \nValenteF,DavidJS,GashJHC.1997.Modelinginterceptionlossfortwosparseeucalyptand pine forests incentralPortugal using reformulated Ruter and Gash analytical models.Journal of Hydrology(Amsterdam),190(1-2):141-162.   \nVazifedoostR M,Nayyeri M,Barani GA.2014.Floodplain modeling using HEC-RASandMIKE11 models.Journalof River Engineering, 2(5).   \nVrac M,SteinML,HayhoeK,etal.2Oo7.Ageneral methodforvalidating statistical downscaling methodsunderfuture climate change.Geophysical Research Letters,34(18): L18701,doi: 10.1029/2007GL030295.   \nWang GQ,ZhangJY,HeRM,etal.2O17.Runoffsensitivitytoclimatechangeforhydro-climaticallydiferentcatchents n China. Stochastic Environmental Research and Risk Assessment, 31(4):1011-1021.   \nWeedonGP,BalsamoG,BelouinN,etal.2014.The WFDEI meteorological forcing dataset:WATCHForcing Data methodology applied to ERA-Interim reanalysis data.Water Resources Research,50(9):7505-7514.   \nWu LZ,LiX.2003.China Glacier Information System.Beijing: China Ocean Press,1-135.(in Chinese)   \nXu CC,ChenYN,ChenY,etal.2013.Responsesofsurfacerunofftoclimatechangeandhumaactivitiesinthearidgionof Central Asia: a case study in the Tarim River Basin, China.Environmental Management,51(4): 926-938.   \nXuL,Wood EF,Lettenmaier DP.1996.Surfacesoil moisture parameterizationof the VIC-2L model:Evaluationand modification. Global and Planetary Change,13(1-4):195-206.   \nXu ZX.2010.Hydrological models:past,presentandfuture.JournalofBeijing NormalUniversity,46(3):278-289.(inChinese)   \nYang M,XueL,Zheng G,etal.2013.Optimizedalocationof waterresources in Yarkand RiverBasin basedon WEAP model. Journal ofHohai University,41(6): 493-499.(in Chinese)   \nZemp M,FreyH,Gärtner-Roer I,etal.2O15.Historically unprecedented global glacier decline in the early $2 1 ^ { \\mathrm { s t } }$ century. Journal of Glaciology, 61(228): 745-762.   \nZhang SB,ChenFL,HeXL,etal.2017.Anew downscalingapproachand itsperformance with bias corectionand spatial disaggregation as contrast. Journal of Water and Climate Change,8(4): 675-690.   \nZhang Z,HuHP,TianFQ,etal.2Ol4.Groundwaterdynamicsunder water-savingirrigationand implications forsustainable water managementinanoasis:TarimRiverbasinof western China.HydrologyandEarth System Sciences,18(10):3951-3967.   \nZhouYC.1999Hydrologyand WaterResourcesofRivers in Xinjiang.Urumqi: Xinjiang Science,Technologyand HealthPress, 1-445.(in Chinese) ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    }
+]

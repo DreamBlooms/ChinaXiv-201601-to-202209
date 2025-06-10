@@ -1,0 +1,585 @@
+[
+    {
+        "type": "text",
+        "text": "基于频繁主题集偏好的学术论文推荐算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李冉，林泓",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(武汉理工大学 计算机科学与技术学院，武汉 430063)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对学术论文推荐中项目冷启动问题，提出了一种基于频繁主题集偏好的协同主题回归模型。该算法考虑到用户在选择学术论文时对研究热点的偏好，使用频繁主题集代表研究热点，将用户对研究热点的偏好表示成用户对频繁主题集的偏好。首先，通过潜在狄利克雷分布主题模型挖掘得到论文一主题概率分布矩阵，并筛选出论文中概率较高的主题；然后，挖掘出频繁出现的主题集合，并得到论文-频繁主题集矩阵；最后，在预测未知评分时融入用户对频繁主题集的偏好。在CiteULike 数据集上的实验表明，相比于矩阵分解模型和协同主题回归模型，该算法在召回率、准确率和RMSE三个指标上都有所提升。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：论文推荐；主题模型；频繁主题集；",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：TP301.6 doi:10.3969/j.issn.1001-3695.2018.02.0141 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Academic paper recommendation algorithm based on frequent topic sets preference ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Li Ran, Lin Hong (College ofcomputer Science&Technology,Wuhan University ofTechnology,Wuhan 43oo63,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This paper proposedacollaborative topic regresionmodelbasedonthe preference for frequent topic sets toaddress theitem-cold-start problem inacademic paper recommendation.The algorithm takes into account theuser's preference for research hotspots when selecting academic papers,and uses frequent topic sets to represent research hotspots.So,user's preferenceforresearchhotspotsisxpressedasteuser'spreferenceforfrequenttopicsets.Firstly,thepapers-topicprobability distributionmatrixisobtained throughLDAalgorithmand filteroutthetopicswith higherprobabilityinthepaper.Then,the algorithm mines the frequently-ocuring topic sets and gets the relationships between papers andfrequent topic sets.Finaly, theuser'spreferenceforfrequent topic setsisused for thepredictionofunknownscores.Experiments on CiteULikedatasets showthat thealgorithmimproves therecallacuracyandRMSEover the matrix factorization modelandthecollaborativetopic regression model. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:paper recommendation; topic model; frequent topic sets ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "学术论文推荐是推荐系统的一个应用方向，结合被推荐物品（学术论文）的特点，基于内容、协同过滤等在电子商务领域广泛使用的推荐算法在学术论文推荐中也取得了一定效果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在基于内容的论文推荐的技术中，常用的是利用TF-IDF方法将文档表示成以关键词为维度的特征向量，并由特征向量计算得到文档间的相似度，然后基于用户的历史阅读记录进行论文的推荐[23]。但 TF-IDF 方法只能统计文档中单词的词频信息，无法捕捉文档内部以及文档间的统计特征，也不能确定文档的语义特征，从而只能向用户推荐表面内容相似的文章。随着主题模型的提出及其在文本挖掘中发挥的重要作用，逐渐有人将主题模型应用于推荐系统[4。主题模型可以捕捉到文档内的语义信息，从而发现文档潜在的主题特征，通过文档间主题的相似度给用户基于内容的推荐。此外，大量研究工作也被集中在如何将概率矩阵分解模型(probabilistic matrixfactorization,PMF)更好的应用到论文推荐中。Wang等将 PMF 和基于内容的推荐相结合，提出协同主题回归模型(collaborative topicregression,CTR)，通过潜在狄利克雷分布主题模型(latentDirichlet allocation，LDA)对PMF 的项目潜在因子特征向量进行增强。协同深度学习的分层贝叶斯模型对内容信息进行深度表示学习，并对反馈矩阵进行协同过滤，显著提高了已有的技术水平。Lu等人[提出作者一会议一时间一主题模型构建用户的主题特征，结合LDA 构建的论文的主题特征，分别增强PMF中的用户潜在因子特征向量和项目潜在因子特征向量。除此，还有一些推荐算法也将重点集中在挖掘更多种类的信息来丰富用户和论文的特征[1112]。顺着这一研究思路，本文也对如何更好的构建论文特征向量进行了探究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "用户在某个研究方向下做研究时，首先需要阅读相关领域下的核心技术论文，以便了解该方向的主要研究内容和关键技术；其次，阅读新发表的论文对用户也是至关重要的，可以帮助用户紧跟学科的发展，并开阔眼界；同时，用户对包含热点主题的论文的关注度往往更高。核心论文往往意味着被该方向下的很多人阅读过，因此在推荐核心论文时，采用概率矩阵分解模型向用户推荐同领域下其他用户阅读的论文，可以使其他用户的观点发挥重要作用，推荐效果良好。但对于发表不久，还没有被阅读过的论文，概率矩阵分解模型则不能发挥作用，即存在项目冷启动的问题，因此需要对论文内容进行分析，以便将其推荐给需要的用户。上述提到的CTR及系列论文[13,14]将基于内容的推荐和概率矩阵分解模型相结合，一定程度上缓解了概率矩阵分解模型的冷启动问题。但是CTR在发掘研究热点方面的能力不够，尤其是对于新发表的论文，基本上依赖于基于内容的推荐，而不能体现论文中研究热点的价值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "鉴于上述问题，本文提出了基于频繁主题集偏好的协同主题回归模型，在预测未知评分时，对包含频繁主题集的论文给予一定程度的偏重，频繁出现的主题集合通常代表学术研究的热点，从而凸显包含研究热点的学术论文的价值。该模型首先对语料库进行建模处理，得到论文在主题上的概率分布；从而挖掘出频繁出现的主题集合；最后在协同主题回归模型中融入频繁主题集对推荐结果的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关工作",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1论文主题挖掘 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文使用LDA 主题模型对实验数据集进行处理，生成论文-主题概率分布矩阵。LDA是一个语料库的生成模型，它的基本思想是文档被表现为隐含主题的随机混合。对于语料库中的每篇文档，LDA定义了如下生成过程：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)从 Dirichlet 分布 $\\boldsymbol { \\mathfrak { a } }$ 中取样生成文档 $i$ 的主题分布 $\\theta _ { i }$ ：b)从主题的多项式分布 $\\theta _ { i }$ 中取样生成文档 $i$ 第 $j$ 个词的主题zij；c)从 Dirichlet 分布 $\\beta$ 中取样生成主题 $z _ { i , j }$ 对应的词语分布",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\phi _ { Z _ { i , j } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "d)从词语的多项式分布 $\\phi _ { Z _ { i , j } }$ 中采样最终生成词语 $\\omega _ { i , j }$ ：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "e)重复上述过程，就产生了文档 $i$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "该模型的输入是语料库的词袋模型，输出是两个多项式分布的参数，一个是“文档一主题”分布 $\\pmb \\theta$ ，一个是“主题一词”分布 $\\phi$ 。通过学习这两个参数，可以获得每篇论文所涵盖的主题比例等信息。本文采用Gibbs抽样法对上述参数进行推断。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2频繁项集挖掘 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "频繁项集是指那些经常一起出现的物品集合，其中，“频繁”是由设定的阈值（即最小支持度）来衡量的，一个项集的支持度被定义为数据集中包含该项集的记录所占的比例。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Apriori 算法[15]是一种挖掘关联规则的频繁项集的经典算法，使用逐层搜索的迭代方法来产生频繁项集，即通过 $( k - 1 )$ 项频繁集得到 $k$ 项频繁集，共包含两个步骤。首先，自连接获取候选集，第一轮的候选集就是数据集中的项，而其他轮次的候选集则是由前一轮次频繁集自连接得到。然后，对候选集进行剪枝，将候选集中支持度小于最小支持度的项和其子集包含非频繁集的项剪掉。最终得到频繁 $n$ 项集。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文使用Apriori算法对LDA 模型产生的文档-主题分布进行频繁项集挖掘，得到经常共同出现的主题集合，和各频繁主题集合在每篇论文中的分布情况。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 基于频繁主题集偏好的推荐模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1频繁主题集偏好",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LDA主题模型的基本思想表明，每篇论文都有一个或多个主题，即每篇论文都对应一个主题集。因此由LDA模型得到的论文-主题概率分布矩阵，如图1(a)，通过筛选论文中概率值较高的主题，可将矩阵表示成图1(b)所示的形式，每一行中值为1所对应的主题的集合即该论文所包含的主题集。显然，同一方向下的论文包含相同或相近的主题集，并且对于一个特定的主题集在不同的论文中出现的次数越多，代表在该研究方向下的关注度越高。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/95b68c8ad6db2f838e11a16b009a6875d313fe7703e9045ddc199c4860d95038.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "（a）论文-主题概率分布"
+        ],
+        "table_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "（b）论文-主题矩阵"
+        ],
+        "table_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图1数据表示",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于上述分析，频繁主题集，即经常出现在同一篇学术论文中的主题集合，在一定程度上反映了某个研究领域下的研究热点。包含研究热点的论文对用户的价值往往更大，区分论文之间在热度上的差别，可以为用户推荐更有价值的论文，因此在构建论文特征向量时，应考虑到频繁主题集的影响。尤其对于阅读量较少的论文，CTR等算法仅依赖于论文的潜在主题，将其推荐给阅读过相似论文的用户[7]，在此基础上考虑用户对频繁主题集的偏好，能进一步的提高推荐效果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2算法模型表示",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "概率矩阵分解模型是推荐算法中一种经典的推荐模型，在学术论文推荐中也有广泛应用，它将用户历史评分矩阵分解成主题空间上的用户、论文特征矩阵。该算法具有高扩展性，可以通过在算法中融合相似性、社交网络[等信息约束用户、论文特征矩阵，提高推荐效果。CTR便是基于该模型融入了论文的内容信息，将用户 $i$ 对论文 $j$ 的预测评分 $\\hat { R } _ { i j }$ 作了如下定义。其中， $\\pmb { u } _ { i }$ 和 $\\boldsymbol { \\nu } _ { { } _ { j } }$ 分别代表用户 $i$ 和论文 $j$ 的特征向量。 $\\pmb { \\theta } _ { j }$ 是通过LDA主题模型挖掘得到的论文 $j$ 在主题上的概率分布向量。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { R } _ { i j } = { \\pmb u } _ { i } ^ { T } { \\pmb \\nu } _ { j }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { \\nu } _ { j } = \\pmb { \\theta } _ { j } + \\pmb { \\varepsilon } _ { j }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用户特征向量仍旧定义为服从均值为0的高斯分布，如式",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)所示，论文特征向量的定义如式(2)所示， $\\pmb { \\mathscr { E } } _ { j }$ 为服从均值为0的高斯分布，用于平衡用户评分记录和论文内容对论文特征向量的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\pmb u } _ { i } \\sim N \\Big ( 0 \\Big | { \\sigma _ { u } } ^ { 2 } { \\pmb I } \\Big )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { \\varepsilon } _ { j } \\sim N \\Big ( 0 \\big | \\sigma _ { \\nu } ^ { \\ 2 } \\pmb { I } \\Big )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据本文上节分析，频繁主题集在用户对论文的选择上有一定的影响。因此，本文提出了基于频繁主题集偏好的协同主题回归模型，在CTR中融入频繁主题集的全局影响因子 $P$ ，提高推荐效果。模型示意图如图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/53460fd7a3768d458c2dc79df9c89a32e0f267ce1e80bb49061169feeeeab889.jpg",
+        "img_caption": [
+            "图2模型示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "向量 $\\pmb { T } _ { j } = ( 0 / 1 , 0 / 1 , . . . , 0 / 1 )$ 代表论文 $j$ 包含频繁主题集的情况， $\\pmb { T } _ { j }$ 的第 $s$ 个值取值为1，表示论文 $j$ 中含有第 $s$ 个频繁主题集。向量 $\\pmb { T } _ { j }$ 的产生过程如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)通过LDA主题模型得到论文-主题概率分布矩阵 $\\pmb \\theta$ ；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)筛选论文中概率值较高的主题，得到每篇论文包含的主题集；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)使用Apriori算法挖掘出频繁出现的主题集合，同时产生矩阵 $T$ □",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为在CTR模型中融入频繁主题集的全局影响因子，本文将用户对论文的预测评分重新定义为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\hat { R } _ { i j } = \\left\\{ \\begin{array} { l l } { g ( u _ { i } ^ { T } \\nu _ { j } + \\displaystyle \\frac { P ^ { T } T _ { j } } { t _ { j } } ) } & { , t _ { j } \\neq 0 } \\\\ { g ( u _ { i } ^ { T } \\nu _ { j } + \\displaystyle \\frac { P ^ { T } I } { | I | } ) } & { , t _ { j } = 0 } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\hat { R } _ { i j }$ 表示预测评分， $\\pmb { u } _ { i }$ 和 $\\boldsymbol { \\nu } _ { \\boldsymbol { j } }$ 的定义同式(3)(2);$g ( x ) { = } 1 / ( 1 + e x p ( - x ) )$ 为逻辑函数，将预测评分映射到[0,1]区间； $\\pmb { P } = \\left( P _ { 1 } , P _ { 2 } , . . . , P _ { s } , . . . , P _ { p } \\right)$ 是频繁主题集的影响因子向量，$P _ { s }$ 表示频繁主题集 $s$ 在用户对论文评分时产生的影响值， $p$ 是频繁主题集的维度； $t _ { j }$ 表示论文 $j$ 中包含频繁主题集的个数，即向量 $\\pmb { T } _ { j }$ 中1的个数。当论文 $j$ 中不含任何频繁主题集时，将频繁主题集的影响值定义为所有频繁主题集的影响值的平均值，向量 $\\boldsymbol { { \\cal I } }$ 表示单位向量。并且，假定向量 $P$ 和向量 $\\pmb { u }$ 和 $\\pmb { \\nu } -$ 样服从均值为0的高斯分布：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\np \\big ( P | \\sigma _ { p } \\big ) = N \\big ( P | 0 , \\sigma _ { p } ^ { 2 } { \\pmb  I } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "则可推导出损失函数的定义，如式(7)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$R _ { i j }$ 是用户 $i$ 对论文 $j$ 的真实评分； $I _ { i j }$ 为指示函数，如果用户 $i$ 对论文 $j$ 有过操作，则返回1，否则返回0； $\\lambda _ { u }$ 、 $\\lambda _ { \\nu }$ 和 $\\lambda _ { p }$ 分别为 $u _ { i } \\setminus \\nu _ { j }$ 和 $P$ 的正则化参数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过对向量 $u _ { i } \\setminus \\nu _ { j }$ 和 $P$ 实施随机梯度下降法，如式(8)所",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "示，可以求解使损失函数取最小值的用户、论文潜在主题向量以及频繁主题集的影响因子向量 $P$ 的值，从而通过式（1）预",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "测未知评分。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE = \\frac { 1 } { 2 } \\sum _ { i = 1 } ^ { N } \\sum _ { j = 1 } ^ { M } I _ { i j } \\left( R _ { i j } - \\hat { R } _ { i j } \\right) ^ { 2 } + \\frac { 1 } { 2 } \\lambda _ { u } \\sum _ { i = 1 } ^ { N } u _ { i } ^ { T } u _ { i } + \\frac { 1 } { 2 } \\lambda _ { \\nu } \\sum _ { j = 1 } ^ { M } \\left( \\nu _ { j } - \\pmb { \\theta } _ { j } \\right) ^ { T } \\left( \\nu _ { j } - \\pmb { \\theta } _ { j } \\right) + \\frac { 1 } { 2 } \\lambda _ { p } p ^ { T } p ^ { T } \\mu _ { u } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } {  { \\frac { \\hat { \\alpha } E } { \\hat { \\alpha } u _ { i } } = \\sum _ { j = 1 } ^ { M } I _ { i j } ( R _ { i j } - \\hat { R } _ { i j } ) ( - g ^ { \\prime } ( \\boldsymbol u _ { i } ^ { T } \\boldsymbol \\nu _ { j } + \\frac { P ^ { T } T _ { j } } { t _ { j } } ) ) \\boldsymbol \\nu _ { j } + \\lambda _ { u } \\boldsymbol u _ { i } , } } \\\\ & { \\frac { \\hat { \\alpha } E } { \\hat { \\alpha } \\boldsymbol \\nu _ { j } } = \\sum _ { i = 1 } ^ { N } I _ { i j } ( R _ { i j } - \\hat { R } _ { i j } ) ( - g ^ { \\prime } ( \\boldsymbol u _ { i } ^ { T } \\boldsymbol \\nu _ { j } + \\frac { P ^ { T } T _ { j } } { t _ { j } } ) ) \\boldsymbol u _ { i } + \\lambda _ { \\nu } ( \\boldsymbol \\nu _ { j } - \\boldsymbol \\theta _ { j } ) , } & \\\\ & { \\frac { \\hat { \\alpha } E } { \\hat { \\alpha } P } = \\sum _ { i = 1 } ^ { N } \\sum _ { j = 1 } ^ { M } I _ { i j } ( R _ { i j } - \\hat { R } _ { i j } ) ( - g ^ { \\prime } ( \\boldsymbol u _ { i } ^ { T } \\boldsymbol \\nu _ { j } + \\frac { P ^ { T } T _ { j } } { t _ { j } } ) ) ( \\frac { T _ { j } } { t _ { j } } ) + \\lambda _ { p } P } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 实验结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1实验方案",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文采用由CiteULike 网站(http://www.citeulike.org)提供的数据集(http://www.citeulike.org/faq/data.adp)。该数据集包括从2004年到2010 年的16980 篇论文和5551个用户，每个用户都有自己的论文库，其中记录着用户浏览过的论文，共包含了204986对用户-论文浏览记录。实验过程中，基于16980 篇论文依次采用LDA主题模型算法和Apriori 算法，挖掘出频繁出现的主题集合。并且，将每篇论文表示为以频繁主题集合为维度的向量。依次得到矩阵 $\\pmb \\theta$ 和矩阵 $T$ ，作为预测未知评分时的已知参数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "按照 $80 \\%$ 和 $20 \\%$ 的比例将用户-论文浏览记录划分为训练集和测试集，进行如下实验：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)分析频繁主题集的数量、参数 $\\lambda _ { p }$ 对基于频繁主题集偏好的协同主题回归模型的影响，以确定合理的参数值；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b)对比本文模型和PMF、CTR的推荐效果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2评测标准",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在评分预测系统中常采用均方根误差（rootmean squarederror，RMSE）作为度量标准，RMSE 越小，则推荐准确度就越高。RMSE的求解公式如下，其中Test是测试集合。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR M S E = \\sqrt { \\frac { \\displaystyle \\sum _ { ( i , j ) \\in T e s t } \\left( R _ { i j } - R _ { i j } ^ { ~ \\prime } \\right) ^ { 2 } } { \\left| T e s t \\right| } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "除此之外，推荐系统的目的是向用户推荐用户可能感兴趣的论文，因此，本文在预测用户对论文的评分之后，对用户预测评分进行排序，选取评分分值大且没有被用户操作过的论文推荐给用户，并采用召回率和准确率来衡量推荐效果。假设向用户推荐预测评分最高的 $\\mathbf { m }$ 篇论文，对于特定用户，其推荐的召回率和准确率定义为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr e c a l l @ m = \\frac { T P } { T P + F N }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\np r e c i s i o n @ m = \\frac { T P } { T P + F P }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$T P$ 是推荐列表中用户喜欢的论文数量， $F N$ 是没有推荐给用户但用户喜欢的论文的数量， $F P$ 是推荐列表中用户不喜欢的论文的数量。推荐算法的召回率定义为所有用户的推荐召回率的平均值，推荐算法的准确率定义为所有用户的推荐准确率的平均值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "此外，召回率和准确率会出现矛盾的情况，所以经常采用F-measure方法去综合考虑两者。F-measure是召回率和准确率的加权调和平均，特别地，当 $\\alpha = 1$ 时，就是最常见的 $F 1$ 。本文采用 $F 1$ 来衡量推荐效果。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF - M e a s u r e = \\frac { ( \\alpha ^ { 2 } + 1 ) \\cdot p r e c i s i o n \\cdot r e c a l l } { \\alpha ^ { 2 } ( p r e c i s i o n + r e c a l l ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3实验结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.1参数p对推荐效果的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在挖掘频繁出现的主题集阶段，当最小支持度设置为不同的值时，得到的频繁主题集的数量也有所不同，反映了当前论文集中的研究热点的分布。设定LDA模型的主题个数为200，最小支持度分别取0.0014、0.00125、0.00118、0.0012、0.00105，可找出满足这些最小支持度频繁出现的主题集合的数量分别是54，81，97，118，159。表1给出了在推荐列表长度 $k$ 不同的情况下，模型的平均召回率随频繁主题集数量的变化而呈现的不同值。RMSE 的变化趋势，如图(3)所示。实验中的其他参数的设置分别为 $\\lambda _ { u } = 0 . 1$ 、 $\\lambda _ { _ \\nu } = 0 . 1$ 、 $\\lambda _ { _ p } = 1$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/62138fad9954239706770415179414dae150b31f9fff6679014c42606db4f9a9.jpg",
+        "table_caption": [
+            "表1频繁主题集数量不同时召回率的对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">推荐列表长度</td><td colspan=\"5\">频繁主题集数量</td></tr><tr><td>P=54</td><td>P=81</td><td>P=97</td><td>P=118</td><td>P=159</td></tr><tr><td>k=200</td><td>0.7743</td><td>0.7901</td><td>0.7851</td><td>0.7706</td><td>0.7538</td></tr><tr><td>k=150</td><td>0.6909</td><td>0.7087</td><td>0.6912</td><td>0.6895</td><td>0.6701</td></tr><tr><td>k=100</td><td>0.5855</td><td>0.5978</td><td>0.5782</td><td>0.5768</td><td>0.5649</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/3128309b630089b8475cdc20593a848318f85352058a81aeb234babc455f7ba3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>k=50</td><td>0.4241</td><td>0.4336</td><td>0.4188</td><td>0.4178</td><td>0.4068</td></tr><tr><td>k=10</td><td>0.1663</td><td>0.1757</td><td>0.1658</td><td>0.1654</td><td>0.166</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/884b4c1336b6d51fe5536b018bf4886284863ec0ff44fedf67c7c898feec74b1.jpg",
+        "img_caption": [
+            "图3p对RMSE的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "频繁主题集的数量越多，RMSE先随之减小，召回率也相应上升，算法性能提高；但频繁主题集的数量超过一定程度，推荐效果有所降低。实验结果表明，在挖掘频繁主题集时，设置合理的最小支持度，获得与研究热点相对应的频繁主题集，可以使本文算法取得最优的推荐效果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.2正则化参数 $\\lambda _ { p }$ 对推荐效果的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式(7)中的参数 $\\lambda _ { p }$ 越小，在预测未知评分时，用户对频繁主题集的偏好所占的比重越大。为探究频繁主题集对评分的影响，正则化参数 $\\lambda _ { \\mathfrak { u } }$ 、 $\\lambda _ { \\nu }$ 的设置同上节，选取不同的 $\\lambda _ { p }$ 来衡量 $\\lambda _ { p }$ 对算法性能的影响。实验结果表明，当 $\\begin{array} { r } { \\lambda _ { p } = 1 } \\end{array}$ 时，本文算法的召回率达到最优，RMSE 的值也较小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.3推荐算法比较",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文模型由原始的PMF模型扩展而来，并借鉴CTR的思想，与PMF 和CTR模型对比，能够直接体现出本文模型在召回率、准确率和RMSE等基准上的提高。因此在本文的实验中，选取了这两种模型作为实验的比较对象。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过实验，分别得到了使三种模型达到最优效果的参数设置，三种模型的特征空间维度均为200，PMF 和CTR中$\\lambda _ { _ u } = \\lambda _ { _ \\nu } = 0 . 0 1$ ,本文模型中 $\\lambda _ { _ u } = \\lambda _ { _ \\nu } = 0 . 1$ 、 $\\lambda _ { p } = 1$ 。在此基础上，设定推荐列表长度 $\\mathbf { k }$ 分别取 $\\{ 2 0 0 , 1 5 0 , 1 0 0 , 5 0 , 1 0 \\}$ ，对比三种模型在召回率、准确率和RMSE上的效果。表2展示了详细的实验结果数据，图4展现了三种模型在推荐效果上的对比。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验结果表明，在推荐列表长度不同时，本文模型的召回率、准确率和F1都明显优于PMF和CTR，RMSE的值也有所降低。并且，论文一频繁主题集矩阵T可以离线计算，因此本文模型以较小的时间开销代价，获取了推荐效果的提升。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e5c252675624d73ced569cde6a3efb5d9f1e0f32a5a992b1c58887d79c387c9b.jpg",
+        "img_caption": [
+            "(a)三种模型的召回率对比 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d6d74bada0f84bc3b5133d45b7f2bcb81d228cad0b3880f0c4d91aff9565d343.jpg",
+        "img_caption": [
+            "(b)三种模型的准确率对比 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7058587fe3778818bddaa53abb81ade1f9fe6f940bacfa06f7b927151fdbea7f.jpg",
+        "img_caption": [
+            "图4三种算法的性能对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/76a6f547ef765dcf9868e0071348a3a53a7b9f4dd84d366a03407e29cf18448b.jpg",
+        "table_caption": [
+            "表2三种算法的性能对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>指标</td><td>算法</td><td>k=200</td><td>k=150</td><td>k=100</td><td>k=50</td><td>k=10</td></tr><tr><td rowspan=\"4\">召回率</td><td>PMF</td><td>0.7151</td><td>0.6426</td><td>0.5475</td><td>0.4078</td><td>0.1673</td></tr><tr><td>CTR</td><td>0.7511</td><td>0.6701</td><td>0.5685</td><td>0.4171</td><td>0.1725</td></tr><tr><td>本文 模型</td><td>0.7901</td><td>0.7087</td><td>0.5978</td><td>0.4336</td><td>0.1757</td></tr><tr><td>PMF</td><td>0.0142</td><td>0.0168</td><td>0.0213</td><td>0.0314</td><td>0.0579</td></tr><tr><td rowspan=\"3\">准确率</td><td>CTR</td><td>0.0149</td><td>0.0176</td><td>0.0221</td><td>0.0325</td><td>0.0591</td></tr><tr><td>本文</td><td>0.0158</td><td>0.0188</td><td>0.0235</td><td>0.0342</td><td>0.0637</td></tr><tr><td>模型</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"4\">RMSE</td><td>PMF</td><td></td><td></td><td>0.6665</td><td></td><td></td></tr><tr><td>CTR</td><td></td><td></td><td>0.622</td><td></td><td></td></tr><tr><td>本文</td><td></td><td></td><td>0.5475</td><td></td><td></td></tr><tr><td>模型</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文考虑到频繁主题集在用户选择论文时的影响，提出基于频繁主题集偏好的协同主题回归模型，力求帮助用户找到更有价值的学术论文。在真实数据集上的实验证明，基于频繁主题集偏好的协同主题回归模型，对比PMF和CTR模型，在召回率和准确率上都有一定的提高。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于用户个性化的需求，频繁主题集的影响值针对不同用户可能不同，因此构建用户敏感的频繁主题集影响向量是下一步的研究重点。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Ramos J.Using TF-IDF to determine word relevance in document queries [C]//Proc of the lst Instructional Conference on Machine Learning.2003: 1-4.   \n[2]Lops P,Gemmis MD, Semeraro G.Content-based recommender systems: state of the art and trends [M].New York: Springer, 2011: 73-105.   \n[3]Philip S,Shola PB,Ovye A.Application of content-based approach in research paper recommendation system for a digital library [J]. International Journal of Advanced Computer Science & Applications,2014,5(10):37-40.   \n[4]Krestel R,Fankhauser P,Nejdl W.Latent Dirichlet allcation for tag recommendation [Cl//Proc of the 3th ACM Conference on Recommender Systems.New York: ACM Press,2009: 61-68.   \n[5] 黄泽明．基于主题模型的学术论文推荐系统研究[D].大连：大连海事 大学,2013.(Huang Zeming. Research on recommended system of scholar paper based on topic model[D] Dalian: Dalian Maritime University,2013.)   \n[6]Salakhutdinov R,Mnih A.Probabilistic matrix factorization [C]// Proc of the 20th International Conference on Neural Information Processing Systems.USA: Curran Associates Inc.2007:1257-1264.   \n[7]Wang Chong, Blei DM. Collaborative topic modeling for recommending scientific articles [C]//Proc of ACM SIGKDD: International Conference on Knowledge Discovery and Data Mining.New York: ACM Press,2011: 448- 456.   \n[8]Blei D M,Ng AY, Jordan MI. Latent Dirichlet allocation [J].JMachine Learning Research Archive,2003,3:993-1022.   \n[9]Wang Hao,Wang Naiyan,Yeung DY.Collaborative deep learning for recommender systems [C]//Proc of International Conference on Knowledge Discovery and Data Mining.New York:ACMPress,2015:1235-1244.   \n[10]卢美莲，张正林，刘智超.MFWT:一种推荐学术论文的混合模型[J]. 北京邮电大学学报,2016,39(4):24-29.(Lu Meilian,Zhang Zhenglin,Liu Zhichao.MFWT:a hybrid model for academic paper recommender [J]. Journal of Beijing University of Posts and Telecommunications,2016,39 (4): 24-29. )   \n[11] Li Jingming, Cheng Jiaxing, Zhang Wei,et al. The research on construction of library website personalized recommendation model based on improved collaborative filtering algorithm [J]．Journal of Changchun Normal University,2016.35 (2): 43-48.   \n[12] Zhang Libin.Research on the application of collaborative filtering technology in the personalized recommendation service for academic resources of university libraries [J].Hebei Library Journal of Science & Technology,2017.30 (4): 85-88.   \n[13] Wang Hao，Li Wujun.Relational collaborative topic regression for recommender Systems [J]. IEEE Trans on Knowledge & Data Engineering, 2015,27(5): 1343-1355.   \n[14] Wang Hao,Chen Binyi,Li Wujun. Collaborative topic regression with social regularization for tag recommendation $[ \\mathrm { C } ] / \\AA$ Proc of International Joint Conference on Artificial Intelligence.Palo Alto:AAAI Press,2013:2719- 2725.   \n[15] Agrawal R, Imielinski T, Swami AN.Mining association rules between sets of items in large databases,SIGMOD Conference [C]// Proc of ACM SIGMOD International Conference on Management of Data.New York: ACM Press.1993:207-216.   \n[16] Wu Liaoyuan，Jiang Jun,Wang Gang.Study of scientificpaper recommendation method based on unified probabilistic matrix factorization in scientific social networks [J].Computer Science,2016,43 (9): 219-223. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

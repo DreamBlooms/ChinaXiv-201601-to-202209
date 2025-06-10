@@ -1,0 +1,123 @@
+# 基础研究
+
+# KA1亚受体在内质网应激致海马神经元死亡中的作用
+
+袁 磊'，龚济钦'，张海霞²,钱诗蕾²，徐 斌²，曾杰³,赵 娟,禹华旭3,4  
+长沙医学院1第一临床学院2010级，第一临床学院2011级，湖南省重点建设学科,湖南长沙 410219;湖南师  
+范大学4附属长沙市第四医院普外科,湖南 长沙 410006
+
+摘要：目的 探究KA1亚受体的表达上调在内质网应激致海马神经元死亡中的作用。方法 将70只成年雄性昆明小鼠随机分为红藻氨酸组(KA组）、衣霉素组( $\Gamma \mathbf { M } ) 5 0 0 \mu \mathrm { g / m l }$ 组 $\mathbf { \cdot T M 1 0 0 0 } ~ \mathbf { \mu g / m l }$ 组和 $\mathrm { T M } 2 0 0 0 ~ \mu \mathrm { g / m l }$ 组,海马内注射KA或不同浓度TM,不同时间段（ $( 1 、 2 、 3 、 4 、 5 、 8 、 1 2 \mathrm { h } )$ 灌注取脑，灌注取脑前进行Bederson体征评分，全脑切片FJB染色和免疫组化分析。结果KA组第3、4、5、8h和 $\mathrm { T M } 2 0 0 0 ~ \mathrm { \mu g / m l }$ 组第4、5小时,Bederson体征评分表明中枢神经功能出现明显损伤,FJB染色示海马内细胞死亡增加，免疫组化示KA1和P-eIF2α在海马神经元的表达明显上调( $( P { < } 0 . 0 5 )$ 。结论海马内注射KA或TM后结果显示内质网应激中有KA1的表达,在神经元凋亡过程中膜外受体KA1可能首先接受凋亡信号,并向细胞内传导,引起内质网功能紊乱，诱发内质网应激,并进一步促使神经元调亡。
+
+关键词：KA1亚受体;红藻氨酸；衣霉素;内质网应激;糖尿病脑病;海马;脑立体定位;Bederson体征评分;免疫组织化学
+
+# Role of KA1 receptor in excitotoxic neurodegeneration in mouse hippocampus triggered by kainic acid- or tunicamycin-induced endoplasmic reticulum stress
+
+YUANLei,GONGJiqin’,ZHANGHaixia,QIANShilei²,XUBin2,ZENGJie,ZHAO Juan3，YUHuaxu34 Grade2010GradetClclClg;Keysiplsiuanronceagshedicalnesityag1 China;DepartmentofGeneralSurgery,theFourthHospital,HunanNormalUniversityChangsha4oo6,China
+
+Abstract: Objective Toexplore the efectof up-regulation of KA1 subunitof the kainate receptor on endoplasmic reticulum stress (ERS)-induced excitotoxic neurodegeneration in mouse hippocampus. Methods Seventy adult male KM mice were subjected to microinjections into the hippocampus of kainic acid (KA) or 500,1000, or $2 0 0 0 ~ \mu \mathrm { g / m l }$ tunicamycin (TM). At 1, 2, 3, $4 , \ 5 , \ 8 ,$ and $^ { 1 2 \mathrm { ~ h ~ } }$ after the injections, the mice were assessed for Bederson scores and sacrificed for FJB staining and immunofluorescence observation of the brain slices. ResultsAt 3, 4, 5,and $^ { 8 \mathrm { { h } } }$ after KA injection and at 4 and $^ { 5 \mathrm { h } }$ after of 2000 $\mu \mathrm { g / m l }$ TM injection,the mice showed severe central nervous system dysfunction,and FJB staining revealed increased cell death in the hippocampus, where up-regulated expresions of KA1 receptor and ERS marker P-eIF2α were found by immunofluorescence staining $( P { < } 0 . 0 5 )$ . Conclusion Microinjection of KA or TM into the hippocampus causes neuronal death and ERS with up-regulated expresionofKA1.Inthis process of neuronalapoptosis, themembranereceptor KA1receives the apoptosissignaland transfersitothe insideof thecels tocausecellendoplasmicreticulumdysfunctionand ERS response, which ultimately leads to neuronal death.
+
+Key words: KA1 subunit,kainatereceptor; kainicacid;tunicamycin; endoplasmicreticulumstress; diabeticencephalopathy; hippocampus; brain in stereotaxic; bederson score; immunohistochemistry
+
+兴奋性氨基酸是广泛存在于哺乳类动物中枢神经系统的正常兴奋性神经递质，参与突触兴奋传递，学习记忆形成以及与多种神经退行性疾病有关。红藻氨酸(kainicacid,KA)是一种具有强烈致痫作用的兴奋性离子型谷氨酸受体激动剂，其受体由五种亚受体组成：
+
+GluR5、GluR6、GluR7、KA1、KA2，在中枢分布主要集中在海马区、皮质区、小脑、杏仁核和脊髓等区域[-2。近年来，用KA诱导KA1表达上调致神经元凋亡在神经退行性病变疾病的研究中已经受到重视[13-4],但鲜有关于KA体内注射诱导KA1表达上调与内质网应激关系的报道，KA可否成为体内诱导内质网应激的较经典的药物呢?
+
+内质网应激(ERS)诱导细胞凋亡是近年来研究的热点话题，研究表明阻断内质网应激可抑制内质网相关性细胞凋亡[5-7]。衣霉素(TM)可引起蛋白质糖基化障碍导致细胞发生内质网应激，是目前体外用于诱导细胞内质网应激较经典的药物89，国内体外常用浓度为(0.1\~20) $\mu \mathrm { g / m l } ^ { [ 1 0 - 1 1 ] }$ 。TM用于体内诱导细胞内质网应激的文献报道不多,华中科技大学付政祺[12于其博士论文中始采用侧脑室注射 $( 2 5 { \sim } 7 5 \ \mu \mathrm { m o l / L }$ TM10μl诱导内质网应激。但鲜有海马内注射高浓度(500\~2000)$\mu \mathrm { g / m l }$ TM诱导内质网应激和KA1表达的相关研究。海马神经元具有高度发达的内质网，对内质网内稳态紊乱极为易感，理论上可作为诱导内质网应激的理想场所。海马内注射TM诱导内质网应激和KA1亚受体表达能否由理论变为现实呢?本文重点探讨了KA1亚受体的表达上调在内质网应激致海马神经元死亡中的作用。
+
+# 1 材料和方法
+
+# 1.1实验动物
+
+成年(8\~10周)昆明雄性小鼠70只,体质量 $2 3 { \pm } 2 \ \mathrm { g }$ 动物室内温度 $1 8 { \pm } 3 ~ \mathrm { { ^ circ C } }$ ，湿度 $( 5 0 { \pm } 2 0 ) \%$ ,每日光照 $1 2 \mathrm { h }$ 由湖南斯莱克景达实验动物有限公司提供，许可证号：SCXK(湘)2011-0003。所有的动物实验均遵守1995年神经科学协会颁布的《动物使用政策》。
+
+# 1.2主要试剂
+
+Kainic acid(KA）、Tunicamycin(TM)购自 Sigma公司；goat anti-KA1 receptor、rabbit anti-phospho-eIF2α(ser51) 购自 Santa Cruz; rabbit anti-goat IgG,TRITCConjugated、goat anti-rabbit IgG,TRITC Conjugated、goatanti-rabbitIgG,FITCConjugated购自北京鼎国；Fluoro-Jade B（FJB）购自 Histo-Chem; $0 . 3 \%$ TritonX-100购自国药集团化学试剂有限公司。
+
+# 1.3 动物分组
+
+C57BL6雄性小鼠70只随机分为：KA组，每组分为7个不同时间段(海马内注射KA后第1、2、3、4、5、8和12小时)，每个时间段4只；不同浓度TM组，分为$\mathrm { T M 5 0 0 ~ \mu g / m l , T M 1 0 0 0 ~ \mu g / m l , T M 2 0 0 0 ~ \mu g / m l }$ 三个组，每组浓度分为7个不同时间段(海马内注射TM后第1、2、3、4、5、8和12小时)，每个时间段2只。
+
+# 1.4动物模型制作[]
+
+小鼠腹腔内注射 $2 . 5 \%$ 的三溴乙醇 $( 0 . 0 2 \mathrm { m l / g } )$ 麻醉,然后将其固定在脑立体定位仪(中国瑞沃德)上，使用微量注射器将0.15nmolKA( $3 0 0 ~ \mathrm { n l } { \times } 0 . 5$ mmol/L)或$\mathrm { T M } ( 5 0 0 , 1 0 0 0 , 2 0 0 0 ~ \mu \mathrm { g / m l } ) 3 0 0 ~ \mathrm { n l }$ 分别注射进CA1区域(药物注射定位坐标依照立体定位图谱进行定位[13],确定前后凶在同一水平线上后，以前白为零点，前凶以后$1 . 8 ~ \mathrm { m m }$ ，旁开 $1 . 7 ~ \mathrm { m m }$ ，深度 $1 . 6 ~ \mathrm { m m } ,$ ,注射时间为 $6 0 ~ \mathbf { s } _ { \scriptscriptstyle \mathrm { 0 } }$ 注射完后将针头后撤 $0 . 1 ~ \mathrm { m m }$ ，停留 $2 ~ \mathrm { m i n }$ 便于所注射的液体在CA区域扩散吸收。麻醉清醒并于注射药物 $2 \mathrm { h }$ 后，对小鼠进行Bederson体征评分，随后经心脏灌注生理盐水再灌注体积分数为 $4 \%$ 甲醛,取全脑，置于 $4 \mathrm { { ^ { \circ } C } }$ 的冰箱固定过夜（ $( 1 8 { \sim } 2 4 \mathrm { h } )$ ，次日置于 $30 \%$ 蔗糖PBS溶液$4 8 \mathrm { h }$ ，至脑沉底。将全脑在 $- 3 0 \mathrm { { ^ { \circ } C } }$ 冷冻切片机切片，厚度$2 0 \mu \mathrm { m }$ ，切片保存在 $0 . 0 2 \%$ 叠氮化钠的PBS溶液里。
+
+# 1.5 FJB染色流程[14-15]
+
+(1)将固定的脑切片移至载玻片于 $4 \mathrm { { ^ { \circ } C } }$ 过夜， $5 5 ~ \mathrm { { ^ { \circ } C } }$ 干燥 $2 \mathrm { h }$ ;(2)待玻片冷却后，浸入 $1 \%$ 的 $\mathrm { \Delta N a O H }$ 的 $80 \%$ 的乙醇 $2 ~ \mathrm { m i n }$ ；(3) $70 \%$ 乙醇浸泡 $2 ~ \mathrm { m i n }$ ;(4)水洗 $2 ~ \mathrm { m i n } \times 1$ 次；(5) $0 . 0 6 \%$ 高锰酸钾浸泡 $1 0 ~ \mathrm { { m i n } }$ ;(6)水洗 $2 ~ \mathrm { m i n } \times 1$ 次；(7)使用 $0 . 0 0 0 4 \%$ FJB染色 $2 0 ~ \mathrm { m i n }$ ;(8)水洗 $1 \operatorname* { m i n } \times 3$ 次；(9)将载玻片于 $5 0 ~ \mathrm { ^ { \circ } C }$ 干燥 $1 0 ~ \mathrm { m i n }$ 后，通过荧光显微镜观察细胞死亡情况。
+
+# 1.6Bederson体征评分
+
+依据Bederson体征评分标准分为四个功能等级16：0分：无神经缺失症状，无任何异常行为;1分：瘫痪侧前肢屈曲(悬尾试验不能完全伸展对侧前爪)；2分：提尾时，前肢抵抗对侧推力能力下降(伴有前肢屈曲),未出现向瘫痪侧的自发性旋转运动；3分：提尾时，出现2分的体征同时伴有向瘫痪侧的自发性旋转运动。对海马内注射KA后的小鼠在灌注取脑前进行Bederson体征评分，以确定海马内注射KA后对小鼠中枢神经功能的影响。
+
+# 1.7免疫组织化学方法步骤[17]
+
+(1)将固定的脑切片移至载玻片于 $4 ^ { \circ } \mathrm { C }$ 过夜，取片、复温干燥、画蜡圈；(2)水洗 $5 \mathrm { m i n } \times 3$ 次； $( 3 ) 3 \% \mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 常温浸泡 $1 0 ~ \mathrm { { m i n } }$ ;(4)超纯水洗 $5 \mathrm { m i n } \times 2$ 次； $( 5 ) 1 { \times } \mathrm { P B S - T }$ $( 1 \times \mathrm { P B S } / 0 . 1 \%$ Triton-100)洗 $5 \ \mathrm { m i n } { \times } 1$ 次； $( 6 ) 5 \%$ 小牛血清的 $1 \times \mathrm { P B S }$ -T溶液常温封固1h;(7)一抗goat anti-KA1receptor或rabbitanti-phospho-eIF2α工作浓度分别为$1 : 2 0 0$ 和 $1 : 4 0 0$ ，切片置于 $4 ^ { \circ } \mathrm { C }$ 含一抗的体积分数为 $3 \%$ 小牛血清和 $0 . 1 \%$ Triton-100的PBS溶液中反应过夜;(8)次日， $1 { \times } \mathrm { P B S { - } T }$ 洗 $5 \operatorname* { m i n } \times 3$ 次；(9)然后切片分别在相应的荧光二抗里（工作浓度都为 $1 : 2 0 0 \dot { }$ 常温黑暗环境孵育 $\boldsymbol { 1 } \mathbf { h } _ { \circ }$ 然后水洗烘干后在荧光显微镜下观察检测。
+
+# 1.8 统计学分析
+
+应用SPSS16.0软件进行统计学处理。通过Student$t$ -test检验每个时间段组的差异性， $P { < } 0 . 0 5$ 认为有统计学意义。
+
+# 2结果
+
+2.1FJB神经元死亡结果与实验动物数量分析
+
+FJB示KA组第3、4、5和8小时时间段神经细胞死亡明显 $( P { < } 0 . 0 5 )$ ,均进入结果分析;第1、2和12小时时间段结果不明显。TM组中，不同浓度的TM诱导内质网应激致海马神经元凋亡的情况不同,TM $1 5 0 0 ~ \mathrm { \mu g / m l }$ 和TM $1 0 0 0 ~ \mathrm { \mu g / m }$ 组，死亡不明显( $P { > } 0 . 0 5 )$ ;以TM $2 0 0 0 ~ \mu \mathrm { g / m l }$ 中4和 $5 \mathrm { h }$ 结果明显( $( P { < } 0 . 0 5 )$ ,进入结果分析(图1)。
+
+# $2 . 2 \ \mathrm { K A }$ 组Bederson体征评分和免疫组化结果
+
+结果发现,第3、4、5和8小时时间段的小鼠海马内注射KA后大多数评分为3分，提示在海马内注射KA的第3、4、5和8小时时间段内出现严重的中枢神经功能障碍。根据Bederson体征评分和FJB结果，取第3、4、5和8小时时间段的脑片做免疫组化，结果显示KA1亚受体和P-eIF2a在海马神经元的表达明显上调，结果中红色荧光即代表KA1的表达，这与先前的研究结果完全吻合[1-3],绿色荧光代表内质网应激标志物P-eIF2a的表达(图2)。
+
+![](images/b4c6a2a6e842c1dcd7b4ee8650c376c784a3d078868303fa24311fc5463d5d0c.jpg)  
+图1FJB染色 Fig.1 FJB staining.A: KA3 h; B:KA4 h; C: KA5h; D: KA8 h; E: TM4 h; F: TM5 h.
+
+# 2.3不同浓度TM组Bederson体征评分和免疫组化结果
+
+对不同浓度TM组在灌注取脑前进行Bederson体征评分结果发现，小鼠海马内注射 $\mathrm { T M } 5 0 0 ~ \mu \mathrm { g / m l }$ 组、$\mathrm { T M 1 0 0 0 ~ \mu g / m l }$ 组和第1、2、3、8和12小时时间段的$\mathrm { T M } 2 0 0 0 ~ \mu \mathrm { g / m l }$ 组大多数评分为0-1分，而第4、5小时时间段的 $\mathrm { T M } 2 0 0 0 ~ \mu \mathrm { g / m l }$ 组大多数评分为3分，提示在海马内注射 $\mathrm { T M } 2 0 0 0 ~ \mu \mathrm { g / m l }$ 的第4和5小时时间段出现明显的中枢神经功能障碍。根据Bederson体征评分和FJB结果,取 $\mathrm { T M } 2 0 0 0 \mu \mathrm { g / m l }$ 组第4、5小时时间段的脑片做免疫组化，结果显示KA1的表达上调(图3A、B、E和F)和P-eIF2α的表达增加(图3C、D、G和H)。
+
+# 3讨论
+
+学习记忆是中枢神经系统的重要功能，学习记忆功能的实现表达不仅需要足够数量的神经元，并且需要神经元之间形成复杂的突触联系。海马是神经中枢记忆回路的重要结构是介导应激反应的重要脑区[18],是糖尿病脑病的主要病变部位[19]。在中枢神经系统中，海马是脑内对神经病理事件如脑缺血和脑外伤等脆弱的区域之一[20],对代谢应激存在较高的易损性,它的异常改变是糖尿病患者和糖尿病动物模型学习和记忆损害的结构基础21。研究证明,对许多慢性损伤如外伤、缺血、缺氧、衰老、高血糖、高血脂和高血压等较敏感,在这些致病因素的作用下海马神经元数量减少，形态异常或功能失调，引起神经退行性病变的发生22]。体内发生内质网应激时，它通过引起胰岛素信号转导障碍，造成脑内胰岛素抵抗，从而引起了糖尿病脑病的发病。而阻断内质网应激可抑制内质网相关性细胞凋亡，其细胞保护作用在心血管、内分泌及代谢、神经(糖尿病脑病)等多种系统疾病的发生、发展过程中有重要意义[5。糖尿病脑病的发病机制复杂，目前尚不能以单一学说解释其真正发病原因，近年来对糖尿病脑病的研究主要集中在代谢因素、氧化应激、微血管内皮细胞功能损伤、免疫紊乱和细胞凋亡等问题上，而作为细胞凋亡三大经典途径之一的内质网凋亡途径也是目前研究的热点[23]。闫颖等[24实验发现ERS相关分子CHOP在DM小鼠海马CA1区表达比正常小鼠增加，证明了糖尿病脑病小鼠海马组织内发生了ERS,ERS可能在糖尿病脑病神经元变性中发挥重要作用。
+
+![](images/926c02a73e648de39d668c938e429ca8de9bafed56fd482f92d2908e0f718178.jpg)  
+图2KA组免疫组化结果 Fig.2Immunohistochemicaltainingresults inKAgroup.TheredcolorrepresentsexpressionofKAlreceptorsandgreentheendo plasmicreticulumressmarkersP-eF2expresionchwereothup-reguatedA-DKA3h;E-HKA4h;-LKA5h;M-:K8
+
+![](images/eb27d357b4c4dafa3efe6dcafd514a3d147cc4076ab3c8388aec53086a2d201f.jpg)  
+图3 $\mathrm { T M } 2 0 0 0 \mu \mathrm { g / m l }$ 组免疫组化结果 Fig.3 Immunohistochemistry in TM $2 0 0 0 ~ \mu \mathrm { g / m l }$ group.A, B, E and F: Expression of KA1 receptors; C,D, $G$ and H: P-eIF2α expression. A-D:TM4 h; E-H: TM5 h.
+
+谷氨酸是一种重要的中枢兴奋性神经递质，通过作用于促代谢型谷氨酸受体(mGluR)和离子型谷氨酸受体(iGluR),参与机体多种重要的生理活动。其中离子型受体可分为3种亚型：NMDA受体、AMPA受体和KA受体。KA1是离子型谷氨酸受体(iGluR)KA受体的亚型，是主要位于神经元表面的突触受体，它通过激活突触后膜受体参与兴奋性神经传递。根据KA受体结构的同源性以及对 $\mathrm { [ ^ { 3 } H ] }$ kainate的亲和力，KA1属于高亲和力亚型。KA1可与GluR5、GluR6异聚组合，但KA1在宿主细胞中表达时并不能形成功能性的离子通道。在对受体的转录研究发现KA1的mRNA主要存在于海马CA3区，在齿状回、下托亦有分布，而其蛋白质的表达主要存在CA1锥体细胞层、透明细胞层和DG的多形细胞层[1-2]。我们以往对层粘连蛋白和组织纤溶酶原激活物的研究显示，阻断LN的水解或敲除tPA都可以降低KA诱导KA1表达上调对神经元的兴奋毒性作用[3]。
+
+TM可引起蛋白质糖基化障碍导致细胞发生内质网应激，是目前用于体外诱导细胞内质网应激较经典的药物，已广泛用于诱导L6骨骼肌细胞、心肌细胞、螺旋神经节细胞和肝细胞产生内质网应激[。那么,KA可否成为体内诱导内质网应激的较经典的药物呢？近年来，用KA海马内给药诱导KA1的表达上调致神经元凋亡3及体外或侧脑室使用TM诱导内质网应激，都已得到很好的应用，但鲜有海马内注射KA诱导内质网应激或海马内注射高浓度TM诱导KA1表达和内质网应激的报道。我们在实验过程中发现，KA海马内注射后第3、4、5和8小时时间段出现KA1表达上调的同时，伴有内质网应激标志物P-eIF2α表达明显增加;TM海马内注射后 $\mathrm { T M } 2 0 0 0 \mu \mathrm { g / m l }$ 组第4小时和5小时时间段内质网应激标志物P-eIF2α表达时，也伴有KA1的表达明显上调,且TM海马内给药的适宜浓度为 $2 0 0 0 ~ \mathrm { \mu g / m l }$ （即 $2 ~ \mu \mathrm { g } / \mu \mathrm { l } )$ ,作用时间为4\~5小时(排除不同种类的小鼠个体差异和不同给药途径带来的差异)。根据实验结果，内质网应激中有KA1的表达，KA1的表达上调时亦可检测到内质网应激的发生，我们猜想通过外源性海马内给药来诱发细胞凋亡的内质网通路，触发细胞内预存的死亡程序而导致神经元凋亡的过程是否是一个由外而内的过程？且最新实验发现KA1的表达和内质网应激发生在同一神经元内[25]，结合Kerr等提出的细胞凋亡的三条通路。因此,我们推测KA1表达上调在凋亡途径内质网通路中的作用机制：海马内注射KA或TM后首先诱导膜外受体KA1的表达上调，然后将凋亡信号进一步向细胞内传递，引起蛋白沉积、局部炎症反应、低氧 $S \mathrm { a } ^ { 2 + }$ 平衡失调，同时过度激活nNOs、PKA等酶等，进而导致未折叠和错误折叠蛋白在内质网内堆积使得内质网功能紊乱，诱导内质网应激，引起细胞的未折叠蛋白反应，从而促使细胞启动凋亡程序中的内质网通路途径，导致细胞凋亡。在KA和高浓度TM体内给药(海马内给药)诱导内质网应激时，因TM浓度不好把握且出现表达和死亡的时间段都不如KA明显，根据本实验结果，可知海马内给药诱导KA1表达和内质网应激时，KA较TM更为合适。至于KA能否成为体内诱导内质网应激较经典的药物，还有待更多的循证医学证据
+
+糖尿病脑病是因糖尿病引起的脑部结构功能受损的严重状态，有学者认为称为“糖尿病性认知功能障碍”似更为合理，其主要发病机制为内质网应激，如何早期诊断、治疗及预防糖尿病脑病是目前糖尿病并发症领域的研究热点之—[21.25-26]。本课题的研究结果表明,海马内注射KA或TM后都可诱导的兴奋性KA1亚受体在海马神经元的表达明显上调，诱发内质网应激，促使海马神经元死亡。KA1亚受体在神经元死亡中的重要意义在于，它能保护神经元和大脑活动不受影响的前提下为我们提供了一个更具体的治疗思路,而一般谷氨酸受体拮抗剂对大脑活动有明显有害的影响。本研究提示KA1亚受体在内质网应激介导海马神经元凋亡过程中起着重要的作用，而海马是糖尿病脑病的主要病变部位和糖尿病脑损害的结构基础。因此，阐明KA1亚受体在糖尿病脑病内质网应激所致神经细胞死亡的调节作用机制并通过干扰KA1的功能以期获得诊治糖尿病脑病的新分子标记物及药物作用靶点具有重要的科学意义和有价值的应用前景。
+
+# 参考文献：
+
+[1］郭东华,刘湘华,曾 杰,等.KA1表达再分布对神经元兴奋毒性的影 响[J].中国组织工程研究,2012,16(2):287-90.   
+[2]袁 磊,龚济钦，张海霞,等.红藻氨酸受体与神经退行性变疾病相关性 研究进展[J].中国临床新医学,2014,7(4):367-71.   
+[3]Chen ZL,Yu HX,Yu WM,et al.Proteolytic fragments of laminin promote excitotoxic neurodegeneration by up-regulation of the KA1 subunit of the kainate receptor[J].J Cell Biol,20o8,183(7): 1299-313.   
+[4]Drexel M,Preidt AP, Sperk G.Sequel of spontaneous seizures after kainic acid-induced statusepilepticus and associated neuropathological changes in the subiculum and entorhinal cortex [J]. Neuropharmacology,2012,63(5): 806-17.   
+[5]孙 琦,向若兰,张文龙,等.4-苯基丁酸抗内质网应激诱导胰岛B细胞 凋亡[J].解剖学报,2012,43(6):784-8.   
+[6」王 焕,崔建忠,田艳霞,等.4-苯基丁酸钠盐通过抑制内质网应激反应 改善大鼠创伤性脑损伤[J].解剖学报,2012,43(4):451-7.   
+[7］王艳萍.Exendin-4对氧化应激诱导小鼠胰腺β细胞凋亡的保护作用 及其机制研究[D].福州:福建医科大学,2007.   
+[8]Lefterova MI,Mullican SE,Tomaru TA,et al. Endoplasmic reticulumstressregulatesadipocyte resistinexpression [J]. Diabetes,2009,58(8): 1879-86.   
+[9]Yacoub Wasef SZ,Robinson KA,Berkaw MN,et al. Glucose, dexamethasone,and the unfolded protein response regulate TRB3 mRNA expression in 3T3-L1 adipocytes and L6 myotubes[J]. Am J Physiol Endocrinol Metab,2006,291(6): E1274-80.   
+[10]谢 静,罗凌惠,焉开胜,等.衣霉素诱导螺旋神经节细胞内质网应激反 应性细胞调亡的研究[J].听力学及言语疾病杂志,2009,17(1):51-4.   
+[11]沈明志,刘佳妮,翟雅莉,等.衣霉素诱导大鼠心肌细胞内质网应激凋 亡模型的构建[J].现代生物医学进展,2011,11(5):801-4.   
+[12]付政祺.GSK-3β介导了内质网应激诱导的tau蛋白过度磷酸化及大 鼠空间记忆障碍[D].武汉：华中科技大学,2010.   
+[13]Paxinos G,Franklin K. The mouse brain in stereotaxic coordinates (second edition)[M]. New York: Academic press,2001: 90-110.   
+[14] Schmued LC,Hopkins KJ.Fluoro-Jade B:a high affinity fluorescent marker for the localization of neuronal degeneration [J]. Brain Res,2000,874(2): 123-30.   
+[15] Chen ZL, Indyk JA,Strickland S. The hippocampal laminin matrix is dynamic and critical for neuronal survival[J].Mol Biol Cell, 2003,14(7): 2665-76.   
+[16]Chen ZL,Indyk JA,Bugge TH,et al. Neuronal death and bloodbrain barrier breakdown after excitotoxic injury are Independent processes[J]. JNeurosci,1999,19(22): 9813-20.   
+[17]Bederson JB,Pitts LH,Tsuji M,et al. Rat middle cerebral artery occlusion: evaluation of the model and development of a neurologic examination[J]. Stroke,1986,17(3): 472-6.   
+[18]何袁芳.针刺对糖尿病大鼠中枢神经系统PKA-CREB信号转导通路 的影响[D].北京:中国中医科学院,2010.   
+[19]侯立胜,韩 卉,贾雪梅,等.胰岛素对糖尿病大鼠海马内神经营养因 子-3阳性神经元表达的影响[J].解剖学杂志,2006,29(1):81-4.   
+[20]徐 曦,郑建云,张军峰,等.脑出血能促进大鼠海马齿状回神经再生 [J].南方医科大学学报,2013,33(10):1437-41.   
+[21]宝 轶.转化生长因子胞内信号蛋白Smad2/3在糖尿病性认知功能障 碍中的作用机制研究[D].上海:第二军医大学,2010.   
+[22] Steiner J,Rafols D,Park HK,et al.Attenuation of iNOS mRNA exacerbates hypoperfusion and upregulates endothelin-1 expression in hippocampus and cortex after brain trauma[J].Nitric Oxide, 2004,10(3): 162-9.   
+[23］周晓雨.内质网应激通路对糖尿病血糖波动下大鼠海马神经元的作 用[D].合肥:安徽医科大学,2013.   
+[24]闫颖,赵咏梅,赵志炜,等.内质网应激通路相关分子GRP78及 CHOP在糖尿病脑病小鼠海马表达的变化[J].首都医科大学学报, 2011,32(1): 90-4.   
+[25]袁 磊,张海霞,钱诗蕾,等.红藻氨酸诱导内质网应激模型的途径[J]. 中国组织工程研究,2014,18(36):5861-7.   
+[26]袁 磊,徐 斌,张海霞,等.以内质网应激浅谈糖尿病及其并发脑病的 研究进展[J].解剖学研究,2014,36(5):380-4.
+
+（编辑：吴锦雅）

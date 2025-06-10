@@ -1,0 +1,114 @@
+# 地热计算器：让数值模拟简易化
+
+孔彦龙1,2,3 田小明4黄永辉1,2,3 刘昌为庞忠和1,2,3汪集暘1,21（中国科学院地质与地球物理研究所页岩气与地质工程重点实验室北京
+
+100029)  
+2（中国科学院地球科学研究院 北京100029）3（中国科学院大学北京100049）  
+4（代尔夫特理工大学 代尔夫特 荷兰 2628CN)  
+5（武汉芯跃能源科技有限公司 武汉 430000）
+
+摘要：地热作为清洁稳定的绿色能源，在我国实现北方清洁供暖、全国能源结构转型中起到重要作用。可持续开发地热资源是地热开发利用的前提，而通过数值模拟的方法求解数学模型是实现地热资源评价与提供优化开采方案以支撑地热可持续开发利用的关键工具，得到了地热从业人员和科研工作者越来越多的重视与关注。然而当前并没有专门针对地热开发利用所设计的专业软件，目前在地热行业使用较广泛的模型软件通常是相关行业（石油、水文、热工等）软件，难以满足地热资源开发利用的实际需求。更为重要的是，数值模拟软件往往操作复杂，使用极其不便。因此，我们开发了一款专门针对地热开发利用的中文软件---“地热计算器”，该软件在耦合开源数值模拟内核的基础上，采用最新研发的地热储工程优化算法，针对性地开发了地热行业所需的实际功能：如井距优化、资源量评价及地热能开采方案优化设计等，同时提供友好的用户交互界面，实现软件的“简易化”或者“一键操作”功能，让具备不同专业背景的地热从业人员均能够在短时间内掌握其操作，一方面促进地热行业数值模拟技术的应用，另一方面也为地热资源的可持续开发利用提供服务。
+
+关键词：地热计算器；数值模拟；地热能；可持续开发利用分类号：P314
+
+# Geothermal Kits: A OneClick Software for Geothermal
+
+# Numerical Simulation
+
+Yanlong Kong1,2,3Xiaoming Tian4 Yonghui Huang1,2Changwei Liu’Zhonghe Pang1,2, Jiyang Wang1,2 1(Key Laboratory of Shale Gas and Geoengineering， Institute of Geology and Geophysics， Chinese Academy of Sciences，Bei jing 100029,China) 2(Innovation Academy for Earth Science, Chinese Academy of Sciences, Beijing 100049， China) 3(University of Chinese Academy of Sciences， Beijing 100049, China) 4(Delft University of Technology， 2628 CN Delft， Netherlands) 5(Wuhan Xinyue Energy Technology Co． LTD ，430000，China)
+
+# Abstract:
+
+Geothermal energy plays a key role in helping promote the clean space heating in North China and National energy structure optimization. The sustainable
+
+geothermal energy utilization needs the numerical simulation to solve the issues on geothermal resources assessment， strategy optimization and etc., which attracts more and more attention. However， there are no numerical simulation software specializing on geothermal energy exploitation and utilization. As a result， the geothermal managers have to use the numerical software in other fields (Oil，Hydrology and Thermal Engineering etc.). What’ s more, the existing software is always hard to operate. Here in this paper， we develop a new software named “Geothermal kits”，which is developed by coupling the geothermal optimal algorithm and open-source numerical simulation software. The‘Geothemral kits’ software has very friend interface, which could be done by one click. Therefore，it could be easily mastered by the geothermal scientists， managers and engineers with different professional background. The ‘Geothemral kits’ will help solving the problems related to numerical simulation and serve for the sustainable geothermal energy utilization.
+
+Keywords: Geothemral kits; Numerical Simulation; Geothermal Energy; Sustainable utilization
+
+# 1前言
+
+数学模型是可持续开发地热资源的必备工具。从地热资源的勘查评价到地热资源开发利用的优化方案制定，都离不开数学模型。数学模型的运算主要包括解析法和数值法两种。一般而言解析法简单、运算快并且能够获得精确的解。但在多数与地热相关的问题中，要考虑地质和地热地质条件的复杂性，解析解往往无解。因此，数值法即通过数值模拟进行运算，成为我们在地热能开发利用过程中最常用的解法。事实上，在2020年5月1日起实施的地质矿产行业标准《DZ/T0331-2020：地热资源评价方法及估算规程》以及尚在征求意见中的国家标准《地源热泵系统工程技术规范（征求意见稿》均对资源勘查程度较高的地热田，推荐采用数值模拟的方法评价资源量以及制定优化的开采方案。
+
+数值模拟是地热学乃至地热资源开发利用研究中的重要工具。在地球动力学研究中，采用数值模拟热演化规律是其重要研究内容之一[I；针对中深层地热资源的开发，可以采用数值模拟方法给出采热上限[2；在干热岩开发乃至超临界地热流体的开发，数值模拟均可完成室内实验无法模拟的物理过程[3-4]。以“Geothermal numerical modelling(地热数值模拟)”为检索关键词，在Webof Science网站进行检索，可以看到过去30年来，无论是发文量还是引文量都在快速增加，显示地热数值模拟的被关注度以及影响力在逐年提高（图1）。
+
+![](images/9292faaf6425028c8a822d4c290d8453cd69d99edeefc6237c62539ad978889a.jpg)  
+图1以“地热数值模拟”为检索关键词在WebofScience网站http://apps.webofknowledge.com）检索到的论文量和相应被引频次
+
+目前国际上常用的地热数值模拟软件包括Comsol、Feflow、OpenGeoSys 和Tough2等。当然，以上软件更类似于“计算器”的功能，它们不仅可以用在地热能的开发利用上，在水污染、核废物处置和二氧化碳封存等诸多领域均可采用近些年，国内科研界广泛采用上述软件，提出了大量用于地热开发比如资源评价、井距评价和优化开采等的研究算法。但令人遗憾的是，在国内的地热产业界数值模拟以及基于数值模拟技术的上述算法的应用十分有限。其原因一方面是上述软件以英语为主、操作较为繁琐，短时间内难以掌握；另一方面是软件收费多较为昂贵，应用成本较高。
+
+针对以上问题，我们开发了一款中文软件，将之命名为“地热计算器”，以实现基于数值模拟软件的计算功能，并将最新研发的新算法耦合于软件之中，力争实现软件的“简易化”或者“一键操作”功能，让具备不同专业背景的从业人员均能够在短时间内掌握其操作，以促进地热行业数值模拟技术的应用，为地热资源的可持续开发利用提供服务。
+
+# 2软件介绍
+
+地热计算器是由Python语言编写，它的主要功能是通过调用数值模拟软件，实现为地热资源可持续开发服务。地热计算器的初步构架包括井距优化、资源评价、中深层地埋管换热量评估、地热开发优化方案设计等模块。当前1.0版本仅能够实现井距优化功能，因此本文着重介绍井距优化模块。
+
+在地热能的开发利用过程中，需通过回灌以实现可持续利用，但回灌井和生产井相近，易发生热突破；二者相距太远，又难以维持热储压力。为实现井距的优化设计，Kongetal． (2017)提出了面向经济成本的优化算法[2]，该算法主要分为两步：第一步是基于热田的地热地质概念模型，建立耦合地下水流和热传导两个过程的数值模型，输出不同采灌情景下的温压响应；第二步是根据温压响应结果计算由此而带来的经济损失，从而以经济最优为目标函数，给出最优采灌布局[5]。
+
+“地热计算器”软件井距计算的核心算法基于Kongetal．（2017）［2]，计算过程中调用了德国亥姆霍兹环境研究中心OlafKolditz团队开发的开源数值模拟软件OpenGeoSys[6-7]。本文着重介绍“地热计算器”的编写原理，有关井距优化算法和OpenGeoSys 的详情请分别参加Kong etal．（2017)[2]和 Kolditzet al.，2012[6]。
+
+图2为“地热计算器”的计算流程：在打开软件后，需要用户首先输入相应的参数，包括储层与开发利用的相关参数等，可采用用户自定义或默认缺省值两种模式，程序会自动判别用户输入的参数是否合理；然后程序将合理的参数传递给OpenGeoSys计算内核，自动构建输入文件，并调用OpenGeoSys可执行文件执行计算；待计算完成后程序将自动执行模型后处理，分别输出不同井距下的地温场、压力场的分布，并基于此计算不同井距下的开采成本，最后综合相关信息，程序给出最优井距的推荐值。
+
+![](images/1c6c9a5d034bbf31e3da503d0e432932a0f493d3cb2705d1c64f1fe87dd7b519.jpg)
+
+本文以我国北方某地区碳酸盐岩地热田的地热资源开发为例，介绍地热计算器的计算结果。该含水层厚 $3 0 0 \mathrm { { m } }$ ，储层类型为碳酸盐岩，孔隙度和渗透率分别为0.3和 $1 \times 1 0 ^ { - 1 3 } \ \mathrm { m ^ { 2 } }$ ；该地区每年供暖4个月，其余时间停采，生产井流量$1 5 0 \mathrm { \ m ^ { 3 } / h }$ ，生产井初始水温为 $8 0 ^ { \circ } \mathrm { C }$ ， $1 0 0 \%$ 回灌，回灌水温为 $3 5 \mathrm { { ^ \circ C } }$ 。给定热田寿命50年，构建该地区的数值模型，所需参数如表1.
+
+表1：地热计算器输入参数表  
+
+<html><body><table><tr><td>基 础</td><td>孔</td><td>渗 透</td><td>含 水</td><td>生 产</td><td>回 灌</td><td>开采 井静</td><td>岩石热 导率</td><td>岩石比热 容</td><td>岩石 密度</td><td>开采 流量</td><td>回 灌</td></tr><tr><td>参</td><td>隙 度</td><td>率</td><td>层</td><td>井</td><td>水温</td><td>水位</td><td></td><td></td><td></td><td></td><td>流</td></tr><tr><td>数</td><td></td><td></td><td>厚</td><td>出</td><td></td><td></td><td></td><td></td><td></td><td></td><td>量</td></tr><tr><td>与</td><td></td><td></td><td>度</td><td>书</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>取</td><td></td><td></td><td></td><td>水</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>值</td><td></td><td></td><td></td><td>温</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.3</td><td>1× 10-13</td><td>300</td><td>80</td><td>35</td><td>0</td><td>2.8</td><td>950</td><td>2500</td><td>150</td><td>150</td></tr><tr><td>高</td><td></td><td>m</td><td>m</td><td>℃</td><td>℃</td><td>m</td><td>W/ (m ·K)</td><td>J/(kg·K)</td><td>Kg/m</td><td>m/h</td><td>m/h</td></tr><tr><td></td><td>地</td><td>区</td><td>贮</td><td>热</td><td>热价</td><td>电价</td><td>贴现率</td><td></td><td></td><td></td><td></td></tr><tr><td>级</td><td>热</td><td>域</td><td>水</td><td>利</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>参</td><td>田</td><td>地</td><td>率</td><td>用</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>数</td><td>寿</td><td>下</td><td></td><td>效</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>与</td><td>命</td><td>水</td><td></td><td>率</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>取</td><td></td><td>流</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>值</td><td></td><td>速</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>50</td><td>5× 10-5</td><td>5× 10-5</td><td>0.7</td><td>88.9</td><td>0.58</td><td>0.046</td><td></td><td></td><td></td><td></td></tr><tr><td>年</td><td></td><td>m/s</td><td>m-1</td><td></td><td>¥/GJ</td><td>¥/kWh</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+考虑到地质学模型和经济学模型中的部分参数不常见，“地热计算器”软件做了“高级设置”功能，在用户对高级参数概念不清晰的背景下，可不予调整这些参数。
+
+基于以上参数，通过单击“计算并绘图”按钮，便可实现一键计算功能。地热计算器的计算结果以图和动画的形式呈现，分别如图3-图6所示。
+
+![](images/930233baf06d2dc07ab5564db39d677234a1dd3fb1e9ccb6cba1d0c3003ecd2b.jpg)  
+图3生产井水位同井距的关系
+
+图3给出了热田开采50年后不同井距下生产井的水位变化。从中可以看出，在井距为 $1 0 0 \mathrm { m }$ 时，水位与原始水位相比下降显著，但是在 $2 0 0 \mathrm { m }$ 之后，水位下降量不再随井距发生变化，说明此时，将回灌井设置更远，对水位已无显著意义。
+
+![](images/ee11d6108c597a8caa8e06de4a958c7923ff7aa2ec92c740ae46830a1abd9059.jpg)  
+图4生产井温度与井距的关系
+
+图4给出了50年后生产井水温同井距的关系。可以看到，在井距小于 $3 0 0 \mathrm { m }$ 时，生产井水温下降显著，到井距为 $4 0 0 \mathrm { m }$ 时，才避免了热突破的发生。而后，随着井距的加大，生产井水温基本不再下降。
+
+![](images/5b80f3edfcedbea9c8b654caeac4178fd518ff796b0fdcacc5ee1c362649b571.jpg)  
+图5经济成本与井距的关系
+
+图5给出了50年内由于生产井水位下降和水温下降而引起的成本损失随井距的变化规律。可以看到当井距大于 $4 0 0 \mathrm { m }$ 时，经济成本已不再发生显著变化。“地热计算器”软件通过自动求取不同井距下的经济成本，获得最优井距为$4 0 0 \mathrm { m }$ 。对比图3和图5可以发现，经济成本和生产井水温的变化显著相关，这也凸显了热田生产应尽可能降低生产井水温下降的重要性。
+
+![](images/a61e4c14a63216ee27a1f648fd2e86be29cfefa56bdc2d04020b04937462ac2a.jpg)  
+图6热储层水流场与温度场实时分布图
+
+图6在“地热计算器”软件界面内以“动画”形式展示，它形象的展示了热储层温度和压力随时间发生的变化。由于模型设置的步长为1年1个周期，所以该动画的展示频率同样以年为单位进行展示，辅助地热资源开发的决策者进行热田生产管理。
+
+# 4结论与前瞻
+
+“地热计算器”软件基于地热可持续开发利用的最新算法，通过调用数值模拟计算内核，一键实现与地热资源开发利用的相关功能，以使得数值模拟在地热行业的应用更加“简易化”／“傻瓜化”。软件输出的结果以图片和动画的形式展示，便于从业人员直接拿来使用。尽管当前软件版本（V1.0）仅包含有井距优化功能，在未来的升级版本中会逐步加入以下功能：
+
+（1）资源评价。该模块含基础资源量评价和动态资源评价。基础资源评价将在三维地质模型的基础之上完成，提高评价精度，以打破简单的体积法计算；动态资源量评价将考虑不同的生产模式，直接服务于生产。
+
+（2）中深层地源热泵换热量评估。该模块将计算给定地热地质条件下的换热量，并分析不同换热量下岩土的温压响应。
+
+（3）地热优化开采方案设计。该模块将计算给定地热条件下，最优的开采模式，包括开采量、回灌量、回灌水温等一系列参数，并将完成群井采灌模式下的综合优化模式设计。
+
+（4）示踪试验结果分析。该模块将针对示踪试验的监测结果，一键给出渗透系数、地下水流速和热突破预测等关键信息。
+
+（5）浅层地热能模块。该模块将会围绕浅层地热能开发的一系列需求，耦合地源热泵模块，实现简易化操作。
+
+# 参考文献：
+
+[1］汪集赐．地热学及其应用[M]．北京：科学出版社,2015：1-543.(Wang Jiyang.Geothermics and Its Applications [M]，Beijing:Science Press，2015:1-543)   
+[2]孔彦龙，陈超凡，邵亥冰，等．深井换热技术原理及其换热量评估［J]．地球物理学报，2017， 60(12)： 4741-4752.（Kong Y.,Chen C.， Shao H. et al.Principle and capacity quantification of deep-borehole heat exchangers[J]，Chinese J. Geophys. (in Chinese)，2017，60(12):4741-4752) [3] Lu R.，Nagel T.，Shao H. et al.. Modeling of Dissolution - Induced Permeability Evolution of a Granite Fracture Under Crustal Conditions[J]． Journal of Geophysical Research:Solid Earth，2018，123(7):5609-5627.   
+[4] Parisio，F.，Vilarrasa,V.，Wang，W. et al. The risks of long-term re-injection in supercritical geothermal systems[J], Nat. Commun., 2019, 10, 4391. https://doi. 0rg/10. 1038/s41467-019-12146-0   
+[5］孔彦龙,庞忠和,邵亥冰等．面向成本的中深层地热储群井采灌优化布局研究[J]，科学促进发展， 2020，3-4，315-321.(Kong Y.，Pang Z.，Shao H.，et al.，Cost-0riented Optimization on the Multi-Well Layout for Geothermal Production and Reinjection[J]， Science & Technology for Development，2020，3-4，315-321.）   
+[6] KOLDITZ O， BAUER S, BILKE L，et al. "OpenGeoSys: an open-source initiative for numerical simulation ofthermo-hydro-mechanical/chemical (THM/C） processes in porousmedia[J]." Environmental Earth Sciences，2012，67(2): 589-599.   
+[7］孔彦龙，黄永辉，郑天元，等．地热能可持续开发利用的数值模拟软件OpenGeoSys：原理与应用 [J].地学前缘,2020,27(01):170-177. (Kong Y.，Huang Y.，Zheng T.，Principle and application of OpenGeoSys for geothermal energy sustainable utilization[J]，Earth Science Frontiers， 2020, 27(1):170-177.)
+
+(通讯作者：孔彦龙E-mail:ylkong@mail.iggcas.ac.cn)
+
+# 作者贡献声明：
+
+孔彦龙：提出研究思路，设计研究方案；  
+孔彦龙，田小明，黄永辉，刘昌为：软件编写；  
+汪集暘，庞忠和：论文写作思路指导和修改；  
+孔彦龙，田小明，黄永辉，刘昌为：论文起草;  
+全体作者：论文最终版本修订。

@@ -1,0 +1,261 @@
+1 饲粮中添加叶酸和维生素 $\mathbf { B } _ { 1 2 }$ 对雏鹅盲肠菌群结构的影响
+
+2 程漫漫 张廷荣\* 王宝维\* 孔　敏　张名爱　岳　斌　葛文华
+
+（青岛农业大学优质水禽研究所，国家水禽产业技术体系营养与饲料功能研究室，青岛
+
+#
+
+4 266109)  
+5 摘要：本试验旨在研究饲粮中添加不同水平的叶酸和维生素 $\mathbf { B } _ { 1 2 }$ 对雏鹅盲肠菌群结构的影  
+6 响。选取1日龄健康五龙鹅 360只，随机分成6个组，每组6个重复，每个重复10只鹅（公  
+7 母各占1/2）。试验采用 $2 { \times } 3 ($ 叶酸 $\cdot \times$ 维生素 $\mathbf { B } _ { 1 2 } )$ 两因素交叉等重复的析因设计，饲粮中叶酸  
+8 的添加水平分别为 $0 . 5 5 , 2 . 5 0 \mathrm { m g / k g }$ ，维生素 $\mathbf { B } _ { 1 2 }$ 的添加水平分别为 $0 . 0 0 9 , 0 . 0 1 8 , 0 . 0 3 6 \mathrm { m g / k g }$   
+9 I～VI组饲粮中叶酸和维生素 $\mathbf { B } _ { 1 2 }$ 添加水平分别为0.55 和 $0 . 0 0 9 \mathrm { m g / k g } . 2 . 5 0$ 和 $0 . 0 1 8 \mathrm { m g / k g } .$   
+10 0.55和 $0 . 0 3 6 \mathrm { m g / k g }$ 、2.50和 $0 . 0 0 9 \mathrm { m g / k g }$ 、0.55和 $0 . 0 1 8 ~ \mathrm { m g / k g }$ 、2.50和 $0 . 0 3 6 \mathrm { m g / k g }$ 。试验  
+11 期为4周。试验结束后，采用16S rRNA 高通量测序技术对雏鹅盲肠菌群组成进行测定，基  
+12 于 Illumina HiSeq 测序平台，利用双末端测序的方法，构建小片段文库进行测序，并进行 $\mathfrak { a }$   
+13 多样性和差异显著物种分析。结果显示：1）饲粮中添加不同水平的叶酸和维生素 $\mathbf { B } _ { 1 2 }$ 对雏  
+14 鹅的终末体重、平均日增重有显著影响（ $P { < } 0 . 0 5$ ），对料重比无显著影响（ $. P { > } 0 . 0 5$ ）。IⅣ组  
+15 的终末体重和平均日增重显著高于其他5 组 $( P { < } 0 . 0 5 )$ 。2）IV组的操作分类单元（OUT）数、  
+16 ACE 指数、Chao1指数最高，说明盲肠微生物的物种丰度高于其他5组。聚类分析表明I  
+17 组与VI组盲肠菌群相似性最高，I组与Ⅱ组盲肠菌群相似性最低。3）雏鹅盲肠中厚壁菌门  
+18 (Firmicutes)、拟杆菌门(Bacteroidetes)和变形菌门(Proteobacteria)为优势菌门，饲粮添加不同  
+19 水平的叶酸和维生素 $\mathbf { B } _ { 1 2 }$ 使雏鹅盲肠菌群门水平丰度发生了变化，其中厚壁菌门、拟杆菌门  
+20 和变形菌门变化明显。雏鹅盲肠样本中共检测到91个菌属， $\mathbf { \sigma } _ { \mathrm { I } } \sim \mathrm { U I }$ 组分别检测到86、84、  
+21 83、87、87、83个菌属，相对丰度较高的5个属分别为脱磷弧菌属（Desulfovibrio）、杆菌  
+22 属（Bacterium）、拟杆菌属（Bacteroides）、另枝菌属（Alistipes）和巴那斯拉菌属（Barnesiella）。  
+23 优势菌属的相对丰度在不同组之间存在较大差异。在种水平上，杆菌在各组盲肠菌群中均占  
+24 有绝对优势，其相对丰度在I～VI组分别为 $9 3 . 5 \%$ 、 $9 3 . 7 \%$ 、 $87 . 8 \%$ 、 $9 5 . 2 \%$ 、 $9 3 . 4 \%$ 和 $87 . 9 \%$
+
+组间差异不显著（ $. { \cal P } { > } 0 . 0 5$ ）。由此得出，饲粮中添加 $2 . 5 0 \mathrm { m g / k g }$ 叶酸和 $0 . 0 0 9 \mathrm { m g / k g }$ 维生素$\mathbf { B } _ { 1 2 }$ 能够优化雏鹅盲肠菌群结构，增加有益菌的丰度，进而提高生长性能。
+
+关键词：叶酸；维生素 $\mathbf { B } _ { 1 2 }$ ；雏鹅；生长性能；盲肠菌群结构中图分类号：S816 文献标识码：A 文章编号：
+
+） 肠道微生物与动物营养代谢、肥胖、脂肪沉积和糖尿病等有密切的关系，肠道微生物在  
+） 营养代谢方面主要作用于碳水化合物代谢、蛋白质和氨基酸代谢、脂质代谢、维生素代谢及矿物质代谢等[]。研究表明肠道微生物还与宿主功能关系密切，能够维持宿主健康、提高生  
+1 产性能、降低环境污染以及提高动物产品安全性[2-4]。动物肠道中存在的大量菌群在提高营  
+） 养物质利用以及维护动物机体健康等方面起了很大的作用。为此，进一步研究肠道菌群结构  
+1 与营养利用率、生产性能的关系对指导动物饲粮配制具有重要意义。研究表明，叶酸是一种  
+： 重要的B族维生素，对于维持动物机体健康、正常的生理机能和生产性能具有重要作用，  
+? 而且是肠道微生物的必需物质，肠道微生物要竞争性的合成和利用一定量的叶酸[5]，而维生素 $\mathbf { B } _ { 1 2 }$ 作为一碳代谢的辅酶，可以提高叶酸利用率，促进多种DNA合成等6]。叶酸和维生  
+3 素 $\mathbf { B } _ { 1 2 }$ 缺乏除导致白细胞数量减少外，还可使淋巴细胞功能损害，影响体液免疫，造成中性  
+， 粒细胞杀菌能力下降[7]。高通量测序技术早已被用来研究家禽肠道微生物多样性，研究结果  
+） 表明在鸡的盲肠中厚壁菌门、拟杆菌门和变形菌门为主要优势菌门[8-9]。饲粮中添加叶酸、维生素 $\mathbf { B } _ { 1 2 }$ 对家禽生产性能影响的研究已有报道[10-12]，但有关不同水平叶酸和维生素 $\mathbf { B } _ { 1 2 }$ 组合对雏鹅肠道微生物的研究还处于空白。本试验在饲粮中添加不同水平的叶酸和维生素 $\mathbf { B } _ { 1 2 }$   
+5 在研究饲粮中添加叶酸和维生素 $\mathbf { B } _ { 1 2 }$ 对雏鹅生长性能影响的基础上，利用16SRNA高通量  
+1 测序技术对饲喂添加不同水平叶酸和维生素 $\mathbf { B } _ { 1 2 }$ 饲粮的雏鹅的盲肠菌群进行分析，比较雏鹅盲肠菌群组成和结构，进一步研究叶酸和维生素 $\mathbf { B } _ { 1 2 }$ 对雏鹅肠道菌群结构的影响，旨在确定叶酸和维生素 $\mathbf { B } _ { 1 2 }$ 添加水平与雏鹅盲肠菌群结构的关系，探讨提高家禽生长性能的途径，并为鹅营养需要量标准的制订提供理论依据。
+
+# 1．材料与方法
+
+# 1.1 试验材料及饲粮组成
+
+叶酸：饲料级，叶酸含量为 $96 \%$ ，宁夏金维制药股份有限公司产品。维生素 $\mathbf { B } _ { 1 2 }$ ：维生素 $\mathbf { B } _ { 1 2 }$ 含量为 $1 \%$ ，宁夏金维制药股份有限公司产品。基础饲粮以 NRC(1994)[13]为主要参考依据配制，其组成及营养水平见表1。采用高效液
+
+相色谱法测得基础饲粮中叶酸含量为 $0 . 4 2 \mathrm { m g / k g }$ ，维生素 $\mathbf { B } _ { 1 2 }$ 含量为 $0 . 0 0 \mathrm { m g / k g }$ 。
+
+# 表1基础饲粮组成及营养水平（风干基础）（I\~VI组)
+
+Table 1 Composition and nutrient levels of the basal diet (air-dry basis) %   
+
+<html><body><table><tr><td>原料Ingredients</td><td>含量Content</td><td>营养水平 Nutrient levels2)</td><td>含量Content</td></tr><tr><td>玉米Corn</td><td>57.3</td><td>代谢能ME/（MJ/kg）</td><td>11.51</td></tr><tr><td>大豆粕 Soybean meal</td><td>22.4</td><td>粗蛋白质CP</td><td>18.15</td></tr><tr><td>菜籽粕 Rpeseed dregs</td><td>4.00</td><td>粗纤维CF</td><td>5.32</td></tr><tr><td>玉米秸秆 Corn straw</td><td>7.50</td><td>钙Ca</td><td>1.05</td></tr><tr><td>玉米酒糟及可溶物</td><td>5.00</td><td>有效磷 AP</td><td>0.36</td></tr><tr><td>Corn DDGS 磷酸氢钙 CaHPO4</td><td>1.00</td><td></td><td></td></tr><tr><td>石粉Limestone</td><td>2.00</td><td>半胱氨酸 Cys</td><td>0.46 0.91</td></tr><tr><td>食盐 NaCl</td><td>0.30</td><td>赖氨酸Lys 蛋氨酸Met</td><td>0.31</td></tr><tr><td>微量元素 Trace elementsl)</td><td>0.20</td><td>维生素B12VB12</td><td></td></tr><tr><td>多维 Multivitamin1)</td><td>0.30</td><td></td><td>0</td></tr><tr><td>合计 Total</td><td>100.00</td><td>叶酸 Folic acid</td><td>0.42</td></tr></table></body></html>
+
+1多维和微量元素（不含叶酸和维生素 $\mathbf { B } _ { 1 2 }$ ）为每千克饲粮提供 The multivitamin and trace elements (without folic acid and $\mathrm { V B } _ { 1 2 }$ ） provided the following per $\mathbf { k g }$ of the diet: VA $1 5 0 0 \mathrm { m g }$ ， $\mathrm { V D } _ { 3 }$ 200 IU, VE 12.5 mg, VK3 1.5 mg， $\mathrm { V B } _ { 1 } 2 . 2 \ : \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 5 . 0 \mathrm { m g }$ ，烟酸 nicotinic acid $6 5 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 2 \log$ ，生物素 biotin $0 . 2 ~ \mathrm { m g }$ ，泛酸 pantothenate $1 5 ~ \mathrm { m g }$ ，胆碱choline $1 0 0 0 \mathrm { m g }$ ，Fe $9 0 \mathrm { m g }$ ， $\mathrm { C u } 6 \mathrm { m g }$ ， $\mathrm { M n } 8 5 \mathrm { m g }$ ， $Z n 8 5 \mathrm { m g }$ ， $\mathrm { ~ I ~ } 0 . 4 2 \mathrm { ~ m g ~ }$ ，Se $0 . 3 ~ \mathrm { m g }$ Co 2.5 mgo 2叶酸和维生素 $\mathbf { B } _ { 1 2 }$ 为实测值，其他营养水平为计算值。Folic acid and $\mathrm { V B } _ { 1 2 }$ were measured value， while other nutrient levels were calculated values .
+
+# 1.2 试验设计
+
+试验用鹅由国家水禽产业技术体系育种基地高密银河润雁鹅业有限公司提供。选择初始体重差异不显著（ $P { > } 0 . 0 5$ ）的1日龄五龙鹅360只，随机分为6组，每组6个重复，每个重复10只鹅，公母各占1/2。试验采用 $2 { \times } 3 0$ 叶酸 $\times$ 维生素 $\mathbf { B } _ { 1 2 } )$ 两因素交叉等重复的析因设计，饲粮中叶酸的添加水平分别为 $0 . 5 5 , 2 . 5 0 \mathrm { m g / k g }$ ，维生素 $\mathbf { B } _ { 1 2 }$ 的添加水平分别为0.009、0.018、
+
+$0 . 0 3 6 \mathrm { m g / k g }$ ，试验分组见表2。试验期为4周（1\~28日龄）。
+
+表2试验分组  
+Table 2 Experiment grouping mg/kg   
+
+<html><body><table><tr><td>组别Groups</td><td>叶酸 Folic acid</td><td>维生素Bi2VB12</td></tr><tr><td></td><td>0.55</td><td>0.009</td></tr><tr><td>Ⅱ</td><td>2.50</td><td>0.018</td></tr><tr><td>Ⅲ</td><td>0.55</td><td>0.036</td></tr><tr><td>IV</td><td>2.50</td><td>0.009</td></tr><tr><td>V</td><td>0.55</td><td>0.018</td></tr><tr><td>VI</td><td>2.50</td><td>0.036</td></tr></table></body></html>
+
+1.3 饲养管理
+
+试验前鹅舍进行彻底全面的消毒，以防止疾病的传播；采用全期舍饲，地面饲养；试验鹅自由饮水和采食；少喂勤添；搞好鹅舍内环境卫生，保持地面洁净干燥，观察鹅的健康状况，做好疾病防控工作。
+
+# 1.4样品采集与指标测定
+
+# 1.4.1 生长性能测定
+
+饲养试验结束后停饲6h，然后逐只空腹称重，统计各组试验鹅的体重和增重情况，计算终末体重(FBW)、平均日增重（ADG）和料重比（F/G)
+
+# 1.4.2 盲肠菌群结构测定
+
+# 1.4.2.1 盲肠样品的采集
+
+空腹称重后，各重复随机选择2只鹅，公母各占1/2，颈静脉放血致死后迅速剖开腹腔，无菌操作取出盲肠，迅速收集到冻存管中液氮保存，然后转移到 $8 0 ~ ^ { \circ } \mathrm { C }$ 冰箱保存待测。
+
+# 1.4.2.2 盲肠细菌总DNA的提取
+
+对每个样品进行单独测定，采用天根生化科技有限公司的基因组DNA试剂盒提取出盲肠细菌总DNA。
+
+# 1.4.2.3 盲肠细菌总DNA的定量和纯度检测
+
+总DNA含量用DNA定量仪进行测定，DNA纯度用 $\mathrm { O D } _ { 2 6 0 } / \mathrm { O D } _ { 2 8 0 }$ 进行表述，同时用 $0 . 8 \%$ 琼脂糖凝胶电泳检测DNA片段大小。
+
+# 1.4.2.5 PCR扩增及细菌16srRNA测序分析
+
+按照细菌16SrRNA( $\mathrm { V } 3 + \mathrm { V } 4 \$ ）区域合成引物：上游引物，5'-ACTCCTACGGGAGGCAGCA-3'；下游引物，5'- GGACTACHVGGGTWTCTAAT-3'。样品检测时PCR预试验的程序如下： $9 5 ^ { \circ } \mathrm { C }$ 预变性 $5 \mathrm { m i n }$ ， $9 5 ^ { \circ } \mathrm { C }$ 变性 $3 0 ~ \mathrm { s }$ ， $5 0 ^ { \circ } \mathrm { C }$ 退火 $3 0 ~ \mathrm { s }$ ， $7 2 ^ { \circ } \mathrm { C }$ 延伸 $4 0 \mathrm { ~ s ~ }$ ，共 25个循环。
+
+# 1.5 数据统计与分析
+
+利用 SPSS17.0软件中一般线性模型（GLM）分析主效应和互作，再用ANOVA和LSD法对数据进行差异显著性分析。将优化序列进行聚类，划分操作分类单位（OTU），基于OTU 分析结果，对样品在各个分类水平上进行分类学分析，获得各样品在门、属、种分类学水平上的菌群结构图、物种丰度聚类热图等。
+
+# 2结果与分析
+
+2.1饲粮中添加叶酸和维生素 $\mathbf { B } _ { 1 2 }$ 对雏鹅生长性能的影响
+
+饲粮中添加叶酸和维生素 $\mathbf { B } _ { 1 2 }$ 水平对雏鹅终末体重、平均日增重和料重比的影响见表3。饲粮中添加不同水平的叶酸对雏鹅终末体重、平均日增重和料重比的影响均不显著 $( P { > } 0 . 0 5 )$ 。饲粮中添加不同水平的维生素 $\mathbf { B } _ { 1 2 }$ 对雏鹅终末体重、平均日增重的影响显著 $( P { < } 0 . 0 5 )$ ，对料重比的影响不显著 $( P { > } 0 . 0 5 )$ 。叶酸和维生素 $\mathbf { B } _ { 1 2 }$ 的交互作用对雏鹅终末体重、平均日增重的影响显著 $( P { < } 0 . 0 5 )$ ，对料重比的影响不显著 $( P { > } 0 . 0 5 )$ 。其中，IV组的终末体重和平均日增重显著高于其他5组 $( P { < } 0 . 0 5 )$ ，表明饲粮中添加 $2 . 5 0 \mathrm { m g / k g }$ 叶酸和 $0 . 0 9 \mathrm { m g / k g }$ 维生素 $\mathbf { B } _ { 1 2 }$ 时雏鹅的生长性能最佳。
+
+Table 3Effects of folic acid and $\mathrm { V B } _ { 1 2 }$ supplementations on growth performance of gosling   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="6">组别 Groups</td><td rowspan="2">均值标准误</td><td colspan="3">P值P-value</td></tr><tr><td>I</td><td>Ⅱ</td><td>Ⅲ</td><td>IV</td><td>V</td><td>VI</td><td>叶酸 Folic acid</td><td>维生素 B12 VB12</td><td>交互作用 Interactio n</td></tr><tr><td>终末体重 FBW/g</td><td>1 175.0b</td><td>1 078.5c</td><td>1 117.1c</td><td>1 276.1a</td><td>1 199.4b</td><td>1 106.2c</td><td>7.10</td><td>ns</td><td><0.01</td><td><0.01</td></tr><tr><td>平均日增 重 ADG/g</td><td>39.1b</td><td>36.5c</td><td>37.0c</td><td>42.8a</td><td>39.5b</td><td>36.8c</td><td>0.23</td><td>ns</td><td><0.01</td><td><0.01</td></tr><tr><td>料重比 F/G</td><td>2.31</td><td>2.28</td><td>2.29</td><td>2.30</td><td>2.28</td><td>2.27</td><td>0.04</td><td>ns</td><td>ns</td><td>ns</td></tr></table></body></html>
+
+同行数据肩标无字母或相同字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著$( P { < } 0 . 0 5 )$ 。 $\mathrm { n } \mathrm { s } =$ 差异不显著。
+
+In the same row, values with no or the same letter superscripts mean no significant difference （204号 $( P { > } 0 . 0 5 )$ ，while with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ： $\mathrm { n } \mathrm { s } =$ not significant.
+
+# 2.2饲粮中添加叶酸和维生素 $\mathbf { B } _ { 1 2 }$ 对雏鹅盲肠菌群结构的影响
+
+# 2.2.1菌群α多样性分析结果
+
+由表4可知，饲粮中添加不同水平的叶酸和维生素 $\mathbf { B } _ { 1 2 }$ 组合使雏鹅盲肠微生物的丰度和多样性发生了改变。IV组的OUT、ACE 指数、Chaol指数最高，表明IV组盲肠微生物的物种丰度高于其他5个组；V组的 Shannon 指数最高，Simpson 指数最小，表明V组的群落多样性最高，个体分配最均匀。另外，本试验还统计了反映OUT测序深度的指数覆盖度（coverage），6组样本的coverage 值均大于0.999，表明样本中物种被测出的概率很高。
+
+# 表4α多样性指数
+
+Table 4α diversity indices   
+
+<html><body><table><tr><td colspan="7">组别</td></tr><tr><td>Groups</td><td>操作分类单</td><td>ACE指数</td><td>Chao1指数</td><td>Simpson指数</td><td>Shannon 指数</td><td>覆盖度</td></tr><tr><td></td><td>元数OUTs</td><td>ACE index</td><td>Chaol index</td><td>Simpson index</td><td>Shannon index</td><td>Coverage</td></tr><tr><td>No./个</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>I</td><td>758</td><td>773.0 772.9</td><td>0.067</td><td>4.02</td><td>0.999 7</td></tr></table></body></html>
+
+<html><body><table><tr><td>Ⅱ</td><td>672</td><td>709.6</td><td>713.2</td><td>0.048</td><td>4.08</td><td>0.999 4</td></tr><tr><td>IⅢI</td><td>693</td><td>720.5</td><td>727.0</td><td>0.117</td><td>3.79</td><td>0.999 5</td></tr><tr><td>IV</td><td>768</td><td>783.3</td><td>786.3</td><td>0.071</td><td>3.92</td><td>0.999 6</td></tr><tr><td>V</td><td>743</td><td>749.7</td><td>750.4</td><td>0.031</td><td>4.53</td><td>0.999 8</td></tr><tr><td>VI</td><td>730</td><td>742.6</td><td>746.5</td><td>0.032</td><td>4.47</td><td>0.9997</td></tr></table></body></html>
+
+Shannon 曲线是利用各样本的测序量在不同测序深度时的微生物多样性指数构建的曲线，以此来反映各样本在不同测序量时的微生物多样性。由图1可知，起初曲线直线上升，随后缓慢升高直至平滑，6组样本均表现出先骤增后趋于某一个定值的趋势，由此表明，6组样本的测序量都足以覆盖样本中绝大部分微生物。
+
+D1：I组；D2：Ⅱ组；D3：II组；D4：IV组；D5：V组；D6：VI组。下图同。 D1: group I; D2: group II; D3: group II; D4: group IV; D5: group V; D6: group VI. The same as below.
+
+![](images/3cc868fff1a1bd1c66fbe1dfa833b3811ba5505c810b89f426ea23573a2e8519.jpg)  
+图1Shannon 曲线  
+Fig.1 Shannon curve
+
+由图2可知，本试验样本组成的红色箱式曲线先缓慢升高后趋于平缓，表明物种不随样本量的增加而显著增多；绿色箱式曲线先下降后趋于平缓，表明所取样本中的共有物种趋于饱和。红色和绿色箱式曲线结果均说明本试验所取样本量足以反映当前所有微生物物种。
+
+![](images/b3d026e0d90b6e7e825cf294411971ea2ab05b6df1dfce12c4873d1724fb5053.jpg)  
+图2属水平物种累积曲线图
+
+# 2.3菌群相似性分析结果
+
+通过分析不同组样本OUT的组成可以反映样品的差异和距离。采用非加权组平均(UPGMA)法对样本进行聚类分析。距离标尺下，由样本UPGMA 聚类树（图3）可知，I组与VI组距离最小，说明I组与VI组盲肠菌群组成相似性最高；I组与Ⅱ组距离最大，说明I组与ⅡI组盲肠菌群组成相似性最低。这说明饲粮中添加不同水平的叶酸和维生素 $\mathbf { B } _ { 1 2 }$ 对雏鹅盲肠菌群结构产生了一定的影响。图4所示的组间主坐标分析（PCoA）结果与该结果相似。
+
+![](images/603f2d4ee15cd439eeb33f086e2cb08e505c264166367421092c17adb4502855.jpg)  
+Fig.2 Cumulative curve chart of species in genus level   
+图3 UPGMA聚类树  
+Fig.3 UPGMA clustering tree
+
+![](images/6b1a49a401a15afaf9046dbda9b7ec1363c49c9fee8eca9112716e4dc3c2e739.jpg)  
+图4PCoA图
+
+图5为雏鹅盲肠菌群属水平物种丰度聚类热图。由图可知，ⅡI组与IV组颜色差异最大，分支距离也最远，表明I组与IV组在属水平上菌群相似性最低；I组与Ⅲ组、VI组颜色差异均较小，距离较近，表明I组与Ⅲ组、VI组在属水平上菌群相似性均较高；ⅡI组与V组颜色差异最小，距离最近，表明Ⅱ组与V组在属水平上菌群相似性最高；IⅢ组与IV组颜色差异最小，距离最近，表明Ⅲ组与IV组在属水平上菌群相似性最高。上述结果说明饲粮中添加不同水平的叶酸和维生素 $\mathbf { B } _ { 1 2 }$ 使雏鹅盲肠菌群结构发生了变化。
+
+![](images/896d0e98c8a7eb45a99ddd14a4727ae3281e9a1d6932e006806de52ccf8d2b1d.jpg)  
+Fig.4 PCoAchart   
+图5属水平物种丰度聚类热图
+
+# 2.4优势菌群分析
+
+图6显示的是饲粮添加不同水平的叶酸和维生素 $\mathbf { B } _ { 1 2 }$ 对雏鹅盲肠菌群门水平丰度的影响。在相似性 $9 7 \%$ 的门水平下，所有盲肠样本中检测到10个菌门，其中VI组、V组、IV组均检测出9个菌门，组、Ⅱ组分别检测到8和7个菌门。分别计算盲肠样本中检测到的菌门的相对丰度，可知厚壁菌门(Firmicutes)、拟杆菌门(Bacteroidetes)和变形菌门(Proteobacteria)为优势菌门。图7显示的是优势菌门的相对丰度，Ⅱ组厚壁菌门相对丰度最高，为 $61 . 5 \%$ ，显著高于其他各组（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ ）；VI组拟杆菌门相对丰度最高，为 $3 8 . 4 \%$ ，与IⅢ组、V组差异不显著（ $P { > } 0 . 0 5$ ）；I组变形菌门相对丰度最高，为 $3 7 . 7 \%$ ，显著高于Ⅱ组、V组（ $P { < } 0 . 0 5$ ）。此外，蓝藻菌门（Cyanobacteria)在IV组的相对丰度最高，为 $1 . 8 9 \%$ ，疣微菌门（Verrucomicrobia）在VI组的相对丰度最高，为 $3 . 1 \%$ ，无壁菌门（Tenericutes）在V组的相对丰度最高，为 $2 . 7 \%$ 0其他菌门如放线菌门（Actinobacteria）和脱铁杆菌门（Deferribacteres）相对丰度较低 $( < 0 . 1 \% )$ 甚至在有些样本中未检测到。饲粮添加不同水平的叶酸和维生素 $\mathbf { B } _ { 1 2 }$ 使雏鹅盲肠菌群门水平丰度发生了变化，其中厚壁菌门、拟杆菌门和变形菌门变化明显，这说明，饲粮中添加不同水平叶酸和维生素 $\mathbf { B } _ { 1 2 }$ 改变了雏鹅盲肠菌群结构。
+
+![](images/0bf667090e30807e375e0c13ae7fe44e376496050a0e89fdf66dd86bac80359d.jpg)  
+Fig.5Species abundance clustering heat map in genus level
+
+180 Unknown：未知菌；Others：其他；放线菌门：Actinobacteria；脱铁杆菌门：Deferribacteres；黏胶  
+181 球形菌门：Lentisphaerae；无壁菌门：Tenericutes；疣微菌门：Verrucomicrobia；蓝藻菌门：Cyanobacteria;
+
+![](images/a062b6a3766dc5ddfcd0e981445010d8cb2d320323f9d50797d9307a4dc63a15.jpg)  
+图6门水平物种分布柱状图  
+Fig.6Distribution histogram of species in phylum level   
+图7各组门水平优势菌结构与分布
+
+厚壁菌门：Firmicutes；拟杆菌门：Bacteroidetes；变形菌门：Proteobacteria；蓝藻菌门：Cyanobacteria;
+
+疣微菌门：Verrucomicrobia。
+
+数据柱标注不同小写字母表示差异显著（ $. P { < } 0 . 0 5$ ）。图9和图11同。
+
+Data columns with different small letters mean significant difference（ $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ ）.The same asFig.9 and Fig.11.
+
+Fig.7Structure and distribution of dominant microorganisms in phylum level of each group
+
+图8 显示了饲粮添加不同水平的叶酸和维生素 $\mathbf { B } _ { 1 2 }$ 对雏鹅盲肠菌群属水平丰度的影响。所有盲肠样本中共检测到91个菌属， $_ { \mathrm { I } \sim \mathrm { V I } }$ 组分别检测到86、84、83、87、87、83个菌属。如图9所示,相对丰度较高的5个属分别为脱磷弧菌属(Desulfovibrio）、杆菌属（Bacterium）、拟杆菌属（Bacteroides）、另枝菌属（Alistipes）和巴那斯拉菌属（Barnesiella）。如图8所示，相对丰度排名前5的优势菌属的相对丰度在不同组之间存在较大差异。脱磷弧菌属在I组、ⅡI组和IV组中相对丰度较高，与另外3组差异显著 $( P { < } 0 . 0 5 )$ ；IV组的杆菌属相对丰度最高，显著高于其他5组 $( P { < } 0 . 0 5 )$ ；V组的拟杆菌属相对丰度最高，显著高于I组、II组和IV组 $( P { < } 0 . 0 5 )$ ；VI组的另枝菌属相对丰度最高，显著高于除组外的其余各组 $( P { < } 0 . 0 5 )$ ：
+
+IⅢ组的巴那斯拉菌属相对丰度最高，显著高于其他5组 $( P { < } 0 . 0 5 )$ 。
+
+![](images/49c1ab482a8364c367ced5da1269307503e4e72bef8f56ff10fbe735313c5547.jpg)  
+图8属水平物种分布柱状图
+
+Unknown：未知菌；Others：其他；厌氧棍状菌属：Anaerotruncus；副类杆菌属：Parabacteroides；考拉杆菌属：Phascolarctobacterium；柔嫩梭菌属：Faecalibacterium；瘤胃球科菌 UCG-014 菌属：RuminococcaceaeUCG-014；巴那斯拉菌属：Barnesiella；另枝菌属：Alistipes；拟杆菌属：Bacteroides；杆菌属：Bacterium;脱磷弧菌属：Desulfovibrio
+
+![](images/2914430f21cd9b9e3eff974ce7097f5c768c4529122cd1184cc5fa6d2e3d791d.jpg)  
+Fig.8Distribution histogram of species in genus level   
+图9各组属水平优势菌结构与分布
+
+脱磷弧菌属：Desulfovibrio；杆菌属：Bacterium；拟杆菌属：Bacteroides；另枝菌属：Alistipes;  
+巴那斯拉菌属：Barnesiella。
+
+Fig.9Structure and distribution of dominant microorganisms in genus level of each group图10 显示了饲粮中添加不同水平的叶酸和维生素 $\mathbf { B } _ { 1 2 }$ 对雏鹅盲肠菌群种水平丰度的影响。如图11所示，在种水平，6组样本中，杆菌（Bacilus）在I～VI组中的相对丰度分别为$9 3 . 5 \%$ 、 $9 3 . 7 \%$ 、 $87 . 8 \%$ 、 $9 5 . 2 \%$ 、 $9 3 . 4 \%$ 和 $87 . 9 \%$ ，表明杆菌在雏鹅盲肠种水平上有绝对优势。饲粮中添加不同水平叶酸和维生素 $\mathbf { B } _ { 1 2 }$ 组合对雏鹅盲肠中其他菌种相对丰度的影响均未达到显著水平 $( P { > } 0 . 0 5 )$ 。
+
+![](images/15a265614b08701ff050a666360ed510c32321521a9b7cdf423a45b1d8c4778c.jpg)  
+图10种水平物种分布柱状图
+
+![](images/f3efd7ed49695639c84c8702f68dfd2be5facf940e2fcd03d4236821f2512535.jpg)  
+Fig.10Distribution histogram of species in species level   
+图11各组种水平优势菌结构与分布
+
+3讨论
+
+3.1叶酸和维生素 $\mathbf { B } _ { 1 2 }$ 的功能与相互关系
+
+肠道微生物既影响着营养物质的消化、吸收和能量供应，又调控着宿主正常生理功能及疾病的发生与发展，肠道微生态系统对机体正常功能的运行有着至关重要的影响[14]。目前，关于用高通量测序来测定家禽肠道菌群的研究早有报道。研究表明，肠道微生物及其代谢对肉仔鸡的营养、健康与疾病具有重要的影响和调控作用，通过营养方式干预宿主肠道微生物健康已经成为动物营养学研究的热点[10]。研究表明，在玉米-豆粕型肉仔鸡饲粮中添加叶酸，可提高采食量和体重且以 $3 . 0 \mathrm { m g / k g }$ 叶酸组的效果最显著[1]。薛安永等[12]发现，在8 周龄肉杂鸡饲粮中添加叶酸，日采食量和日增重在含有 $1 . 6 4 \mathrm { m g / k g }$ 叶酸组与其他各组间存在显著差异；与对照组比较，日增重和日采食量在叶酸添加组有增加的趋势。余有贵[15]研究表明，叶酸具有维持动物免疫系统正常功能的作用，其缺乏会提高动物对细菌的敏感性，阻碍淋巴细胞正常功能的发挥及抗体的合成。
+
+维生素 $\mathbf { B } _ { 1 2 }$ 作为辅酶，参与一碳单位的合成，在DNA甲基化中起着非常重要的作用。维生素 $\mathbf { B } _ { 1 2 }$ 影响着叶酸的代谢效率，并且参与嘌呤和核苷酸的合成，同时维持DNA的合成与修复，保证染色体的稳定性。维生素 $\mathbf { B } _ { 1 2 }$ 在机体内主要通过2种物质吸收和转运，分别是内源因子(intrisic factor,IF)和钴胺转运蛋白(transcobalamin，TC)。所以，维生素 $\mathbf { B } _ { 1 2 }$ 实际上与核酸和蛋白质的合成密切相关[16]。维生素 $\mathbf { B } _ { 1 2 }$ 依赖的是蛋氨酸合成酶，能催化1个甲基基团,从甲基四氢叶酸上转移至同型半胱氨酸 $( \mathrm { H c y } )$ ),形成蛋氨酸，最终形成S腺苷蛋氨酸(SAM)。缺乏维生素 $\mathbf { B } _ { 1 2 }$ 将减少DNA 甲基化的 SAM可利用量，从而影响其基因的表达[17]。叶酸与维生素 $\mathbf { B } _ { 1 2 }$ 联合应用的研究常见于医学报道，而在家禽营养学上的研究基本处于空白。本试验首次利用高通量测序技术研究饲粮中联合添加不同水平的叶酸和维生素 $\mathbf { B } _ { 1 2 }$ 对雏鹅盲肠菌群结构的影响，以探讨不同添加水平叶酸和维生素 $\mathbf { B } _ { 1 2 }$ 的组合效应对盲肠菌群结构的干预效果。本试验中IV组（叶酸添加水平 $2 . 5 0 \mathrm { m g / k g \times }$ 维生素 $\mathbf { B } _ { 1 2 }$ 添加水平 $0 . 0 0 9 \mathrm { m g / k g }$ ）的OUT、ACE 指数、Chao1指数均最高，表明IV组盲肠微生物的物种丰度高于其他5组，饲粮中添加不同水平的叶酸和维生素 $\mathbf { B } _ { 1 2 }$ 能够影响雏鹅盲肠菌群组成和数量。
+
+3.2饲粮中添加叶酸和维生素 $\mathbf { B } _ { 1 2 }$ 对雏鹅盲肠菌群结构的影响
+
+研究证明，厚壁菌门与肠道吸收营养息息相关，肥胖人体内厚壁菌门一般维持一个较高的比例，且菌群多样性程度较差，同时厚壁菌门细菌种类的比例增加可能有助于肥胖的病理生理学，肥胖的严重程度往往与厚壁菌门占比呈正相关[18]。厚壁菌门主要功能是对碳水化合物和蛋白质进行水解，而拟杆菌门主要作用于类固醇、多糖和胆汁酸的代谢，有助于宿主对多糖的吸收以及蛋白质的合成[19]。Hildebrandt 等[20]在对RELI基因敲除小鼠和野生鼠从正常饮食切换到高脂肪饮食后发现，拟杆菌门的数量有所减少而厚壁菌门和变形菌门的数量有所增加，作者推测这种变化是由高脂肪饮食引起而不是肥胖本身所引起。本试验在所有雏鹅盲肠样本中共检测到10 个菌门，其中厚壁菌门、拟杆菌门和变形菌门为优势菌门，这与之前的报道[21结果一致。各组盲肠样本在门、属水平上的菌群分布均存在差异。在门水平上，Ⅱ组厚壁菌门的相对丰度最高，VI组拟杆菌门的相对丰度最高,I组变形菌门的相对丰度最高。在属水平上，相对丰度最高的5个属分别为脱磷弧菌属、杆菌属、拟杆菌属、另枝菌属和巴那斯拉菌属，且优势菌属的相对丰度在不同组之间存在较大差异，在种水平上，6组鹅盲肠样本中杆菌均有绝对优势，但组间差异不显著。这表明饲粮中添加不同水平的叶酸和维生素$\mathbf { B } _ { 1 2 }$ 影响了雏鹅盲肠的菌群结构。结合生长性能结果，饲粮中添加 $2 . 5 0 ~ \mathrm { m g / k g }$ 叶酸和0.009$\mathrm { m g / k g }$ 维生素 $\mathbf { B } _ { 1 2 }$ 的组雏鹅的终末体重和平均日增重最高，进一步表明饲粮中叶酸和维生素$\mathbf { B } _ { 1 2 }$ 组合通过调节雏鹅盲肠菌群结构影响其生长性能。
+
+4结论
+
+$\textcircled{1}$ 饲粮中添加 $2 . 5 0 \mathrm { m g / k g }$ 叶酸和 $0 . 0 0 9 \mathrm { m g / k g }$ 维生素 $\mathbf { B } _ { 1 2 }$ 的组雏鹅的终末体重和平均日增重最高。$\textcircled{2}$ 饲粮中添加 $2 . 5 0 \mathrm { m g / k g }$ 叶酸和 $0 . 0 0 9 \mathrm { m g / k g }$ 维生素 $\mathbf { B } _ { 1 2 }$ 的盲肠菌群 OUT、ACE 指数、Chaol指数最高，物种丰度最高。$\textcircled{3}$ 盲肠优势菌门和优势菌属的相对丰度在不同组之间存在较大差异，但杆菌在各组雏鹅盲肠中均占有绝对优势。$\textcircled{4}$ 由此得出，饲粮中添加 $2 . 5 0 \mathrm { m g / k g }$ 叶酸和 $0 . 0 0 9 \mathrm { m g / k g }$ 维生素 $\mathbf { B } _ { 1 2 }$ 能够优化雏鹅盲肠菌群结构，增加有益菌的丰度，进而提高生长性能。参考文献:[1]ALAHHAM S H,ROELOFSEN H,PRIEBE M,et al.Regulation of adipokine production inhuman adipose tissue by propionic acid[J].European Journal of Clinical Investigation,2010,40(5):401-407.
+
+[2]SEKIROV I,RUSSELL S L,ANTUNES L C M,et al.Gut microbiota in health and disease[J].Physiological Reviews,2010,90(3):859-904.   
+[3]ZHANG C H,LI S F,YANG L,et al.Structural modulation of gut microbiota in life-long calorie-restricted mice[J].Nature Communications,2013,4:2163.   
+[4]CHUNG H,PAMP S J,HILL J A,et al.Gut immune maturation depends on colonization with a host specific Microbiota[J].Cell,2012,149(7):1578-1593.   
+[5]郭科.饲用抗生素对肉鸡叶酸营养代谢和肠道微生物的影响及其相互关系[D].硕士学位 论文.北京:中国农业科学院,2001.   
+[6] 刘欢,黄国伟.叶酸、维生素 $\mathbf { B } _ { 1 2 }$ 、 $\mathbf { B } _ { 6 }$ 与神经退行性疾病[J].大津医科大学学 报,2005,11(4):650-653.   
+[7]ERKURT M A,AYDOGDU I,DIKILITAS M,et al.Efects of cyanocobalamin on immunity in patients with pernicious anemia[J].Medical Principles and Practice,2008,17(2):131-135.   
+[8]CORRIGAN A,HORGAN K,CLIPSON N,et al.Efect of dietary supplementation with a Saccharomyces cerevisiae mannan oligosaccharide on the bacterial community structure of broiler cecal contents[J].Applied and Environmental Microbiology,2011,77(18):6653-6662.   
+[9]SHAUFI M A M,SIEO C C,CHONG C W,et al.Deciphering chicken gut microbial dynamics based on high-throughput 16S rRNA metagenomics analyses[J].Gut Pathogens,2015,7(1):4. [10]YANG G Q,YIN Y,LIU H Y,et al.Efects of dietary oligosaccharide supplementation on growth performance,concentrations of the major odor-causing compounds in excreta,and the cecal microflora of broilers[J].Poultry Science,2016,95(10):2342-2351.   
+[11] 葛文霞.烟酸和不同水平叶酸对肉仔鸡生产性能和血清理化指标影响的研究[D].硕士学 位论文.石河子:石河子大学,2006.   
+[12]薛安永,曹体婷,孙永强,等.叶酸对肉杂鸡日增重及血液生化指标的影响[J].上海畜牧兽 医通讯,2008(4):60-61.   
+[13]NRC.Nutrient requirements of poultry[S].9th Rev ed.Washington,D.C.:National Academy Press,1994.   
+[14]马曦,韩萌,李德发.猪肠道微生物代谢与思考[C]//中国畜牧兽医学会动物营养学分会第 十届全国代表大会暨十二届学术研讨会论文集.武汉:中国农业大学出版社,2016:3-14. [15]余有贵.叶酸的营养研究现状与展望[J].邵阳学院学报(自然科学版),2002,1(2):96-98. [16] 王芬芬,陈晓光,张娟,等.肝癌病人血浆叶酸和维生素 $\mathbf { B } _ { 1 2 }$ 水平变化及其意义[J].青岛大学   
+医学院学报,2011,47(4):288-289,292.   
+[17]PUFULETE M,AL-GHNANIEMR,KHUSHAL A,et al.Effect of folic acid supplementation   
+on genomic DNA methylation in patients with colorectal adenoma[J].Gut,2005,54(5):648-653.   
+[18]RIVA A,BORGO F,LASSANDRO C,et al.Pediatric obesity is associated with an altered gut   
+microbiota and discordant shifts in Firmicutes populations[J].Environmental Microbiology,2017,   
+19 (1):95-105,   
+[19]MURPHY E F,COTTER PD,HEALY S,et al.Composition and energy harvesting capacity   
+of the gut microbiota:relationship to diet,obesity and time in mouse models[J].Gut,2010,59(12)   
+:1635-1642.   
+[20]HILDEBRANDT M A,HOFFMANN C,SHERRILL M S A,et al.High-fat diet determines   
+the composition of the murine gut microbiome independently of obesity[J].Gastroenterology,   
+2009,137(5):1716-1724.   
+[21]LAMENDELLA R,DOMINGO JW S,GHOSH S,et al.Comparative fecal metagenomics   
+unveils unique functional capacity of the swine gut[J].BMC Microbiology,2011,11:103. Effects of Folic Acid and Vitamin $\mathbf { B } _ { 1 2 }$ Supplementations on Caecal Microflora Structure of Gosling CHENG Manman ZHANG Tingrong\* WANG Baowei\*KONG Min ZHANG Ming'ai YUE Bin GE Wenhua (Nutrition and Feed Laboratory of China Agriculture Research System, Institute of High Quality Waterfowl, Qingdao Agricultural University; Qingdao 266109, China)
+
+Abstract: This study investigated the effects of different folic acid and vitamin $\mathbf { B } _ { 1 2 }$ supplemental levels in diets on the caecal microflora structure of gosling. A total of 360 one-day-old Wulong geese were randomly divided into 6 groups,each group had six replicates and each replicate consisted of 5-male and 5-female geese. A $2 { \times } 3$ two-factor（folic acid $\times$ vitamin ${ \bf B } _ { 1 2 }$ ）crossed equal replication factorial design was used in this experiment, the folic acid supplemental levels in diets were 0.55 and $2 . 5 0 ~ \mathrm { m g / k g }$ ，respectively,and the vitamin $\mathbf { B } _ { 1 2 }$ supplemental levels in diets were 0.009, 0.018 and $0 . 0 3 6 ~ \mathrm { m g / k g }$ ,respectively. The folic acid and vitamin $\mathbf { B } _ { 1 2 }$ supplemental levels in diets of groups I to $\mathrm { ~ \textmu ~ } \mathrm { ~ U I }$ were 0.55 and $0 . 0 0 9 \mathrm { m g / k g }$ ,2.50 and $0 . 0 1 8 ~ \mathrm { { m g / k g } , }$ 0.55 and $0 . 0 3 6 \mathrm { m g / k g } .$ 2.50 and $0 . 0 0 9 \mathrm { m g / k g } , 0 . 5 5$ and $0 . 0 1 8 ~ \mathrm { m g / k g } , 2 . 5 0$ and $0 . 0 3 6 ~ \mathrm { m g / k g }$ ，respectively.The experiment lasted for 4 weeks. The 16S rRNA high throughput sequencing technology was used to investigate the microbial diversity in the caecum of gosling after the feeding experiment. Based on the Illumina HiSeq sequencing platform,and a small fragment library was constructed by paired-end sequencing, and then carried on $\mathfrak { a }$ diversity and significantly different species analysis. The results showed as follows:1）dietary supplemented different levels of folic acid and vitamin $\mathbf { B } _ { 1 2 }$ had significant effects on final body weight (FBW） and average body weight (ADG) of gosling （204号 $( P { < } 0 . 0 5 )$ , but had no significant effect on feed/gain (F/G) $( P { > } 0 . 0 5 )$ . The FBW and ADG in group IVwere significantly higher than those in the other five groups $( P { < } 0 . 0 5 )$ .2）The operational taxonomic unit（OUT） number,ACE index and Chaol index of group $\mathrm { I V }$ were the highest, which demonstrated that the species abundance of group IV was higher than that of the other five groups. Clustering analysis showed that the caecal microflora of groupsIand VI had the highest similarity,and that of groupsIand Ihad the lowest similarity. 3) Firmicutes, Bacteroidestes and Proteobacteria were the predominant bacteria phylums. Caecal abundance microflora in phylum level was changed by dietary supplemented different levels of folic acid and vitamin $\mathbf { B } _ { 1 2 }$ ，and the Firmicutes,Bacteroidestes and Proteobacteria changed obviously.A total of 91 different genera were detected in the ceacal samples. From groups I to VI,86,84,83,87,87 and 83 genera were detected, respectively. The higher relative abundant genera were Desulfovibrio, Bacterium, Bacteroides,Alistipes and Barnesiella. The abundance of dominant genera existed major difference among different groups. In species level, Bacilus had an absolute advantage in the caecal microflora of each group, the relative abundance of Bacilus in groupsIto $\mathrm { ~ \textmu ~ } \mathrm { ~ U I }$ was $9 3 . 5 \%$ ， $9 3 . 7 \%$ ， $8 7 . 8 \%$ ， $9 5 . 2 \%$ ， $9 3 . 4 \%$ and $8 7 . 9 \%$ ,respectively,and no significant difference was found among groups $( P { > } 0 . 0 5 )$ . It is concluded that supplemented $2 . 5 ~ \mathrm { { m g / k g } }$ folic acid and 0.009 （204号 $\mathrm { m g / k g }$ vitamin $\mathbf { B } _ { 1 2 }$ in the diet can optimize the caecal microflora structure,and increase the abundance of beneficial microorganisms, thus to improve the performance of gosling.
+
+Key words: folic acid; vitamin $\mathbf { B } _ { 1 2 }$ ; gosling; growth performance; caecal microflora structure

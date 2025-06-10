@@ -1,0 +1,343 @@
+[
+    {
+        "type": "text",
+        "text": "过表达DLL3促进人胃癌细胞的增殖 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "胡冰心',叶健斌],邱晓媚²,林彦青},吴丹琳},温俊杰',罗美群},宁立军},李 妍',宁云山'1南方医科大学检验与生物技术学院生物治疗研究所,广东广州 510515;珠海南医大生物医药公共服务平台有限公司，广东珠海519090",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的构建人全长DLL3的真核表达质粒，并分析上调和下调DLL3对人胃癌细胞增殖的影响。方法采用PCR扩增人全长DLL3基因并克隆至真核表达载体pCMV-Tag4中,通过酶切及测序鉴定后,瞬时转染HEK293T细胞,并以转染pCMV-Tag4质粒和无转染HEK293T细胞分别为阴性对照和空白对照,实时荧光定量PCR(qRT-PCR)和Westemblot鉴定人全长DLL3基因的表达;进一步通过qRT-PCR和Westemblot检测人DLL3在人正常口腔上皮细胞GES-1和AGS等3株胃癌细胞中的表达差异；当人DLL3/pCMV-Tag4瞬时转染3株胃癌细胞后,利用MTT检测DLL3过表达后胃癌细胞的增殖;同时,特异性人DLL3siRNA转染人胃癌细胞MGC803和MKN45,利用MTT检测DLL3下调后胃癌细胞的增殖。结果成功构建了人全长DLL3/pCMV-Tag4重组质粒,转染HEK293T细胞24h后,qRT-PCR和Westemblot表明DLL3在mRNA和蛋白水平上的表达显著高于对照组;MTT细胞增殖实验显示：过表达DLL3促进胃癌细胞的增殖，下调DLL3后抑制胃癌细胞的增殖。结论 成功构建了人全长DLL3/pCMV-Tag4真核表达质粒并在HEK293T细胞中获得表达,过表达DLL3促进胃癌细胞的增殖，下调DLL3抑制胃癌细胞的增殖,本研究为以DLL3为新靶点对胃癌进行靶向治疗提供新思路。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：人DLL3;真核表达;胃癌细胞；增殖 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Over-expression of human Notch ligand Delta-like 3 promotes proliferation of human gastric cancer cells in vitro ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HUBingxin',inioe,inln,jieeqn,G,n BiotherapytehlfbatoyicedotecholooeicalsityagouZ SMUBiomedicinePublic ServicePlatform,Zhuhai 519o90,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ObjectiveToconstruct a eukaryotic expresion plasmid carrying human full-ength Notch ligand Delta-like3(DLL3) geneand studythe efectofDLL3 knockdownand overexpressionontheproliferationof gastriccancercelsinvitro.Methods Human ful-ength DLL3 gene wasamplified by PCR and cloned into the eukaryotic expresson vector pCMV-Tag4. After verificationby restriction enzymes and sequencing,therecombinant DLL3/pCMV-Tag4 vector was transientlytransfected into HEK293T cels,in which the expressons of human DLL3 mRNA and protein were detected using real-timequantitative PCR and Western blotingrespectively.TheexpressionofDL3 innoral gastricepithelialcelsand gastriccancercellines was detected by qRT-PCR and Western bloting. DLL3/pCMV-Tag4 wastransfected into 3 gastriccancer cellines,and their proliferation wasassssed with MTTassay. Human gastriccancer cels MGC803 and MKN45 were also transfected with a specific human DLL3-siRNA toassessthe effct ofDLL3 down-expressiononthecellproliferation.ResultsTherecombinant eukaryotic expression vector DLL3/pCMV-Tag4 wassuccessfullyconstructed and human full-ength DLL3 was expressed in HEK293Tcels.MTT assay showed that DLL3over-expression obviously promoted the proliferationand down-regulationof DLL3 inhibited the proliferation of the gastriccancer cels. ConclusionDLL3 overexpresion can promote theproliferationof gastriccancercels invitro,anddown-regulationofDLL3 inhibits the proliferationof gastrccancercels,whichprovidesa novel strategy for targeted thrapy of gastric cancer. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: human Delta-like ligand 3; eukaryotic expression; gastric cancer celline; proliferation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Notch信号通路广泛存在于高等生物中，是细胞命运决定和个体发育的关键信号通路之一。人和哺乳动物有4种Notch受体(Notch1-4)和5种配体(Jagged1、Jagged2和DLL1、DLL3、DLL4)[1。自2004年首次报道约 $50 \\%$ 的T细胞急性淋巴细胞白血病患者中发现Notch1基因突变以来，越来越多研究表明Notch信号通路的异常与多种肿瘤的发生发展密切相关[3-6]。Notch信号通路已经成为了新的肿瘤诊断和治疗靶点[7-9]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "胃癌是引起世界范围内癌症相关死亡的第三大原因[]，已有研究表明：Notch配体的异常表达与胃癌的发生发展密切相关。例如，Jagged1在弥散型胃癌和低分化型胃癌中显著过度表达，在T期、N期和TNM期的胃癌病人中检测到DLL4高表达[1];DLL4的过表达增强胃癌干细胞的自我更新能力，并且通过激活Notch1信号通路造成胃癌患者的不良预后[12]，同时，研究发现在瘤内注射Jagged1和DLL4的siRNA可以抑制肿瘤生长[13]已有研究发现DLL3在小细胞肺癌[14],急性髓性白血病[15]和大细胞神经内分泌瘤1中过表达，人DLL3在肺腺癌患者中的高表达与其总体生存率下降有关[7]。但是，DLL3在胃癌中的作用及机制尚不明确。最近，我们通过分析TCGA(TheCancerGenomeAltas)数据库中393例人胃癌(GC)病人的DLL3基因突变、拷贝数变异中发现，人DLL3基因在 $5 \\%$ 的上述样本发生了的基因突变和拷贝数变异,UCSC(UniversityofCalifornia,Santa Cruz)数据库的478例胃癌患者的RNAseq数据表明大部分患者的癌组织中DLL3表达量降低,少部分胃癌患者的癌组织中DLL3表达量增加，而KaplanMeier生存分析表明DLL3高表达患者的生存时间降低，提示人DLL3可能与GC的发生发展密切相关，因此，有必要阐明DLL3介导的Notch信号在胃癌发生发展中的作用及分子机制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前未见到有关于人DLL3基因表达的报道，本研究在前期已表达人Notch 配体DLL1[18]、DLL4[19]和Jagged $1 ^ { [ 2 0 ] }$ 的基础上，旨在构建人全长DLL3真核表达质粒，并在HEK293T细胞中获得人全长DLL3蛋白的表达，进一步转染AGS等3株胃癌细胞，探究过表达DLL3对胃癌细胞增殖的影响，采用特异性siRNA下调胃癌细胞中DLL3的表达，进一步验证DLL3对胃癌细胞增殖的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 材料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1质粒,菌株，细胞系人DLL3(NM016941)cDNA克隆(DLL3/pOTB7)质粒（优宝生物）;载体pCMV-Tag4和HEK293T、GES-1、AGS、MGC803和MKN45细胞由本实验室保存;感受态大肠杆菌DH5a和JM109(Tiangen)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.2 试剂TaKaRa TaqTM、DL 5000 DNA marker、pMDM18-TVector CloningKit、限制性核酸内切酶 SalI、BamH1、T4DNA连接酶、RNAisoPlus、割胶回收试剂盒、质粒提取试剂盒、PrimeScriptMRTreagent KitwithgDNAEraser逆转录试剂盒(TaKaRa);RT-qPCR试剂盒 ChamQ SYBR qPCR Master Mix（Vazyme）;LipofectamineTM 2000（Invitrogen）；人 DLL3- siRNA(sc-62206),Control siRNA(sc-37007)(Santa Cruz);小鼠抗人DLL3抗体(R&DSystems);兔抗人GAPDH抗体、小鼠抗人β-actin抗体(Bioworld);RIPA细胞裂解液、",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PMSF、170 000 proteinmarker、PVDF膜、EZ-ECL发光试剂、HRP标记的羊抗小鼠IgG、HRP标记的羊抗兔IgG等(弗德生物);Bradford蛋白检测试剂盒(碧云天);引物合成、基因测序由广州艾基生物技术有限公司完成。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.3 仪器 PCR仪(Veriti 96 well Thermal Cycler),实时荧光定量PCR仪(ABI7500)（Applied Biosystem）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.4培养基小牛血清（四季青）;DMEM培养基(Gibco)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.5引物设计根据Genbank中人DLL3(NM016941.3)的基因序列，设计扩增人全长DLL3基因的PCR上下游引物，上游引物：5'-GCCACCATGGTCTCCCCACGGATGT-3';下游引物:5'-TTTCACGGACAGAATCGAGGAAGGGTA-3';设计特异性实时荧光定量PCR(qRT-PCR)引物，以 $\\beta \\cdot$ -actin为内参检测DLL3在mRNA水平的表达，DLL3上游引物：5'-GACCCTCAGCGCTACCTTTT-3';DLL3下游引物:5'-TACATCTTCAGGGCGATTCC-3';β-actin上游引物:5'-TGGCACCCAGCACAATGAA-3'; $\\beta$ -actin下游引物：5'-CTAAGTCATAGTCCGCCTAGAAGCA-3'。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上述引物均由广州艾基生物技术有限公司完成。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1人全长DLL3基因的扩增以人全长DLL3/pOTB7质粒为模板，通过PCR扩增人全长DLL3基因，PCR反应条件为 $9 5 \\ \\mathrm { { ‰} } \\ 5 \\ \\operatorname* { m i n } ; 9 8 \\ \\mathrm { { ‰ } } \\ 1 0 \\ \\mathrm { { s } } , 5 6 \\ \\mathrm { { ‰ } }$ $7 2 \\mathrm { ~ \\textdegree C } 2 \\mathrm { ~ m i n } , 3 4$ 个循环； $7 2 \\mathrm { ~ \\textdegree ~ C ~ } 1 5 \\mathrm { ~ m i n }$ 。PCR产物经 $1 \\%$ 琼脂糖凝胶电泳鉴定。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2人全长DLL3/pCMV-Tag4重组质粒的构建和鉴定切胶回收PCR产物，将纯化的PCR产物与pMD18-T(9:1)在T4DNA连接酶作用下， $1 6 ~ \\mathrm { { ^ circ C } }$ 连接 $3 0 ~ \\mathrm { m i n }$ ，转化感受态大肠杆菌JM109,在含有X-Gal、IPTG、Amp的LB-琼脂平板培养基上过夜培养,次日挑取白色的单菌落进行培养并提取质粒，将阳性质粒用BamHI和SalI双酶切回收人全长DLL3基因，并克隆至真核表达载体pCMV-Tag4。重组质粒经BamHI和SalI双酶切和DNA测序进行鉴定。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3人全长DLL3/pCMV-Tag4重组质粒瞬时转染HEK293T细胞用DMEM完全培养基( $10 \\%$ FBS)常规培养HEK293T细胞，每2\\~3d传代1次。以 $2 . 5 { \\times } 1 0 ^ { 6 } / \\mathrm { m L }$ 细胞接种到6孔板，待细胞生长到 $90 \\%$ ，按LipofectamineTM2000转染试剂盒说明书进行转染，同时转染空载体pCMV-Tag4作为阴性对照组，无转染质粒的HEK293T细胞作为空白对照组，转染 $2 4 \\mathrm { h }$ 后消化各组细胞，提取细胞总RNA和蛋白质进行mRNA和蛋白水平鉴定。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.4qRT-PCR检测人DLL3基因在mRNA水平的表达重组人全长DLL3/pCMV-Tag4质粒转染HEK293T细胞24h后，消化各组细胞并用PBS清洗3遍离心去除上清，提取细胞总RNA，测RNA浓度和纯度后按逆转录试剂盒说明完成逆转录。按照qRT-PCR试剂盒说明，以 $\\beta$ -actin作内参进行DLL3mRNA检测,总反应体系为 $2 0 { \\mu \\mathrm { L } }$ 并设置3个复孔，以超纯水为模板做阴性对照，反应程序为 $9 5 \\ \\mathrm { ^ { \\circ } C \\ 3 0 \\ s ; 9 5 \\ ^ { \\circ } C \\ 1 0 \\ s , 6 0 \\ ^ { \\circ } C \\ 3 0 \\ s , 4 0 }$ 循环： $9 5 ^ { \\circ } \\mathrm { C } 1 5 \\mathrm { s } , 6 0 ^ { \\circ } \\mathrm { C } 6 0 \\mathrm { s } , 9 5 ^ { \\circ } \\mathrm { C } 1 5 \\mathrm { s } _ { \\circ }$ （204",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.5Westernblot鉴定人全长DLL3在蛋白水平的表达重组人全长DLL3/pCMV-Tag4质粒转染HEK293T细胞 $2 4 \\mathrm { h }$ 后，消化各组细胞并用PBS清洗3遍离心去除上清收集细胞，用RIPA蛋白裂解液冰上裂解细胞，每 $5 \\mathrm { m i n }$ 涡旋振荡1次， $2 0 ~ \\mathrm { m i n }$ 后离心取上清，用Bradford法测定蛋白浓度后加入蛋白上样缓冲液 $5 \\times$ loadingbuffer,沸水浴 $1 0 \\mathrm { m i n }$ ，进行 $10 \\%$ SDS-PAGE电泳 $( 1 8 \\mathrm { m A } , 9 0 \\mathrm { m i n } ,$ ），蛋白上样量约为 $1 0 \\mu \\mathrm { g }$ ，电泳结束后 $2 0 0 \\mathrm { m A }$ 恒流 $9 0 ~ \\mathrm { m i n }$ 转至PVDF膜,用含 $5 \\%$ 的脱脂奶粉的TBST( $1 0 \\ \\mathrm { m m o l / L }$ Tris-HCl,pH7.5,150 mmol/L NaCl, $0 . 0 8 \\%$ Tween-20)室温封闭 $1 . 5 \\mathrm { h }$ ，分别加入小鼠抗人DLL3抗体和兔抗人${ \\beta } .$ -actin抗体室温孵育 $3 0 \\mathrm { m i n }$ 后 $4 \\mathrm { { ^ { \\circ } C } }$ 过夜，用TBST洗去未结合的抗体，再分别加入HRP标记的羊抗小鼠和羊抗兔IgG二抗，室温孵育 $1 \\mathrm { ~ h ~ }$ ;TBST洗去未结合二抗后用EZ-ECL发光试剂检测结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.6DLL3在胃癌细胞系中的表达分析 待胃癌细胞AGS、MGC803和MKN45及正常胃上皮细胞GES-1长到 $80 \\% { \\sim } 9 0 \\%$ 时提取各细胞的总RNA，反转录为cDNA后进行qRT-PCR的检测,细胞总RNA制备和qRT-PCR步骤同1.2.4;同时用RIPA细胞裂解液(1:100加入PMSF)裂解细胞提取总蛋白，用小鼠抗人DLL3抗体检测DLL3蛋白的表达，细胞总蛋白制备和Westernblot步骤同1.2.5。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.7过表达人DLL3对胃癌细胞增殖的影响重组质粒DLL3/pCMV-Tag4和载体质粒pCMV-Tag4分别按照LipofectamineTM2000转染试剂盒说明转染胃癌细胞AGS、MGC803和MKN45后，消化各组细胞并用PBS清洗3遍去除上清收集细胞，细胞总蛋白制备和Westernblot步骤同1.2.5。Westernblot检测DLL3可在AGS等3株胃癌细胞中过表达后，向96孔板中汇合度长至 $60 \\%$ 的AGS、MGC803和MKN45细胞转染重组质粒DLL3/pCMV-Tag448h,去上清,每孔加入 $2 0 0 ~  { \\mu \\mathrm { L } }$ MTT工作液，于细胞培养箱中孵育 $2 \\mathrm { ~ h ~ }$ ，去上清，加入$2 0 0 { \\mu \\mathrm { L } }$ DMSO充分溶解沉淀后使用酶标仪( $4 9 0 \\ \\mathrm { n m }$ 检测其吸光度(A)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.8下调人DLL3在胃癌细胞中的表达及其对细胞增殖的影响人DLL3-siRNA和ControlsiRNA分别按照Lipofectamine $:  { \\mathrm { T M } } 2 0 0 0$ 转染试剂盒说明转染胃癌细胞MGC803和MKN45细胞， $2 4 \\mathrm { ~ h ~ }$ 后消化各组细胞并用PBS清洗3遍去除上清收集细胞，细胞总蛋白制备和Westernblot步骤同1.2.5。Westernblot检测DLL3在",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MKN45和MGC803胃癌细胞中表达下调后，向96孔板中汇合度长至 $60 \\%$ 的MGC803和MKN45细胞转染DLL3-siRNA和ControlsiRNA $4 8 \\mathrm { { h } }$ ，去上清，每孔加入$2 0 0 { \\mu \\mathrm { L } }$ MTT工作液，于细胞培养箱中孵育 $2 \\mathrm { h }$ ，去上清，加入 $2 0 0 { \\mu \\mathrm { L } }$ DMSO充分溶解沉淀后使用酶标仪( $( 4 9 0 \\mathrm { n m } )$ 检测其吸光度(A)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.9统计学分析每项实验独立重复3次，应用统计学分析软件SPSS20.0进行统计学处理，实验数据用均数 $\\cdot \\pm$ 标准差表示，对于qRT-PCR结果，多组间差异比较采用单因素方差分析，两两比较采用LSD法， $\\scriptstyle \\mathtt { \\alpha } = 0 . 0 5$ ；对于MTT结果，采用两独立样本t检验， $P { < } 0 . 0 5$ 认为差异有统计学意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1全长人DLL3/pCMV-Tag4重组质粒的构建及鉴定",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以人全长DLL3/pOTB7cDNA为模板,PCR产物经 $1 \\%$ 琼脂糖凝胶电泳电泳结果显示在 $1 8 0 0 ~ \\mathrm { b p }$ 左右可见特异性目的条带(图1A)，与预期结果一致。用BamHI和SalI双酶切获得人全长DLL3基因并克隆至pCMV-Tag4,重组质粒经BamHI和SalI进行双酶切鉴定，获得4300bp和 $1 8 0 0 ~ \\mathrm { b p }$ 的两条片段(图1B)，大小与预期相符，将酶切正确的阳性进一步进行DNA测序，测序结果经NCBIBLAST比对，显示读码框正确，将该阳性克隆命名为DLL3/pCMV-Tag4。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2qRT-PCR及Westernblotting检测DLL3在mRNA和蛋白水平上的表达",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将人全长DLL3/pCMV-Tag4重组质粒和空载体pCMV-Tag4分别转染HEK293T细胞，无转染质粒HEK293T细胞作为空白对照。 $2 4 \\mathrm { ~ h ~ }$ 后提取细胞总RNA，反转录成cDNA后进行qRT-PCR检测。结果显示，相对于对照组，人全长DLL3/pCMV-Tag4重组质粒转染HEK293T细胞24h后，人DLL3的mRNA的表达水平明显升高(图2A)。人全长DLL3/pCMV-Tag4重组质粒转染HEK293T细胞24h后，提取细胞总蛋白，利用小鼠抗人DLL3抗体检测目的蛋白的表达，结果显示在约78000处有一条特异性目的条带的表达，而对照组则未检测到目的条带(图2B),说明DLL3/pCMV-Tag4重组质粒在HEK293T细胞中表达。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3人DLL3在正常胃上皮细胞GES-1和胃癌细胞中的表达分析",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "待胃癌细胞AGS、MGC803和MKN45及正常胃上皮细胞GES-1细胞长到 $80 \\% \\sim 9 0 \\%$ 提取各细胞的总RNA，反转录为cDNA后进行qRT-PCR的检测，同时用RIPA蛋白强裂解细胞提取总蛋白，用小鼠抗人DLL3抗体检测人全长DLL3蛋白的表达。结果显示：相对于GES-1，人DLL3mRNA在AGS等3株胃癌细胞中表达水平显著升高(图3A);进一步的Westernblot表明：人",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b083313192ab28720f855cb1b9afd8c1ba963f4ba975ba212eb5b97691e13427.jpg",
+        "img_caption": [
+            "图1全长人DLL3/pCMV-Tag4重组质粒的构建及鉴定 Fig.1 Construction and identification of the recombinant plasmid DLL3/pCMV-Tag4.A: PCR amplification of full-length human DLL3 gene.M: DL 10 o00 DNA marker; 1:Human DLL3 gene;2: Negative control. B:Restriction enzyme digestion of recombinant eukaryotic plasmid DLL3/pCMV-Tag4.M:DL 10 000 DNA marker; 1: DLL3/ pCMV-Tag4 plasmid; 2: DLL3/pCMV-Tag4 plasmid digested byBamHIandSalI. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DLL3在3株胃癌细胞中的表达量均高于GES-1（图3B)，与qRT-PCR结果相符。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4人DLL3在胃癌细胞系的过表达及其对细胞增殖的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在3株胃癌细胞进行DLL3的过表达，通过Westernblot检测DLL3蛋白的表达，结果显示：转染DLL3/pCMV-Tag4后，在大约68000和78000处有两条特异性目的条带，而转染空载体对照组只有1条68000的目标条带，说明DLL3在胃癌细胞过表达成功（图4A)，之后我们进行了MTT实验以检测DLL3蛋白的过表达对细胞增殖的影响，结果显示，DLL3的过表达促进了胃癌细胞的增殖(图4B)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5下调人DLL3在胃癌细胞中的表达及其对细胞增殖的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在胃癌细胞MGC803和MKN45中转染特异性人DLL3-siRNA下调DLL3的表达，通过Westernblot检",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/56730c6e75ca1380973dd18493702bb71d746c0a595cf6a7d031eccbf8272f2c.jpg",
+        "img_caption": [
+            "图2人DLL3在HEK293T细胞中表达 Fig.2 Expression of DLL3 in HEK293T cells.A: Analysis of expression of human DLL3 mRNA by qRT-PCR( $^ { * * } P { < } 0 . 0 1$ Us HEK293T cells); B: Analysis of expression of full-length human DLL3 protein by Western blotting. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f22deab8c68c2f415152be2c82d0bf704c7e50cd30f023e883318c494f5fab94.jpg",
+        "img_caption": [
+            "图3人DLL3基因在正常胃上皮细胞GES-1和胃癌的表达分析 Fig.3 Expression of human DLL3 gene in normal gastric epithelial cels GES-1 and 3 gastric cancer cell lines.A:Analysis of relative expression of human DLL3 mRNA by qRT-PCR ( $^ { * } P { < } 0 . 0 5 ,$ $^ { * * } P { < } 0 . 0 1$ Us GES-1 cells); B: Analysis of expression of human full-length DLL3 protein by Western blotting. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "测DLL3蛋白的表达，结果显示：转染 $2 4 \\mathrm { ~ h ~ }$ 后，同controlsiRNA组相比，DLL3-siRNA转染组中DLL3表达明显减少，表明采用特异性人DLL3-siRNA在上",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "述胃癌细胞中成功下调DLL3表达(图5A)，进一步的MTT结果显示：下调DLL3抑制了上述胃癌细胞的增殖(图5B)。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1fee0ba5c048d031c804577f8aa7da29c39372b51379b1247b026991979b5803.jpg",
+        "img_caption": [
+            "图4过表达人全长DLL3蛋白对胃癌细胞增殖的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/28de88e7ed8a6de14829c58567e499d9560f5744fbd8eb95766cc81a8db579d0.jpg",
+        "img_caption": [
+            "Fig.4Effectof over-expression of DLL3on gastriccancer cell proliferation.A:Analysis of over-expression of human ful-length DLL3 protein in gastric cancer cels by Western bloting; B: Proliferation of gastric cancer cells after over-expression of human full-length DLL3 protein ( $^ { * } P { < } 0 . 0 5$ Us EV group). EV: Gastric cancer cells transfected by pCMV-Tag4 vector; DLL3: Gastric cancer cells transfected by DLL3/pCMV-Tag4. ",
+            "图5下调人DLL3基因的表达对胃癌细胞MGC803和MKN45增殖的影响 Fig.5Effect of down-regulationofDLL3on proliferationof MGC803and MKN45cels.A: Analysis of the expression of full-length DLL3 protein in MGC803and MKN45 celsafter transfection with specific human DLL3-siRNA by Western bloting; B:Proliferation of gastric cancer cels after DLL3-siRNA transfection ( $^ { * } P { < } 0 . 0 5$ Us control siRNA group). "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "人DLL3配体是由619个氨基酸组成的单次跨膜蛋白，其完整结构包含1个DSL结构域、1个胞内结构域和6个表皮生长因子样结构域。已有研究表明：DLL3可能抑制Notch受体介导的信号通路，这同DLL1和DLL4显著不同。例如DLL3不与相邻细胞表达的Notch受体结合或者激活Notch受体[21]，反之当DLL3与其他Notch信号通路成员在细胞表面共表达时会抑制其他配体激活Notch信号通路[22]。在原发性肝细胞癌中，检测到DLL3基因发生甲基化沉默，当在这些癌细胞系中加入去甲基化药物或者导入外源性DLL3基因，则诱导癌细胞的凋亡[23],在晚期神经内分泌瘤大鼠模型中，一种DLL3靶向抗体药物(SC16LD6.5)能够清除大鼠体内的肿瘤起始细胞[16,最新研究发现,DLL3在超过$80 \\%$ 的小细胞肺癌患者中均有高表达，I期临床研究表明：使用Rova-T(抗DLL3蛋白抗体偶联细胞毒素Tesirine)治疗小细胞肺癌表现出良好的抗肿瘤活性[24]。因此，作为一个有潜在临床诊断和治疗价值的靶点，对",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DLL3在胃癌中的作用及其分子机制的深入研究具有重要价值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在本研究中，我们首先通过酶切和测序分析表明成功构建了人全长DLL3/pCMV-Tag4重组质粒,当转染HEK293T细胞后发现：相对于转染空载体组，人全长DLL3/pCMV-Tag4重组质粒转染HEK293T细胞后，DLL3的mRNA水平显著提高 $( P { < } 0 . 0 5 )$ ,进一步的Westernblot结果显示在大约78000处有DLL3-Flag融合蛋白特异性条带，表明人DLL3在293T细胞后获得表达。HEK293T细胞是人源化的细胞系，可对表达的目的蛋白进行翻译后修饰，有利于获得具有天然构象的重组蛋白，而pCMV-Tag4中有Flag表达标签，便于后续亲和纯化。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "前期我们通过分析TCGA数据库和UCSC数据库提示人DLL3可能与胃癌的发生发展密切相关。为此，我们通过qRT-PCR和Westernblot检测了DLL3在正常人胃上皮细胞GES-1和人胃癌细胞中的表达差异。结果显示，相对于GES-1,DLL3在AGS等3株胃癌细胞中表达升高 $( P { < } 0 . 0 5 )$ ，其中DLL3在AGS中表达量最高，在MKN45中表达最低。为了进一步探究DLL3在胃癌中的作用,我们在AGS等3株胃癌细胞中进行DLL3的过表达，Westernblot结果显示：人全长DLL3/pCMV-Tag4重组质粒转染上述3株胃癌细胞后，在约68000和78000处有两条特异性目的条带，而转染pCMV-Tag4空载体对照组只在68000有一条目标条带，表明在AGS等3株胃癌细胞不仅检测到有表达内源性的人DLL3,而且，转染DLL3/pCMV-Tag4后获得外源性DLL3的表达。MTT实验结果表明：当人DLL3在AGS等3株胃癌细胞中过表达后均可以促进胃癌细胞的增殖 $( P { < } 0 . 0 5 )$ 。为了进一步验证这个结果，我们选择MKN45和MGC803细胞系，采用特异性人DLL3-siRNA下调上述胃癌细胞中DLL3的表达,Westernblot结果表明特异性人DLL3-siRNA转染胃癌细胞后下调胃癌细胞中DLL3蛋白的表达，同时MTT结果显示：下调DLL3蛋白的表达均可抑制胃癌细胞的增殖 $_ { ( P < 0 . 0 5 ) }$ ○",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上，本研究成功在HEK293T细胞中获得人DLL3的表达，过表达DLL3则促进胃癌细胞的增殖，表明人DLL3介导的Notch信号通路可能在人胃癌发生发展中扮演重要作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Chillakuri CR,Sheppard D,Lea SM,et al.Notch receptor-ligand binding and activation: insights from molecular studies[J]. Semin Cell Dev Biol,2012,23(4): 421-8.   \n[2]Backer RA,Helbig C,Gentek R,et al.A central role for Notch in effector $\\mathrm { C D 8 ( ^ { + } ) }$ T cell differentiation[J].Nat Immunol,2014,15 (12): 1143-51.   \n[3]Andersson ER,Lendahl U.Therapeutic modulation of Notch signalling--are we there yet [J]? Nat Rev Drug Discov,2014,13(5): 357-78.   \n[4]Brzozowa-Zasada M,Piecuch A,Dittfeld A,et al.Notch signalling pathway as an oncogenic factor involved in cancer development[J]. Contemp Oncol (Pozn),2016,20(4): 267-72.   \n[5]Lim JS,Ibaseta A,Fischer MM,et al. Intratumoural heterogeneity generated by Notch signalling promotes small-cell lung cancer[J]. Nature,2017,545(7654): 360-4.   \n[6] Shen Q,Cohen B,Zheng WY,et al． Notch shapes the innate immunophenotype in breast cancer[J]. Cancer Discov,2017,7(11): 1320-35.   \n[7]Yuan X,Wu H,Xu H,et al. Notch signaling:an emerging therapeutic target for cancer treatment[J].Cancer Lett,2O15,369 (1): 20-7.   \n[8]Alketbi A,Attoub S.Notch signaling in cancer: rationale and strategies for targeting[J].Curr Cancer Drug Targets,2015,15(5): 364-74.   \n[9] Stoeck A,Lejnine S,Truong A,et al. Discovery of biomarkers predictive of GSI response in triple-negative breast cancer and adenoid cystic carcinoma[J]. Cancer Discov,2014,4(10): 1154-67.   \n[10] Smith JP, Nadella S, Osborne N. Gastrin and gastric cancer[J]. Cell Mol Gastroenterol Hepatol,2017,4(1): 75-83.   \n[11]Du X, Cheng Z, Wang YH, et al. Role of notch signaling pathway in gastric cancer: a meta-analysis of the literature［J].World J Gastroenterol,2014,20(27): 9191-9.   \n[12]Miao ZF,Xu H,Xu HM, et al.DLL4 overexpression increases gastric cancerstem/progenitorcell self-renewal abilityand correlates with poor clinical outcome via Notch-1signaling pathway activation[J]. Cancer Med,2017,6(1): 245-57.   \n[13] Sun HW,Wu C,Tan HY,et al. Combination DLL4 with jagged1- siRNA can enhance inhibition of the proliferation and invasiveness activity of human gastric carcinoma by Notch1/VEGF pathway[J]. Hepatogastroenterology,2012,59(115): 924-9.   \n[14] Rossi A.Rovalpituzumab tesirine and DLL3:a new challenge for small-cell lung cancer[J].Lancet Oncol, 2017,18(1): 3-5.   \n[15]Yan S,Ma D,Ji M, et al. Expression profile of Notch-related genes in multidrug resistant K562/A02 cells compared with parental K562 cells[J]. Int JLab Hematol,2010,32(2): 150-8.   \n[16] Saunders LR, Bankovich AJ, Anderson WC, et al.A DLL3-targeted antibody-drugconjugateeradicateshigh-gradepulmonary neuroendocrine tumor-initiating cells in vivo［J]. Sci Transl Med, 2015,7(32): 302ra136.   \n[17]Liu Z,WuT,Li Q,etal. Notch signaling components[J].Medicine, 2016, 95(20): e3715.   \n[18]粟芃芃,叶健斌,邱晓媚,等.人DLL1真核表达质粒的构建及过表达 DLL1抑制人口腔鳞癌细胞SCC15的增殖[J].暨南大学学报:自然科 学与医学版,2017,38(3): 185-91.   \n[19]叶健斌,梁来妹,陈中标,等.人Notch配体DLL4基因的克隆及真核 表达[J].生物技术,2015,25(3): 223-6.   \n[20]叶健斌,陈中标,梁来妹,等.人Notch信号通路中Jagged1基因的克隆 与真核表达[J].生物技术,2015,25(5):437-41.   \n[21]Chapman G, Sparrow DB, Kremmer E,et al. Notch inhibition by the ligand DELTA-LIKE 3 defines the mechanism of abnormal vertebral segmentation in spondylocostal dysostosis[J].Hum Mol Genet,2011,20(5): 905-16.   \n[22]Ladi E,Nichols JT,Ge W,et al. The divergent DSL ligand Dll3 does not activate Notch signaling but cell autonomously attenuates signaling induced by other DSL ligands[J].JCell Biol, 2005,170 (6): 983-92.   \n[23]Maemura K,Yoshikawa H, Yokoyama KA,et al.Delta-like 3is silenced bymethylation and inducesapoptosisinhuman hepatocellular carcinoma[J]. Int JOncol,2013,42(3): 817-22.   \n[24]Rudin CM,Pietanza MC,Bauer TM, et al.Rovalpituzumab tesirine,a DLL3-targeted antibody-drug conjugate，in recurrent smal-cell lung cancer:a first-in-human,first-in-class,open-label，phase 1 study[J]. Lancet Oncol, 2017,18(1): 42-51. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

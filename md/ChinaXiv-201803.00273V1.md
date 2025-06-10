@@ -1,0 +1,184 @@
+# DOI:10.5846/stxb201612292709
+
+田旭平，韩有志.绒毛白蜡二态型果实的扩散特征.生态学报,2018,38(4)：1293-1300.  
+TianXP,HanYZStudyodspersaltraitsofdimorphicfruitsofFraxinusvelutin.ActaEcologicaSinica,Ol838(4)00.
+
+# 绒毛白蜡二态型果实的扩散特征
+
+田旭平，韩有志山西农业大学林学院，太谷030801
+
+摘要：多态型果实或种子的出现对植物种群的扩散具有重要的意义。绒毛白蜡（Fraxinus velutina）的果实具有二态型特征,主要表现在果翅数量上不同,分别定义为二翅型和三翅型果实,为了比较两类果实在风传扩散时的差异,研究了两类果实的形态、果翅结构和扩散距离及扩散时长。在大型封闭地下室内,以电扇在不同速度档位产生的气流作为风源,分别从 $2 , 1 . 5 , 1 \mathrm { m }$ 处手动释放果实,对风速为 $0 . 4 . 6 , 6 . 5 , 7 . 3 \mathrm { m / s }$ 时的果实扩散距离及扩散时长进行了比较;并在此基础上对果实的形态特征与扩散特征进行了线性相关分析。结果表明：在同一高度及相同风速下,三翅型果实的水平扩散距离都极显著的大于二翅型,但其相应的扩散时长都小于二翅型。在相同情况下,三翅型的果实沉降速度显著高于二翅型。两类果实随着释放高度的增加,其扩散距离和扩散时长都相应的增加;随着风速的升高,其扩散距离及扩散时长都相应的增加。三翅型果实质量显著高于二翅型,相反,三翅型果翅长与宽都显著小于二翅型。两种翅型的果翅细胞结构都一样,细胞内部都呈现气囊状,果翅表面沿纵轴方向有流线型的纵棱。通过直线相关分析发现,翅型是对扩散距离和扩散时长影响最显著的形态特征;与果实释放高度相比,风速是影响绒毛白蜡果实扩散距离与扩散时长最显著的环境因素。绒毛白蜡三翅型果实比二翅型果实传播的远,关键在于其具有三翅,三翅对阵风瞬间响应,使得沉降速度较二翅型高,可以在瞬时风的作用下,快速传播到较远的距离。三翅型与二翅型在扩散方式上的结合增强了绒毛白蜡的生存与定殖机会。
+
+关键词：绒毛白蜡；二态型果实;扩散距离;扩散时长；翅型
+
+# Study on dispersal traits of dimorphic fruits of Fraxinus velutina
+
+TIAN Xuping,HAN Youzhi \* ForestryCollegeofShanxi Agricultural University,Taigu O3o8O1,China
+
+Abstract:Seeddispersalis akey stage inthelifecycleof plants，andthus playsanimportant rolein thecolonization and extensionof plant populations.Fruit dimorphism isaphenomenon widelyreported inplants.Therearediferences inseed dispersalbetween normal fruitsand heteromorphic fruits，suchas indispersal distanceandin-flightbehavior.Dimorphismof fruits allowsdifferentdispersal modesforplantspecies，thusfacilitatesthe dispersal eficiency，dispersal range, reproduction，andultimate evolutionof the plant species.Manyfactors，suchasfruitfeatures,insertion heightof the fruits, and wind speed，willafect thespreadoffruitsorseeds.ToFraxinus velutina，dimorphismoffruits ischaracterizedbythe number of wings onthe samara:two-winged，which isthe normal samara type，and thre-winged.However，few studies have investigated the diference betweenthese two kinds of samara types.The aimofthe presentresearch was tocompare the dispersal performance of these two samara types under diferent wind speedsand release heights to beter understand how their dispersal wasaffectedby samara typesand morphological and structural characteristics.Ina large basement，air current was generatedbyan electricfan with aspeedregulatorthatcouldbesetat diferent levelsas the wind source.By being placed close the fan，the fruits were manuallyreleased from2,1.5，and1m highunder wind speds ofO,4.6,6.5, and $7 . 3 \mathrm { m / s }$ respectively.Then，dispersal distance and in-flight duration of the fruits were measured.The linear correlations among samara traits（wing type,fruit weight，wing width，and wing length）and dispersal parametersof thefruits（release height，windspeed，dispersaldistance，andin-flightduration）were explored.Theresultsshowedthatthehorizontal dispersal distanceof thre-wingedfruitswassignificantly greaterthanthatofthetwo-winged fruitsunderthesame height andwindsped,buttheoresponding in-flightdurationwasshorterthanthatof thetwo-wingedfruits.Thetermnalelocity of thethree-wingedfruits significantlyhadalsoexceeded thatofthetwo-winged fruits underthesame situation，while，the in-flightdistanceandin-flightduration increasedcorrespondinglywith increasing heightand windspeed.Thefrutweightof thethree-winged type was significantly higherthanthatof the two-winged type，but wing length and width were lower.The celular structure of the wings was the samebetween thre-winged and two-winged fruits.Inboth samara types，alotof air sacs were permeatedthe wings of samara，and ridgesalong the longitudinal axesof wings were streamlined.Correlation analysis showed thatthephenotypictraitsgreatlycorrelatedwith thedispersal performance offruits.Wing shape was the mainmorphological factorthat had significantlyafected thedispersal distanceand duration.Compared torelease height, windspeedalsohadsignificantlyafectedthedispersal distanceand duration.Fasterresponses togustsofthethree-winged fruits than two-wingedfruits wasthekeytoits greaterdispersaldistance，whichhadresultedinhigherterminalvelocity.The combination of three-winged and two-winged fruits dispersal mechanisms improves chances of survival and colonizationof this species.
+
+Key Words: Fraxinus velutina ; dimorphic fruit ； dispersal distance; in-flight duration ; wing type
+
+种子扩散是植物生活史的重要阶段,对物种的繁衍生存、生理生态等方面都具有重要的意义,主要表现为：躲避自然天敌、降低同胞竞争、降低依赖密度制约的捕食或寄生病、增加林冠间隙种子定殖的可能性[1-2];另外,它还影响着种子时空尺度上的定居方式、种子密度、种子与母株的距离、种子到达的生境类型以及建成的植株将与何种植物竞争，从而影响种子和幼苗的存活，最终影响母株及后代植物的适合度和种群结构[3];种群的扩散潜力影响着该物种的地区分布和丰度[4],并且影响着基因流[5],进而影响着物种地区适应性或物种形成的过程[6]。
+
+风传种子或果实的种间及种内形态变异影响着其扩散能力和飞行特征[7-8],甚至,单株上结的种子大小变化对扩散距离的影响也是显而易见的[9]。二态型果实(种子)是指一株植物上产生两种或多种形态的果实（或种子),其在形态、生理(扩散、生态等方面都有差异,多年来吸引着生态学家的关注[10-12]。二态型果实,也叫果实多态性[13],还有的称之为果实异形性[14],对不同于常见果实或种子形态的果实，一般称之为异形果实。二态型果实在扩散距离方面也存在显著的差异,由于它改变了后代的扩散比率,因此果实不同形态间相对比例的任何变化都可能影响其扩散的适合度[5]。
+
+白蜡属（Fraxinus)果实主要通过风传及水传两种方式扩散[16]。目前,对白蜡属翅果风传的研究主要集中在飞行轨迹和飞行动力学[17]方面,结果表明：白蜡属翅果在风中扩散时主要是螺旋形的扩散方式。在多个不同白蜡种内,翅果大小、翅形方面存在着差异[1-24],而在白蜡属翅果二态型方面,王广钦和樊伟等[25]发现白蜡（Fraxinus chinensis）异形果实;唐进发现过具1—4枚花瓣变异类型的河北白蜡树（Fraxinus hopeiensis Tang）新种[26];洪亚平发现过白蜡3心皮果实[27-28],杨鑫等[29]也报导了大叶白蜡（Fraxinus rhynchophylla)具有异形果实。以上结果说明,白蜡属植物果实存在较为普遍的二态型或多态型特征。而二态型果实主要是对幼苗定殖和种子扩散的显著适应,反应了两种扩散方式。我们发现绒毛白蜡（Fraxinus velutina)翅果存在着两种形态截然不同的翅形，且每年都会有大量的异形果实产生。那么,绒毛白蜡这两种不同形态果实的扩散能力孰优孰弱？目前,还未见白蜡属异形果实扩散特征研究的详细报道。本文以绒毛白蜡两种形态的果实为研究对象，对其水平扩散距离和扩散时长进行了详细研究,并分析了果实形态特征和外界环境对扩散方式的影响,为进一步探讨绒毛白蜡异形果实的生态适应机制提供科学基础。
+
+http://www.ecologica.cn
+
+# 1材料与方法
+
+# 1.1果实采集与处理
+
+绒毛白蜡果实于2013年10月中旬种子成熟后采集,采集地点为中国太谷县绒毛白蜡与其他树种混杂生长的绿地里。将采集的果实放在室内摊开薄层自然干燥,将果翅破损的果实剔除,完好的果实放在纸箱里室温保存。
+
+# 1.2果实形态特征观察
+
+随机选取两种形态的果实各120颗,分别进行质量测定,参考Yilmaz $\mathbf { M } ^ { [ 2 1 ] }$ 和 Jarni $\mathrm { K } ^ { [ 2 4 ] }$ 的方法分别进行翅长及翅宽的测量,翅宽的测量选择在果翅的最宽处,用游标卡尺测量,三翅型的翅宽以任意两翅间的距离测量。每颗种子测量重复3次。对绒毛白蜡果翅进行显微和扫描电镜观察。
+
+# 1.3果实扩散特征研究
+
+为了比较两种翅型的扩散特征,在山西农业大学科技楼的一间约 $4 0 0 \mathrm { m } ^ { 2 }$ 封闭的无风大型地下室内（用风速计测量),参考成小军[14]和郭强[30]的方法对绒毛白蜡两种果实的水平扩散距离和扩散时长进行了试验。所用果实采用前述形态特征观察过的。
+
+根据绒毛白蜡母树着生果实的最低位置在 $2 \mathrm { m }$ 高左右，同时为了方便测量，选择从 $2 , 1 . 5 , 1 \mathrm { m }$ 不同高度处释放翅果,在果实释放点用风扇的高中低各档时产生的水平气流做风源,在距风扇扇叶一定距离处采用风速仪测量各档风速,将测量处作为果实释放点,风速分别为 $0 . 4 . 6 , 6 . 5 , 7 . 3 \mathrm { m } / \mathrm { s } _ { \circ }$ 每一颗果实在同一位置释放,手指捏住果柄端向下释放,果翅平面与风向垂直。从果实释放时用秒表开始计时,到果实落地为止,即为扩散时长；从果实降落位置在地面的垂直投影处至果实降落点为扩散距离。共测试120颗果实,重复3次。
+
+# 1.4数据统计分析
+
+应用 SPSS 22.0软件进行数据统计分析。根据 SPSS 软件编码的要求,将翅型定义为变量,三翅编号为1,二翅编号为2,对果实形态特征、沉降速度、扩散时长和扩散距离采用系统分组法进行方差分析;然后将果实的表型特征(翅型、果重、翅长、翅宽)与扩散特征(释放高度、风速、扩散距离、扩散时长)进行线性相关分析。
+
+# 2结果与分析
+
+# 2.1 果实形态特征
+
+绒毛白蜡果翅属于顶生翅,翅着生于种子的一端,并且从种子的中心纵轴向两边延伸,然后扁平成翅,本文称之为双翅，该类型是常见的翅型。异形果实的翅则是在常见平翅的表面上又分化出一翅，称为三翅（图1)，在三翅型果实中，任意两翅间的夹角为 $1 2 0 ^ { \circ }$ 左右。对绒毛白蜡果翅石蜡切片显微(图2)观察，发现二翅型与三翅型的果翅细胞内部成气囊状，而在果翅边缘分布一些维管束细胞。通过扫描电镜(图3)观察，发现两类果翅表面沿纵轴方向都呈流线形的棱线。从表1可知，绒毛白蜡三翅型果实质量范围在 $1 4 . 1 { - } 4 6 . 8 \mathrm { m g }$ ,二翅型果实的质量范围在 $1 1 . 5 \mathrm { - } 3 4 . 2 \mathrm { m g }$ ,三翅型明显的比二翅型的重，并且差异极显著；绒毛白蜡三翅型的果实翅长在 $2 . 1 8 0 { - } 3 . 5 2 8 \mathrm { c m }$ 范围内，二翅型翅长在2.188—$3 . 8 1 4 \mathrm { c m }$ 范围内，二翅型果实翅长要极显著的大于三翅型；二翅型翅宽范围在0.31- $\cdot 0 . 6 \mathrm { c m }$ ,三翅型翅宽范围在
+
+![](images/00fe2e60c0873fe5bf79cef565f964a9fa4069fab5abef97d587b8098e7ff530.jpg)  
+图1绒毛白蜡二型性果实  
+Fig.1Dimorphic FruitsofFraxinusvelutina
+
+A：二翅果实Two-winged；B：三翅果实Three-winged
+
+0.322— $\cdot 0 . 6 7 \mathrm { c m }$ ，二翅型的果实翅宽极显著的大于三翅型。
+
+![](images/23ad75a70884666be11106a3758b80a4a1bffb870fc0abeee4c23164b499c79c.jpg)  
+图2绒毛白蜡果翅横切面 $\times 4$
+
+![](images/d0cf2d1bc047047b95a25fbdfb363bbc01349723654e75ff8dfab1ce8526a9ba.jpg)  
+Fig.2Cross section of fruit wing of Fraxinus velutina ×4   
+图3绒毛白蜡果翅扫描电镜观察×1000  
+Fig.3SEM observation on wing surface of Fraxinus velutina $\bf { \times 1 0 0 0 }$
+
+Table1 Phenotypic traits of dimorphic fruit of Fraxinus velutina   
+
+<html><body><table><tr><td>观测指标</td><td>三翅 Three-winged</td><td>二翅</td><td>F</td><td>P</td></tr><tr><td>Observation index 果重Fruit weight/mg</td><td></td><td>Two-winged 20.60±0.40</td><td>1205.692</td><td>0</td></tr><tr><td>翅长 Samara length/cm</td><td>27.30±0.50 2.98±0.02</td><td>3.09±0.02</td><td>178.734</td><td>0</td></tr><tr><td>翅宽 Samara width/cm</td><td>0.47±0.01</td><td>0.50±0.01</td><td>141.208</td><td>0</td></tr></table></body></html>
+
+# 2.2果实水平扩散距离与扩散时长
+
+从表2可知，从 $\mathrm { 1 m }$ 高处释放果实时，三翅型和二翅型果实的扩散距离差异不是特别显著,但随着释放高度的升高，两者间的扩散距离和扩散时长差异是极显著的,表明果实释放高度对扩散是有影响的。在相同情况下，都显示三翅型的水平扩散距离大于二翅型,在 $2 \mathrm { m }$ 和 $1 . 5 \mathrm { m }$ 处释放果实时,三翅的扩散距离极显著的大于二翅型,但是扩散时长显著小于二翅型。随着风速的升高,果实扩散距离和扩散时长明显的增加,表明风速对扩散有显著的作用。 C
+
+表1绒毛白蜡二态型果实表型特征  
+表2绒毛白蜡果实在不同风速下从不同高度降落的水平扩散距离和扩散时长  
+Table2Dispersaldistanceandi-flightdurationofFraxinusvelutinafruitfalingfromdiferentheightsunderaseriesofwindsped   
+
+<html><body><table><tr><td colspan="5">释放高度 风速 Release Wind speed/</td><td colspan="4">扩散时长 In-flight duration/s</td></tr><tr><td>(m/s)</td><td>三翅 Three-winged</td><td>二翅 Two-winged</td><td>F</td><td>P</td><td>三翅 Three-winged</td><td>二翅 Two-winged</td><td>F</td><td>P</td></tr><tr><td></td><td>12.23±0.89</td><td>7.97±0.55</td><td>16.564</td><td>0.000</td><td>0.77±0.01</td><td>1.18±0.04</td><td>110.952</td><td>0.000</td></tr><tr><td></td><td>104.79±2.18</td><td>79.45±2.18</td><td>67.310</td><td>0.000</td><td>0.87±0.01</td><td>1.34±0.02</td><td>292.348</td><td>0.000</td></tr><tr><td></td><td>123.36±2.89</td><td>88.82±2.71</td><td>75.796</td><td>0.000</td><td>0.85±0.01</td><td>1.41±0.03</td><td>325.911</td><td>0.000</td></tr><tr><td></td><td>131.09±3.30</td><td>97.32±2.57</td><td>64.965</td><td>0.000</td><td>0.95±0.01</td><td>1.38±0.03</td><td>178.399</td><td>0.000</td></tr><tr><td></td><td>10.66±0.81</td><td>5.76±0.55</td><td>24.610</td><td>0.000</td><td>0.76±0.01</td><td>1.00±0.02</td><td>120.352</td><td>0.000</td></tr><tr><td></td><td>107.18±2.58</td><td>88.27±2.54</td><td>27.265</td><td>0.000</td><td>0.77±0.01</td><td>1.16±0.02</td><td>501.542</td><td>0.000</td></tr><tr><td></td><td>125.20±2.99</td><td>110.84±2.15</td><td>11.607</td><td>0.001</td><td>0.79±0.01</td><td>1.18±0.02</td><td>491.867</td><td>0.000</td></tr><tr><td></td><td>135.59±3.10</td><td>119.77±3.47</td><td>11.540</td><td>0.001</td><td>0.79±0.01</td><td>1.18±0.02</td><td>395.841</td><td>0.000</td></tr><tr><td></td><td>7.35±0.64</td><td>5.64±0.53</td><td>4.171</td><td>0.042</td><td>0.69±0.01</td><td>0.83±0.01</td><td>75.863</td><td>0.000</td></tr><tr><td></td><td>97.45±2.27</td><td>94.08±2.16</td><td>1.158</td><td>0.283</td><td>0.69±0.01</td><td>0.86±0.01</td><td>189.930</td><td>0.000</td></tr><tr><td></td><td>118.26±2.84</td><td>110.36±2.66</td><td>4.091</td><td>0.044</td><td>0.71±0.01</td><td>0.88±0.01</td><td>119.646</td><td>0.000</td></tr><tr><td></td><td>120.01±2.54</td><td>120.33±2.78</td><td>0.240</td><td>0.876</td><td>0.73±0.01</td><td>0.88±0.01</td><td>144.193</td><td>0.000</td></tr></table></body></html>
+
+# 2.3果实沉降速度
+
+沉降速度是在无风条件下种子自由沉降的研究,沉降速度是释放高度与扩散时长的比值,经过计算（表3),绒毛白蜡果实在相同高度释放时,三翅型的沉降速度都显著大于二翅型,并且两种形态的果实都随着释放高度的增加,其沉降速度增大。
+
+Table3Terminal velocity of samara in Faxinus velutina without wind   
+
+<html><body><table><tr><td rowspan="2">释放高度 Release height/m</td><td rowspan="2">风速 Wind speed/(m/s)</td><td colspan="2">沉降速度 Terminal velocity/(m/s)</td><td rowspan="2">F</td><td rowspan="2"></td></tr><tr><td>三翅 Three-winged</td><td>二翅 Two-winged</td></tr><tr><td>2.0</td><td>0</td><td>2.63±0.04</td><td>1.84±0.05</td><td>131.256</td><td>0</td></tr><tr><td>1.5</td><td>0</td><td>1.99±0.03</td><td>1.55±0.03</td><td>135.675</td><td>0</td></tr><tr><td>1.0</td><td>0</td><td>1.46±0.02</td><td>1.24±0.02</td><td>77.830</td><td>0</td></tr></table></body></html>
+
+# 2.4果实表型特征与水平扩散的相关性
+
+表4说明;翅型与果重呈负相关，即三翅比二翅的重;翅型与翅长正相关，二翅较三翅的长;翅型与翅宽正相关,二翅的宽;翅型与传播距离负相关,三翅传播的远;翅型与扩散时长正相关,说明二翅在空中悬浮的时间长。果重与翅长呈正相关,果重与翅宽正相关,表明与果实质量与翅的长宽都有显著的关系;果重与扩散时长呈负相关,说明果实重量越大,其在空中悬浮时间短。翅长和翅宽都与扩散时长呈正相关,说明二翅型较三翅型的扩散时间长,与实验一致。风速与扩散距离及扩散时长呈极显著的正相关,该结果与实验结果一致。
+
+表3绒毛白蜡果实在无风时的沉降速度  
+表4绒毛白蜡果实特征与扩散特征的相关性  
+Table 4Correlation between samara traits and dispersal characteristics of Faxinus velutina   
+
+<html><body><table><tr><td>指标</td><td>Wp Frut wcigt</td><td></td><td>S 翅宽</td><td></td><td></td><td></td><td></td></tr><tr><td>翅型Wing type</td><td>1</td><td>0.242 **</td><td>0.216 **</td><td>0.000</td><td>0.000</td><td>-0.131**</td><td>0.566 **</td></tr><tr><td>果重Fruit weight</td><td></td><td>0.264**</td><td>0.189 **</td><td>0.000</td><td>0.000</td><td>0.034</td><td>-0.359 **</td></tr><tr><td>翅长 Samara length</td><td></td><td>1</td><td>0.428 **</td><td>0.000</td><td>0.000</td><td>-0.044 *</td><td>0.128 **</td></tr><tr><td>翅宽 Samara width</td><td></td><td></td><td>1</td><td>0.000</td><td>0.000</td><td>-0.022</td><td>0.191**</td></tr><tr><td>释放高度 Release height</td><td></td><td></td><td></td><td>1</td><td>0.000</td><td>0.028</td><td>-0.450 **</td></tr><tr><td>风速Wind speed</td><td></td><td></td><td></td><td></td><td>1</td><td>0.752 **</td><td>0.136 **</td></tr><tr><td>传播距离 Dispersal distance</td><td></td><td></td><td></td><td></td><td></td><td>1</td><td>0.003</td></tr><tr><td>扩散时长In-flight duration</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td></tr></table></body></html>
+
+\*\* 在0.01水平(双侧)上显著相关，\*在0.05 水平(双侧)上显著相关
+
+# 3讨论
+
+3.1绒毛白蜡果实翅型的变化
+
+在绒毛白蜡二翅和三翅两类果实内,各自的果实性状也存在着一系列差异,主要表现在果实质量、翅长和翅宽上,与 Fraxinus wicoxiana[18]水曲柳（Fraxinus mandshurica var.japonica)[19]、Fraxinus oishi[20]美国白蜡（Fraxinus americana L.）和美国红梣(F.pennsyluanica）[2]的果实性状研究一致;另外,花白蜡（Fraxinus ornussubsp.cilicica)果实形态不仅表现出差异,而且其差异受种源地的影响较大[21]。
+
+对白蜡属植物果实出现三翅型的解释早有研究。孙三省[31]认为白蜡属植物的雌蕊通常由2枚心皮合生而成，发育为二翅型果实,三翅是由3枚心皮合生而成;唐进认为是花部形态发生的变异;洪亚平发现该属植物果实具有2心皮、3心皮、4心皮和6心皮4种类型[28],相应的分别具有2翅、3翅、4翅、6翅。心皮和果实结构常与种子或果实扩散机制的多样化相联系[32],因此,绒毛白蜡三翅型的出现必然增加了其扩散机制的多样化,种子扩散在空间和时间上代表了逃离不适环境的唯一方式。与种子扩散有关的特征大多受母树控制，
+
+http://www.ecologica.cn
+
+种子扩散的可塑性变化受母性效应调节[33],特别是当母树环境恶化时,母树期望能增加种子扩散,这被视作是对栖息地选择的特殊形式。而本研究中绒毛白蜡母树树冠被周围其他树木明显的遮蔽,其光照条件不是很好，因此三翅果实的出现是对环境不适的一种策略。
+
+# 3.2果实沉降速度
+
+三翅型的沉降速度大于二翅型,也明显的大于Fraxinus griffuthii 果实的沉降速度 $1 1 2 \mathrm { c m / s } ^ { [ 1 7 ] }$ ,随着释放高度的增加,其扩散时间增长,果实在空中悬浮的时间越长,其扩散距离相应的增加,该结果与郭强的研究结果一致[30]。果实或种子沉降速度是决定扩散距离远近的一个重要因素,每个靠风传播的种子都根据它们所处的环境尽可能的形成有小的沉降速度和能在气流中漂浮的特征[30],在相同的外界环境条件下,沉降速度越小,果实或种子在空中漂浮时间越长,其扩散距离就越远[34]。二翅型的扩散时长大于三翅型,按照前述理论，应该是二翅型的扩散距离要远,但是实验证明三翅型在相同的释放高度及风速下,其扩散距离显著的大于二翅型。有研究认为风速比果实沉降速度对扩散距离的影响要显著的多[35],这或许可以解释前述问题。
+
+# 3.3释放高度对果实水平扩散的影响
+
+释放高度直接决定了果实或种子在空中悬浮的时间,是影响扩散距离的重要因子[36]。植株大小和生长型与扩散模式也有一定的相关性,影响着扩散特征的进化[37],果实在树上着生的越高,其越容易进入高速度的风中进行扩散,其越容易被风传播,传播的越远;着生的较低,其越不容易被风传播。绒毛白蜡母树周围都是高大的树木,母树树冠局部被其他大树遮蔽,果实集中在树高 $4 \mathrm m$ 以下，三翅型与二翅型果实夹杂生长在一起,而且果序下垂。随着释放高度增加,绒毛白蜡果实的扩散距离和扩散时长都相应的增加,但是在相关性检验中,果实释放高度与扩散距离的相关性并不显著,表明释放高度虽能促进绒毛白蜡果实的扩散,但是其对扩散距离的影响并不显著。
+
+# 3.4风速对果实水平扩散的影响
+
+绒毛白蜡果实飘落时,若没有风时,两类果实则接近垂直降落,扩散距离皆很近,在有风的情况下，两类果实的扩散距离都增加了,其相应的扩散时长也延长了,并且随着风速的增大,其扩散距离与扩散时长也都相应的增大,这与其他研究相似[38]。生长在日本 $3 5 ^ { \circ } \pm 5 ^ { \circ } \mathrm { N } , 1 3 5 ^ { \circ } \pm 5 ^ { \circ } \mathrm { E }$ 的Fraxinus griffthii 白蜡果实通常只有在强风的时候才能从树上掉落进入扩散阶段[17]。本试验样品的采集地位于 $1 1 2 . 3 2 ^ { \circ } \mathrm { E } \ 、 3 7 . 2 6 ^ { \circ } \mathrm { N }$ 的山西晋中地区,绒毛白蜡果实一般在当年10月中旬成熟,在11月至次年4月之间掉落,往往都是伴随阵风或降雨掉落的,在树冠内部,会有许多果实宿存很久,甚至会与下一年度的果实共存一段时间。本研究中,绒毛白蜡三翅型果实的扩散距离要远远大于二翅型,表明翅型的差异影响了二翅型和三翅型果实对风的响应,三翅型果实较二翅型能对风快速的响应进入扩散,而且风速越大,其传播的越远。
+
+# 3.5 果实表型特征对扩散的影响
+
+绒毛白蜡两类果实外形呈流线型,具有很好的空气动力学特征。当果实在风中飞行时,果实前端坚硬呈圆锥形的种子端先划开空气,根据白努力定律[39],流经翅上方的空气流速较流经翅下方的空气快,造成上方的空气压力小于下方,而产生升力。绒毛白蜡果实的翅平滑且薄,而且翅表明沿纵轴有维管束形成的棱,有助于降低空气阻力,果翅细胞内部是类似气囊的结构,使其质量很轻,既降低了重力下拉果实的作用,也有利于其被气流悬浮扩散[40]。
+
+植物果实或种子的扩散方式是由扩散媒介及与扩散相关的果实和种子特征所决定的[3],其中种子大小、果皮或果实结构及果实开裂方式对扩散起决定作用[41]。绒毛白蜡果实的形态特征,如翅型、质量、翅长与翅宽等都影响着果实扩散。其中绒毛白蜡的翅型与果实扩散距离有着显著的相关性，三翅型的扩散距离较二翅型的远,更充分说明了翅型是影响扩散距离的主要因素。翅果的翅具有延迟或阻止果实从树冠降落的速度，使果实传播的更远。果实的迎风面积对其扩散距离也有很大的影响[42],虽然二翅型果实的翅宽与翅长较三翅型的大,但三翅型果实比二翅型多一个翅,它的翅面积大于二翅,可能具有较大的迎风面积,三翅型果实从外形更像鸟或飞机一样具有较好的飞行性能,因此其获得的动能较大,在获得最初的气流推动后,会快速的做出反应,瞬间就扩散的比二翅型的远。二翅型的扩散时长较三翅型的大，可能是因为二翅型白蜡在无风或弱风状态时,呈现自身螺旋状旋转的降落方式,从而延缓了其扩散时间,降落中的果实在空中悬浮的越久,越有机会遇到湍流,越容易被再次扩散[35],为其提供了再次遇见气流时能继续扩散的机会。二翅型与三翅型果实扩散这两种不同方式的扩散,有助于增强绒毛白蜡果实扩散的机会。
+
+# 4结论
+
+绒毛白蜡二态性特征表现在果实果翅数量上,将其定为二翅型和三翅型。三翅型的果实质量极显著的高于二翅型,而二翅型的翅宽和翅长极显著的比三翅的大。这两种类型的果实在重量、翅长、翅宽方面是数量性状,具有明显差异。这些表型特征共同影响果实的扩散距离和扩散时长,但在这些因素中,起主要作用的是翅型,三翅果实的翅形态先天性的决定了三翅果实在空中扩散时的飞行方式。风速和释放高度对绒毛白蜡果实的扩散也具有重要的促进作用,随着风速增大或果实释放高度(或生长高度)的增高,果实扩散的距离也会越远。在相同的条件下,三翅型的水平扩散距离极显著的大于二翅型,三翅型果实在瞬时风作用时就会快速扩散到远处,为不利环境条件下绒毛白蜡果实的快速扩散增添了新的方式,但二翅型果实的扩散时长又较三翅型的长,为其提供了被再次扩散的可能。二翅型和三翅型果实两种扩散机制的结合有助于种群之间避免同胞竞争,更有利于绒毛白蜡种群的扩散与繁衍,符合多态性种子的扩散特点,三翅和二翅果实通过不同的扩散行为,分摊了环境时空变化对生存和定殖成功的不利影响[14]。
+
+致谢：山西农业大学 2011级学生许苗和杨坤在实验过程中给予帮助,王宏伟和常洁在实验场地和器材方面给予帮助,特此致谢。
+
+# 参考文献（References）:
+
+[1]NathanR，Muler-Ldau HCSpatialpatesofsdispersal，eireteantsandoseqencsforreruintTrendsiEol&Evolution，2000,15(7）：278-285.  
+[2] Wang BC,Smith TB.Closing the seed dispersal loop.Trends in Ecology & Evolution,2002,17(8）:379-385.  
+[3] SinhaA,Dvidardspesaolfindspedrreihsteats,diaotroi99（）.  
+[4] ClarkJS,inM,KeR,acklinE,HsbrsJddispelarandar:pteacosmpatedrocalfrolog1999，80(5) :1475-1494.  
+[5] YoungA,BoyleTroTopulatiogeneticosequencesofabiatfragmetaiofrplants.TrendsinEolg&Evolutio9,1(10):413-418.  
+[6] Harison S，HastingsA.Geneticandevolutioaryconsequencesfmetapopulationstructure.rendsinEcology&Evolution，996，（4）：180-183.  
+[7] Green D S.The terminal velocityanddispersal of spinning samaras.American Journalof Botany,198o,67(8)：1218-1224.  
+[8] AugspurgerCKrplgddsprsaletialofddispseddasporsofotropialtrmercanJaloftan98,（）：353-363.  
+[9 刘晓风，谭敦炎.24种十字花科短命植物的扩散体特征与扩散对策.植物生态学报，2007，31(6)：1019-1027.  
+10 LuJJ，TanDY，BaskinJM,BaskinCC.FruitandseedheteromorphisminthecolddesertanualephemeralDiptychocarpusstrictus（Brassicaceae） and possible adaptive significance.Annals of Botany，2010,105(6）：999-1014.  
+[11] DuboisJ，CheptouO.Competition/colozatiosroeediatedbyarlygeationin-dspersingchesinteeteromciCrepis sancta.Annals of Botany，2012,110(6)：1245-1251.  
+[12] LuJJ,TanDsJsiCaosodterngtdoectlifeisddiaspore-heteromorphic annual. PLoS One,2014,9（7）：e102018.  
+[13] 李利，杨小林，王伟华.异子蓬二态性种子萌发对生境条件的响应.干旱区研究，2007，24(6)：830-834.  
+[14] 成小军，谭敦炎.短命植物异喙菊异形果实的两头下注策略.植物生态学报，2009，33（5)：901-910.  
+[15] Venable DL.The evolutionary ecology of seed heteromorphism.The American Naturalist，1985,126(5）：577-595.  
+[16] SchmiedelD，TackenbergO.HydrochoryandwaterinducedgerminationenhanceinvasionofFraxinuspennsylanica．ForestEcologyandManagement，2013，304：437-443.  
+[17]Minami S,AzumaA.Various flying modesof wind-dispersal seeds.Journal of Theoretical Biology，2O03,225(1)：1-14.  
+[18]CallVestgofospfsNaasofrieof Palaeobotany and Palynology，1992，74(3/4）： 249-266.  
+[19]GotoSataH,K,kigHitetoiFsmascarpocactezFourier descriptors and the effect on flight duration.Ecological Research,2O05,20(6）：733-738.  
+[20]JungS,JsigedfrutsofFus（Oeace）dLodedro（agoce）froeoatioogsiKActa Geologica Sinica：English Edition，2009,83(5）：845-852.  
+[21]YilaouFuitdderbilitfaxiosubsccteatalJoualofaturaldg2009，3(3):133-136.  
+[22]KremerD，GubesicR,DubravacTMophoetriceachofaarasoforthAmericanashseciesfroCroatiaplantati.PerodcmBiologorum，2010，112（3）：333-339.  
+23]YucedCeeA，FiVariatofiusoussubsl（gelshaltiListtkeientEssays，2011,6(22):4788-4791.  
+24]JaiKtersaliliflasBotanicorum Poloniae，2011,80(3）：245-252.  
+[25］王广钦，樊巍，赵北林，郑临泉，王振兴,李军.白蜡树生态习性的初步研究.河南林业科技，1987，（4)：27-33,48-48.  
+[26］韦直.木犀科梣属//张美珍，缪柏茂，陆瑞林，邱莲卿，韦直.中国植物志61卷.北京：科学出版社，1992，161：5-39.  
+[27］洪亚平，代子闻，陈之端，李富才.木犀科梣属（Fraxinus）三心皮子房的确证及其系统学意义.河南林业科技，2004，24（1）：42-43,50-50.  
+[28］洪亚平，代子闻.梣属（Fraxinus）植物果实的四种类型及其系统学意义.河南林业科技,2005，25(1）：18-19.  
+[29] 杨鑫，张秀省，穆红梅，曹兴.大叶白蜡翅果种子双生现象初报.聊城大学学报：自然科学版，2011,24（3)：96-97，100-100.  
+[30] 郭强，朱敏，徐勒，翟保平.五种杂草种子沉降速度.生态学杂志，2008，27(4)：519-523.  
+[31] 孙三省.中国梣属植物的研究（一).植物研究，1985，5（1)：37-70.  
+[32] Vilete-GuraudACM,ScuttCP.Carpelevolution//OstergardL，edFruitDevelopmentandSeedDispersal：AnnualPlantReviews.Chichester：Wiley-Blackwell,2009,38：1-34.  
+]gsprCS，KC,sspdto fruit and tree traits.Ecology and Evolution，2016,6(4):1128-1142.  
+[34]Schulz B,Doring J,Gotsberger G. Apparatus for measurin the fall velocity of Anemochorous diaspores，with results from two plant communities.Oecologia，1991,86(3）: 454-456.  
+[35]Horn H S,Nathan R A N,Kaplan S R. L ance dispersal of tree seeds by wind.Ecological Research,2001,16(5):877-885.  
+[36］郑景明，桑卫国，马克平．种子的长距离风传播模型研究进展.植物生态学报，2004，28（3）：414-425.  
+[37] Thompson K,Rabinowitz D.Do big plants have big seeds? The American Naturalist，1989,133(5）:72-728.  
+[38］吉乃提汗·马木提，谭敦炎，成小军.一年生短命植物疏齿千里光果实异形性的生态学意义.植物生态学报，2011,35(6)：663-671.  
+[39］蘇銘言，蘇桂璿，溫怡文，劉怡佳．風中奇緣—桃花心木種子的傳播.科學教育月刊，2004，（272)：10-22.  
+[40]RudingerMCD，DouaviA.Underwatergeratiopotetialofomashed（FraxiscesiorL）rgatigfrodeddflooded sites.Plant Biology，2008,10(3）: 382-387.  
+41]Wenersiepetptispalciaalsseed dispersal in Arabidopsis thaliana （Brassicaceae).American Journal of Botany，20o5,92(6): 960-971.KowarikI，vonderLipeMVDSecondarywinddispersalehanceslong-distancedispersalofanivasivespeiesinubanoadidos.NeoBiota，2011,9: 49-70.

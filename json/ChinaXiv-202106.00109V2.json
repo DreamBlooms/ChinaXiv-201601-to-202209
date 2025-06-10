@@ -1,0 +1,621 @@
+[
+    {
+        "type": "text",
+        "text": "开放获取进程中的关键问题探究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "廖宇1，2）刘敬仪1，2）沈哲思1)1)中国科学院文献情报中心北京1001902)中国科学院大学经济与管理学院图书情报与档案管理系北京1001904摘要：【目的】梳理开放获取(Open Access,简称 OA)关键节点，分析其前因后果，为领域相关人员提供有益的参考【方法】综合运用了文献研究法、归纳法和案例分析法，系统梳理开放获取的关键节点，从起源、主要成效、面临阻碍、发展现状和前景等5个方面解读开放获取进程的关键问题及其前因后果【结果】开放获取在学术交流进程中发挥举足轻重的作用，其成效日益凸显，但同时也遇到来自经费、质量控制、知识产权保护、商业出版商、学界等方面的问题【结论】探析开放获取的发展可为利益相关方提供有意义的借鉴与思考，此外，在当前学术出版不稳定期，需要各界源源不断地贡献更多的智慧，共同推进开放获取。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：开放获取；转型协议；订阅开放 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号：G251",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key issues in the process of open access ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIAO $\\mathrm { Y u } ^ { 1 , 2 ) }$ ，LIU Jingyi1,2） SHEN Zhesi1)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1) National Science Library, Chinese Academy of Sciences,Beijing 100190 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2) Department of Library, Information and Archives Management, School of Economics and Management, University of Chinese Academy of Sciences, Beijing 100190 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: [Purpose/significance] This paper combs the key nodes of open access,analyzes their causes and consequences,and provides reference for related researchers in the field. [Method/process] By using the methods of literature research, induction and case analysis, this paper systematically combs the key nodes of open access, and interprets the key problems and their causes and consequences from five aspects: origin，main effects, obstacles, development status and prospects.[Result]Open access plays an important role in the process of academic exchange, and its effectiveness is increasingly prominent, but at the same time, there are also problems from funding，quality control， intellectual property protection, commercial publishers,academic circles and so on.[Conclusion]Analysis of the development of open access can provide meaningful reference and thinking for stakeholders. In addition, in the current unstable period of academic publishing, it is necessary for all walks of life to contribute more wisdom to jointly promote open access. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: open access; transformation agreement; subscribe to open ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0.引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "学术交流是科学研究发展进步的本质要求，学术交流体系的深度和广度直接影响科学研究的进步与发展，一个开放、包容的学术交流体系不仅对扩大学术研究影响力有显著的作用1]，而且对科学研究本身也具有推动和促进的作用[2]，而一个封闭、狭隘的学术交流体系则不利于科学研究的长期发展和有序进步。学术期刊是学术交流体系的主要媒介[3]，在体系中发挥着独一无二的作用。学术期刊作为正式学术交流体系的重要组成部分，它的开放状态直接影响着整个学术圈的生态和可持续发展。开放获取是学术期刊存在以来就有的理念，英国的《哲学汇刊》（Philosophical Transactions of the Royal Society）于1665年诞生：是世界上第一本学术期刊，不收取论文作者的任何费用，将论文发表于该期刊的作者期望“扩大影响力”和“盖时间戳”等。而期刊为了学术交流和传播，需作者交付版权[4]。由此可见，期刊出版之初就是为了提高论文的可见度，实现便捷、高效和开放的科学交流。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "开放获取运动从20世纪90年代开始发展至今，已有无数关于开放获取的研究论文，但是关于开放获取运动进展中关键节点前因后果的梳理并不多见。研究领域关键节点的梳理对该领域的发展具有重要意义，本文拟梳理开放获取领域关键节点，理清重要时间线，系统探究其发展进程，并分析其前因后果，以期为利益相关方提供开放获取的总体发展脉络（见图1），为新时代背景下开放获取更高质的发展提供有参考价值的借鉴与思考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "“学术期刊危机”与“许可危机” OA自身（经费、质量、知识产权）开局之年 成效 → 道阻且长---→激流勇进利益相关者新需求 其他因素（商业出版商、学术界）“关于开放获取出版的！ 1 1毕士大宣言” 1 1 1E-Biomed 与  \narXiv创建PropOsal建建立DOA,ROAR,ROARMAP1年年 一 收2006月年 ----- 2010120064年 2016年年 0A未来一 1  \n“颠覆性倡议”“布达佩斯开“OECD关于 ！中科院和NSFC分别发布《中 金色OA论文 1 作为全美10%的研 “转换协议年”放获取计划”公共资的 共 将守估计） 一一一 论文产的 1获取宣言” ！取的政策声明》和《国家自 1 唯尔期刊 ！“华盛顿特 ！然科学基金委员会关于受资 1 1区关科 ；助项目科研论文实行开放获 二-- _=原则” 1 1 11 1 1",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.0A缘起 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "开放学术交流体系建设的思想萌发较早，但很多前卫的思想早已淹没在历史的浪潮中，其中比较有代表性的是科学学专家贝尔纳的观点。早在1939 年英国学者贝尔纳在其科学学领域经典著作《科学的社会功能》(Social Function of Science)一书中就提出“取消学术期刊”，用“论文存发中心”取代期刊体系，贝尔纳认为可能多达四分之三的科学出版物根本不值得出版，其之所以能出版是出于与科研无关的经济效益的考虑[5]。贝尔纳提出的论文存发中心实质上是一个简单的专门机构，由该机构负责接收作者论文，并向研究者直接分发单篇论文全文或摘要。但是由于当时在此方面缺少迫切需求，加之经济和技术条件的限制，因此并没有引起较大反响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1开局之年",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "被大众普遍接受的，真正意义上的0A或0A运动起源于20世纪90年代，由三位美国学者P.．Ginsparg(物理学家），S．Hamard(弗吉尼亚理工学院认知科学教授，“OA总设计师”）和H．Varmus(国家卫生研究院诺贝尔奖获得者，著名分子生物学家，美国国家卫生研究院院长)倡导“对知识的平等获取”[7]。1991年，P．Ginsparg领导创建了第一个预印本服务器—arXiv，这是免费的联机学术成果最早的知识库之一，被誉为OA运动的一大里程碑。1994年， S．Hamard提出了著名的“颠覆性倡议”(Subversive Proposal)，号召将所有专业(esoteric）文章存档，并免费提供给互联网上的所有用户[8]，最为著名的《Bethesda开放获取声明》就在其出生的城市签署。1999年，H.Varmus 提议并建成一个全新的生物医学研究文献服务器(E-Biomed Proposal)[9]，该文献服务器由美国国家卫生研究院资助，是开放获取运动中的标杆产品。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "早期的“开放先驱”的开放思想和工作为0A运动大潮的到来奠定了基础。2001年，美国开放协会研究所（Open Society Institute，简称 OSI）在匈牙利布达佩斯组织了OA研讨会，会上起草并发布了“布达佩斯开放获取计划”(Budapest Open Access",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Initiative，简称BOAI)[10]。该宣言明确给出了OA的定义，并给出两条可实现的途径-开放出版(金色OA)和开放存储(绿色OA)。BOAI为OA运动打开了新局势，随后国际同行发布了“关于开放获取出版的毕士大宣言”(Bethesda Statement on Open AccessPublishing,2003年6月)[1]、“关于社会科学和人文科学领域知识的开放获取柏林宣言”(Berlin Declaration on Open Access to Knowledge in the Sciences andHumanities，简称柏林宣言，2003年10月)[12]、“国际图联关于对学术文献和研究文档的开放获取声明”(IFLA Statement on Open Access to Scholarly Literature andResearch Documentation，2003年12月）[13]、“OECD关于公共资助的研究数据的获取宣言”(Declaration on Access to Research OECD Legal Instruments Data from PublicFunding，2004年1月）[14]、“华盛顿特区关于科学的免费获取原则”（WashingtonD.C.Principles for Free Access to Science ,2004年3月)[i5]等数十个宣言，OA受到国际学术界、出版界、图书情报界和各国科学管理部门越来越多的关注。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.20A运动“导火索”",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "20 世纪90 年代世界各地图书馆都陷入同一个困局—一学术期刊订阅成本的持续增长[1-17]，从1984年到 2010年，美国学术期刊的平均价格上涨了八倍多，而同期美国全国通胀率仅为 $1 1 0 \\% ^ { \\left[ 1 8 \\right] }$ 。高校图书馆不断缩减的预算，使其别无选择，只能取消部分订阅，保证每一学科的核心期刊馆藏。图书馆面临的大幅提高的订阅费和不断削减的预算的两难困境被称为“学术期刊危机”（serialscrisis)[19]。电子期刊出现后，出版商利用版权，将图书馆订购电子期刊的使用限制在一定范围，形成“许可危机”（permissionscrisis)[20]，这严重阻碍了学术研究成果的广泛传播和有效利用。二战以来，商业出版商通过兼并、重组和新办期刊等市场运作，形成了少数商业出版商寡头垄断的局势[21]，掌控了出版市场的话语权。商业出版商利用寡头垄断形成的市场力量抬高期刊订阅费[22]、差异定价和捆绑销售[2324]等市场策略。商业出版商的市场策略结合价格保密，和图书馆签订保密协议(Nondisclosure Agreements,简称NDA)，使得图书馆之间的比价和协商应对更加困难[25]。“学术期刊危机”和“许可危机”愈演愈烈，成为OA运动的“导火索”。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.30A运动助推力",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1学术交流体系提升效率",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在这里，笔者把区别于基于“开放理念”的学术交流模式称为传统的学术交流模式。传统学术交流体系经历了从基于纸型载体的学术交流体系到基于网络载体的学术交流体系的发展[26]，应该肯定的是其在科学发展进步中所作的贡献，但同时也须注意到传统学术交流体系在面对新时代开放学术交流需求中的“捉襟见肘”。20世纪90年代，大部分的学术资源被少数商业出版寡头占据。出版寡头借用其垄断市场力量控制出版市场，为赚取更多利润恶意抬高学术期刊的订阅价格，设置许可障碍，使得学术交流的成本增加。高水平研究成果被封闭在少数“精英”机构中[27]，学术信息的交流和共享受阻，也严重阻碍了科技创新发展。此外，传统学术交流体系无论从学术成果的时效性、内容丰富程度还是从成果保存上都已经无法满足日益丰富的学术交流的需求，传统学术交流体系的效率有待提高。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2新技术发展带来新机遇",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）学术信息的网络传播",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "信息技术和互联网技术的发展使得现代学术交流体系发生了深刻的变革，互联网技术为人们构建起动态自由的学术交流环境[28]，学术信息的网络传播更加便捷。如arXiv 自1991年建立以来便利用互联网和数字化技术，通过网络传播和共享学术信息，大大提升了学术交流的时效性，降低了交流成本[29]。同时，为学术界和图情界带来了新机遇。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）学术出版的数字化和网络化",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "随着信息化数字化时代的到来，人们的阅读方式发生了很大的变化，数字信息替代了印刷信息，智能终端替代了纸质媒介[30]。数字化出版的一个主要目标就是通过数字化阅读和数字处理实现跨领域系统交流[31]，数字化出版技术的进步给开放式学术交流体系的建立提供了可能性。同时，互联网的普及，学术出版也逐渐网络化，传统的投、审、录都可以线上操作，大大缩短了学术出版的时间，提高了时效性。学术成果通过网络传播，更加高效便捷，许多宝贵的学术资源不再“束之高阁”，而是可以通过网络开展0A工作。学术出版数字化和网络化技术的发展，使得学术出版周期缩短、信息传播速度加快，内容形式更加丰富，易检索、易保护、可互动和资源共享等优势[32]，这也为开放学术交流体系的建设提供了技术保障。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.3利益相关者提出新需求",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）学术图书馆",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在学术期刊市场中，学术图书馆扮演的是买家，出版商扮演的是卖家。在传统学术交流体系下，商业出版商占据学术资源优势，而每篇文章都有自己不可替代的独特的观点[33]。这使得学术图书馆对学术资源的需求弹性变小，虽然学术图书馆并不是对每篇文章的需求弹性都很小[34]，但是就是依靠这种资源优势形成了卖方市场，导致学术图书馆的资源订阅成本不断攀升，因此，学术图书馆亟需OA缓解订阅成本带来的压力。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（2）科研人员",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "科学的生命力在于交流，只有通过广泛的科学交流，科学知识才能得到传播、验证、修正、集成和发展[35]。科学家希望建立更加开放、包容的学术交流体系，可以更加自由、便捷地开展学术交流。2004年8月26日，美国25名诺贝尔医学、化学和生理学奖得主致信国会，表达支持学术论文开放获取的强烈愿望，公开信中提到：“科学是人类进步的方式，作为科研工作者和纳税人，我们反对妨碍、延迟、阻碍由政府税金资助的科学知识获取的种种障碍，这其中也包括我们自己的工作成果”［36]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（3）科研资助机构",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "一方面公共资金支持科研成果0A是具政治意义的公共政策问题，许多国家科学研究来源于公共资金的资助，公众有权获得这些研究产生的成果。而“学术期刊危机”和“许可危机”实际上剥夺了大众对于科研知识的获得权[35]，这从政治上来讲是不公平的。另一方面，科研资助方期望其资助科研成果有更高的可见度和影响力。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4 0A内涵 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据 2002年2月正式发布的《布达佩斯开放获取计划》的定义，某文献的开放获取指的是该文献在互联网公共领域里可以被免费获取，允许任何用户阅读、下载、拷贝、传递、打印、检索、超级链接该文献，并为之建立索引，用作软件的输入数据或其它任何合法用途；用户在使用该文献时不受财力、法律或技术的限制，而只需在获取保持文献的完整性，对其复制和传递的唯一限制是使作者有权控制其作品的完整性及作品被准确接受和引用。2003 年6月《毕士达开放获取出版声明》发布，宣布支持开放获取，强调通过科学领域的行为准则为作品的负责任的使用建立约束。2003年10月，德国马普学会发起柏林会议，会上通过《关于自然科学与人文科学知识开放获取的柏林宣言》，将开放获取的对象扩展到科研论文、科研数据、参考资料、照片图表、学术类多媒体资源等，提出了保障开放获取的两个条件：$\\textcircled{1}$ 在保证以适当方式表明作者权利的前提下，作者或版权所有人承诺向所有用户提供免费的、不能撤回的，在全世界范围内复制、利用、传播的权利 ； $\\textcircled{2}$ 作品的完整版本应以标准格式存储到在线存储库中以支持作品的开放获取和长期保存。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从以上内涵来看开放获取主要包含两方面内容： $\\textcircled{1}$ 保障用户自由权利，主要是免费获取和自由使用的权利； $\\textcircled{2}$ 保护作者合法权益，OA的出版模式只限于出版作者愿意免费提供使用的作品，它充分尊重作者的个人意愿。此外，随着开放理念的跟进，0A的内涵也在不断拓展，从OA期刊、预印本服务器，到OA数据和开源软件等新的开放形式或者维度正在不断丰富着OA内涵，因此我们应该辩证地看待OA，与时俱进。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.初见成效 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.10A期刊和论文数量激增 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "目前OA论文主要有3种形式：完全开放出版(Ful1OA)、复合开放出版(HybridOA)和延迟开放出版(DelayOA)。随着OA运动的发展，OA论文数量规模不断扩大，OA期刊逐年递增。根据 OA 期刊目录[37](Directory of Open Access Journals,简称 DOAJ)数据统计，保守估计截止2020年6月全球有同行评议的完全0A期刊14764种(部分0A期刊未被收录)，2002年DOAJ收录OA期刊仅为22本。根据M.Laakso等人的研究数据，OA期刊每年增长$1 8 \\%$ ，论文数量年增长 $3 0 \\%$ ，0A 期刊数量的增长率是整个期刊产业年增长率 $( 3 . 5 \\% )$ 的5倍[38]。根据C.Hajjem[39]、A.Odlyzko[40]、S.Harnad[41]和Y.Gargouri[42]等人的研究表明，每年全球的科研人员在 25 000 种期刊上发表约250万篇文章，其中 $1 5 \\% - 2 0 \\%$ 的文章是OA的[43],根据 S.Dallmeier—Tiessen 等人在2009 年的研究，商业出版期刊中约 $2 \\%$ 的论文是按篇开放的，即复合开放出版(Hybrid OA)[44]。在 S.Harris 于2014的研究中，根据图书馆员和其他专家预测，未来十年以0A形式发表论文的比例将从 $1 5 \\%$ 提升到 $5 0 \\% ^ { [ 4 5 ] }$ 。D.Lewis 保守估计到2025年金色0A论文将占 $9 0 \\% ^ { [ 4 6 ] }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "OA 期刊和论文数量的激增，并不代表OA运动的胜利。我们需要客观看待OA的发展进程和面临的问题，0A学术交流体系步入“主流”，也意味着图书馆、科学界和出版界等利益相关者都将面临更大的挑战。正如M.Weller[47]所说开放模式已经从边缘走向主流，但这并不意味着开放的胜利；相反，开放的路线之争才刚刚开始。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.20A机构知识库发展迅速",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "OA论文的另一形式开放存储，指的是存储到机构知识库后开放获取的论文，或指直接在机构知识库中自出版的预印本或报告[48]。根据全球OA 知识库[49](the quality-as sured,global Directory of Open Access Repositories,简称 OpenDOAR)数据，截止 2020年6月,全球机构知识库保守估计超过5373个(部分机构知识库未被收录)。Cullen等[50]研究表明开放存储的基础设施如机构或学科仓储正变得愈加巩固,为论文的自存档和OA提供了技术保障。据统计，截止2020年6月，arXiv[51]发布了物理、计算机和数学等领域171万预印本。截止2020年6月，PubMed Central[52]存储论文620万。机构知识库所具有的独特领域特质，在OA 进程中发挥不可替代的作用，T.Koler-povh等[53]发现机构仓储可以大大增加和提高学术出版物在Web上的显示度及利用率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "开放机构知识库建设进步是我们要重视的问题，如何提高开放机构知识库的存档率和使用率也是我们需要探讨的难题。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.30A政策更加深入",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2006 年是0A政策发展史上的一个分界线，2006 年以前仅有少数的基金资助机构制订了少数的强制0A政策，例如：惠康基金、法国农业科学研究院等。2006年各国各机构都在强制存档方面出台重要政策，取得重要进展，因此 2006 年被称为“强制存档年”[54]。其中最主要的原因是自愿和自我存档率极低，美国国家卫生研究院2005 年推出的自愿、自我存档政策，在第一年的存档率仅为 $4 \\% ^ { [ 4 3 ] }$ 。根据S.Peter“Open Access 2010”一文[55]，OA政策在2010年成为推动0A发展的关键性因素。据统计2010年平均每个月有3家资助机构和6-9个左右大学出台OA政策，共计有17个国家的38家资助机构出台OA政策，15个国家近100个大学出台绿色OA政策。其中欧洲海洋联盟(The EUROCEANS Consortium)实行了有史以来最大规模的0A政策（其中包括15个国家的29个组织），这为后来众多重要0A政策的出台起到了积极的推动作用。根据America Competes 重新授权法的要求，美国科技政策办公室自2010年12月起，就联邦政府资助科研成果的开放获取和长期保存问题，组",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[在此处键入] ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "织“公众咨询”[56]。中国也在积极制定相关政策，推进0A的进程。中国科学院和中国国家自然科学基金委员会于2014年5月分别发布的《中国科学院关于公共资助科研项目发表的论文实行开放获取的政策声明》57和《国家自然科学基金委员会关于受资助项目科研论文实行开放获取的政策声明》［58]中指出基金资助的科研项目投稿并在学术期刊上发表研究论文的作者应在论文发表时，将同行评议后录用的最终审定稿，存储至相应的机构知识库，不晚于发表后12个月开放获取。另据 SHERPA/JULIET[59]（资助机构开放出版强制性政策登记数据库），截止2020年6月，共收录资助机构开放政策162条，其中大部分政策是2006年以后出台的。科研教育机构开放存储政策登记数据库[60]（The Registry of Open AccessRepository Mandatesand Policies，简称 ROARMAP)是根据政策发布主体或国别检索全球各个机构登记OA政策的数据库。根据ROARMAP 数据，截止2020年6月，ROARMAP共收录1059 条强制性存储政策，其中美国(130条)最多，英国次之(113条)，中国(9条)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "OA 的推进与政策的支持密不可分，0A现在面临的问题早已不是“是否要开放？”，而是“如何开放？”。OA政策的制定需因时而进，因地制宜，需结合本国OA发展的实际情况和OA的时代要求，制定符合国情、符合时代要求的0A政策。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.40A学术交流有益推进 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "学术交流是推动OA有益发展的重要方式，OA机构和OA专家以理论和实践研究为基础，对OA的发展提出了大量有益的思考，促进OA合作，推广OA思想。开放获取周（OAWeek)便是其中的典型案例。开放获取周是学术出版和学术资源联盟（The Scholarly Publishingand Academic Resources Coalition,SPARC)主办的一项全球性的学术交流活动。开放获取周在 2009 年被正式确立，其前身是2008年的“开放获取日活动”[61]，2012年之前开放获取周的主要形式是由研究机构或高校自发组织，没有统一的交流话题，2012年开放获取周咨询委员会开始根据OA进展设置官方主题。以加州大学为代表，美国开放获取周探讨的问题主要集中在版权和开放科学方面；以剑桥大学和伦敦大学学院为代表，英国开放获取周主要探讨开放获取政策（如S计划）。中国也是开放获取周的积极参与者，自2012年起[62]中国科学院文献情报中心在每年10月会举办中国开放获取周，对开放政策和开放科学中的关键问题展开集中探讨。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以开放获取周为代表的OA学术交流是OA新思路的碰撞地和展示台，为OA的发展提供了有益的情景支持，使得0A不断得到有机发展。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3．道阻且长",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "OA 的征程并不是一帆风顺，从发起伊始受到各方关注的同时，也因经济利益、0A本身的问题或其他因素的作用，在不同阶段面临各方不同形式的阻力。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.10A本身带来的问题",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1.1经费问题",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "所谓经费问题，指的是谁来为OA出版买单的问题。从市场供求的角度来看，目前OA期刊出版的收入来源大致分为3种：“供给方”、“需求方”和“供给-需求方”。供给方指作者、出版商及其资助者，需求方主要是内容消费者或代理人[63]。2009 年，R.Crow[64]在一份报告中对当前开放出版收入来源做了综述研究，主要分析了供给方收入来源(如文章处理费、广告费)和需求方收入来源(包括审稿费、印刷费)，较为详实地对比分析了这两种开放出版的收入来源。王应宽[65]等借鉴参考OA 出版研究报告[66]和OA目录[67]梳理模型，将开放出版的商业模型总结为： $\\textcircled{1}$ 志愿服务模型(VolunteerEffort),该模型适用于学者个人办刊的模式，效率较低，推广困难； $\\textcircled{2}$ 论文处理费（ArticleProcessing Charge，简称APC）模型(APC Mode1),这是目前国际上较为流行的开放出版商业模型，主要由作者方支付APC，但是该模型下作者压力大，只有少部分的作者可以依靠项目支付高昂的APC，因此有人戏称作者从“看不起论文”过渡到了“发不起论文”； $\\textcircled{3}$ 复合模式(HybridOA Model)，出版方",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[在此处键入] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将部分作者或机构付费论文0A，其他论文仍然采用付费或订阅阅读模式，这样的模式对应的是混合0A期刊，出版商双重收费，不仅没有使得学术交流成本降低，反而成本升高，结果还是有数百万的科研论文被隔绝在付费墙之后； $\\textcircled{4}$ 机构资助模型(Institutionally-Subsidized OA),这也是比较常见的模式，但是机构经费有限，不能考虑到研究者全部的需求； $\\textcircled{5}$ 基金资助模型(Fund-raisedOA)，这是比较常见的OA出版模型，与机构资助类似，存在经费紧张和经费划分的问题。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "开放出版的商业模型随着时间的发展，不断走向多元化。如何构建低成本、高效率的开放出版商业模型是开放获取方面专家学者一直在探讨的问题[68]，也是政策制定者比较关心的问题。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1.2质量控制问题",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "OA常被诟病的是质量问题，很多学者简单的认为OA等于没有质量把控。为了与传统期刊竞争，OA期刊往往承诺更快的出版速度和更宽松的同行评议[69]。OA期刊的“丑闻”也在不断打击学者对OA 期刊的信任度，哈佛大学生物学家John Bohannon，10 个月内利用计算机程序编造了几百篇版本略有不同但内容基本相似的论文，向 304家开放获取期刊投稿，157家表示接受，只有98家拒绝，另有49家尚无回应，录用率近 $5 2 \\% ^ { [ 7 0 ] }$ 。OA期刊的迅速扩张加剧了学术出版体系面临的问题—高水平同行评议难以为继[71]。开放出版市场中许多开放出版期刊缺乏严格的论文质量审查，揭示了开放出版中掠夺性期刊(PredatoryJournals)[72]的问题。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "但是也不乏质量控制很好的OA期刊的案例，如代表性OA出版商BioMedCentral，根据中科院文献情报中心期刊分区表[73]2019 年的数据，其旗下期刊Genome Biology 三年影响因子13.05，属于生物大类一区；BMC Biology三年影响因子6.42，属于BIOL0GY生物学小类一区。美国科学公共图书馆(Public Library of Science,简称 PLoS)是一个致力于开放科学的非营利性组织，也是具有代表性的开放出版机构，旗下有开放出版期刊。PLoS旗下PLoSBIOLOGY三年平均影响因子为9.11，属于生物大类一区期刊；PLOS MEDICINE 三年平均影响因子为11.53，属于医学大类一区期刊。2011年6月，德国马普学会、美国霍华德休斯医学研究所和英国惠康基金会宣布将联合出版生物医学和生命科学领域的顶级OA 期刊eLife[74]，该期刊致力于高影响力研究论文的发掘，标志着高影响力0A期刊时代的到来。发表自然科学领域高质量研究的开放获取期刊《自然通讯》，属于综合类一区期刊[75]，从创刊伊始便致力于为广大作者和读者提供高质量的服务[76]，具有较高的学术影响力。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由于开放出版的出版流程、模式和许多学者固有的看法等原因，OA期刊的质量控制受到一定的质疑。但是随着开放出版“主流化”进程的推进，出版方也看到了其中的问题，不断改进出版流程和模式，保证出版质量。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1.3知识产权保护问题",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "开放出版具有优先发表的优势，一些科研工作者担心自己的数据和想法被“剽窃”[77]。科技工作者将成果公开发布，其知识产权应该受到合理保护。目前缺乏完整系统的知识产权等法律保障，仍然是开放科学发展的障碍[78]。根据刘钟美和张新鹤[79]在2016年对北京地区13位科研人员的访谈，知识产权制度不明确影响科研人员OA参与积极性,科研人员对参与OA最大的担心就是知识产权得不到保障。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "目前OA出版中的版权与授权有两个法律基础[59]： $\\textcircled{1}$ 公共领域，公共领域授权采用CC-Zero(PD)，几乎可以无限制地使用； $\\textcircled{2}$ 版权人的许可，OA一般是作者保留版权，许可OA。在版权人的许可中CC-BY使用最为广泛，其与OA的理念最为接近。虽然已有部分OA发展较快的国家或地区对知识产权给予了较高的关注，比如欧盟“地平线 2020计划”(Horizon2020—The EU Framework Program for Research and Innovation)对知识产权规则做了详尽的阐述，但就目前OA发展进度来看，相关的法律不够完善，无法满足OA持续发展的需要。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "保护知识产权就是保护科技工作者的劳动成果，是科技创新的保障。0A本质是为了促进科学交流，推动科技创新和进步。因此，不能因为推动OA运动，失去OA的本质精神。各国应积极推动相关方面的知识产权立法和保护，为0A有序开展保驾护航。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2商业出版商的阻碍",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "OA运动产生的一个重要原因就是商业出版商追求利润最大化带来的“学术期刊危机”和“许可危机”，大部分商业出版商一开始就对OA持反对意见，其中比较有代表性的是爱思唯尔。爱思唯尔掌握了许多优秀的学术期刊如《柳叶刀》《细胞》等，一直维持着高昂的订阅费，严重阻碍0A进程。爱思唯尔也因此受到学术界的广泛诟病和抵制，2018年11月，作为全美 $1 0 \\%$ 的研究论文产出的加州大学宣布停订爱思唯尔期刊[80]。2014年由德国高校、公立图书馆和研究单位共同组成“Pro ject DEAL”团体，经过内部协商于2016年12月31日起终止爱思唯尔期刊合作[81]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "面对逐渐步入“主流化”的开放出版，许多传统出版商主动转型发展，应对学术出版市场环境的变化。据统计，传统出版商的0A期刊在2007-2011年间增长了近200种，从450种迅速扩展到616种，且由2007年的425家出版商扩展到530家。大型出版商经济实力较强，开始通过各种形式摸索开放之路。混合0A期刊是出版商较为青睐的开放模式，但这种模式既收取订阅费也有APC，存在双重收费问题。不仅没有降低学术交流的成本，反而成为出版商更大利润的来源，引起学术界诟病。在2018年《付费墙》的纪录片中《自然》与《科学》的代表J.Schmitt说道：“我认为营利性出版商赚取 $3 5 \\% - 4 0 \\%$ 的利润率是不对的，内容是由学者免费提供给他们的”[82]。英国《卫报》(The Guardian)痛批商业出版商为学术成果最大的窃贼(biggest rip-offs)[83]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "商业利益是商业出版商提供服务的主要目的，开放出版需要成本，高质量的开放出版需要更大的成本，因此商业出版商追求商业利润是无可厚非的。商业出版商是现有学术出版市场的主要参与者，开放事业需要他们的支持。如何在开放事业中平衡各方利益，让更多利益相关方成为开放事业的推进者而不是阻碍是一个亟需也是长期需要思考的问题。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3学术界的疲软 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "一方面在开放出版中商业模式仍未得到有力的证明，许多作者及其机构仍不愿意为选择OA 出版额外付费，0A经费不足，出版者陷入回收成本的困局。另一方面在开放存储中，科研人员自存档率并不乐观，研究显示强制存档率可高达 $9 5 \\%$ 以上，但自存档率不足 $1 0 \\%$ 。此外尽管大多数出版者允许某种形式的自存档，但许多作者依然不了解此政策，也不能有效利用罗密欧(RoMEO)数据库查询。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从经费、自存档和政策了解等方面反映出学术界部分学者对OA不够熟知，支持力度有限。科研人员是科技文献的生产者和消费者，0A的推进离不开科研人员的大力支持，目前看来还需要更多政策、经费的支持以及宣传的推进。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.激流勇进 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1学术出版的困局",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着互联网和信息技术的进步，催生了一大批颠覆技术和新型出版模式，此外数字科学和OA不断推进，给学术出版产业带来巨大挑战。正如任翔[84]所言“无论以订阅收入为主的学术出版商，还是在0A转型中建立了新商业体系的机构，都面临着不确定的产业政策环境和日益激烈的市场竞争”。当数字媒介出现后，出版商试图通过简单的方式加入一种数字形式，而不是另一种出版方式来重建价值链。这在一定程度上起了作用(通常被称为“学术交流的危机”,实际上是知识财富的聚宝盆)，但它现在正显示出崩溃的迹象[85]。2018 年初，学术出版巨头 Springer Nature宣布将在法兰克福股票交易所上市，募资目标高达 32亿美金。这一事件受到各方关注，被视为资本市场对学术出版经济价值的评估[75]。然而，2018年5月,Springer Nature宣布取消上市，这从侧面反映了资本市场对学术出版经济模式并不看好。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "学术出版面临新技术、新模式和不确定的政策环境、不自信的经济形势等挑战，学术出版如何走出困局，成为学术界、出版界和图情界高度关注的话题。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2 S计划的推出",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2018年9月，欧洲10 多家最具影响力的科研资助机构成立了c0Alition S联盟，并推出了激进的S计划[86]，要求公共基金资助的学术成果立即OA，而且力图大幅降低OA 出版的利润空间。核心原则包括： $\\textcircled{1}$ 到2020年，采用S计划的国家、机构和欧洲研究委员会资助的科研成果出版物必须在OA期刊和OA平台上出版； $\\textcircled{2}$ 通过知识共享署名许可（ $\\mathrm { C C ^ { - } }$ BY)保护版权； $\\textcircled{3}$ 禁止出版物有滞后期； $\\textcircled{4}$ 不支持科研人员在混合型期刊上发表论文； $\\textcircled{5}$ 要求学术成果立刻开放获取。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2.1 S计划背景",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在近几年的实践中，OA进展缓慢： $\\textcircled{1}$ 开放出版态势疲软，截至2017年，仍然还有 $8 0 \\%$ 的学术论文被阻挡在付费墙外； $\\textcircled{2}$ 开放存储受制于技术、法律和经济因素，难以及时有效分享研究成果； $\\textcircled{3}$ 科研单位因OA转型支付给出版商的额外费用越来越多。持续知识共享计划(Sustaining the Knowledge Commons Project）的一项研究对比了开放出版商 BioMedCentral，2018和2019年的出版情况，每篇论文的APC平均从1402美元增加到了2 200美元，上涨了 $5 7 \\% ^ { [ 8 7 ] }$ 。欧盟国家积极推进学术期刊向0A转型，例如：2014年1月欧盟推出科研和创新框架计划一“地平线 $2 0 2 0 ^ { \\prime \\prime }$ (Horizon 2020—the EU framework program forresearch andinnovation)，该计划要求欧洲研究理事会资助课题的成果必须OA出版[88]且倾向于支持绿色OA模式，虽然绿色OA模式更加有益于避免出版商因赚取OA出版费用从而降低期刊质量，但却因其存在一定时间的禁锢期（一般情况下，默认为6个月，人文社科领域为12个月）而不能被所有利益相关者而接受，转而选择对比之下更能够可持续发展的金色OA模式，如荷兰、英国和瑞典等国家[89]。2016年3月，德国马普学会等发起“OA$2 0 2 0 ^ { \\prime \\prime }$ 国际行动计划，加速现有学术期刊从订阅模式向OA模式转化[90]。这些推动OA发展的行动计划和政策，成为S计划出台的基础文件。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2.2S计划遭抵制",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "“激进”的S计划倡导金色OA，这无疑打乱了商业出版商出版市场的布局，特别是该计划将混合发布模式一并禁止直接影响了出版商的核心利益，因此出版商对此反应激烈。Springer Nature预言，S计划将破坏整个研究出版体系；爱思唯尔认为它将颠覆学术传播，不利于研究者，并妨碍学术自由；美国科学促进会表示，S计划中概述的模型“不支持高质量的同行评议、研究出版和传播”，该计划将“对研究人员造成伤害，而且“对于科学期刊来说也是不可持续的”。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "不仅仅是出版商对S计划有抵制情绪，部分科学家也对S计划不满。瑞典生物化学家L．Kamerlin组织了1000 多名学者联合抵制 S计划。其核心观点是，这种强制性政策剥夺了学者的出版自由。他们在公开信中强调：“禁止在非OA期刊，或者混合模式期刊（hybridjournals）上发表文章，实际上将 $8 0 \\%$ 的学术期刊排除在列表之外”。持反对意见的学者认为，这种一刀切的方式无视不同学科之间的差异，它违背了在美国、德国和瑞典已被广泛认可的学术自由原则；这种对出版自由的限制会使欧盟学者难以开展国际合作，尤其是与其他国家学者合写论文。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "S计划遭到抵制表面上是侵犯了部分出版商的利益，没有充分尊重科研人员的意愿。实际上是S计划的提出超越了目前OA发展的阶段和框架，因此cOAlitionS联盟于2019年5月根据其收集的 600 多份回复，对其核心目标的实现时间点调整为 2021年，给予混合型期刊充分的转换时间；2025 年前允许受资助的论文在订阅期刊上发表，但必须将出版物或AAM 存储至OA知识库中；调整APC资助上限等[91]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.3转型协议",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2019年许多大学和科研机构与出版商签订转型协议，加州大学和剑桥出版社达成协议，瑞典高等教育和研究机构联盟 Bibsam财团、挪威Unit 财团和Projekt DEAL与 SpringerNature达成协议，学术出版巨头爱思唯尔与德国、法国、瑞典、匈牙利等多国达成了一对一的转型协议。2019年堪称“转型协议年”[92]。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.3.1转型协议的概念 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "转化协议(Transformative Agreements)[93]是指科研相关机构与出版商之间达成的合同，这些合同改变了学术期刊出版的商业模式，从基于期刊订阅的商业定价模式转变为以公平价格核算0A服务费，有效避免“双重付费”。该协议旨在向读者和作者提供普遍开放的访问权限，同时控制与营利性期刊相关的不断上涨的成本。在当前学术出版格局的背景下，符合“OA2020倡议”的目标，是一项重要的战略，既可以保持作者的学术自由，又可以加速向OA的过渡。根据计费基础，转型协议主要有“阅读和出版(Read and Publish，简称RAP)”与“出版和阅读(Publish and Read,简称 PAR)”两类。RAP 强调“阅读”，以期刊订阅量为计费基础，由机构或联盟支付订阅费用，用户免费访问订阅期刊，但发表0A文章仍需缴费。而PAR重点在“出版”，出版商只收取出版费用，不收取订阅费用，机构用户可以访问协议中的所有期刊并在其中免费发表0A文章[94]。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.3.2转型协议的核心与效果",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从科学界、图书馆、科研管理或资助机构等科研方角度来说，转型协议的谈判核心是：$\\textcircled{1}$ 学术论文的立即OA； $\\textcircled{2}$ 降低出版商的总要价[82]。其要争取的是将期刊订阅费用与0A出版费合并计算，取消出版商对学术界的双重收费。从出版方来说斡旋的核心是在尽可能满足科研方要求的前提下，争取最大的商业利益。转型协议是在当前学术交流体系不稳定的产物，虽然与OA的本质要求相差甚远，但是总体上缓和了商业出版商和OA方的矛盾，避免了学术交流体系由于过激OA行动(如S计划)带来的动荡。但是转型协议是双方折中的选择，并不能构成长期稳定的学术交流体系，未来双方关于学术交流体系的博弈会更加明显。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.4订阅开放(Subscribe to Open，简称S20) ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.4.1 S20 的提出",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "OA推进的难点一直在“科学出版的成本由谁来买单”上面，商业出版商关心的是长期稳定、可持续的出版模式。APC模式对于出版商而言并不是一个稳定的系统，一方面论文作者(代理人)经济压力大，尤其是对于基金资助较少的社科领域和经济欠发达地区的作者而言更是困难，高筛选性的期刊(发文量少)通常单篇论文APC 高昂，这对想要发表高质量论文的作者造成巨大负担；另一方面，许多出版商为了追求利润，降低门槛接收论文，掠夺性期刊由此诞生。转型协议虽然缓解了商业出版商和OA方的矛盾，但是用并不稳定的OA 出版费换取高额期刊订阅费对于商业出版商而言是不划算的，尤其是出版论文较少的高质量商业出版商。因此，作为高质量商业出版商的代表Annual Reviews在2020年初正式提出了S20模式[95]。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.4.2 S20 的核心",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在每年初向各方收取订阅费（给予折扣），当收取的订阅费达到限额时，则该期刊的所有论文实施0A，也无需作者支付任何费用；当未达到限额时，则实施订阅模式。该模式使得出版商几乎提前锁定了收入，而对于本身已经订阅的单位来说又打了折。似乎看起来是个多方共赢的局面，但实际会存在一个边界上的博弈问题：当我可以不出钱也能享受OA的情况下，我为什么要付钱？",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[在此处键入] ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "该模式将选择权交给了每个资源订阅的利益相关方，利益相关方的集体选择决定了最终资源获取的形式，因此对于资源订阅的利益相关方而言是一个不确定的系统。但是对于商业出版商而言利益相关方的任何选择都不会损害商业出版商的核心利益，因此是一个较为稳定的出版模式。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5结语 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "OA运动自20世纪90年代萌发以来，得到各国政策、经费的支持，在学术界、图情界和出版界的推动下，发展迅猛。从开放获取到开放数据再到开放科学，OA运动的边界在不断扩展，OA的内涵也随着时代的发展不断丰富。本文系统的梳理了OA进程中的关键节点，厘清了OA运动的时间线，主要对OA进程中的有利因素和主要障碍进行了深入探讨，分析了其背后的主要原因，为利益相关方提供了翔实的参考信息。目前OA运动和OA研究依然存在较多研究问题，比如OA整体价值的提升及多维测度、OA出版政策及资助策略制定、OA出版参与模式、不同学科OA 规模和模式差异、OA 期刊的质量把控和学术影响力评价、文章处理费定价标准等还需重点关注。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本文对开放数据方面的内容关注较少，OA进程中背后的成因分析尚有待深入。在下一步的研究计划中，拟分阶段对OA发展背后的经济、政策和科技等方面的成因做更深入的探讨，提供更加翔实的数据和分析。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2[]郭凤娇,赵蓉英,孙劭敏.基于科学交流过程的学术论文影响力评价研究——以中国社会科学国际学术论文为例[J].情报 学报,2020,39(4) :357-366.   \n3[]李武.开放存取出版的两种主要实现途径[J].大学图书馆学报,2005(4):58-63.   \n4[]初景利.开放获取的发展与推动因素[J].图书馆论坛,2006(6):238-242.   \n5[］贝尔纳．科学的社会功能[M]．上海：商务印书馆，1982.   \n6[] Huisman J， Smits J. Duration and quality of the peer review process: the author's perspective[J]. entometrics，2017，113(3) :633-650.   \n7]薛华.OA一开放存取一种免费使用的信息资源[EB/0L].[2020-05-   \n10].htp://lib.fafu.edu.cn/_upload/article/files/ba/23/b501b2cf4d589e9028cb2dfle236/278ecaf7-a190-4404- 96a9-a43a68ce327f.pdf.   \n&[] Brent D. Stevan Harnad. “subversive proposal” : Kick starting electronic scholarship-a summary and analysis[J]． The Information Society， 1995，11(4) :275-283.   \n9[]Stevan H.Commentson Harol Varmus’s1999 E-Biomed Proposal[EB/0L].[2020-05-12].   \nhttps://eprints.soton. ac.uk/272404/1/ebio-harnad. pdf.   \n（204号 $^ { 1 0 } [ ]$ Budapest 0pen Access InitiativeEB/0L].2020-05-10].https://budapestopenaccessinitiative.org/ 11]Bethesda StatementonOpenAccess Publishing[EB/0L].2020-05   \n10].http://legacy.earlham. edu/\\~peters/fos/bethesda.htm.   \n（202 $^ { 1 2 } [ ]$ Berlin Declaration on Open Accessto Knowledge in the Sciences and Humanities[EB/0L].[2020-05- 12].https://openaccess. mpg.de/Berlin-Declaration.   \n13[]IFLA Statement_on Open Access to Scholarly Literature and Research Documentation[EB/0L].[2020-05- 12].htps://www.ifla.org/publications/ifla-statement-on-open-access-to-scholarly-literature-and-research documentation.   \n14[] Declaration on Accessto Research OECD Legal Instruments Data from Public Funding[EB/0L].[2020-05- 12].https://legalinstruments.oecd.org/public/doc/157/157.en. pdf.   \n15[] Washington D.C.Principles for Free Access to Science [EB/0L].[2020-05-   \n12].https://archive.org/details/WashingtonD.c.PrinciplesForFreeAccessToScience-AStatementFrom.   \n16[]Young P, The Serials Crisis and Open Access: A White Paper for the Virginia Tech Commission on Research [EB/OL].[2020-05-12]． https://core.ac.uk/download/pdf/11886303.pdf.   \n17[]Strieb KL， Blixrud JC.Unwrapping the Bundle: An Examination of Research Libraries and the'Big Deal'[J]. Portal:1ibraries and the academy，2014，14(4) :587-615.   \n18]BoardAL，TafuriN.PricesofUSandForeign Published Materials[J].Library&Bok TradeAlmanac, 2009.   \n19[]PanithJM.TheSerialsCrisis:AWhitePaper.205EB/L].[20205   \n13].http://www.unc.edu/scholcomdig/whitepapers/panitch-mi-chalak.html.   \n20[]Suber P.Removing the barriers to research:an introduction to Open Access for librarians[J]. Association of College & Research Libraries, 2003， 64(2).   \n21[]Lariviére V, HausteinS，MongeonP.The Oligopolyof Academic Publishers inthe DigitalEraJ].Plos One,2015，10(6):e0127502.   \n2]MCabe，MarkepactoubshrMergesnJoualrices]eralsbrara 2) : 157-166.   \n23]BergstroCCourantPNMeafeeRPetal.Evauatingbigdealjouralbndles.J].Proednof the National Academy of ences of the United States of America, 2014，111(26):9425-9430.   \n24[]Varian H,Differential Pricing and Efficiency [EB/0L].[2020-05-   \n14].http://ww.kentlaw.edu/faculty/rwarner/classes/privacy/materials_2008/whymatters/efficiency/varian %20price%20discrimination.htm.   \n25[]ShuF,MongeonP,Haustein S,etal.Is It Sucha Big Deal?On theCostof JournalUseinthe Digital Era.[J].College & Research Libraries,2019,76(3) :785-798.   \n26[]郑文晖．学术交流体系的变化及其对图书馆工作的影响[J]．图书馆，2008(4):47-48+51.   \n27口]张晓林，实现开放获取支撑科技创新——有关国家和机构支持科技期刊开放出版的政策与措施[J]。中国科学院院刊， 2013， 28(3) :378-385.   \n28]常凤莲.新学术交流体系中图书馆角色定位与服务转型研究[J].辽宁经济管理干部学院.辽宁经济职业技术学院学 报,2016(6) :55-57.   \n29[]王微,张琳,李滨序.arXiv发展与服务介绍[J].农业图书情报学刊,2013,25(2):36-39.   \n30[杨或.融媒体背景下学术期刊数字化出版路径探析[J].中国传媒科技，2020(4)：56-58。   \n31[]王国光．数字化出版背景下学术期刊编辑的角色定位与自主发展［J]．江西科技师范大学学报，2019（6）：124- 128   \n$^ { 3 2 } [ ]$ 李海燕，韩萍，王玮,等．科技期刊网络化发展探究[J]．农业图书情报学刊，2009(8):144-146.   \n3[]Angell M， Kassirer JP.The Ingelfinger Rule revisited[J]. New England Journal of Medicine,1991, 325(19) : 1371.   \n$^ { 3 4 } [ ]$ BergstromTC.TheEcoomicsofEcologJournals［J]FrontiersinEcology&theEnviroent206, 4(9) :488-495.   \n35[]张晓林,刘兰,李麟,等.科技信息开放获取的内涵演变、责任意义和实施战略[J].图书情报工作,2009,53(5):28- $3 3 \\substack { + 1 1 4 }$ ：   \n6Antdob   \n23].http://www.fas.org/sgp/news/2004/08/nobe1082604.pdf.   \n37]Directoyofaccsournals]2004].ttp://doj   \n$^ { 3 8 } [ ]$ LaksoM，WellingP，Bukvova H，etal.The Development of Open AccessJournal Publishing from199 to 2009［J]． PLoS 0NE,2011，6(6):e20961.   \n$^ { 3 9 } [ ]$ Hajjem C， Harnad S，Gingras Y Ten-Year CrossDisciplinary Comparisonof the Growthof Open Access and How it Increases Research Citation Impact.[J].IEEE Data Engineering Bulletin,2005,28(4):39-47. $^ { 4 0 } [ ]$ OdlyzkoAEcoomccostsoftollacc].OenAess:KeyStrategicchcalandomc Aspects．2006，39-43.   \n41Harnad S.OenacessientoetriandtheUKResearchAsessmnt ExerciseJ]Spger Netherlands,2009,79(1): 147-156.   \n42[GargouriYjeCriviengrasCarr，tal2Seelectdrdated Access Increases CitationImpact for Higher Quality Research[J].PLoS ONE,2010,5(10):e13636.   \n43]王应宽，吴卓晶，程维红,等.国内外开放存取期刊研究进展综述与发展动态分析[J].中国科技期刊研   \n究,2012,23(5):715-724.   \n44[] Dallmeier-Tiessen S， Darby R, Goerner B，etal.First resultsof the SOAP project，Openacess publishing in 2010[EB/0L].[2020-06-04].http://arxiv.org/abs/1010.0506.   \n45HarisS.MovingtowardsanoeacesfuturheoleofAcadeicbrariesEB2 04].http://www.uk.sagepub.com/repository/binaries/pdf/Library-OAReport.pdf.   \n46[]Lewis D W.The inevitabilityof open access[J].College & Research Libraries,2012,73(5),493-506. 47[] Weller M.The Battle for Open: Howopeness won and why it doesn't feel like victory[M].   \nLondon:Ubiquity Press，2014.   \n48[]张晓林,李麟,刘细文,等.开放获取学术信息资源:逼近“主流化”转折点[J].图书情报工作,2012,56(9):42-47. 49[]ThedirectoryofopenaccssrepositoriesEB/L].2020-06-06].http:/ww.opendoar.org/index.htm1. 50[] Cullen R, Chawner B. Institutional repositories,open accessand scholarly communication: a studyof conflicting paradigms[J]. The Journal of Academic Librarianship, 2011，37(6):460-470.   \n$^ { 5 1 } [ ]$ arXiv.org[EB/L].2020-06-10].http://ww.arxiv.org/   \n$^ { 5 2 } [ ]$ PubMedentra.p//w   \n$^ { 5 3 } [ ]$ Koler-povh T, Mikos M,Turk G. Institutionalrepositoryasanimportant partof scholarly   \ncommunication[J]． Library HI Tech, 2014，32(3) :423-434.   \n$^ { 5 4 } [ ]$ WelcometotheSPARCOpenAccessNewsleter[EB/L].[2006   \n12].https://dash. harvard.edu/bitstream/handle/1/3783613/suber_news105.html.   \n55[PeterS，陈静编译，2010开放获取领域十大最好与最坏事件[]图书情报工作动态，201100002)：P.224. 56[]顾立平．开放获取资源的发展研究[J]．信息资源管理学报，2014，4（1）：46-55.   \n57[中国科学院。《中国科学院关于公共资助科研项目发表的论文实行开放获取的政策声明》[EB/0L].[2020-12-23]. http://www.cas.cn/xw/yxdt/201405/P020140516559414259606.pdf?csrftoken=6205f817b66748849c46d75876228fb5. 58[]国家自然科学基金委员会．《国家自然科学基金委员会关于受资助项目科研论文实行开放获取的政策声明》[EB/OL]. [2020-12-23].http://www.nsfc.gov.cn/publish/portal0/tab87/info44471.htm.   \n$^ { 5 9 } [ ]$ SHERPA/JU/.psheraac   \n60]ROARMAPEB/L].2020-06-12].htps://roarma.eprints.g/   \n61[]邵曾婷，王译晗，叶钰铭,等．从开放获取到开放科学:开放获取周的主题,内容演变与启示[J]．图书情报工作， 2020 (14):13-25.   \n62国家科学图书馆举办首届中国开放获取周[EB/0L].[2021-04-   \n27].http://www.cas.cn/cb/cbdt/201210/t20121029_3668149.shtml   \n63[]苏红英.基于供给方付费的开放存取期刊的经济模式分析——以国外的实践为视角[J].图书馆界,2017(3):42-45. 64[]Crow R.Income models for Open Access: An overview of current practice.SPARC Working   \nReport,2009[EB/OL].[2020-06-14].https://src-online.ca/index.php/src/announcement/view/12.   \n65[]王应宽，王元杰，季方，等.国外开放存取出版最新研究进展与发展动态[J].中国科技期刊研究，2015,26(10)：1054- 1064.   \n6]CREATe.OpnAccssPubshgOA):AiteraturerevieEB/   \n14].http://www.create.ac.uk/publications/000011.   \n67[]OA JournalBusiness ModelsOpenAccessDirectory(0AD)   \n[EB/OL].[2020-06-14].http://oad.simmons.edu/oadwiki/OA_journal_business_models. 68]许洁,王嘉均.Open Access_2020战略背景下的开放获取期刊出版现状——第十二届欧洲学术出版会议综述[J].中国禾 技期刊研究,2017,28(07):593-598.   \n$^ { 6 9 } [ ]$ 任翔.学术出版的开放变局:2014年欧美开放获取发展评述[J].科技与出版,2015(2):18-23.   \n$^ { 7 0 } [ ]$ Science：开放存取期刊被“钓鱼”引热议[EB/0L].[2020-06-14].htp://aper.dxy.cn/article/61511. 7]BohannonJ.WhosAfraidofPeerReview?[J].ciene,232:6154.   \n72[]BeallJ.Predatorypublishing isjustoneof theconsequencesof goldopenacess[J]John Wiey& Sons，Ltd,2013,26(2).   \n73[]中科院文献情报中心期刊分区表[EB/0L].[2020-06-14].ttp:/ww.fenqubiao.com/Core/CategoryList.aspx. 74[Leading Research Organizations Anounce Top-Tier，Open AcessJournalfor Biomedical and Life SciencesEB/0L].[2020-06-14].https://ww.hhmi.org/news/leading-research-organizations-announce-top-tieropen-access-journal-biomedical-and-life.   \n75[]NatureCounicatiosB/]2-1].htp:/wwfenqubiaoCoreJouaDetaisp y=2020&t=nature+communications.   \n76natureocasttps//ure   \n77[]赵艳枝,龚晓林.从开放获取到开放科学:概念、关系、壁垒及对策[J].图书馆学研究,2016(5):2-6.   \n78]陈秀娟，张志强.开放科学的驱动因素、发展优势与障碍[J].图书情报工作，2018,62(06):77-84.   \n79[]刘钟美,张新鹤.开放获取环境下我国科研人员对知识产权制度的认知与态度[J].图书情报工作,2016,60(16):50- $6 0 { + } 4 9$ ：   \n$^ { 8 0 } [ ]$ WithNoOpenAccessealUCBreakswitEsevierB/].22-15]htts:ww.th   \nscientist.com/news-opinion/with-no-open-access-deal--uc-breaks-with-elsevier-65554.   \n81[]超过60德国科研单位停订爱思唯尔期刊[EB/0].2020-06-15].htts://ww.editage.cn/insights/chaoguo-60 ge-de-guo-ke-yan-dan-wei-ting-ding-ai-si-wei-er-qi-kan-2672.   \n82ChawlaDcetaryutenstheacsoveetupendgieticubsing] [2020-06-15].https://ww.sciencemag.org/news/2018/09/documentary-puts-lens-open-access-movement-upendingscientific-publishing.   \n83[]MonbiotG.Scientiicpublishingisarip-of.Wefundtheresearch-itshouldbefreeEB/L].2006 15].https://ww.netpatientfoundation.org/2020/01/scientific-publishing-is-a-rip-off-we-fund-the-researchit-should-be-free/.   \n84[]任翔．开放获取博弈与出版变局:2018年欧美学术出版发展评述[J]。科技与出版，2019，00(02):4-12. 85EspositoJUpstreaing:TeMigatioofooicVaueiShoaryubisingEB6 16].https://scholarlykitchen.sspnet.org/2018/11/27/upstreaming-the-migration-of-economic-value-inscholarly-publishing/.   \n86[]Plan SEB/].20-0-16].htps://w.coalitios.org/lan_s_principes/   \n87[] PASHAEI H, MORRISON H. BioMed Central in 2019: Sharp increase in article processing charge[EB/0L]. [2020-06-16].https://sustainingknowledgecommons.org/2019/04/30/biomed-central-in-2019-sharp-increase-inarticle-processing-charge/.   \n88[]翟中会，石蕾，欧盟出版物和研究数据的管理及开放获取制度研究——以欧盟“地平线2020”计划为例［J].图书馆] 作与研究，2018（1）：47-50.   \n$^ { 8 9 } [ ]$ 李国俊,邱小花.金色OA模式的典范:荷兰开放获取模式研究[J].大学图书馆学报,2019,37(3):43-49.   \n90]OpenAccess22/.6]s:/2   \n91[]郑昂．科研资助联盟主导的学术开放出版研究——以S计划为例[J]．中国出版，2019(17)：64-68.   \n92[]任翔.开放生态改变出版规则:2019年欧美开放获取发展评述[J].科技与出版,2020(3):28-34.   \n93[ESAC.Transformativeagrements[EB/].202-06-16].https:/esacinitiative.org/about/transforative agreements/.   \n94[]徐丽芳,严玲艳,赵雨婷,等攻守之间的嬗变:2019海外科技期刊出版动态研究[J].科技与出版,2020(3):35-46. 95[]Crow R，Gallagher R，Naim K.Subscribeto Open: Apractical aproach for converting subscription journals to open access[J]． Learned Publishing，2019，33(2) :181-185. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

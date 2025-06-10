@@ -1,0 +1,543 @@
+[
+    {
+        "type": "text",
+        "text": "CN 53-1189/P ISSN 1672-7673 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "非线性滤波在SINS中的应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "鱼少少1,²，裴军²，胡超²(1.中国科学院大学，北京100049；2.中国科学院国家天文台，北京100012)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对载体的姿态和角速度估计问题，分别给出了基于卡尔曼滤波和粒子滤波的估计算法。对于欧拉角带来的奇异问题，采用四元数描述载体的姿态角。通过对 $\\mathrm { \\ m p u { 9 2 5 0 } }$ 模块(陀螺仪、加速度计和磁力计)进行数据采集，并运用实验数据和仿真运算，验证了四元数卡尔曼滤波和粒子滤波算法的可行性。静态实验和动态仿真的计算结果表明，在使用微机械惯性测量器件测量载体姿态时，粒子滤波和卡尔曼滤波算法得到的误差均值相当，但粒子滤波的标准差相对较小。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：四元数；卡尔曼滤波；粒子滤波；姿态估计中图分类号：TN927 文献标识码：A 文章编号：1672-7673(2018)01-0104-07",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着微小型飞行器和机器人等的快速发展，对其姿态研究显得越来越重要。一般载体的姿态常常采用滤波器对来自微机械（Micro-Electro-Mechanical System，MEMS)惯性测量单元（IMU）的多传感器数据进行融合得到，常用的微机械惯性测量器件包括三轴陀螺仪、三轴加速度计和三轴磁力计。文[1]建立了四元数卡尔曼滤波方程并进行了数据仿真，文[2]对文[1]提出的四元数卡尔曼滤波进行性能分析。同时很多人也进行了粒子滤波在姿态估计中的研究[3]。文[4]和文［5]通过对四元数的分析,设计了四元数粒子滤波算法求取姿态。本文通过对微机械器件数据采集和处理，设计非线性四元数卡尔曼滤波和粒子滤波，并对其姿态解算结果进行进一步分析。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "四元数简介",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "载体上的微机械惯性测量器件的输出转换成载体的姿态，即载体自身坐标系 $( x _ { b } , \\ y _ { b } , \\ z _ { b } )$ 相对于导航坐标系 $( x _ { n } , \\ y _ { n } , z _ { n } )$ 的角位置，写成矩阵形式如下：",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ \\begin{array} { l } { x _ { b } } \\\\ { y _ { b } } \\\\ { z _ { b } } \\end{array} \\right] = A _ { z - y - x } \\left[ \\begin{array} { l } { x _ { n } } \\\\ { y _ { n } } \\\\ { z _ { n } } \\end{array} \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "欧拉角是载体的3个姿态角，即俯仰角(Pitch）、横滚角（Roll)和偏航角（Yaw）。根据欧拉旋转定律，可以通过3次旋转使得载体坐标系与导航坐标系重合，每一次旋转都绕导航坐标系的一个坐标轴转动，转过的角度就是欧拉角，每次旋转后坐标关系可由一个旋转矩阵表示，即方向余弦矩阵，(1)式采用 $z { - } y { - } x$ 的旋转顺序依次旋转：",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { A _ { z - y - x } ( \\psi , ~ \\theta , ~ \\varphi ) = A _ { z } ( \\varphi ) ~ A _ { y } ( \\theta ) ~ A _ { x } ( \\psi ) = } \\\\ & { \\left[ \\begin{array} { c c c } { \\cos \\theta \\mathrm { c o s } \\varphi } & { \\cos \\theta \\mathrm { s i n } \\varphi } & { - \\sin \\theta } \\\\ { \\sin \\phi \\mathrm { s i n } \\theta \\mathrm { c o s } \\varphi - \\mathrm { c o s } \\phi \\mathrm { s i n } \\varphi } & { \\mathrm { s i n } \\phi \\mathrm { s i n } \\theta \\mathrm { s i n } \\varphi + \\mathrm { c o s } \\phi \\mathrm { c o s } \\varphi } & { \\mathrm { s i n } \\phi \\mathrm { c o s } \\theta } \\\\ { \\mathrm { c o s } \\phi \\mathrm { s i n } \\theta \\mathrm { c o s } \\varphi + \\mathrm { s i n } \\phi \\mathrm { s i n } \\varphi } & { \\mathrm { c o s } \\phi \\mathrm { s i n } \\theta \\mathrm { s i n } \\varphi - \\mathrm { s i n } \\phi \\mathrm { c o s } \\varphi } & { \\mathrm { c o s } \\phi \\mathrm { c o s } \\theta } \\end{array} \\right] ~ , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\psi$ ， $\\varphi$ ， $\\theta$ 分别代表偏航角、横滚角、俯仰角。为了避免欧拉角在表示姿态时可能出现的奇异问题，四元数在载体的姿态表示方面有广泛的应用。设计载体姿态四元数为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nq = ( q _ { 0 } , \\ q _ { 1 } , \\ q _ { 2 } , \\ q _ { 3 } ) = q _ { 0 } \\ + \\ q _ { 1 } i + q _ { 2 } j + q _ { 3 } k ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "导航坐标系与载体坐标系之间的坐标变换可以用方向余弦矩阵表示，其四元数形式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA ( q ) _ { n } ^ { b } = \\left[ \\begin{array} { c c c c } { q _ { 0 } ^ { 2 } + q _ { 1 } ^ { 2 } - q _ { 2 } ^ { 2 } - q _ { 3 } ^ { 2 } } & { 2 ( q _ { 1 } q _ { 2 } + q _ { 0 } q _ { 3 } ) } & { 2 ( q _ { 1 } q _ { 3 } - q _ { 0 } q _ { 2 } ) } \\\\ { 2 ( q _ { 1 } q _ { 2 } - q _ { 0 } q _ { 3 } ) } & { q _ { 0 } ^ { 2 } - q _ { 1 } ^ { 2 } + q _ { 2 } ^ { 2 } - q _ { 3 } ^ { 2 } } & { 2 ( q _ { 2 } q _ { 3 } + q _ { 0 } q _ { 1 } ) } \\\\ { 2 ( q _ { 1 } q _ { 3 } + q _ { 0 } q _ { 2 } ) } & { 2 ( q _ { 2 } q _ { 3 } - q _ { 0 } q _ { 1 } ) } & { q _ { 0 } ^ { 2 } - q _ { 1 } ^ { 2 } - q _ { 2 } ^ { 2 } + q _ { 3 } ^ { 2 } } \\end{array} \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "简记为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA ( q ) { \\bf \\Sigma } _ { n } ^ { b } = \\left[ { \\cal T } _ { 1 1 } \\quad { \\cal T } _ { 1 2 } \\quad { \\cal T } _ { 1 3 } \\right] \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "导航坐标系到载体坐标系的旋转变换过程中坐标系始终保持直角坐标系，所以 $A ( q ) _ { n } ^ { b }$ 为正交坐标系,即 $A ( q ) _ { n } ^ { b } = [ A ( q ) _ { n } ^ { b } ] ^ { - 1 } = [ A ( q ) _ { b } ^ { n } ] ^ { T }$ 。从而载体的姿态角为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l } { \\displaystyle \\theta = - \\arcsin T _ { 1 3 } } \\\\ { \\displaystyle } \\\\ { \\phi = \\arctan \\frac { T _ { 2 3 } } { T _ { 3 3 } } } \\\\ { \\displaystyle } \\\\ { \\varphi = \\arctan \\frac { T _ { 1 2 } } { T _ { 1 1 } } } \\end{array} \\right. .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "四元数的微分方程如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { q } = \\frac { 1 } { 2 } q \\omega \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $q$ 为描述载体转动的四元数； $\\omega$ 为载体相对导航坐标系的角速度，也表示为四元数的形式：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\omega = 0 + \\omega _ { _ x } i + \\omega _ { _ y } j + \\omega _ { _ z } k ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ \\begin{array} { c } { \\dot { q } _ { 0 } } \\\\ { \\dot { q } _ { 1 } } \\\\ { \\dot { q } _ { 2 } } \\\\ { \\dot { q } _ { 3 } } \\end{array} \\right] = \\frac { 1 } { 2 } \\left[ \\begin{array} { c c c c } { 0 } & { - \\omega _ { x } } & { - \\omega _ { y } } & { - \\omega _ { z } } \\\\ { \\omega _ { x } } & { 0 } & { \\omega _ { z } } & { - \\omega _ { y } } \\\\ { \\omega _ { y } } & { - \\omega _ { z } } & { 0 } & { \\omega _ { x } } \\\\ { \\omega _ { z } } & { \\omega _ { y } } & { - \\omega _ { x } } & { 0 } \\end{array} \\right] \\left[ \\begin{array} { c } { q _ { 0 } } \\\\ { q _ { 1 } } \\\\ { q _ { 2 } } \\\\ { q _ { 3 } } \\end{array} \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { q } = \\frac { 1 } { 2 } \\phi _ { \\scriptscriptstyle { w } } q .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过三轴陀螺仪测量3个轴的角速度就可以实现实时更新四元数的值，进而更新姿态角获得姿态信息。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 四元数卡尔曼滤波",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在四元数和非线性滤波算法的结合中，最常用的算法就是基于四元数卡尔曼滤波，本文使用文［1]的四元数卡尔曼滤波，滤波过程简介如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)滤波器初始化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为 $Q$ 和 $R$ 选取初始值，可以通过对静态下三轴陀螺仪、三轴加速度计和三轴磁力计进行测量,计算出各个轴的方差作为滤波器数据误差；通过初始加速度计测量出俯仰角和横滚角，用磁力计测量出方位角作为初始姿态，并把初始姿态角转变为初始四元数 $\\dot { \\boldsymbol { q } } _ { 0 / 0 }$ ，选择 $P _ { _ { 0 / 0 } } = I _ { _ { 4 } }$ 作为系统初始噪声。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2)状态方程传播 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文[1]中的Hamilton 算子定义如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\overline { { H } } ( q ) = \\left[ \\begin{array} { c c c } { s } & { - v ^ { T } } \\\\ { v } & { s - \\left[ v \\times \\right] } \\end{array} \\right] , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $s$ 表示四元数的标量； $\\mathbf { \\sigma } _ { v }$ 表示四元数的矢量。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varOmega _ { k } ^ { b } = \\overline { { H } } ( \\omega _ { k q } ^ { b } ) \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { \\varPhi } _ { k + 1 / k } = \\exp \\left( \\frac { 1 } { 2 } \\varOmega _ { k } ^ { b } \\Delta t \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nq _ { k + 1 / k } = \\Phi _ { k + 1 / k } \\ q _ { k / k } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { k / k } = q _ { k / k } \\ q _ { k / k } ^ { T } \\ + \\ P _ { k / k } ^ { q } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { _ { k + 1 / k } } ^ { q } = \\Phi _ { _ { k + 1 / k } } P _ { _ { k / k } } ^ { q } \\Phi _ { _ { k + 1 / k } } ^ { T } + \\frac { 1 } { 4 } \\left[ \\mathrm { t r } ( M _ { _ { k / k } } ) I _ { _ { 4 } } - M _ { _ { k / k } } \\right] Q _ { _ { k } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(12)式到(16)式中， $q _ { k / k }$ 为 $t _ { k }$ 时刻将矢量在 $R$ 系中的投影转到 $B$ 系中的姿态四元数； $\\boldsymbol { \\omega } _ { k q } ^ { b }$ 为 $t _ { k }$ 时刻将$B$ 系相对于 $R$ 系的角速度在 $B$ 系中的投影； $\\boldsymbol { \\varPhi } _ { k + 1 / k }$ 为姿态转移矩阵； $q _ { k + 1 / k }$ 和 $P _ { k + 1 / k } ^ { q }$ 分别代表状态量 $q _ { k / k }$ 的递推估计值和协方差矩阵。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)量测方程更新 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "首先通过预测得到的 $q _ { k + 1 / k }$ 应用(4)式计算出观测方程中的系数矩阵 $H ( q _ { k + 1 / k } )$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { k + 1 / k } = q _ { k + 1 / k } q _ { k + 1 / k } ^ { T } + P _ { k + 1 / k } ^ { q } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB _ { k + 1 } = { \\overline { { H } } } ( b _ { k + 1 } ) \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { k + 1 / k } ^ { v } = { \\frac { 1 } { 4 } } R _ { k + 1 } \\left[ \\mathrm { t r } ( M _ { k + 1 / k } ) I _ { 4 } - M _ { k + 1 / k } - B _ { k + 1 } M _ { k + 1 / k } B _ { k + 1 } ^ { T } \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { k + 1 / k } = H ( q _ { k + 1 / k } ) P _ { k + 1 / k } ^ { q } H ( q _ { k + 1 / k } ) ^ { \\textit { T } } + P _ { k + 1 / k } ^ { v } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK _ { k + 1 } = P _ { { } _ { k + 1 / k } } ^ { q } \\ : H ( q _ { k + 1 / k } ) \\ : ^ { T } S _ { k + 1 / k } ^ { - 1 } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nq _ { k + 1 / k + 1 } = q _ { k + 1 / k } + K _ { k + 1 } \\left[ b _ { k + 1 } - H ( q _ { k + 1 / k } ) n _ { k + 1 } \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { { } _ { k + 1 / k + 1 } } ^ { q } = [ I _ { { } _ { 4 } } - K _ { { } _ { k + 1 } } H ( q _ { k + 1 / k } ) ] P _ { { } _ { k + 1 / k } } ^ { q } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在(18)式到(23)式中， $b _ { k + 1 }$ 为空间矢量在 $B$ 系中的投影四元数； $P _ { k + 1 / k } ^ { v }$ 为计算出来的状态协方差； $K _ { k + 1 }$ 为 $\\boldsymbol { t } _ { k + 1 }$ 时刻的卡尔曼增益系数； $q _ { k + 1 / k + 1 }$ 为 $\\boldsymbol { t } _ { k + 1 }$ 时刻的递推四元数估计； $P _ { k + 1 / k + 1 } ^ { q }$ 为四元数卡尔曼滤波方程的观测协方差。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3粒子滤波",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "粒子滤波是通过寻找一组在状态空间中传播的随机样本近似表示状态变量，用样本均值代替积分运算，进而获得系统最小方差的过程，这些样本被称为粒子。采用数学语言描述如下：对于平稳的随机过程，假设k-1时刻系统的后验概率为 $p \\big ( x _ { k } - 1 \\big | z _ { k } - 1 \\big )$ ，依据一定原则选取 $n$ 个随机样本， $k$ 时刻获得测量更新后，经过状态和时间过程， $n$ 个粒子的后验概率密度可近似为 $p \\big ( \\boldsymbol { x } _ { k } \\mid \\boldsymbol { z } _ { k } \\big )$ ，随着粒子数目的增加,粒子的概率密度函数逐渐逼近状态的概率密度函数，从而粒子滤波达到最优贝叶斯估计的效果[3]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设非线性动态离散系统为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l } { { x _ { k + 1 } = f _ { k } \\left( x _ { k } , ~ w _ { k } \\right) } } \\\\ { { z _ { k } = h _ { k } \\left( x _ { k } , ~ v _ { k } \\right) } } \\end{array} , \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $x _ { k } \\in R ^ { n }$ 为 $k$ 时刻的 $n$ 维状态向量; $z _ { k } \\in R ^ { m }$ 为 $m$ 维观测向量; $\\boldsymbol { w } _ { k }$ 和 $\\boldsymbol { v } _ { k }$ 分别为过程噪声和量测噪声。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "粒子滤波算法步骤如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1)初始化： $k = 0$ 时，产生服从初始概率密度 $p ( x _ { 0 } )$ 的 $N$ 个粒子点 $x _ { 0 } ^ { ( i ) }$ ， $i = 1 \\cdots n$ ；(2)通过重要性采样更新样本粒子状态，",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\overline { { x } } _ { k } ^ { ( i ) } \\sim q \\big ( x _ { k } \\big | x _ { 0 : k - 1 } ^ { ( i ) } , z _ { 1 : k } \\big ) \\ , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { { x } } } _ { 0 : ~ k } ^ { ( i ) } ~ = ~ \\big ( x _ { 0 : ~ k - 1 } ^ { ( i ) } ; ~ \\overline { { { x } } } _ { k } ^ { ( i ) } ~ \\big ) ~ , ~ i = 1 \\cdots N .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3)计算更新后粒子的权值 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { k } ^ { ( i ) } = w _ { k - 1 } ^ { ( i ) } \\frac { p ( z _ { k } | x _ { k } ^ { ( i ) }  ) p ( x _ { k } ^ { ( i ) } | x _ { k - 1 } ^ { ( i ) } ) } { q ( x _ { k } ^ { ( i ) } | x _ { 0 : k - 1 } ^ { ( i ) } , \\ z _ { 1 : \\ k } ) } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(4)归一化粒子权值 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { k } ^ { ( i ) } = w _ { k } ^ { ( i ) } / \\sum w _ { k } ^ { ( i ) } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(5)重采样：根据各自归一化权值 $\\boldsymbol { w _ { k } ^ { ( i ) } }$ 的大小复制/舍弃样本，得到 $N$ 个近似服从 $p \\langle \\left( x _ { 0 : k } ^ { ( i ) } \\right) \\mid z _ { 1 : k } \\rangle$ 分布的样本x，令）= $w _ { k } ^ { \\left( i \\right) } = \\frac { 1 } { N } , \\ i = 1 \\cdots N$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(6)输出结果：算法的输出是粒子集 $\\{ \\boldsymbol { x } _ { 0 : \\ k } ^ { ( i ) }$ ， $i = 1 \\cdots N \\}$ ，用它可以表示后验概率和函数 $\\varrho \\big ( { x } _ { 0 ; k } \\big )$ （204的期望：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\np \\left( x _ { 0 : \\ k } \\mid z _ { 1 : \\ k } \\right) = \\frac { 1 } { N } \\sum \\ \\delta x _ { 0 : \\ k } ^ { \\left( i \\right) } \\left( \\ d x _ { 0 : \\ k } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE \\left[ g ( x _ { 0 : k } ) \\right] = { \\frac { 1 } { N } } \\sum g _ { k } ( x _ { 0 : k } ^ { ( i ) } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(7)令 $k = k + 1$ ，重复以上步骤。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4数据实验",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验通过选择传感器模块 $\\mathrm { \\ m p u { 9 2 5 0 } }$ ，它包含三轴陀螺仪、三轴加速度计和三轴磁力计，能够通过自身所有的低通滤波器和 $\\mathrm { A } / \\mathrm { D }$ 变换模块直接输出九轴传感器数据。实验通过将mpu6050 固定在转台上测量，在安装过程中远离环境磁场的干扰。采用单片机读取 $\\mathrm { \\ m p u { 9 2 5 0 } }$ 测量数据后通过I2C串口传输给电脑进行处理，以检验算法的可用性和精度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1)首先将传感器模块 $\\mathrm { \\ m p u { 9 2 5 0 } }$ 在静止状态下测量输出数据，采样速率为 $1 0 0 ~ \\mathrm { H z }$ ，采样 $1 ~ \\mathrm { m i n }$ ，分析静态情况下的九轴输出数据。陀螺仪三轴静态数据如图1。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ad487ef529e949f318769d0388218d2c610e9529c8ca4fbe77fa9724f13318cd.jpg",
+        "img_caption": [
+            "图1陀螺仪三轴静态输出数据",
+            "Fig.1Three-axis gyroscope static output data "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图1是 $1 \\mathrm { m i n }$ 采集的陀螺仪三轴数据，自上而下依次是 $x$ 轴、 $y$ 轴和 $z$ 轴，运用MATLAB软件分析 $x$ 轴的均值和方差分别为： $0 . 0 2 0 5 ( ^ { \\circ } ) / \\mathrm { { s } }$ 和 $1 . 2 3 8 \\mathrm { e } ( - 4 ) ( ^ { \\circ } ) / \\mathrm { s }$ ; $y$ 轴的均值和方差分别为： $- 0 . 0 0 4 8$ $( ^ { \\circ } ) / \\mathrm { s }$ 和 $1 . 5 7 \\mathrm { e } ( - 4 ) ( ^ { \\circ } ) / \\mathrm { s }$ ; $z$ 轴的均值和方差分别为： $0 . 0 1 5 4 ( ^ { \\circ } ) / \\mathrm { { s } }$ 和 $2 . 3 6 9 9 \\mathrm { e } ( - 4 ) ( ^ { \\circ } ) / \\mathrm { s } ,$ 。用同样的方法处理三轴加速度计和三轴陀螺仪的原始数据，结果见表1。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过以上测量，加速度计在水平位置 $x$ 轴和 $y$ 轴均值不为0，所以在做姿态解算时引入均值误差提高测量精度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2)通过上面静态数据的读取，将各个传感器的方差作为四元数卡尔曼滤波和粒子滤波程序的方差参考，静止状态下四元数卡尔曼滤波和粒子滤波的姿态角结算误差如图2、图3。其中横坐标表示时间，单位是秒；纵坐标表示输出的角度误差，单位是（°)",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f4449ea33fe0d53104c7a397fa728f7c080b2566db861dfee191e50294df6119.jpg",
+        "table_caption": [
+            "表1加速度计和陀螺仪输出数据的均值和方差",
+            "Table 1Mean and variance of accelerometer and gyro output data "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"3\">三轴加速度计/g</td><td colspan=\"3\">三轴磁力计/uT</td></tr><tr><td></td><td>x轴</td><td>y轴</td><td>z轴</td><td>x轴</td><td>y轴</td><td>z轴</td></tr><tr><td>均值</td><td>0.4</td><td>-0.5</td><td>9.4</td><td>3.6</td><td>4.5</td><td>2.1</td></tr><tr><td>方差</td><td>0. 002 7</td><td>0. 0033</td><td>0.003 1</td><td>0.02</td><td>0.096</td><td>0.01</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "0.5   \n-0.5 0 10 20 30 40 50 60   \n0.4   \n-0.4 0 10 20 30 40 50 60   \n0.4   \n0.2   \n-0.2 0 10 20 30 40 50 60 ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/92aca8ed847a47c78ab754956c0db9ede22944471cceebf61c7e30095f218e6e.jpg",
+        "img_caption": [
+            "图2四元数卡尔曼滤波静态三轴姿态角误差 ",
+            "Fig.2Quaternion Kalman filter static triaxial attitude angle error ",
+            "图3粒子滤波静态三轴姿态角误差 ",
+            "Fig.3Particle filter static triaxial atttude angle error "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "静止状态下四元数卡尔曼滤波和粒子滤波三轴姿态角均值和误差如表2。通过对静态数据的分析可以看出，两种算法对均值改善相差不多，但是粒子滤波比四元数卡尔曼滤波在方差上有所改善，即粒子滤波静态测量相对稳定。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3)由于没有转台等实验设备，通过对静态数据添加一个稳定的姿态仿真轨迹计算四元数卡尔曼滤波和粒子滤波在动态情况下的结算结果。通过对三轴姿态角分别添加角速率为2，3， $5 ( ^ { \\circ } ) / \\mathrm { s }$ ，幅度为5仿真，得到如图4的仿真结果。其中横坐标表示时间，单位是秒；纵坐标表示输出的角度误差，单位是(°)",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e3926c0bcac28dc3b5f7171dc656b67b9cae85b4f8cd22cfb57350b4f8a7631c.jpg",
+        "table_caption": [
+            "Table 2Mean and variance of the two algorithms for the quiescent state "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"3\">四元数卡尔曼</td><td colspan=\"3\">粒子滤波</td></tr><tr><td></td><td>x轴</td><td>y轴</td><td>轴</td><td>x轴</td><td>y轴</td><td>轴</td></tr><tr><td>均值</td><td>0.002</td><td>0. 003 6</td><td>0. 002 7</td><td>-0. 033 7</td><td>0. 036 9</td><td>0. 001 6</td></tr><tr><td>方差</td><td>0.010 6</td><td>0. 008 7</td><td>0.0101</td><td>0.0143</td><td>0. 002 4</td><td>0. 004 5</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "0.5   \n-0.5 0 10 20 30 40 50 60   \n0.5   \n-0.5 0 10 20 30 40 50 60   \n0.5   \n-0.5 0 10 20 30 40 50 60 ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/b56f42130be2163f87a838ce7afef501d1fe0ad663ab192b6b4646b0b8b3f595.jpg",
+        "table_caption": [
+            "表2静止状态两种算法的均值和方差",
+            "表3仿真状态两种算法的均值和方差",
+            "Table 3The mean and variance of the two algorithms for Simulation states "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"3\">四元数卡尔曼</td><td colspan=\"3\">粒子滤波</td></tr><tr><td></td><td>x轴</td><td>y轴</td><td>z轴</td><td>x轴</td><td>y轴</td><td>z轴</td></tr><tr><td>均值</td><td>0. 030 1</td><td>0. 020 1</td><td>0. 025 4</td><td>-0. 034 7</td><td>0.018 0</td><td>0. 020 4</td></tr><tr><td>方差</td><td>0. 014</td><td>0.009 5</td><td>0. 013 4</td><td>0. 016 1</td><td>0.005 0</td><td>0. 008 5</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从表3可以看出，通过对动态的仿真实验分析，两种算法在均值改善和静态数据基本相同，但是粒子滤波比四元数卡尔曼滤波在方差上有所改善，即动态情况下粒子滤波相对稳定。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文通过对四元数卡尔曼滤波和粒子滤波进行简单介绍，并通过对 mpu9250 进行数据采集和仿",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "真实验，验证粒子滤波和四元数卡尔曼滤波的可行性，以误差均值和标准差为检验标准，验证了粒子滤波相对四元数卡尔曼滤波提高了标准差。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] Choukroun D,Bar-Itzhack IY,Oshman Y.Novel quaternion Kalman filter[J].IEEE Transactionson Aerospace and Electronics Systems，2006，42(1）:174-190.  \n[2] 高显忠，侯中喜，王波，等.四元数卡尔曼滤波组合导航算法性能分析［J].控制理论与应用，2013，30(2)：171-177.Gao Xianzhong，Hou Zhongxi，Wang Bo，et al.Quaternion-based Kalman filter and itsperformance analysis in integrated navigation［J].Control Theory & Applications，2013，30(2): 171-177.  \n[3] 梁军.粒子滤波算法及其应用研究［D].哈尔滨：哈尔滨工业大学，2009.  \n[4] 乔相伟，周卫东，吉宇人．基于四元数粒子滤波的飞行器姿态估计算法研究［J］.兵工学报，2012，33(9)：1070-1075.Qiao Xiangwei， Zhou Weidong，Ji Yuren. Study on aerial vehicle atitude estimation based onquaternion particle filter algorithm [J].Acta Armamentarii，2012，33（9）:1070-1075.  \n[5] 吴海亮，王惠南，陈志明，等.基于粒子滤波的微小卫星姿态确定算法［J]．中国惯性技术学报，2007，15(4)：427-430.Wu Hailiang，Wang Huinan，Chen Zhiming，et al.Particle filtering-based algorithm for micro-satelliteatitude determination［J]. Journal of Chinese Inertial Technology，2OO7，15（4）:427-430.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Application of Nonlinear Filtering in SINS ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Yu Shaoshao $^ { 1 , 2 }$ ，Pei Jun²，Hu Chao² (1.University of Chinese Academy of Science，Beijing 100049,China；2.National Astronomical Observatory， Chinese Academy of Sciences，Beijing 100012,China，Email：1024636930@ qq.com) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Two algorithms are presented to solve the carrier atitude and rate estimation problem. One is based on Kalman filter and theother is basedon Particle filter.In order to avoid the singular problem from Euler angle，we chose quaternion to describe the atitude angle.We carried out the data acquisition of gyroscope，accelerometer and magnetometer of mpu925O module.By comparing the experimental data and simulation，we discussed the feasibility of quaternion Kalman filterand particle filteralgorithm.The results of staticand dynamic simulation show thatthe erors of the particle filterand the Kalman filterare similar when the carrier atitude is measured by the MEMS device，and the standard deviation of the particle filter is relatively small. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Key words:Quaternion；Kalman filter；Particle filter；Attitude estimation ",
+        "page_idx": 6
+    }
+]

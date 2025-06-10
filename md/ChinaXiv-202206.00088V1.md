@@ -1,0 +1,223 @@
+# 中国西北地区气候转型的新认识
+
+姚旭阳1²，张明军¹²，张宇1,，王家鑫1,2，肖涵余1.2
+
+（1.西北师范大学地理与环境科学学院，甘肃 兰州730070;2.甘肃省绿洲资源环境与可持续发展重点实验室，甘肃 兰州730070)
+
+摘要：近年来，中国西北地区的气候变化问题引起了社会各界的广泛关注，施雅风曾在2002年提出中国西北气候可能会从暖干向暖湿转型，自此学者们对中国西北气候“变暖变湿"现象的关注也逐渐增多，对于近20a来气候转型的时间、范围和程度有了一些新的认识。基于此，选用1960—2019年逐月气温和降水量资料对中国西北地区气候变化特征进行了再分析。结果表明：(1)1960—2019年中国西北地区平均气温和降水量均呈上升趋势，增暖趋势显著，增湿趋势较弱。(2)自1997年后气温和降水量迅速增加，尤其是中国西北地区的东部地区降水量的增加速率超过同时期的西部地区。且研究初步认为，1997年以来中国西北气候的确出现了向暖湿转型的趋势且转型时间较前人预期的更早。(3)气候转型的范围相较前人研究也有所变化，甘肃陇东地区由未转型区转变为显著转型区，青海东、西部地区由原来轻度转型区转变为显著转型区，而祁连山中西段地区由之前的显著转型区转变为轻度转型区。
+
+关键词：中国西北地区；气候变化；暖湿转型；时空格局；标准化降水指数(SPI)文章编号：
+
+“气候转型"最初是指中更新世气候周期从以$4 0 \mathrm { { k a } }$ 为主转变至 $1 0 0 \mathrm { k a }$ 为主，也可指气候类型的空间明显变化，如从半干旱气候区变为半湿润气候区也可称为“气候转型”2]。本文提到的气候转型是指20世纪变暖背景下，变干趋势结束转向变湿，降水量的增加超越变暖导致的潜在蒸发的增加，以致出现世纪性的径流增加与湖泊扩张[3]。如此巨大的气候变化至少要有千年级的时间积累才可能完成，但千年期的“气候转型"往往在100\~200a之内就基本完成，因此特定的 $1 0 0 { \sim } 2 0 0 \mathrm { a }$ 也可称之为“气候转型期”,如20—21世纪很可能就是这样的 $2 0 0 \mathrm { ~ a ~ } ^ { [ 2 ] }$ 。中国西北地区是我国主要的干旱和半干旱区，分布着全国 $8 5 \%$ 的干旱、半干旱土地面积4，也是气候变化的敏感区域，对人类活动的响应更加明显。因此，中国西北地区气候可能由暖干向暖湿转型的这一科学问题的提出,对我国西部地区的生态环境、社会经济发展及人类的生产生活实践具有重要意义。
+
+21世纪初，施雅风等[5提出中国西北地区气候可能会从20世纪的暖干向暖湿转型的科学推断，并且根据转型标准把气候变化分为显著转型区、轻度转型区和未转型区3个区域，表明气候变化具有区域差异和类型差异，尤其以降水量的变化最为显著。在全球气候变暖的大背景下，中国西北地区气温升高，降水总量增大，湖泊河流水量加大，地下水位抬升，“暖湿化"信号显著[。针对这些现象,前人展开了多方面的研究，且表明中国北方的长期干湿变化趋势呈"西湿东干"的分布格局[7-8]。其中,中国西北西部呈显著的变湿趋势，东部呈干旱化趋势，并且发现干旱化趋势的产生与降水的持续减少密切相关，此外气温的持续上升是干旱化加剧且范围扩大的一个重要原因[9-"]。随后，张强等[12]研究发现1959—2008年中国西北地区气温升高趋势明显，降水量变化存在显著的空间差异性，整体呈现暖干化趋势，局部出现暖湿现象。赵传成等[13]发现
+
+# 干旱区地理
+
+1961—2008年中国西北地区西部和中部降水量呈显著增加趋势。马鹏里等14发现，中国西北地区东部降水量在21世纪初发生了从减少到增多的转折性变化，特别是2010一2018年的增加幅度更大。然而，姚俊强等[15]发现中国西北干旱区在20世纪80年代中后期降水量增加站点占到 $9 5 . 9 \%$ ,形成了天山、祁连山等增湿中心，但从20世纪90年代开始，有 $4 5 . 0 \%$ 的站点降水量表现为减少趋势，且中国西北地区东部受季风强度减弱的影响降水量减少明显。因此，就中国西北气候向暖湿转型的区域问题产生了不同的观点，尤其是近20a来有了一些新的变化。
+
+另外，Yang等[16]分析了1960—2013年中国西北地区的降水资料后指出，区域平均的年降水量呈增加趋势且不同地区及不同季节降水变化差别较大，并指出从1980s开始降水增加较前期明显。郭慧等[7研究表明20世纪80年代中期是我国西北大部分地区降水量变化的转折期，降水量在1990s总体呈增加的趋势。俞亚勋等[18]研究发现，中国西北地区年空中水汽含量在1980s达到最低值，自1986年开始呈上升趋势。Chen等[19]和Li等[20]的研究表明,在1960—2010年年降水量的阶跃点发生在1987年，在此之后降水量显著增加。施雅风等5指出1987年为中国西北气候的转型年，具体表现在降水量的显著增加上，并且预期中国西北东部在21世纪上半期也会向暖湿转变。汤懋苍等[2利用太阳活动周期长度、孢粉及冰芯等资料分析中国西北地区变化的周期规律后，推测中国西北的"千年湿期"将从22世纪开始，中国西北地区东部气候转型可能要发生在2020年以后。与此同时，Yao等[2I-22]利用多标量干旱指数，即标准化降水指数(SPI)和标准化降水蒸发指数(SPEI)，对新疆1961一2015年的多尺度干旱进行研究,发现气温在1997年急剧上升,此后一直极不稳定，降水在1987年急剧增加,但近20a来增加趋势有所减弱，这在一定程度上加剧了地区的干旱程度，与之对应的干旱指数在1997年以前呈上升趋势，之后呈下降趋势，SPEI显示在1997一2015年 $7 0 . 5 \%$ 的监测站干旱程度有所增加。然而，近期一项有关于新疆气候"湿干转折"的研究发现,20世纪80年代中后期新疆气候的确呈“暖湿化"特征，但1997年之后的干旱趋势及频率的增加均导致新疆$7 0 . 0 \%$ 以上的区域变干，出现了从“暖湿化"向“暖干化"转折的信号[23]。由此可以发现,21世纪后,气温增加趋势愈发显著，降水量的变化趋势有了新变化，那么中国西北地区的气温和降水量到底发生了怎样的新变化，尤其近20a以来的气候变化是否发生了干湿转型，转型的区域是否发生了变化，这些问题值得我们进行深入的探讨。
+
+基于此，本文利用中国西北地区1960—2019年平均气温和降水量资料，分析其时间和空间变化格局，进一步研究气候变化的特征，揭示气候转向暖湿的更多事实，为应对中国西北地区气候变化和防灾减灾提供参考。
+
+# 1研究区、数据与方法
+
+# 1.1 研究区概况
+
+中国西北地区位于 $7 3 ^ { \circ } 2 5 ^ { \prime } { \sim } 1 1 0 ^ { \circ } 5 5 ^ { \prime } \mathrm { E }$ 和 $3 1 ^ { \circ } 3 5 ^ { \prime } \sim$ （20$4 9 ^ { \circ } 1 5 ^ { \prime } \mathrm { N }$ 之间，包括新疆、甘肃、青海、宁夏、陕西全部和内蒙古西部地区(图1)，土地面积约占中国国土面积的1/3。该区域深居内陆，远离海洋，四周高山阻挡，海洋潮湿气流难以到达，因而成为中国最干旱的地区，此外，该区域自然条件恶劣、生态脆弱，属典型大陆性气候。
+
+# 1.2数据来源与处理
+
+本文使用的逐月平均气温和降水量资料均来源于中国气象科学数据共享服务网(http://data.cma.cn)。本文对数据进行了预处理，舍弃数据缺失严重的站点，进行均一化检查和时间、空间一致性检查注：该图基于国家测绘地理信息局标准地图服务网站下载的审图号为GS(2020)4619号的标准地图制作，底图边界无修改。下同。
+
+![](images/f242aa40f15d98fabe5ff1211dc3cd880bf91c02d28f37a3b23813e475fc30da.jpg)  
+图1中国西北地区概况及气象台站分布  
+Fig.1 Overview of northwest China and distribution of the representative meteorological stations
+
+等，并根据检查结果对数据进行了必要的插补和订正。经过以上处理，共选用122个气象台站1960—2019年完整的气温和降水量数据。研究表明中国西北地区东、西部气候变化特征存在空间差异，一般以 $1 0 0 ^ { \circ } \mathrm { E }$ 为界将中国西北地区划分为东、西部[24]本文四季的划分为：3—5月为春季，6—8月为夏季，9—11月为秋季，12一次年2月为冬季。
+
+# 1.3 研究方法
+
+（1）气象数据均一性检验
+
+在气象站长期观测中，由于仪器更换、测站迁移、观测规程调整以及操作人员主观认识等多方面因素的影响，数据存在偏态、缺测、异常值等问题，进而造成整个气象数据序列不均质现象。因此，需要对气象数据进行均一化处理。本研究采用RHtest方法对中国西北地区气象数据序列进行均一化检验和订正。该方法由加拿大环境部气候研究中心Wang等建立，它基于两阶段线性回归模型对整个气象数据序列进行检测[25-26],其可行性和合理性已得到广泛验证[27-29] O
+
+# （2）滑动平均法[30]
+
+为了描述气温和降水的长期变化趋势，利用一元线性回归建立其线性关系，描述其线性趋势，用确定时间序列的5a滑动平均值来显示变化趋势。
+
+# （3）累积距平法[31-32]
+
+通过累积距平曲线直观地判断变化趋势，曲线起伏的变化情况可以判断较长时间的演变趋势，并且能诊断出突变发生的大概时间。
+
+# （4）气候倾向率[33]
+
+采用气候倾向率描述气候要素变化趋势及幅度，线性回归系数的10倍(即10a)作为气候倾向率
+
+# (5）标准化降水指数(SPI)
+
+SPI对干旱变化反映敏感，具有计算简便、多时间尺度和多空间比较及资料来源方便等优点，是目前应用最广泛的气象干旱指标之一，其计算原理参见McKee等[34]的文献,计算程序由美国林肯内布拉斯加大学国家干旱减灾中心网站提供(https://drought.unl.edu/droughtmonitoring/SPI/SPIProgram.aspx）,其干旱等级划分标准[34]也来源于该网站(表1)。
+
+本文计算了3个月（ $\mathrm { \ S P I _ { 3 } }$ 0和12个月（ $\mathrm { \ S P I _ { 1 2 } }$ 尺度的SPI值，分别表示季度和年际的干旱变化情况。不同时间尺度的SPI对干旱情况的表征效果不同，$\mathrm { S P I } _ { 3 }$ 考虑了前期3个月内的降水盈亏， $\mathrm { \ S P I } _ { 1 2 }$ 对短期降水响应减缓，周期特征逐渐显现，可以反映长期的旱涝变化特征。干旱强度用于描述干旱的严重程度，单站某时段内的干旱强度一般可直接由SPI直接反映[7]。
+
+表1干旱等级划分标准  
+Tab.1 Classification criteria of drought grade   
+
+<html><body><table><tr><td>标准化降水指数(SPI)</td><td>旱涝等级</td></tr><tr><td>-0.5<SPI≤0.5</td><td>正常</td></tr><tr><td>-1.0<SPI≤-0.5</td><td>轻微干旱</td></tr><tr><td>-1.5<SPI≤-1.0</td><td>中等干旱</td></tr><tr><td>-2.0<SPI≤-1.5</td><td>严重干旱</td></tr><tr><td>SPI≤-2.0</td><td>极端干旱</td></tr></table></body></html>
+
+# 2结果与分析
+
+# 2.1中国西北地区气温和降水量时间变化特征
+
+2.1.1 年平均变化特征由1961—2019年中国西北地区平均气温和降水量变化曲线(图 $2 \mathrm { a } { \sim } \mathrm { b }$ )可见，该地区的变暖特征与前人的研究结果[6.10.36-37]一致,平均气温为 $7 . 2 1 ~ \mathrm { ^ { \circ } C }$ ,整体呈波动上升趋势 $\stackrel { - } { P } \ll 0 . 0 1$ ，$0 . 3 4 ~ \mathrm { ^ { \circ } C } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 } \mathrm { ] }$ 。自1980s气温呈升高趋势，并在1990s后期发生阶跃变化，特别是1997年后，平均气温由 $6 . 7 3 \ \mathrm { ^ { \circ } C }$ 上升到 $7 . 9 7 ~ \mathrm { \textdegree C }$ （图2a）。可以注意到，1997年之前的降水量以 $3 . 9 9 ~ \mathrm { m m } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ 的速度减少，1997年后降水量以 $3 . 5 5 ~ \mathrm { m m \cdot ( 1 0 a ) ^ { - 1 } }$ 的速度迅速增加(图2b)。中国西北地区在1997年之前表现出明显的变暖和变干，以及后来明显的变暖和变湿，这意味着1997年左右是中国西北地区气候从暖干至暖湿的转折点(图2d\~e)。
+
+单独的气温或降水量因子难以全面描述气候的干湿状况，因此选用SPI以表征气象干旱。由$\mathrm { S P I } _ { 1 2 }$ 的变化趋势(图2c)可知，降水量与 $\mathrm { S P I } _ { 1 2 }$ 的拟合曲线在横轴附近走向一致，呈增长趋势但并不显著，说明该地区干旱状况稍有缓和。1997年前后降水量呈增加趋势， $\mathrm { S P I } _ { 1 2 }$ 也呈现出增加趋势，说明降水量的增加不足以补偿气温升高而带来的潜在蒸发，气候甚至变得更为干燥，这表明中国西北地区气候的干湿状况主要受降水量的影响。在使用其他指标的研究中也存在类似的特征。例如，SPEI分析表明中国十旱区变湿，尤其是在新疆塔里木河流域[38]。Liu等[39]使用干旱指数(潜在蒸发与降水量比值)研究表明，在1960—2010年，中国西北干旱地区干旱指数显著减小。
+
+注： $\mathrm { S P I } _ { 1 2 }$ 表示12个月尺度的SPI值。下同。
+
+![](images/ed57c09948d4e3e02867c2549e018de7dd537ec31f39b859820d01bbb8a41224.jpg)  
+图21960—2019年中国西北地区气温、降水量和 $\mathrm { S P I } _ { 1 2 }$ 的变化曲线以及累积距平变化  
+Fig.2Variation curves of temperature, precipitation, $\mathrm { S P I } _ { 1 2 }$ and cumulative anomalies in northwest China from 196O to 2019
+
+然而，平均气温的阶跃点与气候干湿转型的时间是一致的，因此，推测这种转型主要与气温和降水量有关。中国西北地区大部分为干旱半干旱气候，降水量相对较少。1997年以前，降水起主导作用，气温升高伴随着降水量减少，导致气候变得温暖干燥。1997年以后，由于前期持续升温，使得气温更占优势，降水量的增加伴随着气温的升高，使得气候逐渐变得温暖湿润。但由于中国西北地区东西跨度大，区域内气候差异显著，因此还需要分年代、分区域进行讨论。
+
+2.1.2季节变化特征气温距平的季节变化均呈现上升趋势(图3)，其中冬季增温幅度最大 $[ 0 . 4 2 ^ { \circ } \mathrm { C }$ ·$( 1 0 \mathrm { a } ) ^ { - 1 } , P { < } 0 . 0 1 \ ]$ ,春季次之 $\left[ 0 . 3 8 ~ \mathrm { ^ { q } C \cdot ( 1 0 a ) ^ { - 1 } } \right]$ ，秋季为$0 . 2 9 ~ \mathrm { ^ { \circ } C \cdot ( 1 0 a ) ^ { - 1 } }$ ,夏季增温幅度最小 $\left[ 0 . 2 4 \mathrm { ~ } ^ { \circ } \mathrm { C } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 } \right] .$ 车因此，冬季年平均气温的贡献率最大，从1997年开始四季的平均气温均开始显著增加，这与中国西北地区年平均气温的变化趋势一致。
+
+由降水量距平的季节变化(图4)可知，夏季增加幅度最大 $\left[ 1 . 7 3 \mathrm { \ m m } \cdot \left( 1 0 \mathrm { a } \right) ^ { - 1 } \right.$ $P { < } 0 . 0 1 ]$ ,上升趋势显著，冬季次之 $\left[ 0 . 8 8 \mathrm { m m } \cdot \left( 1 0 \mathrm { a } \right) ^ { - 1 } \right]$ 。夏季降水量（占年降水量的 $5 4 \%$ )是年降水量变化的重要因素，春、秋、冬季的降水量占比分别为 $1 9 \%$ 、 $2 4 \%$ 和 $3 \%$ 。1997年后季节降水量多呈增加趋势，特别是自2000—2019年20a的冬季降水距平中有16a为正值，降水量增加趋势显著。
+
+由干旱强度( $\mathrm { S P I } _ { 3 }$ 距平)季节变化(图5)可知，春季SPI距平呈增加趋势，干旱强度减弱，共7a发生干旱,干旱频率为 $1 1 . 7 \%$ ；夏季 $\mathrm { S P I } _ { 3 }$ 距平呈增加趋势，干旱强度减弱，共6a发生干旱，干旱频率为$1 0 . 0 \%$ ；秋季 $\mathrm { S P I } _ { 3 }$ 距平呈微弱的增加趋势，共8a发生干旱，干旱频率为 $1 3 . 3 \%$ ;冬季SPI距平呈显著增加趋势，变化率为 $0 . 1 3 \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ ,共7a发生干旱,干旱频率为 $1 1 . 7 \%$ 。整体来看，中国西北地区干旱的季节变化表现为：秋季干旱较为严重，冬季干旱有减弱的趋势
+
+# 2.2中国西北地区气温和降水量空间变化特征
+
+2.2.1 年平均变化特征由1960—2019年中国西北地区年平均气温、降水量和SPI倾向率的空间分布(图6)可知，气温倾向率多为正值(图6a)，显著变化区多分布在研究区西部，东部升温趋势较弱、变化较均匀。新疆北部升温趋势显著，阿勒泰地区增幅最大 $\left[ 0 . 6 { \sim } 0 . 7 ~ \mathrm { { } ^ { q } C } { \cdot } ( 1 0 \mathrm { { a } ) } ^ { - 1 } \right]$ ，其次为柴达木盆地南侧和吐鲁番盆地，天山南侧地区增幅最小[ $< 0 . 1 \mathrm { ~ \textdegree C }$ ·$( 1 0 \mathrm { a } ) ^ { - 1 } \ ]$ 。中国西北地区东部升温趋势较为均匀，增幅较明显的区域集中在东部偏北地区；东部偏南地区升温趋势减弱 $\left[ < 0 . 1 \mathrm { \ : } \mathrm { } ^ { \circ } \mathrm { C } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 } \right]$ ，青海湖和秦岭附近较为明显。
+
+降水量倾向率呈现自东南向西北递增的趋势（图6b），研究区西部降水量增加显著[1.18\~23.02$\mathrm { m } \mathrm { m } \cdot \left( 1 0 \mathrm { a } \right) ^ { - 1 } \mathrm { ] }$ ,增幅最大的是新疆北部和青海东、西部地区；而研究区东部降水量总体呈减少趋势$\left[ - 0 . 2 3 { \sim } - 3 3 . 7 8 \mathrm { m m } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 } \right]$ ,呈显著减少趋势的是甘肃黄河以东地区和陕西南部秦岭以南部分地区，可以发现呈减少趋势的站点多集中在 $4 0 0 \ \mathrm { m m }$ 等降水量线东南一侧。
+
+$\mathrm { S P I } _ { 1 2 }$ 倾向率与降水量倾向率变化的空间分布较一致(图6c),SPI倾向率在 $- 0 . 2 1 \cdot ( 1 0 \mathrm { a } ) ^ { - 1 } { \sim } 0 . 3 1 \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$
+
+![](images/9d8103adf0567931eb6038b5cb4ca157a75c080c209c7bd4250ff75f33686bb5.jpg)  
+Fig.3Seasonal variations of temperature anomaly in northwest China from l96O to 2019
+
+![](images/837180b6225fd38ef9652781a6fb73dff339522dd2aca1f9f3363645233b611d.jpg)  
+图31960—2019年中国西北地区气温距平季节变化  
+图41960—2019年中国西北地区降水量距平季节变化  
+Fig.4 Seasonal variations of precipitation anomaly in northwest China from 196O to 2019
+
+![](images/6abedb7eaaf3982250bf028354f0a7f37aef98e687fdc14d7e2aa52f38c2d061.jpg)  
+干辛区地理  
+注： $\mathrm { S P I } _ { 3 }$ 表示3个月尺度的SPI值。  
+图51960—2019年中国西北地区干旱强度(SPI距平)季节变化
+
+![](images/7556588849c4b788b2b1e39aa5b64fce23a125648448d59dc2d105fbddadb50a.jpg)  
+Fig.5Seasonal variations of drought intensity ( $\mathrm { \ S P I _ { 3 } }$ anomaly) in northwest China from 1960 to 2019   
+图61960—2019年中国西北地区气温、降水量和 $\mathrm { S P I } _ { 1 2 }$ 倾向率的空间分布
+
+Fig.6Spatial distributions of temperature,precipitation,and $\mathrm { S P I } _ { 1 2 }$ propensity rate in northwest China from 1960 to 2019之间，以 $4 0 0 ~ \mathrm { m m }$ 等降水量线为界，其东南侧的SPI倾向率多呈减小趋势，包括甘肃东南部和陕西大部分地区，研究区西部SPI倾向率多呈显著增加趋势。在使用其他指标的研究中也存在类似的空间特征，帕尔默干旱指数(PDSI)计算结果表明，干旱区域面积在中国西北地区东部呈现增加趋势，在西部呈现减少趋势[40]。陈亚宁等[41]研究发现中国西北地区十湿变化区域特征明显，变湿区域主要集中在新疆地区，而在河西走廊东部的季风边缘区呈现变干趋势。
+
+2.2.2不同时期变化特征本文将1960—2019年60a分为4个气候期，分别描述1961一1990年、1971—2000 年、1981—2010年和1991—2019 年气温倾向率的空间分布特征(图7)。前3个气候期,气温增加的站点分别占 $8 6 . 1 \%$ ） $9 7 . 5 \%$ 和 $9 8 . 4 \%$ ,并且增温幅度逐渐变大。而第4气候期增温强度弱于第3气候期,增温站点占 $9 6 . 7 \%$ 。因此，气温变化总体呈上升趋势，且在第3气候期(1981—2010年)气温呈增温趋势的站点占比最多。
+
+由4个气候期降水量倾向率的空间分布(图8)可见，前3个气候期降水量变化均呈减少趋势，仅在局部有小范围增加，降水量增加的站点分别占$5 8 . 2 \%$ ） $4 9 . 2 \%$ 和 $5 9 . 8 \%$ ，特别是第1气候期（1961一1990年)降水量的增加意义重大，第2气候期(1971—2000年）的增长相对较弱，第3气候期(1981一2010年)转变为显著的增加趋势，这一转变表现出明显的增湿趋势，而在第4气候期(1991一2019年），降水量持续增加， $8 8 . 5 \%$ 的站点呈增加趋势。由此得出，前3个气候期气温增加而降水量减少，呈现出暖干的趋势;而在第4气候期气温增加趋势减弱，降水量则呈持续增加趋势，呈现出暖湿的趋势。
+
+# 2.3中国西北地区气候转型分析
+
+2.3.1气候转型时间以上分析得出，1960—2019年中国西北地区年平均气温增速达到 $0 . 3 4 ^ { \circ } \mathrm { C } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ 平均气温的阶跃点出现在1997年（图 $2 \mathrm { a }$ )，对比中国西北地区东部、西部在不同时期的气温变化，可以发现西部的增加速率较大，在1997年之后增温速率减缓，而东部地区虽然增温速率较小，但在1997年后呈现持续增加的趋势（图 $9 \mathrm { a }$ )。西部年降水量在1997年前 $\left[ 3 . 5 9 \mathrm { \ m m } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 } \right] ^ { - }$ 、后 $\left[ 2 0 . 7 2 \mathrm { \ m m } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 } \right]$ 均呈持续增加的趋势(图9)，东部年降水量在1997年之前呈减少趋势 $\left[ - 6 . 9 8 \mathrm { m m } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 } \right]$ ,但在1997年后发生了明显的转变，增加趋势显著 $. 4 3 . 3 5 ~ \mathrm { m m } \cdot$ $( 1 0 \mathrm { a } ) ^ { - 1 } \underline$ 并且大大超过了同时期西部地区的增加速率。综合来看，1997年以来中国西北地区降水量迅速增多，且与年平均气温变化趋势一致，这与董思言等[提出的随着气温的升高，降水量将会增加的结论一致,表明平均气温和降水量变化之间存在一定的相关性。
+
+![](images/a6c2aa7639752250741813a6b20f868c53901fd285020644d17311256e47fa2d.jpg)  
+图7不同气候期气温倾向率的空间分布  
+Fig.7Spatial distributions of temperature propensity rate in different climatic periods
+
+![](images/200e3b96f417a1ec13b768707f58098b992413c5483d837645ef4eb2450f4f33.jpg)  
+图8不同气候期降水量倾向率的空间分布  
+Fig.8Spatial distributions of precipitation propensity rate in different climatic periods
+
+气温持续上升和降水量多年来连续增加，致使径流量和冰川融水量均有所增加，水热平衡进一步发生变化，造成了植被状况改善[42]、部分地区湖泊面积扩张[43]和沙漠面积缩小[44]等事实。有相关媒体报道，在过去的30多年里，中国西北地区气候显著变暖，同时降水量增大。这种变化致使许多河流出山口径流量增加、大部分地区地下水水位上升，一些原本较干旱的地方甚至出现洪涝灾害。施雅风等5认为这样的气候变化事实如在一个时期（如
+
+10a以上)稳定出现，则称之为向暖湿转型。综上，基于气温上升和降水量连续多年增加，中国西北地区气候逐渐向暖湿转型，且在1997年后转型事实明显。2.3.2气候转型地区为了系统分析中国西北地区年平均气温和降水量在不同时段特别是1997年以后的变化特征，分析了年平均气温和降水量在1960—1996年和1997—2019年2个时期差值的空间分布情况(图10)。1997年以后各站点的平均气温均有增加，天山南北两侧、青海中东部、内蒙古中部以及甘肃陇东地区气温增幅较大(图10a)，甘肃河东部分地区和宁夏部分地区降水量为负，其余地区为正(图10b)，增幅较大的是新疆西南部、天山南北两侧、青海中部和东部、陕西南部以及甘肃陇东地区。与1960—1996年相比，1997年后所有站点气温均出现了不同程度的增加，且有 $7 2 . 0 \%$ 的站点气温增幅达到 $1 \mathrm { { ^ { c } } }$ 以上，而 $5 2 . 0 \%$ 的站点降水量增加了 $0 { \sim } 3 0 ~ \mathrm { m m }$ $2 4 . 0 \%$ 的站点降水量增加了 $3 0 ~ \mathrm { m m }$ 以上， $2 4 . 0 \%$ 的站点降水量出现了不同程度的减少。
+
+研究区气候变化空间差异大，转型程度各不相同。根据气温和降水量的增量变化程度将气候转型分为3类[5],气温和降水量均呈显著增加(增量达$6 0 \%$ 以上)的区域划分为显著转型区，变化量呈轻微增加(增量达 $3 0 \%$ 以上)的区域划分为轻度转型区，变化量未增加或者减少区域的划分为未转型区。对比图10a和图10b发现，新疆北部、天山及其两侧地带、塔里木盆地西侧、青海东部和南部、柴达木盆地东南侧以及甘肃陇东地区和内蒙古中部地区均为气候转型显著区域，其气温和降水量年变化量较为显著。新疆东部、塔里木盆地以南部分地区、祁连山中西段地区、青海西北部以及陕西东部地区气温和降水量增加不明显，为轻度转型区。另外，甘肃河东地区(陇东地区除外）、宁夏西部地区气温增幅较大，但降水量呈减少趋势，为未转型区。对比施雅风等5对中国西北地区气候转型范围的划分，甘肃陇东地区、青海南部、陕西大部分以及内蒙古中部地区由原来的未转型区域转变为显著转型区，青海东、西部地区由原来轻度转型区转变为显著转型区，而祁连山中西段地区由之前的显著转型区转变为轻度转型区。
+
+![](images/4cb0247253696b017dd5c074ef96be67c13fc76233c945fc4beb37773f95f485.jpg)  
+图91960—2019年中国西北地区东部、西部气温和降水量距平变化  
+Fig.9 Variations of temperature and precipitation anomalies in the east and westof northwest China from 1960 to 201
+
+# 3讨论
+
+近20a中国西北地区开始出现"增温增湿"的现象，而“增湿"现象本质上是基于降水量的增加。中国西北地区西部的降水量呈持续增加的趋势，并且自21世纪初，中国西北东部地区同样出现了降水量增加的现象，印证了马鹏里等[14]和马柱国等[45]的研究结果。先前施雅风等3和汤懋苍等的研究均支持中国西北地区的气候转型正在发生的结论，结合本文研究，1997—2019年中国西北地区气温均呈增加趋势，且 $7 6 . 0 \%$ 的站点降水量呈增加趋势，其中东部降水量增速甚至超过了同时期的西部，这些转型的事实均表明了中国西北地区气候尤其是中国西北地区东部已经开始转型，且转型事实显著。
+
+值得注意的是，中国西北地区的干旱状况得到一部分缓解。季节性上，气温和降水的变化存在一定的不对称性，具体表现在冬季增温明显，夏季增湿明显。夏季增温的程度对蒸发强度的影响不大，但更多的降水可以在一定程度上缓解干旱，也可能对生态系统产生一些积极作用。应强调的是，目前中国西北地区降水量增加约 $1 0 \mathrm { m m } \cdot \left( 1 0 \mathrm { a } \right) ^ { - 1 } ,$ 30a累积增加不超过 $3 0 ~ \mathrm { m m }$ ，不应过分夸大降水量的增加趋势对气候状态的改变程度，中国西北地区干旱和半干旱的气候模式没有改变，降水量的增加不能从根本上改变中国西北地区的干旱气候条件。
+
+![](images/65ec95f36cfb65927adc39c580dfe18354d41276dac2f3d25ebad9ae7a0cda23.jpg)  
+图101997年前后中国西北地区气温和降水量空间差异变化及转型范围和程度划分 Fig.10 Spatial variations of temperature and precipitation in northwest China around 1997 and division of transformation scope and degree
+
+本文对中国西北干旱特征的分析是基于降水量变化和SPI所得出的结论，属于气象干旱的范畴，然而干湿的本质是地表水分收支的盈亏，因此降水和十旱指数还不能从地表水分收支角度表征十湿的特征[46]。此外，中国西北地区气候"变暖变湿"趋势的未来预测也是一个有待研究的重要问题，增温和增湿的不对称性以及季节性不对称性的影响也需要进一步研究。
+
+# 4结论
+
+本研究利用中国西北地区1960—2019年平均气温和降水量资料，通过分析其时间和空间变化格局，进一步研究气候转型的特征，得出以下结论：
+
+（1）1960—2019年中国西北地区平均气温呈显著上升趋势( $\scriptstyle { \overbrace { P { < } 0 . 0 1 } }$ )，1997年存在阶跃点，冬季增幅最大( $\scriptstyle { \mathcal { P } } < 0 . 0 1$ );阿勒泰地区 $\left[ 0 . 6 { \sim } 0 . 7 ~ \mathrm { { } ^ { q } C ^ { . } ( 1 0 a ) ^ { - 1 } } \right]$ 增幅最大,天山山脉南侧附近增幅最小 $\left[ < 0 . 1 \mathrm { \ : } \mathrm { } ^ { \circ } \mathrm { C } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 } \right]$ 显著升、降温区域多出现在边缘地带，且纬度越高升温趋势越明显。
+
+(2）1960—2019年中国西北地区年降水量呈增加趋势，阶跃点发生在1997年， $7 6 . 0 \%$ 的站点降水量出现了不同程度的增加，且夏季增幅最大( $\scriptstyle P <$ 0.01)。在空间上由东南向西北方向递增，其中东部降水量的增加速率超过了同时期的西部，增幅最大的地区在新疆北部和青海的西部、东部地区。
+
+(3） $\mathrm { S P I } _ { 1 2 }$ 呈增加趋势，1997年开始显著增加，干旱强度逐渐减弱。SPI反映出季节干旱强度逐年减弱，秋季干旱较严重，可能与秋季降水量减少有关，而冬季干旱的减轻可能与升温较快和降水量增速较快有关(仅次于夏季)，水热平衡变化导致冬季干旱状况有所缓解。
+
+(4）1960s以来，中国西北地区气温持续上升，平均气温在1990s末发生突变。1997年前后，中国西北地区分别出现了显著的暖干和暖湿趋势，这表明在后期，中国西北地区气候开始从暖干向暖湿过渡。甘肃陇东地区、青海南部、陕西大部分以及内蒙古中部地区由原来的未转型区转变为显著转型区，青海东、西部地区由原来轻度转型区转变为显著转型区，而祁连山中西段地区由之前的显著转型区转变为轻度转型区，中国西北地区的气候正经历着转折性的变化。
+
+# 参考文献(References)
+
+[1]邬光剑,潘保田,管清玉,等.中更新世气候转型与 $1 0 0 \mathrm { k a }$ 周期 研究[J].地球科学进展,2002,17(4):605-611.[Wu Guangjian, Pan Baotian,Guan Qingyu,et al.Review of studies on the MidPleistocene climatic transition and the $1 0 0 ~ \mathrm { { k a } }$ cycle[J].Advance in Earth Sciences,2002,17(4): 605-611.]   
+[2]汤懋苍,高晓清,朱德琴.本世纪西北气候可能转型的依据和原 因分析[J].冰川冻土,2003,25(2):170-173.[Tang Maocang,Gao Xiaoqing, Zhu Deqin. The evidences and the causes for the shift of climate pattern in northwest China during this century[J]. Journal of Glaciology and Geocryology,2003,25(2): 170-173.]   
+[3]施雅风,沈永平,胡汝骥.西北气候由暖干向暖湿转型的信号、 影响和前景初步探讨[J].冰川冻土,2002,24(2):219-226.[Shi Yafeng,Shen Yongping,Hu Ruji. Preliminary study on signal, impact and foreground of climatic shift from warm-dry to warm-humid in northwest China[J]. Journal of Glaciology and Geocryology, 2002,24(2): 219-226.]   
+[4]张强,胡隐樵,曹晓彦,等.论西北干旱气候的若干问题[J].中国 沙漠,2000,20(4):13-18.[Zhang Qiang,Hu Yinqiao,Cao Xiaoyan,et al.On some problems of arid climate system of northwest China[J]. Journal of Desert Research,2000,20(4): 13-18.]   
+[5]施雅风,沈永平,李栋梁.中国西北气候由暖干向暖湿转型的特 征和趋势探讨[J].第四纪研究,2003,23(2):152-164.[Shi Yafeng, Shen Yongping,Li Dongliang. Discussion on the present climate change from warm-dry to warm-wet in northwest China[J]. Quaternary Sciences,2003,23(2): 152-164.]   
+[6]李明,孙洪泉,苏志诚.中国西北气候干湿变化研究进展[J].地 理研究,2021,40(4):1180-1194.[Li Ming, Sun Hongquan, Su Zhicheng.Research progress in dry/wet climate variation in northwest China[J]. Geographical Research,2021,40(4): 1180-1194.]   
+[7]黄晚华,杨晓光,李茂松.基于标准化降水指数的中国南方季节 性干旱近58a演变特征[J].农业工程学报,2010,26(7):50-59. [Huang Wanhua, Yang Xiaoguang, Li Maosong. Evolution characteristics of seasonal drought in the south of China during the past   
+58 years based on standardized precipitation index[J]. Transactions of the Chinese Society of Agricultural Engineering,2010,26 (7): 50-59.] [8]董思言,高学杰.长期气候变化:IPCC第五次评估报告解读[J]. 气候变化研究进展,2014,10(1):56-59.[Dong Siyan,Gao Xuejie.Long-term climate change: Interpretation of IPCC fifth assessment report[J]. Climate Change Research,2014,10(1): 56-59.] [9]李栋梁,魏丽,蔡英,等.中国西北现代气候变化事实与未来趋 势展望[J].冰川冻土,2003,25(2):135-142.[Li Dongliang,Wei Li,Cai Ying,et al. The present facts and the future tendency of theclimate changeinnorthwestChina[J]. Journalof Glaciology and Geocryology,2003,25(2): 135-142.] [10]马柱国,符淙斌.中国北方干旱区地表湿润状况的趋势分析[J]. 气象学报,2001,59(6):737-746.[Ma Zhuguo,Fu Congbin. Trend of surface humid index in the arid area of northern China[J].Acta Meteorologica Sinica,2001,59(6): 737-746.] [11] 符淙斌,马柱国.全球变化与区域干旱化[J].大气科学,2008,32 (4): 752-760.[Fu Congbin,Ma Zhuguo.Global change and regional aridification[J]. Chinese Journal of Atmospheric Sciences,2008,   
+32(4): 752-760.] [12] 张强,张存杰,白虎志,等.西北地区气候变化新动态及对干旱 环境的影响:总体暖干化,局部出现暖湿迹象[JJ.干旱气象,   
+2010,28(1):1-7.[Zhang Qiang, Zhang Cunjie,Bai Huzhi,et al. New development of climate change in northwest China and its impaction arid environment[J]. Journal of Arid Meteorology,2010,28 (1): 1-7.] [13] 赵传成,王雁,丁永建,等.西北地区近50年气温及降水的时空 变化[J].高原气象,2011,30(2):385-390.[Zhao Chuancheng, Wang Yan,Ding Yongjian, et al. Spatial-temporal variations of temperature and precipitation in northern China in recent 5O years[J]. Plateau Meteorolgy,201,30(2):90] [14] 马鹏里,杨金虎,卢国阳,等.西北地区东部气候的转折性变化 [J].高原气象,2020,39(4): 840-850.[Ma Pengli, Yang Jinhu,Lu Guoyang,et al. The transitional change of climate in the east of northwest China[J].Plateau Meteorology,2020,39(4): 840-850.] [15] 姚俊强,杨青,毛炜峰,等.西北干旱区大气水分循环要素变化 研究进展[J].干旱区研究,2018,35(2):269-276.[Yao Junqiang, Yang Qing,Mao Weiyi, et al.Progress of study on variation of atmospheric water cycle factors over arid region in northwest China [J]. Arid Zone Research,2018,35(2): 269-276.] [16]Yang H,Xu J,Chen Y,et al.Has the Bosten Lake Basin been dry or wet during the climate transition in northwest China in the past   
+30 years[J]. Theoretical and Applied Climatology，2020,141(3):   
+627-644. [17] 郭慧,李栋梁,林纾,等.近50多年来我国西部地区降水的时空 变化特征[J].冰川冻土,2013,35(5):1165-1175.[Guo Hui,Li Dongliang,Lin Shu,et al. Temporal and variation of precipitation over western China during 1954—2006[J]. Journal of Glaciology and Geocryology,2013,35(5): 1165-1175.] [18] 俞亚勋,王劲松,李青燕.西北地区空中水汽时空分布及变化趋
+
+# 干吴区地理
+
+势分析[J].冰川冻土,2003,25(2):149-156.[Yu Yaxun,Wang Jinsong,Li Qingyan.Spatial and temporal distribution of water vapor and its variation trend in atmosphere over northwest China[J]. Journal of Glaciology and Geocryology,2003,25(2): 149-156.]   
+[19] Chen Y N, Deng HJ,LiBF,et al.Abrupt change of temperature and precipitation extremes in the arid region of northwest China [J]. Quaternary International,2014,336(26): 35-43.   
+[20]Li BF,Chen Y N,Shi X,et al. Temperature and precipitation changes in different environments in the arid region of northwest China[J].Theoreticaland Applied Climatology,2013,112(3): 589-596.   
+[21]Yao JQ, Zhao Y, Yu X J. Spatial-temporal variation and impacts of drought in Xinjiang (northwest China) during 1961—2015[J]. PeerJ,2018,6(2):e4926,doi:1.7/j.   
+[22] Yao J Q, Zhao Y,Chen Y N,et al. Multi-scale assessments of droughts: A case study in Xinjiang,China[J]. Science of the Total Environment, 2018,630: 444-452.   
+[23] 姚俊强,毛炜峰,陈静,等.新疆气候"湿干转折"的信号和影响 探讨[J].地理学报,2021,76(1):57-72.[Yao Junqiang,Mao Weiyi,Chen Jing,et al. Signal and impact of wet-to-dry shift over Xinjiang, China[J]. Acta Geographica Sinica,2021,76(1): 57-72.]   
+[24] 陈冬冬,戴永久.近五十年我国西北地区降水强度变化特征[J]. 大气科学,2009,33(5): 923-935.[Chen Dongdong,Dai Yongjiu. Characteristics of northwest China rainfall intensity in recent 50 years[J]. Chinese Journal of Atmospheric Sciences,2009,33(5): 923-935.]   
+[25]Wang XL,Wen QH,Wu Y.Penalized maximal $t$ test for detecting undocumented mean change in climate data series[J]. Journal of Applied Meteorology & Climatology,2007,46(6): 916-931.   
+[26] Zhang X,Aguilar E,Sensoy S,et al. Trends in Middle East climate extreme indices from 1950 to 2003[J]. Journal of Geophysical Research Atmospheres,2005,110(D22): 3159-3172.   
+[27]张高杰,何金海,周自江,等.RHtest方法对我国降水资料的均 一性检验试验[J].气象科技,2012,40(6):914-921.[Zhang Gaojie,He Jinhai, Zhou Zijiang,et al.Homogeneity study of precipitation date over China using RHtest method[J]. Meteorological Science and Technology,2012,40(6): 914-921.]   
+[28] 张高杰,曹丽娟,李亚丽.均一性对西北五省气温变化特征影响 分析[J].农业灾害研究,2013,3(2-3):27-32.[Zhang Gaojie,Cao Lijuan,Li Yali.Analysis of homogeneity impact on thecharacteristic of the temperature variation in the five provinces of the northwest China[J]. Journal of Agricultural Catastrophology,2013,3(2- 3): 27-32.]   
+[29] 冯克鹏,田军仓,沈晖.基于K-means聚类分区的西北地区近半 个世纪气温变化特征分析[J].干旱区地理,2019,42(6):1239- 1252.[Fen Kepeng, Tian Juncang, Shen Hui. Temperature variation characteristics of northwest China based on K-means clustering partition in the past half century[J].Arid Land Geography, 2019,42(6): 1239-1252.]   
+[30] 徐建华.现代地理学中的数学方法[M].第二版.北京:高等教育 出版社,2006:60-61,414-417.[Xu Jianhua.Mathematical methods in modern geography[M]. $2 ^ { \mathrm { n d } }$ ed.Beijing:Higher Education Press,2006: 60-61,414-417.]   
+[31] 魏凤英.现代气候统计诊断与预测技术[M].第二版.北京:气象 出版社,20O7.[Wei Fengying.Diagnostic and prediction techniques of modern climate statistics[M]. $2 ^ { \mathrm { n d } }$ ed.Beijing: Meteorological Press, 2007.]   
+[32] 张应华,宋献方.水文气象序列趋势分析与变异诊断的方法及 其对比[J].干旱区地理,2015,38(4):652-665.[Zhang Yinghua, Song Xianfang. Techniques of abrupt change detection and trends analysis in hydroclimatic time-series:Advances and evaluation[J]. Arid Land Geography, 2015,38(4): 652-665.]   
+[33] 施能,陈家其,屠其璞.中国近100年来4个年代际的气候变化 特征[J].气象学报,1995(4):431-439.[Shi Neng,Chen Jiaqi,Tu Qipu. 4-phase climate change features in the last lOO years over China[J].Acta Meteorologica Sinica,1995(4): 431-439.]   
+[34] McKee TB,Doesken N J, Kleist J. The relationshipof drought frequency and duration to time scales[J]. Eighth Conference on Applied Climatology,1993,17(22): 179-183.   
+[35] Guttman N B.Accepting the standardized precipitation index: A calculation algorithm[J]. Journal of the American Water Resources Association,1999,35(2): 311-322.   
+[36]王劲松,费晓玲,魏锋.中国西北近50a来气温变化特征的进一 步研究[J].中国沙漠,2008,28(4):724-732.[Wang Jinsong,Fei Xiaoling, Wei Feng.Further study of temperature change in northwest China in recent 5O years[J]. Journal of Desert Research, 2008,28(4): 724-732.]   
+[37] 张雪芹,孙杨,毛炜峰,等.中国干旱区气温变化对全球变暖的 区域响应[J].干旱区研究,2010,27(4):592-599.[Zhang Xueqin, Sun Yang,Mao Weiyi, et al.Regional response of temperature change in the arid regionsof China to global warming[J].Arid Zone Research, 2010,27(4): 592-599.]   
+[38]Wang HJ, Chen YN,Pan YP.Characteristics of drought in the arid region of northwestern China[J]. Climate Research, 2O15,62(2): 99-113.   
+[39] Liu X M, Zhang D, Luo Y Z, et al. Spatial and temporal changes in aridity index in northwest China:196O to 2O1O[J]. Theoretical and Applied Climatology,2013,112(1-2): 307-316.   
+[40] Zou X K, Zhai P M,Qiang Z. Variations in droughts over China: 1951——2003[J]. Geophysical Research Letters,2005,32(4): 353- 368.   
+[41] 陈亚宁,王怀军,王志成,等.西北干旱区极端气候水文事件特 征分析[J]. 干旱区地理,2017,40(1):1-9.[Chen Yaning,Wang Huaijun,Wang Zhicheng,et al. Characteristics of extreme climatic/hydrological events in the arid region of northwestern China[J]. Arid Land Geography,2017,40(1): 1-9.]   
+[42] 张华,徐存刚,王浩.2001—2018年西北地区植被变化对气象 干旱的响应[J].地理科学,2020,40(6):1029-1038.[Zhang Hua, Xu Cungang,Wang Hao.Response of vegetation change to meteorological drought in northwest China from 2001 to 2018[J]. Scientia Geographica Sinica,2020,40(6): 1029-1038.]
+
+[43] 李晓锋,姚晓军,孙美平,等.2000—2014年我国西北地区湖泊面积的时空变化[J].生态学报,2018,38(1):96-104.[Li Xiaofeng,Yao Xiaojun, Sun Meiping,et al. Spatial- temporal variations inlakes in northwest China from 2OOO to 2O14[J].Acta Ecologica Si-nica,2018,38(1): 96-104.]
+
+[44] 常茜,鹿化煜,吕娜娜,等.1992—2015年中国沙漠面积变化的 遥感监测与气候影响分析[J].中国沙漠，2020,40(1):57-63. [Chang Xi, Lu Huayu,Lui Nana,et al.Variation of desert and sandy field in China on the basis of remote sensing analysis and the relationship with climate change during 1992—2O15[J]. Journal of Desert Research,2020,40(1): 57-63.]
+
+[45]马柱国,符淙斌,杨庆,等.关于我国北方干旱化及其转折性变 化[J].大气科学,2018,42(4):951-961.[Ma Zhuguo,Fu Congbin, YangQing,etal.Drying trend in northern China and its shift during 1951—2016[J]. Chinese Journal of Atmospheric Sciences, 2018, 42(4): 951-961.]
+
+[46] 赵俊芳,郭建平,徐精文,等.基于湿润指数的中国干湿状况变 化趋势[J].农业工程学报,2010,26(8):18-24,386-387.[Zhao Junfang,Guo Jianping,Xu Jingwen,et al. Trends of Chinese drywet condition based on wetness index[J].Transactions of the Chinese Society of Agricultural Engineering,2010, 26(8):18-24,386- 387.]
+
+# New insights into climate transition in northwest China
+
+YAO Xuyang1²， ZHANG Mingjun1²,ZHANG $\mathrm { Y u } ^ { 1 , 2 }$ ，WANG Jiaxin1², XIAO Hanyu12 (1.College ofGeographyandEnvironmentalScience,NorthwestNormalUniversityLanzhou73ooo,Gansu,China;2.Key LaboratoryofResource Environmentand SustainableDevelopment ofOasis,GansuProvince,Lanzhou73Ooo,Gansu,China)
+
+Abstract: In recent years,the issue of climate change in northwest China has aroused widespread concern from many walks oflife. Shi Yafeng proposed in 2O02 that the climate in northwest China may be changing from warm and dry to warm and wet. Since then,scholars have gradually paid more attention to the phenomenon of“warmer and wetter” in the northwest climate. From the beginning of the $2 1 ^ { \mathrm { s t } }$ century, a trend of increasing temperatures has become more pronounced,and changes in precipitation have diverged from the predictions of previous studies.Against this background, what recent changes have taken place in temperature and precipitation in northwest China? In particular, has the climate undergone a dry-wet transition in the past 2O years due to rising temperatures and increased precipitation? Has the region itself changed in response? This contribution analyzed average temperature and precipitation data for northwest China from 1960 to 2019.From this,temporal and spatial characteristics of climate change were assessed,revealing more about the possible transformation to warm,humid conditions. Such changes are significant to the ecological environment,social and economic development, human production,and life practices in northwest China,and their understanding provides a basis for responding to climate change and disaster prevention or mitigation across northwest China.The study found that: (1)Average temperature and precipitation both showed an upward trend in northwest China from 1960 to 2019,with a significant warming trend and a weaker humidification trend. (2) Since 1997,both temperature and precipitation have risen rapidly,especially in the eastern part of northwest China, where therate of increase in precipitation has exceeded that of the western part over the same period. Moreover, this research suggests that, since 1997,northwest China has indeed experienced a warm and humid climatic transition; the onset of this transition was earlier than previously recognized. (3) Compared with previous studies,the geographic character of the climate transition has also changed: east Gansu Province has changed from a non-transition area to an area of significant climatic transition; and the eastern and western areas of Qinghai Province have changed from mild transition areas to areas of significant transition.
+
+Key words: northwest China; climatic change；warm-wet shift； spatial-temporal patern； standardized precipi-tation index (SPI)

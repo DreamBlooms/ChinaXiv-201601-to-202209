@@ -1,0 +1,217 @@
+# 返贫风险、生计抵御力与规避策略实践祁连山国家级自然保护区内8县的调查与分析
+
+尚海洋1， 宋妮妮²(1.西北政法大学管理学院,陕西 西安710122；2.陕西科技大学经济与管理学院,陕西 西安710021)
+
+摘要：农户生产生活中生计风险的识别与应对，一直都是农村经济发展与社会建设进程中需要重点关注的核心问题。充盈而优质的生计资本决定了农户生计状况，也是农户有效降低其生计脆弱性、持续增强其生计风险抵御力、快速提升生计恢复力的基础。特别是对于生态脆弱区内的脱贫户,在脱贫后更容易因生计脆弱性、生计风险而返贫,提高其应对风险冲击的“抗逆力”,增强生计风险抵御力，将成为生态脆弱区新时期扶贫工作的关键和重点。通过对祁连山国家自然保护区内农户的生计资本与返贫风险进行调查，并梳理农户风险规避实践;在分析生计风险与生计抵御力间关系的基础上，从生计抵御力的视角总结不同农户组群的生计特征与风险应对实践之间的对应关系。研究表明：加强返贫风险抵御力的建设，特别是家庭或更广泛的生计系统(生计网)抵御力建设,提升生计网的反应能力、适应能力、恢复能力,有助于提升农户规避策略的多样性与有效性，有助于农户在脱贫摘帽后长期实现持续稳定脱贫。
+
+关键词：生计抵御力；风险规避策略；扶贫对策；祁连山
+
+# 文章编号：
+
+生计风险抵御力是社会系统在追求其生态、社会和经济目标的同时，以一种相互加强的方式管理其长期风险损害能力[]。生计风险抵御力是以人为中心的多维结构，以生计资本为组成;生计风险抵御力分析可被视为生计分析，但更强调危害背景以及个人或更广泛体系应对危害的能力。通过可持续生计框架中生计资本各个方面，来促进居民的整体福祉；由可持续生计框架下生计风险的特点及风险应对能力共同决定[2]。主要包括了3个层次：吸收生计风险冲击和压力的能力；适应生计风险冲击和压力的能力；面对生计风险冲击和压力时的转换能力[3]。同时，抵御力主要在2个不同的时间节点发生作用。作为事前能力，生计风险抵御力最主要的特点是，可以预测和改善或维持面对生计风险的个人、家庭或群体的社会福祉[4]。另外,生计风险抵御力的影响也可以作为事后指标来观察。事后指标用于检验一组或多组福利指标如何随着时间的推移而改变某类群体[5]。虽然需要事前和事后指标来模拟生计风险抵御力，但重要的是要将抵御力明确为能够在特定时间点和长时间内观察到的风险抗击能力。构成风险抵御体系的3种能力[6，一般是共同作用而非严格依赖于风险程度。例如，加大基础设施投入、完善政策体系和提高社会保障等，可以在风险压力较小时实施、而在风险压力较大时形成变革能力，产生对系统抵御风险的吸收能力和适应能力的协同效应。
+
+风险是家庭或社会生计脆弱性的主要诱因[7]近年来，国内外学者从多个角度出发对农户可能遇到的生计风险及风险应对策略进行了研究，其具体内容涵盖了“农户生计风险的测度与分解”、“农户生计与风险应对策略研究"等方面。主要有：第一，生计风险测度的研究。陈传波8将风险脆弱性的框架引入，指出了农户有可能遇到各种各样的生计风险和其特点。在此基础上，有研究聚焦于可持续生计框架下农户生计脆弱性评估9，并探讨不同地域特征下生计脆弱性的空间差异[10],以及农户对脆弱性环境的适应性和对风险的抵御能力[11]。第二,有关农户生计与风险应对策略的研究。在农户遇到各种生计风险的测量与分解的基础上，国内外许多学者进行了大量实证研究，得出风险应对办法（策略)和农户自身生计资本[12]生计策略[13]、生计方式[14]之间有着密不可分的关联。在黎洁[15]看来，相比于纯农户，兼业户相对具备了更加完善的生计资本和多样性的生计方式。对于兼业户来说，降低风险的同时分散了风险等级，在面临某一风险时，还能够从其他的生计途径获得补偿，获得了较高的抗风险能力，同时减少了对未知环境的依赖程度。与此同时，学者们总结凝练了特定背景下农户生计风险应对策略选择的差异性偏好。例如，以扶贫开发重点区域(太行山地区)[]、山区(秦巴山区、四川凉山等)[17-18]和生态脆弱区(黄土丘陵沟壑区、石羊河流域、甘南高原等)[19-21]等作为背景,通过对农户生计风险评估及其影响因素研究，探寻提高农户生计风险抵御能力的策略，指出因所处环境不同，农户在遇到生计风险状况时所实施策略的形式和后果显然不同。
+
+上述关于农户生计风险的相关研究成果为本文提供了重要的研究基础和理论依据。同时，仍存在一些值得进一步研究的问题与空间：第一，现有关于生计与农户风险应对策略的研究，聚焦于生计资本、生计策略、生计方式等因素，而外部风险环境是家庭生计脆弱性问题产生的根源[22]。在面对可见风险和不可见风险的返贫外部环境下，如何提高生计抵御力防止已脱贫人口返贫有待进一步跟踪研究。第二，相较于平原地区，经济欠发达地区、山区及生态脆弱区往往人地矛盾突出、自然灾害多发、生态环境退化，农户生计脆弱、返贫风险突出，是当前可持续生计研究应重点关注区域。因此，本研究围绕我国经济欠发达地区、山区与生态脆弱区的复合地区一祁连山地区，基于生计抵御力视角，通过对祁连山国家自然保护区内农户的生计资本与返贫风险进行调查，并梳理农户风险规避实践;在分析生计资本与生计抵御力间关系的基础上，总结不同农户组群的生计特征与风险应对实践之间存在的对应关系。以期通过返贫风险抵御力的建设，规避风险应对策略的消极影响，提升生计网的反应能力、适应能力、恢复能力，有助于提升农户规避策略的多样性与有效性，有助于农户在脱贫摘帽后实现持续稳定脱贫。
+
+# 1研究区概况
+
+祁连山国家公园位于青海省与甘肃省交界，青藏高原北缘，海拔 $1 6 8 4 { \sim } 5 6 0 4 \mathrm { ~ m }$ ，其南部为青藏高原，北部为河西走廊，自然生态系统多样，野生生物资源丰富，是我国西北地区极其重要的冰川和水源涵养生态功能区、野生动物迁徙廊道、生物特种资源库和遗传基因库，也是国家重点生态功能区和生态安全屏障。国家公园总体为西北至东南走向，区域狭长，总面积 $5 . 0 2 \times 1 0 ^ { 4 } \mathrm { k m } ^ { 2 }$ ,其中甘肃片区 $3 . 4 4 \times$ $1 0 ^ { 4 } \mathrm { k m } ^ { 2 }$ ，青海片区 $1 . 5 8 \times 1 0 ^ { 4 } \mathrm { k m } ^ { 2 }$ 。甘肃祁连山国家级自然保护区(图1)地跨武威、金昌、张掖3市的凉州区、天祝藏族自治县、古浪县、永昌县、甘州区、山丹县、民乐县、肃南裕固族自治县8县(区)[23]。区域内生产方式落后，多以传统的农牧业和种植业为主，经济结构单一且增收渠道有限，稳定脱贫任务较重，生计脆弱且生计风险大，民生问题不容忽视。作为生态脆弱区与原深度贫困复合地区，针对该地区进行返贫风险测度、返贫风险抵御力的建设研究具有重要的理论与现实意义。
+
+# 2 数据来源与研究方法
+
+# 2.1数据调查
+
+本研究在收集、整理研究区社会经济发展统计数据的基础上，通过设计调查问卷，采用农村参与式评估(Participatory rural appraisal,PRA）,以获取研究所需的数据及信息。2017年7月1日至9月1日对典型生态脆弱区甘肃祁连山国家级自然保护区内的武威、金昌、张掖3市下辖8县(区)开展调研工作，主要采用调查问卷和深度访谈形式开展工作。在预调查基础上不断修改和完善，并充分考虑到研究区人口空间分布及社会经济发展的阶段特征，采取分层随机抽样的方法随机选取受访农户样本（各乡镇按 $1 . 5 \%$ 的比例选取受访农户）。正式调查样本分别在武威市凉州区、古浪县、民勤县、天祝县；金昌市永昌县、金川区;张掖市肃南裕固族自治县、山丹县共3市8县(区)选择样本户(图2)。最终共调查农户1100户，收回有效问卷1062份，问卷利用率达到 $9 6 . 5 \%$ 。其中，武威市563份（凉州区143份、民勤县211份、古浪县108份和天祝县101份）金昌市163份（永昌县95份、金川区68份）、张掖市336份（肃南裕固族自治县211份和山丹县125份）。
+
+![](images/37218875c6530388435f5157e3b7d54448a7614f2712653c2b74b6dfb7ef3344.jpg)  
+干旱区地理  
+图1研究区概况图
+
+# 2.2样本总体分析
+
+表1为样本农户的基本信息。由表1可知，受访户男女所占比率分别为 $4 8 . 7 \%$ 和 $5 1 . 3 \%$ ,比率基本相当;受访农户平均家庭规模为3.68人·户-1,其中家庭人口为3\~4人的农户居多，占调查总数比率高达 $6 7 . 7 \%$ 。而从农户的受教育程度来看，研究区文盲及小学教育程度的农户居多，比重达到总体受访者的 $2 7 . 9 \%$ ,大专及以上教育程度的农户较少，仅占$1 8 . 6 \%$ 。将调查所得的人口特征相关数据与《武威市统计年鉴(2017)》《张掖市统计年鉴(2017)》及《金昌市统计年鉴(2017)》等相关统计资料对比，发现样本基本反映了该地区农户的基本情况，具有一定的代表性。
+
+# 3结果与分析
+
+# 3.1农户的生计资本特征
+
+本研究依据Sharp在非洲开展的生计资本量化研究，选择了适用于测度中国生态脆弱区农户生计测量的指标体系[24],随后参考了李小云等[25]研究为具体指标赋值，最后采用较为成熟的熵权法评估研究区农户的生计资本，在此不再赘述。根据所选指标标准化处理和测算权重后，计算得到各项生计资本的综合指标值(表2)。
+
+![](images/b1ba526c81d154b23aff0010de31fe69444e302cbbddb2667b8cfbb24ea9355b.jpg)  
+Fig.1Overview of the study area   
+图2调查点分布图  
+Fig.2Distribution map of survey points
+
+Tab.1 Basic characteristics of the sample respondents   
+
+<html><body><table><tr><td>调查项目</td><td>类别</td><td>频数/个</td><td>有效百分比/%</td></tr><tr><td>年龄</td><td>≤29岁</td><td>420</td><td>43.2</td></tr><tr><td rowspan="6"></td><td>30~39岁</td><td>212</td><td>21.8</td></tr><tr><td>40~49岁</td><td>220</td><td>22.6</td></tr><tr><td>50~59岁</td><td>84</td><td>8.6</td></tr><tr><td>≥60岁</td><td>36</td><td>3.7</td></tr><tr><td>男</td><td>476</td><td>48.7</td></tr><tr><td>女</td><td>502</td><td>51.3</td></tr><tr><td>家庭人口</td><td>≤2</td><td>80</td><td>9.2</td></tr><tr><td rowspan="8">受教育程度</td><td>3~4</td><td>592</td><td>67.7</td></tr><tr><td>5~6</td><td>180</td><td>20.6</td></tr><tr><td>≥7</td><td>22</td><td>2.5</td></tr><tr><td>小学及以下</td><td>272</td><td>27.9</td></tr><tr><td>初中</td><td>280</td><td>28.7</td></tr><tr><td>高中或中专</td><td>242</td><td>24.8</td></tr><tr><td>大专及以上</td><td>182</td><td>18.6</td></tr></table></body></html>
+
+由表2可知，研究区农户最为丰富的生计资本是人力资本，其均值为0.079，同时其标准差最大、为0.067，这表明人力资本是农户间差异最大的资本；
+
+均值最小的资本为金融资本，其均值仅为0.002，表明金融资本是最为缺乏的生计资本，同时，其差异性也最小。在生态脆弱区农户的5种生计资本中，人力资本占生计资本的比重最大，约为生计资本的$4 0 \% { \sim } 4 5 \%$ ;相比之下，金融资本的比重最小，平均仅占生计资本的 $5 \% { \sim } 1 0 \%$ ;而其他组分所占的比例，约在 $1 5 \%$ 。考虑到生态脆弱区，生态本底条件较差，自然环境复杂程度，各类资源较为匮乏等因素，在受到生态环境仍较为脆弱等外部因素限制的同时，进一步提高本地农户谋生能力和生计水平，可以通过充分发挥其区域经济优势，提高农户社会资本、物质资本和金融资本水平，加强人力资本的质量，从而整体上提高农户的生计资本水平。
+
+# 3.2农户的主要生计策略
+
+从参与调研的受访者家庭主要从事的生计活动数量进行统计(表3)，发现研究区农户 $2 8 . 4 8 \%$ 的家庭从事单一生计活动； $4 3 . 3 5 \%$ 的农户采用2种生计活动相结合的生计策略、占比最大；从事3种以上生计活动的家庭较少，累计百分比仅为 $4 . 5 4 \%$ ，说明研究区农户生计活动多样性不足。调查数据表明，以种植业为主要生计活动的农户占比最高，其次为打工，有556户家庭以打工作为主要生计方式，占总受访人数的 $5 5 . 8 8 \%$ ，从事畜牧/养殖业的农户家庭占总受访家庭数的 $3 4 . 8 7 \%$ 。从农户家庭主要生计活动调查来看，生态脆弱区农户其主要生计方式受到环境的影响而有所转变，一是生计方式趋于多元
+
+表1样本受访户的基本特征  
+表2生计资本的描述统计表  
+表3家庭主要生计活动调查  
+
+<html><body><table><tr><td>资本类型</td><td>极小值</td><td>极大值</td><td>中位数</td><td>众数</td><td>均值</td><td>标准差</td></tr><tr><td>人力资本</td><td>0.002</td><td>0.013</td><td>0.008</td><td>0.011</td><td>0.079</td><td>0.067</td></tr><tr><td>物质资本</td><td>0.000</td><td>0.042</td><td>0.001</td><td>0.003</td><td>0.009</td><td>0.004</td></tr><tr><td>自然资本</td><td>0.000</td><td>0.049</td><td>0.006</td><td>0.006</td><td>0.007</td><td>0.005</td></tr><tr><td>金融资本</td><td>0.000</td><td>0.305</td><td>0.072</td><td>0.006</td><td>0.002</td><td>0.002</td></tr><tr><td>社会资本</td><td>0.000</td><td>0.426</td><td>0.017</td><td>0.007</td><td>0.047</td><td>0.058</td></tr><tr><td>生计资本</td><td>0.009</td><td>0.676</td><td>0.128</td><td>0.059</td><td>0.143</td><td>0.095</td></tr></table></body></html>
+
+Tab.2 Descriptive statistics of livelihood capitals   
+Tab.3Surveyof themain livelihoodactivitiesof families   
+
+<html><body><table><tr><td>方式</td><td>频数/户</td><td>百分比/%</td><td>方式</td><td>频数/户</td><td>百分比/%</td></tr><tr><td>畜牧/养殖业</td><td>348</td><td>34.87</td><td>打工</td><td>556</td><td>55.88</td></tr><tr><td>种植业</td><td>630</td><td>63.32</td><td>个体运输</td><td>50</td><td>5.03</td></tr><tr><td>采集</td><td>50</td><td>5.13</td><td>经商</td><td>110</td><td>10.15</td></tr><tr><td>家庭副业</td><td>120</td><td>11.96</td><td>工资性工作</td><td>88</td><td>8.84</td></tr></table></body></html>
+
+# 干旱区地理
+
+化，只有较少的农户选择依赖单一生计活动维持生计；二是农户在选择种植业或畜牧业的同时，还会选择外出打工，来增加家庭的生计活动，形成生计活动的多元化。
+
+由于不同类型农户所采取的生计方式各有不同，因此为了确定农户典型的生计类型即特征，需将农户进行划分(表4)，形成不同的农户组群，分类方式则以非农收入占家庭总收入的比例作为划分依据[26],将研究区农户划分为非农业收入占家庭总收入的比重少于 $5 0 \%$ 的纯农户、非农业收人占家庭总收入的比重为 $50 \% { \sim } 9 0 \%$ 的一兼户和非农业收入占家庭总收入的比重大于 $9 0 \%$ 的二兼户三类。对纯农户、一兼户及二兼户3种生计类型的基本特征进行描述统计分析。
+
+根据农户类型划分结果来看，受访者中纯农户、一兼户及二兼户3种生计类型的样本数较均匀，纯农户样本数略高于一兼户及二兼户，占总有效受访家庭的 $3 7 . 3 \%$ ，以农业生产为主要生计方式的农户占比最大；非农收人占家庭总收人超过 $9 0 \%$ 的二兼户家庭占总有效受访农户的 $3 1 . 7 \%$ 。受教育水平达到大学及以上的纯农户占比最小、二兼户占比最大，受教育水平为小学及以下的纯农户占比最大、二兼户占比最小，普遍而言，二兼户群体的受教育水平较高；人均年收人即统计受访家庭2017年人均总收入，其中，二兼户家庭人均总收入为9740.6元、纯农户2017年家庭人均总收人为7469.4元，纯农户家庭2017年人均总收入低于二兼户2271.2元。
+
+# 3.3农户的返贫风险特征
+
+采用熵权法进行农户返贫风险评估[27],根据测算结果分析(表5)，研究区农户返贫风险值处于0.020\~0.971之间，均值为0.389，标准差为0.200，峰值大致位于0.400。返贫风险值处于0.020\~0.200之间有138位受访者，返贫风险值处于0.200\~0.300之间有252位受访者，返贫风险值处于0.300\~0.400之间有196位受访者，返贫风险值位于0.400\~0.500之间有168位受访者，返贫风险值位于0.500\~0.700之间有136位受访者，返贫风险值位于 $0 . 7 0 0 { \sim } 0 . 8 0 0$ 有58位受访者，返贫风险值位于 $0 . 8 0 0 { \sim } 0 . 9 7 1$ 之间有48位，即返贫风险值大于0.500的受访者占总有效受访人数的 $2 4 . 2 2 \%$ 。受访者的健康风险均值为0.112，环境风险均值为0.101，金融风险均值为0.071，社会风险均值为0.034，信息风险均值为0.072。返贫风险中健康风险的威胁最大，环境风险对农户的威胁次之，人们对社会风险的感知较弱。通过对农户最担心的风险类型进行描述统计发现，最担心的返贫风险是健康风险，占总受访人数的$2 9 . 7 5 \%$ ;最担心环境风险的受访者占总受访人数的$2 6 . 8 3 \%$ ，生活在生态脆弱区的农户大多都经历过不同程度的环境事件，所以其对于环境返贫风险的担心较大；仅有 $1 . 9 1 \%$ 的受访者最担心的返贫风险是社会风险，原因之一可能在于人们对社会风险的了解较小，还有研究区农户倾向于靠自身规避风险，不关注或不重视社会网络的作用。
+
+# 3.4不同类型农户的返贫风险规避实践
+
+生计风险通过改变家庭的初始资本而影响应对办法(策略)的选择，从而影响了整个家庭的福利水平，应在定量评价农户返贫风险的基础上，探究农户返贫风险对风险应对策略的选择。农户的风险应对策略主要有资产变现、贷款、减少消费、孩子辍学、等待政府救援、外出务工等，农户的风险应对策略有多个选择，且每一个策略选择都是一个二元变量，并且策略的选择受到多方面因素的影响，因此，多元Logistic回归模型是分析农户风险应对行为影响因素的模型之一[28]。本研究农户应对生计风险的主要策略为"出售资产”“贷款”“减少消费”、“孩子辍学”、“等待政府救援”和"外出务工"等，使用Logistic回归模型模拟风险发生后，不同返贫风险类型对农户风险应对策略的影响，从表6中的分析结果可以发现：健康风险类型、环境风险类型、金融风险类型及信息风险类型对“资产转换现金"具有
+
+表4不同组群的基本特征描述统计  
+Tab.4 Basic characteristic description statistics for different groups   
+
+<html><body><table><tr><td rowspan="2">农户 类型</td><td colspan="5">年龄/%</td><td colspan="5">受教育水平/%</td><td rowspan="2">户均年 收入元</td></tr><tr><td>≤29岁</td><td>30~39岁</td><td>40~49岁</td><td>50~59岁</td><td>≥60岁</td><td>小学及以下</td><td>初中</td><td>高中或中专</td><td>大专</td><td>大学及以上</td></tr><tr><td>纯农户</td><td>33.1</td><td>31.0</td><td>24.2</td><td>9.6</td><td>2.1</td><td>23.8</td><td>26.2</td><td>22.7</td><td>5.3</td><td>22.0</td><td>7469.4</td></tr><tr><td>一兼户</td><td>43.3</td><td>22.3</td><td>20.2</td><td>11.6</td><td>2.6</td><td>19.2</td><td>30.8</td><td>19.7</td><td>5.6</td><td>24.8</td><td>8747.4</td></tr><tr><td>二兼户</td><td>43.3</td><td>15.4</td><td>24.2</td><td>8.8</td><td>7.9</td><td>16.7</td><td>26.7</td><td>16.3</td><td>9.2</td><td>31.3</td><td>9740.6</td></tr></table></body></html>
+
+# 表5返贫风险评价体系
+
+Tab.5Risk assessment system for returning to poverty   
+
+<html><body><table><tr><td colspan="2">风险变量</td><td>变量定义与描述</td><td>均值</td><td>标准差</td></tr><tr><td rowspan="6">风险</td><td rowspan="3">健康自身患病风险</td><td>是否经常患感冒等常见病(是=1,否=0)</td><td>0.485</td><td>0.500</td></tr><tr><td>是否有残疾或家族遗传病史(是=1，否=0)</td><td>0.193</td><td>0.395</td></tr><tr><td>是否有突发性重大疾病(是=1,否=0)</td><td>0.264</td><td>0.441</td></tr><tr><td rowspan="3">外部环境引起的患病风险</td><td>是否患有牲畜瘟疫(是=1,否=0)</td><td>0.202</td><td>0.402</td></tr><tr><td>是否患有痢疾等常见病(是=1，否=0)</td><td>0.223</td><td>0.416</td></tr><tr><td>是否患有工业污染引起的疾病(是=1,否=0)</td><td>0.195</td><td>0.397</td></tr><tr><td rowspan="3">风险 环境 极端天气</td><td>医疗保障不足引起的患病所在地区的医疗条件是否很不完善(是=1,否=0)</td><td>0.352</td><td>0.478</td></tr><tr><td>是否有家庭成员未取得医疗保险(是=1,否=0)</td><td>0.263</td><td>0.440</td></tr><tr><td>冻害、暴雨、沙尘暴的发生频率(低=0,高=1)</td><td>0.450</td><td>0.498</td></tr><tr><td>风险 地质灾害</td><td>滑坡、泥石流、地震的发生频率(低=0,高=1)</td><td></td><td>0.345</td><td>0.475</td></tr><tr><td>病虫害流行 荒漠化或盐碱化</td><td>病虫害的流行程度(低=0，高=1)</td><td></td><td>0.355</td><td>0.475</td></tr><tr><td></td><td></td><td>土壤侵蚀状况(不严重=0,严重=1)</td><td>0.375</td><td>0.484</td></tr><tr><td rowspan="9">金融 风险</td><td>地下水矿化</td><td>地下水质矿化度(不严重=0,严重=1)</td><td>0.308</td><td>0.462</td></tr><tr><td>植被损坏及森林破坏</td><td>植被破坏或森林破坏的程度(不严重=0,严重=1)</td><td>0.427</td><td>0.495</td></tr><tr><td>水资源短缺</td><td>水资源稀缺度(低=0,高=1)</td><td>0.485</td><td>0.500</td></tr><tr><td>农产品价格波动</td><td>农产品价格波动的程度(小=0,大=1)</td><td>0.370</td><td>0.483</td></tr><tr><td>假资农产品</td><td>购买假资农产品(假种子或者肥料)的概率(小=0,大=1)</td><td>0.378</td><td>0.485</td></tr><tr><td>经营战略失误</td><td>由于农作物种类选择失误造成亏损(是=1,没有=0)</td><td>0.380</td><td>0.486</td></tr><tr><td>亏损程度</td><td>损失程度(很低=1，比较低=2，一般=3，较高=4，很高=5)</td><td>1.256</td><td>1.835</td></tr><tr><td>借贷的数量限制</td><td>当地信用贷款有数量限制(是=1，没有=0)</td><td>0.454</td><td>0.498</td></tr><tr><td>融资有限</td><td>贷款的门槛设置(很低=1，比较低=2，一般=3，较高=4，很高=5)</td><td>2.145</td><td>1.171</td></tr><tr><td rowspan="6"></td><td>社会社会网络异质性</td><td>家庭成员中有乡村干部/企业家/国企职工(是=1,没有=0)</td><td>0.070</td><td>0.280</td></tr><tr><td>风险集体协会</td><td>您所在村内是否有集体协会(是=1,没有=0)</td><td>0.092</td><td>0.290</td></tr><tr><td>社会关系网</td><td>与周围朋友或者邻里之间的关系(很差=1,比较差=2,一般=3,较好=4,很好=5)</td><td>3.219</td><td>1.521</td></tr><tr><td>困难时获得帮助的机会</td><td>困难时期外界的帮助作用(没有作用=1,作用不大=2,作用一般=3,作用较大=</td><td>3.212</td><td>1.559</td></tr><tr><td>社会安全状况</td><td>4,作用很大=5) 社会治安状况(很差=1，比较差=2，一般=3,较好=4,很好=5)</td><td>2.990</td><td>1.471</td></tr><tr><td>信息农业市场信息的获取度</td><td>是否获得种子信息(是=0,否=1)</td><td>0.455</td><td></td></tr><tr><td rowspan="5">风险</td><td>是否获得良种信息(是=0,否=1)</td><td></td><td></td><td>0.498</td></tr><tr><td>是否获得饲料信息(是=0,否=1)</td><td></td><td>0.312 0.385</td><td>0.463 0.487</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>是否获得农机服务信息(是=0,否=1)</td><td></td><td>0.355</td><td>0.479</td></tr><tr><td>是否获得农产品市场信息(是=0,否=1)</td><td></td><td>0.357</td><td>0.479</td></tr><tr><td></td><td>其他市场信息的可获得性(是=0,否=1)</td><td></td><td>0.168</td><td>0.374</td></tr></table></body></html>
+
+显著影响。农户信息风险类型不容易选择“资产转换现金"应对策略来抵御风险，这是因为较高的信息风险表示着农户获取信息的来源渠道较少，可以利用的基础设施相对有限，农户对“资产转换现金”的风险抵御能力相对较弱；健康风险、环境风险、金融风险威胁着农户时，选择“资产转换现金"的风险应对策略越容易，环境风险对农户风险应对策略选择上就有积极影响，以及面临较高环境风险的农民更有可能选择“资产转换现金"抵御生计风险。这是因为：长久以来，区域内农户面临的最突出问题是水资源短缺造成的一系列环境问题。在脆弱的环境中，农户已经形成了较大强度的主观能动性来抵抗环境风险。
+
+健康风险型及环境风险型农户选择“贷款"这一风险应对策略的概率较高，对“贷款"风险应对策略呈正向影响。具有健康风险和环境风险的农民更有可能选择“贷款"以在短期内快速应对风险，由于“外出务工”的局限性，风险发生时，疾病风险较
+
+# 干旱区地理
+
+表6不同风险类型对事后风险应对策略的影响  
+Tab.6 Impact of different risk types on post-event risk response strategies   
+
+<html><body><table><tr><td>变量</td><td>资产转换现金</td><td>贷款</td><td>减少消费</td><td>孩子辍学</td><td>等待政府救援</td><td>外出打工</td></tr><tr><td>常数</td><td>-0.494 (5.881)</td><td>-0.540 (18.778)</td><td>-0.463 (14.075)</td><td>-2.501 (12.363)</td><td>-1.123 (6.685)</td><td>0.137 (1.301)</td></tr><tr><td>健康风险型</td><td>0.358** (4.437)</td><td>0.784*** (21.039)</td><td>0.776 (20.727)</td><td>1.023*** (14.175)</td><td>0.919*** (25.505)</td><td>0.788 (9.965)</td></tr><tr><td>环境风险性</td><td>0.366** (4.410)</td><td>1.085*** (37.190)</td><td>0.960 (29.573)</td><td>0.507 (2.951)</td><td>1.265*** (4.347)</td><td>0.956*** (6.554)</td></tr><tr><td>金融风险型</td><td>0.435** (4.220)</td><td>1.277 (33.224)</td><td>0.610*** (8.314)</td><td>0.620 (3.330)</td><td>0.796 (12.764)</td><td>0.774** (11.865)</td></tr><tr><td>社会风险型</td><td>0.599 (1.584)</td><td>1.079 (4.815)</td><td>1.493 (7.772)</td><td>1.471** (6.700)</td><td>0.804*** (2.749)</td><td>-0.911 (3.213)</td></tr><tr><td>信息风险型</td><td>-0.382*** (6.973)</td><td>-0.993 (6.129)</td><td>-0.829 (3.754)</td><td>-0.791*** (10.048)</td><td>-1.022*** (4.691)</td><td>-0.794 (9.459)</td></tr></table></body></html>
+
+注：\*\*和\*\*\*分别表示在 $5 \%$ 和 $1 \%$ 的显著水平上显著，括号内为Wald统计量。
+
+高的农户更有可能选择“贷款”作为他们的偏好策略。金融风险型对“减少消费"呈显著地正向影响，即金融风险越高越容易选择减少消费来应对风险，因此金融风险型农户把"减少消费"作为风险应对策略的概率更高。对于金融风险较高的农户，鉴于收人微薄、获取贷款的来源有限，使其必须选择"减少消费”、恰当的降低生活水平以应对风险、维持生活。
+
+健康风险型、社会风险型和信息风险型对“孩子辍学"这一风险应对策略有显著影响。信息风险型农户较不愿意让孩子辍学以抵御风险，信息风险型对“孩子辍学"呈反向影响，并且在 $1 \%$ 的置信水平下十分显著。这是由于农户本身接受教育时间短、所获取信息渠道较少产生信息闭塞等原因，信息风险型农户更重视孩子的教育，当风险发生后，信息风险型农户较不愿意牺牲下一代教育以减少生计支出；健康风险型及社会风险型对“孩子辍学”呈正向影响，并且健康风险型对“孩子辍学”的影响在 $1 \%$ 的置信水平下显著。由于家庭成员患病风险较高，使得一旦出现风险发生，农户家庭需要将支出用于对疾病的治疗上，从而在很大程度上难以支付孩子继续受教育的支出，并且农户家庭劳动力数量稀缺，当孩子辍学之后立即成为家庭劳动力，从事家庭种植或者是牲畜养殖等活动，健康风险类型的农户就更倾向于孩子辍学来应对风险。
+
+健康风险型、环境风险型、社会风险型及信息风险型农户，更倾向于选择“等待政府救援"作为风险应对策略。金融风险对风险应对策略的影响越显著。环境风险型、金融风险型农户，更喜欢“在外务工"的规避风险策略。通过“在外务工"这种方式既能够帮助农户获取到更多的信息，还能收获更多工作机会，还可以享受到社会中更多的服务并且有着更多的经济收入。所以，对于农户而言，他们更喜欢采取“在外务工"方式，在一定程度上解决信息不对称问题带来的影响。
+
+结合实证结果来看，贫困可能是某些特定的环境危害造成的短期或长期不良影响，由于采取了降低风险的应对策略，显著提升了摆脱贫困的机会。事实上，大多数的脱贫摘帽户只能承担很小额度的贷款(政策扶持与风险评估的平衡点），而短暂的投资和收益确实会提高他们的生活水平，但也有部分脱贫户在资产耗尽至维持生活最低临界点，已经无法通过直接购买来改变他们的生计状况;而环境灾害导致的收人下降，迫使一些家庭让孩子退学或辍学（减少人力资本投入），变卖他们的牲畜和家庭用品（减少物质资本），来保障基本的生活需求，但变卖牲畜和家庭用品也会对家庭的福利产生不利影响，进一步降低了居民应对后续环境灾害冲击（返贫风险)的抵御能力，“恶性循环"或“螺旋式下降”的贫困陷阱，初见端倪或每况愈下。此外，农村社会空心化问题也削弱了真实的社交网络，剩余劳动力的持续外流，提升了人力资本的同时削减了社会资本;生态脆弱区的移民扶贫，减少了农村社区的规模与数量，虽保留着原有的结构与功能，但社会资本的部分消失也是显而易见的；农村社区自我组织、学习或适应生计风险的能力，更是在“38”"60”
+
+的守望下日骏月减。返贫风险抵御力的建设，规避应对策略的消极影响，提升生计网的反应能力、适应能力、恢复能力，有助于提升农户规避策略的多样性与有效性，有助于农户在脱贫摘帽后长期实现持续稳定脱贫。
+
+# 4讨论
+
+对农户而言，在与更广泛的外部环境系统相互作用中，生计资本的提升可以增强(也可能减弱)农户对返贫风险的抵御力(图3)。农村政策对所有群体的主要挑战将是减少农村家庭对维持生计粮食生产的高度依赖[29]。特别是对于生态脆弱区,鉴于生态脆弱与自然资源短缺严重限制了农户生计的显著提升，而在脱贫攻坚、稳定持续脱贫工作中，需要同时采取若干措施，如鼓励农村家庭采用具有高生产回报率的农业改良技术、通过劳动力输出获得更多家庭收人、移民搬迁推进生态优先高质量发展等。除了对生活条件、农业产值、预期收入等具有直接影响之外，也将影响更高家庭收入(预期收入)增长，也将影响与之相关的其他相关部门与产业。同时，政策的制定与调整需要关注社区、农户的生产传统(如种植偏好），农户长期根据他们所在地区的气候条件及社会经济、市场价格等，以主动和审慎地调整劳作节点、耕作周期及作物选择，而这些复杂的关系仍缺少确切的解释，往往即有经验与传统对于风险抵御的作用要大于理性的判断与决策[30]。考虑到每个组群或区域间存在着一定的差异，很难得出一套完全统一的政策指导方针，而更多时候农户微观层面的风险应对，主要仍是依据自身的生计资本与特征一规避策略选择的基础与风险抵御力效力发挥的中介。基于生计资本的特征，做出的作物选择、应用的种植方法和其他可能有利可图的生计策略改进，才能够在可控、可行、可操作的范围内提升农户的生计能力和风险抵御力。就脱贫攻坚来讲，稳定脱贫不能再增加新的返贫风险，如提升获得信贷和保险的机会，要以降低农村家庭的风险水平为前提。
+
+从本文的研究实践来看，农户组群的生计特征与风险应对实践之间存在一定的对应关系(表7）。一般来讲，农村企业家群体(个体经营农户)在收入和消费方面表现良好，即便是在没有大量耕地的情况下，在农村也可以生活得很好。有一个至关重要的因素可以解释这一群体的成功：获得其他谋生策略，特别是在非农业环境中，以及参与自己的非农企业。此外，该群体的教育投入与人力资本一般较高，政策制定者可以从这类群体中发现，通过加大教育投资和提高非农就业需求的策略，可以对克服贫困陷阱提供更多帮助。合作社、协会组织，为家庭提供适度的信贷和保险，并在总收入和消费方面有所回报。在研究区，各种类型协会（如种植业协会、用水协会、养殖协会等)的信用机制，可以帮助参与农户获得金融担保，这点非常重要。家庭的生计可以通过相关政策措施进一步改善，可以为协会本身采取的行动提供了“政府背书”。例如，可以向协会提供财政和技术援助，以鼓励采用提供高收益的新农业技术和发展非农企业活动。
+
+社会资本: U  
+融入关系网，并受网内、网 家庭的要求  
+外官方与非官方机构的影响 社会 家庭  
+人力资本： 成功利用社会资本资源  
+机构的决策,了解场外人对 网络进行运营  
+社民的期望与要求 组织机构: 家庭金融资产的灵活性  
+物质资本： 程序审批、  
+改进私人设施的能力,提升 实施制裁 便于对物质资本  
+社会服务的设备和材料 和促进合作 达成责权一致协议  
+自然资本: 有能力与邻里处理由于边界  
+地下水及地表物问题、自然资本等问题  
+金融资本：  
+支持、提升社会服务的能力消极生计产出：贫困家庭生计资本下降
+
+# 干吴区地理
+
+# 表7生计资本-生计略策-风险抵御力间纽带关系
+
+Tab.7Link between livelihood capital, livelihood strategies and risk resistance   
+
+<html><body><table><tr><td>生计资本</td><td>生计策略</td><td>风险抵御力</td></tr><tr><td>土地资源丰富。</td><td>农场;单位时间工资最高。</td><td>农村最富裕群体,多以年轻男性为户主的平均的农业收人最高;务农之外非农拥有大量土地并不是其提高生活水平的必要条件,而 家庭,有受过良好教育的家庭成员;生产性业生计活动比较最高;经营自有企业、是取决于是否有机会从事非农就业和自我创业;接受 良好的教育对于稳定脱贫非常重要。</td></tr><tr><td>收益;土地的收益高于贫困线。</td><td>力仍需要充分挖掘。</td><td>经常由年轻男性主导的合作社模式,通过积极从事非农活动的比例高，畜牧业协会、合作社可以提供风险保险和获得信贷担保;协 高于平均土地收益的经营方式获取更高的所占比例也很高;经营活动的收益潜会可以提供适当的援助，培训其从事新农业生产的技 术和帮助其参加非农企业经营。</td></tr><tr><td>员中以男性、多成年劳动力为主;表现为略可从事非农活动人数多,预期工资水高收益;参与合作社获得风险保险、信贷机会。 低于贫困线。</td><td>平较高。</td><td>自然资源丰富，大量的土地和牲畜,家庭成农业生产收入高,农产品销售量较大；提高市场收益高的作物比例；提升作物品质以获得更</td></tr><tr><td>队"的年老群体。</td><td>佣，工资收入低于平均水平。</td><td>富力土地资源占有量少，牲畜量少;家庭成收入很大程度上取决于自给自足的生改善获得非农就业机会;通过培训和教育可以获得更 员中,年长的男性劳动力为主，“3860部产;少量参与农场、合作社的劳务雇高的工资。挖掘非农小规模创业的潜力，大力引导和 激励参与协会、合作社，获得更高收益。</td></tr><tr><td>及公共服务设施可获得性好，但缺少土地入。 及牲畜，多以年轻人为主。</td><td></td><td>资源贫乏/生活位置优越。生活靠近公路能够在非农行业获得相当可观的收改善非农就业的机会。探索、引导小农场的集约经 营、创业。</td></tr><tr><td>仍有待提高;男性劳动力为主，物质资本存劳动收入较低;少量的个体经营可以改善公共服务的可获得性。 量有限。</td><td>获得更多的劳动报酬。</td><td>生活在偏远地区,孤立于社会,土地利用率以农产品销售为主,但收入较低;平均通过改善农村道路基础设施,提高进入市场的机会。</td></tr><tr><td>受教育有限；"3860部队"的女性群体。</td><td>农收入最少。</td><td>由年长的女性劳动力为主，人力资本有限，高度依赖自给生产;农产品销售与非消除劳动力雇佣中的性别歧视,开拓女性劳动性务工 市场。</td></tr><tr><td>动力等各个方面都存在明显劣势。</td><td>营活动较少。</td><td>多劣势并存的群体,在土地、牲畜、可用劳高度依赖自给生产，少量的农业销售改善农业市场的一体化，改善获得风险保险/信贷的 但收入非常有限;参与非农部门的经机会,刺激非农部门的创业活动,通过一般性劳动密 集型工作和农业基建增长,来刺激对劳动力的需求。</td></tr></table></body></html>
+
+对于自然资源相对丰富的群体，其风险抵御重点主要是放在增加(家庭)市场生产的激励措施上[29]。政策制定前期有必要详细分析,为何这些土地相对丰富的家庭没有为市场生产更多的产品。提升农产品的市场价格，可以促进农户的创业精神，也可以通过鼓励他们组成合作社来实现。此外，由于面向市场的生产往往具有较高的风险，而便于农户方便获得保险和信贷便利也会促进农户生计能力与返贫风险规避能力。
+
+土地质量自然差异下，即便是地力肥沃但因面积有限，仅靠基本的土地资源(包括牲畜)来改善、提高生计状态，对大多数的农户仍存在很大的困难，这种现象对于生态脆弱区的脱贫者却仍较为普遍。扶贫与抑制返贫的干预措施可以集中于改善获得非农就业的机会，特别是可以通过集体行动提高非农小微型企业的发展潜力与吸纳劳动力的能力；而协会、合作社可以鼓励、引导他们成为成员，为其提高规模化经营、多样化经营提供资金和信贷担保，而技能培训和接受更多的教育，也可以助力该类贫困家庭成员远赴他乡务工。而对于那些土地面积有限且质量较差的农户来讲，除了上述的应对措施外，特别是对于年轻人的劳动力，应当鼓励和支持其创业、从事非农副业，以获得更多的收入，改善个人与家庭的生计状况，远离返贫风险。
+
+总体来看，对于研究区内，家庭有限的成年劳动力和极低的教育储备及传统社会角色，一定程度上限制了其获得有偿非农活动的机会，对该类群体积极参与集体生产性活动，获取平均工资收入或略低于平均工资水平的收入是改善他们生计状况的主要途径。在我们的调研过程中，这一类现象在农村，特别是西北生态脆弱区的农村，是比较严重的，源于农村剩余劳动力的广泛外流，造成大量农村土地的闲置，而留守在农村的老年人和儿童无法完全利用农业生产资源，终将造成农村社会的空心化；土地资源荒废，宅基地闲置，农民断代，脱贫攻坚克难后，持续稳定脱贫仍然任重道远
+
+# 5结论
+
+本文通过对祁连山国家自然保护区内农户的生计资本与返贫风险进行调查，并梳理农户风险规避实践;在分析生计资本与生计抵御力间关系的基础上，从生计抵御力的视角总结不同农户组群的生计特征与风险应对实践之间存在对应关系。研究工作表明：
+
+（1）从农户生产经营的选择来看，研究区大部分农户的生计活动还未完全形成多样性，其中采取2种生计活动的农户占大多数，采取3种及以上生计活动的农户不到调查人口的 $5 \%$ ，但仍存在选择2种农业方式的纯农户，并且在调查样本中纯农户人数略高于一兼户和二兼户人数，纯农业作为生产方式的农户虽可以维持生活稳定，但从整体收入水平来看，纯农户的收入低于二兼户。从调研结果也可以看出，大部分农户会选择农业作为唯一或其中一种生计方式，说明畜牧业和种植业是祁连山自然保护区农户的重要生活来源，其中，从事种植业农户超过 $6 0 \%$ ,从事畜牧业的农户达到 $3 4 . 7 8 \%$ ○
+
+(2）通过对农户返贫风险的测度发现，研究区农户也受到较高的健康风险和环境风险。对于生态脆弱区祁连山自然保护区内选择农业为主要生计策略的农户来说，健康风险与农业生产之间存在直接关系，健康风险导致劳动力生产率较低，环境风险则会造成生产产值的减少。综合农户的整体生计状况，不难看出生计方式多元化能够有效改善农户的生计抵御力。从研究区生计资本的积累和利用来看，农户面临着较低水平的社会风险，侧面反映出农户社会资本的使用存在很大的潜力。通过加强农户对社会资本的认知，主动利用社会组织等组织形式，可提高生计抵御力，缓冲返贫风险的威胁。
+
+(3）从不同风险类型农户对生产经营方式选择来看，“资产变现"和"贷款"更适用于短期资金缺乏（金融风险）、面临突发生计风险的情况（健康风险）完善生产基础设施建造(环境风险)等情况，这两类生计策略的选择能够增加农户金融资本。“减少消费"和"孩子辍学"策略在更多时候属于增加金融资本的辅助措施，在面临较为窘迫的生计条件下,利用减少开支能够维持家庭可利用资金。“等待政府救援”则是在重大危机下通常依靠的生计策略，如面临严重自然灾害、公共卫生事件以及维持村内稳定时需要政府部门、村镇的统一救援。相较于其他生计策略，选择“外出务工"的农户往往在摆脱生态脆弱区的环境限制和收入微薄的情况后，获得了更为丰富的生计资本，提升生计抵御力。
+
+总体来讲，在研究区农户生计资本中，人力资本占生计资本的比重最大，金融资本的比重最小,这与研究区实际状况高度契合。从农户家庭主要生计活动调查来看，生态脆弱区农户其主要生计方式受到环境的影响而有所转变，主要表现在：一是，生计方式趋于多元化，只有较少的农户选择依赖单一生计活动维持生计;二是,农户在选择种植业或畜牧业的同时，还会选择外出打工，来增加家庭的生计活动，形成生计活动的多元化；受访者中纯农户、一兼户及二兼户3种生计类型的样本数较均匀，纯农户样本数略高于一兼户及二兼户。另外，返贫风险中健康风险的威胁最大，环境风险对居民的威胁次之，人们对社会风险的感知较弱。
+
+相较于一般农村地区而言，生态脆弱区农户在与更广泛的外部环境系统的相互作用中，生计资本的提升可以增强(也可能减弱)农户对返贫风险的抵御力，特别是对于生态脆弱区的农户，生态脆弱与自然资源短缺严重制约了农户生计提升的空间，在脱贫攻坚、稳定持续脱贫工作中，需要考虑不同组群及区域间的差异，充分认识到对农户精准实策发挥其自身应对返贫风险的抵御能力，优化规避策略选择、提升风险抵御力效力发挥，在可控的、可行的、可操作的范围内提升农户的生计能力和风险抵御力，应该加强家庭或更广泛的生计系统(生计网)抵御力建设，即系统提升生计网的反应能力、适应能力、恢复能力。
+
+# 参考文献(References)
+
+[1] Bhamra R,Dani S,Burnard K.Resilience:The concept,a literature review and future directions[J]. International Journal of Production Research,2011,49(18): 5375-5393.   
+[2] Cannon T,Twigg J. Social vulnerability,sustainable livelihoods and disasters[R]. London: Report to DFID Conflict and Humanitarian Assistance Department (CHAD), 2013.   
+[3] SinaD,Chang-Richards A Y,Wilkinson S,et al.A conceptual framework for measuring livelihood resilience:Relocation experience from Aceh,Indonesia[J].World Development,2O19,117: 253-265.   
+[4] Singh C,Tebboth M, Spear D,et al. Exploring methodological approaches to assess climate change vulnerability and adaptation: Reflections from using life history approaches[J].Regional Environmental Change,2019,19(8): 2667-2682.   
+[5] Kumar S,MishraAK,Pramanik S,etal.Climate risk,vulnerabilityand resilience:Supporting livelihood of smallholders in semiar
+
+# 干旱区地理
+
+id India[J]. Land Use Policy,2020,97: 1-12.   
+[6]Thulstrup A W. Livelihood resilience and adaptive capacity: Tracing changes in household access to capitals in Central Vietnam[J]. World Development,2015,74: 352-362.   
+[7]Sarker MNI, Qian C,Wu M,et al.Vulnerability and livelihood esilience in the face of natural disaster: A critical conceptual review [J].Applied Ecologyand Environmental Research,2019,17(6): 12769-12785.   
+[8]陈传波.农户风险与脆弱性:一个分析框架及贫困地区的经验 [J].农业经济问题,2005(8):47-50.[Chen Chuanbo.Farmers' risks and vulnerabilities: An analysis framework and the experience of poor egions[J]. Issues in Agricultural Economy,2005(8): 47-50.]   
+[9]谢楠,张磊,伏绍宏.深度贫困地区脱贫户的可持续生计及风险 分析——基于凉山彝区812户贫困户的调查[J].软科学,2020, 34(1): 139-144.[Xie Nan, Zhang Lei,Fu Shaohong.Sustainability and risk analysisof farmers’livelihood in deep poverty area: Based on the investigation of 812 poor families in Liangshan[J]. Soft Science,2020,34(1): 139-144.]   
+[10]Janardan M,NarcisaGP.Mapping the need for adaptation:Assessing drought vulnerability using the livelihood vulnerability index approach ina mid-hill region of Nepal[J]. Climateand Development,2019,11(7): 607-622.   
+[11] 付少平,石广洲.乡村振兴背景下脱贫人口面临的生计风险及 其防范[J].西北农林科技大学学报(社会科学版),2021,21(1): 19-28.[Fu Shaoping,Shi Guangzhou. Livelihood risk and its prevention ofpoverty alleviation under thebackgroundofruralrevitalization[J].Journal of Northwest A&FUniversity (Social Science Edition),2021,21(1): 19-28.]   
+[12] 董海宾,李平,侯向阳.牧户生计风险应对策略对生计资本的响 应研究——以内蒙古为例[J].中国草地学报,2019,41(6):143- 151.[Dong Haibin,Li Ping,Hou Xiangyang. Study on the influence of livelihood capital affecting choice of risk coping strategic for herdsmen: A case of Inner Mongolia[J]. Chinese Journal of Grassland,2019,41(6): 143-151.]   
+[13] JinJJ, Gao YW, Wang X M, et al. Farmer's risk preferences and their climate change adaptation strategies in the Yongqiao District, China[J].Land Use Policy,2015(47): 365-372.   
+[14] 孙晗霖,刘新智,张鹏瑶.贫困地区精准脱贫户生计可持续及其 动态风险研究[J].中国人口·资源与环境,2019,29(2):145- 155.[Sun Hanlin,Liu Xinzhi, Zhang Pengyao.Study on livelihood sustainability and its dynamic risk of targeted poverty-alleviation households in poverty-stricken areas[J]. China Population,Resources and Environment,2019,29(2): 145-155.]   
+[15]黎洁.陕西安康移民搬迁农户的生计适应策略与适应力感知 [J].中国人口·资源与环境,2016,26(9): 44-52.[Li Jie.Livelihood adaptation strategy and perceived adaptive capacity of rural relocated households in southern Shaanxi Province,China[J]. China Population,Resources and Environment,2016,26(9): 44-52.]   
+[16] 高帅,史婵,唐建军.基于增能赋权视角的农户贫困脆弱性缓解 研究——以太行山连片特困地区为例[J].中国农村观察,2020 (1): 61-75.[Gao Shuai, Shi Chan,Tang Jianjun. The alleviation of household-level poverty vulnerability through ability enhancement and empowerment: A case study of Taihang Mountain contiguous poverty-stricken areas[J]. China Rural Survey,2O2O(1): 61-75.]   
+[17] 刘伟,黎洁,徐洁.连片特困地区易地扶贫移民生计恢复力评估 [J].干旱区地理,2019,42(3): 673-680.[Liu Wei,Li Jie,Xu Jie. Evaluation of rural household's livelihood resilience of the Relocation and Setlement Project in contiguous poor areas[J].Arid Land Geography,2019,42(3): 673-680.]   
+[18] 李立娜,何仁伟,李平,等.典型山区农户生计脆弱性及其空间 差异——以四川凉山彝族自治州为例[J].山地学报,2018,36 (5):792-8O5.[Li Lina,He Renwei,Li Ping,et al. Assessment and spatial difference of peasant household's livelihood vulnerability in representative mountain areas:A case study of Liangshan Yi Autonomous Prefecture of Sichuan, China[J]. Mountain Research, 2018,36(5): 792-805.]   
+[19] 杨涛,陈海,刘迪,等.黄土丘陵沟壑区乡村社区恢复力时空演 变及影响因素研究——以陕西省米脂县高渠乡为例[J].地理 科学进展,2021,40(2): 245-256.[Yang Tao, Chen Hai,Liu Di, et al. Spatiotemporal change of rural community resilience in loess hily- gullyregionandinfluencing factors:Acase studyof Gaoqu Townshipin Mizhi County,ShannxiProvince[J].rogressinGeography,2021,40(2): 245-256.]   
+[20] 苏芳,殷娅娟,尚海洋.甘肃石羊河流域农户生计风险感知影响 因素分析[J].经济地理,2019,39(6):191-197,240.[Su Fang, Yin Yajuan,Shang Haiyang.Influencing factors of farmers’livelihood risk perception in Shiyang River Basin of Gansu Province[J]. Economic Geography,2019,39(6): 191-197,240.]   
+[21] 郭秀丽,杨彬如.高寒牧区农户的生计风险及应对策略;以甘南 州夏河县为例[J].草业科学,2020,37(10):2142-2151.[Guo Xiuli, Yang Binru.Livelihood risk and coping strategies of farmers in alpine pastoral areas in China: A case of Xiahe County,Gannan Prefecture[J]. Pratacultural Science,2020,37(10): 2142-2151.]   
+[22] 吴孔森,刘倩,张戩,等.干旱环境胁迫下民勤绿洲农户生计脆 弱性与适应模式[J].经济地理,2019,39(12):157-167.[Wu Kongsen,Liu Qian, Zhang Jian,etal.Farmers’livelihood vulnerability and adaptation model in Minqin Oasis under the arid environment stress[J]. Economic Geography,2019,39(12): 157-167.]   
+[23] 刘佳茹,赵军,沈思民,等.基于SRP概念模型的祁连山地区生 态脆弱性评价[J].干旱区地理,2020,43(6):1573-1582.[Liu Jiaru,Zhao Jun,Shen Simin,et al.Ecological vulnerability assessment of Qilian Mountains region based on SRP conceptual model [J]. Arid Land Geography,2020,43(6): 1573-1582.]   
+[24] Sharp K. Measuring destitution: Integrating qualitative and quantitative approaches in the analysis of survey data[R]. Brighton: IDS Working Paper, 2003.   
+[25] 李小云,董强,饶小龙,等.农户脆弱性分析方法及其本土化应 用[J].中国农村经济,2007(4):32-39.[Li Xiaoyun,Dong Qiang,
+
+Rao Xiaolong,et al.Farmer’s vulnerability analysis methodology and its localization application[J]. Chinese Rural Economy,2007 (4): 32-39.]
+
+[26] 杨伦,刘某承,闵庆文,等.农户生计策略转型及对环境的影响 研究综述[J].生态学报,2019,39(21):8172-8182.[Yang Lun, Liu Moucheng,Min Qingwen,et al.Review of eco-environmental effect of farmers’livelihood strategy transformation[J].Acta Ecologica Sinica,2019,39(21): 8172-8182.]
+
+[27]马艳艳,赵雪雁,兰海霞,等.重点生态功能区农户的生计风险 多维感知及影响因素——以甘南黄河水源补给区为例[J].生 态学报,2020,40(5): 1810-1824.[Ma Yanyan, Zhao Xueyan,Lan Haixia,et al. Livelihood risk multi-dimensional perception and influencing factors in key ecological function area:A case of the Yellow River water supply area of Gannan[J]. Acta Ecologica Sinica,
+
+2020,40(5): 1810-1824.]
+
+[28]Poudel S,Funakawa S, Shinjo H,etal.Understanding households' livelihood vulnerability to climate change in the Lamjung District of Nepal[J]. Environment Development and Sustainability,2020, 22: 8159-8182.   
+[29]Papa C,Nzokou P,Mbow C.Farmer livelihood strategies and attitudes in response to climate change in agroforestry systems in Kedougou, Senegal[J]. Environmental Management, 2O2O,66: 218-231.   
+[30]李小云,苑军军,于乐荣.论2020后农村减贫战略与政策：从 “扶贫"向"防贫"的转变[J].农业经济问题,2020(2):15-22.[Li Xiaoyun,Yuan Junjun,Yu Lerong. The prospects on the China's post-202O rural poverty reduction strategy and policy: Transformation from“Poverty Alleviation”to“Poverty Prevention"[J].Issues in Agricultural Economy,2020(2): 15-22.]
+
+# Poverty risk, livelihood resilience and prevention strategy practice: Investigation and analysis of 8 counties in Qilian Mountains National Nature Reserve
+
+SHANG Haiyang'， SONG Nini² (1.School of Management,Northwest Universityof Political Science andLaw,Xi’an 71O122,Shaanxi,China; 2.SchoolofEconomicsandManagement,Shaanxi UniversityofScienceandTechnology,Xi'an7Oo1,Shaanxi,China)
+
+Abstract: The identification and response to farmers’livelihood risks have always been core issues that require atention regarding rural economic development and social construction procedures.Adequate and high-quality livelihood capital determines the livelihood status of farmers.Farmers also effectively need to minimize livelihood vulnerability,northwest Chinaand sustainably strengthen livelihood risk resilience.After being lifted out of poverty,in particular,poverty-stricken households in ecologically fragile areas are prone to returning to poverty becauseof livelihood vulnerability.In the new era,enhancing their“resilience”willbe the key and focus of poverty allviation. This research analyzes farmers’ livelihood capital and the risk of returning to poverty in the Qilian Mountains National Nature Reserve, northwest China and sorts out farmers’risk aversion practices. The correspondence between livelihood characteristics and risk coping techniques of diferent groups is summarized based on the analysis ofthe corelation between livelihood risks and livelihood resilience.The study shows that enhancing the responsiveness,adaptability,and resilience of livelihood networks and strengthening the resilience to the risk ofreturning to poverty,especialy forhouseholds or broader livelihood systems,can help improve the diversity and effectiveness of farmers’avoidance strategies and help them acquire sustainable and stable poverty alleviation after eliminating poverty.
+
+Key words: livelihood resilience; risk aversion strategy; poverty alleviation strategy; Qilian Mountains

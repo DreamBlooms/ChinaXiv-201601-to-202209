@@ -1,0 +1,206 @@
+不同分子质量及不同浓度的壳聚糖对奶牛瘤胃体外发酵参数及甲烷排放的影响张婕童津津」张华 $^ 1$ 杨德莲」孙铭维」蒋林树1\*熊本海 2\*（1.北京农学院动物科技学院，奶牛营养学北京市重点实验室，北京102206;
+
+2.中国农业科学院北京畜牧兽医研究所，北京100193）
+
+摘要：本研究旨在探究不同分子质量及不同浓度的壳聚糖对奶牛体外瘤胃发酵参数及甲烷排放的影响。试验选用3头体况相近、健康状况良好、装有永久性瘤胃瘘管的荷斯坦奶牛作为试验动物，用于瘤胃液的采集。试验选择分子质量分别为1000、3000 和 $5 0 0 0 0 { \mathrm { u } }$ 的壳聚糖，每种分子质量的壳聚糖再分别以底物 $0 . 4 \%$ 、 $0 . 8 \%$ 及 $1 . 6 \%$ 的浓度添加到底物中，共设9个试验组，另外设1组对照组（不添加壳聚糖)，每组4个重复，共重复3个批次。体外发酵 $2 4 \mathrm { h }$ 后，测定产气量、甲烷产量及瘤胃发酵参数。结果表明：与对照组相比，添加壳聚糖可以使瘤胃发酵液氨态氮浓度显著降低（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ )，丙酸浓度显著升高（ $. P { < } 0 . 0 5 \$ ，乙酸/丙酸显著降低 $( P { < } 0 . 0 5 )$ ，促进瘤胃发酵模式的改变。浓度为 $1 . 6 \%$ 、分子质量为 $5 0 0 0 0 { \mathrm { u } }$ 和浓度为 $0 . 8 \%$ 、分子质量为 $5 0 0 0 0 { \mathrm { u } }$ 的壳聚糖在不影响干物质消化率的基础上使发酵液甲烷产量有降低趋势（ $\scriptstyle P < 0 . 1 0 { \dot { ) } }$ 。综上，在体外条件下，添加壳聚糖可以有效调节瘤胃微生物发酵状态，综合考虑，浓度为 $1 . 6 \%$ 、分子质量为 $5 0 0 0 0 { \mathrm { u } }$ 的壳聚糖最为适宜。
+
+关键词：壳聚糖；瘤胃体外发酵；奶牛中图分类号： 文献标识码： 文章编号：
+
+反刍动物胃肠道内的微生物发酵所产生的甲烷( $\mathrm { C H } _ { 4 }$ )是畜牧产业甲烷产生的主要途径。
+
+收稿日期：2018-04-27
+
+基金项目：国家“十三五”重点研发计划（2016YFD0700201、2016YFD0700205)；北京市农业局“北京市现代农业产业技术体系奶牛创新团队"；国家自然科学基金项目（31772629、31702302)；2015 年大北农青年教师科研基金；2016 年北京农学院青年教师科研基金；2017年北京市教委科技计划项目（SQKM201710020011）
+
+作者简介：张婕（1994-)，女，北京人，硕士研究生，研究方向为反刍动物营养与免疫。E-mail: I19791031l@163.com
+
+\*通信作者：蒋林树，教授，博士生导师，E-mail:kjxnb@vip.sina.com；熊本海，研究员，博士生导师，E-mail：xiongbenhai@caas.cn
+
+据报道，每年全球反刍动物胃肠道 $\mathrm { C H } _ { 4 }$ 的排放量约占农业领域总 $\mathrm { C H } _ { 4 }$ 排放量的 $5 8 \% [ 1 ]$ ，而占世界总 $\mathrm { C H } _ { 4 }$ 排放量高达 $2 8 \% ^ { [ 2 ] }$ 。其中肉牛和奶牛所排放的 $\mathrm { C H } _ { 4 }$ 占 $7 4 \% ^ { [ 3 ] }$ 。随着全球温室效应的逐渐加剧，如何减少反刍动物瘤胃 $\mathrm { C H } _ { 4 }$ 排放成为一个热点问题。大量研究表明，化学饲料添加剂[4]、抗生素[5]、 $\mathrm { C H } _ { 4 }$ 抑制剂[6和植物提取物[7等均可改善反刍动物生产性能及减少$\mathrm { C H } _ { 4 }$ 排放。然而，动物产品中化学残留问题、抗生素的细菌耐药性以及一些添加剂的过量毒性和成本问题限制了它们在动物营养中的利用[8]。因此，科学界仍在积极寻求可以提高瘤胃功能的替代饲料添加剂，在改善瘤胃发酵的同时有利于生态环境健康可持续发展。壳聚糖是甲壳素脱乙酰基得到的产物，是天然高分子质量化合物。壳聚糖化学名称是β-(1,4)-2-氨基-2-脱氧-D-葡萄糖。20 世纪70 年代以来，人们对壳聚糖的研究有了很大的进步，已被作为"人体第六生命要素"进行深入研究和开发[9]。近年来，关于壳聚糖用于饲料添加剂改善瘤胃发酵的报道很多，李朝云等[10]的研究发现精粗比20：80和50：50时，添加壳聚糖能够显著增加山羊瘤胃液丙酸的摩尔比例，降低乙丙比;Henry 等[1]的研究结果表明，在肉牛的饲粮中加入壳聚糖可以使肉牛的 $\mathrm { C H } _ { 4 }$ 排放量显著下降。这些研究结果表明，在饲粮中添加壳聚糖对反刍动物瘤胃发酵及 $\mathrm { C H } _ { 4 }$ 产量会有一定影响，但有关其影响奶牛瘤胃发酵参数的报道不多且试验结果不一致。因此，本研究旨在探究不同分子质量及不同浓度的壳聚糖对奶牛体外瘤胃发酵参数的影响，旨在为壳聚糖作为反刍动物饲料添加剂实际应用提供科学依据和理论支持。
+
+1 材料与方法
+
+1.1 试验材料
+
+本试验所选用的壳聚糖的分子质量分别为 $1 0 0 0 , 3 0 0 0$ 和 $5 0 0 0 0 { \mathrm { u } }$ ，均购自浙江金壳药业有限公司，脱乙酰度 $8 5 \%$ 以上，纯度均在 $9 5 \%$ 以上。
+
+# 1.2 试验动物及饲养管理
+
+试验选用3头体况相近、健康状况良好、装有永久性瘤胃瘘管的荷斯坦奶牛作为瘤胃液的供体。每日08：00和18：00饲喂全混合日粮，其组成及营养水平见表1。
+
+# 表1全混合日粮组成及营养水平(干物质基础)
+
+Table 1 Composition and nutrient levels of the TMR (DM basis) %
+
+<html><body><table><tr><td>原料Ingredients</td></tr><tr><td>苜蓿干草 Alfalfa hay 13.34</td></tr><tr><td>羊草 Chinese wildrye 11.20</td></tr><tr><td>玉米Corn 15.73</td></tr><tr><td>全棉籽 Whole cottonseed 3.19</td></tr><tr><td>青贮玉米 Maize silage 28.57</td></tr><tr><td>干酒糟及其可溶物 DDGS 2.99</td></tr><tr><td>蒸汽压片玉米 Steam-flaked corn 7.16</td></tr><tr><td>豆粕 Soybean meal 11.53</td></tr><tr><td>棉籽粕 Cottonseed meal</td></tr><tr><td>3.87</td></tr><tr><td>预混料 Premix1) 1.96</td></tr><tr><td>食盐 NaCl 0.46</td></tr><tr><td>合计 Total 100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td></tr><tr><td>产奶净能 NEr/(MJ/kg) 7.26</td></tr><tr><td>粗脂肪 EE 4.97</td></tr><tr><td>粗蛋白质CP 17.35</td></tr><tr><td>中性洗涤纤维 NDF 30.8</td></tr><tr><td>酸性洗涤纤维 ADF 16.5</td></tr><tr><td>钙Ca 0.74</td></tr><tr><td>磷P 0.41</td></tr></table></body></html>
+
+1每千克预混料含有 One kg of premix contained the following: Cu $\mathrm { 1 2 3 0 m g }$ $Z { \mathrm { n } } 4 9 5 0 { \mathrm { m g } }$ ,Mn 1 760 mg, $\mathrm { ~ I ~ } 5 0 \ : \mathrm { m g }$ ，Se $6 1 ~ \mathrm { m g }$ ，VA 230 000 IU，VD350 000 IU，VE $1 0 0 0 \mathrm { I U }$ 。表2 同。The same as Table 2.
+
+2)产奶净能为计算值2I，其他营养水平为实测值。表2同。 $\mathrm { N E } _ { \mathrm { L } }$ was a calculated valuel12l，while the other nutrient levelswere measured values.The same as Table 2.
+
+# 1.3 发酵底物配制
+
+发酵底物主要由蒸汽压片玉米、豆粕、羊草、苜蓿组成，将饲料原料 $6 5 ^ { \circ } \mathrm { C }$ 烘干 $4 8 \mathrm { { h } }$ 充分研磨过 $1 \mathrm { m m }$ 筛，按照底物配比，称取各原料，混匀待用。发酵底物组成及营养水平见表2。
+
+# 表2发酵底物组成及营养水平(干物质基础)
+
+Table 2Composition and nutrient levels of the substrate (DM basis) %   
+
+<html><body><table><tr><td>项目Items 含量Content</td></tr><tr><td>原料Ingredients</td></tr><tr><td>蒸汽压片玉米 Steam pressed Corn 43.0</td></tr><tr><td>豆粕 Soybean meal 10.0</td></tr><tr><td>苜蓿Alfalfa 14.0</td></tr><tr><td>羊草 Chinese wildrye 32.0</td></tr><tr><td>磷酸氢钙 CaHPO4 0.5</td></tr><tr><td>预混料 Premix 0.5</td></tr><tr><td>合计Total 100.0</td></tr><tr><td>营养水平 Nutrient levels</td></tr><tr><td>干物质 DM 92.45</td></tr><tr><td>粗蛋白质 CP 11.34</td></tr><tr><td>中性洗涤纤维 NDF 34.41</td></tr><tr><td>产奶净能 NEr/(MJ/kg) 6.07</td></tr><tr><td>钙Ca 0.71</td></tr><tr><td>磷P 0.35</td></tr></table></body></html>
+
+1.4试验设计及方法
+
+试验采集早饲前奶牛瘤胃液进行体外发酵，从每头牛的瘤胃采集 $0 . 5 \mathrm { L }$ 瘤胃液，均匀混，用4层纱布过滤。
+
+试验选择分子质量分别为1000、3000和 $5 0 0 0 0 { \mathrm { u } }$ 的壳聚糖，每种分子质量的壳聚糖再分别以底物 $0 . 4 \%$ 、 $0 . 8 \%$ 及 $1 . 6 \%$ 的浓度添加到底物中，共设9个试验组，另外设1组对照组(不添加壳聚糖)，每组4个重复，共重复3个批次。按 Menke 等[13]方法进行体外发酵试验，体外发酵液人工唾液盐的配制见表3。取新鲜瘤胃液与人工唾液盐混合液（瘤胃液：人工唾液盐 $= 1 { : } 2$ ） $7 0 ~ \mathrm { m L }$ 加入发酵瓶中。向瓶中持续通入 $\mathrm { C O } _ { 2 } 5 \mathrm { ~ s ~ }$ 后，立即加上瓶塞，并将每个发酵瓶与产气装置的每个传感器相连接，后面连接气袋以收集瘤胃体外发酵所产的气体，于 $3 9 ^ { \circ } \mathrm { C }$ 下连续培养 $2 4 \mathrm { h }$ ，试验重复3次。
+
+表3人工唾液盐组成  
+Table 3Composition of artificial saliva salt solutions   
+
+<html><body><table><tr><td>项目Items</td><td>试剂 Regent</td><td>用量Dosage</td></tr><tr><td>微量元素溶液A</td><td>CaCl2·2HO</td><td>13.2 g</td></tr><tr><td>Microelement solution A</td><td>MnCl2:4HO</td><td>10.0g</td></tr><tr><td></td><td>CoCl:6HO</td><td>1.0g</td></tr><tr><td></td><td>FeCl:6HO</td><td>8.0g</td></tr><tr><td></td><td>蒸馏水</td><td>100 mL</td></tr><tr><td>碳酸盐缓冲液B</td><td>NH4HCO3</td><td>4.0g</td></tr><tr><td>Buffer bicarbonate B</td><td>NaHCO3</td><td>35.0 g</td></tr><tr><td></td><td>蒸馏水</td><td>1 000 mL</td></tr><tr><td>磷酸盐缓冲液C</td><td>NazHPO4</td><td>5.7g</td></tr><tr><td>Phosphate buffer C</td><td>KHPO4</td><td>6.2 g</td></tr><tr><td></td><td>MgSO4:7HO</td><td>0.6g</td></tr><tr><td>刃天青指示剂 Resazurin indicator</td><td>蒸馏水</td><td>1000 mL</td></tr><tr><td></td><td>刃天青</td><td>0.1g</td></tr><tr><td>还原液 Reduction solution</td><td>蒸馏水</td><td>100 mL</td></tr><tr><td></td><td>NaOH</td><td>160 mg</td></tr><tr><td></td><td>NazS·9HO</td><td>625 mg</td></tr><tr><td></td><td>蒸馏水</td><td>100 mL</td></tr></table></body></html>
+
+使用SartoriusPB-20 型 $\mathfrak { p H }$ 计测定瘤胃培养液的 $\mathfrak { p H }$ 。使用AGRS-II微生物发酵微量产气自动记录仪测定 $2 4 \mathrm { h }$ 产气量。气袋收集发酵 $2 4 \mathrm { h }$ 后的气体。使用安捷伦7890B型号气相色谱仪用比色法测定瘤胃培养液的 $\mathrm { C H } _ { 4 }$ 产量。色谱仪条件为：TCD检测器，载气为氢气，流量 $2 8 ~ \mathrm { m L / m i n }$ ，PorapakQ填充柱，检测器温度 $1 0 0 ^ { \circ } \mathrm { C }$ ，进样口温度 $1 5 0 ^ { \circ } \mathrm { C }$ ，柱温 $3 8 ^ { \circ } \mathrm { C }$ 进样量 $1 ~ \mathrm { m L }$ 。
+
+干物质消化率的测定参考Tilley 等[14]的方法。将发酵瓶内残渣用纱布过滤收集，用蒸馏水冲洗2次至 $5 0 ~ \mathrm { m L }$ 离心管中，在 $4 ^ { \circ } \mathrm { C }$ ， $5 4 0 0 \times g$ 转速下离心 $1 5 \mathrm { m i n }$ ，在烘箱中以 $1 0 5 ^ { \circ } \mathrm { C }$ 烘干 $2 4 \mathrm { h }$ ，计算饲料干物质消化率。干物质消化率计算公式为：
+
+干物质消化率！ $\mathrm { ^ C D M } , \% \mathrm { ^ { 2 } = 1 0 0 \times }$ （样本DM重-残渣DM重 $\cdot ^ { + }$ 空白管DM重）/样本DM重。
+
+挥发性脂肪酸（VFA）浓度以外标法[15]测定。使用安捷伦7890B型号气相色谱仪，色谱条件为：火焰氢离子检测器温度 $2 2 0 ^ { \circ } \mathrm { C }$ ，以氩气作为载气，流速 $3 0 \mathrm { m L / m i n }$ ，由氢气（ $\mathbf { { \dot { H } } } _ { 2 }$ ）发生器提供氢气，流速 $3 0 ~ \mathrm { m L / m i n }$ ，空气流速 $3 0 0 ~ \mathrm { m L / m i n }$ ，进样量 $2 \mu \mathrm { L }$ 。
+
+氨态氮（ $\mathrm { \Delta N H _ { 3 }  – N }$ ）浓度利用靛酚比色法[16]测定。主要测定步骤如下：在试管中加入0.05mL 样品，边混合边加入 $2 . 5 ~ \mathrm { m L }$ 苯酚溶液，加入 $2 . 0 ~ \mathrm { m L }$ 浓度为 $5 . 2 5 \%$ 的次氯酸钠溶液并摇匀，将试管置于 $9 5 ^ { \circ } \mathrm { C }$ 水浴 $5 \mathrm { m i n }$ ， $6 0 ^ { \circ } \mathrm { C }$ 水浴 $1 0 \mathrm { m i n }$ ，取出冷却后使用天美UV-2600紫外分光光度计于 $6 3 0 \mathrm { n m }$ 下比色。
+
+1.5 数据处理与统计分析
+
+采用 SPSS 20.0软件中全因子模型进行多因素方差分析和Duncan 氏法多重比较检验。差异显著定义为 $P { < } 0 . 0 5$ 。对组合效应估算值进行 $t$ 检验，其中方差分析中因子是壳聚糖分子质量和壳聚糖浓度，水平分别为3种不同的分子质量和3种不同浓度。统计分析模型为：
+
+$$
+Y _ { i j } { = } { \mu } { + } \alpha _ { i } { + } \beta _ { j } { + } { \varepsilon } _ { i j } \circ
+$$
+
+式中： $Y _ { i j }$ 表示观测值 ${ \bf { \dot { \rho } } } _ { \bf { \dot { \rho } } } { \bf { \dot { \rho } } } _ { \bf { \dot { \rho } } } { \bf { \Psi } } _ { \bf { \dot { \rho } } } { \bf { \Psi } } _ { \bf { \dot { \rho } } } { \bf { \Psi } } _ { \bf { \rho } } { \bf { \Psi } } _ { \bf { \dot { \rho } } } { \bf { \Psi } } _ { \bf { \rho } } { \bf { \Psi } } _ { \bf { \dot { \rho } } } { \bf { \Psi } } _ { \bf { \rho } } { \bf { \Psi } } _ { \bf { \dot { \rho } } } { \bf { \Psi } } _ { \bf { \rho } } { \bf { \Psi } } _ { \bf { \rho } } { \bf { \Psi } } _ { \bf { \rho } } { \bf { \Psi } } _ { \bf { \rho } } { \bf { \Psi } } _ { \bf { \rho } } { \bf { \Psi } } _ { \bf { \rho } } { \bf { \Psi } } _ { \bf { \rho } } { \bf { \Psi } } _ { \bf { \rho } } { \bf { \Psi } } _ { \bf { \rho } } { \bf { \Psi } } _ { \bf { \rho } } { \bf { \Psi \Psi } } _ { \bf { \rho } } { \bf { \Psi \Psi } } _ { \bf { \rho } } { \bf { \Psi \Psi } } _ { \bf { \Psi \Psi } } _ { \bf { \Psi \Psi } } _ { \bf { \Psi \Psi } } _ { \bf { \Psi \Psi } } _ { \bf { \Psi \Psi } } _  \bf { \Psi \Psi } _ { \bf { \Psi } } _ { \bf { \Psi \Psi } } _ { \bf } { \Psi \Psi } _ { \bf } { \Psi \Psi } _ { \Psi \Psi } _ { \Psi \Psi } _ { \Psi } _ { \bf \Psi } { \Psi } _ { \Psi \Psi } _ { \Psi \Psi } _ { \Psi \Psi } _ { \Psi \Psi } _  \Psi { \Psi \Psi } { \Psi } _ { \Psi \Psi } { \Psi } _ { \Psi \Psi } _ { \Psi } { \Psi \Psi } _  \Psi \Psi { \Psi } { \Psi } \Psi { \Psi } _ { \Psi } { \Psi \Psi } { \Psi } { \Psi \Psi } _  \Psi \Psi { \Psi } { \Psi } { \Psi \Psi } { \Psi \Psi } { \Psi }  \Psi \Psi { \Psi } \Psi { \Psi } { \Psi \Psi } { \Psi } { \Psi \Psi }  \Psi \Psi { \Psi } { \Psi \Psi } { \Psi \Psi }  \Psi \Psi { \Psi } { \Psi } \Psi { \Psi \Psi }  \Psi \Psi { \Psi } \Psi { } \Psi { \Psi } \Psi { \Psi \Psi }  \Psi \Psi { } \Psi \Psi { \Psi } { \Psi \Psi } { \Psi \Psi \Psi \Psi }  \Psi { } \Psi \Psi { \Psi } { \Psi \Psi \Psi }  \Psi { \Psi } \Psi  \Psi \Psi \Psi \Psi { } \Psi { \Psi \Psi } { \Psi }  $ 表示所有观测值的平均值， $; a _ { i }$ 表示不同分子质量壳聚糖第 $i$ 水平的处理效果( $\scriptstyle \dot { \boldsymbol { i = 1 } }$ ，2，3)； $\beta _ { j }$ 表示不同浓度壳聚糖第 $j$ 水平的处理效果 $( j = 1$ ，2，3)； $\varepsilon _ { i j }$ 表示随机误差。
+
+2结果与分析
+
+2.1壳聚糖对发酵液 $\mathfrak { p H }$ 、 $\mathrm { N H } _ { 3 }$ -N 浓度及干物质消化率的影响
+
+由表4可知，除浓度为 $1 . 6 \%$ 、分子质量为 ${ 1 0 0 0 \mathrm { u } }$ 的壳聚糖组，其余壳聚糖组的发酵液$\mathsf { p H }$ 均显著低于对照组（ $( P { < } 0 . 0 5 )$ 。所有壳聚糖组 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 的浓度均显著低于对照组（ $. P { < } 0 . 0 5 )$ ，而且浓度为 $0 . 4 \%$ 的壳聚糖组随着添加壳聚糖的分子质量的上升， $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度显著降低中 $. P { < } 0 . 0 5 )$ )。所有壳聚糖组的干物质消化率与对照组均无显著差异（ $_ { \cdot P > 0 . 0 5 ) }$ 。
+
+# 表4壳聚糖对发酵液 $\mathfrak { p H }$ 、 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度及干物质消化率的影响
+
+Table 4Effects of chitosan on pH, $\mathrm { N H } _ { 3 }$ -N concentration and dry matter digestibility of   
+
+<html><body><table><tr><td colspan="5">103 fermentation liquor</td></tr><tr><td colspan="4">氨态氮</td><td>干物质消化率 Dry matter</td></tr><tr><td colspan="2">项目Items</td><td>pH</td><td>NH3-N/(mg/dL)</td><td>digestibility/%</td></tr><tr><td colspan="2"></td><td></td><td></td><td></td></tr><tr><td>浓度Concentration/% 0</td><td>分子质量 Molecular weight/u</td><td>6.73a</td><td>21.96a</td><td>0.35a</td></tr><tr><td rowspan="3">0.4</td><td>0</td><td>6.68b</td><td>20.48b</td><td>0.36a</td></tr><tr><td>1000</td><td></td><td>18.38c</td><td></td></tr><tr><td>3000</td><td>6.69b 6.68b</td><td>18.01c</td><td>0.35a 0.34a</td></tr><tr><td rowspan="3">0.8</td><td>50000</td><td>6.70b</td><td>20.22b</td><td>0.31ab</td></tr><tr><td>1000 3000</td><td>6.69b</td><td>20.13b</td><td>0.34a</td></tr><tr><td>50 000</td><td>6.73b</td><td>19.09bc</td><td>0.30ab</td></tr><tr><td rowspan="3">1.6</td><td>1000</td><td>6.71ab</td><td>17.50c</td><td>0.31a</td></tr><tr><td>3 000</td><td>6.69b</td><td>17.15cd</td><td>0.32a</td></tr><tr><td>50000</td><td>6.69b</td><td>18.57c</td><td>0.32a</td></tr><tr><td>SEM</td><td></td><td>0.032</td><td>2.012</td><td>0.046</td></tr><tr><td>P值 P-value</td><td></td><td></td><td></td><td></td></tr><tr><td>浓度Concentration</td><td></td><td>0.015</td><td><0.000 1</td><td>0.077</td></tr><tr><td>分子质量Molecularweight</td><td></td><td>0.234</td><td><0.000 1</td><td>0.327</td></tr><tr><td>浓度×分子质量 ConcentrationXmolecular weight</td><td></td><td>0.077</td><td>0.011</td><td>0.252</td></tr></table></body></html>
+
+同列数据肩标无字母或相同字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ 。下表同。
+
+In the same column,values with no letter or the same letter superscripts mean no significant difference （204 $( P { > } 0 . 0 5 )$ ,while with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ . The same as below.
+
+# 2.2壳聚糖对体外产气量变化的影响
+
+由表5可知，除浓度为 $0 . 8 \%$ 、分子质量为 $5 0 0 0 0 { \mathrm { u } }$ 的壳聚糖组外，其余壳聚糖组的总产气量显著高于对照组（ $P { < } 0 . 0 5 \$ )，浓度为 $0 . 8 \%$ 的壳聚糖组和浓度为 $1 . 6 \%$ 的壳聚糖组，随
+
+着添加壳聚糖分子质量的上升，总产气量显著下降（ $. P { < } 0 . 0 5 )$ 。所有壳聚糖组产生 $\mathrm { H } _ { 2 }$ 体积与对照组均无显著差异（ $\scriptstyle \cdot > 0 . 0 5 .$ )。与对照组相比，所有壳聚糖组产生 $\mathrm { C H } _ { 4 }$ 的体积均无显著差异（ $\scriptstyle P > 0 . 0 5 { \mathrm { . } }$ )，其中分子质量为 $5 0 0 0 0 { \mathrm { u } }$ 的壳聚糖组产生 $\mathrm { C H } _ { 4 }$ 的体积有降低趋势（ ${ \scriptstyle \cdot } P { < } 0 . 1 0 { \scriptstyle ) }$ 。
+
+# 表5壳聚糖对体外发酵产气量、 $\mathrm { C H } _ { 4 }$ 及 $\mathrm { H } _ { 2 }$ 体积的影响
+
+Table 5Effects of chitosan on gas production, $\mathrm { C H } _ { 4 }$ and $\mathrm { H } _ { 2 }$ volume of in vitro fermentation   
+
+<html><body><table><tr><td colspan="5">118</td></tr><tr><td colspan="2"></td><td>总产气量</td><td>氢气体积</td><td>甲烷体积</td></tr><tr><td colspan="2">项目</td><td>Total gas</td><td>H2 volume</td><td>CH4 volume</td></tr><tr><td colspan="2">Items</td><td>production</td><td></td><td></td></tr><tr><td>浓度 Concentration/%</td><td>分子质量 Molecular weight/u</td><td></td><td></td><td></td></tr><tr><td>0</td><td>0</td><td>82.39c</td><td>0.09</td><td>8.57ab</td></tr><tr><td></td><td>1000</td><td>92.78a</td><td>0.08</td><td>9.51a</td></tr><tr><td>0.4</td><td>3 000</td><td>97.00a</td><td>0.09</td><td>9.06a</td></tr><tr><td></td><td>50000</td><td>90.22b</td><td>0.10</td><td>7.77b</td></tr><tr><td></td><td>1000</td><td>92.11a</td><td>0.12</td><td>8.05a</td></tr><tr><td>0.8</td><td></td><td>87.61b</td><td>0.11</td><td>8.37a</td></tr><tr><td></td><td>3 000</td><td>80.11°</td><td>0.10</td><td>6.78b</td></tr><tr><td></td><td>50 000</td><td>93.00a</td><td></td><td></td></tr><tr><td>1.6</td><td>1000</td><td></td><td>0.10</td><td>8.55a</td></tr><tr><td></td><td>3000</td><td>90.89a</td><td>0.09</td><td>8.56a</td></tr><tr><td>SEM</td><td>50000</td><td>88.33b</td><td>0.10</td><td>7.76b</td></tr><tr><td></td><td></td><td>9.880</td><td>1.778</td><td>0.028</td></tr><tr><td>P值P-value</td><td></td><td></td><td></td><td></td></tr><tr><td>浓度Concentration</td><td></td><td>0.028</td><td>0.583</td><td>0.160</td></tr><tr><td>分子质量 Molecular weight</td><td></td><td>0.603</td><td>0.826</td><td>0.093</td></tr><tr><td>浓度×分子质量 Concentration×molecular weight</td><td></td><td>0.454</td><td>0.656</td><td>0.541</td></tr></table></body></html>
+
+# 2.3壳聚糖对发酵液VFA浓度的影响
+
+由表6可知，浓度为 $0 . 4 \%$ 、分子质量为 ${ 1 0 0 0 \mathrm { u } }$ 的壳聚糖组总挥发性脂肪酸（TVFA）浓度与对照组相比显著下降（ $_ { . P < 0 . 0 5 ) }$ ，其余各壳聚糖组与对照组差异均不显著（ $\cdot P { > } 0 . 0 5 )$ 。浓度为 $0 . 4 \%$ 的壳聚糖组的TVFA浓度随着添加壳聚糖分子质量的上升而显著升高( $_ { . P < 0 . 0 5 ) }$ 。所有壳聚糖组的乙酸、异丁酸、丁酸、异戊酸和戊酸浓度与对照组相比均无显著性差异$_ { \cdot P > 0 . 0 5 ) }$ 。而壳聚糖组的丙酸浓度均显著高于对照组（ $_ { , P < 0 . 0 5 ) }$ ，且随着添加壳聚糖分子质量的提高，浓度为 $0 . 4 \%$ 、 $0 . 8 \%$ 的壳聚糖组的丙酸浓度均显著升高（ $\cdot P { < } 0 . 0 5 \rangle$ 。所有壳聚糖组的乙酸/丙酸与对照组相比均显著降低 （ $P { < } 0 . 0 5 )$ ，各壳聚糖组之间差异不显著（ $. P { > } 0 . 0 5 )$ 。
+
+# 表6壳聚糖对发酵液VFA浓度的影响
+
+Table 6Effects of chitosan on concentration of VFA of fermentation liquor   
+
+<html><body><table><tr><td colspan="2"></td><td rowspan="2">乙酸</td><td rowspan="2">丙酸 Propionic acid/%</td><td rowspan="2">异丁酸 Isobutyric acid/%</td><td rowspan="2">丁酸 Butyric acid/%</td><td rowspan="2">异戊酸 Isovaleric acid/%</td><td rowspan="2">戊酸</td><td colspan="2">乙酸/丙酸 Acetic acid 总挥发性脂</td></tr><tr><td>项目</td><td>Acetic acid/%</td><td>Valeric acid/%</td><td>/propionic TVFA/(mm</td></tr><tr><td>Items</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>acid</td><td></td></tr><tr><td></td><td>分子质量 Molecular</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>浓度 Concentration/%</td><td>weight/u</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>0 0</td><td></td><td>40.79</td><td>13.11c</td><td>0.34</td><td>7.51</td><td>0.47</td><td>0.59</td><td>3.16a</td><td>63.23</td></tr><tr><td></td><td>1000</td><td>42.76</td><td>15.55b</td><td>0.37</td><td>7.56</td><td>0.54</td><td>0.64</td><td>2.75b</td><td>52.98</td></tr><tr><td>1</td><td>3000</td><td>42.02</td><td>15.56b</td><td>0.37</td><td>7.32</td><td>0.55</td><td>0.64</td><td>2.70b</td><td>59.04a</td></tr><tr><td></td><td>50 000</td><td>41.91</td><td>16.06a</td><td>0.33</td><td>7.34</td><td>0.47</td><td>0.62</td><td>2.61b</td><td>66.19</td></tr><tr><td></td><td>1000</td><td>42.62</td><td>13.93b</td><td>0.36</td><td>7.52</td><td>0.54</td><td>0.62</td><td>2.75b</td><td>67.15</td></tr><tr><td>0.8</td><td>3 000</td><td>41.07</td><td>15.13a</td><td>0.35</td><td>7.06</td><td>0.52</td><td>0.60</td><td>2.71b</td><td>64.74</td></tr><tr><td></td><td>50 000</td><td>40.00</td><td>15.50a</td><td>0.32</td><td>7.16</td><td>0.47</td><td>0.58</td><td>2.88b</td><td>62.46</td></tr><tr><td></td><td>1000</td><td>42.02</td><td>15.32a</td><td>0.35</td><td>7.24</td><td>0.53</td><td>0.60</td><td>2.74b</td><td>66.07</td></tr><tr><td></td><td>3 000</td><td>41.28</td><td>15.41a</td><td>0.34</td><td>7.06</td><td>0.50</td><td>0.60</td><td>2.68b</td><td>65.19</td></tr><tr><td></td><td>50 000</td><td>42.02</td><td>15.56a</td><td>0.34</td><td>7.32</td><td>0.48</td><td>0.59</td><td>2.70b</td><td></td></tr><tr><td>SEM</td><td></td><td>3.095</td><td>1.384</td><td>0.099</td><td>0.885</td><td>0.180</td><td>0.088</td><td></td><td>66.30</td></tr><tr><td>P值 P-value</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.180</td><td>2.484</td></tr><tr><td></td><td></td><td>0.416</td><td>0.028</td><td>0.789</td><td>0.516</td><td>0.794</td><td>0.897</td><td></td><td></td></tr><tr><td>浓度Concentation</td><td></td><td></td><td></td><td></td><td>0.683</td><td></td><td></td><td>0.022</td><td>0.031</td></tr><tr><td>分子质量 Molecular weight</td><td></td><td>0.572</td><td>0.041</td><td>0.941</td><td></td><td>0.990</td><td>0.380</td><td>0.094</td><td>0.076</td></tr><tr><td>浓度X分子质量 Concentration X moleular weight</td><td></td><td>0.792</td><td>0.202</td><td>0.991</td><td>0.989</td><td>0.999</td><td>0.986</td><td>0.037</td><td>0.303</td></tr></table></body></html>
+
+130 3讨论
+
+3.1壳聚糖对发酵液 $\mathfrak { p H }$ 、 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度及干物质消化率影响
+
+本试验研究结果表明，壳聚糖可以显著降低发酵液的pH，但均在正常值范围之内。pH是衡量反刍动物瘤胃发酵的一个重要指标，保持pH在一个正常的范围内是保证瘤胃正常发酵的前提[17]。据报道，在体外发酵系统中，影响发酵液pH的主要因素是内碱性物质（如$\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ ）和有机酸的产生[18]。本试验中pH降低可能是由于 $\mathrm { N H } _ { 3 } { \cdot } \mathrm { N }$ 的浓度显著降低造成的。瘤胃液中的 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度是瘤胄内环境参数的一个重要指标，反映了瘤胃内微生物氮的供应状况。本研究发现，壳聚糖可以显著降低瘤胃发酵液的 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度。与任海军[19]和田雨佳等[20]的研究结果有所不同。这可能是他们所选用的壳聚糖浓度及分子质量与本试验不同造成的。李朝云[21的研究结果与本试验结果相同，即添加壳聚糖能够显著降低瘤胃液 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度。 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度的降低可能说明了瘤胃菌群结构有所变化。
+
+# 3.2壳聚糖对发酵液产气量、 $\mathrm { C H } _ { 4 }$ 和 $\mathrm { H } _ { 2 }$ 体积的影响
+
+本试验中，除浓度为 $0 . 8 \%$ 、分子质量为 $5 0 0 0 0 { \mathrm { u } }$ 的壳聚糖组外，其余壳聚糖组的总产气量显著高于对照组，且不影响干物质消化率。有报道称，体外培养时产气量越高，说明饲料在瘤胃内的发酵活动越剧烈[22]。本研究发现添加壳聚糖有利于饲料在瘤胃内的发酵。这与Goiri 等[23]的研究结果不同。这可能是由于所选择的壳聚糖不同造成的，本试验所选择的小分子质量壳聚糖与3种浓度更有利于饲料在瘤胃中的发酵。
+
+本试验中，浓度为 $1 . 6 \%$ 、分子质量为 $5 0 0 0 0 { \mathrm { u } }$ 的壳聚糖组及浓度为 $0 . 8 \%$ 、分子质量为$5 0 0 0 0 { \mathrm { u } }$ 的壳聚糖组瘤胃发酵液的 $\mathrm { C H } _ { 4 }$ 产量有降低趋势。根据瘤胃 $\mathrm { C H } _ { 4 }$ 及VFA生成机制[24],在瘤胃内生成丙酸，可以竞争性消耗 $\mathrm { H } _ { 2 }$ ，从而有效地抑制 $\mathrm { C H } _ { 4 }$ 形成。虽然本研究结果显示生成 $\mathrm { H } _ { 2 }$ 的体积无显著变化，但 $\mathrm { H } _ { 2 }$ 很可能处于一种动态平衡的状态。本试验研究结果表明，添加壳聚糖能使丙酸浓度显著升高，因此浓度为 $1 . 6 \%$ 、分子质量为 $5 0 0 0 0 { \mathrm { u } }$ 的壳聚糖组及浓度为 $0 . 8 \%$ 、分子质量为 $5 0 0 0 0 { \mathrm { u } }$ 的壳聚糖组 $\mathrm { C H } _ { 4 }$ 体积有降低趋势的原因很可能是因为生成丙酸，竞争性结合 $\mathrm { H } _ { 2 }$ 导致的。
+
+# 3.3壳聚糖对发酵液VFA浓度的影响
+
+VFA 的主要作用是为动物生产提供能量以及维持瘤胃环境[25]。根据本试验结果，添加壳聚糖可显著提高瘤胃发酵液的丙酸浓度，显著降低乙酸/丙酸，虽然乙酸浓度没有显著变化，但仍可以认为壳聚糖可以改变瘤胃发酵模式，使瘤胃的发酵类型由乙酸型发酵向丙酸型发酵过渡，这是目前饲料添加剂抑制反刍动物瘤胃 $\mathrm { C H } _ { 4 }$ 生成的主要机理之一[26]。
+
+本试验结果显示，壳聚糖可以使发酵液的丙酸浓度升高，进而促使乙酸/丙酸降低，改变瘤胃发酵模式，推测与壳聚糖的抗菌作用密不可分。有报道称，壳聚糖的主要抗菌作用模式是由于壳聚糖聚阳离子，会吸引微生物表面上的负电荷，从而引起细胞渗透性变化。这些静电相互作用，促进微生物细胞壁中肽聚糖的水解，并最终促使细胞裂解[27]。由于肽聚糖层在革兰氏阳性细菌中比在革兰阴性细菌中更多，因此，壳聚糖的抗菌作用对革兰氏阳性细菌更为显著[28]。壳聚糖对革兰氏阳性细菌的抗菌作用更明显，瘤胃中主要发酵产物为乙酸的厚壁菌门就是革兰氏阳性菌，而主要产物为丙酸的拟杆菌门和变形杆菌门都是革兰氏阴性细菌[29]。从这个角度可以得出，由于壳聚糖对革兰氏阳性细菌的抗菌作用，导致了产乙酸菌的菌群丰度下降，产丙酸菌的菌群丰度上升[30]，从而进一步导致了发酵液各VFA浓度的改变，最终使瘤胃发酵模式发生改变。但壳聚糖具体是如何作用于瘤胃菌群的，还需要进一步的试验研究证明。本试验的研究结果与Belanche等[30]以及任海军等[31]的体外发酵研究结果基本一致。
+
+本试验结果显示壳聚糖对体外发酵液的乙酸浓度无影响，然而在Belanche 等[30]的研究结果中，壳聚糖还能够使发酵液的乙酸浓度显著降低，研究结果不同可能是由于所选壳聚糖分子质量不同，本试验使用的3种不同分子质量的壳聚糖均属于低分子质量壳聚糖，分子质量过小可能不足以使乙酸浓度降低。具体原因还需进一步验证。此外，本研究中，浓度为 $1 . 6 \%$ 、分子质量为 $5 0 0 0 0 { \mathrm { u } }$ 的壳聚糖组及浓度为 $0 . 8 \%$ 、分子质量为 $5 0 0 0 0 { \mathrm { u } }$ 的壳聚糖组的添加效果最好。这2个组不但与其他组别一样显著提高了发酵液的丙酸浓度，显著降低了乙酸/丙酸，还能够使发酵液所生产的 $\mathrm { C H } _ { 4 }$ 体积有降低趋势，但是浓度 $0 . 8 \%$ 、分子质量 $5 0 0 0 0 { \mathrm { u } }$ 的壳聚糖组有使干物质消化率下降的趋势，因此，浓度为$1 . 6 \%$ 、分子质量为 $5 0 0 0 0 { \mathrm { u } }$ 的壳聚糖最为适宜。
+
+4结论
+
+$\textcircled{1}$ 与对照组相比，添加壳聚糖可以显著降低瘤胃发酵液 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度，显著增加发酵液的丙酸浓度，显著降低乙酸/丙酸，促进瘤胃发酵模式的改变。  
+$\textcircled{2}$ 与对照组相比，浓度为 $1 . 6 \%$ 、分子质量为 $5 0 0 0 0 { \mathrm { u } }$ 的壳聚糖组及浓度为 $0 . 8 \%$ 、分子质量为 $5 0 0 0 0 { \mathrm { u } }$ 的壳聚糖组发酵液 $\mathrm { C H } _ { 4 }$ 体积有降低趋势。  
+$\textcircled{3}$ 添加浓度为 $1 . 6 \%$ 、分子质量为 $5 0 0 0 0 { \mathrm { u } }$ 的壳聚糖对瘤胃发酵参数的影响和抑制甲烷产生效果最为显著。
+
+# 参考文献:
+
+[1] KNAPP J R,LAUR G L,VADAS P A,et al.Invited review:enteric methane in dairy cattle production:quantifying the opportunities and impact of reducing emissions[J].Journal of Dairy Science,2014,97(6):3231-3261.
+
+[2]YUSUF R O,NOOR Z Z,ABBA A H,et al.Methane emission by sectors:a comprehensive review ofemissionsourcesand mitigationmethods[J].Renewableand SustainableEnergy Reviews,2012,16(7):5059-5070.   
+[3]SOLIVA C R,AMELCHANKA S L,DUVAL S M,et al.Ruminal methane inhibition potential of various pure compounds in comparison with garlic oil as determined with a rumen simulation technique (Rusitec)[J].British Journal of Nutrition,2011,106(1):114-122.   
+[4]GERBER P J,HRISTOV A N,HENDERSON B,et al.Technical options for the mitigation of direct methane and nitrous oxide emissions from livestock:a review[J].Animal,2013,7(Suppl.2):220-234.   
+[5]MUSTAPHA N A,SAKAI K,SHIRAI Y,et al.Impact of different antibiotics on methane productionusingwaste-activatedsludge:mechanismsandmicrobialcommunity dynamics[J].Applied Microbiology and Biotechnology,2016,100(21):9355-9364.   
+[6] WALL E,SIMM G,MORAN D.Developing breeding schemes to assist mitigation of greenhouse gas emissions[J].Animal,2010,4(3):366-376.   
+[7]KIM E T,KIM C H,MIN K S,et al.Efcts of plant extracts on microbial population,methane emission and ruminal fermentation characteristics in in vitro[J].Asian-Australasian Journal of Animal Sciences,2012,25(6):806-811.   
+[8]WINA E,MUETZEL S,BECKER K.The impact of saponins or saponin-containing plant materials onruminantproduction-areview[J].JournalofAgricultural and Food Chemistry,2005,53(21):8093-8105.   
+[9]韩德承.人体的第六生命要素——壳寡糖[J].祝您健康,2013(11):36-37.   
+[10]李朝云,杨昕涧,孙菲菲,等.不同精粗比日粮中添加壳聚糖对奶山羊瘤胃发酵、甲烷产生及微 生物区系的影响[C]//中国畜牧兽医学会动物营养学分会第七届中国饲料营养学术研讨会 论文集.郑州:中国畜牧兽医学会动物营养学分会,2014.   
+[11] HENRY,DARREN D.Effects of feeding a natural biopolymer (Chitosan) on methane emissions and performance in beef cattle[J].2013.   
+[12]冯仰廉,周建民,张晓明,等.我国奶牛饲料产奶净能值测算方法的研究[C]//第三届全国反刍
+
+动物营养学术研讨会论文集.北京：中国畜牧兽医学会,2011.
+
+[13] MENKE K H,RAAB L,SALEWSKI A,et al.The estimation of the digestibility and metabolizable energy content of ruminant feedingstus from the gas production when they are incubated with rumen liquor in vitro[J].Journal of Agricultural Science,1979,93(1):217-222.
+
+[14] TILLEY J M A,TERRY R A.A two-stage technique for the in vitro digestion of forage crops[J].Grass and Forage Science,1963,18(2):104-111.
+
+[15]戈婷婷.不同组合的功能性寡糖对锦江黄牛瘤胃体外发酵的影响[D].硕士学位论文.南昌:江西农业大学,2011.
+
+[16]CZERKAWSKI J W.Chemical composition of microbial mater in the rumen[J].Journal of the Science of Food and Agriculture,1976,27(7):621-632.
+
+[17]韩昊奇,刘大程,高民,等.不同NFC/NDF比对奶山羊瘤胃微生物及瘤胃pH值变化的影响[J].畜牧与饲料科学,2011,32(9/10):54-58.
+
+[18]唐志文,蒋林树,杨亮,等.金银花提取物对瘤胃体外发酵参数及产气量的影响[J].动物营养学 报,2018,30(2):790-796.
+
+[19]任海军.壳聚糖对奶牛产奶性能和免疫功能影响的研究[D].硕士学位论文.呼和浩特:内蒙古农业大学,2008.
+
+[20]田雨佳,闫素梅,任海军,等.壳聚糖在奶牛瘤胃中的降解率及其对瘤胃发酵的影响[J].中国畜牧杂志,2011,47(19):53-56.
+
+[21] 李朝云.壳聚糖与纤维素酶对瘤胃发酵、甲烷产生及微生物区系的影响[D].博士学位论文.咸阳：西北农林科技大学,2014.
+
+[22] MCGINN S M,BEAUCHEMIN K A,COATES T,et al.Methane emissions from beef cattle:efects of monensin,sunflower oil,enzymes,yeast,and fumaric acid[J].Journal of Animal Science,2004,82(11):3346-3356.
+
+[23] GOIRI I,GARCIA-RODRIGUEZ A,OREGUI L M.Effect of chitosan on mixed ruminal microorganism fermentation using the rumen simulation technique (Rusitec)[J].Animal Feed Science and Technology,2009,152(1/2):92-102.
+
+[24]WHITELAW F G,EADIE JM,BRUCE L A,et al.Methane formation in faunated and ciliate-free
+
+cattle and its relationship with rumen volatile fatty acid proportions[J].British Journal of Nutrition,1984,52(2):261-275.   
+[25]冯仰廉.反刍动物营养学[M].北京:科学出版社,2004.   
+[26] 苑忠央,杨维仁.反刍动物瘤胃甲烷排放、测定及减排技术的研究进展[J].饲料与畜 牧,2016(10):40-45.   
+[27]KONG M,CHEN X G,XING K,et al.Antimicrobial properties of chitosan and mode of action:a state of the art review[J].International Journal ofFood Microbiology,2010,144(1):51-63.   
+[28] 陈娟.壳聚糖抗菌性的研究进展[J].烟台南山学院学报,2017(1):56-58.   
+[29] HENDERSON G,COX F,GANESH S,et al.Rumen microbial community composition varies with diet and host,but a core microbiome is found across a wide geographical range[J].Scientific Reports,2015,5:14567.   
+[30]BELANCHE A,PINLOCHE E,PRESKETT D,et al.Effects and mode of action of chitosan and ivy fruit saponins on the microbiome,fermentation and methanogenesis in the rumen simulation technique[J].FEMS Microbiology Ecology,2016,92(1):fiv160.   
+[31] 任海军,闫素梅,邬亚青,等.壳聚糖在奶牛瘤胃内的降解及其对奶牛瘤胃体外发酵特性和产 奶性能的影响[C]//中国畜牧兽医学会动物营养学分会第十次学术研讨会论文集.杭州：中 国畜牧兽医学会动物营养学分会,2008.
+
+Effects of Different Molecular Weights and Different Concentrations of Chitosan on Rumen in Vitro Fermentation Parameters and Methane Emission in Dairy Cows
+
+ZHANG Jie1TONG Jinjin1 ZHANG Hual YANG DelianlSUN Mingwei1JIANG Linshul\* XIONG Benhai2\*
+
+(1. Key Laboratory for Dairy Cow Nutrition of Beijing， College of Animal Science and
+
+Technology， Beijing University ofAgriculture， Beijing 102206， China； 2. Institute of Animal
+
+Abstract： The purpose of this study was to investigate the effects of chitosan with different molecular weights and different concentrations on the ruminal fermentation parameters and methane emisson of dairy cows. Three healthy Holstein cows with good health status and permanent rumen fistulas were used as experimental animals for the collection of rumen fluid. The chitosan with three different molecular weights of 1 Ooo,3 Ooo and $5 0 0 0 0 { \mathrm { u } }$ were selected for the trial,and each molecular weight of chitosan was added to the substrate at the concentration of $0 . 4 \%$ ， $0 . 8 \%$ and $1 . 6 \%$ of the substrate, respectively. A total of nine experimental groups and 1 control group were set up with four replicates in each group and three batches were repeated. After $2 4 \mathrm { ~ h ~ }$ of in vitro fermentation， gas production, methane production and rumen fermentation parameters were determined. The results showed that compared with the control group，the addition of chitosan significantly reduced the ammonia nitrogen concentration in the rumen fermentation liquor $( P { < } 0 . 0 5 )$ ， significantly increased the propionic acid concentration $( P { < } 0 . 0 5 )$ ， and significantly decreased the acetate/propionic acid $( P { < } 0 . 0 5 )$ ，which promoted changes in the rumen fermentation mode.The chitosan with a concentration of $1 . 6 \%$ , a molecular weight of 50 $0 0 0 { \mathrm { u } }$ and a concentration of $0 . 8 \%$ ,a molecular weight of $5 0 0 0 0 \mathrm { ~ u ~ }$ reduced the $\mathrm { C H } _ { 4 }$ production in the fermentation liquor without affecting the dry matter digestibility $( P { < } 0 . 1 0 )$ . In summary, the addition of chitosan can effectively regulate the rumen microbial fermentation state under in vitro conditions. Overall consideration, the chitosan with a concentration of $0 . 6 \%$ and a molecular weight of $5 0 0 0 0 { \mathrm { u } }$ is most suitable.   
+Key words: chitosan; rumen fermentation in vitro; dairy cow

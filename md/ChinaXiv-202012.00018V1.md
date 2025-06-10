@@ -1,0 +1,291 @@
+# 阅读进度反馈信息对工作同盟和咨询效果的影响
+
+孙启武"吴才智1于丽霞"王巍欣沈国成4
+
+( 华中师范大学心理学院，青少年网络心理与行为教育部重点实验室，武汉 430079)
+
+（人的发展与心理健康湖北省重点实验室，武汉430079）
+
+（华中师范大学大学生心理健康教育中心，武汉430079)
+
+# 摘要
+
+进度反馈指将对当事人的标准化测量结果和解释反馈给咨询师的干预，其目的在于矫正咨询师对咨询效果主观评估的偏差，提高咨询效果。考虑到咨询师和当事人“面对面”的标准反馈程序不符合我国社会文化习惯，采用多层结构方程模型，分析了自然情境下非“面对面”的进度反馈对工作同盟和咨询效果的影响。结果发现，在组间水平，反馈组的工作同盟质量更好；在组内水平，工作同盟与症状是相互预测的关系。在结案时，反馈组在抑郁症状和咨询的有帮助性上效果更好。结论是进度反馈对工作同盟和咨询效果有积极影响。研究从工作同盟和中国人的关系角度拓展了对进度反馈作用机制的认识，为进度反馈的应用提供了基于实践干预有效的证据。
+
+关键词：进度反馈，工作同盟，咨询效果，多层结构方程模型
+
+# 阅读进度反馈信息对工作同盟和咨询效果的影响
+
+孙启武吴才智于丽霞"王巍欣沈国成a
+
+(华中师范大学心理学院，青少年网络心理与行为教育部重点实验室，武汉 430079)
+
+（人的发展与心理健康湖北省重点实验室，武汉430079）
+
+（华中师范大学大学生心理健康教育中心，武汉430079)
+
+# 1前言
+
+进度反馈（progress feedback）指对咨询效果（通常是每次咨询）进行连续、系统、标准化的测量，然后将测量结果和解释提供给咨询师的过程(Wampold,2015)。Howard 等人(1996)首次进行了进度反馈的研究，试图通过标准化的测量和评估，让咨询师及时了解当事人咨询效果的进展情况。在此后的二十年，人们对进度反馈干预的兴趣逐渐增加，但多数研究主要着力于其干预效果，而对进度反馈为什么会产生作用，在什么条件下会产生作用的探讨则明显不够。鉴于进度反馈在咨询领域可能的广泛应用前景（督导、新手训练、改善咨询效果、及时发现恶化和未能取得如期进展的当事人等)，有必要进一步研究进度反馈的作用，作用条件及作用路径。
+
+# 1.1进度反馈干预的效果
+
+在 Howard等人（1996）之后，进度反馈研究的进展主要体现在以下几个方面：首先，研究者成功地简化了进度反馈的测量工具，因为评估当事人改变的传统方法往往题目较多，每次咨询都进行测量增加了当事人负担，很难让当事人有兴趣每次都认真作答；其次，拓展进度反馈干预的应用范围，例如从个别咨询拓展到团体咨询、家庭治疗，从具有心理困扰的当事人拓展到具有严重心理障碍的患者等；第三，进度反馈干预是发现未能如期取得进展以及恶化的当事人的有效手段，可改善这些当事人的咨询效果；第四，持续的、具体的进度反馈对提高咨询效果具有小到中等的效用量(Boswellet al., 2015)。
+
+最近的一项对使用效果管理助手系统（PCOMS）进行反馈干预的元分析表明，进度反馈对不那么严重的当事人有小到中等的效用量，而对精神障碍患者没有效果(Ostergard&Randa,2020)；另外一项元分析也发现，若采用非 PCOMS 本身衡量效果的工具，PCOMS 的反馈干预没有效果(Pejtersen et al.,2020)。有研究发现进度反馈对较为严重的当事人有消极作用(Errazuriz& Zilcha-Mano,2018)。她们的解释是，一直反馈消极的信息会打击咨询师和当事人的信心，从而带来消极的结果。确实，支持进度反馈积极作用的研究，多数都是在相对不那么严重的群体中进行的（例如，大学生咨询中心）(Ostergard etal.,2020)。此外，进度反馈实施的具体条件也影响了进度反馈的效用，其中包括是否能遵守进度反馈的程序、反馈的内容和要素，对未能如期进展的当事人，向咨询师提供了何种帮助以及某些文化情境因素的影响等(Lambert &Harmon, 2018)。
+
+# 1.2进度反馈干预作用的认知过程
+
+研究者从认知过程角度提出了进度反馈的作用机制：首先，反馈干预信息若与咨询师的自我评价不一致，会引起咨询师的认知失调，从而促进咨询师努力缩小二者的不一致(Riemer&Bickman,2011)。其次，咨询师和普通人一样容易犯“基本归因错误”，即当咨询如期取得进展时，归因为自身能力；而当咨询未能如期取得进展时，归因为外部因素（例如，当事人较为“严重")。咨询师还倾向于高估咨询效果。反馈干预信息可以纠正咨询师的这些盲区，从而提高咨询功效(Macdonald& Mellor-Clark,2015)。因此，咨询师对进度反馈的态度是影响其效果的重要因素(de Jong et al.,2012)。这是因为只有咨询师对进度反馈持积极态度，他们才会重视进度反馈信息，从而有可能克服咨询师对咨询进程自我评价的偏差。
+
+# 1.3工作同盟理论的视角
+
+工作同盟指当事人和咨询师建立的一种合作性关系，咨询师和当事人形成某种结盟关系，以共同面对当事人遇到的困难（症状)、理解当事人内在经验（人格结构及人格动力）以及改变当事人某些病理性质的心理结构或行为。工作同盟的成分包括咨询“目标一任务”的一致性和在此过程中形成的当事人和咨询师的情感联结(Bordin,1994)。工作同盟是过程-效果研究的核心概念之一，元分析表明工作同盟与咨询效果之间呈稳定的正向关系(Fluckiger etal.,2018)。在此基础上，就工作同盟和治疗效果的关系，研究者试图回答以下两个重要问题：一是工作同盟与治疗效果的因果关系问题，二是在工作同盟与治疗效果关系中有哪些重要的调节变量。
+
+对前者而言，一些研究者认为工作同盟是治疗效果的一部分，是有效治疗的副产品(Barber,2009;DeRubeis etal.,2005)。通过重复测量（通常是每次会谈）症状和工作同盟，从而建立工作同盟变化和症状变化的时序关系。越来越多的证据表明好的工作同盟是症状变化的预测因子而不是症状缓解的副产品(Zilcha-Mano,2017)。对后者而言，研究者发现病人症状的严重程度(Errazuriz& Zilcha-Mano,2018; Zilcha-Mano &Errazuriz,2015)、病人治疗前建立关系的特点(Zack et al.,2015)以及病人-治疗师比率(Del Re et al.,2012)等都是重要的调节变量。
+
+过去的进度反馈往往会把工作同盟看作效果变量，随着症状的评估结果一同反馈给咨询师。最近，研究者开始探索进度反馈在工作同盟与治疗效果关系中的作用。进度反馈信息可以帮助咨询师调整他们的临床工作，发现当事人和咨询师之间目标-任务的不一致之处，促进合作性的工作关系(Moltu et al.,2018)。从这个意义上说，进度反馈可以提高工作同盟质量，修复工作同盟裂痕，进而影响工作同盟与治疗效果的关系(Eubanks et al.,2019;Miller et al.,2005)。最近有两项研究试图检验进度反馈在工作同盟与治疗效果关系中的作用(Brattland et al.,2019; Sun et al.,2020)。Brattland 等人在治疗中期测量了工作同盟，发现工作同盟是进度反馈发生作用的中介因素。但是她们没有收集每次会谈的数据，因此，无法排除在测量工作同盟时，症状是否也已经发生了变化。Sun的研究试图克服 Brattland 研究的不足，采用每次会谈的数据进行检测，但由于样本量较小，没有发现反馈组与对照组工作同盟和治疗效果关系的差异。
+
+# 1.4中国人的关系视角
+
+有证据表明中国人处理人际关系的方式（关系图式）对工作同盟和进度反馈都有影响。受传统儒家思想影响，中国人在家庭生活中倾向于孝顺父母、尊敬长辈、为维护家庭和睦而抑制自我需求。这种图式迁移至社会生活中，即表现为尊敬权威（上级)，维护同事间的和睦关系以及重视脸面(Chen&Chen,2004)。在这样的情形下，中国人倾向于采用间接沟通的方式表达不同意见。在咨询情境中，咨询师代表着权威；在学校情境中，当事人往往以老师称呼咨询师，而社会规范是期待学生表现出对权威和老师的尊敬(Hwang,2000)。因此，在咨询情境中，中国的咨询师需更加努力去发现当事人为表示尊敬而未表达的需求、愿望和不同的意见(Kuo et al.,2011)。
+
+将咨询师视为具有更多知识和经验的权威的倾向，也让我国当事人对咨询的期望表现出不同于欧美当事人的特点。例如，在中国当事人的眼里，他们所期待的工作同盟的任务之一就是听从咨询师对他们所遇困扰的教导(朱旭，江光荣,2011a)。中国的咨询师会认为指导对当事人有益；并且如果当事人接受这些指导，会通过增强工作同盟而影响咨询效果(Duan etal.,2015)。但是如此一来，却会影响当事人在咨询过程的投入度和他们自身所应承担的责任(朱旭，江光荣,2011a)。目前，我国的心理咨询实务建立在西方心理咨询与治疗理论的基础之上，而好的当事人能够善于表达、积极主动、对不同想法持开放态度等等特点，体现了西方心理咨询与治疗对好的当事人的期待。咨询师和当事人对咨询如何进行的这种不一致是一种具有文化烙印的先于咨询过程的工作同盟裂痕(Sun et al.,2020)
+
+在我国开展的首项进度反馈效果研究发现，中国咨询师不愿意按照西方进度反馈的标准程序，在咨询中与当事人“面对面”进行进度反馈的测量和讨论，他们更倾向于研究助理实施进度反馈测量并告知他们结果(She etal.,2018)。修正后的进度反馈可以作为当事人与咨询师不一致（工作同盟裂痕）的矫正工具，但不必面对面进行，从而维护了双方的面子（尊严)，维持了一种可以工作的和睦关系。咨询师倾向于向他们的督导师报告反馈信息，寻求指导和帮助，而不是和当事人讨论如何解决他们遇到的不同或冲突。这是一种间接的沟通方式。在此情形下，一个合理的推想就是进度反馈会改善中国当事人与咨询师的工作同盟关系，进而影响咨询效果。
+
+# 1.5研究假设
+
+基于以上讨论，本研究试图进一步检验进度反馈的作用，作用条件和作用路径。具体而言，试图回答以下三个问题：（1）在我国高校咨询中心日常例行工作中使用进度反馈的效果如何？本研究假设在高校咨询中心日常例行工作中使用进度反馈具有积极的效用。（2）咨询师使用进度反馈信息的行为和态度如何影响了进度反馈的效果？本研究假设是咨询师阅读进度反馈信息和咨询师对进度反馈的积极态度都对进度反馈的干预效果都具有积极效用。（3）进度反馈的作用路径是什么？本研究假设进度反馈会改善中国当事人与咨询师的工作同盟关系，进而影响咨询效果。
+
+# 2方法
+
+# 2.1研究程序
+
+本项目在华中师范大学大学生心理健康教育中心（以下简称为“咨询中心"）收集数据。项目由学校伦理委员会批准进行。数据收集时间是2018年9月到2019年1月。为服务更多有心理咨询需求的当事人，咨询中心规定每学期最多进行6次心理咨询。对那些经由咨询师申请，认为需要更多会谈次数的当事人，咨询中心则会增加他们的会谈次数。当事人与咨询师每周见面会谈一次，每次50分钟，不收费。
+
+咨询中心采取预约制。当事人首先在咨询中心填写预约登记表。除一些基本信息外，预约登记表还包括患者健康问卷（PHQ-9）(Kroenke et al.,2001；卞崔冬等,2009)和广泛性焦虑障碍问卷 GAD-7(Spitzer etal.,2006；何筱衍等,2010)以及参与本项目的知情同意。完成预约登记后，咨询中心会在二周内由外聘专科医院精神科医生对学生进行分诊评估，并根据评估结果给出就诊建议或安排咨询。当事人在每次会谈前完成常规临床咨询效果评估（CORE-OM）(Evans et al.,2002)，在每次会谈结束后完成工作同盟问卷（WAQ）(朱旭，江光荣,2011b)。在全部咨询结束后，当事人完成 PHQ-9、GAD-7和CORE-OM及咨询结束时的事后调查。
+
+在研究开始之前，咨询中心对咨询师进行了1个小时的培训，内容包括进度反馈的作用、进度反馈中使用的测量工具以及如何理解进度反馈信息等。在本研究的预调查中，约 $80 \%$ 的咨询师表示进度反馈会带来较大压力。为避免给咨询师带来过大压力，咨询中心鼓励咨询师积极使用但并不要求咨询师必须使用进度反馈信息。研究助理会在咨询会谈当日将评估结果通过邮件发送给咨询师，内容包括CORE-OM 和WAQ 的评估得分、分数解释、CORE-OM的分数变化、该变化是否为可靠性改变（reliable change index）以及分数变化的曲线图。数据收集结束后，中心再对咨询师进行有关进度反馈的事后调查。
+
+当事人的入组标准有：（1）经过分诊适合进行心理咨询的当事人，不包括需要药物治疗和住院治疗的当事人；（2）二次及以上会谈次数的当事人，不包括仅会谈一次的当事人；以及（3）在同一位咨询师处咨询的当事人，不包括先后在不同咨询师处咨询的当事人。共有 524名当事人预约了心理咨询，其中61人未安排咨询师（例如，建议就医、时间不合等)，18人拒绝参与本研究，91人为一次性会谈。二次及以上会谈当事人中，有4人先后在二位咨询师处咨询。根据事后调查确定咨询师是否阅读进度反馈信息，再来确定阅读进度反馈信息组和对照组（图1)。
+
+# 2.2研究参与者
+
+咨询师 共48位咨询师参与了本研究，其中男性11人，女性37人，14位是临床与咨询方向的硕士实习生，8位为咨询中心的专职教师，26位为中心聘任的兼职咨询师。咨询师的年龄在 24 岁到54岁之间(M$= 3 4 . 0 0 ; S D = 6 . 7 0 \$ ，临床经验在0.50年到20年之间 $( M = 5 . 5 0 ; S D = 3 . 5 0 )$ 。采用5点赖克特量表（ $1 =$ 一点也不； $5 =$ 完全），咨询师在四种咨询理论取向上进行自评。结果表明：人本、存在主义取向 $\scriptstyle { M = 3 . 0 0 }$ ，SD$= 0 . 5 0$ ，认知行为取向 $M = 2 . 2 5$ ， $S D = 0 . 4 0$ ；精神分析取向 $M = 3 . 2 3$ ， $S D = 0 . 8 6$ 和整合取向 $M = 3 . 7 2$ ， $\boldsymbol { S D }$ $= 0 . 5 3$ 。
+
+当事人最终纳入分析的当事人共350人（见图1)。其中，女性255人（ $7 2 . 9 0 \%$ )，男性95人。当事人年龄在18岁到33岁之间（ $M = 2 1 . 8 2$ ， $S D = 2 . 5 3 \$ )。当事人的求助问题包括学业问题、人际问题、情绪问题和家庭问题等。其中，有 $1 1 . 6 0 \%$ 的当事人报告有精神科就诊或治疗经历。
+
+![](images/7ac9056ceeb9a894273b8ab7caf3d3cd1c484aabe1d7b5a9a9043407c89c8b4c.jpg)  
+图1研究参与者入组和分析数据流程图
+
+2.3测量工具
+
+常规临床咨询效果评估表（CORE-OM）CORE-OM共34题，包括康乐、症状、社会功能和风险四个因子。当事人需根据过去一周内的整体情况在0-4赖克特量表上评分（ $0 =$ 完全没有， $1 =$ 偶尔有， $2 =$ 有时有， $3 =$ 经常有， $4 =$ 总是有)。CORE-OM有不同的版本。本研究首次会谈前采用34 题长版，以后的会谈采用用于进度反馈评估的10 题短版。本研究采用张亚等翻译的中文版(Zhang et al.,2020)。在本研究样本中，首次会谈前测量的CORE-OM与PHQ-9 的相关系数 $( r = 0 . 6 5 , p < 0 . 0 0 1 )$ 以及与GAD-7的相关系数为$( r = 0 . 5 9$ $p < 0 . 0 0 1$ )支持CORE-OM的同时效度。在本研究样本中，首次会谈前测量的CORE-OM的内部一致性信度为0.93。本研究使用CORE-OM的总分进行分析。
+
+工作同盟问卷（WAQ）WAQ包括投入、目标任务一致和情感联结三个因子，共12题。WAQ是朱旭等（2011b）在对中国当事人的质性研究的基础上发展出的工作同盟问卷。当事人在1-5分（ $1 =$ 很少，2$\mathbf { \Sigma } = \mathbf { \Sigma }$ 有时， $3 =$ 经常， $4 =$ 大部分时候， $5 =$ 总是）的赖克特量表上根据会谈情况进行评分。在本研究样本中，第一次会谈后测量的WAQ的内部一致性信度为0.87。本研究使用WAQ的总分进行分析。
+
+患者健康问卷（PHQ-9）PHQ-9共9题。当事人在0-3分（ $0 =$ 没有， $1 =$ 有几天， $2 =$ 一半以上时间， $3 =$ 几乎每天）的赖克特量表上评估过去二周的相关抑郁症状。在本研究样本中，PHQ-9的内部一致性信度为0.88。本研究使用PHQ-9 的总分进行分析。
+
+广泛性焦虑障碍问卷（GAD-7）GAD-7共7题。当事人在0-3分（ $0 =$ 没有， $1 =$ 有几天， $2 =$ 一半以上时间， $3 =$ 几乎每天）的赖克特量表上评估过去二周的相关焦虑症状。在本研究样本中，GAD-7的内部一致性信度为0.92。本研究使用GAD-7的总分进行分析。
+
+事后调查 对咨询师的事后调查用"您通常什么时候阅读进度反馈信息?"以区分阅读反馈信息组和对照组，选项包括"A通常没有时间看”、“B咨询结束当天找时间看”、“C每次咨询开始之前看”、“D没有收到反馈信息”，其中选择A项和 $\mathrm { ~ D ~ }$ 项的咨询师为对照组。事后调查用"您认为反馈信息有多大用处”（ $0 =$ 完全没有用处， $9 =$ 十分有用）以测量咨询师对进度反馈信息有用性的态度 $M = 5 . 1 9$ ， $S D = 1 . 7 0$ ）。对当事人的事后调查包括“您认为心理咨询有多大帮助”（ $1 =$ 完全没有帮助， $5 =$ 非常有帮助） $( N = 2 8 5$ $M =$ 3.54， $S D = 1 . 4 0 \}$ ；“您在多大程度上达成了咨询目标”（ $0 =$ 完全没有达到咨询目标， $1 0 =$ 完全达到了咨询目标） $( N = 2 8 5$ $M = 7 . 5 5$ ， $S D = 1 . 9 0 \$ ；“您对本次咨询的满意度”（ $1 =$ 完全不满意， $5 =$ 完全满意） $( N$ $= 2 8 5$ $M = 4 . 4 9$ ， $S D = 0 . 7 4 )$ 。
+
+# 2.4分析策略
+
+# 模型选择
+
+本研究采用多层线性模型进行数据分析，以分解组内效用和组间效用。这是因为多层线性模型能更好处理不同的当事人重复测量的次数不同这样的非平衡设计数据。组内效用是某当事人每次咨询前所测量的症状和咨询后所测量的工作同盟的变化，而组间效用是不同当事人之间症状和工作同盟的差异。咨询师是否
+
+阅读进度反馈信息是组间变量。
+
+多层线性模型可采用多种方法获得组内效用和组间效用。常见的方法是组内去中心化，即减去组内平均值以消除组间斜率的影响，比如:
+
+$$
+C O R E _ { i , t } = \beta _ { 0 i } + \beta _ { 1 i } \big ( W A I _ { i , t - 1 } - \overline { { W A I _ { \iota } } } \big ) + \varepsilon _ { i , t } .
+$$
+
+$$
+\beta _ { 0 i } = \gamma _ { 0 0 } + \gamma _ { 0 1 } \overline { { W A I _ { \iota } } } + u _ { 0 i } .
+$$
+
+其中， $\beta _ { 0 i }$ 是随机截距， $\overline { { W A I _ { \iota } } }$ 是组间差异。在重复测量次数较小的条件下（这是本研究的情形)，以上去中心化的方法容易得到 $\overline { { W A I _ { \iota } } }$ 的有偏估计。可以将组内变量的均值视为一个潜变量 $\boldsymbol { u _ { x i } }$ 以获得更加准确的估计(Asparouhov&Muthén,2019)。这样，多层线性模型可以写作：
+
+$$
+C O R E _ { i , t } = \beta _ { 0 i } + \beta _ { 1 i } \big ( W A I _ { i , t - 1 } - \overline { { u _ { x \imath } } } \big ) + \varepsilon _ { i , t } .
+$$
+
+$$
+\beta _ { 0 i } = \gamma _ { 0 0 } + \gamma _ { 0 1 } \overline { { u _ { x \iota } } } + u _ { 0 i } .
+$$
+
+如果让 $\mathbf { W A I _ { i , t - 1 } }$ 对 $\mathrm { C O R E } _ { \mathrm { i , t } }$ 的预测系数(此处是 $\beta _ { 1 i } \mathrm { \dot { \Omega } }$ )具有个体间的差异则成为了包含固定效应和随机效应混合模型，则
+
+$$
+\beta _ { 1 i } = \gamma _ { 1 0 } + \mathrm { \Delta } u _ { 1 i } .
+$$
+
+对时间序列数据而言，还需要考虑变量的自回归（autoregressive）问题。与公式1-5不同的是公式9-10（此处是 $\mathbf { \sigma } _ { { r _ { y } } }$ 和 $| r _ { x }$ ）(Asparouhov& Muthén,2019)。这个模型有时也被称为 AR(1)模型。
+
+$$
+\begin{array} { r l } & { W A I _ { i , t } = W A I _ { b , i } + W A I _ { w , i t } } \\ & { C O R E _ { i , t } = \beta _ { 0 i } + \beta _ { 1 i } W A I _ { w , i t } + \varepsilon _ { i , t } } \\ & { \beta _ { 0 i } = \gamma _ { 0 0 } + \gamma _ { 0 1 } W A I _ { b , i } + \varepsilon _ { i } } \\ & { \varepsilon _ { i , t } = r _ { y } \varepsilon _ { i , t - 1 } + \delta _ { i t } } \\ & { W A I _ { w , i t } = r _ { x } W A I _ { w , i , t - 1 } + \xi _ { i t } } \end{array}
+$$
+
+可使用贝叶斯方法获得组内效用和组间效用的标准化解和置信区间。贝叶斯方法采用马尔科夫蒙泰卡罗链（Markov chain Monte Carlo，MCMC）进行估算。贝叶斯方法采用潜在量尺简化指标（potential scalereduction，PSR）评估模型收敛程度。PSR是所有马尔科夫蒙泰卡罗链总方差与某个马尔科夫蒙泰卡罗链合并方差的比值。例如，当 $\mathrm { P S R } < 1 . 0 5$ 时，则终止迭代计算，因为继续进行迭代计算的话，会得到等价的模型参数估计结果。贝叶斯方法使用指标 DIC（deviance information criterion）进行模型比较。DIC 是一个类似AIC（Akaike's Information criterion）和 BIC（Bayesian Information criterion）的指标，DIC 越小意味着模型更好。在贝叶斯估计中，采用后验预测 p值（Posterior Predictive P-Value，PPP）表示模型的拟合度，它指两个马尔科夫蒙泰卡罗链的相似度，p值不显著表示模型-数据拟合度可接受。如果多层模型中有组间斜率，在 Mplus(Muthen & Muthen,2017)中则不再报告 PPP，仅报告 DIC 和 pD（estimated number ofparameters，参数的估计量）作为数据-模型拟合的信息指标(Zyphur & Oswald,2013)。
+
+在以上模型的基础之上，考察咨询师是否阅读进度反馈信息的影响。本研究主要目的在于考察咨询师阅读进度反馈信息的影响，可建立阅读进度反馈信息对工作同盟和咨询效果影响的多层线性模型（图2)。缺失值检验
+
+用多层线性模型分析重复测量非平衡设计的数据，其假设是缺失值是随机缺失（Missing at Random,MAR)。本研究在自然情境下进行，我们无法确认当事人是因为已经达成了咨询目的，不再需要咨询了还是因为某种原因造成了“脱落”，从而带来了缺失值。可以采用非随机缺失模型（Missing Not at Random,MNAR）检验缺失数据对结果的影响，从而间接检验数据随机缺失假设。有两类常用的非随机缺失检验模型：模式混合模型（pattern mixture models）(Litle,1993)和选择模型（selection models）（Wu& Carol,1988)。基于本研究的目的，我们关心的是咨询师阅读进度反馈信息对工作同盟和症状的影响，因此，我们以模式混合模型(Litte,1993)进行缺失值检验。其基本做法是首先分别将工作同盟和症状缺失值模式编码为虚拟变量，然后将此虚拟变量作为协变量纳入多层线性模型，检验它们对组间潜变量工作同盟和症状的影响。
+
+![](images/798da25e731f37473ca6feb311ea1d5babc668d7c1feedff0a18f918f1a7eca9.jpg)  
+E：s1和s2是WAI和CORE的自回归斜率，Sxy 是 $\mathrm { W A I _ { t - 1 } }$ 预测COREt斜率，Syx 是COREt预测WAIt斜率。  
+图2阅读进度反馈信息对工作同盟和咨询效果影响的多层线性模型
+
+统计功效检验
+
+采用蒙泰卡洛模拟方法计算统计功效，蒙泰卡洛模拟可改变相应的参数以研究模型设定的影响。根据本研究样本的情形，设定会谈次数2-6次的观察数分别为50、60、70、80和100，以2次及以上会谈次数数据实际估算结果设定模型参数，重复100次。蒙泰卡洛模拟方法所设定模型参数是"真值”，依据重复模拟计算得出“估计值”，因此，可以计算出每一个参数“真值"和"估计值"的相对偏差以及统计功效。结果显示，在组间水平，当阅读进度反馈信息对工作同盟具有中等效用时（标准化系数为0.38），统计功效为$98 \%$ ，与系数真值的相对偏差为 $0 . 8 0 \%$ 。
+
+以上模型均采用 Mplus 8.1(Muthen& Muthen,2017)进行分析，其它统计采用 Stata15(StataCorp,2017)进行分析。
+
+# 3结果
+
+# 3.1描述性统计和预分析
+
+工作同盟和症状的描述性统计见表1。CORE-OM的组内相关系数（ICC，intraclass correlation）是0.64，这表示症状 $64 \%$ 的方差是组间差异， $36 \%$ 的方差是组内差异。WAQ的组内相关系数是0.69，这表示工作同盟 $69 \%$ 的方差是组间差异， $31 \%$ 的方差是组内差异。
+
+# 3.2咨询师阅读进度反馈信息对工作同盟、咨询效果及其关系的影响
+
+建立了如图2的多层线性模型。模型1包括组内水平症状和工作同盟的自回归效用（S1和 S2）（DIC$\ c =$ 11194.02, $p D = 2 2 5 2 . 1 8 \AA$ )。在模型1的基础上，模型2加入了反馈对斜率的影响（ $\langle D I C = 1 1 1 7 3 . 2 9 , p D =$ 2211.49)。表2呈现了模型的结果。表2的结果表明：在组间水平，咨询师阅读进度反馈信息提高了工作同盟质量，具有中等的效应量；在组内水平，工作同盟的变化和症状的改变是相互影响的关系，具有小的效应量。在组间水平，咨询师阅读进度反馈信息对工作同盟、症状自回归的斜率，症状预测工作同盟以及工作同盟预测下一次会谈前的症状斜率无显著效用；工作同盟不能显著预测症状水平。
+
+# 3.3咨询师对进度反馈的态度对工作同盟、咨询效果及其关系的影响
+
+将模型2中的阅读进度反馈信息换为进度反馈的有用性！ $^ { \prime } D I C = 1 1 1 9 6 . 3 2 , p D = 2 2 3 8 . 9 6 )$ 。结果表明，在组间水平，咨询师对进度反馈的有用性评分对工作同盟，症状水平，工作同盟、症状自回归的斜率，症状预测工作同盟以及工作同盟预测下一次会谈前的症状斜率均无显著效用。
+
+# 3.4敏感性分析
+
+时间序列数据的“趋势”在模型2的基础上，进行以下分析。将会谈次数纳入模型，以控制会谈次数的影响。将会谈次数作为组间协变量纳入模型，使会谈次数与症状相关，分析结果表明（ $\prime D I C = 1 8 3 7 0 . 7 9$ $p D = 2 4 6 9 . 4 5 )$ ：会谈次数与症状具有显著相关（ $b = 0 . 3 3$ ，后验 $S D = 0 . 1 1 6$ ，单尾 $p = 0 . 0 0 3 , 9 5 \% C I , 0 . 1 1$ ，0.56)。在组间水平，阅读进度反馈信息对工作同盟水平影响系数略有提高（ $\mathbf { \partial } \cdot \mathbf { b } = 0 . 4 1$ ，后验 $S D = 0 . 1 8 3$ ，单尾 $p = 0 . 0 0 3$ $9 5 \%$ CI, 0.12, 0.85)。
+
+表1阅读进度反馈信息组与对照组的描述性统计  
+
+<html><body><table><tr><td rowspan="3">会谈 次数</td><td colspan="7">阅读进度反馈信息组</td><td colspan="4">对照组</td></tr><tr><td colspan="3">CORE-OM</td><td colspan="2">WAQ</td><td colspan="3">CORE-OM</td><td colspan="3">WAQ</td></tr><tr><td>N</td><td>M</td><td>SD</td><td>M</td><td></td><td>SD</td><td>N</td><td>M</td><td>SD</td><td>M</td><td>SD</td></tr><tr><td>1</td><td>263</td><td>16.33</td><td>6.28</td><td>46.16</td><td>7.56</td><td>87</td><td>17.06</td><td>5.81</td><td>45.09</td><td></td><td>8.18</td></tr><tr><td>2</td><td>218</td><td>15.06</td><td>6.45</td><td>47.59</td><td>7.07</td><td></td><td>76</td><td>16.01</td><td>6.11</td><td>45.68</td><td>8.69</td></tr><tr><td>3</td><td>176</td><td>14.53</td><td>6.61</td><td>49.18</td><td>6.99</td><td></td><td>56</td><td>16.29</td><td>5.59</td><td>45.54</td><td>9.53</td></tr><tr><td>4</td><td>138</td><td>14.49</td><td>6.64</td><td>49.80</td><td></td><td>6.23</td><td>44</td><td>17.18</td><td>5.98</td><td>46.61</td><td>8.61</td></tr><tr><td>5</td><td>113</td><td>14.85</td><td>7.12</td><td>51.15</td><td></td><td>6.13</td><td>40</td><td>16.14</td><td>5.94</td><td>47.88</td><td>8.00</td></tr><tr><td>6</td><td>75</td><td>14.71</td><td>6.81</td><td>51.04</td><td></td><td>6.06</td><td>29</td><td>14.78</td><td>6.46</td><td>50.24</td><td>7.70</td></tr><tr><td>7</td><td>30</td><td>17.93</td><td>6.49</td><td>50.9</td><td>6.75</td><td></td><td>13</td><td>17.00</td><td>6.99</td><td>48.62</td><td>10.07</td></tr><tr><td>8</td><td>23</td><td>16.27</td><td>8.36</td><td>51.69</td><td>6.28</td><td></td><td>12</td><td>15.00</td><td>6.39</td><td>50.00</td><td>8.80</td></tr><tr><td>9</td><td>19</td><td>15.74</td><td>8.68</td><td>52.88</td><td></td><td>6.03</td><td>9</td><td>16.33</td><td>4.69</td><td>48.00</td><td>7.31</td></tr><tr><td>10</td><td>14</td><td>14.71</td><td>8.55</td><td>51.33</td><td></td><td>6.65</td><td>8</td><td>16.13</td><td>3.09</td><td>48.75</td><td>8.01</td></tr><tr><td>11</td><td>7</td><td>13.14</td><td>9.74</td><td>51.43</td><td></td><td>5.19</td><td>8</td><td>14.38</td><td>4.75</td><td>50.86</td><td>6.09</td></tr><tr><td>12</td><td>6</td><td>13.20</td><td>13.01</td><td>52.33</td><td></td><td>5.65</td><td>7</td><td>16.00</td><td>4.58</td><td>51.71</td><td>6.47</td></tr><tr><td>13</td><td>3</td><td>29</td><td></td><td>49.33</td><td></td><td>4.16</td><td>6</td><td>15.83</td><td>5.34</td><td>51.50</td><td>5.96</td></tr><tr><td>14</td><td>1</td><td>24</td><td></td><td>49</td><td></td><td></td><td>6</td><td>16.00</td><td>6.57</td><td>49.83</td><td>7.39</td></tr><tr><td>15</td><td>1</td><td>24</td><td></td><td>51</td><td></td><td>5</td><td></td><td>17.00</td><td>9.97</td><td>48.40</td><td>5.59</td></tr><tr><td>16</td><td>1</td><td>31</td><td></td><td>56</td><td></td><td></td><td>2</td><td>22.5</td><td>0.71</td><td>41.00</td><td></td></tr><tr><td>17</td><td>1</td><td>36</td><td></td><td>53</td><td></td><td>1</td><td>16.00</td><td></td><td></td><td>37.00</td><td></td></tr></table></body></html>
+
+若使会谈次数与工作同盟相关，结果显示‘ $\mathit { \check { ( } } D I C = 1 8 3 5 4 . 4 1$ ， $\mathrm { p D } = 2 4 7 0 . 7 7 .$ )：会谈次数与工作同盟无显著相关（ $b = 0 . 2 7$ ，后验 $S D = 0 . 2 8$ ，单尾 $p = 0 . 1 3 0 , 9 5 \% \mathrm { C I } , - 0 . 4 7 , 0 . 7 9 )$ 。在组间水平，阅读进度反馈信息工作同盟水平的影响系数略有提高（ $\dot { b } = 0 . 4 6$ ，后验 $S D = 0 . 2 0$ ，单尾 $p = 0 . 0 0 3 , 9 5 \% C I , 0 . 0 5 , 0 . 2 9 )$ 。
+
+因为控制了时不变变量（time-invariant）（混淆变量）的影响，消除时间序列数据随着时间变化的趋势（例如增长趋势）可得到更可靠的结果。其弊端是，如果二个变量间有随着时间的共变效用（例如，组内水平工作同盟变化和症状变化的相互预测作用)，则去除数据“趋势”会把这种共变效用去除(Falkenstromet al.,2017)。允许 S1和 S2相关表示症状的自回归效用斜率和工作同盟的自回归效用斜率相关以表示二者的共变效用，结果表明（ $\mathit { D I C } = 1 1 1 3 2 . 7 6 , p D = 2 3 3 5 . 3 2$ ）S1与S2无显著相关（ $b = - 0 . 2 7$ ，后验 $S D = 0 . 3 2$ 单尾 $p = 0 . 1 9 8 , 9 5 \% C I , - 0 . 8 7 , 0 . 3 1 )$ 。控制此效用后，在组间水平，阅读进度反馈信息对工作同盟水平影响系数略有降低（ $b = 0 . 3 5$ ，后验 $S D = 0 . 1 5$ ，单尾 $p = 0 . 0 0 5$ $9 5 \%$ CI,0.08,0.72)。以上模型中，组内效用与组间效用的结果与表2类似，组内水平工作同盟变化和症状变化仍有相互预测作用。
+
+缺失值检验 如果用所有数据（2-17次会谈）进行缺失值检验，则对缺失值模式进行编码时，会最多产生 2"-1个虚拟变量，例如17个时间点会有 $2 ^ { 1 7 } \mathrm { - } 1$ 个虚拟变量，使得模型无法拟合。根据本研究的实际情形，门诊咨询有最多6次咨询的限制，所以选择会谈次数在2-6次之间的数据进行缺失值效用的检验。其中，工作同盟有5种缺失值模式，症状有6种缺失值模式，这样工作同盟缺失值模式有4个虚拟变量，症状缺失值模式有5个虚拟变量。结果表明（ $\cdot D I C = - 4 3 3 8 8 . 3 4$ $p D = 1 3 5 9 4 . 6 7 \rangle$ ，症状缺失值模式对组间水平的症状无影响，工作同盟的缺失值模式对组间水平的工作同盟无影响，表明对本研究数据而言，非随机缺失无显著的效用。本模型其它主要结果见表2。
+
+表2多层线性模型贝叶斯分析的标准化解和置信区间  
+
+<html><body><table><tr><td></td><td>标准化解</td><td>后验SD</td><td>单尾p</td><td>95%置信区间</td></tr><tr><td>阅读进度反馈信息</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>组内水平</td><td></td><td></td></tr><tr><td>症状的自回归效用</td><td>0.37*</td><td>0.04</td><td><0.001</td><td>0.36, 0.53</td></tr><tr><td>工作同盟的自回归效用</td><td>0.61*</td><td>0.04</td><td><0.001</td><td>0.49, 0.66</td></tr><tr><td>工作同盟预测症状</td><td>-0.14*</td><td>0.03</td><td><0.001</td><td>-0.19,-0.07</td></tr><tr><td>症状预测工作同盟</td><td>-0.08*</td><td>0.03</td><td>0.002</td><td>-0.15,-0.03</td></tr><tr><td></td><td></td><td>组间水平</td><td></td><td></td></tr><tr><td>工作同盟预测症状</td><td>-0.09</td><td>0.28</td><td>0.357</td><td>-0.52, 0.54</td></tr><tr><td>反馈预测症状</td><td>-0.12</td><td>0.16</td><td>0.221</td><td>-0.52, 0.14</td></tr><tr><td>反馈预测工作同盟</td><td>0.38*</td><td>0.16</td><td>0.008</td><td>0.07, 0.72</td></tr><tr><td></td><td>标准化解</td><td>后验SD</td><td>单尾p</td><td>95%置信区间</td></tr><tr><td>阅读进度反馈信息</td><td></td><td></td><td></td><td></td></tr><tr><td>缺失值检验</td><td></td><td>组内水平</td><td></td><td></td></tr><tr><td>症状的自回归效用</td><td>0.53*</td><td>0.06</td><td><0.001</td><td>0.42, 0.66</td></tr><tr><td>工作同盟的自回归效用</td><td>0.63*</td><td>0.04</td><td><0.001</td><td>0.55, 0.70</td></tr><tr><td>工作同盟预测症状</td><td>-0.12*</td><td>0.03</td><td><0.001</td><td>-0.17, -0.06</td></tr><tr><td>症状预测工作同盟</td><td>-0.08*</td><td>0.02</td><td><0.001</td><td>-0.13, -0.04</td></tr><tr><td></td><td></td><td>组间水平</td><td></td><td></td></tr><tr><td>工作同盟预测症状</td><td>-0.09</td><td>0.22</td><td>0.303</td><td>-0.49, 0.38</td></tr><tr><td>反馈预测症状</td><td>-0.07</td><td>0.14</td><td>0.223</td><td>-0.44, 0.15</td></tr><tr><td>反馈预测工作同盟</td><td>0.39*</td><td>0.16</td><td>0.003</td><td>0.12, 0.77</td></tr></table></body></html>
+
+# 3.5事后分析
+
+阅读进度反馈信息组与对照组的初始症状水平和工作同盟水平 因为咨询师是否阅读进度反馈信息是基于事后调查而非按照随机对照方法事先安排，所以有必要检验二组工作同盟质量和症状初始水平。结果表明二者的症状水平（CORE-OM所测得）没有差异（ $\mathrm { M } _ { \mathrm { d i f f } } = 0 . 7 2$ $s e = 0 . 7 3$ $9 5 \%$ CI,-0.73,2.17, $t = 0 . 9 8$ ，df=348)，工作同盟质量没有差异（ $\mathbf { M } _ { \mathrm { d i f f } } = - 1 . 0 7$ $s e = 0 . 9 9$ $9 5 \%$ CI,-3.04,0.89, $t = - 1 . 0 8$ $d f = 3 4 8$ )。其中，257名当事人在预约咨询时完成了PHQ-9和GAD-7。结果表明阅读进度反馈信息组（ $N = 1 9 0$ ）与对照组（ $N =$ 67）的初始抑郁症状水平没有显著差异（ $\mathbf { M } _ { \mathrm { d i f f } } = 0 . 9 4$ $s e = 0 . 9 4$ ， $9 5 \%$ CI,-0.94,2.82, $t = 0 . 9 9$ ， $d f = 2 5 5 \$ ，初始焦虑症状水平没有显著差异（ $\mathbf { M } _ { \mathrm { d i f f } } = 0 . 2 4$ $s e = 0 . 8 3$ $9 5 \%$ CI,-1.41,1.89, $t = 0 . 2 9 , d f = 2 5 5 )$ 。
+
+阅读进度反馈信息组与对照组的会谈次数 阅读进度反馈信息组提高了组间的工作同盟质量，而工作同盟又与症状缓解具有正向关系。因此，可以假设阅读进度反馈信息组可以更快达到咨询目标，表现为平均会谈次数较少。结果表明阅读反馈组共1084个会谈单元（ $\langle M = 3 . 5 8 , s e = 0 . 0 7 , S D = 2 . 4 5 )$ ，对照组共 408共会谈单元（ $\begin{array} { r } { M = 4 . 4 3 } \end{array}$ ， $s e = 0 . 1 8$ $S D = 3 . 5 4 { \cdot }$ )，二者间具有显著差异（ $\mathrm { M } _ { \mathrm { d i f f } } = 0 . 8 6$ $s e = 0 . 1 9$ $9 5 \%$ CI,0.49,1.23, $\mathrm { \Delta } t = 4 . 5 3$ ， $d f = 1 4 9 0 .$ ）°
+
+阅读进度反馈信息组与对照组的实习咨询师和专、兼职咨询师 如果反馈组有更多有经验的咨询师，他们的心理咨询效能更好或他们更会利用进度反馈信息，那么，咨询师的经验就是阅读进度反馈信息效用的混淆变量。因此，有必要检验反馈组和对照组当事人在实习咨询师和专、兼职咨询师上的分布情况。对照组的87名当事人，有3名在实习咨询师处咨询，84位在专、兼职咨询师处咨询（ $9 6 . 5 0 \%$ )，对照组几乎都是专、兼职咨询师的当事人；阅读反馈信息组的263名当事人，有98位在实习咨询师处咨询，165 位在在专、兼职咨询师处咨询（ $6 2 . 7 0 \%$ )。该结果表明在专、兼职咨询师那里的对照组当事人比实习咨询师那里的对照组当事人更多 $( \chi ^ { 2 } = 3 6 . 4 1$ ， $d f = 1 , p < 0 . 0 0 1 )$ 。
+
+阅读进度反馈信息组的实习咨询师和专、兼职咨询师 为进一步检验咨询师经验的影响，类似地采用图2模型，但将“阅读反馈信息”与否改为咨询师类别，对阅读进度反馈信息组数据做进一步分析。结果表明（ $\langle D I C = 8 1 2 6 . 6 8 , p D = 1 6 2 3 . 3 9 \rangle$ ，在组间水平，实习咨询师和专、兼职咨询师在工作同盟水平（ $\mathbf { \delta b } =$ 0.21，后验 $S D = 0 . 2 6$ ，单尾 $p = 0 . 1 6 5 , 9 5 \% C I , - 0 . 3 9 , 0 . 7 5 )$ 和当事人症状上（ $b = 0 . 1 6$ ，后验 $S D = 0 . 2 6$ ，单尾$p = 0 . 1 5 5 , 9 5 \% C I , - 0 . 4 7 , 0 . 4 5 )$ ，无显著差异。
+
+结案时的反馈组与对照组 采用倾向性评分匹配方法（预测变量前测CORE-OM34，PHQ-9 和 GAD-7)，计算阅读进度反馈信息对咨询效果的影响。结果发现，阅读反馈信息组（ $N = 1 7 0$ ）比对照组（ $\mathbf { \partial } N =$ 57）在PHQ-9上得分更低（ $b = - 2 . 2 9$ $s e = 1 . 0 5$ $z = - 2 . 1 8$ $\mathnormal { p } = 0 . 0 2 9$ $9 5 \% C \mathrm { I }$ ,-4.36,-0.23)，但在GAD-7 和CORE-OM34上的效用则不显著。在咨询有多大程度帮助的评分上，阅读进度反馈信息组认为更有用（ $\mathbf { M } _ { \mathrm { d i f f } } = - 0 . 5 2$ $s e = 0 . 2 2$ $9 5 \%$ CI, -0.97,-0.08, $t = - 2 . 3 6 , d f = 2 2 5 )$ ，但在咨询目标达成程度和满意度上，二组无显著差异。
+
+# 4讨论
+
+本研究结合我国心理咨询中心的实际情况和咨询师对实施日常进度反馈的态度，采用了符合我国社会文化规范的日常进度反馈程序。结果发现，与对照组相比，咨询师阅读反馈信息对提高工作同盟质量具有中等的效应量；在组内水平，工作同盟变化与症状变化具有相互预测关系，具有小的效应量。
+
+咨询师阅读的进度反馈信息包括每次症状评估和工作同盟的分数、症状评估和工作同盟分数随着咨询次数变化的曲线图、症状分数的解释及可靠性改变的指标。这些进度反馈的要素与国外的进度反馈是一致的(Lambert＆Harmon,2018)，不同的是实施进度反馈的程序。如果反馈程序不符合咨询师的需求，那么，这样的实施程序会给咨访双方带来较大的压力，增加了咨询师的工作负荷，触发咨询师抵触情绪，难以达到进度反馈促进合作性关系的目标(Moltu et al.,2018;Oanes et al.,2015)。通过事先调查，根据我国社会文化规范对进度反馈程序进行调整，为咨访双方思考、解决咨询中的不一致留下“余地”和“缓冲空间”，更容易为咨询师和当事人接受，从而使得进度反馈可以产生积极效用。
+
+研究者认识到仅仅提供进度反馈信息难以改善咨询效果，而需要在进度反馈信息中提供更加具体的反馈信息，加入帮助咨询师解决问题的工具箱等(Lambert & Harmon,2018;Lutz et al.,2015)。其背景是在美国的制度设计中，咨询师在拿到执照可以独立开展工作后，虽然有继续教育学分的要求，但没有定期接受督导的要求。在实施本研究的咨询中心，每位咨询师都要定期接受个别或团体督导。事后调查表明约有 $70 \%$ 的咨询师报告他们会与督导师讨论进度反馈信息。也就是说，如果进度反馈信息提示当事人未能取得如期进展，督导所提供的稳定和可靠的帮助或可部分解释反馈组的效应。实习咨询师处仅有3名当事人在对照组，表明实习咨询师更期待咨询当事人的反馈，并能运用这些反馈信息在督导中改进咨询过程。这一点在过去对进度反馈干预效果的解释中有所忽视。未来的研究可将实习生咨询师作为单独研究对象，并进一步探讨督导在运用反馈信息中的具体影响。
+
+咨询师阅读进度反馈信息对提高工作同盟质量具有中等的效用，这与过去的研究结果相一致(Burlingame et al.,2018; McClintock et al.,2017; She et al.,2018)。值得注意的是，对照组几乎都是专、兼职咨询师。这意味着部分专、兼职咨询师对自己的主观评估比较自信，而不认为进度反馈信息对咨询过程有帮助。这与过去的研究是一致的。研究表明， $80 \%$ 的咨询师（常常是能独立从业）认为自身的专业水平能排进前 $20 \%$ (Walfish et al.,2012)，且咨询师对咨询效果的主观评估不可靠，会高估治疗效果而低估治疗失败的风险(Boswell& Constantino,2015; Boswellet al.,2015)。这些结果让人们认识到即使对能够独立从事咨询工作的咨询师而言，进度反馈仍然有重要应用价值。之所以具有这样的效用，有以下三种理论解释。一是进度反馈信息引起了咨询师的“警觉”或认知失调，从而让他们可以借助进度反馈信息重新评估咨询进程并作出适当调整(Riemer&Bickman,2011)。二是从工作同盟与治疗关系的角度，进度反馈信息可以帮助咨询师发现工作同盟裂痕，即咨询师与当事人目标-任务的不一致和情感上的紧张(Eubanks etal.,2019)，从而能识别并解决工作同盟裂痕。三是因为中国人的间接沟通方式，适合我国社会文化规范的进度反馈程序可以协助咨询师识别和了解当事人未明确表达的愿望、需求，或能够发现当事人因为“尊重”而未表达出关于目标-任务的疑惑或不同想法，从而成为了一种特别有用的维持和睦关系，建立工作同盟或修复工作同盟裂痕的方法(Kuo et al.,2011; Sun et al.,2020)。
+
+在组间水平，咨询师阅读进度反馈信息对进度反馈CORE-OM-10所评估的症状水平并没有显著效用，但减少了咨询次数。这与之前的两项研究结果一致(Janse et al.,2017; McClintock et al.,2017)。由于进度反馈所用反馈工具和评估效果的工具相同，有研究者指出进度反馈的效用或是由于重复测量所致，或是由于忠诚效用（allegiance effect）所致(Ostergard et al.,2020; Pejtersen et al.,2020)。因此，采用进度反馈之外的测量工具评估反馈组的效用能提供更多有价值的信息。本研究发现，阅读信息反馈组的抑郁症状缓解效果更佳，并且当事人在咨询结束后自评的咨询有用性更好，从而表明咨询师阅读进度反馈信息在特定的测量上仍然具有积极效用，这与最近一项元分析的结果不同(Pejtersen et al.,2020)。该结果提示，今后的进度反馈干预效果研究需要采用不同于反馈评估用测量工具评估进度反馈的干预效果，从而克服忠诚效用的问题。
+
+在组内水平，工作同盟变化与症状变化具有相互预测作用，这与之前的研究一致(Falkenstrom et al.,2017)。也就是说，对同一位当事人而言，工作同盟的变化可以预测下一次的症状变化，而症状的变化又可以预测本次咨询结束后的工作同盟评分的变化。这表明，在组内水平，工作同盟和症状的相互影响模型具有跨文化的稳定性。
+
+进度反馈干预需要更加关注咨询师变量。本研究的结果表明咨询师对进度反馈的态度并不影响组间水平工作同盟的质量。这可能与单条目的测量并没有测量到咨询师的真实态度有关，因为在本研究样本中，态度与咨询师阅读进度反馈信息行为之间的一致性不高‘ $\stackrel { \prime } { r } = 0 . 2 1 , p < 0 . 0 0 1 )$ 。要提高进度反馈干预的效果，对咨询师的态度进行干预是一条可行的途径(de Jong etal.,2012)。该结果表明，还有较大空间提升咨询师对进度反馈的积极态度，采取更便利的方式让咨询师阅读进度反馈信息，从而有望能进一步提高进度反馈干预的效果量。
+
+本研究并没有发现工作同盟在组间水平的中介效用，也没有发现阅读进度反馈信息对工作同盟（S1）、症状的自回归斜率（S2）、工作同盟预测下一次会谈的症状变化的斜率（SXY）以及会谈前症状预测本次会谈的结束时的工作同盟的斜率（SYX）有影响。或许有某种未被认识到的组间和组内的交互作用，或者有其他潜在的影响因素或调节变量比进度反馈干预具有更大的效用量，例如当事人建立人际关系的特点(Zack et al.,2015)等，使得在当前研究中无法检查出反馈的效应。未来的研究需对此进一步探索。
+
+本研究具有较好的生态效度，主要体现在以下二个方面：首先根据中国人处理关系和有关“反馈”的社会文化规范修正了进度反馈程序；其次，本研究在自然情境下进行，区分反馈组和对照组的方法是基于事后调查，而非事前随机对照。这种设计也可避免随机对照干预可能带来的实验者效用，因为研究者和当事人事先都不知道哪些咨询师不会阅读进度反馈信息。
+
+本研究采用了追踪数据。追踪数据的优势在于建立了变量间变化的时序关系，因而较有可能探讨变量间的因果关系。本研究使用的统计方法，克服了追踪数据统计中常见的一些影响结果的统计偏差，排除了一些其它可能的解释。同时，统计功效检验和缺失值检验排除了对研究结论效度的威胁，使得研究结论较为可信。事后分析排除了可能的混淆变量，并采用了反馈测量之外的工具评估咨询效果，也是本研究的优势所在。
+
+本研究的不足，一是数据采集局限于一家咨询中心，从而影响研究结论外部效度；二是相对来说，当事人的心理困扰较轻，对具有严重心理困扰的当事人而言，结论是否成立还需要进一步研究。并且，有关中国文化因素和社会规范的影响，只提供了某种理论上的解释力，并没有直接检验。进一步的研究可以考虑直接检验这些假设。此外，就每次进度反馈的内容、症状的变化信息诸如可靠性改变、临床显著性改变等比较容易理解，但对工作同盟的变化信息却没有明确的指导。今后的研究可考虑如何更好地对工作同盟进行反馈，例如，考虑工作同盟的发展趋势、工作同盟裂痕以及中国人的关系图式与工作同盟裂痕的特殊表现等等。
+
+# 5结论
+
+本研究发现咨询师阅读进度反馈信息可提高工作同盟质量、改善咨询效果、减少咨询次数。本研究在自然情境下进行，提供了基于实践的干预有效的证据，提示进度反馈在高校心理咨询中心的日常效果监控中具有重要的应用价值。
+
+Asparouhov,T.,& Muthen,B. (2019).Latent variable centering ofpredictors and mediators in multilevel and time-series models. Structural Equation Modeling: A Multidisciplinary Journal,26(1), 119-142. https://doi.0rg/10.1080/10705511.2018.1511375   
+Barber,J.P.(2oo9).Toward a working through ofsome core conflicts in psychotherapy research. Psychotherapy Research,19(1),1-12. https://doi.0rg/10.1080/10503300802609680   
+Bian,C.-D.,He,Y.-Y., Qian,J., Wu, W.-Y.&Li, Ch.-B. The reliability and validityofa modified Patient Health Questionnaire for screening depressive syndrome in general hospital outpatients. Journal of Tongji University(Medical Science) , 030(5),136-140.   
+[卞崔冬，何筱衍，钱洁，吴文源，李春波.(2009)．患者健康问卷抑郁症状群量表在综合性医院中的应用研究．同 济大学学报（医学版）,030(5),136-140.]   
+Bordin,E.S.(1994). Theoryand research on the therapeutic working alliance: New directions. In A. O.Horvath,L. S. Greenberg, A. O. Horvath (Ed),& L. S. Greenberg (Ed) (Eds.),The working alliance: Theory, research, and practice. (pp.13-37). Oxford, England: John Wiley & Sons.   
+Boswell,J.F.,&Consantino,.J. (25).linciansself-jdgmentofctiveness.Pschotherapyuletin,50(4), 19.   
+Boswell,J.F.,Kraus,D.R.,iler,S.D.,&Lambert,M.J.(2015).Implementingroutineoutcome monitoring inclinical practice: Benefits, challenges,and solutions.Psychotherapy Research,25(1), 6-19. https://doi.0rg/10.1080/10503307.2013.817696   
+Brattland,H.,Koksvik,J.M.,Burkeland,O.,Klockner,C.A.,Lara-Cabrera,M.L,Miller,S.D,..Iversen,V.C. (2019). Does the working alliance mediate the effct of routine outcome monitoring (ROM) and alliance feedback on psychotherapy outcomes? A secondary analysis from a randomized clinical trial. Journal of Counseling Psychology. https://doi.org/10.1037/cou0000320   
+Burlingame,G.M., Whitcomb,K.E., Woodland,S.C.,Olsen,J.A.,Beecher,M.,& Gleave,R.(2018).The effectsof relationship and progress feedback in group psychotherapy using the Group Questionnaire and Outcome Questionnaire-45:Arandomized clinical trial. Psychotherapy,55(2),116-131.htps:/doi.org/10.1037/pst00133   
+Chen,X.-P.,& Chen, C.C.(2O04).On the intricacies ofthe Chinese Guanxi: A process model of Guanxi development. Asia Pacific Journal ofManagement,21(3),305-324. https://doi.0rg/10.1023/B:APJM.0000036465.19102.d5   
+de Jong,K.,van Sluis,P.,Nugter,M.A.,Heiser,W.J.,&Spinhoven,P.(O12).Understandingthedierentialimpactof outcome monitoring: Therapist variables that moderate feedback effects in a randomized clinical trial. Psychotherapy Research,22(4), 464-474. https://doi.org/10.1080/10503307.2012.673023   
+Del Re,A.C.,Fluckiger,C.,Hrvath,A.O.,Symonds,D.,& Wampold,B.E.(2012).Therapist eects inthe therapeutic alliance-outcome relationship: Arestricted-maximum likelihood meta-analysis. Clinical Psychology Review,32(7), 642-649.https://doi.0rg/10.1016/J.CPR.2012.07.002   
+DeRubeis,R.J.,Brotman,M.A,& Gibbons,C.J.(Oo5).Aconceptual and methodologicalanalysis ofthe nonspecifics argument. Clinical Psychology: Science and Practice,12(2),174-183. htps://doi.0rg/10.1093/clipsy.bpi022   
+Duan, C., Hill C.E.,Jiang,G.,Hu,B.,Lei,Y.,Chen,J.,&Yu,L. (2015).The counselor perspective on the useof directives in counseling in China: Are directives diffrent in China as inthe United States? Counseling Psychology Quarterly, 28(1), 57-77.   
+Errazuriz,P.,& Zilcha-Mano,S.(2018). In psychotherapy with severe patients discouraging news maybe worse than no news: The impact of providing feedback to therapists on psychotherapy outcome,session attendance,and the alliance. Journal of Consulting and Clinical Psychology,86(2),125-139. htps:/doi.org/10.1037/ccp0000277   
+Eubanks,C.F.,Lubitz,J.,Muran,J.C.,& Safran,J.D.(2019). Rupture resolutionratingsystem(3RS): Development and validation. Psychotherapy Research,29(3),306-319. https:/oi.org/10.1080/10503307.2018.1552034   
+Evans,C., Connel,J.,Barkham,M.,Margison,F.,McGrath,G.,Mellor-Clark,J.,&Audin,K. (202).Towards a standardised brief outcome measure: Psychometric properties and utility of the CORE-OM. British Journal of Psychiatry,180(1),51-60. https://doi.org/10.1192/bjp.180.1.51   
+Falkenstrom,F.,Finkel,S.,andel,R.,ubel,J.A.,&Holmqvist,R. (27).Dynamicmodelsofindividualchangein psychotherapy process research. Journal of Consulting and Clinical Psychology, 85(6),537-549. https://doi.0rg/10.1037/ccp0000203   
+Falkenstrom,F., Granstrom,F.,&Holmqvist, R. (2014). Working alliance predicts psychotherapy outcome even while controlling for prior symptom improvement. Psychotherapy Research,24(2),146-159. https://doi.0rg/10.1080/10503307.2013.847985   
+Fluckiger,C.,Del, A. C., Wampold,B.E.,& Horvath, A. O. (2018). The aliance in adult psychotherapy: A metaanalytic synthesis. Psychotherapy, 55(4), 316-340. https://doi.org/10.1037/pst0000172   
+He,Y.-Y,Li, C.-B.,Qian,J.,Cui,H.-S.,&Wu, W.-Y.(2O). Reliabilityand validityofa generalized anxietydisorder scale in general hospital outpatients. Shanghai Archives of Psychiatry, (4),12-15.   
+[何筱衍，李春波，钱洁，崔海松，吴文源.(2010).广泛性焦虑量表在综合性医院的信度和效度研究．上海精神医 学 (Shanghai Archives of Psychiatry）,(4),12-15.]   
+Howard, K.I.,Moras,K.,BrillP.L.,Martinovich,Z.,&Lutz, W. (1996).Evaluationof psychotherapy: Efficacy, effectiveness, and patient progress American Psychologist. US: American Psychological Association. https://doi.0rg/10.1037/0003-066X.51.10.1059   
+Hwang,K. (20oo). Chinese relationalism: Theoretical constructionand methodological considerations.Journal for the Theory of Social Behaviour,30(2),155-178. https://doi.org/10.1111/1468-5914.00124   
+Janse,P.D.,De Jong,K., Van Dijk,M.K.,Hutschemaekers,G.J.M.,& Verbraak,M.J.P.M. (2017). Improving the efficiency ofcognitive-behavioural therapyby using formal client feedback. Psychotherapy Research,27(5), 525- 538.https://doi.0rg/10.1080/10503307.2016.1152408   
+Kroenke,K.,Spitzer,R.L.,&Wiliams,J.B.W. (2001).ThePHQ-9.JournalofGeneral Internal Medicine,16(9),606- 613. https://doi.0rg/10.1046/j.1525-1497.2001.016009606.x   
+Kuo,B.C.H.,Hsu, W.-S.,&Lai,N.-H. (2ol1). Indigenous crisis counseling inTaiwan: An exploratory qualitativecase study of an expert therapist. International Journal for the Advancement of Counselling,33(1), 1-21. https://doi.org/htps://doi.0rg/10.1007/s10447-010-9108-y   
+Lambert, M.J., & Harmon, K.L. (2018).The merits ofimplementing routine outcome monitoring in clinical practice. Clinical Psychology: Science and Practice,25(4), e12268. htps:/doi.org/10.111/cpsp.12268   
+Litle,R. J.A.(1993).Pattern-mixture models for multivariate incomplete data.Journal of the American Statistical Association, 88(421), 125-134. https://doi.org/10.1080/01621459.1993.10594302   
+Lutz, W.,De Jong,K.,& Rubel,J.(O15).Patient-focusedand feedback research in psychotherapy: Where are we and where do we want to go? Psychotherapy Research. Taylor & Francis. https://doi.0rg/10.1080/10503307.2015.1079661   
+Macdonald,J.,& Mellor-Clark,J.(2015). Correcting psychotherapists’ blindsidednes: Formal feedback asameansof overcoming the natural limitations of therapists. Clinical Psychology & Psychotherapy,22(3),249-257. https://doi.org/10.1002/cpp.1887   
+McClintock,A.S.,Perlman,M.R.,McCarrick,S..,Anderson,T.,& Himawan,L.(2017).Enhancing psychothrapy process with common factors feedback: A randomized,clinical trial. Journal of Counseling Psychology, 64(3), 247-260. https://doi.org/10.1037/cou0000188   
+Miler, S.D.,Duncan, B.L.,Sorrel,R,& Brown, G.S. (2o5).The partners forchange outcome managementsystem. Journal of Clinical Psychology, 61(2),199-208. https://doi.org/10.1002/jclp.20111   
+Moltu,C.,Veseth,,Stefansen,J.,Notnes,J.C,Sjolberg,A,Binder,P.E.,..Nordberg,S.S.(18).TisishatI ned a clinical feedback system to do for me: A qualitative inquiry into therapists’ and patients perspectives. Psychotherapy Research. https:/doi.org/10.1080/10503307.2016.1189619   
+Muthen,L. K.,& Muthen,B.O.(2017). Mplus user's guide.(Eighth Edition). Los Angeles,CA: Muthen & Muthen.   
+Oanes,C.J.,Anderssn,N.,Karlsson,B,&Borg,M. (20l5).Howdotherapists respondtoclient feedback?ritical review of the research literature. Scandinavian Psychologist,2. https:/doi.org/10.15714/scandpsychol.2.e17   
+Ostergard,O.K.,Randa,H.,& Hougaard,E.(2O2O).The effctofusing thePartners for Change Outcome Management System as feedback tool in psychotherapy—A systematic review and meta-analysis. Psychotherapy Research, 30(2),195-212. https://doi.0rg/10.1080/10503307.2018.1517949   
+Pejtersen,J.H.,Viinholt,B.C.A.,&Hansen,H. (202O).Feedback-informed treatment: Asystematic reviewand metaanalysis of the partners for change outcome management system. Journal of Counseling Psychology, No Pagination Specified-No Pagination Specified. https://doi.org/10.1037/cou0000420   
+Riemer,M., & Bickman,L.(2011). Using program theory to link social psychology and program evaluation.(M. M. Mark,S. I. Donaldson,& B.Campbell,Eds.), Social psychology and evaluation.New York,NY: Guilford Press.   
+She,Z.,Duncan,B.L,Rse,R.J.,Sun,Q.,Shi,Y.,Jiang,G.,..Clements,A.L. (2018). Clientfeedback in Chia:A randomized clinical trial in a college counseling center. Journal of Counseling Psychology, 65(6),727-737. https://doi.0rg/10.1037/cou0000300   
+Spitzer,R.L.,Kroenke,K., Willams,J.B.W.,&Lowe,B.(06). A brief measure forassessing generalized anxiety disorder: The GAD-7. Archives of Internal Medicine,166(10),1092-1097. https://doi.0rg/10.1001/archinte.166.10.1092   
+StataCorp. (2017). Stata Statistical Software: Release 15. College Station, TX: StataCorp LLC.   
+Sun, Q.,Wu, C., Wang, C.D.C.,Yu,L., She,.,&Falkenstrom,F. (202). Aliance-outcome relation and progress fedback: Secondary data analyses of a randomized clinical trial study in China. Psychotherapy Research,1-12. https://doi.0rg/10.1080/10503307.2020.1772517   
+Walfish,S.,McAlister,B.,ODonnel,P.,&Lambert,M.J. (2012).Aninvestigationofself-Assessmentbiasinmental health providers.Psychological Reports,110(2),639-644. htps:/doi.0rg/10.2466/02.07.17.PR0.110.2.639-644   
+Wampold,B.E.(2015). Routine outcome monitoring: Coming of age—With the usual developmental challnges. Psychotherapy,52(4), 458-462. https://doi.0rg/10.1037/pst0000037   
+Wu,M. C.,& Carroll,R.J. (1988). Estimation and comparison ofchanges in the presence of informative right censoring by modeling the censoring process. Biometrics,44(1),175. https://doi.org/10.2307/2531905   
+Zack,S.E.,Castonguay,L. G.,Boswel,J.F.,McAleavey,A.A., Adelman,R., Kraus,D.R,& Pate, G.A. (2015). Attachment history as a moderator of the aliance outcome relationship in adolescents.Psychotherapy,52(2),258- 267. https://doi.org/https://doi.org/10.1037/a0037727   
+Zhang,Y.,Hu,J.,Evans,C.,Jin,L.W., Wu,M.Y., Wang,C.Y.,..Chen, G.P.(202O).Psychometric propertiesofthe Chinese version of the clinical outcomes in routine evaluation-outcome measure (CORE-OM). British Journal of Guidance & Counselling, 48(2),289-299. https://doi.org/10.1080/03069885.2019.1682120   
+Zhu,X.,& Jiang, G.-R.(2011a). The working aliance in clients’ eyes: Aqualitative analysis.Acta Psychologica Sinica, 43(04), 420-431.   
+[朱旭，江光荣.(2011a).当事人眼里的工作同盟：质的分析．心理学报,43(04),420-431.]   
+Zhu,X.,& Jiang,G.-R.(2011b).The development ofthe Working Aliance Questionnaire. Chinese Journal of Clinical Psychology, 19(4), 449-453.   
+[朱旭，江光荣.(2011b)．工作同盟问卷的编制．中国临床心理学杂志,19(4),449-453.]   
+Zilcha-Mano,S.(2O17).Is thealiance really therapeutic?Revisiting this question in light ofrecent methodological advances. American Psychologist, 72(4),311-325. https://doi.org/10.1037/a0040435   
+Zilcha-Mano,S.,& Errzuriz,P. (2015). One sizedoes not fit all Examining heterogeneityand identifying moderators of the alliance-outcome association. Journal of Counseling Psychology, 62(4), 579-591.
+
+# Progress Feedback and Its Effects on Working Alliance and Treatment Outcomes
+
+SUN Qiwul²；WU Caizhi1,’；YU Lixial²；WANG Weixin4；SHEN Guocheng (Scholofsycholog,CentralChinaNormalUniversity）KeyLaboratoryofAdolescentCyberpsychologyandBehavior(ental China Normal University)),Ministry of Education，Wuhan 430079,China） $\overset { \triangledown } { \boldsymbol { \cdot } { } ^ { 3 } }$ Key Laboratory of Human Development and Mental HealthofHubeiProvince，Wuhan43079,China）(4Mental HealthServiceCenter，CentralChinaNormal UniversityWuhan 430079,China）
+
+# Abstract
+
+Progres fedbackinvolvescollctingpatients'ratings ontreatmentoutcome sessionbysessionandproviding feedbacktotherapists on patient progressResearch has indicatedthatthe positive efect ofprogressfedback on psychotherapyoutcomeisa promising advancement. However,arecentmeta-analysis showed thatprogressfedback mayonlyhaveasmal to mediumeffect fornon-severe patients.Also,thereisalimitedtheoryinexplainingtheefectofprogressfeedback.Beforeimplementingtheprogressfeedbackin China, it is necessary to test its effect on working allance and treatment outcomes in a natural seting.
+
+Itis believed thatChinesearetaughttoobeytheirparents,espectelders,andrestrainthemselves tokepfamilyharmony.Such schemasaresubsequentlytransferedtotheirsocialifeintefosofrespectingauthoitysuperior,maintainnginterpersoaloy which willeadtoanindiretstyleofcommunicatio.Progressfeedbackfrompatients’weeklyreportscanbeusedasacoetion methodforincongruencesbetween therapistsandpatients witoutdiscussingitimmediatelyandface-to-face,andtuscaniprovethe qualityofworkingallianceandtreatment outcomes.Tecurrent studyusedaculturally-daptedversionofprogressfedback procedure inauniversityounselingcenterResearchassistantscoectedpatientsratingsonokingallancandtreatmentoutcomesadste results withinterpretationstotherapists’mailaddressTherapistswereencouraged tousefedbackinformationtoimprovetreatment outcomes.
+
+The participants included 48 therapists and 445 patients (350 were used for analysis).Post survey indicated that $80 \%$ therapists read progressfedback information based on which feedback group was determined.CORE-OM10 wasused to evaluate symptoms before each sessionand WAQwasusedto evaluate the working aliance aftereach sesson.PHQ-9,GAD-7,and CORE-OM-34 wereused beforeandaftertreatment.Multi-levelsructuralequationmodels wereusedtoanalyze tedata.Resultsshowedthatprogressfeedback hadamediumefectonworkingalliancebutnoeffectontreatmentoutcomes (measuredbyCORE-OM)atthebetwee-personlevel.At thewithin-personlevel,teresultsaffmedthereciprocalmodelofallance-outcomewhichindicatedthatthemodelisosistentand steadyacrosscultures.Inaddition,thefedback grouphadbetter teatmentoutcomes measured byHQ-9andself-ratedhelpfulnes measured after treatment.
+
+The results were discussedunderthe posible three mechanisms ofprogressfedback.Progressfeedback maycorrect theblindnes fthetherapist'selfevaluatiotreamentproce,cancocttheiconguecendallaeupturesetweetheraistsdtients.
+
+Thecultural-specificfactors mayalsocontribute totheefectofprogressfedback (e.g.,indirectcommunicationstyle).Tesuport fromregularsupervisonfortrapistsunderprogessfedbackwasempasizdaswell.Overall,thepresntstudysuggestedtepsitie effectofprogressfedbackontheworkingallanceandtreatment outcomes ina Chinesecounselingcenterbasedonpracticalevidence. Keywords: Progress feedback, the working alliance, treatment outcomes, multi-level SEM

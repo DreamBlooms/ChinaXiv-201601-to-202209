@@ -1,0 +1,471 @@
+[
+    {
+        "type": "text",
+        "text": "棉籽粕化学脱除棉酚的试验研究王薇薇」周天兵12\\*李爱科1\\*\\*韩飞」宋代军 ²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.国家粮食局科学研究院，北京100037；2.西南大学动物科技学院，重庆 400715）摘要：本试验旨在探讨棉籽粕化学脱毒的最佳方法。试验1，通过研究不同水分、温度和水热作用时间对棉酚脱毒率的影响，确定最佳水、热条件对棉籽粕的脱毒作用。结果发现，在 $6 0 { \\sim } 1 0 0 ^ { \\circ } \\mathrm { C }$ 、水分 $8 \\% { \\sim } 1 6 \\%$ 和时间 $2 0 \\mathrm { m i n } { \\sim } 8 \\mathrm { h }$ 条件范围内，随着温度、水分添加量、时间增加，棉籽粕脱毒率越高。试验2，通过对10种常见单一化学脱毒剂的脱毒效果的比较，研究发现，硫酸亚铁（ $\\mathrm { F e S O _ { 4 } }$ ）、硫酸铜（ $\\mathrm { C u S O _ { 4 } }$ ）和双氧水（ $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ ）脱毒效果较佳，脱毒率均达到 $40 \\%$ 以上，然而， $\\mathrm { F e S O _ { 4 } }$ 脱毒棉籽粕颜色发黑并带有铁锈味，故 $\\mathrm { C u S O _ { 4 } }$ 和 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 为较优的单一棉酚脱毒剂。试验3，将 $\\mathrm { C u S O _ { 4 } }$ 和 $\\mathbf { H } _ { 2 } \\mathbf { O } _ { 2 }$ 制成混合脱毒剂，研究其最佳反应条件，并验证其脱毒效果，结果发现， $8 0 ~ \\mathrm { ^ { \\circ } C }$ 、 $1 6 \\%$ 脱毒剂添加量和烘1h为最佳脱毒条件，且此混合脱毒剂的游离棉酚和结合棉酚的脱毒率均在 $84 \\%$ 以上；虽然脱毒棉籽粕粗蛋白质含量稍微降低 $( P 5 0 . 0 5 )$ ，但粗蛋白质消化率显著提高（ $_ { \\cdot \\textcircled { P } < 0 . 0 5 }$ ）。因此，水分、温度、时间都是影响棉籽粕化学脱毒的重要因素，在控制好这3个条件的情况下（ $8 0 ~ \\mathrm { ^ { \\circ } C }$ 、 $1 6 \\%$ 脱毒剂添加量和密闭烘1h时间），选用 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 、 $\\mathrm { C u S O _ { 4 } }$ 配制成一种混合脱毒剂，能有效脱除棉籽粕棉酚并且提高棉籽粕粗蛋白质和能量消化率，为棉籽粕脱毒加工提供良好的理论和技术支持。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：化学脱毒；棉籽粕；粗蛋白质；消化率；棉酚",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S816.9收稿日期：2015-09-01",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：“十二五”农村领域国家科技计划“粮油收购数字化质量安全检测关键技术研究\"（2013BAD17B03）；国家“十二五”科技支撑计划“新型优质蛋白饲料原料生产关键技术研究\"(2011BAD26B01-3）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作者简介：王薇薇（1984-），女，内蒙古呼和浩特人，助理研究员，博士，从事新型优质蛋白质饲料资源开发利用、饲用益生菌包被技术应用研究。E-mail:www@chinagrain.org",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*同等贡献作者",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*\\*通信作者：李爱科，研究员，博士生导师，E-mail: lak@chinagrain.org",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "我国是棉花产量居世界第一的产棉大国，近几年棉花年产量均在600 万t以上，棉籽产量1000万t以上。据国家粮油信息中心统计，2013年我国可用于榨油的棉籽产量为972.76万t，棉油产量118.53万t，棉籽粕产量437.20万t。棉籽经脱绒、脱壳、仁壳分离后，经预榨浸提或直接溶剂浸提取油后获得的副产品，或由棉籽饼浸提取油后的副产品称为棉籽粕[。其蛋白质含量 $3 9 \\% { \\sim } 4 5 \\%$ ，经浸提的棉籽蛋白质的粗蛋白质含量更可达 $5 0 \\%$ 以上，营养价值接近豆粕，是小麦蛋白质含量的4\\~5倍2]。在国内豆粕供应不足及豆粕价格持续上涨的形式下，棉籽粕可部分替代豆粕。但是棉籽粕的应用因为其含有有毒物质——棉酚而受到限制。棉酚主要存在于棉仁色素腺体内，是一种不溶于水而溶于有机溶剂的黄褐色聚酚色素。棉酚按其存在形式可分为游离棉酚（free gossypol,FG）和结合棉酚（bound gossypol，BG），而 FG 因含有活性醛基和羟基而具有毒性作用，占棉仁总重的 $0 . 8 \\% { \\sim } 0 . 9 \\% ^ { [ 3 ] }$ 。在制油过程中,由于蒸炒、压榨等热作用，大部分FG与氨基酸结合生成 BG，在动物消化道内不被动物吸收，故毒性小。另一部分FG 则仍存在于粕及油品中，对动物产生毒性。因此，未经脱毒处理的棉籽粕在动物饲粮中必须限量使用，若用量过多，对动物生长和繁殖性能不利，甚至导致死亡。《饲料卫生标准》（GB13078-2001）对相关产品中FG的允许量规定为：棉籽饼粕 ${ \\leqslant } 1 2 0 0 \\ \\mathrm { m g / k g }$ ，肉用仔鸡、生长鸡配合饲料 $\\leqslant 1 0 0 \\ : \\mathrm { m g / k g }$ ，产蛋鸡配合饲料 ${ \\leqslant } 2 0 \\ \\mathrm { m g / k g }$ （生长肥育猪配合饲料 ${ \\leqslant } 6 0 \\mathrm { m g / k g }$ 。因此，对棉籽粕采取脱毒处理是提高棉籽粕开发与应用的必经之路。  \n目前，棉籽粕脱毒的方法主要包括化学法、混合溶剂萃取法、液-液-固萃取法及微生物固态发酵法等。其中，化学脱毒法操作更显简易，是指在棉籽粕中加入某种化学添加剂进行化学处理，在一定条件下破坏FG，或使其成为BG而失去毒性，达到脱毒的目的。例如，在棉籽制油加工过程中通过改变水分、温度、压力的作用，使FG转化为 $\\mathbf { B G } ^ { [ 4 - 5 ] }$ ；或者在棉籽粕中加入硫酸亚铁（ $\\mathrm { F e S O _ { 4 } }$ ）[6-7]、氢氧化钙[8-9]，或者用尿素和 $\\mathrm { F e S O _ { 4 } }$ 混合处理[10]对棉籽饼粕进行脱毒等，可将FG 含量降低 $20 \\% { \\sim } 9 3 \\%$ 不等。戴卫东等[I用热碱法脱除 FG，其最适合条件为 $\\mathsf { p H } 8 { \\sim } 9$ ，温度 $6 0 ~ \\mathrm { { ^ \\circ C } }$ ，时间 $3 \\mathrm { h }$ ，可使棉籽蛋白质中棉酚含量降至 $0 . 0 1 2 \\%$ 。然而，上述方法也存在一些缺点。例如， $\\mathrm { F e S O _ { 4 } }$ 可使棉籽粕变黑，氢氧化钙脱毒率低且能降低维生素的生物活性[12]。还有一些脱毒方法使得棉籽粕水溶性蛋白质大量流失。此外，某些BG 在",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "动物消化代谢过程中可能再转化成 FG[5,13-14]。因此，在棉籽粕脱毒时既要降低FG又要减少BG，同时在棉籽粕脱毒时，要尽量做到不损害蛋白质品质，且不影响蛋白质的消化吸收。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文在研究了温度、水分和反应时间的脱毒效果基础上，比较了多种棉籽粕单一化学脱毒剂，如 $\\mathrm { F e S O _ { 4 } }$ 、硫酸铜（ $\\mathrm { C u S O _ { 4 } }$ ）、尿素、氢氧化钠（NaOH）和双氧水（ $\\mathbf { { \\bar { H } } } _ { 2 } \\mathbf { { O } } _ { 2 }$ ）等进行脱毒试验；并对脱毒效果较好的脱毒剂进行组合，制备混合脱毒剂，结合脱毒棉籽粕样品的粗蛋白质含量检测和体外消化分析，评价其脱毒效果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 材料与方法  \n1.1 材料收集和制备FG含量 $5 0 0 { \\sim } 2 0 0 0 \\mathrm { m g / k g }$ 的棉籽粕[用正已烷浸提棉籽仁脱脂，再水热处理得一定FG含量（ $5 0 0 { \\sim } 2 0 0 0 \\mathrm { m g / k g } ,$ ）的脱脂棉籽粕]。  \n1.2 检测方法试验用美国油脂化学家学会标准方法 AOCSBa7-58 检测FG含量，AOCSBa8-55 检测总棉酚（TG）含量[15]。  \n1.2.1 温度、水分和水热作用时间对棉籽粕脱毒率的影响取棉籽粕（水分 $1 0 . 9 3 \\%$ ，FG含量 $5 1 5 \\mathrm { m g / k g }$ ）3份，每次称重 $5 0 \\ \\mathrm { g }$ ，分别用小型喷雾器添加 $3 \\mathrm { m L }$ 水，置于三角瓶中密闭，再分别在60、80、 $1 0 0 ^ { \\circ } \\mathrm { C }$ 下烘 $8 \\mathrm { h }$ （时间足够长，以排除作用时间的影响）。每个处理3个重复，检测FG 含量，考察不同温度对FG 脱毒率的影响。FG含量 $7 5 4 ~ \\mathrm { m g / k g ( }$ 水分含量 $7 . 8 \\% \\%$ 的棉籽粕5份，每份 $5 0 \\ \\mathrm { g }$ ，分别添加蒸馏水4、5、6、  \n7、8mL，使其水分添加量为 $8 \\%$ 、 $10 \\%$ 、 $12 \\%$ 、 $14 \\%$ 、 $1 6 \\%$ 。置于三角瓶中密闭，在 $8 0 ~ \\mathrm { ^ { \\circ } C }$ 下烘干1h。每个处理3个重复，检测FG 含量，考察不同水分添加量对FG 脱毒率的影响。取FG含量 $7 5 4 ~ \\mathrm { m g / k g ( }$ 水分含量 $7 . 8 \\%$ 的棉籽粕5份，每份 $5 0 \\ \\mathrm { g }$ ，添加蒸馏水 $4 . 5 ~ \\mathrm { m L }$ ，置于三角瓶密闭，于 $8 0 ~ ^ { \\circ } \\mathrm { C }$ 下分别烘干1、2、3、4、5h。每个处理3个重复，检测FG含量，考察不同高温作用时间对FG 脱毒率的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2.1单一化学脱毒剂的筛选",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "称取棉籽粕（含FG: $1 3 8 3 \\mathrm { m g / k g }$ ，水分 $1 1 . 3 4 \\%$ )10份（每份 $5 0 \\ \\mathrm { g }$ )，分别用饱和 $\\mathrm { F e S O _ { 4 } }$ 、$1 \\% \\mathrm { C u S O } _ { 4 } . 2 \\%$ 赖氨酸、 $2 \\%$ 尿素、 $1 \\% \\mathrm { N a O H } , 1 \\%$ 赖氨酸 $( \\mathrm { L y s } ) { + } 0 . 1 \\% \\mathrm { N a O H } ,$ $1 \\%$ 硫酸镁( $\\mathrm { \\bf ~ \\langle M g S O _ { 4 } }$ ）$1 \\%$ 硫酸锰（ $\\bf { M n S O _ { 4 } }$ ）、 $1 \\%$ 硫酸锌（ $\\mathrm { Z n S O _ { 4 } }$ ）和 $3 0 \\% \\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ （分析纯）等溶液（ $2 \\mathrm { m L }$ ）制成脱毒剂（调节棉籽粕水分含量为 $1 5 \\%$ ），再将制备好的脱毒剂均匀喷洒于棉籽粕中，置于三角烧瓶中密闭，在 $8 0 ~ \\mathrm { ~ \\textdegree ~ }$ 下烘干 $^ { \\textrm { 1 h } }$ 。每个处理3个重复，检测FG含量，计算脱毒率，筛选出较优单一脱毒剂。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.2.2单一化学脱毒剂的脱毒条件控制",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { C u S O _ { 4 } }$ 脱毒条件：称取 $5 0 \\ \\mathrm { g }$ 棉籽粕（含FG： $7 5 4 ~ \\mathrm { m g / k g }$ ，水分： $7 . 8 \\%$ ）按其质量的 $0 . 5 \\%$ 称取 $0 . 2 5 \\mathrm { g C u S O _ { 4 } }$ 配成 $4 . 5 \\mathrm { m L }$ 溶液均匀喷洒于棉籽粕中，分成5等分，置于5个三角烧瓶中密闭，于 $8 0 ~ \\mathrm { ^ { \\circ } C }$ 分别烘1、2、3、4、5h。每个处理3个重复，检测棉籽粕中FG含量，得不同作用时间对棉籽粕脱毒率的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 脱毒条件：称取 $5 0 \\ \\mathrm { g }$ 棉籽粕（含FG： $7 5 4 ~ \\mathrm { m g / k g }$ ，水分： $7 . 8 \\%$ ），按棉籽粕质量的 $8 \\%$ 、 $10 \\%$ 、 $12 \\%$ 、 $14 \\%$ 、 $1 6 \\%$ 添加量喷洒4、5、6、7、8mL $30 \\%$ （204号 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ ，置于三角瓶中密闭，在 $9 0 \\ \\mathrm { ^ { \\circ } C }$ 下烘 $^ { \\textrm { 1 h } }$ 。每个处理3个重复，检测棉籽粕中FG含量，得不同 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 添加量对棉籽粕FG 脱毒率的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.3混合脱毒剂的脱毒条件优化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据不同化学脱毒剂对棉籽粕脱毒率的试验，选用 $\\mathrm { C u S O _ { 4 } }$ 、 $\\mathbf { H } _ { 2 } \\mathbf { O } _ { 2 }$ 配制混合脱毒剂。称取 $5 0 \\mathrm { g }$ 棉籽粕（含FG: $7 5 4 ~ \\mathrm { m g / k g }$ ，水分： $7 . 8 \\%$ ），并按其质量称取 $0 . 5 \\% \\mathrm { C u S O _ { 4 } }$ 和 $3 0 \\% \\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 配成 $4 . 5 ~ \\mathrm { m L }$ 溶液（调节棉籽粕水分含量到 $1 5 \\%$ 左右），以温度70、80和 $9 0 \\ \\mathrm { ^ \\circ C }$ ，脱毒剂添加量 $8 \\%$ 、 $12 \\%$ 和 $1 6 \\%$ ，反应时间20、40和 $6 0 \\mathrm { m i n }$ 作为脱毒条件，进行3因素3水平正交试验，如表1。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c2c90f61838e2e63fff8d1763ce45341ab6d0821a2e7d80a1ded4078b18bb9c3.jpg",
+        "table_caption": [
+            "表1混合脱毒剂脱毒条件筛选正交因素水平表 $\\mathrm { L } _ { 9 } ( 3 ^ { 4 } )$ ",
+            "Table 1 Orthogonal factor design for detoxification conditions of mixed detoxicant $\\mathrm { L } \\mathfrak { o } \\left( 3 ^ { 4 } \\right)$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"3\">因素 Factors</td></tr><tr><td>水平</td><td></td><td></td><td></td></tr><tr><td></td><td>温度</td><td></td><td>脱毒剂添加量</td></tr><tr><td></td><td></td><td>时间</td><td></td></tr><tr><td>Level</td><td></td><td></td><td>Supplementation of</td></tr><tr><td></td><td>Temperature/℃(A)</td><td>Time/min (B)</td><td></td></tr><tr><td></td><td></td><td></td><td>detoxicant/% (C)</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/abb6367966a15f69e86fc54c0f748af35405fd35b5a2335279debdbace1c64cc.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td></td><td></td></tr><tr><td>1</td><td>70</td><td>20</td><td>8</td></tr><tr><td>2</td><td>80</td><td>40</td><td>12</td></tr><tr><td>3</td><td>90</td><td>60</td><td>16</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.4混合脱毒剂的优化效果验证",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分别用FG含量为1792和 $6 8 8 ~ \\mathrm { { m g / k g } }$ 的棉籽粕进行脱毒验证，检测FG、BG及TG含量的脱毒率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "样品粗蛋白质含量检测采用饲料中粗蛋白质含量测定方法GB/T6432-1994。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "取浸提棉蛋白用脱毒剂制得脱毒棉籽粕，中国农业科学院北京畜牧兽医研究所动物饲养与标准化研究室作体外消化测定。饲料样品干物质消化率、粗蛋白质消化率、消化能（禽代谢能）以单胃动物仿生消化系统（SDS-1）测定，模拟消化液试剂盒为鸭模拟消化液。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1温度、水分和水热作用时间对棉籽粕脱毒率的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图1A可知。在60\\~100℃内，随着温度的升高，棉籽粕的FG 脱毒率也随之升高;由图1B 可知，棉籽粕水分添加量越多，处理所得棉籽粕FG的脱毒率越高。水热作用时间对FG 脱毒率的影响见图1C，作用时间越长，处理所得棉籽粕FG含量越低，棉籽粕脱毒率越高。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5eaf06f507c2d991bbea8cb892ee36c13175fb345968705582ed8b8e9c7034fc.jpg",
+        "img_caption": [
+            "图1 温度、水分和水热作用时间对棉籽粕FG 脱毒率的影响（数据以平均值 $\\cdot \\pm$ 标准差表示， $\\scriptstyle n = 3$ ）",
+            "Fig.1Effect of temprature, moisture and time on detoxication of FG in cottenseed meal（values are mean $\\pm \\mathrm { S D }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2单一化学脱毒剂的脱毒条件优化",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2列出了不同化学脱毒剂对棉籽粕中FG的脱毒效果，由表2可知，10种单一化学脱毒剂的脱毒效果呈极显著差异（ $_ { \\scriptstyle P < 0 . 0 1 }$ ）。其中，饱和 $\\mathrm { F e S O _ { 4 } }$ 的脱毒效果最好， $\\mathrm { C u S O _ { 4 } }$ 和$\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 的脱毒效果也较优，此3种脱毒剂的脱毒率均达到 $40 \\%$ 以上。但是，用 $\\mathrm { F e S O _ { 4 } }$ 脱毒后，棉籽粕的颜色发黑并带有明显铁锈味，影响棉籽粕产品的感官和气味。因此，本试验继续选用 $\\mathrm { C u S O _ { 4 } }$ 和 $\\mathbf { H } _ { 2 } \\mathbf { O } _ { 2 }$ 作为单一脱毒剂，并进行反应条件的细化。由表3可以看出，将棉籽粕用$0 . 5 \\% \\mathrm { C u S O _ { 4 } }$ 处理不同时间，其脱毒率差异不显著（ $. P { > } O . O 5$ ）。且由表4可知， $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 的添加量对棉籽粕脱毒率有极显著的影响（ $_ { \\scriptstyle P < 0 . 0 1 }$ ），且随着 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 的增加，棉籽粕脱毒率随之提高（ $_ { \\scriptstyle P < 0 . 0 1 }$ ）。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/bc7718c4b5b2227c5ec52f6c99a3cd3cef632779fed785d6a4c6f9fec2ead8f0.jpg",
+        "table_caption": [
+            "表2不同化学脱毒剂对棉籽粕中FG 脱毒率的影响",
+            "Table 2Effects of different chemical reagents on detoxification rate of FG in cottonseed meal $\\scriptstyle ( n = 3 )$ % "
+        ],
+        "table_footnote": [
+            "棉籽粕FG含量 $\\mathrm { 1 ~ 3 8 3 ~ m g / k g }$ ，水分 $1 1 . 3 4 \\%$ ： $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 } 3 0 \\%$ 浓度，其他试剂以棉籽粕质量分数配制溶液，并以 2mL 添加量添加到棉籽粕中。"
+        ],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>脱毒率 Detoxification rate</td></tr><tr><td>饱和 FeSO4 Saturated FeSO4</td><td>62.30±1.04A</td></tr><tr><td>30%HO2</td><td>52.48±1.05B</td></tr><tr><td>1% CuSO4</td><td>43.58±0.65C</td></tr><tr><td>2%Lys</td><td>7.79±0.871</td></tr><tr><td>2%尿素2%Urea</td><td>11.53±0.86G</td></tr><tr><td>1% NaOH</td><td>9.34±1.06H</td></tr><tr><td>1%Lys+0.1%NaOH</td><td>9.04±1.13H</td></tr><tr><td>1%MgSO4</td><td>16.75±0.91D</td></tr><tr><td>1%MnSO4</td><td>13.02±0.76F</td></tr><tr><td>1%ZnSO4</td><td>15.43±0.79E</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "FG content was $1 ~ 3 8 3 ~ \\mathrm { m g / k g }$ and moisture content was $1 1 . 3 4 \\%$ in this cottonseed meal; the concentration of $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ was $30 \\%$ . Other solutions were prepared by reagents’mass fraction of cottonseed meal and $2 { \\mathrm { m L } }$ of which were added to cottonseed meal respectively. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "同列数据肩标不同大写字母表示差异极显著 $( P { < } 0 . 0 1 )$ ，肩标相同或无字母表示差异不显著（ $P { > } 0 . 0 5$ ）。表3 和表4同。   \nIn a column,values with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ ,while with the same or no letter superscripts mean no significant different（ $P { > } 0 . 0 5$ ）.The same as Table 3 and Table 4 数据以平均值 $\\pm$ 标准差表示。表3、表4、表6、表7同。Values were mean±SD.The same as Table 3,Table 4, Table 6and Table7. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表3用 $0 . 5 \\% \\mathrm { C u S O } _ { 4 }$ 处理不同时间对棉籽粕脱毒率的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/9a76557405d3061d925229eb7a3631ed5fc463afef1a66490fcb26c0a06df962.jpg",
+        "table_caption": [
+            "Table 3Effects of different processing time by $0 . 5 \\% \\mathrm { C u S O 4 }$ on detoxification rate of FG in cottonseed meal ",
+            "表4不同 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 添加量对棉籽粕FG脱毒率的影响"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">(n=3)</td></tr><tr><td>时间</td><td>FG含量</td><td>脱毒率</td></tr><tr><td>Time/h</td><td>FG content/(mg/kg)</td><td>Detoxificationrate/%</td></tr><tr><td>1</td><td>390±11</td><td>48.31±1.46</td></tr><tr><td>2</td><td>386±13</td><td>48.85±1.72</td></tr><tr><td>3</td><td>366±8</td><td>51.40±1.06</td></tr><tr><td>4</td><td>352±14</td><td>53.25±1.86</td></tr><tr><td>5</td><td>347±15</td><td>53.92±1.99</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/14980876a4b2b564d22a09bcec7303c732041c7c0ff1dcd51e747cfcd0e670cc.jpg",
+        "table_caption": [
+            "Table 4Effects of different amount of $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ on detoxification rate of FG in cottonseed meal $\\scriptstyle ( n = 3 )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>HO2添加量</td><td>FG含量</td><td>脱毒率</td></tr><tr><td>Supplementation of HO2/mL</td><td>FG content/(mg/kg)</td><td>Detoxification rate/%</td></tr><tr><td>4.0</td><td>497±4A</td><td>34.08±0.48E</td></tr><tr><td>5.0</td><td>472±5B</td><td>37.41±0.66D</td></tr><tr><td>6.0</td><td>422±8C</td><td>44.03±1.05C</td></tr><tr><td>7.0</td><td>386±9D</td><td>48.84±1.19B</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3混合脱毒剂的脱毒条件优化",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表5可知，因子A、B、C 对脱毒率都呈现显著影响 $( P _ { \\mathrm { A } } { = } 0 . 0 1 5 , P _ { \\mathrm { B } } { = } 0 . 0 2 6 , P _ { \\mathrm { C } } { = } 0 . 0 0 8 )$ ，即试验所选温度、时间、脱毒剂添加量都显著影响棉籽粕脱毒率。其中， $R _ { \\mathrm { C } } { > } R _ { \\mathrm { A } } { > } R _ { \\mathrm { B } }$ ，即按照3个因素对脱毒率影响排序，则 $\\mathrm { C } { > } \\mathrm { A } { > } \\mathrm { B }$ ；脱毒剂溶液添加量对脱毒率的影响最大，其次是温度和反应时间。最佳试验条件为A3、B3、C3（90℃、溶液添加量 $1 6 \\%$ 、反应时间1h）。考虑到温度对加工工艺耗能和棉籽粕营养成分损失的影响，可以根据实际应用条件，选取 $8 0 ~ \\mathrm { { ^ circ C } }$ 、1h、 $1 6 \\%$ 添加量为实际脱毒条件。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表5混合脱毒剂作用条件的 $\\mathrm { L } 9 ( 3 ^ { 4 } )$ 正交试验结果",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/a89ca0bbbe5abad277db246bd7971da1e0e8cebab2d3dfada8303996aaf2efa6.jpg",
+        "table_caption": [
+            "Table 5Orthogonal experiment results for condition of mixed detoxification reaction "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">序号</td><td colspan=\"3\">水平Levels</td><td rowspan=\"2\">FG含量</td><td rowspan=\"2\">脱毒率</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>Number 1</td><td>A1</td><td>B1</td><td>C1</td><td>814</td><td>26.03</td></tr><tr><td>2</td><td>A1</td><td>B2</td><td>C2</td><td>619</td><td>43.69</td></tr><tr><td>3</td><td>A1</td><td>B3</td><td>C3</td><td>418</td><td>61.98</td></tr><tr><td>4</td><td>A2</td><td>B1</td><td>C2</td><td>697</td><td>36.61</td></tr><tr><td>5</td><td>A2</td><td>B2</td><td>C3</td><td>399</td><td>63.72</td></tr><tr><td>6</td><td>A2</td><td>B3</td><td>C1</td><td>675</td><td>38.66</td></tr><tr><td>7</td><td>A3</td><td>B1</td><td>C3</td><td>387</td><td>64.80</td></tr><tr><td>8</td><td>A3</td><td>B2</td><td>C1</td><td>505</td><td>54.13</td></tr><tr><td>9</td><td>A3</td><td>B3</td><td>C2</td><td>402</td><td></td></tr><tr><td>K1</td><td>43.90</td><td>42.48</td><td>39.61</td><td></td><td>63.41</td></tr><tr><td>K2</td><td>46.33</td><td>53.85</td><td>47.90</td><td></td><td></td></tr><tr><td>K3</td><td>60.78</td><td>54.68</td><td>63.50</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/d8adaa5fc83f12843bc58884477a3102ff3d8591a5216f65ac959ba8692c973c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>R</td><td>16.88 12.20</td><td>23.89</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.4最佳试验条件的验证",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考正交试验得到的最佳脱毒条件，结合实际选取 $8 0 ~ \\mathrm { ^ { \\circ } C }$ （温度高耗能多，且经试验验证 $8 0 ~ \\mathrm { ^ { \\circ } C }$ 基本已经能达到脱毒目的）、1h、 $1 6 \\%$ 添加量来进行脱毒试验。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.4.1 FG含量的脱毒验证 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "用FG含量分别为1792和 $6 8 8 ~ \\mathrm { { m g / k g } }$ 的2种棉籽粕经混合脱毒剂脱毒后，脱毒效果见表6。FG的脱毒率均达到 $84 \\%$ 以上，BG、TG 脱毒率也达到 $87 \\%$ 左右。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表6混合脱毒剂对棉籽粕的FG 脱毒效果",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/060e60cefb5f444da12b7b4003c6b3cfcfddb9cceaef92296e32939d3916e1cd.jpg",
+        "table_caption": [
+            "Table 6Effects of mixed detoxicant on detoxification rate of FG in cottonseed meal "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>FG含量FG</td><td>TG含量</td><td>BG含量BG</td><td>FG脱毒率 FG</td><td>TG 脱毒率</td><td>BG 脱毒率</td></tr><tr><td>Items</td><td>content/(mg/kg)</td><td>TG content /(mg/kg)</td><td>content/(mg/kg)</td><td>detoxification</td><td>detoxification</td><td>detoxification</td></tr><tr><td>FG1</td><td></td><td></td><td></td><td>rate/%</td><td>rate/%</td><td>rate/%</td></tr><tr><td>7921)</td><td>219</td><td>1840</td><td>1 621</td><td>88.89±0.04</td><td>86.95±0.13</td><td>86.64±0.09</td></tr><tr><td>FG 6882)</td><td>110</td><td>1 401</td><td>1 291</td><td>84.01±0.06</td><td>86.83±0.11</td><td>87.03±0.14</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1)FG1792指游离棉酚含量为 $1 7 9 2 \\mathrm { m g / k g }$ 的棉籽粕，其总棉酚含量为 $1 4 ~ 1 0 0 ~ \\mathrm { m g / k g }$ 。FG 1 792 mean",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "cottonseed meal with $1 7 9 2 \\mathrm { m g / k g }$ of FG,and its TG was $1 4 ~ 1 0 0 ~ \\mathrm { m g / k g }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2)FG 688指游离棉酚含量为 $6 8 8 ~ \\mathrm { { m g / k g } }$ 的棉籽粕,其总棉酚含量为 $1 0 6 3 8 ~ \\mathrm { m g / k g }$ .FG 688 mean cottonseed meal with $6 8 8 ~ \\mathrm { m g / k g }$ of FG,and its TG was $1 0 6 3 8 \\mathrm { m g / k g }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.4.2 脱毒棉籽粕的体外营养物质消化率 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由表7可以看出，虽然脱毒后棉籽粕的粗蛋白质含量稍有降低，但干物质消化率和粗蛋白质消化率及消化能都显著提高（ $\\scriptstyle \\cdot < 0 . 0 5$ ）。其中，干物质消化率提高了约 $6 . 3 \\%$ ；粗蛋白质消化率提高了约 $7 . 3 \\%$ ；仿生消化能提高了约 $1 4 . 5 \\%$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/0659568b6777b3364f72f61f09ad17d8b56cce3476a13e6e3f91eea2787b6f2f.jpg",
+        "table_caption": [
+            "Table 7 Effects of mixed detoxicant on nutrient digestibility in vitro of cottonseed meal "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>棉籽粕</td><td>脱毒棉籽粕</td></tr><tr><td>干物质含量 DMcontent/%</td><td>Cottonseed meal 93.31±0.19</td><td>Detoxified cottonseed meal 88.13±0.07</td></tr><tr><td>干物质消化率DMdigestibility/%</td><td>50.89±0.51b</td><td>57.24±0.41a</td></tr><tr><td>粗蛋白质含量 Crude protein content/%</td><td>52.44±0.06</td><td>48.90±0.08</td></tr><tr><td>粗蛋白质消化率</td><td>80.58±0.62b</td><td>87.88±0.39a</td></tr><tr><td>Crude protein digestibility/%</td><td></td><td></td></tr><tr><td>总能 Gross energy/(J/g)</td><td>19 374.84±10.30</td><td>18 973.62±20.11</td></tr><tr><td>仿生消化能 Enzymatic hydrolyzate energy/(J/g)</td><td>10 339.25±108.30b</td><td>11 821.83±79.84a</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "粗蛋白质含量为干物质基础。同行数据肩标不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，肩标相同或无字母表示差 异不显著 $( P 5 0 . 0 5 )$ 。   \nCrude protein content was determined based on dry matter.In a column,values with diferent small letter superscripts mean significant difference ( $( P { < } 0 . 0 5 )$ , while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ： ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1水热作用对棉籽粕中棉酚脱除率的影响",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "FG 的活性基团(醛基和羟基)，尤其是临醛基羟基，容易在水、热条件存在的情况下，与蛋白质、氨基酸、磷脂等物质互相作用形成结合物，同时也能被氧化剂氧化分解，与亚铁离子（ $\\mathrm { F e } ^ { 2 + }$ ）、铜离子（ ${ \\mathrm { C u } } ^ { 2 + }$ ）络合或与其他化学试剂发生反应而避免或降低其对动物的毒性作用。棉籽榨油加工过程中，水热作用本身就能形成大量BG，但这些BG不稳定，在消化道内会发生“水解返回”[0]现象。所以，本试验考虑在水热作用下，对棉籽粕使用化学试剂，使棉籽粕中FG 形成难于水解的螯合物或分解为其他物质。本试验选择 $6 0 { \\sim } 1 0 0 \\ \\mathrm { ~ \\textdegree ~ }$ 区间，因为温度若高于 $1 0 0 ^ { \\circ } \\mathrm { C }$ 对蛋白质营养价值产生损害；水分含量控制在 $8 \\% { \\sim } 1 6 \\%$ ，因为水分太多不利于脱毒后干燥，使干燥时间和成本明显增加;同理，作用时间控制在 $2 0 \\mathrm { m i n } { \\sim } 8 \\mathrm { h }$ 因为时间越长，耗能越多，成本增加。本试验发现，随着温度的升高、水分含量的增加和时间的延长，棉酚脱毒率明显增加；且温度对脱毒率的影响最大，影响幅度也大；水分和作用时间对脱毒率的影响都稍显缓和。有报道，加热处理可使FG的脱毒率达到 $70 \\%$ 以上[16]，然而在本试验限定的温度、水分和作用时间条件下，棉酚脱毒率均在 $6 0 \\%$ 以下。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.2单一和混合化学脱毒剂的筛选",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "如前文所述，棉酚脱毒率与水热作用条件密切相关，因此本研究配合一定水热作用，针对前人报道的众多化学脱毒剂进行了脱毒试验，其中Fe $\\mathrm { S O } _ { 4 }$ 、 $\\mathrm { C u S O _ { 4 } }$ 和 $\\mathrm { \\ddot { H } } _ { 2 } \\mathrm { O } _ { 2 }$ 脱毒效果较佳。有毒性的FG具有3种互变异构体，通常情况下呈相对稳定的双醛式。 $\\mathrm { F e S O _ { 4 } }$ 中的 $\\mathrm { F e } ^ { 2 + }$ 和 $\\mathrm { C u S O _ { 4 } }$ 中的Cu2+能与双醛式FG反应生成变性棉酚-铁/铜络合物，使FG的活性羟基失去作用而达到脱毒的目的。此棉酚-铁/铜络合物不能被吸收，最终排出体外，不会对动物体产生不良的负作用。因此FeSO4和 $\\mathrm { C u S O _ { 4 } }$ 既可以作为棉酚的解毒剂，也能够使棉酚在肝脏中的蓄积量下降，从而预防动物棉酚中毒。然而， $\\mathrm { F e S O _ { 4 } }$ 脱毒后棉籽粕颜色发黑并带有较浓的铁锈味，不宜作为脱毒剂对棉籽粕脱毒。另外，氧化脱酚法是利用氧化性较强的氧化剂对棉酚进行氧化变质，从而降解FG，但不能改变BG的含量。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "而本试验中， $\\mathrm { C u S O _ { 4 } }$ 和 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 的单一脱毒率只有 $43 \\% \\sim 5 2 \\%$ ，且如前文所述，棉籽粕中棉酚脱毒率与棉籽粕处理温度、水分和时间均有密切的关系。因此，本试验考虑在不同温度、水分和时间水平条件下，以一定比例将 $\\mathrm { C u S O _ { 4 } }$ 和 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 配合成混合脱毒剂，进行3因素3水平的正交试验，以期得到混合脱毒剂的最佳脱毒条件。本试验发现， $1 6 \\%$ 脱毒剂添加量在 $9 0 ~ \\mathrm { ^ { \\circ } C }$ 温度下反应1h为最佳脱毒条件，分别用FG含量低和高的2种棉籽粕进行脱毒验证：混合脱毒剂脱毒后，棉籽粕味香色正，FG含量降为219和 $1 1 0 \\mathrm { m g / k g }$ ，脱毒率达到 $8 8 . 8 9 \\%$ 和 $8 4 . 0 1 \\%$ ，完全达到脱毒要求（完全低于联合国咨询委员会规定的食用棉籽蛋白质中FG含量 $\\leq 0 . 0 6 \\%$ 的标准）；而且TG、BG脱除率均达 $87 \\%$ 左右。其原因可能是，一方面，我们在选用混合脱毒剂的基础上，以90℃处理1h为反应条件，其水热作用也同时降低了BG的含量[17]；另一方面，也避免了BG再水解生成FG[18]，可见脱毒效果较好。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本试验用混合脱毒剂在降低棉籽粕中FG的同时，也减少了BG含量，可以避免BG在消化道内水解，重新生成FG的情况。然而，混合脱毒剂脱毒后，棉籽粕粗蛋白质含量降低，可能是因为脱毒剂的氧化作用造成的。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3 混合脱毒剂脱毒棉籽粕营养物质体外消化率检验",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "通过脱毒棉籽粕体外消化试验可看出，混合脱毒剂脱毒效果优异，脱毒后棉籽粕粗蛋白质含量虽然有所降低，但粗蛋白质消化率提高了 $9 \\%$ ，说明此脱毒剂脱毒作用促使蛋白质变性，提高了棉籽粕中粗蛋白质的消化率。另外，应用混合脱毒剂使棉籽粕的干物质消化率提高了 $12 \\%$ ，能量消化率提高了 $14 \\%$ ，有效提高了棉籽粕的可消化利用率。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本试验研究了水热作用对棉籽粕中棉酚脱除率的影响，结合化学试剂对棉酚脱毒的作用，得到 $\\mathrm { C u S O _ { 4 } }$ 和 $\\mathbf { H } _ { 2 } \\mathbf { O } _ { 2 }$ 混合脱毒剂在 $8 0 ~ \\mathrm { ^ { \\circ } C }$ 、1h、 $1 6 \\%$ 添加量的条件下能脱除棉籽粕中 $84 \\%$ 以上的FG以及 $87 \\%$ 左右的BG；再结合脱毒剂对脱毒棉酚粗蛋白质含量和营养物质体外消化率的影响，虽然其脱毒后棉籽粕粗蛋白质含量稍有降低，但干物质、粗蛋白质和能量消化率均显著提高。然而，化学脱酚棉籽粕在动物饲料中的应用及其对动物生产的影响仍需进一步研究。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献：[1]李爱科.中国蛋白质饲料资源[M].北京:中国农业大学出版社,2013.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2]柴慧娟.棉籽饼粕蛋白资源的利用途径[J].粮油食品科技,1994(1):1-4.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[3] ROBINSON P H,GETACHEW G,DE PETERS E J,et al.Influence of variety and storage for up to 22 Days on nutrient composition and gossypol level of pima cottonseed (Gossypium spp.)[J].Animal Feed Science and Technology,2001,91(3/4):149-156. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[4] CALHOUN M C,KUHLMANN S W,BALDWIN JR B C.Assessing the gossypol status of cattle fed cotonseed products[C]//Proceedings of the Pacific Northwest Animal Nutrition Conference.Portland,OR,USA,1995:147A-157A. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[5] MENA H,SANTOS J E P,HUBER J T,et al.The effects of feeding varying amounts of gossypol from whole cottonseed and cottonseed meal in lactating dairy cows[J].Journal of Dairy Science,2001,84(10):2231-2239. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[6] BARRAZA M L,COPPOCK C E,BROOKS K N,et al.Iron sulfate and feed pelleting to detoxifyfreegossypolincottonseeddietsfordairycatte[J].JournalofDairy Science,1991,74(10):3457-3467. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[7] TABATABAI F,GOLIAN A,SALARMOEINI M.Determination and detoxification methods of cottonseed meal gossypol for broiler chicken rations[J].Journal of Agricultural Sciences and Technology,2002,16(1):3-15.   \n[8] NAGALAKSHMI D,SASTRY V R B,AGRAWAL D K.Detoxification of undecorticated cottonseed meal by various physical and chemical methods[J].Animal Nutrition and Feed Technology,2002,2(2):117-126.   \n[9] NAGALAKSHMI D,SASTRY V R B,PAWDE A.Rumen fermentation paterns and nutrient digestion in lambs fed cottonseed meal supplemental diets[J].Animal Feed Science and Technology,2003,103(1/4):1-14.   \n[10] 张嗣炯.棉籽饼粕脱毒的工艺研究和利用[J].中国粮油学报,1997,12(2):26-29.   \n[11] 戴卫东,卢伯南,钱礼华,等.热碱法脱除游离棉酚的实验研究[J].应用化工,2004,33(6):57- 59.   \n[12] ZHANG W J,XU Z R,ZHAO S H,et al.Development of a microbial fermentation process for detoxificationofgossypolincottonseed meal[J].AnimalFeedScience and Technology,2007,135(1/2):176-186.   \n[13] NOFTSGER S M,HOPKINS B A,DIAZ D E,et al.Effect of whole and expanded-expelled cotonseed on milk yield and blood gossypol[J].Journal of Dairy Science,2000,83(11):2539-2547. [14] BLAUWIEKEL R,XU S,HARRISON J H,et al.Effect of whole cottonseed,gossypol,and ruminally protected lysine supplementation on milk yield and composition[J].Journal of Dairy Science,1997,80(7):1358-1365.   \n[15] American Oil Chemists Society.Office and Tentative Methods[S].2nd Ed.1975. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[16] LEE K J,DABROWSKI K.High-performance liquid chromatographic determination of gossypol and gossypolone enantiomers in fish tissues using simultaneous electrochemical and ultraviolet detectors[J].Journal of Chromatography B,2002,779(2):313-319. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[17] 魏二虹,张文举,刘东军.不同热处理对棉籽饼中棉酚含量的影响[J].石河子大学学报:自然科学版,2010,28(1):52-57.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[18]王书云,刘良忠,何东平,等.棉粕化学方法脱除棉酚效果的研究[C]//中国粮油学会油脂分会第十七届学术年会暨产品展示会论文集.郑州:中国粮油学会,2008:226-230.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Study on Detoxification of Gossypol in Cottonseed Meal by Chemical Methods WANG Weiwei'ZHOU Tianbing1,2\\*LI Aike1\\*\\*HAN Fei1SONG Daijun2 (1.Academy of State Administration of Grain, Beijing 10o037, China; 2. College of Animal Science and Technology， Southwest University, Chongqing 40O715, China)   \nAbstract: This study was conducted to explore an optimal chemical method to remove gossypol   \nfrom cottonseed meal. Test 1，we studied the effects of moisture, temperature and time on   \ndetoxification rate of gossypol, to explore an optimal moisture and temperature for detoxification   \nof gossypol. We found that under the condition of 60 to $1 0 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ， $8 \\%$ to $16 \\%$ of moisture and 20   \nmin to $8 \\mathrm { ~ h ~ }$ of time, the detoxification rate was increased with the increases of moisture,   \ntemperature and time.Test 2，we compared 1O chemical detoxication reagents,and found that   \nferric sulfate $\\mathrm { ( F e S O _ { 4 } ) }$ ，copper sulphate $\\mathrm { ( C u S O _ { 4 } ) }$ ） and hydrogen peroxide solution $\\left( \\mathrm { H } _ { 2 } \\mathbf { O } _ { 2 } \\right)$ were   \nbetter,of which detoxification rate were more than $40 \\%$ . However, the cottonseed meal after   \ntreatment of $\\mathrm { F e S O _ { 4 } }$ was turning black with rust taste. So $\\mathrm { C u S O _ { 4 } }$ and $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ were the best single   \ngossypol detoxicant. Test 3,we investigated the optimal condition for this mixed detoxicant and   \ntested their effects.We observed that the optimum parameters for $\\mathrm { C u S O _ { 4 } }$ and $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ as mixed ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "detoxicant were $8 0 \\ \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ ， $16 \\%$ solvent consumption and $^ \\mathrm { ~ 1 ~ h ~ }$ heating.Under this condition，the detoxification rate for either free or bound gossypol was more than $84 \\%$ . The mixed detoxicant slightly decreased the crude protein content of cottonseed meal $( P { > } 0 . 0 5 )$ ,however, it increased the digestibilities of crude protein and energy $( P { < } 0 . 0 5 )$ . In conclusion,moisture, temperature and time were important for chemical decoxification of cottonseed meal. $\\mathrm { C u S O _ { 4 } }$ and $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ as mixed detoxicant, under control of these 3 conditions ( $\\mathrm { ( 8 0 ~ \\ ^ { \\circ } C }$ ， $16 \\%$ supplementation of detoxicant and $^ { \\textrm { 1 h } }$ of close heating)，can effectively remove gossypol from cottonseed meal and improve the digestibilities of crude protein and energy. Collectively, our study can provide a good theoretical and technical support for detoxificated cottonseed meal processing. Key words: chemical detoxification; cottonseed meal; crude protein; digestibility; gossypol ",
+        "page_idx": 14
+    }
+]

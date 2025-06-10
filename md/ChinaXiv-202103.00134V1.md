@@ -1,0 +1,550 @@
+# 长期戒断海洛因成瘾者冲动性相关脑区的
+
+# 结构及功能特征
+
+3 蔡惠燕「苗心²王鹏飞」林志为’王孟成‘杨文登「麻彦坤‘曾红  
+1  
+4  
+5 (广州大学教育学院心理系，广州 510006)(清华大学社会科学学院心理学系，北京100084)(3广东省第  
+6 二强制隔离戒毒所，佛山 528135)  
+7 摘要 冲动性是药物成瘾者的典型特征，它既包含了抑制控制成瘾者药物使用的力量，也包  
+8 含驱动成瘾者使用药物的成分，两者不平衡导致冲动性用药行为。海洛因成瘾者本身具有  
+9 冲动性人格特质，长时间的海洛因使用又会造成成瘾者冲动性相关的大脑结构与功能的异  
+10 常。目前难以确定戒断后，冲动性及相关的大脑结构与功能是否还呈异常状态。本研究采  
+11 用基于体素的形态学分析、低频振幅、局部一致性和功能连接方法，以35例海洛因成瘾戒  
+12 断者和无任何成瘾史的健康个体 26人为研究对象，探索在长期戒断后，海洛因成瘾者与其  
+13 冲动性相关的驱动、控制系统脑网络的结构和功能情况。结果显示，相比对照组，戒断组  
+14 灰质总体积及右内侧额上回的灰质体积显著减小，右侧颞中回和左内侧旁扣带回的灰质体  
+15 积随用药总量的增加而降低；右侧眶部额下回与尾状核功能连接显著增强，右侧颞中回和  
+16 左侧中央前回功能连接显著降低；右眶额中回的ReHo值、右眶额下回和左海马体的 ALFF  
+17 值比对照组显著更低，而右中央后回的ReHo值显著更高。这些脑区的状况与冲动性的神  
+18 经基础相吻合，说明海洛因成瘾戒断者在戒断44个月，奖赏、凸显、习惯性行为等网络系  
+19 统仍然呈现异常状态，且与成瘾药物使用总量有关。这些异常可能是成瘾冲动性的驱动力  
+20 的神经基础，可以作为解释成瘾者戒断后容易复吸的因素之一。  
+21 关键词 海洛因成瘾，基于体素的形态学分析，低频振幅，局部一致性，静息态功能连接
+
+3 分类号B8491
+
+11引言  
+2 冲动性被定义为“缺乏充分思考、过于冒险、鲁莽、不适合情境、不顾后果的动作行  
+3为或自发的、无意识的行为习惯，导致不希望发生的结果” (Pattij&DeVries,2013)。它  
+4 是物质成瘾的重要因素(Everitt&Robbins,2016)，高冲动性可以预测成瘾中用药行为转变为  
+5 强迫性行为(Belin etal.,2008)。冲动性又被分为特质冲动性和状态冲动性。前者被认为是神  
+6 经生理特征决定的。成瘾者大多具有冲动性人格特质，这类特质被报告与家族遗传相关，  
+7 在成瘾者使用药物前已存在，且表现为脑结构和功能的异常。  
+8 可卡因成瘾者在物质使用前就存在的特质性冲动被发现与前额叶一纹状体通路的结构  
+9 异常相关(Ersche etal.,2013),该通路的异常表现与对行为的抑制控制有关。而且,他们从未  
+10 使用过可卡因的同胞兄弟姐妹也显示出类似的脑区激活和灰质容量的变化(Ersche et al,  
+11 2012;Ersche etal.,2010;Morein-Zamir&Robbins,2015)。这些脑区的激活及结构特征说明  
+12 早期的药物滥用行为及此阶段的冲动性与由前额叶、伏隔核相关的控制机能也就是表现的  
+13 冲动性人格特质相关(Everitt&Robbins,2016)。  
+14 上述证据反映了在药物滥用前,使用者就已经存在的人格特质问题。这种人格特质以异  
+15 常的神经机制为基础,造成当事人先天具备较为脆弱的抑制性,使他们更容易发展出药物使  
+16 用行为,进而成瘾。针对人类婴幼儿期的前瞻性研究也可说明行为的冲动性和相伴的大脑功  
+17 能至少部分是先于药物使用存在,成为药物使用的一个危险因素。由此,可以推论,特质性冲  
+18 动是物质成瘾的一种易感标记(Everitt&Robbins,2013),以其与家族性的遗传相关的内表型  
+19 特征,即腹侧纹状体-腹侧前额叶(ventral striatum-medial prefrontal cortex,VS-mPFC)回路的  
+20 功能（抑制控制作用）与结构的异常为生物基础,导致异常的至上而下的控制降低,从而增  
+21 高冲动性并导致药物滥用的风险。  
+22 不过,尽管特质性冲动及其神经基础导致的抑制控制功能降低，作为易感性因素在成瘾  
+23 物质使用中起到了重要的促进作用,但这些特征与大脑结构的关联同样表现在没有使用成瘾  
+24 物质的一般人身上(Deserno etal.,2015)。这意味着已经观察到的成瘾者异常神经解剖结构  
+25 与激活的异常可能并不是造成成瘾的唯一因素。基于抑制控制的特质性冲动的生物基础在  
+26 成瘾行为中可能只扮演了一个起源或调节的角色，造成药物使用后期无法控制的冲动性药  
+27 物使用还有其他因素。  
+28 长期的药物使用及遗传导致成瘾者呈现反应抑制（动作冲动性）与危险决策（等待冲  
+29动性、认知控制问题）两类状态性冲动，并表现在与控制功能相关的背外侧前额叶皮层  
+30 (doral lateral prefrontal cortex,dlPFC)和背内侧前额叶皮层(dorsal medial prefrontal cortex,  
+31dmPFC)(Zilverstand etal.,2018)的损伤。有研究显示，成瘾者表现出的冲动性与额叶区域  
+1的异常激活密切相关，尤其与前额叶皮层（包括dIPFC、前扣带回和内侧眶额叶皮层）基  
+2 线葡萄糖代谢水平降低以及低水平的纹状体多巴胺D2受体有关(Koob&Volkow,2010,  
+- 2016)。  
+4 特质和状态冲动性共同作用，导致成瘾者更容易尝试成瘾物质，并在用药早期难以控  
+5 制由药效引发的“目标-导向”性质的用药行为和成瘾后自动化性质的习惯性用药行为。处  
+6 于青少年早期的成瘾物质使用者在成功完成抑制任务期间,其dIPFC 的显著激活可以预测更  
+7 少的问题行为;这可能意味着dIPFC 的功能对反应抑制起到了重要的作用(Martz et al.,  
+8 2018)，即dIPFC 可以对长期用药形成的习惯性用药行为进行调节,当其出现功能损伤,则难  
+9 以控制习惯性行为的表达,表现出强烈的停止冲动性。  
+10 iRISA(The impaired Response Inhibition and Salience Atribution)模型认为，损伤的反应  
+11 抑制和凸显诱因脑区是成瘾冲动性即表现在相关线索下药物寻求和使用的主要原因  
+12 (Goldstein& Volkow,2002)。反应抑制是一种控制力，正如上文所述，在人格特质中已经显  
+13 现，在用药过程中又会进一步受到损伤降低；而凸显则是一种驱力，驱动药物使用的行为  
+14 如果没有足够的控制力，则难以阻止用药行为的实施。酒精、可卡因和可待因等成瘾物质  
+15 的研究中均发现了凸显网络的连接通路异常(McHugh et al.,2015;Qiu et al.,2017; Zhu et al.,  
+16 2017)。不过造成成瘾冲动性的驱力显然不止于凸显原因。有证据显示，奖赏、习惯性行为、  
+17 成瘾记忆和执行功能脑区都在成瘾中起到相应的作用(Zilverstand etal.,2018)，分别担任着  
+18 控制和驱动的角色。  
+19 成瘾者初期用药时，会被药物的奖赏效应驱动而不断使用。“奖赏”效应是被伏隔核  
+20 的中心和外周边缘亚区如边缘皮质系统统合的机制所调节。该区域的介入加强了药物奖赏  
+21 的评估和预期，加剧使用药物的急迫性(Dalley&Robbins,2017)。在早期药物使用过程或在  
+22 渴求强烈却无法得到药物(Zeng etal.,2018)以及药物戒断的状态下(Koob&Volkow,2016)，  
+23 驱动个体复吸。对可卡因成瘾的研究发现，奖赏和执行控制回路的不平衡会影响冲动性药  
+24 物使用，在特定的与执行控制相关的大脑皮层显示了功能连结异常(Ray et al.,2015)。而且，  
+25 奖赏回路高激活和超连通性，牺牲了该网络以外的连通性，成为可卡因成瘾的特征  
+26 (Vaquero et al.,2017)。此外，可卡因吸食者表现出奖赏-执行控制网络耦合与冲动决策之间  
+27 的异常关联(Hobkirk etal.,2019)。海洛因成瘾者奖赏回路的特点则是中脑与腹内侧前额叶  
+28 皮层之间的耦合更强，而中脑与背外侧前额叶皮层之间的耦合更弱，即奖赏系统的中边缘-  
+29 前额叶通路失调(Cheng etal.,2015)。这些奖赏脑区的异常连结，说明奖赏效应在冲动性行  
+30 为中发生了重要作用。  
+31 此外，作为驱动力的源泉还有相关线索下的“S-R"反应。在药物使用过程中，条件学  
+32 习使药物相关线索与药效建立联结，把由奖赏效应控制的“目标-导向”行为转化为“刺  
+33 激-反应 S-R"性质的习惯性用药行为，这种“S-R”力量也是驱动成瘾冲动性行为的一种。  
+34 与成瘾物质相关的事物、负性情绪和压力是成瘾者使用药物的重要刺激源，在长期的用药  
+1过程中成为用药相关线索（条件刺激）,一旦呈现，刺激成瘾者发生习惯性的药物使用行为  
+2 (王鹏飞 et al.,2019)。背侧纹状体(Dorsal Striatum,DS)与相关动作脑区的连接异常是这种行  
+3为反应的神经基础(Everittet al.,2016,Zeng et al.,2018;)，具体表现为成瘾者的感觉运动控  
+4制通路发生改变，且与运动系统中的额-纹状体低连接呈正相关(Lench etal.,2017)。在负性  
+5 情绪的体验过程中，dIPFC 和情绪相关区域之间的功能偶联增加，而在抑制过程中右侧额  
+6 下回和杏仁核之间的功能连接则减少(Albein-Urios et al.,2014)，说明相关线索会直接触发  
+7 背外侧纹状体及动作脑区，形成 S-R反应。这种反应的表现是习惯性用药反应和渴求感及  
+8 渴求感促发的强迫性用药行为，这是成瘾的重要特征，也是成瘾冲动性的重要表现。  
+9 由此，奖赏、条件学习形成的 S-R性质的习惯性行为成为冲动性的驱力来源，而先天  
+10 和长期药物使用造成的抑制控制、认知控制的损伤则造成成瘾者的低控制力。当奖赏、S-  
+11 R力量足够强大，抑制控制力弱，两者共同作用，造成难以控制习惯性及强迫性药物寻求  
+12和使用行为的结果(Zeng et al.,2018;曾红 等,2015)，形成冲动性，呈现出现实中成瘾者不  
+13 断用药、复吸的现象。  
+14 但是，如果这些驱动药物使用的神经网络功能能够随着药物戒断时间的延长而逐渐恢  
+15复，那么，即使抑制控制仍然处在低水平状态(冲动性人格特质决定)或者可能随药物戒断  
+16 而提高的控制能力（状态性冲动），对成瘾者而言，仍有可能抵挡已经减弱的奖赏或 S-R  
+17 驱力作用，从而减少冲动性用药行为。也就是说随着戒断时间的增长，影响成瘾行为冲动  
+18 性的驱力减弱或控制力提高，即便成瘾者具有难以改变的冲动性人格特质，也有可能保持  
+19 戒断、预防复吸。  
+20 已有研究显示，成瘾者戒断后，其大脑结构与功能的情况不尽相同，这与不同脑区及  
+21 其相应的功能、海洛因使用量、成瘾时间、戒断时长都有关(贺忠 等,2008)。戒断时长6  
+22 个月之内的戒断者大脑灰质密度升高(贺忠 等,2008)，戒断6个月后大脑白质完整性得到  
+23 恢复(Shen et al.,2012;严雪娇 等.,2016)，但工作记忆无显著恢复，反应抑制功能受损状况  
+24 维持原样(Fu etal.,2008)，前扣带回及壳核灰质密度较低(Keihani et al.,2017)、奖赏及认知  
+25 控制脑区白质，执行功能依然存在损伤  
+26  
+27  
+28 (严雪娇 等,2015;杨玲 等,2019)；随着戒断时长增加，戒断18个月者的情绪加工能  
+29 力及戒断3年者的奖赏认知功能均得到一定恢复(周平艳,刘丹玮,等,2014;周平艳,周仁来,  
+30 等,2014)。但对人类PET研究表明,成瘾者即使长期脱毒后,腹侧纹状体多巴胺D2受体仍  
+31 减少(Dalley et al., 2007)。  
+32 这些研究，更多的集中在冲动控制的脑区的容积变化，而与驱动力相关的诱因性因素  
+33导致的不同脑区连接方式变化的研究较少。基于此，本研究采用局部一致性(regional  
+34homogeneity,ReHo)和低频振幅(amplitude of low frequency fluctuatiom,ALFF)分析法，结合  
+1基于体素的形态学(voxel-based morphometry，VBM)及静息态功能连接(resting-state  
+2 functionalconnectivity,rsFC)分析，从成瘾的行为特点及其神经机制入手，探索在长期戒断  
+3 后，海洛因成瘾戒断者与其冲动性相关的驱动、控制系统脑网络的结构和功能情况，进一  
+4 步了解影响成瘾者戒断后复吸的因素，为临床干预和治疗提供理论指导。我们假设：海洛  
+5 因戒断者即使在没有线索的情况下，与驱力因素相关的奖赏系统如腹侧纹状体及基于奖赏  
+6 学习的线索习惯化形成的脑区，包括负责自动化行为的背侧纹状体、动作脑区，会呈现异  
+7 常的功能连接，与情绪相关的边缘系统可能也会呈现与自动行为相关的脑区的连结；而与  
+8 控制紧密相关的前额叶与自动行为脑区的连接也会发生异常。同时，这些脑区可能会发生  
+9 结构上的改变。
+
+# 2方法
+
+# 2.1研究对象
+
+12 通过现场招募的方式，在广东省某自愿戒毒所和广州市脑科医院美沙酮治疗门诊招募  
+13 成瘾被试。共招募35名海洛因成瘾戒断者和26名健康对照者参加本研究，年龄为 $2 9 { \sim } 5 2$   
+14 岁，右利手，无色盲及色弱。成瘾戒断组入组标准为： $\textcircled{1}$ 海洛因为主要成瘾物质， $\textcircled{2}$ 符合  
+15 DSM-V药物成瘾的诊断标准，且无其他类型的精神疾病； $\textcircled{3}$ 无幽闭恐惧症； $\textcircled{4}$ 海洛因等成  
+16 瘾物质尿检为阴性。对照组被试主要为书面广告招募的广州某医院勤杂工作人员，入组标  
+17 准为： $\textcircled{1}$ 身体健康； $\textcircled{2}$ 体内无任何金属植入物； $\textcircled{3}$ 无肿瘤及严重外伤； $\textcircled{4}$ 无幽闭恐惧症和  
+18 精神疾病。研究得到华南师范大学心理学院伦理委员会的审核与批准。所有参与者对本研  
+19 究的目的、内容、方法及可能存在的风险均已了解，并在实验前签署知情同意书，实验结  
+20 束后得到120元的现金酬劳。
+
+# 2.2数据采集
+
+MRI实验使用场强为3T的 Siemens Trio 系统来采集 ${ \mathrm { T } } 2 ^ { * }$ -weighted echo-planar images(EPI)图像，数据反映血氧变化水平 (BOLD)，每个TR获得36 张全脑横切面图像(thickness) $\mathrm { \langle g a p = 3 / 0 . 7 ~ m m }$ ,matrix size $= 6 4 \times 6 4$ $\mathrm { T R } = 2 2 0 0 ~ \mathrm { m s }$ ， $\mathrm { T E } = 3 0 ~ \mathrm { m s }$ , flip angle $= 9 0 ^ { \circ }$ $\mathrm { F O V } = 2 0 0 \times 2 0 0 ~ \mathrm { m m ^ { 2 } } ,$ 。每个被试在实验的最后会使用标准的T1-weighted3DMPRAGEsequence采集高清脑解剖结构像用于EPI数据的空间预处理(voxel size $1 \times 1 \times 1$ $\mathrm { m m } ^ { 3 }$ ，thickness $\scriptstyle = 1 { \mathrm { m m } }$ $\mathrm { T R } = 2 3 0 0 ~ \mathrm { m s }$ ， $\mathrm { T E } = 3 . 2 4 ~ \mathrm { m s }$ ， $\mathrm { F A } = 9 ^ { \circ }$ ， $\mathrm { F O V } = 2 5 6 \times 2 5 6 ~ \mathrm { m m } ^ { 2 }$ ，matrix$\mathrm { s i z e } = 2 5 6 \times 2 5 6 )$ 。
+
+# 1 2.3数据处理与统计
+
+2 本研究首先基于体素形态学，对两组的灰质总体积、白质总体积、脑脊液总体积、脑  
+3体积、颅内总体积及脑实质占比的进行双样本 $t$ 检验 $( p { < } 0 . 0 5 )$ ，接着开展全脑局部一致性和  
+4 低频振幅分析。基于低频振幅研究的结果，选择右侧眶部额下回(15,60,-6)为感兴趣区作功  
+5 能连接分析。全部显著激活的脑区均与戒断时长、用药时长和用药总量做相关分析，但仅  
+6 报告有显著性的相关结果。  
+7 基于体素形态学的数据预处理使用 SPM8(http://www.fil.ion.ucl.ac.uk/spm/)中的VBM8  
+8 工具包进行。包括以下步骤：数据格式转换，使用dcm2niigui软件包，将DICOM(Digital  
+9 Imaging and Communications in Medicine)转换为 NIFTI(Neuroimaging Informatics Technology  
+10Initiative)格式；使用MRIcron 对所有数据进行质量检查，剔除 3  
+11 不符合标准的被试数据；组织分割，将T1加权图像分割成灰质、白质和脑脊液三种组  
+12 织类型；对灰质、白质和脑脊液进行DARTEL迭代；空间标准化，将每个被试的灰质、白  
+13 质和脑脊液三种组织类型数据归一化到标准 MNI空间。进一步使用 SPM的Check Reg 功  
+14 能进行二次质量检查，以排除不符合标准的数据；使用全宽半高值为 6mm（full width at  
+15 half maxima，简称FWHM）的高斯平滑核对图像进行平滑处理。  
+16 使用 SPSS Statistics 22.0 对两组的灰质总体积、白质总体积、脑脊液总体积、脑体积、  
+17 颅内总体积及脑实质占比进行双样本 $t$ 检验 $( p { < } 0 . 0 5 )$ 。使用RESTplus1.21(Jia et al.,2019)对  
+18 统计结果做 AlphaSim 多重比较校正(校正后 $p { < } 0 . 0 1 \rangle$ )。以年龄、性别和教育年限为协变量;  
+19 对海洛因成瘾戒断组的大脑灰质体积与用药总量进行相关分析，校正前阈值设置为  
+20 $p { < } 0 . 0 0 1$ ，采用AlphaSim 进行多重比较校正(校正后 $p { < } 0 . 0 1 \dot { }$ )。选择显著激活的脑区作为感兴  
+21 趣区(regions of interest,ROI)，将感兴趣区的灰质体积与用药总量做相关分析，显著性水平  
+22 设置为 $p { < } 0 . 0 5$ 。  
+23 局部一致性数据预处理使用基于MATLABR2014a平台上运行的  
+24SPM12(http://www.fil.ion.ucl.ac.uk/spm/)， $\textcircled{1}$ 采用 slice timing 进行层时间校正； $\textcircled{2}$ 采用  
+25realign 进行头动校正并生成头动参数； $\textcircled{3}$ 采用 Dartel的方式将每个被试的 EPI图像配准(co-  
+26 register)到其T1图像并转化进标准脑空间 (resampled to $3 \times 3 \times 3$ mm voxels); $\textcircled{4}$ 采用Friston  
+27 24的方式去除头动信号以及白质与脑脊液信号； $\textcircled{5}$ 提取低频段 $0 . 0 1 { \sim } 0 . 0 8 \mathrm { H z }$ 的信号。 $\textcircled{6}$ 计  
+28算ReHo和ALFF值，然后采用全宽半高值为 $6 \mathrm { m m }$ 的高斯平滑核对计算结果进行平滑处理。  
+29  
+30 对局部一致性和低频振幅的Z分数进行双样本 $t$ 检验。局部一致性和低频振幅校正前  
+31阈值设置为 $p { < } 0 . 0 0 1$ ，然后使用 RESTplus1.21做 AlphaSim 多重比较校正，校正后的阈值设  
+32 置为 $p { < } 0 . 0 1$ 。性别、年龄和教育年限加入协变量进行计算，去除干扰因素对研究结果的影  
+33 响。  
+1 基于低频振幅研究的结果，选择右侧眶部额下回(15,60，-6)为感兴趣区，半径设置为  
+2 $5 \mathrm { m m }$ ，使用RESTplus1.21软件包作功能连接计算及AlphaSim多重比较校正，协变量为性  
+3别、年龄和教育年限。
+
+# 3结果
+
+# 5 3.1人口学信息
+
+6 两组共64人参与实验，两人大脑结构显示异常及一人脑室偏大不符合数据处理标准  
+7 而排除，最终61人数据纳入处理分析，海洛因成瘾戒断组(heroin abstinent group，HAG)35  
+8 人，年龄34\~49岁 $( 4 0 . 6 9 \pm 3 . 6 1 ) \$ ，男性28人 $( 8 0 \% )$ 。其中12  
+9 受试者接受规范的美沙酮维持治疗，每日口服一次美沙酮 $1 0 \mathrm { m l }$ ，没有接受其它药物治  
+10 疗；健康对照组(healthy control group，HCG)26人，男性 26人 $( 1 0 0 \% )$ 。海洛因完全戒断组  
+11 和美沙酮维持戒断组的基本信息及脑指标对比无统计学意义的显著，详见表1。因此本研  
+12 究不区分两类戒断者，直接用戒断组和健康对照组进行比较。成瘾组与戒断组基本情况比  
+13 较详见表2。
+
+表1海洛因成瘾完全戒断组和美沙酮戒断组基本信息及脑指标 $( M \pm S D )$   
+
+<html><body><table><tr><td rowspan="2">基本信息</td><td rowspan="2">完全戒断组(23)</td><td colspan="2">美沙酮戒断组</td><td rowspan="2">p</td><td rowspan="2">Cohen's d</td></tr><tr><td>(12)</td><td>t</td></tr><tr><td>年龄(岁)</td><td>40.20±3.54</td><td>41.82±3.69</td><td>-1.25</td><td>0.22</td><td>-0.45</td></tr><tr><td>受教育程度(年)</td><td>9.04±1.4</td><td>9.45±1.04</td><td>-0.88</td><td>0.38</td><td>-0.33</td></tr><tr><td>香烟用量/天(根)</td><td>12.99±5.42</td><td>15.48±7.76</td><td>-1.11</td><td>0.27</td><td>-0.41</td></tr><tr><td>酒精用量/天(ml)</td><td>18.40±10.02</td><td>18.48±12.42</td><td>-0.02</td><td>0.98</td><td>-0.01</td></tr><tr><td>戒断前海洛因用 量/天(g)</td><td>0.55±0.28</td><td>0.65±0.27</td><td>-0.78</td><td>0.44</td><td>-0.36</td></tr><tr><td>戒断前用量海洛 因/月(g)</td><td>16.34±8.31</td><td>18.75±8.10</td><td>-0.78</td><td>0.44</td><td>-0.29</td></tr><tr><td>用药时长(月)</td><td>200.76±40.84</td><td>223.80±56.86</td><td>-1.35</td><td>0.19</td><td>-0.47</td></tr><tr><td>使用总量(g)</td><td>3417.44±2102.84</td><td>4107.75±2102.78</td><td>-0.88</td><td>0.39</td><td>-0.33</td></tr><tr><td>戒断时长(月)</td><td>42.43±6.48</td><td>44.25±5.28</td><td>-0.83</td><td>0.41</td><td>-0.31</td></tr><tr><td>灰质总量(mm)</td><td>637.39±63.43</td><td>664.90±47.69</td><td>-1.24</td><td>0.226</td><td>-0.49</td></tr><tr><td>白质总量(mm)</td><td>535.40±59.03</td><td>537.40±41.85</td><td>-0.10</td><td>0.923</td><td>-0.03</td></tr><tr><td></td><td>234.49±30.49</td><td>232.02±23.93</td><td>0.23</td><td>0.82</td><td>0.09</td></tr><tr><td>脑脊液总量(mm) 颅内总体积(mm)</td><td>1407.28±132.81</td><td></td><td>1434.33±97.14</td><td>-0.58 0.56</td><td>-0.23</td></tr></table></body></html>
+
+表2海洛因成瘾戒断组和对照组基本信息 (M±SD)  
+
+<html><body><table><tr><td>基本信息</td><td>戒断组(35)</td><td>对照组(26)</td><td>t</td><td>P</td><td>Cohen's d</td></tr><tr><td>年龄(岁)</td><td>40.69±3.61</td><td>42.31±8.45</td><td>-0.90</td><td>0.37</td><td>0.25</td></tr><tr><td>受教育程度(年)</td><td>9.17±1.30</td><td>10.50±1.55</td><td>-3.48</td><td>0.00</td><td>0.93</td></tr><tr><td>香烟用量/天(根)</td><td>13.81±8.27</td><td>11.43±9.72</td><td>0.99</td><td>0.33</td><td>0.26</td></tr></table></body></html>
+
+<html><body><table><tr><td>酒精用量/天(ml)</td><td>19.74±13.93</td><td>8.84±8.70</td><td>3.45</td><td>0.00</td><td>0.94</td></tr><tr><td>戒断前海洛因用</td><td>0.57±0.27</td><td>N/A</td><td></td><td></td><td></td></tr><tr><td>量/天(g)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>戒断前海洛因用</td><td>17.03±8.21</td><td>N/A</td><td></td><td></td><td></td></tr><tr><td>量/月(g)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>用药时长(月)</td><td>207.34±45.65</td><td>N/A</td><td></td><td></td><td></td></tr><tr><td>使用总量(g)</td><td>3614.67±2095.69</td><td>N/A</td><td></td><td></td><td></td></tr><tr><td>戒断时长(月)</td><td>43.55±6.59</td><td>N/A</td><td></td><td></td><td></td></tr></table></body></html>
+
+# 23.2海洛因成瘾戒断组异常的脑指标
+
+3
+
+海洛因成瘾戒断组和健康对照组灰质总体积差异显著 $( p { = } 0 . 0 3 )$ 。详见表3。
+
+<html><body><table><tr><td>基本信息</td><td>戒断组(35)</td><td>对照组(26)</td><td>t</td><td>p</td><td>Cohen's d</td></tr><tr><td>灰质总量(mm)</td><td>625.41±36.41</td><td>654.26±63.43</td><td>-2.23</td><td>0.03</td><td>0.56</td></tr><tr><td>白质总量(mm)</td><td>523.02±51.08</td><td>540.36±9.03</td><td>-1.28</td><td>0.21</td><td>0.47</td></tr><tr><td>脑脊液总量(mm)</td><td>231.95±18.98</td><td>234.16±30.49</td><td>-0.34</td><td>0.73</td><td>0.09</td></tr><tr><td>脑实质占比(%)</td><td>0.83±0.01</td><td>0.84±0.02</td><td>-1.24</td><td>0.22</td><td>0.63</td></tr><tr><td>颅内总体积(mm)</td><td>1380.38±84.65</td><td>1428.79±132.81</td><td>-1.74</td><td>0.09</td><td>0.43</td></tr></table></body></html>
+
+表3戒断组与对照组各脑指标的双样本t检验结果
+
+4
+
+5 VBM结果显示，在 $p _ { \mathrm { A l p h a S i m } } { < } 0 . \ 0 1$ 的条件下,海洛因成瘾戒断组与健康对照组相比，  
+6右内侧额上回的灰质体积显著减少，见表4，图1。
+
+表4戒断组相对于对照组存在异常灰质体积脑区的双样本 $\mathbf { \Psi } _ { t }$ 检验  
+
+<html><body><table><tr><td>脑区名称</td><td>L/R</td><td>Cluster size</td><td colspan="3">MNI coordinates</td><td>t</td><td>PAlphaSim校正</td></tr><tr><td></td><td></td><td></td><td>X</td><td>Y</td><td>Z</td><td></td><td></td></tr><tr><td>HAG<HCG</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>内侧额上回</td><td>R</td><td>2038</td><td>11</td><td>23</td><td>38</td><td>-4.15</td><td><0.01</td></tr></table></body></html>
+
+![](images/f05cec63c4e0ea5ee9d6867e9fce4fbe3ad3fb3a8cb2ba4d0ecda3074f571661.jpg)  
+图1戒断组与对照组在右侧内侧额上回的双样本 $\mathbf { \Psi } _ { t }$ 检验结果
+
+# 3.3海洛因成瘾戒断组用药总量与灰质体积的相关分析
+
+我们对灰质体积与戒断时长、用药时长和用量总量进行了相关性分析，结果显示，HAG右颞中回和左内侧旁扣带回的灰质体积随着海洛因使用总量的增加显著下降(详见表
+
+15)，右侧颞中回 $( 5 6 , - 5 9 , - 5 )$ ，左侧内侧和旁扣带回 $( - 8 , - 3 8 , - 3 3 )$ 与用药总量呈显著负相关  
+2 $( r { = } { - } 0 . 5 6$ ， $p { < } 0 . 0 0 1$ ，见图2， $r { = } { - } 0 . 3 5$ ， $\scriptstyle { p < 0 . 0 0 5 }$ ，见图3)。用药时长、戒断时长和右侧颞中  
+3 回、左内侧旁扣带回的灰质体积的相关统计均未达到统计显著性。
+
+表5HAG灰质体积与用药总量相关的脑区  
+
+<html><body><table><tr><td rowspan="2">脑区名称</td><td rowspan="2">L/R</td><td rowspan="2">Cluster size</td><td colspan="3">MNI coordinates</td><td rowspan="2">t</td><td rowspan="2">PAlphaSim 校正</td></tr><tr><td>X</td><td>Y</td><td>Z</td></tr><tr><td>颞中回</td><td>R</td><td>2340</td><td>56</td><td>-59</td><td>-5</td><td>-4.35</td><td><0.01</td></tr><tr><td>内侧和旁扣带回</td><td>L</td><td>3640</td><td>-8</td><td>-38</td><td>33</td><td>-4.84</td><td><0.01</td></tr></table></body></html>
+
+![](images/cbef9950cfbaaa8aebaedc0b1e1073b758a29bc12364ecca9d25c872ab451841.jpg)  
+图2HAG右侧颞中回灰质体积与用药总量的相关图
+
+![](images/ef2585f0f1c86818df063500b42452f67a04683fa171c9c01653b640f0255cca.jpg)  
+图3HAG左侧内侧和旁扣带回灰质体积与用药总量的相关图
+
+# ：3.4成瘾戒断组和对照组在局部一致性和低频振幅上的差异
+
+在 $p _ { \mathrm { A l p h a S i m } } < 0 . 0 1$ 的条件下，HAG在右眶部额中回的ReHo值比对照组显著更低，右中央后回的ReHo值显著高于对照组，详见表6、图4、图5。
+
+将HAD异常脑区ReHo值与用药总量做相关，用药总量与右侧眶部额中回 $_ { ( r = 0 . 0 8 }$ $\scriptstyle { p = 0 . 6 4 ) }$ 和右侧中央后回 $( r { = } 0 . 1 3 , p { = } 0 . 4 8 )$ 的相关均未达到统计显著性。
+
+表6戒断组相比对照组局部一致性的双样本 $t$ 检验  
+
+<html><body><table><tr><td></td><td></td><td>Cluster size</td><td>MNI coordinates</td><td></td><td></td></tr><tr><td>解剖脑区</td><td>L/R</td><td></td><td></td><td>t</td><td>PAlphaSim 校正</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td></td><td></td><td>X</td><td>Y</td><td>Z</td><td></td><td></td></tr><tr><td>HAG<HCG</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>额中回</td><td>R</td><td>676</td><td>12</td><td>57</td><td>-9</td><td>-6.28</td><td><0.01</td></tr><tr><td>HAG>HCG</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>中央后回</td><td>R</td><td>204</td><td>33</td><td>-30</td><td>54</td><td>3.54</td><td><0.01</td></tr></table></body></html>
+
+![](images/999439b55c8a5624a982ac442ace4025ea9457ebb93dbe3a41265c0c522bd80d.jpg)  
+图4 戒断组与对照组在右侧额中回的双样本 $\mathbf { \chi } _ { t }$ 检验图
+
+![](images/57b9642bd648cb137a3443ce747b93bf4209f22303f7f8295d9ff5572019d9c5.jpg)  
+图5戒断组与对照组在右侧中央后回的双样本 $t$ 检验图
+
+在 $p _ { \mathrm { A l p h a S i m } } { < } 0 . 0 1$ 的条件下,戒断组在右眶部额下回和左海马体的ALFF 值显著更低(见表
+
+57，图6和图7)
+
+将戒断组异常脑区的ALFF结果与用药总量做相关，结果显示用药总量与右眶部额下
+
+回 $( r { = } 0 . 1 3$ $\scriptstyle { p = 0 . 4 5 } )$ 和左海马体 $( r { = } { - } 0 . 1 0 , p { = } 0 . 5 8 )$ 的低频振幅值相关性均未达到统计显著性。
+
+表7戒断者相比对照组ALFF的双样本 $t$ 检验  
+
+<html><body><table><tr><td rowspan="2">脑区名称</td><td rowspan="2">L/R</td><td rowspan="2">Cluster size</td><td colspan="3">MNI coordinates</td><td rowspan="2">t</td><td rowspan="2">PAlphaSim校正</td></tr><tr><td>X</td><td>Y</td><td>Z</td></tr><tr><td>HAG<HCG</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>眶部额下回</td><td>R</td><td>389</td><td>15</td><td>60</td><td>-6</td><td>-5.30</td><td><0.01</td></tr><tr><td>海马体</td><td>L</td><td>66</td><td>-9</td><td>-3</td><td>-15</td><td>-5.38</td><td><0.01</td></tr></table></body></html>
+
+![](images/0d70ef54b6a8f9f251843005abe16ae7dfa4ffb510a79bd7980a9b81e8f11f19.jpg)  
+10 图6戒断组与对照组在右眶部额下回11 的双样本t检验图
+
+![](images/cb9c3bba9721d447b0db06df9f0d2a86c6c9cb139c65561c971b08502b86f902.jpg)  
+图7戒断组与对照组在左海马的双样本t检验图
+
+# 13.5海洛因成瘾戒断组和健康对照组在功能连接上的差异
+
+2 相比对照组，右眶部额下回与右尾状核功能连接显著增强，与右颞中回和左中央前回  
+3 功能连接显著减弱(见表8、图8、图9、图10)。  
+4 功能连接结果与用药时间(月)相关分析显示，用药时间(月)与右眶部额下回与右颞上回  
+5的功能连接值呈显著负相关 $_ { ( r = - 0 . 3 7 }$ $\scriptstyle { p = 0 . 0 3 }$ ,见图11)。  
+14讨论  
+2 本研究结合功能连接、基于体素的形态学、ReHo和ALFF方法开展对海洛因戒断者神  
+3 经基础的考察。ReHo和ALFF可以补充常规功能连接分析的缺陷，提示自发神经元活动异  
+4 常，更好地定位差异区域。结果发现，平均戒断43.55月的海洛因成瘾戒断者的相关脑区  
+5 结构和功能状况与健康对照组对比存在显著差异，意味着可能在戒断海洛因近4年后，其  
+6 神经结构和功能还保持与成瘾有关的特征。这个发现进一步确定了海洛因对大脑的影响。  
+7 此外，我们还发现长期用药（包括戒断）后，戒断者在冲动性不同成分相关脑区结构和功  
+8 能与正常对照组的差异。这些发现可为进一步理解成瘾冲动性提供证据，并为现实的预防  
+9 复吸工作提供更为具体的指导和新的思路。  
+10 相比对照组，成瘾戒断者右眶部额下回与左侧中央前回功能连接降低，中央前回与感  
+11 觉运动功能相关，中央前回与额下回的连接降低说明额下回所在的具有控制功能的背外侧  
+12 前额叶皮层相应的抑制控制功能降低，从而难以有效控制药物长期使用过程中形成的 S-R  
+13 型习惯性药物使用行为倾向，并导致药物相关线索下的冲动性用药行为。  
+14 成瘾者的重要特征之一是无法控制自己的用药行为。导致控制系统功能异常有两个方  
+15 面的原因：首先，成瘾者多具有冲动性人格特质，这种特质是与基因相关的家族性神经结  
+16 构特征相关(Ersche etal.,2013)，并不会因为使用或不使用药物，也不会因为使用后戒断药  
+17 物而得到恢复，始终处于低水平状态，其典型表现就是低水平的抑制控制。我们发现的额  
+18 下回与左侧中央前回功能连接降低也许正是这种冲动性人格特质表现为抑制功能的神经基  
+19 础。  
+20 研究发现，习惯性行为增多（“目标-导向”控制减少）与冲动性量表测量中显示的  
+21 动作冲动人格特质部分相关,习惯性（难以抑制的自动化）行为是此类人格的一个重要表现  
+22 (Hogarth etal.,2012)。从这个角度看,停止冲动/反应抑制功能可能就是冲动性人格特质的特  
+23 征之一。成瘾者及其兄弟姐妹的壳核的灰质容量和对照组相比有显著增大的现象(Morein-  
+24 Zamir&Robbins,2015)，说明与习惯性行为相对应的动作冲动（反应抑制）在人格特质中  
+25 就已先于成瘾行为而存在,并因为其无法控制已经发生的用药行为，而成为成瘾行为的易感  
+26 因素（促使用药行为转变为习惯性用药）。  
+27 其次，长期使用海洛因可能会导致成瘾者抑制控制功能的进一步不可逆损伤(Fu et al.,  
+28 2008)。我们的研究发现，戒断近4年后，药物的作用减弱，成瘾者的低抑制性神经基础仍  
+29 然存在。这类低抑制特征与冲动性人格特质在成瘾者使用前共同存在，并且共享神经基础  
+30 进一步说明冲动性人格特质的典型特征：抑制控制低下。当然，抑制特征低也有可能是长  
+31 期药物使用造成的结果，我们难以确定。但正如前文所述，可卡因成瘾者在物质使用前就  
+32存在的特质性冲动被发现与前额叶-(腹侧)纹状体通路的结构异常相关(Ersche et al.,2013),  
+1右侧额下回白质密度减少、壳核灰质容量增大。而且,成瘾者从未使用过成瘾物质的同胞兄  
+2 弟姐妹也显示出类似的脑区激活和灰质容量的变化(Ersche et al.,2012;Morein-Zamir &  
+3 Robbins,2015)。因此，海洛因戒断者的影像学表现有部分可能是使用海洛因之前就具备的，  
+4 以人格特质的方式表现出来。这种人格特质以异常的神经机制为基础，使他们在药物使用  
+5后，更难以控制由各类驱力诱发的用药行为,进而发展为成瘾。  
+6 此外，相比对照组，HAG眶额下回与右侧尾状核功能连接显著增强，右眶额中回和左  
+7 海马体的ALFF 值显著降低。眶额下回与右侧尾状核功能连接显著增强是强迫性行为的神  
+8 经机制(Grusser et al.,2004)。在成瘾者抑制控制本就低下的状态，更容易发生无法控制的强  
+9 迫性药物使用。虽然成瘾后期的行为，理论上主要是相关线索下的习惯性用药行为，其神  
+10 经机制更多取决于自动化行为的神经基础—一背外侧纹状体（壳核）与前额叶内与抑制控  
+11 制相关脑区的连接(Zeng etal.,2018)。但若这种自动化性质的习惯用药行为没有得到实现  
+12 （如实验室情境下的相关线索反应或现实中药物不可得），这种自动化动作倾向会转化为  
+13 强烈的渴求感和药物寻求使用的动机，并进而在现实生活中演化成强迫性用药行为。  
+14 眶额区域与动机系统相关，其神经元活动紊乱，说明成瘾者动机功能受损。伏隔核/腹  
+15 侧纹状体、膝下/喙前扣带、前额叶前部和眶额叶是奖赏系统的主要成分(Zilverstand et al.,  
+16 2018)。局部一致性和功能连接的结果说明海洛因成瘾者在戒断近4年后，被奖赏效应驱动  
+17的用药行为神经基础依然存在。在一定的条件下，仍然可能被激发。  
+18 中央后回ReHo 值显著升高，说明该区域神经元活动(在时间序列上)的一致性增加，  
+19 并具有良好的同步，表明中央后回所代表的与认知和情绪感觉有关的躯体感觉皮层异常激  
+20 活。这通常与海洛因相关线索反应有关(Wei etal.,2019)。本研究中并未呈现药物相关线索，  
+21 中央后回的局部一致性升高，说明成瘾者尽管已戒断约4年之久，仍保留自动化的用药行  
+22 为倾向反应。中央后回并非抑制反应激活的典型脑区，但常与no-go线索下的反应有关，  
+23其激活会导致应该停止反应的时候却做出反应，增加复吸风险(Prisciandaro et al.,2013)。这  
+24 种感觉运动脑区功能的过度激活表现在成瘾行为中是相关线索下的习惯性用药行为倾向  
+25 (Zeng etal.,2018)，表现为强烈的动作冲动，是冲动性行为的重要调节因素，无法控制由相  
+26关线索导致的用药冲动。这种因素在戒断后仍然存在，显示组成成瘾者冲动性抑制控制的  
+27 神经基础在戒断近4年后仍然存在。  
+28 不过，Wang 等(2016)对严格戒断3年以上的海洛因成瘾者的研究发现，其双侧中央后  
+29回与楔叶的功能连接相比健康对照组显著降低，中央后回功能受损；Gardini 和  
+30 Venneri(2012)发现药物替代治疗的海洛因成瘾戒断者中央后回灰质体积减少，中央后回结  
+31 构异常；贺忠等(2008)则发现海洛因依赖者停药2月后中央后回灰质有所恢复。由此可见，  
+32中央后回的结构及功能恢复情况与不同的戒断治疗方法有关，完全戒断或比美沙酮维持治  
+33 疗更有利于中央后回的恢复，但此推论仍需更多研究验证。  
+34 眶额下回与右侧颞中回和左侧中央前回功能连接显著减弱，会导致由动作脑区产生的  
+1行为动作的抑制功能降低，间接说明通过联结学习形成的 S-R型行为反应即相关线索直接  
+2 引发用药行为的习惯性用药行为是此阶段的特征(Hu etal.,2015)。也说明相关线索反应是  
+3成瘾行为的重要驱动力，这符合实际生活中成瘾者在成瘾过程中的药物使用特点。  
+4 此外，中央前回又同属腹侧注意网络(ventral attention network)(Zhang et al.,2017)/腹侧  
+5额顶叶注意网络(ventral frontoparietal attntion network)，即凸显网络(salience network)，是  
+6 相关线索反应的主要神经基础，促使个体对与药物相关的线索产生注意偏向，诱发冲动性  
+7 的用药行为。  
+8 此结果与iRISA模型假设一致。眶额叶相关的奖赏、动机网络、海马相关的记忆网络、  
+9 尾状核相关的习惯网络均参与成瘾过程(Zilverstand et al.,2018)。这些脑区的功能不仅可以  
+10 强化成瘾物质的作用，还能通过联结学习，形成用药动作记忆，在有相关线索出现的情况  
+11 下，以条件反射行为的方式作出反应，令成者出现难以抑制的习惯性用药行为，表现出  
+12 强烈的动作冲动性。从这个角度来看，奖赏、记忆和习惯性行为脑区的功能连接异常可能  
+13 是驱动成瘾者冲动性的神经基础，也可以理解为成瘾冲动性的驱动力量，促进成瘾者习惯  
+14 性、强迫性的药物寻求和使用行为。  
+15 成瘾者的这些脑区出现异常激活和功能连接模式，其结构也逐渐发生异常{Formatting  
+16 Citation}。本研究在成瘾者已戒断近4年的状态下仍能观察到上述驱力脑区的异常功能连  
+17 接及结构的变化，证明戒断者在成瘾冲动性相关的驱动功能仍在异常状态，与是否正在用  
+18 药无关。这与相关的研究是一致的(Zilverstand et al.,2018)。  
+19 相比对照组，HAG在灰质总体积和脑体积上存在显著差异，右内侧额上回灰质体积显  
+20 著减少。这表明长时间的海洛因使用会造成大脑灰质体积萎缩，对大脑结构造成实质性损  
+21 伤，而戒断不能使其恢复。这与海洛因长期成瘾者（戒断7天）相比健康对照组的额上区  
+22 皮质厚度较低的研究结果是一致的(Lietal.,2014)。额上回与工作记忆有关(du  
+23 Boisgueheneuc et al.,2006)，与主观报告用药的意愿和倾向有关(Hassani-Abharian et al.,  
+24 2015)。Fu(2008)认为额上回在反应抑制任务中被过度激活，以代偿腹侧前额叶和前扣带回  
+25 负责的执行功能。额上回灰质体积减少可能导致工作记忆受损，短时存储容量降低和信息  
+26 管理困难，进而影响反应抑制功能。  
+27 HAG 右侧颞中回及左内侧旁扣带回的灰质体积随用药量增加而减少。这个结果支持  
+28 Yuan(2009)的发现：颞叶、扣带回皮质灰质密度较健康组下降，且与海洛因使用时间负相  
+29 关，说明海洛因使用可能具有累积效应。  
+30 与Liu(2009)及Wollman(2015)的研究结果相同，扣带回灰质体积出现萎缩且左侧扣带  
+31 回的损伤随海洛因使用时间延长而增加。旁扣带回是腹侧前额叶的一部分(Gallagher et al.,  
+32 2000)，内侧旁扣带回常被观察到独立于任务类型，在各类认知过程中被激活(Zhang et al.,  
+332017)。旁扣带回属于自我导向/参照认知过程中激活的自我导向网络(self-directed  
+34network)，支持更高的认知调节功能（如自我意识和自我反省），与自我报告的渴望和使  
+1 用冲动相关，该网络的异常活动可能导致参与非自我导向的认知需求任务的能力下降，也  
+2 就是说成瘾者在具有用药目标的情况下，难以引导自己朝向正确的方向做出决策。同时，  
+3 也说明成瘾者即使长时戒断，其自我意识及自我调节等高级认知功能的缺陷仍妨碍成瘾者  
+4 规束自身的用药行为，体现为相关线索下的高复吸风险。  
+5 综上，成瘾者在与抑制控制，基于奖赏的决策及习惯性行为的神经基础的结构和功能  
+6 都呈现异常状态，说明成瘾戒断者控制系统功能低下。这个控制系统并不因为长期的戒断  
+7 而改变，证明它与成瘾前就存在的冲动性人格特质有关。同时，奖赏、S-R等效应的神经  
+8 基础也呈异常状态，这两股力量都是药物使用的驱力。若弱抑制、强驱力的神经基础同时  
+9 存在，则导致相关线索下的习惯性药物使用或渴求导致的强迫性药物使用等复吸行为的可  
+10 能性更大，即使是长期戒断后。这进一步说明造成成瘾冲动性的神经机制是多方面的，既  
+11 有成瘾物质使用前就存在的低抑制控制问题，也有长期药物使用，通过奖赏作用形成相关  
+12 线索反应造成的驱力作用，当然，也有戒断带来的变化。  
+13 局限：  
+14 本研究结果与Wang 等人(2012)发现的海洛因依赖者戒断1个月后额上回异常灰质可恢  
+15 复正常的结果不同，本研究中平均戒断43.55月后其额上回灰质体积并未恢复，可能的原  
+16 因之一是本研究中有部分海洛因戒断者同时接受美沙酮维持治疗，而Wang 的研究对象则  
+17 戒断了所有阿片类药物。美沙酮作为一种延长阿片类药物依赖性的药物，在一定程度上与  
+18 成瘾药物具有相似的作用，接受美沙酮治疗的海洛因使用者被认为仍处于成瘾状态  
+19 (Connock etal.,2007)。有研究发现美沙酮维持治疗患者相比阿片类药物完全戒断者在注意  
+20 力测试中表现更差(Tabatabaei-Jafari et al.,2014)，且在中脑边缘区、视觉-空间注意区、记  
+21 忆检索相关区和躯体感觉皮层，均表现出较高的线索诱导激活(Wei etal.,2019)。在完全戒  
+22 断治疗中(Abstinence-Based Treatments)，回避成瘾药物可能是通过前额叶对情绪和决策的  
+23 调节作用来实现的，而在美沙酮维持治疗中，对海洛因的戒断是通过美沙酮对奖赏回路中  
+24 的阿片受体的化学作用达成(Tabatabaei-Jafari et al.,2014)。因此，本研究的结果可能会由于  
+25 部分人员是美沙酮使用者，而无法完全确定它完全是由于戒断海洛因导致的。虽然我们分  
+26 析的结果显示两者在脑指标上并无显著差异，但不能排除各脑区在实施功能过程上的差异  
+27 目前还需要深刻地厘清美沙酮对成瘾者神经机制的影响，为未来的替代疗法提供进一步的  
+28 数据支撑。下一步的研究可以对参与替代治疗和完全戒断治疗的海洛因戒断者开展涉及不  
+29 同神经功能的比较研究，如任务态下的PPI分析。  
+30 此外，本研究主要使用基于像素的形态学测量方法，观察停药后成瘾者脑灰质密度的  
+31 变化。这种变化即使呈现阳性，也不能说明是由于戒断而导致的恢复。因为我们无法确认  
+32 被试在未使用成瘾物质前的神经基础。基于类似研究不太可能的操作性，未来的研究可以  
+33 把戒断者和与其具有相似人格特质的直系亲属进行心理学、影像学等表现的比较，也许可  
+34 以在排除已有的神经基础异常的情况下，进一步了解用药和戒断给成瘾者的脑功能与结构  
+1带来的影响和变化。最后，压力和负性情绪状态是复吸的重要因素，也是重要的间接驱力  
+2 在实际生活中，可以作为重要的相关线索，引发习惯性药物使用。与其相应的脑区主要是  
+3 与情绪相关的部分，这些脑区与自动化行为神经基础脑区及抑制控制脑区的连接是如何在  
+4 药物或戒断作用的影响下发生改变，由于受多种因素的影响，其机制非常复杂，还需要专  
+5 门的研究进行探索。本文由于篇幅所限，主要针对抑制控制、奖赏效应和习惯性行为的机  
+6 制进行讨论。
+
+![](images/88bf140eba473fd4db740c5e2989bbd204210d4b2eb74cd95842c3909bf4f4fa.jpg)  
+图8戒断组与对照组以右眶部额下回为感兴趣区的全脑功能连接双样本 $\mathbf { \Psi } _ { t }$ 检验图
+
+![](images/442960612b81d0d192924760c9db2c451be58454aad625c173dc220cae0d4d45.jpg)  
+图9戒断组与对照组右侧眶部额下回与右侧尾状核功能连接的双样本t检验图
+
+![](images/70a537623c120445d1873adb08cd5075dba7e91cb9e81608709622c141f989b2.jpg)  
+图10戒断组与对照组右眶部额下回与左中央前回功能连接的双样本t检验图
+
+![](images/ca86d7823d12f75876bbcd472f8e27e458b6ec500de9ef561c87687d2e2432a4.jpg)  
+图11戒断组右眶部额下回-右颞中回功能连接强度与用药时间的相关
+
+# 15结论
+
+2 经过近四年的戒断，成瘾者在奖赏、凸显、习惯性行为等网络系统仍然呈现异常状态，  
+3 与健康对照组相比存在显著差异。可能是因为造成戒断者用药的驱力因素没有减弱，而作  
+4 为人格特质的抑制控制仍然处于低水平，无法调节由于相关线索反应造成的强大驱力作用  
+5 而呈现出高冲动性和高复吸风险。此外，成瘾冲动性相关脑区均未显示出与戒断时长的显  
+6 著相关，表明成瘾者与正常人的神经生理性差异并未随着戒断时间的增加而得到恢复，意  
+7 味着海洛因成瘾者可能先天存在某种神经结构的差异，也说明海洛因对成瘾者造成的损伤  
+8 可能是长时程甚至是永久的。并且，随着成瘾期间用药总量的增加，右侧颞中回和左侧内  
+9 侧和旁扣带回的灰质体积呈现显著减少趋势，这说明海洛因具有累积效应，直接损害成瘾  
+10 者的抑制控制神经功能与结构。  
+11 未来针对预防复吸的干预治疗应关注导致复吸的冲动性驱动源和控制力，分别干预;  
+12 此外，使用美沙酮替代治疗需要考虑其对成瘾者脑功能恢复的影响，寻找与完全戒断相适  
+13 应的心理康复治疗方法。
+
+14
+
+#
+
+参考文献 Albein-Urios,N.,Verdejo-Roman,J.,Asensio,S.,Soriano-Mas,C.,Martinez-gonzalez,J.M.,Verdejo-Garcia,A., Verdejo-Roman,J.,Asensio,S.,Soriano-Mas, C.,Martinez-Gonzalez,J.M., Verdejo-Garcia,A., VerdejoRoman,J.,Asensio,S.,Soriano-Mas, C.,Martinez-gonzalez,J.M., Verdejo-Garcia,A., Verdejo-Roman,J, Asensio,S., Soriano-Mas, C.,.. Verdejo-Garcia,A. (2014). Re-appraisal of negative emotions in cocaine dependence: dysfunctional corticolimbic activationand connectivity.Addiction Biology,19(3),415-426. Belin,D.,Mar,A.C.,Daey,J. W.,Robbins,T.W.,&Everit,B.J. (2008).Highimpulsivitypredicts the switchto compulsive cocaine-taking. Science,320(5881), 1352-1355. Cheng,G.L.F.,Liu,Y.P., Chan, C.C.H., So, K.F.,Zeng, H.,& Lee,T.M. C.(2015). Neurobiological underpinnings of sensation seeking trait in heroin abusers. European Neuropsychopharmacology, 25(11). Connock,M.,Stevens, C.,Fry-Smith,A.,Jowett,S.,itzmaurice,D.,Moore,D.,& Song,F. (207).Clinical efectiveness and cost-effectiveness of different models of managing long-term oral anticoagulation therapy: a systematic review and economic modelling.Health Technology Assessment,11(38), $^ { 1 - + }$ Dalley,J. W.,ryer,T.D.Brichard,L.,Robison,E.S.J.,eobald,D.E.H.,Laane,K.,Pena,Y.,urphy,E.R, Shah,Y.,Probst,K.,Abakumova,I,igbirhio,F.I.,ichards,H.K.,Hong,Y,Baron,J. C.,Everit,B.J.,& Robbins,T. W. (2007). Nucleus accumbens D2/3 receptors predict trait impulsivity and cocaine reinforcement. Science,315(5816),1267-1270. Dalley, J. W.,&Robbins,T.W. (2017).Fractionating impulsivity: Neuropsychiatric implications.Nature Reviews Neuroscience,18(3),158-171. Deserno,L.,Wilbertz,T.,Reiter,A.,Horstman,A.,Neumann,J.,Vilringer, A.,Heinze,H.J.,& Schlagenauf,F. (2015).Lateral prefrontal model-based signatures are reduced in healthy individuals with high trait impulsivity. Translational Psychiatry,5(10),1-9. du Boisgueheneuc,F.,Levy,R.,Vole,E.,eassau,M.,Duffau,H.,Kinkingnehun,S.,Samson,Y.,Zhang,S.,& Dubois,B. (2006).Functions of the left superior frontal gyrus in humans: a lesion study. Brain,129,3315- 3328. Ersche,K.D.,Jones,P.S.,Williams,G.B.,Smith,D.G.,Bullmore,E.T.,&Robbins,T.W.(2013).Distinctive personality traits and neural correlates associated with stimulant drug use versus familial risk of stimulant dependence.Biological Psychiatry,74(2),137-144. Ersche,K.D.,Jones,P., Willams, G.,Turton,A.,Robbins,T.,&Bullmore,E. (2012).Abnormal brain structure implicated in stimulant drug addiction. Science (New York,N.Y.),335,601-604. Ersche,K.D.,Turton,A.J., Pradhan,S., Bullmore,E.T.,& Robbins,T.W.(2010).Drug addiction endophenotypes: impulsive versus sensation-seeking personality traits. Biological Psychiatry, 68(8),770- 773. Everitt,B.J.,& Robbins,T. W.(2016).Drug Addiction: Updating actions to habits to compulsions ten years on.In S.T.Fiske (Ed.),Annual Review of Psychology, 67,23-50. Fu,L. ping,Bi,G.hua,Zou,Z.tong,Wang,Y.,Ye,E.mao,Ma,L.,Ming,F.,Yang,Z,Ming-Fan,Yang,Z.,Ming, F.,& Yang, Z. (2oo8). Impaired response inhibition function in abstinent heroin dependents: An fMRI study. NeuroscienceLetters,438(3),322-326. Gallagher, H.L.,Happe,F.,Brunswick,N.,Fletcher,P.C.,Frith, U.,&Frith, C.D. (20o).Reading the mind in cartoons and stories: an fMRI study of“theory of mind’ in verbal and nonverbal tasks. Neuropsychologia, 38(1), 11-21. Gardini, S.,& Venneri, A. (2012). Reduced grey mater in the posterior insula as a structural vulnerability or diathesis to addiction.Brain Research Bulletin,87(2-3),205-211. Goldstein, R. Z.,& Volkow, N.D. (2002). Drug addiction and its underlying neurobiological basis: Neuroimaging evidence for the involvement of the frontal cortex.American Journal ofPsychiatry,159(10),1642-1652. Grusser, S.M., Wrase,J.,Klein,S.,Hermann,D.,Smolka,M. N.,Ruf,M., Weber-Fahr, W.,Flor, H.,Mann, K., Braus,D.F.,& Heinz,A.(2oo4). Cue-induced activation of the striatumand medial prefrontal cortex is associated with subsequent relapse in abstinent alcoholics. Psychopharmacology,175(3),296-302. Hassani-Abharian,P., Ganjgahi,H.,Tabatabaei-Jafari,H.,Oghabian,M.A.,Mokri,A.,& Ekhtiari,H. (2015). Exploring neural correlates of diferent dimensions in drug craving self-reports among heroin dependents. Basic and Clinical Neuroscience,6(4),271-283. He Zhong, Zhou Xu-hui, Wang Xu- yi,Liu Jun & Hao Wei.(2Oo08).Longitudinal observation on brain structure in the heroin dependence patients during abstince. Chinese Journal of Clinical Psychology,16(4),358-359. [贺忠,周旭辉,王绪轶,刘军,&郝伟.(2008).海洛因依赖者停药后脑灰质密度的纵向研究.中国临床心理学 杂志, $0 4 , 3 5 8 - 3 5 9 + 3 5 4 . ]$ （204 Hobkirk,A.L.,BellR.P., Utevsky,A.V.,Huettel, S.,& Meade,C.S.(2019).Reward and executive control network resting-state functional connectivity is associated with impulsivity during reward-based decision making for cocaine users. Drug and Alcohol Dependence,194,32-39. Hogarth,L., Chase,H. W.,& Baess,K. (2Ol2). Impaired goal-directed behavioural control in human impulsivity. Quarterly Journal of Experimental Psychology, 65(2),305-316. Hu,Y.,Salmeron,B.J.,Gu,H.,Stein,E.A.,Yang,Y.,Investigation,O.,Hu,Y.,Salmeron,B.J.,Gu,H.,Stein,E. A.,& Yang,Y. (2015). Impaired functional connectivity within and between frontostriatal circuits and its association with compulsive drug use and trait impulsivity in cocaine addiction. Jama Psychiatry,72(6), 584-592. Jia, X. Z., Wang,J.,Sun,H.Y., Zhang,H.,Liao,W., Wang, Z., Yan, C.G.,Song, X.W.,& Zang,Y.F.(2019).
+
+RESTplus: an improved toolkit for resting-state functional magnetic resonance imaging data processing. Science Bulletin,64(14), 953-954.   
+Keihani,A.,Ekhtiari,H.,Batouli, S.A.H.,Shahbabaie,A.,Sadighi,N.,Mirmohammad,M.,&Oghabian,M.A. (2017).Lower gray matter density in the anterior cingulate cortex and putamen can be traceable in chronic heroin dependents after over three months of successful abstinence. Iranian Journal of Radiology, 14(3).   
+Koob,G.F.,& Volkow,N.D.(2010).Neurocircuitry of addiction.Neuropsychopharmacology,35(1),217-238.   
+Koob,G.F.,& Volkow, N.D. (2016). Neurobiology of addiction: a neurocircuitry analysis. Lancet Psychiatry, 3(8), 760-773.   
+Lench,D.H.,DeVries,W.,& Hanlon, C.A. (2017).The effect of task diffculty on motor performanceand frontalstriatal connectivity in cocaine users. Drug and Alcohol Dependence,173,178-184.   
+Li,M.,Tian,J.,Zhang,R., Qiu,Y, Wen, X.,Ma,X.,Wang,J.,Xu,Y.,Jiang,G.,& Huang,R. (2014).Abnormal cortical thickness in heroin-dependent individuals. Neuroimage,88,295-307.   
+Li,Q.,Wang,Y., Zhang,Y.,Li, W, Yang,W,Zhu,J.,Wu,N.,Chang,H.,Zheng,Y., Qin, W.,Zhao,L., Yuan,K, Liu,J.,Wang, W.,& Tian,J. (2012). Craving correlates with mesolimbic responses to heroin-related cues in short-term abstinence from heroin: An event-related fMRI study. Brain Research,1469,63-72.   
+Liu,H.,Hao,Y., Kaneko,Y., Ouyang, X., Zhang,Y., Xu,L., Xue,Z.,&Liu,Z. (2009). Frontal and cingulate gray matter volume reduction in heroin dependence: Optimized voxel-based morphometry. Psychiatry and Clinical Neurosciences,63(4), 563-568.   
+Martz,M.E.,Zucker,R.A.,Schulenberg, J.E.,& Heitzeg,M.M.(2018). Psychosocial and neural indicators of resilience among youth with a family history of substance use disorder. Drug and Alcohol Dependence,185.   
+McHugh,M.J.,Gu,H,Yng,Y.Adinof,B.,&tei,E.A.(15).Exectivecontrolnetwork coctivity strength protects against relapse to cocaine use.Addiction Biology,22(Greicius 2008),1790-1801.   
+Morein-Zamir,S.,&Robbins,T.W.(2015).Fronto-striatal circuits inresponse-inhibition: Relevance to addiction. Brain Research,1628,117-129.   
+Pattij,T.,&De Vries,T.J. (2013).The roleof impulsivity in relapse vulnerability. Current Opinion in Neurobiology,23(4),700-705.   
+Prisciandaro,J.J.,Myrick,H.,Henderson,S.,McRae-Clark,A.L.,&Brady,K.T.(2013).Prospective associations betwen brain activation to cocaine and no-go cues and cocaine relapse.Drug and Alcohol Dependence, 131(1-2),44-49.   
+Qiu,Y.W.,Su,H.H.,Lv,X.F.,Ma,X.F,Jiang,G.H.,&Tian,J.Z.(217).Intrinsic brain network abnormaliies in codeine-containing cough syrup-dependent male individuals revealed in resting-state fMRI. Journal of Magnetic Resonance Imaging, 45(1), 177-186.   
+Ray, S.,Gohel, S.,Biswal,B.B.,Ersche,K.D.,Jones,P.S.,Williams,G.B.,Smith,D.G.,Bullmore,E.T., Robbins,T.W.,Koob,G.F.,& Volkow,N.D.(2015).Altered functional connectivity strength in abstinent chronic cocaine smokers compared to healthy controls. Biological Psychiatry,5(8),476-486.   
+Schoenbaum,G.,& Shaham, Y. (2008).The role of orbitofrontal cortex in drug addiction: Areview of preclinical studies.Biological Psychiatry,63(3),256-262.   
+Shen,Y., Wang,E., Wang, X.,& Lou,M. (2012). Disrupted integrity of white mater in heroin-addicted subjects at different abstinent time.Journal of Addiction Medicine,6(2),172-176.   
+Tabatabaei-Jafari,H.,Ekhtiari,H.,Ganjgahi,H.,Hassni-Abharian,P.,Oghabian,M.-A.,Moradi,A.,adighi,N., & Zarei, M. (2014). Pattrns of brain activation during craving in heroin dependents successfully treated by methadone maintenance and abstinence-based treatments. Journal of Addiction Medicine,8(2),123-129.   
+Vaquero,L.,Camara,E.,Sampedro,F.,Pérez de los Cobos,J.,Batle,F.,Fabregas,J.M.,Sales,J.A.,Cervantes, M.,Ferrer, X.,Lazcano,G.,Rodriguez-Fornels,A.,&Riba,J. (2017). Cocaine addiction is associated with abnormal prefrontal function,increased striatal connectivity and sensitivity to monetary incentives,and decreased connectivity outside the human reward circuit. Addiction Biology,22(3),844-856.   
+Wang,L.,Zou,F.,Zhai,T.,Lei,Y.,Tan,S.,Jin,X.,Ye,E.,Shao,Y.,Yang,Y.,&Yang,Z.(2016).Abnormal gray matter volume and resting-state functional connectivity in former heroin-dependent individuals abstinent for multiple years.Addiction Biology,21(3), 646-656.   
+Wang Pengfei,Yan Ruiting,Miao Xin&Zeng Hong.(2019).Impulsivity or habitual behavior? The function and mechanism of impulsivity in diferent phases of drug addiction. Advances in Psychological Science,27(5), 834-842.   
+[王鹏飞,严瑞婷,苗心,& 曾红.(2019).冲动还是习惯?成瘾不同阶段中冲动性的性质与机制.心理科学进展, 27(05),834 - 842.]   
+Wang,X.,Li,B.,Zhou,X.,Liao,Y.,Tang,J.,Liu,T.,Hu,D.,& Hao, W.(2012). Changes in brain gray mater in abstinent heroin addicts.Drug and Alcohol Dependence,126(3),304-308.   
+Wei, X.,Li,W.,Chen,J.J.J.J.J.,Li,Y.,Zhu,J.,Shi,H.,Liu,J., Xue,J.,Liu,W., Wang,F.,Liu,Y.,Dang,S., Chen, J. J. J.J. J.,Li, Q.,& Wang, W. (2019). Assessing drug cue-induced brain response in heroin dependents treated by methadone maintenance and protracted abstinence measures. Brain Imaging and Behavior.   
+Wollman, S.C.,Alhassoon,O.M.,Stern,M.J.,Hall,M.G.,Rompogren,J.,Kimmel, C.L.,& Perez-Figueroa,A. M.(2015).White matter abnormalities in long-term heroin users: a preliminary neuroimaging metaanalysis.American Journal of Drug and Alcohol Abuse, 41(2),133-138.   
+Yan Xuejiao,Li Wei,Wang Yarong,Li Qiang,LiYongbin, Zhu Jia, Chen Jiajie,&Wang Wei.(2015). A DTI study of brain white matter integrity in heroin addicts under short-time abstinence. Chinese Journal of Magnetic Resonance Imaging, 6(02), 98-103.   
+[严雪娇,李玮,王亚蓉,李强,李永斌,朱佳,陈佳杰,&王玮.(2015).短期戒断的海洛因成瘾者大脑白质完整 性的DTI研究.磁共振成像,6(02),98-103.]   
+Yan Xuejiao,Li Wei,Wang Yarong,Li Qiang,Zhu Jia,Li Yongbin,&Wang Wei(2016).Difsion tensor imgaing evalutaion of effects of abstinence tiime on white integrity of heroin addicts. Chinese Journal of Medical Imaging Technology,32(01),25-29.   
+[严雪娇,李玮,王亚蓉,李强,朱佳,李永斌,&王玮.(2016).DTI评价戒断时间对海洛因成瘾者大脑白质完整 性的影响.中国医学影像技术,32(01),25－29.]   
+Yang Ling., Zhang Yang., Cao Hua., Xu Jing.,Du Jun-hong., Zhang Jian-xun. (2019). Restorability of Working Memory in Heroin Addicts with Short-term Withdrawal. Chinese Journal of Clinical Psychology,27(04), 652-656.   
+[杨玲,张炀,曹华,徐景,杜军红,&张建勋.(2019).海洛因依赖短期戒断者工作记忆的可恢复性.中国临床心 理学杂志,27(04),652- 656.]   
+Yuan,K.,Qin, W.,Dong,M.,Liu,J.,Sun,J.,Liu,P.,Zhang,Y., Wang,W., Wang,Y.,Li, Q.,Zhao,L.,vonDeneen, K.M.,Liu, Y.,Gold,M.S.,& Tian,J.(2010). Gray matter deficits and resting-state abnormalities in abstinent heroin-dependent individuals.Neuroscience Letters,482(2),101-105.   
+Yuan,Y., Zhu,Z.,Shi,J.,Zou,Z.,Yuan,F.,Liu,Y.,Lee,T.M.C.,& Weng,X. (2009). Gray matter density negatively corelates with duration of heroin use in young lifetime heroin-dependent individuals. Brain and Cognition,71(3),223-228.   
+Zeng,H.,Su,D., Wang,P., Wang,M., Volstadt-Klein, S., Chen, Q.,&Ye,H.(2018).The action representation elicited by diferent types of drug-related cues in heroin-abstinent individuals.Frontiers in Behavioral Neuroscience,12,1-11.   
+Zeng,H., Su,D. Q.,Jiang,X., Chen,Q.,&Ye,H.S. (2015).Activations of sensory-motor brain regions in response to different types of drug-associated cues.Acta Psychologica Sinica,47(7),890-902.   
+[曾红,苏得权,姜醒,陈骐,&叶浩生.(2015).不同药物相关线索反应下感觉-运动脑区的激活及作用.心理学 报,47(07),890 - 902.]   
+Zhang,R., Geng, X.,& Lee,T.M. C. (2O17).Large-scale functional neural network correlates of response inhibition:an fMRI meta-analysis.Brain Structure & Function,222(9),3973-3990.   
+Zhou Ping-yan,Liu Danwei, Zhou Renlai, Sun Benliang,Xiao Jie,& Li Song. (2014a). Sensitivity to monetary reward in drug abstainers at different post-drug withdrawal phases: an ERP study. Chinese Journal of Clinical Psychology,22(04),571-576.   
+[周平艳,刘丹玮,周仁来,孙本良,肖洁,& 李松.(2014).不同戒断期毒品戒断者对金钱奖赏敏感性的ERP研 究.中国临床心理学杂志,22(04),571－576.]   
+Zhou Pingyan,Zhou Renlai,Hui Ying,Fan Wenyong,Sun Benliang,& Xiao Jie.(2O14b).Different healing phases of heroin abstainers' processing to emotional stimuli: the evidence from erp research.Psychological Exploration,34(02),172-178.   
+[周平艳,周仁来,惠颖,范文勇,孙本良,& 肖洁.(2014).不同戒断期海洛因戒断者情绪加工的损伤和恢复.心   
+理学探新,34(02),172 - 178   
+Zhu,X.,Cortes,C.R.,Mathur,K.,Tomasi,D.,&Momenan,R. (2o17).Model-free functional connectivityand impulsivity correlates of alcohol dependence: a resting-state study. Addiction Biology,22(1),206-217.   
+Zilverstand,A., Huang,A. S.,Alia-Klein,N.,& Goldstein,R. Z. (2018). Neuroimaging Impaired Response Inhibition and Salience Atribution in Human Drug Addiction: A Systematic Review. Neuron, 98(5),886- 903.
+
+# 1 Structural and Functional Characteristics of Impulsive-related Brain 2 Regions in Heroin Addicts with Long-term Withdrawal
+
+CAI Huiyan', MIAO $\mathrm { X i n } ^ { 2 }$ ,WANG Pengfei',LIN Zhiwei³,WANG Mengcheng', YANG Wendeng', MA Yankun', ZENG Hong1   
+(Department of Psychology, Guangzhou University, Guangzhou 510006, China)( Department of   
+Psychology, School of Social Sciences, Tsinghua University, Beijing 10o084, China)(Guangdong Secondary Compulsory Substance Rehabilitation Center, Foshan 528135,China)
+
+# ABSTRACT
+
+9 Impulsivity is a typical characteristic of drug addiction. In addition to the problems of   
+10 inhibition and executive control, the driving force from multiple dimensions is also an important   
+|1 reason for impulsive drug use. The psychological drive stems from a variety of sources, including reward effect， S-R related cue response through conditioning.Low levels of inhibition are insufficient to resist the effects of the drive.This leads to an unbalanced state,which results in habitual behavior tendency.
+
+Impulsivity has both a behavioral and neural basis.Although impulsivity may be a precursor of drug use,long-term use may also damage brain structures and functions related to the inhibition of impulsive behavior. There is an open question about whether these structures and functions recover after withdrawal. In this research we used multiple imaging methods to study the extent of recovery in heroin addicts who had been abstinent for several years on average.
+
+Thirty-five abstinent heroin addicts (26 males; average period of abstience $= 4 3 . 5 5$ months) and 26 healthy controls (26 males） were recruited using advertisements in the community. The heroin group and the healthy control group were compared on multiple measures of brain structure and function related to inhibition using the imaging methods of voxel-based morphometry (VBM), amplitude of low-frequency fluctuation (ALFF) and regional homogeneity (ReHo). Based on the amplitude of low-frequency fluctuation (ALFF), right inferior frontal gyrus (15, 60,-6） was selected as the region of interest in which to study functional connectivity (FC).
+
+Heroin addicts showed damage in inhibition-related brain structures and functions an average of 44 months after withdrawal,and the extent of damage was correlated with lifetime dose. (1) Compared to the healthy control group,the heroin group had significantly (a) lower gray matter volume $( \scriptstyle { p = 0 . 0 3 } )$ and lower whole-brain volume $( p { = } 0 . 0 5 )$ ； (b) lower gray matter in the right superior frontal gyrus $( p _ { \mathrm { A l p h a S i m } } < 0 . 0 1 \$ ); (c) higher regional homogeneity in right posterior central gyrus and lower regional homogeneity in right middle frontal gyrus of the orbitofrontal cortex （20 $( p _ { \mathrm { A l p h a S i m } } < 0 . 0 1 \$ ); (d) lower amplitude of low-frequency fluctuation in right inferior frontal gyrus of the orbitofrontal cortex and left hippocampus $( p _ { \mathrm { A l p h a S i m } } < 0 . 0 1 )$ ; (e) higher functional connectivity between right inferior frontal gyrus of the orbitofrontal cortex and the right caudate,and lower functional connectivity between the right inferior frontal gyrus and right middle temporal gyrus as well left precentral gyrus $( p _ { \mathrm { A l p h a S i m } } < 0 . 0 1 \$ ). (2)Within the heroin group,higher lifetime dose of
+
+1 heroin was significantly associated with lower gray matter volume in the right middle temporal   
+2 gyrus and left middle cingulate $( p _ { \mathrm { A l p h a S i m } } < 0 . 0 1 \$ ）   
+3 The results showed that compared to healthy controls, heroin addicts had significant damage   
+4 in brain structure and functions related to impulsivity even after an average period of 44 months of   
+5 abstinence.In addition, the extent of damage was correlated with the lifetime dose of heroin.   
+6 These results suggest that heroin addicts could continue to show impulsive behavior even after   
+7 several years of abstinence, perhaps explaining the high rate of relapse in this population. Future   
+8 research could test this conclusion by examining correlations between brain damage in areas   
+9 related to inhibition and behavioral measures of impulsivity after a period of abstinence. The   
+10 current evidence underscores the need to take impulsivity into account in relapse prevention   
+11 programs for heroin addicts.   
+12   
+13 Keywords Heroin addiction, Voxel-based morphometry, Amplitude of low-frequency fluctuation,   
+14 Regional homogeneity, Functional connectivity   
+15   
+16

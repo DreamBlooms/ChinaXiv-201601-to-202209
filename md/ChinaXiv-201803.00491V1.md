@@ -1,0 +1,207 @@
+# 基于多数据源的纤维素生物降解颠覆性技术研究
+
+郑玉荣1；靳军宝1²；吴新年1\*；白光祖'；刘秋燕1,2'中国科学院兰州文献情报中心，甘肃兰州 730000²中国科学院大学 北京 100049摘要：颠覆性技术基于新的技术发展轨迹，具备低端性、边缘性的初始阶段特征，并最终最代主流技术。本文基于多源数据对人类创新不同环节的表征关系以及相互之间的知识关联关系设计了颠覆性技术识别方法，以多源数据的产生、发展以及引用、复现等知识关联关系，研究科学知识演变过程，跟踪前沿技术萌芽、发展、突变的演化轨迹，从存在知识关联关系的多源数据变化中发现和识别具有颠覆性潜力的技术主题。通过基金项目信息、会议信息、基础研究信息、应用研究信息、专利信息、商业报道等多源数据挖掘了纤维素生物降解涉及菌种选育技术、酶工程技术、发酵技术与工艺、分离纯化技术等主要研发应用现状，分析其演化趋势，拟合预测了纤维素降解颠覆性技术点发生时间，并绘制了产业技术路线图。
+
+关键词：多数据源；颠覆性技术；技术点识别；纤维素；生物降解；技术路线图
+
+# Study on Disruptive Technology of Cel lulose Biodegradat ion based on Multi-data Sources
+
+Abstract: Disruptive technology is based on the new technology development track, it has the characteristics of initial phase such as low-end and marginality,and will become the mainstream technology. The article designed a method to identify disruptive technology based on multi-data sources to character the different link of human innovation and knowledge relationship between them. Then it research on the evolution process of scientific knowledge, on tracing the evolution trail of advanced technologies through the knowledge relationship of multi-data sources which including data generation, development, citation and reproduction. In order to discover and identify the disruptive technical themes. We analyzed the scientific and application status of cellulose biodegradation technologies, such as strain breeding,enzyme engineering, fermentation technology, separation and purification etc., through mining multi-data sources about fund programs, conferences, fundamental and application research information， patents, business reports. Finally, we analyzed the evolutionary trend of cellulose biodegradation, calculated the happen time of disruptive technologies of cellulose biodegradation, and drew the industrial technology roadmap.
+
+Keywords: multi-data sources; disruptive technology; technology identify; cellulose; biodegradation; technology roadmap
+
+# 1前言
+
+颠覆性技术基于新的技术发展轨迹，具备低端性、边缘性的初始阶段特征，并最终最代主流技术。颠覆性技术会对传统主流技术轨道、行业市场格局乃至国际竞争规则产生破坏性影响。面对即将到来的新科技革命，世界主要国家普遍认识到发展颠覆性技术的重要性，将部署发展颠覆性技术作为大国博弈的战略需要、提升国家科技创新能力的重要途径。2016 年国务院印发的《“十三五”国家科技创新规划》明确要求发展引领产业变革的颠覆性技术。
+
+实践已经并将继续证明，谁及时发现并部署推动颠覆性技术创新，谁就赢得了当今全球化竞争的发展先机。但由于颠覆性技术具有高度不确定性，发现并判断技术颠覆性潜力一直以来都是颠覆性技术预见工作的重点和难点。目前国内外颠覆性技术识别主要通过专家评议[1-3、技术演化[4-6]、指标模型[7-10]、论文或者专利等方法进行识别[1-14],各种方法均有一定的适用性与局限性[15]。
+
+纤维素降解研发及产业化是全球热点方向之一，全球范围内天然纤维素原料非常丰富（包括农作物秸秆、林业副产品、城市垃圾等），将纤维素进行转化生产生物燃料、饲料、食品等生物质产品对于解决环境污染、食品短缺和能源危机具有现实意义[16。目前纤维素利用主要有两个途径，分别为纤维素生物法降解转化的糖平台和纤维素原料气化的热化学平台，两种方法各有优劣点，全球范围内应用较多的是糖平台[17-18]。
+
+木质纤维素 预处理 酶水解 发酵 纯化分离 产品物理法 分步糖化发酵 生物燃料物理化学法 其他用途 同步糖化发酵 化工产品化学法 同步糖化过滤和发酵 其他生物法 统合生物工艺
+
+纤维素的生物转化利用分为原料预处理、酶水解、糖发酵3个阶段（图1），主要的技术瓶颈在于预处理技术不够成熟、纤维素酶活性较低及转化效率不高，造成生产成本过高[19。目前预处理阶段应用较多的是物理化学法（包括蒸汽爆破、氨纤维爆破等）和化学法（酸处理、碱处理、离子液体处理等）[20]，在效率相对较高的同时带来新的环境污染问题与能源问题，后续处理也存在其他方面的问题（如抑制问题）。生物法克服了其他方法的缺点，但存在效率有待提高和成本过高的问题（时间成本和经济成本），但是从长远看，生物法一旦解决效率和成本问题，将得到快速发展[21]，因此纤维素生物降解领域的颠覆性技术布局与研发攸关我国生物质能源的可持续发展，对于该领域的颠覆性技术进行识别布局具有重要意义。
+
+本文一方面为颠覆性技术预见工作提供一套科学高效并可移植、可推广的技术预见方法体系，其对于国家、地区、企业及时识别、谋划、推动颠覆性技术发展具有一定意义；另外一方面研究成果为从事纤维素生物转化的科技工作者和决策层布局纤维素生物转化战略提供参考。
+
+# 2纤维素生物降解颠覆性技术识别
+
+# 2.1研究思路、方法与目标
+
+研究思路：基于多源数据对人类创新不同环节的表征关系以及相互之间的知识关联关系设计颠覆性技术识别评价方法；以多类型文献的产生、发展以及引用、复现等知识关联关系，描摹驱动技术进步的科学知识演变过程，跟踪前沿技术萌芽、发展、突变的演化轨迹；以颠覆性技术发展的共性规律与基本特征为依据，从存在知识关联关系的多源数据变化中发现和识别具有颠覆性潜力的技术主题。
+
+本文通过收集并分析纤维素生物降解领域的基金项目信息(中美科学基金)、会议信息(CPCI)、基础研究信息（SCI及其一阶引文）、应用研究信息（工程索引EI）、专利信息（DerwentInnovationIndex）、商业报道(factiva)等多源数据，挖掘纤维素生物降解主要技术研发及应用方向，对技术主题进行基于时序的演化分析，同时对核心技术发展脉络进行描摹，识别核心技术时序演化趋势、演化路径以及发展阶段水平，在此基础上遴选出具有颠覆性潜力的技术主题，对其成熟度进行预测（图2）。
+
+国家科学基金项目通常重点资助领域前沿的探索研究，其项目信息中往往蕴含着可能对未来产生颠覆性影响的技术主题线索。从近年来中国国家自然科学基金（NSF）、美国国家科学基金（NSFC）立项资助的项目信息中发现和识别当前正在研发中的技术主题。
+
+会议论文通常记载着对于未解科学问题研究所取得的最新进展或知识创新信息，而这些进步往往蕴含着可能对未来产生颠覆性影响的前沿性技术主题。从近年来相关领域的会议论文研究内容中发现遴选科学知识主题，然后根据科学知识主题在时间序列上的变化情况来识别前沿研究的最新进展和颠覆性技术点。
+
+基础研究是技术创新的先导和源泉，许多新兴技术特别是颠覆性技术的产生与发展都源自于基础研究领域的重要突破。从基础研究成果载体科学论文入手，识别出特定领域内高被引核心论文，进而基于关键词聚类发现论文中所蕴含的科学知识主题，然后根据科学知识主题在时间轴上的变化情况（新主题突现、原主题趋热、多主题融合）来识别基础研究的知识演化。
+
+专利技术是识别纤维素生物降解技术点的重要途径，世界上 $90 \%$ 以上的技术创新通过专利进行保护，技术和市场是专利的核心内容，通过专利技术识别具有市场前景的技术方向，并分析其产业化现状，具有现实意义[22]。另外基于发明专利识别出核心专利文献中所引用的科学论文，以此发现驱动技术创新的基础研究成果集合，进而抽取关键词聚类发现科学论文中所蕴含的科学知识主题，然后根据相关科学知识主题的发展变化情况来评判和预测相关技术主题未来发展趋势；同时，利用相关专利数据所蕴含的表征人类创新活动的信息，挖掘和识别具有潜在颠覆性的专利技术及应用技术。
+
+数据准备 技术点识别 技术成熟度分析科学基金 2014-2016 项目信息 在研项目技术点NSF、NSFC 立项项目 单 基用研究-SC论文 技术点  
+检索策略 会议论文 会议论文 核心论文 前沿研究技术点 项技术点生命周期 技术会开业报道 基于技术成长曲线 当前处核心论文 基础研究技术点 Fisher-Pry改进模型核心 高被引论文 拟合绘制技术发展曲线 成为主流成熟期刊论文（核心论文） 技术所需年限SCI 外部学科 政产学研施引论文 外部潜在技术点专家咨询 主要研发机构及其竞争力全球专利 核心专利 引用文 应用研发技术点
+
+# 2.2主要研发及应用态势
+
+基于领域专家多次研讨，认为纤维素生物降解技术主要包括四大技术群，分别为菌种选育技术、酶工程技术、发酵技术与工艺和分离纯化技术。其中菌种选育技术包括诱变选育技术和基因工程选育技术；酶工程技术包括酶分析模拟技术、酶结构修饰与改性技术、工程酶制备及表达技术、工程酶应用技术、酶促反应动力学技术、新型酶与活性调控技术、酶回收技术；发酵技术与工艺包括发酵工艺参数优化技术、高效发酵技术、固态发酵技术（图3）。
+
+![](images/88b79d3a40531fae10b929ca8fd4c72bc11b72be7dfae8ce43b1d9e818aff594.jpg)  
+图3纤维素生物降解颠覆性技术点识别过程  
+Fig.3 Cellulose biodegradation disruptive technology point identification process
+
+分别收集、研究和提炼在研技术、前沿技术、基础研究、技术研发、应用研究等多个数据源涉及到纤维素生物降解的发展现状及技术方向，主要态势如下：
+
+# 1）中美科学基金项目
+
+收集了 $2 0 1 4 { \sim } 2 0 1 6$ 年涉及到纤维素生物降解的中美科学基金项目196 项，其中中国自然科学基金项目108项，美国自然科学基金项目88项。
+
+中美自然科学基金资助的纤维素生物降解项目技术点主要分布在极端环境菌种（宽PH范围、高热、低温等）选育技术、菌株高通量筛选技术、多功能关键酶转录及控制技术、高活性纤维素酶表达技术、高附加值发酵产品、极端环境下固态发酵技术等方面。
+
+菌种选育技术方向主要研究了动物（如滇金丝猴胃肠道、草食性鱼类、白蚁等）降解纤维素的机制，菌种涉及到多功能极端嗜热菌、共生菌、木霉等及其作用机制，也涉及到稳定工程菌、菌群联合作用等。中国的研究仍然主要侧重于基础理论与机理探索，美国更加注重稳定性高的工程菌选育。
+
+酶工程技术点涉及到酶解机理及驱动力、重排技术、定向修饰、转录表达、活性表征、酶种协同机理、木质素结构解析、消化机制、解聚界面模型设计、降解过程中木质素结构变化、活性因子（铜）等。中国的项目明显多于美国的项目，美国主要在基因组转录、解聚界面模型设计方面，中国的基础研究相对更加广泛。
+
+# 2）前沿技术
+
+纤维素生物法降解前沿研究主要集中在中国、美国、日本、巴西、西班牙等国家，产出最主要的国家是中国（占到整个前沿研究文献总量的 $2 2 \%$ ，下同），其次是美国（占 $1 6 \%$ ）；机构主要包括南京林业大学（61篇）、华南理工大学（52篇）、西班牙国家研究委员会（34篇）、芬兰国家技术研究中心（34篇）、北京林业大学（32篇）、日本京都大学（32篇）等。
+
+前沿技术主要方向包括纤维素降解及其综合应用、相关菌种选育技术、相关酶种（过氧化酶、漆酶等）降解技术、生物产品（主要为乙醇）、各种生物质（稻杆、玉米杆等）预处理技术等。
+
+# 3）基础研究
+
+纤维素生物降解基础研究文献可追溯到1900年，上世纪70年代开始基础研究产出明显加快，从上世纪90年代开始每年的研究文献超过1000 篇，从2007年开始每年的研究文献超过 2000篇，2013 年超过3000 篇。
+
+纤维素生物法降解基础研究产出最主要的国家是美国（占 $2 2 \%$ ），另外中国（占 $1 0 \%$ ）、日本（占 $8 \%$ ）、德国（占 $5 \%$ ）、英国（占 $5 \%$ ）、法国（占 $5 \%$ ）、印度（占 $4 \%$ ）、加拿大（占 $4 \%$ ）、西班牙（占 $4 \%$ ）等也是重要的研发地区。产出较多的机构包括日本京都大学、美国威斯康星大学麦迪逊分校、美国北卡罗莱那州立大学、美国密歇根州立大学、中国科学院、美国国家可再生能源实验室等机构，各个机构各有其重点研发方向（图4）。
+
+300 ili!   
+250 酶工程   
+200 选育诱变   
+150   
+100 发酵技术与工艺   
+50 分离纯化   
+0   
+KyotoUniv Univ Wisconsin INRA VBritishColumbia CSIC State Univ Technol UnivTokyo USDAA AARS N Carolina State Univ Michigan Univ sChina
+
+纤维素生物法降解基础研究核心论文主要集中在美国（占 $3 0 \%$ 、加拿大（占 $6 \%$ ）、法国（占 $6 \%$ ）、英国、瑞典、中国、德国、日本、西班牙、芬兰等国家。其中美国的核心基础研究论文远远高于其他国家。核心研发机构包括不列颠哥伦比亚大学、美国农业部、威斯康星大学、密歇根州立大学、芬兰国家技术研究中心、美国国家可再生能源实验室、瑞典隆德大学、西班牙国家研究委员会、北卡罗来纳州立大学、法国农学研究院等，中国的核心研发机构包括华南理工大学、中国科学院、北京林业大学等，中国的研发机构核心论文产出与世界一流研发机构有一定的差距。
+
+# 4）专利技术
+
+纤维素生物法降解专利技术主要集中在中国（占 $4 4 \%$ ）、美国（占 $1 9 \%$ ）和日本（占 $1 3 \%$ ），三个国家的专利量总和占全球相关专利总量的 $7 6 \%$ （指专利优先国，下同）。产出较多的机构主要包括丹麦诺维信（占 $3 . 5 1 \%$ ）、丹尼斯克、江南大学、荷兰帝斯曼等。中国农科院饲料所、中国农业大学、南京林业大学等也有一定的专利数量，但研发力量相对分散。
+
+通过分析整个专利技术方向，通过培养高性能微生物群对木质纤维素进行协同处理是木质纤维素降解预处理的重要方向之一。微生物培养研究具有两方面的内容，一是在前程预处理起作用，二是后期糖化和发酵阶段减少外源酶。重点关注酶组合物之间的协同作用，将木质纤维素转化为葡萄糖能力较强的菌种是重点关注方向。
+
+遗传工程是木质纤维素预处理是另外一个重要研究方向。遗传工程重点研究对木质素起作用的基因片段，进而对相适合的菌株进行基因改造，从而提高降解效率。相关技术包括基因活性、分离、扩增、构建载体表达、菌株转化、应用于木质素降解等过程。其中从相关菌珠进行多肽筛选及活性成分分离并进行遗传多功能表达是遗传工程的关注重点。
+
+纤维素生物法降解核心专利技术主要集中在美国，占了整个核心专利技术的 $6 1 \%$ ，另外中国（占 $8 \%$ ）、欧专局、日本、丹麦、英国、芬兰也有一定的比例。核心专利技术拥有企业是诺维信，占了整个核心技术的 $2 1 . 2 3 \%$ ；另外丹尼斯克、美国中西部研究所、加拿大IOGEN、壳牌国际、荷兰帝斯曼、DYADIC 国际、美国可再生能源实验室、私有酶技术公司、马斯科马等也有一定的比例，中国核心专利技术相对较少。
+
+# 2.3技术点识别
+
+通过主题词筛选与抽取、主题词结构化再标引、主题词聚类、主题词相互关系等，结合相关分类体系（专利分类号、文献分类体系），并基于纤维素生物降解四大技术群及其子技术方向，对生物降解技术点进行全方位信息分析，挖掘隐性主题知识并正确识别技术主题内容，由情报学专家和纤维素降解专家共同梳理出了95个关键技术点（表1）。
+
+对比多数据源关键技术点，不同的技术点呈现的研究热度是不一样的，同时出现在在研项目、前沿技术、基础研究、专利研发、应用研发5个数据源都是关键技术点的包括极端环境菌种（宽PH范围、高热、低温等）选育技术、菌株高通量筛选技术（包括微流控真菌高通量筛选技术、流式细胞仪细菌高通量筛选技术等）、五碳糖六碳糖共利用菌株选育技术、应用于固态发酵菌种选育技术、应用于固态发酵菌种选育技术、多基因（多功能）融合技术、辅助因子活性中心影响技术（铜等）、高活性纤维素酶筛选及表达技术、高效工程菌产业化应用技术、高耐热糖苷水解酶家族改性与表征技术、多组分纤维素酶共表达技术（不同酶比例）、连续发酵工艺优化技术、统合生物工艺（CBP）技术、固态高效液化技术、高附加值产品发酵技术、极端环境下固态发酵技术、超滤膜分离技术等。
+
+同时在4个数据源出现的技术点包括高效菌定向选育技术、高效物理（紫外、重离子、等离子辐射等）诱变技术、高效菌定向选育技术、多菌协同培育技术、流程化选育平台、蛋白组学技术、菌种突变定向进化集成技术、基因定向突变技术、高效降解菌基因（组）鉴定技术、同源重组增强技术、活性位点识别技术、高效纤维素菌株基因组（群）融合技术、氨基酸序列分析技术、酶活性在线自动监测技术、多功能关键酶转录及控制技术、漆酶木质素酶等酶系改性技术、木质素降解酶异源表达技术、基于基因工程的主动感应抗抑制技术、固定化酵母（酶）发酵技术、固态发酵菌群组合优化技术等。
+
+对比分析相关的技术方向，菌种选育方面侧重于集成性和高性价比，主要技术方向包括极端环境菌种、高通量筛选、五碳糖发酵菌株选育、固态发酵菌种选育、多基因（多功能）融合技术等。
+
+酶工程侧重高活性、多酶种共表达，主要技术点包括高活性纤维素酶表达技术、多组分纤维素酶共表达技术、酶活性在线自动监测技术、辅助因子活性中心影响技术（铜等）、高效纤维素降解基因组（群）构建等。
+
+发酵技术与工艺注重连续发酵、同步糖化发酵过滤、高价值产品、长生命周期固定化混合菌，具体的关键技术点包括统合生物工艺（CBP）技术、高附加值产品发酵技术、极端环境下固态发酵技术（耐热固态发酵生物反应器及其优化技术）、连续发酵生物反应器、固定化酵母（酶）发酵技术（长生命周期低成本混合菌发酵工艺）。
+
+分离纯化点侧重于新型膜分离技术（超滤膜、纳米膜、PDMS 等）。
+
+对比纤维素生物法降解专家遴选结果与文献遴选结果，在大方向一致的同时，专家给出的结果更注重考虑集成性、性价比、流程性等方面因素。
+
+# 2.4成熟度研究及预测
+
+# 1）科学成熟度
+
+科学成熟度度量基础研究的成熟性，一定程度上判断其产业化成熟度，一般通过应用型数据与总数据研究其科学成熟度。
+
+在菌种选育技术方向，科学成熟度较高的技术点包括高耐热工程菌模拟预测技术、菌株高通量筛选技术（包括微流控真菌高通量筛选技术、流式细胞仪细菌高通量筛选技术等）、五碳糖六碳糖共利用菌株选育技术、高效物理化学组合诱变技术、宏基因组技术、基因定向突变技术等。
+
+在酶工程技术方向，科学成熟度较高的技术点包括漆酶木质素酶等酶系改性技术、酶与其他预处理方式结合技术、新型酶工程技术、多功能关键酶转录及控制技术、高活性纤维素酶筛选及表达技术、酶固定化技术等。
+
+在发酵技术与工艺方向，科学成熟度较高的技术点包括高固态同步糖化发酵技术、统合生物工艺（CBP）技术、同步糖化过滤和发酵（SSFF）技术、低浓度底物高效固态发酵集成技术、多阶段（预处理、水解发酵）菌群联合发酵技术、高附加值产品发酵技术、极端环境下固态发酵技术等。
+
+在发酵技术与工艺方向，科学成熟度较高的技术点包括超滤膜分离技术、亲和层析纯化技术等，纳米膜分离技术、中空纤维膜分离技术的技术成熟度较低。
+
+# 表1多数据源技术主题对比及科学成熟度分析
+
+Table 1 Technology themes comparison and maturity analysis of multi-data source
+
+<html><body><table><tr><td rowspan="11"></td><td colspan="2">纤维素生物降解技术点</td><td>在研 项目</td><td>前沿</td><td>基础</td><td>应用</td><td>专利</td><td>科学</td></tr><tr><td>极端环境菌种（宽PH范围、高热、低温</td><td>★</td><td>技术 ★</td><td>研究 ★</td><td></td><td>研究 ★</td><td>研发 ★</td><td>成熟度 0.187</td></tr><tr><td rowspan="10">诱变 选育 技术</td><td>等）筛选技术 菌株高通量筛选技术（包括微流控真菌</td><td>★</td><td>★</td><td>★</td><td>★</td><td>★</td><td></td><td>0.259</td></tr><tr><td>高通量筛选技术、流式细胞仪细菌高通 量筛选技术等)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>五碳糖六碳糖共利用菌株选育技术</td><td>★</td><td>★</td><td>★</td><td>★</td><td></td><td>★</td><td>0.342</td></tr><tr><td>高效物理化学组合诱变技术</td><td></td><td>★</td><td>★</td><td>★</td><td></td><td>★</td><td>0.321</td></tr><tr><td>高效菌定向选育技术</td><td></td><td>★</td><td>★ ★</td><td>★ ★</td><td></td><td>★</td><td>0.238</td></tr><tr><td>应用于固态发酵菌种选育技术 高效物理（紫外、重离子、等离子辐射</td><td>★</td><td>★ ★</td><td>★</td><td>★</td><td></td><td>★ ★</td><td>0.254 0.296</td></tr><tr><td>等）诱变技术</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>高耐热工程菌模拟预测技术</td><td></td><td></td><td>★</td><td></td><td>★</td><td>★</td><td>0.412</td></tr><tr><td>流程化选育平台</td><td></td><td>★</td><td>★</td><td>★</td><td></td><td>★</td><td>0.230</td></tr><tr><td>多菌协同培育技术</td><td>★</td><td></td><td>★</td><td></td><td>★</td><td>★</td><td>0.157</td></tr><tr><td>菌群定向进化筛选技术</td><td></td><td>★</td><td></td><td>★</td><td>★</td><td></td><td>0.055</td></tr><tr><td rowspan="14">选育 技术 基因 工程 技术</td><td>基因组编辑技术</td><td></td><td></td><td></td><td>★</td><td>★</td><td></td><td>0.400</td></tr><tr><td>宏基因组技术</td><td></td><td></td><td>★</td><td>★</td><td></td><td></td><td>0.330</td></tr><tr><td>蛋白组学技术</td><td></td><td>★</td><td>★</td><td>★</td><td>★</td><td></td><td>0.206</td></tr><tr><td>基因组定点导入技术</td><td></td><td></td><td>★</td><td></td><td>★</td><td></td><td>0.258</td></tr><tr><td>基因组随机导入技术</td><td></td><td></td><td>★</td><td></td><td>★</td><td></td><td>0.182</td></tr><tr><td>多基因融合技术</td><td>★</td><td>★</td><td>★</td><td>★</td><td></td><td>★</td><td>0.205</td></tr><tr><td>菌种突变、定向进化集成技术</td><td></td><td>★</td><td>★</td><td>★</td><td></td><td>★</td><td>0.342</td></tr><tr><td>基因定向突变技术</td><td></td><td>★</td><td>★</td><td>★</td><td></td><td>★</td><td>0.291</td></tr><tr><td>基于转录工程定向进化技术</td><td></td><td></td><td>★</td><td>★</td><td></td><td></td><td>0.180</td></tr><tr><td>高效降解菌基因（组）鉴定技术</td><td></td><td>★</td><td>★</td><td></td><td>★</td><td>★</td><td>0.229</td></tr><tr><td>同源重组增强技术</td><td></td><td>★</td><td></td><td>★</td><td>★</td><td>★</td><td>0.210</td></tr><tr><td>不需预处理生物降解菌改造技术</td><td></td><td></td><td>★</td><td></td><td>★</td><td>★</td><td>0.176</td></tr><tr><td>活性位点识别技术</td><td></td><td>★</td><td>★</td><td></td><td>★ ★</td><td>★ ★</td><td>0.239</td></tr><tr><td>高效纤维素菌株基因组（群）融合技术 氨基酸氨基酸序列分析技术</td><td></td><td>★ ★</td><td>★ ★</td><td></td><td></td><td></td><td>0.264</td></tr><tr><td>酶分</td><td></td><td></td><td></td><td></td><td>★ ★</td><td>★ ★</td><td>0.262</td></tr><tr><td rowspan="8">析模 酶工 拟技 程技 术 术</td><td>高级结构与晶体结构分析技术</td><td></td><td>★</td><td>★</td><td></td><td></td><td></td><td>0.259</td></tr><tr><td>决策树算法酶热稳定性技术</td><td></td><td></td><td>★</td><td></td><td>★</td><td>★</td><td>0.033</td></tr><tr><td>神经网络法酶热稳定性技术</td><td></td><td></td><td>★</td><td></td><td>★</td><td>★</td><td>0.438</td></tr><tr><td>采用分子模拟预测热稳定性技术</td><td></td><td></td><td>★</td><td></td><td>★</td><td>★</td><td>0.320</td></tr><tr><td>酶活性在线自动监测技术</td><td></td><td>★</td><td>★</td><td></td><td>★</td><td></td><td>0.301</td></tr><tr><td>酶中试评价技术</td><td></td><td></td><td>★</td><td></td><td>★</td><td></td><td>0.489</td></tr><tr><td>高耐热糖苷水解酶家族改性与表征技术</td><td>★</td><td>★</td><td>★</td><td></td><td>★</td><td>★</td><td>0.277</td></tr><tr><td>多功能关键酶转录及控制技术</td><td></td><td>★</td><td>★</td><td></td><td>★</td><td>★</td><td>0.422</td></tr><tr><td>构修 饰与</td><td>漆酶、木质素酶等酶系改性技术</td><td></td><td>★</td><td>★</td><td>★</td><td></td><td>★</td><td>0.280</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="2">改性</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="6">工程 酶制 备及</td><td rowspan="6">技术</td><td>糖基化修饰技术</td><td></td><td>★</td><td>★</td><td></td><td>0.362</td></tr><tr><td>理性设计技术</td><td></td><td>★</td><td>★</td><td></td><td>0.353</td></tr><tr><td>酶的分子修饰与稳定性增强技术（化学 或者生物)</td><td></td><td>★</td><td>★</td><td></td><td>0.409</td></tr><tr><td>高活性纤维素酶筛选及表达技术</td><td>★</td><td>★ ★</td><td>★</td><td>★</td><td>0.400</td></tr><tr><td>多组分纤维素酶共表达技术</td><td>★</td><td>★ ★</td><td>★</td><td>★</td><td>0.394</td></tr><tr><td>木质素降解酶异源表达技术</td><td></td><td>★ ★</td><td>★</td><td>★</td><td>0.314</td></tr><tr><td>表达 技术</td><td>Taguchi法酶制备优化技术</td><td></td><td></td><td>★ ★</td><td>★</td><td></td><td>0.409</td></tr><tr><td rowspan="2">工程</td><td>酶与其他预处理方式结合技术</td><td></td><td></td><td>★</td><td>★</td><td></td><td>0.478</td></tr><tr><td>新型酶工程技术</td><td></td><td></td><td>★</td><td>★</td><td></td><td>0.442</td></tr><tr><td rowspan="2">酶应 用技 术</td><td>多酶复配技术</td><td>★</td><td></td><td>★</td><td>★</td><td></td><td>0.328</td></tr><tr><td>高效工程菌产业化应用技术（高效、连 续）</td><td>★</td><td>★</td><td>★</td><td>★</td><td>★</td><td>0.321</td></tr><tr><td rowspan="5">酶促 反应 动力 学</td><td>参数</td><td>混合差分进化法测定酶解纤维素动力学</td><td></td><td>★</td><td>★</td><td>★</td><td>0.250</td></tr><tr><td>酶吸附影响动力学</td><td></td><td></td><td>★</td><td>★</td><td></td><td>0.373</td></tr><tr><td>酶扩散影响动力学</td><td></td><td></td><td>★</td><td>★</td><td></td><td>0.335</td></tr><tr><td>酶活性测定技术(单酶、多酶)</td><td></td><td>★</td><td>★</td><td>★</td><td></td><td>0.325</td></tr><tr><td>纤维素酶解动力学测定方法</td><td></td><td></td><td>★</td><td>★</td><td></td><td>0.414</td></tr><tr><td rowspan="5">新型 酶与 活性</td><td>纤维小体酶活性调控技术 新型降解因子（纤维蛋白）对酶协同技</td><td></td><td></td><td>★ ★ ★</td><td>★ ★</td><td></td><td>0.292 0.267</td></tr><tr><td>术</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>采用合成生物学合成新酶技术</td><td></td><td></td><td>★</td><td>★</td><td></td><td>0.271</td></tr><tr><td>调控 膨胀素调控纤维素技术 技术</td><td></td><td></td><td>★</td><td>★</td><td></td><td>0.372</td></tr><tr><td>辅助因子（铜、锰等）调控酶活性技术</td><td>★</td><td>★</td><td>★</td><td>★</td><td>★</td><td>0.250</td></tr><tr><td rowspan="4">酶回 收技</td><td>响应面法优化酶活性技术</td><td></td><td>★</td><td>★</td><td>★</td><td>★</td><td>0.342</td></tr><tr><td>酶固定化技术</td><td></td><td>★</td><td>★</td><td>★</td><td></td><td>0.348</td></tr><tr><td>酶高效重吸附技术</td><td></td><td></td><td>★</td><td>★</td><td></td><td>0.455</td></tr><tr><td>术</td><td>膜法酶回收技术</td><td></td><td>★</td><td>★</td><td></td><td>0.536</td></tr><tr><td rowspan="7">发酵 技术 优化 与工 艺</td><td rowspan="7">发酵 工艺 参数</td><td>基于模型发酵及其评价技术 基于基因工程的主动感应抗抑制技术</td><td>★</td><td>★ ★ ★</td><td>★ ★</td><td>★ ★</td><td>0.244 0.176</td></tr><tr><td>（抑制剂包括酚类、糖类衍生物、呋喃、 弱酸、醇类等)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>连续发酵工艺优化技术 响应面法优化生物质厌氧发酵技术</td><td>★</td><td>★ ★</td><td>★</td><td>★</td><td></td><td>0.144 0.296</td></tr><tr><td>极端嗜热混合菌发酵工艺</td><td></td><td>★</td><td>★ ★</td><td>★ ★</td><td>★ ★</td><td>0.226</td></tr><tr><td>高温发酵抗抑制技术</td><td></td><td>★</td><td>★</td><td>★</td><td>★</td><td>0.371</td></tr><tr><td>发酵在线监测技术</td><td></td><td></td><td>★</td><td>★</td><td></td><td>0.096</td></tr><tr><td>代谢流分析技术</td><td></td><td></td><td>★</td><td>★</td><td></td><td>0.182</td></tr><tr><td rowspan="4">高效 发酵</td><td>多阶段（预处理、水解发酵）菌群联合</td><td></td><td></td><td>★</td><td>★</td><td>★</td><td>0.391</td></tr><tr><td>发酵技术</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>技术 固定化酵母（酶）发酵技术（长生命周 期低成本混合菌发酵工艺)</td><td>★</td><td></td><td>★</td><td>★</td><td>★</td><td>0.321</td></tr></table></body></html>
+
+<html><body><table><tr><td>发酵 技术</td><td>统合生物工艺（CBP）技术</td><td></td><td>★</td><td>★</td><td>★</td><td>★</td><td>★</td><td>0.418</td></tr><tr><td rowspan="7"></td><td>同步糖化、过滤和发酵（SSFF）技术</td><td></td><td>★</td><td>★</td><td>★</td><td>★</td><td></td><td>0.430</td></tr><tr><td>连续发酵生物反应器</td><td></td><td>★</td><td>★</td><td>★</td><td></td><td>★</td><td>0. 171</td></tr><tr><td>高附加值产品发酵技术</td><td>★</td><td>★</td><td>★</td><td></td><td>★</td><td>★</td><td>0.379</td></tr><tr><td>固态高效液化技术</td><td>★</td><td>★</td><td>★</td><td></td><td>★</td><td>★</td><td>0.387</td></tr><tr><td>极端环境下固态发酵技术（耐热固态发 酵生物反应器及其优化技术)</td><td>★</td><td>★</td><td>★</td><td></td><td>★</td><td>★</td><td>0.149</td></tr><tr><td>低浓度底物高效固态发酵集成技术</td><td></td><td></td><td>★</td><td></td><td>★</td><td>★</td><td>0.338</td></tr><tr><td>高固态同步糖化发酵技术</td><td></td><td></td><td>★</td><td></td><td>★</td><td>★</td><td>0.165</td></tr><tr><td rowspan="8">固态</td><td>城市固态废弃物微生物降解技术</td><td></td><td></td><td>★</td><td></td><td>★</td><td>★</td><td>0.277</td></tr><tr><td>固态发酵菌群组合优化技术</td><td></td><td>★</td><td>★</td><td></td><td>★</td><td>★</td><td>0.156</td></tr><tr><td>固态发酵模型评价技术</td><td></td><td></td><td>★</td><td></td><td>★</td><td>★</td><td>0.120</td></tr><tr><td>光谱和成像技术评价固态发酵底物</td><td></td><td></td><td>★</td><td></td><td>★</td><td>★</td><td>0.375</td></tr><tr><td>中心复合旋转深层固态发酵技术</td><td></td><td></td><td>★</td><td></td><td>★</td><td>★</td><td>0.500</td></tr><tr><td>不同农业废弃物生物质能利用潜力评价</td><td></td><td></td><td>★</td><td></td><td>★</td><td>★</td><td>0.346</td></tr><tr><td>技术 残余木质素再利用技术</td><td>★</td><td></td><td>★</td><td></td><td>★</td><td></td><td>0.267</td></tr><tr><td>固态发酵饲料技术</td><td></td><td></td><td>★</td><td></td><td>★</td><td></td><td>0.363</td></tr><tr><td rowspan="6">高效 分离 品分 纯化 离纯 技术 化技</td><td>半固态发酵技术</td><td></td><td></td><td></td><td>★</td><td>★</td><td></td><td>0.355</td></tr><tr><td>超滤膜分离技术</td><td>★</td><td>★</td><td></td><td>★</td><td>★</td><td>★</td><td>0.346</td></tr><tr><td rowspan="6">酶/产</td><td>单宁沉淀法分离技术</td><td></td><td>★</td><td>★</td><td>★</td><td></td><td></td><td></td></tr><tr><td>等电点分离纯化技术</td><td></td><td></td><td>★</td><td>★</td><td></td><td></td><td>0.238 0.202</td></tr><tr><td>中空纤维膜分离技术</td><td></td><td></td><td>★</td><td></td><td>★</td><td></td><td>0.226</td></tr><tr><td>亲和层析技术纯化技术</td><td></td><td></td><td>★</td><td></td><td>★</td><td></td><td>0.263</td></tr><tr><td>纳米膜分离技术</td><td></td><td></td><td>★</td><td></td><td>★</td><td></td><td>0.089</td></tr><tr><td>低成本单步快速纯化酶技术</td><td></td><td></td><td></td><td>★</td><td>★</td><td>★</td><td>0.340</td></tr></table></body></html>
+
+注： $\bigstar$ 代表在该技术方向上有研究文献 Notes:Asterisk $( { \star } )$ indicate that there is research literatur(
+
+# 2）技术成熟度
+
+颠覆性技术仍遵循技术生命周期的一般规律，其技术成熟度将是决定某一新兴技术能否实现颠覆性影响的重要因素，也是颠覆性技术预见工作的核心需求。为了判断多种纤维素生物降解技术点的发展阶段，进而预测其未来发展趋势，用技术成熟度判断某项技术在开发过程中所达到的成熟程度，而文献资料通常可以记录并反映技术发展历程和脉络，利用技术研究文献可以在一定程度上评估技术发展阶段和预测技术生命周期阶段。
+
+技术成熟度是单项技术或技术系统在研发应用过程中所处的发展状态，判别方法包括 TRIZ法、美国 NASA的 TRL 法、专利指标曲线拟合法、Fisher-Pry 曲线拟合法等，其中Fisher-Pry 法的实质是将技术发展的起步、成长、成熟和衰退等各阶段数学模型化后转化为线性关系，其特点是预测技术成熟度具有相对高准确度[23]的同时不需要过多的专家介入，在成本和时间上存在优势。本文采用Fisher-Pry模型，通过文献计量方法对纤维素降解技术发展趋势及其生命周期进行分析，其中专利数据来源于德温特专利数据库、基础研究文献数据来源SCI数据库、应用研究文献数据来源于EI数据库、商业报道信息来源于Factiva数据库。
+
+经过对主要技术方向的技术成熟度分析，纤维素生物降解13个二级技术方向均处于成长期，出现较大技术突破时间从2019年到2026年不等，技术发展时间跨度从25年到40年不等（表2)。
+
+经过技术成熟度对比分析，菌种选育技术的时间跨度大约33年左右，酶工程技术大约 30年左右，发酵技术与工艺大约 26 年左右，纯化分离技术大约 40 年左右。
+
+通过调研分步水解发酵（SHF）和同步糖化发酵（SSF）技术，分步水解发酵（SHF）基础研究主要始于上世纪70年代末，2004 年首先在加拿大由INGEN 实现产业化，即产业化成熟时间跨度大约在25年左右；同步糖化发酵（SSF）技术产业化成熟时间跨度也大约在25年左右，与发酵技术与工艺曲线拟合结论基本吻合。
+
+# 表2主要技术方向技术成熟度
+
+Table 2 the main technical direction and maturity   
+
+<html><body><table><tr><td colspan="2">技术方向</td><td>取得较大突破性进展时间</td></tr><tr><td rowspan="2">菌种选育 技术</td><td>诱变选育技术</td><td>2021</td></tr><tr><td>基因工程选育技术</td><td>2019</td></tr><tr><td rowspan="7">酶工程 技术</td><td>酶分析模拟技术</td><td>2020</td></tr><tr><td>酶结构修饰与改性技术</td><td>2021</td></tr><tr><td>工程酶制备及表达技术</td><td>2019</td></tr><tr><td>工程酶应用技术</td><td>2021</td></tr><tr><td>酶促反应动力学</td><td>2022</td></tr><tr><td>新型酶与活性调控技术</td><td>2023</td></tr><tr><td>酶回收技术</td><td>2023</td></tr><tr><td rowspan="3">发酵技术 与工艺</td><td>发酵工艺参数优化</td><td>2023</td></tr><tr><td>高效发酵技术</td><td></td></tr><tr><td>固态发酵技术</td><td>2021 2020</td></tr><tr><td>纯化分离 技术</td><td>高效酶/产品分离 纯化技术</td><td>2026</td></tr></table></body></html>
+
+# 3技术路线图
+
+技术路线图一直以来都被认为是产业技术布局规划最直观有效的工具之一，利用上述研究得出的技术主题、技术类属关系、技术成熟度分析、成为主流技术所需年限、优势研究机构等核心要素绘制技术路线图（图5，路线图中技术箭头终点为产业化大约突破时间），为颠覆性技术规划布局提供客观定量支撑。
+
+2016年 2020 2025 2030中国主要研 全球主要研需求 V 在粮食维素料源富境具大战略意义 发机构 发机构目标 完成关键技术攻关和重点装备研制， 重点推进纤维素生物燃料、纤维素制氢布局产业示范区 产业化工程、增强国际竞争力极端环境菌种（宽PH范围、高热、低温等）筛选技术菌株高通量筛选技术（微流控真菌高通量筛选、流式细胞仪细菌高通量筛选等）五碳糖六碳糖共利用菌株选育技术高效物理化学组合诱变技术高效菌定向选育技术 丹麦诺维诱变选育 应用于固态发酵菌种选育技术 信、瑞典  
+木 0基因组定点导入技术 通大学、南 I0加拿业基工程 家大美国威斯康基于转录工程定向进化技术 星州大学等高效降解菌基因（组）鉴定技术同源重组增强技术不需预处理生物降解菌改造技术活性位点识别技术高效纤维素菌株基因组（群）融合技术氨基酸序列分析技术高级结构与晶体结构酶 分析技术分 决策树算法酶热稳定性技术析 神经网络法酶热稳定性技术技术 采用分子模拟预测热稳定性技术酶活性在线自动监测技术 丹麦诺维酶中试评价技术 信、日本高耐热糖苷水解酶家族 中国科学院 KYOTO大学、改性与表征技术 微生物所、 西班牙多功能关键酶转录控制技术 江南大学、 csIc、瑞典酶结构修 漆酶、木质素酶等酶系改性技术 天业科 丹N斯、  
+酶工 技术 糖基化修饰技术构精确调控设计技术 学院院过程 、兰帝斯大  
+程 酶的分子修饰与稳定性增强技术 所、中国农 IOGEN、法国  
+技术 发 高Taguchi法酶制备优化技术 业大学、江 综合所、私酶与其他预处理方式结合技术 苏大学湖 有、技术公工程酶应 新型酶工程技术 学技术局用技术 多酶复配技术高效工程菌产业化应用技术混合差分进化法测定酶解纤维素动力学参数酶吸附影响动力学酶促反应动力学 酶扩散影响动力学酶活性测定技术纤维素酶解动力学测定方法2016年 2020 2025 2030中国主要研 全球主要研需求 在粮食、具大战略意义 发机构 发机构目标 完成关键技术攻关和重点装备研制， 重点推进纤维素生物燃料、纤维素制氢布局产业示范区 产业化工程、增强国际竞争力纤维小体酶活性控技子（纤维蛋白）对商协同技术 中国科学院  
+酶工 新 膨用合成生物学合成新酶技术 大学科 CSI、瑞典 LUND大学、  
+程技 辅助因子（铜、等性术 学院大中、 丹斯斯术酶固定化技术酶回收技 膜高效重附技术基于模型发酵技术及其评价基于基因工程的主动感应抗抑制技术连续发酵工艺优化技术发酵工艺 响应面法优化生物质厌氧发酵技术参数优化 联合水解因子预测技术极端嗜热混合菌发酵工艺高温发酵抗抑制技术发酵在线监测技术 丹麦诺维代谢流分析技术 信、瑞典多阶段（预处理、水解发 中国科学院 LUND大学、酵）菌群联合发酵技术 微生物所、 丹麦科技大固定化酵母（酶）发酵技术 江南大学、 学、美国佛湖南鸿鹰生 罗里达大统合生物工艺（CBP）技术 物科技有限 学、丹尼斯  
+狱工艺 高效发酵 发生保器高附加值产品发酵技术 苏大学、哈 源实验室、固态高效液化技术 尔滨工业大 法国石油与极端环境下固态发酵技术 学、天津大 新能源研究低浓度底物 学等 院、私有酶高效固态发 技术公司、酵集成技术 马斯科马等高固态同步糖化发酵技术城市固态废弃物微生物降解技术固态发酵菌群高效发酵 组合优化技术技术 固态发酵模型评价技术光谱和成像技术评价固态发酵底物中心复合旋转深层固态发酵技术不同农业废弃物生物质能利用潜力评价技术固态发酵饲料技术半固态发酵技术超滤膜分离技术 丹麦诺维江南大学、 信、法国石单宁沉淀法分离技术 中国科学院 油与新能源  
+狱 花 我和图所无电点分术纳米膜分离技术 业大学 克、荷兰帝低成本单步快速纯化酶技术 斯曼等
+
+Fig.5 technology road map of cellulose biodegradation (Continued)
+
+# 4结语
+
+从数据角度对比国内外纤维素生物降解技术，美欧等发达国家的研发主要是以企业和研究机构（研究所和大学）并重发展，核心技术也掌握在企业和研究机构中，尤其在专利方面企业主导了相关专利技术的研发并掌握了核心技术，成为该领域产业化发展的风向标。中国的研发以研究所和大学为主，缺少产业化核心技术，同时企业在产业化进程中不占主导地位。
+
+纤维素生物降解产业化应用需要解决的不仅仅是技术方面的问题，还与原料因素（如稳定的原料价格或者收购政策）、物流交通、产品多样化、产品市场化（高价值产品）、其他相关配套产业等息息相关，发展纤维素生物降解产业任重而道远。
+
+# 参考文献
+
+[1] BORUP M,BRoWN N,et al. The sociology of expectations in science and technology[J]. Technology analysis & strategic management,2006,18(3-4) :285-298.   
+[2] CARLSEN H,DREBORG K H,GODMAN M,et al. Assessing socially disruptive technological change[J]. Technology in society,2010,32(03) :209-218.   
+[3] CAGNIN C,HAVAS A,SARITAS O. Future-oriented technology analysis:its potential to address disruptive transformations[J]. Technological forecasting & social change,2013,80(3):379-385.   
+[4]JIANGUANG S,JINYONG G. Achieving disruptive innovation-forecasting potential technologies based upon technical system evolution by TRIZ[C]． IEEE international conference on management of innovation & technology,2008:18-22.   
+[5]孙建广，檀润华，江屏．基于技术进化理论的破坏性创新预测与实现模型[J]．机械工程学 报,2012,11:11-20. Sun Jianguang,Tan Runhua,Jiang Ping. Model for Roadmapping Disruptive Innovation Based on Technology Evolution Theory [J]． JOURNAL OF MECHANICAL ENGINEERING,2012,48(11):11-20.   
+[6] Foster R,Kaplan S. Creative destruction: why companies that are built to last underperform the market--and how to successfully transform them[M]. Crown Business,2001.   
+[7]PAAPJ,KATZR.Anticipatingdisruptiveinnovation[J].Research-technology management,2004,47(5):13-22.   
+[8] ARIANFAR S,KALLENBACHJ,MITTS H,et al. Back to the future-prediction of incremental and disruptive inovations[M].Finland:Aalto university multidisciplinary institute of di-gitalisation and energy (MIDE)，2012.   
+[9] HAHN F,JENSEN S,TANEV S. Disruptive innovation vs disruptive technology: the disruptive potential of the value propositions of 3D printing technology startups[J]. Technology innovation management review,2014,4(12) :27-36.   
+[10] S0OD A，TELLIS G J. Demystifying disruption:a new model for understanding and predicting disruptive technologies[J]. Marketing science，2011,30(02):339-354.   
+[11] MOMENI A,ROST K. Identification and monitoring of possible disruptive technologies by patent-developmentpathsand topic modeling[J]. Technological forecasting&social change,2016,104:16-29.   
+[12]黄鲁成,成雨．关于颠覆性技术识别框架的探索[J]．科学学研究,2015,33(05):654-662. Huang Lucheng,Cheng Yu,Wu feifei,etal. Study on identification framework of disruptive technology [J]．Science Research Management,2015,33(5) :654-664.   
+[13]张金柱,张晓林．利用引用科学知识突变识别突破性创新[J]．情报学报,2014,33(3):259-266. Zhang Jinzhu,Zhang Xiaolin. Identification of radical innovation based on mutation of cited scientific knowledge [J]. Journal of The China Society for Scientific and Technical Information,2014,33(3):259-266.   
+[14]苏敬勤,刘建华,王智琦等．颠覆性技术的演化轨迹及早期识别——以智能手机等技术为例[J]．科研管 理,2016,03:13-20. Su Jingqin,Liu Jianhua,Wang Zhiqi,et al. The evolution trajectory and early identification of disruptive technology by taking smartphones and other technologies as an example ［J].Science Research Management,2016,37(3) :13-20.   
+[15]刘秋艳,吴新年．国内外颠覆性技术发现方法研究综述[J]．图书情报工作,2017,61(07):127-136. Liu Qiuyan,Wu Xinnian. Review on Disruptive Technology Discovery Methods [J]. Library and Information Service,2017,61(7) :127-136.   
+[16］王国珍．纤维素转化为有机化合物的降解研究[D]．武汉大学，2016. Wang Guozhen. Study on Conversion of Cellulose into Organics by Degradation [D]． Wuhan University,2016.   
+[17] Zhang CQ， Qi W，Wang F，et al. Ethanol From Corn Stover Using SSF:An Economic Assessment[J]. Energy Sources Part B-Economics Planning and Policy，2011,6(2):136-144.   
+[18]张建．木质纤维素原料生物转化生产纤维素乙醇过程的关键技术研究[D].华东理工大学,2011. Zhang Jian. Studies on the Key Technologies of Cellulosic Ethanol Production Processes Using Lignocellulosic Feedstock [D]. East Cnina University of Science and Technology,2011.   
+[19] Sindhu R,Binod P,Pandey A. Biological pretreatment of lignocellulosic biomass- An overview[J]. BIORESOURCE TECHNOLOGY,2016,199:76-82   
+[20] Carrere H,Antonopoulou G,Affes R,et al. Reviewof feedstock pretreatment strategies for improved anaerobic digestion:From lab-scale research to full-scale application[J]． BIORESOURCE TECHN0L0GY,2016,199:386-397   
+[21]Van Dyk JS,Pletschke BI. A review of lignocellulose bioconversion using enzymatic hydrolysis and synergistic cooperation between enzymes-Factors affecting enzymes， conversion and synergy [J]. BIOTECHNOL0GY ADVANCES,2012,30(6):1458-1480   
+[22]郑玉荣,吴新年,田晓阳,等．基于产业尺度的核心专利判别方法研究——以镍基高温合金专利为例[J]．情 报理论与实践,2014,37(07),81-85. Zheng Yurong,Wu Xinnian,Tian Xiaoyang,et al. Methods research of discriminating core patents based on industrial dimension - a case study of nickel-based superalloy ［J]. Information studies: Theory & Application,2014,37(7) :81-85.   
+[23] Intepe Gizem,Bozdag Erhan,Koc Tufan.The selection of technology forecasting method using a multi-criteria interval-valued intuitionistic fuzzy group decision making approach [J]. COMPUTERS &INDUSTRIAL ENGINEERING,2013,65(2):277-285

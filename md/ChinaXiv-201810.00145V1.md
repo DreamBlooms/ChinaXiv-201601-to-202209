@@ -1,0 +1,198 @@
+# 基于VSWI和 SPI的2000—2016年河南省干旱特征研究
+
+刘晓璐，周廷刚，温莉，吴浪，张兰（西南大学地理科学学院遥感大数据应用重庆工程研究中心,重庆400715）
+
+摘要：干旱是一种常见且严重的自然灾害，极大地影响着我国的农业生产。以河南省为例，利用MODIS 产品植被指数和地表温度数据，构建表征区域干旱特征的植被供水指数 $\big ( \mathrm { \it ~ V S W I _ { N } } , \mathrm { \it ~ V S W I _ { E } } \big )$ ，并与河南省16个国家级气象站点数据计算的2000—2016年不同时间尺度的标准化降水指数(SPI)进行对比分析。结果表明： $V S W I _ { E }$ 比 $\mathsf { \Pi } _ { V S W I _ { N } }$ 更适用于河南省干旱的研究;3个月和12个月尺度的 SPI值与VSWI的相关性较高;从时间上看,河南省发生干旱频率较高,春旱和夏旱发生频率分别为0.33和0.30，总体干旱趋势更加明显，其中春旱最严重的是2000年，夏旱最严重的是2014年；从空间上来看，豫北和豫西地区比豫南干旱程度严重。
+
+关键词：植被供水指数；标准化降水指数；干旱监测；河南省中图分类号：TP79 文献标识码：A 文章编号：
+
+干旱作为一种气象灾害，直接影响到农作物正常生长发育，严重时造成作物减产甚至绝收。长期干旱还会导致生态环境恶化、社会不稳定进而引发国家安全等方面的问题。国内外对于干旱指数的研究有很多，当前对干旱的研究主要集中在农业干旱和气象干旱这两个方面[1]
+
+遥感技术因其时空分辨率高、面积覆盖大、成本低等优势在农业干旱研究中发挥着越来越重要的作用。遥感监测的方法包括热惯量法、冠层温度法、植被指数法和微波遥感法等。王宗敏[2]等运用归一化植被指数（NDVI）、距平植被指数（AVI）、植被状态指数(VCI）、温度状态指数(TCI)等不同模型的干旱指数对河南省的干旱进行分析，通过植被的生长状况来监测旱情的发展，对比不同干旱指数的差异；郭锯等[3]通过改进植被状况指数(RVCI)监测西北地区干旱。吴黎[4]运用温度植被干旱指数(TVDI)对黑龙江地区的旱情进行动态监测，并用土壤湿度进行验证，结果表明二者相关性很高。
+
+气象干旱指数也有很多,如：土壤相对湿度指数、帕尔默干旱指数、标准化降水指数等[5]。帕尔默干旱指数要综合考虑前期降水、水分需求、蒸发量等多个不确定的客观因素,计算比较复杂[6。标准化降水指数（SPI)通过概率密度函数求解累计概率，再进行累计概率标准化处理，计算时只需有降水数据即可，是一种简单易行且监测效率较高的指数，适宜于不同气候区的干旱监测与变化特征分析[7-8] O
+
+干旱作为河南省最常见的自然灾害，它制约了河南省农业发展。数据显示，仅2014年，河南省干旱就导致直接经济损失 $1 1 0 . 6 \times 1 0 ^ { 8 }$ 元[9]，因此对河南省进行干旱研究具有重要意义。本研究将气象数据得到的标准化降水指数在不同时间尺度的干旱监测，与遥感数据得出的植被供水指数（VSWI)相结合，分析河南省的干旱特征。VSWI综合了植被状态和地表温度信息，对整个生长季旱情具有较好的响应[10]。SPI考虑到降水等气象因素,能更加准确、全面地反映干旱信息。结合遥感数据和气象站点数据的优点共同分析河南省干旱的时间和空间特征，能更加准确地掌握河南旱情的发展特征，为河南省干旱监测、预警提供科学依据。
+
+# 1研究区概况
+
+河南省位于我国中部、黄河中下游地区，是我国重要的粮食作物产区和农业大省，对于保障国家粮食安全起着至关重要的作用。河南省位于湿润和半湿润气候区的交界地带，春季气候干燥大风多、夏季炎热多降水，秋季晴朗日照足，冬季寒冷雨雪少，其气温和降水的日较差、年较差都比较大，因此干旱发生较为频繁，既有春旱、夏旱，也有春夏或夏秋连旱，严重影响农作物生长及粮食生产。按照研究需要，将河南省分为豫中、豫东、豫南、豫西和豫北5个区域,以便研究不同地域空间上干旱的差异[]
+
+![](images/a949b24cd9efe317d374f49e44ce46b144e739638cbc1a3989cf74a900a746ea.jpg)  
+图1研究区及气象站点分布图  
+Fig.1Study area and spatial distribution of meteorological stations
+
+# 2 数据来源与处理
+
+# 2.1遥感数据来源及处理
+
+本文选用NASA数据共享平台提供的Terra/MODIS（moderate resolution imaging spectroradiome-ter)产品16d合成的 $2 5 0 \mathrm { ~ m ~ }$ 空间分辨率MOD13Q1来获取植被指数（NDVI、EVI），8d合成的 $1 ~ \mathrm { k m }$ 空间分辨率的MOD11A2获取陆地地表温度 $( T s )$ 数据。对2000—2016年的MODIS植被指数影像MOD13Q1及地表面温度影像MOD11A2首先运用MRT（MODISReprojection Tool-MODIS 数据处理工具)进行重新投影，并运用双线性内插法将分辨率为 $1 ~ \mathrm { k m }$ 的MOD11A2重采样为 $2 5 0 \mathrm { ~ m ~ }$ 、然后进行裁剪、剔除异常值、温度数据处理即为将亮温转换为摄氏度、NDVI、
+
+EVI的归一化处理等过程，最后运用Python编程合成月数据，进而进行植被供水指数的计算。
+
+# 2.2气象数据来源及处理
+
+河南省境内16个（嵩山2000—2002 年无数据，因此去掉)气象站点的逐月降水量数据，来源于国家气象信息中心提供的中国地面气候资料月值数据集。通过编程计算不同时间尺度下的SPI值。在站点尺度上，对基于气象数据计算的不同时间尺度下的SPI值与遥感数据进行验证比较。
+
+# 3 研究方法
+
+# 3.1 植被供水指数法(VSWI)
+
+植被指数可以反映植被生长的状况，由于NDVI对植被高覆盖区的易饱和问题、对大气颗粒的反射等纠正不彻底、对低植被覆盖地区土壤背景影响未进行修正以及“最大值合成法”不能保证选择最佳像元等问题,因此提出了增强型植被指数 $E V I ^ { [ 1 2 ] }$ （204 O
+
+$$
+N D V I { = } { \frac { \rho 1 - \rho 2 } { \rho 1 + \rho 2 } }
+$$
+
+$$
+E V I = { \frac { G ( \rho 1 - \rho 2 ) } { \rho 2 + C 1 \rho 1 - C 2 \rho 2 + L } }
+$$
+
+式中： $\rho 1 \lrcorner \rho 2 \lrcorner \rho 3$ 分别是MODIS传感器的第1 波段（ $6 2 0 \sim 6 7 0 ~ \mathrm { n m } )$ ）、第2波段 $( 8 4 1 \sim 8 7 6 \ \mathrm { n m }$ 、第3波段 $( 4 5 9 \sim 4 7 9 \ \mathrm { n m }$ )反射率。系数 $G \ = 2 . 5 \ : , C 1 = 6 \ : , C 2$ $= 7 . 5 \ , L = 1$ 。
+
+当植被供水正常时，植被指数在生长期内就会保持在一定的范围。如果遇到十旱就会导致植被供水不足，植被的生长就受到影响进而导致植被指数降低;另一方面当植被受干旱胁迫时，为减少水分损失，叶面气孔会部分关闭，导致植被冠层温度升高[13]。植被供水指数是以遥感数据处理计算得到的冠层表面温度和植被指数作为因子，能在一定程度上反映作物生长季受旱状况。本研究选取归一化植被指数NDVI和增强型植被指数 $E W I$ ,分别探究其对河南省干旱情况的反映程度，选取更适合河南省干旱研究的模型。国家卫星气象中心推荐的计算公式为：
+
+$$
+V S W I _ { \scriptscriptstyle N } = \frac { N D V I } { T S }
+$$
+
+$$
+V S W I _ { _ { E } } = { \frac { E V I } { T S } }
+$$
+
+VSWI值越小，表明区域受旱越严重，反之则表
+
+明没有受到干旱的影响。
+
+植被供水指数监测干旱没有一个统一现成的干旱等级划分标准，论文根据像元值的统计分布得出VSWI的干旱分级，如表1：
+
+# 表1植被供水指数干旱分级
+
+Tab.1Drought classification of vegetation water supplyindex   
+
+<html><body><table><tr><td>等级</td><td>类型</td><td>VSWI值</td></tr><tr><td>1</td><td>无旱</td><td>VSWI≥0.25</td></tr><tr><td>2</td><td>轻旱</td><td>0.2≤VSWI<0.25</td></tr><tr><td>3</td><td>中旱</td><td>0.12≤VSWI<0.2</td></tr><tr><td>4</td><td>重旱</td><td>0≤VSW<0.12</td></tr></table></body></html>
+
+# 3.2 标准化降水指数(SPI)
+
+降水量一般是一种偏态分布，在干旱的监测和评价中，常采用I分布概率描述降水量的变化。标准化降水指数采用I分布概率对降水量进行描述，再将偏态概率分布进行正态标准化处理，最后用标准化降水累计频率分布划分干旱等级[14]。标准化降水指数是表征某时段降水量出现概率的指标，消除了降水量在时空分布上的差异，适用于月尺度以上的气象干旱监测与评估。
+
+$S P I$ 指数公式为[15]：
+
+$$
+S P I = S \frac { t - \big ( c _ { 2 } t + c _ { 1 } \big ) t + c _ { 0 } } { \big [ \big ( d _ { 3 } t + d _ { 2 } \big ) t + 1 . 0 \big ] }
+$$
+
+式中：
+
+$$
+t = { \sqrt { \ln { \frac { 1 } { G ( x ) ^ { 2 } } } } }
+$$
+
+式中： $G ( x ) ^ { 2 }$ 为与 $\Gamma$ 函数相关的降水分布概率; $x$ 为降水样本值; $s$ 为概率密度正负系数; $\boldsymbol { c } _ { 0 } \setminus \boldsymbol { c } _ { 1 } \setminus \boldsymbol { c } _ { 2 }$ 和$d _ { 1 } , d _ { 2 } , d _ { 3 }$ 为 $\Gamma$ 分布函数转换为累积频率简化近似求解公式的计算参数，具体取值为：
+
+$c _ { 0 } = 2 . 5 1 5 5 1 7 , c _ { 1 } = 0 . 8 0 2 8 5 3 , c _ { 2 } = 0 . 0 1 0 3 2 8 ,$ $d _ { 1 } = 1 . 4 3 2 \ 7 8 8 \ , d _ { 2 } = 0 . \ 1 8 9 \ 2 6 9 \ , d _ { 3 } = 0 . \ 0 0 1 \ 3 0 8 \ _ { \mathrm { c } }$ 当 $G ( x ) > 0 . 5$ 时，当 $G ( \boldsymbol { x } ) \in 0 . 5$ 时， $S = - 1$ 。
+
+$G ( x )$ 由 $\Gamma$ 函数概率密度积分公式求得，公式为：
+
+$$
+G ( x ) = \frac { 2 } { \beta \gamma \Gamma ( \gamma _ { 0 } ) } \int _ { 0 } ^ { x } x ^ { \gamma - 1 } \mathbf { e } ^ { - x / \beta } \mathrm { d } x , x > 0
+$$
+
+式中： $\gamma , \beta$ 为 $\Gamma$ 分布函数的形状和尺度参数。
+
+本文应用美国国家减灾中心提供的 $S P I$ 计算程序分别计算河南省16个站点2000—2016 年的1个月、3个月、6个月、12个月和24个月尺度的SPI值，简记为 $S P I 1 , S P I 3 , S P I 6 , S P I 1 2 , S P I 2 4$ 。本文采用国家标准气象干旱等级（GB/T20481—2006）规定的干旱分级标准(表2)对计算结果进行分级[15]
+
+Tab.2Drought classification standard based on SPI   
+
+<html><body><table><tr><td>等级</td><td>类型</td><td>SPI值</td></tr><tr><td>1</td><td>无旱</td><td>SPI≥-0.5</td></tr><tr><td>2</td><td>轻旱</td><td>-1.0≤SPI< -0.5</td></tr><tr><td>3</td><td>中旱</td><td>-1.5≤SPI< -1.0</td></tr><tr><td>4</td><td>重旱</td><td>-2.0≤SPI< -1.5</td></tr><tr><td>5</td><td>特旱</td><td>SPI≤-2.0</td></tr></table></body></html>
+
+# 4结果与分析
+
+# 4.1 植被供水指数与标准化降水指数的相关性分析
+
+在对植被供水指数与标准化降水指数的相关性分析中，由于样本数量过大，并且一些遥感数据经处理后由于各种因素(云等)仍出现许多无效值，无法提取有效的对应栅格值。因此本文选取其中数据质量较好的 $2 0 0 0 \ 、 2 0 0 3 \ 、 2 0 0 6 \ 、 2 0 0 9 \ 、 2 0 1 2 \ 、 2 0 1 4$ 年这6a作为样本进行相关性计算。这6a不同季节的16个站点的 $V S W I _ { \boldsymbol { E } } \setminus V S W I _ { \boldsymbol { N } }$ 与不同时间尺度的SPI的值进行相关性分析，得到每个站点的平均相关系数。
+
+不同时间尺度的 $S P I$ 对降水的敏感性不同。相关系数除SPI24外大部分都通过了 $P < 0 . 0 5$ 水平的显著性检验，且均表现为显著相关性。从相关系数来看， $V S W I _ { E }$ 比 $V S W I _ { N }$ 更适合作为河南省的干旱监测。总体来看SPI3和SPI12与VSWI的相关性明显高于 $S P I 1 \ 、 S P I 6 \ 、 S P I 2 4$ ，说明3个月尺度和12个月尺度的SPI能更好地表达河南省干旱的程度。春季3个月尺度的SPI值相关系数较高，由于植被对干旱的反馈需要时间，冬小麦是河南省春季主要农作物，1\~4月为冬小麦生长期,特别是1\~2月由于温度过低，生长缓慢，春季的作物生长状况会受到降水影响，但其影响存在滞后现象。而1个月尺度 SPI仅夏季的相关系数相对比较高，这是由于夏季气温较高，并且是玉米等农作物的生长期，作物的长势比较明显，在降水丰沛的年份能够基本满足玉米等农作物生长的需求，所以农作物对降水的反映时间较短[16]。冬季小麦越冬,温度出现负值,加上雪被覆盖，其相关性出现负相关可能是由于冬季作物生长非常缓慢加上地面的积雪冰冻对NDVI或者EVI产生影响[17]
+
+表2标准化降水指数干旱分级  
+表3不同的VSWI与不同时间尺度的SPI的平均相关系数  
+Tab.3Average correlation coefficient between different VSWIs and SPIs   
+
+<html><body><table><tr><td>VSWIE</td><td>春季</td><td>夏季</td><td>秋季</td><td>冬季</td><td>VSWIN</td><td>春季</td><td>夏季</td><td>秋季</td><td>冬季</td></tr><tr><td>SPI1</td><td>0.19 *</td><td>0.27 **</td><td>0.31 **</td><td>-0.08</td><td>SPI1</td><td>0.10</td><td>0.10</td><td>0.12</td><td>-0.09</td></tr><tr><td>SPI3</td><td>0.47 **</td><td>0.32 **</td><td>0.49 **</td><td>0.41 **</td><td>SPI3</td><td>0.33 **</td><td>0.14 *</td><td>0.22 *</td><td>0.24 **</td></tr><tr><td>SPI6</td><td>0.35 **</td><td>0.13 *</td><td>0.25 **</td><td>0.39 **</td><td>SPI6</td><td>0.23 *</td><td>0.02</td><td>0.19 *</td><td>0.21 *</td></tr><tr><td>SPI12</td><td>0.45 **</td><td>0.23 **</td><td>0.37**</td><td>0.40 **</td><td>SPI12</td><td>0.36 **</td><td>0.20 *</td><td>0.20 *</td><td>0.22 *</td></tr><tr><td>SPI24</td><td>-0.08</td><td>0.10</td><td>-0.02</td><td>0.05</td><td>SPI24</td><td>-0.03</td><td>-0.03</td><td>0.1</td><td>0.02</td></tr></table></body></html>
+
+注： $*$ · $P < 0 . 0 5$ ；\*\*:P<0.01
+
+![](images/af7f4991aa7eb77efe8c3e291b15f4c1ab71885d8251b8edaf9226d1d27e4b55.jpg)
+
+![](images/1e2ce0ec54c95457c65b402fa49b96cd1f0c0f308851f4c681fa6ba0142a6955.jpg)  
+图32000—2016年河南省不同地区 SPI变化趋势图Fig.3Trend chart of different regional SPIin HenanProvince from 2000 to 2016
+
+![](images/1d1d57782706d1d645dccd8dac432aed8a013db67e7b05b600f34620c8e7c3d8.jpg)
+
+SPI与VSWI整体相关性不是特别高，从一定程度上表明气象干旱和遥感监测的干旱存在着差别;其次，在计算气象站点与遥感数据相关性时，本研究运用从遥感影像上提取气象站点对应的栅格数据像元值进行相关性计算，并不是对站点数据进行插值，因为站点数量有限，插值效果并不好，但此方法也存在一定误差；加之栅格数据空间分辨率的因素，最终导致相关系数不高。
+
+# 4.2基于植被供水指数的干旱空间特征
+
+遥感监测的优点在于能够持续动态地监测旱情的发展，并且能够获取旱灾变化的过程信息，真实清楚地反映旱情发生、发展至缓解的整个过程，直观反映不同区域同一时间、同一区域不同时间的旱情分布状况。分析发现,河南省旱情最为明显的是春旱和夏旱，并且影响时间长、范围广。春旱最严重的是2000年，夏旱最严重的是2014年。
+
+春季是农作物生长的重要阶段，对水分的需求量很大，而河南省春季的气候特征决定了春季可能会发生不同程度的干旱，并且是干旱出现频率最高的季节；夏季是河南省作物生长至成熟的关键时期，由于夏季太阳辐射强，温度高，地面蒸发和作物蒸腾比较旺盛，作物对水分的需求也相对较多，该阶段发生的干旱将会直接影响到作物的生长状况和产
+
+量[18]
+
+空间上，河南省春季豫中和豫东的旱情比较严重，夏季在豫西和豫西北部地区旱情比较严重。河南省地势西高东低、北高南低，春季降水量少，气温回升快，豫东和豫南等平原地区比豫西和西北丘陵地区气温回升快，因此干旱严重。而夏季受东南季风水汽影响，东部由于地势低平水汽更易到达，水汽比西北部丘陵地区水汽充足，因此旱情不如豫西和西北明显。南部(信阳等地)其植被覆盖度高，植被状况良好，且降水相对充足，因此全年干旱频率都不如其他地区高。而西部植被覆盖率低的地区在冬春季节会受积雪和雾霾的影响，使干旱指数不能完全反映该地的干旱情况。
+
+# 4.3基于标准化降水指数的干旱时间特征
+
+将标准化降水指数 $S P I < \mathrm { ~ - ~ } 0 . 5$ 定义为干旱,通过统计发现河南省春、夏、秋、冬四个季节发生旱灾的频率分别为 $0 . 3 3 , 0 . 3 0 , 0 . 2 8 , 0 . 1 7$ 。上述统计发现春季是河南省出现干旱频率最高的季节，其次是夏季、秋季。河南省春旱发生频繁是由其春季降水少、大风天气多的气候特点所决定的，夏季高温炎热，如果降水量减少则直接导致干旱发生。
+
+不同地区的干旱程度不同，干旱的变化趋势也不同，因3个月尺度的标准化降水指数能够很好的反映区域干旱程度，所以分别以河南省不同区域的SPI3进行分析，得到如图3所示结果，并将趋势线方程显示于图表中。从一次线性方程系数的大小和趋势线的方向可以清楚地反映每个区域标准化降水指数的变化趋势。
+
+2000—2016年SPI值在 $- 2 . 8 6 \sim 2 . 6 7$ 之间变化,其中豫中、豫南和豫东SPI变化幅度比较大，表明其降水年际变化明显，气候不稳定，容易发生气象灾害。趋势线及趋势方程表明，河南省不同地区的干旱程度虽然不同，但大部分地区(除豫西以外)干旱趋势均呈现不同程度的增强，因此河南省应当加强干旱的防范。
+
+# 5 结论与讨论
+
+# 5.1讨论
+
+本研究利用遥感数据和气象数据分别建立干旱指数，相关性不是特别高，在一定程度上说明气象干旱和遥感监测的干旱存在着差别，但足够反映出不同尺度下SPI值变化规律。SPI计算时只需有降水数据即可，累计的概率计算时，旱情已经在时间序列上的进行纵向对比，是能够在一定程度上反映旱情时间序列上的变化。但对于干旱的研究考虑到的因子有限，并且气象干旱不能表明人为干预下对干旱的影响，如在灌溉农业区降水量较少的干旱年份，灌溉及水库在枯水期的补给能直接作用于农作物的生长。全球干旱半干旱区的范围不断扩张，蒸发不断增加[19],而当前没有一种单一的干旱指数或单一的数据源能够完全适应所有区域的干旱监测。因此，建立适合不同区域、不同地形条件下的通用模型，或者结合遥感数据和气象数据建立模型，将成为今后研究工作的重点和难点。
+
+# 5.2结论
+
+本文以河南省为例，运用MODIS遥感数据和国家级气象站点数据分别计算不同数据源的干旱指数，通过综合和对比分析出河南省干旱特征。
+
+（1）河南省干旱发生的频率高，其中春旱和夏旱最为明显。研究结果表明：2000—2016年春夏秋冬发生重旱的年数分别为：4a、3a、2a和 $3 \mathrm { ~ a ~ }$ 。其中春旱严重的年份分别为：2000、2001、2005年和2011年；夏旱严重的年份为2012、2013、2014年。
+
+(2）河南省春旱发生的范围比较广，豫西和豫西北地区夏旱旱情比较严重，而豫中和豫东地区易发生春旱和冬旱。
+
+（3）从2000—2016年旱情变化趋势看，全省旱情呈增强趋势。其中，豫北、豫东、豫中和豫南地区的干旱状况是从2000—2016年更加严重，而豫西则呈现减轻趋势。
+
+（4）从相关系数来看， $V S W I _ { E }$ 比 $V S W I _ { N }$ 更适合河南省干旱的研究，SPI3 和 SPI12和 $V S W I _ { \mathit { \Pi } _ { E } }$ 的相关系数更高，其中SPI3相关系数最高，说明其更适合河南旱情的研究。
+
+# 参考文献(References)
+
+[1］唐侥,孙睿.基于气象和遥感数据的河南省干旱特征分析[J]. 自然资源学报,2013,28（4）:645-655.[TANGJiao,SUNRui. Drought characteristics in Henan Province with meteorological and remote sensing data[J].Journal of Natural Resources,2O13,28 (4):645 -655.]
+
+[2］王宗敏,杨海波,计淇才,等.基于 MODIS 的河南省遥感干旱监测研究[J].水土保持通报，2012，32（1）： $1 3 9 - 1 4 3 + 2 1 1$ [WANG Zongmin,YANG Haibo,JI Qicai,et al.Remote sensingmonitoring for drought in Henan Province based on MODIS[J].Bulletin of Soil and Water Conservation,2012,32（1）:139-143
+
+# $+ 2 1 1 . ]$
+
+[3］郭锯,管晓丹.植被状况指数的改进及在西北干旱监测中的应 用[J].地球科学展,2007,22（4）:1160－1168.[GUO Ni, GUAN Xiaodan.An improvement of the vegetation condition index with applications to the drought monitoring in northwest China[J]. Advances in Earth Science,2007,22(4）:1160 -1168.] [4］吴黎.基于 MODIS 数据温度植被干旱指数干旱监测指标的等 级划分[J].水土保持研究,2017,35（4）:276-282.[WULi. Classification of drought grades based on temperature vegetation drought index using the MODIS data[J].Research of Soil and Water Conservation,2017,35(4) :276-282.] [5]孙丽,陈焕伟,赵立军,等.遥感监测旱情的研究进展[J].农业 环境科学学报,2004,23（1）:202-206.[SUN Li,CHEN Huanwei,ZHAO Lijun,et al. The advances of drought monitoring by remote sensing[J].Journal of Agro-Environment Science,2004,23 (1):202 -206.] [6]MCKEE T B,DOESKEN N J,KLEIST J. The relationship of drought frequency and duration to time scales[R].Eighth Conference on Applied Climatology,American Meteorological,1993. [7]胡悦,杜灵通,候静,等.基于 SPI指数的宁夏中部干旱带   
+1960—2012年干旱特征研究[J].干旱地区农业研究,2017,35 (2）:255-262.[HU Yue,DU Lingtong,HOU Jing,et al. Drought characteristics in arid zone of middle Ningxia from 196O to 2012 base on SPI index[J].Agricultural Research in the Arid Areas,   
+2017,35(2) :255 -262.] [8]PALMER W C.Meteorological drought[J].U.S.Weather Bureau Paper,1965,45:1 -58. [9]许小峰.中国气象灾害年鉴[M].北京：气象出版社,2014,   
+243.［XU Xiaofeng.Yearbook of meteorological disasters in China [M].Beijing:China Meteorological Press,2004,243.] [10］张洁,武建军,周磊,等.基于MODIS 数据的农业干旱监测方 法对比分析[J].遥感信息,2012,27（5）:48-54.［ZHANG Jie,WU Jianjun,ZHOU Lei,et al. Comparative study on remotely sensed methods of monitoring agricultural drought based on MODIS data[J].Remote Sensing Information,2012,27(5）:48-54.] [11］李琪,孙晓宇,王连喜,等.基于不同植被指数的 VSWI在河南 省春季干旱监测中的应用分析[J].作物杂志,2016,（5）：162 - 168.[LI Qi,SUN Xiaoyu,WAN Lianxi,et al. The use of vegetation supply water index（VsWI）based on different vegetation indices inthespring drought monitoring inHenan ProvinceJ].Crops，   
+2016,(5) :162 -168.]   
+[12］曹言,王杰,李竹芬,等.基于VSWI法的云南省土壤水分反演 研究[J].中国农村水利水电,2017，（4）：22-27.［CAOYan, WANG Jie,LI Zhufen,et al.Research of soil moisture retrieval based on VSWI in Yunnan Province[J].China Rural Water and Hydropower,2017,(4):22-27.]   
+[13］梁芸,张峰,韩涛.利用EOS/MODIS 植被供水指数监测庆阳地 区的土壤湿度[J].干旱气象,2007,25（1）：44-47.［LIANG Yun,ZHANG Feng,HAN Tao. Monitoring soil humidity byusing EOS-MODIS VSWI product in Qingyang[J].Arid Meteorology， 2007,25(1) :44 -47. ]   
+[14］杨晓静,左德鹏,徐宗学.基于标准化降水指数的云南省近55 年旱涝演变特征[J].资源科学,2014,36（3）:473－480. [YANG Xiaojing,ZUO Depeng,XU Zongxue. Characteristics of droughts and floods analyzed using the standardized precipitation index in Yunnan Province during the past 55 years[J].Resources Science,2014,36(3):473-480.]   
+[15］中华人民共和国国家质量监督检验检疫总局.GB/T20481— 2006 中华人民共和国国家标准：气象干旱等级[S].北京：中 国标准出版社,2OO6.[General Administration of Quality Supervision，Inspection and Quarantine of the People's Republic of China.Classification of meteorological drought（GB／T20481- 2006)[S].Beijing:Standards Press of China,2006.]   
+[16］白力改,燕琴,张丽,等.MODIS 干旱指数对华北干旱的敏感性 分析[J].干旱区地理,2012,35（5）:708－716.[BAI Ligai, YAN Qin,ZHANG Li,et al. Sensitivity analysis of MODIS derived drought indices to drought in north China[J].Arid Land Geography,2012,35(5):708 -716.]   
+[17］王鹏新,孙威.基于植被指数和地表温度的干旱监测方法的对 比分析[J].北京师范大学学报（自然科学版),2007,43（3）： 319 -323.[WANG Xinpeng,SUN Wei. Comparison study on NDVI and LST based drought monitoring appoaches[J].Journal of Beijing Normal University（Natural Science）,2007,43（3）:319 - 323.]   
+[18］闫峰,王艳姣,吴波.近50 年河北省干旱时空分布特征[J].地 理研究,2010,29（3）:423-430.[YAN Feng,WANG Yangjiao, WU Bo.Spatial and temporal distributions of drought in Hebei Province over the past 5O years[J].Geographical Research,2010, 29(3):423-430.]   
+[19]HUANG JP,JI MX,XIE Y K,et al.Global semi-arid climate change over last 60 years[J]. Climate Dynamics,2016,46（3- 4) :1131 -1150.
+
+# Characteristics of drought in Henan Province from 2ooo to 2016 based on VSWI and SPI
+
+LIU Xiao-lu， ZHOU Ting-gang，WEN Li， WU Lang， ZHANG Lan (Chongqing Engineering Research Center for Remote Sensing Big Data Aplication,School of Geographical Sciences, Southwest University,Chongqing 400715,China)
+
+Abstract：Drought is a common and serious natural disaster,and it seriously efects theagricultural production in China. This paper takes Henan Province,China,as an example,and uses MODIS products MOD13Q1 to obtain vegetation index $( N D W , E V I )$ ,and MODIS11A2 to obtain the surface temperature $( T s )$ data,then constructs the Vegetation Supply Water Index $\mathbf { \Psi } \left( V S W I _ { N } , V S W I _ { E } \right)$ ）which indicates the regional drought characteristics.Then,they are compared with the Standardized Precipitation Index $( S P I )$ that is calculated by the data from 16 national weather stations in Henan province at diferent time scales form 2OOO to 2O16.Finallythe comparison and analysis arecarried out.The result shows that $V S W I _ { E }$ is more suitable than $V S W I _ { N }$ for drought study in Henan Province.The correlations between VSWI and the $S P I$ value at 3 and 12 months scales are higher and more suitable for the drought study of HenanProvince.In terms of time,thedrought frequencyof Henan Province is high,and thespring and summer drought frequencies are O.33 andO.3O respectively.The overall drought trend is even more obvious.The worst spring drought happened in 20O0,and the worst summer drought ocurred in 2O14.From the view of space,the drought degree in the north and west of Henan Province is more serious than that in southern Henan.This study reveals the developmentcharacteristics of drought in Henan,and provides some useful information for the monitoring and early-warning of drought in Henan.
+
+Key words:VSWI； SPI；monitoring drought；Henan Province

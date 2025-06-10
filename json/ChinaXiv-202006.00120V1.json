@@ -1,0 +1,489 @@
+[
+    {
+        "type": "text",
+        "text": "基于即时反馈的反应抑制训练对青少年和成人执行功能的训练效应和迁移效应",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王元¹李柯²盖笑松¹曹逸飞(1东北师范大学心理学院，长春，130024；²烟台文化旅游职业学院，烟台，264000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要本研究以基于即时反馈的 Stop Signal范式为训练任务，考察3周训练是否对青少年和成人的执行功能产生训练效应和迁移效应。发现青少年、成人实验组和积极控制组都出现了训练效应。两个实验组均产生了对反应抑制Go/No-go任务的迁移效应；但只有青少年实验组出现了对干扰抑制 Stroop 任务的迁移效应。成人实验组和积极控制组都出现了对2-back 任务的迁移效应；但只有青少年实验组出现了在2-和3-back任务上的迁移效应。所有组别都未能出现对推理能力的迁移。研究证明从青春期到成年期，基于即时反馈的反应抑制训练能够对执行功能产生训练和迁移效应，但迁移仅限于抑制和工作记忆等基础成分，无法改善推理能力。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词反应抑制训练；执行功能；青少年；即时反馈",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在众多认知功能中，执行功能（ExecutiveFunction，简称EF）在青春期及其之前的阶段发展迅速，能够较好地预测个体的短期成就（如学业成就）和长期发展（如健康、事业成绩、社会经济地位等），其预测性甚至优于传统的智力因素（Moffitt et al.,2011）。执行功能是问题解决的心理过程中必须用到的一种功能结构，能使个体在完成复杂认知任务时协调各种资源，控制系统完成各种加工（Diamond,2013），包含三个主要成分，分别是抑制（Inhibition）、工作记忆（Working Memory）和认知灵活性（CognitiveFlexibility）（Miyake etal.,2000）。推理、计划和问题解决被认为是高级的、整合性的执行功能指标（Diamond,2013）。当前，针对执行功能的训练及其可塑性研究渐成规模。Diamond 等人对执行功能训练研究进行了梳理，发现目前主要有6类训练方法，包括计算机训练、计算机和非计算机混 合游戏、武术与正念练习、课堂教学、课堂教学补充和体育运动",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（Diamond,&Lee,2011）。其中，计算机训练是开展较早且成果丰富的干预方案。采用工作记忆，特别是刷新任务为训练方案的研究已经展现出了对执行功能，甚至包括流体智力较强的迁移效应（Melby-Lervag etal,2017）。抑制和认知灵活性的训练研究相对缺乏，特别是抑制训练鲜有迁移效应产生（Enge etal,2014; Zhao,Chen,&Maes，2018; Zhao,& Jia,2019）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "部分研究发现，儿童和青少年经过抑制训练都出现了迁移效应，但二者之间无差别（Johnstone,Dimoska,Smith,&Barr,2007）。Zhao 等（2018）的研究则发现与成人组相比，儿童受训者出现了更大的迁移效应。以上研究结果很好地支持了补偿模型，即认知训练的效果与个体的基线水平呈负相关，在训练效果存在一定阈限的情况下，高基线水平往往意味着可改善的空间更少，可塑性更低（Gaultney,Bjorklund,& Goldstein,1996; Karbach,&Kray,2010）。但根据该结果推断出青少年和成人抑制功能训练的迁移效应有差别是存在风险的。这是因为不能跳过青春期，直接比较儿童和成人的训练效果。从儿童期到青春期，个体神经纤维的髓鞘和额叶皮层在持续发育（Diamond,1985;Diamond,& Baddeley,1996;Eriksen,&Eriksen,1974; Stroop,1935）。虽然在6岁以前儿童抑制已开始迅速发展，但对他们而言，完成大部分抑制相关任务仍然存在较大困难（Dowsett,&Livesey,2015）。这就使得如果想直接比较儿童和成人训练结果，要么选择对儿童来说难度适合的任务，但对成人来说任务成绩易出现天花板效应；要么选择对成人来说难度适合的任务，但对儿童来说任务成绩易出现地板效应。个体在儿童期抑制多为质变，如对任务规则概念的理解等；而在青春期则以量变为主，如逐步增强的有效抑制（Best,&Miller,2010）。到了成人期初期，抑制功能发展成熟并趋于稳定（Williams,Ponesse,Schachar,Logan,& Tannock,1999）。因此，在选择训练和迁移任务上，儿童应比青少年、成人难度低，青少年和成人则可相对统一（Anderson,2002），但现有的比较研究均缺乏这方面的考量（Johnstone et al,2007；Zhao,&Jia,2019）。因此，本研究首次比较青少年和成人在经过抑制训练后，是否出现对执行功能的训练效应和迁移效应。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选择何种抑制功能加以训练的前提，是这种抑制功能在青少年和成人阶段的发展具有差异性。但青少年是否具有与儿童同样的反应抑制能力，还是其可塑性与成人接近并未得到一致的结论。根据维度重叠理论（DimensionalOverlap），刺激冲突指任务相关刺激和任务不相关刺激之间存在相似性，对刺激冲突进行有抑制任务即干扰抑制任务（Interference Inhibition），如 Stroop 任务和Flanker任务；反应冲突是任务相关刺激集与反应存在相似性（Kornblum,1992; Kornblum, Hasbroucq,& Osman,1990; Kornblum, Stevens,Whipple,&Requin,1999），对反应冲突进行抑制的任务即反应抑制任务（ResponseInhibition），常见的有 Simon任务。Jongen 和Jonkman（2008）指出 $6 { \\sim } 7$ 岁的儿童能够完成干扰抑制任务，而 $1 0 { \\sim } 1 2$ 岁儿童在完成反应抑制任务时仍有较多错误，这说明刺激冲突的发展和成熟早于反应冲突，反应冲突机制可能直至青少年或甚至成年早期才能成熟。另一研究者发现，5岁儿童在 Simon 和 Stroop 任务中存在冲突适应效应，而在Flanker任务中该效应不明显（Ambrosi,Lemaire,& Blaye,2016）。Ambrosi，Servant，Blaye 和Burle（2019）采用分布分析（distribution analyses）进一步证明 $5 { \\sim } 6$ 岁儿童完成3种冲突任务（Flanker，Simon，Stroop）的机制与成人相似，只是时间进程不同。Liu，Liu，Shangguan，Liu 和 Shi（2018）探讨了儿童在刺激冲突和反应冲突中的冲突适应效应。5岁儿童、10岁儿童、大学生完成Flanker任务和 Simon任务，发现在完成Flanker任务时，三个年龄阶段的被试冲突适应效应的差异不大，而在完成 Simon任务时，5岁儿童比10岁、大学生的冲突适应效应明显更小，说明刺激冲突的大脑机制在5岁时已相对成熟，但反应冲突的脑机制在儿童期还没有成熟，可能直至成年早期才能成熟。因此，比较青少年与成人的干扰抑制能力的可塑性，能够探索干扰抑制能力可能的成熟阶段。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Rueda，Rothbart，Mccandliss，Saccomanno 和Posner（20o5）使用含干扰控制（Interference Inhibition）任务在内的一个训练任务组，经过5天的训练，发现能够迁移到$4 { \\sim } 6$ 岁儿童的推理能力上。但事实上，从这类使用多任务的训练研究（Denckla,1996）是无法推断出哪个训练任务或哪个认知功能的训练产生的迁移效应。甚至多任务训练也不能代表训练效应或迁移效应更佳，Thorell，Lindqvist，Nutley，Bohlin 和Klingberg（2009）同时使用干扰抑制和冲突抑制(Response Inhibition)的训练研究就未发现任何迁移效应。越来越多的研究者不主张使用多训练任务或复杂训练任务（Diamond,&Ling,2015;Friedman,& Miyake,2004； Shilling,Chetwynd,& Rabbitt2002），因为这样容易导致单纯的抑制功能训练剂量不足，多个任务、多个认知成分之间还可能产生相互作用，难以捕捉迁移效应产生的来源。目前使用干扰抑制单任务作为训练任务的研究相对偏多，如Zhao 等（2018）就发现了Stroop训练任务对执行功能多成分和推理的迁移效应，但也有一些研究并未发现任何迁移效应（Strobach,Salminen,Karbach,& Schubert,2014）。个体执行 Stroop任务的过程就是对优势反应（加工语义信息）进行抑制，并完成对任务相关信息（颜色）的加工的过程（Verbruggen,Liefooghe,& Vandierendonck,2004。与 Stop Signal 任务压抑优势反应的过程是具有相似性的；其与Go/No-go任务和Flanker任务在反应选择阶段也会共享右侧背外侧前额叶皮层（rightDLPFC）和前扣带回（ACC）等区域（Nee,Wager,&Jonides,2007），这些都为Str0p 任务训练向抑制任务迁移提供了前提。干扰抑制对竞争性干扰刺激的抑制功能与工作记忆N-back 任务的刷新功能存在机制一致性（Zhao,& Jia,2019），这可能是 Stroop任务能够对包括工作记忆、推理等执行功能成分产生迁移效应的功能基础。但以上结论也可能导向另外一种假设，那就是 Stop signal任务作为一种与Stroop 任务、Go/No-go任务加工过程相似，对无关反应做出抑制的功能，其训练对执行功能同样会发生训练效应和迁移效应。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Logan 和Cowan（1984）以Stop Signal任务为训练任务，发现6小时的训练出现了明显的训练效应，但未发现迁移效应。这一结论在对肥胖人群的训练中也得到了验证（Guerrieri,Nederkoom,&Jansen,2008）。没有产生迁移效应的原因有一种可能是，在训练产生的反复练习中，刺激-反应联结不断发生改变，加上未能成功进行抑制的试次的负强化作用，阻碍了自动化抑制的发展，所以未能使抑制能力得到改善（Spierer,Chavan,&Manuel,2013）。另一种可能是过于注重反应速度，而对 stop试次的正确率有所忽视，导致任务表现的不理想。事实上，正确率是保障被试在 stop 和go 试次中更多关注 stop 试次正确率，发挥抑制功能的基本指标。只关注速度而放松对正确率的关注，可能意味着较低的抑制水平，或无效的抑制训练效果（Enge etal,2014）。根据强化理论，个体做出反应后，应立即被告知其反应是否正确。如果答案是正确的，即时反馈就是一种强化物，如果答案是错误的，即时反馈就是纠正的措施。可见，反馈的即时性能够使强化作用得到更好的发挥（Melanko,&Larkin,2013）。可以认为，通过在训练试次间加入反馈，能够起到高效强化、固化联结的作用（Littman,&Michael,2015;Mnih et al,2015）。同时，在试次间加入即时反馈还有助于个体把握“速度-正确率权衡”（Kohls,Peltzer,Herpertz-dahlmann&Konrad,2010;Leotti,&Wager,2010）。在训练过程中加入反馈，不仅便于个体了解当前表现以调整接下来的反应策略，更能将其作为一种强化物，使个体更倾向于做出正确的反应更加关注正确率。因此，本研究拟在青少年和成人训练组中加入即时反馈步骤，而在积极控制组中仅训练 Stop Signal任务，考察有即时反馈的 Stop Signal任务训练是否会产生训练和迁移作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上，为考察从青春期到成年期阶段，反应抑制训练对执行功能的训练效应和迁移效应，本研究以基于即时反馈的反应抑制任务——Stop Signal范式为训练任务，测量训练前后青少年和成人在执行功能中反应抑制的Go/No-go任务、干扰抑制的 Stroop 任务、工作记忆的N-back任务和推理上是否发生训练效应及迁移效应，两种效应是否存在年龄差异。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2研究方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1被试 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在吉林省一所高校和一所中学招募成人被试150人，青少年被试60人。其中成年男性65人，成年女性85人，平均年龄 $2 0 . 5 5 \\pm 0 . 7 9$ 岁；青少年男性人34，青少年女性26人，平均年龄 $1 5 . 1 \\pm 0 . 3 0$ 岁。所有被试均为右利手，视力或矫正视力正常，半年内未参加过类似心理学实验且自愿参与本次实验。实验开始前自主或在家长监护下签署《知情同意书》实验结束后所有被试均获得10元/次现金或同等价值小文具作为报酬。将成人被试随机分配到成人实验组、成人积极控制组和消极控制组中，其中16名成人被试因中途退出或个人原因未能完成实验（实验组5名、积极控制组3名，消极控制组8名），最终成人实验组有效样本量为47人，成人积极控制组为45人，消极控制组为42人。将青少年被试随机分配到青少年实验组30人，青少年积极控制组30人。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2研究任务",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 Stop Signal 任务",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对经典 Stop Signal任务（Verbruggen,&Logan,2008）进行改编，作为训练任务和反应抑制测量任务。计算机屏幕中央首先呈现注视点（加号‘ $\\cdot _ { + } , \\cdot _ { }$ ），持续时间 ${ 5 0 0 } \\mathrm { { m s } }$ ；随后出现任意方向白色箭头作为go刺激（左右方向随机出现次数各半），持续时间 $1 0 0 0 \\mathrm { { m s } }$ ，要求被试判断目标刺激类型并做按键反应，左向箭头按“F”键，右向箭头按“J”键。在stop 试次中，停止信号（箭头上方蓝色小三角）出现时，要求被试抑制对刺激的冲动，不进行任何反应。每个block内所有试次均以完全随机形式呈现。任务以自适应方式增加难度，即 stop 试次箭头出现与三角出现之间的时间间隔（SSD）随前一 stop 试次表现而不断调整，为确保刺激识别有效性，变化范围设置为 $2 5 0 { \\sim } 7 5 0 \\mathrm { m s }$ ，反应正确增加 $5 0 \\mathrm { m s }$ ，反之则减少 $5 0 \\mathrm { m s }$ 。实验组与积极控制组在该任务上的区别是，在实验组程序中加入即时反馈，即每一试次后，在屏幕中央会紧接着呈现当次反应的反应时和判断正误。共有32个练习试次，正式实验共有4个block，每个block共有100个试次。具体流程见图1。本研究使用 2个指标代表该任务成绩：（1）SSRT计算每个反应刺激与停止刺激之间的时间间隔，即停止信号间隔（stop signal delay,SSD）的平均值，用go 反应时减去平均的 SSD 就得到了每个被试的停止信号反应时（stop signal reaction time,SSRT）。SSRT越长，反应抑制能力越差。（2）stop 试次正确率。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/44d72d3a161dd497bb86269353b326da5ba79379ea65bd9bc4e17768ad12a975.jpg",
+        "img_caption": [
+            "图1有反馈的自适应步速StopSignal任务流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 Go/No-go 任务",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用该任务作为反应抑制的测量任务。任务刺激由一个白色数字（ $1 { \\sim } 9$ ）组成，计算机屏幕中央首先呈现注视点 ${ \\mathrm { \\Omega } } ^ { 6 6 } + { \\mathrm { \\Omega } } ^ { 9 } { \\mathrm { \\Omega } } 5 0 0 { \\mathrm { m s } }$ ，随后随机出现 $1 { \\sim } 9$ 内任意数字 $1 0 0 0 \\mathrm { { m s } }$ （“3”与其他数字出现次数各占总次数的 $2 5 \\%$ 与 $7 5 \\%$ ），要求被试看到数字“3”不进行反应，其他数字按空格键进行反应。每个block内所有试次均以完全随机的方式呈现。共有4个block，每个block含32个练习试次及100个实验试次。本研究使用3个指标代表该任务成绩：（1）Go 试次反应时；（2）No-go试次正确率；（3）d'。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.3 Stroop 任务",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "该任务作为干扰抑制的测量任务。任务刺激由不同颜色的颜色词（“红”、“绿”、“黄”、“蓝”）组成，计算机屏幕中央首先呈现白色注视点 ${ \\mathrm { \\Omega } } ^ { 6 6 } + { \\mathrm { \\Omega } } ^ { 9 } { \\mathrm { \\Omega } } 5 0 0 { \\mathrm { m s } }$ ，随后随机出现颜色词 $1 0 0 0 \\mathrm { { m s } }$ ，要求被试对字的颜色进行判断，（红色按“R”键，绿色按“F”键，黄色按“U”键，蓝色按“J”键)。在一致试次中，刺激词语的词义与颜色相同；在不一致试次中，刺激词语的词义与颜色不同。其中一致试次与不一致试次数量分别占总试次数的$7 5 \\%$ 、 $2 5 \\%$ 。实验共有4个block，每个block包含36个练习试次及100个实验试次。本研究使用 Stroop效应代表该任务成绩，即不一致试次反应时与一致试次反应时的差值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.4 N-back任务",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "选用 N-back任务作为工作记忆的刷新能力测量任务，作为远迁移指标之一。任务刺激由大写英文字母（A-Z）组成，屏幕中央首先呈现 ${ 5 0 0 } \\mathrm { { m s } }$ 注视点“ $+ ^ { , , , }$ ，随后随机呈现任意英文字母，要求被试根据之前字母对当前字母进行判断并做出反应。在一致试次中，当前呈现字母与 $\\mathfrak { n }$ 个步骤前呈现字母相同，要求被试按“F”键进行反应；不一致试次中，呈现字母不相同，按“J”键进行反应。本任务共分为2个block———2-backblock 和3-backblock，要求被试分别根据2、3个步骤之前呈现字母来判断当前字母，每个block包括 20个练习试次及100个实验试次。以正确率代表该任务成绩。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.5瑞文标准推理测验",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "使用瑞文标准推理测验（Raven,Raven,&Court,2000）作为执行功能整体性指标推理能力的测量任务，远迁移指标之一。该测验为非文字测验，要求被试根据已给出图形在选项中选出图形缺失的部分。本测验共包含60道题目。将该测验分为前测用测验和后测用测验。前测测验中包含A、C、E测验的奇数项目和B、D测验的偶数项目，合计30道题;后测测验中包含A、C、E测验的偶数项目和B、D测验的奇数项目，合计30道题。以正确率为指标。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3研究程序",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究包括前测、训练、后测三个阶段。在前、后测阶段，抑制功能任务（StopSignal、Go/No-go、Stroop）、工作记忆任务（N-back）、瑞文标准推理测验采用随机顺序进行测量，为避免疲劳效应，均分为两天进行。在训练阶段，对实验组和积极控制组进行持续3周，每周3次的 Stop Signal任务训练，其中实验组训练任务中加入即时反馈，积极控制组无反馈。训练共分为8个block，每个block包含100个试次。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4实验仪器",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究采用E-prime 2.0软件编辑、运行实验程序和记录被试反应。任务刺激由台式计算机呈现，显示器为18.5英寸戴尔E1916HM，屏幕分辨率为 $1 3 6 6 \\times 7 6 8$ ，刷新率 $6 0 \\mathrm { H z }$ 。被试双眼位置距离显示器屏幕约 $6 0 \\mathrm { c m }$ ，在亮度适中、环境安静的实验室单独展开实验。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5数据分析 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "使用 SPSS22.0软件进行数据分析，对测试成绩进行标准化处理并采用重复测量方差分析对训练改善及迁移效果进行探究。其中，反应错误或反应时 ${ > } 4 0 0 0 \\mathrm { m s }$ 的试次，及其他任务中反应时 ${ < } 2 0 0 \\mathrm { m s }$ ，超出3个标准差的试次均予以剔除或均值替代处理。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1训练进程及训练效应",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/5357562d1fcf4ac02e17aea5eae0063d4042bff6f73b93eba89b7642672b824b.jpg",
+        "table_caption": [
+            "表1四个训练组每日Stop Signal任务训练效应的描述统计 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">训练日期</td><td colspan=\"2\">成人实验组</td><td colspan=\"2\">成人积极组</td><td colspan=\"2\">青少年实验组</td><td colspan=\"2\">青少年积极组</td></tr><tr><td>SSRT(ms)</td><td>正确率(%)</td><td>SSRT(ms)</td><td>正确率(%)</td><td>SSRT(ms)</td><td>正确率(%)</td><td>SSRT(ms)</td><td>正确率(%)</td></tr><tr><td>D1</td><td>156.09(30.00)</td><td>0.58(0.08)</td><td>156.88(29.35) 0.58(0.07)</td><td></td><td>161.28(24.51)0.53(0.06) 166.35(23.49)</td><td></td><td></td><td>0.51(0.07)</td></tr><tr><td>D2</td><td>146.40(24.64)</td><td>0.62(0.10)</td><td>145.50(26.40)0.63(0.09)</td><td></td><td>158.78(20.38) 0.55(0.08) 163.32(17.41)</td><td></td><td></td><td>0.52(0.06)</td></tr><tr><td>D3</td><td></td><td></td><td>140.15(23.16)0.66(0.11) 136.39(20.08) 0.64(0.10) 156.75(10.49) 0.59(0.08) 162.76(20.90)</td><td></td><td></td><td></td><td></td><td>0.53(0.07)</td></tr><tr><td>D4</td><td></td><td></td><td>134.66(20.17) 0.67(0.13) 133.41(19.71) 0.67(0.10) 150.52(22.73) 0.65(0.07) 158.45(22.29)</td><td></td><td></td><td></td><td></td><td>0.52(0.07)</td></tr><tr><td>D5</td><td></td><td></td><td>126.56(19.21) 0.69(0.10) 130.40(19.36) 0.67(0.10) 142.43(17.80) 0.76(0.09) 160.78(19.99) 0.55(0.08)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>D6</td><td></td><td></td><td>123.12(16.30) 0.72(0.10) 132.49(19.03) 0.64(0.09)141.25(22.66) 0.74(0.09) 155.28(21.63) 0.59(0.09)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>D7</td><td></td><td></td><td>119.79(21.32)0.73(0.10) 126.86(25.74) 0.65(0.09)140.56(25.29) 0.77(0.09) 160.55(19.88) 0.61(0.07)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>D8</td><td></td><td></td><td>116.74(16.12) 0.75(0.10) 122.79(23.14) 0.66(0.11) 134.10(25.97) 0.78(0.06) 162.68(17.82) 0.57(0.08)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>D9</td><td></td><td></td><td>109.49(20.65)0.78(0.10) 124.24(19.66) 0.65(0.11) 125.94(24.90) 0.82(0.08) 162.94(19.15) 0.54(0.08)</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表1和图2是在训练阶段，青少年和成人每一次训练的 SSRT 和 Stop 试次正确率。9（第 $1 { \\sim } 9$ 次训练） $\\times 2$ （组别：实验组、积极控制组） $\\times 2$ （年龄段：青少年、成人）重复测量方差分析发现，年龄组主效应显著（SSRT： $F _ { ( 1 , 4 3 ) } { = } 1 0 4 . 0 5$ ， $p < 0 . 0 0 1$ ， ${ \\eta _ { \\mathrm { p } } } ^ { 2 } \\mathrm { = } 0 . 4 1$ ；正确率： $F _ { ( 1 , 4 3 ) } { = } 2 7 . 3 9$ ， $p < 0 . 0 0 1$ ， $\\eta _ { \\mathrm { p } } ^ { \\ 2 } = 0 . 4 1 6$ ），表明成年人SSRT比青少年更快，正确率更高。训练次数主效应也是显著的（SSRT： $F _ { ( 8 , 4 0 5 ) } = 1 9 . 7 8$ ， $p < 0 . 0 0 1$ ， ${ \\eta _ { \\mathrm { p } } } ^ { 2 } \\mathrm { = } 0 . 1 2$ ；正确率：$F _ { ( 8 , 4 0 5 ) } { = } 9 1 . 3 6$ ， $p < 0 . 0 0 1$ ， $\\eta _ { \\mathrm { p } } ^ { \\ 2 } = 0 . 3 8$ ），意味着两组的SSRT和正确率都随着训练进程的推进而改善。年龄组、组别和训练阶段的交互作用是显著的（SSRT： $F _ { ( 3 , 1 4 8 ) } = 4 . 9 7$ ， $p <$ 0.05， ${ \\eta _ { \\mathrm { p } } } ^ { 2 } \\mathrm { = } 0 . 3 3$ ；正确率： $F _ { ( 3 , 1 4 8 ) } { = } 8 . 0 4$ ， $p < 0 . 0 1$ ， $\\eta _ { \\mathrm { p } } ^ { \\ 2 } = 0 . 2 3 \\$ ），说明青少年和成人的实验组、积极控制组在不同训练阶段的变化情况不同。为此，分别对青少年和成人组进行9（第 $1 { \\sim } 9$ 次训练） $\\times 2$ （组别：实验组、积极控制组）重复测量方差分析，在成人组发现显著的交互作用（SSRT： $F _ { ( 1 , \\ 8 ) } = 4 . 1 9$ ， $p < 0 . 0 5$ ， ${ \\eta _ { \\mathrm { p } } } ^ { 2 } = 0 . 0 4$ ；正确率： $F _ { ( 1 , \\mathrm { ~ 8 } ) } { } = 3 2 . 3 7$ ， $p <$ 0.001， ${ \\eta _ { \\mathrm { p } } } ^ { 2 } = 0 . 2 7$ ），这意味着成人组随着训练进程发生了改善。青少年组也出现了组别和训练阶段的显著交互作用（SSRT： $F _ { ( 1 , 8 ) } = 2 6 . 5 2$ ， $p < 0 . 0 0 1$ ， ${ \\eta _ { \\mathrm { p } } } ^ { 2 } = 0 . 3 1$ ；正确率： $F _ { ( 1 , 8 ) } =$ 123.49， $p < 0 . 0 0 1$ ， ${ \\eta _ { \\mathrm { p } } } ^ { 2 } \\mathrm { = } 0 . 6 8$ ），具体表现在实验组和积极控制组在第 $1 { \\sim } 4$ 次训练时都没有明显的成绩差异，而在第 $5 { \\sim } 9$ 次训练时，两组的差异达到了显著水平。即，成人实验组和积极控制组之间、青少年实验组和积极控制组之间的训练效应差距都逐渐拉大。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/1fda97a4c502a4dabf5ea4e7375ad7cfd7fd116b335746454187e2323b714934.jpg",
+        "img_caption": [
+            "图2Stop Signal任务训练进程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2迁移效应",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "前测和后测的结果详见表2。分别对各任务的指标进行2（测量时间：前测、后测）$\\times 5$ （组别：青少年实验组、青少年积极组、成年实验组、成年积极组、消极组）重复测量方差分析，结果如下：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2.1反应抑制任务 Go/No-go任务 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对Go/No-go任务的反应时、正确率、d'分别进行重复测量方差分析。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对反应时指标的分析显示，测量时间的主效应显著（ $F _ { ( 1 , 1 8 9 ) } = 2 4 . 0 9$ ， $p < 0 . 0 0 1$ ， $\\eta _ { \\mathrm { p } } ^ { \\mathrm { ~ 2 ~ } } =$ 0.11）。事后比较发现，后测阶段反应时短于前测阶段。测量时间和组别的交互作用显著（20 $( F _ { ( 4 , 1 8 9 ) } = 3 . 3 5$ ， $p < 0 . 0 5$ ， $\\eta _ { \\mathrm { p } } ^ { \\ 2 } = 0 . 6 6 \\$ ），简单效应检验显示，只有成人实验组和青少年实验组在 ${ \\mathrm { G o / N o - g o } }$ 任务的反应速度提高了，其他三组都没有改善。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对正确率指标的分析发现，测量时间（ $F _ { ( 1 , 1 8 9 ) } = 4 9 . 6 8 \\$ ， $p < 0 . 0 0 1$ ， $\\eta _ { \\mathrm { p } } ^ { \\ 2 } = 0 . 2 1 \\$ 和组别$\\langle F _ { ( 1 , 4 ) } = 1 8 . 8 8$ ， $p < 0 . 0 0 1$ ， ${ \\eta _ { p } } ^ { 2 } = 0 . 2 9$ ）的主效应都达到显著水平，二者的交互作用显著$( F _ { ( 4 , 1 8 9 ) } = 1 2 . 3 4$ ， $p < 0 . 0 0 1$ ， $\\eta _ { \\mathrm { p } } ^ { \\ 2 } = 0 . 2 1$ ）。简单效应检验表明，只有成人实验组和青少年实验组的正确率得到了改善，其他三组在前后测时间点上都不存在差异。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对 $\\mathrm { ^ d ^ { \\prime } }$ 进行重复测量方差分析，同样发现了测量时间和组别的主效应是显著的（测量时间： $F _ { ( 1 , 1 8 9 ) } = 1 6 . 0 4 \\$ ， $p < 0 . 0 0 1$ ， ${ \\eta _ { \\mathrm { p } } } ^ { 2 } \\mathrm { = } 0 . 0 8$ ；组别： $F _ { ( 1 , 4 ) } = 1 9 . 0 0$ ， $p < 0 . 0 0 1$ ， $\\eta _ { \\mathrm { p } } ^ { ~ 2 } = 0 . 2 9$ ），交互作用也达到了显著（ $\\cdot F _ { ( 4 , 1 8 9 ) } { = } 2 2 . 6 3$ ， $p < 0 . 0 0 1$ ， ${ \\eta _ { \\mathrm { p } } } ^ { 2 } \\mathrm { = } 0 . 3 2 \\$ ）。进一步的简单效应显示，除成人积极控制组外，其他各组 ${ \\mathrm { ~ d ~ } } ^ { \\prime }$ 后测成绩都显著优于前测。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "综合三个指标的结果可见，带反馈的反应抑制训练对成人和青少年在Go/No-go任务成绩有明显的改善。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2.2干扰抑制任务 -Stroop任务",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对 Stroop效应进行重复测量方差分析，发现测量时间、测量时间和组别的交互作用都不显著，但组别的主效应达到显著水平（ $\\cdot F _ { ( 1 , 4 ) } { = } 1 2 . 1 7$ ， $p < 0 . 0 0 1$ ， ${ \\eta _ { \\mathrm { p } } } ^ { 2 } \\mathrm { = } 0 . 2 1$ ）。进一步的事后比较表明，成人实验组、积极控制组与消极控制组之间无差异，即成人组并未因训练而对 Stroop 效应产生任何迁移效应；青少年实验组优于青少年积极控制组、消极控制组和两个成人组，带反馈的反应抑制训练仅对青少年的干扰抑制成绩有明显的迁移效应。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2.3工作记忆刷新任务 -N-back任务",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "分别在2-back和3-back任务下考察正确率指标的重复测量方差分析。在2-back任务中，测量时间、组别及其交互作用均显著（测量时间： $F _ { ( 1 , 1 8 9 ) } { = } 6 9 . 9 0$ ， $p < 0 . 0 0 1$ ， ${ \\eta _ { \\mathrm { p } } } ^ { 2 } \\mathrm { = } 0 . 2 7$ ；组别： $F _ { ( 1 , 4 ) } = 5 3 . 3 7$ ， $p < 0 . 0 0 1$ ， $\\eta _ { \\mathrm { p } } ^ { \\ 2 } = 0 . 5 4$ ；交互作用： $F _ { ( 4 , 1 8 9 ) } = 1 5 . 8 2 \\$ ， $p < 0 . 0 0 1$ ， ${ \\eta _ { \\mathrm { p } } } ^ { 2 } =$ 0.25）。简单效应检验表明，成人实验组、成人积极控制组和青少年实验组前后测差异显著。也就是说，对成人而言，无论是否带有反馈，反应抑制训练都能对2-back任务的正确率产生迁移作用；但对青少年来说，只有带有反馈的训练才能改善他们在2-back任务上的成绩。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在 3-back任务中，测量时间和组别的主效应显著，交互作用不显著（测量时间： $F _ { ( 1 , 1 8 9 ) }$ $= 2 6 . 4 9$ ， $p < 0 . 0 0 1$ ， ${ \\eta _ { \\mathrm { p } } } ^ { 2 } \\mathrm { = } 0 . 1 2$ ；组别： $F _ { ( 1 , 4 ) } = 5 8 . 2 5$ ， $p < 0 . 0 0 1$ ， ${ \\eta _ { \\mathrm { p } } } ^ { 2 } \\mathrm { = } 0 . 5 5 \\$ ）。事后比较显示，后测成绩显著优于前测。成人实验组、积极控制组与消极控制组之间无差异；青少年实验组成绩显著好于其他各组，青少年积极控制组成绩显著优于消极控制组。可见，在3-back任务中，带反馈的反应抑制仅对青少年的成绩产生了迁移效应。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2.4瑞文标准推理测验",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "分别对青少年和成人在前后两次测量中测试了瑞文标准推理测验，并做了2（测量时间：前测、后测） $\\times 5$ （组别：青少年实验组、青少年积极组、成年实验组、成年积极组、消极组）重复测量方差分析，发现测量时间、组别、及二者交互作用均不显著（测量时间$F _ { ( 1 , 1 8 9 ) } { = } 0 . 4 3$ ， $p = 0 . 5 1$ ， $\\eta _ { \\mathrm { p } } ^ { \\ 2 } { = } 0 . 0 1$ ；组别： $F _ { ( 1 , 4 ) } = 2 . 5$ ， $p = 0 . 1 2$ ， ${ \\eta _ { \\mathrm { p } } } ^ { 2 } \\mathrm { = } 0 . 0 3$ ；交互作用： $F _ { ( 4 , 1 8 9 ) }$ （204号$= 0 . 0 1$ ， $p = 0 . 0 0 1$ ， ${ \\eta _ { \\mathrm { p } } } ^ { 2 } \\mathrm { = } 0 . 9 1$ ），这意味着训练并未在流体智力上发生迁移。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/8c03987c2670135d05f3bc0b057846eb5c30133acd6ca3e86c8a2de2a6524266.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">任务及指标 测量时间点 成人实验组 成人积极控制组青少年实验组青少年积极控制组</td></tr><tr><td>Go/No-go 反应时</td><td>前测</td><td></td><td>340.33(19.49)341.51(41.78)348.60(36.95)</td><td>349.92(52.99)</td><td>340.44(26.82)</td></tr><tr><td>Go/No-go</td><td>后测</td><td>316.94(26.35)337.39(37.57)</td><td>323.91(49.64)</td><td>337.23(39.88)</td><td>338.43(26.95)</td></tr><tr><td>正确率</td><td>前测</td><td>0.89(0.07) 0.85(0.11)</td><td>0.79(0.11)</td><td>0.77(0.09)</td><td>0.87(0.11)</td></tr><tr><td>Go/No-go</td><td>后测</td><td>0.97(0.02) 0.87(0.09)</td><td>0.92(0.44)</td><td>0.80(0.05)</td><td>0.88(0.11)</td></tr><tr><td>d'</td><td>前测 0.83(0.15)</td><td>0.84(0.14)</td><td>0.75(0.12)</td><td>0.73(0.08)</td><td>0.83(0.06)</td></tr><tr><td>后测</td><td>0.91(0.06)</td><td>0.86(0.11)</td><td>0.87(0.05)</td><td>0.77(0.06)</td><td>0.81(0.04)</td></tr><tr><td>Stroop 效应</td><td>前测</td><td>32.83(24.06) 32.54(26.10)</td><td>65.16(28.95)</td><td>69.07(24.65)</td><td>33.42(28.13)</td></tr><tr><td></td><td>后测 30.04(28.99)</td><td>34.50(33.25)</td><td>44.81(19.08)</td><td>66.54(23.40)</td><td>32.01(27.33)</td></tr><tr><td>2-Ba ck</td><td>前测 0.71(0.06)</td><td>0.71(0.06)</td><td>0.63(0.05)</td><td>0.61(0.04)</td><td>0.71(0.03)</td></tr><tr><td>正确率</td><td>后测 0.73(0.05)</td><td>0.75(0.05)</td><td>0.77(0.04)</td><td>0.63(0.04)</td><td>0.72(0.06)</td></tr><tr><td>3- Back 正确率</td><td>前测 0.61(0.07)</td><td>0.63(0.08)</td><td>0.53(0.04)</td><td>0.52(0.05)</td><td>0.63(0.03)</td></tr><tr><td></td><td>后测 0.64(0.05)</td><td>0.65(0.06)</td><td>0.59(0.04)</td><td>0.55(0.04)</td><td>0.64(0.03)</td></tr><tr><td>瑞文 推理测验</td><td>前测</td><td>0.80(0.11) 0.83(0.10)</td><td>0.82(0.10)</td><td>0.85(0.09)</td><td>0.78(0.11)</td></tr><tr><td>正确率</td><td>后测</td><td>0.80(0.11) 0.81(0.10)</td><td>0.79(0.09)</td><td>0.79(0.10)</td><td>0.79(0.10)</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "通过为期3周27次的 Stop Signal任务训练，本研究发现基于即时反馈的 Stop Signal 训练任务能够对青少年和成人产生训练效应。青少年和成人在同为反应抑制的Go/No-go 任务上都发生了近迁移，在工作记忆上发生远迁移，但在瑞文标准推理测验正确率上均未发生改善。青少年出现了在干扰抑制 Stroop任务上的近迁移；但未见成人在这个任务上发生迁移。结果支持 Stop Signal任务训练可以改善执行功能的结论（Johnstone et al,2007），但迁移受到认知可塑性的年龄差异和任务性质的双重影响，因训练产生迁移效应的任务成绩变化趋势详见图3。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "图3因训练发生迁移效应的各任务成绩变化趋势图",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究显示，青少年和成人在抑制功能训练效应和迁移效应上存在差异，与Johnstone等（2007）和 Zhao等（2018）的间接结论相互印证，同时部分支持以往成人经过该训练无迁移效应的结论（Engeetal,2014）。该结果也符合前额叶皮层的发育与抑制功能关系的发展证据（Diamond,1985；Diamond,& Baddeley,1996），和行为学证据（Anderson,Anderson,Northam,Jacobs,& Catroppa,2001）。根据 Best 和 Miller（2010）的分析，青春期抑制功能的发展以量变形式出现，以成年期为转折点。我们的结果很好地充实了其观点所谓量变是与儿童期较快的变化速率相比得到的结论，但事实上青春期的量变解决的却是抑制有效性的问题，而儿童期发展解决的是能或不能抑制的问题。青少年抑制功能的不断发展带来的直接结果是自上而下地促进执行功能相关认知功能的变化。结果支持补偿模型的观点，青少年组训练任务的正确率基线水平是低于成年组的（见表2），经过训练，其改善显著优于成年组（Gaultney,Bjorklund & Goldstein,1996; Karbach& Kray,2010）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本研究在训练后，都发现了对青少年和成人的Go/No-go任务的迁移效应，支持了Enge 等的成人训练结果（Enge etal,2014）。Stop Signal任务的本质是加工当前任务中的刺激和 stop信号触发的停止加工二者之间的竞争，进行任务刺激加工的反应时与 stop 信号延迟和 stop信号反应时之和的大小比较，直接决定了是做出反应还是抑制反应（Logan1984）。结合训练进程和有无即时反馈的数据分析结果可以见，SSRT和正确率都有明显的改善，训练提高了个体的“速度-正确率权衡”，即获得了更快的速度和更低的虚报率。这种改善更易迁移到同样需要对两类刺激做出“速度-正确率权衡”的Go/No-go任务上。在Go/No-go任务中，要求个体看到Go刺激时尽快做出反应，而对No-go刺激不做反应，故更短的Go刺激反应时和更低的No-go刺激虚报率代表了该任务成绩的改善，这也需要个体具有良好的“速度-正确率权衡”。此外，DeJong 等认为，外周机制（PeripheralMechanism）与迅速的、非选择性的抑制任务相关联，如No-go任务；而 stop任务则受制于中心机制（Central Mechanism）（De Jong,Coles,&Logan,1995）。但Van Boxtel认为在stop 信号延迟（SSD）的时长未超过阈限时，No-go任务与 stop任务是在中心机制与外周机制共同作用下展开的，两种任务属于同一机制（Van Boxtel,Van,Jennings,&Brunia,2001）。因此 Stop Signal任务的改善效果对处于同一机制下的Go/No-go任务发生迁移是十分容易的。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "研究仅在青少年组发现了对 Stroop 任务的迁移效应。Stroop 任务和 Stop Signal任务都存在对优势反应抑制的加工阶段，能够解释迁移效应的发生。但成年组没有发生迁移，成年组结果与Enge 等的成人训练结果（Enge etal,2014）和Wilkinson 和Yang（2012）采用Stroop 训练任务改善Go/No-go任务的结果是一致的。这可能与 Stroop 任务对选择性注意的高度依赖存在关系。Stroop任务与Flanker任务类似，都要求对于无关的分心物进行过滤，以完成反应，只不过在 Stroop 任务中分心物和靶子都是同一个刺激的不同属性。由于其分心物自动加工程度更高，具有高度优先性，因此在 Stroop 任务中需要调用更多的选择性注意来过滤分心物。选择性注意在儿童到青少年时期不断发展，直到成年期才成熟（Brodeur,&Pond,2001；Karatekin,2004）。依据补偿模型（Gaultney,Bjorklund& Goldstein,1996;",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Karbach&Kray,2010），青少年相对低的选择性注意因训练而改善的程度大于成人，这可以在一定程度上解释青少年出现了训练对 Stroop 任务的迁移效应。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "针对执行功能工作记忆成分和整体指标推理能力的远迁移结果显示，训练成功改善了青少年和成人的工作记忆刷新功能，但未能改善推理能力。在执行功能训练相关的研究中，后测、追踪阶段中，若训练对与训练任务测量相同心理功能任务成绩有明显影响即称为近迁移。如训练空间工作记忆广度任务，在同样测量工作记忆广度的言语工作记忆广度任务上有明显的成绩改善，就可以认为空间工作记忆广度任务训练对言语工作记忆广度任务产生了近迁移。可见，近迁移是发生在功能接近的任务之间的。相反的，因训练而改善了测量其他心理功能的任务成绩，如抑制功能训练改善工作记忆、认知灵活性、流体智力等非抑制功能成分时，就认为训练产生了远迁移。从神经水平而言，远迁移是训练效应跨越训练领域，与训练任务共享类似神经环路的基础上发生的（Dahlin,2013；Jaeggi,Buschkuehl,Jonides,&Perrig,2008）；从行为水平上看，能够发生远迁移的认知功能应该与训练任务具有类似的认知机制（Morrison,&Chein,2011）。Conway，Kane 和Engle（2003），以及Gray，Chabris 和Braver（2003）的研究均支持当保持和加工信息时为了减少干扰，执行控制机制就会发挥作用，此时会观察到工作记忆任务所需的前额叶皮层被激活。在行为层面，刷新和抑制都需要抑制无关信息（Maraver,Teresa,&Gomez-Ariza,2016）。我们的结果能够支持二者存在神经基础和认知机制相关性的推论。虽然反应抑制与推理具有共同的认知成分，但是否发生迁移效应仍存在争议（Ji,Wang,Chen,Du,Zhan,&Ji,2016；Loosli,Falquez,Unterrainer,Weiller,Rahm,&Kaller,2016），本研究未发现两组在推理上的迁移效应，这可能是反应抑制与推理之间相关程度不高有关（Bellaj,Salhi,Le Gall,&Roy,2015）。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "加入即时反馈后，成人的训练效应并未发生变化，而青少年组则在训练的第 $5 { \\sim } 9$ 次开始出现了明显的改善。反馈还同时影响到了成人在Go/No-go任务和2-back任务上的迁移效应，但未影响 Stroop 任务、3-back任务和瑞文推理测验成绩。在青少年组看到了反馈在执行功能的抑制和工作记忆成分上引发的迁移效应的差异，推理成绩却未受影响。以上结果有力地支持了反馈能够改善“速度-正确率权衡”的观点（Leotti,&Wager,2010;Kohls etal,2010)。个体倾向于为了成功执行接下来 stop任务而延长当前任务的反应时（Boehler,Appelbaum,Krebs,Hopf,&Woldorff,2012），导致 SSRT 降低而 stop 试次正确率上升、反应速度下降（Leotti,&Wager,2010）。反馈信息作为一种强化物能够诱发个体产生即时情绪，进而会通过自上而下控制系统和趋近-回避动机系统的交互作用来调节下一步的目标指向性行为（Hare,&Casey,2005）。青少年组比成人对反馈更加敏感，与青少年对目标指向性注意任务中情绪信号更加敏感关系密切（Monk etal,2003），儿童和青少年表现出对动机性信息更加强烈的情绪偏向。在本研究中，反馈更易使得青少年调整“速度-正确率权衡”，有策略地追求提高正确率（见图2，训练进程中 stop 试次正确率的变化）。支持",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Enge（2014）对 Stop Signal训练任务未发生迁移效应的推断，即个体在任务中过于追求速度，而忽略了正确率。强化理论观点相一致，认为即时反馈能够带来更好的强化作用，对于正确反应可以形成强化，而错误行为则可以得到及时的矫正。因此，本研究在每试次结束后加入即时的反馈来提高被试对正确率的关注度，使得被试在每个试次后能够对自己的表现进行把握，从而更好地决定下一试次的反应选择。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "本研究采用单一训练任务——反应抑制 Stop Signal范式为训练任务，比较发现在与成人完成相同的执行功能操作时，青少年能够从反应抑制训练中获益更大。研究结果补充了抑制训练改善执行功能的发展趋势，直接验证了青春期比成年期从抑制训练中获益更大的观点，证明抑制训练能够产生效果的基本前提是受训者应处于成年期以前的年龄阶段。在选择训练任务上，本研究选取了“认知成分”相对较少的反应抑制任务，证明在大脑可塑性较强的时期，即使使用只在行为层面发生冲突和抑制的训练任务，同样可以改善个体的高级认知功能。但改善因训练任务和迁移任务之间认知机制、激活脑结构的相似性而局限在抑制和工作记忆等基础因素上。对整合程度较高的推理能力来说，训练难度仍显不足。证明干扰抑制和反应抑制任务均可作为训练任务，但反应抑制任务迁移效果相对狭窄。研究发现即时反馈能够提升训练和迁移效应，证明动机性和情绪性因素在认知训练中发挥强大的动力作用，提示未来有必要将即时反馈作为基础环节加入训练程序，以有效提升训练效果。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "同时，必须要认识到本研究仍有一些局限，应在今后的研究中加以注意。首先，本研究仅比较了青少年中期和成年初期两个非连续年龄组，缺少更趋近于儿童期的青少年初期和更类似于成年期的青春期后期两个年龄组，缺少发展研究的连续性。未来应丰富青春期向成年期过渡的连续变化趋势研究。其次，本研究没有测量认知灵活性。不测量认知灵活性是因为考虑到认知灵活性的典型测量任务是任务转换范式，有证据表明任务转换是通过分段复述的方式加强刷新功能，进而加强自身功能，其加工过程大量调用了刷新功能（Boot,Kramer,Simons,Fabiani,&Gratton,2008）。若刷新功能有改善，间接证明认知灵活性有改善，故为缩短前后测和追踪阶段的测量时间，删减了认知灵活性测量。在测量时间和被试精力允许情况下，今后研究应补充这部分测量。再次，本研究即时反馈仅出现了个体完成一个试次后，进入下一个试次时反馈信息消失，没有达到即时反馈的实时（on-line）效果。视频游戏训练是一种生态化效果和迁移效应较佳的执行功能训练方案，其突出优势之一就是在进行游戏过程中即时反馈是以进度条、计时器、分数棒等方式伴随任务呈现的，个体可以不间断地受到反馈条件的强化。今后研究可借鉴游戏训练中实时反馈的方法，不仅在试次后呈现反馈信息，同时在每个试次中都累计已经完成试次的平均反应时和平均正确率，可能会更加提升个体的训练效果。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "基于即时反馈的 Stop Signal训练任务能够在青春期和成年阶段产生训练效应。迁移效应受到认知可塑性的年龄差异和任务性质的双重影响。在青少年和成人组，均发生了对同为反应抑制的Go/No-go任务和工作记忆的迁移效应，但未能出现对推理能力的迁移。对干扰抑制 Stroop任务的迁移仅出现在青少年群体中。本研究为抑制功能训练研究提供了训练改进建议，在计算机化训练中加入即时反馈能够有效提升训练效应和迁移效应；补充了抑制训练改善执行功能的发展趋势，直接验证了青春期比成年期从抑制训练中获益更大的观点，提示未来抑制功能训练对成年期以前的年龄阶段更具有塑造作用。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Anderson,P.(o).Asessmentandevelopmentofexecutivefunction(EF)uringchood.Childeuropsyhology,()82.   \nAnderson,V.A.AndersonP.,Northam,E.Jacobs,R.，&Catroppa,C.(2ol).Developmentofexecutivefunctionsthroughlate childhood and adolescence in an Australian sample.Developmental Neuropsychology,20(1),385-406.   \nAmbrosi,S.Laire,P,&yeA.l).oougremodlateteirgniiotrol:uetialguecyect three conflict tasks in 5-to-6 year-olds.Experimental Psychology,63(2),117-126.   \nAmbrosi,S.,ervant,laye,.&urle,.(19).Coflictprocesiginidergartencrenneevidencefroistro analysesrevealsthedynamicsof incoectresponseactivationandsuppressionJournalofExperimentalChildPsychology(1), 36-52.   \nBelaj,T.,Salhi,LeGall,D.，&RoyA.(0l5).DevelopmentofexecutivefunctioninginscholageTunisianchildrenhild Neuropsychology,22(8),1-36.   \nBest,J.R.,&iler,P.H.().AdevelopmntalperspectiveonexecutivefunctionChildevelopment,(6),61660.   \nBoehler,C.Neb,.eb,..Jooff..).firetpsiae timeestimationproceduresonehavior-behaviorandbrain-behaviorcorrelations.BehaviouralBraiResearch,29(1),130.   \nBoot,W.R.FsFban,aG)etsplaoo executive control.ActaPsychologica,129(3),387-398.   \nBrodeur,D.A.，&Pond，M.(2oo1).Thedevelopmentofselectiveatentioninchildrenwithatentiondeficithyperactivity disorder.Journal of Abnormal Child Psychology,29(3),229-239.   \nConway,A.R.A.,Kane,.J.,&Engle,R.W.(o).Workingmemorycaacityndelationtgneraliteligence.ndsin Cognitive Sciences,7(12),547-552.   \nDahlin,K.I.E.(O13).Wrking memorytrainingandtheeffectomathematicalachievementincildrenwithatentiondeficitsand special needs.Journal of Education & Learning,2(1),118-133.   \nDe Jong,R.,Coles,M.G.H.，&Logan,G.D.(1995).Strategiesand mechanismsinnonselectiveandselective inhibitorymotor control.Journal of Experimental Psychology: Human Perception and Performance,21(3),498-511.   \nDenckla,M.B.(1996).Atheoryadodelofexecutivefunction:aneuropsychologicalperspective.Baltimore,MD,US:PaulHrokes Publishing,263-278.   \nDiamond,A.(985).Developmentoftheabilitytouserecalltoguideaction,asindicatedbyinfants\"performaneonab?Child Development,56(4),868-883.   \nDiamond,A.，&Baddeley，A.(1996).Evidencefortheimportanceofdopamineforprefrontalcortexfunctionsearlyinlifeand discussion].Philosophical Transactions of the Royal Society B: Biological Sciences,351(1346),1483-1494.   \nDiamond,A.,&Lee,K.(Ol).Interventionsshowtoidexecutivefunctiondevelopmentinildren4toyearsold.Science, 333(6045), 959-964.   \nDiamond,A.(2013).Executive functions.Annual Review of Psychology,64(1),135-168.   \nDiamond,A.,&Ling,D.S.(15).oncusiosboutintervetios,programsndproachsformprovingexecutieuctioat appear justifiedand those that,despite much hype,do not.Developmental Cognitive Neuroscience,18(4),34-48.   \nDowsetS.,&ivseyD.J.5).edevelopmentofiibitoycotrolresocdreetsofexecutivesil\" Developmental Psychobiology,36(2),161174.   \nEnge,S.,Bek,.se,gel,rel,).dee afternhibitorycontroltraininginyoungealthyadults.JournalofExperimentalPsychology:LearningMemoryandCognitio,40(4) 987-1001.   \nEriksen,BA,&n,CW.(974).etsofseesuhtiaiogettrosehs.& Psychophysics,16(1),143-149.   \nFriedman，N.P.&Miyake，A.(2O04).Therelationsamonginhibitionandinterferencecontrolfunctions:alatent-variable analysis.Journal ofExperimental Psychology: General,133(1),101-135.   \nGaultney,J.Fd,ste.996).gddicgfoofl ofExperimentalChildPsychology,61(1),4-66.   \nGray,J.R.,b.,).ramsfeee.urroee,).   \nGuerieri,R.,deroo,C&Jansen,A. (o8).einterctionbetweeimpusiviyndvardfoodeviroment:itsiuecen food intake and overweight. International journal ofobesity,32(4),708-714.   \nHare,T.A.,&CaseyB.J.(O).heeurobiologanddvelopmentofogniieandectivecontrol.BrainI(3)86.   \nJaeggi，S.M.，Buschkuehl，M.，Jonides，J.，&Perrg，W.J.(2008).Improvingfluidintellgencewithtrainingonworking memory.Proceedings of theNational AcademyofSciences,105(19),6829-6833.   \nJi,Y.Wang,.).s older adults.Psychology &Aging,31(5),415-429.   \nJohstone,S.mosa,.ithJ.rr.).eveloeosigalspoebid aged 7-2 years: performance and event-related potential indices.International Journal of Psychophysiology, $^ { 6 3 ( 1 ) , 2 5 - 3 8 }$ Jongen,E.M.,&Joman,L.M.(o).edevelpmentalpteofstiuusdrsponseinteferenceicolorecttr task: An ERP study.BMC Neuroscience,9(1),1-24.   \nKaratekin,C().veptofallotioialskpaditeioalJoualofoilo(), 7-21.   \nKarbach,J.,&KrayJ.(olo).Howusefulisexecutivecontroltraining?Agedierencesinnearandfarransferoftask-switching training. Developmental Science,12(6),978-990.   \nKohls,G,elter,J.erpdaa,.,&oadK.().retialtsofialdoociaeardsse inhibition inchildrenand adolescents.Developmental Science,12(4),614-625.   \nKomblum,S.(992).Dimensioaloverlapnddimensionaleevanceinstius-responseandstiulus-stiuluscompatibilityInG.E. Stelmach &J.Requin (Eds.),Tutorials in motor behavior (Vol.2,pp.743-777).Amsterdam: North-Holland.   \nKomblum,S.,tesG.T.pe,A.,nJ.(9).tsofeantli: ttouefuss stimulus-rsponseconsistencyefectswith Stroop-likestimuli，Simon-liketasks，andtheirfactorialcombinations.Journalof Experimental Psychology: Human Perception and Performance,25 (3),688-714.   \nKomblum,S.,asbroucq,&Osan,A.(99o).imesioalovrap:Coitivebsisforilusresposeompatilityel and taxonomy.Psychological Review,97(2),253-270.   \nLeoti,L.A.,&Wager,T.D(0l).otivationalinfluencsonresponseinbitionmeasures.JounalofExperimentalsyology:   \nLitman,K.Lchael,L.(5).forementaingprovesaviourfroeuativeback.ature,5)4 451. Liu,X.,Liu,Tanggan,F.,iuQ.,&iJ.(8).Neurodevelopmentofolictdaptationidenefroevtelated potentials.Developmental Psychology,54(7),1347-1362.   \nLogan,G.D.,&Cowan,W.B.(1984).Ontheabilitytoinhibit thoughtandaction:atheoryofanactofcontrol.Psychological Review, 91(3),295-327.   \nLoosli,.V.Ut,)ac and workingmemoryinolderadults:arandomizeddouble-blindstudy.InternationalPsychogeriatrics,28(3),453-467.   \nMaraver，M.J.，Teresa,B.M.，& Gomez-Ariza,C.J.(2016).Trainingonworking memoryandinhibitorycontrol in young adults.FrontiersinHuman Neuroscience,10(11),1-18.   \nMelanko，S.,&Larkin,K.T.(2O13).Preferenceforimmediatereinforcementoverdelayedreiforcement:relationbetwedelay discounting and health behavior. Journal of Behavioral Medicine,36(1),34-43.   \nMelby-Lervag,M.,Redick,T.S.，& Hulme,C.(2016).Working memory training does not improve performance on measuresof inteligence orother measuresof“far transfer\":evidence fromameta-analyticreview.Perspectives on Psychological Science, $\\it { I I } ( 4 )$ 512-534.   \nMiyake,A.,riedan.P.,eso,.JWii,.H,werte.agerT.(o).itdivesiteie functionsandtheircontributionstocomplex\"frontalobe\"tasks:aatentvariableanalysis.CognitivePschology41(1),49100   \nMnih,V.KavouKsuVes,elmre,abis.5).m-oolo reinforcement learning.Nature,518(7540),529-533.   \nMoffitt,T.E.ultss,coH).eod control predicts health,wealth,andpublicsafety.ProceedingsoftheNationalAcademyofSciences,08(7),693-2698.   \nMonk,C.S.,re,E..,esoE.Erader..beuft,...)dolesnti attention-related brain engagement to emotional facial expressions.Neuroimage,20(1),420-428.   \nMorrison,A.B.,&Chein,J.M.(2ol1).Does working memorytraining work?thepromiseandchallengesofenhancingcognitionby training working memory. Psychonomic Buletin& Review,18(1),46-60.   \nNee,D.E.,Wager,T.D,Jodes,J.().Iterfereneresoutionisightsfrometa-analsisofeuromagingtask.Cogiie Affective&Behavioral Neuroscience,7(1),-17.   \nRaven,J.,Raven,J.C.,& Court,J.H.(2ooo).Standard progressive matrices.Oxford: PsychologyPress.   \nRueda,M.R.,Rothbart,M.K.,Mccanlis,B..,accomano,L,&oser,.I. (o5).Fromthecover:training,maturationnd geneticinfluenesoneevelopentofexeutiveatetion.ProceeingsofteationalAcademyfiences,02(41)491 14936.   \nShilligV.tdbit).alcstesurooe construct validityof inhibition in older adults.Neuropsychologia,40(6),605-619.   \nSoveri,A.Antfolk,JKarlson,L,alo,,&ie,.(7).Wrkingmemorytraingrevisited:aultivelmetanalisf back training studies.Psychonomic Bulletin and Review,24(4),1077-1096.   \nSpierer,L.,anC.,ul,..)gdedaldbplasicitybitrol.on Human Neuroscience,7,1-9.   \nStrobach,T.,TKrbch,&brt,T4).cieatedzaiseeieuni reviewanda specific realizationof their mechanisms in dual tasks.Psychological Research,78(6),836-851   \nStroop,J.R.(93).istefeeiablactis.Jalofxpimtalog:ral   \nThorell,L..iist,S.,utley..,hGgber,T.().iidraerieuios preschool children. Developmental Science,12(1),106-113 .   \nVanBoxtel,G.JVa..g,J,rua,CH..().oigicalalisr control in the stop-signal paradigm. Biological Psychology,58(3),229-262.   \nVerbruggen,Fifoge,&Vdereock,A).eteracteoigalbostactoree the flanker and stroop task.Acta Psychologica,1l6(1),21-37.   \nVerbruggen,,&ganG.)utoaticotoldsoeboocaieagindil paradigms.Journal of Experimental Psychology: General,137(4),649-672.   \nWilkinson,A.J,&ang,L.X(l2).Plasticityfbiiidadults:Retestpractiadtrasfereft.yhgAgig 27(3),606-615.   \nWiliams,B.oesse,hachr.JgaG.ock,.999).velopmntofibioryontrocoele span.Developmental Psychology,35(1),205-213.   \nZhao,X.Chen,L.&Maes,J.H.R.(2O18).Trainingandtransfereffectsofresponseinhibitiontraininginchildrenandadults. Developmental Science,21(1),e12511.   \nZhao,X.,&Jia,L.(219).Trainingandtransfereffectsofinterferencecontroltraininginchildrenandyoungadults.Psychological Research,83(7),1519-1530. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Training and transfer effects of response inhibition training with online feedback on adolescents and adults’ executive function ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "WANG Yuan'; LI $\\mathrm { K e } ^ { 2 }$ ; GAI Xiaosong1; CAO Yifeil ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(' School ofPsychologyNortheast Normal UniveristyChangchun13o024; ² YantaiVocational CollgeofCulture and Tourism,Yantai 264000,China） ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The plasticity of executive function (EF) has been discussed as a core topic in the recent cognitive development research. However， inhibition training research remains inadequate. According to dimensional overlap theory, inhibition has two types: interference and response. The neural networks of the brain that respond to conflicts do not mature until early adulthood. By conducting a comparison of the plasticity of response inhibition between adolescents and adults, the applicable age group for response inhibition training is explored. Introducing online fedback as reinforcement improves the training effects and helps individuals to balance further accuracy and speed. Therefore, we added online feedback in the training groups but used the original Stop Signal task in the active control groups to investigate the training and transfer efects of this task with online feedback. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "This study included 194 participants (134 adults and 60 adolescents) that were divided into five groups: adult training group $\\mathrm { N } = 4 7$ ), adult active control group $( \\Nu = 4 5$ ),adolescent training group $( \\mathrm { N } = 3 0 )$ ),adolescent active control group $( \\mathrm { N } = 3 0 )$ ), and passive control group $( \\mathrm { N } = 4 2 ^ { \\cdot }$ ). The response inhibition training consisted of nine sessons,and it was held three times a week. In each training session of the adult and adolescent training groups, participants were guided to finish eight blocks (1OO trials in each block)of the Stop Signal task with online fedback.In the adult and adolescent active control groups, participants completed the same amount of the Stop Signal task without online feedback. The passive control group received no training. The participants' inhibition, working memory, and fluid intelligence were measured before and after training through six tasks (e.g., Inhibition: Stop Signal Task, Go/No-go Task,and Stroop Task; Working memory: 2-back Task and 3-back Task； and Fluid intelligence: Raven's Standard Progressive Matrices). ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "A 9 (all training sessions) $\\times ~ 2$ (training group,active control group) $\\times ~ 2$ (adult,adolescent) repeated measure ANOVA was used to test the training effects. Both age groups exhibited improved performances with the continuation of the training sessons. However, the adults performed significantly faster and more accurate than the adolescents. Next, four 2 (pretest, posttest) $\\times ~ 5$ (all five groups） repeated measure ANOVA were conducted to test the transfer effects.The transfer eect results revealed that (1) on the Go/No-go task, both training groups showed significant improvement; (2） on the Stroop task，only the adolescent training group showed significant improvement; (3) on the 2-back task, both training groups and the adult active control group improved significantly; (4) on the 3-back task, only the adolescent training group gained significant transfer effects; and (5) on the Raven's Standard Progressive Matrices, no group showed significant improvement. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "To sum up, the results suggest that the Stop Signal training task with online feedback has produced training effects on both age groups, and the transfer effects are influenced by the age difference of cognitive plasticity and the nature of the task. Thus,adding online feedback to computerized training can effectively improve the training and the transfer effects. Finally, inhibition training has a more formative effect on the pre-adult age. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Key words response inhibition training; executive function; adolescents; online feedback ",
+        "page_idx": 17
+    }
+]

@@ -1,0 +1,176 @@
+# 基于多重分形的半干旱区弃耕农田土壤粒径分布特征
+
+王燕¹，斯庆毕力格³，贾旭¹，蒙仲举¹，吕世杰²（1．内蒙古农业大学沙漠治理学院；2．内蒙古农业大学理学院,内蒙古 呼和浩特010018；3．鄂尔多斯市林业局,内蒙古 鄂尔多斯 610081)
+
+摘要：为阐明农田弃耕后土壤质量演变特征,在阴山北麓中段农牧交错区内选择当年耕地、弃耕1a $\cdot ^ { 2 }$ a、3 a、4 a5 种类型土地进行研究,测定弃耕农田 $0 \sim 8 0 ~ \mathrm { c m }$ 层土壤颗粒特征和有机质含量,基于多重分形理论分析的基础上，探究土壤粒径分布与有机质含量的关系。结果表明：砂粒含量与多重分形参数 $( D _ { 0 } \sqrt { D _ { 1 } } \sqrt { \alpha _ { 0 } } )$ 之间存在正相关关系，与有机质成极显著负相关;研究区内土壤随着砂粒含量的增加,土壤粒径分布范围逐步变宽,分布越离散,土壤向粗粒化方向演替。随着弃耕年限的延长，表层( ${ \mathrm { ' 0 } } \sim 1 0 { \ \mathrm { c m } } { \mathrm { ) } }$ 土壤表现出黏粒、有机质含量呈一致减少趋势，黏粒含量与土壤有机质呈极显著正相关。因此,可以考虑用黏粒含量反应土壤有机质变化趋势。
+
+关键词：弃耕农田；多重分形；土壤粒径；有机质；半干旱区
+
+弃耕地也称畧荒地，由于土壤肥力卜降、人力条件限制或者政策的改变，致使原本进行农业经营的土地无法再继续生产活动而被闲置(1],是一种人为干扰下的次生演替[2]。大多数弃耕地在较短的时间里土壤质量不能得到明显的提高[3-5],特别是土壤类型为沙壤土或沙土的弃耕地在短期内没有得到恢复，就会形成新的沙源，对当地环境及居民生活带来恶劣的影响[。研究发现不同退耕年限的土壤养分含量、粒径大小存在着明显差别[7。土壤粒径是土壤物理性质的指标之一(8],可以描述土壤颗粒的大小及均匀程度。土壤粒径分布（soilparticle sizedistribution，PSD)是指土壤中各粒径级所占百分比，与土壤结构、土壤肥力及水分运动有着密切的关系，同时可以间接反映土壤风蚀程度[9-11]。人类活动的影响以及土壤内部作用导致了土壤颗粒在排列、分布方面表现出了局部与整体相似的性质，又称自相似特性或分形[12]。分形理论的引入打破了传统的通过土壤中各粒径级颗粒含量占比表征PSD的方式，为定量描述PSD提供了方法。分形理论在土壤颗粒方面通常是用来描述PSD的自相似性、均质性以及异质性(13],例如黄土高原[14-15]、局部小流域[16]、沙漠地区[17-19]以及河谷区域[20-21]土壤本身的差异性，还可以反映土壤颗粒和养分随植被演替的变化特征[22]。但是之前的研究大多集中于土壤粒径分布的单重分形层面，只是粗略的表达土壤颗粒分布的基本性质[23],而实际研究对象在某一范围内的分布往往是复杂多变的，采用单一分形难以完全揭示其变化规律。多重分形可以利用谱函数通过研究土壤不同层次、不同结构的细微的差异和变化趋势,进一步来反映整体的特征[14],所以,多重分形于单分形而言更适合用于描述土壤状况。土壤有机质（soilorganicmatter,SOM)作为反映土壤肥力水平重要指标[24-26],还可以侧面反映土壤环境状况,粒径不同的颗粒相互排列黏合导致SOM分布、含量也存在差异[27]。利用多重分形探究 PSD 与 SOM含量变化关系的研究多集中在不同灌丛[19]、设障年限不同的沙丘[28] 不同土地利用方式等方面[29],对于土壤质地而言，各多重分形参数与土壤有机质的相关性更高，但不同演替阶段的PSD与SOM含量变化并不相同[30]。在弃耕地演替过程中,不同弃耕年限土壤的物理属性及地表结皮均有所不同[31],但不同弃耕年限PSD状况及 SOM含量如何变化，二者之间存在的关系目前尚不明确。
+
+近年来阴山北麓地区由于农村人口流出，大面积的农田被闲置，加上常年干旱少雨，大风频发及人类活动的影响，土壤风蚀日益严重。基于此，本研究以阴山北麓农牧交错区不同弃耕年限土壤为研究对象，应用多重分形理论及其方法，分析PSD、SOM含量变化及其相互关系，揭示其变化规律，为阐明弃耕农田演替机制和土地自然修复提供科学依据，
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+研究区位于阴山北麓中部的农牧交错区，地理坐标 $4 1 ^ { \circ } 2 3 ^ { \prime } 1 6 . 9 6 ^ { \prime \prime } \mathrm { N } , 1 1 1 ^ { \circ } 2 3 ^ { \prime } 0 2 . 5 5 ^ { \prime \prime } \mathrm { E }$ ,气候属于中温带大陆性半干旱季风气候,该区年平均降水量$2 5 0 \sim 4 0 0 ~ \mathrm { m m }$ ,主要集中在7一9月，年平均气温为$3 . 3 ~ \mathrm { ^ { q } C }$ ,年均蒸发量 $1 ~ 8 3 9 . 0 ~ \mathrm { m m }$ ,无霜期100d左右；全年主风向以北风和西北风为主，年平均风速$4 . 5 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ ,年大风日数为 $6 5 \mathrm { ~ d ~ }$ 。平均海拔高度1$6 7 5 \mathrm { ~ m ~ }$ ,地势较为平坦开阔,成土母质为泥岩、沙岩的残积物，土壤类型以栗钙土为主;地带性植被类型为荒漠草原，优势种为羊草（Leymuschinensis）、冷蒿（Artemisiafrigida）短花针茅（Stipabreviflora）；主要农作物为马铃薯、春小麦、筱麦、油菜等，农耕制度为一年一熟。
+
+# 1.2 研究方法
+
+1.2.1选择样地与样品采集选择典型连作莜麦留茬地，留茬高度 $1 5 \ \mathrm { c m }$ ,弃耕 $1 \mathrm { ~ a ~ } , 2 \mathrm { ~ a ~ } , 3 \mathrm { ~ a ~ } , 4$ a地设置样地，样地走向与当地主风向平行。考虑到作物土壤相互作用影响，分别于2016年、2017年4月中旬进行土样采集，由于区域受长期风蚀作用，地表粗化，弃耕地植被自然演替缓慢。各样地内采用5点法挖取剖面，采样深度设为 $0 \sim 8 0 ~ \mathrm { c m }$ ,分别挖取 $0 \sim$ $3 \ \mathrm { c m } \ . 3 \sim 1 0 \ \mathrm { c m } \ . 1 0 \sim 2 0 \ \mathrm { c m } \ . 2 0 \sim 3 0 \ \mathrm { c m } \ . 3 0 \sim 4 0 \ \mathrm { c m } \ ,$ （204$4 0 \sim 5 0 \ \mathrm { c m } \ . 5 0 \sim 6 0 \ \mathrm { c m } \ . 6 0 \sim 7 0 \ \mathrm { c m }$ 和 $7 0 \sim 8 0 ~ \mathrm { c m }$ 层土壤,每层取 $3 0 0 \mathrm { g }$ 装入自封袋，带回实验室做阴干处理。每块样地5个采样点，共计25个采样点225个土样。
+
+1.2.2土壤指标测定将阴干后的土壤样品用2$\mathbf { m } \mathbf { m }$ 土壤筛筛去植物根系和地表杂物，使用Mastersi-aer 3000 激光粒度仪测定土壤粒径分布[12]。按照美国制土壤分类标准，将土壤粒径分为7类，即极粗砂粒(粒径 $2 ~ 0 0 0 \sim 1 ~ 0 0 0 ~ { \mu \mathrm { m } } ,$ ）、粗砂（粒径 $1 ~ 0 0 0 \sim$ $5 0 0 ~ { \mu \mathrm { m } }$ ）、中砂(粒径 $5 0 0 \sim 2 5 0 ~ \mu \mathrm { m }$ ）、细砂（粒径250$\sim 1 0 0 ~ \mu \mathrm { m }$ ）、极细砂（粒径 $1 0 0 \sim 5 0 ~ \mu \mathrm { m }$ ）、粉粒（粒径$5 0 \sim 2 ~ { \mu \mathrm { m } } )$ 和黏粒（粒径 $< 2 ~ \mu \mathrm { m }$ )。土壤有机碳测定采用浓硫酸一重铬酸钾外加热法，通过计算后得
+
+出土壤有机质含量。
+
+1.2.3多重分形参数计算取激光粒度仪对土壤样品测量区间 $I = \left[ 0 . 0 2 , 2 0 0 0 \right]$ ，按照对数等差递增的方法将区间划分为100 个小区域 $I i = \big [ \varphi _ { i } , \varphi _ { i + 1 } \big ]$ ，$\varphi _ { i } , \varphi _ { i + 1 }$ 为机测粒径范围, $i = 1 , 2 , 3 , \cdots , 1 0 0$ ,测量得到的各子区间 $\mathit { \Pi } _ { I i }$ 内的土壤颗粒体积分数用 $\boldsymbol { v } _ { i }$ 表示，即u,U,U，100，∑=100。根据激光粒度仪区间划分原理， $\log ( \varphi _ { i + 1 } / \varphi _ { i } )$ 为一个常数。为利用多重分形方法分析区间 $I$ 的土壤粒度特征，必须使各子区间长度相同，从而构造一个新的无量纲区间 $J =$ $\left[ \lg ( 0 . 0 2 / 0 . 0 2 ) , ( 2 0 0 0 / 0 . 0 2 ) \right] = [ 0 , 5 ]$ ，含100个等距子区间 $J _ { i }$ 。在区间 $J$ 内,有 $N ( \varepsilon ) = 2 ^ { k }$ 个尺寸相同小的区间 $\varepsilon = 5 \times 2 ^ { - k }$ ,每一个小区间内至少包含一个测量值，为了在最小的子区间内包含测量值，$k$ 的取值范围为 $1 \sim 6 _ { \circ } \ \mu _ { i } ( \varepsilon )$ 为每个子区间土壤粒径分布的概率密度，利用 $\mu _ { i } ( \varepsilon )$ 构造一个配分函数族[32]：
+
+$$
+\begin{array}{c} \begin{array} { l } { { u _ { i } ( q , \varepsilon ) } } \end{array} = \frac { p _ { i } ( \varepsilon ) ^ { q } } { \displaystyle \sum _ { i = 1 } ^ { N ( \varepsilon ) } p _ { i } ( \varepsilon ) ^ { q } }  \end{array}
+$$
+
+其中 $u _ { i } ( q , \varepsilon )$ 为第 $i$ 个子区间的 $q$ 阶概率， $q$ 为整实数， $- 1 0 \leqslant q \leqslant 1 0$ ，则粒径分布多重分形的广义维数谱为：
+
+$$
+D ( q ) \ = \frac { 1 } { q \ - 1 } \operatorname* { l i m } _ { \varepsilon \to 0 } \frac { \mathrm { l g } \ \Big [ \ \sum _ { i = 1 } ^ { N ( \varepsilon ) } p _ { i } ( \varepsilon ) ^ { q } \Big ] } { \mathrm { l g } \varepsilon } ( q \neq 1 )
+$$
+
+$$
+D ( q ) = \operatorname* { l i m } _ { \varepsilon \to 0 } { \frac { \log \sum _ { i = 1 } ^ { N ( \varepsilon ) } p _ { i } ( \varepsilon ) \ \log p _ { i } ( \varepsilon ) } { \log \varepsilon } } ( q = 1 )
+$$
+
+粒径分布的多重分形奇异性指数为：
+
+$$
+\alpha ( q ) = \operatorname* { l i m } _ { \varepsilon \to 0 } { \frac { \displaystyle \sum _ { i = 1 } ^ { N ( \varepsilon ) } u _ { i } ( q , \varepsilon ) \log p _ { i } ( \varepsilon ) } { \log \varepsilon } }
+$$
+
+则相对于奇异性指数的多重分形谱函数为：
+
+$$
+f ( \mathbf { \boldsymbol { q } } ) = \operatorname* { l i m } _ { \varepsilon \to 0 } \frac { \displaystyle \sum _ { i = 1 } ^ { N ( \varepsilon ) } u _ { i } ( \boldsymbol { q } , \varepsilon ) \log u _ { i } ( \boldsymbol { q } , \varepsilon ) } { \log \varepsilon }
+$$
+
+通过最小二乘法拟合计算，可得 $D ( q ) \mathinner { \lrcorner } \alpha ( q )$ 和$f ( q ) ^ { [ 1 3 , 3 3 ] }$ ,广义维数谱 $D ( q )$ 可以从不同的层面或部分上描述PSD分形结构特征的复杂程度和非均质性。利用公式(2)和公式(3)以步长为1计算-
+
+$1 0 \leqslant q \leqslant 1 0$ 内的广义维数谱 $D ( q )$ ,本文中只讨论当$q = 0 , 1 , 2$ 时,对应的 $D _ { 0 } \ 、 D _ { 1 } \ 、 D _ { 2 }$ 分别为容量维数、信息熵维数和关联维数[34]。其中， $D _ { 0 }$ 描述 PSD 范围的大小，越大说明PSD的范围越广； $D _ { 1 }$ 反映土壤颗粒分布测度的密集性，越大则土壤颗粒分布测度在局部越稀疏； $D _ { 2 }$ 代表土壤粒径分布测量距离的匀称水平,越大表明土壤粒径分布越匀称。 $D _ { 1 } / D _ { 0 }$ 可以衡量PSD异质程度，该值越接近1说明土壤颗粒分布在密集区越集中。 $\alpha ( q )$ 是多重分形谱的奇异性指数,表征土壤颗粒分布在局部上的分维， $\alpha _ { 0 }$ 是多重分形谱奇异性强度的均值，与土壤粒径分布在局部的密集程度有关， $\alpha _ { 0 }$ 越大，局部密集程度越小[35]。 $\varDelta \alpha$ 为多重分形谱谱宽,用于描述土壤结构在空间上的异质性，从侧面反映出土壤各粒级体积含量在空间分布的差异以及非均质水平， $\varDelta \alpha$ 越大表明土壤各粒级体积含量在空间分布上越不均匀，变异程度越高[12]。多重分形谱函数 $f ( q )$ 表征土壤分布的复杂性、不规则性以及非均匀性，当 $\varDelta f < 0$ 时，在土壤粒级分布范围中体积分数占比较小颗粒，对土壤的复杂程度、不规则程度以及不均匀程度起主导作用， $\varDelta f > 0$ 时，体积分数占比较大颗粒起主导作用[12,35]
+
+# 2结果与分析
+
+# 2.1 不同弃耕农田的PSD特征
+
+由表1可知，随着弃耕年限的延长,黏粒含量逐渐降低，而细砂与之相反，出现增加的趋势。如图1所示， $q$ 与 $D ( q )$ 的关系为反“S"形递减函数，且具有一定宽度,符合 Sigma-shaped 曲线描述[36],结合表2,所有样地PSD广义维数谱参数 $D _ { 0 } \ 、 D _ { 1 } \ 、 D _ { 2 }$ 均存在如下关系： $D _ { 0 } \geqslant D _ { 1 } \geqslant D _ { 2 }$ ,说明样地土壤颗粒分布呈现出不均匀的状态，可以利用多重分形分析。当$q > 0$ 时， $D ( q )$ 突出大概率测度范围的性质，可反映PSD 整体的复杂程度。当 $q < 0$ 时， $D ( q )$ 可以凸显出小概率测度区间的性质，反映出PSD分形结构细小的、复杂的特征。由图1可知， $q < 0$ 时， $D ( q )$ 的变化幅度大于 $q > 0$ ,由此可以说明， $D ( q )$ 在小概率测度区域上的描述要比大概率区域的更准确。从弃耕2a土壤 $1 0 \sim 2 0 ~ \mathrm { c m }$ 层 $D ( q )$ 的变化发现,在 $q < 0$ 时， $D \left( { q } \right)$ 的下降幅度明显大于其他土层,表明在PSD 小概率集中的区域, $1 0 \sim 2 0 \ \mathrm { c m }$ 层的土壤结构更复杂。 $q > 0$ 时,弃耕1a $D ( q )$ 的变化幅度较其他样地的更大，弃耕1aPSD均匀性小于其他年份。由表2可知， $D _ { 0 }$ 随着弃耕年限的增加出现递增趋势，说明PSD分布范围也随着弃耕年限的增加而增加，土壤逐渐粗粒化。 $D _ { 1 }$ 表现出先减小后增加的趋势，其中弃耕3a时最小,但相比耕地均出现了不同程度的增加，说明土地弃耕促使PSD变得离散。各样地$D _ { 2 }$ 的变化范围较小且没有明显的变化趋势,但与耕地相比，均出现了不同程度的增加，由此可见，弃耕后PSD测量间隔的均匀性上升。 $D _ { 1 } / D _ { 0 }$ 分布在0.$8 5 1 \sim 0 . 8 7 5$ ,较接近于1，说明土壤颗粒集中分布在密集区域,其中弃耕2a的值最大，结合表1可以发现,弃耕2a时土壤颗粒在密集区集中程度更高。可见，以风力为主要营力的土地自然演变,促使土地表层的细物质首先损失，大颗粒物质裸露，导致PSD范围变大、离散程度增加、均匀性下降，颗粒分布向粉粒和细砂粒区域集中，进而改变土壤结构，使土壤颗粒向粗粒化方向发展。
+
+表1不同弃耕年限PSD 组成  
+Tab.1 Soil PSD Composition in Different Years of Abandonment   
+
+<html><body><table><tr><td>样地</td><td>黏粒</td><td>粉粒</td><td>细砂</td><td>粗砂</td><td>砾石</td></tr><tr><td>耕地</td><td>0.249</td><td>39.139</td><td>58.34</td><td>2.273</td><td>2.273</td></tr><tr><td>弃耕1a</td><td>0.227</td><td>47.254</td><td>50.877</td><td>1.591</td><td>1. 641</td></tr><tr><td>弃耕2a</td><td>0.200</td><td>48.113</td><td>51.331</td><td>0.287</td><td>0.356</td></tr><tr><td>弃耕3a</td><td>0.199</td><td>35.097</td><td>58.698</td><td>5.447</td><td>6.006</td></tr><tr><td>弃耕4a</td><td>0.188</td><td>37.647</td><td>60.389</td><td>1. 756</td><td>1. 777</td></tr></table></body></html>
+
+由图2可知，根据 $\alpha ( q )$ 和 $f ( q )$ 绘制的多重分形谱曲线为单峰函数，曲线重合度较高，呈现左勾状。结合表3， $ { \Delta f }$ 均大于0,说明在粒径分布中，体积分数占比较大的颗粒居主导地位。 $\alpha _ { 0 }$ 的排列顺序为：耕地 $>$ 弃耕 $3 \mathrm { ~ a ~ } >$ 弃耕 $4 \textrm { a } >$ 弃耕 $2 { \mathrm { ~ a ~ } } >$ 弃耕1a,由此可见,弃耕1a的PSD局部密集程度最大,耕地的PSD 局部密集程度最小。 $\varDelta \alpha$ 值出现先增加后减小的现象，在弃耕2a时最大，说明在弃耕2a时PSD 最不均匀,空间异质程度最高,但随着弃耕年限的增加，不均匀程度逐渐下降，从另一个角度反映了弃耕地在短期的自然演替中，黏粒含量减少，土壤颗粒分布愈加分散，土壤颗粒的分选性增强，逐渐向均一化方向发展。
+
+# 2.2 不同弃耕农田的SOM含量
+
+由图3可知，各个样地的表层 $0 \sim 3 \ \mathrm { c m \ S O M }$ 含量表现为：耕地 $>$ 弃耕 $\mathrm { ~ 1 ~ a ~ } >$ 弃耕 $2 { \mathrm { ~ a ~ } } >$ 弃耕 $3 \mathrm { ~ a ~ } >$ 弃耕 $\mathrm { ~ 4 ~ a ~ }$ ,说明表层土壤的有机质含量随着弃耕年限的延长而降低。在垂直剖面上，表层土壤 SOM均大于其他土层，随着土层深度的加深,SOM含量呈降低趋势，在 $0 \sim 3 0 ~ \mathrm { c m }$ 内下降幅度最大，在 $5 . 0 4 \sim 1 5 . 3 7$ 之间。 $3 0 \sim 8 0 ~ \mathrm { c m }$ 间各个土层SOM波动较小，各样地同一土层之间有机质含量差异较小。
+
+![](images/6eef92b8f198b7e17a22a292a27fb4ec68dc461fc20fe4034d979dba13485b1a.jpg)  
+图1不同弃耕年限土壤粒径分布广义维数谱  
+Fig.1Generalized dimension spectrum of soil particle size distribution in diferent years of abandonment
+
+# 2.3土壤质地与SOM及多重分形参数相关关系
+
+由表4可知， $D _ { 0 }$ 与与砂粒含量成显著正相关,与粉粒成显著负相关( $P < 0 . 0 5$ )，与黏粒含量成负相关关系,但不显著。由此说明,多重分形参数 $D _ { 0 }$ 易受土壤中各粒径含量的影响，当土壤中粒径为 50$\mu \mathrm { m }$ 以上的颗粒含量越多时,PSD分布范围越宽；粒径为 $5 0 ~ { \mu \mathrm { m } }$ 以下的颗粒含量越多，粒径分布范围越窄。 $D _ { 0 }$ 与各参数之间也存在相关关系， $D _ { 0 }$ 与 $D _ { 1 } \setminus D _ { 2 }$ 成显著正相关关系，与 $\alpha _ { 0 }$ 成极显著正相关关系，与$ { \Delta } f$ 成极显著负相关关系( $P < 0 . 0 1 )$ ，与 $D _ { 1 } / D _ { 0 }$ 相关性较好（相关系数为0.712）。 $D _ { 1 }$ 与砂粒含量成显著正相关，与粉粒、黏粒存在负相关关系，但相关性较低。说明土壤中粒径为 $5 0 ~ { \mu \mathrm { m } }$ 以上的颗粒含量增加，土壤颗粒分布离散。 $D _ { 1 }$ 与多重分形参数间也存在相关关系， $D _ { 1 }$ 与 $D _ { 1 } / D _ { 0 } \setminus \alpha _ { 0 }$ 存在显著正相关关系，与 $D _ { 2 }$ 存在极显著正相关关系，与 $ { \Delta } f$ 存在极显著负相关关系。 $D _ { 2 }$ 与黏粒、粉粒含量成负相关，但相关性较弱，虽与砂粒含量存在正相关关系，但不显著。由此可知,粒径在 $5 0 ~ { \mu \mathrm { m } }$ 以上的颗粒含量虽然能影响土壤颗粒分布的均匀性，但不是起主要作用。$\alpha _ { 0 }$ 与黏粒、粉粒含量、 $. \Delta f$ 成负相关关系，其中与粉粒 $. \Delta f$ 的负相关关系较为显著。说明砂粒含量越多，土壤粒径分布在局部上的密集程度越小。 $\varDelta \alpha$ 与黏粒含量成显著正相关关系，与粉粒砂粒相关性较弱，由此可知土壤中粒径在 $5 0 ~ { \mu \mathrm { m } }$ 以下的颗粒含量越多，土壤粒径分布越不均匀。由于 $\varDelta f > 0$ 且与砂粒存在较好的相关性（相关性系数为0.795），说明土壤粒径分布概率大部分集中在 $5 0 ~ { \mu \mathrm { m } }$ 以上的颗粒中。SOM与黏粒、粉粒存在显著相关关系，其中与黏粒的相关性达到极显著水平，与砂粒存在极显著负相关关系，由此可以说明，土壤中黏粒含量越多,SOM也越多。SOM与多重分形参数 $D _ { 0 } \ 、 D _ { 1 } \ 、 D _ { 2 }$ 、$D _ { 1 } / D _ { 0 } \lrcorner \alpha _ { 0 }$ 和 $ { \Delta } f$ 均成负相关关系，但相关性较弱，与$\varDelta \alpha$ 存在较好的正相关关系（相关系数为0.735）。
+
+![](images/316418e3fe4789d8beacfcd3bf6330b2959d272b0795e837d4d394d8a6eab8f1.jpg)  
+图2不同弃耕年限PSD多重分形谱  
+Fig.2PSD multiple fractal spectrum with different years of abandonment
+
+Tab.2parameters of soil generalized dimension spectrum with different depth of land   
+
+<html><body><table><tr><td rowspan="2">土地 类型</td><td rowspan="2">分形 参数</td><td colspan="9">土壤深度/cm</td><td rowspan="2">平均值</td></tr><tr><td>0~3</td><td>3~10</td><td>10~20</td><td>20~30</td><td>30~40</td><td>40~50</td><td>50~60</td><td>60~70</td><td>70~80</td></tr><tr><td>耕地</td><td>D0</td><td></td><td>0.848±0.0100.826±00140.855±0.0110.841±0.0190.833±00100.8620.0140.8260.0150.830.0100.8550.0120.840ab</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="5">弃耕1a</td><td>D</td><td></td><td>0.74±0.0080.716±0.0090.744±0020.733±0.0070.728±00100.738±0.0060.738±0.0090.724±0.0130.728±0.0110.70.ab</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>D2</td><td></td><td>0.701±0.009 0.667±0.011 0.691±0.013 0.684±0.0150.681±0.011</td><td></td><td></td><td></td><td></td><td></td><td>0.683±0.0100.695±0.0070.676±0.0100.673±0.011 0.683±0.011a</td><td></td><td></td></tr><tr><td>D1/D0</td><td>0.877 ±0.011</td><td>0.867±0.012</td><td>0.87±0.010</td><td>0.872 ±0.013</td><td>0.873±0.008</td><td>0.857±0.014</td><td></td><td>0.893±0.012 0.869±0.014</td><td>0.851±0.013 0.87±0.012e</td><td></td></tr><tr><td>D0</td><td>0.862 ±0.032</td><td></td><td></td><td></td><td>0.792±0.031 0.792±0.0270.801±0.0300.792±0.0330.848±0.027</td><td></td><td></td><td>0.801±0.029 0.855±0.027 0.833±0.030 0.82±0.029b</td><td></td><td></td></tr><tr><td>D</td><td>0.747 ±0.031</td><td>0.654 ±0.038</td><td>0.671±0.039 0.695±0.0330.66±0.040</td><td></td><td></td><td></td><td>0.757±0.037 0.689±0.0350.72±0.038</td><td></td><td>0.687 ±0.038 0.698±0.036b</td><td></td></tr><tr><td rowspan="4">弃耕2a</td><td>D</td><td></td><td>0.684±0.0450.587±0.042 0.61±0.038</td><td></td><td></td><td>0.634±0.0370.593±0.0450.714±0.0460.636±0.0420.659±0.0370.629±0.042 0.638±0.041b</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>D/D0</td><td>0.867±0.020</td><td>0.825 ±0.021</td><td>0.847±0.023</td><td>0.867 ±0.023 0.833±0.025</td><td></td><td>0.893±0.020</td><td>0.86±0.020</td><td>0.842 ±0.025</td><td>0.824±0.029 0.851±0.023d</td><td></td></tr><tr><td>D0</td><td>0.862 ±0.009</td><td>0.833±0.011</td><td>0.833±0.008</td><td>0.826±0.012 0.826±0.012</td><td></td><td>0.833 ±0.013</td><td>0.841±0.009</td><td>0.833±0.015</td><td></td><td>0.833±0.009 0.836 ±0.010ab</td></tr><tr><td>D</td><td>0.732 ±0.010</td><td>0.748 ±0.011</td><td>0.734±0.013</td><td>0.745 ±0.015</td><td>0.711 ±0.017</td><td>0.722 ±0.010</td><td>0.718±0.017</td><td>0.732 ±0.009</td><td></td><td>0.742±0.011 0.732 ±0.012ab</td></tr><tr><td rowspan="4">弃耕3a</td><td>D</td><td>0.678 ±0.018</td><td>0.712 ±0.025</td><td>0.687±0.018</td><td>0.706±0.021</td><td>0.653 ±0.017</td><td>0.67 ±0.023</td><td>0.666 ±0.020</td><td>0.688±0.019</td><td>0.7±0.015</td><td>0.684 ±0.019a</td></tr><tr><td>D/D0</td><td>0.85±0.021</td><td>0.898 ±0.017</td><td>0.88±0.019</td><td>0.902 ±0.020</td><td>0.861±0.012</td><td>0.866 ±0.018</td><td>0.854±0.022</td><td>0.878 ±0.019</td><td></td><td>0.89±0.022 0.875±0.019b</td></tr><tr><td>D0</td><td>0.841 ±0.011</td><td>0.862±0.008</td><td>0.841±0.010</td><td>0.841 ±0.009</td><td>0.862 ±0.011</td><td>0.855±0.012</td><td>0.841±0.007</td><td>0.833±0.015</td><td>0.855±0.013 0.848±0.010a</td><td></td></tr><tr><td>D</td><td>0.709 ±0.028</td><td>0.734 ±0.032</td><td>0.773 ±0.021</td><td>0.726±0.029</td><td>0.775 ±0.033</td><td>0.755 ±0.035</td><td>0.745 ±0.035</td><td>0.688 ±0.021</td><td>0.715 ±0.032 0.736±0.029a</td><td></td></tr><tr><td rowspan="6">弃耕4a</td><td>D</td><td>0.653±0.037</td><td>0.672 ±0.042</td><td>0.743±0.035</td><td>0.678 ±0.046</td><td>0.733 ±0.031</td><td>0.704 ±0.045</td><td>0.701±0.038</td><td>0.629 ±0.041</td><td>0.648±0.033 0.685 ±0.039a</td><td></td></tr><tr><td>D1/D0</td><td>0.844 ±0.30</td><td>0.851±0.028</td><td>0.92 ±0.035</td><td>0.863±0.025</td><td>0.9±0.031</td><td>0.883±0.039</td><td>0.887 ±0.032</td><td>0.825±0.035</td><td>0.836±0.033 0.868 ±0.031c</td><td></td></tr><tr><td>D0</td><td>0.841 ±0.015</td><td>0.862 ±0.018</td><td>0.855 ±0.022</td><td>0.855 ±0.014</td><td>0.826 ±0.016</td><td>0.841 ±0.015</td><td>0.833 ±0.016</td><td>0.818 ±0.013</td><td></td><td>0.818 ±0.016 0.839 ±0.017ab</td></tr><tr><td>D1</td><td>0.722 ±0.027</td><td>0.748 ±0.029</td><td>0.736±0.031</td><td>0.757±0.026</td><td>0.717 ±0.029</td><td>0.735±0.035</td><td>0.734±0.023</td><td>0.679 ±0.035</td><td></td><td>0.669 ±0.033 0.722±0.029ab</td></tr><tr><td>D</td><td>0.671 ±0.035</td><td>0.691 ±0.036</td><td>0.68 ±0.029</td><td>0.714 ±0.030</td><td>0.668 ±0.033</td><td>0.69±0.035</td><td>0.689 ±0.018</td><td>0.624 ±0.028</td><td></td><td>0.612 ±0.033 0.671±0.033ab</td></tr><tr><td>D/D0</td><td>0.858 ±0.024</td><td>0.868 ±0.019</td><td>0.861±0.021</td><td>0.886 ±0.025</td><td>0.868 ±0.027</td><td>0.875 ±0.022</td><td>0.881±0.038</td><td>0.83 ±0.022</td><td>0.818 ±0.027 0.861 ±0.023a</td><td></td></tr></table></body></html>
+
+注：不同小写字母表示不同弃耕年限土壤同一广义维数谱参数间差异显著 $( P < 0 . 0 5 )$ 。
+
+# 表3不同弃耕年限PSD多重分形谱参数
+
+表2不同弃耕年限土地不同深度土壤广义维数谱参数  
+Tab.3different shifts of PSD multiple fractal spectrumparameters   
+
+<html><body><table><tr><td colspan="6">Speetrulhrparahetrs</td></tr><tr><td>分形参数</td><td>耕地</td><td>弃耕1a</td><td>弃耕2a</td><td>弃耕3a</td><td>弃耕4a</td></tr><tr><td>α0</td><td>1. 060</td><td>1. 042</td><td>1. 051</td><td>1. 058</td><td>1. 054</td></tr><tr><td>Qmax</td><td>2.892</td><td>2.836</td><td>2.953</td><td>2.941</td><td>2.837</td></tr><tr><td>αmin</td><td>0.546</td><td>0.510</td><td>0.572</td><td>0.571</td><td>0.573</td></tr><tr><td>Δα</td><td>2.346</td><td>2.326</td><td>2.381</td><td>2.370</td><td>2.264</td></tr><tr><td>f(max)</td><td>0.016</td><td>0.019</td><td>0.007</td><td>0.001</td><td>0.016</td></tr><tr><td>f(min)</td><td>0.194</td><td>0.228</td><td>0.315</td><td>0.308</td><td>0.370</td></tr><tr><td>△f(q)</td><td>0.178</td><td>0.209</td><td>0.308</td><td>0.307</td><td>0.354</td></tr></table></body></html>
+
+![](images/db5f4d9ba250d99371a26658daf424d6a00d0c6b294ead6926b9748c41d77fbc.jpg)  
+图3不同弃耕年限不同深度土壤SOM变化特征Fig.3Variation of soil SOC at different depths of differentabandoned years
+
+# 3讨论
+
+本实验利用多重分形理论，探讨了农田在弃耕后的不同层次PSD特征的异质性和不均匀性随时间变化的关系。研究发现广义维数谱在土壤粒径分布小概率区间的描述要比大概率区间更准确，小概率区间的不均匀性大于大概率区间,这与孙梅[35]、管孝艳等[37]、Grout 等[38]的研究结果相同。白一茹等[39]对米脂黄土高原丘陵地区研究发现土壤 $\varDelta \alpha$ 值的范围在 $1 . 4 6 \sim 1 . 9 8$ ,孙梅等[35]在对旱地红壤颗粒进行多重分形分析发现， $\varDelta \alpha$ 值为 $1 . 9 9 6 \sim 2 . 3 7 1$ ，本研究样地的土壤 $\varDelta \alpha$ 的在 $2 . 2 6 4 \sim 2 . 3 8 1$ ,说明样地PSD非均匀性处于较高水平。本研究中弃耕3a时PSD广义维数谱参数 $D _ { 0 }$ 相比较于耕地出现了增加的现象，结合土壤各粒级分布可以说明土壤粒径范围变大且粗砂和砾石含量明显高于其他样地。各样地之间 $D _ { 1 } / D _ { 0 }$ 差异显著,说明随着弃耕时间的变化，土壤颗粒分布主要集中的区域也在变化，总体变化趋势是向密集区靠拢。不同样地PSD多重分形谱函数参数 $ { \Delta } f$ 为：弃耕 $\mathrm { ~ 1 ~ a ~ } >$ 弃耕 $4 \textrm { a } >$ 弃耕 $2 { \mathrm { ~ a ~ } } >$ 耕地 $>$ 弃耕 $3 \mathrm { ~ a ~ }$ ,说明体积分数占比较小的颗粒即黏粒对弃耕3a地土壤的复杂程度及不均匀性影响较大,对弃耕1a 地影响较小。管孝艳等[37]、王德等[13]、白一茹等[39]研究发现黏粒对土壤多重分形参数具有显著影响，这与本实验的结果存在差异，因为三者的土壤黏粒含量在 $4 \% \sim 1 1 \%$ ,而本实验样地土壤质地属于沙壤土，地表经风蚀后，黏粒急剧减少,含量在 $0 . \ 1 8 8 \% \sim 0 . 2 4 9 \%$ 之间，由此可以说明本实验中黏粒对土壤均一性和异质性影响微弱。弃耕后的土地自然恢复到草地需要 $7 \sim 1 2 \ \mathrm { ~ a } ^ { [ 4 0 ] }$ ,本研究发现土地弃耕后1～4a的地表细物质及有机质变化呈下降趋势，加之人为干扰和放牧等因素，地表再度被破坏，所以自然恢复的效果较差。建议当地在土地退耕后采用秸秆翻压或种植牧草等人为干扰的方式改善SOM状况及土壤质量，加快土地演替的速度,减少地表细物质及养分的损失[41-42]。通过本次实验发现，用多重分形理论定量描述弃耕农田随时间变化的土壤动态演替过程是切实可行的，为土壤结构和性质变化定量的表达提供了新的方法。
+
+表4土壤质地、SOM含量、多重分形参数的相关分析  
+Tab.4Correlation analysis of soil texture，SOM content and multiple fractal parameters   
+
+<html><body><table><tr><td></td><td>黏粒</td><td>粉粒</td><td>砂粒</td><td>D0</td><td>D</td><td>D</td><td>D/D0</td><td>α0</td><td>Aα</td><td>△f</td><td>SOM</td></tr><tr><td>黏粒</td><td>1</td><td>0.709</td><td>-0.716**</td><td>-0.442</td><td>-0.156</td><td>-0.153</td><td>0.166</td><td>-0.523</td><td>0.742 *</td><td>0.234</td><td>0.939**</td></tr><tr><td>粉粒</td><td></td><td>1</td><td>-1.000**</td><td>-0.858 *</td><td>-0.676</td><td>-0.64</td><td>-0.372</td><td>-0.928 *</td><td>0.055</td><td>-0.801</td><td>0.613*</td></tr><tr><td>砂粒</td><td></td><td></td><td>1</td><td>0.855 *</td><td>0.672 *</td><td>0.636</td><td>0.366</td><td>0.927 *</td><td>-0.064</td><td>0.795</td><td>-0.624**</td></tr><tr><td>D0</td><td></td><td></td><td></td><td>1</td><td>0.930 *</td><td>0.911 *</td><td>0.712</td><td>0.947**</td><td>0.209</td><td>-0.966 **</td><td>-0.505</td></tr><tr><td>D1</td><td></td><td></td><td></td><td></td><td></td><td>0.996 **</td><td>0.921 *</td><td>0.888*</td><td>0.438</td><td>-0.953**</td><td>-0.279</td></tr><tr><td>D2</td><td></td><td></td><td></td><td></td><td></td><td>1</td><td>0.935**</td><td>0.870 *</td><td>0.407</td><td>-0.924 *</td><td>-0.325</td></tr><tr><td>D1/D0</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td><td>0.684</td><td>0.599</td><td>-0.786</td><td>-0.011</td></tr><tr><td>α0</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td><td>0. 144</td><td>-0.918*</td><td>-0.529</td></tr><tr><td>Δα</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td><td>-0.445</td><td>0.735</td></tr><tr><td>△f</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td><td>-0.486</td></tr><tr><td>SOM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td></tr></table></body></html>
+
+注： $* *$ 在 $P < 0 . 0 1$ 水平上显著相关, $*$ 在 $P < 0 . 0 5$ 水平上显著相关。
+
+# 4结论
+
+（1）通过对样地内PSD广义维数谱和多重分  
+形谱的研究发现，各样地的土壤颗粒分布具有多重  
+分形特征，因此，可以利用多重分形理论分析弃耕农  
+田随时间变化过程中PSD变化规律。（2）弃耕地表土黏粒含量随弃耕年限增加而减  
+少，其变化趋势与SOM变化趋势相同，所以，可以用  
+黏粒含量变化趋势预测SOM含量变化。（3）砂粒含量与多重分形参数 $D _ { 0 } \setminus D _ { 1 } \setminus \alpha _ { 0 }$ 之间  
+存在正相关关系，与SOM成极显著负相关，综上所  
+述,研究区内PSD主要受砂粒体积的影响，随着砂
+
+粒体积含量的上升，PSD分布范围越宽，局部集中程度降低，随着弃耕年限的延长，土壤颗粒均匀性增大，土壤在向粗粒化方向演替。
+
+# 参考文献(References）：
+
+[1]戎郁萍.我国弃耕地植被的恢复与重建研究概述[J].四川草 原,2004(5）:1-4.[Rong Yuping.Review of the Gressland Restoration and Recostruction of the Abandoned Land[J].Journal of Sichuan Grassland,2004(5):1-4.]   
+[2]任海,彭少麟.恢复生态学导论[M].北京,科学出版社,2002. [Ren Hai,Peng Shaoling.Introduction to restoration ecology[M]. Beijing:Science Press,2002.]   
+[3] Aweto A O.Secondary succession and soil fertility restoration in south-western Nigeria:I. Succession[J].The Journal of Ecology, 1981:601 -607.   
+[4]Odum E P.Organic production and turnover in old field succession [J].Ecology,1960,41（1）:34-49.   
+[5] Odum EP,Pinder III JE,Christiansen T A.Nutrient losses from sandy soils during old - field succession[J].American Midland Naturalist,1984:111(1) :148 -154.   
+[6] BryeKR,Norman JM,Gower S T.Assessing the progress of a tallgrass prairie restoration in southern Wisconsin[J].The American Midland Naturalist,2002,148(2）:218-235.   
+[7] 李静,周正朝,张强,等.黄土区不同退耕年限草地土壤分离速 率及其理化性质[J].干旱区研究,2017,34（3）：504－510. [LiJin,Zhou Zhengchao,Zhang Qiang,et al. Soil physiochemical properties and soil detachment rate in grasslands with different years of grain for green in the Loess Plateau[J].Arid Zone Research,2017,34(3）:504-510.]   
+[8] 蒙仲举，王猛，王淮亮,等.基于数字成像技术的风蚀地表颗粒 空间异质性[J].干旱区研究，2016,33（6)：1270-1277. [Meng Zhongju,Wang Meng,Wang Huailiang,et al.Spatial heterogenity of soil particles on wind erosion surface based on digital imaging technology[J].Arid Zone Research,2016,33（6）:1 270 -1 277.]   
+[9]杜海燕,周智彬,刘凤山,等.绿洲化过程中阿拉尔垦区土壤粒 径分形变化特征[J].干旱区研究,2013,30(4)：615-622. [Du Haiyan,Zhou Zhibin,Liu Fengshan,et al.Variation of Fractal Dimension of Soil Particle Size Distribution in the Aral Reclamation Area in Oasis Development[J].Arid Zone Research,2015,32 (4) :674 -679.] [10］刘建立,徐绍辉,刘慧.几种土壤累积粒径分布模型的对比研 究[J].水科学进展,2003,14（05）:588-592.[Liu Jianli,Xu Shaohui,Liu Hui.Investigation of different models to describe soil particle- size distribution data[J].Advances In Water Science,   
+2003,14(5) :588-592.] [11]Nadeu E,de Vente J,Martinez - Mena M,et al.Exploring particle size distribution and organic carbon pools mobilized by diferent erosion processes at the catchment scale[J]. Journal of Soils and Sediments,2011,11(4):667 -678. [12］王国梁,周生路,赵其国.土壤颗粒的体积分形维数及其在土 地利用中的应用〔J].土壤学报,2005.42（4）：545－550. [Wang Guoliang,Zhou Shenglu,Zhao Qiguo.Volume fractal dimension of soil particle sand its applications to land use[J].Acta Pedologica Sinica,2005,42(4） :545 -550.] [13］王德,傅伯杰,陈利顶,等.不同土地利用类型下土壤粒径分形 分析——以黄土丘陵沟壑区为例[J]生态学报,2007,27（7）：3   
+081-3 O89.[Wang De,Fu Bojie,Chen Liding,et al.Fractal analysison soilparticlesizedistributionunderdiferentlandusetypes: A case study in the loess hilly areas of the Loess Plateau China [J].Acta Ecology Sinica,2007,27（7）:3 081-3 089.] [14] Sun C,Liu G,Xue S.Natural succession of grassland on the Loess Plateau of China affects multifractal characteristics of soil particle - size distribution and soil nutrients[J].Ecological Research,   
+2016,31(6) :891 -902. [15］党亚爱,李世清,王国栋,等.黄土高原典型土壤剖面土壤颗粒 组成分形特征[J].农业工程学报,2009,25（9）:74-78.[Dang Ya'ai,Li Shiqing,Wang Guodong,et al.Fractal characteristic of soil particle composition for typical types of soil profile on Loess Plateau[J].Transactions of the Chinese Society of Agricultural Engineering,2009,25（9） :74-78.] [16]Chen X,Zhou J. Volume-based soil particle fractal relation with soil erodibility in a small watershed of purple soil[J].Environmental Earth Sciences,2013,70(4):1 735-1 746. [17］贾萌萌,张忠良,雷加强,等.塔里木沙漠公路防护林地土壤粒 径分布的分形特征[J].干旱区研究,2015,32(4）:674-679. [Jia Mengmeng,Zhang Zhongliang,Lei Jiaqiang,Fractal characteristics of soil particle size distribution in protection forest of Tarim Desert Highway[J].Arid Zone Research,2015,32（4）:674 -   
+679.] [18］管清玉,桂洪杰,潘保田,等.黄河宁蒙河段沙样粒度与分形维 数特征[J]兰州大学学报（自然科学版）,2013,49（1）：1-6. [Guan Qingyu,Gui Hongjie,Pan Baotian,et al. Characteristicsof the grain sizes and fractal dimensions for sand samples in Ningxia - Inner Mongolia section of the Yellow River[J].Journal of Lanzhou University(Natural Sciences）,2013,49(1）:1-6.] [19］代豫杰,李锦荣,郭建英,等.乌兰布和沙漠不同灌丛土壤颗粒 多重分形特征及其与有机碳分布的关系[J].环境科学研究，   
+2017,30(7）:1 069-1 078.[Dai Yujie,Li Jinrong,Guo Jianying,et al. Soil particles multi -fractal and soil organic carbon distributions and their correlations under different shrubs in Ulan Buh Desert[J].Research of Environmental Science,2017,30（7）：1   
+069-1078.] [20］伏耀龙,张兴昌,王金贵.岷江上游干旱河谷土壤粒径分布分 形维数特征[J].农业工程学报,2012,28（5)：120-125.［Fu Yaolong,Zhang Xingchang,Wang Jingui.Fractal dimension of soil particle- size distribution characteristics in dry valley of upper Minjiang river[J]Transactions of the Chinese Society of Agricultural Engineering,2012,28（5）:120-125.]   
+[21]Tyler S W,Wheatcraft SW.Fractal scaling of soil particle - size distributions:Analysis and limitations[J]. Soil Science Society of America Journal,1992,56(2）:362-369.   
+[22]贾晓红,李新荣,李元寿.干旱沙区植被恢复过程中土壤颗粒 分形特征[J].地理研究,2007,26（3）:518-525.[Jia Xiaohong,Li Xinrong,Li Yuanshou.Fractal dimension of soil particle size distribution during the process of vegetation restoration in arid sand dune area[J]. Geographical Research,2007,26(3）:518 - 525.]   
+[23]Brye R K.Long- term effects of cultivation on particle size and water-retention characteristics determined using wetting curves [J].Soil Science,2003,168(7） :459-468.   
+[24]Andrews S S,Karlen D L,Cambardella C A.The soil management assessment framework : quantitative soil quality evaluation method [J].Soil Science Society America Journal,2004,68:1 945-1 962.   
+[25]Huang G,Zhang R. Evaluation of soil water retention curve with the pore-solid fractal model[J].Geoderma,2005,127(1/2）:52 -61.   
+[26]Montero E.Rényi dimensions analysis of soil particle - size distributions[J].Ecological Modelling,2005,182(3/4）:305-315.   
+[27]管孝艳,杨培岭,任树梅,等.基于多重分形理论的壤土粒径分 布非均匀性分析[J].应用基础与工程科学学报,2009,17（2）： 196 -205.[Guan Xiaoyan,Yang Peiling,Ren Shumei,et al. Heterogeneity analysis of particle size distirbution for loamy soil based on multifractal theory[J]. Journal of Basic Science and Engineering,2009,17(2) :196-205.]   
+[28］许婷婷,董智,李红丽,等.不同设障年限沙丘土壤粒径和有机 碳分布特征[J].环境科学研究,2014,27（6）:628-634［Xu Tingting,Dong Zhong,Li Hongli,et al.Distributions of soil particle size and soil organic carbon in dunes of checkerboard barriers with diferent setting years[J].Research of Environmental Sciences, 2014,27(6) :628 -634.]   
+[29］吕圣桥,高鹏,耿广坡,等.黄河三角洲滩地土壤颗粒分形特征 及其与土壤有机质的关系[J].水土保持学报,2011,25（06）： 134-138.[Lv Shengqiao,GaoPeng,Geng Guangpo,et al. Characteristics of soil particles and their correlation organic matter in lowlands of the Yellow River with soil delta[J]. Journal of Soil and Water Conservation,2011,25(6）:134-138.]   
+[30]Li G,Pang X.Diference in organic carbon contents and distributions in particle- size fractions between soil and sediment on the Southern Loess Plateau,China[J]. Journal of Mountain Science, 2014,11(3):717 -726.   
+[31］蔡文涛,李贺祎,来利明,等.鄂尔多斯高原弃耕农田恢复过程 中土壤物理性质和生物结皮的变化[J].应用生态学报,2017， 28(3）:829-837.[Cai Wentao,Li Heyi,Lai Liming,et al. Dynamics of soil physical properties and biological soil crust during the vegetation restoration process of abandoned croplands in the Ordos Plateau, China[J]. Chinese Journal of ApliedEcology, 2017,28(3) :829 -837. ]   
+[32］周炜星,吴韬,于遵宏.多重分形奇异谱的几何特性II.配分函 数法[J].华东理工大学学报，2000，26（4)：390-395.[Zhou Weixing,Wu Tao,Yu Zunhong.Geometrical characteristics of singularity spectra of multifractal II.Partition function definition[J]. Journal of East China University of Science and Technology,2000, 26(4) :390 -395.)   
+[33]Caniego FJ,Espejo R,Martin MA,et al.Multifractal scaling of soil spatial variability[J].Ecological Modelling,20o5,182(3/4）： 291-303.   
+[34]Hu HC,Tian FQ,Hu HP.Soil particle size distribution and its relationship with soil water and salt under mulched drip irrigation in Xinjiang of China[J].Science China Technological Sciences, 2011,54(6):1 568 -1 574.   
+[35］孙梅,孙楠，黄运湘,等.长期不同施肥红壤粒径分布的多重分 形特征[J].中国农业科学,2014,47（11)：2173-2181.［Sun Mei,,Sun nan,Huang Yunxiang,et al.Multifractal Characterization of Soil Particle Size Distribution Under Long-Term Different Fertilizations in Upland Red Soil[J].Scientia Agricultura Sinica, 2014,47(11) :2 173-2 181.]   
+[36]Paz Ferreiro J,Vidal Vazquez E.Multifractal analysis of Hg pore size distributions in soils with contrasting structural stability[J]. Geoderma,2010,160(1) :64-73.   
+[37]管孝艳，杨培岭，吕烨.基于多重分形的土壤粒径分布与土壤 物理特性关系.农业机械学报,2011,42（3）：44-50.〔Guan Xiaoyan,Yang Peiling,Lv Ye.Relationship between soil particle size distribution and soil physical properties based on multifractal [J].Transactions of the Chinese Society for Agricultural Machinery,2011,42（3):44-50.]   
+[38]Grout H,TarquisA M,Wiesner MR.Multifractal analysis of particle size distributions in soil[J].Environmental Science & Technology,1998,32(9):1 176-1 182.   
+[39]白一茹，汪有科.黄土庄陵区土壤粒径分布单重分形和多重分 形特征[J].农业机械学报,2012,43（5）:43-48[Bai Yiru, Wang Youke.Plateau monofractal and multifractal analysis on soil particle distribution in hilly and gully areas of the Loess Plateau [J].Transactions of the Chinese Society for Agricultural Machinery,2012,43(5):43-48.]   
+[40]戴全厚,刘国彬，薛，等.侵蚀环境退耕擢荒地植物种群演变 动态研究[J].西北农业学报,2008，17（4）：320－328.［Dai Quanhou,Liu Guobin,Xue Sha,et al.Dynamic of plant population characteristics on abandoned arable land in eroded hilly Loess Plateau[J].Acta Agriculturae Boreali - occidentalis Sinica,2O08,17 (4):320 -328.]   
+[41」刘学彤,魏艳春,杨宪龙,等.水蚀风蚀交错带不同退耕模式对 土壤有机碳及全氮的影响[J].应用生态学报，2016,27（1）：91 -98.[Liu Xuetong,Wei Yanchun,Yang Xianlong,etal.Elfects of different re- vegetation patterns nn soil organic carbon and total nitrogen in the wind -water erosion crisscross region,China[J]. Chinese Journal of Applied Ecology,2016 27(1）:91-98.]   
+[42]李尝君,曾凡江,郭京衡,等.植被恢复程度与沙地土壤性 质——以塔克拉玛干沙漠南缘为例[J].干旱区研究,2015,32 (6）:1 061-1O67.[Li Changjun,Zhen Fanjiang,Guo Jingheng, et al.Soil properties of different sandy lands under different vegetation recovering levels:A case in southern Taklimakan Desert[J]. Arid Zone Research,2015,32(6) :1 061-1 067.]
+
+# Soil particle size distribution characteristics of abandoned farmland based on multifractal in semiarid area
+
+WANG Yan1 LIAO Li- ping3 JIA Xu1 MENG Zhong - ju1 $^ *$ LV Shi - jie2 (1 College Of Desert Control Science And Engineering Inner Mongolia Agricultural University;   
+2 College Of Science Inner Mongolia Agricultural University,Hohhot,O1oo18,China;   
+3Sichuan Forestry Inventory And Planning Institute,Chengdu 61oo18,China)
+
+Abstract：To investigatethe characteristic of spatial variationand nonuniform soil particle size during the process of abandoned farmland succession,we study5 types of abandoned farmland in the middle of the Yinshan Mountain, includingthe same year，abandoned1 years,2 years，3 years，and 4 years，assayed the distributionof soli particle size and content of organic matter at $0 - 8 0 \mathrm { c m }$ depth.Base on the multifractal theory analysis,the distribution of soil particles was determined，and its relationship with variation of organic mater areexplored，also wequantitatively describethe varying patern of the distribution of soil particle size and its cause.The results showed that:sand content was positive correlated to multifractal parameters DO，D1， $\mathbf { \alpha } \propto 0$ ，and it was negative correlated to the organic matter. The distribution of soil particle size was mainly affected by the con tentof sand inthearea investigated,and withthesand content increasing,therange of soil particle sizedistribution was becoming wide，and the local concentration decreased and distribution of soil particle size was discrete，soil progressed in a coarse- grained succesion direction. With increasing abandoned years，the cosmid content in topsoil showed adecreasing trend，and it was the same trend tothe organic mater in the surface soil，So the trend changes of organic mater could be predicted by detecting the changes of cosmid content trend in the topsoil.
+
+Key Words:Abandoned farmland；multifractal；soil particle size distribution；organic matter;semiarid area

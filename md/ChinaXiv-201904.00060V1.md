@@ -1,0 +1,278 @@
+# 基于出租车司机经验的约束深度强化学习算法路径挖掘
+
+黄敏，毛锋，钱宇翔
+
+(中山大学 智能工程学院 广东智能交通系统重点实验室，广州 510006)
+
+摘要：利用出租车司机经验，提出约束深度强化学习算法（CDRL）在线计算不同时间段内OD 间最快路线。首先，描述了路段经验数据库（ERSD）的提取。然后，介绍了CDRL方法，该方法主要包括两个阶段：可选择约束路段生成和深度Q-leaming 算法，在第一阶段,生成OD(起终点)间可选择约束路段;在第二阶段,设计深度Q-learming算法学习出租车司机的经验，并根据他们的出发时间计算给定OD 间的最快路线。最后，在广州CBD 进行了应用实验。结果表明，CDRL方法计算在旅行时间上，优于最短路径（SR）方法，且与最快路径（FR）方法计算路径差别不大。此外，CDRL方法在计算效率方面明显优于FR和SR方法，因此更适合OD间最快路径在线计算。
+
+关键词：最快路径挖掘；路段经验数据库；经验学习；深度强化学习中图分类号：U491 doi:10.19734/j.issn.1001-3695.2018.10.0810
+
+Mining fastest route using taxi drivers' experience via constrained deep reinforcement learning
+
+Huang Min†, Mao Feng, Qian Yuxiang (GuangdongProvincialKeyLaboratoryofIntelligentTransportationSystem,choolofIntellgentystemEngineng,un Yat-sen University, Guangzhou 510006, Guangdong, China)
+
+Abstract: This paper propose constrained dep reinforcement learning (CDRL)to compute the fastest route online using taxi drivers’experience in diferent time period.Firstly,this paperdescribetheextractionof experientialroad segment database(ERSD).Then CDRL method is introduced,the method is mainlycomprised of two phase: bounded condition of route and deep Q-learming algorithm.Inthe firstphase,the task is to generate alternativeconstrained road segments ofOD pair.In the second phase,deepQ-learning algorithm is devisedto learning the experienceof taxi drivers,andcomputing the fastest route ofa given ODaccordingto their departure time.Lastly,an empirical studiesis tested in CBD,Guangzhou.The results show thatthe routes computed by CDRL method is approximately equal to shortest route (SR)andfastest route (FR) method in travel time and route length.Furthermore,the CDRL method notablyoutperforms FR and SR in computing efficiency,so it is more suitable for online fastest route computation.
+
+Key words: mining fastest route; experiential road segmentdatabase; experience learning; deep reinforcement learning
+
+# 0 引言
+
+在线搜索OD间最快路径已成为日常活动，并成为许多地图服务的关键功能，如谷歌和百度地图。快速行驶路径不仅节省出行者的时间、减少能源消耗，还可以缓解交通问题和保护环境，这对出行者和政府来说都很重要。良好的路径推荐系统应考虑实时交通条件和出行者驾驶行为。通常，这些信息很难提取并加入到导航系统中[1,2]。
+
+近年来，大城市的出租车上都安装了GPS传感器，可以记录出租车的运动轨迹。出租车司机熟悉城市路网，他们通常根据自己的驾驶经验选择最快的路径将乘客送到目的地[3]。出租车司机选择的路径往往比地图服务软件[4]推荐的路径花费更少的旅行时间和更低的成本。研究人员意识到，可以利用出租车司机的经验路径挖掘OD间最快路径，用于路径规划[5\~7]。
+
+本研究的主要目的是利用出租车司机的经验给出行者在线推荐最快的路径。即给定出行者OD，根据他/她的出发时间推荐OD间最快路径。研究需要解决几个关键问题：a）在实际中，出租车司机的驾驶经验隐藏在大量的出租车GPS数据中[6]，应该如何从出租车历史数据中学习经验;b）路线推荐通常是实时、在线的，因此在这个系统中需要对出行者的OD路线计算进行快速的响应。
+
+针对第一个问题出租车司机经验学习。常见的方法是从出租车轨迹中提取经验图，如时间依赖的地标[38]、路段经验层次图[9,10]、基于网格的路径图[11]、经验路径数据库[5]以及模式感知路线图[12]。上述方法中大部分经验图的提取需要完整的OD路径。但由于出租车GPS数据的稀疏性和低采样率，很多OD之间不能获取足够的信息来推断给定OD间出租车行驶的确切路线。
+
+对于第二个问题OD间路线计算，主要有两阶段路径计算法[38]、约束性广度优先搜索算法[12]、最大概率积算法[13]和最短路径、最快路径算法[等。上述方法的计算复杂度和路网路段或者交叉口数成正相关，并且采用这些方法计算OD间路径需要较长的时间。
+
+本文采用强化学习（RL）算法进行经验学习。利用出租车GPS数据可能不能得到OD间所有实际选择路径，但可以获取OD间所有实际选择路段。并且GPS数据支持每条路段的速度估计，然后可以估计路段的旅行时间，进而可以建立路段经验数据库(ERSD)并搜索最快路径。利用强化学习，智能体可以学习ESRD中隐含的出租车司机经验，然后找到最快路径。
+
+利用强化学习的难点在于采用较少耗时的OD间在线最快路径计算方法。神经网络可以快速求解这类问题，将路网交叉口的状态特征输入，神经网络可以快速输出选择和交叉□相连接的各条路段的价值。
+
+本文提出约束深度强化学习（CDRL）算法计算OD 间最快路线。该方法主要由路径约束和深度Q-learning算法两个阶段组成。在第一阶段，生成OD间可选择约束路段。对OD 间可选择路段进行限制隐含了出租车司机的经验，可用于智能体学习，并降低强化算法的仿真时间。在第二阶段，设计深度Q-learning 算法学习出租车司机经验，根据他/她的出发时间在线计算给定OD 间的最快路径。深度Q-learning算法包含强化学习[14,15]和深度学习（DL）[16\~18]两个方法。利用强化学习，智能体从GPS数据中学习出租车司机经验，计算OD间最快路径，该路线可能是一条新的路径。利用深度学习，可以实时快速地计算OD间最快路径。
+
+# 1 问题描述
+
+本节将介绍本文中使用的一些术语，然后描述研究问题。
+
+定义1路网。本文通过“节点一弧段”的方法对路网进行描述。定义有向图 $G = \left( E , A \right)$ 表示路网，其中， ${ \boldsymbol { E } } = \{ { \boldsymbol { e } } _ { i } \}$ 为路网节点集，表示交叉口。在本研究中，用 $e _ { s }$ 表示起始节点，用 $\boldsymbol { e } _ { D }$ 表示目的地节点。 $A = \{ a _ { i , j } = \langle e _ { i } , e _ { j } \rangle | e _ { i } , e _ { j } \in N \}$ 为有向路段集。其中， $a _ { i , j }$ 表示从节点 $\boldsymbol { e } _ { i }$ 到 $\boldsymbol { e } _ { j }$ 的有向路段。
+
+定义2路段。 $a _ { i , j }$ 表示有向路段，用 $c _ { i j }$ 表示路段 $a _ { i , j }$ 长度。定义 $\overline { { \nu } } _ { i j }$ 为行驶于路段 $a _ { i , j }$ 车辆的区间平均车速， $\overline { { t _ { i j } } }$ 表示通过路段 $a _ { i , j }$ 的平均行驶时间。
+
+定义3路径。路径 $R$ 由一系列连接的路段组成，$i . e . R : a _ { o , 1 }  a _ { 1 , 2 }  \cdots a _ { n , D }$ 表示OD间一条路径。
+
+定义4连接路段集。定义 $N _ { i }$ 为节点 $e _ { i }$ 的下一节点集，$L _ { i } = \{ a _ { i , j } | e _ { j } \in N _ { i } \}$ 表示和节点 $e _ { i }$ 相连接的路段集。
+
+定义5转向规则（TRI)。定义 $T = \{ t _ { j } =  a _ { i , j } , e _ { j } , a _ { j , k }  | e _ { i } \in E \}$ 表示交叉口转向规则： $a _ { i , j }$ 表示当前所在路段， $\nu _ { j }$ 表示当前所在交叉口， $a _ { j , k }$ 表示下一路段。
+
+定义6路段经验数据库（ERSD)。ERSD记录每天不同时间段内路段速度、旅行时间等信息，信息是从出租车GPS数据中提取的,后面将详细介绍。
+
+研究问题定义：给定出行者OD及出发时间，利用从出租车GPS数据中提取的经验路段数据库(ESRD)和交叉口转向规则(TRI)，在线计算OD间最快路径。
+
+# 2 路段经验数据库提取
+
+本章将介绍经验路段数据库（ERSD）的提取，然后描述路段平均车速估计，以及旅行时间估计。
+
+# 2.1路段经验数据库
+
+良好的路径推荐系统应考虑实时交通条件和出行者驾驶行为。路段行驶时间变化性至少体现在两方面：
+
+a）时变性。路段上的交通流量随时间变化，进而影响路段行驶时间。例如，道路可能在高峰时段变得拥挤，在非高峰时段通畅行驶。
+
+b）空间变化性。不同的道路具有不同的时变交通模式。例如，一些道路即使在高峰时段也通畅行驶。但是有些道路的高峰时段可能会持续一整天[3]。交通模式随时间变化可能导致出租车司机作出不同的路线选择，因此本文构建基于时间段的经验路段数据库。根据广州道路交通的特性[9]，将每天分为早高峰时段(7:00\~9:00)、晚高峰时段(7:00\~8:00)和其他非高峰时段。
+
+本文每条ERSD数据将记录路段在早高峰时段、晚高峰时段、其他非高峰时段的路段平均车速，以及路段在在早高峰时段、晚高峰时段、其他非高峰时段的旅行时间。
+
+# 2.2路段平均速度估计
+
+将出租车的GPS位置信息匹配到路网地图上，GPS点在路段的分布情况可分为以下两类，类型1：同一辆车在某段路上留下两个或两个以上的GPS点；类型2：同一辆车在某段路上只留下一个GPS点。
+
+类型1的GPS点分布如图1所示。某车辆在该路段留下了两个以上的GPS点，本文计算首定位点和末定位点到下游交叉口的位置 $s _ { i } ^ { 1 } , s _ { i } ^ { 2 }$ ，以及时间计算两点的距离和两点的时间差 $t _ { i } ^ { 2 } - t _ { i } ^ { 1 }$ ，从而得到这辆车的平均速度。求和某时段经过该路段的所有车辆的距离和时间差，可得到该路段 $a _ { i , j }$ 的路段速度$\overline { { \nu } } _ { 1 } ^ { i j }$ 0
+
+![](images/35ec00e78ddc4dd185fb0e559bc7de042ae795dd864033d852dbada01a6903f5.jpg)
+
+类型2的GPS点分布如图2所示。对于车辆只在目标路段 $a _ { i , j }$ 上留下一个GPS点，本文通过把路段分成若干个 $\triangle \mathrm { L }$ 将位于 $\triangle \mathrm { L }$ 范围内的所有GPS点的点速度的平均值作为 $\triangle \mathrm { L }$ 范围内的平均速度 $\nu _ { \Delta L } ^ { j }$ ，得到若干个区间速度，最后将求出所有区间速度的平均值，将其作为路段的速度 $\overline { { \nu } } _ { 2 } ^ { i j }$ 0
+
+![](images/b82ff7dc092ef958f3bdd68b08a204b2410b74e216d8f9598bf63e4d30ed8f3b.jpg)  
+图1类型1：同一辆车在某段路上留下两个或两个以上GPS 点 Fig.1Typel: taxi leaves two or more than two GPS points on a certain road segment   
+图2类型2：同一辆车在某段路上只留下一个GPS 点 Fig.2Type2: taxi leaves only one GPS point ona certain road segment
+
+假设出租车GPS数据中类型1GPS点的比例为 $\omega _ { \mathrm { i } }$ ，则类型2GPS 点比例为 $1 - \omega _ { 1 }$ 。路段 $a _ { i , j }$ 的路段平均速度可由式(1)计算：
+
+$$
+\overline { { \nu } } ^ { i j } = \omega _ { 1 } \overline { { \nu } } _ { 1 } ^ { i j } + \left( 1 - \omega _ { 1 } \right) \overline { { \nu } } _ { 2 } ^ { i j }
+$$
+
+# 2.3路段旅行时间估计
+
+根据定义2及路段平均速度 $\overline { { \nu } } _ { i j }$ ，路段 $a _ { i , j }$ 旅行时间可由式(2)计算：
+
+$$
+\overline { { t _ { i j } } } = \frac { c _ { i j } } { \overline { { \nu } } _ { i j } }
+$$
+
+# 3 路径学习和计算
+
+本章提出用于在线计算OD间最快路径的约束深度强化学习（CDRL）方法。首先介绍了OD间可选择约束路段生成，然后描述用于学习OD间最快路径的强化学习算法，最后介绍了用于OD间最快路径学习和在线计算的CDRL方法。
+
+# 3.1约束路段生成
+
+如研究[10]所述，出租车司机经验隐藏在GPS数据中，这种经验是从成千上万次出行中积累起来的，隐含着他们对道路网络和真实交通状况的熟悉程度。出租车司机通常根据驾驶经验选择最快的路径，尽量减少行驶路径上发生交通拥堵情况，将乘客送达目的地。由于出租车GPS数据的稀疏性和低采样率，很多OD之间不能获取足够的信息来推断出租车行驶的确切路线。但出租车GPS数据足够大，可以获知OD间所有行驶路段的交通数据，出租车司机的经验同样隐藏在OD 间行驶的路段中。因此，可以通过学习OD间行驶路段来学习出租车司机经验。
+
+对于最优路径选择问题，需要生成OD间路径选择集。Ramming[19]和Frejinger等人[20]指出，通常很难生成OD间包含所有实际选择路径的路径选择集。在实际中，出行者往往只选择OD间若干条路径行驶，即OD间可选择路径存在一定约束。为了避免生成的路径选择集遗漏重要的路径，并且生成路径集满足约束，本文采用数据挖掘方法。对于每个OD对，选择足够长的采样时间段T，提取该时间段GPS数据中出租车所有行驶路径，利用行驶路径可获得OD对间可选行驶路段集 $s _ { O , D }$ ，然后通过搜索由可选行驶路段集 $s _ { o , D }$ 组成的路网来获得OD间所有可能选择路径。
+
+对于每个OD对，选择足够长的采样时间段T。如果出行者在T时间段内，所有实际选择的路径中总共包含 $n$ 条路段，就可以认为这 $n$ 条路段组成的路段集合，可作为该OD对可选行驶路段集 $s _ { O , D }$ 。
+
+由于出租车GPS数据足够大，获得OD间所有实际行驶路段的数据是容易的。该方法的优点是可以生成OD间所有实际选择行驶路段，获得的选择路径集不会遗漏实际中重要的路径。OD间可选行驶路段集隐含了出租车司机的经验，可用于智能体学习，降低强化学习算法的仿真时间。同样，该方法存在一个缺点，需要一个很长的采样时间段T来获取一个稳定的OD间所有实际选择路段集 $s _ { O , D }$ 。
+
+# 3.2强化学习
+
+本文中出行者根据导航和驾驶经验，选择从一个交叉口行驶到另一个交叉口，并从环境中获得收益，目标是选择一条OD间由可选择路段连接组成的效益最大路径。该过程类似于MDP过程，可用强化学习算法解决。强化学习算法包含几个重要部分：状态空间 $s$ 、动作空间 $A$ 、奖励函数 $\boldsymbol { r }$ 、折减系数。
+
+出行者的状态 $s \in S$ 表示出行者在路网中所在交叉口$e _ { i } \in E$ 。在交叉口 $e _ { i }$ 的动作集 $A \left( \boldsymbol { e } _ { i } \right)$ 表示和交叉口 $e _ { i }$ 相连接的路段 $a _ { i , j }$ ， $a _ { i , j } \in L _ { i }$ 。奖励函数 $r \big ( e _ { i } , a _ { i , i + 1 } \big )$ 表示出行者在交叉口 $e _ { i }$ 选择路段 $a _ { i , i + 1 }$ 的收益。本文研究目标是计算OD间最快路径，因而可用路段 $a _ { i , i + 1 }$ 旅行时间的负值 $- \overline { { t _ { i j } } }$ 表示动作奖励，如式(3)所示。
+
+$$
+r ( e _ { i } , a _ { i i + 1 } ) = - \overline { { t } } _ { i i + 1 }
+$$
+
+折减系数 $\gamma \in ( 0 , 1 )$ 表示当前动作选择对未来的影响程度，》越接近1，表明当前状态选择动作对未来影响程度越大。
+
+该问题的解决方法是寻找一个策略 $\pi$ ，策略表示状态到动作的一个映射。在本研究，策略 $\pi$ 表示出行者在交叉口选择的行驶路段，表示为 $\pi ( e _ { i } ) = a _ { i , i + 1 }$ 。出行者执行策略 $\pi$ 和环境交互得到由状态、动作、奖励组成的回合（episode)，表示为 $h _ { i ; K } = e _ { i } , a _ { i , i + 1 } , r \left( e _ { i } , a _ { i , i + 1 } \right) , e _ { i + 1 } , a _ { i + 1 , i + 2 } , r \left( e _ { i + 1 } , a _ { i + 1 , i + 2 } \right) \cdots , e _ { K }$ ， $\boldsymbol { e } _ { K }$ 表示出行者最终所在交叉口。定义 $G ( h _ { i : K } )$ 表示 episode 累积折减收益，表示为 $\scriptstyle G ( h _ { i \cdot K } ) = \sum _ { k = i } ^ { K - 1 } \gamma ^ { k - i } r \left( e _ { k } , a _ { k , k + 1 } \right)$ 。
+
+出行者需要找到策略 $\pi ( e _ { i } )$ ,使得episode 累积折减收益$G ( h _ { i ; K } )$ 最大。假设采用贪婪策略，总是选择使 $G ( h _ { i : K } )$ 最大的动作。特别地，定义 $\boldsymbol { Q } \big ( \boldsymbol { e } _ { i } , \boldsymbol { a } _ { i , i + 1 } \big )$ （Q值）为出行者在交叉口 $\boldsymbol { e } _ { i }$ 选择路段 $a _ { i , i + 1 }$ 最大累积折减收益，$Q { \left( e _ { i } , a _ { i , i + 1 } \right) } { = } r { \left( e _ { i } , a _ { i , i + 1 } \right) } + \gamma \operatorname* { m a x } G { \left( h _ { i + 1 : K } \right) }$ ，则
+
+$$
+\pi ( e _ { i } ) { = } { \arg \operatorname* { m a x } _ { a _ { i , i + 1 } \in A ( e _ { i } ) } Q ( e _ { i } , a _ { i , i + 1 } ) }
+$$
+
+若 $\boldsymbol { Q } \big ( \boldsymbol { e } _ { i } , \boldsymbol { a } _ { i , i + 1 } \big )$ 值已知，就可以通过式（4）求解最优策略。本研究中 $Q \big ( e _ { i } , a _ { i , i + 1 } \big )$ 值未知，但式(4)满足Bellman方程性质，因而可以通过从后往前迭代估计 $Q \big ( e _ { i } , a _ { i , i + 1 } \big )$ 值，如式(5)所示。
+
+$$
+\mathscr { Q } ( e _ { i } , a _ { i , i + 1 } ) { = } r ( e _ { i } , a _ { i , i + 1 } ) + \gamma \operatorname* { m a x } _ { a _ { i + 1 , 1 i + 2 } \in A ( e _ { i + 1 } ) } { Q } ( e _ { i + 1 } , a _ { i + 1 , i + 2 } )
+$$
+
+强化学习算法需要不断迭代更新 $Q \big ( e _ { i } , a _ { i , i + 1 } \big )$ 值，在最开始学习中 $\boldsymbol { Q } \big ( \boldsymbol { e } _ { i } , \boldsymbol { a } _ { i , i + 1 } \big )$ 估计值与实际值会相差很大，但随着每次更新迭代，估计值变得越来越准确。
+
+# 3.3约束深度强化学习
+
+传统的强化学习求解，Q值估计通常使用一个Q值表或一个函数近似器实现[21,22]。然而，如果最优路径规划问题的状态空间很大，存储这么一个表将很消耗时间和内存，而函数近似方法不能解决实时最优路径规划问题。
+
+本研究采用深度Q-learning 算法来估计Q 值。在深度Q-learning算法中，使用深度神经网络作为状态映射到Q值的函数近似器。使用神经网络作为近似器，可以解决拥有更大的、连续的状态空间的最优路径规划问题[23]。本研究使用的神经网络中，将出行者起始地所在交叉口的状态特征作为输入，输出起始地到目的地的旅行时间。
+
+本文将出行者所在交叉口 $\boldsymbol { e } _ { i }$ 的状态特征表示为$s ( e _ { i } ) = \left[ x _ { i } , y _ { i } , x _ { D } , y _ { D } \right]$ ， $x _ { i } , y _ { i }$ 分别表示交叉口 $e _ { i }$ 的经度、纬度，$x _ { D } , y _ { D }$ 表示目的地交叉口 $e _ { i }$ 的经度、纬度。交叉口 $e _ { i }$ 到目的地的旅行时间用 $Q ( s ( e _ { i } ) )$ 表示，将出行者所在交叉口 $e _ { i }$ 的状态特征 $s ( e _ { i } )$ 输入本文设计的神经网络，就能得到交叉口 $e _ { i }$ 到目的地的旅行时间 $Q ( s ( e _ { i } ) )$ 。
+
+在深度Q-learning 算法中，出行者执行策略 $\pi$ 和环境交互得到由状态、动作、奖励组成的episode，$h _ { i ; K } = e _ { i } , a _ { i , i + 1 } , r \left( e _ { i } , a _ { i , i + 1 } \right) , e _ { i + 1 } , a _ { i + 1 , i + 2 } , r \left( e _ { i + 1 } , a _ { i + 1 , i + 2 } \right) \cdots , e _ { K }$ ，若出行者最终所在交叉口为目的地所在交叉口，即 $e _ { K } = e _ { D }$ ，则称该episode为success episode。
+
+深度Q-learning算法中，当智能体完成一次successepisode，Q值发生更新，将episode中出行者在交叉口 $e _ { i }$ 的每次选择记录表示为 $\left. s ( e _ { i } ) , a _ { i , i + 1 } , r \bigl ( e _ { i } , a _ { i , i + 1 } \bigr ) , s \bigl ( e _ { i + 1 } \bigr ) \right.$ ，存储于集合episode memory $E$ 中。当智能体每次完成 success episode,计算 success episode 中每个交叉口 $e _ { i }$ 到目的地的累积折减收益（旅行时间负值） $G ( h _ { i : K } )$ 。定义$N = \{ \langle s ( e _ { i } ) , q ( e _ { i } ) \rangle | e _ { i } \in E , q ( e _ { i } ) = \operatorname* { m i n } G ( h _ { i : K } ) \}$ 表示 node memory $N$ ，该集合中二元组 $\left. s ( e _ { i } ) , q ( e _ { i } ) \right.$ 存储交交叉口 $e _ { i }$ 的状态特征及交叉口到目的地的最短旅行时间。
+
+本研究采用的深度Q-learning算法，神经网络的训练可以通过最小化交叉口 $e _ { i }$ 到目的地的最短旅行时间 $q ( e _ { i } )$ 和交叉口 $e _ { i }$ 到目的地的旅行时间估计值 $Q ( s ( e _ { i } ) )$ 误差平方和，即
+
+$$
+L ( \theta ) { = } \sum _ { \langle s ( e _ { i } ) , q ( e _ { i } ) \rangle { \in } N } \bigl ( q ( e _ { i } ) { - } Q ( s ( e _ { i } ) , \theta ) ) ^ { 2 }
+$$
+
+当出行者完成一定 successepisode 得到策略后，将面临explore-exploit困境:即选择当前最优策略，或者继续探索寻找可能的更优策略。本研究采用 $\boldsymbol { \varepsilon }$ 贪婪策略，以 $\boldsymbol { \varepsilon }$ 概率选择当前最佳策略，1-ε概率随机选择策略。
+
+基于深度Q-learning算法，结合OD间可选约束路段集，
+
+研究提出了CDRL算法，算法具体步骤如下表伪代码描述。Algorithm1 CDRL 算法  
+输入：路网 $G = { \big ( } E , A { \big ) }$ ；OD间可选约束路段集 $s _ { O , D }$ ;交叉口转向规则TRI。  
+1 初始化node memory $D$   
+2 初始化动作价值函数 $\boldsymbol { \mathcal { Q } }$ 及神经网络权重系数 $\theta$   
+for episode $\mathbf { \Psi } = \mathbf { \Psi } _ { 1 }$ ， $\boldsymbol { \mathscr { M } }$ do  
+初始化episode  
+for step $\mathbf { \Psi } = \mathbf { \Psi } _ { 1 }$ ， $\boldsymbol { \kappa }$ do  
+3 在交叉口 $\boldsymbol { e } _ { i }$ ，满足交叉口转向规则TRI时，采用 $\varepsilon$ 贪婪策略选择和交叉口相连的路段 $\boldsymbol { a } _ { i , i + 1 } \in L _ { i }$   
+4将选择记录 $\left. e _ { i } , a _ { i , i + 1 } , r \left( e _ { i } , a _ { i , i + 1 } \right) \right.$ 加入episode及记录$\left. s ( e _ { i } ) , a _ { i , i + 1 } , r \bigl ( e _ { i } , a _ { i , i + 1 } \bigr ) , s \bigl ( e _ { i + 1 } \bigr ) \right.$ 存储于episode memory $E$   
+if $e _ { i + 1 } = = e _ { D }$ then  
+break  
+end for  
+5 计算 success episode 中每个交叉口 $e _ { i }$ 到目的地的累积折减收益$G ( h _ { i : K } )$ ，并更新 node memory $N$   
+6 使用梯度下降更新 $\theta$ ，以最小化 $( q ( e _ { i } ) - Q ( s ( e _ { i } ) , \theta ) ) ^ { 2 }$   
+end for  
+输出：策略 $\boldsymbol { a } _ { i , i + 1 } = \pi ( \boldsymbol { e } _ { i } )$ 。
+
+# 4 实例应用
+
+在本章中，为了评估CDRL方法的性能，算法应用于广州市出租车司机OD路径选择实例研究中，并将结果与基于Dijkstra算法的最快路径（FR）和最短路径（SR）方法计算的结果进行比较。
+
+# 4.1实验数据及预处理
+
+本文选择广州市天河区CBD作为实例研究区域，天河区CBD道路网络有345个路段和202个交叉口。本文使用的出租车GPS数据是广州市1800多辆出租车从2015年6月1日至2015年6月21日，超过4.74亿条出租车GPS记录，并基于此数据库提取了路段经验数据库（ERSD）。
+
+图3所示是广州天河区CBD早高峰路段平均速度估计结果。路段上数字表示的是该路段早高峰路段平均速度估计值。从图3可以看出，广州CBD在早高峰时段出租车行驶速度缓慢，因为早高峰时段大量城市居民要前往CBD上班。CBD区域内横向、纵向的几条主干道行驶速度明显高于区域内的支路，因为广州CBD内大量公司位于支路旁边，出租车在主干路上能正常行驶，乘客一般在支路上下车。
+
+图4所示是广州天河区CBD早高峰路段旅行时间估计结果。路段上数字表示的是该路段早高峰路段旅行时间估计值。
+
+选取2015年6月1日至6月14日获取的路段经验数据库作为模型的训练集，选取2015年6月15日至21日获得的路段经验数据库作为模型的验证集。
+
+# 4.2 CDRL算法训练
+
+基于从出租车GPS数据中提取的路段经验数据库，采用CDRL方法学习出租车司机经验。训练数据集是2015年6月1日至2015年6月14日提取的路段经验数据库。
+
+在CDRL模型中，输入广州天河区CBD路网 $G = { \big ( } E , A { \big ) }$ ，CBD区域内若干个OD对的经纬度及可选约束路段集 $s _ { O , D }$ ，以及交叉口转向规则TRI，模型的训练通过最小化OD间最短旅行时间和实际旅行时间估计值的误差平方和。
+
+图5显示了在早高峰时段、晚高峰时段、其他非高峰时段CDRL方法的神经网络损失函数收敛曲线。可以看到，
+
+CDRL方法在早高峰时段迭代到约2700次收敛，在晚高峰时段迭代约1800次收敛，在其他非高峰时段迭代约2300次时收敛。另外，三个时间段，在训练阶段初期，神经网络损失函数收敛曲线振荡明显，因为强化学习算法在初期学习阶段对OD间最短旅行时间估计误差很大，随着循环次数增多，最短时间估计值越来越准确。
+
+8.48   
+11. 75 3.4 4. 35   
+720.04 8 7 69 ° 14.6 5 3 38.76 2 8 14 21.47 83.38 9.64 15.27 11.34 23/ 15.42 10 13.99 10.99 22 24 8.18 3 29. 27 28 1 17.66 19.27 20.08 15.05 13. 01 14.53 15.0115.91 E 8. 67 23. 14 15.66 23.23 7.26 品 27.27 6 2 682[ 29.848 15.0 18.1 8.15 4324.96 222 30.02 32.5121.54 15.55 22.822 16.411.56 24.5918.63 20. 14 99 170120.82 13.72 19. 03 15.74 8 21. 78 23.03 A 23.819.91 124 16.88 3584 108 27.16 9000 1 0 68 '6 15333 2 26.98 15.62 0 12. 39 11. 78 18.73 14.2620. 47 ： 29.165.58 26.78 16.75 23.86 4.43 2 0 37.74 18.59 68T o/ 2.14 6   
+1. 66   
+8.39 8 2.65   
+1.51 6 94 2.17 T 2.35 2.04 1 上 8 69 2.23 40g1.4 3.02 .65.8 3 、 2.17 1.72 5 8 2.74 G S 4.33 96 7 3.78 .11 1.16 8 .69 85 8 2.5 1.9 1.46 .95 43 .48.65 2.32 161 [8 3 3 .6.7 2.15 985 :98 88.3061.0 H /102 5rssf 99866 营 .03 29 1.09 3.04 1.12.263.14 1. 77 79.091.18 产 g .62.291. 90 85.25 4.06 58 9 1. 051.04 1. 59 E2T 1 21.18 1. 76 1. 62 3.91 511.441.14275 140 83 2 59 8 61 87 2.27 102 655 3.16/ 2k 1.1 65 7
+
+神经网络损失函数反映旅行时间预测的误差。CDRL方法将出行者所在交叉口和目的地的经纬度输入神经网络，输出交叉口到目的地的旅行时间，若路网所有路段的交通状况相同，则神经网络损失函数的值可以接近零。图5中其他非高峰时段预测误差最小，因为该时段CBD路段交通流密度接近；早高峰预测误差最大，因为早高峰CBD一部分路段可能拥堵，而有些路段却通畅，路段流量差别大；晚高峰时段预测误差居中，因为晚高峰CBD大部分路段都很拥堵。
+
+![](images/341ef630ecf973bc3ada1f4e16a8cb3b49fc0409e5cb9a395b565d859a198857.jpg)  
+图5CDRL方法神经网络损失函数收敛曲线
+
+# 4.3 旅行时间对比
+
+本文随机选择广州CBD区域内20个OD对进行实验，验证数据集是2015年6月15日至2015年6月21日提取的路段经验数据库，分别应用CDRL方法、FR方法和SR方法。FR 方法中，使用路段旅行时间作为路段价值，然后采用Dijkstra 算法计算OD间旅行时间最短路径。SR算法中，使用路段长度作为路段价值，然后采用Dijkstra算法计算OD间长度最短路径。
+
+图6显示了采用三种方法计算OD间路径的旅行时间对比。图中条形块的高度表示计算路径的旅行时间，图右侧纵坐标刻度表示FR方法，SR方法计算路径旅行时间与CDRL方法计算路径旅行时间的比值。从图6可以看出，采用FR方法计算的OD间路径，在早高峰时间段，大部分路径的旅行时间小于或等于CDRL方法的结果，但差距不大，FR/CDRL比值在 $0 . 8 { \sim } 1 . 0$ 间。因为FR和CDRL方法都倾向于选择旅行时间最短的路线，但由于CDRL训练回合数不够，训练网络未至最优，晚高峰时段和非高峰时段实验结果和早高峰时段类似。采用 SR方法和CDRL方法计算的路径，早高峰时段，SR／CDRL的比值在0.95\~1.1间，基本接近于1。但CDRL计算的约 $80 \%$ 路径旅行时间比SR方法短。因为CDRL算法，通过学习出租车司机经验，会选择当前策略下旅行时间最短路径，所以所选路径旅行时间优于SR方法所选路径。
+
+图7显示在划分的三个时段内采用三种方法计算OD间路径的路径总旅行时间对比。可以看出，在三个时间段内，FR方法计算的路径总旅行时间最短，因为FR算法选择OD间旅行时间最短路径。其次则为CDRL方法计算路径，在晚高峰时段和非高峰时段，CDRL方法计算路径的总旅行时间都小于SR方法计算路径的总旅行时间。SR方法计算路径的总旅行时间最长，只在早高峰时段计算路径的总旅行时间小于CDRL方法，因为早高峰时段CBD区域道路流量差别大，CDRL方法计算路径误差相对较大，因而当前策略下旅行时间最短路径稍差于SR方法计算路径。
+
+![](images/b8f5d3380debb4b6ac88fbe4cf03af0eccdf2ee441012c69c0b09c2f8645afa4.jpg)  
+Fig. 5 Convergence curve of loss function by CDRL method   
+图6CDRL,FRand SR方法计算路径旅行时间对比Fig.6Route travel time comparison for CDRL,FR and SR
+
+![](images/c46bb5a4bd0bbd2f7f8980a4dea17a94a218f1b447dcc56a0e0381faa99f8bfb.jpg)  
+图7CDRL,FRand SR方法计算路径的总旅行时间对比Fig.7Total travel time comparison for CDRL,FR and SR
+
+# 4.4计算效率对比
+
+本文采用CDRL、FR和 SR三种方法计算OD间路径，实验仿真是在 CPU:AMD FX(tm)-4130 Quad-Core Processor、8 GB 内存、 $3 . 8 \ : \mathrm { G H z }$ 主频的计算机上实现，程序采用Python编程语言实现。选取2015年6月15日至2015年6月21日提取的路段经验数据库作为验证数据集，使用4.3节中的20个OD对进行实验，本文使用算法运行时间来评价三种方法计算效率。
+
+CDRL方法中，输入20个OD对的起终节点所在交叉口的经纬度，路网及路段经验数据库，然后使用训练好的模型计算20个OD对间最快路径，记录算法运行时间。FR和SR方法中，将20个OD对及路网输入模型，然后计算各个OD间的最快路径，并记录算法运行时间。
+
+表1表示在划分的dg个时段内，采用三种方法计算OD间路径的计算时间差异。可以看出，在三个时段，采用 SR方法计算路径的计算时间是相同的，因为它们没有考虑实际交通信息。三个时间段的SR的计算时间都是相同的，因为它们没有考虑实际的交通情况。CDRL方法，FR方法在高峰时段的总计算时间高于非高峰时段，因为在高峰时段，算法需要搜索更大的路网节点空间以获得OD间路线。且在早高峰时段和晚高峰时段的总计算时间是差别不大。
+
+从表1可得到，CDRL方法的总计算时间最短，因为训练好的用于计算旅行时间神经网络，可以快速地计算各个交叉口到目的地的旅行时。其次为SR方法计算路径所需总时间，FR的总计算时间最长。此外，CDRL方法的计算时间远远小于SR和FR方法。因此，它更适合在线OD间最快路径计算。
+
+表1CDRL,FRand SR方法总计算时间对比  
+Table1 Totalcalculate time forCDRL、FRand SR  
+
+<html><body><table><tr><td></td><td>早高峰时段</td><td>晚高峰时段</td><td>其他非高峰时段</td></tr><tr><td>CDRL</td><td>1.981s</td><td>1.972s</td><td>1.717s</td></tr><tr><td>FR</td><td>6.304s</td><td>6.243s</td><td>6.075s</td></tr><tr><td>SR</td><td>4.999s</td><td>4.999s</td><td>4.999s</td></tr></table></body></html>
+
+# 5 结束语
+
+随着人工智能的发展，强化学习在最优路径规划方面的应用引起学者关注。与传统的路径规划方法不同，在RL算法中，智能体在交叉口，通过选择路段与环境进行交互，得到来自环境对选择路段效益的价值反馈，并根据环境给出的奖励调整其动作，从而选择OD间最优的路径。
+
+本文提出通过学习出租车司机经验来在线计算OD间最快路径的CDRL方法。实证研究表明，该方法计算的路径在旅行时间方面优于SR方法，与FR方法差别不大。此外，CDRL方法在计算效率方面明显优于FR和SR方法，因此更适合在线计算OD间最快路径。本文认为，这种经验学习，深度强化学习方法与并行智能交通系统[24,25]的结合具有巨大潜力，可能改变下一代ITS发展历程。
+
+本文提出的的方法也存在一些缺陷和不足。该方法的神经网络训练时是回合制(episode)更新，效率低，后期将设计更优的神经网络结构用于算法训练。
+
+# 参考文献：
+
+[1]Yang Lin，Kwan M P,Pan Xiaofang，et al.Scalable space-time trajectory cube for path-finding:a study using big taxi trajectory data [J].Transportation Research Part B Methodological,2017,101: 1-27.   
+[2]Tang Luliang,Chang Xiaomeng.The knowledge modeling and route planning based onTaxi'experience[J].Acta GeodaeticaEt Cartographica Sinica,2010,39 (4): 404-409.   
+[3]Yuan Jing，Zheng Yu,Zhang Chengyang，et al.T-drive:driving directionsbasedon taxi trajectories[C]//Procof Sigspatial International Conference on Advances in Geographic Information Systems.[S.l.]:ACM Press,2010: 99-108.   
+[4]Wong $\mathrm { ~ M ~ O ~ C ~ K ~ }$ .Modelling uncertainty in traffic and transportation systems [J].Transportmetrica,2009,1(1): 1-3.   
+[5]He Zhaocheng,Chen Kaiyin,Chen Xinyu.A collaborative method for route discovery using Taxi drivers'experience and Preferences [J].IEEE Trans on Intelligent Transportation Systems,2018,19(8): 2505-2514.   
+[6]Zhang Jindong,Meng Weibin,Liu Qiangqiang,et al. Efficient vehicles pathplanningalgorithmbased on taxi GPS big data[J]. Optik-International Journal for Light and Electron Optics,2016,127 (5): 2579-2585.   
+[7]Zheng Jiangchuan,Ni L M.Modeling heterogeneous routing decisions in trajectories for driving experience learning [C]// Proc of ACM International Joint Conference on Pervasive and Ubiquitous Computing. [S.l.]:ACM Press,2014: 951-961.   
+[8]Yuan Jing,Zheng Yu,Xie Xing,et al. T-drive:enhancing driving directions with Taxi drivers [J].IEEE Trans on Knowledge & Data Engineering,2012,25 (1): 220-232.   
+[9]Hu Jihua,Huang Ze,Deng Jun.A hierarchical path planning method using the experience of Taxi drivers [J]. Procedia-Social and Behavioral Sciences,2013,96:1898-1909.   
+[10] Li Qingquan,Zeng Zhe,Zhang Tong，et al.Path-finding through flexible hierarchical road networks:an experiential approach using taxi trajectory data [J].International Journal of Applied Earth Observation & Geoinformation,2011,13(1):110-119.   
+[11] Wei Lingyin, Zheng Yu,Peng W C.Constructing popular routes from uncertain trajectories [C]//Proc of ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.[S.l.]:ACM Press,2012:195-203.   
+[12]WeiLingyin,ChangKP,PengW C.Discovering pattern-aware routes from trajectories [J].Distributed & Parallel Databases,2015,33 (2): 1-26.   
+[13] Chen Zaiben,Shen Hengtao,Zhou Xiaofang.Discovering popular routes from trajectories [C]//Proc of IEEE International Conference on Data Engineering.[S.1.]:IEEE Computer Society,2011: 900-911.   
+[14] Sutton R,Barto A.Reinforcement learning: an introduction (2nd Edition)[M].[S.l.]:MIT Press,2017.   
+[15] Gu Shixiang,Holly E,Lillicrap T,et al.Deep reinforcement learning forrobotic manipulation with asynchronous off-policy updates [C]/ Proc of IEEE International Conference on Robotics & Automation. 2017.   
+[16] Chen Yuanfang，Shu Lei,Wang Lei.Poster abstract: traffic flow prediction with big data:a deep learning based time series model [C]// Proc of Computer Communications Workshops.2017.   
+[17]Lv Yisheng,Duan Yanjie,Kang Wenen,et al.Traffic flow prediction with big data: a deep learning approach [J].IEEE Trans on Intelligent Transportation Systems,2015,16 (2): 865-873.   
+[18] Polson N G,Sokolov V O.Deep learning for short-term traffic flow prediction [J]. Transportation Research Part C Emerging Technologies, 2017,79:1-17.   
+[19] RammingMS. Networkknowledgeandroutechoice[D]. Cambridge:Department of Civil and Environmental Engineering, Massachusetts Institute of Technology, 2002.   
+[20] Frejinger E,Bierlaire M.Capturing correlation with subnetworks in route choice models[J]. Transportation Research Part B,2oo7,41: 363-378.   
+[21]El-Tantawy S,Abdulhai B,Abdelgawad H.Multiagent reinforcement learning for integrated network of adaptive traffic signal controllers (MARLIN-ATSC): methodology and large-scale applicationon downtown Toronto[J].IEEE Trans on Intelligent Transportation Systems,2013,14(3):1140-1150.   
+[22] Ozan C,Baskan O,Haldenbilen S,et al.A modified reinforcement learning algorithm for solving coordinated signalized networks[J]. Transportation Research,Part C:Emerging Technologies,2O15,54: 40-55.   
+[23] Mnih V,Kavukcuoglu K,SilverD,et al.Human-level control through deep reinforcement learning[J]. Nature,2015:518 (7540): 529-533.   
+[24] LiLi,Ding Wen.Parallel systems for traffic control:a rethinking[J].. IEEE Trans on Intelligent Transportation Systems,2015,17(4): 1179-1182.   
+[25] Chen Cheng，Wang Feiyue.A self-organizing neuro-fuzzy network based on first order effect sensitivity analysis[J].Neurocomputing,2013, 118: 21-32.

@@ -1,0 +1,496 @@
+[
+    {
+        "type": "text",
+        "text": "我国预印本平台发展现状及对策研究  \n张文颖」，孟娇²，田文强」，李蓟龙」，刘志刚'，董明纲1（1.河北北方学院编辑部，河北张家口075000；  \n2.河北北方学院国际教育学院，河北张家口075000）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：预印本具有交流速度快、利于学术交流、时效性强的特点，打破了以期刊为中心的科学交流体系，实现了科研工作者及时交流、互动共享的愿景，重构与再造了更加开放的现代科学交流体系，新冠大流行对知识快速获取及分享的迫切需求极大地促进了预印本的发展。目前我国创建的预印本平台共4个，其中ChinaXiv是国内第一个按国际通行模式规范运营的预发布平台，CSPO发文数量最多，已超10万篇，biomedRxiv是国内首个按国际通行模式规范运营的生物医学领域的预发布平台，创建于2004年的中国预印本服务系统发文数量仅1万多篇，增速缓慢，且网站服务有待完善。国内预印本平台存在以下问题：发文数量、质量及国内科研机构与高校认可度低；合作期刊少，不利于预印本文章后续在学术期刊的发表；评论活跃度低，学术交流互动较少。建议从加大宣传、加强内容审核、增强与期刊合作、明确预印本文章学术价值以提高科研机构与高校对其认可度等方面进行努力，推动我国预印本平台做大做强。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：预印本；开放科学；同行评议",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Development Status and Countermeasures of Preprint Platform in China ZHANG Wen-ying',Meng Jiao²,TIAN Wen-qiang',LI Ji-long', LIU Zhi-gang', DONG Ming-gangl ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1. Editorial Department of Hebei North University, Zhangjiakou, Hebei 075000; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. College of International Education, Hebei North University, Zhangjiakou, Hebei 075000) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Preprint has the characteristics of fast communication， facilitating academic communication and strong timeliness. It breaks the journal centered scientific communication system,realizes the vision of timely communication, interaction and sharing among scientific researchers,reconstructs a more open modern scientific communication system, and the urgent demand for rapid knowledge acquisition and sharing of the coronavirus pandemic has greatly promoted the development of the preprint. At present, there are four preprint platforms established in China. Chinaxiv is the first preprint platform operating in accordance with the international prevailing model. CSPO has issued the largest number of documents，exceeding 100 000. Biomedrxiv is the first preprint platform in the biomedical field operating in accordance with the international prevailing model. Chinese Preprint Service System established in 2O04 has issued only more than 10 Ooo documents, with a slow growth rate, and the website service needs to be improved. The domestic preprint platforms have the following problems: low quantity and quality of documents and low recognition of domestic scientific research institutions and universities; There are few cooperative journals,which is not conducive to the subsequent publication of preprinted articles in academic journals; Low activity of comments and less academic exchange and interaction. It is suggested that efforts should be made to increase publicity, strengthen content review, enhance cooperation with journals,clarify the academic value of preprinted articles, and improve the recognition of scientific research institutions and universities, so as to promote the expansion and strengthening of China's preprinted platform. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: preprint; open science; peer review ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "预印本（Preprint）是指科研工作者的研究成果还未在正式出版物上发表，而出于和同行交流目的自愿先在学术会议上或通过互联网发布的科研论文、科技报告等文章。自金斯巴格（PaulGinsparg）于1991年创建世界上首个预印本平台arXiv后，陆续出现SSRN、bioRxiv、medRxiv、chemRxiv等，发展势头迅猛[1]。预印本提高了科技成果的传播范围，具有交流速度快、方便获取、传播范围广、时效性强等特点，对抗学术垄断、实现学术自由，打破了以期刊为中心的科学交流体系，实现了科研工作者及时交流、互动共享的愿景，重构与再造了更加开放的现代科学交流体系[2]；扩大了出版范围，有利于传统出版无法支持的验证性研究成果问世[3]。我国学者张荣佳和刘玉环于2021年6月初在bioRxiv上发表一篇使雄鼠成功怀孕的动物实验文章，后因争议较大作者主动撤稿[4]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "预印本加快学术交流和成果共享，为人类社会应对公共卫生领域问题提供重要理论支持。在埃博拉病毒和塞卡病毒爆发期间，预印本以最快速度展示了最新科研成果与数据，较传统的期刊出版提前了至少100天；2019年12月到2020年5月，全球 $5 1 . 1 \\%$ 与新冠肺炎疫情相关的学术论文首发在预印本平台，为新冠病毒研究及防疫策略制定提供理论指导[5]。国内预印本平台起步较晚，分析我国预印本平台发展现状及存在的问题，以期为我国预印本平台更好发展提供理论参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一我国预印本平台简介",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1中国科技论文在线",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由教育部科技发展中心主办的中国科技论文在线（China Sciencepaper Online，CSPO,网址http://www.paper.edu.cn），是国内已建成的最大的预印本平台，创建于 2003 年，也是中国首家开放获取（Open Access，OA）线上投稿平台，截至2022年6月11日，首发论文达到104802篇，该平台还收录了逾130万篇科学技术论文，全部免费开放。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CSPO 对线上投稿过程（下载模板、编辑模板、审核发布、同行评议、正式出版等）进行了详细介绍，操作流程清晰，便于国内外学者投稿使用。 $\\textcircled{1}$ 下载模板包括中英文模板，涉及word和Latex两种格式。 $\\textcircled{2}$ 审核发布：论文提交后将由本站学科编辑进行审核，提交后3个工作日左右会有初审结果，初审通过后将于7个工作日内正式发布。文章首发公示后，作者还可以提交勘误表或修改稿以修改或完善文章，各个版本的修改稿都会公示于论文详细页，以便用户查看论文状态。论文在CSPO发布后，作者还可将文章投至其他正式刊物，不影响论文的正式发表。 $\\textcircled{3}$ 同行评议包括2种，作者可依据个人情况自行选择。动态公开评议：作者可以选择有评审权限的多位评审专家分别进行评审，综合各评审情况得出文章的评审结果，该评审结果是动态变化的。同行评议：若作者选择传统评价模式，则论文在线公示后，文章即转入本站专家评审系统，按学科随机分配两名专家进行评审；评审周期：1\\~3个月；评审结果：星级证明 $+$ 具体评审意见，3星级以上可申请打印、邮寄星级证明，扩展服务里可查阅星级。此外，平台设有评论功能，读者可对论文内容发表意见。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CSPO 涉及数理科学、地球资源与环境、生命科学、医药健康、化学化工与材料、工程与技术、信息科学、经济管理8个领域。平台可显示论文浏览量、下载量，推送热门优选文章，并规定了论文引用格式，还可将文章分享至微信、微博、QQ，并开通微博、微信公众号加强推广。目前，全国共41所院校将在CSPO 发表的论文可为符合研究生毕业、职称评定要求的论文，包括北京交通大学、湖南大学、兰州大学等知名院校，此举对推动预印本发展、扩大其使用范围意义重大。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2中国预印本服务系统",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2004年，中国科学技术信息研究所与国家科技图书文献中心联合建设的中国预印本服务系统上线，2018年，中国预印本服务系统并入国家科技数字图书馆（NationalScienceand Technology Library，简称NSTL，网址https://www.nstl.gov.cn），网站首页特色服务中包含预印本。中国预印本服务系统实现了用户自由提交、检索、浏览预印本文章全文、发表评论等功能。用户可以经过简单的注册后直接提交电子稿，并在随后根据需要和改动情况追加、修改所提交的文章。系统将严格记录作者提交文章和修改文章的时间，只对作者提交的文章进行简单审核，便于作者在第一时间公布自己的创新成果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "中国预印本服务系统无使用操作的详细介绍，也无分享功能，未开通微博、微信公众号进行推广宣传；不显示浏览量、下载量，无热门文章推送，目前无合作期刊。该系统学科类别包括自然科学、医药科学、人文与社会科学、工程与技术科学、农业科学。截至2022年6月11日，发文总量17733篇，其中自然科学发文量最高，为15319篇，发文量增长缓慢。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3中国科学院科技论文预发布平台",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2016年中国科学院文献情报中心建立中国科学院科技论文预发布平台ChinaXiv（网址http://chinaxiv.org），该平台为全国科研人员提供中英文科技论文的预印本存缴和已发表科学论文的开放存档服务，是国内第一个按国际通行模式规范运营的预发布平台。ChinaXiv下设一系列子平台，包括中国心理学预印本平台PsyChinaXiv、中国生物工程预印本出版平台、ChinaXiv岩土力学预印本平台、中国语音乐律预印本平台、中国图情档预印本平台、贵州省学术预印本平台(试用)、护理学科预印本论文网络首发平台，可接收各类中英文科学论文预印本，并提供国内外26000多种学术期刊的预印本政策查询服务，以学术自治、开放存缴、开放获取、首发登记为服务宗旨。截至2022年6月11日，ChinaXiv共收录文章16 295篇主要涉及生物学、物理学、计算机科学和医药学等领域。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv界面合理，使用方便。可通过领域、时间、作者、机构查询论文提交量，了解发文趋势；对重点文章进行推送，如推送热门论文、热议论文；开通微信公众号进行推广宣传。评论功能完善，包括公开评论、匿名评论、仅发给作者等选项；分享功能强大，可通过微信、微博、QQ、人人网、百度贴吧、豆瓣网等分享文章；并规定了预印本文章引用格式，有助于扩大文章的传播范围及学术影响力。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv建立了优秀稿件的双向推送机制，合作期刊可从ChinaXiv遴选优质论文稿源，向论文提交者推荐其论文合适发表的期刊；同时在征得作者同意情况下，合作期刊可将优质论文预印本推送提交到ChinaXiv平台，这点与biomedRxiv、bioRxiv等平台有所区别。目前ChinaXiv合作期刊共33本，包括中国科学院院刊、古脊椎动物学报等，平台较多文章来自合作期刊。2022 年《中国科技期刊研究》《智库理论与实践》《Jourmal of Data and InformationScience》(JDIS)等具有较强学术影响力的优秀期刊先后与ChinaXiv建立合作关系，鼓励和支持作者将拟在本刊发表的文章手稿存缴至ChinaXiv，这对提升预印本文章质量、推动平台发展有很大帮助。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4生物医学科技论文预印本系统",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2020年中国医学科学院医学信息研究所建立biomedRxiv，这是国内首个按国际通行模式规范运营的生物医学领域的预发布平台（网址：https://www.biomedrxiv.org.cn/index），接收生物医学相关领域的中英文预印本，以“第一时间共享最新研究成果，对标国际规范存缴和发布研究论文，权威专家快速审核”为特色，支持我国医学界高水平科研论文的快速预发布及中国医学领域科学研究的共享与创新。由于学科领域的特殊性，biomedRxiv加强了对论文的伦理审查。网站伦理声明指出：论文提交者需要按要求提供当地伦理委员会的相关文件及参与者或其亲属的知情同意书，实验的伦理标准必须符合世界医学协会赫尔辛基宣言中关于动物实验和人类研究中涉及医学研究伦理的指导原则，论文中所描述的任何临床试验均应在国际/国家认可的试验注册中心进行注册，并在稿论文中提供试验编号。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "biomedRxiv不接收已提交给期刊的论文，如果论文提交到期刊但未被接受，则可以将其提交给biomedRxiv。论文发布后，作者可以对已发布的论文内容进行错误更正或补充说明，并以上传新版本的形式对内容进行纠正。论文一旦提交成功，biomedRXiv会自动为其分配临时的ID号，论文通过审核后方可获得正式的DOI，获取DOI后文章将无法撤销。如果作者有其他特殊原因（如承认稿件存在根本性错误等）需撤销论文，可通过邮箱与平台进行联系。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "biomedRxiv发文范围涉及新型冠状病毒肺炎、基础医学、临床医学、预防医学、中医学、肿瘤学等在内的20个一级学科及其涵盖的160余个二级学科。平台下设癌症进展子平台和医学信息学子平台。biomedRxiv有固定的论文模板，需按格式要求进行投稿。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "截至2022年6月11日，biomedRxiv发文数量为435篇，与2019年建立的medRxiv 相比增速缓慢。可查看论文阅读量、下载量、评论数，推送热门论文；可将文章分享至微信、微博及QQ空间；评论方式包括公开评论、匿名评论、仅发给作者等多种选项；已开通微信公众号加强推广。平台规定了文章引用格式，可对预印本文章进行引用，目前暂无合作期刊。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "二bioRxiv与medRxiv发展分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1 bioRxiv",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "bioRxiv（链接：htps://www.biorxiv.org/）由冷泉港实验室于2013年创立，接受涵盖生命科学研究各个方面的文章的预印本，是全球知名的生物领域预印本平台，bioRxiv 于2017年5月获得扎克伯格慈善基金“陈一扎克伯格倡议”的资助后，该网站在不到3年的时间发布了上万篇论文。新冠大流行期间，bioRxiv发表了大量新冠病毒及疫情相关文章，为科研成果共享、防疫措施的制定提供了很大帮助，目前平台发文量已超过10万篇。发表在bioRxiv 的文章会收到一个数字对象标识符(DOI)，可用于检索和引用。bioRxiv合作期刊近180种，且包括《科学》《自然》《柳叶刀》等顶级期刊[8]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2019年9月30日，bioRxiv的主办机构冷泉港实验室宣布开展预印本的透明评议服务(Transparent Review in Preprints，TRiP)，无论预印本是否发表，都会公开科技期刊与第三方组织对预印本开放评议的全过程，包括评议内容和作者回复，bioRxiv规定TRiP需要经过预印本作者同意才能开展。此外，bioRxiv还支持学术社群对预印本的评论，不需要经过作者同意。bioRxiv对开放评论进行了有益探索，提升了预印本文章质量，实现了充分的学术交流，促进了预印本平台由内容发布平台向开放交流平台的转变[5]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2 medRxiv ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "medRxiv(链接：https://wwW.medrxiv.0rg/）是由耶鲁大学、冷泉港实验室和 BMJ 出版集团创建的预印本平台，发表医学、临床和相关的健康科学领域的文章。作者可以在任何时候(在稿件被接受在期刊上发表之前)向medRxiv提交论文手稿。一旦发表在medRxiv，手稿就会获得DOI，可以被搜索引擎和第三方服务编入索引，无法删除。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "自2019年6月发布第1篇论文至2020年5月27日的1年时间内，medRxiv共收录1811篇医学领域论文，平均每月收录并发布180篇论文；在新型冠状病毒肺炎爆发期间，medRxiv收录与COVID—19相关论文共3448篇，极大地促进了医学科研成果的共享与交流，为人类应对公共卫生领域突发事件及时提供了最新的医学资讯。兢",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3发展原因分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1自身优越条件",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "冷泉港实验室成立于1890年，是一个非盈利的私人科学研究与教育中心，研究对象包括癌症、神经生物学、植物遗传学、基因组学以及生物信息学，其主要成就为分子生物学领域，该研究所一共诞生了8位诺贝尔奖得主，被誉为世界生命科学圣地、\"分子生物学摇篮\",名列世界影响最大的十大研究学院榜首，这为bioRxiv、medRxiv的快速发展提供了强有利的学术保障。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2疫情推动",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2019 年新冠疫情爆发，加速了学术界对研究成果快速获取的迫切需求，世界各地众多学者将有关COVID-19及SARS-COV-2的最新科研成果发布在bioRxiv 和medRxiv上，发文数量呈爆发式增长，平台进入快速发展阶段。武汉病毒所石正丽团队2020年2月3日在《Nature》上正式发表的一篇揭示蝙蝠可能为新冠病毒宿主的文章，早在2020年1月23日就已在bioRxiv发布，为全球科学家争取了10天宝贵时间，及时开展病毒基因和蛋白层面的机理研究[1]。2021年12月10日，北京大学在bioRxiv上发表了一篇研究结果，通过IC50（半抑制浓度）来评估Omciron对9种抗体药物的逃逸程度[1]。泰国朱拉隆功大学探究接种两剂科兴疫苗后的异源加强，并将成果发表在medRxiv[12]。bioRxiv和medRxiv 加速了学术交流和成果共享，使不同地区的学者们能够第一时间了解到最新的研究成果，为病毒的深入研究及疫情防控措施的制定提供理论参考。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3OA浪潮",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2002 年《布达佩斯开放获取倡议》发布，随后《贝赛斯达宣言》《柏林宣言》先后提出，有效推动了开放科学(Open Access，OA）的发展进程。2021年1月联合国教科文组织",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（UNESCO）大会审议通过了《开放科学建议书》，标志着开放科学进入全球共识新阶段。开放科学背景下，对知识共享、免费获取的迫切要求，也极大地促进了学术成果新型呈现方式预印本的发展。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4bioRxiv论文审核机制优势",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2020年5月14日，bioRxiv推出全新服务，整合每篇论文全部开放评论和透明评议内容以及作者回复，将其展示给读者，通过完全公开开放评议提升预印本内容的可信度。bioRxiv加强了对论文内容的审核，提升了预印本文章质量及平台的学术影响力[5]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.5提供DOI，扩大论文引用及学术影响力",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在bioRxiv及medRxiv平台发表的文章会获得DOI，可以被搜索引擎和第三方服务编入索引，在文章正式发表在学术期刊前便获得引用，扩大了论文成果的展示范围和引用次数，提升了论文的学术影响力。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "三我国预印本平台存在的问题",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1发文数量少、质量偏低，未能反映最新科研成果，与国外预印本平台相比差距明显 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "国内学者对ChinaXiv等预印本平台缺乏了解，认可度及使用率低，主要的科研成果大多发表在知名期刊或国外著名的预印本平台，重大科研成果很少首在国内预印本平台；国外预印本平台发文数量及质量相对较高，能够反映最新科研成果与热点议题。2022年arXiv发布文章突破200万篇，bioRxiv、Research Square 发文数量达到10万篇[13]。截至2020年2月5日，bioRxiv发布了20篇来自国内科研机构关于新冠病毒的预印本论文，而在ChinaXiv上发布的相关论文仅有1篇。新冠疫情显著推动了预印本的发展，疫情期间相关平台发文量：arXiv1109 篇、bioRxiv814篇、medRxiv3448篇、ChinaRxiv34篇、中国科技论文在线18篇[，国外主要平台发文数量明显高于国内，尤其是2019年建立的medRxiv，新冠疫情初始，国内关于新冠病毒的很多研究发表在国外预印本平台。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "国外预印本文章质量也相对较高，2002年格里戈里·佩雷尔曼证明“庞加莱猜想”的文章发表于arXiv，佩雷尔曼因解决“庞加莱猜想”而成为2006年第25届菲尔兹奖领奖者之一，预印本网站地位由此获得改变；物理学界甚至有说法：如果论文不在arXiv上，那就等于不存在。2020年1月23日中科院武汉病毒研究所石正丽团队在bioRxiv发布文章，证实武汉新型冠状病毒的动物宿主可能同 SARS一样是蝙蝠，后来该文章被《Nature》收录。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2 国内科研机构及高校对预印本文章认可度低，影响了预印本的广泛使用",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "国外预印本发展较早，科研机构等对预印本认可度较高，基金组织大多对预印本持积极态度，鼓励项目申请者和项目执行者及时通过预印本平台发布研究成果[14]。2017年3月，美国国立医学研究院（National InstitutesofHealth，NIH）宣布2017年5月25日起，在NIH的项目申请和NIH的研究成效进展报告中可以引用项目的预印本论文及其他阶段性研究成果[5]，明确科研人员在引用和提交预印本成果以及得到NIH资助时应用遵守的相关规范。英国医学研究委员会宣布自2017年4月起支持预印本；威康信托基金会在2017年1月表示，将接受预印本作为项目申请和项目结题的依据；英国癌症研究中心于2017年5月30日宣布在项目申请中接受预印本；霍华德·休斯医学研究所、赫尔姆斯利信托、西蒙斯基金会等也表示支持预印本[14]。目前国内仅41所高校在职称评定及毕业方面认可CSPO发表的文章，由于绝大多数科研机构和高校不认可预印本，在毕业和职称评定方面无法与期刊论文等效，科研人员和高校师生对国内预印本平台认可度及使用率低，这也是预印本无法有效推广的重要原因之一。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3合作期刊少，不利于预印本文章后续在学术期刊的发表",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2016年8月美国化学学会宣布支持预印本交流后，旗下学会期刊陆续推出各自预印本支持政策，不同程度允许作者在向其期刊投稿前，将论文手稿放在预印本平台上进行交流[14]。bioRxiv与 medRxiv 与多家期刊合作，形成B2J(bioRxiv to journal)和M2J(medRxiv tojoumal)[6合作模式，预印本发表后直接推荐到期刊接收同行评议，作者无需再寻找合适期刊进行投稿，解决了预印本文章在学术期刊的后续发表问题。bioRxiv目前拥有近180种合作期刊，medRxiv拥有30种；国内仅ChinaXiv与期刊有合作关系，不利于预印本文章在学术期刊的后续发表。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4评论活跃度低，学术交流互动较少 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "国内4个预印本平台都设有评论功能，但鲜有读者在阅读过程中对文章内容发表评论，评论活跃度低，未能充分发挥学术交流的作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "四提升我国预印本平台的建议",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1加大宣传，提升影响力",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "国内预印本平台应针对受众人群（包括科研工作者、高校师生、期刊工作人员）加大宣传，通过多新媒体（如微信公众号、知乎、B站等）、学术交流会议、讲座等多种方式进行宣讲，使更多人了解预印本这一新型学术交流方式及其科研价值，鼓励国内学者将论文写在祖国的大地上。尤其重视高校师生的宣传，高校是我国科研力量的重要构成部分，学生是未来的科研主力，促进该群体对国内预印本平台的认知与了解，对平台后续发展至关重要。高校可在日常授课（如论文写作课、文献检索课等）过程中加入预印本及开放科学相关内容，使学生对学术出版前沿发展有所了解，这也有助于学生开展科研活动及科研成果的发表。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2加强文章审核机制，提升预印本文章质量",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "预印本文章经过简单审核后可快速发表在预印本平台，省去了繁琐的编辑和同行评审程序，可使研究成果快速被公众获取并分享，较传统期刊发表速度大大加快。由于缺乏同行评议，预印本论文质量也备受诟病。RetractionWatch的统计结果显示，截至2020年10月2日，预印本平台已经撤销10篇有关COVID-19的论文[5]。为提升论文质量，bioXiv 尝试开展透明评议服务，以弥补预印本在同行评议方面存在的不足。bioXiv开展的透明评议服务包括2种，一种是以ReviewCommons为代表的以平台合作为主导，以顶尖科学家为评议负责人，评议可靠性、开放性、透明性较高，遵循传统的较为严格、规范的评议模式；另一种是以PREreview为代表的科学共同体倡导和推动，以多元身份科研人员为评议团队，评议开放性、透明性较高，存在低质量评议的较为宽松的交流性评议模式5。bioRxiv此次尝试也为其他预印本平台开展内容审核提供了借鉴。目前国内仅CSPO对文章进行同行评议，且为作者自愿，对论文内容审核较宽松。未来，我国预印本平台可加强与科技期刊的交流合作，并通过学术社群开展预印本评议服务，以提升文章质量。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "此外，平台应加强对预印本文章科研伦理层面的审查，尤其生物医药领域，应制定具体规则，完善临床试验和动物试验的伦理审查和患者知情同意审查；同时加强出版伦理层面的审核，如数据与论文内容的真实性，以提升文章质量及学术界对预印本文章的认可度。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3增强预印本平台与学术期刊的合作，推动预印本文章在学术期刊的发表 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "目前国内4个预印本平台，只有ChinaXiv与期刊有合作关系，且合作期刊数量较少（33种）。作者将研究成果发布在预印本平台，后续还需自己寻找合适期刊进行投稿，影响学术成果的最终见刊速度。预印本平台无法在研究成果在学术期刊的发表方面给作者提供便利，严重影响科研工作者在预印本平台投稿的积极性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在预印本宣传过程中，应重视对期刊工作人员的宣讲，使其认识到预印本在学术交流与科研成果传播方面产生的巨大影响力，鼓励期刊与预印本合作，双方共同谋求更好发展。开放科学背景下，国际学术出版商纷纷致力于推动预印本发展，SpringerNature、Wiley、Elsevier、Taylor&Francis等都在开展与预印本平台的合作，例如，作者可以在正式投稿到 Springer Nature 期刊时选择将他们的论文同步到到 In Review（预印本平台）[17]。我国也应尽快出台相关政策，推动高质量学术期刊或大型出版机构与预印本的合作，及时发表最新研究成果，营造良好的学术交流环境。例如，可在中国科技期刊卓越行动计划中鼓励我国优秀科技期刊与预印本平台合作，借此推动我国预印本平台的发展。4明确预印本文章学术价值，扩大预印本文章适用范围，提高科研机构与高校对预印本文章的认可",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "国家科研管理部门应充分认识到预印本在学术交流中的重要作用，认可预印本文章的学术价值，并采取积极措施，扩大其适用范围。可借鉴NIH的做法[15]，明确科研人员在引用和提交预印本成果时应用遵守的相关规范，鼓励国内基金组织将预印本文章为项目申请和结题依据，鼓励项目申请者和项目执行者及时通过预印本平台发布研究成果，让研究成果被更多人阅读和评议，提升基金项目研究的严谨性和学术价值。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "目前，国内仅北京交通大学、湖南大学、兰州大学等41所高校规定CSPO在线发表的论文可作为研究生毕业、职称评定要求的论文，应出台相应政策，鼓励国内更多高校和科研机构认可预印本文章作为学生毕业、奖学金评选、职称评定的要求。若此项工作顺利开展，将对扩大国内预印本使用范围、提升预印本文章质量产生重大意义，并促使科研工作者将论文写在祖国的大地上。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为扭转国内唯 SCI的期刊评价政策，有学者提出应执行国内期刊论文与国际期刊论文、中文论文与英文论文同质等效的评价政策，并提倡单篇论文评价方案、推广代表作制度。期刊评价方案应与时俱进，结合学术出版发展趋势，考虑预印本这一时代产物的学术价值。预印本文章能否与中文论文同质等效，与普通中文论文同质等效还是与核心论文同质等效；在开放科学背景下，预印本文章也应可以作为个人代表作品参与期刊文章评价及职称评定。对预印本发展做出贡献的学者，高校或科研机构应给予奖励。对预印本文章学术价值的明确规定，有助于扩大预印本在高校及科研机构的使用范围，并推动其发展。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "四小结",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "以学界自治为基础的预印本学术交流模式正在改变传统的以期刊为主体的单一学术交流模式，预印本因快速、开放、免费获取等特点，在突发公共卫生事件中发挥了重要作用。目前，我国创建的预印本平台共4个，其中ChinaXiv是国内第一个按国际通行模式规范运营的预发布平台，CSPO发文数量最多，已超10万篇，biomedRxiv是国内首个按国际通行模式规范运营的生物医学领域的预发布平台，创建于2004年的中国预印本服务系统目前发文数量仅有1万多篇，增速缓慢，且网站服务有待完善。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "国内预印本平台存在以下问题：在发文数量及质量上较国外差距明显；国内科研机构及高校对预印本认可度低，较少使用；合作期刊少，不利于预印本文章后续在学术期刊的发表；评论活跃度低，学术交流互动较少。针对上述问题，结合bioRxiv和medRxiv的发展经验，建议从加大宣传、加强内容审核、增强与期刊合作、明确预印本文章学术价值以提高科研机构与高校对其认可度等方面进行努力，促进平台发展。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "我国应重视国家级科技预印本平台建设工作，给予资金及政策上的支持；紧跟开放科学潮流，顺应时代发展，把握机遇，发展符合国际潮流的新型学术交流模式，努力建设具有国际影响力的预印本发布平台，满足我国快速增长的科研需求，并提升我国在国际学术交流中的主导权和话语权[18]，努力让科学成为人类的共同产品。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]侯志江.arXiv预印本服务研究及启示[J].图书馆工作与研究,2019(2):47-54.  \n[2]蔡妙芝,郭进京,赵嘉玮,等.突发公共卫生事件下生物医学电子预印本资源的作用及其启示[J].中华医学图书情报杂志,2020,29(5):30-36.  \n[3]解贺嘉,刘筱敏.国外预印本平台研究述评[J].科技与出版,2020(6):21-27.  \n[4]丁香园.公鼠怀孕产下10幼崽引争议，作者申请撤稿又取消[EB/OL].2021-7-  \n3.https://mp.weixin.qq.com/s/qkY7hrasAWStwXlBmo7EfQ.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[5]解贺嘉,刘筱敏.预印本平台开放评议运行模式实证研究[J].中国科技期刊研究,2021,32(10):1227-1233.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[6]王颖，张智雄，钱力，等．ChinaXiv预印本服务平台构建[J]．数字图书馆论坛，2017(10): 20-25.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[7]何方,李涛,王昌度.学术论文网络优先传播主要途径辨析及整合建议[J].中国科技期刊研究,2018,29(11):1109-1113.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[8]Change SCI.不需要同行评审、无稿费的BioRxiv 是什么期刊[EB/OL],2021-08-16.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "https://mp.weixin.qq.com/s/i7_ZHibet9xk_ocetyUk7Q[9]康宏宇,钱庆,李姣,等.国内外预印本系统比较研究与展望[J].医学信息学杂志,2020,41(11):26-31,40.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[10]ZHOU P, YANG XL,WANG X G,et al.A pneumonia outbreak associated with a new coronavirus of probable bat origin[J].Nature,579(7798):270-273. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[11]丁香园.天津广州报告Omicron，全球出现首例死亡，新毒株带来哪些挑战？[EB/OL].2021-12-15.https://mp.weixin.qq.com/s/oi6s-zHGULlMc6P376854Q.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[12]丁香园.最新研究：接种两针灭活疫苗后，打哪种加强针更有效？[EB/OL].2022-02-16.https://mp.weixin.qq.com/s/wW9poxG9Mj39igNRVNDZ7Q.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[13]徐丽芳,赵雨婷,陈铭,等.战“疫”·开放·包容——2020海外科技期刊出版动态研究[J].科技与出版,2021(3):13-23.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[14]张智雄,黄金霞,王颖,等.国际预印本平台的主要发展态势研究[J].数字图书馆论坛,2017(10):2-7.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[15]UW Research.NIH: Reporting Preprints and Other Interim Research ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Products[EB/OL].2017-04-19.htp://www.washington.edu/research/announcements/nih-preprintsinterim/. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[16]Cold Spring Harbor Laboratory.Direct Transfer from medRiv to Journals(M2J)[EB /OL].   \n[2020-03-13].https://www.medrxiv.org/content/about-medrxiv. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[17]国际科学编辑.国际学术出版商纷纷布局预印本[EB/OL].2020-08-14.https://www.sohu.c0m/a/413098060 100191228.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[18]唐桂芬.预印本发展和研究探析[J].出版与印刷,2020(2):61-69.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "基金项目：2021年河北北方学院校级项目（No：XJ2021042我国预印本平台发展现状及对策研究）  \n作者简介：张文颖（1990-04），女，硕士研究生，编辑，邮箱：1217240686@qq.com，联系电话：18931310114。  \n通信作者：董明纲（1965-10），男，硕士研究生，教授。",
+        "page_idx": 9
+    }
+]

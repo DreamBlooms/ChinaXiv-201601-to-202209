@@ -1,0 +1,176 @@
+# 不同生境下濒危植物膝柄木幼树的生态适应性
+
+招礼军，权佳惠，朱栗琼\*，黄瞳，金赞（广西大学林学院，广西森林生态与保育重点实验室，南宁530004)
+
+摘要：膝柄木是我国极度濒危植物，也是广西滨海过渡带天然植被的重要组成树种。为了解光因子对膝柄木天然更新的限制影响，研究了林缘、林窗、林下三种不同光照生境下膝柄木幼树的生理和生长指标的年际变化特征。结果表明：（1）光合有效辐射的不足影响了膝柄木幼树的生长，林下幼树的地径、株高和叶面积增长量显著降低；而生长于光照充足林缘生境的膝柄木幼树，其生长指标增长量最大；（2）随着光合有效辐射的减少，膝柄木幼树的抗氧化酶活性 SOD和CAT、可溶性蛋白含量、相对电导率和内二醛 MDA含量林缘生境显著高于林下生境的幼树，游离脯氨酸含量林下生境的幼树显著高于林缘和林窗生境的幼树；（3）随着光合有效辐射的减弱，林下生境的幼树的叶绿素a、叶绿素b、类胡萝卜素含量均高于林缘和林窗的膝柄木幼树，而叶绿素 $\mathbf { a } / \mathbf { b }$ 林缘幼树较高;林缘生境的膝柄木幼树净光合速率 $\mathbf { P } _ { \mathrm { n } }$ 、蒸腾速率T.在三种生境中最高；林下生境的膝柄木幼树的胞间 $\mathrm { C O } _ { 2 }$ 浓度 $\mathrm { { C _ { i } } }$ 高于其它两种生境，而水分利用效率WUE在2月一4月林缘生境的膝柄木幼树最高，6\~10月份林下生境的膝柄木幼树高于其它两种生境，12月三种生境差异不显著。光照因子是膝柄木幼树时期生长的限制因子之一，生长在林缘生境的幼树因接收到的光照较为充足，其生长状况要显著好于其他生境的幼树。
+
+关键词：生境，光照，膝柄木幼树，生态适应性
+
+# Ecological adaptability of the endangered plant Bhesa robusta sapling in different habitats
+
+ZHAO Lijun, QUAN Jiahui, ZHU Liqiong\*, HUANG Tong, JIN Yun (Forestry college of Guangxi University; Guangxi Key Laboratory of Forest Ecology and Conservation, Nanning 530004, China）
+
+Abstract:Bhesa robusta is a kind of plant that is in imminent danger in China, which also is an important component of natural vegetation in the coastal ecotone of Guangxi. In order to lear about whether the light factor has the effects on the natural regeneration of $B$ .robusta saplings or not, the interannual variation characteristics of physiological and growth indexes of $B$ .robusta saplings under three different photosynthetic habitats of forest edge,forest gap,and understory; were studied.The results were as follows: (1） The deficiency of photosynthesis active radiation affected the growth of $B$ .robusta saplings, The growth of ground diameter, plant height, and leaf area of understory saplings decreased significantly, while the growth index of saplings growing in the forest edge with sufficient light was the largest. (2) With the decrease of photosynthesis active radiation,the contents of antioxidant enzymes SOD and CAT, soluble protein, relative electrical conductivity, and MDA of the $B$ .robusta saplings under forest edge habitat were significantly higher than in the understory habitat, the free proline content of $B$ .robusta sapling under the understory habitat was significantly higher than under forest edge habitat. (3）With the decrease of light intensity, the photosynthetic pigment index chlorophyl-a, Chlorophyll b, caro
+
+# ChinaXiv合作期刊
+
+tenoids of Bhesa robusta sapling was increased in the understory habitat,and the chlorophyll $\mathbf { a } / \mathbf { b }$ ratio of Bhesa robusta sapling was highest in the forest edge habitat. The net photosynthetic rate $( { \mathrm { P _ { n } } } )$ and transpiration rate $( \mathrm { T _ { r } } )$ on the photosynthesis physiological target of $B$ .robusta saplings in understory habitat were lower than in forest edge and forest gap habitat; the intercellular $\mathrm { C O } _ { 2 }$ concentration (Ci) and water use efficiency(WUE） of $B$ .robusta sapling in the understory was higher than in forest gap and forest edge habitat.And WUE was the highest in the forest edge habitat from February to April, the water use efficiency(WUE)of B.robusta saplings in the understory habitat were higher than those of the other two habitats in June to October,and there are almost no differences between the three habitats in December. The light factor is one of the limiting factors during the growth period of $B$ .robusta sapling. The growth of B.robusta sapling in the forest edge habitat was significantly beter than that in the forest gap and understory habitat because of the abundant sunlight.
+
+Keywords: habitat, illumination, Bhesa robusta sapling, ecological adaptability
+
+膝柄木（Bhesa robusta）是卫矛科（Celastraceae），卫矛亚科（Subfam.Celastroideae）的常绿乔木，主要在广西分布，其伴生种主要有豹皮樟、桃金娘等（梁盛业，1988）。膝柄木是高大的乔木，主要生长在滨海过渡带，在稳定滨海过渡带生态系统稳定和抵御台风等自然灾害的侵袭方面发挥着重要作用（莫竹承等，2008）。膝柄木的野外调查研究发现由于其植株的地理分布相距太远，其种子发芽率与产量低且大多不育（安家成等，2017），通过有性繁殖增加其种群数量的方法实施难度较大（吴小巧等，2004）。国外对膝柄木的研究寥寥无几，但是国内开展了一些相关研究如对其伴生群落（莫竹承等，2013），结构特征（徐峰等，1990），扦插实验（莫竹承等，2008）、愈伤组织（莫竹承等，2015）及种子催芽（钟国贵等，2016）等方面的研究。随着社会的飞速发展，人类活动领域的扩大，许多原生的环境受到了强烈的干扰，生物多样性面临着巨大的威胁，加之膝柄木自身天然更新困难（莫竹承等，2008）其俨然已成为了国家濒危物种。在1999年公布的《国家重点保护野生植物名录（第一批）》中，已将膝柄木列为一级保护植物。在1997—2001年间广西进行的重点野生植物资源调查结果中显示膝柄木仅存10 株（刘演和宁世江，2002）膝柄木是我国一级保护濒危物种，是该属唯一分布在我国的特有种，现已处于极度濒危状态（黄立新，2006）。
+
+光照是植株从种子的萌发、发育、生长和完成自然更新整个生活史关键（孙清琳等，2019）。光因子能够影响植物的形态、分布和变化规律。种子在萌发以后进入幼苗期，幼苗对外界因子的响应与其所处的生境有较强的关联，生长于林下的幼树，由于郁闭的林冠遮挡了大部分入射的太阳光，其接收到的光照减少（Parelle＆Ducrey，2006），植物为了适应弱光的环境，就会通过改变其光合生理特性和生理特性来适应环境，植物的形态可塑性发生改变（Givnish，1988）。在膝柄木天然更新的影响因素中，光因子是影响其生长的重要的环境因子之一，加强环境中的光因子对膝柄木影响的研究，了解光因子在膝柄木天然更新中所起的作用，对于膝柄木的种群的扩大具有重要的意义。此外，膝柄木对于研究我国和印度、老挝、新加坡等10 国的植物区系之间的联系以及广西的地植物学和植物生态学的研究具有重要的科学意义（梁盛业，1992）。如何科学合理的给膝柄木提供最适宜生长的环境，了解膝柄木的生态适应性以及其生长限制因子，为濒危树种膝柄木的有效保护提供理论指导，同时为濒危物种的生态恢复和保护提供理论依据，是目前拟解决的关键问题。本研究以人工培育之后再移植到原生环境中的膝柄木幼树为研究对象，通过对三种不同生境下的膝柄木幼树进行实验探究，对比不同生境，膝柄木幼树的生长特征，生理特性，光合色素等生长指标，实验研究观测其对光合有效辐射需求的年际动态变化响应，以揭示光在膝柄木幼树天然更新过程中的限制性影响，同时探究膝柄木濒危原因，从而为膝柄木的天然更新，种群保护和生态恢复提供科学依据。
+
+# 1材料与方法
+
+# 1.1研究地概况
+
+研究地点位于广西东兴市东部江平镇巫头村，地理位置为 $2 1 ^ { \circ } 3 2 ^ { \prime } \mathrm { N }$ 、 $1 0 8 ^ { \circ } 0 7 ^ { \prime } \mathrm { E }$ ，属湿热带季风气候区，海拔 $2 0 { \sim } 4 0 ~ \mathrm { m }$ 。8月份测定的实验地林缘、林窗和林下光合有效辐射分别为（ $1 7 4 3 { \pm } 1 3 8 \$ 0$\mathrm { \mu \mathrm { m o l } } \mathrm { \cdot m } ^ { - 2 } \mathrm { \bullet s } ^ { - 1 }$ 、 $( 1 3 6 3 { \pm } 9 6 )$ ） $\mathrm { \mu \mathrm { m o l } } \mathrm { \cdot m } ^ { - 2 } \mathrm { \bullet s } ^ { - 1 }$ 和（ $1 7 6 { \pm } 2 8$ ） $\mathrm { \Delta \mu m o l { \cdot } m ^ { - 2 } { \bullet } s ^ { - 1 } }$ 。试验前测定林缘、林窗、林下
+
+三种生境土壤pH值为 $4 . 1 { \sim } 4 . 5$ ，有机质含量为 $2 0 . 9 6 { \sim } 2 2 . 3 5 ~ \mathrm { g } { \bullet } \mathrm { k g } ^ { - 1 }$ ，全氮为 $1 . 2 1 { \sim } 1 . 4 6 ~ \mathrm { g } { \bullet } \mathrm { k g } ^ { - 1 }$ ，有效磷为 $4 . 8 { \sim } 5 . 2 \ \mathrm { m g { \bullet } k g ^ { - 1 } }$ ，速效钾为 $3 1 . 8 8 { \sim } 4 3 . 8 3 ~ \mathrm { m g ^ { \bullet } k g ^ { - 1 } }$ ，差异不显著。
+
+# 1.2材料与试验设计
+
+实验材料采自广西东兴市东部江平镇巫头村于2009年人工培育的长势良好的回种到原出生地树林的林缘、林窗、林下三种生境中（通过采集种子进行人工培育）的膝柄木幼树。并于2015年12 月至2016 年10月期间选取自然条件下生长良好、植株基本一致的林缘、林窗和林下3个不同生境人工种植的膝柄木幼树，对其生长指标（地径、株高、叶面积）进行测定，每种生境下选择幼树各三株，此外在此期间的2、4、6、8、10、12月中旬选取不同生境下膝柄木幼树东南西北四个方向上树冠中部枝条下4\~6片长势良好的成熟叶片，放入冰盒带回实验室，进行生理指标和光合指标的测定。在实验期间及时对幼树进行除草防治病虫害。
+
+# 1.3测定项目与方法
+
+# 1.3.1苗木生长指标的测定
+
+在实验开始前，在每株幼树的根茎处用红色布条绑住做好标记，用钢卷尺（精确度为 $0 . 1 \mathrm { c m }$ ）测量膝柄木幼树根部作记号到顶芽的高度。用游标卡尺（精确到 $0 . 0 1 \mathrm { m m }$ ）精确测量每株苗木根茎处的直径。同时，记录下每株树的叶片数量，使用激光叶面积仪测量叶面积。根据前后两次测得的数值差计算苗木的地径、叶面积和株高净增长量。
+
+# 1.3.2叶片生理生化指标的测定
+
+# 1.3.2.1抗氧化酶活性测定
+
+超氧化物歧化酶 SOD活性采用氮蓝四唑NBT光化还原法测定，依据NBT在光下可被还原，被还原后的核黄素在氧化物质的存在下氧化产生 $O ^ { 2 - }$ ，NBT被氧化后的 $O ^ { 2 \cdot }$ 还原成蓝色甲腺，通过测定甲腙在 $5 6 0 \mathrm { n m }$ 处的吸光度来测量 SOD 活性(李合生等，2000)。
+
+过氧化氢酶CAT活性采用紫外光吸收法测定，在单位时间内测定波长 $2 4 0 \mathrm { n m }$ 处吸光度的差值（Aebi,1984）。
+
+# 1.3.2.2可溶性蛋白和游离脯氨酸含量测定
+
+可溶性蛋白含量采用考马斯亮蓝G-250染色法测定，依据考马斯亮蓝G-250在稀酸溶液中遇蛋白质变色的原理，通过在波长为 $5 2 0 \mathrm { n m }$ 处的吸光度值来计算可溶性蛋白含量(李合生等，2000)。
+
+游离脯氨酸含量使用芘三酮比色法测定，在待测植物叶片中加入 $3 \%$ 的磺基水杨酸溶液提取脯氨酸，再在脯氨酸提取液中加入冰醋酸和酸性印三酮，沸水浴加热，变色后加入甲苯离心后在分光光度计波长为 $5 2 0 \mathrm { n m }$ 处测定吸光度值(李合生等，2000)。
+
+1.3.2.4质膜透性和丙二醛（MDA）含量测定
+
+丙二醛MDA含量采用硫代巴比妥酸法TBA测定，将 $0 . 5 \mathrm { ~ g ~ }$ 的植物样品中加入 $5 \%$ 的三氯乙酸TCA研磨，将匀浆离心后取上清液加入 $0 . 6 7 \%$ 的 TBA，煮沸后再次离心，测定上清液在450、532、$6 0 0 \mathrm { n m }$ 处的吸光值(李合生等，2000)。
+
+质膜透性采用电导仪法测定，将 $\boldsymbol { 2 } \ : \mathrm { g }$ 大小切割一致的叶片放入真空干燥器内，加入 $2 0 ~ \mathrm { m L }$ 的去离子水，抽气后缓缓放入空气，待叶片下沉后，取出烧杯静置 $2 0 \mathrm { m i n }$ 后用玻璃棒搅拌均匀，用电导仪测其初电导值 $\mathbf { S } _ { 1 }$ ，测完后将烧杯放入沸水浴中，用自来水冷却至室温后测其煮沸电导值 $\mathbf { S } _ { 2 }$ ，相对电导率 $\scriptstyle \mathrm { L = S } _ { 1 } / \mathrm { S } _ { 2 }$ (李合生等，2000)。
+
+# 1.3.2.3光合色素测定
+
+光合色素采用丙酮-乙醇混合液提取法测定(李合生等，2000)，依据叶绿素提取液可吸收可见光谱的原理，将待测的叶片剪碎，加入少量的石英砂和碳酸钙粉以及 $9 5 \%$ 乙醇后研磨至组织变白，用$9 5 \%$ 的乙醇将滤纸上的色素洗入容量瓶中定容，根据在波长为665、649、 $4 7 0 \mathrm { n m }$ 处测得的吸光度值计算光合色素浓度，其中：
+
+叶绿素a浓度： $\mathrm { C _ { a } } ( \mathrm { m g \cdot L ^ { - 1 } } ) { = } 1 3 . 9 5 \mathrm { A } _ { 6 6 3 } { - } 6 . 8 8 \mathrm { A } _ { 6 4 5 }$ ；叶绿素 $\boldsymbol { \mathbf { b } }$ 浓度： $\mathrm { C _ { b } ( m g { \cdot } L ^ { - 1 } ) } { = } 2 4 . 9 6 \mathrm { A } _ { 6 4 5 ^ { - } } 7 . 3 2 \mathrm { A } _ { 6 3 3 }$ 叶绿素 $\mathbf { a } / \mathbf { b }$ 浓度： $\mathrm { C _ { a \Delta b } }$ 浓度 ${ = } \mathrm { C _ { a } / C _ { b } }$ ；类胡萝卜素浓度： $\mathrm { C _ { x ^ { * } c } =  { \left( 1 \ 0 0 0 \times A _ { 4 7 0 ^ { - } } 2 . 0 5 \ C _ { a ^ { - } } 1 1 4 . 8 \ C _ { b } \right) } }$ ）/245相应色素的含量 $( \mathrm { m g \cdot g ^ { - 1 } } ) { = } ( \mathrm { C _ { i } { \times } V { \times } d } ) / \mathrm { m } .$ 0其中： $\mathrm { { C _ { i } } }$ 为相应色素的浓度； $\mathrm { \Delta V }$ 表示提取液体积；d表示稀释倍数； $\mathbf { m }$ 表示样品鲜重。
+
+1.3.3叶片光合生理指标测定
+
+选择天气晴朗的上午（ $\scriptstyle \cdot 9 : 0 0 \sim 1 1 : 0 0 )$ ），采用Li-6400光合测定仪对植株叶片净光合速率 $\mathbf { P } _ { \mathrm { n } }$ 、胞间 $\mathrm { C O } _ { 2 }$ 浓度 $\mathrm { { C _ { i } } }$ 、蒸腾速率 ${ \mathrm { T } } _ { \mathrm { r } }$ 进行测定。并计算水分利用效率WUE（ $\mathrm { P _ { n } / T _ { r } }$ ）。
+
+# 1.4数据处理
+
+运用 Excel整理数据，采用 SPSS 25.0软件进行数据处理和分析，用单因素方差分析(one-wayANOVA)结合Duncan 检验组间差异性，使用Origin 2018软件绘制图像。表格和图表中的数据均以平均值 $\pm$ 标准误差表达。
+
+# 2结果分析
+
+# 2.1不同生境下膝柄木幼树的生长的影响
+
+苗木的生长状况的主要是通过其生长指标反映的。从表1可知林下生境的幼树由于接收到的光照较少，其生长受到了抑制，其株高和叶面积的增长量随着时间的增加逐渐减少。生长在林缘的植株生长状况最好，其株高和叶面积的增长量均最大，与林窗的株高增长量和叶面积增长量之间都达到了显著差异（ $_ { ( P < 0 . 0 5 ) }$ ；生长在林缘的幼树由于其得到的光合有效辐射显著高于林下，因此林缘与林下的膝柄木幼树的各项生长指标都达到了显著差异（ $P { < } 0 . 0 5 )$ 。
+
+表1不同生境下膝柄木幼树的增长量  
+Table 1 Growth of saplings of Bhesa robusta in different habitats   
+
+<html><body><table><tr><td></td><td>地径增长量 Ground diameter increment</td><td>株高增长量 Growth of plant height</td><td>叶面积增长量 Leaf area growth</td></tr><tr><td>林缘Forest edge</td><td>12.69±0.50a</td><td>0.62±0.01a</td><td>3.60±0.19a</td></tr><tr><td>林窗 Forest gap</td><td>12.91±0.30a</td><td>0.54±0.02b</td><td>1.92±0.08b</td></tr><tr><td>林下Understory</td><td>2.27±0.04b</td><td>0.51±0.02b</td><td>0.16±0.01c</td></tr></table></body></html>
+
+注：表中数据均为平均值±标准偏差。不同小写字母表示在0.05水平上处理间差异显著。
+
+Note:Data in the tablewere $\mathbf { x } \pm \mathbf { s }$ .Different lowercase letters indicate significant differences among treatments at O.05 leve
+
+2.2不同生境的膝柄木植株生理生化特征的年际动态变化
+
+SOD、CAT和MDA、可溶性蛋白、游离脯氨酸和相对电导率是植物重要的生理生化指标。图1是林缘、林窗、林下三种生境下膝柄木幼树的生理生化指标的年际变化，其中三种生境中幼树的抗氧化酶活性、可溶性蛋白、相对电导率和MDA的年际变化呈先增加后降低的趋势，游离脯氨酸含量则先降低后增加。生长于林缘的幼树生理指标与林下的差异显著，生长于林缘的幼树的抗氧化活性酶 SOD 和CAT，可溶性蛋白、相对电导率和MDA含量在一年中显著高于林下，而林下膝柄木幼树的游离脯氨酸含量的年际值则林下高于林缘和林窗的幼树。
+
+# 2.3不同生境对膝柄木幼树光合色素的影响
+
+光合色素体系是植物体内捕获光能的重要光合系统，在本实验中随着不同生境所接受到的光合有效辐射的变化，其光合色素的含量和组成也发生了显著地变化。图2表明（ $\scriptstyle \cdot { P < 0 . 0 5 }$ ）各生境膝柄木幼树的叶绿素a、叶绿素 $\boldsymbol { \mathbf { b } }$ 、以及类胡萝卜素含量在一年中随着光合有效辐射呈先增加后减少的趋势，林下生境的膝柄木幼树的各光合色素含量在一年中显著地高于林缘和林窗生境的幼树，叶绿素a/b的值林下生境的幼树最低。
+
+# 2.4不同生境对膝柄木幼树叶片光合生理特征的影响
+
+如图3所示，膝柄木幼树的 $\mathbf { P } _ { \mathrm { n } }$ 和 ${ \mathrm { T } } _ { \mathrm { r } }$ 的年际变化趋势为先增加后降低。林缘的幼树的 $\mathbf { P } _ { \mathrm { n } }$ 在6月份达到了最大值，而林窗幼树的 $\mathbf { P } _ { \mathrm { n } }$ 在8月份达到最大值，林缘幼树的 ${ \mathrm { T } } _ { \mathrm { r } }$ 在6月份有最大值，在8月下降，在8月之后 ${ \mathrm { T } } _ { \mathrm { r } }$ 又开始增加，而林下生境的膝柄木幼树的 $\mathbf { P _ { n } }$ 和 ${ \mathrm { T } } _ { \mathrm { r } }$ 总体上呈先增加后降低的趋势，但年际变化不大。膝柄木幼树的 $\mathrm { { C _ { i } } }$ 和WUE则是先降低后增加的趋势。林下生境的膝柄木幼树$\mathrm { C _ { i } }$ 在一年中显著高于林缘生境。2月—4月林缘的WUE 显著高于林下，在6月—12月，林缘膝柄木幼树的WUE 逐渐低于林窗和林下生境，而林下生境的膝柄木幼树的WUE在4月份开始显著高于其他两种生境。
+
+![](images/9d0b06161db878b4e7c6b1553ae8682dab6f0c5120c08510bac4154741b43316.jpg)  
+图1三种生境下膝柄木幼树生理生化指标变化
+
+LY.林缘；LC.林窗；LX.林下；SOD.超氧化物歧化酶；CAT.过氧化氢酶；MDA.丙二醛。不同小写字母表示在0.05 水平上处理间差异显著。下同。 LY.Forest edge; LC.Forest gap;LX. Understory; SOD.Superoxide dismutase; CAT.Catalase; MDA.Malonaldehyde. Different lowercase leters indicate significant differences among treatments at 0.O5 level. The same below.
+
+Fig.1 Changes of physiological and biochemical indexes of saplings of Bhesa robusta in three habitats
+
+![](images/d0174151fd0fa8de50011a067f9dbb62fc350a39054385117e9f4d4762c43feb.jpg)  
+图2三种生境下膝柄木幼树光合色素年际变化图
+
+Fig. 2 Changes of photosynthetic pigments in saplings of Bhesa robusta in three habit 'ig. 3 Changes of photosynthetic physiological indexes of saplings of Bhesa robusta in three habit
+
+![](images/797587cbbcccb554e3b6e8d8f61a60530dc9a794faa061491ee1722396c796d3.jpg)  
+图3三种生境下膝柄木幼树光合生理指标年际变化图
+
+# 3讨论
+
+# 3.1膝柄木的生长适应性
+
+植物为了生存要适应环境因子截然不同的生境，处于不利生境时，植株的生长就会受到环境因子的影响，从而使植株的生长受到阻碍，使种群的生存面临威胁。弱光会影响植物的生长，使植物干物质积累减少，影响植株开花结果和植株产量（PARELLE＆DUCREY，2006）。也有研究表明适当的弱光条件能够促进植株花芽分化，提高植株的花芽数（MENZEL&SIMPSON，1988）。此外，有学者发现一些物种分布于林窗、林缘等不同生境其生长和发育并无显著差异，都能够实现其物种的更新（HAMERLYNCK&KNAPP，1994）。这说明了不同的物种由于其进化出的不同的生理特性，对光的适应能力大有不同，而同一物种，处于不同的生境时其生理生态特性会发生显著的变化（MATSUBARASetal.，2008）。不同的生境中特有的环境因子对植株的生长发育都产生了显著地影响（王艺和韦小丽，2009）。光照不足还容易产生秧苗徒长现象，即植株表现为根系不发达、叶片稀少、植株生长缓慢及早衰现象（侯兴亮等，2002）。膝柄木幼树在林缘，林窗，林下三种生境下，相同的生长指标在不同生境的幼树中差异显著，在本研究中，生长于林缘的膝柄木幼树接受到的光照最好，其地径、株高和叶面积增长量均显著高于林下生长的膝柄木幼树，光合有效辐射的不足，使得林下生境膝柄木幼树的地径、株高、叶面积增长量相比林缘显著降低了，说明膝柄木幼树时期，需要较好的光照条件，光成为其主要限制因子，膝柄木幼树为喜光物种。
+
+# 3.2膝柄木幼树的生理生化适应性
+
+光照是影响植物生理特性的重要因素之一（杨生保等，2011），植物在长期的进化过程中形成了抵抗不利环境的保护酶，如抗氧化活性酶 SOD和CAT等，这些酶组成了植物体内的酶促系统，清除植物产生的大量的活性氧，从而维持植物的正常的代谢活动（黄尧瑶等，2020）。然而，当植物接受到的有效光合辐射不足时，其体内的抗氧化酶活性就会降低，从而使得植物清除自由基的能力降低，植物生长缓慢（杨生保等，2011）。随着生长于林下生境的膝柄木幼树接受到的光合有效辐射减少，林下生境的膝柄木幼树的 SOD和CAT酶活性显著的低于林缘生境，光因子对膝柄木幼树的调控作用受到了限制，膝柄木幼树清除对细胞有害的自由基的能力降低，膝柄木幼树生长受到抑制。可溶性蛋白是植物调控和促进植物代谢的主要作用物质，其含量高低与植物代谢能力强弱有关（段辉国等，2014），光照不足会使植物体内的可溶性蛋白含量降低，从而导致植物的新陈代谢能力降低，植物衰老加快。MDA是反应植物抗逆能力的指标（张恩平等，2001），相对电导率是反映植物膜系统状况的重要的生理生化指标，相对电导率增大说明植物叶片受到了损害(朱凤荣，2019)。在本实验中，随着林下生境的膝柄木幼树接收到的光合有效辐射的减少，幼树体内的抗氧化活性酶SOD 和CAT含量、可溶性蛋白含量、MDA和相对电导率含量林下生境的幼树均显著低于林缘生境幼树，表明膝柄木幼树在长期光照不足的条件下，可溶性蛋白、MDA含量的合成受到抑制，幼树的细胞膜系统生理活性低，幼树代谢水平较低，代谢能力受到阻碍，植物的生长受到了抑制。一些研究表明，植物在逆境下积累游离脯氨酸是植物受到了伤害的结果，对限制因子反应敏感的植株脯氨酸积累会显著增多（MOFTAH&MICHEL，1987），植物在正常条件下，体内的游离脯氨酸含量较低，但在遇到不利的生长逆境时，游离脯氨酸含量就会大量积累，在本实验中，生长于林下的膝柄木幼树周围郁闭的林荫，接收到的有效光合辐射较少，因此，光照不足使得幼树的生长受到了胁迫，为了更好的适应逆境，生长于林下的幼树体内的游离脯氨酸含量显著增加，以对抗不利的环境（位杰等，2014）。
+
+# 3.3膝柄木幼树的光合色素适应性
+
+叶绿素是植物体内吸收能量的主要物质，叶绿素含量的高低，体现了植物光合作用能力的大小（位杰等，2014）。在光照不足的环境中，植物通过增加体内的叶绿素含量来吸收更多的光能，通过提高光合作用的速率以更好的适应弱光条件（吴飞燕等，2012）。光照不足时，植物体内的叶绿素a和叶绿素b的含量会显著增加，而叶绿素b的含量增加的幅度较叶绿素a的大（SINGH&DEY，1988），因此林下生境的叶绿素 $\mathbf { a } / \mathbf { b }$ 的含量下降。此外，研究发现环境因子对于类胡萝卜素的合成途径具有一定的调控作用(HARDING&SHORPSHIRE，1980)，光合有效辐射的强弱影响了类胡萝卜素在植物体内的含量高低。在本研究中随着林下生境的膝柄木幼树接受到的光合有效辐射的减少，幼树体内的叶绿素a、叶绿素b含量和类胡萝卜素含量相比林缘生境的幼树均显著增加，叶绿素 $\mathbf { a } / \mathbf { b }$ 的值林缘最高。这是由于林下接收到的入射光较少，光合系统由于为了捕捉更多的太阳能，而增加了光和色素的含量，提高光能转化效率。植物通过这种方式能够将微弱的漫射光充分的利用，来保证体内的光合化学反应正常进行，从而提高其光合利用效率，以保证植物能够充分的适应林下的生境。
+
+# 3.4膝柄木幼树的光合生理适应性
+
+植物的 $\mathbf { P } _ { \mathrm { n } }$ 和 ${ \mathrm { { T } _ { r } } }$ 是植物光合能力大小的直接反映（马新等，2018）。弱光条件下，植物的 $\mathbf { P } _ { \mathrm { n } }$ 降低，植物的光合作用减弱（杨冠松等，2014）。光合有效辐射的不足，使得植物的 $\mathbf { P } _ { \mathrm { n } }$ 曲线由双峰型转变为单峰型，植物正常的生长发育受到了影响（岳高峰等，2020）。在本研究中，林缘膝柄木幼树的 $\mathbf { P } _ { \mathrm { n } }$ 呈双峰曲线，林窗和林下生境的膝柄木幼树呈单峰曲线，这表明，生长于林下生境的膝柄木幼树由于接收到的光合有效辐射不足，幼树的 $\mathbf { P } _ { \mathrm { n } }$ 曲线由林缘的双峰型曲线转变为了林下的单峰型曲线，弱光超过了植物的耐受范围，对林下生境的膝柄木幼树的正常生长产生了胁迫。 ${ \mathrm { T } } _ { \mathrm { r } }$ 是植物调节自身水分亏缺，更好的适应环境的能力的重要指标（张江涛等，2007），植物的 ${ \mathrm { T } } _ { \mathrm { r } }$ 与 $\mathbf { P } _ { \mathrm { n } }$ 强度呈正相关（杨冠松，2014），在本实验中，林下生境的膝柄木幼树的 ${ \mathrm { T } } _ { \mathrm { r } }$ 的变化与 $\mathbf { P } _ { \mathrm { n } }$ 的变化较一致，光合有效辐射的不足抑制了植物的 $\mathrm { T _ { r } }$ ，林下幼树的物质运输和营养吸收的生理过程受到抑制，植物的生长发育受到了影响。 $\mathrm { { C _ { i } } }$ 是植物能量的供给源， $\mathrm { C O } _ { 2 }$ 进入细胞后主要受植物体内光合速率的影响（Flexas&Medrano，2002）。光合有效辐射不足，使得林下膝柄木幼树叶肉细胞的光合活性降低，幼树在光合作用的过程中消耗 $\mathrm { C O } _ { 2 }$ 的能力降低，林下生境膝柄木幼树Ci增高。WUE 是表征植物利用水分能力强弱的生理参数，是植物生长发育所需最佳水分供应的重要指标之一（钟平安等，2019），植物叶片的WUE也是反映植物自身蒸腾作用大小、适应生境能力的重要参数（李轲等，2017）。光照强烈的4月一10月，林缘和林窗生境的幼树，蒸腾作用强，水分利用效率下降，生长于林下的膝柄木幼树WUE高。12月至2月，林缘和林窗生境幼树的蒸腾作用不强，温度适宜，WUE 高于林下生境的膝柄木幼树。本实验表明膝柄木幼树在生长发育阶段在保证其受到充足的光照的同时也要避免强光辐射带来的水分消耗。
+
+综上所述，生长于光照充足，环境开阔的林缘生境下膝柄木幼树的生长状况要显著优于其他两种生境，林缘生境膝柄木幼树各生长指标增长量最大，生长发育状况最好，光合能力和光合效率高。光照不足限制了林下膝柄木幼树的株高、地径和叶面积的增长。在膝柄木幼树的天然更新和种群的恢复与扩大时，应保证其处于较佳的光照环境，更有利于其正常的生长发育。膝柄木幼树对弱光环境响应和适应的差异主要表现在生物量分配及生长差异上。野外的膝柄木幼树大都生长于林下，其天然更新受到阻碍，因此，在膝柄木幼树的生态恢复过程中可以采用疏伐、透光伐等手段来降低上层林冠的郁闭度，或者移苗种植等途径来促进膝柄木幼树的自然更新，保证其正常生长。
+
+# 参考文献
+
+AEBI H,1984.Methods in enzymology: oxygen radicals in biological systems(Vol.105）[M]. AcademicPress: 121-126.  
+AN JC,ZHANG ZY, HUANG MP, 2017. Genetic relationship of three individuals of Bhesa sinica byRAPD[J].Guangxi For Sci,46(4):406-408.[安家成，张照远，黄妹平，2017．膝柄木三个单株 RAPD的亲缘关系[J]．广西林业科学，46(4)：406-408.]  
+DUAN HG, WANG B, HUANG ZX, et al.,2014. Effects of chitosan on seed germination and seedling  
+GIVNISH TJ, 1988. Adaptation to sun and shade:A whole-plant perspective[J]. Aust J Plant Physiol,15:63-93.  
+HAMERLYNCK EP, KNAPP AK,1994. Leaf-level responses to light and temperature in two co-occurringQuercus (Fagaceae)species: Implications for tree distribution paterns[J]. For Ecol manage, (2): 149-159.  
+HARDING RW, SHORPSHIRE WJ,1980. Photocontrol of carotenoid biosynthesis[J]. Annu RevpllantPhysiol, 31: 217-238.  
+HOU XL,LI JF, XU XY, 2002. Effects of low light on morphological and physiological indexes of tomatoat different growth stages[J].Acta Hortic Sin,(2): 123-127.[侯兴亮，李景富，许向阳，2002．弱光处理对番茄不同生育期形态和生理指标的影响[J]．园艺学报，(2)：123-127.]  
+HUANG LX,2006.Several plants in danger of extinction in china[J].For Guangxi,(5):58.[黄立新，2006.我国濒临灭绝的几种植物[J]．广西林业，(5)：58.]  
+HUANG YY,DENG MH, PENG CX,et al.,2020. Studies on the response of lily petal antioxidant enzymesystem to drought stressJ].Acta Hortic Sin,47(4):788-796.[黄尧瑶，邓明华，彭春秀，等，2020．百合花瓣抗氧化酶系统对干旱胁迫响应的研究[J].园艺学报，47(4)：788-796.]  
+LI HS,SUN Q, ZHAO SJ, et al.,2000. Principles and techniques of plant physiological and biochemicalexperiments [M].Beijing: Higher Education Press:134-261.[李合生，孙群，赵世杰，等，2000．植物生理生化实验原理和技术[M]．北京：高等教育出版社：134-261.]  
+LI K, JING YS,TAN MX,et al.,2017.Effect of different irrigation amounts on physiology and water useefficiency of rice at jointelongation and booting stage[J]. Jiangsu Agric Sci, 45(13):60-63.[李轲，景元书,谭孟祥，等，2017．不同灌水量对拔节孕穗期水稻生理及水分利用率的影响[J]．江苏农业科学，45(13): 60-63.]  
+LIANG SY,1988.The Bhesa sinica was first discovered in China[J]. Guangxi For Sci Technol, $( 1 ) : 3 4 + 3 3$ ：[梁盛业，1988．膝柄木属植物在我国首次发现[J]．广西林业科技，(1)： $3 4 + 3 3 . ]$ （204号  
+LIANG SY,1992.Arare and endangered plant-- Bhesa sinica[J]. Plants,(3):5.[梁盛业，1992.珍稀濒危植物——膝柄木[J]．植物杂志，(3)：5.]  
+LIU Y,NING SJ, 2O02. Status quo and evaluation of natural resources of emphasis protective wildingplants in Guangxi[J].Guangxi Sci,124-132.[刘演，宁世江，2002．广西重点保护野生植物资源的现状与评价[J]．广西科学，2002：124-132.]  
+MA X,DONG P, JIANG JY, et al.,2018. Diurnal variation of photosynthesis rate of Xanthoceras sorbifoliaand correlation with eco-physiological factors[J].SW Chin JAgric Sci,31(6):1267-1271.[马新，董鹏,姜继元，等，2018．文冠果光合生理日变化及其与生理生态因子的相关性研究[J]．西南农业学报，31(6): 1267-1271.]  
+MATSUBARA S, KRAUSE GH, SELTMANN M, et al.,2008. Lutein epoxide cycle, light harvesting andphotoprotection in species of the tropical tree genus Inga[J]. Plant Cell Environ, 31:548-561.  
+MENZEL CM, SIMPSON DR， 1988. Efect of continuous shading on growth, flowering and nutrientuptake of passionfruit[J]. Elsevier,1988, 35(1-2).  
+MO ZC,FAN HQ,LI LX, et al.，2008.The surviving situation and restorative counter-measures ofendangered plant Bhesa sinica[J].JGuangxi Acad Sci,(2):134-137.[莫竹承，范航清，李蕾鲜，等，2008．濒危植物膝柄木生存现状及其恢复对策[J]．广西科学院学报，(2)：134-137.]  
+MO ZC,PANG WW,LIU Y, et al.,2015. Study on callus induction of Bhesa robusta leaves[J]. JCS UnivFor & Technol,35(10):13-17.[莫竹承，庞万伟，刘珏，等，2015．膝柄木叶片诱导愈伤组织研究[J].中南林业科技大学学报，2015，35(10)：13-17.]  
+MO ZC, XU JQ, CHEN SY,2013. Phenological characters of dominant trees in Syzygium hancei Monsoonforest[J].Guangxi Sci,20(3):193-198.[莫竹承，徐剑强，陈树宇，2013．红鳞蒲桃季雨林重要树种的物候特征[J]．广西科学，20(3)：193-198.]sylvatica L.） saplings under artificial shading or natural Mediterranean conditions[J].Ann For Sci,63(3) :257-266.  
+SINGH VP,DEY S,1988.Efect of low light stress on growth and yield of rice[J]. Indian JPlant Physiol,31 (1): 84-91.  
+SUN QL, ZHANG RH, YI SG, et al., 2019. Responses of germination and seedling emergence of Stipabungeana to key environmental factors[J].Acta Ecol Sin,39(6):2034-2042.[孙清琳，张瑞红，易三桂,等，2019.长芒草(Stipabungeana)种子萌发与出苗对关键环境因子的响应[J]．生态学报，39(6)：2034-2042.]  
+WANG Y, WEI XL,2009.The effect of different light intensity on seedling ecological adaptability of twokarst tree species[J].Guizhou Agric Sci,37(5):139-142.[王艺，韦小丽，2009．两个喀斯特森林树种幼苗对不同光照的生态适应性[J]．贵州农业科学，37(5)：139-142.]  
+WEI J,WU CY, WANG HL,etal.,2014.Effects of different light intensityon physiological characteristicsin leaves of Ziziphus jujuba cv. Huizao[J]. Henan Agric Sci,43(12):112-116.[位杰，吴翠云，王合理,等，2014.不同光照强度对灰枣叶片生理特性的影响[J]J.河南农业科学，43(12)：112-116.]  
+WU FY, YILT,LI XP, etal.，2012.Eect of diffrent light intensityon intensity chlorophyllcontent andchlorophyllfluorescence in Lithocarpus glaber[J]. JNE Agric Univ,43(4):88-92.[吴飞燕，伊力塔，李修鹏，等，2012.不同光照强度对石栎幼苗叶绿素含量及叶绿素荧光参数的影响[J]．东北农业大学学报，43(4):88-92.]  
+WU XQ, HUANG BL, DING YL,2004. The advance on the study of protection of rare and endangeredplants in China[J].JNanjing For Univ (Nat Sci Ed),(2):72-76.[吴小巧，黄宝龙，丁雨龙，2004.中国珍稀濒危植物保护研究现状与进展[J]．南京林业大学学报(自然科学版)，2004(2)：72-76.]  
+XU F,MOU JP, LIANG SY，1990. Wood anatomy of the Bhesa—New recorded genus of ChineseCelastraceae[J].Chin Bull Bot,(3):52-54.[徐峰，牟继平，梁盛业，1990．中国卫矛科新记录属-膝柄木属的木材解剖(简报)[J]．植物学通报，1990(3)：52-54.]  
+YANG GS, ZHANG AL, SHEN SK, et al., 2014. Effects of shading on the photosynthetic characteristicsand chlorophyll fluorescence of the endangered plant Yunnanopilia longistaminata[J]. Guihaia,34(6):806-811.[杨冠松，张爱丽，申仕康，等，2014．遮荫对濒危植物甜菜树光合生理和叶绿素荧光特性的影响[J]．广西植物，34（6）：806-811.]  
+YANG SH, PATI GL, WANG BK, et al., 2011. Effects of sunlight on processing tomato plug-seedling andits physiology[J].Xinjiang Agric Sci,48(9):1617-1623.[杨生保，帕提古丽，王柏柯，等，2011．光照对加工番茄穴盘苗植株形态及生理的影响[J]．新疆农业科学，48(9)：1617-1623.]  
+YUE GF,HAN ZQ, XUE ZW, et al.,2020. Effects of shading on flowering period and photosyntheticcharacteristics of peony[J].Jiangsu Agric Sci,48(17):166-170.[岳高峰，韩志强，薛志伟，等，2020．不同遮阴对牡丹花期和光合特性的影响[J].江苏农业科学，48（17）：166-170.]  
+ZHANG EP, ZHANG SH, SI LT, et al.,2001. Effects of NaCl stress on the membrance lipid peroxidationin cotyledon of cucumber seedlings[J].J Shenyang Agric Univ,(6):446-448.[张恩平，张淑红，司龙亭，等，2001.NaCl胁迫对黄瓜幼苗子叶膜脂过氧化的影响[J]．沈阳农业大学学报，(6)：446-448.]  
+ZHANG JT，LIU YQ， ZHAO PH，et al.，2007. Comparison of photosynthetic and physiologicalcharacteristics of occidental poplar young plants[J]. JCS Univ For Technol,27(4):8-11,22.[张江涛，刘友全，赵蓬晖,等，2007．欧美杨无性系幼苗的光合生理特性比较[J]．中南林业科技大学学报,27(4):8-11，22.]  
+ZHONG GG, XIE ST, SUFB,et al., 2016. Study on seed germination of rare and endangered plant Bhesasinensis[J].JNHortic,(5):83-85.[钟国贵，谢绍添，苏付保，等，2016．珍稀濒危植物膝柄木种子催芽研究[J]．北方园艺， (5)：83-85.]  
+ZHONG PA, SHAO D, HUANG YJ,et al., 2019. The photosynthesis characteristics and instantaneouswater-use efficiency of Capsicum annuum under different light conditions[J]. Acta Ecol Sin,
+
+38(7):2065-2071.[钟平安，邵东，黄英金，等，2019.不同光环境下辣椒光合特性和瞬时水分利用效率[J]．生态学杂志，38（7）：2065-2071.]ZHU FR，2019. Efects of drought stress on physiological and biochemical characteristics of threeherbaceous plants[J].Hubei Agric Sci,58(6):88-91.[朱凤荣，2019.干旱胁迫对三种草本植物生理生化特性的影响[J]．湖北农业科学，58(6)：88-91.]

@@ -1,0 +1,172 @@
+[
+    {
+        "type": "text",
+        "text": "A deblurring method for dynamic target observation of the geostationary interferometric microwave sounder (GIMS) ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ying Zhang1²,Hao Liu1, Ji $\\mathbf { W } \\mathbf { u } ^ { 1 }$ , Cheng Zhang',and Jieying He1 lKey Laboratory of Microwave Remote Sensing National Space Science Center, Chinese Academy of Sciences, Beijing 100190, China 2University of Chinese Academy of Sciences, Beijing 100049, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract—Brightness temperature change of observation target in one imaging period will introduce image blur to the retrieved image of geostationary interferometric microwave sounder (GIMS), which uses rotating circular array to realize time-sharing sampling other than snap-shot to reduce system complexity but meanwhile resulting in a relatively long imaging period. In this paper, an interpolation method utilizing time sequence of visibilities colected by time-sharing sampling is presented. The method is verified through a simulation system that simulates GIMS's observation process in viewing a series of near real case brightness temperature maps modeled by FNL/WRF/RTTOV method.Results show that the interpolation method can de-blur the image and reduce imaging error to the degree of snap-shot imaging. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nowadays,some geostationary earth orbit (GEO) microwave instruments at 50-56GHz and 183GHz have been proposed for its ability to retrieve atmospheric temperature and humidity profiles from radiometer observations and help investigate internal structure of tropical cyclone. Compared with low earth orbit sounding,sensors working at GEO orbit can continuously monitor the fullearth disk,thus performing real-time observation for fast changing weather such as tropical cyclones.However,to achieve a moderate spatial resolution around oxygen band (53GHz) in GEO observation,a quite large real aperture antenna is needed. Furthermore,deploying and scanning the large traditional real aperture antenna poses a big challenge for GEO satelite application. To overcome the problem, the technique of interferometric aperture synthesis has been put forward. It uses signals intercepted by multiple small antennas to yield angular response characteristics of a much larger antenna, realizing high spatial resolution while relieving system complexity. With this idea, some instruments have been proposed including GeoSTAR by Jet Propulsion Laboratory, NASA [1]; GAS by European Space Research and Technology Center，ESA [2];and geostationary interferometric microwave radiometer(GIMS）by National Space Science Center, Chinese Academy of Sciences [3].Fig 1 shows an artistic view of GIMS instrument. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BLURRINGPROBLEMANDDEBLURRINGMETHOD ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "As is shown in fig 1, GIMS uses a rotating circular aray[4] and is supposed to be working in the time-sharing mode.Fig 2 displays the instantaneous sampling coverage in frequency domain at two diferent time and can help illustrate time-sharing operating mode.The rotating circular array system collects part of visibilities in one integral period thus obtaining the incomplete instantaneous sampling coverage in frequency domain at time t1 shown in fig 2(a). As the circular array system rotates with time,assuming that it rotates an angle O from time t1 to t2,it willcollct another setof visibilities at time t2,leading tothe instantaneous sampling coverageat time t2 positioned at an angle 0 to the sampling coverage at time tl,which is shown in fig 2(b). Since the final image can’t be retrieved until complete sampling coverage is obtained in frequency domain, and samples in frequency domain are conjugate symmetric,the rotating circular arry needs to rotate half a circle to complete collcting allthe visibilities needed for image retrieval,therefore leading to a longer imaging period than that of the snap-shot operating mode, which collcts allthe visibilities needed for image retrieval in one integral period. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a53dc115987ab7e7c75a2fbf88c2887e53bdb480d9d4c0a21896ba3745bc7c40.jpg",
+        "img_caption": [
+            "Fig1.Artistic view of GIMS instrument "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e64acad92fc0b8df10637e57e87d41aa2798f6c00ead9ef39d35eebd3c196727.jpg",
+        "img_caption": [
+            "Fig 2. Instantaneous sampling coverage at time tl and time t2 ((a) time tl (b) time t2) "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "However,atmospheric parameters are under continuous variation,resulting in time-variant observational brightnes temperatures of the full earth disk.As a consequence，brightness temperature variations of observational target in the relatively long imaging period might introduce some blurring to the retrieved image for GIMS.In addition，according to target brightness temperature modeling for GIMS in [5],brightness temperature variation is particularly obvious in tropical cyclone area,hence amethod is expected to be employed to eliminate blurring and restore the retrieved image. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "An intuitive method is the interpolation method utilizing time sequence of visibilities colected by time-sharing sampling mode.Fig 3 ilustrates the relationship between time and visibility set obtained by the circular array system at each angle.The horizontal axis stands for time and the vertical axis stands for rotating angle of the circulararray systemrelative to its initial state.Each dot represents the visibility set, namely instantaneous samples obtained by the circular aray system at a particular angle of the coresponding time.The blue dots indicate sample sets obtained by rotating circular arry system.The red dots mean sample sets acquired by applying conjugate symmetry to samples represented by blue dots. As stated above,the circular array system neds to rotate half a circle to complete collcting all the visibilities needed for one image retrieval. A time sequence of visibilities for each sample set,or for each sample point,can be obtained after several imaging period, just as the horizontal solid line intersects 6 times with red and blue dots in fig 3 during the 6 imaging period,which means a time sequence of 6 values for each sample point in frequency domain. Then the interpolation method (nearest, linear,spline)can be used to get the interpolated value at a particular time from the time sequence of a sample point. Once the interpolation method is applied to each time sequence of all the sample points in frequency domain for a particular time t, then an image corrsponding to time t can be retrieved from the interpolated samples at time t shown as vertical black dotted line in fig 3. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e2d47b8d5e367e3ddde2b8b3022de7b9aa1be2218582f07ccb126075f9f7d8b.jpg",
+        "img_caption": [
+            "Fig 3.Relationship between time and visibility set obtained by the circular array system at each angle "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SIMULATIONRESULT ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The interpolation method mentioned above isverified by GIMS simulation system，which can simulate time-sharing sampling processof GIMS,manipulate samples with the above interpolation method and retrieve the brightness temperature map with pseudo-polar IFFT retrieval algorithm [6].The input to GIMS simulation system is a series of brightness temperature maps with 1Os time interval generated by FNL/WRF/RTTOV method,which models brightness temperature variations of the full earth disk during the super typhoon phase of tropical cyclone (TC) Usagi. Fig 4(a) demonstrates the $5 0 . 3 \\mathrm { G H z }$ input brightness temperature map at one time. The black ellipse illustrates the dynamic target—TC Usagi, which is zoomed in in fig 4(b). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Given the 1O seconds spaced input brightness temperature map sequence and configured with imaging period of 5 minutes, the simulation system generates the blurred retrieved image corrsponding to 5min imaging period and the de-blured retrieved image by applying the interpolation method. Since Quality of retrieved image can be quantified using RMS error between retrieved image and input image,fig 5 shows RMSE value for tropical cyclone area of blurred image,de-blurred image and the snap shot image which amounts to retrieved image for static observational target and can be used as a contrast to illustrate impact of observing dynamic target. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It can be discovered from fig 5 that RMSE of blurred image is higher than that of snap shot image for each of the 7 frequency channels，which means observing dynamic target indeed degrades the retrieved image. Comparing the three kind of interpolation method (nearest,spline,linear), nearest interpolation method makes no difference to the retrieved image.This might due to the fact that time sequence of samples for each sample point is too sparse, making interpolated samples of nearest interpolation the same as the unprocessd samples of time-sharing sampling. However,spline and linear interpolation method can reduce the imaging error,especially the spline method,which has a relatively steady de-blurring effect for allte frequency channels as well as reducing image error to the level of the referential snap-shot image. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a790b4ac29d6535ade6d10abed6000986bfc7a5e630aced03797540dda6f35f.jpg",
+        "img_caption": [
+            "Fig 4. Input brightness temperature map at one time (50.3GHz, (a) fullearth disk, (b) tropical cyclone Usagi area) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/67085c9d4c81b3ff9b58a63a5988724f2e844e3c172e0528e9022f4a3cac1f37.jpg",
+        "img_caption": [
+            "Fig 5.RMSE of snap-shot image,blurred image andde-blurred image for7frequencychannels (a) 50.3GHz, (b) 51.76GHz, (c) $5 2 . 8 \\mathrm { G H z }$ ,(d) 53.596GHz,(e) 54.4GHz,(f) 54.94GHz,(g) 55.5GHz) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To illustrate effect of spline interpolation de-bluring method and exclude inherent imaging error in retrieval algorithm,fig 6 shows the difference between absolute error map of blurred retrieved image and that of de-blurred image after using spline interpolation method at $5 0 . 3 \\mathrm { G H z }$ . It can be found spline interpolation reduce imaging error for tropical cyclone and the reduced eror mainly distributes on the left part of tropical cyclone area, which coincides exactly with spiral rain band depicted in fig 4(b).This is easy to understand since the spiral rain band has more intense variation relative to the background when TC spins around its center,and thus contributes most to the blur in the retrieved image.Therefore the de-blurring method will mainly have effect on this part. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2753c844c8ee0fa1e5d0c3b8b73c6c929773cb99f0d5dd96886180e3e3591e70.jpg",
+        "img_caption": [
+            "Fig 6.Difference between absolute error map of blurred retrieved image and that of de-blurred image of spline interpolation method at $5 0 . 3 \\mathrm { G H z }$ （20 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The proposed interpolation method can reduce imaging error caused by time-sharing sampling of GIMS when observing dynamic target. Specifically,the spline interpolation method can de-blur the retrieved image to the level of referential snap-shot image，which corrsponds to retrieved image for static observational target. Moreover，since the spline interpolation de-blurring method can be used to obtain restored image at any particular time, the method can also be employed to retrieve multiple images per imaging period,i.e. increase imaging temporal resolution. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "REFERENCE ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.A. B.Tanner, W.J. Wilson, and B.H.Lambrigsten et al.,“Initial results of the geostationary synthetic thinned array radiometer (GeoSTAR) demonstrator instrument,”IEEE Trans. Geosci. Remote Sens., vol.45, no.7, pp. 1947-1957. Jul. 2007.   \n2.J. Christensen,A. Carlstrom,and H.Ekstrom et al.,“GAS: the Geostationary Atmospheric Sounder,” in Proc. IGARSS, Barcelona, Spain, Jul.23-27,2007, pp. 223-226.   \n3.H.Liu, J. Wu, and S. W. Zhang et al.,“The Geostationary Interferometric Microwave Sounder (GIMS): Instrument Overview and Recent Progress,”in Proc. IGARSS, Vancouver,BC,Canada, Jul.24-29,2011,pp.   \n3629-3632.   \n4.C. Zhang, H.Liu,and J. Wu et al.,\"Geostationary Interferometric Microwave Sounder Demonstrator,” IEEE Trans. Geosci. Remote Sens.,vol. 53,No.1,pp.207-218,2015.   \n5.Y. Zhang, H.Liu,and J. Wu et al.,“Target brightness temperature simulation and analysis for the Geostationary Interferometric microwave sounder(GIMS),”inProc.IGARSS,Milan,Italy,Jul.26-31,2015, pp. 3477-3480.   \n6. C. Zhang, J. Wu, and W. Y. Sun,“Applications of pseudo-polar FFT in synthetic aperture radiometer imaging,” PIERS Online,vol.3,No.1, pp. 25-30,2007. ",
+        "page_idx": 4
+    }
+]

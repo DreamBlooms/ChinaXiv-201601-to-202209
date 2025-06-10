@@ -1,0 +1,423 @@
+[
+    {
+        "type": "text",
+        "text": "BIM技术在深圳平安金融中心南塔项目施工管理过程中的应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蔡连伟许子豪¹诸进¹郭瑞峰1 林丽思1 姜月菊(1.中建一局集团建设发展有限公司，北京100102；2.中国建筑一局集团有限公司,北京100102）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】随着经济的快速发展和科技的不断进步，现代信息技术已经广泛地应用在社会生产和人们的生活中。超高层大型建设项目，一般具有投资规模大、建设周期长、参建单位众多、施工管理难度大等特点。在总承包管理过程中,传统的信息沟通和管理方式已经远远不能满足要求。以BIM技术在深圳平安金融中心南塔项目施工管理过程中的应用为例,分别从BIM前期组织策划、构建BIM应用环境以及BIM技术在施工管理过程中的应用等方面阐述 BIM技术在超高层施工管理过程中的应用,为实现设计、施工一体化提供良好的技术手段和解决方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词】超高层建筑；BIM技术；施工管理",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【中图分类号】TU17 【文献标识码】A 【文章编号】1674-7461(2017)01-0035-05  \n【DOI】 10.16670/j.cnki.cn11-5823/tu.2017.01.06",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "， BIM是一个三维数字化技术，是集成了建筑工程项目各种相关信息的工程数据模型，BIM是对工程项目设施实体与功能特性的数字化表达[1]。BIM的提出和发展,对建筑业的科技进步产生了重大影响，应用BIM技术可望大幅度提高建筑工程的集成化程度，促进建筑业生产方式的转变，提高投资、设计 施工乃至整个工程生命期的质量和效率,提升科学决策和管理水平[2]。完整的建筑信息模型,是对工程对象的全面描述，能够连接建筑项目设计、施工和运营维护等阶段的数据、过程和资源，可被建设项目各参与方普遍使用[3]。应用BIM技术,在设计阶段就能发现后期施工可能遇到的各种问题，我们对此进行提前处理,为后期有序施工打下坚固基础，同时在施工阶段运用BIM技术指导工程施工,提供合理的施工方案及人员、材料需求,最大限度地实现资源的合理运用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "当今超高层建筑颇多，结构形式愈加复杂，超高层施工使企业和项目都面临巨大的投资风险、技术风险和管理风险。在工程项目施工的前期设计阶段，涉及海量的工程信息数据，不同专业的设计人员所掌握的数据都不尽相同，项目管理人员不能全面而精确地掌握各方面的相关信息。BIM技术可以让项目管理人员快速准确地获得工程基础数据，协助管理人员进行施工现场的精细化管理工作[4]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 工程概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. 1 项目简介",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本工程位于深圳市福田中心区，主塔楼由一栋49层约 $2 9 0 \\mathrm { m }$ 高超高层塔楼和不超过 $3 8 . 8 \\mathrm { m }$ 的群楼组成，塔楼集商务办公及高端酒店于一体。主塔楼为\"框架-核心筒－腰桁架\"抗侧力体系，地下室采用\"框架-剪力墙\"抗侧力体系。本工程于2015年8月5日开始施工，预计2018 年7月20日竣工。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本工程业主是中国平安建设发展有限公司，设计单位有KPF、宋腾添玛沙帝、CCDI。总承包单位是中国建筑一局集团有限公司。本项目各专业由【作者简介】蔡连伟(1989-）,男,助理工程师,中建一局集团建设发展有限公司,主要研究方向:BIM与施工管理;许子豪(1993－）,男,助理工程师,中建一局集团建设发展有限公司,主要研究方向:BIM与施工管理;诸进(1980-）,男,工程师,中建一局集团建设发展有限公司,主要研究方向;BIM与施工管理;郭瑞峰（1990-）,男,助理工程师,中建一局集团建设发展有限公司,主要研究方向：BIM与施工管理。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "项目总包统一管理。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本工程结构专业模型、地下一层机电模型如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 工程特点和难点",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于本工程属于超高层施工，所以在运用BIM技术之前，经过讨论列出了关于本工程的重点难点，例如作为超高层建筑，后期运维需求明确，BIM模型精度要求高；占地面积超大，但可利用场地狭小，合理规划有限场地难度大；用钢量大，二维CAD无法直观体现，深化设计难度大；施工工艺、工序复杂，筛选最优方案难度大；图纸版本多、设计变更数量多，工程资料管理难度大；质量安全管理难度大等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3BIM组织与应用环境",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "931 BIM应用目标",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了保证项目工期、提升项目质量,本工程将在施工阶段进行BIM建模及BIM技术应用,完成土建 钢结构、机电、幕墙、精装修等专业建模及模型整合，除建筑实体信息外，对施工过程中的深化设计、施工进度、资源管理等各类信息进行补充,最终形成竣工BIM模型。总包在与业主、顾问充分沟通的基础上，确定本工程的BIM应用目标。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2 实施方案",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在本工程实施开始前,先行制定了完整的 BIM实施方案，并针对本工程的重难点进行了具有目的性和针对性的BIM方案策划，具体内容如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. 团队组织",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在团队组织方面，项目创新BIM工作室作为项目BIM团队，其中包括项目总工以及各专业工程师在内的10多名技术人员，实现了多部门多专业的BIM 管理模式。除此之外，由我公司BIM中心牵头，组织项目上其他相关岗位的人员参与BIM培训，现如今项目上 $80 \\%$ 的人员已具备建模能力。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/68fdbd31c1335981efae98dcced2325d8033a8aa874c32a4e232bb57f80502cf.jpg",
+        "table_caption": [
+            "表1本项目重难点方案策划"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>困境及问题</td><td>策划及需求</td></tr><tr><td>合同规定，所有参建主体都必 须应用BIM</td><td>明确架构体系与管理流程、 BIM辅助会议召开</td></tr><tr><td>后期运维需求明确，BIM模型 精度要求高</td><td>编制BIM实施标准，统一建模 规则</td></tr><tr><td>合理规划有限场地难度大</td><td>建立现场场地平面布置模型， 并进行动态管理</td></tr><tr><td>钢材用量大、深化设计难度大</td><td>应用BIM三维技术进行深化 设计并出图</td></tr><tr><td>最优方案的筛选，有明确需求</td><td>通过施工模拟比选最优方案， 进行可视化交底</td></tr><tr><td>设计变更数量多</td><td>纸面变更与BIM模型同步，二 维三维对比管理</td></tr><tr><td>质量安全管理难度大</td><td>利用BIM平台、移动终端进行 现场管理</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.4 应用措施",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在BIM三维模型的基础上，进行建筑、结构、机电、装饰等各专业深化设计，并随工程进展绘制土建、机电、装修综合图，形成深化设计BIM模型，通过各专业三维图叠加、整合，做到三维可视化，及时发现综合图中各专业之间的错、漏、碰、缺等问题。通过软件对三维模型进行碰撞检查，并根据BIM模型提供碰撞检测报告，及时进行解决，以实现图纸设计零冲突、零碰撞，避免施工过程中的返工、停工等现象发生，大大减少设计变更，确保施工进度，为业主节约投资。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 BIM技术应用",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. 1 BIM建模 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "我集团公司在投标阶段，已经使用Revit软件建立本工程土建模型及部分机电模型，使用Tekla软件建立本工程钢结构模型及深化设计。总包负责本工程钢筋混凝土结构BIM模型、钢结构深化设计BIM模型、机电深化设计BIM模型，并对建筑、结构、机电专业的设计变更及洽商进行模型更新。幕墙、精装修等各专业分包在深化设计的基础上进行专业建模，由总包负责对各专业模型进行整合及核查，检查各专业之间的碰撞问题情况，对所发现的问题整理汇总形成碰撞报告及碰撞跟踪记录，及时组织业主、设计、专业承包商等单位对碰撞问题进行分析，根据讨论结论提出修改建议，各承包商对各自专业的BIM模型进行修改，对修改后BIM模型复核通过后最终形成变更决议。最终，总包负责提交竣工BIM 模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6a72d65c812706449feb6a7e2b0fc85eecf5dc99e3c181e2bb75e724ce08c0d.jpg",
+        "img_caption": [
+            "图1本工程结构专业模型、地下室部分机电模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.2BIM技术应用情况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "39 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)基于BIM技术的深化设计及协调管理",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "O为加强项目设计与施工的协调，我们在钢结构、土方、机电、幕墙、装修等各专业都进行了深化设计。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "钢结构深化设计,由于本工程存在大量的组合，梁和组合柱，在钢结构深化设计阶段，将Revit结构模型导入钢结构专业软件Tekla以后,应用专业软件进行节点深化、受力分析、构件优化,对本工程重要节点部位钢骨柱、钢骨梁，特别是钢构件与土建梁柱相交节点部位进行三维模拟，然后再将钢结构深化完成的模型再导人到Navisworks中进行碰撞检查使钢结构与机电、幕墙及精装修等专业之间存在的交叉问题彻底解决，本工程钢结构深化模型如图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土方开挖深化设计,为保证地下室底板浇筑质量，项目采用一次性底板浇筑，但由于原设计桩基承台与筏板及集水坑较为复杂，所以我们利用BIM模型把复杂的桩基、承台、筏板、集水坑变得非常直观，一目了然。本工程基础模型如图3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a6738f867d3bd0ff28de70345cfdd8e41cc2adb9d70b38cee484b4545356a99.jpg",
+        "img_caption": [
+            "图2本工程钢结构深化模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7585a35f7493260106600d7144dae9cff62d99ecb23d28d3d34303d5c1fca9f.jpg",
+        "img_caption": [
+            "图3本工程基础深化模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "机电深化设计，采用二三维一体化机电深化设计方式取代传统机电深化设计模式。此种方法可以提高效率及准确度，保证了二维管线综合排布和三维模型的质量，缩短了工作周期。本工程通过二三维一体化设计模式进行地下一层管线碰撞检查调整如图4所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "幕墙深化设计，利用结构模型以及设计外轮廓模型建立精细化的幕墙节点模型，通过对节点的优化设计确定幕墙深化设计方案，然后对整体幕墙系统进行建模。通过模型导出幕墙各构件加工图、施工图，结合数字化构件加工设备，实现幕墙构件预制的数字化精确加工，以保证相应部位的工程质量，并且大大减少传统的构件加工过程对工期带来的影响。本工程幕墙深化模型如图5所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/35297dcfa5da55cde6b7625ada421a3997d03c0f6d6614b654063de4856b4ad5.jpg",
+        "img_caption": [
+            "图4本工程通过二三维一体化设计模式进行地下一层管线碰撞检查调整"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "装修深化设计，依据深圳平安项目，制定出本项目的装修设计标准。总包粗装范围的隔墙、吊顶、室内抹灰等，我集团公司在BIM模型中进行搭建。本工程精装模型如图6所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2)基于BIM技术的施工组织设计验证",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过建立BIM模型，运用BIM4D动态管理技术，将BIM模型与工程施工进度计划链接起来，使工程施工进度通过4D动态模拟形式展现出来。对重点施工方案和关键部位的施工工艺、工序借助BIM 模型进行模拟和分析，优化施工方案及施工工艺，从而选择最佳的施工方案，提高方案的可行性。本工程钢结构连桥吊装模拟如图7所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/749d65be1bafaa5dff0317fbe330d41044693a35f9644363f12eac02b33aa74f.jpg",
+        "img_caption": [
+            "现场平面布置动态管理，通过4D施工进度模"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "拟软可实现对施工现场平面布置的动态模拟，有助于施工现场的有效管理。本工程平面布置动态管理如图8所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3)基于BIM技术的数字化测量三维扫描 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "AiXe用5馆",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "数字化测量机器人的应用，在建立BIM模型之后，可通过Trimble公司生产的具备伺服马达驱动、无线数据传输、无线操控功能的放样机器人设备进行现场BIM三维精确放样，增强放样的直观性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "三维数字扫描应用，采用三维数字化扫描技术，待钢构件加工完成后，采用激光扫描仪对钢构件分段扫描，通过扫描生成的点云模型在计算机中进行模拟拼装，代替工厂实体预拼装，用以检查构件加工精度，实现钢构件加工质量的预控。待铰接部位安装完成后，再对现场实体进行扫描，为幕墙、精装修等后续工序提供现场实测数据",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/daf3aeb3772ad046882919817df26046b31c324aa90970908fa23eb1dfc67b90.jpg",
+        "img_caption": [
+            "图6本工程精装模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c7ceb3bd4c8a3b86c6c4ecd0423fef9beae1f4842eac83b935ab4d8dbebea46a.jpg",
+        "img_caption": [
+            "图5本工程幕墙深化模型",
+            "图8本工程平面布置动态管理"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ff4d06c7d76d3cf5cdbf44add810efd4fe52fdb57993e4e057557f44357f92c.jpg",
+        "img_caption": [
+            "图7本工程钢结构连桥吊装模拟",
+            "图9移动端实施浏览包含信息链接的模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(4)基于BIM技术的现场质量安全管理",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以Navisworks作为平台，把现场的照片、资料、网页等多种形式整合到模型内。并通过移动端，在现场试试浏览模型，对比现场施工状况，快速判断问题所在。并按照划分施工段原则建立模型,结合阶段性施工进展，在Navisworks中漫游检查识别施工危险源，预先进行洞口标记，将更多的时间用于安全风险的评估与措施的制定。移动端实施浏览包含信息链接的模型如图9所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(5)基于BIM技术的项目管理平台系统",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于BIM平台的文档管理及各专业模型数据协同,本工程使用BIM信息管理平台,将参建各方的相关人员纳入到平台中，实现会议信息发布、往来函件记录、施工图纸管理等功能。同时利用 BIM协同平台，各专业的BIM模型更新后及时上传到平台士,并发布模型更新修改信息,供其他专业相关人员重新加载后使用,减少模型的构件重复搭建，提高工作效率,加强不同专业之间的沟通协作。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "50结语 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本工程在设计阶段、深化设计阶段、现场施工阶段均应用了BIM技术，并成功地应用了PW专业协同平台和普华信息管理平台，有效地提升了管理水平，节约了项目成本，提高了沟通效率。同时，我司还与天宝公司合作，加入了AR技术以及无人机技术，有效地控制施工进度，加强现场管理。BIM是社会信息技术发展的必然产物，是实现建筑信息化的必要途径，随着大型复杂建筑项目的兴起以及BIM应用软件的不断完善，越来越多的项目参与方在关注和应用BIM技术，使用BIM技术进行设计和项目管理的涵盖范围和领域也越发广泛。相信随着BIM相关理论和技术的不断发展，其将更加深远地影响建筑业的各方面[5]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1］National Institute of Standards and Technology.2009,4:13.  \n［2］中建《建筑工程施工BIM应用指南》编委会，中国建筑工业出版社.  \n［3］曹铭.基于IFC标准的建筑工程信息集成及4D施工管理研究[D].北京：清华大学土木工程系，2005.  \n［4］应于垦.利用BIM搭建项目精细化管理平台[J].新鲁班，2011，2.  \n[5］陈倩，张原.浅谈BIM技术及其应用[J].价值工程,2012，23.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The Application of BIM in the Project of Ping'an International Finance Center South Tower Construction Management ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Cai Lianwei，Xu Zihao，Zhu Jin，Guo Ruifeng，Lin Lisi，Jiang Yueju ( China Construction First Division Group Construction & Development Co.，Ltd., Beijing 1OO102，China） ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Abstract:With the rapid growth of economyand the progress of science and technology,modern information technology has been widelyused in industrial production as wellas dailylife.The projectsof super high-rise buildings involve large investment,long period of construction,participation of numerous contractors and complexity in construction management.In the principal contract management,the traditional way of information communication and management couldn't meet the requirements.As principal contractor，we adopted the BIM methodology to help us to manage thecomplexity.This paper takes the projectof South Tower,Pingan International Finance Centeras case study.Itdescribestheinitial phaseof the BIMorganizationand planning,theconstructionoftheBIMapplication environment and the application of BIM technology in the high-riseconstruction management.Itdemonstrates howthe management challenges were met through the integration of design and construction with BIM based solutions. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:High-rise Buildings；Building Information Modeling Technology；Construction Management ",
+        "page_idx": 4
+    }
+]

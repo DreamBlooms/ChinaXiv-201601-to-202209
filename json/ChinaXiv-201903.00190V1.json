@@ -1,0 +1,2786 @@
+[
+    {
+        "type": "text",
+        "text": "Mathematical principle of mxn resistor networks ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhi-Zhong Tan1\\* Zhen Tan²† 1.Department of physics,Nantong University, Nantong, 226019, China 2. School of Information Science and Technology,Nantong University, Nantong,226O19, China (2019-03-12) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The unified processing and research of multiple network models are implemented,and a new theoretical breakthrough is made,which sets up two new theorems on evaluating the exact electrical characteristics(potential and resistance） of the complex $m { \\times } n$ resistor networks bythe Recursion-Transform method with potential parameters (RT-V),applies to a variety of different types of lattice structure with arbitrary boundaries such as the nonregular $m { \\times } n$ rectangular networks and the nonregular $m { \\times } n$ cylindrical networks. Our research gives the analytical solutions of electrical characteristics of the complex networks (finite,semi-infinite and infinite), which has not been solved before.As applications of the theorems,a series of analytical solutions of potential and resistance of the complex resistor networks are discovered. In particular, three novel mathematical propositions are discovered when comparing the resistance in two resistor networks,and many interesting trigonometric identities are discovered as well. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:complex network, RT-V method, electrical properties, boundary conditions, trigonometric identity,Laplace equation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS : $0 5 . 5 0 . + \\mathrm { q } .$ 84.30.Bv,89.20.Ff, 02.10.Yn, 01.55.+b ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Subject Areas: Interdisciplinary Physics,Mathematical Physics, Condensed Matter Physics, Complex Networks ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I .Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Many complex scientific problems can be simulated by the resistor network model, such as many electrical and non-electrical problems in the field of physics,engineering and mathematics. The progress of circuit theory not only promotes the development of integrated circuit and electrification science but also promotes the interdisciplinary development of natural science. Resistor network models are so important that the issues of various disciplines can be studied by simulating resistor network, such as conduction in anisotropic disordered systems [1],percolation and conduction [2],Anisotropy in electrical conductivity [3]，Nonlinear localized modes in two-dimensional electrical latices [4],Electric circuit networks equivalent to chaotic quantum billiards [5],photonic crystal circuits [6],Manifesting the evolution of eigenstates from quantum billiards [7],dynamical signature of fractionalization [8],the processing of hexagonally sampled two dimensional signals [9],topological insulators and superconductors [1O],topological properties of linear circuit latices [11],topological spin excitations [12], three-dimensional printed meshes [13],topological insulator surface[14],fractional-order circuit network [15], the mean field theory [16,17], finite-size corrections of the dimer model[18],lattice Green's functions [19-22],resistance distance [23],and so on. In particular, two important equations of Poisson equation and Laplace equation [24,25] can be simulated by resistor network model [26]. In addition,a real plane network of graphene exists in the real nature. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It is well known that calculating the equivalent resistance between two arbitrary latice sites in a resistor network is always an important but dificult problem since it requires not only the circuit theory but also the innovative algebra. For example,when the boundary of resistor network is arbitrary,it is usually very difficult to obtain the exact potential and resistance of the complex networks with arbitrary boundaries. In fact, the boundary is like a wall or trap,which affects the solution of the problem. Therefore,the reality requiresus to create new theories to accurately calculate the electrical characteristics (voltage and resistance) of the complex circuit network. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Let's review the research history of resistor networks. In 1845 Kirchhoff established the basic circuit theory (the node current law and the circuit voltage law). After 15O years, Cserti [27] calculated the two-point resistance of the infinite network by Green's function technique,which is mainly focused on infinite lattces,and some applications of Green's function technique were obtained in later literature [28,29]. In 2OO4 Wu [30] formulated a different approach (call the Laplacian matrix method) and derived the explicit resistance in arbitrary finite and infinite lattices with normative boundary (such as free,periodic boundary etc.） in terms of the eigenvalues and eigenvectors of the Laplacian matrix,which relies on two matrices along two vertical directions. Later, the Laplacian matrix analysis has also been applied to impedance networks [31], after some improvements, several new resistor network problems have been resolved [32-34]. However, the Laplacian approach cannot apply to the network with arbitrary boundary since it is impossble to give the explicit eigenvalues for the arbitrary matrix elements (associating arbitrary boundaries). But the boundary condition is important since it is real case occurring in real life. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In 2011 Tan pioneered a new technique for studying complex resistor networks [35], which now is called Recursion-Transform (RT) theory of resistor networks [26]. The RT method depends on one matrix containing one directions,which is obviously diferent from the Laplacian method which depends on two matrices along two directions. With the development of the RT technique, many problems of non-regular network with zero resistor edges have been resolved [36-45]. In addition,the advantage of the RT method is that all resistance results are in a single summation differs from the Laplacian approach gave resistance results are in the form of a double summation. Recently,the RT method have been subdivided into two forms: one form is the matrix equation expressed by current parameters [38-44], which is simply called the RT-I method; another form is the matrix equation expressed by potential parameters [26, 45],which is simply called the $R T  – V$ method. Summarizing the previous applications of the RT (including RT-I and RT-V) method, it is not hard to see that the previous researches of the RT method all rely on the zero resistor boundary, such as the globe network[36,44] belongs to cylindrical network with two zero resistor boundaries, the cobweb network[26,40] belongs to cylindrical network with one zero resistor boundary, the fan network[37,45] belongs to rectangular network with one zero resistor boundary,and the hammock network[34, 43] belongs to rectangular network with two zero resistor boundaries. Obviously, how to study the complex network without zero resistor boundary by the RT method is a question. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb15bb6a4bfc119a9b4fdea122f7b896592c6d54bbfb6cd77d6675025bfb59a0.jpg",
+        "img_caption": [
+            "Fig.1.Anarbitrary $m { \\times } n$ resistor network with two arbitrary boundary resistors,where $n$ and $m$ are the maximum coordinate values of $( n , m )$ .Bonds in the horizontal and vertical directions are resistors $r$ and $r _ { 0 }$ except for two arbitrary boundary resistors of $r _ { 1 }$ and $r _ { 2 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This paper developed a new technique and improved the RT theory to allow us to study arbitrary resistor networks without relying on zero resistor boundary, which can derive the electrical properties (potential and resistance） of the arbitrary $m { \\times } n$ complex networks with complex boundaries. Here we build two new theorems lead to large problems to be resolved. Our study shows the universal RT method is very interesting and useful to solve the complex network. We focus on researching the electrical properties (potential and resistance) of Fig.1 and Fig.2 on two complex $m { \\times } n$ resistor networks with two arbitrary boundaries by the advanced RT-V method, which have not been resolved before.It is worth emphasizing that the non-regular complex networks with two arbitrary boundaries are the multi-purpose network model because it can produce various geometrical structure as shown in Figs.5-10. Thus a large number of problems of resistor networks will be resolved by this paper. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/aa1bc8b26213f05369eca3e43cc8d56ee7d5846b868ab76388cfee9b154d1774.jpg",
+        "img_caption": [
+            "Fig.2A nonregular cylindrical $m { \\times } n$ resistor network,where $n$ and $m$ are the maximum coordinate value of $( n , m )$ ，with the unit resistances $r$ and $r _ { 0 }$ in the respective horizontal and vertical (loop) directions except for two arbitrary boundary resistors of $r _ { 1 }$ and $r _ { 2 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "From the above analysis, professor Wu [3O] was the first to give several accurate equivalent resistance formulas for the regular resistor networks by the Laplacian matrix method,for the sake of comparative study, here we introduce two main results of resistor networks from Ref.[30]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Case-1. Consider Fig.1 with $r _ { 1 } = r _ { 2 } = r _ { 0 }$ is a regular $m { \\times } n$ rectangle network, where $n$ and $m$ are the maximum coordinate values of $( n , ~ m )$ ，resistors $r$ and $r _ { 0 }$ are bonded respectively in the horizontal and vertical directions, the resistance formula for Fig.1 is ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( d _ { 1 } , d _ { 2 } ) = \\frac { r } { m + 1 } \\big | x _ { 1 } - x _ { 2 } \\big | + \\frac { r _ { 0 } } { n + 1 } \\big | y _ { 1 } - y _ { 2 } \\big | +\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 2 } { ( m + 1 ) ( n + 1 ) } \\sum _ { i = 1 } ^ { m } \\sum _ { j = 1 } ^ { n } \\frac { [ C _ { x _ { 1 } , j } \\cos ( y _ { 1 } + \\frac { 1 } { 2 } ) \\theta _ { i } - C _ { x _ { 2 } , j } \\cos ( y _ { 2 } + \\frac { 1 } { 2 } ) \\theta _ { i } ] ^ { 2 } } { r ^ { - 1 } ( 1 - \\cos \\phi _ { j } ) + r _ { 0 } ^ { - 1 } ( 1 - \\cos \\theta _ { i } ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $C _ { x _ { k } , j } = \\cos ( x _ { k } + \\frac { 1 } { 2 } ) \\phi _ { j } ~ , \\quad \\theta _ { i } = i \\pi / ( m + 1 ) ~ , \\quad \\phi _ { j } = j \\pi / ( n + 1 ) ~ , \\quad d _ { 1 } ( x _ { 1 } , y _ { 1 } ) \\quad \\mathrm { a n d } \\quad d _ { 2 } ( x _ { 2 } , y _ { 2 } ) = 0 .$ are arbitrary two nodes in the network. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Case-2. Consider Fig.2 with $r _ { 1 } = r _ { 2 } = r _ { 0 }$ is a cylindrical $m { \\times } n$ resistor network, where $n$ and $m$ are the maximum coordinate values of $( n , ~ m )$ ，resistors $r$ and $r _ { 0 }$ are bonded respectively in the horizontal and vertical directions,the resistance formula for Fig.2 is ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l l r } {  { R _ { m \\times n } ( d _ { 1 } , d _ { 2 } ) = \\frac { r _ { 0 } } { n + 1 } \\Biggl ( \\bigl \\vert y _ { 1 } - y _ { 2 } \\bigr \\vert - \\frac { ( y _ { 1 } - y _ { 2 } ) ^ { 2 } } { m + 1 } \\Biggr ) + \\frac { r } { m + 1 } \\bigl \\vert x _ { 1 } - x _ { 2 } \\bigr \\vert } } \\\\ & { } & { + \\frac { 1 } { ( m + 1 ) ( n + 1 ) } \\sum _ { i = 1 } ^ { m } \\sum _ { j = 1 } ^ { n } \\frac { C _ { x _ { 1 } , j } ^ { 2 } } { r _ { 0 } ^ { - 1 } ( 1 - \\cos { 2 \\theta _ { i } } ) + r ^ { - 1 } ( 1 - \\cos { \\phi _ { j } } ) } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $C _ { x _ { k } , j } = \\cos ( x _ { k } + \\frac { 1 } { 2 } ) \\phi _ { j } , \\theta _ { i } = i \\pi / ( m + 1 ) , \\phi _ { j } = j \\pi / ( n + 1 ) .$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The above results were found for the first time by Wu. Later Refs.[32-34] improved the Laplacian matrix method to make it applicable to regular cobweb and hammock networks. However, the improved Wu method still cannot resolve the resistor network with arbitrary boundary, such as the networks with two arbitrary boundaries of Fig.1 and Fig.2.In addition, the equivalent resistance in Eqs.(1) and (2) are in the double summation not in a single sum. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9d49680f1bf2661e6bcf2114dac7543e7c230d97c6e4927f6a8334663b958a40.jpg",
+        "img_caption": [
+            "Fig.3 The resistor sub-network with the potential parameters. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "I . RT-V theory and Poisson equation ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Consider two kinds of complex $m { \\times } n$ resistor networks of Fig.1 and Fig.2, where $n$ and $m$ are the maximum coordinate values of $( n , \\ m )$ . Assume $A _ { 0 } ( 0 , 0 )$ is the origin of the rectangular coordinate system, and denoting nodes of the network by coordinate $\\{ \\mathbf { x } , \\mathbf { y } \\}$ . Assume the electric current $J$ goes from the input $d _ { 1 } ( x _ { 1 } , y _ { 1 } )$ to the output $d _ { 2 } ( x _ { 2 } , y _ { 2 } )$ . Denote the nodal potential of the sub-network is shown in Fig.3,and expressing the nodal potential at $d ( x , y )$ by $U _ { m \\times n } ( x , y ) = V _ { x } ^ { ( y ) }$ ： We will study the complex resistor networks in four steps. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The first step,seting up discrete Poisson equation based on the sub-network of Fig.3. By Kirchhoff law ( $\\cdot \\sum r _ { i } ^ { - 1 } V _ { k } = 0$ ） to set up the nodal potential equations along the vertical direction, we achieve a discrete static field equation (or call Poisson equation) for any network, ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\Delta _ { x } ^ { 2 } + h \\Delta _ { y } ^ { 2 } ) V _ { x } ^ { ( y ) } = - r I _ { x } ^ { ( y ) } \\delta _ { x , x _ { k } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $h = r / r _ { \\mathrm { 0 } }$ ，and $I _ { x } ^ { ( y ) } = J ( \\delta _ { y , y _ { 1 } } - \\delta _ { y , y _ { 2 } } )$ contains the input and output conditions of the current, $\\Delta _ { x } ^ { 2 } V _ { x } ^ { ( y ) } = V _ { x + 1 } ^ { ( y ) } - 2 V _ { x } ^ { ( y ) } + V _ { x - 1 } ^ { ( y ) }$ and $\\Delta _ { y } ^ { 2 } V _ { x } ^ { \\mathrm { ( y ) } } = V _ { x } ^ { \\mathrm { ( y + l ) } } - 2 V _ { x } ^ { \\mathrm { ( y ) } } + V _ { x } ^ { \\mathrm { ( y - l ) } }$ denote second order discrete equation, and when $x _ { k } \\neq x$ ，Eq.(3） reduces to the discrete Laplace equation $( \\Delta _ { x } ^ { 2 } + h \\Delta _ { y } ^ { 2 } ) V _ { x } ^ { ( y ) } = 0$ .For the arbitrary network together with the upper and lower boundary conditions,by Eq.(3) we are led to ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { V } _ { k + 1 } = \\mathbf { A } _ { m + 1 } \\mathbf { V } _ { k } - \\mathbf { V } _ { k - 1 } - r \\mathbf { I } _ { k } \\delta _ { k , x } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $\\boldsymbol { V } _ { \\boldsymbol { k } }$ and $\\boldsymbol { { \\cal I } } _ { x }$ are respectively $( m + 1 ) \\times 1$ column matrixes, and reads ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { { \\mathbf { V } _ { k } } = \\Big [ { { \\boldsymbol { V } } _ { k } ^ { \\left( 0 \\right) } } , \\mathrm { { \\boldsymbol { V } } } _ { k } ^ { \\left( 1 \\right) } , \\mathrm { { \\boldsymbol { V } } } _ { k } ^ { \\left( 2 \\right) } , \\mathrm { { \\boldsymbol { \\cdots } } } , { { \\boldsymbol { V } } _ { k } ^ { \\left( m \\right) } } \\Big ] ^ { T } , } \\\\ & { { \\mathbf { I } _ { k } } = \\Big [ { { \\boldsymbol { I } } _ { 0 } ^ { \\left( y \\right) } } , \\mathrm { { \\boldsymbol { I } } } _ { 1 } ^ { \\left( y \\right) } , \\mathrm { { \\boldsymbol { I } } } _ { 2 } ^ { \\left( y \\right) } , \\mathrm { { \\boldsymbol { \\cdots } } } , { { \\boldsymbol { I } } _ { n } ^ { \\left( y \\right) } } \\Big ] ^ { T } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "and ${ \\bf A } _ { m + 1 }$ is the matrix built along the vertical direction.For Fig.1 and Fig.2, the $\\mathbf { A } _ { m + 1 }$ is ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { A } _ { m + 1 } = \\left( \\begin{array} { l l l l l l } { 2 + h + b h } & { - h } & { 0 } & { 0 } & { - b h } \\\\ { - h } & { 2 ( 1 + h ) } & { - h } & { 0 } & { 0 } \\\\ & { \\vdots } & { \\ddots } & { } & { \\vdots } \\\\ { 0 } & { 0 } & { - h } & { 2 ( 1 + h ) } & { - h } \\\\ { - b h } & { 0 } & { 0 } & { - h } & { 2 + h + b h } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $b = r _ { 0 } / r _ { 3 }$ ,and $r _ { 3 }$ is the resistor between $( x , 0 )$ and $( x , m )$ in Fig.2,when $b = 0 ( r _ { 3 } = \\infty )$ the $A _ { m + 1 }$ belongs to Fig.1; when $b = 1 ( r _ { 3 } = r _ { 0 } )$ ，the $A _ { m + 1 }$ belongs to Fig.2. The purpose of introducing $r _ { 3 }$ is to express two different resistor networks uniformly. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The second step, consider the boundary conditions of the left and right edges in the network of Fig.1 and Fig.2. Applying Kirchhoffs law $ { \\sum } r _ { i } ^ { - 1 } V _ { k } = 0$ ） to each of the left and right boundaries, we obtain two matrix equations of boundary conditions, ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { h } _ { 1 } { \\bf V } _ { 1 } = [ { \\bf A } _ { m + 1 } - ( 2 - h _ { 1 } ) { \\bf E } ] { \\bf V } _ { 0 } \\ , } } \\\\  { { \\displaystyle h _ { 2 } { \\bf V } _ { n - 1 } = [ { \\bf A } _ { m + 1 } - ( 2 - h _ { 2 } ) { \\bf E } ] { \\bf V } _ { n } \\ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $h _ { 1 } = r _ { 1 } / r _ { 0 } , h _ { 2 } = r _ { 2 } / r _ { 0 } , \\textbf { E }$ is the $( m + 1 ) \\times ( m + 1 )$ identity matrix, matrix ${ \\bf A } _ { m + 1 }$ is given by Eq.(7). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Equations (4)-(9) are all the equations we need to compute the node potential. However, it is impossible for us to get the solution of the above equations directly. Thanks to the RT theory of Tan that gave the matrix transform method [26,38-40] and we create the new technique here. In the following we are going to give the transformation technology based on RT-V theory. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The third step, creating matrix transform. Firstly, we work out the eigenvalue $t _ { i }$ of matrix $\\mathbf { A } _ { m + 1 }$ ，which is given by solving determinantal equation of det $\\left| { \\bf A } _ { m + 1 } - t { \\bf E } \\right| = 0$ （just $b = 0$ and $b = 1$ ),yields ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt _ { i } = 2 ( 1 + h ) - 2 h \\cos \\theta _ { i } , ( i = 0 , 1 , \\cdots , m )\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $\\theta _ { i } = ( 1 + b ) i \\pi / ( m + 1 )$ ,and $b = 0$ for Fig.1, $b = 1$ for Fig.2. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Next to transform Eqs.(4)-(9) by the following approaches ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { { \\bf P } _ { m + 1 } { \\bf A } _ { m + 1 } = \\mathrm { d i a g } \\{ t _ { 0 } , t _ { 1 } , \\cdots , t _ { m } \\} { \\bf P } _ { m + 1 } , } \\\\ { { \\bf X } _ { k } = { \\bf P } _ { m + 1 } { \\bf V } _ { k } \\mathrm { o r } { \\bf V } _ { k } = ( { \\bf P } _ { m + 1 } ) ^ { - 1 } { \\bf X } _ { k } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathbf { X } _ { k } = \\left[ X _ { k } ^ { \\left( 0 \\right) } , X _ { k } ^ { \\left( 1 \\right) } , \\cdots , X _ { k } ^ { \\left( m \\right) } \\right] ^ { T }$ . Assuming $P _ { i }$ is the row vectors of matrix $\\pmb { P } _ { m + 1 }$ , such as ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { i } = \\left[ \\zeta _ { 0 , i } , \\zeta _ { 1 , i } , \\zeta _ { 2 , i } , \\cdots , \\zeta _ { m , i } \\right] .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Thus,we multiply Eq.(4) from the left-hand side by $\\pmb { P } _ { m + 1 }$ , we get ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { k + 1 } ^ { ( i ) } = t _ { i } X _ { k } ^ { ( i ) } - X _ { k - 1 } ^ { ( i ) } - r J ( \\delta _ { x _ { 1 } , k } \\zeta _ { y _ { 1 } , i } - \\delta _ { x _ { 2 } , k } \\zeta _ { y _ { 2 } , i } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where Eqs.(11) and (12) are used. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Similarly, applying ${ \\bf P } _ { m + 1 }$ to Eqs.(8) and(9),we are led to ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { h _ { 1 } X _ { 1 } ^ { ( i ) } = ( t _ { i } + h _ { 1 } - 2 ) X _ { 0 } ^ { ( i ) } , } } \\\\ { { { } } } \\\\ { { h _ { 2 } X _ { n - 1 } ^ { ( i ) } = ( t _ { i } + h _ { 2 } - 2 ) X _ { n } ^ { ( i ) } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The above Eqs.(1O)-(16) are all essential equations for evaluating the node potential. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The fourth step, solving the matrix equations (13)-(16). Selecting $\\sum _ { i = 0 } ^ { m } V _ { 0 } ^ { ( i ) } = \\frac { 1 } { 2 } ( x _ { 2 } - x _ { 1 } ) r J$ as the reference potential, by Eqs.(14)-(16), we obtain after some algebra and reduction the solution, ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { k } ^ { ( 0 ) } = \\frac { 1 } { \\sqrt { 2 - b } } \\Bigg ( \\frac { x _ { 1 } + x _ { 2 } } { 2 } - x _ { \\tau } \\Bigg ) r J ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $b = 0$ for Fig.1, $b = 1$ for Fig.2, and $\\boldsymbol { x } _ { \\ u { \\tau } }$ is defined in Eq.(26) below, and have ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { k } ^ { ( i ) } = \\frac { \\beta _ { k \\vee x _ { 1 } } ^ { ( i ) } \\zeta _ { y _ { 1 } , i } - \\beta _ { k \\vee x _ { 2 } } ^ { ( i ) } \\zeta _ { y _ { 2 } , i } } { ( t _ { i } - 2 ) G _ { n } ^ { ( i ) } } r J , ( i \\geq 1 )\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $C _ { k , i }$ ， $\\beta _ { k , s } ^ { ( i ) }$ ， $G _ { k } ^ { ( i ) }$ （204号 are,respectively, defined in Eqs.(19)-(25) below. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The $R T  – V$ theory. The above method of establishing recursive matrix equations with voltage parameters, implementing matrix transform and obtaining the solutions of matrix equations is called $R T  – V$ theory. The detailed content of the $R T  – V$ theory (Recursion- Transform theory with potential parameters) can be found by the above four steps in Eq.(3)-(18). Here we give a summary of the RT-V theory on the consists of four steps: The first step creates a main matrix equation of potential distributions along the $\\mathrm { \\Delta Y }$ axis (such as the build of Eqs.(3)-(7))； The second step builds the constraint equations (including boundary conditions) of nodal potentials (such as seting up Eqs.(8) and (9)); The third step diagonalizes the matrix relation to reduce the equations from two dimension to one dimension(such as converting Eq.(4) to Eq.(14) et al.); The fourth step figures out the analytic solution of the equations (such as the results of Eqs.(17) and (18)), then makes the inverse matrix transform by Eq.(12) to derive the analytical solutions of nodal potential and gives the resistance formula by ohm's law. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "III. Two theorems of resistor networks ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A.Several definitions ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In order to facilitate and simplify the expression of the solutions of matrix equations, we define several variables of $C _ { k , i }$ and $\\lambda _ { i } , \\overline { { \\lambda } } _ { i }$ for later uses, ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { C _ { y _ { k } , i } = \\cos ( y _ { k } + \\displaystyle \\frac { 1 } { 2 } ) \\theta _ { i } , C _ { y _ { k } - y } = \\cos ( y _ { k } - y ) \\theta _ { i } , } } \\\\ { { \\ } } \\\\ { { \\lambda _ { i } = 1 + h - h \\cos \\theta _ { i } + \\sqrt { \\left( 1 + h - h \\cos \\theta _ { i } \\right) ^ { 2 } - 1 } , } } \\\\ { { \\ } } \\\\ { { \\overline { { { \\lambda _ { i } } } } = 1 + h - h \\cos \\theta _ { i } - \\sqrt { \\left( 1 + h - h \\cos \\theta _ { i } \\right) ^ { 2 } - 1 } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "with ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta _ { i } = ( 1 + b ) i \\pi / ( m + 1 ) , \\left\\{ \\begin{array} { c } { { b = 0 \\mathrm { ~ f o r ~ } \\mathrm { F i g . } 1 } } \\\\ { { b = 1 \\mathrm { ~ f o r ~ } \\mathrm { F i g . } 2 } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "And define variables $F _ { k } ^ { ( i ) } , \\alpha _ { s , x } ^ { ( i ) } , \\beta _ { k , s } ^ { ( i ) }$ and Gi) for later uses by ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { F _ { k } ^ { ( i ) } = ( \\lambda _ { i } ^ { k } - \\overline { { \\lambda } } _ { i } ^ { k } ) \\big / ( \\lambda _ { i } - \\overline { { \\lambda } } _ { i } ) , \\Delta F _ { k } ^ { ( i ) } = F _ { k + 1 } ^ { ( i ) } - F _ { k } ^ { ( i ) } . } \\\\ & { \\begin{array} { r l } { \\alpha _ { s , x } ^ { ( i ) } = \\Delta F _ { x } ^ { ( i ) } + ( h _ { s } - 1 ) \\Delta F _ { x - 1 } ^ { ( i ) } , h _ { s } = r _ { s } \\big / r _ { 0 } . } \\end{array} } \\\\ & { \\begin{array} { r l } { \\beta _ { x \\vee x _ { s } } ^ { ( i ) } = \\left\\{ \\begin{array} { r l r } { \\beta _ { x , x } ^ { ( i ) } = \\varpi _ { 1 , x } ^ { ( i ) } \\alpha _ { 2 , n - x _ { s } } ^ { ( i ) } , } & & { \\mathrm { i f } x \\leq x _ { s } } \\\\ { \\beta _ { x , x } ^ { ( i ) } = \\varpi _ { 1 , x _ { s } } ^ { ( i ) } \\alpha _ { 2 , n - x } ^ { ( i ) } , } & & { \\mathrm { i f } x \\geq x _ { s } } \\end{array} \\right. , } \\end{array} } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { n } ^ { ( i ) } = F _ { n + 1 } ^ { ( i ) } + ( h _ { 1 } + h _ { 2 } - 2 ) F _ { n } ^ { ( i ) } + ( h _ { 2 } - 1 ) ( h _ { 1 } - 1 ) F _ { n - 1 } ^ { ( i ) } .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The above definitions are applicable to the entire article. All of these definitions are meant to illstrate the following two fundamental theorems,and we always assume that the electric current $J$ goes from the input $d _ { 1 } ( x _ { 1 } , y _ { 1 } )$ to the output $d _ { 2 } ( x _ { 2 } , y _ { 2 } )$ in our entire paper. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "B. Two fundamental theorems ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Theorem-1. Consider the arbitrary $m \\times n$ resistor networks of Fig.1 and Fig.2 whose maximum coordinate value is $( n , ~ m )$ . Then the potential of node $d ( x , y )$ in the $m \\times n$ resistor ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "network can be written as ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { m \\times n } ( x , y ) = \\frac { 1 } { ( \\zeta _ { k , i } , \\overline { { { \\zeta } } } _ { k , i } ) } \\sum _ { i = 0 } ^ { m } X _ { x } ^ { ( i ) } \\overline { { { \\zeta } } } _ { y , i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $( \\zeta _ { k , i } , \\overline { { \\zeta } } _ { k , i } ) = \\sum _ { k = 0 } ^ { m } \\zeta _ { k , i } \\overline { { \\zeta } } _ { k , i }$ ，and $\\zeta _ { y , i }$ is defined in Eq.(13), $\\overline { { \\zeta } } _ { y , i }$ is the conjugate complex of $\\zeta _ { y , i }$ ，and $X _ { k } ^ { ( i ) }$ is the solution of the matrix equation (14） together with the boundary condition equations.Formula (26) is a general formula which is suitable for any resistor network model. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In particular, when selecting $\\sum _ { i = 0 } ^ { m } V _ { 0 } ^ { ( i ) } = \\frac { 1 } { 2 } ( x _ { 2 } - x _ { 1 } ) r J$ as the reference potential, the potential of node $d ( x , y )$ in the $m \\times n$ resistor networks can be written as ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { m \\times n } ( x , y ) = \\frac { \\overline { { { x } } } - x _ { \\tau } } { m + 1 } r J + \\frac { 2 - b } { m + 1 } \\sum _ { i = 1 } ^ { m } X _ { x } ^ { ( i ) } \\overline { { { \\zeta } } } _ { y , i } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $\\overline { { x } } = ( x _ { 1 } + x _ { 2 } ) / 2$ ， $\\overline { { \\zeta } } _ { y , i }$ is the conjugate complex of $\\zeta _ { y , i }$ (there be $\\overline { { \\zeta } } _ { y , i } = \\zeta _ { y , i }$ if $\\zeta _ { y , i }$ is just a real number), and $\\boldsymbol { x } _ { \\ u { \\tau } }$ is a piecewise function ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { \\tau } = \\left\\{ \\begin{array} { l l } { x _ { 1 } , } & { 0 \\leq x \\leq x _ { 1 } } \\\\ { x , } & { x _ { 1 } \\leq x \\leq x _ { 2 } } \\\\ { x _ { 2 } , } & { x _ { 2 } \\leq x \\leq n } \\end{array} \\right. ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "and $X _ { k } ^ { ( i ) }$ is given by (18) which is the solution of equations (13)-(16). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Theorem-2. Consider the arbitrary $m \\times n$ resistor networks of Fig.1 and Fig.2 whose maximum coordinate value is $( n , m )$ . Then the resistance between any two nodes $d _ { 1 } ( x _ { 1 } , y _ { 1 } )$ and $d _ { 2 } ( x _ { 2 } , y _ { 2 } )$ in the network is given by ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( d _ { 1 } , d _ { 2 } ) = \\frac { 1 } { ( \\zeta _ { y , i } , \\overline { { \\zeta } } _ { y , i } ) } \\sum _ { i = 0 } ^ { m } \\frac { X _ { x _ { 1 } } ^ { ( i ) } \\overline { { \\zeta } } _ { y _ { 1 } , i } - X _ { x _ { 2 } } ^ { ( i ) } \\overline { { \\zeta } } _ { y _ { 2 } , i } } { J } .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $X _ { k } ^ { ( i ) }$ is the solution of the matrix equation (14） together with the boundary condition equations,Formula (29) is a general formula which is suitable for any resistor network model. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In particular,for the networks of Fig.1 and Fig.2, the resistance between two nodes $d _ { 1 } ( x _ { 1 } , y _ { 1 } )$ and $d _ { 2 } ( x _ { 2 } , y _ { 2 } )$ can be written as ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( d _ { 1 } , d _ { 2 } ) = \\frac { \\left| x _ { 1 } - x _ { 2 } \\right| } { m + 1 } r + \\frac { 2 - b } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { X _ { x _ { 1 } } ^ { ( i ) } \\overline { { \\zeta } } _ { y _ { 1 } , i } - X _ { x _ { 2 } } ^ { ( i ) } \\overline { { \\zeta } } _ { y _ { 2 } , i } } { J } .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $b = 0$ is the case of Fig.1, and $b = 1$ is the case of Fig.2,and $X _ { k } ^ { ( i ) }$ is given by(18） which is the solution of equations (13)-(16). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The above two new theorems contain a wide variety of geometric structure of the network model,which can produce many new results of potential and resistance，and can create new 9 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "mathematical identity (see the section 6). In the following, we are going to prove the correctness of two theorems. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "C.Proof of theorems ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Consider the $m { \\times } n$ resistor network with two arbitrary boundaries shown in Fig.1 and Fig.2, in the introduction,we have built the key Eqs.(4)-(9) by the RT-V theory,and converted the equations to Eqs.(14)-(16),and derived Eqs.(17) and (18). Now we will work out the exact eigenvalues of matrix $\\mathbf { A } _ { m + 1 }$ in Eq.(7). Eq.(1O) can be derived by solving equation ( $\\operatorname* { d e t } \\bigl | \\mathbf { A } _ { { m } } - t \\mathbf { E } \\bigr | = 0$ ，and then we need to consider two cases below. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "One is For Fig.1, substituting Eq.(10) into (11) with $b = 0$ in $\\mathbf { A } _ { m + 1 }$ ， we get the eigenvectors ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { P } _ { m + 1 } = \\left( \\begin{array} { c c c c } { 1 / \\sqrt { 2 } } & { 1 / \\sqrt { 2 } } & { \\hdots } & { 1 / \\sqrt { 2 } } \\\\ { \\cos \\nu _ { 0 } \\theta _ { 1 } } & { \\cos \\nu _ { 1 } \\theta _ { 1 } } & { \\hdots } & { \\cos \\nu _ { m } \\theta _ { 1 } } \\\\ { \\vdots } & { \\vdots } & { \\ddots } & { \\vdots } \\\\ { \\cos \\nu _ { 0 } \\theta _ { m } } & { \\cos \\nu _ { 1 } \\theta _ { m } } & { \\hdots } & { \\cos \\nu _ { m } \\theta _ { m } } \\end{array} \\right) \\mathrm { ~ , ~ }\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where $\\nu _ { \\boldsymbol { k } } = k + 1 / 2$ ，and $\\theta _ { i } = i \\pi / ( m + 1 )$ . By careful calculation, the inverse matrix can be easily obtained ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\bf P } _ { m + 1 } ^ { - 1 } = \\frac { 2 } { m + 1 } \\big [ { \\bf P } _ { m + 1 } \\big ] ^ { T } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where $[ \\mathbf { \\Psi } ] ^ { T }$ denote matrix transpose. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Thus, the term $\\zeta _ { k , i }$ appeared in Eq.(13) can be specifically rewriten as ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\overline { { \\zeta } } _ { y , 0 } = \\zeta _ { y , 0 } = 1 \\big / \\sqrt { 2 } , ( 0 \\leq y \\leq m ) } } \\\\ { { \\overline { { \\zeta } } _ { y , i } = \\zeta _ { y , i } = \\cos ( y + \\frac { 1 } { 2 } ) \\theta _ { i } , ( i \\geq 1 ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Another is For fig.2, substituting Eq.(1O) into (11） with $b = 1$ in $\\mathbf { A } _ { m + 1 }$ ， the eigenvector is obtained after some algebra and derivation, ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { P } _ { m + 1 } = \\left( \\begin{array} { c c c c c } { 1 } & { 1 } & { 1 } & { \\cdots } & { 1 } \\\\ { 1 } & { \\exp ( \\mathrm { i } \\theta _ { 1 } ) } & { \\exp ( \\mathrm { i } 2 \\theta _ { 1 } ) } & { \\cdots } & { \\exp ( \\mathrm { i } m \\theta _ { 1 } ) } \\\\ { \\vdots } & { \\vdots } & { \\ddots } & { \\vdots } \\\\ { 1 } & { \\exp ( \\mathrm { i } \\theta _ { m } ) } & { \\exp ( \\mathrm { i } 2 \\theta _ { m } ) } & { \\cdots } & { \\exp ( \\mathrm { i } m \\theta _ { m } ) } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where $\\theta _ { i } = 2 i \\pi / ( m + 1 ) ~ ( i = 0 , 1 , 2 , \\cdots m )$ . According to strict calculations, the inverse matrix reads ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { P } _ { m + 1 } ^ { - 1 } = \\frac { 1 } { m + 1 } \\left( \\begin{array} { c c c c } { 1 } & { 1 } & { \\cdots } & { 1 } \\\\ { 1 } & { \\exp ( - \\mathrm { i } \\theta _ { 1 } ) } & { \\cdots } & { \\exp ( - \\mathrm { i } \\theta _ { m } ) } \\\\ { \\vdots } & { \\vdots } & { \\ddots } & { \\vdots } \\\\ { 1 } & { \\exp ( - \\mathrm { i } m \\theta _ { 1 } ) } & { \\cdots } & { \\exp ( - \\mathrm { i } m \\theta _ { m } ) } \\end{array} \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Thus, the term $\\zeta _ { k , i }$ appeared in Eq.(13) can be specifically rewritten as ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\zeta _ { y , 0 } = \\overline { { { \\zeta } } } _ { y , 0 } = 1 , \\quad ( 0 \\leq y \\leq m ) } } \\\\ { { \\zeta _ { y , i } = \\exp ( \\mathrm { i } y \\theta _ { i } ) , \\quad \\overline { { { \\zeta } } } _ { y , i } = \\exp ( - \\mathrm { i } y \\theta _ { i } ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We find that Eq.(32) and Eq.(36) can be rewritten as a unified form below ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { P } _ { m + 1 } ^ { - 1 } = \\frac { 1 } { ( \\zeta _ { k , i } , \\overline { { \\zeta } } _ { k , i } ) } \\left( \\begin{array} { c c c c } { \\overline { { \\zeta } } _ { 0 , 0 } } & { \\overline { { \\zeta } } _ { 0 , 1 } } & { \\cdots } & { \\overline { { \\zeta } } _ { 0 , m } } \\\\ { \\overline { { \\zeta } } _ { 1 , 0 } } & { \\overline { { \\zeta } } _ { 1 , 1 } } & { \\cdots } & { \\overline { { \\zeta } } _ { 1 , m } } \\\\ { \\vdots } & { \\vdots } & { \\ddots } & { \\vdots } \\\\ { \\overline { { \\zeta } } _ { m , 0 } } & { \\overline { { \\zeta } } _ { m , 1 } } & { \\cdots } & { \\overline { { \\zeta } } _ { m , m } } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "where $( \\zeta _ { k , i } , \\overline { { \\zeta } } _ { k , i } ) = \\sum _ { k = 0 } ^ { m } \\zeta _ { k , i } \\overline { { \\zeta } } _ { k , i }$ , and $\\overline { { \\zeta } } _ { y , i }$ is the conjugate complex of $\\zeta _ { y , i }$ ： ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Using Eq.(12), we have $\\mathbf { V } _ { k } = ( \\mathbf { P } _ { m + 1 } ) ^ { - 1 } \\mathbf { X } _ { k }$ , expanding this matrix equation, then we get ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { k } ^ { ( y ) } = \\frac { 1 } { ( \\zeta _ { k , i } , \\overline { { \\zeta } } _ { k , i } ) } \\Bigg ( X _ { k } ^ { ( 0 ) } \\overline { { \\zeta } } _ { y , 0 } + \\sum _ { i = 1 } ^ { m } X _ { k } ^ { ( i ) } \\overline { { \\zeta } } _ { y , i } \\Bigg ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Equation (4O) agrees with the formula (26) that we need to verify. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Further, we get $( \\zeta _ { k , i } , \\overline { { \\zeta } } _ { k , i } ) = \\frac { m + 1 } { 2 - b }$ bycomparing equation (39）with equations (32)nd (36). And when selecing $\\sum _ { i = 0 } ^ { m } V _ { 0 } ^ { ( i ) } = \\frac { 1 } { 2 } ( x _ { 2 } - x _ { 1 } ) r J$ ， we have Eq.(17). Substituting Eqs.(17), (33) and (37) into Eq.(4O), then Eq.(27) can be verified immediately. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Next, we verify Eqs.(29) and (3O),by ohm's law, we have ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( d _ { 1 } , d _ { 2 } ) = \\frac { 1 } { J } [ V ( x _ { 1 } , y _ { 1 } ) - V ( x _ { 2 } , y _ { 2 } ) ] .\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Substituting Eq.(26) with $x = \\{ x _ { 1 } , x _ { 2 } \\}$ and $y = \\{ y _ { 1 } , y _ { 2 } \\}$ into Eq.(41),we therefore obtain Eq.(29). Substituting Eq.(27) with $x = \\{ x _ { 1 } , x _ { 2 } \\}$ and $y = \\{ y _ { 1 } , y _ { 2 } \\}$ into Eq.(41)，we immediately obtain Eq.(30). Thus, two theorems are verified. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In subsequent section we consider applications of theorems to arbitrary lattices. In all applications, we stipulate all parameters in Eqs.(18)-(39) apply to all resistor networks,and denote the resistors along the two principal directions by $r$ and $r _ { 0 }$ except for resistors on the left-right boundaries, and the input and output nodes of current are respectively at $d _ { 1 } ( x _ { 1 } , y _ { 1 } )$ and $d _ { 2 } ( x _ { 2 } , y _ { 2 } )$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "IV. Electrical properties of complex rectangular network ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A. Nodal potential of complex rectangular network ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Consider the non-regular $m \\times n$ resistor network shown in Fig.1，where the maximun ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "coordinate is $( n , m )$ , selecting $\\sum _ { i = 0 } ^ { m } V _ { 0 } ^ { ( i ) } = \\frac { 1 } { 2 } ( x _ { 2 } - x _ { 1 } ) r J$ as the reference potential, the potential of any node $d ( x , y )$ in the finite and sem-infinite networks can be written as ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U _ { m \\times n } ( x , y ) } { J } = \\frac { \\overline { { { x } } } - x _ { \\tau } } { m + 1 } r + \\frac { r _ { 0 } } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { \\beta _ { x _ { 1 } \\times x } ^ { ( i ) } C _ { y _ { 1 } , i } - \\beta _ { x _ { 2 } \\times x } ^ { ( i ) } C _ { y _ { 2 } , i } } { ( 1 - \\cos \\theta _ { i } ) G _ { n } ^ { ( i ) } } C _ { y , i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U _ { m \\times \\infty } ( x , y ) } { J } = \\frac { \\overline { { x } } - x _ { \\tau } } { m + 1 } r + \\frac { r } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { \\overline { { \\lambda } } _ { i } ^ { | x _ { 1 } - x | } C _ { y _ { 1 } , i } - \\overline { { \\lambda } } _ { i } ^ { | x _ { 2 } - x | } C _ { y _ { 2 } , i } } { \\sqrt { ( 1 + h - h \\cos \\theta _ { i } ) ^ { 2 } - 1 } } C _ { y , i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "where $\\theta _ { i } = i \\pi / ( m + 1 )$ ，and $C _ { k , i } , \\beta _ { k , s } ^ { ( i ) } , G _ { k } ^ { ( i ) }$ are，respectively， defined in Eqs.(19)-(25).ForEq.(43), there be $n \\to \\infty$ ， $x _ { 1 }$ ， $x _ { 2 } \\to \\infty$ with finite $x _ { k } - x$ ：",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In particular, when $x _ { 2 } = x _ { 1 }$ (means the input and output nodes of currents are at the same vertical axis), formulae (42) and (43) reduce to ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\frac { U _ { m \\times n } ( x , y ) } { J } = \\frac { r _ { 0 } } { m + 1 } \\overset { m } { \\underset { i = 1 } { \\sum } } \\frac { ( C _ { y _ { 1 } , i } - C _ { y _ { 2 } , i } ) C _ { y , i } } { ( 1 - \\cos \\theta _ { i } ) G _ { n } ^ { ( i ) } } \\beta _ { x _ { 1 } \\vee x } ^ { ( i ) } , } \\\\ & { \\frac { U _ { m \\times \\infty } ( x , y ) } { J } = \\frac { r } { m + 1 } \\overset { m } { \\underset { i = 1 } { \\sum } } \\frac { ( C _ { y _ { 1 } , i } - C _ { y _ { 2 } , i } ) C _ { y , i } } { \\sqrt { \\left( 1 + h - h \\cos \\theta _ { i } \\right) ^ { 2 } - 1 } } \\overline { { \\lambda } } _ { i } ^ { \\left| x _ { 1 } - x \\right| } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Proof of Eq.(42). For Fig.1, substituting Eq.(34) with $y _ { k } = \\{ y _ { 1 } , y _ { 2 } \\}$ into (18), we achieve ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { k } ^ { ( i ) } = \\frac { \\beta _ { k \\times x _ { 1 } } ^ { ( i ) } C _ { y _ { 1 } , i } - \\beta _ { k \\times x _ { 2 } } ^ { ( i ) } C _ { y _ { 2 } , i } } { ( t _ { i } - 2 ) G _ { n } ^ { ( i ) } } r J , ( 0 \\leq k \\leq n )\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Substituting Eq.(46) and (34) into (27) with $b = 0$ ,we therefore achieve Eq.(42). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "For proving Eq.(43)， when $n \\to \\infty$ ， $x _ { 1 }$ ， $x _ { 2 } \\to \\infty$ with finite $x _ { k } - x$ , it can be got a limit by using Eqs.(20)-(25) ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { l i m } _ { n \\to \\infty } \\frac { \\beta _ { x _ { k } \\vee x } ^ { ( i ) } } { G _ { n } ^ { ( i ) } } = ( t _ { i } - 2 ) \\frac { \\overline { { { \\lambda } } } _ { k } ^ { \\left| x _ { k } - x \\right| } } { \\lambda _ { i } - \\overline { { { \\lambda } } } _ { i } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "So, substituting Eq.(47) into (42) with $n \\to \\infty$ ，we therefore verified Eq.(43). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Formula (42) is a meaningful result because the network of Fig.1 is very complex and has not been resolved before, which contains a lot of different network models since the diferent boundary resistors can produce different geometric structures.Here several special applications of formula (42) are given below. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Application 1. When $r _ { 1 } = r _ { 2 } = r _ { 0 }$ , Fig.1 degrades into a regular mXn rectangular network, the potential of a node $d ( x , y )$ in the network is ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U _ { ( x , y ) } } { J } = \\frac { \\overline { { { x } } } - { x _ { \\tau } } } { m + 1 } r + \\frac { r _ { 0 } } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { \\beta _ { x \\vee x _ { 1 } } ^ { ( i ) } C _ { y _ { 1 } , i } - \\beta _ { x \\vee x _ { 2 } } ^ { ( i ) } C _ { y _ { 2 } , i } } { ( 1 - \\cos \\theta _ { i } ) F _ { n + 1 } ^ { ( i ) } } C _ { y , i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "where $\\beta _ { x , x _ { s } } ^ { ( i ) }$ reduces to $\\beta _ { x , x _ { s } } ^ { ( i ) } = \\Delta F _ { x } ^ { ( i ) } \\Delta F _ { n - x _ { s } } ^ { ( i ) }$ ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In particular, when $x _ { 2 } = x _ { 1 }$ , potential formula (48) reduces further to ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U _ { m \\times n } ( x , y ) } { J } = \\frac { r _ { 0 } } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { ( C _ { y _ { 1 } , i } - C _ { y _ { 2 } , i } ) C _ { y , i } } { ( 1 - \\cos \\theta _ { i } ) F _ { n + 1 } ^ { ( i ) } } \\beta _ { x _ { 1 } \\times x } ^ { ( i ) } .\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Application 2. When $h _ { 1 } = 0 ( r _ { 1 } = 0 ) ,$ , Fig.1 degrades into a fan network as shown in Fig.4(a), where $r$ and $r _ { 0 }$ are the respective resistors along longitude (radius） and latitude (arc） directions, and the resistor element on the outer arc is $r _ { 2 }$ (an arbitrary boundary resistor). The potential of a node $d ( x , y )$ in the $m \\times n$ fan network can be written as ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U ( x , y ) } { J } = \\frac { \\overline { { x } } - x _ { \\tau } } { m + 1 } r + \\frac { 2 r } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { { \\beta } _ { x \\vee x _ { 1 } } ^ { ( i ) } C _ { y _ { 1 } , i } - { \\beta } _ { x \\vee x _ { 2 } } ^ { ( i ) } C _ { y _ { 2 } , i } } { \\Delta F _ { n } ^ { ( i ) } + ( h _ { 2 } - 1 ) \\Delta F _ { n - 1 } ^ { ( i ) } } C _ { y , i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "where we redefine $\\beta _ { x \\vee x _ { s } } ^ { ( i ) } = F _ { x } ^ { ( i ) } \\alpha _ { 2 , x _ { s } } ^ { ( i ) }$ (if $x \\leq x _ { s } )$ and $\\beta _ { x \\vee x _ { s } } ^ { ( i ) } = F _ { x _ { s } } ^ { ( i ) } \\alpha _ { 2 , x } ^ { ( i ) }$ (if $x \\geq x _ { s } )$ ：",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Please note that a non-regular fan network (the outer arc resistor $r _ { 2 }$ is arbitrary) is a scientific conundrum, which has not been solved before. Ref.[26] has researched just the regular fan network (the outer arc resistor is $r _ { 2 } = r _ { 0 } .$ ),but our formula（50） with $r _ { 2 } = r _ { 0 }$ is different from the result in Ref.[26] because two results depends on the different matrices along the orthogonal direction. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/a108119a6d31bf115f60715ad212581e685ba93f885d2d53c51eec3354dac9cf.jpg",
+        "img_caption": [
+            "Fig.4.Two resistor network models.(a) is a Fan network with an arbitrary boundary resistor $r _ { 2 }$ ；(b) is an arbitrary hammock network. "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Application 3. When $r _ { 1 } = r _ { 2 } = 0$ ，Fig.1 degrades into a hammock network as shown in Fig.4(b), the potential of a node $d ( x , y )$ in the $m \\times n$ hammock network can be written as ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U ( x , y ) } { J } = \\frac { \\overline { { x } } - x _ { \\tau } } { m + 1 } r + \\frac { 2 r } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { { \\beta } _ { x \\times x _ { 1 } } ^ { ( i ) } C _ { y _ { 1 } , i } - { \\beta } _ { x \\times x _ { 2 } } ^ { ( i ) } C _ { y _ { 2 } , i } } { F _ { n } ^ { ( i ) } } C _ { y , i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "where we redefine $\\beta _ { x \\vee x _ { s } } ^ { ( i ) } = F _ { x } ^ { ( i ) } F _ { n - x _ { s } } ^ { ( i ) }$ (if $x \\leq x _ { s } )$ and $\\begin{array} { r } { \\beta _ { x \\vee x _ { s } } ^ { ( i ) } = F _ { x _ { s } } ^ { ( i ) } F _ { n - x } ^ { ( i ) } } \\end{array}$ (if $x \\geq x _ { s } )$ ：",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In particular, when $d _ { \\scriptscriptstyle 1 } ( 0 , y _ { \\scriptscriptstyle 1 } )$ and $d _ { 2 } ( n , y _ { 2 } )$ are respectively at the left and right poles, the potential of Eq.(51) reduces to ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { U ( x , y ) } { J } } = { \\frac { n - 2 x } { 2 ( m + 1 ) } } r .\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Application 4. Consider the input current $J$ is at $d _ { \\scriptscriptstyle 1 } ( 0 , y _ { \\scriptscriptstyle 1 } )$ on the left edge,and the output current $J$ is at $d _ { 2 } ( n , y _ { 2 } )$ on the right edge, the potential of a node $d ( x , y )$ in the non-regular $m \\times n$ resistor network of Fig.1 is ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U ( x , y ) } { J } = \\frac { n - 2 x } { 2 ( m + 1 ) } r + \\frac { 1 } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { r _ { 1 } \\alpha _ { 2 , n - x } ^ { ( i ) } C _ { y _ { 1 } , i } - r _ { 2 } \\alpha _ { 1 , x } ^ { ( i ) } C _ { y _ { 2 } , i } } { ( 1 - \\cos \\theta _ { i } ) G _ { n } ^ { ( i ) } } C _ { y , i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "where $\\alpha _ { k , x } ^ { ( i ) }$ is defined in Eq.(23). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In particular, when $r _ { 2 } = 0$ and $h _ { 1 } = 1 ( r _ { 1 } = r _ { 0 } )$ ,the potential (53) reduces to ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U ( x , y ) } { J } = \\frac { n - 2 x } { 2 ( m + 1 ) } r + \\frac { 2 r } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { F _ { n - x } ^ { ( i ) } } { \\Delta F _ { n } ^ { ( i ) } } C _ { y _ { 1 } , i } C _ { y , i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Application 5. Consider a regular $m \\times n$ rectangular network of Fig.1 with $r _ { 1 } = r _ { 2 } = r _ { 0 }$ ,when $d _ { 1 } ( 0 , y _ { 1 } )$ is on the left edge, and $d _ { 2 } ( n , y _ { 2 } )$ is on the right edge, the potential of a node $d ( x , y )$ in the rectangular network is ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U ( x , y ) } { J } = \\frac { n - 2 x } { 2 ( m + 1 ) } r + \\frac { r _ { 0 } } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { \\Delta F _ { n - x } ^ { ( i ) } C _ { y _ { 1 } , i } - \\Delta F _ { x } ^ { ( i ) } C _ { y _ { 2 } , i } } { ( 1 - \\cos \\theta _ { i } ) F _ { n + 1 } ^ { ( i ) } } C _ { y , i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In particular, when $y _ { 2 } = y _ { 1 }$ , the potential equation (55) reduces to ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U ( x , y ) } { J } = \\frac { n - 2 x } { 2 ( m + 1 ) } r + \\frac { r _ { 0 } } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { \\Delta F _ { n - x } ^ { ( i ) } - \\Delta F _ { x } ^ { ( i ) } } { F _ { n + 1 } ^ { ( i ) } } \\Bigg ( \\frac { C _ { y _ { 1 } , i } C _ { y , i } } { 1 - \\cos \\theta _ { i } } \\Bigg ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Application 6. Consider $d _ { 1 } ( x _ { 1 } , 0 )$ is at the bottom edge, and $d _ { 2 } ( x _ { 2 } , m )$ is on the top edge, the potential of a node $d ( x , y )$ in the non-regular $m \\times n$ resistor network of Fig.1 is ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U ( x , y ) } { J } = \\frac { \\overline { { { x } } } - x _ { \\tau } } { m + 1 } r + \\frac { r _ { 0 } } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { \\beta _ { x _ { \\mathrm { l } } \\times x } ^ { ( i ) } - ( - 1 ) ^ { i } \\beta _ { x _ { 2 } \\times x } ^ { ( i ) } } { ( 1 - \\cos \\theta _ { i } ) G _ { n } ^ { ( i ) } } C _ { 0 , i } C _ { y , i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "where $\\beta _ { k , x } ^ { ( i ) }$ is defined in Eq.(24), and $C _ { 0 , i } = \\cos ( \\frac { 1 } { 2 } \\theta _ { i } )$ （20 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In particular, when $x _ { 2 } = x _ { 1 }$ , the potential equation (57) reduces to ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U ( x , y ) } { J } = \\frac { r _ { 0 } } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { [ 1 - ( - 1 ) ^ { i } ] \\beta _ { x _ { 1 } \\vee x } ^ { ( i ) } } { ( 1 - \\cos \\theta _ { i } ) G _ { n } ^ { ( i ) } } C _ { 0 , i } C _ { y , i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "when $x _ { 2 } = x _ { 1 } = 0$ and $r _ { 1 } = r _ { 2 } = r _ { 0 }$ , the potential equation (57) reduces to ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U ( x , y ) } { J } = \\frac { r _ { 0 } } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { [ 1 - ( - 1 ) ^ { i } ] \\Delta F _ { n - x } ^ { ( i ) } } { ( 1 - \\cos \\theta _ { i } ) F _ { n + 1 } ^ { ( i ) } } C _ { 0 , i } C _ { y , i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Application 7. Consider $d _ { \\scriptscriptstyle 1 } ( 0 , 0 )$ ，and $d _ { 2 } ( n , m )$ are on two diagonal nodes,the potential of ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "a node $d ( x , y )$ in the non-regular $m \\times n$ resistor network is ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U ( x , y ) } { J } = \\frac { n - 2 x } { 2 ( m + 1 ) } r + \\frac { 1 } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { r _ { 1 } \\alpha _ { 2 , n - x } ^ { ( i ) } - ( - 1 ) ^ { i } r _ { 2 } \\alpha _ { 1 , x } ^ { ( i ) } } { ( 1 - \\cos \\theta _ { i } ) G _ { n } ^ { ( i ) } } C _ { 0 , i } C _ { y , i } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "where $\\alpha _ { k , x } ^ { ( i ) }$ xis defined in Eq.(23). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In particular, when $r _ { 1 } = r _ { 2 } = r _ { 0 }$ , the potential of Eq.(60) reduces to ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U ( x , y ) } { J } = \\frac { n - 2 x } { 2 ( m + 1 ) } r + \\frac { r _ { 0 } } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { \\Delta F _ { n - x } ^ { ( i ) } - ( - 1 ) ^ { i } \\Delta F _ { x } ^ { ( i ) } } { ( 1 - \\cos \\theta _ { i } ) F _ { n + 1 } ^ { ( i ) } } C _ { 0 , i } C _ { y , i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Application 8.Assume Fig.1 is a semi-infinite $\\infty \\times n$ network,and $m \\to \\infty$ but $n \\ , x$ and $y$ are finite. Consider $d _ { 1 } ( 0 , y _ { 1 } )$ is on the left edge, and $d _ { 2 } ( n , y _ { 2 } )$ is on the right edge，when $r _ { 1 } = r _ { 2 } = r _ { 0 }$ , the potential of a node $d ( x , y )$ in the semi-infinite $\\infty \\times n$ rectangular network is ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U _ { \\infty \\times n } ( x , y ) } { J } = \\frac { r _ { 0 } } { \\pi } \\int _ { 0 } ^ { \\pi } \\frac { ( \\Delta F _ { n - x } C _ { y _ { 1 } } - \\Delta F _ { x } C _ { y _ { 2 } } ) C _ { y } } { ( 1 - \\cos \\theta ) F _ { n + 1 } } d \\theta ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "where $= \\cos ( y _ { k } + { \\frac { 1 } { 2 } } ) \\theta ~ , ~ F _ { k } = ( \\lambda ^ { k } - { \\overline { { \\lambda } } } ^ { k } ) { \\big / } ( \\lambda - { \\overline { { \\lambda } } } ) ~ \\operatorname { w i t h } ~ \\lambda = 1 + h - h \\cos \\theta + { \\sqrt { ( 1 + h - h \\cos \\theta ) ^ { 2 } - 1 } }$ Please note that these definitions apply to all such issues as appear below. Eq.(62) can be derived by taking the limit of Eq.(55). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Application 9. Assume Fig.1 is a semi-infinite $\\infty \\times n$ network,where $m \\to \\infty$ but $n _ { \\mathit { \\Pi } } , x$ and $y$ are finite. When $r _ { 2 } = 0$ and $h _ { 1 } = 1 ( r _ { 1 } = r _ { 0 } ) \\ : , ~ d _ { 1 } = ( 0 , y _ { 1 } )$ and $d _ { 2 } = ( n , y _ { 2 } )$ ，taking the limit $m \\to \\infty$ in Eq.(54),we achieve the potential in a semi-infinite $\\infty \\times n$ network ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U _ { \\infty \\times n } ( x , y ) } { J } = \\frac { 2 r } { \\pi } \\int _ { 0 } ^ { \\pi } \\frac { F _ { n - x } } { \\Delta F _ { n } } C _ { y _ { 1 } } C _ { y } d \\theta ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Application 10. Assume Fig.1 is an infinite $\\infty \\times \\infty$ network， but $x _ { k } - x$ and $y _ { k } - y$ are finite, taking the limit $n \\to \\infty$ in Eq.(43),we have the potential in the infinite rectangular network ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U _ { \\infty \\infty } ( x , y ) } { J } = \\frac { r } { 2 \\pi } \\int _ { 0 } ^ { \\pi } \\frac { \\bar { \\lambda } ^ { | \\bar { x } _ { 1 } - x | } C _ { y _ { 1 } - y } - \\bar { \\lambda } ^ { | \\bar { x } _ { 2 } - x | } C _ { y _ { 2 } - y } } { \\sqrt { ( 1 + h - h \\cos \\theta ) ^ { 2 } - 1 } } d \\theta ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Notice that Eqs.(62) and (63) belong to the case of a semi-infinite network, while Eq.(64) belongs to the case of an infinite network. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "B.Resistance of complex $\\pmb { m } { \\times } \\pmb { n }$ rectangular network ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Consider an $m { \\times } n$ rectangular network with two arbitrary boundaries shown in Fig.1, where the maximum coordinate is $( n , m )$ . Defining $\\beta _ { k , s } ^ { ( i ) } = \\beta _ { x _ { k } , x _ { s } } ^ { ( i ) }$ , the resistance between two nodes $d _ { 1 } ( x _ { 1 } , y _ { 1 } )$ （20 and $d _ { 2 } ( x _ { 2 } , y _ { 2 } )$ in the finite and semi-infinite networks are respectively ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( d _ { 1 } , d _ { 2 } ) = \\frac { \\left| x _ { 2 } - x _ { 1 } \\right| } { m + 1 } r + \\frac { r _ { 0 } } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { \\beta _ { 1 , 1 } ^ { ( i ) } C _ { y _ { 1 } , i } ^ { 2 } - 2 \\beta _ { 1 , 2 } ^ { ( i ) } C _ { y _ { 1 } , i } C _ { y _ { 2 } , i } + \\beta _ { 2 , 2 } ^ { ( i ) } C _ { y _ { 2 } , i } ^ { 2 } } { ( 1 - \\cos \\theta _ { i } ) G _ { n } ^ { ( i ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times \\infty } ( d _ { 1 } , d _ { 2 } ) = \\frac { \\left| x _ { 2 } - x _ { 1 } \\right| } { m + 1 } r + \\frac { r } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { C _ { y _ { 1 } , i } ^ { 2 } + C _ { y _ { 2 } , i } ^ { 2 } - 2 \\overline { { \\lambda } } _ { i } ^ { \\left| x _ { 2 } - x _ { 1 } \\right| } C _ { y _ { 1 } , i } C _ { y _ { 2 } , i } } { \\sqrt { \\left( 1 + h - h \\cos \\theta _ { i } \\right) ^ { 2 } - 1 } } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "where $\\theta _ { i } = i \\pi / ( m + 1 )$ ，and $C _ { k , i } , ~ G _ { k } ^ { ( i ) }$ are,respectively， defined in Eqs.(19)-(25). For Eq.(66), there be $n \\to \\infty$ ， $x _ { 1 }$ ， $x _ { 2 } \\to \\infty$ with finite $x _ { 1 } - x _ { 2 }$ . Eq.(66) can be derived by taking the limit （204号 $n \\to \\infty$ in Eq.(65). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Proof of Eq.(65). For Fig.1, substituting Eq.(42) with $k = x _ { 1 } , x _ { 2 }$ into (41), then Eq.(65) is verified. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Eq.(65) is an exact expression which still contains a variety of resistance results with all kinds of boundary conditions because the left and right boundaries are the arbitrary resistors.For clearly understanding formula (65),we set $h _ { \\scriptscriptstyle 1 }$ and $h _ { 2 } , m$ or $n$ as special values,and give several special cases to understand its application and meaning. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Case 1. When $h _ { \\scriptscriptstyle 1 } = 1$ , the network of Fig.1 degrades into a rectangular $m \\times n$ network with an arbitrary right boundary, then formula (65) reduces to ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( d _ { 1 } , d _ { 2 } ) = \\frac { \\left| x _ { 2 } - x _ { 1 } \\right| } { m + 1 } r + \\frac { r _ { 0 } } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { \\beta _ { 1 , 1 } ^ { ( i ) } C _ { y _ { 1 , i } } ^ { 2 } - 2 \\beta _ { 1 , 2 } ^ { ( i ) } C _ { y _ { 1 , i } } C _ { y _ { 2 , i } } + \\beta _ { 2 , 2 } ^ { ( i ) } C _ { y _ { 2 , i } } ^ { 2 } } { ( 1 - \\cos \\theta _ { i } ) [ F _ { n + 1 } ^ { ( i ) } + ( h _ { 2 } - 1 ) F _ { n } ^ { ( i ) } ] } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "where βireduces to $\\beta _ { k , s } ^ { ( i ) } = \\Delta F _ { x _ { k } } ^ { ( i ) } [ \\Delta F _ { n - x _ { s } } ^ { ( i ) } + ( h _ { 2 } - 1 ) \\Delta F _ { n - x _ { s } - 1 } ^ { ( i ) } ] .$ ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Case 2. When $h _ { 2 } = h _ { 1 } = 1$ ，the network of Fig.1 degrades into a normal $m \\times n$ rectangular network, then formula (65) reduces to ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( d _ { 1 } , d _ { 2 } ) = \\frac { \\left| x _ { 2 } - x _ { 1 } \\right| } { m + 1 } r + \\frac { r _ { 0 } } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { \\beta _ { 1 , 1 } ^ { ( i ) } C _ { y _ { 1 } , i } ^ { 2 } - 2 \\beta _ { 1 , 2 } ^ { ( i ) } C _ { y _ { 1 } , i } C _ { y _ { 2 } , i } + \\beta _ { 2 , 2 } ^ { ( i ) } C _ { y _ { 2 } , i } ^ { 2 } } { ( 1 - \\cos \\theta _ { i } ) F _ { n + 1 } ^ { ( i ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "where $\\beta _ { k , s } ^ { ( i ) }$ reduces to $\\beta _ { k , s } ^ { ( i ) } = \\Delta F _ { x _ { k } } ^ { ( i ) } \\Delta F _ { n - x _ { s } } ^ { ( i ) }$ . This problem has been researched in Ref.[30], and gave Eq.(1） with a double sums. Clearly,our result (68) is diffrent from Eq.(1). Two different results willbe compared in the last section. This also shows that the equivalent resistance can be expressed in different forms. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Case 3. When $h _ { \\scriptscriptstyle 1 } = 0$ , the network of Fig.1 degrades into a non-regular $m \\times n$ fan network with an arbitrary boundary as shown in Fig.4(a), by Eq.(65), we obtain the resistance of a fan network ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( d _ { 1 } , d _ { 2 } ) = \\frac { \\left| x _ { 2 } - x _ { 1 } \\right| } { m + 1 } r + \\frac { 2 r } { m + 1 } \\sum _ { i = 1 } ^ { m - 1 } \\frac { \\beta _ { 1 , 1 } ^ { ( i ) } C _ { y _ { 1 } , i } ^ { 2 } - 2 \\beta _ { 1 , 2 } ^ { ( i ) } C _ { y _ { 1 } , i } C _ { y _ { 2 } , i } + \\beta _ { 2 , 2 } ^ { ( i ) } C _ { y _ { 2 } , i } ^ { 2 } } { \\Delta F _ { n } ^ { ( i ) } + ( h _ { 2 } - 1 ) \\Delta F _ { n - 1 } ^ { ( i ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "where $\\beta _ { k , s } ^ { ( i ) }$ is re-defined as $\\beta _ { k , s } ^ { ( i ) } = F _ { x _ { k } } ^ { ( i ) } [ \\Delta F _ { n - x _ { s } } ^ { ( i ) } + ( h _ { 2 } - 1 ) \\Delta F _ { n - x _ { s } - 1 } ^ { ( i ) } ] .$ ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In particular, when $h _ { 1 } = 0 , h _ { 2 } = 1$ ，the network of Fig.1 degrades into a normal $m \\times n$ fan ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "network, then formula(69) reduces to ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( d _ { 1 } , d _ { 2 } ) = \\frac { \\left| x _ { 2 } - x _ { 1 } \\right| } { m + 1 } r + \\frac { 2 r } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { \\beta _ { 1 , 1 } ^ { ( i ) } C _ { y _ { 1 } , i } ^ { 2 } - 2 \\beta _ { 1 , 2 } ^ { ( i ) } C _ { y _ { 1 } , i } C _ { y _ { 2 } , i } + \\beta _ { 2 , 2 } ^ { ( i ) } C _ { y _ { 2 } , i } ^ { 2 } } { \\Delta F _ { n } ^ { ( i ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "where $\\beta _ { k , s } ^ { ( i ) }$ is re-defined as $\\beta _ { k , s } ^ { ( i ) } = F _ { x _ { k } } ^ { ( i ) } \\Delta F _ { n - x _ { s } } ^ { ( i ) }$ . This case has been researched in [37], but the result is different from Eq.(7O), however they are equivalent to each other. The reason is that they choice the different matrix along different direction. This also shows that the equivalent resistance can be expressed in different forms. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Case 4. When $h _ { 1 } = 0 , h _ { 2 } = 2$ ，the network degrades into a $m \\times n$ fan network with double resistor edge, then formula (65) reduces to ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( d _ { 1 } , d _ { 2 } ) = \\frac { \\left| x _ { 2 } - x _ { 1 } \\right| } { m + 1 } r + \\frac { 2 r } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { \\beta _ { 1 , 1 } ^ { ( i ) } C _ { y _ { 1 } , i } ^ { 2 } - 2 \\beta _ { 1 , 2 } ^ { ( i ) } C _ { y _ { 1 } , i } C _ { y _ { 2 } , i } + \\beta _ { 2 , 2 } ^ { ( i ) } C _ { y _ { 2 } , i } ^ { 2 } } { \\lambda _ { i } ^ { n } + \\overline { { \\lambda } } _ { i } ^ { n } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "where $\\beta _ { k , s } ^ { ( i ) }$ is re-defined as $\\beta _ { k , s } ^ { ( i ) } = F _ { x _ { k } } ^ { ( i ) } ( \\lambda _ { i } ^ { n - x _ { s } } + \\overline { { \\lambda } } _ { i } ^ { n - x _ { s } } )$ ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Case 5. When $h _ { 1 } = h _ { 2 } = 0$ , the network of Fig.1 degrades into a hammock network, so, formula (65) reduces to ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( d _ { 1 } , d _ { 2 } ) = \\frac { \\left| x _ { 2 } - x _ { 1 } \\right| } { m + 1 } r + \\frac { 2 r } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { \\beta _ { 1 , 1 } ^ { ( i ) } C _ { y _ { 1 } , i } ^ { 2 } - 2 \\beta _ { 1 , 2 } ^ { ( i ) } C _ { y _ { 1 } , i } C _ { y _ { 2 } , i } + \\beta _ { 2 , 2 } ^ { ( i ) } C _ { y _ { 2 } , i } ^ { 2 } } { F _ { n } ^ { ( i ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "where $\\beta _ { k , s } ^ { ( i ) }$ is re-defined as $\\beta _ { k , s } ^ { ( i ) } = F _ { x _ { k } } ^ { ( i ) } F _ { n - x _ { s } } ^ { ( i ) }$ . This problem has been researched in Ref.[34], but the result is different from Eq.(72)],the reason is that they choice the different matrix along different direction. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "In particular, when $d _ { \\scriptscriptstyle 1 } ( 0 , y _ { \\scriptscriptstyle 1 } )$ and $d _ { 2 } ( n , y _ { 2 } )$ are at the left and right poles,Eq.(72) reduces to ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( \\{ 0 , y _ { 1 } \\} , \\{ n , y _ { 2 } \\} ) = \\frac { n r } { m + 1 } , ( r _ { 1 } = r _ { 2 } = 0 ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Case 6. When two nodes are on the same vertical axis, from (65) we have the resistance between two nodes $d _ { 1 } ( x _ { 1 } , y _ { 1 } )$ and $d _ { 2 } ( x _ { 1 } , y _ { 2 } )$ ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( \\{ x _ { 1 } , y _ { 1 } \\} , \\{ x _ { 1 } , y _ { 2 } \\} ) = \\frac { r _ { 0 } } { m + 1 } \\sum _ { i = 1 } ^ { m } \\Biggl ( \\frac { \\beta _ { 1 , 1 } ^ { ( i ) } } { G _ { n } ^ { ( i ) } } \\Biggr ) \\frac { ( C _ { y _ { 1 } , i } - C _ { y _ { 2 } , i } ) ^ { 2 } } { 1 - \\cos \\theta _ { i } } \\cdot\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Where $\\beta _ { 1 , 1 } ^ { ( i ) }$ and G(i are defined in (24) and (25). ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "In particllar, when $r _ { 1 } = r _ { 2 } = r _ { 0 }$ , formula (74) reduces to ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( \\{ x _ { 1 } , y _ { 1 } \\} , \\{ x _ { 1 } , y _ { 2 } \\} ) = \\frac { r _ { 0 } } { m + 1 } { \\sum _ { i = 1 } ^ { m } \\left( \\frac { \\Delta F _ { x } ^ { ( i ) } \\Delta F _ { n - x } ^ { ( i ) } } { F _ { n + 1 } ^ { ( i ) } } \\right) } \\frac { \\left( C _ { y _ { 1 } , i } - C _ { y _ { 2 } , i } \\right) ^ { 2 } } { 1 - \\cos \\theta _ { i } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Case 7. When both $d _ { 1 } ( 0 , y _ { 1 } )$ and $d _ { 2 } ( 0 , y _ { 2 } )$ are at the left edge, formula (65) reduces to ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal R } _ { m \\times n } ( \\{ 0 , y _ { 1 } \\} , \\{ 0 , y _ { 2 } \\} ) = { \\frac { r _ { 1 } } { m + 1 } } \\sum _ { i = 1 } ^ { m } \\Biggl ( { \\frac { \\Delta F _ { n } ^ { ( i ) } + ( h _ { 2 } - 1 ) \\Delta F _ { n - 1 } ^ { ( i ) } } { G _ { n } ^ { ( i ) } } } \\Biggr ) { \\frac { ( C _ { y _ { 1 } , i } - C _ { y _ { 2 } , i } ) ^ { 2 } } { 1 - \\cos \\theta _ { i } } } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "In particllar, when $h _ { 1 } = 1 , ~ d _ { 1 } = ( 0 , 0 )$ and $d _ { 2 } = ( 0 , m )$ , formula(76) reduces to ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( \\{ 0 , 0 \\} , \\{ 0 , m \\} ) = \\frac { r _ { 0 } } { m + 1 } \\sum _ { i = 1 } ^ { m } \\Biggl ( 1 - \\frac { F _ { n } ^ { ( i ) } + ( h _ { 2 } - 1 ) F _ { n - 1 } ^ { ( i ) } } { F _ { n + 1 } ^ { ( i ) } + ( h _ { 2 } - 1 ) F _ { n } ^ { ( i ) } } \\Biggr ) [ 1 - ( - 1 ) ^ { i } ] \\cot ^ { 2 } ( \\frac { 1 } { 2 } \\theta _ { i } ) \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "It can be found that Eq.(77) agrees with the result in Ref.[41],clearly both of these results are verified indirectly by each other. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Case 8. When both $d _ { 1 } ( x _ { 1 } , y )$ and $d _ { 2 } ( x _ { 2 } , y )$ are at the same horizontal axis,from (65)，we have the resistance ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( \\{ x _ { 1 } , y \\} , \\{ x _ { 2 } , y \\} ) = \\frac { \\left| x _ { 2 } - x _ { 1 } \\right| } { m + 1 } r + \\frac { r _ { 0 } } { m + 1 } \\overset { m } { \\underset { i = 1 } { \\sum } } \\left( \\frac { \\beta _ { 1 , 1 } ^ { ( i ) } - 2 \\beta _ { 1 , 2 } ^ { ( i ) } + \\beta _ { 2 , 2 } ^ { ( i ) } } { G _ { n } ^ { ( i ) } } \\right) \\frac { \\cos ^ { 2 } [ ( y + \\frac { 1 } { 2 } ) \\theta _ { i } ] } { 1 - \\cos \\theta _ { i } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "where $\\beta _ { k , s } ^ { ( i ) }$ and G(i) are defined in (24) and (25). ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Especially, when both $d _ { \\mathrm { 1 } } ( x _ { \\mathrm { 1 } } , 0 )$ and $d _ { 2 } ( x _ { 2 } , 0 )$ are at the bottom edge, Eq.(78) reduces to ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( \\{ x _ { 1 } , 0 \\} , \\{ x _ { 2 } , 0 \\} ) = \\frac { \\left| x _ { 2 } - x _ { 1 } \\right| } { m + 1 } r + \\frac { r _ { 0 } } { m + 1 } \\sum _ { i = 1 } ^ { m } \\left( \\frac { \\beta _ { 1 , 1 } ^ { ( i ) } - 2 \\beta _ { 1 , 2 } ^ { ( i ) } + \\beta _ { 2 , 2 } ^ { ( i ) } } { 2 G _ { n } ^ { ( i ) } } \\right) \\cot ^ { 2 } ( \\frac { 1 } { 2 } \\theta _ { i } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "When $r _ { 2 } = r _ { 1 } = r _ { 0 }$ ， $d _ { \\mathrm { 1 } } ( 0 , 0 )$ and $d _ { 2 } ( n , 0 )$ are two corner points at the bottom edge，Eq.(79) reduces to a neat result, namely ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( \\{ 0 , 0 \\} , \\{ n , 0 \\} ) = \\frac { n } { m + 1 } r + \\frac { r _ { 0 } } { m + 1 } { \\sum _ { i = 1 } ^ { m } } \\Bigg ( \\frac { \\Delta F _ { n } ^ { ( i ) } - 1 } { F _ { n + 1 } ^ { ( i ) } } \\Bigg ) \\mathrm { c o t } ^ { 2 } ( { \\frac { 1 } { 2 } \\theta _ { i } } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Case 9. When $d _ { 1 } ( 0 , y _ { 1 } )$ is on the left edge and $d _ { 2 } ( n , y _ { 2 } )$ is on the right edge, formula (65) reduces to ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( \\{ 0 , y _ { 1 } \\} , \\{ n , y _ { 2 } \\} ) = \\frac { n r } { m + 1 } + \\frac { r _ { 0 } } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { h _ { 1 } \\alpha _ { 2 , n } ^ { ( i ) } C _ { y _ { 1 } , i } ^ { 2 } - 2 h _ { 1 } h _ { 2 } C _ { y _ { 1 } , i } C _ { y _ { 2 } , i } + h _ { 2 } \\alpha _ { 1 , n } ^ { ( i ) } C _ { y _ { 2 } , i } ^ { 2 } } { ( 1 - \\cos \\theta _ { i } ) G _ { n } ^ { ( i ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "where $\\alpha _ { k , n } ^ { ( i ) } = \\Delta F _ { n } ^ { ( i ) } + ( h _ { k } - 1 ) \\Delta F _ { n - 1 } ^ { ( i ) } .$ ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "In particular, when $h _ { 1 } = h _ { 2 } = 1$ ,Eq.(81) reduces to ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( \\{ 0 , y _ { 1 } \\} , \\{ n , y _ { 2 } \\} ) = \\frac { n r } { m + 1 } + \\frac { r _ { 0 } } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { ( C _ { y _ { 1 } , i } ^ { 2 } + C _ { y _ { 2 } , i } ^ { 2 } ) \\Delta F _ { n } ^ { ( i ) } - 2 C _ { y _ { 1 } , i } C _ { y _ { 2 } , i } } { ( 1 - \\cos \\theta _ { i } ) F _ { n + 1 } ^ { ( i ) } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Case 10. When $d _ { \\mathrm { 1 } } ( x _ { \\mathrm { 1 } } , 0 )$ is at the bottom edge and $d _ { 2 } ( x _ { 2 } , m )$ is on the top edge,then formula (65) reduces to ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( \\{ x _ { 1 } , 0 \\} , \\{ x _ { 2 } , m \\} ) = \\frac { \\left| x _ { 2 } - x _ { 1 } \\right| } { m + 1 } r + \\frac { r _ { 0 } } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { \\beta _ { 1 , 1 } ^ { ( i ) } - 2 ( - 1 ) ^ { i } \\beta _ { 1 , 2 } ^ { ( i ) } + \\beta _ { 2 , 2 } ^ { ( i ) } } { 2 G _ { n } ^ { ( i ) } } \\cot ^ { 2 } ( \\frac { 1 } { 2 } \\theta _ { i } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "where $\\beta _ { k , s } ^ { ( i ) }$ and G(i) are defined in (24) and (25) ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Case 11. When $d _ { \\mathrm { 1 } } ( 0 , 0 )$ is at the coordinate origin,and $d _ { 2 } ( x , y )$ is an arbitrary point,by Eq.(65), the equivalent resistance is ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( \\{ 0 , 0 \\} , \\{ x , y \\} ) = \\frac { x r } { m + 1 } + \\frac { r _ { 0 } } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { h _ { 1 } \\alpha _ { 2 , n } ^ { ( i ) } C _ { y _ { 1 } , i } ^ { 2 } - 2 h _ { 1 } \\alpha _ { 2 , n - x } ^ { ( i ) } C _ { y _ { 1 } , i } C _ { y _ { 2 } , i } + \\beta _ { 2 , 2 } ^ { ( i ) } C _ { y _ { 2 } , i } ^ { 2 } } { ( 1 - \\cos \\theta _ { i } ) G _ { n } ^ { ( i ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "where $\\alpha _ { k , x } ^ { ( i ) }$ and $\\beta _ { k , s } ^ { ( i ) }$ are defined in Eqs.(24) and (25). ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "In particular, when $h _ { 1 } = h _ { 2 } = 1$ and $y = m$ ,Eq.(84) reduces to ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( \\{ 0 , 0 \\} , \\{ x , m \\} ) = \\frac { x r } { m + 1 } + \\frac { r _ { 0 } } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { \\Delta F _ { n } ^ { ( i ) } - 2 ( - 1 ) ^ { i } \\Delta F _ { n - x } ^ { ( i ) } + \\Delta F _ { x } ^ { ( i ) } \\Delta F _ { n - x } ^ { ( i ) } } { 2 F _ { n + 1 } ^ { ( i ) } } \\cot ^ { 2 } ( \\frac { 1 } { 2 } \\theta _ { i } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Case 12. When $d _ { 1 } ( 0 , 0 )$ and $d _ { 2 } ( n , m )$ are two diagonal nodes,by (65） we have the resistance between two maximally separated nodes ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( \\{ 0 , 0 \\} , \\{ n , m \\} ) = \\frac { n r } { m + 1 } + \\frac { r _ { 0 } } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { h _ { 1 } \\alpha _ { 2 , n } ^ { ( i ) } - 2 ( - 1 ) ^ { i } h _ { 1 } h _ { 2 } + h _ { 2 } \\alpha _ { 1 , n } ^ { ( i ) } } { 2 G _ { n } ^ { ( i ) } } \\cot ^ { 2 } ( \\frac { 1 } { 2 } \\theta _ { i } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "where $\\alpha _ { k , n } ^ { ( i ) } = \\Delta F _ { n } ^ { ( i ) } + ( h _ { k } - 1 ) \\Delta F _ { n - 1 } ^ { ( i ) } , \\theta _ { i } = i \\pi / ( m + 1 ) .$ ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "In particular, when $r _ { 1 } = r _ { 2 } = r _ { 0 }$ , Eq.(86) reduces to ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( \\{ 0 , 0 \\} , \\{ n , m \\} ) = \\frac { n } { m + 1 } r + \\frac { r _ { 0 } } { m + 1 } \\sum _ { i = 1 } ^ { m } \\left( \\frac { \\Delta F _ { n } ^ { ( i ) } - ( - 1 ) ^ { i } } { F _ { n + 1 } ^ { ( i ) } } \\right) \\cot ^ { 2 } ( \\frac { 1 } { 2 } \\theta _ { i } ) \\ : .\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Please note that Eq.(87) is a desired equivalent resistance between two maximum separated nodes in an arbitrary $m { \\times } n$ resistor network. This is an interesting result because it is simple and easy to research the asymptotic expansion for the maximum resistance. Refs.[46, 47] studied the asymptotic expansion by making use of the result (1). Obviously,the concise Eq.(87) is more conducive to the study of the asymptotic expression of the maximum resistance. In addition, there are similarities between equations (8O) and (87)，but only minor differences，where Eq.(8O) is the resistance between two corner points at the bottom edge, Eq.(87) is the resistance between two maximum separated nodes on the diagonal line. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Case 13. When $n \\to \\infty$ ，with $x _ { 1 } = x _ { 2 } = 0$ ，and $y _ { 1 } , y _ { 2 }$ are finite. Taking the limit of Eq.(76), we have the resistance in the semi-infinite network ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times \\infty } ( \\{ 0 , y _ { \\mathrm { { 1 } } } \\} , \\{ 0 , y _ { \\mathrm { { 2 } } } \\} ) = \\frac { r _ { \\mathrm { { 1 } } } } { m + 1 } { \\sum _ { i = 1 } ^ { m } } \\biggl ( \\frac { \\lambda _ { i } - 1 } { \\lambda _ { i } + h _ { \\mathrm { { 1 } } } - 1 } \\biggr ) \\frac { ( C _ { y _ { \\mathrm { { 1 } } } , i } - C _ { y _ { \\mathrm { { 2 } } } , i } ) ^ { 2 } } { 1 - \\cos \\theta _ { i } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Obviously, case 13 is a semi-infinite network problem. The reason why the equivalent resistance is independent of the right boundary is that the network is infinite on the right. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Case 14. When $m , n \\to \\infty$ ， $h _ { 1 } = 1$ ,and $y _ { 1 } , y _ { 2 }$ are finite. It means that the network is finite at the bottom and left but infinite at the top and right. Taking the limit of Eq.(88), we have ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\infty \\infty } ( \\{ 0 , y _ { 1 } \\} , \\{ 0 , y _ { 2 } \\} ) = \\frac { r _ { 0 } } { \\pi } \\int _ { 0 } ^ { \\pi } \\frac { [ \\cos ( y _ { 1 } + \\frac { 1 } { 2 } ) \\theta - \\cos ( y _ { 2 } + \\frac { 1 } { 2 } ) \\theta ] ^ { 2 } } { 1 - \\cos \\theta } ( 1 - \\overline { { \\lambda } } ) d \\theta ,\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathcal { \\overline { {lambda } } } = 1 + h - h \\cos \\theta - \\sqrt { \\left( 1 + h - h \\cos \\theta \\right) ^ { 2 } - 1 }$ . This definition applies to all such issues as appear ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "below. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "In particllar, when $m , n \\to \\infty$ ，and $y _ { 1 } , y _ { 2 } \\to \\infty$ ， $h _ { \\scriptscriptstyle 1 } = 1 \\ ( r _ { \\scriptscriptstyle 1 } = r _ { \\scriptscriptstyle 0 } )$ ，but $y _ { 1 } - y _ { 2 }$ is finite, taking the limit of Eq.(88),we have the equivalent resistance on the left edge ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\infty } ( \\{ 0 , y _ { 1 } \\} , \\{ 0 , y _ { 2 } \\} ) = \\frac { r _ { 0 } } { \\pi } \\int _ { 0 } ^ { \\pi } \\frac { 1 - \\cos ( y _ { 1 } - y _ { 2 } ) \\theta } { 1 - \\cos \\theta } ( 1 - \\overline { { \\lambda } } ) d \\theta .\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Eqs.(89)and (9O) belong to the problem of semi-infinite network, which has not been solved before. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Case 15. When $m , n \\to \\infty$ ， but $x _ { 1 } - x _ { 2 }$ and $y _ { 1 } - y _ { 2 }$ are finite, we have the resistance between two arbitrary nodes $d _ { 1 } ( x _ { 1 } , y _ { 1 } )$ and $d _ { 2 } ( x _ { 2 } , y _ { 2 } )$ （20 ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\infty \\infty } ( d _ { 1 } , d _ { 2 } ) = \\frac { r } { \\pi } \\int _ { 0 } ^ { \\pi } \\frac { 1 - \\overline { { \\lambda } } ^ { | x _ { 2 } - x _ { 1 } | } \\cos ( y _ { 1 } - y _ { 2 } ) \\theta } { \\sqrt { \\left( 1 + h - h \\cos \\theta \\right) ^ { 2 } - 1 } } d \\theta ,\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Formula (91） can be proved by taking the limit $m , n \\to \\infty$ in Eq.(66).Eq.(91) shows that the equivalent resistance of an infinite network is independent of the boundary conditions. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Notice that Eqs.(88)-(90) belong to the case of a semi-infinite network, while Eq.(91) belongs to the case of an infinite network. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Since Eq.(65) is a profound and versatile formula that it contains multiple outcomes, for readers to better understand the meaning of Eqs.(65) and (9O), we are going to again illustrate the meaning and usefulness by four simple examples below. ",
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/b76daf5f3a6c6ff3c974580c94f3cc54eb86ef3b99ffb13acc34f1abaa81c650.jpg",
+        "img_caption": [
+            "Fig.5. A $n$ -step resistor network with two arbitrary boundaries,the resistors in the horizontal and vertical directions are, respectively, $r$ and $r _ { 0 }$ except for two arbitrary boundaries. "
+        ],
+        "img_footnote": [],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Case 16. When $m = 1$ , the resistor network of Fig.1 degrades into an $1 \\times n$ resistor network as shown in Fig.5, the equivalent resistance between any two nodes in the resistor network can be written as ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } & { } & { { R } _ { 1 \\times n } ( { A } _ { { x } _ { 1 } } , { B } _ { { x } _ { 2 } } ) = \\displaystyle \\frac { r } { 2 } \\big | { x } _ { 2 } - { x } _ { 1 } \\big | + \\frac { r _ { 0 } } { 4 } \\Bigg ( \\frac { \\beta _ { 1 , 1 } + 2 \\beta _ { 1 , 2 } + \\beta _ { 2 , 2 } } { G _ { n } } \\Bigg ) , } \\\\ & { } & \\\\ & { } & { { R } _ { 1 \\times n } ( { A } _ { { x } _ { 1 } } , { A } _ { { x } _ { 2 } } ) = \\displaystyle \\frac { r } { 2 } \\big | { x } _ { 2 } - { x } _ { 1 } \\big | + \\frac { r _ { 0 } } { 4 } \\Bigg ( \\frac { \\beta _ { 1 , 1 } - 2 \\beta _ { 1 , 2 } + \\beta _ { 2 , 2 } } { G _ { n } } \\Bigg ) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "where $\\beta _ { _ { k , s } } , \\ G _ { _ k }$ are,respectively, defined in Eq.(24) and (25), and ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda = 1 + h + \\sqrt { h ^ { 2 } + 2 h } , \\overline { { { \\lambda } } } = 1 + h - \\sqrt { h ^ { 2 } + 2 h } .\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/9e20a75461c0539ab0202df5cdb623fb3c9fa592ded60d376eac7996d99065bd.jpg",
+        "img_caption": [
+            "Fig.6.Anarbitrary $2 { \\times } n$ complex network of resistors with four arbitrary elements which are,respectively, $r _ { 1 }$ $_ 1 , r _ { 0 } , r _ { 2 }$ and $r$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Case 17. When $m = 2$ , the resistor network of Fig.1 degrades into an arbitrary $2 \\times n$ resistor network as shown in Fig.6, where there be four arbitrary resistor elements $( r _ { 0 } , r , r _ { 1 } , r _ { 2 } )$ , the equivalent resistance between any two nodes $d _ { 1 } ( x _ { 1 } , y _ { 1 } )$ and $d _ { 2 } ( x _ { 2 } , y _ { 2 } )$ can be written as ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { 2 \\times n } ( A _ { x _ { 1 } } , A _ { x _ { 2 } } ) = \\frac { r } { 3 } \\big | x _ { 2 } - x _ { 1 } \\big | + \\frac { r _ { 0 } } { 2 } \\left( \\frac { \\beta _ { 1 , 1 } ^ { ( 1 ) } - 2 \\beta _ { 1 , 2 } ^ { ( 1 ) } + \\beta _ { 2 , 2 } ^ { ( 1 ) } } { G _ { n } ^ { ( 1 ) } } + \\frac { \\beta _ { 1 , 1 } ^ { ( 2 ) } - 2 \\beta _ { 1 , 2 } ^ { ( 2 ) } + \\beta _ { 2 , 2 } ^ { ( 2 ) } } { 9 G _ { n } ^ { ( 2 ) } } \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { 2 \\times n } ( A _ { x _ { 1 } } , B _ { x _ { 2 } } ) = \\frac { r } { 3 } \\big | x _ { 2 } - x _ { 1 } \\big | + \\frac { r _ { 0 } } { 2 } \\left( \\frac { \\beta _ { 1 , 1 } ^ { ( 1 ) } + 2 \\beta _ { 1 , 2 } ^ { ( 1 ) } + \\beta _ { 2 , 2 } ^ { ( 1 ) } } { G _ { n } ^ { ( 1 ) } } + \\frac { \\beta _ { 1 , 1 } ^ { ( 2 ) } - 2 \\beta _ { 1 , 2 } ^ { ( 2 ) } + \\beta _ { 2 , 2 } ^ { ( 2 ) } } { 9 G _ { n } ^ { ( 2 ) } } \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { 2 \\times n } ( A _ { x _ { 1 } } , C _ { x _ { 2 } } ) = \\frac { r } { 3 } \\big | x _ { 2 } - x _ { 1 } \\big | + \\frac { r _ { 0 } } { 2 } \\Bigg ( \\frac { \\beta _ { 1 , 1 } ^ { ( 1 ) } } { G _ { n } ^ { ( 1 ) } } + \\frac { \\beta _ { 1 , 1 } ^ { ( 2 ) } + 4 \\beta _ { 1 , 2 } ^ { ( 2 ) } + 4 \\beta _ { 2 , 2 } ^ { ( 2 ) } } { 9 G _ { n } ^ { ( 2 ) } } \\Bigg ) \\enspace .\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "where $0 \\leq x _ { 1 } \\leq x _ { 2 } \\leq n , h _ { k } = r _ { k } / r _ { 0 } ( k { = } 1 , 2 )$ ，and $\\beta _ { k , s } ^ { ( i ) } , ~ G _ { k } ^ { ( i ) }$ are, respectively, defined in Eqs.(24) and (25). And $F _ { k } ^ { ( i ) } = ( \\lambda _ { i } ^ { k } - \\overline { { \\lambda } } _ { i } ^ { k } ) \\big / ( \\lambda _ { i } - \\overline { { \\lambda } } _ { i } )$ ,with ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { 1 } = \\frac { 1 } { 2 } ( 2 + h + \\sqrt { h ^ { 2 } + 4 h } ) , \\quad \\lambda _ { 2 } = \\frac { 1 } { 2 } ( 2 + 3 h + \\sqrt { 9 h ^ { 2 } + 1 2 h } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "From the above derivation, we find that formula (65) is a generalized result, which is applicable to many network problems and summarized a variety of complex network models since it contains six arbitrary elements $( r _ { 0 } , r , r _ { 1 } , r _ { 2 } , n , m )$ ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Case 18. Consider a regular $m { \\times } n$ rectangular network, when $m , n \\to \\infty$ (the network is finite at the left but infinite at the bottom,top and right.),by Eq.(9O),the resistance on the left edge is ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { R _ { \\infty \\infty } ( \\{ 0 , y \\} , \\{ 0 , y + 1 \\} ) } { r _ { 0 } } { = } \\frac { 2 } { \\pi } \\Bigg ( \\sqrt { h } + ( 1 + h ) \\arcsin \\sqrt { \\frac { h } { 1 + h } } \\Bigg ) - h .\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "In particular, when $h = 1 ( r = r _ { 0 } )$ ,Eq.(99) reduces to ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal R } _ { \\mathrm { o s \\infty } } ( \\{ 0 , y \\} , \\{ 0 , y + 1 \\} ) = \\frac { 2 } { \\pi } r _ { 0 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Case 19. Consider a regular $m { \\times } n$ rectangular network, when $m , n \\to \\infty$ (the network is finite at ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "the left but infinite at the bottom,top and right.),by Eq.(9O) we have the resistance on the left edge ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { R _ { \\infty \\infty } ( \\{ 0 , y \\} , \\{ 0 , y + 2 \\} ) } { r _ { 0 } } = \\frac { 2 } { \\pi } \\frac { ( 1 + h ) ^ { 2 } } { h } \\arcsin \\sqrt { \\frac { h } { 1 + h } } - h + \\frac { 2 } { \\pi } ( h - 1 ) \\sqrt { \\frac { 1 } { h } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "In particular, when $h = 1$ , from Eq.(101) we get ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\infty \\times \\infty } ( \\{ 0 , 0 \\} , \\{ 0 , 2 \\} ) _ { r = r _ { 0 } } = r _ { 0 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Eqs.(99)-(1O2) are two novel results which are given for the first time. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "V . Electrical properties of complex cylindrical network ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "A. Nodal potential of complex cylindrical network ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Consider the non-regular $m \\times n$ cylindrical network shown in Fig.2,where the maximum coordinate value is $( n , ~ m )$ ， selecting $\\sum _ { i = 0 } ^ { m } V _ { 0 } ^ { ( i ) } = \\frac { 1 } { 2 } ( x _ { 2 } - x _ { 1 } ) r J$ as the reference potential, defining $\\theta _ { i } = 2 i \\pi / ( m + 1 )$ ， $C _ { y _ { k } - y } = \\cos ( y _ { k } - y ) \\theta _ { i }$ ，the potential of any node $d ( x , y )$ in the finite and sem-infinite networks can be written as ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U _ { m \\times n } ( x , y ) } { J } = \\frac { \\overline { { { x } } } - x _ { \\tau } } { m + 1 } r + \\frac { r _ { 0 } } { 2 ( m + 1 ) } \\sum _ { i = 1 } ^ { m } \\frac { { \\beta _ { x _ { 1 } \\times x } ^ { ( i ) } C _ { y _ { 1 } - y } - \\beta _ { x _ { 2 } \\times x } ^ { ( i ) } C _ { y _ { 2 } - y } } } { ( 1 - \\cos { \\theta _ { i } } ) G _ { n } ^ { ( i ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U _ { m \\times \\infty } ( x , y ) } { J } = \\frac { \\overline { { x } } - x _ { \\tau } } { m + 1 } r + \\frac { r } { 2 ( m + 1 ) } \\sum _ { i = 1 } ^ { m } \\frac { \\overline { { \\lambda } } _ { i } ^ { | x _ { 1 } - x | } C _ { y _ { 1 } - y } - \\overline { { \\lambda } } _ { i } ^ { | x _ { 2 } - x | } C _ { y _ { 2 } - y } } { \\sqrt { ( 1 + h - h \\cos { \\theta _ { i } } ) ^ { 2 } - 1 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "where $\\beta _ { x _ { k } \\vee x } ^ { ( i ) }$ and $G _ { k } ^ { ( i ) }$ are,respectively，defined in Eqs.(2)-(25).For Eq.(96), thre be $n \\to \\infty$ ， $x _ { 1 }$ $x _ { 2 } \\to \\infty$ with finite $x _ { k } - x$ . Eq.(1O4) can be derived by taking the limit $n \\to \\infty$ in Eq.(103). ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "In particular, when $x _ { 2 } = x _ { 1 }$ ,formula（103) and(104) reduce to ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U _ { m \\times n } ( x , y ) } { J } = \\frac { r _ { 0 } } { 2 ( m + 1 ) } { \\sum _ { i = 1 } ^ { m } } \\frac { C _ { y _ { 1 } - y } - C _ { y _ { 2 } - y } } { ( 1 - \\cos \\theta _ { i } ) G _ { n } ^ { ( i ) } } \\beta _ { x _ { 1 } \\times x } ^ { ( i ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U _ { m \\times \\infty } ( x , y ) } { J } = \\frac { r } { 2 ( m + 1 ) } \\sum _ { i = 1 } ^ { m } \\frac { C _ { y _ { 1 } - y } - C _ { y _ { 2 } - y } } { \\sqrt { ( 1 + h - h \\cos \\theta _ { i } ) ^ { 2 } - 1 } } \\overline { { { \\lambda } } } _ { i } ^ { | x _ { 1 } - x | } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Proof of Eq.(103).For Fig.2, substituting Eq.(38) into Eq.(18), we achieve ( $0 \\leq k \\leq n$ ） ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { k } ^ { ( i ) } = \\frac { \\beta _ { k \\times x _ { 1 } } ^ { ( i ) } \\exp ( \\mathrm { i } y _ { 1 } \\theta _ { i } ) - \\beta _ { k \\times x _ { 2 } } ^ { ( i ) } \\exp ( \\mathrm { i } y _ { 2 } \\theta _ { i } ) } { ( t _ { i } - 2 ) G _ { n } ^ { ( i ) } } r J .\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "The substitution of(107) into Eq.(27) yields ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U ( x , y ) } { J } = \\frac { \\overline { { { x } } } - x _ { \\tau } } { m + 1 } r + \\frac { r _ { 0 } } { m + 1 } \\overset { m } { \\underset { i = 1 } { \\sum } } \\frac { \\beta _ { x _ { 1 } \\lor x } ^ { ( i ) } C _ { y _ { 1 } - y } - \\beta _ { x _ { 2 } \\lor x } ^ { ( i ) } C _ { y _ { 2 } - y } } { 2 ( 1 - \\cos \\theta _ { i } ) G _ { n } ^ { ( i ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n+ \\mathrm { i } \\frac { r _ { 0 } } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { \\beta _ { x _ { 1 } \\vee x } ^ { ( i ) } \\mathrm { s i n } [ ( y _ { 1 } - y ) \\theta _ { i } ] - \\beta _ { x _ { 2 } \\vee x } ^ { ( i ) } \\mathrm { s i n } [ ( y _ { 2 } - y ) \\theta _ { i } ] } { 2 ( 1 - \\mathrm { c o s } \\theta _ { i } ) G _ { n } ^ { ( i ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Because the elements $r _ { k }$ in the network is real number, the potential $U ( x , y )$ must be real number.   \nThus, extracting the real part of Eq.(1o8) to produce Eq.(103). ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Formula (1O3) is a meaningful result because the network of Fig.2 is very complex and has not been resolved before,contains a lot of resistor network models，where each of the different boundary resistor represents a different network structure. So Formula (1O3） can create many interesting results. In the following applications we always assume that the current $J$ goes from $d _ { 1 } ( x _ { 1 } , y _ { 1 } )$ to $d _ { 2 } ( x _ { 2 } , y _ { 2 } )$ except for special instructions. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Application 1. Consider an arbitrary $m \\times n$ cylindrical network of Fig.2 with $r _ { 1 } = r _ { 2 } = r _ { 0 }$ ,by (103) we have the nodal potential ",
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U ( x , y ) } { J } = \\frac { \\overline { { { x } } } - x _ { \\tau } } { m + 1 } r + \\frac { r _ { 0 } } { 2 ( m + 1 ) } \\sum _ { i = 1 } ^ { m } \\frac { \\beta _ { x _ { 1 } \\times x } ^ { ( i ) } C _ { y _ { 1 } - y } - \\beta _ { x _ { 2 } \\times x } ^ { ( i ) } C _ { y _ { 2 } - y } } { ( 1 - \\cos \\theta _ { i } ) F _ { n + 1 } ^ { ( i ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "where $\\beta _ { x , x _ { k } } ^ { ( i ) }$ reduces to $\\beta _ { x , x _ { s } } ^ { ( i ) } = \\Delta F _ { x } ^ { ( i ) } \\Delta F _ { n - x _ { s } } ^ { ( i ) }$ ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "In particular, when $x _ { 2 } = x _ { 1 }$ Eq.(109) reduces to ",
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U ( x , y ) } { J } { = } \\frac { r _ { 0 } } { 2 ( m + 1 ) } { \\sum _ { i = 1 } ^ { m } } \\frac { C _ { y _ { 1 } - y } - C _ { y _ { 2 } - y } } { ( 1 - \\cos \\theta _ { i } ) F _ { n + 1 } ^ { ( i ) } } \\beta _ { x _ { 1 } \\times x } ^ { ( i ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/e47669f8b492b34c94a14e5708521cce96415ee9ea0038d872b01fb8ebaa214b.jpg",
+        "img_caption": [
+            "Fig.7. Two resistor network models. (a) is a cobweb network with an arbitrary boundary resistor $r _ { 2 }$ ；(b) is an arbitrary globe network. "
+        ],
+        "img_footnote": [],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Application 2. Consider an $m \\times n$ cylindrical network of Fig.2. When $r _ { 1 } = 0$ , Fig.2 degrades into a cobweb network as shown in Fig.7(a),by (1O3) we have the nodal potential ",
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U ( x , y ) } { J } = \\frac { \\overline { { x } } - x _ { \\tau } } { m + 1 } r + \\frac { r } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { \\beta _ { x _ { 1 } \\vee x } ^ { ( i ) } C _ { y _ { 1 } - y } - \\beta _ { x _ { 2 } \\vee x } ^ { ( i ) } C _ { y _ { 2 } - y } } { \\Delta F _ { n } ^ { ( i ) } + ( h _ { 2 } - 1 ) \\Delta F _ { n - 1 } ^ { ( i ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "where $\\beta _ { x _ { s } \\vee x } ^ { ( i ) }$ is redefined as $\\beta _ { x \\vee x _ { s } } ^ { ( i ) } = F _ { x } ^ { ( i ) } \\alpha _ { 2 , n - x _ { s } } ^ { ( i ) }$ (if $x \\leq x _ { s } )$ and $\\beta _ { x \\vee x _ { s } } ^ { ( i ) } = F _ { x _ { s } } ^ { ( i ) } \\alpha _ { 2 , n - x } ^ { ( i ) }$ (if $x \\geq x _ { s } )$ ：",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "In particular, when $d _ { 1 } ( 0 , y _ { 1 } )$ is at left edge, and $d _ { 2 } ( n , y _ { 2 } )$ is at right edge.Eq.(111) reduces ",
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U ( x , y ) } { J } = \\frac { n - 2 x } { 2 ( m + 1 ) } r - \\frac { r _ { 2 } h } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { F _ { x } ^ { ( i ) } \\cos ( y _ { 2 } - y ) \\theta _ { i } } { \\Delta F _ { n } ^ { ( i ) } + ( h _ { 2 } - 1 ) \\Delta F _ { n - 1 } ^ { ( i ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Please note that the cobweb network with an arbitrary boundary has not been resolved before, the previous work only studied the normal cobweb network (the boundary resistor is $r _ { 2 } = r _ { 0 }$ ）[26], Eq.(112) is an original result. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Application 3. Consider an arbitrary $m \\times n$ globe network shown in Fig.7(b). That is to say that Fig.2 degrades into a globe network when $r _ { 1 } = r _ { 2 } = 0$ , from(1O3) we have the nodal potential ",
+        "page_idx": 23
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U _ { m \\times n } ( x , y ) } { J } = \\frac { \\overline { { { x } } } - x _ { \\tau } } { m + 1 } r + \\frac { r } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { \\beta _ { x _ { 1 } \\vee x } ^ { ( i ) } C _ { y _ { 1 } - y } - \\beta _ { x _ { 2 } \\vee x } ^ { ( i ) } C _ { y _ { 2 } - y } } { F _ { n } ^ { ( i ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "where we redefine $\\beta _ { x \\vee x _ { s } } ^ { ( i ) } = F _ { x } ^ { ( i ) } F _ { n - x _ { s } } ^ { ( i ) }$ if $x \\leq x _ { s } )$ and $\\begin{array} { r } { \\beta _ { x \\vee x _ { s } } ^ { ( i ) } = F _ { x _ { s } } ^ { ( i ) } F _ { n - x } ^ { ( i ) } } \\end{array}$ (if $x \\geq x _ { s } )$ · ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "In particular, when $d _ { 1 } ( 0 , y _ { 1 } )$ is at left pole, and $d _ { 2 } ( n , y _ { 2 } )$ is at right pole, Eq.(113) reduces to ",
+        "page_idx": 23
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { U ( x , y ) } { J } } = { \\frac { n - 2 x } { 2 ( m + 1 ) } } r .\n$$",
+        "text_format": "latex",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Formula (114) is very simple and very interesting because the potential distribution is only related to the $x$ and has nothing to do with y, which shows the nodal potential is equal in the same latitude. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Application 4. Consider a non-regular $m \\times n$ cylindrical network of Fig.2. Assume $d _ { 1 } ( 0 , y _ { 1 } )$ （204号 is on the left edge, and $d _ { 2 } ( n , y _ { 2 } )$ is on the right edge. by (1O3) we have the nodal potential ",
+        "page_idx": 23
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U ( x , y ) } { J } = \\frac { n - 2 x } { 2 ( m + 1 ) } r + \\frac { r _ { 0 } } { 2 ( m + 1 ) } \\sum _ { i = 1 } ^ { m } \\frac { h _ { 1 } \\alpha _ { 2 , n - x } ^ { ( i ) } C _ { y _ { 1 } - y } - h _ { 2 } \\alpha _ { 1 , x } ^ { ( i ) } C _ { y _ { 2 } - y } } { ( 1 - \\cos \\theta _ { i } ) G _ { n } ^ { ( i ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "where $\\alpha _ { k , x } ^ { ( i ) } = \\Delta F _ { x } ^ { ( i ) } + ( h _ { k } - 1 ) \\Delta F _ { x - 1 } ^ { ( i ) }$ is defined in Eq.(23), and $C _ { y _ { k } - y } = \\cos ( y _ { k } - y ) \\theta _ { i }$ ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "In particular, when $y _ { 2 } = y _ { 1 }$ , Eq.(115) reduces to ",
+        "page_idx": 23
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U ( x , y ) } { J } = \\frac { n - 2 x } { 2 ( m + 1 ) } r + \\frac { r _ { 0 } } { 2 ( m + 1 ) } \\underset { i = 1 } { \\overset { m } { \\sum } } \\frac { h _ { 1 } \\alpha _ { 2 , n - x } ^ { ( i ) } - h _ { 2 } \\alpha _ { 1 , x } ^ { ( i ) } } { ( 1 - \\cos \\theta _ { i } ) G _ { n } ^ { ( i ) } } C _ { y _ { 1 } - y } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "when $h _ { 1 } = h _ { 2 } = 1$ ,Eq.(115) reduces to ",
+        "page_idx": 23
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U ( x , y ) } { J } = \\frac { n - 2 x } { 2 ( m + 1 ) } r + \\frac { r _ { \\mathrm { 0 } } } { 2 ( m + 1 ) } \\sum _ { i = 1 } ^ { m } \\frac { \\Delta F _ { n - x } ^ { ( i ) } C _ { y _ { 1 } - y } - \\Delta F _ { x } ^ { ( i ) } C _ { y _ { 2 } - y } } { ( 1 - \\cos \\theta _ { i } ) F _ { n + 1 } ^ { ( i ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "when $h _ { 1 } = h _ { 2 } = 1$ ， $y _ { 2 } = y _ { 1 }$ ,Eq.(115) reduces to ",
+        "page_idx": 23
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U ( x , y ) } { J } = \\frac { n - 2 x } { 2 ( m + 1 ) } r + \\frac { r _ { 0 } } { 2 ( m + 1 ) } \\sum _ { i = 1 } ^ { m } \\frac { \\Delta F _ { n - x } ^ { ( i ) } - \\Delta F _ { x } ^ { ( i ) } } { ( 1 - \\cos \\theta _ { i } ) F _ { n + 1 } ^ { ( i ) } } C _ { y _ { 1 } - y } .\n$$",
+        "text_format": "latex",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Application 5. Consider a non-regular $m \\times n$ cylindrical network of Fig.2. When the node $d _ { 1 } ( 0 , y _ { 1 } )$ and $d _ { 2 } ( 0 , y _ { 2 } )$ are located on the left edge, Eq.(1O3) reduces to ",
+        "page_idx": 23
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U ( x , y ) } { J } = \\frac { r _ { 1 } } { 2 ( m + 1 ) } \\sum _ { i = 1 } ^ { m } \\Biggl ( \\frac { C _ { y _ { 1 } - y } - C _ { y _ { 2 } - y } } { 1 - \\cos \\theta _ { i } } \\Biggr ) \\frac { \\alpha _ { 2 , n - x } ^ { ( i ) } } { G _ { n } ^ { ( i ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "where $C _ { y _ { k } - y } = \\cos ( y _ { k } - y ) \\theta _ { i }$ ,and $\\boldsymbol { \\alpha } _ { k , x } ^ { ( i ) }$ is defined in Eq.(23). ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Application 6. Consider a non-regular $m \\times n$ cylindrical network of Fig.2. When the node $d _ { 1 } ( n , y _ { 1 } )$ and $d _ { 2 } ( n , y _ { 2 } )$ are located on the right edge,Eq.(1O3) reduces to ",
+        "page_idx": 24
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { U ( x , y ) } { J } = \\frac { r _ { 2 } } { 2 ( m + 1 ) } \\sum _ { i = 1 } ^ { m } \\Biggl ( \\frac { C _ { y _ { 1 } - y } - C _ { y _ { 2 } - y } } { 1 - \\cos \\theta _ { i } } \\Biggr ) \\frac { \\alpha _ { 1 , x } ^ { ( i ) } } { G _ { n } ^ { ( i ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "One know the potential function have important application value for solving the Laplace equation.In this paper,the analytical solutions of node potential functions under various conditions are given，which provides a new theory for practical application. In particular, these simple equations of Eqs.(119) and (12O) are very interesting and meaningful for applications. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "B. Resistance of complex mxn cylindrical network ",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Consider a complex $m { \\times } n$ cylindrical network with two arbitrary boundaries shown in Fig.2, where the maximum coordinate value is $( n , m )$ , and defining $\\beta _ { k , s } ^ { ( i ) } = \\beta _ { x _ { k } , x _ { s } } ^ { ( i ) }$ , The equivalent resistance between two nodes $d _ { 1 } ( x _ { 1 } , y _ { 1 } )$ and $d _ { 2 } ( x _ { 2 } , y _ { 2 } )$ in the finite and semi-infinite cylindrical networks are respectively ",
+        "page_idx": 24
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( d _ { 1 } , d _ { 2 } ) = { \\frac { \\left| x _ { 2 } - x _ { 1 } \\right| } { m + 1 } } r + { \\frac { r _ { 0 } } { 2 ( m + 1 ) } } \\sum _ { i = 1 } ^ { m } { \\frac { \\beta _ { 1 , 1 } ^ { ( i ) } - 2 \\beta _ { 1 , 2 } ^ { ( i ) } \\cos ( y \\theta _ { i } ) + \\beta _ { 2 , 2 } ^ { ( i ) } } { ( 1 - \\cos \\theta _ { i } ) G _ { n } ^ { ( i ) } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 24
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times \\infty } ( d _ { 1 } , d _ { 2 } ) = \\frac { \\left| x _ { 2 } - x _ { 1 } \\right| } { m + 1 } r + \\frac { r } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { 1 - \\overline { { \\lambda } } _ { i } ^ { \\left| x _ { 2 } - x _ { 1 } \\right| } \\cos ( y \\theta _ { i } ) } { \\sqrt { \\left( 1 + h - h \\cos \\theta _ { i } \\right) ^ { 2 } - 1 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "where $\\theta _ { i } = 2 i \\pi / ( m + 1 )$ ， $y = y _ { 2 } - y _ { 1 }$ ， $\\beta _ { k , s } ^ { ( i ) }$ and $G _ { k } ^ { ( i ) }$ are,respectively， defined in Eqs.(24)-(25). For Eq.(122), there be $n \\to \\infty$ ， $x _ { 1 }$ ， $x _ { 2 } \\to \\infty$ with finite m. Eq.(122) can be derived by taking the limit $n \\to \\infty$ in Eq.(121). ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Proof of Eq.(121). For Fig.2, substituting Eq.(103) with $k = x _ { 1 } , x _ { 2 }$ into Eq.(41),we therefore achieve (121). ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Formula (121) is an exact and exciting result because the network of Fig.2 is very complex and has not been resolved before,and contains a lot of resistor network models,where each of the different boundary resistor $r _ { i }$ represents a different network structure. In particular, when taking some specific value for $r _ { 1 }$ and $r _ { 2 }$ , Eq.(121) gives rise to a series of special cases below. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Case 1. Consider a non-regular $m \\times n$ cylindrical network of Fig.2. When $r _ { 1 } = r _ { 0 }$ ，the resistance of Eq.(121) reduces to ",
+        "page_idx": 24
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( d _ { 1 } , d _ { 2 } ) = \\frac { \\left| x _ { 2 } - x _ { 1 } \\right| } { m + 1 } r + \\frac { r _ { 0 } } { 2 ( m + 1 ) } \\sum _ { i = 1 } ^ { m } \\frac { \\beta _ { 1 , 1 } ^ { ( i ) } - 2 \\beta _ { 1 , 2 } ^ { ( i ) } \\cos ( y \\theta _ { i } ) + \\beta _ { 2 , 2 } ^ { ( i ) } } { ( 1 - \\cos \\theta _ { i } ) [ F _ { n + 1 } ^ { ( i ) } + ( h _ { 2 } - 1 ) F _ { n } ^ { ( i ) } ] } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "where $\\beta _ { k , s } ^ { ( i ) }$ reduces to $\\beta _ { k , s } ^ { ( i ) } = \\Delta F _ { x _ { k } } ^ { ( i ) } [ \\Delta F _ { n - x _ { s } } ^ { ( i ) } + ( h _ { 2 } - 1 ) \\Delta F _ { n - x _ { s } - 1 } ^ { ( i ) } ] .$ ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Case 2. Consider a normal $m \\times n$ cylindrical network of Fig.2 with $r _ { 1 } = r _ { 2 } = r _ { 0 }$ , the resistance of Eq.(121) reduces to ",
+        "page_idx": 25
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( d _ { 1 } , d _ { 2 } ) = \\frac { \\left| x _ { 2 } - x _ { 1 } \\right| } { m + 1 } r + \\frac { r _ { 0 } } { 2 ( m + 1 ) } \\sum _ { i = 1 } ^ { m } \\frac { \\beta _ { 1 , 1 } ^ { ( i ) } - 2 \\beta _ { 1 , 2 } ^ { ( i ) } \\cos ( y \\theta _ { i } ) + \\beta _ { 2 , 2 } ^ { ( i ) } } { ( 1 - \\cos \\theta _ { i } ) F _ { n + 1 } ^ { ( i ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "where $\\beta _ { k , s } ^ { ( i ) }$ reduces to $\\beta _ { k , s } ^ { ( i ) } = \\Delta F _ { x _ { k } } ^ { ( i ) } \\Delta F _ { n - x _ { s } } ^ { ( i ) }$ ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Case 3. Consider a non-regular $m \\times n$ cylindrical network of Fig.2，when $h _ { \\scriptscriptstyle 1 } = 0$ ，the left boundary collpses to a pole,the network of Fig.2 degrades into a cobweb network with an arbitrary boundary resistor $r _ { 2 }$ as shown in Fig.7(a), we have the equivalent resistance ",
+        "page_idx": 25
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( d _ { 1 } , d _ { 2 } ) = \\frac { \\left| x _ { 2 } - x _ { 1 } \\right| } { m + 1 } r + \\frac { r } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { \\beta _ { 1 , 1 } ^ { ( i ) } - 2 \\beta _ { 1 , 2 } ^ { ( i ) } \\cos ( y \\theta _ { i } ) + \\beta _ { 2 , 2 } ^ { ( i ) } } { \\Delta F _ { n } ^ { ( i ) } + ( h _ { _ { 2 } } - 1 ) \\Delta F _ { n - 1 } ^ { ( i ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "where $\\beta _ { k , s } ^ { ( i ) }$ is re-defined as $\\beta _ { k , s } ^ { ( i ) } = F _ { x _ { k } } ^ { ( i ) } [ \\Delta F _ { n - x _ { s } } ^ { ( i ) } + ( h _ { 2 } - 1 ) \\Delta F _ { n - x _ { s } - 1 } ^ { ( i ) } ] .$ ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "In particular，when $h _ { 1 } = 0 , h _ { 2 } = 1$ ，the network of Fig.7(a) degrades into a regular cobweb network, the resistance of Eq.(125) reduces to ",
+        "page_idx": 25
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( d _ { 1 } , d _ { 2 } ) = \\frac { \\left| x _ { 2 } - x _ { 1 } \\right| } { m + 1 } r + \\frac { r } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { \\beta _ { 1 , 1 } ^ { ( i ) } - 2 \\beta _ { 1 , 2 } ^ { ( i ) } \\cos ( y \\theta _ { i } ) + \\beta _ { 2 , 2 } ^ { ( i ) } } { \\Delta F _ { n } ^ { ( i ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "where $\\beta _ { k , s } ^ { ( i ) }$ is redefined as $\\beta _ { k , s } ^ { ( i ) } = F _ { x _ { k } } ^ { ( i ) } \\Delta F _ { n - x _ { s } } ^ { ( i ) }$ ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Please note that case 3 has been researched in Ref.[37],but the result is different from Eq.(126),however they are equivalent to each other. The reason is that they choice the different matrix along different direction, where Ref.[37] set up matrix along the longitude, but this paper set up matrix along the latitude. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Case 4. When $h _ { 1 } = h _ { 2 } = 0$ ， the left and right boundary collapse respectively to two poles, the network of Fig.2 degrades into an $m \\times n$ globe network as shown in Fig.7(b), we have ",
+        "page_idx": 25
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( d _ { 1 } , d _ { 2 } ) = \\frac { \\left| x _ { 2 } - x _ { 1 } \\right| } { m + 1 } r + \\frac { r } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { \\beta _ { 1 , 1 } ^ { ( i ) } - 2 \\beta _ { 1 , 2 } ^ { ( i ) } \\cos ( y \\theta _ { i } ) + \\beta _ { 2 , 2 } ^ { ( i ) } } { F _ { n } ^ { ( i ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "where $\\beta _ { k , s } ^ { ( i ) }$ is re-defined as $\\beta _ { k , s } ^ { ( i ) } = F _ { x _ { k } } ^ { ( i ) } F _ { n - x _ { s } } ^ { ( i ) }$ ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Please note that case 4 has been researched in Ref.[36],but the result is different from Eq.(127),however they are equivalent to each other. The reason is that they choice the different matrix along diferent axes.This also shows that the equivalent resistance can be expressed in different forms. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Case 5. Consider a non-regular $m \\times n$ cylindrical network of Fig.2，when $d _ { \\mathrm { 1 } } ( x , 0 )$ and $d _ { 2 } ( x , y )$ are on the same latitude, the resistance of Eq.(121) reduces to ",
+        "page_idx": 26
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( \\{ x , 0 \\} , \\{ x , y \\} ) = \\frac { r _ { 0 } } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { \\beta _ { x , x } ^ { ( i ) } } { G _ { n } ^ { ( i ) } } \\Bigg ( \\frac { 1 - \\cos ( y \\theta _ { i } ) } { 1 - \\cos \\theta _ { i } } \\Bigg ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "where $\\beta _ { x , x } ^ { ( i ) } = \\alpha _ { 1 , x } ^ { ( i ) } \\alpha _ { 2 , n - x } ^ { ( i ) }$ ,and （号 α@iis defined in Eq.(23). ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "In particular, when $h _ { 1 } = h _ { 2 } = 1$ , the network of Fig.2 degrades into a regular cylindrical network, the resistance of Eq.(128) reduces to ",
+        "page_idx": 26
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( \\{ x , 0 \\} , \\{ x , y \\} ) = \\frac { r _ { 0 } } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { \\Delta F _ { x } ^ { ( i ) } \\Delta F _ { n - x } ^ { ( i ) } } { F _ { n + 1 } ^ { ( i ) } } \\Bigg ( \\frac { 1 - \\cos ( y \\theta _ { i } ) } { 1 - \\cos \\theta _ { i } } \\Bigg ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Especially,when $d _ { \\mathrm { 1 } } ( 0 , 0 )$ and $d _ { 2 } ( 0 , y )$ are on the left edge,Eq.(129) reduces to ",
+        "page_idx": 26
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( \\{ 0 , 0 \\} , \\{ 0 , y \\} ) = \\frac { r _ { 0 } } { m + 1 } \\sum _ { i = 1 } ^ { m } \\Biggl ( 1 - \\frac { F _ { n } ^ { ( i ) } } { F _ { n + 1 } ^ { ( i ) } } \\Biggr ) \\frac { 1 - \\cos ( y \\theta _ { i } ) } { 1 - \\cos \\theta _ { i } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Case 6. Consider a non-regular $m \\times n$ cylindrical network of Fig.2,when both $d _ { 1 } ( x _ { 1 } , 0 )$ and $d _ { 2 } ( x _ { 2 } , 0 )$ are on the same horizontal axis,we have ",
+        "page_idx": 26
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( \\{ x _ { 1 } , 0 \\} , \\{ x _ { 2 } , 0 \\} ) = \\frac { \\left| x _ { 2 } - x _ { 1 } \\right| } { m + 1 } r + \\frac { r _ { 0 } } { 2 ( m + 1 ) } \\sum _ { i = 1 } ^ { m } \\frac { \\beta _ { 1 , 1 } ^ { ( i ) } - 2 \\beta _ { 1 , 2 } ^ { ( i ) } + \\beta _ { 2 , 2 } ^ { ( i ) } } { ( 1 - \\cos \\theta _ { i } ) G _ { n } ^ { ( i ) } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Case 7. When $d _ { \\mathrm { 1 } } ( \\ r _ { 0 } , \\ r _ { 0 } )$ is at the coordinate origin, and $d _ { 2 } ( x , y )$ is an arbitrary point, formula (121) reduces to ",
+        "page_idx": 26
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( \\{ 0 , 0 \\} , \\{ x , y \\} ) = \\frac { \\chi r } { m + 1 } r + \\frac { r _ { 0 } } { 2 ( m + 1 ) } \\sum _ { i = 1 } ^ { m } \\frac { h _ { 1 } \\alpha _ { 2 , n } ^ { ( i ) } - 2 h _ { 1 } \\alpha _ { 2 , n - x } ^ { ( i ) } \\cos ( y \\theta _ { i } ) + \\beta _ { 2 , 2 } ^ { ( i ) } } { ( 1 - \\cos \\theta _ { i } ) G _ { n } ^ { ( i ) } } ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "where $\\alpha _ { k , x } ^ { ( i ) }$ and $\\beta _ { k , s } ^ { ( i ) }$ are defined in Eqs.(24) and (25). ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "In particular, when $h _ { 1 } = h _ { 2 } = 1$ and $y = m$ ,Eq.(132) reduces to ",
+        "page_idx": 26
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( \\{ 0 , 0 \\} , \\{ x , y \\} ) = \\frac { \\chi r } { m + 1 } r + \\frac { r } { 2 ( m + 1 ) } \\sum _ { i = 1 } ^ { m } \\frac { \\Delta F _ { n } ^ { ( i ) } - 2 \\Delta F _ { n - x } ^ { ( i ) } \\cos ( y \\theta _ { i } ) + \\Delta F _ { x } ^ { ( i ) } \\Delta F _ { n - x } ^ { ( i ) } } { ( 1 - \\cos \\theta _ { i } ) G _ { n } ^ { ( i ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Case 8. Consider a non-regular $m \\times n$ cylindrical network of Fig.2,when $d _ { \\mathrm { 1 } } ( \\ r _ { 0 } , \\ r _ { 0 } )$ is on the left edge and $d _ { 2 } ( n , y )$ is on the right edge, the resistance between two edges is ",
+        "page_idx": 26
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( \\{ 0 , 0 \\} , \\{ n , y \\} ) = \\frac { n } { m + 1 } r + \\frac { r _ { 0 } } { 2 ( m + 1 ) } \\sum _ { i = 1 } ^ { m } \\frac { h _ { 1 } \\alpha _ { 2 , n } ^ { ( i ) } + h _ { 2 } \\alpha _ { 1 , n } ^ { ( i ) } - 2 h _ { 1 } h _ { 2 } \\cos ( y \\theta _ { i } ) } { ( 1 - \\cos \\theta _ { i } ) G _ { n } ^ { ( i ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "In particular, when $h _ { 1 } = h _ { 2 } = 1$ ,Eq.(134) reduces to ",
+        "page_idx": 26
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( \\{ 0 , 0 \\} , \\{ n , y \\} ) = \\frac { n } { m + 1 } r + \\frac { r _ { 0 } } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { \\Delta F _ { n } ^ { ( i ) } - \\mathrm { c o s } ( y \\theta _ { i } ) } { ( 1 - \\mathrm { c o s } \\theta _ { i } ) F _ { n + 1 } ^ { ( i ) } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "When $h _ { \\scriptscriptstyle 1 } = 0$ ,Eq. (134) reduces to ",
+        "page_idx": 27
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { m \\times n } ( \\{ 0 , 0 \\} , \\{ n , y \\} ) = \\frac { n } { m + 1 } r + \\frac { r h _ { 2 } } { m + 1 } \\sum _ { i = 1 } ^ { m } \\frac { F _ { n } ^ { ( i ) } } { \\Delta F _ { n } ^ { ( i ) } + ( h _ { 2 } - 1 ) \\Delta F _ { n - 1 } ^ { ( i ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Case 9. Consider a non-regular $m \\times n$ cylindrical network of Fig.2,when $d _ { 1 } ( x , 0 )$ is at the bottom edge, $d _ { 2 } ( x , y )$ is an arbitrary node, and $m , n \\to \\infty$ ,but $x , y$ are finite,by(128) we have ",
+        "page_idx": 27
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\infty } ( \\{ x , 0 \\} , \\{ x , y \\} ) = \\frac { r } { \\pi } \\int _ { 0 } ^ { \\pi } \\frac { [ 1 - \\cos ( y \\theta ) ] ( 1 + q \\overline { { \\lambda } } ^ { 2 x - 1 } ) } { \\sqrt { \\left( 1 + h - h \\cos \\theta \\right) ^ { 2 } - 1 } } d \\theta ,\n$$",
+        "text_format": "latex",
+        "page_idx": 27
+    },
+    {
+        "type": "equation",
+        "text": "$$\nq = ( \\overline { { \\lambda } } + h _ { 1 } - 1 ) \\big / ( \\lambda + h _ { 1 } - 1 ) , ~ \\overline { { \\lambda } } = 1 + h - h \\cos \\theta - \\sqrt { ( 1 + h - h \\cos \\theta ) ^ { 2 } - 1 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "In particular, when $h _ { \\scriptscriptstyle 1 } = 1$ , Eq.(137) reduces to ",
+        "page_idx": 27
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\infty } ( \\{ x , 0 \\} , \\{ x , y \\} ) = \\frac { r } { \\pi } \\int _ { 0 } ^ { \\pi } \\frac { [ 1 - \\cos ( y \\theta ) ] ( 1 + \\overline { { \\lambda } } ^ { 2 x + 1 } ) } { \\sqrt { \\left( 1 + h - h \\cos \\theta \\right) ^ { 2 } - 1 } } d \\theta .\n$$",
+        "text_format": "latex",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "When $x \\to \\infty$ ,but $y$ is finite,Eq.(137) reduces to ",
+        "page_idx": 27
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\infty } ( \\{ x , 0 \\} , \\{ x , y \\} ) = \\frac { r } { \\pi } \\int _ { 0 } ^ { \\pi } \\frac { 1 - \\cos ( y \\theta ) } { \\sqrt { \\left( 1 + h - h \\cos \\theta \\right) ^ { 2 } - 1 } } d \\theta ,\n$$",
+        "text_format": "latex",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Notice that Eqs.(137) and (138) belong to the case of a semi-infinite network, while Eq.(139) belongs to the case of an infinite network. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "From the above results we know formula (121） and (122) are two general results which, contains many results in a variety of lattice structures, can produce many new resistance formulae, and can create new identity (see Section 6). ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "It is essential to take into account formula (121） again in order to help the reader further to understand its meaning, here two simple examples are given below. ",
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/f187e808a77d4c41fe8c43dc57ea9792a87fa544486941fe38ce69bc7e7ce427.jpg",
+        "img_caption": [
+            "Fig.8 A 3D $\\triangle \\times n$ network with resistors $r$ and $r _ { 0 }$ in the respective horizontal and vertical directions except for $r _ { 1 }$ and $r _ { 2 }$ on the left and right edges. "
+        ],
+        "img_footnote": [],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Case 10.When $m = 2$ , Fig.2 degrades into a 3D $\\triangle \\times n$ resistor network as shown in Fig.8. By Eq.(21) we have $\\theta _ { i } = 2 i \\pi / 3 ( i = 1 , 2 )$ , substituting to Eq.(20) yields ",
+        "page_idx": 27
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { 1 } = \\lambda _ { 2 } = 1 + \\frac { 3 } { 2 } h + \\sqrt { ( 1 + \\frac { 3 } { 2 } h ) ^ { 2 } - 1 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "So we have $\\beta _ { t , s } ^ { ( 2 ) } = \\beta _ { t , s } ^ { ( 1 ) }$ ，and $\\theta _ { 1 } = 2 \\pi / 3$ ， $\\theta _ { 2 } = 4 \\pi / 3$ . By Eq.(121),we have the equivalent resistance between any two nodes ",
+        "page_idx": 28
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\Delta \\times n } ( A _ { x _ { 1 } } , P _ { k } ) = \\frac { \\left| k - x _ { 1 } \\right| } { 3 } r + \\frac { 2 r _ { 0 } } { 9 } \\left( \\frac { \\beta _ { 1 , 1 } ^ { ( 1 ) } - 2 \\beta _ { 1 , 2 } ^ { ( 1 ) } \\cos ( 2 \\pi y / 3 ) + \\beta _ { 2 , 2 } ^ { ( 1 ) } } { G _ { n } ^ { ( 1 ) } } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "where $P _ { k }$ represents the nodes of $A _ { k } , B _ { k } , C _ { k }$ ，and $\\beta _ { k , s } ^ { ( 1 ) } , \\ G _ { k } ^ { ( 1 ) }$ are,respectively, defined in Eqs.(24) and (25) . ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Eq.(141) is a general formula, which can produce two specific result below. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Consider the resistance between two nodes $A _ { x _ { 1 } }$ and $A _ { k }$ ,there be $y = 0$ ,Eq.(141) reduces to ",
+        "page_idx": 28
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\Delta \\times n } ( A _ { x _ { 1 } } , A _ { k } ) = \\frac { \\left| k - x _ { 1 } \\right| } { 3 } r + \\frac { 2 r _ { 0 } } { 9 } \\left( \\frac { \\beta _ { 1 , 1 } ^ { ( 1 ) } - 2 \\beta _ { 1 , 2 } ^ { ( 1 ) } + \\beta _ { 2 , 2 } ^ { ( 1 ) } } { G _ { n } ^ { ( 1 ) } } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Consider the resistance between two nodes $A _ { x _ { 1 } }$ and $B _ { k }$ (or $C _ { k }$ )， there be $y = 1$ ，Eq.(141) reduces to ",
+        "page_idx": 28
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\mathrm { a x } n } ( A _ { x _ { 1 } } , B _ { k } ) = R _ { \\mathrm { A x } n } ( A _ { x _ { 1 } } , C _ { k } ) = \\frac { \\left| k - x _ { 1 } \\right| } { 3 } r + \\frac { 2 r _ { 0 } } { 9 } \\left( \\frac { \\beta _ { 1 , 1 } ^ { ( 1 ) } + \\beta _ { 1 , 2 } ^ { ( 1 ) } + \\beta _ { 2 , 2 } ^ { ( 1 ) } } { G _ { n } ^ { ( 1 ) } } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Fig.8 is a simple and common network model, but getting the equivalent resistance has always been a difficult problem because of the complexity of the boundary conditions.Eq.(141) is given for the first time,which provides a new theoretical basis for practical application. ",
+        "page_idx": 28
+    },
+    {
+        "type": "image",
+        "img_path": "images/09bc0bdf399fb6ca927315c1d76aebba2e62b27ca8375777c27d13ad11b1d28a.jpg",
+        "img_caption": [
+            "Fig.9 A3D $\\scriptstyle \\Xi \\times n$ network with resistors $r$ and $r _ { 0 }$ in the respective horizontal and vertical directions except for $r _ { 1 }$ and $r _ { 2 }$ on the left and right edges. "
+        ],
+        "img_footnote": [],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Case 11. When $m = 3$ , Fig.2 degrades into a $3 \\mathrm { D } \\sqcup \\times n$ resistor network as shown in Fig.9. We can get the equivalent resistance between any two nodes by Eq.(121). By Eq.(21) we have $\\theta _ { i } = i \\pi / 2$ , substituting it to Eq.(20) yields ",
+        "page_idx": 28
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { 1 } = \\lambda _ { 3 } = 1 + h + \\sqrt { \\left( 1 + h \\right) ^ { 2 } - 1 } , \\lambda _ { 2 } = 1 + 2 h + \\sqrt { \\left( 1 + 2 h \\right) ^ { 2 } - 1 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "So we have $\\beta _ { t , s } ^ { ( 3 ) } = \\beta _ { t , s } ^ { ( 1 ) }$ ,and $\\theta _ { 1 } = \\pi / 2 , \\theta _ { 2 } = \\pi$ . By Eq.(121), we have ",
+        "page_idx": 28
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal R } _ { \\mathrm { o s s } } ( A _ { 0 } , P _ { k } ) = \\frac { k } { 4 } r + \\frac { r _ { 0 } } { 4 } \\left( \\frac { \\beta _ { 1 , 1 } ^ { ( 1 ) } - 2 \\beta _ { 1 , 2 } ^ { ( 1 ) } \\cos ( y \\theta _ { 1 } ) + \\beta _ { 2 , 2 } ^ { ( 1 ) } } { G _ { n } ^ { ( 1 ) } } \\right) + \\frac { r _ { 0 } } { 1 6 } \\left( \\frac { \\beta _ { 1 , 1 } ^ { ( 2 ) } - 2 \\beta _ { 1 , 2 } ^ { ( 2 ) } \\cos ( y \\theta _ { 2 } ) + \\beta _ { 2 , 2 } ^ { ( 2 ) } } { G _ { n } ^ { ( 2 ) } } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "where $P _ { k }$ represents the nodes of $A _ { k } , B _ { k } , C _ { k } , D _ { k }$ ，and $\\beta _ { k , s } ^ { ( i ) }$ ， $G _ { k } ^ { ( i ) }$ are,respectively， defined in Eqs.(24) and (25) . ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Eq.(145) is a general formula, which can produce three specific result below. ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Consider the resistance between two nodes $A _ { 0 }$ and $A _ { k }$ ,there be $y = 0$ ,Eq.(145) reduces to ",
+        "page_idx": 29
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\mathrm { v a n } } ( A _ { 0 } , A _ { k } ) = \\frac { k } { 4 } r + \\frac { r _ { 0 } } { 4 } \\left( \\frac { \\beta _ { 1 , 1 } ^ { ( 1 ) } - 2 \\beta _ { 1 , 2 } ^ { ( 1 ) } + \\beta _ { 2 , 2 } ^ { ( 1 ) } } { G _ { n } ^ { ( 1 ) } } \\right) + \\frac { r _ { 0 } } { 1 6 } \\left( \\frac { \\beta _ { 1 , 1 } ^ { ( 2 ) } - 2 \\beta _ { 1 , 2 } ^ { ( 2 ) } + \\beta _ { 2 , 2 } ^ { ( 2 ) } } { G _ { n } ^ { ( 2 ) } } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Consider the resistance between two nodes $A _ { 0 }$ and $B _ { k }$ ,there be $y = 1$ ,Eq.(145) reduces to ",
+        "page_idx": 29
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\mathtt { U } \\times n } ( A _ { 0 } , B _ { k } ) = \\frac { k } { 4 } r + \\frac { r _ { 0 } } { 4 } \\left( \\frac { \\beta _ { 1 , 1 } ^ { ( 1 ) } + \\beta _ { 2 , 2 } ^ { ( 1 ) } } { G _ { n } ^ { ( 1 ) } } \\right) + \\frac { r _ { 0 } } { 1 6 } \\left( \\frac { \\beta _ { 1 , 1 } ^ { ( 2 ) } + 2 \\beta _ { 1 , 2 } ^ { ( 2 ) } + \\beta _ { 2 , 2 } ^ { ( 2 ) } } { G _ { n } ^ { ( 2 ) } } \\right) \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Consider the resistance between two nodes $A _ { 0 }$ and $C _ { k }$ ,there be $y = 2$ ,Eq.(145) reduces to ",
+        "page_idx": 29
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\mathrm { g x } n } ( A _ { 0 } , C _ { k } ) = \\frac { k } { 4 } r + \\frac { r _ { 0 } } { 4 } \\left( \\frac { \\beta _ { 1 , 1 } ^ { ( 1 ) } + 2 \\beta _ { 1 , 2 } ^ { ( 1 ) } + \\beta _ { 2 , 2 } ^ { ( 1 ) } } { G _ { n } ^ { ( 1 ) } } \\right) + \\frac { r _ { 0 } } { 1 6 } \\left( \\frac { \\beta _ { 1 , 1 } ^ { ( 2 ) } - 2 \\beta _ { 1 , 2 } ^ { ( 2 ) } + \\beta _ { 2 , 2 } ^ { ( 2 ) } } { G _ { n } ^ { ( 2 ) } } \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "The case 11 tells us again that the general formula (121) is a meaningful and multipurpose result since just a 3D $\\scriptstyle \\mathtt { \\square } \\mathtt { \\sqcap } \\mathrm { \\times } \\mathtt { \\mathtt { n } }$ resistor network has rich contents and many functions such as Eq.(145)-(148). ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "VI. Comparation and Trigonometric Identities ",
+        "text_level": 1,
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "A.Proposition-1. A general trigonometric identity-1 ",
+        "text_level": 1,
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Defining $C _ { y _ { k } , i } = \\cos ( y _ { k } + \\frac { 1 } { 2 } ) \\theta _ { i }$ ，and $\\theta _ { i } = \\frac { i \\pi } { m + 1 } \\ , \\quad \\phi _ { j } = \\frac { j \\pi } { n + 1 }$ . When m,n and $x _ { k } , y _ { k }$ are natural numbers,and $0 \\leq x _ { 1 } , x _ { 2 } \\leq n$ ， $0 \\leq y _ { 1 } , y _ { 2 } \\leq m$ ,we have the trigonometric identity ",
+        "page_idx": 29
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } {  { \\frac { 2 } { n + 1 } \\sum _ { i = 1 } ^ { m } \\sum _ { j = 1 } ^ { n } \\frac { \\displaystyle \\sum _ { \\big } C _ { y _ { 1 } , i } \\cos ( x _ { 1 } + \\frac { 1 } { 2 } ) \\phi _ { j } - C _ { y _ { 2 } , i } \\cos ( x _ { 2 } + \\frac { 1 } { 2 } ) \\phi _ { j } \\Big ] ^ { 2 } } { ( 1 - \\cos \\theta _ { i } ) + h ^ { - 1 } ( 1 - \\cos \\phi _ { j } ) } } } \\\\ & { } & \\\\ & { } & { = - \\displaystyle \\frac { m + 1 } { n + 1 } \\big | y _ { 1 } - y _ { 2 } \\big | + \\sum _ { i = 1 } ^ { m } \\frac { \\displaystyle \\beta _ { 1 , 1 } ^ { ( i ) } C _ { y _ { 1 } , i } ^ { 2 } - 2 \\beta _ { 1 , 2 } ^ { ( i ) } C _ { y _ { 1 } , i } C _ { y _ { 2 } , i } + \\beta _ { 2 , 2 } ^ { ( i ) } C _ { y _ { 2 } , i } ^ { 2 } } { ( 1 - \\cos \\theta _ { i } ) F _ { n + 1 } ^ { ( i ) } } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "where $\\beta _ { k , s } ^ { ( i ) } = \\Delta F _ { x _ { k } } ^ { ( i ) } \\Delta F _ { n - x _ { s } } ^ { ( i ) }$ and $F _ { k } ^ { ( i ) } = { ( \\lambda _ { i } ^ { k } - \\overline { { { \\lambda } } } _ { i } ^ { k } ) } \\big / ( \\lambda _ { i } - \\overline { { { \\lambda } } } _ { i } ) , ~ \\Delta F _ { k } ^ { ( i ) } = F _ { k + 1 } ^ { ( i ) } - F _ { k } ^ { ( i ) }$ with ",
+        "page_idx": 29
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\lambda _ { i } = 1 + h - h \\cos \\theta _ { i } + \\sqrt { \\left( 1 + h - h \\cos \\theta _ { i } \\right) ^ { 2 } - 1 } , } \\\\ & { } \\\\ & { \\overline { { \\lambda } } _ { i } = 1 + h - h \\cos \\theta _ { i } - \\sqrt { \\left( 1 + h - h \\cos \\theta _ { i } \\right) ^ { 2 } - 1 } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Please note that the identity (149)is found for the first time by this paper. Identity (149) reduces a double sum to a single sum，which provides a new proposition and research method for mathematicians. ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Proof of the Proposition-1 ",
+        "text_level": 1,
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Consider a regular $m { \\times } n$ rectangular network shown in Fig.1 with $r _ { 1 } = r _ { 2 } = r _ { 0 }$ , Ref.[30] gave a resistance formula(1） by the Laplacian matrix method,which is in the form of double sum. However, this paper gives Eq.(68) by the $R T  – V$ method,where the condition and network structure agree with Ref.[30]. Obviously, the two results with different form in two dierent articles are necessarily equivalence because they are from the same network with the same coordinates. Comparing formula (68) with formula (1),we immediately obtain identity (149). ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "We find Eq.(149) is an interesting identity for simplifying the double sum to be a single sum. In particular, when taking particular values of $y , m , n$ and $x _ { 1 } , x _ { 2 }$ ，we have the following simple trigonometric identities. ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Deduction 1. When $y _ { 1 } = y _ { 2 } = y$ ,Eq.(149) reduces to ",
+        "page_idx": 30
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\frac { 2 } { n + 1 } \\displaystyle \\sum _ { i = 1 } ^ { m } \\sum _ { j = 1 } ^ { n } \\frac { \\left[ \\cos ( x _ { 1 } + \\frac { 1 } { 2 } ) \\phi _ { j } - \\cos ( x _ { 2 } + \\frac { 1 } { 2 } ) \\phi _ { j } \\right] ^ { 2 } \\cos ^ { 2 } ( y + \\frac { 1 } { 2 } ) \\theta _ { i } } { ( 1 - \\cos \\theta _ { i } ) + h ^ { - 1 } ( 1 - \\cos \\phi _ { j } ) } } \\\\ & { \\quad = \\displaystyle \\sum _ { i = 1 } ^ { m } \\frac { \\beta _ { 1 , 1 } ^ { ( i ) } - 2 \\beta _ { 1 , 2 } ^ { ( i ) } + \\beta _ { 2 , 2 } ^ { ( i ) } } { F _ { n + 1 } ^ { ( i ) } } \\frac { \\left( \\cos ^ { 2 } ( y + \\frac { 1 } { 2 } ) \\theta _ { i } \\right) } { 1 - \\cos \\theta _ { i } } \\Bigg ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "In particular, when $x _ { 1 } = 0 , \\ x _ { 2 } = n$ ,Eq.(151) reduces to ",
+        "page_idx": 30
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 2 } { n + 1 } \\sum _ { i = 1 } ^ { m } \\sum _ { j = 1 } ^ { n } \\frac { \\big [ 1 - ( - 1 ) ^ { j } \\big ] \\bigg [ \\cos ( \\frac { 1 } { 2 } \\phi _ { j } ) \\cos ( y + \\frac { 1 } { 2 } ) \\theta _ { i } \\bigg ] ^ { 2 } } { ( 1 - \\cos \\theta _ { i } ) + h ^ { - 1 } ( 1 - \\cos \\phi _ { j } ) } = \\sum _ { i = 1 } ^ { m } \\frac { \\Delta F _ { n } ^ { ( i ) } - 1 } { F _ { n + 1 } ^ { ( i ) } } \\left( \\frac { \\cos ^ { 2 } ( y + \\frac { 1 } { 2 } ) \\theta _ { i } } { 1 - \\cos \\theta _ { i } } \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Deduction 2. When $y _ { 1 } = y _ { 2 } = 0$ ,Eq.(149) reduces to ",
+        "page_idx": 30
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\frac { 4 } { n + 1 } \\sum _ { i = 1 } ^ { m } \\sum _ { j = 1 } ^ { n } \\frac { \\left[ \\cos ( x _ { 1 } + \\displaystyle \\frac { 1 } { 2 } ) \\phi _ { j } - \\cos ( x _ { 2 } + \\displaystyle \\frac { 1 } { 2 } ) \\phi _ { j } \\right] ^ { 2 } } { ( 1 - \\cos \\theta _ { i } ) + h ^ { - 1 } ( 1 - \\cos \\phi _ { j } ) } \\cos ^ { 2 } ( \\frac { 1 } { 2 } \\theta _ { i } ) } \\\\ { \\displaystyle \\quad \\quad = \\sum _ { i = 1 } ^ { m } \\frac { \\beta _ { 1 , 1 } ^ { ( i ) } - 2 \\beta _ { 1 , 2 } ^ { ( i ) } + \\beta _ { 2 , 2 } ^ { ( i ) } } { F _ { n + 1 } ^ { ( i ) } } \\cot ^ { 2 } ( \\frac { 1 } { 2 } \\theta _ { i } ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "When $m = 1 , \\ y = 0$ ,there be $\\theta _ { i } = \\pi / 2$ ,Eq.(153) reduces to ",
+        "page_idx": 30
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 2 } { n + 1 } \\sum _ { j = 1 } ^ { n } \\frac { \\biggl [ \\cos ( x _ { 1 } + \\frac { 1 } { 2 } ) \\phi _ { j } - \\cos ( x _ { 2 } + \\frac { 1 } { 2 } ) \\phi _ { j } \\biggr ] ^ { 2 } } { 1 + h ^ { - 1 } ( 1 - \\cos \\phi _ { j } ) } = \\frac { \\beta _ { 1 , 1 } ^ { ( 1 ) } - 2 \\beta _ { 1 , 2 } ^ { ( 1 ) } + \\beta _ { 2 , 2 } ^ { ( 1 ) } } { F _ { n + 1 } ^ { ( 1 ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 30
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta _ { k , s } ^ { ( 1 ) } = \\Delta F _ { x _ { k } } ^ { ( 1 ) } \\Delta F _ { n - x _ { s } } ^ { ( 1 ) } , F _ { k } ^ { ( 1 ) } = ( \\lambda _ { 1 } ^ { k } - { \\overline { { \\lambda } } } _ { 1 } ^ { k } ) { \\big / } ( \\lambda _ { 1 } - { \\overline { { \\lambda } } } _ { 1 } ) { \\mathrm { w i t h } } \\lambda _ { 1 } = 1 + h + { \\sqrt { h ( 2 + h ) } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Deduction 3. When $x _ { 1 } = x _ { 2 } = x$ ， $C _ { y _ { k } , i } = \\cos ( y _ { k } + \\frac { 1 } { 2 } ) \\theta _ { i }$ , Eq.(149) reduces to ",
+        "page_idx": 30
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { 2 } { n + 1 } } \\sum _ { i = 1 } ^ { m } \\sum _ { j = 1 } ^ { n } { \\frac { ( C _ { y _ { 1 } , i } - C _ { y _ { 2 } , i } ) ^ { 2 } \\cos ^ { 2 } ( x + { \\frac { 1 } { 2 } } ) \\phi _ { j } } { ( 1 - \\cos \\theta _ { i } ) + h ^ { - 1 } ( 1 - \\cos \\phi _ { j } ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 30
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= - \\frac { m + 1 } { n + 1 } \\big | y _ { 1 } - y _ { 2 } \\big | + \\sum _ { i = 1 } ^ { m } \\left( \\frac { \\Delta F _ { x } ^ { ( i ) } \\Delta F _ { n - x } ^ { ( i ) } } { F _ { n + 1 } ^ { ( i ) } } \\right) \\frac { ( C _ { y _ { 1 } , i } - C _ { y _ { 2 } , i } ) ^ { 2 } } { 1 - \\cos \\theta _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "In particular, when $x = 0$ ,Eq.(155) reduces to ",
+        "page_idx": 31
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 2 } { n + 1 } \\sum _ { i = 1 } ^ { m } \\sum _ { j = 1 } ^ { n } \\frac { ( C _ { y _ { 1 } , i } - C _ { y _ { 2 } , i } ) ^ { 2 } \\cos ^ { 2 } ( \\frac { 1 } { 2 } \\phi _ { j } ) } { ( 1 - \\cos \\theta _ { i } ) + h ^ { - 1 } ( 1 - \\cos \\phi _ { j } ) } = \\frac { n ( m + 1 ) } { n + 1 } \\big | y _ { 1 } - y _ { 2 } \\big | - \\sum _ { i = 1 } ^ { m } \\frac { F _ { n } ^ { ( i ) } } { F _ { n + 1 } ^ { ( i ) } } \\left( \\frac { ( C _ { y _ { 1 } , i } - C _ { y _ { 2 } , i } ) ^ { 2 } } { 1 - \\cos \\theta _ { i } } \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "$\\Delta F _ { 0 } ^ { ( i ) } \\Delta F _ { n } ^ { ( i ) } = F _ { n + 1 } ^ { ( i ) } - F _ { n } ^ { ( i ) }$ and the following Eq.(176) is used. ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "When $y _ { 1 } = 0 , \\ y _ { 2 } = m$ ,Eq.(155) reduces to ",
+        "page_idx": 31
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\frac { 4 } { n + 1 } \\sum _ { i = 1 } ^ { m } \\sum _ { j = 1 } ^ { n } \\frac { \\left[ 1 - ( - 1 ) ^ { i } \\right] \\left[ \\cos ( \\displaystyle \\frac 1 2 \\theta _ { i } ) \\cos ( x + \\displaystyle \\frac 1 2 ) \\phi _ { j } \\right] ^ { 2 } } { ( 1 - \\cos \\theta _ { i } ) + h ^ { - 1 } ( 1 - \\cos \\phi _ { j } ) } } } \\\\ { { \\displaystyle ~ = - \\frac { m + 1 } { n + 1 } m + \\sum _ { i = 1 } ^ { m } \\frac { \\Delta F _ { x } ^ { ( i ) } \\Delta F _ { n - x } ^ { ( i ) } } { F _ { n + 1 } ^ { ( i ) } } \\left[ 1 - ( - 1 ) ^ { i } \\right] \\cot ^ { 2 } ( \\displaystyle \\frac 1 2 \\theta _ { i } ) . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "Deduction 4. When $m = 1 , y _ { 1 } = 0 , y _ { 2 } = 1$ , we have $\\theta _ { i } = \\pi / 2$ ,Eq.(149) reduces to ",
+        "page_idx": 31
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 } { n + 1 } \\sum _ { j = 1 } ^ { n } \\frac { [ \\cos ( x _ { 1 } + \\frac { 1 } { 2 } ) \\phi _ { j } + \\cos ( x _ { 2 } + \\frac { 1 } { 2 } ) \\phi _ { j } ] ^ { 2 } } { 1 + h ^ { - 1 } ( 1 - \\cos \\phi _ { j } ) } = \\frac { \\beta _ { 1 , 1 } ^ { ( 1 ) } + 2 \\beta _ { 1 , 2 } ^ { ( 1 ) } + \\beta _ { 2 , 2 } ^ { ( 1 ) } } { 2 F _ { n + 1 } ^ { ( 1 ) } } - \\frac { 2 } { n + 1 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 31
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { k } ^ { ( 1 ) } = ( \\lambda _ { 1 } ^ { k } - \\overline { { \\lambda } } _ { 1 } ^ { k } ) \\big / ( \\lambda _ { 1 } - \\overline { { \\lambda } } _ { 1 } ) ~ \\mathrm { w i t h } ~ \\lambda _ { 1 } = 1 + h + \\sqrt { h ( 2 + h ) } ~ \\mathrm { a n d } ~ \\overline { { \\lambda } } _ { 1 } = 1 + h - \\sqrt { h ( 2 + h ) } ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "In particular, when $x _ { 1 } = x _ { 2 } = x$ and $0 \\leq x \\leq n$ , Eq.(158) reduces to ",
+        "page_idx": 31
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 2 } { n + 1 } \\sum _ { j = 1 } ^ { n } \\frac { \\cos ^ { 2 } ( x + \\frac { 1 } { 2 } ) \\phi _ { j } } { 1 + h ^ { - 1 } ( 1 - \\cos \\phi _ { j } ) } = \\frac { \\Delta F _ { x } ^ { ( i ) } \\Delta F _ { n - x } ^ { ( i ) } } { F _ { n + 1 } ^ { ( i ) } } - \\frac { 1 } { n + 1 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "The above discoveries are interesting because they are found not in mathematics but in physics. Obviously,according to the identity (149) we can derive a series of special trigonometric equalities when the different coordinates $( x _ { i } , y _ { i } )$ is made. ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "B.Proposition-2. A general trigonometric identity-2 ",
+        "text_level": 1,
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "Defining $C _ { x _ { k } , j } = \\cos ( x _ { k } + \\frac { 1 } { 2 } ) \\phi _ { j }$ ， and $\\theta _ { i } = \\frac { i \\pi } { m + 1 }$ ， $\\phi _ { j } = \\frac { j \\pi } { n + 1 }$ When m,n and Xk,yk are （20 natural numbers,and $0 \\leq x _ { 1 } , x _ { 2 } \\leq n$ ， $0 \\leq y \\leq m$ ，we have the trigonometric identity ",
+        "page_idx": 31
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\frac { 1 } { m + 1 } \\displaystyle \\sum _ { i = 1 } ^ { m } \\sum _ { j = 1 } ^ { n } \\frac { C _ { x _ { 1 } , j } ^ { 2 } + C _ { x _ { 2 } , j } ^ { 2 } - 2 C _ { x _ { 1 } , j } C _ { x _ { 2 } , j } \\cos ( 2 y \\theta _ { i } ) } { ( 1 - \\cos 2 \\theta _ { i } ) + h ^ { - 1 } ( 1 - \\cos \\phi _ { j } ) } } \\\\ & { = ( \\frac { y ^ { 2 } } { m + 1 } - y ) + \\frac { n + 1 } { 2 ( m + 1 ) } \\displaystyle \\sum _ { i = 1 } ^ { m } \\frac { \\beta _ { 1 , 1 } ^ { ( i ) } - 2 \\beta _ { 1 , 2 } ^ { ( i ) } \\cos ( 2 y \\theta _ { i } ) + \\beta _ { 2 , 2 } ^ { ( i ) } } { ( 1 - \\cos 2 \\theta _ { i } ) F _ { n + 1 } ^ { ( i ) } } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "where $\\beta _ { k , s } ^ { ( i ) } = \\Delta F _ { x _ { k } } ^ { ( i ) } \\Delta F _ { n - x _ { s } } ^ { ( i ) }$ and $F _ { k } ^ { ( i ) } = ( \\lambda _ { i } ^ { k } - \\overline { { \\lambda } } _ { i } ^ { k } ) \\big / ( \\lambda _ { i } - \\overline { { \\lambda } } _ { i } )$ ， $\\Delta F _ { k } ^ { ( i ) } = F _ { k + 1 } ^ { ( i ) } - F _ { k } ^ { ( i ) }$ with ",
+        "page_idx": 31
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\lambda _ { i } = 1 + h - h \\cos 2 \\theta _ { i } + \\sqrt { \\left( 1 + h - h \\cos 2 \\theta _ { i } \\right) ^ { 2 } - 1 } , } \\\\ & { \\overline { { \\lambda } } _ { i } = 1 + h - h \\cos 2 \\theta _ { i } - \\sqrt { \\left( 1 + h - h \\cos 2 \\theta _ { i } \\right) ^ { 2 } - 1 } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Proof of the Proposition-2 ",
+        "text_level": 1,
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Consider a regular $m { \\times } n$ cylindrical network shown in Fig.2 with $r _ { 1 } = r _ { 2 } = r _ { 0 }$ ，we obtain a resistance formula (116) by the $R T  – V$ method. However Ref.[3O] gave another resistance formula (2) by means of the Laplacian matrix method. Comparing formula (124) with Eq.(2), we immediately obtain identity (160). ",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "In particular, when setting special number values of $y , m , n$ and $x _ { 1 } , x _ { 2 }$ ,we have the following identities. ",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Deduction 1.When $y = 0$ ,from (160),we have ",
+        "page_idx": 32
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 2 } { n + 1 } \\sum _ { i = 1 } ^ { m } \\sum _ { j = 1 } ^ { n } \\frac { [ \\cos ( x _ { 1 } + \\frac { 1 } { 2 } ) \\phi _ { j } - \\cos ( x _ { 2 } + \\frac { 1 } { 2 } ) \\phi _ { j } ] ^ { 2 } } { ( 1 - \\cos 2 \\theta _ { i } ) + h ^ { - 1 } ( 1 - \\cos \\phi _ { j } ) } = \\sum _ { i = 1 } ^ { m } \\frac { \\beta _ { 1 , 1 } ^ { ( i ) } - 2 \\beta _ { 1 , 2 } ^ { ( i ) } + \\beta _ { 2 , 2 } ^ { ( i ) } } { ( 1 - \\cos 2 \\theta _ { i } ) F _ { n + 1 } ^ { ( i ) } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "In particular, when $m = 1$ ,we have $\\cos 2 \\theta _ { i } = - 1$ , then Eq.(162) reduces to ",
+        "page_idx": 32
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 } { n + 1 } \\sum _ { j = 1 } ^ { n } \\frac { \\biggl [ \\cos ( x _ { 1 } + \\frac { 1 } { 2 } ) \\phi _ { j } - \\cos ( x _ { 2 } + \\frac { 1 } { 2 } ) \\phi _ { j } \\biggr ] ^ { 2 } } { 2 + h ^ { - 1 } ( 1 - \\cos \\phi _ { j } ) } = \\frac { \\beta _ { 1 , 1 } ^ { ( 1 ) } - 2 \\beta _ { 1 , 2 } ^ { ( 1 ) } + \\beta _ { 2 , 2 } ^ { ( 1 ) } } { 4 F _ { n + 1 } ^ { ( 1 ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "where $\\beta _ { k , s } ^ { ( 1 ) } = \\Delta F _ { x _ { k } } ^ { ( 1 ) } \\Delta F _ { n - x _ { s } } ^ { ( 1 ) }$ ， $F _ { k } ^ { ( 1 ) } = ( \\lambda _ { 1 } ^ { k } - \\overline { { \\lambda } } _ { 1 } ^ { k } ) \\big / ( \\lambda _ { 1 } - \\overline { { \\lambda } } _ { 1 } )$ , with ",
+        "page_idx": 32
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { 1 } = 1 + 2 h + 2 \\sqrt { h ( 1 + h ) } , \\overline { { { \\lambda } } } _ { 1 } = 1 + 2 h - 2 \\sqrt { h ( 1 + h ) } .\n$$",
+        "text_format": "latex",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Deduction 2. When $x _ { 1 } = x _ { 2 } = x$ ,Eq. (160) reduces to ",
+        "page_idx": 32
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle \\frac { 2 } { m + 1 } \\sum _ { i = 1 } ^ { m } \\sum _ { j = 1 } ^ { n } \\displaystyle \\frac { \\cos ^ { 2 } [ ( x + \\displaystyle \\frac { 1 } { 2 } ) \\phi _ { j } ] ( 1 - \\cos 2 y \\theta _ { i } ) } { ( 1 - \\cos 2 \\theta _ { i } ) + h ^ { - 1 } ( 1 - \\cos \\phi _ { j } ) } } } \\\\ { { = \\displaystyle \\left( \\frac { y ^ { 2 } } { m + 1 } - y \\right) + \\displaystyle \\frac { n + 1 } { m + 1 } \\sum _ { i = 1 } ^ { m } \\displaystyle \\frac { \\Delta F _ { x } ^ { ( i ) } \\Delta F _ { n - x } ^ { ( i ) } } { F _ { n + 1 } ^ { ( i ) } } \\displaystyle \\left( \\displaystyle \\frac { 1 - \\cos 2 y \\theta _ { i } } { 1 - \\cos 2 \\theta _ { i } } \\right) . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Deduction 3. When $m = y = 1$ , we have $\\cos 2 \\theta _ { i } = - 1$ ， $\\phi _ { j } = j \\pi / ( n + 1 )$ , from (160), we have ",
+        "page_idx": 32
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 2 } { n + 1 } \\sum _ { j = 1 } ^ { n } \\frac { ( C _ { x _ { 1 } , j } + C _ { x _ { 2 } , j } ) ^ { 2 } } { 2 + h ^ { - 1 } ( 1 - \\cos \\phi _ { j } ) } = \\frac { \\beta _ { 1 , 1 } ^ { ( 1 ) } + 2 \\beta _ { 1 , 2 } ^ { ( 1 ) } + \\beta _ { 2 , 2 } ^ { ( 1 ) } } { 2 F _ { n + 1 } ^ { ( 1 ) } } - \\frac { 2 } { n + 1 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "where $F _ { k } ^ { ( 1 ) } = { ( \\lambda _ { 1 } ^ { k } - \\overline { { { \\lambda } } } _ { 1 } ^ { k } ) } \\big / ( \\lambda _ { 1 } - \\overline { { { \\lambda } } } _ { 1 } ) , \\lambda _ { 1 }$ and $\\overline { { \\lambda } } _ { 1 }$ are defined in Eq.(164). ",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Please note that Eq.(166) is different from Eq.(158) because their $\\lambda _ { \\mathrm { { \\scriptscriptstyle 1 } } }$ are different from each other. ",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Deduction 4. When $n = 1 , x = 0 , \\theta _ { i } = i \\pi / ( m + 1 ) , 0 \\leq y \\leq m$ ,by(165),we have ",
+        "page_idx": 32
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { i = 1 } ^ { m } \\frac { 1 - \\cos ( 2 y \\theta _ { i } ) } { 1 - \\cos 2 \\theta _ { i } } = y ( m + 1 - y ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "The above equations are given for the first time. ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "C. Proposition-3. A general trigonometric identity-3 ",
+        "text_level": 1,
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Defining $\\beta _ { k , s } ^ { ( i ) } = \\Delta F _ { x _ { k } } ^ { ( i ) } \\Delta F _ { n - x _ { s } } ^ { ( i ) } , F _ { k } ^ { ( i ) } = ( \\lambda _ { i } ^ { k } - \\overline { { { \\lambda } } } _ { i } ^ { k } ) / ( \\lambda _ { i } - \\overline { { { \\lambda } } } _ { i } ) , \\lambda _ { i } \\overline { { { \\lambda } } } _ { i } = 1 , \\theta _ { i } = i \\pi / m$ ,and ",
+        "page_idx": 33
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { i } = 1 + h - h \\cos 2 \\theta _ { i } + \\sqrt { ( 1 + h - h \\cos 2 \\theta _ { i } ) ^ { 2 } - 1 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "and defining $\\phi _ { i } = i \\pi / ( n + 1 ) , \\mu _ { i } \\overline { { { \\mu } } } _ { i } = 1 $ , and ",
+        "page_idx": 33
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { i } = 1 + h ^ { - 1 } - h ^ { - 1 } \\cos \\phi _ { i } + \\sqrt { ( 1 + h ^ { - 1 } - h ^ { - 1 } \\cos \\phi _ { i } ) ^ { 2 } - 1 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Assume natural numbers satisfy $m \\geq 1 , n \\geq 0$ ，when natural number $x _ { i }$ satisfies $0 \\leq x _ { i } \\leq m$ ， and the arbitrary real number $h > 0$ ,we have ",
+        "page_idx": 33
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\frac { 1 } { n + 1 } \\sum _ { i = 1 } ^ { n } \\frac { [ \\cos ( x _ { 1 } + \\frac { 1 } { 2 } ) \\phi _ { i } - \\cos ( x _ { 2 } + \\frac { 1 } { 2 } ) \\phi _ { i } ] ^ { 2 } } { \\sqrt { \\left( 1 + h ^ { - 1 } - h ^ { - 1 } \\cos \\phi _ { i } \\right) ^ { 2 } - 1 } } \\mathrm { c o t h } ( m \\ln \\sqrt { \\mu _ { i } } ) } \\\\ { \\displaystyle \\qquad = \\frac { h } { m } \\big | x _ { 2 } - x _ { 1 } \\big | + \\frac { 1 } { 2 m } \\sum _ { i = 1 } ^ { m - 1 } \\frac { \\beta _ { 1 , 1 } ^ { ( i ) } - 2 \\beta _ { 1 , 2 } ^ { ( i ) } + \\beta _ { 2 , 2 } ^ { ( i ) } } { ( 1 - \\cos 2 \\theta _ { i } ) F _ { n + 1 } ^ { ( i ) } } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Proof of the Proposition-3 ",
+        "text_level": 1,
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Consider a normal $m \\times n$ cylindrical network, where the maximum coordinate value is $( n , m { - } 1 )$ When $d _ { \\scriptscriptstyle 1 } ( x _ { \\scriptscriptstyle 1 } , 0 )$ and $d _ { 2 } ( x _ { 2 } , 0 )$ are on the same longitude, by Eq.(131), we have ",
+        "page_idx": 33
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR ( \\{ x _ { 1 } , 0 \\} , \\{ x _ { 2 } , 0 \\} ) = \\frac { \\left| x _ { 2 } - x _ { 1 } \\right| } { m } r + \\frac { r _ { 0 } } { 2 m } \\sum _ { i = 1 } ^ { m - 1 } \\frac { \\beta _ { 1 , 1 } ^ { ( i ) } - 2 \\beta _ { 1 , 2 } ^ { ( i ) } + \\beta _ { 2 , 2 } ^ { ( i ) } } { ( 1 - \\cos 2 \\theta _ { i } ) F _ { n + 1 } ^ { ( i ) } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "However, Ref.[48] gave another resistance formula (the parameters in Ref.[48] have been converted to be exactly the same as those in Fig.2) ",
+        "page_idx": 33
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR ( \\{ x _ { 1 } , 0 \\} , \\{ x _ { 2 } , 0 \\} ) = \\frac { r _ { 0 } } { n + 1 } \\sum _ { i = 1 } ^ { n } \\frac { \\left[ \\cos ( x _ { 1 } + \\frac { 1 } { 2 } ) \\phi _ { i } - \\cos ( x _ { 2 } + \\frac { 1 } { 2 } ) \\phi _ { i } \\right] ^ { 2 } } { \\sqrt { { ( 1 + h ^ { - 1 } - h ^ { - 1 } \\cos \\phi _ { i } ) } ^ { 2 } - 1 } } \\coth ( m \\ln \\sqrt { \\mu _ { i } } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Thus formula (171) is equal to Eq.(172) since they have the same parameters in the same network.   \nBy Eq.(171) equals (172) to yield Eq.(170). That means, proposition-3 holds. ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "（204号 $D e d u c t i o n ~ I . ~ \\mathrm { { W h e n } } ~ x _ { 1 } = 0 , ~ x _ { 2 } = n ~ , ~ \\phi _ { i } = i \\pi / ( n + 1 ) ~ , ~ \\theta _ { i } = i \\pi / m ~ , ~ \\mathrm { { a n d } } ~ \\mu _ { i } ~ \\mathrm { { i n } } / \\mu _ { i } = 0 .$ Sgiven by (169), Eq.(170) reduces to ",
+        "page_idx": 33
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 4 } { n + 1 } \\sum _ { i = 1 } ^ { n } \\frac { \\left[ \\sin ^ { 2 } ( \\frac { i } { 2 } \\pi ) \\cos \\displaystyle \\frac { 1 } { 2 } \\phi _ { i } \\right] ^ { 2 } } { \\sqrt { ( 1 + h ^ { - 1 } - h ^ { - 1 } \\cos \\phi _ { i } ) ^ { 2 } - 1 } } \\coth ( m \\ln \\sqrt { \\mu _ { i } } ) = \\frac { h } { m } n + \\frac { 1 } { m } \\sum _ { i = 1 } ^ { m - 1 } \\frac { \\Delta F _ { n } ^ { ( i ) } - 1 } { ( 1 - \\cos 2 \\theta _ { i } ) F _ { n + 1 } ^ { ( i ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "where $F _ { k } ^ { ( i ) } = ( \\lambda _ { i } ^ { k } - \\overline { { \\lambda } } _ { i } ^ { k } ) \\big / ( \\lambda _ { i } - \\overline { { \\lambda } } _ { i } )$ ,and $\\lambda _ { i }$ is given by Eq.(168). ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Deduction 2. When $m = 2$ ， $\\phi _ { i } = i \\pi / ( n + 1 )$ ， $\\mu _ { i }$ is given by (169),Eq.(170) reduces to ",
+        "page_idx": 33
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 } { n + 1 } \\sum _ { i = 1 } ^ { n } \\frac { \\displaystyle \\sum _ { - } ^ { n } \\left[ \\cos ( x _ { 1 } + \\frac { 1 } { 2 } ) \\phi _ { i } - \\cos ( x _ { 2 } + \\frac { 1 } { 2 } ) \\phi _ { i } \\right] ^ { 2 } } { \\sqrt { ( 1 + h ^ { - 1 } - h ^ { - 1 } \\cos \\phi _ { i } ) ^ { 2 } - 1 } } \\coth ( \\ln \\mu _ { i } ) = \\frac { h } { 2 } \\big | x _ { 2 } - x _ { 1 } \\big | + \\frac { \\beta _ { 1 , 1 } ^ { ( 1 ) } - 2 \\beta _ { 1 , 2 } ^ { ( 1 ) } + \\beta _ { 2 , 2 } ^ { ( 1 ) } } { 8 F _ { n + 1 } ^ { ( 1 ) } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "where $\\beta _ { k , s } ^ { ( 1 ) } = \\Delta F _ { x _ { k } } ^ { ( 1 ) } \\Delta F _ { n - x _ { s } } ^ { ( 1 ) }$ ， $F _ { \\boldsymbol { k } } ^ { ( 1 ) } = ( \\lambda _ { 1 } ^ { k } - \\overline { { \\lambda } } _ { 1 } ^ { k } ) \\big / ( \\lambda _ { 1 } - \\overline { { \\lambda } } _ { 1 } )$ , and $\\lambda _ { \\mathrm { _ { l } } }$ is given by Eq.(164). ",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Deduction 3. Since $\\coth ( \\ln \\mu _ { i } ) = ( \\mu _ { i } + \\overline { { \\mu } } _ { i } ) / ( \\mu _ { i } - \\overline { { \\mu } } _ { i } )$ ， substituting to (174） together with (169), which yields ",
+        "page_idx": 34
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { h } { n + 1 } \\sum _ { i = 1 } ^ { n } \\frac { h + 1 - \\cos \\phi _ { i } } { \\left( h + 1 - \\cos \\phi _ { i } \\right) ^ { 2 } - h ^ { 2 } } \\bigg [ \\cos ( x _ { 1 } + \\frac { 1 } { 2 } ) \\phi _ { i } - \\cos ( x _ { 2 } + \\frac { 1 } { 2 } ) \\phi _ { i } \\bigg ] ^ { 2 } = \\frac { h } { 2 } \\big | x _ { 2 } - x _ { 1 } \\big | + \\frac { \\beta _ { 1 , 1 } ^ { ( 1 ) } - 2 \\beta _ { 1 , 2 } ^ { ( 1 ) } + \\beta _ { 2 , 2 } ^ { ( 1 ) } } { 8 F _ { n + 1 } ^ { ( 1 ) } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "where $\\phi _ { i } = i \\pi / ( n + 1 )$ ， $\\beta _ { k , s } ^ { ( 1 ) } = \\Delta F _ { x _ { k } } ^ { ( 1 ) } \\Delta F _ { n - x _ { s } } ^ { ( 1 ) }$ , and $\\lambda _ { _ { 1 } }$ is given by Eq.(164). ",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Deduction 4. When $m = 1 , \\phi _ { i } = i \\pi / ( n + 1 )$ ,Eq.(170) reduces to ",
+        "page_idx": 34
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 } { n + 1 } \\sum _ { i = 1 } ^ { n } \\frac { [ \\cos ( x _ { 1 } + \\frac { 1 } { 2 } ) \\phi _ { i } - \\cos ( x _ { 2 } + \\frac { 1 } { 2 } ) \\phi _ { i } ] ^ { 2 } } { 1 - \\cos \\phi _ { i } } = \\left| x _ { 2 } - x _ { 1 } \\right| ,\n$$",
+        "text_format": "latex",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "where the following identity is used ",
+        "page_idx": 34
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\coth ( \\ln { \\sqrt { \\mu _ { i } } } ) = { \\frac { \\mu _ { i } - { \\overline { { \\mu } } } _ { i } } { \\mu _ { i } + { \\overline { { \\mu } } } _ { i } - 2 } } = { \\frac { \\sqrt { ( 1 + h ^ { - 1 } - h ^ { - 1 } \\cos \\phi _ { i } ) ^ { 2 } - 1 } } { h ^ { - 1 } ( 1 - \\cos \\phi _ { i } ) } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "We find that identity (17O) is interesting because the left-hand side of the identity is the sum over $n$ but the right-hand side is the sum over $m$ ，which provides a new mathematical identity for the application of mathematics. ",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "VII. Conclusion and Comment ",
+        "text_level": 1,
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "This paper set up a universal RT-V theory (Recursion-Transform theory with potential parameters） and reveals the basic principle of electrical characteristics of complex resistor networks for the first time,such as two theorems of theorem-1 and theorem-2 are proposed,and the explicit electrical characteristics (potential and resistance） formulae of the complex networks are given, which contains the results of finite and infinite networks. ",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "It must be emphasized that previous theories (Mainly refers Green's function technique and Laplacian matrix method) cannot solve resistor networks with complex boundaries, because the Green's function technique is usually used to solve infinite network problems,and the Laplacian matrix method depends on the solution of two eigenvalues which relies on two matrices along two orthogonal directions.Using the $R T  – V$ method to study resistor networks just relies on one matrix along one vertical directions, which avoids the confusion of another matrix with arbitrary elements that cannot be solved explicitly,and also gives concise results in a single summation, such as the all equations given by this paper. ",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "As applications of two theorems,the analytical solutions of the electrical characteristics (including potential function and equivalent resistance) in the complex $m { \\times } n$ resistor networks with arbitrary boundaries are given,and many interesting results of the various types of resistor networks are produced. Please note that a non-regular $m { \\times } n$ rectangular network (see Fig.1) contains arbitrary fan (see Fig.4(a)） and hammock (see Fig.4(b)） networks; a non-regular $m { \\times } n$ cylindrical network (see Fig.2) contains arbitrary cobweb (see Fig.7(a)） and globe (see Fig.7(b)） networks.Thus the analytical solutions of the electrical characteristics given by this paper have general significance, which applies to a wide variety of latice structures,and means the Laplace equation with complex boundary conditions is resolved by modelling resistor networks.The trigonometric identities given show that our research work established new research ideas and approaches for the study of mathematical identities. ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "In addition,resistance formulae (65), (66), (121) and (122) et al.can be extended to impedance networks since the grid elements $r _ { k }$ can be either resistors or impedances in Fig.1 and Fig.2, For example,assume ",
+        "page_idx": 35
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr = Z _ { L } = R + j \\omega L , \\quad r _ { 0 } = Z _ { c } = j / \\omega C ,\n$$",
+        "text_format": "latex",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "that we can therefore study the arbitrary $m { \\times } n R L C$ network if we do a plural analysis [31, 41] to the resistance results obtained in this paper. ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Our resistance formulae can also apply to fractional circuits,for example, the frequency domain impedance of fractional capacitance and inductance are respectively [15] ",
+        "page_idx": 35
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { Z _ { L } = \\omega ^ { \\beta } L \\cos ( \\beta \\frac { \\pi } { 2 } ) + j \\omega ^ { \\beta } L \\sin ( \\beta \\frac { \\pi } { 2 } ) , } \\\\ { Z _ { c } = \\displaystyle \\frac { 1 } { \\omega ^ { \\alpha } C } \\cos ( \\alpha \\frac { \\pi } { 2 } ) - j \\frac { 1 } { \\omega ^ { \\alpha } C } \\sin ( \\alpha \\frac { \\pi } { 2 } ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "When we replace $r$ and $r _ { 0 }$ with $Z _ { \\scriptscriptstyle L }$ and $Z _ { c }$ ，and use the plural analysis [31,41], the equivalent impedances of the fractional $m \\times n$ RLC network with arbitrary boundaries can be obtained. ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "[1] J.Scmasconi， Conduction in anisotroyic disordered systems: Effective-medium theory，Phys.Rev.B 9, 4575-4579 (1974).   \n[2] S. Kirkpatrick, Percolation and Conduction,Rev. Mod. Phys. 45, 574-588 (1973).   \n[3] N.I. Lebovka, Y.Yu.Tarasevich, N.V. Vygornitski, A.V.Eserkepov,andR. K. Akhunzhanov,Anisotropy in electrical conductivity offilms of aligned intersecting conducting rods,Phys. Rev. E98, O12104 (2018).   \n[4] L.Q.English,F.Palmero,J.F.Stormes,J.Cuevas,R.Carrtero-Gonzalez,and P.G. Kevrekidis,Nonlinear localized modes in two-dimensional electrical lattices,Phys. Rev.E 88, 022912 (2013).   \n[5]E. N. Bulgakov,D. N. Maksimov,and A.F. Sadreev, Electric circuit networks equivalent to chaotic quantum billiards,Phys.Rev.E 71, 046205 (2005).   \n[6] A.R. McGurn,Photonic crystal circuits: Atheory for two- and three-dimensional networks,Phys.Rev.B 61, 13235(2000).   \n[7] P. H. Tuan, H. C.Liang,J. C. Tung,P. Y. Chiang, K. F. Huang,and Y. F. Chen, Manifesting the evolution of eigenstates from quantum billiards to singular biliards inthe strongly coupled limit with a truncated basis by using RLC networks, Phys. Rev. E 92, 062906 (2015).   \n[8] N. Ma, G-Y. Sun, Y.-Z. You, C. Xu, et al., Dynamical signature of fractionalization at a deconfined quantum critical point,Phys. Rev. B 98,174421 (2018).   \n[9] M. M. Russell.The processing of hexagonally sampled two dimensional signals.P. IEEE.17, 930-949 (1979).   \n[10] X.-L. Qi and S.-C. Zhang, Topological insulators and superconductors,Rev. Mod. Phys.83,3764-3771 (2011).   \n[11] V. V. Albert,L. I. Glazman, and L. Jiang, Topological Properties of Linear Circuit Lattices. Phys. Rev.Lett. 114, 173902 (2015).   \n[12]L. B. Chen,J. H. Chung,B. Gao,T.Chen, et al.Topological Spin Excitations in Honeycomb Ferromagnet CrI3, Phys. Rev. X 8, 041028 (2018).   \n[13] A. V. Melnikov, M. Shuba,and P.Lambin, Modeling the electrical properties of three-dimensional printed meshes with the theory of resistor lattices, Phys. Rev. E 97,043307 (2018).   \n[14] F Lupke, M. Eschbach, et al. Electrical resistance of individual defects at a topological insulator surface. Nat. Commun. 8,15704 (2017).   \n[15] A. G. Radwan and K. N. Salama, Passive and active elements using fractional $L ^ { \\beta } C ^ { \\alpha }$ circuit, IEEE Trans. Circuits Syst.I, Reg. Papers, 58(10),2388-2397 (2011).   \n[16] A.L. Barabasi, R. Albert, and H. Jeong,Mean-field theory for scale-free random networks, Phys. A,272, 173-187(1999).   \n[17] R. Caracciolo,A. D.Pace,H.Feshbach,and A. Molinari, A Statistical Theory of the Mean Field, Ann. Phys. 262, 105-131 (1998).   \n[18] N. Sh. Izmailian, V.B. Priezzhev, P. Ruele,and C.-K. Hu,Logarithmic Conformal Field Theory and Boundary Effects in the Dimer Model,Phys.Rev.Lett.95,260602 (2005).   \n[19] G. S. Joyce,Exact results for the diamond latice Green function with applications to uniform random walks in a plane, J. Phys. A: Math. Theor, 50, 425001 (2017).   \n[20] A. Komnik and S. Heinze,Analytical results for the Green's functions of latice fermions,Phys. Rev. B, 96, 155103 (2017).   \n[21] C.Koutschan,Latice Green functions of the higher-dimensional face-centered cubic lattces,J. Phys.A: Math. Theor, 46,125005 (2013).   \n[22] J. A. Yasi and D.R. Trinkle, Direct calculation of the latice Green function with arbitrary interactions for general crystals, Phys. Rev. E,85,066706 (2012).   \n[23] D. J. Klein and M. Randi, Resistance distance, J. Math. Chem. 12,8195 (1993).   \n[24] M.-C.Lai and W.-C. Wang, Fast direct solvers for Poisson equation on 2D polar and spherical geometries, Numer. Methods Partial Differ. Equ.18, 56-68 (2002).   \n[25]L. Borges and P.Daripa,A fast parallel algorithm for the Poisson equation on a disk,JComput Phys.169, 151-192 (2001).   \n[26] Z.-Z. Tan, Recursion-transform method and potential formulae of the mxn cobweb and fan networks, Chin. Phys. B.26(9),090503 (2017).   \n[27]J. Cserti,Application of the latice Green's function forcalculating the resistance of an infinite network of resistors. Am. J. Phys. 68,896 (2000).   \n[28] J. H. Asad,Exact Evaluation of the Resistance inan Infinite Face-Centered Cubic Network,JStatPhys.150 (6): 1177-1182 (2013).   \n[29]M. Q. Owaidat and J. H. Asad. Resistance calculation of infinite thre-dimensional Triangular and hexagonal prism Lattices. Eur. Phys. J. Plus.131(9), 309 (2016).   \n[30] F. Y. Wu,Theory of resistor networks: the two-point resistance. J. Phys.A: Math. Gen.37, 6653 (2004).   \n[31] W. J. Tzeng and F. Y. Wu, Theory of impedance networks: the two-point impedance and LC resonances. J. Phvs A: Math Gen 39 8579(2006)   \n[32] N.Sh. Izmailian,R. Kenna,andF. Y. Wu,The two-point resistance ofaresistor network: a new formulation and application to the cobweb network. J. Phys.A: Math. Theor. 47, 035003(2014).   \n[33] N.Sh. Izmailian and R. Kenna,A generalised formulation of the Laplacian approach to resistor networks. J. Stat. Mech.09,1742-5468 (2014).   \n[34]J.W.Essam,N.Sh.Izmailian,R.Kenna,andZ.-Z.Tan,Comparisonofmethods todeterminepoint-to-point resistance in nearly rectangular networks with application to a “hammock” network. R. Soc. Open Sci. 2, 140420 (2015).   \n[35] Z.-Z. Tan, Resistance network Model.(Xidian Univ. Press, Xi'an,2O11) (in Chinese ）.   \n[36] Z.-Z.Tan,J. W.Essam,andF. Y. Wu,Two-point resistance ofaresistor network embedded ona globe.Phys. Rev. E.90,012130 (2014).   \n[37] J. W. Essam, Z. Z. Tan, and F. Y. Wu, Resistance between two nodes in general position on an $m { \\times } n$ fan network.Phys.Rev.E.90, 032130 (2014).   \n[38] Z.-Z. Tan, Recursion-transform approach to compute the resistance of a resistor network with an arbitrary boundary. Chin. Phys. B.24, 020503 (2015).   \n[39] Z.-Z. Tan, Recursion-transform method for computing resistance of the complex resistor network with three arbitrary boundaries. Phys. Rev. E.91, 052122 (2015).   \n[40] Z.-Z. Tan, Recursion-Transform method to a non-regular mXn cobweb with an arbitrary longitude. Sci. Rep. 5, 11266 (2015).   \n[41] Z.-Z. Tan, Two-point resistance of an $m { \\times } n$ resistor network with an arbitrary boundary and its application in RLC netw0rk. Chin. Phys. B.25, 050504 (2016).   \n[42] Z.-Z. Tan,Two-point resistance of a non-regular cylindrical network with a zero resistor axis and two arbitrary boundaries. Commun. Theor. Phys. 67 (3),36-44 (2017).   \n[43] Zh. Tan, Z.-Z. Tan, and L. Zhou, Electrical Properties of an $m { \\times } n$ Hammock Network, Commun. Theor. Phys. 69 (5), 610-616 (2018).   \n[44] Zh. Tan and Z.-Z. Tan, Potential formula of an $m { \\times } n$ globe network and its application, Sci. Rep. 8, 9937 (2018).   \n[45] Zh. Tan, Z.-Z. Tan, and J.-X. Chen, Potential formula of the nonregular $m { \\times } n$ fan network and its application. Sci. Rep.8, 5798 (2018).   \n[46] J. W. Essam and F. Y. Wu, The exact evaluation of the corner-to-corner resistance of an $M { \\times } N$ resistor network: asymptotic expansion. J. Phys.A: Math. Theor. 42, 025205 (2009).   \n[47] N. Sh. Izmailian and M.-C. Huang,Asymptotic expansion forthe resistance between two maximum separated nodes on a $M { \\times } N$ resistor network.Phys. Rev.E 82,011125 (2010).   \n[48] Z.-Z. Tan and Q. H. Zhang， Calculation of the equivalent resistance and impedance of the cylindrical network based on RT method.Acta Physica Sinica, 66 (7), O70501 (2017). ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Funding: This work is supported by the Natural Science Foundation of Jiangsu Province, China (Grant No. BK2O161278)，and National Training Programsof Innovation and Entrepreneurship for Undergraduates (Grant No.201810304025). ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions: Z.-Z. Tan performed and analyzed formulae calculations. Zh.Tan conceived the project，and validate the correctness of the calculations.All authors contributed equally to the manuscript. ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Competing interests:The authors declare that they have no competing interests ",
+        "page_idx": 37
+    }
+]

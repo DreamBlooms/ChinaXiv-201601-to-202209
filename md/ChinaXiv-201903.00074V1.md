@@ -1,0 +1,316 @@
+# 基于电流反馈的同步逆变器功率解耦控制策略
+
+陈冰朱鸿章　陶旋吴军（湘潭大学信息工程学院湘潭 411105)
+
+![](images/007635857ea77b97d6545e0ab89ce240dba3608ddfc4a78e7416292e932cd4e5.jpg)
+
+陈冰男 1993年生，硕士研究生，主要研究方向为新型电力电子器件及其应用。
+
+摘要：同步逆变器通过模拟同步电机内部机理和外部特性使其对电网具有天然友好的特性，但其有功功率和无功功率之间存在的耦合会加剧同步频率谐振，容易引发功率振荡，导致系统不稳定。本文首先建立同步逆变器功角特性的小信号模型，分析产生功率耦合的机理。在此基础上，针对功率耦合问题提出了一种新型的功率解耦控制方法：通过添加反馈电流环对耦合功率进行动态补偿，将引起耦合的动态功率量转换成动态电流的形式，消除了由功率耦合引起的动态功率振荡和虚拟同步控制的稳态误差，并对加入反馈电流环的控制系统进行了稳定性分析，最后通过仿真验证了该方法的有效性和可行性。
+
+关键词：同步逆变器 功角特性功率耦合反馈电流环动态电流中图分类号：TM464
+
+# Power Decoupling Control Strategy of Synchronverter Based on Current Feedback
+
+![](images/a35808aed954370e6231c792ae52ee961918d08246aa5c78c886bc5958222eef.jpg)
+
+Chen Bing Zhu HongzhangTao Xuan Wu Jun (Xiangtan UniversityXiangtan 411105 China )
+
+朱鸿章男 1991年生，硕士研究生，主要研究方向为功率电子变换技术。
+
+Abstract: Synchronverter has natural friendly characteristics to the grid by simulating the internal mechanism and external feature of the synchronous motor, however, the coupling between active and reactive power intensifies synchronous frequency resonance,triggers power oscillations and results system instability. Therefore, the small signal model of the synchronverter power angle characteristics is firstly established to analyze the production mechanism of the power coupling. Aiming at the problem of power coupling,a new power decoupling control method is proposed. The coupling power is dynamically compensated by adding a feedback current loop, realizing the way that convert the dynamic power quantity which causes the coupling into the form of dynamic current, and eliminating the steady-state error and dynamic power oscillation of virtual synchronization control caused by power coupling.The stability analysis of the control system with feedback current loop is presented. Simulation are given to show the validity and feasibility of the proposed control strategy.
+
+Keywords: Synchronverter, power angle characteristics, power coupling, feedback current loop,dynamic current
+
+# 1 引言
+
+随着化石能源的逐渐枯竭，风能、太阳能等分布式能源受到了广泛的关注，近年来，国内建立了以逆变器为接口的大型风力、光伏电站[1-2]。一般情况下，分布式电源主要通过并网逆变器接入电网，电网是一个具有转动惯量的系统，常规并网逆变器虽然响应速度快，但缺乏同步发电机的转动惯量与阻尼特性，难以参与电网调节，导致系统有效转动惯量降低，无法为含分布式电源的主动配电网提供必要的电压和频率支撑[3-9]。同步发电机是商业电能的主要来源，由于同步电机具有对电网天然友好的优势，其转动惯量和阻尼特性能在维持电网稳定运行方面起重要作用[10-I1]。若使并网逆变器具有类似同步电机的运行特性，则可以实现分布式电源的友好接入，提高分布式发电系统的稳定性。文献[12]提出了同步逆变器的概念，同步逆变器可实现与同步发电机在内部机理和外部特性上的等效，有望在含分布式电源的主动配电网中发挥重要作用。
+
+同步逆变器通过调节输入的机械功率调节功角继而实现有功调节，通过调节励磁电流来改变感应电动势幅值继而改变无功功率，然而这种调节方式建立的前提是感应电动势和机端电压之间的功角非常小。当同步逆变器的输出阻抗不满足为纯感性且功角较大时，有功和无功不能实现独立控制，引起有功功率和无功功率之间的耦合。这对分布式电源的并网控制、有功无功的出力分配、系统的稳定运行等产生了很大影响[13-14]。为了解决此类问题，文献[15-16]提出下垂参数自适应，利用虚拟阻抗等方法改进下垂控制，但该方法会引起电压跌落；文献[17-18]提出虚拟同步电机功率振荡抑制方法，其基本思想是将有功功率传输方程线性化，并引入线性控制理论，将阻尼因子与转角偏差解耦，以实现有功功率振荡抑制，却忽略了无功功率振荡；文献[19]设计了虚拟同步机非线性阻尼控制器，在无功－电压控制中引入附加励磁控制量，可有效地抑制无功功率振荡，但却忽略了有功功率的振荡；文献[20]提出了电流反馈的思想，能较好地实现功率解耦，但缺乏对同步逆变器功率耦合问题的研究；文献[21]基于同步频率谐振产生机理，采用有源阻尼控制的策略抑制功率耦合引起的谐振问题，但控制算法较为复杂。
+
+针对同步逆变器存在的功率耦合问题，本文提出了一种易于工程实现的功率完全解耦控制策略。
+
+首先根据同步逆变器的数学模型，建立了有功功率和无功功率的小信号模型，分析了产生功率耦合的机理；然后将引起动态耦合的功率转化为采用补偿动态电流来实现，使其更加容易调节与控制；同时对加入了反馈电流环的系统进行了稳定性分析，最后通过仿真和实验证明了本文所提方法的可行性和优越性。
+
+# 2 同步逆变器的功率耦合机理分析
+
+同步逆变器主要由主电路和控制电路组成。同步逆变器的主电路部分如图1所示，其中 $L _ { \mathrm { g } }$ 为线路阻抗。为了便于研究本文提出的同步逆变器解耦控制策略的可行性，假定线路阻抗为纯感性。
+
+![](images/162860fa55df4c14957f93b6f325a7ad40d39ed2e7d213a741e446833310bf51.jpg)  
+图1同步逆变器主电路部分  
+Fig.1Main circuit section of synchronverter
+
+同步逆变器主电路的基本思路是将图1中逆变器桥臂的中性点电压 $e _ { \mathrm { a } }$ ， $e _ { \mathrm { b } }$ ， $e _ { \mathrm { c } }$ ，电容电压 $V _ { \mathrm { a } }$ ， $V _ { \mathrm { b } }$ ，$V _ { \mathrm { c } }$ 分别等效为同步发电机感应电动势和机端电压，电感 $L _ { \mathrm { s } }$ ， $L _ { \mathrm { s } }$ 的内阻 $R _ { \mathrm { s } }$ 模拟同步发电机的定子电感和定子阻抗，并且满足电磁方程，即
+
+$$
+\nu _ { { \mathrm { a b c } } } = - R _ { \mathrm { s } } i _ { \mathrm { a b c } } - L _ { \mathrm { s } } { \frac { \mathrm { d } i _ { \mathrm { a b c } } } { \mathrm { d } t } } + e _ { \mathrm { a b c } }
+$$
+
+控制部分核心算法如图2所示。图中， $D _ { \mathfrak { p } }$ 、 $D _ { \mathfrak { q } }$ 为有功、无功阻尼系数，具有频率下垂和阻尼的功能，可以直接实现频率下垂，不需要添加额外的控制环节； $P _ { \mathrm { s e t } }$ 为有功功率，可以直接变换为对应的机械转矩 $T _ { \mathrm { m } }$ ； $M _ { \mathrm { f } }$ 为互感系数； $i _ { \mathrm { f } }$ 为励磁电流;$\dot { \theta } = \omega$ ； $J$ 为转动惯量； $T _ { \mathrm { e } }$ 为电磁转矩； $V _ { \mathrm { m } }$ 为电压幅值。
+
+假设采用极对数 $n = 1$ 的隐极式同步电机，同步逆变器的主要控制方程如下：
+
+励磁电流恒定时，感应电动势的表达式为
+
+$$
+e = M _ { \mathrm { f } } i _ { \mathrm { f } } { \dot { \theta } } \sin \theta
+$$
+
+转子的机械方程为
+
+![](images/9eedd935b469446168e9bf41fe243aa2733bd74330beb381db0f7bea619a2af3.jpg)  
+图2同步逆变器控制部分
+
+$$
+\boldsymbol { J } \frac { \mathrm { d } \omega } { \mathrm { d } t } { = } \boldsymbol { T _ { \mathrm { m } } } - \boldsymbol { T _ { \mathrm { e } } } - \boldsymbol { D _ { \mathrm { p } } } \boldsymbol { \dot { \theta } }
+$$
+
+电磁转矩方程为
+
+$$
+T _ { \mathrm { e } } = - M _ { \mathrm { f } } i _ { \mathrm { f } } < i , \frac { \partial } { \partial \theta } { \mathrm { c o s } } \theta > = M _ { \mathrm { f } } i _ { \mathrm { f } } < i , { \mathrm { s i n } } \theta >
+$$
+
+同步逆变器输出的有功功率和无功功率分别为
+
+$$
+\left\{ \begin{array} { l } { { P = \dot { \theta } M _ { \mathrm { f } } i _ { \mathrm { f } } < i , \sin ^ { 2 } \theta > } } \\ { { Q = - \dot { \theta } M _ { \mathrm { f } } i _ { \mathrm { f } } < i , \cos ^ { 2 } \theta > } } \\ { { \sin ^ { 2 } \theta = \left[ \sin \theta , \sin \left( \theta - \frac { 2 \pi } { 3 } \right) , \sin \left( \theta + \frac { 2 \pi } { 3 } \right) \right] ^ { \mathrm { T } } } } \\ { { { } } } \\ { { \cos ^ { 2 } \theta = \left[ \cos \theta , \cos \left( \theta - \frac { 2 \pi } { 3 } \right) , \cos \left( \theta + \frac { 2 \pi } { 3 } \right) \right] ^ { \mathrm { T } } } } \end{array} \right.
+$$
+
+其中， $\mathbf { \Psi } < \mathbf { \Psi } , \mathbf { \Psi } >$ 表示内积。
+
+同步逆变器简化模型及各元素矢量如图3所示，电压 $\nu$ 和 $E$ 为相电压； $P$ 和 $\boldsymbol { \mathcal { Q } }$ 为单相功率，矢量 $E$ 可以通过电压 $V$ 加上流过 $\mathrm { j } X \pmb { I }$ 的电压得到，三角形$A D O$ 和三角形 $B A C$ 相似，分析两个三角形可得[22]
+
+$$
+\scriptstyle \left| B C \right| = X _ { \mathrm { s } } I \cos \varphi = E \sin \delta
+$$
+
+因此，有
+
+![](images/6176deeee2dbddfdc715a25cc19b5da0b69ac150a81d8e8b53b4ce6fa1f3bca5.jpg)  
+Fig.2Control section of synchronverter   
+图3同步逆变器简化模型及各元素矢量图  
+Fig.3Synchronous inverter simplified model and the vector diagram of each element
+
+$$
+I \cos \varphi { = } \frac { E } { X _ { \mathrm { s } } } \mathrm { s i n } \delta
+$$
+
+再由 $\left| A C \right| = X _ { s } I$ sin $\varphi = E \cos \delta - V$ ，可得
+
+$$
+I \sin \varphi { = } \frac { E } { X _ { \mathrm { s } } } \mathrm { c o s } \delta { - } \frac { V } { X _ { \mathrm { s } } }
+$$
+
+有功功率可以表示为 $P = { \cal { V } } I$ cos $\varphi$ ，结合上式可得到
+
+$$
+P = { \frac { E V } { X _ { \mathrm { s } } } } \mathrm { s i n } \delta
+$$
+
+由无功功率 $Q = V I \sin \varphi$ ，同理可得
+
+$$
+\mathscr { Q } = \frac { ( E \cos \delta - V ) V } { X _ { \mathrm { s } } }
+$$
+
+因此可得同步逆变器输出的有功功率和无功功率表达式为[23-24]
+
+$$
+\left\{ \begin{array} { l l } { \displaystyle P = \frac { 3 E V } { X _ { s } } \mathrm { s i n } \delta } \\ { \displaystyle Q = \frac { 3 \left( E \mathrm { c o s } \delta - V \right) V } { X _ { s } } } \end{array} \right.
+$$
+
+式中， $E$ 为同步逆变器桥臂的中性点电压有效值； $V$   
+为同步逆变器机端电压； $X _ { \mathrm { s } } = \omega L _ { \mathrm { s } }$ ： $\delta$ 为功角。
+
+当同步逆变器并网后，根据同步发电机功角特性，存在 $P \mathrm { - } \delta$ ， $Q \ – V$ 相对应的调节关系，为了详细分析 $P \mathrm { - } \delta$ ， $Q \cdot V$ 之间的关系，将式（11）按照小信号模型展开，即
+
+$$
+\begin{array} { r l } & { \{ \Delta P = \frac { \partial P } { \partial \delta } \Delta \delta + \frac { \partial P } { \partial V } \Delta V } \\ & { \quad = \frac { 3 E _ { \mathrm { 0 } } ^ { \prime } } { X _ { \mathrm { * } } } \cos { \delta _ { \mathrm { 0 } } } \Delta \delta + \frac { 3 E } { X _ { \mathrm { * } } } \sin { \delta _ { \mathrm { 0 } } } \Delta \delta } \\ & { \quad = P _ { \mathrm { 0 } } + P _ { \mathrm { 1 } } } \\ & { \quad \quad \Delta Q = \frac { \partial Q } { \partial V } \Delta V + \frac { \partial Q } { \partial \delta } \Delta \delta } \\ & { \quad \quad = 3 ( \frac { E } { X _ { \mathrm { * } } } \cos { \delta _ { \mathrm { 0 } } } - \frac { 2 V } { X _ { \mathrm { * } } } ) \Delta V + \frac { 3 E V _ { \mathrm { 0 } } } { X _ { \mathrm { * } } } \sin { \delta _ { \mathrm { 0 } } } \Delta \delta } \\ & { \quad \quad = Q _ { \mathrm { 0 } } + Q _ { \mathrm { 0 } } . } \end{array}
+$$
+
+式中， $V _ { 0 }$ ， $\delta _ { 0 }$ 分别为稳态的机端电压和稳态的功角； $P _ { 0 }$ 、 $Q _ { 0 }$ 为稳态有功功率和无功功率； $P _ { 1 }$ 、 $\scriptstyle Q _ { 1 }$ 分别为 有功功率和无功功率的耦合量。
+
+由式（12）可知，有功不仅与 $\Delta \delta$ 有关，而且与 $\Delta V$ 有关，因此存在 $P / / F$ 耦合效应；同理可知无功调节存在 $Q \cdot \delta$ 耦合效应。为了能实现消除功率耦
+
+合的目的，需要将 $P / / F$ 之间的耦合量 $P _ { 1 }$ 和 $Q \cdot \delta$ 之间的耦合量 $\scriptstyle Q _ { 1 }$ 消除。
+
+# 3 功率解耦控制策略
+
+根据以上分析，本文根据相互影响的耦合量 $P _ { 1 }$ 和 $\scriptstyle Q _ { 1 }$ ，通过动态的补偿相反的 $- { P } _ { 1 }$ 和 $- Q _ { 1 }$ ，达到消除耦合的目的。为了便于实现补偿功率耦合量，本文将补偿动态功率转换成补偿动态电流。
+
+# 3.1 $P / / F$ 的解耦控制策略
+
+由式（12）可知，为达到消除 $P \mathrm { - } V$ 耦合的目的，需补偿的有功量为 $- { P } _ { 1 }$ ，其表达式为
+
+$$
+- P _ { \mathrm { l } } = - { \frac { 3 E _ { \mathrm { 0 } } } { X _ { \mathrm { s } } } } \mathrm { s i n } \delta _ { \mathrm { 0 } } \Delta V = - { \frac { P _ { \mathrm { 0 } } } { V _ { \mathrm { 0 } } } } \Delta V
+$$
+
+式中， $V _ { 0 }$ 为稳态时机端电压的值； $\Delta V$ 为机端电压干扰量。
+
+将 $- P _ { 1 }$ 转化成动态补偿电流，根据文献[22]，有功功率又可以表示为
+
+$$
+\begin{array} { r } { \left\{ \begin{array} { l l } { P _ { 1 } = V _ { d } \Delta I _ { d } + V _ { q } \Delta I _ { q } } \\ { P _ { 0 } = V _ { d } I _ { d } + V _ { q } I _ { q } } \end{array} \right. } \end{array}
+$$
+
+则有
+
+$$
+- P _ { \mathrm { { l } } } = - { \frac { V _ { d } I _ { d } + V _ { q } I _ { q } } { V _ { \mathrm { 0 } } } } \Delta V = V _ { d } \left( - { \frac { I _ { d } } { V _ { \mathrm { 0 } } } } \Delta V \right) + V _ { q } \left( - { \frac { I _ { q } } { V _ { \mathrm { 0 } } } } \Delta V \right)
+$$
+
+因此，可得需要补偿的电流增量为
+
+$$
+\left\{ \begin{array} { l } { \Delta I _ { d 1 } = - \displaystyle \frac { I _ { d } } { V _ { 0 } } \Delta V } \\ { \Delta I _ { q 1 } = - \displaystyle \frac { I _ { q } } { V _ { 0 } } \Delta V } \end{array} \right.
+$$
+
+# 3.2 $Q \cdot \delta$ 的解耦控制策略
+
+由式（12）可知，为消除 $Q \cdot \delta$ 之间的耦合，需要补偿的无功功率为 $- Q _ { 1 }$ ，其表达式为
+
+$$
+- Q _ { 1 } = \frac { 3 E V _ { 0 } } { X _ { \mathrm { s } } } \sin { \delta _ { \mathrm { 0 } } \Delta \delta } = P _ { 0 } \Delta \delta
+$$
+
+其中， $\Delta \delta$ 为功角干扰量。
+
+将 $- Q _ { 1 }$ 转化成补偿电流，即
+
+$$
+- Q _ { 1 } = V _ { d } \Delta I _ { d } - V _ { q } \Delta I _ { q } = P _ { 0 } \Delta \delta = ( V _ { d } I _ { d } + V _ { q } I _ { q } ) \Delta \delta
+$$
+
+因此，可得需要补偿的电流增量为
+
+$$
+\left\{ \begin{array} { l } { \Delta I _ { d 2 } = I _ { q } \Delta \delta } \\ { \Delta I _ { q 2 } = - I _ { d } \Delta \delta } \end{array} \right.
+$$
+
+# 4电流反馈下的同步逆变器功率解耦控制
+
+由于增加电流环能提高系统的动态响应，并可以限制电流，起到过电流保护的作用。因此本文在原有控制算法的基础上增加了一个反馈电流环，以补偿消除功率耦合量所需要的动态电流。
+
+根据文献[25]，可以推导出式（1）在dq坐标中的动态方程为
+
+$$
+\begin{array} { r } { \left\{ \begin{array} { l l } { L _ { s } \dot { i } _ { d } = - R _ { s } i _ { d } + \omega L _ { s } \dot { i } _ { q } + e _ { d } - \nu _ { d } } \\ { L _ { s } \dot { i } _ { q } = - R _ { s } i _ { q } - \omega L _ { s } i _ { q } + e _ { q } - \nu _ { q } } \end{array} \right. } \end{array}
+$$
+
+由式（20）可得电流环的控制框图（见图3），结合式（16)、式（19）可得修正后的电流为
+
+$$
+\begin{array} { r } { \left\{ \begin{array} { l l } { \boldsymbol { I } _ { d _ { - } \mathrm { m o d } } ^ { * } = \boldsymbol { I } _ { d } ^ { * } + \Delta \boldsymbol { I } _ { d 1 } + \Delta \boldsymbol { I } _ { d 2 } } \\ { \boldsymbol { I } _ { q _ { - } \mathrm { m o d } } ^ { * } = \boldsymbol { I } _ { q } ^ { * } + \Delta \boldsymbol { I } _ { q 1 } + \Delta \boldsymbol { I } _ { q 2 } } \end{array} \right. } \end{array}
+$$
+
+式中， $I _ { d } ^ { * }$ ， $I _ { q } ^ { * }$ 为原电流环的给定电流，由参考电流$i _ { \mathrm { r e f } }$ 经 $d q$ 变化得到， ${ i _ { \mathrm { r e f } } }$ 计算式为
+
+$$
+i _ { \mathrm { r e f } } = \frac { e _ { \mathrm { a b c } } - \nu _ { \mathrm { a b c } } } { L s + R _ { \mathrm { s } } }
+$$
+
+综上所述，本文提出解耦控制方法如图4所示。
+
+# 5 基于动态模型的稳定性分析
+
+为了分析增加解耦控制对同步逆变器稳定性的影响，本文在文献[21]的基础上，增加了有功功率和无功功率解耦控制的同步逆变器小信号数学模型，如图5所示。
+
+图5中， $i _ { q }$ 对 $e$ 的传递函数为
+
+$$
+H _ { q } ( s ) = { \frac { - X \cos \delta + ( R + s L ) \sin \delta } { \left( R + s L \right) ^ { 2 } + X ^ { 2 } } }
+$$
+
+由图5a可得加入解耦控制策略的有功环的开环环路增益为
+
+$$
+T _ { p } ( s ) = \frac { 3 \delta V ^ { 2 } \cos \delta } { \theta _ { \mathrm { n } } ( J s + D _ { \mathrm { p } } ) X _ { \mathrm { s } } ^ { 2 } s } \Bigg ( k _ { \mathrm { p } 2 } + \frac { k _ { \mathrm { i } 2 } } { s } \Bigg )
+$$
+
+由图5b可得加入解耦控制策略的无功环的开环环路增益为
+
+$$
+T _ { q } ( s ) \mathbf { = } \frac { \phantom { } 2 . 1 2 1 ( E \cos \delta - 2 V ) } { X _ { s } [ ( K / \theta _ { \mathrm { n } } ) s + D _ { q } ] \sin \delta } \bigg ( k _ { \mathrm { p } } \mathbf { + } \frac { k _ { \mathrm { i } } } { s } \bigg ) H _ { q } ( s )
+$$
+
+由文献[12]仿真参数、式（24）和式（25）可得有功功率控制环和无功功率控制环的功率环路增
+
+![](images/e111e950a31ddfece50ef7a4e21f872dc0914e3df6111e7c1f8684d9ba4df04d.jpg)  
+Fig.4Block diagram of decouping control
+
+![](images/5474ea9a6d162c4f165642f2d7e2fcf6f01d12b0f123a209b5689d987078e843.jpg)  
+图5增加解耦控制策略的同步逆变器小信号模型 Fig.5A small signal model of synchronous inverter with decoupling control strategy is added
+
+益伯德图如图6所示。
+
+由图6a可知，有功环的截止频率为 $3 0 0 \mathrm { H z }$ ，相角裕度为 $1 3 5 ^ { \circ }$ ；由图6b可知，无功环的截止频率为 $2 0 0 \mathrm { H z }$ ，相角裕度为 $8 0 ^ { \circ }$ 。因此可知加入解耦控制策略的系统稳定性能良好。
+
+# 6 仿真验证
+
+为了验证本文提出的解耦控制策略的优越性和
+
+![](images/abdd602cfb03ee829d8363c72a586cfaa220715c84f0b011854721d87017365b.jpg)  
+(a）有功环环路增益
+
+![](images/32942d77c784d1fa2cb47e4568837a1bafcf9c0fe0ecef9c6f05f8251bce20cd.jpg)  
+图4解耦控制框图  
+图6功率环路增益伯德图  
+Fig.6Power loop gain port Bode diagram
+
+可行性，在Matlab14b中搭建仿真平台，并将本文方法与文献[12]在同等情况下进行比较。仿真参数见下表。
+
+# 表仿真参数设计
+
+Tab.Design of simulation parameters   
+
+<html><body><table><tr><td>参数</td><td>数值</td></tr><tr><td>L/mH,R/Ω</td><td>0.45，0.27</td></tr><tr><td>C1uF</td><td>22</td></tr><tr><td>Lg/mH</td><td>0.45</td></tr><tr><td>直流侧电压Vdc/V</td><td>700</td></tr><tr><td>电网电压Ug/V</td><td>220</td></tr><tr><td>Dp</td><td>5</td></tr><tr><td>D</td><td>50</td></tr><tr><td>K</td><td>128.066 2</td></tr><tr><td>J/kg· m²</td><td>0.000405 2</td></tr><tr><td>电流环PI参数</td><td>kp=2，k=30</td></tr></table></body></html>
+
+在 $0 \sim 1 \mathrm { s }$ 断路器断开，同步逆变器与电网预同步，此时输出有功和无功均为0，1s时加入有功功率 $P _ { \mathrm { s e t } } { = } 5 ~ 0 0 0 \mathrm { W }$ ，2s 时加入无功功率 $\mathcal { Q } _ { \mathrm { s e t } } = 2 ~ 0 0 0 \mathrm { v a r }$ 3s 时加入电压调节器。
+
+整个调节过程同步逆变器功率的仿真结果如图7所示。由图7a可知，1s时加入有功功率后，相较于文献[12]，本文提出的控制方法能基本消除有功功率对无功功率的影响；2s时加入无功功率后，本文的解耦方法使有功功率基本不受影响；3s时加入电压调节器，由同步逆变的输出功率关系可知，电压调节器会对无功功率产生影响。由图7a可知，当无功功率发生改变时，采用本文提出的控制策略能基本消除无功功率对有功功率的影响。
+
+![](images/3abfeb7d919159900daae127009560750afc8a2ea25f23a65daa8b47b9aa4e31.jpg)  
+图7同步逆变器的功率仿真  
+Fig.7Power simulation of synchronverter
+
+图8为同步逆变器机端电压和频率的动态响应过程。由图8可知，1s时加入有功功率后，频率有一个动态调整的过程，符合前文的分析，本文提出的方法基本能消除 $P \mathrm { - } E$ 之间的耦合作用使电动势 $E$ 保持不变；2s时加入无功功率后，本文提出的方法基本可以消除 $Q ^ { - \delta }$ 之间的耦合。同理在3s加入电压调节器，本文采用的解耦控制方式能使频率保持不变。从而证明了本文提出的方法可以消除有功功率和无功功率之间的耦合，保证系统稳定运行。
+
+# 7 结论
+
+本文针对同步逆变器功率耦合控制问题，分析了同步逆变器的功率，建立了小信号模型，详细阐述了产生功率耦合的机理，提出一种基于电流反馈的同步逆变器功率解耦控制策略，并与传统的同步逆变器解耦方法进行比较，得出以下结论：
+
+![](images/b598abcceefdb59d15c93de199ad12ec872a3c44e44eb64a709c1ed65cb5c768.jpg)  
+图8同步逆变器的机端电压和频率仿真  
+Fig.8Voltage and frequency simulation of synchronverter
+
+（1）本文所提方法完全能实现有功功率和无功功率的解耦，使得系统运行更加稳定。(2）将引起耦合的动态功率量转换成动态电流的形式，更便于实现。(3）增加了电流内环，减少了系统的超调量和过渡时间。（4）增加了电流内环，使得系统的稳定性能更加优越。
+
+# 参考文献
+
+[1] 范松丽，苑仁峰，艾芊，等．欧洲超级电网计划 及其对中国电网建设启示[J]．电力系统自动化， 2015，39(10)：6-15. Fan Songli,Yuan Renfeng,Ai Qian,et al.European supergrid project and its enlightenment to China's power grid[J].Automation of Electric Power Systems,2015,39(10): 6-15.   
+[2] 黄林彬，章雷其，辛焕海，等．下垂控制逆变器 的虚拟功角稳定机理分析[J]．电力系统自动化， 2016，40(12)：117-123. Huang Linbin,Zhang Leiqi,Xin Huanhai,et al. Multi-rate real-time simulation method based on RTDS and FPGA co-simulation platform[J]. Automation of Electric Power Systems,2016, 40(12):117-123.   
+[3] 赵杨阳，柴建云，孙旭东，等．基于虚拟同步发 电机的柔性虚拟调速器模型[J]．电力系统自动化， 2016，40(10): 8-15. Zhao Yangyang, Chai Jianyun, Sun Xudong,et al. Flexible virtual covernor model based on virtual synchronous generator[J]. Automation of Electric Power Systems, 2016,40(10): 8-15.   
+[4] Balaguer I J,Lei Q, Yang S,et al. Control for gridconnected and intentional islanding operations of distributed power generation[J]. IEEE Transactions on Industrial Electronics,2011,58(1): 147-157.   
+[5] 胡超，张兴，石荣亮，等．独立微电网中基于自 适应权重系数的VSG协调控制策略[J]．中国电机 工程学报，2017，37(2)：516-524. Hu Chao, Zhang Xing, Shi Rongliang,et al. VSG coordinated control based on adaptive weight factors in islanded microgrids[J]. Proceedings of the CSEE, 2017, 37(2): 516-524.   
+[6] 王克，王泽忠，柴建云，等．同步控制逆变电源 并网预同步过程分析[J]．电力系统自动化，2015, 39(12): 152-158. Wang Ke,Wang Zezhong,Chai Jianyun,et al. Analysis of grid-connecting pre-synchronized process for synchronously controlled inverter power Source[J]. Automation of Electric Power Systems, 2015,39(12): 152-158.   
+[7] 吕志鹏，盛万兴，钟庆昌，等．虚拟同步发电机 及其在微电网中的应用[J]．中国电机工程学报, 2014，34(16): 2591-2603. Lü Zhipeng, Sheng Wanxing, Zhong Qingchang, et al. Virtual synchronous generator and its applications in micro-grid[J]. Proceedings of the CSEE, 2014, 34(16): 2591-2603.   
+[8] 陈来军，王任，郑天文，等．基于参数自适应调 节的虚拟同步发电机暂态响应优化控制[J]．中国 电机工程学报，2016，36(21)：5724-5731. Chen Laijun,Wang Ren, Zheng Tianwen,et al. Optimal control of transient response of virtual synchronous generator based on adaptive parameter adjustment[J]. Proceedings of the CSEE,2016, 36(21): 5724-5731.   
+[9] 郑天文，陈来军，陈天一，等．虚拟同步发电机 技术及展望[J]．电力系统自动化，2015，39(21)： 165-175. Zheng Tianwen, Chen Laijun, Chen Tianyi, et al. Review and prospect of virtual synchronous generator technologies[J]. Automation of Electric Power Systems,2015,39(21): 165-175.   
+[10]El-Saadawi M, Hatata A.A novel protection scheme for synchronous generator stator windings based on SVM[J].Protection & Control of Modern Power Systems, 2017, 2(1): 24.   
+[11] Bevrani H, Ise T, Miura Y. Virtual synchronous generators: a survey and new perspectives[J]. International Journal of Electrical Power & Energy Systems,2014,54(1): 244-254.   
+[12]Zhong Q C, Weiss G. Synchronverters: inverters that mimic synchronous generators[J]. IEEE Transactions on Industrial Electronics,2011, 58(4): 1259-1267.   
+[13] 金鹏，艾欣，王永刚．采用势函数法的微电网无功 控制策略[J]．中国电机工程学报，2012，32(25)： 44-51. Jin Peng, Ai Xin, Wang Yonggang. Reactive power control strategy of microgird using potential function method[J]. Proceedings of the CSEE, 2012, 32(25): 44-51.   
+[14]李鹏，杨世旺，王阳，等．基于相对增益分析的 目标函数对角化微网功率解耦控制方法[J]．中国 电机工程学报，2014，34(13)：2039-2046. Li Peng, Yang Shiwang,Wang Yang, et al. Objective function diagonalization decoupling control of microgrid power based on relative gain analysis[J]. Proceedings of the CSEE,2014, 34(13): 2039-2046.   
+[15]荆龙，黄杏，吴学智．改进型微源下垂控制策略 研究[J]．电工技术学报，2014，29(2)：145-152. Jin Long, Huang Xin, Wu Xuezhi. Research on improved microsource droop control method[J]. Transactions of China Electrotechnical Society, 2014,29(2): 145-152.   
+[16]郑永伟，陈民铀，李闯，等．自适应调节下垂系 数的微电网控制策略[J]．电力系统自动化，2013, 37(7): 6-11. Zheng Yongwei, Chen Minyou, Li Chuang, et al. A microgrid control strategy based on adaptive drooping coefficient adjustment[J]. Automation of Electric Power Systems,2013,37(7): 6-11.   
+[17]Alipoor J, Miura Y, Ise T. Power system stabilization using virtual synchronous generator with alternating moment of inertia[J]. IEEE Journal of Emerging & Selected Topics in Power Electronics, 2015, 3(2): 451-458.   
+[18] Shintai T,Miura Y, Ise T. Oscillation damping of a distributed generator using a virtual synchronous generator[J]. IEEE Transactions on Power Delivery, 2014,29(2): 668-676.   
+[19] Ashabani M,Mohamed A RI.Integrating VSCs to weak grids by nonlinear power damping controller with self-synchronization capability[J].IEEE Transactions on Power Systems,2014,29(2): 805-814.   
+[20] Li M,Wang Y, Xu N,et al. A power decoupling control strategy for droop controlled inverters and virtual synchronous generators[C].IEEE Power Electronics and Motion Control Conference,2016: 1713-1719.   
+[21] 李武华，王金华，杨贺雅，等．虚拟同步发电机 的功率动态耦合机理及同步频率谐振抑制策略[J]. 中国电机工程学报，2017，37(2)：381-390. Li Wuhua,Wang Jinhua,Yang Heya,et al.Power dynamic coupling mechanism and resonance suppression of synchronous frequency for virtual synchronous generators[J].Proceedings of the CSEE, 2017,37(2): 381-390.   
+[22] Machowski J,BialekJW,Bumby JR.Power system dynamics.stability and control[M]. John Wiley, 2012.   
+[23] 张玉治，张辉，贺大为，等．具有同步发电机特 性的微电网逆变器控制[J]．电工技术学报，2014, 29(7): 261-268. Zhang Yuzhi, Zhang Hui,He Dawei,et al. Control strategy of micro grid converters with synchronous generator characteristic[J].Transactions of China Electrotechnical Society,2014,29(7): 261-268.   
+[24] Brown E,Weiss G.A study of the use of synchronverters for grid stabilization using simulations in SimPower[D]. Tel:Tel Aviv University. 2015.   
+[25] Natarajan V,Weiss G.Almost global asymptotic stability of a constant field current synchronous machine connected to an infinite bus[C].IEEE Decision and Control, 2014: 3272-3279.

@@ -1,0 +1,187 @@
+# 基于MatIab的小电流接地系统故障特征仿真分析
+
+谷天聪 范兴明张鑫(桂林电子科技大学电气工程及其自动化系桂林541004)
+
+![](images/3a516b3b6d0ac252d79de9ec27e64fcfc5536e04927701921f33daa068cd7d0b.jpg)
+
+谷天聪男 1990年生，硕士研究生，主要研究方向为智能化电器。
+
+摘要：本文采用Matlab 软件的动态仿真工具 Simulink及其电力系统工具箱 PSB对小电流接地系统进行故障仿真，论述了模型的搭建步骤。主要分析了接地类故障零序电压、零序电流的波形特征；分析了两相短路、三相短路短路电流的波形特征；分析了两相接地短路系统零序分量以及故障相电压的波形特征。对系统的主要故障线路始端以及故障区段两端波形进行仿真，观察波形更易于识别各故障的主要特征，了解不同故障波形特征的差异，进而便于后续故障检测以及故障识别的研究，为小电流接地系统故障规律分析提供了依据，对于小电流接地系统故障检测算法与检测设备的研制具有重要意义。
+
+关键词：Matlab 模型分析检测中图分类号：TM743
+
+![](images/356b6bfc7ed4cca5ce66b6edca10ab87cd87eeaf1d85a7e4df665f901fb8653a.jpg)
+
+# The Simulation and Analysis on the Fault of Small Current Grounding Power System Based on Matlab
+
+Gu TiancongFan XingmingZhang Xin (Guilin University of Electronic and TechnologyGuilin541004 China)
+
+范兴明男 1978年生，博士，教授，主要研究方向为智能化电器与高电压新技术。
+
+Abstract: The small current grounding power system is simulated based on the dynamic simulation tool Simulink and simpower system toolbox.The model’ s creation has been discussed. The zero sequence voltage and zero sequence current waveform characteristics are mainly analyzed for single phase to earth fault.The short circuit current waveform characteristics are analyzed for two phase short circuit,three-phase short circuit.The characteristics of zero sequence current, zero sequence voltage and fault phase voltage are analyzed. Through the simulation of the main fault waveform of the system, the main waveform characteristics of each fault, the difference of the characteristics of different fault waveform can be fully understood, which is conducive to the subsequent fault detection and identification.It provides a basis for fault analysis and research of small current grounding system,and it has important significance for the research of fault detection algorithm and equipment in small current grounding system.
+
+Keywords: Matlab,model, analysis, detection
+
+# 1 引言
+
+我国10kV配电网主要故障类型为单相接地故障、两相接地短路故障、两相短路故障和三相短路故障[1]。单相接地故障是发生概率最高的一类故障,占故障发生总数的六成以上，以往配电网故障仿真以及检测算法的制定主要以单相接地故障为主要对象。单相接地故障发生后非故障两相电压升高，故障可能会进一步恶化为相间短路故障[2]。因此，本文不仅对单相接地故障电流电压波形进行了仿真，更进一步对两相接地短路、两相短路和三相短路最明显的故障特征进行了仿真，不仅绘制了各线路始端波形图，更进一步绘制了故障点两侧的电流、电压波形[3-4]，为电力系统故障类型的区分、故障选线以及故障区段定位方法的研究提供了基本的故障特征依据。
+
+# 2 建立仿真模型
+
+Matlab的电力系统工具箱PSB含有电力系统仿真中需要的元件模型，可以比较贴近、真实地对电力系统故障进行仿真[5]，并且可以将仿真数据导入到Workspace中，方便后续图形的绘制以及算法的实现，仿真模型原理图如图1所示。
+
+![](images/31ced40018508f1cc32d96c91701edca1b22987d1a5b9eb98e5a906637c7e7eb.jpg)  
+图1仿真原理图  
+Fig.1 Simulation principle diagram
+
+在仿真模型中，电源采用内部丫联结的 $1 0 \mathrm { k V }$ 无穷大电源。线路采用“Three-PhasePISectionLine”模型，实际 $1 0 \mathrm { k V }$ 配电系统中，输电线路长度一般为 $2 0 \mathrm { k m }$ 以内[，所以模型中5条输电线路 $\mathrm { L } 1 \sim \mathrm { L } 5$ ，设置线路长度分别为 $2 0 \mathrm { k m }$ ， $1 2 \mathrm { k m }$ ，$1 3 \mathrm { k m }$ 、 $1 7 \mathrm { k m }$ 和 $1 8 \mathrm { k m }$ 。线路参数为：正序零序电阻为 $[ 0 . 0 8 1 2 \Omega / \mathrm { k m }$ ， $0 . 2 8 6 4 \Omega / \mathrm { k m } ]$ ，正序零序电感为 $[ 1 . 2 1 \mathrm { m H / k m }$ ， $5 . 4 8 \mathrm { m H / k m } ]$ ，正序零序电容为$[ 9 . 6 9 7 \mathrm { n F / k m }$ ， $6 . 1 2 4 \mathrm { n F / k m } ]$ 。消弧线圈过补偿 $10 \%$ ，电感值为 $6 . 4 \mathrm { H }$ ，串联电阻为 $2 0 0 \Omega$ 。
+
+$1 0 \mathrm { k V }$ 单回路架空线路输送容量一般在2MW以内，线路负荷Load1 $\sim$ Load5均采用“Three-phaseSeriesRLCLoad”模型，线路末端接入负载功耗为0.6MW、1.0MW、1.2MW、1.4MW和1.7MW，其他参数选取默认值。
+
+在线路L1-L3始端，以及线路L1距离母线9km处的M点、距离母线11km处的N点设置“Three-PhaseV-IMeasurement”模块，读取线路电压电流数据。故障发生在线路L1的MN区段内。
+
+选用“Three-PhaseFault”模块模拟线路故障，在“Three-PhaseFault”模块中可进行故障类型、相间电阻、接地电阻及故障时间等参数的设置。仿真模型功能框图如图2所示。
+
+![](images/10cfae17ee604079185683abafcef2e9562fcda03908622817e0f39947dd3c3d.jpg)  
+图2仿真功能框图  
+Fig.2Simulation functional block diagram
+
+# 3小电流接地系统故障波形
+
+本文选取相应故障特征的典型波形进行仿真。接地类故障主要有单相接地故障与两相接地短路故障，由文献[6-9]可知，接地故障的主要特征是故障相电压下降，以及系统产生零序分量。因此接地故障主要对相电压、零序电压、零序电流波形进行仿真；两相短路故障中，针对金属性短路与非金属性短路两种情况，选取各个线路的三相电流波形，对故障点两侧三相电压、电流波形进行仿真。对于三相短路故障，选取故障点两侧三相电流进行仿真[10]。
+
+# 3.1单相接地故障
+
+单相接地故障占电力系统故障发生总数的比例最高。故障后相电压失去平衡，线路通过对地电容放电，产生零序分量，但故障电流微弱，不易检测。同时非故障两相电压升高，可能进一步引起相间短路等二次故障，对电网造成极大的危害。因此虽然故障发生后可允许系统继续运行 $1 \sim 2 \mathrm { h }$ ，但考虑其对电网的稳定运行造成的巨大隐患，必须尽快排除。
+
+A相接地故障在0.02s时发生于线路L1距离母线 $1 0 \mathrm { k m }$ 处，过渡电阻为 $1 \Omega$ ，中性点不接地系统L1-L3零序电流及零序电压波形如图3所示，中性点经消弧线圈接地系统L1-L3零序电流及系统零序电压波形如图4所示。故障点两侧三相电压以及零序电流波形如图5、图6所示。
+
+![](images/a01c7efe4202667ac24db33195abfec0f90329fe8e3bbb172827f7f54e830fae.jpg)  
+图3中性点不接地系统零序电流、零序电压波形 Fig.3Zero sequence voltage and zero sequence current waveforms of neutral svstem   
+图6中性点经消弧线圈接地系统故障点两侧三相电压及零序电流波形  
+Fig.6Three phase voltage and zero sequence current waveforms of neutral earthing via arc extinguishing coil system on both sides of the fault point
+
+![](images/4bdad87a6383696e9c14ae6ead5ea6c14e5d87f9f31b6f4468ba751dcfb4904a.jpg)  
+图4中性点经消弧线圈接地系统零序电流零序电压波形 Fig.4Zero sequence voltage and zero sequence current waveforms of neutral earthing via arc extinguishing coil system   
+图5中性点不接地系统故障点两侧三相电压及零序电流波形  
+Fig.5Three phase voltage and zero sequence current waveforms of neutral system on both sides of the fault point
+
+20 20AA / AA-20 -200 0.05 0 0.05时间/s 时间/s(a）电源侧 (b）负荷侧10 10  
+/ 0 / 0  
+电 电-10 -100 0.05 0 0.05时间/s 时间/s(c）电源侧 (d）负荷侧  
+-20 WW -20 W  
+0 0.05 0 0.05时间/s 时间/s  
+(a）电源侧 (b）负荷侧  
+10 10  
+0 / 0  
+-10 -10  
+0 0.05 0 0.05时间/s 时间/s  
+(c）电源侧 (d）负荷侧
+
+由图3可知，发生单相接地故障后，发生故障的线路L1与其他线路零序电流存在差异，零序电流幅值最大且与其他线路反相，零序电压与线路L1存在超前 $9 0 ^ { \circ }$ 的相位关系，与其余非故障线路存在滞后 $9 0 ^ { \circ }$ 的相位关系。由图4可知，中性点经消弧线圈接地时，受消弧线圈过补偿作用影响，发生单相接地故障后，L1波形与L2、L3相位相同，但线路L1受消弧线圈补偿作用影响，含有较高的直流分量，各线路零序电流相位一致，均超前零序电压 $9 0 ^ { \circ }$ 。
+
+由图5a、5b和图6a、6b可知，中性点不接地系统与中性点经消弧线圈接地系统中故障A相电压幅值下降接近为0，B、C两相电压升高，电源侧与负荷侧三相电压波形无明显差异。由图5c、5d和图6c、6d可知，单相接地故障发生在中性点不接地系统时，故障点电源侧与负荷侧零序电流反相。中性点接入消弧线圈后，故障点电源侧与负荷侧零序电流同相。故障点电源侧零序电流含有较高直流分量，负荷侧零序电流微弱。由于故障点电源侧线路包括所有非故障线路，以及故障线路故障点至母线对地电容较大，而故障点负荷侧只有故障点下游一部分线路，线路长度短，对地电容较电源侧小。所以故障点电源侧与负荷侧零序电流差异明显[11]。故障点电源侧暂态零序电流幅值大且谐振频率低，而故障点负荷侧幅值小且谐振频率高[12]。取故障后故障点两侧一个工频周期采样点，频谱图如图7所示。由图7可以看出，故障点电源侧与负荷侧零序电流的频谱差异，故障点两侧零序电流频谱的这种分布差异受中性点接地方式影响较小，是基于暂态量的新型故障区段定位算法研究的基本故障特征依据。
+
+# 3.2两相短路故障
+
+两相短路故障占电力系统故障总数的 $10 \%$ ，发生两相短路故障后，故障线路电压、电流会发生剧烈变化，严重危害电力系统的稳定运行。两相短路故障随相间电阻的不同，故障特征也有差异，本文从金属性短路和非金属性短路两种情况出发，对两相短路故障进行波形仿真。
+
+线路L1距离母线 $1 0 \mathrm { k m }$ 处0.02s时，A、B相发生两相短路故障，相间过渡电阻分别取 $0 . 1 \Omega$ F$1 0 \Omega$ ，故障点两侧三相电压波形如图8所示。故障点两侧三相电流波形如图9所示。
+
+/ 电 -10 10 &88 -10 10 &80 0.05 0 0.05时间/s 时间/s  
+(a）金属性短路电源侧 (b）金属性短路负荷侧  
+审 -10 Q888 / -10 888880 0.05 0 0.05时间/s 时间/s  
+(c）非金属性短路电源侧 (d）非金属性短路负荷侧
+
+![](images/30179ba4082690fa4bb68c0413b3ced1151abafd068d2ddbbb8bde448e9f5915.jpg)  
+图7故障点两侧零序电流频谱图  
+图9故障点两侧三相电流波形   
+Fig.9Three phase current waveforms on both sides of fault point
+
+由图8可以看出，金属性两相短路时，电源侧A、B两故障相电压减小，幅值相同，相位差减小，近似同相。负荷侧A、B两故障相电压减小且幅值、相位相同。非故障相C相电压无变化。非金属性短路时，故障点两侧A、B两故障相电压减小，但减小幅度不同，A、B两相相位差减小。
+
+由图9可以看出，金属性短路时，电源侧A、B两故障相电流增大，幅值相同且反相，非故障相
+
+2000 AOO0O 200  
+/ 0 / &888  
+-2000 -2000 0.05 0 0.05时间/s 时间/s  
+(a）金属性短路电源侧 (b）金属性短路负荷侧  
+2000 200  
+/电 0 88 888888  
+-2000 -2000 0.05 0 0.05时间/s 时间/s  
+(c）非金属性短路电源侧 (d）非金属性短路负荷侧
+
+![](images/64faf9058b2c29f5b92f79cdacd28f128ff9ae68c7f6aaeb485654c239930761.jpg)  
+Fig.7The spectrum of zero sequence current on both sides of the fault point   
+图8故障点两侧三相电压波形  
+Fig.8Three phase voltage waveforms at both sides of fault point   
+图10各线路三相电流波形  
+Fig.10Three-phase current waveforms of each line
+
+C相电流无变化。负荷侧A、B两故障相电流减小，幅值、相位相同，非故障相C相电流无变化；非金属性短路故障时，电源侧A、B两故障相电流增大，幅值相同，相位相反，非故障相C相电流无变化。负荷侧C相电流无变化，两故障相中，随着过渡电阻的增大，A、B两相相位差由 $0 ^ { \circ } \sim 1 2 0 ^ { \circ }$ 间变化,幅值由小到大逐渐接近正常状态[13]。
+
+当线路L1发生相间短路故障时，A、B两故障相电流只因相间电阻的增大而减小，但A、B两故障相电流增大且反相的变化规律不变，所以只对A、B两短路相相间电阻为 $0 . 1 \Omega$ 时一种情况进行仿真，如图10所示。
+
+由图10可知，0.02s线路L1发生A、B两相短路时，A、B两相电流大幅度增大，幅值相同，相位相反，C相电流不变；非故障线路L2、L3三相电流无明显变化。
+
+# 3.3两相接地短路故障
+
+单相接地故障发生后，如果没有及时处理，非故障相电压升高，系统中对地绝缘薄弱部分可能发生闪络，进而发展为两相接地短路故障。两相接地短路故障具有其独特特征，但与相间短路故障及单相接地故障也有相似之处。
+
+两相接地短路故障与单相接地故障及两相短路最明显的差异在于故障后三相电压波形，所以对故障前后故障点两侧三相电压波形进行了仿真。
+
+线路L1距离母线 $1 0 \mathrm { k m }$ 处，0.02s发生两相短路故障，由于相间电阻变化时，仅三相电压的幅值、相位有所不同，但三相电压的总体变化规律依然相似，所以只取接地电阻为1Ω时的仿真波形，如图11所示，由图11可以看出故障点两侧的三相电压波形特征。
+
+![](images/180a848799001e8253ace350f14f988932d1445645db5285073a203c7fad70f1.jpg)  
+图11故障点两侧三相电压波形
+
+故障点两侧工频三相电压波形无明显差异，故障线路A、B两故障相电压降低且相位差减小，非故障相C相电压增大。
+
+小电流接地系统发生两相接地短路故障，系统主要故障特征如下：
+
+(1）与单相接地故障相似，中性点不接地时，线路L1发生故障后零序电流波形相位滞后零序电压 $9 0 ^ { \circ }$ ，其余非故障线路零序电流波形超前零序电压 $9 0 ^ { \circ }$ 。线路L1零序电流幅值为线路L2与L3零序电流幅值之和，零序电压超前线路L1零序电流$9 0 ^ { \circ }$ ，零序电压滞后所有非故障线路零序电流 $9 0 ^ { \circ }$ 。中性点经消弧线圈接地系统发生两相接地故障时，故障线路与非故障线路零序电流幅值与相位相同，故障线路在发生故障后的几个工频周期内，存在较高的直流分量，零序电压滞后所有线路零序电流$9 0 ^ { \circ }$ 。故障点电源侧暂态零序电流谐振频率低、幅值大，而故障点负荷侧暂态零序电流谐振频率高、幅值小。
+
+(2）与两相短路相似，故障线路L1电源侧A、B两相电流幅值增大且近似反相，非故障相电流不变，非故障线路L2、L3三相电流无变化。负荷侧C相电流无变化，A、B两故障相电流随着故障两点间电阻的增大，A、B两故障相电流相位由$0 ^ { \circ } \sim 1 2 0 ^ { \circ }$ 变化，幅值由小到大逐渐趋向于非故障状态。
+
+(3）A、B两故障相电压下降，相位差减小，非故障相C相电压增大。故障点电源侧与负荷侧三相电压波形无明显差异。
+
+# 3.4三相短路故障
+
+三相短路故障是所有故障中危害最严重的一种故障。虽只占故障发生总数的 $5 \%$ ，发生三相短路故障后，三相电流急剧增大，对电网的稳定运行会产生巨大影响。因此，针对故障发生前后三相电流的变化进行仿真。
+
+线路L1距离母线 $1 0 \mathrm { k m }$ 处，0.02s发生三相短路故障，过渡电阻 $0 . 1 \Omega$ ，故障点两侧三相电流波形如图12所示。
+
+![](images/7531ca87ac32542e13f63286033507291d2dd5395d6520059f0dad5b25de6a8c.jpg)  
+Fig.11Three-phase voltage waveforms at both sides of fault point   
+图12故障点两侧三相电流波形  
+Fig.12Three-phase current waveforms on both sides of fault point
+
+小电流接地系统发生三相短路，系统主要变化如下：
+
+（1）与两相短路类似，故障线路L1三相电流大幅增大，非故障线路L2、L3三相电流无明显变化。
+
+(2）发生故障后电源侧三相电流幅值大幅度增大，负荷侧三相电流减小。
+
+# 4 结束语
+
+本文针对小电流接地系统常见的四种故障类型的典型特征进行仿真分析，可得如下结论：
+
+(1）接地类故障最典型的故障特征是系统产生零序分量，因此可以通过故障线路与非故障线路、故障点电源侧与负荷侧零序电流稳态量差异以及暂态零序电流频率成分的差异进行接地故障的选线与区段定位。
+
+(2）两相接地短路故障，通过检测线路是否有零序电流与零序电压可与两相短路故障区分；通过两故障相电压的变化可与单相接地故障区分。(3）两相短路、三相短路故障可依据故障发生后故障相电流大幅增大这一特征进行故障选线。可依据故障点前后电压、电流有效值的差异进行故障区段定位。
+
+# 参考文献
+
+[1] 刘万顺．电力系统故障分析[M]．北京：中国电力 出版社，1998.   
+[2] 张波，王越．中性点不接地系统同一点两相接地 短路故障分析[J]．电力系统保护与控制，2007, 35(15): 59-61. Zhang Bo, Wang Yue, et al. Analyis of two-phase grounding fault of isolated neutral system[J]. Power System Protection and Control, 2007, 35(15): 59-61.   
+[3] 唐金锐，尹项根，张哲，等．配电网故障自动 定位技术研究综述[J]．电力自动化设备，2013, 33(5): 7-13. Tang Jinrui, Yin Xianggen, Zhang Zhe, et al. Survey of fault location technology for distribution networks[J]. Electric Power Automation Equipment, 2013,33(5): 7-13.   
+[4] 陈丽，杨洪耕，吴晓清．基于模式识别的配电网故 障区段定位[J]．电工电能新技术，2012，31(1)： 88-91. Chen Li, Yang Honggeng, Wu Xiaoqing. Fault location for distribution networks based on patern recognition technique[J]. Advanced Technology of Electrical Engineering and Energy,2012,31(1),88-91.   
+[5] 于群．Matlab/Simulink 电力系统建模与仿真[M]. 北京：机械工业出版社，2011.   
+[6] 张利，杨以涵，杨秀媛，等．移动式比相法配电网 接地故障定位研究[J]．中国电机工程学报，2009, 29(7): 91-97. Zhang Li, Yang Yihan, Yang Xiuyuan, et al. Method of mobile phase-comparison for fault location of distribution network[J]. Proceedings of the CSEE, 2009,29(7): 91-97.   
+[7] 郑日红，顾秀芳，王飞，等．一种实用的配电网 短路故障识别新方法[J]．电工技术，2012，8(8)： 27-30. Zheng Rihong, Gu Xiufang, Wang Fei, et al. A new method for identifying fault of short circuit in power distribution network[J]. Electric Engineering,2012, 8(8): 27-30.   
+[8] 刘健，张小庆，张志华，等．配电网两相接地短路 故障定位与供电恢复[J]．电力系统自动化，2013, 37(5): 105-110. Liu Jian, Zhang Xiaoqing, Zhang Zhihua, et al. Location and restoration of two-phase grounded short-circuit in distribution system[J]. Automation of Electric Power Systems,2013,37(5): 105-110.   
+[9] 李天友，陈彬，谢菁，等．小电流接地故障分界新 技术[J]．电网与清洁能源，2014，30(1)：20-26. Li Tianyou, Chen Bin, Xie Jing,et al. New earth fault detection technology for automatic boundary switches in non-solidly earthed network[J]. Power System and Clean Energy,2014,30(1): 20-25.   
+[10]吴浩伟，周樑，孙朝晖，等．电力系统短路故障快 速检测方案研究[J]．电力系统保护与控制，2010, 38(24): 88-92. Wu Haowei, Zhou Liang, Sun Chaohui, et al. Study on fast detecting scheme of power system shortcircuit fault[J]. Power System Protection and Control, 2010,38(24): 88-92.   
+[11]张海申，何正友，张钧．谐振接地系统单相接地 故障频谱特征分析[J]．电力系统自动化，2012, 36(6): 79-84. Zhang Haishen, He Zhengyou, Zhang Jun. Frequency spectrum characteristic analysis of single-phase grounding fault in resonant grounded systems[J]. Automation of Electric Power Systems,2012, 36(6): 79-84.   
+[12]张姝，杨健维，何正友，等．基于线路暂态重心 频率的配电网故障区段定位[J]．中国电机工程学 报，2015，35(10)：2463-2470. Zhang Shu, Yang Jianwei, He Zhengyou, et al. Fault section location of the distribution network based on transient center frequency[J].Proceedings of the CSEE,2015,35(10): 2463-2470.   
+[13]郑日红，顾秀芳，韩如月，等．配电网短路故障 分析及其识别方法研究[J]．工矿自动化，2012, 38(4): 23-29. Zheng Rihong,Gu Xiufang,Han Ruyue,et al. Analysis of short circuit faults of distribution network and research of its identification methods[J]. Industry and Mine Automation, 2012, 38(4): 23-29.

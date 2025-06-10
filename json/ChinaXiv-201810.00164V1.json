@@ -1,0 +1,466 @@
+[
+    {
+        "type": "text",
+        "text": "宁夏中部干旱带生态移民过程生态风险时空分异-以红寺堡区为例",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王亚娟},²，王鹏}，韩文文¹，刘小鹏,²，陈晓，孔福星¹（1宁夏大学资源环境学院,宁夏银川750021；2宁夏(中阿)旱区资源评价与环境调控重点实验室,宁夏银川750021)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：生态移民过程具有规模性、集中性等特点,其对安置区土地利用产生最直接的变化,理论上具有显性或潜在的生态风险。以我国最大的生态扶贫移民集中区一宁夏红寺堡区为例，以1995年、2005年和2015年三期遥感数据为基础，综合运用景观格局指数、生态风险指数、空间分析法构建生态风险指数，利用ArcGIS空间分析功能对研究区生态风险的时空变化特征进行分析。结果表明：1995—2015年间安置区景观格局发生较大的变化，草地面积减少 $2 9 7 4 4 . 0 4 \\mathrm { { h m } } ^ { 2 }$ ，耕地、林地、水域以及建设用地面积分别增加了18979.73、4167.3436.672.1933、4314.2806hm²，沙地和未利用地变化幅度较大，但其研究始末面积变化不大。研究区景观生态风险空间分布变化明显，且呈现出由集中连片式分布转向零散式的多核地域分布的变化格局，其中高度风险区主要分布在柳泉乡的东北角、小罗山西麓地区以及大河乡的中部和西南部，较高风险区在安置区北部地区以及大河乡的中西部地区分布较为广泛，较低和低度风险区则主要分布在罗山周边地区、柳泉乡的东南部、太阳山镇的西南部以及红寺堡镇的南部等地区。研究期间安置区高生态风险区面积大幅度减少，较高风险区和低度生态风险区面积不断增加，因此生态风险总体呈减弱趋势。安置区生态风险值呈现出显著的空间正相关关系，在空间上存在着空间集聚效应，说明安置区生态风险时空分布与人类活动、土地利用强度之间关系密切。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：生态移民过程；生态风险；景观格局指数；时空分异；红寺堡区中图分类号：P901 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "生态移民是指把位于生态脆弱区或重要生态功能区、生态环境严重破坏地区，以及自然环境条件恶劣且已丧失基本生存条件地区的贫困人口向其它地区迁移的过程[1]，具有扶贫和保护生态环境的双重作用[2]。因此其作为一种协调区域自然资源、社会经济发展、生态环境以及人口规模可持续发展的模式、方法被广泛的推广和实施[3]。从“三西农业建设\"到\"八七扶贫攻坚计划”再到21世纪以来国家出台的一系列有关农村扶贫政策和生态移民工程的实施取得了丰富的实践成果。目前，生态移民主要集中在西部高山地区[4]、高寒牧区[5]、草原牧区[6]沙漠化地区[7]等生态脆弱地区，而学术界主要开展了移民生计评估[8]、安置区优化选择[9]、安置模式[10]补偿机制与政策[11]、效益评估[1]等方面的研究分析，对于生态移民安置区生态风险评价研究却鲜有报道。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "生态风险评价是指不同类型的生态系统中的环境污染、人为胁迫或者自然灾害等多种风险因子对于评价终点造成的不利影响的可能性和潜在危害程度[12-13],包括水土流失、污染、植被退化、大气污染等。自国际生态风险评价提出以来,其研究经历了从环境风险到生态风险再到区域生态风险评价的发展历程，风险源由单一风险源扩展到多风险源，风险受体由单一受体发展为多受体，评价范围由局地扩展到区域景观水平[14-15],其研究尺度由国家[16]、省（市)[17]、县（区）[18]等宏观尺度的研究逐步向河流[19]矿区[20]、旅游区[21]等微观领域发展,对区域环境管理与决策起到了重要的理论指导和实践作用。本文以我国最大的生态扶贫移民集中区一宁夏红寺堡区为例，基于景观结构综合评价生态风险，以期为区域生态移民过程中生态安全和环境管理提供理论依据和技术支持。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "红寺堡区位于宁夏中部干旱地区，介于 $1 0 5 ^ { \\circ } 4 3 ^ { \\prime }$ $\\sim 1 0 6 ^ { \\circ } 4 2 ^ { \\prime } \\mathrm { E } , 3 7 ^ { \\circ } 2 8 ^ { \\prime } \\sim 3 7 ^ { \\circ } 3 7 ^ { \\prime } \\mathrm { N }$ 之间，是连接宁夏东西南北的重要地理中心，全区总面积约为2767$ { \\mathrm { k m } } ^ { 2 }$ 。属于典型的温带大陆性气候。年平均气温$8 . 4 ~ \\mathrm { { ^ { \\circ } C } }$ ,平均无霜期155d,年日照时数 $3 0 3 6 . 4 \\mathrm { ~ h ~ }$ ，日照时间长。全区地势南高北低，平均海拔 $1 ~ 2 4 0 \\sim$ $1 \\ : 4 5 0 \\mathrm { ~ m ~ }$ ,境内降水量少而集中且年际变化大，平均降水量 $2 7 7 \\ \\mathrm { m m }$ 左右。同时也是为从根本上解决宁南山区贫困问题、落实国家“八七\"和宁夏“双百\"扶贫攻坚计划而建立实施的水利枢纽工程一宁夏扶贫扬黄灌溉工程的主战场。自1998年以来，共搬迁来自隆德、泾源、西吉、原州、彭阳、海原、同心和中宁等地区的贫困人口 $2 0 . 5 \\times 1 0 ^ { 4 }$ 余人，成为全国最大的异地扶贫生态移民安置区。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 数据来源及处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文以红寺堡区1995年、2005年和2015年三期Landsat/TM遥感影像为基础数据，利用ENVI5.0对图像进行几何校正、图像增强以及图像配准等多项综合处理。由于研究区地处宁夏中部干旱区，沙地面积分布范围较大，且对研究区土地利用状况具有显著影响作用，因此将沙地单独划分为一类。结合研究区土地资源现状和景观特点，按照区分差异性、归纳共同性的划分方法[22],将研究区土地利用类型划分为耕地、林地、草地、水域、建设用地、沙地以及未利用地7种，在ArcGIS软件平台下，采用人工交互解译，后经GPS 野外采样定点实地考察校正，得到1995年、2005年、2015年的土地利用类型图。结合实地调查采样点数据,对分类结果进行精度检验后发现总精确度和Kappa指数等均接近或大于0.82，达到研究所需要求。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 风险小区划分",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了生态风险指数数字空间化，对研究区进行空间网格化采样，按照研究区景观斑块平均面积的2\\~5倍的原则[23]和研究区范围和工作量的大小,利用等间距系统采样法将研究区划分 $3 \\ \\mathrm { k m } \\times 3 \\ \\mathrm { k m }$ 的正方形网格，共划分372个样区。运用生态风险综合指数计算每个风险小区的风险值作为风险小区的风险水平。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3景观生态风险指数建立",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自然和人为因素都会对景观格局演变过程产生影响。景观格局是景观演变的反映，同时又对景观生态过程产生影响，景观格局不同，景观中物质、能量流动和信息交换方式亦不同[24]。本文选取景观格局中最具有代表性的破碎度、分离度和优势度指数，来表征干扰度指数，运用专家打分法，表征脆弱度指数。以此来构建生态风险评价模型，对红寺堡区生态风险的时空分布特征展开研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/386cecb4d66e9b5805b44bed6096e7a8b038768e16e60100f794eb389e0fe290.jpg",
+        "img_caption": [
+            "图1研究区地理位置",
+            "Fig.1Location of the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3ea7758073d954dc2634385f2a639f2f7755fdf0d24784d037bff32b0bbb60ae.jpg",
+        "img_caption": [
+            "图2 生态风险小区的划分",
+            "Fig.2Division of ecological risk community "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.1景观干扰度指数不同景观类型在生物多样性的保护、景观结构完整性的提高和景观功能的提升方面是不同的，同时对于外界干扰的抵抗能力亦不同[25]。景观干扰度是指不同景观的生态系统受到外界干扰(主要为人类活动)程度的反映[26]。外界的干扰程度越小，越有利于动植物的生存，反之亦然。景观干扰度指标对风险受体意义重大，是反映景观格局的重要性指标。本研究选取景观破碎度、景观分离度和景观优势度指数构建景观干扰度指数，公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ { E } _ { i } } = a { { C } _ { i } } + b { { N } _ { i } } + c { { D } _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $E _ { i }$ 为景观干扰度指数； $C _ { i }$ 为景观破度； $N _ { i }$ 为景观分离度； $D _ { i }$ 为景观优势度。 $\\scriptstyle a , b , c$ 分别为破碎度、分离度和优势度的权重且 $^ { a , b }$ 和 $\\boldsymbol { \\mathbf { \\mathit { c } } }$ 之和为1,借鉴相关研究[27-29],并与红寺堡区实际情况相结合,对 $\\boldsymbol { a }$ ，$b$ 和 $\\scriptstyle { \\begin{array} { l } { c } \\end{array} }$ 分别赋值为0.5、0.3和0.2。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.2景观脆弱度指数由于不同的景观类型在维护生物多样性、保护物种、完善景观整体结构和功能、促进景观结构自然演替等方面的作用不同，所以各景观类型对来自外部干扰的抵抗能力的大小也是不同的[30]。而生态系统的脆弱程度与群落演替的阶段、食物链结构的复杂程度和生物多样性的丰度密切相关[31]。在对本研究区景观脆弱度大小评价时,借鉴已有的研究成果和经验[27-28],结合红寺堡区的土地开发利用类型和环境状况，采用专家赋值法，对7种景观脆弱性分级打分，最后进行归一化处理得到各类景观的脆弱度指数 $F _ { i }$ 。本区选取7种景观类型代表不同的生态系统，沙地最为脆弱，城镇用地最为稳定。7种景观类型赋值景观脆弱度指数为：沙地7，未利用地6，林地5，草地4，水域3，耕地2 和城镇用地1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.3景观生态风险的指数模型从景观格局和研究区土地景观相结合的角度出发，考虑到对生态系统的影响，从而引入土地景观生态风险指数概念。从土地利用角度出发，土地利用方式的不同会导致研究区生态风险状况的不同。从景观生态学角度出发，对景观格局指数的构建充分地考虑到不同类型景观生态系统受到人类活动等外界干扰时所产生的不确定性影响[32]。综上所述,本研究采取由于土地景观利用方式的不同而引发的景观格局的改变所产生的生态风险的变化进行分析[33]。利用上述已建立的景观干扰度和景观脆弱度指数，来构建土地景观生态风险评价指数ERI，其公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE R I = \\sum _ { i = 1 } ^ { n } { \\frac { S _ { k i } } { S _ { k } } } { \\sqrt { E _ { i } \\times F _ { i } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $E R I$ 为土地景观生态风险指数； $n$ 为土地景观类型的数目； $S _ { k i }$ 是第 $k$ 个风险小区 $i$ 类景观组分的面积； $S _ { k }$ 为第 $k$ 个风险小区的面积。 $E _ { i }$ 为 $\\mathbf { \\chi } _ { i }$ 类景观类型的干扰度指数； $F _ { i }$ 为 $\\mathbf { \\chi } _ { i }$ 类景观类型的脆弱度指数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4 空间自相关分析法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "地理事物或现象通常具有空间相关性。空间自相关理论用来解释地理或生态现象之间的空间相关性和相关程度，是检测空间上某一点变量与它邻近的空间某点变量之间是否存在相关性的方法[34-35] 。度量空间自相关性的指标分为全局空间自相关指标和局部空间自相关指标[36]。全局空间自相关用来描述某种现象的整体分布情况，不能反映邻近区域间地理事物某要素之间的相关性，局部空间自相关用来计算局部空间内的空间变异及指定单元与邻接单元之间的空间联系方式,对全局自相关有一定的补充说明作用[37]。本文选择全局自相关Moran's $I$ 指数和局部空间自相关指标LISA来反映生态风险指数的空间分布状况。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "全局空间自相关Moran's $I$ 指数可表述为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI = { \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } (  x _ { i } - { \\bar { x } } ) \\sum _ { j \\neq 1 } ^ { n } w _ { i j } (  x _ { j } - { \\bar { x } } )  } { \\displaystyle S ^ { 2 } \\sum _ { i = 1 } ^ { n } \\sum _ { j \\neq 1 } ^ { n } w _ { i j } } } \\quad S ^ { 2 } = { \\frac { 1 } { n } } \\sum _ { i } ^ { n } ( { x - { \\bar { x } } } ) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $x _ { i }$ 和 $x _ { j }$ 是变量 $x$ 在邻近单元上的取值； $x$ 为 $n$ 个位置变量的属性值； $w$ 是空间权重。在假设的显著性水平下，当 $I$ 显著性地大于0时，表明在在全局分析层面，生态风险具有显著地集聚水平，该值越大，生态风险集聚化程度越高；当 $I$ 显著性地小于0时，表明邻近区域的生态风险存在明显的差异，该值越小,表明邻近区域的差异越大。当 $I$ 值趋近于0时，表明区域之间的生态风险无相关性，呈随机分布状态。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "局部空间自相关 $L I S A$ 的计算公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL I S A = { \\frac { \\left( x _ { i } - { \\bar { x } } \\right) } { \\sum _ { i } { \\left( x _ { j } - { \\bar { x } } \\right) ^ { 2 } } / \\ n } } \\ \\sum _ { j } \\ w _ { i j } { \\left( x _ { j } - { \\bar { x } } \\right) } \\ \\quad { \\mathrm { ( } i \\not \\ = j \\ { \\mathrm { ) } } } \\ \n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $x _ { i } \\ 、 x _ { j } 、 x$ 和 $\\boldsymbol { W } _ { i j }$ 的含义同上， $L I S A > 0$ 表明该局部空间单元内存在相似值(高一高值或低一低值)的空间集聚， $L I S A < 0$ 则该局部空间内存在非相似值(高一低值或低一高值)的空间集聚。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1安置区土地利用变化分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表1可以看出，研究期间耕地、草地是红寺堡生态移民安置区的主要景观类型，两种景观总面积占所有景观总面积的 $8 5 \\%$ 以上。1995—2005年,耕地、林地、沙地和未利用地的面积增加。其中沙地面积增幅最为显著，占所增加面积的 $5 1 . 6 3 \\%$ ；未利用地次之 $( 2 4 . 6 6 \\%$ );林地和耕地面积增幅相对较小，分别占所增加面积的 $6 . 1 2 \\%$ 和 $1 7 . 5 9 \\%$ ，而草地的面积减少量最大( $2 6 4 3 2 . 0 5 \\mathrm { h m } ^ { 2 }$ ）。2005—2015年，耕地面积增加量最大 $( 1 4 ~ 3 3 4 . 0 4 ~ \\mathrm { h m } ^ { 2 }$ ），建设用地面积增加量次之( $4 ~ 4 6 8 . 8 5 ~ \\mathrm { h m } ^ { 2 } .$ ），林地和水域面积分别由 $4 ~ 4 3 3 . 6 7 8 \\mathrm { ~ 1 ~ h m } ^ { 2 }$ 和 $1 ~ 8 0 7 . 2 3 9 ~ 7 ~ \\mathrm { h m } ^ { 2 }$ 增加到了",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$6 ~ 9 8 5 . 6 5 ~ \\mathrm { h m } ^ { 2 }$ 和 $2 ~ 5 5 9 . 4 0 ~ \\mathrm { h m } ^ { 2 }$ 。但从土地利用动态度来看，建设用地的动态度最大， $( 4 7 . 6 5 \\%$ ）,林地和水域次之（分别为 $5 . 7 6 \\%$ 和 $4 . 1 6 \\%$ ）。在研究期间，耕地、林地、建设用地和水域面积呈现出增加的趋势变化，草地面积下降明显，而沙地和未利用地虽然波动变化，但研究始末总面积变化不大。说明1995—2015年间红寺堡安置区城乡建设和社会经济快速发展，社会基础设施建设不断完善，人类活动对景观格局的影响越来越强烈。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2安置区生态风险时空变化分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用ArcGIS空间分析功能对红寺堡生态移民安置区生态风险进行空间插值，得到其生态风险空间分布如图3所示。通过分析可知，安置区生态风险值介于0.00655到0.03113之间，采用自然断点法划分为低度风险区 $\\left( 0 . 0 0 6 5 5 < E R I < 0 . 0 1 2 1 6 \\right)$ 、较低风险！ $\\left( 0 . \\ 0 1 2 \\ 1 6 < E R I < 0 . \\ 0 1 4 \\ 3 4 \\right)$ 、中等风险（ $0 . 0 1 4 \\ 3 4 < E R I < 0 . \\ 0 1 6 \\ 2 7 ;$ ）、较高风险（0.01627$< E R I < 0 . \\ 0 1 8 \\ 4 6 \\ \\$ ）、高度风险 $( 0 . \\ 0 1 8 \\ 4 6 < E R I <$ 0.03113）。由图3可知，研究期间安置区生态风险空间分布呈现出由集中连片式分布转向零散式的多核地域分布，其中高度风险区主要分布在柳泉乡的东北角、小罗山西麓地区以及大河乡的中部和西南部，这是因为上述区域内土地利用类型主要以沙地和未利用为主，且沙化现象较为严重，而景观脆弱度、损失度指数较大，因此整体风险水平较高。较高风险区在安置区北部地区以及大河乡的中西部地区分布较为广泛，红寺堡北部地区开发时间早，慈善工业园区以及小型乡镇企业大多分布在北部地区，社会经济发展水平高，城镇建设、社会基础设施以及交通设施较为完善，人类活动强度较大;而大河乡的中西部地区由于安置区建设、人类活动频繁，使得景观格局破碎度增加，导致景观损失度指数上升，从而加大了生态风险程度。较低和低度风险区则主要分布在罗山周边地区、柳泉乡的东南部、太阳山镇的西南部以及红寺堡镇的南部等地区，其主要原因是林地以及水域面积分布广布，随着罗山自然保护区的建立，生态用地面积增加，生态环境质量不断改善，人类活动强度降低，土地利用结构趋于合理化，因此区域生态风险水平较低；中等风险区则主要分布在较高风险区和较低风险区之间，呈相间分布格局。土地利用变化与人类活动强度影响着区域生态风险水平的高低，而生态移民这种特殊的人口迁移方式直接改变了安置区土地利用格局。安置区林地、高覆盖度草地和水域面积的增加以及沙地和未利用地面积的减少和面积的波动变化对安置区生态风险空间分布具有显著的影响作用。除此之外，生态移民过程中建设用地面积的扩张和交通用地对景观的分割以及人类活动对景观的破坏，使得安置区景观破碎度增加，景观分布格局不断改变，从而影响安置区生态风险的空间分布。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ad2d1998088f83a5e52e42e708ee5c4fc8d8c52f580505daf9625801055f0ca1.jpg",
+        "table_caption": [
+            "表1红寺堡生态移民安置区土地利用类型面积及其动态度",
+            "Tab.1Land use type area and its dynamic degree in Hongsibu ecological resettlement area "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"7\"></td><td>年份</td><td>耕地</td><td>林地</td><td>草地</td><td>水域</td><td>建设用地</td><td>沙地</td><td>未利用地</td></tr><tr><td>1995</td><td>70 207.81</td><td>2 818.31</td><td>188 258.17</td><td>1 887.21</td><td>1093.58</td><td>7 286.36</td><td>4 043.12</td></tr><tr><td>2005</td><td>74 853.49</td><td>4 433.68</td><td>161 826.12</td><td>1 807.24</td><td>938.01</td><td>20 923.96</td><td>10 555.78</td></tr><tr><td>2015</td><td>89 187.54</td><td>6 985.65</td><td>158 514.14</td><td>2 559.40</td><td>5 407.86</td><td>7 371.07</td><td>4 209.46</td></tr><tr><td>1995—2005</td><td>4 645.68</td><td>1 615.37</td><td>- 26 432.05</td><td>-79.97</td><td>- 155.57</td><td>13 637.60</td><td>6 512.66</td></tr><tr><td>2005—2015</td><td>14 334.05</td><td>2 551.97</td><td>-3 311.98</td><td>752.16</td><td>4 469.85</td><td>-13 552.89</td><td>-6 346.32</td></tr><tr><td>1995—2015</td><td>18 979.73</td><td>4 167.34</td><td>- 29 744. 03</td><td>672.19</td><td>4 314.28</td><td>84.71</td><td>166.34</td></tr><tr><td rowspan=\"4\">动态度／%</td><td>1995—2005</td><td>0.66</td><td>5.73</td><td>-1.40</td><td>-0.42</td><td>-1.42</td><td>18.72</td><td>16.11</td></tr><tr><td>2005—2015</td><td>1.91</td><td>5.76</td><td>-0.20</td><td>4.16</td><td>47.65</td><td>-6.48</td><td>-6.01</td></tr><tr><td>1995—2015</td><td>1.35</td><td>7.39</td><td>-0.79</td><td>1.78</td><td>19.73</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>0.06</td><td>0.21</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图3和表2可知，在1995—2005年间安置区生态风险呈不断下降的趋势，安置区生态环境得到一定提升和改善，但生态风险程度仍较高。主要表现为高度生态风险区面积大幅度下降，由1995年的$3 0 . 8 0 \\%$ 下降至2005年的 $2 . 5 6 \\%$ ,中等风险区面积虽有所增加，但幅度并不大;而低度风险区和较低风险区面积比重之和从1995年的 $2 3 . 8 9 \\%$ 增加到2005年的 $2 9 . 7 6 \\%$ ;但是较高风险区面积增加量达$4 4 ~ 6 8 7 . 7 9 ~ \\mathrm { h m } ^ { 2 }$ ,其面积比重增加 $1 6 . 2 0 \\%$ 。2005—2015年间，各级生态风险区面积变化幅度不大，低度风险区面积比重增加 $5 . 0 4 \\%$ ;较低风险区面积比重下降 $3 . 6 6 \\%$ ；中等风险区、较高风险区面积分别下降 $3 . 3 7 \\%$ 和 $1 . 6 7 \\%$ ;而高度风险区面积比重增加$3 . 6 5 \\%$ 。由此可见，研究期间红寺堡生态移民安置区的景观生态风险总体呈现逐渐减弱的趋势，但从不同级别的风险区面积变化来看，较高风险区面积比重仍居高不下，中等、较低、低度风险区面积比重不高，因此，安置区生态风险程度仍较高。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3安置区生态风险空间自相关分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用Geoda空间自相关软件，根据1995年、2005年和2015年三期景观生态风险空间分布数据计算出安置区生态风险空间自相关结果如图4、图5所示。1995年、2005年和2015年的Moran's $I$ 指数分别为 $0 . 4 8 2 6 . 0 . 4 7 2 0$ 和0.51026，并且均通过正态分布显著性检验。虽然Moran's $I$ 指数大小有波动，但指数 $> 0$ 表明红寺堡区景观生态风险值在空间上存在着空间集聚现象。景观生态风险Moran's$I$ 指数的波动代表了安置区空间趋同性的变化状况。从1995—2015年不同时期红寺堡安置区开发与发展的重点不同，前期主要针对移民的迁入，耕地的开垦活动为主，景观破坏性程度较大，后期红寺堡安置区移民工程大体完工，开始重点改造生态环境、调整产业结构、以及科教文卫等领域的建设。城镇化建设的完善，土地和水体面积的增加，使得区域生态风险趋同性明显增加,Moran'sI值增加。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由LISA指数分析可以看出，红寺堡生态移民安置区生态风险集聚空间分布格局变化较大。高一高集聚和低一低集聚现象较为显著，但空间转移现象较为突出，而低一高集聚和高一低集聚分布相对较少。1995—2005年间，高一高集聚的高度风险区主要分布在红寺堡镇、柳泉乡中部地区、太阳山镇西北部以及大河乡的西南角等地区。低一低集聚的低度风险区在林地、高覆盖度的草地等景观类型区，主要分布在罗山附近的新庄集乡、柳泉乡的东南部以及太阳山镇的西南角等区域。2005—2015年间，高—高集聚的高度风险区和低一低集聚的低度风险区在空间分布上发生较大变化，高一高集聚的高度风险区主要分布在红寺堡镇的西北部、大河乡中部和太阳山镇中部以及新庄集乡与罗山交界处。低一低集",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/d52609dbca72a005d3728d0fb2e8ab9c41a09c61299eb665603f3bc98ee09cf6.jpg",
+        "table_caption": [
+            "表2红寺堡生态移民安置区生态风险等级面积",
+            "Tab.2Hongsibu ecological resettlement area ecological risk level area "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">生态风险等级</td><td>低度风险区</td><td>较低风险区</td><td>中等风险区</td><td>较高风险区</td><td>高度风险区</td></tr><tr><td rowspan=\"2\">1995年</td><td>面积／hm²</td><td>24 642. 11</td><td>41 216.89</td><td>56 024.79</td><td>68 921.18</td><td>84 923.77</td></tr><tr><td>百分比／%</td><td>8.94</td><td>14.95</td><td>20.32</td><td>25.00</td><td>30.80</td></tr><tr><td rowspan=\"2\">2005年</td><td>面积／hm²</td><td>19 863.33</td><td>62 212.04</td><td>72 976.85</td><td>113 608.97</td><td>7 067.55</td></tr><tr><td>百分比／%</td><td>7.20</td><td>22.56</td><td>26.47</td><td>41.20</td><td>2.56</td></tr><tr><td rowspan=\"2\">2015年</td><td>面积／hm²</td><td>33 740.63</td><td>52 107.46</td><td>63 702.26</td><td>109 069.14</td><td>17 109.25</td></tr><tr><td>百分比／%</td><td>12.24</td><td>18.90</td><td>23.10</td><td>39.56</td><td>6.21</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8d0ac14261f70759c2d1003d3911a1b9e09eb939aa52446bb03f0b1f3170047a.jpg",
+        "img_caption": [
+            "图3红寺堡生态移民安置区景观生态风险时空分布图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Temporal andspatial distribution of landscape ecological risk in Hongsibu ecological resettlementare ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/aa2f6a175b1ebeed3d6d87e6e667e8ed477e6818edc85a8809844957f69fdb7d.jpg",
+        "img_caption": [
+            "图4红寺堡生态移民安置区景观生态风险指数Moran'sI散点图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Landscape ecological risk index Moran's $I$ scatter plot in Hongsibu ecological resettlement area聚的低度风险区的分布则呈现出长条状的集聚状态，主要由柳泉乡中部经红寺堡镇东南部到新庄集中部的带状分布。从面积变化状况来看，高风险区在安置区北部地区有所减弱，但南部略有增加，只是实现空间转移，面积变化不大。低度风险区域有增加的趋势。而高一低和低一高集聚分布零散，且规模较小，说明局部风险集聚变化区域较小。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f2bd9c98d3aa110a2e446017e5582b71512af8e66274a1c8ee8677988a6ffd8d.jpg",
+        "img_caption": [
+            "图5红寺堡生态移民安置区生态风险值LISA指数空间分布特征",
+            "Fig.5SpatialdistributioncharacteristicsofLISAindexof ecologicalriskvalueineologicalresetlementareaof Hongsil "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文以研究区三期遥感影像为数据源，在Arc-",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "GIS和Geoda等相关软件的支持下，对红寺堡生态移民安置区生态风险进行分析评价，经研究分析得出以下结论：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）红寺堡生态移民安置区的主要景观类型为草地和耕地，研究期间其景观格局发生了显著的变化,其中草地面积减少 $2 9 ~ 7 4 4 . 0 4 ~ \\mathrm { h m } ^ { 2 }$ ,耕地、林地、水域以及建设用地面积分别增加了 $1 8 ~ 9 7 9 . 7 3 ~ \\mathrm { h m } ^ { 2 }$ 、$4 ~ 1 6 7 . 3 4 3 ~ 6 ~ \\mathrm { { h m } ^ { 2 } . 6 7 2 . ~ 1 9 3 ~ 3 \\mathrm { { h m } ^ { 2 } . 4 ~ 3 1 4 . 2 8 0 ~ 6 ~ \\mathrm { { h m } ^ { 2 } } } }$ ，沙地和未利用地在研究期间呈现出先增加后减少的倒\"V”型变化趋势，面积变化幅度较大，但其研究始末面积变化不大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）1995—2015年间红寺堡生态移民安置区土地利用类型发生较大变化，其生态风险时空分布格局也发生较大的变化。安置区各级生态风险区之间不断进行着转换，高生态风险区面积变化明显，其比重下降了 $2 4 . 5 9 \\%$ ,较高风险区面积比重增加了$1 4 . 5 6 \\%$ ，但总体来看，其生态风险程度有所下降。对于安置区生态风险空间分布来看，高风险区和较高风险区主要分布在红寺堡人口集中、人类活动密集且草地覆盖度较低的北部地区以及西部地区，包括：红寺堡镇北部、柳泉乡北部、太阳山镇北部以及大河乡镇西部。低风险区主要集中分布在包括新庄集乡中北部地区、红寺堡镇南部、柳泉乡南部以及太阳山镇中部在内的罗山西部和北部地区。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）通过空间自相关分析可知，红寺堡生态移民安置区生态风险值呈现出显著的空间正相关关系，在空间上存在着空间集聚效应。从LISA聚集图可看出红寺堡安置区主要以高一高聚集(H-H)和低—低聚集(L-L)为主，高—低集聚(H-L)和低一高集聚(L-H)呈零散分布状态。说明安置区生态风险的时空分布与土地利用结构及其变化、人类活动强度具有密切的关系。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "干旱区生态移民将对迁入区（安置区）生态系统产生强烈的扰动，存在显性或隐性生态风险。本文研究是通过利用景观格局指数构建研究区生态风险指数，基本上能够客观的反映研究区的生态风险及其变化状况。但随着人类社会经济活动的不断扩展，对景观格局的影响逐渐加深，使得不同土地利用类型之间的转变和彼此之间的界限越来越模糊和复杂，而且安置区自然条件的变异、社会经济的发展、移民习俗以及生产生活方式等都会对生态风险产生影响。因此仅从景观角度评价安置区生态风险，没有将与安置区生态风险相关的社会感知、文化融合以及其他不可预知因素相结合进行评价具体一定的局限性。而结合自然、社会、经济以及生产生活方式等多方面的影响因素共同对安置区的生态风险进行评价研究对安置区生态风险管控具有重要意义，也是本文需要进一步深入研究的部分。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1］贾耀锋.中国生态移民效益评估研究综述［J].资源科学，",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2016,38(8）:1550-1560.[JIA Yaofeng.Review of benefit evalu",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ation research on ecological migration in China[J].Resources Science,2016,38（8):1550-1560.]   \n[2]刘小鹏,李永红,王亚娟,等.县域空间贫困的地理识别研 究——以宁夏泾源县为例[J].地理学报,2017,72（3）：545- 557.［LIU Xiaopeng,LI Yonghong,WANG Yajuan,et al. Geographical identification of spatial poverty at county scale:A case study of Jingyuan County in Ningxia[J].Acta Geographica Sinica,2017,72（3) :545-557.]   \n[3]LI Y J,LOPEZCARR D,CHEN W J. Factors affecting migration intentions in ecological restoration areas and their implications for the sustainability of ecological migration policy in arid northwest China[J].Sustainability,2014,6(12）:8639-8660.   \n[4］黎莉莉,秦富.高山贫困地区生态移民决策行为及影响因素分 析——基于重庆市的调查数据[J].贵州社会科学,2015,（1)： 163-168.[LI Lili,QIN Fu. Ecological migration decision behavior and influencing factors in high mountain poverty-based on the survey data from Chongqing municipality[J]. Guizhou Social Sciences,2015,（1) :163-168.]   \n[5］赵雪雁.高寒牧区生态移民、牧民定居的调查与思考——以甘 南牧区为例[J].中国草地学报,2007,29(2）;94-101.[ZHAO Xueyan.Surveying and thinking on the ecological immigrant and the herdsmen settlement in the high cold pasturing area:A case of Gannan pasturing area[J].Acta Agriculturaeologica Sinica,2007, 29(2) :94 -101.]   \n[6］朱儒顺,史俊宏.草原牧区生态移民可持续发展问题研究一 以内蒙古乌拉特中旗为例[J].干旱区资源与环境,2007,21 (3）:28-31.[ZHU Rushun,SHI Junhong.Studies on the sustainable development of ecological emigration in prairie areas: A case study in Wulatezhong Banner of Inner Mongolia region[J]. Journal of Arid Land Resources and Environment,2007,21(3):28-31.]   \n［7］张力小,刘杰.北方沙漠化地区生态移民中的关键问题[J].生 态学杂志,2009,28（7）:1394-1398.[ZHANG Lixiao,LIU Jie. Key problems of ecological migration in desertificationareas in northern China[J]. Chinese Journal of Ecology,2009,28（7）： 1394 -1398.]   \n[8］张军以,王腊春,苏维词.环境移民可持续生计研究进展[J]. 生态环境学报,2015,24（6）:1085－1092.［ZHANG Junyi, WANG Lachun,SU Weici. Advances in research on sustainable livelihoods of environmental immigrants[J].Chinese Journal of Eco-Environmental Science,2015,24(6）:1085-1092.]   \n[9］贾永飞.模糊物元评价方法在水库移民安置区优选中的应用 [J].中国人口·资源与环境,2010,20（1）:129-133.［JIA Yongfei.Application of fuzzy matter-element evaluation method in optimization of reservoir resettlement area ［J]. China Population, Resources and Environment,2010,20（1）:129-133.]   \n[10］王永平,吴晓秋,黄海燕,等.土地资源稀缺地区生态移民安置 模式探讨—以贵州省为例[J].生态经济,2014,30(1)：66- $6 9 + 8 2$ .[WANG Yongping,WU Xiaoqiu,HUANG Haiyan,et al. Discussion on the mode of ecological resettlement in scarcity of land resources[J].Eco-Economy,2014,30（1） $6 6 - 6 9 \\ + \\ 8 2 . \\ ]$   \n[11］刘红.三江源生态移民补偿机制与政策研究[J].中南民族大 学学报（人文社会科学版）,2013,33（6)：101－105.［LIU Hong.Sanjiangyuan ecological migration compensation mechanism and policy research[J].Journal of the National University of South China（Humanities and Social Sciences）,2013,33（6）:101- 105.]   \n[12］韩晓佳,刘小鹏,王亚娟,等.基于景观格局的干旱区绿洲生态 风险评价与管理——以青铜峡市为例［J].水土保持研究, 2017,24（5）:285- 290.[HAN Xiaojia,LIU Xiaopeng,WANG Yajuan,et al. Ecological risk assessment and management of arid oasis based on landscape pattrn:A case study of Qingtongxia City [J].Journal of Soil and Water Conservation,2017,24（5）:285- 290.]   \n[13］阳文锐,王如松，黄锦楼,等.生态风险评价及研究进展[J].应 用生态学报,2007,18(8）:1869-1876.[YANGWenrui,WANG Rusong,HUANG Jinlou,et al.Ecological risk assessment and research progress[J].Chinese Journal of Applied Ecology,2O07,18 (8):1869 -1876.]   \n[14］张思锋,刘晗梦.生态风险评价方法述评[J].生态学报,2010, 30（10）:2735-2744.[ZHANG Sifeng,LIU Hanmeng.A review of ecological risk assessment methods[J].Acta Ecologica Sinica, 2010,30(10) :2735-2744.]   \n[15］彭建,党威雄,刘焱序,等.景观生态风险评价研究进展与展望 [J].地理学报,2015,70（4）:664-677.[PENGJian,DANG Weixiong,LIU Yanxu,et al. Landscape ecological risk assessment research progressand prospect[J].Acta GeographicaSinica, 2015,70(4) :664 -677.]   \n[16］马禄义,许学工,徐丽芬.中国综合生态风险评价的不确定性 分析[J].北京大学学报（自然科学版）,2011,47（5）:893- 900.[MA Luyi,XU Xuegong,XU Lifeng. Uncertainty analysis of China's comprehensive ecological risk[J].Journal of Peking University（Natural Science Edition）,2011,47(5）:893-900.]   \n[17］卢亚灵,颜磊,许学工,等.环渤海地区生态脆弱性评价及其空 间自相关分析[J].资源科学,2010,32(2）:303-308.[LU Yaling,YAN Lei,XU Xuegong,et al.Ecological risk assessment of five provinces and cities in the Bohai Sea[J].Journal of Ecology, 2010,32(2):303-308.]   \n[18］吴金华,张伟,刘小玲.基于RRM 模型的神木县土地整治规划 生态风险评价[J].中国土地科学,2014,28（3）:76－82.［WU Jinhua,ZHANG Wei,LIU Xiaoling.Ecological risk assessment of Shenmu County land remediation planning based on RRM model [J].China Land Science,2014,28（3）:76 -82.]   \n[19］张月,张飞,周梅,等.干旱区内陆艾比湖区域景观生态风险评 价及时空分异[J].应用生态学报,2016,27（1）：233－242. [ ZHANG Yue,ZHANG Fei,ZHOU Mei,et al. Ecological risk assessment and prediction of Ebinur Lake region based on land use/ land cover change[J].China Environmental Science,2016,27 (1) :233 -242.]   \n[20］肖武,李素萃,王铮,等.高潜水位煤矿区生态风险识别与评价 [J].生态学报,2016,36(17）:5611- 5619.[XIA0 Wu,LI Sucui,WANG Zheng,et al.Ecological risk identification and assessment for a coal mine with a high groundwater table[J].Acta Ecologica Sinica,2016,36(17） :5611-5619.]   \n[21］巩杰,谢余初,高彦净,等.1963—2009 年金塔绿洲变化对绿洲 景观格局的影响[J].生态学报,2015,35（3）：603－612. [GONG Jie,XIE Yuchu,GAO Yanjing,et al.Efectsoftechange of the Golden Tower Oasis on the landscape pattern of oasis in 1963—2009[J].Acta Ecologica Sinica,2015,35（3）:603- 612.]   \n[22］田颖,李冰,王水.江苏沿海地区景观格局的生态风险研究 [J].水土保持研究,2015,22（1）:241－245+251.［TIAN Ying,LI Bing,WANG Shui. Study on ecological risk of landscape ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "pattern in Jiangsu coastal area[J].Study on Soil and Water Con",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "servation,2015,22（1） $2 4 1 - 2 4 5 + 2 5 1 .$ ]   \n[23］张雅洲,谢小平.基于RS 和GIS 的南四湖生态风险评价［J]. 生态学报,2015,35(5）:1371-1377.[ZHANG Yazhou,XIE Xiaoping. Regional ecological risk assessment in Nansi Lake based on RS and GIS.Acta Ecologica Sinica,2015,35(5):1371-1377.]   \n[24］王文杰,张永福,王慧杰.基于GIS 干旱区绿洲县域土地利用 变化生态风险分析—以新疆泽普县为例[J].水土保持研 究,2016,23(6): $2 1 6 - 2 2 0 + 2$ .[ WANG Wenjie,ZHAGN Yongfu,WANG Huijie.Ecological risk Analysis of land use change in oasis area of arid region based on GIS:A case study of Zepu County in Xinjiang[J].Research of Soil and Water Conservation,2016,23 (6) $2 1 6 - 2 2 0 + 2 .$ ，   \n[25］甄江红,银山,刘果厚,等.草原文化遗址区景观格局变化及其 生态风险评估—以元上都为例[J].干旱区资源与环境, 2014,28（12）:159 -165.[ZHEN Jianghong,YIN Shan,LIU Guohou,et al. Landscape pattern change and ecological risk assessment on the grassland culture relics area: A case of Yuanshangdu[J]. Journal of Arid Land Resources and Environment,2014,28（12）： 159 - 165. ]   \n[26］唐利华,张永福,刘小辉.干旱区河谷城市土地利用生态风险 动态预测—以新疆伊宁市为例[J].水土保持研究,2016,23 （3）:240-245.[TANG Lihua,ZHAGN Yongfu,LIU Xiaohui.Dynamic prediction of urban land use ecological risk in arid zone valley:Taking Yining City in Xinjiang as an example[J].Research of Soil and Water Conservation,2016,23(3):240-245.]   \n[27］巩杰,赵彩霞,谢余初,等.基于景观格局的甘肃白龙江流域生 态风险评价与管理[J].应用生态学报,2014,25（7)：2041- 2048.[GONG Jie,ZHAO Caixia,XIE Yuchu,et al. Landscape ecological risk assessment and its spatiotemporal variation of the Bailongjiang Watershed,Gansu[J]. China Environmental Science, 2014,25(7) :2041-2048.]   \n[28］巩杰,谢余初,赵彩霞,等.甘肃白龙江流域景观生态风险评价 及其时空分异[J].中国环境科学,2014,34（8）:2153－2160. [GONG Jie,XIE Yuchu,ZHAO Caixia,et al.Ecological risk assessment and management of Bailong River Basin in Gansu Province based on landscape patterns[J]. Chinese Journal of Applied Ecology,2014,34（8）:2153-2160.]   \n[29］魏伟,石培基,雷莉,等.基于景观结构和空间统计方法的绿洲 区生态风险分析——以石羊河武威、民勤绿洲为例[J]．自然 资源学报,2014,29（12）:2023-2035.[WEI Wei,SHI Peiji, LEI Li,et al.Ecological risk analysis of oasis area based on landscape structure and spatial statistical method:Taking Shiyang River Wuwei and Minqin Oasis as an example[J]. Journal of Natural Resources,2014,29(12):2023 -2035.]   \n[30］谢余初,巩杰,张玲玲.基于 PSR 模型的白龙江流域景观生态 安全时空变化[J].地理科学,2015,35（6)：790-797.[XIE Yuchu,GONG Jie,ZHANG Lingling. Dynamics of landscape ecological security based on PSR model in the Bailongjiang River Watershed[J].Scientia Geography Sinica,2015,35(6）:790-797.]   \n[31］王若凡,南忠仁.基于景观生态学的黑河流域生态风险评价 [J].安全与环境学报,2013,13(6）：133－137.[WANG Ruofan,NAN Zhongren. Applied research on the risk assessment of the Heihe River Basin based on the theory of landscape ecology[J]. Journal of Safety and Environment,2013,13(6):133-137.]   \n[32］潘竟虎,刘晓.基于空间主成分和最小累积阻力模型的内陆河 景观生态安全评价与格局优化——以张掖市甘州区为例[J]. 应用生态学报,2015,26（10）:3126-3136.［PAN Jinghu,LIU ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Xiao.Assessment of landscape ecological security and optimization of landscape pattern based on spatial principal component analysis and resistance model in arid inland area:A case study of Ganzhou district,Zhangye City,northwest China[J].Chinese Journal of Applied Ecology,2015,26（10）:3126-3136.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[33］顾泽贤，赵筱青，高翔宇，等.澜沧县景观格局变化及其生态系统服务价值评价[J].生态科学，2016，35（5）：143-153.［GUZexian,ZHAO Youqing,GAO Xiangyu,et al. Change of landscapepattern and its evaluation of ecosystem services values in LancangCounty[J].Ecological Science,2016,35（5）:143-153]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[34］吴莉，侯西勇，邸向红.山东省沿海区域景观生态风险评价 [J].生态学杂志,2014,33（1）：214-220.［WULi，HOU Xiyong,DI Xianghong.Assessment of regional ecological risk in coastal zone of Shandong Province[J].Chinese Journal of Ecology, 2014,33(1) :214-220.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[35］韩文文.生态移民安置区土地景观变化及其生态风险评价 [D].银川:宁夏大学,2017.［HANWenwen.Land landscape changes and ecological risk assessment in ecological immigrant settlements[D].Yinchuan:Ningxia University,2017.]   \n[36］潘竟虎，刘晓.疏勒河流域景观生态风险评价与生态安全格局 优化构建[J].生态学杂志,2016,35(3）:791-799.［PAN Jinghu,LIU Xiao.Landscape ecological risk assessment and landscape security pattern optimization in Shule River Basin［J].Chinese Journal of Ecology,2016,35(3）:791-799.]   \n[37］杜悦悦，彭建，赵士权，等.西南山地滑坡灾害生态风险评 价一—以大理白族自治州为例[J].地理学报，2016,71（9）： 1544-1561.[DU Yueyue,PENG Jian,ZHAO Shiquan,et al.Ecological risk assessment of landslide disasters in mountainous areas of southwest China:A case study in Dali Bai Autonomous Prefecture[J].Acta Geographica Sinica,2016,71(9):1544-1561.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Spatial and temporal variation of ecological risk in the process of ecological immigration in the arid zone of central Ningxia:A case of Hongsibu District ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "‘ANG Ya-juan1²，WANG Peng¹，HAN Wen-wen1，LIU Xiao-peng1,²，CHEN Xiao¹， KONG Fu-xing' (1School of Resources and Environment,Ningxia University,Yinchuan 75O021,Ningxia,China; 2Key Laboratory（China-Arab）of Resource Evaluation and Environmental Regulation of Arid Region in Ningxia, Yinchuan 750021,Ningxia,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The ecological immigration process is characterized by the scaleand concentration,and it produces the most direct changes to the land use in theresetlement areas,theoretically having explicit or potential ecological risks.Taking the Hongsibu District atcentral Ningxia Province,the largest ecological poverty allviation and immigration area in China,as an example,the temporal and spatial characteristics of ecological risk inthe study area was analyzed basedon the remotely sensed data from1995,2O05,and 2015,using the landscape patern index,ecological risk index,and spatial analysis method toconstructan ecological risk index.Theresults showed that the landscape pattern of the resetlement area was changed greatly from 1995 to 2015,the area of grassland was decreased by $2 9 \\ 7 4 4 . 0 4 \\ \\mathrm { h m } ^ { 2 }$ ,and the area of cultivated land,forest land,water area and construction land were increased by $1 8 9 7 9 . 7 3 \\ \\mathrm { h m } ^ { 2 }$ $4 ~ 1 6 7 . 3 4 3 ~ 6 ~ \\mathrm { h m } ^ { 2 }$ $6 7 2 . 1 9 3 \\ 3 \\ \\mathrm { h m } ^ { 2 }$ and $4 \\ 3 1 4 . 4 8 0 \\ 6 \\ \\mathrm { h m } ^ { 2 }$ respectively.Although the change range of sandy land and unutilized land during the research period is quite large,the area of the study area has litle change; the spatial distribution of landscape ecological risk in the study area has been changedobviously,and it shows a shift from concentrated contiguous distribution to scatered multi-uclear geographical distribution.The high-risk areas are mainly distributed in the northeast corner of Liuquan Township,the western footof Xiaoluoshan and the centraland southwestern areas of Dahe Township.The higher-risk areas are distributed in the northern areas of the resettlement area and thecentral and western regions of Dahexiang.Whilethelowand lowerrisk areas are mainly distributed in the surounding areas of Luoshan,southeast of Liuquan Township,southwest of Sun Town and Hongsibu town in southern areas.During the study period,the conversion rate of different types of risk areas in Hongsibu Ecological Resetlement Area wasrapid,among which,theareaof high ecological risk areas was decreased significantly whilethe area of high-risk areas,low-risk areasand low-level ecological risk areas keptbeing increased.Therefore, overall,therisk is weaker.Theecological risk valueoftheresetlementarea showsobvious spatial positivecorrelation,and thereisasignificant spatial agglomeration effectinspace,indicating thatthespatial-temporal distribution of ecological risk in the resetlement area is closely related to human activities and land use intensity. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words：ecological migration process；ecological risk；landscape pattrn index；spatial-temporal diferentiation；Hongsibu District ",
+        "page_idx": 8
+    }
+]

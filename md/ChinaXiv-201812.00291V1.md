@@ -1,0 +1,161 @@
+# 长链非编码RNA对脂肪沉积的调节作用及其机制
+
+徐小蛟　陈小玲 陈代文 余冰 何 军 黄志清\*1
+
+(四川农业大学动物营养研究所，动物抗病营养教育部重点实验室，成都 611130)摘要：长链非编码RNA（lncRNA）是一类长度大于 200 bp 的非编码蛋白质RNA，具有很弱或没有编码蛋白质的功能，能通过基因印记、表观遗传等，在转录或转录后对基因表达进行调控。随着全球肥胖问题的加剧，调控脂肪代谢的因素成为研究者的焦点。近年来，随着 IncRNA功能的不断发现，大量研究报道 lncRNA对脂肪沉积具有至关重要的作用。本文将从正向促进和反向抑制脂肪沉积的IncRNA及其作用机制进行综述。
+
+关键词：长链非编码RNA；脂肪沉积；脂肪代谢；调控；作用机制中图分类号：S811 文献标识码：A 文章编号：
+
+脂肪的沉积取决于脂肪代谢，涉及机体对脂肪的合成和分解利用过程，以及参与机体能量代谢、脂溶性营养物质运输和激素合成等生理过程。正常的脂肪代谢对维持机体内稳态具有重要作用，而脂肪代谢异常除了引起血脂异常、心血管疾病等外，还影响脂肪在体内的沉积，脂肪沉积过少或过多将引起机体干瘦或肥胖，增加患病风险。同时，脂肪沉积在畜禽方面直接影响肉品质。近年来的一系列研究发现长链非编码 RNA(long noncoding RNA,lncRNA）对脂肪沉积有着至关重要的作用。本文综述了IncRNA对脂肪沉积的影响及其作用机制，并对其在畜禽肉品质中的潜在作用进行了展望。
+
+# 1 lncRNA 概述
+
+生物体基因表达过程产生的RNA转录本中，除了少数具有编码蛋白质功能的mRNA外，还产生大量核苷酸片段较小的非编码 RNA，包括microRNA、piRNA 以及近些年发现的lncRNA等，研究发现这些小片段RNA可在基因印记、转录水平、翻译过程上调控基因的表达[1]。lncRNA 是一类长度大于 200 bp 的非编码蛋白质 RNA，具有很弱或没有编码蛋白质的功能，根据在基因组中与编码基因的位置将 lncRNA分为以下几种：1）基因间 IncRNA（long intergenic noncoding RNA,lincRNA），即 lncRNA 由2个基因中间区域的序列转录而来；2）内含子 lncRNA（intronic lncRNA），即由另一转录本的某一个内含子区域序列转录而来的IncRNA;3)反义lncRNA，即能与反义链上与另一编码基因的外显子重合的 IncRNA;
+
+4)正义lncRNA，即能与正义链上与另一编码基因的外显子重合的 lncRNA;5)双向 lncRNA,即其表达起始位点与其相反链上向两边编码蛋白质基因的转录起始位点非常接近，但方向相反[2]。IncRNA发现之初并未引起研究者的关注，其功能饱受争议，甚至被认为是基因组的转录“垃圾”[3]。近年来，lncRNA备受研究者关注，随着大量研究的报道，lncRNA被证实与其他非编码RNA 类似，能通过基因印记[4]、表观遗传、转录和转录后对基因表达进行调控[5]，尤其在人类医学领域，许多研究报道 lncRNA 在肿瘤[6-7]、心血管疾病形成[8-13]、调节脂类代谢[14-18]以及细胞发育调控[19-24]等方面具有重要作用。因此，研究IncRNA 对解决癌症、心血管疾病、糖尿病、肥胖症以及改善畜禽肉品质均具有很大潜力。
+
+2正向调控脂肪沉积的lncRNA及其机制
+
+# 2.1 类固醇受体活化因子（steroid receptor RNAactivator，SRA）
+
+SRA 最初作为一种促进类固醇核受体依赖基因表达的 lncRNA 被发现[25]。随后，Xu 等[18]和Liu 等[26]证明 SRA 可通过与过氧化物酶体增殖剂激活受体（PPAR)γ结合，激活 PPARγ依赖受体基因的转录活性，抑制脂肪细胞相关炎症基因的表达，促进胰岛素受体表达从而促进脂肪前体细胞分化，在脂肪细胞中增加葡萄糖摄入和胰岛素刺激时蛋白激酶B（Akt）、叉头盒蛋白O1（Forkhead box protein O1，FoxO1）的磷酸化作用，提高脂肪细胞对胰岛素的敏感性。另外，Liu 等[27]通过敲除鼠 SRA 基因，发现 SRA基因敲除小鼠（SRA(-)）可显著抑制高脂饮食引起的肥胖，降低脂肪的沉积，增加瘦肉的含量，同时增加胰岛素敏感性，使得血糖降低。同时，还发现 SRA(--)小鼠在高脂饮食后其肝脏中没有出现脂肪沉积的现象，甘油三酯含量降低，肝脏中脂肪相关基因表达也相应降低，这也首次阐明了SRA对机体脂肪沉积和葡萄糖稳态的重要作用[27]。Chen 等[28]在对比 SRA(-)小鼠与正常小鼠在正常饮食和高脂饮食下相关基因的表达发现，SRA基因敲除可直接引起小鼠肝脏细胞中脂肪甘油三酯脂肪酶（adipose triglyceride lipase，ATGL）表达增加，从而使游离脂肪酸β-氧化增加，另外还发现，SRA还可通过抑制叉头基因FoxO1对ATGL启动子的诱导效应，从而抑制ATGL 表达。该研究还发现 SRA可通过抑制 PPARγ及其配体罗格列酮激活 ATGL 启动子活性，从而降低 ATGL水平，抑制游离脂肪酸β-氧化，增加肝脏脂肪沉积。除了SRA通过上述2种方式调控ATGL水平，胰岛素也可通过Akt/磷脂酰肌醇-3-羟激酶（PI3K）信号通路调控FoxO1作用，直接调节 ATGL 的表达[29]，其机制则与 SRA 以FoxO1为中间物质调节 ATGL 的机制有所不同，SRA的作用机制如图1所示。
+
+![](images/53ea03b9f61f52db3fed08b9a75ebdf4ef4c4db0fede51ed7320f6ffaecde007.jpg)  
+图1SRA的作用机制  
+Fig.1The mechanism of SRA[18,26-29]
+
+2.2肺腺癌代谢转录本 1(metastasis associated in lung adenocarcinoma transcript 1,MALAT1)
+
+在MALAT1中最初发现与某些疾病如癌症有关的一种高度保守的IncRNA。最近有研究报道 MALAT1不仅参与糖尿病相关疾病的形成过程[30-32]，还参与调节肝脏的脂质沉积[33]。有研究发现，高脂饮食和禁食状态的小鼠肝脏脂质代谢均处于高峰期，细胞内甘油三酯和胆固醇水平显著增高，均具有引起肝脏脂肪沉积的潜力；研究还发现，此时肝细胞中MALAT1和固醇调节元件结合蛋白1c（sterol regulatory element-binding protein 1c，SREBP-1c）表达水平也均显著增高，而 SREBP-1c 是脂肪肝和血脂异常的关键调控因子[34]，是MALAT1 引起肝细胞脂肪沉积所必需的中间物质[33],通过MALAT1 siRNA沉默MALAT1后发现高脂饮食引起的甘油三酯以及胆固醇水平提高现象得到了逆转，使得二者表达水平显著降低，显著降低了肝细胞细胞核 SREBP-1c 蛋白表达水平和转录活性，同时还降低羟甲基戊二酰辅酶 A（hydroxy-methyl-glutarylcoenzymeA，HMGCoA）还原酶和糖异生相关基因表达。HMGCoA还原酶是肝细胞合成胆固醇过程中的限速酶，抑制HMGCoA还原酶能够阻碍肝细胞中胆固醇合成[33]。以上结果均说明了 IncRNA MALAT1可通过转录后水平调控 SREBP-1c蛋白及其靶基因的表达引起肝脏脂肪沉积，提高胰岛素耐受性，这为促进体内脂肪代谢利用，治疗肝脏异常脂肪沉积及糖尿病并发症等疾病的研究提供了新的思路。
+
+# 2.3 PU.1ASlncRNA
+
+在机体中，脂肪前体细胞可经诱导分化为成熟的脂肪细胞，在这个过程中，细胞形态由成纤维细胞样逐渐转变为类圆形或圆形，细胞体积逐渐增大，胞质中脂滴开始出现，脂肪沉积开始形成。有研究发现脂肪前体细胞中转录因子PU.1过表达将抑制其分化过程[35]，因此，过表达脂肪前体细胞中PU.1mRNA，促进其翻译为蛋白质可有效减少脂肪沉积量。Ebralidze等[36]发现PU.1AS IncRNA 作为PU.1基因的反义链转录本，能够调控PU.1蛋白质的表达。Pang 等[37利用PU.1AS siRNA 敲除PU.1AS lncRNA 后发现脂肪前体细胞中PU.1蛋白质水平提高，脂肪生成得到抑制，这与Wei等[38]在PU.1AS shRNA 处理试验中得到的结果保持一致。另外，Wei等[38]还发现与脂肪沉积正相关的PPARγ、脂肪酸合成酶在敲除PU.1处理中上调，在敲除 PU.1AS IncRNA 处理中表现下调，而与脂肪分解正相关的 ATGL 和激素敏感脂肪分解酶（HSL）出现下调。此外，该研究还发现抑制PU.1mRNA表达后，PU.1ASlncRNA表达并未受到影响，抑制PU.1AS IncRNA后，PU.1mRNA表达也未下降，而蛋白质免疫印迹反应实验结果发现PU.1蛋白表达量显著增加。由此表明PU.1AS IncRNA 是通过与PU.1mRNA 形成 mRNA/AS lncRNA复合物，阻碍 mRNA 翻译过程，从转录后水平抑制 PU.1蛋白的合成，从而促进脂肪沉积[37-38]。
+
+# 2.4 uc.417
+
+2015年，荣灿等[39]通过采用IncRNA芯片技术筛选出在哺乳动物分化成熟的棕色脂肪细胞和褐色脂肪前体细胞中高度差异表达一种lncRNAuc.417，进一步进行生物信息学分析发现该lncRNA 普遍存在于各类物种中，包括哺乳类、两栖类和鸟类等，在哺乳动物中具有高度同源性，尤其在人类和小鼠之间 IncRNAuc.417 同源性最高，这种超级保守性决定了其在动物生命过程中具有重要的功能。该研究初步验证了IncRNAuc.417随着棕色脂肪细胞成脂分化其表达逐渐增加，说明 IncRNAuc.417对棕色脂肪细胞的生成有着极其重要的作用。机体内脂肪组织主要以白色脂肪为主，棕色脂肪组织仅占机体脂肪组织的 $2 \%$ ，在脂肪分解过程中，白色棕色脂肪组织转化为棕色脂肪组织，另外，在某些诱导因素作用如寒冷刺激下棕色脂肪含量及活性也会增加，氧化脂肪酸产生热量[40]。Cui等[41]研究解释了lncRNAuc.417在调控棕色脂肪细胞分化方面的作用机制，在体内，棕色脂肪组织随着年龄的增加而减少，研究人员发现这可能与 IncRNAuc.417的异常表达有关，随着机体年龄的增加，lncRNAuc.417表达量也增加,这损害了棕色脂肪组织的生热效应。p38分裂原激活蛋白激酶(MAPK)信号通路是刺激解偶联蛋白1基因表达的关键通路，而uc.417表达降低了p38MAPK 磷酸化却没有影响 p38MAPK蛋白量，故阻碍了p38MAPK的正向信号通路，这说明随着年龄增加导致棕色脂肪组织产热效应降低，脂肪沉积增加是由于 lncRNAuc.417表达量增加导致的。这为治疗肥胖等相关代谢疾病提供了一条新思路。
+
+# 2.5 GM15290
+
+最近，Liu等[42]通过对比分析肥胖小鼠与正常小鼠白色脂肪细胞 lncRNA表达谱发现 2246 种 lncRNA表达差异显著，并使用基因本体论GO 和 KEGG 生物学通路分析其中最上调和最下调的5种IncRNA功能，发现最上调的IncRNAGM15290与代谢过程、细胞生物合成相关，并且参与了胰岛素、PPAR信号通路。该研究发现在小鼠前脂肪细胞中转染含GM15290片段的载体可显著促进脂肪生成相关基因表达，如PPARγ，以及前期脂肪生成标记基因一一转录因子CCAAT/增强子结合蛋白（C/EBP）α和后期脂肪生成标记基因脂肪细胞因子2（adiponectin2，aP2）。油红O染色也发现过表达GM15290可增加脂肪沉积，而通过 siRNA特异性抑制GM15290 后得到了相反的结果，另外，在体内注射GM15290 特异性 siRNA 可显著降低高脂饮食引起的肥胖，同时降低体内白色脂肪沉积。因此，lncRNAGM15290 对脂肪生成及肥胖发育过程中起正向调控作用[42]。该研究发现GM15290与PPARγ的靶基因miR-27b 具有7个相匹配的连续碱基，且其自由能最低，表明GM15290 可能与miR-27b 相结合，从而实现对脂肪生成的调控目的[42]。通过皮尔逊相关系数分析结果发现肥胖小鼠白色脂肪组织中GM15290表达水平与miR-27b成负相关（ $r ^ { 2 } { = } 0 . 9 6 3 \ 5$ ），且过表达miR-27b抑制GM15290表达且对GM15290 突变体表达无影响，高脂饮食的小鼠白色脂肪组织中miR-27b 表达降低，以上结果均表明，白色脂肪细胞前体中，GM15290作为PPARγ的竞争性 RNA与miR-27b 相结合，降低了miR-27b 对PPARγ的沉默作用，从而使得 $P P A R \gamma$ 表达增加，促进脂肪生成[42]。因此，GM15290 对脂肪沉积调控机制的发现为肌内脂肪沉积调控及治疗肥胖提供了新的靶点。
+
+# 2.6 HOTAIR
+
+腹部肥胖，又称为中心型肥胖，腹部肥胖患者比臀部肥胖者患心脏病、脂肪肝、Ⅱ型糖尿病等疾病的风险更大，因此，局部肥胖治疗也成为近年来研究热点。Divoux 等[43]研究发现将仅在臀部脂肪组织中表达的IncRNAHOTAIR转染进腹部皮下脂肪细胞前体后，脂肪生成相关基因如：PPARy、脂肪酸结合蛋白4（FABP4）、脂肪细胞因子等显著表达，最终促进腹部脂肪细胞前体分化为成熟脂肪细胞。该研究表明 IncRNAHOTAIR在调控脂肪沉积分布上起重要作用，是造成局部脂肪组织的关键因子，也为将来研究HOTAIR或其他 IncRNA作为降低内脏脂肪及治疗局部肥胖的靶基因提供理论基础。
+
+3负向调控脂肪沉积的lncRNA及其调控机制
+
+3.1脂肪分化相关长链非编码 RNA（adipocyte differentiation-associated long noncoding RNA,
+
+# ADNCR)
+
+2013 年，Li等[44通过对体外培养的牛脂肪前体细胞和分化的细胞进行转录组图谱分析发现了16条IncRNA在脂肪细胞分化期间差异表达，其中，ADNCR下调幅度最大，并探究了其作用机制发现，在脂肪前体细胞中，ADNCR可作为miR-204 的竞争性内源 RNA，阻碍 miR-204 对其靶基因沉默信息调节因子2相关酶1（silent information regulator factor2related enzyme1，SIRT1）的沉默作用，使得靶基因 SIRT1表达增加，而 SIRT1可与核受体共抑制因子（nuclear receptor corepressor，NCoR）和类视黄醇和甲状腺激素受体的静息介体（silencing mediator of retinoid and thyroid hormone receptor，SMRT）对接，抑制脂肪细胞分化和脂肪生成相关基因PPARγ活性，这也首次提出了lncRNA 发挥调解作用的一种新的模式，即 lncRNA-microRNA 交互作用。
+
+# 3.2 U90926
+
+最近有研究者利用cDNA微矩阵基因芯片技术，探究IncRNAU90926在3T3-L1脂肪前体细胞，分化的脂肪细胞以及小鼠脂肪组织中的表达及其作用机制，发现IncRNAU90926主要分布在脂肪组织中，且在肥胖小鼠的皮下和内脏脂肪组织中具有较瘦鼠更低的 lncRNAU90926表达量[45]。通过过表达lncRNAU90926发现脂肪前体细胞的分化得到显著性抑制，从而抑制了脂肪的沉积，这就表明 IncRNAU90926与脂肪前体细胞的分化有着密不可分的联系，表现为负相关[45]。随后，该研究者对 lncRNAU90926的作用机制进行实验分析，发现过表达 lncRNAU90926使得与脂肪生成相关的基因PPARy2、FABP4 和脂联素（AdipoQ)等的mRNA和蛋白质水平显著降低，而敲除lncRNAU90926则表现出相反的效果，即 $P P A R \gamma 2$ ，FABP4、C/EBPα和 AdipoQ的表达显著增加[45]。这就表明 lncRNAU90926 抑制 3T3-L1脂肪前体细胞分化和脂肪沉积是通过抑制 $P P A R \gamma 2$ 或PPARγ的转录来实现的。
+
+# 3.3 GM13133
+
+脂肪燃烧可减少机体脂肪沉积，棕色脂肪和米色脂肪则是机体中燃烧产热的重要组织，因此，增加产热脂肪组织、白色脂肪棕色化成为减少脂肪沉积和预防肥胖的新思路[46-48]。近年来，随着 IncRNA的调控作用成为研究热点，其在脂肪沉积方面的调控作用亦成为研究的焦点。You等[49通过运用 lncRNA芯片在小鼠的多个组织中发现 lncRNAGM13133的特异性表达，其中，脂肪组织中尤其显著，进一步分析发现GM13133在棕色脂肪组织中表达是白色脂肪组织的2倍，寒冷、β肾上腺素和cAMP 刺激使得白色脂肪组织中GM13133 表达增加。由此暗示GM13133与机体脂肪沉积相关，尤其与机体产热以及白色脂肪发生棕色化过程有联系。寒冷刺激通过β肾上腺素信号通路使得白色脂肪组织细胞中cAMP表达量增加[50],在此过程中，GM13133表达增加并通过调控其中的某一个或多个元素，最终实现诱导白色脂肪组织棕色化及其细胞内线粒体产热基因解偶联蛋白1（uncoupling protein1,UCP1）表达的目的，另外，增加的GM13133 增加了细胞内PPARγ辅助激活因子 $1 \alpha$ （PGC1α）、UCP1和PPARα等产热功能相关分子表达，增加耗氧率（oxygenconsumption rate，OCR），促进并维持产热效应[49]。该研究过表达GM13131发现白色脂肪前体细胞增殖并无负调控作用，但能从抑制白色脂肪细胞的分化过程及 $P P A R \gamma , C / E B P \beta , F A B P 4$ 和葡萄糖转运蛋白4（glucosetransporter4，GLUT4）等与脂肪生成相关基因的表达；油红O染色检测过表达GM13131对脂肪沉积的影响发现，脂滴累积量显著降低，同时，甘油三酯生成也得到显著抑制。另外，白色脂肪细胞过表达GM13131增加细胞内线粒体数量，促进细胞色素c、骨形态发生蛋白（bone morphogenetic protein7，BMP7）等与白色脂肪向棕色脂肪转化相关分子表达[49]。由此说明，lncRNAGM13131一方面通过增加线粒体生物合成，维持棕色脂肪组织的产热效应;另一方面抑制白色脂肪细胞分化，并通过cAMP信号通路，促进棕色脂肪细胞特异性标记物的表达，诱导白色脂肪细胞发生棕色化，从而降低脂肪沉积，这一研究发现对减少动物皮下脂肪沉积具有重大意义。
+
+# 4小结
+
+近年来，IncRNA对脂肪沉积的调控及相关机制是临床上治疗肥胖等疾病的研究热点，本文总结了IncRNA可以通过不同的机制调控脂肪细胞编码基因的表达，参与脂肪代谢相关信号通路，从而对脂肪沉积有重要作用。然而，lncRNA在临床上的应用面临着极大的挑战且存在不足，如：通过RNA干扰技术对 IncRNA表达进行干扰，有时可能会因为 IncRNA的二级结构或其胞内定位导致抑制效果不理想或与IncRNA结合不稳定，出现脱靶现象。目前来看，IncRNA对脂肪沉积的作用及机制研究虽然仍处于实验动物基础研究阶段，但这对在畜禽生产中改善肉品质的研究具有借鉴意义，因此，亟待开展 lncRNA在畜禽脂肪沉积方面的研究。
+
+参考文献:
+
+[1] HANGAUER M J,VAUGHN I W,MCMANUS M T.Pervasive transcription of the human genome produces thousands of previously unidentified long intergenic noncoding RNAs[J].PLoS Genetics,2013,9(6):e1003569.
+
+[2] PONTING C P,OLIVER P L,REIK W.Evolution and functions of long noncoding RNAs[J].Cell,2009,136(4):629-641.
+
+[3] STRUHL K.Transcriptional noise and the fidelity of initiation by RNA polymerase I [J].Nature Structural & Molecular Biology,2007,14(2):103-105.
+
+[4] KOERNER M V,PAULER F M,HUANG R,et al.The function of non-coding RNAs in genomic imprinting[J].Development,2009,136(11):1771-1783.
+
+[5] RINN J L,CHANG H Y.Genome regulation by long noncoding RNAs[J].Annual Review of Biochemistry,2012,81(1):145-166.
+
+[6] FUKUZAWA R,HEATHCOTT R W,MORISON I M,et al.Imprinting,expression,and localisation of DLK1 in Wilms tumours[J].Journal of Clinical Pathology,2005,58(2):145-150.
+
+[7] MILLIGAN L,ANTOINE E,BISBAL C,et al.H19 gene expression is up-regulated exclusively by stabilization of the RNA during muscle cell differentiation[J].Oncogene,2000,19(50):5810-5816.
+
+[8] OUNZAINS,MICHELETTIR,ARNANC,etal.CARMEN,a human super enhancer-associated long noncoding RNA controlling cardiac specification,differentiation and homeostasis[J].Journal of Molecular and Cellular Cardiology,2015,89:98-112.
+
+[9] VAKOC C,HENIKOFF S,ARMSTRONG S.Chromatin deregulation in cancer[M].[S.l]:[s.n],2016.
+
+[10] CHANG C P,HAN P.Epigenetic and lncRNA regulation of cardiac pathophysiology[J].Biochimica et Biophysica Acta (BBA) ： Molecular Cell Research,2016,1863(7):1767-1771.
+
+[11] ZHANG X,SHA M L,YAO Y T,et al.Increased B-type-natriuretic peptide promotes myocardialcellapoptosisvia the B-type-natriureticpeptide/longnon-codingRNA LSINCT5/caspase-1/interleukin 1β signaling pathway[J].Molecular Medicine Reports,2015,12(5):6761-6767.
+
+[12] ZHAO J J,ZHANG W,LIN M Y,et al.MYOSLID is a novel serum response factor-dependent long noncoding RNA that amplifies the vascular smooth muscle differentiation program[J].Arteriosclerosis,Thrombosis,and Vascular Biology,2016,36(10):2088-2099.
+
+[13] GORE-PANTER S R,HSU J,BARNARD J,et al.PANCR,the PITX2 adjacent noncoding RNA,is expressed in human left atria and regulates PITX2c expression[J].Circulation.Arrhythmia and Electrophysiology,2016,9(1):e003197.
+
+[14]LI P,RUAN X B,YANG L,et al.A liver-enriched long non-coding RNA,lncLSTR,regulates systemic lipid metabolism in mice[J].Cell Metabolism,2015,21(3):455-467.
+
+[15]ZHAO X Y,LI S M,WANG G X,et al.A long noncoding RNA transcriptional regulatory circuit drives thermogenic adipocyte differentiation[J].Molecular Cell,2014,55(3):372-382.
+
+[16]PANZITT K,TSCHERNATSCH M M O,GUELLY C,et al.Characterization of HULC,a novelgenewithstrikingup-regulationinhepatocellularcarcinoma,asnoncoding RNA[J].Gastroenterology,2007,132(1):330-342.   
+[17] SUN L,GOFFL A,TRAPNELL C,et al.Long noncoding RNAsregulate adipogenesis[J].Proceedings of the National Academy of Sciences of the United States of America,2013,110(9):3387-3392.   
+[18]XU B,GERIN I,MIAO H Z,et al.Multiple roles for the non-coding RNA SRA in regulation of adipogenesis and insulin sensitivity[J].PLoS One,2010,5(12):e14199.   
+[19]GONG C G,LI Z Z,RAMANUJAN K,et al.A long non-coding RNA,LncMyoD,regulates skeletal muscle differentiation by blocking IMP2-mediated mRNA translation[J].Developmental Cell,2015,34(2):181-191.   
+[20]ZHU L,XU P C.Downregulated LncRNA-ANCR promotes osteoblast differentiation by targeting EZH2 and regulating Runx2 expression[J].Biochemical and Biophysical Research Communications,2013,432(4):612-617.   
+[21HAIJUN Z,YONGHUI Y,JIAKE C.Expression signatures of IncRNAs in skeletal muscles at the early flow phase revealed by microarray in burned rats[J].Ulusal Travma ve Acil Cerrahi Dergisi,2016,22(3):224-232.   
+[22]MUELLER A C,CICHEWICZ M A,DEY B K,et al.MUNC.a long noncoding RNA that facilitatesthe function of MyoD inskeletalmyogenesis[J].Molecularand Cellular Biology,2015,35(3):498-513.   
+[23]BASILE V,BARUFFALDI F,DOLFINI D,et al.NF-YA splice variants have different roles on muscle differentiation[J].Biochimica et Biophysica Acta (BBA） ： Gene Regulatory Mechanisms,2016,1859(4):627-638.   
+[24]WANG G Q,WANG Y,XIONG Y,et al.Sirt1 AS lncRNA interacts with its mRNA to inhibit muscle formation by attenuating function of miR-34a[J].Scientific Reports,2016,6:21865. [25] LANZ R B,MCKENNA N J,ONATE S A,et al.A steroid receptor coactivator,SRA,functions as an RNA and is present in an SRC-1 complex[J].Cell,1999,97(1):17-27.
+
+[26] LIU S,XU R C,GERIN I,et al.SRA regulates adipogenesis by modulating p38/JNK phosphorylation andstimulatinginsulin receptorgeneexpressonand downstream signaling[J].PLoS One,2014,9(4):e95416.
+
+[27]LIU S,SHENG L,MIAO H Z,et al.SRA gene knockout protects against diet-induced obesity and improves glucose tolerance[J].Journal of Biological Chemistry,2014,289(19):13000-13009.
+
+[28] CHEN G,YU D S,NIAN X,et al.LncRNA SRA promotes hepatic steatosis through repressing the expression of adipose triglyceride lipase (ATGL)[J].Scientific Reports,2016,6:35531.
+
+[29] HUANG H J,TINDALL D J.Regulation of FOXO protein stability via ubiquitination and proteasome degradation[J].Biochimicaet BiophysicaActa (BBA） :Molecular Cell Research,2011,1813(11):1961-1964.
+
+[30]LIU J Y,YAO J,LI X M,et al.Pathogenic role of lncRNA-MALAT1 in endothelial cell dysfunction in diabetes mellitus[J].Cell Death & Disease,2014,5(1O):e1506.
+
+[31]YAN B,TAO Z F,LI X M,et al.Aberrant expression of long noncoding RNAs in early diabetic retinopathy[J].Investigative Opthalmology & Visual Science,2014,55(2):941-951.
+
+[32] WATTS R,GHOZLAN M,HUGHEY C C,et al.Myostatin inhibits proliferation and insulin-stimulated glucose uptake in mouse liver cells[J].Biochemistry and Cell Biology,2014,92(3):226-234.
+
+[33] YAN C F,CHEN J F,CHEN N Q.Long noncoding RNA MALAT1 promotes hepatic steatosis and insulin resistance by increasing nuclear SREBP-1c protein stability[J].Scientific Reports,2016,6:22640.
+
+[34]BIDDINGER S B,ALMIND K,MIYAZAKI M,et al.Effects of diet and genetic background on sterol regulatory element-binding protein-1c,stearoyl-CoA desaturase 1,and the development of the metabolic syndrome[J].Diabetes,2005,54(5):1314-1323.
+
+[35] WANG F,TONG Q.Transcription factor PU.1 is expressed in white adipose and inhibits adipocyte differentiation[J].American Journal of Physiology ： Cell Physiol0gy,2008,295(1):C213-C220.
+
+[36] EBRALIDZE A K,GUIBAL F C,STEIDL U,et al.PU.1 expresson is modulated by the balance of functional sense and antisense RNAs regulated by a shared cis-regulatory element[J].Genes & Development,2008,22(15):2085-2092.
+
+[37] PANG W J,LIN L G,XIONG Y,et al.Knockdown of PU.1 AS lncRNA inhibits adipogenesis through enhancing PU.1 mRNA translation[J].Journal of Cellular Biochemistry,2013,114(11):2500-2512.
+
+[38] WEI N,WANG Y,XU R X,et al.PU.1 antisense lncRNA against its mRNA translation promotes adipogenesis in porcine preadipocytes[J].Animal Genetics,2015,46(2):133-140.
+
+[39]荣灿,崔县伟,相俐至,等.长链非编码RNAuc.417的生物信息学分析及其在棕色脂肪细胞中的表达研究[J].中华糖尿病杂志,2015,7(4):257-262.
+
+[40] VAN MARKEN LICHTENBELT W D,VANHOMMERIG J W,SMULDERS N M,et al.Cold-activated brown adipose tissue in healthy men[J].The New England Journal of Medicine,2009,360(15):1500-1508.
+
+[41] CUI X,YOU L,LI Y,et al.A transcribed ultraconserved noncoding RNA,uc.417,serves as a negative regulator of brown adipose tissue thermogenesis[J].FASEB Journal,2016,30(12):4301-4312.
+
+[42]LIU W H,MA C L,YANG B,et al.LncRNA Gm15290 sponges miR-27b to promote PPAR $\gamma$ -induced fat deposition and contribute to body weight gain in mice[J].Biochemical and Biophysical Research Communications,2017,493(3):1168-1175.
+
+[43] DIVOUX A,KARASTERGIOU K,XIE H,et al.Identification of a novel lncRNA in gluteal adipose tissue and evidence for its positive effect on preadipocyte differentiation[J].Obesity,2014,22(8):1781-1785.
+
+[44]LI M X,SUN X M,CAI H F,et al.Long non-coding RNA ADNCR suppresses adipogenic differentiation by targeting miR-204[J].Biochimica et Biophysica Acta (BBA): Gene Regulatory Mechanisms,2016,1859(7):871-882.
+
+[45] CHEN J,LIU Y,LU S,et al.The role and possible mechanism of lncRNA U90926 in modulating 3T3-L1 preadipocyte differentiation[J].International Journal of Obesity,2016,41(2):299-308.
+
+[46]YANG Y R,JANG H J,CHOI S S,et al.Obesity resistance and increased energy expenditure by white adipose tissue browning in $O g a ^ { + / - }$ mice[J].Diabetologia,2015,58(12):2867-2876.
+
+[47] SUAREZ-ZAMORANO N,FABBIANO S,CHEVALIER C,et al.Microbiota depletion promotes browning of white adipose tissue and reduces obesity[J].Nature Medicine,2015,21(12):1497-1501.
+
+[48]TRAN C M,MUKHERJEE S,YE L,et al.Rapamycin blocks induction of the thermogenic program in white adipose tissue[J].Diabetes,2016,65(4):927-941.
+
+[49]YOU L H,ZHOU Y H,CUI X W,et al.GM13133 is a negative regulator in mouse white adipocytes differentiation and drives the characteristics of brown adipocytes[J].Journal of Cellular Physiology,2018,233(1):313-324.
+
+[50]YE L,WU J,COHEN P,et al.Fat cells directly sense temperature to activate thermogenesis[J].Proceedings of the National Academy of Sciences of the United States of America,2013,110(30):12480-12485.
+
+Regulation of Fatty Deposition by Long Noncoding RNA and Its Mechanism XU Xiaojiao CHEN Xiaoling CHEN Daiwen YU Bing HE Jun HUANG Zhiqing\* (Key Laboratory for Animal Disease-Resistance Nutrition of China Ministry of Education, Institute of Animal Nutrition, Sichuan Agricultural University, Chengdu 611130, China) Abstract: Long noncoding RNA,a class of noncoding RNA with a length of more than 200 bp, has very weak or no coding protein function. Long noncoding RNA can regulate gene expression by gene imprinting, epigenetic on transcriptional or post transcriptional level. With the aggravation of the global obesity problem， the elements of regulating lipometabolism have become the researchers’ focus,and in recent years,a lot of researches reported that IncRNA is essential to regulate fatty deposition. In this paper, we reviewed the role of lncRNA in promoting or suppressing fatty deposition and its mechanism.
+
+Key words: long noncoding RNA; fatty deposition; lipometabolism; regulation; mechanism

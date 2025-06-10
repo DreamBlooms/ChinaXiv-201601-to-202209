@@ -1,0 +1,182 @@
+# 香石竹DcSKP1基因克隆及表达分析
+
+周旭红1,²，赵雪艳³，杨晓密²，吴学尉，瞿素萍1\*(1．云南省农业科学院 花卉研究所，昆明 650205；2.云南中医药大学 科技处，昆明 650500；3．云南大学农学院，昆明650500）
+
+摘要:SKP1基因是SCFE3泛素连接酶蛋白复合物的核心成分，参与多种生物过程。然而，香石竹SKPI基因还未被克隆，该文利用RT-PCR 结合RACE 技术，从香石竹（Dianthuscaryophyllus）的花药中分离克隆了1个减数分裂相关基因 SKP1的全长cDNA序列，命名为DcSKP1（GenBank登录号为MK931293）。结果表明：DcSKP1基因cDNA全长序列为962 bp，含有1个长度为567bp 的ORF，该基因编码188个氨基酸；蛋白序列比对显示，DcSKPI 中存在一个高度保守 TPEE 基序，还具有 Skp1_POZ 结构域和 Skp1 结构域，并与拟南芥的 SKP1聚集在一个分支上；利用荧光定量 PCR 对香石竹DcSKP1基因表达模式进行研究，发现DcSKP1基因在各个组织部位都有表达，在花药中的表达量高于茎叶组织，且在幼小的花药中表达量最高，随着花药发育的进程表达量下降。研究推测，DcSKP1基因可能在香石竹减数分裂中起重要作用。
+
+关键词：香石竹，DcSKP1，减数分裂，生物信息学分析，基因表达分析中图分类号：Q943 文献标识码：A
+
+# Clone and expression analysis of DcSKP1 in Dianthus caryophyllus
+
+ZHOU Xuhong1,², ZHAO Xueyan³, YANG Xiaomi²,WU Xuewei³, QU Suping1   
+(1.Flower Research Institute,Yunnan Academy ofAgricultural Sciences,Kunming 65O2O5,China;2.Yunnan   
+University of Chinese Medicine,Science and Technology Department,Kunming 6505o0,China;3.Schoolof Agriculture Yunnan University,Kunming 65o5oo, China)
+
+Abstract: SKPl gene is the core component of the SCF(Cul1-Rbx1-Skp1-F box) E3 ubiquitin ligase protein complex and is involved in many different biological processes. However, the SKP1 gene of carnation has not been cloned.In this study,a new DcSKPl gene (the accession number in GenBank was MK931293） was isolated from the flower of Dianthus caryophyllus by using RT-PCR and RACE approaches. The results were as follows: The full length cDNA sequence of DcSKPl was 962 bp,and the ORF of 567 bp encoded 188 amino acids； Protein sequence alignment showed that $D c S K P l$ had a highly conserved TPEE motif, Skpl_POZ domain and Skp1 domain,and clustered on a branch with Arabidopsis thaliana Skpl; The DcSKPl gene expression pattern of Dianthus caryophyllus was studied by real time qRT-PCR,and it was found that the DcSKPl gene was expressed in al tissue sites,and the expression level in anthers was higher than that in stem and leaf tissues,and the expression level was the highest in young anthers,and the expression level decreased with the development of anthers.It is speculated that DcSKPl gene may play an important role in carnation meiosis.
+
+Keywords: Dianthus caryophyllus, $D c S K P l$ , meiosis, bioinformatics analysis, gene expression analysis
+
+许多细胞事件，如信号转导、细胞周期调节和转录的机制主要由泛素介导的蛋白降解所调控(Hershko &Ciechanover,1998；Ning et al.,2016)。泛素化是一个三酶级联的过程，首先泛素被泛素激活酶（E1）激活，然后转移到泛素结合酶（E2）上，在泛素连接酶（E3）的帮助下与底物蛋白的赖氨酸残基结合，赋予底物特异性 (刘卫霞等，2002)。多个泛素分子可以附着在蛋白底物上已有的泛素分子上形成多泛素链，多泛素化的蛋白通常被26S 蛋白酶体降解。SCF复合物形成已知最大的E3 泛素蛋白连接酶 (Schulman etal.,2000)，SCFs参与关键蛋白的泛素化，控制细胞周期进展和转录控制等基本生物学过程(孙新艳等,2017)。拟南芥 SKP1- like-1 (ASKl)，编码连接Cullin 和F-box 蛋白的 SCF亚基(Yang et al.,1999)。已有研究表明，ASK1可以与F-box蛋白相互作用(Takahashietal.,2004)，由于这些F-box 蛋白在不同的通路中发挥着重要的作用(郑鸿平和李逸平，2011)，ASK1作为SCFs中的关键成分，在拟南芥中广泛地表达，在许多发育和生理过程中可能具有重要的功能（Luetal.,2016；叶佑丕，2014)。拟南芥ask1突变体在雄性减数分裂、花器官发育和营养生长方面存在缺陷 (Zhao et al.,2001; Zhao et al.,2006; Zhao et al.,2015)。askl-1 最早检测到的缺陷发生在细线期到偶线期的转化过程中，核仁未能迁移到核外周，同源染色体不发生联会(Wang etal.,2004)，ASK1-1突变也导致拟南芥雄性减数分裂中重组频率的增加(Wang&Yang,2006)和雄性不育(Yang etal.,1999)。
+
+香石竹是四大鲜切花之一，具有较高的产量和产值。香石竹目前的育种主要还是采用传统的杂交育种，包括种间杂交和种内杂交育种方式；自然芽变或是采用辐射来诱导芽变也是香石竹育种方法之一；此外，也会利用转基因技术的方法来培育蓝色香石竹(Fukui et al.,2003)及抗衰老 (余义勋和包满珠,2004)、抗枯萎病 (胡忠亮等,2018)和耐热 (吴姗姗,2014)等品系。但有关调控参与香石竹减数分裂的基因来创制优异香石竹品种的研究较少，这极大的阻碍了香石竹育种的进程。SKP1基因可调控花器官发育和减数分裂，但香石竹SKP1基因还未被克隆。本研究通过克隆香石竹 SKP1基因，研究其在花药和茎叶的表达模式，为深入了解香石竹花发育的分子机制及运用于香石竹育种奠定基础。
+
+# 1材料与方法
+
+# 1.1试验材料
+
+所用香石竹（Dianthuscaryophylus）‘罗加特’采集地点为云南集创园艺科技有限公司宝峰基地。2018年9月采集香石竹茎、叶组织和不同发育时期的花蕾，并用镊子取出幼嫩的花药，液氮速冻后置于 $. 8 0 ^ { \circ } \mathrm { C } .$ 冰箱保存备用。
+
+# 1.2 试验方法
+
+# 1.2.1DcSKP1基因克隆与生物信息学分析
+
+取 $. 8 0 ~ \mathrm { { ^ \circ C } }$ 冰箱保存的香石竹花药，加入磁珠，放入全自动样品快速研磨机中，研磨60s。迅速倒出磁珠，快速加入1mLTrizol试剂（Invitrogen 美国）于离心管中，RNA提取按 Trizol试剂盒的说明书进行操作。合成cDNA第一链使用 Takara 公司的PrimeScriptTMRTreagentKit with gDNA Eraser试剂盒，按试剂盒的说明书进行操作。特异的引物根据已公布的香石竹基因组序列（http://carmation.kazusa.or.jp/blast.html）进行设计，先扩增中间片断，再跟据中间片断的序列设计 $3 ^ { \prime } { \scriptscriptstyle - }$ RACE 和 $5 ^ { \prime } .$ RACE引物，按照SMARTer $\textsuperscript { \cdot } \textcircled { \mathbb { R } }$ RACE 5'/3'Kit （Takara日本）试剂盒的操作扩增 $3 ^ { \prime } .$ RACE和 $5 ^ { \prime } .$ -RACEcDNA序列，最后再设计全长引物，扩增全
+
+长cDNA序列。引物序列如表1。
+
+使用NCBI网站（htp://www.ncbi.nlm.nih.gov/BLAST)比对分析目的基因的同源序列,该基因及其他物种 SKP1基因的氨基酸相似性比对分析用DNAMEN软件，并使用MEGA6.0软件画系统进化树。蛋白的分子量和理论等电点预测采用ExPASyProtParam 分析，蛋白的亚细胞定位在线预测用PSORTII分析，蛋白的信号肽预测用 SignalP4.1分析，磷酸化位点预测采用NetPhos 2.0分析，蛋白跨膜结构预测用TMHMM2.0分析，蛋白亲水性预测用Protscale 软件分析。
+
+# $1 . 2 . 2 D c S K P I$ 基因的表达分析
+
+选取长度为 $1 . 1 { \sim } 1 . 2 \mathrm { c m }$ 的花蕾、 $1 . 3 { \sim } 1 . 4 \ \mathrm { c m }$ 的花蕾和 $1 . 5 { \sim } 1 . 6 \ \mathrm { c m }$ 的花蕾，取出花药，以及叶和茎的组织各三份，放入液氮中速冻。提取RNA并逆转录为cDNA，cDNA稀释10倍保存在 $- 2 0 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 的冰箱中备用，作为荧光定量PCR模板。GAPDH为内参基因，引物为GAPDH 579-F和GAPDH788-R,DcSKP1引物为Dca36455-1153F和 Dca36455-1265R（表1)。做三次生物学和实验重复，采用SPSS12.0软件分析数据并作图。
+
+表1香石竹DcSKP1基因cDNA克隆和表达分析引物  
+Table 1 Primers used for DcSKP1 cDNA cloning and expression analysis   
+
+<html><body><table><tr><td colspan="2">用途 Description</td><td>引物名称 Primer name</td><td>引物序列(5'-3) Primer sequence (5'-3')</td></tr><tr><td colspan="2">中间片断</td><td>SKP1-34F</td><td>TGGGATAAGGAATTTCTTGAAG</td></tr><tr><td colspan="2">Intermediate fragment</td><td>SKP1-1601R</td><td>GAACTTGAATCAAAGCGGAAGAA</td></tr><tr><td rowspan="5">3'-RACE</td><td>第一轮</td><td>SKP1-101F</td><td>AAACTGTCGCAGACATGATGAGAGGGAA</td></tr><tr><td>The first round 第二轮</td><td>SKP1-165F</td><td>TAACGAATACACCGAGGAGGAAGAAGCG</td></tr><tr><td> The second round</td><td></td><td></td></tr><tr><td>第一轮</td><td>SKP1-645R</td><td>TCTTGATCTCCGCTTCTTCCTCCTCG</td></tr><tr><td>The first round</td><td></td><td></td></tr><tr><td rowspan="4">第二轮</td><td></td><td>SKP1-587R</td><td>TGATCTCATCTGGGGTCTTCCCTCTCA</td></tr><tr><td>The second round</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td>Skp1-9F</td><td>ACAACTTCTCACACCCAAAAA</td></tr><tr><td colspan="2">Amplification of ORF</td><td>Skp1-929R</td><td>TCAAATGAACTTGAATCAAAGC</td></tr><tr><td colspan="2">qRT-PCR</td><td>Dca36455-1153F</td><td>GCCTGCTGGACTTGACCTG</td></tr><tr><td colspan="2"></td><td>Dca36455-1265R</td><td>CGCTTCTTCCTCCTCGGTGTA</td></tr><tr><td colspan="2"></td><td>GAPDH579-F</td><td>CAGTGGGCACACGGAAAGC</td></tr><tr><td colspan="2"></td><td>GAPDH 788-R</td><td>TGGCATCGTTGAGGGTCT</td></tr></table></body></html>
+
+# 2结果与分析
+
+# 2.1克隆DcSKP1基因全长cDNA序列
+
+以提取的香石竹花药cDNA为模板进行PCR 扩增。首先扩增中间片断，通过 $3 ^ { \prime }$ -RACE与 $5 ^ { \prime }$ -RACE 技术扩增DcSKP1基因3'端和5'端序列，根据拼接后的cDNA全长序列设计引物扩增包括完整ORF在内的DcSKP1基因全长cDNA序列，扩增的产物见图1。DcSKPI基因中间片段扩增测序得到了 $5 0 0 \mathrm { b p }$ 的序列（图1：A)，DcSKP1基因5'端和3'端序列测序后得到了长度分别为376（图1：B）和567bp（图1：C）序列，将以上克隆得到的3段序列拼接后得到一个长度为962bp 的DcSKP1全长cDNA序列。再设计引物扩增cDNA 全长包括完整ORF在内的921bp 的序列（图1：D)，该序列与拼接后序列的碱基完全一致。克隆结果表明，DcSKP1基因cDNA全长序列为 $9 6 2 \mathrm { b p }$ ，含有1个长度为567bp 的ORF，该基因编码188个氨基酸，命名为DcSKP1（GenBank登录号MK931293）。
+
+A．中间片断PCR产物；B. $5 ^ { \prime } .$ RACEPCR产物；C. $3 ^ { \prime }$ -RACEPCR产物；D.全长PCR产物。M.Marker;1,2泳道。
+
+![](images/30cc6e492bb98f59180e16a6956bc3722b1ed3c889721aeb005ba8ad988d505b.jpg)  
+图 $1 D c S K P I$ 基因中间序列、RACE和全长cDNA序列扩增
+
+A. PCR products of middle sequence;B. $5 ^ { \prime } { \mathrm { . } }$ RACE-products； C. $3 ^ { \prime }$ RAC'E-products；D. Full-length PCR product.   
+M. Marker; 1,2. Lane.
+
+Fig.1 Amplication of the middle sequence,RACE products and full length of DcSKP1 cDNA
+
+# 2.2DcSKP1氨基酸序列比对及进化分析
+
+利用DNAMAN软件比对分析多个不同物种 Skp1基因编码的氨基酸序列，发现DcSKP1基因存在一个高度保守TPEE 基序（157\~160 氨基酸)，基序很可能与糖基化翻译后修饰有关。该香石竹蛋白质还具有 Skp1_POZ 结构域（18\~77氨基酸）和 Skp1结构域（139\~186氨基酸）（图2)。SKP1蛋白可分为两种类型的蛋白和三种类型的基因(Kong etal.,2010)。I型蛋白由Ia 型和Ib 型基因编码，具有两个保守区域（Skp1_POZ和 Skp1）和两个可变区域。Ⅱ型蛋白由Ⅱ型基因编码，与I型蛋白有很大不同。ⅡI型蛋白含有一个额外的c端区域。Ia型基因包含单个内含子，而Ib 型基因不包含任何内含子。Ⅱ型基因在多个位置有多个内含子(Min etal.,2012)。本研究分离的DcSKP1基因包含一个内含子，归为I型蛋白和Ia型基因。
+
+采用最大似然法（maximum likelihood,ML)将其他物种的 SKP1基因与香石竹DcSKPI氨基酸序列进行比对，建立系统进化树，结果显示其与拟南芥的 SKP1聚集在一个分支上（图3)，表明这两个基因的同源性最高。
+
+AXP32046520 MAETTTETAET 1 55   
+Ap XP_027346110 .MAST.. IP PNVTSKI 52   
+Co OMO97849.1 .MASTS. TEEVEEAVAVESOTIE AD NVTSCT 53   
+Bv XP_010690359 ..MAATTV. I7 9] EDVEESVALESCTI MIE CADNA NVTGKI 54   
+8885 2 H SD 685755   
+KIT   
+6 0 525555   
+Consensus Skp1_POZ结构或Skp1_POZdomain x Iseder sqt1h edc 1ppnv   
+Dc MK931293 ARVIEYCKKELEAGDHNKASSSSSSLYSSSSSSEGVGDEDANKEEONWEKEELDVDCDTLEDLILAANYI SLLDLT 145   
+At XP_020146520 EYCKKEVCASPKPANSGAAVDASSSTST. AVAASAEDL TLFDLILAANYI CLLDLT 127   
+Ap XP_027346110 LAR EYCKKEVEAN....NS....DEKP. .SEEDLRAWDADEVEVDO TLFDLILAANYI ITLLDLT 112   
+Co OMO97849.1 S EYCKKEVEAAA...DKE.. .BKPEDDMKARETEEMEVDO TLFDLILAANYI 工 LLDLT 113   
+Bv XP_010690359 S EYCKKEVESA...AAKSSTEDRSSSN. ATADEELRSRDAEVRODO TLFDLILAANYI LLDLT 123   
+Qs XP_023881398 SF EYCKKEKEAAG...ESEPSVTSYTS.. .NSTTNPLTEWETEEVEVDO TLFDLILAANYI LLDLT 136   
+Ss TEY88351.1 S EYCKKEVDAS....ASTKSEDKVSS. .SDDEEKIEDAEEVEVDCTLFDLILAANYI 工 SLLDLT 122   
+Cc s1 BAE72121.1 XP_006422586 S S IEYCKKHVEAG.....SGDKKDDKS... EYCKKEVEEAE..KNKGETTTTTSAAGT. .GTIPVDDDLRNDTEEVRVDONTLEDLILAANYI TEDDEKIRDADEVEVDOTLEDLILAANYI 王 SLLDLT ELLDLT 130 115   
+At NP_564105.1 EYCKKEVEA...AAEAGGDKDEYGSAE. .NDELKNRDSEEVEVDCETLEDLILAANYL LLDLT 120   
+Cq XP_021743046 LSK IEYCKKEVDAA...ASKASAEDRSSTN. .STADDELKSRDAEEVRVDONTLEDLILAANYI LLDLT 122   
+Consensus 1 Veyckkh Skp1结构域Skp1domain d f vdqtlfdlilaanyli 11dlt   
+Dc MK931293 187   
+At XP_020146520 VADIG K2FE 169   
+Ap XP_027346110 COTVADMIEGR KZ.FE 154   
+Co OMO97849.1 CRTVADMMEGK FEET RRF IINEYTPEEDAEVREEN KZF1 155   
+Bv XP_010690359 TVADMIRGR FEET KTENIRNDFTFEEREEVRREN ZiF 165   
+Q XP_023881398 KIVADMMRGR EQEIRETEEIRNDYTEEEDAEVRRENO KZFI 178   
+5091 Y82151.1 164   
+Cc XP_006422586 TVADMIGR PEEIRKTENIRNDESPDEDEEVRRENOWFE 157   
+At NP564105.1 VADOMEGR EECMRAHENIENDYTEEEEAEVRNENRKEFE 162   
+Cq|xP_021743046 COTVADHIRGKTEEEIRKTENIRNDETPEEDEEVRRENEFE 164   
+Consensus C vad gkp H find ee enwafe   
+?
+
+Dc.香石竹；At.山羊草；Ap.相思豆；Co.黄麻；Bv.甜菜；Qs.栓皮栎树；Ss.一串红；SI.蝇子草； Cc.柑橘；At.拟南芥；Cq.藜麦。星号表示 TPEE 基序。   
+Dc.Dianthus caryophyllus; Co.Corchorus olitorius; At.Aegilops tauschi; Ap. Abrus precatorius; Bv. Beta vulgaris; Qs.Quercus suber;Ss.Salvia splendens;Sl.Silene latifolia;Cc.Citrus clementina;At.Arabidopsis thaliana; Cq. Chenopodium quinoa.The asterisk indicates the TPEE motif.
+
+![](images/7555183d0d77e4eb056cc679d3f38fc3adc315523c04abb7ff816ccae62dc18b.jpg)  
+图2植物Skp1氨基酸序列的比对  
+Fig.2 Alignment of plant Skpl amino acid sequences   
+图 $3 \mathrm { \ S k p { 1 } }$ 蛋白的系统进化树  
+Fig. 3 Phylogenetic tree of plant Skp1 proteins
+
+# 2.3香石竹DcSKP1生物信息学分析
+
+对 $D c S K P I$ 进行氨基酸组成成分及理化性质分析，DcSKP1的分子式为$\mathrm { C _ { 9 1 3 } H _ { 1 4 4 3 } N _ { 2 3 7 } O _ { 3 1 7 } S _ { 7 } }$ ，理论等电位4.52，分子量为 $2 1 0 3 6 . 3 2 \mathrm { D a }$ 。该蛋白正电荷残基为19，负电荷残基为38，预测不稳定指数为47.83，为不稳定蛋白。香石竹 $\mathrm { \Delta D c S K P 1 }$ 氨基酸组成中主要为 Glu 和 Leu，其中 Glu 所占比例约为 $1 1 . 7 \%$ ，Thr所占比例约为 $1 0 . 1 \%$ 。预测DcSKP1蛋白的亚细胞定位可能 $5 2 . 2 \%$ 在细胞核中， $2 6 . 1 \%$ 在细胞质中， $4 . 3 \%$ 在高尔基体， $4 . 3 \%$ 在细胞骨架， $4 . 3 \%$ 在过氧化物酶体， $4 . 3 \%$ 在质膜和 $4 . 3 \%$ 在线粒体中。Dcskp1 蛋白的信号肽无峰值出现（图4)，说明 $\mathrm { \Delta D c S K P 1 }$ 蛋白不存在信号肽，也说明该蛋白不属于分泌蛋白。蛋白跨膜结构预测 $\mathrm { \Delta D c S K P 1 }$ 没有跨膜螺旋，说明DcSKP1是一个非跨膜蛋白。预测磷酸化位点发现在该蛋白质序列中可能含有 48个磷酸化位点（score>0.5)，包含16 个丝氨酸位点，12 个苏氨酸位点和1个酪氨酸位点（图5)。蛋白质疏水性和亲水性预测，该蛋白是最可能是亲水性蛋白（MIN：-2.489，MAX：2.011）（图6）。
+
+![](images/b5980230af77bed5c435559dd3be17fc548390d66e5d59980ff341fa3f322c1e.jpg)  
+Fig. 4 Prediction of signal peptides in DcSKP1
+
+![](images/336dc685b1f1027b408edc37a9f40a9e83dbae2138ab1518e95df7d9f3c2dd80.jpg)  
+图4DcSKP1信号肽预测  
+图 $5 \mathrm { D c S K P 1 }$ 中磷酸化位点预测结果  
+Fig. 5 Results of phosphorylation sites prediction in DcSKP1
+
+![](images/38261a2a3e920ab92570ce907452a46c9c82bb316bb41786616756866ab63705.jpg)  
+图 $6 \mathrm { D c S K P 1 }$ 蛋白亲疏水性分析
+
+# 2.4DcSKP1基因的荧光定量表达分析
+
+荧光定量PCR结果显示， $D c S K P I$ 基因在香石竹花药3个不同发育时期均有表达，但表达趋势逐渐下降，花蕾长度为 $1 . 1 { \sim } 1 . 2 \mathrm { c m }$ （Stage1）时的花药表达量最高，花蕾长度为$1 . 3 { \sim } 1 . 6 \ \mathrm { c m }$ （Stage 2和 Stage3）时期的花药表达量低，且 Stage1与 Stage2和 Stage3有显著差异，而在茎和叶中表达量更低，与花药中的表达量有显著差异（图7)。由此可见，DcSKPI基因可能与香石竹花药发育相关，尤其与减数分裂有关。
+
+![](images/689b14705d74567d0f7e1a44f042df9f18d7827a1327d04d8c8aeaffbeee7d74.jpg)  
+Fig.6 Analysis of hydrophilcity and hydrophobicity of DcSKP1
+
+Stage1.花蕾长度为 $1 . 1 { \sim } 1 . 2 \ \mathrm { c m }$ 的花药；Stage 2.花蕾长度为 $1 . 3 { \sim } 1 . 4 \ \mathrm { c m }$ 的花药；Stage3.花蕾长度为$1 . 5 { \sim } 1 . 6 \ \mathrm { c m }$ 的花药。不同字母表示显著差异（ $\scriptstyle \cdot { P < 0 . 0 5 }$ )°
+
+Stage 1.Anthers with a flower bud length of $1 . 1 \mathrm { - } 1 . 2 \mathrm { c m }$ ; Stage 2.Anthers with a flower bud length of $1 . 3 \mathrm { - } 1 . 4 \mathrm { c m }$ Stage 3.Anthers with a flower bud length of $1 . 5 { \mathrm { - } } 1 . 6 ~ \mathrm { c m }$ .Different letters indicate significant differences $( P { < } 0 . 0 5 )$
+
+图7DcSKP1RT-qPCR表达分析 Fig.7DcSKP1RT-qPCR expression analysis
+
+# 3 讨论
+
+SCF 能参与一系列的生物学反应，包括信号转导、转录和细胞周期调控(宋瑜龙,2011;
+
+孙新艳等,2017)。SCF复合物在酵母系统中被发现，并且在细胞周期底物泛素化降解过程中发挥重要作用(Feldman et al.,1997)。SCF复合物由三个亚基组成：Cullin（CDC53)，SKP1和F-box蛋白，SKP1是SCFE3泛素连接酶蛋白复合物的核心成分，参与多种生物过程。在这个复合物中，SKP1是一种连接蛋白，与Cullin 和F-box蛋白结合。SKP1可以与许多F-box蛋白相互作用，泛素化不同的底物特异性因子(Vierstra& Smalle,2004)。烟草 SKP1基因具有 Skp1结构域(张付云等,2007；夏江宏等,2015)，亚细胞定位发现NtSKP1蛋白在胞浆和核部位均有表达(张付云等，2009)。香石竹 DcSKP1基因存在 Skp1_POZ 结构域和 Skp1结构域，还具有一个高度保守TPEE 基序，很可能与糖基化的翻译后修饰有关，香石竹DcSKPI基因通过软件预测主要定位于细胞核。
+
+拟南芥SKP1（atk1-1）突变体的雄性育性降低，有活力的花粉粒减少，雄配子减数分裂异常。atk1-1突变体中的雄性减数分裂产生反常数量的不同大小的小孢子，减数分裂纺锤体缺乏正常纺锤体的双极结构，这种异常的纺锤体可能是染色体异常分离和随后的孢子和花粉异常的原因,atk1-1染色体在中期I中不正确排列也可能与异常的纺锤体有关(Chen et al.,2002)。此外，ASK1还抑制花粉减数分裂中的重组(Wang＆Yang,2006)。小麦的研究表明，SKPI表达量急剧下降，可能会使细胞分裂不能正常进行，从而导致小麦花粉粒的生长发育受到影响，过早的趋于死亡。同时，SKPI蛋白也会大幅度下降，大量的SCF复合体很难形成，泛素蛋白酶体途径受阻，导致一些细胞周期抑制蛋白降解不及时，进而影响花粉粒的活性，引起雄性不育的发生 (宋瑜龙,2011)。本研究中香石竹DcSKP1基因在幼小的花药中表达量高，随着花药的不断发育表达量有所下降，而幼小的花药正在进行减数分裂，提示DcSKP1基因可能参与香石竹减数分裂过程。
+
+水稻OmSKP1主要定位于细胞核，OmSKP1在营养组织（叶）和生殖组织（花）中都有表达，且花中的表达水平明显高于叶片，说明OmSKP1主要在花中进行表达（范锡麟，2013)。小麦TSK1 基因在花药、幼根以及花顶端分生组织等分生较旺盛的组织中有较强的表达，暗示该基因可能参与植物细胞分裂相关的过程 (李驰峻,2006)。小麦在可育和不育株中，随着花药生长时期（单核期、二核期、三核期）的推后，SKP1基因的相对表达量都逐步降低。但在同一个发育期，可育花药中 SKP1 基因的相对表达量比不育株花药中 SKP1基因的相对表达量高 (宋瑜龙，2011)。在拟南芥中，ASK1 基因在生殖生长和营养生长整个过程中都有持续、广泛的表达，而在有丝分裂旺盛的部位以及减数分裂部位有更高的表达量(Porat et al.,1998)。ASK1基因的表达量在减数分裂细胞周期中有波动，从细线期到粗线期出现一个峰值水平。因此,细线期到粗线期对于ASK1的功能似乎是至关重要的(Wang& Yang,2006)。草莓FaSKP1-1基因在植物的各个组织部位如根、叶、茎、花瓣、花柱、花托、花粉及果实中均有表达（殷姗姗等,2016)。本研究对香石竹DcSKP1基因表达模式进行研究，结果发现DcSKP1基因在各个组织部位都有表达，在花药中的表达量高于茎叶组织，且表达量具有显著差异。提示DcSKP1基因与花药的发育有关，可能参与香石竹减数分裂的过程。本研究为研究香石竹花粉败育的原因、减数分裂调控的信号通路和培育优异的植物新品种奠定基础。
+
+# 参考文献：
+
+CHEN C,MARCUS A,LI W, et al,2OO2. The Arabidopsis ATK1 gene is required for spindle morphogenesis in male meiosis[J]. Development,129(1O): 2401-2409. FAN XL,2013. Expresson and purification of OmSKP1 with point mutations and primary analysis of protein interaction in vitro[D]. Changsha: Hunan Agricultural University.[范锡麟, 2013．小粒野生稻OmSKP1的点突变蛋白表达纯化与体外互作的初步分析[D]．长沙：湖 南农业大学.]
+
+FELDMAN RMR, CORRELL CC, KAPLAN KB, et al., 1997. A complex of cdc4p, skplp, and cdc53p/cullin catalyzes ubiquitination of the phosphorylated cdk inhibitor sic1p[J]. Cell, 91(2): 221-230.   
+FUKUI Y,TANAKA Y, KUSUMI T, et al.,2OO3. A rationale for the shift in colour towards blue in transgenic carnation flowers expressing the flavonoid 3',5'-hydroxylase gene[J]. Phytochemistry, 63(1): 15-23.   
+HERSHKO A, CIECHANOVER A,1998. The ubiquitin system[J]. Ann Rev Biochem, 67(1): 425-479.   
+HU ZL, ZOU DX, HUANG MR, et al., 2018. Identification and screening on wilt resistance of transgenic carnation seedlings[J].Bull Sci Technol,34(2): 62-65.[胡忠亮，邹东霞，韩正敏, 等，2018．转基因香石竹抗枯萎病品系的鉴定及筛选[J]．科技通报，34(2)：62-65.]   
+KONG H,LANDHERR LL, FROHLICH MW, et al., 2010. Patterns of gene duplication in the plant SKP1 gene family in angiosperms: Evidence for multiple mechanisms of rapid gene birth[J]. Plant J, 50(5): 873-885.   
+LI CJ,2OO6. Cloning and functional analysis of TSK1,a SKP1 homologue from wheat[D]. Kunming: Chinese Academy of Sciences (Botanical Institution).[李驰峻，2O06.小麦 SKP1 同 源基因 TSK1 的克隆和功能分析[D]．昆明：中国科学院研究生院（植物研究所).]   
+LIU WX, PENG XZ, YUAN JG, 2002. SCF(Skp1- Cul1- F- box protein) complex and its function in cell cycle[J].JChin Biotechnol,22(3): 1-3.[刘卫霞，彭小忠，袁建刚，2002.SCF (Skp1-Cul1-F-box 蛋白)复合物及其在细胞周期中的作用[J]．中国生物工程杂志，22（3)： 1-3.]   
+LU D,NI W, STANLEY BA,2016.Proteomics and transcriptomics analyses of Arabidopsis floral buds uncover important functions of ARABIDOPSIS SKP1-LIKE1[J]. BMC Plant Biol, 16(1): 61.   
+MIN JH, KIM DY, SEO YW, 2012. SKP1-like-related genes interact with various F-box proteins and may form SCF complexes with Cullin-F-box proteins in wheat[J]. Mol Biol Rep, 40(2): 969-981.   
+NING Z, SCHULMAN BA, LANGZHOU S, et al., 2016. Structure of the Cul1-Rbx1-Skp1-F box Skp2 SCF ubiquitin ligase complex[J]. Nature, 416(6882): 703-709.   
+PORAT R, LU P, O'NEILL SD, 1998. Arabidopsis SKP1,a homologue of a cell cycle regulator gene, is predominantly expressed in meristematic cells[J]. Planta, 204(3): 345-351.   
+SCHULMAN BA, CARRANO AC, JEFFREY PD, et al., 2000. Insights into SCF ubiquitin ligases from the structure of the Skp1-Skp2 complex[J]. Nature, 408(6810): 381-386.   
+SONG YL, 2011. Cloning and expresson analysis of SKP1 gene related to male sterility in wheat[D].Yangling:Northwest A&FUniversity.[宋瑜龙，2011．小麦雄性不育相关基因 SKP1的克隆与表达分析[D]．杨凌：西北农林科技大学.]   
+SUN XY, WEI Y, HAN XY, et al., 2017. Prokaryotic Expression of Cucumber Skp1 in Escherichia coli and Preparation of Antiserum[J]. Acta Agric Boreal-Sin,32(6): 73-77.[孙新艳，魏莹，韩 晓玉，等，2017．黄瓜 S 期激酶相关蛋白 Skp1 的原核表达及其多克隆抗体的制备[J]．华 北农学报，32（6)：73-77.]   
+TAKAHASHI N, KURODA H, KUROMORI T, et al., 2004. Expresson and interaction analysis of Arabidopsis Skp1-related genes[J]. Plant Cell Physiol, 45(1): 83-91.   
+VIERSTRA RD, SMALLE J, 2004. The ubiquitin 26s proteasome proteolytic pathway[J]. Ann Rev Plant Biol, 55(1): 555-590.   
+WANG Y, WU H, LIANG $\mathbf { G }$ et al.,2004. Defects in nucleolar migration and synapsis in male prophase[J]. Plant Reprod, 16(6): 273-282.   
+WANG Y, YANG M, 2006. The ARABIDOPSIS SKP1-LIKE1 (ASK1) protein acts predominately from leptotene to pachytene and represses homologous recombination in male meiosis[J]. Planta, 223(3): 613-617.   
+WU SS,2014. Study on high temperature tolerance of transgenic carnation by PmHSP25.3[D]. Wuhan: Huazhong Agricultural University.[吴姗姗,2014．转 PmHSP25.3 基因香石竹植株耐 热性研究[D]．武汉：华中农业大学.]   
+XIA JH, ZENG B,LI WY, et al., 2015. Cloning and bioinformatics analysis of self-incompatibility gene SSKl of wild almond in Xinjiang[J]. Chin Agric Sci Bull,31(25): 107-112[夏江宏，曾斌, 李伟阳，等，2015．新疆野扁桃自交不亲和基因 SSK1的克隆及生物信息学分析[J]．中国 农学通报，31（25)：107-112.]   
+YANG M, HU Y, LODHI M, et al.,1999. The Arabidopsis SKP1-LIKE1 gene is essential for male meiosis and may control homologue separation[J]. Proc Natl Acad Sci Usa, 96(0): 11416-11421.   
+YE YP, 2014. Research progress on ASK genes in Arabidopsis[J]. Plant Physiol J, 50 (6): 683-690. [叶佑丕，2014．拟南芥ASK基因研究进展[J]．植物生理学报，50（6)：683-690.]   
+YIN SS,LI MF, WANG H, et al., 2016. Cloning and expression analysis of FaSKP1-1 genes in strawberry (Fragaria ananassa Duch.)[J]. JChin Agric Univ,21(12): 28-34.[殷姗姗,李茂福, 王华，等，2016．草莓 FaSKP1-1基因的克隆与表达分析[J]．中国农业大学学报，21（12)： 28-34.]   
+YU YX, BAO MZ, 2004. Prolonging the vase life of carnation ‘Mabel' through integrating repeated acc oxidase genes into its genome[J]. JPlant Physiol Mol Biol, 30 (5): 541-545. [余义 勋，包满珠，2004．通过转重复结构的 ACC 氧化酶基因延长香石竹的瓶插期[J]．植物生 理与分子生物学学报，30（5)：541-545.]   
+ZHANG FY,BAI XF, DU YG, et al., 2OO7. Cloning and analysis of the full length cDNA of SKP1 gene from Nicotiana tabacum var. samsun NN and its expression in E. coli[J]. Acta Agron Sin, 33(4):693-696.[张付云，白雪芳，杜昱光，等，2007．烟草 SKP1基因cDNA的克隆分析 及原核表达[J]．作物学报，33（4)：693-696.]   
+ZHANG FY, CHEN SY, ZHAO XM, et al., 2009. Construction of NtSKP1-GFP plant expression vector and subcellular location[J]. Acta Agric Boreal-Occident Sin,18 (4): 144-148.[张付云, 陈士云，赵小明，等，2009.NtSKPI-GFP 植物表达载体的构建及亚细胞定位[J]．西北农业 学报，18（4)：144-148.]   
+ZHAO D, YANG M, SOLAVA J, et al., 2015. The ask1 gene regulates development and interacts with the ufo gene to control floral organ identity in Arabidopsis[J]. Genesis, 25(3): 209-223.   
+ZHAO D, YANG X, QUAN L, et al., 2006. ASK1, a SKP1 homolog, is required for nuclear reorganization, presynaptic homolog juxtaposition and the proper distribution of cohesin during meiosis in Arabidopsis[J]. Plant Mol Biol, 62(1-2): 99-110.   
+ZHAO D, YU Q, CHEN M, et al., 2001. The ASK1 gene regulates B function gene expression in cooperation with UFO and LEAFY in Arabidopsis[J]. Development, 128(14): 2735-2746.   
+ZHENG HP,LI YP, 2011. The essential regulator of cellular activities—F-box protein[J]. Chem Life,31(5):619-624.[郑鸿平，李逸平，2011．调控细胞活动不可或缺的重要分子—F-boX 蛋白[J].生命的化学，31（5)：619-624.]

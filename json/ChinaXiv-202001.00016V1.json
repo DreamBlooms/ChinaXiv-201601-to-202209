@@ -1,0 +1,442 @@
+[
+    {
+        "type": "text",
+        "text": "渭河流域生态功能区划",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王丽霞ʰ，张茗爽²，隋立春1,³，张双成'，杨耘¹（1．长安大学地质工程与测绘学院,陕西 西安710054；2．长安大学地球科学与资源学院,陕西 西安710054；3．地理国情监测国家测绘地理信息局工程技术研究中心,陕西 西安710054)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以渭河流域为研究对象,根据流域生态环境现状,建立合理的指标体系,结合GIS与RS 技术对研究区进行区划,并针对各功能区的主导生态功能或主要生态问题制定相应生态环境保护与建设重点。结果表明：渭河流域可被划分为7个生态功能区： $\\textcircled{1}$ 防旱抗旱区； $\\textcircled{2}$ 农业种植区； $\\textcircled{3}$ 牧业发展区； $\\textcircled{4}$ 水源涵养区； $\\textcircled{5}$ 防风固沙区； $\\textcircled{6}$ 植被保护区; $\\textcircled{7}$ 土壤侵蚀控制区。本研究为区域有效开发利用资源,合理制定生态环境保护措施提供科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：生态功能区划；原则；指标体系；空间分析；渭河流域",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "生态功能区划以生态学的理论方法为基础，对生态环境现状、生态敏感性和生态服务功能进行综合评价，分析并概括其相似性与差异性，把区域科学合理的划分为不同的生态功能区[1]。其目的是通过对生态功能区的划分与分析，有效开发与利用区域资源，合理制定生态环境保护措施，提升生态经济水平，为贯彻全面可持续发展战略打好坚实基础。随着中国城市化速度的不断加快、社会经济的迅猛发展、人口的快速增长以及人类对生态系统知之甚少，自然生态系统受人类影响的范围和强度不断加大，对人类福利和经济发展的冲击也进一步加深，生态环境受到的损害与削弱问题更加严峻[2]。因此,对区域进行科学系统的划分，建立生态环境管理体系，成为有效维持生态环境、保障区域生态安全、科学规划城市、维护人类福利的重要任务(3-4) 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关于生态区划的研究在国外开展的较早。1976年,美国生态学家Bailey提出了真正意义上的生态区划方案[5]。之后,各国生态学家开始在不同尺度上对各种生态区划进行研究[6。自20世纪80 年代开始，我国自然生态功能分区研究引进了一些生态系统的观点,欧阳志云等[7-8]开展了中国生态环境敏感性及区域差异研究;杨勤业等[9 明确了中国生态地域的基本分区，将全国分为52个生态区。21世纪初,傅伯杰等[1提出将全国划分为3个生态大区、13个生态地区、54个生态区的生态区划方案，从",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "而揭示了不同生态区的生态环境问题及其形成机制，为全国各区域进一步开展生态功能区划建立了宏观框架(11-12]。越来越多的实证研究运用于生态功能区划，理论研究也逐渐在我国全面形成与成熟发展。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在陕西省生态环境综合分区研究方面，刘胤汉等[13]以遥感图像解译为基础,结合野外实际考察，将陕西省生态环境区划系统分为生态环境区、亚区、小区3级;乔丽等[14选取10个影响陕西省生态农业干旱的因子，利用快速聚类法和分层聚类法相结合的方法，将陕西省划分为8个生态农业干旱相似区;张兵等[15]对甘肃省中部的生态安全过程进行景观格局判定，得出了15a来甘肃中部地区生态安全的变化状况;郎勇设等[1运用GIS 技术,对宁夏生态环境现状、生态环境敏感性和生态服务功能重要性进行了分析评价，形成了宁夏生态功能区划方案。已有的研究大多基于行政区域尺度，而对于反映流域尺度特征的研究较少，因此,进一步开展流域生态功能区划十分必要。渭河流域作为我国西北地区的重要区域之一，其生态环境的综合治理将对陕西、甘肃、宁夏乃至整个西北地区产生重要的影响。渭河流域正面临严峻的生态环境恶化问题，因此对流域进行生态功能区划，并有针对性的制定合理的生态环境保护与建设重点，对有效开发与利用区域资源、合理保护区域生态环境具有重要的理论与现实",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究以渭河流域为研究对象，结合研究区的生态环境现状，选取干燥度指数、土地利用类型、生态系统类型、冬春季风速大于 $6 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 天数、植被覆盖度和土壤侵蚀模数等因子，建立科学合理的生态功能区划指标体系，将该区域划分为7个生态功能区，并针对各功能区的主要生态问题提出生态环境保护与建设重点，为指导渭河流域的生态环境建设与保护、生态经济平稳发展提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况及数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "渭河是黄河的最大支流，发源于甘肃省定西市渭源县鸟鼠山，流经甘肃、宁夏、陕西3个省（区），于陕西省渭南市潼关县汇入黄河，全长 $8 1 8 ~ \\mathrm { k m }$ ，流域总面积 $1 . 3 5 \\times 1 0 ^ { 5 } ~ \\mathrm { k m } ^ { 2 }$ ,地理位置 $3 3 ^ { \\circ } 4 0 ^ { \\prime } \\sim 3 7 ^ { \\circ } 1 8 ^ { \\prime } \\mathrm { N }$ 和 $1 0 6 ^ { \\circ } 2 0 ^ { \\prime } \\sim 1 1 0 ^ { \\circ } 3 7 ^ { \\prime } \\mathrm { E }$ （图1）。渭河南部有东西走向的秦岭横亘，北有六盘山屏障。流域可分为东西两部分：西为黄土丘陵沟壑区，东为关中平原区。流域地处西北干旱半干旱地区，属大陆性季风气候，冬季寒冷干燥，降水稀少；夏季炎热多雨，多年平均气温 $7 . 8 \\sim 1 3 . 5 \\mathrm { ~ ‰ ~ }$ ,多年平均降水量 $5 0 0 \\sim 8 0 0 ~ \\mathrm { \\ m m }$ 。渭河流域是我国重要的农业、工业和能源基地,也是西北地区的核心枢纽。近年来，区域经济快速发展、气候变化以及人口增长，引发了植被退化、土地沙化、水土流失等一系列生态问题，特别是流域地貌类型多样，水资源短缺严重，干旱气候频发，生态问题极为突出[17]。因此,明确生态功能分区,有针对性地开展生态整治。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "注：以GS(2016)2556号为审图号的底图作图。下同。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5f6a2e13965393164b2c2303d61877c8ae538fef2693fdac17903cc5d6b67c0a.jpg",
+        "img_caption": [
+            "图1渭河流域地理位置示意图",
+            "Fig.1Geographical location of the Weihe River Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究数据主要有： $\\textcircled{1}$ 影像数据：包括渭河流域$1 : 5 0 \\ 0 0 0$ 数字高程模型（DEM）数据和LandsatTM遥感影像数据，来源于地理空间数据云； $\\textcircled{2}$ 专题数据：包括行政界线数据、NDVI数据、生态系统类型数据和土壤侵蚀模数数据，来源于中国科学院资源环境科学数据中心; $\\textcircled{3}$ 气象数据：包括多年平均降水量、多年平均气温和冬春季风速大于 $6 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 天数，来源于中国气象科学数据共享服务网； $\\textcircled{4}$ 其他数据：水库情况、社会经济要素等，来源于《陕西省统计年鉴》、《甘肃省统计年鉴》、《宁夏回族自治区统计年鉴》。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 区划原则及方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 区划原则及指标体系",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "生态功能区划主要反映生态系统敏感性和服务功能重要性在空间上的分布，因此，生态功能区划的原则取决于生态系统本身特征以及对其认识程度[18-20]。区划应按以下原则进行：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）可持续发展原则：可持续发展是坚持保护自然资源、激励经济发展、改善提高人类生活质量的发展理论和战略。生态功能区划的目的是有效开发与利用区域资源，合理规划生态环境，提高生态经济效益，最终促进区域的可持续发展。（2）区域共轭性原则：即空间连续性原则。区划单元是个体的，个体之间要保持空间连续性，不可分离，也不可重复。（3）相似性与差异性原则：生态功能区划要考虑研究区内各要素的相似性，也要考虑不同区域之间的差异性，同时要考虑到每个区划单元各自的标准，将相似性与差异性结合起来进行区划。（4）可操作性原则：要充分考虑研究区的实际情况，量力而行，使区划具有可操作性。（5）主导生态功能优先原则：在生态功能重叠的区域，应依照区域主导生态功能进行划分。(6）尽可能与行政区划一致的原则：进行区划时将行政界线纳入考虑范围，保证行政辖区在空间上的连续性，方便之后行政区进行统一管理。根据以上原则，综合考虑渭河流域的生态环境现状，建立了科学合理的指标体系（表1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 区划方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "首先根据研究区的生态环境特点，选择了对研究区生态影响大，且作用程度高的干燥度指数、土地",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1生态功能区划指标体系",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a8393976e267057aca3a544d3df503bd7a985afcbea6886473d75a2cf377b4fe.jpg",
+        "table_caption": [
+            "Tab.1Index system for regionalizing ecological functional areas "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>目标层</td><td>指标层</td><td>指标描述</td></tr><tr><td rowspan=\"3\">生态功能区划</td><td>干燥度指数</td><td>利用年平均气温和年平均降水量 计算干燥度，将干燥度<20的区</td></tr><tr><td>土地利用类型</td><td>域划分为防旱抗旱区 利用LandsatTM遥感影像解译研 究区土地利用类型，提取耕地范 围划分为农业种植区，提取草地</td></tr><tr><td>生态系统类型</td><td>范围划分为牧业发展区 生态系统类型为森林生态系统且 年降水量丰富，并有较多水库分 布的区域划分为水源涵养区</td></tr><tr><td></td><td>冬春季风速大于 6m·s-1天数</td><td>冬春季风速大于6m·s-的天数 >220d的区域划分为防风固沙 区</td></tr><tr><td></td><td>植被覆盖度</td><td>利用NDVI年合成产品计算植被 覆盖度，植被覆盖度>80%的区 域划分为植被保护区</td></tr><tr><td></td><td>土壤侵蚀模数</td><td>平均土壤侵蚀模数>8000t· km-²·a-的区域划分为土壤侵 蚀控制区</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用类型、生态系统类型、冬春季风速大于 $6 \\mathrm { ~ m ~ }$ ·$\\mathrm { ~ s ~ } ^ { - 1 }$ 天数、植被覆盖度和土壤侵蚀模数6个生态环境评价因子。然后，对各因子进行相应的处理，并确定其分区阈值，即利用ArcGIS与ENVI等软件对各因子进行相应的操作，根据各因子的本身特性进行分级。基于处理结果，对每个因子划定相应的生态功能区。在划分过程中，严格遵循区划原则，尤其是在生态功能重叠的区域，优先考虑该区域的主导生态功能。最后，对区划结果的边界进行必要的调整，即当生态功能区边界接近行政界限时，应尽量与行政界限吻合，保证行政辖区在空间上的连续性，方便行政区对区域进行统一的规划与管理。同时，根据命名原则对各生态功能区进行命名。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3生态环境因子评价",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 干燥度因子评价 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干燥度是表征一个地区干湿程度的指标，一般以某个地区水分收支与热量平衡的比值来表示。干燥度对于研究气候变化对人类及生物赖以生存的生态环境的影响以及制定相应的解决措施具有重要的理论和现实意义[2I]。计算干燥度的方法较多,通过比较和分析各自的原理、计算方法及其在生态学和地理学研究中的应用等，并结合在中国应用的实际状况,选择了应用最为广泛的de Martonne(22]干燥度计算方法。此方法利用气温与降水两个气候因子进行计算,指标明确，简单明了，与植被和水分对应性强，所以经常用在气候区划上。其计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { \\mathrm { d m } } = { \\frac { P } { T + 1 0 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $I _ { \\mathrm { d m } }$ 即 de Martonne 干燥度; $P$ 为平均降水量（mm）; $T$ 为平均气温 $( \\mathrm { ^ { \\circ } C } )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文利用ArcGIS对研究区内及其周边的110个主要气象站点2000一2015年的年均降水量与年均气温进行简单克里金插值,然后用栅格计算器计算干燥度(图2）。根据图2可判断渭河流域气候的干湿程度，干燥度小于20的区域较为干旱，主要分布于研究区的北部。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 土地利用类型因子评价",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "人地环境和谐发展可以促进土地利用结构的优化，相反，则会加速土地资源闲置浪费，生态环境急剧恶化等后果。随着城市化和工业化进程的加速，土地资源的需求不断增加。因此，对土地利用的合理规划显得尤为重要。本研究利用ENVI5.3软件对LandsatTM遥感影像进行解译，根据研究区的地理特征，将该区域分为耕地、草地、林地、水域、建设用地和未利用地6大类（图3）。从图3可以看出，大面积耕地集中分布在研究区南部即关中平原地区，草地与零散耕地交错分布于研究区西部与北部,即黄土丘陵沟壑区。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3生态系统类型因子评价",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "生态系统不仅为人类提供生存所必需的食物、医药及其他生产生活原料，更重要的是保障人类赖以生存和发展的地球生命系统的正常运转[23]。过去人类对生态系统的重要性了解不足，导致了生态环境的破坏，从而损害了生态系统功能。因此，重视生态系统的保护成为迫在眉睫的任务之一。本研究利用中国科学院资源环境科学数据中心的2010年中国陆地生态系统类型空间分布数据，获取生态系统类型空间分布情况（图4）。由图4可以看出，森林生态系统主要分布于研究区中部及南部秦岭山区。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.4冬春季风速大于 ${ \\bf 6 } \\ \\mathbf { m } \\cdot \\mathbf { s } ^ { - 1 }$ 天数因子评价 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "大风吹失土壤耕作层中的细土和养分,使心土甚至岩石裸露，降低土地生产力，同时，所产生的尘埃沙土进入大气，造成环境污染。对于干旱半干旱区，风力侵蚀是一个不容忽视的生态问题。本研究利用ArcGIS对研究区内及其周边110个主要气象站点2000—2015 年的年均冬春季风速大于 $6 \\mathrm { ~ m ~ } \\cdot$ s-的天数进行简单克里金插值,得到其空间分布情况（图5）。由图5可以看出，研究区的北部与西北部大风天数较多。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f1591ede4f833ec2fcc2f4988574471ebc2168f6739b4a55e60794d20917c64.jpg",
+        "img_caption": [
+            "图2渭河流域干燥度指数分布示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ed681ec5a7bdee8d2cffeb3878916aa397d901ae764db1290d20fe03677e4ad8.jpg",
+        "img_caption": [
+            "Fig.2Distribution of aridity index in the Weihe River Basin ",
+            "图3渭河流域土地利用类型分布示意图Fig.3Distribution of land use types in theWeiheRiverBasin"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/878ab98c3a46617dcf9e3f82878cef941678f57c9b07f32d6ee35bc9403aa2c7.jpg",
+        "img_caption": [
+            "图4渭河流域生态系统类型分布示意图Fig.4Distribution of ecosystem types in theWeihe River Basin"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a0e4b4217199d8d0e4be28e23d05065d89833bef8e9fd1c4a8f4bbd1cfd34c8a.jpg",
+        "img_caption": [
+            "图5渭河流域冬春季风速大于 $6 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 天数分布示意图 Fig.5Distribution of the days with wind speed higher than $6 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ in the Weihe River Basin in winter and spring "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.5植被覆盖度因子评价 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "植被覆盖度指绿色植被在地面的垂直投影面积占整个研究区总面积的百分比。植被作为陆地生态系统的重要组成部分，是连接土壤、大气和水分等要素的自然纽带[24]。植被覆盖度是描述生态系统的重要基础数据。获取区域植被覆盖状况，对揭示地表植被变化及植被动态变化趋势、分析评价区域生态环境具有深远意义。本研究利用归一化差分植被指数(NDVI)近似估算植被覆盖度的方法，其计算公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV F C = \\left( V - V _ { \\mathrm { m i n } } \\right) / \\left( \\ : V _ { \\mathrm { m a x } } - V _ { \\mathrm { m i n } } \\right) \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mathit { V F C }$ 为植被覆盖度 $( \\% ) ; V$ 为研究区NDVI数据； $V _ { \\mathrm { m i n } }$ 为研究区最小NDVI值; $V _ { \\mathrm { m a x } }$ 为研究区最大NDVI值。利用ENVI5.3遥感图像处理软件计算植被覆盖度，并将研究区的植被覆盖度分为10个区间(图6)。由图6可以看出，研究区南部植被覆盖度较高，北部则较低，大致呈现出从南往北依次递减。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.6土壤侵蚀模数因子评价 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤侵蚀是指在水力、风力、冻融或重力等外力作用下，土壤及其母质遭到破坏、搬运与堆积的过程。通常情况下，主要影响因素为气候、水文、植被、地貌以及人类活动。严重的土壤侵蚀会引起土壤退化、土地生产力降低、各种山地灾害等，严重制约生态经济的可持续发展。目前，土壤侵蚀是我国陆地生态环境的主要危害，也是全球重要的生态环境问题之一。本研究利用中国科学院资源环境科学数据中心的土壤侵蚀模数数据,得到土壤侵蚀空间分布图（图7）。由图7可以看出，研究区南部土壤侵蚀程度较低，北部则较高，大致呈现出由南往北逐渐加强的趋势。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/419a9092283a4a458a98b339c26bbc894707ae060cc4dad68672e72bb3b8d324.jpg",
+        "img_caption": [
+            "图6渭河流域植被覆盖度分布示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/88082a155fd55e2a5e3b8778fa4a81d442feb78eff5a9b75b343184c388272ac.jpg",
+        "img_caption": [
+            "Fig.6Distribution of vegetation coverage in the Weihe River Basin ",
+            "图7渭河流域土壤侵蚀模数分布示意图 Fig.7Distribution of soil erosion modulus in the Weihe River Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4生态功能区划 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "依据生态功能区划的原则、指标体系及其对各生态环境因子的评价，将研究区划分为7大生态功能区。在生态功能区划中，对各生态功能区的命名需遵循以下几个原则：文字简明扼要，易于被接受;可以体现各区的主导生态功能或主要生态问题；各区的名称要能相互对应。基于此，将各生态功能区命名为：防旱抗旱区、农业种植区、牧业发展区、水源涵养区、防风固沙区、植被保护区、土壤侵蚀控制区（图8）。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4c2605bc8ad7640e4c7ca30698a675e26ae3d20ab93d5ec894c986fad16fcb49.jpg",
+        "img_caption": [
+            "图8渭河流域生态功能区划",
+            "Fig.8Regionalization of ecological functions in the WeiheRiver Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "同时，针对各功能区的主导生态功能或主要生态问题，提出生态环境保护与建设重点：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1）防旱抗旱区：主要分布于研究区北部，即环县、定边县和盐池县的小部分地区，面积约为 $1 . 1 3 \\times$ $1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ,占研究区总面积的 $8 . 3 5 \\%$ 。该区域年均降水量少、年均气温较高，因此干旱明显。干旱对农业生产以及人类活动影响较大，需加以重视。生态环境保护与建设重点为合理规划草地与耕地资源，栽培耐旱植被,严禁随意砍伐植被,合理控制载畜量，防止土壤干旱化的加剧。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2）农业种植区：主要分布于研究区西部黄土丘陵沟壑区和中部关中平原地区，面积约为 $4 . 0 1 \\times$ $1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ,占研究区总面积的 $2 9 . 6 8 \\%$ 。根据区域内的地形差异,将该区细分为平原农业种植区和高原农业种植区两个部分。其中，平原农业种植区主要分布于岐山县、乾县、礼泉县、泾阳县、三原县、蒲城、渭南市等,面积约为 $1 . 8 3 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ,占研究区总面积的 $8 . 3 5 \\%$ ，高原农业种植区主要分布于陇西县、通渭县、庄浪县、武山县、甘谷县等，面积约为$2 . 1 8 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ，占研究区总面积的 $1 6 . 1 3 \\%$ 。生态环境保护与建设重点为提高耕地质量，针对不同地形合理规划农业产业结构，健全相关农业政策，科学",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "发展农业种植。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）牧业发展区：主要分布于研究区中部，即灵台县、麟游县、崇信县、彭阳县等，面积约为 $1 . 4 8 \\times$ $1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ,占研究区总面积的 $1 0 . 9 4 \\%$ 。该区域草地资源丰富，适宜发展畜牧业。生态环境保护与建设重点为充分发挥区域的农牧交错饲草、秸秆资源充裕优势，推进优质饲草基地和肉羊肉牛生产基地建设，继续发挥畜牧业在陕西省农业经济发展中的重要支撑作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（4）水源涵养区：主要分布于研究区南部秦岭山区，即太白县、眉县、周至县、户县、长安县、蓝田县等,面积约为 $1 . 3 4 \\times 1 0 ^ { 4 } \\ \\mathrm { k m } ^ { 2 }$ ，占研究区总面积的$9 . 9 3 \\%$ 。该区域不仅具有较高的森林覆盖率,且年降水量较其他地区更为丰富，同时有若干水库分布其中，具有重要的生态功能，是关中地区的生态屏障和水源涵养地。生态环境保护与建设重点为建立专业化植被保护区与国家级森林公园，大力发展水源涵养工程建设，充分发挥其涵养水源、调洪削峰、净化水质与防治土壤侵蚀的功能。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（5）防风固沙区：主要分布于研究区西北部，即静宁县、西吉县、隆德县等,面积约为 $8 \\ 2 0 0 \\ \\mathrm { k m } ^ { 2 }$ ，占研究区总面积的 $6 . 3 1 \\%$ 。该区域冬春季节的大风天数较多，风力侵蚀较为严重。生态环境保护与建设重点为播种沙生植物，营造防风固沙林，阻止土地沙化及改善沙化土地，设置沙障以削弱侵蚀，同时沙障可以有效截留降雨，有利于植物生长。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(6）植被保护区：主要分布于研究区东北部，即甘泉县、富县、洛川县、黄陵县、黄龙县、宜君县、耀县、白水县、旬邑县等,面积约为 $2 . 2 1 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ，占研究区总面积的 $1 6 . 3 6 \\%$ 。该区域植被覆盖度达到$8 0 \\%$ 以上，因此,应在保持现状的基础上加强绿化。生态环境保护与建设重点为保护现有植被，持续加强绿化，合理维护植被资源，营造水土保持林与水源涵养林。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（7）土壤侵蚀控制区：主要分布于研究区中部与北部,即吴旗县、志丹县、华池县、合水县、庆阳县、镇原县等,面积约为 $2 . 4 9 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ,占研究区总面积的 $1 8 . 4 3 \\%$ 。该区域地处黄土高原中部地带，璨峁起伏，沟壑纵横，土壤侵蚀状况较为严峻。生态环境保护与建设重点为保护和合理利用水土资源，以水利工程、生物工程和农业工程相结合的技术综合治理土壤侵蚀。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5结论与讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以RS和GIS技术为基础，以区域生态环境现状为依据，结合生态功能区划原则，建立科学合理的指标体系，对各生态环境因子进行评价，根据评价结果将渭河流域划分为7个生态功能区。在生态功能重叠的区域，依照主导生态功能优先的原则对其进行划分，同时，根据行政界限进行适当调整，保证行政辖区在空间上的连续性，方便行政区对区域进行统一的规划与管理。最后，针对不同的生态功能区，制定科学合理的生态环境保护与建设重点。本文通过对渭河流域生态功能区划的研究，基于单个的生态环境评价因子划分生态功能区，充分考虑了区域特征及空间差异性，为有效开发与利用区域资源，合理规划生态环境，提高生态经济效益，全面实现可持续发展战略提供科学依据。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在研究过程中，认为还有一些问题值得商榷： $\\textcircled{1}$ 指标体系的选取是生态功能区划最关键的部分。在选取评价因子和确定分区阈值的过程中，如何能够做到科学合理，避免主观影响，还有待进一步完善。$\\textcircled{2}$ 在生态功能重叠的区域，选择主导生态功能进行划分时，具有一定的主观性，如何根据各生态功能的重要性大小精确地确定主导生态功能，还有待进行相关研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）:",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]刘木生,林联盛,郭秋忠.基于GIS 的生态功能分区技术方法 当议[J].江西农业学报，2008，20（10）：111-113.[LiuMusheng,Lin Liansheng,Guo Qiuzhong.Discussion on technical route for ecological function regionalization based on GIS[J].Acta Agriculturae Jiangxi,2008,20（10）:111-113.]   \n[2] 欧阳志云，王效科，苗鸿.中国生态环境敏感性及其区域差异 规律研究〔J].生态学报,2000,20（1）：10－13.[Ouyang Zhiyun,Wang Xiaoke,Miao Hong.China's eco-environmental sensitivity and itsspatial heterogeneity[J].Acta Ecologica Sinica, 2000,20(1):10-13.]   \n[3] 贾良清，欧阳志云，赵同谦，等.安徽省生态功能区划研究[J]. 生态学报,2005,25（2）:254－260.［Jia Liangqing,Ouyang Zhiyun,Zhao Tongqian,et al.The ecological function regionalization of Anhui Province[J].Acta Ecologica Sinica,20o5,25（2）： 254 -260.]   \n[4]汤小华．福建省生态功能区划研究[D].福建：福建师范大学, 2005.［Tang Xiaohua.The Ecological Function Regionalization of FujianProvince[D].Fujian:Fujian Normal University,2005.]   \n[5]Bailey R G.Map:Ecoregion of the United States at 1:7500000 [Z].Ogden: US Department of Agriculture and Forest Service, 1976.   \n[6]宋小叶,王慧,袁兴中,等.国内外生态功能区划理论研究[J]. 资源开发与市场,2016,32（2）：170-173,212.[Song Xiaoye, Wang Hui,Yuan Xingzhong,et al.Research on theory of ecological functinregionalization at homeandabroad[J].Resource Development& Market,2016,32(2）:170-173,212.]   \n[7］欧阳志云,王效科,苗鸿.中国陆地生态系统服务功能及其生 态经济价值的初步研究〔J].生态学报,1999,19（5）：607- 613.[Ouyang Zhiyun,Wang Xiaoke,Miao Hong.A primary study on Chinese terrestrial ecosystem services and their ecological-economic values[J].Acta Ecologica Sinica,1999,19（5）: 607- 613.]   \n[8］欧阳志云,王如松.区域生态规划理论与方法[M].北京：化学 工业出版社,20o5.[Ouyang Zhiyun,Wang Rusong.Regional Ecological Planning Theory and Eethod[M].Beijing:Chemical Industry Press,2005.]   \n[9]杨勤业,李双成.中国生态地域划分的若干问题[J].生态学 报,1999,19（5）:8-13.[Yang Qinye,Li Shuangcheng.Some themes on eco-regionalization of China[J].Acta Ecologica Sinica, 1999,19(5) :8 -13. ]   \n[10]傅伯杰,陈利顶,刘国华.中国生态区划的目的、任务及特点 [J].生态学报,1999,19（5）:3-7.［FuBojie,ChenLiding,Liu Guohua.The objectives,tasks and characteristics of China ecological regionalization[J].Acta Ecologica Sinica,1999,19(5）:3-7.]   \n[11］傅伯杰,刘国华,陈利顶,等.中国生态区划方案[J].生态学 报,2001,21（1）:1-6.[Fu Bojie,Liu Guohua,Chen Liding,et al. Scheme of ecological regionalization in China[J].Acta Ecologica Sinica,2001,21(1):1-6.]   \n[12]傅伯杰,刘国华,欧阳志云,等.中国生态区划研究[M].北京： 科学出版社,2O13.[Fu Bojie,Liu Guohua,Ouyang Zhiyun,et al. Research on China's Ecological Regionalization[M].Beijing:Science Press,2013.]   \n[13］刘胤汉,管海晏,岳大鹏,等.陕西省生态环境综合分区研究 [J].陕西师范大学学报（自然科学版）,2002,30（2）：109- 114.[Liu Yinhan,Guan Haiyan,Yue Dapeng,et al. Study on comprehensive regionalization of ecological environment in Shaanxi Province[J].Journal of Shaanxi Normal University（Natural Science Edition）,2002,30(2）:109-114.]   \n[14］乔丽,杜继稳,江志红,等.陕西省生态农业干旱区划研究[J]. 干旱区地理,2009,32（1）:112-118.[Qiao Li,Du Jiwen,Jiang Zhihong,etal.Clasificationofologicalagculuredohtsin Shaanxi Province[J].Arid LandGeography,209,3（1）:1 118.]   \n[15］张兵,金凤君,胡德勇.甘肃中部地区生态安全评价[J].自然 灾害学报,2007,16（5）:9-15.[Zhang Bing,Jin Fengjun,Hu Deyong. Assessment of ecological security in middle part of Gansu Province[J].Journal of Natural Disasters,20O7,16(5）:9-15.]   \n[16]郎勇设,柳辉,黄志刚.宁夏生态功能区划研究[J].宁夏大学 学报（自然科学版）,2009,30（1）:85-90.[Lang Yongshe,Liu Hui,Huang Zhigang. Ecological function regionalization and application of Ningxia Province[J]. Journal of Ningxia University(Natural Science Edition）,2009,30(1） :85-90.]   \n[17］李谢辉,王磊,李景宜.基于GIS 的渭河下游河流沿线区域生 态风险评价[J].生态学报,2009,29（10）：5 523-5 534.[Li Xiehui,Wang Lei,LiJingyiRegional ecologicalriskasesntin catchment area along the Weihe River based on GIS[J].Acta Ecologica Sinica,2009,29(10）:5 523-5 534.]   \n[18］曹小娟,曾光明,张硕辅,等.基于RS 和GIS 的长沙市生态功 能分区[J].应用生态学报,2006,17（7）：1269-1273.[Cao Xiaojuan,Zeng Guangming,Zhang Shuofu,et al.Ecological func tional regionalization of Changsha City based on RS and GIS[J]. Chinese Journal of Applied Ecology,2006,17（7）:1 269-1 273.]   \n[19］王传辉,吴立,王心源,等.基于遥感和GIS 的巢湖流域生态功 能分区研究[J].生态学报,2013,33（18）：5 808－5 817. [Wang Chuanhui,Wu Li,Wang Xinyuan,et al. Rs-and GIS-based study on ecological function regionalization in the Chaohu Lake Basin,Anhui Province,China[J].Acta Ecologica Sinica,2O13,33 (18):5 808 -5 817.]   \n[20]蔡佳亮,殷贺,黄艺.生态功能区划理论研究进展[J].生态学 报,2010,30(11）:3018-3027.[Cai Jialiang,Yin He,Huang Yi.Ecological function regionalization:A review[J].Acta Ecologica Sinica,2010,30(11）:3 018-3 027.]   \n[21］王丽霞,钟旭珍,刘招,等.关中－天水经济区生态环境功能分 区研究[J].环境污染与防治,2018,40（7）:843－848.[Wang Lixia,Zhong Xuzhen,Liu Zhao,et al.Study on the ecological environment function regionalization of Guanzhong-Tianshui economic region[J]. Environmental Pollution Control,2018,40（7）:843- 848.]   \n[22］孟猛,宗美娟.利用de Martonne 方法对我国20 世纪干旱化趋 势的研究[J].水土保持研究,2018,25（3）:128－132.[Meng Meng,Zong Meijuan.Study of aridity trend of China in $2 0 ^ { \\mathrm { t h } }$ Century by using de Martonne method[J].Research of Soil and Water Conservation,2018,25(3）:128-132.]   \n[23]Nunez D,Nahuelhual L,Oyarzun C. Forests and water:The value of native temperate forests insupplying water for human consumption[J].Ecological Economics,2006,58(3）:606-616.   \n[24］陈登魁,马超,王夏冰,等.1982—2015 年可可西里 NDVI变化 特征及其气候响应[J].干旱区研究,2018,35（6):1 410- 1 417.[Chen Dengkui,Ma Chao,Wang Xiabing,et al.Variation of NDVI and its repose to climate change in Hoh Xil during the period of 1982-2015[J].Arid Zone Research,2018,35(6):1 410 - 1 417. ] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Ecological Function Regionalization in the Weihe River Basin ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "VANG Li-xia’， ZHANG Ming-shuang²， SUI Li-chun1,3， ZHANG Shuang-cheng'， YANG Yun' (1.School of Geologic Engineringand Geomatics,Chang'an University,Xi'an 710o54,Shaanxi,China;   \n2.School of Earth Science and Resources,Chang'an University,Xi'an 71oo54,Shaanxi,China;   \n3.NationalAdministrationof Surveying,MapingandGeoinformation,Enginering Research Centerof Geographc National Conditions Monitoring,Xi'an 710o54,Shaanxi,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Ecological function regionalization is the basis for scientific management and sustainable exploitation of natural resources.Inthis study,the Weihe River Basin was taken asthe research object to develop areasonable index system according to the current ecological environment in the drainage basin,andthe GIS and RS means were used to regionalizethe study area.Moreover,the emphases of conservation and construction of the ecological environment were worked out based on considering the dominant ecological functions orthe main ecological problems in each functional area.The results showed thatthe Weihe River Basin couldbe divided into sevenecological functional zones,and the corresponding construction priorities were formulated : $\\textcircled{1}$ Drought prevention and control zone ：It should be strictlyforbidden tocutdown vegetation,and thedrought-tolerant vegetationshouldbeadvisablycultivated for preventing soil drought ; $\\textcircled{2}$ Farming zone:The agricultural structure should be rationally adjusted ; $\\textcircled{3}$ Animal husbandry development zone:The advantages of agro-pastoral ecotone should be paid great attention to; $\\textcircled{4}$ Water conservation zone:It was suggested to establish thevegetation protection areas and national forest parksand vigorously develop the water conservation projects ; $\\textcircled{5}$ Wind prevention and sand fixation zone:It was suggested to plant sand-fixing plants and prevent land desertification ; $\\textcircled{6}$ Vegetation protection zone :It was suggested to protect the existing vegetation,continuously strengthen greening,and reasonably maintain the vegetation resources ; $\\textcircled{7}$ Soil erosion control zone:It was suggested to protect and rationally exploit the water and soil resources.The study results could provide a scientific basis for efectively exploiting and utilizing the natural resources and rationally taking some measures to protect the ecological environment in the study area. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words:Weihe River Basin；ecological function regionalization；spatial analysis；ecological environment; construction emphasis ",
+        "page_idx": 7
+    }
+]

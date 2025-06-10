@@ -1,0 +1,189 @@
+# DOI:10.5846/stxb201509251968
+
+顾峰雪,黄玫,张远东,李洁,郭瑞,严昌荣.氮输入对东北土壤碳蓄积氮素利用效率的影响.生态学报,2017,37(8)：2770-2778.GuFX,HagaDisflscEcologica Sinica,2017,37(8):2770-2778.
+
+# 氮输入对东北土壤碳蓄积氮素利用效率的影响
+
+顾峰雪},黄 玫²，张远东3，\*，李 洁，郭 瑞1,严昌荣1
+
+1中国农业科学院农业环境与可持续发展研究所,农业部旱作节水农业重点实验室,北京100081  
+2中国科学院地理科学与资源研究所生态系统观测与模拟重点实验室，北京100101  
+3中国林业科学研究院森林生态环境与保护研究所，国家林业局森林生态环境重点实验室,北京100091
+
+摘要;由于人类活动影响,通过沉降和施肥方式进入生态系统的活性氮显著增加，其对土壤有机碳库产生重要影响。氮素利用效率(NUE)作为深入理解陆地生态系统碳氮耦合关系的重要参数，对NUE时空规律的研究不仅可以评估目前氮输人对陆地生态系统碳汇增加的贡献,同时也有助于预测未来氮输入情况下陆地生态系统的碳平衡。利用生态系统过程模型——CEVSA2模型的模拟结果,分析了东北地区氮输入情况下,土壤碳的氮素利用效率(SNUE)的时空变化规律及其影响因素,结果表明：(1)1961—2010年,氮输入的显著增加促进了土壤碳的蓄积,但 SNUE 显著下降;(2)森林的平均 SNUE 最高,农田最低;灌丛的下降速率最大,森林的SNUE变化趋势最不显著；（3)三江平原和长白山地区以及大小兴安岭的部分地区SNUE最大，其次是辽河平原、松嫩平原地区;内蒙古高原、呼伦贝尔高原地区以及大、小兴安岭的部分地区SNUE 出现负值,说明在这些地区,外援氮输入抑制了土壤碳的蓄积;(4)氮输入的空间分异和不同生态系统响应氮输人的差异共同决定了SNUE 及其变化的空间格局。该研究结果可为进一步分析不同区域氮促汇潜力和预测未来氮输入情景下的区域碳平衡提供参考。
+
+关键词：氮沉降；施肥;氮素利用效率；土壤有机碳密度;CEVSA2模型；东北
+
+# Effects of nitrogen input on nitrogen use efficiency of soil carbon storage in Northeast China
+
+GU Fengxue’，HUANG Mei²，ZHANG Yuandong³，\*，LI Jie'，GUO Rui’，YAN Changrong'
+
+1KeLborttftdbetf Agricultural Sciences，Beijing 10oo81,China   
+2KeyLaboratorofostetkOeatdd，stuteofacecsdturalResouesesechdef Sciences Beijing 100101,China   
+3KeyLaboratostodotttestmtstfdote Academy ofForestry，Beijing 100091,China
+
+Abstract：Anthropogenicactivities havealtered theglobal nitrogen（N）cycle，leading to increasedNinput into the ecosystemthroughNdepositionandtheuseofNfertilizers.Nitrogenisconsidered tobethe limitingfactorof plantgrowth in many ecosystems；therefore,the increased N input into ecosystems hasanimportant impacton thecarbon cycle andcarbon accumulation.Nuse eficiency（NUE）canbeanimportant indicatorforthecoupling relationshipbetween ecosystemcarbon and nitrogen cycles.Studiesonthetemporaland spatial paternsof NUEwillaidinassessing thecontributionofNinputto increasesintheterrestrialecosystemcarbonsink，and topredictthecarbonbalanceof terrestrialecosystemsunderdifferent N input increase scenarios.Weuseanewlydeveloped process-based ecosystem model，CEVSA2,tostudythespatial and temporal variation in Nuseeficiency of soil carbon storage（SNUE）in Northeast China during 1961—2010，and to examinethe efects ofN input and vegetation typeson SNUE.Our model simulations show that：（1）enhancedN input inducedmore soil carbonstorage inthe Northeast，but it decreased SNUE greatly.（2）Diferent vegetation types ledto diffrent SNUEs；forest had the highest SNUE and cropland had the lowest SNUE.The SNUEsof allvegetation types decreased with an increase in Ninput；however,the forest hadthe most stable SNUEcompared to other vegetation types. The SNUE of shrubland decreased significantly during the early periodof the past 5O years.（3）SNUE was the highest in theSanjiang Plain,the Changbai Mountains，and parts ofthe Daxinganling and Xiaoxinganling regions.SNUE wasnegative inthe Inner Mongolia Plateau，Hunlun Buir Plateau，and partsofthe Daxinganlingand Xiaoxinganling regions.This indicatesthat exogenousNinput decreased thestorageof soilcarbon.（4）Thevariations inNinputandthedifferent responsesof diferent vegetation typetoNinput impacted thespatialpattemof SNUE.TheefectsofNinputonsoilcarbon accumulationarealsoafectedbycomplex ecological processes.Thecomplex responsesandadaptationof soil processes toN addition willresultinuncertain predictions forlong-term changes ifthe modelisbasedon short termobservationresults. Furthereffortsarerequiredonthe mechanismsofresponses of soil processs toallenvironmental changes inorderto accurately predict the effects that continued N addition will have on soil carbon storage in the future.
+
+KeyWords：nitrogen deposition；fertilization；nitrogen useeficiency；soil carbondensity；CEVSA2 model；Northeast
+
+由于化石燃料燃烧,施肥和畜牧业的发展,使得大气氮沉降的速率呈线性趋势增长[1-5],对生态系统的结构、生产力、碳储量和碳汇强度等产生了深刻影响[67]。土壤有机碳库作为全球最大的碳库,其积累与稳定性对氮输入的响应备受关注[8]。氮输入对土壤碳库影响的试验观测结果包含了显著增加[9-13]、降低[1416]和影响不显著[17-22]的所有情况,出现这种差异的原因主要是生态系统类型、土壤深度、土壤碳测定方法,氮添加浓度、种类和土壤碳组分等方面的差异[8.23-25],是氮输入影响下土壤碳输入和输出平衡的结果[8,26]。研究区域土壤有机碳库对氮输入的响应,对于分析区域的氮促汇潜力和评估未来氮输入条件下的区域碳平衡具有重要意义。
+
+陆地生态系统碳、氮循环是相互作用、紧密联系的两个过程,碳的积累与氮的供应密切相关[8.7],碳氮耦合关系是相关学科的重点研究内容。氮素利用效率(NUE)可以作为深入理解陆地生态系统碳氮耦合关系的重要参数,对NUE时空规律的研究不仅可以评估目前氮输入对陆地生态系统碳汇增加的贡献,同时也有助于预测未来氮输人情况下陆地生态系统的碳平衡[28]。不同学科、角度和尺度,对 NUE 的定义和描述具有较大差异。在本研究中,定义土壤碳的氮素利用效率(SNUE)为单位氮输入引起的土壤碳密度变化量。由于输入氮的去向和生态系统响应的差异等,生态系统尺度上NUE存在较大的变异性[29]。目前对区域氮输入增加条件下，SNUE的时间变化和空间分异特征及其影响因素还缺乏分析研究。
+
+东北作为中国重要的商品粮基地和天然林区,其土壤有机碳库占中国土壤有机碳储量的 $1 5 \%$ 左右[5,30]在区域碳平衡和氮促汇过程中具有重要作用。基于CEVSA2 模型模拟分析了氮输人对东北地区土壤碳蓄积时空格局的影响,结果表明1961—2010 年氮输入共增加土壤碳蓄积 $0 . 1 6 \ \mathrm { P g C } ^ { [ 5 ] }$ 。本文基于CEVSA2已有的模拟结果,分析了氮输入下SNUE的时空动态及其变化，以及氮输入和植被类型等因素对SNUE时空变化的影响,为进一步分析不同区域氮促汇的潜力和预测未来氮输入情景下的区域碳平衡奠定基础。
+
+# 1研究方法
+
+# 1.1 研究区域简介
+
+本研究中，东北地区 $( 3 8 ^ { \circ } 4 8 ^ { \prime } - 5 3 ^ { \circ } 3 3 ^ { \prime } \mathrm { N } , 1 1 5 ^ { \circ } 3 1 ^ { \prime } - 1 3 5 ^ { \circ } 0 5 ^ { \prime } \mathrm { E } )$ 主要包括黑龙江、吉林、辽宁以及内蒙古地区东北部,北部与俄罗斯接壤,东南部与朝鲜半岛相接,南部滨临中国渤海和黄海[31]。本研究中统计的总面积为 $1 1 . 7 3 \times 1 0 ^ { 5 } \mathrm { k m } ^ { 2 }$ 。东北是世界三大黑土带之一[32]。分布着中国最大的天然林区,全区森林面积占全国森林
+
+总面积的 $3 7 \%$ ,占全国木材总蓄积量的三分之一[33]。东北也是我国重要的商品粮基地,玉米、大豆等作物播种面积均占全国首位[34]。东北陆地生态系统的土壤有机碳库储量为 $2 6 . 4 3 ~ \mathrm { P g C }$ ,在全球碳库预算中起着举足轻重的作用[30]。
+
+# 1.2 数据来源
+
+1.2.1气候、 $\mathrm { C O } _ { 2 }$ 、土壤类型和土壤质地、植被类型数据
+
+模型中所使用的气象数据来自于国家气象信息中心,包括1961—2010 年全国756个气象台站的每旬平均气温、降水量、云量和相对湿度。大气 $\mathrm { C O } _ { 2 }$ 浓度资料来源于美国夏威夷Mauna Loa 观测所（http://co2now.org/Current-CO2/CO2-Now/noaa-mauna-loa-co2-data.html）。土壤类型和质地资料取自1:1400000 土壤类型图和第二次土壤普查数据,对其进行数字化并重采样到 $0 . 1 ^ { \circ }$ 。植被数据来自于GlobalLandCover 2OOO 数据库（http://bioval.jrc.ec.europa.eu/products/glc20o0/glc2000.php）,共有 22 种土地覆被类型。
+
+# 1.2.2氮输入相关数据：施肥、能源消费和氮沉降
+
+本研究中,自然生态系统(森林、灌丛、草地)的氮输入是指通过干、湿沉降途径进入生态系统的无机氮，而农田生态系统还包含了通过施肥方式进入生态系统的无机氮。施肥数据来自于县级单元的统计资料（NBS,htp://www.stats.gov.cn/）,折合成单位面积施用的纯氮量,结合2000 年中国土地利用图进行空间化得到过去50年施肥的 $0 . 1 ^ { \circ }$ 时空网格数据[5]。氮沉降数据根据栅格化的降水、施肥和能源消费数据（NBS,http://www.stats.gov.cn/)在模型中运行得到[5]。东北地区1961至 2010年,氮沉降由 $0 . 3 \ \mathrm { g N m } ^ { - 2 } \mathrm { a } ^ { - 1 }$ 增加到$1 . 6 5 \ \mathrm { g N m } ^ { - 2 } \mathrm { a } ^ { - 1 }$ 。至 2000 年,农田区域氮沉降普遍达到 $2 . 0 \ \mathrm { g N m } ^ { - 2 } \mathrm { a } ^ { - 1 }$ 以上,在大小兴安岭和长白山等森林和草地分布区,氮沉降相对较小,普遍在 $0 . 7 5 \ \mathrm { g N m } ^ { - 2 } \mathrm { a } ^ { - 1 }$ 以下（图1)。东北地区农田的施肥以氮肥为主,过去50 年，农田的施氮量由 $1 . 7 2 \ \mathrm { g N m } ^ { - 2 } \mathrm { a } ^ { - 1 }$ 增加至 $1 3 . 8 2 ~ \mathrm { g N m } ^ { - 2 } \mathrm { a } ^ { - 1 }$ ,其中松嫩平原和辽河平原农田的施氮量普遍较高,在（204号 $5 . 0 \ \mathrm { g N m } ^ { - 2 } \mathrm { a } ^ { - 1 }$ 以上,部分地区的施氮量超过 $1 0 \ \mathrm { g N m } ^ { - 2 } \mathrm { a } ^ { - 1 }$ ;三江平原的农田施氮量相对较低,在 $0 { - } 5 ~ \mathrm { g N m } ^ { - 2 } \mathrm { a } ^ { - 1 }$ （图1)[5]。
+
+![](images/db6ee06e72819cbe086adae9b656db5316b04329ea35b11c54a117390e2901f8.jpg)  
+图1东北地区2001—2010年氮沉降和2001—2008年施氮量的空间格局  
+Fig.1 Spatial patterns of nitrogen deposition during 2001—2010 and fertilization during 2001—2008 in Northea
+
+# 1.3 CEVSA2模型简介和验证
+
+CEVSA2模型是一个基于生理生态过程模拟植物-土壤-大气系统能量交换和水碳氮耦合循环的生物地球化学循环模型。CEVSA2模型基于目前已有的机理发现,包含了氮对光合、呼吸、分配和土壤碳分解等碳循环关键过程的影响模拟，从而能够很好地表达氮输入变化对于碳循环过程的影响。在空间模拟过程中输入数据和参数易于获取且空间分辨率较高。本研究构建了一个基于降水、施肥和能源消费模拟无机氮沉降的简单方法,该方法不仅能够评价区域氮沉降的时空格局,且能够实现不同情景下氮沉降时空格局的预测[35]。
+
+以往的研究已经利用多尺度多途径的观测数据对模型的模拟效果进行了验证[36-38]。另外,通过在海伦和公主岭两个站点长期施肥的试验数据[39-40]对模型的验证结果表明[5],CEVSA2模型在上述两个站点模拟的相对误差分别在 $6 . 8 4 \%$ 和 $1 5 . 3 9 \%$ ,模拟与试验的组间方差均小于两地试验的组内方差,因此，CEVSA2模型可以很好地模拟东北地区农田土壤碳对氮输入的响应[5]。
+
+# 1.4SNUE 的计算方法
+
+本研究定义 SNUE 为单位氮输入引起的土壤碳密度变化量,基于土壤碳密度的变化计算 SNUE( $\mathrm { \underline { { g C } } / \underline { { g N } } } \mathrm { \cdot }$ ），即土壤碳密度的变化量除以氮输入量，
+
+$$
+\mathrm { S N U E = s o i l C _ { \mathrm { d } } / N _ { \mathrm { i n p u t } } }
+$$
+
+式中， $\mathrm { s o i l C _ { \mathrm { c h } } }$ 为氮输入引起的土壤碳密度的变化； $\mathrm { \Delta N _ { i n p u t } }$ 为氮输入量。为分析氮输入的影响，设置了包含(1)和不包含氮输入(2)的两个模拟情景。利用情景(1)和情景(2)的土壤碳密度的差值作为氮输人引起土壤碳密度的变化量，不同年份的土壤碳密度的变化量( $\mathrm { \Delta [ s o i l C _ { \mathrm { c h } } }$ )为当年的氮输入引起的土壤碳密度量变化量减去前一年的土壤碳密度变化量。氮输入量( $\bf { N } _ { \mathrm { { i n p u t } } }$ )为相应年份氮输入速率的变化量。
+
+# 2结果与讨论
+
+# 2.1 SNUE的时间变化
+
+1961一2010年，中国东北地区的氮输入速率呈增加的趋势，而SNUE则显著下降（图2）。1961—1980年，氮输入水平较低且相对稳定，但SNUE显著下降，而在20世纪80年代后，氮输人呈线性增长趋势，而SNUE则相对稳定，下降趋势不显著。研究时段内，平均的SNUE为 $1 7 . 7 7 \ \mathrm { g C / g N }$ 。DeVries等[41]的研究表明,2.8$ { \mathrm { k g N } } /  { \mathrm { h m } } ^ { 2 }$ 的外源氮输入引起的土壤蓄积量为 $4 2 \mathrm { \ k g C } /$ $\mathrm { { h m } } ^ { 2 }$ ,相当于 SNUE 为 $1 5 \ \mathrm { g C / g N }$ 。Nadelhoffer 等[42]通过一系列的同位素示踪试验表明，只有小部分外源氮输入储存在土壤中，大部分（约 $70 \%$ )氮输入固持在 $\mathrm { C } / \mathrm { N }$ 比仅为10—30 的土壤中，SNUE 为 $2 1 \ \mathrm { g C } / \mathrm { g N }$ 。Wamelink等[43]的模拟研究表明,SNUE 大多变化在1— $2 0 ~ \mathrm { g C }$ $\mathrm { \bf g N }$ ,有时会超过 $3 0 ~ \mathrm { g C / g N }$ 。卢蒙通过整合分析发现,
+
+250 ·氮素利用效率。氮输入速率 8reeeeeee 200 y=0.0035x²-13.948x + 13734。 1 enoneepgtsnR²=0.97436150 0用 100 人舞5002-50 00080008889880 y=0.0806x²-322.56x+322784.R²=0.4151-100 1 01960 1970 1980 1990 2000 2010年份Year
+
+氮输入促进土壤碳平均增加了 $2 . 2 \%$ 。本研究中氮输入使得东北地区土壤碳密度平均增加了 $1 \%$ 。SNUE在已有的观测变化范围之内（氮添加下 SNUE 的范围在 $0 { - } 3 0 ~ \mathrm { g C / g N ^ { [ 2 9 , 4 1 , 4 4 - 4 5 ] } } \ \backslash$ 。不同研究估算的生态系统SNUE在方向和强度上存在显著差异，一是因为不同研究对NUE的定义和计算方法不同,更重要的是因为NUE 受到植被和多种环境因素的影响[28-29]。
+
+# 2.2 不同植被类型SNUE响应氮输入的差异
+
+氮输入使得农田生态系统的土壤碳密度增加量最大,显著高于灌丛、草地和森林[5」,这与卢蒙[的整合分析结果一致。但农田的SNUE最低,50 年平均为 $1 2 . 9 3 ~ \mathrm { g C / g N }$ ,森林的 SNUE 最高,达到 $4 1 . 7 0 ~ \mathrm { g C / g N }$ ，灌丛和草地的 SNUE 值分别为 $3 9 . 3 0 ~ \mathrm { g C / g N }$ 和 $3 6 . 1 2 ~ \mathrm { g C / g N }$ 。展小云的研究[28]也发现,森林的净初级生产力 NUE是农田的2倍。有研究表明,高施氮率下土壤碳库的增幅要大于中、低施氮率下的土壤碳增幅[23],长期施氮下的土壤碳库增幅也要大于中、短期土壤碳库的增幅[6]。农田在高的土壤碳库增幅条件下,由于氮输入量远高于森林和草地等自然生态系统,造成 SNUE率反而是最低的。另外,农田生态系统和其他自然生态系统相比,在人为干扰频率和强度、凋落物输入量和周转,土壤微生物区系和组成、碳氮本底、氮素周转速率等方面均存在巨大差异,这些差异均导致了农田生态系统与其他自然生态系统土壤碳库相关参数对氮输入的不同响应[6]。在相同氮输人条件下,不同类型生态系统由于土壤性质、有机质输入和环境特征等的差异,使得土壤碳的分解与积累对氮输入的响应存在差异[25]。
+
+不同植被类型的SNUE均随时间推移而下降,但不同时期的变化存在显著差异（图3)。,灌丛、草地和农田的 SNUE在1961—1980年间下降显著,1980年以后减幅变缓。森林 SNUE在1961到20世纪80年代中期均为缓慢增加,之后开始缓慢减小。分析结果表明,农田土壤碳对两种输入方式下的氮素利用效率差别不大，但氮沉降的氮素利用效率( $1 4 . 5 2 ~ \mathrm { g C / g N }$ )略高于施氮的氮素利用效率( $1 2 . 7 2 \ \mathrm { g C / g N ) }$ 。
+
+![](images/76e147aa67b34e21141cf88e82f93e07ada9c2d61d970708a71530d35b2ec73a.jpg)  
+图3不同植被类型SNUE的时间变化  
+Fig.3Temporal variations of SNUE among major biomes
+
+# 2.3SNUE及其变化趋势的空间格局
+
+东北有部分地区的 SNUE小于零（图4）,主要分布在内蒙古高原、呼伦贝尔高原以及大、小兴安岭的部分地区,说明在这些地区,外源氮输入抑制了土壤碳的蓄积。卢蒙[6的整合分析也发现,相比地上碳库的增加,土壤碳具有大量降低的情况。辽河平原、松嫩平原地区的 SNUE 在0 $- 2 0 ~ \mathrm { g C / g N }$ 之间,三江平原和长白山地区以及大小兴安岭的部分地区SNUE 达到了 $3 0 \ \mathrm { g C / g N }$ ,部分地区的SNUE 超过了 $5 0 \ \mathrm { g C / g N }$ 。氮输入对土壤碳的影响是非常复杂的生态学过程,不同区域和不同植被类型下,植物光合、生长、呼吸,凋落物产生量,微生物群落和数量等生态系统特征存在很大的差异,造成不同区域的生态系统对氮输入的响应及其SNUE存在较大差异[6]。
+
+从 SNUE 的变化趋势来看（图4），只有大小兴安岭、内蒙古高原的部分地区的 SNUE呈增加的变化趋势，这些区域本身也是氮沉降及其增长速率较小的地区,其余大部分地区的 SNUE呈现出下降的趋势。在三江平原和长白山区,部分地区的 SNUE 每年减少超过 $2 ~ \mathrm { g C / g N }$ ,有些地区的 SNUE 减少量甚至超过 $5 ~ \mathrm { g C / g N }$ 。
+
+![](images/d5c6333befef3b371cc2a4fba8b431172429737acaede3f92990e6f5dd7b14cc.jpg)  
+图4东北地区SNUE的空间分布及其变化趋势  
+Fig.4The spatial pattern and trend of SNUE in Northeast China during 1961—2010
+
+# 2.4 不确定性分析
+
+(1)不同植被类型的响应差异及其机制尚不明确
+
+土壤碳库对氮输入响应在空间分布与时间变化上的差异，一方面是由于不同区域的氮输入速率存在较大差异,另一方面是因为植被本身对外源氮输入的响应差异。目前关于不同植被下土壤有机碳库及其组分对氮输入的响应已有大量研究,在不同植被下的观测结果往往得出相互矛盾的结论,这可能与不同植被碳的固定、分配、土壤呼吸和根呼吸的不同过程,以及微生物活动对氮的反应不同有关[4647]。影响 NUE 的因素还包括植物体内次生代谢过程，低生产力物种每同化单位氮素所生产的生物量低于高生产力物种，因而导致其较低的$\mathrm { N U E } ^ { [ 6 ] }$ 。尽管不同研究发现了不同类型植被地上和地下碳库对氮输入响应的差异,目前却无法解释其响应差异的机制,有待于进一步的研究发现[48-49]。
+
+(2)土壤复杂非线性的响应造成利用短期试验的结果来预测长期的趋势存在较大的不确定性
+
+对于环境的长期变化和干扰,生态系统除了直接反应,还有复杂的适应性变化[50-51]。适应性变化发生在生态系统的各个层次,且在较长时间尺度上才表现出来。目前已有的试验研究,大部分时间较短,重点在于观测氮添加下土壤碳库及其组分的短期响应。尽管氮素作为限制因素,氮输入的增加能够显著增加生态系统的生产力[6],但也有观测发现,当叶片氮含量超过一定值后,光合速率不再增加,反而有下降趋势[52-54]。美国哈佛森林的氮添加长期试验结果表明,在高氮添加试验样地,氮添加显著降低了生态系统的净初级生产力,提高了植物的死亡率[5]。但许多模型模拟结果均表明,氮沉降具有显著的氮促汇作用[29,56-60],与部分试验观测结果差异显著。目前已有的机理模型主要基于小尺度生理生态过程及其对环境变化短期反应的观测结果,对大尺度格局和过程对环境长期变化的响应和适应缺乏模拟能力,因此预测长期环境变化影响下的生态系统碳氮循环存在较大的不确定性[61]。
+
+综上所述，可以看出，为准确模拟和预测未来氮输入和气候变化情景下，陆地生态系统的碳汇潜力和碳平衡格局,首先需要对不同类型生态系统中碳氮循环短期响应、长期适应进行系统性长期性的试验观测研究，同时对生态系统过程对环境变化的响应机制进行系统总结,构建新的生态学理论框架,建立从微观生理生态响应到宏观格局与结构适应性之间的联系,改进和验证目前已有的生态系统机理模型，从而为准确认识和预测陆地生态系统的碳汇格局奠定基础[61]。
+
+# 3结论
+
+(1)东北地区平均的SNUE为 $1 7 . 7 7 \ \mathrm { g C / g N }$ ;从1961年至2010 年,氮素的输入量显著增加，而 SNUE 则显著下降。
+
+(2)相比森林、灌丛和草地等自然生态系统,农田生态系统 SNUE最低，为 $1 2 . 9 3 ~ \mathrm { g C / g N }$ ,森林的最高，达到
+
+$4 1 . 7 0 ~ \mathrm { g C / g N }$ ;森林的 SNUE 变化趋势与其他生态系统不同,其 SNUE 相对稳定,而灌丛对氮素输入最为敏感，其 SNUE下降最为显著;
+
+(3)氮输入水平和生态系统响应的差异共同决定了SNUE的空间差异,三江平原和长白山地区是 SNUE最高的区域,而内蒙古高原、呼伦贝尔高原和大小兴安岭的部分地区,外源氮输入抑制了土壤碳库的增加,SNUE 出现负值。
+
+（4）通过试验观测探明不同类型生态系统对氮素输入响应和适应的机制,构建新的生态学理论框架,改进和发展现有生态系统机理模型,是准确认识和预测陆地生态系统氮促汇格局的必要手段。
+
+# 参考文献（References）：
+
+[1]GalowaJ,brDrisnJW,eier,owarthowingEB,osbBJtrogecde.BoSe,4):341-356.  
+[2]VitousekP,AberJD,HowarthRW,LikensGE,atsonP,SnderDW,ShlesingerWH,TanDG.Humanalteratiofheglobalnitrogen cycle：sources and consequences.Ecological Applications，1997,7(3）：737-750.  
+[3]GalowJowe,isJed,CiC,Fr,rtilli,itzgS,o.fonitrogen cycle：recent trends，questions，and potential solutions.Science，2008,320(5878）：889-892.  
+[4]GuBJ,gJ,nY,GYuA,lly,gCHoeofustrialrogieglobalrngeal.Scientific Reports，2013,3：2579.  
+[5］顾峰雪，黄玫，张远东，李洁，闫慧敏,郭瑞，钟秀丽.氮输入对中国东北地区土壤碳蓄积的影响.生态学报,2016,36(17)：5379-5390.  
+[6］卢蒙.氮输人对生态系统碳、氮循环的影响：整合分析[D]．上海：复旦大学，2009.  
+[7]Tolssnitrogen.Ecological Applications，1996,6(3）：806-814.  
+[8］李嵘，常瑞英.土壤有机碳对外源氮添加的响应及其机制.植物生态学报，2015，39（10）：1012-1020.  
+[9]SainjuUMinghB，WiteadWFoverosntrfrtilzososolbonditrogendatoaadnJournal of Soil Science，2000，80(3）:523-532.  
+[0]HgedFofeaf35(12):1683-1692.  
+[11]AdamsRECCifrlcssamanaged coastal Douglas-firstandsof thePacific Northwest.Forest Ecologyand Management,2O05,220(1/3）：313-325.  
+[12]DigWX,CaiZtaHiaorgertlitodetsidseaptakeindahlistChina.Global Change Biology，2004，10（10）：1801-1809.  
+[13］许凯，徐钰，葛之葳，于水强，王国兵，范换，周丹燕，阮宏华.氮添加对杨树人工林土壤活性有机碳季节变化的影响.南京林业大学学报：自然科学版，2014，38（3）：19-23.  
+[14]BalkJestrglacedeirgnoieililogeetiedesystems of N fertilization.Plant Soil and Environment,2003，49(12）：554-559.  
+[15]LeeKHJoselrsatioieproductiondroaloassiooodndlblollinantatioslogefertilization gradient.Forest Ecology and Management,2003，185(3）：263-273.  
+16]Madsdand sorghum yield under Sudano-Sahelian conditions.Soil Use and Management,2005,21(4）：396-401.  
+[17]Johnson D W,Cheng W,BallJT.Effectsof[CO $_ 2$ ]and nitrogen fertilization on soils planted with ponderosa pine.Plant and Soil,20oo,224（1）:99- 113.  
+[18]effdAe,SJlJVablesrgdosiltsoil carbon.Nature，2002,419(6910)：915-917.  
+9]GleilrtllSoil Science Society of America Journal,2004,68(1）:272-281.  
+[20]ZeglinusshololsprgdiirsssoOecologia，2007，154(2）:349-359.  
+2]Baeradtabistdeolbiltestiidticko1859- 1871.  
+[22] 祁瑜，MulderJ，段雷，黄永梅.模拟氮沉降对克氏针茅草原土壤有机碳的短期影响.生态学报，2015，35(4)：1104-1113.  
+[23] 龙凤玲,李义勇，方熊，黄文娟，刘双娥，刘菊秀.大气 $\mathrm { C O } _ { 2 }$ 浓度上升和氮添加对南亚热带模拟森林生态系统土壤碳稳定性的影响.植物生态学报，2014，38（10）：1053-1063.  
+[24］李林森，程淑兰，方华军，于贵瑞，徐敏杰，王永生，党旭升，李英年．氮素富集对青藏高原高寒草甸土壤有机碳迁移和累积过程的影响.土壤学报，2015，52(1)：183-193.  
+[25] 全权，张震，何念鹏，苏宏新，温学发，孙晓敏.短期氮添加对东灵山三种森林土壤呼吸的影响.生态学杂志，2015，34（3）：797-804.  
+[26] 吕凤莲，薛箑，王国梁，景航.N 添加对油松幼苗土壤酶活性和微生物生物量的影响.生态学杂志，2016，35(2)：338-345.  
+[27] KirkbyCA，RichardsonAE，WadeLJ，BatenGD，BlnchardC，KirkegaardJA.Carbon-nutrientstoichiometrytoincreasesoilcarbonsequestration.Soil Biology& Biochemistry，2013,60：77-86.  
+[28] 展小云.中国东部南北样带森林生态系统大气氮沉降和氮素利用效率的变异规律研究[D].北京：中国科学院地理科学与资源研究所，2013.  
+[29]DeViesW,SolbergS,DobberinM,SterbaH,LaubhannD,VanOijenM,EvansC,GundersenP,KrosJ，WamelinkGWW,ReindsGJ,SutonMA.Teipactofrogendepositiooarbosequestratioyuropanforstsandeathlads.orestEcolodanagt,258(8): 1814-1823.  
+[30]WagSQ,ZCH,LiuJYianH,LiKR,angXM.Cbstoageorhsiastiatedrovegeatidl.Environmental Pollution，2002,116(S1）：S157-S165.  
+[31］毛德华，王宗明，韩佶兴，任春颖.1982～2010年中国东北地区植被 NPP 时空格局及驱动因子分析．地理科学，2012，32（9)：1106- 1111.  
+[32] 于磊，张柏.中国黑土退化现状与防治对策.干旱区资源与环境，2004，18(1)：99-103.  
+[33] 于颖，范文义，李明泽.东北林区不同尺度森林的含碳率.应用生态学报，2012，23（2)：341-346.  
+[34] 王春春，陈长青，黄山，邓艾兴，张卫建，卞新民.东北气候和土壤资源演变特征研究.南京农业大学学报，2010,33（2）：19-24.  
+[35] Gu F X, Zhang Y D,Huang M, Tao B, Yan $\mathrm { ~ H ~ M ~ }$ ，Guo R,Li J. Nitrogen deposition and its efect on carbon storage in Chinese forests during1981-2010.Atmospheric Environment，2015，123：171-179.  
+[36]CaoMKoadFetpadouctboocofralodssteagGlobal Change Biology，1998,4（2）：185-198.  
+[37］陶波，曹明奎，李克让，顾峰雪，季劲钧，黄玫，张雷明.1981\~2000年中国陆地净生态系统生产力空间格局及其变化.中国科学D辑：地球科学，2006，36（12）：1131-1139.  
+[38] 顾峰雪，曹明奎，于贵瑞，陶波，温学发，刘允芬，张雷明.典型森林生态系统碳交换的机理模拟及其与观测的比较研究.地球科学进展，2007，22(3)：313-321.  
+[39] 彭畅，朱平，高洪军，刘淑环.长期定位监测黑土土壤肥力的研究I.黑土耕层有机质与氮素转化.吉林农业科学，2004,29（5）：29-33.  
+[40] 隋跃宇，张兴义，焦晓光，王其存，赵军.长期不同施肥制度对农田黑土有机质和氮素的影响.水土保持学报，2005，19（6)：190-192，200-200.  
+[41]DeViReisGudersenPtebaH.hactftrgepositiooabosequestratoiropeforestsdorstil.Global Change Biology，2006，12（7）：1151-1173.  
+[42] NadelhoferKJ,EmmetBA,undersenP,KjsOJ,KoopmansCJ，chleppiP,eteaA，WrightRF.rogendepositioaksaminor contribution to carbon sequestration in temperate forests.Nature，1999,398(6723）：145-148.  
+[43]WamelinkGWW，WiegersHJJ，RindsGJ,KrosJ,l-DijstraJPVanOjenM,DVies W.Modelingimpacofchangesabodioxidecocetraoateosbtarosdstlstolodt2009，258(8):1794-1805.  
+[44]ReayD,ntenerF,mithraceJFeelyA.obalnitrogendepostioadcarbonsinksatureGeosiece8，（）-7.  
+[45]JansensIA,eeman W,LuyssertS,bkeJA,ReichstenM,CeuemasR,CisP,DanAJ,GraceJ,MateiG,PaaleD,iaL,SchulzeEDTangJ，awBE.Reductionofforestsoilespirationinresponsetorogendeposition.NatureGeoience，,（）:315-322.  
+[46］张丽华，宋长春，王德宣，徐小锋.氮输入对陆地生态系统碳库的影响研究进展.土壤通报，2006，37（2）：356-361.  
+[47] ArcoJMD,Esuero，dVctsfitracteristrogenetraatiofreeiaesol99（：701- 708.  
+[48]AberJDdefJereliluatftosstotdli1989,39: 378-386.  
+[49]AberJ,DowelldeorK,gill,etsoG,kea,ulyestadadeiroguitemperate forest ecosystems：hypotheses revisited.BioScience，1998,48(11）：921-934.  
+[50]Wolfe D W,Giford R M,Hilbert D,Luo YQ.Integration of photosynthetic aclimation to $\mathrm { C O } _ { 2 }$ at the whole-plant level. Global Change Biology,1998,4(8) : 879-893.  
+[51]Pritchard SG,Rogers HH,Prior SA,Peterson C M. Elevated CO $^ 2$ and plant structure：a review.Global Change Biology，1999,5（7）：807-837.  
+[52]NakajiaiutafldohtosisitauofericPinus densiflora seedlings.Trees，2001，15(8）：453-461.  
+[53]akajieuteoffit，2002，9(4):269-282.  
+[54］李德军，莫江明，方运霆，蔡锡安，薛璟花，徐国良.模拟氮沉降对三种南亚热带树苗生长和光合作用的影响.生态学报，2004，24(5)：876-882.  
+[55] MagillAH,AberJD,erntsonG,McDowellW，NadeloffrKJMelillJteuderP.Lgtermnitrogenditiosdrogsaturation in two temperate forests.Ecosystems，2004，3(3）：238-253.  
+[56］吕超群.中国大气氮沉降与陆地生态系统碳循环研究[D].北京：中国科学院地理科学与资源研究所，2009.  
+[57]JainA，YangXJ，KheshgiH，McGuieAD，PostW，KicklighterDNitrogenateuatioofteretrialcarbocycleresposetoglobalenvironmental factors.Global Biogeochemical Cycles，2Oo9，23（4）：GB4028.  
+[58]SchindlerDW，ayleySE.TeisphreasanincreasingsinkforamospericarbonstiatesfroicreaseditrogendepostioGbalBiogeochemical Cycles，1993，7(4）：717-733.  
+[9]HudsoRS,delilbrftsi$\mathrm { C O } _ { 2 }$ sink.Global Biogeochemical Cycles，1994，8（3）：307-333.  
+[60]HollndEBraswellBH,LamarqueJF,Towsend,ulmanJ,MlerJF,DntenerF,BraseurG,LevH,PenerJE,oelofsGJ.Variationsinpcedsaalstifmogeposidpactoouakaalof Geophysical Research：Atmospheres，1997，102（D13）：15849-15866.  
+[61］曹明奎，于贵瑞，刘纪远，李克让.陆地生态系统碳循环的多尺度试验观测和跨尺度机理模拟.中国科学D辑：地球科学,2004，34（增刊II):1-14.

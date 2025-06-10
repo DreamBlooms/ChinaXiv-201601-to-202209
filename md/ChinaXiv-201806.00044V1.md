@@ -1,0 +1,170 @@
+# 新疆和田吉亚乡新开垦地防护林小气候空间差异
+
+毛东雷1,34，蔡富艳²，徐丹¹，雷加强34，来风兵'，薛杰3,4(1．新疆师范大学地理科学与旅游学院/新疆干旱区湖泊环境与资源重点实验室，新疆 乌鲁木齐830054;  
+2.乌鲁木齐职业大学应用工程学院,新疆 乌鲁木齐830002;  
+3．中国科学院新疆生态与地理研究所，新疆乌鲁木齐830011;  
+4．新疆策勒荒漠草地生态系统国家野外科学观测研究站,新疆 策勒848300)
+
+摘要：2011年6月13日至8月3日通过对吉亚乡新开垦地防护林内外4种立地类型下的风速、温度、大气相对湿度（RH）、太阳辐射能和光合有效辐射(PAR)的日变化差异分析,比较了晴天和扬沙天气对4个下垫面不同气象要素的影响差异,运用野外观测、相关统计等方法,对其小气候要素空间差异进行了对比分析。结果表明：与流沙地相比,杨树林、沙拐枣林和柽柳林内 ${ \mathrm { ~ 1 ~ m ~ } }$ 高处的日平均风速减小了 $7 6 . 4 3 \% . 9 5 . 8 5 \%$ 和 $7 8 . 7 4 \%$ ；在 $0 . 5 \mathrm { ~ m ~ }$ 高处，分别下降了 $7 8 . 0 7 \%$ $. 9 7 . 8 0 \%$ 和 $9 3 . 8 2 \%$ 。新疆杨、沙拐枣和怪柳防护林植被覆盖度分别为 $12 \%$ ， $8 0 \%$ 和 $4 0 \%$ ，说明植被的覆盖率越高,防风阻沙效益越好,越接近地表,风速越小。与流沙地相比较,杨树林、沙拐枣林和怪柳林内的气温分别下降了 $0 . 9 3 \mathrm { ~ \textcircled { C } ~ } . 1 . 3 1 \mathrm { ~ \textcircled { C } }$ 和 $0 . 8 2 ~ \mathrm { ^ { \circ } C }$ ,RH分别下降了 $1 8 . 9 6 \% . 2 3 . 3 4 \%$ 和 $1 4 . 7 8 \%$ ，说明夏季植被具有降温增湿作用。太阳辐射能和光合有效辐射的变化趋势大致相同，日平均太阳辐射能在流沙地表现为最大，日平均PAR 值在沙拐枣林内表现为最大,在杨树林中的值都表现为最小。晴天和扬沙天气下的气温趋势大致相同。晴天上午大气相对湿度变化大,扬沙天气下从日出开始,大气相对湿度逐渐减小。在夏季,对防护林的树种、高度、植物的盖度、疏透度和防护林前后观测距离不同,均会引起新开垦地防护林小气候的空间差异。
+
+关键词：小气候；空间差异；温度；大气相对湿度；防护林；吉亚乡；新疆
+
+小气候是指因局部下垫面条件影响而形成与大气候不同的贴地层和土壤上层气候，其范围通常是指地表 $1 . 5 \sim 2 . 0 \mathrm { ~ m ~ }$ 高的大气层和 $0 \sim 2 0 ~ \mathrm { c m }$ 深的土壤[1]。小气候的形成,对人们的生产生活和植物的生长发育有着重要影响。对于极端干旱和风沙灾害严重的南疆地区来说,改善防护林小气候具有重要意义。王翠等[2]关于和田绿洲的农田防护林防护效益研究表明，防护林带的防风效能随着高度的增加而减弱。当防护林内的太阳辐射能强度下降时，温度降低,大气相对湿度显著增加。宋翔等[³ 关于干旱区绿洲农田防护林增产效益研究表明，防护林的设置，可以增加不同深度土壤的含水量，降低不同深度土壤的温度。较高的土壤含水量和适当降低土壤的温度有利于植物的生长发育。
+
+防护林是以防护为目的，由乔木、灌木等树种组成的具有一定结构和功能的林带。新开垦地防护林是干旱地区防护林体系中重要的一部分，研究新开垦地防护林中的温度、大气相对湿度、太阳辐射能、风速等气象要素变化，对提高防护林的防护效益具有重要意义。由于它对近地面风速具有明显的削弱作用，使近地表一定范围内的输沙率明显减少，因而在防治荒漠化危害中发挥着重要的作用[4-7]。有关学者针对极端干旱背景下的不同下垫面小气候空间差异(8-I1]、不同景观生态格局与气候变化(12]、地表辐射与能量平衡[13-15]、光合有效辐射[16]、风沙过程[17]等展开了研究,获得小气候产生空间变化的原因及其特点、如何加强小气候的防风阻沙效益等成果。毛东雷等[18-21]对和田策勒绿洲－沙漠过渡带不同下垫面近地表小气候空间差异，风速脉动特征，风、温、湿相关性，大气降尘时空分布特征等进行了研究，指出植被覆盖度、植被高度、地形、农作物和防护林等是影响其差异的主要原因。相关学者对黑河流域农田防护林和共和盆地不同类型防护林小气候效应进行了研究[22-23],而关于极端干旱沙漠区新开垦地不同类型防护林小气候的空间差异研究甚少。本文通过对吉亚乡新开垦地不同防护林及流沙地的不同气象要素的日平均值和不同天气类型的日变化进行了对比分析，进一步揭示了新开垦地防护林小气候的空间差异，为更深一步研究新开垦地防护林的防风阻沙效益、沙漠地区防护林树种的优化选择及改善恶劣的沙漠气候环境提供理论依据和科学支撑。
+
+# 1 研究区概况和研究方法
+
+# 1.1 研究区概况
+
+研究区位于新疆和田市洛浦县吉亚乡，地处塔克拉玛干沙漠南缘，介于 $7 7 ^ { \circ } 3 1 \sim 8 4 ^ { \circ } 5 5 ^ { \prime } \mathrm { E } \sqrt { 3 4 ^ { \circ } 2 2 ^ { \prime } } \sim$ $3 9 ^ { \circ } 3 8 ^ { \prime } \mathrm { N }$ 之间。属于大陆性干旱沙漠气候，春夏季节风沙大而多，扬尘天气每年平均可达 $2 2 0 \mathrm { ~ d ~ }$ 以上，多年平均沙尘日数25.2d,最多 $5 9 \mathrm { ~ d } ^ { \left[ 2 4 \right] }$ 。年平均气温为 $1 1 . 5 \mathrm { ~ \mathcal { C } ~ } , 1$ 月的平均气温为 $- 6 \mathbf { \varphi } ^ { } \mathbf { \mathcal { C } } _ { } , 7$ 月的平均气温为 $2 4 \sim 2 6 ~ \mathrm { \textdegree C }$ 。日照长,光照充足,昼夜温差大,极端最高气温 $4 1 . 9 \mathrm { ~ \textdegree C }$ ,极端最低气温 $- 2 3 . 9 \mathrm { ~ } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { C }$ 。历年的平均降水量为 $3 2 ~ \mathrm { m m }$ ,蒸发量为 $2 \ 4 8 0 \ \mathrm { m m }$ ，无霜期为 $2 1 2 ~ \mathrm { d } ^ { [ 2 5 ] }$ 。吉亚乡常用的乔木防护林树种为新疆杨（Populus bolleana）和沙枣（Elaeagnus an-gustifolia），造林的灌木树种包括头状沙拐枣（Calli-gonum mongolicum）、梭梭（Haloxylon ammoden-dron）多枝怪柳（Tamarixramosissima）,天然植被有骆驼刺（Alhagi sparsifolia）花花柴（Kareliniacaspi-ca）和芦苇(Phragmites australis）等[2]
+
+# 1.2 实验设计及研究方法
+
+2011年在新疆和田吉亚乡流沙地新开垦地防护林区内外布置了4套气象观测站。吉亚乡新疆杨防护林树木的平均高度(H)为 $2 . 6 \mathrm { ~ m ~ }$ 。1号、2号、3号、4号气象站的布置方向为自西向东沿主风向布置(图1），1号气象站与2号气象站相距 $1 ~ \mathrm { k m } ; 2$ 号气象站与3号气象站相距 ${ 7 . 8 ~ \mathrm { m } } ( 3 { \mathrm { ~ H } } ) ;$ 3号气象站与4号气象站相距 $1 8 . 2 ~ \mathrm { m } ( 7 ~ \mathrm { H } ) _ { \circ }$ 1号气象站位于沙漠流沙地;2号气象站位于4行新疆杨的中间位置;3号气象站位于10行沙拐枣林的中间位置;4号气象站位于沙拐枣林后 $^ { 7 \mathrm { ~ H ~ } }$ 位置处的怪柳大芸种植基地内[25]。新疆杨、沙拐枣和怪柳防护林的平均植被盖度分别为 $12 \%$ ） $8 0 \%$ 和 $40 \%$ （表1)，为二年生。新疆杨、沙拐枣、怪柳防护林的疏透度分别为0.92、0.28和0.55。每个气象站分别观测距离地表0.5、$^ { 1 , 3 \mathrm { ~ m ~ } }$ 高处的风速和风向 $( 3 \mathrm { ~ m ~ } ) \mathrm { ~ , ~ } 1 . 5 \mathrm { ~ m ~ }$ 高处的PAR、太阳辐射能和 $2 \mathrm { ~ m ~ }$ 高处的气温和大气相对湿度，观测时段为6月13日至8月3日。采集器1s自动记录1次数据，平均 $1 ~ \mathrm { m i n }$ 采集1次气象数据。对4个下垫面的温度、大气相对湿度(RH)、太阳辐射能和光合有效辐射（PAR)的日平均值进行同步观测和对比分析，并选取6月14日的晴天和6月16日的扬沙天气，对温度、RH、太阳辐射能和PAR进行同步对比分析。数据处理和作图软件主要为Ex-cel 2010 和 Origin 9.0。
+
+# 2结果与分析
+
+# 2.1 不同高度日平均风况变化的空间差异
+
+在夏季6月13日至8月3日 $5 2 \mathrm { ~ d ~ }$ 的风况观测期中，研究区近地表主要以 $\mathrm { W N W } \setminus \mathbb { W } \setminus \mathrm { W N W } \setminus \mathrm { S W }$ 方位上的风向为主（图2），这4个方位的风向频率分别占总频率的 $1 4 . 9 8 \%$ 、12. $80 \%$ 、 $1 2 . \ 2 9 \%$ 和9.$8 3 \%$ ,累计频率达 $4 9 . 9 \%$ 。其中，WNW方位的风向频率所占的比例最大，为 $1 4 . 9 8 \%$ 。S、ESE、E、SSE、NNW、N、NNE等方位的风向频率都在 $7 \%$ 以下，NNW方位上的风向频率最小,仅为 $1 . 9 0 \%$ 0
+
+![](images/bd0e414ba21fdfdae051254bb9614d2a108d2c7b7cf59dc8c1ce726e71e0d45d.jpg)  
+图1吉亚乡防护林试验区气象站点示意图  
+Fig.1The sketch map of of meteorological stations in shelterbelt forests in Jiya countryside
+
+表1防护林基本生长状况  
+Tab.1The prime growth situations of shelterbelt forests   
+
+<html><body><table><tr><td>防护林种</td><td>株高 /cm</td><td>冠幅 /cm Xcm</td><td>密度 /m²</td><td>盖度 /%</td><td>疏透度</td></tr><tr><td>新疆杨</td><td>250</td><td>40.53 ×50.15</td><td>4</td><td>12</td><td>0.92</td></tr><tr><td>沙拐枣</td><td>192</td><td>152.55 ×139.72</td><td>4</td><td>80</td><td>0.28</td></tr><tr><td>多枝柽柳</td><td>133</td><td>145.52 ×160.33</td><td>4</td><td>40</td><td>0.55</td></tr></table></body></html>
+
+![](images/93ef0f7f08c64d632a079b4557020961c6299cc56b8dff65aaeaed90ce719565.jpg)  
+图2吉亚乡新开垦地防护林边缘风向玫瑰图 Fig.2The wind rose diagram in edges of shelterbelt forests of new reclaimed land in Jiya countryside
+
+在 $0 . 5 \mathrm { ~ m ~ }$ 高处，杨树林、沙拐枣林和柽柳林内的日平均风速分别比流沙地下降了 $7 8 . 0 7 \% . 9 7 . 8 0 \%$ 和 $9 3 . 8 2 \%$ （图3）；在 $1 \mathrm { ~ m ~ }$ 高处，分别下降了76.$43 \%$ $9 5 . 8 5 \%$ 和 $7 8 . 7 4 \%$ ；在 $3 \mathrm { ~ m ~ }$ 高处，分别下降了$1 2 . 4 3 \%$ ） $. 1 9 . 1 3 \%$ 和 $7 . 9 7 \%$ 。在 $0 . 5 \mathrm { ~ m ~ }$ 高处，流沙地、杨树林、沙拐枣林和怪柳林内的日平均风速分别为 $1 . 6 7 \ 、 0 . 3 7 \ 、 0 . 0 3 7 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ 和 $0 . 1 0 3 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ 。在1$\mathbf { m }$ 高处，流沙地、杨树林、沙拐枣林和怪柳林内的日平均风速依次是 $2 . 0 5 \ 、 0 . 4 8 \ 、 0 . 0 8 5 \textbf { m } \cdot \textbf { s } ^ { - 1 }$ 和0.44$\mathbf { m } \cdot \mathbf { s } ^ { - 1 }$ 。在 $3 \mathrm { ~ m ~ }$ 高处,流沙地、杨树林、沙拐枣林和怪柳林内的日平均风速依次为 $1 . 6 7 , 1 . 4 6 , 1 . 3 5 \mathrm { ~ m ~ }$ ： $\mathbf { s } ^ { - 1 }$ 和 $1 . 5 4 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ 。在相同的高度上,流沙地的风速比杨树林、沙拐枣林、怪柳林内的风速明显大，这说明防护林具有一定的防风效益。沙拐枣林的风速比杨树林和怪柳林内的风速小，从流沙地到杨树林中，风速逐渐减小，到达沙拐枣林时的风速最小，而后风速渐渐有所恢复。
+
+在杨树林中， $1 \mathrm { ~ m ~ }$ 和 $0 . 5 \mathrm { ~ m ~ }$ 高的风速比 $3 \mathrm { ~ m ~ }$ 高的风速分别下降了 $67 \%$ 和 $7 5 \%$ 。在沙拐枣林中,1$\mathrm { ~ m ~ }$ 和 $0 . 5 \mathrm { ~ m ~ }$ 高的风速比 $3 \mathrm { ~ m ~ }$ 高的风速分别下降了$9 3 . 7 1 \%$ 和 $9 7 . 2 8 \%$ 。在怪柳防护林内， $1 \mathrm { ~ m ~ }$ 和0.5$\mathrm { ~ m ~ }$ 高的风速比 $3 \mathrm { ~ m ~ }$ 高的风速分别下降 $7 1 . 6 7 \%$ 和$9 3 . 2 9 \%$ 。杨树平均树高为 $2 . 6 \mathrm { m }$ ，所以， $3 \mathrm { ~ m ~ }$ 高处的风速被削减的幅度小。在沙拐枣林中， $1 \mathrm { ~ m ~ }$ 和 $0 . 5 \mathrm { ~ m ~ }$ 高处风速减小的最多，因为沙拐枣林的植被覆盖度比其他防护林高，并且它的疏透度比其他防护林小。这说明防护林植被覆盖度越大，疏透度越小，防风效果愈显著。
+
+# 2.2日平均温度和大气相对湿度变化的空间差异
+
+4种立地类型 $2 \mathrm { ~ m ~ }$ 高处的日平均气温相差不大，流沙地、杨树林、沙拐枣林和柽柳林内在观测期的日平均气温分别为 $2 6 . 9 6 ^ { \circ } \mathrm { ~ C ~ } . 2 6 . 0 4 ^ { \circ } \mathrm { ~ C ~ } . 2 5 . 6 5 ^ { \circ } \mathrm { ~ C ~ }$ 和 $2 6 . 1 5 \mathrm { ~ } \mathrm { ^ { \circ } C }$ （图4a)。与流沙地相比，杨树林、沙拐枣林和怪柳林内的日平均温度依次下降了 $3 . 4 3 \%$ 、$4 . 8 7 \%$ 和 $3 . 0 2 \%$ 。由于流沙地植被稀少,地表物质多为沙质，对太阳短波辐射的吸收能力较强，地表温度升高，通过长波辐射向近地表大气传输热量，导致流沙地的气温最高。因为植被可以吸收太阳辐射
+
+![](images/3ff2feac44228df636ec0a8a2684d1397fc83bef1e66c0b08ceecf8d95b23121.jpg)  
+图3不同立地类型不同高度的日平均风速  
+Fig.3Mean daily wind velocity at different heights in different site types
+
+![](images/1fee57d006dbe06d5d8ce2471cc52963292d92f8e1f10140aa2192ee30a47f5d.jpg)  
+图4不同立地类型日平均气温及大气相对湿度变化  
+Fig.4Changes of average daily air temperature and relative humidity at different site types
+
+能，消耗其中的一部分热量，为自身的生长发育提供能量，植被的覆盖又使得地面的长波辐射能量难以释放，因此，防护林内温度低于流沙地。杨树林内的温度高于流沙地而低于沙拐枣林内，是因为杨树林和怪柳防护林内的植被覆盖度都比沙拐枣林中的植被覆盖度低。杨树林内的温度比怪柳防护林内的温度低，是由于杨树林上部枝叶密度大，不利于太阳光线到达地表。
+
+流沙地、杨树林、沙拐枣林、怪柳林内的大气相对湿度在观测期内的日平均值分别为 $3 4 . 8 1 \%$ 、41.$4 2 \%$ ， $4 2 . 2 4 \%$ 和 $3 9 . 9 6 \%$ （图4b）。与流沙地相比，杨树林、沙拐枣林和怪柳林内RH分别增加了18.$9 6 \%$ $\% , 2 3 . 3 4 \%$ 和 $1 4 . 7 8 \%$ 。防护林内的植被覆盖度高，植物蒸腾作用强，夏季灌溉后地表水相对较多，所以大气相对湿度较大。流沙地沙质土壤蓄水能力弱，沙质土受热快，蒸发迅速，所以大气相对湿度较小。怪柳林内的RH比杨树林内的小，因为怪柳为落叶灌木，植株矮小、叶片蒸腾量小，而杨树高大、蒸腾量大、大气相对湿度较大。
+
+# 2.3日平均太阳辐射能和PAR变化的空间差异
+
+流沙地、杨树林、沙拐枣林和怪柳林内的日平均太阳辐射能差异较小，分别为260.57、229.70、248.$7 2 . 2 6 0 . 1 1 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,其中杨树林中的太阳辐射能最小（图5a)。与杨树林相比，流沙地、沙拐枣林和柽柳林内的日平均太阳辐射能分别增大了 $1 1 . 8 4 \%$ 、$4 . 5 5 \% . 0 . 1 8 \%$ 。在夏季，怪柳防护林内太阳的总辐射量比胡杨林地高[26]。流沙地的物质组成决定了它吸收太阳辐射的能力强，杨树林和沙拐枣林有植被覆盖,其枝叶吸收了部分太阳辐射能,用于维持自身的生长需要，到达地面的太阳辐射量随之减少。
+
+PAR不仅是植物进行光合作用的重要环境因子之一,也是植物生长所需的基本能源[16]。4个观测站的PAR变化趋势基本与太阳辐射能的变化趋势一致，日平均PAR值分别为504.30、477.93、$5 1 4 . 5 6 \cdot 4 9 5 . 9 6 \enspace \mu \mathrm { m o l } \cdot \mathrm { ~ m ~ } ^ { - 2 } \enspace \cdot \mathrm { ~ s ~ } ^ { - 1 }$ 。与流沙地相比,杨树林和怪柳林内PAR分别降低了 $5 . 2 3 \%$ 和1.$6 5 \%$ ,沙拐枣林内增大了 $2 . 0 3 \%$ （图5b）。杨树林中的新疆杨高度较高且上部枝叶茂盛，会减少对太阳辐射能和PAR的吸收，使近地表太阳辐射能相对最小。
+
+# 2.4不同天气下气象要素空间变化
+
+在6月16日扬沙天气下，与流沙地相比，杨树林、沙拐枣林和怪柳林内的日平均温度分别下降了$2 . 8 6 \% . 4 . 2 9 \% . 2 . 9 0 \%$ 。在6月14日晴天天气下，与流沙地相比，杨树林、沙拐枣林和怪柳林内的日平均温度分别降低了 $1 . 8 3 \% . 2 . 9 1 \% . 1 . 4 5 \% . 4$ 个下垫面的温度差异较小，在09：00左右，温度呈现上升的趋势，16：00左右，温度达到了最高（图6a，6b）。扬沙天气气温的变化幅度大于晴天，从流沙地沿主风方向，气温逐渐降低，在植被盖度最大的沙拐枣林内下降的最多，随着植被盖度的减小，气温又逐渐升高。
+
+在扬沙天气下，流沙地、杨树林、沙拐枣林、怪柳林内的RH分别为21. $90 \%$ 、26. $28 \%$ 、26. $9 9 \%$ ${ } . 2 5 . 8 6 \%$ （图6c）。在晴天，4种立地类型下的RH分别为 $2 8 . 2 7 \% . 3 2 . 0 8 \% . 3 2 . 8 2 \% . 3 1 . 1 3 \%$ （图6d）。晴天的RH在流沙地、杨树林、沙拐枣林和怪柳林内分别比扬沙天气下增加了 $6 . 3 7 \% 5 . 8 0 \% 5 . 8 3 \%$ 、
+
+![](images/18383efe3b0da6322de6c6b716e19170d39142a6eb302f624080b072624333c9.jpg)  
+Fig.5Changes of average daily solar radiation（a） and PAR（b）at different site types
+
+![](images/08784ebc756fb94e2eb78548a064119ac1df95574f6e583664f90896293baf67.jpg)  
+图5不同立地类型日平均太阳辐射能(a)和PAR(b)  
+图6扬沙天气和晴天不同立地类型温湿度、太阳辐射能和PAR的日变化 Fig.6The daily changes of air temperature，humidity，solar radiation and PAR at different site types during a blowing sand day and a sunny day
+
+$5 . 2 7 \%$ 。植被覆盖度越大，降温增湿效果越明显。在扬沙天气下，从05：00左右，RH开始减小，到17：00左右减到最小，最终趋于稳定。晴天天气下，从04：00左右开始，RH增大到最大，日出之后，RH又逐渐减小，在15：00左右趋于稳定。
+
+在扬沙天气下，太阳辐射能在流沙地、杨树林、沙拐枣林和怪柳林内的日平均值分别为331.51、291.13、316.02、326.71 W· $\mathrm { ~ m ~ } ^ { - 2 }$ （图6e），日平均
+
+PAR值在流沙地、杨树林、沙拐枣林和怪柳林内分别为 $6 5 3 . 2 3 \ . 5 9 4 . 3 1 \ . 6 5 3 . 3 5 \ . 6 2 2 . 7 9 \ \mathrm { \textmu m o l } \cdot \mathrm { m } ^ { - 2 }$ ：$\mathrm { ~ s ~ } ^ { - 1 }$ （图 $6 \mathrm { g }$ ）,太阳辐射能和PAR 的变化趋势基本一致，除了流沙地以外，3种防护林内的太阳辐射能和PAR日变化值差异不明显。日出之后，太阳辐射能和PAR值逐渐增大，在15：00左右，太阳辐射能和PAR值达到最大，随后减小，在21：00 减小为0。在10：00一01：00，杨树林内的太阳辐射能和PAR发生了突降，在这个时间段近地表产生了扬沙，减少了对太阳辐射能的吸收。
+
+在晴天天气下，流沙地、杨树林、沙拐枣林和柽柳林内的太阳辐射能日平均值分别为298.55、276.（20 $1 9 \cdot 2 8 8 . 8 4 \cdot 2 9 4 . 1 5 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ （图6f），日平均PAR值分别是 $5 8 6 . 7 1 . 5 7 2 . 5 1 . 6 0 2 . 4 2 . 5 6 5 . 7 4 \ \mathrm { \mu m o l } \cdot \mathrm { m } ^ { - 2 }$ $\cdot \mathrm { ~ s ~ } ^ { - 1 }$ （图6h）。4种立地类型下的太阳辐射能和PAR的日平均值相差很小，从日出开始逐渐增大，到日落时减小到0，在15：00左右，起伏变化明显。
+
+# 3讨论
+
+在同一下垫面的条件下,风速会因粗糙程度增大而减小，越接近地表风速越小，植被的防风阻沙效益越明显[27]。据周洪华等[4]关于防护林树种配置研究结果表明，乔木和灌木的防风效益比较好。吉亚乡是以新疆杨、沙拐枣和怪柳为主配置的防护林。沙拐枣林的防护效益最好。杨树林中上部枝叶的摩擦使风速减小，下部树干稀疏，防风效果较差。因此,可以在杨树林中适当种植一些灌木和草本植物，进行立体种植。在塔克拉玛干的沙漠公路，防护林具有较好的防护效益，与上风向的流沙地比较，防护林带中部风速可以降低 $8 0 \%$ 以上[28]。本文对吉亚乡防护林的研究也得出类似结论，在防护林中部具有很好的防护效益，在沙拐枣林内的风速比流沙地降低了 $9 0 \%$ 以上。在黑河中游的临泽绿洲,受到灌溉的农田和2种人工乔木林改善小气候效应较好[29〕。本研究区内沙拐枣和怪柳的存活率较高,都在 $9 0 \%$ 以上。在相同的水分灌溉条件下，沙拐枣防护林较新疆杨和怪柳防护林生长能力强，需水量小，疏透度小,防风阻沙效果更为理想[25]。因此,在适当增加沙拐枣种植密度的同时，也要增加经济价值较高的怪柳的种植密度，把防风阻沙效益和经济效益结合起来。同时，本研究进一步验证了范丽红等[30关于荒漠地区太阳辐射值的变化原因。荒漠区由于地表干燥，多为松散砂粒，因而在风速较小的情况下就能吹起沙尘，降低了到达地面的太阳辐射能。夏季植物的蒸腾作用会增加防护林内的大气相对湿度，植被覆盖度的增加导致蒸腾作用的加强，消耗热量,降低温度[12,27]。而且,对防护林进行适当灌溉，增加地表土壤的含水量和团聚性，从而增大起沙风的风速，减少对地表的土壤风蚀量。因此，新开垦地防护林不仅要进行立体种植，还应适当的减小植株的行间距，达到更好的防风效果。
+
+新开垦地不同防护林立地条件存在差异，使得防护林内的小气候产生明显的空间差异。研究表明植被的覆盖度越大、疏透度越小，防风阻沙效益越好，防治地表土壤侵蚀能力越强，有利于提高农田的产量和改善沙漠的小气候环境。
+
+# 4结论
+
+（1）在夏季，吉亚乡沙漠区近地表主要以WNW、W、WNW、SW方位上的风向为主，沙漠边缘防护林能够明显降低风速，而且近地面的防风效益较好，在3种防护林内，沙拐枣林的防风效益最好。
+
+（2）防护林能够明显降低近地表气温并且增加大气相对湿度。
+
+（3）沙拐枣林中的PAR和太阳辐射能在4种立地条件中是最小的，流沙地和怪柳林内的太阳辐射能和PAR值相对较高，太阳辐射能和PAR值的变化趋势基本一致。
+
+（4）晴天和扬沙天气下，在流沙地、怪柳林、杨树林和沙拐枣林内，气象要素日变化均产生一定差异。晴天天气下，气温在07：00左右达到一天中的最低值，16：00左右达到一天中的最高值，流沙地和怪柳防护林内的温度要高于杨树林和沙拐枣林内的温度，RH变化与之相反，植被覆盖度在一定程度上会降低太阳辐射能和PAR值，同时，防护林树种的高度、疏透度和冠型等也会影响太阳辐射能和PAR值的空间变化。
+
+# 参考文献(References）:
+
+[1]翁笃明,陈万隆，沈觉成,等.小气候和和农田小气候[M].北 京：农业出版社,1981:1-5.［Weng Duming,Chen Wanlong, Shen Juecheng，et al.Microclimate and Farmland Microclimate [M].Beijing:Agriculture Press,1981:1 -5.]
+
+[2]王翠,雷加强,李生宇,等.和田地区绿洲外围农田防护林带的防护效益[J].水土保持通报，2014，34（1）：98-103，122.[Wang Cui,Lei Jiaqiang,Li Shengyu,et al.Protection benefitsoffarmland shelterbelt in oasis periphery of Hotan region[J].Bulle-tin of Soil and Water Conservation,2014,34(1）:98-103,122.][3]宋翔,庞国锦,颜长珍,等.干旱区绿洲农田防护林增产效益研究一以民勤绿洲为例[J].干旱区资源与环境，2011,25（7)：178-182.[Song Xiang,Pang Guojin,Yan Changzhen,et al. Eval-uation on shelterbelt's benefits on crop yields in arid oasis:a caseofthe Minqin oasis[J]. Journal of Arid Land Resources and Envi-ronment,2011,25（7):178-182.]
+
+[4]周洪华,李卫红,冷超,等.绿洲一荒漠过渡带典型防护林体系 环境效益及其生态功能[J].干旱区地理，2012，35（1)：82- 90.[Zhou Honghua,Li Weihong,Leng Chao,et al.Effect of environmental and ecological function of shelterbelts in oasis-desert ecotone of the lower Tarim river[J].AridLand Geography,2012,35 (1):82-90.]
+
+[5]李春平,关文彬，范志平,等.农田防护林生态系统结构研究进展[J].应用生态学报，2003，14（11）：2037-2043.［LiChunping,Guan Wenbin,Fan Zhigao,et al.Advances in studies on thestructure of farmland shelterbelt ecosystem[J].Chinese Journal ofAppliedEcology,2003,14（11）:2037-2043.]
+
+[6]张继义，赵哈林.黑河中游绿洲农田防护林发展问题探讨[J]. 水土保持通报,200424（1）：57-59.［ZhangJiyi,Zhao Halin. Ondevelopment of farmlands shelter-belts inoases of middle reaches of Heihei River[J].Bulletin of Soil and Water Conservation, 2004,24(1):57-59.]
+
+[7]周军莉，王元,徐忠.不同类型林带防护效应的数值模拟[J]. 中国沙漠,2002,22(2）:201-204.[ZhouJunli,WangYuan,Xu Zhong.Numerical simulation of the effect of different windbreak [J].Journal ofDesert Research,2002,22(2）:201-204.]
+
+[8]闫人华,熊黑钢,张芳,等.极端干旱区夏季不同土地类型的小 气候特征差异研究[J].水土保持研究，2013,20（4)：149- 154,159.[Yan Renhua,Xiong Heigang,Zhang Fang,et al.Research on the mocro-climate characteristic differences ofdifferent underlying surface in the hyper- arid zone in summer[J].Researchof Soil and Water Conservation,2013,20（4):149-154, 159.]
+
+[9]闫人华,熊黑钢,夏英辉.极端干旱区夏季不同下垫面小气候 特征的差异研究[C].中国自然资源学会、新疆自然资源学会： 发挥资源科技优势保障西部创新发展一中国自然资源学会 2011 年学术年会论文集（下册）,2011:8.[Yan Renhua,Xiong Heigang,Xia Yinghui. The difference research on microclimate characteristics in different underlying surfaces in summer in hyperarid region[C].The committee of natural resources in China,the committee of natural resources in Xinjiang.Making full use of advantages of resources of science and technology and ensuring the innovation development of the West—Proceedings of the academic year of the committee of natural resources in China（last volume）, 2011:8. ]
+
+[10]钟秀娟，熊黑钢，张建兵.新疆于田县不同下垫面小气候特征比较研究[J].水土保持研究,2010,17（1）：134－139.［ZhongXiujuan,Xiong Heigang,Zhang Jianbing.Research on characteris-tics of micro - climate in different underlying surface in Yutiancounty,Xinjiang[J].Research of Soil and Water Conservation,2010,17(1):134-139.]
+
+[11]庞营军，雷加强，曾凡江，等.新疆维吾尔自治区策勒县绿洲一 沙漠过渡带小气候特征[J].水土保持通报，2011，31（5）：240 -245.[Pang Yingjun,Lei Jiaqiang,Zeng Fanjiang,etal.Microclimatic characteristics of oasis - desert transitional zone in Qira county of Xinjiang wei autonomous region[J].Bulletin of Soil and Water Conservation,2011,31(5）:240-245.]
+
+[12]潘晓玲，曾旭斌，张杰，等.新疆生态景观格局演变及其与气候的相互作用[J].新疆大学学报（自然科学版），2004,21（1）：1-7.[Pan Xiaoling,Zeng Xubin,Zhang Jie,et al.Interaction of e-volution of ecological landscape pattern and climate change in Xin-jiang［J]. Journal of Xinjiang University（Natural Science Edi-tion）,2004,21(1) :1 -7.]
+
+[13]张宇，吕世华，陈世强，等.绿洲边缘夏季小气候特征及地表辐 射与能量平衡特征分析[J].高原气象，2005，24（4）：527- 533.[Zhang Yu,Lv Shihua,Chen Shiqiang,et al.Characteristics of energy budget and microclimate on the edge of oasis summer [J].Plateau Meteorology,2005,24(4）:527-533.]
+
+[14］张凯,王润元,张强,等.绿洲荒漠过渡带夏季晴天地表辐射和 能量平衡及小气候特征[J].中国沙漠，2007，27(6)：1055-1 061.[Zhang Kai,Wang Runyuan,Zhang Qiang,et al.Characteristics of surface radiation and energy balance as well microclimate within oasis-desert ecotone of Zhangye on typical clear days in summer[J].Journal of Desert Research,2007,27（6）:1 055-1 061.]
+
+[15]张强，周毅.敦煌绿洲夏季典型晴天地表辐射和能量平衡及小 气候特征[J].植物生态学报,2002,26(6）：717-723.[Zhang Qiang,Zhou Yi.The characteristics of budget of radiation and energy as well microclimate of Dunhuang oasis on a typical clear day in summer[J].Acta Phytoecologica Sinica,2002,26（6）:717- 723.]
+
+[16]姚济敏，高晓清，冯起,等.额济纳绿洲沙尘暴天气下光合有效辐射的基本特征[J].太阳能学报，2006，27（5）：484－488.[Yao Jimin,Gao Xiaoqing,Feng Qi,et al.The photosynthesticallyactive radiation during dust storm day in Ejina oasis[J].Acta En-ergiae Solaris Sinica,2006,27(5） :484-488.]
+
+[17]张克存,安志山，蔡迪文，等.沙漠一绿洲过渡带近地表风沙过 程研究进展[J].地球科学进展，2015,30（9）：1018-1027. [Zhang Kecun,An Zhishan,Cai Diwen,et al.Research progress on aeolian sand process near ground in oasis-desert transitional zone [J].Advancesin Earth Science,2015,30(9）:1 018-1 027.] [18]毛东雷，雷加强，李生宇，等.策勒绿洲一沙漠过渡带小气候的 空间差异[J].中国沙漠,2013,33（5）：1501-1510.［Mao Donglei,Lei Jiaqiang,Li Shengyu,etal.Spatial difference of microclimate in the oasis-desert ecotone in Cele,Xinjiang,China[J]. Journal ofDesert Research,2013,33(5):1 501-1510.]
+
+[19」毛东雷，蔡富艳，杨余辉，等.新疆策勒4个典型下垫面近地层风速脉动特征[J].干旱区研究，2017，34（1）：126-135.[MaoDonglei,Cai Fuyan,Yang Yuhui,etal.Wind speed fluctuation nearground surface over four typical underlying surfaces in Qira,Xin-jiang[J].Arid Zone Research,2017,34(1）:126-135.]
+
+[20]毛东雷,蔡富艳，杨雪峰，等.新疆策勒绿洲一沙漠过渡带风、 温、湿相关性分析[J].干旱区研究,2017,34（4)：931-941. [Mao Donglei,Cai Fuyan,Yang Xuefeng,et al. Correlations among wind speed,air temperature and relative humidity in oasis- desert ecotone in Qira,Xinjiang[J].Arid Zone Research,2017,34（4）： 931 -941.]   
+[21]毛东雷，蔡富艳，雷加强,等.新疆策勒不同下垫面大气降尘时 空分布特征[J].干旱区研究，2017，34(6)：1222-1229. [Mao Donglei,Cai Fuyan,Lei Jiangqiang,et al. Spatio-temporal distribution of atmospheric dustfall over different underlying surfaces in Qira County,Xinjiang[J].Arid Zone Research,2017,34 (6):1 222-1 229.]   
+[22]孔东升，金博文，金铭，等.黑河流域中游农田防护林小气候效 应[J].干旱区资源与环境,2014,28（1）:32-36.[Kong Dongsheng,Jin Bowen,Jin Ming,et al.Microclimate effects of farmland shelterbelt in middle reaches of Heihe Basin[J].Journal of Arid Land Resources and Environment,2014,28(1）:32 -36.]   
+[23］朱雅娟,李虹,赵淑伶,等.共和盆地不同类型防护林的改善小 气候效应[J].中国沙漠,2014,34（3）:841-848.［Zhu Yajuan,Li Hong,Zhao Shuling,et al.Improvement effect on microclimate in different types of shelterbelt in the Gonghe Basin of Tibet Plateau[J]. Journal of Desert Research,2014,34（3）:841 - 848.]   
+[24］张鹤年.塔克拉玛干沙漠南缘一绿洲过渡带生态环境区综合 治理技术与试验示范研究[J].干旱区研究，1995，12（4)：1- 9.[Zhang Henian.Research on comprehensive control technology and experimental demonstration of ecological environment district of desert -oasis ecotone on southern Taklimakan Desert[J].Arid Zone Research,1995,12(4):1-9.]   
+[25］毛东雷,雷加强,曾凡江,等.和田地区绿洲外围防护林体系的 防风阻沙效益[J].水土保持学报,2012,26(5）：48-54.[Mao
+
+Donglei,Lei Jiaqiang,Zeng Fanjiang,et al.Protection anainst wind and intercepting sand effects of shelterbelt forests system outside oasis in Hotan area[J]. Journal of Soil and Water Conservation, 2012,26(5) :48 -54.]
+
+[26）冯起，司建华，张艳武，等.极端干旱地区绿洲小气候特征及其生态意义[J].地理学报，2006，61（1）：99-108.［FengQi，SiJianhua,Zhang Yanwu,et al.Microclimatic characteristics of theHeihe oasis in the hyperarid zone of China[J].Acta GeographicaSinica,2006,61（1) :99-108.]
+
+[27]刘树华，辛国君，陈荷生，等.沙漠人工植被和流动沙丘的小气候特征观测研究[J].干旱区地理，1994，17（1）：16-23.［LiuShuhua,Xin Guojun,Chen Hesheng,et al. Study on microclimateon the artificial vegetation over sand dunes in Shapotou area[J].AridLand Geography,1994,17(1）:16-23.]
+
+[28]汪言在，魏殿生，伍永秋，等.塔克拉玛干沙漠沙垄区公路防护 带内风场特征研究[J].中国沙漠，2012，32(5)：1216-1223. [Wang Yanzai,Wei Diansheng,Wu Yongqiu,et al.Wind speed changewithin the shelter forest along the Taklimakan Desert highway[J].Journal ofDesert Research,2012,32（5）:1 216 -1 223.]
+
+[29]牛瑞雪，赵学勇，刘继亮.黑河中游不同土地覆被土壤水文环境及植被特征[J].中国沙漠，2012，32(6)：1590-1596.［NiuRuixue,Zhao Xueyong,Liu Jiliang.Soil,eco - hydrological andvegetation characters of different land cover types in middle reachesof Heihe river basin[J].Journal of Desert Research,2012,32(6） ：1 590 -1 596.]
+
+[30]范丽红，格丽玛，何清，等.绿洲一过渡带一荒漠气候特征日变化分析[J].新疆农业大学学报，2006，29（1）：5-9.［FanLi-hong,GeLima,He Qing etal.Analysis on daily change of climatecharacteristics about oasis- intermediate belt- desert[J]. JournalofXinjiang Agricultural University,2006,29(1） :5-9.]
+
+# Spatial Differences of Microclimate in the Shelterbelt Forests in New Reclaimed Land in Jiya Countryside in Hotan of Xinjiang
+
+Mao Donglei1,3,4,Cai Fuyan2,Xu Dan1,Lei Jiaqiang3,4,Lai Fengbing1,Xue Jie3,4
+
+(1. College of Geography Science and Tourism,Xinjiang Normal University/The Key Laboratory “ Xinjiang Laboratory ofLake Environment and Resources in Arid Zone” Urumqi 830o54,Xinjiang; 2.College of Application Engineering,Urumqi Vocational University,Urumqi ,Xinjiang 830002; 3. Xinjiang Instituteof Ecologyand Geography,Chinese Academyof Sciences,Urumqi 830o11,Xijing; 4.Cele National Station of Observation and Research for Desert-Grassland Ecosystem in Xinjiang,Cele 848300)
+
+Abstract:The differences in temporal -spatial of daily wind velocity,air temperature,relative humidity，photosynthetically activeradiationand solarradiation infour site types inshelterbelt forestsandoutside shelterbelts in he newreclaimedland in Jiyacountryside wereanalyzed from13July,2011to3August,2011.Meanwhile,thediferences of diurnal meteorological factors in four landscape types were compared in a fine day and a blown sand day. After field observation，correlational statistic was used to analyze data.Theresults showed thatthedailywind velocity at the height of $1 \mathrm { ~ m ~ }$ in the Populus alba trees，Calligonum mongolicum and Tamarix ramosissima shelterbelt forests was $7 6 . 4 3 \%$ ， $9 5 . 8 5 \%$ and $7 8 . 7 4 \%$ respectively less than that in shifting sandy land.The wind velocity at the height of $0 . 5 \mathrm { ~ m ~ }$ was $7 8 . 0 7 \%$ ， $9 7 . 8 0 \%$ and $9 3 . 8 2 \%$ respectively less than that in shifting sandy land.The vegetation cover of shelterbelt forests of P.alba，C.mongolicum and T.ramosissima was $12 \%$ ， $80 \%$ and $40 \%$ respectively，which showsthat the efects of wind prevention would be better with the increased vegetation cover.The wind speed was smaller atthe height closer to the surface.The daily air temperature in the P.alba trees，C.mongolicum and T.ramosissima shelterbelt forests was $0 . 9 3 \mathrm { ~ \textcircled { C } ~ } , \mathrm { ~ } 1 . 3 1 \mathrm { ~ \textcircled { C } ~ }$ and $0 . 8 2 \mathrm { ~ } ^ { \circ } \mathrm { C }$ respectively less than that in shifting sandy land,and the daily relative humidity was reduced by $1 8 . 9 6 \%$ ， $2 3 . 3 4 \%$ and $1 4 . 7 8 \%$ respectively compared with that in shifting sandy land，which shows that theair temperature can be slowed down and the air humidity would be increased by plants.Thechanging trends for photosynthetically active radiation（PAR）and solar radiation were roughlythe same,the value of daily solar radiation is maximum in shifting sandy land andthe value of daily PAR is maximum in C.mongolicumshelterbelt forest，the daily values are both smallst in theP.alba shelterbelt. The changing trends for air temperature in a fine day and a blown sand day were roughly the same，which shows large relative humidity variation at forenoon in afine day，andtherelative humiditydecreases from the sunset ina blown sandday.In summer,the spatial diferences of microclimate in thenew reclaimed land were allaffected by tree species， plant height，vegetation coverage，porosity and the distances from shelterbelt forests.
+
+Key words:microclimate；spatial diferences；air temperature；relative humidity；shelterbelt forest； Jiya countryside ; Xinjiang

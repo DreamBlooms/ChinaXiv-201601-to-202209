@@ -1,0 +1,303 @@
+[
+    {
+        "type": "text",
+        "text": "ⅡI型多功能天文经纬仪图像采集系统",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张益恭1,2,3,4，苏婕1,2,3,4，杨磊1,2,3，王建成1,2,3,4，陈林飞1,2.3，程向明1,2,3,4,张冠军1,2,3,4",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.中国科学院云南天文台,云南 昆明 650216;2.中国科学院天体结构与演化重点实验室，云南 昆明 650216；3．中国科学院天文大科学研究中心，北京 100012；4.中国科学院大",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "学，北京 100049;）",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：Ⅱ型多功能天文经纬仪是中国科学院云南天文台为了满足利用多台仪器组网监测测站本地铅垂线变化信息的需求所研制的一种地面天体测量仪器。在该仪器的图像采集系统中，使用了三台非制冷CCD作为采集终端，工作在外触发模式，利用望远镜控制系统提供的外触发信号按照观测时序触发相机采集。介绍了望远镜的具体工作模式，对图像采集系统的工作流程给予了说明；介绍了采集系统的硬件构成、软件框架和所涉及的主要编程方法。给出了图像采集系统的软件工作界面和所采集的图像，并对所拍摄恒星像成像质量进行了简单分析。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：天文仪器；天体测量；经纬仪；图像采集；程序设计中图分类号：P111 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着空间科学技术的发展，地面天体测量仪器在天球参考架建立[,2]、地球自转参数测定[3,4等领域已经逐步退出，但地面天体测量仪器在测量地球参数方面仍然能发挥重要作用，仪器通过对恒星方向的测量确定测站铅垂线在天球坐标中的指向，可以用于监测测站所在地铅垂线方向的变化信息[5,6。国内外相关研究团队利用地面天体测量仪器开展了对观测地点天文经纬度的测定工作，测定结果不仅能够用于获得垂线偏差资料[7,8]，而且通过对所测时纬残差异常波动（本地铅垂线方向的异常变化）进行分析，表明铅垂线方向的异常变化可能是一种有效的地震前兆信息[9,10]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "针对云南地区日益严峻的强震形势，利用地面天体测量仪器开展本地铅垂线变化监测工作，提供铅垂线方向的异常变化资料作为可能的地震前兆信息，为地震相关部门提供参考，对防震减灾工作的开展有着重要意义。基于以上研究背景，中国科学院云南天文台联合国内多家单位开展了多功能天文经纬仪研制工作，主要用于监测测站本地铅垂线的变化信息，在2012年完成了第一台I型多功能天文经纬仪[11,12]的研制，2019年中旬完成了后续两台Ⅱ多功能天文经纬仪的研制，仪器调试完成后将通过组网联测的方式开展本地铅垂线变化信息的监测。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "数据采集系统是天体测量仪器的重要组成部分。在天文观测数据获取方面，天体测量仪器的数据采集终端经历了从照相底片[13]到光电倍增管[14]、再到CCD相机[15]等一系列变革。在误差测量系统方面，不同天体测量仪器所使用数据采集方案则不尽相同，其中美国海军天文台旗杆镇子午环采用激光干涉仪和视频CCD构成的误差测量方案[I5]，低纬子午环采用Reticon为核心部件的误差测量方案[16]，数字天顶筒则采用高精度倾斜仪和倾角传感器作为误差测量的核心部件[17,18]。I型多功能天文经纬仪图像采集系统[12]采用一台数字相机和两台模拟相机作为误差测量系统和天文观测的数据采集终端。两台模拟相机仅具有8位的像素深度，动态范围较小，并且自身本底噪声较高、量子效率较低，不利于获取高信噪比的图像数据。此外，使用不同型号的图像采集终端增加了硬件维护和软件开发完善难度。针对I型多功能天文经纬仪图像采集系统的不足之处，Ⅱ型多功能天文经纬仪图像采集系统在图像采集终端硬件和所配套软件两方面都进行了升级，在程序设计方法上也进行了改进优化。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文主要介绍Ⅱ型多功能天文经纬仪图像采集系统的硬件构成与软件实现方法，并对在程序设计方法部分相较于I型多功能天文经纬仪的变化与改进进行说明。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1ⅡI型多功能天文经纬仪的工作模式",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ⅡI型多功能天文经纬仪采用与I型多功能经纬仪相同的转轴观测模式，针对观测纲要中的单个被测星目标，在被测星星像通过视场垂直中线之前开始露光，先用主光路CCD相机采集50幅主光路的人造星像，再采集100幅被测星图像，采集被测星的同时，电水准和轴准直光路的CCD相机也采集100幅图像；之后仪器绕方位轴（垂直方向）转置 $1 8 0 ^ { \\circ }$ ，同时镜筒随着高度轴旋转预置天顶距两倍的角度，使望远镜仍指向该被测星，随后同时采集被测星、电水准人造星象和轴准直器人造星像各100幅图像，最后采集50幅主光路人造星像。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "望远镜控制系统按照给定的观测纲要文件执行观测任务，对于单个观测目标，以设定的观测时序，通过外触发的方式控制相机进行露光并同步记录GPS时间、高度轴码盘和方位轴码盘读数。通过将气温气压信息采集模块集成到望远镜控制系统，实现在每颗星的转轴观测前对观测室气温气压信息的自动记录。Ⅱ型多功能天文经纬仪具体的工作模式见图1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GPS Time PS: Telescope Control System sends out external trigger signal based on observational program for synchronous data acquisition. Grab azimuth value Grab azimuth value Grab azimuth value Grab azimuth value Time Keeping Azimuth 50 times via rotary 100 times via rotary 100 times via rotary 50 times via rotary System scale before axis scale before axis scale after axis scale after axis (Operation Mode of he YNAO Multi-Function Astronomical Theodolite II) ↑ transposition transposition transposition transposition Tele scope Grab altitude value Grab altitude value Grab altitude value Grab altitude value System Control Altitude 50 times via rotary scale before axis 100 times via rotary scale before axis 100 times via rotary scale after axis 50 times via rotary scale after axis transposition transposition transposition transposition Air Temperature and Pressure Grab air temperature value and pressure Measurement System value once Grab artificial light Grab stellar image Grab stellar image Grab artificial light Mainaptical spoy ccD 50 times 100timesbyrCCD 100 timeatby CCD spoy cCD 50 times before axis transposition transposition after axis transposition transposition Grab artificial light Grab artificial light Acquisition Image Collimating Leveler spot image 100 times by CCD camera spot image 100 times by CCD camera Optical Path before axis after axis System transposition transposition Grab artificial light Grab artificial light Axis spot image 100 times spot image 100 times Collimating by CCD camera by CCD camera Optical Path before axis after axis transposition transposition ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2系统的硬件",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ⅱ型多功能天文经纬仪图像采集系统包含三个图像采集子系统，分别为：采集恒星像和主光路人造星象的主光路图像采集系统，用于拍摄恒星像和测定望远镜光轴指向变化；采集电水准人造星象的电水准光路图像采集系统，用于测定望远镜的水平差；采集轴准直器人造星像的轴准直图像采集系统，用于检测仪器高度轴的跳动引起的误差。三个子系统配备了同型号的非制冷CCD数字相机。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CCD相机采用Imperx公司的BOBCATCLB-B1410M-SC000面阵相机。该相机采用CCD芯片为Sony公司的ICX-285AL，是尺寸为2/3\"的行间转移CCD，像素大小为 $6 . 4 5 \\mu \\mathrm { m } \\times 6 . 4 5 \\mu \\mathrm { m }$ 0在 $1 3 9 2 \\times 1 0 4 0$ 分辨率、像素深度为12bit时，采集帧频可以达到23帧/秒①。相机由12V直流电源供电，支持外触发等多种触发模式。相机支持的数据传输协议为Base Cameralink，所配套的图像采集卡为Dalas公司的Xtium-CL_MX4，该采集卡可以支持两个Base配置的Cameralink相机、一个Medium配置或者Full配置的Cameralink相机，数据传输速度能够达到 $1 . 7 \\mathrm { G B } / \\mathrm { s } ^ { \\textcircled { 2 } }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图像采集系统采用外触发模式控制相机采集，由望远镜控制系统按照设定时序发送触发信号到采集卡，采集卡将TTL信号转换LVDS信号触发相机采集。具体的系统工作流程如图2。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f7ed8eab6f9cb9f1f3e206d14ddfca0f7b3478926cf21efdab2ea35b61f6c50a.jpg",
+        "img_caption": [
+            "图2图像采集系统框图",
+            "Fig.2Blockdiagramof the imageacquisitionsystem "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3系统的软件框架",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "II型多功能经纬仪图像采集系统使用MicrosoftVisual Studio 2010开发环境，结合图像采集卡厂家Teledyne Dalsa公司的SaperaLT 8.30 Release开发包进行图像采集软件的编写。Sapera LT是Teledyne Dalsa公司开发与其硬件产品配套的软件开发工具，包含图像采集环境配置、图像采集、图像处理和图像显示等功能模块。在I型多功能天文经纬仪图像采集系统中，使用SaperaLT开发环境提供的相机配置工具CamExpert配置相机触发模式、采集卡内存大小等信息，并生成配置文件。此外，相机工作在外触发模式下，还需要使用相机厂商Imperx公司提供的相机控制软件Bobcat Configurator CL，对相机触发参数进行设置，使之与CamExpert所设置相机配置文件相匹配，配置界面如图3。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ⅡI型多功能天文经纬仪图像采集系统的三个子图像数据采集系统采用相同软件开发框架，不同之处在于图像采集软件所开辟存储内存的大小。由图1可知，电水准光路图像采集系统和轴准直器光路图像采集系统相较于主光路图像采集系统在转轴前后分别少采集50幅图像，所开辟的内存空间为100张图像大小，主光路图像采集系统所开辟的内存空间为150张图像大小。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/01df280c438f82e3cf3b440d6536445f9bbd95986c0807c70a352414d83d704e.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4程序设计方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在程序设计方面，图像采集系统使用了TeledyneDalsa公司提供的Sapera $\\mathrm { L T } { + } { + }$ 高级 $\\mathbf { C } { + } { + }$ 库，其主要包含基础应用类（Basic Class）和GUI类（GUIClasses）③，其中基础应用类提供用于图像功能开发的基本函数，GUI类提供了常用的图形用户界面接口供开发者使用。ⅡI型多功能天文经纬仪图像采集系统相较于I型多功能天文经纬仪在图像采集流程方面没有太大变化。改进之处主要体现在两个方面：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其一，是在自定义图像采集函数Save（）中添加了图像数据存储后内存的清零函数，防止出现图像数据重复保存问题，以主光路图像采集子系统为例，实现该函数功能的关键代码语句如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "m_Buffers->Next();   \nm_StartFrame=(m_Buffers $\\scriptstyle = =$ NULL) $? 0 : \\mathrm { m } .$ _Buffers->GetIndex();//Get index number m_Buffers->Save(FileName, m_Options);//Save image   \nm_Buffers- $\\cdot >$ Clear(m_StartFrame);//Clearbuffer ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图像采集函数调用了SapBuffer类中的4个函数GetIndex()、Next()、Save()、Clear()。首先使用NextO找到Buffer的第一块图像内存，然后利用GetIndex()获取该Buffer的索引，随后用SaveO将图像数据按照图像采集系统设定的RAW格式存储到磁盘阵列，最后将该块图像内存清零。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其二，ⅡI型多功能天文经纬仪图像采集系统通过建立专用的图像存储线程，实现图像数据的自动存储。具体的方法是：将图像采集工作站的时间（观测之前需要利用GPS时间进行校准）和纲要的时间进行比对，等待观测时刻的到来。对于时间比对判断的实现方法，ⅡI型多功能天文经纬仪图像采集系统使用Win32API函GetCurrentTime()获取当前机器时间的秒计数；使用Windows 标准 $^ { C + + }$ 类CTime类的构造函数CTime(int nYear,int nMonth,int nDay,int nHour, int nMin, int nSec, int $\\mathrm { \\ n D S T } = - 1$ )构造CTime对象，输入从纲要文件中得到的年、月、日、时、分、秒等时间信息，将纲要时间换算为以秒为单位，避免了I型多功能天文经纬仪出现的\"过午夜24点的问题\"[12]，之后按照所设定观测时序通过WIN32 API函数SleepO实现时间控制，分别在望远镜转轴期间、转轴后等待下颗星观测的时间间隔，对转轴前后的图像数据进行存储。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5测试结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "目前，两台Ⅱ型多功能天文经纬仪已经开展了一年多的后续观测实验，单台仪器一个晴夜进行4个小时的观测，观测约120颗恒星，采集图像数据量约为250GB，所有的图像被存储在图像处理工作站的磁盘阵列中。观测完成后，由值班观测人员利用项目组所开发图像处理软件进行图像批量自动处理。图4为主光路图像采集系统的软件框架。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/60de71e5839a04bd46c1b8ee9216d3d0eff1c82da45f0e68579cf62a0635f97b.jpg",
+        "img_caption": [
+            "图4ⅡI型多功能天文经纬仪图像采集软件界面",
+            "Fig.4 A screenshot of the user interface of the software for recording images "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图5是Ⅱ型多功能天文经纬仪调试阶段拍摄的月面局部图像，能够清晰的看到月球表面的环形山和陨石坑，表明经过装调的望远镜光学系统状态良好。图6是电水准光路的数字CCD相机所拍摄的电水准人造星像经过放大后的图像，人造星像由单个光斑构成。图7是主光路的数字CCD相机所拍摄的一颗视星等为5.01mag的恒星经放大之后的图像，曝光时间为$4 3 \\mathrm { m s }$ ，星像的亮度分布基本符合高斯分布，轮廓的Flatness为0.26（表示对该星像进行圆拟合，有 $2 6 \\%$ 的点落在圆外）。造成星像不圆的原因主要有光学系统焦长发生变化、大气视宁度影响、望远镜的跟踪误差等。Ⅱ型多功能天文经纬仪的观测原理要求仪器在固定指向对目标进行观测，恒星相对望远镜的移动会导致星像轮廓不圆、结合大气抖动所导致的随机误差会影响恒星像中心量度坐标的测量，该仪器采用对观测目标进行连续多幅图像采集的方式，压缩该项误差。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c46ad158dbe1ebb52e9160228c03df58082f6c08cc865037b8e21ad382a6ab85.jpg",
+        "img_caption": [
+            "图5Ⅱ型多功能天文经纬仪主相机拍摄的月面局部图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1e0346d9b39a32125792192655a34519665f58f17e8a550b269140a1e835a022.jpg",
+        "img_caption": [
+            "Fig.5Parts ofMoon images recorded by the digital camera "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a626b597ab447426bc0bb658e97d298be62d3ef7b21b3c851a860b9abaa65d89.jpg",
+        "img_caption": [
+            "图7主光路相机拍摄的恒星像",
+            "Fig.7A stellar image recorded by the digital camera of main optical path "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6结束语",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ⅡI型多功能天文经纬仪是中国科学院云南天文台为了满足利用多台仪器组网监测测站本地铅垂线变化信息的需求，在I型多功能天文经纬仪的基础上进行改进所研制的新型天体测量望远镜。根据望远镜的总体技术要求，在I型多功能天文经纬仪图像采集系统的基础上进行改进，开发研制了Ⅱ型多功能天文经纬仪图像采集系统，该系统采用三台数字相机及所配套的图像采集卡和图像处理工作站作为主要硬件。利用MicrosoftVisual Studio 2010和SaperaLT8.30Release作为软件开发框架，开发了系统的软件部分。系统在两台Ⅱ型多功能天文经纬仪近一年多的观测实验中运行情况良好，所获得图像数据能够满足后续的使用要求。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] 冒蔚.云南天文台基本天体测量工作的发展[J].云南天文台台刊,1997(3):33-37. Mao Wei.DevelopmentoftheFundamental AstrometryatYunnanObservatory[J].PublicationsofYunnanObservatory1997(3): 33-37.   \n[2] 徐家岩，李东明，鲁礼志，等.中国等高仪星表的现状和未来[J].陕西天文台台刊,1995(18):107-110. XuJiayan,LiDongming,LuLzhietal.Statusquoandfutureofhineseastrolabecatalogues [J].COPublications,995(8): 107-110.   \n[3]徐家岩，刘进梅，陈洪卿，等.CSAO和VS NIFTRI等高仪合作观测纲要和试观测初步结果[J]．陕西天文台台刊,1996, 19:14-17. XuJiayan,LiuJinmei,ChenHongqing,etal.CSAOand VS FTRinternationalcooperationobserving programonHAand its primary results of testing observation [J]. CSAO Publications,1996,19:14-17.   \n[4]徐家岩，刘进梅，陈洪卿，等.CSAO和VS NIIFTRI等高仪国际合作观测精度的初步分析[J].陕西天文台台刊,1997, 20:66-70. XuJiayan,LiuJinmei, Chen Hongqing,etal.Primaryanalysisof data obtained with PHA Iin Irkutsk oninternational cooperation between CSAO and VS NIIFTRI[J].CSAO Publications,1997,2O: 66-70.   \n[5]李致森．光学测时纬仪应用于地学研究的可能性 [J].国际地震动态,1989(10):7-10+4. Li Zhisen.Posibilityofthealcatiofoticalistruments totheeteriationoftie-latitde ingeosntificesearh[J]. Recent developments in world seismology,1989(10): 7-10+4   \n[6] Wang Jiancheng,Chen Linfei,Yang Lei,et al.Theprinciple of measuringunusualchange of underground massbyoptical astrometric instrument [J]. Geodesy and Geodynamics, 2012,04: 32-38.   \n[7] BirkiB,Muler A,Kahle H G.DIADEM: The new digital astronomical deflection measuring system for high-precision measurementsofdeflectionsoftheverticalatETHZurich[C].In:ProceedingofIAGGGSM204,Porto,Portugal,2004   \n[8]GerstbachG,Picher H.Asmall CCDzenithcamera (ZC-G1)-developedforrapidgeoid monitoring indificult projects[J]. Publications of the Astronomical Observatory of Belgrade,2003,75:221-228.   \n[9]胡辉,李语强，苏有锦，等．光学天文时纬残差异常在强震预测中的实践——纪念唐山地震暨光学天文时纬残差异常发现 40 周年[J].天文研究与技术,2017,14(3):401-406. Hu hui,LiYuqiang,Suouj,tal.Practiceofnomalisofticalastroomictie-latidesidalsirogarthquake prediction [J].Astronomical Research and Technology,2017,14(3): 401-406.   \n[10]HuHui,SuYoujin,GaoYifei,etal.Anomalousastronomicaltime-latituderesiduals:apotentialarthquakeprecursor[J]. APPLIED GEOPHYSICS,2016,13(3): 570-576.   \n[11]张益恭，李彬华，杨磊，等．多功能天文经纬仪图像处理系统[J].天文研究与技术,2014,11(1):65-71. Zhang Yigong,LiBinhua,YangLei,etal.Animageprocesingsystem fora Multi-Function Astronomical Theodolite[J]. Astronomical Research and Technology,2014,11(1):65-71.   \n[12]张益恭，李彬华，杨磊，等．多功能天文经纬仪图像采集系统[J].天文研究与技术,2014,11(1):72-79. Zhang Yigong,LiBinhua,YangLei,etal.TheimageacquisitionsystemoftheYNAOMulti-FunctionAstronomicalTheodolite[J]. AstronomicalResearchandTchology214,1(1):7279.   \n[13]田凯平，殷明官，徐宗海，等．天文底片度量误差的研究 [J].中国科学院上海天文台年刊,1980(2),90-94. Tian Kaiping,Yin Mingguan,Xu Zonghai,et al.Investigationon measurement erorsoftheastrophotogram[J].ANNALSOF SHANGHAI OBSERVATORY ACADEMIA SINICA,1980(2), 90-94.   \n[14]光电等高仪研制组.II型光电等高仪 [J].天文学报,1975(2):115-122. ThePhotoelectric Astrolabe Research and Production Group.The Photoelectric Astrolabe Type II[J].ACTA ASTRONOMICA SINICA, 1975(2): 115-122.   \n[15]Stone,R.C.oet,D.G.,Moet,A.K.B.,etal.TeFagstaffAstrometricScaigTasitTelescope(FAndStarosiis Determined in the Extragalactic Reference Frame [J]. Astron. J.,1996,111(4): 1721-1742.   \n[16]彭青玉，陈林飞．低纬子午环的仪器误差[J].云南天文台台刊,1997(S1):19-23. Peng Qingyu, Chen Linfei.The instrumental errorsof theLLMC[J].Publications ofYunnan Observatory,1997(S1):19-23.   \n[17]王博，田立丽，王政，等．数字化天顶望远镜观测图像及数据处理 [J]．科学通报,2014,59(12):1100-1107. Wang Bo,TianLili,Wang Zheng,etal.Imageanddataprocessingofdigitalzenithtelescope（DZT-1）ofChina[J],Chinese Science Bulletin,2014,59(12): 1100-1107.   \n[18]田立丽，郭金运，韩延本，等．我国的数字化天顶望远镜样机 [J].科学通报,2014,59(12):1094-1099. TianLili,GuoJinyun,HanYanben,etal.Digitalzenithtelescopeprototypeofhina(DZT-1)[J]ChineseScienceBulein014, ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The Image Acquisition System of the YNAO Multi-Function Astronomical Theodolite II ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Zhang Yigong1,2,3,4,SuJie1,2,34,YangLei1,23，WangJiancheng1,34,ChenLinfe, Cheng Xiangming1,2.3,4, Zhang Guanjun1,2.3 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1. Yunnan Astronomical Observatories, Chinese Academy of Sciences， Kunming 650011,China; 2.Key Laboratory for the Structure and Evolution of Celestial Objects, Chinese Academy of Sciences，Kunming 650216, China;3. Center for Astronomical Mega-Science, Chinese Academy of Sciences， Beijing 100012, China; 4. University of Chinese Academy of Sciences, Beijing 1OoO49, China；) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The YNAO Multi-Function Astronomical Theodolite II is a ground-based astrometric telescope. Two telescopes have been built in the Yunnan Observatory. They are used to form the observation network with one first generation YNAO Multi-Function Astronomical Theodolite for monitoring the variation of plumb line of observing site. Its main imaging devices are three digital CCD cameras without cooling, which work in external trigger mode. When the telescope is observing, three sets of triggering signals are generated from the telescope control system, for controlling three digital CCD cameras,respectively. In the paper,we show the detailed information of the telescope operation mode,and give an introduction to workflow of the image acquisition system. We also give the details of hardware constitution, software framework and main programming methods of software. For demonstrating the effectiveness of the system,we provide a screenshot of the user interface of the software,some images acquired by the cameras,and an analysis of a stellar image recorded by the camera. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words : Astronomical Instrument; Astrometry； Theodolite； Image Acquisition;Programming",
+        "page_idx": 8
+    }
+]

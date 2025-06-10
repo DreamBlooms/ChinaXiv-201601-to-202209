@@ -1,0 +1,171 @@
+# 实验树鼩心肌缺血再灌注离体模型的构建
+
+杨天睿}²，苗云波}，张荣平²,余锦雯}1云南省第一人民医院老年病科,云南 昆明 650032；昆明医科大学药学院,云南 昆明 650500摘要：目的 建立实验树心肌缺血再灌注离体模型。方法 采用Langendorff离体心脏灌流系统建立实验树心肌缺血再灌注模型,依据不同的停灌和再灌注时间实验分为5组;酶标法测丙氨酸氨基转移酶(ALT),天冬氨酸氨基转移酶(AST)和乳酸脱氢酶(LDH),免疫抑制法测定肌酸激酶MB同工酶(CK-MB)2,3,5-氯化三苯基四唑染色法(TTC)测定切片梗死面积。结果心肌酶学指标和梗死面积检测发现，停灌 $3 0 \mathrm { m i n }$ 再灌注 $3 0 ~ \mathrm { m i n }$ 组和停灌 $3 0 \mathrm { m i n }$ 再灌注 $6 0 ~ \mathrm { { m i n } }$ 组灌流液CK-MB,灌流液LDH,组织ALT,组织CK-MB和组织LDH等指标均显著高于其它3组( $_ { \scriptstyle P < 0 . 0 5 } )$ ，但两组间差异无统计学意义（ $_ { \tiny { P > 0 . 0 5 } }$ 。心电分析发现，停灌 $3 0 \mathrm { m i n }$ 再灌注 $6 0 ~ \mathrm { { m i n } }$ 组心率显著低于持续灌注组，停灌 $1 5 \mathrm { m i n }$ 再灌注 $3 0 ~ \mathrm { m i n }$ 组和停灌 $3 0 ~ \mathrm { m i n }$ 再灌注 $3 0 \mathrm { m i n }$ 组 $( P { < } 0 . 0 5 )$ ，而停灌 $3 0 \mathrm { m i n }$ 再灌注 $3 0 \mathrm { m i n }$ 组心率与持续灌注组和停灌 $1 5 \mathrm { m i n }$ 再灌注 $3 0 \mathrm { m i n }$ 组差异无统计学意义 ${ \mathrm { \ P } } { > } 0 . 0 5 { \mathrm { ) } }$ ，停灌 $3 0 \mathrm { m i n }$ 再灌注 $3 0 \mathrm { m i n }$ 组的离体心脏平均心率更接近于实验树的生理指标。结论 实验树心肌缺血再灌注离体Langendorf模型构建成功，停灌 $3 0 \mathrm { m i n }$ 再灌注 $3 0 \mathrm { m i n }$ 模型效果最好。
+
+关键词：心肌缺血再灌注；离体动物模型；实验树
+
+# Establishment of an ex vivo myocardial ischemia-reperfusion model in tree shrews
+
+YANG Tianrui', MIAO Yunbo, ZHANG Rongping², YUJinwen   
+Departmentistle'sialceni;ecyicl   
+University, Kunming 650500,China
+
+Abstract:Objective To establish anexvivo model of myocardial ischemiareperfusion in tree shrews.Methods The Langendorf exvio heart perfusionsystem was used toestablishthemyocardial ischemia reperfusion model intree shrews withdifferent irigationand reperfusion time setings.Alanine aminotransferase (ALT)，aspartate transaminase (AST)and lactic dehydrogenase (LDH)levels were measured byenzyme-labeledimmunosorbentassyreatinekinase MB(CK-MB)was detected using immunosuppression method,and malondialdehyde was measured with thiobarbital staining method;the infarct size was measured using 2,3,5-triphenyltrazoliumchloride (TTC) method. Results Ischemia for $3 0 \mathrm { m i n }$ and reperfusion for 30 and $6 0 ~ \mathrm { { m i n } }$ caused more significant increase in CK-MB and LDH levels in the perfusion fluid and also in the levels of ALT, CK-MB and AST in the myocardial tissue compared with other experimental settings $_ { ( P < 0 . 0 5 ) }$ ,but these parameterswere comparable between the former two settings $( P { > } 0 . 0 5 )$ . The mean heart rate in $3 0 \mathrm { - m i n }$ ischemia with 60-min reperfusion group was obviously lower than that in continuous reperfusion group, $1 5 \mathrm { - m i n }$ ischemia with $3 0 \mathrm { - m i n }$ reperfusion group and $3 0 \mathrm { - m i n }$ ischemia with $3 0 \mathrm { - m i n }$ reperfusion group $( P { < } 0 . 0 5 ) _ { \cdot }$ ， and the heart rate was similar between the latter 3 groups $( P { > } 0 . 0 5 )$ . ECG analysis showed that the mean heart rate in $3 0 \mathrm { - m i n }$ ischemia with $3 0 \mathrm { - m i n }$ reperfusion group was closer to the physiological heartrate of tree shrews.Conclusion Wesuccessullyestablished an ex vi myocardial ischemia reperfusion model using tree shrews, and ischemia for $3 0 \mathrm { m i n }$ followed by reperfusion for $3 0 \mathrm { m i n }$ is the optimal experimental seting.
+
+Keywords: myocardial ischemia reperfusion; model in vitro; tree shrews
+
+心血管疾病在当今世界，严重威胁着人类的健康，其发病率和病死率均超过恶性肿瘤而跃居各病之首，且发病年龄呈现日益年轻化的趋势[1]。越来越多的动物实验和临床观察显示，缺血心肌再灌注后一段时间内心肌损伤会加重，即出现心肌缺血再灌注损伤(MIRI)，是影响急性心肌梗死预后的主要因素之一[2]。因此,采取有效措施防止再灌注损伤的产生或减轻其损伤程度成为热点问题，而建立稳定且可靠的实验动物模型进行全面的研究显得尤为重要。
+
+目前心脏缺血/再灌注损伤模型目前多应用于大鼠，对弼猴、昆明小鼠、日本大耳白兔、比格犬也有部分报道[3-6。树是一种新型的实验动物模型,具有体型小、繁殖快、易捕捉和饲育、养殖成本低、进化程度高，大体解剖、新陈代谢以及分子细胞层面与人的相似性高的特点，被广泛用于生物医学研究和药物安全性评价[7-8]，目前尚缺乏树鼩心脏缺血再灌注模型。本研究，我们运用Langendorff离体心脏灌流系统建立实验树心肌缺血再灌注模型，实验将新型的实验动物与稳定的实验装置结合起来，检测再灌注后灌流液及组织中心肌酶变化、计算组织切片梗死面积，综合评估模型构建情况，寻找适宜的实验条件，建立可靠的心肌缺血再灌注实验动物离体模型，为进一步心肌缺血再灌注损伤机制研究提供必要保证。
+
+# 1 材料和方法
+
+# 1.1研究材料
+
+健康成年雄性实验树鼩滇西亚种，由中国医学科学院医学生物学研究所树种质资源中心提供用，动物许可证：滇发驯繁(92-29)号，动物按照本实验室建立的饲养管理方法进行饲养。60只，年龄在4\~6月，体质量为
+
+$1 2 0 { \sim } 1 5 0 ~ \mathrm { g }$ ，术前禁食过夜，自由饮水。
+
+1.2 方法
+
+1.2.1设备与器材Langendorff(型号：PowerLab生产商：ADInstruments)心脏灌流模型，在离体灌流条件下避免神经体液因素的干扰，可直接看到心肌缺血再灌注损伤作用。
+
+表1实验分组列表Tab.1 Experimental grouping list  
+
+<html><body><table><tr><td>Groups</td><td>Stable perfusion time (min)</td><td>Coronary flow (mL/min)</td><td>Perfusion interrupt time (min)</td><td>Reperfusion time (min)</td></tr><tr><td>Group 1</td><td>90</td><td>6-12</td><td>0</td><td>0</td></tr><tr><td>Group 2</td><td>30</td><td>6-12</td><td>15</td><td>30</td></tr><tr><td>Group 3</td><td>30</td><td>6-12</td><td>15</td><td>60</td></tr><tr><td>Group 4</td><td>30</td><td>6-12</td><td>30</td><td>30</td></tr><tr><td>Group 5</td><td>30</td><td>6-12</td><td>30</td><td>60</td></tr></table></body></html>
+
+1.2.2实验分组模型构建实验共分为5组，每组保证完成实验5只，分别为持续灌注对照组（一组）停灌 $1 5 ~ \mathrm { m i n }$ 再灌注 $3 0 \mathrm { m i n }$ 组(二组),停灌 $1 5 \mathrm { m i n }$ 再灌注 $6 0 ~ \mathrm { { m i n } }$ 组(三组)，停灌 $3 0 \mathrm { m i n }$ 再灌注 $3 0 \mathrm { m i n }$ 组(四组),停灌 $3 0 \mathrm { m i n }$ 再灌注 $6 0 \mathrm { m i n }$ 组(五组)。
+
+1.2.3 建模方法 用水合氯醛( $1 \mathrm { m L } /$ 只)腹腔麻醉给药，经腹腔肝素化(普通肝素 $1 0 0 0 \mathrm { U } / \$ 只)抗凝。迅速开胸分离心脏，在主动脉距其起始部 $4 { \sim } 5 ~ \mathrm { m m }$ 快速将主动脉和其他血管一并剪断后取出心脏，立即放人 $0 { \sim } 4 ~ \mathrm { ^ { \circ } C }$ K-H液中，排出心腔中的残留血液，尽快将心脏移至Langendorff灌注装置上，主动脉逆行插管，同时放置球囊进人左室后，用K-H液 $( \mathrm { p H } 7 . 3 5 { \sim } 7 . 4 5 )$ 灌注，恒温$( 3 7 ^ { \circ } \mathrm { C } )$ 恒压 $\mathrm { ( 6 0 ~ m m H g ) }$ ，冠脉流量为 $6 { \sim } 1 2 ~ \mathrm { m L / m i n }$ ，将肺动脉根部剪开保证冠状动脉回流通畅，流出液用量筒计时收集，以代表冠脉流量。
+
+K-H液成分 $: \mathrm { N a C l 6 . 9 2 g / L , K C l 0 . 3 5 g / L , K H _ { 2 } P O _ { 4 } }$ $1 . 2 \mathrm { m L / L } \mathrm { , N a H C O _ { 3 } 2 . 1 g / L , M g S O _ { 4 } 0 . 2 9 6 \mathrm { g / L } }$ 葡萄糖 $2 \mathrm { g / L }$ ）$\mathrm { C a C l _ { 2 } 0 . 2 8 \ g / L , E D T A 0 . 1 8 7 \ g / L _ { \circ } }$ 盐酸调节溶液酸碱度。灌流全程K-H液用 $9 5 \%$ （204号 $\mathrm { O } _ { 2 }$ 和 $5 \%$ （20 $\mathrm { C O } _ { 2 }$ 混合气平衡。在右房及心尖部放置记录电极，连接至多导电生理仪，全程记录灌流心脏的心电情况，心脏灌流稳定后开始实验。
+
+待心脏灌注结束，立即取下心脏，于预冷的生理盐水中冲去血渍，用滤纸吸干水分，去除血管及心房组织，将心脏置 $- 2 0 \mathrm { { ^ { \circ } C } }$ 冷冻2h后，沿心脏冠状面以 $2 \mathrm { m m }$ 间隔切出6片心肌，之后将心室肌组织分割成 $0 . 2 \ \mathrm { g }$ 大小的组织块，分别置于冻存管中，液氮冻存后转移至 $- 8 0 \mathrm { ~ \textdegree C }$ 冰箱中保存，以备下步实验。
+
+# 1.2.4成功造模评价指标
+
+1.2.4.1模型心电和灌流情况离体模型在实验过程中心脏的心电稳定，心脏跳动保持大于200次/min，未出现明显的心率减慢或者持续室性心律失常，甚至心脏停跳的情况，心脏灌流稳定，保持恒温( $3 7 ^ { \circ } \mathrm { C } )$ 恒压 $\mathrm { 6 0 ~ m m H g }$ 0灌注，冠脉流量在 $6 { \sim } 1 2 ~ \mathrm { m L / m i n }$ □
+
+$1 . 2 . 4 . 2 \ \cdot \mathrm { s }$ 肌酶学结果分析测定不同时段灌注液及心肌组织标本中丙氨酸氨基转移酶/谷丙转氨酶(ALT/GPT)、天冬氨酸氨基转移酶/谷草转氨酶(AST/GOT)、肌酸激酶同工酶(CK-MB）乳酸脱氢酶(LDH)等含量，对比组内缺血再灌注前后的变化，分析不同停灌和再灌注时间对各项数值的影响。依据组内不同时段灌注液及心肌组织标本心肌酶含量，评价心肌损害严重程度。1.2.4.3心肌梗死面积比较心肌组织切片后TTC染色进行数码照相，计算梗死面积，进行组内比较分析。
+
+1.2.5实验常见问题实验动物发生麻醉意外，麻醉过程中或之后死亡；实验动物肝素化不充分，离体模型制作过程中血液凝固，冠状动脉及心室腔血栓形成，实验失败；心脏灌流过程中未保持恒温 $( 3 7 ~ \mathrm { ^ { \circ } C } )$ 恒压 $\mathrm { 6 0 ~ m m H g }$ 灌注；灌注液成分配比错误或酸碱度调定不适宜等；Langendorff灌注装置出现管路不通、漏液等故障，不能保证实验顺利进行；自制乳胶薄膜球囊质量不佳直接影响心室内压测定；悬吊心脏时损伤冠状动脉或套管管径与动脉大小不匹配;主动脉插管深浅不宜，造成灌流液从主动脉分支漏出或者挡住冠状动脉人口甚至损伤主动脉瓣；操作不熟练，实验时间过长，超过6h未完成实验。1.2.6ALT、AST、CK-MB和LDH测定 标本来源:不同时段灌注液及心肌组织样本。使用仪器：酶标仪，生化分析仪，微量移液器，旋涡混匀器等。主要试剂：谷丙转氨酶(ALT/GPT)测试盒，南京建成(货号C009-2微板法);谷草转氨酶(AST/GOT)测试盒，南京建成(货号C0010-2微板法)；肌酸肌酶同工酶检测试剂盒[CreatineKinaseIsoenzyme(CK-MB)AssayKit」,南京建成;乳酸脱氢酶(LDH)测试盒，南京建成(货号C020-2微板法)。1.2.7TTC法测定梗死面积标本来源：不同时段心肌组织样本。使用仪器：培养皿,移动器， $3 7 ~ \mathrm { ^ { \circ } C }$ 恒温水浴锅，玻片，TTC染液(南京建成)，显微镜等。实验原理：TTC与正常组织中的呼吸链反应而成红色，而缺血组织内呼吸链酶活性下降，不能反应，故不会变化呈苍白，可区分梗死心肌与正常和缺血心肌，因染色后较易观察且灵敏性高而被广泛用于研究离体心脏缺血/再灌注损伤中[]
+
+染色结果：非梗死区染色为红色，梗死区呈灰白色，红色区与灰色区之间为缺血区。
+
+# 1.3 资料分析
+
+采用SPSS17.0统计学软件进行数据处理。符合
+
+正态分布的计量资料以均数 $\cdot \pm$ 标准差表示，组内比较采用独立样本 $t$ 检验，计量资料各组间的比较使用单因素方差分析。以 $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+# 2.1缺血再灌注模型组间比较
+
+实验室检测不同时间的冠状动脉流出液及心肌均浆中CK-MB、LDH、ALT、AST含量,TTC染色后观察心肌梗死情况。灌流液、心肌组织间CK-MB、LDH、ALT、AST含量及心肌梗死面积在五组间比较具有极显著性差异 $\scriptstyle { \mathcal { P } } < 0 . 0 1$ ，表2,表3)。两两比较发现除个别项目外，其心肌酶含量二组显著高于一组，三组显著高于一组、二组,四组显著高于一组、二组、三组,五组显著高于一组、二组、三组（ $( P { < } 0 . 0 5 )$ ，四组和五组之间没有显著性差异 $( P { > } 0 . 0 5 )$ ;切片梗死面积比较二组、三组显著高于一组，四组、五组显著高于前面三组( $_ { ( P < 0 . 0 5 ) }$ ，四组和五组之间差异无统计学意义( $P { > } 0 . 0 5$ ，表2,表3)。
+
+第三组平均心率慢于第一、二组，第四组平均心率快于第三组,第五组平均心率慢于第一、二、四组，均有显著性差异 $( P { < } 0 . 0 5 )$ 。测定再灌注后不同组别的心率分别为：一组 $( 3 0 5 . 1 2 { \scriptstyle \pm 2 0 . 7 7 } )$ BPM、二组 $( 3 0 7 . 9 8 { \pm } 1 4 . 8 8 ) \$ BPM、三组 $( 2 6 6 . 8 9 { \pm } 1 4 . 1 0 ) \mathrm { B P }$ M，四组 $\left( 3 0 1 . 3 7 { \pm } 1 2 . 3 8 \right)$ BPM,五组 $( 2 7 1 . 5 9 \pm 1 9 . 7 2 \$ BPM，五组间比较差异有统计学意义 $( P { < } 0 . 0 5 )$ 0
+
+表2再灌注后组间灌流液ALT,AST,CK-MB,LDH(U/L)及梗死面 Tab.2Comparisonof ALT,AST,CK-MB,and LDH(U/L)in the perfusion fluidand myocardial infarctionarea $( \% )$ after reperfusion among the groups (Mean±SD, n=5)   
+
+<html><body><table><tr><td>Group</td><td>ALT in perfusion fluid</td><td>AST in perfusion fluid</td><td>CK-MB in perfusion fluid</td><td>LDH in perfusion fluid</td><td>myocardial infarction area</td></tr><tr><td>Group 1</td><td>16.55±1.60</td><td>13.99±3.88</td><td>4.11±0.37</td><td>233.73±60.98</td><td>6.35±3.62</td></tr><tr><td>Group 2</td><td>64.17±9.86a</td><td>59.46±10.17a</td><td>13.53±1.61a</td><td>372.27±41.91a</td><td>15.09±0.74a</td></tr><tr><td>Group 3</td><td>65.66±13.70a</td><td>66.16±12.40a</td><td>9.88±3.33a b</td><td>348.51±41.31a</td><td>20.26±6.89a</td></tr><tr><td>Group 4</td><td>75.72±10.85a</td><td>67.97±8.46a</td><td>21.80±1.92a,b, c</td><td>471.64±61.45a, b,c</td><td>31.49±11.01a,b, c</td></tr><tr><td>Group 5</td><td>81.10±11.66a b,c</td><td>86.79±8.85 a,b.c d</td><td>21.67±1.87a,b, c</td><td>521.21±28.22, b.c</td><td>31.08±9.49a,b, c</td></tr><tr><td>F</td><td>30.365</td><td>43.359</td><td>69.545</td><td>27.761</td><td>11.017</td></tr><tr><td>P</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td></tr></table></body></html>
+
+Group 1: Continuous pouring; Group 2: Stopped pouring $1 5 ~ \mathrm { m i n }$ then started reperfusion $3 0 ~ \mathrm { m i n }$ ； Group 3: Stopped pouring 15 min then started reperfusion 60 minutes;Group 4: Stopped pouring $3 0 ~ \mathrm { m i n }$ then started reperfusion $3 0 ~ \mathrm { m i n }$ ；Group 5:Stopped pouring $3 0 ~ \mathrm { m i n }$ then started reperfusion $6 0 \mathrm { m i n }$ $^ { \mathrm { a } } P { < } 0 . 0 5$ vs Group 1; $^ { \mathrm { b } } P { < } 0 . 0 5$ vs Group 2; $^ { \mathrm { c } } P { < } 0 . 0 5$ vs Group 3; $^ { \mathrm { d } } P { < } 0 . 0 5$ vs Group 4.
+
+表3组间再灌注后组织中ALT,AST,CK-MB,LDH Tab.3 Comparisonof ALT,AST,CK-MB,LDHintissues after reperfusion between teams (U/L,Mean±D,n=5)   
+
+<html><body><table><tr><td>Group</td><td>ALT in tissue</td><td>AST in tissue</td><td>CK-MB in tissue</td><td>LDH in tissue</td></tr><tr><td>Group 1</td><td>21.67±5.82</td><td>24.57±5.91</td><td>5.23±0.80</td><td>170.32±51.84</td></tr><tr><td>Group 2</td><td>59.94±9.27a</td><td>68.60±4.93a</td><td>12.92±10.09a</td><td>313.19±48.17a</td></tr><tr><td>Group 3</td><td>68.06±9.15 a</td><td>63.78±6.57a</td><td>13.11±2.38a</td><td>377.36±52.23a</td></tr><tr><td>Group 4</td><td>79.15±9.63a, b,c</td><td>75.59±5.59.</td><td>21.50±2.57a, b,c</td><td>478.17±45.51a b, c</td></tr><tr><td>Group 5</td><td>78.73±4.43,b, c</td><td>84.91±9.27a,b., d</td><td>22.98±0.86a b.c</td><td>481.63±66.03a,b, c</td></tr><tr><td>F</td><td>44.313</td><td>61.081</td><td>87.928</td><td>29.623</td></tr><tr><td>P</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.000</td></tr></table></body></html>
+
+$^ { \mathrm { a } } P { < } 0 . 0 5$ vs Group 1; $^ { \mathrm { b } } P { < } 0 . 0 5$ vs Group 2; $^ { \mathrm { c } } P { < } 0 . 0 5$ vs Group 3; $^ { \mathrm { d } } P { < } 0 . 0 5$ vs Group 4.
+
+# 2.2再灌注前后组内比较
+
+再灌注后二组、四组灌流液中CK-MB显著升高$( P { < } 0 . 0 5 )$ ,一组持续灌注后CK-MB显著下降 $( P { < } 0 . 0 5 )$ ，三组和五组CK-MB与再灌注前相比，差异无统计学意义 $P { > } 0 . 0 5$ ，图1)。
+
+![](images/fe70e1468c6cb3a06eb68d6e3cd180d93a5c9b668c57c0457e5eaa46aca48741.jpg)  
+图1再灌注前后灌流液中CK-MB(U/L)比较 Fig.1 Comparison of CK-MB(U/L） in perfusion fluid before and after reperfusion. $^ { * } P { < } 0 . 0 5$ ：
+
+再灌注后一组、二组、三组、四组和五组组织中CK-MB与再灌注前相比，差异无统计学意义( $P { > } 0 . 0 5$ ，图2）。
+
+30|Before reperfusion ■After reperfusion C 1 Group1Group 2 Group 3Group 4 Group 5
+
+再灌注后二组、三组、五组灌流液中LDH显著升高$( P { < } 0 . 0 5 )$ ，一组和四组LDH与再灌注前相比，差异无统计学意义( $\scriptstyle \mathtt { \backslash } P > 0 . 0 5$ ，图3）。
+
+再灌注后一组、二组、三组、四组和五组组织中LDH与再灌注前相比，差异无统计学意义（ $P { > } 0 . 0 5$ ，图4)。
+
+再灌注后二组、三组、四组、五组灌流液中ALT显著升高 $( P { < } 0 . 0 5 )$ ，一组ALT与再灌注前相比，差异无统计学意义( $\scriptstyle \mathtt { \backslash } P > 0 . 0 5$ ，图5）。
+
+![](images/b584abfbce1899afc2e0681f08cc4553d18587e1275ab2e6c8f04ff548473eef.jpg)  
+图3再灌注前后灌流液中LDH(U/L)比较 Fig.3 Comparison to LDH(U/L)in perfusion fluid before and after reperfusion. $^ { * } P { < } 0 . 0 5$
+
+![](images/0945264d600f5515d834349bf00a811c59ec2dba550c8308ccb43f6017608974.jpg)  
+图4再灌注前后组织中LDH(U/gport)比较 Fig.4 Comparison to LDH(U/gport) in tissue before and after reperfusion.
+
+![](images/56520a0c2bb4b41e7863bd5a09f436244931f258597bc81ce5ea3dbcb1fba59d.jpg)  
+图2再灌注前后组织中CK-MB(U/gport)比较 Fig.2 Comparison to CK-MB (U/gport） in tissue before and after reperfusion.   
+图5再灌注前后灌流液中 $\mathrm { { A L T } ( U / L ) }$ 比较 Fig.5 Comparison to ALT (U/L） in perfusion fluid before and after reperfusion. $^ { * } P { < } 0 . 0 5$
+
+再灌注后三组、四组和五组组织中ALT显著升高中 $_ { ( P < 0 . 0 5 ) }$ ，一组、二组组织中ALT与再灌注前相比，差异无统计学意义( $P { > } 0 . 0 5$ ，图6)。
+
+再灌注后三组、五组灌流液中AST显著升高( $P <$ 0.05)，一组、二组和四组AST与再灌注前相比，差异无统计学意义（ $P { > } 0 . 0 5$ ，图7）。
+
+再灌注后二组、三组和五组组织中AST显著升高$_ { ( P < 0 . 0 5 ) }$ ,一组、四组组织中AST与再灌注前相比,差异无统计学意义( $P { > } 0 . 0 5$ ，图8)。
+
+组织切片经TTC染色后观察心肌梗死面积，梗死区域组织发白，可见明显的分界线，梗死区内出血。通过分析发现，再灌注后二组和三组心肌梗死面积显著升高 $_ { ( P < 0 . 0 5 ) }$ ，一组、四组和五组心肌梗死面积与再灌注前相比，差异无统计学意义（ $P { > } 0 . 0 5$ ，图9)。
+
+![](images/744b2def7927f1cbbf5f02983f40f8a0430e275f8d0aaa7ca9f62de4e2578e82.jpg)  
+图6再灌注前后组织中 $\operatorname { A L T } ( \mathrm { U / g p o r t } )$ 比较 Fig.6 Comparison to ALT $\mathrm { ( U / g p o r t ) }$ in tissue before and after reperfusion. $^ { * } P { < } 0 . 0 5$
+
+![](images/a81beb1b58c1af48d5143c08ad152355b375127c73dbede19960c0e7931452f5.jpg)  
+图7再灌注前后灌流液中AST(U/L)比较 Fig.7Comparison to AST (U/L） in perfusion fluid before and after reperfusion. $^ { * } P { < } 0 . 0 5$
+
+![](images/46a2c768793c039717580e7d85d884ab00cb7334cdb671c9e9e9972671e8d3b1.jpg)  
+图8再灌注前后组织中AST(U/gport)比较 Fig.8 Comparison to AST $\scriptstyle ( \mathrm { U } / \mathrm { g p o r t } )$ in tissue before and after reperfusion. $^ { * } P { < } 0 . 0 5$
+
+# 3讨论
+
+随着对树鼩研究的深人，显示树与灵长类有较近的亲缘关系，有文献报道了树的心电图特征、血液学及生化指标[0]、主要脏器重量及脏器系数1]、脑发育情况[12]、胃肠道排空时间[13]等方面的情况，目前已建立了感染性疾病模型[14-16] 精神[17]和神经疾病模型[18-19]、代谢性疾病模型[20]、癌症模型[21]等，尚缺乏实验树心血管系统模型。
+
+![](images/8a23270bafd4ea975ed8750b88f4bc76f5b4a497e9bd769311392c58133d046e.jpg)  
+图9再灌注前后梗死面积比较 Fig.9Comparison tomyocardial infarction area in tissue before and after reperfusion. $^ { * } P { < } 0 . 0 5$
+
+Langendorff离体心脏灌流模型因具有较高的可重复性、良好的稳定性和相对较低的技术要求，而且可以排除其他器官及神经体液系统对心脏的影响，是心血管研究领域中使用最为广泛的实验模型之一[22],随着该技术的广泛应用,包括心肌缺血/再灌注损伤、心肌细胞治疗和移植心脏保存在内的众多研究取得重大突破。但在实验过程中，我们深切感受到该模型在制备过程中，影响因素比较多，要想得到稳定有效的离体心脏模型，除了要熟练掌握制备技巧外，还要注意其他的一些因素，如：实验动物的麻醉、K-H液的配置、灌注液温度、主动脉插管的位置和深度、灌注流量或灌注压、球囊的大小、管路内的气泡等，其中任一因素的失误都可能导致实验失败或降低实验结果的准确性。
+
+心肌缺血再灌注损伤的发生是一个非常复杂的病理过程[19],当心肌再灌注后产生大量的氧自由基[5,23-25],细胞膜结构受到严重损伤，细胞膜通透性增加，使细胞内酶大量释放入血液，其外漏的程度可间接反映心肌再灌注受损程度，对判定心肌梗死的时间、面积、再发心肌梗死以及再灌注情况均具有重要的价值[27-28]。缺血再灌注动物模型构建中，缺血时间和再灌注时间是最重要的两个指标，目前对大鼠缺血再灌注动物模型构建的研究发现，缺血 $1 0 ~ \mathrm { m i n }$ 时对大鼠离体心脏所造成的再灌注损伤已经发生，而缺血 $4 0 ~ \mathrm { m i n }$ 对大鼠离体心脏所造成的再灌注损伤较为严重[27-28],考虑到模型建立的成功性、损伤后的恢复程度及药物的可干预性，综合评价认为大鼠离体心脏缺血再灌注损伤模型的缺血时间以 $1 5 { \sim } 3 0 \mathrm { m i n }$ 为宜。
+
+此外，陈蝉娟等[30报道，大鼠Langendorff离体心脏局部缺血再灌注模型构建时局部缺血 $3 0 ~ \mathrm { m i n }$ 时CK、LDH开始出现上升趋势,CK,LDH值在再灌注 $1 5 \mathrm { m i n }$ 出现高峰，再灌注 $1 5 \mathrm { m i n }$ 与再灌注 $3 0 \mathrm { m i n }$ 、再灌注 $3 0 \mathrm { m i n }$ 与再灌注 $7 5 ~ \mathrm { m i n }$ 差异无统计学意义；TTC染色结果提示，白色梗死区域随再灌注时间延长而不断增大，但再灌注 $3 0 . 6 0 , 1 2 0 \mathrm { \ m i n }$ 的心肌梗死面积无明显统计学差异。同时有文献报道在离体心脏缺血再灌模型中再灌注 $6 0 ~ \mathrm { { m i n } }$ 时足以评估心脏血流动力学和心肌梗死面积等指标的变化。综合评价认为大鼠离体心脏缺血再灌注损伤模型的再灌注时间以 $3 0 { \sim } 6 0 ~ \mathrm { m i n }$ 为宜。基于大鼠的报道，本研究考虑设置了 $1 5 ~ \mathrm { m i n }$ 和 $3 0 ~ \mathrm { m i n }$ 两个停灌时间梯度，以及 $3 0 ~ \mathrm { m i n }$ 和 $6 0 ~ \mathrm { { m i n } }$ 两个再灌注时间梯度，对模型进行优化。
+
+通过比较同组内缺血与再灌注后灌流液及心肌组织标本中AST、ALT、CK、LDH等含量及心肌切片梗死面积大小，发现心肌酶学指标及梗死面积在再灌注后均有不同程度增加，缺血再灌注模型构建成功。对比缺血再灌注组间各指标的变化和组织切片梗死情况，发现五组模型间具有极显著性差异。停灌 $3 0 ~ \mathrm { m i n }$ 再灌注 $3 0 \mathrm { m i n }$ 组与停灌 $3 0 \mathrm { m i n }$ 再灌注 $6 0 \mathrm { m i n }$ 组其缺血再灌注后各指标及心梗面积明显高于其他三组，再灌注损伤程度与心肌酶学数值高低及梗死面积的大小呈正比关系，该两组心肌缺血再灌注后损害最严重，这与既往研究结果一致[27-30]。但在这两组模型实验过程中心电情况分析中，停灌 $3 0 \mathrm { m i n }$ 再灌注 $3 0 \mathrm { m i n }$ 组的平均心率更接近于实验树的生理指标，优势较为明显，所以这组模型设置较为合理，可以构建可靠稳定的实验动物模型。实验树鼩心肌缺血再灌注离体Langendorff模型构建成功,停灌 $3 0 ~ \mathrm { m i n }$ 再灌注 $3 0 \mathrm { m i n }$ 模型效果最好。
+
+# 参考文献：
+
+[1]卫生部心血管病防治研究中心.中国心血管病,2010[M].北京:中国大百科全书出版社,2011:14-5.  
+[2]European Heart Rhythm Association,European Association forCardio-Thoracic Surgery，Camm AJ,et al.Guidelines for themanagement of atrial fibrillation: theTask ForcefortheManagement of Atrial Fibrillation of the European Society ofCardiology (ESC)[J].EurHeartJ,2010,31(19):2369-429.  
+[3」吴志林，褚淑娟,姚尚龙,等.不同剂量右美托咪定预处理对大鼠心肌缺血再灌注损伤以及炎症反应的影响[J].华中科技大学学报：医学版,2015,4(4):445-7.  
+[4」王刚,刘鹏,靳凤琳,等.环孢素A对心肌缺血再灌注Fas/FasL蛋白表达及心肌细胞凋亡的影响[J].贵州医药,2016,7(39):580-2.  
+[5]韩 勇,郭立荣,孔德营,等.20-HETE在心肌缺血再灌注损伤中的作用及机制研究[J].重庆医学,2015,32(32):4465-8.  
+[6]于佳慧,李玉红,段真珍,等.不同缺血再灌注时间对大鼠离体心脏缺血/再灌注损伤的影响[J].中国药学杂志，2014,18(18):1605-9.  
+[7]王媛媛,徐文漭,李 霞,等.六种实验动物心血管系统比较组织学观察[J].实验动物与比较医学,2014,34(3):199-204.  
+[8]许凌,范宇,蒋学龙,等.树进化分类地位的分子证据[J].动物学研究,2013,34(2):70-6.  
+[9」王燕,胡慧媛,赵美,等.TTC染色评价豚鼠离体心脏缺血/再灌注损伤梗死面积的适宜观察时间及计算方法[J].中国医科大学学报，2013, 42(2): 160-4.  
+[10]白继丽,孙晓梅,王欣,等.人工饲养树血液学及生化指标正常值测定及分析[J].中国比较医学杂志,2009,19(7):38-41.  
+[11]叶尤松,罕园园,黄璋琼,等.野生成年树鼩主要脏器重量及脏器系数的测定分析[J].中国比较医学杂志,2011,21(4):62-5.  
+[12]角建林,何保丽,郑 红,等.树、恒河猴和大鼠脑发育的比较研究[J].昆明医学院学报,2010,31(5):39-41.  
+[13]陈丽玲,刘汝文,何保丽,等.树与大、小鼠胃肠排空时间的比较[J].实验动物与比较医学,2012,32(3):241-2.  
+[14]赵西平,田展飞,陈义春,等.丙型肝炎病毒体外可感染树鼩肝细胞[J].中华肝脏病杂志,2005,13(11): 805-7.  
+[15]王文广,黄晓燕,徐 娟,等.EV71可感染幼龄中缅树鼩[J].动物学研究,2012,33(1): 7-13.  
+[16]SA Li, WH Lee,Y Zhang. Two bacterial infection models in treeshrew for evaluating the efficacy of antimicrobial agents [J].Zoological Res,2012,33(1): 1-6.  
+[17]孙永梅,杨建珍,孙华英,等.慢性吗啡依赖树鼩模型的建立[J].动物学研究,2012,33(1): 14-18.  
+[18]Li SQ,Zhao G. Changes of hippocampal neuron microenvironmentand contents of amino acid after focal cortical brain ischemia in treeshrews[J].Chin JPathophysio1,2008,24(6): 657-660.  
+[19]唐代彬,李树清.树鼩脑缺血时海马微环境与血脑屏障通透性改变的可能机制[J].中国微循环,2008,12(2):76-80,封2.  
+[20]李海燕,黎家敏,李靖潇,等.高糖高脂饲料联合地塞米松诱发树血糖、血脂异常[J].实验动物与比较医学,2010,30(3):197-200,204.  
+[21]HJ Xia, Wang CY, Zhang HL,et al. Characterization of spontaneousbreast tumor in tree shrews (Tupaia belangeri chinenesis）[J].Zoological Res,2012,33(1): 55-59.  
+[22]王小晓,王幼平,余海滨,等.大鼠Langendorff离体心脏灌流模型的制备经验及其影响因素分析[J].中药药理与临床,2014,30(6):184-6.  
+[23]Valko M,Leibfritz D,Moncol J, et al.Free radicals and antioxidants innormal physiological functions and human disease［J]. Int JBiochem Cell Biol,2007,39(1): 44-84.  
+[24]吕祥威,徐彤彤.6-姜酚抑制氧化应激减轻大鼠心肌缺血/再灌注损伤[J].临床心血管病杂志,2017,(6):575-9.  
+[25]伍陈海.姜黄素对大鼠心肌缺血再灌注损伤的保护作用[J].重庆医学,2011,40(1): 25-6,29.  
+[26] Sarapultsev P, Chupakhin O, Sarapultsev A,et al. New insights into the treatment of myocardial infarction[J].Int JExp Pathol, 2012,93(1): 18-23.  
+[27] Stone GW,Maehara A,Lansky AJ,et al.A prospective NaturalHistory study of coronary atherosclerosis[J].N Engl JMed, 2011,364(3): 226-35.  
+[28]Mozaffri MS,Liu JY,Abebe W,et al.Mechanisms of loaddependency of ischemia reperfusion injury[J].Aw JCardio Dis,2013,3(4): 180-96.  
+[29] Amanl M,Jeddi S,Ahmadiasl N,et al. Effct of HEMAND onlevel of CK-MB and LDH enzymes after ischemia/reperfusioninjury in isolated rat heart[J].Bioimpacts Bi,2013,3(2):101-10.  
+[30]陈蝉娟,潘 眩,赵明镜,等.大鼠Langendroff离体心脏局部缺血再灌注模型建立及功能评价[J].中国比较医学杂志,2013,23(12):21-6.

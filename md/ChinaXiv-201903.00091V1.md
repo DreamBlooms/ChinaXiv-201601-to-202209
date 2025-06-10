@@ -1,0 +1,296 @@
+# 脉冲直流环节高频链辅助逆变器与SRSPWM混合调制研究
+
+常玉洁女 1993年生，硕士，研究方向为电力电子与电力传动，
+
+![](images/c1a31a026d7441e6bddee1a8daa80d6c660aab30cc0a5c1fedba3913ad84989d.jpg)
+
+常玉洁」　周朝阳²　杨　春4李雪飞³　杜会卿4(1.北京交通大学电气工程学院北京1000442.国网天津市电力有限公司天津3000103.中车长春轨道客车股份有限公司长春 1300624.北京交通大学北京市轨道交通电气工程技术研究中心北京100044)
+
+摘要：为保证脉冲直流环节高频链辅助逆变器较高的输出电压质量，引进SRSPWM混合调制策略。该调制前级采用移相控制方式，而移相角度由6脉波与三角载波的占空比决定；后级实现对前级的解调，但在一个基波周期内仅有1/3周期处于调制状态，与传统SPWM调制相比大大减小了开关损耗。通过数学推导验证了该调制方法的可行性，最后对该混合调制策略进行了仿真与实验验证。
+
+关键词：脉冲直流环节高频链辅助逆变器SRSPWM混合调制谐波分析输出LC滤波器
+
+中图分类号：TM464
+
+# High-Frequency Auxiliary Inverter With Pulsating DC Link and Study of SRSPWM Method
+
+![](images/1d381cf698605f8c3214285e41ae803721921627f0536ac4a7b7575928d8d8dd.jpg)
+
+周朝阳女 1991年生，硕士，研究方向为城轨列车辅助逆变器及其控制。
+
+Chang Yujie'Zhou Zhaoyang²Yang Chun'Li Xuefei³ Du Huiqing' (1.Beijing Jiaotong UniversityBeijing100044 China 2. State Grid Tianjin Electric Power Co.,Ltd. Tianjin 300010 China 3.CRRC Changchun in Railway Vehicle Co.,Ltd. Changchun130062 China)
+
+Abstract: In order to ensure high-frequency auxiliary inverter with the high quality of the output voltage, the single-reference six-pulse width modulation (SRSPWM) hybrid modulation strategy is introduced in the paper. The before class adopts phase-shift PWM modulation that the shift angle decided by the duty ratio of six pulse and triangular while the after class realizes the demodulation that only one-third of a fundamental cycle is in modulation condition and this can reduce the switching loss greatly compared with the traditional SPWM modulation using SRSPWM modulation strategy. The feasibility of the modulation method is verified by mathematical deduction,and the hybrid modulation strategy is verified through simulations and experiments.
+
+Keywords: High-frequency auxiliary inverter with pulsating DC link, singlereference six-pulse width modulation (SRSPWM), harmonic analysis, output LC filter
+
+# 1 引言
+
+目前城轨列车辅助逆变器的主流拓扑结构分为两种：工频隔离式和单向DC-DC变换型高频链逆变器，分别如图1、图2所示[1]。工频隔离式辅助逆变器采用工频变压器进行隔离和变压，虽然功率器件少、结构简单、技术成熟，但是体积、质量大，噪声污染大，且发热严重。单向DC-DC变换型高频链逆变器采用高频变压器，体积、质量小，但中间直流滤波环节往往采用较大的电解电容，由于其特殊工作原理极易造成电解液的干涸，在 $1 0 0 \mathrm { { ^ circ C } }$ 的工作环境下，寿命只有几千小时，极大地影响了逆变器的寿命，虽然近年来采用耐压高、寿命长的膜电容来替代电解电容，其工作寿命也仅仅提高到$2 0 \ 0 0 0 \mathrm { h }$ ，而且为保证中间直流电压较平滑，往往采用较大的膜电容[46]，无疑增加了系统的体积、质量，降低了功率密度，混合动力动车组辅助逆变系统（采用工频隔离式拓扑）3和广州地铁1号线辅助逆变系统（采用单向DC-DC 变换型拓扑）[2]功率对比见表1。由表可知单向DC-DC变换型拓扑形式在功率密度方面仍然具有很大的优势。为避免上面提到的短寿命问题，并且为了进一步提高功率密度，考虑到城轨列车辅助逆变器需承受高压大功率的特点，本文采用一种省略中间滤波环节的全桥型脉冲
+
+$L _ { \mathrm { i n } }$   
+333 六本六本六 工频变压器 Z   
+/ Cin 昌   
+dc 六本六本六本 C
+
+![](images/5b8bd41ce9a11e605418e5e23db2ff59a47bfebab6d2352742b333be3486b9c0.jpg)  
+图2单向DC-DC 变换型高频链逆变器拓扑结构 Fig.2The topology of high-frequency link inverter with unidirectional DC-DC
+
+# 表1常见的两种辅助变流器功率密度对比
+
+Tab.1 Two kinds of common auxiliary inverter power density contrast   
+
+<html><body><table><tr><td>项目</td><td>质量/kg</td><td>功率/kV·A</td><td>功率密度</td></tr><tr><td>混合动力动车组</td><td>1050</td><td>100</td><td>0.0952</td></tr><tr><td>广州地铁1号线</td><td>480</td><td>77</td><td>0.160 4</td></tr></table></body></html>
+
+直流环节高频链逆变拓扑形式，如图3所示。
+
+该拓扑主要由两部分组成：前级DC/HFDC和后级HFDC/LFAC。由于中间滤波环节的省略，中间电压不再是恒定直流而是脉冲形式，且前后相互关联，不能独立控制，传统的调制方式不再适用。
+
+# 2 SRSPWM混合调制研究与谐波分析
+
+# 2.1SRSPWM混合调制方法
+
+所谓SRSPWM混合调制方法[是前级DC/HFDC采用移相PWM调制，但调制波并不是常规的正弦波，而是三相输出线电压绝对值的最大值，即6脉波；后级HFDC/LFAC实现解调，但在一个基波周期中每个开关管只有1/3的时间工作在调制状态，其他1/3的时间一直工作在导通状态，剩余1/3的时间一直工作在关断状态。相比于传统的SPWM调制，采用该调制方法将开关损耗降低到原来的 $3 3 \%$ 。
+
+![](images/d84ac52f17adfcfbdf579610c1f3d2875f6833f7b81448f59e09ee4542436deb.jpg)  
+图1工频隔离式辅助逆变器拓扑结构  
+Fig.1The topology of auxiliary inverter with power frequency isolation transform   
+图3全桥型脉冲直流环节高频链逆变器拓扑结构  
+Fig.3Topology of full bridge high-frequency inverter with pulsating DC link
+
+# 2.1.1 前级DC/HFDC的调制方法
+
+对于图3所示的脉冲直流环节高频链逆变器拓扑， $\mathrm { { Q } _ { 1 } \sim Q _ { 4 } }$ 在一个载波周期内各导通半个周期,其中 $\mathbf { Q } _ { 1 }$ 和 $\mathrm { ~ Q } _ { 3 }$ 相移一定的相位，该相位角由6脉波与三角载波调制后的占空比决定， $\mathbf { Q } _ { 2 }$ 和 $\mathrm { Q } _ { 4 }$ 的驱动脉冲分别与 $\mathbf { Q } _ { 1 }$ 和 $\mathrm { ~ Q } _ { 3 }$ 的互补，如图4所示。
+
+![](images/3b26884319750e21d6212da0b9fef0cbbe01ee3ec35f53d0b78a3a7d25570ebc.jpg)  
+图4SRSPWM混合调制前级DC/HFDC 调制波形图Fig.4The modulation waveform of DC/HFDC usingSRSPWMhybridmodulation
+
+式中， $\boldsymbol { V } _ { \flat }$ 为变压器一次电压； $V _ { \mathrm { s } }$ 为变压器二次电压； $V _ { \mathrm { l i n k } }$ 为中间直流电压。
+
+# 2.1.2后级HFDC/LFAC 调制方法
+
+后级的调制参考波见表2，将一个基波周期分为6个阶段： $T _ { 1 } \sim T _ { 6 }$ ，在每个阶段仅仅有一个桥臂处于调制状态，其他两个桥臂的开关器件不动作，一直保持导通或关断状态，同一个桥臂中上下管脉冲互补，其调制波形如图5所示。
+
+表2SRSPWM混合调制后级HFDC/LFAC调制参考波Tab.2Reference wave ofHFDC/LFAC using SRSPWM  
+
+<html><body><table><tr><td colspan="7">HyorrdHroddiatron</td></tr><tr><td></td><td>T</td><td>T</td><td>T</td><td>T4</td><td>T</td><td>T6</td></tr><tr><td>S，S</td><td>Vab/Vcb</td><td>1</td><td>1</td><td>Vac/Vbc</td><td>0</td><td>0</td></tr><tr><td>S，S4</td><td>0</td><td>0</td><td>VVac</td><td>1</td><td>1</td><td>Vba/Vca</td></tr><tr><td>S，S6</td><td>1</td><td>Vcb/Vab</td><td>0</td><td>0</td><td>Vea/Vba</td><td>1</td></tr></table></body></html>
+
+![](images/0c2b4a5c8898721fad8a28e1e1ac63db913cbd8e892eeabe6328ea329d060dfa.jpg)  
+图5SRSPWM混合调制后级HFDC/LFAC调制波形图Fig.5The modulation waveform of HFDC/LFAC usingSRSPWMhybrid modulation
+
+# 2.2SRSPWM混合调制数学建模
+
+2.2.1 前级DC/HFDC 的输出电压
+
+采用SRSPWM混合调制时前级DC/HFDC的参考波输出电压为
+
+$$
+\begin{array} { r l r } & { } & { F _ {  } = \sqrt { 3 } \cos \Theta _ { m } ( \theta _ { m } , t - \frac { \pi } { 6 } ) } \\ & { } & { F _ {  } = \sqrt { 3 } \cos \Theta _ { m } ( \theta _ { m } , - \frac { \pi } { 3 } ) } \\ & { } & { F _ {  } = \sqrt { 3 } \cos \Theta _ { m } ( \theta _ { m } , - \frac { \pi } { 3 } ) } \\ & { } & { F _ {  } = \sqrt { 3 } \cos ( \omega \theta _ { m } , - \frac { 2 \pi } { 3 } ) } \\ & { } & { F _ {  } = \sqrt { 3 } \cos ( \omega \theta _ { m } , - \frac { 2 \pi } { 3 } ) } \\ & { } & { F _ {  } = \sqrt { 3 } \cos ( \omega \theta _ { m } , - \pi ) } \\ & { } & { F _ {  } = \sqrt { 3 } \cos ( \omega \theta _ { m } , - \frac { \pi } { 3 } ) } \\ & { } & { F _ {  } = \sqrt { 3 } \cos ( \omega \theta _ { m } , + \frac { \pi } { 3 } ) } \\ & { } & { F _ {  } = \sqrt { 3 } \cos ( \omega \theta _ { m } , - \frac { \pi } { 3 } ) } \end{array} \begin{array} { r } { , \frac { \pi } { 2 } < \cos \omega < \frac { 1 } { 2 } } \\ { , \frac { \pi } { 2 } < \sin ( \omega - \omega ) } \\ { , \frac { \pi } { 2 } < \cos \omega < \frac { 1 / \pi } { 6 } } \end{array}
+$$
+
+设调制比为 $M$ ，即参考相电压的幅值与三角载波幅值之比，但由于前级参考波是三相线电压(1.732倍的相电压）绝对值的最大值，即6脉波形式，因而调制比 $M$ 最大只能是0.577。对于第一部分 $T _ { 1 }$ ，对中间脉冲电压进行双重傅里叶分析[8]，可得到其基波电压为（只考虑基波电压不考虑谐波电压)
+
+$$
+V _ { \mathrm { l i n k } } \left( T _ { 1 } \right) = \sqrt { 3 } V _ { \mathrm { d c } } M \cos \omega _ { 0 } t
+$$
+
+# 2.2.2后级HFDC/LFAC的输出电压
+
+设后级三相逆变拓扑中A相桥臂的开关状态为 $S _ { \mathrm { a } }$ ，B相桥臂的开关状态为 $S _ { \mathrm { b } }$ ，C相桥臂的开关状 态为 $S _ { \mathrm { c } }$ ，且上管开通时为1，关断时为0，则
+
+$$
+\begin{array} { r } { \left\{ \begin{array} { l l } { V _ { \mathrm { a } } = S _ { \mathrm { a } } V _ { \mathrm { l i n k } } } \\ { V _ { \mathrm { b } } = S _ { \mathrm { b } } V _ { \mathrm { l i n k } } } \\ { V _ { \mathrm { c } } = S _ { \mathrm { c } } V _ { \mathrm { l i n k } } } \end{array} \right. } \end{array}
+$$
+
+其中， $V _ { \mathrm { l i n k } }$ 为中间直流环节脉冲电压。
+
+设输出中性点电压为 $e _ { \mathrm { o } }$ ，对后级三相逆变拓扑列KVL方程，有
+
+$$
+\left\{ \begin{array} { l l } { L _ { \circ } \frac { \mathrm { d } i _ { \mathrm { a } } } { \mathrm { d } t } + i _ { \mathrm { a } } Z + e _ { \mathrm { o } } = V _ { \mathrm { a } } = S _ { \mathrm { a } } V _ { \mathrm { l i n k } } } \\ { \qquad } \\ { L _ { \circ } \frac { \mathrm { d } i _ { \mathrm { b } } } { \mathrm { d } t } + i _ { \mathrm { b } } Z + e _ { \mathrm { o } } = V _ { \mathrm { b } } = S _ { \mathrm { b } } V _ { \mathrm { l i n k } } } \\ { L _ { \circ } \frac { \mathrm { d } i _ { \mathrm { c } } } { \mathrm { d } t } + i _ { \mathrm { c } } Z + e _ { \mathrm { o } } = V _ { \mathrm { c } } = S _ { \mathrm { c } } V _ { \mathrm { l i n k } } } \end{array} \right.
+$$
+
+设系统三相平衡，有 ${ i _ { \mathrm { a } } + i _ { \mathrm { b } } + i _ { \mathrm { c } } = 0 }$ ，并将式（4)中三式相加，得
+
+$$
+e _ { \mathrm { { o } } } = { \frac { 1 } { 3 } } ( S _ { \mathrm { { a } } } + S _ { \mathrm { { b } } } + S _ { \mathrm { { c } } } ) V _ { \mathrm { { l i n k } } }
+$$
+
+则负载上的电压为
+
+$$
+\left\{ \begin{array} { l l } { { \displaystyle i _ { a } Z = \frac { 2 S _ { \mathrm { a } } - S _ { \mathrm { b } } - S _ { \mathrm { c } } } { 3 } V _ { \mathrm { i n k } } - L _ { \mathrm { o } } \frac { \mathrm { d } i _ { \mathrm { a } } } { \mathrm { d } t } } } \\ { ~ i _ { \mathrm { b } } Z = \displaystyle \frac { 2 S _ { \mathrm { b } } - S _ { \mathrm { a } } - S _ { \mathrm { c } } } { 3 } V _ { \mathrm { l i n k } } - L _ { \mathrm { o } } \frac { \mathrm { d } i _ { \mathrm { b } } } { \mathrm { d } t } } \\ { { \displaystyle i _ { \mathrm { c } } Z = \frac { 2 S _ { \mathrm { c } } - S _ { \mathrm { a } } - S _ { \mathrm { b } } } { 3 } V _ { \mathrm { l i n k } } - L _ { \mathrm { o } } \frac { \mathrm { d } i _ { \mathrm { c } } } { \mathrm { d } t } } } \end{array} \right.
+$$
+
+当调制波处于 $T _ { 1 }$ 时，将表2中各开关管的状态带入式 (6)，并且仅计算中间直流电压的基波成分，而不考虑谐波成分，得
+
+$$
+\begin{array} { r l } & { \quad \sqrt { \frac { \lambda _ { 1 } \omega _ { 1 } } { \lambda _ { 2 } } } ( \omega _ { 2 } - \frac { \lambda _ { 2 } } { \lambda _ { 3 } } ) } \\ & { = \frac { \lambda _ { 1 } } { \lambda _ { 2 } } \frac { \sqrt { \lambda _ { 2 } \omega _ { 1 } } } { \lambda _ { 3 } } \sin ^ { 2 } \lambda _ { 1 } - \lambda _ { 2 } \sqrt { \lambda _ { 3 } } \sin ^ { 2 } \lambda _ { 2 } \sin ^ { 2 } \lambda _ { 3 } } \\ & { \quad - \varepsilon _ { 3 } \sin ^ { 2 } \lambda _ { 1 } } \\ & { \quad \quad - \varepsilon _ { 3 } \sin ^ { 2 } \lambda _ { 2 } } \\ & { \quad \quad \sin ^ { 2 } \lambda _ { 3 } ( \omega _ { 2 } - \lambda _ { 3 } ) } \\ & { \quad \quad \sin ^ { 2 } \lambda _ { 3 } ( \omega _ { 3 } - \lambda _ { 3 } ) } \\ & { \quad \quad \sin ^ { 2 } \lambda _ { 3 } } \\ & { = \frac { \lambda _ { 1 } } { \lambda _ { 2 } } \frac { \sqrt { \lambda _ { 2 } \omega _ { 1 } } } { \lambda _ { 3 } } \sin ^ { 2 } \lambda _ { 1 } - \lambda _ { 3 } \sqrt { \lambda _ { 3 } \omega _ { 1 } } \sin ^ { 2 } \lambda _ { 2 } \sin ^ { 2 } \lambda _ { 3 } } \\ & { \quad \quad - \varepsilon _ { 3 } \sin ^ { 2 } \lambda _ { 1 } ( \omega _ { 2 } - \lambda _ { 3 } ) } \\ & { \quad \quad - \varepsilon _ { 3 } \sin ^ { 2 } \lambda _ { 2 } \sin ^ { 2 } \lambda _ { 3 } - \frac { \lambda _ { 2 } } { \lambda _ { 3 } } \frac { \sqrt { \lambda _ { 2 } \omega _ { 1 } } } { \lambda _ { 2 } } } \\ & { \quad \quad \sin ^ { 2 } \lambda _ { 3 } ( \omega _ { 3 } - \lambda _ { 3 } ) } \\ & { \quad \quad \sin ^ { 2 } \lambda _ { 3 } ( \omega _ { 3 } - \lambda _ { 2 } ) } \\ & { \quad \quad \sin ^ { 2 } \lambda _ { 3 } ( \omega _ { 3 } + \lambda _ { 3 } ) } \\ & { \quad \quad \sin ^ { 2 } \lambda _ { 3 } ( \omega _ { 1 } - \lambda _ { 3 } ) } \\ & { \quad \quad \sin ^ { 2 } \lambda _ { 3 } ( \omega _ { 1 } - \lambda _ { 3 } ) } \\ & { \quad \sin ^ { 2 } \lambda _ { 3 } ( \omega _ { 1 } - \lambda _ { 3 } ) \cos \lambda _ { 3 } ( \lambda _ { 2 } \cos \lambda _ { 3 } - \lambda _ { 3 } ) } \\ &  \quad \sin ^ { 2 } \lambda _ { 3 } ( \omega _ { 1 } \end{array}
+$$
+
+同理可推导出 $T _ { 2 } \sim T _ { 6 }$ 部分的输出电压，得到系统的输出相电压为
+
+$$
+\begin{array} { r l } & { [ i _ { \mathrm { a } } Z = V _ { \mathrm { d e } } M \sin \omega _ { 0 } t - L _ { \mathrm { o } } \frac { \mathrm { d } i _ { \mathrm { a } } } { \mathrm { d } t }  } \\ & {   \downarrow i _ { \mathrm { b } } Z = V _ { \mathrm { d e } } M \sin ( \omega _ { 0 } t - \frac { 2 \pi } { 3 } ) - L _ { \mathrm { o } } \frac { \mathrm { d } i _ { \mathrm { b } } } { \mathrm { d } t }   } \\ & {    i _ { \mathrm { c } } Z = V _ { \mathrm { d e } } M \sin ( \omega _ { 0 } t + \frac { 2 \pi } { 3 } ) - L _ { \mathrm { o } } \frac { \mathrm { d } i _ { \mathrm { c } } } { \mathrm { d } t }   } \end{array}
+$$
+
+可见采用该调制策略是可行的。
+
+# 2.3SRSPWM混合调制谐波分析
+
+通过上述分析可知，采用图3所示的拓扑形式前后级相互关联，因此前后级的谐波也存在一定的关联，下面将通过时域仿真计算前后级采用不同载波频率时的WTHD进行具体分析。这里定义载波比为 $p$ ，当前级载波频率为 $2 \mathrm { k H z }$ 、后级载波频率为4kHz时， $p = 4 0 / 8 0$ 。
+
+为单纯分析该调制策略的谐波情况，而不受开关器件杂散参数及死区等的影响，这里采用Matlab与PSIM联合仿真的形式，在PSIM中搭建理想元件器模型，在Matlab中采用S-Fuction虚拟DSP模块编程实现该调制策略，并通过 Simcouple 模块将两种仿真工具联合起来，得到滤波之前的相电压脉冲序列如图6所示。
+
+![](images/39438e27de2bf2f5f0c45ad5ecfe3ecf3ec7da90604353a7701280f70d7f62e0.jpg)  
+图6输出A相电压脉冲序列  
+Fig.6The pulse style ofA phase voltage   
+图7 固定后级载波比变化前级载波比时的相电压WTHD Fig.7 WTHD of phase voltage when the carrier frequency of afterclass is fixed and before classis changed
+
+设 $m = { \sqrt { 3 } } M$ （即调制度的 $\sqrt { 3 }$ 倍)，首先固定后级载波频率为 $2 \mathrm { k H z }$ ，变换前级载波频率，如图7所示，可见当前后级载波频率相等时输出相电压谐波性能最差，除此之外随着前级载波频率的提高谐波性能变好。
+
+35 30 ·· .. P-定置流环 25 P= 80/40 (%)QHLM ： P=100/40 20 ： · · 15 ： ·· ： / · 10 · · · ： 5 0 小 i i i i L 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.C M
+
+图8是固定前级载波频率为4kHz变换后级载波频率时输出相电压的WTHD，同样是在前后级载波频率相同时谐波性能最好，除此之外可见采用该调制策略比采用SPWM调制的恒定直流环节拓扑得到的相电压谐波性能更优，分析可知后级的解调过程在某种程度上提高了系统的整体开关频率，但是随着后级载波频率的增大，相电压的WTHD并没有明显的规律，因此采用该调制策略时并不能盲目地通过提高开关频率来减小谐波。
+
+![](images/1bb924f4cf64d5869c10e2211785fc83709acec949c733ac902dcd5743662f5b.jpg)  
+图8 固定前级载波比变化后级载波比时的相电压WTHD Fig.8 WTHD of phase voltage when the carrier frequency of before class is fixed and after class is changed
+
+# 3整体仿真与实验验证
+
+# 3.1系统参数设置及仿真验证
+
+本文采用混合动力动车组辅助逆变器的技术指标进行仿真，网侧输入电压为 $1 ~ 6 5 0 \mathrm { V }$ ，额定输出功率为 $1 0 0 \mathrm { k V \cdot A }$ ，额定输出电压有效值为AC $3 \times 3 8 0 \mathrm { V }$ ，输出电压频率为 $5 0 \mathrm { { H z } }$ 。取前级的载波频率为 $4 \mathrm { k H z }$ ，后级的载波频率为 $2 \mathrm { k H z }$ ，调制比$M = 0 . 8 / \sqrt { 3 }$ 。
+
+# 3.1.1高频变压器的电压比 $N$ 的确定
+
+系统的输出相电压幅值为
+
+$$
+\sqrt { 2 } V _ { \circ } = \frac { V _ { \mathrm { d c } } M } { N }
+$$
+
+式中， $V _ { \mathrm { o } }$ 为输出相电压有效值； $V _ { \mathrm { d c } }$ 为网侧输入电压。若要得到有效值为 $2 2 0 \mathrm { V }$ 的相电压，则有
+
+$$
+N = { \frac { V _ { \mathrm { d c } } M } { { \sqrt { 2 } } V _ { \mathrm { o } } } } = { \frac { 1 6 5 0 \mathrm { V } \times { \left( 0 . 8 / { \sqrt { 3 } } \right) } } { { \sqrt { 2 } } \times 2 2 0 \mathrm { V } } } = 2 . 4 5
+$$
+
+因此将变压器的电压比定为2.45。
+
+# 3.1.2开关器件型号确定
+
+对于前级DC/HFDC 逆变部分的开关管 $\mathrm { { Q } _ { 1 } \sim Q _ { 4 } }$ 至少要能够承受 $1 ~ 6 5 0 \mathrm { V }$ 的电压，考虑一定的裕量，最终选用英飞凌型号为FF400R33KF2C的IGBT，耐压为 $3 ~ 3 0 0 \mathrm { V }$ ，额定电流为 $4 0 0 \mathrm { A }$ 。
+
+高频变压器的电压比为2.65，则变压器二次电压为 $6 2 3 \mathrm { V }$ ，考虑一定的裕量并考虑到电压尖峰问题，二极管选取IXYS的MEO450-12DA，耐压为 $1 ~ 2 0 0 \mathrm { V }$ ，额定电流为 $4 5 0 \mathrm { A }$ ；后级HFDC/LFAC的开关器件选取英飞凌的FS450R12OE4，耐压为$1 \ : 2 0 0 \mathrm { V }$ ，额定电流为 $4 5 0 \mathrm { A }$ 。整个系统所采用的开关器件最终选型见表3。
+
+表3系统中开关器件的型号  
+Tab.3The switch device in the system model   
+
+<html><body><table><tr><td>功率器件</td><td>产品型号</td><td>额定电压/V</td><td>额定电流/A</td></tr><tr><td>Q~Q4</td><td>FF400R33KF2C</td><td>3300</td><td>400</td></tr><tr><td>VD ~ VD4</td><td>MEO450-12DA</td><td>1200</td><td>450</td></tr><tr><td>S~S6</td><td>FS450R12OE4</td><td>1200</td><td>450</td></tr></table></body></html>
+
+# 3.1.3 输出LC滤波器参数确定
+
+三相逆变器的输出滤波器设计可以等效到单相，如图9所示。常见的设计方法主要有纹波电压电流法和特性阻抗法。纹波电压电流法是基于电容的纹波电压和纹波电流来确定L和C的参数，方法比较简单，但仅适用于逆变器输入为恒定直流电压的系统。而特性阻抗法是基于将滤波前各次谐波均衰减到所允许范围内的原则来确定参数，对任何系统均适用[9-11]，因此选取该设计方法，其设计原则如下。
+
+![](images/04b7939d2245022bd886091bdcc996192b78688eb7db7762957f079b79a7a59b.jpg)  
+图9典型的二阶低通滤波器  
+Fig.9The typical second-order low-pass filter
+
+对于二阶低通滤波器，其串臂阻抗 $Z _ { 1 }$ 和并臂阻抗 $Z _ { 2 }$ 的乘积为
+
+$$
+Z _ { 1 } Z _ { 2 } = \mathrm { j } \omega L _ { \mathrm { f } } \frac { 1 } { \mathrm { j } \omega C _ { \mathrm { f } } } { = } \frac { L _ { \mathrm { f } } } { C _ { \mathrm { f } } } { = } R ^ { 2 }
+$$
+
+其中， $R$ 为滤波器的特性阻抗。
+
+设滤波器的截止频率为 $f _ { \mathrm { c } }$ ，有
+
+$$
+f _ { \mathrm { c } } = \frac { 1 } { 2 \pi \sqrt { L _ { \mathrm { f } } C _ { \mathrm { f } } } }
+$$
+
+联立式（11）和式（12)，可求得输出滤波器的参数为
+
+$$
+L _ { \mathrm { f } } = { \frac { R } { 2 \pi f _ { \mathrm { c } } } }
+$$
+
+$$
+C _ { \mathrm { f } } = { \frac { 1 } { 2 \pi f _ { \mathrm { c } } R } }
+$$
+
+由式（13）、式（14）可知，只需知道滤波器的截止频率和特性阻抗便可求得滤波器的参数。
+
+要达到较好的滤波效果，滤波器的特性阻抗与负载阻抗满足一定关系，即
+
+$$
+R = ( 0 . 5 \sim 0 . 8 ) R _ { \mathrm { L } }
+$$
+
+由上式可知，只要知道逆变器的输出功率和输出电压， $R _ { \mathrm { L } }$ 即可求出，进而选取合适的 $R$ 值。
+
+定义滤波器的衰耗常数 $b$ 为输入端电压与输出端电压之比，则
+
+$$
+b = \ln \left| U _ { 1 } / U _ { 2 } \right| = \ln \left( \sqrt { 1 + \left| Z _ { 1 } / Z _ { 2 } \right| } + \sqrt { \left| Z _ { 1 } / Z _ { 2 } \right| } \right)
+$$
+
+若 $b$ 用双曲函数表示，则有
+
+$$
+\begin{array} { r l } & { \mathrm { c h } b = \left( e ^ { b } - e ^ { - b } \right) \bigg / 2 } \\ & { \quad = \sqrt { \left| Z _ { \mathrm { l } } / Z _ { \mathrm { 2 } } \right| } = \omega \sqrt { L _ { \mathrm { f } } C _ { \mathrm { f } } } = \omega / \omega _ { \mathrm { c } } = f / f _ { \mathrm { c } } } \end{array}
+$$
+
+因此只需知道滤波之前的谐波频谱值及滤波后要达到的效果，便可求得滤波器的截止频率 $f _ { \mathrm { c } }$ 0
+
+按照上述方法对采用本文拓扑及调制策略、采用恒定直流环节拓扑形式及SPWM调制时几种情况下的输出LC滤波器进行了设计，见表4。可见对于SRSPWM调制在前后级载波频率相同时LC设计参数最大，这与上述的谐波分析情况一致，除此之外在相同调制频率下（对于SRSPWM指前级载波频率）采用SRSPWM比采用SPWM的LC设计参数更小，这足以证明本文拓扑及调制方式在提高功率密度方面具有很大的优势。
+
+表4几种情况下输出LC滤波器参数对比  
+Tab.4 Contrast of several output LC filter parameters   
+
+<html><body><table><tr><td>调制策略</td><td>载波比</td><td>f/Hz</td><td>L/mH</td><td>C/mF</td></tr><tr><td rowspan="2">SPWM</td><td>/40</td><td>209.303 7</td><td>0.883 28</td><td>654.62</td></tr><tr><td>40/20</td><td>231.305 6</td><td>0.79125</td><td>598.35</td></tr><tr><td rowspan="2">SRSPWM</td><td>40/40</td><td>75.113 6</td><td>2.5</td><td>1800</td></tr><tr><td>80/40</td><td>249.252 4</td><td>0.741 72</td><td>549.7</td></tr></table></body></html>
+
+# 3.1.4仿真验证
+
+根据上述设计参数，利用PSIM中的PceEditor来设置开关器件的实际参数，并搭建实际元器件的仿真模型，对载波比 $p = 8 0 / 4 0$ ，调制比 $M = 0 . 8 / \sqrt { 3 }$ 时的情况进行了仿真验证，得到输出相电压波形如图10所示，谐波频谱如图11所示，可见采用该调制方法的谐波特性较好。
+
+![](images/1d143f5b5a651037346dc76519958cc71c92a05911c7bec3a0c3092687bcadee.jpg)  
+图10三相输出相电压波形
+
+![](images/7389a2790232c5c0633999ab86318510ef2787250bcda51b834c44c3236eaee4.jpg)  
+Fig.10The waveform of three phase voltage   
+图11相电压谐波分析
+
+# 3.2 实验验证
+
+为验证本文采用的拓扑和调制方法的合理性，按照上述仿真参数搭建了一个30kV·A的小功率实验平台，如图12所示，并对前后级采用相同载波频率时的情况进行了实验验证。
+
+![](images/6ca0d79fa3e4109cc97d0710e1a09d50c9c55b07b322b0af9bbad3c81a6be478.jpg)  
+Fig.11Harmonic analysis of phase voltage   
+图12脉冲直流环节高频链逆变器实验平台 Fig.12The experiment platform of high-frequency link inverter with pulse DC
+
+SRSPWM调制驱动脉冲及输出波形如图13所示。图中， $S _ { 1 }$ 为前级驱动脉冲； $S _ { \mathrm { a } }$ 为后级驱动脉冲，前后级载波频率均为 $4 \mathrm { k H z }$ ， $V _ { \mathrm { l i n k } }$ 为中间环节脉冲直流电压， $V _ { \mathrm { a } }$ 为A相电压；图14所示为通过功率分析仪测得的三相电压及谐波情况，可见该调制策略是可行的，但是在前后载波频率相同时谐波很大，THD达到了 $8 . 8 \%$ 。
+
+![](images/a0dcf425747e88c15060111f2f188fa27f2d13b7e107f6e60addc5918cf8ff19.jpg)  
+Fig.13The drive pulse and the output voltage using SRSPWM modulation
+
+![](images/dc8f44395d78ca0a7aca499ea76d5bd43e0db41f98620b891ebedcb84e7559dd.jpg)  
+图13SRSPWM调制驱动脉冲及输出波形  
+图14输出三相电压及其谐波情况  
+Fig.14Three phase voltage and harmonic analysis
+
+# 4 结束语
+
+针对城轨列车辅助逆变器的功率密度问题，采用了一种省略中间直流环节的高频链逆变器拓扑形式，并引进了一种前后级相互关联的混合脉宽调制策略（SRSPWM)，理论分析与仿真实验结果表明：（1）在前后级载波频率相同时谐波性能最差，除此之外采用本文的拓扑与调制方式反而比恒定直流环节下采用SPWM调制方式的谐波性能更优。(2）采用本文的拓扑与调制策略并不会增大LC的设计参数，这达到了提高系统功率密度的目的。
+
+# 参考文献
+
+[1] 周朝阳．高频链辅助逆变器拓扑及调制方法研究[D]．北京：北京交通大学，2016.[2] 贾波．地铁辅助变流器的设计研究[D]．北京：北
+
+京交通大学，2011.   
+[3] 付尧．双动力动车组辅助供电系统并联技术研究 [D]．北京：北京交通大学，2015.   
+[4] Wen H,Xiao W,Wen Xuhui.Comparative evaluation of DC-link capacitors for electric vehicle application[C]. 2012 IEEE International Symposium on Industrial Electronics (ISIE),PRC,Hangzhou, 2012:1472-1477.   
+[5] Wang Bingsen,HinkelP, Song Yantao.Single phase VSI with reduced-size DC-link capacitor[C].2013 4th International Conference in Power Engineering Energy and Electrical Drives,Istanbul,TUR,2013: 1427-1430.   
+[6] Wang Huai,Chung H SH,Liu Wenchao.Use ofa series voltage compensator for reduction of the DC

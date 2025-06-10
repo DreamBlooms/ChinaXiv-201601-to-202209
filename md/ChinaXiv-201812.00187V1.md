@@ -1,0 +1,269 @@
+1 饲粮中添加肠杆菌肽对断奶仔猪生产性能和血清生化指标的影响
+
+2 卜艳玲」陈　静」　李建涛」　程　奇² 李海东²　刘显军l\*3 （1.沈阳农业大学畜牧兽医学院,沈阳110866;2.沈阳博睿农牧科技有限公司，沈阳 110300)4 摘要：本试验旨在研究肠杆菌肽在断奶仔猪生产中的应用效果。选取144头28 日龄且平  
+5 均体重为 $( 7 . 3 5 { \pm } 0 . 2 1 ) \mathrm { k g }$ 的健康“杜 $\mathbf { \nabla } _ { \times }$ 长 $\times$ 大”三元杂交断奶仔猪，随机分为6组，每组4个6 重复，每个重复6头猪(公母各占 1/2)。对照组仔猪饲喂基础饲粮，试验组仔猪饲喂在基础7 饲粮基础上分别添加硫酸黏菌素（ $3 0 \mathrm { g / t } \dot { }$ ）、天蚕素抗菌肽（ $3 0 0 \mathrm { g / t } { \cdot }$ ）以及肠杆菌肽（300、8 400和 ${ 5 0 0 } \mathrm { g / t } { \overbrace { \phantom { 5 0 0 } } }$ ）的试验饲粮。试验期为 $2 8 { \mathrm { ~ d ~ } }$ ，分为试验前期（第 $1 { \sim } 1 4$ 天）和试验后期（第  
+9號 $1 5 { \sim } 2 8$ 天）2个阶段。结果显示：1)试验前期、试验后期和整个试验期，400 和 ${ 5 0 0 } \mathrm { g / t }$ 肠杆  
+10 菌肽组的平均日增重（ADG）均显著高于对照组（ $P { < } 0 . 0 5$ ），料重比均显著低于对照组  
+11 （ $P { < } 0 . 0 5$ ）。试验第7、14和28天时，各试验组腹泻率均极显著低于对照组（ $_ { \scriptstyle P < 0 . 0 1 }$ ），  
+12 其中以 ${ 5 0 0 } \mathrm { g / t }$ 肠杆菌肽组最低。2)试验第14天时， ${ 5 0 0 } \mathrm { g / t }$ 肠杆菌肽组血清尿素氮（UN)  
+13 含量显著低于对照组和 $3 0 \mathrm { g / t }$ 硫酸黏菌素组 （ $P { < } 0 . 0 5$ ）；试验第 28天时，400 和 ${ 5 0 0 } \mathrm { g / t }$ 肠  
+14 杆菌肽组血清 UN 含量显著低于对照组（ $_ { \cdot \textcircled { P } < 0 . 0 5 }$ ），且 ${ 5 0 0 } \mathrm { g / t }$ 肠杆菌肽组还显著低于 $3 0 \mathrm { g / t }$   
+15 硫酸黏菌素组 $( P { < } 0 . 0 5 \$ ）。试验第14和28天时，400 和 ${ 5 0 0 } \mathrm { g / t }$ 肠杆菌肽组血清球蛋白(GLB)  
+16 含量显著高于对照组（ $P { < } 0 . 0 5$ ）。3）试验第14和28天时， ${ 5 0 0 } \mathrm { g / t }$ 肠杆菌肽组血清免疫球  
+17 蛋白 $\mathrm { G } ( \mathrm { I g G } )$ 含量较对照组分别高出 $1 7 . 2 7 \%$ （ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ ）、 $1 6 . 2 0 \%$ （ $\cdot P { < } 0 . 0 5$ ）。试验第14天时，  
+18 各抗菌肽组血清补体4（C4）含量均显著高于对照组（ $P { < } 0 . 0 5$ ）和 $3 0 ~ \mathrm { g / t }$ 硫酸黏菌素组  
+19 （ $P { < } 0 . 0 5$ ）。4）试验第14和28天时，各抗菌肽组血清丙二醛（MDA）含量极显著低于对  
+20 照组（ $P { < } 0 . 0 1$ ）和 $3 0 \ \mathrm { g / t }$ 硫酸黏菌素组（ $P { < } 0 . 0 1$ ）。试验第28天时， ${ 5 0 0 } \mathrm { g / t }$ 肠杆菌肽组血  
+21 清超氧化物歧化酶(SOD)活性和总抗氧化能力(T-AOC)显著高于对照组和 $3 0 \ \mathrm { g / t }$ 硫酸黏菌素收稿日期：2017-08-27基金项目：辽宁省科技厅重大项目“昌图瘦肉型猪选育及标准化健康养殖产业化示范基地”（2014215031）；辽宁省科技厅重大项目“昌图瘦肉型猪选育及标准化健康养殖产业化示范基地”（2015103034)作者简介：卜艳玲（1988—），女，辽宁营口人，硕士研究生，研究方向为动物营养与饲料科学。E-mail: 675214566 $@$ qq.com 手机号：18809865710\*通信作者：刘显军，副教授，硕士生导师，E-mail：lchenj $@$ 163.com
+
+组（ $_ { . } { \cal P } { < } 0 . 0 5$ ）。综上所述，肠杆菌肽在提高断奶仔猪生产性能、免疫性能和抗氧化能力方面优于天蚕素抗菌肽，也优于抗生素硫酸黏菌素，饲粮中肠杆菌肽的适宜添加量为 ${ 5 0 0 } \mathrm { g / t }$ 。
+
+关键词：肠杆菌肽；断奶仔猪；生产性能；免疫性能；抗氧化能力中图分类号：S816 文献标识码：A 文章编号：
+
+饲粮中添加抗生素可缓解仔猪断奶应激并促进机体生长，这已被国内外研究所证实。但抗生素的长期使用使其耐药性逐渐增大，给人类带来了越来越大的麻烦，因此很多国家都发出禁用抗生素的命令。我国农业部 2428号公告，自2016年11月1日起，停止硫酸黏菌素作为促生长剂在饲料中添加。在全球范围内，由于耐药性细菌的增加和抗生素促生长剂的禁用，使得寻找抗生素替代品势在必行[1]。
+
+抗菌肽是一类广泛存在自然界生物体中的小肽类物质，其结构稳定、抗菌谱广、耐高温及不易使靶菌株产生耐药性，在先天性免疫系统中发挥着重要的作用，在医药卫生、畜牧养殖、食品加工以及农业等领域拥有广阔的应用前景[2]。抗菌肽的耐药性低，被认为是抗生素的理想替代品[1-3]。天蚕素抗菌肽杀菌广谱且不易产生耐药性，在动植物和微生物等方面有广阔的应用前景。但抗菌肽的研究还存在一些问题，如部分细菌对抗菌肽不敏感、抗菌肽很难大规模生产、在体内容易被蛋白酶降解、毒理和药效方面研究较少等[4]。肠杆菌肽是利用蛋白质工程技术在植物乳杆菌中高效生产的一种抗菌肽，其抑菌能力强、不易产生耐药性；它有着套索状结构，结构超级稳定，对大肠杆菌、沙门氏菌、志贺氏菌有很强的杀灭和抑制作用；它无溶血性，对人类和动物抵抗病原菌具有重要意义。目前肠杆菌肽在畜禽生产上已展开了应用，诸多试验表明它可以提高畜禽的生产性能[5]。随着对抗菌肽的深入研究，发现越来越多的细菌能对抗菌肽产生抗药性[2]。目前细菌对抗菌肽抗性的研究还只停留在实验室阶段，而大量临床试验证明抗菌肽所引起的细菌耐药性与传统抗生素相比轻微的多[6]。几十年的深入研究显示，不同种类抗菌肽潜在的抑菌机理显著不同，目前还未研究出一个可以概括所有抗菌肽的抑菌机理[2.7]。抗菌肽以添加剂形式应用于畜禽饲料的研究还处于初级阶段。目前抗菌肽替代抗生素在断奶仔猪中的应用已有大量报道，而肠杆菌肽作为一种新型抗菌肽，在断奶仔猪中的应用报道较少。因此，本试验以断奶仔猪为研究对象，在饲粮中添加不同剂量的肠杆菌肽，观察其对断奶仔猪生产性能和血清生化指标的影响，并筛选出适宜添加量，为其合理使用提供科学依据。
+
+1材料与方法
+
+V ■ 们万私  
+50 1.1 试验材料  
+51 本试验使用的抗生素为硫酸黏菌素，为市购产品；抗菌肽由北京中农颖泰公司提供，包  
+52 括天蚕素抗菌肽和肠杆菌肽。  
+53 1.2试验设计  
+54 试验选取144头遗传背景一致、健康状况良好、平均体重为（ $7 . 3 5 { \scriptstyle \pm 0 . 2 1 }$ ） $\mathbf { k g }$ 的28日  
+55 龄"杜×长×大"三元杂交断奶仔猪作为试验动物。采用单因素试验设计方法，将144头断奶仔  
+56 猪随机分为6组，每组4个重复，每个重复6头(公母各占1/2)，重复之间体重接近 $( P { > } 0 . 0 5 )$ 。  
+57 预试期7d，正试期28d。为了更好地验证肠杆菌肽的饲喂效果，通过在基础饲粮中添加硫  
+58 酸黏菌素、天蚕素抗菌肽与其进行对比，试验分组情况及肠杆菌肽、硫酸黏菌素、天蚕素抗  
+59 菌肽在饲粮中的添加量详见表1。
+
+60 表1试验设计
+
+<html><body><table><tr><td>61</td><td colspan="3">Table 1 Test design</td></tr><tr><td>项目</td><td>硫酸黏菌素</td><td>天蚕素抗菌肽</td><td>肠杆菌肽</td></tr><tr><td>Items</td><td>Colistin sulfate/(g/t)</td><td>Cecropin/(g/t)</td><td>Enterobacitracin/(g/t)</td></tr><tr><td>对照组 Control group</td><td>0</td><td>0</td><td>0</td></tr><tr><td>30g/t硫酸黏菌素组</td><td>30</td><td>0</td><td>0</td></tr><tr><td>30 g/t colistin sulfate</td><td></td><td></td><td></td></tr><tr><td>group</td><td></td><td></td><td></td></tr><tr><td>300g/t天蚕素抗菌肽</td><td>0</td><td>300</td><td>0</td></tr><tr><td>组 300 g/t cecropin</td><td></td><td></td><td></td></tr><tr><td> group</td><td></td><td></td><td></td></tr><tr><td>300 g/t肠杆菌肽</td><td>0</td><td>0</td><td>300</td></tr><tr><td>组300 g/t</td><td></td><td></td><td></td></tr><tr><td>enterobacitraci group</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>400 g/t肠杆菌肽</td><td>0</td><td>0</td><td>400</td></tr></table></body></html>
+
+# 1.3基础饲粮
+
+试验用基础饲粮按照NRC(1998)标准配制，其组成及营养水平见表2。
+
+表2基础饲粮组成及营养水平(风干基础)  
+Table 2Composition and nutrient levels of the basal diet (air-dry basis)   
+
+<html><body><table><tr><td>项目Items 含量Content</td></tr><tr><td>原料 Ingredients1)</td></tr><tr><td>玉米 Corn 40.00</td></tr><tr><td>米糠粕 Rice bran meal 3.00</td></tr><tr><td>碎米 Broken rice 15.00</td></tr><tr><td>高蛋白豆粕 High protein soybean meal 10.00</td></tr><tr><td>膨化大豆 Extruded soybean meal 10.00</td></tr><tr><td>发酵豆粕 Fermented soybean meal 5.00</td></tr><tr><td>进口鱼粉 Imported fish meal 4.00</td></tr><tr><td>乳清粉 Whey powder 4.00</td></tr><tr><td>葡萄糖 Glucose 1.00</td></tr><tr><td>蔗糖 Sucrose 1.50</td></tr><tr><td>豆油 Soybean oil 2.40</td></tr><tr><td>石粉 Limestone 0.80</td></tr><tr><td>一水合磷酸二氢钙 Ca(HPO4)2·HO 0.70</td></tr><tr><td>氯化钠 NaCl 0.30</td></tr><tr><td>预混料 Premix2) 1.50</td></tr><tr><td>赖氨酸Lys 0.40</td></tr><tr><td>蛋氨酸 Met 0.10</td></tr></table></body></html>
+
+<html><body><table><tr><td>苏氨酸 Thr 0.20</td></tr><tr><td>氯化胆碱 Choline chloride 0.10</td></tr><tr><td>合计Total 100.00</td></tr><tr><td>营养水平 Nutrient levels3)</td></tr><tr><td>消化能 DE/(MJ/kg) 14.31</td></tr><tr><td>粗蛋白质CP 18.50</td></tr><tr><td>粗灰分 Ash 5.21</td></tr><tr><td>有效磷 AP 0.42</td></tr><tr><td>蛋氨酸 Met 0.43</td></tr><tr><td>粗脂肪 EE 6.51</td></tr><tr><td>粗纤维 CF 3.20</td></tr><tr><td>钙Ca 0.76</td></tr><tr><td>赖氨酸Lys 1.32</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys 0.91</td></tr></table></body></html>
+
+1)饲料原料中未添加抗生素。Without adding antibiotics in the feed ingredients.   
+2)预混料为每千克饲粮提供 The premix provided the following per $\mathbf { k g }$ of the diet:Fe $8 0 ~ \mathrm { m g }$ ， $\mathrm { C u } 1 2 \mathrm { m g }$ ，Zn 75 mg，Mn 10 mg, $\mathrm { ~ I ~ } 0 . 3 5 \mathrm { m g }$ ，Se $0 . 3 0 \mathrm { m g }$ ，VA1 500 IU, $\mathrm { V D } _ { 3 }$ 3 300 IU，VE 60 IU, $\mathrm { V K } _ { 3 } 6 . 0 \mathrm { m g }$ ，核黄素riboflavin （204号 $6 . 2 \mathrm { m g }$ ，烟酸 nicotinic acid $6 0 ~ \mathrm { m g }$ ， $D$ 泛酸 $D$ -pantothenic acid $1 8 . 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 3 ~ \mathrm { m g }$ ，生物素biotin $0 . 4 6 ~ \mathrm { m g }$ 。 3)营养水平为计算值。Nutrient levels were calculated values.
+
+# 1.4 饲养管理
+
+仔猪于保育床上分栏饲养，舍温控制在 $2 5 { \sim } 2 8 \ \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，湿度控制在 $5 5 \% { \sim } 6 5 \%$ 。粉料饲喂，每天3次，自由采食和饮水。其他日常管理按猪场常规饲养管理程序执行，随时观察其采食、腹泻、精神状态，认真做好日常记录。
+
+# 1.5 指标测定
+
+# 1.5.1 生产性能指标的测定
+
+试验第1、14和28天将仔猪进行空腹称重，记录每组每日的采食量，在第7、14、28天记录腹泻情况，计算仔猪的平均日增重（ADG）、平均日采食量(ADFI)、料重比(F/G)及
+
+腹泻率。
+
+# 1.5.2 血清生化指标的测定
+
+试验第14、28天仔猪空腹称重后，分别从每个组的每个重复中选取1头接近平均体重的试验猪，前腔静脉采血 $1 0 ~ \mathrm { m L }$ ，离心制取血清并分装于离心管中，在 ${ \displaystyle - 2 0 ~ ^ { \circ } C }$ 冰箱中保存待测。血清尿素氮（UN）、总蛋白(TP)、白蛋白(ALB)、球蛋白（GLB）含量使用深圳迈瑞BS-420 全自动生化仪分析检测，试剂盒由中生北控股份有限公司提供。血清免疫球蛋白G(IgG)、补体 4(C4)、丙二醛(MDA)含量，谷胱甘肽过氧化物酶(GSH-Px)、超氧化物歧化酶(SOD)活性及总抗氧化能力(T-AOC)使用北京松上A6半自动生化仪分析检测，试剂盒由北京华英生物技术研究所提供。
+
+# 1.6 数据分析
+
+试验数据采用 SPSS17.0软件中单因素方差分析（one-wayANOVA）程序进行分析，采用Duncan 氏法进行多重比较， $P { < } 0 . 0 5$ 为差异显著， $P { < } 0 . 0 1$ 为差异极显著，数据结果以“平均值±标准差”表示。
+
+2结果与分析
+
+# 2.1饲粮中添加肠杆菌肽对断奶仔猪生长性能的影响
+
+由表3可知，试验前期（第 $1 \sim 1 4$ 天），与对照组相比，各肠杆菌肽组的ADG显著增加 $( P { < } 0 . 0 5 )$ ，但 $3 0 \mathrm { g / t }$ 硫酸黏菌素组和 $3 0 0 \mathrm { g / t }$ 天蚕素抗菌肽组的ADG 无显著变化( $. P { > } 0 . 0 5 )$ 。试验后期（第 $1 5 { \sim } 2 8$ 天）和整个试验期（第 $_ { 1 \sim 2 8 }$ 天），400和 ${ 5 0 0 } \mathrm { g / t }$ 肠杆菌肽组的 ADG均显著高于对照组（ $. P { < } 0 . 0 5$ ），其余各组之间差异不显著 $( P { > } 0 . 0 5 )$ 。
+
+试验前期和试验后期，各组间ADFI差异不显著（ $P { > } 0 . 0 5$ ）。从整个试验期看，各肠杆菌肽组的 ADFI均高于对照组，但差异不显著（ $P { > } 0 . 0 5 \$ ）。
+
+试验前期和试验后期，各组间F/G差异不显著（ $\cdot P { > } 0 . 0 5$ ）。从整个试验期看，与对照组相比，虽然各试验组的F/G均有降低，但400 和 ${ 5 0 0 } \mathrm { g / t }$ 肠杆菌肽组降低显著（ $\scriptstyle P < 0 . 0 5 { \mathrm { ~ , ~ } }$ ），分别降低 $7 . 6 1 \%$ 和 $8 . 1 5 \%$ ，其余各组降低不显著（ $. P { > } 0 . 0 5 \$ ）。
+
+试验第7、14和28天时，各试验组腹泻率均极显著低于对照组（ $( P { < } 0 . 0 1$ ），其中 ${ 5 0 0 } \mathrm { g / t }$ 肠杆菌肽组最低。试验第7天时， ${ 5 0 0 } \mathrm { g / t }$ 肠杆菌肽组的腹泻率为 $1 0 . 8 8 \%$ ，比对照组、 $3 0 \mathrm { g / t }$ 硫酸黏菌素组、 $3 0 0 \ \mathrm { g / t }$ 天蚕素抗菌肽组分别低 $3 0 . 2 1 \%$ （ $_ { - P < 0 . 0 1 }$ ）、 $1 7 . 1 4 \%$ （ $_ { - P < 0 . 0 1 }$ ）、 $1 4 . 4 0 \%$ （ $P { < } 0 . 0 1$ ）；试验第14天时， ${ 5 0 0 } \mathrm { g / t }$ 肠杆菌肽组的腹泻率为 $4 . 7 1 \%$ ，比对照组、 $3 0 \mathrm { g / t }$ 硫酸黏菌素组、 $3 0 0 \ \mathrm { g / t }$ 天蚕素抗菌肽组分别低 $54 . 2 3 \%$ ( $P { < } 0 . 0 1$ ）、 $4 3 . 5 3 \%$ ( $P { < } 0 . 0 1$ ）、 $1 8 . 6 5 \%$ （ $P { < } 0 . 0 5$ ）。试验第28天时， ${ 5 0 0 } \mathrm { g / t }$ 肠杆菌肽组的腹泻率极显著低于其他各组（ $\cdot P { < } 0 . 0 1$ ）。此外，300 和 $4 0 0 \ \mathrm { g / t }$ 肠杆菌肽组的腹泻率显著低于 $3 0 \mathrm { g / t }$ 硫酸黏菌素组( $( P { < } 0 . 0 5 )$ ，与 $3 0 0 \ \mathrm { g / t }$ 天蚕素抗菌肽组差异不显著（ $. P { > } 0 . 0 5 \$ ）。
+
+# 表3饲粮中添加肠杆菌肽对断奶仔猪生长性能的影响
+
+Table 3Effects of enterobacitracin supplementation on growth performance of weanling piglets
+
+<html><body><table><tr><td rowspan="2">项目</td><td rowspan="2">对照组</td><td rowspan="2">30g/t硫酸黏菌素</td><td rowspan="2">300 g/t天蚕素抗</td><td rowspan="2">300 g/t肠杆 菌肽组</td><td rowspan="2">400 g/t肠杆</td><td>500 g/t肠杆</td></tr><tr><td>菌肽组</td></tr><tr><td>Items</td><td rowspan="4">Control group</td><td rowspan="4">菌肽组</td><td rowspan="4"> 300 g/t cecropin</td><td>300 g/t</td><td>菌肽组 400 g/t</td><td>500 g/t</td></tr><tr><td>30 g/t colistin</td><td></td><td></td><td></td></tr><tr><td> sulfate group</td><td>enterobacitracin</td><td>enterobacitracin</td><td>enterobacitracin</td></tr><tr><td></td><td>group</td><td>group</td><td>group</td></tr><tr><td>AIX</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1～14天 Day1 to</td><td>239.17±18.21c</td><td>247.00±18.43bc</td><td>261.23±15.13abc</td><td>266.14±14.27ab</td><td>274.21±17.18a</td><td>276.06±15.03a</td></tr><tr><td></td><td>437.18±18.24b</td><td>445.19±18.15ab</td><td>447.23±19.26ab</td><td>465.31±18.47ab</td><td>468.29±19.50a</td><td>471.38±17.93a</td></tr><tr><td>to 28</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第1～28 天 Day1 to</td><td>338.17±18.23b</td><td>346.10±18.29ab</td><td>354.23±17.18ab</td><td>365.73±16.35ab</td><td>371.25±18.33a</td><td>373.73±16.45a</td></tr><tr><td>28</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日采食量 ADFI/g</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第1～14 天 Day 1 to</td><td>438.99±14.12</td><td>439.81±14.87</td><td>454.83±11.78</td><td>450.74±12.50</td><td>457.46±15.96</td><td></td></tr><tr><td>14</td><td></td><td></td><td></td><td></td><td></td><td>454.45±12.06</td></tr><tr><td>第15～28天 Day 15</td><td>807.56±11.67</td><td>798.08±12.77</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>793.96±14.69</td><td>814.29±12.61</td><td>811.41±12.49</td><td>808.18±13.72</td></tr><tr><td>to 28</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第1～28 天 Day 1 to</td><td></td><td>618.95±13.55</td><td>624.40±13.23</td><td>632.52±12.55</td><td>634.44±14.23</td><td>631.32±12.70</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>623.27±12.90</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>第1～14天 Day 1 to 14</td><td>1.84±0.09</td><td>1.79±0.10</td><td>1.75±0.14</td><td>1.70±0.13</td><td>1.68±0.16</td><td>1.65±0.12</td></tr><tr><td>第15～28天Day15 to</td><td>1.85±0.05</td><td>1.80±0.05</td><td>1.78±0.11</td><td>1.75±0.10</td><td>1.74±0.10</td><td>1.72±0.08</td></tr><tr><td>28</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第1～28天 Day 1 to 28</td><td>1.84±0.07a</td><td>1.79±0.06ab</td><td>1.76±0.07ab</td><td>1.73±0.09ab</td><td>1.70±0.05b</td><td>1.69±0.09b</td></tr><tr><td>腹泻率Diarrhea rate/%</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第7天 The 7h day</td><td>15.59±1.25Aa</td><td>13.13±0.21Bb</td><td>12.71±0.42Bbc</td><td>12.21±0.93BCbc</td><td>11.77±0.31BCcd</td><td>10.88±0.16Cd</td></tr><tr><td>第14天 The 14h day</td><td>10.29±0.98Aa</td><td>8.34±0.52Bb</td><td>5.79±0.54Cc</td><td>5.75±0.32Cc</td><td>5.33±0.41Ccd</td><td>4.71±0.34Cd</td></tr><tr><td>第28天 The 28th day</td><td>7.33±0.71Aa</td><td>6.17±0.56Bb</td><td>1.59±0.10Cc</td><td>1.37±0.09Cc</td><td>1.21±0.08Cc</td><td>0.00±0.00Dd</td></tr></table></body></html>
+
+同行数据肩标不同大写字母表示差异极显著 $( P { < } 0 . 0 1 )$ ，不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，相同小写 字母或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ 。下表同。 In the same row, values with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ ,and with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ , while with the same small letter or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ .The same as below.
+
+# 2.2饲粮中添加肠杆菌肽对断奶仔猪血清蛋白质合成指标的影响
+
+由表4可知，试验第14天时， $3 0 \ \mathrm { g / t }$ 硫酸黏菌素组、 $3 0 0 \ \mathrm { g / t }$ 天蚕素抗菌肽组以及300和 $4 0 0 \ \mathrm { g / t }$ 肠杆菌肽组血清UN含量与对照组差异不显著（ $. { \cal P } { > } 0 . 0 5$ ），但 ${ 5 0 0 } \mathrm { g / t }$ 肠杆菌肽组血清UN含量显著低于对照组和 $3 0 \mathrm { g / t }$ 硫酸黏菌素组（ $\scriptstyle \cdot < 0 . 0 5$ ）。试验第28天时， $3 0 \mathrm { g / t }$ 硫酸黏菌素组、 $3 0 0 ~ \mathrm { g / t }$ 天蚕素抗菌肽组以及 $3 0 0 \ \mathrm { g / t }$ 肠杆菌肽组血清UN含量与对照组差异不显著（ $. { \cal P } { > } 0 . 0 5$ ），但400和 ${ 5 0 0 } \mathrm { g / t }$ 肠杆菌肽组显著低于对照组（ $. P { < } 0 . 0 5$ ），且 ${ 5 0 0 } \mathrm { g / t }$ 肠杆菌肽组还显著低于 $3 0 \mathrm { g / t }$ 硫酸黏菌素组 ( $_ { . } { \cal P } { < } 0 . 0 5$ ）。从两期试验结果可以看出肠杆菌肽降低血清UN含量效果优于硫酸黏菌素和天蚕素抗菌肽，其中 ${ 5 0 0 } \mathrm { g / t }$ 肠杆菌肽组降低血清UN含量效果最好。
+
+试验第14和28天时，血清TP和ALB含量各组之间差异不显著（ ${ \cdot } P { > } 0 . 0 5$ ），但各试验组均较对照组有不同程度的升高，其中 ${ 5 0 0 } \mathrm { g / t }$ 肠杆菌肽组较对照组升高的量最多。
+
+试验第14和28天时，400和 ${ 5 0 0 } \mathrm { g / t }$ 肠杆菌肽组血清GLB含量显著高于对照组( $_ { . } { \cal P } { < } 0 . 0 5 )$ ，其他各组之间差异不显著（ $. { \cal P } { > } 0 . 0 5$ ），其中以 ${ 5 0 0 } \mathrm { g / t }$ 肠杆菌肽组血清GLB含量最高。
+
+表4饲粮中添加肠杆菌肽对断奶仔猪血清蛋白质合成指标的影响  
+Table 4Effects of enterobacitracin supplementation on protein synthesis indices in serum of   
+
+<html><body><table><tr><td colspan="3">134</td><td colspan="4">weanling piglets</td></tr><tr><td>项目</td><td>对照组</td><td>300g/t硫酸黏菌</td><td>300 g/t天蚕素抗</td><td>300 g/t肠杆</td><td>400 g/t肠杆</td><td>500 g/t肠杆</td></tr><tr><td></td><td></td><td>素组</td><td>菌肽组</td><td>菌肽组 300 g/t</td><td>菌肽组 400 g/t</td><td>菌肽组 500 g/t</td></tr><tr><td>Items</td><td>Control group</td><td>300 g/t colistin sulfate group</td><td>300 g/t cecropin group</td><td>enterobacitracin group</td><td>enterobacitracin group</td><td>enterobacitracin group</td></tr><tr><td>尿素氮 UN/(mmol/L)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第14天 The 14h day</td><td>4.36±0.13a</td><td>4.32±0.21a</td><td>4.16±0.29ab</td><td>4.15±0.35ab</td><td>3.97±0.24ab</td><td>3.87±0.28b</td></tr><tr><td>第28天 The 28th day</td><td>3.35±0.35a</td><td>3.29±0.26ab</td><td>3.02±0.27abc</td><td>2.93±0.23abc</td><td>2.87±0.24bc</td><td>2.66±0.24c</td></tr><tr><td>总蛋白 TP/(g/L) 0</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第14天 The 14h day</td><td>60.81±3.50</td><td>63.71±4.35</td><td>64.21±4.78</td><td>64.96±4.46</td><td>65.17±4.71</td><td>66.49±4.95</td></tr><tr><td>第28天 The 28th day</td><td>63.49±3.95</td><td>65.24±4.03</td><td>66.01±4.05</td><td>66.61±4.32</td><td>68.32±4.57</td><td>69.21±4.23</td></tr><tr><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>39.10±1.51</td><td>39.90±2.07</td><td>39.80±2.33</td><td>40.41±2.07</td><td>39.59±2.32</td><td>40.66±2.41</td></tr><tr><td>第 28天The 28th day a</td><td>40.31±2.44</td><td>40.87±2.40</td><td>41.10±2.52</td><td>41.32±2.75</td><td>42.40±2.85</td><td>42.87±2.52</td></tr><tr><td>球蛋白 GLB/(g/L) h</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第14天 The 14h day</td><td>21.71±2.02b</td><td>23.81±2.29ab</td><td>24.41±2.45ab</td><td>24.55±2.39ab</td><td>25.58±2.39a</td><td>25.84±2.55a</td></tr><tr><td>第28天 The 28th day</td><td>23.18±1.51b</td><td>24.37±1.63ab</td><td>24.91±1.54ab</td><td>25.29±1.57ab</td><td>25.92±1.72a</td><td>26.34±1.71a</td></tr></table></body></html>
+
+2.3饲粮中添加肠杆菌肽对断奶仔猪血清免疫指标的影响
+
+由表5可知，试验第14和28天时， ${ 5 0 0 } \mathrm { g / t }$ 肠杆菌肽组血清IgG含量较对照组分别高出 $1 7 . 2 7 \%$ （ $_ { . } { \scriptstyle { P < 0 . 0 5 } }$ ）、 $1 6 . 2 0 \%$ （ $_ { . } { \cal P } { < } 0 . 0 5$ ），其他各组间差异不显著（ $P { > } 0 . 0 5 \$ ）。试验第14天时，各抗菌肽组血清C4含量均显著高于对照组（ $_ { . } { \cal P } { < } 0 . 0 5 )$ 和 $3 0 \mathrm { g / t }$ 硫酸黏菌素组（ $P { < } 0 . 0 5$ ），但各抗菌肽组之间差异不显著（ $P { > } 0 . 0 5$ ）。试验第28天时，血清C4含量各组之间差异不显著（ $. P { > } 0 . 0 5 \$ ），其中 ${ 5 0 0 } \mathrm { g / t }$ 肠杆菌肽组含量最高。
+
+# 表5肠杆菌肽对断奶仔猪血清免疫性能的影响
+
+Table 5Effects of enterobacitracin supplementation on serum immune indices of weanling   
+
+<html><body><table><tr><td>144</td><td colspan="7">piglets g/L</td></tr><tr><td>项目</td><td>对照组</td><td>30g/t硫酸黏菌</td><td>300g/t天蚕素抗菌</td><td>300g/t肠杆</td><td>400 g/t肠杆</td><td></td><td>500 g/t肠杆</td></tr><tr><td></td><td></td><td>素组 30 g/t colistin</td><td>肽组 300 g/t cecropin</td><td></td><td>菌肽组 300 g/t</td><td>菌肽组 400 g/t</td><td>菌肽组 500 g/t</td></tr><tr><td>Items</td><td>control group</td><td> sulfate group</td><td>group</td><td></td><td>enterobacitracin group</td><td>enterobacitracin group</td><td>enterobacitracin group</td></tr><tr><td>免疫球蛋白GIgG</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第14天 The 14th day</td><td>4.17±0.38b</td><td>4.23±0.36ab</td><td></td><td>4.38±0.40ab</td><td>4.37±0.39ab</td><td>4.60±0.43ab</td><td>4.89±0.45a</td></tr><tr><td>第28天 The 28th day</td><td>4.63±0.38b</td><td>5.01±0.42ab</td><td></td><td>5.17±0.45ab</td><td>5.19±0.46ab</td><td>5.31±0.47ab</td><td>5.38±0.48a</td></tr><tr><td>补体4C4</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第14天 The 14th day</td><td>0.082±0.006b</td><td>0.093±0.006b</td><td>0.095±0.007a</td><td></td><td>0.095±0.008a</td><td>0.095±0.007a</td><td>0.099±0.010a</td></tr><tr><td>0 第28天 The 28h day</td><td>0.145±0.004</td><td>0.147±0.004</td><td>0.149±0.004</td><td></td><td>0.151±0.005</td><td>0.153±0.013</td><td>0.160±0.021</td></tr></table></body></html>
+
+2.4饲粮中添加肠杆菌肽对断奶仔猪血清抗氧化指标的影响
+
+147 由表6可知，试验第14和28天时，血清GSH-Px活性各组之间差异不显著（ ${ \cdot } P { > } 0 . 0 5 )$ ，  
+148 但均以 ${ 5 0 0 } \mathrm { g / t }$ 肠杆菌肽组血清GSH $\mathbf { \cdot P x }$ 活性最高，分别达到570.00 和 $6 0 2 . 0 0 \mathrm { U / m L }$ 。  
+149 试验第14和28天时，各试验组血清MDA含量均较对照组有所降低，其中各抗菌肽组  
+150 极显著低于对照组（ $. P { < } 0 . 0 1$ ）和 $3 0 \ \mathrm { g / t }$ 硫酸黏菌素组 ( $P { < } 0 . 0 1$ ），但各抗菌肽组之间差异不  
+151 显著（ $P { > } 0 . 0 5$ ），且以 ${ 5 0 0 } \mathrm { g / t }$ 肠杆菌肽组血清 MDA 含量最低。
+
+试验第14天时，血清 SOD 活性各组之间差异不显著（ $. P { > } 0 . 0 5$ ）。试验第28天时，与对照组相比， $3 0 ~ \mathrm { g / t }$ 硫酸黏菌素组和 $3 0 0 ~ \mathrm { g / t }$ 天蚕素抗菌肽组血清 SOD 活性无显著提高（ $\cdot P { > } 0 . 0 5 )$ ），各肠杆菌肽组则显著提高（ $. P { < } 0 . 0 5 )$ ），同时 ${ 5 0 0 } \mathrm { g / t }$ 肠杆菌肽组还显著高于 $3 0 \mathrm { g / t }$ （204号硫酸黏菌素组 （ $_ { . } { \cal P } { < } 0 . 0 5$ ）。
+
+试验第14天时，血清T-AOC 各组之间差异不显著（ $. { \cal P } { > } 0 . 0 5$ ）。试验第28天时， ${ 5 0 0 } \mathrm { g / t }$ 肠杆菌肽组血清T-AOC 比对照组、 $3 0 \ \mathrm { g / t }$ 硫酸黏菌素组、 $3 0 0 \ \mathrm { g / t }$ 天蚕素抗菌肽组分别高出$1 9 . 4 5 \%$ ( $P { < } 0 . 0 5$ ）、 $1 7 . 3 8 \%$ ( $P { < } 0 . 0 5$ ）、 $8 . 1 5 \%$ （ $P { > } 0 . 0 5$ ），但各抗菌肽组间血清T-AOC差
+
+表6饲粮中添加肠杆菌肽对断奶仔猪血清抗氧化指标的影响
+
+Table 6Effects of enterobacitracin supplementation on serum antioxidant indices of weanling   
+
+<html><body><table><tr><td colspan="2">163</td><td colspan="5">piglets</td></tr><tr><td>项目</td><td>对照组</td><td>30g/t硫酸黏菌</td><td>300g/t天蚕素抗菌</td><td>300 g/t肠杆</td><td>400 g/t肠杆</td><td>500 g/t肠杆</td></tr><tr><td></td><td></td><td>素组</td><td>肽组</td><td>菌肽组</td><td>菌肽组</td><td>菌肽组</td></tr><tr><td rowspan="3">Items</td><td rowspan="3">control group</td><td>30 g/t colistin</td><td>300 g/t</td><td>300 g/t</td><td>400 g/t</td><td>500 g/t</td></tr><tr><td> sulfate group</td><td>cecropin group</td><td>enterobacitracin</td><td>enterobacitracin</td><td>enterobacitracin</td></tr><tr><td></td><td></td><td>group</td><td>group</td><td>group</td></tr><tr><td>谷胱甘肽过氧化物酶 GSH-Px/(U/mL)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第14天 The 14th day</td><td>512.31±37.91</td><td>510.55±50.48</td><td>542.83±29.43</td><td>558.32±53.11</td><td>550.22±53.94</td><td>570.00±55.99</td></tr><tr><td>第28天 The 28th day 0</td><td>527.00±49.91</td><td>529.00±48.21</td><td>550.50±42.25</td><td>580.00±48.10</td><td>598.00±55.02</td><td>602.00±53.89</td></tr><tr><td>丙二醛 MDA/(nmol/mL)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第014天 The 14h day</td><td>5.09±0.40Aa</td><td>4.97±0.42Aa</td><td>4.11±0.37Bb</td><td>4.12±0.34Bb</td><td>4.00±0.38Bb</td><td>3.72±0.32Bb</td></tr><tr><td>第28天 The 28h day 2</td><td>3.80±0.33Aa</td><td>3.71±0.31Aa</td><td>2.99±0.28Bb</td><td>3.09±0.24Bb</td><td>2.95±0.23Bb</td><td>2.80±0.21Bb</td></tr><tr><td>超氧化物歧化酶 SOD/(U/mL) X</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第14天 The 14h day 2</td><td>34.57±3.10</td><td>35.42±3.48</td><td>36.37±3.24</td><td>36.97±3.50</td><td>38.42±3.38</td><td>39.55±3.53</td></tr><tr><td>第 28天 The 28h day h</td><td>39.88±2.95c</td><td>41.33±3.59bc</td><td>42.01±2.18abc</td><td>44.13±3.31ab</td><td>44.53±1.41ab</td><td>45.63±1.43a</td></tr><tr><td>总抗氧化能力 T-AOC/(U/mL)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第14天 The 14h day</td><td>6.11±0.33</td><td>6.09±0.52</td><td>6.46±0.52</td><td>6.46±0.50</td><td>6.68±0.58</td><td>6.87±0.60</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第 28天 The 28th day</td><td>6.22±0.47b</td><td>6.33±0.58b</td><td>6.87±0.67ab</td><td>6.89±0.61ab</td><td>7.22±0.70ab</td><td>7.43±0.90a</td></tr></table></body></html>
+
+164 3讨论
+
+3.1饲粮中添加肠杆菌肽对断奶仔猪生产性能的影响
+
+3.1.1 饲粮中添加肠杆菌肽对断奶仔猪生长性能的影响
+
+硫酸黏菌素是碱性多肽类抗生素，主要用于防治病菌引起的腹泻，也有促生长的作用。李希等8报道，单独使用低剂量的硫酸黏菌素已远远不能达到理想的促生长作用。这与本试验所得结论相似，即 $3 0 \mathrm { g / t }$ 硫酸黏菌素可以提高断奶仔猪的ADG，降低F/G，但作用效果不显著。宦海琳等[9]研究结果显示， $2 0 \ \mathrm { g / t }$ 硫酸黏菌素和 $4 0 \ \mathrm { g / t }$ 杆菌肽锌同时添加可以提高断奶仔猪的ADG，但作用效果不显著。但王彩玲等[10]的研究发现，饲粮中添加 $2 0 \ \mathrm { g / t }$ 硫酸黏菌素可显著提高仔猪的ADG并显著降低F/G。张文飞等[1]的研究发现,饲粮中添加 $4 0 0 \ \mathrm { g / t }$ 硫酸黏菌素能提高断奶仔猪的ADG 并显著降低F/G。导致硫酸黏菌素研究结果的显著性不一致的原因，或许与使用的硫酸黏菌素的来源、使用的剂量、使用的方法以及饲粮的基础物质有关。
+
+本试验结果表明，抗菌肽可以提高断奶仔猪的ADG，降低F/G。这说明抗菌肽能让仔猪更大程度地利用饲粮中的营养成分。抗菌肽主要通过杀灭肠道中的有害菌、调节肠道菌群平衡、提高绒毛高度和隐窝深度的比值、改善小肠黏膜形态结构来增强消化吸收功能，进而改善生长性能[12]。已有研究表明，饲粮中添加抗菌肽可提高断奶仔猪的生产性能[13-18]和肉鸡的生长性能[19-20]。张江等[21]研究表明，肠杆菌肽可以提高断奶仔猪的 ADG，降低 F/G。孙何军等[22]研究表明，肠杆菌肽可以提高蛋鸡的生产性能。上述试验结果很好地印证了本试验结论。从抗菌肽作用效果来看，本试验结果显示肠杆菌肽优于天蚕素抗菌肽。一方面是因为抗菌肽在体内容易被蛋白酶降解，用氨基酸合成的办法合成的直链多肽没有生物学活性，其结构的改变会导致抑菌能力的下降或消失。而肠杆菌肽有着套索结构，这种特性使其结构更加稳定，能够耐酸碱、胃蛋白酶和胰蛋白酶，在体内始终保持着较高的活性;另一方面是因为断奶仔猪前期易受革兰氏阴性菌危害，肠杆菌肽主要杀灭革兰氏阴性菌，而天蚕素抗菌肽主要针对葡萄球菌等革兰氏阳性菌，这种特异性使得肠杆菌肽在预防断奶仔猪腹泻上具有独特的优势，进而更好地促进了仔猪生长。同时，张奕驰等[23]研究显示，饲粮中添加抗菌肽可达到与硫酸黏菌素相同的生长效果。这与本试验的结果类似，即 $3 0 0 ~ \mathrm { g / t }$ 肠杆菌肽、 $3 0 0 ~ \mathrm { g / t }$ 天蚕素抗菌肽与 $3 0 \mathrm { g / t }$ 硫酸黏菌素的作用效果相似。
+
+3.1.2饲粮中添加肠杆菌肽对断奶仔猪腹泻率的影响
+
+抗生素是通过控制细菌的代谢途径(如DNA、蛋白质、细胞壁合成）来达到抑菌效果的  
+[24]。本试验研究结果表明， $3 0 \mathrm { g / t }$ 硫酸黏菌素可以极显著地降低仔猪的腹泻率，这与陈畅[25]  
+的研究结果一致。但硫酸黏菌素作用效果不如肠杆菌肽，这与张江等[21]的研究结果一致。本试验结果表明，抗菌肽极显著地降低了仔猪的腹泻率。断奶期仔猪抵抗力下降、容易  
+发生腹泻、生长性能下降等现象，很可能与抗菌肽的表达下降有关，通过外源性添加抗菌
+
+肽是提高畜禽防御功能、增强自身免疫力和抗病能力的重要途径[26]。肠杆菌肽主要通过2种方式抑制病原微生物：通过抑制RNA聚合酶活性来干扰细菌mRNA以及蛋白质的合成；通过改变细胞膜的通透性，从而使细菌细胞膜破碎，病原细菌死亡[5]。天蚕素抗菌肽的抑菌活性是通过破坏细菌细胞膜的结构和功能实现的，通过膜的渗透作用改变胞膜通透性，使细菌内容物大量外流，最终导致细菌死亡[27]。研究表明，饲粮中添加抗菌肽可以减少断奶仔猪[14,28-29]和肉鸡[19]的腹泻率，而肠杆菌肽在预防断奶仔猪腹泻方面有取代抗生素的能力[8,21]，这印证了本试验的结论。这是因为，肠道毒素浓度上升时，抗菌肽可以提高仔猪免疫球蛋白含量，免疫球蛋白在保护肠道抵抗微生物入侵方面起关键作用。从抗菌肽作用效果来看，本试验结果显示肠杆菌肽优于天蚕素抗菌肽。这是因为仔猪前期易受革兰氏阴性菌的危害，而肠杆菌肽对革兰氏阴性菌的作用效果优于天蚕素抗菌肽。
+
+3.2饲粮中添加肠杆菌肽对断奶仔猪蛋白质合成的影响
+
+3.2.1 饲粮中添加肠杆菌肽对断奶仔猪血清UN含量的影响
+
+血清UN含量的高低可以反映仔猪体内蛋白质代谢和饲粮氨基酸的平衡状况。当仔猪对蛋白质的利用率高、饲粮中氨基酸平衡时，血清UN 含量降低。陈畅[25]研究显示，饲粮中添加硫酸黏菌素可以降低断奶仔猪血清UN 含量。王阿荣[18]和李波等[30]研究均表明饲粮中添加抗菌肽可以降低断奶仔猪血清UN 含量。本试验结果上述学者的研究结论相一致，即抗菌肽和抗生素对断奶仔猪血清UN含量都有一定的降低作用，其中肠杆菌肽的作用效果更理想。这是由于抗菌肽减缓了仔猪体内蛋白质的降解速度，使氮在体内存留的量增多，从而能使蛋白质的分解产物吸收到体内的量增加。
+
+3.2.2饲粮中添加肠杆菌肽对断奶仔猪血清TP、ALB和GLB含量的影响
+
+血清 TP包括ALB 和GLB，主要功能包括维持血浆渗透压和酸碱平衡，同时还具有缓冲功能、运输功能、免疫功能和修补组织等作用[25]。ALB用于修补组织和提高能量。机体的抗体蛋白主要是GLB，血清中GLB 含量上升在一定程度上反映机体抗体水平的提高[18]。本试验研究表明，饲粮中添加抗生素和抗菌肽对断奶仔猪血清TP 和ALB含量有所提高，但未达到显著效果，其中肠杆菌肽提高的量最多。这是因为抗菌肽能促进仔猪体内蛋白质的合成和沉积。这与王阿荣[18]、陈畅[25]、李波等[30]的研究结果一致。
+
+本试验结果表明，肠杆菌肽可以显著提高断奶仔猪血清GLB含量，硫酸黏菌素和天蚕素抗菌肽的作用效果不显著。这与王阿荣[18]、陈畅[25]的研究结果一致，即硫酸黏菌素和天蚕素抗菌肽提高血清GLB含量效果不理想。肠杆菌肽对断奶仔猪血清蛋白质合成指标的影响还未见报道，添加肠杆菌肽可以促进断奶仔猪血清蛋白质合成，这可能是通过改善肠道健康、提高仔猪生长性能和免疫性能来实现的。
+
+# 3.3饲粮中添加肠杆菌肽对断奶仔猪免疫性能的影响
+
+血清IgG 是以单体形式存在，是血清中含量最多的免疫球蛋白，是主动免疫后机体产生的主要抗体，在体液免疫中最为重要[31]。C4在经典路径活化期间起首要效果。断奶会使仔猪肠绒毛萎缩、隐窝加深，保护仔猪的胃肠道黏膜可减弱应激对仔猪的损伤作用，而免疫球蛋白在保护肠道、呼吸道、泌尿生殖道、乳腺和眼睛抵抗微生物入侵方面起关键作用[32]。
+
+本试验结果表明，抗菌肽和抗生素均可以在一定程度上提高仔猪血清IgG 和C4含量，其中 ${ 5 0 0 } \mathrm { g / t }$ 肠杆菌肽组较对照组的升高的量最多。僧晓兰等[33]研究显示，硫酸黏菌素能提高断奶仔猪血清中IgG 和C4 含量。Wu 等[28]研究表明，硫酸黏菌素可以提高断奶仔猪血清中 IgG 含量，但作用效果不如抗菌肽。邝哲师等[34]研究显示，饲粮中添加抗菌肽可以提高断奶仔猪血清IgG 和C4 含量。王阿荣[18]、李波等[30]、苏恺等[35]和 Yuan 等[36]均研究表明抗菌肽可以提高断奶仔猪血清 IgG 含量。姚远等[37]、刘洹兵等[38]研究表明，天蚕素抗菌肽可以促进鸡血清免疫球蛋白和补体含量的增加。这与本研究结论相似。
+
+肠杆菌肽对断奶仔猪血清免疫指标的影响还未见报道，添加肠杆菌肽可以提高断奶仔猪免疫性能，是因为抗菌肽本身是来源于动物自身的一种肽类，可以促进仔猪免疫器官的发育，对获得性免疫进行诱导，是天然免疫防御系统的重要组成部分；通过外源添加抗菌肽，可以增强动物抵抗预防疾病风险的能力，减少断奶应激。
+
+# 3.4饲粮中添加肠杆菌肽对断奶仔猪抗氧化能力的影响
+
+机体代谢过程中产生的过氧化物和自由基，会损害机体组织细胞，加速细胞衰老或凋亡。动物体内的抗氧化酶如 SOD、GSH $\mathbf { \cdot P x }$ 以及还原型谷胱甘肽协同作用对于清除过氧化物和自由基、保持细胞膜的完整性、维持正常免疫功能有着极其重要的作用[35]。MDA 是机体内氧自由基攻击生物膜中的多不饱和脂肪酸（PUFA）产生的脂质过氧化产物分解产物，具有细胞毒性，可导致细胞空隙增大、通透性增强，其含量的多少可显示机体内脂质过氧化的程度，间接地反映细胞氧化损伤的严重性[39]。断奶仔猪容易受到各种因素的影响，发生脂质过氧化，造成氧化应激。在动物遭受持续的氧化脂质和诱导的氧化应激时，SOD、还原型谷胱甘肽和总的抑制羟自由基的能力下降，有力地说明了这些酶在氧化应激中发挥了至关重要的作用[40]。
+
+本试验结果表明，抗菌肽可以极显著地降低断奶仔猪血清中MDA含量，抗生素的作用效果则不显著。脂质在活性氧的作用下发生脂质过氧化反应，首先形成脂质自由基，再与氧反应形成脂氧自由基，进一步氧化形成脂过氧自由基，攻击其他脂质，形成脂质过氧化物，这样脂质过氧化反应不断连锁放大，造成生物膜损伤[40]。徐建凯等[41]研究显示，硫酸黏菌素能降低断奶仔猪血清 MDA 含量，但效果不显著。苏恺等[35]研究显示，饲粮中添加抗菌肽可显著降低断奶仔猪血清 MDA含量。孙全友等[42]研究显示，在肉仔鸡饲粮中单独添加抗菌肽时能显著降低血清 MDA含量。这些研究结果与本试验所得结果相似。从抗菌肽作用效果来看，本试验结果显示肠杆菌肽优于天蚕素抗菌肽。这是因为肠杆菌肽在杀灭大肠杆菌等革兰氏阴性菌方面有独特的优势，因而不仅可以凭借抗菌肽自身的抗氧化作用，保护免疫细胞膜，促进IgG分泌，还可以通过调节肠道微生物区系平衡来改善仔猪抗感染水平。
+
+本试验结果表明，抗菌肽和抗生素在提高断奶仔猪血清GSH-Px活性方面作用效果均不显著，但相比较来说以肠杆菌肽作用效果较好。徐建凯等[41研究显示，硫酸黏菌素能提高断奶仔猪血清GSH-Px 活性，但作用效果不显著。孙全友等[42]研究显示，在肉仔鸡饲粮中单独添加抗菌肽时可以提高肉仔鸡血清GSH-Px活性。这与本试验研究结果相似。
+
+本试验结果表明，硫酸黏菌素和天蚕素抗菌肽在提高断奶仔猪血清T-AOC上没达到显著效果，而肠杆菌肽的作用效果显著。徐建凯等[41研究显示，硫酸黏菌素能提高断奶仔猪血清 T-AOC，但效果不显著。苏恺等[35]研究显示，抗菌肽能显著提高断奶仔猪血清 T-AOC。这与本试验研究结果相一致。
+
+本试验还结果表明，硫酸黏菌素和天蚕素抗菌肽提高断奶仔猪血清 SOD 活性的效果不如肠杆菌肽。徐建凯等[4I]研究得出，硫酸黏菌素可以提高断奶仔猪血清 SOD 的活性。苏恺等[35]研究表明，饲粮中添加抗菌肽可以提高断奶仔猪血清 SOD 活性。孙全友等[42]研究显示，在肉仔鸡饲粮中单独添加抗菌肽时能提高肉仔鸡血清 SOD 活性。但启雄等[43]研究表明，抗菌肽能够有效提高断奶仔猪血清抗氧化能力，保护细胞膜结构和功能的完整，增强仔猪抗断奶应激能力。Xiao 等[44]研究表明，复合抗菌肽可以提高断奶仔猪的抗氧化能力。这与本试验研究结果相似。
+
+肠杆菌肽对断奶仔猪抗氧化能力的影响还未见报道，添加肠杆菌肽可以提高断奶仔猪的抗氧化能力，这可能是其改善肠道健康、提高抗氧化性能机理所在。本试验中，断奶仔猪血清中GSH-Px、SOD 活性及T-AOC 在某种情况下并不一定同时增加，这可能是由于仔猪机体的抗氧化系统中存在着某种平衡调节机制，一种机制激活时，另一种可能处于抑制状态，具体抗氧化调节机理有待进一步深入研究。
+
+4结论  
+肠杆菌肽在提高断奶仔猪生产性能、免疫性能和抗氧化能力方面优于天蚕素抗菌肽，也优于抗生素硫酸黏菌素，饲粮中肠杆菌肽的适宜添加量为 ${ 5 0 0 } \mathrm { g / t }$ 。  
+参考文献：  
+[1]YOON J H,INGALE SL,KIM K H,et al.Effects of dietary supplementation withantimicrobial peptide-P5 on growth performance,apparent total tract digestibility,faecal andintestinal microflora and intestinal morphology of weanling pigs[J].Journal of the Science of Foodand Agriculture,2013,93(3):587-592.  
+[2]魏媛,龚国利.抗菌肽与革兰氏阳性菌的互作及其机制[J].动物营养学报,2017,29(8):2636-2642.  
+[3]ZHU X,DONG N,WANG Z Y,et al.Design of imperfectly amphipathic a-helical  
+antimicrobial peptides with enhanced cell selectivity[J].Acta Biomaterialia,2014,10(1):244-257.[4]杜淑环,刘秀明,万秋,等.天蚕素抗菌肽的研究进展[J].动物营养学报,2012,24(1):41-47.[5]莫丹,付超强,李萍萍,等.肠杆菌肽的研究进展与应用[J].北方牧业,2016(9):27-28.[6]单安山,徐博成,王家俊,等.细菌对抗菌肽的抗性及机理[J].动物营养学报,2017,29(6):1874-1883.  
+[7]CHOI H,RANGARAJAN N,WEISSHAAR JC.Lights,camera,action!Antimicrobial peptidemechanisms imaged in space and time[J].Trends in Microbiology,2016,24(2):111-122.  
+[8]李希,张江,何涛.日粮中添加肠杆菌肽对保育猪生长性能的影响[J].饲料博  
+览,2016(2):1-4.  
+[9]宦海琳,白建勇,周维仁,等.抗菌肽对仔猪血清生化指标、肠黏膜形态结构及空肠上皮紧密连接蛋白基因相对表达量的影响[J].动物营养学报,2015,27(12):3797-3804.  
+[10]王彩玲,郭效中,牛子清,等.黄霉素、硫酸粘杆菌素对生长猪生产性能的影响[J].饲料工业,2002,23(8):24-25.  
+[11] 张文飞,刘苹苹,管武太,等.饲粮中添加卵黄抗体对断奶仔猪生长性能、血清生化指标、肠道形态及肠道微生物菌群的影响[J].动物营养学报2017,29(1):271-279.  
+[12]袁威,仁志华,邓又天,等.复合抗菌肽对断奶仔猪生长性能及血清细胞因子含量的影响
+
+[J].动物营养学报,2015,27(3):885-892.
+
+[13]YOON JH,INGALE S L,KIM J S,et al.Effects of dietary supplementation of synthetic antimicrobial peptide-A3 and P5 on growth performance,apparent total tract digestibility of nutrients,fecal and intestinal microflora and intestinal morphology in weanling pigs[J].Livestock Science,2014,159:53-60.
+
+[14]XIONG X,YANG H S,LI L,et al.Effects of antimicrobial peptides in nursery diets on growth performance of pigs reared on five different farms[J].Livestock   
+Science,2014,167:206-210.   
+[15]刘显军,丁雪,陈静,等.抗菌肽和抗生素对断奶仔猪生长性能的影响[J].中国畜牧兽 医,2012,39(7):252-256.   
+[16]李方方,苏航,张勇,等.饲粮添加复合抗菌肽与包被氧化锌对断奶仔猪生长性能及血清 生化指标的影响[J].动物营养学报,2015,27(9):2811-2819.   
+[17]朱宇旌,张勇,李方方,等.抗菌肽在断奶仔猪饲粮中的应用效果研究[J].养 猪,2016(2):17-20.   
+[18]王阿荣.天蚕素抗菌肽对断奶仔猪和母猪生产性能的影响[D].硕士学位论文.呼和浩特: 内蒙古农业大学,2011.   
+[19] INGALE S L,CHOI S C,KIM J S,et al.Effects of dietary supplementation with an antimicrobial peptide-P5on growth performance,nutrient retention,excreta and intestinal microfloraandintestinalmorphologyofbroilers[J].AnimalFeedScienceand Technol0gy,2013,185(1/2):78-84.   
+[20]WANG S,ZENG X F,YANG Q,et al.Antimicrobial peptides as potential alternatives to antibiotics in food animal industry[J].International Journal of Molecular Sciences,2016,17(5):603. [21] 张江,关静姝,李成功.日粮中添加肠杆菌肽对断奶仔猪生产性能的影响[J].广东饲 料,2016,25(5):21-23.   
+[22]孙何军,张江,刘成宏,等.日粮中添加肠杆菌肽对蛋鸡产蛋性能的影响[J].饲料工 业,2016,37(13):28-30.   
+[23] 张奕驰,睢富根.抗菌肽替代硫酸黏菌素对断奶仔猪生长性能和抗腹泻性能的影响[J].中 国畜牧杂志,2017,53(2):132-134.   
+[24] MANGONIML,BHUNIA A.Editorial:antimicrobialpeptidesinmedicinal chemistry:advances and applications[J].Current Topics in Medicinal Chemistry,2016,16(1):2-3. [25] 陈畅.中草药添加剂对断奶仔猪生产性能、血清生化指标、粪中菌群指标的影响[D].硕 士学位论文.沈阳:沈阳农业大学,2017.   
+[26]赵玉蓉,周灿,范志勇,等.断奶及日龄对仔猪骨髓组织抗菌肽 Protegrin-1mRNA 表达的 影响[J].动物营养学报,2007,19(5):605-609.   
+[27]朱振鹏,孙晓先,牛俊伟.天蚕素抗菌肽在动物生产上的研究进展[J].广东饲 料,2013,22(8):29-32.   
+[28]WU S D,ZHANG F R,HUANG Z M,et al.Effects of the antimicrobial peptide cecropin AD onperformance and intestinal health in weaned piglets challenged with Escherichia coli[J].Peptides,2012,35(2):225-230.   
+[29]孙雪梅,梁伟凡,陈春萍,等.天蚕素抗菌肽替代硫酸黏杆菌素对断奶仔猪生长性能及腹 泻的影响[J].饲料工业,2017,38(4):12-15.   
+[30]李波,韩文瑜.日粮中添加天蚕素抗菌肽对断奶仔猪生产性能、免疫性能及血清生化指 标的影响[J].中国畜牧兽医,2014,41(7):99-103.   
+[31] 彭翔,孙全友,李杰,等.抗菌肽和姜黄素对1\~21日龄肉仔鸡生长性能和免疫功能的影响 [J].动物营养学报,2014,26(2):474-481.   
+[32]顾宪红,张宏福.环境条件对断奶仔猪健康及生产性能的影响[J].动物营养学 报,1999,11(4):9-16.   
+[33]僧晓兰,李英伦,施飞,等.峨眉雪胆微丸对断奶仔猪免疫功能的影响[J].西北农林科技大 学学报,2016,44(6):34-39.   
+[34]邝哲师,杨金波,赵祥杰,等.猪源性 PR39 抗菌肽对断奶仔猪生产性能、血清免疫指标和 肠道菌群的影响[J].动物营养学报,2014,26(6):1587-1592.   
+[35]苏恺,王凯,孙力军,等.抗菌肽对断奶仔猪生产性能和健康水平的影响[J].河南农业科 学,2013,42(9):112-115,127.   
+[36]YUAN W,JIN H T,REN Z H,et al.Effects of antibacterial peptide on humoral immunity in   
+weaned piglets[J].Food and Agricultural Immunology,2015,26(5):682-689.   
+[37]姚远,匡伟,黄忠阳,等.抗菌肽天蚕素对鸡生长性能、肠道黏膜形态、盲肠菌群及免疫功   
+能的影响[J].江苏农业学报,2014,30(2):331-338.   
+[38]刘洹兵,刘毅.抗菌肽在肉鸡日粮中添加效果研究[J].湖南畜牧兽医,2015(4):6-9.   
+[39]李建喜,杨志强,王学智.活性氧自由基在动物机体内的生物学作用[J].动物医学进   
+展,2006,27(10):33-36.   
+[40]袁施彬,陈代文.氧化应激对断奶仔猪组织抗氧化酶活性和病理学变化的影响[J].中国兽   
+医学报,2009,29(1):74-78.   
+[41]徐建凯,单安山,李建平,等.女贞子对断奶仔猪生产性能及抗氧化功能的影响[J].东北农   
+业大学学报,2010,41(4):76-81.   
+[42]孙全友,徐彬,王琳燚,等.抗菌肽和姜黄素对肉仔鸡生长性能、抗氧化功能及肠道微生物   
+的影响[J].中国家禽,2015,37(20):32-36.   
+[43]但启雄,袁威,邓又天,等.复合抗菌肽对断奶仔猪血清抗氧化功能的影响[J].中国兽医学   
+报,2015,35(5):805-808.   
+[44]XIAO H,WU M M,TAN B E,et al.Effects of composite antimicrobial peptides in weanling   
+piglets challenged with deoxynivalenol: I .Growth performance,immune function,and   
+antioxidation capacity[J].American Society of Animal Science,2013,91(10):4772-4780. Effects of Enterobacitracin Supplementation on Performance and Serum Biochemical Indices of Weaning Pigletsi BUYanling1CHEN Jing1LI JiantaolCHENG $\mathrm { Q i } ^ { 2 }$ LI Haidong² LIU Xianjun1\* (1. College of Animal Sciences and Veterinary Sciences, Shenyang Agricultural University, Shenyang l10866, China; 2. Shenyang Borui Agriculture and Animal Husbandry Technology Co.,Ltd., Shenyang 110300, China)   
+Abstract: This experiment was designed to study the application effect of enterobacitracin in the   
+production of weaning piglets. One hundred and forty four healthy pigs (DurocxLandracexLarge   
+White) at the age of 28 days and with the average body weight of $( 7 . 3 5 { \pm } 0 . 2 9 \$ ） kg were randomly   
+selected and allotted to six groups with four replicates of six piglets per replicate (3 males and 3   
+393 females). Piglets in control group were fed a basal diet, and piglets in experimental groups were   
+394 fed colistin sulfate $( 3 0 ~ \mathrm { g / t } )$ ，cecropin $( 3 0 0 ~ \mathrm { g / t } )$ and enterobacitracin (300，400 and $5 0 0 \ \mathrm { g / t } )$ _，   
+395 respectively.The test lasted for 28 days,including early period (day 1 to 14) and later period (day   
+396 15 to 28). The results showed as follows: 1) compared with control group,the average daily gain   
+397 (ADG) of 400 and ${ 5 0 0 } ~ \mathrm { g / t }$ enterobacitracin groups was significantly increased $( P { < } 0 . 0 5 )$ ,and the   
+398 feed to gain ratio $\mathrm { ( F / G ) }$ was significantly decreased $( P { < } 0 . 0 5 )$ .At the $7 ^ { \mathrm { t h } }$ ， $1 4 ^ { \mathrm { t h } }$ and $2 8 ^ { \mathrm { t h } }$ day, the   
+399 diarrhea rate of experimental groups was significantly lower than that of control group $( P { < } 0 . 0 1 )$ ），   
+400 and the $5 0 0 ~ \mathrm { g / t }$ enterobacitracin group had the lowest value.2） The serum urea nitrogen (UN)   
+401 content of ${ 5 0 0 } \ \mathrm { g / t }$ enterobacitracin group was significantly lower than that of control group and 30   
+402 （204 $\mathrm { { g / t } }$ colistin sulfate group at the $1 4 ^ { \mathrm { t h } }$ day $( P { < } 0 . 0 5 )$ ,and the serum UN content of 400 and ${ 5 0 0 } ~ \mathrm { g / t }$ （204号   
+403 enterobacitracin groups was significantly lower than that of control group at the $2 8 ^ { \mathrm { t h } }$ day $( P { < } 0 . 0 5 )$ ： moreover, the serum UN content of ${ 5 0 0 } ~ \mathrm { g / t }$ enterobacitracin group was significantly lower than that of $3 0 ~ \mathrm { g / t }$ colistin sulfate group at the $2 8 ^ { \mathrm { t h } }$ day $( P { < } 0 . 0 5 )$ . At the $1 4 ^ { \mathrm { t h } }$ and $2 8 ^ { \mathrm { t h } }$ day, the serum globulin (GLB) content of 400 and ${ 5 0 0 } ~ \mathrm { g / t }$ enterobacitracin groups was significantly higher than that of control group‘ $( P { < } 0 . 0 5 )$ .3）The serum immunoglobulin G (IgG） content of $5 0 0 \ \mathrm { g / t }$ enterobacitracin group was increased by $1 3 . 6 3 \%$ $( P { < } 0 . 0 5 )$ and $1 3 . 6 3 \%$ $( P { < } 0 . 0 5 )$ compared with control group, respectively. The serum complement (C4) content of antimicrobial peptide groups was significantly higher than that of control group and $3 0 ~ \mathrm { g / t }$ colistin sulfate group at the $1 4 ^ { \mathrm { t h } }$ day （ $. P { < } 0 . 0 5 .$ ）.4)At the $1 4 ^ { \mathrm { t h } }$ and $2 8 ^ { \mathrm { t h } }$ day, the serum (MDA) content of antimicrobial peptide groups was significantly lower than that of control group and $3 0 \mathrm { g / t }$ colistin sulfate group $( P { < } 0 . 0 1 )$ . At the （20 $2 8 ^ { \mathrm { t h } }$ day, the serum superoxide dismutase (SOD) activity and total antioxidant capacity (T-AOC) were significantly higher than those of control group and $3 0 ~ \mathrm { g / t }$ colistin sulfate group $( P { < } 0 . 0 5 )$ . In conclusion, enterobacitracin is superior to cecropin in improving performance,immune function and antioxidant capacity of weanling piglets,and also superior to the antibiotic ofcolistin sulfate, which is suitable for ${ 5 0 0 } \mathrm { g / t }$ in the diet.
+
+Key words: enterobacitracin; weanling piglets； performance; immune function; antioxidant capacity

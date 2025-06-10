@@ -1,0 +1,387 @@
+[
+    {
+        "type": "text",
+        "text": "印度血桐与中平树基因组调查及SSR分子标记分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李江莹1,3，陆添权‘，杨俊波²，田波1\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.中国科学院西双版纳热带植物园 热带植物资源可持续利用重点实验室，昆明650223；2.中国科学院昆明植物研究所 中国西南野生生物种质资源库；昆明650204；3．中国科学院大学，北京101408）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：印度血桐与中平树是大戟科血桐属植物，该属植物具有多种药用价值，被广泛应用于民间医学中许多疾病的治疗，这两种植物种子中含有的神经酸也引起了研究者的高度关注。为确定适合印度血桐与中平树的全基因组测序研究策略。本实验采用二代高通量测序技术，结合生物信息学的方法首次测定了印度血桐与中平树的基因组大小、杂合率、重复率等基因组信息；初步分析了两种材料的SSR序列特征。结果表明：(1)印度血桐与中平树的基因组大小分别为986.84和 $9 4 6 . 2 3 \\mathrm { ~ M ~ }$ ；(2)印度血桐与中平树的杂合率分别为 $0 . 7 5 \\%$ 和 $0 . 6 5 \\%$ 重复序列比例分别为 $7 3 . 0 2 \\%$ 和 $7 1 . 5 \\%$ ；(3)通过对2种材料基因组序列的SSR特征分析，在印度血桐中共鉴定了4499185个SSR，在中平树中共鉴定了4969098个SSR。该研究结果为印度血桐与中平树SSR分子标记的筛选、开发以及全基因组深度测序提供了理论指导。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：印度血桐，中平树，神经酸，基因组调查，SSR中图分类号：Q943 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Genome survey and analysis of SSR molecular markers on ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Macaranga indica and M. denticulata ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Jiangying1,³,LU Tianquan1, YANG Junbo²,TIAN bol (1.Key Laboratory ofTropical Plant Resourceand Sustainable Use,Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences, Kunming 650223, China; 2. The Germplasm Bank of Wild Species,Kunming Instituteof Botany, Chinese Academy of Sciences,Kunming 650204, China; 3. University of Chinese Academy of Sciences,Beijing 101408,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract : Macaranga indica and M. denticulata belongs to the genus Macaranga Thou.(Euphorbiaceae family). Plants of this genus are widely used in the treatment of many diseases in Chinese folk medicine.The nervonic acid contained in the seeds of these two plants has also attracted great attention of researchers.In order to determine the strategy of the whole genome of $M .$ ，indica and M. denticulata. In the present study,we first determined the genome sizes,heterozygosity, GC content, and repeatability of M. indica and M. denticulata through the next generation sequencing technology and bioinformatics methods. The SSR sequence characteristics of $M$ 、indica and M. denticulata were analyzed. The results showed that: (1)The genome size of M. indica and M. denticulata were 986.84 and $9 4 6 . 2 3 \\mathrm { ~ M ~ }$ ，respectively; (2)The heterozygosity rates and the repeat rates were calculated to be $0 . 7 5 \\%$ and $7 3 . 0 2 \\%$ respectively in M.indica,and $0 . 6 5 \\%$ and $7 1 . 5 \\%$ in $M$ denticulata; $( 3 ) \\mathrm { I n }$ addition,4 499 185 and 4 969 098 genomic simple sequence repeat (SSR) markers in $M .$ indica and $M$ ，denticulata were generated respectively. The results provide theoretical guidance for deep whole-genome sequencing of the two species and the screening and development of SSR molecular markers of $M .$ indica and $M .$ denticulata. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Macaranga indica, Macaranga denticulata, nervonic acid, genome survey, simple sequence repeat (SSR) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "印度血桐(Macaranga indica)与中平树(M.denticulata)属于大戟科铁苋菜族血桐属植物，二者均为叶盾状着生的高大乔木，广泛分布于我国西南地区的山谷、次生林或常绿阔叶林中。《中华本草》中记录了中平树的主要药用部位根与树皮具有退黄、清热利湿等功效，可用于治疗胃皖疼痛、黄疸型肝炎(黄建猷等，2015)。已有相关研究报道了从印度血桐中分离出了鞣花酸，异戊烯化黄酮等多种化合物，这些化合物具有如抗氧化作用、抗炎作用等多种生物活性，可发展为一种新的工业萃取源(Yang etal.,2015)。通过对印度血桐与中平树种子中所含脂肪酸的成分测定，我们发现印度血桐和中平树的种子脂肪酸组成成分中，都含有超长链单不饱和脂肪酸—神经酸，这一实验结果验证了王性炎等(2006)在多份植物样品中发现盾叶木[注：新版《中国植物志》已修订盾叶木(Macaranga adenantha)与印度血桐(Macarangaindica)为同一个种]是自然界已发现的植物中，种子油脂中神经酸含量较高的木本植物，是在目前发现的物种中较为理想的开发神经酸产品的植物资源。神经酸是大脑纤维和神经细胞的核心天然成分，与脑部神经的生物合成密切相关。神经酸具有多种重要的生物学功能，如促进大脑发育，改善记忆，延缓大脑衰老(Lietal.,2019)，摄入神经酸能预防和治疗老年痴呆症、脑中风后遗症、脑萎缩、脑瘫、健忘失眠及记忆力减退等脑神经系统疾病(田德雨等，2015)。基于以上各点，神经酸的开发与应用引起了国内外专家的的高度关注，为了满足人们对神经酸的需求，利用富含神经酸的植物开发神经酸产品已成为获取神经酸的主要途径。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，对印度血桐与中平树的研究主要集中在常见药用部位化学成分的药理活性及种子脂肪酸成分方面，而关于印度血桐与中平树基因组信息的研究未见报道，这给高效利用印度血桐与中平树野生资源选育植物新品种带来了极大的不便，由于印度血桐与中平树为木本植物，基因组大小尚不明确，各种因素使得血桐属植物的分子生物学研究进展缓慢。因此，在对两种材料进行全基因组深度测序之前，首先需要对两种材料进行低覆盖度的基因组调查，以了解材料基因组的组成特征和模式(Li et al.,2019)。深入分析DNA 中的遗传信息是一项浩大的工程，而这项工程的首要任务就是突破技术上的重难点(Albach et al.,2007)。植物全基因组的研究进程的迅速发展得益于新一代测序技术日益进步(施季森等，2012)。随着测序技术的逐渐成熟及测序价格的降低，基因组测序已被广泛应用到各种具有科研价值、经济价值、观赏价值的物种中。对于物种的基因组测序，可以帮助我们了解各种生物体中生命现象的调控机制以及物种的群体进化、生长发育等生物学问题。目前，可对物种进行基因组大小测定的方法有流式细胞术、Feulgen 分光光度法、脉冲场凝胶电泳法以及在技术不断进步革新的条件下快速发展的高通量测序技术(伍艳芳等，2014)。在大戟科植物中，麻风树、蓖麻、木薯、橡胶树等(Chan et al.,2010; Shusei et al.,2011; Simon et al.,2012; Zou & Yang,2019)植物的基因组信息已有报道，这些已测物种的基因组可为我们研究大戟科血桐属植物的基因组信息提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究采用 Ilumina 二代高通量测序技术，首次对印度血桐与中平树进行了基因组调查，并利用生物信息学方法估计了两种材料的重复率、杂合率及基于基因组调研的 SSR(simple sequence repeat)特征分析，旨在为印度血桐与中平树的全基因组的测序和组装方案的制定和该属植物的进一步研究和开发利用提供依据；为血桐属植物的遗传改良提供支持；同时，SSR分子标记对于两种材料的种质资源保护和遗传多样性等方面提供一定参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本实验采用的实验材料，印度血桐与中平树均为正常开花结果的野生植株，于2019 年7月份采自西双版纳傣族自治州景洪市勐龙镇勐宋村公路边，带回实验室，液氮速冻后放置于-80℃超低温冰箱保存，备用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2样品基因组DNA的提取、检测与测序 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用CTAB 法提取印度血桐与中平树叶片基因组DNA，紫外分光光度计检测样品浓度，琼脂糖凝胶电泳检测完整性；将提取的DNA样品送至公司进行建库测序，参考其它木本植物的基因组大小及大戟科植物的C值范围，选取1Gb左右的基因组大小来评估印度血桐与中平树的基因组测序覆盖度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3建库信息及数据量统计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "印度血桐与中平树基因组采用二代测序技术，利用WGS (全基因组鸟枪法)，分别构建插入片段为350 和 $5 0 0 \\mathrm { b p }$ 的DNA文库,再用 Ilumina Hiseq $^ \\mathrm { T M } 2 0 0 0$ 平台进行双末端(Pair-End)测序，最终得到原始测序数据(raw reads)，取全部原始数据对测序结果进行图像识别，去污染，去接头；统计结果包括测序read 数量、数据产量、测序错误率、Q20含量、Q30含量、GC 含量等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4基因组大小预测和杂合度估计 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本实验通过测序得到的序列，基于K-mer的分析方法估计印度血桐和中平树的基因组大小及杂合率，取 $\\mathrm { K } { = } 1 7$ 进行分析。K-mer分布图用来判断基因组的重复序列多少，如果材料的基因组重复比例较高，K-mer分布图右侧将会出现拖尾现象。mer 深度分布服从泊松分布，根据曲线获得 K-mer 深度期望值，用于估计基因组大小（周媛等，2019)。另外，在K-mer 的分布曲线中，一般会出现一个覆盖度最高的主峰，当在主峰两侧出现另一个小峰时，则说明该材料的基因组有较高的杂合度，反之，则没有。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5样品污染判断 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "样品的污染问题在基因组研究中有非常重要的地位，它能够保证实验样品基因组序列的完整性，数据真实有效，结果可靠，反之，如果数据被污染，则无法获得相关信息。对过滤后的高质量数据随机抽取10000条Reads(read1和read2各5000条)数据，通过Blast软件比对NCBI核苷酸数据库(NT库)，如果比对结果是同源比对，则认为样本不存在外源污染，如果比对结果出现亲缘关系较远的物种，说明样品可能存在污染(闫婧，2018)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.6 SSR分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用微卫星识别工具 (microsateliteidentificationtool，MISA)(http://pgrc.Ipk-gatersleben.de/misa/)在所有序列中搜索 SSR 位点，搜索参数如下：mono-10、di-6、tri-5、Tetra-5、penta-5、hexa-6。其中，复合序列中两个不同 SSR之间允许的最大间隔设置为 $1 0 0 \\mathrm { b p }$ (张璟璇等，2019)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1材料的DNA提取",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用CTAB 法提取印度血桐与中平树幼嫩叶片的基因组DNA。电泳图显示提取的两种材料基因组DNA 质量良好(图1)，其中，印度血桐的DNA 浓度为 $1 5 . 4 2 \\ \\mathrm { n g \\cdot \\mu L ^ { - 1 } }$ ，中平树的DNA 浓度为 $1 0 . 4 6 ~ \\mathrm { n g } \\cdot \\mathrm { \\mu L } ^ { - 1 }$ ，可用于后续实验分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "S.标准品；M-1.Trans 2k plus；M-2.Trans 15k plus；1.印度血桐 DNA 提取结果；2.中平树 DNA 提取结果。  \nS.Sample；M-1.Trans 2k plus；M-2.Trans 15k plus；1.DNA extraction results of Macaranga indica; 2.DNAextractionresults ofM.denticulata.",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cf2bf005c7452c938daaa6728f2f6d8065f138cbdb9693aa8be661f2b74de039.jpg",
+        "img_caption": [
+            "图1实验材料DNA提取结果",
+            "Fig.1DNA extraction results of experimental materials "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2测序数据产量统计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用 Ilumina平台对两种材料进行高通量双端测序，经过对原始测序数据的严格筛选，得到高质量的产出数据(clean data)，以下统计是印度血桐和中平树 4个文库的产出数据(表1)。统计结果包括测序数据数量、数据产量、测序错误率、Q20 含量、Q30含量、GC 含量等。过滤掉低质量的数据后，分别得到了53.56和68.07Gb的印度血桐与中平树的数据用于后续分析。两种材料碱基质量正常，Q20与Q30都大于 $90 \\%$ ，测序错误率都为 $0 . 0 4 \\%$ ，印度血桐的GC含量为 $3 3 . 8 9 \\%$ ，中平树的GC含量为 $3 3 \\%$ ，结果表明原始测序质量较好，能保证后续实验分析的正常进行。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/fb8fc0fadd492a3e2dc19803529d4051fc96f1bc6771c16ec4f9646b196ff8b4.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\"></td></tr><tr><td>文库 Library name</td><td>原始数据 Raw Base (bp)</td><td>过滤后碱基数 Clean base (bp)</td><td>错误率 Error rate(%)</td><td>Q20 比例 Q20 (%)</td><td>Q30 比例 Q30 (%)</td><td>GC含量(%) GC Content (%)</td></tr><tr><td>印度血桐L2(350 bp)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>M.indica_L2(350 bp) 印度血桐L1 (500 bp)</td><td>22 883 137 800</td><td>22 859 641 500</td><td>0.04</td><td>96.78</td><td>91</td><td>33.83</td></tr><tr><td>M. indica_L1（500 bp)</td><td>30 725 104 200</td><td>30 708 347 700</td><td>0.04</td><td>97.02</td><td>91.53</td><td>33.95</td></tr><tr><td>合计 Total</td><td>53 608 242 000</td><td>53 567 989 200</td><td>0.04</td><td>96.9</td><td>91.26</td><td>33.89</td></tr><tr><td>中平树 L2(350 bp) M.denticulata_L2(350 bp)</td><td></td><td>26 658 456 600</td><td>0.04</td><td>97.23</td><td>91.91</td><td>33.02</td></tr><tr><td>中平树 L4(500 bp)</td><td>26 659 857 000 41 425 492 500</td><td>41 412 982 200</td><td>0.04</td><td>97.13</td><td>91.61</td><td>32.97</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/db234709249336cc141ed65b6bb779f1aa343bf44beb696d1e586395cf744bdb.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "表1印度血桐与中平树的数据产出统计信息",
+            "Table1 Data statistics of Macaranga indica and M.denticulata "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">M.denticulata_L4(500 bp)</td></tr><tr><td>合计</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total</td><td>68 085 349 500</td><td>68 071 438 800</td><td>0.04</td><td>97.18</td><td>91.76</td><td>33</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "注： $\\mathbf { Q 2 0 } \\left( \\% \\right)$ ．碱基识别的正确率为 $9 9 \\%$ ; Q30 $( \\% )$ ．碱基识别的正确率为 $9 9 . 9 \\%$ ; M. indica_L2(350 bp),M.   \nindica_L1 $5 0 0 \\mathrm { b p }$ ),M.denticulata_L2 $3 5 0 \\mathrm { b p }$ ） $M$ denticulata_L4( ${ 5 0 0 } \\mathrm { b p }$ 表示插入片段大小。   \nNote: $\\mathbf { Q 2 0 } \\left( \\% \\right)$ . The accuracy of base recognition is $9 9 \\%$ $\\mathbf { Q 3 0 } ( \\% )$ . The accuracy of base recognition is $9 9 . 9 \\%$ ; M.   \nindica_L2( $3 5 0 \\mathrm { b p }$ ),M.indica_L1( $5 0 0 \\mathrm { b p }$ ),M.denticulata_L2( $3 5 0 \\mathrm { b p }$ ),M.denticulata_L4(500 bp) indicates the insert size. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3K-mer分析与基因组大小估测",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用基于K-mer的分析方法对印度血桐与中平树的53.56和68.07Gb 的数据进行分析，得到印度血桐与中平树的17-mer分布情况(图2)，横坐标表示K-mer出现的总次数，纵坐标表示K-mer出现的频率（唐其等，2015)，两种材料主峰之前都出现杂合峰，说明它们都有一定的杂合率。两种材料的17-mer 曲线均有严重拖尾，说明它们都有很高的重复序列比例。结合表2可知，印度血桐与中平树的测序深度分别为40X 和 54X，印度血桐的K-mer 总数为39 725 851195，中平树的K-mer总数为51594 983117，根据公式基因组大小(G)的估计算法： $\\scriptstyle \\mathbf { G } = \\mathbf { K }$ -mun/K-depth，其中K-depth 表示 K-mer 的期望测序深度，K-mun 表示 K-mer 的总数(刘尧，2019，htp://blog.sciencenet.cn/u/lyao222ll)，由此公式可得印度血桐的大小为$9 9 3 . 1 5 \\mathrm { ~ M ~ }$ ，修正后的基因组大小为 $9 8 6 . 8 4 \\mathrm { ~ M ~ }$ ；中平树的基因组大小为 $9 5 5 . 4 6 \\mathrm { ~ M ~ }$ ，修正后的基因组大小为 $9 4 6 . 2 3 \\mathrm { ~ M ~ }$ ；印度血桐和中平树的杂合率分别为 $0 . 7 5 \\%$ 和 $0 . 6 5 \\%$ ，印度血桐和中平树的重复率分别为 $7 3 . 0 2 \\%$ 和 $7 3 . 5 \\%$ 。由测序结果可知，印度血桐与中平树都属于高重复微杂合基因组。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/84a89acc7831cb7722ae8a78beb558cac1a481e8c1561ca496fc3c1fe59eb79a.jpg",
+        "img_caption": [
+            "图217-mer分布曲线Fig.2Distribution curve of17-mer"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表217-mer分析数据统计Table 2 Data statistics of 17-mer analysis",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/62d72bdcea5552dac211ed4c31f1024ea481afcfc4872fbba6047bcb1cbaf545.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">Kmer</td><td rowspan=\"2\">基因组 大小 Genome</td><td rowspan=\"2\">修正后的 基因组大小 Revised genome Heterozygous</td><td rowspan=\"2\">杂合率</td><td rowspan=\"2\">重复率 Repeat</td></tr><tr><td>样品</td><td>长度 Kmer</td><td>深度 Depth</td><td>Kmer总数 Kmer sum</td></tr><tr><td>Sample 印度血桐</td><td>length</td><td></td><td></td><td>size(M)</td><td>size(M)</td><td>rate(%)</td><td>rate(%)</td></tr><tr><td>Macaranga indica 中平树</td><td>17</td><td>40</td><td>39 725 851 195</td><td>993.15</td><td>986.84</td><td>0.75</td><td>73.02</td></tr><tr><td>M. denticulata</td><td>17</td><td>54</td><td>51 594 983 117</td><td>955.46</td><td>946.23</td><td>0.65</td><td>71.5</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4样品污染评估一核苷酸比对结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "分别从印度血桐与中平树的350 和 500bp 的序列文库中随机抽取10000 条过滤后的单端高质量reads(read1和read2各5O00条)，与NT库（NCBI核苷酸数据库）进行BLAST比对，将比对结果比率最高的前六位物种展示出来(表3)，比对结果显示，在印度血桐与中平树的两个文库中，比对结果比率最高的物种均为蓖麻，在印度血桐的350 和 $5 0 0 ~ \\mathrm { b p }$ 文库中，蓖麻分别占比对上的 NT库的 reads 总数的 $1 . 6 1 \\%$ 和 $1 . 9 \\%$ ，而在中平树的350 和 500 bp文库中，蓖麻分别占比对上的NT库的reads总数的 $1 . 7 8 \\%$ 和 $1 . 6 5 \\%$ ，根据分类学结果可知，蓖麻属于大戟科植物，为印度血桐与中平树的近缘物种。此外，比对结果的其他物种均为植物，未发现动物或微生物等异常物种的高比率情况，因此判断样品材料无污染，可用于后续基因组调研图的正常分析。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/789264923663038be3c928189dd34743a9cc264c4a44e2cb28d0d384f0da7dc4.jpg",
+        "table_caption": [
+            "表3原始数据文库与NT库比对表",
+            "Table 3 Blast result of raw date with NT database "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>库名 Library name</td><td>第一个 比对结果 The first comparison result</td><td>第二个 比对结果 The second comparison result</td><td>第三个 比对结果 The third comparison result</td><td>第四个 比对结果 The fourth comparsion result</td><td>第五个 比对结果 The fifth comparsion result</td><td>第六个 比对结果 The sixth comparsion result</td></tr><tr><td>印度血桐L2(350 bp) M. indica_L2 (350 bp)</td><td>蓖麻(1.61) Ricinus communis (1.61)</td><td>橡胶树(0.32) Hevea brasiliensis (0.32)</td><td>墨水树(0.09) Helianthus maximiliani (0.09)</td><td>葡萄(0.06) Vitis vinifera (0.06)</td><td>麻疯树(0.06) Jatropha curcas (0.06)</td><td>无油樟(0.05) Amborella trichopoda (0.05)</td></tr><tr><td>印度血桐 L1(500 bp) M.indica_L1 (500 bp)</td><td>蓖麻(1.9) Ricinus communis (1.9)</td><td>橡胶树(0.18) Hevea brasiliensis (0.18)</td><td>木薯(0.14) Manihot esculenta (0.14)</td><td>墨水树(0.1) Helianthus maximiliani (0.1)</td><td>麻疯树(0.08) Jatropha curcas (0.08)</td><td>野茶树(0.06) Camellia sinensis (0.06)</td></tr><tr><td>中平树 L2(350 bp) M.denticulata_L2(350 bp)</td><td>蓖麻(1.78) Ricinus communis (1.78)</td><td>橡胶树(0.19) Hevea brasiliensis (0.19)</td><td>麻疯树(0.07) Jatropha curcas (0.07)</td><td>木薯(0.06) Manihot esculenta (0.06)</td><td>亚麻(0.05) Linum usitatisimum (0.05)</td><td>葡萄(0.04) Vitis vinifera (0.04)</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/c28d81ab1cab0fb9ce9fedf5fcbf95d4128611f4e8516c5697065bf58c251219.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\"></td><td>墨水树(0.18)</td><td>木薯(0.12)</td><td>麻疯树(0.11)</td><td>葡萄(0.08)</td></tr><tr><td>中平树 L1(500 bp)</td><td>蓖麻(1.65)</td><td>橡胶树(0.2)</td><td>Helianthus</td><td>Manihot</td><td>Jatropha</td><td>Vitis vinifera</td></tr><tr><td>M. denticulata_L4(500 bp)</td><td>Ricinus</td><td>Hevea</td><td>maximiliani</td><td>esculenta</td><td>curcas</td><td></td></tr><tr><td></td><td>communis (1.65)</td><td>brasiliensis (0.2)</td><td>(0.18)</td><td>(0.12)</td><td>(0.11)</td><td>(0.08)</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.5印度血桐与中平树基因组SSR分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "利用微卫星识别工具MISA在印度血桐与中平树初步组装的所有序列中进行SSR查找，搜索结果如表4所示，在印度血桐中共搜索到4499185个SSR，在所含有 SSR的序列中，445117条序列包含1个以上SSR，以复合形式存在的SSR数量有492341个；在中平树中共搜索到4969 098个SSR，在所含有 SSR的序列中，458726条序列包含1个以上SSR，以复合形式存在的SSR序列有507887条。分别对两种材料的不同类型的SSR核苷酸数量进行统计，在印度血桐的 SSR 核苷酸数量中，单、双、三、四、五和六核苷酸重复模体分别有2800 292个、1199 707个、432 509个、48 890个、10498个、7289个，它们分别占印度血桐总重复模体的 $6 2 . 2 4 \\%$ 、 $2 6 . 6 6 \\%$ 、 $9 . 6 1 \\%$ 、 $1 . 0 9 \\%$ 、 $0 . 2 3 \\%$ 、 $0 . 1 6 \\%$ ；在中平树的 SSR核苷酸数量中，单、双、三、四、五和六核苷酸核苷酸重复模体分别有3037613个、1321752个、522 801个、63 973个、11254个、11705个，它们分别占中平树总重复模体的 $6 1 . 1 3 \\%$ 、$2 6 . 6 0 \\%$ 、 $10 . 5 2 \\%$ 、 $1 . 2 9 \\%$ 、 $0 . 2 3 \\%$ 、 $0 . 2 4 \\%$ 。随后，进一步对印度血桐与中平树中每种 SSR重复模体按照序列组成进行细分，分别展示出两种材料中重复类型的部分数目(表5)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表4印度血桐与中平树基因组中SSR的数目与类型",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/3a7b2a635801ef344ac7052a525630c59a9b3bbedea86afd2f4fb8e6bf2b2eea.jpg",
+        "table_caption": [
+            "Table 4 Number and types of SSR of genome sequences in Macaranga indica and M.denticulata "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>搜索项目</td><td>印度血桐的数目</td><td>中平树的数目 Number ofM.denticulata</td></tr><tr><td>Searching Item 检测的序列总数</td><td>Number ofM.indica</td><td></td></tr><tr><td>Total number of sequences examined</td><td>67 527 577</td><td>77 796 952</td></tr><tr><td>检测的序列总长度 Total size of examined sequences (bp) 检测出的 SSR总数</td><td>10 129 136 550</td><td>11 669 542 800</td></tr><tr><td>Total number of identified SSRs</td><td>4 499 185</td><td>4 969 098</td></tr><tr><td>包含 SSR 的序列数 Number of SSR containing sequences</td><td>3 995 677</td><td>4 449 684</td></tr><tr><td>包含一个以上SSR 的序列数 Number of sequences containing more than 1 SSR</td><td>445 117</td><td>458 726</td></tr><tr><td>以复合形式存在的 SSR 数目 Number of SSRs present in compound formation</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表5印度血桐与中平树中单、双、三、四、五、六核苷酸重复模体部分统计结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Table 5 Results statistics of mononucleotide, dinonucleotide, tinonucleotide, tetranucleotide, pentanucleotide and hexanucleotide repeat motifs in M. indica and M. denticulata ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/612af06b29db62d3226631f27b8fad9b1835ee2ca435d20109853371a4562e0d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>印度血桐的重复类型</td><td>数目 Number</td><td>中平树的重复类型</td><td>数目 Number</td></tr><tr><td>RepeattypesofM.indica 单核苷酸重复模体</td><td></td><td>Repeat types of M.denticulata 单核苷酸重复模体</td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/f0e3b2e33484de87b5503c2f42c2f4b641e45a145736ed5c9327f450a6c406a7.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Mononucleotide</td><td colspan=\"2\">Mononucleotide</td></tr><tr><td>repeat motifs</td><td></td><td>repeat motifs</td><td></td></tr><tr><td>A/T</td><td>2 760 071</td><td>A/T</td><td>3 013 601</td></tr><tr><td>C/G</td><td>40 221</td><td>C/G</td><td>24 012</td></tr><tr><td>双核苷酸重复模体</td><td></td><td>双核苷酸重复模体</td><td></td></tr><tr><td>Dinonucleotide</td><td></td><td>Dinonucleotide</td><td></td></tr><tr><td>repeat motifs</td><td></td><td>repeat motifs</td><td></td></tr><tr><td>AT/AT</td><td>980 978</td><td>AT/AT</td><td>1 084 511</td></tr><tr><td>AG/CT</td><td>109 488</td><td>AC/GT</td><td>119 721</td></tr><tr><td>AC/GT</td><td>108 893</td><td>AG/CT</td><td>117 219</td></tr><tr><td>CG/CG</td><td>348</td><td>CG/CG</td><td>301</td></tr><tr><td>三核苷酸重复模体</td><td></td><td>三核苷酸重复模体</td><td></td></tr><tr><td>Tinonucleotide repeat motifs</td><td></td><td>Tinonucleotide repeat motifs</td><td></td></tr><tr><td>AAT/ATT</td><td>254 523</td><td>AAT/ATT</td><td>297 791</td></tr><tr><td>AAG/CTT</td><td>89 777</td><td>AAG/CTT</td><td>105 809</td></tr><tr><td>ATC/ATG</td><td>33 781</td><td>ATC/ATG</td><td>47 731</td></tr><tr><td>AAC/GTT</td><td>19 142</td><td>AAC/GTT</td><td>25 237</td></tr><tr><td>四核苷酸重复模体</td><td></td><td>四核苷酸重复模体</td><td></td></tr><tr><td>Tetranucleotide repeat motifs</td><td></td><td>Tetranucleotide repeat motifs</td><td></td></tr><tr><td>AAAT/ATTT</td><td>29 231</td><td>AAAT/ATTT</td><td>36 830</td></tr><tr><td>AATT/AATT</td><td>8 775</td><td>AATT/AATT</td><td>12 234</td></tr><tr><td>AAAG/CTTT</td><td>4 557</td><td>AAAG/CTTT</td><td>5 221</td></tr><tr><td>ACAT/ATGT</td><td>3179</td><td>ACAT/ATGT</td><td>4 167</td></tr><tr><td>五核苷酸重复模体</td><td></td><td>五核苷酸重复模体</td><td></td></tr><tr><td>Pentanucleotide repeat motifs</td><td></td><td>Pentanucleotide repeat motifs</td><td></td></tr><tr><td>AAAAG/CTTTT</td><td>4 164</td><td>AAAAT/ATTTT</td><td>4 094</td></tr><tr><td>AAAAT/ATTTT</td><td>2 937</td><td>AAAAG/CTTTT</td><td>2298</td></tr><tr><td>AAATT/AATTT</td><td>482</td><td>AATAT/ATATT</td><td>1 259</td></tr><tr><td>AATAT/ATATT</td><td>472</td><td>AAATT/AATTT</td><td>584</td></tr><tr><td>六核苷酸重复模体</td><td></td><td>六核苷酸重复模体</td><td></td></tr><tr><td>Hexanucleotide repeat motifs</td><td></td><td>Hexanucleotide repeat motifs</td><td></td></tr><tr><td>AAAAAT/ATTTTT</td><td>1 698</td><td>AAAAAT/ATTTTT</td><td>1916</td></tr><tr><td>AAAAAG/CTTTTT</td><td>1114</td><td>AAAAAG/CTTTTT</td><td>1 497</td></tr><tr><td>AATGAT/ATCATT</td><td>329</td><td>AATAGT/ACTATT</td><td>1093</td></tr><tr><td>ACATAT/ATATGT</td><td>328</td><td>AACAAT/ATTGTT</td><td>855</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "基因组大小是比较和进化基因组学的基础，基因组的杂合率和重复率是决定基因组组装质量的关键，评估测序数据的杂合率与重复率，有助于找到合适的组装策略（Bietal.,2019)。对印度血桐与中平树进行17-mer分析后发现，印度血桐与中平树的预估基因组大小分别为987和 $9 4 6 \\mathbf { M }$ ，由测定结果来看，印度血桐与中平树的基因组大小相近，两种材料的基因组大小均比大戟科植物木薯的基因组 $7 7 0 \\mathbf { M }$ （Simon etal.,2012）、蓖麻的基因组 $3 5 0 \\mathbf { M }$ (Shuseiet al.,2011)、麻疯树的基因组 $4 1 0 \\mathbf { M }$ 大（Chan etal.,2010)，比橡胶树的基因组1.1G（Zou&Yang,2019）要稍小一些，这种现象可能是因为印度血桐与中平树属于大戟科血桐属植物，而木薯、蓖麻、麻风树与橡胶树分别为大戟科其他属植物，结果显示属内差异较小，而属间差异较大，这可能是由于种系发育关系较远、染色体数目不同或者自交亲和现象的出现导致的（周佳熠等，2017)。基因组大小的测定对了解物种的生长发育、起源进化等问题具有重大意义。印度血桐与中平树基因组大小测定的完成，为研究大戟科血桐属植物基因组大小变化规律提供了一定的参考依据。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "判断测序数据的杂合度有利于寻找合适的基因组拼接方法，根据杂合度大小可将基因组进一步分为微杂合基因组( $0 . 5 \\% \\leqslant$ 杂合率 ${ < } 0 . 8 \\%$ )、高杂合基因组(杂合率 $\\geqslant 0 . 8 \\%$ ）以及高重复基因组(重复序列比例 $\\geqslant 5 0 \\%$ )（王雪等，2018)。测序结果显示印度血桐与中平树的杂合率分别为 $0 . 7 5 \\%$ 与 $0 . 6 5 \\%$ ，重复率分别为 $7 3 . 0 3 \\%$ 和 $7 1 . 6 \\%$ ，两种植物的基因组都有一定的杂合率以及较高的重复率，印度血桐与中平树都属于雌雄异株的植物，这可能是导致二者含有较高杂合率的原因之一，因此，使用WGS 策略对印度血桐与中平树的基因组分析有一定的风险和难度，建议后续的研究采用二代测序（Ilumina）和三代测序（PacBio）技术相结合的策略，对印度血桐和中平树基因组进行测序和组装，此外，利用Hi-C 技术达到染色体水平的组装，多种方法互补，以期获得两种材料的高质量全基因组图谱。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "SSR 分子标记具有易操作、多态性高、成本低、数量丰富等优点。本研究基于印度血桐与中平树基因组调查数据进行 SSR分析发现，印度血桐中平均2 251bp 出现1个 SSR，中平树中平均2 348 bp 出现1个 SSR，含丰富的重复类型，结果显示两种材料的 SSR分子标记具有显著的碱基偏好性，它们的单核苷酸重复模体中A/T含量均高于C/G含量；两种材料中双核苷酸重复模体中含量最高均为AT/AT，含量最低为CG/CG，这可能是甲基化的C残基变为T，使得两种核苷酸重复的差异较大（周佳煜等，2017)。有研究认为基因组中低级重复单元较多则表示该物种进化水平较高，而高级重复单元比例高的物种其进化时间短或变异频率低（于福来等，2019)。因此，在基因组调查测序的基础上规模化开发与筛选 SSR分子标记，为后续进一步运用SSR标记在物种遗传图谱的构建和遗传多样性分析以及QTL定位等方面的研究提供参考。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ALBACHl DC,LI HQ, ZHAO N, et al., 2007. Molecular systematics and phytochemistry of Rehmannia (Scrophulariaceae)[J]. Biochem Syst Ecol, 35(5): 293-300.   \nBi QX， Zhao Y, Cui YF, et al.，2019. Genome survey sequencing and genetic background characterization of yellow horn based on next-generation sequencing[J]. Mol Biol Rep, 46(4): 4303-4312   \nCHAN AP, Crabtree J, Zhao Q, et al., 2010.Draft genome sequence of the oilseed species Ricinus communis[J]. Nat Biotechnol, 28(9):951-956.   \nHUANG JY, LU WJ, TAN X, et al., 2015. Chemical Constituents from Macaranga denticulata Root[J].Chin Med Mat,38(8):1671-1673.[黄建猷，卢文杰，谭晓，等，2015．中平树根 化学成分研究[J]．中药材，38(8):1671-1673.]   \nLI GQ，SONG LX, JIN CQ,et al.，2019. Genome survey and SSR analysis of Apocynum venetum[J]. Biosci Rep, 39(6): BSR20190146. doi: https://doi.org/10.1042/BSR20190146   \nLI Q, CHEN J, YU XZ, et al., 2019. A mini review of nervonic acid: Source, production, and biological functions[J]. Food Chem, 301: 125286. doi: https://doi-org-443.webvpn.las.ac.cn/10.1016/j.foodchem.2019.125286   \nSHI JS, WANG ZJ, CHEN JH, 2012. Progress on whole genome sequencing in woody plants[J]. Hereditas,34(2):145-156.[施季森，王占军，陈金慧,2012．木本植物全基因组测序研究 进展[J]．遗传，34(2):145-156.] Oil-Bearing Tree, Jatropha curcas L.[J]. DNA Res,18(1): 65-76.   \nSIMON P, PRADEEP R, BRIAN D, et al., 2012. The Cassava Genome: Current Progress,Future Directions[J]. Trop Plant Biol, 5(1): 88-94.   \nTANG Q, MA XJ,MO CM, et al.， 2015. Genome survey analysis in Siraitia grosvenorii[J]. Guihaia,35(6):786-791.[唐其，马小军，莫长明，等，2015．罗汉果全基因组 Survey 分 析[J]．广西植物，35(6): 786-791.]   \nTIAN DY, WANG SA, WANG LH, et al., 2O15. The biosynthesis and metabolic engineering of very long-chain monounsaturated fatty acid[J]. Biotechnol Bull,31(12): 42-49.[田德雨，王 士安，王立昊，等，2015．超长链单不饱和脂肪酸的生物合成和代谢工程[J].生物技术 通报，31(12): 42-49.]   \nWANG XY, FAN JS,WANG SQ, 2006. Development situation and outlook of nervonic acid plants in China[J].Chin Oils Fats,3: 69-71.[王性炎，樊金栓，王姝清，2006．中国含神经 酸植物开发利用研究[J]．中国油脂，3:69-71.]   \nWANG X, ZHOU JY, SUN HG, et al., 2018. Genomic survey sequencing and estimation of genome size of Ammopiptanthus mongolicus[J]. J Plant Genet Resourc, 19(1) : 143-149.[王 雪，周佳熠，孙会改，等，2018．新疆沙冬青基因组调查测序与基因组大小预测[J]．植 物遗传资源学报,19(1):143-149.]   \nWU YF, XIAO FM, XU HN, et al., 2014. Genome survey in Cinnamomum camphora L. presl[J]. JPlant Genet Resourc,15(1):149-152.[伍艳芳，肖复明，徐海宁，等，2014．樟树全基因 组调查[J]．植物遗传资源学报,15 (1):149-152.]   \nYANG DS, PENG WB, YANG YP, et al., 2015, Cytotoxic prenylated flavonoids from Macaranga indica[J]. Fitoterapia,103: 187-191.   \nYU FL, HUANG M, ZHANG YB, et al., 2019, Genome survey and characteristic analysis of SSR in Callicarpa nudiflora[J]. Chin JChin Mat Med,44(18):3974-3978.[于福来，黄梅，张影 波，等，2019．裸花紫珠基因组调研及 SSR 特征分析[J].中国中药杂志，44(18): 3974-3978.]   \nZHANG JX, TU MW, XUE S, et al., 2019. Genome survey and analysis of ssr molecular markers on traditional chinese medicine Nauclea officinalis[J]. Mol Plant Breed, 17(23): 7829-7833. [张璟璇，涂梦薇，薛燊，等，2019．南药胆木的基因组调查及 SSR分子标记分析[J]．分 子植物育种,17(23):7829-7833.]   \nZHOU JY, WANG X, GAO F, et al., 2017. Genome Survey and SSR Analysis of Ammopiptanthus mongolicus[J].Genom Appl Biol,36(10):4334-4338.[周佳熠，王雪，高飞，等，2017．蒙 古沙冬青基因组调查及 SSR分析[J].基因组学与应用生物学,36(10):4334-4338.   \nZHOU Y, ZI H, TONG J,et al.， 2019. A Genome Survey of Rhododendron simsii and Rhododendron indicum[J].Mol Plant Breed,17(15): 4928-4935.[周媛，资宏，童俊，等， 2019．杜鹃花属映山红与皋月杜鹃的基因组调查[J]．分子植物育种,17(15):4928-4935.]   \nZOU Z, YANG J, 2019. Genomic analysis of Dof transcription factors in Hevea brasiliensis, a rubber-producing tree[J]. Ind Crops Products,134: 271-283. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

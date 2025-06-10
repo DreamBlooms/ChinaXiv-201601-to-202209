@@ -1,0 +1,340 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201605040842 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周世兴,向元彬,肖永翔,黄从德,唐剑东,罗超,韩博涵,梁凯歌.华西雨屏区天然常绿阔叶林土壤可培养微生物数量对模拟氮沉降的响应.生态学 报,2017,37(4):1191-1198. ZhouSX,XiagY,iYX,HagCDangD,uoCHanB,iagKGesposecurablelicroassilaed depositioninnaturalevegeenbroadleafforestintheainyAreaofWesteChina.ActaEcologicaSnica,2,7（4）9198. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "华西雨屏区天然常绿阔叶林土壤可培养微生物数量对模拟氮沉降的响应",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周世兴，向元彬，肖永翔，黄从德\\*，唐剑东，罗超，韩博涵，梁凯歌",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "四川农业大学林学院，成都611130",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了解氮沉降对华西雨屏区天然常绿阔叶林土壤微生物数量的影响,从2013年11月至2014年12月,通过野外模拟 N（ $\\mathrm { N H _ { 4 } N O _ { 3 } }$ )沉降，氮沉降水平分别为对照( $\\mathrm { ( C K ~ 0 ~ k g ~ N ~ h m ^ { - 2 } ~ a ^ { - 1 } }$ ）、低氮沉降( $\\mathrm { ~ L ~ } 5 0 \\mathrm { ~ k g ~ N ~ h m } ^ { - 2 } \\mathrm { ~ a } ^ { - 1 }$ ）、中氮沉降( $\\textrm { M } 1 5 0 \\mathrm { ~ k g ~ N ~ h m } ^ { - 2 } \\mathrm { ~ a ~ } ^ { - 1 } \\textrm { ) }$ 和高氮沉降( $\\mathrm { ~ H ~ } 3 0 0 \\mathrm { ~ k g ~ N ~ h m } ^ { - 2 } \\mathrm { ~ a } ^ { - 1 } \\mathrm { ~ , ~ }$ ）,研究了氮沉降对天然常绿阔叶林 $_ { 0 - 1 0 \\mathrm { c m } }$ 和 $1 0 { - } 2 0 \\mathrm { c m }$ 土层土壤可培养微生物数量的影响。结果表明：华西雨屏区天然常绿阔叶林 $_ { 0 - 1 0 \\mathrm { c m } }$ 土层的细菌、真菌和放线菌数量均显著大于 $1 0 { - } 2 0 \\mathrm { c m }$ 土层,氮沉降未改变原有垂直分布格局。L处理对 $_ { 0 - 1 0 \\mathrm { c m } }$ 和 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层土壤微生物总量无显著影响,M和H处理则显著降低了土壤微生物总量。氮沉降降低了 $_ { 0 - 1 0 \\mathrm { c m } }$ 和 $1 0 { - } 2 0 \\mathrm { c m }$ 土层的细菌数量,且抑制作用随氮沉降量的增加而增强。氮沉降降低了0— $1 0 \\mathrm { { c m } }$ 土层的真菌数量，但下降幅度与氮沉降量之间无明显规律;在10一 $2 0 \\mathrm { c m }$ 土层,M和H处理在夏季显著增加了真菌数量，表明适量氮沉降能有效缓解夏季土壤真菌的氮限制状态。氮沉降对0— $1 0 \\mathrm { { c m } }$ 土层放线菌数量的影响表现为先促进再抑制,L和M处理增加了放线菌数量,H处理降低了放线菌数量;氮沉降增加了 $1 0 { - } 2 0 \\mathrm { c m }$ 土层的放线菌数量,其中M处理的促进作用最大。氮沉降对土壤微生物数量的影响随土壤深度的增加而减弱。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：氮沉降；可培养微生物；华西雨屏区；天然常绿阔叶林",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Response of culturable soil microorganisms to simulated nitrogen deposition in a natural evergreen broadleaf forest in the Rainy Area of Western China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHOU Shixing, XIANG Yuanbin, XIAO Yongxiang，HUANG Congde\\*,TANG Jiandong,LUO Chao,HAN Bohan,   \nLIANG Kaige   \nCollege of Forestry，Sichuan Agricultural University，Chengdu 611130,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Forest soilmicrobialactivityisanimportantaspectofsoil properties，andthenumberofthethree kindsof microrganisms（bacteria,fungi，andactinomycetes）isanimportantindicatorofthelevelof soil microbialactivity.To understand the efects of increasing nitrogen depositionon soil microorganisms，an in situexperiment wasconducted ina natural evergreen broadleafforest inYa'an City，Sichuan Province.Weconducted the field experiment between November 2013 and December 2O14.Four levels of nitrogen deposition were set:control ( $\\mathrm { C K } \\ 0 \\ \\mathrm { k g \\ N \\ h m } ^ { - 2 } \\ \\mathrm { a } ^ { - 1 }$ ），low nitrogen（L50 $\\mathrm { k g \\ N h m } ^ { - 2 } \\mathrm { a } ^ { - 1 }$ ），medium nitrogen ( $\\mathrm { ~ M ~ } ~ 1 5 0 ~ \\mathrm { { k g } ~ N ~ \\mathrm { { h m } ^ { - 2 } ~ \\mathrm { { a } ^ { - 1 } ~ } } } .$ ），and high nitrogen（ $\\mathrm { ~ H ~ } 3 0 0 \\mathrm { ~ k g ~ N ~ h m } ^ { - 2 } \\mathrm { ~ a } ^ { - 1 }$ ).The results indicated that the number of bacteria，fungi，and actinomycetes in the $0 { - } 1 0 ~ \\mathrm { c m }$ soil layer was significantly greater than that nthe1O—2Ocmlayer.Nitrogendepositiondidnotchangetheoriginal verticaldistributionpaternofbacteria,fungi, andactinomycetes in the natural evergreen broadleaf forest intheRainy Areaof Western China.TheL treatment did not have a significant effect on total soil microbial number，whereas the $\\mathrm { M }$ and H treatments significantly reduced the total soil microbial number in both the O一 $1 0 \\ \\mathrm { c m }$ and 1O—2O cm soil layers.Nitrogen deposition inhibited the number of bacteria in the 0—10cmand10—2Ocmsoil layers，andas nitrogen deposition increased，the inhibitioneffect was enhanced. Compared with the control,the $\\mathrm { ~ \\tt ~ { ~ M ~ } ~ }$ and $\\mathrm { H }$ treatments significantly increased the number of fungi in the 1O—2O cm soil layer duringsummer,indicating thatasuitableamountof nitrogendepositioncouldefectivelyaleviatethenitrogenlimitationof soilfungiinthatseason.Nitrogendeposition decreasedtheamountoffungi in theO—1Ocmsoillayer，butthere wasno obviousrelationship betweenthedecrease and nitrogen depositionrate，whereas nitrogen deposition increased the numberof actinomycetes in the 10— $2 0 \\ \\mathrm { c m }$ soil layer，and the increase was greatest in the M treatment.Nitrogen deposition first increasedandthen inhibitedthenumberofactinomycetes intheO—1Ocmsoillayer.TheLandMtreatments increased the numberof actinomycetes，whereas the Htreatment reduced thenumberofactinomycetes.Theeffectsof nitrogendeposition on the quantity of soil microbial organisms decreased with increasing soil depth. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:simulated nitrogen；culturable microrganisms；Rainy Area of Western China；natural evergreen broadleaf forest ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "氮素通过降雨或降尘的形式从大气中移除并降落到地表的过程称为氮沉降，它同生物固氮、氮的矿化并称为生态系统中氮素的三大来源,是氮素生物地球化学循环中的重要环节[1]。19世纪后期以来,随着人类进入工业化社会,化学氮肥的生产和使用,矿物燃料的燃烧,以及畜牧业迅猛发展导致 $\\mathrm { N H } _ { 3 }$ 和 $\\mathrm { { N O } _ { \\mathrm { { x } } } }$ （ $\\mathrm { N O } + \\mathrm { N O } _ { 2 }$ )的大量排放,使得大气中的 $\\mathrm { { N r } }$ （活性氮，reactivenitrogen）浓度持续升高，人为干扰下的大气氮素沉降已成为全球氮素生物化学循环的一个重要组成部分[2-4]。大气氮沉降作为营养源与酸源,其数量的急剧变化将严重影响陆地及水生生态系统的生产力和稳定性[5],因而成为各国公众和科学家广泛关注的科学问题。如今北美、西欧和东亚(我国)已成为全球三大氮沉降热点地区[6]。目前,我国氮沉降临界负荷最低( $\\leq 1 0 \\mathrm { ~ k g \\ h m ^ { - 2 } \\ a ^ { - 1 } }$ ）的地区分布在青藏高原西部和阿拉善高原,而临界负荷最高( $\\mathrm { ^ { ' } { > } 4 0 \\ k g \\ h m ^ { - 2 } \\ a ^ { - 1 } } ,$ )的地区则在东北平原、华北平原、长江中下游平原以及四川盆地等[7]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "森林土壤微生物活性是土壤性质的重要组成部分,而三大类微生物数量则是土壤微生物活性高低的重要指标之一。过量氮输人会导致土壤微生物数量发生变化。Wallenstein[8]在研究哈佛森林氮沉降对其森林土壤微生物影响中发现,真菌/细菌随施氮水平增加而减少。薛璟花等[9通过对3个不同林分进行3种不同水平氮沉降后发现,氮沉降可以促进土壤微生物总的数量，且细菌、放线菌的数量与氮沉降水平成正相关,但超过中氮施用水平后,对放线菌作用将转为抑制,整个过程中,真菌数量与氮沉降水平成负相关。但也有研究表明,过量氮沉降对细菌数量的影响并不显著[10-11]。由于实验林分的不同和检测手段的不一致,也有学者认为过量氮沉降抑制了细菌数量[12]。多数研究认为氮沉降会抑制真菌数量[12-13],也有研究认为氮沉降对真菌数量有促进作用[13」,这可能与土壤酸化程度和氮沉降水平有关。可见,氮沉降对森林土壤微生物数量的影响还存在很大的不确定性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "华西雨屏区位于四川盆地西缘,由于受邛崃山脉地形的影响,形成四川盆地西部的一个多雨狭长地带[14],这使得该地区的湿沉降尤为明显,使其成为研究氮沉降的天然实验室[15]。有研究表明,华西雨屏区全年总N沉降量为 $9 5 ~ \\mathrm { k g ~ N ~ h m } ^ { - 2 } ~ \\mathrm { a } ^ { - 1 }$ ,并有逐年上升的趋势[15]。氮沉降的持续增加,势必会影响该区森林生态系统的结构和功能,为了解氮沉降是否会影响该区常绿阔叶林土壤微生物数量,影响程度如何,本文以华西雨屏区天然常绿阔叶林为对象,通过模拟大气N沉降,研究了大气N沉降对该区最为典型的常绿阔叶林生态系统土壤微生物数量的影响,有助于理解全球环境变化背景下华西雨屏区森林生态系统土壤微生物对氮沉降的响应,为研究该区天然常绿阔叶林生态系统物质循环提供理论依据,并为森林生态系统经营管理提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验地概况 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究区位于四川省雅安市雨城区碧峰峡风景区( $1 0 2 ^ { \\circ } 9 0 ^ { \\prime } \\mathrm { E }$ ， $2 9 ^ { \\circ } 4 0 ^ { \\prime } \\mathrm { N }$ ),海拔高度 $9 7 7 . 6 2 ~ \\mathrm { m } , \\gtrsim ~ 1 0 \\mathrm { \\% }$ 年积温$5 2 3 1 \\mathrm { { ^ circ C } }$ ,年均气温为 $1 6 . 2 \\%$ ,最冷月为1月，平均气温 $6 . 1 \\mathrm { { ^ { \\circ } C } }$ ,最热月为7月，平均气温 $2 5 . 4 \\mathrm { ^ { \\circ } C }$ 。日照长度为$1 0 3 9 . 6 \\mathrm { ~ h ~ }$ ,全年太阳辐射总量为 $3 6 4 0 . 1 3 \\mathrm { \\ m J / c m } ^ { 2 }$ 。无霜期为 $3 0 4 \\mathrm { ~ d ~ }$ ,年平均降水量 $1 7 7 2 . 2 \\ \\mathrm { m m }$ ,年蒸发量为$1 0 1 1 . 2 \\ \\mathrm { m m }$ 。气候温和湿润,属亚热带湿润季风型山地气候。实验区内植物种类丰富,群落结构复杂。主要树种有木荷（Schima superba）、硬斗石栎（Lithocarpus hancei）、海桐（Pitosporum tobira）、润楠（Machilus pingi）、总状山矾（Symplocos botryantha）、柃木（Eurya japonica）、青榨槭（Acerdavidii）、大叶石栎（Lithocarpusmegalophyllus）、野漆（Rhus succedanea）、深裂中华槭（Acer sinense）、利川润楠（Machilus lichuanensis）、肉桂（Cinnamomumcassia)和山茶(Camellia japonica)等[16]。土壤类型以黄壤为主,土壤厚度大于 $6 0 ~ \\mathrm { c m }$ ,立地条件基本一致。 $0 { - } 2 0 ~ \\mathrm { c m }$ 土层土壤全C 含量为( $( 1 7 . 1 7 { \\pm } 1 . 5 4 \\$ ） $\\mathbf { g } / \\mathbf { k g }$ 、全N含量为 $( 1 . 1 4 \\pm 0 . 1 3$ ） $\\mathrm { { g / k g } }$ 、硝态氮含量为（204 $( 9 . 4 5 { \\pm } 1 . 0 3 ) \\mathrm { m g / k g }$ ,铵态氮含量为 $\\left( 6 . 8 7 \\pm 0 . 5 6 \\right)$ ）mg/kg,pH值为 $6 . 2 1 { \\scriptstyle \\pm 0 . 1 3 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2013年10月在四川省雅安市雨城区碧峰峡选择具代表性的天然常绿阔叶林作为研究对象,在研究对象内建立12个 $3 \\ \\mathrm { m } { \\times } 3 \\ \\mathrm { m }$ 的样方,每个样方间设 $> 3 \\mathrm { ~ m ~ }$ 的缓冲带。华西雨屏区全年总N沉降量为 $9 5 ~ \\mathrm { k g } \\mathrm { ~ N ~ } \\mathrm { h m } ^ { - 2 }$ $\\mathbf { a } ^ { - 1 }$ ,并有逐年上升的趋势[15]。据此本试验设置4个N沉降水平,即对照（CK， $0 ~ \\mathrm { k g ~ N ~ h m } ^ { - 2 } \\mathrm { ~ a } ^ { - 1 }$ ）、低氮沉降（L，$5 0 ~ \\mathrm { k g ~ N ~ h m } ^ { - 2 } \\mathrm { a } ^ { - 1 }$ ）、中氮沉降 $( \\mathrm { M } , 1 5 0 \\mathrm { ~ k g ~ N ~ h m } ^ { - 2 } \\mathrm { ~ a } ^ { - 1 } ,$ )和高氮沉降（H， $3 0 0 \\ \\mathrm { k g \\ N \\ h m } ^ { - 2 } \\ \\mathrm { a } ^ { - 1 }$ ），每个水平3个重复。将施氮量平均分成24等分，从2013年11月10日起，每 $1 5 \\mathrm { ~ d ~ }$ 用 $\\mathrm { N H } _ { 4 } \\mathrm { N O } _ { 3 }$ 进行模拟氮沉降。施氮的方法是将每个样方所需 $\\mathrm { N H } _ { 4 } \\mathrm { N O } _ { 3 }$ 溶解在 $2 \\mathrm { ~ L ~ }$ 水中,用手提式喷雾器在林地样方 $5 0 ~ \\mathrm { c m }$ 高度来回均匀喷洒,对照样方喷施（204 $2 \\mathrm { ~ L ~ }$ 水以减少因外加水而造成对森林生物地球化学循环的影响[16]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3土壤样品的采集及制备 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "于2014年3月、6月、9月和12月采集土样,在各标准地中内随机设5个土壤采集样点,去除土壤表层的苔藓、枯枝落叶后,用土钻采集样地内0— $1 0 \\ \\mathrm { c m }$ 和 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层的土壤,用无菌袋收集。回实验室后立即去除可见动植物残体和根系,将每一处理内相同层次土样混合均匀,过 $2 ~ \\mathrm { m m }$ 筛后，放入冰箱在 $4 ^ { \\circ } \\mathrm { C }$ 下保存待测。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4指标测定方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤中可培养细菌、真菌和放线菌数量采用稀释平板法[17],细菌采用牛肉膏蛋白陈培养基、真菌采用马丁氏培养基、放线菌采用高氏1号培养基培养7—15d,结果以每克干土所含微生物菌落( $\\mathrm { c f u / g }$ 干土)表示。所有化学分析均作3个重复。本研究中土壤微生物总量仅为真菌、细菌和放线菌3种可培养微生物类群的总量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5 数据分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用Excel2007和SPSS 20.0软件对数据进行统计分析。采用单因素方差分析(one-way ANOVA)对各处理土壤微生物数量方差分析,采用最小显著差异法(LSD)检验施氮处理、采样时间和土壤层次及它们的交互作用对土壤微生物数量的影响，显著性水平设定为 $\\alpha = \\ 0 . 0 5$ 。利用Excel2007软件作图。图中数据为平均值±标准差。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1模拟氮沉降对微生物总量的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图1可知,CK处理0— $1 0 \\ \\mathrm { c m }$ 土层微生物总量大于 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层,氮沉降未改变这种垂直分布格局。各处理土壤微生物总量有明显的季节动态(表1),在0— $1 0 \\ \\mathrm { c m }$ 和 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层表现为秋季最高,夏季较低。与CK处理相比，氮沉降未改变微生物总量的季节动态。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "不同土层土壤微生物总量对氮沉降响应基本一致。氮沉降处理1a后,L、M和H处理0— $1 0 \\ \\mathrm { c m }$ 土层的微生物总量分别比CK降低了 $9 . 6 7 \\% . 4 1 . 5 9 \\%$ 和 $4 9 . 3 6 \\%$ · $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层的微生物总量分别比CK降低了$0 . 3 2 \\%$ $. 5 . 8 5 \\%$ 和 $4 6 . 6 0 \\%$ 。方差分析表明，L处理对0— $1 0 \\ \\mathrm { c m }$ 和 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层土壤微生物总量无显著影响（ $\\scriptstyle P > 0 . 0 5 )$ ’ $\\mathbf { M }$ 和 H处理则显著降低了土壤微生物总量( $_ { P < 0 . 0 5 ) }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/150de4c779dcdec977b4172ab00f076629b5ac5052911c990b68c17cf38ae599.jpg",
+        "img_caption": [
+            "图1不同氮沉降水平下 $\\mathbf { 0 - 1 0 ~ c m }$ 和 $\\mathbf { 1 0 - 2 0 ~ c m }$ 土层微生物总量及动态变化",
+            "Fig.1Changesof soil total microbialnumberinO—10cmand10—20cmdepthsof soil layerindifferentNtreatment "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CK对照 $\\mathrm { ~ ( ~ 0 ~ k g ~ N ~ h m ^ { - 2 } ~ a ^ { - 1 } }$ )；L低氮沉降low-N( $\\left( 5 0 \\mathrm { ~ k g ~ N ~ h m } ^ { - 2 } \\mathrm { ~ a } ^ { - 1 } \\right.$ ）； $\\mathrm { ~  ~ { ~ M ~ } ~ }$ 中氮沉降medium-N( $1 5 0 \\mathrm { k g } \\mathrm { N } \\mathrm { h m } ^ { - 2 } \\mathrm { a } ^ { - 1 }$ )； $\\mathrm { ~ H ~ }$ 高氮沉降high-N（ $3 0 0 ~ \\mathrm { k g }$ $\\mathrm { ~ N ~ h m } ^ { - 2 } \\mathrm { ~ a } ^ { - 1 }$ );不同大写字母表示同一处理不同土层间差异显著( $\\scriptstyle P < 0 . 0 5$ )，不同小写字母表示同一土层不同处理间差异显著( $P { < } 0 . 0 5 \\$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0804f6ea9df76203b29823394f17c6feb924cedbbd20849ceb8f0db297a0cc8c.jpg",
+        "table_caption": [
+            "表1施氮处理、采样时间和土壤层次对土壤微生物数量影响的重复测量方差分析",
+            "Table1ResultsofrepeatedmeasuresANOVAfortheeffctsofNtreatment,samplingtimendsoillayeronsoilmicrobialnumber "
+        ],
+        "table_footnote": [
+            "N:施氮处理，nitrogen treatment；T;采样时间，sampling time；L：土壤层次，soil layer"
+        ],
+        "table_body": "<html><body><table><tr><td>因子 Factor</td><td>微生物总量 Total microbial number</td><td>细菌 Bacteria</td><td>真菌 Fungi</td><td>放线菌 Actinomycetes</td></tr><tr><td>N</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td></tr><tr><td>T</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td></tr><tr><td>L</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td></tr><tr><td>NxT</td><td><0.05</td><td>0.071</td><td><0.001</td><td><0.001</td></tr><tr><td>NxL</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td></tr><tr><td>TxL</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td></tr><tr><td>NxTxL</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.01</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2模拟氮沉降对细菌数量的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图2可知,CK处理0— $1 0 \\ \\mathrm { c m }$ 土层细菌数量大于 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层,氮沉降未改变这种垂直分布格局。各处理土壤细菌数量有着明显的季节动态(表1），在 $0 { - } 1 0 ~ \\mathrm { c m }$ 和10— $- 2 0 \\ \\mathrm { c m }$ 土层均表现为秋季最高，夏季较低。与CK处理相比,氮沉降未改变土壤细菌的季节动态。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "不同土层土壤细菌数量对氮沉降的响应不一致。氮沉降处理1a后， ${ \\mathrm { L } } , { \\mathrm { M } }$ 和H处理0— $1 0 ~ \\mathrm { c m }$ 土层的细菌数量分别比CK降低了 $1 2 . 9 2 \\% . 5 0 . 1 1 \\%$ 和 $5 3 . 1 5 \\%$ $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层的细菌数量分别比CK降低了 $1 . 8 7 \\%$ 、$1 1 . 2 4 \\%$ 和 $5 3 . 5 4 \\%$ 。方差分析表明,氮沉降各处理均显著降低了0一 $1 0 \\ \\mathrm { c m }$ 土壤细菌数量( $P { < } 0 . 0 5 )$ ，且抑制作用随氮沉降量的增加而增大;L处理对10- $- 2 0 \\ \\mathrm { c m }$ 土层土壤细菌数量无显著影响( $P { > } 0 . 0 5$ ）， $\\mathtt { M }$ 和H处理则显",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "著降低了10—20cm土层土壤细菌数量( $\\scriptstyle \\left( P < 0 . 0 5 \\right)$ 。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2df43586e4fd59bdb24cb47f8274dbda0448696ba4e77535fc5ec8f6d28a5cea.jpg",
+        "img_caption": [
+            "图20—10cm和 $\\mathbf { 1 0 - 2 0 ~ c m }$ 土层不同氮沉降水平下土壤细菌数量及动态变化",
+            "Fig.2Changes of soil bacteria number in 0- $\\mathbf { \\nabla \\cdot 1 0 \\ c m }$ and 10- $\\mathbf { \\nabla } 2 0 \\ \\mathbf { c m }$ depths of soil layer in different N treatment "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3模拟氮沉降对真菌数量的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图3可知,CK处理0— $1 0 \\ \\mathrm { c m }$ 土层真菌数量大于10— $\\cdot 2 0 \\ \\mathrm { c m }$ 土层,氮沉降未改变这种垂直分布格局。土壤真菌数量有着明显的季节动态(表1),在0— $1 0 \\ \\mathrm { c m }$ 和10— $\\cdot 2 0 \\ \\mathrm { c m }$ 土层均表现为秋季最高,夏季最低。在$1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层,M和H处理在一定程度上改变了季节动态,表现为M和H处理样地夏季 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层真菌数量远高于CK和L处理,由一年中低谷转为峰值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同土层真菌数量对氮沉降的响应不一致。氮沉降处理1a后， $\\mathrm { ~ L , } \\mathrm { ~ M ~ }$ 和H处理 $0 { - } 1 0 ~ \\mathrm { c m }$ 土层的真菌数量分别比CK 降低了 $1 8 . 1 1 \\% . 8 . 3 6 \\%$ 和 $2 2 . 2 9 \\%$ $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层的放线菌数量分别比CK 增加了 $2 8 . 5 0 \\%$ 、$1 3 . 6 0 \\%$ 和 $2 3 . 2 3 \\%$ 。方差分析表明，氮沉降显著降低了0— $1 0 \\ \\mathrm { c m }$ 土层土壤真菌数量( $P { < } 0 . 0 5 )$ ，但下降幅度与氮沉降量无明显规律;氮沉降对 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层土壤真菌数量的影响较为复杂，无明显变化规律。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4模拟氮沉降对放线菌的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图4可知,CK处理0— $1 0 \\ \\mathrm { c m }$ 土层放线菌数量大于 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层，,氮沉降未改变这种垂直分布格局。各处理土壤放线菌数量有着明显的季节动态(表1),在0— $1 0 \\ \\mathrm { c m }$ 和10— $\\cdot 2 0 \\ \\mathrm { c m }$ 土层均表现为秋季最高,夏季最低。与CK处理相比,氮沉降未改变土壤放线菌的季节动态。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同土层土壤放线菌数量对氮沉降的响应不一致。氮沉降处理1a后， $\\mathrm { ~ L , } \\mathrm { ~ M ~ }$ 和H处理0— $1 0 \\ \\mathrm { c m }$ 土层的放线菌数量分别比CK增加 $1 8 . 8 9 \\%$ ） $3 2 . 5 4 \\%$ 和一 $1 6 . 5 3 \\%$ $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层的放线菌数量分别比CK增加了$1 3 . 5 7 \\%$ 、 $4 2 . 9 2 \\%$ 和 $1 6 . 0 7 \\%$ 。方差分析表明，L和M处理显著增加了0— $1 0 \\ \\mathrm { c m }$ 土层土壤放线菌数量( $P <$ 0.05），且M处理的促进作用最强，而H处理显著降低了土壤放线菌数量( $P { < } 0 . 0 5 )$ ;氮沉降显著增加了10—$2 0 \\ \\mathrm { c m }$ 土层土壤放线菌数量( $P { < } 0 . 0 5 )$ ，以 $\\mathrm { ~  ~ { ~ M ~ } ~ }$ 处理对土壤放线菌的促进效果最为明显。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "土壤微生物数量是反映土壤质量的重要生物学指标,氮沉降对其最直接的效应是通过改变土壤微生物分解底物的质量( $\\mathrm { C : N : P }$ 化学计量比）、数量以及 $\\mathrm { \\ p H }$ 环境等进而影响土壤微生物数量、土壤微生物生物量以及土壤微生物区系组成[18]。土壤细菌、真菌和放线菌是土壤微生物的主要组成部分,本研究中各处理0— $1 0 \\ \\mathrm { c m }$ 土层土壤细菌、真菌和放线菌数量均显著大于 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 。这与龚伟等[19]和杨玉莲[20]的研究一致。这是因γ.3Changes of soil fungi number in 0—10 cm and10—20cm depths of soil layerin diferentN treati为在0— $1 0 \\ \\mathrm { c m }$ 土层具有发达的根系,根系分泌物和脱落物是微生物丰富的能源物质,有利于土壤养分的积累和微生物的生长繁殖[21]。氮沉降并不能改变其垂直分布格局。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/93e69dbb709629196c996aee6727fb905f82ee59e6b8cede977f52cbaa60815e.jpg",
+        "img_caption": [
+            "图30—10cm和 $\\mathbf { 1 0 - 2 0 ~ c m }$ 土层不同氮沉降水平下土壤真菌数量及动态变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/20ea1825b2148e2e982fe7d5bce7c3e5855d181cfe987a163e307c9e6b55120d.jpg",
+        "img_caption": [
+            "图40—10cm和10— $2 0 ~ \\mathrm { c m }$ 土层不同氮沉降水平下土壤放线菌数量及动态变化",
+            "Fig.4Changesof soilactinomycetes numberin0-10cmand10—20cmdepthsof soil layer in differentNtreatme "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究中对照样地0一 $1 0 \\ \\mathrm { c m }$ 和 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层细菌、真菌和放线菌数量均在秋季达到最大,在夏季比较低,这与龚伟等[19]的研究结果一致。由于秋季处于生长季末期,枯落物带来大量营养物质,再加上良好水热条件,使得微生物数量在这一时期达到顶峰。秋冬季节土壤枯落物分解的有效C经过一定时间的分解释放后,在夏季含量变小,这将显著影响土壤微生物数量。再加上夏季降水较多,土壤通气性较差,微生物活动会受到阻碍。放线菌数量在夏季显著低于其他季节,这是因为耐旱放线菌不适宜在水分较多的季节生长繁殖。本研究中,M和H处理样地夏季 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层真菌数量远高于CK 和L处理,由一年中低谷转为峰值。这是因为夏季植物生长旺盛,对氮素需求强烈,本研究中氮沉降施用的 $\\mathrm { N H _ { 4 } N O _ { 3 } }$ 中的 $\\mathrm { N H } _ { 4 } ^ { + }$ 可以被植物根系直接吸收,提高了根系活动强度,增加了外生菌根真菌的分泌。但夏季丰富的降水同样会加快 $\\mathrm { N H } _ { 4 } ^ { + }$ 的淋失,导致",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "L处理的氮添加效果不明显。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "土壤微生物对于氮输入极为敏感,过量氮沉降会导致土壤微生物数量发生明显变化。本研究中,氮沉降降低了0— $1 0 \\ \\mathrm { c m }$ 和 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层土壤细菌数量,这与刘彩霞等[22]的研究结果相似。原因可能有以下两方面：一方面氮沉降引起了地下碳分配减少[23],改变了微生物对底物的利用模式[9],最终导致细菌数量的减少。另一方面氮沉降引起土壤高渗环境胁迫,改变了土壤的理化性质[24-25]。在本实验样地中我们还发现,氮沉降促进了华西雨屏区常绿阔叶林土壤有机碳和无机氮的累积,并使土壤pH值降低(出版中),氮沉降改变了阔叶林土壤碳库和氮库以及其他理化性质,因此模拟氮沉降降低了细菌数量。但薛璟花等[9在鼎湖山的研究发现,氮沉降能有效地促进土壤细菌数量,这与土壤中贫富营养细菌的分布比例有关。与贫营养细菌相比,富营养细菌更适应在氮沉降造成的富氮环境中生长和繁殖[26]。土壤真菌是利用有机质作碳源的异养型土壤微生物,具有复杂的酶系统,在土壤碳循环中起着重要作用[27]。本研究中,氮沉降在0— $1 0 \\ \\mathrm { c m }$ 土层降低了土壤真菌数量,这与土壤外生菌根真菌在富氮环境中丰度下降有关。Kjple 等[28]的研究结果发现,氮沉降会降低外生菌根真菌子实体生产力，从而导致外生菌根丰度下降。而 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层土壤真菌数量对氮沉降响应较为复杂，无明显规律。与0一 $1 0 \\ \\mathrm { c m }$ 王层相比，较少的根系导致菌根真菌的丰度较低，对氮沉降的负响应较小。同时真菌群落结构和多样性的不同也会造成氮沉降的响应方式各异。Blackwood 等[29]在北方森林中的研究发现,担子菌的丰度和多样性并未受氮沉降的影响。放线菌能分解多数真菌和细菌不能分解的化合物,还参与难分解有机质的分解过程[30]。本研究中,0— $1 0 \\ \\mathrm { c m }$ 土层放线菌数量随氮沉降量呈现非线性变化,L 和M处理促进了放线菌数量,H处理降低了放线菌数量。这与薛璟花等[9]的研究结果一致。在 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层,各氮处理均促进了放线菌数量,这与刘彩霞等[22]的研究结果一致。氮沉降对不同土层放线菌数量影响的不同与不同土层接受的氮沉降浓度差别,以及放线菌的群落结构组成差异有关。Eisenlord 等[31的研究结果发现,放线菌酸微菌目中的一些种易受到氮沉降的正面影响,而与木质素降解有关的链孢囊菌科则受到负面影响，与10— $2 0 ~ \\mathrm { c m }$ 土层相比,0一 $1 0 \\ \\mathrm { c m }$ 土层中的链孢囊菌科放线菌数量更多，因此在0— $1 0 \\ \\mathrm { c m }$ 土层较高处理的氮沉降(H处理)降低了放线菌数量。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "综上所述,氮沉降显著影响了华西雨屏区天然常绿阔叶林土壤微生物数量。阔叶林 $0 { - } 1 0 ~ \\mathrm { c m }$ 土层的细菌、真菌和放线菌数量大于 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层，氮沉降未改变原有垂直分布格局。氮沉降降低了0— $1 0 \\ \\mathrm { c m }$ 和$1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层的细菌数量,且抑制作用随氮沉降量的增加而增强;氮沉降降低了0— $1 0 \\ \\mathrm { c m }$ 土层的真菌数量，但下降幅度与氮沉降量之间无明显规律;低氮沉降和中氮沉降处理增加了0— $1 0 \\ \\mathrm { c m }$ 放线菌数量，高氮沉降则降低了0— $1 0 ~ \\mathrm { c m }$ 放线菌数量,氮沉降增加了10- $\\cdot 2 0 \\ \\mathrm { c m }$ 土层土壤放线菌数量。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1］常运华，刘学军，李凯辉，吕金岭，宋韦.大气氮沉降研究进展.干旱区研究，2012,29(6)：972-979.  \n[2]VitousekP,berJD,HowarthRW,LikensGE,MatsoP,SderDW,ShlesingerWH,anDG.Humaalteratioheglobalnitrogen cycle：sources and consequences.Ecological Applications，1997,7(3）：737-750.  \n[3]GalowaJberJDanJingrwrthowlingEJ.eirogsaee,(4)341-356.  \n[4]GaowaJ,seAR,EisnJW,eunaCiZCFreJartineli,egr,utoM.asfonitrogen cycle:recent trends，questions，and potential solutions.Science，2008,320(5878）: 889-892.  \n[5]Van Breemen N. Nitrogen cycle：Natural organic tendency.Nature,2002,415(6870）： 381-382.  \n[6] VanEgmondK,ressrT,ouwanL.heEuropeannitrogencase.Ambio：AJoualoftheHumanEnviroent,O,31（2）78.  \n[7］王志勇，朱凡，宿少锋，张明明，多祎帆，傅强.氮沉降对森林土壤微生物特性影响的研究进展.中南林业科技大学学报，2011,31（5）：202-206.  \n[8]WalnsreS,ZoutrtiillAbstracts，2003，5：13087.  \n[9］薛璟花，莫江明，李炯，李德军.土壤微生物数量对模拟氮沉降增加的早期响应.广西植物，2007,27（2）：174-179,202-202.  \n[10］赵玉涛，韩士杰，李雪峰，胡艳玲.模拟氮沉降增加对土壤微生物量的影响.东北林业大学学报,2009,37(1)：49-51.  \n[11］刘蔚秋，刘滨扬，王江，雷纯义.不同环境条件下土壤微生物对模拟大气氮沉降的响应.生态学报，2010,30（7)：1691-1698.  \n[12］王志勇.模拟氮沉降对亚热带人工林土壤微生物的影响[D].长沙：中南林业科技大学，2012.  \n[13]Johson,eake,JAbelagsilcobalassdicrobalctiisiesposetarsapollutant nitrogen depositionona heathlandand two graslands.EnvironmentalPollution，1998,103（2-3）：239-250.  \n[14］庄平，高贤明.华西雨屏带及其对我国生物多样性保育的意义.生物多样性，2002，10(3)：339-344.  \n[15]TuLH,HuH,nG,egY,XY,HuTXZgJ,LiXW,LL,ngY.Nitrogendiioignificatidecomposition under high levels of ambient nitrogen deposition.PLoS One,2014,9(2）：e88752-e88752.  \n[16］周世兴，黄从德，向元彬，韩博涵，肖永翔，唐剑东.模拟氮沉降对华西雨屏区天然常绿阔叶林凋落物木质素和纤维素降解的影响.应用生态学报，2016，27(5）：1368-1374.  \n[17] 林先贵.土壤微生物研究原理与方法.北京：高等教育出版社，2010：362-364.  \n[18] 汪海静.土壤微生物多样性的主要影响因素.北方环境，2011，23(1-2)：90-91.  \n[19］龚伟，胡庭兴，王景燕，宫渊波，罗承德.川南天然常绿阔叶林人工更新后土壤氮库与微生物的季节变化.生态学报，2011，31（7)：1763- 1771.  \n[20] 杨玉莲.模拟增温对高山森林土壤微生物和酶活性的影响[D].成都：四川农业大学，2012.  \n［21］何容，汪家社，施政，方燕鸿，徐自坤，权伟，张增信，阮宏华.武夷山植被带土壤微生物量沿海拔梯度的变化.生态学报，2009，29(9)： 5138-5144.  \n[22］刘彩霞，焦如珍，董玉红，孙启武，李峰卿，周新华.杉木林土壤微生物区系对短期模拟氮沉降的响应.林业科学研究，2015，28（2)：271-276.  \n[23]DmoliFoLOathcteialdfglsserogfertlaioiofefrtilBiochemistry，2008，40(2）：370-379.  \n24]Zcheselesnitrogen deposition.Plant and Soil,2011，343(1-2)：37-50.  \n[25］吕超群，田汉勤，黄耀.陆地生态系统氮沉降增加的生态效应.植物生态学报，2007，31（2）：205-218.  \n[26]RamierssstsdlChange Biology，2012，18(6）：1918-1927.  \n[27］邵玉琴，赵吉，包青海.库布齐固定沙丘土壤微生物生物量的垂直分布研究.中国沙漠，2001,21(1)：88-92.  \n28]Kjll,dtdaldtigiabundanceand mycelialproductionalongastand-scalenitrogen depositiongradient.NewPhytologist，2012,194（1):278-286.  \n[29]BlackoC,ldropkD,saghollaalisfuuitdaseeicopiidiferencesamong foresttypesbutnoimpactof nitrogendeposition.Environmental Microbiology，2O07,9（5）：1306-1316.  \n[30］陈珊，张常钟，刘东波，张镇瑷，杨靖春，王志霞.东北羊草草原土壤微生物生物量的季节变化及其与土壤生境的关系.生态学报，1995,15(1): 91-94.  \n31]Eisedosepolof America Journal,2009，74(4）：1157-1166.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

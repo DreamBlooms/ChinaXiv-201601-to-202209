@@ -1,0 +1,489 @@
+[
+    {
+        "type": "text",
+        "text": "Quality analysis of Polygala tenuifolia root by ultrahigh performance liquid chromatography-tandem mass spectrometry and gas chromatography-mass ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "spectrometry ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dan Wu, Jirui He, Yueming Jiang, Bao Yang\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Laboratory of Plant Resources Conservation and Sustainable Utilization, South China Botanical Garden, Chinese Academy of Sciences,Guangzhou, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\* Corresponding author: Bao Yang,PhD,Professor. Tel: +86 20 37083042 E-mail: yangbao@scib.ac.cn. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Polygala tenuifolia root is usually used for functional food due to attractive health benefits. In this work,ultrahigh performance liquid chromatography-tandem mass spectrometry (UPLC-MS/MS) and gas chromatography-mass spectrometry (GC-MS） were utilised to characterise the bioactive compounds in $P .$ tenuifolia root. The UPLC-MS/MS information revealed 36 bioactive compounds， including oligosaccharide esters, polygalasaponins and polygalaxanthones. GC-MS identified 34 volatile compounds with fatty acids as the main chemicals. The leading compound judged by UPLC-MS/MS was tenuifoliside A,and oleic acid was the leading volatile from GC-MS profiles. All the samples showed similar bioactive compounds compositions,but the level of each compound varied. The results of principal component analysis revealed the principal bioactive compounds with significant level variations between samples. These principal chemicals could be used for quality judgement of $P$ . tenuifolia root, instead of measuring the levels of all compositional compounds. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Bioactive compound; GC-MS; Polygala tenuifolia; UPLC-MS/MS; ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The genus Polygala includes herbaceous plants, shrubs and smal trees, which are distributed over the world. Some Polygala species are used in functional foods and folk medicines against inflammation and disorder of central nervous system [1]. As a widely used medicinal plant, Polygala tenuifolia has attracted much attention due to the good pharmaceutical properties against insomnia, neurosis and dementia [2]. Moreover, $P .$ tenuifolia root can attenuate cognitive dysfunction and relieve the depressive disorder [3,4]. As cognitive dysfunction and depression are common disorders occurred on people nowadays, the prevention effect of $P .$ tenuifolia root has attracted much interest by scientists in functional food field. Many functional food products formulated with $P .$ tenuifolia root have been developed. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Natural bioactive compounds, like phenolics and carbohydrates, are responsible for the pharmaceutical activities of medicinal herb [5,6]. It has been reported that oligosaccharides, saponins and xanthones in $P .$ tenuifolia root are critical chemicals involved in disease treatment and health benefits [7]. The antidepressant effect is mainlyattributedtotheoccurrenceofoligosaccharideesters，like 3,6'-disinapolysucrose. Polygalasaponins possess good capability against cognitive impairments [8]. Xanthones have diverse biological profiles, including anticancer, antihypertension and antioxidation [9]. It is obvious that bioactive compounds composition determines the quality of $P .$ tenuifolia root. More than two hundred chemicals have been identified from Polygala genus. However, the chemical composition of $P .$ tenuifolia root is still not clear. Determination of phytochemical profile by ultrahigh performance liquid chromatography-tandem mass spectrometry (UPLC-MS/MS) and gas chromatography-mass spectrometry (GC-MS) is a good choice to understand the chemistry nature of medicinal plant. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Metabolomics is being increasingly utilized to gain insight into the chemical composition of biological materials [10]. Two types of analytical techniques, based on MS and nuclear magnetic resonnance spectroscopy (NMR)，are widely applied in metabolomics. The MS technique shows better precision and resolution than NMR. Therefore, in this work, the bioactive compounds profile of $P .$ tenuifolia root was analysed by both UPLC-MS/MS and GC-MS. It is useful to judge the quality of commercial P. tenuifolia root. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.Materials and Methods ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1. Plant material ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Four $P .$ tenuifolia roots were collected from Sanmenxia of Henan province(1 and 2#) and Yuncheng of Shanxi province (3 and 4#),respectively. Each sample was pulverized into powder and screened through 6O-mesh sieve. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2. UPLC-MS/MS analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Two grams of $P .$ tenuifolia root powder were extracted with $2 0 ~ \\mathrm { m l }$ of methanol for one week in the dark at room temperature. The extract was centrifuged at $8 0 0 0 g$ for $1 0 \\mathrm { m i n }$ . Each sample was extracted in triplicate. The supernatant was collected and subjected to UPLC-MS/MS analysis. AcquityTM UPLC equipped with AcquityTM UPLC BEH C18 column ( $1 . 7 \\ \\mu \\mathrm { m }$ $2 . 1 { \\times } 1 5 0 ~ \\mathrm { m m }$ ） was used for chemicals isolation. A gradient elution programme was conducted as follows: $0 { \\cdot } 4 5 \\ \\operatorname* { m i n }$ ， from $5 \\%$ to $50 \\%$ （20 solvent B; 45-48 min, from $50 \\%$ to $100 \\%$ solvent B; 48-51 min, from $100 \\%$ to $5 \\%$ （204号 solvent B; 51-53 min, $5 \\%$ solvent B. The flow rate was $0 . 2 5 ~ \\mathrm { m l / m i n }$ . Solvent A was （204号 $0 . 1 \\%$ formic acid in water, and solvent B was acetonitrile. Detection was performed on a triple quadrupole mass spectrometer using an electrospray ionization (ESI) interface. Ionization of the analytes was achieved using ESI in negative mode. The interface conditions were as follows: capillary voltage, $1 . 0 \\mathrm { K V }$ ； cone voltage, $1 0 \\ \\mathrm { e V }$ ：9 collision voltage, $1 0 \\mathrm { e V }$ ; source temperature, $1 5 0 ^ { \\circ } \\mathrm { C }$ ; desolvation temperature, $5 0 0 ^ { \\circ } \\mathrm { C }$ 0 cone gas, nitrogen at a flow rate of $5 0 \\mathrm { L / h }$ ; desolvation gas, nitrogen at a flow rate of $8 0 0 \\ \\mathrm { L / h }$ ； collision gas, argon at a flow rate of $0 . 2 ~ \\mathrm { m L / m i n }$ . Mass scan was set in the range of $m / z ~ 5 0 { - } 2 0 0 0$ . The daughter ion mode was monitored at a collision voltage of 10-40 eV. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3. GC-MS analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Two grams of $P$ .tenuifolia root powder were extracted with $2 0 ~ \\mathrm { \\ m l }$ of hexane/acetone $( 7 { : } 3 , \\ \\mathrm { v / v } )$ for one week in dark at room temperature. The extracts were centrifuged at $8 0 0 0 g$ for $1 5 ~ \\mathrm { m i n }$ . The supernatants were collected and subjected to trimethylsilyl derivatization due to the occurrence of fatty acids. The trimethylsilyl derivatization was conducted as the method of Yang et al. [11]. A gas chromatography/mass spectrometer (GCMS-QP 2010, Shimadzu, Kyoto, Japan) was used to analyse the chemical composition. The derivatives were loaded into a RTX-5 capillary column. The temperature program was set as follows: the initial temperature of column was $5 0 ^ { \\circ } \\mathrm { C }$ ,holding for $1 \\mathrm { m i n }$ , increasing to $2 5 0 ^ { \\circ } \\mathrm { C }$ at $3 \\mathrm { \\ : ^ { \\circ } C / m i n }$ , holding for 17 min, increasing to $2 8 0 ^ { \\circ } \\mathrm { C }$ at $1 0 ~ \\mathrm { { ^ { o } C / m i n } }$ ； injection temperature: $2 5 0 ~ ^ { \\mathrm { { o } } } \\mathrm { { C } }$ ，The ion source of mass spectrometer was set at $2 5 0 ~ ^ { \\circ } \\mathrm { C }$ . The scanning $m / z$ range was 20-550 amu. $1 ~ \\mu \\mathrm { l }$ of sample was injected and the split ratio was 1O:1. The carrier gas was helium with a flow rate of $1 . 0 \\ \\mathrm { m l / m i n }$ . The peaks were identified by NIST database and retention index. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4. Data analysis ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For each sample, the peak heights of metabolites in mass spectra were recorded and averaged over three replicates. An unsupervised multivariate statisitcal method, principal component analysis (PCA)，was used on UV-scaling data by software SIMCA-P version 11.5 (Umetrics, Umea, Sweden). PCA was performed to visualize the clustering of different samples without any knowledge of their group membership. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3. Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1. Semi-polar metabolites composition identified by UPLC-MS/MS ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The methanolic extract of $P .$ tenuifolia root was analysed by UPLC-MS/MS to identify the semi-polar metabolites. Figure 1 shows the full scan ESI-MS spectra in negative mode. The identified chemicals of main peaks are listed in Table 1. Those metabolites with relatively high peak were interpreted here. The leading peak was tenuifoliside A (Retention time 19.79 min, Fig.2). The MS spectra had an [M-H]at $m / z 6 8 0 . 7$ and $\\left[ 2 \\mathrm { M } \\mathrm { - } \\mathrm { H } \\right] ^ { - }$ at $m / z ~ 1 3 6 2 . 7$ . The fragment ions were interpreted as follows: m/z 442.6 (loss of trimethoxycinnamoyl and hydroxyl group)， 281.0 (loss of trimethoxycinnamoyl and fructose), 238.9 (breaking of glucose)， 136.7 ( $\\dot { p }$ -hydroxy benzoic acid). Peak at 17.16 min gave an [M-H]and [2M-H]  at $m / z ~ 7 5 2 . 8$ and 1506.9, which was identified as sibiricose A4. Its fragment ion at $m / z 2 2 3 . 1$ indicated synapic acid, and $m / z ~ 5 4 6 . 7$ was due to the loss of a synapoyl group. Peak at 22.36 min gave an $\\mathrm { \\left[ M \\mathrm { - } H \\right] ^ { - } }$ and $\\left[ 2 \\mathrm { M \\mathrm { - } H } \\right] ^ { - }$ at $m / z ~ 7 6 6 . 8$ and 1535.8，respectively. The fragment ions at $m / z ~ 5 2 8 . 8$ (loss of sinapoyl and hydroxyl)， 237.3 (trimethoxy cinnamic acid) and 222.6 (synapic acid) further confirmed this peak as tenuifoliside C. A peak at 12.96 min was polygalaxanthone XI (MW 568), a xanthone C-glycoside, which gave an $\\mathrm { \\left[ M \\mathrm { - } H \\right] ^ { - } }$ and [2M-H]at $m / z ~ 5 6 7 . 0$ and 1134.5， respectively. The fragment ions at m/z 435.1 (loss of apiose), 416.9 (loss of apiose and $\\mathrm { H } _ { 2 } \\mathrm { O }$ ）and 344.8 (breakingofglucoseatO,3bonds) furtherconfirmedthisstructure. 1,2,3,7-Tetramethoxyxanthone (MW 316) was detected at $4 7 . 4 0 ~ \\mathrm { m i n }$ with $\\left[ \\mathrm { M \\mathrm { - } H } \\right] ^ { - }$ at （204号 $m / z \\ 3 1 4 . 9$ ， and fragment ions at $m / z \\ 2 1 4 . 4$ (loss of $\\mathrm { C } _ { 5 } \\mathrm { H } _ { 9 } \\mathrm { O } _ { 2 } \\mathrm { \\backslash }$ ） and 116.8 (loss of $\\mathrm { C _ { 1 0 } H _ { 1 4 } O _ { 4 } } )$ . The chemical structure of above compounds are shown in Fig. 2. Moreover, some other chemicals, including polygalasaponins, xanthones and sucrose esters, were also identified, which could be found in literatures [12-15]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2.Volatile metabolites composition identified by GC-MS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The volatile metabolites were extracted by hexane/acetone, trimethylsilylated and determined by GC-MS,which gave 34 volatile compounds, including alchol, carboxylic acids, esters, and terpenoids (Table 2). The leading volatile chemical was oleic acid in all the samples tested. Other volatile compounds with percentage higher than $1 \\%$ were 2,5-dihydroxy-3,6-bis(hydroxymethyl)-1,4-dioxane, hexadecanoic acid, 9-octadecenoic acid methyl ester， 9,12-octadecadienoicacid， stearicacid, 11-eicosenoic acid, eicosanoic acid and eicosanoic acid 2-glycerol ester. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3.Principal component analyses of $P .$ tenuifolia root based on their metabolites profiles ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Principal component analysis was conducted on methanolic extract of $P .$ （204号 tenuifolia root samples. The first two principal components explained $7 5 . 9 \\%$ of the total variance, in which the first principal component explained $45 . 8 \\%$ of the total variance and the second principal component did $3 0 . 1 \\%$ . The loading plot (Fig. 3A) revealed the main compounds responsible for the sample difference. The first component was represented by arillalose B, sibiricoses A1,A6, tenuifolisides B, C, arillanin A, 6-O-benzoyl 3'-O-(4-hydroxy-3,5-dimethoxy- $E$ : cinnamoyl) acylsucroses, tenuifolioses A，E，L， polygalasaponin XLV and reinioside B，which were characterised as saponins and oligosaccharide esters. The second component was mainlydefinedby1-hydroxy-2,3-methylenedioxyxanthone, sibiricoseA2, tenuifolioses B,F and G, which were characterised as xanthone and oligosaccharide esters. Score plot showed the statistical similarity between samples. 1# $P .$ tenuifolia root was characterized by large amounts of arillalose B, sibiricose A2 and telephiose E, while 3# root showed high levels of tenuifoliose B and I. They were located in two opposite quadrants in the scroe plot which indicated significant differences. 2# root Was located in the proximity of 1# root in the score plot. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Figure 3B shows the results of principal component analysis on volatile metabolites levels. The first two principal components explained $8 1 . 5 \\%$ of the total variance, $5 1 . 9 \\%$ by the first component and $2 9 . 6 \\%$ by the second component. Major metabolites defining the first component were propanedioic acid, 2-hydroxyl benzoic acid, hexadecanoic acid, palmitelaidic acid, 9-octadecenoic acid methyl ester, stearic acid,11-eicosenoic acid, eicosanoic acid, tetracosanoic acid and eicosanoic acid 2-glycerolester.Thesecondcomponentwasmainlycharacterizedby 5-ethyl-m-xylene, 1,2,3,4-tetramethyl-benzene and 2,3-dihydroxyl-propanoic acid. 1# P. tenuifolia root was characterized by high levels of 5-ethyl-m-xylene and 1,2,3,4-tetramethyl-benzene. 3#root wascharacterized by high level of 2,3-dihydroxyl-propanoic acid. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4. Discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.1.Phytochemical profile of $P .$ tenuifolia root ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Phytochemical analysis supplies a good way to evaluate the quality of commercial biological resources, like medicinal herbs and fruits. At present, LC-MS and GC-MS are two eficient and precise techniques to resolve the phytochemical profile of plant resources [16,17]. The former technique can identify semi-polar metabolites with advantages of high precision and short time consumed. It is widely applied to the characterization of plant secondary metabolites. GC-MS can reveal the chemistry nature of volatile metabolites [18], which define the flavor of plant [19]. GC-MS also provides complementary information to LC-MS analysis to obtain a complete phytochemical profile. From the bioactive compounds profile obtained in this work, it could be concluded that four samples had similar metabolites profiles, but level of each metabolite varied. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "More than seventy metabolites were identified from $P .$ tenuifolia root in this work Three sucrose esters, including sibiricose A4, tenuifoliside A and C, were detected as the leading metabolites in the UPLC-MS/MS profile. They were reported as the bioactive compounds responsible for the pharmaceutical effect of $P .$ tenuifolia root against depression [2O]. Several saponins and xanthones were also detected as important constituents， including 1,2,3,7-tetramethoxyxanthone, 1-hydroxyl-2,3- methylenedioxyxanthone， polygalaxanthonesIII, V andVIII, aswellas polygalasaponins XLV and XXXV. Polygalasaponins play a critical role in the characteristic bioactivities of $P .$ tenuifolia root, like neuroprotection and memory improvement. Cognitive dysfunction is a symptom of central nervous system disorder, which endangers the life quality of people. Xue et al. have pointed out that polygalasaponinscansignificantlypreventscopolamine-inducedcognitive impairments in mice [8]. Even though the numbers and levels of saponins and Xanthones in the UPLC-MS profile were less than oligosaccharide esters (Table 1 and Figure 1), they works as prerequisites to the health-beneficial effects of $P .$ tenuifolia root. GC-MS analysis showed that the major volatile compounds were fatty acids, which were in consistent with the determinations of Wang et al. [21]. Amongst, oleic acid was the leading volatile metabolite. It is also a pharmacologically active chemical. Though the contribution of volatile compounds to the pharmaceutical activities of $P .$ tenuifolia root is much less than non-volatile compounds, they influences the flavor characteristics to some extent. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Based on the level and importance to the pharmacological functions, oligosaccharide esters, polygalasaponins and xanthones identified in the UPLC-MS profile could be selected to evaluate the quality of $P .$ tenuifolia root. A $P .$ tenuifolia root with relatively high levels of bioactive compounds is considered as having good quality. Through ANOVA analysis of representative metabolites levels (data not shown), including tenuifoliside A, tenuifoliose A, sibiricose A4 and onjisaponin W, the results indicated that four $P .$ tenuifolia roots had no significance of differences on the levels of tenuifoliside A, tenuifoliose A and onjisaponin W. For sibiricose A4, 2# sample showed significantly $( p < 0 . 0 5 )$ higher level than 1#, but no significant $( p >$ 0.05） differences between 2#,3# and $4 \\#$ were observed. The results showed that 1# sample had a worse quality comparing with other three samples. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.2.Multivariate statistical analysis of $P .$ tenuifolia root metabolites ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "PCA is an unsupervised clustering technique of identifying patterns in data, expressing the data in a way to emphasize their similarities and differences. Through reducing the number of dimensions, it can define a limited number of principal components which describe independent variation in the results [10,22]. In this work, PCA was carried out on semi-polar and volatile metabolites of $P .$ tenuifolia root to find principal variables defining the pharmacological quality. In the loading plot, it displays the influence of individual spectral peaks in each principal component and describes the separation shown in the score plot [23]. The points in the loading plot far away from zero point represent characteristic markers with most confidence to each group. Figure 3A shows the characteristic compounds for each sample. The first two principal components explained most of the total variance. The first principal components were labeled by tenuifolioses (A,E and L） and polygalasaponin XLV. The second principal component was labeled by tenuifolioses (B,F and G） and 1-hydroxy-2,3-methylene-dioxyxanthone. It was surprised that tenuifoliside A had the leading peak in the UPLC-MS profile. However, it was not the representive chemical in the two first pricinpal components due to the insignificant variance. Only those metabolites having significant variance will be calculated in the PCA model. Tenuifolioses are the characteristic oligosaccharide esters in $P$ ， tenuifolia root [24], which are constructed by pentasaccharide, phenolic acid and acetyl moieties. It is very rare to find these oligosaccharides in other plant resources. And they shows good neuroprotective and antioxidant activities, which make $P$ . tenuifolia root a good choice of traditional folk medicine. Seven xanthones were detected in the UPLC-MS profile， and only 1-hydroxy-2,3-methylenedioxyxanthone was included in the principal component. Xanthones show good potential in the treatment against inflammation， asthma and allergy [1]. They also exhibits bioactivity against neroblastoma [25]. Polygalaxanthones are a type of xanthones characterized by C-glycoside moiety, which contribute partially to the bioactivity of $P$ . tenuifolia root. Through PCA calculation， some of oligosaccharide esters, xanthones and saponins were selected as principal components. These metabolites can be chosen to determine the quality of commercial $P$ . tenuifolia roots, instead of measuring the levels of all metabolites. This result also proved that UPLC-MS/MS and GC-MS were efcient for quality evaluation of medicinal plants [26]. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5. Conclusions ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Analysis of bioactive compounds profile was an eficient way to define the quality of $P .$ tenuifolia root.By using UPLC-MS/MS and GC-MS, the semi-polar and volatile metabolites were identified and their levels were statistically compared. Tenuifoliside A was the leading metabolite in $P .$ tenuifolia root. Xanthones and saponins are another two important types of metabolites occurred in $P .$ tenuifolia root. PCA plot indicated the representive metabolites for each sample, and these metabolites could be utilized to judge the commercial quality of $P .$ tenuifolia root. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "6 Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "We are grateful to the financial support from Guangdong Natural Science Fundation for Distinguished YoungScholar (No. S2013050014131)， Youth Innovation Promotion Association of Chinese Academy of Sciences, Pearl River Science and Technology New Star Fund of Guangzhou (No. 2014J2200081), Guangdong Natural Science Foundation (No. S2011020001156)andInternational Foundation for Science (No.F/4451-2). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[1] El Sayah M, Cechinel V, Pinheiro TR, et al. In vitro effect of the extract and the 1,7-dihydroxy-2,3-dimethoxy xanthone from Polygala cyparissias on the contractions induced by inflammatory mediators and ovalbumin in normal and actively sensitised trachea from guinea pig. Inflamm. Res. 1999;48:218-223. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[2] Park HJ, Lee K, He H, et al. Effects of Polygala tenuifolia root extract on proliferation of neural stem cells in the hippocampal CA1 region. Phytother. Res. 2008;22:1324-1329. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[3] Hu Y, Liao HB, Liu P, et al. A bioactive compound from Polygala tenuifolia regulates effciency of chronic stress on hypothalamic-pituitary-adrenal axis. Pharmazie 2009;64:605-608. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[4] Ikeya Y, Takeda S, Tunakawa M, et al. Cognitive improving and cerebral protective effects of acylated oligosaccharides in Polygala tenuifolia. Biol. Pharm. Bull. 2004;27:1081-1085. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[5] Yang B, Chen F, Hua YL, et al. Prooxidant activities of quercetin, p-courmaric acid and their derivatives analysed by quantitative structure-activity relationship.Food Chem. 2012;131:508-512. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[6] Zhu QQ, Jiang YM, Lin S, et al. Structural identification of ( $\\mathrm { 1 } \\xrightarrow { } 6$ ） $\\mathfrak { a }$ -D-glucan, a key responsible for the health benefits of longan, and evaluation of anticancer activity. Biomacromolecules 2013;14:1999-2003. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[7] Klein LC, de Andrade SF, Cechinel V. A pharmacognostic approach to the Polygala genus: Phytochemical and pharmacological aspects. Chem. Biodivers.2012;9:181-209. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[8] Xue W, Hu JF, Yuan YH, et al. Polygalasaponin XXXII from Polygala tenuifolia root improves hippocampal-dependent learning and memory. Acta Pharm. Sinic. 2009:30:1211-1219. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[9] Na Y. Recent cancer drug development with xanthone structures. J. Pharm. Pharmacol. 2009;61:707-712. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[10] Bernillon S, Biais B, Deborde C, et al. Metabolomic and elemental profiling of melon fruit quality as affected by genotype and environment. Metabolomics 2013;9:57-77. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[11] Yang B， Jiang YM, Zhao MM, et al. Structural characterisation of polysaccharides purified from longan (Dimocarpus longan Lour.） fruit pericarp.Food Chem.2009;115:609-614. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[12] Dao TT, Dang TT, Nguyen PH, et al. Xanthones from Polygala karensium inhibit neuraminidases from influenza A viruses. Bioorg. Med. Chem. Lett. 2012;22:3688-3692. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[13] Fu J, Zuo L, Yang JZ, et al. Oligosaccharide polyester and triterpenoid saponins from the roots of Polygala japonica. Phytochemistry 2008;69:1617-1624. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[14] Zhang DM, Miyase T, Kuroyanagi M, et al. Polygalasaponins XLI-XLVI from roots of Polygala glomerata. Phytochemistry 1998;47:459-466. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[15] Ling Y, Li ZX, Chen MC,et al. Analysis and detection of the chemical constituents of Radix polygalae and their metabolites in rats after oral administration by ultrahigh-performance liquid chromatography coupled with electrospray ionization quadrupole time-of-flight tandem mass spectrometry. J. Pharmaceut. Biomed. 2013;85:1-13. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[16] Mari A, Lyon D,Fragner L,et al. Phytochemical composition of Potentilla anserina L. analyzed by an integrative GC-MS and LC-MS metabolomics platform. Metabolomics 2013;9:599-607. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[17] Chen RC, Wei KJ, Wang TM, et al. Simultaneous quantification of antibiotic dyes in aquatic products and feeds by liquid chromatography-tandem mass spectrometry. J. Food Drug Anal. 2013; 21:339-346. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[18] Chen HC, Peng LW, Sheu MJ, et al. Effects of hot water treatment effects on the essential oils of calamondin. J. Food Drug Anal. 2013;21:363-368. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[19] Besada C, Sanchez G, Salvador A, et al. Volatile compounds associated to the loss of astringency in persimmon fruit revealed by untargeted GC-MS analysis. Metabolomics 2013;9:157-172. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[20] Hu Y, Liao HB,Dai-Hong G, et al. Antidepressant-like effects of 3,6-disinapoyl sucrose on hippocampal neuronal plasticity and neurotrophic signal pathway in chronically mild stressed rats.Neurochem. Int. 2010;56:461-465. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[21] Wang Y, Chang L， Zhao X，et al. Gas chromatography-mass spectrometry analysis on compounds in volatile oils extracted from Yuan Zhi (Radix Polygalae) and Shi Chang Pu (Acorus Tatarinowii) by supercritical $\\mathrm { C O } _ { 2 }$ . J. Trad. Chinese Med. 2012;32:459-464. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[22] Park MK, Cho IH, Lee S,et al. Metabolite profiling of Cheonggukjang，a fermented soybean paste, during fermentation by gas chromatography-mass spectrometry and principal componentanalysis. Food Chem. 2010;122:1313-1319. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[23] Yuk J, McIntyre KL, Fischer C, et al. Distinguishing Ontario ginseng landraces and ginseng species using NMR-based metabolomics. Anal. Bioanal. Chem. 2013;405:4499-4509. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[24] Miyase T, Iwata Y, Ueno A. Tenuifolioses A-F, oligosaccharide multi-esters from the roots ofPolygala-tenuifolia Willd. Chem. Pharm. Bull. 1991;39:3082-3084. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[25] Mak NK,Li WK, Zhang M, et al. Effects of euxanthone on neuronal differentiation. Life Sci. 2000;66:347-354 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[26] Yang B, Yang HS, Chen F, Hua YL, Jiang YM. Phytochemical analyses of Ziziphus jujuba Mill. var. spinosa seed by ultrahigh performance liquid chromatography-tandem massspectrometry and gaschromatography-mass spectrometry. Analyst 2013;138:6881-6888. ",
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/8789b179f45585cec0ceac93ba7c726b3979d0c9a22eb9eec460b28ae5dd3939.jpg",
+        "table_caption": [
+            "Table 1. Semi-polar metabolites occurred in the methanolic extract of $P .$ tenuifolia root measured by UPLC-MS/MS. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>No.</td><td>Retention time (min)</td><td>MW</td><td>[M-H] (m/z)</td><td>[2M-H] (m/z)</td><td>Fragment ions (m/z)</td><td>Chemicals</td></tr><tr><td>1</td><td>5.29</td><td>462</td><td>460.9</td><td>922.9</td><td>299.1, 136.9</td><td>Sibiricose A3</td></tr><tr><td>2</td><td>7.5</td><td>518</td><td>516.7</td><td>1034.9</td><td>340.6,192.8</td><td>Arillalose B</td></tr><tr><td>3</td><td>7.96</td><td>548</td><td>546.8</td><td>1094.8</td><td>222.6,204.9</td><td>Sibiricose A6/A1</td></tr><tr><td>4</td><td>10.11</td><td>548</td><td>546.9</td><td>1094.3</td><td>222.8,204.8</td><td>Sibiricose A6/A1</td></tr><tr><td>5</td><td>10.96</td><td>568</td><td>566.8</td><td></td><td>435.2, 314.5</td><td>Polygalaxanthone III or VIII</td></tr><tr><td>6</td><td>11.73</td><td>538</td><td>536.7</td><td></td><td>386.7, 266.7</td><td>Sibiricaxanthone B</td></tr><tr><td>7</td><td>12.75</td><td>568</td><td>566.5</td><td></td><td>434.8, 314.9</td><td>Polygalaxanthone III or VIII</td></tr><tr><td>8</td><td>12.96</td><td>568</td><td>567.0</td><td>1134.5</td><td>435.1, 416.9, 344.8</td><td>Polygalaxanthone XI</td></tr><tr><td>9</td><td>13.16</td><td>562</td><td>560.7</td><td>1123.2</td><td>399.0, 341.0, 236.8</td><td>Sibiricose A2</td></tr><tr><td>10</td><td>13.69</td><td>256</td><td>255.0</td><td>511.0</td><td>212.9, 168.5</td><td>1-Hydroxy-2,3-methylenedioxyxanthone</td></tr><tr><td>11</td><td>13.77</td><td>550</td><td>548.8</td><td></td><td>467.3, 254.9</td><td></td></tr><tr><td>12</td><td>14.3</td><td>668</td><td>666.7</td><td>1334.9</td><td>461.1, 280.8, 239.1</td><td>Tenuifoliside B</td></tr><tr><td>13</td><td>14.4</td><td>754</td><td>752.7</td><td>1506.7</td><td>705.2, 528.5,205.0</td><td></td></tr><tr><td>14</td><td>16.3</td><td>582</td><td>580.9</td><td></td><td>549.0, 323.0, 272.7</td><td>Polygalaxanthone V</td></tr><tr><td>15</td><td>16.45</td><td>754</td><td>752.9</td><td>1507.1</td><td>705.0, 692.5, 630.8</td><td>Telephiose E</td></tr><tr><td>16</td><td>17.16</td><td>754</td><td>752.8</td><td>1506.9</td><td>546.7, 223.1</td><td> Sibiricose A4</td></tr><tr><td>17</td><td>17.71</td><td>724</td><td>722.7</td><td>1447.3</td><td>696.5, 546.8, 516.6</td><td>Arillanin A</td></tr><tr><td>18</td><td>19.21</td><td>652</td><td>650.7</td><td></td><td>528.8, 222.5, 204.5</td><td>Acylsucroses 3'-O-(4-hydroxy-3,5-dimethoxy-E-cinnamoyl), 6-O-benzoyl</td></tr></table></body></html>",
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/ca03ee8661eec98b1e2586099f9a10a82d315a52a618c4217a5d1661578facb9.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "a, the possible structure; -, unknown. "
+        ],
+        "table_body": "<html><body><table><tr><td>19</td><td>19.56</td><td>1484</td><td>1482.8</td><td></td><td>Tenuifoliose Ga</td><td></td><td></td></tr><tr><td>20</td><td>19.79</td><td>682</td><td>680.7</td><td>1362.7</td><td>442.6, 136.7</td><td>281.0,</td><td>238.9，Tenuifoliside A</td></tr><tr><td>21</td><td>21.85</td><td>1526</td><td>1525.4</td><td></td><td>688.7</td><td></td><td>Tenuifoliose Fa</td></tr><tr><td>22</td><td>21.9</td><td>1496</td><td>1494.9</td><td></td><td></td><td></td><td>Tenuifoliose La</td></tr><tr><td>23</td><td>22.36</td><td>768</td><td>766.8</td><td>1535.8</td><td>528.8, 237.3, 222.6</td><td></td><td>Tenuifoliside C</td></tr><tr><td>24</td><td>22.87</td><td>1660</td><td>1659.1</td><td></td><td></td><td></td><td>Polygalasaponin XLVa</td></tr><tr><td>25</td><td>23.12</td><td>1296</td><td>1294.8</td><td></td><td></td><td></td><td>Tenuifoliose Ca</td></tr><tr><td>26</td><td>23.19</td><td>738</td><td>736.9</td><td>1477.5</td><td>704.8</td><td></td><td>Reiniose Aa</td></tr><tr><td>27</td><td>23.94</td><td>1308</td><td>1306.8</td><td></td><td>1160.8, 163.3, 145.0</td><td></td><td>Tenuifoliose I</td></tr><tr><td>28</td><td>24.45</td><td>1338</td><td>1336.9</td><td></td><td>894.5, 320.6</td><td></td><td>Senegose L</td></tr><tr><td>29</td><td>24.69</td><td>1296</td><td>1294.9</td><td></td><td>1118.5, 881.4</td><td></td><td> Senegose K</td></tr><tr><td>30</td><td>25.48</td><td>1308</td><td>1306.8</td><td></td><td>964.7</td><td></td><td>Reinioside Ba</td></tr><tr><td>31</td><td>26.07</td><td>1338</td><td>1336.8</td><td></td><td></td><td></td><td>Tenuifoliose Ba</td></tr><tr><td>32</td><td>26.38</td><td>1350</td><td>1348.9</td><td></td><td>1308.4, 1250.1</td><td></td><td>Polygalasaponin XXXV</td></tr><tr><td>33</td><td>26.47</td><td>1526</td><td>1525.2</td><td></td><td></td><td></td><td>Tenuifoliose Fa</td></tr><tr><td>34</td><td>26.99</td><td>1380</td><td>1379.0</td><td></td><td>1336.6, 390.8</td><td></td><td>Tenuifoliose A</td></tr><tr><td>35</td><td>39.91</td><td>1732</td><td>1731.2</td><td></td><td>1587.8, 425.4</td><td></td><td>Onjisaponin W</td></tr><tr><td>36</td><td>47.40</td><td>316</td><td>314.9</td><td></td><td>214.4, 116.8</td><td></td><td>1,2,3,7-Tetramethoxyxanthone</td></tr></table></body></html>",
+        "page_idx": 19
+    },
+    {
+        "type": "table",
+        "img_path": "images/656426ec725869782085ad0ff4e4174138111600ac112144479cb33453e39fe4.jpg",
+        "table_caption": [
+            "[able 2. Volatile metabolites occurred in hexane/acetone extract of $P .$ tenuifolia root determined by GC-MS. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>No.</td><td>Retention time (min)</td><td>Chemicals</td></tr><tr><td>1</td><td>5.86</td><td>isobutonol</td></tr><tr><td>2</td><td>6.55</td><td>2-ethoxyethyl acetate</td></tr><tr><td>3</td><td>9.10</td><td>2,2',5,5'-tetrahydro-2,2'-bifuran</td></tr><tr><td>4</td><td>10.95</td><td>octyl-3-ol</td></tr><tr><td>5</td><td>11.44</td><td>phenol</td></tr><tr><td>6</td><td>12.02</td><td>propanedioic acid</td></tr><tr><td>7</td><td>12.29</td><td>4-oxo-pentanoic acid</td></tr><tr><td>8</td><td>12.71</td><td>o-cymene</td></tr><tr><td>9</td><td>13.00</td><td>benzenamine</td></tr><tr><td>10</td><td>13.98</td><td> 5-ethyl-m-xylene</td></tr><tr><td>11</td><td>14.16</td><td>1,2,3,4-tetramethyl-benzene</td></tr><tr><td>12</td><td>15.19</td><td>2,3-dihydroxyl-propanoic acid</td></tr><tr><td>13</td><td>22.11</td><td>2-benzyl-1,3-dioxolane</td></tr><tr><td>14</td><td>24.72</td><td>decanoic acid</td></tr><tr><td>15</td><td>31.08</td><td>2-hydroxyl benzoic acid</td></tr><tr><td>16</td><td>34.89</td><td>2,3-dimethyl-3-hydroxyglutaric acid</td></tr><tr><td>17</td><td>38.35</td><td>9H-carbazole</td></tr><tr><td>18</td><td>41.56</td><td>undecanedioic acid</td></tr><tr><td>19</td><td>42.58</td><td>cinoxate</td></tr><tr><td>20</td><td>43.89</td><td>2,5-dihydroxy-3,6-bis(hydroxymethyl)-1,4-dioxane</td></tr><tr><td>21</td><td>48.41</td><td>palmitelaidic acid</td></tr><tr><td>22</td><td>49.29</td><td>hexadecanoic acid</td></tr></table></body></html>",
+        "page_idx": 20
+    },
+    {
+        "type": "table",
+        "img_path": "images/66d3ff82bda8838ccaba869af3548b4aac06eb28ad61d0a61fa40debff0883e6.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>23</td><td></td><td>9-octadecenoic acid, methyl ester</td></tr><tr><td>24</td><td>50.87 54.34</td><td>9,12-octadecadienoic acid</td></tr><tr><td>25</td><td></td><td></td></tr><tr><td></td><td>54.52</td><td>oleic acid</td></tr><tr><td>26 27</td><td>55.06</td><td>stearic acid</td></tr><tr><td>28</td><td>59.62</td><td>11-eicosenoic acid</td></tr><tr><td>29</td><td>60.29</td><td>eicosanoic acid</td></tr><tr><td>30</td><td>63.12</td><td>isooctyl phthalate</td></tr><tr><td>31</td><td>65.22</td><td>tetracosanoic acid</td></tr><tr><td>32</td><td>66.68</td><td>thymol-glucoside</td></tr><tr><td>33</td><td>68.38</td><td>eicosanoic acid,2-glycerol ester</td></tr><tr><td>34</td><td>69.82 89.42</td><td>squalene 22,23-dibromostigmasterol acetate</td></tr></table></body></html>",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Figure 1. UPLC-MS and GC-MS profiles of $P .$ tenuifolia root. A， total ion chromatogram analysed by UPLC-MS；B， total ion chromatogram analysed by GC-MS. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Figure 2. Structures of characteristic metabolites in $P .$ tenuifolia root. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Figure 3.Plots of PCA on semi-polar and volatile metabolites of $P .$ tenuifolia root. Loading plot (A) and score plot (A) are the results of semi-polar metabolites; Loading plot (B) and score plot(B) are the results of volatile metabolites. ",
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/a0e0c440cc5bc90da652058608abbe0405ba1dd8b23b0668e9c1cad1523106b7.jpg",
+        "img_caption": [
+            "Figure 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 23
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c4b9d5adcac433ecb31a96cde33b3ca575dc02e0d259feadde358c3ccb9caeb.jpg",
+        "img_caption": [
+            "1,2,3,7-Tetramethoxyxanthone ",
+            "Figure 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/c2b9553347da23d35d51f98025f42acc759b24e6a4b89ec4974c96ef3a5cd864.jpg",
+        "img_caption": [
+            "Figure 3 "
+        ],
+        "img_footnote": [],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/64859039bf1dd1dcfdbf4dfbf83d6bd8dfaea8eec7208e531c36fb17d890c729.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 26
+    }
+]

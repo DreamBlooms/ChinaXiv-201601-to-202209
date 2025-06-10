@@ -1,0 +1,322 @@
+[
+    {
+        "type": "text",
+        "text": "北豆根化学成分及其抗炎活性研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "任文静1,²，马艳1，蔡梅超1，王凤山³，李莉4，刘玉红 $^ { 1 , 2 , 4 ^ { * } }$ （1.山东中医药大学药学院，济南250355;2.澳门科技大学中药质量研究国家重点实验室，澳门999078；3.国家药品监督管理局糖药物质量研究与评价重点实验室，国家糖工程技术研究中心，山东大学药学院，济南 250012；4．泗水泗河源文化旅游开发有限责任公司，山东 济宁272000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：北豆根，防己科蝙蝠葛(Menispermum dauricum)的干燥根茎，是重要的中药材。为了阐明北豆根药效物质基础，为药用植物资源的合理利用提供有效的参考，对其甲醇浸提物进行系统分离和结构鉴定，并对其化学成分进行体外抗炎活性筛选。该研究利用硅胶柱层析、大孔吸附树脂及高压制备HPLC 等色谱技术对北豆根化学成分进行系统分离，采用NMR等波谱技术对化合物进行结构鉴定，并通过测定化合物对脂多糖（LPS）诱导的巨噬细胞RAW264.7释放 NO和IL-6炎症因子的含量评价其抗炎活性。结果表明：（1）从北豆根甲醇提取物中分离鉴定了15个化合物分别鉴定为对羟基苯甲醛（1）、香草酸（2）、丁香醛（3）、2-羟基-1-（4-羟基-3,5-二甲氧基苯基）-1-丙酮（4）、对羟基苯乙酸甲酯（5）、2-（4-羟苯基）-硝基乙烷（6）、对羟基苯乙腈（7）、邻苯二甲酸二丁酯（8）、fragransin $\\mathbf { B } _ { 2 }$ （9）、7-hydroxy-3,6-dimethoxy-1,4-phenanthraquinone（10）、棕榈酸（11）、花生酸（12）、 $\\beta$ 谷甾醇（13）、$\\beta$ -豆甾醇（14）、胡萝卜苷（15）。其中，化合物4-7、9、12为首次从防己科植物中分离得到，化合物1、3-11、14为首次从蝙蝠葛属中分离得到。上述化合物包括苯酚类、木脂素类、菲醌类、脂肪酸类及甾醇类，极大丰富了北豆根的化学多样性。（2）化合物12在25 和 ${ 5 0 \\mu \\mathrm { g } \\cdot \\mathrm { m L } ^ { - 1 } }$ 浓度下可以显著抑制LPS 诱导的RAW264.7细胞NO 和IL-6的释放，具有潜在的抗炎作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：防己科，北豆根，化学成分，结构鉴定，抗炎活性中图分类号：Q946 文献标志码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chemical constituents of rhizome of Menispermum dauricum DC. ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "and their anti-inflammatory activities ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "REN Wen-jing1,2， MA Yan1， CAI Mei-chaol，WANG Feng-shan³，LI Li4， LIU Yu-hongl,2,4\\*   \n(1.School ofPharmaceutical Sciences,Shandong University of Traditional Chinese Medicine, Jinan 250355, China; 2. State Key Laboratory of Quality Research in Chinese Medicine, Macau University of Science and Technology, Macau 999078, China; 3. NMPA Key Laboratory for Quality Research and Evaluation of Carbohydrate-based Medicine, National Glycoengineering Research Center, School of Pharmaceutical Sciences, Shandong University, Jinan 25o012 China; 4. Sishui Siheyuan Culture and Tourism Development Company, Ltd., Sisui 27320o, Shandong, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Bei-dou-gen, the rhizome of Menispermum dauricum. from the Menispermaceae family,is animportant Chinese medicinal material. In order to provide an efective reference for the study on the基金项目：山东省自然科学基金（ZR2019MH082）；山东省中医药科技发展计划项目（2019-0024）；泰山产业领军人才工程专项(tscy20200410)；国家药品监督管理局糖药物质量研究与评价重点实验室开放课题（2021QRECM02）[NaturalScience Foundation of Shandong Province (Z2019MH082)；Technology Development Program of TCM of ShandongProvince (2019-0024)；Taishan Industry Leading Talents Project (202103)；Open Projects Fund of NMPA KeyLaboratory for Quality Research and Evaluation of Carbohydrate-based Medicine (2021QRECM02)]。作者简介：任文静（1995-），博士研究生，研究方向为中药化学成分与活性研究，(E-mai1）1362402241@qq.com。\\*通信作者：刘玉红，博士，教授，研究方向为天然药物化学成分与活性研究,(E-mail）yhliu@sdutcm.edu.cn。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "pharmacological substance basis and the rational utilization of medicinal plant resources,the methanol extract ofthe rhizome of M. dauricum was systematically isolated and purified using various chromatographic methods and the structures of isolated compounds were identified.And thre potential anti-inflammatory effct of obtained compounds from $M .$ dauricum DC.was messured in vitro. In this study, the chemical constituents were separated via silica gel column chromatography, macroporous adsorption resin,and preparative HPLC and their structures were determined on the basis of MS, $\\mathrm { ^ { 1 } H }$ NMR, $^ { 1 3 } \\mathrm { C }$ NMR,and other spectroscopic data analysis,as well as comparison with relevant literatures.Meanwhile,the anti-inflammatory activities of against NO and IL-6 production from LPS-stimulated RAW264.7 cels of the chemical components were evaluated in vitro.The results were as folows: (1)Fifteen compounds were isolated from the rhizome of Menispermum dauricum DC., and identifiedas $p$ -hydroxybenzaldehyde(1)，vanilicacid (2)，syringaldehyde (3), 2-hydroxy-1-(4-hydroxy-3,5-dimethoxyphenyl)-1-propanone(4)，methyl4-hydroxyphenylacetate (5), 2-(4-hydroxyphenyl)-1-nitroethane (6), 4-hydroxyphenylacetonitrile (7), dibutyl phthalate (8), fragransin $\\mathbf { B } _ { 2 } \\left( \\mathbf { 9 } \\right)$ ， 7-hydroxy-3,6-dimethoxy-1,4-phenanthraquinone (10), palmitic acid (11), arachidic acid (12), $\\beta$ -sitosterol (13), $\\beta$ -stigmasterol (14)，and daucosterol (15).Among them，compounds 4-7,9,and 12 were isolated from Menispermaceae for the first time, while compounds 1,3-11,and 14 were first reported from Menispermum genus.The above compounds were all non-alkaloids components,including phenols,lignans,phenoquiones, fatty acids,and sterols, which enlarged the types of compounds and enriched the phytochemical information of the rhizome of $M .$ dauricum DC. (2) Anti-inflammatory assays in vitro showed that compound 12 could significantly inhibited releases of NO and IL-6 induced by LPS from RAW 264.7cels at the concentrations of 25 and ${ 5 0 \\mu \\mathrm { g } \\cdot \\mathrm { m L } ^ { - 1 } }$ , indicating potential anti-inflammatory effect. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Menispermaceae， Menispermum dauricum， chemical constituents， structure identification anti-inflammatory activity ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "北豆根系防己科蝙蝠葛属植物蝙蝠葛（Menispermumdauricum）的干燥根茎，原名为蝙蝠葛根（喻瑛瑛等，2019a）。主产于东北、华北、河北、山东、四川及陕西等地。北豆根气微、味苦、寒，有小毒，具有清热解毒、祛风止痛功效，在民间广泛用于治疗肠炎，痢疾，风湿病和支气管炎等炎性疾病。目前已开发上市的北豆根总碱片，北豆根胶囊，复方北豆根氨酚那敏片及北豆根注射液等已在临床广泛应用于扁桃体炎、牙龈肿痛、咽喉肿痛等疾病的治疗，除此以外，还有气雾剂、滴丸及复方制剂也普遍应用于临床（苏慧等，2015）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "北豆根在我国资源丰富，分布广泛，为药材资源的开发和临床应用提供了坚实的基础。目前的研究多集中于北豆根提取物或酚性碱，具有抗炎、抗菌、抗肿瘤、抗脑缺血、免疫调节等药理作用（喻瑛瑛等，2019b；邵佳等，2019），然而，蝙蝠葛碱、青藤碱等生物碱成分具有肾毒性和肝毒性，但其体内毒性过程、作用特点、作用机制尚不完全明确（孙蓉和王晨，2009），因此，寻找具有良好活性的非生物碱类成分是必要的。为了丰富北豆根化学成分信息，更全面地阐明北豆根药效物质基础，也为了临床的安全用药及合理的开发植物资源，本研究以北豆根为研究对象，依托药学研究平台，采用现代色谱分离手段、现代波谱学技术和现代药理学方法，拟探讨以下问题：（1）北豆根甲醇提取物的化学成分；（2)分离得到的部分化合物的体外抗炎活性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与仪器",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 药材 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验用北豆根药材于2018年10月购自百味堂中药饮片科技有限公司（产地山东，批号：180506），经山东中医药大学李佳教授鉴定为防己科蝙蝠葛属植物蝙蝠葛的干燥根茎，药材标本保存于山东中医药大学天然药物实验室。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2仪器与试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Bruker AV-400（ $6 0 0 \\mathrm { M H z }$ ）核磁共振波谱仪（德国 Bruker公司）；6540UHDQ-TOF-MS 液相色谱质谱联用仪（美国安捷伦公司）；Agilent1290 型高效液相色谱仪（美国安捷伦公司）；艾杰尔FL-H050G高压压液相制备色谱仪，InnovalODS-2制备柱（ $1 0 \\mathrm { m m } \\times 2 5 0 \\mathrm { m m }$ ， $5 \\mu \\mathrm { m }$ ）（天津博纳艾杰尔科技有限公司）；AB-8型大孔吸附树脂（上海源叶生物科技有限公司）；Sarto-rius BP211D 型电子天平（德国赛托利斯集团）；柱层析硅胶、薄层层析硅胶（青岛海洋化工厂）；氘代试剂（萨恩化学技术有限公司)；NO 和IL-6试剂盒（上海酶联生物科技有限公司）；小鼠巨噬细胞RAW264.7（北纳创联生物科技有限公司，BNCC101020）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 实验方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1提取与分离",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将 $9 . 2 \\mathrm { k g }$ 的北豆根药材粉碎成粗粉后，10倍量甲醇冷浸2次，每次 $1 5 { \\mathrm { d } }$ 。浸提液减压浓缩，得浸膏约 $7 0 0 . 0 \\mathrm { g }$ ，加适量蒸馏水悬浮，依次用正己烷（ $4 . 5 \\mathrm { L }$ ）、乙酸乙酯（ $\\mathsf { 4 . 0 L } \\mathrm { \\cdot }$ ）、正丁醇（3.5L）进行萃取，各级萃取液减压浓缩分别得正己烷部位 $4 9 . 8 \\ \\mathrm { g }$ 、乙酸乙酯部位 $2 3 . 7 \\ \\mathrm { g }$ 、正丁醇部位 $ { 1 2 4 . 7 ~ \\mathrm { g } }$ 和水部位417.8 g。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取正己烷部位浸膏 $4 0 . 0 \\ \\mathrm { g }$ ，经正相硅胶柱色谱，采用正已烷-乙酸乙酯流动相（1:0，50:1，20:1，10:1，5:1，1:1，1:4，0:1，v/v）进行梯度洗脱。收集的流分经TLC 检识，合并得12个组分Fr.A-K。化合物12 ( $9 . 8 3 \\mathrm { m g }$ ）经过甲醇反复重结晶从Fr.C（ $\\cdot 3 . 0 \\ \\mathrm { g }$ ）中获得。Fr.E $( 3 . 0 ~ \\mathrm { g }$ ）经过硅胶柱色谱，以二氯甲烷-甲醇系统（200:1，150:1，100:1，50:1，20:1，20:1，0:1， $\\mathbf { v } / \\mathbf { v } )$ ）梯度洗脱得到Fr.E1-E17。Fr.E6经甲醇重结晶得到化合物13（ $4 0 . 1 8 \\mathrm { m g } \\cdot$ ）和14（ $4 0 . 1 8 \\mathrm { m g }$ ）。Fr.H $( 3 . 5 \\mathrm { g }$ ）经硅胶柱层析，以石油醚-乙酸乙酯系统（1:0，50:1，20:1，10:1，5:171，1:1，0:1， $\\textbf { v } / \\textbf { v }$ ）梯度洗脱得到Fr.H1-H20。Fr.H9 经高压反相色谱法， $45 \\%$ 甲醇-水系统等度洗脱得化合物11（ $1 9 . 6 5 \\mathrm { m g }$ ， $t _ { \\mathrm { R } } = 1 6 . 0 \\ \\mathrm { m i n }$ ）。Fr.I $\\mathrm { \\langle 0 . 7 g }$ ）通过正相硅胶柱色谱，采用二氯甲烷-甲醇系统（200:1，150:1，100:1，50:1，20:1，10:1，0:1， $\\mathbf { v } / \\mathbf { v } )$ ）梯度洗脱得到 Fr.I1-I17。Fr.I10 中析出白色片状固体经甲醇反复重结晶得到15（ $1 5 . 1 2 \\mathrm { m g }$ ）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取乙酸乙酯部位浸膏 $2 0 . 0 \\ \\mathrm { g }$ 进行硅胶柱色谱纯化，用二氯甲烷-甲醇系统（1:0，50:1，30:1，15:1，10:1，0:1，v/v）梯度洗脱，TLC检识，合并流分得Fr.L-Q。Fr.N $( 2 . 4 ~ \\mathrm { g } )$ ）通过高压制备液相色谱（甲醇：水 $\\underline { { = 3 3 } } \\colon 6 7  { \\mathrm { ~ \\AA ~ } }$ ）分离纯化得化合物5 $( 2 . 0 3 ~ \\mathrm { m g }$ ， $t _ { \\mathrm { R } } = 3 7 . 0 \\ \\mathrm { m i n } .$ 和6( $1 2 . 7 4 \\mathrm { m g }$ ， $t _ { \\mathrm { R } } = 2 2 . 0 \\ \\mathrm { m i n }$ ）。Fr.O(12.4g）经硅胶柱以二氯甲烷-甲醇系统（1:0，100:1，80:1，50:1，40:1，30:1，0:1，v/v）梯度洗脱得 Fr.O1-9。Fr. O2 $( 0 . 3 \\ \\mathrm { g } )$ )通过高压制备液相色谱， $3 5 \\%$ 甲醇-水系统等度洗脱获得化合物1 $( 2 . 0 5 \\mathrm { m g }$ ， $t _ { \\mathrm { R } } = 2 6 . 0 \\ \\mathrm { m i n } ,$ )’3( $1 . 9 1 \\mathrm { m g }$ ， $t _ { \\mathrm { R } } = 3 0 . 0 \\ \\mathrm { m i n } ,$ ），7( $1 . 8 7 \\mathrm { m g }$ ， $t _ { \\mathrm { R } } = 1 0 . 0 \\ \\mathrm { m i n }$ ）以及 $60 \\%$ 甲醇-水等度洗脱获得10（ $1 . 6 3 \\mathrm { m g }$ ，$t _ { \\mathrm { R } } = 3 5 . 0 \\ \\mathrm { m i n }$ ）。经压反相色谱法（甲醇：水 $= 2 3 { : } 7 7$ ）从Fr.O3（ $0 . 4 { \\mathrm { ~ g } } { \\dot { } }$ ）中分离出化合物2（ $1 6 . 7 2 \\mathrm { m g }$ ， $t _ { \\mathrm { R } }$ （20$= 2 7 . 5 \\mathrm { m i n }$ ）和4（ $\\mathrm { . 1 . 0 1 \\ m g }$ ， $t _ { \\mathrm { R } } = 3 5 . 9 \\ : \\mathrm { m i n }$ ）。化合物9（ $2 . 7 6 \\mathrm { m g }$ ， $t _ { \\mathrm { R } } = 1 2 . 0 \\ \\mathrm { m i n }$ ）通过高压制备液相（甲醇：水 $= 7 0 { : } 3 0$ ）在Fr.O4（ $0 . 6 \\ \\mathrm { g }$ ）中获得。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取正丁醇部位浸膏 $9 0 . 0 \\ \\mathrm { g }$ ，经AB-8型大孔吸附树脂（ $10 \\%$ ， $30 \\%$ ， $50 \\%$ ， $70 \\%$ ， $90 \\%$ 乙醇依次洗脱至接近无色）收集流分，减压浓缩得Fr.R-V。Fr.V（ $0 . 6 \\ \\mathrm { g }$ ）经高压制备液相色谱（甲醇：水 $= 7 7 { : } 2 3$ ）纯化获得化合物8（ $3 . 3 5 \\mathrm { m g }$ ， $t _ { \\mathrm { R } } = 3 4 . 0 \\ \\mathrm { m i n }$ ）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2体外抗炎活性测试 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将RAW264.7细胞以 $1 \\times 1 0 ^ { 5 }$ 个 $\\mathbf { \\cdot m L ^ { - 1 } }$ 密度接种于96孔板中，每孔 $1 0 0 \\mu \\mathrm { L }$ ，培养 $2 4 \\mathrm { h }$ ，加入含药培养基。实验组别设置为:正常组（不做处理），模型组，阳性对照组（25 和 ${ 5 0 \\mu \\mathrm { g } \\cdot \\mathrm { m L } ^ { - 1 } }$ 槲皮素）和样品组(25和 ${ 5 0 \\mu \\mathrm { g } \\cdot \\mathrm { m L } ^ { - 1 } }$ 不同化合物）每组5个复孔。正常组和模型组加入不含药培养基，药物组加入含药培养基，孵育细胞 $^ { \\textrm { 1 h } }$ 后除正常组外其他各组均加入LPS 使其终浓度为 $0 . 1 ~ \\mu \\mathrm { g } { \\cdot } \\mathrm { m L } ^ { - 1 }$ ，继续孵育细胞 $2 4 \\mathrm { h }$ 收集细胞上清液，离心取上清，按照试剂盒说明书检测（陈千，2020）NO和IL-6。同一批次的细胞采用 MTT 法对细胞活力进行测定。抑制率 $( \\% ) = ( \\mathrm { O D \\ } _ { \\tt I E \\ \" \\ \" \\exists : \\forall I B \\it { 4 } \\mathrm { { H } } } - \\mathrm { O D \\ } _ { \\tt I \\Psi \\Psi \\Psi \\Psi } )$ /(OD 正常对照组—OD 空自组) $\\times 1 0 0 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1结构鉴定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "化合物1：无色结晶（丙酮）。m.p.113-114℃。 $\\mathrm { C } _ { 7 } \\mathrm { H } _ { 6 } \\mathrm { O } _ { 2 }$ ，ESI-MS $m / z$ ： $\\left[ \\mathrm { M } - \\mathrm { H } \\right] ^ { - } 1 2 1 . 0$ 。H-NMR0 ${ \\bf \\zeta }  6 0 0 \\mathrm { M H z }$ ， $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ）δ:δ9.76（1H，s，H-7），7.78（2H，d， $J { = } 8 . 5 \\operatorname { H z }$ ，H-2，6），6.91（2H，d,$J { = } 9 . 0 \\mathrm { H z }$ ，H-3，5）； $^ { 1 3 } \\mathrm { C } .$ -NMR（ $1 5 0 \\mathrm { M H z }$ ， $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ） $\\delta$ : 130.5（C-1），133.6（C-2，6），117.0（C-3,5），165.4（C-4），193.0（C-7）。以上数据与文献（张春花等，2020）对照基本一致，故鉴定为对羟基苯甲醛。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物2：浅粉色无定型粉末（甲醇）。m.p. $1 9 8 - 2 0 0 \\mathrm { ~ \\textdegree ~ }$ 。 $\\mathrm { C _ { 8 } H _ { 8 } O _ { 4 } }$ ，ESI-MS $m / z$ : 169.1 $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ 。$^ 1 \\mathrm { H }$ -NMR（ ${ 6 0 0 } \\mathrm { M H z }$ ， $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ）δ：7.55（1H，brs，H-6），7.54（1H，d， $J { = } 1 . 9 \\operatorname { H z }$ ，H-2），6.83（1H,d， $J { = } 8 . 4 \\mathrm { H z }$ ，H-5），3.82（3H，s， $\\mathrm { \\Delta O C H _ { 3 } - 1 }$ ）。 $^ { 1 3 } \\mathrm { C }$ -NMR（ $1 5 0 \\mathrm { M H z }$ ， $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ） $\\delta$ ：122.5（C-1），113.9(C-2），152.7（C-3），148.8（C-4），16.0（C-5），125.4（C-6），170.5（CO0H），56.5（ $\\mathrm { O C H } _ { 3 }$ -1)。以上数据与文献（何康等，2021）对照基本一致，故鉴定为香草酸。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物3：无色晶体（氯仿）。m.p.110-112℃。 $\\mathrm { { C } _ { 9 } \\mathrm { { H } _ { 1 0 } \\mathrm { { O } _ { 4 } } } }$ ，ESI-MS $m / z$ : 183.1 $[ \\mathrm { M } + \\mathrm { H } ] ^ { + }$ 。 $^ 1 \\mathrm { H }$ -NMR0 ${ \\bf \\backslash } 6 0 0 { \\bf M H z }$ ， $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ）δ:9.74（1H，s，H-7），7.23（2H，s，H-2，6），3.92（6H，s， $\\mathrm { O C H } _ { 3 }$ -3，5）。$^ { 1 3 } \\mathrm { C }$ -NMR（ $1 5 0 \\mathrm { M H z }$ ， $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ） $\\delta$ :129.0（C-1），108.3（C-2，6），149.7（C-3，5），140.9（C-4），193.0（C-7），56.9（ $\\mathrm { O C H } _ { 3 ^ { - 3 } }$ ，5）。以上数据与文献（张春花等，2020）对照基本一致，故鉴定为丁香醛。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物4:白色无定型粉末（甲醇）。m.p.126-127℃。 $\\mathrm { C } _ { 7 } \\mathrm { H } _ { 6 } \\mathrm { O } _ { 2 }$ ，ESI-MS $m / z$ $1 2 1 . 0 \\left[ \\mathrm { M } - \\mathrm { H } \\right] ^ { - }$ 。 $^ 1 \\mathrm { H }$ -NMR0 ${ \\bf \\zeta }  6 0 0 \\mathrm { M H z }$ ， $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ）δ:7.32（2H，s，H-2,6），5.19（1H，q, $J { = } 6 . 9 \\operatorname { H z }$ ，H-8），3.90（6H，s, $\\mathrm { O C H } _ { 3 ^ { - } } 3$ ，5），1.49（3H，d, $J { = } 6 . 9 \\operatorname { H z }$ ， $\\mathrm { C H } _ { 3 ^ { - } } 8$ ）。 $^ { 1 3 } \\mathrm { C }$ -NMR（ $1 5 0 \\mathrm { M H z }$ ， $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ） $\\delta$ : 126.3（C-1），107.8（C-2,6），149.3（C-3，5），143.2（C-4），202.1（C-7），70.2（C-8），57.1（ $\\mathrm { O C H } _ { 3 }$ -3，5），22.2（ $\\mathrm { C H } _ { 3 }$ -8）。以上数据与文献（谛慧慧等，2015）对照基本一致，故鉴定为2-羟基-1-（4-羟基-3,5-二甲氧基苯基)-1-丙酮。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物5：淡黄色粉末（氯仿）。1 $\\mathrm { n . p . 1 1 9 - 1 } 2 0 \\ \\mathrm { ^ { \\circ } C }$ 。 $\\mathrm { C } _ { 9 } \\mathrm { H } _ { 1 0 } \\mathrm { O } _ { 3 }$ ，ESI-MS $m / z$ ： $1 6 7 . 0 [ \\mathrm { M } + \\mathrm { H } ] ^ { + }$ 。 $^ 1 \\mathrm { H }$ -NMR1 ${ \\bf \\backslash } 6 0 0 { \\bf M H z }$ ， $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ） $\\delta$ ：7.16（2H，d， $J { = } 8 . 4 \\ : \\mathrm { H z }$ ，H-2，6），6.72（2H，d， $J { = } 8 . 4 \\ : \\mathrm { H z }$ ，H-3，5），3.66（3H，s， $\\mathrm { O C H } _ { 3 } – 8$ ），3.52（2H，s，H-7）。 $^ { 1 3 } \\mathrm { C }$ -NMR（ $1 5 0 \\mathrm { M H z }$ ， $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ） $\\delta$ : 126.4（C-1），131.4(C-2，6），116.4（C-3，5），157.4（C-4），40.9（C-7），174.6（C-8），52.5（ $\\mathrm { O C H } _ { 3 ^ { - } } \\ S$ 3）。以上数据与文献（莫胡青等，2020）对照基本一致，故鉴定为对羟基苯乙酸甲酯。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物6：黄色油状物（氯仿）。m.p.107-108℃。 $\\mathrm { C } _ { 8 } \\mathrm { H } _ { 9 } \\mathrm { O } _ { 3 } \\mathrm { N }$ ，ESI-MS $m / z$ : 166.1 $\\left[ \\mathrm { M } \\cdot \\mathrm { H } \\right] ^ { - }$ 。 $^ 1 \\mathrm { H }$ -NMR0 ${ \\bf \\backslash } 6 0 0 { \\bf M H z }$ ， $\\mathrm { C D C l } _ { 3 }$ ） $\\delta$ ：7.05（2H，d， $J { = } 8 . 4 \\ : \\mathrm { H z }$ ,H-2，6），6.77（2H，d， $J { = } 8 . 4 \\ : \\mathrm { H z }$ ，H-3，5），4.55（2H，t， $J { = } 7 . 4 \\ : \\mathrm { H z }$ ，H-8），3.21（2H，t， $J { = } 7 . 4 \\ : \\mathrm { H z }$ ，H-7）。 $^ { 1 3 } \\mathrm { C }$ -NMR（ $1 5 0 \\mathrm { M H z }$ ， $\\mathrm { C D C l } _ { 3 }$ ） $\\delta$ : 128.0（C-1），130.1（C-2，6），116.0（C-3，5），155.1（C-4），32.9（C-7），76.8（C-8）。以上数据与文献（孙彦君等，2012）对照基本一致，故鉴定为2-（4-羟苯基）-硝基乙烷。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物7：白色粉末（甲醇）。m.p.66-67℃。 $\\mathrm { C 8 H 7 O N }$ ，ESI-MS m/z: 134.1 $[ \\mathrm { M } + \\mathrm { H } ] ^ { + }$ 。 $^ 1 \\mathrm { H }$ -NMR（600MHz, $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ） $\\delta$ ：7.15（2H，d， $J { = } 8 . 4 \\ : \\mathrm { H z }$ ，H-3，5），6.78（2H，d， $J { = } 9 . 0 \\mathrm { H z }$ ，H-2，6），3.75（2H,s，H-7）； $^ { 1 3 } \\mathrm { C }$ -NMR（ $1 5 0 \\mathrm { M H z }$ ， $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ） $\\delta$ :158.5（C-1），116.9（C-2，6），130.4（C-3，5），120.3（C-4），22.8（C-7），122.9（C-8）。以上数据与文献（张普照等，2016）对照基本一致，故鉴定为对羟基苯乙腈。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物8：无色油状物（甲醇）。m.p. $1 4 9 - 1 5 0 \\ \\mathrm { ^ circ C }$ 。 $\\mathrm { C _ { 1 6 } H _ { 2 2 } O _ { 4 } }$ ，ESI-MS m/z: 279.1 $[ \\mathrm { M } + \\mathrm { H } ] ^ { + }$ 。 $^ 1 \\mathrm { H }$ -NMR0 ${ \\bf \\zeta }  6 0 0 \\mathrm { M H z }$ ， $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ） $\\delta$ ：7.72（2H，dd， $J { = } 5 . 7$ ， $3 . 3 \\ : \\mathrm { H z }$ ，H-3，6），7.61（2H，dd， $J { = } 5 . 7$ ， $3 . 3 \\mathrm { H z }$ ，H-4，5），4.29（4H，t， $J { = } 6 . 6 \\mathrm { H z }$ ，H-8，8'），1.71（4H，m，H-9，9'），1.45（4H， $\\mathrm { ~ m ~ }$ ，H-10，10'),0.98（6H，t， $J { = } 7 . 4 \\ : \\mathrm { H z }$ ，H-11，11）。 $^ { 1 3 } \\mathrm { C }$ -NMR（ $1 5 0 \\mathrm { M H z }$ ， $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ） $\\delta$ : 133.7（C-1，2），130.0（C-3,6），132.5（C-4，5），169.5（C-7，7'），66.8（C-8，8'），31.9（C-9，9'），20.4（C-10，10'），14.2（C-11，11'）。以上数据与文献（莫胡青等，2020）对照基本一致，故鉴定为邻苯二甲酸二丁酯。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物9：白色无定型粉末（氯仿）。m.p.153-155℃。 $\\mathrm { C _ { 1 1 } H _ { 1 4 } O _ { 5 } }$ ，ESI-MS $m / z$ ： $2 2 7 . 2 \\ : [ \\mathrm { M } + \\mathrm { H } ] ^ { + } .$ 9  \n$^ 1 \\mathrm { H }$ -NMR（ ${ \\bf \\Gamma } _ { 6 0 0 } \\bf { M H z }$ ， $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ）δ: 6.69 （ $2 \\mathrm { H }$ ，br s，H-2, $2 ^ { \\prime }$ ，6， $6 ^ { \\prime }$ ），4.64（ $\\mathrm { 1 H }$ ， $\\mathbf { m }$ ，H-7， $7 ^ { \\prime }$ ），3.86",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(6H，s, $\\mathrm { O C H } _ { 3 } .$ 3， $3 ^ { \\prime }$ ，5， $5 ^ { \\prime }$ ），1.82（1H，m，H-8， $8 ^ { \\prime }$ ），1.04（ $6 \\mathrm { H }$ ，d， $J { = } 6 . 0 \\mathrm { H z }$ ，C-9, $9 ^ { \\prime }$ ）。 $^ { 1 3 } \\mathrm { C }$ -NMR（ $1 5 0 \\mathrm { M H z }$ ， $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ） $\\delta$ ：134.0（C-1，1'），104.9（C-2， $2 ^ { \\prime }$ ，6， $6 ^ { \\prime }$ ），149.3（C-3， $3 ^ { \\prime }$ ，5， $5 ^ { \\prime }$ ），136.3（C-4， $4 ^ { \\prime }$ ），90.4（C-7， $7 ^ { \\prime }$ ），52.1（C-8， $8 ^ { \\prime }$ ），56.8（ $\\mathrm { O C H } _ { 3 } .$ -3， $3 ^ { \\prime }$ ，5， $5 ^ { \\prime }$ ），14.0（C-9， $9 ^ { \\prime }$ ）。以上数据与文献（李小珍等,2017）对照基本一致，故鉴定为fragransin $\\mathbf { B } _ { 2 }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物10：红棕色针形晶体（甲醇）。m.p.243-244℃。 $\\mathrm { C _ { 1 6 } H _ { 1 2 } O _ { 5 } }$ ，ESI-MS $m / z$ : 285.0 $[ \\mathrm { M } + \\mathrm { H } ] ^ { + }$ 。$^ 1 \\mathrm { H }$ -NMR（ ${ 6 0 0 } \\mathrm { M H z }$ ， $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ）δ:9.04（1H，s，H-5），8.00（1H，d， $J { = } 8 . 4 \\ : \\mathrm { H z }$ ，H-9），7.93（1H,d， $J { = } 8 . 4 \\ : \\mathrm { H z }$ ，H-10），7.23（1H，s，H-8），6.05（1H，s，H-2），4.05（3H，s，OCH3-6），3.87（3H,s， $\\mathrm { O C H } _ { 3 ^ { - 3 } }$ ）。 $^ { 1 3 } \\mathrm { C } .$ -NMR（ $1 5 0 \\mathrm { M H z }$ ， $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ） $\\delta$ ： 185.8（C-1），107.6（C-2），160.9（C-3），183.4(C-4），134.2（C-4a），126.4（C-4b），105.8（C-5），151.3（C-6），147.8（C-7），110.3（C-8），124.8（C-8a），134.1（C-9），121.1（C-10），131.3（C-10a)，56.8（ $\\mathrm { O C H } _ { 3 ^ { - 3 } }$ ），56.4（ ${ \\mathrm { O C H } } _ { 3 ^ { - } } 6$ ）。以上数据与文献（Zhangetal.，2004）对照基本一致，故鉴定为7-hydroxy-3,6-dimethoxy-1,4-phenanthraquinone。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物11：白色颗粒状结晶（氯仿-甲醇）。m.p $\\mathrm { ~ . ~ } 6 0 - 6 2 \\mathrm { ~ \\textdegree C }$ 。 $\\mathrm { C } _ { 1 6 } \\mathrm { H } _ { 3 2 } \\mathrm { O } _ { 2 }$ ，ESI-MS m/z: 255.2[M-H]。 $\\mathrm { ^ { 1 } H }$ -NMR（ $6 0 0 \\mathrm { M H z }$ ， $\\mathrm { C D C l } _ { 3 }$ ）δ:2.32（2H，t, $J { = } 7 . 5 \\operatorname { H z }$ ，H-2），1.61（2H，m，H-3），1.28（24H,m，H-4-15），0.86（3H，t， $J { = } 7 . 0 \\mathrm { H z }$ ，H-16）。 $^ { 1 3 } \\mathrm { C }$ -NMR（ $1 5 0 \\mathrm { M H z }$ ， $\\mathrm { C D C l } _ { 3 }$ ）δ: 34.2（C-1），24.9(C-2），29.3-29.9（C-3-12），32.2（C-13），22.0（C-14），14.3（C-15），179.9（ $\\scriptstyle { \\mathrm { C = O } }$ ）。以上数据与文献（张纪越等，2020）对照基本一致，故鉴定为棕榈酸。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物12：白色粉末（石油醚-乙酸乙酯）。m.p. $7 5 - 7 6 ^ { \\circ } \\mathrm { C }$ 。 $\\mathrm { C } _ { 2 0 } \\mathrm { H } _ { 4 0 } \\mathrm { O } _ { 2 }$ ，ESI-MS m/z: 311.2 [M-H]。 $^ 1 \\mathrm { H }$ -NMR（ ${ \\bf \\Gamma } _ { 6 0 0 } \\bf { M H z }$ ， $\\mathrm { C D C l } _ { 3 }$ ）δ:0.86（3H，t, $J { = } 7 . 0 \\mathrm { H z }$ ， $\\mathrm { C H } _ { 3 } – 2 0$ ），1.21-1.34（m，32H， $\\mathrm { C H } _ { 2 }$ -3-19)，1.61(2H, $\\mathbf { m }$ ， $\\mathrm { C H } _ { 2 ^ { - 3 } }$ ），2.35（2H，t, $J { = } 7 . 6 \\mathrm { H z }$ ， $\\mathrm { C H } _ { 2 ^ { - 2 } }$ ）。 $^ { 1 3 } \\mathrm { C }$ -NMR（ $1 5 0 \\mathrm { M H z } , \\mathrm { C D C l } _ { 3 }$ ）δ: 179.4(C-1),34.1（C-2），24.9（C-3），32.2（C-4），29.3-29.9（C-5-18），22.9（C-19），14.3（C-20）。以上数据与文献（Lietal.,2010）对照基本一致，故鉴定为花生酸。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物13：白色针晶（石油醚-乙酸乙酯）。 $10 \\%$ 硫酸-乙醇显紫红色。m.p.140-142℃。 $\\mathrm { C } _ { 2 9 } \\mathrm { H } _ { 5 0 } \\mathrm { O }$ ，ESI-MS m/z: $4 1 5 . 0 [ \\mathrm { M } + \\mathrm { H } ] ^ { + }$ 。 $^ 1 \\mathrm { H }$ -NMR（ ${ 6 0 0 } \\mathrm { M H z }$ ， $\\mathrm { C D C l } _ { 3 }$ ） $\\delta$ ：5.28（1H，m，H-6），3.45（1H，m,H-3），0.95（3H，d， $J { = } 6 . 7 \\ : \\mathrm { H z }$ ， $\\mathrm { C H } _ { 3 } – 2 1$ ），0.94（1H，s， $\\mathrm { C H } _ { 3 }$ -19），0.85（3H，d， $J { = } 6 . 7 \\ : \\mathrm { H z }$ ， $\\mathrm { C H } _ { 3 } { - } 2 6 \\$ )，0.76（3H，d， $J { = } 7 . 2 \\operatorname { H z }$ ， $\\mathrm { C H } _ { 3 } – 2 9$ ），0.74（3H，d， $J { = } 6 . 8 \\mathrm { H z }$ ， $\\mathrm { C H } _ { 3 } – 2 7$ ），0.61（3H，s， $\\mathrm { C H } _ { 3 ^ { - } } 1 8 \\$ ）。$^ { 1 3 } \\mathrm { C } .$ -NMR（ $1 5 0 \\mathrm { M H z }$ ， $\\mathrm { C D C l } _ { 3 }$ ）δ:37.5（C-1），31.9（C-2），72.0（C-3），42.5（C-4），141.0（C-5),122.0（C-6），32.1（C-7），32.1（C-8），50.3（C-9），36.7（C-10），21.3（C-11），40.0（C-12），42.5（C-13），57.0（C-14），24.5（C-15），28.5（C-16），56.2（C-17），12.1（C-18），19.6（C-19),36.4（C-20），19.0（C-21），34.2（C-22），26.3（C-23），46.1（C-24），29.4（C-25），20.0（C-26)，19.3（C-27），23.3（C-28），12.5（C-29）。以上数据与文献（惠昱昱等，2021）对照基本一致，故鉴定为 $\\beta \\mathrm { . }$ 谷甾醇。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物14：白色块状结晶（氯仿）。 $10 \\%$ 硫酸-乙醇显紫红色。m.p. $1 4 0 - 1 4 2 \\mathrm { ~ \\textdegree C }$ 。 $\\mathrm { C } _ { 2 9 } \\mathrm { H } _ { 4 8 } \\mathrm { O }$ ，ESI-MS$m / z$ ： $4 1 3 . 0 \\ : [ \\mathrm { M } + \\mathrm { H } ] ^ { + }$ 。 $^ 1 \\mathrm { H }$ -NMR（ ${ \\bf \\Gamma } _ { 6 0 0 } \\bf { M H z }$ ， $\\mathrm { C D C l } _ { 3 }$ ） $\\delta$ ：5.28（1H，m，H-6），5.08（1H，dd， $J = 1 5 . 2$ ，$8 . 7 \\ : \\mathrm { H z }$ ，H-22），4.95（1H，dd, $J = 1 5 . 2$ ， $8 . 8 \\mathrm { H z }$ ，H-23），3.45（1H，m，H-3），0.95（3H，d， $J { = } 6 . 7$ $\\mathrm { H z }$ ， $\\mathrm { C H } _ { 3 } – 2 1$ ），0.94（1H，s， $\\mathrm { C H } _ { 3 }$ -19），0.85（3H，d, $J { = } 6 . 7 \\ : \\mathrm { H z }$ ， $\\mathrm { C H } _ { 3 } { - } 2 6$ ），0.76（3H，d, $J { = } 7 . 2 \\operatorname { H z }$ ，$\\mathrm { C H } _ { 3 } – 2 9$ ），0.74（3H，d, $J { = } 6 . 8 \\mathrm { H z }$ ， $\\mathrm { C H } _ { 3 } – 2 7 .$ ），0.61（3H，s, $\\mathrm { C H } _ { 3 ^ { - } } 1 8$ ）。 $^ { 1 3 } \\mathrm { C }$ -NMR（ $1 5 0 \\mathrm { M H z }$ ，CDCl3)δ: 37.5（C-1），31.9（C-2），72.0（C-3），42.5（C-4），141.0（C-5），122.0（C-6），32.1（C-7),32.1（C-8），50.3（C-9），36.7（C-10），21.3（C-11），40.0（C-12），42.5（C-13），57.1（C-14），24.6（C-15），29.1（C-16），56.3（C-17），12.2（C-18），19.6（C-19），40.7（C-20），12.3（C-21)，138.6（C-22），129.5（C-23），51.5（C-24），32.1（C-25），21.4（C-26），19.3（C-27），25.6（C-28),12.5（C-29）。以上数据与文献（卢澄生等，2020）对照基本一致，故鉴定为 $\\beta \\mathrm { . }$ 豆甾醇。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物15：白色无定型粉末（丙酮）。 $10 \\%$ 硫酸-乙醇显紫色，Molish反应阳性。m.p.300-301℃。$\\mathrm { C } _ { 3 5 } \\mathrm { H } _ { 6 0 } \\mathrm { O } _ { 6 }$ ，ESI-MS $m / z$ ： $5 7 7 . 4 [ \\mathrm { M } + \\mathrm { H } ] ^ { + }$ 。 $^ 1 \\mathrm { H }$ -NMR（ $6 0 0 \\mathrm { M H z }$ ，DMSO）δ:5.33（1H，s，H-6），4.44（1H，t， $J { = } 5 . 8 \\mathrm { H z }$ ，H-1'），0.82（9H，m），0.66（3H，s）；1C-NMR（150 MHz，DMSO）δ:36.9(C-1），29.3（C-2），71.5（C-3），38.3（C-4），140.5（C-5），121.3（C-6），31.4（C-7），31.5(C-8），49.6（C-9），36.3（C-10），20.6（C-11），39.2（C-12），41.9（C-13），56.2（C-14），23.9(C-15），27.8（C-16），56.4（C-17），11.7（C-18），19.1（C-19），35.6（C-20），18.7（C-21），33.4（C-22），25.4（C-23），45.2（C-24），28.7（C-25），19.0（C-26），19.7（C-27），22.6（C-28)，11.8（C-29），Glc:100.8（C-1'），76.9（C-2'），76.8（C-3'），73.5（C-4'），70.1（C-5'），61.1（C-6')。以上数据与文献（惠昱昱等，2021）对照基本一致，故鉴定为胡萝卜苷。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/34663b10121a1da30dde05f219beb62d3bf35c834adc0e6b480540d2b00cffb2.jpg",
+        "img_caption": [
+            "图1化合物1-15的化学结构",
+            "Fig.1 Chemical structures of compounds 1-15 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/7b3f06f047fe7826c345d1cc99daea3c129bf64412da52a2f356b1cf65b6ece4.jpg",
+        "table_caption": [
+            "表1化合物4，8，9-12对RAW264.7细胞生成NO和IL-6的抑制率",
+            "ble 1 Inhibition rate of compounds 4,8,and 9-12 on the production of NO and IL-6 in RAW264.7 cel "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">组别 Group</td><td rowspan=\"2\">浓度 Concentration (μg:mL 1)</td><td rowspan=\"2\">抑制率 Inhibition rate (%)</td><td rowspan=\"2\">组别 Group</td><td rowspan=\"2\">浓度 Concentration (ug:mL \"1)</td><td rowspan=\"2\">抑制率 Inhibition rate (%)</td></tr><tr><td></td></tr><tr><td rowspan=\"4\">槲皮素“ quercetin)</td><td>NO (25)</td><td>83.28</td><td>9</td><td>NO (50)</td><td>47.89</td></tr><tr><td>IL-6 (25)</td><td>72.14</td><td></td><td>IL-6 (50)</td><td>23.15</td></tr><tr><td>NO (50)</td><td>69.46</td><td>10</td><td>NO (25)</td><td>58.93</td></tr><tr><td>IL-6 (50)</td><td>37.30</td><td></td><td>IL-6 (25)</td><td>46.02</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/bea7cc9298c1fd619b5728634597139c5fc7966c79b52dd8572866e5334e4826.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：（1）‘表示阳性对照。Note:(1)‘ indicates positive control."
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">4</td><td>NO (25)</td><td>35.10</td><td>NO (50)</td><td>50.31</td></tr><tr><td>IL-6 (25)</td><td>33.79</td><td>IL-6 (50)</td><td>25.77</td></tr><tr><td rowspan=\"6\">8</td><td>NO (50)</td><td>35.19</td><td>NO (25)</td><td>60.43</td></tr><tr><td>IL-6 (50)</td><td>18.24</td><td>IL-6 (25)</td><td>49.20</td></tr><tr><td>NO (25)</td><td>11 37.62</td><td>NO (50)</td><td>46.74</td></tr><tr><td>IL-6 (25)</td><td>34.47</td><td>IL-6 (50)</td><td>21.09</td></tr><tr><td>NO (50)</td><td>31.33</td><td>NO (25)</td><td>84.66</td></tr><tr><td>IL-6 (50)</td><td>16.15 12</td><td>IL-6 (25)</td><td>79.60</td></tr><tr><td rowspan=\"2\">9</td><td>NO (25)</td><td>55.37</td><td>NO (50)</td><td>72.79</td></tr><tr><td>IL-6 (25)</td><td>40.18</td><td>IL-6 (50)</td><td>34.83</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4讨论与结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "北豆根以清热解毒功效著称，其总碱制成的片剂和注射液已广泛应用于各种炎症疾病的治疗。随着医学和科技的进步，北豆根中的化学成分及有效成分更加明确，药理研究也逐步从有效部位深入到化学成分。本文对北豆根化学成分进行了系统研究，共分离鉴定出15个化合物，其中化合物4-7、9、12为首次从防己科植物中分离得到，化合物1、3-11、14为首次从蝙蝠葛属中分离得到。上述化合物包括苯酚类、木脂素类、菲醌类、脂肪酸类及甾醇类，极大丰富了北豆根的化学多样性。为了保证抗炎活性的真实性和可靠性，化合物必需在无毒的情况下进行细胞实验。因此选取了 ${ 5 0 \\mu \\mathrm { g } \\cdot \\mathrm { m L } ^ { - 1 } }$ 以内对细胞的活力没有影响的化合物（1-3、5-7、13-15）进行体外抗炎活性研究。实验表明化合物12具有较强的抑制RAW264.7细胞释放 NO 和IL-6 的作用，提示其有良好的体外抗炎活性。但发现 $2 5 ~ \\mu \\mathrm { g } \\cdot \\mathrm { m L } ^ { - 1 }$ 浓度下化合物12对炎症因子抑制率更高一些，作用效果并没有成剂量依赖关系，猜测可能是由于对给药浓度的设定存在一定的缺陷，后期实验可以在 $2 5 \\mu \\mathrm { g } \\cdot \\mathrm { m L } ^ { - 1 }$ 浓度以下设置浓度梯度。 也可能由于化合物结构中存在多种官能团，炎症相关通路及机制尤为复杂，故可能产生不同构效关系。本文主要对北豆根的化学成分及其抗炎活性进行了系统研究，值得指出的是北豆根中的化学成分及药理活性研究集中于酚性总碱，对非生物碱类及单一化合物的药理活性研究需更加深入的探索。因此本研究为后续寻找新的药效物质基础提供科学依据，为全面深入研究抗炎作用机制奠定基础，同时也对进一步合理开发利用该植物资源及拓展其临床应用范围具有一定的指导意义。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "CHEN Q,2O20. Study on the chemical constituents in Hypericum sampsonii and their anti-tumour and anti-inflammatory activity[D].Hefei: Anhui Medical University.27-28.[陈千.2020.元宝草化学成分及 其抗肿瘤和抗炎活性的研究[D]．合肥：安徽医科大学.27-28.]   \nHE K,FAN LL,WU TT，et al.,2021. Chemical constituents from Pyrrosia sheareri[J]. Guihaia, 41(11): 1862-1867.[何康，范琳琳，伍天苔，等.2021．庐山石韦的化学成分研究[J]．广西植物,41(11): 1862-1867.]   \nHUI YY,CHEN D, YANG XF,2021. Chemical constituents from the roots of Piper longum and their antitumor activities[J].Chin Trad Pat Med,43(1): 98-102.[惠昱昱，陈镝，杨秀芳,2021．华菱根化学成 分及其抗肿瘤活性[J]．中成药,43(1):98-102.]   \nLI FS,YAN DL,LIU RR, et al.,2010.Chemical constituents of Boswellia carteri (Frankincense)[J]. Chin J Nat Med, 115(1): 25-27.   \nLI XZ,YAN YM, CHENG YX, 2017. Compounds from Clerodendranthus spicatus[J]. Nat Prod Res Dev, 29(2):183-189.[李小珍，晏永明，程永现,2017．肾茶化学成分研究[J]．天然产物研究与开发,29(2): 183-189.]   \nLU CS,ZHANG Q, ZENG J,etal., 2020. Chemical constituents of Zhuang medicine Whitfordiodendron filipes Caculis[J].Chin Med Mat,43(7):1635-1638.[卢澄生，张强，曾洁，等.2020．壮药黄皮血藤化学成分 研究[J]．中药材，43(7): 1635-1638.]   \nMO QH， ZHOU XL， ZHOU Y，et al.，2020. Chemical constituents from the leaves of Rhodomyrtus tomentosa[J].Chin Med Mat,43(3):587-590.[莫青胡，周先丽，周云，等.2020．桃金娘叶的化学成分 研究[J]．中药材,43(3): 587-590.]   \nSHAO J, SHI CF, WEI JX, 2019. Chemical constituents from rhizome of Menispermum dauricum and their anti-hypoxic activities[J].Chin JChin Mat Med,44(4):723-729.[邵佳，师超峰，魏金霞，等.2019．北 豆根中化学成分及其抗缺氧活性研究[J]．中国中药杂志,44(4):723-729.]   \nSU H, WANG XG,LIU SQ,2015. Research progress on the dosage from the extract of Rhizoma Menispermi[J]. JHebei Trad Chin Med,30(2):61-64.[苏慧，王兴刚，刘霜琪,2015，北豆根提取物剂型的研究进展[J]. 河北中医药学报,30(2): 61-64.]   \nSUN R, WANG C,2009. Research development on toxicity of Rhizoma menispermi[J]. Chin JPharmacovigil, 6(9):546-549.[孙蓉，王晨,2009．北豆根毒性研究进展[J].中国药物警戒,6(9):546-549.]   \nSUN YJ, ZHOU W,CHEN H, et al.,2012. Phenols from roots and rhizomes of Sinopodophyllum emodi[J]. Chin Trad Herb Drugs,43(2):226-229.[孙彦君，周巍，陈虹，等.2012．桃儿七中酚类成分研究[J]．中 草药,43(2): 226-229.]   \nTI HH, XU LX, CHEN ZH, 2015. Megastigmane sesquiterpenes and phenylpropanols from Epimedium pseudowushanese[J].JTrop Subtro Bot,23(1):99 -102.[谛慧慧，徐良雄，陈志辉,2015，拟巫山淫羊藿 的 megastigmane 糖苷和苯丙醇类成分[J].热带亚热带植物学报,23(1):99 -102.]   \nYU YY, SHAO J, WEI JX, et al.,2019a. Research progress on alkaloids and their pharmacological effects of the rhizome of Menispermum dauricum[J]. Chin Med Mat, 42(10): 2453-2461.[喻瑛瑛，邵佳，魏金霞, 等.2019a.北豆根中生物碱类成分及其药理作用研究进展[J]．中药材,42(10):2453-2461.]   \nYU YY, SHAO J, CHEN F,et al.,2019b. Study on oxoisoaporphine alkaloids from rhizome of Menispermum dauricum and their anti-myocardial ischemia activities[J]. JLogist Univ PAP (Med Sci),28(11): 1-6.[喻 瑛瑛，邵佳，陈飞，等.2019b.北豆根中氧化异阿朴啡型生物碱类成分及其抗心肌缺血活性研究[J]. 武警后勤学院学报(医学版),28(11):1-6.]   \nZHANG CH, XU QL, ZENG L, et al., 2020. Chemical constituents from leaves of Dendrobium offcinale[J]. For Environ Sci,36(3):30-34.[张春花，徐巧林，曾雷，等.2020．铁皮石斛叶的化学成分研究[J]．林 业与环境科学,36(3):30-34.]   \nZHANG JY, ZENG LF, JIN YL,et al.,2020. Study on the chemical constituents of the n-butanol fractions of the stems and branches of Altingia chingi Metc[J].Technol Innovat Appl,4(12): 30-31.[张纪越，曾令峰, 靳永亮，等.2020.金缕半枫荷茎枝正丁醇部位的化学成分研究[J]．科技创新与应用,4(12):30-31.]   \nZHANG PZ, SU MS, WANG YQ, et al.,2016. Chemical constituents from Gymnotheca involucrata[J]. Chin Trad Herb Drugs,47(19):3366-3369.[张普照，苏明声，王雅琪，等.2016．白苞裸蒴化学成分研究[J]. 中草药,47(19): 3366-3369.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ZHANG ZJ, ZHANG XQ, YE WC, et al., 2004. A new 1,4-phenanthraquinone from Menispermum dauricum[J] Nat Prod Res, 18(4): 301-304. ",
+        "page_idx": 8
+    }
+]

@@ -1,0 +1,396 @@
+[
+    {
+        "type": "text",
+        "text": "听而不“闻”？人声失认症的神经机制",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周爱保 胡砚冰 周滢鑫’李玉 李文一 张号博 郭彦麟 胡国庆（西北师范大学心理学院，兰州 730070）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要人声身份识别对于社交交流的许多方面都至关重要，大多数个体都能根据声音识别其声源者，然而人声失认症患者似乎已经丧失了这种能力。人声失认症是指人声身份加工的不同阶段出现障碍，症状主要包括获得性人声失认症，发展性人声失认症及其亚型。获得性人声失认症患者受损脑区主要包括颞叶，赫氏脑回和颞极，发展性人声失认症主要与右后侧颞上沟的非典型性反应和颞叶与杏仁核间的功能联结障碍有关。以后的研究可以重点关注人声失认症的筛选方法，界定范围和文化差异等方面。关键词获得性人声失认症，发展性人声失认症，人声失认症亚型，神经机制",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "个体从人声（voice）识别其声源者，似乎是一种与生俱来的能力，然而有些个体却丧失了这种能力。Van Lancker和Canter（1982）将这种人声身份加工障碍称作“人声失认症（phonagnosia）”。人声失认症是指对于人声身份存在特异性加工障碍，而在其他声音信息（如性别、年龄和情绪）以及音乐和面孔信息的认知加工能力在很大程度上得到了保留（Neuner& Schweinberger,2000;Roswandowitz et al.,2014;Stevenage,2018）。目前可以从两个角度对人声失认症进行分类：一方面，从有无脑损伤的角度可以将其分为，在个体脑损伤之后存在人声身份加工障碍的获得性人声失认症（acquired phonagnosia）和后天脑部没有损伤可能一出生就存在人声身份加工障碍的先天性或发展性人声失认症（congenital/developmental phonagnosia）（Hailstone et al.,2011;Roswandowitz etal.,2014;Xu et al.,2015）；另一方面，从人声身份加工不同阶段的角度可以将其分为，感知型人声失认症（apperceptive phonagnosia）和联想型人声失认症（associativephonagnosia），有研究也将这两种类别归为人声失认症的亚型，具体来说，前者是指在声学特征的感知加工阶段上存在缺陷，而保留了语义和熟悉人声的认知加工，后者是指丧失了语义和熟悉人声加工的能力，但保留了对于人声的基本感知能力（Gainotti,2018;Muhl& Bestelmeyer,2019;Stevenage，2018;伍可等，2020）。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "此外，已有研究表明，个体在听到声源者发出声音时，首先会在初级听觉皮层（primaryauditory cortex，PAC）对人声进行低水平分析，其次会对人声进行更深层次的结构分析，即将人声中的言语，情绪和身份信息在三个独立的神经通路进行加工（P.Belin et al.,2004;Scott,2019）。然而，人声中的言语，情绪和身份信息并非完全独立，换句话说，个体在人声言语和情绪信息出现的加工障碍同样可以影响其对声源者身份信息的加工（伍可等，2020）。由于文献中关于人声失认症的案例较少，人声失认症的行为表现特征和其背后的病理机制等问题一直存在争议，因此一方面对于前人文献的梳理，有助于加深学者对人声失认症的认识，同时为国内学者提供人声失认症神经机制方面的研究基础；另一方面通过阐述人声失认症与人声加工之间的关系，更有利于国内学者明白人声失认症的病理机制。本文对两种人声失认症及其亚型的神经机制进行了梳理，并在此基础上提出未来研究方向。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2获得性人声失认症的脑机制",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关于身份识别的神经科学模型通常包括一个核心系统和一个扩展系统，来自面孔身份识别的相关研究给出了相应证据（Blank etal.,2015;林菲菲等,2013）。人声身份识别同样依靠着这两个系统，具体来说，位于听觉皮层的核心人声系统（core-voice system）包括了赫氏脑回（Heschl's gyrus，HG），颞平面（planum temporale，PT），颞上回（superior temporal gyrus，STG），颞中回（middle temporalgyrus，MTG）和颞上沟（superior temporal sulcus，STS）（Roswandowitz et al,2017）；扩展系统包括楔前叶/后扣带（precuneus/posterior cingulate），颞极（temporal pole），杏仁核（amygdala），额下回（inferior frontal gyrus，IFG）和一些其他通道的脑区，比如梭状回面孔识别区（fusiform facearea，FFA）（Aglieri etal,2018; Blank etal.,2015; Schall et al,2013）。有研究表明扩展系统的相关脑区在功能和结构上都与核心人声系统区域存在联结（Von Kriegstein& Giraud,2006;Von Kriegstein et al.2005）。那么是否正是由于与这两系统相关的脑区损伤之后，从而导致获得性人声失认症呢？研究者对此进行了大量研究，并且将获得性人声失认症与其亚型来探讨神经机制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在声源者辨别和识别的研究中，D.VanLancker和Canter（1982）调查了30",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "单侧脑损伤患者，其中包括21名左半球损伤患者（left brain damaged，LBD）和9名右半球损伤患者（right brain damaged，RBD），结果发现，RBD（vs.LBD）在熟悉人声识别障碍更为普遍，因此联想型人声识别加工与右半球有关，而与左半球无关。随后有研究表明，相对于健康被试，LBD和RBD在陌生声音区分任务中表现更差，双侧脑损伤患者（bilateral brain damaged，BBD）则在人声区分和人声识别都存在加工障碍（D.Van Lancker& Kreiman,1987）。随后有研究进一步表明，熟悉人声识别障碍与右顶叶（right parietal lobe）的损伤显著相关，人声辨别障碍与左右半球的颞叶（temporal lobe）损伤有关（Lancker et al,1989; Roswandowitz et al,2018; Van Lancker et al 1988）。因此，不同脑损伤患者很可能在人声加工不同阶段产生分离，具体来说，在人声感知加工阶段存在障碍的感知型人声失认症和在人声识别加工阶段出现障碍的联想型人声失认症。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 获得性感知型人声失认症",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "获得性感知型人声失认症是指个体受到脑损伤之后，在人声身份感知加工阶段出现功能障碍，行为异常大多表现在人声声学特征感知和陌生人声音辨别加工的缺失。首先，在低水平听觉信号加工阶段出现功能障碍的相关研究中，由于个体在老年化的过程中，其机能减退和部分脑区萎缩，从而可能导致其在人声基本的声学特征认知过程中存在功能障碍。一项研究通过MRI调查20名平均年龄在66岁的阿尔兹海默症患者，临床诊断结果发现，16名患者脑部有不成比例的海马（hippocampal）萎缩，4名患者有广泛性脑萎缩，随后在一项人声辨别任务中，即在一系列呈现的有声短语中检测声源者是否变化，结果发现，相对于健康被试，阿尔兹海默症患者在人声低水平听觉信号分析阶段存在缺陷，具体来说，他们很难感知人声中的音调和音色等一些基本的声学特征，同时脑成像结果发现，右下顶叶（right inferiorparietal lobe）的损伤与感知型人声失认症有着密切的联系(Hailstone et al.,2011)。另一项使用重复经颅磁刺激（repetitive transcranial magnetic stimulation，rTMS）的研究提供了颞叶声音区（temporal voiceareas，TVAs）与人声检测能力关系的直接证据，具体来说，当rTMS以右侧TVA为目标时，个体对于人声与非人声的区分能力受损（Bestelmeyer et al,2011）。这项研究表明，右侧TVA对于个体在人声低水平听觉信号加工阶段至关重要。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其次在人声感知阶段加工出现功能障碍的相关研究中，Papagno等（2018）招募29名接受过单侧颞叶胶质瘤切除手术的患者，并要求这些患者进行陌生人声音区分任务，结果发现，右侧胶质瘤切除（vs.左侧胶质瘤切除）患者存在声音感知阶段加工的障碍，随后使用 fMRI对其进行脑部扫描，脑成像结果一方面支持先前的结果，即右侧TVA广泛受损，另一方面，病变区扩展到右侧额叶（right frontal）和右后侧颞叶（right posterior temporal lobe），其中后者包括HG，梭状回（fusiform gyrus），内下侧皮质（medial subcortical）和岛叶皮质（insular cortices）。此外，该研究表明右侧颞叶和额叶功能联结的断裂，可能是导致感知型人声失认症的主要原因，这一结果很大程度为核心人声系统与扩展系统的联结，在人声感知阶段加工过程中的重要作用提供了证据。在一项声源身份包括自我，熟人和陌生人的人声区分研究中，结果依旧证实右半球对于人声感知阶段加工的重要性（Candini etal.,2018）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由此可见，尽管大多数研究都表明，脑损伤之后的感知型人声失认症与大脑右半球有着密切联系，然而，少数研究同样发现左半球部分脑区同样参与了人声感知阶段的加工，并且还不能确定右半球的颞叶、额叶、顶叶的部分损伤，或者不同脑区之间的功能联结的断裂，是否依旧会造成人声识别加工障碍即获得性联想型人声失认症。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 获得性联想型人声失认症",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "获得性联想型人声失认症是指脑损伤个体在人声身份识别或语义加工阶段出现的功能障碍，行为大多表现在识别熟悉人声或语义联想加工的缺失。在声源者身份识别和语义联想加工障碍的相关研究中，Hailstone等（2010）首先使用MRI对两名阿兹海默症患者进行脑部扫描，结果发现，其中一名患者双侧前颞叶（bilateral anterior temporal lobe）萎缩，其中包括了梭状回在内的颞下皮质（inferior temporalcortices），并且右半球的脑萎缩更为严重；另一名患者双侧额颞叶（bilateral fronto-temporal）萎缩，并且右前颞叶（anterior temporal lobe，ATL）萎缩加重，随后对这两名患者进行跨通道匹配实验（比如人声-面孔匹配，人声-姓名匹配，声音的知觉任务等），结果表明，两名患者（vs.健康被试）都存在熟悉人声识别障碍。尽管这项研究并没有发现人声识别的特异性加工障碍，即在熟悉面孔和熟悉姓名识别任务中同样发现了加工障碍，但是这项研究表明双侧前颞叶在多模态（面孔、人声和姓名）识别加工中的重要作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "随后的研究招募了两种神经退化的患者，即额颞叶型失智症和阿兹海默症，结果发现，前者在人声身份识别任务中表现更差，研究表明在右 ATL和前梭状回（anterior fusiform gyrus）灰质（grey）体积的减少是造成人声，面孔和名字识别加工障碍的主要原因(Hailstone et al.,2011)。Cosseddu等（2018）对一名56岁有额颞叶退化趋势的患者进行名人面孔，声音和名字的跨通道识别任务，结果发现，这名患者在面孔和人声识别加工中存在缺陷，但保留了名字识别加工的能力，脑成像结果显示，该患者在右 ATL出现萎缩。这项研究进一步将不同通道的识别障碍进行分离，然而却没有发现人声失认症特定的行为特征和神经机制。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Young等（2020）认为人声失认症尽管在人声加工方面存在严重缺陷，但是这并不影响跨通道的认知加工。为了探究人声识别加工障碍的特异性，有研究从听觉（熟人声音识别任务和人声区分任务），视觉（面孔识别任务）和跨通道（声音-面孔和声音-名字匹配任务）多实验角度对 58名单侧脑损伤患者进行测试，结果发现，右后颞叶或中颞叶是人声身份识别的关键结构，而在需要额外的面孔身份识别加工的情况下（人声-面孔匹配任务），右下顶叶，特别是缘上回脑区才会加入人声识别的加工过程中（Roswandowitz et_al.,2018）。Luzzi等（2018）通过正电子断层扫描（Positron EmissionTomography，PET）和MRI技术对一名右前颞叶卒中的患者进行了研究，结果发现，这名患者在视觉空间记忆、执行功能、视觉知觉和空间技能、实践、言语和概念性思维等测试中成绩正常，在随后的音乐基本能力测试，熟悉音韵的识别，陌生面孔和人声辨别以及熟悉面孔识别任务中，同样表现正常，唯独对名人声音识别存在加工障碍，脑成像结果发现这名患者在右下皮质（right subcortical）区域存在两个小的缺血性病变，并且病变涉及到柱状和尾状核（lenticular and caudate nuclei）以及右颞极（right temporalpole）。这项研究进一步表明获得性联想型人声失认症特定的行为表现和其相应的脑区，具体来说这个案例有助于弄清名人声音识别背后的神经机制，并增加支持右半球参与熟悉人声识别加工的证据。尽管大脑右半球的损伤对于解释获得性联想型人声失认症的病理机制非常重要，但是左半球对于人声识别的作用同样不能忽视。Papagno 等（2018）要求29 名接受过单侧颞叶胶质瘤切除手术的患者进行名人声音识别任务，具体来说，个体需要评估这些名人声音的熟悉度，识别声音中的语义，并且识别这些声音的声源者名字，结果发现，左侧颞叶切除的患者很难从名人声音识别其声源者的名字。这有可能是因为，左侧颞叶损伤的患者对于言语的认知加工存在障碍（Candini et al.,2018;McGettigan et al.,2017）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上，我们可以发现在获得性联想型人声失认症的最初研究中，损伤的脑区同样可以导致跨通道识别加工障碍，随后研究加入了许多不同的控制测试，比如从听觉角度来说，有对声学特征（基频和共振峰）感知方面的测试，从视觉角度来说，有面孔和名字识别任务，这些测试一方面是为了排除人声感知阶段加工和跨模态识别阶段加工的影响，另一方面为获得性联想型人声加工障碍的特异性及对应的脑区提供有力的证据。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 发展性人声失认症的脑机制",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "发展性人声失认症，又称作先天性人声失认症，是指个体在没有脑损伤的情况下出现人声身份加工障碍，关于发展性人声失认症的发病率目前还没有统一的数据。一些研究表明这种罕见的疾病发生率约占人口的 $0 . 2 \\%$ 至 $1 \\%$ 之间（Roswandowitz et al.,2014; Xu etal.,2015）。另一项研究则估计发展性人声失认症的发病率在 $3 . 2 \\%$ ，这个数字更加接近发展性面孔失认症的发病率（Maguinness&VonKriegstein,2017;Shilowich&Biederman,2016）。尽管发展性人声失认症的病理还不清楚，但发展性人声失认症和发展性面孔失认症一样都存在遗传的可能（Djouab et al.,2020; Maguinness et al,2018; Maguinness & VonKriegstein,2017; Tian et al.,2019）。Garrido等（2009）报告了第一例发展性人声失认症，这名患者出现了终生人声身份加工障碍，根据其自我报告，她甚至无法在电话中辨认出女儿的声音。为了确认和评估其人声加工障碍的特异性，这名患者和一组健康被试进行了一系列行为测试，包括视觉和听觉通道的测试。结果发现，相对于健康被试组，这名患者在熟悉声音识别方面明显存在缺陷。这表明该患者存在发展性联想型人声失认症，然而这项研究并没有发现联想型和感知型人声加工的分离。已有研究表明发展性人声失认症同样存在两种亚型，即发展性感知型人声失认症和发展性联想型人声失认症（Roswandowitzetal.,2014）。目前，发展性人声失认症与其亚型的神经基础主要包括这几个方面。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1 发展性感知型人声失认症",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "发展性感知型人声失认症是指个体没有脑部没有经受创伤，有可能一出生就存在人声身份感知阶段的加工障碍，其行为异常主要表现在早期听觉信号和陌生人声音辨别的加工。首先在声学特征加工阶段出现功能障碍的相关研究中，Roswandowitz等（2014）对大约1000",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "被试进行大规模的在线人声识别能力测试，这项测试要求被试先学习新的人声，继而判断这些人声的熟悉度，结果发现，相比于其他被试，其中两名被试在这项测试的分数低于两个标准差，在随后的临床诊断结果发现，他们的听力正常，并且大脑没有病理异常，因此初步认为他们疑似患有发展性人声失认症。这项研究在随后的一系列测试中发现其中的一名患者在人声分类任务和区分声音音调任务中的表现很差，即在低水平听觉加工阶段受到阻碍，但是对人声中语义信息的加工保持良好，因此这名患者为发展性感知型人声失认症。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其次，发展性人声失认症在人声身份感知阶段加工障碍的相关研究中，Roswandowitz等（2017）使用fMRI技术进一步发现这名患者在人声感知阶段加工缺陷的行为表现反映在核心人声系统的血氧水平依赖性减少，具体包括右前外侧赫氏脑回（right antero-lateral Heschl'sgyrus），颞平面（planum temporale，PT），并且延伸至右后侧颞上沟或回（right posteriorsuperior temporal sulcus/gyrus），但在右侧颞极（right temporal pole）和杏仁核（amygdala）等扩展系统区和梭状回面孔识别区（fusiform face area，FFA）的功能反应却显著增加。这项研究一方面将发展性感知型人声失认症与其神经机制联系在一起，确定其加工障碍的特异性，并且表明低水平声音阶段的加工障碍可能影响随后的人声感知阶段的加工，另一方面则表明感知型人声失认症患者可以利用额外的跨通道信息来补偿其在人声感知阶段的加工。已有研究同样支持了这些脑区，具体来说外侧赫氏脑回（lateral Heschl's gyrus）有助于人声身份信息的编码，PT对于人声（vs.非人声）更加敏感，并且对于恒定音色的突然变化有灵敏的功能反应（P.Belinet al,2000;Bonte etal,2014;Von Kriegstein＆Giraud,2006）。综上，发展性感知型人声失认症与早期听觉加工阶段脑区的功能障碍有关，这些脑区具体包括了专门负责人声声调的HG 和音色加工的PT。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 发展性联想型人声失认症",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "发展性联想型人声失认症是指个体没有脑损伤经历，有可能因为遗传因素导致其对于熟悉人声和语义信息识别的认知过程存在障碍，行为异常表现在无法有效识别熟悉人的声音和相关的语义信息。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "个体在声源者识别和语义联想阶段出现加工障碍的研究发现，一名 20岁女性在熟悉声音识别方面存在缺陷，在其第一个fMRI实验中，发现这名患者在听人声（vs.非人声）刺激时，位于颞叶两侧（bilaterally temporal lobes）的TVAs被激活；在其第二个 fMRI实验评估了声音图像过程中的功能反应，具体来说，给被试呈现熟悉的面孔和名字，同时也呈现了一些物品的照片，并要求被试在每次呈现图片之后，联想与之对应的声音，结果发现这名被试对于名人声音的联想存在障碍，即在腹内侧前额叶，左侧楔前叶（left precuneus）和左侧楔叶（left cuneus）发现了血氧水平依赖性（blood oxygen leveldependency，BOLD）反应的减少(Herald et al,2014; Xu et al.,2015)。研究表明，由于腹内侧前额叶功能障碍导致其对熟悉人声识别的缺陷，同时这名患者在听到人声时，颞上回或沟的颞叶人声区也被激活表明其对人声感知加工不存在缺陷，因此可以解释其属于发展性联想型失认症。有些研究对这个结果提出了质疑，具体来说，个体腹内侧前额叶的功能反应可能无法完全解释对其熟悉和著名人声的联想型人声身份加工，这项研究腹内侧前额叶反应的减少可能与患者无法想象名人的声音有关，但可能与人声失认症没有因果关系（Blank et al.,2015;Maguinness et al.,2018）。然而另一项研究给出了不一样的解释，具体来说，人声识别是通过人声身份线索（Voice individuating cues，VICs）来激活相应的颞叶人声区来实现的，而这名发展性联想型人声失认症患者是因为无法提取有关熟悉人身份的线索而导致熟悉人声识别加工障碍（Biederman et al.,2018）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "有研究进一步发现发展性联想型人声识别加工的特定障碍，具体来说，这名患者（vs.健康被试）在熟悉人声识别任务的表现更差，而在面孔识别，情绪识别，音乐能力等测试中与健康被试的表现相当（Roswandowitzetal.,2014）。随后有研究使用fMRI对这名发展性人声失认症伤患者在人声识别加工障碍的神经机制进行了探索，结果表明，位于右侧颞中回（right middle temporal gyrus）或颞下回（inferiortemporal gyrus）的核心人声系统与位于杏仁核的外侧部分的扩展系统之间联系的减弱是造成发展性联想型人声失认症的关键因素（Roswandowitz etal.,2017）。这项研究的贡献主要在于两个方面：一方面，这项研究提供了发展性人声失认症及其两种不同亚型的行为表现及其神经机制；另一方面，证明了核心人声系统和扩展系统之间的功能联结在人声识别加工中的作用。一些研究结果也同样证明了这一结果，具体来说，右侧额-颞叶功能联结的反应与个体人声识别的能力呈正相关（Aglieri etal.,2018;Bodin& Belin.2020）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上，关于发展性人声识别加工阶段的障碍的神经机制主要包括了腹内侧前额叶皮质，左侧楔前叶和左侧楔叶的功能反应减少，同时核心人声系统和扩展系统的功能联结的减弱同样会影响个体在人声识别阶段的加工。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4基于脑机制的发展性和获得性人声失认症的比较",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "人声失认症的发现，证实听觉通道中存在不同路径，具体来说，获得性和发展性人声失认症的病例及神经机制，已经以感知型和联想型两种人声失认症亚型的角度进行了描述。然而由于人声失认症的研究较少，通过对病理不同的两种人声失认症（获得性和发展性）进行对比，更有利于弄清楚其两者在病理上的异同（如图1）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "首先，从核心人声系统来说，获得性和发展性人声失认症在人声感知阶段的加工障碍，都涉及核心人声系统的右侧颞叶（right temporal lobe）和赫氏脑回（Heschl's gyrus，HG）出现的功能缺陷，然而不同的是，发展性人声失认症由于没有受到过脑损伤，所以确定的脑区较为具体，比如颞上回（superiortemporal gyrus）；两者在人声识别阶段的加工障碍都涉及到核心人声系统的颞中回（middle temporalgyrus），然而不同的是，获得性人声失认症对应着HG的损伤，发展性人声失认症则在颞下回（inferiortemporal gyrus）出现功能障碍。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "其次，就扩展系统来说，获得性和发展性人声失认症在人声感知阶段的加工障碍，与其对应的扩展系统脑区表现出较大的区别，具体来说，获得性人声失认症在右侧额叶（right frontal），右下顶叶（rightinferior parietallobe）和梭状回（fusiform gyrus）区域都存在不同程度的损伤；发展性人声失认症在扩展系统脑区的功能障碍较小，相反在右侧颞极（right temporal pole），杏仁核（amygdala）和梭状回面孔识别（fusiform face area，FFA）都表现出较强的功能反应。获得性联想型人声失认症所对应扩展系统的损伤，主要体现在某一确定脑区的损伤，继而扩散到其他区域，比如右下侧皮质（rightsubcortical）出现的缺血性病变扩散到颞极（temporalpole），然而目前研究没有发现发展性人声失认症在扩展系统的非典型反应。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "再次，从核心人声系统和扩展系统的功能联结来说，在人声感知阶段的加工方面，获得性和发展性表现出不同的机制，具体来说，获得性人声失认症主要表现在颞叶和额叶的功能联结的损伤，而发展性人声失认症体现在颞叶和杏仁核外侧的联结出现功能障碍；从人声识别阶段的加工来说，获得性人声失认症的脑损伤主要集中在某一确定脑区，对于两系统功能联结的损伤没有直接证据，而在发展性人声失认症案例中发现了较多的证据，具体来说，位于核心人声系统的前颞叶与位于扩展系统的杏仁核和腹内侧前额叶之间的联结出现功能障碍。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "综上，除了核心人声系统和扩展系统，两种失认症都可能存在跨通道的补偿机制，具体来说获得性人声失认症患者在额外的面孔加工中，顶叶也会参与人声-面孔匹配的加工过程，发展性人声失认症患者可能会在面孔，姓名等信息中增强两系统的功能反应，从而缓解患者在人声身份加工的功能障碍。未来可以对两种人声失认症进行深入的比较研究，一方面观察患者在人声身份不同加工阶段，所对应受损或出现功能障碍的具体脑区，即进一步探究神经机制与行为表现的特异性，这样更有利于界定人声失认症；另一方面，尽管获得性和发展性人声失认症的案例，已经证实声音、面孔和姓名进行身份识别的分离加工过程，但是，有研究已经发现面孔失认症和人声失认症存在跨通道的交互作用，即有可能会出现双通道失认症(Youngetal.,2020)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "人声初级阶段加工↑  \n核心人声系统 人声身份感知加工价段（第一阶段） →感知型人声失认证人声身份识别加工阶段（第二阶段）  \n扩展系统 ↑ →联想型人声失认证语义加工阶段 （第三阶段）",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5人声失认症与人声加工障碍",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "根据前文所述，人声失认症的本质是个体出现身份信息的加工障碍，具体来说，人声失认症者不能区分和识别声源者。尽管人声失认症具有加工特异性，然而不可忽略的是，个体对于人声中言语和情绪信息的加工障碍确实会影响个体对声源者身份信息的加工。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.1 人声失认症与人声言语信息加工障碍",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "人声识别的研究中，个体可以同时利用声音中的言语线索和副言语线索判断其声源者的身份，换句话说，人声同样也是体现个体言语能力的主要媒介，并且言语能力可能直接影响个体对声源身份的加工已有研究表明，阅读障碍者与人声言语信息加工障碍存在一定的关系（Gabrieli,2009）。Perrachione 等（2011）评估了阅读障碍组和控制组（健康被试）识别母语和非母语声源身份的能力，结果发现，在非母语声源身份识别任务中，两组的正确率都接近随机水平（ $50 \\%$ ），但在母语声源身份识别任务中，阅读障碍组（vs.控制组）的表现更差。这项研究表明，当人声中言语的抽象表征无法和声学信息联系（由于刺激不够熟悉，即非母语者发出的声音）或个体对于言语抽象表征的能力缺失（由于个体对母语的表征受到损害，即阅读障碍），就会出现不同程度的人声身份加工障碍。根据这项研究可以发现，阅读障碍者很可能是因为言语抽象表征的能力受到损害，从而导致言语无法和人声建立联系，那么听觉信号转换到言语抽象表征的认知过程存在加工障碍，是否也会导致人声言语信息缺失。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "以往研究同样在卒中后失语症患者中找到了相关的证据，其结果一方面支持了言语理解缺失导致人声言语信息加工障碍的神经机制，即卒中后失语症患者言语理解障碍很可能与颞下回（inferior temporalgyrus），梭状回（fusiform gyrus），左侧后颞区（left posterior temporal region）及其颞中回（middletemporal gyrus），颞下回（inferior temporal gyrus）和扣带回（cingulate cortex）之间的联结损伤有关；另一方面则表明颞叶后侧，外侧和下侧可能是人声和抽象言语信息的整合中枢（Bonilha etal.,2017）。随后在急性失语症患者的研究中进一步发现颞顶区（temporo-parietal area）的损伤可能是造成其对句子结构加",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "工障碍的主要原因（Kristinsson etal.,2020）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由此可见，人声言语加工障碍大多与左侧颞叶脑区的损伤有关，这似乎为联想型人声失认症存在语义联想加工障碍，提供了相应的证据，具体来说，以往关于联想型人声失认症左侧脑区受损伤的患者，大多在言语相关的刺激任务中表现更差，这可能表明，人声失认症患者在人声语义认知阶段的加工障碍与其在言语信息认知过程缺失有关。此外，未来研究应着重对人声言语信息加工障碍（比如，阅读障碍和失语症）和人声失认症进行比较性的研究，这样更有助于对听觉性失认症的不同类别加以界定。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.2 人声失认症与人声情绪信息加工障碍",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "个体从声源者发出声音中，除了感知其身份和言语信息，人声中的情绪信息对于听者的社会和生态学意义同样不可忽视，在缺少视觉刺激的情况下，个体同样可以从声源者的音调中推断其情绪状态，然而有些群体可能已经丧失了这种能力。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "首先就精神障碍群体来说，自闭症患者（Autism spectrum disorder）通常在三个方面表现出功能障碍即受限制和重复性行为，言语交际功能障碍和社会交往的问题，因此相对于健康个体来说，自闭症患者很难理解声源者所表达的复杂社会和情绪信号。已有研究发现，自闭症患者的杏仁核（amygdala），颞上皮层（superior temporal cortex，STG）和小脑（cerebellum）都出现不同程度的损伤，并且这些脑区都属于情绪声音加工的核心网络（Fruhholz etal.,2016）。关于精神分裂症患者的研究也发现了对声音中情绪信息加工的缺失。已有研究在精神分裂症群体中发现了与自闭症患者相似的脑区，具体包括了STG，杏仁核和听觉皮层区域的功能障碍（Leitman et al.,2011）；另一方面，功能联结的缺失同样也是造成精神分裂症患者对声音中情绪信息加工异常的主要原因之一，具体来说，精神分裂症患者的下外侧皮质（inferolateral cortex，IFC）与 STC的功能联结减弱导致其对声音中情绪信息清晰度感知的降低（Leitmanet al.,2010）。相对于精神分裂症患者，情绪障碍患者（比如，重度抑郁症患者和双相情感障碍患者）同样在声音情绪的认知过程中出现加工障碍，其异常行为的主要表现为，对声音中的情绪信息具有强烈的负性偏向，并且发现情绪障碍患者的情绪调节功能异常（Kanske&Kotz,2012;Savitz& Drevets,2009）。在脑成像研究中，情绪障碍患者（vs.健康被试）在听到情绪声音时，相应的STC，听觉皮层，杏仁核和IFC 脑区的反应降低，并且有研究表明，膝下扣带回前皮质（subgenual anterior cingulate cortex）与边缘系统存在异常的功能联结，这可能是导致情绪障碍患者存在情绪信息加工障碍的主要原因之一（Comnolly etal., 2013; Mitchell et al., 2004）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "其次，脑损伤患者同样在情绪声音加工时出现功能障碍，不同类型的脑损伤患者包括脑卒中，脑萎缩和手术性脑损伤（Fruhholz& Staib,2017）。在脑卒中患者的相关研究发现，由于缘上回（supramarginal gyrus）和其相联的白质束缺血性病变，导致的右脑卒中患者对于声音中韵律的感知能力几乎丧失（Pateletal.,2018）；关于脑萎缩的相关研究主要集中在老年痴呆症患者，研究重点放在颞叶（temporal lobe）和部分额叶（frontal lobe）的退化上，结果发现，脑萎缩的过程，会造成与其相联的脑区同样发生结构性病变，比如，STC，IFC，内侧额叶皮质（medial frontal cortex，MTC）和杏仁核等区域，这些脑区的损伤，几乎都与患者对情绪声音加工异常有关（Omar et al,2011; Rohrer et al.,2012）；",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在一项接受单侧颞叶前部切除手术的癫痫患者研究中，发现杏仁核和海马区域对于识别不同类型声音情绪的贡献（Khalfa etal.,2008）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "综上，尽管鲜有关于人声身份和情绪的研究，然而根据不同类型患者在人声情绪出现的功能障碍，可以发现右半球脑区，杏仁核和颞叶区域的损伤是造成其在人声情绪信息加工障碍的主要原因，并且其中部分脑区，与人声身份加工对应的核心人声系统和扩展系统紧密相关，未来研究的重点，应该放在人声情绪信息和身份信息加工的特异性和其相应的脑区。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "6未来研究展望",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本文对两种人声失认症及其亚型的神经机制进行了梳理，发现人声失认症与颞叶，赫氏脑回，颞平面，杏仁核，颞极，顶叶和核心人声系统与扩展系统的功能联结的病变有关。不同脑区的受损或出现功能障碍都会影响患者对人声身份加工过程的障碍。目前，就人声失认症患者的加工缺陷与病理机制的特异性仍然存在争议。未来研究可以关注以下几个方面：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "6.1 人声失认症与筛选方法",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "事实证明，筛选人声失认症的病例具有挑战性，相比于面孔加工的测试，人声身份加工的测试通常受到听者与声源者语言背景的限制，这使得在不同语言背景进行测试变得困难。已有研究做出这样的尝试，具体来说，包括测试个体对于声音编码和识别能力的格拉斯哥声音记忆测试（Glasgow Voice MemoryTest）和测试声音感知能力的班戈声音匹配测试（Bangor Voice Matching Test）（Aglieri etal.,2017; Muhlet al.,2018）。然而，从人声失认症的案例可以看出，个体对于人声身份的加工是一个多阶段的过程，不同阶段出现的加工异常，都会导致不同类型的人声失认症及其亚型，因此这些测试对于个体人声身份加工的能力的评估是不够全面的。未来研究在考虑不同语言背景带来的挑战之外，更要重视人声失认症的本质，即个体在人声身份加工的多阶段存在缺陷，具体包括了人声感知能力，声音熟悉度的判断能力和语义联想能力等。此外，对健康个体人声身份加工的多个阶段进行测试，可以更深入地了解人声身份加工过程中的个体差异。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "6.2 人声失认症与界定范围",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "人声失认症的本质其实是患者在人声身份不同阶段出现的障碍，人声身份识别任务中的声源身份主要包括陌生人，名人和熟人，这样筛选出的人声失认症患者仅体现了对陌生人，名人和熟人三种声源身份的加工缺陷，然而，以往研究忽略了个体对于自我声音加工缺陷的探究。已有研究表明，自我声音的加工阶段同样包含感知阶段和识别阶段（周爱保等,2020）。这就说明“自我”同样可以作为声源身份的一种，并且“自我”相对于其他声源身份更加具有研究价值，具体来说：第一，可以从自我意识的角度来考察与人声失认症的关系，即两者的心理机制是否会有异同，第二，“自我异常”相关的神经机制与人声失认症神经机制是否存在共同病变的脑区，第三，可以扩展和细化人声失认症的概念界定，即个体是否会在自我声音的感知和识别阶段出现加工缺陷。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "此外，一些研究在精神障碍群体中同样发现了在人声加工方面存在缺陷的症状，这些症状和人声失认症十分相似，并且值得注意的是这些认知障碍的病理机制都存在争议，比如自闭症群体不仅在人声身份加工方面存在行为异常，而且在人声言语和情绪信息和跨通道加工都被证明存在功能障碍，同时自闭症群体有较大的个体差异，这很有可能是因为自闭症还有许多亚型，仍没有被界定，因此未来研究应该将多种认知障碍结合起来研究，并利用脑成像技术和设计可以分离这些认知加工障碍的实验范式，这样更有利于清楚地界定人声失认症和其他精神障碍。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "6.3 人声失认症与文化差异",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "目前关于人声失认症的研究大都集中在西方，其心理机制和神经机制的异常及病理机制，都是来自西方的证据，然而，文化的因素在大量研究已经被证明可以调节个体对不同刺激的认知加工，比如东西方个体因为文化背景的差异导致其自我建构的不同，继而在熟悉和亲密人的认知加工中产生分离。具体来说，人声失认症的文化差异主要表现在两个方面：一方面，人声失认症的筛选大多是因为对熟悉声源身份识别的加工出现障碍，然而由于文化背景的不同导致自我建构的差异，即独立性和互依性，因此，东西方文化背景下的个体很可能会在熟悉声源身份的加工中产生分离；另一方面，人声是言语的载体，同时言语是文化的符号，在东西方大的文化背景下，仍然存在许多亚文化，因此对不同亚文化背景下的人声身份加工缺陷的研究，有利于对人声失认症更加深入的了解，并且可以进一步推动对人声失认症病理机制的研究。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "6.4 人声失认症与听觉条件",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "目前，关于人声失认症的研究还在初始阶段，其主要原因是因为人声失认症的案例太少和不易被筛选，但是，如果加大人声识别的难度，比如，在困难的听觉条件下进行人声身份辨别或识别的任务，很可能在健康群体同样会出现人声失认现象，脑成像的研究似乎已经给出了相应的证据（Alain et al.2018）。目前听力困难条件主要依靠三种途径来实现：第一，通过增加人声的背景噪音，设想一个健康个体在嘈杂的鸡尾酒会（Cocktail Party）场景中去识别相隔几米之外的某一声源者的言语，情绪和身份信息，似乎这个认知过程除了人声加工，也包括有意地将注意集中在声源者，并且选择性增强对这个声源者声音信息的加工，同时抑制所有与声源信息不相关的其他声音；第二，采用滤波的方式，具体来说，利用声学软件对声音中的部分频率进行滤除，就会发现声音中的基频，共振峰，响度等声学特征会部分消失，这样就会导致声音中的言语信息和情绪韵律的清晰度显著降低，从而增加个体对其认知加工的难度；第三，增加言语结构的复杂性，比如语义上的歧义词或句式结构复杂的句子。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "由此可见，加大听力困难的条件，相当于提高人声加工难度的基线水平，这样就会造成，在普通听力条件下人声加工正常的个体，在听力困难条件下，可能会出现人声失认的现象，并且在脑机制方面，由于个体在听力困难条件下会消耗大量的认知资源，在相应脑区的活动也会比普通听力条件更活跃。因此加大听力条件难度，从而使健康个体出现人声失认现象，同时与人声失认症患者的行为表现和相应脑区进行对比性研究，宜成为未来研究的一个方向。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "林菲菲,陈旭,周春霞,马建苓,冉光明.(2013).面孔失认症的神经机制.心理科学进展,21(10),175－1762.   \n伍可,陈杰,李雯婕,陈洁佳,刘雷,刘翠红.(2020).人声加工的神经机制.心理科学进展,28(05),752－ 765.   \n周爱保,胡砚冰,鲁小勇,申莎,关香丽,陈大亮,崔嘉激.(2020).我听故我在?自我声音识别机制的探索．心理科学,43(03), 564 - 570.   \nAglieri,V.,Chaminade,T.,Takerkart,S.,&Belin,P.(18).Functionaloectivitywithithevoiceperceptionnetworkadits behavioural relevance. Neuroimage, 183,356 - 365.   \nAglieri,V,Watson,R,Peet,C,Latinus,M.GidoL,&Belin,.(7).heGlasgowVoceMemoryTest:ssingthe ability to memorize and recognize unfamiliar voices. Behavior Research Methods,49(1),97 - 110.   \nAlain,C.,Du,Yestein,L.J.,arten,T.,&anaiK.(l8).isteningunderdicultconditios:Anactivationlelo estimation meta-analysis. Human Brain Mapping,39(7),2695 - 2709.   \nBelin,P.,.,te.,iledPi()Vcelectireiadiyex 403(6767),309 - 312.   \nBelin,P.,Fecteau,S.,drd,C.4).iningteice:uralelatesfcepercetionredsingieec 8(3),129 - 135.   \nBestelmeyer,P.E.G.,Belin,P.,&Grosbras,M.-H.(0l).RightemporalTimpairsvoicedetection.CurrentBiology(20), R838 - R839.   \nBiederman,1,ilowich,B.E.Herald,S..rgalit,E.,arek,R,eschke,E.X,&Hacker,C..(18).eogiive neuroscience of person identification. Neuropsychologia, 116,205 - 214.   \nBlank,H.,Kiebel,S.J,&VonKriegstein,K.(2l5).Howtheumanbrainexchangesinformatioacrosssensorymodalitisto recognize other people. Human Brain Mapping, 36(1),324 - 339.   \nBodin,C.,&Belin,P.().Exploringtheerebralsubstrateofvoicepreptioninprimaterains.Plosopicalansactisof the Royal Society B,375(1789),20180386.   \nBonilha,L.Hlis,.E.ickok,GOude,Dorde,C.&FdrkssonJ.().poalobeewoksupgte comprehension of spoken words. Brain,140(9),2370 - 2380.   \nBonte,M.,Hausfeld,,charke,W.,Valente,G,&Formisano,E.(014).Task-dependentdecodingofspeakerandvoweldentit from auditory cortical response patterns.The Journal of Neuroscience, 34(13),4548 - 4557.   \nCandini,M.,AvaniS.，Catagall.angoli,,enasi，Queran,P，Fraineti,.（8)elosttt distinguish between self and other voice following a brain lesion. Neurolmage: Clinical,18,903-911.   \nConnoly,C.G.uJHo.CoeftFWooi.sedrat.Jus..().Retig-stateul connectivityofsubgenualanteriorcingulatecortex indepressedadolescents.Biological Psychiatry,74(12),898-907.   \nCossedu,aooni,.8)ulaledicd case with unilateral right anterior temporal lobe atrophy. Neuropsychology,32(8),920 - 930.   \nDjouab,S.,bonic.Yung,.C,alasina.ogard,A,WabergR.arton,J.J.().archforacetit or expression: Set size efects in developmental prosopagnosia.Journal of Cognitive Neuroscience,1- 17.   \nFruhholz，S.，& StaibM.(2017).Neurocircuitryofimpairedafectivesoundprocessing:Aclinicaldisordersperspective. Neuroscience & Biobehavioral Reviews,83,516 -524.   \nFruholz,S.,Trost,W,&Kotz,S.A.(0l6).Thesoundofemotions-Towardsaunifying neuraletwork perspectiveofaffective sound processing. Neuroscience & Biobehavioral Reviews, 68,96 - 110.   \nGabrieli,J.D.E.().DyslexiaAnwsyergybetweeneducationandcognitiveneuroscience.Sience,5(5938),8.   \nGainoti,G.(O18).Howcanfamiliarvoicerecognitionbeintactifunfamiliarvoicediscrimnation isimpaired?Anintroductionto this special section on familiar voice recognition. Neuropsychologia, 116,151 - 153.   \nGarido,L.FeigCrt,uterleyJhe)eeloal: A selective deficit of vocal identity recognition. Neuropsychologia, 47(1),123-131.   \nHailstoneJe neuropsychological analysis. Neuropsychologia, 48(4),1104-1114.   \nHailstoe,J.CdgG.reJl,Jcl.h.JWaeJ.)Vce dementia: A neuropsychological and neuroanatomical analysis. Brain, 134(9), 2535 - 2547.   \nHerald,S.B.,XuX,iedean,irO.,&lowich,B.E.(4).oagoia:viceomologuetproopgoa.Visl Cognition,22(8),1031 - 1033.   \nKanske,P.,&Kotz,S.A. (2O12).Auditoryafective normsforGerman:Testingtheinfuenceofdepressonandanxietyovalnce and arousal ratings. Plos One, 7(1), e30086.   \nKhalfa,S.,Guye,M.,Peretz,,Chapon,F.，Girard,N.,Chauvel,P.,&Liegeois-Chauvel,C.(2o8).Evidenceoflateralized anteromedial temporal structures involvement in musical emotion procesing. Neuropsychologia,46(10),2485-2493.   \nKristinssonsHourganovGagusdotirasoHtark,.rden)Brainge asociated with impaired sentence procesing in acute aphasia.Journalof Cognitive Neuroscience,32(2),256-271.   \nLancker,D.R.VKreian,J.,&umings,J.(989).Voceprcptiodeicits:Neroaatoicalorlatesofooia. Journal of Clinical & Experimental Neuropsychology, 11(5),665 - 674.   \nLeitman,D.LLuka,P.,Jusln,P.N,acee,E.,utler,PD&Javit,D.C.()GeingeCue:Sesoycorbio auditory emotion recognition impairments in schizophrenia. Schizophrenia Bulletin,36(3),545- 556.   \nLeitman,D.Wlf,D.H,ukaP,aglad,J.DValde,J,ures.,ur.C.).otpicpect contributions to affctivecommunication impairment in schizophrenia. Biological Psychiatry,70(7),611-618.   \nLuzzi,S.,Coiaoonra,.everbri,CCeravlo.vestrini,GinotiG.(8).electieoative phonagnosia after right anterior temporal stroke.Neuropsychologia, I16,154 - 161.   \nMaguiness，C.，Roswandowitz,，C.，&von Kriegstein,K.(2018).Understanding themechanismsoffamiliarvoice-identity recognition in the human brain. Neuropsychologia,116,179 - 193.   \nMaguinness，C.，&Von Kriegstein,K.(20l7).Cro-odal processingof voicesandfacesindevelopmental prosopagnosiaand developmental phonagnosia. Visual Cognition, 25, 644- 657.   \nMcGetigan,C.,Jasmin,K.,Eisner,F,Agnew,Z.K,Josephs,O.J.,Calder,A.J.Scot,S.K.(27).You talin’tome Communicative talker gaze activates left-lateralized superior temporal cortex during perception of degraded speech. Neuropsychologia,100,51 - 63.   \nMitchell,R..C.,Elott,,Brry,.rutnden,A.,&Woodruff,P.W..().euralesponsetmoioalprodyin schizophreniaand in bipolar affective disorder. British Journal of Psychiatry,184(3),223- 230.   \nMuhl,C.&Bestelmeer,P.E.G. (19).AssessgsusceptibilitytoistractonlogthcalprocessghrarcQarterly Journal of Experimental Psychology, 72(7),1657 - 1666.   \nMuhl,C.,Sheil,O.Jarutyte,L,&Bestelmeyer,P.E.G.(018).TheBangor Voice MatchingTest:Astandardizedtestforthe assessment of voice perception ability. Behavior Research Methods,50(6),2184 - 2192.   \nNeuner,F,&hwebrger,S.R.(o).Neuropscologicalimpimntsinthecoitioofacsis,ndperol. Brain and Cognition,44(3),342-366.   \nOmar,R.,HenleyS..D.,BartlettJ.WHailstone,J.CGordon,E.auter,D.,Waen,J.D.(2l).heructral neuroanatomy of music emotion recognition: Evidence from frontotemporal lobar degeneration. Neuroimage, $5 6 ( 3 )$ 1814 -1821.   \nPapagno,C.,attell,G,Carott,A.,ellL,ott,G.(8).fectiveecoiodangoffmospolefro voice in patients with unilateral temporal lobe tumours. Neuropsychologia,116,194- 204.   \nPatel,S.,OiKht.dFgio,Ha.d,.s.E.8)igso critical for expression of emotion through prosody. Frontiers in Neurology, 9(224).   \nPerachione,T.K.,DelTufo,S.N,&Gabrieli,J.D.(20).Humanvoicerecognition dependson languageability.Science, 333(6042), 595 - 595.   \nRohrer,J.D,uterDot,SKoo.,WarenJ..(2).Reepiveprosdinnfentprmaryrsive aphasias.Cortex, 48(3),308 - 316.   \nRoswandowitz,C. (2017).Voice-identityprocessng deficit:Thecognitiveand neural mechanismsof phonagnosia (Unpublished doctorial dissertation), Humboldt University of Berlin.   \nRoswandowitz,C.Kappes,C.Obrig,H.,&vonKriegstein,K. (O18).Obligatoryandfacultative brainregionsforvoice-dentity recognition. Brain, 141(1),234 - 247.   \nRoswandowitz,C,athsuelR,tz,F.Kretewolf,Jhelisk,.,&vonKriegsten,K.().ocasofi developmental voice-recognition impairments. Current Biology, 24(19),2348-2353.   \nRoswandowitz,C.,Schelinski,S.,&vonKriegstein,K. (2O17).Developmentalphonagnosia:inkingneuralmechanismsiththe behavioural phenotype. Neuroimage, 155, 97 - 112.   \nSavitz,J.,&Drevets,W.C.(9).ipolarandajordepresivedisoder:Nuromagingthedevelopmental-egenerativedivide. Neuroscience & Biobehavioral Reviews, 33(5),699 - 771.   \nSchall,S.,Kebel,.J,VoK).rlioregsciatsl mechanisms. Neuroimage, 77,237 - 245.   \nScottS.K.(2019).Fromspeech and talkers tothesocial world:The neural processingof humanspoken language.Science, 366(6461), 58 - 62.   \nShilowich,B.E.,&iederman,(016).Anstimateofthe prevalenceofdevelopmentalphonagnosia.BrainandLanguage,159, 84-91.   \nStevenage,S.V. (2O18).Drawingadistinctionbetween familiarandunfamiliarvoice processing:Areviewofneuropsychological, clinical and empirical findings.Neuropsychologia, 116,162-178.   \nTian,X.,Wang,R,Zhao,Y,Zhen,Z,ong,Y,&Liu,J.(19).Multi-itemdiscrimiabilitypatetofacesidevelotal prosopagnosia reveals distinct mechanisms of face processing. Cerebral Cortex, 30(5),2986 - 2996.   \nVanLancker,D.,&Canter,G.J.(1982).Impairment ofvoiceandfacerecognitioninpatients with hemisphericdamage.Brainnd cognition, 1(2),185 - 195.   \nVanLancker,D&Krean,J(98).Vicediinationdcogioreeparatebii.Nuropscologia()9 834.   \nVanLancker,D.R.,Cummings,J.L.,Kreiman,J.,&Dobkin,B.H.(988).Phonagnosia:Adisociationbetwenfamiliarnd unfamiliar voices. Cortex,24(2),195 - 209.   \nVonKriegstein,K,&Gaud,A.-L.().Iplicitultisesoryssoctionsiflueneviceecogionlo4().   \nVonKriegsteinK.est,,er,ad,.).teciofcedereagsaerio Journal of Cognitive Neuroscience, 17(3),367 - 376.   \nXu,X.,Biederman,I,hilowich,B.E.Herald,S.B.,Amir,O.,&llen,N.E.(2015).Developmentalphonagnosia:Neural correlates and a behavioral marker. Brain and Language,l49,1O6 -117.   \nYoung,A.W.，Fruhholz,S.，&Schweinberger,S.R.(2020).Faceand voice perception: Understandingcommonaitiesand differences.Trends in Cognitive Sciences,24(5),398- 410. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "TheNeural Mechanism ofPhonagnosia ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "ZHOU Aibao, HU Yanbing, ZHOU Yingxin，LI Yu, LI Wenyi, ZHANG Haobo, GUO Yanlin, HU Guoqing ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Human voice recognition is critical for many aspects of social communication. Most people can recognize identity from the voice,but people with phonagnosia seem to have lost this ability. By definition, it means the deficits occurring at different stages of the processing of voice identity. It includes acquired phonagnosia developmental phonagnosia and its subtypes. Acquired phonagnosia patients’damaged brain regions mainly nclude the temporal lobe,Heschl's gyrus and temporal pole.Developmental phonagnosia is associated with atypical responses in the right posterior superior temporal sulcus and dysfunction in the functional connectivity between the temporal lobe and the amygdala. Future research can focus on screening methods, scoping and cultural differences for phonagnosia. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Keywords:acquiredphonagnosia, developmentalphonagnosia， sub-classifications of phonagnosia, neural mechanism ",
+        "page_idx": 15
+    }
+]

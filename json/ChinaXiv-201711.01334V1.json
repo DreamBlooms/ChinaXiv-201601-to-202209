@@ -1,0 +1,436 @@
+[
+    {
+        "type": "text",
+        "text": "新疆天文台数据中心建设与应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张海龙，王杰，王万琼}，聂俊ʰ，冶鑫晨'，朱艳²，托乎提努尔}（1.中国科学院新疆天文台，新疆乌鲁木齐830011；2.中国科学院大学，北京100049;3.中国科学院射电天文重点实验室，江苏 南京210008)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：经过多年观测，新疆天文台积累了大量珍贵的观测数据。如何高效管理快速增长的海量观测数据，如何实现全波段观测数据的融合及未来更大口径望远镜产生的海量数据归档与发布是目前新疆天文台急需解决的问题。新疆天文台数据中心面向天文学科研需求提供天文科学数据服务和基础设施，由新疆天文台计算机技术室负责运行与维护。数据中心以最新的虚拟天文台相关标准为基础建设，基本服务包括：为天文观测项目提供数据保存、管理和发布服务；为有价值的天文科学数据及二次处理后的数据提供长期保存和访问服务；为用户提供科学数据归档与发布服务及相关技术支持。数据资源主要有：新疆天文台 $2 5 \\mathrm { ~ m ~ }$ 射电望远镜的脉冲星观测数据；活动星系核观测数据以及分子谱线观测数据。提供的数据服务有：PPMXL星表锥形检索；海量星表数据在线交叉认证；统一内容描述符信息查询等服务。主要介绍新疆天文台数据中心建设及其提供的服务，如何使用已发布的服务在线检索数据及利用标准虚拟天文台工具实现数据操作。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：数据中心；虚拟天文台；数据发布；检索中图分类号：TP3-05 文献标识码：A 文章编号：1672-7673(2017)01-0094-09",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "当今世界各国都加大了对先进观测设备的研究和投入，仅2008年，我国就有3座大型天文望远镜建成或奠基，分别是每夜光谱观测量上万的国际上最具威力的大天区面积多目标光纤光谱天文望远镜（Large Sky Area Multi-Object Fiber Spectroscopy Telescope，LAMOST)[1]；即将投入使用的 $5 0 0 \\mathrm { m }$ 口径球面射电望远镜(Five-hundred-meter Aperture Spherical Radio Telescope，FAST）[2]；可在厘米、分米波段上同时实现以高空间、高时间和高频率分辨率观测太阳动力学过程的射电频谱日像仪。国际上，平方千米阵列（Square Kilometer Array，SKA）的几个先驱阵列，ASKAP[3]、LOFAR[4]、MeeRKAT[5]等已经产生海量的天文数据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "计算机网络技术的快速发展为海量天文数据的共享及虚拟天文台技术提供了有力的支持[6]。海量天文数据的访问要求传统的数据访问应用或服务能够应对前所未有的海量天文数据的压力[7]。在文档库中检索关键词的全文检索技术目前已经取得了较大进展[8]。数据的指数级增长给数据库查询提出了更严峻的挑战，为了在海量天文数据中快速定位目标文件，需要研究海量天文数据检索、挖掘、交叉认证等技术[9]。在天文界， $\\mathrm { F I T S ^ { [ 1 0 - 1 1 ] } }$ 标准文件包括两类数据格式，一类是 ASCII码，另一类是二进制格式，这两种数据格式都受两条基本限制所制约。FITS文件不适合并行处理及对于不同类别数据合并计算后的元数据不够精确，这两条限制决定了天文数据检索的特殊性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "以脉冲星观测为例，澳大利亚帕克斯(Parkes) $6 4 ~ \\mathrm { m }$ 射电望远镜是南半球唯一的大型射电望远镜，具有得天独厚的地理优势，能够长时间观测银河系中心和南银纬的天体，现在能观测到一千多颗脉冲星[12]。目前已知的所有(射电)脉冲星，超过一半是帕克斯 $6 4 ~ \\mathrm { m }$ 望远镜发现的。帕克斯脉冲星数据库拥有近20万个数据文件[13]，是1991年以来观测的脉冲星搜寻数据和脉冲星到达时间数据，这些数据可以公开免费获取。对于到达时间模式的观测，除了原始数据外，脉冲星数据库还包含相应的“完全压缩”后的数据，即在时间、偏振和频率上完全积分后的数据，这给使用者提供了另一种选择：下载压缩后的文件比下载原始数据花更少的时间。澳大利亚帕克斯 $6 4 \\mathrm { ~ m ~ }$ 射电望远镜观测的数据格式为PSRFITS 格式、Timer 格式。帕克斯的数据发布网站上提供了基于RA、DEC、Cone Search 等服务①。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "新疆南山 $2 5 \\mathrm { ~ m ~ }$ 射电望远镜脉冲星多通道消色散观测系统从2000 年正式开始运行，截止到目前,常规地对300颗脉冲星进行了9\\~11年的到达时间观测，研究了脉冲星周期跃变、星际闪烁、时间噪声、脉冲星自行、轮廓模式变化等。2006 年开发了单脉冲观测模式，研究了巨脉冲、强脉冲、暂现源和磁星的射电辐射。这些研究项目的观测由多人完成，十几年的观测数据存储分散，原始数据往往保存在个人及研究组的电脑中，目前部分数据已过了保护期。建设新疆天文台的数据发布与检索系统，使脉冲星数据可以对全世界的科研人员开放共享。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "很多科学研究成果来源于对历史数据的重新处理。帕克斯多波束巡天的数据后来被重复处理了多次，又发现了大约30颗脉冲星和10颗暂现源。再如，对大麦哲伦云的脉冲星巡天数据的重复分析处理，发现了一个很强的持续时间很短的射电暴，它可能来自银河系外。很多研究成果也来源于几年甚至几十年长时间观测的数据积累，比如脉冲星的时间噪声、脉冲星的周期跃变等。但是这些数据的再处理及新目标的发现均需要完整的数据归档及数据发布系统支撑，所以建设系统、完整的新疆天文台数据归档与发布平台可以在更好地适应国际天文学发展的趋势、提高数据的利用率、产生更大的科研价值等方面打下坚实的基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1数据中心建设",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "新疆天文台数据中心访问地址：htp://data.xao.ac.cn(或http://vo.xao.ac.cn），两个域名分别指向两台互为备份的数据存储服务器，一台位于新疆天文台本部，一台位于南山观测站。数据中心主页如图1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "XAO Data Center ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/4f907ffcc78ff2931d361054b69b0b542e3edeba1fd6214464033e576c9e3e44.jpg",
+        "img_caption": [
+            "图1新疆天文台数据中心主页Fig.1The homepage of XAO data center"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "两台数据服务器的配置信息如表1，分别提供12核24线程2.2G中央处理器两颗、48TB存储空间、64GB内存。目前可满足新疆天文台数据归档与发布的需要。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f8f733bf1168346dce9bb68de3ca42493c6af500677951289e66a8d3e302f593.jpg",
+        "table_caption": [
+            "表1数据服务器配置信息",
+            "Table1 Configuration information "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>配件</td><td>规格参数</td><td>数量</td></tr><tr><td>中央处理器</td><td>Intel（R）Xeon（R）CPUE5-2692v2 @ 2.20 GHz</td><td>2</td></tr><tr><td>内存</td><td>8 GB</td><td>8</td></tr><tr><td>硬盘(OS)</td><td>300 GB</td><td>2</td></tr><tr><td>硬盘(DATA)</td><td>4 TB</td><td>12</td></tr><tr><td>主板</td><td>Intel Corporation C600/X79 series chipset</td><td>1</td></tr><tr><td>附加网络接口</td><td>IB Card 56 Gbps</td><td>1</td></tr><tr><td>机箱</td><td>2U</td><td>1</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2数据中心服务",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1天文数据查询语言",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "天文数据查询语言②（Astronomical Data Query Lauguage，ADQL)是一种类似 SQL 的语言，用来检索天文星表或者其他以表形式存在的数据集。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图2为天文数据查询主页面，服务对应网址 http://data.xao.ac.cn/_system_/adql/query/form，通过主页面可实现对新疆天文台已发布的所有数据进行查询操作。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实例1：select name,code from obscode.data where name like‘%Nanshan%’and code like‘%1’，可实现在已发布的观测台站坐标查询服务中查找名字包含“Nanshan”字符串的台站。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实例2：select $*$ from ppmxl.main where $1 =$ CONTAINS（POINT（‘ICRS’，raj200O，dej200O），CIRCLE（‘ICRS’，10.684 7929，41.269 0650，0.1)），可实现检索 PPMXL 星表中以 M31（10.684 7929,41.269 0650)为中心， $0 . 1 ^ { \\circ }$ 半径天区内所有的目标。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 锥形检索 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "锥形检索③(Cone Search)是在指定半径的一个锥形天区中的一种检索。作为虚拟天文台体系中第1个数据访问协议，锥形检索力求简便，从而使数据发布者能快速将其实现成为一个有力的搜索工具。一个锥形检索服务必须支持带有3个输入参数的HTTPGET请求，并做出反应。请求中3个必要参数分别指赤经（RA，J2000）、赤纬（DEC，J2000)以及检索半径（SR）。3个参数都以十进制为单位，通过一个可选的冗余参数，用户可以指定服务返回表格形式的列数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "新疆天文台发布的 PPMXL 星表数据锥形检索服务网址 htp://data.xao.ac.cn/ppmxl/q/cone/form。如图3，在Position/Name 栏输人 M31，在 Search radius 栏输入6，可查询以 M31为中心， $6 ^ { \\prime \\prime }$ 为半径在PPMXL星表中有多少个目标，输入完成后点击GO按钮可以看到相应的检索结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 表访问协议",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表访问协议④（Table AccessProtocol，TAP)定义了一个服务协议访问表数据，包括天文目录以及通用数据库表。提供访问数据库和表的元数据以及实际的表数据。TAPV1.0协议支持多种查询语言，包括天文数据查询语言和正在开发中的参数化查询语言（Parameterised Query Language，PQL），它还支持同步和异步的数据查询操作，对天文数据查询语言中的空间扩展及索引查询提供特殊支持。多目标查询功能允许查询任意大型天文目标列表，并提供了简单的空间交叉认证的功能。更复杂的分布式交叉认证功能可以通过分布式查询实现。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/def365a2f58a6ca0fac5ffcd030b04cf6ff76711c5718c33ff7c9de16d84efa6.jpg",
+        "img_caption": [
+            "1期",
+            "图2天文数据查询界面"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7245fbc0ab93a1802573f76f94457eafed529a1c0dd8e2a910aa87601c0c908e.jpg",
+        "img_caption": [
+            "Fig.2The Interface ofADQL ",
+            "图3PPMXL星表数据查询 Fig.3PPMXL catalog query "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "新疆天文台发布的表访问协议查询服务如图4，网址 htp://data.xao.ac.cn/glots/q/plain/form。服务可以实现已注册到国际虚拟天文台联盟（Intemnational Virtual Observatory Alliance，IVOA）中的表及字段数据的直接查询。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "XAO Global TAP Schema Simple Search This service lets you find columns within VO TAP services by UCD Home or description words. Help For UCD, you willfrequently want to use regular expression matches (e.g.\\~ pos. eq\\*). Note that, unfortunately, many services Service info still use old-style UCDs (see Movinq to UCD1+). Thus, to find all Related interesting columns, you may need to search multiple times. TAP servers The table can also be queried using TAP or on our ad-hoc ADQL service. Metadata Identifier UCD [?char expr.] ivo://xaovo/glots/q UCD of column (many services still have 1.0 UCDs). Description Table words The global TAP sC Terms in table description (case does not matter,patternsnot allowed) Keywords Virtual observaton Column words Terms in column description (case does not matter, patterns not allowed) Creator Author: Hailong Zi Table Sortby Limit to100 items. Created 2010-07-26T13:39 Output format HTML ■ Data updated 2016-01-28 G Reference URL Service info ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图4表访问协议查询服务Fig.4TAP Service"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4简单应用程序消息传递协议 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "简单应用程序消息传递协议③（Simple Application Messaging Protocol，SAMP）可以实现天文软件间的互操作和数据交换。建立一个独立的工具，试图满足所有用户的需求是不切实际的，任何工具软件都不是万能的。但是可以通过协议实现，协议可以约束软件的行为与接口，实现消息的正常传递。简单应用程序消息传递协议是一个高效利用有限的资源，使个人工具更好地协同工作的协议。此协议的特性是定义常见的文件格式完成不同应用程序之间的数据交换，重要组件是一个消息传递系统，它允许应用程序共享数据和利用彼此的功能，支持桌面和网络浏览器间的应用程序通信，形成一个更一般的消息传递框架以满足后续消息传递的需求。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "新疆天文台发布的数据服务均支持简单应用程序消息传递协议，可将查询结果直接传递给标准的虚拟天文台工具，进行数据挖掘、可视化等相关操作。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5新疆天文台数据中心在线交叉认证服务",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5.1 交叉认证描述",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "天文交叉认证是实现多波段数据融合的基础[14]，是加深对天体的认识、促进天文学新发展的关键一步，同时也是大型望远镜在观测前选源阶段进行星体类型识别的核心技术。交叉认证是指两个不同波段的星表数据，以第1个星表源的位置为中心，对该星表中的每一个源都在另一个星表中寻找对应体，若两个源之间的球面角距离小于某一特定值，就认为这两个源是同一天体。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5.2 交叉认证原理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以图5中的两点A、 $B$ 为例，它们分别来源于星表 $A$ 和星表 $B$ ，设其坐标分别为 $( \\alpha _ { 1 } , \\delta _ { 1 } )$ 、 $( \\alpha _ { 2 }$ ，",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\ S _ { 2 }$ )，它们之间的球面角距离可以按如下步骤计算：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据球面余弦定理：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\angle A O B = \\cos \\angle A O N \\mathrm { c o s } \\angle B O N + \\sin \\angle A O N \\mathrm { s i n } \\angle B O N \\mathrm { c o s } \\angle A N B\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= \\mathrm { s i n } \\delta _ { 1 } \\mathrm { s i n } \\delta _ { 2 } + \\mathrm { c o s } \\delta _ { 1 } \\mathrm { c o s } \\delta _ { 2 } \\mathrm { c o s } ( \\alpha _ { 1 } - \\alpha _ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd = \\angle A O B = \\operatorname { a r c c o s } \\left[ \\sin \\delta _ { 1 } \\sin \\delta _ { 2 } + \\cos \\delta _ { 1 } \\cos \\delta _ { 2 } \\cos ( \\alpha _ { 1 } - \\alpha _ { 2 } ) \\right] .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "当 $A , B$ 两点之间角距离很小时, $\\delta \\approx ( \\delta _ { \\scriptscriptstyle 1 } + \\delta _ { \\scriptscriptstyle 2 } ) / 2$ 所以有 $d ^ { 2 } = [ ( \\alpha _ { 1 } - \\alpha _ { 2 } ) \\mathrm { c o s } \\delta ] ^ { 2 } + ( \\delta _ { 1 } - \\delta _ { 2 } ) ^ { 2 }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "认证成功的判断公式：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd = { \\sqrt { \\left[ \\left( \\alpha _ { _ 1 } - \\alpha _ { 2 } \\right) \\cos \\delta \\right] { } ^ { 2 } + \\left( \\delta _ { _ 1 } - \\delta _ { _ 2 } \\right) { } ^ { 2 } } } \\leqslant 3 { \\sqrt { { r _ { 1 } } ^ { 2 } + { r _ { 2 } } ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中， $r _ { 1 }$ 和 $r _ { 2 }$ 为两个星表的误差半径，也就是当两点之间的距离满足上式时，可以认为两点认证成功，互为匹配的对应体。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5.3 交叉认证实现 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "新疆天文台发布的在线交叉认证服务如图6，目前可以实现本地文件及远程统一资源定位符（Uniform Resource Locator，URL)方式上传带有 RA（ucd:pos.eq.ra）、DEC（ucd：pos.eq.dec）信息的星表数据文件。选择目标星表，可以是新疆天文台发布的所有数据中任何一张表，最后选择所要匹配的搜索半径，由于单台观测设备存在误差，所以根据自己星表数据产生设备的具体指标输入搜索半径。之后点击GO按钮，可以得到认证结果。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b2f38571c9df9a31f19d304a0948d36ef4f176b56dd5f8f4853fe6dcc4d3a4ce.jpg",
+        "img_caption": [
+            "图5球面两点交叉认证原理 Fig.5The principle of cross validation for two spherical points ",
+            "图6交叉认证服务",
+            "Fig.6Cross validation service "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "XAO DC Custom Uploac X data.xao.ac.cn/cross/q/match/form XAD XAO DC Custom Uploading Crossmatcher This service lets you upload VOTablesand crossmatch them Home against various tables in the DC.The selection belowcorresponds totheTablesavailableforADQL(see thereforexplanationswhat Help the tables are). Service info See the service info for more information on what input the service   \nMetadata expects.   \nIdentifier Local file 选择文件未选择任何文件   \nivo://xaovo/cross/q/match Alocalfiletoupload(overridesremotetableif given).   \nDescription Remote URL   \nA plain positional crossma AURL fora table tocrossmatch.   \nKeywords TargetTable tap_schema.groups 1   \nCatalogs Nameof the tabletomatchagainst.   \nCreator Search radius 0.001   \nAuthor:HailongZhangg [deg] Search radiusin crossmatch   \nCreated Table Limit to100 items.   \n2009-06-30T10:32:00Z Output format HTML   \nData updated   \n2015-10-19 Go   \nReference URL ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5.4 参考实验 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "利用新疆天文台发布的PPMXL 星表为测试目标，以URL：htp://data.xao.ac.cn/static/cross-match（4000星表记录)为输入条件，选择PPMXL.MAIN（近10亿条记录)星表， $0 . 0 0 1 ^ { \\circ }$ 为半径，在毫秒量级时间内可以得到匹配结果，大概757条。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.6新疆天文台观测数据服务",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "数据中心已基本完成对南山 $2 5 \\mathrm { m }$ 射电望远镜观测产生的脉冲星、短时标光变(Intra-Day Variability，IDV）、分子谱线等科研数据的在线存储、归档、备份，并向全台相关研究人员提供数据的发布与存储等服务。以脉冲星数据为例，脉冲星数据检索网址 htp://data.xao.ac.cn/pul/pulsar/q/form，脉冲星数据实现了锥形检索与基于元数据信息的多目标约束检索。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "以脉冲星数据检索系统为例，打开检索页面并在“TargetObject”中选“ $\\mathrm { J 0 } 3 3 2 \\substack { + 5 4 3 4 } ^ { \\prime \\prime }$ ，在“Data_obs”中填入 $\\cdots { ^ { \\ast } } \\sim \\ast 2 0 1 4 \\ast ^ { \\prime \\prime }$ ，在“Outputformat”中选择“HTML”。以HTML方式输出时可以预览脉冲轮廓及其它相关信息。如果期望得到更多返回结果，可以调整LIMITTO值。在“Preview”中点击“［Preview（pav-DFTp）]”可以查看相应脉冲轮廓大图。同时在输出左上角有一个“Send via SAMP”按钮，可将检索结果送给支持简单应用程序消息传递协议的虚拟天文台工具，利用 TOPCAT等软件可接收数据检索结果并进行可视化操作。具体查询及使用方法详见文[15]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3结果输出格式",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "数据中心支持多种数据格式输出，可选择 HTML、FITS Table、CSV、JSON、VOTable、tar等格式的数据输出，如果数据量较大且文件个数较多时可选择tar 格式，直接打包下载所有满足条件的数据。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "因为浏览器响应需要时间，数据量大时会导致无响应。Limit to字段约束结果输出的行数，可根据需要调整相关数值。More output fields 中用户可选择更多的输出字段，从而得到更丰富的数据信息。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4虚拟天文台工具查询",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "数据中心的脉冲星数据、PPMXL星表锥形检索等服务已完成IVOA 注册，通过标准虚拟天文台工具，可以检索到我台已发布的数据信息，利用TOPCAT锥形检索工具可查找已注册到IVOA的服务中带有“xao”字符的服务，（新疆天文台缩写为XAO，所以我台发布的服务均可通过“xao”字符查找），具体查询及使用方便详见文[15]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5总结 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "新疆天文台数据中心已基本具备数据归档和发布功能，并以虚拟天文台协议为基础实现了新疆天文台历史数据的归档与发布。目前已归档脉冲星数据32390条记录，最大文件1GB，针对脉冲星数据建立了以锥形检索、观测目标等为基础的多约束目标检索；针对短时标光变、恒星形成实现了锥形检索服务。以并行计算技术为基础发布的海量数据在线交叉认证服务可实现高速在线交叉认证，并且提供了本地数据上传及远程统一资源定位器两种方式，上传后数据可与数据中心已发布的星表数据及其它数据进行交叉认证，测试结果显示以4000目标匹配10亿目标，计算返回时间为毫秒量级。数据中心的天文数据查询服务使用户可以通过天文数据查询语言查询到数据中心发布的所有允许查询的数据；UCD查询服务可以实现统一资源定位符内容的查找；天文台代码查询服务可以实现全世界各天文台站的坐标相关信息查询。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "新疆天文台数据中心的数据挖掘与可视化相关操作还有待进一步完善。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "致谢：感谢天文学科技领域云项目成员对新疆天文台数据中心建设的支持。数据中心测试与数据的预处理在新疆天文台Taurus 高性能计算系统上完成。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1］崔向群.LAMOST项目及进展［J]．天文学进展，2001，19(2）：123-128.Cui Xiangqun. LAMOST project and its progress [J]. Progress in Astronomy，2001，19（2）:123-128.  \n[2]南仁东，李会贤.FAST的进展—科学、技术与设备［J]．中国科学，2014，44（10）：1063-1074.Nan Rendong，Li Huixian. Progress of FAST in science，technique and instrument [J]. ScienceChina，2014，44(10）：1063-1074.  \n[3] Johnston S，Taylor R，Bailes M，et al. Science with ASKAP [J].Experimental Astronomy,2008，22(3):151-273.  \n[4] Mol JD,Romein JW. The LOFAR beam former: implementation and performance analysis [J].Lecture Notes in Computer Science，2011，6853:328-339.  \n[5] Jonas JL. MeerKAT-the South African array with composite dishes and wide-band single pixelfeeds [J].Proceedings of the IEEE，2009，97(8）：1522-1530.  \n[6] 崔辰州，赵永恒.中国虚拟天文台体系结构［J］．天文研究与技术—国家天文台台刊，2004，1(2) : 140-151.Cui Chenzhou， Zhao Yongheng. Architecture of Chinese virtual observatory [J]. AstronomicalResearch & Technology——Publications of National Astronomical Observatories of China, 2004,1(2) : 140-151.  \n[7] 宋雯斐.全文检索研究与系统实现［D].北京：北京师范大学，2004.  \n[8] 喻宏勇，赵铁军，郑德权，等.一种面向文件的高效检索方法［C］/／中国中文信息学会二十五周年学术会议.2006.  \n[9] 赵青，孙济洲，于策，等．面向海量数据的并行天文交叉证认［J].计算机应用，2010，30(8): 2096-2060.Zhao Qing，Sun Jizhou，Yu Ce，et al. Parallel massive data oriented astronomical cross-match[J].Journal of Computer Applications，2010,30(8）：2096-2060.  \n[10]崔辰州，李文，于策，等.FITS 数据文件的检索和访问［J].天文研究与技术—国家天文台台刊，2008，5(2)：116-123.Cui Chenzhou，Li Wen，Yu Ce，et al.Search and location of FITS data files [J].AstronomicalResearch & Technology- —Publications of National Astronomical Observatories of China，2008,5(2) : 116-123.  \n[11]Wels D C，Greisen E W,Harten R H. FITS:a flexible image transport system [J]. Astronomy& Astrophysics Supplement Series，1981，44: 363-370.  \n[12]Manchester R N,Lyne A G,D'Amico N,et al. The parkes Southern pulsar survey-I. observingand data analysis systems and initial results [J].Monthly Notices of the Royal AstronomicalSociety，1996,279(4): 1235-1250.  \n[13]Hobbs G,Millera D,Manchester R N. The Parkes observatory pulsar data archive [J].Publicationsof the Astronomical Society of Australia，2011，28(3）:202-214.  \n[14］赵青.面向海量数据的高效天文交叉证认的研究［D].天津：天津大学，2010.  \n[15]Zhang Hailong，Markus Demleitner，Wang Na，et al. Data retrieval from Xinjiang AstronomicalObservatory's pulsar data archive ［J]. Astronomical Research & Technology，2016，13（4）:473-480.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Construction and Application of the Data Center in Xinjiang Astronomical Observatory ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Zhang Hailong $^ { 1 , 3 }$ ，Wang Jie $^ { 1 }$ ，Wang Wanqiong'，Nie $\\mathbf { J u n } ^ { 1 }$ ，Ye Xinchen’，Zhu Yan1,²，Tohtonur' (1.Xinjiang AstronomicalObservatory，ChineseAcademyofSciences，Urumqi830ol1，China,Email；zhanghailong@xao.ac.cn;   \n2.University of Chinese Academy of Sciences，Beijing 10o049,China;   \n3.Key Laboratory of Radio Astronomy，Chinese Academy of Sciences，Nanjing 21ooo8，China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Xinjiang Astronomical Observatory （XAO） has accumulated massive valuable observational data afteryears of observation.Problems including how to eficiently manage therapid growth of the massive observational data，how toachieve the integration of the whole band observationsas well as archive and publish massve data produced by larger diameter telescopes in future are extremely urgent and hence need to be solved in a timely manner.XAO data center is a scientific data service infrastructure designed to meet the demands of scientific research inastronomy.ICT is in charge of the implementation and maintenance of this project.This data center is constructed based on the relevant standardsof virtual observatory.Its basic services include:providing services of data storage，management and release for astronomical observation programs, offering services of long-term preservation and access for valuable astronomical data and processed secondary data，offering scientific data archiving，release and technical support for users.Its main data resources include pulsar observation data，observed data of active galactic nuclei and molecular spectrum，all of which are obtained by the $2 5 \\mathrm { m }$ Radio Telescope in XAO. Data services provided by this center include PPMXL catalog data online massive cone search，cross validation，UCD information query services and so on.This paper will mainly focus on introducing the construction of the XAO data center，its services，and how to use these services to retrieve data or use standard VO tool to realize data operation. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:Data center；Virtual Observatory；Data releases；Index ",
+        "page_idx": 8
+    }
+]

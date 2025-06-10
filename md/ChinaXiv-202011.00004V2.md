@@ -1,0 +1,194 @@
+# 口译员的认知转换优势
+
+赵宏明1 董燕萍2
+
+(1广东外语外贸大学外国语言学及应用语言学研究中心，广州510420)
+
+(浙江大学外国语言文化与国际交流学院，杭州310058)
+
+摘要口译可视为一种强化的双语转换活动。与一般双语者相比，口译员在基于规则(rule-based)的转换与基于任务(task-based)的转换两方面都表现出了优势，但基于任务的转换优势存在局部转换与整体监控的争议。经初步探索，口译训练首先带来局部转换优势(单价任务的转换代价)，随后带来整体监控优势(双价任务的混合代价)。口译涉及的高强度语言转换及特殊的语言控制特性可能是影响口译员认知转换优势的因素。上述结果对双语优势及其他相关研究有启示作用。
+
+关键词认知转换能力，口译员认知转换优势，规则转换，任务转换，双语优势
+
+分类号 B842
+
+# 1引言
+
+语言经验如何影响个体的认知控制能力是学界关心的热点问题。相比于单语经验，双语经验有一个重要不同，即语言间的转换经验。研究发现，语言转换与一般的任务转换具有部分重合的神经机制(如 de Baene et al.,2015;Weissberger et al.,2015；综述见 Abutalebi & Green,2016；何文广,陈宝国,2011；刘欢欢，陈宝国,2015；孙逊 等,2017)。因此，长期的语言转换经验可能会提升双语者的认知转换能力。针对该假设，研究者进行了大量实证研究，但结果有一部分支持该假设(如Prior&Gollan,2011;Prior＆ MacWhinney,2010；焦鲁 等，2016)，也有一部分不支持该假设(如Paap& Greenberg,2013;Paap& Sawi,2014)。结果的不一致可能与双语者语言交流情境的复杂性有关(Li& Dong,2020)。根据 Green 和 Abutalebi (2013)提出的自适应控制假说(the Adaptive ControlHypothesis)，不同情境所需的语言控制不同。为了适应具体情境下的控制要求，双语者会相应调整自身的执行功能，因此执行功能受到的影响也存在差异。以此类推，双语者认知转换优势可能产生于一定的语言转换条件。
+
+在此背景下，口译作为一种高频率、高强度的双语转换情境值得关注。首先，由于口译员需要在强时间压力下来回地进行源语与译切换，口译员可能比一般双语者更加需要调用自己的认知转换能力，因此也更容易产生认知转换优势。再者，如果与一般双语者相比，口译员能够表现出认知转换优势，则不仅为双语经验增强转换能力的假设提供了进一步证明，而且还能在此基础上回答优势产生条件的问题。迄今为止，已有实证数据显示转换能力与口译水平有关(MacNamara et al,2011; Timarova et al.,2014)，这为探索口译员认知转换优势提供了支持。同时，与双语者认知转换优势研究结果相比，口译员认知转换优势的研究结果也更为一致(综述见Dong＆ Zhong，2019;Garcia, 2014; Garcia et al., 2019)。
+
+本文首先对认知转换能力进行界定，再梳理口译员认知转换优势研究的结果，最后讨论了影响口译员认知转换优势的因素，以期能给相关领域的研究提供一点借鉴。
+
+# 2认知转换能力及测量
+
+认知转换能力指的是人们根据情景变化在不同认知任务或思维状态之间进行切换的能力(Diamond,2013;Miyake&Friedman,2012)，在文献中也称为转换能力(switching ability)、心理定势转换(mental set shifting)或认知灵活性(cognitive/mental flexibility)。根据定义可以看出，认知转换可发生在不同层面，既包括抽象的思维层面，也包括具体的任务层面。相应的，测量转换能力的实验范式也可分为两类。第一类测量由于任务规则发生变化而导致的转换，可称其为基于规则的转换(rule-based switch)，简称"规则转换”。第二类测量由任务的刺激特征或反应按键改变而诱发的转换，可称其为基于任务的转换(task-based switch)，简称"任务转换”。下面介绍两类范式的代表性测量工具。
+
+“规则转换"范式的代表性测量工具为威斯康辛卡片分类任务(Wisconsin Card Sorting Test，以下简称 WCST)。该任务一般由64或128张反应卡以及4张刺激卡构成。4张刺激卡一直平行摆放在电脑屏幕上，每张刺激卡上的几何图形在颜色、形状和数量三个维度上均存在差异。测试中，被试须将每次新出现的反应卡归类至某一张刺激卡，但事先并不知道分类规则。被试根据每次反应后收到的"正确"或"错误"反馈寻找分类规则。若干试次后规则会发生改变，被试同样根据反馈调整分类规则。WCST 的指标众多，如反映被试整体表现的完成分类数(categories completed)，以及各类有关错误反应的指标：错误应答数(total errors)、持续性错误数(perseverative errors)、根据上一分类规则的持续错误数——其中，最后一项指标指被试在收到错误的提示反馈之后，仍然坚持上一条的分类规则继续犯错的试次数目。它较典型地反映了被试的思维灵活性，数值越大，说明被试越难以将思维转换到其他规则，转换能力越差。
+
+“任务转换"范式以颜色-形状转换任务(color-shape switching task)最为常见。该任务要求被试以按键方式对图形刺激进行颜色判断(如"红色"或"绿色")或形状判断(如"圆形"或"三角形")。整个任务分为"单任务组”(single block)和"混合任务组”(mixed block)。单任务组中，被试仅进行颜色判断或仅进行形状判断；而混合任务组中，被试依据所给线索决定进行颜色或形状判断。若当前试次与上一次试次的判断任务相同，则当前试次为重复试次(repeated trials)。反之，则为转换试次(switch trials)。执行转换任务时，会产生两类认知消耗。一类为转换代价(switch cost)，指的是混合任务组中的转换试次和非转换试次的平均反应时或正确率差值。它反映了在实际发生任务转换过程中具体、短暂的控制机制(Braver et al.,2003; Logan & Bundesen,2003)。另一类为混合代价(mixingcost)，指的是混合任务组中的非转换试次和单任务组中的试次的平均反应时或正确率差值。它反映了在可能发生任务转换的情境下，维持两种任务设置激活所需的整体、持久的冲突监控能力(Braver et al., 2003; Koch et al., 2005)。
+
+# 3口译员认知转换能力及其优势
+
+研究表明，认知转换能力既参与口译加工，也受口译经历影响(如Dong&Li,2020)，但各研究在结果上仍存在较大差异。讨论这些差异时，我们注重将转换能力的本质与口译特性(尤其是口译员发展情况)相结合分析，同时考虑不同任务与指标带来的影响。因为口译是一项极为复杂艰巨的任务，处于不同阶段的口译人员，由于自身发展水平的限制，其认知转换能力与口译的互动关系也可能变化，测量方法也就需要相应调整。顺此思路，我们提出了未来值得研究的问题及可能的解决方案。
+
+# 3.1认知转换能力在口译任务中的表现
+
+目前，该主题下主要为探索性研究(exploratory studies)。一方面，有证据显示，口译员认知转换能力与口译绩效相关。MacNamara 等人(2011)发现转换能力高低可以预测口译水平。他们比较了不同口译水平的手语-英语同声传译(简称"同传”，下同)译员在数字-字母连线任务(也是测量任务转换能力的工具)和 WCST 上的差异，发现高水平口译员连线任务显著快于低水平口译员，在WCST 错误率方面也更低(边缘显著)。这说明转换能力强的口译员很可能会在口译任务上表现出优势。Timarova等人(2014)将 28 名职业译员的数字-字母转换任务表现与一项同传任务(二语到一语)的各项指标做相关分析，结果显示同传译员转换能力与同传任务中的听译时差(ear-voice span)负相关，转换能力越强，听译时差越短。另一方面，也有研究未能发现转换能力与口译绩效的相关性。MacNamara 和Conway (2016)收集了34 名手语-英语同传学员在不同口译训练时间段的手语到英语的同传测试成绩，并使用数字-字母连线任务和WCST测量了这些同传学员的转换能力，结果未发现这两项转换任务的指标与同传测试成绩有显著相关，而且任务指标也无法预测译员在口译训练中同传水平的发展。
+
+上述矛盾结果似乎表明，口译员的认知转换能力与同传中具体加工过程(听译时差)有关，但无法在最终成绩上表现出来。从口译特性角度思考，首先，听译时差在同传中几乎无法避免，因为同传译员产出目标语之前须先听取并加工一个有意义的源语信息块。我们推测，若口译员认知转换能力较强，可能更容易将源语信息转换为译语表达，进而缩短听译时差。另外，听译时差越长，工作记忆负荷越重。进一步推测，听译时差之所以与转换能力相关，可能本质是因为反映了口译中涉及工作记忆加工层面的机制。值得注意的是,MacNamara 和 Conway (2016)中虽然转换能力与最终同传测试成绩不相关，但口译员初始的工作记忆能力得分加上初始同传测试成绩预测了高达 $73 \%$ 的最终同传测试成绩变异量。那么，转换能力是否会通过工作记忆能力的指标与口译测试成绩发生间接关联？这有待进一步验证(如结构方程模型)，方法可参见董燕萍等人(2013)。
+
+# 3.2 □译员认知转换优势 来自规则转换的证据
+
+口译员规则转换优势假设已在多项研究中得到重复验证。例如，Yudes 等人(2011)横向对比了职业同传译员(16 名)、普通双语者(16 名)和普通单语者(16 名)在WCST 上的表现，结果发现职业同传译员在总体错误数、持续性错误数、根据上一分类规则的持续性错误数方面都显著少于另外两组被试。由于同传译员的工作记忆容量比其他两组被试大，为排除该因素影响，研究者将3组被试的工作记忆容量匹配后又做了分析，结果仍显示同传译员在上述WCST指标的优势。以上为同传译员展现的优势，还有研究考察交替传译(简称"交传”，下同)学员的情况。Dong 和 Xie (2014)包括4 组被试：一组本科交传学员(46 名)与一组研究生交传学员(20 名)，以及各自的对照组(分别为45 名和 43名)。研究生交传学员接受的交传训练量显著多于本科交传学员。他们发现，两组交传学员在WCST的4项指标(完成分类数、总错误数、持续性错误数、根据上一分类规则的持续错误数)上都显著优于其他两组未受过口译训练的双语者。此外，匹配两个口译组的二语水平后，研究生交传学员在WCST 的一些指标上(完成分类数、总错误数、根据上一分类规则的持续性错误数)也要优于本科交传学员。这表明口译训练越多，可能会进一步提高WCST的表现。
+
+与上述研究略有不同的是,Dong 和Liu(2016)使用WCST测试了44名交传学员与37名普通双语学生，口译组仅在完成分类数方面显著多于对照组，其他指标无组间差异。这可能与口译组仅接受了一学期的口译训练有关。另外,Santilli等人(2018)比较17名职业同传译员与17名普通双语者在WCST上的表现，他们仅使用总错误数和完成分类数两类指标做分析，结果未发现口译员规则转换优势。考虑到WCST属于复杂的认知任务，虽然常用来测量认知转换能力，但还涉及抑制、抽象性思维(abstract thingking)、问题解决(problem solving)等能力。因此，口译员在WCST 的一个或是多个指标上显现出优势，可能不单纯是由口译员认知转换能力决定的，而是当前阶段口译员的多项认知控制能力综合作用的结果。至于WCST中哪些指标更能反映口译员认知转换能力，我们在 4.2 节做了讨论。
+
+以上证据都来自横向对比研究，其固有缺点是无法确定口译经验与规则转换优势的因果关系。克服该缺点需要采用历时追踪的方法。MacNamara 和Conway (2014)招募了21名手语-英语同传学员，使用WCST 测试他们约两年口译训练前后的转换能力。结果发现经口译训练后，同传学员
+
+WCST的正确率显著提高。然而，该研究没有设置对照组进行比较，因此无法确定这些译员在转换能力上的变化是真的由口译训练引起，还是由别的因素引起(如WCST任务的练习效应)。
+
+综上所述，尽管历时研究在设计上还有一些待改进之处，但横向与历时研究的证据互为支撑，较有力地证明了口译作为高强度的语言转换训练可以提升口译员的规则转换能力。
+
+# 3.3 □译员认知转换优势 来自任务转换的证据
+
+如第2节所述，任务转换涉及两类指标：转换代价与混合代价，且它们分别反映了任务转换过程中不同的控制机制：局部转换能力(Braver et al.,2003;Logan & Bundesen,2003)与整体监控能力(Braver et al.,2003;Koch etal,2005)。目前，口译员任务转换优势在两类指标上都有体现。然而，有些研究仅发现口译员局部转换层面优势(Dong&Liu,2016)，另一些研究仅发现口译员整体监控层面优势(Babcock & Vallesi,2017; Becker et al.,2016)。此外，还有一些研究(Babcock et al.,2017; vande Putte et al.,2018)未发现优势证据。鉴于上述复杂结果，有必要找出导致优势不稳定的因素。
+
+近期，已有研究做了初步探索。Zhao 和Dong (2020)发现，文献中的不一致结果与各研究的设计差异有关。为清晰展现这些差异，表1列出了目前相关文献的任务种类、被试情况及优势结果]。
+
+表1口译员任务转换优势在不同颜色-形状转换任务及被试条件下的体现  
+
+<html><body><table><tr><td>文献</td><td>优势组 (18≤n≤47)</td><td>对照组 (18≤n≤37)</td><td>优势体现</td></tr><tr><td>单价颜色-形状转换任务</td><td></td><td></td><td></td></tr><tr><td>Dong & Liu (2016)</td><td>交传学员</td><td>普通双语学生</td><td>转换优势a</td></tr><tr><td>Zhao & Dong (2020)</td><td>交传学员</td><td>普通双语学生</td><td>转换优势a</td></tr><tr><td>双价颜色-形状转换任务</td><td></td><td></td><td></td></tr><tr><td>Zhao & Dong (2020)</td><td>交传学员</td><td>普通双语学生</td><td>监控优势b趋势‘</td></tr><tr><td>Babcock et al., (2017)</td><td>同传学员</td><td>普通多语学生</td><td>无</td></tr><tr><td>van de Putte et al., (2018)</td><td>同传学员</td><td>普通多语学生</td><td>无</td></tr><tr><td>Becker et al., (2016)</td><td>职业同传译员</td><td>普通多语专家</td><td>监控优势b</td></tr><tr><td>Babcock &Vallesi (2017)</td><td>职业同传译员</td><td>普通多语专家</td><td>监控优势b</td></tr></table></body></html>
+
+注释：a.转换优势体现在转换代价；b.监控优势体现在混合代价;c.监控优势趋势指混合代价组间差异边缘显著。
+
+我们从中可以获取两点信息。其一，优势在不同指标上体现，可能与各研究采用不同的任务效价(task valence)设计有关。由表1可见,Dong 和Liu (2016)采用单价(univalent)颜色-形状转换任务发现了口译员局部转换优势，该任务的特点是刺激仅与颜色或形状两个属性中的一个属性联结(例如，一个黑白线条的三角形，缺少颜色属性)，同时颜色与形状判断对应的反应按键彼此不重合。
+
+Babcock 和 Vallesi (2017)，以及Becker 等人(2016)采用双价(bivalent)颜色-形状转换任务发现了口译员整体监控优势，该任务的刺激同时具备颜色与形状两个属性(例如，一个有色的三角形)，并且颜色与形状判断对应的按键重合。为验证任务效价对测量结果的影响,Zhao 和Dong (2020)使用单价与双价两类任务测量了同一批口译员及对照组的转换能力，结果发现在单价任务中口译组的转换代价显著小于对照组，而两组人在双价任务的转换代价无显著差异，这说明任务效价确实影响了测量结果。
+
+任务效价的影响可通过任务要求(task demands)的差异解释。与单价任务相比，双价任务的任务要求更高，因为被试执行双价任务时需要克服额外的干扰(如在做形状判断时，需要暂时忽略图形中的颜色属性)。有研究表明，该干扰对转换试次与重复试次都产生了影响，说明克服该干扰的机制并不仅针对局部转换过程，而是接近于一种整体控制机制(Rubin&Meiran,2005)。因此，双价任务可能对探测整体监控能力的组间差异更加敏感。相反，由于单价任务在整体控制要求方面低于双价任务，可能更易于探测局部转换能力的组间差异。然而，有部分研究采用了双价任务，却未能发现口译员整体监控优势(Babcock et al.,2017; van de Pute et al.,2018)，这与基于任务效价的预测相悖，因此可能还存在其他影响优势结果的因素。
+
+其二，优势的不稳定(包括无优势的情况)或反映了优势的动态发展，即随着口译训练阶段的深入，口译员任务转换优势可能会由局部转换层面向整体监控层面变化。该假设是基于各研究的被试差异提出的。表1显示，各研究的口译员处于3个不同的口译训练阶段——(1)起始阶段：对应于交传学员(Dong&Liu,2016)，截至实验前他们刚接受一学期(约4个月)的交传训练;(2)中间阶段：对应于同传学员(Babcock et al.,2017; van de Putte et al.,2018)，他们已完整接受了9 个月到 2年的同传训练;(3)高级阶段：对应于职业同传译员(Babcock& Vallesi,2017; Becker et al.,2016)，他们平均拥有13年以上的同传工作经历。
+
+借助于口译训练阶段的划分，该假设将口译员整体监控优势视为口译训练后期的产物，以此说明它与口译员局部转换优势的关系。其背后的逻辑在于：首先，研究发现，语言转换同样会产生转换代价与混合代价，这说明语言控制过程中，存在类似的局部转换与整体监控机制(Declerck &Philipp,2015)，而这两类控制都会消耗认知资源。口译是一项认知挑战性极高的任务，从语言转换角度而言，口译对这两类控制要求会更高，消耗的认知资源更多。然而，口译员的认知资源是有限的。有理由认为，在不同训练阶段，译员能够分配给这两类控制的认知资源存在差异。
+
+制约认知资源分配的因素是什么呢？一个重要因素为二语水平。根据上述各研究对被试的描述，不同训练阶段口译员的二语水平存在差异，这主要从各研究中与口译组匹配的对照组体现出来：交传学员与同传学员的对照组都为二语水平达到中高级的学生；职业同传译员的对照组为平衡双语者。由此，我们推断口译员任务转换优势动态发展的原理如下：口译初期阶段，由于二语水平限制，口译员可能将大量精力用于两种语言间的转换，而无暇顾及整个口译过程的监控，因此，口译员的优势先体现在局部转换层面；当过渡到高级阶段时，口译员二语与母语水平渐趋平衡，语言间的转换更为自如，译员能将更多资源用于口译全局控制，口译员的整体监控能力也会因此得到锻炼并提升。实际上,Zhao 和 Dong (2020)部分验证了这一假设。他们将所招募的交传学员(拥有半年至2年的交传训练经历)及对照组按二语水平高低再各分成两组，结果发现二语水平高的交传学员不仅呈现局部转换层面优势(与二语水平对等的对照组相比)，还表现出整体监控层面优势的趋势(混合代价组间差异边缘显著)。这初步证明了二语水平对口译员任务转换优势发展的影响。
+
+除表1所列举的行为层面口译员任务转换优势之外，还有研究发现了行为优势的神经基础。如前文提到的发现职业同传译员整体监控优势的 Becker 等人(2016)是一篇磁共振成像研究。结构像数据显示，在左侧额极(frontal lobe,BA10)这一脑区上，职业同传译员比对照组拥有更多的灰质(GM)体积，并且仅译员组在此区域的体积与任务转换的混合代价具有边缘显著相关。静息态功能成像数据的图论分析显示，译员比对照组在额极集群中具有更高的全局效率(global efficiency)和节点度(node degree，该概念在图论中指的是与一个特定节点连接的边的数量)。再者，同传译员的额极集群与左颞中回(MTG)和左额下回(IFG)之间具有更强的功能连接。基于以上发现，研究者推断，同传译员在混合代价上的优势或许是由于他们具有更加成熟的(左)额极皮层(FPC)，因为前人有研究表明这一区域与任务切换和注意转移相关，而且研究者发现了同传译员这一区域与额下回(IFG)之间具有更强的连接。
+
+综上所述，初步证据表明，口译训练可能对译员局部转换与整体监控两方面能力都有影响，但优势的显现受到任务效价与口译训练阶段的调节。相关假设还只是在 Zhao 和Dong (2020)中进行了初步的实证探索，由于该研究缺少一组同时执行单价和双价两类颜色-形状转换任务的职业同传译员作对比，因而暂时无法确定在口译员发展的高级阶段，其任务转换优势是由局部转换层面转变为整体监控层面，还是两个层面优势都有可能出现。下一步亟需补充这方面的数据。另外，在本文第6节"结语与展望"部分，我们更详细地论述了验证口译员任务转换优势动态发展假设需要考虑的问题及研究方法。
+
+# 4认知转换优势的影响因素
+
+随着口译员认知转换优势证据的积累，相关的理论问题是：影响口译员认知转换优势出现的因素是什么？我们或许可以从前期的相关文献中找到可能的答案，这些答案也许能为一般的双语者认知转换优势研究带来启发。
+
+# 4.1影响因素一：语言转换强度
+
+与一般双语转换经验相比，口译较明显的特征是需要在极短的时间内进行频繁的的语言转换。Green 和Abutalebi(2013)分析了双语者会话交流的3个情境，并将这3个情境与认知控制各个功能相联系，成为双语研究领域引用率最高的文章之一。其中第二个情境“双语情境”(dual-languagecontext)似乎更加适合描述口译中的情况，该情境的特征就是双语者需要使用两种语言，在两种语言间进行频繁转换。我们的问题是：仅仅是频繁的语言转换就能够带来认知转换优势吗？或者说对于口译员而言，频繁的语言转换(转换频率)和极短时间内的语言转换(语言转换的强度)在增强认知转换能力上的作用是什么？我们认为，语言转换的强度起着至关重要的作用。
+
+实际上，Dong 和Liu (2016)明确提出语言训练的强度也许是受训者认知控制优势出现的一个重要影响因素。该研究对比3组大学本科被试在单价颜色-形状转换任务中的表现，3组被试在所有可能的影响因素上做了匹配，只在一个维度上有区别：对照组(37名，普通大学英语)、笔译组(35名，一学期笔译课)、口译组(44 名，一学期口译课)。结果发现，与对照组相比，只有口译训练带来了额外优势(即转换代价额外缩小了)。该结果表明，虽然笔译和口译都需要频繁的语言转换，但笔译训练并没有像口译训练一样给转换能力带来增强效应；或者说，口译对个体转换能力的增强作用不仅是频繁的语言转换引起的，更源自口译本身的高强度任务要求。然而，也有研究得到了与Dong 和Liu (2016)不一致的结果。Babcock 等人(2017)对比了3组研究生被试在双价颜色-形状转换任务中的表现：对照组(35 名非语言专业，普通多语组)、笔译组(10 名语言专业，接受笔译、交传训练)、同传组(47 名语言专业，接受笔译、交传、同传训练)，结果没有发现后两组相对于对照组的优势。这很可能与被试的背景非常复杂有关。
+
+van de Putte 等人(2018)采用 fMRI技术比较了两组被试训练前后在双价颜色-形状转换任务上的表现，这两组被试分别为接受9个月同传训练的学生和接受9个月笔译训练的学生。行为指标方面，无论在转换代价还是混合代价上，两组被试之间都没有显著差异，且被试组内两个指标的前后测变化也不显著。但功能脑成像的结果显示，受过口译训练的学生比只受笔译训练的学生更多地激活了右侧角回(angular gyrus)。作者指出，角回在语言转换中起着重要的作用，并且和跨感觉通道的注意控制有关。通过对结构脑成像进行连接分析发现，受口译训练的学生比受笔译训练的学生增强了两个脑网络的连接性。其中有一个脑网络包含了8个区域，涵盖左脑辅助运动区(SMA)、右脑中央后回(PoCG)、右脑额上回、右脑颞极中部(TPOmid)、右脑杏仁核(amygdala)、左脑的顶叶上回(IPG)和顶叶下回(SPG)以及小脑蚓部(vermis)。作者根据以往的文献(Green &Abutalebi，2013)指出，辅助运动区负责在语言转换中启动语言产出，而顶叶区(包括顶叶上回和下回)主要负责维持任务表征。因此，虽然该研究并未在行为数据上发现组间差异，但脑成像数据还是支持了口译员比笔译员在转换能力上具有优势。
+
+# 4.2影响因素二：语言任务的控制特性
+
+语言转换的强度可用以解释口、笔译训练的对比结果，却不足以解释前文所介绍的两个发现：(1)口译员认知转换优势在规则转换与任务转换上呈现的结果模式差异;(2)口译员在任务转换中的优势存在由局部转换优势向整体监控优势过渡的现象。
+
+对于第一点：口译员认知转换优势在规则转换层面较为稳定，但在任务转换层面争议较多。为解释这一点，需进一步探讨口译中语言转换的控制特性(control features of language switch ininterpreting)，目前这方面的研究主要还处在理论层面。根据近期 Dong 和Li(2020)提出的口译注意控制模型(Attentional Control in Interpreting)，口译中的语言转换是多种执行功能相互配合完成的,而工作记忆是两个主要控制模块中都不可或缺的因素。实际上，没有人会质疑口译活动中工作记忆负担重的问题，而口译员在工作记忆上也展现出了稳定的优势(见最近的两个元分析 Mellinger&Hanson,2019;Wen&Dong,2019)。这或许是解释口译员两类转换优势差异的一个切入点。WCST要求被试记忆多项分类规则，并根据前一试次的反馈决定当前试次应该维持还是调整分类规则。因此，WCST相比于颜色-形状任务可能更依赖于工作记忆。因此，对于在工作记忆上存在优势的口译员，其规则转换优势可能比任务转换优势更为稳定。当然，这一推论还需要更多的实证数据来证实。
+
+对于第二点：口译员任务转换优势会由局部转换优势向整体监控优势过渡，其中的原因，3.3节已作了详细介绍。简而言之，口译任务中转换与监控的要求都比一般双语转换高，在认知资源有限的情况下，口译员会优先将资源用于源语与译语间的简单切换，再用于口译过程的整体监控。优势的动态发展实际是认知资源调配效率提升的结果，其中二语水平的提高发挥了一定作用——通过认知资源的调配以适应口译任务较高的认知要求，其本身就反映了口译中语言转换的控制特性，且符合自适应控制假说的构想(Green&Abutalebi,2013)。值得注意的是，有关局部转换与整体监控优势的争议同样存在于双语者认知转换优势研究(综述见Yang etal.,2016)。并且，焦鲁等人(2016)也提出两类优势存在一定发展顺序的设想。问题的共通性使得口译员优势研究在这方面的探索更有参考价值。其他口译中语言转换的控制特性与口译员认知转换优势的关系还有待进一步挖掘。
+
+由口译语言转换控制特性自然衍生出一个问题：如何选择合适的转换任务与衡量指标探测相关特性产生的影响。一个原则是根据口译训练阶段考虑任务和指标。例如，测量口译员任务转换优势时，早期训练阶段口译员可能注重局部转换控制，因而单价任务的转换代价指标可能更适合探测这类控制的影响；后期口译员有更多精力监控口译全局，其影响可能更容易被双价任务的混合代价捕捉。口译员规则转换优势虽没有明显的发展变化特征，但WCST涉及任务纯度(task purity)的问题，因此需要考虑口译员其他能力的发展情况。此外，我们推测，总错误数和完成分类数属于宏观指标，反映了被试掌握规则的程度，可能与高级认知能力(如抽象思维)更相关；而将错误类指标进行细分，某些反映规则变化后，被试为寻找新规则而进行试错的指标(如持续性错误数)可能与认知转换能力更相关，但该指标优势的显现也需要其他能力的支持。
+
+# 5对双语者认知转换优势研究的启发
+
+通过考察口译语言转换特性，我们初步认识了口译员认知转换优势的影响因素，这有助于解释前期实证研究中的一些争议。同理，当研究者囿于双语者认知转换优势研究中的结果不一致问题时，若能针对各研究所涉及双语转换经验的特性做分析，或可拓宽思路。这意味着：
+
+首先，对双语者具体语言经历进行细分十分重要。目前国际上双语研究中针对双语者的调查问卷主要有 3 个(LHQ，如 Li et al.,2019; LEAP-Q,Kaushanskaya et al.,2019; LSBQ,Anderson et al,2018)，但没有一个问卷涉及了双语者是否接受过口笔译的训练，或者从事过口笔译的工作。另外，Xie 和Dong (2017)发现，不管是母语的还是外语的公共演讲经验都会增强认知监控能力(Flanker任务)，说明单语的强化语言经验也需要纳入到双语研究的背景调查中。
+
+其次，对未发现双语者认知转换优势的情况，有必要考虑该双语转换经验是否满足优势产生的强度要求。换言之，如果没有发现双语经验的优势，我们需要进一步区分是由于双语经验本身的问题还是双语经验的强度不够。例如，在双语者认知优势研究中，手语-口语双模态普通双语者(相比于单语者)往往未能展现出认知控制优势(如 Emmorey et al.,2008)。一种较流行的解释是，由于手语与口语依赖不同的模态进行语言感知及产出，语言间的竞争冲突较小，语言控制要求相应较低，因而双模态下的双语转换经验可能无法像口语单模态双语转换经验那样增强双语者的认知控制能力(综述见 Emmorey et al.，2016)。但与之相反的是，文中提到的手语-英语双模态同传译员(MacNamara&Conway,2014)经过口译训练后，表现出了认知转换能力增强效应。这一对比结果似乎说明，即使双模态双语转换在语言控制本身的难度方面低于口语单模态双语转换，但在口译活动高强度的语言转换要求下，双模态口译员同样会表现出认知转换优势(MacNamara& Conway，2014)。事实上，以双语转换强度作为认知转换优势产生的影响因素之一也符合有关大脑可塑性的“供给-需求"假设(Dong＆Liu,2016; Schroeder ＆ Marian,2017)，即认知系统面对高于当前认知水平的任务时，会加大认知资源供给，努力做出适应，因此获得提升。
+
+最后，在双语转换的控制理论方面，亦需要考虑双语转换经验的特性。双语者认知转换优势不仅反映的是一种跨领域的正迁移效应，也能反映双语转换控制的本质，因为只有参与到双语转换控制中的执行功能才最终可能会得到增强；而之所以结果上有矛盾，原因之一或在于所使用任务或指标未能(全面)反映某一条件下语言转换经验对认知转换能力的真实影响。借助于对比分析不一致的研究结果，或可提出一些新的指标分析方法或理论猜想。
+
+# 6 结语及展望
+
+现有的研究成果表明，口译与认知转换能力存在复杂的互动关系。一方面，口译需要转换能力的参与，这体现在转换能力指标能够预测口译绩效上。另一方面，口译经验也增强了口译员的认知转换能力，且在任务转换层面，该增强效应可能呈现出阶段性特点(由局部转换优势到整体监控优势)。进一步探索发现，口译员认知转换优势的显现及发展受口译语言转换特性(如转换强度、控制特性)的影响。上述结论包含很多假设，还需要更多的实证数据来支撑，后续研究可从以下三个方面入手。
+
+第一，关注口译员任务转换优势的动态发展轨迹与成因。随口译训练阶段深入，口译员的二语水平、口译技能(interpreting expertise)，以及训练模态(交传 vs.同传)都发生了改变。其中，二语水平与口译技能可能会共同影响口译员认知资源的分配效率，而不同的口译训练模态也意味着不同的认知资源分配方式，这些都可能最终导致任务转换优势的变化。为完整呈现潜在的优势发展轨迹，并考察各因素的影响，需要收集多个训练节点(如交传学习、职业交传、同传学习、职业同传)不同发展水平的口译员数据作比较。
+
+第二，关注口译员的其他执行功能对认知转换优势测量结果的影响。认知转换能力作为一项基本执行功能，并不是孤立存在的，而口译的语言转换也绝不仅限于转换能力的参与。前文已提到，可能由于对工作记忆能力依赖程度不同，口译员规则转换优势与任务转换优势在结果稳定性上存在差异；而单价与双价转换任务的本质区别，也与参与其中的具体执行功能有关。探索这些问题有助于我们深入理解口译员任务转换优势的本质。
+
+第三，关注口译加工子过程与认知转换能力的关系。这方面的研究数量太少，且几乎全是探索性质的。未来可在探索性结果基础上，增加验证性(confirmatory studies)研究。另外，口译加工过程涉及多个指标，就目前来看仅部分指标与认知转换能力相关。未来可以将口译过程进行分解，有针对性地考察口译语言转换与认知转换能力之间的相关性。
+
+以上综述表明，通过口译这种特殊的双语训练模式来研究语言转换与认知转换能力之间的关系是一条有效路径，为一般的双语优势及大脑可塑性研究提供了一个很好的切入点，值得继续深入研究。
+
+# 参考文献
+
+董燕萍，蔡任栋，赵南，林洁绚.(2013).学生译员口译能力结构的测试与分析．外国语(上海外国语大学学报),36(4), 75-85.
+
+何文广，陈宝国.(2011).语言对认知的影响——基于双语认知"优势效应"的分析．心理科学进展，19(11). 1615-1624.   
+焦鲁，王瑞明，刘聪，沈曼琼.(2016)．语言转换影响双语认知优势的发展进程．心理与行为研究,14(3),298-304.   
+刘欢欢，陈宝国.(2015)．语言转换的认知及其神经机制．心理科学,38(1),98-103.   
+孙逊，谢久书，王瑞明.(2017).双语语言转换的神经机制．外语教学,38(2),27-32.   
+Abutalebi,J.,& Green,D.W. (2o16).Neuroimaging of language control in bilinguals: Neural adaptation and reserve. Bilingualism: Language and Cognition, 19(4), 689-698.   
+Anderson,J.A.,Mak,L.,Chahi,A.K.,& Bialystok,E.(2O18).Thelanguage and social backgroundquestionnaire: Assessing degree of bilingualism in a diverse population. Behavior Research Methods,50(1),250-263.   
+Babcock，L.， Capiz，M.，Arbula,S.，& Vallesi,A. (2017).Short-term memory improvement after simultaneous interpretation training. Journal of Cognitive Enhancement,1(3),254-267.   
+Babcock，L.，& Valesi，A.(2Ol7).Are simultaneous interpretersexpertbilinguals，uniquebilinguals，or both? Bilingualism: Language and Cognition, 20(2), 403-417.   
+Becker,M.，Schubert,T.，Strobach，T.，Galinat,J.，& Kuhn，S.(2016). Simultaneous interpretersvs.professional multilingual controls: Group differences in cognitive control as well as brain structure and function. Neuroimage, 134,250-260.   
+Braver,T.S.,Reynolds,J.R.,&Donaldson,D.I. (2Oo3).Neural mechanismsoftransientand sustained cognitivecontrol during task switching. Neuron, 39(4),713-726.   
+de Baene,W.,Duyck,W.,Brass,M.,&Carriras,M.(2O15).Brain circuit for cognitive control issharedby task and language switching. Journal of Cognitive Neuroscience,27(9),1752-1765.   
+Declerck,M.,&Philipp,A.M.(2O15).Areview of control processes and their locus inlanguage switching. Psychonomic Bulletin &Review, 22(6),1630-1645.   
+Diamond,A. (2013). Executive functions. Annual Review of Psychology, 64,135-168.   
+Dong,Y.P.,&Li,P.(2O2O).Attentional controlininterpreting: Amodelof languagecontroland processingcontrol. Bilingualism: Language and Cognition,23,716-728.   
+Dong,Y.P.,& Liu,Y.H. (2O16).Classes intranslatingand interpreting produce diferential gains inswitching and updating.FrontiersinPsychology,7,1297.   
+Dong,Y.P.,& Xie,Z.L. (2014). Contributions of second language proficiency and interpreting experience tocognitive control differences among young adult bilinguals. Journal of Cognitive Psychology,26(5), 506-519.   
+Dong,Y.P.,&Zhong,F.(2O19).Theintensebilingual experienceofinterpretinganditsneurocognitiveconsequences.InJ. Schwieter (Ed.)，The Handbook of the Neuroscience of Multilingualism (pp. 685-700). West Sussex, UK: Wiley-Blackwell.   
+Emmorey,K.,Giezen,M.R.,& Gollan,T.H.(20l6).Psycholinguistic,cognitive,and neural implicationsof bimodal bilingualism. Bilingualism: Language and Cognition,19(2),223-242.   
+Emmorey,K.,Luk,G.,Pyers,J.E.,&Bialystok,E.(2O08).The sourceof enhancedcognitivecontrol inbilinguals: Evidence from bimodal bilinguals.Psychological Science,19(12),1201-1206.   
+Garcia,A.M. (2O14).The interpreter advantage hypothesis: Preliminarydata paternsand empirically motivated questions. Translation & Interpreting Studies, 9(2),219-238.   
+Garcia,A. M.,Munoz,E.,&Kogan,B.(O19). Taxing the bilingual mind: Effects ofsimultaneous interpreting experience on verbal and executive mechanisms. Bilingualism: Language and Cognition, 23(4),1-11.   
+Green,D.W.,& Abutalebi,J.(2O13).Language control inbilinguals:Theadaptive control hypothesis.Journalof Cognitive Psychology,25(5),515-530.   
+Henrard，S.，& van Daele，A.(2O17). Diffrent bilingual experiences might modulate executive tasks advantages: Comparative analysis between monolinguals, translators,and interpreters. Frontiers in Psychology,8,1870.   
+Kaushanskaya, M.，Blumenfeld,H. K.， Marian, V. (2O19) The language experience and proficiency questionnaire (LEAP-Q): Ten years later. Bilingualism: Language and Cognition, 1-6.   
+Koch,I，Prinz，W.，& Alport，A.(20o5).Involuntaryretrieval inalphabet-arithmetic tasks:Task-mixingand task-switching costs. Psychological Research, 69(4),252-261.   
+Li,P.，& Dong, Y. P. (2020).Language experiences and cognitive control: A dynamic perspective. The Psychology of Learning and Motivation,72, 27-52.   
+Li, P., Zhang,F.,Yu, A.,& Zhao,X. W. (2O19)Language History Questionnaire (LHQ3): An enhanced tool for ssessing multilingual experience. Bilingualism: Language and Cognition, 1-7.   
+Logan,G.D.,& Bundesen, C. (2Oo3). Clever homunculus: Is there an endogenous act ofcontrolin the explicit task-cuing procedure? Journal of Experimental Psychology: Human Perception and Performance, 29(3),575-599.   
+MacNamara,B.N.,& Conway,A.R.A.(O14). Novel evidence in support of the bilingual advantage: Influences of task demands and experience on cognitive control and working memory. Psychonomic Bulletin & Review,21(2), 520-525.   
+MacNamara,B.N.,& Conway,A. R.A. (2O16). Working memory capacity as a predictor of simultaneous language interpreting performance. Journal of Applied Research in Memory and Cognition, 5(4), 434-444.
+
+MacNamara,B.N.,Moore,A.B.，Kegl,J.A.，&Conway，A.R.A.(20).Domain-general cognitive abilitiesand
+
+simultaneous interpreting skill. Interpreting,13(1),121-142.
+
+Mellinger, C.D.,&Hanson,T.A. (2O19).Meta-analyses ofsimultaneous interpreting and working memory. Interpreting 21(2), 165-195.   
+Miyake,A.,&Friedman,N.P.(O12).The nature and organizationof individual differences inexecutive functions: Four general conclusions. Current Directions in Psychological Science, 21(1),8-14.   
+Pap,K.R.,& Greenberg,Z.I. (2Ol3).There is nocoherent evidence fora bilingual advantage inexecutive procesing. Cognitive Psychology, 66(2),232-258.   
+Paap，K. R.，& Sawi,O.(2O14).Bilingual advantages in executive functioning: Problems in convergent validity, discriminant validity,and the identification of the theoretical constructs. Frontiers in Psychology, 5,962.   
+Prior,A.,&Gollan,T.H. (2Ol1).Good language-switchers are good task-switchers: Evidence from Spanish-English and Mandarin-English bilinguals. Journal of International Neuropsychological Society,17(4),682-691.   
+Prior,A.,& Macwhinney,B. (2O10).A bilingual advantage in task switching.Bilingualism: Language and Cognition, 13(2), 253-262.   
+Rubin,O.,& Meiran,N.(Oo5). Onthe originsofthe task mixing cost in the cuing task-switching paradigm. Journal of Experimental Psycholgy: Learning,Memmry and Cognition,31(6),1477-1491.   
+Santili,M.,Vilas,M.G.,Mikulan,E.,MartorellCaro,M.,Munoz,E.,Sedeno,L.,&Garcia,A.M.(2O18).Bilingual memory,to the extreme: Lexical processing in simultaneous interpreters.Bilingualism: Language and Cognition, 22(2), 331-348.   
+Schroeder,S.R.,& Marian, V. (2o17).Cognitive consequences of trilingualism.International Journal of Bilingualism, 21(6), 754-773.   
+Timarova,S.,Cenkova,I.,Meylaerts,R.,Hertog,E.,Szmalec,A.,&Duyck,W. (2O14).Simultaneous interpretingand working memory executive control. Interpreting,16(2),139-168.   
+van de Pute,E.，de Baene,W.,Garcia-Penton,L.,，Woumans,E.,Dijkgraaf,A.,& Duyck,W.(2O18).Anatomicaland functional changes in the brain after simultaneous interpreting training:A longitudinal study. Cortex,99, 243-257.   
+Weissberger,G.H., Gollan,T.H.,Bondi,M.W.,Clark,L.R.,& Wierenga,C.E.(2015).Language and task switching in the bilingual brain: Bilinguals are staying, not switching,experts. Neuropsychologia,66,193-203.   
+Wen,H.,& Dong,Y.P. (2019). How does interpreting experience enhance working memory and short-term memory: A meta-analysis. Journal of Cognitive Psychology, 31(8), 769-784.   
+Wiseheart,M.,Viswanathan,M.,&Bialystok,E.(2O14).Flexibilityin task switchingby monolinguals and bilinguals.
+
+Bilingualism:Language and Cognition,19(1),141-146.
+
+Xie,Z.L.，& Dong，Y.P.(2O17).Contributions of bilingualism and public speaking training to cognitive control differences among young adults. Bilingualism: Language and Cognition, 2O(1),55-68.   
+Yang,H.,Hartanto,A.,& Yang,S.J. (2O16).The complex nature of bilinguals'language usage modulates task-switching outcomes.Frontiers in Psychology,7,560.   
+Yudes,C.,Macizo,P.,&Bajo,T. (2Ol1).The influenceof expertise insimultaneous interpreting on non-verbal executive processes.Frontiers in Psychology,2,309.   
+Zhao,H.M.,&Dong,Y.P.(2O20).Theearly presence and developmental trendof interpreter advantages incognitive flexibility: Efects from task differences andL2 proficiency. Translation, Cognition &Behavior,3(2)，241-262.
+
+# Interpreter advantages in switching ability
+
+ZHAO Hong-ming1, Dong Yan-ping²
+
+(CenterforLinguisticsandAppliedLinguistics,Guangdong UniversityofForeign Studies,Guangzhou5lo42o,China) (Schoolof International Studies,Zhejiang University,Hangzhou 3loo58,China)
+
+Abstract: Interpreting can be regarded as an intensive language switching activity. Compared with non-interpreting bilinguals,interpreters have shown advantages in both abilities of rule-based switch and task-based switch.However,it is still disputed whether interpreter advantages in task-based switch originate from local switch or global monitoring. Preliminary evidence shows that interpreting training first brings interpreters an advantage in local switch (indexed by switch cost in a univalent switching task),and then later it may bring interpreters an advantage in global monitoring (indexed by mixing cost in a bivalent switching task). The intensity of language switch and other particular language control features of interpreting are probably the factors aecting the presence and development of interpreters' advantages in switching. These results have implications for research on bilingual advantages and other related topics.
+
+Key words:switching ability, interpreter advantage in switching,rule-based switch,task-based switch, bilingual advantage

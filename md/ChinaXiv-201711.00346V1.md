@@ -1,0 +1,208 @@
+# 母猪妊娠期营养水平对后代仔猪肌肉生长和发育的影响
+
+苏国旗 王军 曹猛 车炼强 方正锋 林 燕 徐盛玉 吴 德\*(四川农业大学动物营养研究所，成都 611130)
+
+摘要：本试验旨在研究母猪妊娠期营养水平对后代仔猪肌肉生长和发育的影响。选取体重和日龄相近的长大（LY）杂交后备母猪33头，按体重[（ $1 5 0 { \pm } 9 .$ ）kg]和日龄（ $2 5 5 \pm 1 0 )$ 号随机分到3个组：低营养水平组（LN组）、适宜营养水平组（AN组）和高营养水平组（HN组)。每组11个重复，每个重复1头母猪。妊娠前期（1\~30d）各组营养摄入量分别是0.75、1.0 和1.5倍维持需要，妊娠中期（30\~90d）在前期基础上提高 $20 \%$ ，妊娠后期(91\~112d)在中期基础上提高 $2 5 \%$ 。结果表明：1）与LN 组相比，AN 和HN 组仔猪出生体重和断奶体重及初生仔猪肌肉重（除比目鱼肌）显著或极显著提高（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1 \$ ）；AN组仔猪半腱肌和背最长肌相对重极显著高于LN 组（ $_ { . } { \cal P } { < } 0 . 0 1 \$ ），AN组新生仔猪肌肉蛋白质浓度显著或极显著高于LN 和HN 组（ $. P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ）。2）AN组新生仔猪背最长肌肌球蛋白重链ⅡIx 的mRNA表达量极显著低于LN 组（ $_ { \scriptstyle P < 0 . 0 1 }$ ）。3）AN 组新生仔猪背最长肌生肌调节因子4的mRNA表达量显著高于LN和HN 组（ $P { < } 0 . 0 5$ ）。由此可见，母猪妊娠期营养水平能显著影响仔猪出生和断奶体重及肌肉重，但是过高或者过低的营养水平都会降低后代肌肉重和肌肉蛋白质的浓度，这可能与生肌调节因子4基因差异表达有关。
+
+关键词：母猪；营养水平；仔猪；肌肉中图分类号：S828 文献标识码： 文章编号：
+
+哺乳动物骨骼肌的重量占机体干重的 $4 0 \% \sim 5 0 \%$ ，是机体的重要组成部分。因此，骨骼肌的生长发育与畜牧生产中动物的生产性能密切相关。肌纤维是构成肌肉的基本单位，前人研究表明，肌纤维总数越多，动物的生长潜力就越大；肌纤维的密度越大直径越小，肉的品质越好[1]。猪的初级肌纤维在妊娠期的38d内形成，次级肌纤维是在妊娠期的46\~95d形成的，在这之后肌纤维的数目就不会增加了[2]。骨骼肌在发育阶段处于机体营养分配的低端，母体内营养物质总是优先分配给神经系统、内脏器官以及骨骼，所以胎儿骨骼肌特别容易受到母体营养供给波动的影响[3]。早在1994 年，Dwyer 等[4]研究发现在妊娠期 25\~50d提高母猪营养水平可以增加每窝仔猪次级肌纤维的数量,随后Harrison等[5]的研究证实了这一结论。然而 Gatford 等研究发现，母猪妊娠期 25\~50d营养水平提高却只能增加半健肌总的肌纤维和次级肌纤维的肌纤维密度。另外有学者研究发现，母猪在妊娠期28\~78d营养限饲导致胎儿血浆氨基酸和葡萄糖的含量降低，下调骨骼肌雷帕霉素靶蛋白（mTOR）信号，骨骼肌蛋白质合成速率下降，使次级肌纤维数目减少[3]。也有学者研究发现，提高妊娠中期（45\~85d）母猪采食量，减少初级肌纤维、次级肌纤维和总肌纤维数量，同时降低IIb型肌纤维的数量，生产性能并未受到显著影响[7]。
+
+根据前人研究结果表明，妊娠期的营养水平对胎儿的肌肉发育至关重要，母猪妊娠期营养水平提高可以增加肌纤维的数目，并能对后代肌肉生长造成永久影响[8]。但是相关研究报道结果不一致，且母猪整个妊娠期营养水平对后代肌肉生长和肌纤维发育的影响还未见报道。因此本试验旨在通过在母猪妊娠期饲喂不同营养水平饲粮，考察对后代仔猪生长性能和肌肉生长发育的影响，为生产中母猪精细饲养管理提供科学依据。
+
+# 1材料与方法
+
+# 1.1 试验动物及设计
+
+选择体重和日龄相近的“长 $\times$ 大”（LY）杂交后备母猪33头，饲喂同一饲粮至第4发情周期，按体重[（ $1 5 0 { \pm } 9 .$ ） $\mathbf { k g } ]$ 和日龄（ $2 5 5 \pm 1 0 )$ ）随机分到3个组中：低营养水平组（lownutrient level group,LN 组)，适宜营养水平组（appropriate nutrient level group,AN 组）和高营养水平组（high nutrient level group,HN 组)，设适宜营养水平组为对照组。每个组11个重复，每个重复1头母猪。妊娠前期（ $\left( 1 { \sim } 3 0 \mathrm { d } \right)$ ）各组营养摄入量分别是0.75、1.0和1.5倍维持需要（M)，妊娠中期（30\~90d）在前期基础上提高 $20 \%$ ，妊娠后期（90\~112d）在中期基础上提高 $2 5 \%$ （表1）[9]。维持需要消化能(DEm)计算公式为： $D E m { = } 1 1 0 B W ^ { 0 . 7 5 } \mathrm { k J / d }$ ，其中体重（BW） $\mathbf { \Sigma } = \mathbf { \Sigma }$ 配种时体重 $+ 1 / 2$ 预期增重，试验母猪预期增重为 $5 5 ~ \mathrm { k g }$ ，因此妊娠期母猪$\mathrm { D E m ( k J / d ) } { = } 1 1 0 \times$ (配种体重 $+ 5 5 / 2 ) ^ { 0 . 7 5 }$ 。不同妊娠阶段采食量通过维持需要倍数确定，维持需要采食量由维持需要消化能与饲粮能量水平之比确定。
+
+# 表1母猪妊娠期各阶段营养水平摄入量
+
+Table 1Nutrient intake level of sows during pregnancy different stages
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>组别</td><td>妊娠前期(1~30d)</td><td>妊娠中期 (31-90 d)</td><td>妊娠后期 (91~112 d)</td></tr><tr><td>Groups</td><td>Early pregnancy (Day 1 to 30)</td><td>Middle pregnancy (Day 31 to 90)</td><td>Late pregnancy (Day 91 to 112)</td></tr><tr><td>LN</td><td>0.75 M</td><td>0.90 M</td><td>1.125 M</td></tr><tr><td>AN</td><td>1.00 M</td><td>1.20 M</td><td>1.50 M</td></tr><tr><td>HN</td><td>1.50 M</td><td>1.80 M</td><td>2.25 M</td></tr></table></body></html>
+
+M：维持需要 maintenance requirement。
+
+# 1.2 试验饲粮
+
+母猪饲粮分为妊娠 $1 { \sim } 9 0$ d饲粮和妊娠91d至分娩饲粮，妊娠期饲粮氨基酸模式参照Kim 等[10]推荐的理想氨基酸模式，其余营养水平参照 Johnston[1]。泌乳期饲粮氨基酸水平参照 Dourmad 等[2]的推荐量，其余营养水平参照 NRC（1998)。试验饲粮组成及营养水平见表2。
+
+表2试验饲粮组成及营养水平 (风干基础)  
+Table 2Composition and nutrient levels of experimental diets (air-dry basis) 9   
+
+<html><body><table><tr><td></td><td>妊娠1~90 d</td><td>妊娠91d~分娩</td><td>泌乳期</td></tr><tr><td>项目Items</td><td>Pregnancy day 1 to 90</td><td>Pregnancy day 91 to parturition</td><td>Lactation</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td></tr><tr><td>玉米 Corn</td><td>61.93</td><td>64.50</td><td>62.12</td></tr><tr><td>豆粕 Soybean meal</td><td>13.75</td><td>18.05</td><td>22.74</td></tr><tr><td>鱼粉 Fish meal</td><td>1.50</td><td>2.00</td><td>3.00</td></tr><tr><td>豆油 Soybean oil</td><td></td><td>2.00</td><td>2.50</td></tr><tr><td>小麦麸 Wheat bran</td><td>19.00</td><td>9.56</td><td>5.50</td></tr><tr><td>L-赖氨酸 L-Lys (78.8%)</td><td>0.08</td><td>0.03</td><td>0.23</td></tr><tr><td>L-苏氨酸 L-Thr (98%)</td><td>0.03</td><td></td><td>0.03</td></tr><tr><td>L-色氨酸(98%) L-Trp (98%)</td><td></td><td></td><td>0.01</td></tr><tr><td>碳酸钙 CaCO3</td><td>1.26</td><td>1.28</td><td>1.10</td></tr><tr><td>磷酸氢钙 CaHPO3</td><td>1.35</td><td>1.48</td><td>1.27</td></tr><tr><td>碳酸氢钠 NaHCO3</td><td></td><td></td><td>0.40</td></tr><tr><td>氯化胆碱 Choline chloride (50%)</td><td>0.15</td><td>0.15</td><td>0.15</td></tr></table></body></html>
+
+<html><body><table><tr><td>食盐 NaCl</td><td>0.40</td><td>0.40</td><td>0.40</td></tr><tr><td>维生素预混料 Vitamin premixl</td><td>0.05</td><td>0.05</td><td>0.05</td></tr><tr><td>矿物质预混料 Mineral premix²)</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels</td><td></td><td></td><td></td></tr><tr><td>消化能 DE/（MJ/kg）</td><td>12.55</td><td>13.39</td><td>13.81</td></tr><tr><td>粗蛋白质 CP</td><td>14.50</td><td>15.47</td><td>17.52</td></tr><tr><td>钙Ca</td><td>0.90</td><td>0.96</td><td>0.90</td></tr><tr><td>总磷P</td><td>0.72</td><td>0.85</td><td>0.68</td></tr><tr><td>有效磷 AP</td><td>0.45</td><td>0.48</td><td>0.45</td></tr><tr><td>总赖氨酸 Total Lys</td><td>0.71</td><td>0.72</td><td>1.11</td></tr><tr><td>可消化赖氨酸 SID-Lys</td><td>0.60</td><td>0.64</td><td>1.00</td></tr></table></body></html>
+
+1维生素预混料为每千克饲粮提供 Vitamin premix provided the folowing per kilogram of diets: VA 17 500IU,VD35 000 IU,VE 37.5 IU,VK 5 mg，VB15 mg, $\mathrm { V B } _ { 2 } ~ 1 2 . 5 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 7 . 5 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 5 ~ \mathrm { m g }$ ，烟酸 nicotinicacid $5 0 \mathrm { m g }$ ， $D$ 泛酸 $D$ pantothenic acid $2 5 ~ \mathrm { m g }$ ，叶酸 folic acid $2 . 5 ~ \mathrm { m g }$ 。
+
+2矿物质预混料为每千克饲粮提供 Mineral premix provided the following per kilogram of diets: Fe (as ferrous sulfate) $1 6 5 ~ \mathrm { m g }$ ， Cu (as copper sulfate) $1 6 \mathrm { m g }$ ， Zn (as zinc sulfate) $1 6 5 ~ \mathrm { m g }$ ，Mn (as manganese sulfate) 30 mg， Se (as sodium selenite) $0 . 3 \mathrm { m g }$ ， I(as potassium iodide) $0 . 3 \mathrm { m g }$ 。
+
+# 1.2 饲养管理
+
+所有试验母猪均饲养于四川农业大学动物营养研究所教学科研试验基地。试验猪配种前所有母猪饲喂同一饲粮，在第4情期配种，配种后称重，母猪按照体重随机分配到各组。妊娠期内母猪每天定量饲喂2次（08：00、16：00)。泌乳期内母猪自由采食，每天饲喂4次（08：00、12：00、16：00、24：00），自由饮水，准确记录每头母猪每天采食量。母猪于妊娠110d转入产房，产房为 $2 . 0 \mathrm { m } \times 3 . 0 \mathrm { m }$ 的漏缝式地板圈舍，保持通风良好，舍内清洁干燥。分娩当天根据母猪情况适当喂料，分娩第2天开始逐渐加料，喂料量原则采用第1、2天 $2 . 5 \mathrm { k g }$ ，随后每天增加 $1 \mathrm { k g }$ ，到分娩后第5天左右开始自由采食。分娩当天仔猪产后采食乳汁前称重。产后第3天进行剪犬齿、断尾、补铁、保健，7d阉割并开始教槽，泌乳期 28d 断奶。试验期间保持猪舍清洁卫生，每周消毒1次，按猪场常规管理和免疫程序进行保健和驱虫，每天记录温度、湿度，观察母猪采食情况及健康状况。
+
+# 1.3样品采集与制备
+
+母猪分娩后，每窝选择1头接近平均窝重的仔猪屠宰（ $\scriptstyle n = 6$ )。每窝剩余仔猪不调圈，饲喂至断奶，仔猪断奶后空腹8h称重，每窝断奶仔猪选择1头接近窝平均重的仔猪屠宰( $\scriptstyle \cdot n = 6 )$ 。仔猪颈部放血屠宰后，立即取右侧背最长肌，液氮速冻， $- 8 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 冰箱待测。同时剥离左侧背最长肌、半腱肌、腰大肌、比目鱼肌、腓肠肌，称重并采集背最长肌，沿着平行肌纤维和垂直肌纤维走向采集肌肉样品 $2 \mathrm { c m } { \times } 1 \mathrm { c m } { \times } 1 \mathrm { c m }$ 大小，保存在 $4 \%$ 多聚甲醛固定待测，样品和固定液比例为1:20。
+
+# 1.4测定指标及方法
+
+# 1.4.1仔猪生长性能和肌肉重
+
+母猪分娩 $1 2 \mathrm { h }$ 之内，记录每头母猪仔猪出生个体重，哺乳第 28天时记录每窝仔猪数量和个体重。新生仔猪屠宰后剥离胴体左侧背最长肌、半健肌、腰大肌、比目鱼肌、腓肠肌分别称重，并计算肌肉相对重(肌肉重/体重)。
+
+# 1.4.2仔猪肌纤维特性
+
+新生仔猪和 28日龄仔猪屠宰时取背最长肌用 $4 \%$ 多聚甲醛固定 $2 4 \mathrm { ~ h ~ }$ ，从固定液中取出修成长 $1 \ \mathrm { c m }$ 、宽 $0 . 5 \ \mathrm { c m }$ 、高 $0 . 3 \ \mathrm { c m }$ 的肌肉块，石蜡包埋连续切片，厚为 $5 ~ { \mu \mathrm { m } }$ ，苏木精-伊红（HE）染色，中性树胶封片进行镜检，测定肌纤维大小、密度、横截面积。
+
+# 1.4.3仔猪肌纤维发育相关酶活性的测定
+
+初生仔猪和28日龄仔猪背最长肌肌肉蛋白质浓度用考马斯亮蓝法测定，钙调神经磷酸酶（CaN）和肌酸激酶（CK）活性用吸光度法通过酶标仪（BIO-RADModel680，北京成志科为生物科技有限公司）测定，具体操作步骤参照说明书，试剂盒购自南京建成生物工程研究所。
+
+# 1.4.4仔猪肌纤维类型和调控肌纤维发育相关的基因表达
+
+总RNA的提取操作流程根据Trizol试剂(Invitrogen，Carlsbad,CA，USA)的使用说明书进行。样品RNA的质量和纯度检测方法分别用 $1 \%$ 的琼脂糖凝胶电泳和核酸自动分析仪检测(BeckmanDU-800,Los Angeles,CA,USA)。目的基因和内参基因采用SYBR一步法反应试剂盒(Catalogno.DRR086A，Takara,Japan)进行实时荧光定量（RT-PCR）反应(ABI 7900HT,Applied Biosystems)。引物序列见表3。RT-PCR的反应体系为 $1 0 ~ \mu \mathrm { L }$ ，配制的 ${ 5 . 6 ~ \mu \mathrm { L } }$ RT-PCR一步法反应试剂混合液（含酶），上下游引物各 ${ 0 . 4 \mu \mathrm { L } }$ 以及含 $1 0 0 ~ \mathrm { { n g } }$ 的DNA模板。反转录反应参数为42℃预变性 $5 \mathrm { m i n }$ ，95℃变性 $1 0 \mathrm { ~ s ~ }$ ，95 $\mathrm { { } ^ { \circ } C }$ 变性 $5 \mathrm { ~ s ~ }$ ，60℃退火 $3 4 \mathrm { ~ s ~ }$ 。PCR反应共40个循环：包括95℃变性 $1 5 \mathrm { ~ s ~ }$ ， $6 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 退火 $6 0 ~ \mathrm { s }$ ， $9 5 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 反应 $1 5 \mathrm { ~ s ~ }$ 。扩增结束后进行熔解曲线特异性扩增分析。采用-△△Ct (2-AC)法[13]，以内参基因β-肌动蛋白（ $\beta$ -actin）的扩增效率来校正目的基因的表达量。
+
+表3目的基因和内参基因引物序列  
+Table 3The primer sequences of target and reference genes   
+
+<html><body><table><tr><td colspan="2">基因</td><td>引物序列</td><td>登录号</td></tr><tr><td colspan="2">Gene</td><td>Primer sequences (5'-3')</td><td>Accession No.</td></tr><tr><td rowspan="2">MRF4</td><td>上游</td><td>CCTTCGGTGCCTTTCTTCCAT</td><td rowspan="2">NM_001244672.1</td></tr><tr><td>下游</td><td>GAGTTATTTCTCCCCCACTTCC</td></tr><tr><td rowspan="2">PGC-1α</td><td>上游</td><td>GCGAAGATGAAAGTGATAAACTG</td><td rowspan="2">NM_213963.1</td></tr><tr><td>下游</td><td>AAAAGAAGAACAAGAAGGCGACA</td></tr><tr><td rowspan="2">mTOR</td><td>上游</td><td>CATTGGAGATGGTTTGGTGA</td><td rowspan="2">XM_003127584.4</td></tr><tr><td>下游</td><td>ATGGGATGTGGCTTGTTTGA</td></tr><tr><td rowspan="2">IGF-1</td><td>上游</td><td>CACAGACGGGCATCGTGGAT</td><td rowspan="2">FJ914498.1</td></tr><tr><td>下游</td><td>ACTTGGCAGGCTTGAGGGGT</td></tr><tr><td rowspan="2">MyHC I</td><td>上游</td><td>GGCCCCTTCCAGCTTGA</td><td rowspan="2">AB053226.1</td></tr><tr><td>下游</td><td>TGGCTGCGCCTTGGTTT</td></tr><tr><td rowspan="2">MyHC I a</td><td>上游</td><td>TTAAAAAGCTCCAAGAACTGTTTCA</td><td rowspan="2">AB025260.1</td></tr><tr><td>下游</td><td>CCATTTCCTGGTCGGAACTC</td></tr><tr><td rowspan="2">MyHC II x</td><td>上游</td><td>AGCTTCAAGTTCTGCCCCACT</td><td rowspan="2">AB025262.1</td></tr><tr><td>下游</td><td>GGCTGCGGGTTATTGATGG</td></tr><tr><td rowspan="2">MyHC I b</td><td>上游</td><td>CACTTTAAGTAGTTGTCTGCCTTGAG</td><td rowspan="2">AB025261.1</td></tr><tr><td>下游</td><td>GGCAGCAGGGCACTAGATGT</td></tr><tr><td>β-肌动蛋白</td><td>上游</td><td>CCAGCACGATGAAGATCAAGA</td><td></td></tr><tr><td></td><td></td><td></td><td>AY550069.1</td></tr><tr><td>β-actin</td><td>下游</td><td>AATGCAACTAACAGTCCGCCTA</td><td></td></tr></table></body></html>
+
+MRF4：生肌调节因子4Myogenic regulatory factor 4，PGC- $1 \mu$ ：过氧化物酶体增殖活化受体 $\gamma$ 共激活因子-1αPeroxisome proliferators activated receptor $\gamma$ coactivator- $1 \alpha$ ，mTOR：雷帕霉素靶蛋白The mammalian targetofrapamycin，IGF-1：胰岛素样生长因子1Insulin-like growth factor-1，MYHCI：肌球蛋白重链I Myosinheavy chain I，MYHC IIa：肌球蛋白重链IIa Myosin heavy chain IIa，MYHC IIx：肌球蛋白重链IIxMyosin heavy chain IIx，MYHC IIb：肌球蛋白重链 IIbMyosin heavy chain Ib。
+
+# 2数据处理及统计分析
+
+所有数据先用 Excel2010 进行初步整理，再用 SPSS 20.0 进行单因素方差分析(one-wayANOVA)，并用 Duncan 氏法进行多重比较和显著性检验。数据以平均值±标准误表示。$P { < } 0 . 0 5$ 为差异显著， $P { < } 0 . 0 1$ 为差异极显著。
+
+3结果
+
+3.1母猪妊娠期营养水平对仔猪体重、肌肉重和肌肉重/体重的影响
+
+由表4可知，母猪妊娠期营养水平极显著影响仔猪出生体重和断奶体重（ $_ { . } { \cal P } { < } 0 . 0 1 \$ ，且随着营养水平的提高，仔猪出生体重和断奶体重逐渐增加。母猪妊娠期营养水平极显著影响仔猪背最长肌、腰大肌、半腱肌和腓肠肌的肌肉重（ ${ \scriptstyle P < 0 . 0 1 }$ )。母猪妊娠期营养水平显著影响仔猪背最长肌和半腱肌相对重（ $_ { . } { \cal P } { < } 0 . 0 5 )$ 。AN 组仔猪背最长肌相对重极显著高于LN 组（ $P { < } 0 . 0 1$ )。LN 组仔猪半健肌相对重极显著低于AN 组( $( P { < } 0 . 0 1 \$ )，显著低于HN 组( $. P { < } 0 . 0 5 )$ 。
+
+表4母猪妊娠期营养水平对仔猪体重、肌肉重和肌肉重/体重的影响同行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5$ )，不同大写字母表示差异极显著（ $_ { . } { \cal P } { < } 0 . 0 1$ )，相同或无字母表示差异不显著（ $P { > } 0 . 0 5$ )。下表同。
+
+Table 4Effects of nutrient levels of sows during pregnancy on body weight, muscle weight and muscle weight/body weight of newborn piglets   
+
+<html><body><table><tr><td>项目Items</td><td colspan="3">组别 Groups</td><td>P值</td></tr><tr><td></td><td>LN</td><td>AN</td><td>HN</td><td>P-value</td></tr><tr><td>出生体重 Birth weight/kg</td><td>1.05±0.03Aa</td><td>1.34±0.02Bb</td><td>1.59±0.03Cc</td><td><0.01</td></tr><tr><td>断奶体重 Weanling weight/kg</td><td>5.94±0.12Aa</td><td>6.70±0.20Ab</td><td>7.49±0.28Bc</td><td><0.01</td></tr><tr><td>肌肉重 Muscleweight/g</td><td></td><td></td><td></td><td></td></tr><tr><td>背最长肌LD</td><td>7.12±0.72Bb</td><td>12.70±0.92Aa</td><td>13.45±0.80Aa</td><td><0.01</td></tr><tr><td>腰大肌PM</td><td>1.93±0.20Bc</td><td>2.70±0.31ABb</td><td>3.70±0.22Aa</td><td><0.01</td></tr><tr><td>半腱肌 ST</td><td>1.65±0.10Bb</td><td>2.75±0.15Aa</td><td>3.27±0.25Aa</td><td><0.01</td></tr><tr><td>比目鱼肌 Soleus</td><td>0.43±0.10</td><td>0.68±0.05</td><td>0.68±0.12</td><td>0.13</td></tr><tr><td>腓肠肌 Gastroc</td><td>1.97±0.11Bb</td><td>2.70±0.09Aa</td><td>3.02±0.22Aa</td><td><0.01</td></tr><tr><td>肌肉重/体重 Muscle weight/body weight/（g/kg）</td><td></td><td></td><td></td><td></td></tr><tr><td>背最长肌LD</td><td>6.92±0.70Bb</td><td>9.44±0.62Aa</td><td>7.90±0.30ABab</td><td>0.02</td></tr><tr><td>腰大肌PM</td><td>1.87±0.17</td><td>2.01±0.22</td><td>2.19±0.13</td><td>0.48</td></tr><tr><td>半腱肌 ST</td><td>1.61±0.09Bb</td><td>2.05±0.09Aa</td><td>1.92±0.12ABa</td><td>0.03</td></tr><tr><td>比目鱼肌 Soleus</td><td>0.42±0.10</td><td>0.51±0.03</td><td>0.40±0.07</td><td>0.51</td></tr></table></body></html>
+
+In the same row,values with different small lettr superscripts mean significant difference ( $( P { < } 0 . 0 5 )$ ，and with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ ，while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ).The same as below.
+
+3.2母猪妊娠期营养水平对后代仔猪肌纤维特性的影响
+
+由表5可知，母猪妊娠期不同营养水平对新生仔猪和断奶仔猪背最长肌的肌纤维大小、肌纤维密度和肌纤维横截面的影响差异不显著 （ $P { > } 0 . 0 5 )$ ）°
+
+表5母猪妊娠期营养水平对新生仔猪和断奶仔猪背最长肌肌纤维特性的影响
+
+Table 5Effects of nutrient levels of sows during pregnancy on myofiber characteristics of longissimus dorsi of newborn piglets and weanling piglets   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="3">组别Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>LN</td><td>AN</td><td>HN</td></tr><tr><td>新生仔猪 Newborn piglets</td><td></td><td></td><td></td><td></td></tr><tr><td>肌纤维大小 Myofiber size/um</td><td>0.99±0.09</td><td>1.05±0.15</td><td>1.00±0.06</td><td>0.79</td></tr><tr><td>肌纤维密度 Myofiber density/mm²</td><td>1 646.9±140.1</td><td>1 874.2±180.4</td><td>1 895.3±225.4</td><td>0.56</td></tr><tr><td>肌纤维横截面 FCSA/um²</td><td>652.67±106.45</td><td>759.94±92.64</td><td>751.24±125.41</td><td>0.73</td></tr><tr><td>断奶仔猪 Weanling piglets</td><td></td><td></td><td></td><td></td></tr><tr><td>肌纤维大小Myofiber size/um</td><td>8.20±0.52</td><td>8.28±0.33</td><td>8.76±0.56</td><td>0.60</td></tr><tr><td>肌纤维密度Myofiberdensity/mm²</td><td>957.8±151.3</td><td>901.3±48.3</td><td>765.7±90.4</td><td>0.44</td></tr><tr><td>肌纤维横截面 FCSA/um²</td><td>3 560.40±86.08</td><td>3 300.40±654.47</td><td>3 519.63±639.27</td><td>0.95</td></tr></table></body></html>
+
+3.3母猪妊娠期营养水平对后代仔猪背最长肌蛋白质浓度和相关酶活性的影响
+
+由表6可知，母猪妊娠期营养水平极显著影响新生仔猪肌肉蛋白质浓度（ $_ { _ { P < 0 . 0 1 } }$ ，AN组极显著高于LN 组（ $_ { . } { \cal P } { < } 0 . 0 1 \$ )，显著高于HN 组（ $P { < } 0 . 0 5$ ）。母猪妊娠期营养水平对新生仔猪和断奶仔猪背最长肌的肌内脂肪含量及CaN、CK酶活影响不显著（ $( P { > } 0 . 0 5 )$ ）
+
+表6母猪妊娠期营养水平对新生仔猪和断奶仔猪背最长肌蛋白质浓度和相关酶活的影响 Table 6Effects of nutrient levels of sows during pregnancy on longissmus dorsi protein concentration and relative enzyme activity of newborn piglets and weanling piglets
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="3">组别 Groups</td><td rowspan="2">P值</td></tr><tr><td>LN</td><td>AN</td><td>HN</td></tr><tr><td>肌内脂肪 Intermuscular fat/%</td><td colspan="3"></td><td></td></tr><tr><td>新生仔猪 Newborn piglets</td><td>24.28±1.90</td><td>25.07±2.80</td><td>23.05±0.71</td><td>0.77</td></tr><tr><td>断奶仔猪 Weanling piglets</td><td>31.55±2.35</td><td>34.27±3.15</td><td>34.12±2.27</td><td>0.72</td></tr><tr><td colspan="3">肌肉蛋白质 Muscle protein/（mg/mL)</td><td></td><td></td></tr><tr><td>新生仔猪 Newborn piglets</td><td>0.118±0.008Bb</td><td>0.186±0.013Aa</td><td>0.143±0.016ABb</td><td>0.01</td></tr><tr><td>断奶仔猪 Weanling piglets</td><td>0.431±0.031</td><td>0.436±0.040</td><td>0.514±0.026</td><td>0.17</td></tr><tr><td colspan="3">钙调神经磷酸酶 CaN/（U/mg)</td><td></td><td></td></tr><tr><td>新生仔猪 Newborn piglets</td><td>2.474±0.231</td><td>1.733±0.287</td><td>1.924±0.354</td><td>0.22</td></tr><tr><td>断奶仔猪 Weanling piglets</td><td>0.428±0.050</td><td>0.577±0.088</td><td>0.597±0.057</td><td>0.18</td></tr><tr><td colspan="3">肌酸激酶 CK/（U/mg）</td><td></td><td></td></tr><tr><td>新生仔猪 Newborn piglets</td><td>6.322±0.327</td><td>5.707±0.967</td><td>6.034±0.725</td><td>0.84</td></tr><tr><td>断奶仔猪 Weanling piglets</td><td>7.947±0.572</td><td>6.723±0.509</td><td>6.410±0.917</td><td>0.28</td></tr></table></body></html>
+
+3.4母猪妊娠期营养水平对后代仔猪肌纤维类型的影响
+
+由图1可知，AN组新生仔猪背最长肌肌纤维类型肌球蛋白重链（MYHC）IIx mRNA表达量极显著低于LN组（ ${ \cdot } P { < } 0 . 0 1$ ）。母猪妊娠期营养水平对新生仔猪背最长肌肌纤维类型MYHCI、MYHCIIa和MYHCII $b$ 以及断奶仔猪背最长肌肌纤维类型MYHCI、MYHCI a、MYHCII $x$ 和MYHCII $b$ mRNA表达量的影响不显著（ $. P { > } 0 . 0 5$ ）。
+
+![](images/62c3eb94b8d8d5ec756f869b1a6fa212165beb8c411bea199734ef87ab670695.jpg)
+
+MYHCI：肌球蛋白重链I Myosin heavy chainI，MYHC IIa：肌球蛋白重链IIa Myosin heavy chaina,MYHC IIx:肌球蛋白重链 $\operatorname { I I x }$ Myosin heavychainIIx,MYHCIIb:肌球蛋白重链IIbMyosinheavy chainII b。
+
+![](images/8dfdff0a03f5197a1cffc9b7e9ea1332048e11c734006b7bed5a9aaeffbce356.jpg)  
+图1母猪妊娠期营养水平对仔猪背最长肌肌纤维类型影响
+
+数据柱标不同小写字母表示差异显著（ $P { < } 0 . 0 5$ )，不同大写字母表示差异极显著（ ${ \cal P } { < } 0 . 0 1$ )，相同或无字母表示差异不显著（ $_ { P > 0 . 0 5 }$ )。下图同。
+
+Value columns with the same small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,and with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ ,while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ . The same as below.
+
+Fig.1Effects of nutrient levels of sows during pregnancy on longissimus dorsi myofiber type of piglets
+
+3.5母猪妊娠期营养水平对后代仔猪调控肌肉生长和肌纤维发育的相关基因的影响
+
+由图2可知，AN 组新生仔猪背最长肌的生肌调节因子4（MRF4）mRNA表达量显著高于LN 和HN 组( $. P { < } 0 . 0 5 )$ )，但是对新生仔猪背最长肌胰岛素样生长因子1（IGF-1）、mTOR和过氧化物酶体增殖活化受体 $\gamma$ 共激活因子-1α（PGC-1α）mRNA 表达量影响不显著（ $P { > } 0 . 0 5$ ）。母猪妊娠期营养水平有影响断奶仔猪背最长肌MRF4mRNA表达量的趋势，AN 组MRF4mRNA 表达量比LN 和HN 组都低，对断奶仔猪背最长肌IGF-1、mTOR 和PGC-1αmRNA表达量影响不显著（ $. P { > } 0 . 0 5$ ）。
+
+![](images/2a6a497eb02d90947f68bad5149957572a9516af75a3e8528662b966eced0fcb.jpg)  
+  
+图2母猪妊娠期营养水平对仔猪背最长肌相关基因表达量的影响
+
+IGF-1：胰岛素样生长因子1 Insulin-like growth factor-1，mTOR：雷帕霉素靶蛋白 The mammalian target ofrapamycin，MRF4：生肌调节因子4Myogenic regulatory factor 4，PGC- $1 \mu$ ：过氧化物酶体增殖活化受体Y共激活因子-1α Peroxisome proliferators activated receptor $\boldsymbol { \gamma }$ coactivator- $1 \mu$ 。
+
+Fig.2Efect of nutrient levels of sows during pregnancy on longissimus dorsi relative gene expression of piglets 4讨论
+
+胎儿的营养在受精卵形成的初期主要有卵细胞提供，当受精卵发育到一定程度时胎儿的营养物质只能通过母体提供。母体通过采食摄入营养物质，一部分满足自身组织生长需要，另一部分通过胎盘转运给胎儿。本试验研究表明，随着妊娠期母猪营养水平的升高，后代仔猪出生体重、断奶体重以及肌肉重也逐渐增加，这与Dwyer 等[4]和 Zhu 等[4]研究结果一致。然而Cerisuelo 等7研究发现母猪营养水平对后代初生重和18日龄体重无显著影响，同样
+
+Quigley等[15]研究表明母羊营养水平对胎儿大小、器官发育也无显著影响。这可能与试验动物的品种及饲粮的营养水平不同有关，Quigley 等[15]试验动物为羊，与猪的单胎产仔数差异巨大，因此有可能会造成试验结果不同；此外本试验营养水平分别为0.75倍、1倍和1.5倍维持需要，与Cerisuelo 等[7试验营养水平不同，且母猪本身对营养水平的高低有强大的自我调节能力，以优先保证后代正常生长发育，因此不同试验之间营养水平的差异有可能造成试验结果的不同。而且不同品种和胎次以及不同饲养管理都会造成试验结果的差异。
+
+胎儿对母体营养的变化比较敏感，而骨骼肌又处于营养需求的底端，因此母体营养水平的变化易影响骨骼肌的生长发育[3]。本试验发现一个比较有趣的结果，随着妊娠期母猪营养水平的升高，肌肉重/体重不呈现递增的趋势，而是AN 组高于LN 和HN组。这一结果提示我们，母体营养水平过高过或过低均不利于肌肉的生成。这与 Zhu 等[314]在母羊上的研究结果一致。母体妊娠期营养不足，导致胎儿血浆氨基酸和葡萄糖的含量降低，引起骨骼肌mTOR信号下调，导致骨骼肌蛋白质合成速率下降[3]，同时妊娠期营养限饲，降低了养分转运和蛋白质合成相关基因表达量[16]。此外，母体营养水平提高用于母体自身的组织而不是胎儿生长也会导致后代生长受限[7]。母体营养水平的提高其供给胎儿的营养也就相对较高，但是这种增加并不是无限制的，因为胎盘自身转运营养物质需要能量和转运载体，而这些转运载体以及能量的代谢是有一定限度的，胎盘不会无限度提供给胎儿营养物质[17]。
+
+肌纤维是肌肉最基本的组成单位，肌纤维的组成及其类型转化直接影响畜禽肌肉的生长和代谢。肌纤维分类可以依据不同的分类方法划分不同的肌纤维类型，目前肌纤维主要分类方式是根据其代谢特性、收缩功能和 MyHC 的多态性而进行划分。本试验对肌纤维 MyHC多态性研究发现，新生仔猪AN组MYHCIIxmRNA表达量低于LN和HN组。前人研究表明肌纤维的转变遵循 MYHCI-MYHCIIa-MYHCIIb-MYHCIIx 的转化路径[18]。本试验结果表明，AN组仔猪肌纤维MYHCIIx比例较少，考虑到MYHCIIx类型少的肌纤维的肉品质更佳[19]，暗示母体适宜营养供给有利于仔猪肌纤维向更好肉质发育。细胞内有多条参与调控肌纤维类型转化的重要信号通路，CaN可调控肌纤维类型特异性的基因表达，促进肌纤维类型由快向慢的转化[20]。然而本试验新生仔猪和断奶仔猪背最长肌中CaN 活性各组之间并无显著差异，具体机制有待进一步研究。
+
+本试验研究还发现，新生仔猪AN组背最长肌MRF4mRNA表达量高于LN和HN 组，然而断奶时各组间无显著差异。肌纤维的生长发育受生肌调节因子（MRFs）的调控，MRFs包括生肌因子5（Myf5）、生肌决定因子(MyoD)、MRF4 和肌细胞生成素(MyoG)[21]。MyoD和 Myf5功能是综合性促进肌祖细胞分化为成肌细胞，MyoG对成肌细胞融合成肌管至关重要，而 MRF4 是维持肌细胞密度和骨骼肌细胞必需的[22l。同时，MRF4 对肌纤维发育的调节同Myf5和MyoD 同样重要[23]。MRF4在肌生成的早期阶段短暂地表达，接着是MyoD 和Myf5 表达，MyoG 稍晚些表达，但是在整个胎儿期一直持续。MRF4也在稍后的阶段表达，并在出生后成为 MRFs 家族中起着主导性作用的成员[24]。因此本试验中新生仔猪背最长肌MRF4 mRNA表达量上调可能是导致AN组新生仔猪肌肉蛋白质浓度高于LN 和HN组的一个重要因素，具体机制有待进一步研究。
+
+# 5结论
+
+母猪妊娠期营养水平通过调控MRF4mRNA表达量，影响仔猪出生体重和断奶体重及肌肉发育；过高或过低的妊娠期营养水平均会降低新生仔猪肌肉相对重量、肌肉重和肌肉蛋白质浓度，不利于胎儿骨骼肌的正常生长发育。
+
+# 参考文献：
+
+[1]吕进宏,刘华贵,马立保,等.营养对肉鸡肉质影响的研究进展[J].动物科学与动物医学,2004,21(8):37-39.
+
+[2] WIGMORE P M,STICKLAND N C.Muscle development in large and small pig fetuses[J].Journal of Anatomy,1983,137(Pt 2):235-245.
+
+[3]ZHU M J,FORD S P,MEANS W J,et al.Maternal nutrient restriction affects properties of skeletal muscle in offspring[J].The Journal of Physiology,2006,575(1):241-250.
+
+[4]DWYER C M,STICKLAND N C.FLETCHER J M.The influence of maternal nutrition on muscle fiber number development in the porcine fetus and on subsequent postnatal growth[J].Journal of Animal Science,1994,72(4):911-917.
+
+[5]HARRISON A P,ROWLERSON A M,DAUNCEY M J.Selective regulation of myofiber differentiation by energy status during postnatal development[J].American Journal of Physiology-Regulatory,Integrative and Comparative Physiology,1996,270(3 Pt 2):R667-R674.
+
+[6] GATFORD K L,EKERT J E,BLACKMORE K,et al.Variable maternal nutrition and growth hormone treatment in the second quarter of pregnancy in pigs alter semitendinosus muscle in adolescent progeny[J].British Journal of Nutrition,2003,90(2):283-293.
+
+[7] CERISUELO A,BAUCELLS M D,GASA J,et al.Increased sow nutrition during midgestation affects muscle fiber development and meat quality,with no consequences on growth performance[J].Journal of Animal Science,2009,87(2):729-739.
+
+[8]POWELL S E,ABERLE E D.Skeletal muscle and adipose tissue cellularity in runt and normal birth weight swine[J].Journal of Animal Science,1981,52(4):748-756.
+
+[9]吴德.营养水平对妊娠和非妊娠母猪生产成绩及蛋白质代谢的影响[D].博士学位论文.雅安：四川农业大学，2003.
+
+[10]KIM S W,WU G Y.Regulatory role for amino acids in mammary gland growth and milk synthesis[J].Amino Acids,2009,37(1):89-95.
+
+[11] JOHNSTON L.Gestating swine nutrient recommendations and feeding management[Z]//National Swine Nutrition Guide.Des Moines,Iowa,US:Pork Center of Excellence,2010.
+
+[12] VAN MILGEN J,VALANCOGNE A,DUBOIS S,et al.InraPorc:a model and decision supporttool for the nutritionofgrowingpigs[J].Animal Feed Science and Technol0gy,2008,143(1/2/3/4):387-405.
+
+[13]LIVAK K J,SCHMITTGEN T D.Analysis of relative gene expression data using real-time quantitative PCR and the $2 ^ { - \Delta \Delta C \mathrm { T } }$ method[J].Methods,2001,25(4):402-408.
+
+[14] ZHU M J,FORD S P,NATHANIELSZ P W,et al.Effect of maternal nutrient restriction in sheep on the development of fetal skeletal muscle[J].Biology of Reproduction,2004,71(6):1968-1973.
+
+[15]QUIGLEY S P,KLEEMANN D O,KAKAR M A,et al.Myogenesis in sheep is altered by maternal feedintakeduringtheperi-conceptionperiod[J].Animal Reproduction Science,2005,87(3/4):241-251.
+
+[16] COSTELLO P M,ROWLERSON A,ASTAMAN N A,et al.Peri-implantation and late gestation maternal undernutrition differentially afect fetal sheep skeletal muscle development[J].The Journal of Physiology,2008,586(9):2371-2379.
+
+[17]PARDI G,MARCONI A M,CETIN I.Placental-fetal interrelationship in IUGR fetuses—a review[J].Placenta,2002,23(Suppl):S136-S141.
+
+[18]PETTE D,STARON R S.Myosin isoforms,muscle fiber types,and transitions[J].Microscopy Research and Technique,2000,50(6):500-509.
+
+[19]LEE S H,JOO S T,RYU Y C.Skeletal muscle fiber type and myofibrillar proteins in relation to meat quality[J].Meat Science,2010,86(1):166-170.
+
+[20] TALMADGER J,OTIS JS,RITTLER MR,et al.Calcineurin activation influencesmuscle
+
+pHeHotype I a Iuscie-specIc lasIoI[JJ.DviC Cell DIoIogy,zUU4,):∠o.   
+[21] OLSONEN.MyoDfamily:aparadigmfordevelopment?[J].Genes & Development,1990,4(9):1454-1461.   
+[22] DU M,TONG J,ZHAO J,et al.Fetal programming of skeletal muscle development in ruminant animals[J].Journal of Animal Science,2O1O,88(13 Suppl):E51-E60.   
+[23] KASSAR-DUCHOSSOY L,GAYRAUD-MOREL B,GOMES D,et al.Mrf4 determines skeletal muscle identity in Myf5:MyoD double-mutant mice[J].Nature,2004,431(7007):466-471.   
+[24]TAPSCOTT S J.The circuitry of a master switch:myod and the regulation of skeletal muscle gene transcription[J].Development,2005,132(12):2685-2695. Effects of Nutrient levels of Sows During Pregnancy on Muscle Growth and Development of Offspring Piglets   
+SU Guoqi WANG Jun CAO Meng CHE Lianqiang FANG Zhengfeng LIN Yan XU ShengyuWU De\*   
+(Institute of Animal Nutrition of Si Chuan Agricultural University, Chengdu 6111O3, China) Abstract: This experiment was conducted to investigate the effects of nutrient levels of sows during pregnancy on muscle growth and development of offspring piglets. Thirty-three crossbred LandracexYorkshine (LY） gilts with similar age [ $2 5 4 { \pm } 1 0 \$ ） days of age] and body weight [ $( 1 4 9 . 2 { \pm } 7 . 9 )$ ） kg] were randomly assigned to three groups: low nutrient level (LN） group, appropriate nutrient level (AN) group and high nutrient level (HN) group. Each group contained 6 replicates and 1 sow per replicate. During early pregnancy (1 to 30 d), 0.75,1.O and 1.5 maintenance requirements of nutrient diet was provided to LN, AN and HN groups, respectively. During middle pregnancy (31 to $9 0 \mathrm { d }$ ） and late pregnancy (91 to 112 d), dietary supplement was increased by $20 \%$ and $2 5 \%$ compared with early pregnancy, respectively. The results showed as follows: 1） compared with LN group,the birth weight, weanling weight and muscle weight (except soleus) of piglets of AN and HN groups were significantly increased ( $_ { \cdot } P { < } 0 . 0 5$ or $P { < } 0 . 0 1$ ）， the semitendinosus/body weight and longissmus dorsi/body weight of piglets of AN group were significantly higher than those of LN group $( P { < } 0 . 0 1 )$ ，the muscle protein concentration of newborn piglets of AN group was significantly higher than LN and HN groups ( $_ { ( P < 0 . 0 5 }$ or
+
+$\scriptstyle P < 0 . 0 1 { \dot { } }$ ). 2）The longissimus dorsi myosin heavy chain IIx mRNA expression of newborn piglets of AN group was significantly lower than that of LN group ( $( P { < } 0 . 0 1 \$ ). 3） The longissimus dorsi myogenic regulatory factor 4 mRNA expression of newborn piglets of AN group was significantly higher than that of LN and HN groups $( P { < } 0 . 0 5 )$ . In conclusion，birth weight weanling weight and muscle weight of piglets is remarkably influenced by nutrient levels of sows during pregnancy. However, the relative muscles weight and protein concentration of offspring is damaged impaired by maternal over and under nutrition, which may be associated with the expression of myogenic regulatory factor 4.
+
+Key words: sows; nutrient level; piglets; muscle

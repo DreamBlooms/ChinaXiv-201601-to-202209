@@ -1,0 +1,78 @@
+# IgG4相关性硬化性胆管炎：一个肝胆胰外科医生应该重视的内科疾病
+
+刘乔飞，刘卫，洪涛，张宁，曲强，何小东\*中国医学科学院，北京协和医学院，北京协和医院基本外科，北京100730通讯作者：何小东电话：010-69152611； E-mail: hexdpumch@sina.com【摘要】IgG4 相关疾病（IgG4-related disease，IRD）是最近10 余年才被认识的一类以血清IgG4升高、席纹状纤维化以及大量IgG4 阳性浆细胞浸润为特征的多器官系统受累的自身免疫性疾病。胆道是IRD 常受累的器官之一。IgG4 相关性硬化性胆管炎（IgG4 related sclerosing cholangitis,IRSC）是 IRD 在胆道的临床表现形式。IRSC多有胆管壁局限性增厚、胆管扩张以及梗阻性黄疸等与胆胰恶性肿瘤相类似的临床表现。IRSC 对激素敏感，预后良好，合并恶性肿瘤极其罕见，绝大多数无需手术治疗，但近几年笔者临床工作中仍不时见到因“胆管狭窄、梗阻性黄疸”行手术治疗，术后病理证实为IRSC的病例。回顾这些病例的诊治过程，鲜有术前考虑 IRSC的情况。临床上也可见到术前因为血清IgG4 升高，起初误诊为IRSC，错过最佳手术时机，而术后病理证实为胆管癌的病例。故加强对 IRSC的宣传，特别是加深肝胆胰外科医生对 IRSC 的认识具有重要临床意义。
+
+【关键词】IgG4 相关疾病；IgG4 相关性硬化性胆管炎；胆胰恶性肿瘤；梗阻性黄疸
+
+# IgG4-related sclerosing cholangitis: an internal disease calls for hepatic-biliary-pancreatic surgeon's attention
+
+Qiaofei Liu, Liu Wei, Tao Hong, Ning Zhang, Qiang Qu, Xiaodong He\*   
+Department of General Surgery, Peking Union Medical College Hospital, Peking Union Medical College & Chinese Academy of Medical Sciences, Beijing, China,100730   
+Corresponding author: Xiaodong HeTel: O10-69152611 E-mail: hexdpumch@sina.com
+
+[Abstract]IgG4-related disease (IRD) is a newly defined multi-organ involved autoimmune disease only about 1O years ago. It is characterized by elevated serum $\mathrm { I g G 4 }$ , storiform fibrosis and massive infiltration of $\mathrm { I g G 4 }$ positive plasma cells in involved organs. Biliary tract is one of the most common involved organs. $\mathrm { I g } \mathrm { G } 4$ -related sclerosing cholangitis (IRSC) is the clinical entity of IRD in biliary tract. It always has the similar clinical symptoms to biliary-pancreatic malignancy, such as localized biliary wall thickness, dilation of bile duct and obstructive jaundice. It is sensitive to steroids with satisfactory prognosis, which does not warrant surgical treatment. However, recent years, the authors met several cases who underwent operation due to bile duct stricture and obstructive jaundice.However, the final pathological examinations reported that they were IRSC.After reviewing these medical cases, the authors found IRSC was seldom considered before surgery. As well, there were some other cases of biliary malignancy with elevated serum IgG4 which were misdiagnosed to be IRS,leading to missing the best operative time. Therefore, to widely broadcast the knowledge of IRSC and especially to deepen the understanding of IRSC for the hepatic-biliary-pancreatic surgeons are of great clinical importance.
+
+[Key Words] lgG4-related disease; IgG4-related sclerosing cholangitis; Biliary-pancreatic malignancy; Obstructive jaundice
+
+IgG4相关性疾病（immunoglobulin G4-related disease,IRD）是本世纪才被认识的一类以血清IgG4升高、病变组织席纹样纤维化以及大量IgG4 阳性细胞浸润为特征可累及全身多器官系统的自身免疫性疾病[1]。历史上IRD 曾有多个名称，直到 2011年才正式将此类疾病命名IRD[2。IRD几乎可累及人体所有组织，其临床表现形式多种多样。胆道是IRD 较常累及的器官之一。IgG4硬化性胆管炎（IgG4 related sclerosing cholangitis,IRSC）是 IRD 在胆道的临床表现形式。IRSC是一种对激素治疗敏感、预后良好，极少需要手术治疗的一种内科疾病。但由于IRSC 好发于老年男性，不同于常见的自身免疫性疾病，且其多有胆管壁增厚、胆管扩张以及梗阻性黄疸等与胆胰恶性肿瘤类似的临床表现，故临床上时有发生将 IRSC 误诊为胆胰恶性肿瘤，错误得进行手术治疗的案例。血清IgG4升高并非 IRSC 特异性特征， $5 \%$ 的胆胰恶性肿瘤血清IgG4也会升高，故临床上也可见到因为血清 $\mathrm { I g G 4 }$ 升高，被误诊为IRSC，而错过最佳手术时机的胆胰恶性肿瘤的案例。虽然IRSC 是一种内科疾病，但由于常需要跟胆胰恶性肿瘤鉴别，故加强对IRSC的宣教，特别是加深肝胆胰外科医生对IRSC的认识，对于IRSC的诊治具有重要的临床意义。本文将介绍 IRD以及IRSC的发展简史、IRSC 的临床表现、诊断及分型、IRSC与胆管癌的影像学特征以及IgG4与胆胰恶性肿瘤的关系。
+
+# 1．IRD以及IRSC发展简史
+
+1995 年，日本学者Yoshida 等发现一例伴随高免疫球蛋白血症且对激素治疗敏感的胰腺炎。当时，他们认为这可能是一种自身免疫性胰腺炎（autoimmunepancreatitis,AIP）[3]。2001 年，Hamano 等对比分析了 20 例此类胰腺炎患者的血清IgG及其亚型后，发现此类胰腺炎患者血清IgG4 明显升高，于是他们认识到这类胰腺炎与IgG4有密切关系[4]。2003年，Kamisawa等对8例此类胰腺炎行胰十二指肠切除术的 病理标本进行免疫组化染色后发现除了病变胰腺组织外，大部分胰周组织、胆囊、胆管、胃粘膜、淋巴结中都有大量IgG4 阳性浆细胞浸润，故他们提出AIP只是这种IgG4相关的自身免疫性疾病的一种临床表现形式，而这类自身免疫性疾病应该是一种多器官系统受累的疾病[5]。他们同时发现这类AIP 患者可伴随硬化性胆管炎，在激素治疗后，胰腺炎和胆管炎均有好转。病理也证实这类胆管炎病变组织中大量IgG4 阳性浆细胞浸润，故他们将这类胆管炎命名为自身免疫性胰腺炎相关性硬化性胆管炎（autoimmune pancreatitis relatedsclerosing cholangitis,AIP-SC）[6]。2007年，Bjornsson 等通过综述文献后正式提示IgG4 相关性胆管炎（IgG4relatedcholangitis）的名称，并认为其是与原发性硬化性胆管炎完全不同的一种新的硬化性胆管炎类型[7。随后，人们发现越来越多的以往不能明确分类的以组织肿大纤维化且对激素治疗敏感的自身免疫性疾病也与IgG4相关，于是井喷似的出现了一系列以“Ig4”开头命名的新的疾病名称[8]。2010 年，Takahashi 等正式提出 IgG4 相关疾病这一概念[9]。2011年，在国际IgG4 相关疾病研讨会上正式将这一类疾病的名称统一为"IgG4related disease”,并认为这是一类几乎可以累及人体全身任何器官系统的疾病。随后，IRD作为一类新的疾病迅速成为学术界研究和讨论的热点。2012年,Deshpande等提出了IRD的病理诊断的共识[10]。2012 年，Ohara 等提出了 IRSC 临床诊疗的专家共识[11]。2015 年，国际多学科专家小组提出了 IRD 的诊疗共识[12]。2012年以及2015年，《NEJM》以及《Lancet》先后分别发表关于IRD 的长篇综述[1,8]。
+
+# 2．IRSD的临床表现、诊断、治疗与预后
+
+# 2.1临床表现
+
+IRSC 高发于60岁以上的老年男性，男女比例4\~6:1，这与绝大多数自身免疫性疾病不同。2017年，一项来自日本的全国性的调查纳入了527例IRSC 患者[13]。这是目前国际上最大病例数的报道。患者中位年龄是66.2岁,男女比例 4.9:1。常见的症状有黄疸（ $3 5 \%$ )，皮肤瘙痒（ $1 3 \%$ )，腹痛（ $1 1 \%$ ）及胆管炎（ $10 \%$ ）。$28 \%$ 患者无任何临床症状。 $8 4 . 4 \%$ 患者 $\mathrm { I g G 4 }$ 异常升高。这些患者中合并胆管癌 4例（ $0 . 8 \%$ ）,其它恶性肿瘤21例（肺癌5例，胃癌3例，十二指肠癌3例)，共计25例 $( 4 . 7 \% )$ )。由此可见IRSC患者恶性肿瘤发生风险明显高于普通老年人群。IRSC常合并AIP，而孤立型IRSC较为少见。该文中报道 $8 7 \% \mathrm { { I R S C } }$ 患者合并AIP。2014年，英国学者报告了115例合并AIP的 IRSC患者，恶性肿瘤的发生率为$1 1 \% ^ { [ 1 4 ] }$ 。2014年，Atsushi等报道了43 例孤立型 $\mathrm { I R S C } ^ { [ 1 5 ] }$ 。这组孤立型 IRSC 患者中位年龄 69.3岁，男女比例3.3:1。其中 $54 \%$ 患者无任何临床表现， $2 2 \%$ 患者黄疸， $20 \%$ 皮肤瘙痒， $1 7 \%$ 胆管炎。 $8 9 . 5 \%$ 患者 $\mathrm { I g G 4 }$ 异常升高。Nakazawa 等报道 40 例 IRSC 患者中21例（ $5 2 . 2 \%$ ）CA199异常升高[16]。笔者也报告了2004年至 2014 年10 年期间北京协和医院收治的 72 例 IRSC 的临床资料[17]。该组患者平均年龄 59.8 岁，男女比例5.5:1。其中 $6 8 . 1 \%$ 患者腹痛以及 $8 1 . 9 \%$ 患者黄疸。所有患者均合并AIP。该组患者中未见合并恶性肿瘤的病例。
+
+# 2.2诊断与分型
+
+2012 年日本胆道学会提出了IRSC 的临床诊断标准[11,16]。IRSC 的诊断要综合考虑：（1）典型的节段性或弥漫性胆管狭窄以及胆管壁增厚的影像表现；（2）血清 IgG4 水平 $\mathrm { > } 1 3 5 \mathrm { m g / d l }$ ；（3）合并AIP、IgG4 相关泪腺炎、IgG4相关的腹膜后纤维化等其它器官系统受累情况；（4）特征性病理特征；（5）激素诊断性治疗效果五方面的信息。IRSC典型的病理特征包括：（a）病变组织中大量淋巴细胞以及浆细胞浸润；（b)大于10 个 $\mathrm { I g G 4 }$ 阳性浆细胞/HPF；(c）席纹样纤维化；（d)闭塞性脉管炎。综合这五方面的因素可分别达到确诊（definite diagnosis）、拟诊(probable diagnosis)及疑诊(possible diagnosis)。确诊： $\left( 1 \right) + \left( 3 \right)$ ； $\left( 1 \right) + \left( 2 \right) +$ （4）a,b；（4）a,b,c；（4）a,b,d；拟诊： $( 1 ) + ( 2 ) + ( 5 )$ ；疑诊： $( 1 ) + ( 2 )$ 。根据受累胆管的解剖位置不同，IRSC分为1型（远端胆管）、2a型（远端胆管 $^ +$ 肝内胆管节段病变)、2b型（远端胆管 $^ +$ 肝内胆管弥漫病变）、3型（肝门部胆管及远端胆管）及4型（肝门部胆管)。其中1型最常见约占 $6 0 \%$ ，2型约为 $1 5 \%$ ，3型及4型分别约为 $10 \%$ 。1型IRSC需要与胆管癌、胰腺癌以及慢性胰腺炎相鉴别。2型 IRSC 需要与PSC 相鉴别。3型及4型IRSC 需要与肝门部胆管癌以及胆囊癌相鉴别。2013年，Takahiro 等提出了IRSC 临床诊断流程[18]。在该流程中，他们提出3型及4型 IRSC 与肝门部胆管癌相鉴别通常较为困难，而 ERCP活（刷）检，导管内超声（IDUS）以及更高的 $\mathrm { I g G 4 }$ 水平有助于IRSC 的诊断。有学者对于1型 IRSC 的定义提出了质疑。他们认为1型 IRSC 可能是由于AIP引起的胰腺内胆管受压后的改变，而不应该作为一种单独类型的IRSC。43 例孤立型IRSC中，1型仅为 $10 \%$ ，而3型及4型为 $6 0 \%$ ，这与合并AIP的 IRSC分型的分布截然不同，所以对于1型 IRSC 与 AIP 的关系值得深入探讨[15]。IRSC的临床诊断标准于2012年提出，当时尚未见IRSC 合并胆管癌的报道。但近几年出现了IRSC 合并胆管癌的病例报道，故笔者认为应该对 $\left( 1 \right) + \left( 3 \right)$ 能否达到确诊需重新审视。AIP患者若合并胆管远端增厚狭窄是否就可以确诊1型IRSC而完全排除胆胰恶性肿瘤，值得大家深入思考。
+
+# 2.3治疗与预后
+
+不同于原发性硬化性胆管炎，IRSC对激素治疗敏感，反应率约为 $90 \%$ ，但部分患者治疗后会复发。438例IRSC患者经过激素治疗后，386例（ $87 \%$ ）碱性磷酸酶下降超过 $5 0 \%$ 或恢复到正常水平。377例胆管狭窄明显缓解 $90 \%$ )。该组患者中位随访时间4.1年，总体复发率 $1 9 \%$ 。1年、3年及5年的复发率分别为 $1 . 6 \%$ ， $7 . 6 \%$ 及 $1 6 . 5 \% ^ { [ 1 3 ] }$ 。北京协和医院72 例患者中 57 例接受了激素治疗。2年复发率为 $3 7 . 2 \%$ 。受累胆管节段数目以及受累器官数目与复发风险相关。有研究发现治疗前 $\mathrm { I g G 4 }$ 数值与治疗后复发风险也相关[15]。
+
+IRSC 预后良好，在日本527例IRSC 患者中，总体5年及10年生存率分别为 $9 4 . 5 \%$ 及 $8 1 \% ^ { [ 1 3 ] }$ 。日本 43 例孤立型 IRSC 的3年生存率约 $90 \%$ [15]。但是中位随访时间为33个月的一项来自英国的纳入115 例AIP以及IRSC 患者的前瞻性观察研究发现初始激素治疗反应率 $9 0 \%$ 、复发率 $5 0 \%$ 、总体死亡率 $10 \%$ 、恶性肿瘤发生率 $1 1 \%$ （3例为胆胰肿瘤)，且肝、胰、肺及肾等器官功能障碍及衰竭的比例远高于同期同年龄人群[14]。
+
+# 2.4IRSC与肝外胆管癌影像学特征
+
+Dimitrios等通过分析152例胆管病变的患者后发现血清 $\mathrm { I g G 4 }$ 以及胆管活（刷）检对于IRSC的敏感性及特异性均较差，分别为 $6 0 \%$ 和 $56 \%$ ，然而典型的CT 特征的敏感性高达 $7 5 \%$ 、特异性 $89 \%$ 以及准确率 $8 3 \% ^ { [ 1 9 ] }$ 。多排螺旋CT 显示单发狭窄、胆管肿物以及正常胰腺常提示胆管癌可能性大。Arikawa等[20对比分析了肝外胆管癌（16例）以及IRSC（13例）的多排螺旋增强CT的特征。他们发现 IRSC 病变节段较肝外胆管癌长；IRSC 多为向心性均匀管壁增厚、大多小于 $3 \mathrm { m m }$ 且管腔通畅，而肝外胆管癌多为偏心型增厚；IRSC大多合并胰腺病变而肝外胆管癌则无此特征。管壁厚度小于 $3 \mathrm { m m }$ 以及向心性均匀增厚对于肝外胆管癌以及IRSC鉴别的敏感性、特异性以及准确性分别为 $7 6 . 9 \%$ 、 $9 3 . 8 \%$ 、 $8 6 . 2 \%$ 以及 $100 \%$ 、 $8 7 . 5 \%$ 及 $9 3 . 1 \%$ 。2016年，Yata 等对比了更大样本量的IRSC（33例）与肝外胆管癌（39 例）的多排螺旋增强CT特征[21]。然而，他们发现IRSC 与肝外胆管癌管壁增厚并无明显差异（ $\scriptstyle \mathrm { ( P = 0 . 2 6 3 ) }$ )，但肝外胆管癌近端胆管扩张更明显$\scriptstyle ( \mathbf { P < } 0 . 0 0 1 )$ 。IRSC可见跳跃病变，而胆管癌无此特征。多期增强CT显示动脉期、门脉期及延迟期IRSC多呈单层强化模式（single-layered contrast enhancement）,且均匀强化及衰减，而肝外胆管癌多呈双层强化模式（double-layered contrastenhancement)，多为不均匀强化及衰减，这可能与胆管癌侵犯胆管周围组织有关。IDUS 可近距离直接探测胆管病变较CT表现出明显的优越性[22]。IDUS 显示IRSC多呈向心性对称性管壁增厚、胆管内外膜光滑且回声均匀。IRSC 非狭窄胆管管壁较胆管癌明显更厚。非狭窄胆管壁厚度大于 $0 . 8 \mathrm { m m }$ 对于IRSC诊断的敏感性为$9 5 \%$ ，特异性为 $9 0 . 9 \%$ ，准确性为 $9 3 . 5 \%$ 。然而胆管活检结果显示大量淋巴细胞浸润为 $100 \%$ ，纤维化为 $82 \%$ ，大量 $\mathrm { I g G 4 }$ 阳性浆细胞仅为 $1 8 \%$ ，闭塞性脉管炎为0，由此可见胆管活检对IRSC的诊断敏感性和特异性均较差，但对于排除胆管癌仍然有重要意义。PET-CT 对于 IRD 的全身评估具有一定的意义，但对于IRSC与胆管癌的鉴别尚无相关报道[23]。
+
+# 3.IgG4与胆胰恶性肿瘤的关系
+
+虽然 IRD以及 IRSC 均以‘ ${ } ^ { \cdot } \mathrm { I g } \mathrm { G } 4 { } ^ { \prime \prime }$ 开头命名，但血清 $\mathrm { I g G 4 }$ 升高以及病变组织中 $\mathrm { I g G 4 }$ 阳性浆细胞浸润，并不是IRD以及IRSC的特异性表现。约 $5 \%$ 的胰腺癌以及 $2 2 \%$ 的胆管癌血清 $\mathrm { I g G 4 }$ 异常升高[16]。 $1 7 \%$ 的胰腺癌以及 $32 \%$ 的胆管癌组织中大于20个 $\mathrm { I g G 4 }$ 阳性浆细胞 $/ \mathrm { H F P } ^ { [ 2 4 ] }$ 。由于 $\mathrm { I g G 4 }$ 多由辅助性2型T细胞相关细胞因子（Th2）诱导，而Th2型细胞因子多参与诱导免疫耐受抑制肿瘤免疫反应，所以 $\mathrm { I g G 4 }$ 甚至可能与恶性肿瘤的发生发展相关。虽然目前血清 $\mathrm { I g G 4 }$ 与胆胰恶性肿瘤的关系尚不明确，但我们通过分析95例胰腺癌术后标本后发现癌组织中IgG4 细胞明显多于癌旁，且肿瘤组织中IgG4 细胞与胰腺癌预后呈负相关[25]。Miyatani等也在胃癌中发现了类似的现象[26]。Karagiannis等发现黑褐色瘤细胞分泌 Th2 细胞因子诱导浆细胞向IgG4 阳性转化。而后IgG4 阳性浆细胞抑制了针对黑褐色瘤细胞的免疫效应。血清中IgG4与黑色素瘤患者预后呈负相关[27,28]。
+
+# 4.结束语
+
+IRD 是本世纪新命名的一类疾病。IRSC 是IRD 累及胆道的一种临床形式。IRSC临床表现多与胆胰恶性肿瘤类似，但由于其对激素治疗敏感，罕见合并胆管癌，预后好，不应进行手术治疗。对于肝胆胰外科医生而言，提高对IRSC的认识，避免对其进行错误的手术治疗尤其重要。在临床工作中，笔者建议从以下几点加深认识：1.遇到胆管狭窄、梗阻性黄疸患者，应该想到IRSC的可能性；2.若患者同时合并AIP，应该高度怀疑IRSC；3.血清IgG4升高的患者不一定是 IRSC0 $( 1 0 \% \sim 2 0 \%$ ，而 $\mathsf { I g G 4 }$ 不升高的患者，也不能排除IRSC（约 $2 0 \% { \sim } 4 0 \%$ )；4.对于鉴别诊断困难的患者，进行 ERCP，EUS 或 IDUS 检查可提高诊断的准确性，但活检对 IRSC 的敏感性及特异性均较低；5.仅仅单凭病变组织中大量 IgG4 阳性浆细胞浸润，不能确诊 IRSC，还应结合其他特征性病理改变；6.IRSC及AIP合并恶性肿瘤的风险较普通人群高，应该注意排查，避免漏诊。
+
+# 参考文献
+
+[1]Kamisawa T, Zen Y, Pillai S, Stone JH.IgG4-related disease [J]. Lancet 2015; 385: 1460-1471. [2]Stone JH, Khosroshahi A, Deshpande V,et al. Recommendations for the nomenclature of IgG4-related disease and its individual organ system manifestations [J]. Arthritis Rheum 2012; 64: 3061-3067.   
+[3]Yoshida K, Toki F, Takeuchi T, et al. Chronic pancreatitis caused byan autoimmune abnormality. Proposal of the concept of autoimmune pancreatitis [J]. Dig Dis Sci 1995; 40: 1561-1568.   
+[4]Hamano H, Kawa S, Horiuchi A,et al. High serum lgG4 concentrations in patients with sclerosing pancreatitis [J]. N Engl JMed 2001; 344: 732-738.   
+[5]Kamisawa T, Funata N, Hayashi Y, et al.A new clinicopathological entity of IgG4-related   
+autoimmune disease [J].JGastroenterol 2003; 38: 982-984.   
+[6]Hirano K, Shiratori Y, Komatsu Y,et al.Involvement of the biliary system in autoimmune   
+pancreatitis: a follow-up study [J]. Clin Gastroenterol Hepatol 2003; 1: 453-464.   
+[7]Bjornsson E, Chari ST,Smyrk TC,Lindor K.Immunoglobulin G4 associated cholangitis: description of an emerging clinical entity based on review of the literature [J]. Hepatology 2007; 45: 1547-1554. [8]Stone JH, Zen Y, Deshpande V.IgG4-related disease [J].N Engl JMed 2012;366: 539-551. [9]Takahashi H, Yamamoto M, Suzuki C,et al.The birthday of a new syndrome: lgG4-related diseases constitute a clinical entity [J]. Autoimmun Rev 2010; 9: 591-594.   
+[10]Deshpande V,Zen Y, Chan JK,et al. Consensus statement on the pathology of IgG4-related disease [J]. Mod Pathol 2012; 25: 1181-1192.   
+[11]Ohara H, Okazaki K, Tsubouchi H,et al. Clinical diagnostic criteria of IgG4-related sclerosing cholangitis 2012[J].JHepatobiliary Pancreat Sci 2012;19: 536-542.   
+[12]Khosroshahi A,Wallace ZS, Crowe JL,et al. International Consensus Guidance Statement on the Management and Treatment of IgG4-Related Disease [J]. Arthritis Rheumatol 2015; 67: 1688-1699. [13]Tanaka A,Tazuma S, Okazaki K,et al. Clinical Features,Response to Treatment,and Outcomes of IgG4-Related Sclerosing Cholangitis [J]. Clin Gastroenterol Hepatol 2017;15: 920-926 e923.   
+[14]Huggett MT, Culver EL, Kumar M,et al. Type 1 autoimmune pancreatitis and lgG4-related sclerosing cholangitis is associated with extrapancreatic organ failure,malignancy,and mortality in a prospective UK cohort [J]. Am JGastroenterol 2014; 109: 1675-1683.   
+[15]Tanaka A, Tazuma S, Okazaki K,et al. Nationwide survey for primary sclerosing cholangitis and IgG4-related sclerosing cholangitis in Japan [J].JHepatobiliary Pancreat Sci 2014; 21: 43-50.   
+[16]Nakazawa T, Naitoh I, Hayashi K,etal.Diagnostic criteria for lgG4-related sclerosing cholangitis based on cholangiographic classification [J].JGastroenterol 2012; 47: 79-87.   
+[17]王鹏辉，何小东，曹建中,etal．原发性硬化性与IgG4 相关硬化性胆管炎临床特征比较 []. 中华肝胆外科杂志 2016;22:315-319.   
+[18]Nakazawa T, Naitoh I, Hayashi K,etal. Diagnosis of lgG4-related sclerosing cholangitis[J].World JGastroenterol 2013;19: 7661-7670.   
+[19]Lytras D, Kalaitzakis E,Webster GJ,et al. Cholangiocarcinoma or lgG4-associated cholangitis: how feasible it is to avoid unnecessary surgical interventions?[J]. Ann Surg 2012; 256: 1059-1067. [20]Arikawa S, Uchida M, Kunou Y,et al. Comparison of sclerosing cholangitis with autoimmune pancreatitis and infiltrative extrahepatic cholangiocarcinoma: multidetector-row computed   
+tomography findings [J]. Jpn JRadiol 2010; 28: 205-213.   
+[21]Yata M, Suzuki K,Furuhashi N,et al. Comparison of the multidetector-row computed   
+tomography findings of IgG4-related sclerosing cholangitis and extrahepatic cholangiocarcinoma [J]. Clin Radiol 2016;71: 203-210. [22]Naitoh I,Nakazawa T,Ohara H,et al.Endoscopic transpapillary intraductal ultrasonography and biopsy in the diagnosis of IgG4-related sclerosing cholangitis [J].JGastroenterol 2009; 44: 1147-1155. [23]Zhao Z,Wang Y,Guan Z,etal. UtilityofFDG-PET/CT in the diagnosisof IgG4-related diseases[J]. Clin Exp Rheumatol 2016;34:119-125.   
+[24]Resheq YJ, Quaas A, von Renteln D,et al. Infiltration of peritumoural but tumour-free   
+parenchyma with lgG4-positive plasma cells in hilar cholangiocarcinoma and pancreatic   
+adenocarcinoma [J]. Dig Liver Dis 2013; 45:859-865.   
+[25]Liu Q,Niu Z,Li Y,etal.Immunoglobulin G4 (IgG4)-positive plasma cellinfiltration is associated with the clinicopathologic traits and prognosis of pancreatic cancer after curative resection [J]. Cancer Immunol Immunother 2016; 65: 931-940.   
+[26]Miyatani K,Saito H,Murakami Y, et al. A high number of IgG4-positive cels in gastric cancer tissue is associated with tumor progression and poor prognosis [J]. Virchows Arch 2016; 468: 549-557. [27]Karagiannis P,Gilbert AE, Josephs DH,et al.IgG4 subclass antibodies impair antitumor immunity in melanoma [J].J Clin Invest 2013;123:1457-1474.   
+[28]Karagiannis P,Villanova F,Josephs DH,etal.Elevated IgG4 in patient circulation is associated with the risk of disease progression in melanoma [J]. Oncoimmunology 2015;4: e1032492.

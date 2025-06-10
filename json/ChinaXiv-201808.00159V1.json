@@ -1,0 +1,313 @@
+[
+    {
+        "type": "text",
+        "text": "基于BIM的变电站清单与工程量自动生成的研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "史松峰[1]，顾闻[1]，朱春叶[1],朱江[2]（1．国网上海市电力公司经济技术研究院，上海200122)（2．上海大学，土木工程系，上海200072）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要：本文建立了变电站的 BIM 模型，基于 Revit 二次开发技术，实现了实体钢筋的建模、读取 BIM 模型的信息，实现了钢筋、混凝土、门窗、墙体工程量的自动提取，并可依据族和族类型套用子目，从而实现了变电站工程由BIM模型直接生成工程量清单的功能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：建筑信息模型;变电站;工程量",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：TU17 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research on Automatic Generation of Engineering Quantity for Substation Based on BIM ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Shi Songfeng¹,Gu Wen¹, Zhu Chunye¹, Zhu jiang² (1.Economicndechicalesearchstitute,anghiElectricowerompanynghaiCina;Departmtfiil ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Engineering,Shanghai University,Shanghai 20o444, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In this paper,the BIM model of the substation is established.Based on the secondary development technology of Revit, the rebar is modeled。 Through reading the information of the BIM model， this engineering quantity of the steel bar, concrete,， doors,windows and walls is calculated automatically. This program also provides the function to apply the quota based on the family and the family symbol,and get the bill of quantities from the BIM model of substation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: BIM; Substation; Engineering Quantity ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BIM技术的核心是信息化，是BIM模型所提供的数字化的、信息化的信息。在工程造价中，工程量计算与定额套用是最复杂、最繁琐的部分。如何高效、准确地快速生成预算的工程量，并套用清单，无疑是整个预算行业迫切需要解决的问题。BIM技术确实为该目标的实现提供了有效的技术手段。使用BIM模型，提取其所提供的数字化的信息从技术上为工程量清单的自动生成提供了可能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "但是，由于国内的预算规则复杂，如何按国内的预算规则，生成符合国内预算定额标准的工程量清单，也是由BIM模型生成工程量中最大的难关。齐聪等于2008 年提出了利用Revit平台软件导出ODBC数据表，对其进行整理生成模型尺寸数据的方法[1。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "马智亮等于2007年分析了IFC标准应用于工程成本预算的可能性，求证了应用IFC 标准中的问题与解决方案[2]。裴艳等于 2016年分别对国内外的各类BIM算量软件的优缺点进行了分析，论述了各种软件的优缺点，提出了Revit二次开发技术在管道工程量统计中的开发方法[3。吴佳丽等于 2017 年论述了使用 BIM技术算量的基本流程与思路[4]。林韩涵等于2015年提出了基于Revit软件的ODBC数据库，建立构件属性与插件的数据映射，论证了BIM软件输出清单量的可行性[5]。谢思聪等于 2017 年验证了 BIM 技术在装配式建筑算量的优势[。王茹等于 2017年采用Revit二次开发，重点针对构件的国内工程量扣减规则，提出了构件扣减规则的指导方法[]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "但目前国内外的研究中，针对钢筋的工程量统计很少。在变电站工程中，钢筋、混凝土、墙体、门窗的成本是土建成本的重要组成。因此，其用量的统计对于甲方的成本控制、施工方的物资统筹管理具有重要的意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着BIM技术的广泛应用，在BIM模型中按照工程实际建立变电站的土建模型，并集成钢筋的实体BIM模型，不仅可以快速地统计钢筋、混凝土、门窗、墙体的用量，而且可以实现分阶段统计、设计修改发生前后的用量差别统计，这对于甲方与施工方均具有实际的成本控制意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此为切合工程需要，本文使用Revit的二次开发功能，实现了钢筋、混凝土、门窗、墙体用量的分类快速统计功能、定额套用以及清单生成功能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文基于RevitAPI,使用VisualC#语言，实现了实体钢筋的建模与Revit模型的信息提取功能。RevitAPI是Autodesk 提供的 Revit产品的二次开发包，其提供了Revit开发所需要的类库，可以嵌入Revit中运行。通过这套强大的RevitAPI，可以添加用户基于RevitAPI开发的插件来扩展和增强Revit的功能和应用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文基于RevitAPI开发了钢筋的实体建模、BIM土建模型的工程量统计的插件，采用IExternalCommand接口来添加应用，达到了扩展Revit的功能目的。本程序不仅可统计钢筋、混凝土、门窗、墙体的工程量，同时可以针对以上类别，套用定额子目，生成工程量清单，并保存在Exce1表中。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2BIM模型标准",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因该平台是基于BIM模型的工程量统计平台，因此在平台的研发过程中，BIM模型的标准与详细程度是保证本文研究统计结果正确性的基础。在本研究中，为准确反映构件的用量，Revit模型的标准均按LOD400创建。同时，因为钢筋用量统计的复杂性，本文研究了BIM模型中的实体钢筋模型的创建，实现了BIM模型的钢筋与真正工程的一致性，同时，为了实现对钢筋、混凝土、门窗、墙体构件的用量统计，因此本模型中的",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Revit中的族、族类型等属性的定义，均按定额的分类要求，分别制定了相应的命名规范。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3实体钢筋建模问题",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为保证钢筋统计的精准度，因此必须按工程实际的钢筋形式，对结构构件进行钢筋实体建模。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（a）梁的钢筋建模",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因为变电站梁的钢筋基本都包含受扭纵筋、多层钢筋等，因此Revit的扩展插件无法建模。因此，本文采用使用RevitAPI二次开发，编程实现了变电站梁中的箍筋、纵筋、腰筋、抗扭钢筋的建模，从而保证了Revit模型中的钢筋与实际工程的完全一致见图1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文在RevitAPI中对纵筋建模使用的命令为CreateFromCurves，即通过指定曲线绘制钢筋。该命令中所使用的主要参数分别为RebarBarType、Curve和host，其中RebarBarType指钢筋的形状，在该钢筋形状中定义了钢筋的等级、钢筋直径等信息，host表示钢筋所在的混凝土构件，而Curve表示钢筋的路径。Curve是建立钢筋命令中最主要的参数。为获得钢筋的路径，需要先获得梁的位置信息，即其三维空间坐标。在该三维空间坐标的基础上，加上钢筋起点和终点分别与梁的相对偏移量，即可获得钢筋的起点和终点的三维空间坐标。根据两个空间坐标，即可获得两个空间坐标点连成的直线，即可得到命令的参数Curve。而且，路径参数也支持曲线的路径，因此可以建立复杂的钢筋路径。同时，由于该参数也可采用IList<Curve>形式的参数，即多段路径的集合，因此也可使用该命令建立多段路径的钢筋，但使用该命令时需要保证各段路径首尾相连。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于箍筋和拉结筋，本文使用了RevitAPI中的CreateFromRebarShape命令创建，即通过指定钢筋形状绘制钢筋。因为箍筋和拉结筋的形状复杂，通过使用已有的钢筋形状，在RevitAPI中创建比较方便，不需再多次指定钢筋的各段路径。该命令中的主要参数为RebarBarType和RebarShape，即钢筋类型和钢筋形状。但与CreateFromCurves不同的是，需要配套使用ScaleToBox确定钢筋的布置区域。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/94d8bd24648fe6622670280f08a2b1995a7cdd2aee9fd53d4d5416ff82933d53.jpg",
+        "img_caption": [
+            "图1梁布置钢筋的BIM模型",
+            "图3钢筋用量统计界面"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（b）柱的钢筋建模",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "变电站中的柱子基本均为矩形柱，因此对于简单配筋的矩形柱，使用Revit自带的扩展插件进行布置，但对于配筋复杂的柱子，则仍采用与梁中的RevitAPI的钢筋创建命令进行钢筋的建模。柱子的钢筋实体模型见图2。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同时，为减少建模的工作量，对配筋相同的柱子，均采用Revit组的方式，从而实现批量修改与创建。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "构钢筋”和“结构区域钢筋”的图元，使用LookupParameter命令，获得参数“钢筋体积”的值，即可获得该钢筋的体积。经编程试验，验证了两种方法所获得的钢筋体积是一样的。但第二种方法用时非常长，一般一个标准表电站工程的钢筋统计计算用时为30分钟左右，不具有实际价值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "另外，在使用插件进行钢筋用量统计的过程中，因为需要区分不同构件，因此，在建模的过程中，就需对构件的命名规则进行统计，才能实现钢筋的分类统计。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/305e419e81d0a0c00b76abe77bb145e2defd07b4b9a99c5a71877074bd6bcd83.jpg",
+        "table_caption": [
+            "区5·\\~ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>编号</td><td>类别</td><td>体积（om3）</td><td>重量（t）</td></tr><tr><td></td><td>0</td><td>结构柱</td><td>7712925.32</td><td>60.55</td></tr><tr><td></td><td>1</td><td>楼板</td><td>13296991.85</td><td>104.38</td></tr><tr><td></td><td>2</td><td>梁</td><td>12026560.57</td><td>94.41</td></tr><tr><td></td><td>3</td><td>结构基础</td><td>3731004.20</td><td>29.29</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于门窗的工程量，本文分别分别使用RevitAPI获得门窗族类型的高度和宽度参数，从而获得门窗的面积，而对于墙体、混凝土等，则可获得该图元的体积参数，直接获得其工程量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "文件 开始 插入 页面布局 公式 数据 审阅 视图 加载项 负载测试山 剪切 Arial 10 A A 多 旨自动换行  \n粘贴 复 B I U 田 S A 雙 州 山 国合并后居中剪贴板 [ 字体 rx 对齐方式 rD9 \\~0 fx 600 x 700mmA B C D E F G  \n1 序号id 族 类型 注释 体积(cm3)  \n2 1 320724结构柱 600 x 600mm 159658.28  \n3 2 320726结构柱 600 x 600mm 193959.03  \n4 3 320728结构柱 600 x 600mm 193959.03  \n5 4 320730结构柱 600 x 600mm 193860.78  \n6 5 320732结构柱 600 x 600mm 193959.12  \n7 6 320734结构柱 600 x 600mm 193959.03  \n8 7 320736结构柱 600 x 600mm 193959.03  \n9 8 323086结构柱 600 x 700mm 217801.29  \n10 9 323088结构柱 600 x 700mm 265799.04  \n11 10 323090结构柱 600 x 700mm 265799.28  \n12 11 323092结构柱 600 x 700mm 265799.28  \n13 12 323094结构柱 600 x 700mm 265799.28  \n14 13 323096结构柱 600 x 700mm 265799.28  \n15 14 323098结构柱 600 x 700mm 250881.3",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e7f282084d2301411d2743c422b71fe53ddeda658974147b14e76947da3fd45.jpg",
+        "img_caption": [
+            "图4钢筋用量统计生成的Excel表",
+            "图2柱布置钢筋的BIM模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4工程量统计问题。",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在钢筋用量的统计中，分别使用了两种方法进行统计。第一种方法是，在BIM模型中，每个钢筋混凝土构件都有一个属性，在二次开发程序中，读取该面积属性，即使用LookupParameter命令，获得参数“估计的钢筋体积”的值，可获得该构件的钢筋用量。第二种方法是，逐根统计每个构件中的每根钢筋的体积，即遍历BIM模型中类别为“结",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5定额套用与清单生成",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文对于BIM模型的定额套用，是基于Revit中的族、族类型等属性进行区分的。因此，首先要制定模型中的Revit族、族类型名称的标准，且模型中的构件均按该标准进行命名。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在此基础上，程序遍历该BIM 模型中的所有族和族类型，将其存放至SQLServer数据库中的一个表中。同时，将定额中的子目名称、子目编码存放到数据库中的另一个表中。然后，在数据库中建立定额与族和族类型的关系对应表，该表首先由程序根据定额名称与族、族类型名称的相似度进行智能匹配，从而生成初步的关系对应表。但由于中文的复杂性，由程序自动生成的关系对应表无法做到完全正确，因此本文也提供了用户自行指定定额子目的功能，即由用户对于套用错误的族和族类型，可以重新指定定额子目（见图5)，从而最终确定每个族和族类型对应的定额子目。虽然程序无法完全准确完成定额子目的套用，但由程序生成初步套用子目的关系对应表，确实可为用户节省时间，降低了用户用于套用定额的工作量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "程序完成子目套用后，即可调用前文所获得的工程量，从而生成最终的工程量清单。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文对定额子目自动套用，依托于BIM模型中的族和族类型的标准性，也依托于标准制定的规范性。只要对标准进行不断地扩充与完善，即可使得本文的研究方法适用于不同的工程需求。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ea4db978ae5c5f2578216ff96710ba47ef697b4b82868a40b72b64eada9993b.jpg",
+        "img_caption": [
+            "图5定额套用"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]齐聪,苏鸿根.关于Revit平台工程量计算软件的若干问题的探讨[J].计算机工程与设计,2008,29(14):3760-3762.  \n[2]马智亮,娄喆.IFC标准在我国建筑工程成本预算中应用的基本问题探讨[J].土木建筑工程信息技术,2009,1(2):7-14  \n[3]裴艳,王君峰.基于BIM 技术的精细化算量实现方法研究[J].工程经济，2016,26(4) :39-44  \n[4]吴佳丽,蒋风香,胡妮妮.基于BIM技术的施工图概预算方法研究[J].陕西建筑，2017,43 (7) :232-234  \n[5]林韩涵,周红波,何溪.基于 BIM 设计软件的工程量计算实现方法研究[J].建筑经济，2015,36 (4) :59-62  \n[6] 谢思聪,陈小波,梁玉美.基于BIM与装配式建筑的新型工程量清单[J].工程管理学报，2017,31(3) :130-135  \n[7]王茹,方超,王柳舒.基于我国清单计价规范的Revit 模型工程量提取[J].图学学报,2017,38(3) :447-452",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6结论 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文实现了对Revit模型的钢筋、混凝土、门窗、墙体的工程量统计，同时也实现了定额子目的套用，并可生成工程量清单Excel文件，为今后预算行业的全BIM化，实现基于BIM的工程预算管理提供了有效的方法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文的研究，证明了从BIM模型中按构件类别统计工程量与套用子目，是可以实现的，为今后基于BIM模型的工程量清单生成的功能的全面实现，提供了一种可行的方法，对工程预算与管理具有较好的指导意义。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 3
+    }
+]

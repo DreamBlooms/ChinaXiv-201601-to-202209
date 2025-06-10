@@ -1,0 +1,378 @@
+# 无传感器PMSM中基于IGSO优化EKF的速度估计方法
+
+张相胜，田佳文，潘丰
+
+(江南大学 轻工过程先进控制教育部重点实验室，江苏 无锡 214122)
+
+摘要：为了提高无传感器永磁同步电机(PMSM)控制系统中速度控制性能，提出一种基于改进群搜索优化(IGSO)算法的扩展卡尔曼滤波(EKF)速度估计方案。首先，分析了PMSM磁场定向控制(FOC)系统模型；然后，将电机的 $d \ – q$ 轴电压、电流和转子速度作为状态变量，构建EKF中的状态方程来估计转速和负载。同时，为了提高 EKF的估计性能，以估计值与实际值的平方误差积分(ISE)作为适应度函数，通过IGSO算法来优化EKF中的噪声协方差矩阵 $\varrho$ 和 $R$ ，以此获得最优参数。仿真结果表明，提出的控制系统能够精确估计出电机转速并进行有效控制。
+
+关键词：永磁同步电机；速度估计；扩展卡尔曼滤波；噪声协方差矩阵；群搜索优化
+
+中图分类号：TP391
+
+Method of EKF speed estimation for sensorless pmsm based on IGSO optimizing
+
+Zhang Xiangsheng, Tian Jiawen, Pan Feng (KeyLaboratoryfAdvancedProcessControlforLightIndustryofinistryofEducation,Jiangnan University,WuiJangsu 210094, China)
+
+Abstract: In order to improve the speed control performance in sensorless permanent magnet synchronous motor (PMSM) control system,this paper proposed an extended Kalman filter (EKF)speed estimationscheme basedonimproved group search optimization(IGSO)algorithm.Firstly,itanalyzed thePMSMfield-orientedcontrol (FOC)systemmodel.Then,itused the motor's $d \ – q$ axis voltage,currentand rotorspeedasstate variables to constructthe state equation,soas touse the EKF to estimate thespeedandload.Atthesmetime,inordertoimprove teestimatedperformanceofEKF,itestimatedthesuareerrrtegal (ISE)between the valueand theactual value as the fitnessfunction,and used the IGSO algorithm tooptimize the noise covariance matrix $\varrho$ and $R$ in EKF. The simulation results show that the proposed control system can accurately estimate the motor speed and control effectively.
+
+Key Words: permanent magnet synchronous motor;speed estimation;extended kalman filter; noisecovariance matrix; group search optimization
+
+# 0 引言
+
+永磁同步电机(permanent magnet synchronous motor,PMSM)具有功率密度高、效率高、鲁棒性好等优点，使其在自动化、交通、航空航天等领域得到广泛应用[1]。对于PMSM控制，主要分为磁场定向控制(FOC)和直接转矩控制(DTC)[2]。其中，都是通过前级的速度控制器输出信号来调节电流和磁通。为此，速度控制成为整个闭环控制的关键。而速度控制的基础是准确获得电机的实际转速[3]。
+
+传统电机控制需要速度传感器或光学编码器来测量转子速度。目前，为了降低成本和提高PMSM对器件的鲁棒性，通常采用无速度传感器的PMSM控制[4]。其中，电机转速是通过估计模型来预测，估计模型通常有模型参考自适应系统(modelreference adaptive system,MRAS)、观测器、扩展卡尔曼滤波器(extendedKalman filter,EKF)、模糊逻辑和人工神经网络等[5]。其中 EKF 应用较为广泛，然而，EKF 中的噪声协方差矩阵 $\boldsymbol { \mathscr { Q } }$ 和 $R$ 的取值直接影响估计性能[6]，需要取最优的参数值。
+
+为此，本文提出一种基于改进群搜索优化(improved groupsearchoptimization,IGSO)算法的EKF速度估计方案，并通过仿真实验证明了提出方法的有效性。提出方法的主要创新点如下：
+
+a)将电机的 $d - q$ 轴电压、电流和转子速度作为状态变量，构建EKF中的状态方程。
+
+b)对传统GSO 算法进行改进，引入粒子群优化(particleswarmoptimization,PSO)算法中的全局最优和个体最优融合技术，改进GSO中搜索者的位置更新机制，以此提高其收敛速度。
+
+# 1 PMSM数学模型
+
+PMSM具有不同的 $d$ 轴和 $q$ 轴电感，这取决于有效气隙的长度。转子中具有极的部分由 $d$ 轴定义，且其为励磁绕组的磁通产生方向[7]。 $q$ 轴定义为与 $d$ 轴成 $9 0 ^ { \circ }$ 电角度的方向。图1所示为PMSM的结构。
+
+![](images/18c9db82bd54d239bd47f65ee580ead9bc3787ce0220acd82ab08b24f079a55d.jpg)  
+图1PMSM的结构
+
+PMSM通常等效成一个转子旋转坐标系( $\cdot d - q$ 轴)电路，如图2所示。其中， $d$ 轴和 $q$ 轴的定子电压表示为
+
+$$
+\nu _ { d } = r _ { s } i _ { d } + \frac { d } { d t } \lambda _ { d } - \omega _ { r } \lambda _ { q }
+$$
+
+$$
+\nu _ { q } = r _ { s } i _ { q } + \frac { d } { d t } \lambda _ { q } - \omega _ { r } \lambda _ { d }
+$$
+
+其中： $\nu _ { d } \setminus \nu _ { q } \setminus i _ { d } \setminus i _ { q }$ 分别为 $d - q$ 轴电压和电流；而 $\omega _ { r } \cdot r _ { s }$ （204分别为电机转速和定子电阻。 $\lambda _ { d }$ 和 $\lambda _ { q }$ 分别为 $d - q$ 轴的磁链,可以用定子电流、电感和恒定磁链 $\lambda _ { m }$ 来表示：
+
+$$
+\lambda _ { d } = L _ { d } i _ { d } + \lambda _ { m }
+$$
+
+$$
+\lambda _ { _ q } = L _ { _ q } i _ { _ q }
+$$
+
+其中： $L _ { \scriptscriptstyle d } \setminus L _ { \scriptscriptstyle q }$ 分别为 $d - q$ 轴电感。将式(3)(4)代入式(1)(2)中，定子电压方程可修改为
+
+$$
+\nu _ { d } = r _ { s } i _ { d } + L _ { d } \frac { d } { d t } i _ { d } - \omega _ { r } L _ { q } i _ { q }
+$$
+
+$$
+\nu _ { q } = r _ { s } i _ { q } + L _ { q } \frac { d } { d t } i _ { q } + \omega _ { e } L _ { d } i _ { d } + \omega _ { r } \lambda _ { m }
+$$
+
+电磁转矩为
+
+$$
+T _ { e } = \frac { 3 } { 2 } \frac { P } { 2 } [ \lambda _ { m } i _ { q } + ( L _ { d } - L _ { q } ) i _ { d } i _ { q } ]
+$$
+
+运动方程可以表示为
+
+$$
+J \frac { d \omega _ { r } } { d t } + B \omega _ { r } + T _ { l } = T _ { e }
+$$
+
+其中： $T _ { e }$ 为电磁转矩； $T _ { l }$ 为负载转矩； $P$ 表示极数； $B$ 为阻尼系数； $\theta _ { r }$ 为转子位置； $J$ 为惯性矩。
+
+![](images/5ffce4f53092aa3bcea7ae32701b09f962bec456400c1af79fdfa1270b1cc054.jpg)  
+图2PMSM的等效电路
+
+# 2 基于EKF的PMSM无传感器控制模型
+
+# 2.1PMSM无传感器控制模型
+
+对于PMSM，本文采用常用的磁场定向控制(FOC)系统，将PMSM转换为单独激励的等效直流电机。图3为PMSM的磁场定向控制系统框图，其包含了脉宽调制(PWM)逆变器、PWM发生器、PI速度控制器、电流控制器，和EKF速度/位置估计器[8]。
+
+![](images/39ac80863920280cf959d65821fc44ef468e613d69623b0e2b183e39c041580a.jpg)  
+图3PMSM无传感器FOC控制模型
+
+# 2.2扩展卡尔曼滤波(EKF)
+
+卡尔曼滤波可以对线性系统的状态进行估计，但如果将其应用于非线性系统，则会非常耗时[9]。这是因为在非线性系统中，状态变量的方程在每一步中都会发生变化，因此在迭代过程中不能进行预计算。这一不足可以通过EKF方法来解决[10]。在PMSM数学模型中，将当前 $d - q$ 轴电压、电流和转子速度选为EKF的状态变量，那么输入变量 $\boldsymbol { u }$ 和输出变量 $y$ 可如下定义：
+
+$$
+x = \left[ \begin{array} { l } { i _ { d } } \\ { i _ { q } } \\ { \omega _ { r } } \end{array} \right] , u = \left[ \begin{array} { l } { \nu _ { d } } \\ { \nu _ { q } } \\ { \nu _ { q } } \end{array} \right] , y = \left[ \begin{array} { l } { i _ { d } } \\ { i _ { d } } \\ { i _ { q } } \end{array} \right]
+$$
+
+因此，离散时间系统方程可表示为
+
+$$
+x _ { k } = f _ { k - 1 } ( x _ { k - 1 } , u _ { k - 1 } , w _ { k - 1 } )
+$$
+
+$$
+y _ { k } = h _ { k } ( x _ { k } , \nu _ { k } )
+$$
+
+其中： $x _ { k }$ 为状态向量， $\boldsymbol { u } _ { k }$ 为输入向量， $w _ { k }$ 为随机状态噪声,$y _ { k }$ 为噪声观测或待测变量， $\nu _ { \scriptscriptstyle k }$ 为测量噪声。
+
+# 2.3EKF算法的步骤描述如下：
+
+a)初始化状态向量 $x ( 0 ) , P ( 0 )$ 和协方差矩阵，即 $\scriptstyle Q , R$ 。b)寻找 $f _ { k - 1 }$ 和 $h _ { k }$ 间的雅克比矩阵，其中：
+
+$$
+F _ { _ { k - 1 } } = \frac { \hat { \sigma } f _ { _ { K - 1 } } } { \hat { \sigma } x _ { _ { k } } }
+$$
+
+$$
+H _ { k } = \frac { \hat { \sigma } h _ { \kappa } } { \hat { \sigma } x _ { k } }
+$$
+
+c)预测状态矩阵和误差协方差矩阵
+
+$$
+x _ { k - 1 } = f _ { k - 1 } ( x _ { k - 1 } , u _ { k - 1 } ) + x ( 0 )
+$$
+
+$$
+P _ { k - 1 } = F _ { k _ { 1 } } P _ { k - 1 } F _ { k - 1 } ^ { T } + Q _ { k - 1 }
+$$
+
+d)状态校正，计算卡尔曼增益矩阵：
+
+$$
+K _ { k } = \frac { P _ { k - 1 } H _ { k } ^ { T } } { H _ { k } P _ { k - 1 } H _ { k } ^ { T } + R _ { k } }
+$$
+
+更新状态预测：
+
+$$
+x _ { k } = x _ { k - 1 } + K _ { k } ( y _ { k } - H _ { k } x _ { k - 1 } )
+$$
+
+估计误差协方差矩阵：
+
+$$
+P _ { k } = ( I - K _ { k } { H _ { k } } ) P _ { k - 1 }
+$$
+
+# 2.4基于 EKF 的速度估计
+
+PMSM的动态状态方程为
+
+$$
+\frac { d i _ { d } } { d t } = \frac { 1 } { L _ { d } } [ - R _ { s } i _ { d } + P _ { n } \omega _ { r } L _ { q } i _ { q } ] + \frac { \nu _ { d } } { L _ { d } }
+$$
+
+$$
+\frac { d i _ { q } } { d t } = \frac { 1 } { L _ { q } } [ - R _ { s } i _ { q } - P _ { n } W _ { r } L _ { d } i _ { d } - P _ { n } \omega _ { r } \psi _ { f } ] + \frac { \nu _ { q } } { L _ { q } }
+$$
+
+$$
+\frac { d \omega _ { r } } { d t } = \frac { 1 } { J } [ \frac { 3 } { 2 } P _ { n } i _ { q } ( \psi _ { f } - ( L _ { q } - L _ { d } ) i _ { d } ) ] - \frac { B } { J } \omega _ { r } - \frac { T _ { l } } { J }
+$$
+
+根据上述方程，可以写成状态空间表达的形式：
+
+$$
+\begin{array} { r l } { [ \frac { \partial \hat { a } _ { i } } { \partial t } ] } &  { } = [ \begin{array} { l l l l } { \frac { - R _ { A } } { L _ { a } } } & { \frac { P _ { 0 } \rho _ { i } L _ { a } } { L _ { a } } } & { 0 } \\ { \frac { \partial \hat { a } _ { i } } { \partial t } } & { = [ \begin{array} { l l l l } { 1 } & { \frac { - R _ { A } } { L _ { a } } } & { \frac { - R _ { A } } { L _ { a } } } & { \frac { - P _ { 0 } V _ { i } } { L _ { a } } } \\ { \frac { - P _ { 0 } \rho _ { i } L _ { a } } { L _ { a } } } & { \frac { - R _ { A } } { L _ { a } } } & { \frac { - P _ { 0 } V _ { i } } { L _ { a } } } & { \frac { [ \hat { a } _ { i } ] } { L _ { a } } } \\ { \frac { - 3 P _ { 0 } ( L _ { a } - L _ { a } ) \hat { a } _ { i } } { 2 } } & { \frac { 3 P _ { 0 } V _ { i } } { 2 } } & { \frac { - B } { 2 } } \end{array} ] \frac { \partial \hat { a } _ { i } } { \partial t } } \\ { [ \begin{array} { l l l l } { \frac { 1 } { L _ { a } } } & { 0 } & { \frac { 1 } { 2 L _ { a } } } & { 0 } \\ { 0 } & { \frac { 1 } { L _ { a } } } & { 0 } \\ { 0 } & { 0 } & { \frac { 1 } { L _ { a } } } \end{array} ] } \end{array} \end{array}
+$$
+
+上述方程的离散时间表示如下：
+
+$$
+\begin{array} { r } { f _ { k + 1 } ( x _ { k + 1 } , u _ { k + 1 } , v _ { k } ) = \left[ { \begin{array} { c c } { 1 - \frac { R _ { k } } { L _ { a } } T _ { x } } & { \frac { P _ { e } \omega _ { l } f _ { k } } { L _ { a } } T _ { r } , } \\ { - \frac { P _ { e } \omega _ { l } L _ { a } } { L _ { a } } } & { \frac { - R _ { k } } { L _ { a } } } & { \frac { - P _ { e } \psi _ { r } } { L _ { a } } } \\ { - \frac { 3 P _ { e } \omega _ { l } } { L _ { a } } ( L _ { e } - L _ { a } ) { \bar { q } } _ { r _ { 1 } } } & { \frac { 3 P _ { e } \psi _ { r } } { L _ { a } } } & { \frac { 1 - B _ { r } } { L _ { a } } } \end{array} } \right] \left[ { \begin{array} { c } { a _ { i } } \\ { c _ { j } } \\ { c _ { k } } \\ { - \frac { 3 P _ { e } \omega _ { l } } { 2 J } ( L _ { e } - L _ { a } ) { \bar { q } } _ { s _ { k } } } \end{array} } \right] } \\ { + \left[ { \begin{array} { c c } { \frac { 1 } { L _ { a } } T _ { x } } & { 0 } \\ { 0 } & { \frac { 1 } { L _ { e } } r _ { x } \left[ \left[ v _ { e } \right] \right] } & { 0 } \\ { 0 } & { 0 } \end{array} } \right] } \end{array}
+$$
+
+# 3 基于IGSO 算法的EKF参数优化
+
+# 3.1 EKF参数优化模型
+
+EKF设计的关键步骤是获得滤波器参数，特别是初始状态$x ( 0 ) \cdot P ( 0 )$ 和协方差矩阵 $Q \setminus { R }$ 。矩阵 $\boldsymbol { \mathrm { \ell } }$ 反映了系统的不确定性和扰动，矩阵 $R$ 反映了由电流传感器等引入的测量噪声[I]。本文通过迭代搜索方式获得这些系数值，从而获得最优性能估计。改变协方差矩阵 $\boldsymbol { \mathscr { Q } }$ 和 $R$ 将同时对滤波的暂态和稳态造成影响；增大 $\boldsymbol { \mathscr { Q } }$ 值意味着增加系统模型驱动噪声或不确定性，这将会加大状态协方差项的值和滤波器增益[12]。此时需要提升权重值，使滤波器的暂态响应变得更快。类似的，协方差 $R$ 的增加意味着有较强的衰落噪声，从而滤波器的权值应该降低。因此，增益矩阵 $K$ 的值将会降低，瞬态性能变慢。
+
+对于初始状态协方差矩阵 $P ( 0 )$ ，对角项表示初始条件下的方差或均方误差。变化的 $P ( 0 )$ 产生不同的幅度瞬态特性。但瞬态持续时间不变，且稳态条件不受影响。由于缺乏足够的统计信息来评估协方差矩阵 $Q \setminus R$ 和 $P ( 0 )$ 的非对角项，因此假设它们是对角矩阵。其中根据经验，本文设置 x(O)=[00 0]，${ \cal P } ( 0 ) = d i a g \big [ 1 1 1 \big ] \ .$ 0
+
+本文的主要目标是选择 $\boldsymbol { \mathrm { \ell } }$ 和 $R$ 的最优值。这些值可以通过试凑法来手动选择，但这是一个非常耗时的过程。为了克服这个问题，本文通过使用一种快速IGSO算法来调整协方差矩阵。IGSO优化EKF参数的系统框图如图4所示。
+
+![](images/9882f2bd543d0c3dfcbf4c09556011e021f5a2fbecd49e2af80cefd40faaa31b.jpg)  
+图4IGSO优化EKF参数的系统框图
+
+# 3.2传统GSO算法
+
+传统GSO算法包含三个操作，即发现者操作、搜索者操作和游荡者操作。在迭代过程中，将具有最佳适应度值的成员选为发现者。将适应度值高于阈值的多个成员选为搜索者。将适应度值低于阈值的多个成员选为游荡者[13]。
+
+梯度矩阵为
+
+$$
+F _ { k - 1 } = \frac { \partial f _ { K - 1 } } { \partial x _ { k } } = \left[ \begin{array} { c c c } { 1 - \frac { R _ { s } } { L _ { d } } T _ { s } } & { \frac { P _ { n } \omega _ { r } L _ { q } } { L _ { d } } T _ { s } } & { 0 } \\ { \frac { - P _ { n } \omega _ { r } L _ { d } } { L _ { q } } T _ { s } } & { 1 - \frac { R _ { s } } { L _ { q } } T _ { s } } & { \frac { - P _ { n } \psi _ { f } } { L _ { q } } T _ { s } } \\ { \frac { - 3 P _ { n } ( L _ { q } - L _ { d } ) i _ { q } } { 2 J } T _ { s } } & { \frac { 3 P _ { n } \psi _ { f } } { 2 J } T _ { s } } & { 1 - \frac { B } { J } T _ { s } } \end{array} \right]
+$$
+
+$$
+H _ { k } = { \frac { \hat { \sigma } h _ { \kappa } } { \hat { \sigma } x _ { k } } } = { \left[ \begin{array} { l l l } { 1 } & { 0 } & { 0 } \\ { 0 } & { 1 } & { 0 } \end{array} \right] }
+$$
+
+# 3.3 发现者操作
+
+发现者操作过程中，动物旋转感官受体从环境中捕获信息。在 $s$ 维搜索空间中，第 $z$ 个搜索回合(迭代)的第 $i$ 个成员的位置表示为 $y _ { i } ^ { z } \in R ^ { s }$ ，搜索角度表示为 $\lambda _ { i } ^ { z } = ( \lambda _ { i 1 } ^ { z } , . . . , \lambda _ { i ( s - 1 ) } ^ { z } ) \in R ^ { s - 1 }$ ，对应的搜索方向表示为 $F _ { i } ^ { z } ( \lambda _ { i } ^ { z } ) = ( f _ { i 1 } ^ { z } , . . . , f _ { i s } ^ { z } ) \in R ^ { s - 1 }$ ，其可以通过极坐标变换根据 $\lambda _ { i } ^ { z }$ 计算得到，表达式如下：
+
+$$
+\left\{ \begin{array} { l l } { \displaystyle f _ { i 1 } ^ { z } = \prod _ { p = 1 } ^ { s - 1 } \cos ( \lambda _ { i p } ^ { z } ) } \\ { \displaystyle f _ { i j } ^ { z } = \sin ( \lambda _ { i ( j - 1 ) } ^ { z } ) * f _ { i 1 } ^ { z } } \\ { \displaystyle f _ { i s } ^ { z } = \sin ( \lambda _ { i ( j - 1 ) } ^ { z } ) } \end{array} \right.
+$$
+
+假设在第 $z$ 次迭代处的发现者位置为 $y _ { p }$ ，那么，发现者将会在当前位置选择3个不同的角度进行视觉扫描，即首先以零度扫描，然后向右边扫描，再向左边扫描。设定视觉的最大搜索角度为 $\omega _ { \mathrm { m a x } }$ ，视觉扫描的最大距离为 $d _ { \operatorname* { m a x } }$ ，表达式如下：
+
+$$
+d _ { \operatorname* { m a x } } = \left\| U _ { i } - L _ { i } \right\| = { \sqrt { \sum _ { i = 1 } ^ { s } ( U _ { i } - L _ { i } ) ^ { 2 } } }
+$$
+
+其中： $U _ { i }$ 和 $L _ { \phantom { i } i }$ 分别为设计变量取值范围的上界和下界。
+
+那么，发现者通过扫描所发现的三个不同位置表示如下：
+
+$$
+\begin{array} { r } { \left\{ \begin{array} { l l } { \displaystyle y _ { z e r o } = y _ { p } ^ { z } + r _ { 1 } d _ { \mathrm { m a x } } F _ { p } ^ { z } ( \lambda ^ { z } ) } \\ { \displaystyle y _ { r i g h t } = y _ { p } ^ { z } + r _ { 1 } d _ { \mathrm { m a x } } F _ { p } ^ { z } ( \lambda ^ { z } + r _ { 2 } \frac { \omega _ { \mathrm { m a x } } } { 2 } ) } \\ { \displaystyle y _ { l e f t } = y _ { p } ^ { z } + r _ { 1 } d _ { \mathrm { m a x } } F _ { p } ^ { z } ( \lambda ^ { z } - r _ { 2 } \frac { \omega _ { \mathrm { m a x } } } { 2 } ) } \end{array} \right. } \end{array}
+$$
+
+其中： $y _ { z e r o }$ 表示零度扫描， $y _ { r i g h t }$ 表示右边扫描， $y _ { l e f t }$ 表示左边扫描， $r _ { 1 } \in R ^ { 1 }$ 为均值为0、方差为1的正态分布随机数， $r _ { 2 } \in R ^ { s - 1 }$ （204为(0,1)内的一个随机序列。
+
+然后，计算发现者搜索到的3个新位置的适应度，并移动到具有最优适应度的位置。如果新位置都不如当前位置，则将其头转向一个新角度，表示如下：
+
+$$
+\lambda ^ { z + 1 } = \lambda ^ { z } + r _ { 2 } \gamma _ { \mathrm { m a x } }
+$$
+
+其中： $\gamma _ { \mathrm { m a x } }$ 表示最大转向角。如果在 $\mathbf { \Psi } _ { a }$ 次迭代结束后，发现者没有找到一个更好位置，则停止搜索过程且保持不动，即：
+
+$$
+\lambda ^ { z + a } = \lambda ^ { z }
+$$
+
+# 3.4）搜索者操作
+
+搜索者操作为跟随发现者，并在其周围附近区域进行搜索。在第 $z$ 次迭代处，第 $i$ 个搜索者根据发现者共享的位置信息执行区域搜索[14]，其位置更新如下所示：
+
+$$
+y _ { i } ^ { z + 1 } = y _ { i } ^ { z } + r _ { 3 } ( y _ { p } ^ { z } - y _ { i } ^ { z } )
+$$
+
+其中， $r _ { 3 } \in R _ { s }$ 表示(0,1)区间内的随机数。
+
+# 3.5）游荡者操作
+
+游荡者操作仅为随机游走，并以此来探索新位置。如果将群中第 $i$ 个成员选为第 $z$ 次迭代的游荡者，则它将生成一个随机角度 $\lambda _ { i }$ ，其表示如下：
+
+$$
+\lambda _ { i } ^ { z + 1 } = \lambda _ { i } ^ { z } + r _ { 2 } \gamma _ { \mathrm { { m a x } } }
+$$
+
+同样，也会选择一个随机距离，表示如下：
+
+$$
+d _ { i } = a \cdot r _ { 1 } d _ { \operatorname* { m a x } }
+$$
+
+然后，根据下式移向一个新位置：
+
+$$
+y _ { i } ^ { z + 1 } = y _ { i } ^ { z } + d _ { i } F _ { i } ^ { z } ( \lambda ^ { z + 1 } )
+$$
+
+# 3.6 改进型 GSO 算法(IGSO)
+
+传统GSO 算法的收敛速度较慢，在对实时性要求较高的应用场景具有局限性。为了使GSO算法能够有效应用到电机EKF速度估计系统中的参数优化中，本文对其进行改进，提出一种快速GSO 算法，提高其收敛速度。
+
+在另一种智能优化算法，即粒子群优化(PSO)算法中，其根据粒子当前搜索的全局最优位置和粒子自身的最优位置来更新粒子运动方向，使其能够快速的向最终的全局最优位置靠近[15]。
+
+那么，可将这种思想引入到GSO中，提出一种改进型GSO 算法(IGSO),通过改进搜索者的位置更新机制，来提高收敛速度。
+
+在第 $z$ 次迭代处，将具有最高适应度的成员作为发现者，并将其位置标记为全局最优 $y _ { G b e s t } ^ { z }$ 。群中的搜索者会跟随发现者并在其领域进行搜索，将第 $i$ 个搜索者在第 $z$ 次迭代中的历史最佳位置标记为个体最优 $y _ { i , P b e s t } ^ { z }$ 。那么，可根据全局最优和个体最优，使搜索者在跟随发现者运动时，同时考虑发现者位置和个体自身发现。这样就提高了搜索者寻找其他更好位置的能力，更快地形成发现者，使算法快速收敛。搜索者位置更新机制表示如下：
+
+$$
+y _ { i } ^ { z + 1 } = y _ { i } ^ { z } + k _ { 1 } r ( y _ { G b e s t } ^ { z } - y _ { i } ^ { z } ) + k _ { 2 } r ( y _ { i , P b e s t } ^ { z } - y _ { i } ^ { z } )
+$$
+
+其中， $\boldsymbol { r }$ 为随机变量， $k _ { \mathrm { 1 } }$ 和 $k _ { 2 }$ 为权重因子，这里都设置为2。
+
+# 3.7 目标函数
+
+将 EKF 模块所估计的d轴电流 $i _ { d } \cdot \mathsf { q }$ 轴电流 $i _ { _ q }$ 和转速 $\omega _ { r }$ 与实际值的平方误差积分(integral square error,ISE)，进行加权后作为目标函数 $F$ ，表达式为
+
+$$
+F = w _ { 1 } e _ { 1 } + w _ { 2 } e _ { 2 } + w _ { 3 } e _ { 3 }
+$$
+
+其中：
+
+$$
+\left\{ \begin{array} { l l } { e _ { 1 } = \displaystyle \int ( i _ { d - a c t } - i _ { d - e s t } ) ^ { 2 } } \\ { e _ { 2 } = \displaystyle \int ( i _ { q - a c t } - i _ { q - e s t } ) ^ { 2 } } \\ { e _ { 3 } = \displaystyle \int ( \omega _ { r - a c t } - \omega _ { r - e s t } ) ^ { 2 } } \end{array} \right.
+$$
+
+正确选择权重至关重要，否则可能会导致很大的误差。本文通过进行大量实验和结果分析，设置最佳权值为 $w _ { 1 } = 0 . 2 2 5$ ，$w _ { 2 } = 0 . 3 \ , \quad w _ { 3 } = 0 . 4 7 5 \ \circ$
+
+# 4 实验及分析
+
+# 4.1实验设置
+
+利用MATLAB/Simulink构建PMSM仿真实验，并实现EKF参数估计算法。仿真中的PMSM参数如表1所示。
+
+在仿真中，设置 $i _ { d } , i _ { q } , \nu _ { d } , \nu _ { q }$ 为 EKF 算法的输入， $i _ { d } , i _ { q } , \omega _ { r }$ 为估计状态变量。为了模拟实际系统中的情况，在 $i _ { d } , i _ { q }$ 的反馈中加入了高斯白噪声，强度为 $3 \times 1 0 ^ { - 6 }$ ，白噪声的采样时间设置为$2 \times 1 0 ^ { - 5 }$ 秒。对于IGSO 算法，设置最大迭代次数为200，种群数量为20。初始搜索角度 $\lambda ^ { z }$ 取值为 $\pi / 4$ ，最大搜索角度 $\omega _ { \mathrm { m a x } }$ 取值为 $\pi / a ^ { 2 }$ ，最大转向角 $\gamma _ { \mathrm { { m a x } } }$ 取值为 $\pi / 2 a ^ { 2 }$ ，常数 $a$ 取值为近似$\sqrt { s + 1 }$ 的整数，权重参数 $k _ { 1 } = k _ { 2 } = 2$ 。
+
+表1PMSM的仿真参数  
+
+<html><body><table><tr><td>参数</td><td>符号</td><td>值</td></tr><tr><td>定子电阻</td><td>R</td><td>0.755Ω</td></tr><tr><td>d轴电感</td><td>Ld</td><td>8.2 mH</td></tr><tr><td>q轴电感</td><td>Lq</td><td>8.2 mH</td></tr><tr><td>磁通链</td><td>Yf</td><td>0.12 Wb</td></tr><tr><td>转动惯量</td><td>J</td><td>0.0025 Kg / m²</td></tr><tr><td>摩擦系数</td><td>B</td><td>0.0015 Nm / s²</td></tr><tr><td>极对数</td><td>P</td><td>3</td></tr><tr><td>额定转速</td><td>@</td><td>1000 rpm</td></tr></table></body></html>
+
+# 4.2参数优化实验
+
+首先，进行验证性实验，将IGSO算法与传统GSO算法、PSO算法和经典的遗传算法(GA)进行比较。以ISE为目标函数，利用各种优化算法对 EKF 的 $\boldsymbol { \mathrm { \ell } }$ 和 $R$ 矩阵进行寻优，在不同迭代次数下的ISE曲线如图5所示。表2列举了三种迭代次数下，通过IGSO 算法获得的 EKF 的 $\boldsymbol { \mathscr { Q } }$ 和 $R$ 矩阵和 ISE 值。
+
+从图5可以看出，GA算法的收敛速度最慢，这是因为其通过遗传、交叉和变异操作来进行优化，过程较为复杂，且容易陷入局部最优。PSO算法的收敛速度比GA和GSO要快，这是因为其个体的位置更新机制较为优越，能够促进个体快速寻找到最优解，这也是本文将该机制融入到GSO中来构建IGSO算法的原因。IGSO的收敛速度最快，大约在100次迭代后就能收敛到最优解，而传统GSO需要约160次迭代后才能收敛。这是因为IGSO 算法引入了PSO 算法中的全局最优和个体最优融合方法，改进了搜索者的位置更新机制。
+
+这就使IGSO能够应用在对实时性要求较高的优化任务中。对于寻优所获得的解，当迭代次数为100时，基于所获得的最优 $\boldsymbol { \mathscr { Q } }$ 和 $R$ 矩阵，EKF对速度估计的ISE值约为0.0353，符合速
+
+度估计的精度要求。
+
+# 4.3 速度估计实验
+
+进行电机启动实验，设定启动后的额定速度为 $5 0 0 \mathrm { r p m } \circ$ 基于具备最优 $\boldsymbol { \mathrm { \Sigma } } _ { Q }$ 和 $R$ 矩阵的 EKF 速度估计器，其所估计的 $i _ { _ q }$ 和$i _ { d }$ 和实际测量波形如图6所示。由于状态协方差矩阵 $P$ 的收敛性问题，所估计的 $d - q$ 轴电流还有最大0.03 秒的震荡。 $0 . 0 3 \mathrm { ~ s ~ }$ 后，矩阵 $P$ 收敛，此时 $i _ { _ q }$ 和 $i _ { d }$ 的轨迹与实际值接近。
+
+![](images/d12f8a43014d516573c86b9d100bf3f58a46c45ff2b7b39b6f44823ff33a619e.jpg)  
+图5各种算法优化过程的收敛曲线
+
+表2IGSO优化的EKF 矩阵值  
+
+<html><body><table><tr><td>迭代次数</td><td colspan="3">对角矩阵Q</td><td colspan="2">对角矩阵R</td><td>目标函数值(ISE)</td></tr><tr><td>50</td><td>[17.533 0 0</td><td>0 6.747 0</td><td>0 0 97.589</td><td>[1268.176 0</td><td>0 1273.562</td><td>0.0451</td></tr><tr><td>75</td><td>[30.637 0 0</td><td>0 6.632 0</td><td>0 0 118.563</td><td>[1551.068 0</td><td>0 2334.437</td><td>0.0375</td></tr><tr><td>100</td><td>[32.384 0 0</td><td>0 7.538 0</td><td>0 0 126.594</td><td>[1582.433 0</td><td>0 2246.436</td><td>0.0353</td></tr></table></body></html>
+
+![](images/bed63ec791aa49481f86aed38b8193a130ba44e26257c6228126eb649aaa5289.jpg)  
+图6启动过程中 $i _ { _ q }$ 和 $i _ { d }$ 的估计值和测量值
+
+图7给出了启动过程中EKF的速度估计曲线，可以看出，估计速度与实际速度的匹配时间只需 $0 . 0 5 \mathrm { ~ s ~ }$ ，之后与实际速度基本一致。这说明了IGSO优化EKF的有效性。
+
+为了进一步验证EKF估计器对额定转速变化的鲁棒性。设定启动后额定速度为 $2 0 0 ~ \mathrm { r p m }$ ，然后在 $0 . 2 \mathrm { ~ s ~ }$ 时从 $2 0 0 \mathrm { r p m }$ 上升至 $5 0 0 \mathrm { r p m }$ ，实验结果如图8所示。可以看出，在额定速度变化时，EKF所估计的速度都能很快收敛到实际值。
+
+# 5 结束语
+
+本文介绍了一种基于EKF的PMSM无传感器速度控制方法，基于EKF来预测速度和dq-轴定子电流。由于EKF的性能主要取决于误差协方差矩阵 $\boldsymbol { \mathrm { \ell } }$ 和 $R$ 的值。为此，提出了一种快速的IGSO 算法来优化 $\boldsymbol { \mathscr { Q } }$ 和 $R$ ，以此提高系统的估计精度和收敛性。仿真结果表明，所提出的方法在稳定时间，噪声和整体稳定性方面表现优异。
+
+在本文工作中，电机负载和参数都是一定的，在现实中，环境温度变化会导致电机参数变化。为此，在今后的工作中，将进一步验证本文方法对负载和参数变化的鲁棒性。
+
+![](images/189e68d94632bdbb7d6e684bc69039eab304a7ec0dfa201213b853aed8f6bb9e.jpg)  
+图7启动过程中转速的估计值与实际值
+
+![](images/e901949e29ec527bda8e04341847f0edd9778c0f1b0ac33105d08b88589a2b6c.jpg)  
+图8速度变化的情况下转速的估计值与实际值
+
+[1]朱其新，张正，杨辉，等．基于无传感器的PMSM电流控制策略的研究[J].控制工程,2014,21(4):547-553.[2]Abassi M,Khlaief A,Saadaoui O,et al. Performance analysis of FOC and
+
+DTC for PMSM drives using SVPWM technique [C]//Proc of International Conference on Sciences and Techniques of Automatic Control and Computer Enginering.Piscataway: IEEE Press,2016:163-168.   
+[3]肖启明，杨明，刘可述，等.PMSM伺服系统速度环PI控制器参数自整 定及优化[J]．电机与控制学报,2014,18(2):102-107.   
+[4]Chen S Y,Pi Y G,L,Q.Research on PMSM control for position sensorless based on fractional PD sliding mode observer [J].Applied Mechanics & Materials,2014,49 (4):1028-1035.   
+[5]Drevensek D,arko D,Lipo TA.A study of sensorless control ofinduction motor at zero speed utilizing high frequency voltage injection [J]. European Power Electronics drives Journal,2015,13 (3):7-11.   
+[6] 刘毛毛，秦品乐，吕国宏，等．基于多新息理论的 EKF 改进算法[J]. 计算机应用研究,2015,32(5):1568-1571.   
+[7]Wang Z,Chen J, Cheng M, et al. Field-oriented control and direct torque control forparalleled VSIs fed PMSM driveswith variable switching frequencies [J].IEEE Trans on Power Electronics,2016,31(3): 2417-2428.   
+[8]韩会山，陈龙，程德芳．异步电机矢量控制系统的设计及仿真研究[J]. 计算机仿真,2012,29(2): 400-403.   
+[9]林国汉，章兢，刘朝华，等.改进粒子群算法优化扩展卡尔曼滤波器电 机转速估计 [J].计算机应用研究,2013,30(7):2003-2006.   
+[10] Gowda M,Ali W H,Cofie P,etal. Design and digital implementation of controller for PMSM using extended Kalman filter [J]. Circuits & Systems, 2013,4 (8): 489-497.   
+[11] Guo Z, Xiang G,Pu M, et al. Sensorless drive of direct-torque-controlled PMSMs based on robust extended Kalman filter [C]// Proc of Control Conference.Piscataway: IEEE Press,2016: 4711-4716.   
+[12] Glasberger T, Muzikova V, Peroutka Z,et al. Sensorless direct torque control of PMSM with reduced model Extended Kalman filter [C]// Proc of IEEE Conference on Industrial Electronics Society.Piscataway: IEEE Press,2013: 8239-8244.   
+[13]熊聪聪，郝璐萌，王丹，等．一种基于差分策略的群搜索优化算法[J]. 计算机科学,2017,44(2):250-256.   
+[14]赵振伟，阎兴頔，侍洪波．基于文化进化的群搜索优化算法[J].华东 理工大学学报：自然科学版,2013,39(1):95-101.   
+[15] Yan X, Shi H.Ahybrid algorithm based on particle swarm optimization and group search optimization [Cl//Proc of the 7th International Conference on Natural Computation. Piscataway: IEEE Press,2011: 13-17.
+
+# 参考文献：

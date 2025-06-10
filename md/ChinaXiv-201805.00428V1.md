@@ -1,0 +1,177 @@
+# X射线衍射晶体法解析脱卤酶DehDIV-R结构的研究
+
+童超迪，吴坚平，杨立荣，徐刚\*（浙江大学化学工程与生物工程学院杭州310027)
+
+摘要R-2-卤代酸脱卤酶能立体选择性水解R-2-卤代酸。解析酶的单晶结构对提高酶的选择性和活性提供了直接的结构指导，是目前酶结构领域研究的前沿。以实验室前期得到的来自假单胞菌ZJU26的R-2-氯丙酸脱卤酶（DehDIV-R）为研究对象，采用X射线衍射晶体法进行结构解析。采用ppSUMO 载体融合表达DehDIV-R蛋白，依次通过Ni-NTA亲和层析、透析酶切、二次Ni-NTA亲和层析以及凝胶过滤层析纯化得到单一条带，且均一性好的蛋白。接着对结晶条件进行初筛与优化，得到的最佳结晶条件为 $0 . 1 \mathrm { m o l / L }$ HEPES pH7, $12 \%$ PEG6000, $0 . 2 \mathrm { m o l / L } \mathrm { M g C l _ { 2 } }$ ，8mmol/LCHAPS。晶体在上海同步辐射光源BL18U1线站上收集衍射数据，采用分子置换法成功解析获得了分辨率为2.35A的DehDIV- $R$ 的晶体结构。Ramachandran图表明 $9 8 . 0 2 \%$ 的氨基酸位于最适区，证明了该结构的合理性。DehDIV $R$ 的纯化、结晶以及结构解析为进一步深入了解其结构和功能奠定了基础。关键词R-2-卤代酸脱卤酶纯化 结晶X射线衍射
+
+2-卤代酸脱卤酶（EC3.8.1.X）在自然界中广泛存在，也是最早被发现的，具有催化2-卤代酸碳卤键断裂能力的脱卤酶[1]。根据其遗传同源性分为GroupI和 GroupII两类，GroupI包括R,S-2-卤代酸脱卤酶和R-2-卤代酸脱卤酶，GroupⅡ包括S-2-卤代酸脱卤酶[2-3]。这两类脱卤酶均能作用于小分子量卤代酸的α位碳原子，发生 $\mathrm { S } _ { \mathrm { N } } 2$ 水解取代反应，使对应的产物发生构型反转[4]。其中S-2-卤代酸脱卤酶是目前研究最深入的一类，其基因、结构以及催化机理都有大量报道。S-2-卤代酸脱卤酶催化过程包括两步亲核进攻过程：首先Asp作为亲核试剂进攻碳卤键，形成酶-酯中间体，然后被邻近的水分子进攻，碳卤键被水解从而释放卤素离子，并发生产物构型反转[5-7]。而GroupI仅有R,S-2-卤代酸脱卤酶有相关的结构报道，Schmidberger等[8-9]人解析了来自恶臭假单胞菌PP3的R,S-2-卤代酸脱卤酶的晶体结构，从分子层面研究了它的催化机理：Asp活化的水分子直接亲核进攻碳卤键，从而取代卤素原子，而不需要形成共价酶-酯中间体。而R-2-卤代酸脱卤酶仅在变形根瘤菌、恶臭假单胞菌AJ1/23和土壤杆菌属NH3中有发现[10-12]，对于该类酶的研究较少。尽管R-2-卤代酸脱卤酶与R,S-2-卤代酸脱卤酶具有较高的同源性，但它们的底物选择性却大不相同。由于缺少R-2-卤代酸脱卤酶的晶体结构，因此无法直接从分子水平解释导致底物选择性不同的因素，进而影响了后期酶的结构改造研究。
+
+本实验室项炯华等[13]在农药厂附近的污泥中分离得到一株对R-2-氯丙酸有脱卤酶活性的假单胞菌ZJU6。它能专一性地对R-2-氯丙酸进行脱卤，可用于拆分外消旋的2-氯丙酸，从而制备手性医药与农药中间体S-2-氯丙酸。林春娇等[14]从该菌株中成功克隆得到R-2-氯丙酸脱卤酶dehDIV-R的基因，使用 $\mathrm { p E T } 3 0 \mathrm { a } ( + )$ 质粒成功在E.coliBL21(DE3)中表达。为了进一步研究DehDIV-R的结构需要对其进行纯化、结晶以及X射线衍射单晶。本实验对DehDIV-R的纯化和结晶进行研究，获得了DehDIV-R的蛋白质单晶。经X射线衍射分析，成功解析获得分辨率为2.35A的晶体结构，为进一步研究该酶的结构和功能打下基础，同时也丰富了R-2-卤代酸脱卤酶的结构数据库，为从分子水平探究其底物选择性提供了重要的科学数据。
+
+# 1.材料与方法
+
+# 1.1材料
+
+1.1.1菌株与质粒
+
+表达宿主E.coli BL21(DE3)和重组质粒DehDIV-R-ppSUMO 由本实验室保存。
+
+# 1.1.2试剂与仪器
+
+常用化学试剂为国产分析纯级别，常用生化试剂主要购自上海生工生物工程有限公司和美吉生物公司。Ni-NTA以及凝胶过滤填料购自GeneralElectric公司。晶体初筛试剂盒PEGIs 和 PACT 购自Qiagen 公司，Wizard I/II 和 Wizard II/IV购自Rigaku公司，HR2-110、HR2-112、HR2-144以及小分子优化试剂盒Additive和 Detergent 购 自 Hampton Research 公司。
+
+# 1.2方法
+
+# 1.2.1DehDIV $\cdot R$ 的表达
+
+将重组基因DehDIV $R$ -ppSUMO质粒转化入E.coliBL21(DE3)，挑取单克隆接种于 ${ \bar { 5 } } \operatorname { m L L B }$ 液体培养基（ $3 0 \mathrm { m g / L }$ 卡那霉素)，于 $3 7 ^ { \circ } \mathrm { C }$ ， $2 0 0 ~ \mathrm { r / m i n }$ 下震荡培养 $6 \mathrm { { h } }$ 。随后转接至1LLB液体培养基于相同条件下进行培养，当 $\mathrm { O D } _ { 6 0 0 }$ 达到1.5时，降温至 $1 6 ~ \mathrm { { ^ \circ C } }$ ，加入IPTG至终浓度为 $0 . 4 \mathrm { m m o l / L }$ ， $1 6 ^ { \circ } \mathrm { C }$ 诱导表达 $1 6 \mathrm { h }$ 。离心收集菌体，并于， ${ } . 8 0 \mathrm { { ^ { \circ } C } }$ 保藏备用。
+
+# 1.2.2DehDIV $R$ 的纯化
+
+编码脱卤酶DehDIV- $R$ 的基因克隆在ppSUMO质粒上表达，其表达的蛋白N端带有6个组氨酸和SUMO蛋白的标签，因而采用以下策略进行目标蛋白的纯化：首先采用Ni-NTA亲和层析去除大量杂蛋白，接着使用ULP1酶切除标签并进行二次Ni-NTA亲和层析，最后使用凝胶过滤层析纯化得到可用于结晶的DehDIV- $R$ 。
+
+细 胞破碎：用 BufferA（25 mmol/L Tris-HCl，500 mmol/LNaCl，50 mmol/L咪唑， $5 \mathrm { \ m m o l / L \beta }$ 巯基乙醇， $\mathrm { p H } 8 . 0$ ）重悬菌体， $4 ^ { \circ } \mathrm { C }$ 高压匀浆破碎，离心取上清。
+
+Ni-NTA亲和层析纯化：取上清上样于事先用BufferA平衡的Ni-NTA亲和层析柱，先用10个柱体积的BufferA洗去未结合杂蛋白，随后采用将BufferA与 Buffer B（25 mmol/L Tris-HCl， 500 mmol/L NaCl，250 mmol/L 咪唑，5 mmol/L${ \mathfrak { \beta } } .$ 巯基乙醇， $\mathrm { p H } 8 . 0$ ）以一定比例混合的洗脱液进行梯度洗脱，比例分别是 $10 \%$ BufferB和 $30 \%$ BufferB，最后用15个柱体积的BufferB洗脱，收集每一步的洗脱液，最后采用SDS-PAGE凝胶电泳分析确定各步洗脱液的纯度。
+
+ULP1酶切及透析：在上一步酶液中加入ULP1酶，并用截留分子量为 $7 \mathrm { k D a }$ 的透析膜， $4 ^ { \circ } \mathrm { C }$ 透析与酶切过夜。透析液为25mmol/LTris-HCl，50 mmol/LNaCl,$\mathrm { p H } 8 . 0$ 。
+
+二次Ni-NTA亲和层析纯化：流程与第一次Ni-NTA亲和层析的相同，区别在于收集的是穿出液与梯度洗脱液。最后用SDS-PAGE凝胶电泳验证纯度并收集。
+
+凝胶过滤层析纯化：用截留分子量为 $3 0 \mathrm { { k D a } }$ 的Millipore 超滤管浓缩样品至$2 \mathrm { m L }$ ，上样于事先用Buffer C（25 mmol/L Tris-HCl，150 mmol/LNaCl，2 mmol/LDTT, $\mathrm { p H } 8 . 0 \AA )$ 平衡好的 HiLoad 26/600 Superdex S200 prep grade 凝胶柱, $1 \mathrm { m L / m i n }$ 的流速进行洗脱。根据在线紫外吸收谱图，每1mL为一管收集洗脱液，记作AX（X为洗脱体积)，并用SDS-PAGE凝胶电泳检测。收集纯度与均一性都较好的蛋白进行浓缩，用 $\mathrm { A } 2 8 0 \mathrm { n m }$ 紫外光吸收法测定蛋白浓度，分装并置于 $- 8 0 ^ { \circ } \mathrm { C }$ 保存。
+
+# 1.2.3DehDIV $R$ 的结晶条件初筛与优化
+
+采用座滴气相扩散法对纯化好的DehDIV-R进行结晶初始条件的筛选。从试剂盒中取 $7 5 ~ \mu \mathrm { L }$ 结晶试剂加入96孔座滴板的平衡槽中，加样孔中加入蛋白溶液（用BufferC稀释到 $1 0 ~ \mathrm { m g / m L }$ ）和结晶试剂各 $1 ~ \mu \mathrm { L }$ ，最后用专用胶带纸密封后置于 $1 8 \ \mathrm { { ^ \circ C } }$ 恒温培养。
+
+每隔一天用显微镜观察是否有晶体出现及其生长情况，得到结晶的初始条件（排除盐晶的可能)。接着在此结晶条件基础上进行优化，优化内容包括蛋白浓度、沉淀剂浓度、缓冲液 $\mathfrak { p H }$ 、小分子添加剂、结晶方式（座滴与悬滴）等。优化过程在24孔座滴板与悬滴板中进行，平衡槽中加入 ${ 5 0 0 \mu \mathrm { L } }$ 配制好的结晶试剂，上方液滴为蛋白和结晶试剂各 $2 ~ \mu \mathrm { L }$ 。需要特别指出的是，在小分子添加剂优化中，上方液滴为蛋白和结晶试剂各 $1 . 8 ~ \mu \mathrm { L }$ ，小分子试剂 $0 . 4 ~ \mu \mathrm { L }$ 。优化过程需根据晶体生长情况不断重复与调整结晶条件，直至优化出具有较好X射线衍射能力的高质量晶体。
+
+1.2.4DehDIV-RX射线衍射数据的收集、处理以及结构解析
+
+挑选质量较好的单晶分别使用含有一定体积比的甘油、乙二醇、低分子量的聚乙二醇（PEG)、2-甲基-2,4-戊二醇（MPD）等试剂的稳定液或者重油进行保护，用Cryoloop捞取后置于液氮速冻。
+
+将冻存好的晶体在上海同步辐射光源BL18U1线站上进行数据收集，调整晶体适当的位置及角度收集衍射画面。衍射数据使用HKL3000软件包进行处理，将衍射图形文件转化为数字文件。然后利用CCP4Online服务器(http://www.ccp4.ac.uk/ccp4online)进行在线分子置换解决相角问题，从而搭建初始模型，最后用PHENIX和COOT交替进行结构精修。
+
+# 2.结果与讨论
+
+2.1DehDIV-R纯化
+
+DehDIV- $R$ 采用ppSUMO载体融合表达，其表达的蛋白不仅带有6个组氨酸标签，还有SUMO蛋白。SUMO蛋白对于融合表达的蛋白有帮助折叠的作用，有助于提高蛋白的稳定和均一度[15-16]。DehDIV- $R$ 融合表达的理论分子量为47.97kDa，为可溶表达，且表达量高。第一次Ni-NTA亲和层析结果见图1，目标蛋白条带位于 $6 6 . 2 \mathrm { k D a }$ 与 $4 5 \mathrm { { k D a } }$ 之间，与理论大小相符。且 $30 \%$ Buffer B 和 $100 \%$ BufferB洗脱液中的目标蛋白较纯且浓度较高，杂蛋白较少，收集这两组分洗脱液。
+
+![](images/9f3d075c31ddfec56320a20ab931d1e20b346d4673fdf28d9ca622a9f10b89f5.jpg)  
+图1第一次Ni-NTA亲和层析纯化DehDIV-R的SDS-PAGE分析图
+
+M：Marker；1：上清液；2：流穿液；3：BufferA洗脱液；4： $10 \%$ BufferB洗脱液；5,6： $30 \%$ BufferB洗脱液；7-9：BufferB 洗脱液
+
+Fig.1 SDS-PAGE analysis of first Ni-NTA affinity chromatography purification for DehDIV-R
+
+M: Marker; 1: Supernatant; 2:Flowthrough; 3:Buffer A eluate; 4: $10 \%$ Buffer B eluate; $5 { , } 6 \colon 3 0 \%$ Buffer B eluate; 7-9:BufferB eluate
+
+用ULP1酶过夜透析酶切，酶切后的DehDIV-R理论分子量为 $3 3 . 9 \mathrm { k D a }$ 。酶切后的蛋白经二次Ni-NTA亲和层析纯化，结果如图2所示。比较条带1和2可以看出目标蛋白条带移至 $3 5 . 0 \mathrm { k D a }$ 与 $2 5 . 0 \mathrm { k D a }$ 之间，说明ULP1酶将DehDIV-R的组氨酸标签和SUMO融合蛋白全部切除。切除组氨酸标签和SUMO蛋白的DehDIV $\mathbf { \nabla } \cdot R \mathbf { \nabla }$ 不带组氨酸标签，无法与Ni-NTA结合而流出，因此收集穿出液，用$3 0 \mathrm { \ k D a }$ 的超滤管浓缩至 $2 \mathrm { m L }$ 。
+
+![](images/02fe95fedefa562b4fcfcf57fab5bcca14cfaad4312d5a33ee6616fa4c7fe692.jpg)  
+图2经ULP1酶切后第二次Ni-NTA亲和层析纯化DehDIV-R的 SDS-PAGE分析图
+
+M：Marker；1：ULP1酶切前；2：ULP1酶切后；3,4：流穿液；5,6： $10 \%$ BufferB洗脱液；7：BufferB洗脱液
+
+Fig.2 SDS PAGE analysis of second Ni-NTA afinity chromatography purification for DehDIV-R after digested
+
+M: Marker; 1: Before digested by ULP1; 2: After digested by ULP1; 3,4: Flowthrough; 5,6: $10 \%$ Buffer B eluate;
+
+7:BufferB eluate
+
+如图3所示，浓缩后经凝胶过滤层析纯化，目标蛋白紫外吸收峰的峰形对称。如图4所示，流出液A71-A87的SDS-PAGE图中仅有目标蛋白的条带，杂蛋白几乎不可见，由此说明经多步纯化后的蛋白纯度较高且均一性好，可用于下一步结晶。
+
+![](images/fd347ee224857bbd5d9342322e7197f3a2cf160386111cd1ecc0806e24d95468.jpg)  
+图3DehDIV-R凝胶过滤层析图谱
+
+![](images/da755cbfec2b4ac454f5cb754b52232e710a48f8ad9260f5a635b03fb31f67e0.jpg)  
+Fig.3 The gel filtration spectrum of DehDIV-R   
+图4凝胶过滤层析纯化DehDIV-R的SDS-PAGE分析图
+
+M:Marker；1-9：组分A71-A87
+
+Fig.4 SDS-PAGE analysis of gel filtration chromatography purification for DehDIV-R
+
+M:Marker;1-9:FractionsA71-A87
+
+# 2.2DehDIV-R结晶条件初筛与优化
+
+脱卤酶DehDIV-R 的晶体初筛试剂盒为PEGIIs、HR2-110、HR2-112、HR2-144、PACT、Wizard I/I、Wizard II/IV，每隔一天进行晶体观察。其中以下条件下有晶体产生：HR2-144H8（ $0 . 1 \mathrm { m o l / L }$ 甲酸镁， $1 5 \%$ PEG3350）条件下有大量短棒状晶体产生，但晶体较小；PEGIIsH10（ $0 . 2 \mathrm { m o l / L }$ 乙酸镁， $10 \%$ PEG8000）条件下有少量簇状晶体产生，数量不多但非单晶；PACTC10（ $\mathrm { 0 . 2 \ m o l / L \ M g C l _ { 2 } }$ 0.1 mol/L HEPES pH7， $20 \%$ PEG6000）条件下有大量针状晶体产生。
+
+![](images/5ab949f91e22704302493272e5b95829a5107ccb998845538039dc412fddfb22.jpg)  
+图5初筛得到的 DehDIV-R 晶体(a:HR2-144 H8;b:PEGIIs H10;c:PACTC10)Fig.5 The crystal screening of DehDIV-R (a: HR2-144 H8; b: PEGIs H10; c: PACT C10)  
+图6最优化条件下的DehDIV-R晶体 Fig.6The crystalofDehDIV-Rafter optimization
+
+对初筛得到的条件进行常规梯度优化，优化了缓冲液pH以及沉淀剂浓度，然而晶体并没有得到较大改善。接着通过添加小分子的方式进行优化，筛选了Hampton Research 公司的 Additive 和 Detergent 试剂盒。其中添加 Detergent 86# 80mmol/L3-[3-(胆酰胺丙基)二甲氨基]丙磺酸内盐（CHAPS）的晶体有明显的变化，产生梭状晶体。经过多次重复优化及调整，最终在 $0 . 1 \mathrm { m o l / L }$ HEPES pH7， $12 \%$ PEG 6000， $0 . 2 \mathrm { m o l / L } \mathrm { M g C l _ { 2 } }$ ，8mmol/LCHAPS条件下得到高质量衍射单晶，晶体为梭状，且棱角分明，见图6。
+
+华100μm
+
+# 2.3DehDIV-R单晶衍射
+
+使用 $2 2 . 5 \%$ PEG400作为冷冻保护剂，晶体在此条件下不会被液氮冻坏且衍射质量好。将冻存的晶体在上海同步辐射光源BL18U1线站上进行X射线衍射数据的收集。选择适当的位置与角度，并设置具体参数为：波长0.97776A，扫描步长为 $0 . 5 ^ { \circ }$ ，曝光时间 $1 . 5 \mathrm { ~ s ~ }$ ，检测器距离 $3 5 0 \mathrm { m m }$ ，收集360张衍射画面，衍射图见图7。衍射数据使用HKL3000 软件包处理，依次进行Index、Integrate、Scale，确定空间群为P3i,分辨率达到 $2 . 3 5 \mathrm { \AA }$ ，衍射数据的统计结果见表1。
+
+Table1 The diffraction statistics ofDehDIV-R crystal   
+
+<html><body><table><tr><td>Factor</td><td>Data</td></tr><tr><td>Space group</td><td>P31</td></tr><tr><td>Cell dimensions</td><td></td></tr><tr><td>a,b,c(A)</td><td>126.279，126.279，93.483</td></tr><tr><td>α,β,γ(°)</td><td>90,90,120</td></tr><tr><td>Resolution range(A)1)</td><td>50-2.35 (2.39-2.35)</td></tr><tr><td>No.of observed reflections</td><td>340674</td></tr><tr><td>No. of unique reflections</td><td>69225</td></tr><tr><td>Completeness (%)1)</td><td>100(100)</td></tr><tr><td>Rmerge1)2)</td><td>0.095(0.790)</td></tr><tr><td>Average I/σ(I)1)</td><td>16.6(2.5)</td></tr><tr><td>Redundancyl)</td><td>4.9(4.8)</td></tr></table></body></html>
+
+1) Values for the outmost resolution shellare given in parentheses.
+
+2)Rmerge=ΣΣhkl $I _ { \mathrm { i } } \mathrm { - } { < } I { > } | / \Sigma _ { \mathrm { i } } \Sigma _ { \mathrm { h k l } } I \mathrm { i }$ ，where $I _ { \mathrm { i } }$ is the observed intensity and $< I >$ is the average intensity from multiple measurements
+
+![](images/1e6eb4e2e6eb18abf1f74389320ec6754dcb99a4add009df719ac9879927ace6.jpg)  
+图7DehDIV-RX射线衍射画面
+
+Fig.7X-ray diffraction pattern of the DehDIV-R crystal
+
+# 2.4DehDIV-R结构解析与评价
+
+将衍射数据与蛋白序列提交至CCP4Online服务器进行分子置换法解决相位问题，最终得到一个初始模型，通过观察电子云密度，验证氨基酸主链的走向都较符合，其侧链氨基酸也符合。采用COOT与PHENIX交替进行结构精修，再加上水分子，调整不合理的二面角，多次修正后，使 $\mathrm { R } _ { \mathrm { f r e e } }$ 与Rwork趋于收敛，精修结果见表2。Ramachandran图（见图8）结果显示 $9 8 . 0 2 \%$ 的氨基酸位于最适区，仅有 $0 . 3 7 \%$ 位于非允许区。4个非允许区的氨基酸中3个为甘氨酸，而甘氨酸为非手性氨基酸，常用来承接二级结构的转换，因此Ramachandran图出现评价不合理结果的可能性很大。综合精修结果以及Ramachandran图评价，解析得到的DehDIV- $R$ 的结构是合理的。
+
+表2脱卤酶DehDIV-R晶体结构精修结果 Table2.The refinement statistics ofDehDIV-R crystal structure   
+
+<html><body><table><tr><td>Factor</td><td>Data</td></tr><tr><td>Rwork(%)</td><td>19.77</td></tr><tr><td>Rfree(%)</td><td>24.35</td></tr><tr><td>RMSDs</td><td></td></tr><tr><td>Bond length(A)</td><td>0.0065</td></tr><tr><td>Bond angles (°)</td><td>1.011</td></tr><tr><td>Ramachandran plot</td><td></td></tr><tr><td>Most-favored regions (%)</td><td>98.62</td></tr><tr><td>additional allowed regions (%)</td><td>1.01</td></tr><tr><td>disallowed regions (%)</td><td>0.37</td></tr></table></body></html>
+
+![](images/e9ea4312237da0861e31abee5c3dd7d66c1574b1a6c25f63b316721b199441da.jpg)  
+图8脱卤酶DehDIV-R晶体结构Ramachandran图 Fig.8 The Ramachandran plot ofDehDIV-R
+
+# 2.5DehDIV-R整体结构
+
+DehDIV-R的整体结构是全部由α螺旋组成的假二聚体，如图9a所示。假二聚体结构有助于形成更强的偶极，形成的强正电势更易于带负电的底物进入底物结合空腔。分析结构其底物通道主要由疏水氨基酸组成，活性口袋重要催化残基为 Trp48、Gly50、Asn131、Tyr134、Asn203、Ser204 和Asp205，卤素结合位点为Val51、Phe281、Leu284和Leu285。其中Asp205与Asn131之间形成氢键，有利于Asp205活化水分子，使水分子作为亲核试剂进攻碳卤键，如图9b所示。
+
+![](images/e67f7ccf5ac4ddc2088566db24e27855b69991c76be08865d5f647b5ea41981e.jpg)  
+图9脱卤酶DehDIV-R整体结构示意图(a)与活性口袋(b) Fig.9The overall structure(a) and active pocket(b) ofDehDIV-R
+
+# 3.结论
+
+本文采用X射线衍射晶体法解析了来自假单胞菌ZJU6的DehDIV-R晶体结构。首先通过对重组蛋白DehDIV- $R$ 进行高效表达以及多步柱层析法纯化得到较高纯度的蛋白，接着通过商品化结晶试剂盒对结晶条件进行了初筛以及多方面优化，最终在0.1 mol/LHEPES pH7， $12 \%$ PEG 6000， $0 . 2 \mathrm { m o l / L } \mathrm { M g C l _ { 2 } }$ ，8 mmol/LCHAPS条件下得到了高质量单晶。晶体以 $2 2 . 5 \%$ PEG400为冷冻保护剂，在上海同步辐射光源BL18U1线站上成功收集得到一套分辨率为2.35A的X射线衍射数据，并最终在CCP4online服务器上采用分子置换法解决相角问题，成功解析了DehDIV-R的晶体结构。综合精修结果以及Ramachandran图都验证了该结构的合理性。DehDIV-R的整体结构是全部由 $\mathfrak { a }$ 螺旋组成的假二聚体，其中Asp205与Asnl31之间的距离易形成氢键，使得Asp205更倾向于活化水分子，从而使水分子亲核进攻碳卤键。DehDIV-R的晶体结构解析为下一步复合物结构解析以及从分子水平上解释其底物选择性打下了基础。
+
+# 参考文献
+
+[1] Furukawa K. Oxygenases and dehalogenases: Molecular approaches to eficient degradation of chlorinated environmental pollutants.Biosci Biotechnol Biochem,2006,70(10): 2335-2348.   
+[2] Kurihara T，Esaki N.Bacterial hydrolytic dehalogenases and related enzymes: Occurrences,reaction mechanisms and applications. The Chemical Record,20o8,8(2): 67-74.   
+[3]Hill KE,Marchesi JR,Weightman AJ.Investigationof two evolutionarily unrelated halocarboxylic acid dehalogenase gene families. Journal of Bacteriology,1999,181(8): 2535-2547.   
+[4] Wightman A J,Tooping A W,HillKE,etal.TranspositionofDEH,a broad-host-range transposon flanked by ISPpul2, in Pseudomonas putida is associated with genomic rearrangements and dehalogenase gene silencing. Journal of Bacteriology,2002,184(23): 6581-6591.   
+[5]LiYF,Kurihara T,Ichiyama S,et al. Massspectrometric analysisof the reactions catalyzedbyL--haloacid dehalogenase mutants and implications for the roles of the catalytic amino acid residues.Journal of Molecular Catalysis B: Enzymatic,2003,23(2-6): 337-345.   
+[6] Tamao H, Yasuo H, Tomomi F,et al. Crystalization and preliminary X-ray crystallographic studies of L-2-haloacid dehalogenase from Pseudomonas sp.YL.Proteins-structure Function & Bioinformatics,1996,24(4): )∠U-)∠∠.   
+[7]Ridder IS,Rozeboom HJ,Kalk KH,et al. Three-dimensional structure of L-2-haloacid dehalogenase from xanthobacter autotrophicus GJ1O complexed with the substrate-analogue formate.The Journal of Biological Chemistry, 1997,272 (52): 33015-33022.   
+[8] Schmidberger JW,Wilce JA,Andrew JW,etal.Purification,crystalization and preliminary crystallographic analysis of DehI，a group I alpha-haloacid dehalogenase from Pseudomonasputida strain PP3.Acta Crystallographica Section F,2008,64(7): 596-598.   
+[9] Schmidberger JW,Wilce JA,Andrew JW,et al. The crystal structure of DehI reveals a new alpha-haloacid dehalogenase fold and active-site mechanism. Journal of Molecular Biology,20o8,378(1): 284-294.   
+[10]Effendi AJ, Greenaway SD,Dancer BN.Isolation and characterization of2，3-dichloro-1-propanol-degrading rhizobia.Applied and Environmental Microbiology,2000,66(7): 2882-2887.   
+[11] Higgins TP,Hope SJ,Effendi AJ,et al. Biochemical and molecular characterisation of the 2, 3-dichloro-1-propanoldehalogenase and stereospecific haloalkanoic dehalogenases froma versatile Agrobacterium sp.Biodegradation,2005,16(5): 485-492.   
+[12] Cairns SS,Cornish A,Cooper RA. Cloning ,sequencing and expresson in Escherichia coli of two Rhizobium sp.genes encoding haloalkanoate dehalogenases of opposite stereospecificity. European Journal of Biochemistry, 1996,235( 3): 744-749.   
+[13]项炯华，吴坚平，王能强，等.2-氯丙酸脱卤酶产酶菌种的筛选及酶学性质研究．中国生物学文摘,2005, 21(6): 537-541.   
+Xiang JH，Wu JP,Wang N Q，et al. Screening of 2-chloropropionic acid dehalogenase-production microorganisms and its enzymatic characteristics. Chinese Biological Abstracts,20o5,21(6): 537-541.   
+[14]林春娇.C2/C3 卤代酸脱卤酶的筛选及克隆表达．杭州：浙江大学,2011.   
+Lin C J. Screening, cloning and expression for C2 /C3 haloacid dehalogenases.Hangzhou: Zhejiang University, 2011.   
+[15] Malakhov MP, Mattrn MR,Malakhova OA,et al. SUMO fusions and SUMO-specific protease for efficient expression and purification of proteins.Journal of Structural & Functional Genomics,2O04,5(1-2): 75-86. [16]Marblestone JG,Edavettal SC,Lim Y,et al.Comparison of SUMO fusion technology with traditional gene fusion systems: Enhanced expression and solubility with SUMO.Protein Science,2006,15(1):182-189.
+
+# Crystal structural analysis of DehDIV-R by X-ray Crystallography
+
+TONG Chao-di, WU Jian-ping, YANG Li-rong, XU Gang (Zhejiang University,Department of Chemical and Biological Engineering,Hangzhou 31oo27,China)
+
+# Abstract
+
+$R$ -2-haloacid dehalogenase can selectively hydrolyze R-2-haloacid and have important applications in the synthesis of chiral compounds. The analysis of the crystal structure provides a direct structural guide to improve the selectivity and activity of the enzyme，which is the frontier in the field of enzymatic structure research. The crystal structure of $R$ -2-chlorpropionic acid dehalogenase (DehDIV- $R$ ） from Pseudomonas ZJU26 was studied. DehDIV-R was expressed in Escherichia coli BL21(DE3) using ppSUMO as vectors，and purified by Ni-NTA affinity chromatography， ULPI digestion， second Ni-NTA afinity chromatography and gel filtration chromatography.High-quality crystals were obtained in optimal conditions $( 0 . 1 \mathrm { m o l / L }$ HEPES pH $7 , 1 2 \%$ PEG $6 0 0 0 { , } 0 { . } 2 \ \mathrm { m o l / L }$ （204号 $\mathrm { M g C l } _ { 2 }$ $\mathrm { 8 \ m m o l / L }$ CHAPS).The diffraction data of crystals were collcted at BL18U1 beamline of Shanghai Synchrotron Radiation Facility(SSRF). The crystal structure of DehDIV- $R$ with a resolution of 2.35 A was successfully resolved by Molecular Replacement(MR). The Ramachandran plot shows that $9 8 . 0 2 \%$ of the amino acids are in the optimum region,indicating the rationality of the structure. The purification,crystallization and structural analysis of the DehDIV-R have laid a foundation for further understanding the relationship between structure and function.
+
+Key words R-2- haloacid dehalogenase Purification CrystallizationX-ray diffraction

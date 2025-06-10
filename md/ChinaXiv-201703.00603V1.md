@@ -1,0 +1,113 @@
+# The $\mathbf { \Delta } _ { \mathbf { Y } }$ (4260) as an $\omega \chi _ { c 1 }$ molecular state
+
+C.Z. Yuan a $*$ , P. Wanga,and X.H. Moa aInstitute of High Energy Physics,P.O.Box 918,Beijing 100049,China
+
+It is suggested that the newly observed $Y ( 4 2 6 0 )$ by BABAR collaboration is a molecular state composed of an $\omega$ （204号 anda $\chi _ { c 1 }$ .Both the production and decay properties are discussed.A prominent consequence for this molecular state, $Y ( 4 2 6 0 )$ ，is that it decays copiously into $\pi ^ { + } \pi ^ { - } \pi ^ { 0 } \chi _ { c 1 }$ ．It is also expected that $Y ( 4 2 6 0 )  \pi ^ { 0 } \pi ^ { 0 } J / \psi$ is produced at half rate as $Y ( 4 2 6 0 )  \pi ^ { + } \pi ^ { - } J / \psi$ ．These decay modes should be searched for in the $B$ factories using initial state radiative return data and $B$ decay data aswell.
+
+# 1.Introduction
+
+Recently, in studying the initial-state radiation events, $e ^ { + } e ^ { - } \to \gamma _ { I S R } \pi ^ { + } \pi ^ { - } J / \psi$ ( $\gamma _ { I S R }$ :initial state radiation photon）with $\mathrm { 2 3 3 ~ f b ^ { - 1 } }$ data collected around $\sqrt { s } = 1 0 . 5 8$ GeV,BABAR collaboration observed anaccumulation of eventsnear $4 . 2 6 ~ \mathrm { G e V } / c ^ { 2 }$ in the invariant-mass spectrum of （204号 $\pi ^ { + } \pi ^ { - } J / \psi$ [1].The fit to the mass distribution yields $1 2 5 \pm 2 3$ events with a mass of $4 2 5 9 \pm$ $8 _ { - 6 } ^ { + 2 } ~ \mathrm { M e V } / c ^ { 2 }$ and a width of $8 8 \pm 2 3 _ { - 4 } ^ { + 6 } \ \mathrm { M e V } / c ^ { 2 }$ ：
+
+Since the resonance is produced in initial state radiation from $e ^ { + } e ^ { - }$ collision,its quantum number $J ^ { P C } = 1 ^ { -- }$ .However, this new resonance seems rather different from the known charmonium states with $J ^ { P C } = 1 ^ { -- }$ in the same mass scale,such as $\psi ( 4 0 4 0 )$ ， $\psi ( 4 1 6 0 )$ ，and $\psi ( 4 4 1 5 )$ Being well above the $D \overline { { D } }$ threshold,instead of decaying predominantly into $\mathit { D } \overline { { \mathit { D } } }$ ，the $Y ( 4 2 6 0 )$ （204号 shows strong coupling to $\pi ^ { + } \pi ^ { - } J / \psi$ final state. So this new resonance does not seem to be a usual charmonium state but rather an exotic. The strangeproperties exhibitedby the $Y ( 4 2 6 0 )$ have trigged many theoretical discussions [2-7].
+
+One suggestion is that the $Y ( 4 2 6 0 )$ is the first orbital excitation of a diquark-antidiquark state $( [ c s ] [ \bar { c } \bar { s } ] )$ [3].By virtue of this scheme, the mass of such a state is estimated to be $4 . 2 8 \ : \mathrm { G e V } / c ^ { 2 }$ ,which is in good agreement with the observation.A crucial prediction of the scheme is that the $Y ( 4 2 6 0 )$ decays predominantly into $D _ { s } \overline { { D } } _ { s }$ ：
+
+Zhu scrutinized many possible interpretations for the $Y ( 4 2 6 0 )$ and excluded the possibility of its being a conventional $c \overline { { c } }$ state,a $D \overline { { D } }$ or $\omega J / \psi$ molecule,ora glueball using the available experimental information [2]. As to the four-quark hypothesis,it is disfavored by its small total width and the non-observation of the $D \overline { { D } }$ decay mode. The author regardedahybrid charmonium as the most plausible interpretation,which is consistent with all the experimental information by then. Some other work to explain the $Y ( 4 2 6 0 )$ asa hybrid were put forth afterwards [4,5]. In the light of the lattice inspired flux-tube model, the calculation shows that the decays of the hybrid meson to a pair of ground state $1 S$ conventional mesons are suppressed [8,9].
+
+Unlike the above models,Qiao proposed that the $Y ( 4 2 6 0 )$ might be a baryonium,containing charms,configured by the $\Lambda _ { c }$ 1 $\overline { { \Lambda } } _ { c }$ [7].This provides a natural explanation for the absence of $J / \psi K K$ and $\mathit { D D }$ in its decays.Moreover,this scheme predicts
+
+$$
+\frac { \Gamma [ Y ( 4 2 6 0 )  \pi ^ { 0 } \pi ^ { 0 } J / \psi ] } { \Gamma [ Y ( 4 2 6 0 )  \pi ^ { + } \pi ^ { - } J / \psi ] } \approx 1 ,
+$$
+
+which can be tested by the experiments.
+
+Besides the fore-mentioned various interpretations,there is another scheme which suggests that the $Y ( 4 2 6 0 )$ bea $\chi _ { c }$ $\rho$ molecule [6]．The authors qualitatively explained that the decay rate of $Y ( 4 2 6 0 ) ~  ~ \pi ^ { + } \pi ^ { - } J / \psi$ is greater than $Y ( 4 2 6 0 )  D \overline { { { D } } }$ ,and pointed out that $Y ( 4 2 6 0 ) $ $\pi ^ { 0 } \pi ^ { 0 } J / \psi$ must be suppressed since $\rho ^ { 0 }$ only decays into $\pi ^ { + } \pi ^ { - }$ but not $\pi ^ { 0 } \pi ^ { 0 }$ ：
+
+In this Letter,we propose the $Y ( 4 2 6 0 )$ asa bound state composed of the vector meson $\omega ( 7 8 3 )$ and the $P$ -wave charmonium state $\chi _ { c 1 } ( 3 5 1 0 )$ . In this scenario,we discuss its decay into $\pi \pi J / \psi$ ， and expect that it decays into $\pi ^ { + } \pi ^ { - } \pi ^ { 0 } \chi _ { c 1 }$ with considerably large rate. The search for the latterisexperimentallyreachableusing the available datafromthe $B$ -factories.Inaddition，based on our scenario,we present some predictions which are distinctive from those of other models.
+
+# 2. $Y ( 4 2 6 0 )$ as $\omega \chi _ { c 1 }$ molecular state
+
+Since the $Y ( 4 2 6 0 )$ decays into $\pi ^ { + } \pi ^ { - } J / \psi$ ,itis very natural to consider that there is $c \bar { c }$ content in its wave function. We try to find a narrow charmonium state and a narrow light meson to form a $J ^ { P C } = 1 ^ { -- }$ state,with the sum of their masses slightly above the mass of the $Y ( 4 2 6 0 )$ There are not many such combinations,and we find that the one consisting of a $1 ^ { -- }$ state $\omega$ （204 (mass $7 8 2 . 5 9 ~ \mathrm { M e V } / c ^ { 2 }$ [10]) and a $1 ^ { + + }$ state $\chi _ { c 1 }$ （204 (mass $3 5 1 0 . 9 5 ~ \mathrm { M e V } / c ^ { 2 }$ [10]）satisfy the criteria. The sum of the masses, 4294 $\mathrm { M e V } / c ^ { 2 }$ , is higher than the mass of the $Y ( 4 2 6 0 )$ by $3 5 \mathrm { \ M e V } / c ^ { 2 }$ ， which is considered as the binding energy between the two constituents to form the bound state. The orbital angular momentum between （204 $\omega$ and $\chi _ { c 1 }$ can be zero to get the quantum number $J ^ { P C } = 1 ^ { -- }$ . In contrast to the proposal of Ref.[6],here the $Y ( 4 2 6 0 )$ is an iso-scalar particle and has no isospin-partner.
+
+# 3.Decays of the $Y ( 4 2 6 0 )$
+
+The decay of the $Y ( 4 2 6 0 )$ to the observed （204号 $\pi ^ { + } \pi ^ { - } J / \psi$ mode is illustrated in Fig.1(a).In this picture,a virtual $\omega$ is exchanged between the two bound constituents,and a scalar particle like $\sigma$ or $f _ { 0 } ( 9 8 0 )$ ，and a vector charmonium like $J / \psi$ ， $\psi ( 2 S )$ ，or $\psi ( 3 7 7 0 )$ are produced. This decay mechanism can be verified by looking at the （204号 $\pi ^ { + } \pi ^ { - }$ invariant mass distribution in the BABAR data[1],which shows signature of $\sigma$ at low mass side and of $f _ { 0 } ( 9 8 0 )$ at higher mass side.In this scenario,according to the isospin symmetry,we expect
+
+$$
+\begin{array} { r l } & { \Gamma [ Y ( 4 2 6 0 )  \pi ^ { 0 } \pi ^ { 0 } J / \psi ] } \\ & { \Gamma [ Y ( 4 2 6 0 )  \pi ^ { + } \pi ^ { - } J / \psi ] } \end{array} \approx 0 . 5 ,
+$$
+
+![](images/86dac78f073ca43d2c81bedc925beaff091565679be1496065777b38faa4d5ff.jpg)  
+Figure 1.Decay mechanism of the $Y ( 4 2 6 0 )$ into a charmonium together with light hadrons.
+
+![](images/7177e5b3d86e2310049ac986d86156005753b7e7783b2270072676c419314b1f.jpg)  
+Figure 2. Decay mechanism for $Y ( 4 2 6 0 ) ~ $ （204号 $D ^ { ( * ) } \overline { { D } } ^ { ( * ) }$ final states.
+
+which is different from the predictions of being 1 in Ref.[7] (Eq.(1)) and being O in Ref. [6]. This provides a proof to our scenario.
+
+The $Y ( 4 2 6 0 )$ also decays via the exchange of a scalar particle as illustrated in Fig.1(b). In this case, the $\omega$ inside the $Y ( 4 2 6 0 )$ emits a scalar and turns into a photon or a virtual $\omega$ ，which goes to $\pi ^ { + } \pi ^ { - } \pi ^ { 0 }$ in final states; while the $\chi _ { c 1 }$ inside the $Y ( 4 2 6 0 )$ ，after absorbing the virtual scalar，becomes a real $\chi _ { c 1 }$ particle,which decays to $\gamma J / \psi$ with about $3 0 \%$ branching fraction [1O].So a search for the $Y ( 4 2 6 0 )$ decays into $\gamma \chi _ { c 1 }  \gamma \gamma J / \psi$ ，or $\omega ^ { * } \chi _ { c 1 }  \pi ^ { + } \pi ^ { - } \pi ^ { 0 } \gamma J / \psi$ ，provides another test of our scenario.
+
+The decays to $D ^ { ( * ) } \overline { { D } } ^ { ( * ) }$ (which indicates possible combinations such as $D \overline { { D } }$ ， $D ^ { * } \overline { { D } }$ ， $D \overline { { D } } ^ { * }$ ,and $D ^ { * } \overline { { D } } ^ { * } )$ are illustrated in Fig.2. In this process, color reconnection is necessary so that the decayrateis suppressedrelativeto thedecayswith charmonium in the final states,such as those illustrated in Fig.1. The decays of the $Y ( 4 2 6 0 )$ into charmed meson-pair with strange quark have even lower rates since a strange quark pair must be created.
+
+From the above discussions,we conclude that the dominant decay modes of the $Y ( 4 2 6 0 )$ are composed of a charmonium state together with a photon or some light mesons like pions. The decay pattern is very different from the other vector charmonium states in the same mass region,where the dominant decays are to charmed mesons.
+
+The total decay width of the $Y ( 4 2 6 0 )$ is comparable to other vector charmonium states above $4 ~ \mathrm { G e V } / c ^ { 2 }$ ,which is not surprising, since its dominant decays are through the exchange of ordinary particles without the need of special mechanism.
+
+# 4.Production of the $Y ( 4 2 6 0 )$
+
+The production of the $Y ( 4 2 6 0 )$ in $e ^ { + } e ^ { - }$ collision occurs via the so-called hairpin mechanism [11] which is shown in Fig.3. Since the $\omega$ is produced from the gluons emitted by the $c \bar { c }$ quarks,the production rate is small relative to the $\psi$ states above $4 \mathrm { \ G e V } / c ^ { 2 }$ ．The $\omega$ may be produced from a photon emitted from $c \bar { c }$ quarks too,but this amplitude is even smaller since it is proportional to the QED fine structure constant （204号 $\alpha$ ：
+
+The $Y ( 4 2 6 0 )$ was also found in $B$ decays in association with a $K$ meson [12]. It may be produced via a spectator diagram,as shown in Figs.4(a) and(c),and via a hairpin diagram,as shown in Figs.4(b) and (d). Although in the hairpin mechanism,the $\omega$ is produced from the gluons emitted by the quarks,so its amplitude is thought to be suppressed,but there is indication from the weak decays of charmed mesons that such suppression is not severe: the experiments measured [10] $B ( D ^ { 0 }  \phi \overline { { { K ^ { 0 } } } } ) = ( 9 . 4 \pm 1 . 1 ) \times 1 0 ^ { - 3 }$ and $B ( D _ { s } ^ { + } \to \omega \pi ^ { + } ) = ( 2 . 8 \pm 1 . 1 ) \times 1 0 ^ { - 3 }$ can be explained by the hairpin diagrams [13] shown in Fig.5.They are smaller by only about an order of magnitude compared to the signature modes which go through spectator diagrams without color reconnection: $B ( D ^ { 0 }  \rho ^ { + } K ^ { - } ) = ( 1 0 . 1 \pm$ $0 . 8 ) \%$ and $B ( D _ { s } ^ { + } \to \phi \pi ^ { + } ) = ( 3 . 6 \pm 0 . 9 ) \%$ [10].If this is extended to the weak decays of $B$ mesons, one may expect that the diagrams of Figs. 4(b) and $4 ( \mathrm { d } )$ be important in the production of the $Y ( 4 2 6 0 )$ in $B$ decays.
+
+![](images/91b35b29540a847a5c860d8f787e8bde7607962906837853b31cb67e22f1b717.jpg)  
+Figure 3.Production mechanism of the $Y ( 4 2 6 0 )$ in $e ^ { + } e ^ { - }$ annihilation.The particle with $^ *$ isvirtual.
+
+# 5. Discussions
+
+Although the above discussions are limited to the $\omega \chi _ { c 1 }$ bound state,the scenario can be naturally extended to other bound states consisting of a light meson and a charmonium state. If the bound state of $\chi _ { c 1 }$ and $\omega$ exists,by the same mechanism,a $\chi _ { c 0 }$ ora $\chi _ { c 2 }$ can also form a bound state with an $\omega$ .At the same time,besides $\omega$ ,other $S U ( 3 )$ singlet light hadrons,like $\phi$ $\eta$ ，and $\eta ^ { \prime }$ ,can also form bound states with charmonia, such as $J / \psi$ ， $\psi ( 2 S )$ ， $\chi _ { c 0 }$ ， $\chi _ { c 1 }$ ， $\chi _ { c 2 }$ and $h _ { c }$ ： Table 1 gives the sum of the masses of a light hadron ( $\eta$ ， $\eta ^ { \prime }$ ， $\omega$ and $\phi$ ）and a charmonium state （ $J / \psi$ ， $\chi _ { c 0 }$ ， $\chi _ { c 1 }$ ， $\chi _ { c 2 }$ and $h _ { c }$ ). Considering a bindingenergy of a few to a few ten MeV in forming the bound state,we can see the newly observed states $X ( 3 8 7 2 )$ [14] could be interpreted asa $\omega J / \psi$ bound state,the $Y ( 3 9 4 0 )$ [15] could bea $\eta \chi _ { c 0 }$ bound state.Furthermore,there are many other possible combinations which have no experimental evidence yet. Their decay properties can be analyzed in the same way as in this
+
+![](images/53c5cb34bde4e1dcaf57aaa063ba865f1e1923b78b7a2331272dc6a58a579ad4.jpg)  
+Figure 4. Production mechanism of the $Y ( 4 2 6 0 )$ in $B$ decays.(a) and (b) are for $B ^ { 0 }$ decays,and (c) and (d)are for $B ^ { - }$ decays.The particle with $^ *$ is virtual.
+
+Letter,and the production of these bound states in $e ^ { + } e ^ { - }$ collision (if it is a $J ^ { P C } = 1 ^ { -- }$ state)and in $B$ decays follows the similar mechanisms described in previous sections.These bound states should be searched for by the $B$ -factories both in ISR data and in $B$ decays.
+
+decays to open charm are suppressed.A few predictions are made and could be tested in the $B$ factories. The decays of $Y ( 4 2 6 0 )  \pi ^ { + } \pi ^ { - } \pi ^ { 0 } \chi _ { c 1 }$ or $\gamma \chi _ { c 1 }$ should be searched for in high priority.
+
+# 6.Summary
+
+The $Y ( 4 2 6 0 )$ observed by the BABAR collaboration is proposed as an $\omega \chi _ { c 1 }$ molecular state, which may decay predominantly to a charmonium state together with some light particles,but the
+
+# Acknowledgments
+
+The paper was motivated in the informal workshop on “new hadron states” in Peking University in October 20o5.We acknowledge the helpful discussions with many participants. We also express thanks to Dr. H.B.Li for useful discussion.
+
+![](images/54e16fb02c38f1c0d07935dcfd63620195c260a03f411cac9911c100ccca954c.jpg)  
+Figure 5. Hairpin diagrams for $D ^ { 0 } \to \overline { { K } } ^ { 0 } \phi$ (a)and $D _ { s } ^ { + } \to \pi ^ { + } \omega$ (b) decays.
+
+# Table 1
+
+The sum of the masses (in MeV/ $c ^ { 2 }$ ）of a light meson anda charmonium state.A bound state of each possible combination could be produced by emitting a few or a few ten MeV binding energy. The numbers underlined may correspond to the states which have been observed experimentally.
+
+<html><body><table><tr><td></td><td>J/</td><td>Xc0</td><td>Xc1</td><td>Xc2</td><td>hc</td></tr><tr><td>n</td><td>3645</td><td>3963</td><td>4058</td><td>4104</td><td>4073</td></tr><tr><td>n'</td><td>4055</td><td>4373</td><td>4468</td><td>4514</td><td>4483</td></tr><tr><td>W</td><td>3880</td><td>4198</td><td>4293</td><td>4339</td><td>4308</td></tr><tr><td></td><td>4116</td><td>4435</td><td>4530</td><td>4576</td><td>4544</td></tr></table></body></html>
+
+10.Particle Data Group，S.Eidelman et al., Phys.Lett.B 592 (2004) 1.   
+11.D.Du and Z.Xing, Phys.Lett.B 312 (1993) 199;K.Lingel et al.,Annu.Rev.Nucl.Part. Sci. 48 (1998) 253.   
+12.BABAR Collaboration,B.Aubert et al., hepex/0507090.   
+13. X.Y. Li, X.Q. Li and P. Wang, Nuovo Cimento A 100(1988)693.   
+14.Belle Collaboration, S.-K. Choi et al., Phys. Rev.Lett.91(2003)262001.   
+15.Belle Collaboration, S.-K. Choi et al., Phys. Rev.Lett.94(2005)182002.
+
+# REFERENCES
+
+1. BABAR Collaboration，B. Aubert et al., Phys.Rev.Lett.95(2005)142001.   
+2. S.L.Zhu,Phys.Lett.B 625(2005)212.   
+3.L. Maiani et al.， Phys. Rev.D 72 (2005)   
+031502.   
+4. E.Kou and O.Pene,hep-ph/O507119.   
+5. F.E.Close and P.R.Page, Phys. Lett.B628 (2005)215.   
+6. X.Liu, X.Q. Zeng and X. Q. Li, Phys. Rev. D 72 (2005)054023.   
+7. C.F.Qiao,hep-ph/0510228.   
+8. N.Isgur and J.Paton,Phys.Rev.D31 (1985)   
+2910.   
+9.N.Isgur,R.Kokoski and J.Paton,Phys.Rev. Lett.54(1985) 869.

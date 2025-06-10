@@ -1,0 +1,388 @@
+[
+    {
+        "type": "text",
+        "text": "春玉米叶片光合生理参数对土壤水分的阈值响应及其生产力分级",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "任丽雯}²，王兴涛²，赵鸿¹，王润元}(1.中国气象局兰州干旱气象研究所/甘肃省干旱气候变化与减灾重点实验室/中国气象局干旱气候变化与减灾重点实验室，甘肃 兰州 730020；2．甘肃省武威市气象局，甘肃 武威 733000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：试验设正常灌水处理和干旱胁迫处理,讨论春玉米叶片的光合生理参数对土壤水分的阈值响应并进行生产力分级。结果表明：正常灌水处理的叶片光合速率( $\\left( P _ { \\mathrm { ~ n ~ } } \\right)$ 、蒸腾速率 $( T _ { \\mathrm { r } } )$ 和气孔导度( $G _ { \\mathrm { s } }$ )呈单峰曲线变化，胞间$\\mathrm { C O } _ { 2 }$ 浓度 $( C _ { \\mathrm { i } } )$ 和气孔限制值 $( L _ { \\mathrm { s } } )$ 对水分变化具有相反的响应变化。干旱胁迫处理下叶片的 $P _ { \\mathrm { ~ n ~ } } \\cdot T _ { \\mathrm { ~ r ~ } }$ 在进行控水后明显下降，灌浆以前 $P _ { \\mathrm { ~ n ~ } }$ 下降主要是由气孔限制引起的。随着水分胁迫的加剧,光合结构受损， $P _ { \\mathrm { ~ n ~ } }$ 下降，主要受非气孔因素限制。短期干旱胁迫会适当降低玉米的水分利用效率（WUE)，但是下降程度不显著， $W U E$ 能达到中等水平。长期严重的水分胁迫后， $W U E$ 下降明显,与正常灌水处理相比差异极显著。以光合生理参数为指标对玉米土壤水分有效性及生产力进行分级与评价，确定当 $3 6 . 8 \\%$ <土壤相对湿度 $( R W C ) \\textless 4 2 . 7 \\%$ 时为低产低效水；$4 2 . 7 \\% < R W C < 6 0 . 4 \\%$ 时，为中产中效水； $6 0 . 4 \\% < R W C < 7 7 . 5 \\%$ 时，为中产高效水; $7 7 . 5 \\% < R W C < 8 0 . 6 \\%$ 时，为高产高效水。 $R W C$ 在 $7 7 . 5 \\%$ 左右时，为最优产效水。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：春玉米；叶片；光合生理参数；土壤水分；生产力分级；武威",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，甘肃省武威市加大农业结构调整力度，把农业结构调整作为节水增收、抗旱保春耕的关键措施，玉米种植面积逐年增加，近5a已增加到耕地面积的 $47 \\%$ 左右。玉米作物从种子萌发、出苗到成熟的整个生育过程，除了苗期应适当控制土壤水分进行蹲苗外，自拔节至成熟，都必须满足玉米对水分的要求,才能保证其正常的生长发育[1-2]。作为玉米主产区，研究区受季风性气候与大陆性气候、高原气候与沙漠气候的共同影响，处于气候变化的敏感区和生态环境的极端脆弱区，也是用水矛盾最突出、生态环境问题最严重、水资源对经济社会发展制约性最强的区域之一，属于水分利用较低的干旱区。因此，极有必要研究使十旱区春玉米在有限水资源条件下取得理想产量的适宜灌水量，合理利用有限的水资源，获得较高产量，以期解决水资源短缺的问题[3-4]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，已有大量学者针对玉米的水分利用情况做了许多研究。有从光合特性角度分析的[5-8]如于文颖等研究了不同生育期玉米叶片光合特性及水分利用效率(WUE)对水分胁迫的响应，刘祖贵等分析了不同土壤水分处理对夏玉米叶片光合等生理特性的影响;有从土壤水分动态角度分析的[9-1]如李淑文等对不同灌水处理下土壤水分动态及玉米WUE进行了研究；也有从水分胁迫角度进行研究的[12-14],如远红伟等分析了玉米生长发育及生理特性对水分胁迫的感应关系。也有研究[15-18]分析了不同水分胁迫条件对作物光合、蒸腾及WUE的影响，如张淑勇等研究了黄刺玫叶片光合生理参数的土壤水分阈值响应及其生产力分级。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "如何对有限水资源进行高效利用，提高作物自身的WUE，为发展可持续农业和植被恢复提供科学依据。在不同的研究尺度上对WUE的定义有所差异,常用的参数包括[19]：在叶片尺度上，WUE 的表达方式是以玉米光合速率 $\\left( P _ { \\mathrm { { n } } } \\right)$ 与蒸腾速率 $( T _ { \\mathrm { r } } )$ 的比值来描述;在植物个体尺度上， $W U E =$ 物质量/蒸腾量；在植物群体尺度上， $W U E =$ 干物质量/（蒸腾量 $^ +$ 蒸发量);在产量水平上， $W U E =$ 产量/耗水量。因为，植物个体 $W U E$ 可用叶片 $W U E$ 来估算，所以,植物个体WUE与叶片WUE在某种意义上是一致的。综合国内外近年来研究成果，较多涉及叶片水平的WUE，因为叶片水平的WUE研究可以揭示作物内在的耗水机制，为作物合理灌溉提供科学依据，这在极度缺水的干旱地区具有重大意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "光合作用是植物生长的基础，光合进程不仅受植物本身生理特性的影响，同时受环境因素的制约，其中水分是影响光合进程的重要因素[20]。本文在水资源紧缺的干旱区武威，通过模拟春玉米干旱形成及致灾的过程，寻找春玉米光合作用、蒸腾作用和叶片WUE等生理参数对土壤水分的响应规律，确定干旱灾害形成的过程特征和阶段阈值;通过建立基于光合生理参数的土壤水分有效性及生产力分级，为石羊河流域综合治理，特别是在水资源的合理调配、产业结构调整、农业种植制度改革等方面提供参考依据,且具有一定的推广应用价值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验点位于河西走廊东部荒漠区的武威荒漠生态与农业气象试验站（ $3 7 ^ { \\circ } 5 3 ^ { \\prime } \\mathrm { N }$ $1 0 2 ^ { \\circ } 5 3 ^ { \\prime } \\mathrm { E }$ )，海拔$1 ~ 5 3 4 . 8 \\mathrm { ~ m ~ }$ ,为典型的内陆荒漠气候区。年平均气温$7 . 5 ~ \\mathrm { { ^ { \\circ } C } }$ ,年平均降水量约 $1 7 1 . 0 ~ \\mathrm { m m }$ ,主要集中在5—9月。气候特点为：太阳辐射强、日照充足、温差大、降水少、蒸发强烈、空气干燥。土壤质地为砂壤土，呈微碱性，土壤 $\\mathrm { \\ p H }$ 平均为8.43，有机质含量$0 . 7 \\%$ ， $\\mathrm { H C O } _ { 3 } ^ { - }$ 含量 $0 . 2 9 \\%$ ， $\\mathrm { C l } ^ { - }$ 含量 $0 . 0 6 \\%$ ， $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 含量 $1 . 2 9 \\%$ ， $\\mathrm { C _ { a } } ^ { 2 + }$ 含量 $0 . 4 5 \\%$ ， $\\mathrm { M g } ^ { 2 + }$ 含量 $0 . 0 6 \\%$ ，$\\mathrm { ~ K ~ } ^ { + } \\setminus \\mathrm { a } ^ { + }$ 含量 $0 . 1 4 \\%$ 。 $1 0 \\sim 5 0 ~ \\mathrm { c m }$ 土层土壤容重为$1 . 5 0 \\sim 1 . 6 7 ~ \\mathrm { g } \\cdot \\mathrm { c m } ^ { - 3 }$ ,田间持水量 $( F C )$ 为 $1 9 . 2 \\%$ \\~$2 3 . 4 \\%$ ,永久萎蔫点为 $5 . 9 8 \\%$ ,地下水位 $2 5 \\sim 3 4 \\mathrm { ~ m ~ }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验年2016年平均气温 $8 . 5 ~ \\mathrm { { ^ { 8 } C } }$ ,较历年略偏高，年降水总量 $1 5 8 . 9 \\ \\mathrm { m m }$ ，与历年基本持平。2017年平均气温 $8 . 3 \\mathrm { ~ \\textdegree C }$ ,较历年略偏高，年降水总量$1 5 9 . 5 ~ \\mathrm { m m }$ ,与历年基本持平。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验于2016—2017年的4—9月进行，供试玉米品种为春玉米“科河28号”，4月下旬播种。试验设正常灌水处理和干旱胁迫处理，每种处理设4个重复，不同灌水方式地块间用 $1 . 0 \\sim 1 . 5 \\mathrm { ~ m ~ }$ 深隔水膜隔离，防止土壤水分横向渗透运移。播种前施复合肥 $3 7 5 \\mathrm { \\ k g } \\cdot \\mathrm { h m } ^ { - 2 }$ ,6月17日灌水时追施尿素 225$\\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ 。正常灌水处理灌溉模式为底水 $^ +$ 浇4水（拔节水、抽雄水、灌浆水、乳熟水）。干旱胁迫处理灌溉模式为只浇底水，全生育期内不再灌水，模拟干旱形成及致灾的过程，试验期间灌溉记录如表1所示。本试验干旱胁迫处理模式下成熟期作物基本无产。试验处理期间2016年4月20日至9月18日累计降雨量为 $1 0 0 . 0 \\ \\mathrm { m m }$ ，2017年4月26日至9月22日累积降雨量为 $1 1 8 . 1 \\ \\mathrm { m m }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/b8b79dde35a7e460e83c82b464a9fe20b5f153663da294dc76f4c42d3a21a193.jpg",
+        "table_caption": [
+            "表1试验期间灌溉记录",
+            "Tab.1 The irrigation data during experiment period "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理</td><td colspan=\"3\">灌溉记录/（m·hm-²)</td></tr><tr><td>底水 (04-21)</td><td>拔节水 抽雄水 (06-17) (07-11)</td><td>灌浆水 乳熟水 (07-23) （08-17)</td></tr><tr><td>正常灌水处理</td><td>1 545</td><td>1602 2060</td><td>973 898</td></tr><tr><td>干旱胁迫处理</td><td>1 545</td><td>1 1</td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 测定项目与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土壤水分的测定采用土钻法取得土样，每个处理取4个重复，每个重复取 $5 0 ~ \\mathrm { c m }$ ,每 $1 0 \\ \\mathrm { c m }$ 为一土层，土壤含水率(SWC)利用烘干称重法测定。取样周期为播种后每隔7d于10：00取得土样，分别获取不同的水分梯度。土壤相对湿度 $( R W C )$ 为 $s W C$ 与 $F C$ 的比值,即：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR W C = S W C / F C\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "光合生理参数采用Li-6400便携式光合仪进行测定，测定时选择生长健壮、长势和光照基本一致的同部位叶片测定，每个处理选择4个点次，每个点次取3个重复求平均值。测定周期为玉米3叶期后晴朗天气，每隔7d于11：00进行。试验主要测定叶片的生理参数包括净 $P _ { \\mathrm { ~ n ~ } } \\cdot T _ { \\mathrm { ~ r ~ } }$ 、气孔导度 $( G _ { \\mathrm { s } } )$ 、田间 $\\mathrm { C O } _ { 2 }$ 浓度 $( C _ { \\mathrm { a } } )$ 、胞间 $\\mathrm { C O } _ { 2 }$ 浓度 $( C _ { \\mathrm { i } } )$ 等。叶片 $W U E$ 和气孔限制值 $\\left( \\boldsymbol { L } _ { \\mathrm { s } } \\right)$ 分别用以下公式计算：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathit { W U E } = { P _ { \\mathrm { _ n } } } / T _ { \\mathrm { _ r } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { \\mathrm { s } } = 1 - C _ { \\mathrm { i } } / C _ { \\mathrm { a } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4 数据处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用MicrosoftExcel2003对试验数据进行分析和制图，SPSS19.0对土壤水分数据和光合生理参数进行聚类分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 结果分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1不同处理下的土壤相对湿度",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 $1 0 \\sim 2 0 ~ \\mathrm { c m }$ 土壤相对湿度变化从图1a可以看出，土壤表层受降水、蒸发、灌溉的影响较大，",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/1fbc8a8fbddfcdd353fd6ad3c1c128c0da36dd6d2f55fb13b19d743b1f11a19f.jpg",
+        "img_caption": [
+            "图1不同水分处理下土壤相对湿度变化",
+            "Fig.1Change of soil relative water content under different water treatments "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RWC波动比较明显，正常灌水处理的变化幅度达到$1 6 . 9 \\%$ ,胁迫处理的为 $1 6 . 7 \\%$ 。前期由于水分条件相似，两种处理的RWC曲线基本吻合。浇灌1水(拔节水）后，正常灌水处理下的土壤水分显著增大，胁迫处理下的玉米由于此时正处于营养生长与生殖生长并进时期，新陈代谢旺盛，对土壤水分要求迫切，所以RWC继续下降。试验区8月处于降水较多时期，土壤表层受降水影响，相对湿度略有提升。特别是8月上旬试验区降水量较多，表层土壤水分显著回升。但随着作物的生长发育和对水分的强烈需求，土壤水分始终处于供不应求的阶段，受蒸发等因素影响，整体仍呈下降趋势。自控水后正常灌水处理的RWC较干旱胁迫处理高 $8 1 . 3 \\%$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 $3 0 \\sim 5 0 ~ \\mathrm { c m }$ 土壤相对湿度变化 $3 0 \\sim 5 0 ~ \\mathrm { c m }$ 土壤水分变化较表层平缓很多（图1b），正常灌水处理和胁迫处理的 $R W C$ 变化幅度分别为 $8 . 8 \\%$ 、$1 3 . 8 \\%$ 。干旱胁迫处理下的土壤水分变化幅度更大，因为表层水分亏缺，作物根系对土壤深层次的水分利用能力加强，土壤深层水分缺失较为严重，整体下降趋势明显。实施控水处理后，两种处理下的RWC差异逐渐显现，浇灌3水(灌浆水)后，差异最为显著，达到 $6 4 . 0 \\%$ 。这是因为拔节-灌浆期是玉米迅速生长期，叶片逐渐增多，群体叶面积达到整个生育期最高峰，作物耗水强度也最旺盛，再加上气温升高，作物蒸腾和土壤蒸发逐渐增大，因此对水分的需求越来越大。胁迫处理下的土壤水分下降至整个生育期最低谷，所以在灌浆期差异达到最大。后期因降水量较大，土壤水分回升，另外乳熟－成熟期玉米耗水强度也有所下降，所以差异逐渐减小。 $3 0 \\sim$ $5 0 ~ \\mathrm { c m }$ 土层的RWC在控水后正常灌水处理较干旱胁迫处理高 $9 0 . 7 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 $P _ { \\mathrm { n } } { \\sqrt { T _ { \\mathrm { r } } { \\sqrt { W U E } } } }$ 对土壤水分的阈值响应 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "玉米 $P _ { \\mathrm { ~ n ~ } }$ 的变化与土壤水分密切相关(图2），正常灌水处理 $P _ { \\mathrm { ~ n ~ } }$ 从苗期到拔节期迅速增加，峰值出现在6月下旬拔节期前，浇灌拔节水后第4天，达到$4 0 . 4 ~ \\mu \\mathrm { m o l } \\cdot \\mathrm { ~ m ~ } ^ { - 2 } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,同期测定的 $R W C$ 为 $8 0 . 6 \\%$ ，其余时段稳定在 $2 3 . 1 \\pm 2 . 0 \\ \\mu \\mathrm { m o l } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { s } ^ { - 1 }$ 上下。在保证水分供应的条件下，试验区玉米品种的 $P _ { \\mathrm { ~ n ~ } }$ 在拔节期最高。胁迫处理下的 $P _ { \\mathrm { ~ n ~ } }$ 在控水处理后显著下降，此时的 $R W C$ 为 $4 0 . 9 \\%$ 。随着胁迫时间的加长， $\\cdot P _ { \\mathrm { ~ n ~ } }$ 值降低的程度越大，之后一直维持在较低水平直至生育期结束,较正常灌水处理下降了 $5 9 . 3 \\%$ ，两种处理差异达到极显著( $\\ P < 0 . 0 1 \\cdot$ 。8月上旬测定 $P _ { \\mathrm { ~ n ~ } }$ 值有一个小的峰值，这是因为8月较大的降水量促进了作物的光合作用，说明光合作用对水分胁迫十分敏感。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "玉米的 $T _ { \\mathrm { r } }$ 与 $P _ { \\mathrm { ~ n ~ } }$ 的变化基本相似，正常灌水处理的峰值出现在6月下句，为 $7 . 5 \\ \\mathrm { m m o l } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { s } ^ { - 1 }$ ，另一峰值出现在6月上旬初，为 $6 . \\ 7 \\ \\mathrm { \\ m m o l }$ ·$\\mathbf { m } ^ { - 2 } \\cdot \\mathbf { s } ^ { - 1 }$ ,说明 $R W C$ 在 $5 8 . 0 \\% \\sim 8 0 . 6 \\%$ 是作物蒸腾作用比较旺盛的时期，其余时段基本稳定在 $4 . 6 \\pm$ $0 . 9 \\ \\mathrm { m m o l } \\cdot \\mathrm { \\bf ~ m } ^ { - 2 } \\mathrm { ~ \\bf ~ \\cdot ~ s ~ } ^ { - 1 }$ 上下。胁迫处理下的 $T _ { \\mathrm { r } }$ 值也是在控水后开始下降，随着胁迫程度的加剧， $T _ { \\mathrm { r } }$ 值不断降低。除了在8月上旬有一个小的峰值，之后一直维持在较低水平，较正常灌水处理下降了$5 1 . 4 \\%$ ,两种处理差异达到极显著 $\\left( P < 0 . 0 1 \\right)$ 。水分胁迫造成的光合参数的下降和8月上旬的降水对光合参数的提高 $\\cdot ^ { T _ { \\mathrm { r } } }$ 的下降程度和回升程度都不如$P _ { \\mathrm { ~ n ~ } }$ 剧烈，说明作物的光合作用对水分比蒸腾作用更加敏感。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "玉米的WUE在正常灌水处理下的峰值出现在",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc133b7c86ce5cf9da60d6e060cc7221eb95c872a47dac354fef91c7fbcd0896.jpg",
+        "img_caption": [
+            "图2光合速率、蒸腾速率、水分利用效率对土壤水分的阈值响应"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "8月下旬末，为 $7 . 3 ~ \\mu \\mathrm { m o l } \\cdot \\mathrm { m m o l } ^ { - 1 }$ ,同期测定的SWC为 $7 7 . 2 \\%$ 。SWC在 $6 5 . 2 \\% \\sim 7 3 . 8 \\%$ 时，WUE也维持较高水平。对不同的水分处理的响应表现为：控水后胁迫处理下的WUE低于正常灌水处理，但差异不显著，8月上旬后期两种处理的差异极显著( $P <$ 0.01），这是因为在长期的水分胁迫效应下，作物的光合作用受到明显抑制，虽然蒸腾作用也有所下降，但下降的剧烈程度不如光合作用，所以短期的水分胁迫对WUE造成的影响不是很大，但是长期的水分胁迫明显抑制了作物的光合作用，造成WUE明显下降。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 $\\pmb { G } _ { \\mathrm { s } } \\pmb { C } _ { \\mathrm { i } } \\pmb { L } _ { \\mathrm { s } }$ 对土壤水分的阈值响应",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从正常灌水处理下的变化曲线来看（图3），叶片 $G _ { \\mathrm { s } }$ 对水分响应比较强烈，出现的几个峰值时段均在灌溉或者较大降水过程之后，变化规律与 $P _ { \\mathrm { ~ n ~ } }$ 基本相似,最大峰值出现在6月下旬，为 $0 . \\ 2 9 \\ \\mathrm { \\ m o l }$ ：$\\mathbf { m } ^ { - 2 } \\cdot \\mathbf { s } ^ { - 1 }$ ,其余时段稳定在 $0 . \\ 1 4 \\ \\pm \\ 0 . \\ 0 2 \\ \\mathrm { m o l } \\ \\cdot$ $\\mathbf { m } ^ { - 2 } \\cdot \\mathbf { s } ^ { - 1 }$ 。分析水分胁迫处理下的 $G _ { \\mathrm { s } }$ ,在第一次控水处理后开始下降，与正常灌水处理差异达极显著水平( $\\textstyle P < 0 . 0 1 { \\mathrm { ~ } }$ ），之后在8月上旬有小的峰值，其余时段一直维持在较低水平，说明气孔导度下降是影响作物光合作用进程的一个因素。控水处理后，胁迫处理下的 $G _ { \\mathrm { s } }$ 较正常灌水处理下降了 $8 1 . 1 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4a911a39d224c87c1ab9d0efa0917f6dbf923fe476039fbe4a64f0bb164be505.jpg",
+        "img_caption": [
+            "Fig.2Threshold responses of photosynthetic rate, transpiration rate and water use efficiency to soil moisture ",
+            "图3气孔导度、胞间 $\\mathrm { C O } _ { 2 }$ 浓度、气孔限制值对土壤水分的阈值响应",
+            "Fig.3Threshold responses of stomata conductance, intercellular $\\mathrm { C O } _ { 2 }$ concentration and stomata limitation to soil moisture "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "玉米的 $C _ { \\mathrm { i } }$ 和 $L _ { \\mathrm { s } }$ 对水分变化具有相反的响应规律（图3），两种处理差异均在8月上旬末达到显著水平（ $\\scriptstyle P < 0 . 0 5 )$ 。对比分析两种处理的 $C _ { \\mathrm { i } }$ 和 $L _ { \\mathrm { s } }$ 变化曲线可以看出，开始灌浆以前，胁迫处理下的 $C _ { \\mathrm { i } }$ 低于正常灌水处理， $L _ { \\mathrm { s } }$ 高于正常灌水处理,根据气孔限制理论(21-22],影响作物光合作用进程的主要以气孔限制因素为主，即干旱导致气孔关闭从而限制了二氧化碳的供应。后期水分胁迫处理下的 $C _ { \\mathrm { i } }$ 逐渐高于正常灌水处理， $L _ { \\mathrm { s } }$ 逐渐低于正常灌水处理，说明作物的光合作用主要受非气孔因素限制，即光合结构受损，叶肉细胞的光合活性下降。特别是在8月中旬中期以后 $C _ { \\mathrm { i } }$ 明显升高， $L _ { \\mathrm { s } }$ 明显下降,说明长期的水分胁迫造成玉米叶片的光合结构发生严重破坏，此时的RWC为 $4 0 . 4 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4土壤水分生产力分级及评价",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "依据 $P _ { \\mathrm { n } } \\cdot T _ { \\mathrm { r } }$ 和WUE3个光合生理指标,对同期测定的土壤水分进行聚类分析，当聚类数为4时，结果见表2。根据聚类平均值的大小，可划分为A类$R W C$ 为低 $P _ { \\mathrm { ~ n ~ } }$ 、低 $T _ { \\mathrm { r } }$ 、低WUE型；B类 $R W C$ 为中等$P _ { \\mathrm { ~ n ~ } }$ 、中等 $T _ { \\mathrm { r } }$ 、中等WUE型;C类 $R W C$ 为中等 $P _ { \\mathrm { ~ n ~ } }$ 、中等 $T _ { \\mathrm { r } }$ 、高WUE型;D类 $R W C$ 为高 $P _ { \\mathrm { ~ n ~ } }$ 、高 $T _ { \\mathrm { r } }$ 、高WUE型。方差分析表明,这4个水分段的划分,对 $P _ { \\mathrm { ~ n ~ } }$ 、$T _ { \\mathrm { r } }$ 、WUE有较大影响，差异性显著( $\\textstyle P < 0 . 0 5 )$ ，说明土壤水分对玉米的光合特性有较大影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "玉米土壤水分生产力分级及有效性分析发现：",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/e821f0f4080c266ff233b8255af1eafb307442e3197439adb70191aae2651cf1.jpg",
+        "table_caption": [
+            "表2土壤水分聚类分析及其生产力分级",
+            "Tab.2Cluster analysis of soil moisture content and its productivity classification "
+        ],
+        "table_footnote": [
+            "注： $P _ { \\mathrm { ~ n ~ } }$ 表示净光合速率， $T _ { \\mathrm { r } }$ 表示蒸腾速率， $W U E$ 表示水分利用效率。同列不同小写字母表示光合参数差异显著( $\\cdot P < 0 . 0 5$ 。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">聚类数</td><td rowspan=\"3\">土壤水分范围/%</td><td rowspan=\"3\">水分生产力分级</td><td colspan=\"3\">光合参数</td></tr><tr><td>P</td><td>T</td><td>WUE</td></tr><tr><td>/（μmol·m-²·s-1)</td><td>/(mmol·m-²·s-1)</td><td>/(μmol·mmol-1)</td></tr><tr><td>A</td><td>36.8~42.7</td><td>低产低效</td><td>9.88 ±1.12c</td><td>2.47 ±0.69c</td><td>3.38 ±0.58c</td></tr><tr><td>B</td><td>42.7~60.4</td><td>中产中效</td><td>17.47 ±1.05b</td><td>4.23 ± 1.11b</td><td>4.09 ±0.72b</td></tr><tr><td>C</td><td>60.4~77.5</td><td>中产高效</td><td>20.74 ±0.61b</td><td>3.83 ±0.63b</td><td>5.48±0.58a</td></tr><tr><td>D</td><td>77.5~80.6</td><td>高产高效</td><td>33.20 ±1.58a</td><td>6.18 ±0.63a</td><td>5.39 ±0.57a</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 当 $3 6 . 8 \\% < \\ R W C \\ < 4 2 . 7 \\%$ 时，玉米的 $P _ { \\mathrm { ~ n ~ } }$ 和$W U E$ 均较低,类均值分别较最高 $P _ { \\mathrm { { n } } } ( 4 0 . 4 ~ \\mu \\mathrm { { m o l } }$ ·$\\mathbf { m } ^ { - 2 } \\cdot \\mathbf { s } ^ { - 1 }$ ）和 $W U E \\left( 7 . 3 \\mathrm { \\textmu m o l \\textsuperscript { * } m m o l ^ { - 1 } } \\right.$ )降低了$76 \\%$ 和 $54 \\%$ 。分析图1和图2可以看出，随着RWC的降低， $P _ { \\mathrm { ~ n ~ } }$ 和 $W U E$ 迅速减小，故称之为“低产低效水”。随着土壤水分的继续减少， $P _ { \\mathrm { ~ n ~ } }$ 有向趋于零的形势发展，可形成“无产无效水”。 $\\textcircled{2}$ 当 $4 2 . 7 \\% <$ $R W C < 6 0 . 4 \\%$ 时， $P _ { \\mathrm { ~ n ~ } }$ 的聚类均值较其最高水平下降了 $57 \\%$ ,能获得中等光合生产力水平，而WUE下降了 $44 \\%$ ，能达到中等生产效率，所以为“中产中效水”。 $\\textcircled{3}$ 当 $6 0 . 4 \\% < R W C < 7 7 . 5 \\%$ 时， $P _ { \\mathrm { ~ n ~ } }$ 的聚类均值较最高值下降了 $4 9 \\%$ ,属于中等水平,而 $W U E$ 能达到其最高水平的 $7 5 \\%$ 以上,故称之为“中产高效水”。 $\\textcircled{4}$ 当 $7 7 . 5 \\% < R W C < 8 0 . 6 \\%$ 时， $P _ { \\mathrm { ~ n ~ } }$ 值较高，达到了最高水平的 $82 \\%$ 以上， $W U E$ 值也在其最高值的 $7 3 \\%$ 以上,故称其为“高产高效水”。当 $R W C$ 超过 $8 0 . 6 \\%$ 后， $W U E$ 开始下降,有向“中效水\"转化的趋势,其中 $R W C$ 在 $7 7 . 5 \\%$ 左右时，能获得较高的 $P _ { \\mathrm { ~ n ~ } }$ 和最高水平的 $W U E$ ,即玉米能获得最高产效的生产力水平，故称其为“最优产效水”。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3结论与讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从不同处理下土壤水分的变化曲线来看，受降水、蒸发、灌溉等影响， $1 0 \\sim 2 0 \\ \\mathrm { c m }$ 的RWC变化较$3 0 \\sim 5 0 \\ \\mathrm { c m }$ 要更加剧烈。两种处理的 $R W C$ 变化在灌浆期差异显著，这是因为灌浆期也是玉米作物叶面积群体面积达到整个生育期最高峰的时期，玉米的耗水强度最为旺盛，再加上这段时间气温较高，作物蒸腾和土壤蒸发较大，对水分的要求较高，所以差异最大。控水后， $1 0 \\sim 2 0 ~ \\mathrm { c m } ~ . 3 0 \\sim 5 0 ~ \\mathrm { c m }$ 在正常灌水处理的RWC较胁迫处理要高出81. $3 \\%$ 和$9 0 . 7 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "三叶后对玉米进行光合参数测定， $P _ { \\mathrm { ~ n ~ } }$ 的变化呈单峰曲线，在浇灌拔节水后达到峰值，同期测定的$G _ { \\mathrm { s } }$ 也达到最大值， $L _ { \\mathrm { s } }$ 最低,说明较高的土壤水分降低了叶温，增加了气孔的开张程度，胞间 $\\mathrm { C O } _ { 2 }$ 浓度$C _ { \\mathrm { i } }$ 达到最高水平，光合能力大大增强。气孔的开张又加大了蒸腾作用，造成一定程度的水分散失，所以叶片 $W U E$ 较其最高水平有所减少。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "胁迫处理的 $G _ { \\mathrm { s } }$ 在控水后迅速下降,造成 $P _ { \\mathrm { ~ n ~ } }$ 逐渐降低，说明胁迫处理使气孔受到影响开始关闭，导致 $C _ { \\mathrm { i } }$ 值也随之减少， $P _ { \\mathrm { ~ n ~ } }$ 降低。在经历较大的降水过程(8月上旬)后， $P _ { \\mathrm { ~ n ~ } } \\cdot T _ { \\mathrm { ~ r ~ } }$ 和 $C _ { \\mathrm { i } }$ 迅速增加，说明灌浆前期(灌浆5d)的干旱胁迫作用是可缓解的，之前的气孔关闭是一个可逆的过程，限制光合作用的主要因素是以气孔限制为主，如果及时进行复水，可以在一定程度上恢复植被的光合作用，降水后 $R W C$ 值达到了 $6 6 . 9 \\%$ 。玉米灌浆 $2 0 \\textup { d }$ 以后,胁迫处理的 $C _ { \\mathrm { i } }$ 迅速增加， $L _ { \\mathrm { s } }$ 迅速下降， $P _ { \\mathrm { ~ n ~ } }$ 值降到最低，根据气孔限制理论，此时的光合作用主要受非气孔因素限制， $P _ { \\mathrm { ~ n ~ } }$ 值降低并非因为 $\\mathrm { C O } _ { 2 }$ 不足，而是因为长期的干旱胁迫造成叶片光合结构严重受损，并处于不可恢复的状态。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "WUE表征了作物对蒸腾耗水的利用能力，当作物遭受干旱胁迫时， $W U E$ 也会发生相应的变化。本研究结果表明，干旱胁迫会适当降低玉米的WUE，但下降程度不显著，与 $P _ { \\mathrm { ~ n ~ } } \\cdot T _ { \\mathrm { ~ r ~ } }$ 相比下降值小很多，这是因为水分胁迫虽然限制了作物的蒸腾耗水，但是也降低了光合作用， $P _ { \\mathrm { ~ n ~ } }$ 值较低，WUE能达到中等水平。长期严重的水分胁迫后，作物光合结构受到破坏， $P _ { \\mathrm { ~ n ~ } }$ 值降至最低,WUE下降显著，与正常灌水处理相比差异极显著( $\\textstyle P < 0 . 0 1 )$ 。当 $6 0 . 4 \\% < R W C <$ $7 7 . 5 \\%$ 时，作物具有较高的 $P _ { \\mathrm { ~ n ~ } }$ 和 $W U E$ ，且 $T _ { \\mathrm { r } }$ 值较低，是低蒸腾高产出的最佳水分范围；当 $R W C >$ $7 7 . 5 \\%$ 时，虽然 $P _ { \\mathrm { ~ n ~ } }$ 和 $W U E$ 较高,但是 $T _ { \\mathrm { r } }$ 值非常大,大量的蒸腾作用在水资源紧缺的干旱区意味着浪费和损耗,所以在干旱环境下过高的 $R W C$ 会降低水分利用价值，在生产活动中也是不可取的。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于以上结论，当 $R W C$ 在 $4 2 . 7 \\%$ 左右时，玉米作物可以维持缓慢生长，能获得一定水平的 $P _ { \\mathrm { ~ n ~ } }$ ，即通过光合作用可以产生较低水平的光合产物，因此$4 2 . 7 \\%$ 可以认为是玉米维持生长的土壤水分下限。当 $R W C < 4 2 . 7 \\%$ 时，如果作物处于灌浆期以前，及时复水可以在一定程度上恢复玉米的生长。在灌浆期以后，长期严重的干旱就会破坏玉米叶片的光合结构，导致 $P _ { \\mathrm { ~ n ~ } }$ 和WUE显著下降,严重影响作物正常生长，最终作物没有产量。当 $4 2 . 7 \\% < R W C < 7 7 . 5 \\%$ 时， $P _ { \\mathrm { ~ n ~ } }$ 和 $W U E$ 均随着土壤水分增加逐渐增大，即通过光合作用积累的光合产物总量是增加的，且WUE较高。当 $R W C > 7 7 . 5 \\%$ 时，虽然 $P _ { \\mathrm { ~ n ~ } }$ 在增加,但是增加幅度小于 $T _ { \\mathrm { r } }$ ,即叶面蒸腾作用大于光合作用，所以 $W U E$ 呈下降趋势，这在水资源紧缺的干旱地区是不可取的。综上所述，在水资源紧缺的石羊河流域，玉米灌溉时 $R W C$ 为 $7 7 . 5 \\%$ 可以作为土壤水分的上限， $4 2 . 7 \\%$ 是玉米维持生长的土壤水分下限，即适宜玉米生长的的土壤水分是 $4 2 . 7 \\% \\sim 7 7 . 5 \\%$ ，低蒸腾高产出的最佳水分是 $6 0 . 4 \\% \\sim 7 7 . 5 \\%$ ， $7 7 . 5 \\%$ 是玉米生长的最优产效水。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]李宏波.玉米需水规律及灌溉技术[J].现代农村科技,2013 （16）:50-51.[Li Hongbo.Water requirement rules and irrigation technology of maize[J]. Xiandai Nongcun Keji,2013（16）:50- 51.]   \n[2]朱景嵩.玉米灌溉技术[J].现代农村科技,2010（22）：101. [Zhu Jingsong.Maize irrigation technology[J].Xiandai Nongcun Keji,2010(22）:101.]   \n[3］胡文俊.石羊河流域水资源利用和生态环境保护对策[J].干 旱区地理,2007,30(6）:969-973.[Hu Wenjun.Counter measures of water resources utilization and ecological protection of Shiyang River Basin[J].Arid Land Geography,2007,30（6）:969- 973.]   \n[4]陈霏,王润元,王鹤龄,等.干旱胁迫下春小麦干物质积累和分 配及其模拟[J].干旱区研究,2017,34（6):1418-1 425. [Chen Fei,Wang Runyuan,Wang Heling,et al.Dry matter accumulation and distribution of spring wheat under drought stress [J].Arid Zone Research,2017,34(6):1 418 -1 425.]   \n[5]于文颖,纪瑞鹏,冯锐,等.不同生育期玉米叶片光合特性及水 分利用效率对水分胁迫的响应[J].生态学报,2015,35（9）： 2 902-2 909.[Yu Wenying,Ji Ruipeng,Feng Rui,et al. Response of water stress on photosynthetic characteristics and water use efficiency of maize leaves in different growth stage[J].Acta Ecologica Sinica,2015,35(9):2 902-2 909.]   \n[6]刘祖贵,陈金平,段爱旺,等.不同土壤水分处理对夏玉米叶片 光合等生理特性的影响[J].干旱地区农业研究,2006,24（1)： 90 -95.[Liu Zugui,Chen Jinping,Duan Aiwang,et al.Effects of diferent soil moisture treatments on physiological characteristics of summer maize leaves[J]. Agricultural Research in the Arid Areas, 2006,24(1) :90 -95.]   \n[7]张兴华,高杰,杜伟莉,等.干旱胁迫对玉米品种苗期叶片光合 特性的影响[J].作物学报,2015,41（1）：154－159.[Zhang Xinghua,Gao Jie,DuWeili,etal.Effectsof drought stresson photosynthetic characteristics of maize hybrids at seedling stage[J]. Acta Agronomica Sinica,2015,41（1）:154-159.]   \n[8］杜伟莉,高杰,胡福亮,等.玉米叶片光合作用和渗透调节对干 旱胁迫的响应[J].作物学报,2013,39（3）：530-536.［Du Weili,Gao Jie,Hu Fuliang,et al.Responses of drought stress on photosynthetic trait and osmotic adjustment in two maize cultivars [J].Acta Agronomica Sinica,2013,39(3）:530 -536.]   \n[9]李淑文,于淼,杜建云,等.不同灌水处理下土壤水分动态及玉 米水分利用效率研究[J].河北农业大学学报,2010,33（4）： 17-21.[Li Shuwen,Yu Miao,Du Jianyun,et al.Effects of different irrigation on soil water dynamics and water use eficiency in ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "corn[J].Journal of Agricultural University of Hebei,2O10,33 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(4) :17 -21.)   \n〔10］任丽雯,王兴涛,刘明春,等.干旱胁迫对土壤水分动态及玉米 水分利用效率影响研究[J].中国农学通报,2015,31（32）： 142-147.[Ren Liwen,Wang Xingtao,Liu Mingchun,et al. Effects of drought stress on soil moisture dynamics and water use efficiency in corn[J].Chinese Agricultural Science Bulletin, 2015,31(32):142 -147.]   \n[11］吴巍.灌溉与种植方式对冬小麦和夏玉米耗水规律及生长发 育影响的研究[D].泰安：山东农业大学,2006.［Wu Wei.Study on Effects of Irrigation and Planting Patterns on Water Consumption Rules,Growth and Development of Winter Wheat and Summer Maize[D].Tai'an：Shandong Agricultural University,2006.]   \n[12]远红伟,陆引罡,崔保伟,等.玉米生长发育及生理特性对水分 胁迫的感应关系[J].华北农学报,2008,23（增刊)：109-113. [Yuan Hongwei,Lu Yingang,Cui Baowei,et al. The reaction relation between the growth and physiological characteristics of corn and water stress[J].Acta Agriculturae Boreali-Sinica,2O08,23 （Suppl.）:109 -113.]   \n[13］任丽雯,马兴祥.石羊河流域水分胁迫对玉米生长发育指标和 产量的影响[J].干旱气象,2014,32（5）：760-764.[Ren Liwen,Ma Xingxiang.Effects of water stress on growth index and yield of maize in Shiyang River Basin[J].Journal of Arid Meteorology,2014,32(5) :760 -764.]   \n[14]谭国波,赵立群,张丽华.玉米拔节期水分胁迫对植株性状、光 合生理及产量的影响[J].玉米科学,2010,18（1)：96－98. [Tan Guobo,Zhao Liqun,Zhang Lihua,et al.Effects of different water stresses on plant character,photosynthetic physiology and yield in maize jointing stage[J].Journal of Maize Sciences,2010, 18(1):96-98.]   \n[15〕张淑勇,夏江宝,张光灿,等.黄刺玫叶片光合生理参数的土壤 水分阈值响应及其生产力分级[J].生态学报,2014,34（10）： 2 519-2 528.[Zhang Shuyong,Xia Jiangbao,Zhang Guangcan,et al.Threshold efect of soil moisture on photosynthetic and physiological parameters in Rosa xanthina L.and its photosynthetic productivity classification[J].Acta Ecologica Sinica,2014,34（10）： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2 519-2 528.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[16]夏江宝，张光灿,孙景宽,等.山杏叶片光合生理参数对土壤水 分和光照强度的阈值效应[J].植物生态学报,2011,35（3）： 322-329.[Xia Jiangbao,Zhang Guangcan,Sun Jingkuan,et al. Threshold effects of photosynthetic and physiological parameters in Prunus sibirica to soil moisture and light intensity[J].Chinese Journal of Plant Ecology,2011,35(3）:322-329.]   \n[17」王荣荣.贝壳堤岛3种灌木叶片光合作用的水分响应性研究 [D].泰安：山东农业大学,2014.［Wang Rongrong.Response Characteristics of Photosynthesis to Soil Water in Leaves of Three Shrubs Species in Shell Islands of Yellow River Delta[D].Tai'an: Shandong Agricultural University,2014.]   \n[18］张志川.用最优分割聚类法确定土壤水分胁迫阈值[J].灌溉 排水学报,2014,23（5）:29-31.[Zhang Zhichuan,Determining of soil water stress threshold value with optimum partitioning clustering method[J].Journal of Irrigation and Drainage,2014,23 (5) :29-31.]   \n[19］罗亚勇,赵学勇,黄迎新,等.植物水分利用效率及其测定方法 研究进展[J].中国沙漠,2009,29（4）：648-655.［Luo Yayong,Zhao Xueyong,Huang Yingxin,et al. Research progress on plant water use efficiency and its measuring methods[J].Journal of Desert Research,2009,29(4) :648 -655.]   \n[20］杨司睿,范井伟,孙永强,等.罗布泊腹地人工植被梭梭的光学 特性及其对干旱胁迫的响应[J].干旱区研究,2018,35（2）： 379 -386.[Yang Sirui,Fan Jingwei,Sun Yongqiang,et al.Photosynthetic characteristics and response of Haloxylon ammodendron to drought stress in hinterland of the Lop $\\operatorname { N u r } [ \\mathrm { \\textbf { J } } ]$ . Arid Zone Research,2018,35(2) :379 -386.]   \n[21]Farquhar G D,Sharkey TD.Stomata conductance and photosynthesis[J].Annual Review of Plant physiology,1982,33（3）:317 - 345.   \n[22］高冠龙,冯起,张小由,等.植物叶片光合作用的气孔与非气孔 限制研究综述[J].干旱区研究,2018,35（4）：929-937.［Gao Guanlong,Feng Qi,Zhang Xiaoyou,et al.An overview of stomatal ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "and non-stomatal limitations to photosynthesis of plants[J].Arid ZoneResearch,2018,35（4) :929-937.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Threshold Responses of Leaf Photosynthetic Physiological Parameters of Spring Maize to Soil Moisture and Its Productivity Classification ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "REN Li-wen $^ { 1 , 2 }$ ，WANG Xing-tao²， ZHAO Hong'， WANG Run-yuan' (1.KeyLaboratoryofArid Climate Changeand Disaster ReductionofChina Meteorological Administration/KeyLaboratoryof AridClimateChangeandDisasterReductioofGnsuProvince/IstituteofArideteorologyChinaMeteorologicalAdmiistrtion， Lanzhou 730020,Gansu,China; 2.Wuwei Meteorological Bureau,Wuwei 733ooO,Gansu,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Two modes including normal irigation treatment and water stress treatment were designed in this experiment to discuss the threshold responses of leaf photosynthetic physiological parameters of spring maize to soil moisture and its productivity classification.The results showed that the change curves of photosynthetic rate $( P _ { \\mathrm { { n } } } )$ ， transpiration rate $( T _ { \\mathrm { r } } )$ and stomata conductance $( G _ { \\mathrm { s } } )$ ）were unimodal under normal irrigation treatment. The response of intercellular $\\mathrm { C O } _ { 2 }$ concentration $( C _ { \\mathrm { i } } )$ to soil moisture was opposite to that of stomata limitation $\\left( L _ { \\mathrm { s } } \\right) .$ The $P _ { \\mathrm { ~ n ~ } }$ and $T _ { \\mathrm { r } }$ values were significantly decreased under water stress treatment,and the reduction of $P _ { \\mathrm { ~ n ~ } }$ value was mainly caused bythe stomata limitation before grain-filling.As the degree of water stress was aggravatedand the photosynthetic structure was damaged,the reduction of $P _ { \\mathrm { ~ n ~ } }$ was mainly caused by non-stomata limitation. Short-term water stress reduced the water use eficiency（WUE）of maize plant appropriately,which,however,was not significant,and the $W U E$ could be reached a medium level. After a long-term and serious water stress ,the $\\mathbb { W } U E$ was decreased significantly compared to the situation under normal irrigation.Based on the photosynthetic physiological parameters, the soil moistureavailabilityand the productivityof maize wereclassifiedandevaluated.Therelative water content （204号 $( R W C )$ ranging from $3 6 . 8 \\%$ to $4 2 . 7 \\%$ was classified as the low-yield and low-efficiency water treatment,that from $4 2 . 7 \\%$ to $6 0 . 4 \\%$ as the medium-yield and medium-efficiency one,that from $6 0 . 4 \\%$ to $7 7 . 5 \\%$ as the mediumyield and high-efficiency one,and that from $7 7 . 5 \\%$ to $8 0 . 6 \\%$ as the high-yield and high-efficiency one.It was observed that the RWC about $7 7 . 5 \\%$ was optimal. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words:spring maize; leaf；photosynthetic physiological parameter；soil moisture content；productivity classification；Wuwei ",
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,331 @@
+[
+    {
+        "type": "text",
+        "text": "临床研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "启动子区H3K27me3修饰异常促使系统性红斑狼疮患者CD4+T细胞CREMα过表达",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张 庆',丁澍²,张慧琳中南大学湘雅二医院'皮肤科,急诊科,湖南 长沙 410011;2中南大学湘雅三医院皮肤科,湖南 长沙 410013摘要：目的探讨SLE中CREMα表达升高的原因。方法分离5名正常对照和5名SLE患者的 $\\mathrm { C D 4 } ^ { + }$ T细胞，用染色质免疫沉淀(ChIP)微阵列法对各种基因启动子区组蛋白H3赖氨酸27三甲基化( $\\mathrm { H } 3 \\mathrm { K } 2 7 \\mathrm { m e } 3 ,$ )的水平进行分析。随后分离30名正常对照和30名SLE患者的 $\\mathrm { C D 4 } ^ { + }$ T细胞,用ChIP结合实时定量PCR检测CREMα启动子区H3K27me3、H3K27去甲基化酶JMJD3和UTX、H3K27甲基转移酶EZH2的水平,采用实时定量RT-PCR检测CREMα mRNA水平。结果SLE $\\mathrm { C D 4 ^ { + } }$ T细胞的CREMa启动子区H3K27me3水平是正常对照的0.23倍。随后通过ChIP结合实时定量PCR,我们证实了SLE患者 $\\mathrm { C D 4 ^ { + } }$ T细胞CREMα启动子区H3K27me3水平显著降低 $( P { < } 0 . 0 0 1 )$ )，且与CREMαmRNA水平呈显著负相关( $\\scriptstyle P < 0 . 0 0 1$ )。该区的JMJD3水平显著升高0 $\\scriptstyle { \\overbrace { P { < } 0 . 0 0 1 } } ,$ ，且与 $\\mathrm { H } 3 \\mathrm { K } 2 7 \\mathrm { m e } 3$ 水平呈负相关 $( P { < } 0 . 0 0 1 )$ ,与CREMαmRNA水平呈正相关 $( P { < } 0 . 0 0 1 )$ 。而UTX( $scriptstyle P = 0 . 1 7 2 ,$ 及EZH21 $\\scriptstyle { ( P = 0 . 2 8 1 ) }$ 水平则与对照组无明显差异。结论SLE $\\mathrm { C D 4 ^ { + } }$ T细胞CREMa启动子区JMJD3增多，导致该区 $\\mathrm { H } 3 \\mathrm { K } 2 7 \\mathrm { m e } 3$ 水平降低，结果促使CREMα过表达，最终引起SLE的发病。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：系统性红斑狼疮；cAMP反应元件调控因子 $\\scriptstyle \\mathbf { \\dot { a } } ; \\mathbf { C D 4 } ^ { + }$ T细胞;H3K27me3；JMJD3",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effect of aberrant H3K27me3 modification in promoter regions on cAMP response element modulator $\\pmb { \\alpha }$ expression in $\\mathbf { C D 4 } ^ { \\prime }$ T cells from patients with systemic lupus erythematosus ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Qing',DING Shu²,ZHANGHuilin Departmentofotteecinoditaltalti China;²Departmentofermatology,ThirdiangyaHospital,Central Southniersity,Changsha4o3,ina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective Increased cAMP response element modulator $\\alpha$ (CREMα) in T cells plays an essential role in the pathogenesis of systemiclupus erythematosus (SLE).Theaimof this study was to investigate the mechanisms that elevates CREMα expression in SLE. Methods $\\mathrm { C D 4 ^ { + } }$ T cells from 5 healthy volunteers and 5 SLE patients were isolated for analysis of histoneH3 lysine27 trimethylation (H3K27me3） enrichment indiferent gene promotersusing chromatin immunoprecipitation (ChIP)microarry.The levelsofH3K27me3,H3K27demethylases Jumonji domaincontaining3(JMJD3) andubiquitously transcribed X (UTX),and H3K27 methyltransferase enhancer of zeste homolog 2 (EZH2)within the CREMα promoter were subsequently tested by ChIP and real-time PCR in $\\mathrm { C D 4 ^ { + } }$ T cells from 30 normal controls and 30 SLE patients; CREMα mRNA level was also determined by real-time RT-PCR. Results Analysis of ChIP microarray data identified that H3K27me3 enrichment at the CREMα promoter in $\\mathrm { C D 4 ^ { + } }$ T cells from SLE patients was 0.23 times that of the normal control subjects.The results of ChIP and real-time PCRconfirmed a marked decrease of H3K27me3 enrichment at the CREMα promoter in $\\mathrm { C D 4 ^ { + } }$ T cells from SLE patients $( P { < } 0 . 0 0 1 )$ . The level of $\\mathrm { H } 3 \\mathrm { K } 2 7 \\mathrm { m e } 3$ at the promoter was negatively correlated with CREMα mRNA level in $\\mathrm { C D 4 ^ { + } }$ T cells from SLE patients $( P { < } 0 . 0 0 1 )$ . In addition, a sharp increase was observed in JMJD3 binding at the CREMα promoter region in $\\mathrm { C D 4 ^ { + } }$ T cells from SLE patients $( P { < } 0 . 0 0 1 )$ ， and it was negatively correlated with H3K27me3 enrichment $( P { < } 0 . 0 0 1 )$ and positively correlated with CREMα mRNA level $( P { < } 0 . 0 0 1 )$ . There were no significant changes in UTX $_ { ( P = 0 . 1 7 2 ) }$ or EZH2 $( P { = } 0 . 2 8 1 )$ binding at the CREMα promoter region in $\\mathrm { C D 4 ^ { + } }$ T cells from SLE patients as compared to normal controls. Conclusion Increased JMJD3 binding down-regulates $\\mathrm { H } 3 \\mathrm { K } 2 7 \\mathrm { m e } 3$ enrichmentat the CREMα promoter in $\\mathrm { C D 4 ^ { + } }$ T cells of SLE patients to stimulate CREMα overexpression and result in the development of SLE. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: systemic lupus erythematosus; cAMP response element modulator $\\alpha ;$ CD4+ T cells; H3K27me3; JMJD3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "系统性红斑狼疮(SLE)是一种慢性自身免疫性疾病，涉及到多重致病机制[-2]。近年来，越来越多的研究证明了T细胞某些基因表观遗传学的改变在SLE的发病机制中起到了关键的作用[3-4。表观遗传学指的是不涉及DNA序列变化的稳定且可遗传的基因表达改变，其机制主要包括DNA甲基化，组蛋白修饰，非编码RNA调控,以及染色质重塑[5-6。而在这些表观遗传学调控机制中，作为基因沉默标志的组蛋白H3赖氨酸27三甲基化 $\\mathrm { ( H } 3 \\mathrm { K } 2 7 \\mathrm { m e } 3 \\mathrm { ) }$ )一直备受关注[6-7]。已知H3K27me3的水平由组蛋白去甲基化酶JMJD3[8-9] $\\mathrm { U T X } ^ { [ 1 0 - 1 1 ] }$ 和组蛋白甲基转移酶EZH2共同参与调控。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究发现cAMP反应元件调控因子 $\\alpha$ (CREMa)在SLE的发病机制中起到关键作用。CREMa水平在SLE患者的T细胞中显著升高，且CREMa启动子活性与SLE疾病活动指数(SLEDAI)呈正相关[13-15]。升高的CREMα可从多个方面促使SLE的发生与发展：首先，CREMa水平升高可导致IL-2减少，进而致使机体对细胞毒素反应的减弱，Treg细胞数目和功能的降低，以及活化诱导的细胞死亡(AICD)的缺陷[16-17];其次,CREMα水平升高还可导致IL-17A增加，而增加的IL-17A则会与多种趋化因子和细胞因子相互作用从而引发多重炎症反应[18]；IL-17A也能刺激B细胞增殖，从而产生更多的自身抗体[15,19-20];此外,CREMα的过表达能抑制 TCR/CD3ζ链的转录从而阻碍其终止T细胞反应，导致T细胞持续活化；它还能抑制转录因子c-fos、抗原提呈细胞分子CD86、Notch信号通路分子Notch-1等而参与SLE的发病[21-24]。那么SLE患者T细胞CREMα水平升高的原因又是什么呢？",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过染色质免疫沉淀(ChIP)微阵列，我们发现SLE患者 $\\mathrm { C D 4 } ^ { + }$ T细胞CREMa启动子区的 $\\mathrm { H } 3 \\mathrm { K } 2 7 \\mathrm { m e } 3$ 水平显著低于正常对照。以此为线索，我们进一步探讨SLE $\\mathrm { C D 4 ^ { + } }$ T细胞CREMa表达升高的原因，为揭示SLE的发病机制提供新的思路。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1资料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1研究对象",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "30名SLE患者来自中南大学湘雅二医院皮肤科门诊及住院部。所有的患者均符合1997年美国风湿协会制订的SLE诊断标准[25]。SLE患者相关的临床信息见表1。其中女性27例，男性3例，年龄 $2 0 { \\sim } 4 2 ( 2 8 . 5 6 7 \\pm$ 6.558)岁，SLEDAI评分 $0 { \\sim } 1 6 ( 7 . 5 6 7 { \\pm } 4 . 3 8 4 )$ 分。30名正常对照均为中南大学湘雅二医院健康职工和研究生。其中女性27例，男性3例;年龄 $2 0 { \\sim } 4 1 \\left( 2 7 . 1 3 3 \\pm \\right.$ 6.067)岁。患者及正常对照年龄性别均无统计学差异${ \\mathrm { \\ P { > } } } 0 . 0 5 { \\mathrm { ) } }$ ,并均签署了知情同意书。本次研究获得了中南大学湘雅二医院伦理委员会的批准。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2材料与试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "淋巴细胞分离液购自瑞典GEHealthcare公司;$\\mathrm { C D 4 ^ { + } }$ T细胞阳性分选试剂盒购自德国Miltenyi公司;ChIP试剂盒购自美国Millipore公司;TRIzol试剂购自美国Invitrogen公司； $\\operatorname { S Y B R } ^ { \\textregistered }$ Premix Ex TaqTM（Tli",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RNaseHPlus)和One Step SYBRPrimeScriptTMRT-PCR试剂盒购自日本Takara公司；抗H3K27me3抗体购自美国Millipore公司;抗JMJD3抗体、抗UTX抗体和抗EZH2抗体购自美国Abcam公司；PCR引物由上海铂尚生物有限公司合成。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 细胞分离 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "抽取实验对象外周静脉血 $6 0 ~ \\mathrm { m L }$ （用 $2 0 \\mathrm { U / m L }$ 肝素抗凝)，加入淋巴细胞分离液，采用密度梯度离心法分离外周血单个核细胞(PBMC)。所得PBMC加入PBS洗涤，随后使用免疫磁珠进行阳性分选获得 $\\mathrm { C D 4 } ^ { + }$ T细胞。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4 ChIP微阵列 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "使用 $1 \\%$ 的甲醛对5名SLE患者和5名年龄、性别均匹配的正常对照的 $\\mathrm { C D 4 } ^ { + }$ T细胞进行固定，随后使用裂解缓冲液对细胞进行裂解。SLE患者和正常对照细胞的裂解液分别进行混合，随后送至北京博奥生物有限公司。ChIP微阵列的质控、标记、杂交、扫描以及统计分析由博奥公司进行。抗H3K27me3抗体沉淀的DNA和总DNA(input)分别采用Cy5(红色)和Cy3(绿色)进行标记。标本随后杂交于微阵列板中，最后得到Cy3/Cy5比例图像。在这些图像中，不同的颜色强度代表各种基因启动子区相对的 $\\mathrm { H } 3 \\mathrm { K } 2 7 \\mathrm { m e } 3$ 水平。与正常对照CD4+T细胞相比，SLECD4+T细胞启动子区$\\mathrm { H } 3 \\mathrm { K } 2 7 \\mathrm { m e } 3$ 水平增加至2倍以上或减少至0.5倍以下被认为具有显著意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5ChIP结合实时定量PCR ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "按照厂家说明书，采用ChIP试剂盒进行ChIP分析。简而言之, $\\mathrm { C D 4 ^ { + } }$ T细胞使用 $1 \\%$ 甲醛固定 $1 0 ~ \\mathrm { m i n }$ 随后使用裂解缓冲液进行裂解，并用超声波剪切细胞裂解液中的DNA，离心后取上清液。使用蛋白G琼脂糖珠去除非特异性背景后，加入抗体并在 $4 \\mathrm { { ^ { \\circ } C } }$ 中涡旋孵育过夜。次日，加入蛋白G琼脂糖珠并在 $4 \\mathrm { { ^ circ C } }$ 中涡旋孵育1h以结合免疫复合物。琼脂糖珠-DNA-蛋白复合物经清洗后，再使用洗脱缓冲液将DNA-蛋白复合物洗脱出来，置于 $6 5 ~ \\mathrm { { ^ { \\circ } C } }$ 中加热 $^ { 4 \\mathrm { h } }$ 以解除DNA和蛋白质之间的交联,随后将DNA进行纯化。使用SYBR?Premix ExTaqTM(TliRNaseHPlus)试剂盒，通过标准曲线相对定量法进行实时定量PCR检测DNA水平。具体方法如下：以获得的DNA为模板进行扩增，同时取一份DNA样本，将其对倍稀释成5个梯度作为标准品，2/4/8/16/32倍稀释，以此产生标准曲线用于计算每一份样本的相对浓度，同时以input作为内参照。目的蛋白结合的DNA浓度相对于inputDNA浓度的倍数即为相对定量的结果。所有实验重复3次。引物序列如下：CREMa启动子区上游引物:5'-TGGGGAGATAGAGGTTGCAG-3',下游引物5'-CGCCAGAAATCCAATGACTT-3'。反应条件为： $9 5 ^ { \\circ } \\mathrm { { \\sc ~ \\mathcal { C } } } , 3 0 \\mathrm { { \\ s } } ; 9 5 ^ { \\circ } \\mathrm { { \\sc ~ \\mathcal { C } } } , 1 0 \\mathrm { { \\ s } } , 6 0 \\mathrm { { \\ \\tau } } , 1 5 \\mathrm { { \\ s } } , 7 2 \\mathrm { { \\ \\tau } } , 2 0 \\mathrm { { \\ s } } ,$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/800753b49cbe06062321c60e81f817fed8f2d296950e6e3a385c62e1b0054f15.jpg",
+        "table_caption": [
+            "表1患者资料表Tab.1 Patient profiles"
+        ],
+        "table_footnote": [
+            "a:Prednisone;b:Hydroxychloroquine;c:Tripterygium glycoside. "
+        ],
+        "table_body": "<html><body><table><tr><td>Tatlertprones Patient</td><td>Gender</td><td>Age (year)</td><td>SLEDAI</td><td>Medications</td></tr><tr><td>1</td><td>Female</td><td>35</td><td>6</td><td>Pred' 30 mg/d</td></tr><tr><td>2</td><td>Female</td><td>34</td><td>7</td><td>None</td></tr><tr><td>3</td><td>Male</td><td>28</td><td>6</td><td>Pred 40 mg/d</td></tr><tr><td>4</td><td>Female</td><td>32</td><td>4</td><td>HCQb 0.2 g/d</td></tr><tr><td>5</td><td>Female</td><td>25</td><td>8</td><td>Pred 50 mg/d</td></tr><tr><td>6</td><td>Female</td><td>24</td><td>9</td><td>Pred 30 mg/d</td></tr><tr><td>7</td><td>Female</td><td>21</td><td>12</td><td>None</td></tr><tr><td>8</td><td>Female</td><td>23</td><td>8</td><td>Pred 30 mg/d</td></tr><tr><td>9</td><td>Female</td><td>25</td><td>15</td><td>Pred 50 mg/d</td></tr><tr><td>10</td><td>Female</td><td>29</td><td>3</td><td>None</td></tr><tr><td>11</td><td>Female</td><td>32</td><td>15</td><td>Pred 40 mg/d, TG 30 mg/d</td></tr><tr><td>12</td><td>Female</td><td>23</td><td>2</td><td>None</td></tr><tr><td>13</td><td>Female</td><td>20</td><td>3</td><td>Pred 5 mg/d</td></tr><tr><td>14</td><td>Female</td><td>22</td><td>10</td><td>Pred 30 mg/d,TG 30 mg/d</td></tr><tr><td>15</td><td>Female</td><td>25</td><td>0</td><td>None</td></tr><tr><td>16</td><td>Male</td><td>40</td><td>10</td><td>Pred 40 mg/d, HCQ 0.2 g/d</td></tr><tr><td>17</td><td>Female</td><td>42</td><td>14</td><td>Pred 40 mg/d,TG 30 mg/d</td></tr><tr><td>18</td><td>Female</td><td>26</td><td>2</td><td>HCQ 0.2 g/d</td></tr><tr><td>19</td><td>Female</td><td>20</td><td>8</td><td>None</td></tr><tr><td>20</td><td>Female</td><td>35</td><td>12</td><td>Pred 35 mg/d, HCQ 0.2 g/d</td></tr><tr><td>21</td><td>Female</td><td>37</td><td>16</td><td>Pred 50 mg/d, TG 30 mg/d</td></tr><tr><td>22</td><td>Female</td><td>26</td><td>10</td><td>Pred 40 mg/d</td></tr><tr><td>23</td><td>Female</td><td>24</td><td>8</td><td>Pred 40 mg/d</td></tr><tr><td>24</td><td>Female</td><td>28</td><td>4</td><td>None</td></tr><tr><td>25</td><td>Female</td><td>29</td><td>5</td><td>TG 30 mg/d</td></tr><tr><td>26</td><td>Female</td><td>34</td><td>8</td><td>None</td></tr><tr><td>27</td><td>Male</td><td>37</td><td>12</td><td>Pred 40 mg/d</td></tr><tr><td>28</td><td>Female</td><td>20</td><td>2</td><td>HCQ 0.2 g/d</td></tr><tr><td>29</td><td>Female</td><td>22</td><td>4</td><td>Pred 30 mg/d</td></tr><tr><td>30</td><td>Female</td><td>39</td><td>4</td><td>Pred 30 mg/d</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "共40次循环。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.6RNA抽提与实时定量一步法RT-PCR ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "按照厂家说明书，采用TRIzol对分离的 $\\mathrm { C D 4 ^ { + } }$ T细胞总RNA进行抽提，紫外/可见光分光光度计测定总RNA浓度及 $\\mathrm { A } _ { 2 6 0 } / \\mathrm { A } _ { 2 8 0 }$ 比值。 $\\mathrm { A } _ { 2 6 0 } / \\mathrm { A } _ { 2 8 0 }$ 比值均在 $1 . 8 { \\sim } 2 . 0$ 之间。所得RNA分装冻存于 $- 8 0 \\mathrm { { ^ { \\circ } C } }$ 中。使用One Step",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SYBRPrimeScriptTMRT-PCR试剂盒,通过标准曲线相对定量法进行实时定量一步法RT-PCR检测mRNA水平。方法与前述的实时定量PCR类似，以 $\\mathrm { C D 4 } ^ { + }$ T细胞的RNA为模板，同时扩增 $\\beta$ -actin作为内参照。同一标本目的基因的浓度相对于其β-actin的浓度的倍数即为相对定量的结果。所有实验重复3次。引物序列如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CREMa上游引物 $5 \"$ -GAAACAGTTGAATCCCAGCATGATGGAAGT-3',下游引物 $5 ! .$ TGCCCCGTGCTAGTCTGATATATG-3'; $\\beta \\mathrm { . }$ -actin上游引物5'-CGCGAGAAGATTGACCCAGAT-3',下游引物 $5 ^ { \\prime }$ -GCACTGTGTTGGCGTACAGG-3'。反应条件为： $4 2 { \\^ { \\circ } C } , 5 { \\mathrm { ~ m i n } } ; 9 5 { \\^ { \\circ } C } , 1 0 { \\mathrm { ~ s ~ } }$ $9 5 \\ \\mathrm { ^ { \\circ } C } , 1 0 \\ \\mathrm { s } , 6 0 \\ \\mathrm { ^ { \\circ } C } , 2 0 \\ \\mathrm { s }$ ，共40次循环。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.7统计分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用SPSS16.0forwindows统计软件储存和分析数据。计量资料以均数 $\\boxdot$ 标准差表示。两组独立样本均数之间进行比较采用两样本 $t$ 检验，部分实验指标间作单因素直线相关分析，计算Pearson相关系数。 $P { < } 0 . 0 5$ 认为差异有统计学意义。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1ChIP微阵列结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在ChIP微阵列中，共筛查了20832个不同的基因启动子，其中552个基因启动子区 $\\mathrm { H } 3 \\mathrm { K } 2 7 \\mathrm { m e } 3$ 水平在两组中差异达到2倍以上。在这些基因中，SLE $\\mathrm { C D 4 ^ { + } T }$ 细胞CREMa启动子区 $\\mathrm { H } 3 \\mathrm { K } 2 7 \\mathrm { m e } 3$ 水平是正常对照$\\mathrm { C D 4 ^ { + } }$ T细胞的0.23倍。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2ChIP微阵列结果验证 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了证实ChIP微阵列的结果，我们采用ChIP结合实时定量PCR检测了30名正常对照和30名SLE患者的 $\\mathrm { C D 4 } ^ { + }$ T细胞CREMa启动子区 $\\mathrm { H } 3 \\mathrm { K } 2 7 \\mathrm { m e } 3$ 的水平。相对于正常对照，SLE患者 $\\mathrm { C D 4 } ^ { + }$ T细胞CREMa启动子区 $\\mathrm { H } 3 \\mathrm { K } 2 7 \\mathrm { m e } 3$ 水平显著降低（正常对照vs SLE患者：$2 . 7 2 3 { \\scriptstyle \\pm 0 . 6 5 9 }$ vS $0 . 4 8 9 { \\scriptstyle \\pm 0 . 1 4 6 }$ $\\scriptstyle P < 0 . 0 0 1 .$ ），这与我们的ChIP微阵列结果相符。我们进一步检测了SLE患者$\\mathrm { C D 4 } ^ { + }$ T细胞CREMamRNA水平，结果证实了在SLE患者的 $\\mathrm { C D 4 ^ { + } }$ T细胞中，CREMa启动子区的H3K27me3与其mRNA水平呈负相关 $\\stackrel { \\prime } { r } { = } - 0 . 7 9 6 , P { < } 0 . 0 0 1$ ，图1)。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/60bb1f6e7bd6577c7cc6d96a75fc52530d659cc33bf3e14669866bb938a48a87.jpg",
+        "img_caption": [
+            "图1 SLE $\\mathrm { C D 4 } ^ { + }$ T细胞CREMa启动子区H3K27me3的水平 与CREMamRNA表达的相关 Fig.1 Correlation between $\\mathrm { H } 3 \\mathrm { K } 2 7 \\mathrm { m e } 3$ enrichment within the CREMα promoter in SLE $\\mathrm { C D 4 } ^ { + }$ T cells and the levels of CREMa mRNA. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 SLE患者和正常对照 $\\mathrm { C D 4 ^ { + } }$ T细胞CREMa启动子区JMJD3、UTX和EZH2水平",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ChIP结合实时定量PCR结果显示，相对于正常对照，SLE患者 $\\mathrm { C D 4 ^ { + } }$ T细胞CREMa启动子区JMJD3水平明显增加( $\\scriptstyle \\cdot - 0 . 0 0 1$ ，图2A)。且在SLE患者的 $\\mathrm { C D 4 } ^ { + }$ T细胞中，此区域的JMJD3水平与 $\\mathrm { H } 3 \\mathrm { K } 2 7 \\mathrm { m e } 3$ 呈负相关$( r = - 0 . 8 0 3 , P { < } 0 . 0 0 1$ ,图2B),而与CREMαmRNA水平呈正相关 $( r { = } 0 . 6 9 7 , P { < } 0 . 0 0 1$ ,图2C)。然而,SLE患者和正常对照 $\\mathrm { C D 4 ^ { + } T }$ 细胞的CREMa启动子区UTX( $P =$ 0.172)及EZH2( $_ { P = 0 . 2 8 1 }$ )水平并无明显差异(图2A)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SLE患者发生自身免疫的关键在于 $\\mathrm { C D 4 ^ { + } T }$ 细胞过度活化，进而刺激B细胞，结果导致各种自身抗体过度产生。而 $\\mathrm { C D 4 ^ { + } T }$ 细胞某些免疫相关基因启动子区的表观遗传学改变则是 $\\mathrm { C D 4 ^ { + } }$ T细胞过度活化的重要原因。但目前的研究大多集中于DNA甲基化上[26-27],而对SLE $\\mathrm { C D 4 ^ { + } }$ T细胞组蛋白修饰的探讨则非常有限。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "已知 $\\mathrm { H } 3 \\mathrm { K } 2 7 \\mathrm { m e } 3$ 能抑制基因的转录。它可与PRC1中的Pc蛋白结合，从而募集PRC1到染色质。PRC1可阻断转录活化因子及染色质重塑因子与DNA结合，并阻碍RNA聚合酶ⅡI发动的转录；此外，PRC1还能与组蛋白去乙酰化酶相联，后者能抑制基因的转录;而且，PRC1和 $\\mathrm { H } 3 \\mathrm { K } 2 7 \\mathrm { m e } 3$ 还能阻碍正性活化标志，例如H3K4的甲基化[28-29]。因此, $\\mathrm { H } 3 \\mathrm { K } 2 7 \\mathrm { m e } 3$ 一直是表观遗传学的研究热点之一。为了探讨SLE患者 $\\mathrm { C D 4 ^ { + } }$ T细胞的基因启动子区 $\\mathrm { H } 3 \\mathrm { K } 2 7 \\mathrm { m e } 3$ 水平与正常对照有无差异，我们通过ChIP微阵列对正常对照和SLE患者的 $\\mathrm { C D 4 ^ { + } T }$ 细胞各种基因启动子区的 $\\mathrm { H } 3 \\mathrm { K } 2 7 \\mathrm { m e } 3$ 水平进行了检测和筛选，结果我们发现，SLE患者 $\\mathrm { C D 4 ^ { + } }$ T细胞CREMα启动子区 $\\mathrm { H } 3 \\mathrm { K } 2 7 \\mathrm { m e } 3$ 的水平较低，这与SLE患者 $\\mathrm { C D 4 ^ { + } T }$ 细胞CREMα表达水平升高正相吻合。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "近年来，CREMa在SLE中所起到的作用已得到了充分的研究和验证，然而，引起SLET细胞CREMa增加的分子机制至今仍不清楚。ChIP微阵列的结果提示了我们，可能正是由于SLE患者 $\\mathrm { C D 4 ^ { + } }$ T细胞CREMa启动子区 $\\mathrm { H } 3 \\mathrm { K } 2 7 \\mathrm { m e } 3$ 水平降低导致了CREMα水平升高。为此，我们首先通过ChIP结合实时定量PCR对ChIP微阵列的结果进行了验证，结果正如所料，SLE患者 $\\mathrm { C D 4 ^ { + } T }$ 细胞CREMa启动子区 $\\mathrm { H } 3 \\mathrm { K } 2 7 \\mathrm { m e } 3$ 的水平显著低于正常对照。而且，我们发现H3K27me3与CREMαmRNA的水平呈负相关。这些结果表明SLE患者 $\\mathrm { C D 4 } ^ { + }$ T细胞CREMα水平升高的原因可能是因为其启动子区$\\mathrm { H } 3 \\mathrm { K } 2 7 \\mathrm { m e } 3$ 水平较低所致。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "那么，SLE患者 $\\mathrm { C D 4 } ^ { + }$ T细胞CREMa启动子区$\\mathrm { H } 3 \\mathrm { K } 2 7 \\mathrm { m e } 3$ 水平降低的原因又是什么呢？前文已述，$\\mathrm { H } 3 \\mathrm { K } 2 7 \\mathrm { m e } 3$ 的水平由组蛋白去甲基化酶JMJD3、UTX和组蛋白甲基转移酶EZH2共同参与调控。于是我们采用ChIP结合实时定量PCR对这3种H3K27甲基化调控酶在CREMa启动子区的表达进行了检测，结果发现SLE患者 $\\mathrm { C D 4 ^ { + } }$ T细胞CREMa启动子区JMJD3显著增加，且JMJD3与 $\\mathrm { H } 3 \\mathrm { K } 2 7 \\mathrm { m e } 3$ 水平呈负相关，而与CREMαmRNA水平呈正相关。然而，SLE患者和正常对照 $\\mathrm { C D 4 ^ { + } T }$ 细胞CREMa启动子区的UTX及EZH2水平无明显差异。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ee62c3341ec31d73134700afb55b6b8d8c7738e0a947d27ad867d602c2aa4d1d.jpg",
+        "img_caption": [
+            "图2正常对照和SLE $\\mathrm { C D 4 } ^ { + }$ T细胞CREMa启动子区JMJD3、UTX和EZHZ的水平及JMJD3与H3K27me3、CREMa水平的相关"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综合上述结果，我们的研究提示SLE患者 $\\mathrm { C D 4 ^ { + } T }$ 细胞CREMa启动子区JMJD3增加，这可导致此区域$\\mathrm { H } 3 \\mathrm { K } 2 7 \\mathrm { m e } 3$ 水平下降,从而促使CREMα增多，这一改变可能是引起SLE发病的重要机制之一。本研究为SLE的发病机理提供了新的理论依据，并为SLE的治疗提供了潜在的治疗靶点。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/13dbdf86dc5ebfb1e536f4948df7acf0be6c79b4c73fb631d075e641b441ced7.jpg",
+        "img_caption": [
+            "Fig.2 Levels of JMJD3,UTX and EZH2 binding within the CREMα promoter region in $\\mathrm { C D 4 } ^ { + }$ T cells from healthy controls and SLE patients and the correlations of JMJD3 with H3K27me3 and CREMα.A:Relative levels of JMJD3,UTX,and EZH2 within the HPK1 promoter region in healthy and SLE $\\mathrm { C D 4 ^ { + } }$ T cells.B:Correlation between JMJD3 promoter binding and H3K27me3 level in SLE $\\mathrm { C D 4 } ^ { + }$ T cells.C:Correlation between JMJD3 promoter binding and CREMα mRNA level in SLE $\\mathrm { C D 4 ^ { + } }$ T cells. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "前文已述，H3K27me3能阻碍正性活化标志H3K4的甲基化。有趣的是，我们团队已证实了SLE患者$\\mathrm { C D 4 } ^ { + }$ T细胞CREMa启动子区H3K4me3的水平明显高于正常对照30。而本次试验中,我们又发现SLE $\\mathrm { C D 4 ^ { + } T }$ 细胞CREMa启动子区 $\\mathrm { H } 3 \\mathrm { K } 2 7 \\mathrm { m e } 3$ 水平显著降低,这就使得我们联想到这二者之间是否有因果关系，还是相互独立的事件？还有待进一步的研究。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Moulton VR,Holcomb DR,Zajdel MC,et al. Estrogen upregulates cyclic AMP response element modulator alpha expression and ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "downregulates interleukin-2 production by human T lymphocytes [J].Mol Med,2012,18: 370-8.   \n[2]Tenbrock K,Kyttaris VC,Ahlmann M,et al. The cyclic AMP response element modulator regulates transcription of the TCR zetachain[J].JImmunol,2005,175(9): 5975-80.   \n[3]Hewagama A,Richardson B. The genetics and epigenetics of autoimmune diseases [J].JAutoimmun,20o9,33(1): 3-11.   \n[4]Pan Y, Sawalha AH. Epigenetic regulation and the pathogenesis of systemic lupus erythematosus [J].Transl Res,20o9,153(1):4-10.   \n[5]Brooks WH,Le Dantec C,Pers JO,et al. Epigenetics and autoimmunity[J].JAutoimmun,2010,34(3): J207-19.   \n[6]Zhang Q，Long H,Liao J，et al.Inhibited expression of hematopoietic progenitor kinase 1 associated with loss of jumonji domain containing 3 promoter binding contributes to autoimmunity in systemic lupus erythematosus [J].J Autoimmun,2011,37(3): 180-9.   \n[7] Zhang P, Su Y,Lu Q. Epigenetics and psoriasis [J].J Eur Acad Dermatol Venereol,2012,26(4): 399-403.   \n[8]Hong S,Cho YW,Yu LR,et al. Identification of JmjC domaincontainingUTX and JMJD3 as histone H3 lysine 27 demethylases [J].Proc Natl Acad Sci USA,2007,104(47): 18439-44.   \n[9]De Santa F, Totaro MG,Prosperini E,et al. The histone H3 lysine27demethylase Jmjd3 links inflammation to inhibitionof polycomb-mediated gene silencing[J].Cell,2007,130(6): 1083-94.   \n[10]Banka S,Lederer D,Benoit V,et al.Novel KDM6A (UTX) mutations and a clinical and molecular review of the X-linked Kabuki syndrome (KS2)[J].Clin Genet,2015,87(3): 252-8. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[11] Choi HJ,Park JH,Park M,et al.UTX inhibits EMT-induced breast ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CSC properties by epigenetic repression of EMT genes in cooperation with LSD1 and HDAC1[J].EMBO Rep,2015,16(10): 1288-98.   \n[12]Fujii S,Ito K, Ito Y, et al. Enhancer of zeste homologue 2 (EZH2) down-regulates RUNX3 by increasing histone H3 methylation [J]. J Biol Chem,2008,283(25): 17324-32.   \n[13]Hedrich CM,Rauen T,Kis-Toth K,et al.cAMP-responsive element modulatoralpha (CREMalpha） suppressesIL-17Fprotein expression in T lymphocytes from patients with systemic lupus erythematosus (SLE)[J].JBiol Chem,2012,287(7): 4715-25.   \n[14]Hedrich CM, Crispin JC,Rauen T,et al.cAMP response element modulator alpha controls IL2 and IL17A expression during CD4 lineage commitment and subset distribution in lupus ［J]. Proc Natl Acad Sci USA,2012,109(41): 16606-11.   \n[15]Rauen T,Hedrich CM,Juang YT, et al. cAMP-responsive element modulator(CREM）alpha protein inducesinterleukin 17A expression and mediates epigenetic alterations at the interleukin17A gene locus in patients with systemic lupus erythematosus [J].J Biol Chem,2011,286(50): 43437-46.   \n[16]Ohl K,Wiener A,Schippers A,et al.Interleukin- 2 treatment reverses effects of cAMP-responsive element modulator alpha-overexpressing T cells in autoimmune-prone mice [J]. Clin Exp Immunol,2015,181(1): 76-86.   \n[17] Gomez-Martin D,Diaz-Zamudio M, Crispin JC,et al. Interleukin 2 and systemic lupus erythematosus: beyond the transcriptional regulatory net abnormalities [J].Autoimmun Rev,2009,9(1): 34-9.   \n[18]Koga T, Hedrich CM, Mizui M, et al. CaMK4-dependent activation ofAKT/mTORandCREM-alphaunderliesautoimmunityassociated Th17 imbalance [J].J Clin Invest,2014,124(5):2234- 45.   \n[19]Crispin JC, Tsokos GC.IL-17 in systemic lupus erythematosus [J]. J Biomed Biotechnol, 2010,2010: 943254.   \n[20]Nalbandian A,Crispin JC,Tsokos GC.Interleukin-17 and systemic lupus erythematosus: current concepts [J].Clin Exp Immunol, 2009,157(2): 209-15.   \n[21] Tenbrock K,Juang YT,Leukert N,et al. The transcriptional repressor cAMP response element modulator alpha interacts with histone deacetylase 1 to repress promoter activity[J].JImmunol, 2006,177 (9): 6159-64.   \n[22]Rauen T, Grammatikos AP, Hedrich CM, et al.cAMP-responsive element modulator alpha (CREMalpha） contributes to decreased Notch-1 expression in T cells from patients with active systemic lupus erythematosus (SLE)[J].JBiol Chem,2012,287(51): 42525- 32.   \n[23] Verjans E,Ohl K,Yu Y, et al. Overexpression of CREMalpha in T cells aggravates lipopolysaccharide-induced acute lung injury [J].J Immunol,2013,191(3): 1316-23.   \n[24]Lippe R,Ohl K,Varga G, et al. CREMalpha overexpression decreases IL-2 production, induces a T(H)17 phenotype and accelerates autoimmunity[J].JMol Cell Biol,2012,4(2): 121-3.   \n[25]Hochberg MC.Updating the American College of Rheumatology revisedcriteriafortheclassificationofsystemiclupus erythematosus [J].Arthritis Rheum,1997,40(9):1725.   \n[26] Zhao M,Sun Y,Gao F,et al.Epigenetics and SLE:RFX1 downregulation causes CD1la and CD70 overexpression by altering epigenetic modifications in lupus CD4+T cells [J].J Autoimmun,2010,35(1): 58-69.   \n[27] Lu Q,Wu A, Tesmer L,et al.Demethylation of CD40LG on the inactive X in T cells from women with lupus [J].JImmunol,2007, 179(9): 6352-8.   \n[28]Lund AH,van Lohuizen M. Polycomb complexes and silencing mechanisms [J].Curr Opin Cell Biol,2004,16(3): 239-46.   \n[29]Kondo Y, Shen L,Cheng AS,et al. Gene silencing in cancer by histone H3 lysine 27 trimethylation independent of promoter DNA methylation [J].Nat Genet,2008,40(6): 741-50.   \n[30] Zhang Q, Ding S, Zhang H, et al. Increased Setl binding at the promoter induces aberrant epigenetic alterations and up-regulates cyclic adenosine $5 \" .$ ·monophosphate response element modulator alpha in systemic lupus erythematosus [J]. Clin Epigenetics,2016, 8: 126. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(编辑：吴锦雅）",
+        "page_idx": 5
+    }
+]

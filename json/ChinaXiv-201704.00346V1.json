@@ -1,0 +1,357 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201409281913 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘世增,李昌龙，纪永福，胡生新，李得禄，唐卫东，柴成武.甘肃省民勤连古城自然保护区沙木蓼种群的结构与动态.生态学报,2017,37（8)：2763-2769.  \nLiuSZ,LiCL,,,D,TagiCrcuredoftraisbctetloineReserve，Gansu.Acta Ecologica Sinica,2017,37(8）:2763-2769.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "甘肃省民勤连古城自然保护区沙木蓼种群的结构与动态",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘世增1,2,3，李昌龙1,2,3,\\*，纪永福1,2.3，胡生新4，李得禄1,2,3，唐卫东1,2,3， 柴成武1,2,3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1甘肃省荒漠化与风沙灾害防治国家重点实验室，武威733000  \n2甘肃民勤荒漠草地生态系统国家野外科学观测研究站，民勤733300  \n3甘肃省治沙研究所，兰州730070  \n4甘肃民勤连古城国家级自然保护局，民勤733300",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要;根据甘肃省民勤连古城自然保护区沙木蓼种群的生境和植被差异,分别选择低山剥蚀残丘覆沙地(生境I)和山前倾斜洪积扇沙地,有小型风积沙丘(生境I)和无风积沙丘(生境II)3种生境类型样地，对其种群的发育状况、年龄结构、静态生命曲线与分布格局进行了研究,揭示沙木蓼种群动态规律并评价其在构建荒漠植被方面的价值，为科学合理地管护和持续利用沙木蓼种质资源提供科学依据。研究结果表明,1)沙木蓼苗龄级、幼龄级、成熟龄级和老龄级种群密度大小顺序为生境 $\\mathbb { I } >$ 生境I>生境Ⅱ,而3种生境中同龄级种群在株高、冠幅、新梢生长量方面差异不显著;2)苗龄级种群在3种生境下都占据了较大的优势地位,对沙木蓼种群的更新具有积极作用。生境I和Ⅲ的幼龄级和成熟龄级的年龄结构为连续增长型,老龄级为独立的增长型,种群具有较大的发展空间。而生境Ⅱ的幼龄级和成熟龄级种群的年龄结构为连续的稳定型,老龄级种群为稳定型,种群结构比较稳定。3)种群 $l x , d x$ 和 $q x$ 曲线在苗龄级、幼龄级和成熟龄级阶段具有相同的变化趋势,其中苗龄级种群向幼龄级种群转变过程中均呈下降趋势,幼龄级和成熟级种群发育过程中基本保持平稳,但在老龄级种群阶段3种曲线变化趋势的差异性较大,其中生境I和Ⅲ种群产生重叠,沙木蓼种群的死亡高峰主要发生在苗龄级和老龄级阶段,具有前期增长,中期稳定,后期衰退的一般规律。4)沙木蓼苗龄级、幼龄级和成熟级种群的分布格局均为聚集分布,而老龄级种群为随机分布。以上分析表明,3种生境下沙木蓼种群更新能力旺盛,种群结构趋于合理,生境差异(风沙流活动)只对土壤种子库、种子萌发和幼苗保存具有显著影响,对其它龄级种群发育没有显著影响,在荒漠植被演变中表现出较强的适应能力和优越性,因此沙木蓼在荒漠植被恢复和重建中具有重要的利用价值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：沙木蓼；年龄结构；静态生命曲线；种群动态 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Structure and dynamics of Atraphaxis bracteata populations in Minqin Liangucheng Nature Reserve， Gansu ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIUShizeng1,2.3，LI Changlong1,2,3,\\*，JI Yongfu1,2,3，HUShengxin $^ 4$ ，LIDelu $^ { 1 , 2 , 3 }$ ， TANG Weidong1,2.3, CHAI Chengwu1,2,3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1StateKeyLaboratory of Desertificationand Aeolian SandDisasterCombating，Wuwei 733Ooo,China   \n2GansuMinqinationalFieldObservationndResearchtationnEcosystemofDesertificationRangeland,Minqin33,Cina   \n3Gansu Desert Control and Research Institute,Lanzhou 73oO7O,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4Gansu Minqin Liangucheng NatureReserve,Minqin 7333Oo,China ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The MinqinLiangucheng NatureReservehas diferent typesof habitatsandvegetationsof Atraphaxisbracteata populations.Inthisstudy,threetypesofhabitats，i.e.,thelowdenudedhillcoveredbygravel（habitatI）,tiltedalluvial fans withsmallaeoliansanddunes（habitat II），and tiltedaluvialfans withoutaeoliansand dunes（habitat I），were selected to compare the development status，age structure，static life curve，and distribution pattrn of $A$ . bracteata populations atthisreservetoreveal theirsuccesiondynamics，assess theirecologicalvalue，and provide thescientific knowledge for their rational managementandsustainable usage.We found that（1）the population densitiesof young, mature，and old seedlings of $A$ . bracteata were the highest at habitat I,followed by those at habitats II and III.However, there wereno significant diferences inthe average height，average crown width，andnew shoot growth among the same age groupsatthe threepopulation habitats.（2）The seedlingsof allages dominated positionatthe threehabitatsand playeda vital role on the propagation of $A$ . bracteata.The age structures of young and mature populations at habitats I and II showed continuous growth curves，but thatof theold population showed a singlegrowth curve，suggesting that A.bracteata populations at these habitats were developing.The age structures of young and mature populations at habitat $\\mathrm { I I }$ showed continuous stable growth curves，but that of old population showed a single stable curve，indicating that $A$ .bracteata populations at this habitat were stable.（3） The $l x$ ， $d x$ ，and $q x$ curves of seedlings and young and mature populations at the three habitats showed similar change trends.These curves showed decreasing trends from seedling age stage to young age stage，and then stabilized in the youngand mature agestages，whereas thecurvesof oldage grade were significantly different，and the populations overlapped between habitats $\\mathrm { I I I }$ and I. This suggested that seedlings and older $A$ . bracteata populations showed peak mortality，and there wasageneral pattern of growth attheearlier stage，which stabilized at the middle stageand then decreasedat the later stage.（4）The distribution paternsofseedlingsand youngand mature populations were clump，whereas those for old populationswere Poison.Theresults indicated that the A.bracteata populationsatthe three habitatspropagated vigorouslyandshowedrelativelyoptimal structure.Theenvironmentaldifference among the three habitatsonly had significant impactson soil seed bank，seed germination，and seedling preservation,but notonpopulation development.These findings suggested thatA.bracteata has strong adaptabilityand dominance in desert areas and can be restored and reconstructed. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words: Atraphaxis bracteata ；age structure； static life curve；population dynamics",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "沙木蓼(Atraphaxis bracteata A.Los.)是蓼科木蓼属的荒漠旱生灌木,分布于我国内蒙古及甘肃的西部,为鄂尔多斯和阿拉善的特有种,在甘肃省民勤连古城自然保护区花儿园保护站内呈岛屿状分布。沙木蓼是我国荒漠地区优良的沙旱生植物资源之一,具有耐旱,抗寒,抗风蚀、耐沙埋的优良特性,它以特化的形态适应严酷的荒漠环境。近年来,由于人为因素和环境因素的综合影响,民勤连古城自然保护区荒漠化草场植被逐渐衰败,导致物种多样性减小,植被盖度下降[1]。以沙木蓼为建群种的草场由于过度放牧和生境恶化而导致植被退化,进一步影响沙木蓼种群的生长发育,所以有必要对连古城自然保护区花儿园保护站沙木蓼种群的结构和动态作进一步深人研究，揭示其种群动态规律，为更加科学合理地管护和持续利用沙木蓼种质资源提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "民勤连古城自然保护区地处阿拉善荒漠区的西南部,植被的组成成分以被子植物为主,且北温带分布种类多。植物区系起源古老,有白刺属（Nitraria）、裸果木属（Gymnocarpos）、麻黄属（Ephedra）、霸王柴属（Zygophyllum）绵刺属（Potaninia）、红砂属（Reaumuria)等古老属植物,它们以不同的方式适应干旱荒漠气候,成为干旱荒漠地区的优势种。保护区的植物区系受到多方面的深刻影响和渗透,形成以下区系成分：世界",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "分布成分、北极区系成分、古北极区系成分、古东北极区系成分、古地中海区系成分、亚洲中部区系成分、达乌里—蒙古区系成分、蒙古区系成分、戈壁-蒙古区系成分、东亚区系成分[2-3]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验区海拔 $1 ~ 1 8 0 { - } 1 ~ 5 0 0 ~ \\mathrm { m }$ ,北纬 $3 8 ^ { \\circ } ~ 0 5 ^ { \\prime } \\mathrm { - } 3 9 ^ { \\circ } ~ 0 6 ^ { \\prime }$ ,东经 $1 0 3 ^ { \\circ } ~ 0 2 ^ { \\prime } { \\mathrm { - } } 1 0 4 ^ { \\circ } ~ 0 2 ^ { \\prime }$ 。水热状况为典型的温带大陆性极干旱气候类型,气候特征表现为常年干旱,雨量少而集中,蒸发强烈,寒冬长,热夏短,昼夜温差悬殊，日照充足,多风。本区年均温度 $7 . 4 \\mathrm { { ^ { \\circ } C } }$ ,极端最高气温为 $3 8 . 1 ~ \\mathrm { { ^ { q } C } }$ ,极端最低气温是- $2 8 . 8 \\mathrm { ~ \\% ~ } , \\geq 1 \\mathrm { ~ 0 ~ \\% ~ }$ 积温为3$2 4 8 . 8 \\mathrm { ~ \\textdegree C }$ 。年均降水量 $1 1 3 ~ \\mathrm { m m }$ ,主要集中在7、8、9三个月，占年均降雨量的 $7 3 \\%$ 。年均蒸发量 $2 \\ 6 4 4 \\ \\mathrm { m m }$ ,年日照时数 $2 ~ 8 3 2 . 1 ~ \\mathrm { h }$ 。年平均风速 $2 . 3 ~ \\mathrm { m / s }$ ,以西北风、西北偏西风为主,全年平均 $5 9 \\mathrm { ~ d ~ }$ 为扬沙，27d为沙尘暴。土壤以风沙土为主,面积 $1 9 6 \\ 9 5 8 \\ \\mathrm { h m } ^ { 2 }$ ,占全区总面积的 $5 0 . 5 2 \\%$ ,由风积沙性母质发育而成,其次为灰棕漠土，面积 $1 5 5 \\ 5 0 0 \\ \\mathrm { h m } ^ { 2 }$ ,占全区总面积的 $3 9 . 8 8 \\%$ ,主要分布在低山剥蚀残丘和山前倾斜洪积扇形地上[4]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1样方设置与种群调查",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在民勤连古城自然保护区花儿园保护站内 $( 3 8 ^ { \\circ } 5 8 ^ { \\prime } 3 6 ^ { \\prime \\prime } \\mathrm { N } , 1 0 2 ^ { \\circ } 5 5 ^ { \\prime } 2 2 ^ { \\prime \\prime } \\mathrm { E } )$ 沙木蓼群落样地,根据沙木蓼种群分布区地质地貌特征和植被特征,选取低山剥蚀残丘覆沙地(生境I)和山前倾斜洪积扇沙地,有小型风积沙丘(生境Ⅱ)和无风积沙丘(生境Ⅲ)3种种群生境类型(表1),在每个生境样地内随机设置8个面积为 $5 0 \\mathrm { m } ^ { 2 }$ 样方,进行每木调查,记录物种种类、数量、株高和冠幅。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/3bd036c3996e52f5b33fd9a8b40b25b64621a4ccbd9daf1a2e4798bbcb88681d.jpg",
+        "table_caption": [
+            "表1民勤连古城自然保护区沙木蓼种群的生境特征",
+            "Table 1 Habitatcharacteristicof Atraphaxis bracteata populations in Minqin Liangucheng Nature Reserve "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>种群生境Population habitat</td><td>生境I Habitat I</td><td>生境Ⅱ Habitat II</td><td>生境ⅢI Habitat III</td></tr><tr><td>经纬度Longitude and latitude</td><td>38°58'36\"N,102°55'22\"E</td><td>38°58'48\"N,102°56'19\"E</td><td>38°58'45\"N,102°56'12\"E</td></tr><tr><td>坡度 Stands slope/（°)</td><td>20-30</td><td><5</td><td><5</td></tr><tr><td>地貌特征Landscape</td><td>低山剥蚀残丘</td><td>山前倾斜洪积扇</td><td>山前倾斜洪积扇</td></tr><tr><td>地质特征 Geological characteristics</td><td>裸露基石,高15—20m</td><td>平坦沙地，沙丘高0.2—0.5m</td><td>平坦沙地</td></tr><tr><td>土壤特征 Soil characteristics</td><td>风沙土,覆沙层 20—40cm</td><td>灰棕漠土和风沙土</td><td>灰棕漠土</td></tr><tr><td>风积蚀特征 Wind erosion and aeolian</td><td>沙埋</td><td>风蚀与风积相间</td><td>风蚀</td></tr><tr><td>植被盖度Vegetation cover/%</td><td>16.02</td><td>13.13</td><td>21.70</td></tr><tr><td>物种数量 Species number</td><td>6</td><td>7</td><td>6</td></tr><tr><td>优势物种 Dominant species</td><td>沙木蓼,沙生针茅</td><td>沙木蓼,膜果麻黄</td><td>沙木蓼,沙生针茅</td></tr><tr><td>种群密度 Population density/m²</td><td>0.51</td><td>0.27</td><td>0.98</td></tr><tr><td>种群高度 Population height/cm</td><td>33.92</td><td>35.87</td><td>26.70</td></tr><tr><td>种群冠幅 Population width/cm²</td><td>1899.70</td><td>2571.73</td><td>1597.97</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2种群龄级划分方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "生态学上通常称荒漠植物为超旱生或强旱生植物,以矮化的木本、半木本或肉质植物为主，形成稀疏的灌木植物群落。荒漠灌木基部萌发枝较多,其年龄差异在植株高度上表现不明显,主要体现在灌丛冠幅方面，采用空间尺度代替时间尺度，用椭圆面积的计算公式 $C = 3 . 1 4 X Y / 4$ （式中 $X$ 和 $Y$ 分别为十字交叉法所测得的冠幅大小轴)计算荒漠灌木冠幅[4]。沙木蓼种群根据其灌丛的生长特性,分为以下几个龄级：冠幅 $\\leqslant 0 . 1 \\times 1 0 ^ { 3 } \\mathrm { c m } ^ { 2 }$ 为苗龄级,为一个统计单元;冠幅 $0 . 1 { - } 1 . 0 \\times 1 0 ^ { 3 } \\mathrm { c m } ^ { 2 }$ 为幼龄级,冠幅 $1 . 0 { - } 2 . 0 \\times 1 0 ^ { 3 } \\mathrm { c m } ^ { 2 }$ 为成熟龄级,幼龄级和成熟龄级以每 $0 . 2 \\times 1 0 ^ { 3 } \\mathrm { c m } ^ { 2 }$ 为一个统计单元,冠幅 ${ \\geqslant } 2 . 0 \\times 1 0 ^ { 3 } \\mathrm { c m } ^ { 2 }$ 为老龄级,每 $1 . 0 \\times 1 0 ^ { 3 } \\mathrm { c m } ^ { 2 }$ 为一个统计单元。统计样方内每个统计单元内的存活个体数,利用统计结果绘制种群的年龄结构图和静态生命曲线,分析沙木蓼种群在群落中的年龄结构和种群发展趋势。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3种群的分布格局",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用方差/均值比率法判断种群的分布格局,其原理是一个Poisson 分布的总体有方差 $V$ 与平均值 $\\mathbf { \\nabla } _ { m }$ 相",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "等的性质。当 $V / m = 1$ 时,种群 表现为Poisson型(随机型)分布,如果 $V / m$ 大于1时则为聚集分布,如果 $V / m$ 小于1时则为均匀分布[5.6]。调查方法同上。计算公式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV = \\sum _ { i = 1 } ^ { A } \\frac { \\left( n _ { i } - m \\right) ^ { 2 } } { A - 1 } , m = \\frac { 1 } { A } \\sum _ { i = 1 } ^ { A } n _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $n _ { i }$ 为沙木蓼种群的个体数， $A$ 为样方数。 $V / m$ 比值对1离差的显著程度用 $\\mathbf { \\chi } _ { t }$ 检验确定[10]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1沙木蓼种群的发育特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在植物生态学研究中,通常以种群密度、高度、冠幅、生长量等调查的实际数值来表示某一种群的发育特征,民勤连古城自然保护区花儿园保护站3种生境条件下沙木蓼种群的发育特征见表2。分析表明,3种生境条件下沙木蓼种群各个龄级的种群数量为类型Ⅲ $>$ 类型 $\\mathrm { ~ I ~ } >$ 类型Ⅱ，而同龄级植株在株高、植株冠幅、新稍生长量方面差异不显著,表明3种生境条件对沙木蓼种群生长的制约差异不显著,而对土壤种子萌发和幼苗保存率的制约性差异显著,是限制种群发育的关键因素。生境I中,种群数量大小为老龄级 $>$ 幼龄级 $>$ 苗龄级>成熟龄级,表明该种群比较古老,但种群自然更新能力相对较强;生境Ⅱ中苗龄级 $>$ 老龄级 $>$ 幼龄级 $>$ 成熟龄级,该种群相对比较古老,种群数量相对缺乏,更新能力相对较弱;生境Ⅲ中苗龄级 $>$ 幼龄级 $>$ 老龄级 $>$ 成熟龄级,该种群比较年轻,种群更新能力旺盛。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/1045c939ad7573e9a3be155e27a12294e69a4c730ba6afc3e1cbb002db1c4852.jpg",
+        "table_caption": [
+            "表2民勤连古城自然保护区沙木蓼种群的发育特征",
+            "lable 2Growth characteristic of Atraphaxis bracteata populations in Minqin Liangucheng Nature Reserv "
+        ],
+        "table_footnote": [
+            "列内比较,含有相同字母表示均值间差异不显著;反之,差异显著( $\\mathrm { \\cdot } \\mathrm { P } { < } 0 . 0 5 )$ "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">种群生境 Population habitat</td><td colspan=\"4\">苗龄级 Seedling age grade 平均高度/cm 平均冠幅/cm²</td><td colspan=\"4\">幼龄级Young age grade</td></tr><tr><td>种群数量/株 Population quantity</td><td>Average height</td><td>Average crown width</td><td>新梢长度/cm New shoot length</td><td>种群数量株 Population quantity</td><td>平均高度/cm Average height</td><td>平均冠幅/cm² Average crown width</td><td>新梢长度/cm New shoot length</td></tr><tr><td>生境IHabitat I</td><td>6.8±1.6a</td><td>6.5±0.9a</td><td>24.0±5.1a</td><td>3.8±0.9a</td><td>7.6±2.2b</td><td>21.2±1.9a</td><td>459.8±45.7a</td><td>11.6±0.7a</td></tr><tr><td>生境I Habitat Ⅱ</td><td>4.3±0.9a</td><td>6.7±0.8a</td><td>19.1±2.1a</td><td>3.0±0.6a</td><td>2.5±0.9a</td><td>22.2±4.5a</td><td>432.8±111.0a</td><td>11.5±2.7a</td></tr><tr><td>生境Ⅲ Habitat II</td><td>19.8±8.1b</td><td>5.3±1.8a</td><td>23.3±8.6a</td><td>3.0±1.1a</td><td>11.8±1.7c</td><td>17.2±0.9a</td><td>443.3±17.9a</td><td>15.6±0.9a</td></tr><tr><td rowspan=\"3\">种群生境 Population habitat</td><td colspan=\"5\">成熟龄级 Mature age grade</td><td colspan=\"3\">老龄级Old age grade</td></tr><tr><td>种群数量/株 Population quantity</td><td>Average height</td><td>平均高度/cm平均冠幅/cm² Average</td><td>新梢长度/cm New shoot</td><td>种群数量株 Population</td><td>平均高度/cm Average</td><td>平均冠幅/cm² Average</td><td>新梢长度/cm New shoot</td></tr><tr><td></td><td></td><td>crown width</td><td>length</td><td>quantity</td><td>height</td><td>crown width</td><td>length</td></tr><tr><td>生境IHabitat I 生境I Habitat II</td><td>4.1±1.5b</td><td>35.6±5.3a 34.5±7.3a</td><td>1406.9±189.9a</td><td>18.2±2.7a</td><td>9.1±1.4b</td><td>56.7±5.2a</td><td>4287.2±518.2a</td><td>31.6±3.3a</td></tr><tr><td></td><td>1.4±0.8a</td><td></td><td>1348.4±291.0a</td><td>23.1±5.5a</td><td>4.0±0.7a</td><td>65.9 ±5.1a</td><td>5825.0±801.0a</td><td>37.0±2.6a</td></tr><tr><td>生境ⅢHabitat II</td><td>6.4±1.3b</td><td>32.5±1.5a</td><td>1428.2±37.0a</td><td>25.5±1.6a</td><td>11.3±1.1b</td><td>55.8±2.3a</td><td>4545.8±462.6a</td><td>35.5±2.2a</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2沙木蓼种群的年龄结构",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以全部调查样方内所有种群数作为统计样本研究沙木蓼的种群结构，结果显示3种生境下其种群年龄结构差异显著（图1一图3）。生境I沙木蓼种群的年龄结构为增长型，其中苗龄级植株数量占绝对优势，说明在适宜环境条件下土壤种子萌发而发育为幼苗，为沙木蓼种群输入新鲜成分，而幼龄级和成熟龄级种群的年龄结构呈连续的增长型椎体，老龄级种群年龄结构同样呈增长型椎体，表明该生境条件下沙木蓼种群持续增长，每个龄级都有新鲜成分加入，种群结构逐渐趋于完善。而生境Ⅱ的沙木蓼种群年龄结构为稳定型，虽然苗龄级",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "自X)/pit uim AVA1VAIVM.V00 5 10 15 20 25 30 35 40 45 50 55株数Quantity",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "植株相对于其它龄级多,但幼龄级和成熟龄级种群的年龄结构为连续稳定型,老龄级种群年龄结构呈稳定型，而且每个龄级的种群数量相对较少，说明该生境条件下沙木蓼种群的结构保持稳定，对导致种群结构改变的任何因素具有较强的抵抗力。而生境Ⅱ中沙木蓼种群年龄结构为增长型,其中苗龄级植株大量发生,保障了该种群的更新发育,幼龄级和成熟龄级种群的年龄结构为连续增长型,老龄级种群年龄结构同样呈增长型，而且每个龄级单元种群数量远大于其它两个种群，说明该生境下沙木蓼种群处于健康发育阶段,每个龄级都有新鲜成分的加入，种群结构逐渐趋于稳定。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/88fb97ed770da2c560ac2ca09c47ff922ea956cc3d0e3184be3465b977aa7cac.jpg",
+        "img_caption": [
+            "图2生境类型Ⅱ沙木蓼种群的年龄结构"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c753a45903622fd949b606a539cd457d0562d0a311008600fe7de464f38d02b5.jpg",
+        "img_caption": [
+            "图3生境类型Ⅲ沙木蓼种群的年龄结构",
+            "Fig.3Age structure of A.bracteata population in habitat type III "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3沙木蓼种群的静态生命表",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图4一图6为3种生境条件下沙木蓼种群静态生命曲线，在苗龄级、幼龄级和成熟级种群 $l x , d x$ 和 $q x$ 曲线的变化趋势基本保持一致，其中苗龄级种群向幼龄级种群转变过程中3种曲线均呈下降趋势，幼龄级和成熟级种群发育过程中基本保持平稳，但在老龄级种群的$l x , d x$ 和 $q x$ 曲线差异性较大,其中生境I和Ⅲ产生重叠。苗龄级种群对环境胁迫的抵抗能力较差，导致种群具有较高的死亡率。而幼龄级和成熟林级种群对环境胁迫的抵抗性能逐渐加强，以及种群内对抗力较弱，种群保持了较高的保存率和较低的死亡率。而老龄级种群虽然对环境胁迫具有较强的抵抗力，但种群内部对环境资源的竞争力增强，导致种群保存率持续下降，死亡率持续上升，其中生境I和Ⅲ种群的这种表现比较显著,而生境Ⅱ种群的表现比较缓和。生境Ⅲ老龄级种群后期阶段 $( 8 . 0 { - } 1 0 . 0 \\times 1 0 ^ { 3 } \\mathrm { c m } ^ { 2 } ,$ )保持较高的保存率和降低的死亡率，主要是因为此阶段种群数量极度缺乏有关。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6b2cfdfcb1dba903a8f9bbd795efb6408d7add3f2941a64943a3af4d0580157.jpg",
+        "img_caption": [
+            "Fig.2Age structure of A.bracteata population in habitat type Ⅱ ",
+            "图4生境类型I沙木蓼种群的 $\\boldsymbol { { u } }$ = $d x$ ， $q x$ 曲线Fig.4Life curve of A.bracteata population in habitat type I$\\mathbf { \\Psi } _ { x } \\mathbf { \\Psi } _ { x }$ ：年龄等级组中值； $l x$ ：在 $\\mathbf { \\Psi } _ { x } $ 年龄开始的标准化存活数（以1为基数）； $d { \\boldsymbol { x } } : { \\boldsymbol { x } }$ 年龄间隔期 $\\scriptstyle ( { \\boldsymbol { x } } - { \\boldsymbol { x } } + 1 )$ 的标准化死亡数； $q x$ ：表示1个个体在该年龄间隔期开始时的死亡率，即 $q x = \\left( d x / l x \\right)$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4沙木蓼种群的分布格局",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用方差/均值比率法来判定沙木蓼种群的分布格局(表3),3种生境条件下的沙木蓼种群不同龄级的分布格局基本保持一致,苗龄级、幼龄级和成熟级种群为聚集分布，而老龄级种群为随机分布（除生境类型I的老龄级种群为聚集分布)。种群分布格局与种群的繁殖策略以及种群生物学特性有关,沙木蓼通过种子萌发途径进行种群扩散,土壤种子分布以母株为中心进行扩散,在环境条件适宜情况下种子萌发而发育成新的个体,所以苗龄级植株的分布格局均为聚集分布，其中生境类型Ⅲ苗龄级植株高度聚集分布,远远大于其它两种生境类型的种群。随着植株个体的发育,环境制约性加强,种群开始自疏而导致种群数量下降,其聚集分布程度逐渐降低。老龄级种群个体较大,由于环境制约性和密度制约性的综合影响,生境类型Ⅱ和Ⅲ的种群呈随机型分布，而生境类型1的种群仍然为聚集分布，但聚集程度大大降低。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e69e6526339c5b8ef50f20c7c6ffece0ff3fdf368804247e33aea64538caac86.jpg",
+        "img_caption": [
+            "图5生境类型Ⅱ沙木蓼种群的 $\\boldsymbol { { \\mathbf { \\mathit { \\varepsilon } } } } _ { L x }$ ， $d x$ ， $q x$ 曲线 Fig.5Life curve of A.bracteata population in habitat type Ⅱ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/31be5391e507ace01cf7c8cea32b22cc3e06ece34a2678852ae50e9fda62c42d.jpg",
+        "img_caption": [
+            "图6生境类型Ⅲ沙木蓼种群的 $\\scriptstyle { { \\cal { L } } } \\displaystyle { x }$ ， $d x$ ， $q x$ 曲线 Fig.6Life curve of A.bracteata population in habitat type III "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/b2ebd9e71010d37b308f6245ccb129e0a63e2e8560ea66b631fed258d45e3693.jpg",
+        "table_caption": [
+            "表3民勤连古城自然保护区沙木蓼种群的分布格局",
+            "Table 3 ： Distribution pattern of Atraphaxis bracteata populations in Minqin Liangucheng Nature Reserve "
+        ],
+        "table_footnote": [
+            "t检验 $* P { < } 0 . 0 5$ $* * P { < } 0 . 0 1$ ；格局： $\\mathrm { { P o i s s o n } = }$ 随机分布； ${ \\mathrm { C l u m p } } =$ 聚集分布； $\\mathrm { R a n d o m } =$ 均匀分布"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"3\">苗龄级 Seedling age grade</td><td colspan=\"3\">幼龄级 Young age grade</td><td colspan=\"3\">成熟龄级 Mature age grade</td><td colspan=\"3\">老龄级 Old age grade</td></tr><tr><td></td><td>生境I Habitat I</td><td>生境Ⅱ Habitat II </td><td>生境Ⅲ Habitat II</td><td>生境I Habitat I</td><td>生境Ⅱ Habitat I </td><td>生境Ⅲ Habitat II</td><td>生境I Habitat I</td><td>生境Ⅱ Habitat II</td><td>生境Ⅲ Habitat III</td><td>生境I Habitat I</td><td>生境Ⅱ Habitat I </td><td>生境Ⅲ Habitat II</td></tr><tr><td>V/m</td><td>3.08</td><td>1.46</td><td>26.73</td><td>4.83</td><td>2.51</td><td>2.09</td><td>4.46</td><td>4.14</td><td>2.15</td><td>1.61</td><td>1.00</td><td>0.86</td></tr><tr><td>V/m-1</td><td>2.08 **</td><td>0.46 *</td><td>25.73**</td><td>3.83**</td><td>1.51 *</td><td>1.09 *</td><td>3.46 **</td><td>3.14**</td><td>1.15 *</td><td>0.61*</td><td>0.00</td><td>-0.14</td></tr><tr><td>分布格局 Distribution pattern</td><td>Clump</td><td>Clump</td><td>Clump</td><td>Clump</td><td>Clump</td><td>Clump</td><td>Clump</td><td>Clump</td><td>Clump</td><td>Clump</td><td>Poisson</td><td>Poisson</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论与讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1在干旱荒漠地区，土壤水分是影响植物生存与发育的关键因素，而小区域范围内影响土壤水分的关键因子是物种间土壤水分的竞争关系和土壤的保水能力,特别是在种群的种子萌发期和幼苗期[18.21]。研究表明沙木蓼苗种群在3种生境下生长发育不存在显著性差异,但种群密度存在显著性差异。在种群生境Ⅰ和Ⅲ的群落中,深根性沙木蓼种群与多年生草本沙生针茅和浅根性矮小灌木猫头刺种群之间土壤水分竞争较弱。同时风沙流活动较弱,稳定性的沙面减少土壤水分蒸发,为沙木蓼种子的定居、萌发以及幼苗的生长创造了有利条件。而在生境Ⅱ中沙木蓼与共优物种膜果麻黄同为深根性的灌木物种,共同构成群落的共优物种,二者之间存在土壤水分竞争较为剧烈。而且在该生境下有小型风积沙丘存在，表明风沙流活动比较剧烈,加速了浅层土壤水分蒸发和种子扩散[19],限制了种子萌发和幼苗保存[20]。可见物种间土壤水分竞争关系和风沙流活动是影响沙木蓼种群密度差异的主要原因。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2基株的出生与死亡进程影响基株种群大小和基因组成[10],沙木蓼苗龄级种群在3种生境下都占据了较大的优势地位,为其种群的更新发育提供了物质基础[7-8],但3种生境条件下种群更新能力存在显著差异,生境 $\\mathbb { I } >$ 生境 $\\mathrm { ~ I ~ } >$ 生境Ⅱ。生境I和Ⅲ的幼龄级和成熟龄级的年龄结构为连续增长型,老龄级种群为独立的增长型,种群结构具有较大的发展空间[9]。而生境Ⅱ的幼龄级和成熟龄级种群的年龄结构为连续的稳定型,老龄级种群为独立的稳定型,种群结构比较稳定[10]。种群年龄结构与种子对策、种群繁殖方式、生活史对策有关[22],沙木蓼以种子繁殖进行种群更新,其发芽期长,寿命长。风沙流环境对种子萌发和幼苗保存产生显著影响，可见生境差异对苗龄级种群具有显著影响,对其它龄级种群的影响不显著。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "http ://www.ecologica.cn ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3沙木蓼种群在苗龄级、幼龄级和成熟龄级种群 $l x , d x$ 和 $q x$ 曲线具有相同的变化趋势,其中苗龄级种群向幼龄级种群转变过程中3种曲线均呈下降趋势,幼龄级和成熟级种群发育过程中基本保持平稳。但在老龄级种群的 $l x , d x$ 和 $q x$ 曲线差异性较大,其中生境I和Ⅲ产生重叠,表明沙木蓼种群的死亡高峰主要发生在苗龄级和老龄级阶段,表现出种群前期增长,中期稳定,后期衰退的一般规律[11-4]。风沙流加剧表层土壤水分的蒸发,导致3种生境下苗龄级种群死亡,而种内种间深层土壤水分的竞争关系加剧,导致老龄级种群自燃稀疏,死亡明显加快的主要原因。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.4沙木蓼苗龄级、幼龄级和成熟级种群的分布格局均为聚集分布，而老龄级种群为随机分布（除生境类型I的老龄级种群为聚集分布),与许多研究结果相一致[4,9,11]。种群的分布格局具有渐变的特性[15],主要受自身的生物学特性、环境条件的制约以及种内种间的相互竞争作用的影响[5,16]。沙木蓼种群以种子繁殖进行种群扩散，形成以母株为中心的聚集分布格局。但3种生境下种群聚集程度存在显著差异，风沙流是影响种群扩散的主要因素[19],同时通过影响浅层土壤水分蒸发进一步影响种子萌发和幼苗保存[20]。聚集分布常常出现在种群发育的早期阶段[17],说明沙木蓼种群为比较年轻的种群,在构建荒漠植被稳定性和重建荒漠植被方面具有积极意义。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "致谢：感谢马全林博士后、金红喜博士、满多清博士、姜生秀实习研究员对写作的帮助。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "［1］任珺，陶玲.中国珍稀濒危荒漠植物区系地理相似性的定位研究.干旱区资源与环境，2002，16(3）：103-107.  \n[2］张云飞，杨持，李博，陈家宽.鄂尔多斯高原特有种四合木生长和繁殖的种群间变异与濒危机制.生态学报，2003，23（3)：436-443.  \n[3］王孝安.安西荒漠植物群落和优势种的分布与环境的关系.植物学报，1998，40(11)：1047-1052.  \n［4］李昌龙，马瑞君，王继和，李爱德，严子柱，李得禄.甘肃民勤连古城自然保护区优势种种群结构和动态研究.西北植物学报，2005，25(8)：1628-1636.  \n［5］张峰，上官铁梁.山西翅果油树群落优势种群分布格局研究.植物生态学报，2000，24（5）：590-594.  \n［6］石胜友，尚进，田海燕，李旭光.缙云山风灾迹地常绿阔叶林生态恢复过程中优势种群分布格局和动态.武汉植物学研究，2003，21(4):321-326.  \n[7]Manuel C M.Ecology:Concepts and Application. Beijing：Science Press，2Ooo：162-226.  \n［8］谢宗强，陈伟烈，路鹏，胡东.濒危植物银杉的种群统计与年龄结构.生态学报，1999，19(4)：523-528.  \n［9］张文辉,李景侠，李红，刘祥君.独叶草种群年龄结构及动态分析.应用生态学报，2004，15(4)：561-565.  \n[10］李根前，黄宝龙，唐德瑞，赵一庆，王迪海.毛乌素沙地中国沙棘无性系种群年龄结构动态与遗传后果研究.应用生态学报，2001，12(3):347-350.  \n[11］马丹炜．九寨沟自然保护区油松种群的生命表.西南民族学院学报：自然科学版，199,25（1）：59-62.  \n[12］袁志忠，包维楷，何丙辉.岷江柏4个地理种群年龄结构动态比较分析.植物资源与环境学报，2004，13（3）：25-30.  \n[13] 吴承祯，洪伟，谢金寿，吴继林.珍稀濒危植物长苞铁杉种群生命表分析.应用生态学报，2000，11（3)：333-336.  \n[14] 闫淑君，洪伟，吴承祯，毕晓丽.丝栗考种群生命过程及谱分析.应用与环境生物学报，2002，8(4)：351-355.  \n[15] 李政海，鲍雅静.内蒙古草原与荒漠区的锦鸡儿属植物种群格局动态和种间关系的研究.干旱区资源与环境，2000，14（1)：64-68.  \n[16] 刘振国，李镇清.不同放牧强度下冷蒿种群小尺度空间格局.生态学报，2004，24（2)：227-234.  \n［17］邢福，宋日.草地有毒植物狼毒种群分布格局及动态.草业科学，2002，19(1)：16-19.  \n[18] 斯琴高娃，王天玺，高润宏.阿拉善荒漠几种典型灌木种子水分响应与繁殖对策研究.干旱区资源与环境，2005，19（7)：215-220.  \n[19］李宁，杜子璇，刘忠阳，杨慧娟，吴吉东，雷飚.沙尘暴发生过程中的风速和土壤湿度变化．自然灾害学报，2006,15(6)：28-32.  \n[20] 聂春雷，郑元润.鄂尔多斯高原4种主要沙生植物种子萌发与出苗对水分和沙埋的响应.植物生态学报，2005，29(1)：32-41.  \n[21] 李秋艳，赵文智.干旱区土壤种子库的研究进展.地球科学进展，2005，20（3)：350-358.  \n[22］邱扬，杜建林.森林种群年龄结构研究在森林生态学中的应用.山西大学学报：自然科学版，1997,20（1）：107-110.",
+        "page_idx": 6
+    }
+]

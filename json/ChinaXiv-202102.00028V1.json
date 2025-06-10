@@ -1,0 +1,327 @@
+[
+    {
+        "type": "text",
+        "text": "Taurine is found in rumen fluid, plasma and urine of beef cattle fed a ration containing sodium sulfate ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yuchao Zhao & Guangyong Zhao' ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "State Key Laboratory of Animal Nutrition, College of Animal Science and Technology,China Agricultural University, 100193 Beijing, China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yuchao Zhao: Investigation; Software; Writing - Original Draft Guangyong Zhao: Conceptualization, Supervision, Writing - Review & Editing ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Objective: The objectives of the experiment were to study the effects of dietary supplementation with sodium sulfate （204号 $\\mathrm { ( N a _ { 2 } S O _ { 4 } ) }$ on taurine concentrations of plasma,urine and rumen fluid in steers. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Methods:Six Simmental steers (bodyweight $4 4 9 \\pm 1 9 \\mathrm { k g }$ )were used as experimental animals.Three levels of $\\mathrm { N a } _ { 2 } \\mathrm { S O } _ { 4 }$ ,i.e. 0, 20 and $4 0 ~ \\mathrm { g / d }$ ，were added in a basal ration as experimental treatments.The animals and the dietary treatments were randomly allocated in a replicated $3 \\times 3$ Latin square design. Each experimental period included 15 days for adaptation and 5 days for sampling.Rumen fluid,blood and urine were sampled from the steers during each sampling period. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results: Dietary addition with $\\mathrm { N a } _ { 2 } \\mathrm { S O } _ { 4 }$ at $4 0 ~ \\mathrm { g / d }$ increased plasma taurine concentration ( $\\ P < 0 . 0 5 \\$ ）and tended to increase the plasma taurine concentration with increasing $\\mathrm { N a } _ { 2 } \\mathrm { S O } _ { 4 }$ level in a linear manner ( $P = 0 . 0 5 2$ ).A linear positive regression relationship was found between plasma taurine concentration $( \\mu \\mathrm { g / m L } )$ ）and sulfur intake $\\mathrm { ( g / d ) }$ 0 $\\mathrm { R } ^ { 2 } = 0 . 1 8$ 0 $P = 0 . 0 4 6$ ） Taurine was found in rumen fluid and urine.No diferences were found in ruminal taurine concentrations or urinary taurine excretions among treatments $( P > 0 . 0 5 \\$ ） ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Limitations:We infer that the taurine inrumen fluid should havecome fromthe bloodthrough salivasecretionor/and the rumenmicrobial synthesis.However,no reports are availableon the hypothesis.Further research isneededto investigate the possible origins of ruminal taurine as well as the impacts of taurine on rumen microecosystem and fermentation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Conclusions: Taurine has been found in rumen fluid for the first time in the experiment. Dietary addition with $\\mathrm { N a } _ { 2 } \\mathrm { S O } _ { 4 }$ increased plasma taurine concentrations whereas it did not affect urinary taurine excretions in steers. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: beef cattle; plasma; rumen; sulfur; taurine; urine ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Taurine (2-amino ethane sulphonic acid) is a $\\beta$ -amino acid (AA） containing sulfur(S) (Schaffer et al., 2014). In mammals, taurine accounts for about $0 . 1 \\%$ of animal body (Kim et al., 2014). However, taurine is not a component of body protein and not involved in protein synthesis (Richard et al.,2017). Taurine plays pivotal roles in many essential biological processes such as preventing organ lesion (Chang et al., 2011), muscle growth (Takahashi et al.,2016),reducing oxidative stress (Zhou et al.,2018)and regulating innate immune response (Abdelmegeid et al., 2017). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "S is a crucial element of S-containing AA of methionine (Met) and cysteine (Cys) (McSweeney et al., 2009).Earlier studies reported that supplementing sodium sulfate $\\mathrm { ( N a _ { 2 } S O _ { 4 } ) }$ ） improved rumen microbial crude protein (MCP) and Met flows to the hindgut (Zhao et al.,2020a) and plasma concentrations of Met and Cys in steers (Zhao et al., 2020b). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Met and Cys not only are essential for protein synthesis but also can be used as the precursors for taurine synthesis in the liver (Vailati-Riboni et al.,2017). In dairy cows, Zhou et al.(2018)reported that dietary supplementation with ruminally protected-Met increased plasma taurine concentration. It is speculated that dietary supplementation with $\\mathrm { N a } _ { 2 } \\mathrm { S O } _ { 4 }$ would increase plasma taurine concentration. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The objectives of the experiment were to study the effects of adding $\\mathrm { N a } _ { 2 } \\mathrm { S O } _ { 4 }$ to steer ration on plasma taurine concentration and urinary taurine excretion and also investigate if taurine could be found in rumen fluid. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2．Methodology ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The experimental protocols were approved by Animal Care and Use Committee of China Agricultural University. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.Animals and experimental design ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Six castrated Simmental steers with an initial liveweight of $4 4 9 \\pm 1 9 ~ \\mathrm { k g }$ were used as experimental animals. Three levels of anhydrous $\\mathrm { N a } _ { 2 } \\mathrm { S O } _ { 4 }$ (purity $\\geq 9 9 . 9 \\%$ ； Sinopharm Chemical Reagent, Shanghai, China), i.e., 0, 20 and $4 0 ~ \\mathrm { g / d }$ were supplemented to a basal ration as the experimental treatments.The steers and the treatments were allocated in a replicated $3 \\times 3$ Latin square design. The basal ration was composed of $4 8 8 { \\mathrm { ~ g ~ } }$ corn silage, $\\boldsymbol { 4 0 0 } \\mathrm { \\ g }$ corn grain, $5 5 \\mathrm { ~ g ~ }$ soybean meal, $\\boldsymbol { 4 2 } \\mathrm { ~ g ~ }$ wheat bran, $\\textrm { \\tiny 8 g }$ urea, $3 \\mathrm { ~ g ~ }$ sodium chloride and ${ 4 \\ \\mathrm { g } } { }$ sodium bicarbonate per kg dry matter (DM). The nutritional composition of the ration contained $9 2 8 \\ \\mathrm { g }$ organic matter (OM), $\\boldsymbol { 1 2 9 \\ \\mathrm { g } }$ crude protein (CP), 379 g neutral detergent fiber (NDF), $2 0 9 \\ \\mathrm { g }$ acid detergent fiber (ADF), $ { 1 . 1 5 \\mathrm { ~ g ~ S ~ } }$ and $5 . 6 ~ \\mathrm { M J }$ net energy for maintainance and fattening (NEmf) per kg DM. Each experimental period lasted $2 0 { \\mathrm { ~ d } } .$ ，consisting of $1 5 { \\mathrm { ~ d ~ } }$ for adaptation and $5 \\mathrm { d }$ for sampling. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The steers were housed in individual pens bedded with rubber matresses and had free access to fresh water. An amount of $6 . 6 5 ~ \\mathrm { k g }$ DM of totally mixed ration (TMR) which was about $90 \\%$ of ad libitum feed intake was supplied to each steer daily.The daily ration was divided into two equal meals,which were supplied to each steer at $7 { : } 0 0 \\mathrm { ~ h ~ }$ and $1 7 { : } 0 0 \\ \\mathrm { h }$ ,respectively.No orts were observed throughout the experiment. The designed amount of $\\mathrm { N a } _ { 2 } \\mathrm { S O } _ { 4 }$ was also divided into two equal parts and completely mixed with the TMR before feeding. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2. Sampling ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The urine from each steer was totally collected using a rubber funnel connected to a plastic barrel by a polyvinyl chloride pipe. The barrel was surrounded by ice packs to keep low temperature. The daily urine output from each steer was recorded and homogenized, and $1 \\%$ of the total urine from each steer was sampled and mixed with $1 0 ~ \\mathrm { m L }$ sulfuric acid ( $10 \\%$ ，vol/vol） per $8 0 ~ \\mathrm { m L }$ urine to keep the pH below 3.0. On the first day of each sampling period, rumen fluid was taken using an esophageal stomach tube $3 \\mathrm { ~ h ~ }$ after feeding in the morning. The first tube of rumen fluid was discarded to avoid saliva contamination. Then the second tube of rumen fluid was taken, strained through four layer of cheese cloth and kept as the sample. Blood sample was taken from the jugular vein of each steer using a $1 0 ~ \\mathrm { m L }$ vacuum tube containing $\\mathrm { K } _ { 2 } \\mathrm { E D T A }$ (Greiner Bio-one,Frickenhausen,Germany) $^ { 3 \\mathrm { ~ h ~ } }$ after feeding in the morning on the last day of each sampling period. The plasma samples were obtained by centrifuging the blood samples at $3 0 0 0 \\times g$ for $1 5 ~ \\mathrm { m i n }$ at $4 ~ { } ^ { \\circ } \\mathrm { C }$ .The feeds samples were also taken daily during each sampling period. All of the samples were stored at ${ } ^ { - 2 0 ^ { \\circ } \\mathrm { C } }$ for later analysis. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3. Chemical analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The feed samples were lyophilized at $- 8 0 ^ { \\circ } \\mathrm { C }$ for $^ { 7 2 \\mathrm { ~ h ~ } }$ on a freeze dryer (LGJ-12; Beijing Songyuanhuaxing Technology Development Co., Ltd, Beijing, China) and then were ground through a sieve with the pore size of $1 \\ \\mathrm { m m }$ using a hammer mill (FW177, Tianjin Taisite Instrument Co., Ltd., Tianjin, China). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The DM content of feeds was determined according to AOAC (2005) using method No.930.15.The crude ash and CP $\\mathrm { ( N } \\times 6 . 2 5 )$ contents were analyzed according to AOAC (2005) using methods No. 942.05 and 984.13,respectively. The OM content was calculated by DM minus crude ash. The NDF and ADF contents were analyzed using the methods of Van Soest et al. (1991) on an ANKOM A200 semiautomatic analyzer (Ankom Technology Corp.，Macedon， NY). Heat stable $\\mathfrak { a }$ -amylase and sodium sulfite were used in NDF analysis. The gross energy content of feeds was analyzed using an oxygen bomb calorimeter (Parr 6300 Calorimeter; Parr Instrument Company, Moline, IL). The NEmf content of the feeds was calculated according to the Nutrient Requirements and Feeding Standards of Beef Catte (Feng,2O0O) based on the GE, OM and NDF contents of feeds. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Th rumen fluid samples were centrifuged at $1 2 , 0 0 0 \\times g$ for $1 5 \\ \\mathrm { m i n }$ at $4 ~ ^ { \\circ } \\mathrm { C }$ .Then the taurine concentrations in rumen fluid, plasma and urine were colorimetricly analyzed using a commercial kit (Beijing Sino-UK Institute of Biological Technology， Beijing， China) on an UV/visible spectrophotometer (UV1901; Shanghai Aoxin Scientific Instrument Co., Ltd, Shanghai, China). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4.Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The data were analyzed as a replicate Latin square design using the MIXED procedure of SAS (version 9.3; SAS Institute Inc., Cary, NC, USA) using the following model: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { i j k l } = \\mu + T _ { i } + P _ { j } + S _ { k } + C _ { ( k ) l } + T \\times S _ { i k } + e _ { i j k l }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "in which $Y _ { i j k l }$ is the dependent variable; $\\mu$ ,overall mean; $T _ { i , \\cdot }$ the fixed treatment effect; $P _ { j , \\ l }$ the random period effect; $S _ { k } ,$ the random square effect; $C _ { ( k ) l } ,$ the random effect of the Ith steer within the $k$ th square; $T \\times S _ { i k }$ ，the interaction between the ith treatment and the kth square; $\\mathbf { e } _ { i j k l } .$ ，the error residual. Differences among treatment means were examined for significance using Tukey's multiple range test.The linear and quadratic effects of $\\mathrm { N a } _ { 2 } \\mathrm { S O } _ { 4 }$ addition were examined using the CONTRAST procedures of SAS.Differences among means were declared significant at $P \\leq 0 . 0 5$ ,and as trends at $0 . 0 5 < P < 0 . 1 0 .$ （204号 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3. Results and Discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Biosynthesis of taurine in animal body mainly takes place in the liver using Met and Cys as precursors (Zhou et al., 2O18). Met can be transformed to Cys via several reaction processes in the Met cycle. Cys can be converted into Cys sulfate by cysteine dioxygenase while Cys sulfate can be changed into hypo-taurine by Cys sulfinic acid decarboxylase. Then taurine is produced from hypo-taurine by hypo-taurine dehydrogenase (McFadden et al., 2020). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The results in Table 1 showed that dietary addition with $\\mathrm { N a } _ { 2 } \\mathrm { S O } _ { 4 }$ at $4 0 ~ \\mathrm { g / d }$ increased the plasma taurine concentration ( $\\ P < 0 . 0 5 \\ '$ ）and tended to increase the plasma taurine concentration ( $P = 0 . 0 5 2$ with increasing $\\mathrm { N a } _ { 2 } \\mathrm { S O } _ { 4 }$ level in a linear manner.A linear positive regression relationship was found between the plasma taurine concentration (Y, $\\mu \\mathrm { g / m L }$ )and the S intake $( \\mathrm { X } , \\mathrm { g } / \\mathrm { d } )$ ： $\\mathrm { Y } = 0 . 1 3 2 \\mathrm { X } \\substack { + 8 . 4 5 8 }$ 0 $\\mathrm { \\mathrm { R } } ^ { 2 }$ $= 0 . 1 8$ ， $P = 0 . 0 4 6$ ， ${ \\mathfrak { n } } = 6$ ). Our earlier studies indicated that dietary supplementation with $\\mathrm { N a } _ { 2 } \\mathrm { S O } _ { 4 }$ increased the rumen MCP and Met flows to the hindgut and the plasma concentrations of Met and Cys in steers (Zhao et al.,2O20a; Zhao et al.,2O2Ob),suggesting that the increased plasma taurine should be resulted from the increased plasma concentrations of Met and Cys.The results were in agreement with Zhou et al. (2018）who reported that dietary supplementation with ruminally protected-Met increased the plasma taurine concentration in dairy cows. It is worth noting that supplementing $\\mathrm { N a } _ { 2 } \\mathrm { S O } _ { 4 }$ has the adavantage over rumen-protected Met to increase the plasma taurine concentration in low additive cost. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Taurine was found in the rumen fluid of steers in the present experiment. This is the first evidence to indicate the existence of taurine in rumen fluid and no previous reports are available on this finding. Since taurine does not exist in plant feeds (Schafer et al.,2O14), we infer that the ruminal taurine in steers fed the basal ration in the present experiment should have come from the taurine in blood through saliva secretion or/and rumen microbial synthesis. Since no differences were found in the ruminal taurine concentrations among treatments ( $\\langle P > 0 . 0 5 \\rangle$ ),the ruminal taurine was more possibly from the blood than the rumen microbial synthesis using inorganic S as the precursor. However, no reports are available to support our hypothesis at present. Further research is needed to justify the origination of ruminal taurine as well as the effects of taurine on rumen microbial ecosystem and fermentation. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Extra taurine can be excreted through the kidney into urine or bile in animals (Nofs et al.,2018; Richard et al., 2O17). However, no diferences were found in the urinary taurine excretions among treatments ( $\\langle P > 0 . 0 5 \\rangle$ ） in the present experiment. The results suggest that the urinary taurine excretion was relatively stable and unaffected by the plasma taurine concentrations in steers. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Taurine has been found in the rumen fluid of steers for the first time in the present experiment. Dietary supplementation with $\\mathrm { N a } _ { 2 } \\mathrm { S O } _ { 4 }$ increased plasma taurine concentration while it did not affect urinary taurine excretion in steers. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGEMENT ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The research was supported by National Natural Science Foundation of China (grant number 31572428). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Association of Official Analytical Chemists (AOAC).2005. Official Methods of Analytical Chemist, 18th ed. Gaithersburg, MD. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abdelmegeid，M.K.，Vailati-Riboni，M.，Alharthi，A.，Batistel，F.，Loor，J.J.，2017. Supplemental methionine，choline,or taurine alter in vitro gene network expression of polymorphonuclear leukocytes fromneonatal Holsteincalves.J.Dairy Sci. 100，3155-3165. https://doi.org/10.3168/jds.2016-12025 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Chang,Y., Chou, C., Chiu, C., Yang, K.,Lin, Y., Weng, W., Chen, Y.,2011. Preventive effects of taurine on development of hepatic steatosis induced by a high-fat/cholesterol dietary habit. J. Agr. Food Chem. 59,450-457.https://doi.org/10.1021/jf103167u ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Feng,Y.，2Oo0.The nutrient requirements and feeding standards of beef cattle. China Agricultural University Press,Beijing, China. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Kim, Y.C., Kwon, D.Y., Kim, J.H.,2014. Alterations in the metabolomics of sulfur-containing substances in rat kidney by betaine. Amino Acids 46, 963-968. htps://doi.org/10.1007/s00726-013-1660-4 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "McFadden,J.W.，Girard, C.L.， Tao，S.， Zhou, Z.，Bernard,J. K., Duplessis, M., White,H.M.,2020. Symposium review: One-carbon metabolism and methyl donor nutrition in the dairy cow. J. Dairy Sci. 103, 5668-5683.https://doi.org/10.3168/jds.2019-17319 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "McSweeney， C.S.，Denman， S.E.，Conlan，L.L.， Prasad， C.S.，Anandan，S.， Chandrasekharaiah，M., Sampath， K.T.， 2009. The stimulatory effect of the organic sulfur supplement, mercaptopropane sulfonic acid on celllolytic rumen microorganisms and microbial protein synthesis in catte fed low sulfur roughages. Animal 3,802-809.https://doi.org/10.101_7/S1751731109004108 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Nofs，S.A.，Dierenfeld，E.S.，Backus，R.C.，2018. Effect of increasing taurine and methionine supplementation on urinary taurine excretion in a model insectivore， the giant anteater (Myrmecophaga tridactyla). J. Anim. Physiol. Anim. Nutr. (Berl). 102, e316-e325. https://doi.org/10.1111/jpn.12748 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Richard,N.， Colen,R.，Aragao, C.， 2017. Supplementing taurine to plant-based diets improves lipid digestive capacity and amino acid retention of Senegalese sole (Solea senegalensis） juveniles. Aquaculture 468,94-101. https://doi.org/10.1016/j.aquaculture.2016.09.050 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Schaffer,S.W., Jong, C.J., Ito,T.,Azuma,J.,2014.Role of taurine in the pathologies of MELAS and MERRF. Amino Acids 46: 47-56.https://doi.org/10.1007/s00726-012-1414-8 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Takahashi, Y.， Tamura, Y., Matsunaga, Y.， Kitaoka, Y., Terada,S., Hatta,H.，2016.Effects of taurine administration on carbohydrate metabolism in skeletal muscle during the post-exercise phase. J. Nutr. Sci. Vitaminol. 62,257-264. https://doi.org/10.3177/jnsv.62.257 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Vailati-Riboni,M., Zhou,Z., Jacometo, C.B.,Minuti,A.,Trevisi,E.,Luchini,D.N.,Loor,J.J.,2017. Supplementation with rumen-protected methionine or choline during the transition period influences whole-blood immune response in periparturient dairy cows. J. Dairy Sci. 100， 3958-3968. https://doi.org/10.3168/jds.2016-11812 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Van Soest,P.J.,Robertson,J.B.,Lewis,B.A.，1991.Methods for dietary fiber, neutral detergent fiber,and nonstarch polysaccharides in relation to animal nutrition. J. Dairy Sci. 74，3583-3597. https://doi.0rg/10.3168/jds.S0022-0302(91)78551-2 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Zhao,Y.,Xie,B., Gao,J., Xiao,M., Zhao,G.,202Oa. Balancing the dietary ratio of nitrogen to sulfur by adding inorganic sulfur improves nitrogen retention and consequently decreases urine nitrous oxide emissionsinsteers.Anim.Feed Sci. Technol．114711 (publishedonline). https://doi.org/10.1016/j.anifeedsci.2020.114711 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Zhao,Y., Xie,B., Gao, J., Zhao, G.,202ob. Dietary supplementation with sodium sulfate improves rumen fermentation, fiber digestibility,and the plasma metabolome through modulation of rumen bacterial communities in steers. Appl. Environ. Microbiol. 86, e01412-20. https://doi.0rg/10.1128/AEM.01412-20 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Zhou,Z.，Ferdous,F.，Montagner,P.,Luchini,D.N.,Corea,M.N.,Loor,J.J.，2018.Methionine and choline supply during the peripartal period alter polymorphonuclear leukocyte immune response and immunometabolic gene expresson in Holstein cows. J. Dairy Sci. 101， 10374-10382. https://doi.0rg/10.3168/jds.2018-14972 ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/70faea53f246205e7e4ab627d2a2384a936914ec03d0bf06c8ef894add056bee.jpg",
+        "table_caption": [
+            "Table1.Effects of supplementing $\\mathrm { N a } _ { 2 } \\mathrm { S O } _ { 4 }$ on taurine metabolism in steers "
+        ],
+        "table_footnote": [
+            "Means in the same row with different superscripts differ $( P < 0 . 0 5 )$ ： "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Item</td><td colspan=\"3\">NazSO4 supplemented, g/d</td><td rowspan=\"2\"></td><td colspan=\"3\">P-value</td></tr><tr><td>0</td><td>20</td><td></td><td>Treatment</td><td>Linear</td><td>Quadratic</td></tr><tr><td>Taurine，μg/mL</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Rumen fluid</td><td>2.37</td><td>2.48</td><td>2.42</td><td>0.095</td><td>0.729</td><td>0.896</td><td>0.757</td></tr><tr><td>Plasma</td><td>9.40b</td><td>10.21ab</td><td>10.60a</td><td>0.305</td><td>0.024</td><td>0.052</td><td>0.670</td></tr><tr><td>Urine</td><td>0.85</td><td>0.81</td><td>0.79</td><td>0.032</td><td>0.399</td><td>0.254</td><td>0.856</td></tr><tr><td>Urinary taurine excretion, mg/d</td><td>7.91</td><td>8.11</td><td>7.62</td><td>0.415</td><td>0.672</td><td>0.698</td><td>0.586</td></tr><tr><td></td><td colspan=\"5\">Regression equation</td><td></td><td></td></tr><tr><td>Plasma taurine,μg/mL</td><td colspan=\"6\">Y=0.132X+8.458 (X,S intake, g/d) R²=0.18,P=0.046</td><td></td></tr></table></body></html>",
+        "page_idx": 10
+    }
+]

@@ -1,0 +1,178 @@
+# Cu对AIN/TiN-Cu复合多层膜微观结构和力学性能的影响
+
+刘 进」劳远侠¹汪 渊1,2
+
+1 四川大学原子核科学技术研究所辐射物理及技术教育部重点实验室成都610065  
+2 中国科学院金属研究所中国科学院核用材料与安全评价重点实验室沈阳110016
+
+摘要采用多弧离子镀制备了掺杂Cu的AIN/TiN-Cu纳米复合多层膜，利用FESEM、HRTEM和 XRD分别表征了薄膜的微观结构和相组成，用压入法和划痕法确定了薄膜的硬度和膜/基结合力，研究了Cu对AIN/TiN-Cu复合多层膜微观结构和力学性能的影响。结果表明，Cu的掺杂对薄膜的微观结构有较大的影响。薄膜的平均晶粒尺寸随Cu 含量的增加而逐渐减小。掺入少量Cu后，薄膜的硬度均有提高，但不同种类的薄膜有不同的临界载荷变化趋势，纳米复合层薄膜的临界载荷会有所增大，而纳米复合多层膜的临?  
+界载荷反而会有所减小。
+
+关键词多弧离子镀，纳米复合多层膜，度，临界载荷
+
+中图法分类号 TG148文章编号 0412-1961(2017)×-x×-x
+
+# Effects of Cu on Microstructure and Mechanical Properties of Xy AIN/TiN-Cu Nanocomposite Multilayers
+
+LIU Jin ',LAO Yuanxia ', WANG Yuan 1,2
+
+K 1 Key Laboratory of Radiation Physics and Technology of Ministry of Educ& Aon,InstituteofNuclear Science and Technology, Sichuan University, Chengdu 610o6China 2 Key Laboratory of Nuclear Materials and Safety Assessment, Institute ofMetal Research, Chinese Academy of Sciences, Shenyang/y1o016, China
+
+Correspondent: WANG Yuan, professor, Tel: (028)85412695, E-mail: wyuan@scu. edu. cn
+
+Supported by National Natural Science Foundation of China (Nos.51171124 and 11505121), International Science and Technology Cooperation Program of China (No.2014DFR50710) and Scientific and Technical Supporting Programs Funded by the Science and Technology Department of Sichuan Province (No.2014GZ0004） and
+
+Research Program of the Key Laboratory of Nuclear Materials and Safety Assessment Chinese Academy of   
+Sciences (No.2017NMSAKF02)   
+Manuscript received 2016-06-27, in revised form 2017-01-11
+
+ABSTRACT The nanocomposite multilayers, composed by typical nitride ceramic (AlN and TiN), have been developed for variety of application for its excellent properties such as structure stability and high hardness as wellas low friction coefficient. By adding an appropriate amount of soft metal, the mechanical performance of the film can be significantly improved including intensity,tenacityand friction coefficient,but microstructure and hardness willbe greatly influenced. In this work,AIN/TiN-Cu nanocomposite multilayers combining AIN with composite layer formed by adding soft phase metal Cinto hard TiN phase were prepared by multi-arc ion plating equipment. The microstructure and phase c9mpositioKof the films were characterized by FESEM, HRTEM and XRD respectively. The hardness and the bond strength of the films were detected by Vickers hardness test and scratch method. The effects of Cu microstructure and mechanical properties of AlN/TiN-Cu nanocomposite multilayers were investigated. The f yts show that the microstructure of the films was affected by the doping of Cu.The average grain size of the films reduced with the increase of Cu content. The hardnessof films would increase after the dropping of Cu. However,the critical loads of the films with different types have different 友 changing trends.The critical load of the nanocomposite monolayers increSed while that of the nanocomposite multilayers decreased. r.
+
+KEY WORDSmulti-arc ion plating, nanocomposite multilayer, hardness, critical load
+
+国参
+
+超硬纳米复合薄膜在工业领域应用广泛，一直是研究者的研究热点[1-3]。这类薄膜一般由 2 种以上材料组成，每种材料的晶粒尺寸都只有几纳米到几十纳米，硬度可达 $6 0 \mathrm { G P a } ^ { [ 4 ] }$ 。然而这类薄膜通常残余应力较高，韧性差，长时间服役时断裂失效的可能性高[5.]。因此，如何降低材料残余应力，同时增强材料韧性、提高材料硬度是材料研究的难点问题。有研究[47]提出利用软硬两相复合方法，即用金属软相掺杂非本征超硬的纳米复合薄膜，其中软质金属协调薄膜内部应力及其应变，增强材料韧性，同时还可起到细化薄膜晶粒尺寸，提高硬度的目的[8.9]。有人将少量的 $\mathrm { C u } ( 1 . 5 \% \sim 2 \ \%$ ，原子分数，下同)以单相的形式散布于硬质相TiN 周围，形成 TiN-Cu复合薄膜。然而，尽管有研究[10]表明 TiN-Cu复合薄膜的硬度可高达 $3 1 . 5 \mathrm { G P a }$ ，但此类薄膜的力学性能易受软相Cu的影响，当 $\mathrm { C u }$ 含量达到某一临界值时，薄膜的弹性模量及硬度会明显降低[11,12]。
+
+纳米多层膜是另一种常用的硬质薄膜[13,14]，如 AIN/ZrN、AIN/TiN 和 AIN/TiAIN 等[15-17]。多层复合薄膜不仅硬度高，且多层比单层能够延长器械的使用寿命[18]。然而与单层薄膜一样，韧性差等问题难以解决。也有研究[19]将Cu作为软相层与硬相层 TiAIN 组合，形成 TiAIN/Cu多层膜，尽管其弹性模量有所提高，但其硬度与抗氧化性能并未有显著增加。因此，本工作采用多弧离子镀膜真空设备，将金属软相Cu 掺入硬质相 TiN中形成软硬两相复合层，并与硬质相AIN组合形成纳米多层硬质膜，用掺杂软相的硬质复合薄膜结合纳米多层膜，利用软相金属和多层界面的互促效应[20]，试图制备出受金属软相含量制约低，又能提高薄膜的韧性和硬度的薄膜。
+
+# 1实验方法
+
+采用自制的多弧离子镀膜设备制备薄膜样品。靶材分别为金属Al、Ti和Cu，纯度均在 $9 9 . 9 5 \%$ 以上。基底选用单晶 Si(100)和抛光过的316不锈钢片。由于本设备靶位置为对向设置，因此可根据镀膜工艺需要，彩利用样品台的自转和公转，分别镀制单层复合薄膜和多层复合薄膜。
+
+多弧离子镀设备本底真空低于 $1 \times { 1 0 } ^ { - 3 }$ P薄膜济前先后进行反溅清洗(偏压- $. 8 0 0 \mathrm { V }$ ,Ar流量 $1 5 0 \mathrm { m L / m i n } )$ 基底 $1 0 \mathrm { m i n }$ ，Ti靶预溅清洗(电流 $8 0 \mathrm { A }$ ，Ar流量 $1 5 0 \mathrm { m L } / \mathrm { m i n } ) 5 \mathrm { m i n }$ 后，沉积 TiN 过渡层(Ti靶电流 $8 0 \mathrm { A }$ 长Ar流量 $2 0 ~ \mathrm { m L / m i n }$ ， ${ \bf N } _ { 2 }$ 流量 $1 5 0 \AA ^ { * } \textcircled { \ast } m i n )$ 。薄膜制备工艺为：偏压 $- 2 0 0 \mathrm { V }$ ，占空比 $40 \%$ ，靶电压 $1 7 { \sim } 2 0 \mathrm { V }$ Ar流量 $2 0 \ \mathrm { m L / m i n }$ ， $\mathbf { N } _ { 2 }$ 流量 $1 5 0 \approx$ ，总气压保持在 $1 . 2 \ \mathrm { P a }$ ，真空腔室加热温度约为 $3 5 0 { \sim } 4 0 0 \ \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，TiX靶电流 $1 0 0 \mathrm { ~ A ~ }$ ，Al靶电流 $\mathsf { \& 0 - 9 0 \ A }$ ，Cu靶电流 $5 0 { \sim } 6 0 \mathrm { ~ A ~ }$ 。镀制单层薄膜时，样邑台自转速率为 $5 0 ~ \mathrm { r / m i n }$ 。X镀制多层膜时，样品台公转速率为 $2 0 \ \mathrm { r / m i n }$ 。镀膜时间约为1h，单层薄膜厚度约为 $2 ~ { \mu \mathrm { m } }$ ，多层膜厚度约方为 $4 \mu \mathrm { m }$ ，通过改变 Al靶和Cu靶电流制备不同Cu 含量的(Ti,AIN-Cu米复合单层薄膜和 AIN/TiN-Cu纳米复合多层膜。薄膜样品编号及各元素含量见表1，单层薄膜样品编号>4#，多层膜样品编号 $5 \# { \sim } 8 \#$ ，其公中1#和 5#分别为不加Cu 的薄膜样品。
+
+用 D/Max-3AX掠入式X射线衍射仪(GIXRD， $\mathrm { C u } K \sqrt { 3 } \leq 3 5 \mathrm { k } \sqrt [ 3 ] { 3 } 3 0 \mathrm { m A }$ ，入射角 $1 . 5 ^ { \circ } )$ 确定薄膜晶体结构。用附带能谱分析仪(EDS)的 S-4800 场发射扫描电镜(FESEM)、Tecnai G2F30 S-TWIN 高分辨透射电子显微镜(HRTEM，3kV)观察薄膜的截面形貌、成分和微观结构。
+
+用 HV-1000 显微硬度计测量薄膜硬度，测量时静载荷为 $0 . 0 2 5 \mathrm { k g }$ ，压痕深度为 $0 . 5 { \sim } 0 . 8 ~  { \mu \mathrm { m } }$ ，最深达到薄膜厚度的1/3，由于氮化物薄膜的硬度高于基底(316不锈钢，Vickers 硬度约为 $2 0 0 ~ \mathrm { H V } )$ ，基底对薄膜的影响较小，因此实际硬度应比测量值略高。测试结果为多次测量后的平均值．使用WS-2005划痕仪，利用声发射法测量膜/基结合力(最大载荷 $4 0 \mathrm { N }$ ，划痕时间 $1 \mathrm { m i n }$ ，划痕长度 $\mathrm { 4 \ m m } )$ ，加载用金刚石压头尖端曲率半径 $R { = } 2 0 0 ~ \mu \mathrm { m }$ ，锥角 $1 2 0 ^ { \circ }$ ，结合利用 S-4800 FESEM 所观察到的薄膜划痕形貌，判定薄膜的临界载荷 $L _ { \mathrm { c } }$ 。
+
+# 表1样品编号及成分
+
+(atomic fraction /%)
+
+Table 1 Numbers and element compositions of samples   
+
+<html><body><table><tr><td>Sample</td><td>Number</td><td>N</td><td>Ti</td><td>Al</td><td>Cu</td></tr><tr><td>(Ti, Al)N-Cu</td><td>1#</td><td>18.60</td><td>68.27</td><td>13.13</td><td>0</td></tr><tr><td>nanocomposite</td><td>2#</td><td>34.08</td><td>52.15</td><td>10.06</td><td>3.72</td></tr><tr><td>monolayer</td><td>3#</td><td>30.75</td><td>43.77</td><td>18.25</td><td>7.32</td></tr><tr><td></td><td>4#</td><td>28.49</td><td>41.67</td><td>16.51</td><td>13.32</td></tr><tr><td>AIN/TiN-Cu</td><td>5#</td><td>27.75</td><td>54.78</td><td>17.47</td><td>0</td></tr><tr><td>nanocomposite</td><td>6#</td><td>23.06</td><td>64.78</td><td>9.98</td><td>2.49</td></tr><tr><td>monolayer</td><td>7#</td><td>方 27</td><td>20.98</td><td>20.75</td><td>5.03</td></tr><tr><td></td><td>8#</td><td>403</td><td>27.73</td><td>20.03</td><td>8.21</td></tr></table></body></html>
+
+# 2实验结果
+
+# 2.1 薄膜的微观结构
+
+成参
+
+图1所示为典型样品的截面 SEM像。可以看出，纳米复合单层薄膜和纳复合多层薄膜的截面结构呈现出明显不同的形态，纳米复合单层薄膜是柱状晶结构(图1a 和b)，其晶粒尺对为 $1 0 { \sim } 2 0 ~ \mathrm { n m }$ ，纳米复合多层薄膜的截面则呈现出明显的多层结构(图1c和d),其晶粒尺寸为 $1 0 ^ { - 2 / 3 } \mathrm { { n m } }$ 学书 ，且AIN层厚约 $1 6 \mathrm { n m }$ , TiN-Cu层厚约 $2 5 \ \mathrm { n m }$ 。这表明制备时样品台转动方式的改变会使材料缘构发生大的变化。掺入 $\mathrm { c u }$ 后，纳米复合单层薄膜的截面结构变化较大，柱状晶结构开始变模糊(图1b)，而纳米复合多层膜的截面结构基本未变华(图1d)。 网
+
+![](images/ca448f5e1b697840bc1e636a2ab022c8a283ed4afd7dc578ab8363bd4641b031.jpg)  
+图1典型薄膜断口的SEM像
+
+属
+
+Fig.1 SEM images fracture surface ftypical sample (Inset in Figs.1b and d show the magnified images of
+
+square areas) (a)1#,(Ti,AI)N(b) 3#,(Ti,Al)N-Cu (c) 5#,AIN/TiN (d) 7#,AIN/TiN-Cu 学书
+
+图2为样品的XRD谱。可以看出，所有样品都出现了明显的Cu(1和 $\mathrm { C u } ( 2 0 0 )$ 峰，这表明Cu原子都1公是以单质形式存在，并未形成化合物[21-23]。在纳米复合单层薄膜 XRD 谱(图 2a)中，均出现了 TiN 的特征茶峰，但与 PDF 标准卡衍射峰位相比，各峰位均向右偏移，这是由于纳米复合单层薄膜中相对含量较少的Al元素(表1)会置换 TiN 中的 Ti原子，形成 TiAIN 置换固溶体。同时产生晶格畸变，导致薄膜各衍射峰向右偏移[24]。与纳米复合单层薄膜不同的是，纳米复合多层薄膜的 XRD 谱中(图 2b)，TiN 衍射峰与 PDF 标准卡片中标准峰对应，几乎未偏移。
+
+![](images/03e47efe7dcf497d526ce46f96b44d8a399e673a5fd7bc0cfb95ba6f596e1c3d.jpg)  
+图2所有样品的XRD谱  
+Fig.2 XRD spectra of monolayer samples (a) and multilayer samples (b)
+
+图3a为3#纳米复合单层薄膜的HRTEM像，所对应的选区电子衍射(SAED，图3a中插图)为不连续的多晶衍射环，衍射环半径比一般的 TiN 的衍射环半径要大，且无AIN 衍射环。结合 XRD 结果(图 2a)，可知单层薄膜中存在(Ti,AI)N 固溶体，且其晶粒尺寸并不均匀。单层薄膜应该是固溶体(Ti，AI)N 和单质 Cu组成的复合薄膜。
+
+图3b为7#纳米复合多层薄膜的HRTEM像，显示出有清晰层界面的多层膜，所对应的 SAED（图 3b中插图)为连续的多晶衍射环，分别为 TiN(111)、(200)、(220)、(311)和(222)，晶粒取向与 XRD 谱衍射峰(图2b)一致，证明 TiN 结晶良好，晶粒尺寸均匀。然而，图3b中 SAED 衍射环最内层仍存在微弱的AIN(100)
+
+衍射环，外层是具有一定展宽的AIN非晶环。由图3b 中EDS 谱线可知，N含量沿截面基本呈均匀分布，而 Al和 Ti的含量则呈跳跃式分布，且二者的分布趋势相反，这表明多层膜中应为AIN 层和多晶 TiN-Cu层为单元的多层复合薄膜。图3c和d分别为图3b中框选区域B1和B2的放大图，插图为Fourier转换图。可以发现，多层膜中AIN 层多为非晶和纳米晶的混合物，另一层则是多晶的TiN-Cu层。TiN-Cu层中的单质 Cu 不仅分布于 TiN 晶粒的周围，而且薄膜的层界面处也有聚集(图 3c)。
+
+![](images/2ad34d8fa797015eaa5e0463f05e30e3494efca4d33e535fbe4a87dc055cb5b0.jpg)  
+图33#和7#典型薄膜的HRTEM像和 SAED 谱及7#薄膜的HRTEM像和Fourier变换
+
+Fig.3 HRTEM images, SAED (insets) and EDS of monolayer sample $3 \#$ (a) and multilayer sample 7# (b), HRTEM images embedded with fourier transformation (FTF) images (insets) corresponding to region B1 (c) and B2 (d) in Fig.3b,respectively (Dotted line in Fig.3c indicates the interface of multilayer sample)
+
+# 2.2 薄膜硬度及膜/基结合强度
+
+2.2.1 单质Cu对薄膜硬度的影响
+
+根据TiN(111）衍射峰半高宽及其衍射角，利用Scherrer方程可计算晶粒尺寸：
+
+D=0.92/Bcos0
+
+式中， $D$ 为平均晶粒尺寸， $\lambda$ 为X射线波长， $B$ 为薄膜衍射峰的半高宽， $\theta$ 是Bragg衍射角度。计算结果如图4所示。可以看出，与HRTEM中观察得到的晶粒尺寸 $( 1 0 { \sim } 1 5 ~ \mathrm { n m } )$ 相符。TiN 晶粒尺寸保持在 $1 0 { \sim } 1 8 ~ \mathrm { n m }$ 且各薄膜的晶粒尺寸随着Cu含量的增加而线性减小。可见， $\mathrm { c u }$ 的加入对晶粒的细化有较大影响。
+
+![](images/4f4bba233e39f5c26e9161af0e04024347bef7598fed0ca9c71e00ef37a5f099.jpg)  
+图 ${ \mathfrak { 4 } } \operatorname { C u }$ 含量与晶粒尺寸和硬度的关系  
+Fig.4 Relationship between Cu content and grain size and hardness
+
+(a) nanocomposite monolayer samples(b) nanocomposite multilayer samples
+
+所有样品在掺 $\mathrm { { C u } }$ 后，硬度都会出现峰值。但两类薄膜硬度的变化规律并不相同。(Ti,AI)N-Cu纳米复合单层薄膜中，当 $\mathrm { c u }$ 含量为 $3 . 7 2 \%$ 时，其硬度最大，但随着Cu 含量的增加，其硬度随后很快降低。当Cu含量达到 $1 3 . 3 \%$ 时，其硬度甚至小于未加Cu的(Ti，AI)N单层薄膜硬度。这一现象应源于Cu添加所带来的晶粒细化和软相增多2种机制的共同作用：一方面，当Cu含量较少时，在薄膜生长期间可阻止粗大柱状晶组织的连续生长，导致晶粒细化，晶界越多，由于常温下晶界对位错运动的阻碍，材料的强度升高[25]：另一方面，软相Cu可能聚集在硬相(Al,Ti)N晶界之间且扮演着“润滑剂"的角色。当Cu含量较高时，Cu单质多存在于(Ti,AI)N的周围，受软相增加的影响薄膜硬度下降[4,10,12]。
+
+AIN/TiN-Cu纳米复合多层膜的硬度则是当Cu含量为 $5 . 0 3 \%$ 时，硬度达到最大(37.9 GPa)，且在Cu含量高达 $8 . 2 1 \%$ 时，其硬度仍然不低(28.6 GPa)，高于Leu等[19]制备的 TiAIN/Cu 多层膜的硬度(24 GPa)。这可能是由于多层膜中具有不同切变模量的 TiN-Cu层与非晶相 AIN 层毗邻，能有效地阻止位错等缺陷的运动。另外，TiN 层与 AIN 层的晶格常数相近，可在层界面处产生交变应力场，这有利于硬度的增加[26]。因此，在 AIN/TiN-Cu纳米复合多层膜中，由于层界面硬化等机制的存在，可使多层膜中含有更多的软相Cu,即提高了薄膜的硬度，又能增加薄膜的韧性。
+
+2.2.2单质Cu对膜/基结合强度的影响
+
+茶
+
+3#和 7#薄膜失效时划痕形貌如图5所示。可以出，纳米复合多层膜周边出现的崩落碎片比纳米复合单层薄膜多。划痕内部的裂纹形貌出现了典型的拉伸裂纹，这主要是由于薄膜在压头的切向摩擦力下，压茶头划过后薄膜内产生的拉应力造成的 [27]。
+
+![](images/aa948eaa3e7a0b38eee8cb791f860c81f103b4a76070ad4e61553d89044e01d6.jpg)  
+图5典型掺Cu样品痕形貌的'SEM像
+
+Fig.5 SEM images of scratch test of monolayer sample $3 \#$ (a) and multilayer sample 7# (b)
+
+根据实验中采集到的声信号，结合薄膜失效形貌判断各薄膜的临界载荷，1#、3#、5#和7#薄膜样品的临界载荷分别为15、17.5、17.5和 $1 6 \mathrm { N }$ 。可见，单层掺Cu 薄膜(3#)比单层未掺Cu薄膜(1#)的临界载荷大，而多层膜中掺Cu的样品(7#)却比未掺Cu样品(5#)的临界载荷小。
+
+纳米复合单层薄膜临界载荷的变化与其硬度变化一致，其原因是固溶体(Ti，AI)N 中掺入了Cu后，晶粒细化，晶界增多，裂纹不易扩展，韧性和硬度都有提高，膜/基结合力也随之提高。而纳米复合多层膜临界载荷的变化与其硬度变化却不相同。Hultman 等[28]在分析氮化物多层膜时指出，在划痕实验中，塑性变形和位错运动都被限制在独立的薄膜层内，而硬度则归因于位错的运动需贯穿层界面而被限制。在外力作用下，裂纹会沿多层膜的层界面平行方向扩展[29]。然而，在 AIN/TiN-Cu 纳米复合多层膜中，由于层界面处有部分软相Cu富集，如图3c所示，因此裂纹在 AIN层扩展时，较容易越过层界面，体现为掺Cu的AIN/TiN-Cu多层膜会有较小的临界载荷。
+
+# 3结论
+
+(1）利用多弧离子镀膜设备制备了AIN/TiN-Cu纳米复合多层膜，多层膜是由以非晶AIN层和多晶 TiN包围单质Cu为单元组成的复合多层薄膜。纳米复合多层膜引入了大量的层界面，有效地阻碍了柱状组织的形成，一定程度上释放了薄膜的内应力，阻碍了位错等缺陷的开动与迁移。
+
+(2)AIN/TiN-Cu 纳米复合多层膜中由于软相和层界面的引入，Cu以单相的形式存在于 TiN周围，既细化了晶粒，又可作为软相添加物对薄膜起到一定的韧化作用，在一定程度上提高了薄膜的硬度和韧性。其硬度最高达到 $3 7 . 9 \mathrm { G P a }$ 。 茶
+
+(3）AIN/TiN-Cu纳米复合多层膜中单质Cu不被包于TiN之中，而且聚集于层界面处，易于裂纹越过层界面，因此对膜/基结合强度有一定的影响。
+
+武你 4参考文献
+
+[1] Zhang HP,Tang W M,Chang Z,et al. Research status and application of superhard tool material[J]. Aeron. 公 Manuf. Technol., 2015,(6): 47
+
+K(张慧萍，唐文明，常 震等．超硬刀具材料的研究现状及应用 [J]．航空和造技术,2015,(6):47)
+
+[2] Zhang E G, Zhu Z, Zhang T B. Research progress and application ofperhard nano-micron PVD coating technology in the cuting manufacturing area [J]. Surf. Technol., 2O15, 44(4): 89
+
+(张而耕，朱 州，张体波．超硬纳微米 PVD 涂层技术刀具领域的应用及研究进展[J].表面技术，2015,44(4): 89)
+
+[3] Wang JT,Liu P,Li W,et al. Research progress of TiAIN hard coating [J].Hot Work. Technol.,2010,39(20): 104
+
+(王均涛，刘 平,李 伟等.TiAIN 硬质涂层的研究进展 [J]．热加工工艺,2010,39(20):104) [4] Musil J. Hard and superhard nanocomposite coatings [J]. Surf. Coat. Technol.,20oo,125: 322 [5] Ran C H,Jin YD, Zhu W,et al. Study status on the impact of stress on structure and properties offilms [J]. Mater. Rev.,2013,27(5): 139
+
+(冉春华，金义栋，祝 闻等．应力对薄膜结构与性能影响的研究现状 [J].材料导报,2013,27(5):139) [6] Chen K Y,Bielawski M. Interfacial fracture toughnessof transition metal nitrides [J]. Surf.Coat.Technol., 2008,203: 598
+
+[7]Musil J, Vlcek J.Magnetron sputering of films with controlled texture and grain size[J].Mater. Chem.Phys., 1998, 54: 116
+
+[8] He JL, Setsuhara Y,Shimizu I,et al. Structure refinement and hardness enhancement of titanium nitride films by addition of copper [J]. Surf. Coat. Technol., 2001,137: 38   
+[9] Olivera JC, Manaia A, Cavaleiro A. Hard amorphous Ti-Al-Ncoatings deposited by sputtering [J]. Thin Solid Films, 2008, 516: 5032   
+[10] Zhao YH, Wang X Q, Xiao JQ, et al. Ti-Cu-N hard nanocomposite films prepared by pulse biased arc ion plating[J]. Appl. Surf. Sci., 2011, 258: 370   
+[11] Zhang L,Ma G J,Lin G Q,et al. Synthesis of Cu doped TiN composite films deposited by pulsed bias arc ion plating [J]. Nucl. Instrum. Methods Phys. Res., 2014,320B: 17   
+[12] Myung H S, Lee H M, Shaginyan L Ryet al. Merostructure and mechanical properties of Cu doped TiN superhard nanocomposite coatings [J]. Surf. Coat. Technol., 2003,163-164: 591   
+收   
+[13] Koehler JS. Attempt to designStrong solid [J]. Phys.Rev.,1970,2B: 547   
+[14] Yang W M C, Tsakalakos T, Hard JE. Enhanced elastic modulus in composition-modulated gold-nickel W   
+and copper-palladium foils [J]. J. Appl. Phys., 1977, 48: 876   
+[15] Wong M S, Hsiao G Y, Yang S Y. Preparation and characterization of AIN/ZrN and AIN/TiN nanolaminate 方   
+coatings [J]. Surf. Coat. Technol., 2000,133-134: 160 海   
+[16] Madan A, KimI W, Cheng S C,etal. Stabilization of cubic AIN in epitial AIN/TiN superlatices[J].Phys. Rev. Lett., 1997, 78: 1743   
+[17] Wei Y Q, Li C W, Gong C Z, et al. Microstructur nd mechanical properties of TiN/TiAlN multilayer coatings deposited by arc ion plating with separate targets[J]. Trans. Nonferrous Met. Soc. China,2011,21:1068 [18] Kawata K, Sugimura H, Takai O. Characterization of multilayer films of Ti-Al-O-C-N system prepared by pulsed d.c. plasma-enhanced chemical vapor deposition [J]. Thin Solid Films,2001, 390: 64   
+[19] Leu M S,Lo S C, Wu JB,et al. Microstructure and physical properties of arc ion plated TiAlN/Cu thin film [J]. Surf. Coat. Technol.,2006,201: 3982   
+[20] Wei L, MeiF H, Shao N, et al. Study on the growth and superhardness of $\mathrm { T i N } / \mathrm { S i O } _ { 2 }$ nanomultilayers [J]. Acta Phys. Sin., 2005, 54: 1742   
+(魏 仑，梅芳华,邵 楠等. $\mathrm { T i N } / \mathrm { S i O } _ { 2 }$ 纳米多层膜的晶体生长与超硬效应[J]．物理学报,2005,54:1742) [21] Shi J, Kumar A, Zhang L,et al. Effect of Cu addition on properties of Ti-Al-Si-N nanocomposite films deposited by cathodic vacuum arc ion plating [J]. Surf. Coat. Technol., 2012, 206: 2947 [22] Horling A, Hultman L, Oden M, et al. Thermal stability of arc evaporated high aluminum-content $\mathrm { T i } _ { 1 - x } \mathrm { A l } _ { x } \mathrm { N }$ thin films [J]. J. Vac. Sci. Technol., 2002,20A: 1815   
+[23] PalDey S,Deevi S C. Single layer and multilayer wear resistant coatings of (Ti, Al) N: a review [J]. Mater. Sci. Eng., 2003, 342: 58   
+[24] Jin L. Study on the preparation and properties of $\mathrm { T i } _ { 1 - x } \mathrm { A l } _ { x } \mathrm { N }$ films deposited by the multi-arc techniques [D]. Wuhan: Wuhan University of Science and Technology, 2006   
+(金 犁.多弧离子镀制备 $\mathrm { T i } _ { 1 - x } \mathrm { A l } _ { x } \mathrm { N }$ 薄膜的工艺及其性能研究 [D]．武汉：武汉科技大学,2006) [25] Zou Z X,Xiang JZ,XuS Y.Theoretical derivation of Hall-Petch relationshipand discussion ofits applicable range[J]. Phys. Exam. Test.,2012, 30(6): 13   
+(邹章雄，项金钟，许思勇.Hall-Petch 关系白 论推导及其适用范围讨论[J]．物理测试，2012,30(6): 13) 海 方   
+[26] Carvalho NJM, Zoestbergen E, Kooi BJ, et al. Stress analysis and microstructure of PVD monolayer TiN 1   
+and multilayer TiN/(Ti, Al)N coating [J]. Thin Solid Films,2003, 429: 179   
+[27] Jiang F Q. Adhesion measureme Nof titanium nitride coatings using the scratch test [D]. Chengdu: Southwest 冬   
+Jiaotong University, 2012 茶   
+(江范清．划痕法评价氮化钛薄膜结合力研究 [D]．成都：西南交通大学,2012)   
+[28] Hultman L, Engstrom C, Birch J, et al. Review of the thermal and hanical stability of TiN-based thin films [J]. Z. Metallkd.,1999,90: 803 收   
+[29] Mendibide C, Fontaine J, Steyer P, et al. Dry sliding wear l of nanometer scale multilayered TiN/CrN PVD hard coatings [J]. Tribol. Lett., 2004,17: 779

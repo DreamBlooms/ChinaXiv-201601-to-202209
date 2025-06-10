@@ -1,0 +1,519 @@
+[
+    {
+        "type": "text",
+        "text": "基于系统动力学模型的塔里木河流域水资源承载力研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘夏¹，张曼²，徐建华³，郭英¹，段伟利4，沈彦军1(1.中国科学院遗传与发育生物学研究所农业资源研究中心,中国科学院农业水资源重点实验室,河北省节水农业重点实验室,河北石家庄050021；2.河北师范大学资源与环境科学学院,河北石家庄050024；3.华东师范大学地理科学学院，上海200062；4.中国科学院新疆生态与地理研究所,荒漠与绿洲生态国家重点实验室，新疆 乌鲁木齐 830011)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：水资源承载力的定量评估是确保干旱地区水资源可持续利用的关键前提。选取我国最大的内陆干旱区流域——塔里木河流域为研究区域,结合其特殊的地理环境和供水与需水特征，构建系统动力学模型，基于实地调研、统计年鉴与水资源公报数据，以水资源红线为约束,对塔里木河流域水资源承载力的历史状况与未来趋势进行了定量评估和预测。结果显示：塔里木河流域及其所属各地(州)历史期内(2008—2016年)水资源均呈现轻度超载状态，且在未来(2017—2030年)将进一步加剧。在当前的政策背景下，如使该区水资源于2030年达到可承载的状态，则需在该地区扩大农业节水设施建设规模并着力发展农业节水灌溉技术，并力争在2030年实现灌溉用水定额达到 $5 . 7 0 { \\times } 1 0 ^ { 3 } \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 以下，农业灌溉面积降低至 $2 . 6 0 { \\times } 1 0 ^ { 6 } \\mathrm { h m } ^ { 2 }$ 以下。同时，农业节水与产业转型应是该地区未来社会经济发展的2个需要重点考虑的方向。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：水资源承载力；系统动力学模型；干旱区；节水农业；塔里木河流域",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "水资源承载力评估是干旱区水资源可持续开发、利用研究的热点问题。我国有较多关于水资源你承载力的研究文献[1-3],然而关于水资源承载力仍未形成完整的理论体系，各专家学者对水资源承载力的定义不一而足，关于水资源承载力的定义目前有两类：一类为水资源的最大可供给水量，即在一定的社会经济条件下，水资源最大可供给工业、农业、居民生活和生态环境等用水的能力，也即水资源的最大可开发量4，在这个容量下水资源处于不断更新与循环之中，可被人不断的利用，在被利用的同时也不会造成水环境恶化；另一类为水资源的最大可支撑经济与社会规模，即某一地区的水资源在特定的历史发展阶段下，以一定的社会与经济发展水平为依据，按照可持续发展的原则，在保持生态环境良性循环的前提下，对该地区社会经济发展的最大支撑能力，这一“能力\"通常用人口数量、经济规模等指标来表征[5]。相对于水资源最大开发容量，最大支撑能力理论增加了水资源系统与社会经济系统之间的互馈关系，得到了更为广泛的应用，夏军等[、段青春等7均以水资源可支撑的最大人□或经济规模为基础，对研究区水资源承载力进行了测算[6-7]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "塔里木河流域地处新疆南部地区，北面与天山相连，南部为昆仑山，西部与帕米尔高原接壤，流域内降水少且蒸发量大，属于典型的干旱区，水资源一直是制约当地社会经济发展的主要因素。塔里木河流域还是国家“一带一路”倡议的核心区域，是我国东部地区连接中亚、南亚与西亚地区的枢纽地区，随着我国现代社会经济的不断发展，塔里木河流域的社会不断进步的同时水资源短缺问题也日益严重[8-10],水资源短缺已经成为制约当地社会经济发展的决定性因素[]。此外,塔里木河流域水循",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "环模式因\"山地-绿洲-荒漠\"地貌景观格局的特殊性，导致气候变化引起的流域水资源短缺与社会发展的矛盾更加凸显[12]。因此，在经济发展和气候变化的双重影响下，对流域水资源承载力进行评估并预测其未来的变化趋势是流域能否实现协调和可持续发展的关键问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "水资源承载力评估的方法一直是该领域的热点问题。水资源承载力的计算方法大致可分为3类：（1）基于经验估算的方法，（2）基于指标体系评价的方法，（3）基于复杂系统分析的方法。先前关于塔里木河流域水资源承载力研究一直聚焦于经验估算与指标体系评价两类方法。采用复杂系统分析法评估该流域水资源承载力的研究还未见报道。系统动力学是复杂系统分析法中的一种，近年来在水资源承载力研究领域的应用日益增多，其研究结果表明系统动力学模型在流域水资源承载力评估方面具有良好的适用性[7]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究以塔里木河流域为研究区，尝试建立一种结构简单而且统计数据可以支持的系统动力学模型，对塔里木河流域历史期水资源承载力进行定量评估，同时，根据塔里木河流域当前社会经济发展趋势对该地区未来10a水资源承载力的变化趋势进行预测，提出塔里木河流域水资源承载力达标的参考方案，为塔里木河流域未来社会经济发展提供科学支撑。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "塔里木河流域由9条源头河流与1个干流组成，9条源头河流指的是发源于天山山脉的开都-孔雀河、迪那河、渭干-库车河、阿克苏河，发源于帕米尔高原的喀什噶尔河，发源于昆仑山山脉的叶尔羌河、和田河、克里雅河、车尔臣河;9个干流指的是塔里木河干流。塔里木河流域总地表径流量大约为$3 9 8 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ，分别来自于高山冰雪融水、山区森林降水与基岩裂隙水构成[13]。塔里木河流域包括5个地州：巴音郭楞蒙古自治州（巴州）、克孜勒苏柯尔克孜自治州（克州）阿克苏地区、喀什地区与和田地区。新疆是农业大省且灌溉农业为当地的主要农业类型，因此农业用水在总用水量中的比重最大。近年来，塔里木河流域经济发展迅速，工业、农业与服务业同步快速发展，其有限的水资源已难以支撑当地社会经济的进一步发展。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2数据与模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究采用的数据主要来源于2008—2016年《新疆水资源公报》14与2009—2017年《新疆统计年鉴》[15]。《新疆水资源公报》中使用到的数据包括巴州、克州、阿克苏、喀什与和田地区的用水总量、一产用水量、二产用水量、三产用水量、农业灌溉用水量、非灌溉用水量、生活用水量与生态用水量，单位为 $1 0 ^ { 8 } \\mathrm m ^ { 3 }$ ；《新疆统计年鉴》中使用到的数据包括巴州、克州、阿克苏、喀什与和田地区的一产国内生产总值（GDP）、二产GDP与三产GDP（单位： $1 0 ^ { 4 }$ 元）农业灌溉面积( $\\left( \\mathrm { k m } ^ { 2 } \\right)$ 、灌溉用水定额 $( 1 0 ^ { 8 } \\mathrm { m } ^ { 3 } \\cdot \\mathrm { k m } ^ { - 2 } )$ 人口数量(人)。这些数据，主要用于确定模型的有关参数和模型的验校。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2模型构建 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了评估塔里木河流域水资源承载力，分析其时间变化趋势，本文构建了一个塔里木河流域水资源承载力系统动力学模型。模型根据系统的层次关系将其划分为若干个子模块，每个模块由单个或多个变量与方程组成，各个模块之间通过层次或因果关系建立关联，通过这些变量、方程与模块来描述客观世界的复杂变化[16]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "该模型主要包括人口模块、经济模块与水资源模块。每个模块的构成与各个模块之间的关系如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中，人口模块由人口增长率与人口数量构成的一阶动力学方程描述，其具体结构如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } c } { \\mathrm { d } t } = p 1 \\times c\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $c$ 表示人口数 $( \\curlywedge ) _ { \\{ p 1 \\} }$ 表示人口增长率 $( \\lambda \\cdot \\mathrm { a } ^ { - 1 } )$ $\\mathbf { \\Phi } _ { t }$ 表示时间步长(a)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "经济模块由农业灌溉用水与二、三产GDP增长的一阶动力学方程构成，农业灌溉面积、二产GDP、三产GDP为方程变量，二产GDP增长率、三产GDP增长率为方程参数，其具体结构如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\scriptstyle { g = p 2 \\times x }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } \\boldsymbol { y } } { \\mathrm { d } t } = p \\boldsymbol { 3 } \\times \\boldsymbol { y }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } z } { \\mathrm { d } t } = p 4 \\times z\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\boldsymbol { g }$ 表示灌溉用水量 $( \\mathbf { m } ^ { 3 } ) : x$ 表示农业灌溉面积$( \\mathrm { h m } ^ { 2 } )$ ; $y$ 表示二产GDP( $1 0 ^ { 4 }$ 元）； $z$ 表示三产 $\\mathrm { G D P } ( 1 0 ^ { 4 }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e9bc3987a946e44ef816199698bb8b4df998ba581ac0b3835629bc925f163782.jpg",
+        "img_caption": [
+            "图1塔里木河流域水资源承载力系统动力学模型框架",
+            "Fig.1Frame of system dynamics model about water resource carrying capacity in Tarim River Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "元）； $p 2$ 表示灌溉用水定额 $\\left( \\mathbf { m } ^ { 3 } \\cdot \\mathbf { h m } ^ { - 2 } \\right) .$ ; $p 3$ 表示二产GDP增长率 $( \\% )$ $p 4$ 表示三产GDP增长率 $( \\% )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "水资源模块由生活用水量、一产用水量、二产用水量、三产用水量、总用水量与水资源承载系数的计算构成。其具体结构如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1塔里木河流域及其各地区水资源红线值",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/c98950e0d818758c82d1db3589a81dd4156a8421b9242c97894deb916337c01a.jpg",
+        "table_caption": [
+            "Tab.1WaterresourceredlinesofTarimRiverBasin "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">and its regions</td><td>/10m²</td></tr><tr><td>年份</td><td>巴州</td><td>克州</td><td>阿克苏</td><td>喀什</td><td>和田</td><td>塔里木河流域</td></tr><tr><td>2020</td><td>46.92</td><td>4.30</td><td>93.07</td><td>106.09</td><td>41.10</td><td>291.48</td></tr><tr><td>2030</td><td>46.26</td><td>4.30</td><td>92.50</td><td>94.94</td><td>41.10</td><td>279.10</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\longrightarrow \\overrightarrow { \\bf \\mathrm { y } } ^ { \\mathrm { s } } \\cdot \\mathbb { H } \\times \\frac { \\Xi } { \\mathbb { H } } = { \\bf { g } } + { \\bf { \\mathrm { \\Delta } } } f\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3水资源承载力系统动力学模型校准",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "总用水量 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 生活用水量 $^ +$ 生态用水量 $^ +$ 一产用水量 $^ +$ 二产用水量 $^ +$ 三产用水量式中： $\\mathrm { \\ w p p }$ 表示人均用水量 $( \\mathbf { m } ^ { 3 } \\cdot { \\textstyle \\bigwedge } ^ { - 1 } ) ; f$ 表示非灌溉农业用水量( $\\left[ 1 0 ^ { 8 } \\mathrm { m } ^ { 3 } \\right]$ $\\mathrm { w p } 2$ 表示单位二产GDP用水量$[ \\mathbf { m } ^ { 3 } \\cdot ( 1 0 ^ { 4 } \\overrightarrow { \\mathcal { T } } ) ^ { - 1 } ]$ ;wp3表示单位三产GDP用水量 $[ \\mathbf { m } ^ { 3 }$ ：$( 1 0 ^ { 4 } \\overrightarrow { \\mathcal { T } } \\overrightarrow  \\} ) ^ { - 1 } \\Big ]$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据实地走访调查，新疆各地州实施“以供定需\"的水资源分配政策，因此，本研究采用总用水量与水资源红线的比值作为承载系数对水资源承载力进行评价。水资源承载系数无量纲，当水资源承载系数小于1时，表明水资源未超载，当水资源承载系数大于1时，表明水资源已超载。塔里木河流域及其各地区水资源红线值如表1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "模型模拟值与客观实际值相一致是模型可用的前提。模型参数的校准过程为：将系统动力学模型计算出的塔里木河流域及其所属各地区总用水量模拟值与实际值进行比较，选取决定系数 $\\left( R ^ { 2 } \\right)$ 为评价模型适用性的指标。模型校准结果如图2所示。模型决定系数均在0.6以上。总体上，模型参数拟合的效果很好，表明了我们的水资源承载力系统动力学模型对于整个塔里木河流域以及包括的各地州(巴州、克州、阿克苏、喀什、和田)的系统模拟具有很好的适用性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1塔里木河流域水资源承载力现状评价",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "塔里木河流域及其所属各地区历史期内(2008—2016年）水资源承载系数与超标水量的均值计算结果如表2所示。塔里木河流域及其所属各",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "70 (a)巴州 14 (b)克州  \n0I/用 605040 0/ 121083020 6R²=0.9 总用水量实值 42 R²=0.9 总用水量实值100 02008 2009 2010 2011 2012 2013 20142015 2016 2008 2009 2010 2011 2012 2013 2014 2015 2016年份 年份140 (c)阿克苏 160 (d)喀什  \n18 $R ^ { 2 } { = } 0 . 6$ （204号 总用水量实值 88 $R ^ { 2 } { = } 0 . 8$ （204号 总用水量实值0 02008 2009 2010 2011 2012 2013 2014 2015 2016 2008 2009 2010 2011 2012 2013 2014 2015 2016年份 年份5048464442403826 (e)和田 (f)塔里木河流域  \n0/ 200总用水量实际值 150 总用水量实际值$R ^ { 2 } { = } 0 . 9$ -总用水量模拟值 总 1500 $R ^ { 2 } { = } 0 . 9$ （20 总用水量模拟值362008 2009 2010 2011 2012 2013 2014 2015 2016 2008 2009 2010 2011 2012 2013 2014 2015 2016年份 年份",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2塔里木河流域水资源承载力历史期评估结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/3129fbceb4e9814dbfd8a116633b916ee62e2fc2552c8c5a6fc57a2b54ffbe93.jpg",
+        "table_caption": [
+            "Tab.2 Assessment of water resource carrying capacity of TarimRiver Basin in historical period "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>评估结果 巴州 克州 阿克苏 喀什 和田 塔里木河流域</td></tr><tr><td></td><td>1.13</td></tr><tr><td>承载系数</td><td>1.04 2.36</td><td>1.16 1.10 1.11</td></tr><tr><td>超标水量/10m 2.09</td><td>5.38 14.43 10.35</td><td>4.46 37.16</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "地区历史期内水资源呈现轻度超载状态，其中克州超载状况较重，水资源承载系数为2.36，超过水资源红限值（2020年） $1 3 6 \\%$ ,其它地区均超过红限值 $10 \\%$ 左右，超载程度较轻。结合超载水量来看，尽管克州地区水资源超载程度高，然而超载水量却很低，并不是造成流域水资源超载的主要原因，克州水资源超载状况严重的主要原因为克州地区的水资源红线值较低 $( 4 . 3 0 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 } )$ ),远远低于其它地区的水资源红线值。喀什、巴州、和田与阿克苏地区的水资源超载状况均较轻，水资源承载系数约为1.10，超出其水资源红线值所规定的最大可用水量的 $1 0 \\%$ 左右。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3总结了整个塔里木河流域一产、二产、三产",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "GDP以及人口的平均增长率。根据系统动力学模型拟合结果显示，近些年整个塔里木河流域的人口年均增长率为 $2 . 1 7 \\%$ ,人口增长速度较为缓慢。对于三大产业来说，农业与服务业的GDP增速较高，分别为 $1 4 . 9 0 \\%$ 与 $1 6 . 2 7 \\%$ ，呈现高速发展的趋势，而工业GDP的年均增长率为 $8 . 8 6 \\%$ ，呈现中高速发展的趋势。总体上，整个塔里木河流域近年来经济高速发展，人口增速适中，农业与服务业对经济增长的贡献较大。结合表3与表4可知，工业与服务业用水量尽管增速较快，但其占总用水量的比例相对于农业用水量来说很小，并不是造成水资源超载的主要原因，同理生活用水量亦是如此，因此农业用水量大是造成塔里木河流域水资源严重超载的主要原因,这一结果与先前文章的报道相一致[17-19]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3显示塔里木河流域单位一产用水量显著高于单位二、三产用水量与人均用水量。在塔里木河流域经济基础相对落后、农业对经济发展的贡献不低的背景下(图3)，农业经济的快速发展消耗了大量的水资源，成为了塔里木河流域水资源超载的主",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b1f78d5a28e7525df1d70e2e925f8564f9615ad562df7d89069470a0f28fc8c8.jpg",
+        "table_caption": [
+            "Tab.3Water utilization parameters in 2O16 and historical population and economic development state in Tarim Rvier Basin and its regions "
+        ],
+        "table_footnote": [
+            "注：\"/\"表示无数据。"
+        ],
+        "table_body": "<html><body><table><tr><td>参数</td><td>巴州</td><td>克州</td><td>阿克苏</td><td>喀什</td><td>和田</td><td>塔里木河流域</td></tr><tr><td>灌溉用水定额/m·hm-2</td><td>640</td><td>681</td><td>698</td><td>604</td><td>880</td><td>/</td></tr><tr><td>单位二产用水量/m·(10元)-</td><td>42.70</td><td>50.40</td><td>50.84</td><td>26.15</td><td>37.10</td><td>40.48</td></tr><tr><td>单位三产用水量/m·(10元)</td><td>6.41</td><td>3.88</td><td>4.91</td><td>2.09</td><td>54.77</td><td>5.06</td></tr><tr><td>人均用水量/m·人-</td><td>67.51</td><td>53.08</td><td>25.52</td><td>41.20</td><td>24.90</td><td>37.68</td></tr><tr><td>一产GDP年均增长率/%</td><td>15.55</td><td>15.60</td><td>13.26</td><td>10.93</td><td>14.13</td><td>14.90</td></tr><tr><td>二产GDP年均增长率/%</td><td>10.87</td><td>11.62</td><td>18.02</td><td>23.73</td><td>4.88</td><td>8.86</td></tr><tr><td>三产GDP年均增长率/%</td><td>15.78</td><td>22.58</td><td>14.86</td><td>17.07</td><td>13.76</td><td>16.27</td></tr><tr><td>人口年均增长率/%</td><td>2.85</td><td>2.46</td><td>16.14</td><td>2.16</td><td>1.25</td><td>2.17</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/bbcf68be8f668b3bf12d49fe029decdada1a9e54408a5a48f31056217b22249d.jpg",
+        "table_caption": [
+            "表32016年塔里木河流域及其各地区用水参数现状与历史人口经济发展状况",
+            "表4塔里木河流域历史期内用水结构",
+            "Tab.4Waterutilizationstructure of TarimRiver Basin in historical period "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>年份</td><td>生活用水</td><td>一产用水</td><td>二产用水</td><td>三产用水</td><td>生态用水</td></tr><tr><td>2008</td><td>2.60</td><td>303.17</td><td>2.83</td><td>0.66</td><td>6.04</td></tr><tr><td>2009</td><td>3.09</td><td>295.89</td><td>2.62</td><td>0.52</td><td>5.83</td></tr><tr><td>2010</td><td>2.42</td><td>306.63</td><td>3.05</td><td>0.48</td><td>3.81</td></tr><tr><td>2011</td><td>3.10</td><td>294.79</td><td>3.44</td><td>0.51</td><td>3.03</td></tr><tr><td>2012</td><td>3.44</td><td>321.41</td><td>3.92</td><td>0.60</td><td>2.48</td></tr><tr><td>2013</td><td>3.78</td><td>348.02</td><td>4.39</td><td>0.68</td><td>1.93</td></tr><tr><td>2014</td><td>3.83</td><td>332.75</td><td>4.02</td><td>0.86</td><td>1.64</td></tr><tr><td>2015</td><td>3.77</td><td>330.34</td><td>3.82</td><td>0.93</td><td>1.53</td></tr><tr><td>2016</td><td>4.26</td><td>327.53</td><td>4.26</td><td>0.43</td><td>2.01</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "/10m³",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/694b51761cea4157cfb272a0e3b036745f23b9ec1aef8b44a498e018e637697b.jpg",
+        "img_caption": [
+            "图32008—2017年塔里木河流域产业结构变化Fig.3Changes of industrial structure in TarimRiver Basinfrom 2008 to 2017"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "要原因。塔里木河流域单位二产用水量与人均用水量相差不大，分别为 $4 0 . 4 8 ~ \\mathrm { m } ^ { 3 } { \\cdot } ( 1 0 ^ { 4 } \\overrightarrow { \\mathcal { I } \\mathrm { L } } ) ^ { - 1 }$ 与 $3 7 . 6 8 \\mathrm { m } ^ { 3 }$ ：人-;单位三产用水量最低，仅为 $5 . 0 6 ~ \\mathrm { m } ^ { 3 } \\cdot ( 1 0 ^ { 4 } \\overrightarrow { \\mathcal { T } } ) ^ { - 1 } .$ 因此，控制人口过快增长，促进产业转型，加快工业化进程，提高三产所占GDP比重将是实现塔里木河流域经济社会绿色发展的方向。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2塔里木河流域水资源承载力未来趋势预测",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于校准后的塔里木河流域水资源承载力系统动力学模型，选取模型中与经济发展和用水相关的自变量与参数(人口增长率、二产GDP增长率、三产GDP增长率、农业灌溉用水定额、农田灌溉面积和生态用水量)作为决策变量，通过改变其取值，设置不同的未来情景。用校准好的系统动力学模型，对预测期(2017—2030年)塔里木河流域及其所属各地区用水总量与承载系数进行预测，为寻求塔里",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "木河流域水资源可持续发展途径提供参考。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据图4塔里木河流域农业灌溉比变化趋势可以发现，塔里木河流域个别地区在2012年农业灌溉面积开始转为下降趋势。根据《新疆用水总量控制方案》中的描述，2012一2030年，新疆兵团退减灌溉面积 $2 . 1 6 \\times 1 0 ^ { 5 } \\mathrm { h m } ^ { 2 }$ 。其中2012—2015年退减灌溉面积 $3 . 5 7 \\times 1 0 ^ { 4 } \\mathrm { h m } ^ { 2 }$ ,这可能是塔里木河流域个别地区2012年农业灌溉面积开始转为下降趋势的原因。根据塔里木河流域农业灌溉面积历史变化趋势与政策分析，本文基于流域各地区近4a的农业灌溉面积趋势进行线性预测，其农业灌溉面积预测结果如图4所示，人口增长率、灌溉用水定额、二产与三产GDP增长率、单位二产与三产GDP用水量和人均用水量均采用与历史期相同的参数，即与表3中的值保持一致，生态用水量在历史期内呈现逐年减小的趋势。塔里木河流域管理局颁布的《2010一2030年塔里木河流域水资源综合利用规划》中规定，到",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2020年塔里木河干流种植业规模为 $6 . 3 0 \\times 1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ 减少农业生产占用生态用水[20],因此本研究预计塔里木河流域生态用水量未来将改为增长趋势，故采用二次曲线进行拟合预测。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "按照现状方案，未来10a(2020—2030年），塔里木河流域水资源超载的状况将会逐渐加重。表5显示：至2025年，塔里木河流域水资源承载系数将达到1.25，总用水量将超过水资源红线值规定的最大用水量的 $2 5 \\%$ ;至2030年，塔里木河流域水资源承载系数将达到1.34，总用水量将超过水资源红线值规定的最大用水量的 $34 \\%$ 。空间上，克州的水资源超载状况最为严重，至2030年，克州水资源承载系数将达到5.11，总用水量将超过水资源红线值规定的最大用水量的 $4 1 1 \\%$ 。阿克苏与和田地区至2030年水资源承载系数将达到1.90与1.83，总用水量将分别超过水资源红线值规定的最大用水量的 $9 0 \\%$ 与 $8 3 \\%$ ，水资源超标状态将逐渐严重。喀什与巴州",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a219f89e292ebae5ad349b5e1cc332321ed9093ce255e577efc54dc069b12336.jpg",
+        "img_caption": [
+            "图4现状方案中各地区农业灌溉面积未来变化趋势",
+            "Fig.4Future trend of irrigated farmland area in each region based on current development plan "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表5现状方案与可承载方案下塔里木河流域及各地区水资源承载系数预测",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/0c3069ed9d41340c54b2346ff63da223b9944c6b6028a960a0bf1eba3138cb87.jpg",
+        "table_caption": [
+            "Tab.5Prediction of water resource carrying capacitycoefficients in Tarim Rvier Basin and its regions on the current development plan and development plan of “reach to the carrying capacity” "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>方案</td><td>年份</td><td>巴州</td><td>克州</td><td>阿克苏</td><td>喀什</td><td>和田</td><td>塔里木河流域</td></tr><tr><td>现状方案</td><td>2020</td><td>0.96</td><td>3.04</td><td>1.45</td><td>0.97</td><td>1.25</td><td>1.20</td></tr><tr><td rowspan=\"5\"></td><td>2025</td><td>0.90</td><td>3.76</td><td>1.64</td><td>0.88</td><td>1.49</td><td>1.25</td></tr><tr><td>2030</td><td>0.86</td><td>5.11</td><td>1.90</td><td>0.82</td><td>1.83</td><td>1.34</td></tr><tr><td>2020</td><td>0.90</td><td>2.80</td><td>1.30</td><td>0.91</td><td>1.09</td><td>1.09</td></tr><tr><td>2025</td><td>0.77</td><td>3.05</td><td>1.24</td><td>0.73</td><td>1.13</td><td>0.98</td></tr><tr><td>2030</td><td>0.71</td><td>3.79</td><td>1.20</td><td>0.61</td><td>1.24</td><td>0.91</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "的水资源承载系数将逐渐降低，至2030年水资源承载系数将达到0.82与0.86，水资源将达到可承载的状态。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "考虑到塔里木河流域水资源超载的现实状况，本研究设计相关情景以使流域水资源可承载,即流域总用水量至2030年低于水资源红线规定的最大可用水量。在可承载方案中，考虑到塔里木河流域农业具有稳粮保粮的任务，农业灌溉面积仍然按照线性的趋势分别以图4的方式进行增长；考虑到塔里木河流域社会经济基础较为薄弱，人口较为稀少，人口增长率、二产与三产GDP增长率、单位二产与三产GDP用水量和人均用水量均与现状方案保持一致。灌溉用水定额方面，参考《中华人民共和国国民经济和社会发展第十三个五年规划纲要》中关于在南疆、甘肃河西等严重缺水地区实施专项节水行动的计划，降低模型中的灌溉用水定额使该流域水资源整体达到可承载的状态。可承载方案重点考虑减小流域灌溉用水定额以使流域水资源逐步到达可承载的状态。可承载方案中，塔里木河流域灌溉用水定额如表6所示，若要实现流域水资源在2030年不超载，其灌溉用水定额需要达到 $5 . 7 0 \\times$ $1 0 ^ { 3 } \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 以下，农业灌溉面积降低至 $2 . 6 0 { \\times } 1 0 ^ { 6 } \\mathrm { h m } ^ { 2 }$ 以下，参考其他国家的灌溉用水定额，此定额略高于以色列 $\\left( 5 . 2 5 { \\times } 1 0 ^ { 3 } \\ \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 } \\right)$ 的灌溉用水定额[21-23]，即塔里木河流域农业节水技术与规模需要在2030年达到或接近以色列目前的水平。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表6可承载方案下塔里河流域灌溉用水定额",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/98e0fefb01e494b3acf91c2db3f72abb71b3fc6d7480a855b886be1873f2b6e4.jpg",
+        "table_caption": [
+            "Tab.6 Irrigation quotas of TarimRvierBasin on the development plan of“reach to the carrying capacity\" "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>年份</td><td>2020</td><td>2030</td></tr><tr><td>灌溉用水定额/m·hm-2</td><td>9600</td><td>5700</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "按照可承载方案，未来10a（2020—2030年），塔里木河流域水资源超载的状况将会逐渐缓解，至2030达到可承载的状态。表5显示：至2025年，塔里木河流域水资源承载系数将达到0.98，总用水量低于水资源红线值规定的最大用水量的 $2 \\%$ ，至2030年，塔里木河流域水资源承载系数将达到0.91，总用水量将持续低于水资源红线值规定的最大用水量，水资源达到可承载状态。空间上，克州的水资源超载状况仍然最为严重，至2030年，克州水资源承载系数将达到3.79，总用水量将超过水资源红线值规定的最大用水量的 $2 7 9 \\%$ ，然而由于克州地区水资源红线值很小 $( 4 . 3 0 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 } )$ ，不会对塔里河流域整体水资源逐步可承载的总体趋势产生较大影响。尽管目前阿克苏水资源处于超标状态，但未来10a水资源承载系数将呈现逐步降低的趋势。值得注意的是：在可承载方案中，和田地区水资源超载状况仍然呈现缓慢加剧的趋势。巴州与喀什地区水资源承载系数将逐渐降低，水资源超载的风险将越来越小。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "塔里木河流域及其所属各地区水资源量如图5所示。近年来，塔里木河流域水资源供需矛盾日益突出[24-25],结合各个地区的水资源承载力的分析结果与各地区的水资源量的数据分析可以看到，克州地区水资源量与其它地区的水资源量相比差距并不明显，约为水资源量最高的巴州地区的一半，然而其水资源红线值却约为巴州的1/10不到，因此本文建议有关管理部门可适当提高克州水资源红线值。值得注意的是：在实行较低灌溉用水定额的可承载方案中，和田地区水资源超载状况仍将缓慢加剧，尽管这种趋势不会改变塔里木河流域总体水资源超载状况缓解的趋势，但和田地区水资源红线值（ $4 1 . 1 0 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 } .$ 较克州地区( ${ 4 . 3 0 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 } }$ 大，因此，本文建议在和田地区大力推广节水灌溉技术或实施严格的灌溉用水定额方案，以保证塔里木河流域水资源的可持续利用。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/37b3f5afb07debb0cad545f917b6144beda78fbc1bddec90a045e5c3aa9245a4.jpg",
+        "img_caption": [
+            "图52008—2016年塔里木河流域各地区年均水资源量Fig.5 Annual average water resources of each region inTarim River Basin from 2008 to 2016"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本论文通过构建系统动力学模型，对塔里木河流域及其所属各地区的水资源承载力现状及未来趋势进行了定量评估。研究结果显示，塔里木河全",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "流域及其所属各地区水资源呈现超载状态，至2030年其用水量超过其水资源红线规定的最大用水量的 $10 \\%$ ,农业用水是水资源超载的重要原因。水资源承载力短期预测显示，如按照现状趋势发展，塔里木河流域及其各地区未来10a水资源承载力将严重超载，至2030年其用水量将超过其水资源红线规定的最大用水量的 $34 \\%$ 。如按照可承载发展方案，塔里木河流域及其各地区未来10a水资源承载力将逐渐实现可承载，至2030年其用水量将逐渐低于其水资源红线规定的最大用水量的 $9 \\%$ 。研究根据流域现实状况及水资源红线，进行了可承载方案设计，塔里木河流域水资源可承载的实现，农业节水与产业转型将是重点发展方向。首先,农业作为塔里木河流域最大的用水产业，直接决定着塔里木河流域水资源是否实现可承载与可持续发展，在塔里木河流域大力推行农业节水技术是解决该地区水资源可承载的重要途径，若要实现流域水资源在2030年不超载，其灌溉用水定额需要达到 $5 . 7 0 \\times 1 0 ^ { 3 }$ $\\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 以下，农业灌溉面积降低至 $2 . 6 0 \\times 1 0 ^ { 6 } \\mathrm { h m } ^ { 2 }$ 以下。此外工业与服务业单位GDP用水量远远低于农业，因此应当加快塔里木河流域产业转型速度，增大第三产业与第二产业GDP所占比重，使服务业与工业成为该地区的支柱产业。本研究认为塔里木河流域在未来10a至少应保持近些年工业与服务业的快速增长趋势，其中尤其应该加快服务业的发展速度，从而在促进该地区经济发展的同时降低对水资源的依赖。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]刘雁慧,李阳兵,梁鑫源,等.中国水资源承载力评价及变化研 究[J].长江流域资源与环境,2019,28(5):80-91.[Liu Yanhui,Li Yangbing,Liang Xinyuan,et al. Study on water resource carrying capacity evaluation and change in China[J]. Resources and Environment in the Yangtze Basin,2019,28(5): 80-91.]   \n[2] 徐志,马静,王浩,等.长江口影响水资源承载力关键指标与临 界条件[J].清华大学学报：(自然科学版),2019,59(5):364-372. [Xu Zhi,Ma Jing,Wang Hao,etal.Key indicator and critical condition for the water resource carrying capacity in the Yangtze River [J].Journal of Tsinghua University (Science and Technology), 2019,59(5): 364-372.]   \n[3] 齐枝花,陈海棠,林星,等.区域水环境承载力现状评价及对策 研究——以台州市为例[J].中国环境管理,2012(3):46-50.[Qi Zhihua, Chen Haitang,Lin Xing,et al.Assessment of present regional water environmental carrying capacity and its countermeasures:A case study of Taizhou City[J]. Chinese Journal of Environ mental Management,2012(3): 46-50.]   \n[4]许有鹏.干旱区水资源承载能力综合评价研究:以新疆和田河 流域为例[J].自然资源学报,1993,8(3): 229-237.[Xu Youpeng. A study of comprehensive evaluation of the water resource carrying capacityin thearidarea[J].Journal of Natural Resources, 1993, 8(3): 229-237.]   \n[5]施雅风,曲耀光.乌鲁木齐河流域水资源承载力及其合理利用 [M].北京:科学出版社,1992:94-111.[Shi Yafeng,Qu Yaoguang. The carrying capacity of water resources and its reasonable use of Urumqi River[M]. Beijing: Science Press,1992: 94-111.]   \n[6]夏军,朱一中.水资源安全的度量:水资源承载力的研究与挑战 [J].自然资源学报,2002,17(3): 262-269.[Xia Jun, Zhu Yizhong. The measurement of water resources security: A study and challenge on water resources carrying capacity[J]. Journal of Natural Resources,2002,17(3): 262-269.]   \n[7]段春青,刘昌明,陈晓楠,等.区域水资源承载力概念及研究方 法的探讨[J].地理学报,2010,65(1):82-90.[Duan Qingchun, Liu Changming, Chen Xiaonan,et al. Preliminary research on regional water resources carrying capacity conception and method [J]. Acta Geographica Sinica,2010, 65(1): 82-90.]   \n[8]陈亚宁,郝兴明,陈亚鹏,等.新疆塔里木河流域水系连通与生 态保护对策研究[J].中国科学院院刊,2019,34(10):1156- 1164.[Chen Yaning,Hao Xingming, Chen Yapeng,et al. Study on water system connectivity and ecological protection countermeasures of Tarim River Basin in Xinjiang[J].Bulletin of Chinese Academy of Sciences,2019,34(10): 1156-1164.]   \n[9]克里木,姜付仁.新疆水资源禀赋、开发利用现状及其长期战略 对策[J].水利水电技术,2019,50(12):57-64.[Kelimu, Jiang Furen. Present situation of water resources endowment,development and utilization and long-term strategic countermeasures in Xinjiang[J]. Water Resources and Hydropower Engineering,2019, 50(12): 57-64.]   \n[10]王光焰,王远见,桂东伟.塔里木河流域水资源研究进展[J].干 旱区地理,2018,41(6): 1151-1159.[Wang Guangyan,Wang Yuanjian, Gui Dongwei.A review on water resources research in Tarim River Basin[J].Arid Land Geography,2018,41(6): 1151-1159.]   \n[11] 赵少军.塔里木河流域生态环境承载力评价研究[J].水利科技 与经济,2018,24(1):1-7.[Zhao Shaojun.Evaluation of ecological environmental carrying capacity of the Tarim River Basin[J]. Water Conservancy Science and Technology and Economy,2018,24 (1): 1-7.]   \n[12] 王让会,马映军.干旱区山盆体系物质能量及信息的耦合关系 —以塔里木盆地周边山地系统为例[J].山地学报,2001,19 (5): 398-402. [Wang Ranghui, Ma Yingjun. Coupling relation among substance and energy as well as information in mountain-basin system in arid zone: Taking mountainous system around Tarim Basin as an example[J]. Journal of Mountain Science,2001,19(5): 398 402.] [13] 陈亚宁,徐长春,郝兴明,等.新疆塔里木河流域近50a气候变 化及其对径流的影响[J].冰川冻土,2008,30(6):921-929. [Chen Yaning,Xu Changchun,Hao Xingming,et al. Fifty-year climate change and its effect on annual runoff in the Tarim River Basin, China[J]. Journal of Glaciology and Geocryology,20o8,30(6):   \n921-929.] [14]新疆水资源公报[R].乌鲁木齐:新疆维吾尔自治区水利厅,   \n2008—2016.[Xinjiang water resources bulletin[R]. Urumqi: Department of Water Resources of Xinjiang Uygur Autonomous Region,2008——2016.] [15]新疆统计年鉴[M].北京:中国统计出版社,2009—2017.[Xinjiang statistical yearbook[M]. Beijing: China Statistical Press,   \n2009—2017.] [16]李川.辽宁环渤海地区重点产业发展水资源承载力研究[D].沈 阳：东北大学,2012.[Li Chuan. Study on the water resources carrying capacity of Liaoning along Bohai Region for key industries [J]. Shenyang: Northeastern University,2012.] [17] 孟凡浩,古丽·加帕尔,包安明,等.近50a塔里木河流域\"四源” 农业用水与干流生态系统结构变化关系研究[J].自然资源学 报,2016,31(11):1832-1843.[Meng Fanhao,Jiapaer Guli,Bao Anming,et al.Analysis on the relationship between agriculture water consumption of four source rivers and the change of ecosystem structure of the mainstream in Tarim River Basin in recent 50 years[J]. Journal of Natural Resource,2016,31(11): 1832-1843.] [18]Zhang Z,Hu H, Tian F,et al. Groundwater dynamics under watersaving irigation and implications for sustainable water management in an oasis: Tarim River Basin of western China[J].Hydrology and Earth System Sciences,2014,18(10): 3951-3967. [19] Huang Y,Li Y P,Chen X,et al. Optimization of the irrigation water resources for agricultural sustainability in Tarim River Basin, China[J].Agricultural Water Management, 2012,107(10): 74-85. [20] 罗万云,卢玉文,陈亚宁.基于保证生态需水的生态补偿标准研 究——以塔里木河干流为例[J].节水灌溉,2016(5):71-80. [Luo Wanyun,Lu Yuwen, Chen Yaning.Planting industry ecological compensation standard study based on guarantee ecological water:A case study of the mainstream of Tarim River Basin[J].Water Saving Irrigation,2016(5): 71-80.]   \n[21] 张娜.新疆农业高效节水灌溉发展现状及\"十三五\"发展探讨 [J].中国水利,2018,847(13): 50-59.[Zhang Na. High-eficient water-saving irigation development and $1 3 ^ { \\mathrm { u } }$ Five-Year Plan in Xinjiang Uygur Autonomous Region[J]. China Water Resources,2018, 847(13): 50-59.]   \n[22] 贾蕾,甄瑞.以色列农业水资源管理模式和节水经验[J].黑龙江 农业科学,2015(2):156-158.[Jia Lei, Zhen Rui.Enlightenment of agricultural water resources management patern and water saving experience of Isral[J]. Heilongjiang Agricultural Sciences, 2015(2): 156-158.]   \n[23] 易小燕,吴勇,尹昌斌,等.以色列水土资源高效利用经验对我 国农业绿色发展的启示[J].中国农业资源与区划,2018,39 (10): 37-42.[Yi Xiaoyan,Wu Yong,Yin Changbin,et al. The enlightenment of Israel's efficient utilization of land and water resources to the green development of agriculture in China[J]. Chinese Journal of Agricultural Resources and Regional Planning, 2018,39(10): 37-42.]   \n[24] 魏光辉,桂东伟,赵新风.不同水平年塔里木河流域\"四源一干” 可承载灌溉面积研究[J].干旱区地理,2018,41(2):230-237. [Wei Guanghui, Gui Dongwei, Zhao Xinfeng. Irrigation area carrying capacity in Tarim River Basin in different years[J].Arid Land Geography,2018,41(2): 230-237.]   \n[25] 张小清,桂东伟,李丽君.塔里木河干流水资源分配现状及其利 用问题[J].干旱区地理,2018,41(2):248-254.[Zhang Xiaoqing, Gui Dongwei,Li Lijun.Water resources allocation along the mainstream of Tarim River[J]. Arid Land Geography,2018,41(2): 248- 254.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Water resources carrying capacity of Tarim River Basin based on system dynamics model ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "LIU Xia'， ZHANG Man²， XU Jianhua³， GUO Ying'，DUAN Weili， SHEN Yanjun'",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1.KeyLaboratoryof Agricultural WaterResources,CenterforAgricultural Resources Research,InstituteofGeneticsand Developmental Biology,Chinese AcademyofSciences,Shijiazhuang O5oo21,Hebei,China;2.CollegeofResources& Environmentalcience,HebeiNoralUniversity,hijiazhuangOo4,Hebei,China;3.SchoolofGeogaphicSienes,Huadong NormalUniversity,Shanghai2O62,China；4.StateKeyLaboratoryofDesertandOasisEcology,XijiangInstituteofEcology and Geography, Chinese Academy of Sciences, Urumqi 83oO11, Xinjiang, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Assessing the carrying capacity of water resources is a central issue in water resources research. However, there is still debate about how to assess the carrying capacity of water resources.Most of the studies assessing te water resource carrying capacity of the Tarim Rvier Basin, Xinjiang, China have been based on empirical methods. However, few studies have used system dynamics models to assss the carrying capacity of water resources in the Tarim River Basin.This study constructed a systematic dynamic model for calculating the historical and future carrying capacity of the water resources in the Tarim River Basin.The dataset of this study is an authoritative dataset from the Statistical Yearbook and Bulletin on Water Resources in Xinjiang Uygur Autonomous Region. The results indicate that the water resources of the Tarim River Basin exceeded carrying capacity during the historical period (2008—2016).From 2008 to 2016,the yield of water above the red line of water consumption was almost $10 \\%$ of the red line of water consumption in the Tarim River Basin.According to socio-economic development trends,the water resources of the Tarim River Basin will remarkably exceed their water resource carying capacity in the future (2O2O—2030). The yield of water above the red line of water consumption will be almost $32 \\%$ of the red line of water consumption in the Tarim River Basin in 2O3o.In response to the needs of sustainable socio-economic development and water resource utilization,the water resources of the Tarim River Basin will gradually mee their water resource carrying capacity in the future (2O20—2030).The water yield below the red line of water consumption will almost be $9 \\%$ of the red line of water consumption in the Tarim River Basin in 2O30.Given that the water resources of the Tarim River Basin do not exceed theirs Water resource carrying capacity, the agricultural irrigation quota must be limited to less than $5 . 7 0 \\times 1 0 ^ { 3 } \\ \\mathrm { m } ^ { 3 } \\cdot \\mathrm { h m } ^ { - 2 }$ in 2030.The irrigated area should be limited to less than $2 . 6 0 \\times 1 0 ^ { 6 } \\mathrm { h m } ^ { 2 }$ . The agricultural irrigation quota of $5 . 7 \\times 1 0 ^ { 3 }$ $\\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 }$ is slightly higher than the level of Israel, corresponding to the agricultural irrigation quota of $5 . 2 5 \\times 1 0 ^ { 3 }$ $\\mathrm { m } ^ { 3 } \\cdot \\mathrm { h m } ^ { - 2 }$ . In the context of sustainable use of water resources in the Tarim River Basin, this study suggests that more agricultural water-saving facilities and irigation technologies should be popularized.For example,drip irrigation technology should be used to irigate farmlands in the Tarim River Basin.The water consumption of the gross domestic product (GDP) of the secondary and service industries is much lower than the GDP water consumption of industrial agriculture and water-saving agriculture. Structural adjustment of the planting industry needs tobe pre-developed in the Tarim River Basin in the future.There is a need to accelerate the transformation of the Tarim River Basin industry and increase GDP,which accounts for the secondary and service industries. Therefore,the service and the secondary industries must be the pillr industries of the Tarim River Basin.This study also suggests that the Tarim River Basin should maintain a rapid growth trend in the industrial and service sector over the next decade.This can accelerate the development of the service industry,promote the economic development of the region, and reduce the dependence on water resources. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words: water resource carrying capacity; system dynamics model; arid region； water-saving agriculture; Tarim River Basin ",
+        "page_idx": 9
+    }
+]

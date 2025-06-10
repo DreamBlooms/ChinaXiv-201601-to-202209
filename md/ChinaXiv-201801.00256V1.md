@@ -1,0 +1,197 @@
+# 仿生嗅觉和味觉传感技术的\*研究进展
+
+![](images/fce32d3997324d349b55fb60da7d09290722dbaa19fdb0d9a85236ea2a0b11f2.jpg)
+
+王平庄柳静 秦 臻 张 斌 高克强  
+浙江大学生物传感器国家专业实验室生物医学工程教育部重点实验室  
+生物医学工程与仪器科学学院杭州310027
+
+摘要生物嗅觉和味觉系统具有敏锐的气味和味质感知能力，被认为是自然界最高效的感测系统之一。随着人类社会的发展，气味和味质传感与检测技术对于提高人类的生存质量,保障人类健康具有越来越重要的意义，已被广泛应用于食品安全、环境监测和疾病诊断等领域。文章介绍了仿生嗅觉和味觉传感技术的发展，包括电子鼻和电子舌化学传感技术，基于生物敏感材料的仿生嗅觉和味觉传感技术的原理、组成、技术实现及其应用；此外，还介绍了基于脑机交互的新型在体生物电子鼻和电子舌的研究进展；并对国际上仿生嗅觉和味觉传感技术领域的发展趋势进行了展望。
+
+关键词嗅觉和味觉传感技术，仿生传感技术，生物传感，脑机交互，智能传感技术 DOI 10.16418/j.issn.1000-3045.2017.12.005
+
+嗅觉和味觉作为生物感受外界环境中化学物质的基础，共同构成了生物的化学感觉系统，为生存、觅食、繁殖等活动提供了重要的保障，具有重要的生理意义[1,2]。经过长期的进化，生物的化学感受系统能够快速、灵敏、特异地检测识别复杂的气体和液体环境中大量不同的物质，是迄今为止性能最佳的化学检测系统之一。自然界的生物体嗅觉和味觉系统中的功能部件主要包括受体、细胞和组织3个层次，具有将气味分子与味觉物质本身携带的化学信号转化为生物信号的能力，可以视为天然的化学感受器或传感器[34]。在天然的化学感受器的启发下以及科学研究和实际应用的需求牵引下，研究者们不断提出各种采用化学和生物材料的仿生嗅觉和味觉传感系统。
+
+仿生嗅觉和味觉传感器主要由生物功能部件和微纳传感器两部分组成。其中，生物功能部件作为敏感元件，与目标分子或离子结合并产生特异性的响应；微纳传感器作为换能器，将响应信号转化为更易于处理和分析的光、电等物理信号[5]。近年来，随着嗅觉和味觉生物机理研究愈发深入，嗅觉和味觉仿生传感器也取得了突破性的进展，并且开始在基础研究和实际应用中崭露头角。与传统气相和液相检测仪器相比，嗅觉和味觉仿生传感器继承了生物化学感受系统具有的优点，在灵敏度、响应时间、特异性等指标上都略胜一筹，在食品安全、环境监测以及疾病检测等多个领域展现了广阔的应用前景[67]。
+
+近年来，随着脑机接口技术的发展，笔者团队提出了基于脑机接口的新型在体嗅觉和味觉传感技术，以直接利用生物完整的化学感觉系统[8,9]。通过解码大脑中负责化学信息处理的神经元活动模式，构建神经元活动模式与化学刺激间的映射模型，实现气味分子和味觉物质的检测与识别。
+
+# 1仿生嗅觉和味觉传感技术发展现状
+
+# 1.1生物体嗅觉和味觉以及基于嗅觉和味觉组织的仿生传感技术
+
+生物体嗅觉和人工嗅觉的差别如图1所示：气味分子通过生物体鼻腔内的黏液和纤毛作用于嗅上皮感受细胞。嗅上皮含有数以百万计的感受细胞，嗅觉受体位于这些感受细胞的膜上，将化学信号转化为神经电信号。这些神经电信号再由嗅觉皮层神经网络进行解码和识别。在设计模拟生物嗅觉的人工嗅觉—一电子鼻时，将传感器作为嗅觉受体阵列，信号处理系统（如计算机等）则作为嗅觉皮层神经网络。
+
+味觉与嗅觉类似，都是通过上皮组织中的化学感受细胞实现目标分子的捕获，以及从化学信号到电信号的转化。不同之处在于，嗅觉感受细胞是神经元，在与气味分子结合后可产生动作电位；而味觉感受细胞包裹于味蕾之中，没有产生动作电位的能力，其顶部微纤毛与味觉物质结合后引起神经递质的释放，通过突触引起传人神经的兴奋[10]。尽管味觉和嗅觉系统将化学信号转化为电信号的过程略有不同，但是最终的电信号中同样携带有化学信息，结合传感器芯片可以高时空分辨地检测并记录到电信号。
+
+![](images/3ba8f6d3e189ee3eb5fb19ed7fd5f4b82a6e7d531241efb9dd9fb2aeae4339d8.jpg)  
+图1生物体嗅觉和人工嗅觉的对比[2]
+
+笔者团队在国际上率先提出了以味觉上皮组织细胞为敏感元件、以微电极阵列（microelectrode array，MEA）作为换能器的味觉仿生传感技术[1]，用于苦味、咸味和鲜味等味觉物质的检测，发展了新型的仿生味觉细胞传感技术[12]，系统示意图如图2所示。
+
+![](images/89b8546aa300aef565752de12d6db7c7083419e322b2ee6b07d0a7c147af9820.jpg)  
+图2利用嗅上皮与微电极阵列芯片检测基本味觉物质
+
+(a)体外生物传感用味觉上皮与MEA芯片的方法；(b)与MEA芯片相结合的味觉上皮图像；(c)在5种基本味觉物质刺激下记录的电生理信号
+
+# 1.2基于嗅觉和味觉细胞的仿生传感技术
+
+基于细胞的生物传感器将活细胞作为敏感元件，可以用来检测生物活性物质的功能信息。因此，在嗅觉和味觉仿生传感器的开发中，也有不少研究使用原代嗅感觉神经元（olfactory sensory neurons，OSNs）和味觉感受细胞作为敏感材料。我们将体外原代培养的嗅感觉神经元与光寻址电位型传感器（light addressable potentiometric sensor,LAPS）结合，嗅感觉神经元细胞膜表面的特异性受体与气味分子结合后，引起胞内外离子浓度的变化（如图3a所示），并最终影响LAPS传感器偏置电流的大小，利用该现象可以检测不同的气味分子[13]。同时，该系统还可以用于细胞状态的监测。此外，使用LAPS 测试了嗅感觉神经元对抑制剂MDL12330A以及兴奋剂LY294002的响应，与生物学方法结果一致（图3b）[14]。另外，我们将原代味觉细胞与LAPS耦合，提出了一种无损研究味蕾内细胞间信号传导机制的方法[15]
+
+![](images/5bcd0bc88085d721bebc995f202d80edb1bc1b1c76022b04bac6503e68edd8c0.jpg)  
+图3LAPS测量系统检测气味分子
+
+(a)嗅感觉神经元与纤毛中的离子通道； (b)基于嗅感觉神经元的LAPS测量系统图
+
+在采用原代的嗅觉、味觉感受细胞作为仿生敏感元件基础上，我们提出了基于异源表达细胞的味觉仿生传感器，该系统将人类的嗅觉或味觉受体转染至成熟的细胞系中。由于人类受体的引入，该系统可以更好地模拟人类的化学感觉。例如，我们将人类T2R14苦味受体及Gα16蛋白转染至人类胚胎肾细胞（humanembryonickidney-293，HEK-293）中，将转染了特异性受体的HEK-293置于细胞阻抗传感器（electric cell-substrateimpedancesensor，ECIS）表面培养，该系统可以特异性地检测水杨苷等 T2R14 的配体[16]。研究表明，味觉受体广泛表达于很多非味觉组织和细胞中，如胃肠道细胞、器官上皮细胞、小鼠精细胞等。因此，我们还提出了基于小鼠精细胞和ECIS传感器的苦味物质检测系统，可以定量检测多种苦味物质[17]。
+
+# 1.3基于嗅觉和味觉受体蛋白的仿生传感技术
+
+生物识别气味分子和味觉物质的基础是位于嗅觉和味觉感受细胞纤毛上的受体，因此，研究者们提出了基于味觉和嗅觉受体的仿生传感器，其中受体的活性极大地影响着传感器的性能。嗅觉受体是疏水的G蛋白偶联受体（G protein-coupled receptors，GPCR），其7段跨膜结构需要细胞膜的支持。因此，开发基于受体的嗅觉仿生传感器在当前研究中仍是极大的挑战。
+
+为了解决该问题，我们研究了直接从原代嗅觉组织中提取嗅觉受体，并将其作为敏感元件固定在传感器表面。我们从牛蛙的嗅上皮中分离出了嗅觉蛋白，并将其修饰在传感器的表面，用来测定不同的挥发性有机物[18]。还有研究者提出利用异源表达系统，将带有嗅觉受体的细胞膜作为敏感元件与换能器耦合，构建嗅觉仿生传感器，其中最常用的异源表达系统包括HEK-293 细胞、人类乳腺癌细胞MCF-7和真菌等[5]。我们研究了基于声表面波（surface acousticwave，SAW）传感器和大肠杆菌嗅觉受体ORD-10的仿生嗅觉传感器（图4）[19]。
+
+![](images/69ba66a54141a673cb23ace2eb37f350efd96dc6273b72530c038ae39f292945.jpg)  
+图4基于特异性嗅觉受体结合声表面波（SAW）传感器的嗅觉分子传感器[19]
+
+(a)声表面波传感器实物图；(b)敏感区域表面自组装单分子层结构示意图；(c)声表面波传感器原理图
+
+另外，昆虫对气味分子的识别需要嗅觉结合蛋白（odor bindingreceptor，OBP）的参与。嗅觉结合蛋白与疏水的气味分子结合后，使气味分子的亲水性增强，并将气味分子运载至受体上的特异性结合位点。嗅觉结合蛋白拥有与嗅觉受体相当的灵敏度和特异性，但其结构更为简单。Lu等[20将蜜蜂的嗅觉结合蛋白固定在阻抗芯片表面，特异性地检测信息素，该系统还可以用于研究嗅觉结合蛋白的其他功能。
+
+与嗅觉受体类似，味觉受体中的苦味、甜味、鲜味受体也是G蛋白偶联受体，研发基于此类受体的味觉仿生传感器同样具有难度。Song等[2将人类味觉受体 $\mathtt { h T 1 R 2 } \mathrm { + h T 1 R 3 }$ 异质二聚体表达在HEK-293 细胞的细胞膜上，将细胞震碎成为带有味觉受体的纳米囊泡，并固定在场效应管传感器（fieldeffecttransistor，FET）表面，为甜味物质检测提供了新的传感技术。但是酸味和咸味受体为离子通道型受体，目前还没有基于此类受体构造的仿生味觉传感器。
+
+采用石英晶体微平衡器（quartz crystal microbalance,QCM）传感器制备的味觉仿生传感器结构如图5a所示[22]我们将人类的苦味受体hT2R4表达在HEK-293细胞膜上，在受体C端标记 $\mathrm { H i s } _ { 6 }$ 标签，并使用试剂盒分解细胞提取出含有hT2R4受体的细胞膜碎片。同时，QCM表面固定有巯基修饰的抗 $\mathrm { H i s } _ { 6 }$ 标签的适配体，可以特异性地捕获带有 $\mathrm { H i s } _ { 6 }$ 标签的hT2R4受体，将细胞膜碎片准确地固定在器件表面（图5b）。由于磷脂双分子层的存在，受体的跨膜结构得以维持，该方法可能有助于解决味觉受体的固定效率和分布密度等问题。用不同苦味物质对该基于QCM的味觉仿生传感器进行了测试，该传感器在一定浓度范围内能有效检测出苦味物质地那铵，对特异性苦味物质也具有较高的特异性和灵敏度。
+
+# 2 基于脑机交互的在体生物电子鼻和电子舌
+
+离体细胞分子嗅觉味觉传感器利用生物组织培养和机械微加工技术，将嗅觉味觉敏感的神经元、组织或蛋白培养于传感器芯片表面，以实现化学物质的快速、灵敏、特异检测。然而，体外培养不能保证生物材料长时存活，因此影响传感器的使用寿命，无法实现长时、重复检测；此外，体外培养也破坏了嗅觉味觉系统的完整性，改变了神经元正常的响应模式。因此，如何利用生物体的嗅觉和味觉来检测气体或味质，并提高其使用寿命成为科学家们新的探索和研究方向。
+
+随着在体神经信号记录技术的发展，长时的在体记录成为可能。Strauch等[23]利用在体钙成像技术，记录了果蝇触角嗅觉神经元对癌细胞和非癌细胞产生的挥发性物质的响应；并通过多元分析方法，显示多个神经元阵列对正常细胞和不同乳腺癌细胞的响应存在差异。这项成果揭示了利用生物敏感材料，结合人工嗅觉和生物嗅觉技术在临床诊断的可行性。类似地，Nowotny 等[24]利用微电极在体记录果蝇嗅觉神经元,结合支持向量机分类算法，实现气味响应模式的分类，结果显示这种方法可以很好地区分36种不同的酒类气体和35种工业气体。将气味和味质受体应用于人工嗅觉味觉系统，结合长时在体技术，实现气味和味质检测，相比于离体嗅觉味觉传感器具有更强的可行a C b UNIN 脂质双分子层石英晶体金电极 WIT 烷酸适配体石英晶体微天平（a）石英晶体微平衡器结合适配体的传感器；（b）味觉受体在QCM金表面的选择性固定蛋白分子性。笔者团队在2012年率先提出利用大鼠嗅球在体检测和识别肺癌气体标志的方法[25]，进一步提出在体仿生味觉传感技术的概念[10]。
+
+# 2.1在体生物电子鼻
+
+利用植入式神经信号记录技术，笔者团队提出了新型在体生物电子鼻（图6）。哺乳动物的嗅上皮作为初级气味感受器产生响应信号，信号在嗅球和嗅皮层中进行修饰处理；将植入式微电极阵列包埋于嗅球，同步记录嗅球中多个僧帽/丛状细胞信号；通过模式识别算法，对神经元信号进行解码，从而提取出气味相关信息，实现气味检测。研究结合最大似然估计和主成分分析方法，发现在体生物电子鼻不仅可以有效区分香芹酮、丁二酮、苯甲醚、乙酸异戊酯、辛醇、戊醛和丁酸等不同官能团的单分子气味，识别准确率达 $9 2 . 6 7 \% ^ { [ 2 6 ] }$ ；同时对香蕉、橙子、草莓、菠萝等释放的混合气味也能有效区分[8；此外，对香芹酮的最低检测浓度达到 $1 0 ^ { - 1 0 } \mathrm { m o l / L }$ 以下，使用寿命可达3个月。
+
+![](images/6ee4c0bcb94030110465c529e66187ec4d4c25222d53e0c6365c00ea0d54f7cb.jpg)  
+图6在体生物电子鼻
+
+(a)在体生物电子鼻系统示意图；(b)基于PCA算法的识别结果[8
+
+# 2.2在体生物电子舌
+
+在哺乳动物的味觉系统中，味质与舌头表面的味蕾结合后，信号通过味觉神经纤维，经过脑干、杏仁核和丘脑传导味觉皮层。与在体生物电子鼻类似，笔者团队通过提取哺乳动物味觉皮层神经元，对甜味、咸味、酸味、苦味4种不同物质响应活动，结合味觉皮层的局部场电位（localfield potential，LFP）和单个神经元动作电位（spike）信号特征，有效地对蔗糖、氯化钠（盐）、盐酸、苯甲地那铵进行区分，并且对甜味、苦味物质的响应显示出浓度依赖性，苯甲地那铵的最低检测浓度达到$7 . 6 { \times } 1 0 ^ { - 8 } \mathrm { m o l / L } ^ { [ 9 ] }$ （图7）。进一步，利用支持向量机识别方法，有效地区分出了苯甲地那铵、奎宁和水杨苷3种苦味物质，识别准确率达 $9 4 . 0 5 \% ^ { [ 2 7 ] }$
+
+此外，笔者团队还从使用寿命、重复性、特异性、灵敏度等方面对在体生物电子鼻和电子舌的检测性能进行较深入的分析，证明了其在气味和味质检测方面的独特优势和性能；目前正在扩大气味和味质检测样本的数量，进一步改进人工神经网络识别算法，为发展在体生物电子鼻和电子舌继续进行探索和实践。
+
+# 3仿生嗅觉与味觉传感技术的应用
+
+经过多年发展，仿生电子鼻和仿生电子舌已在食品、香水等工业领域，以及环境质量检测、生物医学领
+
+![](images/e1432755048caf4f18f0b538419791321942d25da2cb8e48a3afc657e0a6f5d0.jpg)  
+图7在体生物电子舌
+
+(a）在体生物电子舌系统示意图；（b）味质诱发味觉皮层20—50Hz能量增加；（c）甜味（蔗糖）、咸味（氯化钠）、酸味（盐酸）、苦味（苯甲地那铵）4种味觉物质的识别结果[9]
+
+域广泛应用[28]。而新一代离体分子细胞嗅觉和味觉传感器虽然起步较晚，但其气味和味质检测性能在实验室阶段已通过重复验证，目前正逐步进入应用测试阶段，其主要应用领域包括以下4个方面。
+
+# 3.1食品质量检测
+
+在食品领域的应用包括对原料质量的检验、加工过程的监管，以及食品新鲜度检测等。食品在储藏过程中，不可避免发生变质，对因变质产生的气体、酶、微生物等进行检测，是有效预测食品保质期的手段，如Lim等[29用仿生电子鼻实时监测海鲜质量。
+
+# 3.2缉毒、防爆
+
+毒品及其包装材料中一般具有特殊的气味，因此可以从气体和味道中进行鉴别，不需要人的品尝即可实现现场的快速鉴别。由于一般毒品及其包装材料所含的特征性气味浓度较低，因此需要发展快速和高灵敏和高特异性的仿生味觉和味觉传感器及仪器。
+
+爆炸物一般含有负电荷氮和氧作为燃烧时的氧化剂，大部分高能爆炸物用硝酸盐作为氧化剂，对氮和氧成分以及特征性气体的分析可以有效实现爆炸物检测[30]。
+
+# 3.3疾病诊断
+
+1971年，Pauling等[31]首次提出人类呼出气体中存在挥发性有机物（volatile organic compounds，VOCs）。健康人体的呼出气体中含有约200种VOCs，其成分非常复杂并且部分成分浓度极低（ $1 0 ^ { - 1 2 } \mathrm { m o l / L }$ ）。Gordon 等[32]提出肺癌患者呼出气体中含有丙酮、甲基乙基酮、正丙醇、苯乙烯等不同于健康人的特征性VOCs成分（生物标志物）；因此，可以通过对特征性VOCs成分的高灵敏和特异性的检测，从而有望实现对肺癌的早期诊断。
+
+# 3.4环境检测
+
+近10年来，空气质量问题受到越来越多的关注，空气污染对环境和人类健康起到重要影响。每年，全世界因大气颗粒物（particalmatter，PM）引发心肺疾病致死的人数为300万一700万。PM主要由发电厂、工业企业、汽车、生物质化石燃料的燃烧产生。为解决此类健康问题，世界上多个国家已经开展了一氧化碳、一氧化氮、二氧化氮、臭氧、苯、甲苯、二甲苯等气体的现场快速检测技术研究，并已应用于各种场合（表1）。
+
+# 4展望
+
+随着国际上传感技术和MEMS技术的快速发展，嗅觉与味觉仿生传感技术通过不同传感原理的化学和生物传感器，实现了对特定气味和味质的检测。尽管目前还不能替代复杂的化学分析设备，但由于在便携性、操作简单以及价格等方面的优势，仿生传感器在日常生活得到广泛应用。而随着生命科学的发展，将生物敏感材料替换化学传感器的新一代嗅觉味觉仿生传感技术更好地利用生物体的优越性，可以弥补电子鼻电子舌在响应速度、灵敏度、特异性上的不足。利用生物体嗅觉与味觉系统复杂精密的传感检测能力，结合工程技术生物信号解析和识别技术，使得生物信号转化成可读取的检测信息，开发出新一代智能嗅觉和味觉传感系统，并将进一步推动仿生嗅觉味觉传感技术的发展。
+
+表1仿生嗅觉和味觉传感器应用领域  
+
+<html><body><table><tr><td>传感器类型</td><td>气味/味质敏感材料</td><td>检测物质</td><td>最低检测浓度</td><td>参考文献</td></tr><tr><td>碳纳米晶体管</td><td>表达cfOR5269受体的嗅感觉神经元</td><td>变质牛奶产生的己醛</td><td>1 fmol/L</td><td>[33]</td></tr><tr><td>石英晶体微天平</td><td>果蝇气味结合蛋白LUSH</td><td>牛肉中沙门氏菌产生的醇类物质：3-甲 基-1-丁醇，1-己醇</td><td><5 mg/L</td><td>[34]</td></tr><tr><td>表面修饰羧酸盐聚吡咯纳 米管的场效应晶体管</td><td>人味觉受体hTAS2R38</td><td>蔬菜中的苯硫脲、丙硫氧嘧啶和抗甲腺毒素</td><td>1 fmol/L</td><td>[35]</td></tr><tr><td>场效应晶体管</td><td>马铃薯甲虫触角</td><td>植物损伤释放的标志气体 (叶醇)</td><td>1 μg/L</td><td>[36]</td></tr><tr><td>在体钙离子成像</td><td>果蝇触角</td><td>乳腺癌细胞释放的标志气体</td><td><0.1 mL/L</td><td>[23]</td></tr><tr><td>荧光成像</td><td>气味结合蛋白</td><td>爆炸物成分(二苯胺、邻苯二甲酸二甲酯、 间苯二酚、二硝基甲苯)</td><td>80 nmol/L</td><td>[37]</td></tr><tr><td>荧光成像</td><td>猪气味结合蛋白pigOBPm2</td><td>空气污染物芳香烃(联苯、菲、葱、酞嗪等)</td><td>0.4 μmol/L</td><td>[38]</td></tr><tr><td>嗅电图和钙离子成像</td><td>大鼠嗅黏膜</td><td>爆炸物 (TNT，RDX)</td><td><200 μmol/L</td><td>[39]</td></tr><tr><td>酶标仪或细胞成像</td><td>表达小鼠味觉受体mTAAR5的Xenopus Iaevis黑素细胞</td><td>鱼肉释放的三甲胺</td><td>1 mg/L</td><td>[40]</td></tr><tr><td>气相色谱仪</td><td>黑松木吉丁虫触角</td><td>木材燃烧释放的烟雾</td><td><120 pg/mL</td><td>[41]</td></tr></table></body></html>
+
+# 参考文献
+
+1 Ache B W, Young J M. Olfaction: diverse species, conserved principles.Neuron,2005,48(3): 417-430.   
+2Chandrashekar J,Hoon MA,Ryba N JP, et al. The receptors and cells for mammalian taste.Nature,2006, 444(7117): 288-294.   
+3 Kay L M, Stopfer M. Information processing in the olfactory systems of insects and vertebrates. Seminars in cell & Developmental Biology, 2006,17(4): 433-442.   
+4 D'Agostino A E,Di Lorenzo P M. Information processing in the Gustatory System.In: Springer Handbook of Bio-/ Neuroinformatics.Berlin-Heidelberg: Springer,2014: 783-796.   
+5 Liu Q,Wu C,Cai H, et al. Cell-based biosensors and their application in biomedicine.Chemical Reviews,2014,114(12): 6423-6461.   
+6 Son M,Lee JY,Ko H J, et al. Bioelectronic nose: An emerging tool for odor standardization.Trends in Biotechnology,2017, 35(4): 301.   
+7Ha D, Sun Q,Su K,et al.Recent achievements in electronic tongue and bioelectronic tongue as taste sensors. Sensors and Actuators B: Chemical,2015,207: 1136-1146.   
+8 Zhuang L,Guo T, Cao D,et al. Detection and classification of natural odors with an in vivo bioelectronic nose.Biosensors and Bioelectronics,2015,67: 694-699.   
+9 Qin Z, Zhang B, Hu L,et al. A novel bioelectronic tongue in vivo for highly sensitive bitterness detection with brain-machine interface.Biosensors and Bioelectronics,2016,78:374-380.
+
+10 秦臻，董琪，胡靓.仿生嗅觉与味觉传感技术及其应用的研究进展.中国生物医学工程学报，2014,33(5):609-619
+
+11 Liu Q,Ye W,Xiao L,et al.Extracellular potentials recording in intact olfactory epithelium by microelectrode array for a bioelectronic nose.Biosensors and Bioelectronics,2010, 25(10): 2212-2217.
+
+12 Zhang F, Zhang Q, Zhang D,et al. Biosensor analysis of natural and artificial sweeteners in intact taste epithelium.Biosensors and Bioelectronics,2014, 54: 385-392.   
+13Liu Q,Cai H, Xu Y,etal.Olfactory cell-based biosensor:a first step towards a neurochip of bioelectronic nose. Biosensors and Bioelectronics,2006,22(2): 318-322.   
+14 Wu C,Chen P, Yu H, et al. A novel biomimetic olfactorybased biosensor for single olfactory sensory neuron monitoring. Biosensors and Bioelectronics,2009,24(5): 1498-1502.   
+15 Zhang W,Li Y,Liu Q,et al.A novel experimental research based on taste cell chips for taste transduction mechanism. Sensors and Actuators B: Chemical,2008,131(1): 24-28.   
+16 Hu L, Zou L,Qin Z,et al.A novel label-free bioengineered cellbased biosensor for salicin detection. Sensors and Actuators B: Chemical,2017,238: 1151-1158.   
+17 Hu L,Xu J, Qin Z,et al.Detection of bitterness in vitro bya novel male mouse germ cell-based biosensor. Sensors and Actuators B: Chemical,2016,223: 461-469.   
+18 Wu T Z.A piezoelectric biosensor as an olfactory receptor for odour detection: electronic nose. Biosensors and Bioelectronics, 1999, 14(1): 9-18.   
+19 Wu C, Du L, Wang D, et al. A biomimetic olfactory-based biosensor with high efficiency immobilization of molecular detectors. Biosensors and Bioelectronics,20l2,31(1): 44-48.   
+20 Lu Y, Li H, Zhuang S,et al. Olfactory biosensor using odorantbinding proteins from honeybee: Ligands of floral odors and pheromones detection by electrochemical impedance. Sensors and Actuators B: Chemical, 2014,193(3): 420-427.   
+21 Song H S, Jin H J, Ahn S R,et al. Bioelectronic tongue using
+
+heterodimeric human taste receptor for the discrimination of sweeteners with human-like performance.ACS Nano,2014,8(10): 9781-9789.
+
+22 Wu C,Du L, Zou L,etal.A biomimetic bitter receptor-based biosensor with high efficiency immobilization and purification using self-assembled aptamers.Analyst,2013,138(20):5989- 5994.
+
+23 Strauch M,Lüdke A,Münch D,et al. More than apples and oranges-detecting cancer with a fruit fly’ s antenna.Scientific reports,2014,4(3): 3576.
+
+24 Nowotny T, De Bruyne M, Berna A Z,et al. Drosophila olfactory receptors as classifiers for volatiles from disparate real world applications.Bioinspiration & Biomimetics,2014,9(4):046007.
+
+25 庄柳静,周俊，董琪,等.利用动物嗅觉诊断癌症技术的研究进展.科学通报,2013,58(15):1369-1378.
+
+26 Zhuang L,Hu N,Dong Q,et al.A high sensitive in vivo biosensing detection for odors by multiunit in rat olfactory bulb.Sensors and Actuators B: Chemical, 2013,186(9): 308-314.
+
+27Qin Z, Zhang B,Gao K,etal.A whole animal-based biosensor for fast detection of bitter compounds using extracellular potentials in rat gustatory cortex. Sensors and Actuators B:Chemical,2017, 239:746-753.
+
+28 Rock F,Barsan N,Weimar U.Electronic nose:current status and future trends.Chemical reviews,2008,108(2):705-725.
+
+29 Lim JH,Park J,Ahn JH,et al.A peptide receptor-based bioelectronic nose for the real-time determination of seafood quality.Biosensors and Bioelectronics,2013,39(1):244-249.
+
+30SmithR G,D'Souza N,Nicklin S.A review of biosensors and biologically-inspired systems for explosives detection.Analyst, 2008,133(5): 571-584.
+
+31 Pauling L,Robinson AB,Teranishi R,et al.Quantitative analysis of urine vapor and breath by gas-liquid partition chromatography. PNAS,1971,68(10): 2374-2376.
+
+32Gordon S M,SzidonJP,KrotoszynskiBK,et al.Volatile organic
+
+compounds in exhaled air from patients with lung cancer. Clinical Chemistry,1985,31(8): 1278-1282.   
+33 Park J,Lim JH, Jin H J,et al.A bioelectronic sensor based on canine olfactory nanovesicle-carbon nanotube hybrid structures for the fast assessment of food quality. Analyst, 2012,137(14):3249- 3254.   
+34 Sankaran S, Panigrahi S, Mallik S. Odorant binding protein based biomimetic sensors for detection of alcohols associated with Salmonella contamination in packaged beef. Biosensors and Bioelectronics,2011,26(7): 3103-3109.   
+35 Song H S, Kwon O S, Lee S H, et al. Human taste receptorfunctionalized field effect transistor as a human-like nanobioelectronic tongue. Nano Lettrs,20l2,13(1): 172-178.   
+36 Schütz S, Schöning MJ, Schroth P, et al. An insect-based BioFET as a bioelectronic nose. Sensors and Actuators B: Chemical, 2000, 65(1): 291-295.   
+37 Ramoni R, Bellucci S, Grycznyski I, et al. The protein scafoldof the lipocalin odorant-binding protein is suitable for the design of new biosensors for the detection of explosive components. Journal of Physics: Condensed Matter,2007,19(39): 395012.   
+38 Wei Y, Brandazza A, Pelosi P. Binding of polycyclic aromatic hydrocarbons to mutants of odorant-binding protein: a first step towards biosensors for environmental monitoring. Biochimica et Biophysica Acta (BBA)-Proteins and Proteomics, 2008,1784(4): 666-671.   
+39 Corcelli A,Lobasso S,Lopalco P, et al. Detection of explosives by olfactory sensory neurons. Journal of Hazardous Materials, 2010, 175(1): 1096-1100.   
+40 Suska A, Ibanez A B, Lundstrom I, et al. G protein-coupled receptor mediated trimethylamine sensing. Biosensors and Bioelectronics,2009,25(4): 715-720.   
+41 Schüitz S,Weissbecker B,Hummel HE, et al. Insect antennas a smoke detector. Nature,1999,398(6725): 298-299.
+
+# Research Progress of Bioinspired Smell and Taste Sensors
+
+Wang PingZhuang Liujing Qin Zhen Zhang BinGao Keqiang
+
+Biosensor NationalSpecialLaboratory,KeyLaboratoryforBiomedicalEngineeringofinistryofEducation,Departentof
+
+Biomedical Engineering,Zhejiang University,Hangzhou 31oo27,China）
+
+AbstractThemammalianofactoryandgustatorysystemisecogzedas teostefectiechemosensingsystemsduetoteirextraodnay abiltyindrdstantetetio.Detetioofdorsasnapledtoayacatios,chsualitotroloffodpruct safetyadseurityoetalotogdicalagosisdsHreseipleasicpositiolod technologyadalicatiooflectrocoseeletroicongueoleuledcellasdactostatoryosesors.Wealstuete researchrogesofoeltcaled‘invivoolectrocoedtonge'.Finalleurthtrdasted Keywordssmelland taste sensing,iosensors,bioinspired sensing,brain-computer interaction,intellgentsensing
+
+王 平　浙江大学生物医学工程系求是特聘教授，国家“杰青”，入选国家百千万人才工程，全国优秀科技工作者。国际嗅觉与化学传感技术学会成员，国际化学传感器会议亚太区国际执委会委员，亚洲化学传感器会议国际执委会委员，全国高校传感技术研究会副理事长，中国生物医学工程学会生物医学测量分会前主任，中国电子学会离子敏生物敏专业委员会副主任，中国生物医学工程学会生物医学传感技术分会副主任。国际刊物Microsystems&Nanoengineering，Scientific Journal ofMicroelectronics 等编委；Biosensorsand Bioelectronics，Sensors&ActuatorsA,Sensors&ActuatorsB,IEEE Sensors Journal，Sensors Letters及Sensorsand Materials等刊物特约编委和审稿人；《传感技术学报》副主编，《中国生物医学工程学报》《浙江大学学报（工学版）》《仪表技术与传感器》等刊物编委;浙江大学生物医学工程与仪器科学学院生物传感器国家专业实验室主任、生物医学工程教育部重点实验室主任。发表学术论文250余篇，中英文著作5本。国际发明专利 $^ 1$ 项、国家发明专利30 余项。E-mail:cnpwang@zju.edu.cn
+
+WangPingrofessrfoecalEgiingofZegUersityrectofoesrtioalecialbratorydt ofKeyLabforiomedicalEngineringofatioalEducationMinistryofChina,ZhejiangUiversityHeisaninteationaldvisor organising boardmemberofBiosensorsand BioelectronicsSymposiu(BBS),memberofThe International SocietyforOlfactioand ChemicalSensing(SOCS),memberofAsia-PcificRegioal SteringCommiteeofInteationalMetingonChemicalSensors(C). memberofInteationalSteeringCommiteeofAsianConferenceonChemicalSnsors (ACCS).Besides,eisavisitingsholaratdison SensorsLaboratoryfCaseWestenReserve UniversityUSA,andBiosensorandBoinstrumentationLabratoryinUniversityofArkasas USA,in202dectielyHesialderforcte&eeingeil ofMicroelectrocsstiorderieerforoseosdoelectrocsos&cttorsAss&atoE SensorsJualtedodealsoateioffalofodc on.Hehapublishdbout5cademicpaprs,oogapsineseoEgisoldsoeteatioalpatentadoretaatets in China. E-mail: cnpwang@zju.edu.cn

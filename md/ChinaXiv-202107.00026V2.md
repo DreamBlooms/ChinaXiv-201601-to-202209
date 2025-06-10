@@ -1,0 +1,308 @@
+# 数理心理学第一公设：事件结构式
+
+高闯1马安然1魏薇2德力达尔1（1华中师范大学心理学院武汉4300792华中农业大学 理学院武汉430070）
+
+摘要：“实验实证纲领”与“理论纲领”属于科学关键纲领。心理学仍处于“实验实证纲领”主导的实验阶段，追求公理、自洽完备的数理架构是内驱目标，也是APA 的统一性心理学（UnifyingPsychology）核心诉求。“数理心理学”提出关键数理公设，演绎心理学基础问题，并与经典发现惊奇一致：知觉功能结构、语义编码结构、学习实验的控制结构、知识的结构体系、信息通道完备性。“事件结构式”由于能够串联起物质信息结构表达、信息认知加工机理的底层逻辑，而成为首要公设。这开辟了利用公理公设演绎心理机制的新途径。基于这一原创性，本文将综述事件结构式的数理成果，并拓展其延伸性推论。
+
+关键词：数理心理学统一性心理学事件结构式
+
+人类获取知识方法有三个传统：古典传统、实验实证传统、理论传统。上帝天启、思辨、自然观察、前人经验是“前科学阶段”获取知识的主要方法，称为“古典传统”。在继承“古典传统”的合理性之上，“科学阶段”则由“古典传统”进入“实验实证传统”。在经历“实验实证传统”的短期孕育之后，物理学在三大理学（物理理学、生物理学、心理理学）中率先突破，实现公理、逻辑自洽的架构和数学表示，也就进入了“理论传统”。物理学也就被划分4个阶段：实验实证、唯象理论、理论架构和数学表达（Yang，2003)。这一划分方法对其它学科同样具有意义。
+
+实验本质是：利用客体与客体之间的相互作用所诱发的结果效应，反推相互作用原理、现象学特征中的属性模式。实验效应是多变的，而相互作用关系、物质属性量关系是不变的。实验实证的默认纲领是：在多变的现象中寻找不变关系（即规律)，也就是研究变性中的不变性。普适性、不变性是对“规律”的判断标准，也称诺特定理（Noether,1918），它是一条哲学律，普适于自然科学和社会科学。由于某一领域的实验发现具有局部性，它往往表述为该局部领域的定律（law）、效应模式，也就是“实验假说”或“唯象学理论”。
+
+把对同一对象的不同子领域的实验效应的模式、定律，以公设（或公理）为前提，逻辑起来，使其能够相互推演，这就构成了完备自洽的“理论架构”。如果用数学语言来表示，就能精确地描述、解释、预测、控制。
+
+因此，从科学发展的本质讲，结构主义、机能主义、行为主义、人本主义、精神分析、认知主义（也有称学派）等，均抓住了“人”的整体系统中的某一子系统。这些不同时期累积的多样、经典的实验效应发现、定律，本质上属于“心理实验唯象学”。
+
+然而，现象学的“多变、多样”，往往诱使“实验实证研究”的学术探索方向，走向“复杂性、多样性、个体差异性”，即进入实验实证默认纲领的反面。这与规律的普适性、不变性产生本质冲突。这一方向的探索有可能构成了心理研究的可贵试错和必要成本。
+
+Miller（2003）以及近期对“认知科学整合危机”历史性回顾（Nunez,Allen etal.,2019）认为：认知科学的整体进展已偏离了认知纲领的初始设定（认知即计算)，经早期快速扩张之后而步履缓慢，认知瓶颈问题暴露，发展危机潜伏。无论得出什么样的结论，这都是对“认知”探索、发展多年的严肃的反思。
+
+这几方面探索的结晶，均提示：揭示心理本质的唯象学发现的完备集，可能已经完成。新路径开始显现：以公理体系来逻辑心理学经典唯象学发现，建立心理学自洽完备的数理架构。数理方法亟待与心理学融合，完成心理学的数理理论体系。心理学的发展，已处于“实验实证传统”向“理论统一”重大转型的交叉路口。
+
+APA 早已深刻洞察这一形势，自1997年以来，特设“统一性心理学”（UnifyingPsychology）专项演讲报告，接受任意领域内的关键成果，试图推动这一关键突破。“认知即计算”可能是“心理实验唯象学”的最后一个局域的子纲领。“统一性纲领”开始孕育。
+
+# 1．人的普适性加工基本问题
+
+“物质相互作用”是物质世界基本力学关系。客体具有属性量，每个属性量的特征量（特征值）构成客体初始条件，它也是客体之间相互区分的差异。即属性量是普适量，特征量是个体差异。
+
+客体相互作用诱发的效应，也就是现象特征（也称为结果)。客体相互作用、客体的初始条件，就构成了“因”，效应就是“果”，因和果之间的关系，即“因果关系”。特征量不同（初始条件不同)，产生的结果也不同。即因的差异，导致了不同的果，也就是因果现象往往复杂。但“因”对应的属性量、属性量之间的关系，不以“因”的值的变化而变化，也就是因果律是不变的，即“规律”的普适性。如果能用数学表达，则可精确预测。这是科学追求数理表达的根源。
+
+物质世界中客体与客体之间的相互作用及其诱发的效应，称为“事件”。“事件”（心理学称“刺激”Stimulus,S）通过某种信息介质（通信介质）的加载（有些神经通道直接作用），与人发生相互作用，形成心理映像（心理表征)，也就构成了事件信息的现场加工。人脑（认知系统）对将要执行的（未来）事件进行决策后，驱动身体运动系统（生物机械系统）和身体供能系统，进行行为制动，也就是响应（Response,R)。普遍性的相互作用关系，被简化为S-R模式，S设定了外界“事件”的初始条件，与人发生“作用”，诱发行为响应R。S与人的精神加工机制，共同构成了“因”，R就构成了“果”。对相互作用关系的探测，也就是对因果律的探测。“人”被看作黑箱，黑箱探测属于自然科学的普适方法。心理学的 S-R 模式（含变形)，天然遵循“因果律”与“可知论”。它也是人类加工自然世界的普遍模式，超越实验室探测模式，具有生态学意义。
+
+关于人的普适性加工机制的存在与否，从刺激对人的作用上（不包含身心关系)，要回答以下两个基础问题：
+
+（1）事件信息结构的普遍性形式与数理表达。本文将要综述的是，事件（或刺激）存在统一的数理表达式。这一统一性的结构，与人类认知系统的各个认知子系统的功能，存在对应性。即物质世界的信息结构的普适性，天然地“调教”了人的认知系统。也即物质世界的普适性决定了认知系统物质基础的普适性。这一统一性的数学表达式，与心理实验唯象学的经典发现惊奇契合。
+
+（2）物质世界的心理映像关系及其物质基础。物质事件的相互作用规则（力学关系）、效应（现象学特征）、因果律（动力学关系)，如何经过人类的认知系统中不同认知功能单元的加工，“完备”地映射到人的精神系统中，形成“映像”（或表征)，使得人能够感知外界世界信息？
+
+人的认知功能的环节一—感知觉、推理、判断、决策等—一每个承担了独立的认知功能。在对事件属性量、特征量信息、信息结构编码和译码上，整体遵循统一性与完备性规则。即对事件描述，再不需要添加任何其它加工环节，使得认知获得的“心理（表征）事件”的信息及其结构，与物质世界的“客观事件”的属性量的最大集合相一致，也就是对物质世界的认知的“维度”是完备或完全的。本文将要综述的是，在事件结构式的基础上，人的认知系统在形成心理事件的认知维度上是完备的，这构成了认知闭环。
+
+上述两种形式的数理表达，前者代表物质世界的信息表达形式，后者是认知功能单元之间的逻辑关系。明确两者的数理本质，才能回答“物”与“心”之间的逻辑关系。
+
+高闯（2021）提出并确立“数理心理学”（The Mathematica Principle of Psychology，MPOP）理论体系，并公布第一数理公设：事件结构式，演绎人的心理加工机制的内在数理逻辑。考虑到这种原创性，本文简述“事件结构式”及其演绎的数理成果，并拓展其延伸性推论。
+
+# 2．事件结构式
+
+物质世界（物理、生物、人与社会）运行的本质是：客体与客体之间发生相互作用，并诱发相互作用效应。相互作用及其效应就构成了“事件”。即“事件”是物质世界中客体相互作用的信息的普遍表达形式。
+
+“事件”中变量的变化信息，与人的感觉器作用，进入人的认知神经系统，即刺激（stimulus，S）进入人脑，它是人类认知外部世界的源起。“事件”信息经过调制编码、采集、传输、解码、判断与决策、自我认知控制等系列、基础认知加工过程，以实现人对事件的现场加工，对未来事件的决策，对人类经验方法的获取。即事件串联起人类认知功能单元的数理逻辑，构成了人类认知内容（人类知识经验）的内核。
+
+因此，事件的数理表达，是物质运作表达、心物关系、身心关系、人类经验之上的基本关系，被数理心理学列为心理学的公理之一。
+
+# 2.1事件结构式的数理含义
+
+把事件中的客体分为物理对象、生物对象、具有精神性的动物与人，其基础形式包含两种表达形式：
+
+$$
+E _ { p h y } = w _ { 1 } + w _ { 2 } + i + e + t + w _ { 3 } + c _ { 0 }
+$$
+
+$$
+E _ { p s y } = w _ { 1 } + w _ { 2 } + i + e + t + w _ { 3 } + b t + m t + c _ { 0 }
+$$
+
+其中， $w _ { 1 } \setminus \boldsymbol { w } _ { 2 } \setminus \boldsymbol { i } \setminus \boldsymbol { t } \setminus \boldsymbol { w } _ { 3 }$ 、分别表示客体1、客体2、相互作用介质、时间、地点、这就构成了物质事件结构表达式 $E _ { p h y }$ 。当客体1、客体2中任意一个为精神性客体（人与精神性动物）时，则用 $E _ { p s y }$ 来表示，其中 $b t$ 、mt分别表示行为动机目标物、内在动机目标物（高闯，2021）。 $c _ { 0 }$ 和 $e$ 分别表示初始条件和事件的结果效应。从数理上讲，则是每个式子中除去 $c _ { 0 }$ 和 $e$ 之外的各个要素在事件发生时的初始值（用 $c _ { 0 }$ 表示）与任意一个时刻的值（用 $e$ 表示)。
+
+# 2.2事件结构式要素的集合表述
+
+上述每个要素，均具有多个属性，因此，每个要素均需要一个属性量的集合 $P$ 来表示:
+
+$$
+P = \left\{ p _ { i j } \left| i = 1 , 2 , \cdots , m ; \ j = 1 , 2 , \cdots , \ n \right. \right\}
+$$
+
+其中， $p _ { i j }$ 表示事件结构式中 $i$ 个要素的第 $j$ 属性， $m , n$ 则分别表示要素的个数和属性的个数。这个属性集中，每个属性构成了一个独立的维度，也就构成了描述事件的属性空间，记为 $R ^ { s }$ ，它的最大的维度为 $n = i \times j$ 。
+
+对于一个具体的事件，由于客体之间存在差异，属性具有不同特征值，则每个事件，从初始时刻到结束时刻 $\intercal$ 的特征值集合，就可以表示为：
+
+$$
+V = \left\{ \nu _ { i j t } \left| i = 1 , 2 , \cdots , m ; \ j = 1 , 2 , \cdots , \ n , t = 0 , \cdots , T \right. \right\}
+$$
+
+$\nu _ { i j }$ 表示事件结构式中 $i$ 个要素的第 $j$ 个属性的特征值。由于每个要素具有独立性，且用集合来表示，则“事件结构式”中的加号满足“布尔运算”法则(高闯，2021)。
+
+# 2.3事件的布尔运算
+
+对于事件结构式中的每个要素，用下标 $i$ 来区分。每个要素的独立属性（除了 $c _ { 0 }$ 和 $e$ 之外的要素)，又可以用集合的方式表示为：
+
+$$
+P _ { i } = \left\{ p _ { i j } \vert j = 1 , 2 , \cdots , \ n \right\}
+$$
+
+那么，描述这个要素的子空间，就可以表示为 $R _ { i } ^ { s }$ 。这个要素的每个属性的特征变量，就可以表示为：
+
+$$
+V _ { i } = \left\{ \nu _ { i j t } \left| j = 1 , 2 , \cdots , \ n , t = 0 , \cdots , T \right. \right\}
+$$
+
+特殊的，对于 $c _ { 0 }$ 和 $e$ ，它们是 $V _ { i } = \left\{ \nu _ { i j } \left| j = 1 , 2 , \cdots , \ n \right\} \right.$ 在0时刻的所有的特征值，以及从0开始到 $T$ 时刻的所有要素的特征值。也就是：
+
+$$
+c _ { 0 } = \big \{ V _ { i } \big ( 0 \big ) \big | i = 1 , 2 , \cdots , m ; t = 0 \big \}
+$$
+
+$$
+e = \left\{ V _ { i } \left( t \right) \middle | i = 1 , 2 , \cdots , m ; t = 0 , \cdots , T \right\}
+$$
+
+回到事件结构式逻辑上，对于事件 $E _ { p h y }$ 和 $E _ { p s y }$ ，描述事件的属性集合和对应的描述空间，用 $P$ 和 $\boldsymbol { R } ^ { s }$ 来描述。而事件中每个要素的属性用 $P _ { i }$ 和 $R _ { i } ^ { s }$ 来描述。显然，它们分别是 $P$ 和$R ^ { s }$ 的子集。同样，描述事件结构的特征值集合 $V$ 表示，描述特征值所在的子空间为 $\boldsymbol { R } _ { i } ^ { s }$ 。则每个要素的特征值的集合 $V _ { i }$ 和 $R _ { i } ^ { s }$ 分别是 $V$ 的子集和 $R ^ { s }$ 的子集。
+
+因此，事件 $E _ { p h y }$ 和 $E _ { p s y }$ 构成的属性集合、特质值集合正是事件要素的属性子集、特征值子集的相加。因此，事件结构式中的“加号”满足的是布尔运算法则。
+
+# 2.4物质世界属性
+
+物质世界的事件结构式的两种基本形式，把精神客体（人与精神性动物）和物理物区分
+
+开来，从本质上就概括了物理事件、生物事件、社会事件的普适形式。而事件结构本身，也暗含了物质运作的4种基本物质属性：（1）时空属性、（2）运动属性、（3）力学属性、（4)因果属性。详见图1物质世界的4种属性。
+
+时空属性。任何物理的、生物的、人与社会的事件，都发生在一定时空中， $t$ 和 $w _ { 3 }$ 两者就构成了时空属性。
+
+运动属性。客体与客体相互作用发生的结果效应 $e$ ，总是在一定的时空中表现出来，也就是事件结果效应 $e$ 是时间 $t$ 和空间 $w _ { 3 }$ 的关系： $e = m { \left( t , w _ { 3 } , \ c _ { 0 } \right) }$ ， $m$ 表示运动函数。在物理学中，这些关系得到了精确的表达。
+
+力学属性。即 $w _ { 1 }$ $\nu _ { 1 } ~ \cdot ~ w _ { 2 } ~ \cdot ~$ $i$ 之间的关系，也就是 $i = f \left( w _ { 1 } , \ w _ { 2 } , \ c _ { 0 } \right)$ 或$i = f \left( \psi _ { 1 } , \psi _ { 2 } , b { t } , m t , c _ { 0 } \right)$ 之间的关系，也就是力学关系， $f$ 表示力学函数。物理力、生理动力、精神动力、社会力都是这一属性的反应。
+
+因果关系。即建立运动属性、力学属性之间的关系，也就是相互作用 $i$ 与效应 $e$ 之间的关系： $i = R \left( e \right)$ ，即因果关系， $R$ 表示因果律函数。
+
+$$
+E _ { p h y } = w _ { 1 } + w _ { 2 } + i + e + t + w _ { 3 } + c _ { 0 }
+$$
+
+$$
+E _ { p s y } = w _ { 1 } + w _ { 2 } + i + e + t + w _ { 3 } + b t + m t + c _ { 0 }
+$$
+
+图1物质世界的4种属性。（a）在非精神的事件中，包含4层物质属性关系：时空属性关系、运动属性关系、力属性关系、因果属性关系。（b）有精神运作的事件中，包含4层关系：时空属性关系、运动属性关系、力属性关系、因果属性关系。
+
+# 3．事件结构式演绎的认知逻辑
+
+事件结构式是物质世界事件的普遍表达形式。通过信息介质的调制，把客体相互作用的事件的信息加载到介质中（有的是直接和感觉器作用)，被感觉器采集、数字编码、神经传输，被知觉解码而成为人的“实时”、“现场”知觉的“心理事件”，并经符号编码而成为具有语义信息的“心理事件”（高闯，2021)。即“事件”串联起人类认知功能单元的底层数理逻辑。由此，从“事件结构式”出发，可以演绎心理学关于认知现象的经典发现。这样，就可以在底层的数理逻辑上，解答了知觉功能类型、多通道整合、工作记忆容量、普遍语法结构、行为主义与认知争论等根本性的数理根源。
+
+# 3.1知觉功能
+
+物质世界的“事件”是有结构的，这一结构性，如果对应地映射到人的感知系统中，这就意味着，人的知觉功能需要对事件结构进行对应地解码，才能得到事件的完备信息。由于事件的结构要素是独立的，这就意味着知觉需要与结构要素一一对应的独立的解码功能类型。
+
+在心理学中，知觉的类型被分为：时间知觉、空间知觉、动知觉、客体知觉。这就分别与事件结构要素的识别一一对应(高闯，2021)：
+
+（1）“客体识别”对应客体 $w _ { 1 }$ 和 $w _ { 2 }$ 、动机目标物 $b t$ 和mt 。  
+（2）“时间知觉”对应时间 $t$ ，“空间知觉”对应空间 $w _ { 3 }$ ，  
+（3）“动知觉”对应相互作用 $i$ 和结果效应 $e$ 。  
+（4）知觉到的上述各个变量的值，对应初始条件 $c _ { 0 }$ ，如大小、形状等。详见表1。
+
+表1事件、知觉事件要素、知觉功能、语义事件要素、语言结构之间对应关系  
+
+<html><body><table><tr><td>事件</td><td>知觉事件要素</td><td>知觉功能</td><td>语义事件要素</td><td>语言结构</td></tr><tr><td>客体W，W2</td><td>客体Wi，W2</td><td>客体识别</td><td>客体wis，W2s</td><td>主语，宾语</td></tr><tr><td>相互作用i</td><td>相互作用i</td><td>动知觉</td><td>相互作用i'</td><td>谓语</td></tr><tr><td>结果效应e</td><td>结果效应e</td><td>动知觉</td><td>结果效应e'</td><td>结果状语</td></tr><tr><td>时间t</td><td>时间t</td><td>时间知觉</td><td>时间ts</td><td>时间状语</td></tr><tr><td>空间W3</td><td>空间W3</td><td>空间知觉</td><td>空间ts</td><td>地点状语</td></tr><tr><td>动机目标物bt，mt</td><td>动机目标物bt，mt</td><td>客体识别</td><td>动机目标物bt，mt</td><td>目的状语</td></tr><tr><td>初始条件Co</td><td>条件c</td><td>知觉特征值 （如形状等）</td><td>条件Cos</td><td>条件状语</td></tr></table></body></html>
+
+从事件结构式来讲，知觉到内容是：物质世界中的“物质事件（的结构及其内容)”经人的认知系统加工，被一一对应地映射到（或表征为）“心理事件（的结构及其内容)”。这就间接回答了知觉功能的数理本质是：提取事件。这样，知觉到的结构及其内容可以表示为：
+
+$$
+E _ { p h y } ^ { ' } = w _ { 1 } ^ { ' } + w _ { 2 } ^ { ' } + i ^ { ' } + e ^ { ' } + t ^ { ' } + w _ { 3 } ^ { ' } + c _ { 0 } ^ { ' }
+$$
+
+$$
+E _ { p s y } ^ { ' } = w _ { 1 } ^ { ' } + w _ { 2 } ^ { ' } + i ^ { ' } + e ^ { ' } + t ^ { ' } + w _ { 3 } ^ { ' } + b i ^ { ' } + m t ^ { ' } + c _ { 0 } ^ { ' }
+$$
+
+上标表示我们知觉到的物质事件对应的“心理量”。知觉的本质是赋予事件以意义，为完备地提取外界事件信息的不同独立要素结构，人脑进化出知觉的不同类型，知觉功能的数理性也就得到揭示。
+
+物质客体之间的相互作用形成的事件，会诱发光学的效应、振动的效应、化学的效应等，也就是物质客体不同物质属性的体现。这些属性效应经不同介质与感官作用，通过不同神经通道传递到人的认知系统。而后经知觉解码并进行多通道整合，形成对物质事件的完整知觉。
+
+即单一感觉通道仅将单一属性信息传输到知觉。因此，到达知觉的事件信息，必然是由人体中的多个感觉通道汇聚整合的“完备的”事件属性信息。也就是说，多通道整合必然的是事件独立属性的集成，满足事件整合原理，也称知觉整合变换原理(高闯，2021)。用数学表示为：
+
+$$
+\begin{array} { l } { { \displaystyle \sum E _ { p h y } ^ { ' } = \sum _ { i = 1 } ^ { n } w _ { 1 p i } ^ { ' } + \sum _ { i = 1 } ^ { n } i _ { p i } ^ { ' } + \sum _ { i = 1 } ^ { n } e _ { p i } ^ { ' } + \sum _ { i = 1 } ^ { n } w _ { 2 p i } ^ { ' } + \sum _ { i = 1 } ^ { n } t _ { p i } ^ { ' } + \sum _ { i = 1 } ^ { n } w _ { 3 p i } ^ { ' } + \sum _ { i = 1 } ^ { n } c _ { 0 p i } ^ { ' } } } \\ { { \displaystyle \sum E _ { p s y } ^ { ' } = \sum _ { i = 1 } ^ { n } w _ { 1 p i } ^ { ' } + \sum _ { i = 1 } ^ { n } i _ { p i } ^ { ' } + \sum _ { i = 1 } ^ { n } e _ { p i } ^ { ' } + \sum _ { i = 1 } ^ { n } w _ { 2 p i } ^ { ' } + \sum _ { i = 1 } ^ { n } t _ { p i } ^ { ' } + \sum _ { i = 1 } ^ { n } w _ { 3 p i } ^ { ' } + \sum _ { i = 1 } ^ { n } m { t _ { p i } ^ { ' } } + \sum _ { i = 1 } ^ { n } b { t _ { p i } ^ { ' } } + \sum _ { i = 1 } ^ { n } c _ { 0 p i } ^ { ' } } } \end{array}
+$$
+
+其中， $i$ 表示第 $i$ 个神经通道， $n$ 表示神经通道的总个数， $p$ 知觉英文词的缩写，加号满足“布尔运算”法则。如：在某一地点的 $w _ { 3 }$ 和某个时刻 $t$ 的静止的发声物体。物体的光学信号和振动信号均可到达人的视觉通道和听觉通道。这两个知觉到的事件可以分别表示为：
+
+$$
+\begin{array} { r } { E _ { p h y - V } ^ { ' } = w _ { 1 p \nu } ^ { ' } + i _ { p \nu } ^ { ' } + e _ { p \nu } ^ { ' } + w _ { 2 p \nu } ^ { ' } + i _ { p \nu } ^ { ' } + w _ { 3 p \nu } ^ { ' } + c _ { 0 p \nu } ^ { ' } } \\ { E _ { p h y - A } ^ { ' } = w _ { 1 p a } ^ { ' } + i _ { p a } ^ { ' } + e _ { p a } ^ { ' } + w _ { 2 p a } ^ { ' } + i _ { p a } ^ { ' } + w _ { 3 p a } ^ { ' } + c _ { 0 p a } ^ { ' } } \end{array}
+$$
+
+其中， $E _ { p h y - V } ^ { ' }$ 、 $E _ { p h y - A } ^ { ' }$ 分别表示视觉通道、听觉通道所提取的事件，事件结构的要素分别用下标标识为 $\nu$ (visual)和 $a$ (audio)进行区分。在知觉客体的某个时刻， $t _ { p \nu } ^ { \dot { } } = t _ { p a } ^ { \dot { } }$ ，客体处于静止时，知觉到的位置 ${ w _ { 3 p \nu } = w _ { 3 p a } }$ 。在时空上的效应则包含客体的空间上位置变动和声音的振动，这两个效应（事件）并不相同。根据布尔运算，两个式子相加，就可以得到：
+
+$$
+E _ { p h y } ^ { ' } = \left( w _ { 1 p \nu } ^ { ' } + w _ { 1 p \alpha } ^ { ' } \right) + \left( i _ { p \nu } ^ { ' } + i _ { p \alpha } ^ { ' } \right) + \left( e _ { p \nu } ^ { ' } + e _ { p \alpha } ^ { ' } \right) + \left( w _ { 2 p \nu } ^ { ' } + w _ { 2 p \alpha } ^ { ' } \right) + \dot { t _ { p \nu } } + w _ { 3 p \nu } ^ { ' } + \left( \dot { c _ { 0 p \nu } } + \dot { c _ { 0 p \alpha } } \right)
+$$
+
+人类个体以自身为参考点，同一时刻知觉到的两个通道的事件的信号，由同一“时空位置”发出，事件各个要素属性由“同一”客体促发。对应的属性各自保持独立性，而整合成同一客体促发的综合属性。
+
+而当发声体高速运动时，由于介质不同，在某一时刻，视觉通道的光信号速度远远高于声音信号。则看到的客体的位置和听到的事件的客体的位置不同，两个通道得到的事件发生
+
+了分离。主观判断的客体的空间位置 $w _ { 3 p \nu } ^ { \dot { } } \neq w _ { 3 p a } ^ { \dot { } }$ 。则根据布尔运算，可以得到两个通道的事件结构式相加的结果为：
+
+$$
+E _ { p h y } = \Bigr ( w _ { 1 p v } ^ { ' } + i _ { p v } ^ { ' } + e _ { p v } ^ { ' } + w _ { 2 p v } ^ { ' } + i _ { p v } ^ { ' } + w _ { 3 p v } ^ { ' } + c _ { 0 p v } ^ { ' } \Bigr ) + \Bigr ( w _ { 1 p a } ^ { ' } + i _ { p a } ^ { ' } + e _ { p a } ^ { ' } + w _ { 2 p a } ^ { ' } + i _ { p a } ^ { ' } + w _ { 3 p a } ^ { ' } + c _ { 0 p a } ^ { ' } \Bigr )
+$$
+
+这时，人类个体知觉到的客体的时空位置发生分离，而成为两个独立的事件。在生活中，天空中的飞机飞行时，看到的飞机飞行的事件和听到的飞机飞行的事件的分离，就是这一特例的反应。而在社会生活中的人际交往事件中，同一客体的光学信号、振动的声音信号，往往同步，而符合第一种情况。当包含其它通道时，（11）式依然成立。
+
+# 3.2语义编码
+
+由于客观世界运作的本质是“事件”，“事件”具有普适性，因此，人类对外部物质事件的描述属于普适性描述，即人类需要对普适量（属性量）进行语义符号编码，也就是对事件进行“类”的编码，这就是符号编码。这意味着，人类通过有限事件所获得的经验（对有限事件的归纳)，可以向无限场景中应用（演绎)。这是认知主义攻击行为主义的天然“七寸”。事件结构式及其符号化编码关系，天然回答了这一问题。
+
+现场知觉到的事件，需要转换（编码)为语言符号事件。这就意味着，语言也具有与“事件结构”对应的结构，以满足对事件结构的语义编码的对应性与完备性，才能实现对事件信息的完备交流。即语言结构（或变式）与事件结构具有一一对应关系(高闯，2021)，可以表示为：
+
+$E _ { p h y } ^ { ' } =$ 主语 $\left( w _ { 1 s } ^ { ' } \right) +$ 宾语 $\left( w _ { 2 s } ^ { \prime } \right) +$ 谓语 $\left( \boldsymbol { i } _ { s } ^ { \prime } \right) +$ 结果状语 $\left( e _ { s } ^ { \prime } \right) +$ 时间状语 $\left( \boldsymbol { t } _ { s } ^ { \prime } \right)$ $^ +$ 地点状语 $\left( w _ { 3 s } ^ { ' } \right) +$ 条件状语 $\left( c _ { 0 s } ^ { ' } \right)$   
+$E _ { p s y } ^ { ' } =$ 主语 $\left( w _ { 1 s } ^ { \prime } \right) +$ 宾语 $\left( w _ { 2 s } ^ { \prime } \right) +$ 谓语 $\left( \boldsymbol { i } _ { s } ^ { \flat } \right) +$ 结果状语 $\left( \boldsymbol { e } _ { s } ^ { \cdot } \right) +$ 时间状语 $\left( \dot { t _ { s } } \right)$ $+$ 地点状语 $\left( w _ { 3 s } ^ { ' } \right) + +$ 目的状语 $\left( b t _ { s } ^ { ' } + m t _ { s } ^ { ' } \right) +$ 条件状语 $\left( c _ { 0 s } ^ { ' } \right)$
+
+语言的本质是对“事件”的语义编码。为完备表征事件信息，人类的语言结构均与事件结构一一对应。具体来说，主语对应客体 $w _ { 1 }$ ，谓语对应相互作用 $i$ ，宾语对应客体 $w _ { 2 }$ ，结果状语对应结果效应 $e$ ，时间状语对应时间 $t$ ，地点状语对应地点 $w _ { 3 }$ ，目的状语对应动机目标物 $b t$ 和mt，条件状语对应条件 $c _ { 0 }$ ，详见表1。由此，事件结构式，就演化为符号事件结构式，也就是语言的结构及其变式。
+
+任何一种符号，都是“类”的编码，因此，用符号表示的“事件”，往往指代一类事件，这就使得语义的事件天然具有普适性的编码特征（高闯，2021)。例如：你、我、它、她等都是一类的代称。因此，用符号表示的事件，也就表示为一类事件及其涵盖的属性，也就具有了普遍性的特征。
+
+乔姆斯基通过对人类几千种语言的统计发现：语言具有结构上的相通性，并提出“普遍语法结构”、人类具有“语言获得装置”（Chomsky,1957）。事实上，“普遍语法结构”是对物质世界的普遍信息结构（即事件结构）的心理（语义）编码。从事件结构式出发，事件结构的普适性，决定了人类进化而来的上千种语言结构的普适性（统一性)。“语言获得装置”是不存在的，它是物质世界的“事件”结构对人的演化的“调教”，即物质世界的普遍性，决定了人的语言结构的共通性，即人类的语言编码的唯物性就找到了。关于普遍语法等唯象学假说的争论，也就找到了物质根源与数理根源。
+
+# 3.3学习的本质：行为主义与认知的斗争
+
+乔姆斯基语言结构的发现、Miller记忆容量的发现，以事实的形式证明了心理的结构存在，并在事实上打响了进攻行为主义的第一枪（Miller，2003)。并提出：行为主义无法在事实上回答：为何有限次的学习可以让人获得可以演绎的经验？即通过有限次的学习，何以习得普适性的经验，并得以广泛应用。这是认知主义得以兴起，攻击行为主义的天然“七寸”。
+
+从事件结构式出发，行为主义的经典实验包括：巴浦洛夫狼狗经典反射实验（Pavlov,1927）、托尔曼小白鼠迷宫实验（Tolman,1948）、桑代克猫迷箱实验（Thorndike,1998）、斯金纳小白鼠箱子实验（Skinner,1938)、塞利格曼的狗习得无助实验（Maier,& Seligman,1976)。上述均是控制“事件”的某些要素的“重复”出现。即在事件重复出现中，前后事件所控制的特征性一致。例如：巴浦洛夫实验控制的事件是铃声出现、食物出现的两类事件的时间、地点相同，从而在反复出现中，狗习得了这一事件的特征性（共通性或一致性)。也就是说，食物出现事件的时间 $t$ 、空间 $w _ { 3 }$ 与铃铛响起事件的时间 $t$ 、空间 $w _ { 3 }$ 一致（共通性)。当狗习得了两类事件的共通性后，单独呈现铃铛时，狗仍然会分泌唾液。
+
+因此，学习的本质也就暴露了出来：通过有限重复的事件要素包含的属性的重复，归纳出共通性的属性。这些行为主义的学习实验，共同构成了“事件结构式”要素作为控制条件的“完备集”，详见表2。
+
+在事件的重复性中，获取事件要素的共通性属性的本质就构成了“归纳”。通过归纳习得的不是事件客体的要素的“特征量”，而是事件结构要素的共通性“属性”。一旦这些属性是物质属性的本质属性，这就为随后的“演绎”做好了铺垫。这是认知主义攻击行为主义的天然的“七寸”。但是，这随即产生了一个后继的问题，人类习得的知识的本质是什么？
+
+表2行为主义学习实验的控制条件与事件要素的对应关系  
+
+<html><body><table><tr><td>学习实验</td><td colspan="2">两类控制事件</td><td>事件一致性</td><td>事件要素</td></tr><tr><td>巴浦洛夫狗实验</td><td>铃声</td><td>食物</td><td>时空一致性</td><td>t、W3</td></tr><tr><td>托尔曼迷宫实验</td><td>路径</td><td>食物</td><td>空间位置一致性</td><td>W3</td></tr><tr><td>桑代克猫实验</td><td>踏板</td><td>箱门、食物</td><td>作用关系一致性</td><td>i</td></tr><tr><td>斯金纳箱实验</td><td>压板</td><td>食物</td><td>动机目标物一致性</td><td>bt、mt</td></tr><tr><td>塞利格曼实验</td><td>电击</td><td>逃跑</td><td>行为动机一致性</td><td>bt</td></tr></table></body></html>
+
+# 3.4知识本质
+
+物质世界的属性及其规律，是人类认知的内容。这不仅是学习需要关注的领域，同时，认知的内容也一直是哲学关注的一个焦点：即人类的知识的本质是什么？
+
+物质的事件结构式，决定了物质世界的4类根本属性：时空属性、运动属性、力学属性、因果属性。
+
+人的认知加工的感知觉、学习、语义编码，如果均是围绕“事件结构式”的信息加工的逻辑展开，这就决定了人类习得的知识，必然是对物质世界规律与规则的反应。从数理关系上看，就应该具有与“物质属性”对应的人类认知的观念体系。这需要我们基于物质对象，来考察人类知识的基础理学体系：物理学（以物为对象）、生物学（以生物为对象）、心理学（以人与精神动物为对象）、社会学（以社会群体为对象)。它们均是人类认知的“认知物”或经验产物。
+
+上述4个理学学科体系中，均包含了时空观念、运动观念、理学观念、因果律的知识。见表3所示。
+
+表3“事件”与人的认知体系的对应关系  
+
+<html><body><table><tr><td rowspan="2">物质属性</td><td rowspan="2">知识体系</td><td colspan="4">认知观念分科体系</td></tr><tr><td>物理学</td><td>生物学</td><td>心理学</td><td>社会学</td></tr><tr><td>时空属性</td><td>时空观</td><td>物理时空观</td><td>生物时空观</td><td>心理空间</td><td>社会时空观</td></tr><tr><td>运动属性</td><td>运动观</td><td>物理运动学</td><td>生物运动学</td><td>精神运动学</td><td>社会运动学</td></tr><tr><td>力属性</td><td>力学观</td><td>物理力学</td><td>生物力学</td><td>精神动力学</td><td>社会力</td></tr><tr><td>因果属性</td><td>因果律</td><td>物理因果律</td><td>生物因果律</td><td>心理归因</td><td>社会因果律</td></tr></table></body></html>
+
+上述这一关系也决定了：“物质世界运作的内容”在人的经验体系中（人的认知的内容）的体现。例如：不同学科对知识的机制的划分，往往分为：时空观、运动学、动力学、因果律。它是自然科学和社会科学都试图发现的内容，是由物质事件结构的机制的数理性决定的。“人的经验”与“物”之间的对应关系，也就决定了经验的唯物性，是人类“认知”源起。这一性质，也恰恰反映了人类认知的“唯物性质”。而唯心则是唯物的反面，它必然是人类认知中的一种试错反映。
+
+# 3.5信息通道的完备性
+
+客观存在的“事件”是认知的源起，“事件结构”决定了进入认知系统的“信息结构”。“信息结构"决定了认知系统的物质基础—一信息通道的容量。从客观的“事件结构”来讲，信息的带宽需要具有基本的物理性限制，工作记忆的容量需要满足对事件的独立信息结构要素的完备性存储，以实现对事件信息的运算加工。
+
+物质事件结构式与社会事件结构式中，除去初始条件和结果效应外，物质事件结构式包含 5个基本的独立要素。也就是包含5个独立的特征集合来描述这5个要素。初始条件 $c _ { 0 }$ 与效应 $e$ 又是两个独立的集合。它们代表了事件发生的“始”与“终”。也就共具有了7个独立的信息集合。
+
+同样，对社会事件，它包含了事件的7个独立的特征值集合，并外加上事件的初始条件与效应这2个独立集合，也就共具有9个独立的信息集合。
+
+综上所述，事件的独立的信息的描述单元分别是5和7。它们均是事件的独立要素。又都外加上2个始点与终点的值的集合。这样，事件的特征值集合，才达成了完备。也就是使得事件的信息是完备的。每个要素属性、属性的特征值的集合（见公式5、公式6)，是一个描述的子集，我们认为，这就是记忆中提到的“组块”。这一结论就和 $7 \pm 2$ 对应起来（Miller,1956)。它的数理性含义就清楚了。
+
+高闯（2021）把事件结构式与认知这一观念关联起来。我们除延续这一观念外，又对这一观念进行修正。它是人类的信息通道为“完备存储”“事件”的独立信息结构元素而进化的结果。
+
+事件结构式是物质世界的普遍性表达形式，也是信息结构的普遍性表达形式。这一形式，决定了感知觉的基本功能、知识学习的本质、语义编码结构、感觉记忆的完备性。这在事实上均提示了完备性成为人类从事社会化的基本约束条件。这也提示，完备性一旦不能满足，就会造成人类认知的障碍。这在很多医学、军事的案例中，可以窥视到这种完备性应用。
+
+（1）色盲。会造成人类关于客体的视觉信号的丢失，从而使得事件结构要素的客体属性的特征信息丢失。
+
+（2）信息不对称。利用信息不对称，造成判断困难，本质上属于控制事件信息要素的特征量，造成它方不能完备知晓事件的完备性（全貌性）信息。
+
+# 4.意义
+
+# 4.1数理揭示唯物性的认知根源
+
+事件结构式是客观的“事件”的统一性概括、最简化的数理表达。由于客观的“事件”是人类认知的源起，人类认知世界的“内容”的物质性（唯物客观性）就找到了。同时，“事件”的客观性，决定了人的认知加工机制及其认知加工产物（知识经验）的唯物客观性。正如上文上述，为完备性解码事件信息，人类按照“事件结构”进化出特定的知觉功能类型；为完备性整合事件信息，人类按照“事件结构”进化出多通道整合这一认知功能环节；为完备性存储与运作事件信息单元，人类的工作记忆容量范围恰好是事件的独立信息结构单元的数量区间；为完备性符号化编码事件，人类的普遍语法结构恰好与事件结构一一对应。即唯物性质的认知基础，就找到了数理根源。心理的主观能动性体现在事件结构式中的行为动机目标物bt和内在动机目标物mt中，即人在认知客观世界的过程中拥有主观意志。但“唯心”是人在认知客观世界的“试错结果"，最终将回到“唯物”道路。
+
+# 4.2数理揭示可知论的认知根源
+
+物质事件信息结构的维度（属性）完备性映射到人的认知系统以形成心理表征，必然导致外界世界的“因果关系”被完备地携带到人的认知系统中形成“因果律”，人认知世界才成为可能。“世界可知”的认知机理的基础就找到了。以“人类可见光波段较窄”“感觉系统扭曲外界世界”的认知方法哲学，缺乏认知机制的支持，是哲学争论中的“无花果”。
+
+# 4.3认知功能的数理研究将成为可能
+
+事件串联起了认知功能的内在逻辑，认知功能的数理研究、统一性机制研究将成为可能。事件结构式，是独立于或先于人的主观性而客观存在的规则，也是人脑所获取的信息的统一性编码表达，回答了进入大脑的信息表达规则及其内容。这将带动人的所有认知加工环节的数理化，基础性心理学的数理理论研究或将取得重大进展。
+
+# 参考文献
+
+Chomsky,N.(1957).Syntactic Structures.The Hague/Paris: Mouton.   
+Gao,C.(2021).The mathematical principleofpsychology:The geometryofmental space.Changchun,Jilin: Jilin University Press.［高闯．(2021).数理心理学：心理空间几何学．吉林长春：吉林大学出版社.]   
+Miller, G.A.(1956). The magical number seven, plus or minus two: some limits on our capacity for processing information. Psychological Review, 63(2),81-97.   
+Miler,G.A. (2oo3).hecognitiverevolution:ahistoricalperspective,Trends inCognitive Sciences,3,141-144.   
+Maier,S.F.,& Seligman,M.E. (1976).Learned helplessness: Theory and evidence.Journal of Experimental Psychology:General,105(1),3-46.   
+Noether，Emmy (1918): Invariante Variationsprobleme,Nachrichten derKoniglichen Geselschaftder Wissenschaftenzu Gottingen,Mathematisch-PhysikalischeKlasse,235-257.   
+Nunez,R.,Allen,M., Gao,R.,Miller Rigoli, C.,Relaford-Doyle,J.,&Semenuks,A. (2019). What happened to cognitive science?Nature human behaviour,3(8),782-791.   
+Pavlov,I.P.(1927). Conditioned reflexes. Oxford University Press.   
+Skinner BF. (1938).The behavior of organisms: an experimental analysis.New York: Appleton-Century-Crofts.   
+Tolman,E. C.(1948). Cognitive maps in rats and men.Psychological Review, 55(4),189-208.   
+Thorndike,E.L. (1998). Animal intelligence: An experimental study of the associative processes in animals. American Psychologist.53(10),1125-1127.   
+Yang,Z.N. (2003). Aesthetics and Physics.Journal of Wuhan University of Technology: Information & Management Engineering，25(1),5.
+
+# The First Postulate in the Mathematical Principle of Psychology: The Formula ofEvent Structure
+
+GAO Chuang1,MAAnran1,WEI Wei2,DE li da erl
+
+(ISchoolofshologyentralinNoalUvesityWuao9,in;lgeofience,Haoilul University，Wuhan430070,China)
+
+# Abstract
+
+"Physics"，“biology"，“psychology and sociology” are the three major sciences, which are all the products of human cognitive knowledge. The development of human cognitive knowledge has gone through "classical tradition", "experimental and empirical tradition" and "theoretical unity tradition". Physics was the first to unify, while the other two kinds of science did not achieve a selfconsistent and complete unified theoretical framework. Psychology inherits classical tradition, experimental and empirical tradition naturally,and follows the standard experimental methods of natural science. The phenomenology of psychology has experienced such historical deposits as structuralism, functionalism, behaviorism, humanism, psychoanalysis,cognitivism, etc., and has always been troubled by the transition from "phenomenology" to "theoretical framework".
+
+That is, is it possible for psychology to establish a self-consistent and complete unified theoretical framework through several key equations? This is the question of"Unifying Psychology". Whether there exists a uniform cognitive processing mechanism in human,the following two questions need to be clarified :(1) the universal form and mathematical expression of the event structure (or stimulus). (2) how are the events processed by different cognitive function units in human cognitive system, which enables human to perceive the outside world.APA has a deep insight into the key to this issue,and has created a special topic on "Unifying Psychology" to receive critical advances in any field at any time, but it has not yet made a breakthrough.
+
+After several years of exploration, Chinese scholar took the lead in puting forward the theoretical postulate system of "The Mathematical Principle of Psychology"(MPOP)，and has published the first phase of the results: " The Mathematical Principle ofPsychology: The Geometry of Mental Space",and proposed the following: (1) the formula of event structure, (2) the principle of cognitive symmetry, (3) the theory of increased cognitive entropy, to deduct and predict the key theories and discoveries in the local field of psychology from the mathematical perspective. Specifically speaking,in order to extract the event structure completely, the human brain has evolved different types of perception. In order to integrate event information completely, human have evolved the cognitive function of multi-channel integration based on "event structure". In order to represent or code event information completely, the language structure corresponds to the event structure one-to-one. In order to storage the "event structure" completely, the capacity of human information channels is “Seven plus minus two".The essence of learning is to generalize properties from a limited number of events and interpret them into an infinite number of events, which is the core argument of behaviorism and cognitive science. The essence of knowledge comes from the four properties of material events.
+
+This may mark the beginning of the watershed event from the era of "experimental psychology" into the era of unified, mathematical "theoretical psychology".Limited to topics, we will make a series of announcements.This article only reports the first part: the formula of event structure and its extension.
+
+Key words the mathematical principle of psychology, unifying psychology, the formula of event structure

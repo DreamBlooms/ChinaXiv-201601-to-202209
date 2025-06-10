@@ -1,0 +1,153 @@
+李　敏」崔亚利1\*王丙雷」　陈宝江 2\*（1.河北农业大学动物医学院，保定071000；2.河北农业大学动物科技学院，保定071000）摘要：本试验旨在研究饲粮中添加不同水平的肌醇对獭兔皮肤中 $\beta$ 连环蛋白（ $\beta$ -catenin)和激素敏感酯酶（HSL）表达的影响。选取（ $4 0 { \pm } 1$ ）日龄的同期断奶獭兔120 只(公母各占1/2)，随机分成4组，每组30只。在4组獭兔的饲粮中分别添加0、25、50、 $7 5 \mathrm { m g / k g }$ 的肌醇，试验期为3个月。在试验的第30天（2月龄）、第60天（3月龄）和第90天（4月龄），分别取腹部、背中部、臀部皮肤,采用免疫组织化学和蛋白质印迹(Western blot)法对 $\beta$ -catenin和 HSL的表达和定位进行检测。结果表明： ${ \beta }$ -catenin 在毛囊中广泛表达，在毛根鞘细胞和毛乳头均有棕黄色阳性反应细胞。HSL在毛根鞘细胞，尤其是在内根鞘细胞内，呈现非常明显的棕黑色强阳性表达。饲粮中添加 $5 0 \mathrm { m g / k g }$ 肌醇可以极显著增加2\~4月龄獭兔背中部皮肤毛囊中 $\beta$ -catenin 和HSL 阳性表达细胞的平均灰度值（ $\cdot P { < } 0 . 0 1 \cdot$ )，极显著增加4月龄獭兔背中部、腹部和臀部皮肤毛囊中 $\beta$ -catenin 和HSL 阳性表达细胞的平均灰度值( $\cdot P { < } 0 . 0 1 \cdot$ ）°结果提示，肌醇能够通过上调4月龄獭兔毛囊中 $\beta$ -catenin 和HSL 的表达来促进毛囊的发育，在本试验中，饲粮肌醇水平达到 $5 0 \mathrm { m g / k g }$ 时效果最佳。关键词：肌醇；獭兔；毛囊； $\beta$ -catenin；HSL中图分类号:S816.7 文献标识码:A 文章编号：  
+18 肌醇（环己醇）广泛分布于各种天然动植物及微生物的组织中[I，主要在动物的肝脏、  
+19 肾脏、大脑和睾丸[2-3]等部位合成，具有生物素与维生素B的类似作用，作为体内活性组织的组成部分发挥多种生理功能[4]，如促进细胞生长，参与蛋白质的生物合成；促进肝脏脂肪代谢，降低血液中胆固醇含量；作为细胞膜的组成成分之一，在膜磷脂平衡中扮演着重要的角色[5]；促进健康毛发的生长，防止脱发等。在食品工业中肌醇常作为营养强化剂被推广使用，但是肌醇在毛用动物饲粮中的应用研究很少。  
+毛囊是一种形态和结构较为复杂的皮肤附属结构[，它呈周期性地控制着毛发的生长，决定着动物被毛的品质和产量。毛囊的发育过程受到多种信号分子的调节，其中Wnt 途径是最关键的信号通路[7]。而作为Wnt 信号途径中下游成员之一的 $\beta$ -连环蛋白（ $\beta$ -catenin）,是 Wnt 信号途径的中心环节，对毛囊细胞的生长、分化、运动、凋亡的调节都具有重要的作用[8]。  
+肌醇有促进脂肪代谢的作用，而表皮 $\mathrm { { W n t / \beta } }$ -catenin作为信号级联反应中关键的启动因子能够诱导脂肪生成，表皮Wnt 信号在脂肪细胞分化和被毛的生长周期同步化中具有重要作用[9]。虽然穆国柱等[10]对饲粮中添加脂肪对獭兔皮毛质量的影响进行了研究，但是探讨脂肪沉积影响因素对毛囊发育影响的研究却很少。激素敏感酯酶（HSL）是脂肪分解的限速酶[1]，也是影响动物脂肪沉积的关键酶之一。因此，本试验通过研究在饲粮中添加不同水平的肌醇，研究其对毛囊中 $\beta$ -catenin和HSL表达的影响，以探讨肌醇影响毛囊发育的可能机制，为肌醇在毛皮动物生产中的应用提供参考。
+
+# 1材料与方法
+
+# 1.1 试验动物选择和分组
+
+选取同期断奶的（ $4 0 { \pm } 1$ ）日龄獭兔120只(公母各占1/2)，随机分为4组，每组30只，每笼3只，常规饲养，预试期7d，正试期为3个月。对照组和试验1组、试验2组、试验3 组獭兔分别饲喂在基础饲粮中添加0、25、50、 $7 5 \mathrm { m g / k g }$ 肌醇的试验饲粮。基础饲粮组成及营养水平见表1。所有试验饲料均制成直径为 $2 . 5 \mathrm { m m }$ 的颗粒饲料。
+
+# 表1基础饲粮组成及营养水平
+
+%
+
+Table 1 Composition and nutrient levels of the basal diet   
+
+<html><body><table><tr><td>原料 (干物质基础) Ingredients (DM basis)</td><td>含量 Content</td><td>营养水平(风干基础) Nutrient levels （air-dry basis）</td><td>含量Content</td></tr><tr><td>玉米Corn</td><td>15.0</td><td>粗蛋白质 CP</td><td>16.12</td></tr><tr><td>豆粕 Soybean meal</td><td>17.0</td><td>粗纤维CF</td><td>28.89</td></tr><tr><td>麦麸Wheat bran</td><td>20.0</td><td>中性洗涤纤维 NDF</td><td>42.06</td></tr><tr><td>次粉 Wheat middling</td><td>5.0</td><td>酸性洗涤纤维 ADF</td><td>32.34</td></tr><tr><td>花生皮 Peanut shell</td><td>10.0</td><td>粗脂肪 EE</td><td>1.69</td></tr><tr><td>花生秧 Peanut vine</td><td>31.0</td><td>钙Ca</td><td>1.64</td></tr><tr><td>石粉 Limestone</td><td>1.0</td><td>磷P</td><td>0.4</td></tr><tr><td>食盐 NaCl</td><td>0.5</td><td>赖氨酸Lys</td><td>0.86</td></tr><tr><td>赖氨酸Lys</td><td>0.1</td><td>蛋氨酸 Met</td><td>0.59</td></tr><tr><td>蛋氨酸 Met</td><td>0.1</td><td></td><td></td></tr><tr><td>预混料 Premix1)</td><td>0.3</td><td></td><td></td></tr><tr><td>合计Total</td><td>100.0</td><td></td><td></td></tr></table></body></html>
+
+1 预混料为每千克饲粮提供 The premix provided the following per $\mathrm { k g }$ of the diet:Fe (as ferric sulfate) $7 0 ~ \mathrm { m g }$ ， $\mathtt { C u }$ (as copper sulfate) $2 0 ~ \mathrm { m g }$ ， $Z \mathrm { n }$ (as zinc sulfate) $7 0 ~ \mathrm { m g }$ ，Mn (as manganese sulfate) $1 0 \mathrm { m g }$ ， $\mathrm { C o } 0 . 1 5 \ : \mathrm { m g }$ ， $\mathrm { ~ I ~ } 0 . 2 \ : \mathrm { m g }$ ，Se (as sodium sulfate) $0 . 2 5 \mathrm { m g }$ ，VA 10 000 IU，VD 900 IU，VE $5 0 \mathrm { m g }$ ，VK $2 \ : \mathrm { m g }$ ，硫胺素 thiamine $2 \ : \mathrm { m g }$ ，核黄素 riboflavin $6 \ : \mathrm { m g }$ ，泛酸 pantothenic acid $5 0 \mathrm { m g }$ ，吡哆醇 pyridoxine $2 \ : \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 2 \ : \mathrm { m g }$ ，烟酸niacin $5 0 \mathrm { m g }$ ，胆碱 choline 1 000 mg，生物素 biotin $0 . 2 \mathrm { m g }$ 。   
+2’消化能为计算值，其他为实测值。DE was a calculated value，while the others were measured values.
+
+# 1.2样品的采集
+
+分别在试验开始后的第30天（2月龄）、第60天（3月龄）、第90天（4月龄)，每组随机各选取6只健康獭兔，颈静脉放血处死，去除预定部位的被毛后，分别取腹部、背中部和臀部皮肤（各约 $1 \mathrm { c m } ^ { 2 }$ )，一部分展平并贴附在吸水纸（防止皮样卷曲）上后，固定于多聚甲醛中，用于免疫组织化学分析；另一部分包裹于锡箔纸（ $1 8 0 ^ { \circ } \mathrm { C }$ 烘烤5h）中，放于 $- 8 0 ~ \mathrm { { ^ circ C } }$
+
+冰箱中冻存，用于组织蛋白质的提取。
+
+# 1.3 试验试剂
+
+鼠抗人HSL抗体购自 Santa公司，鼠抗人 $\beta$ -catenin抗体购自CST公司，链霉亲和素-生物素复合物（SABC）免疫组化染色试剂盒和浓缩型二氨基联苯胺(3,3N-diaminobenzidinetertrahydrochloride,DBA)显色试剂盒均购自武汉博士德生物工程有限公司，蛋白质抽提试剂盒和蛋白质Maker均购自CWBIO 公司，硝酸纤维素膜（NC）购自Millipore 公司。1.4皮肤组织的 $\beta$ -catenin和HSL的免疫组织化学染色将皮肤切片常规脱蜡至水， $3 \%$ 过氧化氢（ $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ ）室温作用 $1 0 \mathrm { m i n }$ 以灭活内源性酶，蒸馏水洗 $2 \operatorname* { m i n } \times 3$ 次；将切片浸入 $0 . 0 1 \mathrm { m o l / L }$ 枸橡酸盐缓冲液，电炉加热至沸腾后断电，间隔$1 0 ~ \mathrm { { m i n } }$ 后再重复1次，冷却后磷酸盐缓冲液（PBS）洗涤 $2 \ \mathrm { m i n } { \times } 2$ 次；滴加 $5 \%$ 的牛血清白蛋白（BSA）封闭液，室温作用 $2 0 \ \mathrm { m i n }$ ；甩去多余液体，滴加1：50 稀释的一抗（鼠抗人（20 $\beta$ catenin/HSL）, $4 \mathrm { { ^ \circ C } }$ 过夜；室温放置1h，PBS 冲洗 $2 \operatorname* { m i n } \times 3$ 次；滴加生物素化山羊抗小鼠免疫球蛋白G(IgG)， $3 7 \ \mathrm { { ^ circ C } }$ 作用 $2 0 \mathrm { m i n }$ ，PBS冲洗 $2 \operatorname* { m i n } \times 3$ 次；滴加试剂 SABC， $3 7 \ \mathrm { { ^ circ C } }$ 作用$2 0 \mathrm { m i n }$ ，PBS冲洗 $5 \mathrm { m i n } { \times } 4$ 次；DAB 显色 $1 0 \mathrm { m i n }$ ，蒸馏水洗涤 $2 \operatorname* { m i n } \times 2$ 次，苏木精轻度复染，脱水，透明，封片，显微镜观察。PBS代替一抗作为阴性对照。用ImageJ软件对 $\beta$ -catenin 和HSL在各组皮肤中的免疫组化染色结果进行测定，每个獭兔皮肤组织分别取3张切片，每张切片取3个视野，对每张图片进行八位灰阶、反向处理后测得其阳性表达细胞的平均灰度值。
+
+1.5 皮肤组织中 $\beta$ -catenin 和 HSL 的 Western bloting取出液氮中冻存的獭兔皮肤组织，用预冷的蛋白质抽提试剂盒提取獭兔皮肤组织中的总蛋白，每孔上样 $2 0 \mu \ g$ 总蛋白进行十二烷基硫酸钠-聚丙烯酰胺凝胶电泳（SDS-PAGE)，湿转法转至硝酸纤维素膜（NC）膜，转膜 $^ { \textrm { 1 h } }$ 。将膜完全浸没 $3 \%$ BSA-TBST中室温轻摇 $3 0 \mathrm { m i n }$ 加入一抗(用 $3 \%$ BSA-TBST 稀释，1:500)，室温孵育 $1 0 \mathrm { m i n }$ ，放 $4 \mathrm { { ^ \circ C } }$ 过夜。室温孵育 $3 0 \mathrm { m i n }$
+
+TBST洗膜， $3 \operatorname* { m i n } \times 5$ 次。用 $5 \%$ 脱脂奶粉-TBST稀释二抗[山羊抗小鼠IgG（ $\scriptstyle \cdot \mathrm { H + L }$ ）辣根过氧化物酶(HRP)，1:10 000]，室温轻摇 $4 0 \mathrm { m i n }$ 。TBST洗膜 $3 \mathrm { m i n } { \times } 6$ 次。ECL加到膜上后反应$3 { \sim } 5 \operatorname* { m i n }$ ，胶片曝光，显影 $2 \mathrm { m i n }$ ，定影。内参蛋白抗体使用鼠抗人 $\beta$ -actin抗体，以1:5 000的比例进行稀释。
+
+# 1.6 数据处理
+
+试验数据采用 SPSS16.0进行描述性统计与方差分析，结果用“平均值±标准差”来表示。
+
+# 2结果
+
+免疫组织化学染色结果显示， $\beta \cdot$ -catenin在毛囊中广泛表达，在毛根鞘细胞和毛乳头均有
+
+棕黄色阳性反应细胞（图1)。
+
+![](images/ea0f46f0665a97c41afe373e74836a9c3926d790d9f5f18a49aebc83675f743a.jpg)
+
+A、B、C、D分别代表对照组、试验1组、试验2组、试验3组。a，b所示为毛根鞘，c所示为毛根
+
+鞘和毛乳头。图中标尺长度为 ${ 5 0 } \mu \mathrm { m }$ 。
+
+A, B, C and D showed control group,experimental group 1,experimental group 2 and experimental group 3, respectively.a,b represented root sheath,and c represented root sheath and dermal papilla.Scale length in figure was $5 0 ~ { \mu \mathrm { m } }$
+
+Fig.1The results of $\beta$ -catenin in the dorsocentral region skin from 4-month-old Rex rabbits
+
+showed by immunohistochemical staining
+
+如表2所示，2月龄獭兔 ${ \beta }$ -catenin阳性表达细胞的平均灰度值，在背中部皮肤中试验1组与试验2组较对照组均极显著增加 $( P { < } 0 . 0 1 )$ ；在腹部皮肤中试验2组和试验3组极显著低于对照组 $( P { < } 0 . 0 1 )$ ；在臀部皮肤中各试验组均极显著低于对照组 $( P { < } 0 . 0 1 )$ 。3月龄獭兔$\beta$ -catenin 阳性表达细胞的平均灰度值，在背中部与腹部皮肤中各试验组较对照组均极显著增加 $( P { < } 0 . 0 1 )$ ；在臀部皮肤中各试验组较对照组均极显著降低 $( P { < } 0 . 0 1 \dot { ] }$ )。4月龄獭兔 $\beta$ -catenin阳性表达细胞的平均灰度值，在背中部皮肤中各试验组均极显著高于对照组 $( P { < } 0 . 0 1 )$ ；在腹部皮肤中试验2组和试验3组均极显著高于对照组 $( P { < } 0 . 0 1 )$ ，试验1组则极显著低于对照组（2 $( P { < } 0 . 0 1 )$ ；在臀部皮肤中试验2组和试验3组均极显著高于对照组 $( P { < } 0 . 0 1 )$ 。
+
+表2皮肤毛囊组织中 ${ \beta }$ -catenin 阳性表达细胞的平均灰度值
+
+Table 2 Average gray value of $\beta$ -catenin positive cells in the hair follicle   
+
+<html><body><table><tr><td>月龄 Months of age</td><td>部位 Part</td><td>对照组 Control group</td><td>试验1组 Experimental group 1</td><td>试验2组 Experimental group 2</td><td>试验3组 Experimental group 3</td></tr><tr><td rowspan="3">2月龄 2-month-old</td><td>背中部</td><td>128.27±2.05Bb</td><td>141.39±1.54Aa</td><td>140.37±1.44Aa</td><td>128.71±1.16Bb</td></tr><tr><td>腹部</td><td>141.24±1.68Aa</td><td>140.19±1.06Aa</td><td>126.19±1.87Cc</td><td>133.75±1.55Bb</td></tr><tr><td>臀部</td><td>164.25±1.58Aa</td><td>148.56±1.85Cc</td><td>159.32±1.09Bb</td><td>142.81±1.81Dd</td></tr><tr><td>3月龄</td><td>背中部</td><td>136.91±1.33Dd</td><td>147.06±1.76Cc</td><td>171.63±1.95Aa</td><td>151.94±1.33Bb</td></tr><tr><td>3-month-old</td><td>腹部</td><td>132.73±1.01Cc</td><td>138.68±1.97Bb</td><td>138.05±1.22Bb</td><td>149.24±2.06Aa</td></tr><tr><td></td><td>臀部</td><td>157.09±1.54Aa</td><td>121.96±0.61Dd</td><td>146.45±1.09Bb</td><td>143.88±1.82Cc</td></tr><tr><td>4月龄</td><td>背中部</td><td>140.99±2.21Aa</td><td>151.38±2.35Bb</td><td>177.28±1.32Dd</td><td>170.84±1.97Cc</td></tr><tr><td>4-month-old</td><td>腹部</td><td>145.25±1.46Cc</td><td>133.51±2.22Dd</td><td>156.42±2.03Aa</td><td>148.43±0.91Bb</td></tr></table></body></html>
+
+<html><body><table><tr><td>臀部 148.06±1.60Cc</td><td>146.59±1.56Cc</td><td>167.13±1.67Bb</td><td>179.73±2.67Aa</td></tr></table></body></html>
+
+同行数据肩标相同字母或无字母表示差异不显著（ $_ { \cdot \cdot P > 0 . 0 5 }$ )，不同小写字母表示差异显著（ $P { < } 0 . 0 5 \rangle$ ），不同大写字母表示差异极显著（ $P { < } 0 . 0 1$ )。下表同。In the same row,values with the same or no leter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ,whilewith different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，and with different capital lettersuperscripts mean extremely significant difference $( P { < } 0 . 0 1 )$ ).The same as below.
+
+# 2.2 HSL在皮肤毛囊中的定位表达
+
+免疫组织化学染色结果显示，毛根鞘细胞呈现棕黄色的HSL阳性表达（图2)，尤其是在内根鞘细胞内，HSL呈现非常明显的棕黑色强阳性表达。
+
+![](images/946a9b0290f521038ba19c032b69430be267963a59c9a0ed18f3d511a30f8f75.jpg)
+
+A、B、C、D分别代表对照组、试验1组、试验2组、试验3组。a示内根鞘，b示毛根鞘。图中标尺长度为 $5 0 ~ { \mu \mathrm { m } }$ 。
+
+A, B, C and D showed control group,experimental group 1,experimental group 2 and experimental group 3, respectively. a represented inner root sheath,and b represented root sheath. Scale length in figure was ${ 5 0 } \mu \mathrm { m }$
+
+Fig.2The results of HSL in the dorsocentral region skin from 4-month-old Rex rabbits showed by
+
+immunohistochemical staining
+
+由表3得出，2月龄獭兔HSL阳性表达细胞的平均灰度值，在背中部皮肤中试验1组和试验2组极显著高于对照组 $( P { < } 0 . 0 1 )$ ，试验3组极显著低于对照组 $( P { < } 0 . 0 1 )$ ；在腹部皮肤中试验2组和试验3组极显著低于对照组 $( P { < } 0 . 0 1 )$ ;在臀部皮肤中试验1组极显著高于对照组 $( P { < } 0 . 0 1 )$ ，试验3组极显著低于对照组 $( P { < } 0 . 0 1 \dot { ] }$ )。3月龄獭兔HSL阳性表达细胞的平均灰度值，在背中部与腹部皮肤中各试验组均极显著高于对照组 $( P { < } 0 . 0 1 )$ ；在臀部皮肤中各试验组均极显著低于对照组 $\scriptstyle ( P < 0 . 0 1 )$ )。4月龄獭兔HSL阳性表达细胞的平均灰度值，在背中部皮肤中各试验组均极显著高于对照组 $( P { < } 0 . 0 1 )$ ;在腹部皮肤中试验2组和试验3组均极显著高于对照组 $( P { < } 0 . 0 1 )$ ，试验1组则极显著低于对照组( $\scriptstyle \overbrace { P } < 0 . 0 1 { \\} ,$ ；在臀部皮肤中试验2组极显著高于对照组 $( P { < } 0 . 0 1 )$ ，试验3组极显著低于对照组 $( P { < } 0 . 0 1 )$ 。
+
+# 表3皮肤毛囊组织中HSL阳性表达细胞的平均灰度值
+
+Table 3Average gray value of HSL positive cells in the hair follicle   
+
+<html><body><table><tr><td>月龄 Months</td><td>部位 Part</td><td>对照组 Control group</td><td>试验1组 Experimental group 1</td><td>试验2组 Experimental group 2</td><td>试验3组 Experimental group 3</td></tr><tr><td>2月龄</td><td>背中</td><td>143.09±1.35Cc</td><td>156.76±2.12Aa</td><td>153.88±2.27Bb</td><td>126.15±3.05Dd</td></tr><tr><td>2-month-old</td><td>部</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>腹部 臀部</td><td>150.23±2.27Aa 148.67±2.31Bb</td><td>147.80±1.73ABb 162.58±1.43Aa</td><td>113.65±1.81Cd 149.57±2.74Bb</td><td>121.54±2.62Bc 135.78±2.37Cc</td></tr><tr><td>3月龄</td><td>背中</td><td></td><td></td><td></td><td></td></tr><tr><td>Three months</td><td>部</td><td>157.63±1.40Dd</td><td>161.58±2.44Cc</td><td>176.96±2.07Bb</td><td>166.95±1.42Aa</td></tr><tr><td>age</td><td>腹部</td><td>120.70±1.88Cc</td><td>143.74±1.82Bb</td><td>143.05±2.15Bb</td><td>160.82±2.09Aa</td></tr><tr><td>4月龄</td><td>臀部</td><td>172.41±2.69Aa</td><td>166.48±4.88Bb</td><td>147.62±1.46Cc</td><td>145.09±1.81Cc</td></tr><tr><td>Four months</td><td>背中</td><td>154.72±1.33Dd</td><td>165.34±1.91Cc</td><td>185.57±1.57Aa</td><td>178.46±1.63Bb</td></tr><tr><td>age</td><td>部</td><td>140.51±2.11Cc</td><td>123.95±2.50Dd</td><td>160.62±4.99Aa</td><td>146.09±2.79Bb</td></tr><tr><td></td><td>腹部 臀部</td><td>167.53±2.65Bb</td><td>166.03±3.43Bb</td><td>177.68±2.34Aa</td><td>119.84±2.43Cc</td></tr></table></body></html>
+
+2.3 不同部位皮肤组织中 $\beta$ -catenin和HSL的Westernblotting检测结果
+
+Western blotting 检测结果显示，獭兔皮肤总蛋白中存在分别与鼠抗人 $\beta$ catenin 和 HSL的抗体发生免疫阳性反应的蛋白质条带，蛋白质的大小分别为92、 $1 2 0 \mathrm { k u }$ ，如图3所示。
+
+${ \mathfrak { \beta } } \qquad $ 连环蛋白$\beta$ -catenin
+
+![](images/6350c87fd9ce71461c087d6e0d7e606a914edc98961c7ecf48111f4997e8bc96.jpg)  
+图3 $\beta$ -catenin和HSLWestern blotting 检测结果
+
+1、2、3、4泳道分别为对照组、试验1组、试验2组、试验3组4月龄獭兔腹部皮肤; 5、6、7、8泳道分别为对照组、试验1组、试验2组、试验3组4月龄獭兔背中部皮肤。 Lanes 1,2,3 and 4 showed the skin of abdomen from 4-month-old Rex rabbits in the control group,experimental group 1, experimental group 2 and experimental group 3, respectively; lanes 5,6,7 and 8 showed the skin of dorsocentral region from 4-month-old Rex rabbits in the control group, experimental group 1, experimental group 2 and experimental group 3, respectively.
+
+Fig.3The results of $\beta$ -catenin and HSL detected by Western blotting
+
+3讨论
+
+毛囊是产毛动物皮肤的重要组成部分，具有独特的复杂结构和生长的周期性。不同动物、不同部位的毛囊生长周期虽有一定的差异性，但是它们的基本结构是相同的，由内到外依次为毛干、内根鞘、外根鞘、结缔组织鞘[12]。毛囊是表皮与真皮之间经过一系列复杂的相互作用的产物，受多种信号分子的调节，伴随毛发周期毛囊有多达6000种基因的表达发生改变。本试验通过在饲粮中添加不同水平的肌醇，研究各组獭兔毛囊中 $\beta$ -catenin 和HSL的表込左开，不词根中肌酹小丨对七表及月可匕影啊制。
+
+3.1不同水平肌醇对不同月龄獭兔皮肤毛囊中 $\beta$ catenin表达的影响  
+毛囊的发育过程受到多种信号分子的调节，其中 $\mathrm { { W n t / \beta } }$ -catenin 信号途径是最关键的途径，而 $\beta$ -catenin是Wnt信号途径中最重要的信号分子，它诱导毛囊的形态发生，维持毛囊生长、发育及毛囊干细胞的分化。  
+本研究结果显示 $\beta$ -catenin 在毛囊内根鞘、外根鞘以及毛乳头中均有表达，与于秀菊等[13]对羊驼皮肤的研究结果一致，可见 $\beta$ -catenin 是毛囊发育过程中不可缺少的分子。饲粮中肌醇水平不高于 $5 0 \ \mathrm { m g / k g }$ 时，3\~4月龄獭兔背中部皮肤毛囊中 $\beta$ -catenin阳性表达细胞的平均灰度值随着肌醇水平的增加而增加，结合前期研究结果，饲粮中肌醇水平为 $5 0 \ \mathrm { m g / k g }$ 时，次级毛囊密度会随着肌醇水平的增加而变大[14]，可以得出肌醇水平对毛囊中 $\beta$ catenin 和次级毛囊密度的影响基本是相一致的，推断饲粮中的肌醇可能通过影响毛囊中 $\beta$ catenin的表达从而影响次级毛囊的周期性发育，这与王卓[15]的推测相一致。不同肌醇水平对各个部位皮肤中 $\beta$ -catenin 表达的影响有一定差异，其中背中部的变化最大。在本试验中，饲粮中添加 $5 0 \mathrm { m g / k g }$ 肌醇后，对2\~3月龄獭兔3个部位皮肤中 $\beta$ -catenin 表达的影响没有规律性，但是4月龄时背中部、腹部和臀部毛囊中 $\beta$ -catenin的阳性表达细胞的平均灰度值均极显著增加，表明 $\beta$ -catenin 的表达上调。一般情况下4月龄獭兔正处于新老被毛替换和新被毛开始急剧生长期，推测 $\beta$ -catenin 表达量的增加能够促进毛囊干细胞的分化和毛囊的发育。3.2不同水平肌醇对不同月龄獭兔皮肤毛囊中HSL 表达的影响  
+本试验结果显示HSL主要表达于毛根鞘细胞。饲粮中不同水平肌醇对各个部位皮肤中HSL 表达的影响程度不同，对背中部毛囊的影响最为明显。3\~4月龄獭兔背中部皮肤毛囊中HSL 阳性表达细胞的平均灰度值随着肌醇水平的增加而增加，对腹部和臀部毛囊中HSL 的表达的影响没有规律性。饲粮中肌醇水平为 $5 0 \mathrm { m g / k g }$ 时，4月龄獭兔背中部、腹部和臀部毛囊中的 HSL 阳性表达细胞的平均灰度值均极显著增加。这可能是因为处于刚开始被毛急剧
+
+生长期的4月龄獭兔需要较多的能量供给，而毛囊中HSL表达量的增加，可通过促进脂肪降解为毛囊的生长发育提供充足的能量保证。结合前期研究结果，饲粮中肌醇水平不高于$5 0 \mathrm { m g / k g }$ 时，次级毛囊密度会随着肌醇水平的增加而变大[14],推测肌醇通过提高毛囊中 HSL的表达来促进毛囊细胞脂肪的降解过程，从而为毛囊的生长发育提供能量。
+
+4结论  
+肌醇能够通过上调4月龄獭兔毛囊中 $\beta$ -catenin 和HSL的表达来促进毛囊的发育，在本试验中，饲粮肌醇水平达到 $5 0 \mathrm { m g / k g }$ 时效果最佳。  
+参考文献：  
+[1] 南韦肖,娄玉杰,司华哲.肌醇在动物生产中的应用[J].中国饲料,2014(19):7-8.  
+[2] TOTH J T,GULYAS G,TOTH D J,et al.BRET-monitoring of the dynamic changes of inositollipid pools in living cells reveals a PKC-dependent PtdIns $4 P$ increase upon EGF and M3 receptoractivation[J].BiochimicaetBiophysicaActa :MolecularandCellBiologyofLipids,2016,1861(3):177-187.  
+[3] JIANG W D,HU K,LIU Y,et al.Dietary myo-inositol modulates immunity through antioxidantactivity and the Nrf2 and E2F4/cyclin signalling factors in the head kidney and spleen followinginfection of juvenile fish with Aeromonas hydrophila[J].Fish & Shellfish  
+Immunology,2016,49:374-386.  
+[4]杨杰,杨奇慧,谭北平,等.水生动物肌醇营养研究进展[J].动物营养学报,2015,17(3):715-721.  
+[5] 张艳秋,李志伟,张宝彤,等.肌醇的性质及其在水产养殖中的应用[J].饲料工业,2007,28(14):28-30.  
+[6] 崔凯,任立坤 $\beta$ -catenin 对绒山羊毛囊发育的影响[J].中国草食动物科学,2012(增刊):81-83.[7] 谷博,孙丽敏,姜怀志 $. { \boldsymbol { \beta } } .$ -catenin 基因在辽宁绒山羊皮肤毛囊中表达的研究[J].经济动物学
+
+报,2012,16(3):144-147.
+
+[8]张艺,施春英,杨恬 $\beta$ -catenin在毛囊干细胞中转位表达与细胞增殖的关系[J].西北国防医学杂志,2008,29(3):180-182.
+
+[9] DONATI G,PROSERPIO V,LICHTENBERGER B M,et al.Epidermal $\mathrm { W n t / \beta }$ catenin signaling regulates adipocyte differentiation via secretion of adipogenic factors[J].Proceedings of the National Academy of Sciences of the United States of America,2014,111(15):E1501-E1509.
+
+[10] 穆国柱,李福昌,王雪鹏,等.饲粮豆油添加水平对断奶至3月龄獭兔生长性能、营养物质 消化代谢、血清生化指标及皮毛质量的影响[J].动物营养学报,2013,25(6):1375-1382.
+
+[11]罗建学,兰玉倩,杨桂秀,等.激素敏感脂酶基因研究进展[J].生物技术世界,2015(3):189-190.
+
+[12]王卓,李光玉,杨雅涵,等.初生水貂皮肤毛囊发育组织学观察[J].中国畜牧兽医,2014,41(8):201-205.
+
+[13] 于秀菊,董常生,范阔海,等.β-catenin 在不同毛色羊驼皮肤中的表达和定位[J].畜牧兽医学报，2010,41(3):335-340.
+
+[14] 李敏,崔亚利,陈宝江,等.饲粮中添加肌醇对生长獭兔毛囊密度的影响[J].饲料工业,2016(19):54-58.
+
+[15]王卓.幼龄水貂毛囊发育及皮肤中 $\beta$ -catenin 和BMP2表达规律的研究[D].硕士学位论文.北京：中国农业科学院,2014.
+
+Effects of Different Inositol Levels on $\beta$ -Catenin and Hormone-Sensitive Triglayceride Lipase (1. College of Veterinary Medicine,Agricultural University of Hebei, Baoding O71OO1, China; 2. Collge of Animal Science and Technology,Agricultural University of Hebei,Baoding O71001, China)
+
+Abstract: The aim of the present study was to investigate the effects of different inositol levels in diets on the expression of $\beta$ -catenin and hormone-sensitive triglayceride lipase （HSL） in skin of Rex rabbits.A total of 120 (4O±1)-day-old Rex rabbits (half male and half female) were randomly divided into 4 groups and with 3O rabbits per group. Rex rabbits in 4 groups were fed diets with different levels of inositol (0, 25,50 and $7 5 ~ \mathrm { m g / k g }$ , respectively),and the experiment lasted for 3 months. The skin of abdomen, dorsocentral region, hip were collected on days 3O (2 months old), 60 (3 months old), 90 (4 months old),respectively,and the protein expression and location of $\beta$ -catenin and HSL were studied by immunohistochemistry and Western blot methods.The results showed that the $\beta$ catenin was widely expressed in hair follicle,and the hair root sheath cells and hair papilla all had brown positive reaction cells. HSL was showed a very obvious dark brown strong positive expression in hair root sheath cells,especially in inner root sheath cels. The addition of $5 0 \ \mathrm { m g / k g }$ inositol could extremely significantly increase the mean gray value of $\beta$ -catenin and HSL positive cells in the hair folicles of the dorsocentral region skin of 2- to 4-month-old Rex rabbits $( P { < } 0 . 0 1 )$ ，extremely significantly increase the mean gray value of （20 $\beta$ catenin and HSL positive cels in the hair follicles of the dorsocentral region, abdomen and hip skin of 4-month-old Rex rabbits $( P { < } 0 . 0 1 )$ .The results suggest that inositol can promote the growth of hair follicle by increasing the expresstion of $\beta$ -catenin and HSL of 4-month-old Rex rabbits,and the effect is the best when dietary inositol level is $5 0 \mathrm { m g / k g }$ in this experiment.
+
+248 Key words: inositol; Rex rabbits; hair follicle; $\beta$ -catenin; HSL   
+249   
+250

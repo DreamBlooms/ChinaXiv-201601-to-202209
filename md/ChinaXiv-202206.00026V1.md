@@ -1,0 +1,153 @@
+# 陕西省冰雹气候变化特征及其关键影响因素分析
+
+马荣君1²，李潇斐1,23，毛彦霖4，薛宇桐¹，吴战昊3(1.西北大学城市与环境学院,陕西 西安710127；2.陕西省地表系统与环境承载力重点实验室，陕西 西安710127；3.西北大学西安气象科技研究院,陕西 西安710127;4.西北大学信息科学与技术学院，陕西 西安710127)
+
+摘要：基于2000—2019年99个地面观测站记录的冰雹数据及ECMWF提供的ERA5各项参数月平均数据，结合线性回归、5a滑动平均等方法，分析了陕西省冰雹变化特征及关键影响因素。结果表明：(1）陕西省冰雹次数在地理位置上呈现由南到北增加的特征,海拔高度与年平均冰雹次数在低海拔表现出显著的正相关关系。（2）陕西省冰雹受季节影响程度呈现由南到北增强的特征,其中陕北、关中冰雹次数夏多冬少,陕南冰雹次数各季节相对平均。（3）陕西省年际冰雹次数整体呈下降趋势，其中陕北地区下降速度最快，关中地区其次，而陕南地区年际变化无明显变化趋势。（4）对流有效位能(CAPE)对陕西省冰雹年际趋势起主导作用； $K$ 指数对陕北夏季、关中春季冰雹次数变化趋势起主导作用； $0 \mathrm { { ^ { c } } }$ 层高度对关中夏、秋季与陕南春、夏季冰雹次数变化趋势起主导作用。
+
+关键词：冰雹；年际变化；CAPE；冰雹次数；陕西
+
+冰雹天气是强对流天气引起的极端天气之一，具有影响范围小、持续时间短的特点，但发展速度快、危害性大，对人民的生命财产安全带来极大地威胁。
+
+冰雹研究工作的重点不仅集中在短时天气预报及其形成物理机制i-5，也集中在冰雹气候特征的研究[6-17]。国内外很多地区对冰雹气候特征都进行过系统的研究，金哲等利用朝鲜1981一2010年共95个地面观测站的冰雹观测数据，分析了朝鲜冰雹的气候特征，并对极个别台站的年平均冰雹日数呈明显上升趋势的现象进行分析，讨论了 $0 \mathrm { { ^ { \circ } C } }$ 层高度、对流有效位能(CAPE)和垂直风切变(VWS)与年冰雹日的关系；Kunz等7研究发现德国西南部地区的冰雹日数在1974—2003年存在明显的上升趋势。对于中国范围内的冰雹气候特征分析，Xie等8-研究表明，20世纪80年代以来，中国整体冰雹日数呈显著下降趋势。且对其关键影响因素进行了分析，发现较高的CAPE与VWS值是冰雹产生的必要条件， $0 \%$ 层高度影响着冰雹的形成与生长。除此之外，云体高度、温度、水分累积区的含水量等参数均影响冰雹的产生[18-20]。Zou等[10]研究发现,青藏高原冰雹日数在1980年来显著减少;Li等[研究发现，20世纪90年代以来，中国北部与西北部冰雹频率明显降低。刘晓梅等[15]利用1951—2008年辽宁省56个气象站等资料，对冰雹气候的时空分布特征进行分析；虎雅琼等[6利用1981—2017年北京地区1010个冰雹灾情信息进行统计，研究了北京地区的冰雹气候特征。
+
+陕西省属于我国的多雹地区之一，全省共有87个县(市、区)常遭受不同程度的雹灾，平均3\~4a中就有1a为重雹年，其中1995—2000年5—6月共出现冰雹48次[21]。自2003以来，陕西省白水县冰雹灾害呈逐年增多态势，每年均在5次以上，农业受灾面积在 $1 3 3 3 3 \mathrm { ~ h m } ^ { 2 }$ 以上，直接经济损失平均每年在$1 . 7 { \times } 1 0 ^ { 8 }$ 元以上[22]。2005年，陕北南部、关中西部、陕南地区发生的冰雹天气最为严重，据不完全统计，全省共有 $5 . 1 \times 1 0 ^ { 4 } ~ \mathrm { h m } ^ { 2 }$ 农田受灾，直接经济损失达$1 . 7 8 \times 1 0 ^ { 8 }$ 元[23]。姚静等[17]选取2007—2014年陕西省98个气象站降水和冰雹观测资料，采用了统计方法分析陕西省冰雹等强对流天气的气候特征，发现近年来陕西省冰雹具有夏多冬少、北多南少的特征。但由于研究范围为所有强对流天气，对冰雹的气候特征分析比较宽泛。
+
+基于此，本文选择2000—2019年陕西省冰雹观测数据，对陕西省各地区冰雹时空分布特征进行分析，分析内容主要包括地理分布、季节变化以及年际变化趋势，并对ERA5月平均数据中对流有效位能(CAPE)等8项大气物理参数对冰雹年际趋势的影响情况进行分析。
+
+# 1研究区概况与方法
+
+# 1.1 研究区概况
+
+陕西省 $\mathrm { 1 0 5 ^ { \circ } 2 9 ^ { \prime } } \mathrm { \sim } 1 1 1 ^ { \circ } 1 5 ^ { \prime } \mathrm { E } , 3 1 ^ { \circ } 4 2 ^ { \prime } \mathrm { \sim } 3 9 ^ { \circ } 3 5 ^ { \prime } \mathrm { N } \ ,$ 位于中国内陆腹地，黄河中游，地势南北高，中间低，以北山和秦岭两座山脉为分界，将陕西分为3大自然区——北部为黄土高原区(陕北）、中部为关中平原区(关中）、南部为秦巴山区(陕南)图1)。陕西省自南向北横跨北亚热带、暖温带、中温带3个气候带，属于大陆季风性气候，由于南北跨度大，导致境内南北气候具有较大差异。陕北、关中属于温带气候区，四季分明;陕南则属于亚热带湿润气候区。受地形和季风影响，陕北地区各季节气温变化明显，时常产生冷暖气流交汇，是冰雹等强对流天气频繁发生的区域。
+
+# 1.2数据来源
+
+本文使用陕西省气象局气候中心2000—2019年地面观测站的冰雹观测数据进行陕西省冰雹的时空特征分析。为保证数据的有效性，选择研究区域和研究时段无缺少省略的观测数据，最后选择使用99个台站2000—2019年共20a的冰雹天气观测记录(图1)。记录包含台站编号、台站名、冰雹时间（精确到日)以及1d内发生的冰雹次数。记1个台站每年记录的冰雹次数的平均值为该台站的年平均冰雹次数(ANH)，每个对应季节所记录的冰雹次数的平均值为该台站在该季节的平均冰雹次数，1个地区内所有台站在规定时间段内观测到的冰雹次数的总和成为该地区在这段时间内的冰雹总次数。使用ECWMF提供的ERA5月平均数据中大气物理参数与冰雹年际趋势进行分析。
+
+# 1.3研究方法
+
+根据数据中各观测站所在城市的行政区划，对观测站分为陕北（延安市、榆林市）、关中（西安市、宝鸡市、咸阳市、铜川市、渭南市）陕南(汉中市、安康市、商洛市)3个地区。逐一分析每个地区冰雹气候特征，在分析海拔高度与年平均冰雹次数的关系时，为了清晰得出其相关关系以及相关程度，对各站点冰雹观测数据进行线性回归及显著性检验；在大气物理参数与冰雹次数相关性分析过程中，选取对流有效位能(CAPE) $. K$ 指数、 $2 \mathrm { m }$ 温度 $\cdot 2 \mathrm { m }$ 露点、$0 \mathrm { { ^ { \circ } C } }$ 层高度、对流降水量、总降水量、云底高度8项参数与冰雹次数进行线性回归及显著性检验。在年际变化分析、大气物理参数与冰雹次数相关性分析过程中为降低数据波动带来的影响，使用了5a滑动平均法处理数据，使得冰雹次数变化趋势及各项参数与冰雹次数相关性得以体现，
+
+![](images/68f482836c88461b2613aa62524dae3d0ccc5b7b63741338fda74af31f53e7ac.jpg)  
+图1陕西省气象站点分布  
+Fig.1 Distribution of meteorological stations in Shaanxi Province
+
+# 2结果与分析
+
+# 2.1 空间分析
+
+从近20a陕西省冰雹次数空间分布来看（图
+
+2)，陕北地区年平均冰雹次数普遍高于关中地区及陕南地区，在陕北部分地区，年平均冰雹次数达到1次以上，而关中和陕南地区年均冰雹次数大多低于0.6次，由此可见，陕西省的冰雹次数呈现出北高南低的分布特征。
+
+![](images/d438df690ec3e90e9f25807eae92663c96a51276d29f91086c3a2a4280da8951.jpg)
+
+为探究年平均冰雹次数与海拔高度的相关关系，本文构建了各台站海拔高度与年平均冰雹次数关系图并进行线性拟合(图3)，由图3可知：(1）海拔高度 $1 . 5 \mathrm { k m }$ 内，台站海拔高度与年平均冰雹次数的决定系数为0.4183，说明因变量年平均冰雹次数与自变量海拔高度具有较好的线性相关关系。在$9 5 \%$ 的置信水平下，线性回归方程是显著的。（2）通过回归系数和回归方程可知在不考虑其他对冰雹次数可能的影响因素下，海拔高度 $1 . 5 \ \mathrm { k m }$ 内，海拔高度每增加 $1 \mathrm { m }$ ，年平均冰雹次数增加0.0007次。
+
+在地势高、地形复杂的山区，1次冷空气过后，山谷残留冷空气形成高压区，山脊在阳光下快速升温形成低压区，因此容易产生对流，进而产生冰雹天气[24]。
+
+![](images/d28d9a64e748a390b551bff82adcab22212df1455292c10035333e1d599080d2.jpg)  
+图3各台站海拔高度及其年平均冰雹次数的拟合 Fig.3Fitting diagram of altitude of each station and its annual average number of hail
+
+# 2.2 季节变化
+
+陕西省冰雹次数的分布具有明显的季节特征，夏季冰雹次数占全年比例最大，达到 $5 8 . 5 9 \%$ ,春季冰雹次数次之，秋季冰雹次数占全年比例较小，冬季只在陕南有冰雹发生(图4)。陕北地区冰雹次数随着季节的变化波动较大，其中夏季冰雹次数是全年之最，关中地区受季节因素影响较为明显，夏季冰雹次数同样为全年最高，但与春季相差不大，陕南地区全年冰雹次数较为均衡，受季节因素影响不大。
+
+![](images/77e5fede20b28fdf6d5466eee14367651090f71e703d2c206db183622d747f4b.jpg)  
+图22000—2019年陕西省各台站年平均冰雹次数的空间分布  
+Fig.2 Spatial distribution of the average annual number of hail (ANH) in Shaanxi Province   
+图4各季节各地区冰雹总次数  
+Fig.4Total number of hail by season by region
+
+为分析陕西省各地区冰雹次数随季节变化的趋势特征，利用数据制作出春季、夏季、秋季、冬季的平均冰雹次数分布图。由图5可知，春季的高值区位于陕北南部以及关中西北部地区；夏季陕北地区各地冰雹次数比春季均有明显的上升，关中以及陕南地区冰雹次数无明显变化；秋季陕北地区各地冰雹次数均比夏季有明显的不同程度的下降，而关中和陕南地区冰雹次数无明显变化；冬季仅陕南仍
+
+![](images/2ac4aea459a6c1775d035b513f199d454b7a6adbac1ebf5945bc4e0a7ebaec72.jpg)  
+图5各台站各季节平均冰雹次数分布  
+Fig.5Distribution of average hail frequency of each station in each season
+
+有少量冰雹。
+
+# 2.3年际变化
+
+为探究陕西省冰雹气候特征规律，利用陕西省99个观测站所记录的近20a数据，统计出每年各地区冰雹次数，进而对陕西省冰雹的年际分布特征进行分析(图6)，虽然全省冰雹次数年际波动较大，但是通过滑动平均以及拟合曲线，并在 $9 5 \%$ 的置信水平下进行显著性检验发现，陕西省年冰雹总数整体呈现逐渐下降的变化趋势，变化趋势显著，下降的速率平均值为1.045次 $\cdot \mathrm { a } ^ { - 1 }$ 。分区来看，陕北地区冰雹次数随时间变化下降幅度较大，变化趋势显著，下降的速率平均值为0.625次 $\cdot \mathrm { { a } } ^ { - 1 }$ ,关中地区下降幅度相对较小，变化趋势显著，下降的速率平均值为0.371次· $\mathbf { a } ^ { - 1 }$ 。陕南地区冰雹次数保持稳定，变化趋势不显著。
+
+# 2.4大气物理参数与冰雹次数时间序列分析
+
+通过近20aERA5月平均数据（ $( 0 . 5 ^ { \circ } { \times } 0 . 5 ^ { \circ } ,$ ，选取对流有效位能（CAPE) $. K$ 指数 $\cdot 2 \mathrm { ~ m ~ }$ 温度(即距地面
+
+$2 \mathrm { m }$ 处气块温度） $\cdot 2 \mathrm { m }$ 露点(即距地面 $2 \mathrm { m }$ 处气块露点温度） $0 \%$ 层高度、对流降水量、总降水量、云底高度8项指标，5a滑动平均后与冰雹次数进行拟合得到其相关系数。如表1所示，其中CAPE $\mathbf { \Omega } , K$ 指数、对流降水量、总降水量与冰雹次数相关性表现为正相关， $0 \%$ 层高度、云底高度与冰雹次数相关性表现为负相关，地表温度、露点温度与冰雹次数随地域、季节不同体现不同的相关性。
+
+由表1可知,CAPE与全省春、夏、秋季冰雹次数拟合均通过了0.01水平的显著性检验，拟合效果较好。CAPE代表了地表边界层空气具有的能量，其长期变化对应大气不稳定性的变化,进而影响冰雹的长期趋势。但对于陕北秋季、关中与陕南春、夏、秋季，CAPE与冰雹次数的相关系数均没有通过0.01水平的显著性检验，这说明对于冰雹年际变化的影响机制不仅局限于CAPE,分析机制时仍需要考虑其他因素，这与前人的研究所得结论一致[68]。陕北春、夏、秋季拟合效果较好的参数分别为CAPE $\mathbf { \nabla } \cdot K$ 指数、总降水，分别为 $0 . 6 9 1 , 0 . 8 6 2 , 0 . 5 7 4 ; 2 \mathrm { ~ m ~ }$ 露点、对流降水与春、夏、秋季冰雹次数拟合效果均未通过显著性检验；说明陕北春、夏季冰雹年际变化主要受不稳定能量的影响，而秋季主要受降水量的年际变化影响。关中春季 $K$ 指数拟合效果较好为0.712,夏、秋季 $0 \%$ 层高度拟合效果较好，分别为-0.722，$- 0 . 6 5 2 , 2 \textrm { m }$ 温度与春、夏、秋季拟合效果均未通过显著性检验;说明关中春季冰雹的年际变化受不稳定层结的年际变化主导，而夏秋季主要由冻结高度主导。陕南春、夏季 $0 \mathrm { { ^ { \circ } C } }$ 层高度拟合效果较好，分别为 $- 0 . 4 4 0 \hphantom { 0 } . - 0 . 6 8 2$ ，秋季对流降水拟合效果较好为$0 . 6 5 4 , 2 \mathrm { m }$ 露点与春、夏、秋季拟合效果均未通过显著性检验;说明其春夏季冰雹年际变化主要由冻结高度主导，秋季主要受对流降水量的年际变化影响。综上所述，除CAPE外， $K$ 指数对陕北夏季、关中春季； $0 \%$ 层高度对关中夏、秋季与陕南春、夏季冰雹次数变化趋势有主导作用。
+
+# 3结论
+
+本文利用陕西省气象局气候中心提供的99个地面观测站2000—2019年的观测数据与ECMWF提供的ERA5月平均数据，统计分析了陕西省内冰雹的气候特征，得到了以下结论：
+
+(1)陕西省的冰雹主要分布在陕北地区，关中
+
+--冰雹次数—5a滑动平均 线性(5a滑动平均)  
+90 (a)全省 40 1 (b)陕北  
+870 <二 35 六  
+6050 y= -1.00.5346.76 302520 -0.625x+25.225  
+4030 15  
+20 10  
+10 50 0421 2 0 132年份 年份  
+35 (c)关中 30 (d)陕南  
+30 E 25  
+2520 y= -0.371.8x+14.754 深发 2015 y= -0.04820x+6.7815  
+1510  
+105 5 1/0 0STO 910 0 0 0 910 0 8 0 60101年份 年份
+
+表1近20a冰雹次数与各项大气物理参数的相关关系  
+Tab.1 Correlation between the number of hailstorms and various environmental parameters in the last 2o years   
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="3">全省</td><td colspan="3">陕北</td><td colspan="3">关中</td><td colspan="3">陕南</td></tr><tr><td>春</td><td>夏</td><td>秋</td><td>春</td><td>夏</td><td>秋</td><td>春</td><td>夏</td><td>秋</td><td>春</td><td>夏</td><td>秋</td></tr><tr><td>CAPE</td><td>0.865**</td><td>0.644**</td><td>0.642**</td><td>0.691**</td><td>0.742**</td><td>0.009</td><td>0.414</td><td>0.517*</td><td>0.329</td><td>0.424</td><td>0.312</td><td>0.572*</td></tr><tr><td>K指数</td><td>0.267</td><td>0.762**</td><td>0.319</td><td>-0.026</td><td>0.862**</td><td>0.449</td><td>0.712**</td><td>0.607**</td><td>-0.577°</td><td>0.272</td><td>0.361</td><td>0.513*</td></tr><tr><td>2m温度</td><td>0.541*</td><td>0.116</td><td>-0.774**</td><td>0.611**</td><td>0.467</td><td>-0.482*</td><td>0.009</td><td>-0.060</td><td>-0.157</td><td>-0.341</td><td>-0.581*</td><td>-0.406</td></tr><tr><td>0℃层</td><td>-0.410</td><td>-0.724**</td><td>-0.436</td><td>-0.286</td><td>-0.479*</td><td>-0.290</td><td>-0.533*</td><td>-0.722**</td><td>-0.652**</td><td>-0.440</td><td>-0.682**</td><td>-0.149</td></tr><tr><td>2m露点</td><td>-0.213</td><td>0.225</td><td>0.297</td><td>-0.354</td><td>0.419</td><td>0.264</td><td>0.498*</td><td>-0.170</td><td>-0.563°</td><td>0.258</td><td>0.106</td><td>0.389</td></tr><tr><td>对流降水</td><td>0.173</td><td>0.137</td><td>0.214</td><td>0.437</td><td>-0.282</td><td>0.111</td><td>0.704**</td><td>0.513*</td><td>0.175</td><td>0.014</td><td>0.487*</td><td>0.654**</td></tr><tr><td>总降水</td><td>-0.154</td><td>-0.208</td><td>0.638**</td><td>0.122</td><td>-0.375</td><td>0.574*</td><td>0.542*</td><td>0.066</td><td>-0.225</td><td>0.087</td><td>0.284</td><td>0.484*</td></tr><tr><td>云底高度</td><td>0.185</td><td>-0.477*</td><td>-0.424</td><td>0.285</td><td>-0.659**</td><td>-0.410</td><td>-0.377</td><td>-0.424</td><td>0.548°</td><td>-0.241</td><td>-0.534*</td><td>-0.051</td></tr></table></body></html>
+
+注：\*\*、\*表示相关系数通过0.01、0.05水平的显著性检验。
+
+次之，陕南最少；海拔高度与冰雹次数表现出显著的正相关关系。
+
+(2）陕西省各地区冰雹次数具有明显的季节变化特征，在陕北和关中地区，冰雹次数在夏季最多，春秋次之，冬季几乎为零；在陕南地区，冰雹主要集中在春季和夏季，冬季次之，秋季冰雹最少。
+
+(3）陕西省冰雹次数随年际变化具有显著的下降趋势，其中陕北地区下降幅度最大且变化趋势显著，关中地区其次且变化趋势显著，陕南地区冰雹次数相对稳定，且变化趋势不显著。
+
+(4)CAPE $\mathbf { \nabla } \cdot K$ 指数 $\cdot 2 \mathrm { m }$ 温度 $\cdot 2 \mathrm { m }$ 露点 $\mathbf { \nabla } _ { \cdot } 0 \mathbf { \nabla } \mathrm { \mathcal { C } }$ 层高度、对流降水量、总降水量、云底高度对陕西省部分地区季节冰雹次数有影响。不同区域季节的主导因素不同，其中CAPE对冰雹次数起主导作用 $. K$ 指数 $, 0 \mathrm { { ^ { \circ } C } }$ 层高度对冰雹次数也有较好的拟合效果。
+
+# 参考文献(References)：
+
+[1]李晓霞,李常德,马国涛,等.一次冰雹天气过程的潜势条件和中尺度特征分析[J].沙漠与绿洲气象,2020,14(4):69-77.[LiXiaoxia,Li Changde,Ma Guotao,etal.Analysis of latent condi-
+
+tions and mesoscale characteristics of a hail weather process[J]. Desert and Oasis Meteorology,2020,14(4): 69-77.]   
+[2]刘漩.一次持续性强对流天气过程的成因分析[J].海峡科技与 产业,2017(3): 71-72.[Liu Xuan.Analysis of the causes of a persistent strong convective weather processJ]. Strait Science and Industry,2017(3): 71-72.]   
+[3]吴剑坤.我国强冰雹发生的环境条件和雷达回波特征的初步分 析[D].北京:中国气象科学研究院,2010.[WuJiankun.Preliminary Analysis of Environmental Conditions and Radar Echo Characteristics of Strong Hail Occurrence in China[D].Beijing: Chinese Academy of Meteorological Sciences, 2010.]   
+[4]濮文耀,李红斌,宋煜,等. $0 \mathrm { { ^ { \circ } C } }$ 层高度的变化对冰雹融化影响 的分析和应用[J].气象,2015,41(8):980-985.[Pu Wenyao,Li Hongbin, Song Yu,et al.Analysis and application of changes in （204号 $0 \ \mathrm { { ^ q C } }$ layer height on hail melting[J]. Meteorology,2015,41(8): 980-985.]   
+[5]李静,郭晓宁,张青梅,等.祁连山南麓一次冰雹天气成因分析 [J].气象科技,2020,48(2): 284-291.[Li Jing,Guo Xiaoning, Zhang Qingmei,et al.Analysis of the causes of a hailstorm at the southern foot of Qilian Mountains[J].Meteorological Science and Technology, 2020,48(2): 284-291.]   
+[6]金哲,倪相.朝鲜冰雹的气候特征分析[J].北京大学学报(自然 科学版),2015,51(3):437-443.[Kim Chol,Ni Xiang.Climatology of hail in North Korea[J].Acta Scientiarum Naturalium Universitatis Pekinensis,2015,51(3): 437-443.]   
+[7]Kunz M, Sander J,Kottmeier C.Recent trends of thunderstorm and hailstorm frequency and their relation to atmospheric characteristics in Southwest Germany[J].International Journal of Cliatology,2009,29: 2283-2297.   
+[8]Xie Baoguo,Zhang Qinghong,Wang Yuqing.Trends in hail in China during 1960-2005[J]. Geophysical Research Letters,2008,35: L13801.   
+[9]Ni Xiang, Zhang Qinghong,Liu Chuntao,et al. Decreased hail size in China since 1980[J]. Scientific Reports,2017,7: 10913.   
+[10] Zou Tian, Zhang Qinghong,Li Wenhong.et al. Responses of hail and storm days to climate change in the Tibetan Plateau[J]. Geophysical Research Letters,2018,(45): 9.   
+[11]Li Mingxin, Zhang Qinghong,Zhang Fuqing.Hail day frequency trends and associated atmospheric circulation patterns over China during 1960-2012[J]. Journal of Climate,2016,29: 19.   
+[12]Li Xiaofei, Zhang Qinghong, Zou Tian, et al. Climatology of hail frequency and size in China,1980-2015[J]. Journal of Applied Meteorology and Climatology,2018,57(4): 875-887.   
+[13] 朱府鸿,赵海俊.近10年石屏县冰雹的气候特征及降雹预警指 标研究[J].云南地理环境研究,2021,33(1):11-18. [Zhu Fuhong, Zhao Haijun.Research on the climatic characteristics of hail and hailfall warning indicators in Shiping County in the past 1O years [J].Yunnan Geography and Environment Research,2O21,33(1): 11-18.]   
+[14]冯晓莉,马占良,管琴,等.1980—2018年青海高原冰雹分布特 征及其关键影响因素分析[J].气象,2021,47(6):717-726. [Feng Xiaoli,Ma Zhanliang,Guan Qin,et al.Hail distribution characteristics and its key influencing factors in Qinghai Plateau from 1980-2018[J]. Meteorology,2021,47(6): 717-726.]   
+[15] 刘晓梅,李晶,戴萍,等.1951—2008年辽宁冰雹的时空分布特 征[J].气象与环境学报,2009,25(5):24-26.[Liu Xiaomei,Li Jing,Dai Ping,et al.Spatial and temporal distribution characteristics of hail inLiaoning from 1951 to 2008[J]. Journal of Meteorology and Environment, 2009,25(5): 24-26.]   
+[16] 虎雅琼,边宇轩,黄梦宇,等.基于灾情信息的1981—2017年北 京地区降雹特征[J].应用气象学报,2019,30(6):710-721.[Hu Yaqiong,Bian Yuxuan,Huang Mengyu,et al.Hailfall characteristics of Beijing area based on disaster information from 1981-2017 [J].Journal of Applied Meteorology,2019,30(6): 710-721.]   
+[17] 姚静,屈丽玮,朱庆亮,等.陕西省强对流天气气候特征分析与 对流指标探讨[J].陕西气象,2017(3):29-35.[Yao Jing, Qu Liwei,Zhu Qingliang,et al.Analysis of climate characteristics of strong convective weather and exploration of convective indicators in Shaanxi Province[J]. Shaanxi Meteorology,2O17(3): 29-35.]   
+[18] 朱乾根,林锦瑞,寿绍文,等.天气学原理和方法[M].北京:气象 出版社,2000: 409-410.[Zhu Qiangen, Lin Jinrui, Shou Shaowen,et al.Principles and Methods of Weather Science[M].Beijing: Meteorological Press,2000: 409-410.]   
+[19]Dennis Lamb,Johannes Verlinde.Physics and Chemistry of Clouds [M]. New York: Cambridge University Press,2011: 472-474.   
+[20]Paul Markowski， Yvette Richardson. Mesoscale Meteorology in Midlatitudes[M]. Barcelona: Wiley-Blackwell Press,2010: 306.   
+[21] 许新田,宁志谦,唐伯波,等.陕西冰雹气候特点及环流特征分 析[J].陕西气象,2002(5): 4-6.[Xu Xintian,Ning Zhiqian,Tang Bobo,etal.Analysis of hail climate characteristics and circulation features inhaanxi[J].SanxiMeteorology,20(5): 46.]   
+[22] 吕薛锋,贠士力.初论陕西省白水县防雹减灾措施[J].杨凌职业 技术学院学报,2018,17(4): 25-26.[Lyu Xuefeng,Yun Shili.Preliminary discussion on hailstorm mitigation measures in Baishui County,Shaanxi Province[J]. Journal of Yangling Vocational and Technical College,2018,17(4): 25-26.]   
+[23]张健宏,张科翔,毕旭.2005年8月3日冰雹天气过程分析[C] 陕西省气象学会.陕西省气象学会2006年学术交流会论文集. 陕西：陕西省气象学会,2006.[Zhang Jianhong, Zhang Kexiang, Bi Xu.Analysis of the hail weather process on August 3,2005[C]// Shaanxi Meteorological Society.Proceedings of the 2OO6 AcademicExchange Meeting of the Shaanxi Meteorological Society. Shaanxi: Shaanxi Meteorological Society,2006.]   
+[24] 刘德祥,白虎志,董安祥.中国西北地区冰雹的气候特征及异常 研究[J].高原气象,2004,23(6): 795-803.[Liu Dexiang,Bai Huzhi,Dong Anxiang.Climate characteristics and anomalies of hail in Northwest China[J]. Highland Meteorology,2004,23(6): 795- 803.]
+
+# Characteristics and causes of climate change in hail in occurrence Shaanxi Province
+
+MA Rongjun1²， LI Xiaofei1,23， MAO Yanlin4， XUE Yutong'， WU Zhanhao² (1. College of Urban and Environmental Sciences,Northwest University,Xi'an 71Ol27,Shaanxi, China;   
+2.Shaanxi KeyLaboratoryof Earth Surface Systemand Environmental Carrying Capacity,Northwest University,   
+Xi'an 710127,Shaanxi,China； 3.Institute of Meteorological Science and Technology,Northwest University, Xi'an 710127,Shaanxi,China; 4.School of Information Science and Technology,Northwest University, Xi'an 710127, Shaanxi, China)
+
+Abstract: Numerous studies have shown that the number of hailstorms in Shaanxi Province (northern China) has bensignificantly decreasing from the late 199Os to the present,but studies on thecharacteristics of hailstorm changes within more specific provincial regions are lacking.To investigate the hail occurrence patterns in Shaanxi Province and to beter predict and prevent hail,this paper analyzes the characteristics ofhail variability in Shaanxi Province on the basis ofhail data recorded at 99 ground stations from 2000 to 2019 provided by the Meteorological Center of the Shaanxi Provincial Meteorological Bureau.For the analysis of diferent regions in the province,the stations were divided into three regions,namely northern Shaanxi (Yan'an and Yulin),central Guanzhou (Xi'an, Baoji, Xianyang, Tongchuan,and Weinan),and southern Shaanxi (Hanzhong, Ankang,and Shangluo）according to the administrative divisions of the cities where the stations are located.The climatic characteristics ofhail in each region were analyzed separately.We found that the number of hailstorms in Shaanxi Province increases from south to north; a linear fit of elevation to the mean annual hailstorm number revealed a significantly positive correlation between elevation and mean annual hailstorm number at low elevations,with each $1 \mathrm { ~ m ~ }$ increase in elevation within $1 . 5 \ \mathrm { k m }$ of elevation increasing the mean annual hailstorm number by 0.0007.Furthermore，hail occurrence in Shaanxi Province increases from south to north with seasonal differences; hailstorms in northern Shaanxi occur more frequently in the summer and less frequently in the winter. The region with the next-highest number of hailstorms is Guanzhong,and an average number of hailstorms occurs in southern Shaanxi.A 5year sliding average of the interannual hail counts was fitted linearly,and results show a decreasing trend in the overall interannual hail counts in Shaanxi Province,with the fastest decline in northern Shaanxi, followed by Guanzhong； there was no significant interannual variation in southern Shaanxi. Using monthly averages of ERA5 parameters provided by the ECMWF and considering the physical mechanisms of the hail process,eight indicators were selected and fited to the 5 year sliding average: (1） convective effective potential energy (CAPE); (2) the $K \cdot$ -index; (3) $2 \mathrm { m }$ temperature (i.e., air mass temperature $2 \mathrm { m }$ from the ground); (4) $2 \mathrm { m }$ dew point (i.e.，air mass dew point temperature $2 \mathrm { ~ m ~ }$ from the ground); (5) $0 \mathrm { { ~ ‰ ~ } }$ layer height; (6) convective precipitation; （7） total precipitation;and (8)cloud base height.A linear fit was made to the hail counts; results show that CAPE played a dominant role in the interannual trend of hail in Shaanxi Province,and the $K \cdot$ -index played a dominant role in the summer in northerm Shaanxi and in the spring in Guanzhong.Furthermore, the $0 \ \%$ layer height played a dominant role in the trend of hail counts during the summer and autumn in Guanzhong and during the spring and summer in southern Shaanxi.
+
+Keywords: hail; interannual variation; CAPE；number of hail; Shaanxi

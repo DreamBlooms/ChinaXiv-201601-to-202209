@@ -1,0 +1,175 @@
+# 氮添加对新疆野苹果幼苗枝叶大小的影响
+
+华兆晖¹²，陶冶¹，闫景明¹，周晓兵1，张静¹，张元明1(1.中国科学院新疆生态与地理研究所,荒漠与绿洲生态国家重点实验室,新疆 乌鲁木齐830011;2.石河子大学生命科学学院,新疆石河子832003；3.安庆师范大学生命科学学院/皖西南生物多样性研究与生态保护安徽省重点实验室，安徽 安庆246133)
+
+摘要：新疆野苹果(Malus sieversii)是全世界栽培苹果的祖先之一,也是我国重要的战略性植物种质资源,但目前其种群退化严重，对新疆野苹果进行保育需要了解其对氮添加的响应。对不同水平氮添加处理的新疆野苹果幼苗小枝的枝叶大小性状进行单因素方差分析以及异速生长分析,以探明新疆野苹果对氮添加处理的响应,为种群恢复提供理论基础。结果表明：(1）中氮处理对小枝茎的伸长有显著促进作用,且显著降低了野苹果叶面积比率以及叶茎质量比;高氮处理显著降低了野苹果的出叶强度。（2)氮添加对新疆野苹果枝叶之间的增速以及分配格局的影响不是体现在生物量上,而是体现在枝叶形态上,枝长-总叶面积和枝长-叶片数量性状对低中氮处理曲线的增速显著性增长。低、中氮处理组更偏向生长更多叶面积较小而轻的叶片,而高氮处理下的变化趋势不同于低、中氮处理。（3）适当添加氮肥可改善枝叶生长状况和枝叶功能性状相互关系,建议在开展野苹果幼苗原生境移植过程中，考虑生境之间的养分差异并进行针对性氮肥添加。
+
+关键词：新疆野苹果；氮添加；枝叶关系；异速生长关系；功能性状
+
+新疆野苹果(Malussieversii)分布于中国、哈萨克斯坦、吉尔吉斯斯坦以及塔吉克斯坦的中亚天山山脉地区，是天山野果林的主要建群种之一[1]。新疆野苹果具有原始的种质资源，遗传多样性高，是全世界栽培苹果的直系祖先[2]。伊犁河谷是极具代表性的新疆野苹果分布地之一，由于西风气流、地势以及逆温层现象的影响而具有特殊的海洋性气候，适宜落叶阔叶林生长，这也使得当地的新疆野苹果具有最高的遗传多样性[3]。但目前由于人类活动、病虫害以及气候变化等多重因素[4],新疆野苹果林大面积退化，分布面积锐减，个体大量枯死，已经造成了一些低频度基因资源丢失5，且新疆野苹果种群更新受阻，面临濒危与灭绝的危险。新疆野苹果已被列为中国优先保护物种名录和国家二级重点保护植物6，对其进行种群保育与复壮意义重大。
+
+当年生小枝是植物最易受环境影响的构件之一，也是反映植物与环境相互关系的性状之一[7]当年生小枝主要由枝叶构成，枝和叶是植物重要的营养器官，枝叶关系与植物的物质能量配比相联系，从而反映其对环境因子的响应与生态适应[8]Corner9最早开始关注枝叶关系,提出了经典的Cor-ner法则，至今仍然有学者通过Corner法则检验来揭示植物对不同因子的响应规律[10]。枝叶大小谱系在枝叶关系中占据重要地位，是植物生态变异的一个主导维度之一[]。学者们通常用异速生长方程$Y { = } \beta X ^ { \alpha }$ 来表征枝叶大小关系，如Yan等[12]学者从枝叶生物量的角度运用异速生长关系揭示了拟南芥(Arabidopsisthaliana)对氮磷添加的响应特征。李曼等[13]通过研究不同海拔梯度黄山松(Pinus hwang-shanensis)枝叶大小异速生长关系，发现了不同海拔高度的黄山松之间枝叶分配格局的差异，从而明确了黄山松在小枝水平上的适应策略。
+
+氮是生态系统中主要的限制因子之一，也是植物需求最高的营养元素。氮添加会对植物的气孔结构、氮含量、叶绿素含量、各种酶以及内源激素等产生影响,从而对植物的生长发育产生影响[14-15]。木本植物对氮添加的响应常表现出种间差异性，如氮添加会促进红砂(Reaumuria soongarica)幼苗叶片非结构性碳水化合物(NSC)的累积,而在大青(Clerodendrum cyrtophyllum)叶片中则呈现下调趋势[16-17]在某些研究中适当浓度的氮添加会促进植物的光合作用，而高浓度氮添加对植物的生长产生负效应，而有些研究没有产生高氮抑制现象[18-21]
+
+针对野苹果退化现状以及种群年龄结构不均衡问题，有学者提出了人工栽种幼苗是其种群恢复的重要途径[22];养分添加则是提高幼苗存活率的关键点之一。但在野果林中，不同生境间土壤氮含量存在显著差异[23]。这就加大了野苹果保育与复壮的难度，因此迫切需要了解新疆野苹果对氮添加响应的理论基础。以更好的实施针对性的保育措施。新疆野苹果幼苗在不同氮添加条件下枝叶性状与大小关系是否存在差异？枝叶之间异速生长关系有何变化规律？为此，本研究以新疆野苹果一年生实生苗为研究对象，在试验田中长期开展不同剂量的氮添加处理，测量并分析不同氮添加处理下新疆野苹果当年生小枝的枝叶功能性状，揭示其在不同氮添加处理下的枝叶大小、相互关系以及响应特征。研究结果可为新疆野苹果的种群保育与复壮提供理论支撑。
+
+# 1研究地区与研究方法
+
+# 1.1 研究区概况
+
+试验地点位于新疆维吾尔自治区伊犁哈萨克自治州新源县野果林改良场 $( 4 3 ^ { \circ } 2 5 ^ { \prime } 1 1 ^ { \prime \prime } \mathrm { N } , 8 3 ^ { \circ } 3 4 ^ { \prime } 1 7 ^ { \prime \prime } \mathrm { E } )$ ，海拔约 $1 0 0 0 \mathrm { m }$ 。年平均气温为 $7 { \sim } 9 ~ \mathrm { \% }$ ,平均最低气温为 $- 7 . 4 \mathrm { ~ \textdegree C }$ ,年平均无霜期 $1 6 9 \mathrm { ~ d ~ }$ ,年日照时间为$2 5 0 0 \mathrm { h }$ ,年降水量为 $2 6 0 { \sim } 5 0 0 ~ \mathrm { m m }$ 。
+
+# 1.2试验设计与方法
+
+样地采用田间试验，选择种源一致的新疆野苹果一年生实生苗为试验对象。参考周边果园的施氮量与施氮方式，共设定了4个水平处理组，即CK$( 0 ~ \mathrm { g ^ { \bullet } m ^ { - 2 } \bullet a ^ { - 1 } } ) \ 、 \mathrm { N 1 0 ( 1 0 ~ \mathrm { g ^ { \bullet } m ^ { - 2 } \bullet a ^ { - 1 } } ) } \ 、 \mathrm { N 2 0 ( 2 0 ~ \mathrm { g ^ { \bullet } m ^ { - 2 } \bullet a ^ { - 1 } } ) }$ 和${ \mathrm { N } } 4 0 ( 4 0 { \mathrm { ~ g } } \cdot { \mathrm { m } } ^ { - 2 } \cdot { \mathrm { a } } ^ { - 1 } )$ ,其中CK为对照处理组,N10为低氮处理组，N20为中氮处理组，N40为高氮处理组。每个处理组设有5个重复样方，每个样方中有4棵野苹果幼苗，即每个处理组有20棵幼苗。采用完全随机设计分布样方，每个样方长宽各 $1 . 5 \mathrm { ~ m ~ }$ ，各样方间设有间隔为 $1 \mathrm { m }$ 的隔离带，防止样方之间相互影响。在对角线方向上，距样方四角 $0 . 3 \mathrm { ~ m ~ }$ 定为植树点，距离 $0 . 6 \mathrm { ~ m ~ }$ 处定为施肥点，将新疆野苹果一年生实生苗栽种在各样方的植树点上，并进行1次修枝处理，以保证幼苗存活。氮肥以尿素 $\mathrm { C H _ { 4 } N _ { 2 } O ( }$ 含氮量为 $4 7 \%$ 形式添加，在施肥点将需要施加的氮肥量填埋进深约 $2 0 ~ \mathrm { c m }$ 的小坑中，并对施肥点进行浇水处理，利于幼苗深根系对养分的利用。2016年10月设置样地，于2017年4月移载新疆野苹果幼苗，之后每年春季与秋季进行2次施氮处理，连续处理4a,期间进行常规田间管理。
+
+# 1.3样本采集与测量
+
+2020年8月对新疆野苹果幼树的当年生小枝样品进行采集，统一选择高度为 $1 . 5 \mathrm { ~ m ~ }$ 的阳生小枝进行采集，采集时选择主枝旁的侧枝，用枝剪贴基部剪切。样品采集后，装入信封袋，立即放入带冰的保温箱中，带回实验室。
+
+将小枝叶片取下，扫描叶片(EPSONPerfectionV19),并采用软件(AdobePhotoshop CC 2018)测量出每小枝上总叶面积(TLA)以及叶片数量(LN)。采用游标卡尺测量小枝基径(BD),采用直尺测定小枝茎长(L)。最后，将枝叶放入烘箱内 $7 0 \ \mathrm { { ^ { \circ } C } }$ 烘干至恒重，用分析天平(精度 $\boldsymbol { 0 . 0 0 1 \ \mathrm { g } } )$ 分别称量茎干重(SM)和总叶干重(TLM)。
+
+# 1.4数据处理
+
+根据测量的新疆野苹果小枝性状指标，计算单叶面积(LA)、单叶干重(SLM)、出叶强度 $( \mathrm { L I } )$ 、比叶面积(SLA)、叶面积比率(LAR)和叶茎质量比(LAMR)。计算公式如下[24-25]：
+
+$$
+\mathrm { L A } = { \frac { \mathrm { T L A } } { \mathrm { L N } } }
+$$
+
+$$
+\mathrm { S L M } = { \frac { \mathrm { T L M } } { \mathrm { L N } } }
+$$
+
+$$
+\mathrm { L I } = { \frac { \mathrm { L N } } { \mathrm { T L M } + \mathrm { S M } } }
+$$
+
+$$
+\mathrm { S L A } = { \frac { \mathrm { T L A } } { \mathrm { T L M } } }
+$$
+
+$$
+\mathrm { L A R } = { \frac { \mathrm { T L A } } { \mathrm { S M } } }
+$$
+
+$$
+\mathrm { L A M R = \frac { T L M } { S M } }
+$$
+
+式中：LA为单叶面积;TLA为总叶面积;LN为叶片数量;SLM为单叶干重;TLM为总叶干重;LI为出叶强度；SM为茎干重;SLA为比叶面积；LAR为叶面积比率；LAMR为叶茎质量比，其中LI、SLA、LAR及LAMR属于比值性状。
+
+采用单因素方差分析(One-WayANOVA)分析幼苗枝叶性状间的差异性，各处理组之间采用LSD(Least SignificantDifference)法进行多重比较。采用Pearson法分析新疆野苹果各功能性状的相关性，异速生长关系可以表示为： $Y { = } \beta X ^ { \alpha }$ ，式中：Y和 $X$ 分别表示某一功能性状； $\beta$ 是标准化常数； $\alpha$ 是异速生长指数。在实际分析过程中对新疆野苹果小枝性状数据进行对数转换： $\log Y { = } \log \beta { + } \mathrm { \alpha } \mathrm { \alpha } \mathrm { \alpha } \mathrm {  \mathrm { \alpha } } \mathrm {  \mathrm { \Omega } }$ ，其中 $\log \beta$ 为截距。当 $\scriptstyle \alpha = 1$ 时表示等速生长关系，当 $\alpha { \neq } 1$ 时表示异速生长关系。之后进行异速生长方程的参数估计，参数估计方法采用标准化主轴估计法(SMA)。SMATR进行异速生长参数的估计与多重比较。
+
+利用SPSS23.0软件进行描述统计分析、相关性分析及ANOVA分析,采用GraphpadPrism7进行作图。
+
+# 2结果与分析
+
+# 2.1氮处理对新疆野苹果小枝性状的影响
+
+由图1可知，从形态指标来看，施氮对小枝茎的伸长有一定促进作用，且在中氮处理组中促进作用达到显著性水平；相比于对照组，低氮、中氮和高氮处理组的小枝茎长分别增加了 $2 7 . 1 1 \%$ 、 $4 3 . 3 5 \%$ 和$2 1 . 6 8 \%$ 。不同处理之间其他形态与生物量指标在统计学意义上均没有显著差异。从小枝茎层面来看，氮添加处理下对茎生物量积累有一定程度的促进作用，这种促进作用在小枝茎的增长增粗上均有体现;从小枝叶片层面来看，在氮添加处理下,TLM积累以及TLA均有增加趋势，而SLM积累与SLA则均呈中氮处理减少，低、高氮处理增加的趋势。
+
+注：L表示小枝茎长,BD表示小枝基径,LN表示叶片数量,SM表示茎干重,TLM表示总叶干重,SLM表示单叶干重,TLA表示总叶面积，LA表示单叶面积,SLA表示比叶面积,LI表示出叶强度,LAR表示叶面积比率,LAMR表示叶茎质量比。下同。
+
+![](images/375ec6a637648d02d3b820c44de2b39d876dfaf97f1eeed92d83771aff0362bb.jpg)  
+图1不同氮处理下新疆野苹果小枝性状特征差异  
+Fig.1Twig traits variation of Malus sieversii under different nitrogen fertilization
+
+在各比值指标中，LI在对照组与高氮处理组间表现出显著性的下降，与对照组相比，出叶强度在低氮、中氮和高氮处理条件下分别降低了 $9 . 9 4 \%$ 、$3 . 3 4 \%$ 和 $2 1 . 6 2 \%$ 。LAR与LAMR随着施氮强度的增加，呈现出先降低后升高的趋势，中氮处理组与对照组和高氮处理组相比均显著性降低;与对照组相比，LAR在低氮、中氮和高氮处理条件下分别降低了 $1 0 . 4 7 \% \cdot 2 1 . 6 7 \%$ 和 $3 . 2 5 \%$ ,LAMR在低氮和中氮处理条件下，分别降低了 $8 . 0 8 \%$ 和 $1 9 . 5 0 \%$ ,在高氮处理条件下增加了 $1 . 7 6 \%$ 。随施氮剂量增加各比值指标变化趋势不同，SLA与LI呈现先升高后降低的趋势，但SLA各组间差异不显著，而LI在N40处理下与对照组相比显著降低；LAR与LAMR呈现先降低后升高的趋势，并且均在N20处理下与对照组间存在显著差异。总体上看，氮添加处理对新疆野苹果的不同生长特性均产生了一定影响，比值指标相较于形态以及生物量指标对施氮更加敏感
+
+# 2.2枝叶性状间的相关性
+
+由相关性分析(表1)可知，各性状之间多具有紧密的相关性。枝性状与叶性状间呈现极显著正相关 $\scriptstyle ( P < 0 . 0 1 )$ ，各枝性状 $( \mathrm { L } , \mathrm { B D } , \mathrm { S M } )$ 之间也呈显著正相关 $( P { < } 0 . 0 1 )$ 。除L与SLA无显著相关外，其余枝性状均与比值性状(SLA，LI,LAR及LMAR)呈极显著负相关 $( P { < } 0 . 0 1 )$ ，除 $\mathrm { L N , S L M }$ 和LA外,各叶性状间也呈极显著正相关( $_ { \scriptstyle P < 0 . 0 1 } )$ )。叶片与各比值性状之间的相关性要弱于枝条：除LN外，其余叶性状均与SLM、LI呈极显著负相关 $\scriptstyle \left( P < 0 . 0 1 \right)$ ),而在叶性状中，LAR仅与LN呈极显著负相关( $\scriptstyle { \left( P < 0 . 0 1 \right. }$ ）,LAMR与LN呈极显著负相关 $( P { < } 0 . 0 1 )$ ，与SLM和LA呈极显著正相关( $( P { < } 0 . 0 1 )$ 。总体而言，枝叶性状间具有紧密的相关性,枝条各性状间的相关性要强于叶片各性状间的相关性，枝叶性状间均呈正相关，而比值性状与枝叶各性状间多呈负相关。
+
+# 2.3枝叶大小异速生长关系
+
+将所有枝叶大小指标进行异速生长方程的参数估计，共筛选到6对枝叶大小指标存在显著的异速生长关系(表2，图2)。其中有2对指标的异速生长指数在不同氮处理组间存在显著性差异，分别是L-TLA和L-LN性状对，其余4组则均具有共同的异速生长指数和不同的斜率（SM-TLM除外）。除茎BD-LI的异速生长指数为负值外，其余5组的异速生长指数均为正值。
+
+氮处理以及对照组的茎与总叶片生物量之间(SM-TLM)呈现出共斜率(0.9221）、共截距(0.236)的等速生长关系，氮处理对枝叶生物量的异速生长关系没有显著影响(表2)。L-TLA性状对中，N10处理( $\scriptstyle \alpha = 1 . 9 4 7 9$ )和N20处理( $_ { \alpha = 2 . 0 0 1 3 } )$ 的异速生长指数相对于CK组( $\scriptstyle \alpha = 1 . 1 6 2 3$ )显著升高，而N40处理对该性状对的异速生长指数没有显著性影响。在L-LN性状对中，N40处理( $\scriptstyle \alpha = 0 . 6 8 5 8 ,$ 的异速生长指数相对于CK组（ $_ { ( \alpha = 1 . 0 0 2 3 }$ )显著性降低，异速生长指数总体上呈现出在低、中氮处理下增高，高氮处理下显著降低的趋势。在BD-LA性状对中，各处理水平的异速生长指数间无显著性差异（共同斜率为1.958），但相比于对照组（ $\mathrm { \Phi } _ { \mathrm { l o g } \beta = 1 . 9 1 7 } \mathrm { \Phi } _ { \mathrm { \Theta } }$ ），N10处理中 $\mathrm { \Delta } \log \beta { = } 1 . 7 8 9$ )和N20处理 $( \log \beta { = } 1 . 8 1 8 )$ )出现了显著的截距漂移。
+
+表1不同氮处理下新疆野苹果小枝性状间的Pearson相关系数  
+Tab.1Pearson'scorrelation coefficients among twig traits of Malus sieversii underdifferent nitrogen fertilization   
+
+<html><body><table><tr><td></td><td>L</td><td>BD</td><td>SM</td><td>TLM</td><td>LN</td><td>SLM</td><td>TLA</td><td>LA</td><td>SLA</td><td>LI</td><td>LAR</td></tr><tr><td>BD</td><td>0.574**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SM</td><td>0.818**</td><td>0.747**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>TLM</td><td>0.639**</td><td>0.653**</td><td>0.841**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>LN</td><td>0.673**</td><td>0.198*</td><td>0.564**</td><td>0.461**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SLM</td><td>0.261**</td><td>0.589**</td><td>0.578**</td><td>0.784**</td><td>-0.101</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>TLA</td><td>0.694**</td><td>0.624**</td><td>0.846**</td><td>0.972**</td><td>0.537**</td><td>0.725**</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>LA</td><td>0.265**</td><td>0.557**</td><td>0.543**</td><td>0.726**</td><td>-0.121</td><td>0.963**</td><td>0.725**</td><td></td><td></td><td></td><td></td></tr><tr><td>SLA</td><td>-0.026</td><td>-0.294**</td><td>-0.244*</td><td>-0.392**</td><td>0.089</td><td>-0.475**</td><td>-0.193°</td><td>-0.247**</td><td></td><td></td><td></td></tr><tr><td>LI</td><td>-0.318**</td><td>-0.656**</td><td>-0.584**</td><td>-0.688**</td><td>0.145</td><td>-0.893**</td><td>-0.637**</td><td>-0.866**</td><td>0.460**</td><td></td><td></td></tr><tr><td>LAR</td><td>-0.522**</td><td>-0.360**</td><td>-0.459**</td><td>-0.074</td><td>-0.278**</td><td>0.100</td><td>-0.040</td><td>0.182</td><td>0.156</td><td>0.042</td><td></td></tr><tr><td>LAMR</td><td>-0.498**</td><td>-0.247**</td><td>-0.366**</td><td>0.083</td><td>-0.295**</td><td>0.277**</td><td>0.043</td><td>0.273**</td><td>-0.195°</td><td>-0.125</td><td>0.933**</td></tr></table></body></html>
+
+注：L表示小枝茎长,BD表示小枝基径,LN表示叶片数量,SM表示茎干重,TLM表示总叶干重,SLM表示单叶干重,TLA表示总叶面积,LA表示单叶面积,SLA表示比叶面积，LI表示出叶强度,LAR表示叶面积比率,LAMR表示叶茎质量比。下同。\*表示具有显著的相关性,\*\*表示具有极显著的相关性。
+
+在BD-LI性状对中，各组间的异速生长指数没有显著差异(共同斜率为-2.062），截距之间的大小关系为： $\mathrm { N 1 0 { > } N 2 0 { > } C K { > } N 4 0 }$ ,存在显著性的截距漂移(表2，图2)。相对于对照，N10处理和N20处理的截距增加，在N10处理中达到显著水平，而N40处理的截距则有一定程度的降低。在BD-SLM性状对中，其各处理下的异速生长指数无显著差异且均显著大于1(共同斜率为2.177)，截距之间的大小关系为： $\mathrm { N } 4 0 { > } \mathrm { C K } { > } \mathrm { N } 2 0 { > } \mathrm { N } 1 0$ ,即存在显著性的截距漂移；相对于对照组，N10处理和N20处理的截距降低，仅
+
+N10处理达到显著水平，N40处理的截距不显著增加。
+
+# 3讨论
+
+当年生小枝性状可以在一定程度上反映出植物自身的生长状态以及对环境变化的适应[26]。在氮添加下，新疆野苹果幼苗所有小枝性状中仅枝长出现了显著性的差异，说明枝长对于氮添加的响应最敏感，且随氮浓度增加呈现出先增高后降低的趋势，与彭钟通等[27]在不同氮添加下辣木(Moringaoleifera)的三级枝长结果趋势相符。植物的表型可塑性主要体现在不同器官的分配与权衡上，如枝叶生物量[28]。因此,新疆野苹果对氮添加的响应在比例指标上表现得更加明显。比叶面积(SLA)反映了植物叶片的资源获取能力[29]，从研究结果来看，新疆野苹果叶片的资源获取能力较稳定，受氮添加的影响不明显。出叶强度表示单位茎干重上的叶片数量，反映的是植物的茂盛程度，高氮处理使新疆野苹果的出叶强度显著降低，这与异速生长分析中得出的新疆野苹果通过减小出叶强度，增大对单叶的投入来响应高氮处理这一结论相符。叶面积比率(LAR)和叶茎质量比(LAMR)均反映植物对叶与茎的投入比例，相比于对照组，中氮处理组的LAR与LAMR均显著性降低，低氮处理组均呈现降低趋势，这表明低、中氮处理组下的新疆野苹果通过改变生物量积累来加大对茎的投入，而叶片的形态以及生物量对氮添加的响应相对不敏感，但这不一定表明新疆野苹果的叶片光合能力没有改变；有研究表明，氮添加增强植物的光合能力多表现在生理层面，如叶片中叶绿素含量升高、与光合作用有关的酶活力增加等[15.19]。从整体上看,低中氮处理下的新疆野苹果表现出偏向于对茎的投人，表明在低中氮处理下其枝叶的功能活性有所改善。
+
+表2不同氮处理下新疆野苹果小枝性状间的异速生长指数及等速生长检验  
+Tab.2Allometric scaling exponent and test of isometry among twig traits of Malus sieversi under differentnitrogenfertilization   
+
+<html><body><table><tr><td rowspan="2">X</td><td rowspan="2">Y</td><td></td><td colspan="6">异速生长指数和截距</td><td colspan="2">等速生长检验</td></tr><tr><td>处理</td><td>R</td><td>P</td><td>Slope(α)</td><td>SD</td><td>Intercept (logβ)</td><td>SD</td><td>F</td><td>P</td></tr><tr><td rowspan="4">SM</td><td rowspan="4"></td><td>CK</td><td>0.878</td><td>0.000</td><td>0.864a</td><td>0.008</td><td>0.242a</td><td>0.001</td><td>2.611</td><td>0.127</td></tr><tr><td>N10</td><td>0.675</td><td>0.000</td><td>0.996a</td><td>0.014</td><td>0.244a</td><td>0.001</td><td>0.001</td><td>0.976</td></tr><tr><td>N20</td><td>0.705</td><td>0.000</td><td>1.065a</td><td>0.025</td><td>0.193a</td><td>0.001</td><td>0.257</td><td>0.618</td></tr><tr><td>N40</td><td>0.606</td><td>0.000</td><td>0.848a</td><td>0.009</td><td>0.261a</td><td>0.001</td><td>2.635</td><td>0.113</td></tr><tr><td rowspan="4">L</td><td rowspan="4">TLA</td><td>CK</td><td>0.648</td><td>0.000</td><td>1.162b</td><td>0.048</td><td>2.572</td><td>0.050</td><td>0.972</td><td>0.340</td></tr><tr><td>N10</td><td>0.400</td><td>0.000</td><td>1.948a</td><td>0.107</td><td>1.464</td><td>0.142</td><td>24.870</td><td>0.000</td></tr><tr><td>N20</td><td>0.511</td><td>0.000</td><td>2.001a</td><td>0.153</td><td>1.251</td><td>0.210</td><td>21.901</td><td>0.000</td></tr><tr><td>N40</td><td>0.378</td><td>0.000</td><td>0.909b</td><td>0.018</td><td>2.873</td><td>0.024</td><td>0.541</td><td>0.467</td></tr><tr><td rowspan="4">L</td><td rowspan="4">LN</td><td>CK</td><td>0.651</td><td>0.000</td><td>1.002ab</td><td>0.036</td><td>-0.041</td><td>0.037</td><td>0.000</td><td>0.988</td></tr><tr><td>N10</td><td>0.390</td><td>0.000</td><td>0.939ab</td><td>0.025</td><td>-0.020</td><td>0.034</td><td>0.190</td><td>0.666</td></tr><tr><td>N20</td><td>0.542</td><td>0.000</td><td>1.287a</td><td>0.059</td><td>-0.530</td><td>0.081</td><td>2.693</td><td>0.117</td></tr><tr><td>N40</td><td>0.443</td><td>0.000</td><td>0.686b</td><td>0.009</td><td>0.285</td><td>0.012</td><td>10.171</td><td>0.003</td></tr><tr><td rowspan="4">BD</td><td rowspan="4">LA</td><td>CK</td><td>0.441</td><td>0.004</td><td>1.637a</td><td>0.163</td><td>1.917a</td><td>0.024</td><td>7.069</td><td>0.018</td></tr><tr><td>N10</td><td>0.239</td><td>0.005</td><td>2.185a</td><td>0.176</td><td>1.789b</td><td>0.036</td><td>28.409</td><td>0.000</td></tr><tr><td>N20</td><td>0.415</td><td>0.002</td><td>2.094a</td><td>0.206</td><td>1.818b</td><td>0.035</td><td>21.219</td><td>0.000</td></tr><tr><td>N40</td><td>0.282</td><td>0.000</td><td>1.902a</td><td>0.093</td><td>1.916a</td><td>0.018</td><td>24.430</td><td>0.000</td></tr><tr><td rowspan="4">BD</td><td rowspan="4">LI</td><td>CK</td><td>0.564</td><td>0.001</td><td>-1.810a</td><td>0.073</td><td>1.859bc</td><td>0.023</td><td>13.601</td><td>0.002</td></tr><tr><td>N10</td><td>0.413</td><td>0.000</td><td>-2.189a</td><td>0.075</td><td>1.966a</td><td>0.028</td><td>37.028</td><td>0.000</td></tr><tr><td>N20</td><td>0.478</td><td>0.001</td><td>-2.010a</td><td>0.084</td><td>1.915ab</td><td>0.029</td><td>20.822</td><td>0.000</td></tr><tr><td>N40</td><td>0.541</td><td>0.000</td><td>-2.131a</td><td>0.046</td><td>1.835c</td><td>0.014</td><td>55.652</td><td>0.000</td></tr><tr><td rowspan="4">BD</td><td rowspan="4">SLM</td><td>CK</td><td>0.584</td><td>0.000</td><td>1.906a</td><td>0.158</td><td>-2.079ab</td><td>0.025</td><td>17.188</td><td>0.001</td></tr><tr><td>N10</td><td>0.254</td><td>0.004</td><td>2.417a</td><td>0.211</td><td>-2.226c</td><td>0.044</td><td>39.014</td><td>0.000</td></tr><tr><td>N20</td><td>0.352</td><td>0.005</td><td>2.222a</td><td>0.259</td><td>-2.193b</td><td>0.043</td><td>23.022</td><td>0.000</td></tr><tr><td>N40</td><td>0.323</td><td>0.000</td><td>2.188a</td><td>0.116</td><td>-2.081a</td><td>0.022</td><td>40.947</td><td>0.000</td></tr></table></body></html>
+
+注：字母表示不同处理间异速生长参数的多重比较结果。
+
+![](images/cbca3899139a2e071eda5aadee984849c3c804774b71276da132bf76609e48aa.jpg)  
+图2双对数坐标下不同氮处理组新疆野苹果枝叶大小性状间的异速生长关系 Fig.2Log-log plots showing the allometric relationships between leaves size and stem size of Malus sieversii under different nitrogen fertilization
+
+Yan等[12]研究表明，氮添加处理对拟南芥的枝叶生物量格局产生了影响，而本研究的结果与之恰恰相反，不同氮水平下新疆野苹果枝叶生物量的增速以及分配格局并未发生改变，且呈等速生长关系。这表明对于新疆野苹果来说，氮添加对其枝叶之间的增速以及分配格局的影响并不体现在生物量上，而主要体现在枝叶形态上，如L-TLA和L-LN，这2对性状对在氮添加处理下发生了显著的增速改变。再如BD-LA和BD-LI性状对，新疆野苹果在氮添加处理下显著改变了其分配比例。反映了拟南芥和新疆野苹果对氮添加的响应差异，可能是由于木本植物与草本植物的响应策略不同造成的。木本植物枝叶生物量之间一般维持一个固定的增速，这在其他环境因子梯度上也较常见，如温带木本植物在海拔梯度上的枝叶生物量关系[30]
+
+光合作用是植物体生物量积累与代谢的重要过程，氮添加会对植物体产生诸多影响，如Ami-nolevulinicAcid(ALA)水平、叶绿素水平、N含量等，最终都会在光合方面有所体现[31]。枝叶大小关系可反映植物在光合与机械支持、养分运输等方面的权衡[8]。L-TLA的异速生长结果表明：与对照组相比，在以同等速度增长枝长时，低、中氮处理下的新疆野苹果幼苗有着更快的总叶面积增速，这就意味着新疆野苹果增大了对光合作用的投资，氮添加解除了新疆野苹果的氮限制。当氮含量增加到N40水平时，这种总叶面积的增速显著降低，回到对照组水平，这表明野苹果在高氮处理下减少了对叶片和光合的投入。总体来说新疆野苹果在光合方面表现为低中氮处理促进，高氮处理抑制的趋势。适当浓度的氮添加会促进植物光合以及生长，但对于高氮抑制现象在不同研究中表现差异较大，裴昊斐等[20]对香椿(Toona sinensis)幼苗的氮添加研究结果表明,高浓度氮并不会降低其与光合能力相关的性状，而日本柳杉(Cryptomeria japonica)和赤松(Pinus densiflo-ra)在高氮条件下光合活动受到明显抑制[32-33]。这说明了不同物种对氮添加的响应敏感性不同，裸子植物对氮添加响应较敏感，而阔叶落叶乔木对氮负荷的耐受阈值较高，当下多数实验以氮沉降为标准去进行氮添加，从而没能达到阔叶数的氮负荷阈值，而本研究的氮添加标准参照周边果园的施氮量，超出了野苹果的承受阈值，从而对野苹果产生负面效应。也有研究表明，不均衡的养分添加会对植物的光合特性以及产量造成负面效应[34]，高氮抑制可能也是肥力不均衡的一种体现。
+
+从整体上看，氮添加下新疆野苹果叶性状变异不大,其更偏向于在单叶水平产生变异。BD-LA、BD-SLM和BD-LI这3组的异速生长关系表明：各处理组间的斜率均没有显著差异，这表明各指标间均遵循着一定的增速比例生长。BD-LI性状对的低、中氮处理曲线显著的向上偏移，BD-LA和BD-SLM组的低、中氮处理曲线向下偏移。在一定基径下，低氮处理组拥有最大的出叶强度，最小、最轻的叶片，中氮处理组次之，而高氮处理组的出叶强度较低于对照组，其叶片数量少但叶面积较大、叶片较重。体现出了在不同氮浓度条件下新疆野苹果叶大小与出叶强度之间的权衡，这种权衡关系与曾郅玮等[35]的研究相符。结合L-TLA的增速改变，低、中氮处理组的总叶面积存在增长的趋势与潜力。在高氮处理下则出现了不同于低中氮处理的响应趋势，所有性状对中高氮处理下新疆野苹果叶性状的增速与分配格局相对于对照组没有显著差异。甚至在同等基径的出叶强度上相对于对照组出现了降低趋势，对新疆野苹果的生长产生了负效应，对照组的氮限制与高氮处理组的氮抑制使新疆野苹果呈现出了同等水平的枝叶关系。
+
+# 4结论
+
+新疆野苹果幼苗在低中氮处理下某些敏感的小枝性状有上升趋势，尤其是对于茎的投入加大，而高氮处理下小枝性状多无上升趋势，且枝叶间的异速生长关系也表明了高氮处理下新疆野苹果枝叶关系的响应不同于低、中氮处理，对新疆野苹果生长产生负效应的趋势。适当添加氮肥可改善枝叶生长状况和枝叶功能性状相互关系，建议在新疆野苹果人工幼苗栽种过程中适当添肥，但需要避免氮肥过度施加；在原生境移植过程中，要考虑到生境之间的差异，开展针对性施肥，以维持新疆野苹果幼苗的良好生长状态，降低新疆野苹果幼年个体的死亡率。探究新疆野苹果幼苗对氮添加的响应，可为其种群恢复与保育提供有力的理论支撑。新疆野苹果枝叶大小关系对不同剂量氮添加的内部响应机制以及科学合理的施肥方式还有待进一步探究。
+
+# 参考文献(References):
+
+[1] 林培钧,崔乃然.天山野果林资源——伊犁野果林综合研究 [M].北京:中国林业出版社,2OO0.[Lin Peijun,Cui Nairan. Resources of Wild Fruit Forest in Tianshan: Comprehensive Study on Wild Fruit Forest in Yili[M].Beijing:China Forestry Publishing House,2000.]   
+[2] Wang N,Jiang SH, Zhang Z Y,et al.Malus sieversii: The origin, flavonoid synthesis mechanism,and breeding of red- skinned and red-fleshed apples[J]. Horticulture Research,2018,5: 70.   
+[3]Zhang HX,Li X S,Wang JC,et al. Insights into the aridification history of central asian mountains and international conservation strategy from the endangered wild apple tree[J]. Journal of Biogeography,2020,48(2): 1-13.   
+[4]Shan Q J, Wang Z K, Ling H B,et al. Unreasonable human disturbance shifts the positive effect of climate change on tree-ring growth of Malus sieversi in theoriginareaof world cultivated apples[J]. Journal of Cleaner Production,2021,287: 1-14.   
+[5]李宇秀.张宏祥.死亡植株对新疆野苹果种群遗传多样性的影 响[J].干旱区研究,2018,35(1):165-170.[Li Yuxiu,Zhang Hongxiang.Efect of death individual on the genetic diversity of Malus sieversi population[J]. Arid Zone Research,2018,35(1): 165-170.]   
+[6]傅立国.中国植物红皮书[M].北京:科学出版社,1993.[Fu Liguo.China Plant Red Data Book[M]. Beijing: Science Press,1993.]   
+[7]杨力,王满堂,陈晓萍,等.亚热带常绿林不同冠层小枝叶面 积-叶生物量关系研究[J].生态学报,2020,40(21):7745-7754. [Yang Li,Wang Mantang,Chen Xiaoping,et al.Relationship between leaf area and leaf biomass of different canopies in subtropical evergreen forest[J]. Acta Ecologica Sinica,2020,40(21):7745- 7754.]   
+[8]商侃侃,张希金,宋坤.上海辰山植物园不同生活型木本植物枝 叶大小关系的比较[J].植物研究,2020,40(5):1-7. [Shang Kankan, Zhang Xijin,Song Kun.Variationof stem-leaf size relationship of woody plants among different lifeforms in Shanghai Chenshan botanical garden[J]. Bulletin of Botanical Research,2020,40 (5): 1-7.]   
+[9]Corner EJH.The durian theory or the origin of the modern tre[J]. Annals of Botany,1949,13(52): 367-414.   
+[10] 章建红,史青茹,许洺山,等.浙江天童木本植物corner法则的 检验：个体密度的影响[J].植物生态学报,2014,38(7):655-664. [Zhang Jianhong,Shi Qingru,Xu Mingshan,et al. Testing of Corner'srules across woody plants in Tiantong region,Zhejiang Prov ince:Effects of individual density[J]. Chinese Journal of Plant Ecology,2014,38(7): 655-664.]   
+[11] Sun S C, Jin D M, Shi PL. The leaf size-twig size spectrum of temperate woody species along an altitudinal gradient: An invariant allometric scaling relationship[J].Annals of Botany,20O6,97(1): 97-107.   
+[12]Yan Z B,Eziz A, Tian D,et al. Biomass allocation in response to nitrogen and phosphorus availability:Insight from experimental manipulations of Arabidopsis thaliana[J].Frontiers in Plant Science,2019,10:598.   
+[13] 李曼,郑媛,郭英荣,等.武夷山不同海拔黄山松枝叶大小关系 [J].应用生态学报,2017,28(2): 537-544.[Li Man, Zheng Yuan, Guo Yingrong,et al. Scaling relationships between twig size and leaf size of Pinus hwangshanensis along an altitudinal gradient in Wuyi Mountains, China[J].Chinese Journal of Applied Ecology, 217 2017,28(2): 537-544.]   
+[14] 彭福田,姜远茂,顾曼如,等.氮素对苹果果实内源激素变化动 态与发育进程的影响[J].植物营养与肥料学报,2003,10(2): 208-213.[Peng Futian,Jiang Yuanmao,Gu Manru, et al.Effect of nitrogen on apple fruit hormone changing trends and development [J].Journal of Plant Nutrition and Fertilizers,2OO3,10(2): 208- 213.]   
+[15] Crawford N M, Glass A D M. Molecular and physiological aspects of nitrate uptake in plants[J]. Trends in Plant Science,1998,3 (10): 389-395.   
+[16] 张婉婷,单立山,李毅,等.氮添加与降雨变化对红砂幼苗非结 构性碳水化合物的影响[J].生态学杂志,2020,39(3):803-811. [Zhang Wanting,ShanLishan,LiYi, etal.Efects of nitrogen addition and precipitation change on non- structural carbohydrates in Reaumuria soongorica seedlings[J]. Chinese Journal of Ecology, 2020,39(3): 803-811.]   
+[17] 王凯,雷虹,夏扬,等.杨树幼苗非结构性碳水化合物对增加降 水和氮添加的响应[J].应用生态学报,2017,28(2):399-407. [Wang Kai,Lei Hong,Xia Yang,et al.Responses of non-structural carbohydrates of poplar seedlings to increased precipitation and nitrogen addition[J]. Chinese Journal of Applied Ecology,2017,28 (2): 399-407.]   
+[18] 李德军,莫江明,方运霆,等.模拟氮沉降对三种南亚热带树苗 生长和光合作用的影响[J].生态学报,2004,24(5):876-882. [LiDejun, Mo Jiangming,Fang Yunting,et al. Efcts of simulated nitrogen deposition on growth and photosynthesis of Schima superba,CastanopsischinensisandCrytocaryaconcinnasedings[J]. Acta Ecologica Sinica, 2004, 24(5): 876-882.]   
+[19]闫慧,吴茜,丁佳,等.不同降水及氮添加对浙江古田山4种树 木幼苗光合生理生态特征与生物量的影响[J].生态学报, 2013,33(14): 4226-4236.[Yan Hui, Wu Qian,Ding Jia,et al.Effects of precipitation and nitrogen addition on photosynthetically ecophysiological characteristics and biomass of four tree seedlings in Gutian Mountain, Zhejiang Province, China[J].Acta Ecologica Sinica, 2013,33(14): 4226-4236.]   
+[20] 裴昊斐,高卫东,方娇阳,等.模拟氮沉降对一年生香椿幼苗生 长和光合特性的影响[J].中国生态农业学报,2019,27(10): 1546-1552.[Pei Haofei, Gao Weidong,Fang Jiaoyang, et al. Effects of simulated nitrogen deposition on growth and photosynthetic characteristics of one-year-old Toona sinensis seedlings[J]. Chinese Journal of Eco-Agriculture,2019,27(10): 1546-1552.]   
+[21] 李德军,莫江明,方运霆,等.氮沉降对森林植物的影响[J].生 态学报,2003,23(9):1891-1900.[Li Dejun,Mo Jiangming,Fang Yunting,et al. Impact of nitrogen deposition on forest plants[J]. Acta Ecologica Sinica,2003,23(9):1891-1900.]   
+[22] 苏志豪,李文军,曹秋梅,等.新疆野苹果的种群年龄结构与数 量动态[J].干旱区研究,2019,36(5):1153-1160.[Su Zhihao,Li Wenjun, Cao Qiumei, et al.Age composition and quantitative dynamic status of Malus sieversii population[J]. Arid Zone Research,
+
+2019,36(5): 1153-1160.]
+
+[23] 玛孜依热阿·努尔海拉提,陶冶,周晓兵,等.新疆野苹果群落表 层土壤化学计量特征[J].生态学杂志,2019,38(9):2638-2647. [Ma Zi e re a Nuerhailati, Tao Ye,Zhou Xiaobing,etal.Stoichiometry of topsoil in Malus sieversii community in Xinjiang,China[J]. Chinese Journal of Ecology,2019,38(9): 2638-2647.]   
+[24] 李锦隆,王满堂,李涵诗,等.冠层高度对江西69种阔叶树小枝 单叶生物量与出叶强度关系的影响[J].林业科学,2021,57(2): 62-71.[Li Jinlong,Wang Mantang,Li Hanshi,et al.Effects of canopy height on the relationship between individual leaf mass and leafing intensity of 69 broad leaved trees in Jiangxi Province [J. Scientia Silvae Sinicae,2021,57(2): 62-71.]   
+[25] 魏圆慧,王志鑫,梁文召,等.胡杨枝叶功能性状对地下水位梯 度的响应与适应[J].西北植物学报,2020,40(6):1043-1051. [Wei Yuanhui,Wang Zhixin,Liang Wenzhao,et al.Response and adaptation of twig-leaf functional traits of Populus euphratica to groundwater gradients[J].Acta Botanica Boreali-Occidentalia Sinica,2020,40(6): 1043-1051.]   
+[26] 何家莉,王金牛,周天阳,等.发育阶段和海拔对岷江源区陇蜀 杜鹃小枝功能性状及生物量分配的影响[J].应用生态学报, 2020,31(12): 4027-4034.[He Jiali,Wang Jinniu,Zhou Tianyang, et al.Effects of growth stage and altitude on twig functional traits and biomass allocation of Rhododendron przewalskii in the headwater region of Minjiang River, China[J]. Chinese Journal of Applied Ecology,2020,31(12): 4027-4034.]   
+[27] 彭钟通,林佳娜,刘丽,等.水氮耦合对辣木生长特性的影响[J]. 生态学杂志,2021,40(2):363-372.[Peng Zhongtong,Lin Jiana, Liu Li,et al. The coupling effects of water and nitrogen addition on the growth characteristics of Moringa oleifera[J].Chinese Journal of Ecology,2021,40(2): 363-372.]   
+[28]Messier J,Lechowicz M J, McGill BJ,etal.Interspecific integration of trait dimensions at local scales: The plant phenotype as an integrated network[J].Journal of Ecology,2017,105(6): 1775-1790.   
+[29] 胡耀升,么旭阳,刘艳红.长白山森林不同演替阶段比叶面积及 其影响因子[J].生态学报,2015,35(5):1480-1487.[Hu Yaosheng,Yao Xuyang,Liu Yanhong.Specific leaf area and its influencing factors of forests at different succession stages in Changbai Mountains[J].Acta Ecologica Sinica,2015,35(5): 1480-1487.]   
+[30]Sun J,Wang M T,Lyu M,et al. Stem diameter (and not length) limits twig leaf biomass[J].Frontiers in Plant Science,2O19,10:185.   
+[31]Feng X X,An Y Y,Gao JJ, et al. Photosynthetic responses of canola to exogenous application or endogenous overproduction of 5-Aminolevulinic Acid (ALA) under various nitrogen levels[J].Plants, 2020, 9(11): 1-14.   
+[32]Nakaji T,Fukami M,Dokiya Y,et al.Effects of high nitrogen load on growth,photosynthesis and nutrient status of Cryptomeria japonica and Pinus densiflora seedlings[J].Trees,20o1,15(8): 453-461.   
+[33]Nakaji T,Takenaga S,Kuroha M, et al. Photosynthetic response of Pinus densiflora seedlings to high nitrogen load[J].Environmental Sciences,2002,9(4): 269-282.   
+[34]Zhang MH,Sun D Y,Niu ZR,et al. Effects of combined organic/ inorganic fertilizer application on growth,photosynthetic characteristics,yield and fruit quality of Actinidia chinesis cv‘Hongyang' [J]. Global Ecology and Conservation,2020,22:1-9.   
+[35] 曾郅玮,赵世杰,鲜骏仁,等.长期增温对树线交错带岷江冷杉 幼苗异龄叶大小与出叶强度关系的影响[J].生态学报,2021, 41(14): 1-1O.[Zeng Zhiwei, Zhao Shijie, Xian Junren,et al.Longterm warming effects on relationship between leaf size and leafing intensity of Abies faxoniana sedlings in the treeline ecotone[J]. Acta Ecologica Sinica,2021,41(14): 1-10.]
+
+# Effects of different levels of nitrogen addition on leaf-stem sizes of Malus sieversii seedlings
+
+HUA Zhaohui’²， TAO Yel， YAN Jingmingl³， ZHOU Xiaobing',ZHANG Jing'， ZHANG Yuanming'
+
+(1.State KeyLaboratoryof DesertandOasis Ecology,XinjiangInstituteofEcologyand Geography,Chinese Academy of Sciences,Urumqi 83oo11,Xinjiang,China;2.CollegeofLife Sciences,Shihezi University,Shihezi 832003, Xinjiang,China;3.Anhui Province KeyLaboratoryof the Biodiversity Studyand EcologyConservation inSouthwest Anhui, College of Life Sciences,Anqing Normal University,Anqing 246133,Anhui, China)
+
+Abstract: Malus sieversi isoneof the ancestors ofallcultivated apple trees inthe world; therefore,it is regarded as a strategic genetic resource in China.However,its population has become seriously degraded.To conserve M. sieversi,it is necessry tounderstandtheresponseof the plant to nitrogen addition.To determine theresponse of M.sieversi to nitrogen addition and provide a theoretical basis for population recovery,the twig traits of $M .$ sieversii seedlings treated with diferent levels of nitrogen were analyzed using one-way ANOVA and allometric analysis.The N20 treatment promoted significant stem growth and significantly reduced the LAR and LAMR of M.sieversi; in contrast, the N40 treatment significantly reduced theLIof M.sieversii.The variation of branches and leaves of M. sieversi under nitrogen addition was not reflected in the biomass,but it was reflected in the morphological index. The low-and medium-nitrogen treatment groups tended to grow smaller and lighter leaves. The variation according to high-nitrogen treatment differed from that of the low-and medium-nitrogen groups. Appropriate addition of nitrogen fertilizer can improve the relationship between leaves and stem growth.In the process of planting seedlings,excessive application of nitrogen fertilizer should be avoided and fertilizer should beadded appropriately.In the process of original habitat transplantation,the soil difference between habitats should be considered and fertilizer should be used in a targeted manner.
+
+Keywords: Malus sieversi; nitrogenaddition；leaf-stem relationship；allometric scaling relationship； functional traits

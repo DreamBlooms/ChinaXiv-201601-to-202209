@@ -1,0 +1,380 @@
+[
+    {
+        "type": "text",
+        "text": "A colorimetric nitrite detection system with excellent selectivity and high sensitivity based on Ag@Au nanoparticles† ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tianhua $\\lfloor \\dot { 1 } , \\ddagger ^ { \\hat { \\mathsf { a } } , \\mathsf { b } }$ Yonglong $\\mathsf { L i , } \\dagger ^ { \\mathsf { a , c } }$ Yujie Zhang.a Chen Dong.a Zheyu Shen\\*a and Aiguo Wu\\*a ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Excessive uptake of ${ \\mathsf { N O } } _ { 2 } ^ { - }$ is detrimental to human health,but the currently available methods used to sensitively detect this ion in the environment are cumbersome and expensive.In this study, we developed an improved ${ \\mathsf { N O } } _ { 2 } ^ { - }$ detection system based on a redox etching strategy of CTAB-stabilized Ag-Au coreshell nanoparticles (Ag@AuNPs).The detection mechanism was verified by UV-Vis spectroscopy,TEM and XPS.The detection system produces a color change from purple to colorlessin response to an increase of ${ \\mathsf { N O } } _ { 2 } ^ { - }$ concentration.The selectivity of detection of ${ \\mathsf { N O } } _ { 2 } ^ { - }$ .both with the unaided eye and by measurement of UV-Vis spectra,is excellent in relation to other ions,including ${ \\mathsf { C u } } ^ { 2 + }$ ${ \\mathsf { C o } } ^ { 2 + }$ ${ \\mathsf { N i } } ^ { 2 + }$ ${ \\mathsf { C r } } ^ { 3 + }$ ${ \\mathsf { A l } } ^ { 3 + }$ ${ \\mathsf { P b } } ^ { 2 + }$ ${ \\mathsf { C d } } ^ { 2 + }$ ${ \\mathsf { C a } } ^ { 2 + }$ ${ \\mathsf { B } } \\mathsf { a } ^ { 2 + }$ $Z n ^ { 2 + }$ $\\mathsf { M n } ^ { 2 + }$ $\\mathsf { M g } ^ { 2 + }$ $\\mathsf { F e } ^ { 3 + }$ ${ \\mathsf { H } } { \\mathsf { g } } ^ { 2 + }$ ${ \\mathsf { A } } { \\mathsf { g } } ^ { + }$ $\\mathsf { K } ^ { + }$ $\\mathsf { F } ^ { - }$ ${ \\mathsf { P O } } _ { 4 } { } ^ { 3 - }$ ${ \\mathsf C } _ { 2 } { \\mathsf O } _ { 4 } { } ^ { 2 - } .$ ${ \\mathsf { S } } { \\mathsf { O } } _ { 3 } { } ^ { 2 - } .$ $\\mathsf { C O } _ { 3 } { } ^ { 2 - }$ ${ \\mathsf { S } } { \\mathsf { O } } _ { 4 } { } ^ { 2 - }$ $N O _ { 3 } { ^ - }$ and $C H _ { 3 } - C O O ^ { - } ( A C ^ { - } )$ .The limit of detection (LOD) for ${ \\mathsf { N O } } _ { 2 } ^ { - }$ is $1 . 0 \\mu M$ by eye and $0 . 1 \\mu \\mathsf { M }$ by UV-Vis spectroscopy.The LOD by eye is lower than the lowest previously reported value $( 4 . 0 ~ \\mu \\ M )$ .There isa good linear relationship between $A / A _ { 0 }$ and the concentration of ${ \\mathsf { N O } } _ { 2 } ^ { - }$ from 1.0 to $2 0 . 0 ~ \\mu \\mathsf { M } ~ \\mathsf { N O } _ { 2 } ^ { - } .$ which permits a quantitative assay.The applicability of our detection system was also verified by analysis of ${ \\mathsf { N O } } _ { 2 } ^ { - }$ in tap water and lake water.The results demonstrate that our Ag@AuNP-based detection system can be used for the rapid colorimetric detection of ${ \\mathsf { N O } } _ { 2 } ^ { - }$ in complex environmental samples,with excellent selectivity and high sensitivity. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nitrite ion $\\left( \\mathbf { N O _ { 2 } } ^ { - } \\right)$ is an essential inorganic nitrogen-containing nutrient used,alongside $\\mathrm { N H _ { 4 } } ^ { + }$ and ${ \\mathrm { N O } _ { 3 } } ^ { - }$ ，in fertilizers to promote the growth of plants.1,2 It is also widely used in the food preservation industries.However，excessive uptake of $\\mathrm { N O _ { 2 } } ^ { - }$ is detrimental to human health and may cause stomach cancer;moreover, $\\mathrm { N O _ { 2 } } ^ { - }$ reacts with amines,resulting in the formation of nitroso compounds,and it reacts with oxyhemoglobin to produce methemoglobin irreversibly in the blood stream,thereby interfering with oxygen transport in the blood and causing methemoglobinemia.3-5 It is of great importance to determine the concentration of ${ \\mathrm { N O } } _ { 2 } ^ { - }$ in food,the environment,urine and other biological samples.Much effort has been devoted to such ${ \\mathrm { N O } } _ { 2 } ^ { - }$ detection,including by the use offluorophores,5,6ionchromatography7,8andelectrochemistry.9-12 Their limits of detection (LODs) are lower than the $\\mathrm { N O _ { 2 } } ^ { - }$ toxicity level (1 ppm, $2 1 . 7 ~ \\mu \\mathrm { M } )$ ,which is defined for drinking water by the U.S.Environmental Protection Agency (US EPA).13 However, the existing analytical methods referred to above usually require expensive equipments，and the sample preparation processes are complicated, time-consumingand unsuitable for on-site analysis.Therefore,the develop ment of a facile and inexpensive analytical method for detecting ${ \\mathrm { N O } } _ { 2 } ^ { - }$ is urgently demanded. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fluorescent and colorimetric sensors have aroused widespread interest during the past two decades.5,14-17 Gold nanoparticles (AuNPs)，which possess a high molar extinction coefficient and high stability,have been extensively applied in colorimetric assays for the detection of ${ \\mathrm { N O } } _ { 2 } ^ { - }$ in food or waste water.16-19 For example,Mirkin et al. designed two kinds of functionalized AuNPs to detect $\\mathrm { N O _ { 2 } } ^ { - }$ ,in a method based on the Griess reaction.18 Xiao et al. reported a non-crosslinking colorimetric ${ \\mathrm { N O } } _ { 2 } ^ { - }$ sensor with an LOD for ${ \\mathrm { N O } } _ { 2 } ^ { - }$ of $2 0 ~ \\mu \\mathrm { M }$ based on a deamination reaction induced by ${ \\mathrm { N O } } _ { 2 } ^ { - }$ ，which resulted in aggregation of the gold nanorods.19 However, these colorimetric sensors need modification of the AuNP surface with specific ligands.After the development of these sensors, Zhang et al. developed a colorimetric ${ \\mathrm { N O } } _ { 2 } ^ { - }$ sensor using unmodified AuNPs,based ona specific diazo reaction between ${ \\mathbf { N O } _ { 2 } } ^ { - }$ and phenylenediamine.20 This method is not practical because the detection process is complicated and the detection range is not broad.Chen et al.developed a colorimetric method for $\\mathrm { N O _ { 2 } } ^ { - }$ detection based on etching of gold nanorods (AuNRs),which uses a new redox reaction detection strategy rather than the diazo reaction.The LOD for ${ \\mathrm { N O } } _ { 2 } ^ { - }$ by the naked eye using this method,at $4 . 0 ~ \\mu \\mathrm { M } , ^ { 2 1 }$ is lower than that using anyother reported method.However,heating isnecessary for the detection in this case,and an interfering ion $( { \\mathrm { F e } } ^ { 3 + } )$ may also limit the application of the method in naturally occurring samples. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study,we developed an improved system based on a redox etching strategy of CTAB-stabilized Ag-Au core-shell nanoparticles(Ag@AuNPs)for ${ \\mathrm { N O } } _ { 2 } ^ { - }$ detection without heating.This system has a higher sensitivity (the LOD to the naked eye is $1 . 0 ~ \\mu \\mathrm { M } )$ and better selectivity (no interfering ion exists) than the previously reported methods. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Experimental section ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1Materials and apparatus ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Sodium nitrite $\\left( \\mathrm { N a N O } _ { 2 } \\right)$ ,magnesiumchloride $\\left( \\mathbf { M g C l } _ { 2 } \\right)$ ，sodium nitrate $\\left( \\mathrm { N a N O } _ { 3 } \\right)$ and sodium fluoride (NaF) were purchased from Aladdin Reagent Co.，Ltd (Shanghai,China)．Silver nitrate $\\left( { \\bf A g N O } _ { 3 } \\right)$ ，trisodium citrate dehydrate $\\mathrm { \\left( C _ { 6 } H _ { 5 } N a _ { 3 } O _ { 7 } \\right. }$ $2 \\mathrm { H } _ { 2 } \\mathrm { O } )$ ，sodiumborohydride $\\mathrm { ( N a B H _ { 4 } ) }$ ，chloroauricacid $\\left( \\mathrm { H A u C l _ { 4 } } \\right)$ ,cetyltrimethyl ammonium bromide (CTAB),hydroxylamine hydrochloride $\\left( \\mathrm { N H _ { 2 } O H \\cdot H C l } \\right)$ and other essential reagents were obtained from Sinopharm Chemical Reagent Co.，Ltd (Beijing,China).All reagents were used as received without further purification. Glassware was washed using aqua regia $\\left( \\mathrm { H C l - H N O } _ { 3 } = 3 : 1 \\left( \\mathrm { v / v } \\right) \\right)$ ,and then cleaned withMilli-Qwater. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Surface plasmon resonance (sPR) absorption data were recorded with an ultraviolet and visible spectrophotometer (UV-Vis,PERSEE T10CS). Transmission electron microscopy (TEM) images were acquired using a JEOL 210o microscope operating at an accelerating voltage of 2oo KV.X-ray photon spectrometry (XPS) was performed using an AXIs Ultra DLD instrument with $\\mathbf { M g } \\operatorname { K } \\alpha$ radiation as the X-ray source. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2Synthesis of Ag@AuNPs ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ag@AuNPs were synthesized accordingto the reported method,with modifications.24 Typically,aqueous solutions of ${ \\bf A g N O } _ { 3 }$ 一 $( 2 0 ~ \\mathrm { ~ m M }$ ， $2 . 0 ~ \\mathrm { \\ m L }$ ）and ${ { \\bf { C } } _ { 6 } } { { \\bf { H } } _ { 5 } } { { \\bf { N } } } { { \\bf { a } } _ { 3 } } { { \\bf { O } } _ { 7 } } { { \\bf { \\cdot } } 2 } { { \\bf { H } } _ { 2 } } { { \\bf { O } } }$ 0 $\\mathbf { \\zeta } _ { 3 0 \\mathrm { ~ \\ m M } }$ $6 . 0 ~ \\mathrm { m L }$ )weremixedwith $1 7 4 ~ \\mathrm { m L }$ of Milli-Q water in a $3 0 0 ~ \\mathrm { { m L } }$ beaker and stirred vigorously at room temperature.Then, $2 . 0 ~ \\mathrm { m L }$ offresh $\\mathrm { { N a B H _ { 4 } } }$ aqueous solution ( $( 1 0 0 ~ \\mathrm { m M } )$ was added dropwise to the above mixture,with stirring.The reaction was kept for $2 . 0 \\mathrm { ~ h ~ }$ at room temperature (the color of the solution becamepaleyellow). Aqueoussolutionsof $\\mathbf { N H } _ { 2 } \\mathbf { O H } { \\cdot } \\mathbf { H C l }$ $\\left. { 6 2 . 5 \\ m M , 1 0 \\ m L } \\right)$ and $\\mathrm { \\ H A u C l _ { 4 } }$ (5.0 mM,10 mL) were then simultaneously added $( 2 . 0 \\ \\mathrm { \\ m L \\ m i n ^ { - 1 } }$ ）into the above system.The obtained mixture was stirred for another $4 5 ~ \\mathrm { m i n }$ (during which time the color of the solution changed from light yellow to crimson).The obtained Ag@AuNP solutions were centrifuged at $1 5 0 0 0 g$ for $1 5 ~ \\mathrm { m i n }$ and then resuspended in $1 0 0 ~ \\mathrm { { m L } }$ of various concentrations of aqueous CTAB (from 5.0 to $1 0 0 ~ \\mathrm { { m M } }$ ！ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3Sensing detection of $\\mathbf { N O } _ { 2 } ^ { - }$ ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The colorimetric detection of $\\mathrm { N O _ { 2 } } ^ { - }$ was carried out at room temperature.First, the pH values of the prepared dispersions of Ag@AuNPs were respectively adjusted to 1.0-1.5.Then, $1 0 0 ~ \\mu \\mathrm { L }$ of different concentrations of ${ \\mathrm { N O } } _ { 2 } ^ { - }$ were respectively added into $9 0 0 ~ \\mu \\mathrm { L }$ of the Ag@AuNP dispersions，and the mixtures were shaken and stored at ambient conditions for $1 . 0 { - } 3 0 ~ \\mathrm { m i n }$ .Finally,the change in color and the corresponding UV-Vis absorption spectra were recorded. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4Selective detection of $\\mathbf { N O } _ { 2 } ^ { - }$ ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To verify the selectivity of our proposed detection system based on_Ag@AuNPs, other ions including Cu2+， Co²+， Ni2+,Cr3+, ${ \\mathbb { A } } ^ { 3 ^ { + } }$ ， $\\mathrm { P b } ^ { 2 + }$ ， $\\operatorname { C d } ^ { 2 + }$ ${ \\mathrm { C a } } ^ { 2 + }$ $\\mathrm { B a } ^ { 2 + }$ ， $\\mathrm { Z n } ^ { 2 + }$ ， $\\mathbf { M } \\mathbf { n } ^ { 2 + }$ ， $ { \\mathbf { M } }  { \\mathbf { g } } ^ { 2 + }$ $\\mathrm { F e } ^ { 3 + }$ $\\mathrm { H g } ^ { 2 + }$ ， ${ \\bf A } { \\bf g } ^ { + }$ $\\mathbf { K } ^ { + }$ $\\mathrm { F } ^ { - }$ $\\mathrm { P O _ { 4 } } ^ { 3 - }$ $\\mathbf { C _ { 2 } O _ { 4 } } ^ { 2 - }$ ， ${ \\mathrm { S O _ { 3 } } } ^ { 2 - }$ $\\mathrm { C O _ { 3 } } ^ { 2 - }$ ， ${ \\mathrm { S O _ { 4 } } } ^ { 2 - }$ ${ \\mathrm { N O _ { 3 } } } ^ { - }$ and $\\mathrm { A c } ^ { - }$ were also testedin a similar manner to that mentioned above.The concentration of each of the ions used in determining selectivity was $2 0 0 ~ \\mu \\mathbf { M }$ ,except for ${ \\mathrm { N O } } _ { 2 } ^ { - }$ ， $\\mathrm { F e } ^ { 3 + }$ and $\\mathrm { C u } ^ { 2 + }$ ,forwhich the concentration was $2 0 ~ \\mu \\mathbf { M }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.5Detection of $\\mathbf { N O } _ { 2 } ^ { - }$ in commonly available sources of water ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Samples of tap water obtained from our institution and lake water collected from a pond in our institution were filtered through a $0 . 2 ~ { \\mu \\mathrm { m } }$ membrane,and then spiked with standard ${ \\mathrm { N O } } _ { 2 } ^ { - }$ stock solutions of various concentrations.The ${ \\mathrm { N O } } _ { 2 } ^ { - }$ was then detected using colorimetry and Uv-Vis spectroscopy as mentioned above. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 Sensing strategy ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The design of our Ag@AuNP-based system for ${ \\mathrm { N O } } _ { 2 } ^ { - }$ detection isshown in Scheme 1.The standard redox potentials of $\\mathrm { A u B r } _ { 2 } ^ { - } / \\mathrm { A u }$ and $\\mathrm { A u B r _ { 4 } ^ { - } / A u }$ are $0 . 8 5 { \\mathrm { ~ V ~ } }$ and $0 . 9 3 ~ \\mathrm { V } _ { : }$ ，respectively. However,the actual redox potential of $\\mathrm { H N O } _ { 2 } / \\mathrm { N O }$ isapproximately $1 . 0 \\mathrm { ~ V ~ }$ fora $\\mathrm { p H }$ of 1.3,which enables ${ \\mathrm { N O } } _ { 2 } ^ { - }$ to oxidize AuNPs to form $\\mathrm { A u B r } _ { 2 } ^ { - }$ or $\\mathrm { A u B r _ { 4 } } ^ { - }$ in the presence of CTAB. Moreover,it was reported that CTAB could be used to reduce the redox potentials of $\\mathrm { A u B r } _ { 2 } ^ { - } / \\mathrm { A u }$ or $\\mathrm { A u C l } _ { 2 } ^ { - } / \\mathrm { A u }$ to less than $0 . 4 \\mathrm { ~ V ~ }$ due to the formation of $\\mathbf { A u B r } _ { 2 } ^ { - } - \\mathbf { C T A } ^ { + }$ complex.22 Therefore,the redox etching of our CTAB-stabilized Ag@AuNPs is easilyinduced by ${ \\mathrm { N O } } _ { 2 } ^ { - }$ .We chose Ag@AuNPs rather than AuNRs because the Ag@AuNPs prepared by the galvanic reac tion between gold and silver²³ can increase the color response when ${ \\mathrm { N O } } _ { 2 } ^ { - }$ is detected.Here, ${ \\mathrm { N O } } _ { 2 } ^ { - }$ could be directly detected by visualizing the color change of the Ag@AuNP dispersion using the naked eye,with high sensitivity and excellent selectivity. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c93d45bea3858b04e264837c87febb5bd1a6e35a82442fcc6a3a5cc7283efc9e.jpg",
+        "img_caption": [
+            "Scheme 1 Schematic illustration of the etching mechanism based on Ag@AuNPs. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/eec1c5b145fff5f76c0a9164e2e3054adcc785e4d603ac49d6b7fbfa0549e6b0.jpg",
+        "img_caption": [
+            "Fig.1UV-Vis spectra of the Ag@AuNP dispersions in the presence of CTAB $( 1 0 0 ~ \\mathsf { m } M )$ without ${ \\mathsf { N O } } _ { 2 } ^ { - }$ (a)or Ag@AuNP dispersions incubated with $1 0 . 0 ~ { \\mu \\mathsf { M } } ~ { \\mathsf { N O } _ { 2 } } ^ { - }$ (b) for 15 min.The inset image corresponds to the colorimetric response.The pH value of the Ag@AuNP dispersions was maintained at1.3. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This mechanism for detecting ${ \\mathrm { N O } _ { 2 } } ^ { - }$ ,i.e.,redox etching of $\\mathrm { A g ( a ) A u N P s }$ (Scheme 1),was verified by Uv-Vis spectroscopy, TEM and XPS.Fig.1 shows the UV-Vis spectra and photo graphic images of the Ag@AuNP dispersions in the presence ofCTAB $\\left( 1 0 0 ~ \\mathrm { m M } \\right)$ with or without incubation with $\\mathrm { N O _ { 2 } } ^ { - }$ .The pH value of the Ag@AuNP dispersions was controlled to be 1.3.The Ag@AuNP dispersion was purple in color and had a UV-Vis absorption spectrum with a peak wavelength at $5 3 6 ~ \\mathrm { n m }$ .After being incubated with $1 0 ~ \\mu \\mathbf { M }$ of $\\mathrm { N O _ { 2 } } ^ { - }$ for $1 5 ~ \\mathrm { m i n }$ the Ag@AuNP dispersion changed in color from purple to red. Inaddition,the peak wavelength shifted to $5 2 6 ~ \\mathrm { n m }$ .The blue shift of the absorption peak may be attributed to the decrease of the nanoparticle sizes.21,25 ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7cf8cd446f1bfa41bd78b2834a6cf37040f408e9940bad444b22a21698cd2756.jpg",
+        "img_caption": [
+            "Fig.2TEM images of the Ag@AuNPswithout ${ \\mathsf { N O } } _ { 2 } ^ { - }$ incubation (a) and the Ag@AuNPs incubated with (b) $1 0 . 0 \\mu \\mathsf { M } \\mathsf { N O } _ { 2 } ^ { - }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 shows the corresponding TEM images of the Ag@AuNPs with or without incubation with ${ \\mathrm { N O } } _ { 2 } ^ { - }$ .Due to the galvanic reaction between gold and silver，the prepared Ag@AuNPs aggregated (Fig. 2a).After being incubated with $1 0 ~ \\mu \\mathbf { M }$ of ${ \\mathrm { N O } } _ { 2 } ^ { - }$ for $1 5 \\ \\mathrm { m i n }$ ,the Ag@AuNPs became well dispersed,and the particle size decreased (Fig.2b).This result indicates that the Ag@AuNPs were etched by $\\mathrm { N O _ { 2 } } ^ { - }$ under acidic conditions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To further verify the etching mechanism,XPS was used to characterize the binding energy of Au 4f,as shown in Fig.3. Compared with the Au 4f XPS spectrum of Ag@AuNPs without ${ \\mathrm { N O } } _ { 2 } ^ { - }$ ，that of the Ag@AuNPs incubated with $1 0 ~ \\mu \\mathbf { M }$ of ${ \\mathbf { N O } _ { 2 } } ^ { - }$ displayed an obvious shift，indicating that the chemical environment changed as a result of the leaching of the surface Au atoms. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "These results verify the above-mentioned mechanism for ${ \\mathrm { N O } } _ { 2 } ^ { - }$ detection,i.e., ${ \\mathrm { N O } } _ { 2 } ^ { - }$ can easily etch the Ag@AuNPs. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2Optimization of the experimental conditions ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The pH value of the Ag@AuNPs, the concentration of CTAB in the Ag@AuNPs and the incubation time of Ag@AuNPs and $\\mathrm { N O _ { 2 } } ^ { - }$ were optimized according to the sensing effect of our Ag@AuNP-based detection system for ${ \\mathrm { N O } } _ { 2 } ^ { - }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6231cc20223283b0771859ba859c4387d1662d741d0eecaa0744b1f124f37b4.jpg",
+        "img_caption": [
+            "Fig.3 Au 4f of XPS spectra of the Ag@AuNPs without ${ \\mathsf { N O } } _ { 2 } ^ { - }$ incubation (a) and of the Ag@AuNPs incubated with $1 0 . 0 \\mu \\mathsf { M } \\mathsf { N } \\mathsf { O } _ { 2 } ^ { - }$ (b). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The redox reaction rate of AuNRs increases with decreasing pH.21 However, the Ag@AuNP system is not stable when the pH value is lower than 1.0.Moreover, $\\mathrm { F e } ^ { 3 + }$ and $\\mathrm { C u } ^ { 2 + }$ can interfere with the $\\mathrm { N O _ { 2 } } ^ { - }$ detection at $\\mathrm { p H } ~ 1 . 0$ because they can also oxidize the Ag@AuNPs nanoparticles at $\\mathrm { p H } ~ 1 . 0$ resulting in a color change (Fig. $\\mathbf { S 1 \\dagger }$ ).Therefore，the $\\mathrm { p H }$ value was fixed at 1.3 for the subsequent experiments. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The color of the Ag@AuNP dispersions in the presence of ${ \\mathrm { N O } } _ { 2 } ^ { - }$ changed stepwise from purple to red when the concentration of CTAB was increased from 5.0 to $1 0 0 ~ \\mathrm { { m M } }$ (Fig. S2at). The color change (Fig. ${ \\bf S } 2 { \\bf a } { \\dagger }$ ）and the decrease of $A / A _ { 0 }$ (Fig. $\\mathbf { S } 2 \\mathbf { b } \\dagger$ ）with increasing CTAB concentration provided two supporting pieces of evidence confirming that the chemical etching process could be accelerated by CTAB,which reduces the electron potential of $\\mathrm { A u B r } _ { 2 } ^ { - } / \\mathrm { A u }$ or $\\mathrm { A u C l } _ { 2 } ^ { - } / \\mathrm { A u }$ to less than $0 . 4 ~ \\mathrm { V } . ^ { 2 2 }$ Considering the solubility of CTAB,its optimal concentration is fixed at $1 0 0 ~ \\mathrm { { m M } }$ in the following study. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Furthermore,the incubation time for Ag@AuNPs and ${ \\mathrm { N O } } _ { 2 } ^ { - }$ was also optimized.The value of $A / A _ { 0 }$ was plotted as a function of the incubation time (Fig. $\\mathbf { S } 3 \\dagger .$ ）(A:the absorbance value at $5 2 6 ~ \\mathrm { n m }$ in the UV-Vis spectra of the Ag@AuNP-based detection systems incubated with ${ \\mathrm { N O } _ { 2 } } ^ { - }$ ; $A _ { 0 }$ ：the absorbance value at $5 3 6 \\ \\mathrm { n m }$ in the UV-Vis spectra of Ag@AuNP-based detection systems without ${ \\mathrm { N O } } _ { 2 } ^ { - }$ incubation).Because the value of $A / A _ { 0 }$ was observed to decrease significantly within $1 5 ~ \\mathrm { m i n }$ and then to remain constant thereafter, the incubation time was fixed at $1 5 ~ \\mathrm { m i n }$ as an optimized value for the subsequent study. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3Selectivity of the $\\mathbf { N O } _ { 2 } ^ { - }$ detection system ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The selectivity of our proposed Ag@AuNP-based detection system for ${ \\mathrm { N O } } _ { 2 } ^ { - }$ was evaluated with the unaided eye and UV-Vis spectra by comparing the results with those obtained with samples containing other ions,including $\\mathrm { C u } ^ { 2 + }$ ， ${ \\mathrm { C o } } ^ { 2 + }$ $\\mathrm { N i } ^ { 2 + }$ $\\mathrm { C r } ^ { 3 + }$ ， ${ \\mathbb { A } } ^ { 3 + }$ $\\mathrm { P b } ^ { 2 + }$ $\\operatorname { C d } ^ { 2 + }$ ， $\\mathrm { C a } ^ { 2 + }$ $\\mathrm { B a } ^ { 2 + }$ $\\mathrm { Z n } ^ { 2 + }$ $\\mathbf { M } \\mathbf { n } ^ { 2 + }$ ， $\\mathbf { M g } ^ { 2 + }$ ， $\\mathrm { F e } ^ { 3 + }$ $\\mathrm { H g } ^ { 2 + }$ ， ${ \\bf A } { \\bf g } ^ { + }$ ， $\\mathbf { K } ^ { + }$ ， $\\mathrm { F } ^ { - }$ ， $\\mathrm { P O _ { 4 } } ^ { 3 - }$ ， $\\mathbf { C _ { 2 } O _ { 4 } } ^ { 2 - }$ ， ${ \\mathrm { S O _ { 3 } } } ^ { 2 - }$ ， $\\mathrm { C O _ { 3 } } ^ { 2 - }$ ， ${ \\mathrm { S O _ { 4 } } } ^ { 2 - }$ ， ${ \\bf N O } _ { 3 } ^ { - }$ and $\\mathrm { A c } ^ { - }$ .Fig.4a shows a photograph of the Ag@AuNP-based detection systems incubated with ${ \\mathrm { N O } } _ { 2 } ^ { - }$ in the presence of $\\mathrm { F e } ^ { 3 + }$ ， $\\mathrm { C u } ^ { 2 + }$ or other ions. Only the sample with ${ \\mathrm { N O } } _ { 2 } ^ { - }$ changed from purple to red.As shown in Fig. 4b, ${ \\mathrm { N O } } _ { 2 } ^ { - }$ is also the only ion whose absorption peak shifted from $5 3 6 \\ \\mathrm { n m }$ to $5 2 6 ~ \\mathrm { n m }$ with an evident decrease of the absorption intensity. These results indicate that the Ag@AuNP etching process can only be induced by $\\mathrm { N O _ { 2 } } ^ { - }$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7d730f58595be2b327c900400afd5a905a4931ba12263ee593f8f1342ac8573e.jpg",
+        "img_caption": [
+            "Fig.4 Selectivity of the Ag@AuNP-based detection system for ${ \\mathsf { N O } } _ { 2 } ^ { - }$ compared with other ions.(a) Photograph of the detection systems incubated with ${ \\mathsf { N O } } _ { 2 } ^ { - }$ （2 $( 2 0 ~ \\mu \\ M )$ $\\mathsf { F e } ^ { 3 + }$ （204号 $( 2 0 ~ \\mu \\mathsf { M } )$ 1 ${ \\mathsf { C u } } ^ { 2 + }$ （2 $( 2 0 ~ \\mu \\ M )$ or other ions $( 2 0 0 ~ \\mu \\mathsf { M } )$ ：(b)UV-Visabsorption spectra of the detection systems incubated with ${ \\mathsf { N O } } _ { 2 } ^ { - }$ $( 2 0 ~ \\mu \\mathsf { M } )$ 1 $\\mathsf { F e } ^ { 3 + }$ $( 2 0 ~ \\mu \\mathsf { M } )$ 1 ${ \\mathsf { C u } } ^ { 2 + }$ $( 2 0 ~ \\mu \\mathsf { M } )$ or other ions （204号 $( 2 0 0 ~ \\mu \\mathsf { M } )$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The selectivity of the Ag@AuNP-based detection system for ${ \\mathrm { N O } } _ { 2 } ^ { - }$ was also verified by investigating the influence of various other ions on the ${ \\mathrm { N O } } _ { 2 } ^ { - }$ -sensing effect. The color of the Ag@AuNP-based detection systems incubated with both ${ \\mathbf { N O } _ { 2 } } ^ { - }$ $\\left( 2 0 ~ \\mu \\mathbf { M } \\right)$ and other single ions ${ \\left( { 2 0 \\ \\mu \\mathbf { M } } \\right) }$ changed from purple to red,which is very similar to that produced in the absence of any other single ion (Fig. S4at).The UV-Vis absorption spectra of the detection systems incubated with $2 0 ~ \\mu \\mathrm { M }$ of ${ \\mathrm { N O } } _ { 2 } ^ { - }$ and $2 0 ~ \\mu \\mathbf { M }$ of other single ions shifted from $5 3 6 \\ \\mathrm { n m }$ to $5 2 6 \\ \\mathrm { n m }$ with an obvious decrease of the absorption intensity.These results are very similar to those of the detection system incubated with $\\mathrm { N O _ { 2 } } ^ { - }$ alone (Fig. S4bt),and thus demonstrate that these various other ions have no influence on the ${ \\mathrm { N O } } _ { 2 } ^ { - }$ sensing effect of our Ag@AuNP-based detection system.This detection system for $\\mathrm { N O _ { 2 } } ^ { - }$ clearly exhibits excellent selectivity. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Concentration of $N O _ { 2 } ^ { - }$ (uM) ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/40a258c1d023b1a1f333a681817ea946575aee6c959f82bdcee4838d333ab3c5.jpg",
+        "img_caption": [
+            "Fig.5Photographic image of the Ag@AuNP-based detection system incubated with various concentrations of ${ \\mathsf { N O } } _ { 2 } ^ { - }$ ranging from 0 to $2 0 0 ~ \\mu \\mu$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4Sensitivity of the $\\mathbf { N O } _ { 2 } ^ { - }$ detection system ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The colorimetric response and UV-Vis absorption spectra were used to evaluate the sensitivity of our Ag@AuNP-based $\\mathrm { N O _ { 2 } } ^ { - }$ detection system.Fig.5 shows colorimetric images of this detection system after incubation with various concentrations of $\\mathrm { N O _ { 2 } } ^ { - }$ from 0.1 to $2 0 0 ~ \\mu \\mathbf { M }$ .Thedetection systems changed from purple to colorless with increasing concentration of $\\mathrm { N O _ { 2 } } ^ { - }$ ，with a limit of detection (LOD) to the naked eye of $1 . 0 ~ \\mu \\mathrm { M }$ ，which is lower than the previously-reported value of $4 . 0 ~ \\mu \\mathrm { M }$ 21 Furthermore,compared with the reported AuNRbased detection system,21 our Ag@AuNP-based detection system has two additional advantages: the detection process is simpler and is fast，without requiring heating,whereas heating is necessary for the previously-reported AuNR-based detection system；and the selectivity is excellent and lacks interference from other ions,whereas interference from $\\mathrm { F e } ^ { 3 + }$ doers occur for the previously-reported AuNR-based detection system. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig. 6a shows the Uv-Vis absorption spectra of the Ag@AuNP-based detection systems incubated with various concentrations of ${ \\mathrm { N O } } _ { 2 } ^ { - }$ .As the concentration of ${ \\mathrm { N O } } _ { 2 } ^ { - }$ was increased from 0 to $1 0 0 ~ \\mu \\mathbf { M }$ ，the UV-Vis absorption spectrum exhibited a blue-shift with a decrease of the absorption intensity due to the change in the morphology of the Ag@AuNPs induced by ${ \\mathrm { N O } } _ { 2 } ^ { - }$ .The LOD of our ${ \\mathrm { N O } } _ { 2 } ^ { - }$ detection system was observed to be $0 . 1 ~ \\mu \\mathbf { M }$ by UV-Vis spectroscopy,which is comparable to that of the AuNR-based detection system.21 The UV absorbance peak at $4 0 0 ~ \\mathrm { { n m } }$ for $\\mathrm { A g N P s } ^ { 2 6 }$ did not appear when the $\\mathrm { N O _ { 2 } } ^ { - }$ concentration was increased (Fig.6a).This may be because the Au shell was thickly and uniformly coated around the Ag core and could not have been etched thoroughly at the $1 0 0 ~ \\mu \\mathbf { M }$ maximum $\\mathrm { N O _ { 2 } } ^ { - }$ concentration of this study. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.6b shows a good linear relationship $\\left( R ^ { 2 } \\ = \\ 0 . 9 9 1 1 \\right)$ between $A / A _ { 0 }$ and ${ \\mathrm { N O } } _ { 2 } ^ { - }$ concentration in the range from 1.0 to $2 0 . 0 ~ \\mu \\mathrm { M }$ (A:the absorbance value at $5 2 6 \\ \\mathrm { n m }$ in the UV-Vis spectra of Ag@AuNP-based detection systems incubated with ${ \\mathrm { N O } } _ { 2 } ^ { - }$ ; $A _ { 0 }$ ：the absorbance value at $5 3 6 ~ \\mathrm { n m }$ in the UV-Vis spectra of Ag@AuNP-based detection systems without $\\mathrm { N O _ { 2 } } ^ { - }$ incubation).This relationship indicates that our detection system may be applied to the quantitative assay of $\\mathrm { N O _ { 2 } } ^ { - }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Taken together,these results indicate that our Ag@AuNPbased detection system is applicable for rapid colorimetric detectionof $\\mathrm { N O _ { 2 } } ^ { - }$ ，with excellentselectivity and high sensitivity. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.5Analysis of common water samples ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To confirm that our ${ \\mathrm { N O } } _ { 2 } ^ { - }$ detection system could be used in practice,it was used to analyze tap water and lake water.As shown in Table1, the amount of ${ \\mathrm { N O } } _ { 2 } ^ { - }$ addedto each of these water sampleswas very similar to the amount detected (by our detection system using UV-Vis spectroscopy),which indicates the feasibility and sensitivity of our $\\mathrm { N O _ { 2 } } ^ { - }$ detection system. These results reinforce our proposal that this detection system can be used for the analysis of $\\mathrm { N O _ { 2 } } ^ { - }$ in environmental samples. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusions ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this study,we developed an improved ${ \\mathrm { N O } } _ { 2 } ^ { - }$ detection system based on a redox etching strategy using CTAB-stabilized Ag@AuNPs. The detection mechanism was verified by using UV-Vis spectroscopy, TEM and XPS.According to the sensing effect, the CTAB concentration, $\\mathrm { N O _ { 2 } } ^ { - }$ incubation time and pH value of the detection system were optimized to be $1 0 0 \\ \\mathrm { m M }$ $1 5 ~ \\mathrm { m i n }$ and 1.3,respectively.Under the optimized conditions, theability of our system to selectively detect $\\mathrm { N O _ { 2 } } ^ { - }$ ，whether with the unaided eye or using Uv-Vis spectroscopy,is excellent compared to the ability to similarly detect other ions.In addition,our Ag@AuNP-based detection system is highly sensitive for ${ \\mathrm { N O } } _ { 2 } ^ { - }$ ，whose LOD is $1 . 0 ~ \\mu \\mathrm { M }$ by eye and $0 . 1 ~ \\mu \\mathrm { M }$ by UV-Vis spectroscopy.A highly linear relationship $( R ^ { 2 } = 0 . 9 9 1 1$ was observed between $A / A _ { 0 }$ and ${ \\mathrm { N O } } _ { 2 } ^ { - }$ ,from $1 . 0 ~ \\mu \\mathrm { M }$ to $2 0 . 0 ~ \\mu \\mathrm { M }$ $\\mathrm { N O _ { 2 } } ^ { - }$ ,which can be used for a quantitative assaying of $\\mathrm { N O _ { 2 } } ^ { - }$ This detection system also exhibits satisfactory performance using samples of water from commonly-occurring sources. Consequently,these results reinforce the applicability of our Ag@AuNP-based detection system for the rapid colorimetric detection of ${ \\mathrm { N O } } _ { 2 } ^ { - }$ in complicated environmental samples. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b76186223e5f0573876f79c0d52a5519f0ff70dd8b08c78d82139c712b07831.jpg",
+        "img_caption": [
+            "Fig.6(a) UV-Vis absorption spectra of the Ag@AuNP-based detection systems incubated withvarious concentrations of ${ \\mathsf { N O } } _ { 2 } ^ { - }$ (b)Plot of $A / A _ { 0 }$ versus ${ \\mathsf { N O } } _ { 2 } ^ { - }$ concentration in the range of $1 . 0 { - } 2 0 . 0 ~ \\mu \\mu \\mu$ (mean $\\pm \\mathsf { S D }$ $n = 3 )$ .A: the absorbance value at $5 2 6 \\ \\mathsf { n m }$ in the UV-Vis spectra of Ag@AuNPbased detection systems incubated with ${ \\mathsf { N O } } _ { 2 } ^ { - }$ $A _ { 0 }$ ：the absorbance value at $5 3 6 \\ \\mathsf { n m }$ in the UV-Vis spectra of Ag@AuNP-based detection systems without incubation with ${ \\mathsf { N O } } _ { 2 } ^ { - }$ . "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/7c3f1de03e512d2fab48c507a84909fe79eceb977e63410fafce515f0d88c543.jpg",
+        "table_caption": [
+            "Table1 Determination of ${ \\mathsf { N O } } _ { 2 } ^ { - }$ in water samples $( n = 3 )$ "
+        ],
+        "table_footnote": [
+            "\" Amount of ${ \\mathrm { N O } } _ { 2 } ^ { - }$ added to samples of commonly-occurring sources of water. $^ b \\mathrm { N O } _ { 2 } ^ { - }$ concentration in these water samples determined by our detection system using Uv-Vis spectroscopy. Calculated from the equation: (detected value with $\\mathrm { N O } _ { 2 } ^ { - }$ addition-detected value without $\\mathrm { \\Delta N { \\overset { \\sim } { O } } } _ { 2 } ^ { - }$ addition)/added value. "
+        ],
+        "table_body": "<html><body><table><tr><td>Sample</td><td>Addeda (μM)</td><td>Detectedb (μM) (mean ± SD)</td><td>Recoveryc (%)</td></tr><tr><td>Tap water</td><td>5.0</td><td>5.41 ± 0.12</td><td>108.2</td></tr><tr><td></td><td>10.0</td><td>8.96 ± 0.24</td><td>89.6</td></tr><tr><td>Lake water</td><td>5.0</td><td>4.23 ± 0.18</td><td>84.6</td></tr><tr><td></td><td>10.0</td><td>7.56 ± 0.11</td><td>75.6</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2 J. C. Fanning, Coord. Chem. Rev., 2000,199,159-179.   \n3 R.Walker,Food Addit. Contam.,Part A,1990,7,717-768.   \n4 S.A. Kyrtopoulos, Cancer Surv.,1989,8,423-442.   \n5 B.Unnikrishnan，S. C. Wei，W. J. Chiu, J. S. Cang, P.H. Hsu and C.C. Huang,Analyst,2014,139,2221-2228.   \n6 L.J.Dombrowski and E.J.Pratt,Anal.Chem.,1972,44, 2268-2272.   \n7 J.M.Doyle,M.L.Miller,B.R.McCord,D.A.McCollam and G.W.Mushrush,Anal. Chem.,2000,72,2302-2307.   \n8 S.Rokushika,F.M. Yamamoto and K. Kihara,J. Chromatogr.,1993,630,195-200.   \n9 G. Yildiz,N. Oztekin,A. Orbay and F. Senkal, Food Chem., 2014,152,245-250.   \n10 Y.H. Cheng，C.W.Kung,L. Y. Chou，R.Vittal and K. C.Ho, Sens. Actuators,B,2014,192,762-768.   \n11 J.J. Jiang,W. J. Fan and X. Z.Du, Biosens. Bioelectron., 2014,51,343-348.   \n12 Y.Wang,E. Laborda and R.G. Compton, J. Electroanal. Chem.,2012,670,56-61.   \n13 United States Environmental Protection Agency,National Primary Drinking Water Regulations: Contaminant Specific Fact Sheets， Inorganic Chemicals，Consumer Version, Washington,DC,2009.   \n14 Z.Wang and L. Ma, Coord. Chem. Rev.，2009,253,1607- 1618.   \n15 Y. Song,W. Wei and X. Qu,Adv. Mater.,2011, 23,4215- 4236.   \n16 R.Wang, F.B.Yu, P.Liu and L. X. Chen, Chem. Commun., 2012,48,5310-5312.   \n17 Z.Y. Zhang,Z. P. Chen，S.S.Wang，C.L. Qu and L.X. Chen,ACS Appl. Mater. Interfaces,2014,6,6300-6307.   \n18 W.L. Daniel, M. S. Han, J. S. Lee and C.A. Mirkin, J. Am. Chem. S0c.,2009,131,6362-6363.   \n19 N.Xiao and C.X. Yu,Anal. Chem.,2010,82,3659-3663.   \n20 J. Zhang, C. Yang,X.L. Wang and X.R. Yang,Analyst,2012, 137,3286-3292.   \n21 Z. P.Chen,Z. Y. Zhang, C.L. Qu, D.W. Pan and L. X. Chen, Analyst,2012,137,5197-5200.   \n22 J.Rodriguez-Fernandez，J.Perez-Juste,P. Mulvaney and L. M.Liz-Marzan,J. Phys. Chem.B,2005,109,14257-14261.   \n23 X.M. Lu, H.Y. Tuan, J. Y. Chen, Z.Y. Li,B.A. Korgel and Y. N. Xia,J. Am. Chem. Soc.,2007,129,1733-1742.   \n24 I.Srnova-Sloufova，F.Lednicky，A.Gemperleand J. Gemperlova,Langmuir,2000,16, 9928-9935.   \n25 R. X. Zou, X. Guo, J. Yang, D. D. Li,F. Peng, L. Zhang, H. J. Wang and H. Yu, CrystEngComm, 2009,11,2797-2803.   \n26 L. J. Miao, J. W. Xin, Z. Y. Shen, Y. J. Zhang, H. Y. Wang and A.G.Wu, Sens. Actuators,B,2013,176, 906-912. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the Program of Zhejiang ProvincialNatural Science Foundation of China (R5110230, LQ13Eo3ooo4)，the National Natural Science Foundation of China (31128007，51203175)，the Hundred Talents Program (2010-735) and the STS program (KFJ-EW-STS-016) of the Chinese Academy of Sciences， the aided program of the Science and Technology Innovative Research Team of Ningbo Municipality (2014B82010)，and the Zhejiang Postdoctoral Maintenance Fund (Bsh1201009). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Notesand references ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1M.J.Hill,Nitrates andNitritesin food and water,Woodhead Publishing Limited,England,1st edn,1996. ",
+        "page_idx": 5
+    }
+]

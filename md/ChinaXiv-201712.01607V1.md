@@ -1,0 +1,249 @@
+# 国际公众科学领域演化路径与研究热点分析
+
+# 张轩慧 赵宇翔
+
+(南京理工大学经济管理学院南京 210094)
+
+摘要：【目的】通过厘清国际公众科学领域的源流与研究现状，为今后该领域的探索提供参考与借鉴。【文献范围】选取Web of Science（WOS)核心数据集作为文献数据来源，以公众科学(Citizen Science)、群智科学(CrowdScience)等关键词以及项目名称进行主题检索，共得到相关文献1796篇。【方法】借助文献计量、社会网络、内容分析等方法，结合可视化工具，对公众科学研究的演化路径、研究热点及国际图书情报学科中公众科学主题的研究现状进行深入分析。【结果】结果表明，随着互联网的发展和各类智能移动终端的普及，群体智慧和开放科学范式受到高度关注，基于群体参与及协作的公众科学研究正处于快速发展阶段。目前的研究热点可以归纳为三个层面，即项目视角、理论方法视角以及参与者视角。此外，尽管以往公众科学的研究主力集中在自然科学领域，但在国际上图书情报学科对于公众科学方向的探索具有起点高、发力强等特点，蕴含很大的发展潜力。【局限】仅使用WOS核心数据集作为数据来源，没有包含领域会议论文，故而数据存在偏差；仅根据关键词进行主题演化分析，没有以全文数据为分析样本。【结论】图书情报领域作为兼具资源管理优势与数据管理优势的传统学科，势必将对公众科学的研究发挥重要作用。
+
+关键词:公众科学文献计量演化路径研究热点图书情报分类号：G250
+
+# 1引言
+
+随着互联网技术的日趋成熟以及各类网络平台的迅猛发展，群体参与的力量和集体智慧得到高度关注,基于互联网开展的众包模式应运而生。公众科学，又称大众科学、群智科学(Crowd Science)、社区科学(CommunityScience)、公众参与式科学研究(PublicParticipation in Scientific Research)，是指包含非职业科学家、科学爱好者和普通志愿者参与的开放科研众包活动[1-3]。通常而言，公众科学是公众作为研究者参与到相关科研活动的过程[4]，其范围包括科学问题探索、新技术发展、数据收集与分析等[5]。关于公众科学的研究，国外学界已经积累了大量的研究成果，并且在理论和实践上都达成了部分共识，而国内该领域的研究仍处于萌芽阶段且方兴未艾。因此，厘清国际公众科学研究的演化路径及研究热点，对于进一步开展公众科学的理论探索和实践发展具有重要作用。鉴于此，本文重点解决如下三个问题:
+
+(1）公众科学领域的研究是如何演化的?(2）公众科学主题的研究热点是什么？(3）公众科学主题在国际图书情报领域的研究现状如何？
+
+针对三个问题，本文选取Web of Science (WOS)核心数据集作为文献数据来源，借助文献计量、社会网络、内容分析等方法，利用可视化工具，对国际公众科学研究文献进行统计分析和内容挖掘。通过分析国际图情领域中公众科学研究的发展现状，为图书情报领域介人公众科学研究的可行性和前景提供借鉴与思考。
+
+# 2 文献来源
+
+# 2.1 检索式设计
+
+1994年,Irwin 等第一次使用"Citizen Science"描述具有专业知识的外行活动[。虽然公众科学作为一个科学术语为人所熟知才不过10多年，但事实上这一概念已具有相当长的历史和社会基础。譬如，在中国，公众及官员跟踪蝗虫爆发并记录数据已经有至少3500年历史[；在美国，创立于1900 年的奥杜邦学会的圣诞节鸟类调查，至今已不间断地持续了117届[8；在挪威，18世纪中叶一位挪威主教创立了神职人员团体,要求成员提供观察数据并且收集自然物体，用于制作历史出版物[9。在这些研究中，研究者对公众参与科研活动的表述倾向于使用“VolunteerMonitoring”、“Community-based Monitoring"、“Participate Science"而非"Citizen Science”。直至目前，依然有部分研究者使用公众观察的数据，但并不会强调这类研究隶属于公众科学。Cooper 等认为从领域规范的角度，凡是在研究中涉及和使用到非科学家贡献生成的数据，都需要在文献中清楚标注"公众科学"这一关键词[10]。此外,随着众包理念的出现，以众包模式为基础，以群体智慧为价值保障的公众科学项目又被研究者称为“群智科学(Crowd Science)”、“众包科学(Crowd-sourcedScience)”。除上述提及的关键词之外，笔者发现，在社会科学领域，部分学者习惯使用“公民科学(CivicScience)"代替"公众科学(Citizen Science)"，但实际上二者并无本质区别。
+
+如上所述，笔者将检索式拟定为： $\mathrm { T S } { = }$ ("citizen scien\*” OR“crowd scien\*” OR“crowd-sourced scien\*" OR“civicscien\*"OR“volunteermonitoring” OR “community-based monitoring” OR“participat\* scien\*" NOT “civic scien\* literacy") OR TI=(public participat\* in scien\*)。
+
+# 2.2 文献数据检索
+
+选取WOS核心数据集的数据库为文献数据来源，采用上述逻辑检索式进行检索。考虑到2017年数据尚不完整，故而仅检索2016年及以前的数据，总共得到检索结果1666条，经过人工筛选，剔除主题与本研究不相关的文献129篇，得到1537篇与主题相符的文献数据作为初步的文献分析池。
+
+此外，仅用以上检索式可能会存在一定的局限性，无法全面反映公众科学在具体项目中的体现。譬如,Ebird是世界范围内的公众科学项目，该项目已经产出近50篇文献科研成果，但并不是每一篇文献都会出现"公众科学"这个关键词。因此，笔者根据Kullenberg等于2016年发表在 $P L O S O n e$ 中的一篇文献给出的公众科学项目发文量排名[11]，选取排名前10 的项目，分别以项目名称进行主题检索，经过人工筛选后，得到检索结果319条作为补充数据。将基础数据和补充数据合并、去重、勘误后，最终得到1796篇文献作为本文的数据分析集合。
+
+# 3国际公众科学的演化分析
+
+# 3.1 文献量演化
+
+时序内学术论文数量的演化是衡量某领域发展的重要指标。通过对1996年-2016年各年度发文量的统计以及线性拟合，将公众科学领域的研究文献划分为三个阶段，如图1所示。
+
+第一阶段为萌芽期(1996-2009)，该阶段的文献量增长缓慢，每年的发文量均小于50 篇，线性拟合斜率
+
+500400 y= 79.5x-159847414R²=0.9441368  
+量300  
+文 1 255  
+发 200 y= 31.6x-63438y= 3.0484x-6086 R²=0.827 168159100 R²=0.871 3 77 980 1 16 20-19-14 32 22 31 441996 1998 2000 2002 2004 2006 2008 2010 2012 2014 2016年份
+
+为3.0484，即每年的文献增长量约为3篇；第二阶段为成长期(2010-2013)，该阶段的文献量显著增长，线性拟合斜率是为31.6，约是萌芽期的10倍；第三阶段为发展期(2014-2016)，该阶段的文献发表量快速增长,线性拟合斜率为79.5，约是成长期的2.5倍。从图1可以看出，2010 年是公众科学文献量演化进程中的转折性节点，2010年之前相关研究数量较少，发展非常缓慢；2010年之后，随着互联网和信息技术的高速发展，基于互联网平台的线上公众科学项目(如 GalaxyZoo)逐渐增多，研究数量也开始呈现显著上升的趋势。正如 2012 年Henderson 在Frontiers in Ecology andtheEnvironment上一期关于公众科学主题专刊的卷首语中提到：公众科学的时代已经到来[12]。
+
+# 3.2 研究领域演化
+
+公众科学作为一个跨学科的研究主题，其研究文献分布在WOS的100个学科和领域中。总体上看，公众科学项目中的公众参与者具有地理分布上的多样性，恰好符合许多自然科学研究对数据样本多样性的需求。因此，现有研究中有 $90 \%$ 以上的文献属于自然科学领域，其中有代表性的细分领域包括生态学、动物学、天文学等。表1显示了在萌芽期、成长期和发展期三个阶段，文献发表数量排名前10的研究领域。可以看出，三个阶段中研究领域的分布并无太大区别，其中，环境科学与生态学、生物多样性、动物学、工程学等学科是公众科学研究的主要阵地。由此可见，公众科学作为群体参与和群体智慧的集中展现,在科学家研究人类生存环境的进程中起到举足轻重的作用。Bonney和Shirk 等在Science上撰文认为，由于公众科学项目在自然资源、生态环境保护等领域的普遍应用，这种形式不仅可以充分利用公众力量进行科研工作，同时还有利于提升公众的科学素养和环保意识[13]
+
+表1公众科学的研究领域分布  
+
+<html><body><table><tr><td>排名</td><td>萌芽期(1996-2009)</td><td>频次</td><td>成长期(2010-2013)</td><td>频次</td><td>发展期(2014-2016)</td><td>频次</td></tr><tr><td>1</td><td>Environmental Sciences & Ecology</td><td>150</td><td>Environmental Sciences & Ecology</td><td>188</td><td>Environmental Sciences & Ecology</td><td>390</td></tr><tr><td>2</td><td>Zoology</td><td>53</td><td>Biodiversity& Conservation</td><td>67</td><td>Biodiversity & Conservation</td><td>167</td></tr><tr><td>3</td><td>Biodiversity & Conservation</td><td>40</td><td>Computer Science</td><td>55</td><td>Science & Technology</td><td>123</td></tr><tr><td>4</td><td>Engineering</td><td>13</td><td>Astronomy & Astrophysics</td><td>47</td><td>Computer Science</td><td>104</td></tr><tr><td>5</td><td>Physical Geography</td><td>11</td><td>Zoology</td><td>47</td><td>Zoology</td><td>82</td></tr><tr><td>6</td><td>Life Sciences & Biomedicine</td><td>10</td><td>Engineering</td><td>44</td><td>Engineering</td><td>64</td></tr><tr><td>7</td><td>Marine & Freshwater Biology</td><td>9</td><td>Science & Technology</td><td>36</td><td>Physical Geography</td><td>53</td></tr><tr><td>8</td><td>Water Resources</td><td>8</td><td>Education & Educeational</td><td>27</td><td>Marine & Freshwater Biology</td><td>50</td></tr><tr><td>9</td><td>Public,Environmental & Occupational Health</td><td>8</td><td>Marine & Freshwater Biology</td><td>22</td><td>Astronomy & Astrophysics</td><td>43</td></tr><tr><td>10</td><td>Mathematics</td><td>7</td><td>Life Sciences & Biomedicine</td><td>19</td><td>Remote Sensing</td><td>41</td></tr></table></body></html>
+
+笔者选取CiteSpace 的时区视图(timezone)对公众科学研究领域的演化进行可视化分析[14]。图2从时间维度清晰地展示了公众科学研究领域的演化，包括每个节点的更新及相互影响。为了保证节点更新的细节,笔者将排名位列前10的研究领域的节点从可视化图中去除，一方面，这些节点几乎占据视图的所有时区,影响视觉效果；另一方面，这些节点在公众科学研究的每一阶段都占据重要阵地，因此，对于研究领域的演化分析并无多大意义。20世纪90年代，随着康奈尔大学申请的“公众参与的鸟类学"项目被美国国家自然科学基金立项后，公众科学这一新兴术语逐渐进入大众的视野[15]。随后，其他领域相继使用公众科学作为研究手段辅助其进行科学研究，譬如海洋与淡水生物学领域利用公众的力量进行海洋监测[16]；进化生物学领域采用公众对蝴蝶观察的数据进行物种进化研究[17]等。与此同时，教育学领域也开始探讨公众科学给社会和个人带来的教育意义[18]。2010 年后，互联网的发展及各类移动智能终端的普及给公众科学的研究带来巨大变革，计算机科学领域与公众科学领域突显出较强的研究交叉性，公众科学项目从以往传统的线下项目，逐渐演化为线上线下相结合的项目，甚至衍生出一些完全可以在线上完成的项目。此外，近几年崛起的数字人文领域的研究[19-20]，对公众科学项目的实施也有了更多迫切的现实需求。
+
+EQOMMUNICATIONS OBECS NEURSBCINOES&NEUROLOGY ENTOMOLOGY BIOBIAGHEMISTRY&RMOLECULARBIOLOGY FTS电NSTRUMENTATION GOGYGY & ATMOSPHERIC SCIENCES CEDUCATIN& EDUCATIONAL RES REYOLUTIONSRYBIOLOGY 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
+
+究主题[21]。WOS 数据库中的文献包含两类关键词：作者关键词(AuthorKeywords)和关键词加(Keywords Plus)。在文献计量分析时，关键词加和作者关键词对于某领域知识结构的展现可以产生同等效力；但在文献内容分析时，作者关键词对于文献内容概括的准确性要优于关键词加[22]。因此，笔者选取作者关键词进行公众科学的主题演化分析。利用Python语言对关键词进行整理、去重和统计，共得到4788个关键词。按照萌芽期、成长期、发展期三个阶段对每个阶段出现的关键词进行词频统计及共现统计。结果显示：萌芽期关键词841个，关键词两两共现949次；成长期关键词1511个，关键词共现1580次；发展期关键词3123个，关键词两两共现5534次。表2显示了三个阶段中公众科学领域的高频关键词，结合上述的词频及共现统计结果，可以看出，公众科学的主题分布广泛，并且各主题间的交织不断深化。
+
+# 3.3 主题演化
+
+关键词是文献内容的精髓，代表了学术文献的研
+
+表2公众科学的高频关键词分布  
+
+<html><body><table><tr><td>排名</td><td>萌芽期(1996-2009)</td><td>频次</td><td>成长期(2010-2013)</td><td>频次</td><td>发展期(2014-2016)</td><td>频次</td></tr><tr><td>1</td><td>citizen science</td><td>33</td><td>citizen science</td><td>148</td><td>citizen science</td><td>386</td></tr><tr><td>2</td><td>north American breeding bird survey</td><td>23</td><td>monitoring</td><td>21</td><td>crowdsourcing</td><td>54</td></tr><tr><td>3</td><td>breeding bird survey</td><td>16</td><td>climate change</td><td>17</td><td>biodiversity</td><td>34</td></tr><tr><td>4</td><td>monitoring</td><td>13</td><td>north American breeding bird survey</td><td>14</td><td>climate change</td><td>33</td></tr><tr><td>5</td><td>volunteer monitoring</td><td>12</td><td>invasive species</td><td>13</td><td>conservation</td><td>28</td></tr><tr><td>6</td><td>community-based monitoring</td><td>11</td><td>crowdsourcing</td><td>13</td><td>monitoring</td><td>27</td></tr><tr><td>7</td><td>biodiversity</td><td>9</td><td>data quality</td><td>13</td><td>phenology</td><td>21</td></tr><tr><td>8</td><td>birds</td><td>8</td><td>conservation</td><td>12</td><td>invasive species</td><td>18</td></tr><tr><td>9</td><td>conservation</td><td>8</td><td>biodiversity</td><td>12</td><td>distribution</td><td>18</td></tr><tr><td>10</td><td>species richness</td><td>7</td><td>community-based monitoring</td><td>10</td><td>ebird</td><td>17</td></tr><tr><td>11</td><td>surveys</td><td>6</td><td>birds</td><td>10</td><td>species distribution models</td><td>17</td></tr><tr><td>12</td><td>population trends</td><td>6</td><td>guideline</td><td>9</td><td>community-based monitoring</td><td>16</td></tr><tr><td>13</td><td>common birds census</td><td>5</td><td>education</td><td>8</td><td>public participation in scientific</td><td>13</td></tr><tr><td>14</td><td>trends</td><td>5</td><td>phenology</td><td>7</td><td>research volunteered geographic information</td><td>13</td></tr><tr><td>15</td><td>locally-based monitoring</td><td>5</td><td>lepidoptera</td><td>7</td><td>north American breeding bird survey</td><td>13</td></tr><tr><td>16</td><td>invasive species</td><td>4</td><td>distribution</td><td>7</td><td>remote sensing</td><td>13</td></tr><tr><td>17</td><td>landscape</td><td>4</td><td>surveys</td><td>6</td><td>big data</td><td>13</td></tr><tr><td>18</td><td>abundance</td><td>4</td><td>volunteers</td><td>6</td><td>participation</td><td>12</td></tr><tr><td>19</td><td>sustainability</td><td>4</td><td>meta-analysis</td><td>6</td><td>migration</td><td>12</td></tr><tr><td>20</td><td>participatory monitoring</td><td>4</td><td>participatory sensing</td><td>6</td><td>data quality</td><td>12</td></tr></table></body></html>
+
+笔者采用武汉大学王晓光教授团队开发的网络社区演化分析软件 NEViewer[23]对公众科学的主题演化进行可视化分析。该软件基于社区主题表示算法和社区相似度匹配算法，不仅可以实现主题表示、主题识别和主题判断，还能以可视化的方式展现科研主题的演化历程[23]。笔者将处理过的数据导人NEViewer，得到公众科学的主题演化图。图3显示了萌芽期、成长期、发展期三个阶段的主题演化过程，每一个热点社区对应一个色块，色块面积和该社区所包含的关键词个数呈正比，面积大的即表示学者们对该主题的关注度高。总体来看，随着时间的推移，公众科学的研究主题越来越多，有分裂也有合并现象，反映出公众科学研究主题在演化过程中的延续及交叉；部分热点社区没有延续，说明一些主题仅在某一阶段被学界所关注。具体而言，萌芽期共形成8个热点社区，其中 4个与鸟类有关，说明公众科学领域在这一时期致力于研究鸟类的监测与保护，这与表2中萌芽期的高频关键词相吻合；成长期的热点社区是萌芽期两倍，并且出现"众包”、“数据质量”、“志愿者”、“教育"等高频关键词，说明学者们开始深入探究公众科学的运作机制;发展期的研究主题分布更加广泛，“大数据"关键词的出现体现出学者们对基于海量数据开展的公众科学项目的需求，以及重视公众科学在大数据环境下的理论、方法及实践探索。值得注意的是，“众包"是近几年公众科学领域关注的热点，基于众包模式的公众科学项目打破了传统科研的组织边界，利用群体智慧在科研任务上开展跨时间、跨空间、跨领域的创新协同。由此可见，伴随着计算机网络的发展以及大数据时代的到来，公众科学研究不断扩展其研究的广度与深度，经历了从简单到复杂的演化过程
+
+隐藏标签   
+citizen science,volunteer monitoring;conseivation citizen science ;sustainability;bias citizen science;data quality;capture-recapture rortharnerican breeding bird suivey;landscape;hierarchical models north american breeding bird suvey;biodiversity;birds breding birdsuiveyavianecology,monarchbuerfly   
+ortharnericanbreedirgbirdsurv y:monitoringbirds breeding bird suveyjnvasive species:hierarchical models monitoring;trends,invasive species monitoring;population trend,volunteers volunteer monitoring;community-based monitoring,modis   
+breeding bird suivey;biodiversity:species richnes volunteer monitoring;community-based monitoring;conseivation biodiversity,sustainabilityyolutees rveys, analysis galaxies: general birds;species ricess;abundance landscape;habitat;spatial autocorrelation conseivation;suveys;population trends   
+coil urbanization;local ecolbgical knowledge,community structure detectionprobabilityspecies distnbutionmodeldonata   
+common birds census;population trend;farmland birds climate change;phenologyforst   
+abundance;communitydynamics;detection probability climate change ,macroecology,phenology sienceledgeecosystemsices   
+community monitoring;community;waterwatch community,education;database itiznhn water quality collaboiationvisualization,datacollection   
+ebird;conservation strategies:scale-dependent analysis south africa;guideline,neta-analysis citizen scientist;participatory researchppen source 1996-2009 2010-2013 2014-2016
+
+# 3.4科研机构的合作演化
+
+科研合作已经成为科学研究成果增长和创新的强劲动力，科学研究中的合作关系已经成为影响科学生产能力发挥的重要因素[24]。科研机构合作网络是指为了研究某一学术领域的发展变化，高校以及科研院所之间所构造的一个通过文献相互联系的网络[25]。通过对三个阶段高产科研机构的合作网络进行社会网络分析，揭示公众科学领域中知识交流、扩散、演化的特点。表3显示了三个阶段中发文量排名前10的高产机构，可以看出：萌芽期阶段，高校与科研院所在发文量方面几乎平分秋色;
+
+成长期和发展期阶段，高校的成果产出量明显提升。
+
+笔者使用社会网络分析软件Ucinet的中间中心度(BetweennessCentrality)对机构合作网络进一步分析，并用NetDraw进行可视化呈现。中间中心度表征着某个节点对网络中资源控制的程度，某节点中间中心度越高，说明该节点越多地占据资源和信息流通的关键位置。图4显示了公众科学在萌芽期、成长期、发展期三个阶段的科研机构合作网络。总体上看，公众科学领域的跨机构合作程度越来越高，机构间的合作越来越紧密，合作的中间中心度由高度集中趋于平均。
+
+表3公众科学科研机构分布  
+
+<html><body><table><tr><td>排名</td><td>萌芽期(1996-2009)</td><td>发文量</td><td>成长期(2010-2013)</td><td>发文量</td><td>发展期(2014-2016)</td><td>发文量</td></tr><tr><td>1</td><td>British Trust Ornithol</td><td>18</td><td>Cornell Univ</td><td>35</td><td>Cornell Univ</td><td>50</td></tr><tr><td>2</td><td>US Geol Survey</td><td>16</td><td>Yale Univ</td><td>25</td><td>US Geol Survey</td><td>46</td></tr><tr><td>3</td><td>Cornell Univ</td><td>13</td><td>Univ Wisconsin</td><td>25</td><td>Univ Oxford</td><td>41</td></tr><tr><td>4</td><td>US Fish & Wildlife Serv</td><td>13</td><td>Univ Washington</td><td>18</td><td>Univ Washington</td><td>31</td></tr><tr><td>5</td><td>Univ Minnesota</td><td>9</td><td>Univ Oxford</td><td>17</td><td>Univ Wisconsin</td><td>29</td></tr><tr><td>6</td><td>US Forest Serv</td><td>7</td><td>Adler Planetarium</td><td>17</td><td>Univ Queensland</td><td>28</td></tr><tr><td>7</td><td>N Carolina State Univ</td><td>7</td><td>Univ Calif Davis</td><td>15</td><td>Univ Arizona</td><td>26</td></tr><tr><td>8</td><td>USGS</td><td>7</td><td>US Geol Survey</td><td>15</td><td>Univ Oklahoma</td><td>26</td></tr><tr><td>9</td><td>Michigan State Univ</td><td>7</td><td>Univ Maine</td><td>13</td><td>Univ Minnesota</td><td>24</td></tr><tr><td>10</td><td>Univ Arizona</td><td>6</td><td>CornellLab Ornithol</td><td>13</td><td>Univ Calif Los Angeles</td><td>23</td></tr></table></body></html>
+
+Univ Washington Univ Okdahoma NOAA \*5 Amniv CateTdvers Inst 萌芽期 Univ British sheresadceascna Clemson Univ 成长期 Royal Vet & Agr Univ gon State Univ USGeol Survey Univ Fed Bahia NORDECOUnivCamng Fundacao Oswaldo Cruz -Unvuox kent Roya Tousrotect Girds Amer Unv Berut EnvironmCanada Univ Uni Univ Wisconsin Chinese Acad Sci UnivSheffien Norwegian Univ Sci& Technol Carleton Univ BaylorColMednivForida elU owaStateUnNJnvMandand OUS ForesMichigan State Univ G Univ Toronto USGS 香 UnivHawa Univ Munich NCarolna Stacca nadianWldifeSeryArizona NERC Ctr Ecol&Hy Hist M 3 OxteETHstrophys Univ Gottingen Fisheries & Oceans Canada LCornel Univ \*Duke Univ Us Geol Survey US Fish & Wldife Se RothamstedRe 1 Jniv E UnvOxfordUnivCalfSantaBarba Jniv Alabama\* Kinikum Saarbrucken GGmbH a BarunrYUn Bochum JunryFage Univ Wisconsin OregonStateUniv 10 武 Oklahoma State Univ Univ Brtish Columbia Museum Natl Hist Nat Univ Marburg Univ Cambridge Univ BolognaCNR Trout Unltd 发展期 UCL Univ Southampton Aarhus Univ INRA Univ Oklahoma StochomUousianaStateUnivfLosAngeles UnivCapeTown RutgersState Univ Oklahoma State Univ JnivKent CNRS Univ SussexUniv Zunch Univ CambridNeASA UnCl Sveshu 号 Univ Exeter ButterflyConservat UnivMichiga CtrEcol&Hydrol AdlerPlanetarium USUnv WisconsnTexas A&MUnivicodife Serv Univ Nnttinch UnivYork UnNUnivEdnburghth NCaroPNatlPkSeryivIdaho Int Inst Appl Syst AnalX YUniv_Arizona Univ NCarolna Natl Audubon Soc NERCCtrEcol&HydroFadng UniyLondonmpaCoSecleaUn NewcOxfordAstrophys GeorgeMasonUnesseteUnUn UnivFlorida NatureConservancy Univ_Missouri N Environm Canada Vrije Univ Amsterdam UnivTwente McGilUniv/ Florida State Univ' Penn UnivAberta Univ Meboume Wageningen Univ Univ Delaware Univ QueDuke UoUniv Montrea James Cook Univ Australian Nat IIniv Deakin Univ Univ Maine
+
+具体来说，萌芽期中间中心度最高的是USForestService(Betweenness $\ c =$ 478.83)，其次是 Montana StateUniversity(Betweenness $\scriptstyle = 3 3 8$ )，British Trust Ornithol(Betweennes: $\scriptstyle \mathbf { s } = 2 3 9$ )，说明这几个机构掌握了较多的研究资源。同时，萌芽期的机构合作网络呈两级分化态势，离散程度较高(Mean $_ { 1 } = 2 5$ ， Std $\mathrm { D e v } { = } 7 6 . 6 \$ ，说明该时期的研究资源仅集中在少部分机构中，并且这些机构大部分属于科研院所；成长期中间中心度最高的是
+
+Univ Calif Los Angeles(Betweennes $\mathord { \mathrm { \ s } } = 5 9 0 . 2 1$ )，其次是UnivOxford(Betweenness $\scriptstyle \operatorname { s } = 4 5 2 . 3 7 .$ ，UnivWisconsin(Betweenness $\scriptstyle \mathrm { s = } 4 4 7 . 6 4 \$ 以及CornellUniv(Betweenness $\ c =$ 430.11)，意味着掌握较多研究资源的机构已经从科研院所转向世界顶尖高校；发展期中间中心度最高的是Univ Oxford(Betweenness=450.19)，其 次 是 UnivQueensland(Betweennes $\scriptstyle 1 \leq 3 7 6 . 6 7$ )，Oregon State Univ(Betweenness $\scriptstyle \mathfrak = 3 0 8 . 0 5$ 以及CornellUniv(Betweenness $\ c =$ 276.99)，说明世界顶尖高校依然占据资源和信息流通的关键位置。同时，发展期机构合作网络的资源连通性较好，并且资源分布更加分散。
+
+# 4国际公众科学的研究热点分析
+
+关键词共现可以有效地反映学科领域的研究热点，为科学研究提供辅助支持[26]。利用VOSviewer 的密度可视化功能绘制公众科学关键词共现图谱，如图5所示，共得到聚类12个，每个聚类代表公众科学领域的一个研究热点，颜色越深代表研究越密集。笔者将公众科学的研究热点大致分为三类：一是将公众科学作为解决自然生态问题的工具，即公众科学的项目视角，代表关键词有"monitoring""birds""biodiversity""phenology"等；二是将公众科学视作方法论的范式,即公众科学的理论方法视角，代表关键词有“crowdsourcing""education""data quality"等；三是将参与者作为研究的主体，即公众科学的参与者视角，代表关键词有“citizenscientist""training"community-based monitoring"等。
+
+ecosystem services participatory sensing danaus plexippus urban ecology database occupancy models butterflies land use urban 2 blicengagement mobile sens restoration growdsourcing migration outreacheducation big d Sta desig'environmentalmo population trends ecology forest remotesensing lataquality agement spatial al uncertaintpublic partic tion inscient climate collaboration br ng bird survey habitat biodiversity scientific literacy landscapeCitizen SCiencetraining environmental health birds bayesian abundance phenolog1 stainability   
+markovchanmontecarlo agtriculture monitoring community-based monitoring   
+north arnerican breeding bird s lepidoptera indicators rougspecies distributionmodels lifehiste streannatural resourc management surveillance distribution invasive species bias invasion occupancy biogeography volunteer participatory monitoring detection ecological monitoring locally-based monitoring population trend urbanization dispersal survey deoo new zealand biodiversity monitoring trend analysis
+
+# 4.1基于项目视角的公众科学研究
+
+公众科学的项目实践探索早在理论探索之前就已经存在，且至今仍是该领域的研究热点。在过去20 年中，出现了一些规模大且持久性强的公众科学项目，譬如，由康奈尔大学和奥杜邦学会于2002 年联合创立的EBird项目，致力于收集空间和时间尺度上的鸟类分布数据，截至2016年11月，超过33万个用户提交了超过2600万份清单，超过3.66亿次观察结果，以及超过10 300 种物种的数据[27]；由牛津大学和约翰霍普金斯大学等机构于2007年联合发起的“星系动物园"(Galaxy Zoo)活动，邀请公众协助天文学家对上百万星系进行线上分类，目前的参与人数已超过100万人[28]；由华盛顿大学于 2008 年创立的折叠蛋白质(Foldit)游戏，以游戏的方式吸引公众在消遣的同时为蛋白质研究做出贡献[29]等。公众科学的实践探索涵盖环境学、生态学、动植物学、天文气象学、人文学等众多领域，公众在参与过程中积累了大量有科学和应用价值的数据，为科学家的进一步研究提供有力保障。
+
+# 4.2基于理论方法视角的公众科学研究
+
+关于公众科学的理论探索，已有一些文献就这一主题进行了系统讨论。Wiggins和Crowston对现有的公众科学任务进行分类，并试图对其发展进行理论化的总结与分析[30]。发表在 2014 年 Science 上的文章“Next Steps forCitizenScience"指出，战略性投资和协同机制是未来公众科学充分发挥潜力的两大法宝[13]。Newman等认为未来的公众科学需要成立项目小组协同政府部门、企业、协会、期刊、以及网络基础设施等，共同打造更好的公众科学服务模式，并提出网络化、开放科学和游戏化机制是成功实施公众科学的有效工具[31]
+
+与此同时，一些学者重点对公众科学的类型及特征进行归纳总结。相较于传统科研项目，在公众科学中，开放性、参与性和互动性是此类项目开展的前提和基础，科研工作不仅仅是科学家的任务，同时也可以借由大众参与的力量得以实施和完善[32]。项目的流程设计和运作管理也更为灵活，尤其是面对一些跨学科跨领域的研究主题，公众科学范式能够在很大程度上调动群体智慧的碰撞和融合，并产生意想不到的效果[33-34]。Bonney 等将公众科学项目划分为三个主要类型：贡献型(Contributory)、协作型(Collaborative)和共创型(Co-creative)[1]。随后，Shirk 等提出公众科学项目的5种类型，即契约型项目(ContractualProjects)、贡献型项目（ContributoryProjects）、协作型项目(CollaborativeProjects)、联合创新型项目(Co-createdProjects)和共议型项目(Collegial Projects)[35]。
+
+# 4.3基于参与者视角的公众科学研究
+
+公众科学作为群体智慧的具体体现，其鲜明特征是大众的广泛参与和持续参与[36。目前，关于公众科学的参与者研究可以总结为三类：动因；群体动力;理解和体验[37]。动因方面,Rotman 等将志愿者参与公众科学项目的激励动因划分为4类，分别为利己性激励动因、集体性激励动因、利他性激励动因和原则性激励动因[38];Sauermann 和Franzoni探讨了公众科学项目中参与者的贡献模式，按照工作时长、贡献数量、工作频率等为指标对参与者的贡献行为进行分类，并提出不同的激励策略[39]。群体动力方面,Massung 等评估了激励因素的影响，发现社会同行的反馈可以作为参与者强有力的激励工具，同时提高群体工作意识，将这种新行为视为“社会规范"有助于加快公众科学项目的传播[40]。理解和体验方面,Thomas 等认为帮助公众更好地理解科学，培养其科学素养，是公众科学的重要目的[41]；同时,Parsons 等在 Nature杂志上撰文认为，越简单的任务设计越能增加参与者数量和质量[42]。这里的简单指的是对于参与者而言公众科学项目
+
+的任务不能过于复杂冗余。
+
+此外，还有学者从游戏化模式的角度对公众参与和激励提出建议[43-44]。譬如,Bowser 等发现游戏化设计能够帮助激发用户在参与公众科学过程中的灵感[45]。游戏化元素能让用户在认知、情感和社交上有所收获[46,也能为科学研究带来更多潜在利益，包括用户参与的自发性、用户数据的可跟踪性、任务的可控性以及数据质量等[47]。Prestopnik 和 Tang从游戏化设计角度出发，探讨不同的游戏化设计方法对公众科学项目中用户体验和参与意向的影响[48]。
+
+# 5国际图书情报学科关于公众科学的探索
+
+# 5.1 实践探索
+
+传统图书馆的资源采集、组织等工作通常是由专业的图书馆员完成，具有一定的专业性。随着数字图书馆的兴起以及海量数字资源的涌现，图书馆不得不借助大众的力量来完成资源采集、组织等工作。在这一背景下，图书情报界对于公众科学的实践，进行了诸多尝试。譬如，特色馆藏资源的数字化录入，代表项目为：伦敦大学图书馆的边沁手稿录人(TranscribeBentham)项目。该项目将哲学家、改革家边沁的约6万页未发表的手稿以图片形式发布至项目平台，招募公众对图片上的文字内容进行人工录人[49]。数字图书的在线标注，代表项目为：生物多样性历史文献图书馆的图书标注，基于众包模式的在线图书标注项目旨在招募公众为图书中的某一篇文章进行著录、标引,从而满足不同读者对单篇文章的个性化需求[50]。同时,还有一些基于投票选择的元数据制定项目，典型代表为：南洋技术图书馆的中国旗袍元数据选择。项目将众多描述艺术品的元数据组成元数据集，用户依照每个旗袍的特点从中选择出最合适的元数据，按照用户选择数量多少的排序，形成最终的元数据采纳方案[51]。除了利用自身的馆藏优势作为公众科学项目的发起方，另外有一些图书馆则利用自身的平台优势及专业优势作为公众科学项目的中介服务方。譬如田纳西大学图书馆提出图书馆参与公众科学项目的方案[52]。
+
+由此可见，具有平台优势、资源优势以及专业优势的现代图书馆机构，将在未来公众科学的发展进程中扮演越来越重要的角色[15]。
+
+# 5.2 理论研究探索
+
+2009年后，国际图书情报学界开始探索公众科学的相关研究，研究成果主要分布在：以Computers inHuman Behavior，International Journal ofHuman-ComputerInteraction为代表的计算机、人机交互领域的期刊；以Journal of the Association for InformationScience and Technology， International JournalofGeographicalInformationScience为代表的信息科学领域的期刊。由此可见，图情领域关于公众科学的研究虽然尚处于起步阶段，但大部分研究成果都发表在领域内的顶级期刊，具有起点高、发力强等特点，蕴含很大的发展潜力。此外，对图书情报领域的公众科学研究进行内容分析可知，这类研究具有鲜明的图书情报学科特征。
+
+从资源组织角度，随着公众科学项目的与日俱增学者们不仅关注项目本身的优势，而且认识到公众科学在资源组织方面面临的巨大挑战。在人力资源方面，Vasileiadou认为很多公众科学项目都存在组织能限的问题，例如没有优秀的领导者，无法调动公众参与的积极性等，这些问题都会导致项目的最终失败[53]。这与公众科学领域的著名学者Bonney 等的观点相一致,他认为成功的公众科学项目需要有一个优秀的全职人员对参与者进行管理[54]。同时，在信息资源方面,Rotman等通过对“百科全书"(EOL)的深入案例研究，探讨了创造和维持大规模“内容管理社区"的挑战，结果有两大类挑战：信息整合和社会融合。信息整合的挑战包括：适应多种分类来源，以及将传统的同行评议与用户生成的非同行评议内容相结合；社会融合的挑战包括：建立科学界开放获取资源的信誉，促进专家与新手之间的协作[55]
+
+从数据的角度，公众科学项目从初步的数据采集到科研数据的管理，再到数据的分析与应用，数据贯穿于整个公民科学项目流程。Williamson等表示由于数据密集型科学中数据的重要性日益增加，公民科学家数据共享的系统研究将对科学做出重大贡献[56]。然而，面对科研数据类型的增加，以及数据质量、分辨率的不断提高，对于建设一个开放存取的集成数据库将提出更高的要求[57]。开放存取、数据共享对科学成果的传播起到积极的作用，同时也体现出公众科学取之于民、用之于民的根本精髓。
+
+从信息构建的角度，公民科学平台已经成为志愿者收集和报告数据的常用方式，在这种情况下，平台作为与志愿者直接交互的对象，其信息组织方式及界面设计等因素起到了至关重要的作用。Newman等从可用性、易用性出发，考察了用户对于公众科学平台的满意度，并根据用户的反馈不断对平台进行改进[58];Greenhill等从社区互动和游戏化设计元素出发，考察了用户参与在线公众科学项目的动机[59]。同时，随着智能手机越来越多地被志愿者用来收集数据，也有一些人机交互领域的学者正在关注移动设备的开发、设计和使用对用户参与公众科学的影响[60]。
+
+综上所述，图书情报学与公众科学都是与资源、数据、信息密不可分的领域，二者随着互联网的发展及大数据的兴起逐渐交织、融合。将图书情报学科以用户为中心的理念思想融人到公众科学的项目构建中，可以进一步促进二者的协同发展。
+
+# 6结语
+
+本文对公众科学的演化路径、研究热点及国际图情领域的公众科学研究现状进行分析。研究发现，从公众科学的演化路径看，自然科学领域研究对数据样本多样性的需求催生了公众科学的产生，移动网络的发展及智能设备的普及加速了公众科学的发展。从公众科学的研究热点看，基于公众科学项目的实践研究是该领域的传统性研究，持续受到学者们关注。随着实践探索的深入，公众科学的研究亟需理论体系的支撑，因此，理论方法的研究也逐渐受到重视。此外，志愿者和公众科学家作为项目的主要参与力量，对其动因、态度和行为的研究也是不可或缺的主要部分。从国际图情领域公众科学的研究现状看，虽然目前关于公众科学的研究刚刚起步，但其研究成果大部分发表在领域内的国际顶级期刊中，蕴含很大的发展潜力。
+
+与此同时，我国公众科学的理论研究与实践探索尚处于起步阶段。在理论方面，大多学者对公众科学基本理论问题，如内涵、运作机制等尚未达成共识，且对公众科学的理解不够深入；在实践方面，我国成功开展的公众科学项目屈指可数，并且大部分仍然停留在数据采集的阶段，对于科学知识的发现与普及并没有取得阶段性进展。由此可见，我国公众科学的研究任重而道远，图书情报领域作为兼具资源管理优势与数据管理优势的传统学科，势必将对公众科学的研究发挥重要作用。
+
+# 参考文献：
+
+[1]Bonney R,Ballard H, Jordan R,et al. Public Participation in Scientific Research:Defining the Field and Assessing Its Potential for Informal Science Education. A CAISE Inquiry Group Report[R]. Online Submission,2009:58.   
+[2]牛毅冲，赵宇翔，朱庆华．基于科研众包模式的公众科学 项目运作机制初探—以 Evolution MegaLab 为例[J]．图 书情报工作,2017,61(1):5-13.(Niu Yichong,Zhao Yuxiang, Zhu Qinghua. Exploring the Operation Mechanism of Research Crowdsourcing Oriented Citizen Science Project: Taking Evolution MegaLab as a Case[J].Libraryand Information Service,2017,61(1): 5-13.）   
+[3]张健，陈圣宾，陈彬，等．公众科学：整合科学研究、生态 保护和公众参与[J]．生物多样性，2013，21(6):738-749. (Zhang Jian, Chen Shengbin,Chen Bin,et al. Citizen Science: Integrating Scientific Research, Ecological Conservation and Public Participation[J].Biodiversity Science,2013,21(6): 738-749.)   
+[4]Conrad C C, Hilchey K G.A Review of Citizen Science and Community-Based Environmental Monitoring: Issues and Opportunities[J]. Environmental Monitoring & Assessment, 2011,176(1-4): 273-291.   
+[5]Miller-Rushing A，Primack R，Bonney R.The History of Public Participation in Ecological Research[J].Frontiers in Ecology & the Environment,2012,10(6): 285-290.   
+[6]Irwin A, Georg S,Vergragt P. The Social Management of Environmental Change[J]. Futures,1994,26(3): 323-334.   
+[7]Tian H, Stige L C,Cazelles B,et al. Reconstruction of A 1,910-y-long Locust Series Reveals Consistent Associations with Climate Fluctuations in China[J]. Proceedings of the National Academy of Sciences,2011,108(35): 14521-14526.   
+[8]Christmas Bird Count [EB/OL].[2017-05-12]. http://www. audubon.org/conservation/science/christmas-bird-count.   
+[9]Brenna B.Clergymen Abiding in the Fields: The Making of the Naturalist Observer in Eighteenth-Century Norwegian Natural History[J]. Science in Context, 2011,24(2): 143-166.   
+[10]Cooper C B,Shirk J,Zuckerberg B.The Invisible Prevalence of Citizen Science in Global Research:Migratory Birds and Climate Change[J].PLoS One,2014,9(9): e106508.   
+[11] Kullenberg C,Kasperowski D.What is Citizen Science? - A Scientometric Meta-Analysis [J].PLoS One,2016,11(1): e0147152.   
+[12]Henderson S.Citizen Science Comes of Age[J]. Frontiers in Ecology and the Environment,2012,10(6): 283.   
+[13]Bonney R,Shirk JL,Phillips T B,et al. Next Steps for Citizen Science[J]. Science,2014,343(6178): 1436.   
+[14] 陈超美，陈悦，侯剑华，等.CiteSpace ⅡI：科学文献中新趋 势与新动态的识别与可视化[J]．情报学报，2009, 28(3):401-421.(Chen Chaomei, Chen Yue,Hou Jianhua,et al. CiteSpace II: Detecting and Visualizing Emerging Trends and Transient Patterns in Scientific Literature[J]. Journal of the China Society for Scientific and Technical Information,2009, 28(3): 401-421.)   
+[15]黄敏聪．公民科研的兴起及图书馆的角色[J]．图书情报工 作,2014,58(14):59-62.(Huang Mincong.Rising Tide of Citizen Science and Rolesof Libraries[J].Library and Information Service,2014,58(14): 59-62.)   
+[16] Reinoso J.Meaningful Marine Monitoring: The Three R's to Responsible Stewardship[C]//Proceedings of California& the World Ocean. ASCE,2011: 630-636.   
+[17]Ries L,Mullen S P.A Rare Model Limits the Distribution of Its More Common Mimic:A Twist on Frequency-Dependent Batesian Mimicry[J].Evolution,2008,62(7):1798-1803.   
+[18] Lepczyk C A, Boyle O D, Vargo TL,et al. Symposium 18: Citizen Science in Ecology: the Intersection of Research and Education[J]. Bulltin of the Ecological Society of America, 2009,90(3): 308-317.   
+[19]Berry D M.Introduction: Understanding the Digital Humanities [A]// Understanding Digital Humanities[M]. Palgrave Macmillan UK, 2012.   
+[20] Sula C A.Digital Humanities and Libraries: A Conceptual Model[J].Journal of Library Administration,20l3,53(1): 10-26.   
+[21]王晓光．科学知识网络的形成与演化(I)：共词网络方法 的提出[J]．情报学报，2009，28(4):599-605．（Wang Xiaoguang.Formation and Evolution of Science Knowledge Network(I):A New Research Method Based on Co-word Network[J]. Journal of the China Society for Scientific and Technical Information,2009,28(4): 599-605.)   
+[22] Zhang J,Yu Q, Zheng F,et al. Comparing Keywords Plus of WOS and Author Keywords: A Case Study of Patient Adherence Research[J].Journal of the Association for Information Science and Technology,2016,67(4): 967-972.   
+[23]王晓光，程齐凯．基于NEViewer的学科主题演化可视化分 析[J]．情报学报，2013,32(9):900-911.(Wang Xiaoguang, Cheng Qikai. An Alysis on Evolution of Research Topics in a Discipline Based on NEViewer[J].Journal of the China Society for Scientific and Technical Information,20l3,32(9): 900-911.)   
+[24] Glänzel W, Czerwon H. A New Methodological Approach to Bibliographic Coupling and Its Application to the National, Regional and Institutional Level[J]. Scientometrics，1996, 37(2): 195-221.   
+[25]邱均平，瞿辉．我国科研机构合作网络知识扩散研究- 以"生物多样性"研究为例[J]．图书情报知识，2011(6):5-11. (Qiu Junping,Qu Hui. Study on the Knowledge Diffusion in the Network of Chinese Research Institutions: A Case on Biodiversity Research[J]. Document,Information & Knowledge, 2011(6): 5-11.)   
+[26] 吴晓秋，吕娜．基于关键词共现频率的热点分析方法研究 [J].情报理论与实践,2012,35(8):115-119.(Wu XiaoqiuLv Na. Study on Hotspot AnalysisMethod Basedon Co-occurrence Frequency of Key Words [J].Information Studies: Theory& Application,2012,35(8):115-119.)   
+[27]Wikipedia.EBird [EB/OL].[2017-05-12]. https://en.wikipedia.org/wiki/EBird.   
+[28]Mankowski TA, Slater S J, Slater TF.An Interpretive Study of Meanings Citizen Scientists Make When Participating in Galaxy Zoo[J]. Contemporary Issues in Education Research, 2011, 4(4): 24-32.   
+[29] Curtis V. Motivation to Participate in an Online Citizen Science Game:A Study of Foldit[J]. Science Communication, 2015,23(4): 967-974.   
+[30] WigginsA， CrowstonK. From Conservationto Crowdsourcing:A Typology of CitizenScience[C]// Proceedings of the 44th Hawai International Conference on System Sciences (HICSS). IEEE,2011:1-10.   
+[31] Newman G,Wiggins A,Crall A,et al.The Future of Citizen Science: Emerging Technologies and Shifting Paradigms[J]. Frontiers in Ecology and the Environment,2012,10(6): 298-304.   
+[32] Laut J, Cappa F, Nov O,et al. Increasing Citizen Science Contribution Using a Virtual Peer[J]. Journal of the Association for Information Science and Technology,2017, 68(3): 583-593.   
+[33] Couvet D,Jiguet F, Julliard R,et al. Enhancing Citizen Contributions to Biodiversity Science and Public Policy[J]. Interdisciplinary Science Reviews,2008,33(1):95-103.   
+[34]Panchariya N S,Destefano A J,Nimbagal V,et al. Current Developments in Big Data and Sustainability Sciences in Mobile Citizen Science Applications[C]/ Proceedings of the lst International Conference on Big Data Computing Service and Applications.IEEE,2015: 202-212.   
+[35]Shirk JL，Ballard H L，Wilderman C C,et al.Public Participation in Scientific Research:A Framework for Deliberate Design[J]. Ecology& Society,2012,17(2): 29-48.   
+[36] Silvertown J.A New Dawn for Citizen Science[J].Trends in Ecology & Evolution,2009,24(9): 467-471.   
+[37] Morrow A. The Impact of Citizen Science Activities on Participant Behavior and Attude:Review of Existing Studies [EB/OL]. [2017-05-25]. htp://www.environment.scotland. gov.uk/media/16542/The-impact-of-Citizen-Science-activities -on-participant-behaviour-and-attitude.pdf.   
+[38]Rotman D,Preece J,Hammock J,et al. Dynamic Changes in Motivation in Collaborative Citizen Science Projects[C]// Proceedings of the ACM 2012 Conference on Computer Supported Cooperative Work. 2012: 217-226.   
+[39]Sauermann H,Franzoni C.Crowd Science User Contribution Patterns and Their Implications[J]. Proceedings of the National Academy of Sciences,2015,112(3): 679-684.   
+[40] Massung E, Coyle D, Cater K F, et al. Using Crowdsourcing toSupport Pro-environmental Community Activism[C]// Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. ACM, 2013: 371-380.   
+[41] Thomas M,Richardson C,Durbridge R,et al. Mobilising Citizen Scientists to Monitor Rapidly Changing Acid Sulfate Soils[J]. Transactions of the Royal Society of South Australia, 2016,140(2): 186-202.   
+[42] Parsons J,Lukyanenko R,Wiersma Y. Easier Citizen Science is Better[J]. Nature,2011,471(7336): 37.   
+[43] Connolly T M,Boyle E A,Macarthur E,et al.A Systematic Literature Review of Empirical Evidence on Computer Games and Serious Games[J]. Computers & Education, 2012, 59(2): 661-686.   
+[44] Kavaliova M,Virjee F,Maehle N,et al. Crowdsourcing Innovation and Product Development: Gamification asa Motivational Driver[J]. Cogent Business & Management, 2016,3(1): 1128132.   
+[45] Bowser A,Hansen D,He Y,et al. Using Gamification to Inspire New Citizen Science Volunteers[C]//Proceedings of the 1st International Conference on Gameful Design, Research,and Applications.ACM,2013:18-25.   
+[46]Koivisto J, Hamari J. Demographic Diferences in Perceived Benefitsfrom Gamification [J].Computers in Human Behavior,2014,35: 179-188.   
+[47] Deterding S.The Lens of Intrinsic Skill Atoms: A Method for Gameful Design[J]. Human-Computer Interaction, 2015, 30(3-4): 294-335.   
+[48] Prestopnik N R，Tang J.Points，Stories，Worlds，and Diegesis: Comparing Player Experiences in Two Citizen Science Games [J]. Computers in Human Behavior,2015,52: 492-506.   
+[49] Causer T,Terras M,Hildebrand M.Many Hands Make Light Work.Many Hands Together Make Merry Work:Transcribe Bentham and Crowdsourcing Manuscript Collections[A]// Ridge M. Crowdsourcing Our Cultural Heritage[M]. Ashgate, 2014: 57-88.   
+[50] Page RD.Extracting Scientific Articles from a Large Digital Archive:BioStor and the Biodiversity Heritage Library[J]. BMC Bioinformatics,2011,12(1):1-12.   
+[51]Cai Y,Theng Y L,Cai Q,et al. Crowdsourcing Metadata Schema Generation for Chinese-Style Costume Digital Library[C]//Proceedings of International Conference on Asian Digital Libraries. Springer Berlin Heidelberg,20l2: 97-105.   
+[52]Scripa A.Citizen Science:Information Problems,Library Solutions[EB/OL]. [2017-05-27]. http://dbiosla.org/events/ past_sla_conference/seattleo8/Allison_Scripa.pdf.   
+[53]Vasileiadou E.Crowd Science: It is Not Just a Matter of Time (or Funding)[J]. Journal of the Association for Information Science and Technology,2015,66(7):1514-1517.   
+[54] Bonney R,Cooper C B,Dickinson J,et al. Citizen Science: A Developing Tool for Expanding Science Knowledge and Scientific Literacy[J].BioScience,2009,59(11): 977-984.   
+[55]Rotman D,Procita K,Hansen D,et al.Supporting Content Curation Communities:The Case of the Encyclopedia of Life[J].Journal of the American Society for Information Science and Technology,2012,63(6): 1092-1107.   
+[56] Williamson K,Kennan M A, Johanson G,et al. Data Sharing for the Advancement of Science:Overcoming Barriers for Citizen Scientists [J]．Journal of the Association for Information Science & Technology,2016,67(10):2392-2403.   
+[57]BelbinL， WilliamsKJ.TowardsaNational Bio-environmental Data Facility:Experiences from the Atlas ofLiving Australia[J].International Journal of Geographical Information Science,2016,30(1):108-125.   
+[58] Newman G, Zimmerman D,Crall A,et al. User-friendly Web Mapping: Lessons from a Citizen Science Website[J]. International Journal of Geographical Information Science, 2010,24(12):1851-1869.   
+[59]Greenhill A,Holmes K,Woodcock J,et al.Playing with Science: Exploring How Game Activity Motivates Users Participation on an Online Citizen Science Platform[J].Aslib Journal ofInformation Management,2016,68(3):306-325.   
+[60] Preece J.Citizen Science: New Research Challenges for Human-Computer Interaction[J]. International Journal of Human-Computer Interaction,2016,32(8):585-612.
+
+# 作者贡献声明：
+
+张轩慧：收集并分析数据，论文初稿撰写;  
+赵宇翔：提出研究思路，设计分析框架，论文撰写及定稿。
+
+# 利益冲突声明：
+
+所有作者声明不存在利益冲突关系。
+
+# 支撑数据：
+
+支撑数据见期刊网络版http://www.infotech.ac.cn。[1]张轩慧，赵宇翔．WOS中公众科学的文献信息.xlsx.论文中所提到的WOS核心数据库中的文献特征记录.
+
+收稿日期:2017-06-01  
+收修改稿日期:2017-06-30
+
+# Evolution Path and Hot Topics of Citizen Science Studies
+
+Zhang Xuanhui Zhao Yuxiang (School ofEconomics and Management,Nanjing Universityof Science and Technology,Nanjing 210094, China)
+
+Abstract: [Objective]This paper investigates the origin and status quo ofcitizen science related studies abroad,aiming to promote the development of similar research in China.[Coverage] We retrieved 1796 papers from the Web of Science (WOS)core collection,using the keywords “citizen science”or“crowd science".[Methods] We employed the methods of bibliometrics,social network andcontent analysis,as wellas visualization tools,toillustrate theevolution path ofcitizen science and the popular research topics.This paper also analyzed the citizen science research in Library and Information Science. [Results] We found that the crowd wisdom and open science paradigm were highly emphasized thanks to the development of the Internet and mobile technologies. Citizen science had been growing rapidly and included the following perspectives,project, theoreticaland participant studies.Although the main focus of citizen science research was on natural science，the Library and Information Science had promising outcomes. [Limitations] We did not include conference papers and fulltext analysis in this study.[Conclusions] Library and Information Science could play an important role in the future study of citizen science.
+
+Keywords: Citizen Science BibliometricsEvolution PathHot TopicsLibrary and Information Science
+
+# AndrewW.Mellon基金会资助Birkbeck研究同行评议过程
+
+Andrew W.Mellon 基金会于近日为 Birkbeck 提供了99 000美元的研究资助，用于调查同行评议过程的运行模式。同行评议是旨在确定研究的有效性、质量和独创性的过程，其目的是捍卫已发表的学术工作的完整性，并确保质量不达标或内容不准确的作品不被公开发表。
+
+Birkbeck 文学、技术与出版学教授 Martin Eve 是研究团队的负责人，他认为世界各地的学术界都已经很熟悉同行评议，“虽然我们都参与了这个过程，但是几乎没有人了解基于大规模数据下研究同行评议的详细情况。我们将使用一系列跨学科的方法来研究审稿人的写作模式，并寻找可以深入了解评审人员如何回应评审要求的信息。”
+
+该项目题为"阅读同行评议”，将分析同行评议在研究周期中的作用，以开发更好的方式来利用专家意见去评估和改进现有文献。该项目将调查世界上最大的科学杂志PLOS ONE的同行评议数据库，这些同行评议报告将会进行严格匿名处理，并且保密，研究团队将会使用一系列的精度、泛读和文体研究方法进行审查。
+
+(编译自:htp:/www.bbk.ac.uk/news/birkbeck-to-investigate-the-peer-review-process-in-new-research-project)
+
+(本刊讯)

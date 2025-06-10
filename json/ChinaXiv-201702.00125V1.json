@@ -1,0 +1,382 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201507271570 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "焦海峰,郑丹，严巧娜，尤仲杰，严小军.温度、盐度及交互作用对僧帽牡蛎(Saccosrea cuculta)呼吸排泄的影响.生态学报,2017,37（2）:692-699 JiaoHF,ZhengD,YanQYoZYanXJEftsofatetepeaturedsalitoygenosutioatedoetitef Saccostrea cucullata.ActaEcologica Sinica,2017,37(2):692-699. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "温度、盐度及交互作用对僧帽牡蛎（Saccostreacucullata）呼吸排泄的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "焦海峰1,²，郑丹1,²，严巧娜³，尤仲杰1,2,\\*，严小军² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1宁波市海洋与渔业研究院，宁波315012  \n2宁波大学海洋学院，宁波315211  \n3宁波市江北区海洋与渔业局，宁波315020",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：采用实验生态学方法研究了温度( $1 3 、 1 8 、 2 3 、 2 8 、 3 1 、 3 4 \\mathrm { { \\circ } C }$ 和盐度(1823、28、33)对僧帽牡蛎(Saccostreacucullata)耗氧率和排氨率的影响,并分析了二者交互作用对呼吸排泄的影响。结果表明,不同温度条件下,僧帽牡蛎的耗氧率变化范围为$0 . 4 3 { - } 3 . 1 5 \\mathrm { m g ~ g ^ { - 1 } ~ h ^ { - 1 } }$ ,排氨率的变化范围为 $7 2 . 6 2 { - } 1 2 4 5 . 7 7 \\mu \\mathrm { g } \\ \\mathrm { g } ^ { - 1 } \\ \\mathrm { h } ^ { - 1 }$ ,方差分析显示,温度和盐度对僧帽牡蛎耗氧率( $F =$ $6 0 . 4 4 0 , P { < } 0 . 0 1$ )和排氨率( $F { = } 6 1 . 0 8 3 , P { < } 0 . 0 1 \\rangle$ 的影响均极显著;二者的交互作用对僧帽牡蛎耗氧率( $F = 4 . 9 0 7 , P { < } 0 . 0 1 \\$ 和排氨率 $\\stackrel { \\cdot } { F } = 1 1 . 4 1 2 , P { < } 0 . 0 1 \\rangle$ 影响也极显著，耗氧率 $( Y )$ 、排氨率 $( Y )$ 与温度 $( T )$ 和盐度(S)之间的二元线性回归方程为 $Y = a + b T + c S +$ $d T { \\times } S _ { \\odot }$ 。在一定温度范围内 $( 1 3 - 3 1 ^ { \\circ } \\mathrm { C }$ ),僧帽牡蛎单位体重耗氧率(Y)与温度 $( T )$ 呈正相关,符合指数方程 $Y = a \\mathrm { e } ^ { b T }$ ,其中 $\\mathbf { \\alpha } _ { a }$ 的取值范围为 $0 . 1 3 7 8 { \\ - } { - } 0 . 2 1 1 7 , b$ 的取值范围为0.0757—0.0912;单位体重排氨率也与温度呈正相关,符合上述指数方程，其中 $\\mathbf { \\alpha } _ { a }$ 的取值范围为 $2 0 . 3 6 4 - 3 0 . 6 3 4 , b$ 的取值范围为0.1004—0.1341。不同温度和盐度条件下,僧帽牡蛎呼吸排泄的氧氮比在2.20—7.78之间,平均值为3.81。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：僧帽牡蛎;温度；盐度；耗氧率;排氮率 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effects of water temperature and salinity on oxygen consumption rate and ammonia excretion rate of Saccostrea cucullata ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JIAO Haifeng1,²， ZHENG Dan1²，YAN Qiaona³，YOU Zhongjie1,2,\\*， YAN Xiaojun²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1NingboAcademy of Oceanology andFishery，Ningbo 315012,China   \n2Oceancollegeof Ningbo University，Ningbo 315211,China   \n3JiangbeiOceanandFisheryBureau，Ningbo315020,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Intertidal oyster（Saccostrea cuculata）isan important cultivatedspeciesand macro-fouling organism in the southeastern China Sea，and itisan important model organism for studiesonshelfish physiologyandmarineecology. Oxygen consumptionrate and ammonia excretionrateare important parameters of shelfsh physiologyand metabolism，and canbe measuredassensitive indicatorsof polltant toxicity.However，litleis knownabouttheeffctsof environmental factorsaffectoxygen consumptionrateandammonia excretionrateof Saccostrea cucullata.Theefectsof water temperature (13,18,23,28,31, $3 4 \\mathrm { ^ { \\circ } C }$ ）and salinity（18,23,28，and 33）on oxygen consumption rate and ammonia excretion rate in Saccostrea cuculata were analyzed using experimental ecological methods.Oxygen consumption rate varied from $0 . 4 3 ~ \\mathrm { m g }$ $\\mathbf { g } ^ { - 1 } \\mathbf { h } ^ { - 1 }$ to $3 . 1 5 ~ \\mathrm { m g ~ g ^ { - 1 } ~ h ^ { - 1 } }$ and the ammonia excretion rate varied from $7 2 . 6 2 ~ { \\mu \\mathrm { g } } ~ { \\ g } ^ { - 1 } ~ { \\mathrm { h } } ^ { - 1 }$ to $1 2 4 5 . 7 7 ~ { \\mu \\mathrm { g } } ~ { \\mathrm { g } } ^ { - 1 } ~ { \\mathrm { h } } ^ { - 1 }$ in different water temperature.Water temperature and salinity significantly affected oxygen consumption rate ( $F { = } 6 0 . 4 4 0 \\$ ）andammonia excretion rate ( $F { = } 6 1 . 0 8 3$ ）；additionally，the combination of water temperature and salinity affected oxygen consumption rate ( $F { = } 4 . 9 0 7$ ）and ammonia excretion rate $F { = } 1 1 . 4 1 2$ ).Temperature varied from 13 to $3 1 \\mathrm { { ^ { \\circ } C } }$ and salinity varied from 18 to 28，and the relationship between oxygen consumption or ammonia excretion rate $( Y )$ and temperature $( T )$ and salinity （S） can be represented by the equation $Y = a \\mathrm { ~ + ~ } b T + c S \\mathrm { ~ + ~ } d T \\times S$ .The relationship between oxygen consumption rate $( Y )$ （204号 and water temperature $( T )$ can be described by the regression equation : $Y = a \\mathrm { e } ^ { b T }$ ，where $a$ ranges from 0.1378 to 0.2117, and $b$ ranges from O.O757 to O.0912.The relationship between ammonia excretion rate $( Y )$ and water temperature $( T )$ can also be described by the regression equation : $Y = a \\mathrm { e } ^ { b T }$ ，where $a$ ranges from 20.364 to 30.634，and $b$ ranges from 0.1044 to 0.1341.Theatomic ratioofOand Nvaried from 2.20to7.78，witha meanof 3.81 to maintain standard metabolism in Saccostrea cucullata. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words:Saccostrea cucullata；water temperature；salinity；oxygen consumption rate；ammonia excretion rate ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "僧帽牡蛎（Saccostrea cucullata)隶属于软体动物门（Mollusca）、双壳纲（Bivalvia）、牡蛎科（Ostreidae）、牡蛎属(Ostrea),自然环境中主要栖息在中、低潮区的岩石上,是我国东南沿海重要的经济牡蛎[1-3],同时,也是沿海典型的污损生物[4],是浙江沿海潮间带生物的重要组成种类[3]。目前对僧帽牡蛎繁殖习性、生长[5]、胚胎发育[2]、人工采苗及养殖[1]等基础生物学方面的研究已有报道,但对其基础生理代谢的研究资料缺乏,仅有焦海峰等[6]开展过僧帽牡蛎周年的耗氧率与排泄率的研究,林元烧等[7]开展过其滤水率的研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "双壳贝类是海洋生态系统的重要组成部分。资料表明,呼吸和排泄是贝类新陈代谢的基本生理活动,研究环境因子(如温度、盐度、pH等)和内在因子(如规格、活动状态等)对呼吸和排泄的影响不但能够了解动物的生理状态还能反映出对环境的适应状况[8]。在自然海区中,双壳贝类的耗氧率、排氨率等生理生态学参数通常随着季节性变化而变化[9],这些参数既能反应双壳贝类的生理特征,也能反映双壳贝类与环境变化之间的相互影响[10]。目前,国内外对双壳类呼吸和排泄的已经有较多研究[11-1]。综合分析表明,温度显著地影响着双壳贝类的新陈代谢活动,而盐度对双壳贝类呼吸、排泄影响的研究较少[15,17-8],但是温度和盐度又是决定水生生物自然分布的重要因子,它们是在贝类生理生态学研究中必须考虑的因素[19]。本文利用实验生态学的方法探讨了温度和盐度对僧帽牡蛎呼吸与排泄的影响,以期了解僧帽牡蛎新陈代谢活动的规律和变化特点,为进一步的能量学提供科学依据,有助于评价双壳贝类在海洋生物沉积中扮演的角色。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 实验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "僧帽牡蛎3—4月份取自象山港自然海区的岩礁相潮间带，采集时保留外壳完整的个体，带回实验室。挑选大小较匀称的单个个体，用软毛刷清除牡蛎表面的附着生物,在大型水族箱中暂养,每天上午和下午分别投喂单细胞藻类,期间充气,每隔1d换水1次,暂养时间不少于7d,实验前 $2 4 \\mathrm { h }$ 停止投喂。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验海水用砂滤后的自然海水,虹吸入水族箱中（水族箱容积约 500L),用电加热棒加热调节温度,每天升温1- ${ \\cdot 2 } \\%$ ,用市售海水晶和曝气后的自来水调节盐度,每天升降1—2。当海水调制至实验条件后,稳定控温和控盐12h以上,然后进行实验。设置6个温度梯度：13、18、23、28、31、 $3 4 ^ { \\circ } \\mathrm { C }$ ,设置4个盐度梯度：18、23、28、33;每个温度条件下均进行4个盐度梯度的实验，共开展24组实验。实验牡蛎在各温度和盐度条件下稳定 2d 以上开始实验。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验时,将僧帽牡蛎沿瓶壁放入锥形瓶中,锥形瓶体积约5L,每瓶10只。利用虹吸法将锥形瓶中装满过滤海水后,海水适当溢出1/4以清除气泡对溶解氧的影响,然后用保鲜膜封口。每组实验设置3个重复,并设对照组(不放牡蛎)3个,水浴控温。以牡蛎贝壳张开为起始点进行计时,实验2h后测定实验组水样的溶解氧",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（DO）氨氮（ $\\mathrm { N H } _ { 4 } { \\cdot } \\mathrm { N } \\dot { }$ )浓度和牡蛎的体积。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3数据处理与计算方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用Winkler碘量法测定溶解氧,采用次溴酸钠氧化法测定氨氮（水样需要经过 $0 . 4 5 \\mu \\mathrm { m }$ 的GF/C膜过滤）,在实验结束后用游标卡尺测定僧帽牡蛎的壳长 $( S L )$ ,然后解剖出的软体部,在 $6 0 ^ { \\circ } \\mathrm { C }$ 下将烘干至恒重，用电子天平分别称量软体湿重( $( W _ { \\mathrm { w } }$ )和软体干重( $\\mathrm { ~ \\overline { { W } } _ { D } ) }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验开始前,测定3组对照瓶中溶解氧和氨氮浓度。实验结束后,根据测定瓶与对照瓶内水体的溶解氧和氨氮的浓度，计算僧帽牡蛎的耗氧率和排氨率。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nO R = \\left[ ( D O _ { \\mathrm { 0 } } { - } D O _ { \\mathrm { 0 } } ) { \\times } ( V { - } V _ { i } ) \\right] / ( W _ { \\mathrm { 0 } } { \\times } t )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $O R$ 为单位软体干重的耗氧率( $\\mathbf { \\chi } _ { \\mathrm { m g } } ^ { \\prime } \\mathbf { g } ^ { - 1 } \\mathbf { \\epsilon } \\mathrm { h } ^ { - 1 }$ ）， ${ D O } _ { 0 }$ 和 $D O _ { \\iota }$ 为实验结束后对照组和测定组水中的DO含量（ $\\mathbf { \\Pi } _ { \\mathrm { m g / L } } ^ { \\mathrm { ~ } }$ ）， ${ D O } _ { 0 }$ 为对照组 $_ { D O }$ 的平均值, $V$ 为呼吸瓶的水体积（L）， $V _ { \\mathrm { i } }$ 为僧帽牡蛎体积， $W _ { \\mathrm { D } }$ 为僧帽牡蛎软体干重（g）， $\\mathbf { \\Phi } _ { t }$ 为实验时间（h）。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN R { = } [ \\left( N _ { t } { - } N _ { 0 } \\right) \\times \\left( V { - } V _ { i } \\right) ] / ( W _ { \\mathrm { D } } { \\times } t )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $N R$ 为单位软体干重的排氨率( $\\mathbf { \\Psi } _ { \\mathbf { u } \\mathbf { g } } \\mathbf { g } ^ { - 1 } \\mathbf { \\epsilon } \\mathbf { h } ^ { - 1 }$ ） $N _ { 0 }$ 和 $N _ { t }$ 为实验结束后对照组和测定组中水中的 $\\mathrm { N H } _ { 4 } – \\mathrm { N }$ 的浓度（ $\\mathrm { \\backslash ~ \\mu g / L \\mathrm { \\backslash } }$ ） $N _ { 0 }$ 对照组 $\\mathrm { N H } _ { 4 }$ -N 的平均值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验结果用平均值 $\\pm$ 标准误( $\\mathrm { M e a n \\pm S E }$ )表示，数据先用Excell预处理，然后用SPSS19.0软件进行统计分析处理（单因素方差分析ANOVA 和回归分析）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验用僧帽牡蛎的生物学参数( $\\mathrm { M e a n \\pm S D }$ )：壳长 $( 3 7 . 6 1 \\pm 6 . 2 1 ) \\mathrm { m m }$ ,软体湿重 $\\left( 8 . 8 6 \\pm 2 . 6 3 \\right) \\mathrm { g }$ ,软体干重（2 $( 1 . 9 6 { \\pm } 0 . 8 6 ) \\mathbf { g }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1温度和盐度对僧帽牡蛎耗氧率的影响 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验结果表明：在4个盐度梯度下，僧帽牡蛎耗氧率随温度的变化趋势较为一致，均在 $1 3 ^ { \\circ } \\mathrm { C }$ 时最低，随着温度的升高而升高，到 $2 8 ^ { \\circ } \\mathrm { C }$ 或 $3 1 ^ { \\circ } \\mathrm { C }$ 时出现峰值，温度为$3 4 ^ { \\circ } \\mathrm { C }$ 时，耗氧率大幅下降。由图1看出，僧帽牡蛎耗氧率的变化范围为 $0 . 4 3 { - } 3 . 1 5 \\ \\mathrm { m g \\ g ^ { - 1 } \\ h ^ { - 1 } }$ ,最低值出现在$1 3 ^ { \\circ } \\mathrm { C }$ ,最高值出现在 $3 1 ^ { \\circ } \\mathrm { C }$ 。不同温度时，僧帽牡蛎的耗氧率的变化均值为 $0 . 5 1 { - 2 } . 6 1 \\ \\mathrm { m g \\ g ^ { - 1 } \\ h ^ { - 1 } }$ ,峰值出现在$2 8 \\mathrm { { ^ circ C } }$ 时。单因素方差分析显示，僧帽牡蛎耗氧率受温度的影响极显著( $F = 6 0 . 4 4 0 , P < 0 . 0 1 )$ 。利用线性回归分析发现，在温度13— $3 1 \\mathrm { { ^ { \\circ } C } }$ 范围内，僧帽牡蛎耗氧率与温度呈显著的指数相关 $\\ln Y = \\ln a + b \\ln T ( \\ Y = a  { \\mathrm { e } } ^ { b T } )$ （表1），其中 $\\mathbf { \\Omega } _ { a }$ 的取值范围为0.1378—0.2117， $b$ 的取值范围为0.0757—0.0912。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e73c13052c7fbc25c16c379cda7c81e6973c6d2edbafacc94fde9ae85ece3de9.jpg",
+        "img_caption": [
+            "图1温度对不同盐度条件下泥蚶耗氧率的影响 Fig.1The effect of temperature on the oxygen consumption rate of Saccostrea cucullata in different salinity "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "盐度梯度的变化对僧帽牡蛎耗氧率也有影响,基本规律是随盐度升高耗氧率升高，在盐度升高到一定范围后,耗氧率又下降。不同盐度梯度下,牡蛎耗氧率的值分别为 $1 . 3 6 \\mathrm { \\ m g \\ g ^ { - 1 } \\ h ^ { - 1 } , 1 . 3 1 \\ m g \\ g ^ { - 1 } \\ h ^ { - 1 } , 1 . 7 7 \\ m g \\ g ^ { - 1 } \\ h ^ { - 1 } }$ 和$1 . 6 7 \\ \\mathrm { m g \\ g ^ { - 1 } \\ h ^ { - 1 } }$ ,单因素方差分析显示,各盐度梯度下耗氧率差异极不显著( $\\prime { } = 1 . 3 9 1 , P = 0 . 2 5 3 )$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2温度和盐度对僧帽牡蛎排氨率的影响 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图2可见,僧帽牡蛎排氨率与耗氧率的变化趋势基本一致,温度低时排氨率低,温度在13— $3 1 \\mathrm { { ^ { \\circ } C } }$ 的范围内升高时,排氨率升高,温度为 $3 4 ^ { \\circ } \\mathrm { C }$ 时,排氨率下降。僧帽牡蛎排氨率的变化范围 $7 2 . 6 2 { - } 1 2 4 5 . 1 7 \\mu \\mathrm { g } \\ \\mathrm { g } ^ { - 1 }$ $\\mathbf { h } ^ { - 1 }$ ,峰值出现在 $1 3 ^ { \\circ } \\mathrm { C }$ 和 $3 1 ^ { \\circ } \\mathrm { C }$ 时。不同温度时,僧帽牡蛎排氨率的变化范围为 $1 1 4 . 0 8 {  { - } } 9 0 4 . 9 9 \\mu \\mathrm { g } {  { \\ g } } ^ { - 1 } {  { \\ h } } ^ { - 1 }$ ,峰值出现在 $2 8 ^ { \\circ } \\mathrm { C }$ 时。单因素方差分析结果显示，温度对僧帽牡蛎排氨率的影响极显著( $\\stackrel { \\prime } { F } = 6 1 . 0 8 3 , P < 0 . 0 1 )$ 。利用线性回归分析发现，在适温范围内，僧帽牡蛎排氨率也与温度呈显著的指数相关(表1)，其中 $\\mathbf { \\Omega } _ { a }$ 的取值范围为 $2 0 . 3 6 4 - 3 0 . 6 3 4$ ， $b$ 的取值范围为 $0 . 1 0 0 4 { \\ - - } 0 . 1 3 4 1$ ○",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "盐度对僧帽牡蛎排氨率的影响不明显。不同盐度梯度下，僧帽牡蛎耗氧率的值分别为 $3 8 0 . 5 8 ~ { \\mu \\mathrm { g } } ~ { \\ g } ^ { - 1 } ~ { \\mathrm { h } } ^ { - 1 }$ 、$4 7 7 . 5 4 ~ { \\mu \\mathrm { g } } ~ { \\mathrm { g } } ^ { - 1 } ~ { \\mathrm { h } } ^ { - 1 } . 5 0 3 . 8 5 ~ { \\mu \\mathrm { g } } ~ { \\mathrm { g } } ^ { - 1 } ~ { \\mathrm { h } } ^ { - 1 }$ 和 $5 5 6 . 4 8 ~ { \\mu \\mathrm { g } } ~ { \\mathrm { g } } ^ { - 1 } ~ { \\mathrm { h } } ^ { - 1 }$ ，单因素方差分析显示，各盐度梯度下排氨率差异不显著（ $F { = } 0 . 9 2 8$ $P = 0 . 4 3 2 \\rangle$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 温度和盐度的交互作用对对耗氧率与排氨率的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用单变量线性模型（Univariate）分析表明：在一",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0b177501b856513852c0d108fb63ebb048757d670acb6cbc72458886fa62b13e.jpg",
+        "img_caption": [
+            "图2温度对不同盐度条件下僧帽牡蛎排氨率的影响 Fig.2The effect of temperature on the ammonia excretion rate ofSaccostrea cucullata in different salinity "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定温度范围 $( 1 3 - 3 1 ^ { \\circ } \\mathrm { C }$ )和盐度范围(18—28)内,温度和盐度的交互作用对僧帽牡蛎的耗氧率( $F { = } 4 . 9 0 7$ ， $P <$ 0.01)和排氨率( $F = 1 1 . 4 1 2 , P { < } 0 . 0 1 \\rangle$ 影响均极显著(表2）。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b0a7c5a2b61bb189ab8e77729f1f1ab2933447c010e441ff4448098ba978089d.jpg",
+        "table_caption": [
+            "Table1Regresionequation betweenoxygenconsumptionrateorammonia excretionrateof Saccostreacuculltaand temperature "
+        ],
+        "table_footnote": [
+            "\\*代表差异显著，\\*\\*代表差异极显著"
+        ],
+        "table_body": "<html><body><table><tr><td>项ex</td><td>tee</td><td>a</td><td>b</td><td>R²</td><td>F</td></tr><tr><td>耗氧率 Oxygen consumption rate</td><td>18</td><td>0.2117</td><td>0.0757</td><td>0.7477</td><td>30.208**</td></tr><tr><td rowspan=\"6\"></td><td>23</td><td>0.1378</td><td>0.0912</td><td>0.8535</td><td>94.410 **</td></tr><tr><td>28</td><td>0.2069</td><td>0.0900</td><td>0.8117</td><td>62.373 **</td></tr><tr><td>33</td><td>0.1769</td><td>0.0907</td><td>0.8820</td><td>52.315 **</td></tr><tr><td>18</td><td>30.634</td><td>0.1004</td><td>0.8150</td><td>145.337 **</td></tr><tr><td>23</td><td>24.070</td><td>0.1214</td><td>0.7531</td><td>54.224**</td></tr><tr><td>28</td><td>29.383</td><td>0.1145</td><td>0.9651</td><td>81.566 **</td></tr><tr><td></td><td>33</td><td>20.364</td><td>0.1341</td><td>0.9602</td><td>90.847**</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/18d707057f805a51eee2df4476ba843e3021bc8126d47d3c6f70e84cb321c19b.jpg",
+        "table_caption": [
+            "表1僧帽牡蛎耗氧率、排氨率与温度的回归方程",
+            "表2温度、盐度对僧帽牡蛎耗氧率与排氨率影响的交互作用检验",
+            "TableThetestofinteractioof tempeatureandslitytooxyencosumptioatedmmonaexcretioateofSostrecculta "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">来源res</td><td colspan=\"4\">耗氧率 Oxygen consumption rate</td><td colspan=\"4\">排氨率 Ammonia excretion rate</td></tr><tr><td>平方和类型II) Squares</td><td>Meanuare</td><td>F</td><td>P</td><td>平和型(II) of Squares</td><td>Mca uare</td><td>F</td><td>P</td></tr><tr><td>模型校正 Corrected Model</td><td>32.793</td><td>2.342</td><td>53.715</td><td>0.000</td><td>4575223.597</td><td>326801.685</td><td>66.409</td><td>0.000</td></tr><tr><td>温度Water temperature</td><td>27.824</td><td>6.956</td><td>159.519</td><td>0.000</td><td>3964428.735</td><td>991107.184</td><td>201.403</td><td>0.000</td></tr><tr><td>盐度Salinity</td><td>3.257</td><td>1.628</td><td>37.343</td><td>0.000</td><td>161507.007</td><td>80753.503</td><td>16.410</td><td>0.000</td></tr><tr><td>温度×盐度 Water temperatureXsalinity</td><td>1.712</td><td>0.214</td><td>4.907</td><td>0.001</td><td>449287.856</td><td>56160.982</td><td>11.412</td><td>0.000</td></tr><tr><td>误差Error</td><td>1.308</td><td>0.044</td><td></td><td></td><td>147630.308</td><td>4921.010</td><td></td><td></td></tr><tr><td>总和校正 Corrected Total</td><td>34.101</td><td></td><td></td><td></td><td>4722853.905</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在上述条件下,利用线性回归(Linear Regression)分析,耗氧率 $( O R )$ 、排氨率(NR)与温度 $( T )$ 和盐度 $( S )$ （204号的二元线性回归方程分别为： $O R = 0 . 6 3 1 - 0 . 0 7 0 T - 0 . 0 1 6 S + 0 . 0 0 6 T \\times S \\left( { R } ^ { 2 } = 0 . 8 8 3 \\right) ; N R = - 1 3 3 . 3 7 6 - 1 5 . 3 0 5 T ^ { + }$ $1 4 . 0 1 4 S + 1 . 2 2 7 T \\times S$ 1 $R ^ { 2 } = 0 . 8 7 2 )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4温度、盐度与僧帽牡蛎呼吸排泄O:N的关系",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "氧氮比是动物呼吸排泄的重要生理指标,由表3可以看出,僧帽牡蛎呼吸排泄的 $0 : \\mathrm { N }$ 比在2.20—7.78 之间,平均值为3.81。其中 $0 : \\mathrm { N }$ 比随温度的上升成凹陷的弧形变化,而随盐度的上升变化趋势不甚明显。方差分析表明，不同温度范围内的 $0 : \\mathrm { N }$ 比有极显著差异( $F = 4 . 4 5 9 , P { < } 0 . 0 1 \\rangle$ ,差异的来源于低温实验条件下（ $1 3 ^ { \\circ } \\mathrm { C }$ 和 $1 8 \\%$ )的 $0 : \\mathrm { N }$ 比。盐度对僧帽牡蛎呼吸排泄 $0 : \\mathrm { N }$ 比的影响不显著( $\\stackrel { \\cdot } { F } = 0 . 8 0 0 , P = 0 . 4 9 8 )$ 0",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b8a8dbd048a12f5e170b12a17c0210e6fce1a4c65ffecbdc752dbae3853cd978.jpg",
+        "table_caption": [
+            "表3不同温度、盐度梯度下僧帽牡蛎呼吸排泄的氧氮比值",
+            "Table3Ratio of O and N of Saccostrea cucullata at different temperature and salinity "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">盐度 Salinity</td><td colspan=\"6\">温度 Water temperature</td></tr><tr><td>13℃</td><td>18℃</td><td>23℃</td><td>28℃</td><td>31℃</td><td>34℃</td></tr><tr><td>18</td><td>3.80</td><td>6.09</td><td>5.31</td><td>3.28</td><td>2.63</td><td>3.85</td></tr><tr><td>23</td><td>5.97</td><td>2.20</td><td>2.25</td><td>2.46</td><td>3.06</td><td>4.40</td></tr><tr><td>28</td><td>3.90</td><td>7.78</td><td>3.17</td><td>3.42</td><td>3.36</td><td>2.31</td></tr><tr><td>33</td><td>5.32</td><td>3.42</td><td>3.85</td><td>2.84</td><td>2.30</td><td>4.47</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1温度对贝类呼吸排泄的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "耗氧率和排氨率是动物有氧代谢的重要指标,研究贝类的耗氧率和排氨率有助于了解它们新陈代谢活动的规律和变化特点,也能够反映环境条件对其生理活动的影响[20-21]。贝类是变温动物,温度是影响贝类生理活动的重要环境因素,研究者普遍认为温度对贝类耗氧率和排氨率有显著影响[22-26]。董志国等[22]研究彩虹明樱蛤发现,在水温低于 $2 8 ^ { \\circ } \\mathrm { C }$ 时耗氧率随着水温的上升呈线型上升,排氨率也与温度呈正相关。李金碧等[14]对栉江跳研究发现,温度对耗氧率和排氨率影响也呈线性关系,耗氧率和排氨率在 $1 8 ^ { \\circ } \\mathrm { C }$ 最低， $3 4 ^ { \\circ } \\mathrm { C }$ 最高。张媛等[17]对橄榄蚶的研究也表明,耗氧率和排氨率随着温度的升高而上升。然而,温度对耗氧率和排氨率的影响趋势并不一致。杨红生等[11]对墨西哥湾扇贝研究表明,在一定温度范围内,耗氧率随温度的升高而上升,当水温超过 $3 0 \\%$ 后,耗氧率下降,排氨率是随着温度的升高持续增加。王俊等[12]对栉孔扇贝研究发现,在8 $2 3 ^ { \\circ } \\mathrm { C }$ 间耗氧率和排氨率均随水温升高而增大，当温度超过 $2 8 \\mathrm { { ^ circ C } }$ 时耗氧率下降,排氨率增加。随温度上升耗氧率出现下行拐点,排氨率却上升的现象也出现在方斑东风螺中[23]。然而,文海翔等[13]研究硬壳蛤发现,耗氧率和排氨率随温度的升高而升高，峰值出现在20一 $3 0 \\mathrm { { ^ { \\circ } C } }$ 之间,在 $3 0 \\mathrm { ^ { \\circ } C }$ 以后随着温度上升，两者均下降。孟学平等[24]研究西施舌也表明,温度对西施舌耗氧率影响显著,在10- $2 0 \\%$ ,耗氧率随水温的升高而升高,当超过 $2 5 \\mathrm { ^ { \\circ } C }$ 以后，耗氧率则下降。排氨率在10— $2 0 \\%$ 间上升缓慢,在 $2 5 \\mathrm { ^ { \\circ } C }$ 后氨代谢急剧增加，之后下降。徐东等[25]对虾夷扇贝的研究表明,耗氧率和排氨率均随温度的缓慢升高而增加,在 $1 5 \\mathrm { ^ { \\circ } C }$ 达到最大值,之后随温度的升高而减小。王雅倩等[26]对中国蛤蜊研究表明,耗氧率先随着温度的升高而上升,当温度超过 $2 3 ^ { \\circ } \\mathrm { C }$ 后，随着温度的升高而降低,排氨率随温度的变化趋势与耗氧率的变化趋势一致。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综合分析表明,温度对贝类耗氧率和排氨率的影响可以表现为3种形式：一是耗氧率和排氨率都与温度呈线型关系,随着温度上升而上升;二是排氨率与温度呈线型关系,而耗氧率对温度变化有最大响应区,耗氧率先随温度上升而上升,待上升到峰值后,随着温度的上升而下降;三是耗氧率和排氨率均对温度的变化有最大响应,先上升后下降。本文中,僧帽牡蛎的耗氧率和排氨率均随着温度的上升表现出最大响应现象,在温度13— $2 8 \\mathrm { { ^ circ C } }$ 时,耗氧率随温度上升而上升,但温度超过 $2 8 ^ { \\circ } \\mathrm { C }$ 后，耗氧率和排氨率均下降明显,这说明温度超过$2 8 \\mathrm { { ^ circ C } }$ 后,牡蛎处于不适状态,代谢出现了抑制甚至停止。一般认为温度升高,动物组织器官活性提高,生物体内的酶活性也随着温度升高而加强,从而加速了物质代谢水平,致使呼吸和代谢加快;当超过极限温度后,就会引起生理功能的紊乱,呼吸和代谢活动下降,这也是变温动物的普遍特征[20]。因此,不同贝类呼吸代谢的规律虽然受温度影响显著,但不同种类之间的变化规律也不尽相同,这种差异性还需要深入研究。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "http ://www.ecologica.cn ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2盐度对贝类呼吸排泄的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "盐度是海洋生态系统中重要的生态因子，影响着贝类的分布和其生理代谢，盐度变化对贝类耗氧率和排氨率也有明显的影响。例如,赵文等[2]研究了盐度对中国蛤蜊耗氧率和排氨率的影响,结果发现,在盐度升高的过程中,耗氧率和排氨率都是增加的,峰值出现在18时,然后随着盐度的升高而下降。Stickle 等[28]对紫贻贝（Mytilus edulis)的研究表明,在盐度10—30范围内,耗氧率随盐度的降低而增加。罗杰等[29]对管角螺研究发现,耗氧率随盐度的升高而增加,在27时出现峰值，随后耗氧率随盐度的升高而下降盐度对排氨率的影响与对耗氧率的影响趋势基本一致。郭海燕等[30]在大西洋浪蛤（Spisula solidissima)的研究中发现，在盐度19—43 范围内，它的耗氧率和排氨率都随盐度升高而增大，达到最大值后逐渐下降。黄洋等[31]研究尖紫蛤（Soletellinaacuta)表明,耗氧率随着盐度的升高而增加,在盐度为10时达到最大值,当盐度超过10时,耗氧率就下降。李晓燕[32]研究三倍体和二倍体太平洋牡蛎表明,随着盐度的降低,耗氧率均降低,在盐度为20 时达到最低，然后随着盐度的继续降低，耗氧率稍有上升。随着盐度的降低，两种牡蛎排氨率出现不同程度的升高,在盐度20时达到最高,然后随着盐度的持续降低,排氨率大幅度降低。李金碧等[14]研究栉江跳发现,在$1 8 \\mathrm { { ^ circ C } }$ 耗氧率和排氨率最低，在 $3 4 ^ { \\circ } \\mathrm { C }$ 时最高，耗氧率和排氨率随盐度升高先降低后升高，在盐度为31时为最小值,在盐度为41时为最大值。Farmer 等[33研究贝类 Acartia tonsa 表明,耗氧率和排氨率在适宜盐度条件下最低,当盐度升高或降低时耗氧率和排氨率均升高。本研究发现,盐度对僧帽牡蛎耗氧率和排氨率影响的变化趋势基本一致,均存在最大盐度响应区。但是同是牡蛎,也有不同的规律,如王刚等[15]对近江牡蛎的研究表明,在低盐环境下(5—15）,随着盐度的升高,耗氧率、排氨率均下降,在盐度为15时降至最低,然后随着盐度的升高，耗氧率和排氨率升高很快，且幅度较大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "盐度对贝类呼吸排泄的影响较为复杂,其规律性不显著,除上述几种典型的规律外,Barber等[34]对海湾扇贝的研究表明，在盐度17—34范围内，排氨率随盐度的升高而下降。有研究者认为贝类在其适宜盐度时耗氧率和排氨率较低,是因为它们处在盐度等渗点，只需要消耗较少的能量便能维持自身的生理活动,当盐度不适时,体内渗透压不平衡,为维持渗透压需要消耗一定的能量,导致呼吸排泄活跃。也有学者认为,低盐环境导致贝类关闭贝壳或者水管,从而减低了有机体与外界的水流交换,以保护贝类不受低盐造成的伤害。生活在潮间带的生物要适应周围环境盐度的变化就要调整其生理代谢活动[12],目前普遍认为,贝类属于渗透压调节者,它们体内存在着一个游离氨基酸库,当外界环境中盐度变化时,它们可以通过调节机体内游离氨基酸或者其它小分子有机物浓度等来调整体内渗透压的变化,从而适应环境条件[33,35]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综合分析发现,温度和盐度对僧帽牡蛎耗氧率( $F { = } 4 . 9 0 7 , P { < } 0 . 0 1 )$ 和排氨率( $F = 1 1 . 4 1 2 , P { < } 0 . 0 1 )$ 的影响存在着极显著交互作用。除温度和盐度外,影响贝类呼吸和排泄的因素还很多,如体重、饵料浓度、 $\\mathrm { \\Phi _ { \\cdot } \\mathrm { p H } }$ 、溶解氧及个体大小、性腺发育程度等,王芳等[36]研究发现,湿重和温度的交互作用对海湾扇贝和太平洋牡蛎的耗氧率影响也较为显著。因此,贝类的呼吸排泄是复杂的生命过程之一,环境因素的影响也不一而足,要探明环境因子对贝类呼吸代谢的的影响规律或机制,需要从多学科深入探讨。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 氧氮比 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "贝类是以体内碳水化合物、脂肪和蛋白质为供能来源，氧氮比( ${ \\mathrm { ( 0 : N ) } }$ 可以表征动物呼吸底物的类别，反映动物在特定状态下体内的脂肪、糖类和蛋白质代谢的比例关系[37]。不同氧氮比代表不同供能底物的研究已经非常广泛[38-39]。另外,氧氮比与环境对有机体的压力相关,其值的高低可以作为生物体适应环境压力的指标之一[21]。本文中僧帽牡蛎的呼吸排泄氧氮比较低,明显低于墨西哥湾扇贝[11]、硬壳蛤[13]、橄榄蚶[16]以及其它贝类[19-30],也低于近江牡蛎[15],略低于僧帽牡蛎周年呼吸排泄氧氮比,其呼吸排泄周年氧氮比的变化范围为 $3 . 0 4 - 1 0 . 2 7 \\AA ^ { [ 6 ] }$ 。产生上述差异的原因,推测是因为僧帽牡蛎为潮间带栖息的种类,经常处于干露状态,它们的生理活动状态长期受到外界环境的胁迫,故呼吸排泄速率较低,氧氮比不高。本文还发现：在温度较低时,僧帽牡蛎的氧氮比较高,随着温度的上升,氧氮比先下降后上升;而随着盐度的上升,氧氮比下降。这与僧帽牡蛎呼吸排泄氧氮比周年变化规律较为一致,均为低温时氧氮比高、高温时氧氮比低[6。总体来看，僧帽牡蛎活动较为缓慢,日常代谢中需要消耗蛋白质来满足能量需求[6],当它们遭受来自外界的胁迫时,其氧氮比更低,这与贝类遭受外界胁迫从而降解体内蛋白质形成氨基酸的生理适应相吻合[32],也与 Marcela等[40]认为氧氮比可以作为评估生理学调节工具的推断相吻合。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "［1］陈和鹏.僧帽牡蛎海区半人工采苗及棚架式养殖.福建水产，1992，（1)：6-9.  \n［2］柯才焕，李少菁，李复雪，郑重.僧帽牡蛎幼体附着和变态的诱导.水产学报，2000,24（3）：229-234.  \n[3］尤仲杰，徐善良，谢起浪.浙江沿岸的贝类资源及其增养殖.东海海洋，2000，18（1）：50-56.  \n［4］王宝强，薛俊增，庄骅，吴惠仙.洋山港海域大型污损生物生态特点.海洋学报,2012，34（3）：155-162.  \n[5］张玺，楼子康.僧帽牡蛎的繁殖和生长的研究.海洋与湖沼，1957，1(1)：123-138.  \n[6］焦海峰，项翔，尤仲杰，严小军.泥蚶、缢蛏和僧帽牡蛎呼吸与排泄的周年变化.海洋学报，2013，35(6)：147-153.  \n[7］林元烧，曹文清，罗文新，郭东晖，郑爱榕，黄长江.几种主要养殖贝类滤水率的研究.海洋学报，2003，25（1)：86-92.  \n[8］冉福，曲宪成，沈和定，陈宇昕，徐伟.塔玛亚历山大藻对文蛤呼吸和排泄的影响.海洋环境科学，2009,28(1）：30-33.  \n[9]Newell.ossifuncofauadcuivaedopuaisofsspesiofingalvesvJaloefishResearch，2004，23(1）:51-61.  \n[10]PrinsTaalACDameF.ArevofbacksetwebivalgraingdecosysteproceseaticEcolo994)：349-359.  \n[11］杨红生，张涛，王萍，何义朝，张福绥.温度对墨西哥湾扇贝耗氧率及排泄率的影响.海洋学报，1998,20(4)：91-96.  \n［12］王俊，姜祖辉，唐启升.栉孔扇贝耗氧率和排氨率的研究.应用生态学报，2002，13（9)：1157-1160.  \n[13］文海翔，张涛，杨红生，刘保忠，周毅，毛玉泽，张福绥.温度对硬壳蛤 Mercenaria mercenaria（Linaeus，1758)呼吸排泄的影响.海洋与湖沼，2004，35(6)：549-554.  \n[14］李金碧，龚世园，喻达辉．温度和盐度对栉江跳耗氧率和排氨率的影响.安徽农业科学，2009,37（5）：2016-2018.  \n[15］王刚，张其中，喻子牛，林小涛.盐度对近江牡蛎耗氧率、排氨率、O:N 和吸收率的影响.海洋科学,2013,37（2)：101-106.  \n[16]HaoZangJingJengperauealstovio-related immuneindicatorsofteJapanesesaloMizuhopetenyesoensisAquacultureIternational，014,22（6)：6-1876.  \n[17］张媛，方建光，毛玉泽，张继红，薛素燕.温度和盐度对橄榄蚶耗氧率和排氨率的影响.中国水产科学，2007，14（4)：690-694.  \n[18］唐保军，尹飞，归从时.海水盐度对紫血蛤耗氧率和排氨率的影响.台湾海峡，2012，31(1)：89-94.  \n[19]YuZH,QiZH,HuCQ,LiuWG,HuangHH.Efetsofsalityoingestiogencosptioadaomexcretonatesofeeacucumber Holothuria leucospilota.Aquaculture Research,2013,44(11）：1760-1767.  \n[20]HamenCAinotrasferaseactitidcidcretiofivalvelsdodsaatihist1968,26(2):697-705.  \n21]Widoputilieesealoieof the United Kingdom，1971,51(4)：827-843.  \n[22］董志国，李晓英，孟学平，程汉良，阎斌伦，陈汉春，王美珍.彩虹明樱蛤的耗氧率与排氨率研究.台湾海峡，2006，25(4)：503-508.  \n[23］刘建勇，邓兴朝，绍杰.体重和温度对方斑东风螺耗氧率和排氨率的影响.中国水产科学，2005，12（3）：239-244.  \n[24］孟学平，董志国，程汉良，李晓英，李家乐.西施舌的耗氧率与排氨率研究.应用生态学报，2005，16(12)：2435-2438.  \n[25］徐东，张继红，王文琪，杜美荣，任黎华，王忠.温度变化对虾夷扇贝耗氧率和排氨率的影响.中国水产科学,2010,17（5）)：1101-1106.  \n[26］王雅倩，赵文，程芳晋，杨增强.体重和温度对中国蛤蜊耗氧率和排氨率的影响.大连水产学院学报，2009,24(6)：544-548.  \n[27］赵文，王雅倩，魏杰，王丽.体重和盐度对中国蛤蜊耗氧率和排氨率的影响.生态学报，2011,31（7)：2040-2045.  \n[28]StickleWaboinDEfesoflitespatiodartateftoouel,MytluedulisLdebacKatherina tunicata（Wood).Journal of Experimental Marine Biology and Ecology,1979,41(3）：257-268.  \n[29］罗杰，刘楚吾,李锋，曾理想，陈加辉.盐度及规格对管角螺耗氧率和排氨率的影响.海洋科学,2008，32（5)：46-50.  \n[30］郭海燕，王昭萍,于瑞海，王芳，林志华.温度、盐度对大西洋浪蛤耗氧率和排氨率的影响.中国海洋大学学报，2007,31（增刊)：185- 188.  \n[31］黄洋，黄海立，林国游，孙成波，刘志刚.盐度、pH和规格对尖紫蛤（Solelna acuta)耗氧率和排氨率的影响.海洋与湖沼，2013，44",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[32］李晓艳.盐度对三倍体和二倍体太平洋牡蛎代谢影响的比较.大连大学学报,2014，35(3)：88-91.  \n[33]FarmerLeeveleffreoidolfopepdcartsiustntliityagaril9784(4):311-316.  \n34BrberBaeubsaoeRQ physiological indexes.Marine Biology，1985,87(1）：13-18.  \n[35]ZuburgldsiaerosdatialxptalZ315-325.  \n[36］王芳，董双林，张硕，潘克厚.海湾扇贝（Argopeten iradians)）和太平洋牡蛎（Crasostrea gigas）呼吸和排泄的研究.青岛海洋大学学报，1998，28(2):233-239.  \n[37]RuyetJaéK,eo,elHtsfteauegroeabiieopulatoobass，Dicentrarchus labrax.Aquaculture，2004,237(1/4）：269-280.  \n[38]IedaT.NutrtionalecologyofmarinezoplanktonMemoirsof theFacultyofisheriesHokkaidoUniversity，974,22（1）：1-97.  \n[39]Madsidgecefoeefaiabdalfspecies.Marine Biology，1976,37(1）：47-58.  \n40]MontalOodceofaeacsreledfand endosulfan insecticides.Pesticide Biochemistry and Physiology，2Oo8,92(3）：150-155.",
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,388 @@
+[
+    {
+        "type": "text",
+        "text": "·临床生物样本库· ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "临床级干细胞库的建设与管理",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周红梅",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "同济大学附属东方医院生物样本库，上海200123通信作者： 电话：021-38804518-25260，E-mail：hongmei_zhou6@ 163.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】近年来，干细胞在疾病治疗、组织修复、抗衰美容等多个领域均展现出极大的发展潜力与广阔的临床应用前景，已成为生命科学的重要研究方向之一，受到全球范围的广泛关注。优质的临床级干细胞库既是干细胞产品进入临床的前提条件，也是干细胞行业成功的关键要素，必将为干细胞临床研究提供不可或缺的资源。本文结合我国国情和同济大学附属东方医院在临床级干细胞库建设与管理方面的实践与探索经验，重点阐述临床级干细胞库的规划、建设与全流程链管理，涵盖采集、制备、检验、冷冻保存、分发、质量管理体系的建立以及干细胞生命周期信息追踪与数据管理等，以供同行借鉴。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】临床级干细胞库；存储；交叉污染；干细胞制备；质量管理体系；信息追踪【中图分类号】R446.9 【文献标志码】A 【文章编号】1674-9081（2019)02-0000-06DOI: $1 0 . 3 9 6 9 / \\mathrm { j }$ .issn. 1674-9081.2019.02.000",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Construction and Management of Stem Cell Banks of the Clinical Grade ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHOU Hong-mei ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Biobank，East Hospital Afliated to Tongji University，Shanghai 2OO123，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Corresponding author：Tel：86-21-38804518-25260，E-mail：hongmei_ zhou6@ 163.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【Abstract】 In recent years，research on stem cell has made great progression and widespread clinical application in disease treatments，tissue repair，anti-aging，cosmetology，and other fields.It has become one of the most important researching directions in the field of life science，and has been widelyconcerned around the world.A high-qualitystem cellbank of the clinical grade is notonlythe precondition for stemcellproducts to enter clinical practice，butalso the keyfactorforthe success ofthe stemcellindustry.Besides，it will provide an indispensable resource for the clinical research of stem cells.Based on the situation of our country and he practice and exploration experience of construction and management of a clinical stem cell bank of East Hospital Affiliated to Tongji University,，the article focuseson the planning，construction，and the management of a whole process chain of a stem cell bank of the clinical grade，and covers colection，preparation，testing，cryopreservation，distribution，the establishment of a quality management system，information tracking，and data management of stem cell lifecycle. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【Key words】stemcellbank oftheclinical grade；storage；crosscontamination；stemcell preparation；qualitymanagement system；information traceability ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MedJPUMCH，2019,10(2):0-00",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1968年，世界首例骨髓移植术治疗重症联合免疫缺陷患者，开启了干细胞的医学应用之门[1]。2018年，全球干细胞产业市场规模超千亿美元，十余款干细胞产品获批上市，未来5年将有更多干细胞药物获批。我国近年来在干细胞及转化研究领域亦取得了长足进展，相关干细胞产品已进入I/Ⅱ期临床试验[2]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "临床级干细胞库是标准化收集、处理、储存、检测和分发不同来源的干细胞以及与干细胞相关的临床、病理、治疗、随访、知情同意等资料，并进行质量控制、信息管理与应用的专门机构或部门。目前日本、以色列等国的科学家正利用诱导多能干细胞重组技术[3-4]建立不同人群的临床级干细胞库，利用干细胞库进行标准化制备和应用已成为国际主流趋势。上海市东方医院为国家首批干细胞临床研究与项目备案机构，通过打造细胞种子库、主细胞库和工作细胞库良好操作规范（good manufacturing practices，GMP）制备室与质检平台，建成了较大规模的临床级干细胞库，并开辟了第三方存储服务，促进了干细胞临床应用的可持续性发展。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2建设临床级干细胞库是抢占优质资源战略高地的核心，本文依据干细胞研究相关国内外规范，阐述临床级干细胞库的建设与管理，以期为建库机构提供有益借鉴。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1规划 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "临床级干细胞库的规划需综合考虑多方面因素，如国家政策导向、区域干细胞医疗市场需求、技术发展、建设的必要性、生产条件、经济效益、社会效?益、风险等进行评价、分析和论证，以确定其可行性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "迄今为止，我国尚未出台临床级干细胞库区域化集中设置规范，干细胞在不同培养条件下（如试剂、工艺、冻存方法等），即使是同样的细胞系，表型也可能不一致。同一机构内不同研究方向的干细胞出处也不尽相同，相互间的研究结果并无可比性。据全球科学界评估，细胞系鉴定错误或污染达 $1 8 \\%$ \\~$3 6 \\% ^ { [ 5 - 7 ] }$ ，质量控制检测公司报告的支原体感染率大约占总测试样本的 $8 \\% ^ { [ 8 ] }$ ，故合理规划临床级干细胞库，采用统一的方法与质量标准进行采集、集中制备、存储与分发，将潜在风险及外来因子的污染降到最低具有明显优势。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "临床级干细胞库建设应遵循国家法律法规及国际干细胞研究协会相关伦理原则[9]，样本采集与干细胞存储须遵守《人类遗传资源管理暂行办法》，在人类遗传资源办批准的范围内开展工作[10]。利用干细胞库资源开展临床研究必须遵循科学与伦理，保护受试者权益，符合《药物临床试验质量管理规范》、《干细胞临床试验研究管理办法（试行）》和《干细胞制剂质量控制及临床前研究指导原则（试行）》规定[1I]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2建设与要求",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 选址",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "临床级干细胞库应选择安全、无干扰的独立与封闭区域，远离严重污染（空气、水、病原微生物、放射性同位素等），远离振动/噪声，尽可能毗邻样本采集与临床治疗点，减少样本的转运时间，便于及时处理与制备，实现流程无缝对接。存储区优先选择地面以上较低楼层，避免雨水/洪水倒灌，防霉防潮，保持良好的温湿度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2功能区规划与管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.1核心功能区与辅助区",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "核心功能区涵盖样本与细胞收发室、制备与处理室、存储区、质检室与总控室，必要时设置接待征询室和采集室。细胞制备的洁净区域应具备缓冲区、更衣室，满足细胞的分离、扩增与培养，各制备套间周围设置洁净的走廓，增加流程的灵活性。细胞制备操作区应设立洁净区，根据《GB50073洁净厂房设计规范》，洁净区面积规划一般为 $2 \\sim 4 \\mathrm { \\ m } ^ { 2 } / \\mathrm { \\Omega }$ 人[12]，洁净区满足良好操作规范GMP要求，其设计、建设、管理、进出、使用、清洁、消毒、环境检测等参见《药品生产质量管理规范》无菌药品附录[13]，干细胞制剂的生产必须在B级背景下的A级洁净区完成。根据功能需求杜绝污染，必要时设置隔离区，避免隔离区的空气进入其他区域；为减少不同批次细胞在研究中的变异性，在制备阶段应对同一批特定代次的细胞建立多级细胞库区，库区应防止混淆、差错和交叉污染。辅助功能区包括办公室、会议室，档案室，库房及洗消室等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 流程与流向",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "布局的流程与流向应合理有序并明确标识，设置人员、物料、细胞、污物流向与医疗废弃物专用通道，确保生物安全，减少污染风险，为了便于样本、试剂、物料与细胞制剂按规定的流程和流向传递可在入口与出口处合理设置传递窗，提高工作效率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3 人员配备 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "应建立与业务相适应的组织架构，明确管理路径、职责、权限及相互关系，配备相应资质（职称、学历、培训和实践经验）的操作人员和管理人员。对人员培训、考核并评估效果，采集人员需经培训合格并持有医师或护士执业证书，采集信息双人复核；制备人员应进行无菌服穿戴的培训；制备、质量管理负责人与质量受权人不得相互兼任；如个别岗位职责需委托他人，受委托人应同样满足该岗位职责的资质要求，委托人仍然承担最终责任。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4 设施与设备",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "应对全过程的设施设备设计充足合理的空间，根据各区域面积及功能规划供暖、通风（自然/压力）、空调、水电、照明、灭菌、监控、温湿度、氧浓度、消防、污水与医疗废弃物处理系统等，并定期清洁、维保、校准和质检，制定应急预案。应监测生物安全柜、洁净室的颗粒及生物负载系统，包括高效微粒空气过滤系统、A/B洁净室内的空调净化系统；应规定监测频率和监测项目，如静态和动态下的悬浮粒子、沉降菌、浮游菌、表面微生物、压差、风速、温湿度等；对于B级背景下的A级区应采用在线尘埃粒子监测系统悬浮粒子；定期清洗和更换初、中效过滤器，并定期在工作状态下对高效过滤器进行检漏，以防止损伤和泄漏。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "一存储库区应充分考虑楼面承重，设施设备规划与安全管理遵循《ISBER最佳实践 2018》[14]，如配备双路供电或应急发电设施及备用存储空间、冷链监控等；缩短液氮塔到库区的距离，减少氮气的耗损；液氮与干冰区域应配备气体监测器、声光报警和排风系统，一旦房间内氧浓度低于设定的下限时自动启动强排风，液氮区地面杜绝使用磁砖，优选耐低温的环氧树脂，冰箱区应充分考虑散热，必要时安装专用散热通道；操作人员应配备厚型隔热手套、护目镜/面具以及防护外套以确保安全。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干细胞制剂的存储须杜绝交叉污染，设置合格、待检与不合格区且标识明显；集约设计监控装置，实现24h温度连续监控及远程报警，确保液体供气系统不间断供气及外置塔的安全运转（储存、调压、气化等），设置保护围栏和安全警示标识并定期安全检查，校验供气管道与远程液位监控系统，对于液氮补给罐或液氮输送系统所有阀门、压力表与安全阀应定期检查（年检或强检），确保系统连续平稳、安全节气，液氮设备的运行与维修人员应具备《特种行业资格证》，可外包给专业公司进行检修。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "所有设备应建档受控，专人管理且标识唯一，分光光度计、移液器、天平、离心机等需定期进行计量检定与校准。实验室必备的安全设施（通风橱、防尘罩、灭火器、洗眼喷淋装置等）应定期进行检查。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3采集、制备与检验 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采集前需对供者进行人组筛查和传染病因子检测，包括人类免疫缺陷病毒、乙型肝炎病毒、丙型肝炎病毒、人类嗜T细胞病毒、EB 病毒、巨细胞病毒、梅毒螺旋体等[15]；筛查合格的供者签署知情同意书后，遵循标准操作规程采集样本，将污染、感染和病原体传播的风险降到最低。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "临床级干细胞的制备应严谨、审慎并进行独立审查和监督，确保其安全性和有效性。即使对细胞进行最小的体外操作都有可能引入额外风险，如病原体污染、培养代数增加导致的细胞基因型和表型不稳定，在长期、压力环境下可能会变为非整倍体或发生DNA重组、缺失及其他基因或表观遗传异常，从而带来严重病理改变，如癌症[16]。故临床级干细胞的制备应遵循GMP程序，防止原料和产品在生产过程中被污染，制备中所有试剂与过程均应遵守质量控制体系与规程，确保试剂质量、制备工艺与制定的方案保持一致，形成细胞鉴定、纯度和潜能分析标准，而对于传染病因子阳性的干细胞制备需在独立设置的阳性间进行。过程中的关键性物料必须做到：（1）先验证性能，确保有效性且符合国家相关规定；（2）直接与原始样本及干细胞制剂接触的物料必须无菌且对人体无害并符合要求的级别，尽可能使用药用级别的物料；（3）非无菌物料和非一次性物料必须清洁和灭菌，灭菌须合格并被监控；（4）记录使用的关键物料，确保可完整准确地追踪到每个环节中物料的详细信息，包括使用的试剂/耗材/设备清单、生产厂家、批次号、合格证等，关键试剂如血清、酶和生长因子的分析证书（certificateofanalysis，COA）副本，测试过程和结果等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在细胞培养或保存时除了尽可能避免使用抗生素外，还应避免使用动物源性或成分不明确的试剂、人源或动物源性血清，动物源性成份应尽可能用规定的化学成份替代，禁止使用同种异体人血清或血浆，以确保干细胞制剂的质量[17]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "临床级干细胞制剂的检验分为全面质量检验、复核检验和放行检验，为确保干细胞治疗的安全性和有效性，每批干细胞制剂均须符合现有干细胞知识和技术条件下的全面质量要求参见《干细胞制剂质量控制及临床前研究指导原则（试行）》[18]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4标识、存储与分发 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1 标识 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "每份干细胞制剂应分配唯一的编码，编码规则应具唯一性和统一性，通过编码可追溯到捐赠者和制剂存放位置及处理等所有信息，标签应耐低温耐潮湿。可以使用国际血库自动化委员会推荐的ISBT128码[19]。随着自动化设备的使用，容器自带编码（如激光蚀刻）、无线射频识别电子标签等的出现，人为编码打印和手工粘贴标签将逐步被新模式所取代。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2存储 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2. 1 冷冻保存 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "冷冻保存过程中应避免冰晶与溶质损伤。可使用程序降温仪或其他替代的方法（如Nalgene程序降温盒）控制降温速度，并使用二甲基亚矾或甘油[20 冷冻保护剂。为防止不可抗性因素所导致的损坏或丢，需将同一来源的细胞分成若干份，分放不同区域的不同容器中长期保存即镜像保存（mirror image stor-age)。干细胞的长期存储，国际公认使用气相液氮罐较理想，保存的温度为 $- 1 5 0 \\mathrm { ~ \\textdegree ~ } \\mathrm { \\textdegree ~ } - 1 9 6 \\mathrm { ~ \\textdegree C }$ ，需关注干细胞稳定储存的时间以及如何在储存中防止污染等[。随着自动化液氮存储设备的出现和发展，干细胞存取将走向自动化和智能化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2.2 容器",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "避免因容器渗漏而导致的交叉污染。容器应明确标识，且具有无菌、化学耐受、无吸附（对细胞、蛋白、RNA 和DNA）、无酶、密封（带螺纹）、耐低温等特性，限一次性使用，不含有干扰物质。临床级干细胞容器的无菌保证水平要求为 $1 0 ^ { - 6 }$ 0 $( 9 9 . 9 9 9 ~ 9 9 9 \\%$ )，即一百万件产品中可能存在活微生物的概率为 $1 ^ { [ 2 2 ] }$ 。应使用能足够防漏、抗振、抗压力、抗温度变化、防刺穿和其他事故材料制成的外容器运输干细胞，一般使用干式液氮罐作为外容器进行转运。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.3审核、放行与分发 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "干细胞在分发前必须进行审核与放行控制，审核与放行的程序和记录既是质量保证/质量控制架构的缩影，也是制备过程中产生的科学数据的存储。审核与放行通过取走最终样本进行测试、成品细胞标识和运输，证明干细胞从正式进入实验室的整个系统到实现预期的功能。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "干细胞的放行处理是通过选择实用、快速、科学可控的放行检验获得COA或放行检测报告后实施的。COA总结了产品的特性、所进行的测试、分发时能否提供结果并详细介绍放行的标准和每一个测试结果、测试使用方法、敏感度或可接受的结果范围。测试结果的放行标准一般来自法规、临床研究申请及文献。证书必须经检测者、检测负责人和质量授权人审核并签署，随细胞一起发布。因此，应建立放行后测试结果和所有记录的相关审核程序，以及放行后测试结果不符合规定要求的应对机制。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "临床级干细胞库应规定保存条件、周期及销毁的规范，避免混淆、污染、交叉污染和不合理的分发。发放的细胞治疗产品应明确给出新鲜和冷藏后复苏产品的失效日期和时间。分发后干细胞制剂的运输和转送程序要确保其完整性及人员的健康和卫生，需经过验证在维持细胞活力和功能完整性的情况下运输或转运到输注现场，干细胞的转运应由训练有素的物流人员或商业运输公司监管，应有证据表明在运输中保持合适的温度。温度记录仪的使用现在最为广泛，运输过程中的温度应符合收集机构标准操作规程手册的要求[23]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5信息管理系统",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "临床级干细胞库信息管理系统的构建需根据其用途和功能来构建，着眼于干细胞全生命周期的数据跟踪，实现双向性追濒，应从干细胞临床研究全过程进行布局，实现从临床中来到临床中去的闭环管理。若要满足多中心研究，全局数据库需与各站点系统进行端口对接。这方面可借鉴阿斯利康（AstraZeneca,AZ）用于药物研究的细胞库信息系统建设的经验[8]，AZ位于英国阿尔德利研发基地的GlobalCellBank是集中化、全方位负责细胞库，从获取多种来源的细胞系开始，到产生供使用的一系列细胞库，对所有单元库执行严格的质量控制测试，除了每个站点的中央存储库外，单个全局数据库保存所有相关的单元数据，允许用户查找和申请细胞，使细胞分发给世界各地站点（如瑞典蒙道尔、美国波士顿、中国上海等分库）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "临床级干细胞库信息管理所包括的数据范围广泛，涵盖：（1）临床模块，遵从《药物临床试验质量管理规范》，主要实现了临床前、中、后干细胞供者与受试者的相关信息管理，如临床研究立项、科学与伦理审核、知情同意、供者与受试者的人口统计学信息、入组标准、筛选信息、临床中的应用剂量、输注方式、应用后的检测数据与随访信息等；（2）制备与质检模块，包括样本的清点接收、干细胞的分离、纯化、扩增、培养、冷冻、复苏、转运、质量检测等信息管理，如制备、质检方案、方法学及其验证信息、细胞生长条件和培养基、过程中相关的质量检测与数据控制等；（3）存储库模块，实现了原始样本与干细胞制剂及其衍生物等的信息管理，同时此模块实现了样本源（供者/受试者）信息、干细胞制剂信息与临床信息的关联，通过组合查询可快速检索到目标样本与制剂，包括细胞名称、细胞类型、来源、编码（二维码)，信息系统可追踪监控冻存细胞位置、库存水平、使用情况和质量控制数据生成等。例如，同济大学附属东方医院采用Browser/Server模式和模块化设计，各模块通过端口对接实现干细胞临床研究全过程的数据跟踪和追溯性管理，构建了符合管理路径和工作流程的干细胞临床研究信息管理系统，可追踪供者、受试者、关键物料、关键设备、操作流程、细胞、样本或服务历史、应用情况或所处位置等信息；同时构建了临床科研数据中心模块，连接上述三大模块，并与医院信息系统、病理信息系统、影像归档和通信系统等端口对接并实施管理，并能够获取患者信息并建立备份模板，具有高级搜索、筛选和组合查询功能[24]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "全面质量管理体系",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "干细胞临床研究的医疗机构是干细胞制剂和临床研究质量管理的责任主体，应对干细胞临床研究项目进行立项审查、登记备案和过程监管，并对干细胞制剂制备和临床研究全过程进行质量管理和风险管控，执行质量管理体系的全面要求。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以同济大学附属东方医院为例，我院临床级干细胞库践行ISO9001质量管理体系认证，建立了完整的干细胞制剂制备和临床研究全过程质量管理及风险控制程序等质量体系文件；实现了干细胞制剂从来源样本、制备、质量检测、回输或植人受试者体内，到剩余制剂处置等环节的可追溯；建立了干细胞临床研究审核体系，具备完整的干细胞质量控制条件；定期对库存系统进行审核，建立了不合格品让步放行规定及纠正与预防措施，从而实现持续的质量改进。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "7 小结与展望 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为适应我国干细胞库产业化发展，满足干细胞大规模、长期战略贮存及临床转化需求，需合理规划和建设临床级干细胞库。临床级干细胞库从设计规划、基础建设到人员、设备、物料、检验方法和环境管理等方面，只有遵循国内外的指南与伦理准则，建立全面的质量管理体系，实现干细胞生命周期的数据跟踪与双向追溯，才能为临床提供高质量的干细胞资源。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "目前，我国临床级干细胞库的建设与管理仍存在规划不合理、标准不统一等诸多问题，临床级干细胞库资源应用的政策框架、技术规范、产品标准、临床准入、评估指标、转化模式、伦理准则等方面亟需形成行业共识及国家标准。相信随着国家对十细胞医疗的重视以及干细胞关键技术的不断成熟，未来干细胞产业发展中的相关问题将会不断被更新和突破！",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "［1］中国产业调研网．中国干细胞医疗市场现状调研与发展前景分析报告（2018－2025年）［EB/OL]．http：//www.cir.cn/R_YiYaoBaoJian/2O/GanXiBaoYiLiaoFaZhanXianZhuangFenXiQianJingYuCe.html.  \n[2］裴雪涛.干细胞产业化发展现状、瓶颈及展望［EB/OL].https：//www.36Ozhyx.com/home-research-index-rid-64539.shtml.  \n[3]Takahashi K，Yamanaka S. Induction of pluripotent stemcells from mouse embryonic and adult fibroblast cultures bydefined factors[J].Cell，2006，126：663-676.  \n[4] NewshaH，Mohammad P，ParvanehF，etal.Stem Cell Bank-ing in Iran[M].New York：Springer，2014：123-141.  \n[5]Torsvik A，Rosland GV，Svendsen A，et al．Spontaneousmalignant transformation of human mesenchymal stem cells re-flects cross-contamination：puting the research field ontrack[J].Cancer Res，2010，70：6393-6396.  \n[6]Hughes P，Marshall D，Reid Y，etal. The costs of using un-authenticated,over-passaged cell lines：how much more datado we need？［J].Biotechniques，2007，43：575-583.  \n[7］Masters JR.False cell lines：the problem and the solution[J].Cytotechnology，2002，39：69-74.  \n[8］Wrigley JD,McCall EJ,Bannaghan CL，etal.Cell bankingfor pharmaceuticalresearch［J].Drug Discov Today，2014,19:1518-1529.  \n[9] Kimmelman J,Heslop HE，Sugarman J，etal.New ISSCRguidelines：clinical translation of stem cellesearch ［J].Lancet，2016，387：1979-1981.  \n10] 国务院.人类遗传资源管理暂行办法［EB/OL].http：//www.gene.gov.cn/news/7643806.html.  \n:11］国家卫生计生委、国家食品药品监管总局．干细胞临床研究管理办法（试行）［EB/OL]．http：//www.nhfpc．gov.cn/qjjys/s3581/201508/28635ef99c5743e294f45e8b29c72309.shtml.  \n[12] 中国工程电子设计院．洁净厂房设计规范GB50073-2013[EB/OL].http：//www. jhgc-kwt.com/mingci/950.html.  \n[13] 国家食品药品监督管理局.关于贯彻实施《药品生产质量管理规范（2010年修订）》的通知［EB/OL].http：//samr.cfda.gov.cn/WS01/CL0844/59017.html.  \n[14] 郜恒骏，周学迅，张小燕，等．ISBER最佳实践2018[J]．中国医药生物技术（增刊)，2018，13：1-54.  \n[15] 王太平，徐国彤，周琪，等．国际干细胞研究学会《干细胞临床转化指南》［J］．生命科学，2009，21：747-756.  \n[16] 祝贺，郝捷，周琪，等.临床级干细胞库及干细胞制剂[J]．生命科学，2016，28：895-901.  \n[17] International Stem Cell Banking Initiative.Consensus guid-ance for banking and supply of humanembryonic stem celllines for research purposes ［J]．Stem Cell Rev，2O09，5：301-314.国家卫生计生委办公厅，食品药品监管总局办公厅．干细胞制剂质量控制及临床前研究指导原则（试行）［EB/OL].https：//bbs.iiyi.com/thread-2619912-1.html.  \n[19]Fisher M.ISBT 128—a new international standard forlabelling and data management blood transfusion ［J].Transfus Sci，1995，16：249-254.  \n[20] Froud SJ.Cell Bank Preparation and Characterization［M].New Jersey：Humana Press，1999：99-115.  \n[21] Sun C，Yue J，He N，et al.Fundamental PrinciplesofStem Cell Banking［J].Adv Exp Med Biol，2O16，951:31-45.  \n[22] 国家药典委员会．中华人民共和国药典［M]．北京：中国医药科技出版社，2012：附录190-191.  \n[23] FACT-JACIE.International Standards for Cellular TherapyProduct Collection,Processing，and Administration for Hem-atopoietic Cellular Therapies［EB/OL].https：//www.do-cin.com/p-1003220446. html&dpage $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 1&key.  \n[24] 赵庆辉，周红梅，穆会玲，等．干细胞资源库及信息管理系统的标准化建设［J]．转化医学杂志，2018，7：17-19.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(收稿日期：2018-08-10)",
+        "page_idx": 5
+    }
+]

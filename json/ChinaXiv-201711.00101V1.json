@@ -1,0 +1,562 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201607111416 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王行汉,丛沛桐,刘超群.2004—2013年珠江流域植被变化及其胁迫分析.生态学报,2017,37（19)：6494-6503.WangXH,Cog,LuCQKangQuQH,ZaWangXG,LiuXalysisfvgeatiovaraodstrefctosinealierBasin from 2004to 2013.ActaEcologica Sinica,2017,37(19):6494-6503.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2004一2013年珠江流域植被变化及其胁迫分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王行汉1,²，丛沛桐，\\*，刘超群²，亢庆²，扶卿华²，赵敏²，王晓刚²，刘晓林²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1华南农业大学水利与土木工程学院，广州510610  \n2 珠江水利委员会珠江水利科学研究院，广州510611",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要;植被对区域气候调节、水文循环等有着重要作用,在近年来中国南部地区极端气候频发的背景下,研究植被变化及胁迫意义重大。以珠江流域为研究区,利用MODIS EVI分析了植被的变化规律,并通过美国军事气象卫星 DMSP 灯光数据和气象数据探讨分析了人类活动和自然环境对植被变化的胁迫。结果显示;2004年到2013 年期间珠江流域内年平均 EVI介于0.33—0.38之间,EVI从高到底依次是常绿阔叶林 $>$ 混交林 $\\mathrm { > }$ 多树的草地 $. >$ 常绿针叶林>草地,不同植被类型的 EVI变化趋势基本一致,同一植被类型 EVI年际变化较小,其中混交林和草地年际最大变化量分别为0.07和0.04,而常绿阔叶林、常绿针叶林和多树的草地年际最大变化量均为0.06;在 2004 年至2013年年间,城市化水平增长了约 $7 1 \\%$ ,其年发展变化与EVI的年变化趋势相反；通过对比分析发现珠江流域人类活动对植被变化影响高于自然环境,即 DMSP 灯光变化与EVI变化的相关系数明显高于气温和降水。 ?",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：EVI;DMSP；植被变化；珠江流域",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Analysis of vegetation variation and stress factors in the Pearl River Basin from 2004 to 2013 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Xinghan1²，CONG Peitong1,\\*， LIUChaoqun²，KANG Qing²，FU Qinghua²， ZHAO Min²,WANG Xiaogang²，LIU Xiaolin² 1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 College of Water Conservancyand Civil Enginering，South China Agriculture University，Guangzhou 51061o,China   \n2Pearl River Institute of Hydraulic Research,Guangzhou 510611,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:In recent years，extreme weather events have happened frequently in the south of China，especially with the frequent occurrence of droughts.Vegetation isan important environmental factor，which isacomprehensivereflectionof human activities and the natural environment.In thisstudy，we selected the Pearl River Basin asa studyarea，using MODIS Enhanced Vegetation Index data，andanalyzedthe vegetation changes resulting from human activityand natural environment.Where human activitiesare present，our analysis mainlyused DMSP data from the United States military meteorological satelite to analyze light datachanges from 2O04 to2013.Natural environmentswereanalyzed mainlyby meteorological stations；the main parametersanalyzed included mean dailytemperatureand precipitation.Theresults show thatinthePearlRiverBasin,the yearlyaverageEnhancedVegetationIndexwasbetween O.33toO.38during 2004 to 2013, the order of Enhanced Vegetation Index was as follows:evergreen broad-leaved forest $>$ mixed forest $>$ woody savannas $>$ evergreen coniferous forest $>$ grassland.In addition，during this period,the level of urbanization increased by approximately （204 $71 \\%$ ，and the changes in urban development trends were opposite to those of Enhanced Vegetation Index.Thus,the results of this studyshowed that humanactivityis the majorstressfactorcausing vegetation changes inthePearl River Basinand ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "that the natural environment is not dominant. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:EVI；DMSP；vegetation change；Pearl River Basin ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植被变化对能量平衡、水文、气候和生化环境有重要的影响，可以作为气候和人类活动对环境的敏感性指标[1-3]。研究自然植被的变化规律,分析其变化影响因素意义重大。目前国内外的研究主要集中在植被时空变化及与自然要素的关系研究[48],如气温、降水等。其中,Zhou等[9]利用 MODIS 数据分析了城市化对植被物候期的影响,为植被对全球变暖响应的研究提供了有力的证据;Zhang 等[10]通过精确估算植被净初生产力，对全球的碳循环进行分析;Zhang 等[1]通过遥感技术对温带沙漠的植被覆盖度的时空变化与沙漠生物量等进行了分析,阐述了未来该区域气候的变化可能引发植被的时空演替; $\\mathrm { \\Delta X u }$ 等[12]研究了夏季干旱对于植被生长的影响,对于预测未来极端气候对于植被生态系统的影响意义重大;Tian 等[13] $\\mathrm { J u }$ 等[14]和Detsch 等[15]利用NDVI对植被动态变化进行了监测;Suepa.等[16]利用EVI对东南亚的植被物候和季节性降水的时空变化进行了研究。但是,对于植被变化与自然因素或者人为活动的关系,究竟哪个因素占主导地位的研究基本没有,这是本文着重探讨的内容之一。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来受全球气候变化影响,极端气候频发,尤其在中国南方降水充沛区,干旱也时常发生,对地区的植被生长变化具有一定的影响,迫切需要加强对于中国南方地区的植被变化规律及其影响因素的研究。本研究采用EVI分析珠江流域 2004—2013年的植被的变化情况,并借助 DMSP数据和中国气象数据网的降水和气温数据分析人类活动和自然环境对其胁迫状况,探索人类活动和自然环境变化对珠江流域植被变化的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区与数据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "珠江流域位于中国南部,是中国重要的珠三角经济带,涉及云南、贵州、广西、广东、福建等省区,地理位置在 $1 0 2 ^ { \\circ } 1 4 ^ { \\prime } - 1 1 5 ^ { \\circ } 5 3 ^ { \\prime } \\mathrm { E } , 2 1 ^ { \\circ } 3 1 ^ { \\prime } - 2 6 ^ { \\circ } 4 9 ^ { \\prime } \\mathrm { N }$ 之间(图1)。流域内多为山地和丘陵,平原面积小而分散,属热带、南亚热带气候,光、热、水资源十分丰富,年平均日照时长,最冷月平均气温 $\\geqslant 1 0 ^ { \\circ } \\mathrm { C }$ ,极端最低气温 $\\geqslant - 4 ^ { \\circ } \\mathrm { C }$ ，日",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/cecf26af1be78ff7e7a987bc03de272eed696a2f7faa52f38e68c92d7fe24c94.jpg",
+        "img_caption": [
+            "图1研究区和气象站位置",
+            "Fig.1Location of study area and meteorological stations "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "平均气温 $\\geqslant 1 0 ^ { \\circ } \\mathrm { C }$ 的天数在300d以上，多数地方年降水量为 $1 4 0 0 { - } 2 0 0 0 \\mathrm { m m }$ 。研究区内整体植被覆盖度较高，植被群落结构类型多样,主要包括了常绿阔叶林、常绿针叶林、草地、混交林等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据及处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究中的植被数据采用16d合成的 MODIS 植被指数产品（MOD13Q1）,空间分辨率为 $2 5 0 \\mathrm { m }$ 。获取了研究区内（范围包括了h27v06、h27v07、h28v06、h28v07)2004—2013 年共10a 的EVI产品,并利用 MODISMRT完成了影像的重投影和镶嵌处理。植被类型数据来源于MODIS LANDUSE 数据,空间分辨率为 $5 0 0 \\mathrm { m }$ ，采用的土地利用分类体系为马里兰大学的UMD分类体系。在本研究区域内的植被类型主要为常绿阔叶林、常绿针叶林、混交林、草地和多树的草地5种类型。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "城市化水平分析选用美国军事气象卫星DMSP（Defense Meteorological Satelite Program）获取的灯光数据,下载 2004—2013 年共10a的DMSP/OLS 灯光数据,并进行影像的重投影,研究区内的裁剪等预处理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "降水和气温数据选用了珠江流域内 44个国家基本气象站点 2004—2013 年的日降水量和日平均气温数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 植被变化分析方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于植被变化的分析，目前国际上常用的植被指数主要有归一化植被指数(NDVI)和增强植被指数（EVI)。由于NDVI对于高植被覆盖区域的探测发生饱和问题[17],而EVI正好解决了这个问题,并能够有效抵御大气干扰。本文研究区域主要集中在中国南方地区,植被覆盖度相对较高、气候条件复杂,因此选取EVI对中国南部2004—2013年的植被状况进行全面分析。EVI计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E V I } = 2 . 5 { \\times } \\frac { \\mathrm { b a n d } 2 - \\mathrm { b a n d } 1 } { \\mathrm { b a n d } 2 + 6 { \\times } \\mathrm { b a n d } 1 - 7 . 5 { \\times } \\mathrm { b a n d } 3 + 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中，band1代表红波段，band2代表近红外波段，band3代表蓝波段。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "并将16d合成的EVI转化为以月、季度和年为尺度的 $\\mathrm { E V I } _ { \\mathit { c } }$ □",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E V I } = { \\frac { \\mathrm { E V I } _ { i } + \\mathrm { E V I } _ { j } } { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E V I } _ { s } = { \\frac { \\mathrm { E V I } _ { m i } + \\mathrm { E V I } _ { m j } + \\mathrm { E V I } _ { m k } } { 3 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E V I } _ { y } = \\frac { \\mathrm { E V I } _ { s i } + \\mathrm { E V I } _ { s j } + \\mathrm { E V I } _ { s k } + \\mathrm { E V I } _ { s h } } { 4 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\mathrm { E V I } _ { m }$ 代表以月为尺度的EVI, $\\mathrm { E V I } _ { i }$ 代表每个月的前半个月EVI, $\\mathrm { E V I } _ { j }$ 代表每个月的后半个月EVI; $\\mathrm { E V I } _ { s }$ 代表以季度为尺度的EVI, $\\mathrm { E V I } _ { m i }$ 代表不同季度第1个月EVI, $\\mathrm { E V I } _ { m j }$ 代表不同季度第2个月EVI, $\\mathrm { E V I } _ { m k }$ 代表不同季度第3个月EVI；EVI代表以年为尺度的EVI, $\\mathrm { E V I } _ { s i }$ 代表春季EVI, $\\mathrm { E V I } _ { s j }$ 代表夏季EVI, $\\mathrm { E V I } _ { s k }$ 代表秋季EVI,EVI代表冬季EVI。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2人类活动胁迫分析方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "传统人类活动分析主要依靠于社会经济的统计数据,由于研究涉及的时间段跨度较长,且珠江流域不是统计口径的行政区划,使得传统的方法效率低下且不易实现。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DMSP/OLS 灯光数据与人口数、用电水平、经济水平存在较强相关关系,使其广泛应用于人类活动监测[18],而且,相比更高光谱分辨率与空间分辨率的夜间遥感数据,DMSP/OLS 数据与人口数和人口密度关系更加紧密[19],证明了它作为监测城市化和人类活动的有效性[20]。因此本文选用美国国防部的DMSP 灯光数据对 2004—2013年的城市化水平进行定量分析。借助于ENVI软件平台,提取珠江流域内各个像元的 DMSP数据值,并进行统计分析,获取逐年的DMSP 数据平均值,并以此值代表人类活动强度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3自然环境分析方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "自然环境涉及很多方面,在本研究中主要指的是降水和气温环境，并以研究区内44个国家基本气象站的日降水量和日平均气温作为研究对象。通过分析降水量的时间变化,探索降水的季节性和年变化对于植被生长之间的关系。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用44个国家基本气象站的降水和气温数据，分别构建以月为尺度的 $1 2 \\times 4 4$ 的降水和气温数据矩阵。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ \\begin{array} { l } { \\alpha _ { 1 , 1 } , \\alpha _ { 1 , 2 } , \\alpha _ { 1 , 3 } \\cdots \\alpha _ { 1 , 4 4 } } \\\\ { \\alpha _ { 2 , 1 } , \\alpha _ { 2 , 2 } , \\alpha _ { 2 , 3 } \\cdots \\alpha _ { 2 , 4 4 } } \\\\ { \\vdots } \\\\ { \\alpha _ { 1 2 , 1 } , \\alpha _ { 1 2 , 2 } , \\alpha _ { 1 2 , 3 } \\cdots \\alpha _ { 1 2 , 4 4 } } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "然后利用公式(5)计算 2004—2013年逐年的月平均降水量和月平均气温,进而计算季节平均降水量和气温、年平均降水量和气温。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { P _ { m } } ^ { j \\in [ 1 , 4 4 ] } \\alpha _ { i , j }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $N = 4 4 , i$ 和 $j$ 分别代表月份和气象站的站点数，取 $i = 1 , j \\in \\left[ 1 , 4 4 \\right]$ 计算1月的月平均降水和气温,依次类推计算获得12个月逐月的平均降水和气温。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结果分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 EVI植被变化分析",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1)植被年际变化根据公式(1)和公式(4)计算获得珠江流域内的 2004—2013 年的年平均增强植被指数EVI,其结果如图2所示,并对其分别进行了统计（图3）。2004年至2013年期间,珠江流域内年平均EVI整体介于0.33—0.38之间,在2004年至2007年期间经历了一个逐步上升的过程,随后从2008年开始逐渐降低,在 2012 年达到最小随后上升,整体处于一个波动式的下降过程,下降趋势不显著。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对流域内的不同植被类型的EVI进行了分析,结果如图4所示。2004—2013年期间珠江流域内混交林、草地、常绿阔叶林、常绿针叶林和多树的草地EVI基本处于0.25—0.50之间（图4）,其中EVI从高到低依次是常绿阔叶林 $>$ 混交林 $>$ 多树的草地 $>$ 常绿针叶林>草地;不同植被类型之间EVI变化趋势基本一致，相同植被类型EVI年际变化较小，其中混交林年际变化最大值为0.07、草地年际变化最大值为0.04、常绿阔叶林、常绿针叶林和多树的草地年际变化最大值均为 $0 . 0 6$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a5b111aa3008aaf5508c79aeed92ad3d0349a550462dde3c70a6f9d411721c71.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a0a24cd92bcb51410f3bd1b74d1cf9d94378773fb593c6ad1567181ea6b4715a.jpg",
+        "img_caption": [
+            "图22004—2013年EVI空间演变状况"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2)植被季节性变化根据公式(1）、公式(2)和公式（3)计算获得珠江流域 2004—2013 年混交林、草地、常绿阔叶林、常绿针叶林和多树的草地5种植被类型春、夏、秋、冬四季(本文中春季指3月、4月、5月，夏季指6月、7月、8月、秋季指9月、10月、11月，冬季指12月、1月、2月)的EVI(图5)。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5011a25319443e2f91653e61b12f61fd10975d5dcf3bc4a12e0fa5e8fde1325e.jpg",
+        "img_caption": [
+            "Fig.2The EVI evolution from 2004 to 2013 ",
+            "图32004年至2013年期间年平均EVI统计值Fig.3The statistic of mean yearly EVI from 20o4 to 2013"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分析表明：春季EVI基本介于0.2至0.5之间，其中",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "EVI从大到小依次为常绿阔叶林>混交林 $>$ 常绿针叶林 $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ 多树的草地 $>$ 草地,同时相邻不同植被类型之间的EVI变化基本处于0.05之间;夏季EVI基本介于0.35至0.55之间,同时常绿阔叶林、混交林、草地、多树的草地EVI相对较高并且彼此之间相差较小,常绿针叶林EVI最小;秋季EVI基本介于0.3至0.5之间,其中 EVI从大到小依次为常绿阔叶林>混交林>多树的草地 $>$ 常绿针叶林>草地,并且多年之间变化波动较小;冬季EVI基本介于0.15 至0.4之间,基本处于一年中最低值的时期,其中EVI从大到小依次为常绿阔叶林 $>$ 混交林 $>$ 常绿针叶林>多树的草地>草地。综合分析可知,常绿阔叶林季节性变化较小且EVI较高,草地季节性变化较大且EVI较小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2DMSP城市化胁迫分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "城市的快速发展,热岛效应的聚集,碳排放量的增加,对区域气候造成了一定的影响,从而对植被的生长造成一定的影响。本文利用美国军事气象卫星DMSP获取的遥感灯光数据,通过计算珠江流域内 2004—2013 年逐年的灯光数据平均值,并将其作为城市化水平高低的衡量,值越大代表城市化水平越高,反之越低。计算获得的DMSP卫星遥感灯光数据如图6所示,其年变化趋势如图7所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DMSP平均像素的亮度反映了经济发展城市化水平,但是它的发展是一个循序渐进的过程,其受发展程度和发展空间的制约,从而对平均像素亮度产生一定的影响,以2004年为基准年,2005和2006 的平均值有所减少，说明其处在发展的孕育初期,范围得到了扩张,但发展水平较低,因此平均值有所降低;随着发展的深人充分,发展水平的提高,带动了整体的提高 2007年达到一个新的台阶,如此反复,总体呈波动上升趋势。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e5d0c9dec8e828f24c50e11356e3fbcad4e421410a8fb8b4604b041535a318f.jpg",
+        "img_caption": [
+            "图4不同植被类型在2004—2013年期间的EVI变化状况"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0929e80434a913e8a72b585c1fecf67e733a8f74c80ca6a6a542faaa72ac35da.jpg",
+        "img_caption": [
+            "Fig.4 The EVI of different vegetation types changes from 2004 to 2013 ",
+            "图5在春夏秋冬不同季节不同植被类型的EVI变化",
+            "Fig.5The EVI changes from 2004 to 2013 in different seasons "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在 2004 年至 2013年的10a 期间,以2004 年为发展基础,城市化水平总体增长了约 $71 \\%$ ,年平均增长约$7 . 1 \\%$ ,发展周期基本以3a为1个阶段,呈现不断上升的趋势。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 自然环境变化分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据研究区内的44个国家基本气象站的日降水数据和日平均气温构建数据矩阵,利用公式(5)计算获得珠江流域内的 2004—2013年期间的44个国家基本气象站的年平均降水量（图8）、季度平均降水量（图9）、年平均气温(图10)和季度平均气温(图11）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据图8和图9可知,研究区内2004—2013年期间44个站点的平均年降水量波动较大,2008年降水量最多,2011年降水量最少,且在10 年间处于10a平均值以下的年份占到了 $4 0 \\%$ ,分别是2004、2007、2009 和2011年,这和珠江流域内广东、广西壮族自治区等发生的重大旱情的时间相吻合。其次,降水的季节主要发生在夏季，降水量从多到少依次是夏季 $\\mathrm { > }$ 春季 $>$ 秋季 $\\mathrm { > }$ 冬季,且不同年份降水的季节性波动基本一致。对比图3中的EVI的年际变化规律,发现降水的年际变化与植被的年际变化之间存在不一致性,也进一步的说明了，植被的变化不仅仅是受降水量变化的影响,是多种自然因素和人为因素综合叠加的体现。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e87df3e6855a8e11e0f63efb8bdcdbe7303e89b5a433a9e7b42ae8d244350627.jpg",
+        "img_caption": [
+            "图62004—2013年灯光数据的变化状况",
+            "Fig.6The light data ofDMSP from 2004 to 2013 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据图10和图11可知，研究区内2004—2013年期间44个站点的年平均气温变化较大，气温最高年份和最低年份相差超过 $1 ^ { \\circ } \\mathrm { C }$ ,且10 年间有一半年份的平均气温处于均线以下,气温季节性波动主要发生在冬季,夏季和秋季平均气温相对较高且波动较小,冬季气温较低且波动较大。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/90e6ca3a6663b3f376262ad9c625d88baf771ac47033abc003c2657bc4862863.jpg",
+        "img_caption": [
+            "图72004—2013年期间平均灯光亮度Fig.7The average lights from 2004 to 2013"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/db8dbd40a541f42ea99b28daa038e4879f3e07610090f35227fa73d8478f1d49.jpg",
+        "img_caption": [
+            "图82004—2013年研究区内雨量站年平均降水量"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/4c5fb9f920a6e68448a1dc91ff8243b8111509c908cf7cf1d6b502e6ba236748.jpg",
+        "img_caption": [
+            "图92004一2013年研究区内雨量站季度平均降水量"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为进一步的探讨植被变化与人类活动和自然环境之间的影响关系。本研究以珠江流域内的44个国家基本气象站作为采样点，提取点区域内的EVI、DMSP、气温和降水量值作为样本，分析其相互关系（图12）。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/291decddf401acfcc7307fc2c087447e2062b7daa4a20811f2e90aeaec8df4a2.jpg",
+        "img_caption": [
+            "Fig.8The average annual precipitation from 2oo4 to 2013 of rain gauging stations ",
+            "Fig.9The quarter average precipitation from 2o04 to 2013 of rain gauging stations ",
+            "图102004—2013年研究区内年平均气温Fig.10The average annual temperature from 2oo4 to 2013"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "结果表明在 2004—2013 年期间，植被指数 EVI整体处于不断降低的趋势，与之相反的是DMSP处于不断上升的趋势，降水量基本保持平稳，略呈上升趋势，气温整体稳中有降。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为继续探讨是人类活动还是自然环境对于植被EVI的影响起关键性作用,本文做了进一步的尝试性探索,通过获取EVI、DMSP、气温和降水的年变化率,分析变化的相关性,计算结果如图13 至图15 所示。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "结果表明,在2004—2013年期间,珠江流域内降水和气温的变化对于植被变化影响呈现正相关关系，人类活动的强度变化对于植被变化的影响呈现负相关关系。其中,人类活动对于植被变化影响的相关系数最高， $R ^ { 2 }$ 为0.4205，其次是气温和降水， $R ^ { 2 }$ 分别为0.4150 和0.2184。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综合上述分析可知，在2004—2013年期间，珠江流域内植被变化的主导因素是人类活动，自然环境中气温变化的影响要高于降水变化的影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/46a51ad03d44edf7605c00ac5ace434d033c15cc51346858509b242b2b47ce31.jpg",
+        "img_caption": [
+            "图112004一2013年研究区内季度平均气温"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/26a2351f2475138256adccaf4cd659ae6c61e69e0b1cc8d214c897f40d7ad490.jpg",
+        "img_caption": [
+            "Fig.11The quarter average temperature from 2oo4 to 2013 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/ecf9368b63e3a9f2cdc044008112e3a52f596055c3516c8b28855889feecae4a.jpg",
+        "img_caption": [
+            "Fig.12The 44 sample data in study area from 2004 to 2013 ",
+            "图13降水和植被之间的相关关系",
+            "Fig.13Relationship between precipitation and vegetation "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/1a41789bde8b8b73de0cb52a399bc301e10be65059b2f74c7b174bd316ce0db3.jpg",
+        "img_caption": [
+            "图122004—2013年研究区内44个样本数据",
+            "图14气温和植被之间的相关关系",
+            "Fig.14Relationship between temperature and vegetation "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5结论与展望 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "植被的变化主要受人类活动和自然环境的共同影响。目前国内外对人类活动和自然环境与植被变化之间的定量关系研究尚缺乏，本文主要从这两个方面进行了探讨，结果表明：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1)珠江流域内植被变化的主要影响因素是人类活动，自然环境影响不占主导地位，气温变化对植被生长的影响高于降水变化的影响。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2)珠江流域内年平均植被指数呈现弱下降趋势，不同植被类型之间植被指数变化趋势基本一致，相同植被类型植被指数年际变化较小。年平均降水量和年平均气温变化均较大。降水的季节主要发生在夏季，不同年份降水的季节性波动基本一致；气温季节性波动主要发生在冬季，夏季和秋季波动较小，冬季气温波动较大。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/cd25ee372001a145b5a6d31ac861dfa56f807f6dce74766466dd5713d3222494.jpg",
+        "img_caption": [
+            "图15DMSP 和植被之间的相关关系 Fig.15Relationship between DMSP and vegetation "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "植被的变化是一个复杂的过程,本文重点讨论了人类活动和自然环境的影响,下一步的研究中进一步的探索区域二氧化碳浓度的变化与植被变化之间的关系。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]Albani M,Medvigy D,Hurtt G C,Moorcroft PR.The contributions of land-use change, $\\mathrm { C O } _ { 2 }$ fertilization,and climate variability to the Eastern UScarbon sink.Global Change Biology，2006，12（12）：2370-2390.  \n[2] Parmesan C,YoheG.AgloballycoherentfingerprintofclimatechangeimpactsacrossnaturalsystemsNature,003,421（6918)：37-42.  \n[3]SchimelD,MllJ,anHQ,McGuieDickligherD,ielT,oseblooNngS,oonP,jaD,arto,KlyR,Sykes M,Neilson R，Rizzo B.Contribution of increasing $\\mathrm { C O } _ { 2 }$ and climate to carbon storage by ecosystems in the United States.Science,2O00,287(5460）:2004-2006.  \n[4] Su W,YuDY,nZ,anJG,uXX,uo.Vegeatiohagesineagicuralastorreasforthiafrt1.Journal of Integrative Agriculture，2016,15(5）：1145-1156.  \n[5] StoreyEA，tleaeigsfecofisepalusgulatalvgeatoeederived from Landsat imagery.Remote Sensing of Environment,2016,183：53-64.  \n[6] LiuXY,ZhouW,aiZK.Vgetatiocovergehangedabiltinrgeeitoalinesininaduring99olicalEngineering，2016,95：447-451.  \n[7] KeatingMPJOsC,lacdDlloeREJUKaltoelaeroicesdonin greenhouse gas fluxes from the Misissippi Delta agricultural region.Applied Soil Ecology,2016,98：278-281.  \n[8] SunWY,SogXGngGJoeaeoaeditedclrestoration in the Loess Plateau.Agriculturaland Forest Meteorology，2015,209-210：87-99.  \n[9] ZhouDC,ZaQZangLXLSGemotelysdessetofbsogeatioologinina'i.Remote Sensing of Environment，2016，176：272-281.  \n[10] ZhangY,XiaoXM,JinC,DongJW,ZhouS，WagleP,JoinerJ,GuanterL,ZhangGL,QinYW,WangJ,MooreB.Consistencybetweesun-inducedchlleseedssparypuctioofeatioirtmcamotesgfvot，154- 169.  \n[11] Zhang C,LuDS,CenX,ZhangY,isupovaB，aoY.Thespatiotemporalpaersofvegetationcovergeandbiomassofthepatedesertsin CentralAsiaandtheirrelationshipswith climatecontrols.Remote Sensingof Environment,2O16,175：271-281.  \n[12] XUHJ，WANGXZHAGXX.DcreasedvgetatiogowthinesposetosumerdrouhtiCentralAsiafro2t1IteoalJournal of Applied Earth Observation and Geoinformation，2016,52：390-402.  \n[13]TianF，radtiuYYVergerA,TagessonT,oufAA,asmusenK,bC,YangYJ,FesholtR.Remotesingeationdynamicsindrylands：Evaluatingvegetationopticaldepth（VOD）usingAVHRRNDVIandinsitugreenbiomassdataoverWestAfricanahel.Remote Sensing of Environment，2016，177：265-276.4 JuJCMasekJGevegeatiogrestrendinCandaadUSlaskafro19840Lansatdata.RemotSensingofEviront,016,176: 1- 16.  \n15 DetschF,OteIppeaT,Hp,aussT.easoaldlo-teegetatiodamcfro-basedtieratt.Kilimanjaro，Tanzania.Remote Sensing of Environment，2016,178：70-83.  \n[16] SuepaT,QiJG,awawogSesinaJUderstadngsatipoalaratioofgeooogndinfallasoaiiemonsoon Southeast Asia.Environmental Research，2016,147：621-629.  \n[17] HueteA，DidanK,Mura,odriguezEP,GaoX,FereiraLGOverviewofteradiometricandbiopsicalperformanceoftheODIvegetation indices.Remote Sensing of Environment，2002，83(1/2）：195-213.  \n[18] WangXH.LandusechangesanditsimpactonlandsurfacetemperatureofYanchengCityfrom2oto2oanalysis//SelectedPapersfromConferencesoftetoelectroncTechlogommieeofeineseSocietyofstroautics：OpticalImaging，RemoteSensingdseMatter Interaction.Suzhou：SPIE，2014.  \n[19] 卓莉，陈晋，史培军，辜智慧，范一大，一之瀬俊明.基于夜间灯光数据的中国人口密度模拟.地理学报，2005,60(2)：266-276.  \n[20] 郝蕊芳，于德永，刘宇鹏，孙云.DMSP/OLS 灯光数据在城市化监测中的应用.北京师范大学学报：自然科学版，2014,50（4)：407-413.",
+        "page_idx": 9
+    }
+]

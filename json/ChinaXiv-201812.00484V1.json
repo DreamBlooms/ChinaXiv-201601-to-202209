@@ -1,0 +1,415 @@
+[
+    {
+        "type": "text",
+        "text": "1 不同饲养模式下饲粮非纤维性碳水化合物/中性洗涤纤维对生长期杜寒杂交母羊生长性  \n2 能、营养物质表观消化率和甲烷产量的影响",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周艳1,2 许贵善\\* 董利锋² 邓凯东马　涛²　刁其玉²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.塔里木大学动物科学技术学院，阿拉尔 843300；2.中国农业科学院饲料研究所，农业部饲料生物技术重点实验室，北京100081;2.金陵科技学院动物科学与技术学院，南京 210038)摘要：本试验旨在借助开路式呼吸测热系统研究饲粮非纤维性碳水化合物（NFC）/中性洗涤纤维／（NDF）对生长期杜寒杂交母羊生长性能、营养物质表观消化率及甲烷产量的影响。采用单因素试验设计，选取体况良好、体重为（ $2 7 . 8 \\pm 0 . 5$ ） $\\mathbf { k g }$ 的母羊30只，根据体重一致原则，分配到3组，各组饲粮NFC/NDF分别为0.78（精粗比为35:65）、1.03（精粗比为50:50）、2.17（精粗比为65:35 组），每组10只羊。试验期为 $2 5 { \\mathrm { ~ d ~ } }$ ，包括3d调整期、7d预试期和 $1 5 { \\mathrm { d } }$ 正试期。结果表明：在 $\\mathrm { N F C / N D F { = } 0 . 7 8 }$ 组自由采食和其他组限饲条件下，3 组试验羊的初始体重和结束体重以及平均日增重无显著性差异( $. P { > } 0 . 0 5 \\ '$ ）。当饲粮NFC/NDF由0.78增加至2.17时，干物质采食量显著降低（ $\\cdot - 0 . 0 5$ ），干物质、有机物和粗蛋白质表观消化率显著增加（ $P { < } 0 . 0 5$ ），NDF和酸性洗涤纤维（ADF）表观消化率无显著性差异（ $P { > } 0 . 0 5$ ）。当饲粮 NFC/NDF由0.78增加至2.17时，甲烷能、单位干物质采食量的甲烷产量、单位总能摄入量的甲烷能产量显著降低（ $P { < } 0 . 0 5$ ）。结果提示，在平均日增重一致的前提下，高NFC/NDF 饲粮料重比较低，且甲烷转化效率较低；对生长期杜寒杂交母羊来说，限饲条件下饲喂NFC/NDF为2.17的饲粮在提高生产效益的同时又兼顾甲烷减排，效果相对最佳。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：甲烷；非纤维性碳水化合物/中性洗涤纤维；生长性能；消化代谢；呼吸测热 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "我国是反刍动物养殖大国，2014年牛和羊存栏量分别达到了1.3和3.0亿头[1]。闵继胜等[2]统计2008 年我国畜牧业甲烷和氧化亚氮的排放总量为 $9 0 0 . 0 { \\times } 1 0 ^ { 4 }$ 和 $4 6 . 9 \\times 1 0 ^ { 4 }$ t。来自家畜生产过程中较大规模的温室气体产量不仅意味着我国畜牧行业缺乏精细化管理与较低质量的生产效率，也反映了我国畜牧行业较差的盈利能力与较弱的整体抗风险能力。反刍动物凭借其独特的瘤胃系统经瘤胃产甲烷菌的作用将结构性碳水化合物发酵过程中所产生的氢气和二氧化碳转化成甲烷[3]。这部分不能被动物利用的甲烷能约占饲料总能的 $2 \\% { \\sim } 1 5 \\%$ 。以往的研究表明，反刍动物甲烷产量受到如动物品种、生理发育阶段、瘤胃微生物菌群结构和发酵类型等的影响，目前的研究也大多以调节饲粮营养水平、添加外源性调控剂等方法为主调控甲烷产生。随着我国畜牧养殖产业的战略转型，规模化的舍饲生产模式将成为我国养羊产业的重点，由此产生的温室气体排放规律将成为研究的重点之一。针对杜泊杂交肉羊的温室气体排放规律进行研究，明确有效降低瘤胃甲烷产生的饲粮类型，不仅能够显著降低温室气体的产量，也能够显著提升生产过程中的生产效率，从而促进和保障我国节粮型农业和可持续农业的发展。本文从饲粮非纤维性碳水化合物（NFC）/中性洗涤纤维（NDF）入手，研究其对生长期杜寒杂交母羊生长性能、营养物质表观消化率和甲烷产量的影响，旨在为饲粮配方的合理配制及甲烷减排提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1时间和地点本试验于2016年12月-2017年5月在中国农业科学院南口中试基地试验羊场进行。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用单因素试验设计，以杜泊羊（） $\\times$ 小尾寒羊（♀）杂交 $\\mathrm { F } _ { 1 }$ 代母羊为试验动物，选取体况良好、体重为（ $2 7 . 8 \\pm 0 . 5 2$ ）kg 的母羊30只，根据体重一致原则，将试验羊分配到3 组，各组饲粮 NFC/NDF分别为0.78（精粗比为35:65）、1.03（精粗比为50:50）、2.17（精粗比为65:35组），每组10只羊。参考NRC（2007）配制全混颗粒饲料，预混料由北京精准动物营养研究中心提供。试验饲粮组成及营养水平见表1。试验全期NFC/NDF=0.78组自由采食，其他2组限饲，自由饮水。试验期为25d，其中调整期3d，预试期7d，正试期 $1 5 { \\mathrm { d } }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3饲养管理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验羊单栏饲养，每只羊占地约 $2 . 6 \\mathrm { m } ^ { 2 }$ 。母羊试验期间最高温度 $2 1 . 2 ^ { \\circ } \\mathrm { C }$ ，最低 $1 8 . 9 ^ { \\circ } \\mathrm { C }$ 平均温度为 $1 7 . 1 \\ { ^ { \\circ } \\mathrm { C } }$ 。试验羊预试前每只灌服伊维菌素溶液 $2 . 5 ~ \\mathrm { m L }$ 进行驱虫处理。NFC/NDF $\\mathrm { \\dot { \\tau } = } 0 . 7 8$ 组自由采食量根据前1天羊只的采食量进行调整，确保饲槽内有 $10 \\%$ 左右的剩料。每天08:00饲喂1次，17:00饲喂1次，自由饮水。饲喂前采集饲料样本，精确称取前1天的剩料并在混合均匀后采样，对采食量和剩料量均严格记录，用于计算整个试验期内各组试验羊干物质采食量（DMI）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1试验饲粮组成及营养水平 (风干基础)",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Table1 Composition and nutrient levels of experimental diets (air-dry basis ) % ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/aa8b7dfcb33da13f4db35732560dc41ba29a71379990d42a60fe5f0dd0e403a0.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>C 70</td></tr><tr><td>非纤维性碳水化合物/中性洗涤纤维 NFC/NDF</td></tr><tr><td>项目Items 0.78 1.03 2.17</td></tr><tr><td>原料 Ingredients</td></tr><tr><td>羊草 Chinese wildrye 65.00 50.00 35.00</td></tr><tr><td>玉米Corn 19.10 32.91 46.69</td></tr><tr><td>豆粕 Soybean meal 13.00 14.05 15.10</td></tr><tr><td>磷酸氢钙 CaHPO4 0.60 0.55 0.53</td></tr><tr><td>石粉Limestone 0.80 0.99 1.18</td></tr><tr><td></td></tr><tr><td>食盐 NaCl 0.50 0.50 0.50</td></tr><tr><td>预混料 Premix1) 1.00 1.00 1.00</td></tr><tr><td>合计 Total 100.00 100.00 100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td></tr><tr><td>干物质 DM 88.87 87.55 84.90</td></tr><tr><td>有机物OM 91.67 91.59 91.53</td></tr><tr><td>粗蛋白质 CP 8.08 8.60 9.46</td></tr><tr><td>代谢能 ME/(MJ/kg) 8.03 8.02 8.04</td></tr><tr><td>粗脂肪 EE 2.28 2.68 2.74</td></tr><tr><td>中性洗涤纤维 NDF 45.59 39.65 36.59</td></tr><tr><td>酸性洗涤纤维 ADF 22.20 15.88 13.10</td></tr><tr><td>钙Ca 1.14 1.17 1.15</td></tr><tr><td></td></tr><tr><td>磷P 0.33 0.39 0.41</td></tr><tr><td>非纤维性碳水化合物NFC 35.72 40.66 79.33 精粗比 Concentrate :forage 35:65 50:50 65:35</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "57 1预混料为每千克饲粮提供 The premix provided the following per $\\mathbf { k g }$ of diets: VA 15 000 IU,VD 2 200 IU,   \n58 VE 50 IU， Fe $5 5 \\mathrm { m g }$ ， $\\mathrm { C u } 1 2 . 5 \\mathrm { m g }$ ， $\\mathrm { M n } 4 7 \\mathrm { m g }$ ， $Z n 2 4 { \\mathrm { ~ m g } }$ ，Se $0 . 5 \\mathrm { m g }$ ， $\\mathrm { ~ I ~ } 0 . 5 \\mathrm { ~ m g }$ ， $\\mathrm { C o } 0 . 1 \\mathrm { m g }$ 。   \n59 2)代谢能、非纤维性碳水化合物为计算值，非纤维性碳水化合物 $^ { = 1 }$ （中性洗涤纤维 $^ +$ 粗蛋白质 $^ +$ 粗脂肪 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "+粗灰分），其余为实测值。MEandNFCwerecalculatedvalues,NFC $\\scriptstyle : = 1$ -(NDF+CP+EE+Ash）， while otherswere measured values.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4 消化代谢试验 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验正试期于每天晨饲前采用全收粪尿法收集粪、尿。收集粪样时，将每只试验羊对应的收粪袋取下后称取重量，记录其前1天的排粪量，随后将每只试验羊的粪样搅拌均匀后，按排粪量的 $10 \\%$ 进行取样。在收集尿样前，需先向收集尿桶中加入 $1 0 0 \\mathrm { m L } 1 0 \\%$ 的 $\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }$ 以固尿氮，收集后记录每只试验羊对应的尿液体积，随后用4层纱布过滤，按每只羊排尿量的$10 \\%$ 进行取样。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5气体代谢试验 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "甲烷产量采用开路式气体代谢系统（Sable，美国）进行测定，系统连接3个呼吸测热箱，可以同时测定3只羊的甲烷产量。每个呼吸测热箱内配有料槽和水槽，试验羊在试验期间可以自由采食和饮水。在试验正试期的第1、4、7、10、13天，将试验动物分5批（3只/批，每组1只）先后进入3个气体代谢箱内，适应 $2 4 \\mathrm { h }$ ，随后再测定其 $4 8 \\mathrm { h }$ 的甲烷产量、二氧化碳产量（GGA，LosGatosReserch，美国）及氧气消耗量（FC-10氧气测定仪，Sable,美国）。本试验中测定系统 $3 0 \\mathrm { m i n }$ 循环4次。开始测定时，系统首先测定试验环境中甲烷的含量，测定时间为 $2 ~ \\mathrm { m i n }$ ，随后由环境向呼吸测热箱内置换，置换时间为 $1 \\mathrm { m i n }$ ，然后依次测定3个呼吸测热箱的甲烷产量，每个呼吸测热箱测定时间为 $2 \\mathrm { m i n }$ ，接着系统由呼吸测热箱向环境置换，置换时间为 $1 \\mathrm { m i n }$ ，最后再次测定试验环境中的甲烷含量，测定时间为 $2 \\mathrm { m i n }$ 0以上为开路式气体代谢系统完成1个周期的测定流程，以此循环连续测定 $4 8 \\mathrm { { h } }$ 的甲烷产量。计算过程中，以前后2次测定的试验环境中甲烷含量的平均值作为基底值，通过开路式气体代谢系统的测定程序对应的宏文件进行计算机统计分析，得到每只试验羊每天的甲烷产量。在试验羊进入和离开气体代谢室时分别对其进行体重测定，以2次测定的平均体重作为试验羊代谢体重的计算依据。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6 测定指标及方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6.1 生长性能",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "每天晨饲前，记录前1天NFC/NDF=0.78 组剩料量，并根据剩料量占饲喂量比例调整第2天采食量，保证为自由采食水平；其他2组根据每5d称重结果调整采食量，确保增重效",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "果与自由采食组平均日增重相近。对采食量、剩料量均严格记录，用于计算整个试验期每只羊的干物质采食量，记录体重变化，并计算平均日增重和料重比。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.6.2 样品分析和测定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "消化代谢和气体代谢试验结束后，将每只羊的粪样、饲粮样、剩料样置于 $6 5 ~ ^ { \\circ } \\mathrm { C }$ 烘箱内烘干 $4 8 \\mathrm { h }$ ，回潮 $2 4 \\mathrm { h }$ 后称重，得出初水分含量，随后经粉碎过40目网筛制成分析样品，以备分析检测干物质（dry matter，DM）、粗灰分（Ash）、粗蛋白质（crude protein，CP）、粗脂肪（ether extract，EE）含量。NDF 和酸性洗涤纤维（acid detergent fiber，ADF）含量，总能（gross energy，GE）、粪能（fecal energy，FE）、尿能（urinary energy，UE）以及钙（Ca）和磷（P）含量测定依据《饲料分析及饲料质量检测技术》[4]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.7 数据统计分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试验数据采用Excel2007进行初步整理，统计分析采用SAS9.4统计软件ANOVA进行数据独立性、正态性和方差齐性检验，差异显著时用Duncan氏多重比较检验，以 $P { < } 0 . 0 5$ 为差异显著的判断标准。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1 生长性能",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2为饲粮 NFC/NDF 对生长期杜寒杂交母羊生长性能的影响。3组母羊的初始体重、结束体重无显著性差异（ ${ \\cdot } P { > } 0 . 0 5$ ）。NFC/NDE $\\scriptstyle \\mp = 0 . 7 8$ 组、NFC/NDF $\\mathord { \\mathrm { \\Omega } } ^ { : } = 1 . 0 3$ 组和 NFC/NDF=2.17组的平均日增重分别为169.93、162.47和 $1 5 7 . 1 0 ~ \\mathrm { g / d }$ ，组间无显著性差异（ $P { > } 0 . 0 5$ ）。NFC/NDF ${ \\bf \\dot { \\tau } } = 2 . 1 7$ 组干物质采食量（ $1 2 9 0 . 0 0 \\mathrm { g / d }$ ）显著低于NFC/NDF $\\scriptstyle : = 0 . 7 8$ 组（ $1 7 9 0 . 0 0 \\mathrm { g / d }$ $\\scriptstyle P < 0 . 0 5 .$ ，与 $\\mathrm { N F C / N D F } { = } 1 . 0 3$ 组 $( 1 4 1 2 . 0 0 \\mathrm { g / d } )$ 无显著性差异（ ${ \\it P } { > } 0 . 0 5 { \\it \\Psi }$ ）。同时，NFC/NDF=2.17组的料重比（8.43）显著低于 $\\mathrm { N F C / N D F { = } } 0 . 7 8$ 组（10.57， $P { < } 0 . 0 5$ ），NFC/NDE $\\scriptstyle \\vec { \\cdot } = 1 . 0 3$ 组与其他2组均无显著性差异（ $. { \\cal P } { > } 0 . 0 5$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2饲粮NFC/NDF对生长期杜寒杂交母羊生长性能的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b9177e7c380401d4bf29230533027d0a5a6e712a9c1efcfdeffc308a0d02d555.jpg",
+        "table_caption": [
+            "Table 2Effects of dietary NFC/NDF on growth performance of growing Dorper and thin-tailed Han "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">crossbred ewes</td></tr><tr><td>项目Items</td><td colspan=\"3\">非纤维性碳水化合物/中性洗涤纤维 NFC/NDF</td><td>P值</td></tr><tr><td rowspan=\"2\"></td><td>0.78</td><td>1.03</td><td>2.17</td><td>SEM P-value</td></tr><tr><td>5</td><td>5</td><td>5</td><td></td></tr><tr><td>试羊数No.of ewe 初始体重 Initial BW/kg</td><td>27.82</td><td>27.48</td><td>27.83</td><td>0.55 0.961</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/af92c4b4de314c0d046ea58670878d65d95081785301b54464f00d3e6e9e93a7.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>结束体重 Final BW/kg</td><td>36.15</td><td>35.44</td><td>35.53</td><td>0.64</td><td>0.919</td></tr><tr><td>平均日增重 ADG/(g/d)</td><td>169.93</td><td>162.47</td><td>157.10</td><td>5.96</td><td>0.757</td></tr><tr><td>干物质采食量 DMI/（g/d)</td><td>1 790.00a</td><td>1 412.00b</td><td>1290.00b</td><td>62.24</td><td><0.001</td></tr><tr><td>料重比F/G</td><td>10.57a</td><td>8.76ab</td><td>8.43b</td><td>0.41</td><td>0.111</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "同行数据肩标相同或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ 。下表同。 In the same row, values with the same or no lettr superscripts mean no significant diference $( P { > } 0 . 0 5 )$ ,while with different small letter superscripts mean significant difference ( $( P { < } 0 . 0 5 )$ . The same as below. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2 营养物质表观消化率 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表3为饲粮 NFC/NDF 对生长期杜寒杂交母羊营养物质表观消化率的影响。随着饲粮NFC/NDF的升高，干物质、有机物的表观消化率增加，其中 $\\mathrm { N F C / N D F = } 2 . 1 7$ 组显著高于NFC/NDF=0.78组和 $\\mathsf { N F C / N D F = 1 } . 0 3$ 组（ $\\cdot P { < } 0 . 0 5$ ），后2组间无显著性差异（ $. P { > } 0 . 0 5$ ）。粗蛋白质表观消化率随NFC/NDF的升高而升高，其中 $\\mathrm { N F C / N D F { = } } 0 . 7 8$ 组显著低于NFC/NDF=2.17组和1 $\\mathrm { \\Delta V F C / N D F = } 1 . 0 3$ 组，后2组间无显著性差异（ $\\cdot P { > } 0 . 0 5$ ）。NDF表观消化率随NFC/NDF的升高而升高，3组间无显著性差异( $( P { > } 0 . 0 5 )$ 。ADF表观消化率随NFC/NDF的升高而下降，3组间无显著性差异（ $\\scriptstyle P > 0 . 0 5 { \\mathrm { . } }$ ）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表3饲粮NFC/NDF对生长期杜寒杂交母羊营养物质表观消化率的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/392fc41b6de2a75a73aec9e3c38e5036e338627c1cfd6758382ff231ebaa5d22.jpg",
+        "table_caption": [
+            "Table 3Effects ofdietary NFC/NDF on nutrient apparent digestibility of growing Dorper and thin-tailed "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">Han crossbred ewes</td></tr><tr><td>项目Items</td><td colspan=\"3\">非纤维性碳水化合物/中性洗涤纤维 NFC/NDF</td><td rowspan=\"2\">P值 SEM P-value</td></tr><tr><td></td><td>0.78</td><td>1.03</td><td>2.17</td></tr><tr><td>干物质 DM</td><td></td><td></td><td></td><td></td></tr><tr><td>采食量 Intake/（g/d)</td><td>1 702.64a</td><td>1395.58b</td><td>1 210.03b</td><td>65.91 0.003</td></tr><tr><td>粪排泄量 Feces output/ （g/d)</td><td>832.78a</td><td>616.13b</td><td>470.37c</td><td>46.23 0.0001</td></tr><tr><td>表观消化率 Apparent digestibility/%</td><td>51.18b</td><td>55.77b</td><td>61.34a</td><td>1.40 0.004</td></tr><tr><td>有机物OM</td><td></td><td></td><td></td><td></td></tr><tr><td>采食量Intake/（g/d)</td><td>1 543.10a</td><td>1 261.47b</td><td>1089.27b</td><td>60.41 0.003</td></tr><tr><td>粪排泄量 Feces output/ （g/d)</td><td>781.90a</td><td>578.83b</td><td>440.12c</td><td>43.83 0.0009</td></tr><tr><td>表观消化率 Apparent digestibility/%</td><td>49.43b</td><td>54.43b</td><td>59.82a</td><td>1.46 0.006</td></tr><tr><td>粗蛋白质 CP</td><td></td><td></td><td></td><td></td></tr><tr><td>采食量Intake/（g/d)</td><td>154.77</td><td>137.04</td><td>134.80</td><td>4.17 0.145</td></tr><tr><td>粪排泄量 Feces CP output/（g/d)</td><td>107.07a</td><td>79.82b</td><td>71.17b</td><td>5.03 0.004</td></tr><tr><td>表观消化率 Apparent digestibility/%</td><td>30.95b</td><td>41.54a</td><td>47.47a</td><td>2.21 0.003</td></tr><tr><td>中性洗涤纤维NDF</td><td></td><td></td><td></td><td></td></tr><tr><td>采食量Intake/（g/d)</td><td>873.46a</td><td>631.92b</td><td>521.52c</td><td>43.67 0.0001</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/737e22a0684e861ff509d01d1305310fbf374cd2de91b6cdff03e84328b69a2a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>粪排泄量 Feces output/ （g/d)</td><td>554.40a</td><td>386.02b</td><td>308.41b</td><td>33.27</td><td>0.003</td></tr><tr><td>表观消化率 Apparent digestibility/%</td><td>36.85</td><td>38.95</td><td>41.20</td><td>1.53</td><td>0.603</td></tr><tr><td>酸性洗涤纤维 ADF</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>采食量 Intake/（g/d)</td><td>425.32a</td><td>253.16b</td><td>186.71c</td><td>28.59</td><td><0.0001</td></tr><tr><td>粪排泄量 Feces output/（g/d)</td><td>265.36a</td><td>188.68b</td><td>141.38c</td><td>15.55</td><td>0.0004</td></tr><tr><td>表观消化率 Apparent digestibility/%</td><td>37.15</td><td>24.89</td><td>24.76</td><td>3.06</td><td>0.233</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "126 2.3 能量代谢 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表4为饲粮NFC/NDF对生长期杜寒杂交母羊能量代谢的影响。 $N \\mathrm { F C / N D F { = } } 0 . 7 8$ 组、NFC/NDF $\\stackrel { \\cdot } { = } 1 . 0 3$ 组和NFC/NDE $\\scriptstyle \\mathtt { \\bar { \\iota } } = 2 . 1 7$ 组的总能摄入量随着饲粮NFC/NDF的增加而降低，其中 $\\mathrm { N F C / N D F } { = } 1 . 0 3$ 组和 ${ \\mathrm { N F C / N D F } } { = } 2 . 1 7$ 组之间无显著性差异(25.58vs.22.91MJ/d, $P { > } 0 . 0 5$ )，但均显著低于 $\\mathrm { N F C / N D F { = } } 0 . 7 8$ 组（ $. P { < } 0 . 0 5 ^ { \\cdot }$ ）；消化能摄入量具有相同的变化趋势，而3组的代谢能摄入量无显著性差异（ $. { \\cal P } { > } 0 . 0 5$ ）。NFC/NDF $\\mathrm { \\dot { \\iota } = } 0 . 7 8$ 组的粪能和甲烷能显著高于另外 2组（ $. P { < } 0 . 0 5$ ），分别为15.62和 $3 . 1 4 \\mathrm { M J / d }$ ，但尿能无显著性差异（ $P { > } 0 . 0 5$ ）。对于总能表观消化率和总能代谢率来说，随着饲粮NFC/NDF 的增加，2者均显著提高（ $_ { \\cdot \\textcircled { P } < 0 . 0 5 }$ ）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表4饲粮NFC/NDF对生长期杜寒杂交母羊能量代谢的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/ea378525bf7460a0068919c5fcbafc48c902f3bcb25cde0f501394d256fd98df.jpg",
+        "table_caption": [
+            "Table 4Effects of dietary NFC/NDF on energy metabolism of growing Dorper and thin-tailed Han ",
+            "crossbred ewes ",
+            "非纤维性碳水化合物/中性洗涤纤维"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td colspan=\"3\">NFC/NDF</td><td>SEM</td><td>P值 P-value</td></tr><tr><td></td><td>0.78</td><td>1.03</td><td>2.17</td><td></td><td></td></tr><tr><td>总能摄入量GEI/ (MJ/d)</td><td>30.77a</td><td>25.58b</td><td>22.91b</td><td>1.11</td><td>0.007</td></tr><tr><td>粪能FE/ (MJ/d)</td><td>15.62a</td><td>11.43b</td><td>8.94c</td><td>0.86</td><td>0.001</td></tr><tr><td>尿能UE/ (MJ/d)</td><td>0.79</td><td>0.63</td><td>0.53</td><td>0.06</td><td>0.271</td></tr><tr><td>消化能摄入量 DEI/(MJ/d)</td><td>25.91a</td><td>19.92b</td><td>16.91b</td><td>1.39</td><td>0.028</td></tr><tr><td>代谢能摄入量MEI/（MJ/d)</td><td>19.23</td><td>15.79</td><td>14.44</td><td>0.94</td><td>0.147</td></tr><tr><td>甲烷能 Methane energy/ （MJ/d)</td><td>3.14a</td><td>2.39b</td><td>1.43c</td><td>0.22</td><td>0.0003</td></tr><tr><td>总能表观消化率</td><td>49.32c</td><td>55.26b</td><td>61.23a</td><td>1.58</td><td>0.002</td></tr><tr><td>GE apparent digestibility/% 总能代谢率 GE metabolic rate/%</td><td>73.97</td><td>79.47b</td><td>85.30a</td><td>1.43</td><td>0.0004</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4甲烷产量",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表5为饲粮NFC/NDF对生长期杜寒杂交母羊甲烷产量的影响。 $N \\mathrm { F C / N D F { = } } 0 . 7 8$ 组的甲烷日产量为 $7 9 . 3 2 \\mathrm { L } / \\mathrm { d }$ ，显著高于NFC/NDF $\\mathsf { \\Pi } _ { = 1 . 0 3 }$ 组（ $6 0 . 5 8 \\mathrm { L } / \\mathrm { d } )$ 和 ${ \\mathrm { N F C / N D F } } { = } 2 . 1 7$ 组（36.07L/d）( $\\scriptstyle \\cdot < 0 . 0 5$ ）。同样地，单位代谢体重的甲烷产量随着饲粮NFC/NDF 的增加而显著上升",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（ $P { < } 0 . 0 5$ ），其中NFC/NDF $_ { = 0 . 7 8 }$ 组、NFC/NDF $\\scriptstyle = 1 . 0 3$ 组和NFC/NDF $= 2 . 1 7$ 组的甲烷产量分别为5.79、4.36 和 $2 . 5 7 \\mathrm { L } / ( \\mathrm { k g } \\mathrm { B W } ^ { 0 . 7 5 } \\bullet \\mathrm { d } )$ 。单位干物质采食量的甲烷产量、单位有机物采食量的甲烷产量、单位可消化有机物采食量的甲烷产量和单位可消化NDF采食量的甲烷产量随着饲粮NFC/NDF的增加而降低， $\\mathrm { N F C / N D F { = } } 0 . 7 8$ 组和NFC/NDF $\\mathsf { \\Pi } _ { : = 1 . 0 3 }$ 组无显著性差异（ $_ { , P > 0 . 0 5 ) }$ ，但均显著高于NFC/NDF $_ { \\mathrm { i = 2 . 1 7 } }$ 组 $_ { \\cdot } P { < } 0 . 0 5$ ）。NFC/NDF $\\mathrm { \\dot { = } } 0 . 7 8$ 组和NFC/NDF $\\mathbf { \\bar { \\rho } } = 1 . 0 3$ 组单位总能摄入量的甲烷能产量分别为10.25和9.35，显著高于 $\\mathrm { N F C / N D F } { = } 2 . 1 7$ 组的6.32$_ { . } { \\scriptstyle { P < 0 . 0 5 } }$ ），但NFC/NDF $\\mathrm { \\dot { \\iota } = } 0 . 7 8$ 组和NFC/NDF $\\scriptstyle = 1 . 0 3$ 组之间差异不显著（ $. { \\cal P } { > } 0 . 0 5$ ）。单位消化能摄入量的甲烷能产量和单位代谢能摄入量的甲烷能产量与单位总能摄入量具有相同的变化规律。单位平均日增重的甲烷产量在3组之间无显著性差异（ $. { \\cal P } { > } 0 . 0 5$ ）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表5饲粮NFC/NDF对生长期杜寒杂交母羊甲烷产量的影响",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "非纤维性碳水化合物/中性洗涤纤维 NFC/NDF $P$ 值SEM0.78 1.03 2.17 （20 $P$ -value  \n甲烷日产量 Methane daily emission/ （L/d) 79.32a 60.58b 36.07c 5.48 <0.001  \n单位代谢体重的甲烷日产量 Methane daily emission per unit of BWo.75/[L/(kg  \nBwd)] 5.79a 4.36b 2.57℃ 0.41 <0.001  \n单位平均日增重的甲烷产量 Methane emission per unit of ADG/（L/g) 0.42 0.33 0.29 0.03 0.251  \n单位干物质采食量的甲烷产量 Methane emission per unit of DMI/（L/kg) 46.85a 43.36a 30.23b 2.75 0.020  \n单位有机物采食量的甲烷产量 Methane emission per unit of OMI/（L/kg) 51.69a 47.97a 33.58b 3.02 0.022  \n单位中性洗涤纤维采食量的甲烷产量 Methane emission per unit of NDFI/（L/kg) 91.32 95.76 70.14 5.27 0.082  \n单位可消化有机物采食量的甲烷 Methane emission per unit of digestible OMI/（L/kg） 104.39a 88.74a 55.76b 6.57 0.001  \n单位可消化中性洗涤纤维采食量的甲烷产量 Methane emission per unit of dNDFI/248.9a 247.2a 170.1b 14.00 0.012  \n（L/kg)  \n单位总能摄入量的甲烷能产量 Methane energy emission per unit of GEI 10.25a 9.35a 6.32b 0.62 0.012  \n单位消化能摄入量的甲烷能产量 Methane energy emission per unit of DEI 12.31a 12.21a 8.57b 0.768 0.062  \n单位代谢能摄入量的甲烷能产量 Methane energy emission per unit of MEI 16.69a 15.41a 10.10b 1.14 0.030",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "反刍动物凭借其独特的瘤胃系统能够将难以降解的纤维类物质经微生物的作用产生能量供机体利用。以往的研究表明，动物的不同生理阶段、饲养模式、饲粮营养组成等不仅能够影响其营养物质和能量的消化代谢效率，也能够影响瘤胃发酵性能和甲烷的产量。本试验通过设置自由采食和限饲2种饲养模式下3种饲粮NFC/NDF，研究杜寒杂交母羊生长性能、",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "营养物质表观消化率和甲烷产量的影响。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1饲粮 NFC/NDF 对杜寒杂交母羊生长性能的影响",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "饲养模式以及饲粮营养成分能够影响反刍动物的采食量、增重、料重比等生长指标。张立涛等[5]采用单因素完全随机试验设计考察了饲粮相同粗蛋白质水平下不同NDF 比例对杜寒杂交肉用绵羊生长性能的影响，结果表明随着饲粮NDF比例的逐渐升高 $( 2 6 . 5 1 \\% , 3 3 . 3 5 \\%$ $3 8 . 7 1 \\%$ 、 $4 3 . 5 1 \\%$ 、 $4 8 . 3 5 \\%$ ），试验羊净增重和平均日增重没有显著差异，而其干物质采食量与饲粮NDF比例呈现正相关关系（ $R ^ { 2 } { = } 0 . 7 4$ ）。本试验中饲粮NFC/NDF对初始体重、结束体重以及平均日增重没有显著影响，当饲粮NFC/NDF 由0.78增加至2.17时，干物质采食量显著降低。与丁静美等[研究中设定的维持水平不同，本试验限饲（NFC/NDF=1.03 组和 NFC/NDF=2.17组）条件下采食较高水平NFC/NDF饲粮的试验羊能够以较低的干物质采食量和有机物采食量来实现与自由采食（NFC/NDF=0.78 组）条件下相同的平均日增重和结束体重。同时，本试验中限饲条件下尤其是 ${ \\mathrm { N F C / N D F } } { = } 2 . 1 7$ 组料重比显著低于自由采食的NFC/NDF=0.78组，限饲高精料饲粮即可满足维持需要，多余的营养物质能够直接用于生产而节约了成本。另外，本试验饲粮为参考NRC（2007）日增重为 $2 5 0 \\ \\mathrm { g / d }$ 的绵羊营养需要量配制全混合颗粒料，但实际平均日增重低于目标平均日增重的原因可能是NRC（2007）标准在我国杜寒杂交肉羊实际生产上的适用性问题和试验过程中季节温度的影响。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2饲粮NFC/NDF对杜寒杂交母羊营养物质表观消化率和能量代谢的影响 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "以往的研究表明，饲粮结构是决定其营养物质消化率的主要因素。木质素通过共价键形式结合半纤维素，并将纤维素分子包被其中，难以被瘤胃微生物降低利用。王文奇等[7]研究了不同精粗比全混合颗粒饲粮对母羊营养物质表观消化率、氮代谢和能量代谢的影响。结果表明随着饲粮NDF比例的升高（由 $3 3 . 9 6 \\%$ 升高至 $5 3 . 2 9 \\%$ ），营养物质（干物质、有机物和粗蛋白质）表观消化率显著下降，NDF表观消化率表现先升高后降低，全消化道消化氮极显著增加，同时饲粮消化能、代谢能、总能表观消化率整体表现上升的趋势。本试验中设置的自由采食和限饲2种饲养模式不同于王文奇等[7设置的限饲水平,但随着饲粮NFC/NDF的升高，饲粮中可被瘤胃微生物快速降解和利用的物质含量的增多，有利于纤维分解菌和蛋白质分解菌等的大量繁殖，进而显著增加营养物质（干物质、有机物和粗蛋白质）的表观消化率，与刘洁等[8]研究结果一致。Tyrrell等[]提出总能摄入量与粪能排泄量呈正相关的结论，与许贵善等[10]、王文奇等[的结果一致。本试验中，总能摄入量、粪能、尿能、甲烷能、消化能摄入量及代谢能摄入量随饲粮 NFC/NDF 的升高而下降，故推测，当饲粮NFC 比例升高时，瘤胃发酵模式由乙酸型发酵转变为丙酸型发酵，可发酵有机物降解过程中丙酸、丁酸含量的增多，可刺激瘤胃乳突发育，增加单位面积乳突数量、长度、宽度，从而提高瘤胃上皮对挥发性脂肪酸的吸收量[]，增加饲粮的营养消化率。另外，本试验中干物质采食量的增加必将引起单位NDF采食量的增加，也使得瘤胃中更多的营养成分转移至肠道中被分解，总肠道NDF 消化率也随之增加[12]。虽然瘤胃 NDF 消化率降幅小于瘤胃淀粉消化率，但粗纤维消化率受到的影响偏大，可以解释本试验中随着NFC/NDF 的升高，ADF 表观消化率随之下降的结果。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3饲粮 NFC/NDF 对杜寒杂交母羊甲烷产量的影响",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 采食量对甲烷产量的影响",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "大量的研究表明，反刍动物干物质采食量与甲烷产量呈正相关关系。高采食水平增加了瘤胃食糜的流通速率，减少了发酵底物与瘤胃微生物的作用时间、接触范围和流通速率，改变了瘤胃微生物数量和挥发性脂肪酸发酵模式，可用来解释 $28 \\%$ 的甲烷排放[13-16]。Benchaar等[17]采用玉米-豆粕型饲粮研究4种不同干物质采食量（9、12、15和 $1 7 \\mathrm { k g / d }$ ）对瘤胃发酵和甲烷产量的影响。结果表明，甲烷能的产量随着干物质采食量的增加而增加（6.86、8.83、10.67和11.76MJ/d），而单位总能摄入量的甲烷能产量有下降的趋势（5.33、5.17、4.98 和4.85）。本试验中设置了自由采食和限饲2种饲养模式，随着饲粮 NFC/NDF 的升高，试验羊采食量由 $1 7 9 0 . 0 0 \\mathrm { g / d }$ 降低至 $1 2 9 0 . 0 0 \\mathrm { g / d }$ 。其甲烷的产量由 $7 9 . 3 2 \\mathrm { L } / \\mathrm { d }$ 降低至 $3 6 . 0 7 \\mathrm { L } / \\mathrm { d }$ 单位干物质采食量的甲烷产量也由 $4 6 . 8 5 \\mathrm { L / k g }$ 降低至 $3 0 . 2 3 ~ \\mathrm { L / k g }$ 。郭雪峰等[18]采用六氟化硫(SF6)示踪技术测定了内蒙古白绒山羊在维持水平和自由采食条件下的甲烷产量，发现甲烷的产量（17.71和 $1 8 . 0 6 \\mathrm { g / d }$ ）与干物质采食量（0.581和 $0 . 8 3 9 \\mathrm { k g / d }$ ）呈现正相关关系。赵一广等[19]通过设置3种杂交绵羊的不同采食量（自由采食、 $7 5 \\%$ 自由采食量限饲和 $5 5 \\%$ 自由采食量限饲），发现甲烷产量和干物质采食量存在显著的正相关关系：甲烷产量 $( \\mathrm { L } / \\mathrm { d } ) { = } 4 4 . 0 3 \\times$ 干物质采食量（ $\\mathrm { k g / d }$ ）-6.52 ( $R ^ { 2 } { = } 0 . 6 8$ ），该结论与冯仰廉等[20]在奶牛和肉牛上得到的结论一致。Benchaar 等[17通过模拟的方式测定了不同干物质采食量水平瘤胃食糜液相和固相的流通速率，发现随着采食量的增加，二者流通速率分别增加 $3 7 . 5 \\%$ 和 $3 9 . 6 \\%$ ，验证了瘤胃食糜流通速率与采食量呈正相关[21的结论。干物质采食量高的组增加了用于甲烷生成的底物供应量[22-23]，纤维物质在瘤胃中得到了充分的发酵，瘤胃发酵模式偏向于乙酸型发酵，有利于纤维分解菌和产甲烷菌的生长和繁殖，甲烷的产量较高。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3.2营养物质表观消化率和能量利用效率对甲烷产量的影响",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "单位干物质采食量的甲烷产量[22]和单位总能摄入量的甲烷能产量[政府间气候变化专门委员会(IPCC)，2006]是判断和反映甲烷转化效率和甲烷产量的主要测定指标，单位总能摄入量的甲烷能产量主要受饲喂水平的影响[24]，Mould等[25]提出高精料饲粮增加了瘤胃酸度和淀粉效应，进而对瘤胃纤维分解菌的活性产生负面影响。桑断疾等[26]研究了不同精粗比条件下，低质粗料和高质粗料对新疆细毛羊甲烷产量的影响，发现低质粗料产甲烷效率随精粗比的提高而显著降低，饲喂可消化纤维含量较高的高质粗料则不受精粗比的显著影响。本试验中，NFC/NDF=2.17组单位干物质采食量的甲烷产量及单位总能摄入量的甲烷能产量显著低于 NFC/NDF=0.78 组。这说明高NFC/NDF有利于丙酸型发酵，可促进瘤胃微生物对饲料可溶性碳水化合物、可溶性蛋白质等的摄取，增加了对瘤胃丙酮酸生化过程中产生的氢气的清除，从而抑制纤维分解菌及产甲烷菌的生长、繁殖。因纤维组分产生高于非纤维组分2\\~5 倍的甲烷产量，所以绵羊胃肠道的甲烷产量得到较大程度的降低。另外，本试验中，与NFC/NDF=0.78 组相比，NFC/NDF=1.03 组降低了粪能、尿能、甲烷能，提高了总能表观消化率和总能代谢率，说明碳水化合物发酵速率及含量影响微生物生长中能量的利用[27]，饲粮可发酵程度较高能提高微生物生成数量，增强其对饲粮的能量利用效率，从而减少甲烷能形式的能量损失，这会在一定程度上减少胃肠道中的甲烷产量。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3.3 饲粮NFC/NDF对甲烷产量的影响",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "反刍动物饲粮中精粗比能够影响瘤胃内挥发性脂肪酸的产量和乙酸/丙酸，改变丙酮酸代谢过程中底物的量，最终影响甲烷的生成。以往的研究发现，精粗比难以准确代表饲粮中用于利用的可发酵碳水化合物和纤维物质，不能作为评判甲烷产量的决定作用因子[28]。NFC主要指饲粮中的无氮浸出物，包括淀粉、糖、果胶、维生素及有机酸等极易发酵的碳水化合物，能较为客观地体现饲粮中易发酵碳水化合物的含量；粗饲料中含有较高的纤维含量，反刍动物不能利用木质素，但能较好地利用粗纤维中的纤维素和半纤维素，NDF 能较好地反映纤维含量和纤维消化特性。因此，以NFC/NDF 能够更真实地反映饲粮中碳水化合物和纤维物质的比例。丁静美等[发现随着饲粮 NFC/NDF 的降低，甲烷日产量逐渐降低，与Chandramoni 等[29]和Moss等[30]结论一致，主要原因可能是：1）饲粮中 NFC 比例的提高能够将瘤胃的发酵模式由乙酸型发酵转变为丙酸型发酵，乙酸/丙酸降低，产甲烷菌生产甲烷的底物氢气浓度降低，由此甲烷产量降低；2）反刍动物瘤胃内产甲烷菌和原虫存在互为共生的关系，原虫能够为产甲烷菌提供氢气。饲粮 NFC 比例增加改变瘤胃优势菌群的生长和结构，抑制原虫生长的同时降低了甲烷的产生[31-32]。刘洁等[8]在安装瘤胃瘘管羊和十二指肠瘘管的绵羊中进行试验，发现随着饲料中非结构性碳水化合物（NSC）/结构性碳水化合物（SC）的增加，总挥发性脂肪酸中的丙酸含量略有增加，但是差异不显著，总挥发性脂肪酸中的乙酸含量呈显著降低，由此可知随着饲料NSC/SC 的增加，丙酸型发酵成为优势发酵模式，纤维分解菌及产甲烷菌生长、繁殖受到抑制，甲烷产量呈降低趋势。胡红莲等[28]研究了饲粮 NFC/NDF 对安装有永久性瘤胃瘘管的奶山羊瘤胃液pH、挥发性脂肪酸及乳酸含量的影响，发现随着饲粮NFC/NDF 的增加，瘤胃发酵模式改变，乙酸含量逐渐降低，丙酸含量逐渐增加，并推断饲粮 NFC比例可改变瘤胃发酵类型，与翁秀秀[33]研究结果一致。本试验中，试验羊每采食 $1 \\mathrm { k g }$ 饲粮， $\\mathrm { N F C / N D F { = } } 0 . 7 8$ 组甲烷产量为 46.85L，而 NFC/NDF=1.03组和 $\\mathrm { N F C / N D F } { = } 2 . 1 7$ 组的甲烷产量分别为 $4 3 . 3 6 \\mathrm { L } / \\mathrm { d }$ 和 $3 0 . 2 3 \\ \\mathrm { L } / \\mathrm { d }$ ，原因主要在于3组干物质采食量以及NFC/NDF 的不同，进而影响瘤胃发酵模式和产甲烷菌的产甲烷能力。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 在平均日增重一致的前提下，饲喂水平和饲粮 NFC/NDF 是影响甲烷产量的因素,高 NFC/NDF 饲粮料重比较低，且甲烷转化效率较低。$\\textcircled{2}$ 对生长期杜寒杂交母羊来说，限饲条件下饲喂NFC/NDF为2.17的饲粮在提高生产效益的同时又兼顾甲烷减排，效果相对最佳。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1] 2015 年牛羊肉行业市场分析 [DB/OL].   \nHTTP://www.chinabgao.com/k/niuyangrou/18384.html.[2015-07-28].   \n[2] 闵继胜,胡浩.中国农业生产温室气体排放量的测算[JJ.中国人口资源与环 境,2012,22(7):21-27.   \n[3]周怪,刁其玉.反刍动物瘤胃甲烷气体生成的调控[J].草食家畜,2008(4):21-24. [4]张丽英.饲料分析及饲料质量检测技术[M].北京:中国农业大学出版社,2010.   \n[5]张立涛,李艳玲,王金文,等.不同中性洗涤纤维水平饲粮对肉羊生长性能和营养成分表观 消化率的影响[J].动物营养学报,2013,25(2):433-440.   \n[6]丁静美,成述儒,邓凯东,等.不同中性洗涤纤维与非纤维性碳水化合物比值饲粮对肉用绵 羊甲烷排放的影响[J].动物营养学报,2017,29(3):806-813.   \n[7] 王文奇,侯广田,罗永明,等.不同精粗比全混合颗粒饲粮对母羊营养物质表观消化率、氮 代谢和能量代谢的影响[J].动物营养学报,2014,26(11):3316-3324.   \n[8]刘洁,刁其玉,赵一广,等.饲粮不同 NFC/NDF 对肉用绵羊瘤胃 pH、氨态氮和挥发性脂肪 酸的影响[J].动物营养学报,2012,24(6):1069-1077.   \n[9]TYRRELL H F,MOE P W.Efect of intake on digestive efficiency[J].Journal of Dairy Science,1975,58(8):1151-1163.   \n[10] 许贵善,刁其玉,纪守坤,等.不同饲喂水平对肉用绵羊能量与蛋白质消化代谢的影响[J]. 中国畜牧杂志,2012,48(17):40-44.   \n[11]梁玉生,李发弟,李飞.高精料饲粮条件下反刍动物瘤胃适应机制的解析[J].动物营养学 报,2016,28(1):20-26.   \n[12]HUHTANEN P,RINNE M,NOUSIAINEN J.A meta-analysis of feed digestion in dairy cows.2.The effects of feeding level and diet composition on digestibility[J].Journal of Dairy Science,2009,92(10):5031-5042.   \n[13]VAN SOEST P J,MCCAMMON-FELDMAN B,CANNAS A.The feeding and nutrition of small ruminants:application of the Cornell discount system to the feeding of dairy goats and sheep[C]//Cornell nutrition conference for feed manufacturers.[S.1.]:[s.n.],1994.   \n[14]KNAPP J R,LAUR G L,VADAS P A,et al.Invited review:enteric methane in dairy cattle production:quantifying the opportunities and impact of reducing emissons[J].Journal of Dairy Science,2014,97(6):3231-3261.   \n[15]谢天宇.两种纤维来源日粮对奶牛胃肠道甲烷排放的影响[D].硕士学位论文.呼和浩特: 内蒙古农业大学,2015.   \n[16]BRUNETE T,BAURHOO B,MUSTAFA A F.Effects of replacing grass silage with forage pearl millet silage on milk yield,nutrient digestion,and ruminal fermentation of lactating dairy cows[J].Journal of Dairy Science,2016,99(1):269-279.   \n[17]BENCHAAR C,POMAR C,CHIQUETTE J.Evaluation of dietary strategies to reduce methane production in ruminants:a modelling approach[J].Canadian Journal of Animal Science,2001,81(4):563-574.   \n[18] 郭雪峰,李华伟,金海,等.不同营养水平下内蒙古白绒山羊的甲烷排放量[J].中国畜牧杂 志,2009,45(5):42-44.   \n[19] 赵一广,刁其玉,刘洁,等.肉羊甲烷排放测定与模型估测[J].中国农业科 学,2012,45(13):2718-2727.   \n[20]冯仰廉,李胜利,赵广永,等.牛甲烷排放量的估测[J].动物营养学报,2012,24(1):1-7. [21]MILLS JA N,KEBREAB E,YATES C M,et al.Alternative approaches to predicting methane emissions from dairy cows[J].Journal of Animal Science,2003,81(12):3141-3150. [22]RAMIN M,HUHTANEN P.Development of equations for predicting methane emissions from ruminants[J].Journal of Dairy Science,2013,96(4):2476-2493.   \n[23]MOSS A R,JOUANY J P,NEWBOLD J,et al.Methane production by ruminants:its contribution to global warming.[J].Annales De Zootechnie,2000,49(49):231-253.   \n[24]BILAXTER K L,GRAHAM N M,WAINMAN F W,et al.Environmental temperature,energy metabolism and heat regulation in sheep.II .The partition of heat losses in closely clipped sheep[J].Journal of Agricultural Science,1959,52(52):25-40.   \n[25]MOULD F L,ORSKOV E R.Manipulation of rumen fluid pH and its influence on cellulolysis in sacco,dry matter degradation and the rumen microflora of sheep offered either hay or concentrate[J].Animal Feed Science and Technology,1983,10(1):1-14.   \n[26]桑断疾,董红敏,郭同军,等.日粮类型对细毛羊甲烷排放及代谢物碳残留的影响[J].农业 工程学报,2013(17):176-181.   \n[27]RUSSELL J B,O'CONNOR JD,FOX DG,et al.A net carbohydrate and protein system for evaluating cattlediets:I.Ruminalfermentation[J].Journal of Animal Science,1992,70(11):3551-3561.   \n[28] 胡红莲,卢德勋,刘大程,等.日粮不同 NFC/NDF 对奶山羊瘤胃 pH、挥发性脂肪酸及乳酸   \n含量的影响[J].饲料博览,2010,22(7):595-601.   \n[29]CHANDRAMONI,JADHAO S B,TIWARI C M,et al.Energy metabolism with particular   \nreference to methane production in Muzaffarnagari sheep fed rations varying in roughage to   \nconcentrate ratio[J].Animal Feed Science and Technology,200o,83(3/4):287-300.   \n[30]MOSS A R,GIVENS D I.The effect of supplementing grass silage with soya bean meal on   \ndigestibility,insaccodegradability,rumenfermentationandmethaneproductionin   \nsheep[J].Animal Feed Science and Technology,2002,97(3/4):127-143.   \n[31]韩昊奇.日粮不同 NFC/NDF 比对奶山羊瘤胃细菌种群及有机酸流通的影响[D].硕士学   \n位论文.呼和浩特:内蒙古农业大学,2011.   \n[32]卢玉飞,周凌云,赵圣国,等.近10 年瘤胃微生物分离培养研究进展[J].中国微生态学杂   \n志,2012,24(9):856-861.   \n[33]翁秀秀.饲喂不同日粮奶牛瘤胃发酵和 VFA 吸收特性及其相关基因表达的研究[D].博   \n士学位论文.兰州:甘肃农业大学,2013. Effects of Different Dietary Non-fiber Carbohydrate (NFC)/Neutral detergent Fiber (NDF) on   \nGrowth Performance, Nutrient Apparent Digestibility and Methane Emissions of Growing Dorper and Thin-Tailed Han Crossbred Ewes ZHOU Yan1,2XU Guishan\\*DONG Lifeng² DENG Kaidon³MA Tao² DIAO Qiyu\\* (1. Institute of Animal Science and Technology, Tarim University, Alar 843300, China; 2. Key   \nLaboratory ofFeed Biotechnology of the Ministry ofAgriculture,Feed Research Institute, Chinese Academy of Agricultural Sciences, Beijing 10o081, China; 3. College ofAnimal Science and Technology, Jinling Institute of Technology, Nanjing 210038, China)   \nAbstract: The objective of the present study was to investigate the effects of dietary non-fiber ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "carbohydrate (NFC)/neutral detergent fiber (NDF） on growth performance, nutrient apparent digestibility and methane emissions of Dorper and thin-tailed Han crossbred ewes using open-respiration system. Thirty healthy ewes weighted $( 2 7 . 8 \\pm 0 . 5 ) \\$ ）kg were allocated to three groups, with a single factor experiment design, according to their body weight. Dietary NFC/NDF was 0.78,1.03 and 2.17,respectively, and concentrate to forage ratio was 35:65,50:50 and 65:35, respectively. Each group had 10 ewes. The whole experiment lasted for 25 d with 3 d of adjustment, 7 d of pre-test and $1 5 { \\mathrm { ~ d ~ } }$ of test. The results showed as follows: under the condition of ad libitum in NFC/NDI $\\mathrm { \\dot { \\iota } = } 0 . 7 8$ group and dietary restriction in other groups， there were no significant diferences in initial body weight, final body weight and average daily gain (ADG) among groups（ $P { > } 0 . 0 5$ ） .As dietary NFC/NDF increased from 0.78 to 2.17, dry matter intake (DMI) was significantly decreased( $P { < } 0 . 0 5$ ），whereas dry matter, organic mater and crude protein apparent digestibility were significantly increased ( $\\scriptstyle P < 0 . 0 5 .$ ）,but no significant differences were observed in NDF and acid detergent fiber (ADF） apparent digestibility among groups （ $P { > } 0 . 0 5$ ）. As dietary NFC/NDF increased from 0.78 to 2.17, methane energy, methane emission per unit of DMI, methane energy emission per unit of grossenergy intake Were significantly decreased $( P { < } 0 . 0 5 )$ . In conclusion, under the similar ADG,lower feed to gain ratio and methane emission are observed in high NFC/NDF diet; it is appropriate to offer growing ewes diet with NFC/NDF of 2.17, which can increase production efficiency and control methane emission. Key words: methane; non-fiber carbohydrate/neutral detergent fiber; growth performance; nutrient apparent digestibility; respirometry ",
+        "page_idx": 15
+    }
+]

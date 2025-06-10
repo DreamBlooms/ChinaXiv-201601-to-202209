@@ -1,0 +1,384 @@
+[
+    {
+        "type": "text",
+        "text": "Influence of semiconductor/insulator/semiconductor structure on the photo-catalytic activity of $\\mathrm { F e } _ { 3 } 0 _ { 4 } / \\mathrm { S i O } _ { 2 } /$ polythiophene core/shell submicron composite ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fan Zhanga,\\*, Yuanji Shib, Zongshan Zhaoc,Weijie Songd, Yang Chenge ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "aCollegeofScience,Nanjing Agricultural University,Nanjing 21oo95,PR China   \nb Nanjing Panda Electronics Co.,Ltd.,Nanjing 21oooo,PR China   \nKeyLaboratoryfarineChemstryhoryndechologynistryofducation,OceanUniversityfhia,Qingdao66in   \ndNingbo InstituteofMaterialTechnologyandEngineering,ChineseAcademyofSciences,Ningbo520iRChina   \neColegeofChemicalEngineeringandTechnologyWuhanUniversityofScienceandTechnology,Wuhan430o83,PRChina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE INFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nSubmicron composite   \nCore/shell   \nPhotocatalytic activity   \nSIS structure   \nMagnetic recovery ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The $\\mathrm { F e _ { 3 } O _ { 4 } / S i O _ { 2 } }$ /polythiophene (FSP） submicron composite(SC） with a structure of semiconductor/insulator/semiconductor(SIS) was obtained.The characterization results showed that the FSP SC hada spherical core/shell shape with an average diameter of $5 0 6 \\mathrm { n m }$ .The high saturated magnetization value $( \\sim 3 9 \\mathrm { e m u } / \\mathrm { g } )$ ensured the easy separation of FSP SC from aqueous solution.The photo-catalytic activity of the FSP SC was evaluated by the degradation of methyl orange (MO)under UV-irradiation in the presence of $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ .Due to the SIS structure,the degradation rate constant by FSP SC $( 0 . 0 2 1 7 7 \\mathrm { m i n } ^ { - 1 }$ ） was 6.4,1.6,and 2.5 times higher than that of $\\mathrm { F e } _ { 3 } 0 _ { 4 }$ /polythiophene (FP),polythiophene (P),and $\\mathrm { T i O } _ { 2 }$ = respectively.The repetition results suggested the good photochemical stability of FSP SC.The mechanism was proposed by investigating the energy band variation of the SIS structure,the transfer of light generated carriers and the formation of effective hydroxyl radicals in the photo-catalysis progress. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Recently,polythiophene and its derivatives have been studied widely because of their moderate band gap,excellent electrical activity,low redox potential,photochemical,and thermal stabilityunder photo-irradiation[1-4]. On the other hand,magnetite $( \\mathsf { F e } _ { 3 } \\mathsf { O } _ { 4 } )$ nanoparticle has also attracted much attention due to its super paramagnetic property ensuring the easy recovery in the presence of external magnetic field [5-7].Therefore,the heterogeneous materials,which have the properties of both polythiophene (or its derivatives) and $\\mathsf { F e } _ { 3 } \\mathsf { O } _ { 4 }$ particles,can be exploited for photocatalysisapplications.However,few studiesof this compositeas photo-catalyst have been reported to our best knowledge. Jang et al.synthesized the core/shell nanocomposite of $\\mathrm { F e _ { 3 } O _ { 4 } / p o l y } ( 3 , 4 -$ ethylenedioxythiophene）in the presence of strong acid (HCl), which showed attractive prospects for the photo-catalytic degradation of organic dyes[8].Nevertheless,there are still some problems: (i)the instabilitv of $\\mathrm { F e } _ { 3 } 0 _ { 4 }$ in the as-prepared composite as a result of usage of strongacid;(ii) the demand of a high magnetic field in the reclaiming process due to the low saturated magnetization of the composite.So the stability and the magnetization value are still deserved to promote to meet the actual demand in application. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, $\\mathtt { p - n }$ hetero-junction is known to be beneficial to the separation of the photo-electrons and holes,which can enhance the photo-catalytic efficiency [9].However,few studies have introduced the performance of polythiophene (energy gap 2.0eV) and $\\mathsf { F e } _ { 3 } \\mathsf { O } _ { 4 }$ (energy gap $\\mathsf { 0 . 1 4 e V } ,$ ）as thepand n type semiconductor,respectively [1O-12]. In addition,the semiconductor/insulator/semiconductor(SIS)structure is also helpful for the separation of the photo-electrons and holes which has been widely used in the field of solar cells [13-15].The employment of $\\mathrm { S i O } _ { 2 }$ as the insulating shell to participate in the catalyst formation with a SIS structure has been seldom reported though it was usually introduced as the protected or connected shell [16-18]. It enlightens us to develop the materials with a SIS structure as novel photo-catalysts. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this study,the $n { \\mathrm { - } } \\mathrm { F e } _ { 3 } 0 _ { 4 } / \\mathrm { S i O } _ { 2 } / p$ -polythiophene（FSP） submicron composite(SC)with a core/shell and SIS structure was synthesized.The photo-catalytic properties of the obtained FSP SC was evaluated for the decoloration of methyl orange (MO)with $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ under UV-irradiation.It is anticipated that the well-defined structure of FSP SC can provide the advantages such as the enhancement of photo-catalytic performance,the environmental protection of iron oxide,the easy magnetic recovery,and the repeated usage. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/f08c69ac292337004d2e9080da97d5e9c9c7d1472f1adc9b5f3e9997a742dacd.jpg",
+        "img_caption": [
+            "Fig.1. SEM images of (a) $\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ ,(b)FS(inset: magnified image of acracked FS core/shellSC),(c)FSPSC(inset:TEM image ofFSPcore/shell SCs). "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Experiments ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Chemicals and instrumentation ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Thiophene monomer, tetrachloromethane $( \\mathsf { C C l } _ { 4 } )$ ，anhydrous ferric chloride $\\left( \\mathrm { F e C l } _ { 3 } \\right)$ ,iron(III) chloride hexahydrate $( \\mathrm { F e C l } _ { 3 } { \\cdot } 6 \\mathrm { H } _ { 2 } 0 )$ sodium acetate (NaAc)，polyethylene glycol 2OoO (PEG2000), ethylene glycol, tetraethoxysilane (TEOs),ammonium hydroxide $\\left( \\mathrm { N H } _ { 3 } { \\cdot } \\mathrm { H } _ { 2 } 0 \\right)$ ，oxydol $( \\mathrm { H } _ { 2 } 0 _ { 2 } , \\ 3 0 \\% )$ ，methyl orange (MO),and isopropyl alcohol were all purchased from the Shanghai Sinopharm Chemical Reagent Co., Ltd (China).All the reagents were of analytical grade and used as received without further treatment.P25 (nanoscale $\\mathrm { T i O } _ { 2 }$ powder,surface area $5 0 \\mathrm { m } ^ { 2 } / \\mathrm { g } )$ was purchased from the Degussa AG of Germany.The MO solution $\\cdot 1 0 0 0 \\mathrm { p p m } )$ was preparedbyadding $0 . 1 \\mathrm { g } \\mathrm { M O }$ powder into $1 0 0 \\mathrm { m L }$ distilled water. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The as-prepared composite powder was characterized in detail as follows.The morphology of the as-prepared materials was observed using a scanning electron microscopy(SEM,Model S-4800,Hitachi Limited,Japan) and a transmission electron microscope (TEM,Model Tecnai F2O,FEI,USA). The functional groups of the composites were examined through a Fourier transform infrared spectroscopy(FTIR,Nicolet 67Oo,Thermo,USA） using a KBr pressed disk.The elements and composition were studied by an X-ray photoelectron spectroscope (XPS,Axis Utltradld,Shimadzu, Japan).The crystal structure was determined byan X-ray diffraction(XRD)analyses ona Bruker(Germany)AXS Model D8 Advance X-ray diffractometer ( $\\mathsf { C u } K \\alpha$ radiation, $\\lambda = 0 . 1 5 4 0 6 \\mathrm { n m }$ ). Themagnetic performance of FSP was investigated by a physical property measurement system(PPMS,Model-9,Quantum Design,USA).The degassing was performed at $1 8 0 ^ { \\circ } { \\mathsf { C } }$ for $3 0 0 \\mathrm { { m i n } }$ prior to performing the $\\mathsf { N } _ { 2 }$ adsorption experiment.The surface area was calculated by Brunauer-Emmett-Teller(BET) equation.The average particle size was estimated by the Zeta potential analyzer(Nano ZS,Malvern, England).The degree of MO degradation was determined by an all cross-references microplate reader (F1-O1621,Thermo,Finland). The effective radical that presented in the degradation process was detected byan electron spin resonance(ESR,ESR3ooE,Bruker, Germany). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Preparation of the products ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The $\\mathrm { F e } _ { 3 } {  { \\mathsf { O } } _ { 4 } }$ core with a diameter of ${ \\sim } 4 0 0 \\mathrm { n m }$ was prepared using a solvothermal method.Then, the $\\mathrm { F e } _ { 3 } 0 _ { 4 } / \\mathrm { S i O } _ { 2 }$ (FS)composite was obtained by TEOS hydrolysis in alkalic condition on the surface of $\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ submicron particles.The detail of synthesis process has been reported in our earlier work[16].Furthermore,the as-prepared FS composite was dispersed into $1 0 0 \\mathrm { m L }$ of $\\mathsf { C C l } _ { 4 }$ and stirred for $3 0 \\mathrm { m i n }$ Then, $0 . 4 \\mathrm { m L }$ of thiophene monomer was added into the mixture and the chemical oxidation polymerization was started by the addition of $3 . 1 \\mathrm { g } \\ \\mathrm { F e C l } _ { 3 }$ as the oxidant at room temperature.After $\\boldsymbol { 4 \\mathrm { h } }$ the reaction was finished and the obtained black precipitation was collected by a permanent magnet.The as-obtained product was washed by deionized waterand ethanol for three times,dried ina vacuum oven at $6 0 ^ { \\circ } \\mathsf C$ for $6 \\mathrm { h }$ For comparison, $\\mathrm { F e } _ { 3 } 0 _ { 4 } ,$ /polythiophene (FP) and polythiophene(P)were also synthesized using the same method. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.Photo-catalytic process ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The photo-degradation of MO was carried out as follows.In a typical reaction system,it contained $5 0 \\mathrm { m g / L }$ MO, $4 0 \\mathrm { m g / L }$ catalyst, and $1 0 0 \\mu \\mathrm { L } \\ : \\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ to form a $5 0 \\mathrm { m L }$ mixed solution in a quartz glass.In the first $2 0 \\mathrm { m i n }$ ,the mixture was stirred in the dark to reach the adsorption-desorption equilibrium and the concentration of MO left in the aqueous solution was defined as the initial concentration $C _ { 0 }$ .Then,the system was irradiated usinga16WUV lamp at $3 6 5 \\mathrm { n m }$ .At intervals, $1 . 0 \\mathrm { m L }$ aqueous solution was sampled,filtered through a $0 . 4 5 \\mu \\mathrm { m }$ pore size filter and determined at wavelength of $4 7 1 \\mathrm { n m }$ on an UV detector. The concentration was defined as $C _ { t }$ and the ratio of $C _ { t } / C _ { 0 }$ was taken as degradation efficiency. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b297e6c8843dc1d89fc67d350dfc2462690aac735cd49d343c986beaa9a9c52d.jpg",
+        "img_caption": [
+            "Fig.2.FTIR spectrum of (a) $\\mathrm { F e } _ { 3 } {  { \\mathsf { O } } } _ { 4 }$ ,(b)FS,(c) FSP SC,and (d) polythiophene. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f4d1c9fd9400475764421dbab4b77bf29e54cd06c3956ce419313ea32e0c90f.jpg",
+        "img_caption": [
+            "Fig.3.XPS spectra of FSP:(a) survey spectra;(b) Fe 2p;(c)C1s;(d) Si 2p;(e) S 2p. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.Characterization ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The SEM images of $\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ ,FS,and FSP are shown in Fig.1.Their diameters increased with the further formation of outside coatings while the shape maintained.The $\\mathrm { S i O } _ { 2 }$ shell was closely encapsulated on the surface of $\\mathrm { F e } _ { 3 } 0 _ { 4 }$ (the inset to Fig. 1b).As seen in Fig.1c,FSP SC was successfully prepared with an average diameter of $5 0 0 \\mathrm { n m }$ and the TEM image (the inset to Fig.1c) showed the core/shell structure of FSP SC. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The FTIR analysis was used to investigate the composition of the as-prepared $\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ ,FS,FSP,and polythiophene(Fig.2).The Fe-O stretching vibration peak of $\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ at $5 7 3 \\mathrm { c m } ^ { - 1 }$ [5] confirmed the existence of $\\mathrm { F e } _ { 3 } 0 _ { 4 }$ in the FSP SC.The adsorption bands at $1 2 4 3 \\mathrm { c m } ^ { - 1 }$ and $1 0 8 6 \\mathrm { c m } ^ { - 1 }$ were assigned to the characteristic vibration of $\\mathrm { S i O } _ { 2 }$ [16]. The peak at $3 4 4 0 \\mathrm { c m } ^ { - 1 }$ was the stretching vibration of the OH group [17]. The $C = C$ characteristic stretching vibration peak of polythiophene at $1 6 4 3 \\mathrm { c m } ^ { - 1 }$ [12]indicated the formation of polythiophene in FSP SC.The C-H out-of-plane stretching vibration peak at $7 8 1 \\mathrm { c m } ^ { - 1 }$ of the 2,5-substituted thiophene ring was also present [19].When polythiophene Was coated on FS SC,the characteristic absorption peaks of polythiophene at $1 6 4 3 \\mathrm { c m } ^ { - 1 }$ ， $1 3 2 1 \\mathrm { c m } ^ { - 1 }$ ， $1 1 9 5 \\mathrm { c m } ^ { - 1 }$ ， $1 1 0 5 \\mathrm { c m } ^ { - 1 }$ ，and $1 0 2 9 \\mathrm { c m } ^ { - 1 }$ were blueshifted to $1 6 2 8 \\mathrm { c m } ^ { - 1 }$ ， $1 3 1 7 \\mathrm { c m } ^ { - 1 }$ ， $1 1 9 3 \\mathrm { c m } ^ { - 1 }$ ， $1 0 9 5 \\mathrm { c m } ^ { - 1 }$ ，and $1 0 2 7 \\mathrm { c m } ^ { - 1 }$ ,respectively.This could be attributed to the decrease of electron density in polythiophene chain [2O] which resulted from the interaction between polythiophene and FS SC[12]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The chemical information on the surface of FSP SC was investigated via XPS analysis (Fig.3). The main peaks on behalf of $\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ ，polythiophene and $\\mathrm { S i O } _ { 2 }$ all appeared in the XPS spectra of FSP (Fig. 3a). The main peaks of Fe $2 \\mathsf { p } _ { 3 / 2 }$ （Fig.3b） core-line spectra at $7 1 0 . 5 \\mathrm { e V }$ and $7 1 2 . 2 \\mathrm { e V }$ were assigned to be $\\mathsf { F e } ^ { 2 + }$ and $\\mathsf { F e } ^ { 3 + }$ ，respectively， indicating the existence of $\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ [21]. The main peaks of C 1s core-line spectra(Fig.3c） at $2 8 4 . 8 \\mathrm { e V }$ and 286.1eVwere associated with $\\scriptstyle { C - C / C = C }$ and C-S in the presence of polythiophene，respectively [22]. The peaks at $1 0 1 . 9 \\mathrm { e V }$ and $1 0 3 . 2 \\mathrm { e V }$ in Fig. 3d were due to $\\mathsf { S i - O }$ and $\\mathrm { S i O } _ { 2 }$ ,respectively,representing $\\mathrm { S i O } _ { 2 }$ [21]. The $\\textsf { S } 2 \\mathsf { p }$ spectra (Fig.3e） was composed of $2 \\mathsf { p } _ { 3 / 2 }$ and $2 \\mathsf { p } _ { 1 / 2 }$ peaks with an intensity ratio of2:1,as theoretically determined from the spin-orbit splitting effect [23,24].The thiophene sulfur peak presented at around 164eV[24].These results suggested that the obtained material was composed of $\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ $\\mathrm { S i O } _ { 2 }$ and polythiophene,as we described in the synthesis process. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d29883c1a8fbde38dc90e7651bf2d37be52db27465195deb3ea28e271db3804.jpg",
+        "img_caption": [
+            "Fig.4.XRD patterns of(a) polythiophene,(b)FSP,(c) FP SC. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The X-ray diffraction(XRD)patterns of the pure polythiophene, $\\mathrm { F e } _ { 3 } 0 _ { 4 }$ /polythiophene (FP),and the FSP SC are shownin Fig.4. Only a broad peak at the $2 \\theta$ value of $2 0 { - } 3 0 ^ { \\circ }$ appeared for pure polythiophene (Fig.4a),indicating its amorphous phase.In the case of FP (Fig.4c), six peaks at about $3 0 . 3 ^ { \\circ }$ $3 5 . 6 ^ { \\circ }$ = $4 3 . 2 ^ { \\circ }$ $5 3 . 4 ^ { \\circ }$ $5 7 . 2 ^ { \\circ }$ ,and $6 2 . 7 ^ { \\circ }$ （204号 were due to the diffraction of (2 20),(311),(400),(422), (511), and(44O) planes of the face-centered cubic phase of $\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ ,respectively,suggesting the formation of $\\mathrm { F e } _ { 3 } 0 _ { 4 }$ crystal in the FP SC [25]. The intensity of $\\mathrm { F e } _ { 3 } 0 _ { 4 }$ peak in FSP SC(Fig.4b) decreased obviously compared with that in the FP SC,which was due to the addition of $\\mathrm { S i O } _ { 2 }$ shell. The absence of $\\mathrm { S i O } _ { 2 }$ peaks revealed the amorphous phase of $\\mathrm { S i O } _ { 2 }$ in FSP SC[26]. These XRD results suggested that no other impurity in crystal phase Was existed in the FSP SC.In addition, the $\\mathsf { F e } _ { 3 } \\mathsf { O } _ { 4 }$ crystal was successfully used as the core where the intensity of its characteristic peaks decreased with the thickness of coated shell increased. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The recycling of photo-catalysts used in the remediation of polluted water is an important issue,because they will become new pollutant sources when left in the treating system.The asprepared materials in this study could be magnetically reclaimed and their magnetic properties are shown in Fig.5.For $\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ ,FS, and FSP SC,there presented a hysteresis and the coercive force of $5 3 0 \\mathrm { e }$ indicated their super paramagnetic behavior,ensuring therecycling convenience.Their magnetization values increased quickly when the external magnetic field improved from O Oe to 2000 Oe and then reached saturated.Compared the saturation magnetization(Ms) values of the $\\mathsf { F e } _ { 3 } \\mathsf { O } _ { 4 }$ 1 $_ { ( \\mathrm { 7 2 e m u / g ) } }$ ,FS $\\left( 6 9 \\mathrm { e m u } / \\mathrm { g } \\right)$ ,and FSP SC $( 3 9 \\mathrm { e m u } / \\mathrm { g } )$ ,there existed a decrease with the decreased content of $\\mathrm { F e } _ { 3 } 0 _ { 4 }$ crystal.However, the $M s$ values of as-prepared products were still higher than those of other similar reports [8,17].Therefore,these materials were easily separated from the aqueous solution within 3Os with only $1 . 3 \\mathrm { w t } \\%$ left(the inset to Fig. 5). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.Photo-catalytic activities on MO ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The photo-catalytic degradation of MO solution by the asprepared materials is shown in Fig.6a.The results showed that, only $10 \\%$ $2 5 \\%$ and $46 \\%$ ofMO molecules were decomposed within 120 min in the presence of bare FSP, $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ or $\\mathrm { T i O } _ { 2 }$ (curve a,b and e). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/37177e95e37d70095e89e143404fd34ee572cf6dee3fbd3e25e2be1deafc7b20.jpg",
+        "img_caption": [
+            "Fig.5.The magnetic performance of $\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ ,FS and FSP SCs with the expanded hysteresis loop (inset).The inner photographs indicate that FSP SC in the aqueous solution can be attracted and arranged vertically by a magnetic coil. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "But with the addition of both FSP and $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ into the MO aqueous solution,the degradation rate was enhanced markedlywith $\\sim 9 2 \\%$ removed in $1 2 0 \\mathrm { m i n }$ (curve h),higher than that of the photocatalyst $\\mathrm { T i O } _ { 2 }$ with $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 0 $\\sim 6 5 \\%$ ,curve f).This confirmed that the ·OH generated from $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ would be well controlled by FSP,and the slow-release of $\\cdot _ { \\mathrm { O H } }$ improved the use efficiency of·OH and avoided the annihilation phenomenon [27]. It has been reported that conjugated polymer could be used as photo-catalyst for the removal ofpollutants [28].Hence,the polythiophene(P)with $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ also showed a good photo-catalytic performance (curve g).However, the removal efficiencies of MO by P, $\\mathrm { F e } _ { 3 } {  { \\mathsf { O } } _ { 4 } }$ (curve c) and FP(curve d) were all lower than that by FSP though these materials had the smaller size and bigger surface area(Table1)which may be beneficial to improve the photo-catalytic performance.The better photocatalytic performance of FSP should be due to its special SIS structure which was helpful for the separation of photo-generated electrons and holes,leading to the improved photo-catalytic activity. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6b9888a6564d9d33084023e5ad5b37d5ad63780229ddc36a92bde702eaea93f.jpg",
+        "img_caption": [
+            "Fig.6.The photo-catalytic kinetics of(a) bare FSP,(b) bare $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ ，(c) $\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ with $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ ,(d)FP with $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ ，(e)bare $\\mathrm { T i O } _ { 2 }$ ，(f) $\\mathrm { T i O } _ { 2 }$ with $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ ，(g)Pwith $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ ,and (h) FSP with $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ ,under UV irradiation, $C _ { \\mathrm { ( c a t a l y s t ) } } { = } 4 0 \\mathrm { m g / L }$ $C _ { \\mathrm { ( M O ) } } { = } 5 0 \\mathrm { m g / L } .$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/fbb2e986c26f2a87c518ab4833576c650419bf8ffb17a1bcfb4e9ecb78a50921.jpg",
+        "table_caption": [
+            "Table 1 The BET surface area and average particle size of different materials. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Material</td><td>BET surface area (m²/g)</td><td>Average particle size(nm)</td></tr><tr><td>F</td><td>23.7</td><td>382</td></tr><tr><td>FP</td><td>19.4</td><td>431</td></tr><tr><td>FSP</td><td>17.5</td><td>506</td></tr><tr><td>P</td><td>31.6</td><td>1</td></tr><tr><td>TiO2 (P25)</td><td>50.2</td><td>21</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a7c0e1da12adca94be5f170da8e3f7f07a4dab090668d901964581872f505be7.jpg",
+        "table_caption": [
+            "Table 2 The rate constants of MO photo-degradation and linear regression coefficients from a plot of $\\ln ( C _ { 0 } / C _ { t } )$ versus t. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Photo-catalyst</td><td>kapp (min-1)</td><td>R²</td></tr><tr><td>Bare FSP</td><td>0.00109</td><td>0.955</td></tr><tr><td>Bare H2O2</td><td>0.00220</td><td>0.991</td></tr><tr><td>F with H2O2</td><td>0.00304</td><td>0.997</td></tr><tr><td>FP with H2O2</td><td>0.00339</td><td>0.997</td></tr><tr><td>TiO2</td><td>0.00564</td><td>0.987</td></tr><tr><td>TiO2 with H2O2</td><td>0.00869</td><td>0.999</td></tr><tr><td>P with H2O2</td><td>0.01378</td><td>0.996</td></tr><tr><td>FSP with H2O2</td><td>0.02177</td><td>0.993</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The kinetics of photo-catalytic degradation of MO was well described by the apparent pseudo-first-order equation $\\ln ( C _ { 0 } / C _ { t } ) = k _ { \\mathrm { a p p } } t ,$ where $k _ { \\mathrm { a p p } }$ is the apparent rate constant, $C _ { 0 }$ is the concentration of MO after darkness adsorption for $2 0 \\mathrm { m i n }$ and $C _ { t }$ is the concentration of MO at irradiation time t.Fig.6b shows the linear relation of $\\ln ( C _ { 0 } / C _ { t } )$ versus irradiation time (t) fordegradationofMO underdifferent conditions.The determined rate constants $( k _ { \\mathrm { a p p } } )$ and linear regression coefficient $( R ^ { 2 } )$ from these curvesare presented in Table 2.All the kinetic data agreed well with the pseudo-first-order model because the $R ^ { 2 }$ values were higher than O.95.The $k _ { \\tt a p p }$ values followed the sequence:FSP with $\\mathsf { H } _ { 2 } \\mathsf { O } _ { 2 } > \\mathsf { P }$ with $\\mathrm { H } _ { 2 } { \\mathrm { O } } _ { 2 } > \\mathrm { T i O } _ { 2 }$ with $_ { \\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 } > \\mathrm { T i O } _ { 2 } > \\mathrm { F P } }$ with $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 } > \\mathrm { F }$ with $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 } > \\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 } > \\mathrm { F S P }$ .The introduction of SIS structure into the FSP composite could obviously enhance the $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ -assisted photocatalytic kinetics with a value of $k _ { \\mathrm { a p p } }$ 1 $\\mathrm { ( } 0 . 0 2 1 7 7 \\mathrm { m i n } ^ { - 1 }$ ).Thisvalue was 6.4,1.6,and 2.5 times higher than that ofFP,P,and $\\mathrm { T i O } _ { 2 }$ ,respectively.Inaddition, the $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ and FSP played the role as co-catalysts in the degradation process which exhibited lower overpotential andhighercatalyticactivity[27,29]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.Repetition ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The photo-catalytic degradation of MO by FSP SC was carried out for ten cycles to evaluate its reusability.There was only $14 \\%$ of decline in the tenth cycle relative to the first usage (Fig.7). Furthermore,the Ms values also kept well and the separation was still realized within $3 0 s$ ，The maintenance of these properties could be explained by the excellent photochemical stability of polythiophene [3O], the protection of $\\mathrm { F e } _ { 3 } 0 _ { 4 }$ core from oxidation and corrosion by coating shells [3,31].And thishasalso been identified by the unchanged FTIR and XPS results of FSP before and after photo-degradation (not shown). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4.Photo-catalytic mechanism ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In general,a semiconductor photo-catalytic cycle comprises three steps:first,illumination induces a transition of electrons from the valence-band (VB) to the conduction-band (CB),leaving an equal number of holes;second,the excited electrons $\\left( \\mathbf { e } ^ { - } \\right)$ and holes $( \\mathsf { h } ^ { + } )$ migrate to the surface of catalyst; third, they react with absorbed electron acceptors and electron donors,resulting in the photo-catalytic reaction [29]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb42293830df0d37c92e03b19b3937df9faf29cf3aee9c4c1badd36a3524c98f.jpg",
+        "img_caption": [
+            "Fig.7.Recycling experiments for the photo-degradation of MO by FSP SC. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The formation and the transfer of light generated electrons and holes are shown in Fig.8.In the initial period of photo-catalytic reaction (Fig.8a), the $\\mathbf { e } ^ { - }$ and $\\ln ^ { + }$ can be generated in both $\\mathrm { F e } _ { 3 } 0 _ { 4 }$ and polythiophene under the UV irradiation due to their n and $\\mathfrak { p }$ type semiconductor property,respectively.The electrostatic interaction between the generated $\\mathsf { e } ^ { - }$ in $\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ and $\\ln ^ { + }$ in polythiophene ishelpful for their transference to the two interfaces of $\\mathrm { S i O } _ { 2 }$ shell (marked1 and 2 in Fig.8a,respectively). Owing to the much larger thickness of $\\mathrm { S i O } _ { 2 }$ shell than the desired one in the tunneling effect (about $0 . 1 \\mathrm { n m }$ ）[32],the tunneling current is unable to achieve. However,the generated $\\mathbf { e } ^ { - }$ and $\\ln ^ { + }$ in polythiophene can still be effectively separated,and the $\\mathbf { e } ^ { - }$ can transfer to the surface of polythiophene.Then,the adsorbed electron acceptors (mainly $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ here)can react with the $\\mathbf { e } ^ { - }$ on the surface of polythiophene shell, forming the active radicals( $\\mathrm { \\bullet _ { 0 H } }$ and $\\cdot _ { 0 _ { 2 } - }$ )whichare responsible for the degradation of MO.In the later period of photo-catalytic reaction(Fig.8b),the consumption of e-and the accumulation of $\\boldsymbol { \\mathrm { h } } ^ { + }$ in the $p$ -polythiophene $/ \\mathrm { { S i O } } _ { 2 }$ interface will lower down the energy levelsof $\\dot { p }$ -polythiophene[33].As the VB of $p$ -polythiophene is lowered down to some level,at this time the photo-generated $\\boldsymbol { \\mathrm { h } } ^ { + }$ tends to transfer into the $p$ -polythiophene $ { \\vert \\mathrm { S i O } _ { 2 } }$ interface [33]. But the tunneling current is also impossible due to the barrier of thick $\\mathrm { S i O } _ { 2 }$ shell.At last, the large accumulations of $\\mathbf { e } ^ { - }$ and $\\ln ^ { + }$ in the two interfacesof $\\mathrm { S i O } _ { 2 }$ shell result in the formation of built-in electric field which will prevent their furtheraccumulations. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the third step of the photo-catalytic progress,the degradation rate of dyes isdetermined by the generationrate of effective radicals produced by the electronacceptors,and these radicalsare directly responsible for the oxidative degradation [34].So the role of electron acceptors is critical in enhancing the overall photodegradation efficiency.Although dissolved oxygen molecules can serve as the electron acceptor in most photo-catalytic reaction [35],the presence of better electron acceptors is still desired for higher efficiency.The usageof $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ in photo-catalytic reaction canincrease the formation rate of hydroxyl radicals [5,36,37] and thenaccelerate both the photo-degradationand mineralization of the organic compounds [38]. The•OH produced by $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ and the ${ 0 } _ { 2 } { } ^ { - }$ generated from $0 _ { 2 }$ all participate in destroying the structure of the dyes in the catalytic reaction[12,39].Since MO is an azo dye, the conjugative system and aryl rings are the main chromophores ofMO,the degradation of MO is mainly caused by the damage of conjugative systemand the $- N = N -$ bond [12]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a8f820c6735450fb03e009e152b4d2bba99daa5b8d8e8696de994ad31f002b5f.jpg",
+        "img_caption": [
+            "Fig "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/5540da83b666dda8086b2f7d629da94db4c10b713012f5ee189630f5a9d13edd.jpg",
+        "img_caption": [
+            "Fig.9.The ESR spectra for the DMPO-containing suspensions of the FSP catalytic system with UV irradiation, $C _ { \\mathrm { ( c a t a l y s t ) } } { = } 4 0 \\mathrm { m g / L }$ $C _ { ( \\mathrm { M O } ) } { = } 5 0 \\mathrm { m g / L }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To further confirm the existence of active radicals in the process of photo-catalytic degradation,we investigated the ESR spectra in the same conditions of the photo-degradation reaction (Fig.9).The characteristic 1:2:2:1 quartet signal was detected, indicating that the‘OH radicals were generated during the photo-catalytic reaction.The signal intensity of the•OH radical showed an increase with the time lapsing in the first $4 8 0 s$ of the photo-catalytic reaction, revealing that more and more hydroxyl radicals were produced under the ultraviolet irradiationand hence MO could be degraded gradually by these radicals.Since the standard one electron reduction potential is $- 0 . 3 2 \\mathrm { V }$ for $0 _ { 2 }$ and $0 . 8 7 \\mathrm { V }$ for $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ (versus NHE), the $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ is thermodynamically a better electron acceptor than $0 _ { 2 }$ As expected,we detected more $\\bullet _ { \\mathrm { O H } }$ radicals produced by ${ \\mathrm { H } } _ { 2 } { \\mathrm { O } } _ { 2 }$ than ${ 0 } _ { 2 } { } ^ { - }$ generated by $0 _ { 2 }$ (the signal of ${ 0 _ { 2 } } ^ { - }$ is weak,and data not shown). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.Conclusions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this study,FSP SC with a SIS structure has been successfully prepared and characterized in detail.This multifunctional material presented a photo-catalytic rate constant of $0 . 0 2 1 7 7 \\mathrm { m i n } ^ { - 1 }$ for MO which was 6.4,1.6,and 2.5 times higher than that ofFP,P,and $\\mathrm { T i O } _ { 2 }$ respectively.The promoted photo-catalytic kinetics of FSP may be due to its SIS structure which was beneficial to the separation of photo-generated electrons and holes.The repetition experiments showed that the FSP had good stabilityand could be reused for ten cycleswith only $14 \\%$ decline of the photo-catalytic performance.In addition,the FSP SC could be easily reclaimed within 3Os using a common magnet, indicating potential application value.This work may lead to the development of new photo-catalysts by introduction of the SIS structure in the design of materials. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This work was financially supported by the Youth Science and Technology Innovation Fund of College of Science,Nanjing Agricultural University, the Youth Fund of Nanjing Agricultural University and the Youth Fund of Jiangsu Province. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] H.J. Kim, A.R. Han, C.H. Cho, H. Kang, H.H. Cho, M.Y. Lee,J.M.J. Frechet, J.H. Oh, B.J. Kim, Chem. Mater.24(2012)215-221. [2] E.T. Niles, J.D. Roehling, H. Yamagata, A.J. Wise, F.C. Spano, A.J. Moule,J.K. Grey, J.Phys. Chem.Lett.3 (2012)259-263. [3] N. Humphry-Baker, K. Driscoll, A. Rao,T. Torres, H.J. Snaith, R.H. Friend, Nano Lett. 12 (2012)634-639. [4] K.Yao,L. Chen,F.Li,P.S.Wang, Y.W.Chen,J.Phys.Chem. C116(2012) 714-721. [5] S.T. Xing, Z.C. Zhou, Z.C. Ma, Y.S.Wu, Appl. Catal.,B 107(2011) 386-392. [6] M. Bhaumik, T.Y. Leswifi,A. Maity, V.V. Srinivasu,M.S. Onyango, J. Hazard. Mater.186 (2011)150-159. [7] L.G. Bach,M.R. Islam, J.T. Kim, S. Seo,K.T. Lim, Appl. Surf. Sci. 258(2012) 2959-2966. [8] S. Shin, H. Yoon,J. Jang, Catal. Commun. 10 (2008) 178-182. [9] K.Takahashi, Y.Takano,T. Yamaguchi,J. Nakamura, C. Yokoe,K.Murata, Synth. Met. 155 (2005) 51-55.   \n[10] V.N. Antonov, B.N. Harmon, V.P. Antropov, A.Y. Perlov, A.N. Yaresko,Phys. Rev. B: Condens.Matter 64(2001)134410.   \n[11] S.K. Park,T. Ishikawa,Y. Tokura,Phys. Rev. B: Condens.Matter 58(1998) 3717-3720.   \n[12] S.H. Xu, S.Y. Li, Y.X.Wei, L. Zhang, F. Xu, React Kinet., Mech. Catal. 101 (2010) 37-249.   \n[13]K.Ramamoorthy,M.Jayachandran,K.Sankaranarayanan,P.Misra,L.M.Kukreja, C.Sanjeeviraja, Sol. Energy 77 (2004) 193-201.   \n[14] A. Cheknane,J. Phys.D: Appl. Phys. 42 (2009) 115302.   \n[15]S.R. Vishwakarma，Rahmatullah，H.C. Prasad，J. Appl. Phys. 7O(1991) 7474-7477.   \n[16]F. Zhang, J. Lan, Z.S. Zhao, Y. Yang, R.Q. Tan, W.J. Song, J. Colloid Interface Sci. 387 (2012)205-212.   \n[17]K.R. Reddy，K.P. Lee, J.Y. Kim,Y. Lee, J. Nanosci. Nanotechnol. 8(2008) 5632-5639.   \n[18] LA. Wang, K.G. Neoh,E.T. Kang, B. Shuter, Biomaterials 32 (2011) 2166-2173.   \n[19]A. Berlin, G. Zotti, S. Zecchin, G. Schiavon,M. Cocchi, D. Virgili, C. Sabatini, J. Mater.Chem.13(2003)27-33.   \n[20] H. Zhang, X. Zhong,J.J. Xu, H.Y. Chen, Langmuir 24(2008) 13748-13752.   \n[21] J.F.Guo,B.W.Ma,A.Y.Yin,K.N.Fan,W.L.Dai,Appl.Catal.,B 101(2011) 580-586.   \n[22]K. Takaoka,T. Otsuka,K.Naka, A. Niwa,T.Suzuki, C. Bureau, S.Maeda, K. Endo, D.P.Chong,J. Mol. Struct. 608 (2002) 175-182.   \n[23] F.Buckel,F.Effenberger,C.Yan,A.Golzhauser,M.Grunze,Adv.Mater.12(2000) 901-905.   \n[24] C.Jaegeun Noh,E. Ito, K.Nakajima,J. Kim,H. Lee,M. Hara,J. Phys. Chem. B 106 (2002)7139-7141.   \n[25] D.L. Zhao,P.Teng,Y.Xu, Q.S.Xia,J.T.Tang,J.Alloys Compd.502(2010)392-395.   \n[26] Y. Yang, H.W. Xiang, L. Tian, H. Wang, C.H. Zhang, Z.C. Tao, Y.Y. Xu, B. Zhong, Y.W. Li, Appl. Catal., A 284 (2005) 105-122.   \n[27] G. Liu, Q. Deng, H.Q. Wang, D.H.L. Ng, M.G. Kong, W.P. Cai, G.Z. Wang,J. Mater. Chem.22 (2012)9704-9713.   \n[28] B. Muktha, G. Madras,T.N. Guru Row, U. Scherf, S.Patil, J. Phys. Chem. B 111 (2007) 7994-7998.   \n[29] H.Tong,S.X. Ouyang, Y.P.Bi,N. Umezawa,M. Oshikiri,J.H. Ye,Adv.Mater.(2011) 1-23.   \n[30] S. Clement, F. Meyer,J. De Winter, O. Coulembier, C.M.L.V. Velde,M. Zeller, P. Gerbaux, J.Y. Balandier, S. Sergeyev, R. Lazzaroni, Y. Geerts,P. Dubois, J. Org. Chem. 75 (2010)1561-1568.   \n[31] Y. Deng,D. Qi, C. Deng, X. Zhang,D. Zhao, J. Am. Chem. Soc.130 (2008) 28-29.   \n[32]D.S. Sutar, S. Lenfant,D. Vuillaume,P. Yakhmi,Org. Electron.9 (2008) 602-608.   \n[33] C.Y. Lin, Y.K. Fang, C.H. Kuo, S.F. Chen, C.S. Lin, T.H. Chou, Y.H. Lee,J.C. Lin, S.B. Hwang, Appl. Surf. Sci. 253 (2006) 898-903.   \n[34] H.C. Liang, X.Z. Li, Appl. Catal., B 86 (2009) 8-17.   \n[35] Y.G. Xu,H. Xu, H.M. Li, J.X. Xia, C.T. Liu, L. Liu, J. Alloys Compd. 509 (2011) 3286-3292.   \n[36] N.M. Mahmoodi,M.Aramia,J.S. Zhang,J. Alloys Compd.509(2011) 4754-4764.   \n[37] X.B. Hu, B.Z. Liu, Y.H. Deng, H.Z. Chen, S. Luo, C. Sun, P. Yang, S.G. Yang, Appl. Catal., B 107 (2011) 274-283.   \n[38] N. Wang, L.H. Zhu, Y.P. Huang, Y.B. She, Y.M. Yu, H.Q. Tang,J. Catal. 266 (2009) 199-206.   \n[39] C.C. Chen, X.Z.Li, W.H. Ma,J.C. Zhao,H. Hidaka,N.Serpone,J.Phys.Chem. B 106 (2002)318-324. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

@@ -1,0 +1,138 @@
+含蛋氨酸二肽影响奶牛乳腺上皮细胞乳蛋白合成相关基因表达陈璐」 常晨城」 史彬林」高民²　赵艳丽」 闫素梅1\*（1.内蒙古农业大学动物科学学院，呼和浩特010018；2.内蒙古自治区农牧业科学院，呼和浩特 010031)
+
+摘要：本试验旨在研究含蛋氨酸（Met）二肽对奶牛乳腺上皮细胞（BMECs）内乳蛋白合成相关基因表达的影响。试验分3部分，均采用单因子完全随机试验设计，Met的添加浓度及培养时间分别为 $6 0 ~ \mu \mathrm { g / m L }$ （0.402 mmol/L）、 $^ { 4 8 \mathrm { ~ h ~ } }$ 。第1部分，培养液添加8种含Met 二肽[蛋氨酸-蛋氨酸(P-Met-Met)、蛋氨酸-赖氨酸(P-Met-Lys)、蛋氨酸-色氨酸(P-Met-Trp)、蛋氨酸-苯丙氨酸(P-Met-Phe)、蛋氨酸-苏氨酸(P-Met-Thr)、蛋氨酸-异亮氨酸(P-Met-Ile)、蛋氨酸-亮氨酸(P-Met-Leu)、蛋氨酸-缬氨酸(P-Met-Val)]，以不添加二肽为对照，测定BMECs 乳蛋白合成相关基因（ $\mathbf { \boldsymbol { a } } _ { \mathrm { s } 1 }$ -酪蛋白、 $\beta$ -酪蛋白、 $\kappa \mathrm { . }$ 酪蛋白、 $\beta$ -乳球蛋白、ⅡI型小肽转运载体和氨肽酶氮）的表达量；第2部分，培养液添加8种与上述二肽对应的游离氨基酸（F-Met-Met、F-Met-Lys、F-Met-Trp、F-Met-Phe、F-Met-Thr、F-Met-Ile、F-Met-Leu、F-Met-Val)，以不添加游离氨基酸为对照，测定BMECs乳蛋白合成相关基因的表达量；第3部分，用二肽等物质的量替代相应游离氨基酸，测定BMECs乳蛋白合成相关基因的表达量以及细胞内外氨肽酶含量。结果表明:P-Met-Met 和P-Met-Lys 组较对照组和其他二肽组上调了 $\mathbf { \alpha } _ { \mathrm { { a } _ { \mathrm { { s } 1 } } } }$ -酪蛋白和 $\beta$ 酪蛋白基因的表达量，且P-Met-Met 组优于P-Met-Lys 组。F-Met-Met 和F-Met-Lys 组较对照组和其他游离氨基酸组显著提高了 $\mathbf { \alpha } _ { \mathrm { { a } _ { \mathrm { { s } 1 } } } }$ -酪蛋白基因的表达量（ $. P { < } 0 . 0 5$ ）。除P-Met-Val 和P-Met-Leu 组外，其他二肽替代游离氨基酸后均不同程度地提高了乳蛋白和II型小肽转运载体基因的表达量，其中P-Met-Met表现出较好的促进效果。总之，含Met二肽等量替代对应的游离氨基酸能够促进乳蛋白基因的表达，其中尤以P-Met-Met的效果最好。关键词：奶牛；乳腺上皮细胞；乳蛋白；蛋氨酸；二肽；基因表达
+
+中图分类号：S823
+
+乳蛋白是评价牛奶质量的重要指标之一。乳成分前体物的组成与含量直接影响乳腺内乳蛋白的合成，进而影响乳品质。蛋氨酸（Met）作为乳蛋白前体物，是乳蛋白合成的主要必需氨基酸，是奶牛第一限制性氨基酸Ⅲ]，是乳蛋白合成翻译开始的第1个氨基酸，也是机体中最重要的甲基直接供体，蛋白质翻译过程被激活的必需要素就是 $5 ^ { \prime }$ 端帽子结构连接核苷酸的核糖需要被甲基化[2]。因此，从Met 的角度研究对乳蛋白合成的影响及机理，对调控乳腺内乳成分的合成和改善乳品质具有重要意义。Wang 等[3]研究发现，向奶牛饲粮中添加蛋氨酸羟基类似物能够显著提高奶牛的乳产量、乳蛋白含量。然而，用于乳蛋白合成的氨基酸并非全部由血液中的游离氨基酸来供给，乳腺组织还可以摄取小肽和蛋白质等非游离态氨基酸以满足乳蛋白合成的需要[4]。小肽能够弥补乳腺组织对氨基酸摄取的不足，而且能在乳腺蛋白质代谢过程中发挥作用。毕微微[5]的研究发现，蛋氨酸-蛋氨酸（P-Met-Met）和蛋氨酸-赖氨酸（P-Met-Lys）二肽能促进奶牛乳腺上皮细胞（BMECs）增殖以及 $\beta \mathrm { . }$ 酪蛋白（CSN2）基因的表达。以BMECs 为模型，用P-Met-Met 和P-Met-Lys 等量替代与它们对应的游离氨基酸，二肽组的 $\alpha _ { \mathrm { s 1 } }$ -酪蛋白（CSN1S1）基因表达与培养液中酪蛋白浓度均显著高于游离氨基酸组[6]。这些研究结果均表明，氨基酸及小肽都在一定程度上影响了奶牛乳蛋白的合成。因此，研究二肽等量替代游离氨基酸对乳蛋白合成的影响，对深入了解乳蛋白前体物对奶牛乳蛋白合成的影响机理及不断提高牛奶品质具有一定理论与实际意义。然而，目前相关的研究较少。鉴于此，本试验以BMECs为体外培养模型，研究不同种类的含Met二肽对乳蛋白合成相关基因和氨肽酶氮(APN)基因表达以及细胞内外氨肽酶（APA）含量的影响，筛选出促进效果明显的二肽组合，为建立适用于奶牛泌乳所需要的二肽营养模式提供理论基础。
+
+1材料与方法
+
+1.1主要试剂与仪器胶原酶II、DMEM/F12 培养基、胰岛素转铁蛋白溶液、胎牛血清（FBS）、胰蛋白酶/乙二胺四乙酸（EDTA）和双抗均购自Gibco公司；氢化可的松、表皮生长因子、催乳素、Met、赖氨酸（Lys）、色氨酸（Trp）、苯丙氨酸（Phe）、苏氨酸（Thr）、异亮氨酸（Ile）、亮氨酸（Leu）和缬氨酸（Val）均购自 Sigma 公司；P-Met-Met、P-Met-Lys、蛋氨酸-色氨酸(P-Met-Trp)、蛋氨酸-苯丙氨酸(P-Met-Phe)、蛋氨酸-苏氨酸(P-Met-Thr)、蛋氨酸-异亮氨酸(P-Met-Ile)、蛋氨酸-亮氨酸(P-Met-Leu)、蛋氨酸-缬氨酸(P-Met-Va)8 种二肽均购自上海科肽生物公司（产品编号分别为PO14103105、PO14103106、PO14103107、PO14103108、PO14103109、PO14103110、PO14103111、PO14103112)；噻唑蓝（MTT）、二甲亚基砜（DMSO)和两性霉素均购自Amresco 公司；磷酸盐缓冲液（PBS）购自 HyClone 公司；SYBR PremixEx TaqTM II、PrimeScript RT Master Mix 购自 TaKaRa 公司；RNAprep pure Cel/Bacteria Kit购自TIANGEN 公司。主要仪器有：倒置显微镜（Olympuse 公司)；全自动酶标仪（Synergy H4，BioTek 公司)；细胞计数仪（Cytorecon，ECI 公司)；二氧化碳恒温培养（HF-240，力康生物医疗科技控股有限公司)；荧光定量PCR仪（ABI-7500，ABI公司)；电泳仪（Bio-Rad公司）。
+
+# 1.2 试验设计
+
+本试验分为3部分，均采用单因子完全随机试验设计，试验中使用的DMEM/F12培养基中 Met 的含量为 $1 7 . 2 4 ~ { \mu \mathrm { g / m L } }$ ，Met 的添加浓度及培养时间参考本课题组前期研究结果分别定为 $6 0 ~ \mu \mathrm { g / m L }$ （ $\mathrm { 0 . 4 0 2 \ m m o l / L } \rangle$ 、 $^ { 4 8 \mathrm { ~ h ~ } }$ 。第1部分，研究8种含 Met二肽（P-Met-Met、P-Met-Lys、P-Met-Trp、P-Met-Phe、P-Met-Thr、P-Met-Ile、P-Met-Leu、P-Met-Val）对 BMECs内乳蛋白合成相关基因表达的影响，分为对照组（不添加二肽）和8个分别添加8种含 Met二肽的试验组，使每种二肽的浓度均为 $0 . 4 0 2 \mathrm { m m o l } / \mathrm { L }$ 。第2部分，研究与8种二肽相对应的游离氨基酸(F-Met-Met、F-Met-Lys、F-Met-Trp、F-Met-Phe、F-Met-Thr、F-Met-Ile、F-Met-Leu、F-Met-Val)对 BMECs 内乳蛋白合成相关基因表达的影响，分为对照组（不添加游离氨基酸）和8个分别添加8种游离氨基酸混合溶液试验组。游离氨基酸混合溶液中每种氨基酸的浓度与第1部分相应的二肽组中的氨基酸浓度一致。第3部分，研究用含 Met的二肽等物质的量替代相应的游离氨基酸后对乳蛋白合成相关基因表达的影响，试验分为8个独立的组合，每个组合为1种含 Met 的二肽组与相应的游离氨基酸组构成，将每个组合的二肽组与游离氨基酸组进行对比分析，二肽和氨基酸添加浓度与试验第1、2部分一致。在3个试验中，每组均为6个重复，培养基中不加FBS。
+
+# 1.3 原代BMECs体外培养
+
+BMECs采用胶原酶消化法获得。取健康荷斯坦奶牛乳腺组织，去除组织表层，于深处取约 $1 ~ \mathrm { c m } ^ { 3 }$ 的组织块，放入4℃预冷的PBS中。在超净台内用PBS 将组织块初步洗净后，再去除组织块的表层，并将组织剪成糊状。加入 $0 . 5 \%$ 胶原酶ⅡI溶液，于 $3 7 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 和 $5 \% \mathrm { C O } _ { 2 }$ 的条件下消化 $^ \textrm { \scriptsize 1 h }$ ，每隔 $2 0 ~ \mathrm { m i n }$ 缓慢摇晃离心管。消化液用孔径为80目的细胞滤网过滤，收集细胞滤液， $1 7 9 \times g$ 离心 $5 \ \mathrm { m i n }$ ，弃上清。加入完全培养基，吹打均匀，然后转入 $2 5 \ \mathrm { c m } ^ { 2 }$ 细胞培养瓶中，在 $3 7 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 和 $5 \%$ $\mathrm { C O } _ { 2 }$ 培养箱中培养。当细胞融合度达到 $80 \% { \sim } 9 0 \%$ 时，依据BMECs 和成纤维细胞对胰蛋白酶消化敏感性不同的特点，对细胞进行纯化并传代。将传至第3代的BMECs悬液接种于 $2 5 \mathrm { c m } ^ { 2 }$ 培养瓶中，置于 $3 7 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 和 $5 \% C O _ { 2 }$ 培养箱中培养[7]。
+
+# 1.4 测试指标与方法
+
+# 1.4.1BMECs内乳蛋白合成相关基因的表达量
+
+将第3代的BMECs，以 $2 { \times } 1 0 ^ { 5 }$ 个/孔密度接种于6孔培养板上，每组6个重复。培养结束后，细胞总RNA 按照RNAprep pure 培养细胞/细菌总RNA 提取试剂盒的方法提取，总RNA 的完整性和纯度用 $1 . 5 \%$ 的琼脂糖凝胶电泳和酶标仪检测。反转录PCR采用 PrimeScriptRT MasterMix 试剂盒的方法进行，得到的cDNA用 SYBR PremixEx TaqTM II试剂盒进行荧光定量PCR，反应体系为 $2 0 ~ \mu \mathrm { L }$ 。用磷酸甘油醛脱氢酶（GAPDH）作为内参基因，对乳蛋白合成相关基因[αs1-酪蛋白（CSN1S1）、CSN2、 $\kappa .$ 酪蛋白（CSN3）、 $\beta$ 乳球蛋白(LGB)、II型小肽转运载体(PEPT2)和APN]的表达量进行测定，引物序列及参数见表1。荧光定量PCR反应程序为： $9 5 . 0 \mathrm { ~ \textdegree ~ }$ （预变性） $3 0 ~ \mathrm { s }$ ；95.0 $\mathrm { { } ^ { \circ } C }$ （变性） $3 0 ~ \mathrm { s }$ ；退火温度 $3 0 ~ \mathrm { s }$ ；72.0℃（延伸）20 s，40个循环； $7 2 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ （延伸） $7 ~ \mathrm { m i n }$ 。熔解曲线程序为： $7 0 { \sim } 9 5 \ \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，每6s升温 $0 . 5 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 共 51个循环，荧光定量PCR 结果采用 $2 ^ { - \Delta \Delta \mathrm { C t } }$ 法进行相对定量分析。
+
+# 表1引物序列及参数
+
+Table 1Primer sequences and parameters   
+
+<html><body><table><tr><td>基因 Genes</td><td>引物序列 Primer sequences(5'-3')</td><td>GenBank 登录 号GenBank accession No.</td><td>长度 Length/bp</td><td>退火温 度 Tm/C</td><td>参考文献 References</td></tr><tr><td rowspan="2">αs1-酪蛋白 CSN1S1</td><td>F:AATCCATGCCCAACAGAAAG</td><td rowspan="2">BC109618</td><td rowspan="2">189</td><td rowspan="2">59</td><td rowspan="2">Zhou 等[8]</td></tr><tr><td>R:TCAGAGCCAATGGGATTAGG</td></tr><tr><td rowspan="2">β-酪蛋白CSN2</td><td>F:GTGAGGAACAGCAGCAAACA</td><td>NM_181008</td><td>115</td><td>55</td><td>Zhou 等[8]</td></tr><tr><td>R:CCAGGAGCAAAACCAAGAAC</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="2">K-酪蛋白 CSN3</td><td>F: CCAGGAGCAAAACCAAGAAC R:TGCAACTGGTTTCTGTTGGT</td><td>NM_174294</td><td>148</td><td>56</td><td>Zhou 等[8]</td></tr><tr><td>F:CTTGTGCTGGACACCGACTA</td><td>NM_173929</td><td>146</td><td>61</td><td>Zhou 等[8]</td></tr><tr><td>β-乳球蛋白LGB</td><td>R：TTGAGGGCTTTGTCGAATTT F:GGGTCATCATCTCTGCACCT</td><td></td><td></td><td></td><td></td></tr><tr><td>磷酸甘油醛脱氢酶GAPDH</td><td>R:GGTCATAAGTCCCTCCACGA</td><td>XM_001252479</td><td>177</td><td>60</td><td>Zhou 等[8]</td></tr><tr><td>II型小肽转运载体PEPT2</td><td>F:ATGGCAATGCCCAATGAAG</td><td>NM-001079582</td><td>189</td><td>59</td><td>自行设计</td></tr></table></body></html>
+
+F：上游引物；R：下游引物。   
+F: forward primer; R: reverse primer.
+
+1.4.2 BMECs内和细胞培养液中氨肽酶（APA）的含量
+
+细胞培养 $4 8 \mathrm { ~ h ~ }$ 后，将细胞培养液 $1 5 ~ 0 0 0 ~ \mathrm { g / m i n }$ 在 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 离心 $1 0 ~ \mathrm { { m i n } }$ ，取上清；将细胞用PBS 清洗3遍，向每孔加入 $7 0 \mu \mathrm { L }$ 的细胞裂解液， $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 孵育 $3 0 \mathrm { m i n }$ 后刮下细胞，4℃15000g/min 离心 $1 0 ~ \mathrm { { m i n } }$ ，取上清。提取出的 APA采用酶联免疫吸附试验(ELISA)试剂盒说明书的步骤进行检测。
+
+1.5 数据处理与分析
+
+所有数据用Excel进行计算整理。试验数据采用SAS9.0软件进行统计，第1部分与第2 部分的数据用ANOVA程序进行单因素方差分析，并用Duncan 氏法进行多重比较；第3部分二肽组与游离氨基酸组的数据用 $t$ 检验进行分析。 $P { < } 0 . 0 5$ 表示差异显著， $0 . 0 5 { \leqslant } P { < } 0 . 1 0$ 表示差异趋于显著。
+
+2结果
+
+2.1含Met的二肽对BMECs内乳蛋白合成相关基因表达量的影响
+
+表2 的结果表明，对于CSN1S1基因表达量，P-Met-Met 组较对照组和其他二肽组显著提高（ $P { < } 0 . 0 5 )$ ，P-Met-Lys 组较对照、P-Met-Leu 和P-Met-Val组显著提高（ $_ { . } { \cdot } { \cdot } { \cdot } 0 . 0 5 \$ ；对于CSN2 基因表达量，P-Met-Met、P-Met-Lys 组较对照组、P-Met-Thr、P-Met-Trp、P-Met-Leu、P-Met-Ile 和P-Met-Val组显著升高( $. P { < } 0 . 0 5 )$ ),P-Met-Phe 组较P-Met-Thr、P-Met-Leu、P-Met-Ile和P-Met-Val 组显著升高( $P { < } 0 . 0 5 )$ ;对于CSN3 基因表达量,P-Met-Met、P-Met-Lys、P-Met-Phe和P-Met-Ile 组较P-Met-Thr、P-Met-Trp、P-Met-Leu 和P-Met-Val 组显著提高（ $P { < } 0 . 0 5 )$ ；8种二肽对LGB、PEPT2和APN 基因表达量均无显著影响（ $( P { > } 0 . 0 5 )$ ）。
+
+表2含Met的二肽对BMECs内乳蛋白、PEPT2和APN基因表达的影响
+
+Table 2Effects of dipeptides containing Met on gene expressions of milk proteins,PEPT2 and APN in BMECs   
+
+<html><body><table><tr><td>组别Groups</td><td>αs1-酪蛋白 CSN1S1</td><td>β-酪蛋白 CSN2</td><td>K-酪蛋白 CSN3</td><td>β-乳球蛋白 LGB</td><td>Ⅱ型小肽转 运载体</td><td>氨肽酶氮 APN</td></tr><tr><td>对照Control</td><td>1.00c</td><td>1.00c</td><td>1.00b</td><td>1.00</td><td>PEPT2 1.00</td><td>1.00</td></tr></table></body></html>
+
+<html><body><table><tr><td>P-Met-Met</td><td>1.44a</td><td>1.13ab</td><td>1.15a</td><td>0.98</td><td>1.06</td><td>1.06</td></tr><tr><td>P-Met-Lys</td><td>1.22b</td><td>1.17a</td><td>1.11ab</td><td>0.98</td><td>1.07</td><td>1.08</td></tr><tr><td>P-Met-Phe</td><td>1.08bc</td><td>1.04bc</td><td>1.05ab</td><td>0.99</td><td>1.01</td><td>1.04</td></tr><tr><td>P-Met-Thr</td><td>1.07bc</td><td>0.85d</td><td>0.83c</td><td>0.98</td><td>1.02</td><td>1.10</td></tr><tr><td>P-Met-Trp</td><td>1.09bc</td><td>1.00c</td><td>0.86c</td><td>0.96</td><td>1.03</td><td>1.09</td></tr><tr><td>P-Met-Leu</td><td>0.99c</td><td>0.85d</td><td>0.85℃</td><td>1.00</td><td>1.03</td><td>1.04</td></tr><tr><td>P-Met-Ile</td><td>1.11bc</td><td>0.84d</td><td>1.12ab</td><td>1.01</td><td>1.08</td><td>1.03</td></tr><tr><td>P-Met-Val</td><td>1.03℃</td><td>0.84d</td><td>0.78c</td><td>0.98</td><td>1.04</td><td>1.06</td></tr><tr><td>SEM</td><td>0.13</td><td>0.10</td><td>0.11</td><td>0.08</td><td>0.06</td><td>0.10</td></tr><tr><td>P值P-value</td><td><0.01</td><td><0.01</td><td><0.01</td><td>0.98</td><td>0.27</td><td>0.83</td></tr></table></body></html>
+
+同列数据肩标相同或无字母表示差异不显著（ $P { > } 0 . 0 5$ )，不同字母表示差异显著（ $_ { . } { \cal P } { < } 0 . 0 5$ )。下表同。Values in the same column with the same or no leter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ while with different letter superscripts mean significant difference ( $\scriptstyle \overbrace { P } < 0 . 0 5 ,$ ).The same asbelow.
+
+2.2游离氨基酸对BMECs内乳蛋白合成相关基因表达的影响
+
+表3 结果表明，F-Met-Met、F-Met-Lys 组的CSN1S1基因表达量显著高于对照组和其他游离氨基酸组 （ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 { \ : } .$ ；F-Met-Met、F-Met-Lys、F-Met-Phe 和F-Met-Leu 组的 CSN2 基因表达量显著高于F-Met-Thr 组（ $_ { _ { P < 0 . 0 5 } }$ ；对于CSN3 基因表达量，F-Met-Met、F-Met-Phe、F-Met-Trp 和F-Met-Leu 组较F-Met-Thr 组显著升高（ $. P { < } 0 . 0 5 \ '$ ，F-Met-Lys 组较F-Met-Phe、F-Met-Thr、F-Met-Trp、F-Met-Leu、F-Met-Ile 和F-Met-Val 组显著升高（ $( P { < } 0 . 0 5 )$ ；对于PEPT2基因表达量，F-Met-Met 组较 F-Met-Trp、F-Met-Leu、F-Met-Ile 和 F-Met-Val 组显著升高（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ )，F-Met-Lys 组较F-Met-Ile组显著提高（ $_ { _ { P < 0 . 0 5 } }$ ；各组 $L G B$ 和 APN 基因表达量均无显著差异（ $P { > } 0 . 0 5 \ '$ ）°
+
+表3游离氨基酸对BMECs内乳蛋白、PEPT2和APN基因表达的影响  
+Table 3Effects of free amino acids on gene expressions of milk protein,PEPT2 and APN in BMECs   
+
+<html><body><table><tr><td>组别 Groups</td><td>αs1-酪蛋白 CSN1S1</td><td>β-酪蛋白 CSN2</td><td>K-酪蛋白 CSN3</td><td>β-乳球蛋白 LGB</td><td>Ⅱ型小肽转 运载体 PEPT2</td><td>氨肽酶氮 APN</td></tr><tr><td>对照 Control</td><td>1.00b</td><td>1.00ab</td><td>1.00ab</td><td>1.00</td><td>1.00ab</td><td>1.00</td></tr><tr><td>F-Met-Met</td><td>1.17a</td><td>0.98ab</td><td>0.97abc</td><td>1.01</td><td>1.02a</td><td>0.96</td></tr><tr><td>F-Met-Lys</td><td>1.13a</td><td>1.01a</td><td>1.07a</td><td>1.02</td><td>0.98ab</td><td>0.99</td></tr><tr><td>F-Met-Phe</td><td>0.97b</td><td>0.99ab</td><td>0.93bcd</td><td>1.03</td><td>0.96abc</td><td>0.91</td></tr><tr><td>F-Met-Thr</td><td>1.03b</td><td>0.85c</td><td>0.76e</td><td>0.99</td><td>0.97ab</td><td>0.96</td></tr><tr><td>F-Met-Trp</td><td>0.98b</td><td>0.93abc</td><td>0.93bcd</td><td>1.01</td><td>0.93bc</td><td>0.97</td></tr><tr><td>F-Met-Leu</td><td>0.99b</td><td>1.01a</td><td>0.91bcd</td><td>1.05</td><td>0.92bc</td><td>0.96</td></tr><tr><td>F-Met-Ile</td><td>1.00b</td><td>0.91bc</td><td>0.86cde</td><td>0.99</td><td>0.90c</td><td>1.00</td></tr><tr><td>F-Met-Val</td><td>0.99b</td><td>0.97ab</td><td>0.83de</td><td>0.99</td><td>0.94bc</td><td>0.93</td></tr></table></body></html>
+
+<html><body><table><tr><td>SEM</td><td>0.06</td><td>0.07</td><td>0.09</td><td>0.07</td><td>0.05</td><td>0.07</td></tr><tr><td>P值P-value</td><td><0.01</td><td><0.01</td><td><0.01</td><td>0.80</td><td>0.01</td><td>0.58</td></tr></table></body></html>
+
+2.3二肽等量替代游离氨基酸对 BMECs 内乳蛋白合成相关基因表达及 BMECs 内外 APA
+
+# 含量的影响
+
+表4结果表明，与F-Met-Met 组相比,P-Met-Met 组显著上调了CSN1S1、CSN2和CSN3基因的表达量（ $P { < } 0 . 0 5 \mathrm { : }$ )；P-Met-Lys 组和F-Met-Lys 组相比，CSN2 的基因表达量显著上调（ $P { < } 0 . 0 5 \$ )，PEPT2的基因表达量趋于显著提高（ $scriptstyle \cdot { \cal P } = 0 . 0 9$ )；与F-Met-Phe 组相比，P-Met-Phe组显著提高了CSN1S1和APN 基因的表达量（ $. P { < } 0 . 0 5 )$ ；P-Met-Trp 组的 CSN1S1 和 PEPT2基因表达量显著高于 F-Met-Trp 组（ $P { < } 0 . 0 5 \mathrm { ~ }$ )，对 APN 基因的表达量有显著提高的趋势（ $\scriptstyle P = 0 . 0 6 { \mathrm { : } }$ )；与F-Met-Leu 组相比，P-Met-Leu 组的CSN2基因的表达量显著降低（ $P { < } 0 . 0 5 )$ ，PEPT2基因的表达量显著升高（ $( P { < } 0 . 0 5 )$ )，APN基因表达量有显著升高的趋势（ $\scriptstyle P = 0 . 0 6 )$ ：与 F-Met-Ile 组相比，P-Met-Ile 组的 CSN1S1、CSN3 和 PEPT2 基因的表达量显著上调（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ )；P-Met-Val组PEPT2和APN基因表达量显著高于F-Met-Val组（ $\cdot P { < } 0 . 0 5 )$ ）。在细胞外，P-Met-Met组和P-Met-Lys 组的APA 含量趋于显著地低于相应的游离氨基酸组（ $\scriptstyle P = 0 . 0 6$ ， ${ \scriptstyle P = 0 . 0 7 }$ )，其他二肽替代游离氨基酸后APA的含量变化均不显著（ $\cdot P { > } 0 . 0 5 )$ ;在细胞内，8种二肽替代游离氨基酸后对 APA含量影响不显著（ $\cdot P { > } 0 . 0 5 )$ 。
+
+表4二肽等量替代游离氨基酸对 BMECs 内乳蛋白、PEPT2、APN基因表达及BMECs 内外APA 含量
+
+的影响
+
+Table 4Efcts of substitution of free amino acids with dipeptides on gene expressions of milk protein,PEPT2 and APN in BMECs and APA content inside and outside BMECs   
+
+<html><body><table><tr><td>组别Groups</td><td>αs1-酪 蛋白 CSN1S1</td><td>β-酪蛋 白 CSN2</td><td>K-酪蛋 白 CSN3</td><td>β-乳球 蛋白 LGB</td><td>Ⅱ型小肽 转运载体 PEPT2</td><td>氨肽酶 氮APN</td><td>细胞外 Extracellul ar</td><td>细胞内 Intracellular</td></tr><tr><td>P-Met-Met</td><td>1.44a</td><td>1.13a</td><td>1.15a</td><td>0.98</td><td>1.05</td><td></td><td>氨肽酶</td><td>APA/(pg/mL)</td></tr><tr><td>F-Met-Met</td><td>1.17b</td><td>0.98b</td><td>0.97b</td><td>1.01</td><td>1.01</td><td>1.05 0.96</td><td>1 422.52</td><td>755.98</td></tr><tr><td>P值P-value</td><td>0.04</td><td>0.03</td><td>0.01</td><td>0.49</td><td>0.10</td><td>0.15</td><td>1 540.92 0.06</td><td>800.03 0.12</td></tr><tr><td>P-Met-Lys</td><td>1.22</td><td>1.17a</td><td>1.11</td><td>0.98</td><td>1.07</td><td>1.07</td><td>1 410.31</td><td>817.54</td></tr><tr><td>F-Met-Lys</td><td>1.13</td><td>1.01b</td><td>1.07</td><td>1.02</td><td>0.98</td><td>0.99</td><td>1 427.54</td><td>810.81</td></tr><tr><td>P值P-value</td><td>0.22</td><td>0.02</td><td>0.50</td><td>0.48</td><td>0.09</td><td>0.10</td><td>0.07</td><td>0.79</td></tr><tr><td>P-Met-Phe</td><td>1.08a</td><td>1.04</td><td>1.04</td><td>0.99</td><td>1.01</td><td>1.04a</td><td>1 477.58</td><td>820.54</td></tr><tr><td>F-Met-Phe</td><td>0.96b</td><td>0.98</td><td>0.93</td><td>1.03</td><td>0.96</td><td>0.91b</td><td>1 562.57</td><td>805.91</td></tr><tr><td>P值 P-value</td><td>0.03</td><td>0.26</td><td>0.08</td><td>0.45</td><td>0.37</td><td>0.04</td><td>0.20</td><td>0.74</td></tr></table></body></html>
+
+<html><body><table><tr><td>P-Met-Thr</td><td>1.07</td><td>0.85</td><td>0.83</td><td>0.97</td><td>1.02</td><td>1.09</td><td>1 610.41</td><td>785.73</td></tr><tr><td>F-Met-Thr</td><td>1.03</td><td>0.84</td><td>0.75</td><td>0.99</td><td>0.97</td><td>0.95</td><td>1 650.73</td><td>782.53</td></tr><tr><td>P值 P-value</td><td>0.27</td><td>0.94</td><td>0.18</td><td>0.80</td><td>0.15</td><td>0.08</td><td>0.25</td><td>0.21</td></tr><tr><td>P-Met-Trp</td><td>1.09a</td><td>1.00</td><td>0.86</td><td>0.95</td><td>1.03a</td><td>1.09</td><td>1 505.59</td><td>912.53</td></tr><tr><td>F-Met-Trp</td><td>0.97b</td><td>0.92</td><td>0.94</td><td>1.01</td><td>0.93b</td><td>0.97</td><td>1 545.21</td><td>937.52</td></tr><tr><td>P值 P-value</td><td><0.01</td><td>0.11</td><td>0.21</td><td>0.22</td><td>0.02</td><td>0.06</td><td>0.38</td><td>0.35</td></tr><tr><td>P-Met-Leu</td><td>0.98</td><td>0.85a</td><td>0.85</td><td>1.00</td><td>1.03a</td><td>1.04</td><td>1 487.52</td><td>890.09</td></tr><tr><td>F-Met-Leu</td><td>0.99</td><td>1.01b</td><td>0.91</td><td>1.05</td><td>0.92b</td><td>0.97</td><td>1 450.84</td><td>827.51</td></tr><tr><td>P值P-value</td><td>0.79</td><td>0.01</td><td>0.31</td><td>0.32</td><td>0.02</td><td>0.06</td><td>0.33</td><td>0.40</td></tr><tr><td>P-Met-Ile</td><td>1.11a</td><td>0.84</td><td>1.12a</td><td>1.01</td><td>1.08a</td><td>1.02</td><td>1 420.62</td><td>782.54</td></tr><tr><td>F-Met-Ile</td><td>1.00b</td><td>0.91</td><td>0.86b</td><td>1.00</td><td>0.89b</td><td>1.00</td><td>1 460.92</td><td>775.01</td></tr><tr><td>P值 P-value</td><td>0.02</td><td>0.23</td><td>0.01</td><td>0.75</td><td><0.01</td><td>0.57</td><td>0.88</td><td>0.76</td></tr><tr><td>P-Met-Val</td><td>1.03</td><td>0.83</td><td>0.78</td><td>0.97</td><td>1.04a</td><td>1.06a</td><td>1 595.54</td><td>810.02</td></tr><tr><td>F-Met-Val</td><td>0.99</td><td>0.97</td><td>0.83</td><td>0.99</td><td>0.93b</td><td>0.94b</td><td>1 560.09</td><td>827.51</td></tr><tr><td>P值P-value</td><td>0.55</td><td>0.05</td><td>0.49</td><td>0.74</td><td>0.01</td><td>0.01</td><td>0.72</td><td>0.19</td></tr></table></body></html>
+
+3讨论
+
+牛奶乳蛋白的 $90 \%$ 是由奶牛乳腺组织以氨基酸为原料合成的，并且用于乳腺内从头合成乳蛋白的氨基酸， $90 \%$ 以上是从血液当中吸收的9。然而有研究表明，乳腺组织不仅能从血液中单纯地摄取游离氨基酸合成乳蛋白，而且也能摄取以肽形式结合的必需氨基酸合成乳蛋白，但机理尚不明确[0]。周苗苗等[1研究含Lys二肽对BMECs中乳蛋白合成的影响发现，添加 Lys 二肽能促进乳蛋白的合成。小肽被动物组织吸收利用依赖于其独立的转运载体系统，主要靠依赖 $\mathrm { H ^ { + } }$ 和 $\mathrm { C a } ^ { 2 + }$ 的逆浓度梯度进行转运的，小肽转运载体具有转运速率快、吸收耗能低及不易饱和等特点[I2]，而游离氨基酸转运载体与之相反，因此动物组织对小肽的利用效率在理论上绝对高于游离氨基酸。PEPT2 是一种低容量、高亲和力的肽载体[13]，主要转运二肽和三肽类营养物质或仿肽类药物[14]。泌乳奶牛乳腺外植体试验研究指出，PEPT2的转运功能受到抑制会明显减少乳蛋白合成[15]。Zhou 等[16]的研究指出，BMECs 能摄取苯丙氨酸-苯丙氨酸（P-Phe-Phe）二肽促进PEPT2基因的表达并用于乳蛋白的合成，说明 PEPT2可能在乳腺摄取小肽的过程中发挥着重要的作用。BMECs的表面存在一种能够将小肽水解成游离氨基酸的 APA，APA 是乳腺组织为乳蛋白合成提供氨基酸的肽酶之一[17]，当氨基酸水平不能满足机体泌乳需要时，细胞内或细胞外会发出代谢信号调节其表达活性。因此，小肽能够通过小肽转运载体和 APA 水解2个途径被乳腺组织吸收利用[17-18]。刘辉等[19]研究山羊乳腺对大豆小肽的吸收利用影响发现，灌注小肽促进了APN 基因的表达，同时显著促进了乳蛋白合成。本试验结果表明，与对照组相比，P-Met-Met和P-Met-Lys组提高了CSN1S1和 CSN2 基因的表达,促进了乳蛋白的合成，以P-Met-Met 组的效果更好,并且除P-Met-Met、P-Met-Phe 和P-Met-Thr组外，其他二肽组的PEPT2基因表达量均显著或趋于显著地高于游离氨基酸组；通过对 APA 含量进行检测发现，在细胞内和细胞外均存在APA，且除P-Met-Met、P-Met-Lys 和P-Met-Ile 组外，其他二肽组的APN基因表达量均显著或趋于显著地高于游离氨基酸组，说明 BMECs能产生APA，将二肽水解为游离氨基酸为乳蛋白的合成提供底物，并且可利用二肽合成乳蛋白。
+
+一项含Met的肽的试验研究发现，不同种类的含Met二肽被BMECs利用效率不同，二肽形式结合的Met被利用的效率相当于游离蛋基酸利用效率的 $3 5 \% { \sim } 1 2 2 \%$ ，其中P-Met-Val、P-Met-Leu 和亮氨酸-蛋氨酸（P-Leu-Met）二肽的利用能力要高于对应的游离氨基酸[20]。本试验得出，BMECs 中用含Met的8种二肽等量替代相应的游离氨基酸后，除P-Met-Val 和P-Met-Leu 外，其他二肽比游离氨基酸能更好地促进CSN1S1、CSN2 和CSN3 基因的表达，尤其以P-Met-Met 的促进效果更好，与F-Met-Met 相比分别增加了 $2 3 . 1 \%$ 、 $1 5 . 3 \%$ 和 $1 8 . 5 \%$ 其次是P-Met-Phe 和P-Met-Lys，分别较相应的游离氨基酸组增加了 $1 2 . 5 \%$ 、 $6 . 1 \%$ 、 $1 1 . 8 \%$ 和8.0%、 $1 5 . 8 \%$ 、 $3 . 7 \%$ 。说明BMECs对二肽的利用效率高于相应的游离氨基酸。二肽组PEPT2和 APN 基因表达量也高于对应的游离氨基酸组，进一步说明 BMECs 能通过既摄取二肽也摄取氨基酸来合成乳蛋白，而且小肽与游离氨基酸相比能更有效地促进乳蛋白的合成。然而，小肽是如何进入细胞被利用以及二肽与游离氨基酸保持多大比例更适于乳蛋白的合成，本试验尚未进行研究，其确切的机理需要进一步探讨。
+
+4结论
+
+含 Met 二肽等物质的量替代对应的游离氨基酸能够促进乳蛋白基因的表达，其中以P-Met-Met、P-Met-Lys、P-Met-Phe 和P-Met-Ile 的促进效果较好，尤以P-Met-Met 的效果最明显。
+
+参考文献：
+
+[1] ROBINSON P H,CHALUPA W,SNIFFEN C J,et al.Influence ofpostruminal supplementation of methionine and lysine,isoleucine,or all three amino acids on intake and chewing behavior,ruminal fermentation,and milk and milk component production[J].Journal of Animal Science,1999,77(10):2781-2792.
+
+TAGARI H,HUBER T,Jr,THEURER B,et al.Portal drained visceral flux,hepatic metabol-ism,and mammary uptake of free and peptide-bound amino acids and milk amino acid output in dairy cows fed diets containing corn grain steam flaked at 36O or steam rolled at 490g/L[J].Journal of Dairy Science,2004,87(2):413-430.
+
+[3]WANG C,LIU H Y,WANG Y M,et al.Efects of dietary supplementation of methionine and lysine on milk production and nitrogen utilization in dairy cows[J].Journal of Dairy Science,2010,93(8):3661-3670.   
+[4]毕微微,高学军,林叶,等.营养素调控奶牛乳蛋白合成的研究进展[J].乳业科学与技 术,2012,35(4):33-35.   
+[5]毕微微.蛋氨酸、赖氨酸二肽对奶牛乳腺上皮细胞泌乳机能的影响[D].硕士学位论文. 哈尔滨:东北农业大学,2013.   
+[6]WU H H,YANG J Y,ZHAO K,et al.Effects of methionine-containing dipeptides on alphaS1 casein expression in bovine mammary epithelial cells[J].Journal of Animal and Feed Sciences,2007,16(2):325-329.   
+[7]SHI H Y,YAN S,JIN L,et al.Vitamin A affects the expression of antioxidant genes in b-ovine mammary epithelial cells with oxidative stress induced by diethylene triamine-nitric oxide polymer[J].Czech Journal of Animal Science,2016,61(3):117-126.   
+[8]ZHOU Y,AKERS R M,JIANG H.Growth hormone can induce expression of four major milk protein genesintransfectedMAC-Tcells[J].JournalofDairy Science,2008,91(1):100-108.   
+[9]BACKWELL F R,BEQUETTE B J,WILSON D,et al.Evidence for the utilization of peptides for milk protein synthesis in the lactating dairy goat in vivo[J].The American Journal of Physiology,1996,271(4 Pt 2):955-960.   
+[10]FARRELL H M,Jr,JIMENEZ-FLORES R,BLECK G T,et al.Nomenclature of the proteins of cows' milk-sixth revision[J].Journal of Dairy Science,2004,87(6):1641-1674.   
+[11]周苗苗,崔景香.含赖氨酸二肽对奶牛乳蛋白合成和乳腺氨基酸转运相关基因表达的 影响[J].中国畜牧兽医,2016,43(5):1156-1161.
+
+[12] GRONEBERG D A,DORING F,THEIS S,et al.Peptide transport in the mammary gland:expression and distribution of PEPT2 mRNA and protein[J].American Journal of Physiology-Endocrinology and Metabolism,2002,282(5):E1172-E1179.
+
+[13]于辉,李华,关绣霞,等.小肽转运载体的分子营养学的研究进展[J].佛山科学技术学院学报：自然科学版，2005,23(3)：77-80.
+
+[14]杨建香,金晓露,魏宁波,等.小肽转运载体 2 的转运机制及功能研究[J].动物营养学报，2013,25(6):1174-1179
+
+[15]ZHOU M M,WU Y M,LIU H Y,et al.Effects of tripeptides and lactogenic hormones on oligopeptide transporter 2 in bovine mammary gland[J].Journal of Animal Physiology and Animal Nutrition,2010,95(6):781-789.
+
+[16]ZHOU M M,WU Y M,LIU H Y,et al.Effects of phenylalanine and threonine oligopeptides on milk protein synthesis in cultured bovine mammary epithelial cells[J].Journal of Animal Physiology and Animal Nutrition,2015,99(2):215-220.
+
+[17] SHENNAN D B,CALVERT D T,BACKWELL F R C,et al.Peptide aminonitrogen transport by the lactating rat mammary gland[J].Biochimica et Biophysica Acta (BBA)-Biomembranes,1998,1373(1):252-260.
+
+[18]ELMLINGER M W,GRUND R,BUCK M,et al.Limited proteolysis of the IGF binding protein-2 (IGFBP-2) by a specific serine protease activity in early breast milk[J].Pediatric Research,1999,46(1):76-81.
+
+[19]刘辉,王玲,李胜利,等.十二指肠大豆小肽梯度灌注对山羊乳腺氨基酸吸收与氨肽酶 N基因表达的影响[J].畜牧兽医学报,2009,40(12):1761-1768.
+
+[20]李海燕.日粮氨基酸构成对奶山羊泌乳性能影响的研究[D].硕士学位论文.泰安:山东农业大学,2007.
+
+Dipeptides Containing Methionine Affects Gene Expressions Involved in Milk Protein Synthesis in Bovine Mammary Epithelial Cells
+
+CHEN ${ \mathrm { L u } } ^ { 1 }$ CHANG Chencheng1 SHI Binlin1 GAO Min² ZHAO Yanli1 YAN Sumei1\* (1. College of Animal Science, Inner Mongolia Agricultural University, Hohhot O10018, China; 2. Inner Mongolia Academy of Agricultural & Animal Husbandry Sciences,Hohhot 010031, China)
+
+Abstract: The aim of this study was to investigate the effects of dipeptides containing methionine on gene expressions involved in milk protein synthesis in bovine mammary epithelial cells (BMECs). The study consisted of three parts and adopted completely random single-factor designs. Concentration of methionine and incubation time were $6 0 ~ \mu \mathrm { g / m L }$ 0 $\mathrm { 0 . 4 0 2 \ m m o l / L } \rangle$ and $4 8 \mathrm { ~ h ~ }$ respectively. Part 1， eight kindsofdipeptides[methionine-methionine(P-Met-Met), methionine-lysine (P-Met-Lys)，methionine-tryptophan (P-Met-Trp)，methionine-phenylalanine (P-Met-Phe)，methionine-threonine(P-Met-Thr)，methionine-isoleucine(P-Met-Ile), methionine-leucine (P-Met-Leu） and methionine-valine (P-Met-Val)] were supplemented in culture medium, and culture medium without dipeptide supplementation was used as control; milk protein synthesis related gene α -casein (CSN1S1)， $\beta$ -casein (CSN2)， K -casein (CSN3)， β -lactoglobulin $( L G B )$ ，pep tide transporter 2 (PEPT2） and aminopeptidase nitrogen (APN) expressions in BMECs were determined. Part 2, eight kinds of free amino acids (F-Met-Met, F-Met-Lys，F-Met-Trp，F-Met-Phe，F-Met-Thr,F-Met-Ile，F-Met-Leu and F-Met-Val) corresponded with the above dipeptides，and culture medium without free amino acids supplementation was used as control; milk protein synthesis related gene expressions in BMECs were determined. Part 3, dipeptides containing methionine equimolarly substituted corresponding free amino acids; milk protein synthesis related gene expressions in BMECs and APA content inside and outside BMECs were determined. The results showed as follows: gene expressions of CSN1S1 and CSN2 were greater in P-Met-Met and P-Met-Lys groups than in other groups, and greater expressons were detected in P-Met-Met group than in P-Met-Lys group. Gene expressions of CSN1S1 was significantly increased in F-Met-Met and F-Met-Lys groups versus other groups $( P { < } 0 . 0 5 )$ . Except P-Met-Val and P-Met-Leu groups, dipeptides containing methionine substitution of corresponding free amino acids up-regulated the expressions of milk protein synthesis related genes and PEPT2 gene,and P-Met-Met had the best effect. In conclusion, dipeptides containing
+
+methionine equimolarly substitution of corresponding free amino acids can increase milk protein synthesis related gene expressions, especially P-Met-Met.   
+Key words: dairy cow; mammary epithelial cels； milk protein； methionine; dipeptide； gene expression

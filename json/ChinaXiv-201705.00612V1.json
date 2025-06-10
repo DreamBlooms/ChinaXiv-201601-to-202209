@@ -1,0 +1,449 @@
+[
+    {
+        "type": "text",
+        "text": "Enhanced catalytic performance for metathesis reactions over ordered tungsten and aluminum co-doped mesoporous KIT-6 catalysts† ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Huan Liu,ab Kai Tao,\\*a Peipei Zhang,a Wei $\\mathsf { X } \\mathsf { u } ^ { \\mathsf { a } }$ and Shenghu Zhou\\*a ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ordered tungsten and aluminum co-doped mesoporous KIT-6 catalysts (W-Al-KIT-6) with diferent Si/Al molar ratios were successfully synthesized by a one-pot synthesis method.The obtained W-Al-KIT-6 catalysts were tested for catalytic conversion of 1-butene and ethene to propene via isomerization of 1-butene to 2-buteneand subsequent cross metathesis of 2-butene and ethene.Various characterization techniques,such as ICP-OES,XRD,BET,TEM,Raman,XPS and $N H _ { 3 }$ -TPD,were used to characterize the catalysts.The introduction of Al did not change the mesoporous structure of KIT-6 when the nominal Si/Al was 10,20 or 30.Moreover,the sample demonstrated a larger amount of acidic sites.The W-Al-KIT-6 catalysts with suitable Si/Al ratios ilustrateda superior catalytic performance to W-KIT-6 catalyst.The origin of catalytic performance enhancement over W-Al-KIT-6 catalysts is preliminarily discussed and ascribed to the highly disperse W species and a large amount of acidic sites.The acidic sites were formed by the introductionof a suitable amount of Alin the W-KIT-6 framework,which accelerated the isomerization of 1-butene to 2-butene and promoted the cross metathesis of 2-butene and ethene to propene. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "With the increasing demand for propene,cross-metathesis of butene and ethene to propene has attracted more and more attention in recent years.1 Supported ${ \\bf W O } _ { 3 }$ catalysts,showing moderate activity, outstanding stability,anti-poisoning property,as well as low price, are highly desirable for industrial metathesis.2,3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The catalytic performance of supported tungsten oxides for olefin metathesis is determined by many factors.The supports have a significant influence on the physico-chemical properties of the catalyst, such as structure and dispersion of tungsten oxide species,and thus significantly influence the catalytic performance.4 Conventional support materials for metathesis catalysts include commercially available silica gel, $\\gamma { \\mathrm { - } } \\mathbf { A l } _ { 2 } \\mathbf { O } _ { 3 }$ ${ \\tt a } { \\tt - } { \\tt A } { \\tt l } _ { 2 } { \\tt O } _ { 3 }$ ，and mixed oxides such as $\\mathrm { S i O } _ { 2 } { - } \\mathbf { A l } _ { 2 } \\mathbf { O } _ { 3 } ^ { \\ 5 }$ and zeolite$\\mathbf { A l } _ { 2 } \\mathbf { O } _ { 3 }$ . Compared with these traditional supports,mesoporous materials show uniform pores,large BET surface areas and pore volumes,which are beneficial for the dispersion of active speciesand providing rapid transportationchannels for reactants and products.Thus,great efforts have been made to develop highly efficient mesoporous catalysts for various reactions7, over the last decades.To date,many mesoporous materials have been explored in olefin metathesis such as HMs,1° SBA-15,1112 MCM41,13 and FDU-12.14 In general, mesoporous catalysts showed much higher catalytic activity than conventional $\\mathrm { S i O } _ { 2 }$ or $\\mathbf { A l } _ { 2 } \\mathbf { O } _ { 3 }$ supported catalysts,due to the highly dispersed active species on the mesoporous supports. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "On the other hand,it has been demonstrated that the Bronsted acidity of the supports would be beneficial for olefin metathesis.Literature has revealed that alumina supported tungsten oxides exhibit strong acid sites and tungsten-support interaction,but very strong acid sites could induce by-reactions such as cracking and isomerization.15 In contrast, silica supported tungsten oxides were barely acidic and could suppress the by-reactions.16 However, the weak interaction between W species and silica could result in poor dispersion of tungsten oxide species,causing poor catalytic performance.Mixed silicaalumina materials with moderate acidity and interaction between metal and support are promising as catalyst supports for olefin metathesis reactions. Xu et al. reported that $\\mathrm { W O _ { 3 } / H Y - A l _ { 2 } O _ { 3 } }$ catalysts exhibited higher activity than $\\mathrm { W O } _ { 3 } / \\mathrm { A l } _ { 2 } \\mathrm { O } _ { 3 }$ with HY content in the range of $0 { - } 3 0 \\ \\mathrm { w t \\% }$ . The improved catalytic performance over $\\mathrm { W O } _ { 3 } / \\mathrm { H Y } { - } \\mathrm { A l } _ { 2 } \\mathrm { O } _ { 3 }$ was ascribed to the moderate acidity of the supports and the suitable interaction between W species and support. The same phenomenon was also found in supported Mo or Re catalysts.It has been reported in the literature that $\\bf M o O _ { 3 } / A l _ { 2 } O _ { 3 } – S i O _ { 2 }$ and $\\mathrm { R e _ { 2 } O _ { 7 } / A l _ { 2 } O _ { 3 } { - } S i O _ { 2 } }$ catalysts were more active than alumina or silica supported catalysts due to high dispersion of active species and moderate acidity.17-19 ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/a82825f9aa3987bef0ec9206bf185e863fa0f5a0efb54a611f5dc2f8a0b1fde3.jpg",
+        "img_caption": [
+            "Scheme1The schematic of the synthesis of ordered tungsten and aluminumco-doped mesoporous KIT-6 materials. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Herein,we first reporta one-pot synthesis of ordered tungsten and aluminum co-doped mesoporous KIT-6 materials (W-Al-KIT-6) for the metathesis of 1-butene and ethene to propene.KIT-6,a mesoporous silica with 3D interconnected large mesopores,has been shown to be an advanced support for many reactions.20,21 In our previous study,we successfully synthesized tungsten doped KIT-6 catalysts (W-KIT-6),and the obtained W-KIT-6 exhibited excellent catalytic performance for metathesis reactions.22,23 In this study,Al and W were co-doped into the KIT-6 framework simultaneously by a one-pot method. The schematic of the synthesis of tungsten and aluminum co-doped W-Al-KIT-6 is shown in Scheme1.Alis introduced to form theacid centerand improve the performance of the catalysts. The influence of $\\mathrm { { s i / A l } }$ ratio on physico-chemical properties was systematically investigated with various characterization techniques,and the catalytic performance for metathesis of 1-butene and ethene to propene over W-Al-KIT-6 with different Si/Al ratios wasalso studied. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Experimental section ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1. Chemicals ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Poly(ethylene glycol)-block-poly(propylene glycol)-block-poly(ethylene glycol) (P123, $M _ { \\mathrm { w } } = 5 8 0 0$ ，EO20PO70EO20) was purchased from Aldrich as the structure directing agents.Tetraethyl orthosilicate (TEOS,AR) as the silica source was purchased from Aladdin. Sodium tungstate dihydrate $\\mathrm { \\left( N a _ { 2 } W O _ { 4 } { \\cdot } 2 H _ { 2 } O \\right. }$ ，AR)，hydrochloric acid (HCl,AR),and $n$ -butanol (AR) were purchased from Sinopharm Chemical Reagent Co.，Ltd.Aluminum-isopropoxide as the Al sourcewaspurchased from Chengdu Gray West Chemistry Technology Company. Ammonium metatungstate $\\mathrm { ( ( N H _ { 4 } ) _ { 6 } H _ { 2 } W _ { 1 2 } O _ { 4 0 } { \\cdot } \\mathcal { X } H _ { 2 } O ) }$ was obtained from Kunshan Xingbang W&M Technology Company. All chemicals were used as received without further purification. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2. Catalyst preparation ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.1Synthesis of W-KIT-6.W-KIT-6 catalysts with a $\\mathrm { { s i } / W }$ ratio of $4 0 / 1$ was prepared according to our previous study.22 Typically, $_ { 3 . 0 \\mathrm { ~ g ~ } }$ of P123 was dissolved in $_ { 1 0 8 . 5 ~ \\mathrm { g } }$ of deionized water,and $_ { 3 . 0 \\mathrm { ~ g ~ } }$ of 1-butanol and $_ { 5 . 9 \\mathrm { ~ g ~ } }$ of HCl $( 3 5 ~ \\mathrm { w t \\% } )$ were added to the abovementioned solution.The mixture was vigor ously stirred at $3 5 ~ ^ { \\circ } \\mathrm { C }$ for $^ { \\textrm { 1 h } }$ and then $6 . 4 5 ~ \\mathrm { g }$ of TEOS was slowly added into the solution.After that, the mixture was vigorously stirred at $3 5 ~ ^ { \\circ } \\mathrm { C }$ for $^ { 1 \\mathrm { h } }$ ,and $0 . 2 5 { \\mathrm { g } }$ of sodium tungstate dissolved in $6 ~ \\mathrm { m L }$ of water $( \\mathrm { S i } / \\mathrm { W } = 4 0 / 1$ )wasadded dropwise into the abovementioned solution.The obtained mixture was further stirred foranother $2 4 \\mathrm { ~ h ~ }$ .The resultant mixture was transferred to a Teflon-lined autoclave and heated at $1 0 0 ~ ^ { \\circ } \\mathrm { C }$ for $2 4 \\mathrm { ~ h ~ }$ . The solid products were collected by filtering,washing thoroughly with deionized water and drying at $1 0 0 ~ ^ { \\circ } \\mathrm { C }$ overnight.Finally, the powders were calcined ina muffle furnace at $5 5 0 ~ ^ { \\circ } \\mathrm { C }$ for $^ { 4 \\mathrm { ~ h ~ } }$ at a heating rate of $1 . 0 \\ \\mathrm { ^ { \\circ } C \\ m i n ^ { - 1 } }$ to remove P123 surfactants. KIT-6 was also synthesized using the same procedure as that of W-KIT-6 without adding sodium tungstate. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.2One-pot synthesis of W-Al-KIT-6. The incorporation ofAl in W-KIT-6 was carried out by a one-pot synthesis method using aluminum-isopropoxide as the Al source.In a typical synthesis for W-Al-KIT-6 with a $\\mathrm { S i / A l }$ ratio of $_ { 1 0 / 1 }$ ， $_ { 0 . 6 3 \\mathrm { ~ g ~ } }$ of aluminum-isopropoxide was dissolved in a solution containing $_ { 1 0 8 . 5 \\mathrm { ~ g ~ } }$ of deionized water and $_ { 5 . 9 \\mathrm { ~ g ~ } }$ of HCl $( 3 5 ~ \\mathrm { w t \\% } )$ .The solution was vigorously stirred at $3 5 ~ ^ { \\circ } \\mathrm { C }$ for at least $^ { 1 \\mathrm { h } }$ ,and then $_ { \\textrm { 3 . 0 ~ g } }$ of P123 and $_ { \\ 3 . 0 \\mathrm { ~ g ~ } }$ of 1-butanol were added into the abovementioned solution.The mixture was vigorously stirred at $3 5 ~ ^ { \\circ } \\mathrm { C }$ for $^ { 1 \\mathrm { h } }$ ,and then $6 . 4 5 ~ \\mathrm { g }$ of TEOS $( \\mathrm { S i } / \\mathrm { A l } = 1 0 / 1 \\$ )wasslowly added into the solution. Furthermore,the mixture was vigorously stirred at $3 5 ~ ^ { \\circ } \\mathrm { C }$ for $^ \\textrm { \\scriptsize 1 h }$ .A solution containing $_ { 0 . 2 5 \\mathrm { ~ g ~ } }$ of sodium tungstate dihydrate and $6 ~ \\mathrm { m L }$ of water $\\mathrm { ( S i / W = 4 0 } ^ { \\cdot }$ was added dropwise into the abovementioned solution，and the resultant mixture was stirred for another $2 4 \\mathrm { ~ h ~ }$ W-Al-KIT-6was obtained after the same hydrothermal treatment,collecting procedures and calcination process as those of W-KIT-6. W-Al-KIT-6 with different Si/Al ratios were synthesized using the same procedures,except that the amount of aluminumisopropoxide was changed according to the desired nominal $\\mathrm { S i / A l }$ ratios.The W-Al-KIT-6 materials with Si/Al ratios of $_ { 1 / 1 }$ $1 0 / 1 , 2 0 / 1$ and $3 0 / 1$ were denoted as W-Al-KIT-6-1,W-Al-KIT-6-10, W-Al-KIT-6-20 and W-Al-KIT-6-30,respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.3Preparation of control $\\mathbf { W O } _ { 3 } / \\mathbf { S i O } _ { 2 }$ catalyst.A control $\\mathrm { W O } _ { 3 } / \\mathrm { S i O } _ { 2 }$ catalyst was prepared by impregnating commercial silica gel (BET surface area: $3 9 9 . 0 \\ \\mathrm { m } ^ { 2 } \\ \\mathrm { g } ^ { - 1 }$ ，Qingdao Haiyang Chemical Co.Ltd) with an aqueous solution of ammonium metatungstate.The impregnated sample was dried at $1 0 0 ~ ^ { \\circ } \\mathrm { C }$ overnight and subjected to an identical calcination procedure to W-KIT-6 catalyst.The loading of W was identical to that of W-KIT-6. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3. Catalystcharacterization ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Elemental analysis was conducted by inductively coupled plasma-optical emission spectroscopy (ICP-OES) using a PerkinElmer OPTIMA 210o DV optical emission spectrometer. BrunauerEmmett-Teller (BET) surface area,pore volume,and pore size was obtained using a Micromeritics ASAP 202oM adsorption apparatus.Prior to measurement, the sample was degassed under vacuum at $2 0 0 ~ ^ { \\circ } \\mathrm { C }$ for $^ 3 \\mathrm { ~ h ~ }$ ，Small angle and wide angle ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "X-ray diffraction patterns (XRD) were recorded ona Bruker D8 Advance X-ray diffractometer using Cu $\\kappa \\mathsf { \\mathfrak { a } }$ radiation.Raman spectra were obtained using a Renishaw Raman spectrometer equipped with a microscope (laser wavelength of $5 3 2 ~ \\mathrm { n m }$ ！ Transmission electron microscopy (TEM) image was obtained ona JEOL 21oo transmission electron microscope operated at $2 0 0  { \\mathrm { k V } }$ .Thesamplewasdispersed in ethanol by sonicationand dropped onto a carbon-coated copper grid followed by natural evaporation.X-ray photoelectron spectroscopy (XPS) experiments were performed on an AXIs ULTRA DLD multifunctional X-ray photoelectron spectroscopy with an Al source.Temperatureprogrammed desorption of ammonia $\\left( \\mathrm { N H } _ { 3 } { \\cdot } \\mathrm { T P D } \\right)$ was carried out in a quartz micro-reactor. The as-prepared sample $\\mathrm { ( 5 0 . 0 ~ m g ) }$ was pretreated in $\\mathbf { N } _ { 2 }$ at $6 0 0 ~ ^ { \\circ } \\mathrm { C }$ for $0 . 5 \\mathrm { ~ h ~ }$ prior to ${ \\bf N H } _ { 3 }$ -TPD measurement,and then a stream of $1 0 / 9 0$ (v/v) $\\mathrm { N H } _ { 3 } / \\mathrm { N } _ { 2 }$ was introduced for adsorption at room temperature for $0 . 5 \\mathrm { ~ h ~ }$ . The sample was further purged by ${ \\bf N } _ { 2 }$ for $^ { 2 \\mathrm { ~ h ~ } }$ in order to remove the physically absorbed ${ \\mathrm { N H } } _ { 3 }$ .Temperature-programmed desorption of ammonia was carried out from $5 0 ~ ^ { \\circ } \\mathrm { C }$ to $8 0 0 ~ ^ { \\circ } \\mathrm { C }$ with a ramping rate of $1 0 ^ { \\circ } { \\bf C } \\operatorname* { m i n } ^ { - 1 }$ ,and the amount of desorbed $\\mathrm { N H } _ { 3 }$ was monitored by a thermal conductivity detector (TCD). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4. Catalytic conversion of 1-butene and ethene to propene ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Catalytic conversion of 1-butene and ethene to propene was carried out in a fixed-bed stainless steel micro-reactor (i.d. $1 0 ~ \\mathrm { m m } \\mathrm { , }$ .In eachrun, $1 . 0 ~ \\mathrm { g }$ of catalyst (20-40 mesh) was placed at the center of the reactor,and the catalystlayerwasbelow and above supported byan inert $\\mathrm { S i O } _ { 2 }$ beadlayer.The catalystswere pretreated bypure ${ \\bf N } _ { 2 }$ at $5 5 0 ~ ^ { \\circ } \\mathrm { C }$ for 4 hours (0.1 MPa, $3 0 ~ \\mathrm { m L }$ $\\operatorname* { m i n } ^ { - 1 } )$ .After cooling to the reaction temperatures, $\\mathbf { C } _ { 2 } \\mathbf { H } _ { 4 }$ and $\\mathbf { 1 - C _ { 4 } H _ { 8 } }$ 0 $9 8 \\%$ ,Dalian special gas company) were directly delivered to the reactor from cylinders. The gas flow rates of $\\mathbf { C } _ { 2 } \\mathbf { H } _ { 4 }$ and ${ \\bf 1 - C _ { 4 } H _ { 8 } }$ were controlled by two mass flow controllers (MFC) to maintain the molar ratio of $\\mathrm { C _ { 2 } H _ { 4 } / 1  – C _ { 4 } H _ { 8 } }$ equal to $2 / 1$ .The metathesis reactions were carried out at ambient pressure,reaction temperature from 400 to $5 0 0 ~ ^ { \\circ } \\mathrm { C }$ ，and gas hourly space velocity (WHSV) of $0 . 8 \\ \\mathrm { h } ^ { - 1 }$ . All products were analyzed online usinga gas chromatograph equipped with a flame ionization detector (FID).1-Butene conversion and product selectivity were calculated using the following formulas: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { \\mathrm { 1 - b u t e n e } } = \\frac { \\left[ \\mathbf { C } _ { 3 } ^ { = } \\right] _ { n } + 2 \\left[ 2 - \\mathbf { C } _ { 4 } ^ { = } \\right] _ { n } } { \\left[ \\mathbf { C } _ { 3 } ^ { = } \\right] _ { n } + 2 \\left[ 1 - \\mathbf { C } _ { 4 } ^ { = } \\right] _ { n } + 2 \\left[ 2 - \\mathbf { C } _ { 4 } ^ { = } \\right] _ { n } + 2 \\left[ \\mathrm { i s o - } \\mathbf { C } _ { 4 } ^ { = } \\right] _ { n } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns _ { \\mathrm { p r o p e n e } } = { \\frac { \\left[ \\mathbf { C } _ { 3 } ^ { = } \\right] _ { m } } { \\left[ \\mathbf { C } _ { 3 } ^ { = } \\right] _ { m } + \\left[ 2 - \\mathbf { C } _ { 4 } ^ { = } \\right] _ { m } + \\left[ \\mathrm { i s o - C } _ { 4 } ^ { = } \\right] _ { m } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns _ { 2 \\mathrm { - b u t e n e } } = { \\frac { \\left[ 2 \\mathrm { - } \\mathbf { C } _ { 4 } ^ { \\mathrm { = } } \\right] _ { m } } { \\left[ \\mathbf { C } _ { 3 } ^ { \\mathrm { = } } \\right] _ { m } + \\left[ 2 \\mathrm { - } \\mathbf { C } _ { 4 } ^ { \\mathrm { = } } \\right] _ { m } + \\left[ \\mathrm { i s o - } \\mathbf { C } _ { 4 } ^ { \\mathrm { = } } \\right] _ { m } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $[ \\mathbf { C } _ { 3 } ^ { = } ] _ { n } , [ 1 \\mathbf { - C } _ { 4 } ^ { = } ] _ { n } , [ 2 \\mathbf { - C } _ { 4 } ^ { = } ] _ { n }$ and $[ \\mathrm { i } \\mathbf { s } \\mathbf { o } \\mathbf { - } \\mathbf { C } _ { 4 } ^ { \\mathrm { = } } ] _ { n }$ are the molar fractions of each component in the effluent gas,and $[ \\bar { \\bf C } _ { 3 } ^ { = } ] _ { m } , [ 1 { \\cdot } \\bf { C } _ { 4 } ^ { = } ] _ { m } ,$ and [iso- $\\cdot \\mathbf { C } _ { 4 } ^ { - } ] _ { m }$ are the mass fractions of each component in the effluent gas. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3. Results and discussion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.Characterization of catalysts ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.1Elemental analysis.ICP-OES analysis was performed to determine the real content of Na,W and Al in the final products.The result suggested that only trace amounts of Na (below $0 . 1 ~ \\mathrm { w t \\% }$ )remained in the catalyst,since the sample was washed thoroughly before calcination.Table1 summarizes the real loading of W and Al in the final catalysts.Approximately $6 7 - 8 0 \\%$ ofW species in the initial synthesis gel was introduced in the final W-Al-KIT-6,and this tendency was consistent with the literature.2² In contrast, approximately $2 1 \\%$ of Al species in the initial synthesis gel was introduced in the final W-Al-KIT-6 at Si/Al ratios ranging from $_ { 1 0 / 1 }$ to $3 0 / 1$ ，whereas $\\sim 4 0 \\%$ of Al species in the initial synthesis gel was introduced in the final products at the Si/Al ratio of $_ { 1 / 1 }$ .Alimited amount of Al doped in the final product was also reported in the literature.24,25 In the acidic medium,most of Al species were in cationic rather than oxo forms (necessary for formation of Si-O-Al linkages), restricting the amount of Al species in the final products. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.2Transmission electron microscopy. TEM images of various samples are illustrated in Fig.1.As shown in Fig.1a, KIT-6 exhibits a three dimensional (3D) ordered mesoporous structure,which is consistent with the literature.26,27 The W doped KIT-6 samples (W-KIT-6) in Fig.1b also show a wellordered mesoporous structure，except for a few irregular domains at the peripheries of the materials.The introduction of Al did not change the structure/texture/appearance of the sample (when Si/Al in 10,20 or 30),as shown in Fig.1c-e. However, for the W-Al-KIT-6-1 (Fig.1f) at the highest ratio of Al/Si,the ordered mesoporous structures disappeared, showing disordered structures.It is suggested that the introduction of a proper amount of Al is beneficial for maintenance of mesoporous structures and excess Al introduction causes the collapse of the mesoporous structure. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.3Nitrogen physisorption. The ${ \\bf N } _ { 2 }$ adsorption isotherms and BJH pore size distributions of KIT-6,W-KIT-6 and W-AlKIT-6 materials are shown in Fig.2.Except for W-Al-KIT-6-1,all samples showed type IV isotherms with H1 hysteresis loops, which revealed that all samples had ordered mesoporous channels.28 The sharp capillary condensation feature at relative pressure of 0.6-0.8 $\\left( P / P _ { 0 } \\right)$ indicates the existence of uniform pores in all the samples.It can be clearly observed that all samples,except W-Al-KIT-6-1,show narrow pore-size distributions.An increase of the Si/Al ratio typically resulted in a small increase in the average pore size; therefore,the pore diameter showed a slight shift.For W-Al-KIT-6-1,the isotherm and pore size distribution was significantly different from that of W-KIT6 and W-Al-KIT-6 catalysts with Si/Al of10,20 or 30.Ithasbeen indicated that the ordered mesoporous structure of KIT-6 disappeared as confirmed by the TEM observation (Fig.1f). ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/4d55ad8937181c871cf72569d3cc74de49244a795708e1409b6afe689b65ddbf.jpg",
+        "table_caption": [
+            "Table1 Elemental analysis of various catalysts by ICP-OES "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\"></td><td colspan=\"2\">Si/W (molar)</td><td colspan=\"2\">Si/Al (molar) Product</td></tr><tr><td>Catalysts</td><td>Gel</td><td>Product Gel</td><td>Product</td><td>W (wt%)</td><td>Al (wt%)</td></tr><tr><td>KIT-6</td><td>N/A</td><td>N/A</td><td>N/A</td><td>N/A</td><td>N/A N/A</td></tr><tr><td>WO3/SiO2</td><td>40/1</td><td>N/A</td><td>N/A N/A</td><td>4.85</td><td>N/A</td></tr><tr><td>W-KIT-6</td><td>40/1 58/1</td><td>N/A</td><td>N/A</td><td>5.01</td><td>N/A</td></tr><tr><td>W-Al-KIT-6-30</td><td>40/1</td><td>55/1</td><td>30/1</td><td>138/1 5.26</td><td>0.30</td></tr><tr><td>W-Al-KIT-6-20</td><td>40/1</td><td>51/1</td><td>20/1</td><td>94/1 5.51</td><td>0.44</td></tr><tr><td>W-Al-KIT-6-10</td><td>40/1</td><td>53/1</td><td>10/1</td><td>47/1 5.06</td><td>0.88</td></tr><tr><td>W-Al-KIT-6-1</td><td>40/1</td><td>59/1</td><td>1/1</td><td>2.5/1 3.49</td><td>12.93</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6b03ea589acc8a28b8d0198d51330bcdc83678c188fcd6518318d5086b7028ec.jpg",
+        "img_caption": [
+            "Fig.1TEMimagesshowig(a)KI-6;(b)W-KI-6;(c)W-A-KI-6-30;(d)W-A-KI-6-20;(e)W-A-KI-6-10;nd(f)W---6-1Salebrare 100 nm. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Table 2 summarizes the BET surface areas,pore volumes and mean pore sizes of different samples.The reduction of BET surface areas and pore volumes are observed for W-KIT-6,as compared with those of KIT-6.However, the introduction of an appropriate amount of Al，W-Al-KIT-6-30，W-Al-KIT-6-20or W-Al-KIT-6-10 showed slightly improved BET surface area, pore volume and pore size as compared with that of W-KIT-6. This suggested that the incorporation of a suitable amount of Al did not disturb the mesoporous structure.In contrast, the W-AlKIT-6-1 sample with the highest Al/Si ratio exhibited a drastic reduction of BET surface areas due to the collapse of the mesoporous structures and blocking of pores caused by excess aluminum. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f01e82bdbea9d64cf34d0222f4db6d355374fe168d5758ae9689245d553ed58c.jpg",
+        "table_caption": [
+            "Table 2BET surface areas，pore volumes,and pore sizes of various catalysts "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Catalysts</td><td>(nm) aa</td><td>BET surface area (m² g</td><td>Pore volume (cm³g</td><td>Average pore size (nm)</td><td>Acidity amount (μmol g-1)</td></tr><tr><td>KIT-6</td><td>19.6</td><td>835</td><td>0.98</td><td>4.6</td><td>68.1</td></tr><tr><td>W-KIT-6</td><td>21.0</td><td>721</td><td>0.81</td><td>4.6</td><td>126.3</td></tr><tr><td>W-Al-KIT-6-30</td><td>20.6</td><td>764</td><td>0.93</td><td>5.1</td><td>191.6</td></tr><tr><td>W-Al-KIT-6-20</td><td>20.6</td><td>758</td><td>0.94</td><td>5.1</td><td>207.6</td></tr><tr><td>W-Al-KIT-6-10</td><td>20.8</td><td>754</td><td>1.1</td><td>6.2</td><td>232.8</td></tr><tr><td>W-Al-KIT-6-1</td><td>N/A</td><td>265</td><td>1.0</td><td>15.7</td><td>274.6</td></tr><tr><td colspan=\"6\">@ Unit cell parameter calculated from the formula ao = 61/d11</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/eef41d7f34508cedbd513c861d5c144cdda9c226e9e468e40e1b17bcc3c114ca.jpg",
+        "img_caption": [
+            "Fig.2 ${ \\sf N } _ { 2 }$ adsorption-dsorptionisothers(leftpanelandporesizedistributios(rightpanel)showing(a)I-6;(b)-l-6(c)-6-30 (d)W-Al-KIT-6-2O; (e)W-Al-KIT-6-1O and (f)W-Al-KIT-6-1. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/713afab632bec496dcd24dd01e4aa11a3a3edac4c832863354f1c2ac1d978b91.jpg",
+        "img_caption": [
+            "Fig.3Small-angle XRD patterns of various samples showing (a) KIT-6; (b)W-KIT-6:(c)W-Al-KIT-6-30;(d)W-Al-KIT-6-2O;(e)W-Al-KIT-6-10; and (f) W-Al-KIT-6-1. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.4X-ray diffraction. Small angle XRD measurement was used to study the mesoporosity of various samples,and the results are presented in Fig.3.Awell-resolved diffraction peak in the $1 . 0 ^ { \\circ } { - } 1 . 1 ^ { \\circ }$ range was observed for KIT-6,which could be indexed as the (211） reflection in the bicontinuous cubic $I a 3 d$ symmetry reported for KIT-6.29 Moreover, the existence of a broad shoulder corresponding to (22o) reflection further indicated ordered mesoporous structures.Except for the W-AlKIT-6-1 sample at the highest ratio of Al/Si (Fig. 3f),all samples exhibited the well resolved diffraction patterns similar to KIT-6, confirming that the ordered mesoporous structure of KIT-6 was maintained after the incorporation of W and Al with suitable Si/Al ratios $( 1 0 / 1 , 2 0 / 1$ or $3 0 / 1 \\AA$ ).ForW-Al-KIT-6-1, theabsence of diffraction peaks in small angles suggested the collapse of mesoporous structures.In addition,cubic unit cell parameters $\\left( a _ { 0 } \\right)$ of samples are also calculated and presented in Table 2.It was found that the unit cell parameter $a _ { 0 }$ increased after introducing W and Al atoms in the framework of KIT-6, accompanied by the shift of (211) reflections to lower angles in Fig.3.This phenomenon may be causedby doping tungsten with larger atomic radius compared to that of $\\mathrm { S i } ^ { 4 + }$ 30,31 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Wide-angle XRD profiles of various samples are shown in Fig.4.KIT-6 showed a broad peak in the $2 \\theta$ range from $1 5 ^ { \\circ }$ to $3 0 ^ { \\circ }$ ，which are the characteristic diffractions of amorphous silica.Obvious crystalline $\\mathbf { W O } _ { 3 }$ diffractions (JCPDS 00-043- 1035)are observed forW-KIT-6 in Fig.4b,which is due to the formation of ${ \\bf W O } _ { 3 }$ extra-framework at a high W loading.2² In contrast, no ${ \\bf W O } _ { 3 }$ diffractions are observed for all W-Al-KIT-6 samples (Fig. 4c-f), indicating that the W species are highly dispersed in W-Al-KIT-6 samples.It is concluded that the introduction of Al in W-KIT-6 by the current one-pot synthesis method could enhance the dispersion of W species,which mayfurther enhance the catalytic performance formetathesis of 1-butene and ethene to propene. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.5 X-ray photoelectron spectroscopy. XPS experiments were carried out to investigate the effect of Al doping on the oxidation states of tungsten.Fig.5 shows the XPS spectra of the W-KIT-6 and W-Al-KIT-6-10 samples.The XPS curves were fitted according to the theory of Doniach and Sunjic.3² The binding energies of $3 5 . 9 \\substack { - 3 6 . 2 \\ \\mathrm { e V } }$ and $3 8 . 0 { - } 3 8 . 3 \\ \\mathrm { e V }$ were attributed to $4 \\mathrm { f } _ { 7 / 2 }$ and $4 \\mathrm { f } _ { 5 / 2 }$ of $\\mathrm { W } ^ { 6 + }$ species,whereas the binding energies of $3 7 . 0 { - } 3 7 . 3 \\$ and $3 4 . 9 \\mathrm { - } 3 5 . 2 \\ \\mathrm { e V }$ were assigned to $4 \\mathbf { f } _ { 5 / 2 }$ and $4 \\mathrm { f } _ { 7 / 2 }$ of $\\mathrm { W } ^ { 5 + }$ species,respectively.33-35 The presence of $\\mathrm { W } ^ { 5 + }$ species in W-KIT-6 sample was consistent with our previous study. $^ { 2 2 } \\mathrm { W } ^ { 5 + }$ species was also observed in the W-Al-KIT-6 sample.Table S1 $\\left( \\mathrm { E S I } \\dag \\right)$ summarizes the molar percentage of $\\mathrm { W } ^ { 6 + }$ and $\\mathbf { W } ^ { 5 ^ { + } }$ species in W-KIT-6 and W-Al-KIT-6-1O samples.The molar percentage of $\\mathbf { W } ^ { 5 ^ { + } }$ species in W-KIT-6 was $2 0 . 6 \\%$ ,whereas the molar percentage of $\\boldsymbol { \\mathrm { W } } ^ { 5 ^ { + } }$ in W-Al-KIT-6-10 samples increased to $3 7 . 5 \\%$ The presence of a high concentration of $\\mathbf { W } ^ { 5 ^ { + } }$ species could favor olefin metathesis,as suggested by previous studies.6,22 ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a14286b1041924c679d77c429fff34725fb073eddb96cee439708edca3b9721c.jpg",
+        "img_caption": [
+            "Fig.4Wide-angle XRD patterns of various samples showing (a) KIT- $6 ;$ (b) W-KIT-6: (c)W-Al-KIT-6-30;(d)W-Al-KIT-6-2O;(e)W-Al-KIT-6-10;and (f) W-Al-KIT-6-1.Vertical lines indicate the difractions of crystalline ${ \\mathsf { W O } } _ { 3 }$ (JCPDS 00-043-1035). "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ad4fac163cc83f04035039f030788b34651492295f3c9db60304b8489016b22.jpg",
+        "img_caption": [
+            "Fig.5 XPS spectra showing (a) W-KIT-6;and (b) W-Al-KIT-6-10. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.6 $\\mathbf { N H } _ { 3 }$ -temperature programmed desorption. ${ \\bf N H } _ { 3 }$ -TPD technique was used to study the effect of aluminum doping on the acidity of catalysts,and the results are shown in Fig.6. KIT-6 showed a weak desorption peak centered at $1 3 0 \\ ^ { \\circ } \\mathbf { C } .$ In contrast,W-KIT-6 exhibited an intense desorption peak at $1 2 5 \\ { ^ \\circ } \\mathrm { C } ,$ ,indicating more acid sites in W doped KIT-6 materials. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For W-Al-KIT-6 catalysts at $\\mathrm { S i / A l }$ ratios of $3 0 / 1 , \\ 2 0 / 1$ and $_ { 1 0 / 1 }$ the main ammonia desorption peaks around $1 3 0 { - } 1 4 8 ^ { \\circ } \\mathbf { C }$ with a broad shoulder in the range of $2 0 0 { - } 5 0 0 ^ { \\circ } \\mathbf { C }$ range were observed, corresponding to weak and medium acid sites,respectively.13,36 Moreover,as the aluminum content increased,the ammonia desorption peaks became more intense and the peaks shifted to higher temperature range,revealing that the total amount of acid sites and the strength of acid increased with the increasing aluminum content.Especially for W-Al-KIT-6-1,the $\\mathrm { N H } _ { 3 }$ -TPD profiles showed a drastic increase in peak intensity over $3 5 0 \\mathrm { - }$ $5 0 0 ^ { \\circ } \\mathrm { C }$ ,indicatinga drastic increase ofmediumacid sites under the same acid strength.The total acidity is calculated based on desorbed ${ \\bf N H } _ { 3 }$ from 50 to $5 5 0 ^ { \\circ } \\mathrm { C }$ after steady adsorption and the dataare presented in Table 2.Among these materials,the total amount of acid sites increased in the following sequence:KIT-6 $<$ W-KIT- $\\cdot 6 < \\mathsf { W }$ -Al-KIT- $6 { - } 3 0 \\textless$ W-Al-KIT- $6 { - } 2 0 ~ <$ W-Al-KIT-6-10 $<$ W-Al-KIT-6-1. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1.7Raman spectroscopy.Raman spectra of various samples are shown in Fig.7. Three peaks at 804,716 and $2 7 2 ~ \\mathrm { c m } ^ { - 1 }$ were observed for W-KIT-6 and for W-Al-KIT-6-30，which can be assigned to the symmetric stretching mode of W-O,bending mode of W-O,and deformationmode of W-O-Win the crystalline $\\mathbf { W O } _ { 3 }$ 37,38respectively. Compared with W-KIT-6，W-Al-KIT-6-30 showed broader Raman bands,suggesting that the dispersion of Wspecies in W-Al-KIT-6-30 was better than that of W-KIT-6.With further increases in the aluminum content,the W-Al-KIT-6 samples showed very weak Raman peaks of crystalline ${ \\bf W O } _ { 3 }$ strongly suggesting that the introduction of Al could enhance the dispersion of W species in W-Al-KIT-6 (Fig. 7). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2. Catalytic conversion of 1-butene and ethene to propene ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.1Effects of mesoporosity and Si/Al ratio. $\\mathbf { W O } _ { 3 } / \\mathbf { S i O } _ { 2 }$ W-KIT-6 and W-Al-KIT-6 catalysts are evaluated in catalytic conversion of 1-butene and ethene to propene.Possible reaction pathways are shown in Scheme 2.According to the well-established mechanism39,40 of olefin metathesis, propene was mainly produced by the cross metathesis of 2-butene and ethene (Scheme 2a). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/4f6d68f029292177ca09a94a6e5bb83ebad40d3a77a67d1c4230dcc8d2aeae5b.jpg",
+        "img_caption": [
+            "Fig. 6 $N H _ { 3 }$ -TPD profiles of different samples showing (a) KIT-6; (b) W-KIT-6; (c)W-Al-KIT-6-3O;(d)W-Al-KIT-6-2O;(e)W-Al-KIT-6-1O;and (f)W-Al-KIT-6-1. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/116932d65f028e206c7d29ecb05ce577b84c3f935baa3c14db2cbcd1860d8f67.jpg",
+        "img_caption": [
+            "Fig.7Raman spectra of different samples showing (a) KIT-6;(b)W-KIT-6; (c)W-Al-KIT-6-3O;(d)W-Al-KIT-6-2O; (e)W-Al-KIT-6-1O;and (f)W-Al-KIT-6-1. ",
+            "Scheme 2 The main reaction pathways of catalytic conversion of ethene and 1-butene. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "CH2=CHCHCHsomerizatiCHCH-CHCH3 isomerization b cross metathesis a + →2CH2=CHCH C   \nCH=C(CH2)CH CH2=CH2 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Therefore,1-butene needed to first be isomerized to 2-butene during the reaction (Scheme 2b). In our previous study,2² MgO wasused as isomerization catalysts and the catalytic reactions were conducted at $3 5 0 ~ ^ { \\circ } \\mathrm { C } .$ 、In this study,no MgO was added, and consequently the reactions were carried out at relatively higher temperatures in the range from 400 to $5 0 0 ~ ^ { \\circ } \\mathrm { C }$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The catalytic performances of $\\mathbf { W O } _ { 3 } / \\mathbf { S i O } _ { 2 }$ ,W-KIT-6 and W-AlKIT-6 catalystsare compared inFig.8 and the detailed dataare summarized in Table 4. $\\mathrm { W O } _ { 3 } / \\mathrm { S i O } _ { 2 }$ showed a low 1-butene conversion of $3 6 . 6 \\%$ and propene selectivity of $1 1 . 0 \\%$ For mesoporous W-KIT-6,the conversion of 1-butene and selectivity of propene were $5 5 . 1 \\%$ and $6 7 . 1 \\%$ ,respectively.As expected, these values were much better than those of conventional non-mesoporous $\\mathbf { W O } _ { 3 } / \\mathbf { S i O } _ { 2 }$ catalysts.The incorporation of a suitable amount of Al into W-KIT-6 resulted in an increase of 1-butene conversion and propene selectivity.When the Al/Si ratiosincreased from $1 / 3 0$ to $1 / 1 0$ ，the1-butene conversion/ propene selectivity increased from $5 9 . 5 \\% / 6 8 . 8 \\%$ to $7 8 . 2 \\% /$ $8 2 . 4 \\%$ ,respectively.Moreover,at the range of Al/Si ratios from $1 / 3 0$ to $1 / 1 0$ ，the catalytic performance over W-Al-KIT-6 was quite stable.When an excess amount of Alwas introduced into W-KIT-6,the 1-butene conversions and propene selectivity over W-Al-KIT-6-1 decreased,and the catalysts deactivated quickly during the first four hours of reaction. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "It was suggested that highly dispersed surface tetrahedral tungsten species were active,whereas bulk ${ \\bf W O } _ { 3 }$ was non-active for olefin metathesis.² Moreover, the acidity of the support was also beneficial for olefin metathesis.6 In the present study, ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9e0c35c947a78d393b028bb8e148798d67ed1db586b13d0ef06e5c21a071bec5.jpg",
+        "img_caption": [
+            "Fig.81-Buteneconversion(leftpanel)andpropeneselectivity(rightpanel)ofvariouscatalysts.Reactionconditions:catalystweight $- 1 . 0 { \\mathfrak { g } } ;$ （204号 $T = 4 5 0 ^ { \\circ } \\mathsf C$ $P = 0 . 1 \\mathsf { M P a }$ 1 $\\mathsf { W H S V } = 0 . 8 \\mathsf { h } ^ { - 1 }$ ： ${ \\mathsf C } _ { 2 } { \\mathsf H } _ { 4 } / 1  – { \\mathsf C } _ { 4 } { \\mathsf H } _ { 8 } = 2 .$ （204 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/ed505c83b05947d23876fec4268d6fd1a955685d28f146343f41cc31ad4d512c.jpg",
+        "table_caption": [
+            "Table 3Effect of Si/Al ratios on conversion of 1-butene and product selectivity over W-KIT-6 and various W-Al-KIT-6 catalystsa "
+        ],
+        "table_footnote": [
+            "ä Reaction conditions: catalyst weight - 1.0 g; temperature - $4 5 0 ~ ^ { \\circ } \\mathrm { C } ;$ （204 pressure- 0.1 MPa;WHSV $\\stackrel { \\cdot } { = } 0 . 8 \\mathrm { ~ h } ^ { - \\frac { \\cdot } { 1 } }$ $\\mathrm { C _ { 2 } H _ { 4 } } / 1  – \\mathrm { C _ { 4 } H _ { 8 } } = 2 / 1$ ; datacollected after 3.O hours of reactions. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>1-Butene</td><td colspan=\"3\">Selectivity (%)</td></tr><tr><td>Catalysts</td><td>conversion (%)</td><td>Propene</td><td>2-Butene</td><td>Isobutene</td></tr><tr><td>WO3/SiO2</td><td>36.6</td><td>89.0</td><td>11.0</td><td>0.0</td></tr><tr><td>W-KIT-6</td><td>55.1</td><td>67.1</td><td>32.9</td><td>0.0</td></tr><tr><td>W-Al-KIT-6-30</td><td>59.5</td><td>68.8</td><td>29.4</td><td>1.8</td></tr><tr><td>W-Al-KIT-6-20</td><td>68.5</td><td>76.6</td><td>21.0</td><td>2.4</td></tr><tr><td>W-Al-KIT-6-10</td><td>78.2</td><td>82.4</td><td>12.4</td><td>5.2</td></tr><tr><td>W-Al-KIT-6-1</td><td>61.6</td><td>27.9</td><td>38.0</td><td>34.1</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "W-KIT-6 showed a mediate catalytic performance. The doping of anappropriate amount of Al lead to an increased amount of acid sites,without changing the mesoporous structure of KIT-6 for W-Al-KIT-6 samples $( \\mathrm { S i } / \\mathrm { A l } = 3 0 / 1 , 2 0 / 1$ and $1 0 / 1$ ),resulting in enhanced catalytic performance.However, for W-Al-KIT-6-1 at the highest Al/Si ratio of $_ { 1 / 1 }$ ，the collapse of mesoporous structures and an excess amount of acid sites induced by the introduction of an excess amount of Al into the framework resulted in poor catalytic performance for metathesis of 1-butene and ethene to propene.As shown in Table 3,the high acidity of W-Al-KIT-6-1 caused severe by-reactions,as evidenced by $3 4 . 1 \\%$ of selectivity of isobutene.The high acidity would induce 1-butene skeletal isomerization to isobutene,as reported in the literature (Scheme 2a).41 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "It has been indicated that the amount of Al plays a crucial role in the catalytic conversion of 1-butene and ethene.At higher Si/Al ratios,W-Al-KIT-6 (Si/Al ratios of 10,20 or 30) showed ordered mesoporous structure with moderate acidity. The moderate acidity could promote the conversion of 1-butene to 2-butene,and consequently the catalyst showed higher 1-butene conversion and propene selectivity.At low Si/Al ratios, the W-Al-KIT-6-1 catalyst exhibited high acidity and deteriorated structure.The poor texture resulted in low1-butene conversion and the high acidity stimulated unwanted side-reaction such as, isomerization or oligomerization reactions,resulting in low propene selectivity and bad stability.W-Al-KIT-6-10 catalystwith an optimum amount of Al showed the best catalytic performance due to the highly dispersed W species and suitable acidity. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/db53736d4a4b4c15d8de64c2024e02d619abf1571daf7b4e16da0003719bef03.jpg",
+        "table_caption": [
+            "Table 4 Effect of reaction temperatures on catalytic performance over W-Al-KIT-6-10a "
+        ],
+        "table_footnote": [
+            "@ Reaction conditions: catalyst weight $- 1 . 0 \\mathrm { g }$ (W-Al-KIT-6-10); pressure - $0 . 1 \\ \\mathrm { M P a ; \\mathrm { W H S V } = 0 . 8 \\ \\mathrm { h ^ { - 1 } } }$ $\\mathrm { \\hat { C } _ { 2 } H _ { 4 } } / 1 \\mathrm { \\bar { - } C _ { 4 } H _ { 8 } } = \\bar { 2 } / 1$ "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">Temperature (C)</td><td rowspan=\"3\">1-Butene conversion (%)</td><td colspan=\"3\">Selectivity (%)</td></tr><tr><td>Propene</td><td>2-Butene</td><td>Isobutene</td></tr><tr><td>400</td><td>44.3</td><td>37.5</td><td>58.0</td><td>4.5</td></tr><tr><td>450</td><td>78.2</td><td>82.4</td><td>12.4</td><td>5.2</td></tr><tr><td>500</td><td>83.5</td><td>86.1</td><td>9.0</td><td>4.9</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2.1Effects of reaction temperature.The influence of reaction temperature on the catalytic performance of W-AlKIT-6-1O catalysts is summarized in Table 4.At $4 0 0 ~ ^ { \\circ } \\mathrm { C }$ ，the catalyst showed $4 4 . 4 \\%$ 1-butene conversion and $3 7 . 5 \\%$ propene selectivity.When the reaction temperature increased to $4 5 0 ~ ^ { \\circ } \\mathrm { C } ,$ the 1-butene conversion and propene selectivity increased dramatically.Further increasing the temperature resulted in slightly improved catalytic performance. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To investigate the stability of the catalyst,a longer time on the stream reaction over W-Al-KIT-6-1O catalyst was conducted and the result is presented in Fig.S1 $\\bigl ( \\mathrm { E S I } \\dag \\bigr )$ .The catalyst showed slight loss of activity after $2 4  { \\mathrm { ~ h ~ } }$ of reaction．The morphology of spent catalyst was observed by TEM.The TEM image (Fig. S2, $\\mathbf { E S I \\dagger }$ ）of post-reaction W-Al-KIT-6-10 catalyst suggested that the mesoporous structure was well retained, although some domains became non-ordered.This result indicated that the catalyst showed good stability. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Ordered tungsten and aluminum co-doped mesoporous KIT-6 materials were successfully synthesized by a one-pot method, and their catalytic performances for catalytic conversion of 1-butene and ethene to propene were investigated.Characterization results revealed that the doping of an appropriate amount of Al in W-KIT-6 did not change the mesoporous structure.Moreover,the incorporation of Al could increase the amount of acid sites and favor the dispersion of W species. When Al/Si ratios ranged from1/30 to $1 / 1 0$ ,W-Al-KIT-6 catalysts showed enhanced catalytic performance.The introduction of excessive Al resulted in the collapse of the mesoporous structures of KIT-6 and poor catalytic performance.The improvement of catalytic activity was ascribed to the retained mesoporous structure,the increased amountofacid sitesand the better dispersion of W species facilitated by Al incorporation.The introduction of excess Al resulted in the collapse of mesoporous structure and poor catalytic performance.The findings in this study are helpful to design more efficient metathesis catalysts for propene productionand could be extended to other olefin metathesis reactions. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "S. Zhou thanks the financial support from the Ministry of Science and Technology of China (Grant No.2012DFA40550) and the aided program for science and technology innovative research team of Ningbo municipality (2014B81004).K.Tao thanks the financial support from the National Natural Science Foundation of China (Grant No.51302278) and the Natural Science Foundation of Ningbo (Grant No.2015A610052). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1 J.C.Mol,J. Mol. Catal. A: Chem.,2004,213,39-45.   \n2 Q. Zhao, S.-L. Chen,J. Gao and C. Xu, Transition Met. Chem., 2009,34,621-627.   \n3A. Spamer,T.I.Dube,D.J.Moodley,C.van Schalkwyk and J.M.Botha,Appl. Catal.,A,2003,255,133-142.   \n4 N.Liu, S.Ding,Y. Cui,N. Xue,L. Peng,X. Guo and W. Ding, Chem.Eng.Res.Des.,2013,91,573-580.   \n5M. Sibeijn and J.C.Mol,Appl. Catal.,1990,67,279-295.   \n6 S.Huang, S. Liu, W. Xin, J. Bai, S. Xie, Q. Wang and L. Xu, J.Mol. Catal.A:Chem.,2005,226,61-68.   \n7 L. Zhang,L. Shi, L. Huang, J. Zhang,R. Gao and D. Zhang, ACS Catal.,2014,4,1753-1763.   \n8T.Xie,L. Shi,J. Zhangand D.Zhang,Chem. Commun.,2014, 50, 7250-7253.   \n9 H.Balcar and J. Cejka, Coord. Chem. Rev.,2013,257,3107-3124.   \n10 T.Ookoshi and M.Onaka, Chem. Commun.,1998,2399-2400.   \n11 L.-F. Chen, J.-C.Hu, Y.-D.Wang,K. Zhu,R.Richards,W.-M. Yang,Z.-C.LiuandW.Xu,Mater.Lett.,2006,60,3059-3062.   \n12C.Lin,K.Tao,H.B.Yu,D.Y.Hua and S.H. Zhou, Catal. Sci. Technol.,2014,4,4010-4019.   \n13T.I.Bhuiyan，P.Arudra，M.N.Akhtar，A.M.Aitani, R.H.Abudawoud,M.A.Al-Yami and S. S.Al-Khattaf,Appl. Catal.,A,2013,467,224-234.   \n14 W. Xu, C.Lin,H. Liu,H. Yu,K. Tao and S. Zhou,RSC Adv., 2015,5,23981-23989.   \n15 X.Li, W. Zhang, S. Liu,L. Xu, X. Han and X. Bao,J. Catal., 2007,250,55-66.   \n16D.P.Debecker,M.Stoyanova,U.Rodemerck,F.ColbeauJustin，C.Boissere，A.Chaumonnot，A.Bonduelle and C.Sanchez,Appl. Catal.,A,2014,470,458-466.   \n17 A.Tarasov,L.Kustov,V. Isaeva,A. Kalenchuk,I. Mishin, G. Kapustin and V. Bogdan, Kinet. Catal.,2011,52,273-276.   \n18 D.P.Debecker, M. Stoyanova,F. Colbeau-Justin, U. Rodemerck, C. Boissiere, E. M. Gaigneaux and C. Sanchez, Angew. Chem., Int. Ed.,2012,51,2129-2131.   \n19 J. Handzlik, J. Ogonowski, J. Stoch, M. Mikolajczyk and P. Michorczyk, Appl. Catal., A, 2006,312, 213-219.   \n20 A.Ramanathan,B.Subramaniam,D.Badloe,U.Hanefeld and R.Maheswari,J.Porous Mater.,2012,19, 961-968.   \n21 Y.H. Guo, C. Xia and B. S. Liu, Chem. Eng. J.,2014, 237, 421-429.   \n22 B. Hu,H. Liu, K. Tao,C. Xiong and S. Zhou,J. Phys. Chem. C, 2013,117, 26385-26395.   \n23 B. Hu, C. R. Xiong, K. Tao and S. H. Zhou,J. Porous Mater., 2015,22,613-620.   \n24 V.V. Balasubramanian,P. Srinivasu, C.Anand,R. R. Pal K.Ariga, S. Velmathi, S. Alam and A. Vinu, Microporous Mesoporous Mater.,2008,114,303-311.   \n25 A. Ungureanu, B. Dragoi, V.Hulea,T. Cacciaguerra, D.Meloni, V. Solinas and E. Dumitriu, Microporous Mesoporous Mater., 2012,163, 51-64.   \n26 G. Karthikeyan and A. Pandurangan, J. Mol. Catal., 2012, 361-362, 58-67.   \n27 A. Prabhu,L. Kumaresan, M. Palanichamy and V. Murugesan, Appl.Catal.,A, 2009,360,59-65.   \n28 H. Shankar, G. Rajasudha, A. Karthikeyan, V. Narayanan and A. Stephen,Nanotechnology,2008,19,315711.   \n29 F.Kleitz,F. Bérubé,R. Guillet-Nicolas, C.-M. Yang and M. Thommes,J. Phys. Chem. C,2010,114, 9344-9355.   \n30 J.-C. Hu, Y.-D. Wang, L.-F. Chen, R. Richards, W.-M. Yang, Z.-C. Liu and W. Xu, Microporous Mesoporous Mater., 2006, 93,158-163.   \n31 A.Ramanathan, R. Maheswari, B.P. Grady, D. S. Moore, D.H. Barich and B. Subramaniam, Microporous Mesoporous Mater.,2013,175,43-49.   \n32 S. Doniach and M. Sunjic,J. Phys. C: Solid State Phys., 1970, 3,285.   \n33 X.-L. Yang, W.-L. Dai, R. Gao and K. Fan,J. Catal.,2007, 249, 278-288.   \n34 M. Cortés-Jacome,C. Angeles-Chavez， E. Lopez-Salinas, J. Navarrete, P. Toribio and J. Toledo,Appl. Catal., A, 2007, 318, 178-189.   \n35 M. Occhiuzzi, D. Cordischi, D.Gazzoli,M. Valigi and P.C. Heydorn,Appl. Catal., A, 2004, 269,169-177.   \n36 L. Xu, C. Wang and J. Guan,J. Solid State Chem., 2014, 213, 250-255.   \n37 E.L. Lee and I. E. Wachs,J. Phys. Chem. C，2008，112, 6487-6498.   \n38 F.Figueras,J. Palomeque, S.Loridant, C. Feche, N. Essayem and G. Gelbard,J. Catal.,2004,226,25-31.   \n39 J. L.Herisson and Y. Chauvin,Makromol. Chem.,1971,141, 161-167.   \n40 R. H. Grubbs, P. L. Burk and D. D. Car,J. Am. Chem. Soc., 1975, 97, 3265-3267.   \n41 S. Meijers,L. Gielgens and V. Ponec, J. Catal.,1995,156, 147-153. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

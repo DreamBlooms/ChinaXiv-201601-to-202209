@@ -1,0 +1,261 @@
+# 数字图书馆的社会模拟技术研究
+
+# 顾立平
+
+（国立台湾大学图书资讯系台北10671)
+
+【摘要】数字图书馆的非文献资源包括用户、用户产生的信息和用户行动,它们是社会网络、社会媒体与虚拟世界的元数据对象。在虚拟世界系统的基础上（含登记系统、地图系统、动态消息系统、快照系统和库存系统等),讨论数字图书馆能够以用户建模和信息系统模块来发展虚拟科研环境、虚拟校园和虚拟知识型社会等。
+
+【关键词】多元用户虚拟环境心乐插件元节化身林登语言第二人生
+
+【分类号】G250.76
+
+# Research on Social Simulation Technologies of Digital Library
+
+Ku Liping
+
+Department of Library and Information Science,National Taiwan University，Taipei 1O671,China)
+
+Abstract】Thenon-doument resourceof digital library includes theuser，theuser generated informationand theuser Ictivity,theyarethemetadataobjectsofthesocial network,thesocialmediaand thevirtual society.Basedonthevirtual iociety systems (including Registration system，Map system，Live feeds system，Snapshots system and Inventory system tc.），the studydiscusses thatdigital librarycanuse user modelingand information system modules todevelop virtual esearch environment，virtual campus and virtual knowledge society and so on.
+
+Keywords】Multi-user virtual environmentMoodle plug-inMetaversesAvatarsLinden languageSecond life
+
+# 前言：以用户行动为描述对象的数字化服务
+
+传统的数字图书馆是以文献资源为描述对象,社会网络的数字图书馆是以人为描述对象,社会媒体的数字图书馆是以用户所产生的信息为描述对象,至于社会模拟的数字图书馆，则是以人在虚拟时空中的行为活动为描述对象。可以说,社会网络、社会媒体与社会模拟的元数据对象,大大不同于传统图书馆所描述的文献资源的元数据对象。深人研究这些非文献资源的元数据、资源和服务，有助于数字图书馆开发新型知识服务的系统和机制。
+
+不同于其他信息服务系统的用户体验,虚拟世界其实是一种多元用户虚拟环境（Multi-UserVirtual Environ-ment,MUVE),包括:技术的、身临其境的、社会的体验[1]。虚拟世界具有教育、主题、具体社区、儿童、自主世界的特性[2]。Andreas 等（2010)认为虚拟世界可以补充和增加面对面交流,提升远程协作和沟通[3]。Bell等（2010)介绍一个虚拟世界的区域代理协议工作组,并综述了第二人生 Second Life（简称“人生")的体系结构,协议和操作[4]。虚拟世界系统的显著特性是以描述人在虚拟世界中的行为活动为元数据对象。
+
+从商业用途来看,越来越多的人在虚拟世界进行各类商业活动,这为企业带来更多社会责任和商业用途的机会与挑战[5]。Ives 等(2008)认为,改编自网络游戏提供商所使用的虚拟世界技术,提供了商业活动运用3D技术的社交功能、可视化功能和模拟功能[°。Fantone（2009)认为女性定位的游戏鼓励购物和调情等活动,是不了解女性用户的一种定向思维,应该给予用户更多自我开创的可能性来取代软件开发者的性别刻板印象和用户行为
+
+# 现代图书情报技术
+
+设定[7]。而 Spaulding（2010）认为虚拟社区可以用来接近消费者和获得消费者数据，然而社会契约和信任则决定了厂商在交易导向、利益导向、关系导向和梦幻导向的虚拟社区的成败[8]。以上说明了数字图书馆发展虚拟世界服务时，需要注意图书馆员和用户的心理契约。
+
+从教育方式的进化观点来看，Eschenbrenner等(2008)在综述各种3D应用后，认为虚拟世界具有提供互动式体验教育的潜力[9]。而Ho 等(2009)在虚拟世界调查了17至18岁的新加坡学生对教育的看法，探讨了设计、规划和执行技术平台融入教育的优劣[10]。多数学者对虚拟世界促进教育改革持正面观点，例如Phillips 等(2009)认为熟练掌握技术的学生渴望有意义的和有效的远程教育教学;作为模拟牙医病人的媒介，虚拟世界活化教学示范和能力测试,能改变问题解决和沟通（Problem- Solving and Communica-tion)导向的远程教育模式[11]。Nakasone 等（2009）指出用户可以播放、暂停、快退和注释星球模拟,交互跟踪恒星,获得动力学和天体物理现象的了解[12]。Schmidt等(2009)讨论如何实施虚拟世界技术来推进在线护理[13]。Jarmon 等(2009)综述了在虚拟世界的告知教学设计和学习辅助，认为“人生”是新一代跨学科传播的体验学习环境[14]。Conradi等（2009)利用3D技术增强以校园为主（Campus-based）、以职业为主（Workplace-basedLearning）、以纸上谈兵为主（Paperbased PBL)的决策技巧训练,增加现实感、主动决策和适应环境的远程会议模拟[15]。De Lucia(2009)非常正面地评价在“人生”中的校园、合作区域、演讲室和休闲区的同步和协作学习机制[16]
+
+持保留态度的学者也不在少数,例如Cheong(2010)研究在“人生"的独立教学和联合教学效果，根据ANOVA分析显示参加者对个人教学的效果感觉有变化,但是效果不显著[17]。Lester 等（2009）比较在课堂上和虚拟世界里的教学效果，发现线上学生享受到的教学经验与传统教学方式一样好[18]。Jamaludin 等(2009)通过定量分析学生成绩单和定性分析日志反应，研究学生关于安乐死伦理、道德和宗教等课程表现，发现学生较重视身临其境的虚拟环境的体验而非效果[19]
+
+大多数学者会同意虚拟世界具有创新教育活动的意义。例如Twining(2009）认为开放的“人生”可以为完全不同生活经验的人们提供一个虚拟世界的教育系统,从而似乎是探索改革教育模式的理想工具[20]。虚拟世界能够提供三维空间建筑物、让学生和教师作为虚拟化身,并引发教育创意的可能性[21]。“人生”是一种沉浸式虚拟环境（ImmersiveVirtual Environment），可用于正式和非正式教学[22]。学习者作为一个群体,为别人构建自己的知识协作，显示出虚拟世界的教育功能[23]等。
+
+在图书馆学界，人们认为虚拟世界提供越来越多的用户信息的综合景观;Ostrander（2008）以半结构访谈研究在虚拟世界中的用户信息搜寻，认为图书馆员和信息专业人员致力优化虚拟世界以及不断创新以用户为中心的服务[24]。Godfrey（2008)讨论在虚拟世界进行参考咨询的方法、机构以及培训步骤[25]。Parker(2008)认为“人生”只是图书馆的另一面，因为在大学里如此盛行虚拟人生，所以图书馆和图书馆长需要应付三维世界的用户信息需求[26]。Hill等（2009)认为虚拟世界是图书馆一项新的信息传递与技术，研究用户在虚拟世界中的信息搜寻行为的可用性（Accessibil-ity）、安全性（Security）和可持续性（Sustainability）有其价值[27] 。
+
+但是，若要深入理解虚拟世界的机制，则需要从用户行为和信息技术双向着手。特别是用户（在虚拟世界中）社会化过程的实证研究。例如Edirisingha 等(2009)在“人生”建立Leicester大学媒体动物园的考古学理论模块，让学生通过参与“人生”利用访谈、观察、记录和交谈完成学习，并且进一步观察他们的虚拟世界的社会化（Socialisation）过程[28]。Harris 等（2009）连续6个星期在线访谈80位每周6小时在虚拟世界的用户，发现用户的社会网络持续扩大，但是逐渐减少了飞行、快闪和聊天等行动，显示用户在虚拟世界中，从个人闯荡逐渐转向社会互动的变化[29]。Zhao 等(2010)在线调查SecondLife用户的认同关系，指出互动频率、活动的多样性和人际关系的影响[30]。Bell(2009)分析虚拟世界：建立在新兴“虚幻乡愁”（Ver-nacular)的”人生”、依靠“人生”建立的资本主义经济、“人生”的醋酸（Griefing）现象，以及生活必需品账户（Account of the Everydayness）的需求[31]。虚拟世界中用户的同理心和自我效能是用户进人虚拟世界的动机，系统必需流畅而且让用户创造更多喜悦经验是成功关键[32]。以上充分说明了用户行为和信息技术结合的重要性。
+
+本文在前人研究的基础上，以“人生”为例，分析虚拟世界的应用程序界面技术，探讨虚拟世界的用户建模与信息系统模块，研究结果可作为数字图书馆发展虚拟世界系统的参考。
+
+# 2技术：虚拟世界的应用程序界面
+
+“人生”的优势在于：容易学习的界面、适用于所有主要操作系统的可用性、非侵略性的社会网络，以及相对广泛的脚本功能[33]。作为全球最大的虚拟世界供应商，“人生”无疑提供一个较佳的系统范例。所以,本文分析"人生"的虚拟世界系统技术。
+
+# 2.1 登记系统[34]
+
+虚拟世界系统是以用户行动为元数据描述对象的-种信息服务机制。终端用户在浏览器上的操作，直接为服务器端所存取和计算，同时间接控制了用户在虚拟世界的化身(Avatars)行为。登记系统是为了管理冬端用户在浏览器上的操作权限。
+
+“人生”的登记系统（RegistrationAPI,RegAPI）不仅提供用户报名加入系统，也提供登录账户、注册多个员工、注册公司或教育机构、限制使用账户数和虚拟土地登记等功能。它是一种表述性状态转移（Represen-tationalStateTransfer，REST)的应用，可以为所有事物定义ID（网络URL）。
+
+RegAPI运作依靠add_to_group（添加一个新用户到指定的“人生”函数）、create_user（创建一个新用户）check_name（指示用户是否用给定的姓名登记）、get_last_names（后缀名称回报）、get_error_codes（错误代码返回)等函数。其HTML范例如下：
+
+< form action $\mathbf { \tau } = \mathbf { \tau }$ "https://cap.secondlife.com/get_reg_capabilities"  
+method $\ c =$ " POST" $>$ <br／>呼唤“人生”的登记系统机制，并采用  
+POST的发送返回机制。<table >$< \mathrm { t r } > < \mathrm { t d } > \mathrm { F i r s t ~ N a m e } < / \mathrm { t d } > < \mathrm { t d } > < \mathrm { i n p u t ~ n a m e } = { } ^ { \prime } \mathrm { f i r s t \_ n a m e } ^ { \prime } \quad \left| \begin{array} { l } { { } } \\ { { } } \end{array} \right|$ $> < / \mathrm { t d } > < / \mathrm { t r } >$ 姓氏$< \mathrm { t r } > < \mathrm { t d } > \mathrm { L a s t ~ N a m e } < / \mathrm { t d } > < \mathrm { t d } > < \mathrm { i n p u t ~ n a m e } = ^ { \prime } \mathrm { l a s t \_ n a m e } ^ { \prime }$ $> < / \mathrm { t d } > < / \mathrm { t r } > .$ 名字$< \mathrm { t r } > < \mathrm { t d } >$ Password </td ><td ><input name $\mathbf { \Psi } = \mathbf { \Psi }$ password'$\mathrm { t y p e } = \mathrm { ' p a s s w o r d ' } > < / \mathrm { t d } > < / \mathrm { t r } >$ 密码V $\mathrm { { } ; t r > < t d ~ a l i g n = { } ^ { \prime } c e n t e r ^ { \prime } { } \ c o l s p a n = 2 > < i n p u t { } \ t y p e = { } ^ { \prime } s u b m i t { } ^ { \prime } }$
+
+value $\mathbf { \Sigma } = \mathbf { \Sigma }$ " Get Capabilities" $>$ </td></tr $>$ 允许用户行使 化身能力 </table > </form>
+
+为配合RegAPI的录人功能，林登实验室的结构化数据(LLSD)支持松散的、分散的、异构的系统结构数据交换，提供类似Perl和Python动态语言的数据设备，其LLSD规范指定许多不同的数据类型（地图、阵列、字串、整数、浮点数、日期等），并对应各种原生对象。例如,在登记系统“create_user”的URL创建一个新用户，对应结合了登记系统的LLSDXML讯息，包括：出生日期（dob）地区（start_region_name）、用户名、用户识别(last_name_id）、密码和电子邮件等。
+
+登记系统POST功能的实现，可让终端用户的浏览器界面与远端服务器进行互操作，用户在“人生”中的化身因而可进行各种社会生活[32],有研究显示：认为自己是生产者的虚拟世界居民比只关心自己的居民，有较高的社会资本；但是虚拟世界的资本无关于真实世界的资本[35]。跨域在两个世界的机制（现实社会中的用户，通过登记系统连接到虚拟世界中的他/她的化身），是虚拟世界登记系统与其他系统的独特差异。
+
+# 2.2 地图系统[36]
+
+如前所述[1,6.21],虚拟世界是建立在一个人工设计的三维空间中，用户通过登记系统获得在这个空间中的某个化身的操纵能力。用户对化身下达的移动指令，被这个空间系统所记录，这种以（在虚拟世界中的)用户行动为元数据描述对象的系统就是虚拟世界的地图系统。
+
+地图系统主要包括数据传输格式以及三维转二维计算两部分。地图系统需要保持对用户行动描述、储存、计算所需的完整数据，数据传输的同时也要换算虚拟世界的三维空间参数值为现实社会的二维空间参数值，让用户能够直观地操作虚拟世界中的化身。
+
+在数据传输格式方面，地图系统(MapAPI)将地  
+图嵌入用户端的浏览器页，让用户在网页上进行点击、  
+拖动、放大缩小、打开传送视窗等动作能够与虚拟世界  
+的服务器端交互。其调动JavaScript的“mapInstance”  
+参数中的“loadmap”功能，进行地图互操作的范例  
+如下：：  
+var mapInstance ;  
+function loadmap(）{mapInstance $\mathbf { \tau } = \mathbf { \tau }$ new"人生"Map（document.getElementById('map -container'））;mapInstance.centerAndZoomAt"人生"Coord（new XYPoint(1027,0922)，2)；}  
+</script >  
+其主要函数包括：  
+goto"人生"URL(997,1002，mapInstance）；链接坐标  
+mapInstance.disableDragging(）；禁用和启用拖动  
+mapInstance.panOrRecenterTo"人生"Coord(new XYPoint(1027,0922），true)；平移地图中心  
+var bounds $\mathbf { \tau } = \mathbf { \tau }$ mapInstance.getViewportBounds（）;获取当前地图的中心  
+var center $\mathbf { \tau } = \mathbf { \tau }$ mapInstance.getMapCenter(）;获取当前地图的边界  
+mapInstance.clickMarker(marker）;触发标记  
+mapInstance.removeMarker(myMarker）;删除标记  
+mapInstance $\mathbf { \tau } = \mathbf { \tau }$ new "人生"Map(document.getElementById（‘'map- container'），{onStateChangedHandler：doSomething}）；设置事件的处理程序
+
+以上，即用户在虚拟世界外的图像控制，图像在虚以世界的定位则采用Amazon Simple Storage Service，imazonS3)开发平台机制。因为3D定位必需转换到D屏幕上显示，所以利用夹角透视算法将三个坐标换算成两个坐标。其三维坐标用“ $\mathrm { \Delta Z - X ^ { \prime } - Y ^ { \prime } { } ^ { \prime \prime } }$ 标识,其中X和Y分别代表地图上的X轴与Y轴，而Z表示放大缩小的焦点（Zoom），其 $\mathrm { X ^ { \prime } }$ 和 $\mathrm { Y ^ { \prime } }$ 数值计算方式为：
+
+$$
+\begin{array} { r } { \mathrm { X ^ { \prime } ~ = ~ X ~ - ~ ( ~ X ~ \% ~ ( ~ 2 Z ~ - ~ 1 ) ~ ) ~ } } \\ { \mathrm { Y ^ { \prime } ~ = ~ Y ~ - ~ ( ~ Y ~ \% ~ ( ~ 2 Z ~ - ~ 1 ) ~ ) ~ } } \end{array}
+$$
+
+若 $\mathrm { \Delta X }$ 和 $\mathrm { Y }$ 变焦大于一个则存储在左下角坐标，而# $\mathrm { \Delta ^ { * } Z - X ^ { \prime } - Y ^ { \prime } }$ ”表示图像包含区域的变焦缩放地图。
+
+虚拟世界带给用户的视觉感官主要是三维影像，以及在三维影像上的操作控制，这种机制不仅带来学习[12,13]、研究[23]教学[9,14]的乐趣,也提供模拟[1]、推演[15]、预先排练[16]等效果。而实现这个机制的核心就是地图系统。
+
+# 2.3 动态消息系统[37]
+
+登记系统提供用户在虚拟世界的控制能力，而地图系统提供了虚拟时空环境，作为元数据描述对象的用户在虚拟世界中的化身，在终端与远程系统上进行互操作依靠动态的数据传输系统。
+
+根据XML数据交换规范，动态消息系统数据格式
+
+# 可被描述如下：
+
+<stats> <status >ONLINE </status > <signups>18,072,648</signups > <logged_in_last_60>1,404,640</logged_in_last_60> <transactions >3,065,550</transactions $>$ <inworld>38,836</inworld $>$
+
+</stats >
+
+其参数意义如表1所示：
+
+表1应用于虚拟世界的XML数据交换格式
+
+<html><body><table><tr><td>参数</td><td>作用</td></tr><tr><td>status</td><td>连线：当网格(Grid)处于联机状态</td></tr><tr><td>signups</td><td>常住户口总数；每日更新</td></tr><tr><td>logged_in_last_60</td><td>在过去60天有记录的常住用户数;每日更新</td></tr><tr><td>transactions</td><td>过去24小时"人生"的平均汇率下的居民交易额度；每 30分钟更新一次</td></tr><tr><td>inworld</td><td>当前登录的常住用户数;每3分钟更新一次</td></tr></table></body></html>
+
+如前所述[1,3,4],因为虚拟世界必需是身临其境的面对面交流体验，而其分布式系统架构中，又将指令操作和运算响应分属在用户端和远程服务器端，需要动态的数据传输保持指令间的联系。动态消息系统被设计为具有联系其他子系统的作用。
+
+# 2.4 快照系统[38]
+
+由于虚拟世界系统提供一种可视化、体验型[12,14] 、沉浸式[22]的虚拟环境,所以图像作为一个主要吸引人（Attractive)的服务特点，在虚拟世界的快照系统（Snapshot)系统具有配合登记系统、地图系统、动态消息系统，进行描述用户行动的数字化服务的功能。
+
+快照系统的可交换图像文件格式(Exif)是一种图像文件格式的规范。根据这个规范“人生”能够从快照解析中，向其他用户发送博客、社会网络、图片等信息。而这个封装(Parcel)讯息包括提供有关消息本身元数据的标题栏（Headers），以及提供有关快照元数据的内容栏（Body）。
+
+其参数意义如表2和表3所示：
+
+表2快照系统的讯息标题栏参数  
+
+<html><body><table><tr><td>参数</td><td>作用</td></tr><tr><td>X-Originating-IP括号内的IP模拟器</td><td></td></tr><tr><td>Subject</td><td>讯息主题</td></tr><tr><td>Sender</td><td>电子邮件地址WWW的数据账户仿真器</td></tr><tr><td>From</td><td>地址和名称的结合(账户名称并不等于所有分身名称)</td></tr><tr><td>Date</td><td>快照在太平洋时区的日期</td></tr><tr><td>Message-ID</td><td>使用此字段以防止多次尝试相同消息的过程</td></tr></table></body></html>
+
+表3快照系统的讯息内容栏参数  
+
+<html><body><table><tr><td>参数</td><td>作用</td></tr><tr><td>agent_id</td><td>发送该消息的化身(代理器)的通用唯一识别码</td></tr><tr><td>username</td><td>发送该消息的化身(代理器)的转换名称</td></tr><tr><td>region_id</td><td>该地区的通用唯一识别码</td></tr><tr><td>global_x</td><td>化身的东西方向网格坐标</td></tr><tr><td>global_y</td><td>化身的南北方向网格坐标</td></tr><tr><td>local_x</td><td>化身的东西方向坐标</td></tr><tr><td>local_y</td><td>化身的南北方向坐标</td></tr><tr><td>local_z</td><td>化身的远近高度坐标</td></tr></table></body></html>
+
+标题栏中的From数据讯息是用来识别阅读电子邮件的人，由于客户端允许某人查看“原始”的消息（未经转换的元数据信息码），所以标题栏隐藏着不同权限的用户识别机制。
+
+另一方面，为配合地图系统的元数据，在local的XYZ是指用户端在虚拟世界操作化身的地理位置XY)和视角（Z）,而global的XY 则是指经过计算后在服务器端反响给客户端的2D屏幕位置。
+
+当用户操作化身在虚拟世界里拍摄快照时，用户「以操作快照，移动快照，然后再传送到另一个位置为分离式摄像机,允许从不同位置以外的地方拍摄，斤以这里的localX，Y，Z并非仅仅为了三维空间的用中操作，也为了摄影角度的缘故而保存其元数据。
+
+# 库存系统[39]
+
+用户权限、用户的化身在虚拟世界的移动、用户端和远端服务器交互以及图像，分别由登记系统、地图系统、动态消息系统和快照系统处理。所有这些被记录的用户行动需要一套信息组织、储存与检索的机制来进行高效管理。虚拟世界的库存系统（Inventory）即为此而产生。
+
+“人生”采用的标准化库存数据结构源自林登语言，数据结构被设计为：类别（Category，可以包含项目和其他类）项目（Item，指向一个系统中的有效资产管控）、权限（Permission,针对某一项目的权限）、销售信息（SaleInformation，针对某个项目的销售信息）等4种。其中，类别和项目不具有名称排他性，而所有用户生成的类都为空值，以达到最大扩展性。
+
+为了在海量数据中进行有效标记，同时避免限制未来系统的迁移、兼容或重构等问题，“人生”采用了开放源代码中的通用唯一识别码（UniversallyUniqueI-Dentifier,UUID)作为标识符码。
+
+UUID是分布式系统中所有元素的唯一辨识信息，每个系统都可以建立与其他系统不相干扰的识别码，
+
+# 12 现代图书情报技术
+
+有助于异构系统间的互操作。在快照系统的元数据内容栏agent_id代理器识别码和region_id地区识别码，以及库存系统中agent_id代理器识别码、category_id类别识别码，parent_id父类识别码均采用UUID标示。其参数意义如表4所示：
+
+表4库存系统的类别数据  
+
+<html><body><table><tr><td>参数</td><td>数据</td></tr><tr><td>agent_id</td><td>代理器的通用唯一识别码</td></tr><tr><td>category_id</td><td>类别的通用唯一识别码</td></tr><tr><td>name</td><td>类别的文字名称</td></tr><tr><td>parent_id</td><td>父类(上位类别)的通用唯一识别码</td></tr><tr><td>type_default</td><td>资产类型的价值(区别号)</td></tr><tr><td>version</td><td>发行版本号</td></tr></table></body></html>
+
+类别包含项目，项目延伸权限和销售信息，库存系统与地图系统基于类别数据进行互操作。快照系统和库存系统的代理器识别码相同，可以达到系统间的互操作。库存系统的标准化库存数据结构反映出设计者对用户行动进行信息组织、储存与检索的知识结构。
+
+# 3架构：用户建模与信息系统模块
+
+人们在技术发展与实践应用的过程中逐渐体会到：由商业机构开发的虚拟世界所带来的种种(虚拟)社会问题，同时也会扩展到现实社会。例如，虽然三维技术提供了远距心理的临床实验的可能性，它可以强化电子邮件、在线交谈和视频会议，以传达更具情感的临床沟通过程，然而这套机制的隐私和人身安全仍未完善地法制化[40]。在商业机构建造的虚拟世界中，人们受到比在现实社会中更少的法制和道德约束，从而产生（助长）了更多破坏社会伦理价值的可能性。网络用户有越来越多的非文本信息，虽然扩大了言论自由，但是也产生了谩骂、道听途说、起哄等非民主现象[41]。所以,公共机构(如图书馆等)发展虚拟世界系统时，在用户建模部分应该考虑到某些刻意“不完整的设计”可以避免管理上的困难。
+
+在虚拟世界中的用户建模，除了参考上述登记系统、地图系统、快照系统、动态消息系统、库存系统等信息系统模块以外，还可以对数字化知识服务所需要的元节（Metaverses）、心乐插件（MoodlePlug-in）、化身等进行深人的用户行为研究。
+
+与传统线上游戏不同，元节必需动态地提供内容，特别是用户生成内容，以及在虚拟世界不断变化位置的用户数据[42]。这对用户、互动类型与现实方式产生与以往不同的技术水平。元节是身临其境的三维虚拟世界中，人们彼此互动的化身和软件代理，没有物理限制的真实世界模拟；其包括：元节本身（TheMetaverseItself）、人/化身（People/Avatars）、元节的技术能力、行为、显示（Outcomes)等5个关键[43]。换句话说,在服务器端的元节是支持在用户端的动态消息系统的虚拟世界管理系统，为实现以用户行动为描述对象的数字化服务。
+
+心乐插件能够支持“人生”角色的同步协作，并在检索过程中捕捉和显示的文本信息[44]。点对点网络架构、用户偏好管理、移动模拟化身、区域划分和传输均衡的服务器、缓存、预取等设计则可以有效地支援化身的移动和行为（Avatars’Mobility and Behavior)模式[45]
+
+如前所述[1,12,16,21],虚拟世界系统技术能够应用王虚拟科研环境（Virtual Research Environment）的开发上：
+
+(1)将各种复杂的学科内容，由过去的文字描述专化为三维立体影像，让用户容易理解；(2)对理论进行实践所需要的环境予以三维模拟化，让用户在安全环境中执行危险环节的动手操作;(3)提供一个信息交流的平台，让用户和用户之间能够相互交流协作。而这些都需要根据实际情况进行用户建模和具有运行效果的信息系统模块。
+
+# 结语：用户是一种非文献资源
+
+虽然用户不是一种财产，不能被图书馆所拥有、控制和改变，但是用户是图书馆最可贵的非文献资源。这种人力资源能够产生信息资源，并且把产生后的信息资源变成图书馆的知识财产。仅仅依靠图书馆员将文献进行加工，产生出来的“附加价值”资源有限，开发用户参与、用户生成和用户体验的数字图书馆系统，有助于将终端用户培养成专门为图书馆制造财产（社会书签、社群多元媒体、个人评论和集体出版物等)的非文献资源。
+
+传统的数字图书馆是以文献资源（某物）为描述对象，而社会网络、社会媒体和社会模拟则分别对用户本身(某人）、用户生成内容(某事）、用户行动（化身-某人在某时对某物做某事等)作为资源描述对象。
+
+深入研究这些非文献资源的元数据、资源和服务，有助于数字图书馆开发新型知识服务的系统和机制。例如，图书馆员和信息专业人员可以协助优质化虚拟世界[24]、图书馆员可以在虚拟世界中建立图书馆来服务用户[25.26]、图书馆学也可以研究虚拟世界中的信息搜寻行为[2]等。可以进一步认为，图书馆可以参考“人生”的虚拟世界系统来发展数字图书馆的虚拟世界，一种辅助研究人员的虚拟科研环境（VirtualResearchEnvironment）辅助教育人员和学生的虚拟校园（VirtualCampus），以及给予有权享受知识服务的一般民众一个虚拟知识型社会（VirtualKnowledgeSociety）等。
+
+虚拟世界系统技术有两个研究趋势：在服务器端建立远程空间探索生态系统(RSEE)模拟外太空或深海的探索活动[46];在用户端应用传感器设备发展非键盘鼠标式的控制设备[47]。未来应该持续关注这些发展。
+
+# 参考文献：
+
+[1］Warburton S. Second Life in Higher Education：Assessing the Potential for and the Barriers to Deploying Virtual Worlds in Learning and Teaching[J]．British Journal of Educational Technology, 2009，40(3):414-426.   
+[2]MessingerPR，Strolulia E,LyonsK，et al.Virtual WorldsPast，Present，and Future：New Directions in Social Computing [J]．Decision Support Systems，2009,47(3）:204-228.   
+[3］Andreas K,Tsiatsos T，Terzidou T，et al．Fostering Collaborative Learning in Second Life：Metaphors and Affordances[J].Computers& Education,2010,55(2):603-615.   
+[4]BellJ,Dinova M,Levine D.VWRAP for Virtual Worlds Interoperability[J].IEEEInternet Computing，2010,14(1):73-77.   
+[5]Papagiannidis S,Bourlakis M,LiF.Making Real Money in Virtual Worlds：MMORPGsand Emerging Business Opportunities, Challenges and Ethical Implications in Metaverses[J].Technological Forecasting and Social Change，2008,75(5） :610 -622.   
+[6］Ives B，Junglas I.APC Forum：Business Implications of Virtual Worlds and Serious Gaming[J].MIS Quarterly Executive,2008,7 (3):151-156.   
+[7］Fantone L.Female Players from Margin to Centre：Female Sociality,Digital Consumer Citizenship and Reterritorialisations[J]．Digital Creativity，2009,20(4):211-224.   
+[8］Spaulding TJ.How Can Virtual Communities Create Value for Business?[J]．Electronic Commerce Research and Applications, 2010,9(1) :38 -49.   
+[9]EschenbrennerB,NahFFH,Siau K.3-DVirtual Worlds in Education：Applications,Benefits,Issues，and Opportunities[J].
+
+Journal of Database Management,2008,19(4):91-110. [10] Ho C M L， Rappa N A, Chee Y S. Designing and Implementing Virtual Enactive Role- play and Structured Argumentation：Promises and Pitfalls[J]．Computer Assisted Language Learning，2009, 22(5):381-408. [11]Philips J,Berge ZL.Second Life for Dental Education[J]．Journal of Dental Education,2009,73(11）:1260-1264. [12]Nakasone A,Prendinger H,Holland S,et al．AstroSim：Collaborative Visualization of an Astrophysics Simulation in Second Life [J].IEEE Computer Graphics and Applications,2009,29（5）:69 -81. [13] Schmidt B,Stewart S. Implementing the Virtual Reality Learning Environment Second Life[J]．Nurse Educator,2009,34(4）:152 -155. ing，Experiential Learning，and Assessment：An Interdisciplinary Communication Course in Second Life[J].Computers & Education,2009,53(1):169-182. ]Conradi E,Kavia S,Burden D,et al.Virtual Patients ina Virtual World：Training Paramedic Students for Practice[J]．Medical Teacher,2009,31(8）:713-720. JY1:711 MI[J].Computers & Education,2009,52(1）:220 -233. 17]Cheong D.The Effects of Practice Teaching Sessions in Second Life on the Change in Pre- service Teachers’Teaching Efficacy[J]. Computers & Education,2010,55(2）:868 -880. ing：Teaching Within First and Second Life Environments[J]. Journal of Computer- Mediated Communication，2009，14（3）： 457-483. [19]Jamaludin A，Chee Y S,Ho C ML.Fostering Argumentative Knowledge Construction Through Enactive Role Play in Second Life [J]．Computers& Education,2009,53(3）:317-329. [20]Twining P.Exploring the Educational Potential of Virtual Worlds - Some Reflections from the SPP[J].British Journal of Educational Technology，2009,40(3）:496-514. [21] Salmon G.The Future for（Second）Life and Learning[J]．British Journal of Educational Technology,2009,40(3）:526-538. [22]Wheeler M.Developing the Media Zoo in Second Life[J]．British Journal of Educational Technology，2009,40(3）:427-443. [23]Girvan C，SavageT.Identifying an Appropriate Pedagogy for Virtu al Worlds：A Communal Constructivism Case Study[J]. Computers & Education,2010,55(1）:342-349. [24]Ostrander M.Talking，Looking，Flying，Searching：Information Seeking Behaviour in Second Life[J]．Library HI TECH,2008,
+
+# 14 现代图书情报技术
+
+26(4) :512 -524.   
+[25]Godfrey K.A New World for Virtual Reference[J]．Library HI TECH,2008,26(4） :525 -539.   
+[26]Parker L.Second Life：the Seventh Face of the Library?[J]. Program-Electronic and Information Systems，2008,42(3）:232 -242.   
+[27]Hill V,Lee HJ.Libraries and Immersive Learning Environments Unite in Second Life[J]. Library HI TECH,2009,27(3）:338- 356.   
+[28]Edirisingha P,Nie M,Pluciennik M，et al．Socialisation for Learning at a Distance ina3-D Multi-user Virtual Environment [J]．British Journal of Educational Technology，20o9，40（3）： 458 -479.   
+[29]Harrs H,Bailenson JN,Nielsen A,et al. The Evolution of Social Behavior over Time in Second Life[J]．Presence- Teleoperators and Virtual Environments,2009,18(6):434 -448.   
+[30] Zhao Y，Wang WQ,Zhu Y. Antecedents of the Closeness of Human -Avatar Relationships in a Virtual World[J]． Journal of Database Management,2010,21(2）:41-68.   
+[31]Bell D.Learning from Second Life[J]．British Journalof Educational Technology,2009,40(3）:515-525.   
+[32]Shin D H.The Evaluation of User Experience of the Virtual World in Relation to Extrinsic and Intrinsic Motivation[J].International Journal of Human-Computer Interaction，2009，25（6）:530- 553.   
+[33]Bourke P.Evaluating Second Life for the Collborative Exploration of 3DFractals[J]．Computers& Graphics-UK,2009，33（1）: 113 - 117.   
+[34] Second Life.Registration API［EB/OL].[2010-11-04]．http://wiki. secondlife.com/wiki/Registration_API.   
+[35]Huvila I,Holmberg K,Ek S,et al．Social Capital in Second Life [J]．Online Information Review,2010,34(2）:295-316.   
+[36]Second Life.Map API Advanced Examples[EB/OL].[2010 -11 -04]．http://wiki.secondlife.com/wiki/Map $^ { - }$ API $-$ Advanced Examples Customizing_zoom_and_pan_controls.   
+[37] Second Life.Live Data Feeds［EB/OL].[2010-11-04]．http://wiki.secondlife.com/wiki/Live_Data_Feeds.   
+[38]Second Life.Snapshot API[EB/OL].[2010 -11-04]. http:// wiki.secondlife.com/wiki/Snapshot_API.   
+[39]Second Life.Inventory API[EB/OL].[2010-11-04].http:// wiki.secondlife.com/wiki/Inventory_API.   
+[40]Gorini A,Gagioli A,Vigna C,etal.A Second Life for eHealth; Prospects forthe Useof3-DVirtual Worlds in Clinical Psychology [EB/OL].Journal of Medical Internet Research，2008,10（3）. [2010-10 -27].ttp://www.jmir.org/2008/3/e21/.   
+[41]Soraker JH.Global Freedom of Expression Within Nontextual Frameworks[J].Information Society，2008，24(1）:40-46.   
+[42]Kumar S,Chhugani J,Kim C，et al.Second Life and the New Generation ofVirtual Worlds[J].Computer，2008,41(9）:46.   
+[43]Davis A，Khazanchi D,Murphy J,et al．Avatars,People，and Virtual Worlds：Foundations for Research in Metaverses[J].Journal of the Association for Information Systems,2009,10(2）:90- 117.   
+[44]De Lucia A,Francese R,Passero I,et al.Development and Evaluation of a System Enhancing Second Life to Support Synchronous Role-based Collaborative Learning[J].Software-Practice and Experience，2009，39(12）:1025-1054.   
+[45]LiangHG,De SilvaRN,OoiWT,etal.Avatar Mobility in User - created Networked Virtual Worlds：Measurements，Analysis, and Implications[J].Multimedia Tools and Applications,2O09,45 (1/3):163-190.   
+[46］NoorAK.Potential of Virtual Worlds for Remote Space Exploration[J].Advances in Engineering Software,2010,41（4）:666- 673.   
+[47］PrendingerH,BrandhermB，Ullrich S.A Simulation Framework forSensor-based Systems in Second Life[J].Presence-Teleoperators and Virtual Environments，2009,18(6):468-477. （作者E-mail:kuliping@ ntu.edu.tw)
+
+# 《现代图书情报技术》特邀专栏组稿
+
+《现代图书情报技术》是中国科学院主管、中国科院国家科学图书馆主办的计算机信息管理技术方面学术性刊物。刊物拥有清晰的定位，即以跟踪技术研究、应用、交流为主体，服务于广大信息技术人员。
+
+本刊从2004年起开设不定期栏目一《特邀专兰》，每一期专栏集中发表关于某个特定方面的技术研发与应用的研究型文章，汇集科研成果、聚焦研究前沿。
+
+# 《特邀专栏》操作办法及流程
+
+(1)本栏目特邀国内外知名专家、学者、教授担任专栏主编，专栏的设立一般由期刊的策划编辑和特邀专栏主编沟通，根据国内外图书情报技术学科的发展需要提出选题。
+
+(2)选题一旦确定后，由特邀专栏主编承担稿件的组织，审核并撰写前言。一期特邀专栏一般为4-6篇文章为宜。稿件组织过程中，策划编辑将与特邀专栏主编进行定期的沟通，及时掌握稿件的撰写情况，并对稿件的撰写提出适当的建议和意见。
+
+(3)稿件经特邀专栏主编审核通过，提交给编辑部。后期由策划编辑负责与作者的联系沟通及安排出版等事宜。
+
+(4)专栏的选题一旦确定后，将确定基本时间表。一般的操作周期为3－5个月。以正式确定特邀专栏题目为起始点，在1个月内确定约请论文的作者和题目，3个月内确定初稿，5个月内确定采用稿。
+
+# 2《特邀专栏》稿件内容要求
+
+(1)深入反映本专栏选题方向的前沿研究成果或重大应用成果，侧重理论研究、技术分析、系统论证或设计等，注意理论与实践相结合。
+
+(2)特邀专栏稿件应该主要是原始性和原创性研究论文，也可以有一篇综述性论文，但综述性论文必须可靠地覆盖该方向的原始核心文献。
+
+(3)文章按照严谨的学术文章体例写作，即明确扼要地界定研究问题，简要说明研究方法，系统精炼地描述国际国内发展状况，进而详细地描述作者自身研究工作的技术线路及研究结果。
+
+(4)特邀专栏的一系列文章应注意覆盖专栏选题所涉及的各个研究方向和多个研究单位，充分覆盖可能存在的多种观点和技术线路。
+
+(5)充分承认前人/别人的工作，充分引证所参考引用的文献（尤其是本研究工作中的原始核心文献和国内最先出现的研究文献），严格遵守著录规范。
+
+# 3《特邀专栏》稿件格式要求
+
+(1)论文版式请参照本刊网站“下载专区”中“论文模板”。(2)多个作者时，请注明通信作者，并注明各个作者的单位。(3)每篇稿件以6-8千字为宜（按篇幅字数计算，包括图、表）。

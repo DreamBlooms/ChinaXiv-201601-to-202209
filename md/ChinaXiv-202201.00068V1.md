@@ -1,0 +1,184 @@
+# 贫困与跨期决策：威胁视角下的心理转变机制
+
+杜棠艳 胡小勇 杨静 李兰玉 王甜甜(西南大学心理学部,西南大学人格与认知教育部重点实验室,重庆400715)
+
+摘 要我国在消除绝对贫困之后，仍然面临艰巨的相对贫困问题。大量证据显示贫困者常做出“短视行为”，如在教育上投资较少、有较多的债务和较少的储蓄等，而这些行为又进一步加深贫困。威胁感知引发心理转变，使得贫困者将注意力聚焦在与稀缺相关的事情上，并具体地、情境化地对事件进行表征，同时倾向于采取快生命史策略，进而导致短视决策行为发生。未来研究除了更深入地探讨贫困行为决策陷阱的多层次多水平路径机制外，应更加广泛而深入地开发出符合我国国情的有效干预方案，使其为相对贫困的长效治理提供科学的心理学路径。
+
+关键词贫困，跨期决策，威胁，心理转变
+
+# 分类号
+
+# 1引言
+
+根据国家统计局发布的《中国统计年鉴 2020》可知，2019 年我国低收入层（月收入在1000 以下）有5.6亿人。这表明我国消除绝对贫困之后，仍然面临艰巨的相对贫困问题。相对贫困是指在特定的社会生产方式和生活方式下，个人或家庭所拥有的资源，虽然可以满足其基本的生活需要，但是不能保障其从事正常的社会生活，只能维持远低于平均生活水平的状况（Townsend,1979;World Bank,1981）。它具有长期性与动态性，通常以一个国家或地区社会中位收入或平均收入的 $5 0 \%$ 来衡量（Atkinson etal.，2002；汪三贵，刘明月,2020）。因此，解决相对贫困问题是长期任务。为了实现在相对贫困长效治理目标上取得进展，需要深入理解贫困的形成机制。学术界早期主要从地理环境、制度等外部因素阐述贫困产生的原因（Myrdal,1957; Nurkse,1953;Rosenstein-Rodan,1943)，认为缺乏财政支持、市场失灵以及社会制度与社会结构失调是造成贫困者之所以贫困的根源（Moore＆Hossain,2005)。随着研究的深入，研究者们近来开始重点关注个体的心理与行为等内部因素对贫困的影响，指出贫困的不利处境会引发一系列特殊心理过程，进而产生难以摆脱贫穷的行为，使其深陷贫困陷阱（Cannon et al.,2019; Hamilton et al.,2019; Haushofer & Fehr,2014; Ong etal., 2019)。
+
+事实上，物质匮乏已被证明会影响决策，从金融到教育再到健康，贫困者表现得似乎只专注于满足短期需求和愿望，而不是关注长期利益和回报。例如，贫困者有更多的债务和更少的储蓄(Kim et al.,2017;Moav and & Neeman,2012)；在教育上投资较少(Blanden &Gregg,2004)；并且更可能从事不健康的行为，如吸烟(Jahnel etal.,2018)。这些行为可能会进一步加深贫困，即贫困产生贫困，目前的贫困本身就是未来贫困的直接原因，陷入“贫困—行为决策—贫困"的贫困陷阱（Farah＆Hook,2017)。那为什么贫困者更容易做出“短视"行为呢？先前的研究认为，贫困塑造了个体的偏好和价值观、损害了个体的自我控制能力，这些缺陷使贫困者更容易做出非理性的行为决策（Lewis,1966;Vohs,2013）。近来的研究则将贫困中的决策行为视为一般心理社会机制运作的产物，指出看似不理智的行为实际上是生活在贫困中的人对威胁环境做出的适应性反应，如果当前需求很高，未来不确定，那么获取当前可得的较小收益就比等待未来的较大回报更有益（Frankenhuis etal.，2019;Pepper& Netle,2017; Sheehy-Skeffington,2019）。这种适应性的视角更加全面准确地描述了贫困个体的行为决策过程，且在很大程度上减少了对贫困者的污名化。因此，本文从适应性的视角出发，考察贫困影响行为决策的社会心理机制。这将为打破行为贫困陷阱奠定坚实的理论基础，对我国进行相对贫困长效治理具有理论指导价值。需要指出的是，在生活中无处不在的一种决策行为是跨期决策，因为时间只在一个方向上运行，所以生活中许多最基本的选择都涉及到现在与未来结果之间的权衡，包括支出、投资、饮食、关系、生育率、犯罪和教育的决策（Berms etal.,2007)。它不仅影响个人健康、财富和幸福，还影响国家的经济繁荣（Frederick etal.，2002)。因此，在行为贫困陷阱研究中，跨期决策行为最受研究者们关注，本文中的行为决策陷阱也特指跨期决策行为。
+
+# 2贫困与跨期决策
+
+跨期决策（Intertemporalchoice）是指人们对不同时间点的损益做出权衡的过程（Bulley& Schacter,2020;Frederick etal.,2002)。在实验中，通常要求被试在一个较小的即时奖励（smaller-sooner，SS）和一个较大的延迟奖励（larger-later,LL）中进行选择（Scholten&Read,2010)，比如，是现在获得100元，还是1个月后获得150元。衡量跨期选择偏好的指标是延迟折扣率，个体的延迟折扣率越高，表明其越偏爱较小的即时奖励。
+
+通常来说，延迟折扣率反映了个体的耐心和远见水平，折扣率高通常代表没有耐心、短视；  
+而折扣率低则代表有耐心、有远见（Jimuraetal.,2018）。
+
+大量研究表明贫困个体有较高的延迟折扣率，倾向于选择眼前较小的收益，而不是长远较大的回报，即“短视”（Carvalho etal.,2016;Pepper＆Netle,2017)。例如，发表在《科学》（Science）上的研究表明，贫困经历会使个体不愿放弃眼前较小的收入以追求未来更高收入，进而导致其对教育和卫生等有长期回报的投资较少（Haushofer&Fehr,2014）。相关研究证实，较贫穷的家庭更有可能选择更小、更早的货币奖励，而不是更大、更迟的奖励（Reimers etal.,2009)。纵向研究同样发现，个体童年期家庭的社会经济地位越低，成年后延迟折扣率越高（Griskevicius etal.,2013)。实验研究则进一步明确了贫困与跨期决策之间的因果关系。例如，一项实验室研究操纵贫困者在日常生活中经常遭受的经历——负性收入冲击（例如因为干旱、洪水等自然灾害或失业所造成的收入源减少)，以验证其对跨期决策的影响。该研究中所有负性收入冲击组、正性收入冲击组和控制组被试都需要通过游戏获得“收入”，然而负性收入冲击组被试在游戏中某次失误就会导致先前获取收入归零甚至负债；相反正性收入冲击组被试在游戏中某次成功可使收入成倍增长；随后考察不同组别被试在跨期决策任务中的表现，结果表明负性收入冲击增加了延迟折扣率，正性收入减少了延迟折扣率（Haushofer& Fehr,2019)。在真实生活的决策情境中也得到了相同的结论。例如，在一项社会实验中，让民众通过两种方式领取退休金，第一种方案是一次性领取，第二种是分期领取，若是选取第二种方案，还可以获得比普通存款更高的利息，总额就比第一种方案高的多。但研究证据显示，贫困人口仍然更倾向于选择第一种方案（Brown etal.,2015)。可见，无论是横断相关研究、纵向追踪研究还是实验研究结果一致表明，贫困个体延迟折扣率更高，常做出一系列不利摆脱贫困、不利于自身和家庭发展的冲动、短视行为。
+
+贫困个体做出短视行为的后果就是深陷贫困之中无法自拔。例如，在一项基于个人信用报告和年度纳税申报数据来考察时间偏好与借贷之间关系的研究中，控制了可支配收入，人口统计学变量和信贷约束等因素后发现，延迟折扣越高的个体，信用卡债务数额越高（Meier& Sprenger,2010）。一项对11000 名瑞典人进行了50年跟踪调查的研究发现，13岁时完成跨期选择任务的延迟折扣率负向预测了成年后的收入，即使控制了家庭社会经济地位和认知能力测试的表现时也是如此（Golsteyn et al.,2014)。最新一项将实验数据与个体真实生活结果的纵向记录数据相结合的研究更加清晰地指明了高延迟折扣导致贫困。在这项研究中，研究者们选取了在1952-1955 年出生的 2548 名被试，在他们18-21岁时收集的关于延迟折扣的调查信息；在随后的30年里，收集政府管理部门记录的关于被试的收入和财富状况信息。结果表明，高延迟折扣率的个体的平均财富水平比低延迟折扣率中年个体的平均财富水平低 215000 丹麦克朗，高延迟折扣率的个体的平均财富水平相当于总体财富分布中位数水平的一半左右，即处于相对贫困状态（Epper et al.,2020)。由于对未来收益大幅折扣既是贫困的后果也是其原因，因此可称之为贫困的行为决策陷阱（Haushofer &Fehr, 2014; Kraay & McKenzie, 2014）。
+
+# 3贫困影响跨期决策的机制：威胁视角下的心理转变模型
+
+心理学研究的两大决策机制是自我调节和认知功能（Sheehy-Skeffington,2020）。在贫困群体中观察到的不健康饮食、不明智的消费、更多借贷与更少的储蓄，部分原因是贫困的心理压力破坏了关键的调节和认知过程，导致做出不利于摆脱贫困的决策行为（Haushofer&Fehr,2014)。然而，贫困的经历不仅仅涉及资源稀缺，还包括不稳定以及随之而来的对未来的不可预测性和童年恶劣环境，这些威胁线索会引发心理转变，即自我调节和认知功能的适应性变化，导致做出看似不理性的短视决策行为（Sheehy-Skeffington,2018)。
+
+# 3.1心理转变模型的理论来源
+
+稀缺理论（Mullainathan＆ Shafir,2013）、建构水平理论（Trope＆Liberman,2010）和生命历史理论（Griskevicius etal.,2013）是20 世纪90年代以来将外在环境因素（资源稀缺环境、不稳定和不可预测的环境、童年恶劣环境）纳入到致贫因素中从人与环境交互视角回答贫困者短视决策行为背后的机制的三个代表性理论观点。并且，无论是稀缺理论、建构水平理论还是生命史理论在探讨贫困对决策行为的影响时，均指出威胁在其中起到重要作用。威胁感知引发了个体的心理转变，进而导致短视决策行为的发生（Pepper& Nettle,2017; Sheehy-Skeffington,2018; Sheehy-Skeffington,2020）。
+
+# 3.1.1 稀缺理论
+
+稀缺理论（Mullainathan& Shafir,2013）认为，贫困的本质特征是资源的稀缺，长期的资源稀缺会使个体形成稀缺心态。稀缺心态（scarcity mindset）是指由于所拥有的资源长期少于所需要的，导致个体自发性地渴望得到匮乏资源且很难压制这一想法的心理状态（Haushofer&Fehr,2014;Norris etal.,2019)。它使得人们在处理与稀缺资源相关的问题时，思维范围会被缩小，排挤掉其他信息，以解决当前最直接的资源稀缺，进而产生了“管窥效应”（tunneling effect），形成“带宽税”（bandwidth tax），损害了认知能力和执行功能，导致人们做出非理性的、“短视"的决策（Mullainathan& Shafir,2013)。大量实证证据支持稀缺理论的观点，发现稀缺会增加认知负荷，直接影响认知功能，进而引发一系列不利行为，如注意力忽视、冲动消费、短视（Cannon et al.,2019; Hamilton et al.,2019; Mani et al.,2013;Mullainathan & Shafir,2013; Ong et al.,2019; Shah et al., 2012; Zhao & Tomm, 2018）。
+
+首先，稀缺俘获注意力。Shah 等人（2018）发现金钱稀缺状态下，贫困者表现出货币的"鸡尾酒会效应”，关于钱的想法在日常生活中很容易被触发，自发产生且很难压制。而人们的认知加工能力有限，一次只能接收和处理有限的信息，参与一个加工过程会消耗另一个加工过程所需的认知资源（Luck& Vogel,1997)。在一个现场实验中，研究者设计了一个让被试到餐厅点菜的任务，考察稀缺对个体注意力的影响，结果发现，相比富裕状态下的被试（有100 美元)，稀缺状态下的被试（有 20 美元）更加关注菜单上的价格信息，对价格的记忆编码水平更高，然而忽视了菜单底部折扣信息；也就是说，注意力聚焦到价格上的后果是，可以省钱和减轻经济负担的优惠折扣信息也被忽略掉（Tomm& Zhao,2016)。随后，这种注意力的聚焦占用了有限的“思维带宽”，使认知负担过重，进而导致其做出不利的决策，如短视（Mullainathan& Shafir,2013)。研究证实金钱稀缺似乎确实会损害个体的认知能力和执行功能，而改善稀缺环境能使其认知能力和执行功能有显著提升（Ong etal.,2019;Mani et al.,2013)。稀缺会导致个体的认知能力和执行功能受损的直接后果就是影响人们的决策行为（Griskevicius et al.,2011)。实验显示，在认知和执行功能受损条件下，个体在金钱跨期决策任务中表现得更短视（Deck＆ Jahedi，2015)。然而，上述研究结果的普遍性遭受了挑战。一项研究比较了两组大样本被试在发薪日前后的抑制控制、选择性注意和智力方面的表现，虽然稀缺理论认为考虑金钱问题会导致处于金钱稀缺的个体注意力被捕获，进而影响认知能力，但在发薪日前后并没有观察到被试的认知能力存在差异(Carvalho et al.,2016)。为什么会存在这种研究的不一致呢？针对现有矛盾如何解释？有研究者从威胁线索的角度进行解释，认为"稀缺就是一种威胁”（Goldsmith et al.,2020)。而稀缺心态则是由资源缺乏或者无法获得所引发的个体满足自身需求的能力受到威胁的一种状态（Hamiltonet al.,2019)。对于贫困个体来说，感知到的一种主要威胁是金钱稀缺所带来的威胁：金钱是一种基本资源，它提供获得物质（如食物）和社会（如声望）奖励的途径，并促进实现日常生活中的目标（Fritsche＆Jugert,2017;Lea&Webley,2006)，金钱的稀缺对人们认为自己有能力克服挑战并在日常生活中取得预期结果的内在需求构成了直接威胁（Boardman＆Robert,2000)。这种威胁分散了个体注意力，消耗了个体有限的认知资源，进而导致短视、冲动等不利于自身发展的决策行为（Sheehy-Skeffington,2019)。将稀缺视为威胁的研究表明，稀缺对个体认知和决策的影响由个体满足自身需求的能力是否受到威胁调节（Goldsmith etal.,2020)。对于发薪日前的被试来说，虽然他们经历了稀缺，但固定的工资、稳定的工作使得他们对自己生活有较强的控制感，他们满足自身需求的能力没有受到威胁，因此发薪日前的稀缺状态并没有影响到被试的认知任务表现。
+
+# 3.1.2建构水平理论
+
+建构水平理论（construalleveltheory）认为，个体对发生在不同时间点的事件进行决策与权衡时，延迟时间长短会改变个体的时间表征，从而影响决策结果（Trope＆Liberman,2003)。当发生的事件属于未来的远期事件时，个体倾向于使用高水平建构，即从上位的、抽象的和本质上对事件进行表征（抽象思维)；相反，当发生的事件属于近期事件时，个体倾向于使用低水平建构，即从下位的、具体的和情境化方面对事件进行表征（具体思维)（Trope&Liberman,2010)。时间距离越近，个体越倾向于使用低水平建构对事件进行预测与解释。当低水平建构的事件价值更加重要时，发生在未来事件的吸引力就会随着时间增加而降低，使得个体更加偏好即时回报（Trope＆Liberman,2003)。对于贫困者来说，生活中充满了挑战、不稳定性和威胁，关于当前的、具体的低水平建构事件价值比关于未来的、抽象的高水平建构事件价值更大，所以贫困者常常对未来收益进行打折（Zaleskiewicz et al.,2020)。
+
+大量实验研究证据显示，低水平建构（具体的、近端的思维）显著影响延迟折扣率(Bischoff & Hansen，2016; Fujita et al.，2006；Malkoc et al.， 2O10; Sheehy-Skeffinton，&Haushofer,2014)。例如，Fujita等人（2006）发现，以具体思维为基础的被试表现出倾向于选择即时回报而非延迟回报。具体来说，30 位被试完成建构水平操作任务，旨在诱导抽象思维或具体思维倾向。一半被试考虑为什么参与某些行为，其他人则回答如何做。如，抽象思维操纵条件的被试被问到“为什么我要保持良好的身体状况？”，具体思维操纵条件下的被试被问到"我如何才能保持良好的身体状况？"完成4 轮问答后被试指出他们立刻和延迟得到四种物品（餐厅折扣券、DVD 播放机、电影票、书店折扣券）分别愿意花费的金额。结果发现，相对于抽象思维操纵组被试来说，具体思维操纵组被试表现出倾向于选择即时回报而非延迟回报。Malkoc 等人（2010）验证了上述结论。正如 Bischoff 和Hansen（2016)所总结的那样，与具体思维相比，抽象思维"可能会触发一种预期，即资源在近期和远期同样可用，这将抵消延迟折扣效应。然而，具体的思维方式将加强延迟折扣效应，因为它增强了对细节的关注和对资源表征的情境性依赖，并降低了对延迟的敏感性。低水平建构（具体的、近端的思维）导致的短视不仅与各种自我调节的健康问题有关（Chiou et al,2013;Fujita et al.,2006;Fujita& Han,2009)，还与经济决策有关（Bischoff & Hansen,2016;Fujita et al.,2006;Malkoc et al.,2010)。高延迟折扣，即高冲动性行为会导致一个人的不利经济状况，使其陷入贫困陷阱（Epper et al.,2020; Farah & Hook,2017; Haushofer&Fehr,2019）。因此，解释水平在贫困研究中发挥着重要作用。
+
+总之，贫困个体冲动性决策模式可以归因于建构水平的降低。当对贫困者的建构水平进行操纵，使其以一种抽象思维方式进行信息处理时，他们同样也能以一种去情境化的、高水平的信息加工，并导致较低的延迟折扣率（Malkoc etal.,2010)。然而，在充满威胁，且流动性严重约束的情况下，如果穷人希望在未来拥有比目前更多的资源，那么关注具体的、近端的事件或目标，从下位的和情境化方面对事件进行表征，做出偏好即时回报的决策行为是具有合理性的。
+
+# 3.1.3生命史理论
+
+生命史理论（life history theory）从进化的角度为环境（特别是童年环境）对贫困者决策行为倾向的影响提供了另一种解释的途径。该理论认为，所有的有机体都面临着如何分配时间，资源和能量，从而不被自然淘汰的基本挑战，但每个个体拥有的时间、资源和能量并不尽相同，所以一部分个体选择了快策略（倾向于即时满足，繁衍更多的后代)，另一部分选择了慢策略（倾向于延迟满足，繁衍更少更优质的后代)，从而适应于不同的成长环境（Boyce＆ Ellis,2005；Griskevicius et al.,2011)。成长在恶劣环境中的贫困者面临着各种威胁与资源紧张，对未来的预期是不稳定、不充裕的，因而强调短期效应，追求发展速度，希望即刻得到满足；即童年贫困经历使个体形成了快策略（Griskevicius etal.,2011;管健,周一骑,2016;王燕 等,2017)。快生命史策略的特点是早期繁殖、后代多、父母投资少和教育程度低（Figueredo et al.,2004)。从生物学的角度看，快策略没有对错之分，是个体对所处环境的适当反应；然而这种策略导致的行为后果是进一步加深贫困，使得人们陷入贫困陷阱。
+
+大量研究证实生命史理论的可靠性。例如，一项对 8660 个英国家庭进行的"千年队列研究"发现，与较富裕地区相比，在最贫困地区人们更倾向于采取快策略，妇女通常更早生育（Nettle,2010)。这样的生育决策能让她们更好地适应环境：首先，由于长期的压力和不良环境，她们的身体状况会更快地恶化，增加了在成年期或甚至在成年期之前死亡或致残的可能性（Belsky,2019;Rickard et al.,2014)。其次，越早生育，亲属和朋友也越健康，越有能力提供支持；越早生育家里老人越不可能与孩子争夺母亲的精力（Frankenhuis&Nettle,2020)。
+
+尽管快策略对贫困者来说是具有适应性的一种策略，但也有代价，母乳喂养的时间较短，父亲对子女的投资少导致孩子的死亡率和发病率更高，教育成就更低，使其深陷贫困之中（Nettle,2010)。教育是对未来的投资，教育成就成为反映个体生命史策略的常用指标，倾向于采取快策略的贫困个体不愿意对教育进行投资，取得的教育成就更低。例如，上世纪 60 年代，一项针对美国约65万学生和7万教师的调查结果表明，在学校课程、教具设备支出、教师品质、家庭背景以及个体能力（如认知能力）等诸多预测因素中，社会阶层对学业成就的预测作用最强；贫困家庭出身的孩子取得的学业成就比高阶层学生差得多(Coleman etal.,1966)。贫困家庭子女能通过考试而顺利进入大学的人数要显著少于富裕家庭子女（Caner&Okten,2013; Heckman et al.,2018)。良好的教育通常意味着良好的收入潜力，而贫困个体不良教育状况进一步使他们深陷贫困之中（Hout,2012）。
+
+除了相关研究外，实验研究证据也证实童年贫困经历对快策略的影响。例如，情境启动实验表明，经济衰退的消息可能会使在高社会经济地位家庭长大的个体增加他们的退休缴款，这与他们的慢策略一致；相反，在社会经济地位较低的家庭中长大的消费者对同样的消息可能会做出相反的反应—即现在花钱，而不太关心未来，这与快策略一致（Mittal& Griskevicius,2016)。实验研究进一步表明，那些在恶劣和不可预测的环境中长大的个体，在接受电击的实验条件下（威胁线索)，他们更有可能表现得更冲动（Griskevicius et al.,2013;Pepper etal.,2017)。当给被试呈现死亡线索时，童年期贫困个体倾向于选择即时奖赏;而那些童年期非贫困的个体倾向于选择未来较大的奖赏（Griskevicius et al.,2011)。需要注意的是，当处于低威胁环境时，童年贫困对长期决策的影响很小；而当前环境为高威胁时，那些在贫困中长大的人对长期护理保险不感兴趣，为退休分配更少的资源，并且更喜欢期限更短的债券，即更倾向于即时满足（Mittal etal.,2020）。
+
+可见，童年贫困个体，处于危险环境中更可能采取快策略，虽然这是对其所处环境的一种适应性反应，但代价是导致更多不利于摆脱贫困的决策行为后果（例如，早期繁殖、后代多、教育程度低、短视的经济决策)，使其深陷贫困之中难以自拔。
+
+# 3.2威胁视角下的心理转变机制
+
+贫困者与富裕者之间最大的区别在于遭遇风险与威胁的概率，贫困者时刻面临着各种风险和威胁（Pepper& Nettle,2017; Sheehy-Skeffington,2020)。资源稀缺、环境的不稳定与不可预测性以及童年恶劣环境等都可视为是贫困者经历的或正在面临的一系列需要立即解决的威胁。威胁视角的心理转变模型（psychological shift model）指出，资源稀缺、不稳定与不可预测环境以及童年不良经历是贫困影响心理的三个突出方面，它们触发了心理过程的转变以应对这些威胁，从而优化当前以及整个生命周期内有限能量储备的使用（SheehySkeffington&Haushofer,2014)。在这个过程中，心理转变包括：第一，使人们对自己能够控制自己生活结果的程度的评价降低了，导致关注焦点向现在（远离未来）转移，向当地（远离远方）转移，向社会关系密切的人（远离社会关系疏远的人）转移，向实际（远离假设）转移，也就是从抽象思维转向具体思维。第二，与这种控制感的减弱有关，个体从追求长期目标转向追求短期目标，从趋近奖励转向回避威胁，从慢策略转向快策略；第三，认知资源集中于任务（如缓解当前资源稀缺的任务）和刺激（如金钱和食物)，以满足紧迫需求（Sheehy-Skeffington,2018,2020)。也就是说，贫困者之所以做出不利于摆脱贫困的短视决策行为是感知到威胁（资源稀缺、未来不确定）引发心理转变（注意力聚焦/忽视，抽象思维/具体思维，慢策略/快策略)，进而做出适应环境决策行为（Sheehy-Skefington2020; Sheehy-Skeffington,2018）。
+
+根据心理转变模型的这一核心观点可知，在贫困影响跨期决策过程中存在一个多层次多水平的路径机制。具体来说，面临稀缺威胁时，贫困者将注意力集中到缓解或加剧稀缺的事件上。例如，在面临经济威胁时，童年期贫困的个体购买保险的意愿低，主要因为购买保险是一笔额外的支出，可能会加剧金钱稀缺带来的威胁，比如无法满足基本生存需要（Mittal&Griskevicius,2016)。金钱的稀缺对人们认为自己有能力克服挑战并在日常生活中取得预期结果的内在需求构成了直接威胁（Boardman& Robert,2000)。这种威胁使个体的注意力集中在与稀缺相关的事情上，消耗了个体有限的认知资源，进而导致短视、冲动等不利于自身发展的决策行为（Sheehy-Skeffington,2019)。此外，当面临不确定的威胁时，贫困者关注焦点远离未来，向现在转移；远离远方，向当地转移；远离假设，向实际转移。这种具体的思维方式将加强延迟折扣效应，因为它增强了对细节的关注和对资源表征的情境性依赖，并降低了对延迟的敏感性。具体思维导致的短视不仅导致各种自我调节的健康问题（Chiou et al.,2013;Fujita et al.,2006;Fujita＆Han,2009），还导致不利于自身发展的跨期经济决策行为的发生（Bischoff & Hansen,2016;Fujita et al.,2006; Malkoc et al.,2010）。那么，同样是威胁环境，成年后同样的经济地位，为什么有的人采用快策略有的人则采用慢策略？可能是由于童年威胁环境的影响。当目前的成人环境是安全、没有较大压力和威胁时，童年的影响可能是潜伏的和看不见的（Taylor,2010），一旦威胁线索出现，童年贫困的个体可能更快的注意到威胁，进而转换为快策略模式，使其做出短视决策行为(Griskevicius et al., 2011）。
+
+总之，威胁视角下心理转变模型视贫困者的冲动与短视行为是一般社会心理机制运作的产物（Frankenhuis etal.,2019）。社会生态威胁线索触发了贫困者心理转变：在认知水平上，将注意力聚焦在与稀缺相关的事情上；在思维水平上，具体地、情境化地对事件进行表征；在行为策略水平上，倾向于采取快生命史策略，这些心理转变了导致短视的决策行为发生（Pepper & Nettle,2017; Sheehy-Skeffington,2018; Sheehy-Skeffington,2020）。
+
+# 4小结和展望
+
+大量研究表明贫困个体有较高的延迟折扣率，倾向于选择眼前较小的收益，而不是长远较大的回报，这些短视行为后果是导致贫困进一步加深。稀缺理论、建构水平理论、生命史理论是 20 世纪90 年代以来将外在环境因素（资源稀缺环境、不稳定和不可预测的环境、童年恶劣环境）纳入到致贫因素中从人与环境交互视角回答贫困者短视决策行为背后的机制的三个代表性理论观点。心理转变模型认为 它们可以在威胁视角下进行整合，并指出威胁感知触发的心理转变是贫困影响跨期决策行为的内在机制。凭借大样本调查与随机对照实验对跨期决策行为背后的心理过程进行考察，研究者们深入揭示贫困者跨期决策行为背后的机制，使得贫困心理理论产生更为实际的政策价值（Ximenesetal.,2019)。然而，本领域研究还存在不足，未来研究应从如下四方面展开。
+
+（1）短视是贫困者在贫困环境下的生存策略的研究视角有待进一步推广。过去的研究大多认为贫困者的冲动与短视行为是病理性的（Mehryar,1984; Smallet al.,2010）。无疑这种观点会加重贫困者被污名化的过程，当前相对贫困治理实践中如果继续秉持这种观点，也会使得这一刻板印象进一步被固化，导致贫困人口更多地遭受社会排斥，对其造成更多的不利影响，最终不利于相对贫困的解决（Wasylyshyn etal.,2018）。近年来，越来越多的研究者认同适应性的观点（Frankenhuis etal.,2019; Pepper &Nettle,2017; Sheehy-Skeffington,2019），指出贫困者并不是因为智力低下，没有能力做出合理的决策，也不是因为无法抑制冲动而选择了短期回报，而是感知到威胁（资源稀缺、未来不确定）引发了心理转变，进而做出“短视行为”（Sheehy-Skeffington,2018; Sheehy-Skeffington,2020）。“短视”可视为是贫困环境塑造下，贫困人口的一种生存策略。甚至，可以认为贫困者的短视是一种“有远见的短视”，即为了应对当前的威胁，他们抑制自己选择LL选项的冲动，更多地考虑了等待延迟奖励的成本，却因为这样的深思熟虑最终选择了代表"短视"的 SS 选项（Amasino etal.,2019;Bulley& Schacter,2020; Farah&Hook,2017）。此种视角，看到了贫困者为适应环境而付出的努力，有利于减少对贫困者的污名，为贫困者"反污名化"做出一定贡献；有利于贫困问题的解决（Bertrandet al.,2006）。因此，未来研究应大力推广应用此种视角，将贫困中的决策行为视为一般心理社会机制运作的产物，从贫困环境入手，深入理解贫困者短视决策的功能性、适应性和本质。
+
+（2）贫困的影响跨期决策行为的机制研究有待深入。稀缺理论、建构水平理论、生命史理论正是 20 世纪90年代以来将外在环境因素（资源稀缺环境、不确定和威胁环境、童年不利环境）纳入到致贫因素中的三个代表性的心理贫困理论观点。注意力的聚焦与忽视，思维的抽象与具体，生命史策略的快与慢都不过是个体在感知到威胁情境/非威胁情境下发生的心理转变而已，因此威胁感知是导致贫困者做出短视决策行为的重要原因（Pepper＆Nettle,2017；Sheehy-Skeffington,2020）。然而，这一新颖的、富有启发性的威胁视角下的心理转变模型是否经得起检验，还需要大量实证研究予以考察。完整的贫困的行为决策陷阱是由多环节构成的，现有研究大多只关注单一因素起到的中介作用，缺乏整体视角。此外，生命历史理论强调童年早期贫困对成年后跨期决策的影响，而稀缺心态和建构水平理论则更加侧重于当前的物资稀缺与威胁所导致的短视行为。目前很少有研究能够从生命不同阶段来探讨贫困对跨期决策的影响。未来研究应逐步克服这些局限，着重探究在不同发展阶段，贫困与跨期决策行为之间多层次多水平之间关系的探讨。
+
+（3）针对贫困者的短视行为干预亟需广泛而深入开展。虽然“有远见的短视”有利于贫困者应对当前的威胁，但是其代价是导致更多不利于摆脱贫困的决策行为后果，使其深陷贫困之中难以自拔。从威胁视角下的心理转变模型可知，打破这一陷阱就应从消除威胁这一核心机制入手。通过随机对照实验研究者们发现，现金转移（Handaet al.,2020）、债务减免（Ongetal.,2019）等干预措施从物质层面减少了稀缺威胁，进而有利于改善贫困者的短视行为；增强社区信任、自我肯定等干预措施则是从心理层面减少了威胁感知，进而减少了贫困人口的延迟折扣率（Farah& Hook,2017;Moeini-Jazani etal.,2019）。从以上研究证据可以看出贫困人口在感知到威胁时会做出“短视行为”，一旦威胁减少，“短视行为”也会减少。然而，当前我国本领域尚处于理论介绍与质性探索阶段，迫切需要通过大量实证研究开发出符合我国国情的有效干预方案。具体来说，基于消除威胁这一核心机制，可将我国相对贫困治理过程中的主要问题与脱贫攻坚过程中积累的宝贵经验以及国际上已形成共识的能显著减少相对贫困者短视行为的策略相结合，开发出能切实打破行为贫困陷阱的干预方案。比如，现行的社会救助制度、普惠金融项目、有条件现金转移支付项目能增强贫困群体抵御不确定性的能力，缓解现实威胁（徐小阳 等,2020;张栋浩,尹志超,2018;郑晓冬 等,2020）。但上述项目或干预方案大都是从宏观政策、经济制度等层面提出的，鲜有直接从个体心理层面提出的提升贫困者自我发展能力的方案。因此，未来研究应在我国已有的有效制度、策略的基础上，结合旨在从心理层面减少贫困者威胁感知的心理干预方案，如自我肯定、社区信任等，增强控制感，同时从宏观制度、经济层面以及微观个体心理层面进行干预，通过随机对照实验确定适合我国国情的效果最佳的干预方案。
+
+#
+
+参考文献   
+管健,周一骑.(2016).生命史的快策略与慢策略:理解心理与行为差异的新路径.西北师大学报(社会科学版), (06),115-121.   
+汪三贵,刘明月.(2020).从绝对贫困到相对贫困:理论关系、战略转变与政策重点.社会科学文摘,(12),17-20.   
+王燕,林镇超，侯博文,孙时进.(2017).生命史权衡的内在机制:动机控制策略的中介作用.心理学报,49 (6), 783-793.   
+徐小阳,李洁,金丽馥.(2020).普惠金融对农村教育贫困的纾解效应.中国农村经济(09),41-64.   
+郑晓冬，上官霜月，陈典,方向明.(2020).有条件现金转移支付与农村长期减贫：国际经验与中国实践．中国 农村经济(09),124-144.   
+张栋浩,尹志超.(2018).金融普惠、风险应对与农村家庭贫困脆弱性.中国农村经济(04),54-73.   
+Amasino,D.,Sulivan,N.,Kranton,R.,& Huettel,S.(2O19).Amount and time exert independent influenceson intertemporal choice.Nature Human Behaviour, 3(4),383-392.   
+Atkinson.T.,Cantillon.B& Marlier.E.(2oo2).Social Indicators: TheEU and Social Inclusion.Oxford: Oxford University Press.   
+Belsky，J.(2O19).Early-life adversity accelerates child and adolescent development. Current Directions in Psychological Science,28, 241-246.   
+Berns,G.,Labson,D.I.,&Loewenstein,G. (2Oo7). Intertemporal choice-toward an integrative framework.Trends in Cognitive Sciences, 1l(1l), 482-488.   
+Bertrand,M.,Mullinathan,S.,& Shafir,E.(2Oo6).Behavioral economics and marketing inaid ofdecision making among the poor. Journal of Public Policy & Marketing,25(1),8-23.   
+Bischoff, C.,& Hansen,J. (2O16).Influencing supportof charitable objectives in the near and distant future: Delay discounting and the moderating influence ofconstrual level. Social Influence,1(4),217-229.   
+Blanden, J.,& Gregg,P. (2Oo4). Family income and educational attinment: a review of approaches and evidence for Britain. Oxford Review of Economic Policy, 20(2),245-263.   
+Boardman，J.，& Robert，S.(2Oo0).Neighborhood socioeconomic statusand perceptionsof selfefficacy. Sociological Perspectives,43(1),117-136.   
+Boyce,W.,，& Elis,B.(2Oo5).Biological sensitivity to context: I. An evolutionary-developmental theoryof the origins and functions of stress reactivity. Development and Psychopathology,17(2), 271-301.   
+Brown, J. R.,Farrel,A.M.,& Weisbenner,S.J. (2015).Decision-makingapproaches and the propensity todefault: Evidence and implications. Journal of Financial Economics,121(3),477-495.   
+Bully,A.,& Schacter,D.L. (2O20). Deliberating trade-offs with the future. Nature Human Behaviour,4(3),238- 247.   
+Caner,A.,& Okten,C. (2O13).Highereducation in turkey: Subsidizing the richor the poor?Economics ofEducation Review, 35,75-92.   
+Canon,C., Goldsmith, K.,Roux,C.,& Kirmani,A. (2O19).Aself-regulatory model of resource scarcity. Journal of Consumer Psychology,29(1),104-127.   
+Carvalho,L. S.,Meier, S.,& Wang,S.W.(2016).Povertyand Economic Decision-Making: Evidence from Changes in Financial Resources at Payday. The American Economic Review,1O6(2),260-284.   
+Chiou,W.-B., Wu,W.-H.,&Chang,M.-H.(2O13).Think abstractlysmoke less: Abrief construal-levelintervention can promote self-control, leading to reduced cigarette consumption among current smokers: Construal levels and tobacco control. Addiction, 108(5),985-992.   
+Coleman,J.S.,E. Q.Campbel,C.J.Hobson,J.McPartland.,A.M. Mood,F.D.Weinfeld,&R.L.York.(1966) Equality of Educational Opportunity. Washington, DC: US Office of Education.   
+Deck, C.& S. Jahedi (2015). The effect of cognitive load on economic decision making: A survey and new experi ments. European Economic Review,78,97-119.   
+Epper,T.,Fehr,E.,Fehr-Duda,H.,Kreiner,C.T.,Lassen,D.D.,Leth-Petersen,S.,&Rasmussen,G.N.(2020) Time discounting and wealth inequality. American Economic Review, 110(4),1177-1205.   
+Farah,M.,& Hook, C.J. (2O17). Trust and the poverty trap.Proceedings of the National Academy of Sciences, 114(21), 5327-5329.   
+Figueredo,A.J.,Vasquez,G.,Brumbach,B.H.,&Schneider,S.M.R. (2O04).Theheritabilityoflife historystrategy: The k-factor, covitality,and personality. Social Biology,51(3-4),121-143.   
+Frankenhuis,W.,Nette,D.,& Dall,S.R.X.(2019).Acase for environmental statistics of early-life effects. Philosophical Transactions of the Royal Society B: Biological Sciences,374,20180110.   
+Frankenhuis,W.,& Nettle,D. (2O2O).The Strengths of People in Poverty.Currnt Directions in Psychological Science, 29, 16-21.   
+Frederick, S.,Loewenstein, G.,& O'donoghue,T. (2oO2).Time discounting and time preference: Acriticalreview. Journal of Economic Literature, 40(2),351-401.   
+Fritsche,I，& Jugert, P. (2017). The consequences of economic threat for motivated social cognition and action. Current Opinion in Psychology,18,31-36.   
+Fujita,K.,Trope,Y.,Liberman,N.，& Levin-Sagi,M.(2006).Construal levelsand self-control.Journal of Personality and Social Psychology, 90(3),351-367.   
+Fujita,K.,& Han,H.A.(2Oo9).Moving beyond deliberativecontrol of impulses: The efect of construal levels on evaluative associations in self-control conflicts. Psychological Science,2O(7),799-804.   
+Goldsmith, K., Griskevicius, V.,& Hamilton,R.(202O). Scarcity and consumer decision making: Is scarcity a mindset, a threat, a reference point, or a journey? Journal of the Association for Consumer Research, 5(4), 358-364.   
+Golsteyn,B.H.H., Gronqvist,H.,&Lindahl,L. (2014). Adolescent time preferences predict ifetime outcomes.The Economic Journal (London),124(580),F739-F761.   
+Griskevicius,V.,Ackerman,J.,Cantu,S..,Delton,A.W.,obertson,T.E.,Simpson,J.,Thompson,M.E.,&bur J.M. (2013). When the economy falters, do people spend or save? Responses to resource scarcity depend on childhood environments. Psychological Science,24(2),197-205.   
+Griskevicius,V.，Delton,A.W.，Robertson,T.E.,&Tybur,J.M.. (2O11).Environmental contingencyin life history strategies: the influence of mortality and socioeconomic status on reproductive timing. Journal of Personality &Social Psychology,100(2),241-254.   
+Hamilton,R.,Thompson,D.,Bone,S.,Chaplin,L.,Griskevicius,V.,Goldsmith,K.,..Zhu,. (2019).Theeffects of scarcity on consumer decision journeys. Journal of the Academy of Marketing Science,47(3),532-550.   
+Handa, S., Seidenfeld,D.,& Tembo, G. (2O2O). The impact ofalarge-scale poverty-targeted cash transfer program on intertemporal choice. Economic Development and Cultural Change, 69(1), 485-512.   
+Haushofer,J.,&Fehr,E. (2O19). Negative Income Shocks Increase Discount Rates. University of Zurich Working Paper.   
+Haushofer, J.,&Fehr,E. (2014). On the psychology of poverty. Science,344(6186),862-867.   
+Heckman， S.J.，& Montalto，C.P.(2018). Consumerrisk preferencesand higher education enrollment   
+Hout,M. (2O12). Social and economic returns to college education in the united states.Annual Review of Sociology, 38(1),379-400.   
+Jachimowicz,J.M.,Chafik,S.,Munrat,S.,rabhu,J.C.,& Weber,E.U. (2O17). Community trustreduces myopic decisions oflow-income individuals. Proceedings of the National Academy of Sciences,114(21),5401-5406.   
+Jahnel,T.,Ferguson,S.G.,Shiffman,S.,Thrul,J.,& Schuz,B.(2O18).Momentarysmoking contextasamediator of the relationship between SES and smoking. Addictive Behaviors,83,136-141 .   
+Jimura,K.,Chushak,M.,Westbrook,A.,&Braver,T.(2O18).Intertemporaldecision-making involves prefrontal control mechanisms associated with working memory. Cerebral Cortex, 28(4),1105-1116.   
+Kraay，A.，& McKenzie, D. (2014). Do poverty traps exist? Assessing the evidence.Jourmal of Economic Perspectives, 28(3),127-148.   
+Kim,K.T.，Wilmarth，M.J.，& Henager,R.(2017).Poverty levelsand debt indicators among low-income households before and after the great recesson. Journal of Financial Counseling and Planning,28(2),196- 212.   
+Lea, S.，& Webley，P. (2006).Money as tool，money as drug: The biological psychology of a strong incentive.Behavioral and Brain Sciences,29(2),161-209.   
+Lewis,O. (1966/2010).The culture of poverty. In G. Gmelch & W. Zenner (eds.), Urban life: Readings in the anthropology of the city (fifth edition) (pp. 175-184).Long Grove, IL: Waveland Press.   
+Luck,S.,& Vogel,E. (1997). Thecapacity of visual working memory for features and conjunctions.Nature,390, 279-281.   
+Malkoc,S.A.,Zauberman,G.,& Bettman,J.R. (201O). Unstuck from theconcrete: Carryover effects of abstract mindsets in intertemporal preferences. Organizational Behavior and Human Decision Processes,ll3(2),112- 126.   
+Mani,A.,Mulainathan,S.,Shafir,E.,& Zhao,J. (2Ol3).Poverty impedes cognitive function.Science,341,976 980.   
+Mehryar, A. H.(1984).The role of psychology in national development: Wishful thinking and reality. International Journal of Psychology,19(1-4),159-167.   
+Meier,S.，& Sprenger, C.(2010).Present-biased preferences and credit card borrowing. American Economic Journal: Applied Economics,2(1),193-210.   
+Mittal,C.,& Griskevicius,V. (2016).Silver spoonsand platinum plans: Howchildhood environment affects adult health care decisions. Journal of Consumer Research,43(4),636-656.   
+Mital,C.,Griskevicius,V.,& Haws,K.L.(O2O).From cradle to grave: How childhood and current environments impact consumers’ subjective life expectancy and decision-making. Journal of Consumer Research, 47(3), 350-372.   
+Moav and, O.,& Neman, Z. (2012). Saving rates and poverty: The role of conspicuous consumption and human capital. The Economic Journal,122(563),933-956.   
+Moeini-Jazani,M.,Albalooshi, S.,& Muller Seljeseth,I. (2O19).Self-afirmation reduces delay discounting of the financially deprived.Frontiers in Psychology,10,1729.   
+Moore,M.,& Hossain,N. (2005).Elites,povertyand public policy.InE.P.Reis& M. Moore (Eds.),Elite perceptions of poverty and inequality (pp.195-197). New York: Zed Books Limited.   
+Mullainathan,S.,& Shafir,E. (2013). Scarcity: Why having too litle means so much. New York: Times Books.   
+Myrdal, G. (1957). Economic nationalism and internationalism, Australian Outlook,11(4),3-50.   
+Nettle,D.(2Ol0).Dying youngand living fast: Variation in life history across English neighborhoods. Behavioral Ecology,21(2),387-395.   
+Norris,A.,Rao,N.，Huber-Krum, S.， Garver,S., Chemey，E.，& Turner,A.N. (2019). Scarcity mindset in reproductive health decision making: a qualitative study from rural Malawi. Culture,Health & Sexuality, 21(12), 1333-1348.   
+Nurkse,R. (1953). Problems of Capital Formation in Underdeveloped Countries.New York: Oxford University Press.   
+Ong, Q.,Theseira, W.,&Ng, I.Y. (2O19). Reducing debt improves psychological functioning and changes decisionmaking in the poor. Proceedings of the National Academy ofSciences ofthe United StatesofAmerica,116(15), 7244-7249.   
+Pepper, G.,& Nette,D. (2O17).The behavioural constelltion of deprivation: Causes and consequences.Behavioral and Brain Sciences,40, e314.   
+Reimers,S., Maylor, E. Stewart, N.,& Chater, N. (2009). Associations between a one-shot delay discounting measure and age，income，education and real-world impulsive behavior.Personality and Individual Differences, 47(8), 973-978.   
+Rickard,I.J.,Frankenhuis,W.E.,&Nettle,D.(O14).Whyarechildhoodfamilyfactors associated with timingof maturation?Arole for internal state. Perspectives on Psychological Science,9(1),3-15.   
+Rosenstein-Rodan,P.(1943).Problems of industrialisation of eastern and south-eastern Europe.The Economic
+
+Journal,53,202-211.
+
+Scholten,M.,&Read,D. (2010).The psychologyof intertemporal tradeofs.Psychologicalreview,l17(3),925- 944.
+
+Shah,A.K.,Mullainathan,S.,& Shafir,E.(2O12).Some consequencesofhaving too litle.Science,338,682-685. Shah,A.K.,Zhao,J.,Mullinathan,S.,& Shafir,E.(O18).Moneyin the mental lives of the poor. Social Cognition, 36,4-19.
+
+Sheehy-Skefington,J.,Haushofer,J.(2O14).Thebehavioural economics of poverty. In Barriers and opportunities at the base of the pyramid: The role of the private sector in inclusive development (pp.96-112). Istanbul, Turkey: UNDP Istanbul International Center for Private Sector in Development.   
+Sheehy-Skefington，J. (2018).Decision-Making Up Against the Wall: A Framework for Understanding the Behavioral Dimension of Low Socio-Economic Status.In Socio-Economic Environment and Human Psychology:Social,Ecological,and Cultural Perspectives (pp.105-l38).New York: Oxford Universityrss.   
+Sheehy-Skeffington,J. (20l9). Inequality from the botom up:Toward a “Psychological shift” model of decisionmaking under socioeconomic threat. (pp. 213-231). Springer International Publishing.   
+Sheehy-Skefington,J. (2O20).The effects of low socioeconomic status on decision-making processs.Current opinion in psychology, 33,183-188.   
+Small,M.L.,Harding,D.J.,&Lamont,M. (2O10). Introduction: Reconsidering Culture and Poverty. The ANNALS of the American Academy of Political and Social Science, 629(1), 6-27.   
+Taylor，A.(20l0). Troubling childhood innocence: Reframing the debate over the media sexualisation of children. Australasian Journal of Early Childhood,35(1),48-57.   
+Tomm,B.M.,& Zhao,J. (2O16). Scarcity captures attention and induces neglect: Eye-tracking and behavioral evidence.InA.Papafragou,D.Grodner,D.Mirman &J.C.Trueswell(Eds.),Proceedings of the 38thAnnual Conference of the Cognitive Science Society (pp. 1199-1204). Austin,TX: Cognitive Science Society.   
+Townsend,P. (1979). Poverty inthe United Kingdom: a survey of household resources and standards of living (pp. 50-54). Harmondsworth: Penguin Books.   
+Trope,Y.,& Liberman,N. (2003). Temporal construal. Psychological Review,110(3), 403-421.   
+Trope,Y.,&Liberman,N. (20l0). Construal-level theory of psychological distance.Psychological review,117(2), 440-463.   
+Vohs, K.D. (2013). The poor's poor mental power. Science,341, 969-970.   
+Wasylyshyn,N.,HemenwayFalk,B., Garcia,J.O.,Cascio,C.N.,ODonnell,M.B.,Bingham,C.R.,.&Falk,E. B.(2018).Global brain dynamics during social exclusion predict subsequent behavioral conformity. Social Cognitive and Affective Neuroscience,13(2),182-191.   
+World Bank,(1981).World Development Report,New York: Oxford University Press.   
+Ximenes, V.M., Cidade,E. C.,& Silva,G.R.G.(2019).Psychology research in the poverty context: What for and for whom? (pp.3-16). Springer International Publishing.   
+Zaleskiwicz,T,Bernady,A.,&Traczyk,J.(O2o).Entrepreneurialrisk taking isrelated tomental imagery:Afrsh look at the old issue of entrepreneurship and risk.Applied Psychology,69,1438-1469.   
+Zhao,J., & Tomm,B.M. (2018). Psychological responses to scarcity. In Oxford research encyclopedia ofpsychology (pp.1-21).New York: Oxford University Press.
+
+# Poverty and intertemporal choice: the mechanism of “psychologicalshift" from the perspective of threat
+
+DU Tangyan, HU Xiaoyong, YANG Jing, LI Lanyu,WANG Tiantian (FacultyofPsychologyouthwestUiersityKyaboratoryofogitionndersoalityinistryfucationhongg45
+
+China)
+
+Abstract: After eliminating absolute poverty, China still faces the arduous problem of relative poverty. Recently,studies on poverty psychology have found that unfavorable living conditions will trigger a series of special psychological processes, which in turn will make individuals engage in behaviors that are difficult to get rid of poverty and cause them to fall into the trap of "povertybehavioral decision-making-poverty". People living in poverty have higher delay discount rate, tend to choose smaller-sooner gains,instead of larger-later returns,and often make “short-sighted" behavioral decisions,such as investing less in education,saving too litle,and borrowing too much. These choices may further deepen their poverty. The psychological shift caused by threat perception, namely cognitive function failure, proximal thinking and fast life history strategy, is considered to be an important reason for the “short-sightedness”. In addition to more in-depth exploring the formation mechanism of the behavioral decision-making trap of poverty,the future research should develop effective intervention programs in line with China's national conditions,to attribute a more practical policy value to the theory of poverty psychology.
+
+Key words: poverty, intertemporal choice, threat, psychological-shift

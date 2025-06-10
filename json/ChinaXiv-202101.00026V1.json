@@ -1,0 +1,495 @@
+[
+    {
+        "type": "text",
+        "text": "近60a以来祁连山中部气候变化及其径流响应研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "程鹏1,²，孔祥伟³，罗汉¹，李宝梓¹，王研峰1（1 甘肃省人工影响天气办公室,甘肃 兰州 730020；2 中国气象局云雾物理环境重点实验室，北京100081;3 兰州中心气象台，甘肃 兰州 730020)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：利用1960—2017年水文、气象资料，采用相关分析、Mann-Kendall和小波分析等方法，研究了祁连山中部气候和径流量变化特征。结果表明：(1)近60a来祁连山中部气温、降水和径流量总体呈现出气温上升、降水增加、径流量增大的趋势。年平均气温以 $0 . 3 9 ^ { \\circ } \\mathrm { C } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ 的幅度上升，四季气温升高趋势明显，年平均最低气温和冬季气温的升温幅度最高。降水增加了约 $1 9 . 2 \\%$ ，降水的增加主要归因于夏季降水的增多。(2)平均气温在1993年出现突变，气温突变时间早于西北其他地区。气温和降水的主周期分别为8a和 $3 0 \\mathrm { a }$ ，在径流量周期响应中，短周期(8a)与平均气温振荡非常一致，长周期( $\\mathrm { 3 0 a ) }$ 与年降水变化较为一致。(3)分析表明，降水和气温都是影响径流量变化的主要因素，建立的径流量预测模型纳什效率系数为0.68，能很好的分析和预测径流量，降水和气温变化分别使径流量增加了 $2 1 . 1 \\%$ 和 $1 0 . 9 \\%$ ,降水对径流量的影响作用更大。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：气候变化；径流量； $\\mathbf { M } \\mathbf { - K }$ 检验;黑河；祁连山 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "全球气候变暖已成为当今社会广泛关注的热点问题之一。近100a来全球气温上升了 $0 . 8 5 \\mathrm { { ^ { q } C ^ { [ 1 ] } } }$ 而过去50a的升温幅度是过去100 a的两倍[2],1983—2012年可能是北半球最近1400a来气温最高的时段[3]。全球气温不断上升，大气和海洋在变暖,雪冰的质量在损失，海平面在上升[4-5];导致气候系统各圈层发生改变[,尤其使内陆干旱地区水循环加速更加明显，处于内陆腹地的祁连山区域，因其独特地理环境,区域气候响应会更加复杂[7-9]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "祁连山位于青藏高原的东北边缘，在自然气候带中起着非常重要的作用，它孕育了高山冰川和积雪,是黑河等内陆河的发源地[10-11]。在过去近 60 a中，祁连山区区域气候响应复杂，对区域脆弱生态修复和保护提出了新的课题，而其孕育的内陆河更是沙漠戈壁脆弱生态环境的生命依赖，深入研究内陆河对祁连山气候变化再响应规律显得十分重要和迫切。作为国内第二大内陆河的黑河，是河西走廊中部地区农业、生态以及人类生存的主要依靠。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "气候变化、水分条件、人类活动等都对黑河径流量有不同程度的影响[12-19],流域内降水和气温分别呈现出增加和上升的趋势[12.20-21]。山区径流对气候变化非常敏感，径流对气候要素具有明显的依赖性22；径流量增加与降水增加和冬季气候明显变暖关系密切23」；受全球气候变化影响，祁连山山区及黑河流域气候、水循环过程正发生重大变化，增温增湿特征明显，降水明显增加[24]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "祁连山山区及黑河流域水资源短缺的问题由来已久，近年来随着流域内社会经济发展和人口增加，使得内陆河流域气候-水资源-生态体系的有机性和自组织优势受到破坏[1],水资源短缺和生态环境问题日益突出。该区域水资源的合理开发利用和生态保护修复问题引起了社会各界广泛的关注。因此，在全球气候变暖背景下，研究祁连山高山寒区气候变化特征以及对径流的影响，为流域内水资源的可持续利用发展提供参考依据具有现实意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "祁连山位于我国青藏高原东北缘，地形复杂，其上空云水资源丰富，发育了众多的高海拔山岳冰川[25-26],是黑河、石羊河和疏勒河等内陆河流的发源地。已有研究指出[12],黑河流域的径流变化对祁连山区域降水变化的响应机制具有一定代表性。黑河流域 $( 9 7 ^ { \\circ } 3 7 ^ { \\prime } \\sim 1 0 2 ^ { \\circ } 0 6 ^ { \\prime } \\mathrm { ~ E } , 3 7 ^ { \\circ } 4 4 ^ { \\prime } \\sim 4 2 ^ { \\circ } 4 0 ^ { \\prime } \\mathrm { ~ N } )$ 面积近$1 . 5 { \\times } 1 0 ^ { 5 } \\ \\mathrm { k m } ^ { 2 }$ ,干流全长近 $8 2 1 ~ \\mathrm { k m } ^ { [ 2 1 ] }$ ,途经青海、甘肃和内蒙三省。黑河干流分为上产流区、中游用水区和下游河湖尾闾消失区3段。莺落峡水文站作为黑河干流上中游的分界，对黑河出水量具有代表性。黑河整个流域的地形和地貌复杂，海拔高度差异很大，具有非常明显的气候地带性和区域性特征[21]。本文所选研究区域为以莺落峡为分割点的上游区(图1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "97°E 99E 101E 103E   \nN004 甘肃 N00   \nN60 肃南 N060 ·野牛泡·洛民乐   \nN88 海拔高度/m 祁连 N88 竹源人   \nNo 5000 图例 青海 NL 3000 水文站 1000 ·气象站 L 97E 99E 101°E 103°E ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2资料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1资料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据黑河上游源区的分布情况，本文选取位于祁连山中部的托勒、野牛沟、祁连、门源、肃南和民乐6个气象站及莺落峡水文站(表1)为代表站，所用资料为1960—2017年近 $6 0 \\mathrm { a }$ 的逐月气温、降水及径流量资料。6个气象站点分布在山体的南北坡（图1)，能较好的代表祁连山中部的气候概况。选用莺落峡水文站相应时段内历年各月、季、年的径流量资料代表黑河上游径流量。在季节划分上， $3 \\sim 5$ 月代表春季， $6 \\sim 8$ 月代表夏季， $9 \\sim 1 1$ 月代表秋季，12月 $\\sim$ 次年2月代表冬季。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1气象、水文站点信息",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/8d5c07cc64d51eaf1db656f010b55eff38bfc2ffa7074c1036e0b3e1d592970c.jpg",
+        "table_caption": [
+            "Tab.1 Information of meteorological and hydrological station "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>站点</td><td>纬度</td><td>经度</td><td>海拔/m</td><td>资料时段/年</td></tr><tr><td>托勒</td><td>38°48'N</td><td>98°25'E</td><td>3 360.3</td><td>1960- -2017</td></tr><tr><td>祁连</td><td>38°11'N</td><td>100°15'E</td><td>2 787.4</td><td>1960- -2017</td></tr><tr><td>野牛沟</td><td>38°37'N</td><td>90°21'E</td><td>3180.0</td><td>1960—2017</td></tr><tr><td>门源</td><td>37°23'N</td><td>101°37'E</td><td>2 850.0</td><td>1960- -2017</td></tr><tr><td>肃南</td><td>38°50'N</td><td>99°37'E</td><td>2 311.3</td><td>1960- -2017</td></tr><tr><td>民乐</td><td>38°27'N</td><td>100°49'E</td><td>2 271.5</td><td>1960—2017</td></tr><tr><td>莺落峡(水文)</td><td>38°82'N</td><td>100°19'E</td><td>1 703.0</td><td>1960- -2017</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2分析方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选择1960一2017年的月温度、降水量和径流量作为研究对象，按照前面的季节划分，分别计算月、季节、年和年度平均值、距平值，分析其变化特征。采用最小二乘法、Mann-Kendall（M-K)秩相关分析方法和小波分析方法进行径流量、降水及气温等要素的线性倾向、突变和周期变化分析。近年来，Mann-Kendall（M-K)秩相关分析和小波分析方法已广泛应用到气候、水文等时间序列的周期性分析[27],M-K秩相关分析方法用于分析研究对象数据系列在时间上的变化趋势(增加或减少)和突变点[28-29]，通过置信度显著性检验，分析径流量、降水及气温等要素的变化趋势和突变点。小波分析可以准确地揭示出分析对象随时间序列的变化特征，用于各研究对象的主要时间尺度(周期)分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3结果与讨论",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1气温变化特征 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1960s以来祁连山中部气温总体呈上升趋势（图 $2 \\mathrm { a }$ )，从气温每10a的平均值变化上来看，气温不断上升，1985年以后，年平均气温转为正值并持续升高，与全球变化趋势一致[30]。祁连山中部多年平均气温为 $0 . 8 1 ^ { \\circ } \\mathrm { C }$ ，自1960s以来，平均气温上升了$1 . 8 ~ \\mathrm { { ^ { \\circ } C } }$ ,远高于同期全球平均升温幅度。年平均气温、最高和最低气温的升温速率分别为0.39、0.32和$0 . 4 6 ~ \\mathrm { ^ { \\circ } C \\cdot ( 1 0 ~ a ) ^ { - 1 } }$ ,最低气温的升温速率最高。国内学者对中国气温变化研究结果表明[31-32],在全球气候变暖背景下，近50a我国平均升温速率为 $0 . 2 5 ~ \\mathrm { ^ { \\circ } C }$ ·$\\left( 1 0 \\mathrm { ~ a } \\right) ^ { - 1 }$ ，西北地区平均气温的升温速率为 $0 . 3 2 ~ \\mathrm { ^ { \\circ } C }$ .$\\left( 1 0 \\mathrm { ~ a } \\right) ^ { - 1 }$ ,近120a来中国西部气温上升了约 $1 . 2 ~ \\mathrm { ^ { \\circ } C }$ ○祁连山中部的升温速度明显高于西北地区其他地",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "■距平百分率--10a平均值250 (a) 2.0 40 (b) －线性(距平百分率) 440200 1.8 30 420%/ 150 1.6 %/率本1005 1 2010 4000 0.8气 0 360-50 0.6 距 -10 340-100 y=0.052 4x-104.09 0.4 -20 y=0.003 5x-7.0268 320-200 R²=0.6892 0.0 -30 R²=0.222 7 3001960 1967 1974 1981 1988 1995 2002 2009 2016 196019671974198119881995200220092016年份 年份",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "方，气候趋暖特征明显。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从年平均气温距平百分率变化曲线可以看出（图 $2 \\mathrm { a }$ )，20世纪 $6 0 \\sim 8 0$ 年代，祁连山中部气温整体偏低，尤其是60年代，平均气温年距平值为$- 0 . 7 1 \\ \\mathrm { { ^ { \\circ } C } }$ ，为该流域近60a来最为寒冷的时期（表略)；气温距平从90年代中期开始由负转正并持续升高，2010年以后是近60a来温度最高的一段时间。20世纪90年代是气温的转折期，自90年代以后，年平均、最高和最低气温距平转为正值且不断增大，气候趋暖。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "祁连山中部各季节气温均呈波动上升趋势，但不同季节变化差异较大(图3)。四季气温年际变化倾向率分别为 $0 . 3 3 \\ 、 0 . 3 7 、 0 . 3 5 \\ \\mathrm { ^ { \\circ } C } \\cdot ( 1 0 \\ \\mathrm { a } ) ^ { - 1 }$ 和 $0 . 5 ~ \\mathrm { ^ { \\circ } C }$ ：$\\left( 1 0 \\mathrm { ~ a } \\right) ^ { - 1 }$ ,明显高于全球和中国西部的升温幅度;其中冬季平均气温增幅最显著，其次为夏季、秋季和春季，冬季相对其他季节对全球气候变暖的响应更为明显。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "M-K检验结果显示(图4)，近60a来，年平均、最低和最高气温均呈波动上升趋势，但突变时间略有差异，突变点分别位于1993、1991年和1994年，通过了0.05水平的显著性检验，年平均最低气温的突变时间略早，最低气温对全球气候变暖的响应更加敏感。祁连山中部气温突变时间早于中国西北地区的气温突变时间1996年[33]。由小波分析可见(图5a)，年平均气温序列在3a、8a和15a左右振荡周期比较明显，其中8a左右时间尺度的能量最强，周期最显著，为主周期，3a和15a为次周期。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/39b34be49238056376b41f1f51b120571bffc747c190935e9cf0cff080abdd04.jpg",
+        "img_caption": [
+            "图2年平均气温(a)和降水(b)距平百分率变化曲线",
+            "Fig.2Variations of annual average temperature (a) and precipitation (b) anomaly percentage ",
+            "图3不同季节平均气温的年际变化趋势",
+            "Fig.3Inter-annual change trend of average temperature in different seasons "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6d1a27c63280e4d38beca43d368fd25f05936c1bb15322c9077d198b9d9f1b7c.jpg",
+        "img_caption": [
+            "图4年平均(a)最高(b)和最低(c)气温M-K突变检验Fig.4Annual average (a),maximum (b),and minimumtemperature (c) M-K mutation test"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2降水变化特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "祁连山中部多年平均降水量为 $3 7 6 \\mathrm { m m }$ ，降水以$1 3 . 2 \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ 的速率增加。2010年后降水增加了近 $1 9 . 2 \\%$ ,略高于西北地区的增幅。从各年代降水量的变化中可以看出（图2b)，20世纪降水量除80年代偏多外,其余年代相对偏少，60年代降水最少;进入21世纪后，降水明显增加。结合文中气温的分析可以看出，近60a祁连山中部先后经历了冷干、冷湿、暖干、暖湿的交替时期,2000年以后，气温偏高，降水偏多，暖湿化特征明显。刘时银等[31认为1950 s以来中国西部大部分地区降水有所增加，西北各省的降水量增加了 $1 8 \\%$ ,祁连山中部区域的降水变化趋势与其一致。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从年降水量M-K检验结果可见(图6a)，1971年开始降水量呈明显增加趋势， $U F$ 和 $U B$ 虽有多个交点，但突变时间并不明显，反映出降水量的随机性及不连续性。从周期分析来看(图5b)，降水存在5a和30a的周期，30a为主周期，5a为次周期",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "祁连山地形条件复杂，四个季节的水汽条件分布差异很大[34],导致春、夏、秋、冬不同季节的降水有很大差异，夏季 $6 \\sim 8$ 月降水最多，占全年的$6 1 . 2 \\%$ ;冬季最少仅占 $1 . 6 \\%$ 。四季平均降水量均呈增多趋势，降水分别以 $2 . 8 \\ 、 7 . 7 、 2 . 0 \\ \\mathrm { m m } { \\cdot } ( 1 0 \\ \\mathrm { a } ) ^ { - 1 }$ 和4.3$\\mathrm { m } \\mathrm { m } \\cdot ( 1 0 \\mathrm { ~ a } ) ^ { - 1 }$ 的速率增加，夏季降水的增幅最大，因此年降水的增加主要是由于夏季降水的增加引起的。各月间降水量差异较大， $6 \\sim 8$ 月平均降水量超过了 $6 3 ~ \\mathrm { m m }$ ,其余各月降水量较小。从月降水的年际变化倾向率来看，各月均有不同程度的增加，其中8月降水递增速率最大，其次是6月和9月。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3径流变化特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "黑河径流量总体呈增加趋势（图 $\\mathrm { 7 a }$ )。夏季径流量占比最大，占全年的 $5 2 . 8 \\%$ ,其次是秋季和春季，冬季最少，仅占 $6 . 9 \\%$ ;四季径流量均呈增加趋势。径流量在进人21世纪后显著增加，在2010年后达到最大值，较常年偏多 $2 1 . 2 \\%$ （表2)，20世纪70年代是径流量最少的年代,较常年偏少 $1 3 . 5 \\%$ 。另外，从年径流量每月变化的特征看，呈现出明显的“单峰\"分布。径流主要集中在 $6 \\sim 9$ 月，高峰出现在7月(图7b)。从月径流量的年际变化倾向率来看，各月均有不同程度的增加，8月径流量递增速率最大，为 $0 . 2 1 ~ \\mathrm { m } ^ { 3 } { \\cdot } ( 1 0 ~ \\mathrm { a } ) ^ { - 1 }$ ，其次是9月和6月，与降水的月年际变化倾向率特征一致，可见径流增加与夏季降水增加密切相关。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从M-K检验来看(图6b)，年径流量突变时间为2005年，自2005年以后， $U F$ 值 $> 1 . 9 6$ ,增加趋势显著。在径流的周期性变化中(图5c)，存在8a和30a的周期性振荡，其中30a是主周期，而8a是次周期。短周期与气温较为一致，在 $3 0 \\mathrm { ~ a ~ }$ 的长周期上则与降水较为一致。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4气候变化的水文效应 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "气候是径流变化的主要影响因素。流域径流量受降水、气温、蒸发、冰川积雪消融、地下水等多种因素影响，而降水和气温的变化直接影响径流的补给。从以上分析可知，自1960年来，祁连山中部总体呈现出降水增加、气温升高的特征，上游的气候变化对黑河径流量势必会产生一定的影响。由研究时段内莺落峡月径流量与上游相同时段内的降水、平均气温、最低和最高温度相关系数(表3)可以看出，径流量与各要素呈明显的正相关，显著性水平超过了 $\\alpha _ { 0 . 0 1 }$ 信度检验。径流量的增加和流域降",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/54cbbf693e8b4d03934861fc46c1121bd1b34f16ac37c77d33b4f567554ecae4.jpg",
+        "img_caption": [
+            "图5年平均气温(a)降水(b)径流量(c)的小波周期变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/398b40a89c05c53316ab45b446c8b79239450e0463b7913c5faa43f2e3045dd7.jpg",
+        "img_caption": [
+            "Fig.5Wavelet periodic changes of average temperature (a), precipitation (b),and runoff (c) ",
+            "图6年降水量(a)和年径流量(b)M-K突变检验",
+            "Fig.6M-K mutation test for annual precipitation (a) and runoff (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/97471d3b2ccd0efcc272ea10e5459260e1d996befaae556922ffef538686e1f7.jpg",
+        "img_caption": [
+            "图7径流量距平百分率年际变化(a)和径流量月分布、月变化倾向率(b)"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.7Interannual change of runoff anomaly percentage (a) and monthly distribution of runof and monthly change tendency rate (b) in the upper reaches of the Heihe River ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2径流量距平百分率年代际变化 $1 \\%$ ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/7737f555a310f949e8934b9cae066df369fb097328292e08e889f5dd727bc0f1.jpg",
+        "table_caption": [
+            "Tab.2 Decadal variation fo runoff anomaly percentage $1 \\%$ ",
+            "表3径流量与降水、气温同期相关系数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">时间</td><td colspan=\"4\">20世纪</td><td rowspan=\"2\">2000—2009年</td><td rowspan=\"2\">2010—2017年</td></tr><tr><td>60年代</td><td>70年代</td><td>80年代</td><td>90年代</td></tr><tr><td>全年</td><td>-10.5</td><td>-13.5</td><td>3.9</td><td>-5.6</td><td>4.6</td><td>21.2</td></tr><tr><td>春季</td><td>3.7</td><td>-18.1</td><td>0.5</td><td>-3.5</td><td>3.5</td><td>13.9</td></tr><tr><td>夏季</td><td>-9.6</td><td>-16.6</td><td>8.9</td><td>-1.1</td><td>-4.8</td><td>23.2</td></tr><tr><td>秋季</td><td>-18.6</td><td>-4.7</td><td>-6.3</td><td>-17.2</td><td>24.6</td><td>22.1</td></tr><tr><td>冬季</td><td>-13.2</td><td>-13.4</td><td>8.7</td><td>-3.0</td><td>5.3</td><td>15.6</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/9adcc13db3a3f2b749bee96e108a2818df46cbbd5500ea9379b442b14add9b62.jpg",
+        "table_caption": [
+            "Tab.3 Correlation coeficient between runoff with precipitation and temperature "
+        ],
+        "table_footnote": [
+            "注：\\*\\*为 $\\cdot \\ a _ { a , 0 . 0 1 }$ 信度；\\*为ao.0s信度"
+        ],
+        "table_body": "<html><body><table><tr><td>要素</td><td>1月</td><td>2月</td><td>3月</td><td>4月</td><td>5月</td><td>6月</td><td>7月</td><td>8月</td><td>9月</td><td>10月</td><td>11月</td><td>12月</td></tr><tr><td>降水</td><td>0.25</td><td>0.14</td><td>0.13</td><td>0.37**</td><td>0.26</td><td>0.34**</td><td>0.47**</td><td>0.47**</td><td>0.19</td><td>0.19</td><td>0.01</td><td>0.12</td></tr><tr><td>平均温度</td><td>0.14</td><td>0.36**</td><td>0.32*</td><td>0.35**</td><td>0.32*</td><td>0.31*</td><td>0.33*</td><td>0.29*</td><td>0.49**</td><td>0.41**</td><td>0.25</td><td>0.25</td></tr><tr><td>最低温度</td><td>0.16</td><td>0.37**</td><td>0.33*</td><td>0.45**</td><td>0.36**</td><td>0.4**</td><td>0.43**</td><td>0.44**</td><td>0.41**</td><td>0.32*</td><td>0.26*</td><td>0.25</td></tr><tr><td>最高温度</td><td>0.2</td><td>0.24</td><td>0.27*</td><td>0.14</td><td>0.15</td><td>0.12</td><td>0.1</td><td>0.02</td><td>0.27*</td><td>0.22</td><td>0.11</td><td>0.14</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "水的增加及气温的升高密切相关，温度的升高导致更多冰川积雪融化，径流补给增加。以年平均气温的突变年份1993年为突变点，进一步分析这种影响可以看出，在1993年之前，径流量与降水呈正相关，与气温呈负相关；之后，径流量与降水和气温都呈正相关，与降水的相关系数进一步增大，表明气候的暖湿化使径流量增加的效应在逐渐变大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "针对每个季节降水量和温度变化对径流量的影响程度不同，为进一步研究降水量和温度变化对径流的影响，建立了相关模型分析各因子的影响。基于前面的分析，我们分别选取月平均降水和月平均气温24个因子作为气候参数(模型1);年降水量、平均气温,年平均最高和最低气温，春、夏、秋、冬四季降水量和气温等12个因子用作气候参数（模型",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2)；春、夏、秋、冬四季降水量和气温等8个因子作为气候参数(模型3)，通过逐步回归分析，分别建立相关模型。通过比较，从变量的相关系数、单尾显著性概率以及模型的拟合度来看，模型2相对较好。模型2中，年降水量 $( P _ { a } )$ 和平均气温 $\\left( T _ { a } \\right)$ 与径流量的相关性较好，相关系数分别为0.83和0.53，单尾检验的显著性概率也较小，建立的相关模型为：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { a } = 0 . 0 4 6 \\times P _ { a } + 0 . 8 0 1 \\times T _ { a }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图8显示了黑河实测年径流量和模型计算的年径流量比较，采取纳什效率系数法35对建立的模型进行率定，纳什效率系数为0.68，说明模拟的径流量与实际监测的径流量的吻合程度较好，模型可以用于黑河径流量的预测和影响因子分析。从模型选取的因子可以看出，影响黑河径流量变化的主要因",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/d5aa6ba08543a0d702b0a577eadffc3e199aa96559d7dec88436e7412e1c2ae4.jpg",
+        "img_caption": [
+            "图8径流量实测和模型计算值的比较 Fig.8Comparison of measured and calculated values of runoff "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "素是降水量和气温。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为进一步研究降水和温度变化对径流的影响，我们使用前面建立的相关模型计算1960—2017年降水和温度变化对径流的影响量，过去 $5 8 \\mathrm { ~ a ~ }$ 径流量的年变化 $\\Delta R _ { a }$ 为公式(2)。公式(2)中 $\\Delta R _ { a } , \\Delta P _ { a }$ 和 $\\Delta$ $T _ { a }$ 分别为过去58a中径流量、降水和平均气温的变化量， $b _ { 1 }$ 和 $b _ { 2 }$ 为系数，分别为0.046和 $0 . 8 0 1$ ○",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\Delta R _ { _ a } = b _ { _ 1 } \\times \\Delta P _ { _ a } + b _ { _ 2 } \\times \\Delta T _ { _ a } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据2个因子的实际线性增率，可以分析计算过去 $5 8 \\mathrm { a }$ 各因子对径流量的影响程度。从表4可以看出，与径流量多年平均值相比，降水的增多和气温的升高使得年径流量增加了 $5 . 3 3 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ，降水和气温分别使径流量增加了 $2 1 . 1 \\%$ 和 $1 0 . 9 \\%$ ，降水对径流量的影响作用更大。以1993年平均温度的突变年份为分界点，分别计算了在此前后降水和温度对径流的影响，1993年后年降水和温度对径流的影响都明显增大。随着上游降水不断增加，黑河径流量在不断增加;而气温的升高会使冰雪融水增加，从",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表4气温、降水变化对径流量的影响 $/ 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/99b98dfc7516ac6f6d227cb75f659c286355fa7c4b7e066d538e6fda2c74d961.jpg",
+        "table_caption": [
+            "Tab.4 Impact of temperature and precipitation changes on runoff / $\\mathbf { 1 0 ^ { 8 } \\ m ^ { 3 } }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">要素</td><td colspan=\"2\">全部</td><td colspan=\"2\">1993年之前</td><td colspan=\"2\">1993年之后</td></tr><tr><td>bix△P</td><td>bx△Ta</td><td>bx△Pa</td><td>bx△Ta</td><td>bix△Pa</td><td>bx△Ta</td></tr><tr><td>径流量变化</td><td>3.52</td><td>1.81</td><td>2.28</td><td>0.46</td><td>4.24</td><td>0.97</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "而导致径流量进一步增加",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）近 $6 0 \\mathrm { ~ a ~ }$ ,祁连山中部气温呈明显升高的趋势，年平均、最高和最低气温的升温幅度分别为$0 . 3 9 \\ \\mathrm { { ^ { \\circ } C } \\cdot ( 1 0 \\ { a } ) ^ { - 1 } \\cdot 0 . 3 2 \\ \\mathrm { { ^ { \\circ } C } \\cdot ( 1 0 \\ { a } ) ^ { - 1 } } }$ 和 $0 . 4 6 ~ \\mathrm { { ^ circ C } \\cdot ( 1 0 ~ a ) ^ { - 1 } }$ ，气温上升的速率高于西北其他地区，最低气温的升幅最大；四季的气温均呈升高趋势，冬季升温最为明显。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2）祁连山中部降水呈明显增加趋势，降水增加了约 $1 9 . 2 \\%$ ,增加的幅度高于西北地区。就季节变化而言，夏季降水的增加速率高于其他季节，降水的增加主要是因为夏季降水的增多。祁连山中部气候暖湿化趋势较西北区域其他地方更为突出，四季暖湿化中冬季变暖、夏季趋湿特征明显。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）周期变化分析结果表明，年平均温度和降水分别存有8a和30a的主周期，径流量由30a的主周期和8a的次周期；在径流量周期响应中，短周期(8a)与平均气温振荡非常一致，长周期(30a)与年平均降水变化较为一致。气温和降水的突变结果显示，祁连山中部降水的突变时间不明显，年平均、最低和最高气温的突变时间分别为1993、1991年和1994年，气温突变时间领先于中国西北其他地区。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（4）降水和气温都是影响径流的因素，受降水增加和温度升高影响，黑河上游径流量增加趋势明显。通过相关分析建立的模型能很好的分析径流量影响因子，并能应用于径流量预测。模型结果进一步证实,降水和气温分别使径流量增加了 $2 1 . 1 \\%$ 和 $1 0 . 9 \\%$ ,并且降水对径流的影响更大;在气温突变之后，降水和气温对径流量的影响都明显增大。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]李玉平,韩添丁,沈永平,等.天山南坡清水河与阿拉沟流域径 流变化特征及其对气候变化的响应[J].冰川冻土,2018,40(1): 127-135.[LI Yuping,HAN Tianding,SHEN Yongping,et al. Characteristics of runoff variation and its response to climate change of Qingshuihe River and Alagou River watersheds in southern slopes of the Tianshan Mountains[J]. Journal of Glaciology and Geocryology,2018,40(1):127-135.]   \n[2] 孟秀敬,张士锋,张永勇.河西走廊57年来气温和降水时空变 化特征[J].地理学报,2012,67(11):1482-1492.[MENG Xiujin, ZHANG Shifeng,ZHANG Yongyun. The temporal and spatial change of temperature and precipitation in Hexi Corridor in recent 57 years[J]. Acta Geographica Sinica,2012,67(11): 1482-1492.]   \n[3]沈永平,王国亚.IPCC第一工作组第五次评估报告对全球气候 变化认知的最新科学要点[J].冰川冻土,2013,35(5):1068- 1076.[SHEN Yongping, WANG Guoya. Key findings and asssment results of IPCC WGI fifth assessment report[J]. Journal of Glaciology and Geocryology,2013,35(5): 1068-1076.]   \n[4]任贾文.全球冰冻圈现状和未来变化的最新评估:IPCCWGIAR5SPM发布[J].冰川冻土,2013,35(5):1065-1067.[REN Jiawen.Updating assessment results of global cryospheric change from SPM of IPCC WGI Fifth Assessment Report[J]. Journal of Glaciology and Geocryology,2013,35(5): 1065-1067.]   \n[5]任贾文,明镜.IPCC第五次评估报告对冰冻圈变化的评估结果 要点[J].气候变化研究进展,2014,10(1):25-28.[REN Jiawen, MING Jing. Key scientific points on cryosphere changes from the IPCCFifth Assessment Report[J]. Climate Change Research, 2014,10(1): 25-28.]   \n[6]李红梅,李林. $2 ^ { \\circ } \\mathrm { C }$ 全球变暖背景下青藏高原平均气候和极端气 候事件变化[J].气候变化研究进展,2015,11(3):157-164.[LI Hongmei,LI Lin. Mean and extreme climate change on the Qinghai-Tibetan Plateau with a $2 \\mathrm { { ^ { \\circ } C } }$ global warming[J]. ClimateChange Research,2015,11(3): 157-164.]   \n[7]蓝永超,胡兴林,肖生春,等.近50年疏勒河流域山区的气候变 化及其对出山径流的影响[J].高原气象,2012,31(6):1636- 1644.[LAN Yongchao,HU Xinglin, XAOI Shengchun,et al. Study on climate change in mountainous region of Shulehe River Basin in past 5O years and its efect to mountainous runoff[J]. Plateau Meteorology,2012,31(6): 1636-1644.]   \n[8]张良,张强,冯建英,等.祁连山地区大气水循环研究(I):空中 水汽输送年际变化分析[J].冰川冻土,2014,36(5):1079-1091. [ZHANG Liang, ZHANG Qiang,FENG Jianyin,et al. A study of atmospheric water cycle over the Qilian Mountains(I): Variation of annual water vapor transport[J]. Journal of Glaciology & Geocryology,2014,36(5): 1079-1091.]   \n[9]张良,张强,冯建英,等.祁连山地区大气水循环研究(II):水循 环过程分析[J].冰川冻土,2014,36(5):1092-1100.[ZHANG Liang, ZHANG Qiang,FENG Jianyin, et al.A study of atmospheric water cycle over the Qilian Mountains(II):Analysis of hydrological cycle[J]. Journal of Glaciology & Geocryology,2014,36(5): 1092- 1100.]   \n[10] 李栋梁,刘洪兰.黑河流量对祁连山气候年代际变化的响应[J]. 中国沙漠,2004,24(4): 385-391.[LI Dongliang,LIU Honglan. Responding of Heihe River runoff to decadal climate change in Qilian Mountain Area[J]. Journal of Desert Research,2O04, 24(4): 385-391.]   \n[11]张强,张杰,孙国武,等.祁连山山区空中水汽分布特征研究[J]. 气象学报,2007,65(4): 633-643.[ZHANG Qiang,ZHANG Jie, SONG Guowu, et al. Research onatmospheric water-vapordistribution over Qilianshan Mountains[J]. Acta Meteorologica Sinica, 2007, 65(4): 633-643.]   \n[12] 蓝永超,丁永建,康尔泗.近50年来黑河山区汇流区温度及降 水变化趋势[J].高原气象，2004,23(5):723-727.[LAN Yongchao,DING Yongjian,KAN Ersi.Variationsand trends of temperature and precipitation in the mountain drainage basin of the Heihe River in recent 5O years[J].Plateau Meteorology,2004, 23(5): 723-727.]   \n[13] 张凯,王润元,韩海涛,等.黑河流域气候变化的水文水资源效 应[J].资源科学,2007,29(1):77-83.[ZHANG Kai,WANG Runyuan,HAN Haitao,et al. Hydrological and water resources effects under climate change in Heihe River Basin[J]. Resources Science, 2007,29(1): 77-83.]   \n[14]王钧,蒙吉军.黑河流域近60年来径流量变化及影响因素[J]. 地理科学,2008,28(1): 83-88.[WANG Jun, MENG Jijun. Characteristics and tendencies of annual runoff variations in the Heihe River Basin during the past 6O years[J]. Scientia Geographica Sinica,2008,28(1): 83-88.]   \n[15] 李海燕,王可丽,江灏,等.黑河流域降水的研究进展与展望[J] 冰川冻土,2009,31(2):334-341.[LI Haiyan,WANG Keli, JIANG Hao,et al.Study of the precipitation in the Heihe River Basin: progressandprospect[J].Journal of Glaciology& Geocryology, 2009,31(2): 334-341. ]   \n[16] 李卓仑,王乃昂,李育,等.近50年来黑河出山径流对气候变化 的响应[J].水土保持通报,2012,32(2):7-11.[LI Zhuolun, WANG Naiang,LI Yu,et al.Variationsof runoff in responding to climate change in mountainous areas of Heihe River during last 50 years[J]. BuletinofSoil& Water Conservation,20l2,32(2):7-1.]   \n[17] 祁晓凡,李文鹏,李海涛,等.中国干旱内陆河出山径流对流域 气象要素与全球气象指数的响应特征研究[J].干旱区地理, 2018,41(6): 44-53.[Qi Xiaofan,LI Wenpeng,Li Haitao,et al. Response characteristics of mountainous runoffs of the inland rivers in arid areas of China to watershed meteorological elements and global climate indices[J].Arid Land Geography,2018,41(6): 44- 53.]   \n[18] 李鸿伟,赵锐锋,王福红.人类土地利用干扰对黑河中游湿地时 空变化的影响[J].干旱区地理,2018,41(2):375-383.[LI Hongwei, ZHAO Ruifeng,WANG Fuhong,et al. Effects of human land use interference on spatial and temporal changes of wetlands in the midlereachesofHeieRiver[J].AridLndGeograpy18, 41(2): 375-383.]   \n[19]刘志方,刘友存,郝永红,等.黑河出山径流过程与气象要素多 尺度交叉小波分析[J].干旱区地理,2014,37(6):1137-1146. [LIU Zhifang,LIU Youcun,HAO Yonghong,et al. Multi-time scale cross-wavelet transformation between runoff and climate factorsintheupstreamof HeiheRiver[J].AridLandGeography, 2014,37(6): 1137-1146.]   \n[20] 尹宪志,张强,徐启运,等.近50年来祁连山区气候变化特征研 究[J].高原气象,2009,28(1):85-90.[YIN Xianzhi,ZHANG Qiang,XU Qiyun,et al. Characteristics of climate change in QilianMountainsregioninrecent5Oyears[J].Plateau Meteolog ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2009,28(1): 85-90.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[21]李占玲,徐宗学.近50年来黑河流域气温和降水量突变特征分 析[J].资源科学,2011,33(10):1877-1882.[LI Zhanling,XU Zongxue.Detection of change points in temperature and precipitation time series in the Heihe River Basin over the past 5O years[J]. Resources Science,2011,33(10): 1877-1882.]   \n[22]丁永建,叶佰生,刘时银.祁连山中部地区40a来气候变化及 其对径流的影响[J].冰川冻土,2000,22(3):193-199.[DING Yongjian,YE Baisheng,LIU Shiyin,et al. Impact of climate change on the Alpine streamflow during the past 4O a in the middle part of the Qilian Mountains,nothewestern China[J]. Journal of Glaciology & Geocryology,2000,22(3):193-199.]   \n[23] 李栋梁,冯建英,陈雷,等.黑河流量和祁连山气候的年代际变 化[J].高原气象,2003,22(2):104-110.[LI Dongliang,FENG Jianying,CHEN Lei,et al. Study on interdecadal change of Heihe runoff and Qilian Mountain’s climate[J].Plateau Meteorology, 2003,22(2): 104-110.]   \n[24]巩宁刚,孙美平,闫露霞,等.1979-2016年祁连山地区大气水 汽含量时空特征及其与降水的关系[J].干旱区地理,2017,40 (4):762-771. [GONG Ninggang, SUN Meiping,YAN Louxia,et al.Temporal and spatial characteristics of atmospheric water vapor and its relationship with precipitation in Qilian Mountains during 1979-2016[J]. Arid Land Geography,2017,40(4): 762-771.]   \n[25] 崔晓庆,任贾文,秦翔 等.祁连山老虎沟12号冰川浅冰芯记录 的气候环境信息[J].冰川冻土,2011,33(6):1521-1528.[CUI Xiaoqing,REN Jiawen, QIN Xiang et al. Climatic and environmental records within a shallow ice core at Laohugou Glacier No.12, Qilian Mountains[J]. Journal of Glaciology and Geocryology,2011, 33(6): 1521-1528.]   \n[26] 秦翔,崔晓庆,杜文涛 等.祁连山老虎沟冰芯记录的高山区大 气降水变化[J].地理学报,2014,69(5):681-689.[QIN Xiang, CUI Xiaoqing,DU Wentao,et al. Variations of the alpine precipitation from an icecore record of the Laohugou glacier basin during 1960-2OO6 in western Qilian Mountains,China[J].Journal of Geographical Sciences,2014, 69(5): 681-689.]   \n[27]王婷婷,冯起,郭小燕,等.1959—2014年古浪河流域气温时空 变化特征分析[J].高原气象,2016,35(6):1615-1624.[WANG Tingting,FENG Qi,GUO Xiaoyan,et al. Temporal variation of temperature in the Gulang River Basin from 1959 to 2014[J].Plateau Meteorology,2016,35(6):1615-1624.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[28]魏光辉,邓丽娟.基于MK与SR非参数检验方法的干旱区降水",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "趋势分析[J]. 西北水电,2014,147(4):1-4.[WEI Guanghui,DENG Lijuan.Analysis on precipitation trend in arid regions based on non-parametric verification methods of Mann-Kendall and Spearman's Rho[J]. Northwest Hydropower,2014,147(4): 1-4.]   \n[29] 刘维成,张强,傅朝.近55年来中国西北地区降水变化特征及 影响因素分析[J].高原气象,2017,36(6):1533-1545.[LIU Weicheng, ZHANG Qiang,FU Zhao.Variation characteristics of precipitation and its affecting factors in Northwest China over the past 55 years[J]. Plateau Meteorology,2017,36(6): 1533-1545.]   \n[30] 蓝永超,丁永建,沈永平,等.河西内陆河流域出山径流对气候 转型的响应[J].冰川冻土，2003,25(2):188-192.[LAN Yongchao,DING Yongjian, SHEN Yongping, et al. Responding of river streamflow to the climate shift in the Hexi inland region[J]. Journal of Glaciology & Geocryology,2003,25(2):188-192.]   \n[31] 刘时银,丁永建,李晶,等.中国西部冰川对近期气候变暖的响 应[J].第四纪研究,2006,26(5):762-771.[LIU Shiying,DING Yongjian,LI Jin,etal.The retreat of glaciers in response to recent climate warming in western China[J]. Quaternary Sciences,2006, 26(5): 762-771.]   \n[32] 赵传成,王雁,丁永建,等.西北地区近50年气温及降水的时空 变化[J].高原气象,2011,30(2):385-390.[ZHAO Chuancheng, WANG Yan,DING Yongjian,etal. Spatial-temporal variations of temperature and precipitation in Northern China in recent 5O years [J].Plateau Meteorology,2011,30(2): 385-390.]   \n[33]王海军,张勃,赵传燕,等.中国北方近57年气温时空变化特征 [J].地理科学进展,2009,28(4):643-650.[WANG Haijun, ZHANG Bo, ZHAO Chuanyang, et al. The spatio-temporal characteristics of temperature change in recent 57 years in Northern China[J].Progress in Geography,2009,28(4): 643-650.]   \n[34] 王宝鉴,黄玉霞,王劲松,等.祁连山云和空中水汽资源的季节 分布与演变[J].地球科学进展,2006,21(9):948-955.[WANG Baojian,HUANG Yuxia,WANG Jinsong,et al. The seasonal distribution and time-varying of the cloud and vapor flux in Qilian Mountain areas[J]. Advances in Earth Science,2006,21(9): 948- 955.]   \n[35] 赵沛,程伍群,庞立军,等.基于SWMM的透水铺装系统的水文 效应研究[J].水电能源科学,2019,37(1):35-37.[ZHAO Pei, CHENG Wuqun,PANG Lijun,et al. Study on hydrological effect of permeable pavement system based on SWMM[J].Water Resources and Power,2019,37(1): 35-37.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Climate change and its runoff response in the middle section of the Qilian Mountains in the past 6O years ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "CHENG Peng1,²， KONG Xiang-wei³，LUO Han'，LI Bao-zi'， WANG Yan-feng' (1Gansu Weather Modification Office,Lanzhou 73oo20,Gansu,China；2 Key Laboratory for CloudPhysicsofChina MeteorologicalAdministration,BeijinglOoo81,China;3Lanzhou Central Meterological Observatory,Lanzhou 730020,Gansu,China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Basedon hydrological and meteorological data from196O to2O17,thecharacteristicsof variations inclimateand runoffin the middle sectionof the Qilian Mountains were studied by using correlation characteristics,mutation analysis,and wavelet analysis.The results showed thatover the past 6O years,temperature,precipitation,and runof in the middle section of the Qilian Mountains showgenerallyincreasing trends.The annual average temperature in this region rose at the rate of $0 . 3 9 ^ { \\circ } \\mathrm { C } \\cdot ( 1 0 \\mathrm { ~ a } ) ^ { - 1 }$ .The annual minimum temperature rose much higher than the maximum and average temperatures,and temperature increased in all seasons,especially in the winter.The increase of precipitation in the middle Qilian Mountains (approximately $1 9 . 2 \\%$ over the past 6O years) was prominent in northwestern China. This increase is mainly due to increased summer precipitation. There was climate warming and a humidifying trend,with winter warming and summer humidification being more obvious.The mutation analysis showed that the average temperature changed abruptly in 1993,which ocurred earlier than other regions of northwestern China.The main periods of temperatureand precipitation were 8aand 3Oa,respectively.In the runoff period response,the short period (8 a) is consistent with average temperature oscillation,whereas the long period (30 a)is consistent with annual average precipitation.Further simulation results confirmed that precipitation and temperature were the main factors affecting runoff.The established runof prediction model hasa Nash eficiency coefcient of O.68,thus it can beused for analyzing and predicting runof.Precipitation and temperature helped increase runoff by $2 1 . 1 \\%$ and $1 0 . 9 \\%$ ,respectively,and the impact of precipitation on runoff is greater. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words: climate change; runoff; Mann-Kendalltest; Heihe River; Qilian Mountains ",
+        "page_idx": 9
+    }
+]

@@ -1,0 +1,205 @@
+# 基础研究
+
+# 健康新生儿粪便中耐铅菌株的分离鉴定及铅吸附实验
+
+沈薇1²，俞勤斐²，王雨皓²,张益多²，孟晓静²，范宏英²  
+南方医科大学'南方医院新生儿科，公共卫生学院//广东省热带病研究重点实验室,广东广州 510515
+
+摘要：目的 分离、鉴定具备重金属铅抗性、铅吸附性的乳酸菌，为成为具有排铅功能的新型保健食品提供新的菌源。方法 利用乳酸菌选择性培养基MRS,从30份健康、足月新生儿粪便分离耐铅菌，通过形态特征，16S rRNA测序,构建系统发育树；利用《伯杰氏系统细菌学手册》进行生理生化、药敏检测和耐酸耐胆盐试验;进一步通过ICP-OES法检测分离菌对铅离子的吸附能力。结果分离得到3株可耐受 $5 0 0 ~ \mathrm { { m g / L } }$ 铅离子浓度的干酪乳杆菌,均对青霉素、头孢曲松敏感。耐酸耐胆盐试验显示 $\mathrm { p H } 2 . 0$ 人工胃液培养3h,细菌数保持相同数量级， $0 . 3 \%$ 的胆盐环境8h存活率可达 $6 2 . 5 \%$ 。吸附实验表明对低浓度( $\mathrm { { ( 1 \ m g / L ) } }$ 铅离子的吸附率高达 $9 0 . 4 \%$ ，对高浓度 $\mathrm { \Gamma } 5 0 \mathrm { m g / L }$ 铅离子的吸附率可达 $8 6 . 2 7 \%$ 。结论从新生儿粪便中分离到3株具备铅抗性、铅吸附性、耐酸耐胆盐的干酪乳杆菌，为利用益生菌膳食策略缓解铅中毒效应开辟新的途径和解决方案。
+
+关键词：重金属铅；16SrRNA;新生儿;粪便；干酪乳杆菌；吸附作用
+
+# Isolation, identification and lead adsorption study of lead-resistant Lactobacillus casei strains from feces of healthy newborns
+
+SHEN Weil²,YU Qinfei²,WANG Yuhao²,ZHANG Yiduo²,MENG Xiaojing²,FANHongying²   
+Departmentofatoanialrttofcobloyoloblicaltcalic   
+Medical University,Guangzhou 5io5i5,China
+
+Abstract:ObjectiveToisolateandidentifylead-resistantLactobaciluscaseistrainswithleadadsorptionabilityfromthoolof healthy newborns as anew source of bacteria for developing lead-eliminating food products.Methods MRS was used to isolate lead-resistantbacteriafromthefecesof30healthyandfullterm neonates.Aphylogenetictreewas constructed based onthemorphological characteristicsand16SrRNA sequencesof theisolated bacteria.Physiologicaland biochemical characterizationsof thebacteria were performedaccording tothe Berger's Systematic Bacteriology Handbook,followed by antimicrobial susceptibility test and acid-tolerant bile salt test. The adsorption capacity of $\mathrm { P b } ^ { 2 + }$ of the bacteria was determined by inductively coupled plasma-optical emissionspectroscopy (ICP-OES).ResultsThree strainsofLactobacillscasei were isolated, which were resistant to penicillin and ceftriaxone and could tolerate the exposure to $5 0 0 ~ \mathrm { m g / L } ~ \mathrm { P b } ^ { 2 + }$ . Acid-tolerant bile salt test showed that the bacteria were resistant to culture in the presence of artificial gastric juice $\left( \mathrm { p H } 2 . 0 \right)$ for $3 \mathrm { h } ,$ and their survival rate reached $6 2 . 5 \%$ following exposure to $0 . 3 \%$ bile salt for $^ { 8 \mathrm { { h } } }$ .The bacteria showed a $\mathrm { P b } ^ { 2 + }$ adsorption rate of $9 0 . 4 \%$ at a low $\mathrm { P b } ^ { 2 + }$ concentration $( 1 ~ \mathrm { m g / L } )$ and of $8 6 . 2 7 \%$ at a high $\mathrm { P b } ^ { 2 + }$ concentration $( 5 0 ~ \mathrm { m g / L } )$ ). Conclusion Three Lactobacillus casei strains leadadsorptionabilitywere isolated from the fecesof newborns.These bacterial strains provideanew solution to alleviate lead poisoning by probiotic dietary.
+
+Key words: lead; heavy metals; 16S rRNA; newborn; Lactobacillus casei; feces; adsorptior
+
+据世界卫生组织统计，全球 $0 . 6 \%$ 的疾病负担是由铅接触造成的，每年由儿童铅接触所导致的新增智力残疾儿童约为60万，孕期铅暴露也会导致铅通过胎盘循环、血脑屏障,损害胎儿脑组织造成后遗症[2]。但传统治疗铅中毒多采用促铅排出体外的金属螯合剂，其肾毒性、影响必需微量元素吸收等毒副作用并不适合孕妇儿童这类特殊人群[3-6]。因此，如何防治敏感人群的铅蓄积中毒，成为近年研究热点。
+
+长期科学研究表明，人类肠道广泛存在的乳酸菌在膳食应用上具有良好的安全性，亦被证明具备防治乳糖不耐受、防治极低出生体质量儿的坏死性小肠结肠炎、拮抗致病菌、降低胆固醇、抗肿瘤和调节免疫等多种作用[7-1]。鉴于生物吸附治理重金属环境污染的经验[14],有研究者发现,某些特定菌株的乳酸菌，在体外实验中也能够有效地吸附重金属离子[12-13],也提出了益生菌缓解重金属中毒的学说[15],这无疑为探索针对特殊群体铅中毒的干预方法提供了新思路。Halttunen等[23对鼠李糖乳杆菌(LGG)、双歧杆菌、干酪乳杆菌等一批经典菌株进行了铅吸附试验，显示LGG对铅吸附性能良好但要实践膳食防治重金属铅中毒计划，还需寻找更多食品安全级别(GRAS)[16-18]并能耐受重金属的微生物。Bhakta等[13分离出大量具有铅抗性的乳酸菌,但均来自受重金属污染的淤泥样品，陈卫等 $^ { [ 3 2 ] } 2 0 1 2$ 年在动物实验中证实了对铅亲和力高的植物乳杆菌CCFM8661可降低血铅及器官中的铅蓄积含量，但该菌株来源于中国传统发酵食品。Bisanz等[19]对坦桑尼亚的重金属中毒潜在人群中的孕妇及儿童进行研究，给予实验组摄人乳酸菌L.rhamnosusGR-1发酵的酸奶，结果表面实验组血汞和砷的水平低于对照组，首次证明了乳酸菌对人体内重金属有解毒疗效，但该实验人群铅的水平却没有明显降低。此类研究非常少，尤其孕妇儿童这类铅敏感人群应用益生菌存在更多安全方面的考虑。因此，本研究选择从健康新生儿粪便分离高度耐受重金属铅的乳酸菌，保障了其来源的相对安全性，通过传统检测法与PCR法，鉴定出3株高度耐铅的干酪乳杆菌菌株，进行了益生特性的检验，并与经典菌株LGG及干酪乳杆菌标准菌株进行了铅吸附性能的比较。同时，本研究组的其他相关实验提示该组菌株对汞,镉,锰，铬等多种重金属也显示出高度的耐受性，国内外尚未见类似报道。本研究的筛选菌株为实践膳食防治重金属铅中毒计划，提供了优质菌源。
+
+# 1 材料和方法
+
+# 1.1 材料与仪器
+
+1.1.1样品来源南方医科大学南方医院产后爱婴区出生的健康新生儿（日龄 ${ \tt \leq } 2 8 \mathrm { ~ d ~ }$ ，全母乳喂养，或以母乳喂养为主，未服用抗生素和益生菌制剂)粪便标本30份，详见表1。标准菌株：干酪乳杆菌鼠李糖亚种ATCC7469，购自广东省微生物研究所菌种保藏中心。1.1.2 实验试剂MRS固体培养基、胃蛋白酶、牛胆盐(广东环凯微生物科技有限公司)，DL2000DNAMarker（TaKaRa），琼脂糖凝胶DNA回收试剂盒（TaKaRaMiNiBEST Agarose GelDNA Extraction Kit Ver.4.0）、细菌基因组DNA提取试剂盒（TIANampBacteriaDNAKit）、新型微生物微量生化鉴定管系列(广东环凯微生物科技有限公司）GBW08619铅单元素溶液标准物质等。
+
+铅储备液的配制：称取 $9 1 . 5 8 \ : \mathrm { m g } \ : \mathrm { P b } ( \mathrm { H } _ { 3 } \mathrm { C O } _ { 2 } ) _ { 2 } { \cdot } 3 \mathrm { H } _ { 2 } \mathrm { O }$ 溶于 $1 0 0 ~ \mathrm { { m L } }$ 无菌蒸馏水中，配制成 $5 0 0 ~ \mathrm { { m g / L } }$ 的母液,避光储存于 $4 \mathrm { { ^ \circ C } }$ 冰箱。人工胃液的配置：取 $1 6 . 4 ~ \mathrm { m L }$ $0 . 1 \ \mathrm { g / L }$ 的盐酸,调整 $\mathrm { p H }$ 值至2.0,然后加入胃蛋白酶$\left( 0 . 0 1 \ \mathrm { g / L } \right)$ ,充分溶解后，予 $0 . 2 2 \mu \mathrm { m }$ 微孔滤膜除菌，储存于 $4 \mathrm { { ^ circ C } }$ 冰箱备用。
+
+1.1.3主要仪器 恒温厌氧培养箱(WhitleyDG-250型),PCR扩增仪(BIOER)，电泳仪(DYY-6C型),凝胶成像系统（Tanon-1600），卧式压力蒸汽灭菌器(SHINVA公司）、浊度计（昕瑞WGZ-2）、电感耦合等离子体发射光谱仪ICP-OES（Perkin Elmer,Optima7000DV)。
+
+表1粪便样品来源情况Tab.1 Stool sample source  
+
+<html><body><table><tr><td>Number</td><td>Age (days)</td><td>Feeding</td><td>Mode of delivery</td></tr><tr><td>1</td><td>2</td><td>Pure breast-feeding</td><td>Natural</td></tr><tr><td>2</td><td>5</td><td>Pure breast-feeding</td><td>Natural</td></tr><tr><td>3</td><td>2</td><td>Mix</td><td>C-sect</td></tr><tr><td>4</td><td>8</td><td>Mix</td><td>Natural</td></tr><tr><td>5</td><td>1</td><td>Pure breast-feeding</td><td>Natural</td></tr><tr><td>6</td><td>2</td><td>Mix</td><td>Natural</td></tr><tr><td>7</td><td>5</td><td>Pure breast-feeding</td><td>Natural</td></tr><tr><td>8</td><td>2</td><td>Mix</td><td>Natural</td></tr><tr><td>9</td><td>2</td><td>Mix</td><td>Natural</td></tr><tr><td>10</td><td>25</td><td>Pure breast-feeding</td><td>Natural</td></tr><tr><td>11</td><td>9</td><td>Mix</td><td>Natural</td></tr><tr><td>12</td><td>1</td><td>Mix</td><td>Natural</td></tr><tr><td>13</td><td>2</td><td>Pure breast-feeding</td><td>Natural</td></tr><tr><td>14</td><td>3</td><td>Mix</td><td>Natural</td></tr><tr><td>15</td><td>3</td><td>Mix</td><td>Natural</td></tr><tr><td>16</td><td>3</td><td>Mix</td><td>C-sect</td></tr><tr><td>17</td><td>4</td><td>Pure breast-feeding</td><td>Natural</td></tr><tr><td>18</td><td>2</td><td>Mix</td><td>C-sect</td></tr><tr><td>19</td><td>10</td><td>Mix</td><td>C-sect</td></tr><tr><td>20</td><td>9</td><td>Mix</td><td>C-sect</td></tr><tr><td>21</td><td>18</td><td>Pure breast-feeding</td><td>C-sect</td></tr><tr><td>22</td><td>7</td><td>Pure breast-feeding</td><td>C-sect</td></tr><tr><td>23</td><td>11</td><td>Mix</td><td>C-sect</td></tr><tr><td>24</td><td>2</td><td>Mix</td><td>Natural</td></tr><tr><td>25</td><td>1</td><td>Pure breast-feeding</td><td>Natural</td></tr><tr><td>26</td><td>2</td><td>Mix</td><td>Natural</td></tr><tr><td>27</td><td>7</td><td>Mix</td><td>Natural</td></tr><tr><td>28</td><td>4</td><td>Mix</td><td>C-sect</td></tr><tr><td>29</td><td>2</td><td>Pure breast-feeding</td><td>Natural</td></tr><tr><td>30</td><td>3</td><td>Mix</td><td>Natural</td></tr></table></body></html>
+
+C-sect: Caesarean section; Mix: Mix feeding
+
+# 1.2 方法
+
+1.2.1菌株的分离筛选30份样本新鲜采集后每份按固液比 $1 : 1 0 ( \mathrm { g / m L } )$ 比例加入无菌PBS处理，倍比稀释至$1 0 ^ { - 4 }$ 及 $1 0 ^ { - 5 }$ ，共60管。从含 $5 0 ~ \mathrm { m g / L }$ 初始浓度铅离子（醋酸铅)的固体培养基(MRS)开始培养， $3 7 ~ \mathrm { ^ { \circ } C }$ 恒温厌氧培养箱培养 $4 8 \mathrm { ~ h ~ }$ 后，仔细鉴别不同菌落的形态特点，随机挑取平板上不同单菌落接种于 $1 0 0 ~ \mathrm { { m g / L } }$ 铅离子的MRS培养基，分别培养 $4 8 \mathrm { ~ h ~ }$ ，将能继续生长的的单菌落按相同方法，依次接种于含 $1 5 0 , 2 0 0 ~ \mathrm { m g / L }$ 铅离子的MRS中,分别培养及多次分离纯化,对能耐受 $2 0 0 \mathrm { m g / L }$ 铅离子浓度的菌落进行涂片，革兰氏染色，并加入 $20 \%$ 甘油于 $- 8 0 \mathrm { { ^ { \circ } C } }$ 冻存[20]
+
+1.2.2分离菌株及标准菌株的MTC(最大金属耐受浓度)测定将1.2.1中筛选出来的耐铅菌株及ATCC7469接种于不含重金属离子的MRS平板，置于 $3 7 ~ \mathrm { ^ { \circ } C } ,$ 厌氧培养箱中培养， $4 8 \mathrm { ~ h ~ }$ 后挑取单菌落悬浮于 $1 ~ \mathrm { m L }$ 灭菌纯水中，以接种环取一环分别划线于浓度为50、100、150、$2 0 0 . 3 0 0 { \cdot } 4 0 0 . 5 0 0 \mathrm { m g / L }$ 的 $\mathbf { P b } ^ { 2 + } { + } \mathbf { M R S }$ 平板上继续培养，$4 8 \mathrm { ~ h ~ }$ 后观察菌株的生长情况并记录各菌株的金属最大耐受浓度。
+
+# 1.2.3所分离菌株的PCR鉴定
+
+1.2.3.1基因组DNA的提取根据MTC测定，对耐受$5 0 0 ~ \mathrm { { m g / L } }$ 铅离子浓度，且染色呈革兰氏阳性杆状、过氧化氢酶阴性的菌株增菌培养 $2 4 { \sim } 4 8 \mathrm { h }$ ,利用细菌基因组DNA试剂盒(TIANampBacteriaDNAKit)提取总核酸。1.2.3.2PCR扩增反应及16SrDNA鉴定利用乳酸菌16SrDNA的通用引物对提取的DNA进行PCR扩增。其正向引物27f序列为 $5 ^ { \prime }$ -AGAGTTTGATCCTGGCTCAG-3'，反向引物1492r序列为 $5 ^ { \prime }$ -GGTTACCTTGTTACGACTT-3'。引物由上海生工生物有限公司合成。反应体系 $2 0 \mu \mathrm { L }$ ,包括模板 $2 0 0 ~ \mathrm { n g }$ ,TaKaRaPremix TaqTM$1 0 ~ \mu \mathrm { L }$ ，正、反引物 $0 . 5 \ \mathrm { m m o l / L }$ $\mathrm { \ d d H _ { 2 } O }$ 补充。阴性对照模版以ddHO代替。PCR反应条件： $9 4 ^ { \circ } \mathrm { C } 5 \operatorname* { m i n } ; 9 4 ^ { \circ } \mathrm { C }$ $6 0 \mathrm { ~ s } , 6 0 \mathrm { ~ \textdegree ~ } 6 0 \mathrm { ~ s } , 7 2 \mathrm { ~ \textdegree ~ } 9 0 \mathrm { ~ s } , 3 0$ 个循环; $7 2 \mathrm { ~ \textdegree ~ { ~ C ~ } ~ } 1 0 \mathrm { ~ m i n }$ $4 \mathrm { { ^ circ C } }$ 保存。PCR产物经电泳后,送往上海生工生物有限公司测序，然后采用BLAST对结果进行16SrRNA比对，并用MEGA7.0构建系统发育树。
+
+# 1.2.4所分离菌株的益生特性鉴定
+
+1.2.4.1生理生化实验对筛选菌株进行生理生化特性鉴定，并与标准菌株ACTT7469对照。试验方法与步骤遵照《伯杰氏细菌鉴定手册》[21]
+
+1.2.4.2药敏试验采用琼脂扩散纸片法对上述耐铅菌株进行基本抗菌类药物(青霉素、头孢曲松、庆大霉素)的敏感性测定，以抑菌圈直径大小作为评判敏感与耐药的标准。
+
+1.2.4.3耐酸耐胆盐试验耐酸实验：分别配制pH值为2.0,3.0,4.0的人工胃液，待测菌株培养至对数生长后期，予PBS洗涤处理菌液浓度至 $1 0 ^ { 1 0 } \mathrm { c f u / m L }$ 。吸取菌悬液 $1 ~ \mathrm { m L }$ 接种于 $9 \mathrm { m L }$ 不同 $\mathrm { p H }$ 值的人工胃液中，厌氧箱$3 7 ~ \mathrm { ^ { \circ } C }$ 培养 $_ { 1 \sim 3 \mathrm { ~ h ~ } }$ ，倾注平板法测定其原始与培养后的活
+
+菌数。
+
+胆酸盐综合性试验(胆盐浓度 $0 . 3 \%$ )：取耐酸性筛选后菌株置于 $\mathrm { p H } 3 . 0$ 磷酸缓冲液中， $3 7 ^ { \circ } \mathrm { C } ,$ 厌氧培养 $2 \mathrm { h }$ 取 $1 ~ \mathrm { m L }$ 加入到 $9 \mathrm { m L }$ 胆盐浓度为 $0 . 3 \%$ 的溶液中， $3 7 \ \mathrm { { ^ { \circ } C } }$ 厌氧培养 $8 \textup { h }$ ,倾注平板法测定其原始与培养后的活菌数[20]。
+
+# 1.2.5吸附试验
+
+1.2.5.1 溶液配制分别配置 $1 \setminus 1 0 \setminus 5 0 \setminus 1 0 0 \mathrm { m g / L }$ 浓度的铅离子溶液多组,调节 $\mathrm { p H }$ 值为 $6 . 0 ^ { [ 2 2 - 2 3 ] }$ ,待测。
+
+1.2.5.2 菌体富集 将1.2.2中能耐受 $5 0 0 ~ \mathrm { { m g / L } }$ 铅离子浓度，且染色呈革兰氏阳性杆状、过氧化氢酶阴性的菌株以及标准菌株ATCC7469增菌培养 $2 4 \mathrm { h }$ ，稀释成OD值为1的菌悬液，平板计数法计数。
+
+1.2.5.3菌体预处理取 $1 \ \mathrm { m L } \ 1 . 2 . 5 . 2$ 的菌悬液离心（ $8 0 0 0 ~ \mathrm { r / m i n }$ ， $1 0 ~ \mathrm { { m i n } }$ )后收集菌体，分组加入铅溶液，调整最终菌体浓度为 $2 ~ \mathrm { g / L }$ ，置于 $3 7 \ \mathrm { { ^ circ C } }$ 摇床孵育 $2 \textrm { h }$ （20 $( 1 2 0 \mathrm { r / m i n } ) ^ { [ 2 2 - 2 3 ] }$ 。死菌组取等量菌体,煮沸1h后分组加人铅溶液[23]。
+
+1.2.5.4标本检测孵育后的标本离心 $\mathrm { 8 0 0 0 ~ r / m i n }$ ，$1 0 \mathrm { m i n } \dot { , }$ ,各组取上清液使用ICP-OES检测其中铅离子浓度。其检测分析条件为波长 $2 2 0 . 3 5 3 \mathrm { n m }$ ，等离子体流$1 5 \mathrm { L } / \mathrm { m i n }$ ，雾化气流速 $0 . 8 ~ \mathrm { L / m i n }$ ，辅助气流速 $0 . 2 \mathrm { L } / \mathrm { m i n }$ RF功率 $1 1 0 0 \mathrm { W }$ ,等离子体观测方向为轴向，进样流速$1 . 5 \mathrm { m L / m i n } _ { \odot }$
+
+# 1.2.5.5吸附率及吸附量的计算
+
+吸附量 $\mathrm { ( m g / g ) { : } Q _ { e } { = } ( C _ { o } { - } C _ { e } ) / m { \times } V }$ 吸附率 $( \% ) { : = } \mathrm { Q } _ { \mathrm { r } } { = } ( \mathrm { C } _ { \mathrm { o } } { - } \mathrm { C } _ { \mathrm { e } } ) / \mathrm { C } _ { \mathrm { o } } { \times } 1 0 0 \%$
+
+其中， $\mathrm { Q _ { e } }$ 代表吸附量 $\mathrm { ( m g / g ) }$ )；Q.代表吸附率 $( \% )$ ;Co代表铅离子初始浓度( $\mathrm { \ m g / L }$ ） $\mathbf { C } _ { \mathrm { e } }$ 为吸附后铅离子最终浓度 $\mathrm { m g / L }$ ） $\mathbf { m }$ 为菌株的质量 $( \mathbf { g } ) { \boldsymbol { \mathbf { \mathit { \sigma } } } } \mathbf { \mathit { \sigma } }$ 为溶液总体积 $\mathbf { ( L ) ^ { [ 2 4 ] } }$ 专
+
+# 1.3数据处理
+
+应用GraphPadprism7.02进行数据处理，计量数据以均数 $\cdot \pm$ 标准差表示，组间比较用 $\mathbf { \Phi } _ { t }$ 检验， $P { < } 0 . 0 5$ 为差异有显著意义。每组实验重复3次。
+
+# 2结果
+
+# 2.1耐铅菌株的筛选纯化
+
+30份粪便样品在初始浓度为 $5 0 ~ \mathrm { m g / L }$ 的 $\mathbf { M R S + P b ^ { 2 + } }$ 培养基上均有大量菌落生长，观察发现 ${ \mathrm { P b } } ^ { 2 + } { \mathrm { M T C } } \geq$ $2 0 0 ~ \mathrm { { m g / L } }$ 的单菌落为10个，提高 $\mathrm { P b } ^ { 2 + }$ 浓度后，得到3株$\mathrm { P b } ^ { \mathrm { 2 + } } \mathrm { M T C }$ 达到 $5 0 0 ~ \mathrm { { m g / L } }$ ,且生长良好的菌株(均来源于纯母乳喂养儿)，分别命名为SYF-B,SYF-E,SYF-I。而标准菌株ATCC7469则在 $\mathrm { P b } ^ { 2 + }$ 达到 $3 0 0 \mathrm { m g / L }$ 时生长受到抑制。
+
+# 2.2形态学观察结果
+
+对上述3株筛选菌株进行初步鉴定，观察可见菌落
+
+均呈乳白色,湿润,圆形凸起,边缘整齐,直径约 $1 { \sim } 2 ~ \mathrm { m m }$ 光镜下观察均为革兰阳性，杆状，无芽孢，与标准菌株
+
+ATCC7469染色性一致(图1)。
+
+![](images/ff965c621a1af6b424fe0763b2b5fb599a330f2afea57fcc8d927702376ff0d6.jpg)  
+图1耐铅菌株的革兰染色 Fig.1Gram staining results of the lead-resistant strains (Oil,original magnification: $\times 1 0 0$ ).A:SYF-B;B:SYF-E;C: SYF-I;D:ATCC7469.
+
+# 2.3耐铅菌株的鉴定
+
+对筛选的3株耐铅菌株提取基因组DNA，进行PCR扩增，目的位置可见清晰条带，如图2所示。
+
+![](images/8b2b03d138daf89f2fe786bb66a8432bc90dd50c82003e8571b8eeabf29fa6af.jpg)  
+图2菌株SYF-B,SYF-E,SYF-I的16SrDNA的PCR产物 Fig.2 Gel electrophoresis of PCR-amplified fragments.M: Marker; 0: Control; 1,2: SYF-B;3,4: SYF-El; 5,6: SYF-I.
+
+菌株SYF-B,SYF-E,SYF-I的PCR产物送上海生工生物技术有限公司测定16SrRNA序列,进行BLAST比对。结果表明3株菌株与干酪乳杆菌(Lactobacilluscasei)不同菌株的16SrRNA序列高度同源。分别达到$100 \%$ $9 9 \%$ 和 $100 \%$ (表2)。采用软件MEGA7.0中的Neighbor-joining法构建16SrRNA序列系统发育树,结果与BLAST分析一致。分离菌株和干酪乳杆菌菌株聚为一簇(图3),表明它们亲缘关系最近。结合菌落特征、细菌形态特征与16SrRNA序列分析结果，3株菌株均鉴定为干酪乳杆菌(Lactobacilluscasei)菌种。
+
+表2耐铅菌株的16SrRNA序列分析Tab.216S rRNA sequence analysis of lead-resistant strains  
+
+<html><body><table><tr><td>Strain</td><td>The closest strain</td><td>Query cover</td><td>Ident</td></tr><tr><td>SYF-B</td><td>Lactobacillus casei strain YLD6-2</td><td>99%</td><td>100%</td></tr><tr><td>SYF-E</td><td>Lactobacillus casei strain T20</td><td>97%</td><td>99%</td></tr><tr><td>SYF-I</td><td>Lactobacillus casei strain LI3</td><td>98%</td><td>100%</td></tr></table></body></html>
+
+# 2.4生理生化实验
+
+参照《伯杰氏系统细菌学手册》有关干酪乳杆菌的描述，进行生理生化试验，结果表明，3株菌均符合干酪乳杆菌的生物学特性，为干酪乳杆菌非鼠李糖亚种(表3)。
+
+# 2.5药敏试验结果
+
+试验显示3株耐铅菌株对庆大霉素均不敏感，对青霉素、头孢曲松均敏感，表明基础抗生素青霉素即可有效抑制其生长(图4)。
+
+![](images/7d92bc0edf49350adff4303657c81f44eab8188fa11384cbcf0a420656029656.jpg)  
+图33株耐铅菌株的系统发育树 Fig.3 Phylogenetic tree of the strains based on the 16S r RNA sequence.
+
+表3分离菌株的生理生化特征和糖发酵试验结果 Tab.3Physiological and biochemical property of these isolates   
+
+<html><body><table><tr><td>Test</td><td colspan="4">Strain</td></tr><tr><td></td><td>SYF-B</td><td>SYF-E</td><td>SYF-I</td><td>ACTT7469</td></tr><tr><td>Hydrogenperoxide test</td><td></td><td></td><td></td><td></td></tr><tr><td>Arginine hydrolysis</td><td></td><td></td><td></td><td></td></tr><tr><td>Hydrogen sulfide</td><td></td><td></td><td></td><td></td></tr><tr><td>Nitrate reduction test</td><td></td><td></td><td></td><td></td></tr><tr><td>Gelaune liquefaction</td><td></td><td></td><td></td><td></td></tr><tr><td>Growth temperature test 45 ℃</td><td></td><td></td><td></td><td>+</td></tr><tr><td>Gactose</td><td>+</td><td>+</td><td>+</td><td>+</td></tr><tr><td>Glucose product acid</td><td>+</td><td>+</td><td>+</td><td>+</td></tr><tr><td>Glucose aerogenesis</td><td></td><td></td><td>1</td><td></td></tr><tr><td>Maltose</td><td>+</td><td>+</td><td>+</td><td>+</td></tr><tr><td>Sucrose</td><td>+</td><td>+</td><td>+</td><td>+</td></tr><tr><td>Raffinose</td><td></td><td></td><td></td><td></td></tr><tr><td>Sorbitol</td><td>+</td><td>+</td><td>+</td><td>+</td></tr><tr><td>Mannitol</td><td>+</td><td>+</td><td>+</td><td>+</td></tr><tr><td>Cellobiose</td><td>+</td><td>+</td><td>+</td><td>+</td></tr><tr><td>Salicin</td><td>+</td><td>+</td><td>+</td><td>+</td></tr><tr><td>Esculin</td><td>+</td><td>+</td><td>+</td><td>+</td></tr><tr><td>Arabinose</td><td></td><td></td><td></td><td></td></tr><tr><td>Xylose</td><td></td><td></td><td></td><td></td></tr><tr><td>Rhamnose</td><td></td><td></td><td></td><td>+</td></tr></table></body></html>
+
+# 2.6人工胃液试验
+
+人体胃液pH值通常为2.0左右，随进食时间延长，逐渐下降至 $\mathrm { p H } 5 . 0$ 左右，胃排空时间一般为 $3 { \sim } 4 \ \mathrm { h } ^ { \left[ 2 5 \right] }$ 。
+
+因此要成为食源性的抗铅益生菌，应该具有较好的耐酸性。本实验结果显示3株耐铅菌株在酸性环境中耐受性良好(表4),在pH为3和4时，细菌持续生长，在pH为2.0时，经 $3 \mathrm { ~ h ~ }$ 仍保持 $1 0 ^ { 1 0 } \mathrm { { c f u / m L } }$ 数量级，表明所分离菌株可耐受胃酸。对胆盐的耐受能力为SYF-I>SYF-E>SYF-B，8h存活率可达 $6 2 . 5 \%$ （表5）。
+
+# 2.7吸附实验
+
+试验设置了不同浓度的铅离子初始浓度，结果显示，在低浓度( $\mathrm { { \Omega } _ { 1 \ m g / L } }$ 铅溶液中，所有菌株对铅的吸附率均较高，约 $8 3 . 2 \% { \sim } 9 6 . 7 \%$ ，死菌和活菌的吸附能力差别不大。当初始铅离子浓度逐渐增加时，各菌株对铅的吸附逐渐达到饱和，吸附率逐渐降低，但吸附量逐渐上升,与文献报道一致[23]。在 $\mathrm { p H } 6 . 0$ ，菌体浓度 $2 \mathrm { g } / \mathrm { L }$ ,铅离子浓度 $5 0 \mathrm { m g / L }$ 条件下,3株分离菌株对铅的吸附率都能达到 $6 0 \%$ 以上，其中SYF-I死菌吸附能力远远高于活菌；SYF-E无论死菌或活菌吸附能力均中等(图5）。LGG死菌的吸附率非常高，可达 $9 1 . 1 7 \%$ ，但其活菌吸附能力不及SYF-B( $8 6 . 2 7 \%$ ，图6。
+
+# 3讨论
+
+寻找食品安全级别(GRAS)且能耐受重金属的微生物,是膳食防治铅中毒计划的第一步。许多环境治理方面研究发现微生物对重金属的超高吸附作用，但标本多来源于受污染的土壤，水源及植物，若作为去除重金属的吸附剂添加到食品中，则可能引发一系列安全问题[26]。新生儿生后7\~10d左右，肠道内双歧杆菌及乳杆菌的比例达到一个增长高峰，占全肠道菌群的 $90 \%$ 以上，且此时的粪便中致病菌种类少且菌株单一，鲜有耐药菌，环境驯化可能产生的变异少，有助于进一步分离纯化出需求益生菌[6.27-28],上述特点促使本研究采用新生儿粪便标本作为筛选食品安全级益生菌的样本。
+
+![](images/5d4791d170dd5975629774a14d0e7ee3b79aa7cd637dadadeffce045a52b4355.jpg)  
+图4药敏试验结果 Fig.4Results of drug sensitivity test.1: PG; 2: Ceftriaxone; 3: Gentamicin.
+
+表4耐铅菌株对人工胃液的耐受性 Tab.4 Tolerance of lead-resistant strains of artificial gastric juice (Colony count, $1 0 ^ { 1 0 } \mathrm { c f u / m L }$   
+
+<html><body><table><tr><td rowspan="2">Time</td><td colspan="3">SYF-Ba</td><td colspan="3">SYF-E</td><td colspan="3">SYF-I</td></tr><tr><td>PH2b</td><td>PH3</td><td>PH4</td><td>PH2</td><td>PH3</td><td>PH4</td><td>PH2</td><td>PH3</td><td>PH4</td></tr><tr><td>0 h</td><td>10.52±0.02d</td><td>10.52±0.02</td><td>10.52±0.02</td><td>10.45±0.06</td><td>10.45±0.06</td><td>10.45±0.06</td><td>10.22±0.04</td><td>10.22±0.04</td><td>10.22±0.04</td></tr><tr><td>1h</td><td>10.38±0.16</td><td>10.72±0.32</td><td>11.19±0.05</td><td>10.32±0.20</td><td>10.65±0.30</td><td>10.89±0.06</td><td>10.19±0.11</td><td>11.31±0.35</td><td>11.50±0.10</td></tr><tr><td>2h</td><td>10.15±0.12</td><td>11.28±0.14</td><td>12.31±0.33</td><td>10.28±0.19</td><td>11.11±0.17</td><td>11.31±0.10</td><td>10.31±0.24</td><td>11.60±0.23</td><td>13.10±0.19</td></tr><tr><td>3h</td><td>10.13±0.21</td><td>10.52±0.01</td><td>14.25±0.08</td><td>10.17±0.15</td><td>12.01±0.34</td><td>13.40±0.25</td><td>10.25±0.28</td><td>12.50±0.15</td><td>15.10±0.25</td></tr></table></body></html>
+
+a: The nameof thelead-resistant train;b:PHvalue ofartificial gastricjuice;c: Culturetime;d: Incubate plate aftercounting
+
+# 表5耐铅菌株在 $\mathrm { p H } 3 . 0$ 胆盐 $0 . 3 \%$ 条件下的存活率
+
+Tab.5 Survival rate of lead-resistant strains exposed to $0 . 3 \%$ bile salt (pH3.0)   
+
+<html><body><table><tr><td rowspan="2">Strain</td><td colspan="2">Colony count (10l cfu/mL)</td><td rowspan="2">Survival rate (%)</td></tr><tr><td>0h</td><td>8h</td></tr><tr><td>SYF-B</td><td>9.93±0.04</td><td>3.65±0.09</td><td>36.8</td></tr><tr><td>SYF-E</td><td>10.04±0.31</td><td>4.88±0.19</td><td>48.6</td></tr><tr><td>SYF-I</td><td>10.17±0.24</td><td>6.36±0.18</td><td>62.5</td></tr></table></body></html>
+
+SYF-B、SYF-E、SYF-I3株人源性乳酸菌经传统与PCR方法鉴定为十酪乳杆菌菌株，十酪乳杆菌是一种常见益生菌，本身具有降低胆固醇，诱导其自身产生抗菌素，促进细胞分裂及产生抗体免疫等多种功能。本研究分离的菌株来自健康的新生儿粪便，可耐受 $5 0 0 ~ \mathrm { { m g / L } }$ 铅离子浓度，已知儿童血铅 $1 0 0 \mu \mathrm { g / L }$ 即达到社会干预水平[29],本实验的铅抗性菌株完全满足膳食预防的研发需求，且显示出以下益生特性：(1)该组菌株来源于新生儿肠道，且能良好地适应人工模拟人体消化环境，耐酸耐胆盐试验显示 $\mathrm { p H } 2 . 0$ 环境下培养 $3 \mathrm { ~ h ~ }$ ，菌落计数仍然在$1 0 ^ { 1 0 } \mathrm { { c f u / m L } }$ 以上， $0 . 3 \%$ 的胆盐环境 $8 \mathrm { ~ h ~ }$ 存活率可达$6 2 . 5 \%$ ,优于其他研究者人源性乳酸菌的报道[30]；(2)药敏试验显示基础抗生素青霉素即可有效抑制3株菌株的生长，保障了其在孕妇或儿童中应用的可控性；(3)
+
+![](images/062894d4800846a5e5dfd98799afa50477398ffd58598cee25d4e077d75449cc.jpg)  
+图5不同菌株对 $5 0 \mathrm { m g / L }$ 铅溶液的吸附率比较 Fig.5 Comparison of adsorption rates of different strains in $5 0 \mathrm { m g / L }$ lead solution. $^ { * } P { < } 0 . 0 0 0 1$
+
+具备较好的吸附能力。在同标准菌株ATCC7469以及经典菌株LGG的对比中，发现菌株SYF-B的吸附能力较为突出，其活菌的吸附能力在 $5 0 \mathrm { m g / L }$ 的铅浓度下甚至优于LGG。在Halttunen等[的研究中，干酪乳杆菌经典菌株代田株对铅也具备一定的吸附能力，但根据其函数增长换算的值，其活菌的吸附率低于SYF-B,益生菌活性的保障将利于其多种功能的发挥。同时，死菌的吸附能力也提示相关菌株可作为面向免疫力低下人群的铅解毒剂，如住院期间需多次血液治疗，可能引发铅蓄积的早产儿[31,SYF-I的特点则符合这一方面的应用。
+
+因此，SYF-B、SYF-E及SYF-I3株干酪乳杆菌具备作为孕妇儿童重金属解毒剂的潜在价值，远期可进一步研究其肠道粘附性、有益代谢产物及体内铅吸附能力，最终为利用膳食策略缓解孕妇儿童铅中毒效应开辟出新的途径和解决方案。
+
+![](images/1d1272a7111cbbf5db392ffef5706249f66e2c48e09956608d11b21a67592db5.jpg)  
+图6不同初始铅离子质量浓度对 $\mathrm { P b } ^ { 2 + }$ 的去除率的影响Fig.6 Effects of different initial lead concentrations on $\mathrm { P b } ^ { 2 + }$ removal. $^ { * } P { < } 0 . 0 0 0 1$
+
+# 参考文献：
+
+[1］陈欣欣,滕红红,王凤芝,等.北京市0\~6岁儿童血铅水平与相关影响 因素的研究[J].中华流行病学杂志,2003,24(10):868-71.   
+[2]Ozkiraz Servet,Gokmen Zeynel,Ecevit Ayse,et al. Vestibular evoked myogenic potentials in term newborn infants with severe hyperbilirubinemia[J].Pediatr Int,2012,54(5): 646-50.   
+[3]Porru S,Alessio L.The use of chelating agents in occupational Lead poisoning[J]. Occup Med (Lond),1996,46(1): 41-8.,   
+[4]Aposhian V,Maiorino M, Gonzalez-Ramirez D,et al. Mobilization of heavy metals by newer,therapeutically useful chelating agents [J].Toxicology,1995,97(1/3): 23-38.,   
+[5]Lidsky I,Schneider S.Lead neurotoxicity in children:basic mechanisms and clinical correlates[J].Brain,2003,126(Pt 1): 5-19.   
+[6]Thomas DW,Greer FR,Nutr C.Clinical Report-Probiotics and prebiotics in pediatrics[J].Pediatrics,2010,126(6):1217-31.   
+[7]Frye E,Rose Shannon，Slattery John，et al.Gastrointestinal dysfunction in autism spectrum disorder: the role of the mitochondria and the enteric microbiome[J].Microb Ecol Health Dis,2015,26(7): 27458.,   
+[8]Kirtzalidou E,Pramateftaki P,Kotsou M,et al. Screening for lactobacilli with probiotic properties in the infant gut microbiota[J]. Anaerobe,2011,17(6): 440-3.   
+[9］国家药典委员会.中华人民共和国药典[M].北京:化学工业出版社, 2009.   
+[10] Jankovic I, Sybesma W,Phothirath P,et al. Application of probiotics in food products--challenges and new approaches [J]. Curr Opin Biotechnol,2010,21(2): 175-81.   
+[11] Rijkers GT,Bengmark S,Enck P,et al. Guidance for substantiating the evidence for beneficial effects of probiotics:current status and recommendations for future research[J].JNutr,2O1o,140(3): 671S-6S.   
+[12] Topcu A,Bulat T. Removal of Cadmium and lead from aqueous solution by Enterococcus faecium strains[J].JFood Sci,201o,75(1): T13-7.   
+[13] Bhakta N, Ohnishi K, Munekage Y,et al. Characterization of lactic acid bacteria-based probiotics as potential heavy metal sorbents[J]. JAppl Microbiol, 2012,112(6): 1193-206.   
+[14]王建龙,陈 灿.生物吸附法去除重金属离子的研究进展[J].环境科学 学报,2010,30(4): 673-701.   
+[15]Urban PL,Kuthan RT.Application of probiotics in the xenobiotic detoxification therapy[J].Nukleonika,2004,49(1): S43-5.   
+[16]Taibi Amel, Comelli M. Practical approaches to probiotics use[J]. Appl Physiol Nutr Metab,2014,39(8): 980-6.   
+[17]Neltner G,Alger M,O'reilly T,et al.Conflicts of interest in approvalsof additives to food determined to be generally recognized as safe: out of balance[J]. JAMA Intern Med,2013,173 (22): 2032-6.   
+[18] De Lacerda JR,Da Silva TF, Vollu RE,et al. Generally recognized as safe (GRAS) Lactococcus lactis strains associated with Lippia sidoides Cham.are able to solubilize/mineralize phosphate [J]. Springerplus,2016,5(1): 828.   
+[19]Bisanz E,Enos K,Mwanga R,et al. Randomized open-label pilot study of the influence of probiotics and the gut microbiome on toxic metal levels in Tanzanian pregnant women and school children [J].MBio,2014,5(5): e01514-80.   
+[20]于景华.健康人肠道益生菌的分离、筛选、功能特性及应用研究[D]. 北京:中国农业大学,2006.   
+[21]Blakemore RP,Blakemore NA,Bazylinski DA,et a1. Berjey'S manual of systematic bacteriology[M].Baltimore MD:Williams and Wilkins. 1989.   
+[22]于上富,徐 敏,丁秀云,等.一株乳酸菌吸附 $\mathrm { P b } ^ { 2 \cdot }$ 的条件优化[J].中国 酿造,2016,35(2):109-14.   
+[23] Halttunen T, Salminen S,Tahvonen R. Rapid removal of lead and cadmium from water by specific lactic acid bacteria[J].Int JFood Microbiol,2007,114(1): 30-5.   
+[24]倪奕弘.耐受重金属铜的乳酸菌的筛选及其铜结合性能的研究[D]. 广州:暨南大学,2014.   
+[25]Hofmann AF.The enterohepatic circulation of bile acids in man [M]. Philadelphia: Saunders,1977: 3-24.   
+[26]Mrvcic Jasna, Stanzer Damir, Solic Ema, et al. Interaction of lactic acid bacteria with metal ions:opportunities for improving food safety and quality[J].WorldJMicrobiol Biotechnol,2012,28(9): 2771-82.   
+[27]Amara A,Shibl A.Role of probiotics in health improvement, infection control and disease treatment and management[J]. Saudi Pharm J,2015,23(2): 107-14.   
+[28]刘 萍,郭珍红,董丽娜,等.实时荧光定量PCR法研究不同年龄段健 康人群肠道菌群特点[J].中国临床实用医学,2016,7(1):24-7.   
+[29]儿童高铅血症和铅中毒分级和处理原则.中华人民共和国卫生部卫 妇社发[Z],2006.   
+[30]陈 欣,潘素华,胡黎黎,等.人源乳酸杆菌耐酸耐胆盐能力的测定和鉴 定[J].现代预防医学,2006,33(3):278-9.   
+[31]Atkinson M, Budge H. Review of the nice guidance on neonatal jaundice[J].Arch Dis Child Educ PractEd,2011,96(4): 136-40.   
+[32]Tian Fengwei,Zhai Qixiao,Zhao Jianxin,et al.Lactobacillus plantarum CCFM8661 alleviates Lead toxicity in mice[J].Biol Trace Elem Res,2012,150(1/3): 264-71.
+
+(编辑：孙昌朋)

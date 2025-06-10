@@ -1,0 +1,215 @@
+发酵蚕蛹豆粕粉替换鱼粉对断奶仔猪生长性能、血清生化指标及器官指数的影响邝哲师黄静黄光琳 赵祥杰 罗国庆 潘木水(广东省农业科学院蚕业与农产品加工研究所，广州 510610)
+
+摘要：本试验旨在研究发酵蚕蛹豆粕粉替换鱼粉对断奶仔猪生长性能、血清生化指标及器官指数的影响，及确定其适宜的替换水平。选用120 头（ $ { 2 8 \pm 1 } )$ 日龄断奶、初始体重为（7.64$\pm 0 . 6 7$ ） $\mathbf { k g }$ 的健康"杜 $\times$ 长 $\times$ 大"三元杂交仔猪，分为4组，每组3个重复，每个重复10头猪。对照组饲喂基础饲粮，3个试验组分别用发酵蚕蛹豆粕粉替换基础饲粮中 $2 5 \%$ 、 $5 0 \%$ 、 $100 \%$ 的鱼粉。预试期 $3 \mathrm { d }$ ，正试期 $2 1 \mathrm { d }$ 。结果表明：1）各组试验全期平均日增重、平均日采食量（ADFI)、料重比均差异不显著（ $. P { > } 0 . 0 5 \ '$ )，但对照组第1 周 ADFI 显著高于 $2 5 \%$ 替换组（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ， $5 0 \%$ 、 $100 \%$ 替换组第2周ADFI显著高于 $2 5 \%$ 替换组（ $P { < } 0 . 0 5$ 。2) $2 5 \%$ 替换组血清总胆固醇含量显著高于对照组（ $P { < } 0 . 0 5 \$ ， $2 5 \%$ 替换组血清高密度脂蛋白胆固醇含量显著高于对照组和 $5 0 \%$ 替换组 （ $P { < } 0 . 0 5 )$ ， $2 5 \%$ 替换组血清载脂蛋白B含量显著高于 $50 \%$ 替换组 （ $_ { . P < 0 . 0 5 ) }$ ，对照组血清总蛋白含量显著高于 $5 0 \%$ 替换组和 $100 \%$ 替换组 ( $. P { < } 0 . 0 5$ 。3)各组腹泻率、器官指数、血清免疫球蛋白含量均差异不显著（ $. P { > } 0 . 0 5$ )。综合各项指标，发酵蚕蛹豆粕粉可替代饲粮中 $2 5 \%$ 的鱼粉，而不影响断奶仔猪的生长性能。
+
+关键词：发酵蚕蛹豆粕粉；断奶仔猪；生长性能；血清生化指标；器官指数中图分类号：S828 文献标识码： 文章编号：
+
+蚕蛹是巢丝工业的副产物，其除具有 $5 0 \%$ 以上的粗蛋白质、约 $20 \%$ 以不饱和脂肪酸为主的粗脂肪外，还富含维生素、多糖、抗菌肽、溶菌酶等多种生物活性成分，具有提高免疫、降血糖、降血压、保肝、抗肿瘤、促进伤口愈合等功效[I-2]，近年来，已将蚕蛹应用到畜禽、水产以及皮毛用动物的养殖中，并取得了良好的饲用效果。Ji等指出，蚕蛹蛋白粉可替代鲤鱼苗饲料中 $5 0 \%$ 的鱼粉，而对其生长性能无显著影响。Rangacharyulu 等[4]研究表明，利用发酵蚕蛹蛋白粉完全替代鱼粉饲喂鲤鱼，可显著提高鱼的成活率和产量。Qadri 等[5]也指出，蚕蛹蛋白粉可以替代肉鸡饲粮中的鱼粉，而不影响其生长性能。但蚕蛹自身分泌以及储运过程中会产生强烈的异味物质，动物摄食后在肉品中有异味残留，且其含量丰富的甲壳素也难以被动物消化吸收，因此，将蚕蛹直接添加到动物饲粮中影响其饲用效价，对此，本研究团队长期开展了蚕蛹固态发酵技术研究，解决了蚕蛹携带异味及难以消化吸收的问题，生产的发酵蚕蛹豆粕粉已在水貂养殖和水产养殖上取得了良好的饲用效果。因此，本研究进一步将发酵蚕蛹豆粕粉应用到断奶仔猪饲粮上，通过对断奶仔猪生长性能、器官指数及血清生化指标的考察，来评价发酵蚕蛹豆粕粉是否能替代价格昂贵的鱼粉应用到断奶仔猪饲粮，为新型蛋白质饲料源的开发及蚕蛹高值饲料化利用提供一条新途径。
+
+# 1材料与方法
+
+# 1.1 试验材料
+
+发酵蚕蛹豆粕粉是以蚕蛹粉和豆粕按3:2的比例，添加 $0 . 6 \%$ 糖蜜、 $0 . 3 \%$ 硫酸铵、 $0 . 0 3 \%$ 磷酸二氢钾补足营养成分，并以 $5 \%$ 的总接种量接入酿酒酵母、乳酸杆菌、枯草芽孢杆菌（比例为1:1:2)，调整物料湿度在 $50 \%$ 左右，( $3 2 { \pm } 2$ ） $\mathrm { { } ^ { \circ } C }$ 下培养 $5 6 \mathrm { h }$ 后， $1 0 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 烘干粉碎制得，其主要营养成分的实测值为：粗蛋白质 $5 1 . 6 0 \%$ ，粗脂肪 $2 0 . 7 5 \%$ ，粗纤维 $2 . 4 6 \%$ ，粗灰分 $5 . 4 4 \%$ ，钙 $0 . 2 7 \%$ ，总磷 $1 . 4 4 \%$ ，赖氨酸 $2 . 4 3 \%$ ，蛋氨酸 $1 . 1 7 \%$ ，总氨基酸 $4 4 . 8 4 \%$ 0
+
+# 1.2 试验设计与饲粮组成
+
+试验选用120头（ $2 8 \pm 1$ ）日龄断奶、初始体重为（ $( 7 . 6 4 \pm 0 . 6 7$ ） $\mathrm { k g }$ 的健康“杜 $\times$ 长 $\times$ 大”三元杂交仔猪，按组间体重、性别比例一致的原则分为4组，每组3个重复，每个重复10 头猪。对照组饲喂基础饲粮，3个试验组分别用发酵蚕蛹豆粕粉替换基础饲粮中 $2 5 \%$ 、$5 0 \%$ 、 $100 \%$ 的鱼粉。饲粮参照NRC（1998）《仔猪饲养标准》配制，试验饲粮均为粉料，饲粮组成及营养水平见表1。预试期3d，正试期 $2 1 \mathrm { d }$
+
+表1饲粮组成及营养水平 (风干基础)  
+Table 1Composition and nutrient levels of diets (air-dry basis)   
+
+<html><body><table><tr><td>项目Items</td><td>对照组</td><td>替换水平 Replacement level/%</td><td></td><td></td></tr><tr><td>原料Ingredients</td><td>Control group</td><td>25</td><td>50</td><td>100</td></tr><tr><td></td><td>39.00</td><td>38.40</td><td>37.80</td><td>36.50</td></tr><tr><td>膨化玉米 Extruded corn 玉米Corn</td><td>21.40</td><td>21.40</td><td>21.40</td><td>21.40</td></tr><tr><td>乳清粉Whey powder</td><td>3.20</td><td>3.20</td><td>3.20</td><td>3.20</td></tr><tr><td>膨化大豆 Extruded soybean meal</td><td>7.90</td><td>7.90</td><td>7.90</td><td>7.90</td></tr><tr><td>豆粕Soybean meal</td><td>17.60</td><td>18.10</td><td>18.50</td><td>19.40</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>鱼粉Fish meal</td><td>4.00</td><td>3.00</td><td>2.00</td><td></td></tr></table></body></html>
+
+%
+
+<html><body><table><tr><td>发酵蚕蛹豆粕粉</td><td></td><td>1.00</td><td>2.00</td><td>4.00</td></tr><tr><td>Fermented silkworm pupa and soybean meal</td><td></td><td></td><td></td><td></td></tr><tr><td>蔗糖 Cane sugar</td><td>2.10</td><td>2.10</td><td>2.10</td><td>2.10</td></tr><tr><td>预混料 Premix1)</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>豆油 Soybean oil</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>食盐 NaCl</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td></tr><tr><td>L-赖氨酸盐酸盐 L-Lys·HCl</td><td>0.10</td><td>0.10</td><td>0.20</td><td>0.20</td></tr><tr><td>石粉 Limestone</td><td>0.70</td><td>0.80</td><td>0.80</td><td>0.90</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>0.60</td><td>0.70</td><td>0.80</td><td>0.90</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td><td></td></tr><tr><td>粗蛋白质 CP</td><td>19.00</td><td>19.00</td><td>19.00</td><td>19.00</td></tr><tr><td>消化能 DE/(MJ/kg)</td><td>13.92</td><td>13.92</td><td>13.92</td><td>13.92</td></tr><tr><td>赖氨酸Lys</td><td>1.16</td><td>1.16</td><td>1.16</td><td>1.16</td></tr><tr><td>蛋氨酸Met</td><td>0.32</td><td>0.32</td><td>0.32</td><td>0.32</td></tr><tr><td>色氨酸Trp</td><td>0.22</td><td>0.22</td><td>0.22</td><td>0.22</td></tr><tr><td>苏氨酸 Thr</td><td>0.74</td><td>0.74</td><td>0.74</td><td>0.74</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.61</td><td>0.61</td><td>0.61</td><td>0.61</td></tr><tr><td>钙Ca</td><td>0.74</td><td>0.74</td><td>0.74</td><td>0.74</td></tr><tr><td>总磷TP</td><td>0.58</td><td>0.58</td><td>0.58</td><td>0.58</td></tr></table></body></html>
+
+1)预混料为每千克饲粮提供 The premix provided the following per $\mathrm { k g }$ of diets:VA 4000 IU,VD3 300 IU,VE20 IU,VK3 1.0 mg,VBl 1.0 mg,VB2 4.0 mg,VB32.0 mg,VB1218 mg,烟酸 niacin $1 5 \mathrm { m g } .$ 泛酸 pantothenate $1 0 \mathrm { m g }$ 叶酸 folic acid $0 . 3 ~ \mathrm { m g } .$ 生物素biotin $0 . 0 5 ~ \mathrm { m g }$ 氯化胆碱choline chloride $5 0 0 ~ \mathrm { m g }$ ,Fe 108 mg,Cu 5 mg,Zn 150mg,Mn 4 mg,Mg 100 mg,K 500 mg,I 0.1 mg,Se 0.3 mg。
+
+2)营养水平均为计算值。Nutrient levels were all calculated values.
+
+# 1.3 饲养管理
+
+试验由专人管理，日喂5次，即每天08:00、11:00、14:30、17:30、21:00 各喂料1次，自由采食、饮水，以第2天早上喂料前食槽内略剩料为宜。每天观察每头猪的精神情况及采食情况，每天记录每个重复的日采食量及腹泻频次。试验期间按照猪场的常规饲养方法和免疫程序进行管理。
+
+# 1.4 指标测定及方法
+
+# 1.4.1 生长性能的测定
+
+正式试验开始前和结束时分别在清晨空腹各栏逐头称重，记录始、末体重，以栏（重复)为单位记录采食量，计算平均日增重（ADG）、平均日采食量（ADFI）、料重比（F/G)。
+
+# 1.4.2 腹泻率的测定
+
+试验期间每天定时逐头检查仔猪肛门，以粪样呈糊状或水样并明显粘于仔猪肛门外为准，并且观察肛门是否红肿，做好记录，并按每栏内腹泻仔猪头数占栏内仔猪总头数的百分比计算腹泻率。
+
+腹泻率（%） $\scriptstyle = [$ 每重复仔猪总腹泻头数/（仔猪总数 $\times$ 试验天数） $\mathrm { ] } \times \mathrm { 1 0 0 }$ 。
+
+# 1.4.3 血清生化指标的测定
+
+试验结束后，每个重复选取接近平均体重的仔猪各1头，每组3头，前腔静脉采血 $1 0 ~ \mathrm { m L }$ 常温静置至析出血清后， $1 0 0 0 0 \mathrm { r / m i n }$ 、4℃离心 $1 \mathrm { m i n }$ ，取上清分装后-20℃保存，使用全自动血液生化分析仪测定血清丙氨酸氨基转移酶(ALT)、天门冬氨酸氨基转移酶(AST)、碱性磷酸酶(ALP)、乳酸脱氢酶(LDH)活性及总胆固醇(TC)、甘油三脂(TG)、高密度脂蛋白胆固醇(HDL-C)、低密度脂蛋白胆醇固(LDL-C)、载脂蛋白A1(ApoA1)、载脂蛋白 B(ApoB)、总蛋白(TP)、白蛋白(ALB)、前白蛋白(Pa)、视黄醇结合蛋白(RBP)、游离脂肪酸(FFA)、尿素(UREA)、肌酐(CREA)、三碘甲状腺原氨酸 $( \mathrm { T } _ { 3 } )$ 、四碘甲状腺原氨酸(T4)含量。使用免疫球蛋白G（IgG）、免疫球蛋白M（IgM）试剂盒测定血清IgG、IgM含量。
+
+# 1.4.4 器官指数的测定
+
+试验结束屠宰仔猪，前腔静脉采血后放血处死，打开腹腔取出胸腺、脾脏，剥离附在其上的脂肪，去除结缔组织，取出心脏、肝脏、肾脏并吸干血液，立即称重记录。
+
+器官指数（g/kg） $\ O =$ 器官重（g）/体重 $( \mathbf { k g } )$ 。
+
+# 1.5 数据处理与分析
+
+试验数据用 Excel2007进行整理，采用 SPSS17.0软件进行差异显著性分析，LSD 法和S-N-K法进行多重性比较，结果以平均值 $\pm$ 标准差表示。 $P { < } 0 . 0 5$ 为显著性检验标准。
+
+# 2结果与分析
+
+2.1发酵蚕蛹豆粕粉替换鱼粉对断奶仔猪生长性能的影响
+
+由表2可知，各组断奶仔猪的初重、末重、ADG、ADFI、F/G 均差异不显著（ $( P { > } 0 . 0 5 )$ ，但对照组断奶仔猪第1周ADFI显著高于 $2 5 \%$ 替换组 ( $_ { . P < 0 . 0 5 ) }$ ，与 $2 5 \%$ 、 $100 \%$ 替换组没有显著差异( $( P { > } 0 . 0 5 )$ 。各试验组断奶仔猪第2周和第3周ADFI与对照组差异不显著( $( P { > } 0 . 0 5 )$ ，
+
+但 $5 0 \%$ 、 $100 \%$ 替换组断奶仔猪第2周ADFI显著高于 $2 5 \%$ 替换组 ( $. P { < } 0 . 0 5 )$ 。
+
+# 表2发酵蚕蛹豆粕粉替换鱼粉对断奶仔猪生长性能的影响
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td>对照组</td><td colspan="3">替换水平Replacementlevel/%</td></tr><tr><td>Control group</td><td>25</td><td>50</td><td>100</td></tr><tr><td>初重 Initial weight/kg</td><td>7.59±0.52</td><td>7.48±0.37</td><td>7.73±0.13</td><td>7.75±0.68</td></tr><tr><td>末重Final weight/kg</td><td>14.38±0.39</td><td>13.54±0.40</td><td>13.77±0.47</td><td>14.46±3.99</td></tr><tr><td>平均日增重 ADG/(g/d)</td><td>323.57±13.93</td><td>293.91±11.38</td><td></td><td>287.78±17.59 319.42±160.03</td></tr><tr><td>平均日采食量 ADFI/(g/d)</td><td></td><td>458.64±19.68 426.38±20.10</td><td>446.80±5.99</td><td>443.43±68.22</td></tr><tr><td>料重比F/G</td><td>1.418±0.031</td><td>1.483±0.068</td><td>1.556±0.084</td><td>1.599±0.644</td></tr><tr><td>第一周平均日采食量 The first week ADFI/(g/d)</td><td></td><td></td><td></td><td>262.14±9.87a 222.22±21.27b 251.96±32.70ab 254.14±49.72ab</td></tr><tr><td>第二周平均日采食量 The second week ADFI/(g/d)483.45±28.42ab 447.74±27.58b 488.99±33.27a 483.71±42.38a</td><td></td><td></td><td></td><td></td></tr><tr><td>第三周平均日采食量 The third week ADFI/(g/d)</td><td>630.33±39.25</td><td>599.15±9.23</td><td></td><td>599.45±43.58592.45±113.69</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $_ { . P < 0 . 0 5 } )$ ，肩标相同字母或无字母表示差异不显著 （ $. P { > } 0 . 0 5 \$ )。下表同。
+
+In the same row, values with different small letter superscripts mean significant difference （204号 $( P { < } 0 . 0 5 )$ ，while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ： The same as below.
+
+Table 2Effects of replacement of fish meal by fermented silkworm pupa and soybean meal on growth performance of weaned piglets   
+
+<html><body><table><tr><td>项目Items</td><td>对照组</td><td colspan="3">替换水平 Replacement level/%</td></tr><tr><td></td><td>Control group</td><td>25</td><td>50</td><td>100</td></tr><tr><td>第一周 The first week</td><td>3.21±2.83</td><td>7.72±2.53</td><td>2.98±5.15</td><td>4.47±0.50</td></tr></table></body></html>
+
+# 2.2发酵蚕蛹豆粕粉替换鱼粉对断奶仔猪腹泻率的影响
+
+由表3可知，断奶仔猪第1周腹泻率在数值上明显高于第2周和第3周，各组间第1周、第2周、第3周及全期21d腹泻率差异不显著（ $( P { > } 0 . 0 5 )$ 。
+
+# 表3发酵蚕蛹豆粕粉替换鱼粉对断奶仔猪腹泻率的影响
+
+Table 3Effects of replacement of fish meal by fermented silkworm pupa and soybean meal on diarrhea rate of weaned piglets
+
+<html><body><table><tr><td>第二周 The second week</td><td>1.07±0.94</td><td>1.13±1.01</td><td>1.55±1.44</td><td>1.76±0.56</td></tr><tr><td>第三周 The third week</td><td>1.19±2.06</td><td>2.38±4.12</td><td>2.62±2.30</td><td>1.49±1.60</td></tr><tr><td>全期21 d Whole period 21 days</td><td>1.82±1.79</td><td>3.74±2.32</td><td>2.38±2.38</td><td>2.57±0.53</td></tr></table></body></html>
+
+2.3发酵蚕蛹豆粕粉替换鱼粉对断奶仔猪血清生化指标的影响
+
+2.3.1发酵蚕蛹豆粕粉替换鱼粉对断奶仔猪血清生化酶活性的影响
+
+由表4可知，各试验组血清ALT、AST、ALP、LDH活性与对照组没有显著差异( $( P { > } 0 . 0 5 )$ ，但 $5 0 \%$ 替换组血清 ALT、AST、ALP、LDH 活性较对照组明显提高。
+
+表4发酵蚕蛹豆粕粉替换鱼粉对断奶仔猪血清生化酶活性的影响
+
+Table 4Effects of replacement of fish meal by fermented silkworm pupa and soybean meal on serum biochemical enzyme activities of weaned piglets U/L   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td>对照组</td><td colspan="3">替换水平 Replacement level/%</td></tr><tr><td>Control group</td><td>25</td><td>50</td><td>100</td></tr><tr><td>谷丙转氨酶 ALT</td><td>105.5±24.7</td><td>134.0±9.9</td><td>157.0±17.0</td><td>134.5±50.2</td></tr><tr><td>谷草转氨酶 AST</td><td>108.5±27.6</td><td>108.5±3.5</td><td>155.0±55.2</td><td>75.0±19.8</td></tr><tr><td>碱性磷酸酶 ALP</td><td>361.5±4.9</td><td>330.5±137.9</td><td>466.0±219.2</td><td>327.5±38.9</td></tr><tr><td>乳酸脱氢酶LDH</td><td>1 105.5±328.8</td><td>1034.0±83.4</td><td>1 394.0±315.4</td><td>1 012.0±289.9</td></tr></table></body></html>
+
+2.3.2发酵蚕蛹豆粕粉替换鱼粉对断奶仔猪血清脂质及载脂蛋白含量的影响
+
+由表5可知，由于宰前饥饿，仔猪体内合成分泌的载脂蛋白少， $2 5 \%$ 替换组的血清 ApoB含量显著高于 $5 0 \%$ 替换组（ $P { < } 0 . 0 5$ ）；各组的血清 TG、LDL-C 和 ApoA1含量差异不显著（ $P { > } 0 . 0 5$ ）； $2 5 \%$ 替换组的血清TC含量显著高于对照组（ $\scriptstyle P < 0 . 0 5 .$ ），与其他2个组差异不显著( $( P { > } 0 . 0 5 ^ { } $ ； $2 5 \%$ 替换组的血清HDL-C含量显著高于替换 $5 0 \%$ 鱼粉组和对照组( $_ { . P < 0 . 0 5 ) }$ ，对照组和 $100 \%$ 替换组间差异不显著（ $_ { \cdot \cdot P > 0 . 0 5 }$ ）。
+
+表5发酵蚕蛹豆粕粉替换鱼粉对断奶仔猪血清脂质及载脂蛋白含量的影响
+
+Table 5Effects of replacement of fish meal by fermented silkworm pupa and soybean meal on serum lipide and apoprotein contents of weaned piglets   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td>对照组</td><td colspan="3">替换水平 Replacement level/%</td></tr><tr><td>Control group</td><td>25</td><td>50</td><td>100</td></tr><tr><td>总胆固醇 TC/(mmol/L)</td><td>2.21±0.34b</td><td>2.74±0.02a</td><td>2.38±0.03ab</td><td>2.45±0.13ab</td></tr></table></body></html>
+
+<html><body><table><tr><td>甘油三脂 TG/(mmol/L)</td><td>0.74±0.40</td><td>1.09±0.29</td><td>0.79±0.06</td><td>0.60±0.01</td></tr><tr><td>高密度脂蛋白胆固醇</td><td>0.72±0.04bc</td><td>0.86±0.04a</td><td>0.61±0.06c</td><td>0.76±0.12ab</td></tr><tr><td>HDL-C/(mmol/L)</td><td></td><td></td><td></td><td></td></tr><tr><td>低密度脂蛋白胆固醇</td><td>1.06±0.22</td><td>1.41±0.05</td><td>1.27±0.02</td><td>1.27±0.02</td></tr><tr><td>LDL-C/(mmol/L)</td><td></td><td></td><td></td><td></td></tr><tr><td>载脂蛋白 A1 ApoA1/(mg/dL)</td><td>0.43±0.11</td><td>0.50±0.06</td><td>0.49±0.01</td><td>0.54±0.09</td></tr><tr><td>载脂蛋白B ApoB/(mg/dL)</td><td>0.30±0.35ab</td><td>0.53±0.21a</td><td>0.13±0.08b</td><td>0.38±0.23ab</td></tr></table></body></html>
+
+2.3.3发酵蚕蛹豆粕粉替换鱼粉对断奶仔猪血清常规生化指标的影响
+
+由表6可知，对照组的血清TP含量显著高于 $5 0 \%$ 替换组和 $100 \%$ 替换组 ( $\scriptstyle \cdot { P < 0 . 0 5 }$ ，3个试验组间的血清 TP 含量差异不显著（ $. P { > } 0 . 0 5 )$ 。各组血清ALB、Pa、RBP、FFA、UREA、CREA、 ${ \bf T } _ { 3 }$ 和 $\mathrm { T } _ { 4 }$ 含量差异不显著（ $P { > } 0 . 0 5 )$ 。
+
+表6发酵蚕蛹豆粕粉替换鱼粉对断奶仔猪血清常规生化指标的影响
+
+Table 6Effects of replacement of fish meal by fermented silkworm pupa and soybean meal on serum conventional biochemical indexes of weaned piglets   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td>对照组</td><td colspan="3">替换水平 Replacement level/%</td></tr><tr><td>Control group</td><td>25</td><td>50</td><td>100</td></tr><tr><td>总蛋白 TP/(g/L)</td><td>49.00±0.00a</td><td>46.70±1.27ab</td><td>45.40±0.71b</td><td>44.75±1.91b</td></tr><tr><td>白蛋白 ALB/(g/L)</td><td>20.20±2.26</td><td>21.65±1.20</td><td>17.85±3.04</td><td>19.55±3.46</td></tr><tr><td>前白蛋白 Pa/(mg/L)</td><td>36.50±0.71</td><td>36.00±2.83</td><td>35.00±2.83</td><td>34.00±1.41</td></tr><tr><td>视黄醇结合蛋白 RBP/(mg/L)</td><td>25.50±0.71</td><td>27.00±0.00</td><td>23.00±2.83</td><td>26.50±0.71</td></tr><tr><td>游离脂肪酸 FFA/(μmol/L)</td><td>776.04±376.18</td><td>1 230.97±316.78</td><td>756.54±33.22</td><td>445.03±57.89</td></tr><tr><td>尿素UREA/(mmol/L)</td><td>4.04±1.65</td><td>3.12±0.39</td><td>4.24±0.09</td><td>3.25±0.71</td></tr><tr><td>肌酐 CREA/(μmol/L)</td><td>85.52±16.27</td><td>82.45±0.71</td><td>80.03±14.09</td><td>73.98±9.93</td></tr><tr><td>三碘甲状腺原氨酸 T3/(nmol/L)</td><td>2.01±0.60</td><td>1.74±0.09</td><td>1.97±0.16</td><td>1.72±0.11</td></tr><tr><td>四碘甲状腺原氨酸 T4/(nmol/L)</td><td>43.70±10.18</td><td>45.25±4.88</td><td>65.75±4.17</td><td>61.95±29.20</td></tr></table></body></html>
+
+2.4发酵蚕蛹豆粕粉替换鱼粉对断奶仔猪血清免疫球蛋白含量的影响
+
+由表7可知，各组的血清IgM、IgG含量差异不显著（ $P { > } 0 . 0 5 )$ ，初步判断在该试验条件下，用发酵蚕蛹豆粕粉替换鱼粉对仔猪血清体液免疫功能的影响不显著。
+
+表7发酵蚕蛹豆粕粉替换鱼粉对断奶仔猪血清免疫球蛋白的影响
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td>对照组</td><td colspan="3">替换水平 Replacementlevel/%</td></tr><tr><td>Control group</td><td>25</td><td>50</td><td>100</td></tr><tr><td>免疫球蛋白M</td><td>0.31±0.04</td><td>0.30±0.06</td><td>0.39±0.04</td><td>0.43±0.01</td></tr><tr><td>IgM</td><td></td><td></td><td></td><td></td></tr><tr><td>免疫球蛋白G</td><td></td><td></td><td></td><td></td></tr><tr><td>IgG</td><td>0.66±0.39</td><td>0.73±0.30</td><td>0.83±0.14</td><td>0.86±0.25</td></tr></table></body></html>
+
+2.5发酵蚕蛹豆粕粉替换鱼粉对断奶仔猪器官指数的影响
+
+由表8可知，各组的胸腺指数、脾脏指数、心脏指数、肝脏指数和肾脏指数差异不显著（ $. P { > } 0 . 0 5 )$ ）
+
+Table 7 Effects of replacement of fish meal by fermented silkworm pupa and soybean meal on serum immunoglobulin contents of weaned piglets g/L   
+表8发酵蚕蛹豆粕粉替换鱼粉对断奶仔猪器官指数的影响  
+Table 8Effects of replacement of fish meal by fermented silkworm pupa and soybean meal on   
+
+<html><body><table><tr><td colspan="2">organ indexes of weaned piglets</td><td colspan="2">g/kg</td></tr><tr><td>项目Items</td><td>对照组</td><td>替换水平 Replacement level/%</td><td></td></tr><tr><td></td><td>Control group</td><td>25</td><td>50</td></tr><tr><td>胸腺指数 Thymus index</td><td>0.81±0.06</td><td>0.86±0.03</td><td>0.76±0.01 1.11±0.08</td></tr><tr><td>脾脏指数 Spleen index</td><td>1.96±0.38</td><td>1.66±0.22 2.7±0.51</td><td>1.94±0.02</td></tr><tr><td>心脏指数 Heart index</td><td>4.49±0.1</td><td>4.33±0.44</td><td>4.11±0.39 4.49±0.82</td></tr><tr><td>肝脏指数Liver index</td><td>21.33±2.28</td><td>19.88±1.41</td><td>20.18±0.25 19.99±0.87</td></tr><tr><td>肾脏指数Kidney index</td><td>5.15±0.05</td><td>5.01±0.69</td><td>5.49±0.95 4.59±0.51</td></tr></table></body></html>
+
+# 3讨论
+
+3.1发酵蚕蛹豆粕粉替换鱼粉对断奶仔猪生长性能和腹泻率的影响
+
+本试验结果表明，用发酵蚕蛹粉等量替换仔猪饲粮中的鱼粉对试验全期断奶仔猪的ADG、ADFI和F/G以及腹泻率的影响均不显著，但 $2 5 \%$ 替换组断奶仔猪的第1周ADFI显著降低，并且此阶段腹泻率明显上升。这可能是由于仔猪断奶后其自身的消化系统未发育完全、粉料适口性不如颗粒料及断奶应激造成第1周ADFI显著降低，发酵蚕蛹豆粕粉仍存在少量抗营养因子，导致仔猪出现腹泻，继而影响仔猪的采食状况。但随着发酵蚕蛹豆粕粉替换鱼粉水平的进一步提高，断奶仔猪的腹泻率和 ADFI又趋于对照组的水平，这可能是由于蚕蛹本身含有天然抗菌肽、溶菌酶以及丰富的维生素和微量元素等生物活性物质，也可能是因为经过发酵处理，蚕蛹蛋白转化为功能活性肽，几丁质转化为壳聚糖，这些物质具有明显的缓解应激、抗菌消炎、增强消化酶的分泌和活性、提高营养物质的消化吸收、增强机体免疫力等作用[6-8]，当达到一定的饲喂量，即发挥了有效作用。
+
+贾喜涵9研究用芽孢杆菌发酵的棉籽蛋白等量替换基础饲粮中鱼粉对仔猪生长性能的影响表明，试验28d结束后各组的ADFI、ADG 和F/G 差异不显著，与本试验的全期生长性能一致。Chae 等[0]研究也表明，发酵饲料替换鱼粉能保持仔猪的正常生长速度，与本试验仔猪生长表现一致。但Jeong 等[1利用3种微生物进行豆粕固态发酵生产了3种发酵豆粕，均用于替代饲料中 $5 0 \%$ 的鱼粉，结果显示3种发酵豆粕组试验后期断奶仔猪ADFI和F/G 均显著低于对照组，这与本试验研究结果不一致，这可能是由于本试验是利用复合菌种对豆粕和蚕蛹粉的混合物进行联合发酵，其发酵效率及改善的原料营养价值更高，并且蚕蛹中丰富的营养成分和功能活性物质更有效地促进了断奶仔猪的生长发育。
+
+3.2发酵蚕蛹豆粕粉替换鱼粉对断奶仔猪血清生化指标的影响
+
+ALT、AST、ALP、LDH 是反映肝脏健康与功能的重要指标，本试验中各试验组血清ALT、AST、ALP、LDH活性以及肝脏指数与对照组相比差异均不显著，表明发酵蚕蛹豆粕粉对机体肝脏健康无影响。血清中的胆固醇、TG、HDL-C、LDL-C 是血脂的主要组成成分，ApoA1 和 ApoB 分别是HDL-C、LDL-C 的运输载体，一般认为 HDL-C 对机体健康有利，而 LDL-C 对机体健康有害。本试验中用发酵蚕蛹豆粕粉替代 $2 5 \%$ 的鱼粉，显著提高了血清中 HDL-C及TC的含量，但 $5 0 \%$ 、 $100 \%$ 替换组对其影响均不显著，表明发酵蚕蛹豆粕粉替代 $2 5 \%$ 的鱼粉对断奶仔猪脂代谢有一定的调节作用，但其作用机理有待进一步研究。血清TP、ALB、UREA 可反映机体蛋白质的合成与代谢情况，血清TP、ALB 含量增加，血清UREA含量降低表明机体合成代谢增强；而当血清TP、ALB含量降低，则表明饲粮营养水平降低或消化吸收率下降，动物通常处于应激状态[12]。Pa 由肝脏合成，血清 $\mathrm { \ P a }$ 含量也可反映机体的营养水平及肝脏的健康状况，与机体炎症反应相关[13]。本试验结果表明，发酵蚕蛹豆粕粉替换鱼粉对血清ALB、UREA、Pa含量无显著影响，但 $5 0 \%$ 、 $100 \%$ 替代组血清 TP含量均较对照组显著降低，这可能是由于随着替代水平的增加，发酵蚕蛹豆粕粉中残存的抗营养因子影响了蛋白质的消化吸收，也可能是由于发酵蚕蛹豆粕粉中的氨基酸平衡性较鱼粉仍有一定的差异。视黄醇结合蛋白是体内一类将维生素A从肝脏转运至靶组织，从而实现维生素A的细胞内转运代谢的转运蛋白[4]，FFA是中性脂肪分解的，当动物体内糖原耗尽，脂肪组织会分解中性脂肪成为FFA来充当能源使用，FFA也与氧化应激相关，血清中FFA的含量可作为判断动物是否发生氧化应激的一个重要依据。CREA是动物体内肌肉的代谢产物，几乎全部随尿排出，是观测动物肾功能的方法之一[15]。血清中 ${ \mathrm { T } } _ { 3 }$ 、 $\mathrm { T } _ { 4 }$ 含量对机体甲状腺功能正常与否具有参考意义[16]。本试验结果表明，发酵蚕蛹豆粕粉替代鱼粉对以上指标均没有显著影响，表明发酵蚕蛹豆粕粉替代鱼粉不影响仔猪相应的功能水平。
+
+3.3发酵蚕蛹豆粕粉替换鱼粉对断奶仔猪免疫功能及器官指数的影响
+
+哺乳动物血清内的IgG、IgM具有抗菌、抗病毒和抗毒素等作用，是体液免疫的重要组成部分；胸腺和脾脏是家畜重要的免疫器官，前者是细胞免疫的中枢器官，是T 细胞分化发育的主要场所，脾脏是重要的外周免疫器官，参与全身的细胞和体液免疫应答。有研究表明，断奶仔猪饲粮中添加微生物发酵饲料能显著提高血清中IgG、IgM含量，增强断奶仔猪的体液免疫功能[17]，但有关发酵蚕蛹豆粕粉替换断奶仔猪饲粮中鱼粉对断奶仔猪免疫功能的影响研究报道较少。本试验主要研究发酵蚕蛹豆粕粉替换鱼粉对断奶仔猪免疫器官指数及血清IgG、IgM含量的影响，结果表明，各组间免疫器官指数及血清IgG、IgM含量差异不显著，但血清IgG、IgM含量随发酵蚕蛹豆粕粉替换鱼粉水平的增加，有一个明显的上升趋势，这主要是由于本试验发酵蚕蛹豆粕粉接种的3种有益菌具有免疫增强作用，主要是菌体本身或代谢产物能刺激动物肠道免疫系统，活化肠黏膜内相关淋巴组织增强 IgA 抗体的分泌，同时诱导T、B淋巴细胞和巨噬细胞产生细胞因子，通过淋巴细胞再循环活化全身免疫系统，从而增强机体免疫机能[18-19]；并且，蚕蛹经发酵后生成的多种生物活性肽、壳聚糖等物质具有明显的免疫增强作用[7,20]。
+
+内脏器官是动物机体发挥各项生理机能的基础，器官指数反应了动物器官发育是否正常、代谢是否旺盛、功能是否完善等状况，并且在一定程度上可以间接地反应机体的生长性能和健康状况等。本试验表明，各试验组与对照组器官指数均没有显著差异，并且解剖过程中也没有发现仔猪这些器官发育异常或是肿大，表明用发酵蚕蛹豆粕粉替换断奶仔猪饲粮中鱼粉对仔猪的器官发育与健康没有不良影响。
+
+4结论
+
+在本试验条件下，发酵蚕蛹豆粕粉可替代断奶仔猪饲粮中 $2 5 \%$ 的鱼粉，而不影响仔猪的生长性能。
+
+# 参考文献：
+
+[1]刘静,徐立,黄先智.蚕蛹的生物活性成分及药理作用研究进展[J].食品科学,2012,33(17):303-307.
+
+[2] 张海娜.蚕蛹活性多肽的制备及降血压、降血糖活性研究[D].硕士学位论文.重庆:西南大
+
+学,2013:1-5.
+
+[3] JI H,ZHANG JL,HUANG J Q,et al.Effect of replacement of dietary fish meal with silkworm pupae meal on growth performance,body composition,intestinal protease activity and health status injuvenileJiancarp(Cyprinuscarpiovar.Jian)[J].Aquaculture Research,2015,46(5):1209-1221.
+
+[4] RANGACHARYULU P V,GIRI S S,PAUL B N,et al.Utilization of fermented silkworm pupae silage in feed for carps[J].Bioresource Technology,2003,86(1):29-32.
+
+[5] QADRI S F I,MALIK M A,BANDAY M T,et al.Effect of replacing dietary fish meal with mulberry silkworm (Bombyx Mori) pupa meal on some serum constitutents of broiler chickem[J].Journal of Experimental Zoology India,2016,19(1):257-259.
+
+[6] XU Y,SHI B,YAN S,et al.Effects of chitosan supplementation on the growth performance,nutrient digestibility,and digestive enzyme activity in weaned pigs[J].Czech Journal of Animal Science,2014,59(4):156-163.
+
+[7] YANG W Y,CHENG T C,YE M Q,et al.Functional divergence among silkworm antimicrobial peptide paralogs by the activities of recombinant proteins and the induced expression profiles[J].PLoS One,2011,6(3):e18109.
+
+[8] KWON M G,KIM D S,LEE J H,et al.Isolation and analysis of natural compounds from silkworm pupae and effect of its extracts on alcohol detoxification[J].Entomological Research,2012,42(1):55-62.
+
+[9] 贾喜涵.棉籽蛋白的固体发酵工艺及其产品的应用效果研究[D].硕士学位论文.呼和浩特:内蒙古农业大学，2008:28-39.
+
+[10] CHAE B J,HAN I K,KIM JH,et al.Effects of dietary protein sources on ileal digestibility and growth performance for early-weaned pigs[J].Livestock Production Science,1999,58(1):45-54.
+
+[11] JOENG J S,KIMI H.Comparative efficacy of up to $50 \%$ partial fish meal replacement with fermentedsoybeanmeal orenzymaticallypreparedsoybean meal ongrowth performance,nutrient digestibility and fecal microflora in weaned pigs[J].Animal Science Journal,2015,86(6):624-633.
+
+[12] ZHOU H,WANG C Z,YE J Z,et al.Effects of dietary supplementation of fermented Ginkgo biloba L.residues on growth performance,nutrient digestibility,serum biochemical parameters and immune function in weaned piglets[J].Animal Science Journal,2O15,86(8):790-799.
+
+[13] 晏建军.血清前白蛋白评价肝功能损害及肝脏储备功能的实验研究与临床观察[D].博士学位论文.上海：第二军医大学，2004:38-45
+
+[14] 张冬杰.猪视黄醇结合蛋白基因的转录、诱导转录及真核表达研究[D].博士学位论文.哈尔滨：东北农业大学，2007:4-5.
+
+[15] 商思伟.复方青天葵颗粒剂的研制及其对断奶仔猪生长性能和血液指标的影响[D].硕士学位论文.哈尔滨：东北农业大学，2013:39
+
+[16] PAPAS A,CAMPBELL L D,CANSFIELD P E,et al.The effect of glucosinolates on egg iodine and thyroid status of poultry[J].Canadian Journal of Animal Science,1979,59(1):119-131.
+
+[17]罗建.无抗微生物发酵饲料对断奶仔猪免疫功能影响的研究[J].饲料与畜牧,2010(7):27-29.
+
+[18] AFRC R F.Probiotics in man and animals[J].Journal of Applied Bacteriol0gy,1989,66(5):365-378.
+
+[19]刘辉,季海峰,单达聪,等.益生菌对动物免疫机能影响的研究进展[J].饲料与畜牧,2010(11):49-51.
+
+[20] CHEN Y,ZHU X,YANG Y.Effect of dietary chitosan on growth performance,haematology,immune response,intestine morphology,intestine microbiota and diseaseresistanceingibelcarp(Carassius auratus gibelio)[J].Aquaculture Nutriti0n,2014,20(5):532-546.
+
+Effects of Replacement of Fish Meal by Fermented Silkworm Pupa and Soybean Meal on Growth Performance, Serum Biochemical Indexes and Organ Indexes of Weaned Piglets   
+KUANG Zheshi HUANG Jing HUANG Guanglin ZHAO Xiangjie LUO Guoqing PAN Mushui (Sericulture and Agri-food Research Institute, Guangdong Academy of Agricultural Sciences, Guangzhou 510610,China)
+
+Abstract: This article aimed to investigate the effect of replacement of fish meal by fermented silkworm pupa and soybean meal on growth performance, serum biochemical indexes and organ indexes of weaned piglets,and to found the appropriate level. The experiment selected 12O healthy, average weight $( 7 . 6 4 \pm 0 . 6 7 _ { . }$ ） kg and weaning age of $( 2 8 { \pm } 1 )$ ）d DurocxLandracexLarge crossbred piglets, divided into 4 groups with 3 replicates per t groups and 10 piglets per replicate. Piglets in the control group were fed a basal diet,and the others in the experiment groups were fed the diets which used fish meal in basal diet replaced by fermented silkworm pupa and soybean meal for （204号 $2 5 \%$ ， $50 \%$ and $100 \%$ , respectively. Preliminary feding period and trail period were $3 \mathrm { ~ d ~ }$ and 21 d respectively. The results were showed as followed: 1) there were no significant difference on the average daily gain, average daily feed intake (ADFI) and feed to gain ratio among all groups （204号 $( P { > } 0 . 0 5 )$ , but the ADFI of control group during the first week was significantly higher than that of $50 \%$ replacement group $( P { < } 0 . 0 5 )$ , the ADFI $50 \%$ and $100 \%$ replacement group during the second week was significantly higher than that of $2 5 \%$ replacement group ( $( P { < } 0 . 0 5 )$ .2） The serum total cholesterol content of $2 5 \%$ replacement group was significantly higher than that of control group （204 $( P { < } 0 . 0 5 )$ , the serum high density lipoprotein cholesterol content of $2 5 \%$ replacement group was significantly higher than that of control and $50 \%$ replacement group $( P { < } 0 . 0 5 )$ ；the serum apoprotein B content of $2 5 \%$ replacement group was significantly higher than that of $50 \%$ （204号 replacement group $( P { < } 0 . 0 5 )$ ; the serum total protein content of control group was significantly higher than that of $50 \%$ ， $100 \%$ replacement groups $( P { < } 0 . 0 5 )$ . 3) The diarrhea rate, organ indexes and serum immuneglobulin content showed no significant difference among al groups $( P { > } 0 . 0 5 )$ ： All the currently available data demonstrate that $2 5 \%$ fish meal in diet can be replaced by fermented silkworm pupa and soybean meal, and have no influence on the growth performance in weaned piglets.
+
+Key words: fermented silkworm pupa and soybean meal; weaned piglets; growth performance; serum biochemical index; organ index

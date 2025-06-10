@@ -1,0 +1,224 @@
+# 睡眠对创造性问题解决的影响：基于记忆重组的解释
+
+王正雨 胡金生(辽宁师范大学心理学院，大连 116029)
+
+摘 要睡眠通过影响记忆重组帮助创造性问题解决。其中，快速眼动睡眠阶段主要帮助增强记忆间的新奇联系，非快速眼动睡眠阶段帮助规则提取、形成关系记忆和记忆整合。而睡眠影响创造性问题解决的程度会受睡眠结构变化、在睡眠期间操纵记忆、任务类型的影响。目前睡眠影响创造性问题解决的理论解释中，睡眠期间激活扩散程度增加已被较少关注，从系统和细胞层面进行解释成为主流，包括睡眠期间海马一新皮层的对话，突触缩减，以及重叠交替的记忆回放，睡眠通过上述机制促进记忆重组，进而帮助创造性问题解决。未来研究需通过转换需要创造性解决的问题类型拓展研究广度，基于情绪记忆和记忆表征间的跨模态迁移深化机制研究。
+
+关键词 睡眠，记忆重组，创造性问题解决
+
+# 1引言
+
+睡眠是个体身心健康和正常发展的重要保障。睡眠不足会对注意加工、执行功能、长时记忆、情绪加工等造成消极影响(Cohen-Zion et al.,2016; Lo et al.,2016; Lowe et al.,2017; Patrick etal.,2017)；睡眠状况也是个体情绪状态的重要预测因子，例如，中重度抑郁症患者的快感缺失与快速眼动睡眠潜伏期(rapid eye movement sleep latency, REML)显著相关，据此可将 REML 作为生物学标记应用于某些抑郁症亚型的诊断(Nizet etal.,2018)。由此可见，鉴于睡眠对个体发展的重要作用和应用价值，有必要增强对睡眠与认知加工关系的关注。
+
+有研究发现，在遇到难以解决的问题时，睡眠有助于创造性问题解决(Caietal.,2009;Wagner etal.,2004)。创造性问题解决是在重新建构对问题的理解后，突然出现解决方案，这通过寻找超越原始问题表征的、间接相关的、不明显的信息实现(Kralik et al.,2016;Martinsen &Furnham,2019)。研究者对睡眠帮助创造性问题解决的关注源于：行为研究表明，睡眠不足会损害执行功能，而执行功能的转换、抑制子系统分别与创造性思维产生密切相关(Wang et al.,2017)，因此睡眠不足对创造性问题解决可能产生消极影响。而神经生理研究发现，睡眠期间中脑边缘多巴胺系统(mesolimbic dopaminergic system,ML—DA)激活，为认知加工活动提供了神经基质，其中伏隔核(ventral tegmental area,VTA)的激活投射到海马，而海马能进行对思维的重新定位，帮助创造性产出；睡眠期间脑内多巴胺水平升高也支持创造性思维产生(Chermahini& Hommel,2010;Luo & Niki,2003; Perogamvros & Schwartz,2012)。这些证据为睡眠与创造性问题解决建立了初步联系。
+
+但是关于睡眠如何影响创造性问题解决，现有观点存在争议。一种观点认为，创造性问题解决得益于酝酿，在酝酿期间停止对问题的有意识思考帮助了创造性问题解决，睡眠提供了类似于酝酿的状态(Brodt etal.,2018)。但是更多研究发现，睡眠对创造性问题解决有其独特作用：睡眠通过促进记忆重组，帮助创造性问题解决(Sanders et al.,2019)。解释创造性问题解决的表征转化理论(representational change theory)认为，问题难以创造性解决是由于初始问题表征的启发式不当，引发问题搜索空间错误，需要约束松弛，以转换问题表征，获得正确的问题搜索空间(Ollinger et al.,2014)。可见，创造性问题解决存在搜索、重构两个阶段，搜索阶段要基于原始问题表征搜索问题空间，需要注意、工作记忆等一般认知能力的参与(Lv,2015)；重构阶段重组原始问题表征，使其能激活正确的问题搜索空间以获得解决方案。重构阶段是创造性问题解决的关键，此阶段主要依靠记忆重组。睡眠有助于记忆重组(Landmann et al.,2014)。因此，睡眠可能通过影响记忆重组，帮助创造性问题解决的重构阶段。
+
+不同睡眠阶段对创造性问题解决存在不同影响，且睡眠对创造性问题解决的影响程度并非完全一致，会受被试特征、任务特征和记忆重组水平的影响。本文希望在前人研究的基础上梳理睡眠对创造性问题解决的影响机制，厘清睡眠、记忆重组与创造性问题解决的关系。在理论上，一方面为创造性问题解决的表征转换理论提供基于睡眠视角的支持，另一方面，扩充现有的睡眠与高级认知加工关系的研究，通过系统总结现有理论，深化可行的理论机制研究方向。在应用上，通过对记忆重组过程的操纵，开发睡眠在创造性问题解决及其相关领域中更多的应用价值。
+
+# 2睡眠对创造性问题解决的影响
+
+睡眠分为快速眼动(rapid eye movement,REM)睡眠阶段和非快速眼动(non-rapid eyemovement,NREM)睡眠阶段。入睡后首先进入NREM睡眠，共持续 60\~90分钟，随后进入REM睡眠。不同睡眠阶段对创造性问题解决存在不同的影响，这是通过影响不同形式的记忆重组实现的。记忆重组是指记忆灵活组合，产生未直接接触过的新记忆(Landmann et al,2016)，其常伴随记忆巩固出现。多重加工模型(multi-process model)认为，记忆重组包括三种形式：图式形成、整合、分解。图式是组织记忆信息的框架。图式形成主要表现为规则提取;图式整合表现为整合新旧记忆信息，形成关系记忆；图式分解即将现存的框架分解，表现为形成新奇联想(Landmann et al.,2014)。不同睡眠阶段影响不同形式的记忆重组，进而有利于创造性问题解决。
+
+# 2.1快速眼动睡眠阶段对创造性问题解决的影响
+
+在REM睡眠中，个体对意识的自主控制丧失、集中注意减少、思维由深思熟虑的逻辑分析模式转向突然产生的高度联想模式，这支持记忆信息之间建立意想不到的联系，产生直觉性的、更新奇的问题解决方案(Nir& Tononi,2010;Verleger et al.,2013)。因此，该睡眠阶段主要通过增强记忆间的联系、产生新的联系进行记忆重组，进而帮助解决需要联想思维的问题。
+
+记忆表征间间接或不明显的联系会阻碍个体对原始记忆表征的重构，而REM睡眠对联想的帮助有助于重构阶段的顺利进行。一方面，这体现在语义启动效应中，语义启动效应指目标词前有一个语义相关的启动词时，个体对于目标词的反应会加快。一般而言，关联度越高，启动效应越强。因此，语义启动效应可以作为判断联想思维的重要手段。有研究要求被试分别在睡眠前后、REM睡眠和NREM睡眠中唤醒后完成语义启动任务，并控制启动词与目标词的无、强、弱三种关联强度，判断不同条件下语义启动效应的大小。结果表明，睡眠前后和在NREM睡眠中唤醒后，个体在强关联下的语义启动效应更强，但是在REM睡眠中唤醒后，个体在弱关联下的语义启动效应更强(Stickgold etal.,1999)。在睡眠中唤醒后，被试常处于一种睡眠惯性，使个体保持唤醒前睡眠状态的特征。因此，从睡眠中唤醒后立即进行语义启动任务，避免了必须割裂睡眠与睡眠期间进行的认知活动的弊端，将睡眠阶段与该睡眠阶段间进行的认知活动建立了直接联系。由此可见，REM睡眠通过加强记忆表征间的联系增强个体的联想思维，进而帮助创造性问题解决。
+
+另一方面，这体现在远距离联想能力上，表现为远距离联想测验(remote association test,RAT)解决率提高。RAT是直接测量创造性问题解决的经典测验，测验给被试呈现三个不相关的单词，要求被试寻找一个能与之分别建立联系的新单词。有研究要求被试在前后测时完成RAT项目，通过两次测验的项目是否相同，将后测时的项目区分为重复暴露项目、无暴露项目。此外，在前测后进行一项单词类比任务，为后测的RAT部分项目提供测验答案的启动词，这部分RAT项目为启动暴露项目。前后测间被试分别进入无睡眠组、REM小睡组、NREM小睡组接受睡眠处理。研究采用3(暴露情况) $) { \times } 3 ($ 睡眠条件)混合设计，睡眠条件为被试间因素，通过对比前后测的RAT解答率，发现在启动暴露项目上，REM小睡条件下问题的解答率提高了$40 \%$ ，而另两种条件的解答率并未显著提高；重复暴露项目上三组解答率均提高，但无显著差异；无暴露项目上，三组的解答率均未显著提高，且无显著差异(Cai et al.,2009)。该研究首次在睡眠前设置启动条件，通过对比三种暴露条件下的RAT解答率，为REM睡眠通过建立新奇联系帮助创造性问题解决提供了合理解释：启动暴露条件下，睡前呈现过的启动词被纳入记忆网络，并在REM睡眠中产生更强的激活扩散，与之相关的较弱的联系也被激活，形成新的联想网络。睡醒后的任务刺激会基于新的联想网络被重新解释，建立与问题答案的新奇联系，帮
+
+助创造性问题解决。
+
+由此可见，当睡眠前呈现一个难以解决的问题时，REM睡眠能帮助加工问题表征，使表征间的联系增强，初始联系越不明显、不直接，记忆表征之间的联想越新颖。这种联想被无意识的保留，并在睡眠后再次面对问题时被成功激活，作为创造性问题解决的方案被产出(Llewellyn & Hobson, 2015)。
+
+# 2.2非快速眼动睡眠阶段对创造性问题解决的影响
+
+传统方法将 NREM睡眠分为四个阶段，其中第三、四阶段统称为慢波睡眠(slow wavesleep,SWS)。在NREM睡眠阶段，个体基于现有的记忆，产生逻辑性强的问题解决方法(Verleger etal.,2013)。此阶段通常帮助规则提取、形成关系记忆以及记忆整合，以此完成记忆重组，进而促进创造性问题解决。
+
+# 2.2.1NREM睡眠帮助规则提取
+
+NREM睡眠有助于规则提取，尤其是规则从内隐知识向外显知识转化，而规则提取是在现有问题规则的基础上，去除不必要的细节，帮助问题快速解决。探究通过规则提取帮助创造性问题解决的常用的研究任务为数字减少任务(number reduction task,NRT)，任务要求被试按照给定规则缩减一串数字序列，缩减后序列的末位数字为任务答案，但是任务存在一项隐藏规则，即缩减序列的第二位数字与末位数字相同，若被试提取了隐藏规则，则证明发生记忆重组，被试可以采用区别于逐位缩减的方法，创造性地提供问题答案。该任务能明确判断创造性问题解决是否通过记忆重组实现，此外，通过任务反应时，还可以判断当前被试获取的规则的知识状态为内隐或外显知识。Wagner等(2004)使用 NRT最早证明了睡眠通过记忆重组帮助创造性问题解决。通过控制前后测间8小时的夜间睡眠、夜间清醒、白天清醒三种条件，检测在后测时被试能否使用隐藏规则解决问题。结果发现与两组清醒组相比，睡眠组中洞察隐藏规则的被试数高1倍。这表明个体在睡眠期间再次加工了睡前获得的任务表征，促进其积极重组以提取隐藏规则，帮助创造性问题解决。但是该研究并未细化睡眠阶段的作用。
+
+此后，为了明确睡眠阶段的具体作用，有研究通过睡眠时间的早晚控制REM睡眠、SWS，比较经历不同睡眠阶段后NRT的完成情况。结果表明，约半数的被试在睡眠前已经获得规则的内隐知识，SWS 条件下更多被试将内隐知识转化为外显知识，而REM睡眠条件下，被试多保持内隐知识(Yordanova et al.,2008)。脑电图(electroencephalographic,EEG)数据也表明，SWS 期间的 $\mathfrak { a }$ 波和 $\beta$ 波活动增加，预测了睡眠后知识状态的转化和外显知识的获得(Yordanovaet al.,2012)。这些研究为NREM睡眠帮助创造性问题解决提供了行为和生理证据，NREM睡眠将有关规则的内隐知识转化为外显知识，以此抽取规则，并在再次遇到问题时有意识地使用规则，以此进行创造性问题解决。
+
+使用序列反应时任务(serial reaction time task,SRTT)的研究也支持了NREM睡眠帮助规则提取。SRTT是探究规则提取的常用任务，但是规则提取的结果可以服务于创造性问题解决。任务向被试展示四个分别对应着按键的位置，刺激按照固定的位置序列依次呈现，要求被试对位置做出按键反应，通过反应时是否降低判断被试是否获得序列的内隐知识，而通过被试对于序列的报告判断被试是否获得外显知识。相比于能直接判断被试是否完成规则提取，并将之有意识应用的NRT，SRTT割裂了规则提取和有意识应用这两个步骤，操作更为复杂，结果并不直观。尽管如此，使用 SRTT的研究仍支持了睡眠的作用：在睡眠前获得内隐知识的情况下，较高的 SWS 和睡眠纺锤波与外显知识的获得相关(Wilhelm et al.,2013; Yordanova et al.,2017)。睡眠前，部分被试已经获得内隐的规则，而NREM睡眠通过帮助规则从内隐转化为外显状态，帮助被试有意识地使用隐藏规则，从而创造性地解决问题。但是睡前获得内隐知识并非是在睡眠后使用规则的必要条件，那么，当睡眠前未获得规则的内隐知识，但是睡眠后仍能有意识地使用规则进行创造性问题解决时，这是否与NREM睡眠有关，其与知识状态转化是否涉及同样机制值得进一步研究。
+
+# 2.2.2NREM睡眠有助于形成关系记忆
+
+NREM睡眠有助于形成关系记忆。关系记忆指通过寻找独立的记忆表征间的共性，并将共性作为关系的绑定节点，形成记忆表征间新的、直接的联系，这种联系并未被告知过，而是通过逻辑推断得出(Huguet et al.,2019)。关系记忆的出现属于记忆重组表现之一，通过整合出记忆表征间新的直接联系，有助于转换问题表征，以帮助创造性问题解决。
+
+有研究使用联想推理任务证明了NREM睡眠帮助形成关系记忆。任务要求被试在学习阶段记忆成对的物体一面孔图片，其中每个物体依次与两张面孔相匹配，经历午睡或同时长的清醒间隔后，在检索阶段选择与给定面孔相联系的面孔图片。若将两张面孔图片成功匹配，则意味着在面孔图片间建立关系记忆。该研究并非创造性问题解决的研究任务，但是其要求对面孔之间新的创造性联系做出选择，因此，其成功解答也可视为创造性问题解决的表现。结果发现，与清醒组相比，午睡组的关系记忆表现更好，NREM时长与关系记忆表现显著相关，且SWS预测了关系记忆表现(Lauetal.,2010)。值得注意的是，这种关系记忆类同于记忆间的新奇联系，但将其与REM睡眠的作用深入对比可以发现，REM睡眠中联想的形成基于对已有记忆的激活，由于激活扩散程度增强，睡前接触过的记忆表征与不常用的记忆表征建立联系，以此帮助联想，促进创造性问题解决，其加工的记忆表征不依赖于海马；而 NREM睡眠中联想的形成基于对新获得的记忆进行加工，通过凸显睡前接触过的记忆之间的共性，以共性为连接节点，以此建立新联系，帮助创造性问题解决，其加工的记忆表征依赖于海马。这也再次佐证，REM睡眠更偏向于通过联想获得解决方案，而NREM睡眠更偏向于通过逻辑推理获得问题解决方案。
+
+然而，在最新的研究中，以带有中性和负性情绪色彩的图片为实验材料的联想推理任务虽然发现了睡眠的有益作用，但是并未支持睡眠阶段对关系记忆形成存在影响(Huguet et al,2019)。因此，NREM睡眠可以通过促进关系记忆帮助创造性问题解决的观点仍需要更多直接证据的支持。
+
+# 2.2.3NREM睡眠有助于记忆整合
+
+NREM睡眠有助于记忆整合，已存在的记忆表征可能会由于新记忆表征的整合被更改。有研究为探讨NREM睡眠的纺锤波对记忆整合的影响，使用单词记忆任务，在学习阶段学习新单词，经历睡眠或清醒间隔后，对新单词进行即时的和一周后的回忆测试。结果表明，即时测试中，睡眠组对于新单词的回忆率显著高于清醒组，且部分被试表现出词汇竞争效应，而纺锤波数量可以显著预测词汇竞争效应(Tamminen etal.,2010)。词汇竞争效应是对新单词的记忆干扰了已有相似记忆的表达，该效应预示着新记忆整合到现有的记忆网络中，而NREM睡眠期间的纺锤波为大脑提供了记忆整合的最佳状态。这种整合可能影响旧的记忆表征表达，从而影响创造性问题解决的重构阶段。
+
+此外，使用电子游戏任务的研究进一步证实了NREM睡眠的记忆整合对创造性问题解决的作用。解决该任务需要基于对问题的整体认识进行逻辑推理，因而需要将对问题的记忆整合到先前的记忆网络中，以此制定解决方案。研究要求被试逐一解决关卡，直到遇到无法解决的关卡后进入睡眠或清醒间隔组，并在间隔后再次尝试完成之前未解决的关卡。结果显示，睡眠组成功解决关卡的被试数比清醒组高一倍，且获得 SWS 的被试更有可能解决关卡(Beijamini etal.,2014)。该研究任务的优点在于将个体的陈述性记忆和程序性记忆降到最低限度，将记忆内容局限于任务本身。睡眠期间个体通过记忆整合，灵活组织问题相关记忆，获得对问题的全面认知，从而帮助创造性问题解决，成功解决问题的被试数与 SWS 的相关性更高，进一步表明SWS 更支持此过程的发生。可见，NREM睡眠对于创造性问题解决的影响可以通过记忆整合完成，通过记忆整合产生新的、整体性的记忆表征，以此获得更大的记忆网络，便于在更广阔的问题空间进行搜索。
+
+研究 NREM睡眠通常使用空间、视觉任务，更依赖于对睡前新获得的记忆进行加工，而研究REM睡眠通常使用言语任务，更依赖于对旧记忆进行加工。各睡眠阶段都有其独特的作用，NREM睡眠主要帮助需要逻辑推理的问题解决，而REM睡眠主要帮助需要联想的问题解决。但是，简单划分睡眠阶段存在明显弊端。第一，无法保证将睡眠阶段完全区分，睡眠阶段间的相互作用始终存在。第二，睡眠作为一个整体，不仅有单个的睡眠阶段，还存在睡眠阶段间的转换，这是区分睡眠阶段最容易忽视的问题。例如，有研究发现，NREM睡眠与REM睡眠的动态交互预测了睡眠后规则的内隐知识转化为外显知识的比率 (Kirovetal.,2015)，记忆重组可能并非仅受单个睡眠阶段的影响，而且某些记忆重组形式也被证明与不同的睡眠阶段相关，例如关系记忆的形成在增加情绪色彩后获得了与REM睡眠相关(Alger&Payne,2016)、与睡眠有关但与具体睡眠阶段无关的结果(Huguet etal.,2019)。由此可见，划分睡眠阶段并非明智之举，未来研究需减少生硬地划分睡眠阶段，而是关注睡眠的整体结构，例如睡眠阶段间的转化、睡眠阶段的相互作用对于创造性问题解决的影响。
+
+# 3影响睡眠作用的因素
+
+睡眠对创造性问题解决的影响并不能完全取得积极结果(Brodt et al.,2018;Landmann et al.,2016; Schonauer et al.,2018)，可能存在其他因素干扰睡眠的作用。当前研究基于可能影响记忆重组的因素，区分了影响睡眠作用程度的因素，具体包括：睡眠结构变化、对记忆的操纵、任务类型。
+
+# 3.1睡眠结构变化
+
+随年龄增长，睡眠会表现出时长和结构的变化：总睡眠时间减少，入睡潜伏期延长，碎片化睡眠增加引起睡眠效率降低，SWS 显著减少，睡眠纺锤波的数量、振幅、密度减少(Rauchset al.,2008;Larson-Prior et al.,2017;Lavoie et al.,2018)。年龄增长引起的睡眠结构变化影响了睡眠对创造性问题解决的作用。
+
+多数研究使用青年人作为被试，取得了睡眠帮助创造性问题解决的积极结果。但是随年龄增长，睡眠结构改变，睡眠对创造性问题解决的影响不再显著。有研究首次探讨了睡眠对不同年龄被试的创造性问题解决的影响(Debamot etal.,2017)。研究将被试分为年轻人睡眠组、老年人睡眠组、老年人清醒组，在完成前测后被试分别进入相应的睡眠或清醒状态，并在后测再次完成 NRT，比较不同意识条件与年龄条件下被试的创造性问题解决情况。结果表明，排除被试的基本认知能力差异，经过一晚的睡眠后，与老年人相比，更多的年轻人能创造性地解决NRT，且睡眠和清醒条件下，在后测时能进行创造性问题解决的老年人数量无显著差异；但是在前测阶段，获取隐藏规则的内隐知识无显著年龄差异。该研究作为仅有的、对睡眠影响老年人创造性问题解决的研究，其结果为睡眠结构变化对睡眠作用的影响提供了支持：不同年龄的人均能在睡眠前获得隐藏规则的内隐知识，SWS 能帮助内隐知识向外显知识转化。年轻人能成功地将内隐知识转化为外显知识，进而有意识地使用规则解决问题。但是老年人的 SWS 减少，不足以完成此过程，致使老年人的睡眠无益于创造性问题解决。
+
+在创造性问题解决领域，相关研究数量少、深度浅，年龄引起的睡眠结构变化影响睡眠作用的原因仅限于SWS减少，但是在睡眠依赖记忆巩固领域的研究拓展了可能的原因。有研究发现，老年人的纺锤波减少引起睡眠依赖性记忆巩固的损伤(Fogel etal.,2014)，纺锤波作为睡眠巩固的关键脑电波，其减少也可能损伤伴随记忆巩固发生的记忆重组。未来研究可以关注老化引起的纺锤波变化对创造性问题解决的影响，将对睡眠结构的关注拓展到睡眠微结构，即各种脑电波的变化。除此之外，有研究通过探究老年人的睡眠对情景记忆巩固的影响，发现老年人睡眠对记忆巩固的作用减弱与SWS时长无关，相反，老化引起海马与前额皮层中依赖睡眠的功能受损，导致睡眠期间的记忆再激活受损，减弱了睡眠的作用(Cherdieu et al.,2014)。这表明，一方面，睡前经历会导致睡眠结构或微结构的变化，在研究中应找到更为深入和根本的影响因素，而不应局限于睡眠结构的数量变化，另一方面，老化引起的睡眠结构变化可能不是睡眠作用减弱的唯一原因，未来研究应拓展思路。
+
+# 3.2睡眠期间对记忆的操纵
+
+在创造性问题解决背景下，睡眠期间对记忆的操纵能影响睡眠的作用强度。与无处理的睡眠相比，通过在睡眠期间针对性地激活睡前获得的问题相关记忆，能有效提高睡眠后的创造性问题解决表现。通过目标记忆再激活(targeted-memory-reactivation,TMR)范式可以操纵记忆：通过在初次呈现需要记忆的表征时匹配相应的线索，并在睡眠期间再次呈现此线索以针对性地激活记忆。
+
+该领域的研究最早使用嗅觉线索针对性地激活记忆。研究使用了创造性问题解决的常用任务——不常用任务(unusualuses task)，任务要求被试在规定时间内就一项问题列出可能的解决方案，并选择其中最具创造性的方案接受专家评价。被试在睡眠前接受任务，同时呈现气味，使之与任务相匹配，在随后的睡眠中设置向被试呈现与任务相匹配的气味、不匹配的新气味、不呈现气味三种条件，在睡眠后让被试给出任务解决方案。结果表明，相比于未呈现气味和呈现新气味，睡眠期间呈现与任务匹配的气味时，被试的创造性问题解决表现更好(Ritter et al.,2012)。该研究初次证明了在睡眠期间操纵记忆以帮助创造性问题解决的可能性。随后，由于嗅觉线索的可操纵性较差，更多研究转向使用更灵活可变的听觉线索，并获得积极结果(Sanders et al.,2019)。研究使用了探究创造性问题解决常用的谜题为实验任务，在初测时给谜题匹配相应的声音线索，在SWS 期间使用声音线索针对性地重新激活相关记忆，并设置呈现未匹配的声音线索、不呈现声音线索作为对照组，在整晚睡眠后再次呈现未解决的问题，以问题解决率为判断标准。结果表明，与对照组相比，呈现与谜题相匹配的声音线索时，睡眠后的问题解决率更高。这说明，睡眠期间针对性地激活记忆能进一步帮助创造性问题解决，通过帮助特定记忆的优先重组，促进睡眠对创造性问题解决的影响。但是针对性地激活记忆是提升了目标记忆再激活的程度，或是抑制了不相关记忆的激活尚无定论，因此背后机制值得进一步探讨。
+
+睡眠期间目标记忆再激活提供了一种非侵入性的低成本方法，用以提升睡眠对创造性问题解决的影响。但是，并非所有的记忆再激活线索都存在积极作用。线索呈现时长、呈现时间、呈现的线索是否与问题存在部分重叠都会对睡眠后的创造性问题解决表现造成不同程度的积极或消极影响(Batterink et al.,2016; Hennies et al.,2017; Schreiner et al.,2015)。因此未来研究应关注更有效的目标记忆再激活方法。
+
+# 3.3任务类型
+
+睡眠对创造性问题解决的影响可能受到任务类型的限制。不同任务背后所需要的记忆重组类型是不同的，在需要提取问题的结构或规则和需要联想的任务中，睡眠表现出积极作用。但是对于定势突破问题，睡眠的作用不显著。创造性问题解决时常存在“定势”，使个体采用固定的认知倾向思考解决方案，例如关注看似相关，实则阻碍问题解决的表征(Beda＆ Smith,2018)。定势不利于问题的解决。定势突破问题的常用研究任务为谜题和经典的洞察力问题，例如九点问题、八硬币问题等。
+
+Brodt 等(2018)使用视觉变化检测、经典谜语和字谜考察睡眠及酝酿是否有利于创造性问题解决。其中，视觉变化检测要求被试选择两张连续呈现的相似图片中的差异，虽然它并非创造性问题解决的常用任务，但是它伴随了创造性问题解决时常出现的顿悟感；经典谜题需要被试转换常用的解题思路；字谜要求被试使用给定的字母组合成不同的单词，其主要考察思维的发散，即联想能力。三种任务依次呈现，给予固定时长以完成任务，酝酿组在完成前测后分别进入清醒或睡眠状态，并在后测时完成前测未解决的任务，而无酝酿组在经历同时长的睡眠或清醒状态后直接完成前测和后测。结果表明，经历睡眠或清醒的被试问题解决无显著差异；除谜题任务外，两次测试间有无酝酿也不影响问题解决表现。这表明酝酿阶段的无意识处理对于谜题类问题的解决是有益的，但是睡眠并未表现出独特的影响。Schonauer等(2018)使用九点问题等经典的洞察力问题和魔术揭秘作为实验任务时，也发现睡眠和清醒状态的酝酿过程均无益于此类问题解决。
+
+究其原因，一方面，定势突破问题存在思维限制，要解决此类问题，不能仅依靠规则提取和联想，需要先解除现有问题表征带来的限制，将问题表征分解，再积极重组，以此帮助创造性问题解决，睡眠可能不支持分解的过程。另一方面，当在睡眠中使用TMR范式针对性地激活记忆后，睡眠能帮助谜题类问题的解决(Sanders etal.,2019)，由此，睡眠可能不足以支撑定势突破问题的解决，但是诱发对于特定记忆的优先加工后，睡眠由对记忆的广泛作用集中到被针对性激活的记忆上，引起对记忆更加精准的加工，从而帮助问题解决。这表明自然睡眠对记忆加工的有限性，需要外界因素诱导才能帮助定势突破问题的创造性解决。但该猜测仍需后续研究证实。
+
+# 4睡眠影响创造性问题解决的理论解释
+
+睡眠对于创造性问题解决的影响可以归因为：睡眠有助于记忆重组，从而帮助灵活转换睡眠前获得的问题表征，促进创造性问题解决的重构阶段顺利进行。因此，研究者们提出了一系列理论解释睡眠如何影响记忆重组，以帮助创造性问题解决。
+
+# 4.1互补学习系统模型
+
+互补学习系统模型(complementary learning systems model)认为个体存在两个记忆系统：海马、新皮层。新获得的记忆表征被编码在海马，在睡眠期间通过海马一新皮层的连接被逐渐传递到新皮层，并逐渐独立海马。这种海马一新皮层的信息传递过程不仅帮助了个体的记忆巩固，而且帮助了伴随记忆巩固发生的记忆重组，以此帮助创造性问题解决(Bom&Wilhelm,2012;McClelland et al.,1995)。具体而言，在睡眠期间，慢震荡、纺锤波、海马涟漪的耦合帮助海马一新皮层发生同步的记忆回放(memory replay)，表现为海马中编码记忆的神经元放电模式自动恢复，自发地再激活问题相关记忆，并将再激活的记忆传递到新皮层，以进行记忆巩固。在此过程中，每种节律引起的回放程度差异会对记忆进行修改，造成记忆重组，以供创造性问题解决使用(Staresina et al.,2015; Wei et al., 2016; Wei et al., 2018)。
+
+根据互补学习系统模型，个体在睡眠前将问题相关记忆编码在海马，此时对问题进行加工时，海马活动更强，但是在睡眠期间，问题相关记忆被传递到新皮层，因此睡眠后再次面对问题时，新皮层的活动更强，而海马的活动减弱，同时在行为上表现为记忆重组，使得睡眠后的创造性问题解决表现提高。有研究通过统计学习范式直接验证了该模型。统计学习范式常用于检测被试的规则提取，它要求被试学习一系列存在潜在统计结构的听觉序列后，进入清醒组或睡眠组，并在随后的检测阶段判断给定的序列是否符合结构，比较两组的任务表现，结果表明睡眠组被试能更好地区分结构化序列，且SWS预测了这一结果；fMRI数据表明，清醒组中，纹状体与内侧颞叶的连接较强，而经历睡眠后，被试的纹状体与颞平面连接较强(Durrant et al.,2013)。该结果证实了记忆从海马向新皮层的转移对规则提取的帮助：与纹状体的连接从内侧颞叶转移到颞平面，直接支持睡眠期间记忆信息从海马向新皮层转移，并伴随了规则提取。虽然该研究并未进一步证明提取的规则是否被有意识使用，但是其仍为互补学习系统模型提供了
+
+初步且直观的证据。
+
+互补学习系统模型认为帮助创造性问题解决的记忆重组伴随巩固过程发生，因而更关注NREM睡眠阶段的作用，却忽视了REM睡眠的作用。显然，REM睡眠也是发生记忆重组的重要睡眠阶段。虽然该模型存在局限性，但是其在系统层面上解释了睡眠如何帮助创造性问题解决，也为后期的理论解释提供了基本框架，因而该模型具有基础性意义。
+
+# 4.2激活扩散理论
+
+激活扩散理论(spreading activation theory)认为睡眠期间增强的激活扩散程度帮助了创造性问题解决。创造性问题解决时，个体在问题搜索空间内搜索问题答案。问题相关的信息在记忆网络中被激活，随之激活与其相连的记忆，连接越强，越容易被激活。睡眠期间的激活扩散程度强于清醒状态下。睡眠期间，问题相关记忆自发地再激活，较强的激活扩散程度帮助激活更大的联想网络，从而使得问题搜索空间增大，新奇联系得以凸显，有助于创造性问题解决(Caiet al.,2009)。这种激活扩散水平增加主要通过神经递质水平的变化实现。睡眠期间的乙酰胆碱和去甲肾上腺素水平变化改变了新皮层的联通性(Power,2004)，在海马一新皮层不同步的情况下，新皮层内的记忆形成新的连接。使用联想任务的研究证明了激活扩散理论的观点。例如，有研究使用不同难度的RAT作为实验任务，发现与清醒组相比，睡眠组的被试在睡眠后改善了困难问题的解决(Sio et al.,2013)。面对RAT问题，个体会先激活刺激词，再将激活传递到问题答案，即目标词。困难的问题，从刺激词到目标词的直接联系较少，需要更广泛的激活，而睡眠期间增强的激活扩散程度足以激活目标词，以成功解决问题。
+
+尽管该理论得到了实验结果的支持，但是存在明显不足：该理论的解释片面，对于需要通过规则提取、记忆整合进行创造性解决的问题，无法做出解释；此外，支持该理论的研究多为间接证据，并未在控制睡眠期间的激活扩散水平的条件下直接验证。因此，近期研究已较少使用该理论解释研究结果。
+
+# 4.3突触稳态假说
+
+突触稳态假说(synaptic homeostasis hypothesis)认为睡眠依赖的突触去饱和帮助了记忆重组。清醒状态下，随着个体获取外界信息，突触总量逐渐增加，突触趋于饱和，表现为信息相关突触的增强。但是大脑空间有限，不能无限制地接受外界信息，因而在睡眠期间会进行突触去饱和，即突触缩减。电生理证据表明，进入睡眠状态后，外界干扰减少，神经调节的改变使突触按比例缩减到基线水平的总强度(Huber et al.,2013; Tononi & Cirelli,2006)。
+
+突触稳态假说强调，睡眠期间的突触缩减帮助了记忆重组，但是记忆重组产生的新联系是记忆中原本存在的，睡眠的作用在于使这些联系明显化，而非创造出全新的联想。具体而言，睡眠前接触问题相关记忆时，重叠记忆的突触获得多次激活。重叠程度越强，突触受到的激活越多、强度越强。睡眠期间突触缩减时，更强的突触更易被保留下来，从而保留重叠的记忆，帮助提取问题的规则。此外，新获得的记忆也因为与已有记忆的重叠而得到更强的激活，在经历睡眠期间的突触缩减后，新记忆中的重叠部分更易于保存下来，整合入已有的记忆网络中。这些记忆重组帮助获得更大的、更明确的联想网络，有利于问题的创造性解决。该观点也得到了计算机模拟结果的支持(Nere et al.,2013)。因此，突触稳态假说能在一定程度上解释睡眠对创造性问题解决的影响。
+
+该理论首次在细胞层面对睡眠如何影响创造性问题解决做出解释。但是，它也存在明显不足：睡眠期间的突触变化并非局限于整体的强度缩减，睡眠还有助于突触联想可塑性，即帮助局部突触的精细调整。有研究使用经颅磁刺激(transcranial magnetic stimulation,TMS)和 EEG 探讨了睡眠和睡眠剥夺条件下的突触变化，发现相比于睡眠状态，睡眠剥夺条件下的总体突触强度增加，而联想可塑性下降，在行为层面上体现在联想记忆任务的表现较差(Kuhn et al,2016)。该结果为睡眠期间的突触稳态与突触联想可塑性的分离提供了证据。睡眠不仅维持突触稳态，以此提取规则，而且重新调整联想可塑性，为记忆间的新奇联系和睡眠后的行为改善提供支持。未来研究应将突触稳态和联想可塑性结合，并明确不同睡眠阶段下的可塑性变化，以建立一个更全面的理论解释。
+
+# 4.4BiOtA模型
+
+BiOtA 模型(broader form of the information overlap to abstract model)认为，REM 和 NREM重叠交替的记忆回放能帮助创造性问题解决。该模型强调不同睡眠阶段下，记忆回放的发生位置存在差异，可以产生不同类型的记忆重组，影响不同类型问题的创造性解决。NREM睡眠阶段，记忆回放主要发生于海马，用来建立与新皮层的连接强度，海马中记忆项目的共性或重叠传递到新皮层，该阶段主要通过帮助规则提取、形成关系记忆，进而帮助创造性问题解决。而在REM睡眠阶段，记忆回放主要发生于新皮层，在NREM睡眠期间抽取的重叠表征被再次回放，识别其与已存储在新皮层内的信息之间的共性，获得更压缩、抽象的表征，这些更抽象的表征明显不同于记忆获取时的内容，因而对于个体而言，这些表征是不常见的，属于一种新奇联想，因此该阶段主要通过帮助新奇联想形成，帮助创造性问题解决(Lewis etal.,2018)。
+
+基于该模型的观点可以推测，在不同的睡眠阶段人为诱发记忆回放后，被试可以表现出不同类型的记忆重组、解决不同类型的问题。多项研究也支持了该模型。例如，有研究使用SRTT，在SWS期间通过声音线索诱发统计规律的记忆回放后，发现与睡眠期间未人为诱发记忆回放相比，诱发记忆回放后更多被试获得统计规律的显性知识，能使用获得的统计规律解决后续问题(Cousins etal.,2014)。另有研究发现，在REM睡眠中使用声音线索诱发对面孔图片的记忆回放时，被试获得基于回放内容形成的创造性联想，表现为超越原面孔图片的更加概括化的记忆(Sterpenich et al.,2014)。而 fMRI研究也表明，以 SRTT为研究任务，在 SWS 期间诱发记忆回放时，皮层下区域序列学习相关的海马和尾状核在 SWS 期间连接增强，REM睡眠期间诱发的记忆回放会引起运动皮层和小脑的激活增加(Cousins et al.,2016)，为在不同睡眠阶段记忆回放发生的区域差异提供了支持，NREM睡眠阶段记忆回放主要发生于海马，REM睡眠阶段记忆回放主要发生于新皮层。
+
+总结而言，在整晚的睡眠中，NREM睡眠和REM睡眠之间多次重复，这可能会使信息被极端程度的抽象和压缩，促使检测明显不同的记忆中的共享结构，促进更意想不到的联想网络和记忆要点的形成，以此帮助创造性问题解决。BiOtA模型作为最新提出的理论解释，综合了互补学习系统模型和突触稳态假说，将系统和细胞层面相结合，并对各睡眠阶段的记忆回放发生位置与作用进行了区分。最重要的是，该模型首次明确提出，睡眠阶段的重叠交替对创造性问题解决的作用，强调睡眠整体结构的重要性。
+
+# 5小结
+
+回顾现有关于睡眠影响创造性问题解决的文献，大部分研究指向共同的结论：睡眠通过帮助记忆重组促进创造性问题解决。这提示我们劳逸结合的重要性，适宜的睡眠是灵活运用知识以创造性地解决问题的保障。但是，目前对于直接探究睡眠、记忆重组和创造性问题解决三者关系的实证研究较少，未来研究应增加对该问题的直接验证。除此之外，还有一些问题有待完善和解决。
+
+# 5.1加强睡眠对解决界定模糊的问题的影响研究
+
+已有研究多使用NRT、RAT等界定明确的问题探究睡眠对创造性问题解决的影响，而很少使用界定模糊的问题进行研究。界定明确的问题，其起始状态和目标状态明确，但在现实生活中并不常见。相反，界定模糊的问题(ill-defined problem)更常见，它的起始状态和目标状态都不明确，并会随时间而改变；其解决是多维的，需要庞大的知识网络，在多种层次上灵活运用现有知识，还需要认知、情感、动机等的合作(Dormer&Funke,2017)。解决界定模糊的问题是未来最需要具备的能力之一。因此，睡眠能否以及如何影响界定模糊的问题的解决更值得关注。
+
+已有研究开始关注睡眠对解决界定模糊问题的影响，但是结果尚有争议。有研究使用问卷调查法，调查睡眠期间梦境对睡醒后的现实问题解决的影响，结果表明，约 $80 \%$ 的被试表示睡梦曾为现实中的问题解决提供了启示(Perdomo etal.,2018)。而另一项研究使用实验法，通过电脑互动，要求被试解决复杂犯罪故事，发现后测时睡眠和清醒条件下的问题解决表现与前测无显著差异(Holda et al.,2020)，这首次为睡眠无益于解决界定模糊的问题提供了直接实验证据。由于上述研究各有利弊，问卷调查法的结果来源于被试的主观回忆，结果的精确性有限，而实验法中使用的问题很少遇到，这可能导致结果的概括性不强，因此当前仍不能明确睡眠对解决界定模糊问题的影响。可见，未来研究首先应提高生态效度，明确睡眠是否帮助解决界定模糊的问题。此外，未来研究应深入探讨睡眠如何促进界定模糊问题的创造性解决。由于解决界定模糊的问题背后认知过程的复杂性，记忆重组可能并不能完全解释睡眠对此类问题解决的影响，未来研究应关注睡眠对解决界定模糊的问题所需要的认知成分的影响，深入探究其机制。
+
+# 5.2探究情绪记忆在睡眠影响创造性问题解决中的作用
+
+当前研究认为睡眠期间的问题相关记忆自发回放，引起创造性问题解决所需的记忆重组。但是，忽略了情绪记忆在此过程中的作用。情绪记忆指对体验过的情绪和情感的记忆。个体在面对难以解决的问题时会不可避免地出现情绪变化，例如体验到焦虑、愤怒等情绪，此时问题相关记忆也可以被视为情绪记忆。关于情绪记忆的研究已发现，与中性记忆相比，睡眠通过提高情绪记忆的回放程度，优先巩固情绪记忆，且情绪性越强，回放程度越强，尤其当情绪性记忆为消极时(Lehmann et al.,2016; Payne et al.,2015)。而更强的记忆回放能帮助创造性问题解决(Sanders etal.,2019)。基于此可以猜测，当睡眠前面对的问题难以解决时，个体可能产生对问题的消极情绪记忆，从而使问题的相关记忆在睡眠期间更强地激活，触发对该记忆的优先重组，进而促进创造性问题解决，且产生的情绪体验越强时，睡眠的作用越明显。但是，尚未有研究直接检验情绪记忆在睡眠影响创造性问题解决中的作用。通过在记忆重组角度解释睡眠如何影响创造性问题解决，可以扩充现有的机制研究。因此，未来研究应关注情绪记忆在睡眠影响创造性问题解决中的作用，细化睡眠阶段的作用机制。
+
+# 5.3关注睡眠期间记忆信息的跨模态迁移
+
+在当前研究中，多关注睡眠对单模态的记忆信息重组的帮助，以促进创造性问题解决；生理机制上关注单模态的记忆信息重组时，各个脑区的特定功能和脑区间动态的协同作用。但是个体从外界获取的信息是多模态的，在一种模态中获得的信息可能应用于另一种模态，例如将听觉记忆重组应用于解决视觉问题，且这种跨模态迁移可能使问题解决方案产生更强的创造性，因此关注睡眠对跨模态迁移的影响是必要的，通过扩充记忆重组的范围，关注不同记忆类型间的重组，从而深化睡眠影响创造性问题解决的机制研究。
+
+有研究使用统计学习范式探讨睡眠对统计信息跨模态迁移的影响，发现相比于 $3 0 \mathrm { { m i n } }$ 无睡眠间隔，经过有睡眠的24h间隔后，更多被试能提取统计结构，并将在听觉序列中抽取的规则应用于视觉序列，SWS预测了这一行为的出现。fMRI数据显示24h组中与规则学习相关的纹状体显著激活，而功能连接分析也表明了楔前叶及枕中回与纹状体的左壳核的联系增强，且与SWS 部分相关，这说明睡眠期间，视觉-空间心理意向和多通道整合网络的参与帮助了规则的跨模态迁移(Durrant et al.,2016)。该研究首次证明了睡眠有助于获得重组后的听觉记忆的跨模态迁移，并用于解决视觉问题。但是由于两种实验条件的时长不同，可能混淆时间和睡眠的影响。因此未来研究应该，首先，精确控制可能混淆睡眠作用的因素，以明确睡眠与跨模态迁移和创造性问题解决的关系。其次，有研究发现，跨模态迁移被特定的认知控制机制驱动(Kattner et al.,2019)，但现有研究尚未提出背后的完整机制。因此，未来研究可关注睡眠期间发生跨模态迁移时脑区的动态激活，为其生理机制提供依据。最后，当前研究多使用 fMRI，可以提供睡眠期间的脑区激活信息，但是时间分辨率差，未来研究可以使用能提供高时空分辨率的技术，例如同步EEG-fMRI技术，以获得更精确的多模态数据。
+
+# 参考文献
+
+Alger,S.E.,&Payne,J.D.(20l6).The diferential effectsof emotional salienceon directassociativeandrelational memory during a nap. Cognitive,Affective & Behavioral Neuroscience,16(6),1150-1163.   
+Baterink,L.J.,Creery,J.D.,&Paler,K.A. (20l6).Phaseofspontaneous slowoscilationsduring sleepinfluences memory-related processing of auditory cues. The Journal of Neuroscience,36(4),1401-1409.   
+Beda,Z.,& Smith,S.M.(2018). Chasing red herrings: Memoryof distractorscauses fixation in creative problem solving.Memory & Cognition, 46(5),671-684.   
+Beijamini,F.,Pereira,S.I.R., Cini,F.A.,&Louzada,F.M. (2014).After being challenged bya video game problem, sleep increases the chance to solve it.PLoS One,9(1),e84342.   
+Born, J.,& Wilhelm,I. (2012). System consolidation of memory during sleep. Psychological Research,76(2),192- 203.   
+Brodt,S.,Pohlchen,D.,Täumer,E.,Gais,S.,& Schonauer,M.(2O18). Incubation,not sleep,aids problem-solving. Sleep, 41(10), zsyl55.   
+Cai,D.J.,Mednick,S.A.,Harrison,E.M.,Kanady,J.C.,& Mednick,S.C.(20o9).REM, not incubationmproves creativity by priming associative networks. Proceedings of the National Academy of Sciences of the United States ofAmerica,106(25),10130-10134.   
+Cherdieu,M.,Reynaud,E.,Uhlrich,J., Versace,R.,& Mazza,S. (2014). Does age worsen slep-dependent memory consolidation?Journal of Sleep Research,23(1),53-60.   
+Chermahini,S.A.,& Hommel,B.(20l0).The (b)link between creativity and dopamine: Spontaneous eye blink rates predict and dissociate divergent and convergent thinking. Cognition, 115(3), 458-465.   
+Cohen-Zion,M.，Shabi,A.,Levy，S.，Glasner,L.，& Wiener,A.(2016).Efectsof partial sleep deprivation on information processng speed in adolescence.Journal of the International Neuropsychological Society,22(4), 388-398.   
+Cousins,J. N.,El-Deredy,W.,Parkes,L. M., Hennies,N.,& Lewis,P.A. (2014). Cued memory reactivation during slow-wave sleep promotes explicit knowledge of a motor sequence. The Journal of Neuroscience,34(48), 15870-15876.   
+Cousins,J.N.,El-Deredy,W.,Parkes,L.M.,Hennies,N.,&Lewis,P.A. (2016). Cued reactivation of motor learning during sleep leads to overnight changes in functional brain activity and connectivity. PLOS Biology， 14(5), e1002451.   
+Debarnot, U.,Rosi,M.,Faraguna,U.,Schwartz,S.,&Sebastiani,L. (20l7).Sleepdoes not facilitateinsight nolder adults. Neurobiology ofLearning and Memory, 140,106-113.   
+Dormer,D.,& Funke,J.(2O17). Complex problem solving: What it is and what it is not.Frontiers in Psychology,8, 1153.   
+Durrant, S.J., Cairney,S.A.,&Lewis,P.A. (20l3). Overnight consolidationaids the transferof statistical knowledge from the medial temporal lobe to the striatum. Cerebral Cortex, 23(10),2467-2478.   
+Durrant, S.J., Cairey,S.A.,&Lewis,P.A. (2016). Cross-modal transferof statistical information benefits fromsleep. Cortex, 78,85-99.   
+Fogel,S. M.,Albouy, G., Vien,C.,Popovicci,R.，King,B.R.,Hoge,R.,...Doyon,J. (2014).fMRI and sleep correlates of the age-related impairment in motor memory consolidation. Human Brain Mapping, 35(8), 3625-3645.   
+Rauchs,G.,Schabus,M.,Parapatics,S.,Bertran,F.,Clochon,P.,Hot,P...Anderer,P.(2Oo8).Is therealinkbetween sleep changes and memory in alzheimer's disease? NeuroReport, 19(11),1159-1162.   
+Hennies,N.,Lambon Ralph, M.A., Durrant, S.J., Cousins,J.N.,& Lewis,P.A. (2017). Cued memory reactivation during SWS abolishes the beneficial effect of sleep on abstraction. Sleep, 40(8), ZSX102.   
+Holda,M., Glodek,A.，Dankiewicz-Berger,M.，Skrzypinska,D.，& Szmigielska,B.(2020).Il-efined problem solving does not benefit from daytime napping. Frontiers in Psychology, 11,559.   
+Huber,R.,Maki,H.,Rosanova,M.,Casaroto,S., Canali,P.,Casali,A.G...Massimini,M.(2013).Humancortical excitability increases with time awake. Cerebral Cortex,23(2),1-7.   
+Huguet,M.,Payne,J.D.,Kim,S.Y.,&Alger,S.E.(2O19). Overnightsleep benefits both neutral and negative direct associative and relational memory. Cognitive, Afective, & Behavioral Neuroscience, 19(6),1391-1403.   
+Kattner,F.,Smaan,L,&Schubert,T.(2019).Cro-modaltransferafterauditorytask-switching traiing.Memory& Cognition, 47(5),1044-1061.   
+Kirov,R.,Kolev, V.,Verleger,R.,&Yordanova,J.(2O15).Labile sleeppromotes awarenessofabstract knowledge na serial reaction time task.Frontiers in Psychology,6,1354.   
+Kralik, J. D.,Mao,T., Cheng, Z.,& Ray,L.E. (2016). Modeling incubation and restructuring for creative problem solving in robots.Robotics and Autonomous Systems,86,162-173.   
+Kuhn,M.,Wolf,E.,Maier,J.G.,Mainberger,F.,Feige,B.,Schmid,H.,..Nissen,C.(2016).Sleeprecalibrates homeostatic and associative synaptic plasticity in the human cortex. Nature Communication, 7,12455.   
+Landmann,N.,Kuhn,M.,Maier,J.-G.,Feige,B.，Spiegelhalder,K.,Riemann,D.,& Nisen,C.(2016).Sleep strengthens but does not reorganize memory traces in a verbal creativity task. Sleep,39(3),705-713.   
+Landman,N.，Kuhn,M.,Piosczyk,H.，Feige,B.，Baglioni,C.,Spiegelhalder,K.，...Nissen,C.(2014).The reorganisation of memory during sleep. Sleep Medicine Reviews,18(6),531-541.   
+Larson-Prior,L.J.,Azhar,G.,Davila,D.G.,Jun,S.-R.,Kemp,A.S.,Nookaew,I,... Wassenaar,T. M.(2017). Neurobiology of sleep and microbiomics in aging. OBM Neurobiology， 1(2), 003.   
+Lau,H.,Tucker,M.A.,&Fishbein,W. (20l0).Daytime napping: Efects on human direct assciative and relational memory. Neurobiology of Learning and Memory, 93(4),554-560.   
+Lavoie, C.J., Zeidler, M. R.,& Martin, J.L. (2018). Sleep and aging. Sleep Science and Practice, 2, 3.   
+Lehmann,M.Schreiner,T.,Seifritz,E.&Rasch,B.(2Ol6).Emotionalarousal modulates oscillatorycorrelatesof targeted memory reactivation during NREM, but not REM sleep. Scientific Reports, 6,39229.   
+Lewis, P. A., Knoblich, G.,&Poe,G. (2018). How memory replay in sleep boosts creative problem-solving. Trends in Cognitive Sciences, 22(6),491-503.   
+Llewellyn,S.,& Hobson,J.A. (2015). Not only. But also:REM sleep creates and NREM stage 2 instantiates landmark junctions in cortical memory networks. Neurobiology ofLearning and Memory， 122, 69-87.   
+Lo,J. C.,Ong,J.L.,Leong,R.L.F.,Gooley,J.J.,&Chee,. W.L. (216).Cognitive performance,slepinss,and mood in partially sleep deprived adolescents: The need for sleep study. Sleep, 39(3), 687-698.   
+Lowe,C.J.，Safati, A.,& Hal, P.A. (20l7). The neurocognitive consequences of sleep restriction: A meta-analytic review. Neuroscience & Biobehavioral Reviews, 80,586-604.   
+Luo,J.,& Niki,K. (2003).Function of hippocampus in "insight"ofproblem solving. Hippocampus,13(3),316-323.   
+Lv,K.(2015).The involvementof working memory and inhibition functions inthe diferent phases of insight problem solving. Memory & Cognition, 43(5),709-722.   
+Martinsen,O.L.，& Furnham,A.(2019). Cognitive style and competence motivation in creative problem solving. Personality and Individual Differences,139,241-246.   
+McClelland,J.L.,McNaughton,B.L.,& OReilly,R. C. (1995). Whythere are complementary learning systems inthe hippocampus and neocortex: Insights from the successes and failures of connectionist models of learning and memory. Psychological Review, 102(3), 419-457.   
+Nere,A.,Hashmi,A., Cirelli, C.,& Tononi,G.(20l3).Slep-dependent synaptic down-selection (I):Modeling the benefits of sleep on memory consolidation and integration.Frontiers in Neurology, 4,143.   
+Nir,Y.,& Tononi, G. (2010). Dreaming andthe brain: From phenomenology to neurophysiology.Trends in Cognitive Sciences, 14(2),88-100.   
+Nizet,L.,Montana,X.,Lanquart,J.-P.,& Loas,G.(2O18).Research intoan assciation between anhedonia and decreased REM latency in moderately to severely depressed patients. Sleep Disorders, 2018,1636574.   
+Olinger,M., Jones,G.,& Knoblich, G. (2014).The dynamics of search, impase,and representational change provide a coherent explanation of difficulty in the nine-dot problem.Psychological Research,78(2),266-275.   
+Patrick, Y.,Lee,A.,Raha,O.,Pilli, K., Gupta,S.,Sethi, S... Moss,J. (2017). Effects of sleep deprivationon cognitive and physical performance inuniversity students. Sleep and Biological Rhythms,15(3),217-225.   
+Payne,J.D.Kensinger,E.A.,Wamsley,E.J,Spreng,R.N.,Alger,S.E.,Gibler,K...Stickgold,R. (20).Naping and the selective consolidation of negative aspects of scenes. Emotion,15(2),176-186.   
+Perdomo,V.L.,Hofman, W.F.,& Talamini,L.M.(2018).Slep fosters insight into real-life problems.Archives Italiennes de Biologie,156(3), 87-98.   
+Perogamvros,L.,& Schwartz, S.(2012). The roles of the reward system in sleep and dreaming. Neuroscience & Biobehavioral Reviews,36(8),1934-1951.   
+Power, A.E. (2o04).Slow-wave sleep,acetylcholine,and memory consolidation.Proceedings of the National Academy of Sciences of the United States of America, 101(7),1795-1796.   
+Ritter, S.M.,Strick,M.,Bos,M.W,Van Baaren,R.B.,& Dijksterhuis,A.(2012). Good morning creativity: Task reactivation during sleep enhances beneficial efect of sleep on creative performance. Journal of Sleep Research, 21(6), 643-647.   
+Sanders,K.E.G., Osburn，S.,Pallr, K.A.，& Beeman,M. (2019). Targeted memory reactivation during sleep improves next-day problem solving.Psychological Science, 30(11),1616-1624.   
+Schonauer, M.,Brodt,S.,Pohlchen,D.,BreBmer,A.,Danek,A.H.,& Gais,S.(2018). Sleep does not promote solving classical insight problems and magic tricks.Frontiers in Human Neuroscience,12,72.   
+Schreiner,T.,Lehmann, M.,& Rasch,B.(2O15).Auditory feedback blocks memory benefits of cueing during slep. Nature Communications,6,8729.   
+Sio,U.N.,Monaghan,P.,&Ormerod,T. (2013).Seepon it,but onlyif itis difficult:Effectsof sleeponproblem solving. Memory & Cognition, 41(2),159-166.   
+Staresina,B.P.，Bergmann,T.O.,Bonnefond,M.，van der Meij,R.,Jensen,O.，Deuker,L.，...Fell,J.(2015). Hierarchical nesting of slow oscilations, spindles and ripples in the human hippocampus during sleep. Nature Neuroscience,18,1679-1686.   
+Sterpenich,V.,Schmidt,C.,Albouy,G.,Matarazzo,L., Vanhaudenhuyse,A.,Boveroux,P.,.Maquet,P.(2014). Memory reactivation during rapid eye movement sleep promotes its generalization and integration in cortical stores. Sleep, 37(6),1061-1075.   
+Stickgold,R.，ScottL.,Ritenhouse,C.，& Hobson,J.A.(1999).Sleep-induced changes inassciative memory. Journal ofCognitive Neuroscience,11(2),182-193.   
+Tamminen,J.,Payne,J.D.,Stickgold,R.,Wamsley,E.J.,&Gaskel,M.G. (201).Sleepspindleactivity isasociated with the integration of new memories and existing knowledge. The Journal of Neuroscience, 30(43),14356- 14360.   
+Tononi,G.,& Cireli, C.(20o6). Sleep function and synaptic homeostasis. Sleep Medicine Reviews,10(1),49-62.   
+Verleger,R.,Rose,M.,Wagner,U.,Yordanova,J.,&Kolev,V. (20l3).Insights intosleep'srolefor insight:Studies with the number reduction task. Advances in Cognitive Psychology, 9(4),160-172.   
+Wagner,U., Gais,S.,Haider,H.,Verleger,R.,&Born,J. (2004).Sleepinspires insight.Nature,427,352-355.   
+Wang,M.,Hao,N.,Ku,Y.,Grabner,R.H.,&Fink,A.(2017).Neural correlates of serial order effectin verbal divergent thinking. Neuropsychologia, 99, 92-100.   
+Wei,Y.,Krishnan, G.P.,& Bazhenov,M.(2O16).Synaptic mechanisms of memoryconsolidation during sleep slow oscillations. The Journal of Neuroscience, 36(15), 4231-4247.   
+Wei, Y.,Krishnan,G.P.,Komarov,M.,& Bazhenov,M. (2018). Diferential rolesof slepspindles and sleepslow oscillations in memory consolidation. Plos Computational Biology, 14(7),el006322.   
+Wilhelm,1,Rose,M.,Imhof,K.I,Rasch,B.,Buchel,C.,&Born,J. (2013).The sleepingchildoutplays theadults capacity to convert implicit into explicit knowledge. Nature Neuroscience, 16,391-393.   
+Yordanova,J.,Kolev,V.,Bruns,E.,Kirov,R.,& Verleger,R.(20l7).Slepspindlesintherighthemispheresupport awareness of regularities and reflect pre-sleep activations. Sleep, 40(11), ZSX151.   
+Yordanova,J.Kolev,V.,Verleger,R.,Bataghva,Z,Bor,J.,&Wagner,U. (28).Sifting fromimplicittoexplicit knowledge: Different roles of early- and late-night sleep. Learning & Memory, 15(7),508-515.   
+Yordanova,J.,Kolev, V., Wagner,U.,Born,J.,& Verleger,R. (2012). Increased alpha $[ 8 - 1 2 \ \mathrm { H z } ]$ activity during slow wave sleep as a marker for the transition from implicit knowledge to explicit insight. Journal of Cognitive Neuroscience, 24(1),119-132.
+
+# How does sleep affect creative problem-solving: An interpretation based on memory reorganization
+
+WANG Zhengyu,HU Jinsheng (Department of Psychology,Liaoning Normal University,Dalian 116o29,China)
+
+Abstract: Sleep boosts creative problem-solving by promoting memory reorganization, which is the focus of this review. Studies have shown that rapid eye movement sleep mainly facilitates novel associations,while non-rapid eye movement sleep facilitates the abstraction of rules,the formation of relational memory, and the integration of memories. However， several factors have been shown to moderate the impact of sleep on creative problem-solving; these include sleep structure changes, the manipulation of information processing during sleep,and task types. In the existing theoretical mechanisms, the spreading activation model has gradually been replaced by the mechanisms at the systemic and cellular levels, including hippocampal-neocortex dialogue,synaptic plasticity, and the overlapping memory replay during sleep. Future studies should broaden the scope of research by transforming problem types.Moreover, efforts should be focused on emotional memory and the crossmodal transfer of memories during sleep to deepen the mechanism research.
+
+Keywords: sleep, memory reorganization, creative problem-solving

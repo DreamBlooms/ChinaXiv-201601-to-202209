@@ -1,0 +1,158 @@
+# 助推目标实现：时间标记的动力效应
+
+赵晓颖 李爱梅 王海侠(暨南大学管理学院 广州 510632)
+
+摘 要时间标记是指日常生活中所有突出的独特性事件。个体在经历当下的时间标记或期待未来的时间标记时，其追求目标的动机水平得到提高，并表现出更多的目标相关行为，即时间标记具有一种动力效应。时间标记可能增加了个体对不同时间自我之间的分离感，继而通过自我效能感、保持一致的自我形象、损失规避及缩小差距等心理过程提高追求目标的动机。未来研究应进一步探讨时间标记在动力效应中的角色定位及动力效应的持续时间、探究时间标记动力效应的普适性、检验可能的心理机制并在实践领域开展时间标记助推行为决策的应用研究。关键词时间标记；目标实现；动力效应；时间自我评价；助推
+
+# 引言
+
+“生活没有目标，犹如航海没有罗盘。”目标对自我提升和人生价值的实现意义重大，因而人们热衷于设立和追求各种各样的目标。遗憾的是，个体总是缺乏足够的自我控制(self-control)和动机(motivation)为实现目标付出所需的时间和精力(Milkman,Rogers,& Bazerman,20o8)，做出短视性决策(nearsighted decisionmaking)。例如在减肥、戒烟和储蓄等方面的反复拖延。这不仅不利于个人发展，还可能引发高肥胖率等诸多社会问题。
+
+如何使个体走出惰性困境，提高其追求和实现目标的动机？过往大多数研究主要关注情境因素在其中的作用，从外部的视角加以探讨(Sela,Berger,& Liu,2008;Milkman, 2012; Touré-Tillery & Fishbach, 2012; Townsend & Liu, 2012)，而较少由内部激励的角度出发进行考虑。近来，有学者注意到一些在自发起作用的时间点——时间标记(temporal landmarks)可以通过影响个体的自我评价促使其更有动力地追求和实现目标。这些外部自然事件改变了个体对时间和自我的感知，继而引起个体内部动机的提高。例如，人们往往在新年伊始更加关注愿望或目标(Norcross,Mrykalo,&Blagys,2002)，也有研究发现人们最有可能在一周中的星期一考虑自己的健康问题并去健身房锻炼(Ayers,Althouse,Johnson,&Cohen,2014)。因此，在周一开始实施健身计划往往更有成效。这些研究认为个体在经历当下的时间标记或期待未来的时间标记时，追求目标的动机水平得到提高，会比平常更有动力、也更加坚定地追求和实现目标并付诸行动(Dai,Milkman,&Riis,2015;Li,2018;Peetz＆Wilson,2014)，即时间标记具有一种动力效应。这一效应有助于改善个体安于现状的惰性，提高自我控制水平，对个体追求和实现目标形成助推。
+
+目前有关时间标记动力效应的研究都比较零散，时间标记究竟对个体追求和达成目标过程中的哪些方面会产生动力，其中的作用机制是什么，尚未有研究者进行过系统的论述。基于此，本文对时间标记在目标动机和目标行为两个层面起到的动力效应进行了系统阐述，并结合相关理论提出其中的心理机制，最后指出未来的研究方向，以期为相关研究者带来新的视角和启发。
+
+# 1时间标记的概念内涵
+
+时间标记的概念最早出现在记忆领域的研究中。19世纪，Ribot(1882)在《记忆的疾病》一书中提出个体的自传体记忆是由参考点(reference points)组成的。他将参考点定义为存在于个体意识中的事件及状态，并认为参考点在时间中所处的位置可以被个体感知到(引自Conway,1990)。学界普遍认为这些参考点便是时间标记的前身。在后续对自传体记忆的研究中，个人参考系统(personal referencesystems)等类似的概念(Kurbat,Shevell,& Rips,1998;Robinson,1986)也被用来描述这些事件。在此基础上，Shum(1998)首次提出了时间标记，将其定义为人们生活中的特殊时间段，这些时间标记与个体每天看似无关紧要和无休无止的普通事件形成鲜明对比。这一阶段的主要研究内容为时间标记与个体自传体记忆之间的关系。
+
+随着研究范围的延伸，行为决策领域开始引入时间标记，并将其界定为日常生活中所有突出的独特性事件(Peetz&Wilson,2013;Dai,Milkman,&Riis,2014)。主要包括了两大类:个人事件和日历参考点(reference events)(Peetz&Wilson,2013;Shum,1998)。第一类指的是个体亲身经历的事件和对个体有重大意义的事件。例如“里程碑年龄”、生活中的转变，首次经历以及重复出现的具有经常性意义的场景(如生日)等(LeBoeuf,Williams,& Brenner,2014;Robinson,1986)，对人们的个人历史起着标定作用。第二类指的是由社会生活构建和共享的各类时间表中的参考点。例如周一、每个月第一天、新年第一天、一个学期的开始和世俗及宗教节日等(Kurbat et al.,1998;Robinson,1986)。可见，时间标记既具有个人属性，受到个人特质和经历的影响；也具有文化共享性(Shum,1998)，受到人们文化背景、生活习俗、宗教信仰以及身份职业等的影响。这些研究延伸了时间标记的内涵，不再将其局限于记忆范畴，而是以更一般性、时间尺度更广的视角来定义时间标记。时间标记不仅影响着个体回想记忆和认知时间的方式(Ahn,Liu,& Soman,2009;Zauberman,Levav,Diehl,&Bhargave,201O)，对个体的跨期决策偏好具有调节作用(徐岚，陈全，崔楠，陆凯丽，2019)；也为不同的时间段指明了边界，可以被用来组织当下的活动和未来的计划(LeBoeuf et al.,，2014；Soster,Monga,&Bearden, 2010; Tu & Soman, 2014)。
+
+# 2时间标记的动力效应
+
+追求和实现目标是一个持续性的过程，Gollwitzer(2012)认为期间个体会经历两种思维模式：一种为审慎思维模式(deliberative mind-set)，即以计划和评估为特征的信息处理模式，也可以理解为是个体目标动机的产生；另一种为实施思维模式(implementalmind-set)，即一种行动取向的信息处理模式，以实施行动为特征，这种思维模式影响的是个体目标相关行为的产生。目标动机和目标行为分别构成了个体追求目标过程中的内隐层面和外显层面。
+
+近来，判断与决策方面的研究发现当个体在经历当下或是期许未来的时间标记时，其追求目标的动机水平会有所提高，并且伴随着更多的目标相关行为(Daiet al.,2014,2105;Peetz&Wilson,2013)。下文将分别以时间标记在目标动机和目标行为这两个层面起到的动力效应对相关实证研究进行概述和总结。
+
+# 2.1时间标记对目标动机的动力效应
+
+目标动机是个体追求和实现目标过程中不可或缺的一环，解释的是为什么要追求目标以及追求目标的意愿强烈度问题。具体可以表现为搜寻相关信息、考虑目标可行性、目标意愿和目标承诺等(Gollwitzer，2012)。研究表明时间标记有助于个体目标动机的产生和提高，激发个体的相关行为。
+
+时间标记可以增强个体对目标相关信息的搜索行为，增强其对目标的关注度。美国疾病控制和预防中心的统计显示，大约三分之二的美国成年人处于超重或肥胖状态(Centers forDisease Control and Prevention,2O13)。而保持健康的饮食是维持最佳体重最有效的方法之一(Shai etal.,2008)，因此，节食(diet)成为大多数美国人的一项重要目标。Dai 等人(2014)以美国人群体为研究对象，分析了其在互联网上搜索节食相关信息的情况，发现搜索量会随着新的一周/一个月、新年和节假日有不同程度的增加。类似的结果也在其他群体中得到了重复，研究者发现在挪威存在一种在线信息搜索的行为模式一一人们在维基百科上对健康(八种疾病)、音乐及体育等有关词语的搜索频率会在每周一有所增多(Gabarron,Lau,&Wynn,2015)。出现这些现象的一个可能原因是时间标记增加了个体过去和现在之间的心理距离感知，使其将现在的自己和过去不完美的自己相隔离，从而促进了个体对目标的关注和追求。此外，Ayers 等人(2014)进一步通过7种语言更加直接地发现个体的搜索“戒烟”行为存在周节律，即个体会在周一更为关注戒烟问题，并且追求目标的动力也最强。可见时间标记对促进目标动机的产生和提高具有一定的跨文化一致性，未来可以在更多文化背景下加以检验。
+
+时间标记还可以显著提高个体追求目标的意愿程度。在一项实验室实验中，研究者要求被试写出其将在4月份启动的一个目标及具体计划，并在3月18日至24日之内选择一天来接收一封目标提醒邮件，邮件内容包括目标描述、实施计划和被试可以自定义的激励信息。两组实验材料的唯一区别是对3月20日的表述，时间标记组将其表述为一个时间标记(周四；2014年春季的开始)，普通组则表述为普通的一天(周四；2014年3月的第三个周四)。结果发现相较于普通组，在时间标记条件下，更多的被试会选择在3月20日(春季的开始)接收提醒邮件(Dai et al.,2015)。随后在一项针对大学生群体的研究中，相较于普通的在校日，被试更倾向于选择“暑假第一天”来接受目标提醒邮件。可见，个体更愿意选择在时间标记发生的时候开始启动自己设定的目标，时间标记提高了人们追求目标的动机和意图。类似的结论在中国情境下也得到了支持。叶和旭和赵然(2015)发现当向被试强调下一个学期的开学日时，大学生的锻炼意愿会得到增强。值得注意的是，这一研究还发现时间标记对目标动机的促进只在时间监控能力强的群体中有效，表明时间标记的动力效应可能存在一些边界条件。这一效应是否存在个体特征及其他类型的调节变量可作为未来扩展研究的一个具体方向。上述研究中采用的时间标记或划分了两个相邻的自然季节，或分割了两类生活时期(学期与暑期)，这些时间标记更容易使个体产生“新起点”的感知，从而在很大程度上增强了其追求目标的意愿。那么其他类型的时间标记是否具有同样的促进作用？Dai等人(2015)在研究中发现人们预想自己在第一次搬家之后，重新开始追求过去未实现目标的意愿也会显著提高。可见，除具有社会共享性质的时间标记以外，一些有重要意义的个人经历同样可以提高个体追求目标的意愿，增强目标动机。
+
+在目标承诺方面，时间标记同样具有动力效应。有研究者将一个目标设定网站(StickK.com)上的承诺合同作为研究对象(Daietal.，2014)，探讨了个体签署目标承诺合同的行为是否会跟随时间标记发生变化。这些承诺合同是一种由用户自愿签署并具有约束力的协议，用户如果未能实现预定目标将会产生一定的财务损失。因此，签订承诺合同这一行为体现了个体追求目标的强烈意图和动机。结果发现人们更愿意在周一、新年第一天、节假日和生日的时候创建有关目标的承诺合同，并且设立的目标囊括了健康、职业发展、教育和投资理财等领域，具有一定的普遍意义。这表明时间标记可以增加人们做出目标承诺的可能性，个体目标动机的产生和提高确实会受到一些时间标记的有益影响。
+
+# 2.2时间标记对目标行为的动力效应
+
+追求乃至实现目标不仅需要一定的意向和目标动机，还要求个体做出与目标方向一致的实际行动，例如启动一项目标和实施具体计划等行为，这些行为是个体追求乃至实现目标最直接的体现。时间标记也在一定程度上影响和塑造着个体外显的目标相关行为。研究发现，人们在经历时间标记时进行目标相关行为的动力会增强，换言之，目标行为的频率会在时间标记发生时有所增加(Dai&Li,2019;Lee & Dai, 2017)。
+
+目前，一些实证研究的结果为时间标记对目标行为的动力效应提供了证据。Dai等人(2014)对某大学附属健身中心会员的出勤数据进行分析，发现在周一、每个月的第一天、新年第一天、学期的开始日和会员生日的时候出勤率都有不同程度的提高。这表明个体的目标相关行为会跟随时间标记的出现而增多。但是这一研究主要基于历史档案数据，可能会受到许多其他因素的干扰，时间标记对目标行为的促进需要更为直接有效的实证支持。之后，在Hennecke和Converse(2017)以节食目标为例的实验研究中，他们发现相较于日历参考点中的其他时间，周一和新一个月的第一天对个体启动目标是更有吸引力的，人们确实更偏好于在这些时间标记开始为自己的目标付出行动，并且对追求目标的期望也随之提升。进一步表明了时间标记的发生可以提高个体追求目标的动力。
+
+在健康领域之外，储蓄领域也是目前备受研究者关注的一个焦点。Beshears,Dai,Milkman和BenartziD(2017)采用现场实验在退休储蓄领域进行了为期9个月的研究。被试包括美国四所大学的8682名员工，他们被随机分配至三个实验条件：无延迟(no-delay)条件，即邀请被试立即增加储蓄；标准延迟(standard-delay)条件，被试可以选择立即或延迟一段时间(如两个月)增加储蓄；新起点(fresh-start-delay)延迟条件，被试可以选择立即或在某一个时间标记之后(例如下一个生日)增加储蓄。其中，后两个实验条件的第二个选项均运用了预先承诺(pre-commitment)的助推原则，唯一的区别在于新起点延迟条件下，选项的描述将预先承诺与未来的时间标记相结合，这可能会吸引更多的人提高储蓄。实验结果与假设一致，相比于单独的预先承诺助推，新起点延迟条件下人们的平均储蓄率更高。上述这些研究表明时间标记在个体实施目标行为层面起到动力效应。但是，这些研究缺少系统的理论建构，没有涉及时间标记动力效应背后的心理机制问题，下文将对此具体阐述。
+
+# 3时间标记动力效应的心理机制
+
+时间标记对个体追求和实现目标的动力效应是一个由外而内的影响过程。时间标记的存在使个体在时间感知上产生了不可连续性和不可替代性，创造出一个个时间心理账户(Dai et al.,2014; Rajagopal&Rha,2009)，从而对分属不同时间心理账户内的自我评价产生影响。这一过程不仅会改变个体对当前的自我认同感(Wilson&Ross,2001)，还会指导个体的计划与行为，激励其为追求和实现目标付出行动(Pronin,Olivola,&Kennedy,2008)。本文从自我评价的视角出发，整合相关理论，探索时间标记动力效应的心理机制，
+
+# 3.1时间心理账户理论
+
+人们在进行自我认知评价时，很少会局限于当下这个时间点，而会将自我的概念认知扩展到过去和未来。过去自我、现在自我同未来自我之间相互联系，同时又彼此分离，共同组成个体的完整身份(Haddock,2004)。个体时常在时间自我(temporal selves)之间进行比较(Wilson& Ross,2001)，如现在是否比过去的自己更加成熟，或希望未来的自己拥有更完美的身材。值得注意的是，这些时间自我之间的联系与分离感知是可塑的，可以随着时间的推移而发生变化(Libby,Eibach,&Gilovich,2005),并且会受到很多因素的影响，如时间、视角(visual perspective)、核心相似点(similarity focus)及情感强度(emotional intensity)等(Hanko,Crusius,&Mussweiler,2010;Libby et al.,2005;Pronin et al.,2008)。其中，时间标记是一个关键的决定性因素(Libby&Eibach,2011;Peetz&Wilson,2013)。当个体对不同时间自我之间的联系感知越强时，会认为其相似程度越高，过去或未来自我对现在自我的同化程度也越大(Hanko etal.,2010)，反之则对比程度越大。
+
+时间心理账户理论以心理账户的角度探索时间如何被人们感知和追踪。不同时间心理账户内的资源(此处为自我评价)是不能互相替代的(Rajagopal& Rha,2009)。且时间心理账户之间的划分往往有所依据，如根据不同的活动内容在横截面维度上划分为工作时间心理账户和家庭时间心理账户等。同理，由于时间标记对个体具有突出性和独特性，可以通过时间标记在纵向维度上把时间划分成各个独立的时间心理账户。对于归属于不同时间心理账户内的时间自我，个体会加大对它们之间的心理距离感知，从而不同时间自我之间的联系感减弱，分离感增强。因此，个体会对处于不同时间心理账户内的自我评价有所不同，感知到过去自我、现在自我以及未来自我之间的差别，继而通过进一步的心理过程提高追求和实现目标的动机。具体分为两个方向：其一，时间标记可以划分过去与现在的时间心理账户，增加现在自我与过去自我之间的分离感与对比；其二，时间标记也可以划分现在与未来的时间心理账户，增加现在自我与未来自我之间的分离感与对比。
+
+# 3.2时间自我评估理论
+
+时间自我评估理论(temporal self-appraisal theory)关注个体对过去自我与现在自我之间的评价倾向(Wilson&Ross,2001)。该理论认为由于过去自我发生的错误不会轻易损害现在的自我形象，具有较少的威胁性。同时对过去自我的不足进行批评也意味着个体对自我提升的期望。因此个体倾向于将消极特质和失败归因于过去，即进行下行的时间比较，以提高自尊和维持现在自我的积极形象(Daietal.,2015；孙炯雯，郑全全,2004)。但只有当过去自我与现在自我之间相互分离时，这一倾向才能使现在的自我受益(Wilson&Ross,2001)。因此当时间标记促使个体将之前的过失或不足归入过去的自我时，可能会通过激发自我效能感、保持一致的自我形象和损失规避等几个心理过程来提高追求目标的动机(Dai et al.,2015)，促使个体实施更多的目标相关行为：
+
+第一，与过去失败的分离感可以减少其对个体现在自我的消极影响，并产生对现在自我的优越感(Daietal.,2014)，从而提升自我效能感，这将提高个体对自己执行计划并实现目标的信心。此外，当人们具有高自我效能感时，会设定更有挑战性的目标并且在面对阻碍的时候可以保持更加持久的努力(Schmidt &DeShon,2010)。因此，通过自我效能感的提高，可以激励人们表现的比过去更好，以更高涨的热情和信心积极主动地追求目标。第二，以往研究表明人们倾向于保持一致的自我形象(Kivetz&Tyler,2007)。当人们感知到现在自我比过去自我更加优秀时(如更加自律)，往往会做出与其认知相一致的行为表现(Cialdini,2007)。因此当受到过去失败的负面影响较少时，会激励人们做出与他们积极的新自我观念相一致的行为，并且更有动力依据自我改进的目标采取相关行动(Dai et al.,2015)。第三，当时间标记开启一个新的时间心理账户时，相当于是设置了一个初始参考点。此时，偏离目标的行为就如同预期理论中损失效用曲线最陡峭的部分(Heath,Larrick,&Wu,1999)，基于新参考点的初始偏离会让个体产生更大的损失感(Colby&Chapman,2013)。因此，人们可能会为了规避损失而增强自控能力，提高有助于实现目标的行为实施可能性。
+
+值得注意的是，上述理论解释只关注了过去自我评价差于现在自我的情况，存在一定的局限性。人们对过去的自我认知并不总是充满了挫败感。当人们在时间标记之前曾取得高成就，认为过去的自我表现更优异时，会降低对现在自我的良好感受(Dai&Li,2018)。而这势必会导致自信的下降，负向影响追求和达成目标的动机。这很有可能是时间标记动力效应发挥作用的一个边界条件，需要更多实证研究的验证。
+
+# 3.3心理对比理论
+
+人们不仅会将现在自我同过去自我作比较，也会将现在自我同未来自我进行对比。心理对比理论(mentalcontrasting theory)提出个体当下的不足之处与期望理想状态之间的心理对比对于激励行为及实际结果的成功是必要的(Oettingen et al.,2009)。举例来说：当烟民想要戒烟时，可以先后写下未来期望中的自己及现在仍在吸烟的自己。与仅仅幻想未来的成功相比，这样的心理对比对他们采取与期望目标一致的行为是更有增效的(Oettingen,Mayer,& Thorpe,2010)。与此类似，在Koo 和Fishbach(2008)的实验中，被试建立一个收集慈善款的目标。比起只关注已集款项的被试，那些关注目前收集情况与目标之间差距的被试最终得到更多的善款。这些研究结果都表明了当个体将现在不足的自我同未来期望的自我进行心理对比时，当前状态对理想状态的阻碍增加了个体提高自我的动机，有助于激发人们去为了未来理想状态的实现而采取相应行为，这种感觉甚至可以在想象的情境下产生(Bartels&Rips,2010)。因此，当时间标记帮助个体在内心建立起不同时间自我的心理分类，增强现在不足自我与未来期望自我之间的差异和对比感时，“缩小差距”(discrepancy-reduction)的心理过程被激活，这将激励个体弥补其间的差距(Koo&Fishbach,2008)，提高追求目标的动机水平，为实现个人目标实施相应的行为，以实现未来期望的自我状态。
+
+另外，在现实生活中也存在一种人们对现在的自我状态感到满意，而对未来自我存在消极预期的心理。在Peetz 和Wilson(2014)的研究中，他们发现时间标记会自然而然地引发现在自我同未来消极自我之间的心理分离，减弱消极未来对现在自我的负面影响。通过实验操作进一步发现，当被试的自我提升思维模式被激活时，会更加倾向于借助时间标记来保护现在的自我远离未来可能出现的消极自我，如失业、身材走形、负债等。而个体具有保持认知倾向一致性的偏好，同未来消极自我预期的分离感会促使个体为保持现在的自我状态，避免在未来成为消极的自我而付出努力并有所行动。因此在这种情况下，时间标记也会提高追求目标的动机，激励个体实施自己的计划和目标，以防自己在未来陷入可能出现的困境。
+
+# 3.4小结
+
+综上所述，时间心理账户理论主张时间对个体而言是不连续且不可替代的，由此，时间标记通过划分不同的时间心理账户可以影响时间自我之间的联系感和分离感。时间自我评估理论主要关注的是过去自我和现在自我之间的关系，心理对比理论则更偏向于从现在自我和未来自我的方向出发进行探讨。因此，本文基于自我评价视角，结合这些理论对时间标记动力效应的心理机制加以梳理(如图1)。时间标记在个体的时间表中具有显著性和特异性，对个体往往有其独特的意义。时间标记使个体感知到时间具有不连续性，在纵向时间维度上划分出不同的时间心理账户，这增加了个体对在不同时间点上自我之间的分离感和距离感。当个体对过去不完美的自我和现在自我产生认知差异时，可能通过自我效能感、保持一致的自我形象及损失规避的心理过程增强个体追求和实现目标的动机，推动其实施与目标相一致的行为；而当个体对现在自我和未来自我产生分离感时，由于缩小差距及保持一致的自我形象的需要，也会激励其提高动机水平，做出有助于实现个人目标的行为。
+
+![](images/51b4222524318184a5cc6a45154da05621fae52b4b21bdf45ef0603dd852b745.jpg)  
+图1时间标记动力效应的心理机制
+
+注：横轴为时间线， $\bigtriangledown$ 代表时间标记。
+
+# 4未来研究展望
+
+作为一个全新的研究方向，时间标记的动力效应研究还处于刚刚起步的阶段。虽然研究者从不同角度出发探讨了时间标记对人们追求和实现目标的动力效应，并开展了一些实证研究加以检验，但是仍有许多问题有待进一步探索和深化。
+
+第一，时间标记在动力效应中的角色定位及动力效应的持续时间。当把时间标记作为一个目标实现周期的起点时，可以提升人们追求目标的动机，激励人们实施有利于目标达成的积极行为。那么当以时间标记作为一项计划或目标的最后期限时，人们会将其归入现在还是未来，对不同时间自我之间的心理距离感知又会发生怎样的变化，是否同样可以提高人们的动机水平，推动目标按时或提前达成？此外，时间标记虽然可以显著增强人们追求目标的动机水平，但这个激励效果的持久性尚未得到检验。Dai 等人(2017)与美国一家保险公司合作进行了一项关于药物依存性的现场实验，选择在特定的时间标记向顾客发送提醒，但在三个月的观察期内药物依存性并未得到显著增加。这可能是因为改善药物依存性需要一定的持久性，而时间标记动力效应持续的时间可能较短。因此，时间标记动力效应的作用时间也是值得未来研究关注的一个话题。
+
+第二，探究时间标记动力效应的普适性。一方面，目前关于时间标记动力效应的研究，其结果变量大部分都属于健康范畴(如戒烟、锻炼等)，在后续研究中，可以针对更多样化的个人提升目标加以验证，例如教育类目标、财务类目标等。另一方面，时间标记可分为两大类型，六个小类别。这些时间标记或能引起人们在文化、职业观念或宗教认同方面的共鸣，或对个人的意义重大，如人们通常更看重首次经历，也更易将其看作是一个“新起点”(LeBoeuf etal.,2014)。已有研究虽然对节假日、生日、新一周/一个月/一年的第一天等多个时间标记的动力效应进行了研究，但并未做横向比较。那么不同类型的时间标记是否都会对目标具有动力效应，并且是否存在强度上的差异？
+
+第三，进一步探索其他可能的心理机制。时间标记的动力效应可能是通过多个心理过程发挥作用的。Liu(2008)认为在做决策时被打断会改变人们的信息处理方式。时间标记作为一种打断会扰乱个体对日常细节和情绪的关注(Smith,2014)，将注意力转向更高水平且与目标相关的信息(Alter&Hershfield,2014)，从而促使人们在决策时采用一种更广阔的全局性视角和客观、抽象且更具概念化的思考倾向(Trope＆Liberman,2010)。这使得人们更倾向于目标成就导向，更多依据对目标实现的渴望而非所需的时间和精力来做出选择并会受到更多鼓励(Hennecke &Converse,2017)。因此，时间标记可能会通过改变处理信息和认知思考的方式来提高人们对追求目标的动机，促使人们做出与目标一致的有效行为。此外，时间标记可能会促使人们重新评估他们的生活并更多关注长期目标而非短期利益(Alter&Hershfield,2014)，因而更有可能做出符合目标的积极行为。
+
+第四，开展时间标记在助推行为决策方面的应用研究。助推是一种全新且有效的引导式管理方式，指的是在选择体系的任何一方面都不采用强制的方式，而是以微小且温和的方式去改变人们的选择或者其动机及行为(理查德·塞勒，卡斯·桑斯坦,2008/2018)，是一种“自由主义的温和专制主义”。助推从个体行为选择的心理规律出发，运用默认选项、预先承诺和设置心理账户等各类具体方法改变个体的行为(何贵兵，李纾，梁竹苑,2018)，以达到提升自我乃至促进社会发展的目的。因此，时间标记也可以作为一种助推手段加以运用。对于个人而言，在一些意义重大或象征新起点的时间标记启动目标，或是设置目标提醒，可以帮助人们降低丢弃目标或半途而废的可能性，助力个人目标的实现。在组织实践中，企业管理者也可将时间标记的动力效应运用于优化企业战略规划及员工的目标管理中，例如设置三年或五年计划，依据时间标记设立长中短期目标，选择恰当的时间向员工发送目标提醒，提高员工执行计划的实际行动和实现目标的效率等。在社会政策方面，政策制定者可以借助时间标记来推动社会民众对新制度、新规定等的接受与遵守，开展一系列如“新年环保行动”等助推计划，提倡一些良好的公民行为，推动社会的良好发展。
+
+# 参考文献
+
+何贵兵，李纾，梁竹苑.(2018).以小拨大：行为决策助推社会发展．心理学报,50(8),803- 813.   
+理查德·塞勒，卡斯·桑斯坦.(2018)．助推：如何做出有关健康、财富与幸福的最佳决策(刘宁 译)．北京：中信出版社.(原著出版于2008)   
+孙炯雯，郑全全.(2004).在社会比较和时间比较中的自我认识．心理科学进展,12(02)，240 -245.   
+徐岚，陈全，崔楠，陆凯丽. (2019)．享受当下，还是留待未来?——时间观对跨期决策的影 响．心理学报，51(01)，96-105.   
+叶和旭，赵然.(2015).时间标志对锻炼动机的影响：时间监控能力的调节作用．中国健康心 理学杂志,23(3),436-440.   
+Ahn, H. K.,Liu, M. W., & Soman, D. (2009). Memory markers: How consumers recall the duration of experiences. Journal of Consumer Psychology, 19(3), 508-516.   
+Alter,A.L.,& Hershfield, H.E. (2O14). People search for meaning when they approach a new decade in chronological age. Proceedings of the National Academy of Sciences,111(48),17066- 17070.   
+Ayers,J. W.,Althouse, B.M., Johnson, M.,& Cohen, J. E. (2014). Circaseptan (weekly) rhythms in smoking cessation considerations. JAMA Internal Medicine, 174(1), 146-148.   
+Bartels,D.M.,& Rips,L. J.(2010). Psychological connectedness and intertemporal choice.Journal of Experimental Psychology: General, 139(1), 49.   
+Beshears,J.,Dai, H., Milkman, K.L.,& Benartzi, S.(2O17). Framing the Future: The Risks of PreCommitment Nudges and Potential of Fresh Start Messaging 1-4O (working paper).   
+Centers for Disease Control and Prevention (2O13) Faststats: Obesity and overweight. Retrieved November 29, 2018, from htp://www.cdc .gov/nchs/fastats/overwt.htm   
+Cialdini, R.B. (2007). Influence: The psychology of Persuasion. New York: HarperColins.   
+Colby，H.，& Chapman, G. B. (2013). Savings, subgoals, and reference points. Judgment and Decision Making,8(1),16.   
+Conway, M. A. (1990). Autobiographical memory. Milton Keynes, England: Open University Press   
+Dai, H.,& Li, C. (2019). How Experiencing and Anticipating Temporal Landmarks Influence Motivation. Current Opinion in Psychology,26,44-48.   
+Dai, H., Mao,D.,Ris,J., Volpp, K. G., Relish, M. J., Lawnicki, V.F., & Milkman, K.L. (2017). Effectiveness of Medication Adherence Reminders Tied to “Fresh Start’ Dates: A Randomized Clinical Trial. Jama Cardiology,2(4), 453-455.   
+Dai, H.,Milkman, K.L.,& Riis,J. (2014). The fresh start effect: Temporal landmarks motivate aspirational behavior. Management Science, 60(10), 2563-2582.   
+Dai, H.,Milkman, K.L.,& Riis,J. (2O15). Put your imperfections behind you: Temporal landmarks spur goal initiation when they signal new beginnings. Psychological Science,26(12),1927-1936.   
+Gabarron, E., Lau, A. Y.,& Wynn, R. (2O15). Is There a Weekly Patern for Health Searches on Wikipedia and Is the Pattern Unique to Health Topics? Journal of Medical Internet Research, 17(12).   
+Gollwitzer,P. (2012). Mindset theory of action phases. In P. VanLange, A. W. Kruglanski, & E. T. Higgins (Eds.), Handbook of theories of social psychology (Vol.1, pp. 526-545). London: Sage Publications.   
+Haddock, G. (20o04). Temporal self-appraisal and atributional focus. Journal of Experimental Social Psychology, 40(6),787-794.   
+Hanko, K., Crusius,J.,& Mussweiler, T. (2010). When I and me are different: assimilation and contrast in temporal self-comparisons. European Journal of Social Psychology, 40(1),160-168.
+
+Heath, C.,Larrick, R. P.,& Wu, G. (1999). Goals as reference points. Cognitive psychology,38(1), 19-109.
+
+Hennecke,M.,& Converse,B.A. (2O17). Next week, next month, next year: How perceived temporal boundaries affect initiation expectations. Social Psychological and Personality Science, 8(8), 918-926.   
+Kivetz,Y.,& Tyler, T. R. (2007). Tomorrow Ill be me: The efect of time perspective on the activation of idealistic versus pragmatic selves. Organizational Behavior and Human Decision Processes,102(2),193-211.   
+Koo, M.,& Fishbach, A. (2oo8). Dynamics of self-regulation: How (un) accomplished goal actions affect motivation. Journal of Personality and Social psychology, 94(2), 183.   
+Kurbat, M. A., Shevell, S. K., & Rips, L. J. (1998). A year's memories: The calendar effect in autobiographical recall. Memory & Cognition, 26(3), 532-552.   
+LeBoeuf,R.A.，Wiliams,E.F.，& Brenner,L. A. (2014).Forceful phantom firsts: Framing experiences as firsts amplifies their influence on judgment. Journal of Marketing Research, 51(4), 420-432.   
+Lee, J.,& Dai,H. (2O17). The Motivating Effects of Temporal Landmarks: Evidence from the Field and Lab. Missouri Law Review, 82(3), 8.   
+Li, H. (2018). A future-minded lark in the morning: The influence of time-of-day and chronotype on metaphorical associations between space and time. Metaphor and Symbol, 33(1), 48-57.   
+Libby,L. K.,& Eibach, R.P. (2O11). Self-enhancement or self-coherence? Why people shift visual perspective in mental images of the personal past and future. Personality and Social Psychology Bulletin,37(5), 714-726.   
+Libby,L. K.,Eibach, R. P.,& Gilovich, T. (2005). Here's looking at me: the effect of memory perspective on assessments of personal change. Journal of personality and social psychology, 88(1), 50.   
+Liu, W. (2Oo8). Focusing on desirability: The effect of decision interruption and suspension on preferences. Journal of Consumer Research,35(4), 640-652.   
+Milkman, K. L. (2012). Unsure what the future will bring? You may overindulge: Uncertainty increases the appeal of wants over shoulds. Organizational Behavior and Human Decision Processes,119(2),163-176.
+
+Milkman, K.L., Rogers,T.,& Bazerman, M. H. (2Oo8). Harnessing our inner angels and demons: What we have learned about want/should conflicts and how that knowledge can help us reduce short-sighted decision making. Perspectives on Psychological Science,3(4),324-338.
+
+Norcross, J. C. Mrykalo, M. S., & Blagys,M. D. (2002). Auld lang Syne: Success predictors, change processes, and self-reported outcomes of New Year's resolvers and nonresolvers. Journal of Clinical Psychology, 58(4),397-405.   
+Oetingen, G., Mayer,D., Timur Sevincer,A. Stephens,E.J., Pak, H.J.,& Hagenah, M.(2009). Mental contrasting and goal commitment: The mediating role of energization. Personality and Social Psychology Bulletin,35(5), 608-622.   
+Oetingen, G., Mayer, D.,& Thorpe, J. (2010). Self-regulation of commitment to reduce cigarete consumption: Mental contrasting of future with reality. Psychology and Health,25(8),961-977.   
+Peetz,J.,& Wilson, A. E.(2O13). The post-birthday world: Consequences of temporal landmarks for temporal self-appraisal and motivation. Journal of Personality and Social Psychology,104(2), 249.   
+Peetz, J.,& Wilson, A. E. (2014). Marking time: Selective use of temporal landmarks as barriers between current and future selves. Personality and Social Psychology Bulletin, 40(1), 44-56.   
+Pronin,E., Olivola, C.Y.,& Kennedy, K. A. (2Oo8). Doing unto future selves as you would do unto others: Psychological distance and decision making. Personality and Social Psychology Bulletin, 34(2), 224-236.   
+Rajagopal,P.,& Rha, J. Y. (2oo9). The mental accounting of time. Journal of Economic Psychology, 30(5), 772-781.   
+Robinson,J. A. (1986). Temporal reference systems and autobiographical memory. In D. C. Rubin (Eds.),Autobiographical Memory (pp.159-188). Cambridge, UK: Cambridge University Press.   
+Schmidt, A. M.,& DeShon, R. P. (2010). The moderating effects of performance ambiguity on the relationship between self-efficacy and performance. Journal of Applied Psychology, 95(3), 572.   
+Sela,A., Berger, J.,& Liu, W.(2Oo8). Variety, vice, and virtue: How assortment size influences option choice. Journal of Consumer Research, 35(6), 941-951.   
+Shai, I., Schwarzfuchs,D.,，Henkin, Y., Shahar,D.R.， Witkow, S.,，Greenberg, I.，..& TangiRozental, O. (2Oo8). Weight loss with a low-carbohydrate, Mediterranean, or low-fat diet. New England Journal of Medicine, 359(3), 229-241.   
+Shum,M.S.(1998). The role of temporal landmarks in autobiographical memory processes. Psychological Bulletin, 124(3), 423.   
+Smith,I. H.(2O14). The disruption model of inspiration: Toward a general model of "being inspired to act". Salt Lake City: The University of Utah.   
+Soster,R.L.， Monga,A.，& Bearden, W. O. (2O1O). Tracking costs of time and money: How accounting periods affect mental accounting. Journal of Consumer Research, 37(4),712-721.   
+Touré-Tillery,M.,& Fishbach,A. (2O12). The end justifies the means,but only in the middle. Journal of Experimental Psychology: General,141(3), 570.   
+Townsend, C.,& Liu, W. (2O12). Is planning good for you? The differential impact of planning on self-regulation. Journal of Consumer Research,39(4), 688-703.   
+Trope,Y.,& Liberman, N. (2O10). Construal-level theory of psychological distance. Psychological Review, 117(2), 440.   
+Tu, Y.,& Soman,D. (2O14). The categorization of time and its impact on task initiation. Journal of Consumer Research, 41(3), 810-822.   
+Wilson, A. E.,& Ross, M. (2O01). From chump to champ: people's appraisals of their earlier and present selves. Journal of Personality and Social Psychology, 80(4), 572.   
+Zauberman, G.,Levav,J.,Diehl, K.,& Bhargave,R. (2010).1995 feels so close yet so far: The effect of event markers on subjective feelings of elapsed time. Psychological Science,21(1),133- 139.
+
+# Nudging goal attainment: The motivating effects of temporal landmarks
+
+ZHAO Xiaoying; LI Aimei; WANG Haixia (Management School, Jinan University, Guangzhou 51O632, China)
+
+Abstract:Temporal landmarks defined as any distinct event that stands out in the everyday humdrum of life, may be beneficial to goal-pursuit motivation. Specifically, when an individual experiences a current temporal landmark or expects a future temporal landmark, their levels of goal-pursuit motivation would be enhanced, and at the same time, their goal-related behaviors would be more likely to occur. In addition, temporal landmarks may increase individuals’ senses of psychological separation of temporal selves and then enhance goal-pursuit motivation through a series of mental processes such as increased self-efficacy，cognitive consistency， loss aversion and discrepancy-reduction. Future research should focus on examining the motivating effects and duration of temporal landmarks and its generalizability. Moreover, it is worth for future studies to investigate the potential mechanisms of temporal landmarks and to conduct a considerable amount of empirical studies to nudge decision making by manipulating temporal landmarks.
+
+Key words: temporal landmarks; goal attainment; the motivating effects; self-appraisal across time; nudge

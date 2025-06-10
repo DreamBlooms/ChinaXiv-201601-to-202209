@@ -1,0 +1,458 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201601120080 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "韩玮，岳云瑞.风胁迫对三种叶菜的机械损伤及预测模型.生态学报,2017,37（13）：4356-4365.HanWYueaadtelsfebddtoc",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "风胁迫对三种叶菜的机械损伤及预测模型",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "韩玮\\*，岳云瑞",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "南京信息工程大学应用气象学院，江苏省农业气象重点实验室，南京210044摘要：为了研究风害对不同叶菜的影响,本研究通过模拟风洞试验,以上海青,四季小白菜,玻璃生菜3种叶菜为试验材料,分别在 $5 , 1 5 , 2 5 \\ \\mathrm { m / s }$ 风速条件下设置 $5 , 1 0 , 1 5 \\ \\mathrm { m i n }$ 的风胁迫处理,采用电导率法、伤口染色目测法、伤口色泽 $\\boldsymbol { \\mathbf { \\mathit { L } } }$ 值测定法研究风胁迫对不同种类叶菜造成的机械损伤,并对以上3种测定方法进行了综合评价,进而建立相应的数学模型。结果表明：风速和风胁迫时间两因子均对3种叶菜的相对电导率、目测等级 $\\mathbf { \\nabla } \\cdot \\boldsymbol { L }$ 值有显著性影响;两者的交互作用对上海青和四季小白菜的相对电导率有显著性影响,但对玻璃生菜的相对电导率无显著影响;另外，两者的交互作用对3种叶菜的目测等级均影响显著,但对3种叶菜的 $L$ 值影响均不显著。 $2 5 ~ \\mathrm { m / s }$ 和 $1 5 ~ \\mathrm { m / s }$ 风对3种叶菜都可引起显著机械损伤,其中，在 $2 5 ~ \\mathrm { { _ m } / { \\mathrm s } }$ 持续 $1 5 ~ \\mathrm { m i n }$ 风处理下机械损伤最为严重,在此处理组合下,上海青、四季小白菜和玻璃生菜的相对电导率分别高于对照 $2 1 4 . 7 0 \\%$ · $2 2 8 . 9 6 \\%$ $2 6 6 . 9 2 \\%$ ；目测等级分别高于对照2.3,2.4和3.6级； $L$ 值分别低于对照 $2 1 . 1 7 \\%$ $3 8 . 9 1 \\%$ $4 2 . 7 3 \\%$ 。显然,与上海青和四季小白菜相比,玻璃生菜更容易受到风害影响。Gauss2D拟合模型中,3种叶菜机械损伤拟合模型的决定系数 $R ^ { 2 }$ 均超过0.95,证明该拟合模型能较好地预测不同叶菜遭受风害后的机械损伤程度,可以为风害机械损伤预测提供理论基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：风胁迫;机械损伤;叶菜;模型拟合;综合评价 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mechanical damage and prediction models of three leafy vegetables caused by wind ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HAN Wei\\*,YUE Yunrui ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ColegeofAebfleUsifod210044， China 人",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Mechanical damagecaused bywind maylead to economic lossin the production of leafy vegetables，especially during harvest time.Shanghaiqing，four-season Chinese cabbage，and glasslettuce are planted widely in the southeastern coastof China.However,the magnitudeofthe mechanicaldamagecaused bywind is uncertain.Inaddition,therelationship between wind stress and mechanical damage to leaves hasrarely been studied.To resolve these problems，three leafy vegetables were used toevaluatethe mechanical efectsof windon plants through asimulated windtunnel.During this experiment,these three species were subjected to ten treatments—a control treatment,three levels of wind speeds ( $5 ~ \\mathrm { m / s }$ ， 15 m/s,25 m/s）and three diferent durations of wind exposure ( $5 ~ \\mathrm { m i n }$ ， $1 0 ~ \\mathrm { m i n }$ ， $1 5 ~ \\mathrm { m i n }$ ).To quantify the mechanical damage caused by wind，three detection methods—the conductivity，wound staining visual，and $\\mathrm { ~ L ~ }$ value measurement methods-were used.Then，a comprehensive asessment method was proposed by evaluating the three detection methods and using them to assessthe degreeof mechanical damage.Moreover,a Gauss2Dequationwas used to establisha prediction modelfor mechanical damagescaused bywind forthethreespecies.Theresultsshowedthattherelativeconductivity，visual level,andLvalue were significantlyafectedbywind speedand stress time.The interactionof wind speedand strestime hadsignificant efectsonrelativeconductivityofShanghaiqingand four-season Chinesecabbage，whilehaving no significant efect ontherelativeconductivityof glasslettuce.The interactionof wind speedand stress timehad significant fectson visual gradewhilehavingnosignificant efectonLvalues.Mechanicaldamage tothethreeleafyvegetablesoccuedmainly after being exposed to the $2 5 \\mathrm { ~ m ~ } / \\mathrm { s }$ and $1 5 \\mathrm { ~ m ~ } / \\mathrm { s }$ wind conditions，while the $5 \\mathrm { ~ m ~ } / \\mathrm { s }$ wind speed had little effect. For Shanghaiqing，four-season Chinese cabbage，and glass letuce，the mechanical damage was most serious after exposure to the $2 5 ~ \\mathrm { m / s }$ wind condition for $1 5 \\ \\mathrm { m i n }$ . The relative conductivities were $2 1 4 . 7 0 \\%$ ， $2 2 8 . 9 6 \\%$ ， $2 6 6 . 9 2 \\%$ higher than the control； the visual levels were 2.3,2.4，and 3.6 higher than the control; L values were $2 1 . 1 7 \\%$ ， $3 8 . 9 1 \\%$ ，and $4 2 . 7 3 \\%$ lower thanthecontrol，respectively.Among the three leafyvegetables，theglassletuce was the most susceptible to wind damageaccordingtoacomprehensiveevaluationof mechanical damage.This susceptibilitymaybedue tothe higherleaf water content and lower leaf cellulose content in glass lettce.Mechanical damage under diferent wind speedsand wind stress times was fitted by a Gauss2D function. The higher $R ^ { 2 } ( 0 . 9 5 5 2 { - 0 . 9 8 4 0 } )$ showed that these models fit the data well. The mechanical damage causedby windcan be predicted using these prediction models，which provideareference for leafy vegetable crops，and provide early warning of mechanical damage from wind stress. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words: wind stress；mechanical damage ； leafy vegetables；model fiting；comprehensive assessment ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "风害是一种农业气象灾害,对农业生产的影响主要表现为机械性损伤,很多研究者通过研究发现：风的效应大部分是由对植物的机械刺激而产生的[1-3]。强风能造成作物和树木倒伏、落叶、拔根以及花果被吹落[4-6],并且影响到植物光合作用,蒸腾作用[7-8],生物量分配以及植物的力学性状[9-10]。中国东南沿海地区及其岛屿因受台风影响,全年8 级以上大风日数一般可达50d,有时甚至多达 $1 0 0 ~ \\mathrm { d ^ { [ 1 1 ] } }$ ,植物经常会受到不同程度的风致机械损害,严重的风害可以导致植物的生命活动受到阻碍,甚至还可造成植物死亡[12-14]。随着全球变暖,未来大风发生的频率将增大[15],风将成为对农林业危害较为严重的气象因子。因此,大风对于农林业危害的研究正逐渐受到人们的关注。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来,风害对森林系统的影响有诸多研究,如大风对树木存活率、生理活性的影响等[4.16];也有对草本植物或农作物影响的研究,如南江等通过为期90 d的野外盆栽试验研究了霸王和木本猪毛菜在风环境下的表型特征,李树岩等通过大田夏玉米大风倒伏灾害的调查数据研究了大风倒伏对玉米产量的影响[17]。然而,对风致机械损伤的研究少见,仅有 MacKerron 等通过电镜扫描研究了风对草莓叶片的机械损伤[18],Thompson等利用风洞试验研究了风对高茅草叶片的机械损伤[19]。风对蔬菜尤其是叶菜类的机械损伤影响研究更少见报道,人们对其机械损伤与风害强度和持续时间的关系还知之甚少。上海青（Brassica chinensis L.）、四季小白菜（Brassica chinensis L.)和玻璃生菜(Lactuca sativa L.)是我国南方常见蔬菜,碧绿鲜嫩,营养价值高,然而它们的翠嫩特质使之更容易受风害造成机械损伤。因此,本研究选取这3种叶菜为试验材料,采用电导率法、伤口染色目测法、伤口色泽 $L$ 值测定法,研究了不同风速,不同风胁迫时间对叶菜类蔬菜产生的机械损伤,并建立相应的数学模型,以期为风对叶菜类的机械损伤预警提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验材料与设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验于 2015年4月5日—5月15日在南京信息工程大学农业气象试验站内进行,供试土壤取自农业气象试验站,为壤质黏土。选取上海青、四季小白菜和玻璃生菜3类叶菜为研究材料,将其种子分别种于 $1 5 \\ \\mathrm { c m }$ （高） $\\times 1 5 ~ \\mathrm { c m }$ (直径)的塑料花盆,每盆10粒种子,每种叶菜分别种植30盆。幼苗萌发后每盆定植3株,定植$3 0 \\mathrm { ~ d ~ }$ 后将植株置于模拟风洞内进行风吹试验处理。试验进行时上海青，四季小白菜和玻璃生菜的株高分别为( $2 2 { \\pm } 1 . 2 \\$ ） $\\mathrm { c m }$ ， $2 6 { \\pm } 1 . 5 \\$ ） $\\mathrm { c m }$ ， $2 3 { \\pm } 2 . 3 \\$ ） $\\mathrm { c m }$ ,叶片数分别为( $1 3 { \\pm } 1 . 3 )$ ，（ $1 2 { \\pm } 2 . 5 )$ ， $1 5 { \\pm } 1 . 4 \\AA )$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "简易风洞试验箱如图1所示,风洞箱的制作方法采用矩形直筒体结构,筒体框架选用角铁制作,长为",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$0 . 5 \\mathrm { ~ m ~ }$ ,截面为 $0 . 3 \\mathrm { ~ m } { \\times } 0 . 3 \\mathrm { ~ m }$ ,侧面用金属板与框架粘牢后用地膜在连接处密封，形成筒状，尾部用十字撑将其固定。试验箱的进风口前放置可调节风速的大功率工业风扇（风机）,在风洞内放置便携式风速测速仪[20-22]风速设计为具有一定梯度的 $5 , 1 5 \\ \\mathrm { m / s }$ 和 $2 5 ~ \\mathrm { m } / \\mathrm { s } ~ 3$ 个水平，分别相当于4、7和10级风（此风速在中国东南沿海较多出现[23-25]）；风吹时间设计为 $5 , 1 0 \\ \\mathrm { m i n }$ 和 $1 5 \\ \\operatorname* { m i n } \\ 3$ （204号个时长,并设置1个非风吹处理为对照,共计10个处理，每种叶菜每个处理设3个重复。风吹试验结束后，将植株沿其根基部剪下检查植株受损程度并测定其地上生物量。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e3cc7b141080e624f69a8b8bf6e03614bd8c0001a61834257027a011edcb24b.jpg",
+        "img_caption": [
+            "图1简易风洞整体图",
+            "Fig.1The picture of the simple wind tunnel "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 测定方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "机械损伤分别通过电导率法,伤口目测染色法和伤口色泽 $L$ 值测定法进行测定。相对电导率的测定参照李合生的方法[26]进行。伤口染色目测法是将所有风处理过的叶片用 $5 \\%$ 酸性品红染色剂染色，静置 $1 5 ~ \\mathrm { m i n }$ 后水洗,然后目测伤口数量和伤口受损程度。其中,所有肉眼可以观测到的新伤口都在测定范围之内。伤口数量分为以下标准:0—无、1—不多、2—较多;伤口受损程度分为以下标准：1—不明显（伤口面积小于叶片面积的 $5 \\%$ ,无伤口计为不明显）、2一较明显（伤口面积大于叶片面积的 $5 \\%$ 但小于 $20 \\%$ ）、3—明显(伤口面积大于叶片面积的 $20 \\%$ ）。二者相加为感官指标分级,共5级,请10位专业人士进行评定[27]。伤口色泽 $L$ 值测定法采用每处理选择伤害最严重的10片叶片,分别测定叶菜伤口部位,使用参数为亮度L（lightness）,向量从暗到明（色差仪 SC-10,深圳市三恩驰科技有限公司）[27]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "地上生物量测定,先测定3种叶菜鲜重, $1 0 5 \\mathrm { ^ { \\circ } G }$ 杀青后 $8 0 ^ { \\circ } \\mathrm { C }$ 烘干至恒重,测定干重。计算各叶菜品种叶片含水率(叶片含水率 $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ (鲜重-干重)/鲜重 $\\times 1 0 0 \\%$ )[26];同时测定叶片纤维素含量,纤维素含量测定采用范式洗涤法[28]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 数据处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 机械损伤综合指标计算[29-30]",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "先将各样本评分值用标准差法进行标准化，其计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { i j } = \\frac { X _ { i j } - \\overline { { X _ { i } } } } { S _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $Y _ { _ { i j } }$ 代表第 $j$ 个样本第 $\\mathbf { \\chi } _ { i } ^ { \\phantom { \\dagger } }$ 种方法的标准分， $X _ { i j }$ 代表第 $j$ 个样本第 $i$ 种评价方法的得分值， $\\overline { { { X } _ { i } } }$ 代表第 $i$ 种方法样本得分的平均数， $S _ { i }$ 代表第 $i$ 种方法样本得分标准差。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "计算综合评价指标，公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { j } = \\sum _ { i = 1 } ^ { K } Y _ { i j }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $P _ { j }$ 为第 $j$ 个样本 $K$ 种评价方法的评分总和,即综合评价值。综合评价值为负值提示机械损伤程度低于所有样本的平均水平,综合评价值为正值提示机械损伤程度高于所有样本的平均水平,综合评价值越大,说明机械损伤越严重。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 方差分析及相关分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用GLM（SPSS 16.0,SPSS Inc.，Chicago)过程分析风速和风胁迫时间两个因素及其交互作用对叶菜机械损伤指标的影响,并通过LSD法(最小显著差异法)对不同处理下各指标进行多重比较。数据分析前,对所有数据进行正态性和齐性检验。另外,通过 Person 相关系数(Bivariate Correlations，SPSS 16.0)分析叶片含水量和纤维素含量与叶片机械损伤程度的相关性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.3风害预测模型的建立",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了利用风速和风胁迫时间预测叶菜的机械损伤程度,应用Origin9.0进行非线性曲面拟合,发现Gauss2D拟合能达到较好的模拟。Gauss2D模型如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY = Y _ { 0 } + A \\mathrm { e x p } \\Bigg \\{ - \\frac { 1 } { 2 } \\left( \\frac { x _ { 1 } - x _ { 1 } c } { w _ { 1 } } \\right) ^ { 2 } - \\frac { 1 } { 2 } \\left( \\frac { x _ { 2 } - x _ { 2 } c } { w _ { 2 } } \\right) ^ { 2 } \\Bigg \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $Y _ { 0 } , A , X _ { 1 } c , X _ { 2 } c , W _ { 1 } , W _ { 2 }$ 均为拟合常数， $Y$ 为因变量, $X _ { 1 } , X _ { 2 }$ 为自变量。本文以决定系数 $R ^ { 2 }$ 说明预测效果[31]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1对3种叶菜机械损伤的单一方法检测",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 电导率法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "双因素方差分析结果表明,风速和风吹处理时间对3种叶菜的相对电导率均有极显著影响( $_ { _ { P < 0 . 0 1 ) } }$ ，风速和风吹处理时间的交互作用对上海青和四季小白菜的相对电导率有显著影响 $\\scriptstyle ( P < 0 . 0 5 )$ ,但是对玻璃生菜未达显著性水平(表1)。图2显示了不同风胁迫条件下3种叶菜叶片电导率的变化。对于上海青和四季小白菜， $5 ~ \\mathrm { m / s }$ 风速下各个处理的相对电导率与对照均无显著差异,但是 $1 5 \\mathrm { \\overline { { m / s } } }$ 风速持续 $^ { 1 5 } \\mathrm { \\ m i n }$ ，以及 $2 5 \\ \\mathrm { m / s }$ 持续 $5 , 1 0 , 1 5 \\ \\mathrm { m i n }$ 后，相对电导率与对照存在显著差异( $P { < } 0 . 0 5 \\mathrm { ~ , ~ }$ ）。对于玻璃生菜， $1 5 \\ \\mathrm { m / s }$ 风速持续10、15$\\operatorname* { m i n }$ ，以及 $2 5 ~ \\mathrm { m / s }$ 持续 $5 , 1 0 , 1 5 \\ \\mathrm { m i n }$ 后,玻璃生菜的相对电导率与对照存在显著差异( $\\scriptstyle \\left( P < 0 . 0 5 \\right)$ 。上海青，四季小白菜和玻璃生菜的相对电导率在 $2 5 ~ \\mathrm { m / s }$ 持续 $1 5 ~ \\mathrm { m i n }$ 处理最高,与其他各处理均存在显著差异( $\\scriptstyle P < 0 . 0 5 )$ ，分别高于对照 $2 1 4 . 7 0 \\%$ $2 2 8 . 9 6 \\%$ ， $2 6 6 . 9 2 \\%$ 。3种叶菜相比,玻璃生菜相对电导率变化最大，说明最容易受到风害损伤。 ?",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8c4053513e1c47eaaa71655f7550828e531702fdecfd5b607631c13e2b0ac488.jpg",
+        "table_caption": [
+            "表1三种叶菜机械损伤随风速、风胁迫时间变化的双因素方差分析 $( F )$ "
+        ],
+        "table_footnote": [
+            "\\*P<0.05，\\*\\*P<0.01 "
+        ],
+        "table_body": "<html><body><table><tr><td>Wind speed/(m/s)</td><td>风速</td><td>上海青 Shanghaiqing</td><td>四季小白菜 Four-season</td><td>玻璃生菜 Glass lettuce</td></tr><tr><td>相对电导率</td><td>风速Wind speed</td><td>671.147 **</td><td>Chinese cabbage 374.318 **</td><td>1060.651 **</td></tr><tr><td>The relative conductivity</td><td>时间Time</td><td>90.893 **</td><td>239.84**</td><td>69.966 **</td></tr><tr><td></td><td>风速×时间 Wind speed×time</td><td>34.652 **</td><td>58.111**</td><td>2.818</td></tr><tr><td>染色后目测等级</td><td>风速Wind speed</td><td>212.032 **</td><td>227.388 **</td><td>338.357 **</td></tr><tr><td>The visual grade after staining</td><td>时间 Time</td><td>26.226**</td><td>24.888**</td><td>48.857 **</td></tr><tr><td rowspan=\"4\">L</td><td>风速×时间 Wind speed×time</td><td>7.935 **</td><td>7.531 **</td><td>13.714 **</td></tr><tr><td>风速 Wind speed</td><td>37.235 **</td><td>417.868 **</td><td>0.335**</td></tr><tr><td>时间 Time</td><td>15.638 **</td><td>40.643 **</td><td>0.061**</td></tr><tr><td>风速×时间Wind speed×time</td><td>1.973</td><td>1.423</td><td>0.005</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.2伤口染色目测法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "双因素方差分析结果表明,风速、风吹处理时间、风速和风吹处理时间的交互作用对3种叶菜染色后目测等级均有极显著影响( $P { < } 0 . 0 1 )$ （表1）。3种叶菜染色后的目测等级见图3,对于上海青和四季小白菜， $5 ~ \\mathrm { m / s }$ 风速各处理目测等级与对照无显著差异， $1 5 ~ \\mathrm { m / s }$ 风速持续 $1 5 ~ \\mathrm { m i n }$ ，以及 $2 5 ~ \\mathrm { m / s }$ 持续 $5 , 1 0 , 1 5 \\ \\mathrm { m i n }$ 条件下上海青和四季小白菜染色后目测等级与对照存在显著差异( $P { < } 0 . 0 5 )$ 。对于玻璃生菜， $5 ~ \\mathrm { m / s }$ 风速各处理与对照均无显著差异，而 $1 \\ : . 2 5 \\ : \\mathrm { m / s }$ 风速各处理与对照均存在显著差异( $P { < } 0 . 0 5 )$ 。上海青，四季小白菜和玻璃生菜的目测等级在 $2 5 ~ \\mathrm { m / s }$ 持续 $1 5 ~ \\mathrm { m i n }$ 处理最高,与其他各处理均存在显著性差异,分别高于对照2.3,2.4和3.6。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.3 伤口色泽 $L$ 值测定法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "双因素方差分析结果表明,风速和风吹处理时间对3种叶菜 $L$ 值均有极显著影响( $P { < } 0 . 0 1 \\$ ），但是风速和风吹处理时间的交互作用对 $L$ 值影响不显著(表1)。由图4可见，对于上海青， $5 ~ \\mathrm { m / s }$ 风速在不同持续时间内$L$ 值与对照无显著差异； $1 5 ~ \\mathrm { m / s }$ 风速持续 $1 5 ~ \\mathrm { m i n }$ ，以及 $2 5 ~ \\mathrm { m / s }$ 持续 $5 , 1 0 , 1 5 \\ \\mathrm { m i n }$ 条件下 $L$ 值与对照存在显著差异( $_ { _ { P < 0 . 0 5 ) } }$ 。对于四季小白菜， $5 \\mathrm { m / s }$ 风速在不同持续时间风速持续 $1 5 ~ \\mathrm { m i n }$ ，以及 $1 5 ~ \\mathrm { m / s }$ 和 $2 5 ~ \\mathrm { m / s }$ 各时间胁迫条件下 $L$ 值与对照存在显著差异( $P { < } 0 . 0 5 )$ 。对于玻璃生菜， $5 ~ \\mathrm { m / s }$ 风速在不同持续时间风速持续10、15$\\operatorname* { m i n }$ ，以及 $1 5 ~ \\mathrm { m / s }$ 和 $2 5 ~ \\mathrm { m / s }$ 各时间胁迫条件下 $L$ 值与对照存在显著差异( $_ { _ { P < 0 . 0 5 ) } }$ 。上海青,四季小白菜和玻璃生菜的 $L$ 值在 $2 5 ~ \\mathrm { m / s }$ 持续 $1 5 ~ \\mathrm { m i n }$ 处理最低,分别低于对照 $2 1 . 1 7 \\%$ ， $3 8 . 9 1 \\%$ ， $4 2 . 7 3 \\%$ 。高风速条件下,风胁迫时间越长, $L$ 值降低越多。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0c8c958a219a782fcddd6e7eee2f96946314cf8b62ec88ed2e300a2407d58e4.jpg",
+        "img_caption": [
+            "Fig.2The relative conductivity of the three leafy vegetables "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1e643750a5992bd2931b253654a54333e4ec3bf7512ae42e1489376203b11a0b.jpg",
+        "img_caption": [
+            "图23种叶菜的相对电导率",
+            "图33种叶菜染色后目测等级",
+            "Fig.3The visual grade of the three leafy vegetables after staining "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/62615f9a5b82753d1db94d8bdf5576331f0d75f9ac23c8e236c4fa7ca2483427.jpg",
+        "img_caption": [
+            "图43种叶菜的 $\\textbf { \\em L }$ 值",
+            "Fig.4The $\\scriptstyle { \\pmb { L } }$ values of the three leafy vegetables "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1.43种叶菜的植株含水率及纤维素含量",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "上海青、四季小白菜、玻璃生菜的含水率分别是 $9 1 . 0 \\%$ $9 1 . 5 \\%$ ， $9 5 . 5 \\%$ ,玻璃生菜含水率显著高于上海青和四季小白菜。上海青、四季小白菜、玻璃生菜的纤维素含量分别是 $1 . 0 \\% , 0 . 9 \\% , 0 . 6 \\%$ ,玻璃生菜纤维素含量显著低于上海青和四季小白菜。将不同叶菜的含水率、纤维素含量和机械损伤评价指标做相关分析（表2）,相对电导率值、目测等级、机械损伤综合评价值与植株含水率呈正相关，与 $L$ 值呈负相关,可见叶菜含水率越高越容易受到风害损伤。相对电导率值、目测等级、机械损伤综合评价值与纤维素含量呈负相关,与 $L$ 值呈正相关,可见叶菜纤维素含量越高越不易受到风致机械损伤。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$2 . 2 ^ { \\gamma }$ 多种检测方法的综合评价",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综合评价可以运用多个指标进行评价,用文中3种方法分别进行叶菜机械损伤评价时,往往会有局限性，因此采用多种方法的综合评价,将各种方法的评价分值进行标准化处理后,进行加权求和得出标准总分,结果列于表3。根据最终评价结果,玻璃生菜最容易受到风害影响,机械损伤程度最重， $1 5 \\ \\mathrm { m / s }$ 和 $2 5 \\ \\mathrm { m / s }$ 风胁迫对3 种叶菜都有机械损伤,机械损伤程度随风速增强和风胁迫时间的增加而增强。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/a7f72939dc1eefa1cc9d4fe120e6785460d518810191fffd7e88c2db7f1c1a2c.jpg",
+        "table_caption": [
+            "表2含水率、纤维素含量与机械损伤指标的相关分析 $( r )$ ",
+            "Table2Correlation of the water content,celllose content,and indexes of mechanical damage "
+        ],
+        "table_footnote": [
+            "\\*P<0.05，\\*\\*P<0.01 "
+        ],
+        "table_body": "<html><body><table><tr><td>项目 Item</td><td>相对电导率 Relative conductivity</td><td>目测等级 Visual grade</td><td>L</td><td>综合评价值 Comprehensive evaluation value</td></tr><tr><td>含水率Water content</td><td>0.38 *</td><td>0.27</td><td>-0.27</td><td>0.40 *</td></tr><tr><td>纤维素含量 Cellulose content</td><td>-0.39 *</td><td>-0.26</td><td>0.28</td><td>-0.41 *</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/6d9611bda143dec19655288f6dab1681a2d1432fe1231e4ee2a479aecdbbf196.jpg",
+        "table_caption": [
+            "表3各叶菜机械损伤综合评价结果",
+            "Table 3The comprehensive evaluation result of the mechanical damage of the three leafy vegetables "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">风速 Wind speed /(m/s)</td><td rowspan=\"2\">时间 Time/min</td><td colspan=\"3\">综合评价值 Comprehensive evaluation value</td></tr><tr><td>上海青</td><td>四季小白菜</td><td>玻璃生菜</td></tr><tr><td>0</td><td></td><td>Shanghaiqing</td><td>Four-season Chinese cabbage</td><td>Glass lettuce</td></tr><tr><td>5</td><td>0 5</td><td>-3.64 -3.61</td><td>-3.27 ● -3.28</td><td>-2.75 -2.78</td></tr><tr><td rowspan=\"4\">15</td><td>10</td><td>-3.60</td><td>-2.90</td><td></td></tr><tr><td>15</td><td>-3.28</td><td></td><td>-1.86</td></tr><tr><td>5</td><td></td><td>-2.33</td><td>-0.49</td></tr><tr><td>10</td><td>-3.40 -2.72</td><td>-2.54</td><td>0.02</td></tr><tr><td rowspan=\"4\">25</td><td>15</td><td>-1.22</td><td>-1.52</td><td>0.72</td></tr><tr><td>5</td><td>-0.45</td><td>1.37</td><td>2.80</td></tr><tr><td></td><td></td><td>0.77</td><td>5.36</td></tr><tr><td>10 15</td><td>1.75 3.91</td><td>4.34 6.51</td><td>7.83 10.22</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3 风胁迫机械损伤的模型预测 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对于3种叶菜，分别以风速 $X _ { 1 }$ 、风胁迫时间 $X _ { 2 }$ 为自变量，机械损伤程度Y为因变量，对机械损伤程度随风速及风胁迫时间的变化进行拟合,应用origin 的非线性曲面拟合,发现Gauss2D 拟合能较好的模拟,上海青、四季小白菜、玻璃生菜分别得到方程如下：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY = - \\ 3 . 9 7 \\ + \\ 4 3 5 0 1 . 0 4 \\ \\times \\exp \\Biggl \\{ - \\ \\frac { 1 } { 2 } \\left( \\frac { x _ { 1 } \\ : - \\ : 1 6 5 . 2 9 } { 3 4 . 4 4 } \\right) ^ { 2 } \\ - \\ \\frac { 1 } { 2 } \\left( \\frac { x _ { 2 } \\ : - \\ : 4 5 . 9 4 } { 2 6 . 9 3 } \\right) ^ { 2 } \\Biggr \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY = - 4 . 0 5 + 7 6 2 . 3 6 \\times \\exp \\Biggl \\{ - \\frac { 1 } { 2 } \\left( \\frac { x _ { 1 } - 1 2 5 . 5 1 } { 3 4 . 8 5 } \\right) ^ { 2 } - \\frac { 1 } { 2 } \\left( \\frac { x _ { 2 } - 3 3 . 8 8 } { 2 1 . 1 5 } \\right) ^ { 2 } \\Biggr \\} \\qquad ( R ^ { 2 } = 0 . 9 5 5 2 )\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY = - 4 . 2 0 * 3 5 5 3 7 8 . 5 6 \\times \\exp \\Biggl \\{ - \\frac { 1 } { 2 } \\left( \\frac { x _ { 1 } - 2 3 8 . 8 5 } { 5 3 . 4 1 } \\right) ^ { 2 } - \\frac { 1 } { 2 } \\left( \\frac { x _ { 2 } - 2 2 2 . 8 8 } { 9 6 . 9 5 } \\right) ^ { 2 } \\Biggr \\} \\qquad ( R ^ { 2 } = 0 . 9 8 4 0 )\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$R ^ { 2 }$ 用来总体说明预测效果的指标,拟合的这3个模型的 $R ^ { 2 }$ 都较高,分别为0.9781,0.9552和0.9840,说明拟合的模型能较好地描述风速和风胁迫时间对3种叶菜的机械损伤。为检验风胁迫机械损伤模型的有效性，可以用3种叶菜机械损伤的综合评分值与预测值作图来评价模型的拟合性能。图形验证被认为是有效的评价方法,因为他们可以更直观地显示出模型的预测能力[32]。图5中用3D曲面图直观呈现风害导致机械损伤的实测数据及预测模型,图中显示不同风胁迫条件下的测量值均与对应模型曲面较好吻合。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "风害是导致蔬菜经济损失的重要原因之一,准确评估风致机械损伤是预测风害和制定有效应对措施的前提条件。叶菜受到风害机械损伤后,产生了外观、色泽以及生化方面的变化,据此有多种机械损伤评价方法，如电导率法、感官评价法、色差法、X射线探查法等。植物受到机械损伤后,细胞膜结构遭到破坏,细胞膜脂氧化增加,会导致相对电导率数值赠加,因此相对电导率可以作为机械损伤后细胞水平异常的监测指标。如王向阳等[27]利用青菜叶片损伤处理对电导率的影响判断青菜的机械损伤,李萍等[33]利用黄花梨相对电导率变化研究黄花梨的机械损伤程度。目测评价法是一种依赖于人体感知的直观的评价方法,如申江[34]等对白菜、",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/64ee88ae3a4cc20af96bd4a9d6898d11b621f91626e4470a500d21b634dd9f34.jpg",
+        "img_caption": [
+            "图5三种叶菜的机械损伤程度随风速、风胁迫时间变化的拟合曲面"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.5Fiting surface of thegrowthof the threeleafyvegetables predicted by wind speedand wind stress time青花菜、油菜等利用皱缩、色泽、萎蔫等感官指标对试验后果蔬进行评价,王向阳等利用染色后青菜外观评价青菜的机械损伤[27]。近年来,色差仪普遍应用,依据是损伤引起伤口 $L$ 值下降， $L$ 值色泽测定法操作简单快捷,可以定量评价叶片机械损伤,如申江等[34]利用色差仪研究了白菜的机械损伤。虽然3种机械损伤检测方法都有其自身的优点,但是有时对同一样本机械损伤的评价结果不尽相同,用文中3种方法进行机械损伤测定时,得到最重的机械损伤处理一致,都是 $2 5 ~ \\mathrm { m / s }$ 风胁迫 $1 5 ~ \\mathrm { m i n }$ 的生菜处理最重,而在评价中等机械损伤程度的处理时,常出现评价结果不一致的情况,如电导率法中四季小白菜被 $2 5 \\ \\mathrm { m / s }$ 风胁迫 $1 5 ~ \\mathrm { m i n }$ 处理机械损伤轻于玻璃生菜被 $2 5 \\mathrm { \\ : _ { m / s } }$ 风胁迫 $5 ~ \\mathrm { m i n }$ 处理;而目测法与 $L$ 值法中四季小白菜被 $2 5 ~ \\mathrm { m / s }$ 风胁迫 $1 5 ~ \\mathrm { m i n }$ 处理机械损伤重于玻璃生菜被 $2 5 ~ \\mathrm { m / s }$ 风胁迫 $5 ~ \\mathrm { m i n }$ 处理。因此,仅采用一种检测方法无疑会有一定的片面性,本文应用综合评价方法克服了不同单一检测方法的片面性,从而使得评价结果更加可靠。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究中,不同叶菜种类对风害的机械损伤响应不同,这是因为植物叶片的组织形态和物质成分对其力学性质的影响很大。机械损伤是外力引起的局部质地变化的结果,源于外部接触力而产生的内部应力,大风因为使叶片遭受一定的风压而造成叶片组织发生宏观和微观结构改变,生理活性失调(出现呼吸高峰和代谢异常等),组成成分变化[18-19,35]。植物叶片抗风胁迫机械损伤的能力与叶片的脆度密切相关,而叶片的脆度与叶片的种类、厚度、含水率、组织内纤维素的密度等密切相关[36-37]。第一，本研究中,叶菜含水率与电导率值和机械损伤综合评价值呈显著正相关(表2）,表明叶菜含水率越高越容易受到风害损伤。上海青、四季小白菜、玻璃生菜的含水率分别是 $9 1 . 0 \\% , 9 1 . 5 \\% , 9 5 . 5 \\%$ ,生菜含水率显著高于上海青和四季小白菜。含水率与叶菜细胞膨压密切相关,细胞膨压就是细胞质内液体对细胞壁产生的压力,细胞含水率越高,膨压就越大,因此生菜细胞膨压相对较大。脆度又取决于细胞膨压的变化,膨压越大,脆性就越强[36],因此玻璃生菜叶片脆度更高,使破断细胞壁所需的应力和能量减小，因此也更容易受到风压机械损伤。第二，本研究中纤维素含量与电导率值和机械损伤综合评价值呈显著负相关(表2）,表明叶菜纤维素含量越高越不易受到风致机械损伤。上海青、四季小白菜、玻璃生菜的纤维素含量分别是 $1 . 0 \\% , 0 . 9 \\% , 0 . 6 \\%$ ,玻璃生菜纤维素含量显著低于上海青和四季小白菜。纤维素是构成细胞壁的重要组成部分，叶片支撑组织的力学性质主要由纤维素物质决定,纤维素的含量与叶片的脆度关系较为密切，一般来说细胞壁纤维素含量高则脆度低,反之则脆度高。玻璃生菜纤维素含量较低使得叶片机械强度随之降低,因此也更容易受到外力伤害,而上海青纤维素含量相对较高,不易受到风害损伤。除此之外,植株的高度也是影响风胁迫机械损伤的重要因素[38],上海青与四季小白菜的含水率与纤维素含量相差不大,但是由于四季小白菜株型较高,因此更容易受到风害机械损伤,叶柄处出现机械伤害较多。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1)风胁迫对上海青、四季小白菜、玻璃生菜的机械损伤主要出现在 $2 5 ~ \\mathrm { m / s }$ 和 $1 5 \\ \\mathrm { m / s }$ 风速条件下，并随风速和风胁迫时间的增加而增加。(2)与上海青和四季小白菜相比,玻璃生菜更容易受到风害影响。（3)根据风速、风胁迫时间建立的不同种类叶菜机械损伤Gauss2D预测模型能够较好的模拟其机械损伤程度与风速和风吹时间的关系,模型的判定系数 $R ^ { 2 }$ 在0.9552—0.9840 之间，具有较高的拟合精度。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1］王艳红，何维明，于飞海，江洪，余树全，董鸣.植物响应对风致机械刺激研究进展.生态学报，2010,30(3)：794-800.  \n[2]Cleugh HA,MilerJM,Bohm M.Direct mechanical efectsof windoncrops.Agroforestry Systems，1998,41（1):85-12.  \n[3]De Langre E.Effects of wind on plants.Annual Review of Fluid Mechanics,2O08,40：141-168.  \n[4]SchindlerD,Bauhus J,Mayer H.Wind efectsontres.European Jourmal ofForest Research,2O012,131（1)：159-163.  \n[5]Grace J. Plant Response to Wind. London:Academic Press,1977.  \n6]RussellaceJftesicaeoosiselaloBotany，1978,29(5）：1249-1258.  \n[7］孙怀卫，杨金忠，王修贵.塑料大棚气流场模拟及作物蒸腾量计算.农业工程学报，2011,27(11)：236-241.  \n[8] 李霞，薛绪掌，王国栋，解迎革，李邵，陈菲．风速对盆栽苋菜蒸腾及物质积累的影响.中国生态农业学报，2009，17(6)：143-1148.  \n[9] 南江，赵晓英，原慧，张琳琳．霸王和木本猪毛菜在遮风和不遮风环境下的表型特征差异.生态学报，2014，34(20)：5758-5765.  \n[10] 王林，代永欣，樊兴路，张芸香，黄平，万贤崇.风对黄花蒿水力学性状和生长的影响.生态学报，2015，35（13）：4454-4461.  \n[11] 张家诚，林之光.中国气候.上海：上海科学技术出版社，1985.  \n[12]WuranJKosibaK，obisonPIitu，Dplerdarndvdobservatiosoftheiteriorsrctureofoadondthwindagerelationship. Bulletin of the American Meteorological Society，2013,94(6): 835-846.  \n[13]RaeDAusterW,EdwasE,Svegard-Bre.Ifuenceofciateadseisteractiosothpitoofplantinvertebrate communities in alpine northern Norway. Acta Oecologica,2006,29(3）: 266-282.  \n[14] MoreJR，WattMS.ModellngtheifuenceofpredictedfuturcimatechangeontisofinddmagewitinNewZalad'splanteorests.  \nGlobal Change Biology，2015,21（8）：3021-3035.  \n[15] HughesL.Climatechange and Australia：trends，projections and impacts.Austral Ecology，2003,28（4）：423-443.  \n[16] DupontS,PivatoD,BrunetY.Winddamagepropagationinforests.AgriculturalandForestMeteorology，2015,14-215：243-251.  \n[17] 李树岩，王宇翔，胡程达，闫瑛.抽雄期前后大风倒伏对夏玉米生长及产量的影响.应用生态学报，2015,26(8)：2405-2413.  \n[18] MacKerron D KL.Wind damage to the surface of strawberry leaves.Annals of Botany，1976,40(2）：351-354.  \n[19] ThompsoJR.etofdoes.eccalmagesucudnceshbualofEperitalota7）：965-972.  \n[20］曲浩，赵学勇，岳广阳，王少昆.科尔沁沙地几种常见植物对风胁迫的生理响应.中国沙漠,2009,29(4）：668-673.  \n[21］移小勇，赵哈林，张铜会,李玉强，刘新平，卓鸿.挟沙风对土壤风蚀的影响研究.水土保持学报，2005,19（3）：58-61.[2]PouliasdaErodoeidgofaadiradiography.Advanced Engineering Materials，2013，15(11）：1136-1145.  \n［23］宝乐尔其木格.中国沿海风特性研究[D].青岛：中国海洋大学,2011.  \n[24］李超，魏建苏，严文莲，俞剑蔚，彭小燕.江苏沿海大风特征及其变化分析.气象科学,2013，33（5）：584-589.  \n[25］王巍竹.中国沿海大风阵风系数特征分析.广东科技，2014，（16)：139-139.  \n［26］李合生.植物生理生化实验原理和技术.北京：高等教育出版社，2000.  \n[27] 王向阳，于胜爽，潘炎，吕丽.青菜机械损伤的检测方法研究.北方园艺，2014，（5)：26-30.  \n28VanSneeeaiofldoideentbiagateoualofotoAnalytical Chemists，1968，51：780-785.  \n[29］薛桂萍，程辉，张星，吴菊薪.多种评价方法在农业气象灾情评价中的综合应用.中国农业气象，2008，29（3）：361-364.  \n[30] 马骏，李昌晓，魏虹，马朋，杨予静，任庆水，张雯.三峡库区生态脆弱性评价.生态学报，2015，35（21)：7117-7129.  \n[31］张国平，郭澎涛，王正银，刘洪斌.紫色土丘陵地区农田土壤养分空间分布预测.农业工程学报，2013,29(6)：113-120.  \n32]GeeraerdVaddisVevgeeereJVJFevelopteachdiinpredictivemicrobiologincoporationfmicoblogcalkowedgeinblackoxpolyomialmodelingInteatioalJoualofFoodMicrobiology，2004，91(3）: 229-244.  \n［33］李萍.黄花梨模拟运输振动引起的机械损伤与品质损害［D].杭州：浙江大学，2014.  \n[34］申江，李超，和晓楠.叶菜类蔬菜公路冷藏运输模拟实验研究.食品科技，2011，36(5）：70-79.  \n[35］李晓娟.鸭梨机械损伤机理及运输包装研究［D].天津：天津科技大学，2008.  \n［36］陈文烜.水蜜桃、梨减压保鲜技术及机制研究[D].北京：中国农业大学，2015.  \n[37] 杜庆平，李伶利，徐强，陈学好.加工类型黄瓜果实脆度与其组织结构的关系．湖北农业科学，2012,51（5）：940-942.  \n[38］吴志华，李天会，张华林，谢耀坚.沿海防护林树种木麻黄和相思生长和抗风性状比较研究.草业学报，2010,19（4）：166-175.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

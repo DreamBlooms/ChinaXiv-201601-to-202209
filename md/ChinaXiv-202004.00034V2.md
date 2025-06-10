@@ -1,0 +1,296 @@
+# 医疗信息风险感知的影响因素与加工机制
+
+吕小康1,2 刘洪志1,2付春野3」南开大学周恩来政府管理学院社会心理学系 天津 3003502南开大学计算社会科学实验室天津3003503天津师范大学心理学部　天津300387
+
+摘要从信息加工视角探究个体对医疗信息的风险感知过程，通过医疗信息来源、医疗信息内容与呈现形式和信息加工主体三个方面归纳其影响因素，并基于经验一分析式加工理论和字面一要义加工理论探讨医疗信息风险感知的认知机制。今后研究可更注重医疗信息风险感知的通用研究与特殊主题研究的平衡、风险感知测量工具的规范性与特异性的结合，并立足于中国医疗体系建立具有循证依据的预防措施和配套政策。
+
+关键词 医疗信息；风险感知；经验一分析式加工；字面一要义加工
+
+# 1引言
+
+日常生活中，个体会接触到各种不同来源的医疗信息(medical information)。一方面，互联网的普及让大众能够轻易获取大量未经甄别的医疗信息，这些信息往往混杂着经济动机、价值理念和情绪倾向；若不能对此类信息做出正确的判断，可能会引发严重的健康后果或阻碍医患沟通(Marteau, Hollands，& Fletcher， 2012； Nurse,Agrafiotis,Goldsmith, Creese，&Lamberts,2014)。另一方面，由于疾病自身的复杂性、检测的不精确性和医疗结果的不可完全预测性，即便是源自专业医疗机构传递的信息，其本质上也具有不可忽视的不确定性。因此，个体基于这些不确定的信息进行求医行为相关的判断及决策，是一种可能涉及严重的切身后果的风险决策行为。
+
+在医疗信息风险感知的过程中，有诸多因素促使实际存在的客观风险与主观感受之间的实质性偏离。例如，常人在面对风险信息时，往往不是基于理性做出风险评估，而是基于直觉做出风险感知(Slovic,1987)；他们通常较难理解以医疗专业术语呈现的风险信息，或者难以区分不同风险的相对重要性，从而会过高或过低地估计风险(Peters,Hibbard,Slovic,&Dieckmann,2007)；当他们听到副作用发生的概率时，真正影响其决定的往往不是副作用的严重性，而是内在的心理感受(于贝尔,2012/2018,p.123)。因此，不仅要把正确的医疗信息提供给患方，同时还应重视患方在加工医疗信息时的认知过程和情绪感受，以便准确地评估其是否能够基于这些信息建立准确的风险感知，从而达成有效的传播和沟通。总之，了解患方对医疗信息的风险感知过程，对于医疗信息的有效传播、医患之间的顺畅沟通和共同决策，都具有重要的实际意义。
+
+医疗信息的风险感知及其后续行为决策所产生后果的切身性、严重性与难以恢复性，是它区别于其他领域的风险感知与决策的最大不同，其所需要分配的认知资源和产生的心理压力可能会区别于以金钱投资形式出现的风险决策。本质上讲，医疗健康行为的风险决策的“本金”，并不仅仅是为寻求医疗诊治服务而付出的金钱成本，还应包括个体直接的身心健康;越是严重的身心疾病，对个体心理资源的损耗可能越严重，健康收益或损失在风险感知和行为决策中所占的相对地位就越高，甚至会超出对一般性经济后果的考虑。这是因为经济投入相较于个体健康，更适合理解为收益，即强调什么样的决策能够带来最高的收益；而健康对于个体，更多是作为损失，强调什么行为才能避免健康的丧失。而个体对收益与损失天然地存在不同的风险敏感性。现实中出现的"因病致贫”、“因病返贫"现象，从行为决策角度理解，一定程度上可以解释为个体对身心健康的追求已经压倒了对经济成本的衡量，即对健康损失后果的风险感知已经远超出了对经济损失后果的风险感知，从而迫使自身做出宁可贫困、也要健康的决策。因此，有必要在一般性的风险感知研究的基础上，进一步聚焦于医疗信息相关的风险感知及其加工机制，从而建立针对性的干预和防范措施，推进个体、家庭和全社会的全面健康。
+
+目前，关于风险感知的研究已经较为普遍，但专门针对医疗信息的风险感知、尤其是中国情境下的医疗信息的风险感知，还需要进一步的深入。同时，个体的医疗风险感知涉及对医疗信息之外的多种认知对象的风险感知，但本文将只聚焦于个体在对医疗信息进行信息加工过程中产生的风险感知。在此，医疗信息宽泛地定义为个体在日常生活和医疗机构中接触到的、与医学诊断和治疗相关、可能影响个体身心健康的信息。具体而言，本文将从信息源、信息内容与形式、以及信息加工主体这三大要素分析影响个体风险感知的因素，并基于经验一分析式加工理论和模糊痕迹理论探讨其中的认知机制，最终就中国情境下的医疗风险感知提出进一步的研究建议。当然，医方本身也有特定的对医疗信息的风险感知模式，医务工作者自身也会作为患者、从患方的视角进行风险感知，但本文暂不涉及医患之间的风险感知模式的比较，故仅将讨论范围局限于一般意义上的、非医务工作者的普通个体对医疗信息的风险感知。
+
+# 2 患方对医疗信息风险感知的影响因素
+
+# 2.1 医疗信息来源
+
+信息源是决定信息可靠性的关键因素。当人们缺乏足够详细地加工信息的动机或专业知识时，他们主要求助于对信息源可信度的评估(Lewandowsky,Ecker,Seifert,Schwarz,& Cook,2012)。所以，信息源对风险感知的影响是关键且间接的，是否能够准确的评估风险首先取决于个体对信息来源的信任程度。比如，信任低质量的信息可能会导致低估其风险，不信任高质量的信息可能忽略风险。2016 年在中国社会引起广泛讨论的"魏则西事件”肖雪，胡承武，2017)，即与患方对“生物免疫疗法"的不了解和对相关网络平台提供的医疗信息的轻信有关。
+
+传统意义上，医护工作者是最可靠的医疗信息来源(Cutilli,2010)。理想情况下，患方应对专业渠道提供的医疗信息给予充分信任，同时对非专业渠道提供的医疗信息保持高度警惕。但是，近些年的调查发现现实正好与此相反。例如,Volkman 等(2014)基于大数据对大众获取医疗信息的来源展开调查，发现人们获得医疗健康信息的途径首先是互联网，其次才是医务工作人员；Swoboda,van Hulle,McAleaney 和 Huerta(2018)的调查也显示, $69 \%$ 的参与者在遇到医疗问题时首选互联网，只有 $1 5 \%$ 的参与者选择了医疗服务工作者作为首个健康信息来源。国内的调查研究也得到了相似的结果，比如对北京某三甲医院门诊患者的调查研究显示， $9 6 . 2 \%$ 的患者在自己、家人或朋友身体不适时，求助于网络查询相关的信息。同时，相比于搜索引擎，可信度较高的医学资讯类网站和医院官网的使用率却相对较低(侯小妮，孙静,2015)。至关重要的是，调查发现，大众会对互联网的低质量医疗信息给予较高的可信度和准确度的评价(de Boer,Versteegen,& van Wijhe,2007)。这些研究结果表明，互联网作为医疗信息来源被广泛地使用，并且个体不能有效地甄别信息质量。
+
+当然，个体对低质量信息来源的轻信也存在一定的外在因素，网络虚假信息更擅长使用耸人听闻和小说传奇式的形式吸引人的注意，使得虚假信息比真实信息得到了更快、更深和更广泛的传播(Vosoughi,Roy,& Aral,2018)。与此相反，专业工作者往往采用理性说服的方式，力求医疗信息的精准性，这就会导致大众对信息的理解困难，从而难以产生实质影响(Shelby&Ermst,2013)。人们常说的"谣言张张嘴，辟谣跑断腿”，就是这一效应的后果。
+
+此外，也有研究发现人们经常不信任来源于网络的医疗信息，会试图通过医生、其他网站、印刷资源或与朋友和家人核实信息(Schwartz etal.,2006)。即使如此，也不能忽视互联网低质量的医疗信息所造成的安全隐患。即使患方能够充分意识到信息源的不可靠性，也可能因为时间因素对信息内容产生错误判断。例如，患者从互联网或者商业广告等途径获取的医疗信息可能不会产生即时的影响，但是患者可能会在事后回忆起信息的内容而对信息源产生了忽略或遗忘，进而混淆了真实和虚假的信息，即产生了所谓的“睡眠者效应"(sleepereffect; Kumkale,& Albarracin, 2004)。
+
+不论网络信息如何影响个体的医疗风险感知，在现实中，患者在求诊和治疗时都需要与真实的医务工作者进行面对面的沟通。此时，患者对医务工作者个人的信任度就会明显影响其对医疗信息的风险感知(Peikari,Ramayah,Shah,&Lo,2018)，尤其是患者较为陌生的疾病或健康领域，当涉及的医疗决策后果较为严重时更是如此。例如，关于疫苗接种决策的研究表明，个体对接种疫苗的风险感知高低与对卫生专业人员的信任高度相关。在父母可自由决定是否接种疫苗的情况下，只有在父母与卫生专业人员建立信任关系时，他们才会跨越知识鸿沟、有意识或无意识地排除一些不确定性，从而决定为孩子接种疫苗(Benin,Wisler-Scher,Colson,Shapiro,& Holmboe,2006; Brownlie & Howson,2005; Hobson-West,2007)。因此，医务工作者在一些情境下扮演着"最终信任源"的角色。如何让其传递的信息与患方的日常经验和生活意义相吻合，从而达成信任的缔结和顺畅的风险沟通，需要医患双方的共同努力。
+
+# 2.2 医疗信息
+
+# 2.2.1 信息内容
+
+不同类型的医疗信息会引发不同的风险感知。早期研究即发现，人们会低估常见病对健康风险的发生频率，而高估罕见病对健康风险的发生频率，因为那些被过高估计的死亡原因通常引人注目或者耸人听闻(Lichtenstein,Slovic,Fischhoff,Layman,& Combs,1978)。例如,对超重人群疾病风险感知的调查显示，被调查者明显低估了其患糖尿病、关节炎、风湿病和高血压的风险，而高估心脏病和中风的风险(Winter&Wuppermann,2014)。这是因为相较于心脏病和中风，糖尿病、关节炎、风湿病和高血压通常不会导致严重的明显后果。还有实验研究发现，面临后果严重的疾病，参与者会完全忽略医疗信息中的概率数据，转而依据先前的信念和当下的情感反应做出医疗决策(Colome,Rodriguez-Ferreiro,& Tubau,2018)。在公众对急性传染病的风险感知中，这一现象也同样存在(Raude,Peretti-Watel,Ward,Flamand,&
+
+Verger,2018)。而像种植牙这种并非产生直接的"非死即残"后果的可选择性手术,多数个体都高估了种植牙的功能和寿命，低估开展临床程序所需的专业知识，并忽视治疗风险和长期预后(Wang,Gao,&Lo,2015)。这通常是因为可得性启发(availability heuristic;Tversky&Kahneman,1974)和情感启发(affect heuristic; Slovic,Finucane,Peters,& Macgregor, 2007)的作用而导致，即人们会根据容易想起的事例和信息所引发的感受来感知风险，而激发恐惧之类负性情绪的信息则会使个体高估风险。
+
+对中国人疾病风险感知的调查研究也显示了类似的结果。Zhou 等(2019)对中国人导致死亡的高危因素的研究发现，目前最影响国人健康的疾病基本都是非传染性的慢性病，比如中风、缺血性心脏病、高血压等常见病，但这些常见病并没有引起足够重视；相反，一些并不严重的疾病或症状，却因为"名称"的原因而引发患者的过度担忧。比如，宫颈糜烂是诸多中国女性认为的一种"妇科病”。但实际上，它本身并不是一种疾病，而是宫颈的正常生理性改变，一般不用治疗。因此“宫颈糜烂"作为一个医学术语是不确切的，应当废除(贺国丽，王世阆,2011；薛凤霞,2009)。
+
+为降低疾病或症状名称对患者风险感知的影响，医学界已经通过疾病名称及类属的改变，以期降低患者的风险感知和焦虑。例如，目前国内医学生的《妇产科学》、《妇产科护理学》等主流教材已经与国际一般医学指南接轨，取消了“宫颈糜烂"的命名，代以“宫颈柱状上皮异位"的中性名称(谢幸，孔北华，段涛,2018,p.249；郑修霞,2017,p.244)。类似地，甲状腺乳头状癌(EFVPTC)作为一种无侵润性的低危甲状腺癌(thyroid cancer)，也被改为更加符合该疾病生物学和临床特征的命名：乳头状非侵润性滤泡性甲状腺肿瘤(NIFTP)。甲状腺病理学家认为，这种重新分类将影响到全世界的大量患者，并导致与癌症诊断和临床预后的相关心理负担的显著降低(Nikiforov etal.,2016)。此外，在大众传媒中，宫颈糜烂之类的"术语"仍然屡见不鲜，其对大众认知的影响仍持续存在。因此，对这一策略的实际成效，还需要结合具体的疾病做进一步的评估。
+
+另外，个体通常对能造成直接风险的医疗信息更敏感，而对可能带来潜在收益的医疗信息较迟钝。疫苗就是典型的例子。尽管疫苗被专家公认为是最成功的公共卫生措施之一，但在许多国家，仍有越来越多的家长认为接种疫苗是不安全和不必要的，从而对是否进行疫苗接种犹豫不决，或者干脆选择不接种疫苗。即使选择接种疫苗的家长也对疫苗的安全性存在严重的怀疑和担忧(Kennedy,Lavail,Nowak,Basket,& Landry,2011)。此时，家长实际是在两种风险之间进行权衡。由于疫苗是作为预防药物给健康人使用，也就是说疫苗可预防疾病的风险是长期的，从而是“不可见的”。而接种疫苗的风险，不论是否真实，结果却是短期且通常致命的，从而是“可见的”。同时，多数家长对疫苗可预防疾病的风险和疫苗副作用的风险都只基于对自己孩子的健康影响，而非流行病学那样基于群体的角度(Poltorak,Leach,Fairhead,&Cassell,2005)。因此，个体在加工各种类型的医疗信息时，可能存在多种复杂的认知机制，而现实又往往要他们做出简单直接的快速判断。一旦风险感知不准确，就有可能形成错误的决策并导致严重的后果。
+
+# 2.2.2 信息呈现方式
+
+对于专业的医护工作者和公共健康工作人员，为求精准传达信息内容，往往采用数字信息、尤其是概率形式出现的统计数字来呈现治疗的有效性和药物的副作用(Reyna,Nelson,Han,&Dieckmann,2009)，但患方通常难以理解数字背后的意义，从而不能准确地认知风险。其中单一事件概率(single event probabilities)、条件概率(conditional probability)和相对风险(relative risk)这三个概念尤其让人感到困惑。如果医生告知患者“一种药物的副作用是$30 \%$ 单一事件概率)”，患者很难理解 $30 \%$ 的副作用所带来的风险是高还是低。由于参考标准不同，医生传达的是每10个患者中有3个人会发生药物的副作用，患者可能认为自己有 $30 \%$ 的可能性会发生药物的副作用(Gigerenzer＆ Edwards,2003)。条件概率就更加复杂，“如果患者患有这种疾病，检测结果呈阳性的可能性是 $8 0 \% ^ { \prime \prime }$ ，那么当检查结果呈阳性时，患者很难判断自己真正得病的可能性是多少、误诊的可能性有多大，著名的关于乳腺癌检测的贝叶斯概率就属于此类(Eddy,1982)。单一事件概率和条件概率会使个体感到迷惑，而相对风险的概念会使个体有倾向性地高估或低估风险和收益。比如英国药物安全委员会发布的信息声称，第三代口服避孕药会使女性罹患血栓的风险增加 $100 \%$ 。这个数字非常显眼，但 $100 \%$ 究竞指的是什么呢？研究表明，每 7000 个服用第二代口服避孕药的女性中，大概有1个会患血栓,若服用第三代，则患血栓的女性人数会增加到2人。也就是说，相对风险增加了 $100 \%$ ，绝对风险只增加了1/7000。这些信息带来的后果非常严重，引发女性对第三代口服避孕药产生了过高的风险感知，避孕药的销量下降而堕胎率持续增长(Gigerenzer,2014,p.12)。
+
+因此，医疗专业人员需要改善统计资料的表达方式，从而帮助患者建立准确的风险感知，比如使用自然频率而不是使用单一事件概率或条件概率、使用绝对风险来避免相对风险引发的混乱(Gigerenzer & Edwards,2003; Gigerenzer, 2015b, p. 7; Hoffrage, Krauss, Martignon, &Gigerenzer,2015)。除此之外，也有研究显示，数字信息的格式决定了个体是否能够理解风险信息，视觉表征可以显著的提高对风险的理解(Carey etal.,2018)。Galesic,Garcia-Retamero 和
+
+Gigerenzer(2009)采用图标阵列(iconarray；一种图像化的信息表达方式，以图标来区分受到和未受到风险影响的群体)和数字信息两种呈现方式，发现图标阵列能使个体更准确地感知风险。与此类似的是,Liana 等(2019)以全膝关节置换手术为背景信息，结果表明统计数据中添加图形信息(图标阵列、图片或旋转图标)可以增强参与者对全膝关节置换手术的偏好。这些视觉辅助的方式可以有效提高数字信息的交流，同时确保信息的准确性。
+
+不论如何变换数字的呈现方式，其本质都是脱离个人情境、无关情感与价值的客观数字。并非只有客观的信息才能进行有效的传播，而且当数字信息超出个体的认知水平时，反而容易造成个体的误解或无视。相反，叙事信息(narrative information)可以克服患方接受信息的阻力、促进信息处理、提供替代的社会联系及解决情感问题(Kreuter et.al,2007)，尤其适合于一些特定类型的医疗信息传播与风险沟通。实际上，叙事信息的影响无处不在，个体在传播信息时，都会有意无意地建立或者引入特定的叙事框架；相反，可能只有医疗专业机构才会为了客观和精确在信息传播过程中刻意避免采用叙事框架。Tangherlini 等(2016)采用机器学习的方法对互联网上儿童疫苗接种话题的研究发现，叙事框架广泛地分布在大量的育儿网站，这些叙事框架表述的是"疫苗给儿童带来的危害"和"父母如何利用豁免权来阻止这些危害”。更严重的是，叙事会引发迅速且广泛的传播，任何新加入这些网站的家长，都会接触到这些叙事，进而迅速地激活"疫苗会带来危害”、“豁免权可以阻止危害”。另外，对某些传播目标来说，叙事信息可能是不必要或不合适的，因为叙事化的呈现方式会模糊重要信息，使个体难以捕捉到关键信息。例如,Teresa 等(2018)的研究发现，相比于非叙事材料，叙事信息并没有对个体的风险感知产生影响。因此，他们认为叙事信息应该作为补充信息而不是替代信息。还有研究发现，在突发公共卫生事件中，说教式、非叙事性信息可能比叙事性信息更有效地影响个体的知识和风险感知(Bekalu, Bigman,Mccloud,Lin,& Viswanath,2018)。
+
+由此可见，数字信息与叙事信息各有优势和适用领域。通常来说，数字信息力求准确，而叙事信息力求生动。为此，已有研究开始探究如何将两种信息形式进行结合，以兼顾准确性和生动性。例如,Nan,Dahlstrom,Richards 和 Rangarajan(2015)以乳头瘤病毒(HPV)为背景编制情境材料，结果发现，相比于单独呈现统计信息或叙事信息，当同时呈现统计信息和叙事信息时，参与者对乳头瘤病毒所引发的风险感知水平最高。此外，还有研究不同的框架下叙事的效应，研究者以吸烟引发相关疾病为背景进行实验研究，结果发现在损失框架下，参与者对叙事条件的感知严重性显著高于非叙事性条件；但在收益框架下，信息类型对参与者的感知严重性没有影响，即框架在信息类型和风险感知之间起到了调节作用(Ma& Nan,2018)。可见，准确的信息传播需要精准的聚焦目标对象，同时还需要结合具体的传播主题来
+
+选择合适的信息呈现方式。
+
+# 2.3 信息加工主体的因素
+
+# 2.3.1 医疗知识
+
+医疗知识是个体进行医疗认知和决策的基础。理论上讲，个体的医疗知识水平越高，则越有可能做出更加准确的风险感知。这一观点也得到大量实证研究的支持。例如，艾滋病高危个体所具备的艾滋病知识是影响其对艾滋病传染的风险感知的重要因素(Tafazoli& Larki,2016)；具有越多的宫颈癌检查知识的女性，对宫颈癌风险的感知越准确(Gu,Chan,He,Choi,& Yang,2013)；具有更多药物知识的青少年，在使用药物时会更加谨慎，对药物的风险感知更准确(KlimaszovaFazekas,&Kuzelova,2018)。但知识水平并不是影响风险感知的稳定因素。King,Ndoen 和 Borland(2018)的研究结果显示，尽管多数个体都具备吸烟如何导致疾病和成瘾的知识，但这种普遍的知识并不适用于对具体尼古丁产品的风险感知。很多人对尼古丁产品的风险感知并不基于已有知识，而采用简单的启发式信息加工，比如个体将香烟的相对口味强度和辣度视为相对风险和成瘾性的可靠指标，这表明主观体验对形成风险感知的重要作用。因此，医疗知识究竟在何种条件、何种主题下才能被有效激活而参与风险感知过程，还值得进一步的研究。
+
+另外，患者虽然可以通过自主学习而具备一定的医疗知识基础，但是在实际的医患沟通过程中，不可能期待患者掌握一些过于专业的医疗知识，医生作为专家具有必要的告知义务。比如癌症筛查可以在早期发现可治疗的癌症，但同时也可能导致过度诊断(假阳性)和过度治疗。面对一份癌症筛查结果的时候，患者是否具有相关的知识是对结果产生准确风险感知的关键因素。Wegwarth 和Gigerenzer(2013)的调查研究发现，大多数接受癌症筛查的个体都不了解癌症筛查可能导致的过度诊断和过度治疗，同时还发现这些患者的医生没有告知其相关信息。一方面可能是因为医生没有履行告知义务，另一方面也可能是因为医生对癌症筛查的危害也知之甚少，也就是说医生自身都没有正确地认知风险。针对乳腺 X 光造影筛查和前列腺检测的调查显示，分别只有 $3 3 . 9 \%$ 和 $4 2 . 9 \%$ 医师能够提供正确的过度诊断评估(Wegwarth,Schwartz,Woloshin,Gaissmaier,& Gigerenzer,2012)。所以，患者自主学习基本医疗知识和医疗专业人员准确地告知患者应该了解的医疗知识具有同样的重要性。
+
+# 2.3.2 计算能力
+
+大多数的医疗信息都是以数字的形式来表达。因此，个体的计算能力在风险感知的过程中至关重要。研究发现，理解和使用数字信息的能力有限的个体，对结肠癌筛查教育材料的接受态度不如那些接受过较高数学能力训练的个体(Smith et al.,2015)；对甲状腺结节患者的研究发现，当面对不确定的结果时(甲状腺结节是一种很普遍的疾病，仅有 $5 \sim 1 0 \%$ 的可能为恶性)，计算能力是影响患者理解风险的重要因素，计算能力高的患者不需要提示就能够正确的评估风险(Lauren, Stewart,Michele,David,& Schubart,2018)；针对结肠癌筛查的研究显示，大多数参与者同意在没有任何症状的前提下仍然会接受筛查，但是计算能力较低的参与者更倾向于对医疗信息采取防御性的处理方式，即自己如有规律的排便就不需要筛查，尽管早期结直肠癌往往是无症状的，排便频率与结直肠癌没有关系(Power,Talley,& Ford,2013;Smith et al.,2016)。计算能力在个体对流行病进行风险估计时也发挥重要的作用(Raude et al,2018)，当要求个体对塞卡病毒(Zika)等流行病的相对风险频率进行评估时，高计算能力的个体对风险的评估与客观风险大小更加一致。此外,Cozmuta 等(2018)的研究还发现，高计算能力的个体对不同方式呈现的信息具有较为一致的理解，而低计算能力的个体对信息内容的理解则较多受到信息呈现方式的影响，这也间接说明了计算能力对风险感知的影响。
+
+医疗知识和计算能力可以共同归类为个体的健康素养(health literacy)，即个体进行有效的健康管理所需要的一系列技能，这些技能包括阅读信息、理解信息和选择关键信息的能力;使用有限的信息来完成与健康有关的活动，比如理解食物的标签、测量血糖和坚持服药方案等(包括计算能力)；有效的倾听和表达(Berkman,Sheridan,Donahue,Halpern,& Croty,2011)。由于健康素养是一个涵盖广泛的术语，所以在实证研究中，会以健康素养的某一具体方面作为操作性定义。比如，研究发现对于低健康素养的个体，决策辅助可以使个体对结直肠癌筛查建立更加准确的风险感知，就使用结直肠癌筛查的相关知识作为对健康素养的操作定义(Woudstra etal.,2019)。当然，提升患方群体的医学知识水平、数字计算能力或健康素养都需要漫长的过程，需要全社会共同的长期努力才能取得成效。
+
+# 2.3.3 对疾病的归因
+
+个体对于疾病的归因是指其如何解释疾病发病原因、如何判断一些可能造成某种疾病的危险因素(吕小康，唐磊，姜鹤，汪新建,2019)，归因会影响个体的风险感知。比如研究发现,关于酒精增加癌症的风险信息，美国人较少能够正确地认识酒精和癌症之间的关系(Wiseman&Klein,2019)，进而会对饮酒行为具有较低的风险感知。另外，许多常见疾病，如癌症、糖尿病、心脏病、中风和高血压等，本质上都是多因素的，即它们由遗传、行为和环境因素共同造成的(Collins,Green,Guttmacher,& Guyer,2003)，但患方并不一定具有或认同这种多因素信念(multifactorial beliefs)，而倾向于将病因归结于单一因素(Waters,Muff,&Hamilton,2014)，从而使其对健康风险的认知难与医学专家的观点吻合，进而导致对健康传播者的不信任和对科学结果的怀疑(Levy,Weinstein, Kidney,Scheld,& Guarnaccia,2008)。此外，还有研究发现，支持癌症多因素信念的个体对癌症具有更高的绝对风险感知，同时对可摄入或来自消费品的环境毒素的危害更担忧(Jada,Hamilton,&Waters,2017)。
+
+同时，多因素信念的缺失还会形成医疗责任归属上的差异，即患方更期待医务工作者为自己的疾病承担更多责任，或者是形成对现有医疗水平的过高估计，而降低对自身危险生活方式致病风险的风险感知。例如，最近有国内调查发现，相比患方，医方更多认为患者自身的条件决定了病情的恢复情况、有些疾病在现有条件下无法根治；相反，在“去医院没治好病，主治医生应负主要责任"这一问题上，患方的认同度就要明显超过医方(吕小康，刘颖，汪新建，赵礼,2018)。因此，除了提升患方群体的医疗知识水平或者计算能力外，促使患方对疾病建立更加正确的归因，也是改善其风险感知的重要途径。其中，重要的一点就是应当通过更大范围、更深程度的医学普及教育，使公众更为全面地认识到医学自身的局限，从而形成对医疗技术水平的正确认识和更准确地判定相关的医疗风险。
+
+# 2.3.4 风险敏感性
+
+风险敏感性(risk sensitivity)是个体面对任何风险时所表现出的普遍性差异，即倾向于高估风险或者低估风险(Sjoberg,2000)，它会导致个体的医疗风险感知产生系统性的偏差。例如,个体一般对风险的时间累积性并不敏感，与10 年以上的时间范围相比，更短的时间范围才能导致更准确的风险感知(Waldron,Weijden,Ludt,Gallacher,& Elwyn,2011)。一些年轻人在开始吸烟时，往往忽视了吸烟带来的长期健康风险，这正是风险敏感性过低的表现(Gerking& Khaddaria,2012)。有调查显示，普通个体认为自己得2型糖尿病的可能性相比于其他人来说更小，即存在一种不切实际的乐观(Reyes-Velazquez& Sealey-Potts,2015)；而另一项针对 2型糖尿病患者的调查却显示相反的结果，与实际存在的风险相比，患者严重高估了自己得冠心病和中风的风险(2 型糖尿病的并发症)，即存在一种不切实际的悲观(Asimakopoulou,Skinner, Spimpolo,Marsh,&Fox,2008)。这种矛盾结果可以做如下解释：个体在健康状态时对特定疾病的风险敏感性较低，而在患病后风险敏感性升高。
+
+同时，也可以通过一定的方式在短期内改变风险敏感性。例如，美国公众普遍认为塞卡病毒对于国家层面来说很严重，但不太可能对个人造成影响。研究发现，当使用国家作为身体隐喻的方式时，可以提高个体对自身感染塞卡病毒的风险敏感性(Lu& Schuldt,2018)。还有研究者采用虚拟仿真技术，用数字化信息描述一个虚拟的人物由于多年来经常喝软饮料而变胖的过程。通过这一技术，参与者可形象地看到当前饮食选择对未来健康的负面影响，从而唤起对肥胖风险的本能反应。研究发现，虚拟仿真能够增加参与者对肥胖的感知可能性和易感性，但并未能对其严重性的感知产生影响(Ahn,2018)。这一技术在健康传播和风险沟通中的作用，还值得进一步的开发与利用。
+
+# 3 医疗信息风险感知的加工机制
+
+影响患方对医疗信息的风险感知因素众多，且因素之间存在复杂的交互作用，导致许多研究只能提供有限的因果关系。因此，从一个简单清晰的理论框架出发，就能起到以简驭繁的重要意义。目前为止，还较少出现单独为医疗信息风险感知而量身定制的理论模型，多数研究都是将已有的风险感知理论应用于具体的医疗主题，从而寻求一种情境化的解释与应用。同时，现有的理论模型多基于认知心理学的双加工(dual process)理论。这一理论具有多种表述形式，不同研究者对两种认知加工方式的命名也不统一，但总体上都将个体在认知过程中的思维方式区分为两种，一是快速直观的直觉式思维，二是深思熟虑的分析式思维，并将这种二分法应用于人类推理和决策的不同领域(Barbey& Sloman,2007;Evans,2008; Slovic,Finucane,Peters,Macgregor,&Azar,2002)。研究者将双加工理论的不同形态应用于医疗信息的风险感知领域，以期在外界的医疗信息和个体的风险感知之间建立有效的理论联系，并据此解释大众如何进行医疗风险和健康收益之间的权衡。以下介绍两种主要的理论解释。
+
+# 3.1 经验一分析加工
+
+经验(experiential)—分析(analytic)加工是 Slovic 等人(2005)用于解释风险感知的双加工机制。其中，经验式加工基于直觉，与情感联系紧密，能够快速自动加工且并不容易被意识到；分析式是一种更加审慎的加工方式，运用运算法则和标准的规则(比如概率计算、逻辑分析和风险评估)，需要花费更多时间。在经验式加工中，情感(affect)起着核心作用。个体会有意识或者无意识的对信息下一个"好"或"坏"的定义，进行积极或消极的区分；如果体验到的情感是积极的，个体倾向于感知到低风险和高收益；反之，如果体验到消极情感，则倾向于感知到高风险和低收益(Slovic,Peters,Finucane,& MacGregor,2005; Slovic& Peters,2006)。因此，这种加工又可通常称为情感启发式(affect heuristic)。依据这一理论，情感渗透于风险感知的认知加工过程，使个体在头脑中建立一个风险的优先级，起到重新定向认知资源以解决更加紧急的风险问题的作用(Slovic,Finucane,Peters,&Macgregor,2007)。经验式加工和分析式加工各有其理性成分，经验式可以对危险进行快速的感知，使人类得以在进化的过程中存活下来。同时，当风险发生的结果具有强烈的情感意义时，就像巨额彩票中奖或致命的癌症，风险发生的概率变化往往就会显得无足轻重，从而使个人偏向使用情感启发式加工。
+
+经验一分析加工理论能够较好解释个体对医疗信息的风险感知中普遍存在的各种系统性偏差。比如，内镜检查是有效地帮助患者发现早期病变的医疗技术，在临床应用中具有创伤小、并发症少、恢复快的优势，但是中国大众对这种入侵性的诊疗手段普遍存在消极情感，将检查所要承担的风险感知为较高(忍受身体痛苦和伤害)，同时低估不做检查所承担的风险。这是使得我国内镜检查的开展率与其他国家相比具有极大的差距的原因之一(王洛伟等,2015)。有研究发现，基于叙事的信息呈现方式能够促进参与者对结肠镜检查的积极态度(McGregoretal.,2015)。现实中，当医疗信息以数字化的方式呈现给患方时，后者很难将复杂的统计学意义转化为现实中的应用。但如果通过增加情感信息的呈现，就能激发相应的风险感知。例如，针对皮肤癌、HPV 等主题的实验研究发现，当呈现的信息包含更多情感时，参与者会感知到更高的风险，进而促进更加积极的预防(Dillard&Hisler,2015；Nan,Dahlstrom,Richards,&Rangarajan,2015)。因此，适当地利用情感启发式，可以促进医疗信息的有效传递。
+
+但是，情感启发式虽对风险感知具有关键影响，但其强度却难以建立统一的标准。因此,要建立更具有普遍意义的干预策略，可能还需要通过分析式加工的促进。这方面通常有三种方式。第一，提供患方更多的思考时间。比如在癌症治疗过程中，患者可能会在诊断后立即做出关键决定，而没有意识到推迟决定也是一种选择，因此缺乏仔细思考的机会(Revenson&Pranikoff,2005)。为此，医务人员可以通过提醒的方式，使患者暂缓决策，更多地考虑各种治疗可能。第二，普及医学知识和加强患者教育，从长期着眼提升患者的医学知识和计算能力(Fraenkel et al.,2015; Colomé,Rodriguez-Ferreiro,& Tubau,2018)。第三，降低医疗信息的认知加工负荷。当信息过量或者难以理解时，参与者更倾向于使用简单的启发式策略，尽量减少不必要的术语、推导和计算，以及采用前述的图形化信息呈现等(Peters,Hibbard,Slovic,& Dieckmann, 2007)。
+
+目前关于经验一分析式加工理论的研究更多集中于两种加工机制的不同应用与后果,对两者之间的协同机制及其作用条件探讨相对较少。另外，虽然多数研究认为经验式加工与情感启发式是“同质不同名"的加工机制，也有少部分研究认为这两者也可以再明确细分为两种相对独立的加工机制，即要将"直觉"(经验式)和"情感"(情感式)作为相对独立的作用成分来看待(Ferrer & Klein,2015; Ferrer, Klein, Persoskie,Avishai-Yitshak,& Sheeran, 2016)。因此，这一理论在模型维度上还存在继续探讨的空间。
+
+# 3.2 字面一要义加工
+
+字面一要义加工是模糊痕迹理论(fuzzy-trace theory)提出的双加工机制，这是一种从心理语言学视角探讨个体信息加工过程的理论，是区别于经典双加工理论的新近双加工理论。这一理论认为，个体在一个连续体上对信息进行不同精确程度的多重表征，即从精确详细的字面表征(verbatim representation)到模糊简要的要义表征(gist representation)，前者保留了最精确的信息，如信息的表面形式、准确的数字信息，后者只保留了信息的基本意义及模式;前者精确详细，后者模糊简要。由此，信息加工存在字面加工(verbatim processing)和要义加工(gist processing)两种编码时平行、提取时分开的加工机制，但个体在进行实际的信息加工时往往依照直觉进行要义加工，即存在模糊加工偏向(Reyna& Brainerd,2008;Broniatowski& Reyna,2018；李彬，徐富明，王伟，张慧，罗寒冰,2015)。
+
+模糊痕迹理论对风险感知的贡献主要在于它以要义加工来解释风险感知中存在的个体差异。按这一理论，接触到相同信息的个体会以内部因素和检索到的外部信息为参照，对风险信息进行要义表征，并自动检索与要义表征信息相关的效价，然后依据效价对要义表征进行风险感知(Blalock,DeVelis,Chewning,Sleath,&Reyna,2016)。比如，当个体对化疗形成了“化疗有毒"的表征，就会自动检索相应的效价，进而高估化疗产生的风险，低估化疗产生的收益，从而做出不选择化疗的决策(Reyan,2008)。Reyna(2012)对疫苗的风险感知的研究发现,参与者很容易根据反疫苗的信息提取出"疫苗会产生副作用"甚至"致死"的要义，从而使其不选择接种流感疫苗；但是有关疫苗的官方信息却不容易让参与者提取"疫苗有效"的要义，从而未能促进其接种意愿。
+
+同时，要义表征还可解释为何人们总是过低或过高的估计某种疾病的风险。这是因为他们经常将疾病表征为一种原型，即某种不准确的要义表征，从而导致对疾病的风险认识不足。例如,Reyna 和 Adam(2003)的研究发现，个体低估了性疾病传染的概率而高估了安全套的作用，原因在于他们关于性疾病的原型并没有包括所有的传染疾病，只是使用了最具有代表性和最易获得的原型，虽然实际情况并非如此。因为某些特定的性疾病(如 HPV)还可以通过皮肤传播，但当对参与者提供更好的检索建议时，这种风险感知的偏差就会下降。此外，对类风湿关节炎患者的研究表明，当医生能够准确传达关于要义的医疗信息时，参与者会对药物的副作用产生更准确的风险感知(Blalock et al.,2016;Fraenkel et al.,2015)；在结肠癌筛查(Dillard,Ferrer, Ubel,& Fagerlin,2012； Smith et al.,2015)和传染性疾病(Brust-Renck, Reyna,Wilhelms,& Lazar,2016; Wilhelms,Reyna, Brust-Renck,Weldon,& Corbin,2015)等不同的医疗领域也都得到了同样结果。
+
+这些结果也从侧面说明了医疗信息的表达方式要与大众的阅读理解水平相一致(Bompastore,Cisu,&Holoch,2018)，比如一个直观的绘图可以减少患者对医疗信息的困惑,帮助患者更全面的理解充满不确定性的诊断结果、进而避免错误解读(Talboy& Schneider,2018)。这方面其实已经形成一系列的决策辅助(decision aids)技术(Hoffmann&DelMar,2015),使患方能够更系统地考虑影响治疗结果的因素，其形式包括使用问卷调查、小册子、视频等，以促进患方更准确地预估风险和收益，并减少患者的无助感(Stacey,et.al,2017)。在美国等发达国家，以风险评估问卷形式进行决策辅助已被提议作为临床医生检查表的一种重要方式，以纠正患者对自身健康结果风险的不准确认识(Barber,Davies Khunti,&Gray,2014)。
+
+基于系列实证研究,Reyna (2008)总结了三条促进认知加工、提高风险感知准确性的途径。一是重视信息的呈现方式。比如用条状图去呈现两种治疗方案的相对风险，相比于单独呈现一种治疗方案的风险，能够使参与者更加明确的区分两种治疗方案的风险大小，条状图的呈现促使参与者更容易提取要义。其中最重要的是需要明确呈现给患方的信息的特征水平，使患方从中轻松的提取出准确的要义(Wilhelms,Reyna,Brust-Renck,Weldon,& Corbin,2015)。二是促进有效的信息检索。提供恰当的线索提示能够大大的提升检索的有效性，从而促进对疾病的风险感知(Reyna&Adam,2003)。以传染性疾病为例，可主要从三个方面进行提示:(1)提供风险知识，比如"像疱疹这样的病毒是不可能治愈的，如果你曾患过这种疾病，那么在今后一生中你将会存在把这种病毒传染给其他人的可能”;(2)转变思维方式，比如"即使是低风险，但是一旦得病的话对于你个人来说是却是 $100 \%$ 的高风险";(3)促进个体建立准确的风险效价，比如"更多的性伴侣意味着更高的风险”。要注意的是，检索提示不同于向个体灌输一些名言警句或者教导一些个体原本不相信的价值观念，而是力图去促进有意义的理解。三是促进有效的认知加工，这一点与促进分析式加工相似，强调计算能力对信息加工的影响,认为对基础率忽视等计算能力问题是导致个体不能有效的从信息中提取要义的重要影响因素(Reyna& Brainerd,2008)，因此对患者进行健康教育和健康素养提升仍是不可忽视的基础性工作。
+
+# 3.3小结
+
+总体而言，经验一分析式加工理论和字面一要义加工理论能够在一定程度上整合影响风险感知的众多因素。从信息内容来讲，个体对罕见病和癌症等后果严重的疾病或者能够带来直接风险的医疗信息风险敏感性较高，这些类型的信息会迅速激发个体的情绪感受或使个体快速提取"致命"或“严重"的要义，进而促进经验式加工或要义加工；从信息形式来讲,数字信息需要个体具有一定的医疗知识和计算能力，进而才能通过分析式加工或字面加工进行准确的风险感知。而叙事信息主要是通过经验式加工或要义加工来建立风险感知，因此对个体的医疗知识和计算能力水平要求不高。以图1所示的模型来描述两个理论对风险感知影响因素的整合，值得注意的是，由于影响风险感知的因素众多，此模型图并不完整，只包括前面综述过的影响因素。
+
+影响因素
+
+![](images/15b5c3ddf5a3cea17f4ae5f6ce9a21fa6cd58d4e44981090fda521687f15ffb8.jpg)  
+图1影响因素与加工机制的整合
+
+另外，前面提到过，这两个理论并不是单独为医疗信息风险感知而量身定制的理论模型，所以虽然能够在某种程度上整合大部分的影响因素，但对于一些关键问题仍然缺乏实证证据。比如信息源是医疗信息的重要组成部分，但信息源对个体风险感知的影响，是先于信息内容的先行变量还是和信息内容整合在一起进行信息加工，其中的机制尚不明确；另外，个体对于疾病的归因，是通过经验式或要义加工还是分析式或字面加工来建立风险感知，也缺少相应的实证研究。表面上看，经验式加工和分析式加工分别类似于模糊痕迹理论的字面加工和要义加工，但从其理论基础看，两者并不等同。经验一分析式加工区分两种不同的加工方式，而模糊痕迹理论却认为要义加工和字面加工只是一个连续体的两端。模糊痕迹理论的提出者认为，理解了数字或文字信息的意义，就可以提取准确的要义，而要义则包含情感意义或对信息的情感解释，因此可以替代经验一分析式加工理论(Reyna& Brainerd,2008;Reyna&Casillas,2009)。但也有学者认为，情感在个体的风险感知中承担重要的角色，并且不同的风险信息呈现方式决定了个体从信息中获取的“情感要义"(Zikmund-Fisher,Fagerlin,& Ubel,2010)。因此，在这两个理论兼容性或独立性上，还存在一定的争议。
+
+# 4研究展望
+
+# 4.1加强特殊主题的医疗信息风险感知研究
+
+在心理学领域，风险感知主要源自认知心理学的研究，其根本目的在于提取人类共有的风险认知机制，以期获得更大程度上的理论概括。因此，风险感知理论多强调认知机制的通用性，很多时候会直接冠以“人类认知(human cognition)"的名称，至于这种认知机制是否真的能够通用于不同群体和不同领域，还欠缺全面的、跨领域、跨群体的验证。而医务工作者多就职于具体的、专业化的科室，面对的往往是罹患某种特殊疾病的患者，需要一种高度聚焦、能够快速解决临床问题的风险感知理论模式、测量工具和干预方式，对于理论、工具或方法是否能够通用于其他领域则不必特别关注。这样一来，在使用基于普通人的研究而得出的某些风险感知加工机制时，就需要考虑这种机制能否应用于不同疾病风险下的患者。
+
+为此，在今后研究取向上，应注重医疗信息风险感知的通用研究与特殊主题研究的平衡，尤其要加强针对特定主题的医疗信息风险感知研究，以便为后续干预提供有效的干预路径。实际上，个体对严重程度不同的疾病、或者以预防还是治疗为目的的医疗信息存在风险感知模式的差异。比如，癌症患者或其他重病患者，其医疗决策对其自身健康的影响关系重大;对于日常感冒或者通常所谓的养生或保健行为，其决策的直接后果就不太明显；同时，这些决策与实验室中的各种脱离情境的风险决策任务更具有本质性的不同。此时，基于不同的实证结果归纳出的不同理论，既可能是背后本质性不同的加工机制的概括，也可能混杂着情境、群体、角色不同而出现的交互效应。为此，后续需要开展更加系统、全面的研究设计。比如,可以将疾病按照某一标准进行分类，例如慢性病和急性病、传染病和非传染病等；同时考虑个体在健康状态和患病状态可能具有不同的风险感知模式，以治疗和预防两种目的将参与者进行划分。通过这种更加细化的研究设计，能够更加准确地验证变量之间的相关性和因果性，并甄别不同情境下同一种因素的不同作用，从而在保持理论简洁性的同时，更好地服务于医疗健康领域实际工作的需要。
+
+此外，研究风险感知的重要目的之一是建立有效的风险预防和干预措施，而风险感知强度与预防意识和预防行为之间，也很难说存在简单的线性关系，也很难得到通用性的结论，而需结合具体的疾病和风险敏感人群进行分门别类的应用研究。例如，对阿兹海默综合征的调查研究发现，具有良好的认知和身体功能的参与者对此类疾病的风险感知较低，但是却具有较高的预防倾向(Chung,Mehta, Shumway,Alvidrez& Perez-Stable,2009)。这说明，风险感知和预防意识很可能是两种相互联系、又彼此独立的信念，可能涉及不同的加工机制。所以，从风险感知到预防意识或者预防行为，可能还存在着更加复杂的因素。因此，在开展一系列的干预措施时，不仅要以建立准确的风险感知为目标，还要以提高针对特定医疗健康风险主题的预防意识并促进对应的预防行为为目标，双管齐下，才能取得更有效的干预结果。
+
+# 4.2规范测量工具并细化研究方法
+
+风险本质上的不确定性和领域特殊性，使得对风险的测量和理论建构尤其依赖于规范的测量工具。但是，目前医疗信息风险感知的测量方式多种多样，造成测量结果的信度和效度的不稳定或者研究之间无法比较，从而增加了理论整合的困难。Tilburt 等(2011)对 53 篇癌症的风险感知研究的元分析发现，这些研究对风险感知的测量均采用自我报告的形式，但所用报告的条目数有多有少，且大量的研究只采用一个条目。另外，对风险测量条目的计分方式也并不统一。Aycock,Clark 和 Araya (2019)对 290 篇中风风险感知的元分析发现，中风风险感知的衡量标准并不统一，而是采用二分(是否)、顺序词(没有、低、一般、很高)和 Likert等级量表等多种方式。此外，风险感知包括感知可能性、感知易感性和感知严重性三个维度，但是多数研究往往忽视了对感知易感性的测量(Brewer et al.,2007)。造成这一问题固然是医疗领域的特殊性所造成的直接结果，因为医疗信息的复杂性必然导致测量途径的多样性，但这也从侧面反映出目前的研究标准化和精细化程度还有待提升。因此，今后的研究可以在有限的一致性下建立规范化的测量工具，比如根据相同的研究目的采取统一的测量工具；或者针对不同类型的疾病(慢性病、传染病和癌症等)或者医疗的不同过程(预防、治疗和治疗后)对医疗信息进行分类，然后在各种类别下建立规范化且有特异性的测量工具。这样可以促进相同主题研究之间的整合，进而有利于形成统一的理论基础。
+
+为提高研究的生态效度，还需要补充其他研究方法。近些年来，不少研究开始尝试使用眼动技术实时获得信息加工过程中的行为数据。例如,Bassett-Gunter,Latimer-Cheung,MartinGinis 和 Castelhano(2014)以身体锻炼对疾病的预防作用为背景信息，在参与者阅读信息时采用眼动仪记录眼动指标，结果发现注视时间的延长并不足以激发更深的认知加工；而另一项关于香烟广告引发癌症风险的眼动研究发现,参与者对广告中提醒区域(即强调该产品的尼古丁含量等信息)的注视时间更长，更能做出准确的风险判断(Lochbuehler et al.,2016); Avery和 Park(2018)对 HPV 疫苗主题的实验研究发现，参与者对激发恐惧图片的注视时间更多时,才会导致更高的风险感知和预防倾向。这些研究扩展了以往以自我报告为主的研究范式，今后研究可拓展这方面的具体应用，比如以图片的形式呈现信息并记录参与者的眼动轨迹以探究不同的实验条件下注视策略的差异，以揭示认知机制的实时作用。最后，目前的诸多研究都采用虚拟情境的方式对现实进行模拟，参与者多在假想情境下进行风险感知的判断，这与其在真实情境下的心理与表现会有所差异(Blumenthal-Barby&Krieger,2015)。如何在符合伦理规范的前提下，进行真实情境下的风险感知研究，也还需要心理学研究者联合医务工作者和公共卫生领域工作者进行更有针对性的研究设计。
+
+# 4.3丰富理论视角并提出中国情境下的干预策略
+
+目前，不论是经验一分析加工理论还是模糊痕迹理论，都不是针对中国的医疗风险领域单独提出来的理论模型，而风险研究本身兼具领域特异性(岳灵紫，李纾，梁竹苑,2018)和文化差异性(汪新建，张慧娟，武迪，吕小康,2017)。例如，相比于美国人，中国人对 HPV 病毒有更高的风险感知，但是对于 HPV 疫苗的安全性却持更高的怀疑态度(Liu,Yang,Chu, Sun,& Li,2018)。也就是说，高风险感知此时并未准确预测对应的风险预防措施。这显然与当下中国人对疫苗安全性及整体医药体系的安全性的高敏感性有关，尤其是近些年来类似长春长生这类的疫苗安全事件的暴露，会在短期内极大影响大众对于疫苗安全性的怀疑。如何立足于中国自身的医疗体系，展开系列的理论和实证研究，建立起具有循证依据的预防措施和配套政策，还需要进一步探索跨学科、跨领域的协同合作机制。
+
+此外，当下的风险感知研究，一般以达到准确或一致的感知为最终目的，即期盼个体对相关风险做出逻辑上一致、数字上精确的判断，这也是此类理论范式下，个体对医疗信息进行认知加工的本质目标。但是，个人往往处于复杂的文化价值背景下，有时不同的价值观会扭曲个体的认知，即把认知的目的从逻辑的一致性或数字的精确性而转移到价值观是否吻合的问题，也就是通常所谓的把科学问题转化为社会问题。例如，对美国公众进行生物进化论知识的调查，很容易被认为是对其是否认同创世纪信念(宗教信念)的调查。某些宗教信仰者在认知上就会排斥这一调查，但这并不意味着他们缺少这方面的知识或者推理技能，而是由于调查的提问方式自主激活了其作为特定宗教信徒的身份认同，形成所谓的"认同保护机制"(identity-protective mechanism)，从而有意忽视或否认选择与其价值观不一致的证据。这一认知模式通常被称为文化认知理论，在进化论、气候变暖、转基因、病毒疫苗等主题领域已经得到诸多验证(Kahan,2015,2017; Kahan,Jamieson,Landrum,&Winneg,2017)。在中国的医疗情境下，中医药相关的问题也非常容易产生相应的认同保护机制。例如，对针灸等传统疗法的有效性与安全性的讨论(Zhao et al.,2019)，对中草药的肝毒性的科学研究(Ng et al.,2017;Gao et al.,2019)，在向公众传播或在媒体平台进行探讨时，都有可能被泛化为是对中医药甚至是中华文化的攻击，从而形成“反中医/中国文化"或“挺中医/中国文化"的极化态度。如此一来，在干预措施未能采取之前，单纯的医疗信息传播就有可能造成社会态度的极化。诸如此类的问题涉及的认知机制，可能比单纯的基于风险准确性的认知更为复杂，如何使用已有的认知机制，或者发展新的理论机制加以解释和预测，培育理性平和的科学传播氛围和公共社会心态，从而使狭义上的医疗风险感知的研究和干预成为可能，是非常具有中国特色和实际价值的研究，值得进一步的鼓励和探索。
+
+为此，至少可从以下三方面展开理论与实证研究。第一，系统梳理中国人与西方人在医疗信息风险感知模式上的异同。这仍可从医疗信息来源、医疗信息内容与呈现形式和信息加工主体三个方面归纳其差异。这方面可研究的具体主题有多种。例如，有一些患者存在"医生推荐的药不愿意相信，隔壁老王推荐的偏方却很愿意尝试"的心理，其实质是对陌生人和医生职业信任的欠缺，而采用熟人信任的启发式策略进行风险感知，以人际信任替代了技术性的风险评估，忽视了偏方的有效性和可能的危险性。再有，对于中医药(包括汤剂、中成药、中药注射液、针灸推拿等传统治疗技术)和现代医学疗法之间的有效性与安全性的风险感知差异。有微博中，有一些科普工作者曾抱怨：化学药(即一般中国患者眼中的"西药")的副作用在药品说明中的写法规范明确，中药或中成药的副作用往往写着“不详”，而患者却容易认为"不详"意味着没有，因此中药制剂或中成药更加安全。这既与药品说明书的写法有关，也与中国民众普遍存在的“天然的东西无毒作用"的先入为主的观念有关，而忽视了天然物品的病理毒性。这种观念如何具体影响普通人的用药安全性的感知，如何影响了中国人对传统医学与现代医学的信任，以及如何在此研究基础上，建立审慎的、循证型的求诊思维和行为模式并进行大众健康教育，非常值得探讨。
+
+第二，开展网络健康类谣言或错误信息、虚假信息(misinformation)的传播机制与纠正机制研究。在社交媒体时代，各种虚假的、似是而非的医疗健康信息屡见不鲜，对于受众的风险感知容易造成不良影响。其对中老年人的健康理念与医学求助行为的影响尤其明显，使得人们戏称"中老年人的朋友圈已成为健康和养生谣言的重灾区"(李宁,2018;贾伟民,2017)，这种现象也助长了网络空间中的态度极化。国外研究者越来越关注医疗健康错误信息泛滥对全球健康造成的不利影响，并对医疗健康虚假信息的传播机制和干预手段进行探索，提出了一些解决方案的构想(Armstrong& Naylor,2019; Bode& Vraga,2017; Chou, Oh,& Klein, 2018;Vraga&Bode,2017)。在国内，腾讯公司的“较真平台”，以及各种健康自媒体也不定时发布一些针对医疗健康类不实信息的辟谣工作。不过从目前的实际情况看，其研究功能还较弱，更多体现为机构或者个人自发的健康传播或科普行为，缺少系统性研究力量的整合和凝聚。为此，有必要联合各类科研机构、政府和企业及第三方机构主导的各类大数据实验室，综合医学、心理学、计算机科学、公共管理等专业的科研或实务人员、卫生健康委员会的管理人员、以及医疗保险等相关行业人员,组建跨学科的医疗健康虚拟信息的交叉研究中心或实验室，针对中国人特有的健康谣言的网络空间传播规律进行科学研究，从而探索针对性的干预措施。
+
+第三，以健康中国战略和社会心理服务体系为背景，动员更多的心理学家参与医疗健康的科学传播进程和政策干预实践。目前，关于社会心理服务体系的理论和实践工作已经得到全面开展，但学界和实务界的工作重心仍然体现出明显的"心理健康服务体系"的特色，即其工作重点仍然是个体层面的心理健康，而非组织和社会层面的整体健康，也较少涉及社会心态这种宏观层面的社会心理问题。即使是2018年国家卫健委等10个部门颁布的《全国社会心理服务体系建设试点工作方案》，也是"以‘社会心理服务'之名，却行‘心理健康服务'之实"(池丽萍，辛自强,2019)。这其实与公众、学界和政府对心理学的学科属性认知有关，这种认知可能将心理学的应用主要"锚定"在个体心理健康领域上，而多少忽视了心理学在更广义的健康领域研究。其实，中共中央国务院(2017)公布的"健康中国 2030"规划纲要，已经明确提出要"将健康融入所有政策”，并且已经全面提倡"预防为主”、“健康优先"的理念。而关于医疗信息风险感知，除了心理疾病相关的医疗信息风险感知外，更多是针对各种躯体疾病、以及广义健康相关的信息的风险感知，心理学家完全可以在其中扮演更多更重要的角色。实际上，在针对社会公众的医疗信息风险感知的健康教育层面，心理学家可以与预防医学专家、家庭医生、社区委员会、医务社会工作者一道，发挥心理学工作者擅长的实验设计、行为助推等专长，助力健康中国战略的实施。例如，关于传染病防治素养的提升、关于健康信息素养的提升、关于可能导致各类疾病的错误行为方式纠正、关于养生谣言的辟谣与科普、关于当下国家正在大力推行的减盐、减油、减糖和健康口腔、健康体重、健康骨骼这一“三减三健"全民活动、关于中老年人及大中小学生等特殊人群的多形式健康教育工作，心理学家都可以通过操纵不同的信息呈现方式(如文字、图片、动图、视频)、信息框架(如积极、消极)、社会规范感知等方式，验证不同主题下的最优干预效果，评估不同策略下受从的认知负荷和情感负荷，从而为最终政策的出台提供科学方法和循证依据。总之，只要走出心理健康这一小领域，走入身心健康的“全领域”，心理学界关于风险感知的研究就能找到更广阔的应用空间，并创造出更大的社会价值。
+
+# 参考文献
+
+池丽萍，辛自强,(2019).社会心理服务体系建设的应然与实然：基于全国12 个试点地区的评估．心理科学， 42(4),978-987.   
+贾伟民.(2017).老年人"朋友圈"更容易传播虚假信息．中国报业,(21),52-53.   
+贺国丽，王世阆.(2011).关于“宫颈糜烂”的认识进展．现代妇产科进展,20(5),407-408.   
+侯小妮，孙静.(2015).北京市三甲医院门诊患者互联网健康信息查寻行为研究．图书情报工作,(20),126- 131.   
+李彬，徐富明，王伟，张慧，罗寒冰.(2015).决策的加工过程及个体差异：模糊痕迹理论视角．心理科学进 展,23(2),316-324.   
+李宁.(2018).微信中健康养生类谣言的传播规律和特点—以微信朋友圈为例．青年记者,598(14),11-12.   
+吕小康，刘颖，汪新建，赵礼.(2018).医患观念差异与医患沟通现状调研．中国医院院长,(13),73-75.   
+吕小康，唐磊，姜鹤，汪新建.(2019).常人疾病观及其对医患关系的影响，心理科学进展,27(4),676-688.   
+王洛伟，辛磊，林寒，王伟，钱维，樊静..李兆申.(2015).中国消化内镜技术发展现状．中国消化内镜技术 发展现状,32(8),501-515.   
+汪新建，张慧娟，武迪，吕小康.(2017).文化对个体风险感知的影响：文化认知理论的解释．心理科学进展， 25(8),1251-1260.   
+肖雪，胡承武.(2017).互联网法治建设存在的问题及其对策一以"魏则西"事件为例．法制与社会,(4).55-56.   
+薛凤霞.(2009).“宫颈糜烂”- 一个不恰当的术语．中国妇产科临床杂志,10(2),85-87+97.   
+于贝尔.(2018)，生命的关键决定：从医生做主到患者赋权 (张琼懿 译)，北京：三联书店.   
+谢幸，孔北华，段涛.(编)(2018).妇产科学.北京：人民卫生出版社.   
+岳灵紫，李纾，梁竹苑.(2018)．风险决策中的领域特异性．心理科学进展,26(5),928-938.   
+郑修霞.(主编).(2017).妇产科护理学.北京：人民卫生出版社.   
+中共中央国务院印发《“健康中国 2030"规划纲要》．2019-10-25 取自 htp://www.gov.cn/zhengce/2016- 10/25/content_5124174.htm   
+Ahn,S.J. (2O18).Virtual exemplars inhealth promotion campaigns: Heightening perceived riskand involvement to reduce soft drink consumption in young adults. Journal of Media Psychology, 3o,91-103.   
+Armstrong,P.W.& Naylor, C.D.(2O19). Counteracting health misinformation: Arole for medical journals? JAMA. 321(19),1863-1864.   
+Asimakopoulou, K.G., Skinner,T. C.,Spimpolo,J.,Marsh,S.,&Fox, C. (2008). Unrealistic pessmism about isk of coronary heart disease and stroke in patients with type 2diabetes.Patient Education and Counseling,71(1), 95-101.   
+Avery,E.G.,&Park,S. (2O18).HPVvaccination campaign fear visuals: An eye-racking study exploring effects of visual attention and type on message informative value,recall,and behavioral intentions.Public Relations review. Western Journal of Nursing Research.41(1),134-154.   
+Barber,S.R.,Davies,M.J.,Khunti,K.,& Gray,L.J. (2O14).Risk asessment tools for detecting those with prediabetes: Asystematic review.Diabetes Research and Clinical Practice.lO5(1),1-13.   
+Barbey,A. K.,& Sloman, S.A. (2007). Base-rate respect: From ecological validity to dual processes.Behavioral and Brain Sciences, 30,241-297.   
+Bassett-Gunter,R.L.,Latimer-Cheung,A.E.,Martin Ginis,K.A.,& Castelhano,M. (2014).I spy with my litle eye: Cognitive processng offramed physical activity messages.Journal of Health Communication,19(6), 676- 691.   
+Bekalu,M.A.,Bigman, C.A.,Mccloud,R.F,Lin,L. K.,& Viswanath,K.. (2018).The relative persuasivenessof narrative versus non-narrative health messages in public health emergency communication: Evidence from a field experiment. Preventive Medicine,1l1,284-290.   
+Benin,A.L., Wisler-Scher,D.J., Colson,E., Shapiro,E.D.,& Holmboe,E.S.(2006). Qualitative analysisof mothers'decision-making about vacines for infants: The importance of trust. Pediatrics,l17(5),1532-1541.   
+Berkman,N.D,Sheridan,S.L.,Donahue,K.E.,Halpern,D.J.,&Crotty,K. (2011).Low health literacyand health outcomes: An updated systematic review.Annals of Internal Medicine,155(2),97-107.   
+Betsch,C.,Renkewitz,F.,Betsch,T.,& Corina Ulshofer.(2010).The influence of vaccine-critical websites on perceiving vaccination risks. Journal of Health Psychology,15(3),446-455.   
+Blalock,S.J.,DeVelis,R.F.,Chewning,B.,Seath,B.L.,&Reyna,V.F.(2016). Gist and verbatim communication concerning medication risks/benefits. Patient Education and Counseling, 99(6), 988-994.   
+Blumenthal-Barby,J.S.,& Krieger,H. (2O15).Cognitivebiases and heuristics in medical decision making: Acritical review using a systematic search strategy. Medical Decision Making,35(4),539-557.   
+Bode,L.,& Vraga,E. K. (2017). See something,say something: Correction of global health misinformation on social media. Health Communication, 33(9),1131-1140.   
+Bompastore,N.J., Cisu,T.,&Holoch,P. (2O18).Separating the wheat fromthe chaff: An evaluationofreadability, quality,and accuracy of online health information for treatment of peyronie disease. Urology, l18,59-64.   
+Brewer,N.T., Chapman, G.B.,Gibbons,F.X.,Gerrard,M.,Mccaul,K.D.,& Weinstein,N.D..(2O7).Metaanalysis of the relationship between risk perception and health behavior: The example of vaccination. Health Psychology, 26(2),136-145.   
+Broniatowski,D.A.,&Reyna, V.F. (2018). Aformal model offuzzy-trace theory: Variations on framing effects and the Allais Paradox. Decision, 5(4), 205-252.   
+Brownlie,J.,& Howson,A. (2005)."Leaps of faith"and MMR: An empirical study of trust. Sociology, 39(2),221- 239.   
+Brust-Renck,P. G.,Reyna,V.F., Wilhelms,E. A.,& Lazar, A. N. (2O16). A fuzzy-trace theory of judgment and decision-making in health care: Explanation,prediction,and application. Handbook of Health Decision Science, 71-86.   
+Carey,M.,Herrmann,A.,Hal,A.,Mansfield,E.,Fakes,K.,& Hartshorn,K. (2O18).Exploring health literacyand preferences for risk communication among medical oncology patients. Plos One,13(9),e0203988.   
+Chou,W.Y.S.,Oh, A.,& Klein, W. M.P. (2018). Addressng health-related misinformation on social media.JAMA. 320(23),2417-2418.   
+Chung,S.,Mehta,K., Shumway,M.,Alvidrez,J.,&Perez-Stable,E.J. (2O09).Risk perceptionand preferencefor prevention of alzheimer's disease. Value in Health,12(4),450-458.   
+Collins,F.S.,Green,E.D., Guttmacher,A.E.,&Guyer,M.S.(2O03).Avision for the future of genomics research. Nature, 422(6934),835-847.   
+Colomé,A.,Rodriguez-Fereiro,J.,& Tubau,E. (2O18).Too worried to judge: On the role of perceived severity in medical decision-making. Frontiers in Psychology, 9,1-10.   
+Cozmuta,R.,Wems,E.,Coell,Nolte,Jeya,V.,&Fraenkel,L.(8).Ifuenceofexplanatorg on risk perceptions and treatment preference.Arthritis Care and Research, 70(11),1707-1711.   
+Cutili, C. C.(2o10). Seeking health information: What sources do your patients use?. Orthopaedic Nursing, 29(3), 214-219.   
+de Boer, M.J., Versteegen, G.J.,& van Wijhe, M. (2007). Patients’use of the Internet for pain-related medical information.Patient Education and Counseling,68(1),86-97.   
+Dillard,A.J,Ferer,R.A.,Ubel,P.A.,&Fagerlin,A. (22).Risk perceptionmeasuresassocations withbvior intentions,affect,and cognition following colon cancer screening messages.Health Psychology,31(1),106- 113.   
+Dillard,A.J.,& Hisler,G. (2Ol5).Enhancing the effects of a narrative message through experiential information processing: An experimental study. Psychology and Health,30(7),803-820.   
+Edy,D.M. (1982).Clinical policiesand thequalityofclinical practice.New England JournalofMedicine,307(6), 343-347.   
+Evans, J. St.B.T. (2O08). Dual-rocessng accounts of reasoning, judgment and social cognition.Annual Review of Psychology, 59,255-278.   
+Ferrer,R.A.,& Klein, W. M. (2015). Risk perceptions and health behavior. Current Opinion in Psychology, 5(5), 85-89.   
+Ferrer,R.A., Klein,W.M.,Persoskie,A.,Avishai-Yitshak,A.,& Sheeran,P. (2016).The tripartite model of risk perception (TRIRISK): Distinguishing deliberative,afective,and experiential components of perceived risk. Annals of Behavioral Medicine,50(5),653-663.   
+Fraenkel,L.,atzko,C.K.,Webb,D.E.,Opperman,B.,Charpentier,P.,Peters,E.,..Newman,E.D. (25).Use of decision support for improved knowledge,values clarification,and informed choice in patients with rheumatoid arthritis.Arthritis Care and Research, 67(11),1496-1502.   
+Galesic,M., Garcia-Retamero,R.,& Gigerenzer, G.(2Oo9). Using icon arrays to communicate medical risks: Overcoming low numeracy. Health Psychology, 28(2),210-216.   
+Gao,Q.，Zhu,H.，Dong,L.,，Shi,W., Chen，R.，Song,Z.，.& Liu, Q.(2019).Integrated proteogenomic characterization of HBV-related hepatocellular carcinoma. Cell,179(2),561-577.   
+Gerking, S.,& Khaddaria,R. (2012). Perceptions of health risk and smoking decisions of young people. Health Economics,21(7),865-877.   
+Gigerenzer, G. (2014). Risk Savvy: How to make good decisions. New York: Penguin Group.   
+Gigerenzer,G. (2015b).Simply rational: Decision making in the real world. New York: Oxford University Press.   
+Gigerenzer, G.& Edwards,A.(2003). Simple tools for understanding risks: From innumeracy to insight. BMJ, 327(7417), 741-744.   
+Gu, C.,Chan, C.W.H.,He,G.P., Choi, K. C.,& Yang, S.B. (2013).Chinese women's motivation to receive future screning: The role of social-demographic factors,knowledge and risk perception of cervical cancer. European Journal of Oncology Nursing,17(2),154-161.   
+Hobson-West,P.(2o07).“Trusting blindly canbe the biggest risk of all":Organised resistance to childhood vaccination in the UK. Sociology of Health & Ilness, 29(2),198-215.   
+Hoffmann,T.C,&DelMar,C.(5).Patientsexpectatiosoftheenefitsand harmsof reatmentsrenng and tests: A systematic review. JAMA Intern Med,175(2),274-286.   
+Hoffrage, U., Kraus,S., Martignon,L.,& Gigerenzer, G. (2O15). Natural frequencies improve bayesian reasoning in simple and complex inference tasks.Frontiers in Psychology, 6,1-14.   
+Jada,G.,Hamilton,J. G.,& Waters,E.A. (2017). How are multifactorial beliefs about the role of genetics and behaviorin cancer causation associated with cancer risk cognitions and emotions in the US population? PsychoOncology, 27(2), 640-647.   
+Kahan,D.M. (2015). Climate science communication and the measurement problem. Political Psychology, 36,1- 43.   
+Kahan,D. M. (2017).“Ordinary science intellgence": A science-comprehension measure for study of risk and science communication, with notes on evolution and climate change.Journal of Risk Research, 20(8), 995- 1016.   
+Kahan,D.M., Jamieson, K. H.,Landrum,A.,& Winneg, K. (2O17). Culturally antagonistic memes and the Zika virus:An experimental test.Journal ofRisk Research,2O(1),1-40.   
+Kennedy,A.,Lavail,K.,Nowak,G.Basket,M.,&Landry,S. (2Ol1).Confidence aboutvaccines inthe unitedstates: Understanding parents'perceptions. Health Affairs,30(6),1151-1159.   
+King,B.,Ndoen,E.,& Borland,R.(2018).Smokers'risk perceptionsand misperceptions ofcigarettes,e-cigaretes and nicotine replacement therapies. Drug and Alcohol Review, 37(6),810-817.   
+Klimaszova, Z.,Fazekas,T.,& Kuzelova, M. (2018). Adolescents’ knowledge and perception of medicine risk. Pediatrics International, 60(8),735-742.   
+Kreuter,M. W.,Green,M.C.,Cappell,J.N.,Slater,M.D., Wise,M.E,Storey,D,..Woolley,S.(207).Narrative communication in cancer prevention and control: A framework to guide research and application. Annals of Behavioral Medicine,33(3),221-235.   
+Kumkale, G.T.,& Albarracin,D.(20O4).The sleeper effect in persuasion: A Meta-Analytic Review. Psychological Bulletin,130(1),143-172.   
+Lauren,E. S.,Stewart,R.,Michele, C., David,G.& Schubart,J.R. (2018).Treatment preferences and decision making in patients diagnosed with indeterminate thyroid nodules.Thyroid,27(Supplement 1),A100.   
+Levy,A.G., Weinstein,N.,Kidney,E.,Scheld,S.,& Guarnaccia,P.(Oo).Layand expertinterpretationsofcancer cluster evidence.Risk Analysis, 28(6),1531-1538.   
+Lewandowsky,S.,Ecker,U.K.H.,Seifert,C.M.,Schwar,N.,&Cook,J.(2O1).Misinformation anditscorctin: Continued influenceand successful debiasing.Psychological Science in thePublic Interest,l3(3),106-131.   
+Liana,F.,Benjamin,N.W.,Stake,C.E.,Shilpa,V.,Rachel,E.,George,M.,&Peters,E.(2019).The impactof information presentation format on preference for total knee replacement surgery. Arthritis Care and Research, 71(3), 379-384.   
+Lichtenstein,S.,Slovic,P.,Fischhof,B.,Layman,M.,& Combs,B.(1978). Judged frequencyof lethal events. Journal of Experimental Psychology: Human Learning and Memory, 4(6),551-578.   
+Liu,S.,Yang,J.Z.,Chu,H.,Sun,S,&Li,H. (2O18).Diferent culture ordifferent mind?Perceptionandacceptance of HPV vaccine in China and in the US. Journal of Health Communication, 23(12),1008-1016.   
+Lochbuehler,K.,Tang,K..,Souprountchouk,V.,Campeti,D.,Cappela,J.N.,Kozlowski,L.T.,&Strassr,A.A. (2016)IIcing tracking emheddingrick cr rickheliefc   
+Lu,H.,& Schuldt, J.P. (2O18). Communicating Zika risk: Using metaphor to increase perceived risk susceptibility. Risk Analysis,38(12),2525-2534.   
+Ma, Z.X.,& Nan, X.L.(2018). Positive facts, negative stories: Message framing as a moderator of narrative persuasion in antismoking communication. Health Communication, 34(12),1454-1460.   
+Marteau,T.M., Hollands,G.J.,& Fletcher,P.C.(2O12). Changing human behavior to prevent disease: The importance of targeting automatic processes. Science,337(6101),1492-1495.   
+McGregor,L. M.,von Wagner,C.,Vart, G., Yuen, W.C.,Raine,R., Wardle,J.,& Robb, K.A. (2015).The impact of supplementary narative-based information on colorectal cancer screening beliefs and intention. BMC Cancer, 15(1). 162-170.   
+Nan,X.,Dahlstrom, M.F, Richards,A.,& Rangarajan,S. (2O15). Influence of evidence type and narrative type on HPV risk perception and intention to obtain the HPV vaccine. Health Communication,30(3),301-308.   
+Nikiforov, Y.E.,Sehala,R.R.,Talini, G., Baloch, Z. W.,Basolo,F.,Lester,D.R.,& Ghossein,R.A. (2016). Nomenclature revision for encapsulated follcular variant of papillary thyroid carcinoma.JAMA Oncology. 2, 1023-1029.   
+Ng,A. W.,Poon,S.L.,Huang,M.N.,Lim,J. Q.,Boot,A.,Yu,W.,..Rozen,S. G. (2017). Aristolochic acids and their derivatives are widely implicated in liver cancers in Taiwan and throughout Asia.Science Translational Medicine, 9(412), eaan6446.   
+Nurse,J.R.,Agrafiotis,1., Goldsmith,M.,Creese,S.,&Lamberts,K.(2O14).Two sides ofthecoin: Measuringand communicating the trustworthiness of online information. Journal of Trust Management, I(1),5-25.   
+Peikari,H. Ramayah,T.,R., Shah, M. H.,& Lo,M. C. (2018). Patients’ perception of the information security management in health centers: The role of organizational and human factors. BMC Medical Informatics and Decision Making,18(1),102-115.   
+Peters,E., Hbbard,J.,Slovic,P.,& Dieckmann,N. (2oo). Numeracy skilland the communication,comprehension, and use of risk-benefit information. Health Affairs, 26(3),741-748.   
+Poltorak,M.,Leach,M.,Fairhead,J.,& Cassel,J. (20o5).‘MMR talk'and vaccinationchoices: An ethnographic study in brighton. Social Science and Medicine,61(3),709-719.   
+Power，A. M.，Talley,N. J.，& Ford,A.C. (2013).Association between constipation and colorectal cancer: Systematic review and meta-analysis of observational studies. The American Journal of Gastroenterology, 108(6),894-903.   
+Raude,J.,Preti-Watel,P., Ward,J.,Flamand,C.,& Verger,P.,(O18).Are pereived prevalences of infectionalso biased and how? Lessons from large epidemics of mosquito-borne diseases in tropical regions. Medical Decision Making,1-13.   
+Revenson,T.A.,& Pranikoff,J.R.(2Oo5).Acontextual approach to treatment decision making among breast cancer survivors. Health Psychology, 24(4, Suppl), S93-S98.   
+Reyes-Velazquez, W.,& Sealey-Potts, C.(2O15). Unrealistic optimism,sex,and risk perception of type 2 diabetes onset: Implications for education programs. Diabetes Spectrum,28(1),5-9.   
+Reyna,V.F. (2O12). Risk perception and communication in vaccination decisions: A fuzzy-trace theory approach. Vaccine,30(25),3790-3797.   
+Reyna, V.F. (2oo8). Atheory of medical decision making and health: Fuzzy trace theory. Medical Decision Making, 28(6),850-865.   
+Reyna,V.F.,& Adam,M.B.(2Oo3).Fuzzy-trace theory,risk communication,and product labeling in sexually transmitted diseases. Risk Analysis, 23(2),325-342.   
+Reyna,V.F.,& Brainerd, C.J. (Oo8).Numeracy,ratio bias,and denominator neglect in judgments of risk and probability.Learning and Individual Differences,18(1),89-107.   
+Reyna,V.F.,& Casillas, W..(2Oo9). Development and dual processes in moral reasoning: A fuzzy-trace theory approach.Psychology ofLearning & Motivation,50,207-236.   
+Reyna,V.F.,Nelson, W.L.,Han,P.K.,& Dieckmann,N.F. (2o09). How numeracy influences risk comprehension and medical decision making.Psychological Bulletin,135(6),943-973.   
+Schwartz, K.L.,Roe,T.,Northrup,J.,Meza,J.,Seifeldin,R.,& Neale,A. V. (2006).Family medicinepatients’use of the internet for health information: A metronet study. Journal of the American Board of Family Medicine, 19(1),39-45.   
+Sjoberg,L.(20oo). Factors in risk perception. Risk Analysis,20(1),1-12.   
+Slovic, P. (1987).Perception of risk. Science,236(4799),280-285.   
+Slovic,P.,Finucane, M.L., Peters,E.,& Macgregor, D.G. (2007). The affct heuristic. European Journalof Operational Research,177(3),1333-1352.   
+Slovic,P.，Finucane,M.，Peters,E.，Macgregor, D.G.，& Azar,O.(2002).Rational actors or rational fools: Implications of the affect heuristic for behavioral economics. Journal of Socio-Economics,31(4),329-342.   
+Slovic,P.,&Peters,E. (2006).Risk perception and affect. Current Directions inPsychological Science,15(6),32 325.   
+Slovic,P.,Peters,E.,Finucane,M.L.,& MacGregor,D.G. (2005).Affect,risk,and decision making. Health Psychology, 24(4S), S35-S40.   
+Smith,S.G.,Kobayashi,L., Wolf,M.,Raine,R., Wardle,J.,&von Wagner, C.(2O16).The associations between objective numeracy and colorectal cancer screening knowledge,atitudes and defensive processing in a deprived community sample. Journal of Health Psychology, 21(8),1665-1675.   
+Smith,S.G.，Raine,R., Obichere,A.，Wolf,M. S.,Wardle,J.,& von Wagner, C. (2015). The effect of a supplementary("gist-based"） information leaflet on colorectal cancer knowledge and screning intention: A randomized controlled trial. Journal of Behavioral Medicine,38(2),261-272.   
+Stacey,D.,Legaré,F.,Lewis,K.,Bary,.G.,ennett,C.L.,Eden,K.B..Trevena,L.(7).Decisioasfor people facing health treatment or screening decisions. Cochrane Database Systematic Reviews,4,CD001431.   
+Swoboda,C.M.,van Hulle,J.M.,McAlearney,A.S.,& Huerta,TR. (2018).Odds of talking tohealthcare providers as the initial source of healthcare information: updated cross-sectional results from the health information national trends survey (HINTS). BMC Family Practice,19(1),146-155.   
+Tafazoli,M.,&Larki,M.(2O16).AIDS risk perception and its related factors in women with high-risk behaviors in Iran. Journal of Midwifery and Reproductive Health,4(2),582-591.   
+Talboy,A. N.,& Schneider,S.L. (2018). Improving understanding of diagnostic test outcomes.Medical Decision Making,38(5),573-583.   
+Tangherlini,T.R.,Roychowdhury,V.,Glenn,B.，Crespi, C.M., Bandari,R., Wadia,A...Bastani,R.(2016). “Mommy blogs”and the vaccination exemption narrative: Results from a machine-learning approach for story aggregation on parenting social media sites. JMIR Public Health and Surveillance, 2(2), e166.   
+Teresa,G.,Michela,S.,Francesca,G.,Rino,R.,Francesca,P.,Franca,D.L.,& Lorella,L.(2018).Assessing emotions conveyed and elicited by patient naratives and their impact on intention to participate in colorectal cancer screening: A psychophysiological investigation. Plos One,13(6), e0199882.   
+Tilburt,J.C.James,K..,Sinicrope,PS.,Eton,D.T.,CosteloB.A.,Carey,G...Murad,.H.,(2).Factor influencing cancer risk perception in high risk populations: A systematic review. Hereditary Cancer in Clinical Practice, 9(1), 2-17.   
+Tversky,A.,& Kahneman,D.(1974). Judgmentunder uncertainty: Heuristics andbiases.Science,185(4157),1124 1131.   
+Ubel,P. (2012). Critical decisions: How you and your doctor can make the right medical choices together. New York: Harper.   
+Volkman,J.E.,Luger,T.M.,Harvey,K.L.,Hogan,T.P.,Shimada,S.L,Amante,D.,..Houston,T.K.(2014).The National Cancer Institute's health information national trends survey (HINTS):A national cros-sectional analysis of talking to your doctor and other healthcare providers for health information. BMC Family Practice, 15,111-119.   
+Vosoughi,S.,Roy,D.,& Aral,S.(2018).The spread oftrue andfalse news online.Science,359(6380),1146-1151.   
+Vraga,E. K.,& Bode,L. (2O17). Using expert sources to correct health misinformation in social media. Science Communication, 39(5),621-645.   
+Waldron, C.A., Weijden,T. V.D.,Ludt,S., Gallacher,J.,& Elwyn, G. (2O11). What are effective strategies to communicate cardiovascular risk information to patients? A systematic review.Patient Education and Counseling,82(2),169-181.   
+Wang,G.,Gao,X.,&Lo,E.C.M. (2015).Public perceptions of dental implants: A qualitative study. Journal of Dentistry, 43(7),798-805.   
+Waters,E.A.,Muf,J.,& Hamilton,J.G.(2O14).Multifactorial beliefs about the roleof genetics and behaviorin common health conditions:Prevalence and associations with participant characteristics and engagement in health behaviors. Genetics in Medicine,16(12),913-921.   
+Wegwarth,O.,& Gigerenzer, G.(2013). Less is more: Overdiagnosis and overtreatment: Evaluation of what physicians telltheir patients about screening harms. JAMA Internal Medicine,173(22),2086-2087.   
+Wegwarth,O.,Schwartz,L.M., Woloshin,S., Gaissmaier, W.,& Gigerenzer, G. (2012). Do physicians understand cancer screening statistics? A national survey of primary care physicians in the United States. Annals of International Medicine.,156(5), 340-349.   
+Wilhelms,E.,Reyna,V.,Brust-Renck,P.,Weldon,R.,& Corbin,J.(2O15).Gist representations and communication of risks about HIV-AIDS: A fuzzy-trace theory approach. Current HIV Research,13(5),399-407.   
+Winter, J.,& Wuppermann,A.(2014).Do they know whatis atrisk?Health risk perceptionamong theobese.Health Economics,23(5), 564-585.   
+Wiseman, K. P.,& Klein, W. M. P. (2O19). Evaluating correlates of awareness of the association between drinking too much alcohol and cancer risk in the US. Biomarkers and Prevention, in press.   
+Woudstra,A.J.,Smets,E. M.A.,Deker,E.,Broens,T. H.F.,Penning, G.,Smith,S.,..Fransen,M.P.(2019). Development and pilot-testing of a colorectal cancer screening decision aid for individuals with varying health literacy levels.Patient Education and Counseling,102(10),1847-1858.   
+Zhao,L.,Li,D.,Zheng,H.,Chang,X.,Cui,J., Wang,R,..Zhang,F. (2019). Acupuncture as adjunctive herapy for chronic stable angina: Arandomized clinical trial. JAMA Internal Medicine,179(1O),1388-1397.   
+Zhou,M. G.,Wang,H.D.,Zeng,X.Y., Yin,P.,Chem, W. Q.,..Liang,X.F.(2019). Mortality, morbidity,and risk factors in China and its provinces,1990-20l7: A systematic analysis for the Global Burden of Disease Study 2017,The Lancet,1-24.   
+Zikmund-Fisher,B.J.,Fagerlin,A.,& Ubel,P.A. (2010).Risky feelings: Why a $6 \%$ risk of cancer does not always
+
+feel like $6 \%$ .Patient Education and Counseling,81(supp-S1),S87-S93.
+
+# Factors and mechanisms of risk perception of medical information
+
+LYU Xiaokang 1, ²; LIU Hongzhi 1,²; FU Chunye
+
+(Zhou Enlai School ofGovernment,Nankai University,Tianjin 3oo35O,China) (Computational Social ScienceLaboratory,Nankai University,Tianjin 3Oo35o,China) (Academy ofPsychologyandBehavior,TianjinNormal University,Tianjin3ooO74,China)
+
+Abstract:Exploring the processof individual risk perception on medical information from the perspective of information processng.The influencing factors of risk perception on medical information arecategorized into three aspects,namely,the source of medical information,the content and form of medical information,and the subjectof information processing.The cognitive mechanism of individual risk perception on medical information was discussed based on experience-analysis processing theory and verbatim-gist processing theory. This study recommends increased atention to balancing the general and specific studies of risk perception on medical information.Moreover,the standard and specific measurements should be combined,and research in the contextof China's medical system should be expanded. Furthermore,a series of theoretical and empirical research should be developed, and preventive measures and evidence-based supporting policies must be established.
+
+Keywords: medical information; risk perception; experience-analysis processing; verbatim-gist processing

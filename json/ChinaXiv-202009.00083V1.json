@@ -1,0 +1,555 @@
+[
+    {
+        "type": "text",
+        "text": "基于程序频谱的两阶段缺陷定位方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "伍佳，洪玫，万莹，邓惠心，潘春霞(四川大学 计算机学院，成都 610065)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：缺陷定位是软件质量保证中关键且困难的一项工作。随着软件规模增大，人工进行缺陷定位的成本越来越高，自动化的缺陷定位技术成为研究热点。现有的基于程序频谱的缺陷定位技术可以将缺陷定位到程序语句，但对于大型复杂的软件系统，这种定位方法将带来较大的时间花销。针对此问题，提出一种基于程序频谱的两阶段缺陷定位方法，第一阶段为粗粒度定位，将缺陷定位到程序模块；第二阶段为细粒度定位，在定位的程序模块中，再将缺陷定位到语句；最后输出可疑语句推荐列表，辅助开发人员的调试工作。实验结果表明，相比于传统的方法，该方案在保证定位效果的前提下，平均减少了 $10 . 2 4 \\%$ 的定位时间。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：缺陷自动定位；程序频谱；测试用例；软件调试 中图分类号：TP311 doi: 10.19734/j.issn.1001-3695.2020.03.0065 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Two-phase fault localization method based on program spectrum ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wu Jia, Hong Mei†,Wan Ying,Deng Huixin, Pan Chunxia (SchoolofComputer Science,Sichuan University,Chengdu Sichuan 61oo65,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Faultlocalization isacriticalanddificult taskforsoftwarequalityassurance.Withtheincreasingofsoftwarescale, the cost of manual fault localization becomes higher and higher,so that many research tasks focus on automatic fault localization.Existing methods of program spectrumbased fault localizationlocate fault to program statements,theycan be time consuming in large and complex software.To solve this problem,this paper proposed a two-phase fault localization method based on program spectrum.The first phase was coarse grained localization,located fault to program modules.The second phasewas fine grained localization,located fault to program statements in thesuspicious modules.Finally,the recommendation listof suspicious statements was obtained to asist the developer in debugging.Experimentalresults show that comparing with traditional methods,this method can guaranteethe effectof localizationand reduce localization cost by $10 . 2 4 \\%$ on average. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: automatic fault localization; program spectrum; test case; software debugging ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在软件质量保证中，传统的缺陷定位要求开发人员多次设置程序断点，执行失败的测试用例，观察程序变量取值，直至找到缺陷根原因。自动化缺陷定位方法依据缺陷程序相关的数据，比如源代码、测试套件、测试记录、缺陷报告等，采用数据分析技术，发现可疑的缺陷位置，辅助开发人员找到缺陷根原因。相比于传统方法，现代技术借助于计算机的处理能力，进行缺陷数据分析，实现了缺陷定位的自动化，减少了定位成本，提高了定位效率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在自动化缺陷定位方法中，根据是否需要执行测试用例，可分为静态缺陷定位[1\\~4]、动态缺陷定位[5\\~l6]以及多种方法相结合的缺陷定位[17,18]。静态缺陷定位常使用信息检索[1,2]、机器学习[3.4]等技术分析日志、缺陷报告等信息进行定位。动态缺陷定位通过执行测试用例获取相关信息，使用程序切片[5.6]或程序频谱[7\\~16]等技术来确定可能含有缺陷的程序片段。多种方法相结合的缺陷定位通常组合以上多种定位技术来提高缺陷定位的准确性。在动态缺陷定位中，基于程序频谱的缺陷定位(spectrum-basedfaultlocalization,SFL)方法因其具有较好定位效果而被广泛关注。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Reps等人[19]首次提出程序频谱的概念，后来的研究者将其用于程序分析。程序频谱是结合测试用例对被测程序的覆盖情况和测试执行结果构成的一张二维表，通过对程序频谱的计算，可以获得缺陷的可疑位置。Jones 等人[78]首先提出Tarantula计算公式，根据程序频谱计算程序组件含有缺陷的可能性。Abreu 等人[9,10]之后提出Jaccard计算公式和Ochiai计算公式来计算程序组件的可疑分数。文献[14]提出PRFL技术，使用PageRank算法区分不同测试的贡献程度，从而增强传统SFL算法的定位效果。文献[16]针对测试套件中成功用例占比较大问题，提出EP\\*方法来调整成功用例数的影响，从而提高缺陷定位精度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "动态缺陷定位方法是以测试用例运行成本为代价的，现有的SFL方法直接将缺陷定位至语句，一方面定位时间开销较大，需要收集、分析每个测试用例对每条语句的覆盖情况；另一方面可行性有限，面向对象单元测试常采用的随机测试，很难保证语句的覆盖率，语句的频谱计算有限。本文提出一种基于程序频谱的两阶段缺陷定位方法，基本思路为：第一阶段进行粗粒度定位，选择最流行且具有较高准确率的Tarantula算法计算每个程序模块的可疑分数，将缺陷定位到可能的程序模块；第二阶段对于可疑程序模块进行语句细粒度的定位，选择交叉表算法，考虑语句覆盖情况与测试用例执行结果之间的相关关系，计算语句的可疑分数，将缺陷定位到可能的语句，最终生成可疑语句推荐列表，辅助开发人员定位缺陷。实验证明，相比于直接定位至语句的方法，本",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文方法的定位成本更低。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1第一阶段 可疑程序模块定位",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在面向对象程序中，基本程序模块定义为类的方法。在这一阶段，依据被定位缺陷项目的源代码、测试记录(包括测试覆盖信息及测试用例执行结果)，计算程序模块被测试用例覆盖的频谱，确定可疑的程序模块列表，并按照可疑程度排序。主要包括以下步骤：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）基于测试记录，构建程序频谱。  \nb）使用Tarantula算法计算程序模块的可疑分数。  \nc）生成可疑程序模块推荐列表。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1构建程序频谱",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[20]将程序频谱的构建方式分为：轻量级构建、重量级构建及其他方式三种。本文采用轻量级程序频谱构建方式，即通过简单统计测试用例对软件项目的覆盖信息和执行结果构建程序频谱。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在执行测试用例时，获取测试覆盖信息和执行结果的方法很多，比如可以使用测试覆盖率工具(EclEmma、Cobertura、Jacoco等)收集并保存为文件形式。解析覆盖率文件并存储每个测试用例对程序模块、语句的覆盖情况，统计每个测试用例对源代码中每个程序模块的覆盖情况，得到程序模块的覆盖矩阵 $T _ {  { \\boldsymbol { m } } \\times  { \\boldsymbol { n } } }$ ，结合测试用例集的执行结果向量R，生成程序模块粒度的程序频谱S。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS = { \\left[ \\begin{array} { l } { T _ { m \\times n } } \\\\ { R } \\end{array} \\right] } = { \\left[ \\begin{array} { l l l l } { t _ { 1 1 } } & { t _ { 1 2 } } & { \\dots } & { t _ { 1 n } } \\\\ { t _ { 2 1 } } & { t _ { 2 2 } } & { \\dots } & { t _ { 2 n } } \\\\ { \\dots } & { \\dots } & { \\dots } & { \\dots } \\\\ { t _ { m 1 } } & { t _ { m 2 } } & { \\dots } & { t _ { m n } } \\\\ { r _ { 1 } } & { r _ { 2 } } & { \\dots } & { r _ { n } } \\end{array} \\right] }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a) $\\mathbf { m }$ 代表源代码中程序模块个数， $\\mathfrak { n }$ 代表测试用例集中测试用例个数。b) $t _ { i j } = 1$ 代表程序模块i被测试用例j覆盖， $t _ { i j } = 0$ 代表程序模块i未被测试用例j覆盖。c） $r _ { j } = 1$ 代表测试用例j执行失败， $r _ { j } = 0$ 代表测试用例j执行成功。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 第二阶段 -可疑语句定位",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2生成可疑程序模块推荐列表",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，大部分SFL研究在设置可疑分数计算公式时都以程序频谱作为基础，并考虑Wong等人[12]总结的以下假设：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "第一阶段输出可疑程序模块推荐列表M，若以此作为缺陷定位参考，开发人员仍会有较大的代码阅读量。因此，需要进一步分析模块中哪些语句可能含有缺陷。可疑语句定位阶段以前一阶段保存的语句覆盖情况、执行结果和可疑程序模块推荐列表M作为输入，输出可疑语句推荐列表T。包括以下步骤：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)程序组件的怀疑率与该程序实体被成功测试用例覆盖的次数成反比。b)程序组件的怀疑率与该程序实体被失败测试用例覆盖的次数成正比。c）程序组件的怀疑率与该程序实体未被失败测试用例覆盖的次数成反比。d)在设定怀疑率公式时，应该为假设b)设置更高的权重。Jones等人[7,8]提出Tarantula公式计算程序组件中含有缺陷的可能性，计算结果作为该程序组件的可疑分数。他们认为：由大量失败测试用例覆盖的程序组件极有可能含有缺陷，由大量成功测试用例覆盖的程序组件不太可能含有缺陷。给定程序组件 $\\mathrm { ~ m ~ }$ ，计算其可疑分数的公式为",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)计算可疑分数阈值。  \nb)基于语句覆盖情况和执行结果，构建交叉表。  \nc）使用交叉表算法计算语句的可疑分数。  \nd)生成可疑语句推荐列表。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "件含有缺陷的可能性越大。本文以1.1节构建的程序频谱 S作为Tarantula算法的输入，计算源代码中每个程序模块的可疑分数，按照分数由高到低排列，生成可疑程序模块推荐列表M，包含排名、程序模块名（“类名 $_ { - > }$ 方法名 $_ - >$ 参数名”）以及可疑分数，图1为列表M实例。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { T a r a n t u l a } ( m ) = \\frac { n _ { c f } \\left( m \\right) / n _ { f } } { n _ { c f } \\left( m \\right) / n _ { f } + n _ { c s } \\left( m \\right) / n _ { s } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1org.jfree.chart.plot.CategoryPlot->setRenderer->(Lorgjfree/chart/renderer/category/CategoryltemRenderer;)V 0.990888383   \n2org.jfree.chartplot.CategoryPlot->setRenderer->(ILorg/jfree/chart/renderer/category/CategoryltemRenderer;Z)V 0.984162896   \n3_org.jfree.chart.plot.CategoryPlot-><init>->()V 0.970982143   \n4org.jfree.chart.plot.CategoryPlot->setDataset->(Lorg/jfree/data/category/CategoryDataset;)V 0.968819599   \n5org.jfroo.chart.plot.CategoryPlot->setDataset->(ILorg/jfree/data/category/CategoryDataset;)V 0.951859956   \n6org.jfree.chart.renderer.category.LineAndShapeRenderer-><init>->()V 0.941558442   \n7org.jfree.chart.plot.CategoryPlot->getindexOf->(Lorg/jfree/chart/renderer/category/CategoryltemRenderer,) 0.92161017   \n8org.fre.chartenderercategryAbstractCategorylmRenderer->getLegendltems->()LogjfreechartLegendemColection; 0.92161017   \n9org.jfree.data.category.DefaulCategoryDataset->addValue->(DLjava/lang/Comparable;Ljava/lang/Comparable;)V 0.910041841   \n10 org.jfree.chart.renderer.category.LineAndShapeRenderer-><init>->(ZZ)V 0.896907217   \n11org.jfreo.chartLegendtmCollection->getltomCount->()l 0.878787879   \n12org.jfroo.chart.LegendltemCollection-><init>->()V 0.871743487   \n13orgjfreaaategryDeCaegrDaase>dVau>(Ljalangmbjang/ompaablejangCopaablV 0.846303502   \n14org.jfreedata.ategoryAbstractCategoryDataset-><init>>()V 0.820754717   \n15orgjfreedataategryAbsactCategoDataset->setSelectionState>(LofreatacategryCategoryDatasetSelectioStateV 0.820754717 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a) $n _ { e f } \\left( m \\right)$ 和 $n _ { c s } \\left( m \\right)$ 表示覆盖程序组件 $\\mathrm { ~ m ~ }$ 的失败测试用例数量和成功测试用例数量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b） $n _ { f }$ 和 $n _ { s }$ 表示测试用例集中失败测试用例数量和成功测试用例数量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Tarantula(m)的取值范围为[0,1]，分数越高代表该程序组",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Example of suspicious program module recommendation list M ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1计算可疑分数阈值",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当程序模块数量较多时，若要分析每个模块中的每条语句将会带来巨大的计算开销。因此，需要舍弃不太可能含有缺陷的模块，本文利用可疑分数阈值过滤掉那些不太可能含有缺陷的程序模块，对剩余模块再进行语句粒度的定位分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[21]中将可疑分数阈值定为 $\\sigma { = } 0 . 7$ ,即对于任何软件项目，可疑分数大于等于0.7的程序模块才进一步分析。本文使用 $\\sigma { = } 0 . 7$ 在Defects4j[22]中的355个真实缺陷上进行实验，统计结果显示有 $2 2 . 5 4 \\%$ 的真实缺陷所在程序模块的可疑分数小于0.7。因此，阈值选择不当，会影响对部分缺陷的定位。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了更有效确定阈值，本文提出一种自动计算可疑分数阈值的方法。在第一阶段输出的列表M中，丢弃可疑分数为0的模块，保留可疑分数为1的模块。对于其他模块，本文认为只有可疑分数大于等于平均值的才值得进一步分析。因此，本文使用以下公式计算可疑分数阈值：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma = \\frac { 1 } { k } { \\times } { \\sum _ { i = 1 } ^ { k } } \\mathrm { T a r a n t u l a } ( m _ { i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：k为列表M中，可疑分数不为0和1的程序模块个数。经实验验证，使用平均值作为阈值时，只有 $1 . 9 7 \\%$ 的缺陷因阈值过大导致定位失败，相比文献[21]中使用的 $\\sigma { = } 0 . 7$ 降低了$20 . 5 7 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文使用式(3)计算每个缺陷项目的可疑分数阈值，根据计算结果对第一阶段产生的可疑模块推荐列表M进行筛选，保留可疑分数大于等于阈值的程序模块，得到程序模块集M1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2构建交叉表",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "交叉表是统计学中常用的一种分类汇总表，交叉表分析通常用于研究两个或多个分类变量之间的关系。Wong等人[1]将交叉表分析应用到缺陷定位研究中，为每条语句构建交叉表，计算语句含有缺陷的可能性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "统计每个测试用例对M1中每条语句的覆盖情况及执行结果，形成语句粒度的覆盖矩阵 $C _ { s \\times n }$ 。结合执行结果向量R，构建语句粒度的程序频谱，为每条语句生成交叉表Q，含有列分类变量“测试用例覆盖语句情况”和行分类变量“测试",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "用例运行结果”。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如表1所示，其中 $N _ { C S ( s _ { i } ) }$ 代表覆盖语句 $s _ { i }$ 并运行成功的测试用例个数。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/9f2e248e7a8339492f1586a622005b9f2c17ce289521089c04f8219c7272dcb1.jpg",
+        "table_caption": [
+            "Tab.1 Crosstab Qof program statement $s _ { i }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">运行结果</td><td colspan=\"3\">语句覆盖情况</td></tr><tr><td>覆盖语句si</td><td>未覆盖语句si</td><td>合计</td></tr><tr><td>运行成功</td><td>Ncs(s)</td><td>Nus(s)</td><td>Ns</td></tr><tr><td>运行失败</td><td>NcF(si)</td><td>NUF(s)</td><td>NF</td></tr><tr><td>合计</td><td>Nc(s)</td><td>Nu(si)</td><td>N</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3生成可疑语句推荐列表",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在交叉表算法[中，输入每条语句的交叉表，通过以下步骤计算每条语句含有缺陷的可能性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a）通过假设检验考察分类变量之间的相关情况，使用以下公式计算卡方值 $\\chi ^ { 2 }$ ， $\\chi ^ { 2 }$ 越大代表分类变量越相关。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\chi ^ { 2 } ( s _ { i } ) = \\frac { ( N _ { C F ( s _ { i } ) } - E _ { C F ( s _ { i } ) } ) ^ { 2 } } { E _ { C F ( s _ { i } ) } } + \\frac { ( N _ { C S ( s _ { i } ) } - E _ { C S ( s _ { i } ) } ) ^ { 2 } } { E _ { C S ( s _ { i } ) } } +\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { ( N _ { U F ( s _ { i } ) } - E _ { U F ( s _ { i } ) } ) ^ { 2 } } { E _ { U F ( s _ { i } ) } } + \\frac { ( N _ { U S ( s _ { i } ) } - E _ { U S ( s _ { i } ) } ) ^ { 2 } } { E _ { U S ( s _ { i } ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left\\{ \\begin{array} { c } { E _ { C F ( s _ { i } ) } = \\displaystyle \\frac { N _ { C ( s _ { i } ) } / N _ { F } } { N } } \\\\ { E _ { C S ( s _ { i } ) } = \\displaystyle \\frac { N _ { C ( s _ { i } ) } / N _ { S } } { N } } \\\\ { E _ { U F ( s _ { i } ) } = \\displaystyle \\frac { N _ { U ( s _ { i } ) } / N _ { F } } { N } } \\\\ { E _ { U S ( s _ { i } ) } = \\displaystyle \\frac { N _ { U ( s _ { i } ) } / N _ { S } } { N } } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b）使用式(6计算分类变量之间的相关关系。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi ( s _ { i } ) = \\frac { N _ { C F ( s _ { i } ) } / N _ { F } } { N _ { C S ( s _ { i } ) } / N _ { s } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如果 $\\phi ( s _ { i } ) = 1$ ，代表语句 $s _ { i }$ 的覆盖与执行结果之间完全独 立，可以认为语句 $s _ { i }$ 的覆盖对成功执行和失败执行有着相同 的贡献值；如果 $\\phi ( s _ { i } ) > 1$ ，代表语句 $s _ { i }$ 的覆盖与失败执行更相 关；反之代表代表语句 $s _ { i }$ 的覆盖与成功执行更相关。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c）结合式(4)和(6)的计算结果，计算每条语句的可疑分数。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { c r o s s t a b } ( s _ { 1 } ) = \\left\\{ \\begin{array} { l l } { \\chi ^ { 2 } ( s _ { i } ) } & { \\phi ( s _ { i } ) > 1 } \\\\ { 0 } & { \\phi ( s _ { i } ) = 1 } \\\\ { - \\chi ^ { 2 } ( s _ { i } ) } & { \\phi ( s _ { i } ) < 1 } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据2.2节构建的语句交叉表，计算每条语句的crosstab(s)值作为可疑分数，分数越高的语句越有可能为真实缺陷语句。并从高到低排序，生成可疑语句推荐列表T(排名、程序模块名、语句行号以及可疑分数)，用于辅助开发人员进行缺陷定位。图2为可疑语句推荐列表T实例。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "orgjfreechardeeaegoryAactCtegoedeer>eegedms>oea/egendoctio 1793 436   \n2org.jfree.chartplot.CategoryPlot->setRenderer->(Lorgjfree/chart/renderericategoryCategoryemRenderer)V 1613 86.39816092   \n3orgjfree.chartplotCategoryPot->setRenderer->(Lorgfee/chartrenderercaegoryCategorylemRenderer)V 1614 86.39816092   \n4org,jfree.chartplot.CategoryPlot->setRenderer>(ILorgjfree/chartirenderer/caegoryCategoryemRenderer,Z)V 1665 53.62298851   \n5orgjfree.chartplotCategoryPlot->setRenderer->(ILorgjfree/chartrenderer/categoryCategoryltemRenderer,Z)V 1667 53.62298851   \n6orgfree.chartptCategoryPit>setRenderer->(Lrgfree/chartrenderer/caegaryCategorymRendeerZ)V 1672 53.62298851   \n7orgjfree.chartplotCategoryPlot->init>>(V 567 3021215107   \n8orgjfree.chartplotCategoryPlot-><init>->)V 568 30.21215107   \n9orgjfree.chartplot.CategoryPlot->setDataset->(Lorg/jfree/data/category/CategoryDataset.)V 1339 28.13118774   \n10org.jfree.cartlotCategoryPot->setDataset->(LorgfreedatacaegoryCategorDatat)V 1340 28.13118774   \n11orgjfree.chartplotCategoryot->setDataset->Logfree/datacategoryCategoryDataset)V 1358 18.86144201   \n12orgfreechartplotCategoryPlot>seDaaset>gfdaaategoryCaegoDaetjV 1367 17.9978011   \n13orgjfree.chartrenderer.category.LineAndShapeRenderer->ini>>0V 201 14.60492611   \n14orgjfree.chartrenderer.category.LineAndShapeRenderer-><init>>()V 202 14.60492611   \n15orgjfree.chartplot.CategoryPlot->getndexOf->(Lorgfree/chartirenderercategoryCategoryltemRenderer;l 1727 10.49776165 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 实验验证 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文通过分析总结现有文献，选取了GitHub平台中的真实缺陷库Defects4j作为实验数据集。Defects4j是由Just等人[22]提出的一个可扩展框架，该框架包含了5个java开源项目的多个真实缺陷，并将每个项目的单个缺陷看做一个缺陷版本。Defects4j为每个真实缺陷都提供了一组开发人员编写的测试用例集，该测试用例集中至少包含一个执行失败的测试用例。本文方案要求在测试用例集中至少有一个失败的测试用例和一个成功的测试用例，因此舍弃了2个不适用于本文方案的缺陷版本，分别为Chart-10b、Lang-57b，它们的测试用例集中都没有成功的测试用例。剩余355个缺陷版本具体信息如表2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b8359b442b629aca5245d2e711f0de9072ac30fc3f46e940385da3e694a9573b.jpg",
+        "table_caption": [
+            "表1语句 $s _ { i }$ 的交叉表Q ",
+            "表2实验项目信息",
+            "Tab.2Information of experimental projects "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">项目名 缺陷版本个数 平均代码行数 平均测试用例个数 平均失败测试用例个数</td></tr><tr><td>Chart</td><td>25</td><td>4187</td><td>230</td></tr><tr><td>Lang</td><td>64</td><td>814</td><td>176</td></tr><tr><td>Math</td><td>106</td><td>2266 215</td><td>2</td></tr><tr><td>Time</td><td>27</td><td>5218</td><td>2606 3</td></tr><tr><td>Closure</td><td>133</td><td>16483</td><td>1540 3</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1方案可行性实验验证 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验设计：Defects4j中的355个缺陷版本分别执行其对应的测试用例集并使用Cobertura工具收集每个测试用例的覆盖信息和执行结果。利用本文提出的方案分别进行缺陷定位，并对结果进行评价。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "评价指标：本实验使用TopN作为评价指标，表示对一个项目的多个缺陷版本进行定位后，真实缺陷语句在推荐列表中的排名为前N的情况次数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验结果及分析：本实验对Defects4j中的5个项目缺陷版本进行缺陷定位，结合Defects4j提供的真实缺陷位置信息，使用topN作为评价指标，划分了6个段，分别是真实缺陷在可疑语句列表的第1位、第2-10位、第11-20位、第21-50位、第50位以上，分别针对5个项目统计了缺陷定位情况，其结果如图3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a55199f7a79b936651893b8ddd2fb55b9c668f1d5045bdaa34471d0dfa03826.jpg",
+        "img_caption": [
+            "图2可疑语句推荐列表T实例",
+            "Fig.2Example of suspicious statement recommendation list T ",
+            "图3Defects4j中各项目定位结果分布",
+            "Fig.3Distributions of project fault localization results in Defects4j "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在图3中(a)至(e)分别表示每个项目的定位结果中，真实缺陷在各个分段的分布情况。经统计，有 $6 8 \\%$ 的缺陷在推荐列表的前10中列出，有 $34 \\%$ 的缺陷在推荐列表的首位定位。证明本文方案具有一定可行性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于定位失败的14个项目版本，分析发现了两个原因：a）项目的缺陷为在源代码中丢失了一个完整的程序模块，导致在第一阶段产生的可疑程序模块列表中没有该模块的信息。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)项目的测试用例集中有大量不稳定(偶然正确)测试用例，即真实缺陷所在程序模块被大量成功测试用例覆盖，可疑分数小于阈值，导致在第二阶段中丢失了真实缺陷所在的模块。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2方案有效性实验验证 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验设计：比较实验，使用目前流行的缺陷定位算法Jasscard[9,10]、Ochicai[9,10]、Dstar2[12]、Op2[13]、EP3[20]对355个真实缺陷进行定位，并将每个算法的定位结果与本文方案进行对比分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "评价指标：采用定位时间和定位支出这两个指标对实验结果进行评估。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a）定位时间：在输入缺陷项目源代码及测试记录时、输出可疑语句推荐列表时分别获取当前系统时间，两者之差作为定位时间。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b)定位支出(Expense)：根据定位结果列表，开发人员找到真正缺陷所需的支出，其计算公式为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { E x p e n s e } } = n \\times { \\frac { 1 } { N } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中：n表示真正缺陷语句在结果列表中的排名，若多个语句拥有相同的可疑分数，本文取他们的平均排名。N表示程序总语句数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验结果及分析：本实验统计了每种方法的定位时间，并将本文方案分别与Jasscard、Ochicai、Dstar²、Op2、 $\\mathrm { E P } ^ { 3 }$ 五种算法进行对比，其结果如表3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/895ba64cc1ab8c5cbe1afcc5af8a11087b10feac86049d4c3943f308115baa7a.jpg",
+        "table_caption": [
+            "表3定位时间对比",
+            "Tab.3Comparison of fault localization time "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目名称</td><td colspan=\"4\">本文方案与其他算法相比，定位时间增加/减少</td></tr><tr><td>(平均代码行/平均 与Jasscard</td><td>与 Ochiai</td><td>与Dstar² 与Op2</td><td>与EP</td></tr><tr><td>测试用例数)</td><td>相比</td><td>相比</td><td>相比</td><td>相比</td><td>相比</td></tr><tr><td>Chart</td><td>√</td><td>√</td><td>←</td><td>√</td><td>←</td></tr><tr><td>(4187/230)</td><td>10.44%</td><td>10.78%</td><td>10.30%</td><td>11.15%</td><td>10.65%</td></tr><tr><td>Lang</td><td>√</td><td></td><td>←</td><td>←</td><td>←</td></tr><tr><td>(814/176)</td><td>7.25%</td><td>5.83%</td><td>8.30%</td><td>9.65%</td><td>8.37%</td></tr><tr><td>Math</td><td>←</td><td>√</td><td>←</td><td>←</td><td>←</td></tr><tr><td>(2266/215)</td><td>9.22%</td><td>8.42%</td><td>9.99%</td><td>10.74%</td><td>10.35%</td></tr><tr><td>Time</td><td>√</td><td>√</td><td>←</td><td>←</td><td>←</td></tr><tr><td>(5218/2606)</td><td>10.61%</td><td>10.97%</td><td>10.77%</td><td>11.36%</td><td>11.22%</td></tr><tr><td>Closure</td><td>√</td><td>√</td><td>←</td><td>←</td><td>←</td></tr><tr><td>(16483/1540)</td><td>11.75%</td><td>11.74%</td><td>11.93%</td><td>11.84%</td><td>12.25%</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，本文方案与其他定位算法相比，定位时间最低减少 $5 . 8 3 \\%$ ，最高减少 $12 . 2 5 \\%$ ，平均减少 $1 0 . 2 4 \\%$ 。并且，随着软件项目规模的增大，定位的时间花销减少的比例越大。因此，本文方案能够有效地减少缺陷定位的时间花销，并在大型复杂软件中表现更为突出。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了更好地说明本文方案的整体有效性，本实验统计了每种定位方法的定位支出，其结果如图4所示。横轴表示Defects4j中的5个项目，纵轴表示各方法的平均定位支出。对于355个缺陷版本，Jasscard、Ochiai、Dstar²、 $\\mathrm { O p } 2$ 、EP的平均定位支出分别为 $0 . 0 4 3 1 \\cdot 0 . 0 4 0 5 \\cdot 0 . 0 4 0 4 \\cdot 0 . 0 4 7 6 \\cdot 0 . 0 4 0 2 ,$ 本文方案的平均定位支出为0.0417，比Jasscard、Op2减少了$3 . 2 5 \\%$ 、 $12 . 3 9 \\%$ ，比Ochiai、Dstar²、EP增加了 $2 . 9 6 \\% . 3 . 2 2 \\%$ 、$3 . 7 3 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "结合表3和图4的分析结果，能够证明本文方案能够在保证定位效果的同时，有效地减少定位的时间花销。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文在现有的SFL方法基础上加以改进，针对面向对象软件提出一种“两阶段”的自动化缺陷定位方法。通过与现有流行的SFL方法进行对比，本文方法能够在保证缺陷定位效果的同时减少缺陷定位的成本，节省了开发人员的调试时间。针对本文方法还存在一些问题需要进一步研究与改进：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a）本文方法主要针对单缺陷项目，但在实际项目中缺陷的存在往往是多个且有联系的，未来可以进一步的研究多缺陷定位问题。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b)本文采用轻量级程序频谱构造方法，忽略了程序组件间的控制及数据依赖关系，在未来研究中可考虑采用重量级程序频谱构造方法，从而提高定位效果。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d0854d6880509260ed8561e5c6c7af69db516bf0351013258e9cec9e91efcdd.jpg",
+        "img_caption": [
+            "图4定位支出对比",
+            "Fig.4Comparison of fault localization expense "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Youm K C,Ahn J,Lee E. Improved bug localization based on code change histories and bug reports [J]． Information and Software Technology,2016,82:177-192.   \n[2]Amar A,Rigby P C.Mining historical test logs to predict bugs and localize faults in the test logs [C]// Proc of the 4lst International Conference on Software Engineering.Piscataway,NJ: IEEE Press,2019: 140-151.   \n[3]Li Xia,Li Wei, Zhang Yuqun,et al.DeepFL: integrating multiple fault diagnosis dimensions for deep fault localization [C]// Proc of the 28th ACM SIGSOFT International Symposium on Software Testing and Analysis.New York: ACMPress,2019:169-180.   \n[4]Loyola P,Gajananan K, Satoh F.Bug Localization by Learning to Rank and Represent Bug Inducing Changes [C]// Proc of the 27th ACM International Conference on Information and Knowledge Management. New York: ACM Press,2018: 657-665.   \n[5]Wotawa F.Fault Localization Based on Dynamic Slicing and Hitting-Set Computation [C]//Proc of the 1Oth International Conference on Quality Software.Washington DC:IEEE Computer Science,2010: 161-170.   \n[6]Surendran A,Samuel P.Fault localization using forward slicing spectrum [C]// Proc of Research in Adaptive and Convergent Systems.New York: ACM Press,2013:397-398.   \n[7]Jones JA,Harrold MJ, Stasko J.Visualization of test information to assist fault localization [C]//Proc of the 24th International Conference on Software Engineering. New York: ACM Press,2002: 467-477.   \n[8]Jones JA,Harrold MJ.Empirical evaluation of the tarantula automatic fault-localization technique [C]// Proc of the 20th IEEE/ACM International Conference on Automated Software Engineering.New York:ACM Press,2005:273-282.   \n[9]Abreu R, Zoeteweij P, Van Gemund AJC.An evaluation of similarity coefficients for software fault localization [C]// Proc of the 12th Pacific Rim International Symposium on Dependable Computing.Washington DC: IEEE Computer Science,2006:39-46.   \n[10] Abreu R,Zoeteweij P, Van Gemund AJC.On the accuracy of spectrumbased fault localization [C]// Proc of the Testing:Academic and Industrial Conference Practice and Research Techniques.Washington DC: IEEE Computer Science,2007: 89-98.   \n[11] Wong WE,Debroy V,Xu D.Towards better bug localization: a crosstabbased statistical approach [J].IEEE Trans on Systems Man and Cybernetics Part C,2012,42 (3): 378-396.   \n[12]Wong WE,DebroyV,Gao R,et al.The DStar method for effective software fault localization [J].IEEE Trans on Reliability,2014,63 (1): 290-308.   \n[13] Naish L,Lee H J,Ramamohanarao K.A model for spectra-based software diagnosis [J].ACM Trans on Software Engineering and Methodology,2011,20 (3): 1-32.   \n[14] Zhang Mengshi,Li Xia,Zhang Lingming,et al. Boosting spectrumbased fault localization using PageRank [C]// Proc of the 26th ACM SIGSOFT International Symposium on Software Testing and Analysis. New York:ACMPress,2017:261-272.   \n[15] Kim J,KimJ,Lee E.A novel variable-centric fault localization technique [C]//Proc of the 40th International Conference on Software Engineering: Companion Proceeedings.New York:ACMPress,2018:252-253.   \n[16]蔡蕊，张仕，余晓菲，等．基于程序频谱的缺陷定位方法[J].计算 机系统应用,2019,28(1):188-193.(Cai Rui,Zhang Shi,Yu Xiaofei, et al.Defect Localization Method Based on Program Spectrum [J]. Computer Systems and Applications,2019,28(1):188-193.)   \n[17] Le T B,Oentaryo RJ,Lo D.Information retrieval and spectrum based bug localization:better together[C]//Proc of the 1Oth Joint Meeting on Foundations of Software Engineering.New York:ACM Press,2015: 579-590.   \n[18]Lam A N,Nguyen A T,Nguyen HA,et al.Bug Localization with Combination of Deep Learning and Information Retrieval[C]//Proc of the 25th International Conference on Program Comprehension. Piscataway,NJ:IEEE Press,2017:218-229.   \n[19] Reps T,BallT,Das M,et al.The use of program profiling for software maintenance with applications to the year 20oo problem [J].ACM SIGSOFT Software Engineering Notes,1997,22 (6): 432-449.   \n[20]陈翔，鞠小林，文万志，等．基于程序频谱的动态缺陷定位方法研究 [J]．软件学报,2015(2):390-412.(Chen Xiang,Ju Xiaolin,Wen Wanzhi, et al.Review of dynamic fault localization approaches based on program spectrum [J].Journal of Software,2015 (2):390-412.)   \n[21] Perez A,Abreu R,Riboira A.A dynamic code coverage approach to maximize fault localization efficiency [J].Journal of Systems and Software,2014,90:18-28.   \n[22] JustR,JalaliD,Ernst MD.Defects4J:a database of existing faults to enable controlled testing studies for Java programs [C]// Proc of International Symposium on Software Testing and Analysis.New York: ACMPress,2014: 437-440. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

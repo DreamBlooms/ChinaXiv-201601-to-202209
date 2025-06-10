@@ -1,0 +1,362 @@
+[
+    {
+        "type": "text",
+        "text": "基于BIM和移动定位的施工质量管理系统",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "马智亮蔡诗瑶 杨启亮毛娜",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（清华大学土木工程系，北京 100084)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】本研究基于建筑信息模型（Building Information Modeling,BIM)技术和室内移动定位技术,研制施工质量管理系统，用于建筑工程施工质量验收,以解决目前施工质量验收中规范实施过程中存在的漏检、数据二次转录等问题。本研究从施工质量验收相关规范出发，分析了施工质量验收的标准化过程与要求,并在此基础上设计了系统功能,建立了系统架构。然后提出了基于BIM的验收任务生成算法、移动定位集成方法等关键技术与方法,研制了施工质量管理的原型系统。最后,该原型系统在实际工程施工中进行了试用,验证了该系统的可行性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】施工质量管理；建筑信息模型(BIM)；移动定位技术；工业基础类(IFC)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【中图分类号】TU17；TU712.3 【文献标识码】A 【文章编号】1674-7461(2017)05-0029-05 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[DOI】10.16670/j.cnki.cn11 -5823/tu.2017.05.05 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "施工阶段是决定建筑工程质量的关键阶段，而施工质量验收则是保证工程质量的重要环节，需要严格管理。目前我国已有许多规范和标准对施工质量验收的方法和内容进行了详细的规定，但是在实施过程中仍然存在一些问题，如：验收条目繁多和验收人员专业知识相对不足导致漏检或错检，甚至编造数据；原始数据纸质记录不易保留和查阅；数据二次转录到资料管理软件导致工作效率低等，给工程质量带来了隐患。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为了提高施工质量管理的水平和效率，近年来，国内外相关学者利用BIM、移动计算、增强现实等各类信息技术，提出了一些思路和方法。Kwon等研制了质量缺陷管理系统，分为图像匹配子系统和AR（AugmentedReality，增强现实）子系统两部分，图像匹配子系统可自动比较BIM模型的二维视图与施工现场对应位置和视角的照片，从而得到尺寸偏差、施工遗漏等缺陷；AR子系统可将BIM模型的二维视图关联到AR标记上，施工人员将该标记贴在施工现场的指定位置，然后用移动设备进行拍摄，系统可识别AR标记，并将对应的BIM视图叠加在实际的图像上,以便发现质量缺陷[1]。但是该系统只适用于外观质量具有明显缺陷的情形，未考虑混凝土强度、钢筋安装、精确尺寸偏差(如垂直度)等检查项目。Tsai等提出了一种基于BIM的施工质量检查方法，支持用户在验收前基于BIM确定验收任务的执行地点和要求，并生成对应的图片和施工信息模板，验收时可在施工现场查看这些图片，并利用施工信息模板填写并提交验收数据，可避免验收任务的遗漏,对验收人员的要求大大降低[2]。但是，在实际验收中，验收任务数量多、重复性大，由用户逐一添加费时费力；且该系统建立在Revit的基础上，无法兼容来自其他软件的BIM模型。Kim等提出了移动设备在施工质量管理中应用的几种方法：在施工现场布置监控摄像头，可在移动设备上查看各监控点传回的画面，实现远程监控；在移动设备上添加验收任务、指派验收人员，并在电子地图上标记任务点的位置；多用户进行图纸共享，某个用户对图纸的放大、旋转等操作可同步显示在其他用户的设备上[3]。但是,远程监控、添加验收任务等功能的需求主要在电脑端，虽然也可以在移动设备上运行，却不是移动计算技术在施工质量管理中应用时最关键的功能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "上述几项研究从不同角度提出了提高施工质量管理水平的方法，然而，这些方法主要基于施工方的角度，没有考虑到监理方、业主方的质量管理需求及各参与方的信息交互，且未重视验收原始数据的管理与整合，无法形成完整的验收资料。就我国目前的情况而言，上述方法与我国的工程质量验收规范要求相比有较大的差距。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究的主要目的是，基于BIM技术和室内移动定位技术，从我国施工质量验收相关规范的要求出发，研制基于BIM和移动定位的施工质量管理系统，旨在支持包括建设方、施工方、监理方等多参与方的信息化施工质量验收过程，提高建筑工程质量管理水平。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 系统分析与设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "规范要求与系统功能分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一本研究基于《建筑工程施工质量验收统一标准》《混凝土结构工程施工质量验收规范》、《建筑地面工程施工质量验收规范》以及《建筑结构长城杯工程质量评审标准》等相关国家和地方标准，对施工质量管理中的管理方法、管理对象和管理内容进行分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据《建筑工程施工质量验收统一标准》的规定，需将进行施工质量验收的建筑工程项目逐层划分为单位工程、分部工程、分项工程和检验批。其中,单位工程、分部工程、分项工程的划分已在标准中有明确规定，而检验批则需结合工程实际，依据施工及质量控制和专业验收需要按楼层、施工段等进行划分,并须针对检验批的样本,即检查点,根据规范要求进行全数检查或按抽查方案抽查[4]。《混凝土结构工程施工质量验收规范》则对检验批的类型、对应的检查项目及抽样的要求等进行了具体规定[5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "每一道施工工序完成后，施工方应进行自检，合格后才能继续下一道工序的施工。其中，较为重要的工序还需由监理方进行复验。在自检和复验的过程中，各组织方均需填写相应的验收资料。建设单位管理人员则有权随时监督和查看验收情况。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于上述验收要求，系统用户应包括施工方、监理方和建设方，其主要职责分别为自检、复验和监督。系统应辅助用户进行以下工作：在验收前，根据验收规范的要求，在BIM模型中自动生成施工质量验收任务，包括检验批、检查项目和检查点；在现场验收过程中，支持各方检查人员结合移动定位，利用移动设备，通过BIM模型，进行现场施工质量验收和管理，如填写现场验收记录表；验收完成后，自动生成符合规范的施工质量验收结果。其中，假定BIM模型以国际主流BIM数据交换标准IFC（IndustryFoundation Classes，工业基础类）格式提供。系统的功能列表及其描述如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 系统架构与开发环境",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究采用BIMserver作为BIM模型管理平台。该平台是由荷兰非盈利机构TNO发起，并由众多程序员自愿参与开发的开源BIM服务器平台，它可支持对IFC格式的BIM数据进行三维显示和管理。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究以SpringMVC开源框架为参考，以调用BIMserver的BIM数据有关的服务为前提，建立了系统架构，如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "系统采用基于Web的B/S架构，支持跨平台使用。系统自下而上依次包括数据层、模型层、控制层以及视图层4个层次。各层次的作用及开发环境如下。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)数据层。存储系统所需的各类数据，主要包括IFC数据、规范数据、各类表格资料数据等。采用MySQL数据库管理系统进行数据管理。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2)模型层。实现对数据层的各类数据进行计算机表达和信息组织。采用Java开发。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/9eccff3d488cdf01664f23a945fc01138807f382c738aa9751f5933545a48b4b.jpg",
+        "table_caption": [
+            "表1系统功能列表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>功能名称</td><td>功能描述</td></tr><tr><td>导入、浏览三维模型</td><td>支持导入IFC格式的BIM模型文件；支持对三维模型进行浏览和交互操作,包括旋转、移动和缩 放等，并支持分层、分构件查看模型，方便快速查找检查点；</td></tr><tr><td>生成检验批、检查项目和检查点</td><td>依据施工质量验收规范中规定的检验批划分原则和抽查规则，结合用户对施工段的划分，在施工 前自动生成检验批、检查项目和检查点，帮助制定验收计划并辅助现场验收；</td></tr><tr><td>现场填写定制表格与拍照</td><td>支持用户利用移动设备填写施工质量验收记录表,并支持拍照记录;</td></tr><tr><td>施工现场室内移动定位</td><td>支持移动设备的定位，能在BIM模型上显示施工现场用户的位置；</td></tr><tr><td>自动生成检验批质量验收表</td><td>根据原始记录表自动生成符合规范的检验批验收质量表。</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/58b3e8f4f9ef49a726795c29d327fd3523ad51efc530d789884f60fb8571d5b7.jpg",
+        "img_caption": [
+            "图1系统架构"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（3)控制层。实现系统的各类功能模块的业务逻辑，调用BIMserver的基础接口完成与模型相关的应用功能,调用室内定位系统的相关接口完成定位功能。采用Java开发。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(4)视图层。提供三维模型显示和其他功能界面的显示和交互。用户界面需适应电脑浏览器和移动设备浏览器。采用HTML、JavaScript、jQuery等语言进行开发。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "关键算法与技术",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据BIM生成验收任务的算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "? 根据上述规范，可知确定验收任务的关键是：确定检验批、关联检验批对应的检查项目，并在检验批中抽样得到检查点。为此，本研究从BIM模型中获取构件的相关信息，建立了生成验收任务，即生成检验批、检查项目和检查点的算法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "IFC 标准以面向对象的方法表达BIM数据。对于柱、梁、板等实体元素，IFC标准提供了一系列对象类型、对象属性的声明以及对象之间关系的定义，同时包含了抽象概念（楼如层、轴线等）。本算法结合规范中规定的检验批划分与检查点抽样原则，基于IFC数据生成检验批、检查项目和检查点，如图2所示[7]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在本算法中，系统首先遍历IFC数据，获取划分检验批所需的层、轴线等抽象属性的关系，并分别返回实体集合，实体类型集合，楼层、轴线等空间信息集合，以及材料、面积等属性信息集合。由于检验批需要按照实际施工流水段进行划分，此时需由用户添加构件的施工流水段属性信息，并由系统按照检验批划分规则重新组织数据，返回检验批集合。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e9f17ccac40919cbc9a5731e8920fbd97b9efc1ecfc1cc2430faf216f373485d.jpg",
+        "img_caption": [
+            "图2生成检验批、检查项目和检查点的算法流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "然后，系统为检验批关联检查项目，并按施工质量验收规范在各检验批中进行抽样，得到检查点集。系统将检查点在BIM模型上标记出来。生成检验批和检查点后，BIM模型中各实体元素即被赋予检验批或检查点属性，并保存至数据库。施工质量验收人员利用移动设备进行现场验收时，系统可从数据库中获取检验批、检查项目与检查点信息并进行显示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2室内移动定位技术及其集成",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本系统集成了现有的移动定位模块实现室内移动定位。该模块采用地磁与Wi-Fi相结合的定位方法，能在施工平面上进行定位，定位精度约$2 \\sim 3 \\mathrm { m }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "该定位算法采用Wi-Fi接收信号强度辅助地磁指纹匹配的设计思路，首先离线建立地磁指纹库，然后在线进行地磁指纹匹配定位。离线建立地磁指纹库，即是利用移动终端自带的地磁传感器收集人员活动空间环境的地磁场信息及其特征，建立地磁信息与对应位置坐标的数据库。在线匹配定位时，系统利用Wi-Fi信号初步定位，形成待匹配区域，再利用地磁指纹精确定位，将当前地磁特征量及历史地磁特征量，与待匹配区域地磁指纹库中的各点地磁特征数据进行比较，从而得到移动终端所在的位置坐标。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "该移动定位模块可向服务器发送实时的平面定位坐标，并通过坐标转换，将平面图上的定位信息转换到BIM模型中的某个楼层平面进行显示。移动定位技术能为现场验收人员提供实时的位置信息，帮助验收人员判断自身与构件的相对位置，尤其是在复杂建筑的质量验收中可发挥重要的作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 原型系统试用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": ">基于上述系统设计和关键技术,本研究开发了施工质量管理原型系统,并在北京城建二公司科技大厦B座项目中进行了试用。该项目为科研办公楼,位于北京市朝阳区，筏板基础、框架剪力墙结构，地上12层(裙楼4层）地下4层，建筑面积共计$3 \\bar { 4 } \\mathrm { ~ } 0 1 2 . ~ 1 0 \\mathrm { m } ^ { 2 }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究利用北京城建二公司提供的 Revit结构模型,导出IFC 数据文件,并上传到系统中。验收前，测试人员在模型中选择构件，并添加构件所属的施工流水段信息，然后点击按钮，由系统自动生成检验批、检查项目和检查点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本次试用范围为施工方自检。在验收过程中，测试人员随身携带移动Wi-Fi和平板电脑，通过浏览器访问系统。如图3所示，BIM模型上将实时显示用户的位置。用户在左侧树状图中选择检验批和检查项目，在右侧树状图中控制相应构件的显隐，在模型视图中选择检查点，并点击模型上方区域的表格图标按钮，按提示填写现场验收记录表，如图4所示。用户可点击相机图标在检查点对应部位进行拍摄，完成后可点击眼晴图标查看照片。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "系统根据验收人员填写的现场记录表中的数据，自动生成符合规范要求的检验批质量验收记录表，如图5所示，用户可直接打印该表格。在检验批质量验收记录表中选择检查项目，点击对应的检查记录，即可查看对应的原始数据记录。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试用过程中，测试人员收集了科技大厦B座2层的4个分项工程，共12个检验批的数据，形成了该楼层较为完整的验收资料。试用结果表明，该系统可避免了数据二次转录工作，并做到原始数据可溯可查。下一步将继续深化系统的试用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/65628f18a0adf3d2825d17bb86ebe99a9a22d10d4e29f00d5d609067b8485408.jpg",
+        "img_caption": [
+            "图3现场验收模型查看(移动设备)"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3910addc83e565d1a3b8da624d0aeef636acf2ab705765792fee1f0e956cf7cc.jpg",
+        "img_caption": [
+            "图4现场验收填表(移动设备)",
+            "图5自动生成的质量验收记录表"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "国 = □ X  \nBspetr-Proect  \n←→①101.6.50.37:8080/SGZUG/index.dofnavMain_13 ☆日 5 P  \n基于BIM和移动定位技术的施工质量管理系统 项目： 科技大厦 电工方司项目管理 分工程 外观质量及尺寸偏差检查批验收任务管理 现土构子分部工 02010501022电 单位（子单位）工程名称 科大厦 分部（子分部）工程名称 凝土结构子分部工程 分项工程名称 现海结构分项工程验收过程管理土分项工程 施工单位 北京建二公司 项目负责人 收物批容量 1113648进场相加工管理 由精购分项工程 分包单位 分包单位项目负表人 验部位 2层一洗水段检收结果管理 《周起土地构工程施工质量验收规笔》特验出线量暂收表查春 施工体据 (晨基士地工程施工作） 验收依据 (长收验批状态统计DB11/T1074-2014小实际验收项目 设计要求及规范规定 记录 查果量主控1 外观质量无产重助用 8.21 147 格47，不会格0 数日 尺寸无严里调 8.3.1 1 / 11 外观质量无一般缺 8.22 □147 合格47，不合格0 科柱果 5 5110 查10.合格10 100%2线位置 独立基路 10 1 / 1整体基础 10 4 1 1桂离>5m 8 1 1 7全两（H）>300m H/100080 1 1 13 新直 挂高5m 5 5/10 10合格10 100%全00s300m H/3000020 1 / /4 标 层 ±30 =5 1 1 1 1 1 1项. 相路少高差 = 1 1 11 5 国尺寸 住、板 5/10 查10,合格10 100%B 15 1 / 1长，宽尺寸 -25,0 5 换道风、会绪8 100%CopyrightOby消华大学",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5结语 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究通过对验收规范的深入分析，基于BIM技术建立了生成检验批、检查项目和检查点的算法，集成了室内移动定位的功能模块，设计并研制了支持包括建设方、施工方、监理方等多参与方的施工质量管理系统，并在实际工程中进行了试用。该系统遵循规范要求，可有效地减少验收资料员的工作量，提高验收数据的真实性，为解决现存的施工质量管理问题提供新的方法和工具，有助于提升施工质量管理水平和效率，为BIM技术在施工阶段拓展了新的应用点。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Kwon O S,Park C S,Lim C R.A defect management system for reinforced concrete work utilizing BIM,imagematching and augmented reality[J].Automation in Construction，2014，46(10):74-81. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[2]Tsai YH,Hsieh S H,Kang S C.A BIM-Enabled Ap-proach for Construction Inspection[C].International Con-ference on Computing in Civil and Building Engineering.2014:721-728.  \n[3]Kim C,Park T,Lim H,et al. On-site construction manage-ment using mobile computing technology［J].Automationin Construction，2013，35(2）:415-423.  \n［4］中华人民共和国建设部．建筑工程施工质量验收统一标准：GB50300-2013［M]．中国建筑工业出版社，2013.  \n［5］中华人民共和国建设部．混凝土结构工程施工质量验收规范：GB50204-2015［M].中国建筑工业出版社，2015.  \n[6］Zhiliang Ma,Na Mao and Qiliang Yang.A BIM based ap-proach for quality supervision of construction projects[C].Creative Construction Conference 2O16，644-649,Budapest, Hungary.  \n［7］马智亮，毛娜.基于建筑信息模型自动生成施工质量检查点的算法［J].同济大学学报（自然科学版），2016，44(5) : 725-729.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A Construction Quality Management System based on BIM and Indoor Positioning ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Ma Zhiliang，Cai Shiyao，Yang Qiliang，Mao Na (Department of Civil Engineering，Tsinghua University，Beijing 1Ooo84，China) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Abstract：This paper develops a prototype system for construction quality management based on Building Information Modeling（BIM）and indoor positioning，which is aimed to solve theproblems in the traditional inspection process，such as omisions in quality inspection and second-hand manual entryof the original inspection data into the computer software.In this research，based on the national standards for construction quality inspection in China，the standard process and requirements of construction quality inspection are analyzed，and then the functions and architecture of the system are designed.Next，an algorithm for inspection task generation is proposed based on BIMand a prototype system is implemented by integrating an indor positioning technique.Finall，the prototype system is tested at a real construction site to verify its effectiveness and eficiency. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Key Words: Construction Quality Management；Building Information Modeling（BIM）；Indoor Positioning; Industry Foundation Classes(IFC) ",
+        "page_idx": 4
+    }
+]

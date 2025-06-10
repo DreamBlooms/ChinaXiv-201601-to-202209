@@ -1,0 +1,227 @@
+[
+    {
+        "type": "text",
+        "text": "周旭1,2.3闵力1,2 赵圣国1,2\\* 郑楠1.2 王加启1,2 杨开伦3(1.中国农业科学院北京畜牧兽医研究所，动物营养学国家重点实验室，北京100193；2.中国农业科学院北京畜牧兽医研究所，农业部奶产品质量安全风险评估实验室（北京)，北京100193；3.新疆农业大学动物科学学院，乌鲁木齐 830052)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：热应激不仅影响奶牛健康，而且易导致奶牛“热应激乳蛋白降低征”的发生，从而影响牛奶营养品质。本文综述了近些年来热应激影响牛奶中乳蛋白含量及酪蛋白和乳清蛋白组分的研究进展，探讨了热应激诱导的“热应激乳蛋白降低征”发生机理，以期为缓解奶牛热应激和提高牛奶品质提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：热应激；奶牛；热应激乳蛋白降低征；作用机制中图分类号：S852.2 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "热应激是机体处于高温环境下的一种非特异性免疫应答的防御反应[11。研究表明，当气温高于 22℃或温湿指数（temperature-humidity index，THI）高于 72时，奶牛开始处于热应激状态[2-3]。热应激会导致奶牛的乳蛋白含量降低[4]。程建波等[5]在连续3年时间里测定了热应激周期变化对泌乳中期奶牛生产性能和牛奶品质的影响，发现在自然生产条件下，热应激周期变化会改变泌乳中期奶牛氮代谢的途径，发生氮营养重分配的现象，而且这种现象不依赖于采食量和产奶量，将其定义为“热应激乳蛋白降低征”（heat-stressed milk proteindecrease syndrome，HS-MPD）。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "乳蛋白是乳中总蛋白质的总称，乳蛋白含量高达 $3 \\% { \\sim } 4 \\%$ ，主要分成酪蛋白、乳清蛋白两类。它们除能供给机体营养，还具有预防病菌侵袭、抗高血压、抗血栓形成、免疫调节、传递遗传信息等功能，是构成牛奶重要营养品质的主要物质基础，也是奶业核心竞争力的标志[。先前的研究已经对奶牛热应激和乳蛋白的功能有了深刻的认识，但很少有研究将两者联系起来。因此，本文从热应激导致牛奶中乳蛋白含量与功能变化层面，综述了近些年来热应激对牛奶乳蛋白、酪蛋白和乳清蛋白组分影响的研究进展，探讨了热应激诱导的“热应激乳蛋白降低征”的发生机理，以期为缓解奶牛热应激和提高牛奶品质提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 热应激对乳蛋白含量和组分的影响",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1概述了热应激对牛奶中各乳蛋白组分潜在的生物功能和含量的影响。热应激条件下，牛奶中酪蛋白、乳清蛋白等乳蛋白组分会发生变化[8]，导致酪蛋白、 ${ \\mathfrak { \\beta } }$ -乳球蛋白和免疫球蛋白含量降低，而 $\\scriptstyle { \\mathfrak { a } } .$ -乳白蛋白、乳铁蛋白含量和溶菌酶活性升高，这些乳蛋白组分的变化不但会导致奶牛机体免疫调节受阻，而且会影响乳蛋白抗炎、抗菌和抗氧化等生物功能的发挥，从而影响牛奶营养品质9，制约奶业的发展。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1热应激对牛奶中乳蛋白组分生物功能和含量的影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/2bc2938c7d8bf275142e6893d2ac4b71f7d2cd30252d7f943813f5d72f9f30c7.jpg",
+        "table_caption": [
+            "Table 1 Effects of heat stress on milk protein biological function and content in cow's milk "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>乳蛋白组分Milk protein components</td><td>生物功能Biological function</td><td>Effects of heat stress on content</td><td>参考文献 References</td></tr><tr><td>酪蛋白CN</td><td>离子载体；氨基酸、钙和磷的供应源；免疫调节生物活 性；抗炎性</td><td>降低</td><td>[10-12]</td></tr><tr><td>α-乳白蛋白 α-La</td><td>促进乳糖合成；钙载体；免疫调节；潜在抗癌性</td><td>升高</td><td>[11,13]</td></tr><tr><td>β-乳球蛋白 β-Lg</td><td>维生素载体；潜在抗氧化剂；有助于吸收维生素A、视 黄酸</td><td>降低</td><td>[11]</td></tr><tr><td>免疫球蛋白</td><td>天然抗体；维持和促进机体免疫机能；降低血浆胆固醇</td><td>降低</td><td>[14]</td></tr><tr><td>Ig 乳铁蛋白Lf</td><td>含量 抗菌；抗氧化；抗癌；抗炎症；免疫调节</td><td>升高</td><td>[15]</td></tr><tr><td>溶菌酶</td><td></td><td></td><td></td></tr><tr><td>LZM</td><td>抗感染因子</td><td>升高</td><td>[15]</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关于热应激对牛奶中乳蛋白含量的影响，国际上的学者进行了大量的研究。据 Beede等[1]报道，奶牛的乳蛋白合成量随气温的升高逐渐降低，高温与乳脂率、乳非脂固形物含量呈负相关，相关系数分别为-0.23、-0.61。Ravagnolo 等[17]提出，当发生热应激时，THI每升高1个单位，乳脂和乳蛋白合成量分别下降 12 和 $\\mathrm { ~ 9 ~ g ~ } _ { \\mathrm { ~ } }$ 。Barash 等[18]报道，高温与黑白花奶牛乳蛋白合成量呈负相关，温度每升高 $1 \\ \\mathrm { { ^ \\circ C } }$ ，蛋乳白合成量下降 $0 . 0 1 ~ \\mathrm { k g }$ 。我国许多学者对此也进行了大量研究。薛白等[19研究表明，当THI超过72时，乳品质出现下降，且夏季乳脂率和乳蛋白率较春季、秋季和冬季有所下降，但差异不显著。王建平等[20研究表明，高温可使牛奶中的乳脂、乳蛋白、乳糖及乳非脂固形物含量下降，当温度从 $1 8 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 升高到 $3 0 \\mathrm { ~ \\textdegree C }$ 时，产奶量减少 $1 5 \\%$ ，而产奶净能利用率下降 $3 5 \\%$ ，乳脂、乳非脂固形物和乳蛋白的含量分别下降 $3 9 . 7 \\%$ 、 $1 8 . 9 \\%$ 和 $1 6 . 9 \\%$ 。李征等[21研究表明，热应激显著降低奶牛的乳脂率和乳蛋白率，其中乳脂率在一年四季中的变化较大，以夏季最低。程建波等[5研究发现，中度热应激极显著降低奶牛的采食量、产奶量、乳脂校正乳产量、能量校正乳产量、乳脂率、乳蛋白含量、乳总固体含量，并显著增加了乳中尿素氮含量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "热应激会导致牛奶中的乳脂率、乳蛋白率和乳非脂固形物含量下降。乳脂和乳蛋白的合成对热应激变化较为敏感，奶牛在热应激状态中首先会降低牛奶中乳蛋白的合成量，与之相伴随的是乳中尿素氮含量的显著升高，使奶牛氮代谢途径发生改变，发生“热应激乳蛋白降低征”。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2热应激对牛奶中酪蛋白的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "酪蛋白（casein，CN）占牛奶乳蛋白的 $80 \\%$ 以上，主要包括 $\\mathbf { \\alpha } _ { \\mathrm { a s . } }$ 酪蛋白、 $\\beta$ -酪蛋白、γ-酪蛋白和 $\\kappa .$ 酪蛋白。在牛奶中， $\\mathbf { \\alpha } _ { \\mathrm { { a s . } } }$ 酪蛋白是酪蛋白的主要组分，占酪蛋白的 $45 \\% { \\sim } 5 5 \\%$ ，其组分是 $\\alpha _ { \\mathrm { S 1 } }$ 酪蛋白和 ${ \\mathrm { \\Omega } } { \\mathrm { a } } _ { { \\mathrm { S } } 2 } .$ 酪蛋白； $\\beta$ -酪蛋白是含量仅次于 $\\mathbf { \\alpha } _ { \\mathbf { a } _ { \\mathbf { S } } }$ 酪蛋白的重要组分，与 $\\mathbf { \\alpha } _ { \\mathrm { { a s 1 } } }$ 酪蛋白含量相当，两者分别占酪蛋白的 $3 5 \\%$ 和 $3 8 \\%$ ; $\\gamma \\cdot$ 酪蛋白是 ${ \\beta }$ -酪蛋白的水解片段，根据片段的起始氨基酸残基不同分为 $\\gamma _ { 1 } .$ 酪蛋白、 $\\gamma _ { 2 }$ -酪蛋白和 $\\gamma _ { 3 }$ -酪蛋白3种形式； $\\kappa \\mathrm { . }$ 酪蛋白通过分子间二硫键聚合在一起并以混合物的形式出现，它分布于整个酪蛋白胶束，起到稳定胶束的作用。Chatterton 等[22]研究报道，酪蛋白有重要的抗炎性作用，对幼龄动物的肠道健康具有重要意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "热应激会影响牛奶中酪蛋白组分的变化。Moore 等[1]研究发现，产前60d的热应激奶牛的牛奶中乳蛋白和酪蛋白含量下降。Bermabucci等[13]分别测定了春季与夏季牛奶中 $\\mathfrak { a }$ 酪蛋白、 ${ \\mathfrak { \\beta } }$ -酪蛋白与 $\\kappa .$ 酪蛋白的含量，发现夏季与春季相比牛奶中总酪蛋白含量下降了 $5 . 5 \\%$ ，夏季牛奶中 $\\mathfrak { a }$ 酪蛋白、 ${ \\beta }$ -酪蛋白含量变化差异极显著，而 $\\kappa .$ 酪蛋白的含量并不受季节的影响。Cowley 等[12]对牛奶中的乳蛋白、酪蛋白含量与尿素氮浓度进行了测定，试验发现，热应激降低了牛奶中的乳蛋白和酪蛋白的含量，增加了牛奶中尿素氮的浓度；为进一步研究热应激导致乳蛋白含量降低过程中酪蛋白组分的变化，试验对酪蛋白中部分组分指标进行测定，发现热应激导致总酪蛋白和 $\\alpha _ { \\mathrm { { S 1 } } } .$ -酪蛋白含量增加，而 ${ \\bf \\alpha } \\mathrm { q } _ { \\mathrm { S } 2 } .$ -酪蛋白含量下降，表明酪蛋白含量的下降主要是由于 ${ \\bf { a } } _ { \\mathrm { { S } } 2 }$ -酪蛋白含量下降引起的。Bernabucci 等[采用十二烷基硫酸钠-聚丙稀酰胺凝胶电泳（SDS-PAGE）的方法检测了25 头相同泌乳天数的奶牛在冬季、春季和夏季牛奶中各酪蛋白组分的含量，发现夏季牛奶中 $\\alpha _ { \\mathrm { { S } } }$ -酪蛋白、 $\\beta$ -酪蛋白、 $\\kappa .$ -酪蛋白含量降低，且夏季牛奶中 $\\gamma$ -酪蛋白的含量比冬季高出 $5 0 \\%$ ，比春季高出 $5 9 \\%$ ，除 $\\gamma$ -酪蛋白外，其余酪蛋白的含量在夏季均有所降低，推断总酪蛋白含量的降低可能是由于 $\\alpha _ { \\mathrm { { S } } } { \\cdot }$ -酪蛋白和 $\\beta$ -酪蛋白含量的降低所导致的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "尽管热应激增加了牛奶中 $\\alpha _ { \\mathrm { { S 1 } } }$ -酪蛋白的含量，但在热应激条件下 $\\mathfrak { a }$ -酪蛋白的含量显著下降。热应激会导致 $\\mathfrak { a }$ -酪蛋白、 ${ \\beta }$ -酪蛋白含量降低，进而导致总酪蛋白含量降低，出现“热应激乳蛋白降低征”。酪蛋白是目前各种生物活性肽的主要来源，也是氨基酸、钙和磷的供应源，具有很高的消化率，能在胃中形成凝乳促进消化[23]，但在热应激条件下，由于“热应激乳蛋白降低征”使酪蛋白含量降低，抗炎性效果不突出[24]，可能影响牛奶品质。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3热应激对牛奶中乳清蛋白的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "乳清蛋白是在pH为4.6 时仍分散在乳清中的蛋白质。牛奶中除了占最大比例的酪蛋白组分之外，还含有一定量的乳清蛋白，乳清蛋白占乳蛋白的 $1 8 \\% { \\sim } 2 5 \\%$ ，包括 $\\mathfrak { a }$ 乳白蛋白（ $\\mathfrak { a }$ lactoalbumin， α-La）、 $\\beta$ 乳球蛋白( $\\beta$ -lactoblobulin, $\\beta { \\mathrm { - L g } } $ ）、免疫球蛋白（immunoglobulinsIg）、乳铁蛋白（lactoferrin，Lf）及溶菌酶（lysozyme，LZM）等多种生物活性蛋白。 $\\mathfrak { a }$ La在乳腺中乳糖的生物合成上起着辅酶的作用，控制着乳中乳糖的含量[25-26]，是乳糖生物合成和分泌的关键蛋白。研究发现，牛奶中 $\\mathbf {  { a } }$ -La 可抑制环氧合酶-2活性，从而起到抗炎症作用[27]。 $\\beta$ Lg 属于一种脂质转运蛋白，能与脂肪酸和维生素[28]及多酚类等生物活性物质结合，有助于吸收维生素A、视黄酸。Ig（包括IgG、IgA 和IgM）是牛奶和血浆中天然的抗体成分，除了对机体免疫机能等的维持和促进具有重要意义[29]外，Ig 还具有降低血浆胆固醇含量进而降血压的功能[30-31]。Lf 具有抗菌、抗氧化、抗癌、抗炎症、调控细胞生长及免疫调节等诸多作用。LZM对革兰氏阳性菌和革兰氏阴性菌都有抑制作用，通过与Lf的协同作用，引发对革兰氏阴性菌外膜的破坏作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Conesa 等[321测定了西班牙各地区牛奶中IgG 含量，发现同一地区不同季节牛奶中IgG含量不同，夏季乳中IgG 含量较春季有所降低。Ravagnolo 等[17研究发现，当THI超过 72时，牛奶中IgA、IgG 所占比例减少。Brodziak 等[15]报道，春夏季产犊的牛奶中Lf 含量要明显高于秋冬季产犊的牛奶，且自由放牧条件下牛奶中Lf 含量要明显高于限制饲喂时；此外，Brodziak 等[15]分别测定了春夏和秋冬两季牛奶中LZM的活性，发现春夏季产犊的牛奶中LZM活性要明显高于秋冬季产犊的牛奶。杨晋辉等[33研究了不同牛场牛奶中的IgA、IgMLf 含量随季节变化的情况，发现IgA含量不受季节变化的显著影响，但在春季和夏季的 6个不同牛场中,5个牛场牛奶中IgM含量和3个牛场牛奶中Lf含量在春夏两季差异极显著。这些结果均表明：牛奶中IgG、IgA、IgM、Lf 含量的变化可能受温度和地域等各方面因素的影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Bernabucci等[13]分别测定了春季与夏季牛奶中 $ { \\mathbf { a } }$ -La和 $\\beta$ -Ig 的含量，发现夏季与春季牛奶中 $\\mathfrak { a }$ -La和 $\\beta { \\cdot } \\mathrm { I g }$ 的含量差异不显著，二者均不受季节的显著影响。但通过后期的进一步研究，Bermabucci 等[]发现，牛奶中 $\\mathbf {  { a } }$ La 的含量在夏季最高，冬季最低；而夏季牛奶中 $\\beta$ Ig的含量低于冬季，表明不同季节对 $\\mathfrak { a }$ -La和 $\\beta { \\cdot } \\mathrm { I g }$ 的含量有不同的影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "热应激会影响牛奶中乳清蛋白组分的变化，使 $\\mathfrak { a }$ -La 的含量升高。当奶牛处于热应激状态时，乳清蛋白中IgG、IgM和IgA的含量有所降低，对Ig 抑制细菌代谢及细菌凝聚、增强吞噬细胞活性的等功能造成损伤。热应激条件下牛奶中LZM 活性和Lf 含量增加[34]的原因可能是热应激会导致牛奶中体细胞数升高，而LZM的活性会随着体细胞数的增加而增强，且LZM能协同Lf作为杀菌剂。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2奶牛“热应激乳蛋白降低征”的发生机理",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1腺苷酸活化蛋白激酶（AMPK）/结节性硬化复合物（TSC）/哺乳动物雷帕霉素靶蛋白（mTOR）信号通路对热应激奶牛乳蛋白合成的调控",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "AMPK是一种细胞能量调节器[351，能被机体各种刺激激活，参与许多不同类型的应激反应[36]。Frederich 等[37]研究了不同温度应激对岩石蟹AMPK活性的影响，试验发现当环境温度在12\\~18℃时，AMPK活性保持稳定，当环境温度升高至18\\~30℃时，AMPK活性升高了9.1倍，热应激导致AMPK信号分子被激活。此外，Li等[38]对热应激奶牛血液中 AMPK活性的变化做了进一步研究，通过牛属专一性的酶联免疫吸附试剂盒，对奶牛血液中 AMPK活性进行快速检测，研究表明热应激导致奶牛血液中AMPK信号分子被激活。尽管目前对于AMPK信号分子进入血液的途径方面的研究较少，但大量研究表明AMPK信号分子通过",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "AMPK/TSC/mTOR 信号通路作用于蛋白质翻译过程来调控乳蛋白合成[39-41]。mTOR 是AMPK信号通路重要的下游靶点，以哺乳动物雷帕霉素靶蛋白复合物1（mTORC1）和哺乳动物雷帕霉素靶蛋白复合物2（mTORC2）2种蛋白质复合物的形式存在。Burgos 等[42]研究表明，奶牛乳腺上皮细胞能量不足可激活AMPK，并通过抑制mTORC1信号通路减少蛋白质合成。由此可知，热应激会激活AMPK，从而抑制mTOR信号通路，降低乳腺上皮细胞的乳蛋白合成量，导致奶牛“热应激乳蛋白降低征”",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2热休克蛋白（heat shock proteins，HSPs）参与热应激反应",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "HSPs 是一种高度保守的蛋白质，按分子质量的大小主要分为HSP90、HSP70 和HSP29等几个家族。HSPs 的转录调节主要是依靠热休克转录因子（HSF)，热应激会诱导 $H S P s$ 和HSF的表达。奶牛通过激活HSF、增加 $H S P s$ 表达的方式，对机体起到保护作用，使机体适应热应激环境[43]。热应激条件下，奶牛体内蛋白质的合成和表达减少，机体通过增加 HSP的合成，对高温所造成的损伤进行修复，增强抗热应激能力。HSP70是HSPs家族中最重要的一部分，与环境温湿度的变化密切相关，在生物热耐受中起着主要作用。Hu 等[441以体外培养的奶牛乳腺上皮细胞为模型，探讨热应激对 $H S P s$ 和乳蛋白合成相关基因 mRNA 表达丰度的影响，发现HSP27、HSP70 的表达上调，结果表明热应激导致HSPs合成量增加，乳蛋白合成量降低。奶牛“热应激乳蛋白降低征”是由于动物机体受到热应激刺激时，为免受因热应激而造成的机体不可逆损伤，奶牛体内 $H S P 7 0 \\mathrm { m R N A }$ 表达量及HSP70 的合成量显著增加，体内 HSPs 合成量增多，而正常蛋白质的合成量受到抑制[43.45]，使牛奶中乳蛋白含量下降。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3热应激影响乳腺上皮细胞的合成能力",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "大量研究表明，热应激能降低细胞的活力，诱导细胞凋亡[46]。周振峰等[47]报道，经42℃高温处理后，奶牛乳腺上皮细胞生长停滞，细胞数量在培养的第2天已明显降低，研究发现，热应激能够抑制奶牛乳腺上皮细胞的生长，并诱导其凋亡。Colier 等[43]研究发现38℃培养奶牛乳腺上皮细胞时，其生长速度正常；当42经℃高温处理后，乳腺上皮细胞生长受到抑制，且处于凋亡状态。胡菡等[48]在42℃体外培养奶牛乳腺上皮细胞时发现热应激上调了乳腺细胞中与 B 淋巴细胞瘤-2 相关X蛋白（B-cellymphoma-2-associated X protein，BAX）基因（促凋亡基因）的表达，而B 淋巴细胞瘤-2（B-celllymphoma-2，Bcl-2）基因（抑制凋亡基因）的表达先上调后下调，结果表明，热应激会引起奶牛乳腺上皮细胞凋亡。此外，Hu等[44]认为高温条件下体外培养奶牛乳腺上皮细胞会导致酪蛋白的合成基因（CSN2）和乳脂的合成基因（BTN1A1）表达下调，总酪蛋白含量降低。高胜涛等[49]研究了热应激时乳蛋白变化量与乳蛋白合成相关信号通路及乳腺细胞凋亡的关系，认为热应激是通过诱导乳腺细胞的凋亡，减少可用于乳蛋白合成的乳腺细胞的数量来降低乳蛋白的含量和产量的。这些结果均表明，奶牛乳腺上皮细胞对热应激产生应答；同时，高温对牛奶乳腺上皮细胞的泌乳功能造成显著影响。由此可见，热应激不仅抑制奶牛乳腺上皮细胞生长、诱导细胞凋亡，而且影响乳腺上皮细胞泌乳功能，使细胞合成乳蛋白的能力下降，最终导致奶牛“热应激乳蛋白降低征”。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3小结  \n热应激会导致牛奶中乳成分的变化，降低乳蛋白含量，对各种功能蛋白造成损害，从而降低牛奶营养品质。虽然热应激对牛奶中乳蛋白的各组分都有不同程度的影响，但由于其作用机制的复杂性，以及试验条件、试验温度和持续时间的差异，目前为止以上很多方面的研究尚未达成一致观点，需要进一步的改进和提升研究技术，研究热应激条件下乳蛋白含量下降的原因，为采取相关措施缓解奶牛热应激提供理论依据，达到增加乳蛋白产量、改善牛奶品质的目的。  \n参考文献:  \n[1] MOHAMMED M E,JOHNSON H D.Effect of growth hormone on milk yields and relatedphysiological functionsof Holstein cowsexposed to heat stress[J].Journal of DairyScience,1985,68(5):1123-1133.  \n[2] BERMAN A,HOROVITZ T,KAIM M,et al.A comparison of THI indices leads to a sensibleheat-based heat stressindex for shaded catle that aligns temperature and humiditystress[J].International Journal of Biometeorology,2016,60(10):1453-1462.  \n[3] 艾阳,曹洋,谢正露,等.热应激时奶牛血液中游离氨基酸流向与乳蛋白下降的关系研究[J].食品科学,2015,36(11):38-41.  \n[4] 张凡建,徐聪,翁晓刚,等.不同程度热应激对泌乳中期奶牛产奶量和乳成分的影响.中国兽医学报,2014,34(10):1686-1688.  \n[5] 程建波,王伟宇,郑楠,等.自然生产条件下热应激周期变化揭示泌乳中期奶牛出现\"热应激乳蛋白降低征\"[J].中国畜牧兽医,2014,41(10):73-84.  \n[6] ZHAO L L,WANG X L,TIAN Q,et al.Effect of casein to whey protein ratios on the proteininteractionsandcoagulationpropertiesoflow-fatyogurt[J].JournalofDairyScience,2016,99(10):7768-7775.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[7]王加启.牛奶乳脂肪和乳蛋白的合成与调控机理[J].饲料与畜牧:新饲料,2011(2):8-14.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[8] REYAD M A,SARKER A H,UDDIN E,et al.Efect of heat stress on milk production and its composition of Holstein Friesian crossbred dairy cows[J].Asian Journal of Medical and Biological Research,2016,2(2):190-195. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[9]PELLEGRINO L,MASOTTI F,CATTANEO S,etal.Nutritionalqualityofmilk proteins[M]//MCSWEENEYPLH,FOXPF.Advanceddairychemistry.New York:Springer,2013:515-538.   \n[10] MOORE R B,FUQUAY J W,DRAPALA W J.Effects of late gestation heat stress on postpartummilkproductionandreproductionindairycattle[J].JournalofDairy Science,1992,75(7):1877-1882.   \n[11] BERNABUCCI U,MORERA L B,DIPASQUALE D,et al.Effect of summer season on milk protein fractions in Holstein cows[J].Journal of Dairy Science,2015,98(3):1815-1827.   \n[12] COWLEY F C,BARBER D G,HOULIHAN A V,et al.Immediate and residual effects of heat stressand restricted intake on milk protein and casein composition and energy metabolism[J].Journal of Dairy Science,2015,98(4):2356-2368.   \n[13]BERNABUCCI U,LACETERA N,BAUMGARD L H,et al.Metabolic and hormonal acclimation to heat stress in domesticated ruminants[J].Animal:An International Journal of Animal Bioscience,2010,4(7):1167-1183.   \n[14] Das R,SAILO L,VERMA N,et al.Impact of heat stress on health and performance of dairy animals:a review[J].Veterinary World,2016,9(3):260-268.   \n[15] BRODZIAK A,BARLOWSKA J,KROL J,et al.Effect of breed and feeding system on content of selected whey proteins in cow's milk in spring-summer and autumn-winter seasons[J].Annals of Animal Science,2014,12(2):261-269.   \n[16] BEEDE D K,SHEARER J K.Nutritional management of dairy cattle during hot weather.IV [Z].[S.l.]:[s.n.]Agri-Practice,1991.   \n[17] RAVAGNOLO O,MISZTAL I,HOOGENBOOM G.Genetic component of heat stress in dairy cattle,development of heat index function[J].Journal of Dairy Science,2000,83(9):2120-2125.   \n[18]BARASH H,SILANIKOVEN,SHAMAYA,etal.Interrelationshipsamongambient temperature,day length,and milk yield in dairy cows under a Mediterranean climate[J].Journal of Dairy Science,2001,84(10):2314-2320.   \n[19] 薛白,王之盛,李胜利,等.温湿度指数与奶牛生产性能的关系[J].中国畜牧兽 医,2010,37(3):153-157.   \n[20] 王建平,王加启,卜登攀,等.热应激对奶牛影响的研究进展[J].中国奶牛,2008(7):21-24. [21] 李征,梅成,郭智成.热应激对荷斯坦奶牛生产性能和乳脂脂肪酸组成的影响[J].中国乳品 工业,2009,39(9):17-19.   \n[22] CHATTERTON D E W,NGUYEN D N,BREING S B,et al.Anti-inflammatory mechanisms of bioactive milk proteins in the intestine of newborns[J].International Journal of Biochemistry & Cell Biology,2013,45(8):1730-1747.   \n[23] MCSWEENEY P L,OLSON NF,FOX PF,et al.Proteolytic specificity of chymosin on bovine alpha s1-casein[J].The Journal of Dairy Research,1993,60(3):401-412.   \n[24] RONG Y Y,LU Z Q,ZHANG H W,et al.Effects of casein glycomacropeptide supplementation on growth performance,intestinal morphology,intestinal barrier permeability and inflammatoryresponsesinEscherichiacoliK88challengedpiglets[J].Animal Nutrition,2015,1(2):54-59.   \n[25]刘思国,魏影允,胡国法,等.人α-乳白蛋白在转基因小鼠乳汁中的动态表达图貌[J].中国科 学:生命科学,2003,33(4):317-322.   \n[26] LIU H,ZHAO K,LIU J.Effects of glucose availability on expression of the key genes involved in synthesis of milk fat,lactose and glucose metabolism in bovine mammary epithelial cells[J].PLoS One,2013,8(6):e66092.   \n[27] YAMAGUCHI M,TAKAI S,HOSONO A,et al.Bovine milk-derived $\\mathfrak { a }$ -lactalbumin inhibits colon inflammation and carcinogenesis in azoxymethane and dextran sodium sulfate-treated mice[J].Bioscience,Biotechnology,and Biochemistry,2014,78(4):672-679.   \n[28] KUZMANOFF K M,ANDRESEN J W,BEATTIE C W.Isolation of monoclonal antibodies monospecific for bovine $\\mathfrak { a }$ -lactalbumin[J].Journal of Dairy Science,1990,73(11):3077-3083. [29] PLOEGAERT T C,TIJHAAR E,LAM T J,et al.Natural antibodies in bovine milk and blood plasma:variability among cows,repeatability within cows,and relation between milk and plasma titers[J].Veterinary Immunology & Immunopathology,2011,144(1/2):88-94. [30] GARDNER C D,MESSINA M,KIAZAND A,et al.Effect of two types of soy milk and dairy milk on plasma lipids in hypercholesterolemic adults:a randomized trial[J].Journal of the American College of Nutrition,2007,26(6):669-677.   \n[31] SHARPE S J,GAMBLE G D,SHARPE D N.Cholesterol-lowering and blood pressure effects of immune milk[J].The American Journal of Clinical Nutrition,1994,59(4):929-934.   \n[32] CONESA C,LAVILLA M,SANCHEZ L,et al.Determination of IgG levels in bovine bulk milksamplesfromdifferentregionsofSpain[J].EuropeanFoodResearchand Technology,2005,220(2):222-225.   \n[33] 杨晋辉,张军民,卜登攀,等.不同牛场春季和夏季牛奶中IgA、IgM和乳铁蛋白的调查[J]. 华中农业大学学报,2013,32(3):94-98.   \n[34] SZWAJKOWSKA M,WOLANCIUK A,BARLOWSKA J,et al.Bovine milk proteins as the source of bioactive peptides influencing the consumers’ immune system-a review[J].Animal Science Papers and Reports,2011,29(4):269-280.   \n[35] APPUHAMY J A D R N,NAYANANJALIE W A,ENGLAND E M,et al.Effectsof AMP-activated protein kinase (AMPK) signaling and essential amino acids on mammalian target of rapamycin (mTOR) signaling and protein synthesis rates in mammary cells[J].Journal of Dairy Science,2014,97(1):419-429.   \n[36] OAKHILL J S,SCOTT J W,KEMP B E.AMPK functions as an adenylate charge-regulated protein kinase[J].Trends in Endocrinology & Metabolism Tem,2012,23(3):125-132.   \n[37] FREDERICH M,O'ROURKE M R,FUREY N B,et al.AMP-activated protein kinase (AMPK) inthe rock crab,Cancer irroratus:an early indicator of temperature stressJ].Journal of Experimental Biology,2009,212(5):722-730.   \n[38]LI M,CHENG J B,SHI B L,etal.Effectsofheatstressonserum insulin,adipokines,AMP-activated protein kinase,and heat shock signal molecules in dairy cows[J].Journal of Zhejiang University:Science B,2015,16(6):541-548.   \n[39] XIAO B,SANDERS M J,CARMENA D,et al.Structural basis of AMPK regulation by small molecule activators[J].Nature Communications,2013,4:3017.   \n[40] 李真,李庆章.奶山羊乳腺发育过程中生长激素、胰岛素及其受体的变化规律研究[J].中国 农业科学,2010,43(8):1730-1737. [41] 王珊珊,王加启,高海娜,等.腺苷酸活化蛋白激酶/哺乳动物雷帕霉素靶蛋白信号通路介导 能量和必需氨基酸调控乳蛋白合成[J].动物营养学报,2015,27(8):2342-2348.   \n[42] BURGOS S A,KIM J J,DAI M,et al.Energy depletion of bovine mammary epithelial cells activatesAMPK and suppressesprotein synthesisthrough inhibition ofmTORC1 signaling.[J].Hormone & Metabolic Research,2013,45(3):183-189.   \n[43] COLLIER R J,MILLER M A,MCLAUGHLIN C L,et al.Effects of recombinant bovine somatotropin (rbST) and season on plasma and milk insulin-like growth factors I (IGF- I ） and II (IGF-II) in lactating dairy cows[J].Domestic Animal Endocrinology,2008,35(1):16-23. [44] HU H,ZHANG Y D,ZHENG N,et al.The effect of heat stress on gene expression and synthesis of heat-shock and milk proteins in bovine mammary epithelial cels[J].Animal Science Journal,2016,87(1):84-91.   \n[45] 陈强,李忠浩,王根林.奶牛HSP70基因多态性与生产性能的关系[J].江西农业学 报,2007,19(7):84-86.   \n[46] HU H,WANG J Q,GAO H N,et al.Heat-induced apoptosis and gene expresson in bovine mammary epithelial cells[J].Animal Production Science,2015,56(5):918-926.   \n[47] 周振峰,崔瑞莲,王加启,等.热应激对体外培养奶牛乳腺上皮细胞生长、凋亡及其热休克 蛋白mRNA转录的影响[J].畜牧兽医学报,2010,41(5):600-607.   \n[48] 胡菡,王加启,李发弟,等.高温诱导体外培养奶牛乳腺上皮细胞的应激响应[J].农业生物技 术学报,2011,19(2):287-293.   \n[49] 高胜涛,郭江,权素玉,等.热应激通过诱导奶牛乳腺细胞凋亡减少乳蛋白[J].动物营养学 报,2016,28(5):1615-1625.   \nEffects of Heat Stress on Milk Protein Content and Components in Cow's Milk and Its Mechanisms   \nZHOU Xu1.2.3MIN Li1.2ZHAO Shengguo1.2\\*ZHENG Nan1,2WANG Jiaqi1,2 YANG Kailun3 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1. State Key Laboratory of Animal Nutrition, Institute of Animal Science, Chinese Academy of Agricultural Sciences,Beijing 1Oo193, China;2. Ministry ofAgriculture-Milk Risk Assessment Laboratory, Institute of Animal Science, Chinese Academy of Agricultural Sciences, Beijing 100193, China; 3. College of Animal Science, Xinjiang Agricultural University, Urumqi 830052, China) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Heat stress not only affects the health of dairy cows,but also leads to the “heat-stressed milk protein decrease syndrome” and reduces the milk nutritional quality further. In this paper, the research advances of the effects of heat stress on milk protein content and casein and whey protein components in cow milk were reviewed, and the mechanisms of the “heat-stressed milk protein decrease syndrome” induced by heat stress were summarized,，which provided a reference for ameliorating heat stress in dairy cows and improving the milk quality. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Key words: heat stress; cow; heat-stressed milk protein decrease syndrome; mechanism ",
+        "page_idx": 11
+    }
+]

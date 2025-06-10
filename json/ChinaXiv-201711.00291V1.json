@@ -1,0 +1,239 @@
+[
+    {
+        "type": "text",
+        "text": "作物多样性种植对农田害虫及天敌的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "董文霞　肖　春 李成云 水\\* ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(云南生物资源保护与利用国家重点实验室/云南农业大学植物保护学院昆明650201)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要作物多样性种植在中国有着古老而悠久的历史，在现代农业生产中仍发挥着重要作用。近几年，利用多样性种植控制虫害成为全世界农业研究的热点之一。作物多样性种植直接影响农田害虫的发生、危害、行为。许多研究表明，农作物多样性种植，害虫数量和危害程度都有不同程度的减轻。但也有一些研究表明，作物多样性种植不仅不能减轻害虫的危害程度，甚至还会加重其危害程度。多样性种植不仅影响天敌昆虫数量，而且影响其寄生率或捕食率，并通过影响其定向行为、搜索行为、转移行为等影响其活动能力。本文总结了近年来作物多样性种植对农田害虫及天敌的影响方面的研究结果，并讨论了该领域研究的前景及目前存在的问题。本文还介绍了作物多样性种植对昆虫影响机制的7种假说(物理阻隔假说、视动反应假说、寄主植物气味掩盖假说、驱避性化学物质假说、植物气味组成改变假说、天敌假说、资源密度假说)和1种理论(适宜性/非适宜性降落理论)，这些假说和理论在一定程度上能够阐明多样性种植对昆虫的影响机理，但是没有一种假说或理论能够全面阐明多样性种植控制害虫的生态机制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词作物多样性种植害虫天敌昆虫农业生态系统种群行为中图分类号：Q969.93 文献标识码：A 文章编号：1671-3990(2016)04-0435-08",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effect of diversified cropping on insect pests and natural enemies in agroecosystems ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DONG Wenxia, XIAO Chun, LI Chengyun\\*\\* (NationalKeyLaboratoryforConservationand UtilizationofBiological Resources inYunnan/Collgeof PlantProtection, Yunnan Agricultural University,Kunming 650201,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractThe historyof diversifiedcroppngcan be datedback totheeraof man'sevolution that folowed huntingand gathering,and this form of cropping hasstood thetestof times to be stillasan important farming practice in modern agriculture.In recent years,to control insect pests using diversified cropping has been the focus of agricultural research. Diversified cropping has direct effct onthe ourrences，damages and behaviorsof insect pests.Many researches have indicatedthat diversified croppingreduces,toalarge extent,the occurrencesand damages of insect pests.Ithas beennoted in some cases,however,that diversified cropping systems fail to reduce or even increase insect pest damages to crops. Diversified cropping affects notonly natural enemy populations,but also parasitic and predation rates of the populations. Diversified cropping also influences natural enemies bydisturbing theorientation,foragingand dispersal behaviorsof the enemies.This studysummarized the efects of diversified croppngon insect pests and natural enemies in agroecosystems. Fromareviewof domesticand internationalresearchreports,thestudyalso highlighted current problems and future researchs on diversified cropping systems.Seven hypotheses (physical obstruction,visual camouflage,host plant odor masking,usingrepellentchemicals,alteringhostplantodorprofiles,enemy hypothesisandresourceconcentrationhypothesis) andone theory (appropriate/inapropriate landing)were introducedregarding therelationship betwee diversified cropping and insect pests.The hypothesis and theory largely explained therelationship,but noneof them was fullyelucidated the mechanisms of the effects of diversified cropping on insect pests and natural enemies in agroecosystems. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeyWordsCrop; Diversified cropping; Insect pest; Natural enemy; Agroecosystem; Population behavior ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "作物多样性种植在中国有着古老而悠久的历史在现代农业生产中多样性种植仍然发挥着重要的作用。应用生物多样性与生态平衡的原理，进行农作物遗传多样性、物种多样性的优化布局和种植，能增加农田的物种多样性和农田生态系统的稳定性[1],可有效减轻作物虫害的危害[2]。特别是近年来，随着环境安全、食品安全和资源保护意识的不断提升，人们对生物多样性更加重视，利用多样性种植控制虫害，减少化学农药的使用成为国内外农业研究的热点之一[3-5]。本文对近年来作物多样性种植对农田害虫及天敌昆虫影响的研究结果进行了整理，希望能够为今后的深入研究和技术开发提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1作物多样性种植对害虫的影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1作物多样性种植对农田害虫发生和危害的影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一些研究表明农作物合理间套作，害虫数量和危害程度都有不同程度地减轻。目前已经有不少通过合理间作，成功控制害虫危害的例子(表1)。通常认为，作物间作能够减轻部分害虫危害的原因之一是多样性种植会形成对害虫不利的农田小环境，害虫在不同种作物间的自由活动也受到一定限制。更为重要的是，多样性种植可能从4个方面影响昆虫的种群数量：害虫被引诱到经济价值低、受害轻的作物上；害虫寻找寄主的行为可能受到间作作物的干扰；气味植物对害虫的驱避作用，特别是蔬菜作物间作可能会提高天敌的作用；其中一种间作作物能够为天敌提供花蜜和花粉或者间作作物靠近地面的地方荫蔽和潮湿的环境有利于地面上捕食性天敌的生存。表1归纳了文献报道的对控制害虫有效的多样性种植模式。其中有玉米(Zea mays)、小麦(Triticumaestivum)等主要粮食作物的害虫，也有甘蔗(Saccharum sinense)、豆类(Leguminosae)等经济作物上的害虫，还有甘蓝(Brassica oleracea)、番茄(Solanum lycopersicum)、黄瓜(Cucumis sativus)等蔬菜上的害虫。防治对象的种类也十分繁多，涉及蛀茎蛾类、棉铃虫(Helicoverpa armiger)、金龟子(Popilliajapanica)、蚜虫(Aphidoidea)、跳甲(Phyllotretastriolata)、白蚁(Microtermesspp.)等。尤其值得注意的是，蛀茎蛾类、小菜蛾(Plutella xylostella)等利用普通化学农药防治的难度较大，利用生物多样性进行控制优势更大，而且有时一种组合可以同时控制几种害虫。由此可见，作物多样性种植控制害虫、保护天敌的潜力很大，不但可以节约防治害虫的成本，还可以保护生态环境及其中的天敌昆虫，是未来害虫控制的重要研究方向。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "但也有一些研究表明间套作对不能减轻害虫的危害程度，甚至会加重其危害程度。与玉米单作田相比，玉米与马铃薯(Solanumtuberosum)间作田中欧洲玉米螟(Ostrinianubilalis)早期危害轻，晚期危害重[41]。与香蕉(Musa paradisiaca)单作相比，香蕉与豆科作物[白刀豆(Canavalia ensiformis)，刺毛黎豆(Mucuna pruriens),非洲山毛豆(Tephrosia vogelii)]间作对香蕉根茎象甲(Cosmopolites sordidus)的种群数量和危害程度没有影响[42]。苜蓿叶象甲(Hyperapostica)的数量在紫花苜蓿(Medicago sativa)单作田和紫花苜蓿/无芒雀麦(Bromus inermis)间作田之间没有显著差异[37]。四季豆(Phaseolus vulgaris)与冬小麦间作田牧草盲蝽(Lygus lineolaris)和小跳甲(Systena frontalis)的虫口密度增加[19]。在燕麦(Avenasativa)和蚕豆(Vicia faba)混作田中，禾谷缢管蚜(Rhopalosiphum padi)种群高峰期的虫口密度高于单作田中的虫口密度[43]。葱谷蛾(Acrolepia assectella)在单作甘蓝(寄主植物)和与红花三叶草(Trifoliumpratense，非寄主植物)间作的甘蓝上的产卵量相同[44]。条带间作大豆(Glycinemax)或玉米不能显著减少稻飞虱[白背飞虱(Sogatellafurcifera)、褐飞虱(Nilaparvata lugens)、灰飞虱(Laodelphax striatellus)]的个体数量[45]。果棉[枣树(Zizyphus jujuba)-棉花(Gossypium hirsutum)、巴旦木(Amygdalus communis)-棉花、核桃(Juglansregia)-棉花]间作导致蚜虫[棉长管蚜(Acyrthosiphon gossypiii)、棉蚜(Aphisgossypii)、棉黑蚜(A.atrata)呈重发态势[46]。甘蔗田间作大豆并不能减轻绿鳞象甲(Hypomecessquamosus)成虫的种群密度，甚至可能因为间作使得甘蔗田寄主更加丰富，为成虫在不同时期提供充足营养物质，出现从大豆植株转移至甘蔗植株上为害的现象[47]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2作物多样性种植对农田害虫行为的影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "多样性种植对农田害虫的影响及其作用机制很大程度上取决于害虫的生物学特性和行为反应。因此，要想通过作物多样性种植达到控制害虫的目的，就必须了解多样性种植对害虫行为的影响。许多研究表明多样性种植主要通过干扰害虫(植食性昆虫)的定向、交配、产卵、转移等行为影响其在作物上定居和繁殖，进而影响其对作物的危害程度[48]。作物多样性种植对植食性昆虫(即害虫)行为的影响，笔者已经做过详细的综述[48]，这里不再赘述。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/4c62b39421e14e6fc5913ea80fcbbb6597baa3a3673b10bad3dec66050cac0fa.jpg",
+        "table_caption": [
+            "表1作物多样性种植控制害虫的成功范例 Table 1Successful examples of pest insects controlling by diversitified intercropping of crops "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>作物多样性组合 Crop combination</td><td>控制的害虫种类 Target pest insect</td><td>参考文献 Reference</td></tr><tr><td>玉米-大豆间作 Maize-soybean intercropping</td><td>日本金龟子Popillia japanica</td><td>[6]</td></tr><tr><td rowspan=\"6\"></td><td>墨西哥豆瓢虫 Epilachna varivesti</td><td>[6]</td></tr><tr><td>棉铃虫 Helicoverpa armiger</td><td>[7]</td></tr><tr><td></td><td></td></tr><tr><td>蛀茎蛾类 Stem borer</td><td>[8]</td></tr><tr><td>白蚁 Microtermes spp.</td><td>[9]</td></tr><tr><td>玉米禾螟 Chilo partellu</td><td>[10]</td></tr><tr><td rowspan=\"3\">玉米-豌豆间作 Maize-cowpea intercropping</td><td>玉米禾螟 Chile partellu</td><td>[11]</td></tr><tr><td>螟蛾、非洲大螟 Chile orichalcociliellus,Sesamia calamistis</td><td>[8]</td></tr><tr><td>蛀茎蛾类 Stem borers</td><td>[8]</td></tr><tr><td>玉米-木薯间作 Maize-cassava intercropping 玉米-花生间作 Maize-peanut intercropping</td><td>白蚁 Microtermes spp.</td><td></td></tr><tr><td>玉米-糖蜜草间作 Maize-molasses grassintercropping</td><td>玉米禾螟、玉米楷夜蛾 Busseola fusca,Chile partellus</td><td>[9] [12-13]</td></tr><tr><td>高粱-大豆间作 Sorghum-soybean intercropping</td><td>日本金龟子 Popillia japanica</td><td>[14]</td></tr><tr><td>高梁-扁豆间作 Sorghum-lablab intercropping</td><td>玉米禾螟 Chile partellu</td><td>[15]</td></tr><tr><td>高梁-豌豆间作</td><td>玉米禾螟 Chile partellu</td><td>[15]</td></tr><tr><td>Sorghum-cowpea intercropping</td><td>非洲蓟马 Megalurothrips sjostedti</td><td>[16]</td></tr><tr><td>甘蔗-绿豆间混作 Sugarcane-greengram companion cropping</td><td>蛀茎蛾类 Sugarcane borers</td><td>[17]</td></tr><tr><td>甘蔗-印度麻间混作 Sugarcane-sunnhemp companion cropping</td><td>蛀茎蛾类 Sugarcane borers</td><td>[17]</td></tr><tr><td>甘蔗-玉米间作 Sugarcane-maize intercropping</td><td>甘蔗绵蚜 Ceratovacuna lanigera</td><td>[18]</td></tr><tr><td>蚕豆-小麦间作 Faba bean-wheat intercropping</td><td>马铃薯小绿叶蝉、豆卫矛蚜 Empoasca fabae,Aphis fabae</td><td>[19]</td></tr><tr><td>蚕豆-罗勒间作 Faba bean-Ocimum basilicum intercropping</td><td>黑豆蚜Aphis faba</td><td>[20]</td></tr><tr><td>蚕豆-小麦间作 Faba bean-wheat intercropping</td><td>南美斑潜蝇 Liriomyza huidobrensis</td><td>[21]</td></tr><tr><td>小麦-棉花套作 Wheat-coton relay intercropping</td><td>棉蚜 Aphis gossypii</td><td>[22]</td></tr><tr><td>小麦-大蒜间作 Wheat-garlic intercropping</td><td>麦长管蚜 Sitobion avenae</td><td>[23-24]</td></tr><tr><td>小麦-油菜间作 Wheat-oilseed rape intercropping</td><td>麦长管蚜 Sitobion avenae</td><td>[23]</td></tr><tr><td>Whea-wheat(</td><td>麦长管蚜 Sitobion avenae</td><td></td></tr><tr><td>甘蓝-番茄间作 Cabbage-tomato intercropping</td><td></td><td>[25]</td></tr><tr><td>甘蓝-甜椒间作 Cabbage-sweet pepper intercropping</td><td>小菜蛾Plutella xylostella</td><td>[26]</td></tr><tr><td>甘蓝-花生间作 Cabbage-peanut intercropping</td><td>小菜蛾Plutella xylostella</td><td>[27]</td></tr><tr><td>甘蓝-豌豆间作 Cabbage-pea intercropping</td><td>小菜蛾Plutella xylostella</td><td>[27]</td></tr><tr><td>甘蓝-草木犀套作 Cabbage-sweet colver interplanting</td><td>小菜蛾Plutella xylostella</td><td>[27]</td></tr><tr><td>甘蓝-红三叶草间作 Cabbage-red clover intercropping</td><td>菜粉蝶、菜螟 Artogeia rapae,Hellula undalis</td><td>[28]</td></tr><tr><td></td><td>萝卜地种蝇Delia floralis</td><td>[29]</td></tr><tr><td>羽衣甘蓝-四季豆间作 Collard-bean intercropping</td><td>小菜蛾Plutella xylostella</td><td>[30]</td></tr><tr><td>羽衣甘蓝-洋葱间作 Collard-onion intercropping</td><td>小菜蛾Plutella xylostella</td><td>[30]</td></tr><tr><td>燕麦-三叶草间作 Oat-clover intercropping</td><td>瑞典秆蝇 Oscinella frit</td><td>[31]</td></tr><tr><td>胡萝卜-洋葱混作 Carrot-onion mixed cropping 番茄-芹菜间作 Tomato-celery intercropping</td><td>胡萝卜蝇、烟粉虱 Psila rosae,Thrips tabaci</td><td>[32]</td></tr><tr><td>黄瓜-芹菜间作 Cucumber-celery intercropping</td><td>温室粉虱 Trialeurodes vaporariorum</td><td>[33]</td></tr><tr><td>花椰菜-番茄间作 Cauliflower-tomato intercropping</td><td>温室粉虱 Trialeurodes vaporariorum</td><td>[33]</td></tr><tr><td>辣椒-甘蔗间作 Pepper-sugarcane intercropping</td><td>菜蚜、黄曲条跳甲 Lipaphis erysimi,Phyllotreta striolata</td><td>[34]</td></tr><tr><td>花椒-大豆间作 Chinese red pepper-soybean intercropping</td><td>南美斑潜蝇 Liriomyza huidobrensis</td><td>[35]</td></tr><tr><td>花椒-马铃薯间作 Chinese red pepper-potato intercropping</td><td>桑拟轮蝓 Pseudaulacaspis pentagona 桑拟轮蝓 Pseudaulacaspis pentagona</td><td>[36]</td></tr><tr><td>紫花苜蓿-鸭茅草间作 Alfalfa-orchardgrass intercropping</td><td>苜蓿叶象甲、马铃薯小绿叶蝉 Hypera postica,Empoasca fabae</td><td>[36]</td></tr><tr><td>紫花苜蓿-无芒燕麦间作</td><td></td><td>[37]</td></tr><tr><td>Alfalfa-smooth bromegrass intercropping</td><td>马铃薯小绿叶蝉 Empoasca fabae</td><td>[37]</td></tr><tr><td>南瓜-玉米-豌豆混作 Squash-maize-cowpea mixed cropping</td><td>甜瓜绢野螟Diaphania hyalinata</td><td>[38]</td></tr><tr><td>Feelo</td><td>茴香蚜Hyadaphis foeniculi</td><td>[39-40]</td></tr><tr><td>葡萄-烟草间作 Grape-tobacco intercropping</td><td>葡萄根瘤蚜Daktulosphaira vitifoliae</td><td>[5]</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2作物多样性种植对天敌昆虫的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1作物多样性种植对天敌昆虫数量和寄生率或者捕食率的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "作物多样性种植能够显著增加天敌昆虫的数量。例如，与胡萝卜(Daucus carota)、洋葱(Allium cepa)单作相比，胡萝卜蝇的捕食性天敌步甲(Bembidionspp.)和隐翅甲(Aleochara bipustulata)在洋葱-胡萝卜间作田中的诱捕数量较高[32]。在葱地种蝇(D.brassicae)幼虫期，尽管在芸苔属(Brassicas)作物与非芸苔属作物间作田中诱捕到的捕食性天敌步甲(Carabidae)和隐翅甲(Staphylinidae)数量是在芸苔属单作田诱捕到数量的2倍，但天敌对降低种蝇卵数量的作用却相同[49]。甘蔗-玉米间作能显著提高捕食性瓢虫(Coccinellidae)的种群密度[18]；而辣椒(Capsicumannuum)与甘蔗间作能显著提高南美斑潜蝇的寄生蜂[豌豆潜蝇姬小蜂(Diglyphusisaea)、潜蝇茧蜂(Opius sp.)、异角短胸潜蝇姬小蜂(Hemiptarsennsvaricornis)]的虫口密度[35]。在南瓜(Cucurbitamoschata)-玉米-豌豆(Pisum sativum)混作田中，诱捕到的寄生蜂数量比南瓜单作田高一倍以上[38]。间作番茄花椰菜(Brassica oleracea var.botrytis)的田中菜蛾绒茧蜂(Cotesiaplutellae)的数量显著增加[34]。不同抗性品种的小麦间作，蚜茧蜂[燕麦蚜茧蜂(Aphidius avenae)、烟蚜茧蜂(Aphidius gifuensis)]的平均数量增加[25]。甘蓝与蚕豆、田芥菜(Brassicakaber)间作时，田间可维持6种捕食性、8种寄生性天敌，而单作时田间天敌较少，只有3种捕食性、3种寄生性天敌[50]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "作物多样性种植还能显著提高捕食性天敌的捕食率以及寄生性天敌对害虫的寄生率。例如，洋葱和瓜尔豆(Cyamopsistetragonoloba)是防治茄子(Solanummelongena)主要害虫的最佳间作作物，洋葱叶片的丙酮提取液和瓜尔豆花的丙酮提取液能够显著提高螟黄赤眼蜂(Trichogrammachilonis)的寄生率(对照为 $50 . 3 \\%$ ，提取液处理分别为 $8 2 . 7 \\%$ 、 $7 4 . 3 \\%$ 和普通草蛉(Chrysoperla carnea)的捕食率(对照为$5 9 . 1 \\%$ ，提取液处理分别为 $9 2 . 1 \\%$ 、 $89 . 7 \\%$ )[51]。玉米与红薯(Ipomoea batatas)间作，也能提高螟黄赤眼蜂(Trichogramma chilonis)对亚洲玉米螟(Ostriniafurnacalison)的寄生率[52]。玉米与鹰嘴豆(Cicerarietinum)间作，螟黄足盘绒茧蜂(Cotesia flavipes)对玉米禾螟的寄生率随着鹰嘴豆种植比例的增加而增加[10]。南瓜-玉米-豌豆混作田中，甜瓜绢野螟的卵被寄生蜂寄生的比例达 $33 \\%$ 、幼虫被寄生率高达 $59 \\%$ 而在南瓜单田中的寄生率则分别是 $1 1 \\%$ （ $2 9 \\% ^ { [ 3 8 ] }$ 。夏玉米间作匍匐型绿豆(Vignaradiata)能显著提高玉米螟赤眼蜂(Trichogramma ostriniae)对亚洲玉米螟的寄生率[53]，辣椒与甘蔗间作能够显著提高寄生蜂(豌豆潜蝇姬小蜂、潜蝇茧蜂、异角短胸潜蝇姬小蜂)对南美斑潜蝇的寄生率[35]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "也有部分研究表明，作物多样性种植对天敌数量或者其寄生率(捕食率)没有影响。例如，捕食性天敌的捕食率和寄生性天敌的寄生率，在甘蓝-三叶草间作田中与甘蓝单作田中没有显著差异[29]。条带间作大豆或玉米，也不能显著增加缨小蜂[稻虱缨小蜂(Anagrus nilaparvatae)、伪稻虱缨小蜂(Anagrusparanilaparvatae)、长管稻虱缨小蜂(Anagruslongitubulosas)]的种群数量[45]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2作物多样性种植对天敌昆虫行为的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "作物多样性种植对天敌昆虫的影响主要表现在对活动能力、定向行为、搜索行为、转移行为等方面，进而影响其对害虫的捕食率或寄生率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "高粱与木豆(Cajanuscajan)间作的笼罩试验表明：淡翅小花蝽(Orius tantillus)在高梁(Sorghumbicolor)花上的活动能力显著高于在其他部位活动能力，也高于在木豆上的活动能力。因此，淡翅小花蝽在高粱上对棉铃虫幼虫的捕食能力强于在木豆上[54]。玉米单作时，红斑瓢虫(Coleomegilla maculata)对欧洲玉米螟卵块的捕食率很高，而玉米与豆类、南瓜间作时捕食率反而下降。这是由于红斑瓢虫在没有卵块的植株(豆类、南瓜)上花了更多的时间寻找食物造成捕食效率下降。即使是单作模式下单株玉米螟卵量相同，由于间作模式下无效搜索时间增加，瓢虫对玉米螟卵块的捕食率也会显著下降。搜索效率下降的另外一个结果是促进红斑瓢虫更快地迁出间作田[55]。胡萝卜地种蝇的捕食性天敌步甲和隐翅甲在甘蓝单作田在比甘蓝-三叶草间作中更为活跃[29]。谷类作物与糖蜜草(Melinisminutiflora)间作，糖蜜草释放的挥发物对蛀茎蛾的幼虫寄生蜂大螟盘绒茧蜂(Cotesiasesamiae)向寄主定向的行为具有引诱作用，蛀茎蛾幼虫受大螟盘绒茧蜂寄生的寄生率也显著提高[12.56]。与大豆单作田相比，大豆-高秆玉米间作田中的墨西哥豆瓢虫的天敌柄腹姬小蜂(Pediobiusfoveolatus)迁入的少，迁出的多。玉米的高度是导致迁入大豆-高秆玉米间作田寄生蜂少的主要原因[57]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3作物多样性种植对昆虫影响机制的假说和理论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ITIU1能够使农作物上食性范围窄的害虫数量减少的原因，分别为物理阻隔(physical obstruction)、视动反应(visualcamouflage)、寄主植物气味掩盖(maskingof hostplant odours)、驱避性化学物质(repellent chemicals)、植物气味组成改变(altering the profiles of the hostplant odours)、天敌假说(enemy hypothesis)、资源密度假说(resource concentration hypothesis)。1)物理阻隔假说认为间作高大的非寄主植物可将寄主植物遮盖住，从而影响害虫向寄主植物的视觉定向和在田间的扩散，导致寄主植物上的植食性昆虫数量降低。2)视动反应假说认为害虫在飞行过程中的降落由两种视觉刺激决定：第1种是对颜色的直接反应,通常是对绿色的反应；第2种是视动反应，害虫降落在其飞行途径上的植物上。其他绿色植物或者高出背景的杂草都成为与寄主植物竞争的视觉刺激，因此寄主植物与背景的距离被缩短，导致对寄主植物的视觉伪装形成。非寄主植物的叶片包围中寄主植物的颜色不明显。最终导致向寄主植物降落的害虫减少。3)寄主植物气味掩盖假说认为非寄主植物释放到空气中的气味能够掩盖寄主植物的气味，使害虫找不到寄主从而起到对寄主植物的保护作用[58]。4)驱避性化学物质假说认为非寄主植物释放气味对寻找寄主植物的害虫具有很强的驱避作用[32],导致向寄主植物定向的害虫数量减少。5)植物气味组成改变假说认为寄主植物从土壤里吸收一些自身不能产生的化学物质，这些物质通过改变寄主植物的生理状态，从而影响害虫在寄主植物上的数量。6)天敌假说认为多样性种植田中植食性昆虫的寄生性天敌和捕食性天敌数量更多、捕食与寄生效果更好，因此植食性昆虫的爆发受到抑制[59]。这是因为与单一种植相比较，多样化种植能为天敌提供更好的生存条件，能在多个时段提供多种多样的花粉和蜜源吸引天敌并增加它们的繁殖能力，当主要害虫减少时，有替代食物源而使天敌继续保留在本系统内。7)资源密度假说认为害虫喜欢在分布比较集中的寄主植物上停留和繁殖后代，多样化种植生境中同时包含有寄主与非寄主作物，以致寄主作物空间分布上不像单作那样密集，且各种作物具有不同的大小、颜色、气味，使得害虫很难在寄主作物上着落、停留与繁育后代[59]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Finch等60对上述7种假说进行了评价，并提出了适宜性/非适宜性降落(appropriate/inappropriatelandings)理论。该理论认为寄主植物的挥发物会导致飞行中的害虫向其降落，如果害虫降落的植物周围是裸露土壤，害虫就降落在寄主植物上。寄主植物也是惟一可供其降落的物体，因为大部分害虫不会降落在棕色物体的表面，例如裸露土壤上。当寄主植物的周围是裸露土壤时，大部分降落为“适宜性降落”，寄主植物对害虫具有聚集效应。而寄主植物周围有非寄主植物存在时，整个土地被寄主植物和非寄主植物所覆盖，飞行中的害虫就无法辨别寄主和非寄主，也会在非寄主上降落，为“非适宜性降落”。然后通过视觉和对植物非挥发性化合物的感受决定是否在降落的植物上停留、产卵，非寄主植物的存在会干扰这些行为，导致其数量降低。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "上述几种假说和理论在一定程度上能够阐明多样性种植对害虫的影响机理，但是没有一种假说或理论能够全面阐明多样性种植控制害虫的生态机制。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4问题与展望",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "随着人们对保护生物多样性迫切性认识的提高，近几年来，作物多样性种植对昆虫的影响方面的研究，无论从深度还是从广度上，都有很大提高。特别值得一提的是，越来越多的研究在尝试阐述多样性种植对农田害虫及其天敌的作用机理[24]。但是，这方面的研究还有待加强，主要表现在以下几个方面：1)缺乏有效的田间试验性的证据表明多样性种植田中害虫数量降低是导致作物产量增加的原因。可喜的是，已经有些研究者在进行这方面的探索[40]。2)作物多样性种植对昆虫的影响因子很多，但几乎所有的研究仅着眼于一两个方面，有必要对各个因子进行全面分析，不但要找出主要因子，而且要明确次要因子的作用。3)全球气候变化是不争的事实，气候变化对植物生理基本功能、植物体内信号分子以及挥发物都具有不同程度的影响，并严重影响作物的产量。臭氧也通过改变植物的原生代谢和次生代谢发生数量而影响害虫的取食偏嗜性、行为、生长和发育，进而影响天敌昆虫的适合度[61]。全球气候变化也必然影响多样性种植田中的害虫及其天敌，但是这方面的研究尚少见报道。4)多样性种植的规模，农田周围的植被、房屋、光源、热源等环境对害虫及其天敌也会产生很大影响，但以前对这些方面的关注不够，尤其是相对准确的定量评价技术还十分缺乏。随着研究技术的发展，遥感、无人机、图片处理等先进技术的使用，可以对农田周围的环境进行测量和评估，将环境因子与农田中作物的因子综合起来分析，可在遗传多样性、物种多样性的基础上，将生境多样性的因子纳入分析，可得到更加系统全面的了解，也可更加精准地制订不同层次多样性的技术方案，达到更好的保护天敌、保护环境，控制有害生物的效果。5)生物多样性对害虫及天敌影响的定量研究。多样性种植对害虫的控制效果有时是缓慢的，甚至是滞后的。不同植物的不同生育阶段对害虫及其天敌不同虫态的影响不同，作物对害虫及其天敌不同虫态发育进程的影响往往是数量性的，因此研究多样性种植需要在系统调查多种因子不同影响的前提下，利用计算机进行模拟，找到最佳种植模式的时间和空间组合，才能充分发挥多样性种植的作用。6)多样性种植技术与其他环境友好型害虫管理技术的结合。同一生产季节同一区域，可能存在多种害虫危害，单一的管理技术可能不能达到有效管控害虫的目标，就需要将生物多样性技术与其他环境友好型技术如物理防治、生物防治等有机结合起来，才能实现有效减少化学农药使用量，优质高产的目标。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献References",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] Zhu Y Y,Chen H R,Fan JH,et al.Genetic diversity and disease control in rice[J].Nature,2002,406(6797):718-722   \n[2]李正跃，阿尔蒂尔瑞 M A，朱有勇．生物多样性与害虫综 合治理[M]．北京：科学出版社,2009 LiZY,AltieriMA,Zhu YY.Biodiversity and Integrated Pest Management[M].Beijing: Science Press,2009   \n[3]Hummel JD.Insect and agronomic responses in canola and wheat intercrops[D].Edmonton,Alberta,Canada:University of Alberta,2010:4-9   \n[4]Bickerton M W. Intercropping for conservation biological control of European corn borer Ostrinia nubilalis Hubner (Lepidoptera: Crambidae）in bell peppers[D].New Jersey, America:Rutgers,2011:1-20   \n[5] Wang Z Y,Su JP, Liu W W,et al. Effects of intercropping vines with tobacco and root extracts of tobacco on grape phylloxera,Daktulosphaira vitifoliae Fitch[J].Journal of Integrative Agriculture,2015,14(7):1367-1375   \n[6]Ugen M A,Wien H C.The effect of mixture proportions and fertilizer nitrogen on morphology，insect pest damage, competition and yield advantages in a maize/bean intercrop[J]. African Crop Science Journal,1996,4(l):41-49   \n[7]岳耀海．间作玉米对控制大豆田棉铃虫的初步观察[J]．农 业科技通讯,1997(12):22-23 Yue Y H.The survey on the control of cotton bollworm in soybean byintercropping withmaize[J]. Bulletinof intercropped maize,stem borer damage to maize yield and land-use efficiency in the humid forest of Cameroon[J]. Bulletin of Entomological Research,2005,95(5): 417-427 [9] Sekamatte B M, Ogenga-Latigo M, Russell-Smith A. Effects of maize-legume intercrops on termite damage to maize, activity of predatory ants and maize yields in Uganda[J]. Crop Protection,2003,22(1): 87-93   \n[10] Belay D，Schulthess F,Omwega C. The profitability of maize-haricot bean intercropping techniques to control maize stem borers under low pest densities in Ethiopia[J].Phytoparasitica, 2009,37(1): 43-50   \n[11] Skovgard H,Päts P. Reduction of stemborer damage by intercropping maize with cowpea[J]. Agriculture, Ecosystems & Environment,1997,62(1):13-19   \n[12]Khan Z R,Ampong-Nyarko K, Chiliswa P,et al. Intercropping increases parasitism of pests[J].Nature,1997,388(6643): 631-632   \n[13] Khan Z R,Pickett JA,van den Berg J,et al. Exploiting chemical ecology and species diversity: Stem borer and striga control for maize and sorghum in Africa[J]. Pest Management Science,2000,56(11): 957-962   \n[14] Holmes D M, Barrett G W. Japanese beetle (Popillia japonica) dispersal behavior in intercropped vs.monoculture soybean agroecosystems[J]. The American Midland Naturalist, 1997, 137(2): 312-319   \n[15] Mahadevan N R,Chelliah S. Influence of intercropping legumes with sorghum on the infestation of the stem borer, Chilo partellus (Swinhoe) in Tamil Nadu, India[J].Tropical Pest Management,1986,32(2): 162-163   \n[16] Ampong-Nyarko K,Reddy K V S,Nyang'or R A,et al. Reduction of insect pest attack on sorghum and cowpea by intercropping[J].Entomologia Experimentalis et Applicata, 1994, 70(2): 179-184   \n[17] Thirumurugan A,Koodalingam K.Management of borer complex in sugarcane through companion cropping under drought condition of Palar river basin area[J]. Sugar Tech, 2005, 7(4): 163-164   \n[18] 张红叶，陈斌，李正跃，等．甘蔗玉米间作对甘蔗绵蚜及瓢 虫种群的影响作用[J]．西南农业学报,2011,24(1):124-127 Zhang H Y,Chen B,Li Z Y,et al. Effect of sugarcane plants intercropped with maize on population of Ceratovacuna lanigera Zehntner and Coccinellidae[J]. Southwest China Journal of Agricultural Sciences,2011, 24(1): 124-127   \n[19] Tingey W M,Lamont WJJr. Insect abundance in field beans altered by intercropping[J].Bulletin of Entomological Research,1988,78(3): 527-535   \n[20] Basedow T,Hua L,Aggarwal N.The infestation of Vicia faba L.(Fabaceae) by Aphis fabae (Scop.) (Homoptera: Aphididae) under the influence of Lamiaceae (Ocimum basilicum L.and Satureja hortensis L.)[J]. Journal of Pest Science,2006,79(3): 149-154   \n[21]李洪谨，陈国华，周惠萍，等．昆明地区蚕豆小麦间作控制 南美斑潜蝇危害的研究[J].云南农业大学学报,2006,21(6): 721-724   \n[22] Ma X M,Liu X X, Zhang QW,et al.Assessment of cotton aphids， Aphisgossypii,and their natural enemieson aphid-resistant and aphid-susceptible wheat varieties in a wheat-cotton relay intercropping system[J]. Entomologia Experimentalis et Applicata,2006,121(3): 235-241   \n[23]王万磊，刘勇，纪祥龙，等．小麦间作大蒜或油菜对麦长管 蚜及其主要天敌种群动态的影响[J]．应用生态学报，2008, 19(6): 1331-1336 Wang WL,Liu Y, JiXL,et al. Effects of wheat-oilseed rape or wheat-garlic intercropping on the population dynamics of Sitobion avenae and its main natural enemies[J]. Chinese Journal of Applied Ecology,2008,19(6): 1331-1336   \n[24] Zhou H B,Chen JL,Liu Y,et al. Influence of garlic intercropping or active emitted volatiles in releasers on aphid and related beneficial in wheat fields in China[J]. Journal of Integrative Agriculture,2013,12(3): 467-473   \n[25]周海波，陈巨莲，刘勇，等．小麦品种多样性对麦长管蚜的 生态调控作用[J]．植物保护学报,2009,36(2):151-156 Zhou H B,Chen JL,Liu Y,et al. Using genetic diversity of wheat varietiesforecological regulation on Sitobion avenae[J].Acta Phytophylacica Sinica,2009,36(2): 151-156   \n[26] ForsytheTG.Successful OrganicPest Control: Environmentally Friendly Ways to Deal with Unwanted Garden Pests and Disease[M].Wellingborough: Thorsons Publishers Ltd.,1990   \n[27] Madriaga C S.Abundance of diamondback moth Plutella xylostella L.and its natural enemies in different cabbagebasedcroppingsystems[D].Phillippines:Philippines University,1994   \n[28] Hooks C R R,Johnson M W. Population densities of herbivorous lepidopterans in diverse cruciferous cropping habitats:Effects of mixed cropping and using a living mulch[J].BioControl,2006,51(4): 485-506   \n[29]Bjorkman M,Hambäck P A,Hopkins R J,et al.Evaluating the enemies hypothesis in a clover-cabbage intercrop:Effects of generalist and specialist natural enemies on the turnip root fly (Delia floralis)[J]. Agricultural and Forest Entomology, 2010,12(2): 123-132   \n[30] Said M, Itulya F M. Intercropping and nitrogen management effects on diamondback moth damage and yield of collards in the highlands of Kenya[J].African Crop Science Journal, 2003,11(1): 35-42   \n[31]Adesiyun AA.Effects of intercrop on frit fly,Oscinella frit, oviposition and larval survival on oats[J].Entomologia Experimentalis et Applicata,1979,26(2): 208-218   \n[32]Uvah III,Coaker T H. Effect of mixed cropping on some insectpestsofcarrotsandonions[J].Entomologia Experimentalis et Applicata,1984,36(2):159-167   \n[33]朱培祥，刘美昌，秦玉川，等．保护地间作芹菜对温室粉虱 Zhu P X,Liu MC,Qin Y C,et al. Control effects of whitefly by intercropping celery in greenhouse[J].Chinese Bulletin of Entomology,2011,48(2): 375-378   \n[34]夏哼，杨广，尤民生．间作番茄对花椰菜田主要害虫和天 敌的调控作用[J]．昆虫学报,2015,58(4):391-399 Xia N, Yang G, You M S. Regulation of dominant insect pests and natural enemies by intercropping tomato in cauliflowerbased fields[J]. Acta Entomologica Sinica,2015,58(4): 391-399   \n[35] Chen B,Wang JJ, Zhang L M,et al. Effect of intercropping pepper with sugarcane on populationsof Liriomyza huidobrensis (Diptera: Agromyzidae） and its parasitoids[J]. Crop Protection,2011,30(3): 253-258   \n[36] 宋家雄，石安宪，张汉学，等．间作大豆、马铃薯对花椒园 中桑拟轮蚣的控制效果及增产作用[J]．植物保护学报, 2014,41(2): 192-196 Song JX,Shi AX, Zhang H X,et al.Effects of Zanthoxylum bungeanum intercropped with soybeans and potatoes on yield increase and control of white peach scale Pseudaulacaspis pentagona in gardens[J].Acta Phytophylacica Sinica,2014, 41(2): 192-196   \n[37]DeGooyer T A,Pedigo L P,Rice ME. Effect of alfalfa-grass intercrops on insect populations[J]. Environmental Entomology, 1999,28(4): 703-710   \n[38] Letourneau D K. The effects of vegetational diversity on herbivorous insects and associated natural enemies: Examples from tropical and temperate agroecosystems[D]. Berkely: University of Calinfornia,1983   \n[39] Ramalho F S,Fernandes F S,Nascimento A R B,et al. Assessment of fennel aphids (Hemiptera:Aphididae) and their predators in fennel intercropped with cotton with colored fibers[J]. Journal of Economical Entomology,2012,105(1): 113-119   \n[40] de Sousa Ramalho F,Malaquias JB,dos Santos Brito B D,et al.Assessment of the attack of Hyadaphis foeniculi (Passerini) (Hemiptera:Aphididae） on biomass,seed and oil in fennel intercropped with cotton with colored fibers[J]. Industrial Crops and Products,2015,77: 511-515   \n[41] Umeozor O C, Bradley JR Jr, van Duyn JW,et al. Intercrop effects on the distribution of populations of the European corn borer,Ostrinianubilalis,inmaize[J].Entomologia Experimentalis et Applicata,1986,40(3):293-296   \n[42] McIntyre B,Gold C,Kashaija I,et al. Effects of legume intercrops on soil-borne pests,biomass，nutrients and soil water in banana[J]. Biology and Fertility of Soils,20o1,34(5): 342-348   \n[43] Helenius J. Insect numbers and pest damage in intercrops vs. monocrops: Concepts and evidence from a system of Faba bean,oats and Rhopalosiphum padi (Hornoptera,Aphididae)[J]. Journal of Sustainable Agriculture,1991,1(3): 57-80   \n[44] Asman K,Ekbom B,Rämert B.Effect of intercropping on oviposition and emigration behavior of the leek moth (Lepidoptera: Acrolepiidae） and the diamondback moth (Lepidoptera:Plutelldae)[J].Environmental Entomology, 2001,30(2): 288-294   \n[45]姚凤銮，郑云开，林胜，等．水稻田条带间作大豆、玉米对 稻飞虱和缨小蜂种群数量的影响[J]．福建农林大学学报: 自然科学版,2012,41(4):459-464 Yao FL,Zheng YK,Lin S,et al. Effects of rice intercropped with soybean and maize on the population abundance of rice planthoppersand their egg parasitoids，Anagrusspp.[J]. Journal ofFujian Agriculture and Forestry University: Natural Science Edition,2012,41(4): 459-464   \n[46]蔡志平，张栋海，李克福，等．果棉间作对害虫种群数量的 影响[J].中国棉花,2011,38(4):32-33 Cai ZP, Zhang D H,LiKF,et al.Effect of intercropping of cotton and fruit on pest population[J]. China Coton, 2011, 38(4): 32-33   \n[47]杨乃博，伍苏然，熊国如，等．绿鳞象甲在甘蔗大豆间作田 种群分布及取食性研究[J].广东农业科学，2014，41(13): 63-66 Yang N B,Wu SR,Xiong G R,et al.Population distribution and food choice of Hypomeces squamosus in sugarcanesoybean intercropping[J]. Guangdong Agricultural Sciences, 2014,41(13): 63-66   \n[48]董文霞，徐宁，肖春．作物多样性种植对植食性昆虫行为 的影响[J]．应用昆虫学报,2013,50(4):1133-1140 Dong W X, Xu N, Xiao C. The efect of diversified cropping on phytophagous insect behavior[J].Chinese Bulletin of Entomology,2013,50(4): 1133-1140   \n[49] Tukahirwa E M, Coaker T H. Effect of mixed cropping on some insect pests of brassicas;reduced Brevicoryne brassicae infestations and influences on epigeal predators and the disturbance of oviposition behaviour in Delia brassicae[J]. Entomologia Experimentalis et Applicata,1982，32(2): 129-140   \n[50] Altieri M A, Letourneau D K,Risch S J. Vegetation diversity and insect pest outbreaks[J].Critical Reviews in Plant Sciences,1984,2(2): 131-169   \n[51]Elanchezhyan K,Baskaran RK M,Rajavel D S.Kairomone effect of acetone extracts of intercrops on Chrysoperla carnea (Stephens） and Trichogramma chilonis Ishii[J].Journal of Entomological Research,2009,33(1): 51-54   \n[52] Nafus D,Schreiner I. Intercropping maize and sweet potatoes, elects on parasiuzauon ol Ostrinia jurnacaus eggs oy Trichogramma chilonis[J].Agriculture,Ecosystems& Environment,1986,15(2/3):189-200   \n[53]周大荣，宋彦英，王振营，等．玉米螟赤眼蜂适宜生境的研 究与利用II．夏玉米间作匍匐型绿豆对玉米螟赤眼蜂寄生 率的影响[J]．中国生物防治,1997,13(2):49-52 Zhou D R, Song Y Y, Wang Z Y, et al. Study on the preference habitat of Trichogramma ostriniae:II.Effect of summer corn implanted with creeping type mungbean on the parasitic rate[J].Chinese Journal of Biological Control,1997,13(2): 49-52   \n[54]Sigsgaard L,Esbjerg P.Cage experiments on Orius tantillus predation of Helicoverpa armigera[J].Entomologia Experimentalis et Applicata,1997,82(3): 311-318   \n[55]Wetzler R E，Risch S J.Experimental studies of beetle diffusion in simple and complex crop habitats[J]. Journal of Animal Ecology,1984,53(1): 1-19   \n[56] Gohole L S,Overholt WA,Khan ZR,et al.Effects of molasses grass,Melinis minutiflora volatiles on the foraging behavior of the cereal stemborer parasitoid,Cotesia sesamiae[J].Journal of Chemical Ecology,2003,29(3): 731-745   \n[57] Coll M,Bottrell D G. Movement of an insect parasitoid in simpleanddiverseplantassemblages[J].Ecological Entomology,1996,21(2):141-149   \n[58] Tahvanainen JO,Root R B.The influence of vegetational diversity on the population ecology of a specialized herbivore, Phyllotretacruciferae(Coleoptera:Chrysomelidae)[J]. Oecologia,1972,10(4): 321-346   \n[59]Root R B.Organization of a plant-arthropod association in simple and diverse habitats:The fauna of collards (Brassica olercea)[J].Ecological Monographs,1973,43(1): 95-124   \n[60]Finch S,Collier R H.Host-plant selection by insects 一A theory based on ‘appropriate/inappropriate landings’by pest insects of cruciferous plants[J].Entomologia Experimentalis et Applicata,2000,96(2): 91-102   \n[61］董文霞，陈宗懋．大气臭氧浓度升高对植物及其昆虫的影 响[J].生态学报,2006,26(11):3878-3884 Dong W X,Chen Z M. The effect of elevated ozone concentration on plants and insects[J].Acta Ecologica Sinica, 2006,26(11): 3878-3884 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

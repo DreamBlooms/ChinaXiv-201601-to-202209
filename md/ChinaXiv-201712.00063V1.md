@@ -1,0 +1,117 @@
+# 综述
+
+# 胃肠道肿瘤的多光子成像与光学活检
+
+董小玉,刘秀敏,刘张苑珠,严 俊南方医科大学南方医院普外科，广东广州510515
+
+摘要：胃肠道恶性肿瘤手术术式的选择及手术切除范围的确定急需一种原位的、实时的诊断技术来评估肿瘤的浸润深度、转移情况以及外科手术切缘有无癌残留。利用多光子成像技术，多光子显微镜能够提供实时的胃肠道组织结构和细胞形态学信息。多光子成像技术具备无需外源标记组织、对胶原极其敏感、对组织的光损伤小和穿透深度深等特点，其可能应用于胃肠道肿瘤的光学活检。本综述从肿瘤浸润深度、转移情况和外科手术切缘有无癌残留等相关研究角度，旨在综合概述多光子成像技术用于评估胃肠道肿瘤光学活检的可行性以及探讨多光子成像技术可观的发展前景。
+
+关键词：胃肠道肿瘤；多光子成像；光学活检
+
+# Multiphoton imaging and optical biopsy of gastrointestinal tumors
+
+DONG Xiaoyu,LIU Xiumin,LIU Zhangyuanzhu,YAN Jun DepartmentofGeneral Surgery,Nanfanghospital,Southernedicalniversity,Guangzhou5o515,ina
+
+Abstract: The assessment of tumor invasive depth, metastasis andifsurgical marginhadresidual cancer were inurgent need ofaninsitu,eal-timediagnosis technologytodeterminesurgicaltreatmentofgastrointestinal tractmalignanttumorndthe extentof resectionsurgery.Multiphoton microscopycan provide gastrointestial tisue structure and cellmorphologyofrealtimeinformation. Multiphoton imaging technology had no exogenous marker of tissue, was extremelysensitivetocollagen, had light of the tisse damage and deep penetration depth.Such characters enable the technology to be applied in gastrointestinal tumor as anew optical biopsy.Thereview aimed to overview the feasibility of multiphoton imaging for evaluationof gastrointestinal tumor optical biopsyand had a discussion on the development prospect of multiphoton imaging technology considerable.
+
+Keyword: gastrointestinal tumor; multi photon image; optical biopsy
+
+外科根治性切除术作为目前常见的胃肠道肿瘤治疗的有效手段，其对于选择手术术式及明确手术切除的范围需要一种实时的原位的诊断技术来了解肿瘤的良恶性、浸润深度、转移情况及切缘有无癌残留等。术前胃肠镜下活检对于胃肠道肿瘤组织学诊断是一项很重要的诊断证据。与此同时，根据瘤体大小、生长位置、浸润深度等，胃癌的术式分为胃全切、胃次全切、部分胃切除术以及内镜下粘膜或粘膜下切除术等。然而无论用何种手术方式，胃肠镜下活检存在一些不可避免的缺点，比如操作所致的肠管或瘤体出血、人工牵拉或挤压、胃肠镜不能通过导致反复内镜活检以致时间耽搁，若发生严重出血则急需额外急救止血。目前常用的影像学辅助检查手段如CT、MRI等，在临床实践中均无法准确判断早期胃肠道肿瘤的浸润深度及淋巴结转移情况。超声内镜判断胃肠道肿瘤T分期，文献报道其准确性为 $4 4 . 7 \% \sim$ $78 \% ^ { [ 1 - 3 ] }$ ,不足以成为1项可靠的诊断标准。超声内镜还对局部切除手术的术前评判效果不佳，无法精确细分胃肠粘膜层次，且对N分期效果也差[4]。因此，就目前的胃肠道辅助诊断技术来看，寻求一种新的原位实时的诊断技术无疑是一个重大目标[5]。该技术需同时满足了解肿瘤的浸润深度、转移情况以及切缘有无癌残留的要求，从而为胃肠道恶性肿瘤手术术式的选择及确定手术切除范围提供有力依据。
+
+1989年美国康奈尔大学Denk，Strickler和Webb共同发明了多光子显微镜(MPM)[,采用了基于非线性光学和飞秒激光镭射之上的多光子显微成像技术。该技术通过利用活体组织中细胞本身产生的自体荧光及胶原组织产生的二次谐波，可以实时快速地获得标本的组织结构和细胞形态[7]。早在1986年,二次谐波被用于皮肤研究和冠状动脉显微成像研究,证实了其被用于观察生物组织的可行性[8-9]
+
+MPM也可作为癌症研究的一项重要工具[10-1]。细胞本身产生的自体荧光来自细胞内的烟酰胺腺嘌呤二核苷酸(NADH)及黄素腺嘌呤二核苷酸(FAD),NADH发出波长为 $4 6 0 ~ \mathrm { n m }$ ，而胶原二次振荡谐波为$3 7 0 { \sim } 3 9 0 ~ \mathrm { n m }$ ，所以在观察肿瘤标本组织时通常选用$7 4 0 { \sim } 7 8 0 ~ \mathrm { n m }$ 范围的多光子显微镜。MPM成像不仅与标准的肿瘤组织病理学相当，同时也提供了肿瘤新生进程的附加信息，如通过测比率值NADH/FAD可反映肿瘤组织细胞的代谢水平[12]
+
+随着交叉学科的进展，国外著名大学如康奈尔大学、耶鲁大学等均在进行多光子显微成像的转化医学研究[13-16]且希望将其应用于临床，实现肿瘤的实时“光学活检”。伴随激光扫描和图像加工处理技术的出现和发展，多光子显微成像作为一项微创性生物显象技术越来越普及和流行[17-1]。多光子显微技术对组织在细胞和亚细胞水平的成像，无需荧光物质染色辅助成像，此特点备受青睐。多光子成像技术在活体内的临床应用越来越广泛，技术越来越成熟，在组织实时成像上有很好的应用前景。本文着重从多光子成像特点、多光子光学活检、单光子与多光子技术对比等角度出发，阐述多光子显微镜在胃肠道肿瘤中独特成像技术的应用现状以及可行性，挖掘多光子成像技术的未来发展潜能。
+
+# 1临床多光子成像原理及特点
+
+临床常用的胃肠道肿瘤的多光子成像系统主要由激光光源、扫描显微系统、探测系统的3部分组成。激光器的输出波长是可调谐的，范围为 $7 0 0 \sim$ $9 8 0 \mathrm { n m }$ 。激光扫描系统为META探测器，由高质量的反射光栅和32个通道的光电倍增管排列组成。探测系统使用的是放大倍率为63倍、数值孔径为1.4的油浸物镜。油镜下，探测系统搜集样本所反射的光学信号以及聚集分散的TPEF/SHG信号。META有32个独立的通道，每个通道可被随机选择探测发散的信号，探测到任意 $3 7 7 { \sim } 7 1 6 ~ \mathrm { n m }$ 范围信号，即可实现成像。TPEF和SHG两个不同的信号通道分别捕获高对比度的自体荧光物质和胶原结构所反射的频率， $3 9 7 \sim$ $4 1 9 ~ \mathrm { n m }$ 通道通过SHG信号，所得成像显示胶原蛋白组织微结构， $4 3 0 { \sim } 7 1 6 ~ \mathrm { n m }$ 通道可通过TPEF信号，所得成像显示荧光性物质的形态学改变[5]
+
+对荧光物质的多光子激发，荧光分子可同时吸收多个相同频率的光子，辐射出一定频率。因双光子激发所需激光波长大约为单光子激发所需波长的一倍，所以多光子激发能够用红外或者近红外光代替紫外光作为激发光源。故极大地降低了紫外线对生物体生理活动所造成的破坏和影响，对生物样品的光损伤小且对细胞组织的穿透深度深；但不排除由于红外和近红外光源的使用而可能使样品受到热损伤。对于聚焦光束产生的对角锥形激光分布，多光子激发被限制在焦点附近的一个极小区域中，大大减少了对非观测区荧光染料的破坏，实现"点成像”，具有固定的三维成像能力和高空间分辨率[22]。产生多光子吸收的关键是飞秒激光器。高强度激光照射的非线性光学效应观察细胞时，无论在热还是光子能量方面都必须控制在细胞不受损伤的照射量和光能量。从细胞不受损伤的角度出发，采用钛宝石的飞秒激光器能实现平均输出功率 $1 0 \mathrm { m W }$ ，峰值功率 $1 \mathrm { k W _ { o } }$ 产生的热不会导致细胞损伤，且容易发生双光子吸收[23]
+
+除了对组织中自体荧光物质的激发外，通过与非中心对称的生物分子如胶原蛋白相互作用，产生二次谐波的非线性偏振效应，极速飞秒激光镭射也发挥了重要作用。在此过程中，二次谐波振荡(SHG)无人射光吸收和能量丢失，人射光与非中心对称结构相互作用产生的光子恰好是入射光的一半。因为二次谐波的光波波长短于多光子激发的荧光光波波长，在组织成像中，SHG信号能够与自体荧光信号分离从而造成对比。在正常情况下和比常规组织学监测更高敏感性的病理状态下，二次谐波的结构敏感性也能够用于检测胶原蛋白在这两种状态下的转变[12.24-25]。当然,SHG成像更多仅关注于组织中胶原蛋白结构或含量的改变，但在观察和量化不同组织分期包括肝纤维化分期的胶原纤维时，多光子成像的区域则更大[26-29]。对于无需染色的组织样本来说,TPEF/SHG显微镜能低创性扫描组织，故很好地取代了传统的组织学成像[30]。值得一提的是,Gailhouste等[29]也提出SHG成像技术可作为一评估纤维化的新工具，可用于纤维增生的肺、肾、心脏等疾病。
+
+# 2胃肠肿瘤的多光子“光学活检”
+
+# 2.1胃肠道肿瘤浸润深度
+
+癌细胞出现的最低侵袭部位能反应肿瘤浸润深度。就穿透深度深等特点而言，胃肠道肿瘤组织的多光子显微成像用于判断肿瘤浸润深度是可行的。Xu等[1曾对早期阶段肿瘤浸润的食管进行多光子显微成像，使用MPM分别对人体正常食管、原位癌、早期浸润癌进行微结构成像，从而探讨肿瘤早期阶段的组织结构形态学改变。判断肿瘤是否处于早期阶段，在成像中可以将这些形态学特异改变作为诊断依据，如以癌细胞的出现来判断浸润深度以及基底膜是否缺失来区分癌与正常组织。特别是对于诊断原位癌时，虽然基底膜未被破坏但若能在此层发现癌细胞，这使得原先对于原位癌的诊断结果有了争议。由此可见，MPM在细胞水平实现原位实时诊断早期肿瘤已经成为了可能。目前,多光子成像用于在体实时诊断早期胃肠道肿瘤的预实验尚未有研究者开展或者相关文献发表。但食管胃肠同属消化系统，相信不久，MPM同样可以用于胃肠道早期肿瘤成像，借此判断肿瘤的浸润深度。已有研究证实，MPM用于诊断早期结直肠癌是可行的[32]。除此之外,通过与病理切片对比，多光子成像可用于判断晚期肿瘤。Yan等[33通过对突破浆膜层和未突破浆膜层胃癌的多光子实时成像，同时将多光子成像的T4分期结果与内镜的T4分期结果进行比较,并作了统计学分析，主要研究并证实了MPM用于实时诊断突破浆膜层胃癌的特异性、准确性、精确性和可行性。浸润浆膜的胃癌多光子图像显示了胶原结构极不规则、胶原成分显著减少、癌细胞的浸润、胞核多形性及不规则腺管样结构的成像特点。
+
+# 2.2外科手术切缘癌残留
+
+外科手术常需实时评估手术切缘情况,这对于初步评判肿瘤是否实现R0切除有一定指导意义。切缘有无癌残留与手术疗效及患者预后息息相关。切缘阴性一般提示预后较好，故针对切缘易出现癌残留的肿瘤疾病，应给予高度重视。胃癌手术切缘癌残留是指距切缘 $0 . 5 \mathrm { c m }$ 内病理检查可见癌浸润或淋巴管癌栓。胃上部癌、进展型胃癌(肿瘤直径大于或等于 $5 \mathrm { c m }$ 、低分化或未分化型以及浆膜受累的胃癌)易发生切缘癌残留，最根本的预防措施是保证切缘距离肿瘤至少 $5 \mathrm { c m } ^ { [ 3 4 ] }$ 。由于肠道固有的解剖位置关系,对于低位直肠癌的保肛手术，下切缘超过 $5 \ \mathrm { c m }$ 根本无法实现，然而下切缘无癌残留是保肛的必备条件。术后MPM可实时检查切缘是否有癌残留。术中对距离切缘 $0 . 5 \mathrm { c m }$ 或更长范围内的组织进行多光子成像，成像中若出现肿瘤细胞或不规则结构，应高度怀疑切缘阳性,这对于低位直肠癌是否能实现保肛有很大的指导作用。Yan等[35通过对新鲜、未固定、未染色的低位直肠癌手术切缘全层组织进行MPM成像，并将其切缘全层组织样本进行术中冰冻切片和例行病理学检查，最后分析比较MPM成像和H-E染色的图像，从而证实了低位直肠癌手术切缘进行MPM实时光学成像是具有可行性的,MPM图像与H-E图像结果具有高度的一致性。低位直肠癌阴性切缘中,MPM成像显示正常组织结构和细胞形态，包括典型的中央小凹、腺窝圆形开口、上皮细胞和杯状细胞规则排列形成的腺体。与之相反，低位直肠癌阳性切缘的MPM成像则显示不规则管状结构、基质减少、细胞和胞核多形性等改变。SHG信号可以检测腺体周围组织。与存在癌细胞的阳性切缘相比，SHG信号强度在阴性切缘中有所降低。综合看来，多光子成像技术不仅能应用于低位直肠癌手术切缘的评估(图1),而且在术中或术后对于判断肠肠吻合或胃肠吻合之前的切端组织是否有癌残留有很大的指导意义。术中行肠切除后，可采用多光子显微内镜在体实时对近切端或远切端处的粘膜进行多光子成像。若图像阳性指征明显，则术者可考虑是否进一步扩大肠切除；若成像结果为阴性指征，则可进一步确保手术成功性，为胃肠肿瘤患者的良好预后或降低复发转移风险提供一定参考价值。Zhuo等[36通过对未经染色标记的结肠癌基底膜组织进行SHG成像，有效辨别出正常组织、癌前期病变以及癌性组织，很好地展示了通过完全的内部组织基底膜动力学改变就可反应结肠癌不同分期的可能性。
+
+![](images/1fabaa3f3d1e34a39adaf6a12de73d5727c074baaf36b8104bd0d20679dd2e54.jpg)  
+图1多光子成像用于直肠癌外科手术切缘及肠吻合处示意图黄色区域所示为外科拟切除平面，红色箭头所指为实时扫描的多光子探头.
+
+# 2.3胃肠道肿瘤转移情况
+
+肿瘤是否容易发生转移与治疗方法密切相关。胃肠道恶性肿瘤可发生肝脏、腹膜、卵巢、肺等部位的转移。其中胃粘液腺癌恶性程度较高。在粘液腺癌的多光子成像中，其粘膜层腺体扭曲或拉长、腺腔模糊不清、网状胶原纤维减少，粘膜下层显示胶原混乱、拉长、倒向一边、稀疏可见，主体弹性纤维破坏或几乎消失；一些癌细胞类似于一个充满了粘液且周围被纤维蛋白包裹的容腔，占据了整个粘膜下层[37]在鼠模型上应用MPM诊断肺癌和肝癌的研究[37-39]中，均提到微型化多光子显微镜的设计与发展。以结肠癌卵巢转移为例，有一些结肠癌患者行卵巢切除后最终病理报告却无卵巢转移；此时患者卵巢已切除，这对于年轻女性尤其有生育愿望的女性患者打击很大。故此时急需一种原位实时的诊断方法来精确判断卵巢是否出现转移，即在执行切除卵巢操作前进行明确的病理诊断。这将大大地帮助外科医生有的放矢地进行精准外科手术，更好地实现病灶清除、脏器保护、损伤控制[40]。多光子成像技术可满足原位实时评判胃肠道肿瘤的转移情况的需求。
+
+# 3多光子成像技术与影像学诊断技术、单光子成像技术比较
+
+影像学检查主要停留在器官组织水平，成像结果相对宏观。目前临床上对胃肠道肿瘤疾病患者常规例行CT或MRI检查，以初步判断肿瘤大小位置和进展程度，同时观察转移情况。相关文献已报道CT扫描检查在发现肠系膜淋巴结转移方面有很高的敏感性，而MRI发现结直肠癌肝转移的敏感性较CT高[41]。同样作为无组织损伤的检查手段，CT与MRI图像的阅览均需具备一定的影像学专业知识。而根据CT、MRI成像结果所得的肿瘤分期判断以及从术后病理的分期结果来看，低估肿瘤进展程度的案例不在少数。多光子显微成像无损、实时检查的特点，比CT或MRI影像学检查具有更大的应用空间，成像结果的获得更快、实时性更强，在时间上和空间上更具优势。
+
+相比影像学检查，单光子共聚焦显微内镜的成像结果能更好地呈现微观结构，其通过提供细胞形态学信息，在胃肠道肿瘤领域作为临床上一非损伤成像工具也备受青睐[42]。但与多光子显微镜相比，单光子共聚焦显微内镜提供细胞外组织的信息有限，成像深度浅，需外源性造影剂辅助成像，“光学活检”效果差。共聚焦显微镜激发整个激光照射区域内的染料分子，导致非焦点区域的染料过早漂白。而在多光子显微成像中可实现自体荧光物质的激发与SHG的结合，故无需外源标记，也能够提供组织学、胃肠细胞和细胞外基质结构信息甚至化学信息。就新鲜肠粘膜组织成像质量而言，MPM成像也优于共聚焦显微镜[16]。共聚焦显微镜显示亚细胞结构有限,而多光子成像能清楚显示细胞和亚细胞结构。相对单光子共聚焦显微内镜，多光子光漂白和光毒性被降到最低，对生物组织损伤小，穿透深度更深。总而言之，多光子成像最大的特点是穿透性强，穿透深度深，能清晰显示细胞及亚细胞结构，且无需外源性染料，可实现"光学活检"和"光学断层扫描"[43]
+
+# 4讨论
+
+临床上术前穿刺活检存在出血、针道、转移、耗时等缺点。术后组织病理学诊断则需要取材及随后的组织固定、包埋、切片、染色等步骤。MPM可以实时快速地捕获肿瘤的组织学特征，反应肿瘤细胞的代谢水平以及周围间质中胶原信号的变化且无需传统病组织病理学活检的繁杂步骤，具备实时、无损、穿透力高、分辨率高的优势。以实时评估直肠外科手术切缘情况为例，目前临床上通过术中冰冻病理检查来评价手术切缘情况，若切缘术中冰冻发现癌残留，则必须返回重新切除已吻合好的肠吻合口。然而此时直肠已吻合完毕，这种尴尬的返工局面难免费时费财，光就肠吻合器的价格来说上万元，且对病人造成的打击更大。随着多光子应用领域的不断扩展，以及胃肠道肿瘤多光子成像的实际操作可行性，MPM有望成为胃肠道肿瘤的一项准确的实时诊断工具。当然，作为一种肿瘤辅助诊断的新方法，MPM不仅能应用于消化系统肿瘤尤其胃肠肿瘤，而且在皮肤癌、膀胱癌、肺癌等肿瘤中也有相关应用报道。
+
+迄今为止，大多数生物学光子显微镜依赖于激发常规荧光素或荧光蛋白。然而很少研究者使用双光子激发内源分子如NADH[44]和黄素类[45]，血清素的三光子激发[46]，以及胶原蛋白、骨骼肌、微血管的SHG[47]。随着显微内镜小型化和微型化的发展,已有小型化多光子显微镜用于直肠癌研究的报道。MPM原位实时无损诊断胃癌和结直肠癌，在光学组织活检上有很大的发展空间[5,48]。MPM朝微型化方向发展也具有良好的应用前景。在多光子成像技术设备创新上，可把多光子显微镜和多光子探头结合，或多光子成像系统与内镜系统整合，通过器械组装，实现多光子显微内镜的推广使用，不仅实现多光子成像，还可实现多光子摄像。这将是十分可观的发展前景，很大程度上能改进临床的诊疗过程。在例行的内镜检查中,加上多光子探头亦可实现"实质上的活检"[16]
+
+虽然已经证实多光子在细胞水平上对于组织形态结构的成像可以和传统的金标准H-E病理切片能很好地契合，但是脱离于病理组织切片而仅仅从多光子成像判断肿瘤的发生发展，是亟待大量临床实践与检验的。通过检测细胞的氧化还原率(NADH/FAD)可以掌握肿瘤的代谢水平[37]，量化肿瘤的分化程度(高分化、中分化、低分化、未分化)以及肿瘤组织分型(乳头状腺癌、管状腺癌、粘液腺癌、印戒细胞癌、鳞癌)。相比多光子光学量化指标，外科医生更愿相信亲眼所见到的病理学组织形态与细胞结构。因此，如何达到准确显示组织形态细胞结构是一个关键问题。多光子成像的缺点在于其只对荧光激发，且由于激光系统设备配置的高要求，导致其价格昂贵。但仍有足够理由相信胃肠道组织的多光子成像技术作为一个新兴发展的光学活检方法，将来也许能够作为一项与传统病理组织活检并列甚至替代的诊断手段，在指导临床实践中评估胃肠道肿瘤进程或观察组织胶原结构改变方面提供有力证据
+
+基于非线性光学和飞秒激光镭射之上的多光子显微成像技术，通过利用活体组织中细胞本身产生的自体荧光及胶原组织产生的二次谐波，可以实时快速地获得标本的组织结构和形态。它无需传统病理活检的组织切取、固定、包埋、切片、染色等步骤,是一种实时快速且无创的“光学活检"诊断方法。多光子成像可以实时了解胃肠道肿瘤的组织结构和细胞形态，快速诊断胃肠道肿瘤及评价外科手术切缘情况，可在不损标本的情况下进行“光学活检”，通过利用自体荧光激发和SHG，可以精细地评估基底膜、粘膜层、粘膜下层、浆膜的肿瘤浸润情况。多光子成像技术可以很好地区分胃肠正常组织和肿瘤组织，可以实现肿瘤早期预测、判断手术切缘有无癌残留。总之，多光子成像技术在胃肠道肿瘤光学活检中有很好的应用前景，其朝微型化发展的趋势势不可挡，研发多光子内镜、多光子探头、多光子腹腔镜等可促进转化医学的发展并开拓新的视野。
+
+# 参考文献：
+
+[1] Kutup A, Vashist YK, Groth S,et al. Endoscopic ultrasound staging in gastric cancer:Does it help management decisions in the era of neoadjuvant treatment[J].Endoscopy,2012,44(6): 572-6.   
+[2]Cardoso R,Coburn N,Seevaratnam R,et al.A systematic review and meta-analysis of the utility of EUS for preoperative staging for gastric cancer[J].Gastric Cancer,2012,15(Suppl 1): S19-26.   
+[3]Puli SR,Batapati RJ,Bechtold ML,et al.How good is endoscopic ultrasound for TNM staging of gastric cancers? A meta-analysis and systematic review[J].World JGastroenterol,2008,14(25): 4011-9.   
+[4] Wilis S,Truong S,Gribnitz S,et al. Endoscopic ultrasonography in the preoperative staging of gastric cancer:accuracy and impact on surgical therapy[J]. Surg Endosc,2000,14(10): 951-4.   
+[5]Yan J, Chen G, Chen J,et al.A pilot study of using multiphoton microscopy to diagnose gastric cancer[J]． Surg Endosc,2011, 25(5): 1425-30.   
+[6] Hu W, Zhao G,Wang C,et al. Nonlinear optical microscopy for histology of fresh normal and cancerous pancreatic tissues[J].PLoS One,2012,7(5): e37962-4.   
+[7] Zipfel WR，Williams RM，Webb WW.The Nonlinear magic: multiphoton microscopy in the biosciences[J]．Nat Biotechnol, 2003,21(11): 1369-77.   
+[8] Zoumi A,Lu X,Kassab GS,et al. Imaging coronary artery microstructure using second-harmonic and two-photon fluorescence microscopy[J].Biophys J,2004,87(4): 2778-86.   
+[9]Yasui T,Takahashi Y,Fukushima S,et al. Observation of dermal collagen fiber in wrinkled skin using polarization resolved second harmonic generation microscopy[J]．Opt Express，20o9,17(2): 912-23.   
+[10]Brown EB,Campbell RB,Tsuzuki Y,et al. In vivo measurement of gene expression,angiogenesis and physiological function in tumors using multiphoton laser scanning microscopy[J].Nat Med,2001, 7(7): 864-8.   
+[11]Wang W,Wyckoff JB,Frohlich VC,et al. Single cell behavior in metastatic primary mammary tumors correlated with gene expression patterns revealed by molecular profiling[J]. Cancer Res, 2002,62(21): 6278-88.   
+[12]Zipfel WR,Williams RM,Christie R,et al. Live tissue intrinsic emission microscopy using multiphoton-excited native fluorescence and second harmonic Generation[J]．Proc Natl Acad Sci USA, 2003,100(12): 7075-80.   
+[13]Makino T,Jain M,Montrose DC,et al. Multiphoton tomographic imaging: a potential optical biopsy tool for detecting gastrointestinal inflammation and neoplasia[J].Cancer Prev Res (Phila),2012, 5(11): 1280-90.   
+[14]Jain M,Robinson BD,Scherr DS,et al. Multiphoton microscopy in the evaluation of human bladder biopsies[J].Arch Pathol Lab Med, 2012, 136(5): 517-26.   
+[15]Chen J，Wong S,Nathanson MH,et al. Evaluation of barett esophagus by multiphoton microscopy［J]. Arch Pathol Lab Med, 2014,138(2): 204-12.   
+[16]Rogart JN, Nagata J, Loeser CS,et al. Multiphoton imaging can be used for microscopic examination of intact human gastrointestinal mucosa ex vivo[J]. Clin Gastroenterol Hepatol,2008,6(1): 95-101.   
+[17]Tsai TH,Jee SH,Dong CY,et al. Multiphoton microscopy in dermatological imaging[J]. JDermatol Sci, 2009,56(1): 1-8.   
+[18]Konig K,Ehlers A,Stracke F,et al. In vivo drug screening in human skin using femtosecond laser multiphoton tomography[J]. Skin Pharmacol Physiol,2006,19(2): 78-88.   
+[19]Konig K,Riemann I. High-resolution multiphoton tomography of human skin with subcellular spatial resolution and picosecond time resolution[J].JBiomed Opt,2003,8(3): 432-9.   
+[20]StrackeF, WeissB,Lehr CM, et al. Multiphoton microscopy for the investigation of dermal penetration of nanoparticle-borne drugs [J]. J Invest Dermatol,2006,126(10): 2224-33.   
+[21]Lin SJ，Jee SH, Dong CY.Multiphoton microscopy:a new paradigm in dermatological imaging[J]．Eur JDermatol, 2007, 17(5): 361-6.   
+[22]徐 慧,张春阳,马辉,等.多光子技术及其应用研究进展[J].分 析科学学报,2002,18(5): 424-8.   
+[23]中村收,杨云龙,严佩敏.多光子激励激光扫描显微镜[J].激光杂 志,2001,22(1): 7-9.   
+[24]Campagnola PJ, Loew LM. Second-harmonic imaging microscopy for visualizing biomolecular arrays in cells，tissues and organisms[J].Nat Biotechnol,2003,21(11): 1356-60.   
+[25]Lin SJ,HsiaoCY,SunY,etal.Monitoring thethermallucd structural transitions of collagen by use of second-harmonic Generation microscopy[J]. Opt Lett,2005,30(6): 622-4.   
+[26]Lee HS,Liu Y, Chen HC,et al. Optical biopsy of liver fibrosis by use of multiphoton microscopy[J]. Opt Lett,2004,29(22): 2614-6.   
+[27]Sun W,Chang S,Tai DC,et al. Nonlinearoptical microscopy:use of second harmonic Generation and two-photon microscopy for automatedquantitativeliver fibrosisstudies[J].JBiomedOpt, 2009,13(6): 64010-3.   
+[28]Tai DC，Tan N，Xu S,et al. Fibro-C-Index:comprehensive, morphology-based quantification of liver fibrosis using second harmonic Generation and two-photon microscopy[J].J Biomed Opt, 2009,14(4): 44013-6.   
+[29]Gailhouste L,Le Grand Y,Odin C,et al.Fibrillar collagen scoring by second harmonic microscopy: a new tool in the assessment of liver fibrosis[J].JHepatol,2010,52(3): 398-406.   
+[30]Xu S,Kang CH,Gou X,et al.Quantification of liver fibrosis via second harmonic imaging of the Glisson's capsule from liver surface[J].JBiophotonics,2016,9(4):351-63.   
+[31]Xu J, Kang D,Xu M,et al. Multiphoton microscopic imaging of esophagus during the early phase of tumor progression[J]. Scanning,2014,35(6): 387-91.   
+[32]Liu N, Chen J, Xu R,et al.Label-free imaging characteristics of the colonic mucinous adenocarcinoma through using a multiphoton microscopy[J].Scanning,2013,35(4):277-82.   
+[33]Yan J,Zheng Y, Zheng X,et al. Real-time optical diagnosis of gastric Cancer with serosal invasion using multiphoton imaging[J]. Sci Rep,2016,6(11):31004-9.   
+[34]Li W, Sun XW,Zhan YQ,et al. Pathologic characteristics of residual carcinoma at incisal edge after gastrectomy for gastric cancer[J].Chin JGastrointest Surg,2009,12(4): 354-6.   
+[35]Yan J,Zhuo S,Chen G,et al. Real-time optical diagnosis for surgical margin in low rectal cancer using multiphoton microscopy[J].Surg Endosc,2014,28(1):36-41.   
+[36] Zhuo S,Yan J,Chen G,et al.Label-free imaging of basement membranes differentiates normal,precancerous,and cancerous colonic tissues by second-harmonic Generation microscopy[J]. PLoS One,2012,7(6): e38655-11.   
+[37] Yan J, Zhuo S,Chen G,et al.Preclinical study of using multiphoton microscopy to diagnose liver cancer and differentiate benign and malignant liver lesions[J].JBiomed Opt,2012,17(2): 26004-8.   
+[38]Yan J, Zhuo S,Chen G,et al. Use of multiphoton microscopy to diagnose liver cancer and lung metastasis in an orthotopic rat model[J]. Scanning,2012,34(4): 271-7.   
+[39]Pavlova I, Hume KR,Yazinski SA,et al. Multiphoton microscopy as a diagnostic imaging modality for lung cancer[J].Proc SPIE Int Soc Opt Engin,2010,7569(6): 756918-24.   
+[40]董家鸿,张 宁.精准外科[J].中华外科杂志,2015,53(5):321-3.   
+[41]Kinkel K,Lu Y,Both M,et al.Detection of hepatic metastases from cancers of the gastrointestinal tract by using noninvasive imaging methods (US,CT,Mr imaging and PET):a meta-analysis[J]. Radiology,2002,224(3): 748-56.   
+[42]Li Z, Zuo XL,Yu T,et al. Confocal laser endomicroscopy for in vivo detection of gastric intestinal metaplasia:a randomized controlled trial[J].Endoscopy,2014,46(4): 282-90.   
+[43]Maestro LM,Ramirez JE,Bogdan N,et al. Deep tissue bio-imaging using two-photon excited CdTe fluorescent quantum dots working within the biological window[J].Nanoscale,2012,4(1):298-302.   
+[44] Patterson GH,Knobel SM,Arkhammar P,et al. Separation of the glucose-stimulated cytoplasmic and mitochondrial NAD(P)H responses in pancreatic islet beta cells[J].Proc Natl Acad Sci USA, 2000,97(10):5203-7.   
+[45]Huang S,Heikal AA，Webb WW.Two-photon fluorescence spectroscopy and microscopy of NAD(P)H and flavoprotein[J]. Biophys J,2002,82(5): 2811-25.   
+[46]Williams RM,Webb WW. Single granule pH cycling in antigeninduced mast cell secretion[J]．J Cell Sci,2000,113(Pt 21): 3839-50.   
+[47]Campagnola PJ, Millard AC,Terasaki M,et al. Three-dimensional high-resolution second-harmonic Generation imaging of endogenous structural proteins in biological tissues[J].Biophys J,2002, 82(1 Pt 1): 493-508.   
+[48]Ying M, Zhuo S,Chen G,et al.Real-time noninvasive optical diagnosis for colorectal Cancer using multiphoton microscopy[J]. Scanning,2012,34(3): 181-5.

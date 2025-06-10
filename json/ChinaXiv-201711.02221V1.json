@@ -1,0 +1,370 @@
+[
+    {
+        "type": "text",
+        "text": "在肝癌细胞SK-Hep1中沉默STAT3基因增强sorafenib疗效",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "的初步研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "谢琳娜1,2，曾燕华²，柯伙钊1，何文胜1，郑敏²，林德馨 2\\*（1福建生物工程职业技术学院食品与生物工程系，福州，350003；2福建医科大学基础医学院，福州，350108）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目的：研究STAT3在肝癌细胞 SK-Hep1对 sorafenib 抗性中的作用，并探讨STAT3基因沉默在增强sorafenib肝癌疗效中的作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "方法：应用基于 shRNA的基因沉默技术在肝癌细胞 SK-Hep1中敲减 STAT3；用CCK8法检测细胞的生长情况与对 sorafenib 的敏感性；蛋白印迹法(Western blot)检测 STAT3、p-STAT3（Y705）、p-STAT3（S727）以及其下游蛋白的表达变化。结果：成功构建了STAT3 敲减的细胞株 SK-Hepl-shSTAT3。该细胞中 STAT3 蛋白表达降低，细胞增殖明显受到抑制。Sorafenib 的处理下调了STAT3的磷酸化水平及其下游蛋白Mcl-1和CyclinD1的表达。STAT3基因敲减的SK-Hep1细胞，对sorafenib的敏感性增强。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "结论：基于 shRNA的 STAT3基因沉默能明显抑制 SK-Hep1细胞增殖，提高细胞对 sorafenib 的敏感性，有望成为提高 sorafenib 抗肝癌疗效的一种新手段。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：肝癌；Sorafenib；STAT3；基因沉默；中图分类号：R963文献标志码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A Preliminary Study on Enhancing the Efficacy of Sorafenib by Silencing STAT3 Gene in SK-Hep1 Cells ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "XIE Linna1,2, ZENG Yanhua²,He Wensheng1, ZHENG Min²,LIN Dexin²\\* (1. Department of Food and bioengineering, Fujian Vocational College of Bioengineering, Fuzhou，35oo03；2. College of Basic Medical Sciences，Fujian Medical University,Fuzhou, 350108) Correspondence to: LIN Dexin， E-mail: dexin9997@163.com ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Abstract] ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Objective: To determine the effect of STAT3 on sorafenib resistancein Hepatocarcinoma cell SK-Hepl,and the role of STAT3 gene silencing on enhancing the efficacy of sorafenib in liver cancer. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Methods: STAT3 gene was knocked down by short hairpin RNA based gene-silencing technology in SK-Hepl cells. The cell proliferation and the sensitivity to sorafenib were detected by CCK8 assay. The expression levelsof STAT3, p-STAT3 （Y705 ）, p-STAT3 （S727） and its downstream proteins were detected by Western blot. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results: STAT3 knockdown cel line SK-Hep1-shSTAT3 was successfully constructed. In these cells, the level of STAT3 expresson was decreased; the cell proliferation was significantlysuppressed.Sorafenib treatment reducedthe level ofSTAT3 phosphorylation and its downstream protein CyclinD1 and Mcl-1.Sorafenib resistance was reduced in STAT3 knockdown cells. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Conclusion: Silencing STAT3 by RNA interference can significantly suppress SK-Hepl cell proliferation, and enhance the sensitivity of liver cancer cells to sorafenib.Our data indicates that STAT3 knockdown might be a new way to improve theefficacyof sorafenibinliver cancer. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Hepatocarcinoma； Sorafenib； STAT3； gene silence",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "索拉非尼（多吉美，sorafenib）是近年来临床上用于晚期肝癌治疗的一种靶向药物，能够同时抑制Raf-1,B-Raf、VEGFR 等多种激酶[1]。虽然这种口服多激酶抑制剂可延长部分晚期肝癌患者的生存时间，但对不同的肝癌患者来说，其疗效有很大差异[2]。而且对于大部分肝癌患者而言，疗效并不尽如人意[3]。因此探索不同类型肝癌细胞的抗药机制具有非常重要的意义，以期为实现个体化精准治疗提供依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "信号转导及转录活化因子3（Signal transducer and activator of transcription 3,STAT3)，是一种转录因子，也被认为是一种癌基因，只在癌细胞中持续性激活，在正常肝细胞中则需要诱导激活，提示STAT3可作为肝癌治疗的靶点[4-6]。同时，STAT3的活化是肝癌细胞存活必需的，若将其敲除会引起细胞死亡，故应用基因敲减研究STAT3在肝癌细胞中的功能[7]。但正常肝细胞的存活却并不依赖于STAT3，这表明靶向STAT3的肝癌治疗是安全的[8]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "也有文献支持，sorafenib 通过抑制 STAT3的活化，并下调 STAT3相关信号通路，是其治疗神经胶质瘤[9]，肝纤维化[10]，非小细胞肺癌[1]的机制之一。然而，STAT3基因是否是肝癌细胞对 sorafenib 抗性的关键因子仍不得而知。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此，本研究通过敲减 STAT3 基因，检测其是否增强 SK-Hep1 细胞对sorafenib 的敏感性，探讨 STAT3基因在肝癌细胞的 sorafenib 药物抗性中所起的作用，为靶向STAT3，增强 sorafenib 抗肝癌疗效提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人胚胎肾细胞HEK293T 和人肝癌细胞株 SK-Hep1以及慢病毒包装质粒（pREV、pVSVG 和pMDL)均由厦门大学细胞应激生物学国家重点实验室惠赠。STAT3-shRNA质粒购自上海吉凯基因化学技术有限公司。测序由厦门闽博生物技术有限公司完成。Sorafenib（索拉非尼）购自美国 Santa Cruz公司；CCK8细胞活力检测试剂盒购自北京全式金生物技术有限公司；胎牛血清购自以色列BI公司；DMEM培养基及其他细胞培养所需试剂和TurboFect转染试剂购自美国Thermo 公司。二甲基亚矾（DMSO）购自美国 Sigma 公司。其余试剂均购自上海生工生物工程有限公司。STAT3，Mcl-1和CyclinD1抗体均购自武汉三鹰生物技术有限公司；p-STAT3（Tyr705）抗体购自美国Cell Signaling公司；p-STAT3（Ser727）抗体购自上海生工生物工程有限公司，GAPDH抗体购自北京中杉金桥生物技术有限公司；HRP标记的二抗购自福州科诺生物技术有限公司。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1细胞培养及处理方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "HEK293T 细胞、人肝癌细胞株 SK-Hep1 和 SK-Hep1-shSTAT3 细胞用含 $10 \\%$ 胎牛血清的DMEM高糖培养基培养。细胞置于 $3 7 ^ { \\circ } \\mathrm { C }$ ， $5 \\% C O _ { 2 }$ 的培养箱中培养，用 $0 . 2 5 \\%$ 胰蛋白酶消化传代。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2SK-Hep1-shSTAT3细胞系的构建 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将所购买的 STAT3 敲减质粒pLv-shSTAT3 和慢病毒包装质粒（pREV、pVSVG和pMDL)以3:1:1:1混合于 $2 0 0 \\mu \\mathrm { l }$ 无血清的DMEM培养液制成DNA混合溶液，以空载体质粒做阴性对照。用TurboFect转染试剂将其转染至HEK293T细胞包装病毒，48h后收集上清病毒液。按病毒液与完全培养基1:1的比例，加入终浓度为 $1 0 \\mu \\mathrm { g / m l }$ 的 polybrene，感染已贴壁的 SK-Hep1细胞。 $1 2 { \\sim } 2 4 \\mathrm { h }$ 后观察细胞状态是否良好，并更换为完全培养基。感染 $4 8 \\mathrm { { h } }$ 后荧光显微镜下观察绿色荧光来判断病毒感染效率。将表达STAT3shRNA或对照空载体的病毒分别感染SK-Hep1 细胞后，得到 SK-Hep1-shSTAT3 和对照组细胞。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3蛋白印迹法（Westernblot）检测蛋白表达量",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用Countstar进行细胞计数后，收集细胞并裂解，提取总蛋白。用SDS-PAGE",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "凝胶电泳分离蛋白，电转至PVDF 膜上，封闭后，一抗（1:1000） $4 ^ { \\circ } \\mathrm { C }$ 孵育过夜。  \n室温孵育二抗（1:10000）1h，ECL显色。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.4CCK-8法检测细胞活力",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "取对数生长期的 SK-Hep1细胞，以每孔10000 个细胞接种到96孔板中，各设3个复孔，培养箱中常规培养。次日待细胞贴壁后实验组加入终浓度为 ${ 5 \\mu \\mathrm { m o l / L } }$ 的 sorafenib 溶液，对照组加入等体积DMSO，分别处理不同时间；或加入不同浓度 sorafenib 药物，处理细胞 $4 8 \\mathrm { h }$ 。将处理后的细胞吸弃旧液，每孔加入 $1 0 0 \\mu \\mathrm { l }$ 含 $10 \\%$ （V/V）CCK-8的新鲜培养液，于培养箱中孵育1h。选择 $4 5 0 / 6 3 0 \\mathrm { n m }$ 双波长，在酶标仪上测定各孔的光吸收值（A)，记录结果，以时间为横坐标，相对吸光值（对于生长曲线，相对吸光值 $\\ c =$ 不同时间点的A值／0h的A值；对于药浓曲线，相对吸光值 $\\circleddash$ 加药组A值／溶剂组A值）为纵坐标绘制细胞生长曲线或 sorafenib药浓曲线。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.5统计处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用SPSS22统计分析软件，实验数据以mean±SD表示。实验组和对照组间比较采用独立样本t检验， $\\mathtt { p } { < } 0 . 0 5$ 为差异有统计学意义。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1构建敲减 STAT3基因的细胞系SK-Hep1-shSTAT3 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了揭示 STAT3在 SK-Hep1细胞对 sorafenib 抗性中的作用，我们利用 RNA干扰技术对 STAT3进行敲减。首先，我们设计了四条STAT3的shRNA序列。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9323cf0193dd0a8b36d0a3bc34462edd56bdb32e311443c70b821a592c647aa.jpg",
+        "img_caption": [
+            "图1Westernblot检测STAT3基因沉默的SK-Hep1细胞中STAT3蛋白表达及其磷酸化修饰",
+            "Fig.1 Analysis of STAT3 and its phosphorylationin gene silencing cell SK-Hep1 by Western blot "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "进而利用病毒包装和感染技术，构建了对照和表达 STAT3 shRNA的 SK-Hepl 细胞株。Western blot 检测 SK-Hepl 对照组及 shRNA 组细胞的 STAT3 总蛋白及其磷酸化表达水平。结果显示 shRNA 组的STAT3蛋白表达和磷酸化水平均有明显下降，其中两条 shRNA对STAT3敲减的效果较好。其靶序列分别为$5 ^ { \\prime }$ -GCTGACCAACAATCCCAAGAA-3'和 5'-GCAAAGAATCACATGCCACTT -3'。（图1，另外两个shRNA干扰结果未在图中显示)。这说明 STAT3 shRNA 能有效抑制 STAT3的表达，并且通过沉默 STAT3基因的方式能有效降低 STAT3的磷酸化水平。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 SK-Hep1细胞中 sorafenib 对STAT3的作用",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据已有文献报道，在多种癌细胞中 sorafenib 可抑制 STAT3 的磷酸化[23]。在肝癌细胞株 SK-Hep1中，我们也同样验证了上述现象。在用不同浓度的sorafenib 刺激 SK-Hep1 细胞24h后，发现其 STAT3磷酸化水平随 sorafenib 浓度升高而降低，而STAT3总蛋白却无明显变化（图2)。这提示STAT3在sorafenib",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8af364089cca88031b49bc88290926ef05b07ab0811d090aea6f7e07df238f42.jpg",
+        "img_caption": [
+            "图2不同浓度sorafenib 对 SK-Hep1细胞 STAT3蛋白表达及其磷酸化修饰的影响",
+            "Fig.2 Effects of different concentrations of sorafenib on STAT3 protein expression and phosphorylation modification in SK-Hep1 cells "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "疗效中发挥重要作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3敲减STAT3对SK-Hep1细胞的Sorafenib 敏感性的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "有文献表明，临床上单纯依靠提高 sorafenib 的用药剂量会带来不良反应[12]。而我们的前期实验发现 SK-Hep1细胞对 sorafenib 具有抗性[13]。故我们试图用STAT3 的RNA干扰技术，研究敲减 STAT3 是否能增强 sorafenib 在 SK-Hep1 细胞中的疗效。从图3A可以看出，敲减 STAT3的 SK-Hep1（shSTAT3+DMSO）",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "细胞增殖能力明显低于对照组（Vector+DMSO)。并且随着细胞培养时间的增加，增殖速度的差异呈扩大趋势。另外，低浓度（ ${ 5 } \\mu \\mathrm { m o l / L }$ ）sorafenib 联合 STAT3基因敲减处理 SK-Hep1 细胞（shSTAT3+Sorafenib)，其生长速度也明显低于两个单独采用敲减（shSTAT3 $+$ DMSO）或加 sorafenib 刺激的对照组（Vector+Sorafenib）,$\\mathrm { p } { < } 0 . 0 5$ ，呈显著性差异。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "用不同浓度的 sorafenib 分别处理 SK-Hep1 细胞 $4 8 \\mathrm { { h } }$ 后，用CCK-8 法检测细胞活力，可以看出敲减 STAT3的 SK-Hep1细胞活力比未敲减 STAT3 的对照组细胞明显降低（图3B）， $\\mathtt { p } { < } 0 . 0 1$ ，差异显著。而且在 sorafenib用量为 $2 . 5 \\mu \\mathrm { m o l / L }$ 时，敲减 STAT3 的细胞就已经比未敲减的细胞活力降低了一倍。表明下调 STAT3能降低 SK-Hep1的细胞活力，增加细胞对 sorafenib 药物的敏感性。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/6ee567aa942666beb52bb6cc77161aca316b05ea4a42a6ac4a619284f82a1da9.jpg",
+        "img_caption": [
+            "图3Sorafenib对敲减STAT3基因的SK-Hep1细胞活力的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A：在STAT3 基因敲减的 SK-Hepl 细胞和对照细胞中比较 sorafenib 处理后的细胞生长曲线（与对照组相比， $^ { * } \\mathrm { p } { < } 0 . 0 5$ ， $\\ast \\ast _ { \\mathrm { p } < 0 . 0 1 }$ ， $\\scriptstyle 1 = 3$ ）  \nB：不同浓度 sorafenib 对敲减 STAT3 基因的 SK-Hep1细胞活力影响（与对照组相比， $\\ast \\ast _ { \\mathrm { p } < 0 . 0 1 }$ ， $\\scriptstyle 1 = 3$ ）",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 Effects of sorafenibon SK-Hep1 knockdown STAT3 gene ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A: Cell growth curve of SK-Hepl-shSTAT3 and control treated by sorafenib(compared with the control group, $\\ast _ { \\mathrm { p } < 0 . 0 5 }$ ， $\\ast \\ast _ { \\mathrm { p } < 0 . 0 1 }$ ， $\\scriptstyle 1 = 3$ ）   \nB： Cell viability change in SK-Hepl-shSTAT3 treated by different concentrations of sorafenib (compared with the control group $\\ast \\ast _ { \\mathrm { p } < 0 . 0 1 }$ ， $\\scriptstyle \\mathrm { n = 3 }$ ） ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4Sorafenib 对STAT3下游基因Mcl-1和CyclinD1表达的影响 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "有文献表明 Mcl-1和CyclinD1是 STAT3下游基因[14-17]，因此我们用$1 0 \\mu \\mathrm { m o l }$ /Lsorafenib 处理敲减 STAT3基因的 SK-Hep1和对照组细胞，结果证实sorafenib 处理使 STAT3磷酸化下降与下调Mcl-1，cyclinD1呈正相关，同时敲减STAT3 联合 sorafenib 处理也使 p-STAT3（Y705）、p-STAT3（S727）、 Mcl-1 和CyclinD1的表达量显著降低，且均呈时间梯度依赖(图4)。这一结果提示 sorafenib可能通过 STAT3调控细胞周期蛋白CyclinD1和抗凋亡蛋白Mcl-1的表达，从而影响细胞凋亡和增殖。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/31e67c2edb4edfec3e61bfaee44f999108a9ca4a0caf968e72af98b5b8dcd8f9.jpg",
+        "img_caption": [
+            "图4SK-Hep1 细胞中，sorafenib 对 STAT3及其下游蛋白Mcl-1、CyclinD1表达的影响Fig.4 The effect of sorafenib on the expression of STAT3 and its downstreamprotein Mcl-1 and CyclinD1in SK-Hepl cells"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Sorafenib是目前FDA批准用于晚期肝癌治疗的唯一靶向药物，但由于肝癌发病机制的复杂性以及肝癌的异质性[18]，sorafenib 的疗效并不理想。因而，鉴定并确立增强sorafenib 疗效的有效靶点和标志物是目前晚期肝癌治疗的关键。本研究利用基因沉默技术降低具有 sorafenib 抗性的肝癌细胞 SK-Hep1中 STAT3 的表达，证实沉默 STAT3基因能提高该肝癌细胞对 sorafenib 的敏感性。同时，我们的研究也提示 STAT3的高表达或高活性预示着肿瘤细胞的sorafenib 抗性。因而 STAT3的表达量或磷酸化修饰将有助于指导临床上甄别目标人群进行靶向治疗，实现疗效最佳化的个体治疗和精准治疗。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "有报道称 sorafenib 通过抑制STAT3活性，调控下游增殖和抗凋亡相关基因（如：Mcl-1、Bcl-2、CyclinD 和E、Survivin）的表达，抑制肿瘤细胞增殖，增强肿瘤细胞凋亡[19]。本研究也证实 STAT3 敲减的 SK-Hep1 细胞中，其下游的抗凋亡蛋白Mcl-1和促进细胞增殖的周期蛋白cyclinD1均随之而减少。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "临床试验显示，治疗时与药物相关的不良反应会随着sorafenib剂量的增加而呈趋势增加，这就迫使患者减少剂量或中断治疗，严重阻碍了sorafenib 的临床疗效[20]。那么对于sorafenib 不敏感的患者，仅靠提高药物剂量显然不合适。我们的实验结果也显示，sorafenib 作用于敲减 STAT3的细胞时，其治疗效果优于单独采用敲减 STAT3或仅使用 sorafenib 治疗。这提示，对 sorafenib 药物不敏感的肝癌细胞，在不提高 sorafenib 药量的情况下，通过抑制 STAT3的表达或抑制 STAT3的活性的联合治疗手段，可能起到协同作用，共同促进细胞死亡，为今后实现个体化治疗和精准治疗，提高疗效提供理论指导。考虑到体内进行RNA干扰需借助病毒感染的手段和方法。而病毒感染将引起宿主的免疫反应，甚至引发肿瘤等并发症。为了规避这一不足，本研究结果提示，临床上可以采用 STAT3的抑制剂或 STAT3上游激酶JAK蛋白家族抑制剂协同增强 Sorafenib诱导的细胞死亡，并最终增强 Sorafenib 的疗效。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为进一步阐明STAT3在Sorafenib 诱导肝癌细胞死亡的作用机制，在后续的研究中，需检测 STAT3的下游作用因子，尤其是炎症因子的表达情况；深入探讨细胞死亡类型，是细胞凋亡，还是细胞坏死，抑或是细胞焦亡或铁死亡；创建小鼠肝癌模型，并通过抑制 STAT3与 Sorafenib 进行联合治疗，观察疗效。有研究报道，HGF 通路的异常激活可赋予肝癌细胞 Sorafenib 药物抗性「21]，并且Sorafenib 可抑制 HGF 诱导的 EMT及细胞迁移[22]。因而，在后续的研究中，阐明 STAT3在HGF等其它通路中的作用，及其对肝癌细胞 EMT及迁移中的作用，将有利于探明其中的作用机制。Sorafenib下调 STAT3被认为是肝癌治疗的新机制[23]，我们的研究还证实了抑制 STAT3 可增强 Sorafenib 诱导的细胞死亡。这看似矛盾的观点提示 STAT3在 Sorafenib 的肝癌治疗发挥着“缓冲器（bumper)”的作用。如同汽车的保险杆，Sorafenib 可降低 STAT3的活性；然而，一但细胞失去这个“保险杆”，肝癌细胞则对Sorafenib更加敏感。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1. Wilhelm S,Carter C, Lynch M et al: Discovery and development of sorafenib: a multikinase inhibitor for treating cancer. Nature reviews Drug discovery. 2006; 5(10):835-844.   \n2. Llovet JM, Ricci S,Mazzaferro V et al: Sorafenib in advanced hepatocellular carcinoma. The New England journal of medicine. 20o8; 359(4):378-390.   \n3. Maluccio M, Covey A: Recent progress in understanding, diagnosing, and treating hepatocellular carcinoma. CA: a cancer journal for clinicians.2012; 62(6):394-399.   \n4. Levy DE, Inghirami G: STAT3: a multifaceted oncogene. Proc Natl Acad Sci U S A. 2006; 103(27):10151-10152.   \n5. Zimmers TA, Fishel ML, Bonetto A: STAT3 in the systemic inflammation of cancer cachexia. Seminars in cell& developmental biology. 2016; 54:28-41.   \n6. He G, Karin M: NF-kappaB and STAT3 - key players in liver inflammation and cancer. Cell research. 2011; 21(1):159-168.   \n7. Sanchez A, Nagy P, Thorgeirsson SS: STAT-3 activity in chemically-induced hepatocellularcarcinoma. Europeanjournalofcancer.2003; 39(14):2093-2098.   \n8. Moh A,Iwamoto Y, Chai GX et al: Role of STAT3 in liver regeneration: survival, DNA synthesis, inflammatory reaction and liver mass recovery. Laboratory investigation; a journal of technical methods and pathology. 2007;87(10):1018-1028.   \n9. Kiprianova I, Remy J,Milosch N et al: Sorafenib Sensitizes Glioma Cells to the BH3 Mimetic ABT-737 by Targeting MCL1 in a STAT3-Dependent Manner. Neoplasia. 2015; 17(7):564-573.   \n10. Su TH, Shiau CW, Jao P et al: Sorafenib and its derivative SC-1 exhibit antifibroticeffectsthrough signal transducerand activatorof transcription 3 inhibition. Proc Natl Acad Sci U S A. 2015; 112(23):7243-7248.   \n11. Wang CY, Chao TT, Tai WT et al: Signal transducer and activator of transcription 3 as molecular therapy for non-small-cell lung cancer. Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer. 2014; 9(4):488-496.   \n12. Pichard DC， Cardones AR，Chu EY et al: Sorafenib-Induced Eruption MimickingErythemaMultiforme.JAMAdermatology. 2016; 152(2):227-228.   \n13. 郑敏，谢琳娜，曾燕华,等.CD44、CD133及EpCAM与肝癌细胞成瘤性及 耐药性的相关性．中国老年学杂志.2015;35(23):6668-6670.   \n14. Rahmani M, Davis EM, Bauer C et al: Apoptosis induced by the kinase inhibitor BAY 43-9oo6 in human leukemia cells involves down-regulation of Mcl-1 through inhibition of translation. The Journal of biological chemistry. 2005;280(42):35217-35227.   \n15. Yu C, Bruzek LM, Meng XW et al: The role of Mcl-1 downregulation in the proapoptotic activity of the multikinase inhibitor BAY 43-9o06. Oncogene. 2005;24(46):6861-6869.   \n16. Yang F， Van Meter TE，Buettner R et al: Sorafenib inhibits signal transducer and activator of transcription 3 signaling associated with growth arrest and apoptosis of medulloblastomas. Molecular cancer therapeutics. 2008;7(11):3519-3526.   \n17. Yang F, Brown C, Buettner R et al: Sorafenib induces growth arrest and apoptosis of human glioblastoma cells through the dephosphorylation of signal transducers and activators of transcription 3. Molecular cancer therapeutics. 2010; 9(4):953-962.   \n18. Li L,Wang H: Heterogeneity of liver cancer and personalized therapy. Cancer letters. 2016; 379(2):191-197.   \n19. Hikita H, Takehara T, Shimizu S et al: The Bcl-xL inhibitor, ABT-737, efficiently induces apoptosis and suppresses growth of hepatoma cells in combination with sorafenib.Hepatology. 2010; 52(4):1310-1321.   \n20. Casadei Gardini A, Tenti E,Masini C et al: Multicentric survey on dose reduction/interruption of cancer drug therapy in 12.472 patients: indicatorsofsuspectedadversereactions. Oncotarget.2016; 7(26):40719-40724.   \n21. Tae-Yong HA,Shin Hwang,KI-Myeong Moon et al.Sorafenib inhibits migration and invasion of hepatocellular carcinoma cells through suppression of matrix metalloproteinase expression. Anticancer Res. 2015 Apr;35(4):1967-76.   \n22. Zeynep Firtina Karagonlar， Dogukan Koc,Evin Iscan et al.Elevated hepatocyte growth factor expression as an autocrine c-Met activation mechanism in acquired resistance to sorafenib in hepatocellular carcinoma cells. Cancer Sci. 2016 Apr;107(4):407-16.   \n23. Man-Hsin Hung, Wei-Tien Tai, Chung-Wai Shiau et al: Downregulation of signal transducer and activator of transcription 3 by sorafenib:a novel mechanism for hepatocellular carcinoma therapy. World J Gastroenterol. 2014 Nov 7;20(41):15269-74. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

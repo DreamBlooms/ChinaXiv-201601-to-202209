@@ -1,0 +1,179 @@
+# 冬水前移对冬小麦生长及水分利用效率的影响
+
+闫翠萍；肖俊红；张晶；裴雪霞；董飞；张定一（山西省农业科学院小麦研究所临汾 041000)
+
+摘要：为探明晋西南小麦-玉米一年两熟区，玉米秸秆粉碎还田 $^ +$ 旋耕播种模式下，通过合理运筹越冬水达到培育冬前壮苗，促进增加产量，提高籽粒水分利用率的目的，以传统灌水时间12月10日为对照，设11月10日、11月25日、12月10日(CK)和12月25日4个灌水处理，研究冬前灌水时间对小麦冬前群体茎数、根系、土壤容重、酶活性和旗叶光合性能的影响。结果表明：与不灌越冬水相比，冬前灌溉可塌实耕层土壤、调节土壤容重，利于根系与土壤紧密接触，增强土壤酶活性、提高土壤肥力，促进分蘖和次生根的发生。与传统灌水时间(12月10日)相比，冬水前移对小麦生长有补偿作用，使冬前总茎数、单株茎数、次生根数、单株根干重增加，延长了旗叶的功能期，提高了叶绿素含量和光合速率，促进光合产物的合成转化，使成穗数增加 $5 . 3 7 \% { \sim } 1 . 6 6 \%$ ，千粒重增加 $3 . 0 3 \% \sim 0 . 5 5 \%$ 。本试验条件下，小麦灌冬水时间由传统昼消夜冻(12月10日)前移一个节气，即11月 25日左右，主茎叶龄3叶到3叶1心的分蘖初期，可使小麦增产 $8 . 4 0 \%$ ，水分利用效率提高 $5 . 7 6 \%$ ，达22.05$\mathbf { k g } { \cdot } \mathbf { m } \mathbf { m } ^ { - 1 } { \cdot } \mathbf { h } \mathbf { m } ^ { - 2 }$ 。
+
+关键词：玉米秸秆还田；旋耕；冬水前移；冬小麦；水分利用效率中图分类号:S152.7,S152.1 文献标识码：A
+
+# The effect of early winter watering on the growth and water use efficiency of winter wheat sowing under threshed maize straw by rotary machine
+
+YAN Cuiping,XIAO Junhong, ZHANG Jing,PEI Xuexia,DONG Fei, ZHANG Dingyi (Wheat Research Institute,Shanxi Academy of Agricultural Sciences,Linfen O41ooo, China)
+
+Abstract:Thestudyis toexploretheoptimalmanagementof winterwateringtodeveloptrongseedlingbeforewinter,ndiprove thewheatgrowth,thus increasethe grain wateruse eficiencyandresultin higheryieldof wheat,sowingundertheconditions of threshedcomstrawback tothefieldbytherotarymachine.Tostudythe winter wateringtimeefect,four wateringtimetreatments weredesigned.Theywere November10,November25,December1O(traditional wateringtimeusedasacontrol)andDecember25. Comparing withthenon-winter watering wheat,winter wateringompactedthesoil,andadjustedthebulkysoildensity.Italsohelp therootcloselytouchedtoesoil,andehancetheenzyeactivitytuseichthesoilnutritionlevelandimprovetetilingnd secondaryroot growth.Itis interesting tonote thatearlywinter wateringcouldcompensate the winter wheat growth when it was compared withtheontroltreatment.Icanstimulatethestemnumbersbeforewinter,scondaryrootnumber,andicreasedteroot dryweightperplant.Underearlywinterwateringcondition,thelifespanofflagleavewasextended,andthechlorophyllcontents increased,and the photosynthesis was also improved.All these result in final head number increased by $5 . 3 7 \%$ to $1 . 6 6 \%$ ，while the weight thousand kernel by $3 . 0 3 \%$ $. 0 . 5 5 \%$ .It was found that under the November 25 treatment, the yield increase by $8 . 4 0 \%$ and water use efficiency by $5 . 7 6 \%$ to $2 2 . 0 5 \mathrm { k g } { \cdot } \mathrm { m m } ^ { - 1 } { \cdot } \mathrm { h m } ^ { - 2 }$ .At this stage the seedling was just at the early tiler stage when the seedling plant has 3 leaves.
+
+Keywords: corn straw returned to field; rotary tillage,irigating winter water inadvance; winter wheat; growth; WUE
+
+晋西南位于黄土高原东部，是山西省粮食主产区，其作物产量的高低在国家粮食安全中具有举足轻重的作用。玉米秸秆还田具有增加土壤有机质含量，改善土壤理化特性，提高土壤生物活性的培肥改土作用[1-3]。但也有研究表明，秸秆腐解前期微生物与作物争夺氮源，引起作物缺氮[4]；秸秆腐解过程中产生有机酸等化感物质，对作物根系及幼苗生长造成不利影响等[5]。旋耕集梨、耙、平三次作业于一体省时、省力、省工，秸秆还田 $+$ 旋耕模式有利于改善小麦籽粒蛋白质质量和面粉的加工品质[6-7]。在晋西南小麦-玉米一年两熟区，玉米秸秆机械粉碎翻压还田后，小麦采取旋耕播种一次作业完成，造成表层土壤翘虚，小麦播种过深，出苗率降低，影响苗全、苗齐、苗匀，不利于培育冬前壮苗[8-9]。以上秸秆还田 $^ +$ 旋耕正负效应均与土壤水分有关。左玉萍等[0]研究认为，土壤绝对含水量在 $1 5 \% { \sim } 2 0 \%$ 时，旱地土壤中秸秆分解速率最快，低于$1 5 \%$ 时秸秆几乎不分解；张素瑜等[研究表明，在土壤水分条件较差时进行秸秆还田，小麦产量和水分利用率显著降低。党建友等[12研究认为，浇越冬水可促进小麦分蘖；随冬前灌水时间的推迟，水分利用率、养分吸收量和肥料利用率降低。近年来，关于秸秆还田方式方法及不考虑旋耕条件下小麦生长发育研究较多。而将越冬水与秸秆机械粉碎翻压还田 $+$ 旋耕播种相结合研究不多见。为此，本研究旨在探索冬水前移条件下,秸秆粉碎翻压还田 $^ +$ 旋耕播种对冬小麦生长发育及水分利用率的影响，以期为秸秆粉碎翻压还田 $+$ 旋耕播种
+
+耕作制度下，实现小麦规范化播种提供依据。
+
+# 1材料与方法
+
+# 1.1 试验设计
+
+试验于2009一2011年在山西省临汾市尧都区洪堡村农场( $3 6 ^ { \circ } 1 3 . 2 \mathrm { N }$ ， $1 1 1 ^ { \circ } 3 3 . 7 \mathrm { { E } } ^ { \cdot }$ 进行。试验地属暖温带大陆性半干旱季风气候，年均气温 $1 2 . 5 ~ \mathrm { ^ { \circ } C }$ ，年降水量 $4 6 0 { \sim } 5 5 0 \ \mathrm { m m }$ ；2009年10月至2010年6月小麦生育期降雨 $1 4 6 . 2 0 ~ \mathrm { m m }$ ，其中越冬前(10月10日至12月10日)降雨量为 $4 9 . 6 ~ \mathrm { m m }$ ；2010年10月至2011年6月降雨量 $1 1 1 . 6 6 \ \mathrm { m m }$ ，其中越冬前(10月10日至12月10日)降雨量为 $1 0 . 5 \ \mathrm { m m }$ 。供试土壤为石灰性褐土，质地为中壤, $0 { \sim } 2 0 \mathrm { c m }$ 耕层土壤有机质 $1 4 . 0 3 \ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ 、碱解氮 $6 3 . 1 3 ~ \mathrm { { m g } \cdot \mathrm { { k g } ^ { - 1 } } }$ 、速效磷 $2 3 . 1 6 \ \mathrm { m g { \cdot } k g ^ { - 1 } }$ 、速效钾133.10$\mathrm { { m g } { \cdot } \mathrm { { k g } ^ { - 1 } } }$ 。播种和收获当天测定 $0 \sim 2 0 \mathrm { ~ c m } \cdot 2 0 \sim 4 0 \mathrm { ~ c m } \cdot 4 0 \sim 6 0 \mathrm { ~ c m } \cdot 6 0 \sim 8 0 \mathrm { ~ c m } \cdot 8 0 \sim 1 0 0 \mathrm { ~ c m } \cdot 1 0 0 \sim 1 5 0 \mathrm { ~ c m }$ 和 150\~200cm 土层土壤含水量。
+
+设置冬前灌水时间为：11月10日、11月25日、12月10日(CK)和12月25日4个处理，以传统灌水时间12月10日为对照，冬前灌水量 $6 0 0 \mathrm { m } ^ { 3 } { \cdot } \mathrm { h m } ^ { - 2 }$ 。采取大区设计，面积 $4 \mathrm { m } { \times } 8 0 \mathrm { m }$ ，不设重复；每个大区划分为 $4 \mathrm { m } { \times } 1 5 \mathrm { m }$ 的5 个小区，以便控制灌水量，分小区调查。其他管理同大田生产。为便于调查土壤特性，增设不灌冬水处理。
+
+试验地连续5年采取小麦-玉米一年两熟种植模式。试验于2009-2010年10月9日和2010-2011年10月10 日播种，播前浇水造墒，玉米秸秆全部粉碎翻压还田，旋耕深度 $2 0 \ \mathrm { c m }$ 左右，施 $\mathrm { ~ N ~ } 2 2 5 \mathrm { ~ k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 、 $\mathrm { P } _ { 2 } \mathrm { O } _ { 5 }$ $1 3 5 \mathrm { \ k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 和 $\mathrm { K } _ { 2 } \mathrm { O } \ 1 0 5 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ，其中 $70 \%$ 氮肥及磷、钾肥全部基施, $30 \%$ 氮肥拔节期灌水施入，春季仅灌拔节水，灌水量为 $9 0 0 \ \mathrm { m } ^ { 3 } { \cdot } \mathrm { h m } ^ { - 2 }$ 。播量 $2 2 5 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ，行距 $2 0 ~ \mathrm { c m }$ ，供试小麦品种为'临优 $7 2 8 7 ^ { \cdot }$ 。两年收获期均为6月19日。
+
+# 1.2 测定项目与方法
+
+# 1.2.1 群体调查
+
+出苗后三叶期前，在5个小区中分别固定一个 $1 . 0 { \times } 1 . 0 \mathrm { m } ^ { 2 }$ 样方，调查基本苗、越冬前的茎蘖数，并计算单株茎蘖数。
+
+# 1.2.2 根系调查
+
+于越冬前(11月5日)调查单株次生根(根长 ${ \geqslant } 2 \operatorname { c m } _ { \cdot }$ 数和单株根干重[13]。单株次生根数：每小区中确定5个有代表性的样点，选取生长正常、分布均匀的植株。根样获取采用挖掘法，挖根深度 $2 0 \mathrm { c m }$ 。挖掘后，将带有泥土的麦株根系在水中浸泡 $2 \operatorname* { m i n }$ ，然后连泥带土带回实验室冲洗、计数，并计算单株次生根数。单株根重：样点选择方法同单株次生根数。用直径 $6 . 5 \ \mathrm { c m }$ 的根钻按照 BOLINDER 等[14]方法取样，每小区取3钻，第1钻的中心在麦行的正下方，第2钻的中心在两行的正中央，第3钻的一边与麦行相切而相对一边则与两麦行之平分线相切,3钻合一作为同一土层的根系样品。每一个样点分两层取样: $0 { \sim } 2 5 \mathrm { c m }$ 和 $2 5 { \sim } 5 0 ~ \mathrm { c m }$ 。将每个样点不同土层的2个土壤(带根)样品，分别装入100 目的尼龙网袋浸泡 $^ \mathrm { ~ 1 ~ h ~ }$ ，然后用水缓慢冲洗，并用镊子仔细挑除杂质，最后将收集起来的根系置于 $8 0 ~ \mathrm { { ^ \circ C } }$ 烘箱中烘至恒重，用千分之一天平称重，然后计算单株根干重。
+
+# 1.2.3 籽粒产量及考种
+
+成熟期在2个调查样方内各随机选一行，拔取行长 $2 0 \mathrm { c m }$ 的全部植株，去除穗粒数小于5粒的穗子，为有效成穗数，并调查每穗粒数，求均值为穗粒数；各处理收获2个未取样的样方外，再随机收获2个 $1 . 0 \mathrm { m } ^ { 2 }$ 脱粒，风干后称重，为小区产量；数500 粒称重，换算成千粒重,2次重复(重复间相差 $\mathfrak { \leqslant } 0 . 5 \ \mathrm { g } )$ 。
+
+# 1.2.4籽粒水分生产率
+
+籽粒水分生产率 $( \mathbf { k g } { \cdot } \mathbf { m } \mathbf { m } ^ { - 1 } )$ =籽粒产量/田间总耗水量田间总耗水量 $( \mathrm { m m } ) =$ 播种时土壤贮水量 $^ +$ 生育期灌水量 $^ +$ 有效降水量-收获期土壤贮水量
+
+土层贮水量计算公式为: $\scriptstyle \mathbf { W } = \mathbf { w } \times \ p \mathbf { s } \times \mathbf { h } \times 0 . 1$ 。式中:W为土层贮水量(mm),w 为土层含水量 $( \% )$ ,ps为土壤容重 $( \mathrm { g } \cdot \mathrm { m } ^ { - 3 } )$ ,h 为土层厚度(cm),0.1为单位换算系数。
+
+# 1.2.5 光合特性
+
+在小麦开花后7d、14d、21d、28d、35d分别于各小区内选朝向长势基本一致的旗叶10片进行光合指标的测定。叶绿素含量：采用 Amon[15-16]的方法。光合速率：采用英国产CARIS-1光合测定系统测定。测定时间：上午9:00-11:00，测定时光强： $1 ~ 1 5 0 { \pm } 5 0 ~ \mathrm { \mu m o l { \cdot } m ^ { - 2 } { \cdot } s ^ { - 1 } } )$ ，温度： $( 3 0 { \pm } 1 ) \$ ） $\mathrm { { ^ \circ C } }$ ， $\mathrm { C O } _ { 2 }$ 浓度： $3 6 0 { \pm } 1 0 \$ $\mathrm { \mu } \mathrm { m o l } { \cdot } \mathrm { m o l } ^ { - 1 }$ 空气。
+
+# 1.2.6 土壤特性
+
+土壤容重：于越冬前(11月5日)，每小区按S形确定5个代表性的样点，每点用环刀法取 $0 { \sim } 2 0 ~ \mathrm { c m }$ 土层土样测定土壤容重。土壤酶活性：越冬前，每个小区采取 $0 { \sim } 2 0 ~ \mathrm { c m }$ 耕层土壤，立即带回室内，过筛，保存于 $4 \mathrm { { ^ \circ C } }$ 冰箱，一周内测定土壤酶活性。脲酶活性用苯酚—次氯酸钠比色法测定，酶活性单位： $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ $\mathrm { m g { \cdot } 2 4 h ^ { - 1 } { \cdot } g ^ { - 1 } ( s o i l ) }$ ，以 $\mathbf { m g \cdot g ^ { - 1 } }$ 计；土壤转化酶活性用3，5-二硝基水杨酸比色法测定，酶活性单位：葡萄糖$\mathrm { m g { \cdot } 2 4 h ^ { - 1 } { \cdot } g ^ { - 1 } ( s o i l ) }$ ，以 $\mathbf { m g \cdot g ^ { - 1 } }$ 计；土壤磷酸酶活性用苯磷酸二钾法测定，酶活性单位：酚 $\mathbf { m } { \mathbf { g } } { \cdot } 2 4 \mathbf { h } ^ { - 1 } { \cdot } { \mathbf { g } } ^ { - 1 } ( \mathrm { s o i l } )$ ，以 $\mathbf { m g \cdot g ^ { - 1 } }$ 计[17-18]。
+
+# 1.3数据处理
+
+2个年度试验结果趋势基本一致，本文以2009—2010 年度数据进行分析。试验数据采用DPS13.5软件进行统计分析，采用LSD多重比较方法进行方差分析和差异显著性检验 $( \mathrm { { a { = } } } 0 . 0 5 )$ 。
+
+# 2结果与分析
+
+# 2.1冬灌时间对冬小麦冬前群体和根系的影响
+
+# 2.1.1对冬小麦冬前群体的影响
+
+冬前茎数和根系是反映冬小麦是否达到壮苗标准的主要形态指标。从表1看出，在播期播量相同，基本苗基本一致情况下，与传统的灌水时间(12月10日)相比，冬水前移，有利于增加总茎数和单株茎数；冬水推迟，总茎数和单株茎数减少；以11月25日灌冬水，总茎数和单株茎数最高，与其他处理差异达极显著或显著水平。从田间调查情况分析，灌冬水不仅满足小麦苗期生长发育对水分需求，且塌实耕层土壤，解决了秸秆还田后，旋耕播种造成的土壤悬虚，促进冬前分蘖和次生根的发生，但灌冬水时间过早，易造成土壤板结，加上主茎叶龄(2叶到2叶一心)偏小，不利于冬前生长发育。因此灌冬水时间以11月25日左右，主茎叶龄3叶到3叶一心，分蘖初期效果最好。
+
+表1冬灌时间对冬小麦冬前群体和根系的影响  
+Table 1Effect of winter irrigation times ontillers and roots of winter   
+
+<html><body><table><tr><td rowspan="2">冬灌时间(月-日) Time of winter irrigation (month-day)</td><td rowspan="2">基本苗 Basical seedlings (104-hm-2)</td><td colspan="2">茎数 Tillers</td><td colspan="2">根系Roots</td></tr><tr><td>总茎数 Total tillers (104.hm-2)</td><td>单株茎数 Tillers per plant</td><td>次生根数 Root quantity</td><td>根干重 Root weight (g)</td></tr><tr><td>11-10</td><td>376.6±20.39aA</td><td>972.5±49.1bB</td><td>2.60±0.18bA</td><td>8.11±0.34aA</td><td>1.23±0.040aAB</td></tr><tr><td>11-25</td><td>372.5±16.50aA</td><td>1033.3±75.9aA</td><td>2.78±0.23aA</td><td>8.27±0.44aA</td><td>1.27±0.043aA</td></tr><tr><td>12-10(CK)</td><td>382.2±9.10aA</td><td>910.9±64.0cC</td><td>2.39±0.22cB</td><td>5.14±0.74bB</td><td>1.13±0.044bB</td></tr><tr><td>12-25</td><td>400.7±7.22aA</td><td>855.0±79.5dD</td><td>2.13±0.18dC</td><td>4.12±0.63cC</td><td>1.01±0.044cC</td></tr></table></body></html>
+
+同列不同大、小写字母表示处理间差异分别达显著 $( P { < } 0 . 0 5 )$ 和极显著 $( P { < } 0 . 0 1 )$ 水平 Different capital and smallettrs in the same column meant significant difference among treatments at O.O5 and O.O1 level, respectively.
+
+# 2.1.2对冬小麦冬前根系的影响
+
+从表1看出，与传统的灌水时间(12月10 日)比较，随着冬水时间前移，次生根数分别增加$6 0 . 8 9 \% { \sim } 5 7 . 7 8 \%$ ，单株根干重分别增加 $1 2 . 3 9 \% 8 . 8 5 \%$ ，差异达极显著或显著水平；推迟冬水时间，次生根数、单株根干重分别减少 $1 9 . 8 4 \%$ 和 $1 0 . 6 2 \%$ ，差异达极显著水平。由此可知，冬水时间前移，有利于次生根的发生和单株根干重的增加，培育冬前壮苗。
+
+# 2.2冬灌时间对冬前土壤容重和土壤酶活性的影响
+
+土壤容重是反映土壤物理性质的一个重要指标，不同的耕作方式、栽培措施和灌溉制度都会影响土壤容重。从表2看出，与未灌冬水比较，不同灌水时间处理 $0 { \sim } 2 0 \mathrm { c m }$ 土层土壤容重均有所增加，且达极显著水平。这说明冬前灌溉可塌实耕层土壤，使缝隙减少，含水量和紧实度增加，而未灌冬水处理，旋耕播种造成土壤悬虚，对土壤容重的影响依然存在。 $0 { \sim } 2 0 \mathrm { c m }$ 耕作层土壤间的空隙较大，紧实度较小，土壤容重值较低,不利于种子与土壤紧实接触，影响到分蘖和根系的发生。
+
+土壤酶参与土壤有机碳循环转化和营养物质的释放，其活性高低直接反映土壤代谢需求和土壤中养分的有效性。土壤的温度、湿度都会影响酶活性。从表2看出，与未灌冬水比较，不同灌冬水处理 $0 { \sim } 2 0 ~ \mathrm { c m }$ 土层土壤转化酶、磷酸酶和脲酶活性都有增加，均达极显著水平。不同灌水时间，冬前灌溉愈早，土壤酶活性愈高，且处理间达到极显著水平。
+
+表2冬灌时间对冬前 $\mathbf { 0 } { \sim } 2 \mathbf { 0 } ~ \mathbf { c m }$ 土层容重和土壤酶活性的影响  
+
+<html><body><table><tr><td colspan="5">Table2 EIfectofwinterirrigationtimesonsoilBulkdensityandsoilenzymeactivitiesofO-2ocmlayer</td></tr><tr><td>冬灌时间(月-日)</td><td>容重</td><td>土壤转化酶</td><td>土壤磷酸酶</td><td>脲酶</td></tr><tr><td>Time of winter irrigation</td><td>Bulk density</td><td>Soil invertase</td><td>Phosphatase</td><td>Urease</td></tr><tr><td>(month-day)</td><td>(g·m-3)</td><td>(mg:g-1)</td><td>(mg:g-1)</td><td>(mg:g-1)</td></tr><tr><td>未冬灌Non-irrigation beforewinter</td><td>1.09±0.01dC</td><td>3.75±0.02eE</td><td>0.51±0.04eE</td><td>5.77±0.02eE</td></tr><tr><td>11-10</td><td>1.30±0.02aA</td><td>5.18±0.02aA</td><td>1.31±0.02aA</td><td>10.80±0.03aA</td></tr><tr><td>11-25</td><td>1.28±0.02abA</td><td>5.12±0.02bB</td><td>1.22±0.01bB</td><td>10.08±0.01bB</td></tr><tr><td>12-10(CK)</td><td>1.27±0.01bAB</td><td>5.06±0.01cC</td><td>1.06±0.02cC</td><td>9.84±0.02cC</td></tr><tr><td>12-25</td><td>1.24±0.02cB</td><td>4.65±0.03dD</td><td>0.93±0.02dD</td><td>8.36±0.03dD</td></tr></table></body></html>
+
+# 2.3冬灌时间对冬小麦旗叶光合特性的影响
+
+# 2.3.1对冬小麦叶绿素含量的影响
+
+从表3看出，冬水时间前移两个处理的旗叶叶绿素含量明显高于对照和冬水推迟处理,11月25日冬灌的叶绿素含量最高，与其它处理的差异达到极显著水平。从表3还可看出，从开花到花后21d为冬小麦叶绿素含量缓降期,21d后叶绿素含量急剧下降，至35d时旗叶叶绿素含量基本为零，但不同处理间存在差异，冬水前移处理的叶绿素含量随时间变化较小，比较稳定；冬水推迟处理的叶绿素含量随时间变化较大，稳定性差。
+
+Table 3Effect of winter irrigation times on chlorophyllcontent in flag leaf of wheat $( \mathbf { m g \cdot g ^ { - 1 } } )$   
+
+<html><body><table><tr><td rowspan="2">冬灌时间(月-日) Time of winter irrigation (month-day)</td><td colspan="5">开花后天数 Days after anthesis (d)</td></tr><tr><td>7</td><td>14</td><td>21</td><td>28</td><td>35</td></tr><tr><td>11-10</td><td>7.19±0.18bB</td><td>6.40±0.02bB</td><td>4.65±0.10bB</td><td>2.77±0.08bB</td><td>0.58±0.02bB</td></tr><tr><td>11-25</td><td>7.92±0.14aA</td><td>7.02±0.06aA</td><td>5.34±0.04aA</td><td>3.72±0.05aA</td><td>0.65±0.04aA</td></tr><tr><td>12-10(CK)</td><td>7.06±0.12cC</td><td>5.89±0.04cC</td><td>4.47±0.01cC</td><td>2.74±0.02bB</td><td>0.55±0.01bB</td></tr><tr><td>12-25</td><td>7.02±0.15cC</td><td>5.82±0.21cC</td><td>4.39±0.08dC</td><td>2.74±0.02bB</td><td>0.54±0.02bB</td></tr></table></body></html>
+
+# 2.3.2对冬小麦旗叶光合速率的影响
+
+从表4看出，11月25日冬灌处理小麦旗叶光合速率最高，明显高于其它处理，差异达到极显著水平。花后 $3 5 \mathrm { d }$ 时,11月10日冬灌处理的旗叶光合速率高于12月10日和12月25日冬灌处理，差异性达到显著和极显著水平;12月10日冬灌处理的旗叶光合速率高于12月25日，差异性达到显著水平。
+
+分析冬水前移后，冬小麦灌浆期间旗叶叶绿素含量和光合速率的相关性，二者呈显著止相关（20 $\scriptstyle ( \mathbf { r } = 0 . 9 0 4 8 )$ ，这说明光合速率的高值持续期和叶绿素含量相对稳定期基本一致，究其原因，冬水前移提高了小麦旗叶叶绿素含量，同时也提高了旗叶的净光合速率，这可能与冬水前移后发达的根系促进对土壤水分、养分的吸收，延长高光合期，延缓了功能叶衰老。
+
+表3冬灌时间对冬小麦旗叶叶绿素含量的影响  
+表4冬灌时间对冬小麦旗叶光合速率的影响  
+Table 4Effect of winter irrigation times on photosynthetic rate of flag leaf of wheat(μmol $\mathbf { C O } _ { 2 } { \cdot } \mathbf { m } ^ { - 2 } { \cdot } \mathbf { s } ^ { - 1 } )$   
+
+<html><body><table><tr><td rowspan="2">冬灌时间(月-日) Time of winter irrigation (month-day)</td><td colspan="6">开花后天数 Days after anthesis (d)</td></tr><tr><td>0</td><td>7</td><td>14</td><td>21</td><td>28</td><td>35</td></tr><tr><td>11-10</td><td>20.64±1.20bB</td><td>17.47±0.86bB</td><td>16.51±0.62bB</td><td>14.95±0.69bB</td><td>4.71±0.61bB</td><td>0.79±0.31abA</td></tr><tr><td>11-25</td><td>21.9±0.58aA</td><td>19.63±0.75aA</td><td>18.51±0.81aA</td><td>16.56±0.75aA</td><td>5.75±0.85aA</td><td>0.90±0.26aA</td></tr><tr><td>12-10(CK)</td><td>20.64±1.20bB</td><td>17.43±0.63bB</td><td>16.48±0.50bB</td><td>14.92±0.81bB</td><td>4.68±0.37bB</td><td>0.67±0.21bAB</td></tr><tr><td>12-25</td><td>16.75±0.96cC</td><td>15.36±1.30cC</td><td>14.34±0.39cC</td><td>9.81±0.85cC</td><td>3.95±0.53cC</td><td>0.45±0.12cB</td></tr></table></body></html>
+
+2.4冬灌时间对冬小麦籽粒产量和水分利用效率的影响
+
+# 2.4.1对冬小麦籽粒产量和产量结构的影响
+
+从表5看出，冬水前移两处理的产量高于对照和冬水推迟处理，其差异达到极显著水平，尤以11月 25日产量最高，较12月10日(CK)和12月25日处理的产量分别增加 $8 . 4 0 \%$ 和 $1 5 . 3 7 \%$ ;12月25日处理的产量较12月10日(CK)减产 $6 . 0 3 \%$ ，差异达到极显著水平。产量三要素中，各处理间穗粒数差异性没有达到显著水平;11月25日处理的成穗数和千粒重高于其它处理，差异性达到极显著水平;11月10日和12月10日(CK)处理的成穗数差异性未达到显著水平，但都高于12月25日处理，差异性达到极显著水平；其余处理千粒重是11月10日 ${ > } 1 2$ 月10日 $( \mathrm { C K } ) { > } 1 2$ 月25日，11月10日与12月10日(CK)差异性达到显著水平，两处理与12月25日处理差异性达到极显著水平。单株成穗数是11月25日 ${ > } 1 1$ 月10日 ${ > } 1 2$ 月10日 $( \mathrm { C K } ) { > } 1 2$ 月25日，冬水前移两处理间差异不显著，但与12月10日(CK)和12月25日差异性达到显著或极显著水平，12月10日(CK)与12月25日差异性达到显著水平。
+
+Table 5Effects of different winter irrigation times on yield and yield component of wheat   
+
+<html><body><table><tr><td>冬灌时间(月-日) Time of winter irrigation</td><td>产量 Grain yield</td><td>成穗数 Spike number</td><td>穗粒数 Kernel number</td><td>千粒重 1000-kernel weight</td><td>单株成穗 Spike number of per</td></tr><tr><td>(month-day)</td><td>(kg·hm-2)</td><td>(x104.hm-2)</td><td>33.3±1.7aA</td><td>(g）</td><td>plant</td></tr><tr><td>11-10 11-25</td><td>7573.6±182.8aA 7762.0±365.7aA</td><td>740.1±41.4bB 767.1±33.1aA</td><td>33.2±0.8aA</td><td>36.5±0.4bB 37.4±0.3aA</td><td>1.97±0.13abA 2.06±0.14aA</td></tr><tr><td>12-10(CK)</td><td>7160.7±173.0bB</td><td>728.0±31.5bB</td><td>33.2±1.7aA</td><td>36.3±0.3cB</td><td>1.91±0.13bAB</td></tr><tr><td>12-25</td><td>6728.9±182.4cC</td><td>706.9±30.6cC</td><td>33.7±1.8aA</td><td>35.7±0.3dC</td><td>1.77±0.06cB</td></tr></table></body></html>
+
+# 2.4.2对冬小麦籽粒产量水分利用效率的影响
+
+从表6看出，在播前土壤储水量、生育期灌水量相同的情况下，冬小麦收获期土壤储水量随冬灌时间的前移而减少，田间总耗水量随冬灌时间的前移而增加。不同冬灌时间处理的冬小麦籽粒水分利用效率是11月25日 ${ > } 1 1$ 月 $1 0 { > } 1 2$ 月 $1 0 ( \mathrm { C K } ) { > } 1 2$ 月25日。由此说明，冬水前移有利于提高冬小麦籽粒水分利用率,尤以11月25日最高，达到 $2 2 . 0 5 \mathrm { k g } { \cdot } \mathrm { m m } ^ { - 1 } { \cdot } \mathrm { h m } ^ { - 2 }$ ，较12月10日(CK)增加 $5 . 7 6 \%$ 。
+
+表5不同冬灌时间的冬小麦产量及构成  
+表6不同冬灌时间的冬小麦籽粒水分利用效率  
+
+<html><body><table><tr><td>冬灌时间(月-日) Time of winter irrigation</td><td>Tableo 播前土壤贮水量 Soil water storage before sowing</td><td>EnectsOrwiiterIrrigationthiesOnwate 生育期灌水量 Total water consumption (mm)</td><td>有效降雨量 Efficiency precipitation</td><td>useeliciencyorwterwleat 收获期土壤贮水量 Soil water storage at maturity</td><td>田间总耗水量 Total water consumption</td><td>水分利用率 WUE (kg·mm-1.hm-2)</td></tr><tr><td>(month-day) 11-10</td><td>(mm) 305.8</td><td>150</td><td>(mm) 146.2</td><td>(mm) 247.3</td><td>(mm) 354.7</td><td>21.30</td></tr><tr><td>11-25</td><td>305.8</td><td>150</td><td>146.2</td><td>251.0</td><td>351.0</td><td>22.05</td></tr><tr><td>12-10(CK)</td><td>305.8</td><td>150</td><td>146.2</td><td>258.1</td><td>343.9</td><td>20.85</td></tr><tr><td>12-25</td><td>305.8</td><td>150</td><td>146.2</td><td>272.0</td><td>330.0</td><td>20.40</td></tr></table></body></html>
+
+# 3讨论
+
+小麦三叶期开始分蘖至越冬前是促根增蘖、培育种苗、安全越冬的关键时期[19]。土壤水分影响冬小麦单株次生根数、根系分布与功能[20]。干旱造成植株生长缓慢、根重下降，根系对无机养分的吸收减少，光合作用降低，产量下降[21-24]。但因耕作制度和土壤熵情、苗情不同，最佳灌水时间不尽相同[10,25]。在传统耕作种植下，小麦浇冬水时间为昼消夜冻或早冻午消，其作用是增加土壤水分，稳定地温，防止冬季冻害[19]。在秸秆还田及旋耕下，苗期灌水主要作用是增加小麦分蘖和总茎数，且受灌水时间影响，成穗数受冬春灌水时间共同影响[12.25]。本试验表明，玉米秸秆粉碎还田 $^ +$ 旋耕播种模式下，小麦浇冬水时间由传统的“昼消夜冻，冬浇正好"适当前移，不仅可增加土壤水分、稳定地温，防止冬季冻害，而且增加冬前总茎数、提高单株茎数，促进次生根的发生、提高了单株根系干重，扩大对深层土壤水分和养分的吸收利用，延缓了旗叶衰老，增强旗叶功能，使小麦旗叶叶绿素含量和光合速率提高，促进碳水化合物的合成和光合产物的流动，增加千粒重，提高产量。
+
+土壤容重的变化直接或间接地影响土壤的水、肥、气、热状况，土壤容重过高或过低都不利于作物生长[27-28]。本试验表明，在秸秆粉碎翻压还田 $+$ 旋耕播种模式下，不灌越冬水，耕层土壤疏松、容重降低，土壤含水量低，导致冬前分蘖缺位，茎数不足，次生根少、干重低、苗情差；采取冬水前移，塌实耕层土壤，调节土壤容重，弥补秸秆还田 $^ +$ 旋耕对播种质量、幼苗素质造成的损失，克服秸秆还田 $^ +$ 旋耕播种初期的缺点，有利于培育冬前壮苗，增加总茎数、提高单株成穗数，这与朱敏等研究结果一致[29]。同时，冬水前移改善了秸秆还田 $+$ 旋耕播种的土壤水分条件，加速秸秆腐熟，使得土壤酶活性增强，土壤肥力提高，增强小麦对养分的吸收，提高了成穗数，使得小麦产量增加，籽粒水分利用率提高。可见，通过农艺措施调节，能减轻秸秆粉碎翻压还田 $^ +$ 旋耕播种对小麦生长的不良影响，从而提高小麦产量和品质。
+
+# 4结论
+
+晋西南小麦-玉米一年两熟种植区，小麦灌冬水时间由传统灌水时间(12月10日)前移一个节气，即11月 25 日左右，此时小麦主茎叶龄处于3叶到3叶一心的分蘖初期，这使冬前总茎数增加 $1 3 . 4 4 \% \sim 6 . 7 6 \%$ 、单株茎数增加 $1 6 . 3 2 \% { \sim } 8 . 7 9 \%$ ，次生根数增加 $6 0 . 8 9 \% { \sim } 5 7 . 7 8 \%$ 、单株根干重增加 $1 2 . 3 9 \% 8 . 8 5 \%$ ，显著提高了小麦幼苗的素质，达到冬前壮苗标准，使成穗数增加 $5 . 3 7 \% { \sim } 1 . 6 6 \%$ 、单株成穗数增加 $7 . 8 5 \% { \sim } 3 . 1 4 \%$ ；同时根系增加了对水分和养分的吸收利用，延长了旗叶的功能，提高旗叶叶绿素含量和光合速率，促进光合产物的合成转化，使千粒重提高 $3 . 0 3 \% { \sim } 0 . 5 5 \%$ ，增产 $8 . 4 0 \%$ ，水分利用率达 $2 2 . 0 5 \ \mathrm { k g \cdot m m ^ { - 1 } \cdot h m ^ { - 2 } }$ 、提高 $5 . 7 6 \%$ 。因此，玉米秸秆粉碎还田 $^ +$ 旋耕播种模式下，冬水适当前移，及时塌实耕层土壤，调节土壤容重，利于根系与土壤紧密接触，增强土壤酶活性，提高土壤肥力，促进分蘖和次生根的发生，实现高产高效栽培。
+
+# 参考文献References
+
+[1] 张静，温晓霞，廖允成，等．不同玉米秸秆还田量对土壤肥力及冬小麦产量的影响[J]．植物营养与肥料学报，2010,16(3): 612-619   
+ZHANGJ,WENXX,LIAOYC,etalEfectsof differentamountof maize strawreturningonsoilfertlityandyieldof winter wheat[J].Plant Nutrition and Fertilizer Science,201O,16(3): 612-619   
+[2]李伟，乔玉强，陈欢，等．秸秆还田和施肥对砂姜黑土理化性质及小麦—玉米产量影响[J]．生态学报，2014，34(17): 5052-5061   
+LI W,QIAOYQ,CHENH,etal.Efetcs ofcombinedstrawandNaplcationonthephsicochemicalproperties oflimeconcertion black soil and crop yields[J].ActaEcologica Sinica,2014,34(17): 5052-5061   
+[3]张晶，张定一，王丽，等．不同有机肥和氮磷组合对旱地小麦的增产机理研究[J]．植物营养与肥料学报，2017,23(1): 238-243 ZHANG J, ZHANGDY,WANGL,etal.The mechanismof diferentcombinations oforganicandN,Pferilizers increasing yield of dryland wheat[J]. Journal of Plant Nutrition and Fertilizer,2O17,23(1): 238-243   
+[4]PARNAS H.Atheoretical explantionofthe priming efect basedon microbial growthwith twolimiting substrates[J].Soil Biology and Biochemistry,1976,8(2): 139-144   
+[5]杨思存，霍琳，王建成．秸秆还田的生化他感效应研究初报[J]．西北农业学报,2005,14(1):52-56 YANG SC,HUOL,WANGJC.Alelopathic effectofstrawreturning[J].Acta Agricultural Boreali-cidentalis Sinica,2005, 14(1): 52-56   
+[6] 江晓东，迟淑筠，李增嘉，等．不同土壤耕作模式对冬小麦籽粒品质的影响[J]．农业工程学报,2007,23(7):54-57 JIANGXD,CHSY,IZJ,etal.Effetcsofdifferentillagepattrns ograinqualityofwinterwheat[J].Transactionsofthe Chinese Society of Agricultural Engineering,2007,23(7): 54-57   
+[7] 韩斌，李增嘉，王芸，等．土壤耕作及秸秆还田对冬小麦生长状况及产量的影响[J]．农业工程学报,2007,23(2):48-53 HAN B,LIZJ,WANG Y,etal.Efectsof soil tilage andreturningstrawtosoilon wheat growthstatusand yield[J]. Transactions of the Chinese Society of Agricultural Engineering,2Oo7,23(2): 48-53   
+[8] 董飞，党建友，王娇爱，等．播种方式对冬小麦产量构成、品质及水分利用率的影响[J].山西农业科学，2017,45(6): 944-948 DONG F,DANGJY,WANGJA,et al.Efetcof sowing patterns on yieldcomponents and its componets,grainqualityand water use eficiency of winter wheat[J].Journanl of Shanxi Agricultural Sciences,2O17,45(6): 944-948   
+[9] 杨丽雯，张永清，张定一，等．山西省小麦生产的现状、问题与对策分析[J]．麦类作物学报,2010,30(6):1154-1159 YANG L W,ZHANGYQ,ZHANGDY,etal.Analysis on problems and strategies of wheat production in Shanxi provience[J]. Journal of Triticeae Crops,2010,30(6):1154-1159   
+[10] 左玉萍，贾志宽．秸秆分解土壤水分适宜区间及临界值[J]．西北农业学报,2003,12(3):73-75 ZUOYP,JIA Z K.Suitablesoil water contentand critical valuefor straw decomposing[J].Acta Agricultural Boreali-occidentalis Sinica,2003,12(3): 73-75   
+[11] 张素瑜，王和洲，杨明达，等．水分与玉米秸秆还田对小麦根系生长和水分利用效率影响[J].中国农业科学,2016,49(13):
+
+2484-2496
+
+ZHANG S Y, WANGHZ, YANG MD,et al. Influenceof returning cornstalks tofieldunder diferent soil moisturecontents onroot growthand wateruse effciencyof wheat (TriticumaestivumL)[J].ScientiaAgriculturaSinica,2O1,49(13): 2484-2496   
+[12]党建友，裴雪霞，张定一，等．秸秆还田条件下灌水模式对冬小麦产量和水肥利用效率的影响[J].应用生态学报,2011, 22(10): 2511-2516 DANGJY,PEIX X,ZHANGDY,etal. Effects ofirrigation mode on winter wheat yield and water- and nutrientuse efficiencies under maize straw returning to field[J].Chinese Journal of Applied EEcology,2011,22(10): 2511-2516   
+[13] 李鸿斐，胡廷积，王晨阳，等．不同品质类型冬小麦根系基本性状的比较研究[J].河南农业大学学报,2001,35(2):107- 110 LI HF, HUTJ, WANGCY,et al. Comparative studyonroot system characters of different qualitytypes of winter wheat[J]. Journal of Henan Agricultural University,2001,35(2):107-110   
+[14]BOLINDER MA,ANGERS DA,DUBUCJP.Estimatingshotorootratiosandanualcarbo inputsisoils forcerealcrops. Agriculture[J]. Ecosystems and Environment,1997,63: 61-66   
+[15]白宝璋，史国安，赵景阳,等．植物生理学[M]．北京：中国科技出版社,2001:32-34 BAI B Z, SHI GA, ZHAOJY, et al. Plant physiology[M].Beijing: China Science and Technology Pres,2001: 32-34   
+[16]ARNONDN.Copperenzymes inisolated chloroplast,polyprendoxidase in Betavulgari[J].Plant Physiol,1949,24:1-5   
+[17] 赵鹏，陈阜．秸秆还田配施化学氮肥对冬小麦氮效率和产量的影响[J]．作物学报,2008,34(6):1014-1018 ZHAO P,CHENF.Effectsof straw mulchingplusnitrogen fertlizeron nitrogen effciencyand Grain Yieldin Winter Wheat[J]. ActaAgronomica Sinica, 2008, 34(6) :1014-1018   
+[18] 关松荫．土壤酶及其研究法[M]．北京：农业出版社,1986:294-297 GUAN S Y. Soil enzyme and its research methods [M]. Beijing: Agriculture Press. 1986: 294-297   
+[19] 徐兆飞．山西小麦[M]．北京：中国农业出版社,2006:324-341 XU Z F. Shanxi wheat[M]. Beijing: China Agriculture Press, 2006: 324-341   
+[20]马富举，李丹丹，蔡剑，等．干旱胁迫对小麦幼苗根系生长和叶片光合作用的影响[J].应用生态学报，2012，23(3): 724-730 MAFJ,LIDD,CAIJ,etal.Responses ofwheat seedlings root growthand leaf photosythesis todrought stressJ].Cinese Journal of Applied Ecology,2012,23(3): 724-730   
+[21] 程宪国，汪德水，张美荣，等．不同土壤水分条件对冬小麦生长及养分吸收的影响[J]．中国农业科学,1996,29(4):67-74 CHENG X G, WANG D S, ZHANG M R,et al. Effects of diferent soil moisture conditions on winter wheat growth and nutrient uptake[J]. ScientiaAgricutura Sinica,1996,29(4): 67-74   
+[22] 石岩，林琪，李素美，等．土壤水分胁迫对小麦养分分配及产量的影响[J]．植物营养与肥料学报,1998,4(1):50-56 SHI Y,LIN Q,LISM,et al.Efectof soil waterstresson nutrientdistributionand yieldof wheat[J].Plant NatritionAnd Fertilizen Science,1998,4(1): 50-56   
+[23]饶立华．植物矿质营养及其诊断[M]．北京：农业出版社,1993 RAO L H.Mineral nutrition and its diagnosis[M]. Beijing: Agricultural Pres, 1993   
+[24]MorganJ.eefctofutritionoteaterelationandgasexchangecharactersticsofwheat[J].Plantpysiol,90: 52-58   
+[25]肖俊夫，刘战军，段爱旺，等．不同灌水处理对冬小麦产量及水分利用效率的影响研究[J]．灌溉排水学报，2006,25(2): 20-23 XIAO JH,LIUZF,DUANA W, et al. Studies onEffcts ofIrigation Systems onthe Grain YieldConstituentsand WaterUse Efficiency of Winter Wheat[J]. Journal of Irigation and Drainage,20O6,25(2): 20-23   
+[26] 金善宝．中国小麦学[M]．北京：中国农业出版社,1996:600-612 JIN S B. Chinese wheat[M]. Beijing: China Agriculture Press,1996: 600-612   
+[27]高绪科．土壤紧实度与作物生长[J]．中国土壤与肥料,1987,(3):1-19 GAO X K. Soil compaction and crop growth[J]. Soil and Fertilizer Sciences in China,1987, (3): 1-19   
+[28] 李志红，王淑华．土壤容重对土壤物理性状和小麦生长的影响[J]．土壤通报,2000,31(2):55-57 LI ZH,WANG S H.Efects of soil bulk densityonsoil physical properties and wheat growth[J]. Chinese Journal of Soil Science,2000,31(2): 55-57   
+[29] 朱敏，石云翔，孙志友，等．秸秆还田与旋耕对川中土壤物理性状及玉米机播质量的影响[J]．中国农业生态学报，2017, 25(7): 1025-1033 ZHU M, SHI Y X,SUNZ Y,etal.Efect of strawruturn and rotarytillageonsoil physical propertiesand mechanical sowing

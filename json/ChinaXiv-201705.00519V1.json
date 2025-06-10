@@ -1,0 +1,282 @@
+[
+    {
+        "type": "text",
+        "text": "Enhanced sequestration of selenite in water by nanoscale zero valent iron immobilization on carbon nanotubes by a combined batch, XPS and XAFS investigation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Guodong Sheng a,d,e,\\*, Ahmed Alsaedi d,Wafa Shammakh d, Shatha Monaquel d, Jiang Sheng b, Xiangke Wang a,d, Hui Li a, Yuying Huang ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "aCollegeofhemistryandhemicalEngineeing,CollgeofMedicalScience,haoxing UniversityZhejiangOoo,Chin   \nbNingboIniuteofterialsoogyieeingnsedemyfencegboin   \nShanghaiSotroocilt)giiuteofledissedefecg   \ndNAAMReshopcltyeceinizUeitydh58   \ne Institute of Plasma Physics,Chinese Academyof Sciences,P.O.Box 1126,Hefei 230031,PR China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this paper,nanoscale zero-valent iron (NZVI) immobilized on carbon nanotube(CNT） composite (NZVI/CNT) was prepared,characterized and used for the sequestrationofSe(IV) inwater.The structural analysis revealed that NZVI were uniformly immobilized on CNT surfaces,and thus the oxidation and aggregation of NZVI was obviously minimized. Compared to bare NZVI,the NZVI/CNT exhibited much higher efficiency on $\\mathsf { S e } ( \\mathsf { I V } )$ sequestration due to the good synergistic effect between CNT adsorption and NZVI reduction.The results from X-ray absorption fine structure(XAFS) revealed that Se(IV)could be almost completely reduced into Se(O)/Se(-II)by NZVI/CNT,while partial reduction occurred on NZVI with a trace of Se(IV)adsorbed on the corrosion products.Besides,the role of pH in Se(IV) sequestration on NZVI/CNTwas lower than that on NZVIdue to the buffering effect of CNT. Moreover, CNT immobilization could also weaken the inhibition effect of humic acid (HA) on the removal of Se(IV) by NZVI,since CNT showed strong adsorption for HA that blocks potential reactivity.The excellnt performance of NZVI/CNT offera promising material for detoxification of $\\mathsf { S e } ( \\mathsf { I V } )$ from wastewater. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In spite of the fact that selenium (Se）is an essential trace element,it willbe toxic to human if it is taken in excess. Recently, it has been generally regarded that Se isa common contaminant that is released from coal-fire power plants,oil refinery,mining industries and so on [1-13]. Besides,isotope $^ { 7 9 } \\mathrm { S e }$ is one of the longlived radioactive fission products in nuclear industry ( $\\beta$ emitter, $\\mathbf { t } _ { 1 / }$ ${ \\bf \\Omega } _ { 2 } = 4 . 8 \\times 1 0 ^ { 5 } \\mathrm { y r }$ .Releaseof $^ { 7 9 } \\mathrm { S e }$ from nuclear waste depositories to the natural environment could contribute to the total cumulative dose of radioactivity[1-3].Meanwhile,Se exits in several oxidation stateswhich largely controls its solubilityand mobilityin the natural water environment.At higher oxidation states (Se(Vl） or $\\mathsf { S e } ( \\mathsf { I V } ) )$ ,Se (selenate $( \\mathsf { S e O } _ { 4 } ^ { 2 - } )$ or selenite $( \\mathsf { S e O } _ { 3 } ^ { 2 - } ) ;$ ）ismore soluble and mobile,while at lower oxidation states $( { \\mathsf { S e } } ( 0 )$ or Se(-II)), Se is in less soluble species,suchas Se or FeSe[1-13].Therefore,reductive sequestration of $\\mathsf { S e } ( \\mathsf { I V } ) / \\mathsf { S e } ( \\mathsf { V I } )$ into sparingly soluble $\\mathsf { S e } ( 0 ) / \\mathsf { S e } ( - \\mathrm { I I } )$ is considered to be one of the most effective way to treat Secontaminatedwastewater. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Among the reducing agents reported so far,several studies have demonstrated that zero-valent iron(ZVI) was convenient for the effective sequestration of $\\mathsf { S e } ( \\mathsf { I V } ) / \\mathsf { S e } ( \\mathsf { V I } )$ .With ZVI oxidization to $\\mathsf { F e } ^ { 2 + }$ and $\\mathsf { F e } ^ { \\bar { 3 } + }$ $\\mathsf { S e } ( \\mathsf { I V } ) / \\mathsf { S e } ( \\mathsf { V I } )$ can be reduced to $\\mathsf { S e } ( 0 ) / \\mathsf { S e } ( - \\mathrm { I I } )$ followed by precipitation as sparingly soluble Se or FeSe [6-11]. Nanoscale zero valent iron (NZVI) was more superior to micronsized ZVI due to its larger surface area and higher reactivity [12-15].NZVI has been widely used for the detoxification of a broad range of contaminants like halogenated hydrocarbons, nitroaromatic compounds,antibiotics,heavy metal ions and radionuclides [12-16].Unfortunately,NZVI can easily react with water and/or oxygen in surrounding media,leading to the formation of an oxidation layer to inhibit further reaction with contaminants.Besides,due to the high surface energy,NZVI can be easilyagglomerated into larger particles,which can also reduce its reactivity[17].These drawbacks severely limit the application of NZVI in real work of environmental remediation.Thus,some investigations have been devoted to the avoiding of the formation of passive layer and agglomeration. One way to address these drawbacks is to introduce some porous materials for immobilization of NZVI. In this respect,various supports like silica [18],resin [19], activated carbon [2O],chitosan beads [21],diatomite [22] and modified bentonite [23,24]have been developed to immobilize NZVI,which can provide stable sites for NZVI loading to prevent its oxidation and agglomeration. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Carbon nanotubes (CNT),with lots of oxygen-containing functional groups,such as hydroxyl(OH) and carboxyl (COOH),have attracted increasingly attention in multidisciplinary areas since their discovery by lijima in 1991,which are due to their unique hollow tube structure and outstanding physiochemical properties [25-27]. CNT have been proposed for various applications such as hydrogen storage devices,potential adsorbents,catalyst supports, sensors and so on [25-27].Moreover, due to the oxygen-containing functional groupsand high surface area,CNT has high adsorption capacity for the removal of inorganic or organic contaminants in practical applications [26-3O]. Thus,the introduction of CNT into NZVI system can combine the high adsorption capacity of CNT and the excellent reduction ability of NZVI. However, to the best of our knowledge,little attention has been paid to the utilization of CNTas the support of NZVI [31-33]. For example, Zhang et al.[31] utilized CNT-supported NZVI for degradation of methylene blue.Lv et al. [32] reported that the reduction of $\\mathrm { C r } ( \\mathsf { V I } )$ into $\\operatorname { C r } ( \\operatorname { I I I } )$ could obviously increase by CNT-supported NZVI.Nevertheless,the exact role of CNT in the interaction of NZVI with contaminants is not clear. Meanwhile,the limited information about the performance and mechanism of CNT-supported NZVI severely limits the practical application of this versatile composite in environmental pollution management. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this paper,CNT were used as a support for immobilization of NZVI and the as-prepared composite (NZVI/CNT) was employed to sequester selenite(Se(IV)) in water.The objectives of this study were:（1） to prepare NZVI/CNT and characterize this composite with SEM-EDS,Zeta potential, ${ \\sf N } _ { 2 }$ -BETand XRD;(2) to compare the performance of this composite to sequester $\\mathsf { S e } ( \\mathsf { I V } )$ with that of bare NZVI;(3) to investigate the exact role of CNT in the sequestration of Se(IV)by NZVI.The multiple functions(such asadsorbent of $\\mathsf { S e } ( \\mathsf { I V } )$ pHbuffering agent,as well as scavenger for corrosion products) of CNT in the reaction system of $S e ( \\mathsf { V I } )$ with NZVI will be firstly revealedinthiswork. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Material and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Chemicals and material ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All the chemicals (including NaBH4,HCl, NaOH, $\\mathrm { F e S O } _ { 4 } { \\cdot } 7 \\mathrm { H } _ { 2 } 0 .$ ${ \\tt N a } _ { 2 } { \\tt S e O } _ { 3 }$ ，Se,FeSe）were purchased inanalytical purityand used without any further purification. Commercial zero-valent iron (ZVI) was obtained from Shanghai Chemical,China,and the grain size passing through a sieve of 1oo meshes was used without further treatment.All solutions were prepared with $1 8 ~ \\mathrm { M } \\Omega ~ \\mathrm { c m }$ de-ionized water(Milli-QGradient,Millipore,USA) under ambient conditions. The carbon nanotubes (CNT) were synthesized by a chemical vapor deposition (CvD) of acetylene in hydrogen flow using Ni-Fe catalysts.The nanoscale zero valent iron (NZVI) was synthesized by a $\\mathsf { N a B H } _ { 4 }$ reduction procedure.The carbon nanotube-supported nanoscale zero valent iron (NZVI/CNT）were synthesized by a similar reduction procedure except that ${ \\sim } 5 . 0 0 \\mathrm { g }$ of CNT was soaking in $\\mathrm { F e S O _ { 4 } } { \\cdot } 7 \\mathrm { H } _ { 2 } 0$ solution under continuous stirring.The detailed procedures are shown in the supporting information (SI). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Experimental procedures ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All batch experiments were conducted in a $1 5 0 \\mathrm { - m L }$ conical flask at ${ \\sim } 2 5 ^ { \\circ } \\mathsf C$ in water bath incubator under ${ \\sf N } _ { 2 }$ atmosphere.To collect enough solid products for microscopic analysis,the samples were prepared by mixing Se(IV) solution with the reactive materials in a $1 0 0 0 \\mathrm { - m L }$ polyethylene bottles,after reaction，the solids were filtered and washed,finally freeze dried.The collected products were stored in $\\mathsf { N } _ { 2 }$ atmosphere.The reactive materials before and after reaction were characterized by scanning electron microscopeenergy dispersive spectrometer (SEM-EDS),X-ray absorption fine structure (XAFS),X-ray diffraction (XRD), ${ \\sf N } _ { 2 }$ -BET,Zeta potentials. SeK-edge XAFS spectra at\\~12684.5 eV were recorded at room temperatureat the beamline $1 4 \\mathrm { W }$ in Shanghai Synchrotron Radiation Facility (SSRF,China).The detailed procedures for these experiments are presented in the SI. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1.Characterization of the reactive materials ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Some important physicochemical properties of the reactive materials herein were characterized and the results are shown in Fig.1.The SEM images of CNTand NZVI/CNTare presented in Fig.1A and B,respectively. It can be clearly seen that the surfaces of CNT are smooth with a diameter of $3 0 { - } 5 0 ~ \\mathrm { n m }$ (Fig.1A). Nevertheless, some obvious spherical particles were visible on the surfaces or inside the network of CNT(Fig.1B), indicating that NZVI have been successfully supported on CNT. Compared with the SEM image (Fig.S1) of bare NZVI, the particle size of the supported NZVI is much smaller. The reason is that,CNT can stabilize and disperse NZVI as well as prevent NZVI from aggregation. Consequently, as a support, CNT increases the stability and reactivity of NZVI. The zeta potentials of NZVI and NZVI/CNT were measured as a function of pH,and the results are shown in Fig.1C.It can be seen that the zeta potentials of both NZVI and NZVI/CNT shifted from positive to negative with medium pH increasing.Besides,under the same pH condition,the absolute value of the zeta potentials for NZVI/CNT was larger than those for bare NZVI,which results in the higher electrostatic repulsion between particles of NZVI/CNT.Hence,NZVI can be clearly discrete and well dispersed on CNT without obvious aggregation.Additionally, the pHzpc of NZVI and NZVI/CNT was measured to be ${ \\sim } 8 . 0$ and ${ \\sim } 7 . 5$ ,respectively.Thepositively-charged surfaces at $\\mathsf { p H } <$ pHzpc facilitated electrostatic attraction of anionic Se(IV),and thus result in a higher sequestration efficiency. When $\\mathsf { p H } >$ pHzpc,the negatively-charged surfaces facilitated electrostatic repulsion of anionic Se(IV)，which reduced the sequestration efficiency [32]. The XRD patterns of CNT,NZVI and NZVI/CNTare illustrated in Fig.1D.We can see fromFig.1D,that the diffraction peak at $2 \\theta = 2 6 . 5 ^ { \\circ }$ is characteristic of CNT,while the diffraction peak at $2 \\theta = 4 4 . 6 ^ { \\circ }$ assigned to NZVI [32]. Meanwhile, both peaks can be observed for NZVI/CNT, indicating that the structures of CNT are not destroyed after NZVI immobilization. Furthermore,the ${ \\sf N } _ { 2 }$ adsorption-desorption isotherms and corresponding pore-size distributions of the reactive materials are presented in Fig.1E and F,respectively.We can see that the isotherm curve showed typical hysteresis loops in the $\\mathsf { P } / \\mathsf { P } _ { 0 }$ range 0.4-0.8,the surface areas were determined to be $9 3 . 6 ~ \\mathrm { m } ^ { 2 } / \\mathrm { g }$ for CNT, $4 7 . 4 ~ \\mathrm { m } ^ { 2 } / \\mathrm { g }$ for NZVI and 61.1 $\\mathrm { m } ^ { 2 } / \\mathrm { g }$ for NZVI/CNT,respectively. The corresponding pore-size distributions calculated from the adsorption branch confirms that the structures were mainly uniform mesopores. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/358b9922f5fe4bd5b752ad4ac87b960128833b50a4169ebe3117788474cc19c1.jpg",
+        "img_caption": [
+            "Fig.1.SEM imagesof(A)CNT(B)NZVI/CNT,(C)Zeta potentialsof NZVIand NZVI/CNTasafunctionofpH,(D)XRDpaterns,(E)The $\\mathsf { N } _ { 2 }$ adsorption-desorption isotherms,(F)and corespondingpore-sizedistributioncurvesofCN,VIandNZVI/CNTsamples.(Acolourversioofthisfigurecanbeviewedonline.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.Macroscopic experimental results ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 shows the macroscopic experimental results of $\\mathsf { S e } ( \\mathsf { I V } )$ sequestration in water under different conditions.The comparison of Se(IV) sequestration by various reactive materials at $\\mathsf { p H } = 6 . 0$ are shown in Fig.2A.We can see that the sequestration of Se(IV) by CNT is ${ \\sim } 2 5 . 6 \\%$ after contacting for $1 2 0 ~ \\mathrm { { m i n } }$ ,which is controlled by an adsorptive interaction.Meanwhile,the sequestration of $\\mathsf { S e } ( \\mathsf { I V } )$ by ZVI and NZVI that is mainly dominated by a reductive interaction are ${ \\sim } 2 4 . 2 \\%$ and $\\sim 5 8 . 8 \\%$ ，respectively. In view of the different sequestration performance of ZVI and NZVI,we can conclude that the particle size of iron is an important factor in the reductive sequestration of Se(IV).The particle of NZVI is smaller than that of ZVI,hence,NZVI has a greater specific surface area,offering more interfaces for $\\mathsf { S e } ( \\mathsf { I V } )$ interaction with iron [14]. Subsequently, the sequestration of $\\mathsf { S e } ( \\mathsf { I V } )$ increased.Additionally,Lowryand Johnson reported that gas bubbles (likely $\\begin{array} { r } { \\mathsf { H } _ { 2 } } \\end{array}$ ）could be observed in NZVI system but not in ZVI system,the rapid formation of $\\mathrm { H } _ { 2 }$ may enhance the reduction of Se(IV)[15].The presence of B in NZVI also playsa significant role in the sequestration of Se(IV) becausea Fe-B alloy or Fe-B-oxide may form,which can change the electronic properties of the oxide shell[15].Besides,NZVI/CNT displayed the highest $\\mathsf { S e } ( \\mathsf { I V } )$ sequestration,where a significant reduction of $\\mathsf { S e } ( \\mathsf { I V } )$ occurred during the first $6 0 \\ \\mathrm { \\ m i n }$ ，then, ${ \\sim } 9 5 . 7 \\%$ of $\\mathsf { S e } ( \\mathsf { I V } )$ was sequestered after $1 2 0 \\mathrm { m i n }$ .It is obvious that Se(IV) sequestration by NZVI/CNT was higher than the sum of reduction by NZVI and adsorption by CNT, suggesting the good synergistic effect during Se(IV) sequestration by NZVI/CNT.The synergistic effect of CNT is related to the high adsorption of $\\mathsf { S e } ( \\mathsf { I V } )$ on CNT[34]. The adsorption isotherm of $\\mathsf { S e } ( \\mathsf { I V } )$ on CNT was shown in Fig.S2. The good adsorption of Se(IV) on CNT is due to the surface electrical property and functional groups.Thereby,Se(IV) ions can be well enriched on the particle surfaces,and can more easily react with NZVI.In another word,CNT facilitated the mass transferofSe(IV) from solution to iron surface,which contributes to the acceleration of surface reaction for Se(IV)with iron. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/11d1256863401fdafe3f00526d9480ab382e82c08acff4199efe58e72af6f187.jpg",
+        "img_caption": [
+            "'ig.2.(A)The comparison of Se(IV) sequestration by various reactive materials,(B)The role of $\\mathsf { p H }$ in $\\mathsf { S e } ( \\mathsf { I V } )$ sequestration by NZVI and NZVI/CNT,(C) The variation of pH during $\\mathsf { S e } ( \\mathsf { I V } )$ reaction in NZVIand NZVI/CNT systems,(D) The role of HA concentration in $\\mathsf { S e } ( \\mathsf { I V } )$ sequestration by NZVI and NZVI/CNT.(A colour version of this figure can be viewed online.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The role of pH in Se(IV) sequestration by NZVI and NZVI/CNTare shown in Fig.2B.In general, lower pH results in higher $\\mathsf { S e } ( \\mathsf { I V } )$ sequestration and stronger reactivity of NZVI and NZVI/CNT.The removal efficiency of Se(IV) in NZVI system decreased from $6 9 . 1 \\%$ to $4 1 . 0 \\%$ when medium pH increased from 4.3 to 7.6.The SEM images of NZVI before and after reaction with Se(IV) at different pH,and corresponding EDS elemental mapping of Fe(K),O(K),Se(L)are shown in Figs.S3-8.The relative elemental concentrations from SEM-EDSanalysisarelisted inTable S1.Wecansee thatNZVIbefore reaction only contained O and Fe elements without Se,meanwhile, Sewas unevenly distributed throughout the sample and localized on the surfaces of ZVI after reaction.Besides,the relative contents of Se in the solid particles were reduced with pH increasing.The information offered by SEM-EDS is in good consistent with the batch experimental results.Such resultsareunderstandable since $\\mathrm { H ^ { + } }$ is strongly needed and consumed during $\\mathsf { S e } ( \\mathsf { I V } )$ reaction with NZVI [35].Hence,lower medium pH can provide more $\\mathrm { H ^ { + } }$ that is favorable for $\\mathsf { S e } ( \\mathsf { I V } )$ reduction.On the other side,lower pH helps to remove iron oxide formed during NZVl oxidationand continuously makes fresh NZVl expose to solution.However, the removal efficiency of $\\mathsf { S e } ( \\mathsf { I V } )$ in NZVI/CNT system only declined from $9 6 . 2 \\%$ to $8 8 . 6 \\%$ with pH increasing from 4.3 to 7.6,indicating that medium pH displays little effect on $\\mathsf { S e } ( \\mathsf { I V } )$ sequestration by NZVI/CNT.This observation may result from the buffering effect of the oxygencontaining functional groups like hydroxyl (OH）and carboxyl (COOH) on CNT surfaces.With the reaction of Se(IV) with NZVI/CNT proceeding,more and more $\\mathsf { H } ^ { + }$ in solution consumed,consequently,the medium $\\mathsf { p H }$ increased.Meanwhile,the hydroxyl and carboxyl can release $\\mathrm { H ^ { + } }$ from CNT surfaces into water due to the dissociation reaction,keeping medium $\\mathsf { p H }$ ina relative low level. This can be proved by the changes of medium pH during $\\mathsf { S e } ( \\mathsf { I V } )$ reaction with NZVI and NZVI/CNT(Fig.2C).The results indicate that the pH after $4 0 ~ \\mathrm { m i n }$ reaction in NZVI/CNT system(\\~7.O) is lower than that in NZVI system(\\~7.5)with the same initial pH value.The main effect of the generated $\\mathrm { H ^ { + } }$ is to maintain solution pH and thus decrease the surface passivation of iron.The same pH buffering effect has been reported in the iron and claymixed system,where the clays have the ability to generate $\\mathrm { H ^ { + } }$ due to the presence of aluminol or silanol groups [23,24,35-37]. Besides,humic acid (HA) is one of the most commonly co-existing constituents in groundwater and can impose great influence on contaminants reduction by NZVI. It is generally regarded thatHA hasa significant inhibitory effect on contaminants reduction by NZVI,which was ascribed to the competition for reactive sites between adsorbed HA and the target contaminants [38,39]. Herein, the effect of HA with concentration ranges of $0 { - } 2 5 ~ \\mathrm { m g / L }$ on Se(IV) sequestration by NZVI and NZVI/CNTare indicated in Fig.2D.Anobvious inhibition effect of HA can be observed in both systems at a relatively low concentration $( < 5 . 0 ~ \\mathrm { m g / L } )$ ，whereas, $\\mathsf { S e } ( \\mathsf { I V } )$ removal did not appear to clearly change with subsequent increase of HA concentration $( > 5 . 0 \\ \\mathrm { m g / L } )$ . In the case of NZVI, $\\mathsf { S e } ( \\mathsf { I V } )$ sequestration decreased from ${ \\sim } 5 8 . 8 \\%$ to ${ \\sim } 3 5 . 1 \\%$ with HA concentration increasing from O to $2 5 . 0 \\ : \\mathrm { m g / L }$ .This inhibition effect of HA in solution on iron reactivity isin good consistent with the proposition reported by Tratnyek et al.[4O] that various functional groups in HA could compete with contaminants for the reactive surfaces and form surface complexes to block the reactive sites,and thus the reactivity of NZVI was reduced.Nevertheless, $\\mathsf { S e } ( \\mathsf { I V } )$ sequestration only decreased from ${ \\sim } 9 5 . 2 \\%$ to ${ \\sim } 8 7 . 5 \\%$ in NZVI/CNT system with HA concentration increasing from O to $2 5 . 0 ~ \\mathrm { { m g / L } }$ ,namely,the inhibition effect of HA Was less pronounced in the case of NZVI/CNT.It was reported that CNT had strong adsorption to HA via various mechanisms like $\\pi { - } \\pi$ electron-donor-acceptor (EDA)，electrostatic，hydrophobic and hydrogen-bond interactions [41]. The adsorption of HA on CNT is believed to prevent further adsorption of HA on iron in NZVI/CNT system，hence,more reactive sites can be utilized for $\\mathsf { S e } ( \\mathsf { I V } )$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "reduction. This result implies that CNT immobilization can not only act as stabilizerand disperser,but also as a scavenger for HA,which blocks potential reactivity inhibition. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.Spectroscopic speciation of Se sequestered on the reactive materials ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The enhancement effect of CNT on Se(IV) sequestration by NZVI was further studied by spectroscopic methods (i.e.,XAFS and XPS). Fig.3A shows the X-ray absorption near-edge structure (XANES) spectraat SeK-edge forreference sampleswith different oxidation states and reacted samples of Se(IV)sequestered on the reactive materials.XAFS is veryuseful to study the species of metal ions on solid particle surfaces [42-48]. Near-edge spectra can be conveniently and quantitatively compared bynormalizing them to the edge-step.The XANES spectra are largely characteristic of the different oxidation states of Se (i.e.,Se(IV),Se(O) and Se(-I)).The spectra presented a large chemical shift range with subtle but significant variation between thereference and reacted samples. For the reference samples, the $\\mathtt { E } _ { 0 }$ values for Se(IV),Se(O)and $S e ( - \\mathrm { I I } )$ were determined to be 12661.96，12658.14 and 12657.63 eV, respectively,which can be used as a fingerprint for the oxidation state of Se.For the sample of Se(IV) sequestered on CNT,the obvious similarity of XANES edge featurewith that of $\\mathsf { S e } ( \\mathsf { I V } )$ suggests that the oxidation state of Se(IV) did not vary after reaction with CNT, which arise froman adsorptive interaction.Nevertheless,for the sample of Se(IV) sequestered on NZVI/CNT,the XANES spectrum revealed that Se was mainly in the $\\mathsf { S e } ( 0 ) / \\mathsf { S e } ( - \\mathrm { I I } )$ oxidation state, indicatingthat $\\mathsf { S e } ( \\mathsf { I V } )$ was almost completely transformed into $\\mathsf { S e } ( 0 ) / \\mathsf { S e } ( - \\mathrm { I I } )$ byareductive interaction.However,for the sample of $\\mathsf { S e } ( \\mathsf { I V } )$ sequestered on NZVI,the XANES spectrum are distinctly different from those for the samples of Se(IV) sequestered on CNT or NZVI/CNT,which seem to be combined with that of $\\mathsf { S e } ( \\mathsf { I V } )$ and $\\mathsf { S e } ( 0 ) / \\mathsf { S e } ( - \\mathrm { I I } )$ .Thisindicates thatSe(IV) isnot fullyreduced by NZVI. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b81a395fe48f2c3bd50b6d7887ddaf869c510ec57ef1bd7bd0fe90caba9ee27f.jpg",
+        "img_caption": [
+            "Fig（ $\\mathsf { p H } \\mathord { \\sim } 6 . 0$ after reaction for $^ { 2 \\mathrm { ~ h ~ } }$ of $\\mathsf { S e } ( \\mathsf { I V } )$ sequestered on the reactive materials.(A colour version of this figure can be viewed online.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/248820b4fc82f251d2e4a82bf9a1c86ae10086f030f2eeab1669f4934c2ad88d.jpg",
+        "img_caption": [
+            "Fig.4.XPS spectra of Fe2p from (A) NZVIand (B) NZVI/CNT after reaction with $\\mathsf { S e } ( \\mathbb { V } )$ (A colour version of this figure can be viewed online.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Yoon et al.[14] also observed that Se(VI) can not be completed reduced to $\\mathsf { S e } ( 0 ) / \\mathsf { S e } ( - \\mathrm { I I } )$ by ZVI at high concentration. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The binding environment and microstructure of Se sequestered on CNT,NZVI and NZVI/CNT can be further determined by the extended X-rayabsorption fine structure (EXAFS) spectra (Fig.3B). The EXAFS fitting results (uncorrected for phase shift) are shown in Table S2.The Fourier transforms (FT) of the EXAFS spectra isolates the contributions of different coordination shells,in which the peak positions correspond to the interatomic distances.However, these peak positions in Fig.3B have not been corrected for the phase shift effects and thus they deviate from the real distance by $0 . 2 \\mathrm { - } 0 . 5 \\mathrm { ~ \\AA ~ }$ [49]. For reference ${ \\tt N a } _ { 2 } { \\tt S e O } _ { 3 }$ $\\mathrm { \\mathop { S e } } ( \\mathrm { I V } ) )$ ,a single shell at $\\operatorname { R } _ { 5 \\mathrm { e } - 0 } \\sim 1 . 6 9 \\textrm { \\AA }$ with $\\mathsf { N } { \\sim } 3 . 0$ canbefitted,whichisindicativeof the existence of the $s \\mathsf { e } { - } 0$ chemical interaction. For reference Se powder $( \\mathsf { S e } ( 0 ) )$ , three subshells at $\\mathrm { R } _ { \\mathrm { S e - S e } ^ { \\sim 2 . 3 6 \\mathring { A } } }$ with N\\~2.0, $\\mathrm { R } _ { \\mathrm { S e - S e } ^ { - 3 . 5 1 } } .$ A with $\\Nu { \\sim } 8 . 0$ and $\\mathrm { R } _ { \\mathrm { S e - S e } ^ { - 4 . 0 2 } }$ A with N\\~4.O can be fitted,which is suggestive of the presence of the Se-Se chemical interaction.Forreference FeSe $( S e ( -$ II)), two subshells at $\\mathrm { R } _ { \\mathrm { S e - F e } ^ { \\sim 2 . 3 8 } } \\mathrm { ~ \\AA ~ }$ with $\\mathsf { N } { \\sim } 4 . 0$ and $\\mathrm { R } _ { \\mathsf { S e } - \\mathsf { S e } ^ { - 3 . 9 9 } }$ A with ${ \\Nu } { \\sim } 8 . 0$ can be fitted,which indicates the presence of both Se-Se and Se-Fe chemical interaction.These distances are in good consistent with previous reports [12,24]. The EXAFS spectra and fitting results of our reacted samples were compared to those of the reference samples in order to obtain the chemical bonding.For the sample of $\\mathsf { S e } ( \\mathsf { I V } )$ reacted with CNT,the fit can only yield a shell at $\\mathrm { R } _ { \\mathsf { S e } - 0 \\sim 1 . 6 9 }$ A with ${ \\mathsf { N } } { \\mathord { \\sim } } 2 . 7$ that is suggestive of the presence of the Se-O chemical interaction,indicating Se(IV) was adsorbed on CNT surfaces.Besides,for both samples of Se(IV) reacted with NZVI and NZVI/CNT,the fits lead to two subshells at $\\mathrm { R } _ { \\mathrm { S e - F e } ^ { \\sim 2 . 3 8 \\mathrm { \\AA } } }$ with N\\~4.0 and $\\mathrm { R } _ { \\mathrm { S e - S e } ^ { \\sim 3 . 9 9 } } \\mathring { \\mathsf { A } }$ with N\\~8.0,which agrees well with the binding structure of FeSe,indicating that FeSe is the main product of $S e ( \\mathsf { V I } )$ reacted with NZVI and NZVI/CNT.Moreover,for the sample of Se(IV) reacted with NZVI,another shell at $\\mathrm { R } _ { \\mathrm { S e - } 0 ^ { - 1 } } 7 0 \\mathring { \\mathrm { A } }$ with $\\mathsf { N } { \\sim } 2 . 1$ （204 can be fitted,which is in good consistent with the Se-O distance of reference ${ \\sf N a } _ { 2 } { \\sf S e O } _ { 3 }$ ，indicating that some $\\mathsf { S e } ( \\mathsf { I V } )$ are adsorbed on NZVI surface.It was proposed by Deng et al.[14,5O] that two types of surface sites are present on NZVI, namely the non-reactive sites responsible for adsorption while the reactive sites responsible for reduction.Besides,in order to explain their results,they suggested a two-site analytical model,in which adsorption occurs on both non-reactive and reactive sites,whereas reduction only takes place onreactive sites.According to this model,a conceptual reactions process about the interaction of $\\mathsf { S e } ( \\mathsf { I V } )$ with NZVI can be illustrated. The NZVI is spherical,with smooth surface and typical core-shell structure.The $\\mathsf { S e } ( \\mathsf { I V } )$ ions in water first attracted to iron surface,and formed inner-sphere monodentate or bidentate surface complexes. This step is relatively fast because of the small size and large surface area of NZVI and the mixed valence iron oxide shell. Then, $\\mathsf { S e } ( \\mathsf { I V } )$ penetration across the oxide layer is accelerated via the reduction mediated by ferrous and/or $\\mathsf { F e } ( 0 )$ ，with reduction products (i.e., $\\mathsf { S e } ( 0 )$ and Se(-I))accumulated at the oxide/Fe(O) interface.Meanwhile, $\\mathrm { F e } ( 0 )$ is oxidized and precipitated as iron hydroxides,leading to growing corrosion products on particle surface[13]. Therefore, $\\mathsf { S e } ( \\mathsf { I V } )$ can not be completely reduced into $\\mathsf { S e } ( 0 ) / \\mathsf { S e } ( - \\mathrm { I I } )$ by NZVI, since $\\mathsf { S e } ( \\mathsf { I V } )$ can be partially adsorbed on the corrosion products.In otherword,the species of $\\mathsf { S e } ( \\mathsf { I V } )$ and $\\mathsf { S e } ( 0 ) / \\mathsf { S e } ( - \\mathrm { I I } )$ coexisted on iron surfaces in NZVI system.However,for the samples of Se(IV) reacted with NZVI/CNT,the shell of Se-O can not be fitted,indicating the absence of adsorbed $\\mathsf { S e } ( \\mathsf { I V } )$ ,and the nearly complete reduction of $\\mathsf { S e } ( \\mathsf { I V } )$ into $\\mathsf { S e } ( 0 ) / \\mathsf { S e } ( - \\mathrm { I I } )$ under the experimental conditions. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The species of iron on the surface of NZVI and NZVI/CNT after reaction with Se(IV)was further investigated by X-rayphotoelectron spectroscopy (XPS).The observed Fe2p peaks of NZVI and NZVI/CNT after reaction were shown in Fig.4A and B,respectively. The $2 \\mathsf { p } _ { 3 / 2 }$ peaks can be decomposed into three peaks at 7O6.5,710.8 and $7 1 2 . 4 \\mathrm { e V } ,$ ,respectively,which are indicative of the binding energies of $\\mathsf { F e } ^ { 0 }$ ， $\\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ and FeOOH,respectively [51]. The results indicated that during $\\mathsf { S e } ( \\mathsf { I V } )$ reduction, $\\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ and FeOOH could be formed and precipitated on particle surface,hence,blocking the reactivity of NZVI.Moreover, the results indicated fewer precipitates were formed on NZVI/CNT,leading to the enhanced reactivity of NZVI/CNT on removing $\\mathsf { S e } ( \\mathsf { I V } )$ ，suggesting that NZVI/ CNT exhibited a good anti-oxidation performance. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this study,NZVI became more effective when CNT was introduced as a support due to the reduction of aggregation and oxidation.Batch experiments indicated that the sequestration of $\\mathsf { S e } ( \\mathsf { I V } )$ increased as NZVI immobilized on CNT. From the results obtained above,we can see that the optimization conditions for the complete removal of $\\mathsf { S e } ( \\mathsf { I V } )$ in water isunder low pH and low HA concentration,using CNT-immobilized NZVI as a reactive material. The primary role of CNT in the enhancement of Se(IV) sequestration was assumed to act as stabilizer and disperser as well as scavenger for corrosion products and coexisted HA.It was thus proposed that NZVI/CNT could be an efficient and promising remediation material tosequester Se(IV） and other related radionuclides from wastewater. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This project was funded by the Deanship of Scientific Research (DSR),King Abdulaziz University,under grant no.41-13O-36-HiCi. The authors,therefore,acknowledge with thanks DSR technical and financial support. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Appendix A.Supplementarydata ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Supplementary data related to thisarticle can be found at http:// dx.doi.0rg/10.1016/j.carbon.2015.12.013. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] L. Charlet, A.C. Scheinost, C. Tournassat, J.M. Greneche, A. Gehin, A. FernandezMartinez, S. Coudert, D. Tisserand, J. Brendle, Electron transfer at the mineral water interface: selenium reduction by ferrous iron sorbed on clay, Geochim. Cosmochim. Acta 71 (2007) 5731-5749. [2] L. Charlet, M. Kang, F. Bardeli, R. Kirsch, A. Géhin, J.M. Grenéche,F. Chen, Nanocomposite pyrite-greigite reactivity toward Se(IV)/Se(VI), Environ. Sci. Technol. 46 (2012) 4869-4876. [3]S. Chakraborty, F. Bardelli, L. Charlet, Reactivities of $\\mathrm { F e ( I I ) }$ on calcite: selenium reduction, Environ. Sci. Technol. 44 (2010) 1288-1294.   \n[4] R.L.D. Loyo，S.I. Nikitenko,A.C. Scheinost，M. Simonoff, Immobilization of selenite on $\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ and $\\mathrm { F e } / \\mathrm { F e } _ { 3 } C$ ultrasmall particles, Environ. Sci. Technol. 42 (2008) 2451-2456. [5] D.B. Li, Y.Y. Cheng, C.Wu, W.W. Li, N. Li, Z.C.Yang, Z.H. Tong, H.Q. Yu, Selenite reduction by Shewanella oneidensis MR-1 is mediated by fumarate reductase in periplasm, Sci. Rep. 4 (2014) 1-7.   \n[6] B.D.Gibson，D.W. Blowes，M.B.J. Lindsay，C.J. Ptacek,Mechanistic investigations of Se(Vl) treatment in anoxic groundwater using granular iron and organic carbon: an EXAFS study,J. Hazard. Mater 241-242 (2012) 92-100. [7] I. Yoon, K. Kim, S. Bang, M.G. Kim, Reduction and adsorption mechanisms of selenate by zero-valent iron and related iron corrosion, Appl. Catal. B Environ. 104 (2011) 185-192.   \n[8] L. Liang, X. Guan, Z. Shi, J. Li, Y. Wu, P.G. Tratnyek, Coupled efects of aging and weak magnetic fields on sequestration of selenite by zero-valent iron, Environ. Sci. Technol. 48 (2014) 6326-6334. [9] L. Liang, W. Yang, X. Guan, J. Li, Z. Xu, J. Wu, Y. Huang, X. Zhang, Kinetics and mechanisms of pH-dependent Se(IV) removal by zero valent iron, Water Res. 47 (2013) 5846-5855.   \n[10] L. Liang, W. Sun, X. Guan, Y. Huang, W. Choi, H. Bao,L. Li, Z. Jiang, Weak magnetic field significantly enhances selenite removal kinetics by zero valent iron,Water Res.1 (2014) 371-380.   \n[11] A.M. Scheidegger，D. Grolimund，D. Cui, J. Devoy，K. Spahiu,P. Wersin, I. Bonhoure,M. Janousch,Reduction of selenite on iron surfaces:a microspectroscopic study, J. Phys. Fr. 104 (2003) 417-420.   \n[12] JT. Olegario, N. Yee,M. Miller,J.Sczepaniak, B. Manning, Reduction of Se(VI) to Se(-Il) by zerovalent iron nanoparticle suspensions,J. Nanopart. Res. 12 (2010) 2057-2068.   \n[13]L. Ling, B. Pan,W. Zhang, Removal of selenium from water with nanoscale zero-valent iron: mechanisms of intraparticle reduction of Se(IV), Water Res. 71 (2015) 274-281.   \n[14] R. Cheng, J. Wang, W. Zhang, Comparison of reductive dechlorination of pchlorophenol using $\\mathrm { F e } ^ { 0 }$ and nanosized Fe°,J. Hazard. Mater 144 (2007) 334-339.   \n[15] G.V. Lowry, K.M. Johnson, Congener-specific dechlorination of dissolved PCBs by microscale and nanoscale zerovalent iron in a water/methanol solution, Environ. Sci. Technol. 38 (2004) 5208-5216.   \n[16] X.Guan, Y. Sun, H. Qin, J. Li, LM.C.Lo,D.He,H. Dong, The limitations of applying zero-valent iron technology in contaminants sequestration and the corresponding countermeasures: the development in zero-valent iron technology in the last two decades (1994-2014),,Water Res. 75 (2015) 224-248.   \n[17] T. Phenrat, N. Saleh, K. Sirk, R.D. Tilton, G.V. Lowry, Aggregation and sedimentation of aqueous nanoscale zerovalent iron dispersions, Environ. Sci. Technol.41 (2007) 284-290.   \n[18] J. Zhan, T. Zheng, G. Piringer, C. Day, G.L. McPerson, Y. Lu, K. Papadopoulos, V.T. John, Transport characteristics of nanoscale functional zerovalent iron/ silica composites for in situ remediation of trichloroethylene,Environ. Sci. Technol. 42 (2008) 8871-8876.   \n[19] Z. Jiang, L. Lv, W. Zhang, Q. Du, B. Pan, L. Yang, Q. Zhang, Nitrate reduction using nanosized zero-valent iron supported by polystyrene resins: role of surface functional groups, Water Res. 45 (2011) 219i-2198.   \n[20] X. Wu, Q. Yang, D. Xu, Y. Zhong, K. Luo, X. Li, H. Chen, G. Zeng, Simultaneous adsorption/reduction of bromate by nanoscale zerovalent iron supported on modified activated carbon,Ind. Eng. Chem. Res.52 (2013) 12574-12581.   \n[21] T. Liu, X. Yang, Z. Wang, X. Yan, Enhanced chitosan beads-supported Feonanoparticles for removal of heavy metals from electroplating wastewater in permeable reactive barriers,Water Res. 47 (2013) 6691-6700.   \n[22]1.Dror，O.M. Jacov,A. Cortis，B. Berkowitz， Catalytic_transformation of persistent contaminants using a new composite material based on nanosized zero-valent iron, ACS Appl. Mater. Interfaces 4 (2012) 3416-3423.   \n[23] G. Sheng, X. Shao, Y. Li, J. Li, H. Dong, W. Cheng, X. Gao, Y. Huang, Enhanced removal of U(VI) by nanoscale zerovalent iron supported on Na-bentonite and an investigation of mechanism, J. Phys. Chem. A 118 (2014) 2952-2958.   \n[24] Y. Li, W. Cheng, G. Sheng, J. Li, H. Dong, Y. Chen, L. Zhu, Synergetic effect of a pillared bentonite support on Se(VI) removal by nanoscale zero valent iron, Appl. Catal. B Environ. 174-175 (2015) 329-335.   \n[25] S.Ijima,Helicalmicrotubulesofgraphiticcarbon,Nature354(1991)5658.   \n[26] G. Sheng, D. Shao, X. Ren, X. Wang, J. Li, Y. Chen, X. Wang, Kinetics_and thermodynamics of adsorption of ionizable aromatic compounds from aqueous solutions by as-prepared and oxidized multiwalled carbon nano tubes,J. Hazard. Mater 178 (2010) 505-516.   \n[27] G. Sheng, J. Li, D. Shao,J. Hu,C. Chen, Y. Chen, X. Wang, Adsorption of copper(Il) on multiwalled carbon nanotubes in the absence and presence of humic or fulvic acids, J. Hazard. Mater 178 (2010) 333-340.   \n[28] W. Liu, X. Jiang, X. Chen, A novel method of synthesizing cyclodextrin grafted multiwall carbon nanotubes/iron_oxides_and its adsorption of organic pollutant, Appl. Surf. Sci. 320 (2014) 764-771.   \n[29] j. Hu, D.Shao,C. Chen, G. Sheng, J. Li, X. Wang, M. Nagatsu, Plasma-induced grafting of cyclodextrin_onto multiwall carbon nanotube/iron oxides for adsorbent application, J. Phys. Chem. B 114 (2010) 6779-6785.   \n[30] D. Shao, J. Hu,C. Chen, G. Sheng, X. Ren, X. Wang, Polyaniline multiwalled carbon nanotube magnetic composite_prepared by_plasma-induced_graft technique and itsaplication forremoval of aniline andphenol,J.Phys.Chem C 114 (2010) 21524-21530.   \n[31] S. Zhang, D.Wang, L. Zhou, X. Zhang, P.Fan, X. Quan, Intensified internal electrolysis for degradation of methylene blue as model compound induced by a novel hybrid material: multi-walled carbon nanotubes immobilized on zero-valent iron plates (Fe0-CNTs), Chem. Eng. J. 217 (2013) 99-107.   \n[32] X.S. Lv, J. Xu, G. Jiang, X. Xu, Removal of chromium(VI) from wastewater by nanoscale zero-valent iron_particles supported on multiwalled carbon nanotubes, Chemosphere 85 (2011) 1204-1209.   \n[33] S. Zhang, D. Wang, X. Quan, L. Zhou, X. Zhang, Multi-walld carbon nanotubes immobilized on zero-valent iron plates $\\mathrm { ( F e ^ { 0 } }$ CNTs)for catalytic ozonation of methylene blue as model compound in a bubbling reactor, Sep,Purif. Technol. 116 (2013) 351-359.   \n[34] R. Kamaraj, S. Vasudevan, Decontamination of selenate from aqueous solution by_oxidized multi-walled carbon nanotubes，Powder Technol. 274 (2015) 268-275.   \n[35] Y LiJ.LiY. ZhangMechanisminsights intoeanced $\\mathrm { C r ( V I ) }$ removal using nanoscale zerovalent iron supported on the pillared bentonite by macroscopic and spectroscopic studies, J. Hazard. Mater 227 (2012) 211-218.   \n[36]R.M. Powell_R.W.Puls,Proton_generation_by_dissolution of intrinsic_or augmented aluminosilicate minerals for in situ contaminant remediation by zero-valence-state iron, Environ. Sci. Technol. 31(1997) 2244-2251.   \n[37] D.W. Cho,C.M. Chon, B.H. Jeon, Y. Kim, M.A. Khan, H. Song, The role of clay minerals in the reduction of nitrate in groundwater by zero-valent iron, Chemosphere 81 (2010) 611-616.   \n[38] X. Sun,Y. Yan, J. Li, W. Han, L. Wang, SBA-15-incorporated nanoscale zerovalent iron particles for chromium(VI) removal from groundwater: mechanism,effect of pH, humic acid and sustained reactivity, J. Hazard. Mater 266 (2014) 26-33.   \n[39] H.S. Kim,J.Y. Ahn, C. Kim,S. Lee, I. Hwang, Effect of anions and humic acid on the performance of nanoscale zero-valent iron particles coated with polyacrylic acid, Chemosphere 113 (2014) 93-100.   \n[40] P.G. Tratnyek, M.M. Scherer, B. Deng, S. Hu, Effects of natural organic matter, anthropogenic surfactant, and model quinones of the reduction of contaminants by zero-valent iron,Water Res. 35 (2001) 4435-4443.   \n[41] H. Hyung,J.H. Kim, Natural organic mater (NOM) adsorption to multi-walled carbon nanotubes: effect of NOM characteristics and water quality parameters, Environ. Sci. Technol. 42 (2008) 4416-4421.   \n[42] G. Sheng, S. Yang, J. Sheng, J. Hu, X. Tan, X. Wang, Macroscopic and microscopic investigation of Ni(II) sequestration on diatomite by batch, XPS and EXAFS techniques, Environ. Sci. Technol. 45 (2011) 7718-7726.   \n[43] G. Sheng, S. Yang, Y. Li, X. Gao, Y. Huang, X. Wang, Retention mechanisms and microstructure of Eu(Il) on manganese dioxide studied by_batch and high resolution EXAFS technique, Radiochim. Acta 102 (2014) 155-167.   \n[44] G.Sheng, Q. Yang, F. Peng, H. Li, X. Gao, Y. Huang, Determination of colloidal pyrolusite, Eu(II) and humic_ substance interaction: a combined batch and EXAFS appr0ach, Chem. Eng. J. 245 (2014) 10-16.   \n[45] G.Sheng, L. Ye, Y. Li, H. Dong, H. Li, X. Gao, Y. Huang, EXAFS study of the interfacial interaction of nickel(Il)on titanate nanotubes: role of contact time, pH and humic substances, Chem. Eng. J. 248 (2014) 71-78.   \n[46] G.Sheng, S. Yang, D. Zhao,J. Sheng, X. Wang, Adsorption of Eu(Il)on titanate nanotubes studied by a combination of batch and EXAFS technique, Sci. China Chem. 55 (2012) 182-194.   \n[47] G.Sheng, H. Dong, R. Shen, Y.Li, Microscopic insights into the temperaturedependent adsorption of Eu(II) onto titanate nanotubes studied by FTIR, XPS, XAFS and batch technique, Chem. Eng. J. 217 (2013) 486-494.   \n[48]G. Sheng, R. Shen, H. Dong,Y.Li, Coloidal diatomite,radionickel and humic Substance interaction: a_combined batch, XPS and EXAFS investigation, Environ. Sci. Poll. Res. 20 (2013) 3708-3717.   \n[49] H. Dong, X. Guan, D. Wang, C. Li, X. Yang, X. Dou, A novel application of ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ -Fe(II) process for arsenate removal from synthetic acid mine drainage (AMD) water,Chemosphere 85(2011) 1115-1121. [50] B.L. Deng, S.D. Hu, T.M. Whitworth,R. Lee, Chlorinated Solvent and Dnapl Remediation acs Symposium Series, vol. 837, Trichloroethylene Reduction on ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Zero-valent Iron:probing Reactive Versus Nonreactive sites，2003，pp. 181-205. [51] N.S. McIntyre, D.G. Zetaruk, X-ray photoelectron spectroscopic studies of iron oxides,Anal. Chem.49(1977) 1521-1529. ",
+        "page_idx": 7
+    }
+]

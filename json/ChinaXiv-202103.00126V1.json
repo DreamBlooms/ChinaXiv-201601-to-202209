@@ -1,0 +1,622 @@
+[
+    {
+        "type": "text",
+        "text": "Interaction between shrub encroachment and water ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "infiltration on a hillslope at the typical Steppe   \nSi-Yi Zhang 1, ², Zhi-Hua Zhang ³, Bin He 1,2, Zhi-Yun Jiang4, Xiao-Yan   \nLi 5,6\\*   \n1 National-Regional Joint Engineering Research Center for Soil Polltion Control and Remediation in South China, Guangdong Key Laboratory of Integrated Agroenvironmental Pollution Control and Management, Institute of Eco-environmental and Soil Sciences, Guangdong Academy of Sciences, Guangzhou 51O650, China   \n2 Guangdong-Hong Kong-Macao Joint Laboratory for Environmental Polution and Control, Guangzhou 510650, China   \n3 College ofForestry, Henan Agricultural University,Zhengzhou 45002, China   \n4 School of Geography, South China Normal University, Guangzhou 510631, China   \n5 State Key Laboratory of Earth Surface Processes and Resource Ecology, Faculty of Geographical Science, Beijing Normal University, Beijing 100875, China   \n6 School of Natural Resources, Faculty of Geographical Science, Beijing Normal University, Beijing 100875, China   \n\\* Correspondence to: X.-Y. Li, School of Natural Resources,Faculty of Geographical Science， BeijingNormalUniversity， Beijing100875， China,E-mail: ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "19 xyli@bnu.edu.cn. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "20 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Interaction between shrub encroachment and water infiltration on a hillslope at the typical Steppe ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Abstract The interaction between the surface hydrologic cycle and the shrub-encroached landscape at different slope positions remains poorly investigated. This study aims to explore the interaction between the water infiltration patterns affected by shrub encroachment at different hillslope positions. Soil water content and temperature were continuously measured at 10-min intervals at four or five depths under shrub patches and the grass matrix at four slope positions of a Caragana microphylla encroached hillslope from July 2009 to May 2013. The rainfall and meltwater infiltrations were estimated based on above data. Results showed that the rainfall infiltration ratios (IRs) at the grass matrix were as high as （204号 $0 . 7 8 { \\scriptstyle \\pm 0 . 0 8 }$ ,， except at the lower site, where it was only 0.47. The IRs of shrub patches increased from 0.38 at the top site to O.77 at the lower site. The IRs were higher at the grass matrix than that at the shrub downslope edges at the top, upper, and middle sites of the hillslope due to the raised microtopography of the shrub mounds. However, at the lower site, IR was higher at the shrub patch than that at the grass matrix than due to more upper slope runoff input and higher infiltration capacity at the shrub patches. The preferential flow was not an important factor influencing the redistribution of water resources on the slope. Snow and ice were blown up by wind and accumulated in the shrub patches and their lees resulted higher water input to the shrub patches than that in the grass matrix during snowy years. Shrub encroachment changed the microtopography， soil property under different canopy and slope positions,and further affected the surface hydrological processes. The feedbacks between shrub encroachment and water infiltration varied at different sites of the hillslope and affected the development of shrub patches. Key words: Infiltration; rainfall; meltwater; shrub encroachment ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Shrub encroachment has been a worldwide phenomenon over more than 15O years in the arid or semi-arid regions, which refers to the increase in plant density, coverage and biomass of shrub in the grassland ecosystem (Van Auken, 200O; Gibbens et al., 2005; Eldridge et al., 2011; D'Odorico et al.,2012). It is believed that erosion and climate change are the main causes of shrub encroachment (Sturm et al.,2001a; D'Odorico et al., 2012). Shrub encroachment redistributes light, heat, water, nutrients,and other resources, and changes net primary production， species diversity， etc. (Eldridge et al., 2011; Peng et al., 2014; Li et al., 2019; Zhou et al.,2019). The encroached vegetation interacts strongly with the environment (Rolo and Moreno,2O19; Turnbull and Wainwright, 2O19),and their feedbacks would promote the encroachment and result a new longtime stable “climax community”(Thomas and Pittillo,1987). The characteristics of the shrub patches were related to the soil water content and local precipitation, and with the increase of water resources, the optimal shrub coverage also increased (Valentin and D'Herbes,1999; Zheng et al., 2015a). Positive interactions between shrub encroachment and water resource of shrub patches were widely found. Li et al. (2O13a) reported that soil water content at the depth of $6 0 ~ \\mathrm { c m }$ under shrub patches was higher than that under grass matrix，which was related to their different $\\mathrm { C a C O } _ { 3 }$ （20 horizons characteristics. Higher infiltration depths and more preferential flows under shrub patches were found in dying experiments with the same volume of dye solution (Zhang et al., 2012; Peng et al., 2013), which also revealed higher infiltration capacity under shrub patches (Peng et al., 2013; Li et al., 2O13a). Shrub patches usually had lower runoff rates than grass land (Pierson et al., 2010; Munoz-Robles et al., 2011; Peng et al., 2013). Soliveres and Eldridge (2014) and Marquart et al. (2019) also reported that steady-state infiltration and sorptivity were greater under shrubs canopies than those in open areas, and positive effects of shrub were ascribed to the reduction of trampling from livestock. Hu et al.(2015,2018) found that soil macroporosity and macropore volume in shrubs patches were higher than those in grass patches, and they increased with increasing shrub root network density. Thus, it was speculated that water could transport to the deeper soil layers in shrub patches (Hu et al., 2015; 2018). The root channels of the shrub were thought to be preferential pathways of water movement and could let water reach deep soil layer (Martinez-Meza and Whitford, 1996; Wang et al., 2007; Li et al.,2009; Zhang et al., 2012). On the other side, Rossi and Ares (2O17) modeled the water fluxes between inter-patches and shrub mounds and found that shrub mounds could directly obtain more water resource from the rain, but overland flow from the inter-patches could only reach the border of the shrub mounds and could not route onto the shrub mounds, and no ponded-water inundates the mound. So,as most of the former infiltration and runoff studies were conducted under artificial condition, how the infiltration in shrub patches act under natural precipitation, and whether the effects are positive in different parts of the shrub patches (center and edge) as well as on different positions of a hillslope were still unclear. The snow can be an important soil water input and influence soil water infiltration and storage (Stewart et al. 2OO4; Murray and Buttle, 2005). Meltwater can form macropore flow in rooted soil, which effectively storages water for plants (Newman et al., 2OO4). Snow melting in arid and semi-arid areas can improve soil moisture, create conditions for seed germination and growth, and even have a profound impact on the water competition within and between species and on the spatial pattern of vegetation (Li et al., 2OO6). The redistribution of water resource will affect the productivity and distribution of vegetation (Weltzin et al., 2OO3). In the Arctic, deciduous shrubs obtained more water from snow than grass in the giUwIlIg seasUl, aIu uIs IieitwaitI-1ovuseu IetuvacK lUUp couiu txpia the shrub expansion (Jespersen et al.， 2O18). In addition， shrub encroachments have greatly changed the landscape pattern of grassland ecosystem, local radiation balance, physical characteristics and structures of snow cover (Murray and Buttle, 2OO3), and further changed the local microclimate, runoff, and soil water conditions (Wilcox et al., 2Oo3; Li et al., 2006). The biomass and height of shrub patches were higher than those of the grass inter-patches in seriously disturbed conditions (Peng et al., 2013). Thus, shrub patches could trap and retain more snow and meltwater resource (Sturm et al., 2001b; Tape et al., 2006; Myers-Smith et al., 2011; Yan et al., 2O19). But how these effects perform on different slope position and under different snow level in the north China need more investigation. Therefore, the aims of this study were to (a) investigate the infiltration characteristics under natural rainfall at different sites of a slope with shrub encroachment, and (b) evaluate the effects of the meltwater infiltration on water resources of shrub patches. This study would explore the relationships between the development of the encroached shrub patches and the infiltration pattern at different sites of the slope. The results are of great significance to explain the spatial distribution characteristics of encroached shrub and predict its future development trend under changing climate background. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2 Methods and Materials ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study site ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This study was carried out at the Taipus Banner, Inner Mongolia, China. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This area belongs to the typical Eurasian Steppe and has continental temperate semiarid climate. Its mean annual temperature and mean annual precipitation are $1 . 6 ~ ^ { \\circ } \\mathrm { C }$ and $3 9 2 ~ \\mathrm { m m }$ , respectively (Li et al., 2013a). The hottest month is July ( $1 7 . 8 ^ { \\circ } \\mathrm { C }$ on average) and the coldest month is January 0 $\\mathrm { - } 1 7 . 6 ^ { \\circ } \\mathrm { C }$ on average). $65 \\%$ of precipitation occurs from July to September. Annual pan evaporation reaches 19oO mm on average. The average annual wind velocity is $3 - 5 \\mathrm { m } \\mathrm { s } ^ { - 1 }$ and the annual period of force-seven wind and above is $2 0 - 8 0 \\mathrm { d } ,$ , mainly occurring in spring and winter. The annual frostfree period is around $1 0 0 \\mathrm { d }$ , from late May or early June to early September. The zonal soils are chestnut soil and light chestnut soil, which are equivalent to Calcicorthic Aridisol according to USDA Soil Taxonomy. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Soil textures were mainly sand and sandy loam. The dominant plant species were Stipa krylovi Roshev.， Cleistogenes squarrosa (Trin.） Keng, Artemisia frigida Willd., and Leymus chinensis (Trin.) Tzvel (Qiu et al., 2011). Caragana microphylla Lam expansion increased during recent decades in this region.It is estimated the area of $C .$ . microphylla encroached grassland amounted to more than $5 . 1 \\times 1 0 ^ { 6 }$ ha (Zhang et al., 2006), and the coverage of this shrub can reach $4 0 . 1 \\%$ (Peng et al., 2013). One C. microphylla encroached hillslope was selected for this study (Figure 1). This west slope is $1 2 8 { \\mathrm { ~ m ~ } }$ in length and has an average slope gradient of $12 . 5 \\%$ (Li et al. 2013a). This slope was evenly divided into four sites from the ridge to the valley: the top, upper, middle, and lower sites (Figure 1). The sizes of shrub patches were 3.93, 5.86, 5.84, and 7.68 （204号 $\\mathbf { m } ^ { 2 }$ at the top, upper, middle,and lower sites of the slope,respectively, and their canopy heights were 0.43, 0.55, 0.47, and $0 . 4 1 \\mathrm { m }$ , respectively (Li et al., 2013a). The above ground biomasses of the shrub patches at four sites were 343, 400, 403, and $4 2 8 \\ \\mathrm { g \\ m } ^ { - 2 }$ from top to lower sites, respectively, while that of the grass matrix were 108，140，141，and $1 8 5 \\mathrm { ~ g ~ m } ^ { - 2 }$ respectively (Li et al., 2O13a). The canopy coverage of shrub patches was ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$9 3 - 9 5 \\%$ , and that of the grass matrix is $6 8 - 7 5 \\%$ in the peak season (Li et al., 2013a). The rooting depths were $6 0 - 7 0 \\mathrm { c m }$ and $2 0 - 2 5 \\mathrm { c m }$ at the shrub patches and at the grass matrix, respectively (Li et al., 2013a). <Figure 1> ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.2 Soil water content and temperature measurement ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Eight soil profiles were instrumented at the top,upper, middle,and lower sites of the slope, two for each site (Li et al., 2O13a): one at the downslope edge of a $C .$ . microphylla shrub patch, and the other at the grass matrix, about $1 \\mathrm { m }$ from the upslope edge of the $C .$ . microphylla shrub patch (Figure 1). Five ECH2O 5TE sensors (Decagon Devices，Pullman, Washington, USA) were installed in each soil profile to monitor soil water content $( \\theta , \\mathrm { m } ^ { 3 } \\mathrm { m } ^ { - 3 } )$ ） and soil temperature $( T _ { s } , { ^ \\circ } \\mathrm { C } )$ at the soil depths of 10, 20, 40, 60, and $1 0 0 \\mathrm { c m }$ . Except for the middle site, the ECH2O 5TE sensors was replaced by Decagon Drain Gauges at the $1 0 0 ~ \\mathrm { c m }$ depth to detect soil water drainage (Figure 1). A total of thirty-eight ECH2O 5TE sensors were installed at four sites of the slope. All data of $\\theta$ and $T _ { s } ,$ , as well as drainage, if available, at each profile were logged into a 5-channel Decagon's Em50 data logger at 10-min intervals. These ECH2O 5TE sensors can provide ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "accurate, precise and continuous measurements,with the accuracy of $\\pm 0 . 0 1 2 \\mathrm { m } ^ { 3 } \\mathrm { m } ^ { - 3 }$ for moisture, $\\pm 0 . 3 ^ { \\circ } \\mathrm { C }$ for soil temperature (Czarnomski et al., 2005; Li et al., 2013a). The experiments started on June 8, 2009, and data since July 1， 2Oo9,or later was used considering the disturbance of profiling and setting of the sensors (Table 1). The monitoring last to May 16, 2011, at the top, upper, and lower sites, while at the middle site, it last to May 21, 2013 (Table 1).   \n<Table 1> ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2.3 Meteorological observations ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "A Dynamet weather station (Dynamax Inc., Houston, TX, USA) was set up to measure the meteorological data at the center of the slope. Rainfall was measured using a tipping bucket rain gauge (Model TE525, Campbell Scientific, Logan, UT, USA). Air temperature $( T _ { a } , { ^ \\circ } \\mathrm { C } )$ was recorded using a temperature and humidity probe (Model CS5Oo, Campbell Scientific, Logan, UT, USA) at $2 \\mathrm { m }$ above the ground. Wind speed and direction were detected by a windvane and anemovane (Model O3oo1, RM Young Co., ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Traverse City, MI, USA), positioned at $3 ~ \\mathrm { m }$ above the ground. Snowfall data were obtained from the Weather Station of Taipus Banner $( 4 1 . 8 8 ^ { \\circ } \\mathrm { N } ,$ 115.27°E,1468.9 m a.s.l.). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2.4 Infiltration ratios estimation ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The rain events were discretized by assuming a minimum interevent time of $2 4 \\mathrm { h }$ . Soil water storage $( S W S , \\mathrm { m m } )$ ofa $1 \\mathrm { m }$ profile was calculated as: ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS W S = \\sum _ { k = 1 } ^ { n } \\theta _ { k } D _ { k }\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "where $\\theta _ { k } ( \\mathbf { m } ^ { 3 } \\mathbf { m } ^ { - 3 } )$ represents $\\theta$ measured by 5TE seniors at soil layer $k , D _ { k }$ is the depth of $\\theta _ { k }$ represents (mm). $n$ represents the number of the 5TE sensors at the $1 \\mathrm { m }$ profile. At the top, upper, and lower sites, $n = 5$ ,and $D _ { k }$ $= 1 5 0$ ,150,200,300,and $2 0 0 ~ \\mathrm { { m m } }$ for $k = 1 , 2 , 3 , 4$ ,and 5, respectively; while at the middle sites, $n = 4$ ,and $D _ { k } = 1 5 0$ , 150, 200, and $5 0 0 \\mathrm { m m }$ for $k$ $= 1 , 2 , 3$ , and 4, respectively. Infiltration amounts $( I , \\mathrm { m m } )$ in a rainfall event was estimated as the maximum difference of SWS before and after the rainfall event (before the next rainfall). The infiltration ratio $( I R )$ was estimated as the slopes of the linear regression of I against rainfall amounts at the experimental period (Zhang and Li, 2018). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2.5Preferential flow detection ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The preferential flow (PF) during natural precipitation were detected by the response sequences of $\\theta$ of different soil layers. Only events with over 1 mm of rainfall were analyzed considering that small rainfall could not infiltrate deeper than the first sensor. The $\\theta$ was examined and thought to haveresponse to rainfall if its increase was over $0 . 0 1 \\mathrm { m } ^ { 3 } \\mathrm { m } ^ { - 3 }$ during an rainfall event due to the precision and noise levels of the sensors was 0.01 $\\mathbf { m } ^ { 3 } \\mathbf { \\epsilon } \\mathbf { m } ^ { - 3 }$ (Graham and Lin, 2O11). If a deeper sensor responds before, or simultaneously with a shallower sensor, or when a shallower sensor does not respond, it was thought that preferential flow happened at this profile in this event (Graham and Lin, 2011; Hopkins et al., 2016). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2.6 Meltwater infiltration estimation ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "When the soil was frozen, $\\theta$ decreased as soil water transferred into ice. During the frozen period, soil water was protected from evaporation. After thawed, $\\theta$ can nearly return to the same level before soil was frozen. Basing on this assumption and ignoring the evaporation during this period, meltwater infiltration was calculated as the differences of the maximum SWS before the first rain in a spring (after thawing) and the SWS just before the soil freezing in the last winter (Figure 2) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "<Figure 2> ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3.1Precipitation and wind characteristics ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Characteristics of rainfalls in the experimental area during the nearly four years (from July 1, 2009, to May 21, 2013) were given in Figure 3. A total of 144 rainfall events (excluding snowfall) occurred in nearly four years, accumulating 9O4.71 mm of rainfall. They were mainly short small storms，with 46 $( 3 1 . 9 4 \\% )$ ）rainfall events smaller than $1 \\ \\mathrm { m m }$ ，and 96 $( 6 6 . 6 7 \\% )$ rainfall events not higher than $5 \\mathrm { m m }$ . Rainfalls larger than $1 0 \\mathrm { m m }$ only accounted for $1 3 . 1 9 \\%$ of all rainfall events but accounted for $6 5 . 5 2 \\%$ of the rainfall amount. The maximum rainfall was $5 9 . 6 9 \\ \\mathrm { m m }$ recorded during September $1 5 \\sim 1 8$ , 2010. The rainfall intensity ranged from 0.02 to $1 3 . 2 0 \\ \\mathrm { m m } \\ \\mathrm { h } ^ { - 1 }$ . The maximum 10 - min intensity ranged from 0.20 to 73.15 $\\mathrm { m m h ^ { - 1 } }$ , with only $1 0 . 4 2 \\%$ of which larger than $1 0 \\mathrm { m m h ^ { - 1 } }$ , and only one of them was larger than the $6 3 . 2 3 \\ \\mathrm { m m } \\ \\mathrm { h } ^ { - 1 }$ infiltration rate of grass matrix at suctions of $0 . 5 \\mathrm { m m }$ (Li et al., 2013a). The snowfalls were 39.5, 49.5, 29.1, and 45.1 mm during the winter and spring of 2009-2010, 2010-2011, 2011- 2012,and 2012-2013, respectively. The wind in winter and spring were mainly from W, WSW, SW, and SSW, and their speeds mainly ranged from $2 \\cdot 1 0 \\mathrm { m } \\mathrm { s } ^ { - 1 }$ with an average speed of $5 . 2 \\mathrm { m } \\mathrm { s } ^ { - 1 }$ and a maximum of $1 8 . 8 \\mathrm { m } \\mathrm { s } ^ { - }$ 1 (Figure 4). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "<Figure 3> <Figure 4> ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "3.2Rainfall infiltrations ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Rainfall infiltrations varied at different slope position and under   \ndifferent land covers. At the top, upper, and middle grass matrix, IRs were   \nas high as $0 . 7 8 { \\scriptstyle \\pm 0 . 0 8 }$ ， while at the lower grass matrix, it was only 0.47   \n(Figure 5). The IRs of shrub patches increased from O.38 at the top site to   \n0.77 at the lower site (Figure 5). The yearly total infiltration showed similar results to the IRs (Figure 6).   \nAt the top and upper sites, the grass matrix had higher yearly total ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "infiltration than shrub patches, with higher differences at the top site than at the upper site. The yearly total infiltration at the lower shrub patch was higher than that at the lower grass matrix. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The yearly infiltrations in 2O1O were available at all sites with a minimum of $6 9 . 4 \\mathrm { m m }$ at the top shrub patch and a maximum of $1 9 4 . 5 \\mathrm { m m }$ at the upper grass matrix. In 2011 and 2012, the whole year infiltrations were available at the middle sites. The yearly infiltration of 2O11 was 212.4 mm at the middle shrub patch, the maximum of all sites in the whole experimental period, and much higher than the $1 3 8 . 3 ~ \\mathrm { m m }$ at the middle grass matrix. In 2O12, the yearly infiltration at the middle shrub patch was $1 2 3 . 1 \\ \\mathrm { m m }$ ,lower than that of $1 5 5 . 6 \\ \\mathrm { m m }$ at the middle grass matrix. From the 2010 to 2O12, the yearly infiltration at the middle shrub patch was 152.1 1 $\\pm 5 2 . 2 \\ \\mathrm { m m }$ ， insignificantly higher than that at the middle grass matrix, $1 4 3 . 4 \\pm 1 0 . 5 \\mathrm { { m m } }$ , basing on the 2-tailed paired sample T test $( p { = } 0 . 8 1 8 )$ ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "<Figure 5> <Figure 6> ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "PF ratios were only $4 . 1 \\%$ and $2 . 4 \\%$ at grass matrix and shrub patches, respectively (Table 1) with total 19 PF events recorded. Most of PF events were recorded at 6O and $4 0 \\ \\mathrm { c m }$ at the grass matrix and shrub patches, respectively (Table 1). Grass matrix had higher PF ratios than the shrub patches. There were no PF events recorded at the top sites. At the grass matrix, the most PF events were recorded at the middle site, followed by the lower site; while at the shrub patches, the highest PF ratios were recorded at the middle site. All these 19 PF events came from different rainfall events, with the ranges of rainfall depth, rain intensity, and the maximum 10 - min rainfall intensities of 1 - 37.85 mm, 0.05 - 9.60 mm h 1,and $1 . 2 0 - 5 7 . 9 0 \\mathrm { m m h ^ { - 1 } }$ , respectively. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "3.3 Meltwater infiltrations ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The meltwater infiltrations varied in different years (Figure 7). In the winters of snowless years (2009 - 2010 and 2011 - 2012), the meltwater infiltration was low, no more than 5 mm except at the middle grass matrix site $( 6 . 3 \\mathrm { m m } )$ , and no infiltration at the shrub patches at both the upper and lower sites. In these years, the meltwater infiltration was higher at the grass matrix than that at the shrub patches. While at the snowy years, the meltwater infiltration was relatively higher, ranging from 5.17 to $1 2 . 9 4 \\mathrm { m m }$ （204号 in the spring of 201l (Figure 7). In these snowy years, the meltwater infiltration was higher in the shrub patches than that in the grass matrix, except for the middle site in the winter of 2010-2011. Especially, meltwater infiltration was quite high at the middle grass matrix and shrub patch in the spring of 2013 (Figure 8). The soil temperature dropped chronically below $0 ~ ^ { \\circ } \\mathrm { C }$ from 1 a.m. and 6 a.m., November 13,2012 at the middle grass matrix and the shrub patch, respectively. Before the soil froze in the middle grass and shrub sites, their SWSs were 137.6 and 102.91, respectively. After the soil was frozen, no rainfalls were recorded. As soil water transferred to ice, the liquid $\\theta$ successively reduced from $1 0 \\ \\mathrm { c m }$ to 60 cm depth ， and the liquid SWS of the whole profile gradually reduced. The positive soil temperature at $1 0 \\mathrm { c m }$ depth was first recorded at 4 p.m. March 7, 2013, at the middle grass matrix, while at the middle shrub patch, it was at 12 a.m. March 8,2013.During these two days, the air temperature increased rapidly and reached $1 2 . 0 \\ ^ { \\circ } \\mathrm { C }$ （204号 at 3 p.m. After the soil temperature at $1 0 \\mathrm { c m }$ depth stride over the freezing point, the $\\theta$ increased quickly and successively at each soil layer. The liquid ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "SWS of the whole profile bulged rapidly at both middle grass and shrub sites, reaching 224.4 and $2 3 2 . 7 \\mathrm { m m }$ at 7 p.m. March 8, 2013, respectively. The meltwater infiltration reached $8 6 . 8 ~ \\mathrm { m m }$ and $1 2 9 . 8 ~ \\mathrm { m m }$ at the middle grass and shrub sites, respectively ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "<Figure 7> <Figure $8 >$ ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "4 Discussions ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Lower IRs and PF ratios were found at the downslope edge of shrub patches than that at the grass matrix except for the lower site. This can be related to the slope topography and position where the 5TE sensors were installed. The shrub patches form mounds and are raised microtopography (Figure 1 and Figure 9). This is because that shrub prevents the ground from livestock trampling and erosion, and on other side accumulates wind and water sediment (Stavi et al., 2008; Lu et al., 2019; Yang et al., 2019). In this condition, the water flow from upslope would first reach the upslope edge of shrub mounds, and water flow would mainly infiltrate there or bypass the of shrub mounds，which results less water source for the downslope edge of the shrub patches. The 5TE sensors were installed at the downslope edge of the shrub patches and they had the relatively higher slope gradients (Stavi et al., 2OO8), which had higher possibility to generate more runoff and reduce water infiltration. Therefore, the microtopgraphy of shrub patches resulted that the downslope edge of the shrub patches generated more local runoff and stored less water source from upslope. This would be the main reason for the low IR there, which is consistent with the result ofLi et al. (2013b), who reported lower soil moisture at the downslope edges of shrub patches comparing to that at the upslope edges after rainfalls. Higher IR was found at the downslope edge of shrub patches at the lower site. This is because there was more runoff from the upslopes and there was plenty of water flowing over or around the shrub mound to gather at the downslope edge of the shrub patches. The upslope runoff would form ponding water and increase their infiltration as the shrub patches had higher infiltration rates (Li et al., 2O13a) and deeper infiltration depth under water ponding conditions (Zhang et al., 2012; Peng et al., 2013). In addition, the shrub patch at the lower site had the highest aboveground biomass and root depth, higher soil organic matter (Li et al., 2O13a),and more sand and silt (Zhang et al., 2O19), which could generate more macropores and increase Water infiltration (Hu et al.,2015; 2018). However, the lower grass matrix site had the lowest total infiltration among the four grass matrix sites. This can be explained by more clay deposited on the lower grass matrix, which could block the macropores and reduce infiltration capacity (Li et al., 2013a). The PF ratios at the experimental sites were no more than $5 \\%$ ，much lower than the 17 to $54 \\%$ at the Shale Hills Critical Zone reported by Graham and Lin (2011). This may be related to their different soil types and rainfall characteristics. The soil of Shale Hills Critical Zone was formed by shale residuum and colluvium,which were not very well developed due to the cold weather and contained a lot of rock which increased the formation of PF. While the soil at our experimental sites was chestnut soil and light chestnut soil, developed from aeolian sediment, and had relative uniform texture throughout the profile. This would not be beneficial to the formation of PF. Another reason is that there were few heavy rainfall events in the experimental sites. The most influential factors of PF were water input amounts and peak input intensity (Hopkins et al., 2016). The PF usually occurrences when the water input over a threshold (Mcgrath et al., 2O1O). As showed in Figure 3, rainfalls larger than $1 0 \\mathrm { m m }$ only accounted for $1 3 . 1 9 \\%$ of all rainfall events. The more aboveground biomass at the shrub patches(Peng et al.， 2013） also intercepted more rainfall and reduced the net rainfal reached the ground (Zhang et al., 2018). The lower PF ratios of shrub patches can be connected to their low IRs, which equaled to their lower water input. Meltwater infiltration is also from two sources: One is the snow and ice on the site, and the other is the runoff from the upslope. In the snowless years, the meltwater flow was weak and bypassed the shrub mounds. Thus, the grass matrix could get meltwater from the upslope while the downslope edge of shrub mounds could not get meltwater, resulting in lower meltwater infiltration at the downslope edge of shrub compared with the grass matrix. So, the meltwater infiltration was lower at the downslope edge of shrub than at the grass matrix. On the contract, in the snowy years, snow and ices were trapped and retained on the shrub patches and at the lee side. The strong meltwater flow from the upslope and the top of the shrub mound could reach the downslope edge of the shrub patch and then increase the meltwater infiltration there (Figure 9). Due to the higher infiltration capacity of the shrub patches, they had higher meltwater infiltration. In general years, the meltwater infiltration did not exceed $1 5 \\mathrm { m m }$ , which could only be about $2 0 ~ \\mathrm { m m }$ of rainfall infiltration. However, in some separate years,snow was heavy and the shrub patches retained a lot of snow and ice. Additionally, if the weather in spring warm up rapidly, the snow and ice stack would melt rapidly and generate flood over the slope (Figure 9). Compared with most years, this meltwater flow could infiltrate more (Figure 7) and reach the soil layer of $6 0 \\ \\mathrm { c m }$ or deeper (Figure 8). The meltwater infiltration increased the $\\theta$ in the spring. In the snowless years,Oonly weakly increased and decreased quickly below the level before the soil was frozen in the last year. The effect of the meltwater, the period when $\\theta$ in spring (before the first rain) is higher than $\\theta$ before frozen in the last winter, was usually less than 10 days. However, at the snowy years, Ostrongly increased and the effect of $\\theta$ was usually longer than 20 days and lasted to the start of vegetation greenup. Especially, in the spring of 2013, the $\\theta$ at the middle grass and shrub sites was higher than that before frozen till the end of the experiment, lasting more than 73 days. The increased $\\theta$ of meltwater water infiltration was an important soil water resource in the semiarid region, which had a great influence on the sprout and regreen of vegetation there (Stewart et al., 2OO4; Barrere et al., 2018). The heavy and deep meltwater infiltration in the spring of 2O13 would even have a significant impact on the growth of local vegetation (Zheng et al., 2015b). ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Shrub patches could retain more water resources at the lower site of the hillslope and meltwater can be an important water resource of the shrub patches during snowy years. The preferential flow might not be an important factor influencing the redistribution of water resources on the slope. The downslope edge of the shrub patches retained lower rain water resources than the grass matrix at the top, upper, and middle sites. The downslope edge of shrub patches at the middle, upper, and top sites would degrade due to less water resource, and the upslope edge of shrub patches would expand toward the top of the slope. However, as shrub patches expand toward the top, the runoff resources and their IRs declined. Thus, the size of the shrub patch would stay steady when the degradation and expansion are balanced. The shrub patches at the lower site would expand in all direction and expand to larger sizes as they could retain more water resources. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Data availability. ",
+        "text_level": 1,
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "No data sets were used in this article. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Author contributions. ",
+        "text_level": 1,
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "XYL and SYZ had the initial idea of the paper and created the storyline. XYL, SYZ, ZHZ, and ZYJ carried out the experiments. SYZ analyzed the data. SYZ, ZHZ, and ZYJ wrote the initial manuscript. DF, BH and YCZ reviewed and improved the text upon the initial version. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Competing interests. ",
+        "text_level": 1,
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "The authors declare that they have no conflict of interest. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Natural Science Foundation of China (Grant Nos. NSFC 41977010 and 41930865)， the Guangdong Basic and Applied Basic Research Foundation (Grant No. 2019A1515010628), the GDAS Special Project of Science and Technology Development， China (Grant Nos. 2020GDASYL20200102013 and 2020GDASYL-20200301003). ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Barrere M, Domine F, Belke-Brea M, Sarrazin D.2O18.Snowmelt Events in Autumn Can Reduce or Cancel the Soil Warming Effect of Snow-Vegetation Interactions in the Arctic.Journal of Climate 31(23): 9507-9518.DOI:10.1175/JCLI-D-18-0135.1 Czarnomski N,Moore GW,Pypker TG, Licata J, Bond BJ. 2Oo5.Precision and accuracy of three alternative instruments for measuring soil water content in two forest soils of the Pacific Northwest. Canadian Journal of Forest Research 35(8):1867-1876.DOI:10.1139/x05-121 ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "D'Odorico P,Okin GS,Bestelmeyer BT.2O12.A synthetic review of feedbacks and drivers of shrub encroachment in arid grasslands. Ecohydrology 5(5): 520-530. DOI: 10.1002/eco.259   \nEldridge DJ, Bowker MA, Maestre FT,Roger E,Reynolds JF,Whitford WG. 2011. Impacts of shrub encroachment on ecosystem structure and functioning: towards a global synthesis. Ecology Letters 14(7): 709-722. DO1: 10.1111/j.1461-0248.2011.01630.x   \nGibbens RP, Mcneely RP,Havstad KM, Beck RF,Nolen B.2005. Vegetation changes in the Jornada Basin from 1858 to 1998. Journal of Arid Environments 61(4): 651-668.   \nGraham CB,Lin HS.2011. Controls and Frequency of Preferential Flow Occurrence: A 175-Event Analysis. Vadose Zone Journal 10(3): 816-831. DOI: 10.2136/vzj2010.0119   \nHopkins I, Gall H,Lin H.2O16. Natural and anthropogenic controls on the frequency of preferential flow occurrence in a wastewater spray irrigation field. Agricultural Water Management 178: 248-257. DOI: 10.1016/j.agwat.2016.09.011   \nHu X,Li X, Guo L,Liu Y, Wang P, Zhao Y, Cheng Y,Lyu Y,Liu L. 2O18. Influence of shrub roots on soil macropores using X-ray computed tomography in a shrub-encroached grassland in Northern China. Journal of Soils and Sediments. DOI: 10.1007/s11368-018-2218-6   \nHu X,Li Z,Li X, Liu Y. 2015. Influence of shrub encroachment on CT-measured soil macropore characteristics in the Inner Mongolia grassand of northern China. Soil and Tillage Research 150: 1-9. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "DOI: 10.1016/j.still.2014.12.019 ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Jespersen RG,Leffler AJ, Oberbauer SF, Welker JM. 2O18. Arctic plant ecophysiology and water source ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "utilization in response to altered snow: isotopic (delta O-18 and delta H-2) evidence for meltwater subsidies to deciduous shrubs. Oecologia 187(4SI): 1009-1023. DOI: 10.1007/s00442-018-4196-1   \nLi H, Shen H, Zhou L,Zhu Y, Chen L,Hu H, Zhang P,Fang J. 2O19. Shrub encroachment increases soil carbon and nitrogen stocks in temperate grassands in China. Land Degradation & Development 30(7): 756-767. DOI: 10.1002/ldr.3259   \nLi J, Zhao C, Zhu H, Wang F, Wang L, Kou S.2O06. Multi scale spatial heterogeneity of soil water in Haloxylon ammodendron woodland after snowmelt. Chinese Science: Part D 36(A02): 45-50. (In Chinese with English abstract)   \nLi X,Hu X, Zhang Z,Peng H, Zhang S, Li G,LiL, Ma Y. 2O13b. Shrub Hydropedology: Preferential Water Availabilityto DeepSoil Layer. Vadose Zone Journal12(4):1-12.DOI: doi:10.2136/vzj2013.01.0006   \nLi X, Zhang S, Peng H, Hu X, Ma Y. 2O13a. Soil water and temperature dynamics in shrub-encroached grasslands and climatic implications: Results from Inner Mongolia steppe ecosystem of north China. Agricultural and Forest Meteorology 171-172: 20-30.   \nLi XY,Yang ZP,Li YT, Lin H. 2O09. Connecting ecohydrology and hydropedology in desert shrubs: stemflow as a source of preferential flow in soils. Hydrology and Earth System Sciences 13(7): 1133- 1144.   \nLu R,Liu Y,Jia C, Huang Z,Liu Y, He H,Liu B, Wang Z, Zheng J, Wu G. 2O19. Effects of mosaic patern shrub patches on runof and sediment yield in a wind-water erosion crisscross region. Catena 174: 199-205. DOI: htps:/doi.org/10.1016/j.catena.2018.11.022   \nMarquart A, Eldridge DJ, Travers SK,Val J, Blaum N. 2O19. Large shrubs partly compensate negative effects of grazing on hydrological function in a semi-arid savanna. Basic and Applied Ecology 38: 58- 68.DOI: 10.1016/j.baae.2019.06.003   \nMartinez-Meza E, Whitford WG. 1996. Stemflow,throughfal and channelization of stemflow by roots in three Chihuahuan desert shrubs. Journal of Arid Environments 32(3): 271-287. DOI: doi: 10.1006/jare.1996.0023   \nMcgrath GS, Hinz C, Sivapalan M, Dressel J, Puetz T, Vereecken H. 2O10. Identifying a rainfall event threshold triggering herbicide leaching by preferential flow. Water Resources Research 46(W02513). DOI: 10.1029/2008WR007506   \nMunoz-Robles C,Reid N, Tighe M,Briggs SV,Wilson B. 2011. Soil hydrological and erosional responses in patches and inter-patches in vegetation states in semi-arid Australia. Geoderma 160(3-4): 524-534. DOI: 10.1016/j.geoderma.2010.10.024   \nMurray CD,Buttle JM. 2Oo3.Impacts of clearcut harvesting on snow accumulation and melt in a northern hardwood forest. Journal of Hydrology 271(1): 197-212.DOI: htps://doi.org/10.1016/S0022- 1694(02)000352-9 ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Murray CD, Butle JM. 2Oo5. Infiltration and soil water mixing on forested and harvested slopes during ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "spring snowmelt, Turkey Lakes Watershed,central Ontario. Journal of Hydrology 306(1): 1-20. DOI: https://doi.org/10.1016/j.jhydrol.2004.08.032   \nMyers-Smith IH,Forbes BC, Wilmking M, Halinger M,Lantz T,Blok D,Tape KD, Macias-Fauria M, Sass-Klaassen U,Lévesque E, Boudreau S, Ropars P, Hermanutz L, Trant A, Collier LS, Weijers S, Rozema J, Rayback SA, Schmidt NM, Schaepman-Strub G, Wipf S,Rixen C, Ménard CB, Venn S, Goetz S,Andreu-Hayles L, Elmendorf S,Ravolainen V,Welker J, Grogan P,Epstein HE, Hik DS. 2011. Shrub expansion in tundra ecosystems: dynamics， impacts and research priorities. Environmental Research Letters 6(4): 45509.DOI: 10.1088/1748-9326/6/4/045509   \nNewman BD, Wilcox BP, Graham RC. 2O04. Snowmelt-driven macropore flow and soil saturation in a semiarid forest. Hydrological Processes 18(5): 1035-1042.   \nPeng H,Li X, Li G, Zhang Z, Zhang S,Li L, Zhao G, Jiang Z, Ma Y. 2013. Shrub encroachment with increasing anthropogenic disturbance in the semiarid Inner Mongolian grasslands of China. Catena 109(1): 39-48. DOI: 10.1016/j.catena.2013.05.008   \nPeng H, Li X,Tong S. 2O14.Advance in shrub encroachment in arid and semiarid region. Acta Prataculturae Sinica 23(2): 313-322.(In Chinese with English abstract) DOI: 10.11686/cyxb20140237   \nPierson FB, Williams CJ, Kormos PR, Hardegree SP,Clark PE,Rau BM. 2010. Hydrologic Vulnerability of Sagebrush Steppe Following Pinyon and Juniper Encroachment. Rangeland Ecology &   \nQiu GY, Xie F,Feng YC, Tian F.2011. Experimental studies on the effects of the \"Conversion of Cropland to Grassland Program\" on the water budget and evapotranspiration in a semi-arid steppe in Inner Mongolia, China. Journal of Hydrology 411(1-2): 120-129. DOI: doi: 10.1016/j.jhydrol.2011.09.040   \nRolo V, Moreno G.2019. Shrub encroachment and climate change increase the exposure to drought of Mediterranean wood-pastures. Science of the Total Environment 660: 550-558. DOI: https://doi.org/10.1016/j.scitotenv.2019.01.029   \nRossi MJ, Ares JO.2O17. Water fluxes between inter-patches and vegetated mounds in flat semiarid landscapes. Journal of Hydrology 546: 219-229. DOI: htps:/doi.org/10.1016/j.jhydrol.2017.01.016   \nSoliveres S,Eldridge DJ. 2014. Do changes in grazing pressure and the degree of shrub encroachment alter the effects of individual shrubs on understorey plant communities and soil function? Functional Ecology 28(2SI): 530-537. DOI: 10.1111/1365-2435.12196   \nStavi I, Ungar ED,Lavee H, Sarah P. 2Oo8. Surface microtopography and soil penetration resistance associated with shrub patches in a semiarid rangeland. Geomorphology 94(1): 69-78. DOI: https://doi.org/10.1016/j.geomorph.2007.05.008   \nStewart IT, Cayan DR, Dettinger MD.2O04. Changes in Snowmelt Runoff Timing in Western North America under a Businessas Usual' Climate Change Scenario. Climatic Change 62(1): 217-232. DOI: Sturm M, Holmgren J,Mcfadden JP,Liston GE,Chapin Iii FS,Racine CH. 2OO1b. Snow - shrub interactions in Arctic tundra: a hypothesis with climatic implications. Journal of Climate 14(3): 336-   \n344. Sturm M, Racine C,Tape K. 200la. Increasing shrub abundance in the Arctic. Nature 411(6837): 546-   \n547.DOI: 10.1038/35079180 Tape K, Sturm M, Racine C. 2OO6.The evidence for shrub expansion in Northern Alaska and the PanArctic. Global Change Biology 12(4): 686-702. DOI: 10.1111/j.1365-2486.2006.01128.x Thomas RB,Pitillo JD.1987. Invasion of fagus-grandifolia ehrh into a rhododendron-catawbiense michx heath bald at craggy gardens, north-Carolina. Castanea 52(3): 157-165. Turnbull L,Wainwright J.2019.From structure to function: Understanding shrub encroachment in drylands using hydrological and sediment connectivity. Ecological Indicators 98: 608-618. DOI: https://doi.org/10.1016/j.ecolind.2018.11.039 Valentin C, D'Herbes JM.1999. Niger tiger bush as a natural water harvesting system. Catena 37(1):   \n231-256. DOI: https://doi.0rg/10.1016/S0341-8162(98)00061-7 Van Auken OW. 2O0o0. Shrub invasions of North American semiarid grasslands. Annual review of ecology and systematics 31(1): 197-215. Wang X,Li X,Xiao H, Berndtsson R,Pan Y.2Oo7.Effects of surface characteristics on infiltration patterns in an and shrub desert. Hydrological Processes 21(1): 72-79. DOI: 10.1002/hyp.6185 Weltzin JF,Loik ME, Schwinning S, Williams DG,FayPA,Haddad BM, Harte J, Huxman TE, Knapp AK, Lin G,Pockman WT, Shaw RM, Small EE, Smith MD,Smith SD, Tissue DT, Zak JC.2003. Assessing the Response of Terrestrial Ecosystems to Potential Changes in Precipitation. Bioscience   \n53(10): 941-952. DOI: 10.1641/0006-3568(2003)053[0941:ATR0TE]2.0.CO;2 Wilcox BP, Breshears DD, Allen CD. 2003. Ecohydrology of a resource-conserving semiarid woodland: effects of scale and disturbance.Ecological Monographs 73(2): 223-239.DOI: 10.1890/0012-   \n9615(2003)073[0223:EOARSW]2.0.CO;2 Yan M, Zuo H, Wang H, Dong Z,Li G. 2O19. Snow resisting capacity of Caragana microphylla and Achnatherum splendens in a typical steppe region of Inner Mongolia, China. Journal of Arid Land. DOI: 10.1007/s40333-019-0021-x Yang Y,Liu L, Shi P, Zhao M, Dai J,Lyu Y, Zhang G, Zuo X, Jia Q,Liu Y, Liu Y. 2O19. Converging Effects of Shrubs on Shadow Dune Formation and Sand Trapping. Journal of Geophysical ResearchEarth Surface 124(7): 1835-1853.DOI: 10.1029/2018JF004695 Zhang S,Li X, Jiang Z, Li D,Lin H. 2O18. Modelling of rainfall partitioning by a deciduous shrub using a variable parameters Gash model. Ecohydrology 11(7): e2011. DOI: 10.1002/eco.2011 Zhang S,Li X, Peng H, Zhang Z. 2O12. Infiltration patern beneath shrub canopy and interspace grass patches in typical steppe ecosystems of Inner Mongolia, China.Journal of Earth Environment 3(6): 1117-1125.   \nZhang S,Li X.2018. Soil moisture and temperature dynamics in typical alpine ecosystems: a continuous multi-depth measurements-based analysis from the Qinghai-Tibet Plateau， China.Hydrology Research 49(1): 194-209. DOI: 10.2166/nh.2017.215   \nZhang Z, Li X, Yang X, Shi Y, Zhang S,Jiang Z. 2019. Changes in soil properties following shrub encroachment in the semiarid Inner Mongolian grasslands of China. Soil Science and Plant Nutrition: 1-10.DOI: 10.1080/00380768.2019.1706430   \nZhang Z,Wang S,Nyren P, Jiang G. 2O06.Morphological and reproductive response of Caragana microphylla to different stocking rates. Journal of Arid Environments 67(4): 671-677.   \nZheng X,Li X,LiL,Peng H,Zhang S.2O15a. Relationship and response of shrub patches to precipitation using the entropy model in arid and semiarid regions of China. Acta Ecologica Sinica 35(23): 7803- 7811. (In Chinese with English abstract)   \nZheng X, Zhao G,Li X,LiL, Wu H, Zhang S, Zhang Z. 2O15b. Application of stable hydrogen isotope in study of water sources for Caragana microphyll bushland in Nei Mongol. Chinese Journal of Plant Ecology 39(2):184-196.(In Chinese with English abstract)   \nZhou L, Shen H, Chen L,Li H, Zhang P, Zhao X, Liu T,Liu S, Xing A, Hu H, Fang J. 2019. Ecological consequences of shrub encroachment in the grasslands of northern China. Landscape Ecology 34(1): ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "119-130.DOI: 10.1007/s10980-018-0749-2 ",
+        "page_idx": 34
+    },
+    {
+        "type": "table",
+        "img_path": "images/0e815dc6e5ec6a03e60bfae2eaaaeca3904b671deaafbbc0428fb613a8e0b54c.jpg",
+        "table_caption": [
+            "Table 1 Preferential flow(PF) characteristics of different sites. "
+        ],
+        "table_footnote": [
+            "\\*missing period: Nov.1, 2009 - Mar.21, 2010 "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Sites</td><td colspan=\"3\">Period</td><td colspan=\"2\">Rain events</td><td colspan=\"2\">PF events</td><td colspan=\"2\"></td><td colspan=\"2\">PF ratio (%)</td><td colspan=\"2\"></td><td></td><td></td></tr><tr><td>Begin</td><td>End</td><td>Days</td><td>Total</td><td>>1 mm</td><td>20 cm</td><td>40 cm</td><td>60 cm</td><td>100 cm</td><td>Total</td><td>20 cm</td><td>40 cm</td><td>60 cm</td><td>100 cm</td><td>Total</td></tr><tr><td>Top grass</td><td>Jul. 1, 2009</td><td>May 16, 2011</td><td>684</td><td>76</td><td>54</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td></tr><tr><td>Top shrub</td><td>Aug. 1, 2009</td><td>May 16, 2011</td><td>653</td><td>70</td><td>49</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td><td>0.0</td></tr><tr><td>Upper grass</td><td>Jul. 1, 2009</td><td>May 16, 2011</td><td>684</td><td>76</td><td>54</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1.9</td><td>0.0</td><td>0.0</td><td>0.0</td><td>1.9</td></tr><tr><td>Upper shrub</td><td>Jul. 17, 2009</td><td>May 16, 2011</td><td>668</td><td>75</td><td>53</td><td>0</td><td>1</td><td>1</td><td>0</td><td>2</td><td>0.0</td><td>1.9</td><td>1.9</td><td>0.0</td><td>3.8</td></tr><tr><td>Middle grass</td><td>Jul. 1,2009</td><td>May 21, 2013</td><td>1420</td><td>163</td><td>109</td><td>1</td><td>3</td><td>3</td><td></td><td>7</td><td>0.9</td><td>2.8</td><td>2.8</td><td></td><td>6.4</td></tr><tr><td>Middle shrub</td><td>Jul. 1, 2009</td><td>May 21,2013</td><td>1420</td><td>163</td><td>109</td><td>1</td><td>1</td><td>2</td><td></td><td>4</td><td>0.9</td><td>0.9</td><td>1.8</td><td></td><td>3.7</td></tr><tr><td>Lower grass</td><td>Aug. 1, 2009</td><td>May 16,2011</td><td>653</td><td>70</td><td>49</td><td>0</td><td>0</td><td>4</td><td>0</td><td>4</td><td>0.0</td><td>0.0</td><td>8.2</td><td>0.0</td><td>8.2</td></tr><tr><td>Lower shrub*</td><td>Jul. 1, 2009</td><td>May 16, 2011</td><td>543</td><td>70</td><td>51</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0.0</td><td>2.0</td><td>0.0</td><td>0.0</td><td>2.0</td></tr><tr><td>Grass</td><td></td><td></td><td></td><td></td><td></td><td>2</td><td>3</td><td>7</td><td>0</td><td>12</td><td>0.7</td><td>0.7</td><td>2.7</td><td>0.0</td><td>4.1</td></tr><tr><td>Shrub</td><td></td><td></td><td></td><td></td><td></td><td>1</td><td>3</td><td>3</td><td>0</td><td>7</td><td>0.2</td><td>1.2</td><td>0.9</td><td>0.0</td><td>2.4</td></tr></table></body></html>",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Figures: ",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 Diagrammatic sketch of the experimental hillslope with C. microphylla patches interspersed in sparse grass matrix, and sites for soil moisture sensors and meteorological tower instrumentation. Figure 2 Meltwater infiltration estimation. Soil water storage (SWS, back line),and soil temperature (red line) crossing soil frozen and the first rain after soil thawed were given. The red dash line shows $0 { } ^ { \\circ } \\mathrm { C }$ .Black dot lines show the frozen soil period. The green dot line shows the SWS just before soil frozen and thawed. The blue dot line shows the maximum ofSWS after soil thawed and before the first rain. ",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "1iguiv 1d am Ials al v Apviiviiai aiva 1vil Juiy 1, 2009 to May 21, 2013. The grey solid line shows the density of rainfall amount and the grey vertical lines show the occurs of rainfall events; yellow columns show the count of rainfall events; the blue dash line shows the cumulative percent of rainfall amount; the blue bubbles show the rainfall amount, rainfall duration, and their sizes show rainfall intensity. ",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 Wind speeds and direction in January， February, March, November, and December of the experimental period at $3 \\mathrm { ~ m ~ }$ above the middle of the slope.   \nFigure 5 The relationships between the changes of soil water storage (△SWS) and rainfall amounts (P).   \nFigure 6 Yearly rainfall infiltration at different sites in 2OO9 and 2010. Rainfall infiltration in 2009 were since July 1 except the top shrub site and the lower grass site, which were since August 1, 2009.   \nFigure 7 The meltwater infiltration at different sites and periods.   \nFigure 8 Meltwater infiltration at the middle site in the period of 2012 - 2013. (a) Rainfall and air temperature $( T a )$ at $2 ~ \\mathrm { m }$ above ground; (b) soil water storage (SWS) and soil temperature at 1O cm depth at the middle shrub site; (c) soil water content $\\mathbf { \\eta } ^ { ( \\theta ) }$ at 10, 20,40, and $6 0 ~ \\mathrm { c m }$ depth at the middle shrub site; (d) soil water storage (SWS) and soil temperature at 10 cm depth at the middle grass site; (c) soil water content $\\mathbf { \\eta } ^ { ( \\theta ) }$ at 10, 20, 40, and 60 cm depth at the middle grass site.   \nFigure 9 Photo of meltwater flow on the slope. Photo taken on March 7, ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "2011. Snow and ice were retained at the lee side of the shrub patch and melted at the south first. Note that there were snow and ice on the shrub mound earlier than the time of this photo taken, and they melt earlier due to the stems of shrub had lower albedo and could absorbed more radiation. Photo courtesy of Si-Yi Zhang. ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 38
+    },
+    {
+        "type": "image",
+        "img_path": "images/2763b8657d4e8eb2df71f9b6119f692251e83c834a98693857e18c72e8737647.jpg",
+        "img_caption": [
+            "Figure 1 Diagrammatic sketch of the experimental hillslope with C. "
+        ],
+        "img_footnote": [],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "microphylla patches interspersed in sparse grass matrix, and sites for soil moisture sensors and meteorological tower instrumentation. ",
+        "page_idx": 39
+    },
+    {
+        "type": "image",
+        "img_path": "images/b5dafac72f93cf3805ed83e62a971534ea1038796c762cdb4ab61a9b0c8ca9e5.jpg",
+        "img_caption": [
+            "Figure 2 Meltwater infiltration estimation. Soil water storage (SWS, back "
+        ],
+        "img_footnote": [],
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "line), and soil temperature (red line) crossing soil frozen and the first rain after soil thawed were given. The red dash line shows $0 { } ^ { \\circ } \\mathrm { C }$ . Black dot lines show the frozen soil period. The green dot line shows the SWS just before soil frozen and thawed. The blue dot line shows the maximum of SWS after soil thawed andbefore the first rain. ",
+        "page_idx": 40
+    },
+    {
+        "type": "image",
+        "img_path": "images/5bfbf08a3886e90e274262c636d9d1b140cbb6155a61ca5616e3daa17835cf66.jpg",
+        "img_caption": [
+            "Figure 3 Characteristics of rainfalls at the experimental area from July 1, "
+        ],
+        "img_footnote": [],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "2009 to May 21, 2013. The grey solid line shows the density of rainfall amount and the grey vertical lines show the occurs of rainfall events; yellow columns show the count of rainfall events; the blue dash line shows the cumulative percent of rainfall amount; the blue bubbles show the rainfall amount, rainfall duration, and their sizes show rainfall intensity. ",
+        "page_idx": 41
+    },
+    {
+        "type": "image",
+        "img_path": "images/3efd85044471b8284f11251b807ec67ae0c196b3236bc91d553590af44a1646c.jpg",
+        "img_caption": [
+            "Figure 4 Wind speeds and direction in January， February, March, "
+        ],
+        "img_footnote": [],
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "November, and December of the experimental period at $3 \\mathrm { ~ m ~ }$ above the middle of the slope. ",
+        "page_idx": 42
+    },
+    {
+        "type": "image",
+        "img_path": "images/9be1dd754b624f8685b4efb036bb3754fdb79cf57e5444de789aa80a895d5b2d.jpg",
+        "img_caption": [
+            "Figure 5 The relationships between the changes of soil water storage "
+        ],
+        "img_footnote": [],
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "(△SWS) and rainfall amounts (P). ",
+        "page_idx": 43
+    },
+    {
+        "type": "image",
+        "img_path": "images/35ddbde68b9158d8bf492f9291798c59b93477a8d7031744f464b170ba2a7ddd.jpg",
+        "img_caption": [
+            "Figure 6 Yearly rainfall infiltration at different sites in 2Oo9 and 2010. "
+        ],
+        "img_footnote": [],
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "Rainfall infiltration in 2OO9 were since July 1 except the top shrub site and the lower grass site, which were since August 1, 2009. ",
+        "page_idx": 44
+    },
+    {
+        "type": "image",
+        "img_path": "images/beb315d0a638f61c8caa0d3c51078f080eefc1ba206ec24d5c09162206a80523.jpg",
+        "img_caption": [
+            "687 Figure 7 The meltwater infiltration at different sites and periods. "
+        ],
+        "img_footnote": [],
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "(uw) mrairr (ii mmm 11-1-2012 11-15-201211-29-2012 2-15-2013 ? 3-1-2013 3-15-2013 3-29-2013   \n04812 Rainfall   \n(a)   \n216 5 SWS T, at 10 cm   \n176 Frozen soil 0 (5。) 132 5 T” 88 H (b) Middle shrub -10 (% 4/a) θ 3024 10 cm 20cm 40 cm 60 cm (c)Middle shrub   \n18   \n12   \n6   \n(uw) SMs 220 SWS at 10 cm 50 Frozen soil (5.) 132 -5 Ts 88 (d) Middle grass -10 30 10 cm 20 cm 40 cm 60 cm   \n24   \n(% A/a) 18   \n12   \n6 (e) Middle grass   \n0   \n11-1-2012 11-15-2012 11-29-2012 2-15-2013 3-1-2013 3-15-2013 3-29-2013   \nTime (mm-dd-yyyy) ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "2013.(a) Rainfall and air temperature $( T _ { a } )$ at $2 ~ \\mathrm { m }$ above ground; (b） soil water storage (SWS) and soil temperature at $1 0 \\ \\mathrm { c m }$ depth at the middle shrub site; (c) soil water content $\\mathbf { \\eta } ^ { ( \\theta ) }$ at 10, 20,40, and $6 0 ~ \\mathrm { c m }$ depth at the middle shrub site; (d) soil water storage(SWS) and soil temperature at 10 cm depth at the middle grass site; (c) soil water content $\\mathbf { \\eta } ^ { ( \\theta ) }$ at 10, 20, 40, and 60 cm depth at the middle grass site. ",
+        "page_idx": 46
+    },
+    {
+        "type": "image",
+        "img_path": "images/4976942690dd694538e80c5afc725febffc7cd82222723b901289ae544c901e0.jpg",
+        "img_caption": [
+            "Figure 9 Photo of meltwater flow on the slope. Photo taken on March 7, "
+        ],
+        "img_footnote": [],
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "2011.Snow and ice were retained at the lee side of the shrub patch and melted at the south first. Note that there were snow and ice on the shrub mound earlier than the time of this photo taken, and they melt earlier due to the stems of shrub had lower albedo and could absorbed more radiation Photo courtesy of Si-Yi Zhang. ",
+        "page_idx": 47
+    }
+]

@@ -1,0 +1,410 @@
+[
+    {
+        "type": "text",
+        "text": "特征注意的全局性调制作用 增强还是抑制？1",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄子立」丁玉珑²曲折1（1中山大学心理学系，广州510006）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（²华南师范大学心理学院，广州510006）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要特征注意（feature-based attention）是个体根据特定的特征维度或特征值分配视觉注意资源的能力。在注意焦点内，特征注意会增强对注意特征具有反应选择性的神经元活动，并抑制对干扰特征具有反应选择性的神经元活动。大量研究表明，特征注意的调制作用可以扩散到注意焦点以外，具有全局性的特点，但这种全局性调制作用是增强机制还是抑制机制仍然存在争议。这可能是由于两种机制在时间进程等属性上存在差异，在视觉信息加工中可能扮演着不同角色。相对而言，全局性抑制作用可能更易受实验设计和实验参数的影响。后续研究应该探究全局性抑制机制在什么条件下发挥作用，以及进一步对全局性的增强机制和抑制机制进行分离。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词特征注意；全局性调制作用；增强机制；抑制机制",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1前言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在日常生活的视觉场景中充斥着大量的信息，但是受限于大脑的加工能力，个体只能同时加工其中少量的信息，因此需要视觉选择性注意（visual selective attention）筛选出其中有用的信息，针对当前环境指导行为反应。很多情况下，个体可以根据视觉特征对视觉信息进行选择，比如在各种颜色的汽车中寻找一辆红色的汽车。这种根据特定的特征维度（如颜色）或特征值（如红色）选择性分配视觉注意资源的方式被称为特征注意（feature-basedattention）。许多研究发现，人们可以通过注意特定特征的方法达到快速搜索和定位目标物体的目的（如 Grubert & Eimer,2015; Irons,Folk,& Remington,2012; Lee,Leonard,Luck,&Geng,2018;Wegener, Ehn,Aurich,Galashan,& Kreiter, 2008；综述见 Eimer, 2014; Wolfe &Horowitz,2017），而且还可以同时对多个特征进行选择，对不同特征信息进行平行且相互独立的加工（Andersen, Hillyard,& Muller, 2008; Andersen,Müller,& Hillyard,2015; Jenkins,",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Grubert,&Eimer,2017）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "特征注意的神经机制一直是研究者们关注的问题。基于电生理研究，前人提出了两个经典模型来解释特征注意：偏向竞争模型（biased competition model）和特征相似性增益模型（feature similarity gain model）。偏向竞争模型由 Desimone 和 Duncan（1995）提出：具有不同特征值的刺激激活了相互竞争的神经元集群，而对某种特征自上而下的选择性注意会增强对目标特征具有反应选择性的神经元的活动，并抑制对非目标特征具有反应选择性的神经元活动（如图1A），从而使得神经元之间的竞争偏向目标特征（Kozyrev,Daliri,Schwedhelm,& Treue, 2019; Liu, Larsson,& Carrasco,2007; McAdams & Maunsell,1999; Polk,Drake,Jonides,Smith,& Smith,2008; Treue & Maunsell,1996,1999；综述见 Maunsell, 2015;Moore& Zirnsak,2017）。特征相似性增益模型则由 Treue等人（Martinez-Trujillo & Treue,2004;Maunsell& Treue,2006; Treue& Trujillo,1999）提出：自上而下的特征注意通过乘积的方式调制了神经元的响应水平，乘积的量级取决于当前目标特征与该神经元偏好特征的相似程度。当目标特征与偏好特征相似时，响应水平得到增强；当目标特征与偏好特征相差较大时，响应水平受到抑制（如图1B）。前人研究发现，在注意范围内特征注意增强了视觉神经元对目标特征的响应增益（response gain），同时锐化了（sharpen）特征调谐曲线（tuning），这支持了特征相似性增益模型（Bartsch et al.,2017; Herrmann,Heeger,&Carrasco,2012; Ling,Liu,& Carrasco,2009； Serences,Saproo, Scolari, Ho,& Muftuler, 2009;Wang,Miller,& Liu, 2015; 综述见 Carrasco, 2011）。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/dd257fde2a3fc1be205c5ef4dd4f10995abc4cade5dd292849f9cfb267fcaf10.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图1特征注意的经典模型。A：偏向竞争模型。神经元感受野（灰色虚线圆圈示）内存在相互竞争的视觉刺激，如向上和向下运动的随机点，选择性注意调制了对向上和向下运动具有反应偏好的神经元集群的反应。结果发现，针对MT区神经元，相比于注意感受野外刺激的基线条件，当猴子选择性注意其感受野内朝偏好方向的运动点时，神经元放电率显著增强，而当猴子选择性注意相反方向时，神经元放电率显著减弱。资料来源：Treue& Maunsell（1999），有所修改。B：特征相似性增益模型。Martinez-Trujillo和Treue（2004）在两侧视野呈现相同运动方向的随机点，记录猴子在注意随机点运动方向和注意中央注视点两种状态下感受野（灰色虚线圆圈示）对应的MT区神经元活动。结果发现，随机点运动方向与神经元偏好方向之间的相似性调制了神经元的响应水平：随机点运动方向与神经元偏好方向相似时，神经元的反应被增强；而当随机点运动方向与神经元偏好方向差异较大时，神经元的反应受到抑制。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "随着对特征注意研究的不断深入，研究者们发现，很多时候特征注意的调制作用具有全局性的特点：调制作用会扩散到注意焦点（attentional focus）以外的非注意刺激(Bartsch,Donohue, Strumpf, Schoenfeld,& Hopf,2018; Leonard,Balestreri, & Luck,2015; Liu& Hou,2011; Liu& Mance,2011; Saenz,Buracas,& Boynton,2002）或没有主观意识到的视觉刺激（Schmidt＆ Schmidt,2010），甚至是没有视觉刺激呈现的非注意位置（Serences&Boynton,2007）。对此，研究者们提出了两种特征注意全局性调制作用的可能机制：全局性增强（global enhancement）和全局性抑制（global suppression）。前者是指特征注意会选择性地增强整个视野范围内对目标特征具有反应偏好的神经元的活动，即便在注意焦点外，拥有目标特征的视觉刺激在视皮层上的表征同样会被增强（Forschack,Andersen,& Muler,2017;White＆Carrasco,2011）；后者是指特征注意会选择性地抑制整个视野范围内对干扰特征具有反应偏好的神经元的活动，导致即便在注意焦点外，拥有干扰特征的视觉刺激在视皮层上的表征也会减弱（Moher, Lakshmanan,Egeth,& Ewen,2014; Zanto& Rissman,2015）。迄今为止，尽管有大量研究尝试探讨过特征注意的这两种全局性机制，但是不同的实验范式或实验设计得到了不尽相同的证据和结论，究竟哪种机制是特征注意的基础依然存在争议。本文通过总结和比较前人研究的范式、方法和实验设计，梳理两种机制的实证性证据和主要争论点，并对这个问题提出我们的见解。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2特征注意全局性机制的常用研究范式",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在有关特征注意全局性机制的研究中，实验人员通常在同一特征维度内（如颜色、运动方向等）定义目标刺激和干扰刺激，并通过分散注意（divided attention）范式，探针刺激（probe stimulus）范式，视觉后效（visual aftereffect）范式等实验手段，探讨特征注意的作用机制。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分散注意范式一般采用双任务的模式，让受试者同时在两个分离的空间范围中各自注意特定的特征值，并完成知觉任务（如 Saenz,Buracas,& Boynton,2003; Xiao et al.,2014）。研究者通过操作两个空间范围内注意特征之间或注意特征与干扰特征之间的匹配程度来设置不同的实验条件，并记录不同条件下受试者的行为表现或神经活动。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "探针刺激范式则是在注意空间范围外呈现与任务无关的探针刺激，研究者通过操作探针刺激与目标刺激在特征值上的匹配程度来定义探针刺激的类型，记录并比较不同类型的探针刺激所诱发的脑活动（如Moher etal.,2014; Zhang＆Luck,2009）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "视觉后效范式利用了神经适应（adaptation）的原理，即神经元的活动会随着视觉刺激的暴露时间增加而减弱，而特征注意的调制作用会进一步影响神经适应的结果（如Boynton,Ciaramitaro,& Arman,2006; Zirnsak& Hamker,2010）。运用较多的是运动后效（motion after effect,MAE），即受试者观察沿某一方向运动的视觉刺激一段时间后，再观察静止的刺激会产生反向运动的视觉错觉（Tootelletal.,1995）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "除了上述三个常用范式外，也有研究者采用视觉搜索（visual search）范式（如Drew& Stothart,2016）或线索（cueing）范式（如Ho,Brown,Abuyo,Ku,& Serences,2012）来探讨特征注意的机制。总的来说，无论是哪种实验范式，实验设计的思路一般都是操作注意范围内外注意刺激与非注意刺激之间的相似程度，通过比较各条件间行为表现或神经活动的差异来揭示特征注意的调制机制。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3支持特征注意全局性增强机制的证据",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Saenz 等人（2003）最早利用分散注意范式探究了关于运动方向和颜色的特征注意调制作用。实验人员在屏幕两侧同时呈现带有两种不同特征的随机点（向上和向下的运动方向，或红色和绿色；如图2A，左），要求受试者在视野两侧分别注意某个特征的随机点，并报告两侧视野中随机点的注意特征（运动速度或颜色亮度）是否发生了变化。根据两侧注意特征的关系，分为注意相同特征和注意相反特征（即一侧的注意特征在另一侧是干扰特征，反之亦然）两种条件。结果发现，相比于注意相反特征条件，受试者在注意相同特征条件下有着更好的行为表现（图2A，右）。Saenz等人认为这反映了特征注意的全局性增强效应：当受试者在视野两侧注意相同特征时，特征注意同时增强了两侧偏好注意特征的神经元的反应，从而促进了受试者的任务表现；而当受试者在视野两侧注意相反特征时，特征注意反而增强了各自对侧视野偏好干扰特征的神经元的反应，从而加剧了各自视野内注意刺激和干扰刺激的竞争，最终损害任务表现。然而，由于这个研究中缺乏一个中性的对照条件，并不能为全局性增强机制提供排他性的证据。实际上，全局性抑制机制同样可以解释上述结果：在注意相同特征条件下，两侧干扰特征都将受到抑制，这种协同抑制会促进受试者的行为表现；而在注意相反特征条件下，由于一侧的干扰特征是另一侧的注意特征，因此两侧的注意特征都会受到一个全局性的抑制，从而损害相应的行为表现。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2faa177e1f9adb3c9d3c63971550361281d8c1044a423bef7f49d7cdba4b2fcb.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图2支持特征注意全局性增强机制的实证性证据。A：Saenz等人(2003)的分散注意任务范式示意图；受试者在每侧视野内注意其中一种运动方向的随机点，并同时完成运动速度变化的检测任务。结果发现，注意相同特征条件下受试者的正确率显著高于注意不同特征条件。B：White和Carrasco (2011)的分散注意任务范式示意图；一侧视野会呈现向上和向下运动的重叠随机点作为主要刺激，在另一侧视野会呈现两个区域的随机点作为次要刺激；受试者需要注意主要刺激中的一种运动方向，并对次要刺激完成一个一致性运动检测任务。C：Zhang 和Luck(2009)采用的探针刺激范式示意图；在一侧视野内呈现空间上重叠的两种颜色的随机点，要求受试者注意其中一种颜色，同时忽略另一侧视野的探针刺激。D：Painter等人(2014)的探针刺激范式示意图；受试者在中央视野根据颜色特征完成视觉搜索任务，同时在外周视野呈现三种颜色（包括两种中央视野的颜色和另一种只呈现在外周视野的颜色）的棋盘格图案，三种颜色分别以三种频率闪烁。E：Forschack等人（2017）的探针刺激范式示意图；在中央视野呈现空间上重叠的红色和蓝色的随机点，在两侧的外周视野则分别单独呈现红色及蓝色的随机点。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "之后一些研究同样利用分散注意范式得到了与 Saenz等（2003）一致的行为结果（Andersen, Hillyard,& Muller, 2013;White & Carrasco,2011; Xiao et al., 2014）。其中，White 和Carrasco（2011）通过加入了中性线索的方式设置了对照条件，为全局性增强效应提供了排他性证据。研究者在一侧视野内的圆形区域内呈现向上和向下运动的随机点作为主要刺激（primary stimulus），在另一侧视野会呈现两个圆形区域的随机点作为次要刺激（secondary stimulus），其中一个圆形内随机点的运动方向随机分布，而另一圆形内会有一定比例的随机点做向上或向下的一致性运动（见图2B）。受试者需要报告主要刺激中是否发生了速度变化，以及次要刺激中哪一个圆形位置的随机点发生了一致性运动。研究者设置了三种注意线索（中性线索，向上线索，向下线索），以提示受试者在接下来的实验中注意哪种运动方向（中性线索要求受试者将注意力平均分配在两种运动方向上）。结果发现，在线索匹配的条件下（即注意方向与次要刺激的实际运动方向相同时），次要刺激的行为表现显著优于中性线索条件，说明对主要刺激注意特征的增强扩散到了次要刺激上，这支持了特征注意的全局性增强机制；而在线索不匹配的条件下（即注意方向与次要刺激的实际运动方向相反时），次要刺激的行为表现与中性线索条件没有显著差异，说明对主要刺激非注意特征的抑制并没有扩散到次要刺激上，这不支持特征注意的全局性抑制机制。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "除了行为学的证据，一些研究利用呈现探针刺激的方式为特征注意的全局性调制机制寻求生理证据。Zhang 和Luck（2009）在一侧视野内呈现空间上重叠的两种颜色的随机点，并要求受试者注意其中一种颜色以完成一个亮度变化检测任务，而在另一侧要求忽略的视野内单独呈现与目标或干扰颜色相同的随机点作为探针刺激（见图2C）。结果发现，在探针刺激呈现后约 $1 0 0 \\mathrm { { m s } }$ 的时间窗口内，与目标颜色相同的探针刺激诱发的P1振幅显著大于与干扰颜色相同的探针刺激诱发的P1振幅。作者认为这体现了特征注意的全局性增强机制。但由于这个研究缺乏一个中性的对照条件，因此与 Saenz等（2003）的研究一样，不能排他性地证明全局性增强机制。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在随后Painter,Dux,Travis 和Matingley（2014）的研究中，研究人员则进一步设置了中性颜色作为对照条件，并通过稳态视觉诱发电位（Steady-State Visual Evoked Potentials,SSVEP）技术对特征注意的调制机制进行了探究。实验中要求受试者在中央视野范围完成一个搜索任务，中央搜索阵列由两种颜色的不同字母（T或L）组成，受试者需要找到特定颜色特定朝向的字母；与此同时，外周视野内会呈现一个由三种颜色组成的棋盘格图案（见图2D）。三种颜色分别为目标颜色、干扰颜色、以及中性颜色（即中央搜索任务中不存在的颜色），并且分别以三种不同的频率持续闪烁，颜色条件与闪烁频率在被试内平衡设计。结果发现，在同一闪烁频率下，相比于中性颜色，目标颜色的外周刺激诱发了更大的SSVEP振幅，而干扰颜色的外周刺激与中性颜色的外周刺激诱发的 SSVEP振幅并没有显著差异；这个结果排他性地支持了特征注意的全局性增强机制。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "同样是利用诱发SSVEP的手段，Forschack等人（2017）则是通过让受试者被动观看刺激的方式设置对照条件。研究者在视野中央范围呈现空间位置重叠的红色和蓝色随机点，而在一侧外周视野单独呈现红色的随机点，另一侧则单独呈现蓝色的随机点，四种随机点分别以四种不同的频率闪烁（见图2E）。受试者根据颜色线索注意中央红色或蓝色的随机点以完成亮度变化探测任务，同时忽略外周刺激。在颜色线索出现以前，受试者需要注视中央注视点一段时间，以此作为被动观看的基线水平。结果发现，相比于被动观看的基线水平，与注意颜色相同的外周随机点诱发了更大振幅的 SSVEP，而与非注意颜色相同的外周随机点诱发的 SSVEP振幅没有显著变化，这同样排他性地支持了特征注意的全局性增强机制。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Boynton 等人（2006）结合了探针刺激范式和视觉后效范式，通过测量非注意视野内刺激诱发的运动后效大小作为特征注意全局调制效应的间接测量指标。与 Zhang 和Luck（2009）的实验类似，研究者在视野的一侧呈现两种空间上重叠但运动方向相反的随机点，并通过线索指示受试者注意某个运动方向的随机点，同时忽略另一侧视野的随机点刺激，这个阶段也称为适应阶段（adaptingphase）。根据适应阶段非注意视野内随机点的运动方向，可分为四种条件：1）与注意方向相同；2）与注意方向相反；3）随机方向；4)无刺激。在随后的测试阶段，非注意视野位置会呈现慢速向上运动、慢速向下运动或静止不动的随机点，受试者需要完成一个二项迫选任务，判断随机点的运动是向上还是向下，以测量适应阶段非注意刺激所产生的 MAE大小（即消除 MAE所需的反向运动速度大小）。结果发现，相比于相反方向条件，相同方向条件诱发了更大的 MAE；不仅如此，随机方向和无刺激的条件下也都诱发了显著的MAE。这些结果说明在注意视野范围内对某种方向的选择性注意增强了全视野范围内对该方向的反应选择性，支持了全局性增强效应的机制。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4支持特征注意全局性抑制机制的证据",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "与支持全局性增强机制的大量研究相比，支持全局性抑制机制的研究较少。Moher 等人（2014）利用与Zhang和Luck（2009）类似的探针实验范式，并加入一种注意范围内没有的颜色（即中性颜色）作为基线条件，共设置了三种探针刺激：目标颜色，干扰颜色，中性颜色（见图3A，上）。结果发现由目标颜色和中性颜色的探针刺激所诱发的P1振幅没有显著差异，而干扰颜色的探针刺激所诱发的P1振幅显著低于前两者（见图3A，下）。这表明在注意范围以外神经元对干扰颜色的反应受到了抑制，而对目标颜色的反应没有得到增强，从而排他性地支持了全局性抑制机制。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/d63b7b170603b8ddf1b891eab9d3832b33e836a97614f75f4be1fe3aefb32998.jpg",
+        "img_caption": [
+            "图3支持特征注意全局性抑制机制的实证性证据。A：Moher等（2014）增加了中性颜色的探针刺激，结果发现相比于中性颜色探针刺激，与干扰颜色相匹配的探针刺激诱发的P1振幅更小，而与目标颜色相匹配的探针刺激诱发的P1振幅没有显著增加。B：Stormer 和Alvarez（2014）操作了注意特征之间的相似程度，发现在特征空间内，与注意特征差异较小或差异最大的非注意特征会受到更强烈的全局性抑制。"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Stormer和Alvarez（2014）则结合分散注意范式和 SSVEP技术，并进一步操作了两种注意特征之间的相似程度：研究者分别在视野两侧呈现两种颜色的随机点，但是两侧视野内注意颜色在特征空间内存在一定的差异（相差 $0 ^ { \\circ }$ 至 $1 8 0 ^ { \\circ }$ ）。结果发现，颜色相差 $0 ^ { \\circ }$ （即颜色相同）的条件下受试者正确率显著大于颜色相差 $1 8 0 ^ { \\circ }$ 的条件；而且在颜色相差 $0 ^ { \\circ }$ 至$6 0 ^ { \\circ }$ 的区间内，受试者的行为正确率呈现倒U型，在相差 $3 0 ^ { \\circ }$ 时正确率最低，且与颜色相差$1 8 0 ^ { \\circ }$ 的条件没有显著差异。在同一个研究中，研究者还采用了与Moher等人（2014）类似的探针刺激范式，在注意视野内呈现两种颜色刺激（其中一种为目标颜色，另一种为干扰颜色，二者在颜色空间相差 $1 8 0 ^ { \\circ }$ ），在非注意视野内呈现一种颜色作为探针刺激，并让三种颜色的随机点以不同频率闪烁以诱发 SSVEP。根据探针刺激颜色与目标颜色的关系，可分为四种条件：1）颜色相同（相差 $0 ^ { \\circ }$ ）；2）相差 $3 0 ^ { \\circ }$ ；3）相差 $6 0 ^ { \\circ } ; \\ 4 )$ ）相差 $1 8 0 ^ { \\circ }$ （此时探针刺激颜色与注意范围内干扰刺激颜色相同）。结果发现，与目标颜色相同（相差 $0 ^ { \\circ }$ ）的探针刺激诱发的SSVEP振幅显著大于与目标颜色相差 $3 0 ^ { \\circ }$ 或 $1 8 0 ^ { \\circ }$ 的探针刺激诱发的SSVEP振幅，后两者之间没有显著差异。而且，当颜色相差 $6 0 ^ { \\circ }$ 时，探针刺激诱发的SSVEP振幅显著大于相差 $3 0 ^ { \\circ }$ 和 $1 8 0 ^ { \\circ }$ 的探针刺激诱发的SSVEP振幅，但是显著小于相差 $0 ^ { \\circ }$ 的探针刺激诱发的 SSVEP振幅（见图3B）。基于此，研究者认为特征注意主要通过抑制机制调制神经元对非注意刺激的反应，而且在特征维度内，与注意特征差异较小（如相差 $3 0 ^ { \\circ }$ ）或最大的（如相差 $1 8 0 ^ { \\circ }$ ）非注意特征受到的抑制最强烈。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Sawaki和Luck（2010）以脑电Pd成分为指标发现了全局性抑制机制的证据。Pd（distractor positivity）是由需要忽略（to-be-ignored）的视觉刺激诱发的对侧电极比同侧电极振幅更正的偏侧化ERP成分，通常被认为反映了个体对干扰子或无关信息的主动抑制（综述见Gaspelin&Luck,2018）。在 Sawaki和Luck（2010）的研究中，研究者在上下视野分别呈现四个大写字母（其中两个较大，两个较小），受试者在注意其中一个视野范围的同时忽略另一个视野范围，并在注意范围内搜索目标字母（如较大的红色A）是否出现。在大多数试次中，所有八个字母的颜色与目标颜色一致（如红色），目标字母可能出现在注意范围、非注意范围或不出现；而在其余试次中，存在一个不同颜色（如绿色）的突显干扰子（salient distractor）等概率地出现在注意范围和非注意范围，此时不存在目标字母，其余七个非目标字母颜色与目标颜色一致。突显干扰子的颜色在组内固定。结果发现，注意范围内和非注意范围内的突显干扰子都诱发了显著的Pd成分，这支持了对干扰特征的全局性抑制机制。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "与Pd成分类似，alpha 频段（8\\~13Hz）的神经振荡活动被广泛认为在选择性抑制过程中扮演了重要的角色，刺激对侧脑区的高alpha 能量被认为与对该刺激的抑制有关（综述见 Klimesch,2012）。van Diepen,Miller,Mazaheri 和Geng（2016）以alpha 能量为指标发现了全局性抑制机制的证据：研究者在视野两侧分别呈现一个方形和一个菱形刺激，受试者需要搜索红色的方形或红色的菱形（在组间平衡设计）并报告其中的字母；而另一个刺激则作为干扰子，干扰子颜色从红色到黄色共计四种颜色，根据其与目标颜色（红色）的相似度可分为“高相似度干扰子”和“低相似度干扰子”。结果发现，在刺激呈现后500\\~900ms 时间窗口内，“低相似度干扰子”对侧的 $\\alpha$ 能量显著大于同侧的 $\\alpha$ 能量；而“高相似度干扰子”没有诱发任何 $\\mathfrak { a }$ 能量的偏侧化差异。这个结果提示了对目标颜色的注意诱发了对非注意范围内颜色差异较大干扰子的抑制，支持了全局性抑制机制。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5全局性增强机制与抑制机制同时存在的证据",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "除上述研究外，也有部分研究同时发现了支持全局性增强机制和全局性抑制机制的证据。Ho等人（2012）利用线索范式，并操作线索与目标特征间的相似性，揭示了特征注意调制作用从增强到抑制的不同结果。研究者分别在四个象限内呈现随机点，并要求受试者报告哪个象限的随机点存在一致性运动（实验一）或更明显的一致性运动（实验二，见图4A），在刺激呈现之前会呈现中央线索提示一致性运动的方向，分为有效线索（ $50 \\%$ ），无效线索（ $2 5 \\%$ ）和中性线索（ $2 5 \\%$ ，不提供方向信息）三种情况。实验一发现：与中性线索相比，有效线索下受试者的行为表现显著提升，说明存在全局性增强效应；而无效线索下的行为表现则显著受损，说明存在全局性抑制效应。与实验一相比，在实验二中各象限均有一致性运动，说明刺激间竞争变得更剧烈；结果发现，此时各线索条件间行为表现的差异也会变大，说明全局性增强效应和抑制效应均得到增强。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/ed9349c4ab62de429cee2890c9acd3d33b093f3ed1e00e763df9522341c50bc5.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "图4同时支持全局性增强机制和全局性抑制机制的实证性证据。A：Ho等（2012）在中央呈现内源性的线索，并在四个象限内呈现朝某方向协同运动的随机点，受试者需要搜索哪个位置的运动最明显。研究者通过操作无效线索与目标运动方向的相似性，探究特征注意调制作用从增强到抑制的不同知觉结果。B:Andersen等（2013）的分散注意范式示意图：在实验一中视野两侧呈现红色和蓝色的随机点，分为注意相同颜色和注意相反颜色两种条件；而在实验二中视野两侧呈现四种不同颜色的随机点（只有注意不同颜色这一条件），此时不存在潜在的全局性调制作用，相当于基线条件。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Andersen等人（2013）利用分散注意范式和ERP技术发现了全局性增强机制和抑制机制同时存在的证据。研究人员分别在两侧视野内呈现空间位置重叠的两种颜色的随机点，受试者分别在视野两侧分别注意一种颜色的随机点，并完成颜色亮度变化探测任务。在实验一中，视野左右两侧都呈现红色和蓝色的随机点，分为注意相同颜色和注意相反颜色两种注意条件（图4B，上）；而在实验二中，视野左右两侧呈现四种不同的颜色，只有注意不同颜色这一种注意条件（图4B，下），由于此时两侧视野之间没有相同的颜色，不存在潜在的全局性增强作用和全局性抑制作用，因此该条件相当于一种基线条件。结果发现，注意相同颜色条件下随机点诱发的P300振幅显著大于注意不同颜色条件条件，而注意相反颜色条件下随机点诱发的P300 振幅显著小于注意不同颜色条件，这同时支持了全局性增强机制和全局性抑制机制。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Bridwell和 Srinivasan（2012）利用探针范式并结合SSVEP技术，对特征注意全局性调制作用的机制进行了探究。结果发现：相比于中性的探针刺激，与注意特征匹配的探针刺激诱发了更大的 SSVEP振幅，而与干扰特征匹配的探针刺激诱发了更小的 SSVEP振幅；这个结果同时支持了全局性增强效应和全局性抑制效应。类似的结果在一个最近的研究中（Müller,Gundlach,Forschack,& Brummerloh,2018）得到了重复。此外，Bartsch 等人（2017）利用类似的探针范式结合脑磁图技术也得到了两种调制效应同时存在的结果，并进一步发现二者的在时间进程上有所区别：全局性增强效应发生在刺激呈现后的205\\~275ms的时间窗口内，之后 $1 0 0 \\mathrm { { m s } }$ 左右才出现全局性抑制效应。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "6前人研究结论不一致的可能原因",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "综上所述，支持全局性抑制机制的证据相对较少，而支持全局性增强机制的证据相对较多，但部分研究缺少合适的中性对照条件，并不能完全否定全局性抑制机制的存在。还有部分研究同时支持了这两种机制。通过比较各研究间研究范式、实验设计和结果之间的差异，",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "我们认为导致各研究间结论不一致的原因可能有以下几个：",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "6.1实验参数的差异 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "前人研究表明，增强机制和抑制机制在时间进程上存在差异，相比于增强效应，抑制效应出现的时间相对较晚（Andersen& Muller,2010;Bartsch et al.,2017;Brummerloh &Muller,2019;Forschack etal.,2017;Keil&Muller,2010）。这种时间进程上的区别可能导致全局性抑制机制对实验参数更加敏感，需要更长的时间窗口才能得到稳定的全局性抑制效应。一些研究中刺激呈现时间或数据分析的时间窗口太短，可能是其无法观察到全局性抑制机制的原因。比如White和Carrasco（2011）的研究中，次要刺激只呈现 $2 9 3 \\mathrm { m s }$ ；Painter等人（2014）的研究中，搜索阵列只呈现 $7 0 0 \\mathrm { { m s } }$ ；Bartsch等人（2015）的研究中，数据分析窗口局限于刺激呈现后的 ${ 5 0 0 } \\mathrm { m s }$ 内。而在一些发现全局性抑制效应的研究中，刺激呈现时间相对更长，往往达到 $1 0 0 0 \\mathrm { m s }$ 以上（如 Ho et al., 2012; Moher et al.,2014; Müller et al.,2018;Stormer&Alvarez,2014），这样的实验参数设计可能更有利于得到支持全局性抑制机制的证据。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "6.2实验设计的差异",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "组块设计（block design）和试次间设计（trial-to-trial design）的差异也可能是导致研究间结论不一致的原因；相比于试次间设计，组块设计更有可能观察到全局性抑制效应。Noonan等人（2016）利用Posner范式发现，只有在组块设计的条件下，受试者才能利用干扰子相关线索对干扰子进行主动抑制。许多研究也发现，只有当被试能从先前经验中直接获得可预期信息以指导对干扰子的抑制时，受试者才能够利用这些信息对干扰子进行主动抑制(Becker, Hemsteger,& Peltier, 2015; Berggren & Eimer,2018; Cunningham & Egeth,2016 综述见Noonan,Critenden, Jensen,& Stokes,2018)。综上，当干扰特征在试次间固定不变时，更容易观察到稳定的抑制效应。这可能是部分采用组块设计的研究能够发现全局性抑制作用（如Bridwell & Srinivasan,2012; Moher, et al.,2014; Sawaki & Luck,2010），而一些采用试次间设计的研究无法观察到全局性抑制效应的原因（如 Bartsch etal.,2015;Forschack et al,2017）。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "然而，并非所有采用试次间设计的研究都无法观察到抑制效应。Wen,Hou 和Li（2018）发现，在试次间设计的条件下，只有在反应时最长的部分试次中才能观察到受试者对干扰刺激的抑制效应。这可能是由于线索在试次间不断切换时，需要更多认知资源进行认知控制，而只有在反应时较长的试次中，受试者才有足够的时间调用认知控制以完成对干扰刺激的主动抑制。前人研究也发现，只有在足够的认知控制参与下受试者才能够完成对干扰刺激的主动抑制（Han& Kim,2009;综述见 Amer,Campell,& Hasher,2016; Geng,2014）。因此，即使对于试次间设计而言，受试者是否有时间进行有效的认知控制也可能会影响到实验结果。比如，Bartsch等人（2015）的研究中，受试者的平均反应时不超过${ 5 0 0 } \\mathrm { { m s } }$ ，没有发现全局性抑制效应；而Ho等人（2012）的研究中受试者的平均反应时超过$1 6 0 0 \\mathrm { { m s } }$ ，结果观察到了全局性抑制效应。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "6.3注意特征与干扰特征之间的竞争关系",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "注意特征与干扰特征之间的竞争关系可能也是研究间结果不一致的原因之一。Drew 和Stothart（2016）发现，受试者在视觉搜索任务中只对任务相关的干扰特征产生了全局性抑制。而Muler等人（2018）对比了先前的研究（Forschack et al.,2017），发现非注意视野中注意特征与干扰特征存在空间上的竞争时，干扰特征才会受到全局性的抑制。许多研究没有发现全局性抑制效应的证据，可能是因为这些研究中非注意视野内注意特征和干扰特征没有在空间上产生竞争关系（如 Painter et al.,2014;White＆Carrasco,2011），但这样的实验设计却可以观察到全局性增强效应。而Bartsch等人（2015）发现，即使在注意范围内不存在注意特征和干扰特征的竞争，依然能够观察到稳定的全局性增强效应。这提示了干扰特征的任务相关性也会影响研究结果，注意特征和干扰特征在任务过程中的直接竞争可能会促进受试者对干扰特征的抑制，如果干扰特征与任务完全无关，可能就不需要对其进行抑制因此观察不到全局性抑制效应。相对而言，全局性增强机制则不太依赖注意特征与非注意特征之间的竞争，即使缺少这种竞争关系时依然能够观察到稳定的全局性增强效应。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "6.4任务难度",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "任务难度也可能会影响研究得到的结果。Conci,Deichsel,Muller和Tollner（2019）利用颜色线索指示受试者完成视觉搜索任务，其中正性和负性线索分别提示了受试者需要注意和需要忽略的颜色；结果发现正性线索在视觉搜索任务难度较低和较高的情况下都能有效促进受试者的行为表现，但负性线索只有在视觉搜索任务难度较高的情况下才能有效促进受试者的行为表现，这提示了特征注意的增强机制在简单任务和困难任务中都能发挥作用而抑制机制更可能在任务难度相对较大的情况下发挥作用。Ho等人（2012）也发现，任务难度增加之后，特征注意的全局性抑制效应会被放大。这些结果提示了，任务难度会影响特征注意的全局性调制作用。在简单任务中，抑制干扰特征可能不是一个有效的策略；而当任务难度增大时，抑制干扰特征有助于更有效地完成任务。因此，一些研究没有观察到全局性抑制效应可能是由于任务过于简单：比如Painter等人（2014）的研究中，受试者完成单特征搜索任务（unique-feature search）的正确率约为 $94 \\%$ ；而Bartsch等人（2015）的研究中，受试者的平均正确率达到 $9 5 \\%$ ，平均反应时只有 $3 8 0 \\mathrm { { m s } }$ 。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "7小结与展望 ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "前人研究主要通过分散注意，探针刺激和视觉后效等范式对特征注意全局性调制作用机制进行了探究。相对而言，全局性增强机制的证据较多，在多种实验参数和实验设计下都观察到了稳定的全局性增强效应，而全局性抑制机制可能对实验设计比较敏感。此外，对注意特征的增强和对干扰特征的抑制具有不同的特点（Daffner et al.,2012; Hickey,DiLollo,&McDonald, 2009；Lenartowicz, Simpson, Haber & Cohen,2014; Slagter, Prinssen, Reteig，&Mazaheri,2016），可能导致全局性增强机制和全局性抑制机制在视觉信息加工过程中扮演着不同角色，发挥不同作用。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "全局性增强作用可能是一种相对更基础的特征注意机制，受试者对目标特征自上而下的选择性注意会导致在全视野范围内增强对该特征的表征，因此在各种实验条件下都能观察到全局性增强效应。而全局性抑制机制很可能是一种“有条件”的机制，受实验设计和实验参数的影响更大，在特定的任务需求或自上而下的注意控制下才会发挥作用。后续研究可以尝试探究在何种情况下会存在特征注意的全局性抑制效应，以及能否在时间和空间上对两种全局性机制进行分离。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "为了观察到稳定的全局性抑制效应，对目标特征的持续性注意可能是一个关键因素：当目标特征与干扰特征同时呈现的时候，对目标特征较长时间的持续性注意或许可以引导受试者对干扰特征进行自上而下的主动抑制，或者是有足够的时长让抑制机制变得更加稳定（如Bridwell& Srinivasan,2012; Moher et al.,2014）。基于此，视觉搜索任务可能并不是有利于诱发全局性抑制机制的实验设计（如 Painter et al.,2014），而根据特定特征完成相应的知觉辨别任务可能是更好的方式，受试者既需要对目标刺激进行持续性注意，又对目标刺激的特征信息进行了一定程度的加工。在具体设计中，可以考虑增加刺激呈现时长、采用组块设计、增加特征之间的竞争程度或增加任务难度等方式。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "前人研究已经发现某些电生理指标与注意抑制有关，如Pd成分和alpha 能量，但以往全局性机制研究中都很少考虑这些指标。实际上，基于这些指标的偏侧化特点，结合特定的实验设计应该能够很好地区分目标特征与干扰特征涉及的加工过程是否存在差异。比如利用中央快速序列刺激呈现（rapid serial visual presentation,RSVP）范式（如 Hu,Ding,& Qu,",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "2019;Huang,Su,Zhen,&Qu,2016），在中央视野呈现任务相关刺激，而在两侧的非注意视野呈现探针刺激；通过操作探针刺激与中央目标特征或干扰特征的相似程度来探究特征注意的全局性调制作用，是今后一种值得考虑的研究想法。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "此外，根据特征相似性模型，注意特征与干扰特征之间的相似度会影响特征注意的调制作用（Geng,DiQuattro,& Helm,2017; Stormer& Alvarez,2014），因此在设置注意特征、干扰特征和中性特征时，应该尽可能让注意特征和干扰特征之间的差异最大化，而中性特征的设置可以考虑在特征空间中与注意特征和干扰特征差异大小相当（等距）的特征。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "参考文献   \nAmer,T.,Campbel,K.L.,& Hasher,L. (20l6). Cognitivecontrolasa double-edged sword.Trends in Cognitive Sciences,20(12),905-915.   \nAndersen,S.K.,Hllyard,S.A.,& Muller,M.M. (oo8).Attention facilitates multiplestimulus features inpaallel in human visual cortex. Current Biology,18(13),1006-1009.   \nAndersen,S.K.,Hllyard,S.A.,&Muler,M.M. (2o13). Globalfacilitationofattended features isobligatoryand restricts divided attention. Journal of Neuroscience,33(46),18200-18207.   \nAndersen,S.K.,& Muller,M.M.(20l0).Behavioral performance follows the time course of neural facilitation and suppression during cued shifts of feature-selective attention. Proceedings of the National Academy of Sciences,107(31),13878-13882.   \nAndersen,S.K.，Muller,M.M.，& Hillyard,S.A. (2015).Attentional selection of feature conjunctions is accomplished by parallel and independent selection of single features.Journal of Neuroscience,35(27), 9912-9919.   \nBartsch,M.V.,Boehler,C.N.,Stoppel, C.M.,Merkel,C.,Heinze,H.J.,Schoenfeld,M.A.,& Hopf,J.M.(015). Determinants of global color-based selection in human visual cortex. Cerebral Cortex,25(9),2828-2841.   \nBartsch,M. V., Donohue,S.E. Strumpf,H.,Schoenfeld,M.A.,& Hopf, J.M. (2018).Enhanced spatial focusing increases feature-based selection in unattended locations. Scientific Reports, 8(1),16132.   \nBartsch,M.V.,Loewe,K.,Merkel,C.,Heinze,H.J.,Schoenfeld,M.A.,Tsotsos,J.K.,&Hopf,J..(2017) Atention to color sharpens neural population tuning via feedback processing in the human visual cortex hierarchy. Journal of Neuroscience,37(43),10346-10357.   \nBecker,M. W.,Hemsteger,S.,& Peltier, C. (2O15).No templates for rejection: Afailure toconfigure attention to ignore task-irrelevant features. Visual Cognition,23(9-10),1150-1167.   \nBerggren,N.,& Eimer,M. (2018).Electrophysiological correlates of active suppressionand attentional selection in preview visual search.Neuropsychologia,120,75-85.   \nBoynton, G.M., Ciaramitaro,V.M.,& Arman,A. C.(2006).Effects of feature-based attention on the motion aftereffect at remote locations. Vision Research, 46(18), 2968-2976.   \nBridwel,D.A.,& Srinivasan,R. (2012). Distinct attntion networks for feature enhancement and suppression in vision. Psychological Science,23(10), 1151-1158.   \nBrummerloh,B.,& Muller, M.M. (2019).Time maters: Feature-specific prioritization follows feature integration in visual object processing. Neurolmage,196, 81-93.   \nCarrasco,M.(2011). Visual attention: The past 25 years. Vision Research,51(13),1484-1525.   \nConci,M.,Deichsel,C.,Muller,H.J.,&Tollner,T.(2019).Feature guidance by negative attentionaltemplates depends onsearch diffculty. Visual Cognition, 27,31-326.   \nCuningham, C.A.,&Egeth,H.E.(O16).Taming the white bear: Initial costsand eventualbenefitsof distractor inhibition. Psychological Science,27(4), 476-485.   \nDaffner,K.R.,Zhuravleva,T.Y.,Sun,X.,Tarbi,E.C.,Haring,A.E.,Rentz,D.M.,&Holcomb,P.J. (2012).Does modulation ofselective attention to featuresreflect enhancement orsuppression of neural activity?. Biological Psychology, 89(2),398-407.   \nDesimone,R.，& Duncan,J. (1995). Neural mechanisms of selective visual attntion.Annual Review of Neuroscience,18(1),193-222.   \nDrew,T.，& Stothart,C.(2016).Clarifying therole of target similarity，task relevance and feature-based suppression during sustained inattentional blindness. Journal of Vision,16(15),1-9.   \nEimer,M. (O14).The neural basis of atentional control in visual search.Trends in Cognitive Sciences,18(10), 526-535.   \nForschack,N.,Andersen,S.K.,& Muler,M.M. (2O17). Global enhancement but local suppression in feature based attention. Journal of Cognitive Neuroscience, 29(4), 619-627.   \nGaspelin,N.,&Luck,S.J. (2018).The role of inhibition in avoiding distraction by salient stimuli.Trends in Cognitive Sciences,22(1), 79-92.   \nGeng,J. J. (2014). Atentional mechanisms of distractor suppression. Current Directions in Psychological Science, 23(2), 147-153.   \nGeng,J.J.,DiQuatro,N.E.，& Helm,J.(2017).Distractor probability changes theshape of the attentional template.Journal of Experimental Psychology: Human Perception and Performance,43(12),1993-2007.   \nGrubert,A.,& Eimer,M. (2015).Rapid parallel atentional target selection in single-colorand multiple-color visual search. Journal of Experimental Psychology: Human Perception and Performance,41(1),86-101.   \nHan, S. W.,& Kim,M.S.(20o9).Do thecontents of working memorycapture attention?Yes,butcognitive control matters.Journal of Experimental Psychology: Human Perception and Performance,35(5),1292-1302   \nHerrmann, K., Heeger, D. J.,& Carrasco,M. (2012). Feature-based attention enhances performance by increasing response gain. Vision Research, 74,10-20.   \nHickey,C.,DiLoloV.,&McDonald,J.J. (2009). Electrophysiological indices oftargetand distractor processing in visual search. Journal of Cognitive Neuroscience,21(4), 760-775.   \nHo,T.C.,Brown,S.,Abuyo,N.A.,Ku,E.H. J.,& Serences,J.T. (2012). Perceptual consequences of featurebased attentional enhancement and suppression. Journal of Vision, 12(8),1-17.   \nHu,L.,Ding,Y.，& Qu, Z. (2019). Perceptual learning induces active suppression of physically nonsalient shapes. Psychophysiology, e13393.   \nHuang,W.,Su,Y., Zhen, Y.,& Qu, Z. (2016). The role of top-down spatial atention incontingent attentional capture. Psychophysiology, 53(5), 650-662.   \nIrons,J.L.,Folk,C.L.,&Remington,R. W.(20l2).All set!Evidenceofsimultaneous atentional controlsetings formultipletargetcolors.Journalof Experimental Psychology:Human Perceptionand Performance, 38(3), 758-775.   \nJenkins,M., Grubert,A.,& Eimer,M. (2O17).Target objects defined bya conjunction of colour and shape can be selected independentlyand in parallel. Atention,Perception, & Psychophysics,79(8),2310-2326.   \nKeil,A.,& Muler, M.M. (010). Feature selection in the human brain: Electrophysiological corelates of sensory enhancement and feature integration. Brain Research,1313,172-184.   \nKlimesch,W. (20l2).Alpha-band oscillations,attention,and controled access to stored information. Trends in Cognitive Sciences,16(12), 606-617.   \nKozyrev, V.,Daliri,M.R.,Schwedhelm,P.,& Treue,S. (2019).Strategicdeployment offeature-based attentional gain in primate visual cortex. PLoS Biology,17(8),e3000387.   \nLee, J.,Leonard, C.J.,Luck, S.J.,& Geng,J. J. (2O18). Dynamics ofFeature-based Atentional Selection during Color-Shape Conjunction Search. Journal of Cognitive Neuroscience, 30(12), 1773-1787.   \nLenartowicz,A.,Simpson, G.V., Haber, C.M.,& Cohen, M.S.(2014). Neurophysiological signals of ignoring and attending are separable and related to performance during sustained intersensory attntion. Journal of Cognitive Neuroscience,26(9),2055-2069.   \nLeonard, C. J.，Balestreri，A.,& Luck,S. J. (2015). Interactions between space-based and feature-based attention. Journal of Experimental Psychology: Human Perception and Performance,41(1),11-16.   \nLing,S.,Liu,T.,& Carrasco,M. (2O09). How spatial and feature-based attention affect the gain and tuning of population responses. Vision Research,49(10), 1194-1204.   \nLiu,T.,& Hou, Y. (2011). Global feature-based attntion to orientation. Journal of Vision,11(10),1-8.   \nLiu,T.,Larsson,J.,& Carrasco,M. (2oo7).Feature-based atention modulatesrientation-selectiveresponses in human visual cortex. Neuron,55(2),313-323.   \nLiu,T.，& Mance,I. (201).Constant spread of feature-based atention across the visual field.Vision Research,51(1),26-33.   \nMartinez-Trujillo,J.C.，& Treue,S.(2o04).Feature-based attention increases theselectivity of population responses in primate visual cortex. Current Biology,14(9),744-751.   \nMaunsell,J.H.,&Treue,S. (26).Feature-basedatentioninvisualcortex.TrendsinNeurosciences,29(6),17 322.   \nMaunsell,J.H. (2015). Neuronal mechanisms of visual attention. Annual Review of Vision Science,1,373-391.   \nMcAdams, C. J., & Maunsell,J.H. (199). Efects of attention on orientation-tuning functions ofsingle neurons in macaque cortical area V4. Journal of Neuroscience,19(1), 431-441.   \nMoher,J.,Lakshmanan,B.M., Egeth,H.E.，& Ewen,J.B.(2014). Inhibition drives early feature-based attention. Psychological Science, 25(2),315-324.   \nMoore，T.，& Zirnsak,M. (20l7). Neural mechanisms of selective visual attention.Annual Review of Psychology, 68, 47-72.   \nMuler,M. M., Gundlach, C.,Forschack,N.,& Brummerloh, B. (2018). It takes two to tango: Suppresionof taskirrelevant features requires (spatial) competition. Neurolmage,178, 485-492.   \nNoonan,M.P.,Adamian,N.,Pike,A.，Printzlau,F.,Crittenden,B.M.，& Stokes,M.G.(2016).Distinct mechanisms for distractor suppression and target facilitation. Journal of Neuroscience,36(6),1797-1807.   \nNoonan, M.P.，Critenden,B.M.， Jensen, O.，& Stokes,M. G. (2018). Selective inhibition of distracting input.Behavioural Brain Research,355,36-47.   \nPainter,D.R.,Dux,P.E., Travis,S.L.& Matingley, J.B. (2O14).Neural responses to target features outside a searcharrayareenhanced during conjunction but notunique-featuresearch.Journalof Neuroscience, 34(9),3390-3401.   \nPolk,T.A., Drake,R.M.,Jonides,J.J.,Smith,M.R.,& Smith,E.E.(2008).Attention enhances the neural processing of relevant features and suppresses the processing of irrelevant features in humans: a functional magnetic resonance imaging study of the Stroop task. Journal of Neuroscience,28(51),13786-13792.   \nSaenz,M., Buracas,G.T.,& Boynton, G.M. (2002). Global effects of feature-based attention in human visual cortex. Nature Neuroscience, 5(7), 631-632.   \nSaenz,M., Buracas,G.T.,& Boynton, G.M. (2oo3). Global feature-based attention for motion and color.Vision Research, 43(6), 629-637.   \nSawaki,R.，& Luck， S. J. (2010). Capture versus suppression of attention by salient singletons: Electrophysiological evidence foran automaticattend-to-me signal.Atention，Perception，& Psychophysics,72(6),1455-1470.   \nSchmidt，F.，& Schmidt, T. (2010). Feature-based attention to unconscious shapes and colors.Attention, Perception,& Psychophysics,72(6),1480-1494.   \nSerences,J.T.& Boynton, G.M. (2o07).Feature-based atentional modulations in the absenceof direct visual stimulation. Neuron, 55(2),301-312.   \nSerences,J.T.,Saproo,S.,Scolari,M.,Ho,T.,& Muftuler,L.T.(2oo9).Estimating theinfluenceofatentionon population codes in human visual cortex using voxel-based tuning functions. Neuroimage,44(1),23-231.   \nSlagter,H.A.,Prinssen,S,Reteig,L.C.,&Mazaheri,A.(2o16).Facilitationand inhibition inattention: functional dissociation ofpre-stimulus alpha activity,P1,and N1 components. Neuroimage,125,25-35.   \nStormer, V. S.，& Alvarez, G. A. (2014). Feature-based atention elicits surround suppression in feature space. Current Biology,24(17), 1985-1988.   \nTootell,R.B.,Reppas,J.B.,Dale,A.M.,Look,R.B.,Sereno,M.1.,Malach,R.,..&Rosen,B.R. (1995).Visual motion aftereffect in human cortical area MT revealed by functional magnetic resonance imaging. Nature,375(6527),139-141.   \nTreue,S.,& Maunsell, J. H. (1996).Attentional modulationof visual motion processing in corticalareas MTand MST. Nature, 382(6591), 539-541.   \nTreue,S.,& Maunsel,J. H. (1999). Effects of attention on the processing of motion in macaque middle temporal and medial superior temporal visual cortical areas. Journal of Neuroscience,19(17),7591-7602.   \nTreue,S.,& Trujillo, J. C. M. (1999).Feature-based attention influences motion processing gain in macaque visual cortex. Nature,399(6736), 575-579.   \nvan Diepen,R. M.,Miler,L.M., Mazaheri,A.,& Geng,J. J. (2016). The role of alpha activity inspatial and feature-based attention. Eneuro, 3(5).   \nWang,Y.,Miller,J.,&Liu,T.(215).Suppressioneffects infeature-based atention.JournalofVision,15(5)，1- 16.   \nWegener,D.,Ehn,F.,Aurich,M.K., Galashan,F.O.,& Kreiter,A.K. (2o08).Feature-based attention and the suppression of non-relevant object features. Vision Research,48(27),2696-2707.   \nWen, W.,Hou,Y.,&Li,S. (20l8). Memory guidance in distractor suppresson is governed by the availabilityof cognitive control. Atention, Perception,& Psychophysics,80(5),1157-1168.   \nWhite,A.L.,& Carrasco,M. (20l1). Feature-based attention involuntarily and simultaneously improves visual performance across locations. Journal of Vision,11(6),1-10.   \nWolfe,J.M.,& Horowitz,T. S.(20l7).Five factors that guide attention in visual search.Nature Human Behavioui, 1(3), 0058.   \nXiao,G., Xu,G.,Liu,X., Xu,J.,Wang,F.,Li,L,..&Lu,J. (2014).Feature-based attention isindependentof object appearance. Journal of Vision,14(1), 3-3.   \nZanto,T.P.,& Rissman,J.(2015).Top-down suppression. Brain Mapping,261-267.   \nZhang,W.，& Luck， S.J. (20o9). Feature-based attention modulates feedforward visual processing. Nature Neuroscience,12(1),24-25.   \nZirnsak，M.，& Hamker,F.H. (20l0). Atention alters feature space in motion processing.Journal of Neuroscience,30(20),6882-6890. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "The global modulation of feature-based attention: Enhancement or suppression? ",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "HUANG Zili'; DING Yulong²; QU Zhe1 ('Department of Psychology, Sun Yat-Sen University, Guangzhou, 510006, China) (School of Psychology, South China Normal University, Guangzhou, 510o06, China) ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Feature-based attention (FBA) is the ability that observers can direct their attention to a specific feature dimension or value. In the attentional focus, FBA can modulate the response of neurons in visual cortex: it selectively increases the responses of neurons encoding attended features while suppresses the responses of neurons encoding distracting features. Many studies found that this attntional modulation can spread outside the focus of atention, but the underlying mechanism of the global modulation of FBA (enhancement or suppression) is still controversial. The global enhancement mechanism and the global suppression mechanism are different in time courses and may play distinctive roles in visual information processng. Compared to the global enhancement mechanism, the global suppresson mechanism seems more likely to be influenced by experimental designs and parameters. Future studies are needed to investigate under what conditions the global suppression mechanism takes effect and to further disassociate these two global mechanisms in the process of feature-based attention. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Keyword: feature-based attention; global modulation; global enhancement; global suppression ",
+        "page_idx": 22
+    }
+]

@@ -1,0 +1,510 @@
+[
+    {
+        "type": "text",
+        "text": "长沙梅溪湖国际文化艺术中心幕墙BIM技术应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘京城 苏李渊",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（北京城建集团有限责任公司，北京100088）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】随着 BIM技术在国内的推广应用,大型公共建筑基本上采用了不同深度的BIM应用[1]。本文主要介绍了长沙梅溪湖国际文化艺术中心幕墙工程在深化设计阶段、加工阶段、施工阶段和运维阶段的全生命周期 BIM技术应用。通过 BIM技术应用,解决了幕墙深化设计难度大、加工精度要求高、施工安装管理难、运营维护难度大等难点，实现了幕墙工程的智慧建造。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词】BIM；幕墙；深化设计；施工",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【中图分类号】TU17 【文献标识码】A 【文章编号】1674-7461(2017)01-0001-06   \n【DOI】10.16670/j.cnki.cn11 -5823/tu.2017.01.01 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "工程概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "项目简介",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "长沙梅溪湖国际文化艺术中心工程北邻梅溪湖北路、南邻环湖路、东邻节庆路，地铁2号线设有文化艺术中心站。本工程总建筑面积 $1 2 . 6 ~ \\times$ $1 0 _ { \\mathbb { C } } ^ { \\sharp _ { m } ^ { \\sharp _ { 2 } } }$ ,地下1层(局部3层),地上3\\~8层,结构为框剪混凝土及外围弯扭钢结构，屋面和外立面主要为GRC 幕墙。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "长沙梅溪湖国际文化艺术中心工程建筑方案设计由国际建筑最高奖——普利兹克奖获得者扎哈·哈迪德女士担纲设计，北京城建集团有限责任公司为工程施工总承包。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "长沙梅溪湖国际文化艺术中心包括1800座的大剧场、500座的多功能小剧场、展厅面积超过10$0 0 0 \\mathrm { m } ^ { 2 }$ 的当代艺术馆三个主建筑。工程建成后将成为湖南省规模最大、功能最全、国际一流的高雅文化艺术殿堂，能承接世界一流的大型歌剧、舞剧、交响乐等高雅艺术表演。长沙梅溪湖国际文化艺术中心效果图如图1所示。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.2 工程特点和难点",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本工程结构、建筑造型复杂，三个单体共计22000t异形大跨度弯扭钢结构，外面覆盖的幕墙材料主要为GRC 幕墙，由1万余块无一相同的双曲面GRC 板块组成[2]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "且设计方只提供幕墙表皮模型，却不能提供图纸，如果不采用BIM技术，连最基础的深化设计都无法完成。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由于这些工程特点，导致幕墙具有深化设计难度大、加工精度要求高、施工安装管理难、运营维护难度大等难点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 BIM组织与应用环境",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. 1 BIM应用目标",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "设计阶段目标是幕墙全系统BIM建模出施工图，保证实现设计外观及功能；加工阶段目标是模具达到加工精度，实现GRC幕墙预制加工；施工阶段目标是实现幕墙施工进度、质量、安全可控，实现GRC 幕墙施工三维动态监测；运维阶段目标是实现运营时GRC幕墙出现破损后的可拆卸、易维修。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/11f42a0e674886c9ebf4c0368943300348851ea99c7080967d741557c004af66.jpg",
+        "img_caption": [
+            "图1项目效果图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实施方案",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "O北京城建集团作为工程总承包，从建模到管理，从深化到出图，BIM技术贯穿始终。工程开工之初便制订了《长沙梅溪湖国际文化艺术中心总包BIM执行计划书》。在执行计划书内阐述BIM总体实施方案，对关键技术、工作流程、协同流程、建模标准、模型版本等都做了详细描述[3]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3 团队组织",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为实现上述目标，落实实施方案，本工程由BIM总监牵头,在开工伊始便组建了BIM团队制订总体实施方针，倡导全过程、全专业、全系统使用BIM技术。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.h 应用措施",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "具体应用措施是设计阶段使用DigitalProject软件和Rhino软件进行幕墙全系统参数化建模，将BIM模型通过Navisworks整合，完成碰撞检测，生成碰撞报告，调整设计模型无误后再出施工图。加工阶段使用DigitalProject软件导出GRC模具筋板切割模型，利用CNC三轴雕刻机切割雕刻，保证GRC生产加工精度。施工阶段使用基于微信平台的GRC管理系统进行进度、质量、安全管理，完成GRC的无纸化验收和实现GRC施工动态监测。运维阶段是利用BIM模型进行GRC拆卸方案的模拟和利用GRC管理系统对GRC幕墙运维信息查询。通过幕墙全生命周期的BIM技术应用，实现工程智慧建造与运维。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.5 软硬件环境",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "幕墙BIM实施过程中项目使用了Revit、Navis-works、Rhino、Digital Project、Trimble Connect、Trello和GRC管理系统等多种BIM软件。并配套使用了塔式工作站、移动工作站、移动终端等硬件设备。软硬件环境如图2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c4f33720b875b8191f6ddba8285effa60d7b3d8af90c062c01714fb14f81e194.jpg",
+        "img_caption": [
+            "图2软硬件环境"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 BIM应用",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. 1 BIM建模 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于幕墙造型极其复杂，针对自由曲线的建模特点,本工程使用DigitalProject软件和Rhino 软件进行幕墙全系统参数化建模，模型精度可达到$0 . 0 0 0 1 \\mathrm { m m }$ 。在DigitalProject软件建立的设计模型下进行深化设计，使用Rhino软件快速生成二次钢结构、標条等构件，经碰撞检测无误后，从施工模型中直接导出CAD文件，完成出施工图。项目BIM模型整合如图3所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2 BIM应用情况 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本工程幕墙BIM应用于深化设计阶段、加工阶段、施工阶段，并对未来运维阶段有所规划。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/fc52f29a36064953756a226e3be12d6c87aa6b4155657111ed977eb115d83e50.jpg",
+        "img_caption": [
+            "图3BIM模型整合"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e55e34346ea899a979daab8ec9c5077d2e6b842b3657d289a753578ad791ac5.jpg",
+        "img_caption": [
+            "图4防水层標条施工模型",
+            "图5防水层棕条施工图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 深化设计阶段",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设计阶段幕墙BIM应用主要为深化设计阶段的全系统建模、碰撞检测、云平台协同、MR辅助深化、结构计算、节点模拟、出施工图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于云平台协同的BIM应用，将分散的设计人员以及业主、总包、分包集成在高效的网络平台中，保证沟通顺畅，节约项目时间成本。通过远程协同办公，将设计和深化问题提前暴露并解决，减少现场返工，推动进度目标实现。利用TrimbleConnect平台可以分权限共享BIM文件、图纸、会议纪要等;利用Trello平台可以有效及时地跨地域沟通。将BIM模型通过Navisworks整合，完成碰撞检测，生成碰撞报告；检测出的碰撞问题，发布至Trello平台，并邀请碰撞问题对应方加入讨论，问题方修改碰撞后，在Trello平台中上传修改后图片并回复，各方确认没有问题后再将第二版模型上传至TrimbleCon-nect平台，再从实际施工模型中导出施工图。项目防水层標条施工模型和施工图如图4、图5所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 加工阶段",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "加工阶段幕墙BIM应用主要为模具参数化设计、模具加工图制作、模型数据转化、模具数字化加工、GRC 幕墙预制加工。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "GRC加工的传统模架是在木板上覆盖白纸，沿白纸所绘曲线切割而成，精度难以保障。本工程GRC的数字化加工主要体现在模架的加工。将DigitalProject中设计模型通过插件导出CNC可用文件，然后导入CNC专用数控系统。数控系统代码逐行运行，驱动CNC三轴雕刻机铣刀上下、左右、前后高速转动，实现模架板毫米级加工精度。CNC加工后的模架经线方向间隔 $5 0 0 \\mathrm { m m }$ 、纬线方向间隔1$0 0 0 \\mathrm { m m }$ 排布，蒙皮过程随形贴三层 $5 \\mathrm { m m }$ 厚板，刮三层腻子，刷一道漆，浇灌GRC砂浆，注浆有一定强度后与背负钢架连接，再经养护、脱模、表面修整后包装。GRC模架和GRC预制件如图6、图7所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0717e7073115f4c8fce3fd1d9533189a5fb107d9ccc584af65db91062b73ed6.jpg",
+        "img_caption": [
+            "图6 GRC模架"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d1143f07bde5a0a7a1c49e153d9c3c13658bc363d7f440cc83369446060e1eb1.jpg",
+        "img_caption": [
+            "图7 GRC预制件"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.3 施工阶段",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "施工阶段幕墙BIM应用主要为三维扫描、可视化交底、进度质量安全控制、可视定位安装、无纸化验收、施工动态监测与统计。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1)钢结构三维扫描 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用三维扫描设备对现场钢结构进行三维扫描,生成点云,并利用软件自动计算逆向建模[4],与设计模型在 $1 \\mathrm { c m } \\ 、 5 \\mathrm { c m } \\ 、 1 0 \\mathrm { c m }$ 不同精度范围内分析比对，得到对比数据，GRC板、標托、二次钢结构模型根据此数据进行调整。钢结构三维扫描逆向建模模型如图8所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f56b5949bd8bab636efefbf0ff88896793e1bbe64acff8439f537779a4874443.jpg",
+        "img_caption": [
+            "图8钢结构三维扫描逆向建模模型",
+            "图10 GRC板块详细信息"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2)施工可视化交底 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于幕墙GRC构造层次复杂，单靠图纸和普通的技术交底很难达到比较好的效果。本工程利用BIM软件建立GRC 整体构造模型,并进行模拟安装，指导施工。GRC幕墙安装可视化交底如图9所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3)GRC无纸化验收 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "幕墙造型复杂，三个单体共1万余块异形GRC板,且各板块无一相同。所以针对幕墙GRC专项施工管理需求极为迫切。通过开发的GRC管理系统对质量进行管理[5],分权限扫描二维码验收,可以方便地将厂家、分包、总包、监理、业主统一在一个平台下便捷操作。在GRC管理系统中点击扫一扫，扫描粘贴在GRC上的二维码。自动跳转至验收界面，点击查看详情，如图10所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d8cddf45dd9f5886560a1284ac5291a17f444270c9933003187ee4a20aedafb5.jpg",
+        "img_caption": [
+            "图9GRC幕墙安装可视化交底 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/354d1ced8b1ab5a1d372a6fea6a3c0689f11751f0b3b0679e05a45274ff4c79f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>95%11:02 ×</td></tr><tr><td>厂家 倍立达</td></tr><tr><td>批次 1</td></tr><tr><td>生产日期 2016-09-11</td></tr><tr><td>长度 2528</td></tr><tr><td>宽度 1526</td></tr><tr><td>高度 100</td></tr><tr><td>对角线长度 2376/3454</td></tr><tr><td>重量</td></tr><tr><td>钢架位置 下载</td></tr><tr><td>出厂图片</td></tr><tr><td>单个板块3D显示</td></tr><tr><td>3D显示（加载量大，不建议手机端查看）</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e2036eae7421b55a8f51685f9d686718ff50268f4d9ee8b529463ec05a13f5bc.jpg",
+        "img_caption": [
+            "图11 GRC无纸化验收"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "确认出厂信息无误,外观完好,查看单个板块三维模型与出厂图片准确对应后,返回点击出厂验收，确定通过后出厂验收完成,如图11所示，自动进入进场验收阶段。整个无纸化验收过程绿色节能、可追溯性强。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(4)GRC施工统计与动态监测 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "进入管理系统后台，点击小剧场，可以看到小剧场GRC 施工状态统计饼状图。查看当前GRC 板块验收状态信息，点击3D显示，整体GRC模型呈现灰色，当前GRC 板块以黄色亮显,已安装GRC 板块以红色动态亮显。如图12所示，实现当前板块定位和施工进度的三维动态监测。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.4 运维阶段",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "未来，运维阶段规划的幕墙BIM应用主要为运维信息查询、拆卸方案设计。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1)GRC运维信息查询",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "运营过程中若发现GRC板损坏，可根据二维码扫描的信息，确定板的编号以及基本信息。维护人员可登录GRC管理系统后台根据单体名称、厂家、编号搜索损坏的GRC板所有信息。第一时间重新生产加工。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2)GRC可拆卸方案设计",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "屋面防水施工难度极大，要求满足防、排、修三点，进而要求GRC幕墙必须可拆卸，为使拆卸方案切实可行，拆卸方案直接在幕墙三维模型中设计，针对真实的板块和安装节点完成方案。GRC 幕墙拆卸方案模拟如图13所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/63899769540dccf4f8baaa015b99ef0d0db4846da7051859b7d5ec9728ca691f.jpg",
+        "img_caption": [
+            "图13 GRC可拆卸方案设计"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/11cc3030d4e8473dac44b05f8f43871c65660cf07b53df120b5f02b4360e5680.jpg",
+        "img_caption": [
+            "图12GRC 施工动态监测"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 应用效果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过幕墙BIM技术应用，实现了设计阶段参数化、加工阶段数字化、施工阶段信息化。节约了大量工期、物料和人工费。1)幕墙拆卸方案已受理国家发明专利及实用新型专利7项；2)GRC管理系统已受理国家发明专利1项，著作权1项;3)期刊已发表BIM相关论文6篇；4)通过北京市建委组织召开的《大型复杂工程智慧建造关键技术研究与应用》科技成果鉴定，鉴定意见为“该研究成果总体达到国际先进水平，其中GRC 幕墙建造技术达到国际领先水平”。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "总结",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.① 创新点",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2工程创新点为幕墙全生命周期BIM应用，针对幕墙特点、难点，以BIM技术为主,采用多种信息化手段全方位、多层次综合应用于幕墙设计、加工、施工各个阶段，并规划应用于未来的运维。特别是创造性的开发了微信平台的GRC管理系统，实现了基于移动终端的无纸化验收和施工三维可视化动态监测。为工程实现智慧建造打下了坚实基础。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.2 经验教训 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1)由于幕墙主要参与方分散在全国各地，云文件管理平台和沟通平台可以保证信息传递时效性和可追溯性;",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2）目前，BIM大多停留在Revit应用，像幕墙专业用到的DigitalProject和Rhino并不是很普及，在BIM实施前应对所有技术人员进行软件培训,保障实施过程畅通；",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3）总承包管理下开发的GRC管理系统，调动业主、监理、总包、分包所有相关人员参与，可以发挥BIM技术最大价值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1］张建平，李丁，林佳瑞，颜钢文.BIM在工程施工中的应用[J」.施工技术，2012，16：10-17.  \n[2」苏李渊，刘京城.长沙梅溪湖国际文化艺术中心工程智慧建造实践[J].城市住宅，2016，8：6-10.  \n［3］李久林，王勇.大型施工总承包工程的BIM应用探索[J].土木建筑工程信息技术，2014，6(5）：61-65.  \n［4］卞涛，杨政宝，曹大伟.三维激光扫描技术在幕墙施工中的应用[J].中国建筑金属结构，2013，15：72-74.  \n［5］王廷魁，赵一洁，张睿奕,李阳.基于BIM与RFID的建筑设备运行维护管理系统研究［J].建筑经济，2013，11:113-116.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The Curtain Wall BIM Technology Application of Changsha Meixi Lake International Culture and Art Center ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Liu Jingcheng，Su Liyuan ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(Beijing Urban Construction Group Co.,Ltd.，Beijing 1OOO88，China) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Abstract:With the domestic popularization and application of BIM technology，the large public buildings basicalyusedthe diffrent depthofBIMapplications[1].This article mainly introduces theapplicationof BIM technology in Changsha Meixi Lake International Culture and Art Centerof curtain wallenginering project in design development stage，processing stage，construction stage and operational stageof the whole life-cycle.Through the aplication of BIM technology，solved the diffculties of curtain wall design development，high machining accuracy requirements，construction and installation management as well as the operation and maintenance，finallyrealized intelligent construction of the curtain wall project. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Key Words:BIM；Curtain Wall；Design Development；Construction ",
+        "page_idx": 5
+    }
+]

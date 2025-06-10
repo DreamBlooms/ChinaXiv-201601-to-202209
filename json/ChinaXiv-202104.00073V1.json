@@ -1,0 +1,425 @@
+[
+    {
+        "type": "text",
+        "text": "大头茶属植物研究进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "樊智丰1,2，韩露1，马长乐1,3\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1．西南林业大学 园林园艺学院，昆明650224；2．昆明理工大学，昆明650093；3．国家林业和草原局西南风景园林工程技术研究中心，昆明650224)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：大头茶属（Polyspora Sweet）为山茶科常绿树木，共 50种，主要分布于南亚和东南亚地区。大头茶属植物均具有较高观赏价值，可作为热带和亚热带地区的园林绿化树种，部分种类兼具食用和药用价值。在对大头茶属种质资源和应用情况简要介绍的基础上，对其系统演化及分类、繁殖特征、生理特性、生态习性、育苗技术、化学成分及药理活性等方面的研究进展进行了较详细的综述，提出目前研究中存在的问题，并对今后的研究方向进行了展望，指出未来应扩大大头茶属的研究范围和种类，加强种质资源搜集、系统发育、遗传多样性等研究，重点关注大头茶属的引种栽培与种质创新，充分发掘其药用价值，开展临床转化和药物研制工作，以期为合理开发利用野生大头茶属种质资源提供理论依据和研究思路。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：大头茶属，种质资源，系统分类，生理生态，研究进展中图分类号：Q949 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research advances of Polyspora Sweet (Theaceae) ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "FAN Zhifeng1,2, HAN Lu1, MA Changle1,3\\*   \n(1.SchoolofLandscapeArchitectureand Horticulture Science,SouthwestForestry University,Kunming 650224, China; 2. Kunming University of Science and Technology, Kunming 650093, China; 3.Southwest Landscape   \nArchitecture Engineeringand TechnologyResearch Center,National Forestry and GrasslandAdministration, Kunming 650224, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Polyspora Sweet are evergreen tree of Theaceae with 5O species, mainly distributed in South Asia and Southeast Asia. Polyspora have high ornamental value, can be used as landscape trees in tropical and subtropical regions. Some of them have edible and medicinal value.Based on the brief introduction of the germplasm resources and application of the genus Polyspora, the research progress of its systematic evolution and taxonomy， reproductive characteristics, physiological characteristics,ecological habits，seedling technology，chemical components and pharmacological activities were reviewed in detail. We points out that in the future,we should expand the research scope and species of the genus; strengthen the germplasm resources collection, phylogeny, genetic diversity and so on. We should pay attntion to the introduction,cultivation, and germplasm innovation of the genus,and fully explore its medicinal value,and carry out clinical research. This review paper will provide theoretical basis and reference for further research of Polyspora plants. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Polyspora， germplasm resources， systematical taxonomy， physiological ecology,",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "大头茶属（Polyspora Sweet）隶属于山茶科（Theaceae）山茶亚科（Theoideae）山茶族（Theeae)，由 Sweet于1826年创立。大头茶属与山茶科其他属的形态差异在于：花瓣与萼片没有明显区别，雄蕊基部与花冠合生，木质蒴果开裂成五瓣，种子具大的顶翅（Orel et al.,2012)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "大头茶属植物是良好的城乡绿化树种，其树形优美，花期10月至次年1月，处于冬季少花季节，在园林中可做庭荫树、行道树，也可丛植观赏。大多数种类能够适应贫瘠山地，抗风与再生能力强，可作为我国南方荒山绿化的先锋造林树种。大头茶属植物的果实中多具有天然抗氧化剂（Lietal.,2017,2019)，根和茎的提取物具有较高的细胞毒活性（付辉政，2012；汤佳，2013；徐兰等，2019)，提取物可开发成为功能性食品或营养保健品，具有预防心血管疾病、癌症等由氧化应激引起的某些疾病的功效。然而，因基础研究起步较晚，苗木培育和市场开发不足，我国大头茶属植物仅个别种类在有限的地区有零星应用（马长乐等，2015)，绝大多数种类仍处于野生状态，尚未得到合理开发利用。为此，对大头茶属植物种质资源、系统分类、生理特性、生殖生态、繁殖技术等方面的研究现状进行综述，并对当前研究中存在的问题进行总结，对未来的研究方向提出建议，旨在为该属植物的深入研究和开发利用奠定理论基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1大头茶属植物种质资源分布及其应用现状",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "大头茶属植物为常绿灌木或乔木，花色丰富，有白色、黄色、粉红色、红色等，共50种，分布于南亚和东南亚，主要产于马来西亚、印度尼西亚、中国、越南等国家。美国已培育出1个长果大头茶的新品种 Polyspora longicarpa‘MonSaPaRuby'（Richard,2016)。在《山茶科红色名录》中，6种大头茶属植物被列为极危物种，3种被列为易危物种，4种被列为近危物种（Beechetal.,2017）（表1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/ecebee1c028fceaf684d6f236a597589ffd5b3ccfcac1dac24dfd6c072baf67b.jpg",
+        "table_caption": [
+            "表1大头茶属植物资源分布表",
+            "Table 1 Distribution table of plant resources of genus Polyspora "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号 物种</td><td></td><td>分布 Distribution</td><td>发表年份 Year published</td><td>濒危等级 Endangered levels</td></tr><tr><td>No. 1</td><td>Species Polyspora amboinensis</td><td>印度尼西亚，巴布亚新几内亚 Indonesia,Papua New Guinea</td><td>1869</td><td>无危</td></tr><tr><td>2</td><td>P. ampla</td><td>越南 Vietnam</td><td>2013</td><td>Least concern</td></tr><tr><td>3</td><td>大头茶</td><td>中国，越南</td><td>1819</td><td>无危</td></tr><tr><td></td><td>P.axillaris</td><td>China, Vietnam 越南</td><td></td><td>Least concern</td></tr><tr><td>4</td><td>P. balansae</td><td>Vietnam</td><td>1963</td><td></td></tr><tr><td>5</td><td>P.bidoupensis</td><td>越南 Vietnam</td><td>1942</td><td>近危 Near threatened</td></tr><tr><td>6</td><td>P.borneensis</td><td>文莱，印度尼西亚，马来西亚 Brunei, Indonesia,Malaysia</td><td>1984</td><td>无危</td></tr><tr><td>7</td><td>P. ceylanica</td><td>斯里兰卡</td><td>1838</td><td>Least concern 极危</td></tr><tr><td></td><td></td><td>Sri Lanka</td><td></td><td>Critically endangered</td></tr><tr><td>8</td><td>黄药大头茶 P.chrysandra</td><td>中国，缅甸 China,Myanmar</td><td>1931</td><td>无危 Least concern</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/7ca4bad8a8c2832dcf7f8ddbac7f501cfa82cc7d591d3804275f849cb3c48af6.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号 No.</td><td>物种 Species</td><td>分布 Distribution</td><td>发表年份 Year published</td><td>濒危等级 Endangered levels</td></tr><tr><td>9</td><td>P. concentricicatrix</td><td>马来西亚 Malaysia</td><td>1917</td><td>1</td></tr><tr><td>10</td><td>P. cuongii</td><td>越南 Vietnam</td><td>2020</td><td>一</td></tr><tr><td>11</td><td>P. dalglieshiana</td><td>老挝，泰国 Laos, Thailand</td><td>1924</td><td></td></tr><tr><td>12</td><td>P. dassanayakei</td><td>斯里兰卡 Sri Lanka</td><td>1996</td><td>极危 Critically endangered</td></tr><tr><td>13</td><td>P. dipterosperma</td><td>印度，不丹 India, Bhutan</td><td>1876</td><td></td></tr><tr><td>14</td><td> P. eliptica</td><td>斯里兰卡 Sri Lanka</td><td>1847</td><td>极危 Critically endangered</td></tr><tr><td>15</td><td>P. excelsa</td><td>印度尼西亚 Indonesia 斯里兰卡</td><td>1826</td><td>无危 Least concern</td></tr><tr><td>16</td><td>p. gardneri</td><td>Sri Lanka 老挝，越南</td><td>1847</td><td>极危 Critically endangered</td></tr><tr><td>17</td><td>P. gigantiflora</td><td>Laos, Vietnam 越南</td><td>1942</td><td>极危</td></tr><tr><td>18</td><td>P. gioii</td><td>Vietnam 马来西亚</td><td>2015</td><td>Critically endangered</td></tr><tr><td>19</td><td>P. grandiflora</td><td>Malaysia 中国</td><td>1922</td><td></td></tr><tr><td>20</td><td>海南大头茶 P. hainanensis</td><td>China</td><td>1983</td><td>近危 Near threatened</td></tr><tr><td>21</td><td>P. havilandii</td><td>印度尼西亚，马来西亚 Indonesia, Malaysia</td><td>1917</td><td>无危 Least concern</td></tr><tr><td>22</td><td>P. hirtella</td><td>马来西亚 Malaysia</td><td>1916</td><td></td></tr><tr><td>23</td><td>P. huongiana</td><td>越南 Vietnam 印度尼西亚，马来西亚</td><td>2012</td><td>易危 Vulnerable 无危</td></tr><tr><td>24</td><td>P. imbricata</td><td>Indonesia, Malaysia 印度尼西亚</td><td>1890</td><td>Least concern</td></tr><tr><td>25</td><td>P. integerrima</td><td>Indonesia 越南</td><td>1869</td><td>一</td></tr><tr><td>26</td><td>P. intricata</td><td>Vietnam</td><td>1942</td><td></td></tr><tr><td>27</td><td>广西大头茶 P. kwangsiensis</td><td>中国 China</td><td>1983</td><td></td></tr><tr><td>28</td><td>P. lanceifolia</td><td>马来西亚</td><td>1917</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b6279862cc15e77ff0ddfc94adb3e60a068cea2e0303ec7bf3c3c9a7c4aa72dc.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号</td><td>物种</td><td>分布 Distribution</td><td>发表年份 Year published</td><td>濒危等级 Endangered levels</td></tr><tr><td>No. 99</td><td>Species 长果大头茶</td><td>中国，缅甸，泰国，越南</td><td>1983</td><td>无危</td></tr><tr><td></td><td>P. longicarpa</td><td>China,Myanmar,Thailand,Vietnam 菲律宾，巴布亚新几内亚</td><td></td><td>Least concern 无危</td></tr><tr><td>30</td><td>P. luzonica</td><td>Philippines, Papua New Guinea 马来西亚</td><td>1886</td><td>Least concern 无危</td></tr><tr><td>31</td><td>P. maingayi</td><td>Malaysia 印度尼西亚</td><td>1874</td><td>Least concern</td></tr><tr><td>32</td><td>P. marginata</td><td>Indonesia 马来西亚，新加坡</td><td>1842</td><td>无危</td></tr><tr><td>33</td><td>P. multinervis</td><td>Malaysia, Singapore 越南</td><td>1890</td><td>Least concern</td></tr><tr><td>34</td><td>P. nivea</td><td>Vietnam 印度尼西亚</td><td>2013</td><td></td></tr><tr><td>35</td><td>P. oblongifolia</td><td>Indonesia 印度</td><td>1861</td><td>无危</td></tr><tr><td></td><td>P. ovalis</td><td>India 印度尼西亚</td><td></td><td>Least concern</td></tr><tr><td></td><td> P. papuana</td><td>Indonesia 印度尼西亚，巴布亚新几内亚 Indonesia,Papua New Guinea</td><td>1940</td><td>无危 Least concern</td></tr><tr><td>39</td><td>P. penangensis</td><td>马来西亚，新加坡 Malaysia, Singapore</td><td>1916</td><td>易危 Vulnerable</td></tr><tr><td>40</td><td>P. polisana</td><td>菲律宾 Philippines</td><td>1919</td><td></td></tr><tr><td>41</td><td>P. sablayana</td><td>菲律宾 Philippines</td><td>1925</td><td></td></tr><tr><td>42</td><td>P. sarawakensis</td><td>马来西亚 Malaysia</td><td>1984</td><td></td></tr><tr><td>43</td><td>P. scortechinii</td><td>马来西亚 Malaysia</td><td>1890</td><td>极危 Critically endangered</td></tr><tr><td>44</td><td>P. singaporeana</td><td>马来西亚，新加坡 Malaysia, Singapore</td><td>1916</td><td>易危 Vulnerable</td></tr><tr><td>45</td><td>四川大头茶</td><td>中国，越南 China, Vietnam</td><td>1900</td><td>无危 Least concern</td></tr><tr><td>46</td><td>P. speciosa P. spectabilis</td><td>马来西亚</td><td>1909</td><td>一</td></tr><tr><td></td><td></td><td>Malaysia 马来西亚</td><td></td><td>近危</td></tr><tr><td></td><td></td><td>Malaysia</td><td></td><td>Near threatened</td></tr><tr><td>48</td><td>天堂大头茶 P.tiantangensis</td><td>中国 China</td><td>1999</td><td>近危 Near threatened</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a7b5ac307b69c0d479c1525f4f6de9abaa6cdf927f7b6c0976d4f6a7491653b1.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号</td><td>物种</td><td>分布 Distribution</td><td>发表年份 Year published</td><td>濒危等级 Endangered levels</td></tr><tr><td>No. 49</td><td>Species 越南大头茶</td><td>中国，越南</td><td>1910</td><td></td></tr><tr><td></td><td>P.tonkinensis</td><td>China, Vietnam</td><td></td><td>1</td></tr><tr><td>50</td><td>P.vulcanica</td><td>印度尼西亚 Indonesia</td><td>1841</td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "注：未标注中文名的物种均不产中国，暂无准确的中文译名；发表年份中，原未被置于Polyspora的物种以 首次发表时间为准，如本属模式种Polyspora axillaris 在1819 年首次发表时种名为Camella axillaris，1826 年由 Sweet 将其移入Polyspora，发表年份仍记载为1819 年；濒危等级中，一表示濒危等级暂未确定。 Note: Species without Chinese name are not native to China,and there are no accurate Chinese translation; Species not originally placed in Polyspora are subject to the first publication date.For example,Polyspora axillris was first publishedas Camellia axillaris in1819,and was transferred intoPolyspora by Sweet in1826,thepublication year isstillrecorded as 1819;In the endangered levels，-means that the endangered level has not been determined. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "据Flora of China(Ming&Bartholomew,2007)记载，中国产有6种大头茶属植物，分别为大头茶(Polyspora axillris)、四川大头茶(P.speciosa)、黄药大头茶(P.chrysandra)、长果大头茶(P.longicarpa)、海南大头茶(P.hainanensis)（特有）、天堂大头茶(P.tiantangensis)(特有）。国产种类均为常绿乔木、白色花瓣，主要分布于我国西南和华南地区（图1)。随着资源调查的深入，2019年，福建省发现有大头茶属分布新记录（卢亚红等，2019；陈新艳，2020)，这为我国大头茶属地理分布研究提供了新资料。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/35d5c37a0154ca64730e48aab679fc85ba58e7d428ffd412c6b98e158e6d1e8c.jpg",
+        "img_caption": [
+            "图1中国大头茶属植物资源分布图[地图来源：国家基础地理信息中心，图号:GS(2020)4631]Fig.1 Distribution map of Polyspora plant resources in China [Map sources: National GeomaticsCenter of China,No.GS(2020)4631]"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "国内目前仅对四川大头茶一个种开展过种质资源遗传多样性的研究工作。四川大头茶在我国分布范围较广，具有云南文山型、广西型和四川型3种生态型，各生态型之间有着较为明显的表型和生理特性差异（柯文山和钟章成，1999)，云南和广西种群种子变异较大，四川种群种子变异相对较小；云南文山的种子最大最重，广西阳朔的最小最轻，最重约为最轻的 $2 { \\sim } 3$ 倍（柯文山等，2000)；种群内的遗传变异远大于种群间（操国兴等，2003，2005），环境因子在居群遗传分化过程中起着非常重要的作用（黄林等，2002)。就四川大头茶在全国的分布情况而言，以上研究取样地点太少，居群距离太近，样本数量有限，不能客观反映四川大头茶的遗传多样性水平。国外方面，Gunathilake（2015）使用微卫星标记对斯里兰卡4种大头茶属植物的遗传多样性进行了评估，结果表明，斯里兰卡境内大头茶属存在地理上的遗传结构，在地理上确定的种群在种群内具有低多样性，在种群间具有高多样性，形态较为独特的Polyspora speciosa 和同域其余3种大头茶种群之间存在基因流。除以上5个种以外，国内外对其他40余种大头茶属植物遗传变异方面的研究均欠缺，核心种质尚未构建，遗传改良和新品种选育缺乏理论依据。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "大头茶属植物具有生长迅速、适应性强、花大色艳、叶片含水量高、树冠圆满、树干通直、材质致密等特性（秦兆顺，1990)，是热带和亚热带优良的园林绿化树种、山地造林树种和用材树种。广西省玉林市已将大头茶推广作为防火林带的造林树种，广东省已出台地方标准《大头茶栽培技术规程》（广东省质量技术监督局，2008)，并将其推广作为粤东岩质海岸造林树种（林文欢等，2018)，港澳、珠三角地区将大头茶作为园林绿化树种（庄晋谋等，2007)，四川省眉山市将四川大头茶栽种作为行道树。大头茶属植物茎的提取物具有多重药理活性，种子可榨油，叶革质耐燃，干枝坚韧，侧根发达，抗风与再生能力强，育苗容易，具有良好的经济、社会和生态效益，但多数种类没有得到充分的开发与利用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2大头茶属系统演化及分类研究",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "大头茶属在国内相关文献中有两个学名：Gordonia和Polyspora。《中国植物志》（张宏达和任善湘，1998)和大部分地方植物志以及相当多的文献中使用Gordonia，而《中国高等植物图鉴（第二册)》（中国科学院植物研究所，1972）和FOC（Ming＆Bartholomew,2007）中则采用Polyspora。Gordonia 由Ellis于1770年以产于美国的Gordonia lasianthus 为模式种建立，由3个早期属 Polyspora、Laplacea 和Gordonia基于相似的果实和种子特性组合而成。胡先骗根据北美种类苞片2且生于长柄，亚洲种类苞片3\\~7且生于短柄的区别，主张把Gordonia中的亚洲种类归入Polyspora,但由于两者形态差别较小（张宏达和任善湘,1998)，这一主张长时间并未得到认可。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "花粉形态对研究被子植物进化历史具有重要意义。山茶科花粉纹饰的演化趋势为皱波状或皱网状 $$ 网状 $$ 穴网状 $$ 表面光滑（韦仲新，1997)，Polyspora 花粉纹饰呈粗颗粒状或连合成皱波状，Gordonia花粉纹饰呈网状，Laplacea 则呈现刺突—细网状复式纹饰，这3个属来自共同的祖先，代表了不同的发育阶段，演化次序为Polyspora、Gordonia、Laplacea，三者均应保持独立的属存在，在苞被分化、木射线等基础形态特征的支持下，原被归于Gordonia的东亚种类最好置于Polyspora（叶创兴，1990）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "21世纪以来，利用DNA序列数据进行的系统发育分析表明，Gordonia不是单系的（Prince&Parks,2001)。Yang etal.（2004）利用核基因组、质体基因组和线粒体基因组序列证实了Gordonia是多系统属，产自北美和东亚的大头茶属植物不是一个自然类群，应该分别处理成两个属（Gordonia 和Polyspora)，东亚的种类应该使用Polyspora这一属名。Gordonia的中文译名由大头茶属变更为湿地茶属(刘冰等,2015),大头茶属则沿用Polyspora。因此，较老的属名Polyspora已经复活，原Gordonia 的所有中国种，以及大多数南亚和东南亚种都被转移到 Polyspora（Bartholomew & Ming,2005；杨世雄，2005；Gunathilake,2015; Leetal.,2020a)，一些新发表的大头茶属物种也使用 Polyspora 作为属名（Orel et al.,2012,2013;Luu et al., 2015; Le et al.,2020b)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1起源与演化研究",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "山茶科由3个高支持率的分支组成，分别为山茶族（Theeae）、大头茶族（Gordonieae）和紫茎族（Stewartieae)。最早分化的分支为紫茎族，种子具有丰富的胚乳；第二个分支为大头茶族，种子只具有一层薄薄的胚乳；第三个分支为山茶族，种子无胚乳；大头茶族和山茶族形成姐妹类群（Prince＆Parks,2001)。湿地茶属（Gordonia)位于大头茶族（Gordonieae），大头茶属（Polyspora）位于山茶族 Theeae（Prince&Parks,2001)，这一关键性结论得到了多位学者的证实（Yang et al.,2004；杨俊波等，2006；Li et al.,2013; Zhang et al.,2014; Yu et",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "al., 2017)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "化石是研究物种起源与演化的直接证据。最早的大头茶属（Polyspora）植物化石被发现于北美上白垩纪地层（李密密，2011)；之后，在法国、瑞典、德国和捷克等欧洲国家的第三纪岩层中发现了多个大头茶属植物的果实、种子和叶化石；在亚洲日本的渐新世地层中也发现了大头茶属植物叶的化石（Toshimasa,1970)。果实化石材料显示，Polyspora obovata来自始新世早期，Polyspora kilpperi来自中新世早期，Polyspora europaea来自中新世中期（Grote&Dilcher，1989），Polyspora lignitica来自上中新世（Burgh,1987）。叶化石表皮结构和粗形态学研究显示，Polyspora saxonica 和Polyspora knauensis来自上中新世，Polysporahradekensis来自下中新世（Kvacek&Walther,1984)。以上化石中，来自德国巴伐利亚州上中新世的Polyspora europaea 的蒴果与现在越南所产的Polyspora balansae几乎一致，与现在中国南部的Polyspora axillaris 相似；Polyspora hradekensis 叶表皮结构与Polysporabalansae几乎一致（韦仲新，1997)。虽然山茶科化石记录较多，但目前已知的大头茶属植物化石稀少，特别是其现代分布区中国和东南亚地区，尚无大头茶属植物化石报道。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "染色体核型和带型在植物不同的科、属和种间，甚至种内都存在差异，可为植物系统分类、起源与进化、遗传多样性研究提供一定依据。大头茶属植物染色体基数比较稳定（ $_ { 1 \\mathrm { n = 1 x } = 1 5 }$ )，2倍体居多（表2)，但多倍体变异较大，从 $2 \\mathrm { x }$ 到 $8 \\mathrm { x }$ 都有（Yang et al., 2004;Hembree etal.,2019）（表3)。大头茶属植物体细胞染色体数目被发现有30、90，从二倍体向多倍体进化可能是大头茶属植物进化的一个重要途径。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/72cd1c0f0d358a18d9ecfe97513c8bbea6a2250e6062599a137c50248fcfee35.jpg",
+        "table_caption": [
+            "Table 2 Number of chromosomes in Polyspora ",
+            "表3大头茶属植物基因组大小和倍性估计（Hembree etal.,2019）"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">Hriovypporev</td></tr><tr><td>植物名称 Plant name</td><td>染色体数目 Chromosome number</td><td>参考文献 Reference</td></tr><tr><td></td><td></td><td></td></tr><tr><td>黄药大头茶Polyspora chrysandra</td><td>2n=2x=30</td><td>Yang et al., 2004</td></tr><tr><td>海南大头茶P.hainanensis</td><td>2n=2x=30</td><td>Yang et al., 2004</td></tr><tr><td>长果大头茶P.longicarpa</td><td>2n=2x=30</td><td>Yang et al., 2004</td></tr><tr><td>大头茶P.axillaris</td><td>2n=2x=30</td><td>Mehra&Sareen,1973</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/0b22664c3ce853d2d4de5ab512fc2adcfd74dc2608db1e1f8f29f6abe2542ba2.jpg",
+        "table_caption": [
+            "表2大头茶属植物染色体数目",
+            "Table 3 Estimate of genome size and ploidy of Polyspora （Hembree et al., 2019) "
+        ],
+        "table_footnote": [
+            "注：GrN．费尔霍普绿色苗圃；UF.北佛罗里达研究和教育中心；NCSU.北卡罗来纳州立大学山地园艺作物研究与推广中心；USNA．美国国家植物园；JCRA.劳斯顿植物园。Note:GrN. Green Nurseries,Fairhope,AL;UF.North Florida Research and Education Center, Quincy,FL;NCSU.North Carolina State University Mountain Horticultural Crops Research and Extension Center,Mills River,NC; USNA. United States National Arboretum, Washington,DC; JCRA. JC Raulston Arboretum, Raleigh, NC."
+        ],
+        "table_body": "<html><body><table><tr><td>植物名称 Plant name</td><td>来源/登记号 Source/Accession</td><td>2C 基因组大小(pg) 2C genome sizex(pg)</td><td>单倍体基因组大小(pg)\" 1Cx genome size (pg)w</td><td>倍性估计(x) Estimated</td></tr><tr><td>大头茶Polyspora axillaris</td><td>GrN</td><td>11.32±0.54</td><td>1.89</td><td>ploidy (x) 6</td></tr><tr><td>大头茶P.axillaris</td><td>UF 20171030</td><td>3.27±0.34</td><td>1.63</td><td>2</td></tr><tr><td>大头茶P.axillaris</td><td>UF 20030900</td><td>9.27±0.84</td><td>1.55</td><td>6</td></tr><tr><td>黄药大头茶P.chrysandra</td><td>NCSU 2015-114</td><td>3.66±0.32</td><td>1.88</td><td>2</td></tr><tr><td>黄药大头茶P.chrysandra</td><td>USNA 81628</td><td>3.58±0.32</td><td>1.79</td><td>2</td></tr><tr><td>大头茶属一种Polyspora sp.</td><td>JCRA 131041</td><td>13.61±0.75</td><td>1.70</td><td>8</td></tr><tr><td>大头茶属一种 Polyspora sp.</td><td>UF 20111400</td><td>15.69±0.97</td><td>1.96</td><td>8</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "随着分子生物学的发展，分子系统发育方面的研究为大头茶属的起源与演化提供了新的见解。Raoetal.（2018）对中国山茶科多样性模式的环境与进化驱动因素进行了研究，用10个叶绿体基因组序列和ITS序列对山茶科133个物种进行系统发育分析，选择2个化石标定节点，结果表明，科内第一个分支紫茎族与其他族的分歧时间在 $5 9 . 6  { \\mathrm { M a } }$ ，姐妹类群大头茶族和山茶族的分歧时间估测在50.2Ma；大头茶属系统发育结构分散地区多于聚集地区；大头茶属（Polyspora）与圆籽荷（Apterosperma oblata）的亲缘关系较近，位于山茶族的基部，多样化开始于12Ma。Yuetal.（2017）基于质体和核糖体DNA序列数据构建了山茶科系统发育框架，取样范围包括山茶科3个族9个属43个种，重建了山茶科的时序历史，选择3个山茶科植物和5个外群植物化石校准，研究结果显示，大头茶属（Polyspora）起源于中新世的 $1 4 \\mathrm { M a }$ ，多样化开始于 $9 \\mathrm { M a }$ 。Roseetal.（2018）研究了以杜鹃花目为代表的东亚被子植物系统发育关系、历史生物地理和多样性，选择了4531个杜鹃花目物种，利用13个叶绿体基因组序列、9个线粒体基因组序列和3个核糖体基因组序列进行了系统发育分析，采用25个化石校准(25块大化石和2次校正),结果显示,黄药大头茶(Polysporachrysandra)起源于 $3 8 \\mathrm { M a }$ ，祖先范围在印度-马来西亚。Ryuetal.（2019）从AFLP和3个叶绿体基因组区域分析研究了山茶（Camella japonica）的谱系地理学，用2个化石标定点估计了东亚地区山茶种群的分歧时间，长果大头茶（P.longicarpa）、海南大头茶（P.hainanensis）和四川大头茶（P.speciosa）作为外类群参与了分析，结果显示，3种大头茶在 $2 4 \\mathrm { M a }$ （渐新世）与其姊妹群体圆籽荷（Apterosperma oblata）、石笔木（Tutcheria championi）和多萼核果茶（Pyrenaria jonquieriana subsp.multisepala）分化，海南大头茶和四川大头茶在13Ma（中新世）与长果大头茶分化。这几项研究中，部分大头茶属植物均是作为代表或外类群，参与了杜鹃花目、山茶科、山茶的系统发育研究，取样个体或群体较少，研究结果存在较大分歧，无法清晰解释整个大头茶属的系统发育关系。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综上所述，大头茶属（Polyspora）在山茶科的系统位置及其与湿地茶属（Gordonia）的属间界限已经基本清晰，但大头茶属的起源和演化路线、属内系统发育关系、谱系地理格局等均不明确。按其现代地理分布和现有化石证据推断，大头茶属可能起源于北美，因该属植物种子有翅，可能经历了长距离传播事件，曾迁徙到欧洲定植，也曾到达日本，在其到达东南亚后，逐渐演化成现在的大头茶属。对于曾经分布于北美和欧洲的大头茶属，第三纪以来的地质气候演变对其进化产生了颠覆性的影响，导致其可能逐渐演化为其他物种或灭绝。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2国产大头茶属分类研究",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "大头茶属的模式种为Polyspora axillaris，该种原来被置于山茶属Camellia中，以栽培于印度的植物进行描述，后来研究发现该种原产地是中国的华南地区（Keng,1980,1984；叶创兴，1990；杨世雄，2005)。对国产大头茶属系统分类研究最早的是中山大学叶创兴教授，叶创兴（1990）依据叶缘是否具有锯齿、叶的形状、花部特征、鳞芽毛被等形态特征，把大头茶属植物分为6种。《中国植物志（FRPS)》（1998）收录了大头茶属植物6种。Bartholomew&Ming（2005）根据分子证据，将中国大头茶属植物从Gordonia转移到Polyspora，并依据叶尖、幼枝、顶芽等形态特征，对大头茶属重新分类，种数仍为6种。杨世雄（2005）根据最新的研究结果，对国产大头茶属作出分类学处理，包括8种2变种。FOC（2007）对大头茶属进行了修订，将广西大头茶并入四川大头茶，将越南大头茶并入大头茶，种数又调回6种。表4列出了五种分类观点的大头茶属内分种情况，各分类处理之间存在分歧或疑问。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表4国产大头茶属不同分类方式的比较",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/f7353b2bb27a8ec60241f28f1df3fda7be9f07a1669554c6b3a3904e280dcdb9.jpg",
+        "table_caption": [
+            "Table 4 A comparison of different taxonomies of Polyspora "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>叶创兴YE CX (1990)</td><td>中国植物志FRPS (1998)</td><td>Bartholomew & Ming（2005）</td><td>杨世雄 YANG SX</td><td>Flora of China (2007)</td></tr><tr><td>大头茶</td><td>大头茶</td><td>大头茶</td><td>(2005) 大头茶</td><td>大头茶</td></tr><tr><td>P. axillaris</td><td>G. axillaris</td><td>P. axillaris</td><td>P. axillaris</td><td>P. axillaris</td></tr><tr><td>黄药大头茶</td><td>黄药大头茶</td><td>黄药大头茶</td><td>黄药大头茶</td><td>黄药大头茶</td></tr><tr><td>P.chrysandra</td><td>G. chrysandra</td><td>P. chrysandra</td><td>P. chrysandra</td><td>P.chrysandra</td></tr><tr><td>长果大头茶</td><td>长果大头茶</td><td>长果大头茶</td><td>长果大头茶</td><td>长果大头茶</td></tr><tr><td>P. longicarpa</td><td>G. longicarpa</td><td>P. longicarpa</td><td>P. longicarpa</td><td>P. longicarpa</td></tr><tr><td>海南大头茶</td><td>海南大头茶</td><td>海南大头茶</td><td>海南大头茶</td><td>海南大头茶</td></tr><tr><td>P.hainanensis</td><td>G.hainanensis</td><td>P.hainanensis</td><td>P.hainanensis</td><td>P.hainanensis</td></tr><tr><td>四川大头茶</td><td>四川大头茶</td><td>四川大头茶</td><td>四川大头茶</td><td>四川大头茶</td></tr><tr><td>P.szechuanensis</td><td>G. acuminata</td><td>P. speciosa</td><td>P. acuminata</td><td>P. speciosa</td></tr><tr><td>广西大头茶</td><td>广西大头茶</td><td>越南大头茶</td><td>广西大头茶</td><td>天堂大头茶</td></tr><tr><td>P. gwangsiensis</td><td>G. kwangsiensis</td><td>P. tonkinensis</td><td>P. kwangsiensis</td><td>P. tiantangensis</td></tr><tr><td></td><td></td><td></td><td>越南大头茶</td><td></td></tr><tr><td></td><td></td><td></td><td>P.tonkinensis</td><td></td></tr><tr><td></td><td></td><td></td><td>天堂大头茶</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>P. tiantangensis</td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3大头茶属繁殖生物学研究",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "大头茶属植物的繁殖生物学研究主要集中在四川大头茶、大头茶等少数几个种，现从繁殖策略、生理特性、种群生态特征和人工育苗技术4个方面进行介绍。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1繁殖策略",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "大头茶属植物种子扁平，上部有翅，种子较轻，适宜于风媒传播；另外，该属植物花大，花蜜和浓度具备鸟类传粉的特征，有研究发现橙腹叶鹎在长果大头茶上访花（邱建生等，2015)。据缙云山资料显示，四川大头茶生长20年可开花结实，每个果实含25\\~30粒种子，种子千粒重约为 $1 4 \\mathrm { g }$ ；主要依靠种子繁殖，种子萌发能力强，大多数种子落地不久即可萌发；萌蘖能力强，老树被砍伐后，在残桩上可形成5\\~10棵幼树；茎叶的生长季节主要集中在春季，展叶类型接近“爆发型”格局（金则新，1996a)。四川大头茶花蕾产量和果实产量随植株年龄的增大而增大（曾波等，2001)，座果率随花期的延迟而降低（孙凡和钟章成，2001)，生殖与生存之间表现为对抗关系，较大的生殖投入，将会增加死亡的概率（孙凡和钟章成，$1 9 9 7 \\mathrm { a } )$ ，对其繁殖分配影响较大的环境因素是土壤PH值、群落内热状况和肥水条件（孙凡和钟章成，1997b)。生殖生态学的研究表明，种群密度和生物量生殖配置维系在每公顷1250\\~2250 株，生殖配置RA值保持在 $40 \\% \\sim 4 2 \\%$ 之间，可使光资源得到充分利用，保证树冠正常发育，树冠之间达到触而未及的程度，种群生殖力也能得到较大发挥（苏智先和钟章成，1998)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2 生理特性",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "四川大头茶的种子是非休眠的、中间性的（田美华和唐安军，2013)，种子萌发对光的依赖性不强，萌发最适 $\\mathsf { p H }$ 范围为 $5 . 5 \\sim 6 . 0$ （陈爱侠和钟章成，1996)，幼苗快速生长期在6\\~9月，幼苗的生长在光照优越的林窗中显著比郁闭的常绿阔叶林和针阔混交林内要旺盛(陶建平等，2001)。四川大头茶幼苗的蒸腾强度与光照强度、气温和叶温呈正相关，而与叶水势和相对湿度呈负相关，光照强度是影响幼苗生长的主要因子（赵友华，1996)。四川大头茶是一种耐荫能力较强的阳性植物，在自然条件下，当年生叶片净光合速率可高达 23.44$\\mathrm { m g \\cdot d m ^ { - 2 } { \\cdot } h ^ { - 1 } }$ （缪世利，1987)。研究发现，四川大头茶低温半致死温度为-4.1℃，因此该种能够较好适应其主要分布区缙云山的低温条件而安全越冬（梁莉和谈锋，1997a，b)。四川大头茶作为国产大头茶中分布最广、遗传变异较为丰富的物种，对其生理特性的研究为引种栽培和大范围推广应用该物种奠定了基础，对同属其他植物的生理研究具有参考意义。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3种群生态特征 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "四川大头茶种群是缙云山常绿阔叶林演替过渡群落的优势种群（杜道林等，1999)，种群空间分布呈集群分布状态，集群程度与树龄成反比（金则新，1996b)。在森林优势种群中，四川大头茶与白毛新木姜子（Neolitsea aurata var.glauca）、银木荷（Schima argentea）存在极显著正联结，与栲树（Castanopsis fargesii）、润楠（Machilus pingii）间表现出极显著负联结（杜道林等，1995)。种内与种间竞争方面，四川大头茶和大头茶的种内竞争均显著大于种间竞争，种群动态过程中自疏作用大于他疏作用（金则新，1997；张锦新等，2013）。除重庆缙云山外，四川大头茶也是贵州习水国家级自然保护区的优势树种，并将长期处于优势地位，群落最终将演替成为单纯的阔叶林群落（穆兵等，2011)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.4人工育苗技术",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "种苗繁育是实现优质品种推广和进一步改良的基础（仇键等，2015)。大头茶属植物资源开发利用程度较低，相关繁殖技术研究较少。目前，大头茶的播种和扦插技术较为成熟，黄药大头茶的组织培养获得成功，这将有利于优良种质的扩繁和种苗生产，也可为同属其他物种的人工育苗提供参考。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "大头茶的种子成熟期为10 月左右，球果呈赤褐色时即可采种， $1 \\mathrm { k g }$ 球果可出约 $0 . 1 5 \\mathrm { k g }$ 种子， $1 \\mathrm { k g }$ 种子近40000粒，播种时间以1—2月为宜，种子在 $2 0 \\mathrm { ~ \\textdegree C }$ 的条件下发芽期需32天，发芽率可达 $3 3 . 8 0 \\%$ 。用 $5 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 温水浸种可缩短发芽期，提高发芽率。1年生苗达到20\\~40cm 高时可出圃，产量可达每公顷60\\~75万株（庄晋谋等，2007）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "大头茶的种子产量有大小年之分，扦插可以每年提供较为稳定数量的苗木。扦插时，选择1年生健壮枝条，剪取长 $3 { \\sim } 4 \\mathrm { c m }$ 的插穗，保留一个腋芽和成熟叶一片，扦插时间以1—2月和9一10月为好。扦插2个月左右插穗切口可愈合生根，生根率可达 $90 \\%$ 。1年生苗达到$2 5 \\mathrm { c m }$ 时可出圃，产量可达每公顷65万株（庄晋谋等，2007）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "组织培养是大头茶属植物无性繁殖的另一有效途径。研究表明，以5 年生黄药大头茶茎尖、茎节切段、腋芽为外植体，利用多种培养基，经过芽萌动和生长、多芽体诱导和壮苗、生根和移栽等生长与分化环节，产生多芽体频率在 $8 5 \\%$ 以上，移栽成活率可达 $90 \\%$ （庄承纪和刘劲科，2005）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4大头茶属植物的化学成分及药理活性",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "据《中华本草》记载，大头茶茎皮味辛、性温，具有活络止痛的功效，主治风湿腰痛和跌打损伤；果实味涩，主治虚寒泄泻（国家中药学管理局中华本草编委会，1999)。大头茶的叶在台湾民间用作收敛剂（付辉政，2012)。现代药理学研究表明，大头茶属植物的主要化学成分有二萜类、三萜苷类、皂苷类、木脂素类、黄酮醇苷类、甾体类和鞣质类、白桦酸等化合物（Chang et al.,1994; Athukoralage et al.,2001; Herath et al.,2006；王坤，2008；付辉政，2012；Fu etal.,2013；汤佳，2013；徐兰等，2019；吴放等，2019；张晓丹等，2020）。Polyspora dassanayakei茎皮的热己烷提取物具有明显的抗菌活性(Athukoralage et al.,2001),长果大头茶茎的提取物具有降血糖活性功能因子（汤佳，2013)，黄药大头茶根的提取物具有较好的抗HIV病毒和细胞毒活性（付辉政，2012）、抗肿瘤活性和保肝作用（王坤，2008)，广西大头茶茎的提取物具有选择性细胞毒活性（付辉政，2012；Fuetal.,2013）和抗肿瘤活性成分（张晓丹等，2020)。Li etal.（2017,2019）采用超声辅助提取法和微波辅助提取法从大头茶果实中提取了天然抗氧化剂，提取物可开发成功能性食品或营养保健品，具有预防心血管疾病、癌症等由氧化应激引起的某些疾病的潜力。目前开展的大头茶属植物化学成分研究主要集中于以上少数几个物种，药理活性在体外细胞和小鼠模型上验证。大头茶属药用种质资源及其药用价值有待进一步发掘，条件成熟时，应开展体内代谢转化等临床研究工作。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5问题与展望",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "东南亚是世界大头茶属植物的分布中心，我国西南地区是国产大头茶属植物的分布中心，拥有非常丰富的大头茶属种质资源。目前，国内外学者对大头茶属的系统位置和资源分布研究较为完善，对其遗传多样性和应用价值等方面的研究已有初步进展，国内对四川大头茶研究较为全面，但整个属的系统发育、谱系地理和种质创新等研究尚未开展，现有研究存在的主要问题归纳如下：",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（1）研究范围较窄、种类较少。大头茶属资源丰富、种类多样，但现有研究仅限于中国和斯里兰卡等少数国家，聚焦于四川大头茶等少数种类。国内外对大头茶属关注程度较低，尚未形成全面而整体的理论框架，该属的种质资源特点和遗传背景尚不清楚。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（2）系统发育关系不清，亲缘地理格局不明。目前开展的大头茶属植物系统发育研究主要集中在大头茶属的学名探讨，以及大头茶属在山茶科、山茶族的系统地位研究。大头茶属植物的起源存在分歧，分布分化中心、演化路线、进化关系、多样化时间不清晰，现代地理分布格局及其历史成因也不明确。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（3）国产种类分类存在分歧。 $\\textcircled{1}$ 形态学上，广西大头茶的叶和花都较四川大头茶小一些,但Bartholomew&Ming和FOC主张将广西大头茶并入四川大头茶,这种归并是否合理?$\\textcircled{2}$ 天堂大头茶（天堂果）是由邓莉兰和樊国盛（1999）发表的新种，其形态非常接近长果大头茶，新种成立的主要原因为子房6\\~8室与长果大头茶5室不同。发表后，杨世雄（2005）的分类支持了这个种；Bartholomew&Ming（2005）的分类没有支持；FOC 虽然支持，但将其作为一个存疑种，明确提出需要进一步研究。此种究竟能否作为独立种成立？ $\\textcircled{3}$ FOC主张将越南大头茶并入大头茶，但依据不明；同时，FOC 还提出分布于云南东南部和广西南部的四川大头茶被误作越南大头茶。越南大头茶在我国是否有分布？若有，是否被误认为是四川大头茶的地理变异？",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（4）引种栽培和遗传育种研究不足。大头茶属植物种质资源丰富，除国内的白花种类外，国外还拥有红花和黄花种类，观赏价值很高，其分布区气候特点与我国岭南地区、云南南部、海南、台湾等地相似，但国内尚未开展引种栽培和遗传育种等方面的工作。四川大头茶的繁殖生物学研究表明，该属植物的引种驯化和人工栽培不会存在较大障碍，因此，通过驯化与杂交育种的手段提高大头茶属的观赏价值，选育优良品种，应成为今后育种的一个重要研究方向。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（5）研究方法与技术缺乏创新，对各个物种的研究内容相对独立。当前对大头茶属植物研究主要集中在生物学特征、生理特性、种群生态、育苗技术等基础生物学领域，对其分子生物学的研究尚处于起步阶段；在种质资源评价的基础上，挖掘控制其重要性状和活性成分的主导基因，应用分子育种技术，可以加速遗传改良和新品种培育进程。现有研究多呈现单地区、单物种、单角度等独立性，缺乏统筹性和联系性；多学科、多方面对大头茶属同步开展研究，能够全面认识这一类群，更好了解其与环境的互作特征及规律。在研究材料的选取上，应当充分考虑种间共性与差异，注重种间对比研究，避免一些重复性工作。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "在未来研究中，首先应完善大头茶属植物研究体系，扩大研究范围，特别是在其分布种类较多的马来西亚、印度尼西亚、越南等国开展种质资源调查，扩充国产大头茶研究种类，掌握其分布状况与分布规律；在此基础上，综合运用形态学、细胞学、基因组学等方法，探讨大头茶属物种演化的系统发育关系，揭示该属植物的起源、演化历史和进化模式，推测冰期避难所和冰后期的扩散模式；采集种质材料，开展遗传多样性分析，发现并挖掘观赏性高、抗逆性强的优良种质资源，加强引种驯化和种质创新工作；全面掌握不同种类的大头茶属植物的生理特性和生态习性，探索基因与环境对其生长发育特征的影响规律；另外，应更加深入地加强食用、药用价值方面的研究，探索有效活性成分的关键调控基因和生物合成途径，开展临床转化和药物研制工作，合理开发利用大头茶属资源，努力创造更大的经济效益和社会效益。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "ATHUKORALAGE PS, HERATH HMTB, DERANIYAGALA SA, et al., 2001. Antifungalconstituent from Gordonia dassanayakei[J]. Fitoterapia, 72(5): 565-567.  \nBEECHE, BARSTOW M,RIVERS M,2017.The red list of Theaceae[M]. UK: Botanic GardensConservation International: 23-42.  \nBARTHOLOMEW B, Ming TL, 2005. New combinations in Chinese Polyspora(Theaceae)[J].Novon,15(2): 264-266.  \nBURGH JVD,1987.Miocene floras in the lower Rhenish basin and their ecologicalinterpretation[J]. Rev Palaeobot Palynol, 52(4): 299-366.  \nCAO GX， XIE DT, ZHONG ZC, et al., 2003. Genetic differentiation of Gordonia acuminatapopulations in different habitats[J]. J Southwest Agric Univ (Nat Sci Ed),25(3): 200-202. [操国兴，谢德体，钟章成，等，2003．四川大头茶在不同生境中的遗传分化[J]．西南农业大学学报(自然科学版)，25(3)：200-202.]  \nCAO GX, XIE DT, ZHONG ZC, et al., 2005. Genetic variation and reproductive fitnesscomponents of Gordonia acuminata in different communities[J]. Acta Ecol Sin,25(1): 13-17.[操国兴，钟章成，谢德体，等，2005．四川大头茶在不同群落中的遗传分化及适合度成分[J]．生态学报，25(1)：13-17.]  \nCHANG CW, YANG LL, YEN KY, et al., 1994. New γ-pyrone glucoside and dimericellagitannins from Gordonia axillaris[J]. Pharm Soc J, 42(9): 1922-1923.  \nCHEN AX, ZHONG ZC,1996. A preliminary study on germination characteristics of Gordoniaacuminata[J].J Shaanxi Norm Univ (Nat Sci Ed),24(1): 81-84.[陈爱侠，钟章成，1996.四川大头茶种子萌发特性的初步研究[J]．陕西师范大学学报(自然科学版)，24(1)：81-84.]  \nCHEN XY,2020. New records of five species of plants in Fujian Province[J]. Guihaia, 40(8):1127-1131.[陈新艳，2020．福建省五种植物新记录[J]．广西植物，40(8)：1127-1131.]  \nDENG LL, FAN GS,1999. A new species of genus Gordonia[J]. J Trop & Subtrop Bot, 7(3):193-194.[邓莉兰，樊国盛，1999．大头茶属一新种(英文)[J]．热带亚热带植物学报，7(3):193-194.]  \nDU DL,LIU YC, SU J, 1995. Studies on the interspecific associations between Gordoniaacuminata and the dominant populations in the forest of Jinyun mountain, Sichuan[J]. J SWNorm Univ (Nat Sci Ed),20(1):66-72.[杜道林，刘玉成，苏洁，1995．四川缙云山大头茶与森林优势种群间联结性研究[J]．西南师范大学学报(自然科学版)，20(1)：66-72.]  \nDU DL, SU J,LIU YC,1999. Study on the niche of Gordonia acuminata population in JinyunMountain[J].Guihaia,19(4):315-322.[杜道林，苏杰，刘玉成，1999.缙云山大头茶(Gordonia acuminata）生态位研究[J].广西植物，19(4)：315-322.]  \nEditorial Board of Chinese Material Medica, State Administration of Traditional ChineseMedicine,1999. Chinese material medica[M]. Shanghai: Scientific and Technical Publishers, 3",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "582-583.[国家中药学管理局中华本草编委会，1999．中华本草[M]．上海：科学技术出版社，3:582-583.]FU HZ, 2012. Studies on the chemical constituents and bioactivities of Gordonia chrysandra andGordonia kwangsiensis[D]. Beijing: Chinese Academy of Medical Sciences & Peking UnionMedicalCollege:1-176.[付辉政，2012．大头茶属植物黄药大头茶和广西大头茶的化学成分及生物活性研究[D]．北京：北京协和医学院：1-176.]FU HZ,LICJ, YANG JZ, et al.,2013. Triterpenoid glycosides from the stems of Gordoniakwangsiensis[J]. Phytochemistry, (85): 167-174.GROTE PJ, DILCHER DL,1989. Investigations of Angiosperms from the Eocene of NorthAmerica: A New Genus of Theaceae Based on Fruit and Seed Remains[J]. Bot Gaz,150(2):190-206.Guangdong Bureau of Quality and Technical Supervision, 2Oo8. Technical regulations forcultivation of Gordonia axillaris[S]. Guangdong Provincial Standard, DB44/T508-2008. [广东省质量技术监督局，2008．大头茶栽培技术规程[S]．广东省地方标准，DB44/T508-2008.]GUNATHILAKE LAAH, 2015. Evolution of Polyspora ( $\\mathbf { \\tau } = \\mathbf { \\tau }$ Gordonia; Theaceae) in Sri Lanka[D].Miami: University of Miami: 1-142.HEMBREE WG,RANNEY TG,JACKSON BE, et al.,2019. Cytogenetics, ploidy, and genomesizes of Camellia and related genera[J]. HortScience,54(7): 1124-1142.HERATH HMTB, ATHUKORALAGE PS, JAMIE JF, 2006.A new oleanane triterpenoid fromGordonia ceylanica[J]. Nat Prod Lett, 15(5): 339-344.HUANG L, CHEN YF, DENG HP,2O02. The numerical analysis of isozymic variation of PODand CYT in Gordonia acuminata[J]. J SW Norm Univ (Nat Sci Ed),27(3): 395-400.[黄林，陈亚飞，邓洪平,2002．四川大头茶过氧化物酶和细胞色素氧化酶同工酶变异的数量分析[J].西南师范大学学报(自然科学版)，27(3)：395-400.]Institude of Botany, Chinese Academy of Sciences,1972. Atlas ofadvanced plants of China(Volume 2)[M].Beijing: Science Press:857-858.[中国科学院植物研究所，1972．中国高等植物图鉴（第二册）[M].北京：科学出版社：857-858.]JIN ZX,1996a. A study on biological characteristics of Gordonia acuminata[J].J Taizhou TeachColl,18(3):63-68.[金则新,1996a.四川大头茶生物学特性研究[J]．台州师专学报,18(3):63-68.]JIN ZX,1996b. A study on distribution patern of Gordonia acuminata population[J]. Guihaia,16(3):233-238.[金则新,1996b．四川大头茶种群空间分布格局研究[J]．广西植物，16(3)：233-238.]JIN ZX,1997. Preliminary study on the intraspecific and interspecific competitions of Gordoniaacuminata in its community[J].Bull Bot Res,17(1):110-118.[金则新，1997．四川大头茶在其群落中的种内与种间竞争的初步研究[J]．植物研究，17(1)：110-118.]KE WS, ZHONG ZC, 1999. Multivariate and SDA analyses of Gordonia acuminata climaticecotype[J].Chin JAppl Ecol,10(5):529-533.[柯文山，钟章成，1999．四川大头茶气候生态类型的多元分析及 SDA判别分析[J]．应用生态学报，10(5)：529-533.]KE WS, ZHONG ZC, XI HA, et al., 2000. The variation of seed sizes of Gordonia acuminatageographic populations and its efect on seed germination and seedling[J]. Acta Ecol Sin, 20(4):697-701.[柯文山，钟章成，席红安，等，2000．四川大头茶地理种群种子大小变异及对萌发、幼苗特征的影响[J]．生态学报，20(4)：697-701.]KENG H, 1980. On the unification of Lapalacea and Gordonia (Theaceae)[J]. Gard Bul Sing,",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "33(2): 303-311.   \nKENG H,1984.Florae malesianae precursores-LVIl, part two, the genus Gordonia (Theaceae) in Malesia[J]. Gard Bull Sing, 37(1): 1-47.   \nKVACEK Z, WALTHER H, 1984. Nachweis tertiarer Theaceae mitteleuropas nach blatt-epidermalen untersuchungen. I.Teil-Bestimmung fossiler Theaceae-sippen[J]. Feddes Repert, (95): 331-346.   \nLE MC, MATTI N, PAUL KFL, et al.,2020a. The complete plastome sequence of Gordonia penangensis Ridl. supports the transfer of Asian Gordonia into Polyspora (Theaceae) [J]. Phytotaxa, 458(2):159-166.   \nLE NHN,LUONG VD, NGUYEN VC, et al., 2020b. An updated checklist of Theaceae and a new species of Polyspora from Vietnam[J]. Taiwania, 65(2): 216-227.   \nLI MM, 2O11. Phylogenetic and biogeographic studies of Theaceae with a special reference to Stewartia[D].Hangzhou: Zhejiang University:1-144.[李密密，2011.山茶科及紫茎属的系统 发育和生物地理研究[D]．杭州：浙江大学：1-144.]   \nLI MM, LI JH, TREDICI PD,et al., 2013. Phylogenetics and biogeography of Theaceae based on sequences of plastid genes[J]. J Syst Evol, 51(4): 396-404.   \nLI Y,LI S,LIN SJ,et al., 2O17. Microwave-assisted extraction of natural antioxidants from the exotic Gordonia axillaris fruit: Optimization and identification of phenolic compounds[J]. Molecules, 22(9): 1481.   \nLI Y, CAO SY,LIN SJ, et al., 2019. Polyphenolic profile and antioxidant capacity of extracts from Gordonia axillaris fruits[J]. Antioxidants, 8(6): 150.   \nLIANG L, TAN F, 1997a. The adaptation of Gordonia acuminata semilethal temperature to the low temperature condition[J].JSW Norm Univ (Nat Sci Ed),22(4): 463-465.[梁莉，谈锋, 1997a．四川大头茶低温半致死温度与对低温的适应性[J]．西南师范大学学报(自然科学 版)，22(4): 463-465.]   \nLIANG L, TAN F, 1997b. The adaptive changes of membrane fatty acid composition and membrane protective system of Gordonia acuminata accompanied with the temperature decrease[J].Chin JPlant Ecol,21(1):33-37.[梁莉，谈锋，1997b．随气温下降大头茶膜脂脂 肪酸组分及膜保护系统的适应性变化[J]．植物生态学报，21(1)：33-37.]   \nLIN WH, ZHAN CA, ZHENG DX,et al.， 2018. Tree species selection in rocky roast in the eastern Guangdong[J].For & Environ Sci,34(5): 86-92.[林文欢，詹潮安，郑道序，等，2018. 粤东岩质海岸困难立地造林树种选择[J]．林业与环境科学，34(5)：86-92.]   \nLIU B,YE JF, LIU S, et al., 2015.Families and genera of Chinese angiosperms: A synoptic classification based on APG II[J]. Biodivers Sci,23(2): 225-231.[刘冰，叶建飞，刘夙，等, 2015．中国被子植物科属概览：依据 APGIII系统[J].生物多样性，23(2)：225-231.]   \nLU YH, SUN LJ, ZHANG FS,et al., 2019. Newly recorded plants from Fujian Province(VI)[J]. J Fujian Norm Univ（Nat SciEd),35(4): 63-68.[卢亚红，孙丽娟，张凤生，等，2019．福建 省新记录植物(VI)[J]．福建师范大学学报(自然科学版)，35(4)：63-68.]   \nLUU HT, NGUYEN TT, TRAN H, 2015. Polyspora gioi (Theaceae), a new species from Vietnam[J]. Phytotaxa, 219(3): 296-300.   \nMA CL,LI J, BAI Q, et al., 2015. Distribution and utilization of the indigenous tree species of genus Polyspora in Yunnan Province[J]. Heilongjiang Agric Sci, (5): 78-80.[马长乐，李靖, 白琼,等,2015．云南省乡土树种大头茶属植物资源分布与利用探讨[J]．黑龙江农业科学， (5): 78-80.]   \nMEHRA PN, SAREEN TS,1973. Cytology of some Himalayan trees. Thalamiflorae[J]. Silv Genet, (22): 66-70.   \nMIAO SL,1987. The preliminary study on the ecophysiology of Gordonia acuminata in relation to net photosynthesis[J].Acta Ecol Sin,7(2): 120-128.[缪世利，1987．四川大头茶净光合作 用生理生态的初步研究[J]．生态学报，7(2)：120-128.]   \nMING TL, BARTHOLOMEW B, 2007. Polyspora[M]/ WU ZY,RAVEN PH (eds). Flora of China. Beijing: Science Press; St Louis: Missouri Botanical Garden Press,12: 418-419.   \nMU B,LI M, YANG CH, et al., 2011. Study on Gordonia acuminata community in Xishui National Nature Reserve[J].Seed,30(12): 62-66.[穆兵，李茂，杨成华，等，2011．习水国 家级自然保护区四川大头茶群落研究[J]．种子，30(12)：62-66.]   \nOREL G, WILSON PG, CURRY AS, et al., 2012. Polyspora huongiana sp. nov. (Theaceae) from Vietnam and notes on related species[J]. Nord J Bot, 3O(1): 47-52.   \nOREL G, WILSON PG, CURRY AS, et al., 2013. Two new species of Polyspora (Theaceae) from Vietnam and new combinations for some Asian species[J]. Willdenowia, 43(2): 301-308.   \nPRINCE LM, PARKS CR,2O01. Phylogenetic relationships of Theaceae inferred from chloroplast DNA sequence data[J]. Amer JBot, 88(12): 2309-2320.   \nQIN ZS,1990. Mountain tree species-Gordonia axillaris[J]. Guangdong For Sci Technol, (1): 20-22.[秦兆顺，1990．山地造林的好树种—大头茶[J]．广东林业科技，(1):20-22.]   \nQIU J, ZHANG JC,LUO SQ, et al., 2015. Research advances and perspectives on rubber-producing Taraxacum[J].Acta Bot Sin,50(1): 133-141.[仇键，张继川，罗世巧，等, 2015．橡胶草的研究进展[J]．植物学报，50(1)：133-141.]   \nQIU JS, YANG ZH,LIU TT, et al.， 2O15.Preliminary study on the birds pollination of three Theaceae species in southwest China[J].For Sci Res,28(3): 431-436.[邱建生，杨再华，刘童 童，等，2015．中国西南山茶科3种植物鸟类传粉研究初报[J]．林业科学研究，28(3): 431-436.]   \nRAO M, STEINBAUER MJ, XIANG XG, et al., 2018. Environmental and evolutionary drivers of diversity patterns in the tea family (Theaceae s.s.) across China[J]. Ecol Evol, 8(23): 11663-11676.   \nRICHARD W, 2O16. Polyspora plant named ‘Monsaparuby'[P]. United States Plant Patent, USPP27505P3.   \nROSE JP, KLEIST TJ,LOFSTRAND SD, et al., 2018. Phylogeny, historical biogeography, and diversification of angiosperm order Ericales suggest ancient neotropical and East Asian connections[J]. Mol Phylogenet Evol, (122): 59-79.   \nRYU Y, KIM IR, SU MH, et al.,2019. Phylogeographical study of Camellia japonica inferred from AFLP and chloroplast DNA haplotype analyses[J]. JPlant Biol, 62(1): 14-26.   \nSU ZX, ZHONG ZC, 1998. Studies on the reproductive ecology of Gordonia acuminata population: II . the patterns of reproductive allocation on the biomass in the population[J]. Acta Ecol Sin,18(4):379-385.[苏智先，钟章成，1998．四川大头茶种群生殖生态学研究II. 种群生物量生殖配置格局研究[J].生态学报，18(4)：379-385.]   \nSUN F, ZHONG ZC,1997a. Quantitative characters of reproductive adaptation of Gordonia acuminata population in MT.Jinyun[J]. Chin JPlant Ecol,21(1): 1-8.[孙凡，钟章成，1997a. 缙云山四川大头茶种群繁殖适应性的数量特征研究[J]．植物生态学报，21(1)：1-8.]   \nSUN F, ZHONG ZC,1997b. Reproductive allocation in Gordonia acuminata in subtropical evergreen broad-leaved forest and analysis of its adaptation using gray rational degree[J]. Chin JPlant Ecol,21(1):44-52.[孙凡，钟章成，1997b．四川大头茶繁殖分配及其环境适应性的 关联度研究[J]．植物生态学报，21(1)：44-52.]   \nSUN F, ZHONG ZC, 20O1. Studies on the reproductive ecological characteristics of Gordonia acuminata in Jinyun mountain[J].JSW Agric Univ,23(4):297-300.[孙凡，钟章成，2001.缙 云山四川大头茶繁殖生态特性研究(英文)[J]．西南农业大学学报，23(4)：297-300.]   \nTANG J, 2O13. Studies on chemical constituents and bioactivities of Polyspora longicarpa: synthesis and bioactivities of carbazole alkaloid Claulansine F[D]. Beijing: Chinese Academy of Medical Sciences & Peking Union Medical Colege:1-81.[汤佳,2013．长果大头茶的化学 成分及生物活性研究&咔唑生物碱Claulansine F的合成及生物活性研究[D].北京：北京 协和医学院：1-81.]   \nTAO JP, ZHONG ZC, YANG WQ,2001. Studies on the dynamics of seedling growth of Gordonia acuminata in different communities[J].J SWAgric Univ,23(2): 167-170.[陶建平，钟章成, 杨万勤,2001．不同群落中四川大头茶幼苗的生长动态研究[J]．西南农业大学学报,23(2): 167-170.]   \nTIAN MH, TANG AJ, 2013. Investigating seed storage behavior of Gordonia acuminata (Theaceae)[J].Seed,32(9):27-31.[田美华，唐安军，2013．四川大头茶种子贮藏行为的分 析[J]．种子，32(9)：27-31.]   \nTOSHIMASA T,1970. The oligocene floras from the Kushiro coal field, Hokkaido,Japan[J]. J Fac Sci Hokkaido Univ, 14(4): 383-514.   \nWANG K, 2Oo8. Study on chemical composition and biological activity of Polyspora chrysandra[D]. Beijing: Chinese Academy of Medical Sciences & Peking Union Medical College:1-86.[王坤，2008．黄药大头茶的化学成分及生物活性研究[D]．北京：中国协和 医科大学：1-86.]   \nWEI ZX,1997. Pollen ultrastructure of Theaceae and its systematic significance[J]. Acta Bot Yunnan,19(2):43-53+117-120.[韦仲新，1997．山茶科花粉超微结构及其系统学意义[J]. 云南植物研究，19(2):43-53+117-120.]   \nWUF, REN Q, PAN L, et al.,2019. A new phenolicglycoside from stems of Gordonia chrysandra[J].Chin Tradit Herbal Drugs,50(13): 2997-3000.[吴放，任琦，潘蕾，等，2019. 黄药大头茶茎中1个新的酚苷[J]．中草药，50(13)：2997-3000.]   \nXU L,REN Q, WAN KH, et al., 2019. Chemical constituents from stem of Gordonia chrysandra[J].Chin Med Mat,42(9):2045-2048.[徐兰，任琦，万凯化，等，2019．黄药大 头茶茎化学成分研究[J]．中药材，42(9)：2045-2048.]   \nYANG SX, YANG JB,LEI LG, et al., 2004. Reassessing the relationships between Gordonia and Polyspora (Theaceae) based on the combined analyses of molecular data from the nuclear, plastid and mitochondrial genomes[J]. Plant Syst Evol, 248: 45-55.   \nYANG SX, 2005. Taxonomic treatment of Chinese Polyspora Sweet (Theaceae)[J]. J Trop & Subtrop Bot,13(4):363-365.[杨世雄，2005．国产大头茶属的分类处理[J]．热带亚热带植 物学报，13(4):363-365.]   \nYANG JB, YANG SX,LI DZ, et al., 2006. Phylogenetic relationships of Theaceae inferred from mitochondrial matR gene sequence data[J].Acta Bot Yunnan,28(1): 29-36.[杨俊波，杨世雄, 李德铁，等，2006.基于matR 基因序列分析的山茶科系统关系(英文)[J]．云南植物研究， 28(1): 29-36.]   \nYE CX,1990. The range of Gordonieae (Theaceae) and limitation of genera in the tribe[J]. Guihaia,10(2):99-103.[叶创兴，1990．大头茶族的范围及族内属的界限[J]．广西植物, 10(2): 99-103.]   \nYU XQ, GAO LM, SOLTIS DE, et al., 2017. Insights into the historical assembly of East Asian subtropical evergreen broadleaved forests revealed by the temporal history of the tea family[J]. New Phytol, 215(3): 1235-1248.   \nZENG B, ZHONG ZC, ZHANG XP, 2OO1. Studies on pollen free proline content and features of reproductive yields of Gordonia acuminata in Jinyun mountain[J]. Acta Ecol Sin, 21(8): 1251-1255.[曾波，钟章成，张小萍，2001．缙云山四川大头茶花粉游离脯氨酸含量与生 殖产量特征研究[J]．生态学报，21(8)：1251-1255.]   \nZHANG HD, REN SX,1998. Theaceae[M]//WU ZY editor. Flora reipublicae popularis scnicae. Beijing: Science Press,49(3):206-211.[张宏达，任善湘，1998．山茶科[M]//吴征镒主编．中 国植物志．北京：科学出版社，49(3)：206-211.]   \nZHANG JX,LIAO GX, XU XH, 2013. Intraspecific and interspecific competition in Polyspora axillaris community in Maluan mountain of Shenzhen[J]. Chin J Trop Crops, 34(2): 386-390. [张锦新，廖国新，徐晓晖，2013．深圳马峦山大头茶(Polyspora axillaris)群落种内与种间 竞争研究[J]．热带作物学报，34(2)：386-390.]   \nZHANG W, KAN SL, ZHAO H, et al., 2014. Molecular phylogeny of tribe Theeae (Theaceae s.s.) and its implications for generic delimitation[J]. PLoS ONE, 9(5): e98133.   \nZHANG XD, REN Q,LIU M, et al., 2020. Chemical contituents from the stems of Gordonia kwangsiensis[J].Chin Med Mat,43(1): 80-83.[张晓丹，任琦，刘敏，等，2020.广西大头 茶茎化学成分研究[J]．中药材，43(1)：80-83.]   \nZHAO YH,1996. Transpiration and biomass variations of Gordonia acuminata seedlings in different light environments[J].JFujian Agric Univ,25(1):109-113.[赵友华,1996.不同光环 境下大头茶幼苗蒸腾强度和生物量的变化[J].福建农业大学学报，25(1)：109-113.]   \nZHUANG CJ, LIU JK, 2Oo5. Tissue culture and micro-propagation of Gordonia yunnanensis[J]. Plant PhysiolComm,41(3):343.[庄承纪，刘劲科，2005．滇大头茶的组织培养和微型繁殖 [J]．植物生理学通讯，41(3)：343.]   \nZHUANG JM, ZHUANG ZF, WEI RP, 2OO7. Natural growth status and artificial cultivation technology of Polyspora axillaris[J]. Guangdong For Sci Technol,23(5): 47-50.[庄晋谋，庄增 福，韦如萍，2007．大头茶的自然生长状况及其人工栽培技术[J]．广东林业科技，23(5): 47-50.] ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    }
+]

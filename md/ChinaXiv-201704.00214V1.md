@@ -1,0 +1,214 @@
+# DOI: 10.5846/stxb201512082456
+
+刘某承,熊英,白艳莹,杨伦,闵庆文.生态功能改善目标导向的哈尼梯田生态补偿标准.生态学报,2017,37（7)：2447-2454.LiuMC，XiogYaiYYangL，MinWEcologicalcopesatiostadardforeaniceTeraceSte：anofuctioaltedimprovement.Acta Ecologica Sinica,2017,37(7）:2447-2454.
+
+# 生态功能改善目标导向的哈尼梯田生态补偿标准
+
+刘某承}，熊 英²，白艳莹}，杨伦1,³，闵庆文1，\*
+
+1中国科学院地理科学与资源研究所，北京100101  
+2 中国人民大学,北京100872  
+3中国科学院大学，北京100049
+
+摘要;稻田生产对生态环境的影响具有两面性,为使稻田生产提供不同组合或更高水平的环境服务,需要补偿农户因转变操作方式而损失的收益。以云南省红河哈尼族彝族自治州哈尼稻作梯田系统为例，基于稻田生态系统特点以及农户个人的主观经济决策特征,从农户的微观经济决策的视角,探讨稻田生态系统服务供给机会成本的空间分布;再从区域的宏观经济行为的视角,探讨补偿标准与农户愿意提供的生态环境效益的关系。从而,以稻田生态功能改善为导向,以新增生态环境效益为目标，耦合农户的受偿意愿与机会成本,实现了从生态功能改善需求(新增生态效益)来确定动态的补偿标准的可能。计算发现,当生态功能改善的目标定为新增生态系统服务 $8 0 . 7 7 \times 1 0 ^ { 4 }$ 元 $\mathbf { h m } ^ { - 2 } \mathbf { a } ^ { - 1 }$ 时，补偿的标准应为3000元 $\mathrm { \langle h m } ^ { 2 }$ 时；当生态功能改善的目标定为新增 $2 1 9 . 4 9 \times 1 0 ^ { 4 }$ 元 $\mathbf { h } \mathbf { m } ^ { - 2 } \mathbf { \epsilon } \mathbf { a } ^ { - 1 }$ 时，补偿的标准应为9000 元 $\langle \mathrm { h m } ^ { 2 }$ 时。
+
+关键词：生态补偿;生态系统服务;耕地资源;受偿意愿;机会成本;农业文化遗产
+
+# Ecological compensation standard for the Hani Rice Terrace System: an eco-functional-oriented improvement
+
+LIU Moucheng1，XIONG Ying²，BAI Yanying'，YANG Lun1,³，MIN Qingwen 1 \*   
+1InstituteofGeographic SciencesandNaturalResourcesResearch,ChineseAcademyofSciences，Beijing1Olo1,China   
+2Renmin University ofChina,Beijing1Oo872,China   
+3 University of Chinese Academy of Sciences，Beijing 10oo49，China
+
+Abstract：Agriculturallanddoes notonlyprovidefoodandfiber,which isimportantforfood securityfor humanbeings,but also provides various non-marketcommodities for export orpublicuse.However,there are also numerous negative impacts of paddyproductionontheenvironment.Thus，to encouragefarmers to engage inecological ororganic agriculture toprovide moreecosystem services，itis necessry topayfarmers fortheirlosss whentheyaltertheircultivation practices.However, most cuent standardsof ecological compensation forpaddycultivationarecalculatedbyseparatefactors，such as thecostof ecosystemconservation，value of ecosystemservices，or wilingness toaccept eco-compensation.As such，astandardis dificult toachieveforallthestakeholdersandthereisalackofoperabilityduetoneglected factors.Thus，thisstudywas conducted in the Hani Terrace，which was designated asa GloballyImportant Agricultural Heritage Systems（GIAHS）in 2010and World Heritage in2O13，and wecalculated thestandardof paddy eco-compensation basedon thesubjective decision-making characteristics of individualsandpaddyecosystem characteristics.This study isbasedon theopportunity cost thatecosystem servicessupply withagoal of determining thesupplycurve for ecosystem services.First，through observation and sample testing，we compared the diferences in the value of ecosystem services supplied by two production modes:conventional mono-cropping（useofchemical fertilizersand pesticides）and fish cultivation inricefields（using half amountof fertlizersandno pesticides）．Second，from theperspectiveof themicroeconomic decision-makingof individualfarmers，weinvestigated thespace distribution of opportunity costs for supplyingpaddy ecosystem services. Third，from theperspectiveof the macroeconomic behaviorsof farmers，we investigated therelationship between the compensation standardand theeco-environmentbenefits willingly providedbythe farmers.Finall，wecombined famer willingnessandtheopportunitycostofecosystemservices，andthecapacityofthe majoritytobuildanecological-restoration orientedeco-compensation standard forthe paddy system.Theresultsindicatedthatthe proportionof farmersconverting their modeof production increased with the increase in the compensation payment.When the compensation payment amounted to 3000 yuan/ $\cdot \mathrm { h m } ^ { 2 }$ ，the conversion ratio of cultivation practices reached $3 5 . 7 4 \%$ ，the added value of ecosystem services was $8 0 . 7 7 \ \times \ 1 0 ^ { 4 }$ yuan $\mathbf { h m } ^ { - 2 } \ \mathbf { a } ^ { - 1 }$ ，and the required compensation funds was $9 1 . 0 4 ~ \times ~ 1 0 ^ { 4 }$ yuan/a. When the compensation payment was as high as $9 0 0 0 \ \mathrm { y u a n / h m } ^ { 2 }$ ，almost all farmers $( 9 7 . 1 2 \%$ ）were willing to convert their mode of production；the added value of ecosystem services was $2 1 9 . 4 9 \times 1 0 ^ { 4 }$ yuan $\mathbf { h m } ^ { - 2 } \mathbf { a } ^ { - 1 }$ and the required compensation funds were $2 7 3 . 1 3 \times 1 0 ^ { 4 }$ yuan/a.
+
+Key Words:ecological compensation；ecosystemservices；landresources；wilingnesstoaccept；oportunitycost；GIAHS
+
+20 世纪80年代,中国政府开始尝试生态补偿制度,希望通过调整生态环境保护者和破坏者的利益关系，达到保护生态环境的目的[1]。目前,我国已初步形成了以政府为主导,以中央的财政转移支付和财政补贴为主要投资渠道、以重大生态保护和建设工程及其配套措施为主要形式、以各级政府为实施主体的生态补偿总体框架[2],在森林[3]、草原[4]、湿地[5]、流域和水资源[6]、矿产资源开发[7]、海洋以及重点生态功能区[8]等领域取得积极进展和初步成效。但总体来看,我国生态补偿制度建设仍处于初步发展阶段,在补偿主体确定、补偿标准、补偿方法、资金来源、监管措施等方面,还没有形成一套完整的体系与方法[9]。生态补偿措施尚没有在我国农业可持续发展中发挥应有的作用[10]。
+
+随着对生态与环境问题认识的不断发展,稻田的生态系统功能越来越受到国内外学者的广泛关注[]。尤其是在我国传统的经济欠发达、生态环境较脆弱的地区,稻田生产不仅是一项经济活动,同时还具有提供生态系统服务以保护脆弱生态系统、促进就业以维护民族团结以及传承文化等众多功能[12-13]。然而,在追求粮食产量和经济利润的刺激下,化肥、农药的滥用不仅严重破坏了稻田净化污水、消解有机有毒物质、钝化或无效化无机有毒物质的污染调控功能,而且还产生了面源污染问题,同时破坏了稻田生物多样性并引发食品安全的隐患,影响了农业的可持续发展。因此,在传统地区可以通过政府对农户进行适当补偿来激励农户采用环境友好型耕种方式,以充分发挥农业生产活动的生态功能和社会功能[14]。
+
+当前稻田生态补偿已成为社会各界广泛关注的热点问题,然而稻田生态补偿仍停留在个案研究水平上，理论探讨和实际应用之间还有较大距离[15]。仅有的稻田生态补偿的研究多集中在生态补偿标准的测算方面，包括： $\textcircled{1}$ 按农户采用环境友好型耕种方式的投入成本计算。农户为了保护生态环境更改先行的农作方式，或者需要投入人力、物力和财力,或者可能使得稻田生产的投入产出比降低,甚至可能损失一部分经济收入[16-17]。 $\textcircled{2}$ 按激励农户采用环境友好型耕种方式的受偿意愿计算。农户作为稻田农业生产的主体,其行为具有相当的主观性。同时,意愿调查获得的数据也能够反映农户自主提供优质生态系统服务的成本[18-19]。$\textcircled{3}$ 按农户采用环境友好型耕种方式产生的生态效益计算。这是目前使用较多的方法[2-21]。总的看来,目前的核算方式都是基于单个要素去考虑补偿的标准,而没有将成本投入与效益产出、生态补偿的受偿意愿与补偿意愿、生态系统服务的供给与消费耦合起来,导致从某个方面核算的标准很难得到另一方的认可,降低了补偿标准的可操作性。同时,稻田作为人为干扰较为强烈的一种生态系统,不仅存在正面的生态功能，同时还具有一定的环境负面影响。虽然有效的激励政策可以使得稻田生产供给更多的生态环境效益,但由于农户个人的主观经济决策特征以及稻田对生态环境影响的两面性,使得补偿标准的确定具有其本身的特殊性[22]。因此,如何耦合农户的受偿意愿与生态环境效益供给的机会成本,构建有效的稻田生态补偿标准,成为本文的研究目的。
+
+# 1研究方法
+
+# 1.1 研究区域
+
+哈尼稻作梯田系统主要分布在中国云南省红河哈尼族彝自治州。其以森林-村寨-梯田-水系“四素同构”的农业生态结构,在生态脆弱、生物多样性丰富的广阔山区创造了延续1300 多年、总面积达 $5 4 0 0 \mathrm { h m } ^ { 2 }$ 的农业可持续发展典范,入选了全球重要农业文化遗产和世界遗产。
+
+哈尼稻作梯田系统通过稻田养鱼的方式控制病虫害的发生,同时降低农业面源污染的风险。然而,由于杂交稻的单一种植、从事稻作生产的直接经济收入不高以及农村青壮年劳动力的流失，哈尼梯田地区的化肥农药使用量逐年上升,抛荒现象也逐渐增多。一方面抛荒弃耕破坏了梯田的稳定结构,化肥农药的施用破坏了当地的水土环境,另一方面由于化肥农药的支出,稻田生产并没有对农户的经济收入带来较大的提高[23]。因此,为恢复环境友好的、传统的稻田养鱼的农业生产方式,使稻田生产“提供不同组合或更高水平的环境服务”,需要“补偿生产者因转变操作方式而损失的收益”。
+
+# 1.2 数据来源
+
+为定量探讨农户转变稻田生产方式的生态补偿标准,本文以云南省红河哈尼族彝族自治州红河县的甲寅乡和宝华乡为研究区域,包括咪田、作夫、龙甲、苏红、塔卜、碑赊(新）、碑赊(旧)和安庆8个行政村。本文于2013 年开始在甲寅乡设置a(常规单作,使用化肥农业)与b(稻田养鱼,减半化肥用量并不施用农药)两种样地进行水稻生育期实验观测;同时于2014年在8个村采用面对面采访的方式进行问卷调查。各村样本的发放数量以各村的家庭户数所占比例为主要依据,结合调查中的实际情况作出适当调整,采用随机群抽样的方法选定样本，每个随机群样本数量控制在总样本的 $1 / 1 3$ 之内。调查问卷共200份，整理后有效问卷188份，占问卷总数的 $94 \%$ 。
+
+受访农户以男性略多，占总数的 $6 1 . 7 0 \%$ ;以中老年劳动力为主， $5 2 . 4 8 \%$ 的样本年龄集中在40一60岁，还有 $3 2 . 8 8 \%$ 的样本年龄在60 岁以上,40 岁以下仅有 $1 5 . 6 4 \%$ ;受访农户家庭年农业收入在10000元及以下的占$8 6 . 7 0 \%$ ,其中打工收入占家庭收入一半以上的有 $6 8 . 0 6 \%$ 。具体情况见表1。
+
+表1农户调查数据描述性统计结果  
+Table 1Descriptive statistics of the household survey   
+
+<html><body><table><tr><td>特征变量Variable</td><td>均值 Mean</td><td>最大值Max</td><td>最小值Min</td><td>标准差 SD</td></tr><tr><td>家庭总人数Familynumber/人</td><td>5.58</td><td>11.00</td><td>1.00</td><td>1.79</td></tr><tr><td>户主性别,男=1,女=2 Gender of head</td><td>1.39</td><td>2.00</td><td>1.00</td><td>0.49</td></tr><tr><td>户主年龄Age of head/岁</td><td>40.99</td><td>82.00</td><td>13.00</td><td>14.79</td></tr><tr><td>家庭总收人Family income/（元/a)</td><td>41111.51</td><td>509000.00</td><td>5546.00</td><td>60151.38</td></tr><tr><td>农业收入Agricultural income/元</td><td>7779.45</td><td>73200.00</td><td>5546.00</td><td>2959.5</td></tr><tr><td>农业收入占比 Proportion of agricultural income/%</td><td>36.15</td><td>100.00</td><td>0.48</td><td>34.03</td></tr><tr><td>其他收入Other Income/元</td><td>33881.67</td><td>500000.00</td><td>0.00</td><td>57756.43</td></tr><tr><td>其他收入占比 Proportion of other income/%</td><td>65.13</td><td>100.00</td><td>0.00</td><td>34.69</td></tr><tr><td>家庭耕地面积Cultivated area/hm²</td><td>0.27</td><td>6.25</td><td>0.01</td><td>0.53</td></tr><tr><td>杂交稻种植面积 Hybrid Rice area/hm²</td><td>0.091</td><td>0.50</td><td>0.00</td><td>0.10</td></tr><tr><td>红米种植面积 Red Rice area/hm²</td><td>0.034</td><td>0.63</td><td>0.00</td><td>0.09</td></tr><tr><td>稻田养鱼面积Rice-Fish area/hm²</td><td>0.053</td><td>0.46</td><td>0.00</td><td>0.02</td></tr><tr><td>农产品类型 Certification of agricultural product *</td><td>1.17</td><td>5.00</td><td>1.00</td><td>0.53</td></tr></table></body></html>
+
+\*普通农产品 $= 1$ ，当地特色品种 $= 2$ ，无公害农产品 $^ { = 3 }$ ，绿色食品 $= 5$ ，有机农产品 $= 5$ ,地理标志产品 $= 6$
+
+# 1.3 研究方法
+
+本文的基本思想是基于生态系统服务供给的机会成本推导生态系统服务的供给曲线。一方面从单个农
+
+户的微观经济决策的视角,探讨稻田生态系统服务供给机会成本的空间分布;另一方面从农户的宏观经济行为的视角,探讨补偿标准与农户愿意提供的生态环境效益的关系。
+
+# 1.3.1 假设与前提
+
+假定每块稻田可采取两种生产方式a(常规单作,使用化肥农业)与b(稻田养鱼，减半化肥用量并不施用农药)。农户是否愿意采用生产方式b,减少化肥农药使用的决策目的是经济收益最大化。当农户没有得到额外激励时,当前的生产方式a有一个初始的生态系统服务供给;为了在此基础上增加生态系统服务供给,必须给农户提供金融激励,以使农户转换成生产方式b。为简单起见,假设这种减少化肥农药使用的转换成本为0。
+
+在稻田s采用生产方式a时,每年每公顷稻田能产生 $\boldsymbol { e } _ { 0 }$ 单位的生态系统服务;若采用生产方式b,可增加$e$ 单位的生态系统服务供给。农户的稻田生产决策都是基于最大化收益期望价值 $v ( p , s , z )$ ,其中 $p$ 为产品价格,s表示不同的地块， $z$ 表示土地利用方式（a或 $\mathbf { b }$ )[24]。如果,生产方式a的最大化收益期望价值高于生产方式b,即
+
+$$
+v ( p , s , a ) \geqslant v ( p , s , b )
+$$
+
+农户将选择生产方式a,反之就会选择生产方式 $\mathbf { b }$ O
+
+# 1.3.2 新增稻田生态系统服务的价值
+
+生态系统服务价值是从货币价值量的角度对生态系统服务进行的定量评价。本文首先参照目前较为成熟的物质量-价值量方法[25-26],通过两种生产方式a(常规单作,使用化肥农业)和b(稻田养鱼,减半化肥用量并不施用农药)下的样地观测和采样化验得到物理量相关数据;其次采用不同生态经济学方法对稻田生态系统功能及其价值进行评估。
+
+其中,生态系统服务价值测算的指标根据哈尼梯田的实际情况及稻田生态补偿的需求进行选择,包括[14]：调节大气（稻田生态系统与大气之间 $\mathrm { C O } _ { 2 }$ ） $\mathbf { O } _ { 2 }$ 和 $\mathrm { C H } _ { 4 }$ 的交换过程);养分物质保持(N、P营养元素在稻田生态系统的输入和输出);病虫害防治(稻田养鱼对病虫草害的防治);水量调节(稻田存蓄水量,调蓄洪峰);旅游发展(吸引游客观赏及实践参与)以及水质污染的负面效益。
+
+因此,新增稻田生态系统服务价值e为由生产方式a转为 $\mathbf { b }$ 后单位稻田面积多提供的服务价值,其计算公式为[14]：
+
+$$
+e = E S _ { \mathrm { { b } } } \ - E S _ { \mathrm { { a } } } = \sum _ { j = 1 } ^ { n } \ \mathrm { E S V I } _ { b j } \ - \ \sum _ { j = 1 } ^ { n } \mathrm { E S V I } _ { a j } 
+$$
+
+式中， $E S$ 为生产方式a或 $\mathbf { b }$ 下单位面积稻田提供的生态系统服务价值， $\mathrm { E S V I } _ { j }$ 为第 $j$ 种生态系统服务类型的单位面积服务价值( $\overrightarrow { \mathcal { T } } \mathrm { \overline { { L } } } / \mathrm { h m } ^ { 2 }$ ） $, j$ 为生态系统服务类型 $\left( j = 6 \right)$ 。
+
+1.3.3 稻田生态系统服务供给的机会成本
+
+如果已知 ${ \omega ( p , s ) }$ 的空间分布概率密度函数 $\varphi ( \omega )$ ,在不存在其他经济激励的条件下,采用生产方式 $\mathbf { b }$ 的稻田的比例为 $r ( p )$ ：
+
+$$
+r ( p ) = \int _ { - \infty } ^ { 0 } \varphi ( \omega ) d \omega \qquad 0 \leqslant r ( p ) \leqslant 1
+$$
+
+如果实施生态补偿政策，每年向农户支付一定的补偿 $p _ { e }$ ,促使农户增加生态系统服务的供给（即从生产方式a转为b)。 $p _ { e }$ 定义为提供单位生态系统服务的价格,即农户多提供1单位生态系统服务,就可以获得 $p _ { e }$ 的补偿。
+
+在实施生态补偿政策的情况下,如果农户采用生产方式a,单位面积稻田可以获得期望收益 $v ( p , s , a )$ ；如果采用b,因提供单位生态系统服务可获得价值 $p _ { e }$ 的补偿,这时单位面积稻田可获得期望收益 $\mathrm { v ( p , s , b ) + e p _ { e } }$ ，其中 $v ( p , s , b )$ 是农户直接从采用生产方式b中获得的收益， $e p _ { e }$ 是农户提供生态系统服务而获得的补偿[27]。从而,如果：
+
+$$
+v ( p , s , a ) - v ( p , s , b ) - e p _ { e } = \omega ( p , s ) - e p _ { e } \geqslant 0
+$$
+
+农户将选择生产方式 $\mathbf { a }$ 。反之,如果 $\omega ( p , s ) - e p _ { e } < 0$ ,即 $\omega / e \textless p _ { e }$ ,农户则会选择生产方式 $\mathbf { b } _ { \circ } \boldsymbol { \omega } / e$ 是农户提供单位生态系统服务的机会成本,根据 $\omega$ 的密度函数 $\varphi ( \omega )$ 可以定义 $\omega / e$ 的空间分布 $\varphi ( \omega / e )$ [28]。从而,在补偿价格为 $p _ { e }$ 时,机会成本出于0到 $p _ { e }$ 的稻田将从生产方式a转为 $\mathbf { b }$ ,这部分土地的比例为：
+
+$$
+r ( p , p _ { e } ) = \int _ { 0 } ^ { p } \varphi ( \omega / e ) d ( \omega / e )
+$$
+
+1.3.4生态环境恢复目标导向的稻田生态补偿标准
+
+如果研究区域内稻田总面积为 $H$ ，则没有生态补偿时可提供的总的生态系统服务为：
+
+$$
+S ( p ) = r ( p ) \times H \times e
+$$
+
+在有生态补偿的激励下，新增的生态系统服务供给量为：
+
+$$
+S ( p _ { e } ) = r ( p , p _ { e } ) \times H \times e
+$$
+
+则此时生态系统服务的供给总量为：
+
+$$
+S ( p , p _ { e } ) = S ( p ) + r ( p , p _ { e } ) \times H \times e
+$$
+
+通过生态系统服务供给机会成本的空间分布推导生态补偿标准的过程可以用图1表示[29]。左边的曲线表示机会成本的空间分布，纵轴是农户提供单位生态系统服务的机会成本 $\omega / e$ ,横轴是其密度函数 $\varphi ( \omega / e )$ ，它的形状取决于机会成本的方差与均值。右边是生态系统服务的供给曲线，是单位生态服务价格的函数，横轴是新增的生态系统服务供给量 $S ( p )$ 。在右图中，生态服务供给曲线与横轴相交于初始均衡点 $S ( p )$ ,在该点新增生态系统服务为0;随着补偿标准的增加，采取新的生产方式的稻田比例随之增加，生态系统服务量不断增加并逼近最大生态服务量的垂直渐近线 $H e$ ○
+
+![](images/9c2eb9bbadfa2d4cc072af0043f9cdaa731aa5113f5d84013e9aa287b0f45345.jpg)  
+图1研究方法  
+Fig.1Methodology
+
+# 2计算结果与分析
+
+# 2.1新增稻田生态系统服务的价值
+
+本文针对a(常规单作,使用化肥农业)与b(稻田养鱼,减半化肥用量并不施用农药)两种样地运用不同生态经济学方法对稻田生态系统功能及其价值进行评估（表2）,得出单位面积稻田提供的生态系统服务价值在生产方式a下为8598元 $\mathbf { h } \mathbf { m } ^ { - 2 } \mathbf { a } ^ { - 1 }$ ,在生产方式b下为16045元 $\mathbf { h } \mathbf { m } ^ { - 2 } \mathbf { a } ^ { - 1 }$ ,其单位面积稻田新增生态系统服务价值 $\boldsymbol { \mathscr { e } }$ 为7447元 $\mathbf { h } \mathbf { m } ^ { - 2 } \mathbf { a } ^ { - 1 }$ 。
+
+表2哈尼稻作梯田生态系统服务价值（元 $\mathrm { h m } ^ { - 2 } \mathrm { ~ a ~ } ^ { - 1 }$ ）  
+Table2The eco-service value of Hani Rice Terrace   
+
+<html><body><table><tr><td rowspan="2">生产方式 mode</td><td colspan="2"></td><td rowspan="2">营养物质保持购</td><td rowspan="2">control</td><td rowspan="2">水量调节 adjustment</td><td rowspan="2">旅游发展</td><td rowspan="2">水质污染</td><td colspan="3"></td></tr><tr><td>O2 Releasing CH4 Releasing</td><td>maintenance</td><td>pollution</td><td>功能效益 benefit</td><td>净效益 benefit Net benefit</td></tr><tr><td>a</td><td>10417</td><td>-1569</td><td>1660</td><td>0</td><td>4530</td><td>0</td><td>-6440</td><td>16607</td><td>-8009</td><td>8598</td></tr><tr><td>b</td><td>8789</td><td>-1076</td><td>1624</td><td>1007</td><td>6795</td><td>1146</td><td>-2240</td><td>19361</td><td>-3316</td><td>16045</td></tr></table></body></html>
+
+a:常规单作,使用化肥农药coveoaloocroppngseofcialertiersdpesties田养鱼减半化肥用量并施用药fsulivaioice ields，using half amount of fertilizersandno pesticides
+
+# 2.2稻田生态系统服务供给的机会成本
+
+稻田种养殖收益的原始数据通过问卷调查获得,通过表1,运用统计软件可以计算得出其年收益差值的均值和标准差分别为7779.45元 $/ \mathrm { h m } ^ { 2 }$ 和2959.5元/$\mathrm { { h m } } ^ { 2 }$ 。作为农户个体而言,其更改耕种方式的微观经济行为决策建立在个人的机会成本之上。不同个体的机会成本不同，大样本量下不同个体的机会成本呈现正态分布。利用Matlab对数据进行检验分析后，确定新增稻田生态系统服务价值的机会成本 $\omega / e$ 服从正态分布，均值为1.04元/ $\langle \mathrm { h m } ^ { 2 }$ ，标准差为0.40元 $/ \mathrm { h m } ^ { 2 }$ 。利用Matlab7.6.0绘图命令plot绘制稻田生态系统服务供给的机会成本密度函数（图2）。
+
+# 2.3生态环境恢复目标导向的稻田生态补偿标准
+
+本文设置a（常规单作，使用化肥农业）与b（稻田养鱼，减半化肥用量并不施用农药)两种情景调查受访农户接受直接补贴的意愿。根据农户问卷调查的结果和公式(8），构建生态补偿标准与农户转换稻田生产方式的关系(图3);在此基础上,结合转换生产方式后单位面积稻田新增的生态系统服务价值 $\mathbf { \Psi } _ { e }$ ,构建补偿标准与新增生态系统服务的供给曲线（图3）。
+
+![](images/fb655699b65edd9d71d1b0334ed8a811b2be956732962f38fdc4af2a544c3835.jpg)  
+图2生态系统服务供给的机会成本密度函数 Fig.2Spatial distribution of opportunity cost of eco-services value
+
+![](images/c1f472d16d0ce0e4152fd089dbe3b3bc196be04546183191764ac4ecd3c6298f.jpg)  
+图3生态系统服务的供给曲线  
+Fig.3The supply curve of eco-services
+
+通过计算得知(表3）,在没有实施生态补偿的情形下,调查所涉及甲寅乡和宝华乡的8个村以生产方式b进行耕作的稻田面积只占 $1 4 . 8 6 \%$ ,此时不涉及是否新增生态系统服务。要增加稻田的生态系统服务供给,就需要对农户进行生态补偿。从图3可以看出,随着补偿价格的增加,农户转换生产方式的比例也在增加。当生态功能改善的目标定为新增生态系统服务 $8 0 . 7 7 \times 1 0 ^ { 4 }$ 元 $\mathrm { h m } ^ { - 2 } \mathrm { a } ^ { - 1 }$ 时，补偿的标准应为3000元 $' \mathrm { h m } ^ { 2 }$ 时,此时
+
+表3不同补偿标准下的生态系统服务供给  
+Table 3The eco-service supply under different prices   
+
+<html><body><table><tr><td>补偿标准 Compensation Standard/</td><td>转换比例 Conversion Ratio /%</td><td>新增生态系统服务 Added Ecosystem Services/</td><td>补偿资金总额 Total Payments/</td></tr><tr><td>（元hm−² a-1) 3000</td><td>35.74</td><td>（104元hm-²a-1) 80.77</td><td>(104元/a) 91.04</td></tr><tr><td>6000</td><td>78.12</td><td>176.55</td><td>182.09</td></tr><tr><td>7779.45</td><td>89.17</td><td>201.53</td><td>236.09</td></tr><tr><td>9000</td><td>97.12</td><td>219.49</td><td>273.13</td></tr><tr><td>12000</td><td>100.00</td><td>226.00</td><td>364.18</td></tr></table></body></html>
+
+http://www.ecologica.cn
+
+调查的8个村庄中愿意转换生产方式的农户的比例为 $3 5 . 7 4 \%$ ，需补偿资金为 $9 1 . 0 4 \times 1 0 ^ { 4 }$ 元／a;当生态功能改善的目标定为新增生态系统服务为 $2 1 9 . 4 9 \times 1 0 ^ { 4 }$ 元 $\mathbf { h } \mathbf { m } ^ { - 2 } \mathbf { \epsilon } \mathbf { a } ^ { - 1 }$ 时，补偿的标准应为9000元/ $\langle \mathrm { h m } ^ { 2 }$ 时,此时几乎所有的农户 $( 9 7 . 1 2 \%$ )都愿意转换生产方式,所需的补偿资金为 $2 7 3 . 1 3 \times 1 0 ^ { 4 }$ 元/a。
+
+# 3小结与讨论
+
+随着对生态与环境问题认识的不断发展,稻田的生态功能越来越受到广泛关注。通过生态补偿给予农户一定的经济激励,促使其采用环境友好型的耕作方式,从而使稻田生态系统提供更高水平的生态系统服务,成为解决稻田生态与环境问题的有效措施[19]。
+
+生态补偿标准的确定是生态补偿机制构建的关键问题之一。本文以云南省红河哈尼族彝族自治州红河县的甲寅乡和宝华乡为研究区域,基于生态系统服务供给的机会成本来推导生态系统服务的供给曲线：从农户的微观经济决策的视角,探讨稻田生态系统服务供给机会成本的空间分布;再从区域的宏观经济行为的视角,探讨补偿标准与农户愿意提供的生态环境效益的关系。从而以新增稻田生态环境效益为目标,耦合农户的受偿意愿与机会成本,实现了通过生态环境恢复目标(新增生态效益)来确定补偿标准(图3,表2)。
+
+本文的研究方法将生态补偿机制构建过程中的自然过程和人文过程进行耦合,但由于研究的需要,对相关过程进行了简化处理。首先,本文对稻田生态系统服务的供给这个自然过程进行了简化处理,即采用标准样地的单位量来代表区域的平均状况。实际上不同区域的稻田所提供的生态系统服务具有空间异质性,为使补偿资金的投入获得最好的产出,必须明确不同区域的稻田提供的生态系统服务的价值量,从而有针对性地实施补偿。在我国当前社会经济发展的背景下，生态补偿的资金往往是有限的。为使的补偿资金的使用效率最大化,需要对潜在的提供更高生态系统服务价值的补偿对象进行空间选择,从而确定最有效的补偿范围。
+
+其次,生态补偿作为一种有效的财政激励机制,能够促使生态服务的提供者改变土地利用方式,使其拥有的生计资本、采取的生计策略发生变化，从而使生态服务提供者的福利状况发生变化。作出决策的生态服务提供者现实中都不是理性的经济人,其改变土地利用方式的主观意愿往往受到年龄、受教育程度,信息完全性,归避风险等其他因素的影响。本文在从农户的微观角度考虑其决策过程时,为简化期间假设其为理性的经济人，没有考虑到这种不同。这些影响补偿标准的因素有待深入研究。
+
+# 参考文献（References）：
+
+[1］庄国泰.生态环境补偿费的理论与实践/国家环境保护局自然保护司.中国生态环境补偿费的理论与实践.北京：中国环境科学出版社，1995.  
+［2］李文华，刘某承.关于中国生态补偿机制建设的几点思考.资源科学，2010,32（5）：791-796.  
+［3］李文华,李芬,李世东，刘某承.森林生态效益补偿的研究现状与展望．自然资源学报,2006，21（5）：677-688.  
+[4」杨光梅，闵庆文，李文华，刘璐，荣金凤，吴雪宾.基于CVM方法分析牧民对禁牧政策的受偿意愿——以锡林郭勒草原为例.生态环境，2006,15(4):747-751.  
+[5]ZhenL,LiF,HangH,Dilly,LiuJY,WeYJ,YngL，CXC.Househs'illngesstoeducepolltoreatsiegeregion，southern China.Journal of Geochemical Exploration，2011，11O(1）：15-22.  
+[6］张惠远，刘桂环.我国流域生态补偿机制设计.环境保护，2006，（10A）：49-54.  
+［7］胡振琪，程琳琳，宋蕾.我国矿产资源开发生态补偿机制的构想.环境保护，2006，（10A）：59-62.  
+［8］闵庆文，甄霖，杨光梅，张丹．自然保护区生态补偿机制与政策研究.环境保护，2006，（10A）：55-58.  
+［9］中国生态补偿机制与政策课题组.中国生态补偿机制与政策研究.北京：科学出版社，2007.  
+[10] 李文华，刘某承，闵庆文.中国生态农业的发展与展望.资源科学，2010，32(6)：1015-1021.  
+[11］谢高地，肖玉，甄霖，鲁春霞.我国粮食生产的生态服务价值研究.中国生态农业学报，2005，13（3）：10-13.  
+[12]Zhang D,Min Q W,Liu $\mathrm { ~ M ~ C ~ }$ ，Chang S K.Ecosystem service tradeoffbetween traditional and modern agriculture：a case study in Congjiangcounty，Guizhou province，China.Frontiers of Environmental Science & Engineering，2O12,6(5）：743-752.  
+[13］张丹，闵庆文，成升魁，刘某承，肖玉，张彪，孙业红，朱芳.传统农业地区生态系统服务功能价值评估——以贵州省从江县为例.资源科学，2009,31(1)：31-37.  
+[14]LiuMoadsoaesystem in Hani Terrace as an example.Journal of Mountain Science,2O14，11(4）：1049-1059.  
+[15］欧阳志云，郑华，岳平.建立我国生态补偿机制的思路与措施.生态学报，2013，33（3）：686-692.  
+[16］张永勋，刘某承，闵庆文，袁正，李静，樊淼.农业文化遗产地有机生产转换期农产品价格补偿测算——以云南省红河县哈尼梯田稻作系统为例.自然资源学报，2015，30（3）：374-383.  
+[17］王风，高尚宾，杜会英，倪喜云，杨怀钦.农业生态补偿标准核算——以洱海流域环境友好型肥料应用为例.农业环境与发展，2011,28(4):115-118.  
+[18]蔡银莺，张安录.基于农户受偿意愿的农田生态补偿额度测算——以武汉市的调查为实证．自然资源学报，2011,26(2）：177-189.  
+[19］刘某承，伦飞，张灿强，李文华.传统地区稻田生态补偿标准的确定——以云南哈尼梯田为例.中国生态农业学报，2012，20（6)：703- 709.  
+[20］刘某承，张丹，李文华.稻田养鱼与常规稻田耕作模式的综合效益比较研究——以浙江省青田县为例.中国生态农业学报，2010，18(1):164-169.  
+［21］刘利花.苏南地区稻田保护的激励机制研究.北京：中国农业科学院，2015.  
+[22] 蔡银莺，张安录.居民参与农地保护的认知程度及支付意愿研究——以湖北省为例.中国农村观察，2006，（6)：31-39.  
+[23］白艳莹，伦飞，曹智，何露，刘星辰，刘某承.哈尼梯田传统农业发展现状及其存在的问题——以红河县甲寅乡作夫村和咪田村为例.中国生态农业学报，2012，20(6)：698-702.  
+[24］吕明权，王继军，周伟.基于最小数据方法的滦河流域生态补偿研究.资源科学，2012，34（1)：166-172.  
+[25]CostanaR,AreR,GrotR,rber,Gso,HaonB,LimburgK,NamS,OeilVrueloJ,asiRG,uden Belt M.The value of the world's ecosystem servicesand natural capital.Nature，1997,387(6630）：253-260  
+[26]Tuer,ailyhossteeicsfraeokdaturalpiaseationvioetaldsoueEocs09(1): 25-35.  
+[27］唐增，黄茄莉，徐中民.生态系统服务供给量的确定——最小数据法在黑河流域中游的应用.生态学报，2010,30（9)：2354-2360.  
+[28］刘玉卿，宋晓谕，钟方雷，赵雪雁.最小数据方法在舟曲县生态补偿中的应用.中国人口·资源与环境,2011,21（6)：142-147.  
+[29]AntleJMValdiaROMdelingtesupplyfostservicesfrogriuueamiiumtaaahTutralaJoalfAgricultural and Resource Economics，2006,50(1）：1-15.

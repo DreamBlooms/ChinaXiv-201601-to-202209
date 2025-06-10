@@ -1,0 +1,840 @@
+[
+    {
+        "type": "text",
+        "text": "一种面向低轨卫星网络的高效无证书身份认证方案",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张毅，吴 奇，周霜霜，贾梦朝(重庆邮电大学 通信与信息工程学院，重庆 400065)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对现有低轨卫星网络认证方案采用集中认证方式认证存在时延大和采用复杂的双线性映射存在计算开销大的问题。引入无证书认证模型，在Gayathri方案的基础上，设计了一种高效无证书认证方案。该方案将用户的公钥和真实身份统一起来，使得认证过程中不需要第三方参与，降低了认证时延；通过椭圆曲线上少量点乘和点加运算构建认证消息，避免使用双线性映射，降低了计算开销。并在随机预言模型下，基于椭圆曲线离散数学对问题假设对其安全性进行了证明。最后，通过实验仿真，与现有低轨卫星身份认证方案相比，所提方案的认证时延、计算开销和通信开销较低。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：低轨卫星网络；身份认证；无证书；随机预言模型 中图分类号：TP309.2 doi:10.19734/j.issn.1001-3695.2022.02.0102 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Efficient certificatelessauthentication scheme forleo satellite networks ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhang Yi, Wu Qi†, Zhou Shuangshuang, Jia Mengzhao (School ofCommunication & Information Engineering,Chongqing Universityof Posts& Telecommunications,Chongqing 400065, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Aiming at the problems of long time delay and high computation cost of using complex bilinear mapping in the current LEO satelite network authenticationscheme,this paper proposed an efficient certificatelessauthentication scheme basedonthe Gayathri'scertificatelessauthenticationscheme.This schemeunifies the user's publickeyandrealidentity,so that need notthe third party to participate intheauthentication processandreduce the authentication delay;uses a small number of point multiplication and point adition operations on the eliptic curve to construct the authentication message, which does not involvethe bilinear mapping and reduces the computation cost.Then this paper proves the authentication scheme's security based on the assmption of eliptic curve discrete mathematics under the random oracle model. Finally, through experimentalsimulation,comparing with the existing LEO sateliteidentityauthenticationschemes,the proposed scheme has lower authentication delay, computational overhead and communication overhead. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:LEO satellite network; identity authentication ; certificateless; random oracle model ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着社会经济的发展，传统的地面网络已经无法满足人们在海洋、沙漠和深山等特殊区域的通信需求。而卫星网络具有覆盖面积广、通信距离远、不受地理条件限制的特点，可以有效弥补地基网络的不足。其中低轨(Low Earth Orbit,LEO)卫星网络具有低时延、通信功耗小、机动性高等优势[1],在卫星网络占据着越来越重要的作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LEO卫星网络具有节点暴露、信道开放、资源受限、网络拓扑结构高动态变化、用户终端海量等特点，导致用户接入LEO卫星网络容易遭受欺骗、恶意拦截、信息窃取等问题。因此LEO卫星网络的安全接入认证问题成为了人们关注的焦点。不同于地面网络，卫星网络节点资源和计算能力受限，无法承担复杂的计算和高额的通信开销。并且，相对于中轨和高轨卫星，用户在使用LEO卫星系统各项服务时，对于传输时延、实时性和丢包情况要求更高，所以认证时延不能太高。同时，LEO卫星链路切换更加频繁，过大的认证时延可能导致用户与原卫星的连接失效后还没与其他卫星建立连接从而连接中断，影响用户通信质量。所以，认证方案的设计应该在保证安全性的前提下，尽可能满足较小的计算开销、较低的认证时延低和通信成本。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "针对LEO卫星网络安全身份接入问题。早期Cruickshank等人[2]提出了一种基于公钥基础设施(Public KeyInfrastructure,PKI)的安全认证协议，其核心思想是通过通信双方的公私钥完成身份认证，但是认证过程中需要复杂的流程交互和计算开销，而且存在证书难以管理的问题。为了避免PKI体制的弊端，2015年Zhang等人[3]提出基于异或哈希的轻量认证方案，该方案通过用户到卫星到地面网络控制中(NetworkControlCenter,NCC)的方式完成三方认证，其中卫星在认证过程起到中转作用而不参与计算。虽然认证过程中计算开销很小，但是安全性低，认证过程中消息容易被破解。文献[4,5]提出基于哈希和对称加密的匿名认证方案。方案使用对称加密防止认证消息被破解，同时通过异或哈希对终端设备身份进一步隐藏，提高了安全性，但是仍然存在无法抵御服务器欺骗等攻击。为了进一步提高安全性，文献[6,7]基于椭圆曲线密码体制(Elliptic Curve Cryptography,ECC)设计了一种安全强度高的认证方案，并且通过安全形式化证明该类方案具有抵御各种已知攻击能力。但是，文献[3\\~7在认证过程中均需要NCC的参与，导致NCC负载过大，容易出现单点故障问题。同时认证过程中存在多轮信息交互，导致认证时延过大。随着星上处理能力的不断提高，2020年赵等人[8在基于身份密码体制(Identity-BasedCryptography,IBC)上，提出一种用户终端和卫星间端到端的认证方案，该方案仅在注册阶段需要密钥生成中心(Key Generation Center,KGC)生成公私钥，而在认证过程中，不需要第三方参与，从而降低了认证时延。但是其认证方案中使用了复杂的双线性映射，导致计算开销过大，同时由于KGC保存着所有用户终端设备的公私钥，所以存在密钥托管问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "无证书密码体制[9](CertificatelessPublic KeyCryptography,CL-PKC)可以很好地避免密钥托管问题，同时具有很高的安全性。所以在低轨卫星网络身份认证应用中具有很好的前景。但是现有低轨卫星中无证书认证方案很少，且主要关注在密钥协商[10]和特定卫星系统中[1I]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2017年，周等人[2]提出一种高效的无证书签密方案，该方案避免了计算量大的双线性运算，而使用少量群上点乘和点加运算，从而降低了计算开销，适用于计算资源有限的设备。但是文献[12]被文献[13]证明了存在安全缺陷，不能抵御伪造身份攻击。近年来，无证书认证方案广泛运用了其他资源受限的网络中，如物联网[14]和车联网[15,16]。对低轨卫星网络中采用无证书认证的方案设计提供了很好的研究思路。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综述，现有认证方案无法满足LEO卫星高效认证需求。因此，根据以上研究基础，本文在Gayathri等人方案上，结合低轨卫星网络特点，提出了一种高效无证书身份认证方案。该方案中用户认证过程中不需要NCC参与，降低了认证时延；同时通过椭圆曲线上少量点乘和点加运算构建认证消息，计算开销低且安全性高。最后在随机预言模型下证明了方案的安全性，并和已有方案性能进行了对比分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 预备知识 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1困难问题",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "椭圆曲线离散数学对问题(EllipticCurveDiscretelogarithm,ECDLP)。令 $P$ 是阶为大素数 $q$ 的循环群G的一个生成元；而任意的概率多项式算法 $A$ 成功解决 ECDLP问题概率 $A d \\nu ^ { D L } ( A ) = \\operatorname* { P r } [ A ( P , s _ { m } P = s _ { m } ) ]$ 是可忽略的，概率来源于 $s _ { m }$ 在${ Z _ { q } } ^ { * }$ 上随机选取和算法 $A$ 的随机选择。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2无证书认证方案流程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "无证书认证方案主要包括以下五个阶段：初始化阶段(Setup)、秘密值生成阶段(Set-secret-key)、部分密钥生成阶段(Set-private-key)、签名阶段(Sign)和验证阶段(Verify)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "初始化(Setup)：该阶段由KGC 执行，以安全参数 $k$ 作为输入，生成系统的主密钥 $s$ 和系统公共参数params。秘密值生成(Set-secret-key):该阶段由用户终端设备执行，以用户设备 $I D$ 作为输入，生成用户终端秘密值 $x$ 和公开参数 $X$ 。部分密钥生成(Set-private-key)：该阶段由KGC执行，以用户设备 $I D$ 和公开参数 $X$ 作为输入，生成用户部分密钥 $( R , d )$ 。签名(Sign)：该阶段由任意合法设备执行，输入任意消息 $m$ 和该设备的私钥对 $( x , d )$ ·生成该消息的签名 $\\sigma$ 。验证(Verify)：该阶段由任意合法设备执行，输入任意消息 $m$ 和签名 $\\sigma$ ，输出验证结果(true/false)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3Gayathri等人方案回顾 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "令签名者 $\\mathrm { \\Delta V }$ 和验证者 $\\mathrm { ~ \\tt ~ R ~ }$ 为无证书认证方案的主要实体。按照Gayathri等人方案，则 $\\mathrm { ~ v ~ }$ 生成的公私钥对为$< P K _ { i } = ( X _ { i } , R _ { i } ) , S K _ { i } = ( d _ { i } , x _ { i } ) >$ 。 $P K _ { i }$ 由PKG生成部分公钥 $R _ { i }$ 和自己生成的部分公钥 $X _ { i }$ 组成。同理， ${ \\cal { S } } K _ { i }$ 是由PKG生成部分私钥 $d _ { i }$ 和自己生成的部分私钥 $x _ { i }$ 组成。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "签名阶段(Sign): $\\mathrm { \\Delta V }$ 选取随机数 $y _ { 1 i } , y _ { 2 i } \\in Z _ { q } ^ { * }$ ，获取当前时间$t _ { i }$ ，然后按照如下方式计算部分密钥 $Y _ { 1 i } , Y _ { 2 i }$ 和签名 $w _ { i }$ ，然后发送认证请求 $m _ { i } , \\sigma _ { i } = ( R _ { i } , Y _ { 1 i } , u _ { i } , w _ { i } )$ 到验证者 $\\mathrm { ~ \\tt ~ R ~ }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { Y _ { 2 i } = [ ( y _ { 2 i } x _ { i } + h _ { 2 i } d _ { i } ) \\bmod q ] P _ { p u b } = ( u _ { i } , \\nu _ { i } ) , } \\\\ & { w _ { i } = [ u _ { i } ( y _ { 1 i } + h _ { 3 i } x _ { i } ) + h _ { 4 i } d _ { i } ] \\bmod q } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中, $h _ { 2 i } = H _ { 2 } ( { m _ { i } } , I D _ { i } , Y _ { 1 i } ) ~ , ~ h _ { 3 i } = H _ { 3 } ( { m _ { i } } , I D _ { i } , Y _ { 1 i } , R _ { i } , t _ { i } ) ~ , ~ h _ { 4 i } = H _ { 4 } ( { m _ { i } } , I D _ { i } , Y _ { 1 i } , R _ { i } , t _ { i } ) ,$ $R _ { i } , t _ { i } )$ 表示摘要值； $( u _ { i } , \\nu _ { i } )$ 表示椭圆曲线上一点的横纵坐标。 $P$ ，$P _ { p u b }$ 、 $q$ 分别表示椭圆曲线生成元、系统公钥和大素数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "验证阶段(Verify)：R收到 $\\mathrm { \\Delta V }$ 的认证请求后，验证式(1)是否成立，若成立，则表示认证成功，否则，认证失败。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { i } P - u _ { i } ( Y _ { 1 i } + h _ { 3 i } X _ { i } ) = h _ { 4 i } ( R _ { i } + h _ { 1 i } P _ { p u b } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4Gayathri等人方案安全性缺陷",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据文献[9]描述，无证书密钥体制存在 $\\boldsymbol { \\mathcal { A } }$ 类敌手，该类敌手具有替换合法用户公钥的能力，但它不掌握系统主密钥。当 $\\boldsymbol { \\mathcal { A } }$ 获取 $\\mathrm { \\Delta V }$ 公钥 $P K _ { i }$ 后，然后伪造公钥替代 $P K _ { i }$ ，生成伪造签名 $\\sigma$ 。 $\\mathcal { A }$ 与 $\\mathrm { ~ \\tt ~ R ~ }$ 的具体交互过程如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "签名(Sign)： $\\boldsymbol { \\mathcal { A } }$ 通过公开信道获取 $\\mathrm { \\Delta V }$ 的公钥 $P K _ { i } = ( X _ { i } , R _ { i } )$ 和身份标识符 $I D _ { i }$ 后：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "获取当前时间 $t _ { i } ^ { \\prime }$ ，选取随机数 ${ y _ { 1 i } } ^ { \\prime } \\in { Z _ { q } } ^ { * }$ ，计算:",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { { Y _ { 1 i \\ ^ { ' } } } = { y _ { 1 i \\ ^ { ' } } } P = ( u _ { i \\ ^ { ' } } , { \\nu _ { i \\ ^ { ' } } } ) } \\\\ & { h _ { 1 i \\ } = H _ { 1 } ( I D _ { i } , R _ { i } , P _ { p u b } ) } \\\\ & { h _ { 3 i \\ ^ { ' } } = H _ { 3 } ( m _ { i \\ ^ { ' } } , I D _ { i } , Y _ { 1 i \\ ^ { ' } } , R _ { i } , t _ { i \\ ^ { ' } } ) } \\\\ & { h _ { 4 i \\ } = H _ { 4 } ( m _ { i \\ ^ { ' } } , I D _ { i } , Y _ { 1 i \\ ^ { ' } } , R _ { i } , t _ { i \\ ^ { ' } } ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "伪造公钥为 $P K _ { i } = ( X _ { i } ^ { \\prime } , R _ { i } )$ ，并替换成 $\\mathrm { ~ v ~ }$ 的公钥。其中$X _ { i } { ' } = h _ { 3 i } { ' } ^ { - 1 } [ - u _ { i } { ' } Y _ { 1 i } { ' } - h _ { 4 i } ( R _ { i } + h _ { 1 } P _ { p u b } ) ] + Y _ { 1 i } { ' } \\qquad $ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "然后生成签名 $w _ { i } = { y _ { 1 i } } ^ { \\prime }$ 最后发送认证请求 $\\left( m _ { i } ^ { \\prime } , \\sigma _ { i } = ( R _ { i } , Y _ { 1 i } ^ { \\prime } , u _ { i } ^ { \\prime } , w _ { i } ^ { \\prime } ) \\right) ^ { * }$ 门到 $\\mathtt { R }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "验证(Verify)： $\\mathtt { R }$ 收到 $\\mathrm { \\Delta V }$ 的认证请求后：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)计算：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { { h _ { 3 i } } ^ { \\prime } = H _ { 3 } ( { m _ { i } ^ { \\prime } } , I D _ { i } , Y _ { 1 i } ^ { \\prime } , R _ { i } , t _ { i } ^ { \\prime } ) } \\\\ & { { } } \\\\ & { { { h _ { 4 i } } ^ { \\prime } } = H _ { 4 } ( { m _ { i } ^ { \\prime } } , I D _ { i } , Y _ { 1 i } ^ { \\prime } , R _ { i } , t _ { i } ^ { \\prime } ) } \\\\ & { { } } \\\\ & { { { h _ { 1 i } } = H _ { 1 } ( I D _ { i } , R _ { i } , P _ { p u b } ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）验证式(2)是否成立，若成立，则表示认证成功，否则，认证失败。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { i } ^ { \\prime } P - u _ { i } ^ { \\prime } ( Y _ { 1 i } + h _ { 3 i } ^ { \\prime } X _ { i } ^ { \\prime } ) = h _ { 4 i } ^ { \\prime } ( R _ { i } + h _ { 1 i } P _ { p u b } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因为敌手 $\\boldsymbol { \\mathcal { A } }$ 伪造 $\\mathrm { \\Delta V }$ 的签名 $\\sigma _ { i }$ 满足式(1)，所以可以通过R的验证。因此 $\\boldsymbol { \\mathcal { A } }$ 具有伪造成合法用户的能力，Gayathri等人方案无法满足所声称的对 $\\boldsymbol { \\mathcal { A } }$ 敌手的不可伪造性。证明如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { 4 i } { ' } ( R _ { i } + h _ { 1 i } P _ { p u b } ) + u _ { i } { ' } ( Y _ { 1 i } + h _ { 3 i } { ' } X _ { i } { ' } ) =\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ h _ { 4 i } } ^ { \\prime } ( R _ { i } + h _ { 1 i } P _ { p u b } ) + { u _ { i } } ^ { \\prime } Y _ { 1 i } + { h _ { 3 i } } ^ { \\prime } { X _ { i } } ^ { \\prime } = Y _ { 1 i } = { y _ { 1 i } } ^ { \\prime } P = w _ { i } ^ { \\prime } P\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 本文方案",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 系统模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "方案的系统模型如图1所示，下面对低轨网络认证中主要实体做简要介绍。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)KGC：所有实体信息的管理者。它发布公开系统参数，并负责设备信息注册，为合法设备生成公私钥对。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)LEO卫星：卫星网络节点，距离高度一般为500-$2 0 0 0 \\mathrm { k m }$ ，传播时延一般在 $2 0 { \\sim } 4 0 \\mathrm { m s }$ 左右，主要负责用户的接入和数据的传输。本方案中卫星有一定计算能力，具备验证用户合法性的功能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c）用户终端：主要包括手机、车辆、飞机、用户等地面终端，需要通过低轨卫星网络获取相应的服务。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2方案流程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文方案主要包括4个阶段：系统初始化阶段、秘密值生成阶段、部分私钥生成阶段、双向认证阶段。符号及其含义如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.1系统初始化阶段",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "该阶段由KGC执行，KGC选取阶数为 $q$ 的循环群 $G$ ，其中 $q$ 为大素数( $q > 2 ^ { k }$ ， $k$ 为安全参数)， $P$ 为 $G$ 的一个生成元。定义： $H _ { 1 } : \\{ 0 , 1 \\} ^ { l _ { u } } \\times G \\times G \\to Z _ { q } ^ { * }$ ， $H _ { 2 } : \\{ 0 , 1 \\} ^ { * } \\to Z _ { q } ^ { * }$ ， $l _ { u }$ 为用户身份标识符 $I D$ 的长度。然后KCG随机选取系统主密钥 $s _ { m } \\in \\boldsymbol { Z _ { q } } ^ { * }$ ，计算系统公钥 $P _ { p u b } = s _ { m } P$ 。然后公开参数（204号 $p a r a m s = < q , P , G , P _ { p u b } , H _ { 1 } , H _ { 2 } > \\ _ { \\mathrm { ~ ( ~ } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ecb9788d3022c3b3a0ccc795473070e8f6e6e73ec41f0a2acbcf95c07dc70252.jpg",
+        "table_caption": [
+            "表1符号及其含义",
+            "Tab.1Symbols and their meanings "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>符号</td><td>含义</td></tr><tr><td>q</td><td>大素数</td></tr><tr><td>Zq*</td><td>小于q的正整数</td></tr><tr><td>Sm</td><td>系统主密钥</td></tr><tr><td>params</td><td>系统公开参数</td></tr><tr><td>Ppub</td><td>系统公钥</td></tr><tr><td>IDi,i∈{U,S}</td><td>用户和卫星的身份标识符</td></tr><tr><td>PK=(X,R),i∈{U,S}</td><td>用户和卫星的的公钥对</td></tr><tr><td>SK=(x,di),i∈{U,S}</td><td>用户和卫星的的私钥对</td></tr><tr><td>Q,i∈{U,S}</td><td>用户和卫星部分密钥</td></tr><tr><td>H,H2</td><td>单向哈希函数</td></tr><tr><td>r,a,s1</td><td>Z*上的随机数</td></tr><tr><td>m</td><td>消息</td></tr><tr><td>o,i∈{U,S}</td><td>用户和卫星对消息的签名</td></tr><tr><td>(u1,V1),(u2,V2)</td><td>椭圆曲线上一点横轴坐标</td></tr><tr><td>n,w,a,a2</td><td>中间变量</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2秘密值生成阶段该阶段由用户终端和卫星分别执行。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设用户终端设备为 $I D _ { U }$ ， $I D _ { U }$ 随机选取秘密值 $\\boldsymbol { x } _ { U } \\in \\boldsymbol { Z } _ { q } ^ { \\ * }$ ，计算公开参数 $X _ { U } = x _ { U } P$ ，然后通过安全通道发送 $( m _ { U } , X _ { U } )$ 到KGC。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设卫星设备为 $I D _ { s }$ ， $I D _ { s }$ 随机选取秘密值 $x _ { S } \\in { Z _ { q } } ^ { * }$ ，计算公开参数 $X _ { s } = x _ { s } P$ ，然后通过安全通道发送 $( I D _ { s } , X _ { s } )$ 到KGC。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.3部分密钥生成阶段",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "该阶段由KGC、用户终端和卫星分别执行。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "KGC收到用户终端设备身份标识符 $I D _ { U }$ 和公开参数 $ { \\boldsymbol { X } } _ { U }$ ，然后随机选取 $r _ { U } \\in { Z _ { q } } ^ { * }$ ，并计算 $R _ { U } = r _ { U } P$ ， $d _ { U } = r _ { U } + s _ { m } H _ { 1 } ( I D _ { U } , X _ { U } , R _ { U } )$ 。然后通过安全信道将 $( R _ { U } , d _ { U } )$ 返回给设备；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用户终端收到KGC返回密钥后，验证$d _ { U } P = R _ { U } + P _ { p u b } H _ { 1 } ( I D _ { U } , X _ { U } , R _ { U } )$ 是否成立判断KCG生成密钥的合法性。若验证不通过，则重新向密钥KGC申请密钥。否则，密钥生成成功。最终，用户终端 $I D _ { U }$ 的公钥为 $P K _ { U } = < X _ { U } , R _ { U } >$ ，私钥为 $S K _ { U } = < x _ { U } , d _ { U } >$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同理，卫星 $I D _ { s }$ 的公钥为 $P K _ { s } = < X _ { s } , R _ { s } >$ ，私钥为$S K _ { s } = < x _ { s } , d _ { s } >$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/296ef20a9e8fc4b9ff93e8bf61f35c72a44cf11a341e04dc68941280442afd89.jpg",
+        "img_caption": [
+            "图1低轨卫星网络系统模型",
+            "Fig.1LEO satellite network system model "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.4双向认证阶段",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用户U(身份标识符为 $I D _ { U }$ )和卫星S(身份标识符 $I D _ { s }$ )进行双向身份认证流程如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用户U随机选取 $a _ { 1 } \\in { Z _ { q } } ^ { * }$ 计算 $Q _ { U } = a _ { 1 } P = ( u _ { 1 } , \\nu _ { 1 } )$ ，时间戳 $T _ { \\upsilon }$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "计算 $n _ { U } = H _ { 2 } ( I D _ { U } , X _ { U } , T _ { U } , R _ { U } , Q _ { U } , m )$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "然后生成签名 $\\sigma _ { U } = a _ { 1 } { } ^ { - 1 } ( n _ { U } x _ { U } + u _ { 1 } d _ { U } ) { \\bmod { q } }$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "发送认证请求 $r e q = ( I D _ { U } , X _ { U } , R _ { U } , Q _ { U } , T _ { U } , \\sigma _ { U } , m )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "卫星S收到用户发送的认证请求 $r e q$ 后，获取当前时间",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$T$ ，判断 $T - T _ { U } \\le \\Delta T$ 是否成立，若不成立则认为消息不新鲜，然后丢弃消息并停止操作。否则：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "计算 $w = { \\sigma _ { U } } ^ { - 1 }$ ， $h _ { \\scriptscriptstyle U } = H _ { 1 } ( I D _ { \\scriptscriptstyle U } , X _ { \\scriptscriptstyle U } , { \\bf R } _ { \\scriptscriptstyle U } )$ ， ${ n _ { U } } ^ { \\prime } = H _ { 2 } ( I D _ { U } , X _ { U } , T _ { U } , R _ { U } , Q _ { U } , m )$ ：计算 $\\alpha _ { 1 } = n _ { U } ^ { \\prime } w , \\alpha _ { 2 } = u _ { 1 } w$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "验证 $Q _ { U } = \\alpha _ { 1 } X _ { U } + \\alpha _ { 2 } ( R _ { U } + h _ { U } P _ { p u b } )$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "若卫星S验证用户U身份合法性通过后，卫星S随机选取 $s _ { 1 } \\in { Z _ { q } } ^ { * }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "计算 $Q _ { s } = s _ { 1 } P = ( u _ { 2 } , \\nu _ { 2 } )$ ，时间戳 $T _ { s }$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "计算 $n _ { S } = H _ { 2 } ( I D _ { S } , X _ { S } , T _ { S } , R _ { S } , \\mathcal { Q } _ { S } )$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "然后生成签名 $\\sigma _ { S } = a _ { 1 } ^ { - 1 } ( n _ { S } x _ { S } + u _ { 2 } d _ { S } ) \\bmod q$ 返回认证响应 $r e s = ( I D _ { s } , X _ { s } , R _ { s } , Q _ { s } , T _ { s } , \\sigma _ { s } )$ 0 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用户收到卫星返回的认证响应后，获取当前时间 $T$ ，判断 $T - T _ { U } \\le \\Delta T$ 是否成立，若不成立则认为消息不新鲜，认证失败。否则：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "计算 $h _ { s } = H _ { 1 } ( I D _ { s } , X _ { s } , { \\bf R } _ { s } )$ ， $w = \\sigma _ { S } { ^ { - 1 } }$ ， ${ n _ { s } } ^ { \\prime } = ( I D _ { s } , X _ { s } , T _ { s } , R _ { s } , Q _ { s } )$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "计算 $\\alpha _ { 1 } = n _ { s } ^ { \\prime } w , \\alpha _ { 2 } = u _ { 2 } w$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "验证 $Q _ { S } = \\alpha _ { 1 } X + \\alpha _ { 2 } ( R _ { S } + h _ { S } P _ { p u b } )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如果用户U和卫星S顺利进行完成以上步骤，则认为用户和卫星双向认证成功。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 安全性证明与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 正确性证明",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "卫星在认证请求阶段判断签名是否成立的正确性分析如下：如果用户签名合法，那么签名需要满足等式$Q _ { U } = \\alpha _ { 1 } X _ { U } + \\alpha _ { 2 } ( R _ { U } + h _ { U } P _ { p u b } )$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由用户秘密值生成阶段和部分密钥生成阶段可知：用户密钥满足等式 $d _ { U } P = R _ { U } + P _ { p u b } H _ { 1 } ( I D _ { U } , X _ { U } , R _ { U } )$ 、 $X _ { U } = x _ { U } P$ 。所以卫星可以通过计算得到的 $h _ { U }$ 和公开参数 $X _ { U }$ 、 $R _ { U }$ 、 $P _ { p u b }$ 计算出 $x _ { U } P$ 和 $d _ { U } P$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)进一步，卫星可进行如下计算：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha _ { 1 } X _ { U } + \\alpha _ { 2 } ( R _ { U } + h _ { U } P _ { p u b } ) = \\alpha _ { 1 } x _ { U } P + \\alpha _ { 2 } d _ { U } P =\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\alpha _ { 1 } x _ { U } + \\alpha _ { 2 } d _ { U } ) P = \\ w ( n _ { U } \\prime x _ { U } + u _ { 1 } d _ { U } ) P = \\sigma _ { U } ^ { - 1 } ( n _ { U } \\prime x _ { U } + u _ { 1 } d _ { U } ) P\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "而用户在生成签名时，签名 $\\sigma _ { U }$ 满足等式$\\sigma _ { U } = a _ { 1 } ^ { - 1 } ( n _ { U } x _ { U } + u _ { 1 } d _ { U } )$ ，带入上一步，就可以得到$\\alpha _ { 1 } X _ { U } + \\alpha _ { 2 } ( R _ { U } + h _ { U } P _ { p u b } ) = a _ { 1 } P = Q _ { U }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 安全性正式证明",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定理1假定敌手 $\\boldsymbol { \\mathcal { A } }$ 在多项式时间内，以无法忽视的优势 $\\zeta _ { 1 }$ 成功伪造出一个签名，则挑战者 $c$ 能够以(-)-)()5解决ECDLP问题。其中qp表示部分密钥 qqqc+1生成查询次数， $q _ { s }$ 表示秘密值查询次数， $q _ { c }$ 表示次签名查询次数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "证明假设一个敌手 $\\boldsymbol { \\mathcal { A } }$ 能在本方案中能以优势 $\\zeta _ { 1 }$ 成功伪造目标用户 $I D _ { i }$ 的有效签名。则对于给定的 $( P , Q = a P )$ ，挑战者 $c$ 的目标是计算出 $a$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "挑战者 $c$ 与 $\\boldsymbol { \\mathcal { A } }$ 的交互流程如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "初始化阶段： $c$ 首先运行Setup 程序构建系统，令$P _ { p u b } = s _ { m } P$ ，然后公开系统的参数 $p a r a m s { = } { < } q , P , G , P _ { p u b } , H _ { 1 } , H _ { 2 } >$ 。建立并维护 $L _ { 1 } , L _ { 2 } , L _ { P } , L _ { s } , L _ { k }$ 5个表，哈希表 $L _ { 1 }$ 填充内容为$( I D , X , R , h _ { 1 } )$ ，哈希表 $\\boldsymbol { L } _ { 2 }$ 填充内容为 $( I D , X , R , T , Q , m , h _ { 2 } )$ ，部分密钥值表 $L _ { P }$ 填充内容为 $( I D , R , d )$ ，秘密值表 $L _ { s }$ 填充内容为 $( I D , x )$ ，公钥表 $L _ { k }$ 填充内容为 $( I D , X , R )$ 。初始化时，各个表格内容为空。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "预言机查询阶段：本阶段 $\\mathcal { A }$ 与 $c$ 之间进行如下预言机交互：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$L _ { 1 }$ 查询：当 $\\boldsymbol { \\mathcal { A } }$ 输入 $( I D , X _ { i } , R _ { i } )$ 时进行询问时。若 $L _ { 1 }$ 存在相应的元组 $( I D , X _ { i } , R _ { i } , h _ { 1 } )$ ，则返回 $h _ { 1 }$ 给 $\\boldsymbol { \\mathcal { A } }$ ；否则，则 $c$ 随机选取$h _ { 1 } \\in Z _ { q } { ^ * }$ ，然后返回 $h _ { 1 }$ 给 $\\boldsymbol { \\mathcal { A } }$ ，并保存 $( I D , X _ { i } , R _ { i } , h _ { 1 } )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$L _ { 2 }$ 查询：当 $\\boldsymbol { \\mathcal { A } }$ 输入 $( I D , X _ { i } , R _ { i } , T _ { i } , { \\cal Q } _ { i } , m _ { i } )$ 进行询问时。若 $L _ { 2 }$ 存在相应的元组 $( I D , X _ { i } , R _ { i } , T _ { i } , Q _ { i } , m _ { i } , h _ { 2 } )$ ，则返回 $h _ { 2 }$ 给 $\\mathbf { \\mathcal { A } }$ ；否则，则$c$ 随机选取 $h _ { 2 } \\in { Z _ { q } } ^ { * }$ ，然后返回 $h _ { 2 }$ 给 $\\boldsymbol { \\mathcal { A } }$ ，并保存$( I D , X _ { i } , R _ { i } , T _ { i } , Q _ { i } , m _ { i } , h _ { 2 } )$ 到 $\\boldsymbol { L } _ { 2 }$ 中。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "部分密钥生成查询：当 $\\boldsymbol { \\mathcal { A } }$ 输入 $( I D , X _ { i } )$ 进行询问时，首先判断 $I D = I D *$ 是否成立，若成立，则 $c$ 终止模拟。若不成立，则判断 $L _ { P }$ 是否存在相应的元组 $( I D , R _ { i } , d _ { i } )$ ，若存在，则返回$( R _ { i } , d _ { i } )$ 给 $\\mathbf { \\mathcal { A } }$ ，否则 $c$ 随机选取 $d _ { i } , h _ { 1 } \\in Z _ { q } ^ { * }$ ，并计算 $R _ { i } = d _ { i } P - h _ { 1 } P _ { p u b }$ ，然后返回 $( R _ { i } , d _ { i } )$ 给 $\\boldsymbol { \\mathcal { A } }$ 。最后，保存 $( I D , R _ { i } , d _ { i } )$ 到 $L _ { p }$ 中，并添加$( I D , X _ { i } , R _ { i } , h _ { 1 } )$ 到 $L _ { 1 }$ 中。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "秘密值查询：当 $\\boldsymbol { \\mathcal { A } }$ 输入 $I D$ 进行询问时，首先判断 $I D = I D *$ 是否成立，若成立，则 $c$ 终止模拟。若不成立，则判断 $L _ { s }$ 是否存在相应的元组 $( I D , x _ { i } )$ ，若存在，则返回 $x _ { i }$ 给 $\\boldsymbol { \\mathcal { A } }$ ，否则 $c$ 随机选取 $x _ { i } \\in { Z _ { q } } ^ { * }$ ，然后返回 $x _ { i }$ 给 $\\boldsymbol { \\mathcal { A } }$ 然后保存 $( I D , x _ { i } )$ 到 $L _ { s }$ 中。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "公钥生成查询：当 $\\boldsymbol { \\mathcal { A } }$ 输入 $( I D , m _ { i } )$ 进行询问时，若 $L _ { k }$ 存在相应的元组 $( I D , X _ { i } , R _ { i } )$ ，则返回 $( X _ { i } , R _ { i } )$ 给 $\\boldsymbol { \\mathcal { A } }$ ，否则， $c$ 随机选取 $\\boldsymbol { x _ { i } } \\in \\boldsymbol { Z _ { q } } ^ { * }$ ，计算 $X _ { i } = x _ { i } P$ ，通过 $( I D , X _ { i } )$ 对 $L _ { P }$ 进行查询得到 $( R _ { i } , d _ { i } )$ ，然后返回 $( I D , X _ { i } , R _ { i } )$ 给 $\\boldsymbol { \\mathcal { A } }$ ，并分别添加 $( I D , R _ { i } , d _ { i } )$ ， $( I D , X _ { i } )$ 到 $L _ { P }$ 和 $L _ { s }$ 中。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "公钥替换： $\\mathbf { \\mathcal { A } }$ 可以选择一个新的公钥 $( X _ { i } ^ { \\prime } , R _ { i } )$ 替换任意合法用户公钥 $( X _ { i } , R _ { i } )$ ，并保存到 $L _ { P }$ 中。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "签名查询：当 $\\boldsymbol { \\mathcal { A } }$ 以 $( I D , m _ { i } )$ 进行询问时，首先判断 $I D = I D *$ 是否成立，若成立，则 $c$ 终止模拟。不然，随机选取 $a _ { i } \\in \\boldsymbol { Z } _ { q } ^ { * }$ ，计算 $Q _ { i } = a _ { i } P = ( u _ { i } , \\nu _ { i } )$ ，然后分别通过 $L _ { 2 } ~ L _ { P } ~ L _ { s }$ 分别获取 $h _ { 2 }$ 、 $d _ { i }$ 、$x _ { i }$ ，计算 $\\sigma _ { i } = a _ { i } ^ { - 1 } ( h _ { 2 } x _ { i } + u _ { i } d _ { i } ) { \\bmod { q } }$ ，返回 $( Q _ { i } , \\sigma _ { i } )$ 给 $\\boldsymbol { \\mathcal { A } }$ 0",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "初始化阶段：本阶段 $\\boldsymbol { \\mathcal { A } }$ 通过 $c$ 之间的交互后，尝试伪造合法用户签名。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "伪造：最后 $\\mathcal { A }$ 伪造出 $^ { I D * }$ 的一个签名 $( Q _ { i } ^ { * } , { \\sigma } _ { i } ^ { * } )$ ，如果等式(3)成立，则 $\\boldsymbol { \\mathcal { A } }$ 伪造成功。其中 ${ \\boldsymbol { u } } _ { i } ^ { * }$ 为 $Q _ { i } ^ { \\cdot }$ 的一部分。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { 2 } { ^ \\ast } \\sigma _ { i } ^ { \\ast - 1 } X _ { i } { ^ \\ast } + u _ { i } { ^ \\ast } \\sigma _ { i } ^ { \\ast - 1 } ( R _ { i } ^ { \\ast } + h _ { 1 } { ^ \\ast } P _ { p u b } ) = Q _ { i } { ^ \\ast }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据分叉引理[15]， $\\boldsymbol { \\mathcal { A } }$ 能够在多项式时间内以同样的方式选择不同的 $h _ { 1 } ^ { \\prime }$ 成功伪造另一个签名 $( { Q } _ { i } ^ { * } , \\sigma _ { i } ^ { \\prime } )$ 满足等式(4)。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { 2 } { ^ \\ast } \\sigma _ { i } ^ { \\prime - 1 } X _ { i } { ^ \\ast } + u _ { i } { ^ \\ast } \\sigma _ { i } ^ { \\prime - 1 } ( R _ { i } { ^ \\ast } + h _ { 1 } { ^ \\ast } P _ { p u b } ) = Q _ { i } { ^ \\ast }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "所以由等式(3)(4)可得",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathcal { Q } _ { i } ^ { * } ( \\sigma _ { i } ^ { * - 1 } - \\sigma _ { i } ^ { \\prime - 1 } ) = { u _ { i } } ^ { * } ( h _ { 1 } ^ { * } - h _ { 1 } ^ { \\prime } ) P _ { p u b } } \\\\ & { a _ { i } ^ { * } ( \\sigma _ { i } ^ { * - 1 } - { \\sigma _ { i } } ^ { \\prime - 1 } ) P = { u _ { i } } ^ { * } ( h _ { 1 } ^ { * } - h _ { 1 } ^ { \\prime } ) s _ { m } P } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$c$ 可计算出 $s _ { m } = a _ { i } { ^ * } ( \\sigma _ { i } { ^ * } { - } \\sigma _ { i } { ^ { \\prime } } { ^ { - 1 } } ) u _ { i } { ^ { * } } { - } 1 ( h _ { 1 } { ^ { * } } - h _ { 1 } { ^ { \\prime } } ) ^ { - 1 }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "概率分析：设在多项式时间内， $c$ 最多进行 $q _ { p }$ 次部分密钥生成查询， $q _ { s }$ 次秘密值查询， $q _ { c }$ 次签名(即选取了 $q _ { c }$ 个身份进行签名询问，1个身份作为挑战即 $^ { I D * }$ )后，成功解决ECDLP问题，那么 $c$ 在模拟过程中必须满足以下三个条件：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$E _ { 1 }$ ：签名阶段未终止(未选中 $^ { I D * }$ ）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$E _ { 2 }$ ： $c$ 未对目标身份号 ${ \\left( \\ I D * \\right) }$ 进行部分密钥生成查询或秘密值查询。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$E _ { 3 }$ ： $\\sigma$ 是关于 $^ { I D * }$ 的一个有效签名。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "所以，优势可以表示为 $P _ { r } [ E _ { 1 } \\land E _ { 2 } \\land E _ { 3 } ]$ 。而 $P _ { r } [ E _ { 1 } ] { = } ( 1 { - } \\frac { 1 } { q _ { c } + 1 } ) ^ { q _ { c } }$ $P _ { r } [ E _ { 1 } | E _ { 2 } ] { = } ( 1 { - } \\frac { q _ { p } } { q } ) ( 1 { - } \\frac { q _ { s } } { q } )$ 、 $P _ { r } [ E _ { 3 } | E _ { 1 } \\land E _ { 2 } ] = \\zeta _ { 1 }$ 。所以模拟过程不终止的概率为 $P _ { r } [ E _ { 1 } \\wedge E _ { 2 } \\wedge E _ { 3 } ] = ( 1 - \\frac { q _ { p } } { q } ) ( 1 - \\frac { q _ { s } } { q } ) ( \\frac { q _ { c } } { q _ { c } + 1 } ) ^ { q _ { c } } \\zeta _ { 1 } \\ \\mathrm { ~ _ c ~ }$ （20",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定理2假定敌手 $\\mathscr { A } _ { 2 }$ 在多项式时间内，以无法忽视的优势 $\\zeta _ { 2 }$ 能够成功伪造出一个签名，则挑战者 $c$ 能够以(1-)(-)()解决ECDLP问题，其中q表示公钥生成 qqqn+1查询次数， $q _ { s }$ 表示秘密值查询次数， $q _ { n }$ 表示次签名查询次数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "证明 证明过程和定理1类似。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3安全性形式化分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "签名不可链接性：在本文方案中，用户终端和卫星每次生成签名 $\\sigma _ { i } = a _ { i } ^ { - 1 } ( n _ { i } x _ { i } + u d _ { i } ) { \\bmod { q } }$ 都需要随机选取的 $a _ { i }$ ，导致每次生成签名都是随机的，因此签名之间没有任何联系，具有签名不可链接性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "前向安全性：前向安全性可以保障用户终端前后的认证消息不会互相影响。本文方案中，当用户终端 $S K _ { U } = < x _ { U } , d _ { U } >$ 遭到破坏时，也不会泄露先前建立的会话密钥信息。因为会话密钥 $k = a _ { 1 } Q _ { s } = s _ { 1 } Q _ { u }$ 是基于迪菲-赫尔曼密钥交换(Diffie-HellmanKeyExchange,DHKE)协议生成的，不依赖于用户终端的私钥，因此本文认证方案具有前向安全性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)抗重放攻击：认证过程中，卫星和用户终端都会根据当前的时间戳判断收到消息的新鲜性，若大于系统设定最大忍受时延，则会丢弃消息，从而使攻击者对消息的重放攻击无效。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b)抵御中间人或假冒攻击：攻击者无法根据截获用户发送的认证消息伪造用户终端的签名。因为认证消息构建的安全基础是基于椭圆曲线上的离散对数问题的困难性，所以攻击者无法伪造认证消息。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "密钥托管弹性：在所提出的方案中，用户终端和卫星的私钥 $S K _ { i } = < x _ { i } , d _ { i } >$ 包括由KGC计算的部分私钥 $d _ { i }$ 以及用户终端和卫星随机选择的 $x _ { i }$ ，因此，恶意的KGC在不知道 $x _ { i }$ 的情况下无法生成有效的签名。所以，所提出的方案不受密钥托管问题的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 实验仿真",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "计算开销、认证时延和通信开销是衡量身份认证方案优劣的最直观的指标。本节将从计算开销、认证时延和通信开销三方面与近年来发表的、安全性较高的接入认证方案相对比。选取的对比方案分别为：文献[7]提出的基于三因素椭圆曲线认证方案、文献[8]提出的基于双线性配对的认证方案和文献[11]提出的基于双线性配对的无证书认证方案。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1实验环境 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文实验环境操作系统为Ubuntu18.04.664bit，在VMware虚拟机运行，运行内存为4GB。硬件环境为Inteli5-10210U1.60GHz。本文所提的认证方案在Charm-crypto 库上实现，操作运算基于底层PCB库。随机模拟100次不同密码运行操作进行分析，得到的结果见表2。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/afb17f09171aa0a5984de0dec778e82a0a9512b1c54081b0e48af1821e332005.jpg",
+        "table_caption": [
+            "表2不同操作运行时间(ms)",
+            "Tab.2Running time of different operations(ms) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>符号</td><td>操作</td><td>时间</td></tr><tr><td>Tpar</td><td>双线性对运算</td><td>5.9297</td></tr><tr><td>Em</td><td>椭圆曲线上点乘运算</td><td>1.0494</td></tr><tr><td>EA</td><td>椭圆曲线上点加运算</td><td>0.0016</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2计算开销和认证时延分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在方案对比时，主要考虑 $E _ { \\scriptscriptstyle M }$ 、 $E _ { \\scriptscriptstyle A }$ 和 $T _ { p a r }$ 产生的计算开销，而普通哈希运算和四则运算花费时间很少，因此将其可以忽略。同时，为了不失一般性，设用户终端设备和卫星单向传输时延 $T _ { u - s }$ 和卫星和NCC单向传输时延 $T _ { s - n }$ 都为 $2 0 \\mathrm { m s }$ 。如表3所示，本文认证方案不涉到复杂度较大 $T _ { p a r }$ 运算，在签名和验证阶段仅需要少量的 $E _ { \\scriptscriptstyle M }$ 和 $E _ { A }$ 运算就可以完成验证，计算开销时间大约为 $4 . 2 \\mathrm { m s }$ 。与使用双线性对运算认证方案[8]约$2 4 . 1 \\mathrm { m s }$ 和方案[11]约 $1 0 \\mathrm { m s }$ 相比，计算开销上有明显优势；与不使用双线性对运算方案[7]相比，方案[7]认证过程中需要较多的 $E _ { M }$ 运算约 $6 . 2 \\mathrm { m s }$ ，计算开销较本文更大，同时相对本文方案相对多了 $2 T _ { s - n }$ 次交互次数。所以，本文认证方案计算开销最低，认证更加高效。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "认证时延主要包括身份认证中的计算开销和认证信息交互过程中传播时延开销。由图2不同消息个数下的认证时延可知，由于本文方案使用少量复杂度较低的椭圆曲线上点乘和点加运算构建签名，计算开销最小；同时认证方案是基于无证书认证模型，不需要第三方参与认证，减少了认证过程中的交互次数，传播时延低。所以本文的认证时延均明显小于其他方案。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5392fe070cca3c5a30c90198c6e02eea350195a4a945a6b408cda4e0c95b9632.jpg",
+        "img_caption": [
+            "图2认证时延",
+            "Fig.2Authentication delay "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/4bac174b876d839a943b9f9c7ddd331072e3943a1d11d7f97359e51436f5af08.jpg",
+        "table_caption": [
+            "Tab.3Comparison of authentication costs "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>方法</td><td>签名</td><td>验证</td><td>计算总开销</td><td>交互次数</td></tr><tr><td>文献[7]</td><td>3EM</td><td>3Em</td><td>6EM</td><td>2 Tu-s +2Ts-n</td></tr><tr><td>文献[8]</td><td>Tpar +4 Em +EA</td><td>3Tpar + EA</td><td>4Tpar +EM +2EA</td><td>2 Tu-s</td></tr><tr><td>文献[11]</td><td>2Em</td><td>Tpar +2Em +2EA Tpar +4Em +2EA</td><td></td><td>2 Tu-s</td></tr><tr><td>本文方案</td><td>EM</td><td>3Em+2EA</td><td>4 Em +2 EA</td><td>2 Tu-s</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.3 通信开销分析 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了方便比较，本文假定设备身份标识长度 $| I D |$ 为4Byte、时间戳长度 $| T |$ 为4Byte，消息长度 $| m |$ 为20 Byte、正整数域 ${ Z _ { q } } ^ { * }$ 中元素占用 $| Z _ { q } ^ { * } |$ 为20Byte。而循环群 $G$ 和 $G _ { 1 }$ 占用字节数分别为20Byte 和64Byte，所以G和 $\\mathbf { G } _ { 1 }$ 上元素长度$| G |$ 和 $\\left| G _ { 1 } \\right|$ 分别为40Byte 和128Byte。不同认证方案通信成本比较如表4所示，可以看出，相比于其他方案，本文认证方案通信成本更低。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文提出一种面对低轨卫星的高效无证书身份认证方案。该方案中用户认证过程中不需要第三方参与，降低了认证时延；认证过程无须双线性映射，计算开销低，同时具有",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/3cf1fb006f8134d2b6ae08e491190497077e8b4d079a91e1b0901a000353798e.jpg",
+        "table_caption": [
+            "表3认证开销比较",
+            "表4通信成本比较 ",
+            "Tab.4Comparison of communication costs "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>方法</td><td>通信长度/Byte</td></tr><tr><td>文献[7]</td><td>2|G|+4|Z*|+|T|+|ID|+|m|=188</td></tr><tr><td>文献[8]</td><td>2|G|+|T|+ID|+m|=284</td></tr><tr><td>文献[11]</td><td>3|G|+|T|+|ID|+|m|=412</td></tr><tr><td>本文方案</td><td>3|G|+|Zg*|+|T|+|ID|+|m|=168</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "签名不可链接性、前向安全性、抗重放攻击、抵御中间人或假冒攻击、密钥托管弹性等安全性。但是方案在计算开销上还有一定优化空间，需要用户终端和卫星具备一定计算能力。如何在满足高安全强度的同时，构造计算复杂度更低的低轨卫星网络身份认证方案是未来的重要研究方向。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]杨昕，孙智立，刘华峰，等．新一代低轨卫星网络和地面无线自组织 网络融合技术的探讨 [J].中兴通信技术,2016,22(4):58-63.(Yang Xin,Sun Zhili,Liu Huafeng,et al. Technology of new generation LEO satellite network and terrestrial MANET integration [J].ZTE TECHNOLOGY JOURNAL,2016,22 (4): 58-63.)   \n[2]Cruickshank H S.A security system for satellite networks [C]//Fifth InternationalConferenceon SatelliteSystemsforMobile ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Communications and Navigation,London:IETPress,1996:187-190. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[3] Zhang Yuanyuan,Chen Jianhua,Huang Baojun．An improved authentication scheme for mobile satellite communication systems [J]. International Journal of Satellite Communications and Networking,2015, 33 (2): 135-146.   \n[4]Saroj T, Gaba G S.A Lightweight Authentication Protocol based on ECC for Satellite Communication [J].Pertanika Journal of Science & Technology,2017,25 (4): 1317-1330.   \n[5] 朱辉，陈思宇，李凤华，等．面向低轨卫星网络的用户随遇接入认证 协议[J].清华大学学报：自然科学版,2019,59(1):1-8.(Zhu Hui, Chen Siyu,LI Fenghua,et al. User random access authentication protocol for low earth orbit satelite networks.Journal of Tsinghua University (Science and Technology),2019,59 (1): 1-8.)   \n[6] Qi Mingping,Chen Jianhua, Chen Yitao.A secure authentication with key agreement scheme using ECC for satellite communication systems [J]. International Journal of Satellite Communications and Networking, 2019,37 (3): 234-244.   \n[7] Ostad-Sharif A,Abbasinezhad-Mood D,Nikooghadam M. Eficient utilization of elliptic curve cryptography in design of a three-factor authentication protocol for satelite communications [J]. Computer Communications,2019,147: 85-97.   \n[8] 赵国锋，周文涛，徐川，等．一种基于双线性配对的天地一体化网络 安全身份认证方案[J].信息网络安全，2020,20(12):33-39.(Zhao Guofeng,Zhou Wentao,Xu chuan et al.A Secure identity authentication scheme for space-ground integrated network based on bilinear pairing [J]. Netinfo Security,2020,20 (12):3-39.)   \n[9]Al-Riyami S S,Paterson K G. Certificateless public key cryptography [C]// International conference on the theory and application of cryptology and information security. Berlin: Springer Press,2003: 452- 473.   \n[10] Liu Yuchen,Zhang Aixin,Li Jianhua,et al.An anonymous distributed key management system based on CL-PKC for space information network [C]//2016 IEEE international conference on communications (ICC). Kuala Lumpur: IEEE Press, 2016: 1-7.   \n[11] Wu Zhijun, Yang Yiming.BD-D1Sec: Protocol of security authentication for BeiDou Dl civil navigation message based on certificateless signature [J].Computers & Security,2021,105:102251.   \n[12]周彦伟，杨波，王青龙．安全的无双线性映射的无证书签密机制[J]. Journal of Software,2017,10: 2757-2768.(Zhou Yanwei, Yang Bo, Wang Qinglong. Secure certificateless signcryption scheme without bilinear pairing[J]. Journalof Software,2017,28 (10): 2757-2768.)   \n[13] Yang Xiaodong,Liu Rui, Chen Guilan,et al. Security analysis of a certificateless signcryption mechanism without bilinear mapping [C]// 2020 IEEE 4th Information Technology,Networking,Electronic and Automation Control Conference (ITNEC).IEEE,2020,1: 2431-2434.   \n[14] Tedeschi P，Sciancalepore S,Eliyan A，et al.LiKe:Lightweight certificateless key agreement for secure IoT communications [J]. IEEE Internet of Things Journal,2019,7(1): 621-638.   \n[15] Pointcheval D,Stern J. Security arguments for digital signatures and blind signatures [J].Journal of cryptology,200o,13 (3): 361-396.   \n[16] Gayathri N B,Thumbur G,Reddy P V,et al.Efficient pairing-free certificateless authentication scheme with batch verification for vehicular ad-hoc networks [J].IEEE Access,2018:31808-31819.   \n[17] Xu Guangquan,Zhou Wenjuan A Security-Enhanced Certificateless Aggregate Signature Authentication Protocol for InVANETs,in IEEE Network,IEEE Network [J].2020,34 (2): 22-29. ",
+        "page_idx": 4
+    }
+]

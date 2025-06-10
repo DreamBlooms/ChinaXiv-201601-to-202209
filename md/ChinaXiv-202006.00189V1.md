@@ -1,0 +1,194 @@
+# 抗旱优良红砂家系的早期选择与评价
+
+李佩佩，李毅，苏世平，种培芳，李珍（甘肃农业大学林学院，甘肃 兰州730070）
+
+摘要：本实验于武威市凉州区育苗建立试验地,分别在 2014、2015、2016、2017、2018年7月,以红砂家系（2 a、3a4a5a $\cdot ^ { 6 }$ a生红砂)叶片为试验材料,测定叶片中可溶性蛋白（SP）、可溶性糖（SS）、丙二醛（MDA）、脯氨酸（ $\scriptstyle \left\{ \operatorname* { P r o } \right\}$ 、叶绿素a（Chla）、叶绿素 $\mathbf { b } ( \mathrm { C h l \ b } )$ 、总叶绿素( $\mathrm { \ C h l ~ a + b }$ ）、叶绿素 $\mathrm { a / b ( \ C h l \ a / b }$ )和叶绿素荧光等16个指标，连续5a研究红砂家系抗旱性早期选择可行性及性状表现稳定性,选择和综合评价抗旱优良红砂家系。结果表明：可溶性蛋白、可溶性糖、脯氨酸及叶绿素荧光相关指标在77个红砂家系间存在较大的差异,为抗旱优良红砂家系选择创造条件;通过5a连续观察及测定 $, 2 \mathrm { ~ a ~ } , 3 \mathrm { ~ a ~ } , 4$ a生红砂家系综合排序逐年表现稳定，重合率逐渐增加至$8 3 . 3 3 \%$ ,5a、6a生各层次红砂家系表现稳定，重合率大于 $8 3 . 3 3 \%$ ；经过综合分析筛选出小甘沟-3号（XGG-3）、巴彦浩特3-4号(BYHT-3）、乌达-1号（WD-1）、泉眼山-2号(QYS-2）、海石湾-1号(HSW-1)等5个优良抗旱家系，入选率为 $6 . 4 9 \%$ 0
+
+关键词：抗旱性；早期选择；红砂家系；评价
+
+红砂（Reaumuriasoongorica），其分布于荒漠、半荒漠、戈壁等地，具有很强抗旱、耐盐和集沙能力[1-2],是我国温带、草原化荒漠主要植被类型之一,也是重要防风固沙植物[3-4]。近年来,红砂抗旱性机理[2,4-5]与评价[6-7]越来越受到关注和重视;红砂抗旱优良种源[7-9]与家系选择[8-10]工作也取得了初步成果。
+
+植物抗旱能力判定是一个综合过程，研究植物抗旱性对一些抗旱性良好的植物种源及家系进行筛选和培育就成为了现代植物研究工作中亟待解决的问题[11-12]。对于林木抗旱性评价多以生理指标[7,13]如叶绿素Chl、可溶性蛋白质 SP、可溶性糖SS、游离脯氨酸Pro、丙二醛MDA 等,光合荧光指标[6-8]如光合量子效率 AQY、暗呼吸速率 $R _ { \mathrm { d } }$ 、光补偿点LCP、光饱和点LSP、最大净光合速率 $P _ { \mathrm { n m a x } }$ 、PSⅡ最大光化学效率 $F _ { \mathrm { v } } / F _ { \mathrm { m } }$ 等为基础，而2014—2016年试验对生长指标、生理指标及荧光指标测定分析发现[8,10],部分指标与红砂抗旱性强弱有较大相关性，因此，本试验选取SP、SS、MDA、Pro、 $\mathrm { C h l ~ a ~ } + \mathrm { b }$ 、Chl a $\mathrm { . c h l ~ b . c h l ~ a / b . }$ 稳态荧光产量 $\boldsymbol { F _ { \mathrm { s } } }$ 、最大荧光产量 $\boldsymbol { F } _ { \mathrm { m } }$ 、初始荧光 $\boldsymbol { F } _ { \mathrm { o } }$ 、可变荧光 $F _ { \mathrm { v } }$ 、PS $\mathbb { I }$ 最大光化学量子产量 $Q _ { \mathrm { r } }$ 、光化学淬灭系数qP、非光化学淬灭系数 $\mathrm { { N P Q } , \mathrm { { P S I } } }$ 的潜在活性 $\boldsymbol { F _ { \mathrm { v } } } / F _ { \mathrm { o } }$ 等16个影响较大指标进行测定。采用综合分析方法如隶属函数法[14]或主成分分析法[8,15],在尽量不损失有效信息条件下，对多个指标进行高度概括，对植株抗旱性进行综合分析评价。
+
+林木性状早期选择是缩短林木育种周期，加速选择进程的重要措施[13]。研究证明乔木以生理[16-17]、形态[18-19]或分子[20-21]等指标进行早期评价具有可行性。以往对红砂在种源[9]、家系[8,10]等方面利用生理指标或者荧光指标做优良家系早期选择的相关研究，筛选出12个优良家系。但是，较少有该树种在同一生境条件、不同苗龄下对红砂的生理特性、优良家系筛选及早期选择性状稳定等方面进行综合评价和分析。
+
+本试验在前人[8,10]研究基础上，以77个红砂家系为研究对象，以叶片生理指标和相关荧光参数为主要指标，通过对之前研究成果整理分析，探讨不同种源的红砂家系在同一生境下是否能够根据主成分分析法筛选出具有优良抗旱性的家系，指导红砂家系选择；经过数年的选择，评价抗旱优良家系是否稳定，为选育和推广红砂抗旱优良家系提供科学参考。
+
+表1红砂采样地概况  
+Tab.1 Overview of Reaumuria soongorica sampling plot:   
+
+<html><body><table><tr><td>编号</td><td>地点</td><td>土壤和优势种</td><td>海拔/m</td><td>经纬度</td></tr><tr><td>BYHT</td><td>内蒙古巴彦浩特</td><td>盐爪爪为优势种，干滩红砂为优势种</td><td>1 441</td><td>103°1'3"E,36°15'22"N</td></tr><tr><td>HG</td><td>甘肃红古</td><td>靠河岸，红砂为优势种</td><td>1 711</td><td>103°5'35"E,38°36'32"N</td></tr><tr><td>HSW</td><td>甘肃海石湾</td><td>红砂为优势种</td><td>1 867</td><td>102°52'59"E,36°21'0"N</td></tr><tr><td>HSZ</td><td>甘肃黑山镇</td><td>砂土,红砂为优势种</td><td>1 453</td><td>102°54'4"E,38°21'18"N</td></tr><tr><td>MJW</td><td>宁夏孟家湾</td><td>红砂为优势种</td><td>1 470</td><td>104°54'43"E,37°26'6"N</td></tr><tr><td>MQXX</td><td>甘肃民勤新西</td><td>红砂为优势种</td><td>1 336</td><td>103°20'2"E,38°52'41"N</td></tr><tr><td>QYS</td><td>宁夏泉眼山</td><td>红砂为优势种</td><td>1 203</td><td>105°33'40"E,37°29'20"N</td></tr><tr><td>SSC</td><td>宁夏砂石场</td><td>草原化荒漠,红砂为优势种</td><td>1 719</td><td>104°25'59'E,37°27'50"N</td></tr><tr><td>SMY</td><td>宁夏四马营</td><td>以盐爪爪和红砂为优势种</td><td>1 134</td><td>106°0'40"E,38°30'7"N</td></tr><tr><td>WD</td><td>内蒙古乌达</td><td>戈壁，砾石，砂土，红砂为优势种</td><td>1083</td><td>106°46'8"E,39°32'20"N</td></tr><tr><td>SWS</td><td>甘肃民勤苏武山</td><td>以盐爪爪和红砂为优势种</td><td>1 450</td><td>103°12'22"E,38°31'23"N</td></tr><tr><td>WWYH</td><td>甘肃武威盐湖</td><td>砂土、砾石,红砂为优势种</td><td>1 427</td><td>102°50'56"E,39°19'37"N</td></tr><tr><td>ZYGZ</td><td>甘肃张掖甘州</td><td>红砂为优势种</td><td>1 329</td><td>100°36'0"E,39°28'48"N</td></tr><tr><td>JQJT</td><td>甘肃酒泉金塔</td><td>砾石，砂土，红砂为优势种</td><td>1 368</td><td>98°53'35"E,39°54'18"N</td></tr><tr><td>JQGZ</td><td>甘肃酒泉瓜州</td><td>红砂为优势种</td><td>1 605</td><td>100°53'28"E,39°54'43"N</td></tr><tr><td>SGK</td><td>宁夏三关口</td><td>以盐爪爪和红砂为优势种</td><td>1 327</td><td>103°53'17"E,38°21'54"N</td></tr><tr><td>XGG</td><td>甘肃小甘沟</td><td>黄土，砾石，红砂为优势种</td><td>2138</td><td>103°53'31"E,36°54'22"N</td></tr><tr><td>NMYH</td><td>内蒙古盐湖</td><td>干滩以红砂为优势种</td><td>1 338</td><td>105°20'49"E,37°57'0"N</td></tr><tr><td>THCY</td><td>内蒙古通湖草原</td><td>红砂为优势种</td><td>1 286</td><td>104°58'44"E,37°35'53"N</td></tr><tr><td>ZZG</td><td>甘肃扎子沟</td><td>砾石,砂土,红砂为优势种</td><td>1 379</td><td>103°5'35"E,38°36'32"N</td></tr></table></body></html>
+
+# 1 材料与方法
+
+# 1.1 研究区概况
+
+试验地选择在凉州区羊下坝镇( $3 8 ^ { \circ } 2 4 ^ { \prime } \mathrm { ~ N ~ }$ $1 0 3 ^ { \circ } 9 ^ { \prime } \mathrm { E }$ ），海拔 $1 \ 3 7 8 \ \mathrm { m }$ ,平均土壤含水量 $0 . 4 \%$ ，土壤为碱性砂壤，属川区地带，紧靠腾格里沙漠边缘，干旱少雨[22-23],平均降雨量 $1 1 3 . 2 \ \mathrm { m m }$ ,多集中于7—9月；年蒸发量 $2 6 0 4 . 3 ~ \mathrm { m m }$ 。
+
+# 1.2 田间设计与试验材料
+
+材料来自23个种源(表1），1380个单株。2012年1月在试验地的大棚中进行穴盘育苗，获得1380个家系。2013年4月采用随机区组试验设计，3个重复，株行距 $0 . 5 \ \mathrm { m } \times 1 . 5 \ \mathrm { m }$ ,定植，最终保存1196个家系。按常规水肥管理措施进行栽培管理。
+
+2014年选择77个红砂家系作为第1批家系，每个家系随机选择3个单株共计231个红砂植株进行测定;2015、2016年继续测定以上红砂家系，在其中筛选出优良、普通、较差3个层次红砂家系共36个家系108个单株作为第2批经过家系选择后所得到的红砂家系；2017年则测定第2批36个红砂家系108单株;2018年在第2批基础上再次进行家系早期选择，选出第3批红砂家系3个层次共18个红砂家系54个单株继续测定。
+
+# 1.3 测定指标及方法
+
+2014一2018年的每年7月在试验地采取红砂叶片，每个家系选取3株为重复，进行标记，立刻装入液氮罐，带回实验室待测。
+
+可溶性蛋白(SP)采用考马斯亮蓝G-250染色法[24];可溶性糖(SS)含量采用蒽酮比色法[25];游离脯氨酸(Pro)含量采用磺基水杨酸提取法[26]；叶绿素(Chl)相关指标采用丙酮比色法测定[27]；丙二醛含量（MDA)采用硫代巴比妥酸比色法[27] 。
+
+叶绿素荧光采用FluorCam便携式叶绿素荧光成像仪测定相关指标[28-30]。 。
+
+# 1.4 数据处理
+
+数据处理采用Excel2007和SPSS22.0，采用主成分分析法对红砂家系进行综合评价；对比分析年际间评价结果，按其综合排序后各层次重合率进行选择，以此筛选抗旱优良红砂家系。
+
+# 2结果与分析
+
+# 2.177个红砂家系抗旱指标
+
+根据累计贡献率大于 $8 5 \%$ 的原则（表2)选择前5个主成分来分析，其累计贡献率是 $9 0 . 3 2 3 \%$ ，说明这5个主成分可以代表所有指标进行红砂家系间评价。第一主成分主要为 $F _ { \mathrm { ~ s ~ } } \ l { F _ { \mathrm { ~ m ~ } } } , F _ { \mathrm { ~ o ~ } } , F _ { \mathrm { ~ v ~ } }$ 、Chla $^ +$ b,特征值为12.406，说明叶绿素荧光作为植物光合作用研究的探针，不仅能反映光能吸收、光化学反应和激发能传递等光合作用的原初反应过程，且与质子梯度的建立、电子传递及二氧化碳( $\mathrm { C O } _ { 2 }$ ）固定和腺嘌呤核苷三磷酸(ATP)合成等过程相关，对红砂抗旱性能有着重要作用;第二主成分主要为 $\boldsymbol { F _ { \mathrm { v } } } / F _ { \mathrm { o } }$ 、$Q _ { \mathrm { Y } } \lrcorner \mathrm { q P } \lrcorner F _ { \mathrm { v } } \lrcorner \mathrm { C h l }$ a,特征值为2.393，说明在干旱条件下，红砂通过调节 $ { \mathrm { P S } }  { \mathbb { I } }$ 的潜在活性、光化学淬灭系数及叶绿素等来维持植物正常生理活动，在红砂抗旱性中起一定作用;第三主成分主要为MDA、SS、0 $\mathrm { \Delta } \mathrm { \sinh \ a } / \mathrm { b } \sqrt { \mathrm { g _ { y } \sqrt { F _ { v } / F _ { o } } } }$ ,特征值为1.602,通过MDA了解细胞膜脂过氧化程度，以间接测定膜系统受损程度以及红砂家系抗旱性，而SS在干旱条件下通过降低脱水或者细胞质结晶而保护细胞膜完整功能，以此来影响红砂抗旱性;第四主成分主要为 SP、Pro,特征值为1.369，在干旱胁迫下，SP、Pro 等物质主动积累,降低红砂体内渗透势,使其继续吸水，防止脱水，增强红砂抗旱性;第五主成分主要为NPQ、MDA、Pro，特征值为1.199，通过非化学淬灭系数的增加或降低，增强红砂自身光保护能力及降低渗透势，防止脱水。
+
+表277个红砂家系主抗旱指标主成分分析  
+Tab.2Principal component analysis of main drought resistance indexes of77 Reaumuria soongorica families   
+
+<html><body><table><tr><td rowspan="2">指标</td><td colspan="5">主成分载荷系数</td></tr><tr><td>主成分1</td><td>主成分2</td><td>主成分3</td><td>主成分4</td><td>主成分5</td></tr><tr><td>叶绿素b Chl b</td><td>0.846</td><td>0.077</td><td>-0.190</td><td>-0.357</td><td>-0.242</td></tr><tr><td>叶绿素(a+b）Chl(a+b)</td><td>0.883</td><td>0.182</td><td>-0.183</td><td>-0.251</td><td>-0.140</td></tr><tr><td>叶绿素a Chl a</td><td>0.870</td><td>0.228</td><td>-0.173</td><td>-0.188</td><td>-0.084</td></tr><tr><td>叶绿素a/b Chl(a/b)</td><td>-0.608</td><td>0.086</td><td>0.304</td><td>0.296</td><td>0.313</td></tr><tr><td>可溶性蛋白质 SP</td><td>0.565</td><td>-0.071</td><td>-0.146</td><td>0.718</td><td>0.115</td></tr><tr><td>游离脯氨酸Pro</td><td>0.618</td><td>0.199</td><td>-0.299</td><td>0.358</td><td>0.379</td></tr><tr><td>可溶性糖 SS</td><td>0.198</td><td>-0.089</td><td>0.485</td><td>0.221</td><td>-0.643</td></tr><tr><td>丙二醛含量MDA</td><td>-0.203</td><td>-0.306</td><td>0.686</td><td>-0.101</td><td>0.371</td></tr><tr><td>稳态荧光Fs</td><td>0.975</td><td>-0.173</td><td>0.053</td><td>0.060</td><td>0.017</td></tr><tr><td>最大荧光产量Fm</td><td>0.972</td><td>0.171</td><td>0.003</td><td>0.071</td><td>0.017</td></tr><tr><td>最小荧光F。</td><td>0.972</td><td>-0.008</td><td>-0.087</td><td>0.132</td><td>0.060</td></tr><tr><td>最大量子产量Fv</td><td>0.963</td><td>0.219</td><td>0.028</td><td>0.053</td><td>0.059</td></tr><tr><td>光化学淬灭系数qP</td><td>-0.831</td><td>0.489</td><td>-0.205</td><td>0.028</td><td>-0.010</td></tr><tr><td>最大光化学效率Qy</td><td>0.586</td><td>0.574</td><td>0.549</td><td>-0.017</td><td>0.007</td></tr><tr><td>非光化学淬灭系数 NPQ</td><td>0.458</td><td>-0.050</td><td>0.002</td><td>-0.497</td><td>0.506</td></tr><tr><td>PS Ⅱ的潜在活性Fv/F。</td><td>0.596</td><td>0.625</td><td>0.467</td><td>-0.073</td><td>0.001</td></tr><tr><td>特征值</td><td>12.406</td><td>2.393</td><td>1.602</td><td>1.369</td><td>1. 199</td></tr><tr><td>贡献率/%</td><td>59.075</td><td>11.394</td><td>7.628</td><td>6.518</td><td>5.709</td></tr><tr><td>累计贡献率/%</td><td>59.075</td><td>70.468</td><td>78.096</td><td>84.615</td><td>90.323</td></tr></table></body></html>
+
+# 2.22014—2016年77个红砂家系选择
+
+77个红砂家系通过测定Chla、Chlb、Chla+b、$\mathrm { C h l \ a / b \_ P r o \_ S S \_ S P \_ M D A }$ 等8个间接指标,通过主成分分析法，在尽量不损失有效信息的前提下，将所选全部指标经高度概括后降维转化为几个相互独立的综合指标，来更好地评价77个家系的综合抗旱能力，用主成分分析法得出红砂家系的综合得分排序，排名越靠前则表明该家系抗旱能力越强。由表3得，2a生红砂家系进入前11排序是： $\mathrm { H G } - 3 > \mathrm { H S W } - 1 >$ $\mathrm { X G G } ~ - ~ 3 ~ > ~ \mathrm { Q Y S } ~ - ~ 2 ~ > ~ \mathrm { Z Z G 2 } ~ - ~ 3 ~ > ~ \mathrm { B Y H T } ~ - ~ 3 ~ > ~ $ ZZG1 $- 2 > \mathrm { Z Z G } 1 - 1 > \mathrm { H S Z } - 3 > \mathrm { W D } - 1 > \mathrm { X K K } - 4$ $3 \mathrm { ~ a ~ }$ 生红砂家系排序是： $\mathrm { X G G } ~ - ~ 3 ~ > ~ \mathrm { B Y H T } ~ - ~ 3 ~ >$ $\mathrm { W D } - 1 > \mathrm { Q Y S } - 2 > \mathrm { H S W } - 1 > \mathrm { Z Z G } 1 - 1 > \mathrm { Z Z G } 2 - 3 >$ $\mathrm { H G } - 3 > \mathrm { X G G } - 1 > \mathrm { Z Z G } 1 - 2 > \mathrm { L Z } - 1 ; 4 \ \varepsilon$ 生红砂家系排序是： $\mathrm { X G G } - 3 > \mathrm { B Y H T } - 3 > \mathrm { W D } - 1 > \mathrm { Q Y S } - 2 >$ $\mathrm { ~ \bar { ~ } { ~ - ~ } 1 ~ } > \mathrm { Z Z G 2 ~ - ~ 3 ~ } > \mathrm { X G G ~ - ~ 1 ~ } > \mathrm { Z Z G 1 ~ - ~ 2 ~ } >$ ZZG1 $- 1 > \mathrm { L Z } - 1 > \mathrm { H G } - 3 ,$ □
+
+2a与 $^ \textrm { \scriptsize 3 a , 4 }$ a 生红砂家系在排序上有所不同，即在抗旱性能力上2a和 $^ \textrm { \scriptsize 3 a , 4 }$ a生红砂家系可能略有差异，而 $3 \mathrm { ~ a ~ . ~ } 4 \mathrm { ~ a ~ }$ 生红砂家系排序则比较一致,即在抗旱能力上 $^ \textrm { \scriptsize 3 a , 4 }$ a生红砂家系表现稳定。
+
+表3前3a筛选得出红砂抗旱优良家系主成分综合得分  
+Tab.3The comprehensive scores of principal components of drought-resistant superior families ofReaumuria soongorica were obtained in the first 3 years   
+
+<html><body><table><tr><td colspan="10"></td><td>4a</td><td>综合</td><td></td></tr><tr><td>2a 生家系</td><td>综合 得分</td><td>3a 生家系</td><td>综合 得分</td><td>4a 生家系</td><td>综合 得分</td><td>排序</td><td>2a 生家系</td><td>综合 得分</td><td>3a 生家系</td><td>综合 得分</td><td>生家系</td><td>得分</td><td>排序</td></tr><tr><td>HG-3</td><td>1.60</td><td>XGG -3</td><td>3.46</td><td>XGG-3</td><td>1.96</td><td>1</td><td>MJW-1</td><td>-0.03</td><td>JQJT-1</td><td>0</td><td>SD-3</td><td>-0.11</td><td>40</td></tr><tr><td>HSW -1</td><td>1.15</td><td>BYHT -3</td><td>1.12</td><td>BYHT -3</td><td>1.45</td><td>2</td><td>BYHT - 2</td><td>-0.04</td><td>MQXX -1</td><td>-0.01</td><td>SSC -3</td><td>-0.12</td><td>41</td></tr><tr><td>XGG-3</td><td>0.97</td><td>WD-1</td><td>1.06</td><td>WD-1</td><td>1.32</td><td>3</td><td>SWS-1</td><td>-0.05</td><td>NMYH -1</td><td>-0.02</td><td>JQJT-1</td><td>-0.13</td><td>42</td></tr><tr><td>QYS-2</td><td>0.95</td><td>QYS-2</td><td>1.05</td><td>QYS-2</td><td>1.21</td><td>4</td><td>ZZG2 - 1</td><td>-0.07</td><td>ZZG2 - 2</td><td>-0.02</td><td>MJW-1</td><td>-0.13</td><td>43</td></tr><tr><td>ZZG2 -3</td><td>0.82</td><td>HSW -1</td><td>0.80</td><td>HSW -1</td><td>1.19</td><td>5</td><td>JQJT-2</td><td>-0.07</td><td>SSC -2</td><td>-0.02</td><td>ZZG2 - 2</td><td>-0.14</td><td>44</td></tr><tr><td>BYHT-3</td><td>0.81</td><td>ZZG1 -1</td><td>0.79</td><td>ZZG2 -3</td><td>1. 07</td><td>6</td><td>WD-3</td><td>-0.08</td><td>MJW-1</td><td>-0.03</td><td>NMYH -1</td><td>-0.14</td><td>45</td></tr><tr><td>ZZG1 -2</td><td>0.76</td><td>ZZG2 -3</td><td>0.66</td><td>XGG -1</td><td>1. 05</td><td>7</td><td>JQJT -1</td><td>-0.09</td><td>MQXX -2</td><td>-0.03</td><td>SSC -2</td><td>-0.15</td><td>46</td></tr><tr><td>ZZG1 -1</td><td>0.75</td><td>HG -3</td><td>0.48</td><td>ZZG1 -2</td><td>0.85</td><td>8</td><td>SGK -2</td><td>-0.11</td><td>HSW -3</td><td>-0.04</td><td>SGK -2</td><td>-0.15</td><td>47</td></tr><tr><td>HSZ -3</td><td>0.74</td><td>XGG -1</td><td>0.46</td><td>ZZG1 -1</td><td>0.72</td><td>9</td><td>JQGZ -4</td><td>-0.14</td><td>HSW -4</td><td>-0.04</td><td>HSW -4</td><td>-0.16</td><td>48</td></tr><tr><td>WD-1</td><td>0.69</td><td>ZZG1 -2</td><td>0.45</td><td>LZ-1</td><td>0.60</td><td>10</td><td>HSW-3</td><td>-0.17</td><td>ZYGZ - 2</td><td>-0.05</td><td>SGK-3</td><td>-0.24</td><td>49</td></tr><tr><td>XKK -4</td><td>0.62</td><td>LZ -1</td><td>0.38</td><td>HG-3</td><td>0.6</td><td>11</td><td>HSW -4</td><td>-0.17</td><td>HSZ -1</td><td>-0.05</td><td>HSW -3</td><td>-0.25</td><td>50</td></tr><tr><td>SD-1</td><td>0.62</td><td>HSZ - 3</td><td>0.35</td><td>HSZ -3</td><td>0.48</td><td>12</td><td>SGK-3</td><td>-0.18</td><td>XGG -2</td><td>-0.05</td><td>LZ-3</td><td>-0.26</td><td>51</td></tr><tr><td>LZ -1</td><td>0.59</td><td>ZZG2 -1</td><td>0.34</td><td>XKK -4</td><td>0.46</td><td>13</td><td>XGG -2</td><td>-0.19</td><td>SD-3</td><td>-0.06</td><td>ZYGZ -2</td><td>-0.26</td><td>52</td></tr><tr><td>JQGZ - 2</td><td>0.58</td><td>XKK -4</td><td>0.33</td><td>ZZG2 - 1</td><td>0.44</td><td>14</td><td>XGG -1</td><td>-0.21</td><td>WD-3</td><td>-0.06</td><td>JQJT-3</td><td>-0.29</td><td>53</td></tr><tr><td>SJZ -3</td><td>0.55</td><td>SD-1</td><td>0.32</td><td>SD-1</td><td>0.38</td><td>15</td><td>SD-3</td><td>-0.23</td><td>SGK -2</td><td>-0.09</td><td>HSZ -1</td><td>-0.30</td><td>54</td></tr><tr><td>ZZG2 - 4</td><td>0.54</td><td>SJZ -3</td><td>0.29</td><td>ZYGZ -1</td><td>0.36</td><td>16</td><td>THCY - 4</td><td>-0.23</td><td>JQJT-3</td><td>-0.10</td><td>MQXX - 2</td><td>-0.31</td><td>55</td></tr><tr><td>ZYGZ -1</td><td>0.50</td><td>ZYGZ -1</td><td>0.28</td><td>SJZ -3</td><td>0.33</td><td>17</td><td>LZ -3</td><td>-0.25</td><td>SGK -3</td><td>-0.11</td><td>XGG -2</td><td>-0.32</td><td>56</td></tr><tr><td>SGK -1</td><td>0.49</td><td>BYHT -4</td><td>0.26</td><td>ZZG2 - 4</td><td>0.31</td><td>18</td><td>MQXX -2</td><td>-0.26</td><td>LZ -3</td><td>-0.12</td><td>WD-3</td><td>-0.33</td><td>57</td></tr><tr><td>HSZ -2</td><td>0.47</td><td>ZZG2 -4</td><td>0.26</td><td>BYHT -4</td><td>0.31</td><td>19</td><td>JQJT-3</td><td>-0.26</td><td>THCY -4</td><td>-0.12</td><td>THCY -4</td><td>-0.37</td><td>58</td></tr><tr><td>BYHT -4</td><td>0.41</td><td>HSZ -2</td><td>0.23</td><td>HSZ -2</td><td>0.30</td><td>20</td><td>HSZ -1</td><td>-0.28</td><td>HG -1</td><td>-0.14</td><td>JQGZ -4</td><td>-0.38</td><td>59</td></tr><tr><td>JQGZ -1</td><td>0.41</td><td>WD-2</td><td>0.23</td><td>JQGZ -2</td><td>0.27</td><td>21</td><td>ZYGZ - 2</td><td>-0.29</td><td>JQGZ -3</td><td>-0.15</td><td>JQGZ -3</td><td>-0.40</td><td>60</td></tr><tr><td>SD -4</td><td>0.37</td><td>JQGZ -2</td><td>0.19</td><td>WD -2</td><td>0.25</td><td>22</td><td>JQGZ -3</td><td>-0.30</td><td>SWS -2</td><td>-0.15</td><td>SD-2</td><td>-0.41</td><td>61</td></tr><tr><td>WD-2</td><td>0.34</td><td>SD-4</td><td>0.19</td><td>SGK -1</td><td>0.24</td><td>23</td><td>SD-2</td><td>-0.31</td><td>JQGZ -4</td><td>-0.16</td><td>HG -1</td><td>-0.41</td><td>62</td></tr><tr><td> SSC -3</td><td>0.24</td><td>ZYGZ -3</td><td>0.17</td><td>JQGZ -1</td><td>0.23</td><td>24</td><td>LZ-2</td><td>-0.36</td><td>WWYH-</td><td>-0.19</td><td>WWYH -</td><td>-0.41</td><td>63</td></tr><tr><td>HSW -2</td><td>0.23</td><td>HSW -2</td><td>0.16</td><td>SD-4</td><td>0.23</td><td>25</td><td>MJW-2</td><td>-0.37</td><td>SD-2</td><td>-0.20</td><td>SWS-2</td><td>-0.45</td><td>64</td></tr><tr><td>MQXX -1</td><td>0.23</td><td>SGK -1</td><td>0.16</td><td>ZYGZ -3</td><td>0.19</td><td>26</td><td>WWYH-</td><td>-0.38</td><td>WWYH -</td><td>-0.21</td><td>WWYH -</td><td>-0.47</td><td>65</td></tr><tr><td>THCY -1</td><td>0.22</td><td>JQGZ -1</td><td>0.16</td><td>HG -2</td><td>0.18</td><td>27</td><td>SMY -2</td><td>-0.39</td><td>SMY -1</td><td>-0.21</td><td>BYHT-1</td><td>-0.49</td><td>66</td></tr><tr><td>SGK -4</td><td>0.16</td><td>QYS-3</td><td>0.16</td><td>HSW -2</td><td>0.17</td><td>28</td><td>SWS -2</td><td>-0.39</td><td>THCY -3</td><td>-0.22</td><td>THCY -3</td><td>-0.49</td><td>67</td></tr><tr><td>QYS-3</td><td>0.12</td><td>HG -2</td><td>0.14</td><td>THCY -1</td><td>0.16</td><td>29</td><td>HG -1</td><td>-0.39</td><td>SMY -4</td><td>-0.23</td><td>SMY -4</td><td>-0.51</td><td>68</td></tr><tr><td>ZYGZ -3</td><td>0.11</td><td>THCY -1</td><td>0.13</td><td>THCY - 2</td><td>0.16</td><td>30</td><td>SMY -1</td></table></body></html>
+
+# 2.32017—2018年红砂抗旱优良家系选择
+
+从表4得知，5a生优良红砂家系排序是：$\mathrm { X G G } - 3 > \mathrm { B Y H T } - 3 > \mathrm { Q Y S } - 2 > \mathrm { H S W } - 1 > \mathrm { W D } - 1 >$ $\mathrm { Z Z G } 2 - 3 ; 6$ a生优良红砂家系排序是： $\mathrm { X G G } - 3 >$ BYI $\mathrm { f T } - 3 > \mathrm { W D } - 1 > \mathrm { Q Y S } - 2 > \mathrm { Z Z G } 2 - 3 > \mathrm { H S W } -$
+
+1。这2a红砂家系在优良、普通或者较差家系选择结果都较为一致，仅顺序次位稍有差异。
+
+# 2.42014—2018年红砂抗旱优良家系选择与重合率对比
+
+对2014—2018年所有红砂家系进行对比。在红砂不同树龄的生长阶段中，按照比例，利用测定指
+
+# 表45a、6a生筛选得出红砂抗旱优良家系主成分综合得分
+
+Tab.4The comprehensive scores of principal components of drought-resistant superior families of Reaumuria soongorica were obtained through screening of   
+表52014—2018年红砂家系重合率对比  
+
+<html><body><table><tr><td rowspan="3"></td><td colspan="2">5a生红砂家系 主成分分析</td><td rowspan="2" colspan="2">6a生红砂家系 主成分分析</td><td rowspan="2">综 合 排</td></tr><tr><td>家系</td><td>家系</td></tr><tr><td>优良家系 XGG-3</td><td>综合得分 1.06</td><td>XGG-3</td><td>综合得分 1.22</td><td>序 1</td></tr><tr><td rowspan="8">普通家系</td><td>BYHT-3</td><td>0.99</td><td>BYHT-3</td><td>1.15</td><td>2</td></tr><tr><td>QYS -2</td><td>0.77</td><td>WD-1</td><td>0.69</td><td>3</td></tr><tr><td>HSW -1</td><td>0.75</td><td>QYS-2</td><td>0.61</td><td>4</td></tr><tr><td>WD-1</td><td>0.72</td><td>ZZG2 -3</td><td>0.52</td><td>5</td></tr><tr><td>ZZG2 - 3</td><td>0.71</td><td>HSW -1</td><td>0.14</td><td>6</td></tr><tr><td>MQXX -3</td><td>0.04</td><td>QYS-1</td><td>0.07</td><td>7</td></tr><tr><td>BYHT -2</td><td>0.03</td><td>SSC -3</td><td>0.05</td><td>8</td></tr><tr><td>QYS-1</td><td>0.02</td><td>MQXX -3</td><td>-0.04</td><td>9</td></tr><tr><td rowspan="8">较差家系</td><td>MJW -1</td><td></td><td></td><td></td><td>10</td></tr><tr><td></td><td>0.01</td><td>XGG-4</td><td>-0.14</td><td></td></tr><tr><td>SSC -2</td><td>0</td><td>MJW-1</td><td>-0.28</td><td>11</td></tr><tr><td>XGG-4</td><td>-0.03</td><td>SSC -2</td><td>-0.38</td><td>12</td></tr><tr><td>QYS-4</td><td>-0.70</td><td>SMY -2</td><td>-0.54</td><td>13</td></tr><tr><td>MJW-2</td><td>-0.80</td><td>HSZ -4</td><td>-0.55</td><td>14</td></tr><tr><td>SMY -2</td><td>-0.82</td><td>SMY -3</td><td>-0.56</td><td>15</td></tr><tr><td>HG-4</td><td>-0.84</td><td>QYS-4</td><td>-0.57</td><td>16</td></tr><tr><td></td><td>HSZ -4 SMY -3</td><td>-0.86 −1.22</td><td>MJW -2 SMY -1</td><td>-0.63 -0.74</td><td>17 18</td></tr></table></body></html>
+
+5aand 6a generations   
+Tab.5Comparison of repeat rates of Reaumuria soongorica families in 2014-2018 years   
+
+<html><body><table><tr><td>树龄</td><td>品质</td><td>3a生</td><td>4a生</td><td>5a生</td><td>6a生</td></tr><tr><td>2a生</td><td>优良</td><td>66.67</td><td>83.33</td><td>83.33</td><td>83.33</td></tr><tr><td rowspan="5">3a生</td><td>普通</td><td>50</td><td>50</td><td>83.33</td><td>66.67</td></tr><tr><td>较差</td><td>33.33</td><td>16.67</td><td>50</td><td>33.33</td></tr><tr><td>优良</td><td></td><td>83.33</td><td>83.33</td><td>83.33</td></tr><tr><td>普通</td><td></td><td>83.33</td><td>50</td><td>66.67</td></tr><tr><td>较差</td><td></td><td>50</td><td>66.67</td><td>50</td></tr><tr><td>4a生</td><td>优良</td><td></td><td></td><td>100</td><td>100</td></tr><tr><td rowspan="5">5a生</td><td>普通</td><td></td><td></td><td>50</td><td>66.67</td></tr><tr><td>较差</td><td></td><td></td><td>66.67</td><td>83.33</td></tr><tr><td>优良</td><td></td><td></td><td></td><td>100</td></tr><tr><td>普通</td><td></td><td></td><td></td><td>83.33</td></tr><tr><td>较差</td><td></td><td></td><td></td><td>83.33</td></tr></table></body></html>
+
+标进行主成分分析，对2014—2016年红砂植株分成优良、普通和较差家系，2a生红砂植株与 $^ { 3 \mathrm { ~ a ~ } , 4 }$ a生优良抗旱红砂家系重合率从 $6 6 . ~ 6 7 \%$ 升高至
+
+$8 3 . 3 3 \%$ ,普通红砂抗旱家系重合率从 $5 0 \%$ 达到$8 3 . 3 3 \%$ ,较差红砂家系重合率从 $1 6 . 6 7 \%$ 到 $5 0 \%$ 。2017—2018年红砂植株是从前3a的77个家系中分析选择的第2批、第3批红砂家系， $5 \mathrm { ~ a ~ }$ 与6a生再次选择的优良抗旱红砂家系重合率从 $8 3 . 3 3 \%$ 升高至 $100 \%$ ，普通红砂抗旱家系重合率从 $5 0 \%$ 达到$8 3 . 3 3 \%$ ，较差红砂家系重合率从33. $3 3 \%$ 到$8 3 . 3 3 \%$ 。从其他树龄与6a生红砂各层次选择的家系重合率可知，重合率均是稳定的增长，红砂家系从2a生至6a生植株见表5。
+
+# 3讨论
+
+枫香（Liquidambar formosana）[3i]、赤桉（Euca-lyptus camaldulensis）[32]、红皮云杉（Picea koraien-sis）[33]等在早期选择中依靠植株胸径、株高和材积来综合评价家系是否优良，由此，单一试验指标作为选育优良家系标准,其结果可能会出现一定偏差,且随着林龄增长而产生变化，因而，在选育过程中若兼顾不同指标，评价结果可能会比较可靠。林木优良家系评价指标选择就显得尤为重要,王志昊[34]在几种沙生植物抗旱性评价中对小檗（Berberisamuren-sis）黄柳（Salix gordejevii）杠柳（Periploca sepium）、蛇葡萄(Ampelopsis bodinieri）乌柳（SalixcheilophilaSchneid）沙柳（Salixpsammophila）等6种沙生植物通过测定其荧光指标、生化指标等做抗旱性评价，在黄樟（Cinnamomum porrectum）[35优良家系评价中则选择多个生长指标来评价。这与本试验相似，选用多指标对红砂家系抗旱性进行综合评价。对类似于白刺（Nitraria tangutorum）[23]、小檗（Berberis amu-rensis）[34]等小灌木其材积、树高、胸径等在短时间内变化不明显，而其生理指标、光合和荧光参数等差异明显，且对于植株抗旱性有较大影响，这一结论已被前人研究证明[36-37]。之前红砂抗旱性评价选择采用荧光参数[7]、渗透调节物质[18]等指标来评价，认为以这些指标为基础来进行红砂早期选择具有一定可行性，而本试验也得出生理指标和荧光指标皆能较好评价红砂家系抗旱性能。王志昊[34 评价沙生植物抗旱性时对以上指标与抗旱性之间的联系进行了阐述;种培芳等7在4个地理种群红砂抗旱性综合评价中提出渗透调节物质更能评价植物抗旱性，这与本试验选取的指标相符。而大量试验证明主成分分析法[8和隶属函数法[20-21]具有异曲同工之妙,皆认为以植物抗旱性指标为基础进行综合评价排序是可行有效的[37-38],这与本试验对家系测定后,采取对实验数据降维想法，采用因子分析对多个相关性指标转化成几个互相独立综合指标进行评价，得出结果也一致。
+
+77 个不同红砂家系、231个单株全部测定到选择的36个家系、108个红砂单株最终有目的测定得到18个家系、54个各层次红砂单株，得出在同一生境下确实能够根据上面16个相关指标筛选出优良红砂抗旱家系，且经过主成分分析，从2a $\cdot ^ { 3 } \sim 4$ a、5a 和6a生红砂家系排序对比发现,家系在2a、3a时排序变化波动较大，家系表现优异与否不够稳定，这可能与植株树龄较幼，对于环境及其他因素未完全适应有关，性状不够稳定，因此，该阶段可能不是选择优良家系的最佳树龄。北美鹅掌楸（Lirioden-drontulipifera)也表明,早期个体分化较大，不宜过早选育,其早期选择时间应延后[39];而在4a、5 a和6a生红砂家系综合排序中，优良、普通或者较差层次红砂家系均出现较好一致性，重合率绝大部分超过 $8 3 \%$ ，即早期选择抗旱优良红砂家系在选育后的生长过程中依然表现优良，可以获得性状稳定的抗旱性优良红砂家系。杨雪艳[40认为，卡西亚松( $P i -$ （20nuskesiya)经过早期选择亦可获得性质稳定的优良卡西亚松家系。本试验结果表明,红砂进行优良抗旱性早期选择具有可行性，并且最佳选择红砂植株年龄应该在5a、6a及以上。赵奋成等[41认为，优良家系选择可以找出植物最佳选择年龄，湿地松 $\times$ 洪都拉斯加勒比松杂种最佳选择年龄为3～4a,郝自远等[39]认为,北美鹅掌楸在6a进行早期选择较为合理。
+
+# 4结论
+
+2014一2018年连续试验选择中，从试验结果得：抗旱性指标Chla $+ \textrm { b }$ 、Chl a、MDA、SS、 $\mathrm { C h l ~ a / b }$ 、（204 $\mathrm { S P } \ 、 \mathrm { P r o } \ 、 F \sb { \textnormal { s } } \ne F \sb { \textnormal { m } \setminus } F \sb { \textnormal { o } \setminus } F \sb { \textnormal { v } \setminus } F \sb { \textnormal { v } } / F \sb { \textnormal { o } \setminus } Q \sb { \textnormal { v } \setminus } \ P \textnormal { P S I I } \sb { \textnormal { , N P Q } }$ 等16个指标可作为间接指标来评价红砂家系是否具有优良抗旱性；早期选择的抗旱指标累计贡献率达$8 5 \%$ 以上，抗旱优良红砂家系表现越来越稳定。综合评价分析表明，77个红砂家系中表现优良稳定的5个抗旱红砂家系为小甘沟-3号、巴彦浩特3-4号、乌达-1号、泉眼山-2号、海石湾-1号;还发现红砂实际种植年龄超过5a植株选育结果可能会更可靠有效。
+
+本研究中从2014年筛选出11个优良抗旱红砂家系（小甘沟-3号、巴彦浩特3-4号、乌达-1号、泉眼山-2号、海石湾-1号、小甘沟-1号、扎子沟2-3号、扎子沟1-2号、临泽-1号、黑山镇3号、扎子沟1-1号）,到2018 年选择5个抗旱优良家系（小甘沟-3号、巴彦浩特3-4号、乌达-1号、泉眼山-2号、海石湾-1号）,选择标准越来越严格，在优良家系中选育抗旱更优良红砂家系。而2018年得到的5个家系其中的4个红砂家系XGG-3、BYHT-3、WD-1、QYS-2,从2014—2018年，每一次选择均入选为优良家系，且排序均靠前，说明红砂早期选择在抗旱指标基础上采用主成分分析法是可行的，且结果稳定，数年选择的重合率超过$8 3 \%$ 。
+
+# 参考文献（References）：
+
+[1］汪之波,把光慧.荒漠植物红砂研究进展[J].资源开发与市 场,2010,26(12）:1124-1126.［Wang Zhibo,Ba Guanghui.Re search progress on desert plant of Reaumuria soongorica（Pall.) Maxim[J].Resource Development& Market,2010,26（12）:1124 -1126.]
+
+[2］宋雪梅,杨九艳,吕美婷,等.红砂种子萌发对盐胁迫及适度干 旱的响应[J].中国沙漠,2012,32(6）：1674-1680.[Song Xue mei,YangJiuyan,Lyu Meiting,etal.Response of Reaumuria soon gorica seed germination to salt stress and moderate drought[J]. Journal of Desert Research,2012,32(6）:1674-1680.]
+
+[3］楚秀丽.不同种源青钱柳苗年生长及叶内含物含量研究[D]. 南京：南京林业大学,20O9.［Chu Xiuli.Primary Studies on Seed ling Growth and Contents of Chemical Compositions in Cyclocarya paliurus Leaves of Different Provenances[D].Nanjing：Nanjing Forestry University,2009.]
+
+[4]白娟,龚春梅,王刚,等.干旱胁迫下荒漠植物红砂叶片抗氧化特性［J].西北植物学报，2010,30（12）：2444－2450.［BaiJuan,Gong Chunmei,Wang Gang,et al.Antioxidative characteris-tics of Reaumuria soongorica under drought stress[J].Acta Botani-caBoreali-Occidentalia Sinica,2010,30(12）:2444-2450.]
+
+[5］单立山,李毅,任伟,等.河西走廊中部两种荒漠植物根系构型 特征[J].应用生态学报,2013,24（1）:25－31.[Shan Lishan, Li Yi,Ren Wei,et al.Root architecture of two desert plants in cen tral Hexi Corridor of Northwest China[J].Chinese Journal of Ap plied Ecology,2013,24(1） :25-31.]
+
+[6]苏铭，单立山，张正中，等.荒漠环境梯度下联生红砂（Reau muriasoongorica）珍珠（Salsola passerina）荧光特性［J].中国 沙漠,2018,38（6）:145-152.[Su Ming,Shan Lishan,Zhang Zhengzhong,et al. Fluorescence characteristics of Reaumuria soongorica and Salsola passerina under desert environmental gradient [J].Journal of Desert Research,2018,38(6）:145 -152.]
+
+[7］种培芳,苏世平,李毅.4个地理种群红砂的抗旱性综合评价 [J].草业学报,2011,20（5）:26-33.[ChongPeifang,Su Shiping,Li Yi.Comprehensive evaluation of drought resistance of Reaumuria soongorica from four geographical populations[J].Acta Prataculturae Sinica,2011,20(5）:26-33.]
+
+[8]金辉亮,苏世平,李毅,等.基于光合参数及渗透调节物质不同 家系红砂抗旱性的选择[J].干旱区资源与环境,2017,31（7）： 156-161.[Jin Huiliang,Su Shiping,Li Yi,et al.Early selection in drought-resistance of diferent families of Reaumuria soongorica based on photosynthetic parameters and osmoregulation substances [J].Journal of Arid Land Resources and Environment,2O17,31 (7):156-161.]
+
+[9］王维睿.基于叶片解剖结构特征的红砂优良家系早期选择 [D].兰州:甘肃农业大学,2015.[WangWeirui.Early Stage Seletion of Superior Families of Reaumuria soongocica Based on Its Leaf Anatomical Structure[D].Lanzhou:Gansu Agricultural University,2015.]
+
+[10］高红霞，苏世平，李毅.基于渗透调解物质及叶绿素分析红砂抗旱优良家系的早期选择[J].应用生态学报，2016，27（1）：40-48.[Gao Hongxia,Su Shiping,Li Yi.Early selection of drought-resistant superior families of Reaumuria soongorica based on the analysis of osmoregulation substances and chlorophyll[J].ChineseJournal of Applied Ecology,2016,27（1） :40-48.]
+
+[11]Eggleson K K.Stem cell-based therapies:Promises,obstacles,discordance,and the agora[J].Perspectives in Biology & Medicine, 2012,55(1) :1.
+
+[12]Bais HP,Vepachedu R,Gilroy S,etal.Allelopathy and etotic plantinvasion:From molecules and genes to species interaction[J]. Science,2003,301:1377-1380.
+
+[13］李艳，王庆，刘国宇，等.4种地被植物干旱胁迫下的生理响应 及抗旱性评价[J].中南林业科技大学学报，2019，39（6)：9- 15.［Li Yan,Wang Qing,Liu Guoyu,et al.Responses of four ground cover plants to drought stress and the comprehensive evaluation on drought resistance capacity[J]. Journal of Central South University of Forestryand Technology,2019,39(6）:9-15.]
+
+[14］敖妍.文冠果优良单株子代测定及初步选择[J].干旱区资源 与环境,2016,30（8）:177-181.[Ao Yan.Progenies test and preliminary selection of Xanthoceras sorbifolia plus trees[J].Journal of Arid Land Resources and Environment,2016,30(8):177- 181.]
+
+[15］柴文敏,李毅,苏世平,等.唐古特白刺(Nitraria tangutorum)抗 旱优良家系的生理特性[J].中国沙漠,2017,37（6)：110- 122.[Chai Wenmin,Li Yi,Su Shiping,et al.Early selection of superior families with high drought-resistance in Nitraria tangutorum based on the physiological indices[J].Journal of Desert Research, 2017,37(6):110 -122.]
+
+[16］马军伟，张含国，刘灵，等.杂种落叶松幼龄期变异与优良家系 初步选择[J].东北林业大学学报,2012,40(9)：1-5.［Ma Junwei,Zhang Hanguo,Liu Ling,etal.Young age variation of hy brid Larix gmelinii and preliminary selection of superior families [J].Journal of Northeast Forestry University,2012,4O(9）:1- 5.]
+
+[17］刘青华，周志春，范辉华，等.马尾松产脂力与生长性状的家系 变异及优良家系早期选择[J].林业科学研究,2013,26（6）： 686-691.[Liu Qinghua,Zhou Zhichun,FanHuihua,etal.Variation for oleoresin yielding capability and growth among families and earlyselection for superior families in Pinus massoniana[J].ForestryResearch,2013,26(6) :686-691.]
+
+[18］张含国，张磊，邓继峰，等.杂种落叶松区域化试验与幼龄期选择[J].东北林业大学学报,2010,38（11）：1-4.［ZhangHanguo,Zhang Lei,Deng Jifeng,etal.Regional test and juvenile selec-tion on hybrid larch[J].Journal of Northeast Forestry University,2010,38(11) :1-4.]
+
+[19］丁振芳,王景章,方海峰，等.日本落叶松家系早期选择技术 [J].东北林业大学学报,1997（3）:65-67.［Ding Zhenfang, WangJingzhang,Fang Haifeng,et al.The earlystage selection technology for family system of Larix kaempferi[J].Journal of NortheastForestryUniversity,1997(3）:65-67.]
+
+[20]Foti C,Khah E M,Pavli OI.Germination profiling of lentil genotypes subjected to salinity stress[J].Plant Biology,2O18.doi:10. 1111/plb.12714.
+
+[21］孙晓梅,张守攻,侯义梅,等.短轮伐期日本落叶松家系生长性 状遗传参数的变化[J].林业科学,2004,40（6)：68-74.［Sun Xiaomei,Zhang Shougong,Hou Yimei,et al.Age trends of genetic parameters for growth traits in short rotation Larix kaempferi families[J].Scientia Silvae Sinicae,2004,40(6）:68-74.]
+
+[22］李玲萍，李岩瑛，孙占峰，等.河西走廊东部沙尘暴特征及地面 气象因素影响机制[J].干旱区研究，2019,36（6)：1457- 1465.［Li Lingping,Li Yanying,Sun Zhanfeng,et al.Sandstorm characteristics and influence mechanism of surface meteorological factorsin eastern Hexi corridor[J].Arid Zone Research,2O19,36 (6):1457 -1465.]
+
+[23］焦文慧，张勃，黄涛,等.近30a河东地区极端气温时空变化 [J].干旱区研究,2019,36（6）：1466-1477.［JiaoWenhui, Zhang Bo,Huang Tao,et al. Temporal and spatial variation of extreme temperature in Hedong region in recent 3O years[J].Arid Zone Research,2019,36(6) :1466-1477.]
+
+[24］赵英永，戴云，崔秀明，等.考马斯亮蓝G-250染色法测定草 乌中可溶性蛋白质含量[J].云南民族大学学报（自然科学 版）,2006,15(3）:235-237.［Zhao Yingyong,DaiYun,Cui Xiuming,et al.Determination of soluble protein content in radix Aconiti kusnezoffii by coomassie brilliant blue G-25O staining method[J]. Journal of Yunnan University for Nationalities(Natural Science Edition）,2006,15(3）:235-237.]
+
+[25］刘浩荣,宋海星，刘代平，等.油菜茎叶可溶性糖与游离氨基酸 含量的动态变化[J].西北农业学报，2007，16（1)：123-126. [Liu Haorong,Song Haixing,Liu Daiping,et al.Dynamic changes of soluble sugar and free amino acid contents in stem and rape stems and leaf of different oilseed rape varieties[J].Acta Agriculturae Boreali-occidentalis Sinica,2007,16(1）:123-126.]
+
+[26］覃勇荣，农艳春，黄江滨,等.桂西北岩溶地区植物丙二醛和脯 氨酸含量比较[J].Agricultural Science& Technology,2011,12 (4）:469-473.[Qin Yongrong,Nong Yanchun,Huang Jiangbin, et al.Comparison of MDA and proline contents in plants in Karst areas of Northwest Guangxi[J].Agricultural Science & Technology,2011,12(4) :469-473.]
+
+[27］魏传斌，张萍，覃芸，等.宜兴百合叶片与鳞茎对干旱胁迫的生 理响应[J].安徽农业科学，2010,38（7）：3393－3394,3411. [Wei Chuanbin,Zhang Ping,Qin Yun,et al.Physiological responsesofLilium lancifolium leaf and bulb to drought stress[J].Jour nal of Anhui Agricultural Sciences,2010,38（7）:3393-3394, 3411. ]
+
+[28]Peterson R B,Havir E A.The multiphasic nature of nonphotochemical quenching:Implications for assessment of photosynthetic electron transport based on chlorophyll fluorescence[J].Photosynthesis Research,2004,82(1):95-107.
+
+[29]Earl HJ,Ennahli S.Estimating photosynthetic electron transport via chlorophyll fluorometry without photosystem II light saturation [J].Photosynthesis Research,2004,82(2）:177 -186.
+
+[30]Hendrickson L,Furbank R T,Chow W S.A simple alternative approach to assessing the fate of absorbed light energy using chlorophyll fluorescence[J].Photosynthesis Research,20O4,82（1）:73 -81.
+
+[31］胡文杰，王晓荣，胡兴宜，等.枫香优良种源及家系早期选择 [J].东北林业大学学报,2017,45（6）:7-13.[HuWenjie, Wang Xiaorong,Hu Xingyi,et al.Early election of superior provenances and families of Liquidambar formosana[J].Journal of Northeast Forestry University,2017,45(6）:7-13.]
+
+[32］熊涛，邓冬丽，王建忠，等.赤按第二代家系遗传变异及早期选择研究[J].中南林业科技大学学报，2017，37（5)：31-35.[Xiong Tao,Deng Dongli,Wang Jianzhong,etal.Study on geneticvariation and early selection of Eucalyptus camaldulensis secondgeneration family[J].Journal of Central South University of Forest-ry and Technology,2017,37(5):31-35.][33］武兴波，兰士波，宁小光.老爷岭红皮云杉子代变异分析及优良个体的早期选择[J].中国林副特产，2017(6)：15-18,24.[Wu Xingbo,Lan Shibo,Ning Xiaoguang.Variation analysis of $P i$ cea koraiensis progeny in Laoyeling and early selection of superiorindividuals[J].Forest By-Product and Speciality in China,2017(6):15-18,24.]
+
+[34］王志昊.几种沙生植物抗旱性评价[D].呼和浩特：内蒙古农业大学,2O18.［Wang Zhihao.Drought Resistance Evaluation ofSeveral Sand Plants[D].Hohhot:Inner Mongolia Agricultural Uni-versity,2018.]
+
+[35］王婧,李培,陈晓阳，等.黄樟种源、家系早期生长性状变异与初步选择[J」.中南林业科技大学学报，2018，38（2）：57-63.[WangJing,LiPei,ChenXiaoyang,etal.Variationand prelimina-ryselectionof early growth traits of Cinnamomum camphora prove-nances and families[J].Journal of Central South University of For-estryand Technology,2018,38(2）:57-63.]
+
+[36］耿东梅,单立山，李毅，等.土壤水分胁迫对红砂幼苗叶绿素荧光和抗氧化酶活性的影响[J].植物学报，2014，49（3）：282-291.[GengDongmei,ShanLishan,Li Yi,etal.Effects of soil wa-ter stress on chlorophyll fluorescence and antioxidant enzyme activ-ities of Reaumuria soongorica seedlings[J].Chinese Bulletin ofBotany,2014,49(3) :282-291.]
+
+[37］郑淑霞，上官周平.8种阔叶树种叶片气体交换特征和叶绿素 荧光特性比较［J].生态学报，2005，26（4）：1080－1087. [Zheng Shuxia,Shangguan Zhouping. Comparison of leaf gas exchange characteristics and chlorophyll fluorescence characteristics of 8 broad-leaved tree species[J].Acta Ecologica Sinica,2005,26 (4):1080 -1087.]
+
+[38］张金鑫,张景波，卢琦,等.人工模拟降雨变化对白刺（Nitraria tangutorum)生理生态特征的影响[J].中国沙漠,2018,38（4）： 747-755.[Zhang Jinxin,Zhang Jingbo,Lu Qi,et al.Effects of artificial rainfall simulation on physiological and ecological characteristics of Nitraria tangutorum[J].Journal of Desert Research, 2018,38(4) :747 -755.]
+
+[39］郝自远，李火根，康昊，等.北美鹅掌楸人工林生长规律及早期 选择可行性探究[J].林业科学研究，2017，30（5）：878-885. [Hao Ziyuan,Li Huogen,Kang Hao,et al.Study on growth law and feasibilityof earlyselectionofLiriodendron tulipifera[J].Forestry Research,2017,30(5):878-885.]
+
+[40］杨雪艳.卡西亚松生长节律及家系早期选择研究［D].北京：中国林业科学研究院,2018.［Yang Xueyan.Growth Rhythm andEarly Selection for YoungPinus kesiyaPlanations ofHalf-Sib Fam-ilies in South Yunnan,China［D].Beijing:China Forestry Research Institute,2018.]
+
+[41］赵奋成，林昌明，吴惠姗，等.湿地松×洪都拉斯加勒比松生长 性状遗传参数年度变化趋势及相关分析[J].林业与环境科 学,2018,34（2）:5-16.［Zhao Fencheng,Lin Changming,Wu Huishan,et al.Annual variation trend and correlation analysis of
+
+# Early selection and evaluation of superior families with drought resistance in Reaumuria soongorica
+
+LI Pei-pei，LI Yi， SU Shi-ping， CHONG Pei-fang，LI Zhen (College ofForestry,Gansu Agricultural University,Lanzhou,Gansu 73oO7O,Gansu,China)
+
+Abstract：This experiment was conducted in Liangzhou District of Wuwei City to establish experimental sites for seedling raising.The leaves of families of Reaumuria soongorica (i.e.2 a,3 a,4a,5 a,6 a-bearing Reaumuria soongorica）were usedas experimental materials in July2014,2015,2016,2017,and 2018 respectively.The indexesof soluble protein（SP）,soluble sugar（SS）,malondialdehyde（MDA）,proline（Pro）,chlorophyll a（Chl a）,chlorophyllb（Chlb）,totalchlorophyll（Chl a +b）,chlorophylla/b（Chl a/b）,and chlorophyllfluorescence in leaves were measured,and the feasibilityof earlyselection for drought resistanceand stabilityof character performance of each of the Reaumuria soongorica families were studied for five consecutive years. Reaumuria soongorica families with excellent drought resistance were selected and comprehensively evaluated.The results showed significant differences in SP,soluble sugar,proline,and chlorophyllfluorescence related indexes among the 77 tested Reaumuria soongorica families,which alowed the selection of Reaumuria soongorica families with good drought resistance.After five years ofcontinuous observation and measurement,theranking of2a,3 a,and4 a Reaumuria soongorica families was found to be consistent irrespective of the year,with coincidence rates gradually increasing to $8 3 . 3 3 \%$ . The coincidencerateof5aand6a Reaumuria soongoricafamilies at allevels is stable,with coincidence rates being greater than $8 3 . 3 3 \%$ . Folowing comprehensive analysis,the five most drought-resistant families were selected,including Xiaogangou $^ { - 3 }$ （XGG-3）,Bayanhaote -3 -4（BYHT-3）,Wuda-1（WD -1),Quanyanshan-2（QYS-2）, and Haishiwan $^ { - 1 }$ （HSW-1）,with a selection rate of $6 . 4 9 \%$ ：
+
+Key words:drought resistance；early selection；Reaumuria soongorica family；evaluation

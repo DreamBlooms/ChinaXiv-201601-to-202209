@@ -1,0 +1,91 @@
+# 打造新知识服务能力的德国数字信息计划
+
+顾立平
+
+中国科学院国家科学图书馆北京100190Email: gulp@ mail.las.ac.cn
+
+收稿日期：2013.12.12录用日期：2014.01.05发表日期：2014.01.21本文网址: http://www.kmf.ac.cn/tabid/583/InfoID/2724/frtid/911/Default.aspx
+
+# 摘要：
+
+德国科学组织联盟（Allianz der deutschen Wissenshaftsorganizationen）在 2013 年1月启动第二期数字信息计划（priorityinitiative-digitalinformation)，旨在促进数字科研信息的开放共享与利用。普鲁士文化遗产暨柏林州立图书馆、萨克森州暨哥廷根大学图书馆、法兰克福大学图书馆等加入了数字信息工作小组。该计划包括： $\textcircled{1}$ 国家许可制度， $\textcircled{2}$ 国家典藏战略， $\textcircled{3}$ 科研数据， $\textcircled{4}$ 开放获取， $\textcircled{5}$ 法律框架， $\textcircled{6}$ 虚拟科研环境等六项执行方案。德国科学组织联盟及第二期数字信息计划将在2013-2017年间为德国科研人员提供更为强大的知识服务能力。
+
+关键词：德国信息政策科研数据政策开放获取论文资助机构知识库知识产权著作权
+
+# 德国国家数字信息计划的概况
+
+数字信息计划是德国国家级信息政策，是由德国10家有代表性的科研机构组成的科学组织联盟，根据科技发展所需要的信息基础设施（包括技术软硬件、法律法规政策、人力资源培养、财务与商务环境等一系列配套措施）所设计的5年计划。第一期着重于组织和整合各个单位成员的需求、意愿、资源和政策方案，第二期着重于具体政策实施。
+
+德国科学组织联盟（Allianz der deutschen Wissenschaftsorganisationen）在 2013 年1月正式启动第二期数字信息计划（Priority initiative digital information）[1-2]：将在5 年内结合专业和政策领域的合作伙伴，建立数字化科研基础设施以及共享资源，并且在国家和国际背景下继续从法律、财务、技术和组织等4个层面持续推进开放出版和开放获取在科学领域内的实践。
+
+该联盟由10家德国科研教育单位所组成（见表1)，旨在提升科研与教育中的数字信息支撑能力，以满足“科学需要快速、自由和不受限制地交流信息”的需求。
+
+在 2008年至 2012 年推行的第一期工作基础上，第二期计划于 2012年1月 26 日制定[3]，并且在 2013年1月17日向外发布第一期工作总结以及第二期计划重点。称为“数字信息重点倡议”，主要内容包括[4]：$\textcircled{1}$ 促使数字出版、科研数据和查询检索的全面开放，以确保日后在其他科研环境中的数字信息的可用性。$\textcircled{2}$ 创造在国际上传播德国科研出版和科研数据的有利条件。 $\textcircled{3}$ 确保全球数字媒体与内容的长期获取以及融入德国数字科研环境。 $\textcircled{4}$ 持续创新支撑学术科研活动的信息技术和数字方法。
+
+表1德国科学组织联盟的成员单位  
+
+<html><body><table><tr><td>中文名称</td><td>德文名称</td></tr><tr><td>亚历山大威廉洪堡基金会</td><td>Die Alexander von Humboldt-Stiftung</td></tr><tr><td>德国学术交流基金会</td><td>Deutscher Akademischer Austauschdienst，DAAD</td></tr><tr><td>德意志研究联合会</td><td>Deutsche Forschungsgemeinschaft，DFG</td></tr><tr><td>德国国家科学院</td><td>dieDeutscheAkademie der Naturforscher Leopoldina - Nationale Akademie der Wissenschaften</td></tr><tr><td>弗劳恩霍夫应用研究促进协会</td><td>Fraunhofer-Gesellschaft</td></tr><tr><td>亥姆霍兹科学研究中心</td><td>Helmholtz-Gemeinschaft Deutscher Forschungszentren</td></tr><tr><td>德国高等学府理事会</td><td>Hochschulrektorenkonferenz，HRK</td></tr><tr><td>莱布尼兹科学会</td><td>Leibniz-Gemeinschaft</td></tr><tr><td>马克斯·普朗克协会</td><td>Max-Planck-Gesellschaft</td></tr><tr><td>科学理事会</td><td>Wissenschaftsrat</td></tr></table></body></html>
+
+# 2德国科研资助单位、科研单位、国家以及地方图书馆的参与
+
+德国科学组织联盟自2008年成立以来，已经在第一期计划中完成基本原则、策略、国家许可的指导方针、科研数据共享协议、虚拟科研环境的建立、开放获取范式的国家存储等，并且为著作权法修正提出科学界的修法建议。第二期数字信息计划包括6个战略实施方案[5]： $\textcircled{1}$ 国家许可制度（NationaleLizenzierung)， $\textcircled{2}$ 国家典藏战略（Nationale Hosting-Strategie）， $\textcircled{3}$ 科研数据（Forschungsdaten）， $\textcircled{4}$ 开放获取（Open Access）， $\textcircled{5}$ 法律框架（Rechtliche Rahmenbedingungen）， $\textcircled{6}$ 虚拟科研环境（VirtuelleForschungsumgebungen）等推进计划。
+
+德国主要的公共、教育、科研图书馆也参与了第二期计划的各个工作小组，如表2所示：
+
+表2德国各界图书馆参与第二期数字信息计划的情况  
+
+<html><body><table><tr><td>第二期数字信息计划的层面</td><td>接受委托的图书馆（工作小组成员不限于下列单位)</td></tr><tr><td>国家许可制度[6]</td><td>萨克森州及哥廷根大学图书馆(德国科研基金会) 普鲁士文化遗产暨柏林州立图书馆(德国科研基金会) 法兰克福大学图书馆 (德国科研基金会) 海德堡大学图书馆 (德国科研基金会) 锡根大学图书馆（德文地区图书馆联合协会：German，Austrianand Swiss Consortia Organisation，GASCO)</td></tr><tr><td>国家典藏战略[7]</td><td>巴伐利亚州图书馆(德国科研基金会) 法兰克福大学图书馆(德国科研基金会)</td></tr><tr><td>科研数据[8]</td><td>联邦政府研究部门图书馆 （AG Bibliotheken der Ressortforschung des Bundes) 萨克森州及哥廷根大学图书馆 (高等学府理事会)</td></tr><tr><td>开放获取[9]</td><td>海德堡大学图书馆 (高等学府理事会) 联邦政府研究部门图书馆</td></tr><tr><td>法律框架[10]</td><td>哈根大学图书馆 (德国科研基金会)</td></tr><tr><td>虚拟科研环境[11]</td><td>慕尼黑大学 (德国科研基金会) 多特蒙德技术大学 (高等学府理事会) 萨克森州及哥廷根大学图书馆 (高等学府理事会)</td></tr></table></body></html>
+
+德国科学组织联盟的运行机制是[12：各个成员单位派员成立共同监督小组，且各自指派两名人员负责
+
+协调沟通，工作小组定期向监督小组汇报各项工作进度，监督小组负责检查工作并且制定进一步发展的行动建议。
+
+德国图书馆参与数字信息计划的方式，一是由主要具有相关经验的图书馆承接研究项目，成为工作小组的成员；二是在能力所及的范围内，根据监督小组制定的最终行动纲要，实施有关的政策推进工作。
+
+# 3数字信息计划中的政策实施重点
+
+根据德国数字信息的6项计划，在提升该国的知识服务能力方面，主要是为满足在数字化科研时代中的学术交流需求以及解决如何破除信息交流障碍的各种困难。
+
+（20 $\bullet$ 国家许可制度[13]：在国家范围内以及其他开放获取领域中，实现数字出版物在最广泛意义下的可用性。第二期计划主要是促使联盟成员在联盟倡议的原则下，联合收购许可证。其目的是为了实现科研信息市场的长期可持续发展，将数字信息资源供应从供应驱动（商业模式）扭转为需求驱动（科研友好模式)。
+
+$\bullet$ 国家典藏战略[14]：实行德国科研基金的国家战略以及科研机构长期保存的“双层（doppeltenBodens）”做法，以实现数字出版物的永久保存。第二期计划要求实施对电子信息资源长期保存的各项协议和项目。
+
+$\bullet$ 科研数据管理[15]：旨在以专业的信息科学与信息技术方法，实现科研数据的收集、存储、开放共享。第二期计划包括：改进数据互操作性和元数据交换方式，以成功案例促进科研数据的使用与开放，分析科研数据中心的营运成本，确保用于科研目的的科研数据不受访问限制等。
+
+$\bullet$ 开放获取运动[16]：主要为数字科研环境去除财务、技术或者其他法律方面的障碍。第二期计划旨在促进科研数字信息的全面开放获取，通过政策以及实践指南，引导科研教育机构有系统地在不同学术领域内实践开放获取。协同科学欧洲（Science Europe）和全球研究理事会（Global Research Council）共同促进开放出版和开放获取。
+
+$\bullet$ 法律法规政策[17]：著作权法以及邻接权的法律框架对发展数字科研环境至关重要。第二期计划着重对著作权法法条进行修订，提高联盟在著作权权利事务中的会议协商地位以及解决联盟协议中的若干交叉议题，例如开放出版、出版物与科研数据的使用权利，开放获取服务的长期资助以及确保开放获取的合法权益等。此外，联盟伙伴努力争取减低对数字出版的税收，使之达到与纸本出版相似的水平。
+
+（20 $\bullet$ 虚拟科研环境[18]：构建可让科学家们在不同地方，以不受限制的方式进行科研合作的工作平台，包括从处理科研数据到发表成果的整个过程的软件和网络通讯基础设施。第二期计划将着重提升现有工具在映射和分析方面的能力，从临时搭建平台过渡到永久性操作（明文表示不会考虑许可证和收费制度），探讨新的组织形式可能产生的各种法律问题（如土地资金资源等）以及评价与交流成功案例的经验等。
+
+# 4德国数字信息计划将对全球科技界产生广泛影响
+
+德国科学组织联盟在《数字科研数据》的文件中强调[19]：数字信息计划旨在实现该国提升科学质量、生产力和世界竞争力等目标，是科学、政治和其他社会部门必须共同投入的一项战略任务。
+
+第一期计划着重规划和设计，第二期计划注重实践和推广，每期计划历时5年。这些内容不仅与德国图书馆及信息中心的知识服务相关，也与世界各国的图书情报事业有关。该计划参考了全球相关政策报告与本地实务经验，并且结合国家科技发展战略与图书馆事业，形成一系列协议、规范、实践指南和行动计划（请参考http://www.allianzinitiative.de 网站中的文件)，其具体实践过程与结果，值得我国图书馆界观察借鉴。抛砖引玉，是以为文。
+
+# 参考文献：
+
+1.Allianz der Wissenschaftsorganisationen.Priority Initiative“Digital Information”[EB/OL].[2012-08-16].
+
+http://www.allianzinitiative.de/en/start/.   
+2. Die Allianz der deutschen Wissenschaftsorganisationen. Schwerpunktinitiative “Digitale Information”der Allianz-Partnerorganisationen[EB/OL].(2008-01-11).[2013-03-08].htp://www.allianzinitiative.de/fileadmin/ user_upload/keyvisuals/atmos/pm_allianz_digitale_information_details_080612.pdf.   
+3. Die Allianz der deutschen Wissenschaftsorganisationen. Schwerpunktinitiative“Digitale Information” der Allianz der deutschen Wissenschaftsorganisationen- Fortsetzung der Zusammenarbeit in den Jahren 2013 bis 2017[EB/0L].[2013-03-08].http:/ww.allianzinitiative.de/fileadmin/user_upload/Schwerpunktinitiative_2013 -2017. pdf.   
+4. Allianz der Wissenschaftsorganisationen. Allianz der Wissenschaftsorganisationen setzt die Schwerpunktini tiative ,Digitale Information" fort[EB/0L].[2013-03-08].htp://ww.allianzinitiative.de/de/steuerungsgrem ium/allianz_der_wissenschaftsorganisationen setzt_die_schwerpunktinitiative_digitale_information fort/.   
+5. Allianz der Wissenschaftsorganisationen. Start[EB/0L].[2012-08-16].htp://www.allianzinitiative.de/de/sta rt/.   
+6.Allianzinitiative. Vorsitzende der Arbeitsgruppe Nationale Lizenzierung[EB/0L].[2013-04-07].http://www.al lianzinitiative.de/de/handlungsfelder/nationale_lizenzierung/arbeitsgruppe materialien/.   
+7. Allianzinitiative. Vorsitzende der Arbeitsgruppe Nationale Hosting-Strategie[EB/0L].[2013-04-07].http:// ww.allianzinitiative.de/de/handlungsfelder/nationale hosting_strategie/arbeitsgruppe materialien/.   
+8. Allianzinitiative. Vorsitzende der Arbeitsgruppe Forschungsdaten[EB/0L].[2013-04-07].http://ww.allianzin itiative.de/de/handlungsfelder/forschungsdaten/arbeitsgruppe materialien/.   
+9.Allianzinitiative. Vorsitzende der Arbeitsgruppe Open Access[EB/OL].[2013-04-07]. http://www.allianzinitiative.de/de/handlungsfelder/open_access/arbeitsgruppe materialien/.   
+10.Die Allianz der deutschen Wissenschaftsorganisationen. Vorsitzende der ArbeitsgruppeRechtliche Rahmenbedi ngungen[EB/0L].[2013-04-07].htp://www.allianzinitiative.de/de/handlungsfelder/rechtliche_rahmenbedingung en/arbeitsgruppe_materialien/.   
+11.Die Allianz der deutschen Wissenschaftsorganisationen.Vorsitzende der Arbeitsgruppe Virtuelle Forschungs umgebungen[EB/0L].[2013-04-07].htp://ww.allianzinitiative.de/de/handlungsfelder/virtuelle_forschungsumg ebungen/.   
+12.Die Allianz der deutschen Wissenschaftsorganisationen. Steuerungsgremium[EB/OL].2013-03-08].http://www.a llianzinitiative. de/de/steuerungsgremium/.   
+13.Allianzinitiative. Nationale Lizenzierung[EB/0L].[2013-04-07].htp://ww.allianzinitiative.de/de/handlung sfelder/nationale_lizenzierung/.   
+14.Allianzinitiative. Nationale Hosting-Strategie[EB/0L].[2013-04-07].htp://www.allianzinitiative.de/de/han dlungsfelder/nationale hosting strategie/.   
+15.Allianzinitiative. Forschungsdaten[EB/L].[2013-04-07].http://ww.allianzinitiative.de/de/handlungsfelde /forschungsdaten/.   
+16.Allianzinitiative. 0pen Access[EB/0L].[2013-04-07].htp://ww.allianzinitiative.de/de/handlungsfelder/ope n access/.   
+17.Die Allianz der deutschen Wissenschaftsorganisationen. Rechtliche Rahmenbedingungen[EB/0L].[2013-04-07].h ttp://www.allianzinitiative.de/de/handlungsfelder/rechtliche_rahmenbedingungen/.   
+18.Die Allianz der deutschen Wissenschaftsorganisationen.Einsatz einer virtuellen ForschungsumgebungEB/0 L].[2013-04-07].http://www.allianzinitiative.de/fileadmin/user_upload/VRE-Fragenkatalog-II.pdf.   
+19.Die Allianz der deutschen Wissenschaftsorganisationen..Grundsatze zum Umgang mit Forschungsdaten[EB/0L]. [2011-11-04].http://www.allianzinitiative.de/de/handlungsfelder/forschungsdaten/grundsaetze/.
+
+（本文责任编辑：杜杏叶）

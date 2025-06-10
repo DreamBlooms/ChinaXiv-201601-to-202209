@@ -1,0 +1,183 @@
+# DOI: 10.5846/stxb201604060633
+
+盛浩,宋迪思,周萍,夏燕维,张杨珠.土地利用变化对花岗岩红壤底土溶解性有机质数量和光谱特征的影响.生态学报,2017,37(14):4676-4685.ShengH,SongD，ZouP，XiaYW,ZagYZfesofldusecagodisoledorganicateriubsoilriedfrograitetdspectrum characteristics.Acta Ecologica Sinica,2017,37(14） :4676-4685.
+
+# 土地利用变化对花岗岩红壤底土溶解性有机质数量和光谱特征的影响
+
+盛浩1，\*，宋迪思'，周 萍²，夏燕维，张杨珠
+
+1湖南农业大学资源环境学院，长沙410128  
+2中国科学院亚热带农业生态研究所亚热带农业生态过程重点实验室，长沙410125
+
+摘要：了解底土溶解性有机质(DOM)的数量和化学结构对土地利用变化的响应,对科学评价区域土壤有机质动态和碳库稳定性具有重要意义。通过选取花岗岩红壤丘陵区同一景观单元的天然林地(常绿阔叶林)以及由此转变而来的杉木人工林、板栗园和坡耕地,采用化学分析结合光谱扫描(紫外光谱、二维荧光光谱和傅里叶变换红外光谱)技术,研究底土 $( 0 . 2 { - } 1 \ \mathrm { m } ^ { \cdot }$ )和表土(0一 $) . 2 \mathrm { ~ m ~ }$ )DOM数量和结构对土地利用变化的响应差异,结果表明， $5 8 \% - 8 7 \%$ 的 DOM 贮存在底土中。天然林地土壤的 DOM数量最为丰富,底土DOM的宏观化学结构比表土更为简单,以碳水化合物、类蛋白为主。天然林转变为其他利用方式后，底土DOM的损失量( $2 6 \% - 4 1 \%$ )超过表土( $1 2 \% - 4 9 \%$ ),冬季比夏季更为凸显;这反映底土DOM数量对人为干扰和植被变化的高度敏感性。同时,底土DOM宏观化学结构趋于复杂化,芳香类、烷烃类和烯烃类的化学抗性物质出现积累的现象。DOM光谱曲线形状、特定峰值、特征值对土地利用的响应敏感,对人为干扰后植被、土壤有机质的变化具有生态指示意义。研究显示，天然林地转变为其他利用方式后，不仅导致底土DOM的损失，也显著降低土壤有机质品质，长期上削弱底土的碳库稳定性和碳吸存能力。
+
+关键词：活性有机质;官能团;有机质结构和组成;农业管理措施;花岗岩红壤
+
+# Effects of land-use change on dissolved organic matter in subsoil derived from granite: quantity and spectrum characteristics
+
+SHENG Hao1,\*，SONG Disi’，ZHOU Ping²，XIA Yanwei¹，ZHANG Yangzhu'
+
+1 College of Resources & Environment，Hunan Agricultural University，Changsha 41O128，China   
+2KeyLaboratofoclrssoestefblcuedfec 410125，China
+
+Abstract：Understanding thequantityand chemical structureof disolvedorganic matter（DOM）insubsoil and their response toland-usechange is esentialfor evaluating theregional soil organic mater dynamicsandsoilcarbon stability.In the present study，four adjacent land-usesystems，including natural forest（control treatment），Chinese fir plantation, Chinese chestnut orchard，and sloping tillage wereselected from asubtropical hillylandscape unit.Thesoil type was red soil derived from granite.Chemical analysis combined with spectrum scannng technology，including ultraviolet spectrum, two-dimensionalfluorescencespectra，and near infrared spectroscopy，wereused to analyze the quantityand chemical structure of DOM in the topsoil（O一 $. 0 . 2 \mathrm { ~ m ~ }$ ）and subsoil $( 0 . 2 { - } 1 \ \mathrm { m } )$ ）in different land use areas.The results showed that DOM was mainly stored in the subsoil，accounting for 58- $87 \%$ of all DOM in the soil profile.Among the four land-use systems，natural forest contained themost DOMand showed simpler chemical structures of DOM inthe subsoil（mainly carbohydrateand proteoid）thaninthetopsoil.After thenaturalforest waschangedtootherlanduses，thesubsoil suffered more losses in DOM（ $2 6 \% - 4 1 \%$ ）than the topsoil（ $1 2 \% - 4 9 \%$ ），which was more obvious in winter than in summer. This indicatesthatthequantityof DOM inthe subsoil was highlysensitive to human disturbanceand vegetation changes.In addition,the chemical structure of DOMin the subsoil was generally morecomplex，andchemical recalcitrant components （aromatics，alkanes，and alkenes）accumulated at $8 0 { - } 1 0 0 \ \mathrm { c m }$ depth following land use change. The spectrum curve, specific absorption peak，and characteristic value of soil DOM were sensitive to land use change and can be used as ecological indicatorsof vegetation and soilorganic materchangeafter strong human disturbances.Thisstudysuggests that thechange from natural forest to otherlanduses notonlyreduced thequantityof subsoil DOM，butalso decreased the quality of soil organic mater,which may weakencarbon stabilityandthecarbonsequestration capacityofsubsoil in the long term.
+
+Key Words：labile organic mater；functional group；structure andcomponent of soil organic matter；agricultural management；red soil derived from granite
+
+溶解性有机质(DOM)是土壤、沉积物中活跃的有机组分,不仅供应微生物食物网所需养分和能量,也在土体发育、污染物迁移、有害紫外线吸收和温室气体产生上起着重要作用[]。土壤 DOM主要来源于新进入土壤的植物光合产物(如凋落物和根际沉积物)和腐殖质化的有机质,它的来源、数量和组成受土地利用活动的强烈影响[2-4]。研究表明,表土DOM 含量和结构对土地利用变化的响应高度敏感[4-6],但有关底土 DOM 的贮量和化学组成对土地利用的响应仍有待深入探索。
+
+尽管 DOM常用溶解性有机碳(DOC)来表征,但DOM的化学组成结构复杂,除少量低分子量有机化合物可直接分离、纯化和化学检测外,大量高分子量有机化合物(如腐殖物质、酶)结构仍不能确定[7]。新兴的光谱技术(如紫外-可见光谱、荧光光谱和红外光谱)具有成本低、信息量丰富、不破坏天然有机物结构的优点,成功应用于诊断 DOM 的来源、官能团组成和宏观化学特性[3.8-9]。有研究表明,DOM光谱曲线形状、特定峰值、特征值对土地利用变化的响应敏感,对人为干扰后植被、土壤有机质的变化具有生态指示意义[2-3]。与表土相比,底土 DOM具有更高的溶解度[0],以分子结构较简单的碳水化合物、脂肪类有机物为主[1-12],而植被类型[13]、人工收获[14]、施有机肥[15]和强烈耕作[16]显著影响底土DOM的宏观化学结构和特定官能团的数量。多种光谱技术的引入有助于全面了解土地利用变化后土壤剖面DOM组成结构的变化趋势。
+
+近30年来,南方红壤丘陵区土地利用集约度日益提高,农林用地互转强烈[17]。常绿阔叶林作为本区的地带性植被,是生物多样性最高的生物群区之一;然而,原生的地带性植被日益萎缩,经济效益更为突出的人工植被迅速拓增。这种大面积、快速的原生植被损失和土地转换已导致严重的水土流失、土壤剖面有机质降低和土壤生产力低下等一系列土壤质量问题[18-21],而相关的土壤有机质性状变化和机理仍有待深人研究。因此,本研究选取中亚热带丘陵区同一景观单元下的天然林以及由此转变而来的杉木人工林、板栗园和坡耕地,研究土地利用变化对 ${ \mathrm { ~ 1 ~ m ~ } }$ 深土壤剖面上DOM数量和光谱特征的影响,试图揭示土地利用变化后底土(0.2—1m)DOM 数量和化学组成的变化趋势,为区域土壤有机质动态预测和土地利用方式的科学调整提供参考。
+
+# 1材料与方法
+
+# 1.1 试验地概况
+
+试验地设于湘赣边界的大围山国家森林公园 $( 1 1 4 ^ { \circ } 2 ^ { \prime } - 1 1 4 ^ { \circ } 1 2 ^ { \prime } \mathrm { ~ E ~ } . 2 8 ^ { \circ } 2 1 ^ { \prime } - 2 8 ^ { \circ } 2 6 ^ { \prime } \mathrm { ~ N ~ } )$ ,地处浏阳河支流大溪河流域南侧,为典型低丘陵地貌，海拔 $1 5 0 { - } 2 0 0 \mathrm { ~ m ~ }$ ;气候属中亚热带湿润季风气候,原生植被为常绿阔叶林,但多转换为松、杉人工林和果园。成土母岩为古老的花岗闪长岩,形成于中元古代雪峰晚期(约8亿年前）[20]。土壤为高度风化发育的花岗岩红壤,土层厚度 $> 1 \mathrm { ~ m ~ }$ ,土体构型为A—AB—B—BC—C 型,植被良好的土壤还有2- $- 3 ~ \mathrm { c m }$ 厚的0层。
+
+选取当地4种毗邻的典型土地利用方式：樟树天然林以及由此转变而来的杉木人工林、板栗园和坡耕地。天然林自然演替 $> 3 0 0 \mathrm { ~ a ~ }$ ,乔、灌和草本层明显,乔木优势种为樟树（Cinnamomumcamphora）。毗邻的杉木（Cunninghamia lanceolata）人工林、板栗（Castanea mollssima)园和坡耕地由附近天然林经砍伐、炼山后改造而成,土地利用年限约 $1 0 \mathrm { ~ a ~ }$ 。4种土地利用方式相距 $< 1 ~ \mathrm { k m }$ ,母质、海拔和地形部位类似。杉木人工林内混生少量杂木,地面草本稀疏分布着芒萁（Dicranopteris dichotoma）。板栗园和坡耕地前身为杂木林,基于坡改梯技术营建,定期耕作、施肥、除草和杀虫,旱季定期浇水。坡耕地为间歇性嚣荒的菜地,夏季以种辣椒为主。人工林、板栗园和坡耕地有明显水土流失现象。试验地0一 $2 0 ~ \mathrm { c m }$ 土壤的基本理化性状如下：容重介于1.05—1.32$\mathbf { g } / \mathrm { c m } ^ { 3 }$ ,pH介于4.8—5.3,土壤有机碳含量 $1 2 . 4 5 \mathrm { - } 1 9 . 1 2 ~ \mathrm { g / k g }$ ,土壤全氮含量 $1 . 1 6 { - } 1 . 6 1 ~ \mathbf { g } / \mathbf { k g } _ { \circ } ^ { \circ }$ 有关试验地的地理位置、植被基本状况、土壤基本理化性质、土地利用史等详细描述还可参考文献[20.22]。
+
+# 1.2 土壤采集和分析
+
+2014年1月，在各利用方式内随机设置3块 $2 5 \mathrm { ~ m ~ } \times 2 5 \mathrm { ~ m ~ }$ 的样地。夏季和冬季(6月和1月)时,在样地内随机选取10—15个采样点,采用自制钢制土钻（长 $1 . 2 \mathrm { ~ m ~ }$ ，内径 $2 . 8 ~ \mathrm { c m }$ ），分层采集0—20、20—40、40—60、60—80、80— $1 0 0 ~ \mathrm { c m }$ 土层的混合样品。新鲜土壤迅速带回室内,拣去可见石砾、动植物残体和碎屑等土壤异物,过 $2 ~ \mathrm { m m }$ 孔径尼龙筛,混匀,置于 $4 ^ { \circ } \mathrm { C }$ 冰箱避光保存,用于DOM提取。
+
+土壤DOM采用超纯水浸提,参考 Bolan 等[23]的前处理操作流程,浸提后滤液中的碳采用重铬酸钾外加热容量法测定[10]。本区研究表明，容量法因氧化不完全存在 $$ 定低估,应用经验转换方程,将容量法测得的DOC 结果向总有机碳分析仪（TOC 仪)法的数据转换[24]。DOM紫外-可见光谱测定主要参考 Kalbitz[2]的描述,即：将DOC 浓度稀释到 $1 0 ~ \mathrm { { m g / L } }$ ,用紫外分光光度计(UV1101,天美科学仪器有限公司，上海)分别测定$2 5 4 ~ \mathrm { n m }$ 和 $2 8 0 \ \mathrm { n m }$ 处的吸收值。 A
+
+DOM荧光二维光谱采用荧光分光光度计(F7000,日立仪器有限公司,日本)扫描,设置激发和发射光栅狭缝宽度 $1 0 \ \mathrm { n m }$ ,扫描速度 $1 2 0 0 \ \mathrm { n m / m i n }$ ,激发波长258- ${ \cdot } 2 7 2 \ \mathrm { n m }$ ,荧光发射波长 300- $4 8 0 \ \mathrm { n m }$ ,荧光同步波长250 $5 0 0 \ \mathrm { n m }$ 。 人
+
+DOM 红外吸收光谱：将超纯水提取的夏季土壤 DOM 滤液(DOM浓度较高)经冷冻干燥后,称样 $1 ~ \mathrm { m g }$ 与$2 0 0 ~ \mathrm { { m g } ~ K B r }$ 混匀,置入玛瑙研钵在红外灯下充分研磨,在 $7 5 \mathrm { ~ k P a }$ 压力下保持 $5 ~ \mathrm { m i n }$ 压片,压好的薄片用傅里叶变换红外光谱仪(Spectrum 65,珀金埃尔默公司,美国)扫描,扫描波数范围 $4 ~ 0 0 0 { - } 4 5 0 ~ \mathrm { c m } ^ { - 1 }$ 。
+
+1.3数据计算和分析
+
+DOC 密度 $( { \mathrm { t } } V { \mathrm { h m } } ^ { 2 } ) { = } { \mathrm { D 0 C } }$ 含量 $( { \bf g } / { \bf k g } ) \times$ 容重 $( { \bf g } / { \mathrm { c m } ^ { 3 } } ) \times$ 土层厚度 $( { \mathrm { c m } } ) \times$
+
+DOM的芳香性指数 $\mathrm { ( \ A I ) } = \mathrm { ( \ U V _ { 2 5 4 } / D O C ) } \times 1 0 0$
+
+荧光发射光谱腐殖化指数( $\mathrm { H I X } _ { \mathrm { e m } }$ ）： $2 5 4 \ \mathrm { n m }$ 激发波长下,荧光发射光谱中( $\Sigma ~ 4 3 5 { \mathrm { - } } 4 8 0 ~ { \mathrm { n m } }$ )区域与$( \Sigma 3 0 0 { - } 3 4 5 \ \mathrm { n m } )$ 区域的峰面积比值。
+
+荧光效率( $\cdot \mathrm { F _ { \mathrm { e f f } } } )$ ：样品荧光发射光谱的最大荧光强度( $\mathrm { \Delta F _ { \mathrm { m a x } } }$ )除以其SUVA值。
+
+DOM 红外特征峰的归属主要参考 $\mathrm { H e }$ 等[25]和宋迪思等[26]的描述。
+
+基于 SPSS 13.0和Origin 8.0软件平台进行数据统计和计算。应用单因素方差分析,对相同土层 DOC 密度 $\mathrm { , E _ { 2 5 4 } , E _ { 2 8 0 } , A I }$ 和 $\mathrm { H I X } _ { \mathrm { e m } }$ 进行均值比较,差异显著性水平设为0.05。
+
+# 2结果
+
+2.1不同土地利用方式土壤DOC含量和密度土地利用变化强烈影响土壤 DOC 含量和密度的剖面分布特征（图1）。随剖面加深,天然林和板栗园土壤DOC含量和密度在 $2 0 { - } 4 0 \ \mathrm { c m }$ 的淀积层(AB、B层)升高,但杉木人工林DOC 含量和密度明显降低，在$4 0 { \ - } { \ - } 6 0 \ \mathrm { c m }$ 的淀积层降至最低值，直至 $6 0 { - } 1 0 0 ~ \mathrm { c m }$ 的BC层才有所升高，以6月最为明显。坡耕地1月冬闲时,DOC 含量和密度在土壤剖面上的变化不大,但6月作物生长期间,底土DOC 含量和密度升高,可能与耕种、施肥、降雨淋溶作用携带DOC 在耕层以下土壤中淀积有关。
+
+4 种土地利用方式下，DOC 主要贮存在底土( $2 0 { \mathrm { - } } 1 0 0 \ { \mathrm { c m } } \ ,$ 中，占 $1 \mathrm { ~ m ~ }$ 深剖面 DOC 总量的 $5 8 \%$ 一 $8 7 \%$ ，这主要与底土层深厚( $8 0 ~ \mathrm { c m } \mathrm { \dot { \Omega } }$ )有关。若按相同的土层深度（如 $2 0 ~ \mathrm { c m }$ )来比较，表土中仍富含 $\mathrm { D O C }$ 。底土DOC 密度对土地利用变化的响应更为敏感。天然林改为杉木人工林后,表土DOC 密度并未显著降低,但底土DOC密度显著降低 $5 8 \% - 7 7 \%$ 。天然林改为板栗园后，表土和底土DOC 密度分别降低 $12 \%$ 一 $2 9 \%$ 和 $2 6 \% - 4 1 \%$ ，改为坡耕地后表土和底土DOC 密度降幅更大,分别降低 $7 1 \%$ 一 $78 \%$ 和 $7 3 \%$ 一 $8 3 \%$ 。
+
+就 ${ \mathrm { ~ 1 ~ m ~ } }$ 深土壤剖面而言,天然林改为其他利用方式后,DOC 密度显著降低 $2 4 \%$ 1 $8 3 \%$ ,以改为坡耕地的降幅最大 $( 7 3 \% - 8 3 \% )$ ），改为板栗园的降幅最小 $( 2 4 \% - 4 6 \% )$ )（图1)。季节显著影响土壤DOC 密度,夏季土壤 DOC 密度高于冬季。在不同季节,土地利用变化一致性地降低了土壤 DOC 密度,其中冬季的降幅( $4 6 \%$ 一$8 3 \%$ ,平均 $6 5 \%$ )高于夏季( $2 4 \% - 7 3 \%$ ,平均 $47 \%$ ）。
+
+![](images/6dc1001cacde4d9fa03c7065b02772f63a0aa516013cd6e075a2685235bbf6b7.jpg)  
+图1不同土地利用方式土壤DOC含量和密度的垂直分布  
+Fig.1Vertical distribution of soil DOC contents and densities in different land use systems不同小写字母表示不同方式同一土层间差异显著( $P { < } 0 . 0 5 )$ ；图中数据为平均值 $\cdot \pm$ 标准差（ $\scriptstyle { \dot { n } } = 3$ ）
+
+# 2.2土壤DOM的紫外吸收光谱特征
+
+天然林转变为其他利用方式后，表土DOM的 $\mathrm { E } _ { 2 5 4 }$ 值普遍降低，降幅介于 $1 8 \%$ 一 $6 9 \%$ （表1）。但表土DOM的 $\mathrm { E } _ { 2 8 0 }$ 、AI 值对土地利用变化的响应不一,其中 $\mathrm { E } _ { 2 8 0 }$ 表现为天然林改为杉木人工林后升高 $3 3 \%$ ,改为板栗园后
+
+未变化，而改为坡耕地后降低 $4 7 \%$ ;AI值表现为天然林改为板栗园后升高 $12 7 \%$ ,改为杉木人工林和坡耕地后分别降低 $3 7 \%$ 和 $6 1 \%$ 。相反,土地利用变化后,底土DOM 的 $\mathbf { E } _ { 2 5 4 } \setminus \mathbf { E } _ { 2 8 0 }$ 和 AI值均呈普遍升高的趋势,特别是天然林改为杉木人工林和板栗园后的升幅更大（表1）。
+
+表1不同土地利用方式土壤DOM的紫外和荧光光谱学特征值  
+Table 1Spectroscopic properties of soil DOM in different land use system   
+
+<html><body><table><tr><td colspan="7">OpeetroseopreProper</td></tr><tr><td>土地利用方式</td><td>土层 Soil degth/</td><td>E254</td><td>E280</td><td>AI</td><td>HIXem</td><td>Feff</td><td>Fmax</td></tr><tr><td>樟树天然林</td><td>0--20</td><td>0.673±0.024a</td><td>0.404±0.032a</td><td>0.79±0.21a</td><td>2.32±0.13a</td><td>84.7±28.4a</td><td>362</td></tr><tr><td>Natural forest</td><td>20-40</td><td>0.289±0.019b</td><td>0.224±0.012b</td><td>0.21±0.08b</td><td>1.81±0.08a</td><td>75.7±21.0ab</td><td>358</td></tr><tr><td rowspan="9">杉木人工林 Chinese fir plantation</td><td>40-60</td><td>0.195±0.018c</td><td>0.102±0.008c</td><td>0.17±0.05bc</td><td>1.65±0.16a</td><td>132.0±38.6a</td><td>359</td></tr><tr><td>60--80</td><td>0.135±0.011c</td><td>0.125±0.012c</td><td>0.12±0.07c</td><td>2.27±0.15a</td><td>59.2± 16.1b</td><td>361</td></tr><tr><td>80—100</td><td>0.136±0.017c</td><td>0.141±0.013c</td><td>0.11±0.05c</td><td>2.11±0.10a</td><td>99.0±30.2a</td><td>360</td></tr><tr><td>0-20</td><td>0.550±0.011a</td><td>0.539±0.071a</td><td>0.50±0.14a</td><td>4.80±0.21a</td><td>53.0±12.6ab</td><td>440</td></tr><tr><td>20-40</td><td>0.322±0.015b</td><td>0.411±0.038b</td><td>0.67±0.13a</td><td>5.02±0.32a</td><td>25.1±8.0b</td><td>442</td></tr><tr><td>40-60</td><td>0.086±0.021d</td><td>0.110±0.013c</td><td>0.33±0.10b</td><td>1.94±0.19b</td><td>73.5±25.1a</td><td>363</td></tr><tr><td>60-80</td><td>0.153±0.012c</td><td>0.138±0.028c</td><td>0.27±0.11b</td><td>1.29±0.16b</td><td>66.9±15.4a</td><td>356</td></tr><tr><td>80—100</td><td>0.039±0.018d</td><td>0.183±0.026c</td><td>0.18±0.06b</td><td>2.12±0.13b</td><td>55.4±18.3ab</td><td>364</td></tr><tr><td>0--20</td><td>0.353±0.012b</td><td>0.428±0.045b</td><td>1.79±0.64a</td><td>2.62±0.18b</td><td>28.0±9.5b</td><td>366</td></tr><tr><td>板栗园 Chinese chestnut</td><td>20-40</td><td>0.342±0.008b</td><td>0.412±0.027b</td><td>1.15±0.37a</td><td>2.48±0.15b</td><td>75.1±18.6a</td><td>359</td></tr><tr><td rowspan="6">orchard 坡耕地</td><td>40-60</td><td>0.366±0.022b</td><td>0.443±0.023b</td><td>1.53±0.46a</td><td>3.14±0.31b</td><td>38.3±16.3ab</td><td>439</td></tr><tr><td>60-80</td><td>0.453±0.019a</td><td>0.512±0.035a</td><td>1.88±0.58a</td><td>5.23±0.38a</td><td>79.4±22.5a</td><td>448</td></tr><tr><td>80—100</td><td>0.487±0.057a</td><td>0.529±0.034a</td><td>2.03±0.70a</td><td>6.38±0.53a</td><td>33.8±10.9b</td><td>440</td></tr><tr><td>0--20</td><td>0.207±0.054a</td><td>0.213±0.057a</td><td>0.31±0.18a</td><td>1.82±0.18ab</td><td>97.4±24.8a</td><td>357</td></tr><tr><td>20-40</td><td>0.113±0.015b</td><td>0.194±0.013a</td><td>0.18±0.06ab</td><td>2.04±0.11a</td><td>108.7±28.3a</td><td>362</td></tr><tr><td>40-60</td><td>0.202±0.028a</td><td>0.076±0.018b</td><td>0.33±0.12a</td><td>1.67±0.08ab</td><td>151.9±41.1a</td><td>359</td></tr><tr><td></td><td>60-80</td><td>0.082±0.017c</td><td>0.068±0.017b</td><td>0.11±0.05b</td><td>1.69±0.21ab</td><td>118.9±28.4a</td><td>363</td></tr><tr><td></td><td>80—100</td><td>0.074±0.015c</td><td>0.100±0.020b</td><td>0.10±0.05b</td><td>1.45±0.10b</td><td>112.0±36.6a</td><td>355</td></tr></table></body></html>
+
+P $\updownarrow _ { 2 5 4 }$ $2 5 4 \mathrm { n m }$ 处的荧光吸收值; $\mathrm { E } _ { 2 8 0 }$ $2 8 0 \mathrm { n m }$ 处的荧光吸收值;AI：Aromaticity Index 芳香性指数; $\mathrm { H I X e m }$ :Humification Index,emission mode,荧光 发射光谱腐殖化指数;Feff:Fluorescence efciency,荧光效率;Fmax:Maximum Fluorescence Intensity,荧光发射光谱的最大荧光强度
+
+# 2.3土壤DOM的荧光光谱特征
+
+从荧光发射光谱看，天然林土壤DOM在表征类蛋白荧光基团的 $3 6 0 \ \mathrm { n m }$ 波长附近出现最大波峰,在表征木质素类基团的 $4 4 0 ~ \mathrm { \textmu m }$ 附近仅出现微弱的峰值（图2)。天然林改为杉木人工林后,0一 $4 0 \ \mathrm { c m }$ 土层 $\lambda _ { \mathrm { m a x \mathrm { ~ ( ~ e m ) ~ } } }$ 向长波方向移动（红移）， $3 6 0 ~ \mathrm { n m }$ 波长附近的峰面积降低, $4 4 0 \ \mathrm { n m }$ 波长附近的峰面积升高;天然林改为板栗园后，类似的变化主要发生在60— $1 0 0 ~ \mathrm { c m }$ 的底土;而天然林改为坡耕地后，土壤DOM的荧光发射光谱未有明显变化(图2)。
+
+天然林改为杉木人工林后,表土DOM 的 $\mathrm { H I X } _ { \mathrm { e m } }$ 值大幅升高 $10 7 \%$ ,但改为坡耕地后降低 $2 2 \%$ 。天然林改为其他土地利用方式后,在A层以下的底土层， $\mathrm { H I X } _ { \mathrm { e m } }$ 值有升高的现象,特别是改为板栗园最为明显（表1）。
+
+从荧光同步光谱看,天然林表土DOM在254— $2 7 5 \ \mathrm { n m }$ 和 $3 3 0 { - } 3 5 0 ~ \mathrm { n m }$ 激发波长处的特征峰面积最大,二者分别表征类蛋白质荧光基团和芳香脂肪族荧光基团（图2）。天然林改为其他土地利用方式后,表土 DOM的特征峰面积降低，特别是改为杉木人工林后， $3 3 0 { - } 3 5 0 ~ \mathrm { n m }$ 处的特征峰消失。但是，天然林改为杉木人工林后，60— $1 0 0 \ \mathrm { c m }$ 底土DOM在300— ${ . 3 5 0 } \ \mathrm { n m }$ 处的峰面积未有降低。天然林改为板栗园后，底土DOM在254—$2 7 5 \ \mathrm { n m }$ 处的峰面积升高,但 $3 3 0 { - } 3 5 0 ~ \mathrm { n m }$ 处的吸收峰消失 $( 6 0 - 1 0 0 ~ \mathrm { c m }$ ）。
+
+# 2.4土壤DOM的红外吸收光谱特征
+
+表土和 80— $1 0 0 ~ \mathrm { c m }$ 深度的底土DOM红外吸收曲线的特征峰大体类似,含有羟基O一H( $3 6 9 2 ~ \mathrm { c m } ^ { - 1 }$ 、
+
+![](images/ea25038fdf0086d0f6ab64a48b6676059802203ce7f7c1f4f6949e0c1bb136cc.jpg)  
+图2不同土地利用方式土壤DOM的荧光发射和荧光同步光谱图  
+Fig.2Fluorescence emission and synchoronous spectrograms of soil DOM in different land use systems
+
+$3 4 0 0 ~ \mathrm { c m } ^ { - 1 }$ ）、脂肪族烷烃 $\mathrm { C { - } H ( 2 9 4 6 , 2 8 9 5 ~ c m ^ { - 1 } }$ ）、芳香类 $\mathrm { c } { = } \mathrm { c }$ 双键、羧酸盐 $( 1 ~ 6 2 8 - 1 ~ 6 3 2 ~ \mathrm { c m } ^ { - 1 }$ ）、脂肪族和甲基 $\mathrm { C H } _ { 3 } ( 1 4 0 0 \ldots 1 3 8 5 \mathrm { c m } ^ { - 1 } )$ ）、硅氧、碳水化合物 $( 1 ~ 2 0 0 { - } 1 ~ 0 3 2 ~ \mathrm { c m } ^ { - 1 } ,$ ）、烯烃 $\mathrm { C H } _ { 2 }$ —(910和 $6 9 4 ~ \mathrm { { c m } ^ { - 1 } }$ ),以羟基、芳香类、脂肪族、碳水化合物为主(图3)。但杉木林在 $1 \ 2 7 0 \ \mathrm { c m } ^ { - 1 }$ 处有一独有尖峰突起,存在明显的C一N 和酚类C—O伸缩振动。与表土相比,底土DOM中含有更高比例的碳水化合物、有机态硅化物和醇、酚类,而芳香类、烷烃类和烯烃类的化学抗性物质的相对比例则更低。
+
+![](images/5b37ded328cb56139cd8c5b27375b387f47146b1a9fd20154353b47e08f312e6.jpg)  
+图3不同土地利用方式土壤DOM的红外光谱  
+Fig.3FTIR spectra of DOM from top and subsoil under different land use systems
+
+天然林改为其他利用方式后,表土DOM特征峰的吸光度降低,以改为杉木人工林的降幅最大（表2）。酚醇类、芳香类、烷烃类、烯烃类、碳水化合物和有机态硅化物分别降低 $1 9 \%$ 一 $3 7 \%$ ） $7 \%$ 一 $3 2 \%$ 、 $1 3 \% - 3 0 \%$ 、$1 5 \%$ 1 $4 1 \%$ ） $1 9 \%$ 一 $4 4 \%$ 和 $1 3 \% - 4 7 \%$ ,平均分别降低 $2 9 \%$ ） $1 8 \%$ ） $2 2 \%$ ） $2 5 \%$ ） $2 9 \%$ 和 $2 6 \%$ ,以芳香类降幅最小,碳水化合物和酚醇类的降幅相对较大。
+
+相反，天然林改为其他土地利用方式后，80— $1 0 0 \ \mathrm { c m }$ 底土DOM中表征化学抗性物质特征峰的吸光度大幅升高（酚醇类除外)，芳香类、烷烃类和烯烃类分别升高 $2 9 \%$ 1 $3 9 \%$ 、 $1 5 \%$ 1 $1 1 9 \%$ 和 $2 2 \% - 1 0 2 \%$ ,平均分别升高 $3 3 \%$ ） $5 0 \%$ 和 $5 1 \%$ 。酚醇类、碳水化合物和有机态硅化物则分别降低 $3 7 \%$ 一 $6 2 \%$ 、 $1 1 \%$ 一 $1 7 \%$ 和 $1 1 \%$ 一$20 \%$ ,平均分别降低 $4 9 \% 1 3 \%$ 和 $1 6 \%$ ,以碳水化合物的降幅最小。
+
+表2不同土地利用方式下DOM红外吸收特征峰的吸光度  
+Table 2Absorbance values of characteristic peak for soil DOM in different land use systems   
+
+<html><body><table><tr><td rowspan="2" colspan="2">土层 土地利用方式 Soil depth/cm Land use type</td><td colspan="4">化学抗性物质 Chemical resistant material</td><td rowspan="2">碳水化合物 Carbohydrate</td><td rowspan="2">有机态硅化物 Organiesieon</td></tr><tr><td>醇、酚类 Alphelsd</td><td>芳香类</td><td>烧类</td><td>烯类</td></tr><tr><td colspan="2">0-20 天然林</td><td>1.91</td><td>1.60</td><td>2.00</td><td>0.98</td><td>2.10</td><td>1.64</td></tr><tr><td></td><td>杉木人工林</td><td>1.21</td><td>1.09</td><td>1.40</td><td>0.58</td><td>1.17</td><td>0.87</td></tr><tr><td></td><td>板栗园</td><td>1.54</td><td>1.34</td><td>1.74</td><td>0.80</td><td>1.70</td><td>1.37</td></tr><tr><td></td><td>坡耕地</td><td>1.34</td><td>1.49</td><td>2.18</td><td>0.83</td><td>1.63</td><td>1.42</td></tr><tr><td>80—100</td><td>天然林</td><td>2.27</td><td>0.53</td><td>0.50</td><td>0.28</td><td>1.99</td><td>1.98</td></tr><tr><td></td><td>杉木人工林</td><td>1.20</td><td>0.69</td><td>0.58</td><td>0.37</td><td>1.78</td><td>1.67</td></tr><tr><td></td><td>板栗园</td><td>0.86</td><td>0.68</td><td>0.58</td><td>0.35</td><td>1.64</td><td>1.55</td></tr><tr><td></td><td>坡耕地</td><td>1.42</td><td>0.74</td><td>1.09</td><td>0.57</td><td>1.77</td><td>1.59</td></tr></table></body></html>
+
+# 3讨论
+
+3.1土壤剖面DOC 数量对土地利用变化的响应
+
+天然林地改为农用地后,表土有机质数量和质量在数年内普遍表现为大幅降低的趋势,以DOC 的降幅更大[2,27]。然而,底土DOC 数量对土地利用变化的响应则较为复杂。人们通常认为,耕层/表土层以下底土受人为干扰少,底土DOC 对土地利用变化的响应不敏感[2,28-29]。但也有研究表明,北方的湿地改为林地、农田后,显著提升 $0 . 2 { - } 1 \mathrm { ~ m ~ }$ 深度底土DOC 的吸存量[30]。本研究中,天然林地改为其他利用方式后,底土 DOC 损失量高出表土,反映底土DOC 对土地利用变化的高度敏感性。这种敏感性在冬季更为凸显（图1)。冬季温度低、降雨少,凋落物淋溶和微生物活性低,底土DOC 输入量减少是可能的原因之一[31]。
+
+底土DOC 大量损失的原因主要有以下3个方面:(1)天然林改为人工林、果园和坡耕地后,表土细根生物量占剖面的比例升高,底土细根生物量的降幅超出表土[20],源于细根根际沉积的底土DOC 数量随之减少[32]。（2)亚热带湿润多雨,土体淋溶作用强烈。地被层、表土 DOC 淋溶是底土 DOC 的重要来源。天然林经皆伐、火烧后,清除采伐剩余物和枯枝落叶,减少表土层流向底土层的 DOC 通量,促进底土层DOC 的淋出[14]。土地利用变化后,有限的地上枯枝落叶、植物新鲜残体输人主要补充表土DOC 损失;此外,果园和坡耕地日常管理中在地表施用一定量的有机肥,也主要补充表土中损失的部分 DOC；（3)一些土壤的结构破碎后,底土中有机质的溶解度高于表土[10,28]。天然林转换后的连续耕作（果园和坡耕地),将部分底土和表土混合、翻转，底土DOC被携带至表土，随径流而流失。
+
+# 3.2土壤DOM化学结构对土地利用变化的响应
+
+土地利用变化后,植被和管理方式转变,植物和人工施肥输入土壤的 DOM数量和质量强烈影响表土DOM的宏观化学结构。在土壤剖面上,天然林表土DOM的芳香度和腐殖质化度最高,这与许多研究结果一致[1-12.6]。但3种光谱的综合分析表明,天然林改为杉木人工林后,表土 DOM 的结构更为复杂:表征苯及其化合物的紫外吸收值( $\mathrm { E } _ { 2 8 0 }$ )升高,腐殖质化度 $\mathrm { ( H I X _ { \mathrm { e m } } }$ )提高,荧光发射光谱中 $\lambda _ { \mathrm { { m a x ( e m ) } } }$ 向长波的红外光方向移动,出现"红移"现象(表2）,结构简单的类蛋白荧光基团、碳水化合物和有机态硅化物的吸光度大幅降低（图2、表3）,芳香脂肪族荧光基团吸收值降低，但结构复杂的酚类、木质素基团吸收值则大幅升高（图2,图3）。这主要是杉木凋落物和根的木质素含量高、养分含量低,分解缓慢（高C/N),分解过程中积累大量难分解的木质素、蜡质、单宁和酮、醛类所致[18.34]。据报道,从杉木调落物中淋洗出的 DOM 的腐殖质化程度和分子聚合度均高于毗邻的天然林[35]。
+
+相反,天然林改为板栗园后,表土DOM的宏观化学结构变化不大。板栗凋落物和细根的难分解成分少、养分含量高,易分解[28],分解过程可释放大量结构简单的活性物质(如类蛋白物质、碳水化合物)进入表土,从而补充甚至替代因土地利用变化损失的活性DOM组分[36]。研究显示,锥栗林0— $1 0 \ \mathrm { c m }$ 的表土DOM 中含有更多结构简单、易垂直向下迁移的活性物质[37]。天然林改为坡耕地后,表土DOM 的化学结构呈简单化的趋势：紫外和荧光特征值降低， $\lambda _ { \mathrm { m a x ( e m ) } }$ 向短波的紫外光方向移动,出现“紫移"现象(表2）,碳水化合物吸收峰较高(表3）。坡耕地在蔬菜生产中,人工施有机肥为表土输入新鲜 DOM,而畧荒年份地面草本生长茂密,也为表土带人大量新鲜 $\mathrm { D O M }$ 。
+
+底土DOM化学结构对土地利用变化的响应高度敏感。土地利用变化后,底土 $\mathrm { E } _ { 2 5 4 } \ 、 \mathrm { E } _ { 2 8 0 }$ 和 AI值升幅高出表土,化学抗性物质(芳香类、烷烃类和烯烃类)的红外吸光度升高,底土DOM宏观化学结构更趋复杂。特别是天然林改为板栗园后，底土 $\mathrm { ^ { \prime } 6 0 { - } 1 0 0 ~ c m ) D 0 0 }$ 中以木质素基团为主(图2）,类蛋白基团、芳香脂肪族基团和碳水化合物均明显减少（表3）。土地利用变化后,底土DOM化学结构状况受输入和损失过程共同控制。天然林转换后,凋落物、细根[18]和表土DOM的数量减少（图1),底土中DOM组成以微生物周转和有机质转化的产物为主[1],结构趋于复杂化。此外,天然林改为杉木人工林、板栗园后,深根分泌和周转向底土输入的DOM 比地上凋落物常含有更高的木质素、酚类等难分解物质[38]。目前,底土DOM来源的相对贡献、通量和吸存机理仍有待充分研究。另一方面,土地利用变化后,年均土温可升高 $8 ^ { \circ } \mathrm { C }$ ,促进分解加速[20],底土DOM中结构简单、易分解的成分迅速被微生物代谢或转化[39]。然而,天然林改为杉木人工林是个特例,底土（40—$1 0 0 \ \mathrm { c m }$ )DOM中以结构简单的类蛋白荧光基团为主,碳水化合物的红外吸光度也超出表土（表3）。这可能与杉木林表土DOM中结构复杂的木质素基团不易移动,而结构简单的类蛋白基团、碳水化合物容易选择性向下迁移至底土积累有关[]。
+
+# 4结论
+
+所选天然常绿阔叶林、杉木人工林、果园和坡耕地是红壤丘陵区典型的土地利用方式。天然林地土壤的DOM数量最为丰富,主要蓄积于底土,DOM分子以结构相对简单的碳水化合物、类蛋白有机物为主。在天然林的底土有机质中,以DOM形式贮存了较高比例的结构简单的活性有机质。深厚的底土层是保育和稳定土壤有机质的重要场所。土地利用变化后， $1 \mathrm { ~ m ~ }$ 深土壤剖面上的 DOM显著损失,底土DOM损失量超出表土,反映底土DOM数量对人为干扰和植被变化的高度敏感性。
+
+紫外、荧光光谱特征值指示天然林转换后,土壤DOM的宏观化学结构趋于复杂化。荧光、红外光谱的特征峰指示天然林转换后,DOM荧光基团、官能团相对比例的变化。天然林转换后,土壤DOM中,化学抗性较低的碳水化合物、酚醇类物质的损失更大,以转为杉木人工林特别明显,反映土地利用变化后土壤有机质品质下降。观察到 $8 0 { - } 1 0 0 ~ \mathrm { c m }$ 底土DOM中,化学抗性物质(芳香类、烷烃类和烯烃类)出现积累的现象,以天然林转为坡耕地最为明显。由此可见,DOM光谱曲线形状、特定峰值、特征值对土地利用的响应敏感,对人为干扰后植被、土壤有机质的变化具有生态指示意义。本研究表明,土地利用变化不仅导致底土DOM的损失,也显著降低土壤有机质品质,长期上削弱底土碳库的稳定性和碳汇能力。
+
+# 参考文献（References）：
+
+[1]KaiserK,Kalbitz K.Cyclingdownwards-dissolvedorganicmater insoils.Soil BiologyandBiochemistry，2O12,52：29-32.  
+[2] KalbitzK.PropertiesoforganicmaterinsoiloutioninaGeanfenareaasdependentonlanduseanddepthGeodera,2OOl,0（3/4):203-214.  
+[3] 代静玉，秦淑平，周江敏.土壤中溶解性有机质分组组分的结构特征研究.土壤学报，2004，41（5）：721-727.  
+[4] WangQY,WagY,ngQ,iuQaJu.EtsofdehagesohesperoopichaaceratotterextractableorgaicaterogrooseenceoeaioswileactiviyuropanJualofSlolg，,8.  
+[5] WuJS,JiangPK，CangSX，XuQF,LinYisoledsologancarboandnitrogenwereedbyonersionofativeoeststoplantations in subtropical China. Canadian Journal of Soil Science,2010,90(1)：27-36.  
+[6］刘翥，杨玉盛，朱锦懋，谢锦升，司友涛.中亚热带森林转换对土壤可溶性有机质数量与光谱学特征的影响.生态学报，2015，35（19)：6288-6297.  
+[7]StevensonFJ.Humus Chemistry:Genesis，Composition,Reactions.2nded.New York：John Wiley& Sons,1994：1-23.  
+[8］刘鑫，窦森，李长龙，王培宇.开垦年限对稻田土壤腐殖质组成和胡敏酸结构特征的影响.土壤学报，2016,53(1)：137-145.  
+[9] Femdez-RomeroML，ClarkJClinsCD,Parras-AlntaraL,LzanoarciaBEvauatioofopticaltechqusfoaracterisingilorganic matter quality in agricultural soils. Soil and Tillage Research,2016，155：450-460.  
+[10］蒋友如，盛浩，王翠红，廖超林，周清，张杨珠.湘东丘陵区4种林地深层土壤溶解性有机碳的数量和光谱特征.亚热带资源与环境学报,2014,9(3):61-67.  
+[11] Corvasce M， Zsolnay A, $\mathbf { D ^ { \prime } }$ Orazio V，Lopez R，Miano T M.Characterizationof water extractable organic mater ina deep soil profile.Chemosphere，2006,62（10）：1583-1590.  
+[12]BiR,LoGYiletldstcacteofalprofile.Journal of Environmental Sciences，2013,25(10）：2093-2101.  
+[13]BuXL，WangL,aW,YuXNcDowellWH,uanHSpectrosopicaracterzatioofot-waterextractableoganicfrsoilsunderfourdiferentvegetationtypesalonganelevation gradientinthe WuyiMountains.Geodera，2O10,159(1/2）：139-146.  
+[14]StrahBDHasonRB,TrA,HgoTB,AdsAB,FenWagesinisoedorgancaterwihepthstthepotentialforpostarvestoganicateretentiotoincresesubsurfaceslcarbools.ForestEcologandManageent，O（1）：£34/-2352.  
+[15]DaoukS,ssaedetangeeHU/VsacteatdatefoetfrcsliDakar，Senegal.Pedosphere，2015,25(3）：372-385.  
+[16]Trveiand dissolved organic mater along two Alfisol profiles.Chemosphere，2014,111：184-194.  
+[17］刘纪远，匡文慧,张增祥,徐新良,秦元伟，宁佳，周万村,张树文,李仁东,颜长珍,吴世新，史学正,江南,于东升,潘贤章,迟文峰.20 世纪 80年代末以来中国土地利用变化的基本特征与空间格局.地理学报，2014，69(1)：3-14.  
+[18]YangYG,ieJillrfispa natural forest in subtropical China.Annals of Forest Science，2O04,61(5）：465-476.  
+[19]JiangYM,ChenCR,LiuYQ,XuZH.Soilsolubleorganiccarbonandnitrogenpolsundermonoandmixedspeciesforestosystesubtropical China.Journal of Soils and Sediments,2010,10(6）：1071-1081.  
+[20]ShengH,ZouP,ZhangYZ,KuzyakovY,ZouQ，GeTD,WangCH.Lossoflabileorganiccarbonfromsubsoilduetond-usehagsinsubtropical China.Soil Biology and Biochemistry，2015,88：148-157.  
+[21]ShengH,angY,YngZJenG,XieJS,GuoJF,ZuSQ.edaicesposeflrespirtitod-usechngesioicalChina.Global Change Biology，2010,16(3）：1107-1121.  
+[22］盛浩，周萍，李洁，宋迪思，张杨珠.中亚热带山区深层土壤有机碳库对土地利用变化的响应.生态学报，2014,34（23）：7004-7012.  
+[23]BolanskaraS,gaaSAnvauatifhethodsofeasureentofsodacaboinils，ures，ddstream water. Communications in Soil Science and Plant Analysis，1996,27(13-14):2723-2737.  
+[24］盛浩，宋迪思，王翠红，周萍，张杨珠.土壤溶解性有机碳四种测定方法的对比和转换.土壤，2015,47(6)：25-32.  
+[25]HeZQetCZgHtafrdstcsfeotecedlorganic matter. Soil Science，2011，176(4）：183-189.  
+[26］宋迪思，盛浩，周清，周萍，王翠红，张杨珠.不同母质发育土壤的中红外吸收光谱特征.土壤通报，2016,47（1)：1-7.  
+27]Canidteetablailfledagpc,2003，113(3/4)：357-380.  
+[28]ZhngJBongCCangnduetsostrbutiofilancabofractiostohlpfSyfAmerica Journal,2006,70(2)：660-667.  
+[29]LiuEK,ChenBQ,YanCR,ZangYQ，MeiXR，WangJBSeasoalchangesandverticaldistributiosfsoilorganiccarboolsuderconventionalandno-illpracticesonLoess Plateau inChina.Soil ScienceSocietyofAmerica Jourmal，2015,79(2）：517-526.  
+[30］霍莉莉，邹元春，郭佳伟，吕宪国.垦殖对湿地土壤有机碳垂直分布及可溶性有机碳截留的影响.环境科学，2013，34（1)：283-287.  
+[31］马志良，高顺，杨万勤，吴福忠，谭波，张玺涛.亚热带常绿阔叶林6个常见树种调落叶在不同降雨期的分解特征.生态学报，2015，35(22): 7553-7561.  
+[32]Hafner，esegGBolkoE，erK,uyovatialstrutiduoerfroterarbonifalfasdepending on top-and subsoil properties and mycorrhization.Plant and Soil,2014,380(1/2）：101-115.  
+33]HuangZ，uZHdS，WillsDcalosiiofsingsusisuessveotaoofCsef（Culanceolata（Lamb.）Hook.） plantations.Chinese Science Bulletin，2005,50(22）：2581-2586.  
+[34]LiCF，YangYS，GuJhenGS，XieJS.FnetopositoofevegebraeaveddcoferotrespeciesidubtroalChina:dynamics of dry mass，nutrient and organic fractions. Plant and Soil,2O1,338(1/2):311-327.  
+[35］杨玉盛，林瑞余，李庭波，董彬，王小国，郭剑芬.森林凋落物淋溶中的溶解有机物与紫外-可见光谱特征.热带亚热带植物学报，2004,12(2) : 124-128.  
+[36]HulatCJarallooE,eoC,sabogfialceedeimpacts in boreal peatlands.Environmental Science & Technology，2014,48(21）：12543-12551.  
+[37]刘翥，杨玉盛，朱锦懋，司友涛，谢锦升，杨智杰.中亚热带2种经济林土壤可溶性有机质数量与光谱学特征比较.水土保持学报，2014,28(5): 170-175.  
+[38］刘文丹，陶建平，张腾达，钱凤，柴捷，刘宏伟.中亚热带木本植物各器官调落物分解特性.生态学报，2014，34（17)：4850-4858.  
+[39]FrobergesoasoCTd,aeJarteJrCTowioledoacarbutfrldeep mineral soils. Soil Science Society of America Journal,2007,71(2）：347-354.

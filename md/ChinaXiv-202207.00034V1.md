@@ -1,0 +1,223 @@
+# 单花、有侧花牡丹品种花芽分化特点及内源激素变化
+
+陈庭巧}，董晓晓¹，袁 涛”，李清道²，别沛婷（1．北京林业大学园林学院，花卉种质创新与分子育种北京市重点实验室，国家花卉工程技术研究中心，城乡生态环境北京实验室，园林环境教育部工程研究中心，林木花卉遗传育种教育部重点实验室，北京100083；2．河南省洛阳市隋唐城遗址公园，河南 洛阳 471000)
+
+摘要：为比较牡丹单花品种‘梨花粉’、有侧花品种'姊妹游春'、‘云鄂粉'花芽分化进程、形态特征差异及花芽分化期内源激素变化，为牡丹长花期育种提供参考依据。该研究通过解剖和石蜡切片，观察‘梨花粉’、‘姊妹游春'、‘云鄂粉'花芽分化过程，酶联免疫吸附分析法测定不同分化阶段‘梨花粉'及‘姊妹游春'的生长素（IAA）、脱落酸（ABA）、赤霉素（GA3）及玉米素核苷（ZR）含量的变化规律。结果表明：（1）‘梨花粉'花芽分化仅6个时期；有侧花品种‘姊妹游春'、‘云鄂粉'花芽分化为11个时期，顶花原基先分化，侧花原基后分化。（2）叶原基分化期至苞片原基分化期，‘姊妹游春'和‘梨花粉'花芽中 ABA、GA3及ZR含量均升高，IAA降低；‘姊妹游春'侧花原基分化起始阶段，ABA、GA3含量降低，ZR、IAA升高。（3）‘梨花粉'ABA/IAA比值在形态分化期时最低。以上结果显示，有侧花品种花芽分化比单花品种早，分化时间长，顶花和侧花部分花器官分化期重叠。较高水平的ZR、IAA以及较低的ABA、GA有利于启动侧花原基分化。
+
+关键词：牡丹，有侧花品种，花芽分化，形态，内源激素中图分类号：Q944；S685.11 文献标识码：A
+
+# Flower bud differentiation and endogenous hormones changes of in single and lateral-flowered tree peony (Paeonia Sect. Moutan ) cultivars
+
+CHEN Tingqiao1,DONG Xiaoxiaol,YUAN Taol\*,LI Qingdao²,BIE Peitingl   
+(1.School ofLandscape Architecture,Beijing Forestry University,Beijing Key LaboratoryofOrnamental Plants   
+Germplasm Innovation & Molecular Breeding,National Engineering Research Center for Floriculture,Beijing   
+Laboratory ofUrban and Rural Ecological Environment,Engineering Research CenterofLandscapeEnvironment ofMinistry ofEducation,Key Laboratory of Genetics and Breeding in Forest Trees and Ornamental Plants of   
+Ministry ofEducation,Beijing 10o083,China; 2.Luoyang Sui & Tang Dynasties Relics Botanic Garden,Henan Province,Luoyang 4710oo,Henan, China )
+
+Abstract: The flower bud differentiation process，morphological features and endogenous hormone changes during single-flowered Paeonia suffruticosa cultivar ‘Lihua Fen’ and lateralflowered cultivars‘Zimei Youchun’ and‘Yun'e Fen’ were compared in order to provide a reference for the long florescence breeding of tree peony. The flower bud differentiation of ‘Lihua Fen',‘Zimei Youchun' and ‘Yun'e Fen' were observed by paraffn sections. The contents of auxin (IAA),abscisic acid (ABA)， gibberellin (GA3) and zeatin nucleoside (ZR) in‘Lihua Fen’ and ‘Zimei Youchun’ at different differentiation stageswere determined by enzyme-linked immunosorbent assay (ELISA).The results were as folows: (1)The flower bud differentiation of ‘Lihua Fen’ only were 6 stages and that of‘Zimei Youchun' and‘Yun'e Fen' were 11 stages. The apical flower primordium differentiated earlier than the lateral flower primordium. (2) The contents of ABA, GA3 and ZR of ‘Zimei Youchun’ and ‘Lihua Fen’ increased during the leaf primordium differentiating to the bract primordium, while the contents of IAA decreased.As for ‘Zimei Youchun'，ABA and $\mathrm { G A } _ { 3 }$ contents decreased at the initial stage of lateral flower primordium,while ZR and IAA increased.(3） The ABA/IAA of ‘Lihua Fen’ was the lowest at morphological diferentiation stage.The study reveals the lateral-flowered cultivars have earlier and longer flower bud differentiation compared with the single-flowered cultivar, parts of the floral organs differentiation stage of apical and lateral flowers coincided. Higher ZR and IAA levels and lower ABA and $\mathrm { G A } _ { 3 }$ levels are beneficial to initiate lateral flower primordium differentiation.
+
+Key words: Paeonia suffruticosa， lateral-flowered cultivar, flower bud differentiation, morphology, endogenous hormone
+
+牡丹（Paeonia Sect.Moutan）为芍药科（Paeoniaceae）芍药属（Paeonia）牡丹组植物统称。虽有“国色天香”、“花大色艳”的优点，亦有“养花一年，看花十日”之遗憾。传统牡丹品种当年生花枝仅有一朵花（即单花），单株花期 $5 \sim 7 \mathrm { d }$ （花期遇低温可到10d）（刘玉英，2010；王欠欠，2011）。但中原牡丹群中，‘姊妹游春'、‘姊妹惜春'等少数品种花芽分化完成时，每个混合芽内有1个顶蕾和 $1 { \sim } 2$ 个侧蕾，次年春季当年生花枝上有1个顶花和 $_ { 1 \sim 2 }$ 个次第开放的侧花，单株花量大且花期长（可2周以上），本文称其为有侧花牡丹品种。培育有侧花牡丹新品种是解决牡丹花期之痛的可行途径之一。
+
+花芽分化是观赏植物生长发育的重要阶段，是形态和生理生化的建成过程（李建安等，2011）。诸多植物如濒危植物张氏红山茶（Camellia changii）（朱高浦等，2011)、百合（Lilium formolongi）（刘伟等，2012）、绵枣儿（Barnardia japonica）（陈斌等，2020）等的花芽分化均被广泛研究。植物花芽分化受诸多内外因子的影响，其中内源激素是重要的影响因子之一。研究表明，生长素（IAA）和赤霉素（GA）常表现为互作关系，IAA 能够通过调节GA含量的方式来促进成花（邹礼平等，2020），而适量的IAA和GA3能促进蓖麻（Ricinuscommunis）花芽分化（陈梅等，2011）；脱落酸（ABA）对花芽分化具有促进或抑制开花双重作用（Baietal.,2002）；玉米素核苷（ZR）被认为是一种促花激素，与GA相互拮抗，ZR阻碍GA产生并促进GA降解，而GA也会抑制ZR的反应（李广等，2019）。
+
+花芽分化也一直是芍药属植物重要研究内容之一。但目前，该属的花芽分化研究仅涉及单花顶生类型，包括花芽形态、分化时期及分化过程中的营养物质（杨正申和张益民，1986；莫宁捷等，2008；黄凤兰等，2009；吕长平等，2009；Zhang etal.,2019），有侧花品种花芽分化及内源激素的相关研究尚未见报道。有侧花品种是牡丹长花期育种的途径之一，本文对比单花、有侧花牡丹品种花芽分化过程的各时期形态，明确花芽分化过程中侧蕾发生的时间和位置，进而分析有侧花品种花芽分化规律和特点；测定单花及有侧花品种花芽分化期内源激素的动态变化，探讨内源激素与侧花花芽分化的关系，为延长花期、提高牡丹花朵数而采取田间管理措施提供理论基础。
+
+# 1材料与方法
+
+# 1.1材料及取样地点
+
+供试材料‘姊妹游春'和'云鄂粉'为有侧花品种，单花品种梨花粉'为对照（表1，图版I）。‘姊妹游春'和‘梨花粉'均为中原牡丹品种群内实生选育，山东菏泽赵楼牡丹园于1967年、1982年育成。‘姊妹游春'除顶花外，花枝上每年均有1个侧花晚于顶花开放(偶有 2个侧花)，且花色、花型稳定，在洛阳和菏泽的牡丹专类园较常见。‘云鄂粉'为甘肃省林业科技推广总站育成，卵叶牡丹 $\mathcal { \vec { S } } ^ { \times }$ 紫牡丹杂交后代，新品种权号为20170139）。取样地气温变化详见图1，记载各材料物候期。
+
+表1材料主要观赏特性及取样地点  
+Table 1 Main ornamental characteristics and sampling site of materials   
+图版I试验材料  
+
+<html><body><table><tr><td>品种 Cultivar</td><td>类型 Type</td><td>单株花期 Plant flowering(d） Flower type and color</td><td>花型和花色</td><td>取样地点 Sampling site</td></tr><tr><td>‘姊妹游春' ‘Zimei Youchun'</td><td>顶花+侧花 Top flower + Lateral flowers</td><td>17</td><td>蔷薇型，粉红色 Rose type, pink</td><td>洛阳隋唐城遗址植物园，2品种 相邻种植 Luoyang Sui& TangDynasties</td></tr><tr><td>‘梨花粉' ‘Lihua Fen'</td><td>单花 Single flower</td><td>7</td><td>蔷薇型，粉色微黄 Rose type, pink and yellowish</td><td>Relics Botanic Garden，two cultivars were planted next to each other</td></tr><tr><td>‘云鄂粉’ ‘Yun'e Fen'</td><td>顶花+侧花 Top flower +Lateral flowers</td><td>22</td><td>荷花型，粉色 Lotus, pink</td><td>甘肃省林业科技推广总站牡丹育 种圃 (兰州) Forestry Research Institution Peony Breeding Nursery of Gansu Province(Lanzhou)</td></tr></table></body></html>
+
+![](images/8f6dbcc9630b3c89d7a15a2e113ae6f90a594ff3d7200718ade2dacb5c29bf4a.jpg)
+
+A和B分别示有侧花牡丹品种姊妹游春'、‘云鄂粉’（红色箭头指侧花）；C表示单花牡丹品种（‘梨花粉）。
+
+$\mathbf { A }$ and B respectively indicate the lateral-flowered Paeonia sufruticosa cultivars‘Zimei Youchun'and Yun'e Fen (The red arrows point to the lateral flowers). C indicate single-flowered P.suffruticosa cultivar‘Lihua Fen'.
+
+# PlateITested materials
+
+![](images/746ad23946b327b54d1132cbb399559b7064d54ff28b56e624994466f57c537c.jpg)
+
+A.河南省洛阳市洛龙区；B.甘肃省兰州市城关区。
+
+A. Luolong District, Luoyang City,Henan Province; B.Chengguan District, Lanzhou City, Gansu Province.
+
+图1取样地2019年6—11月气温
+
+# 1.2材料采集及预处理
+
+2019年春季花期后，于6一11月每隔 $7 \mathord { \sim } 1 0 \mathrm { d }$ ，早晨9:00—11:00，分别在3个品种株龄 5年以上健壮植株上取当年花枝叶腋处发育状况良好的饱满芽 $1 5 { \sim } 2 0$ 个，其中 $7 { \sim } 1 0$ 个剥除外层芽鳞，迅速放入FAA（福尔马林：冰醋酸： $70 \%$ 酒精体积比 $_ { \cdot = 5 : 5 : 9 0 }$ ）固定后置于$4 ^ { \circ } \mathrm { C }$ 保存，用于制作石蜡切片观察及体式显微镜观察，其中‘梨花粉'和'姊妹游春'2个品种均进行石蜡切片观察及体式显微镜观察，‘云鄂粉'仅进行体式显微镜观察。将‘梨花粉'和‘姊妹游春'余下的芽蒸馏水洗净擦干后用锡箔纸包裹，液氮急冻 $2 { \sim } 5 \ \mathrm { m i n }$ 后 $. 8 0 ^ { \circ } \mathrm { C }$ 保存，用于内源激素测定。
+
+# 1.3花芽分化过程观察
+
+石蜡切片参照曾小鲁等（1989）及王东辉（2017）的方法，略有调整。在LeicarRM2235切片机切片（切片厚度为 $8 { \sim } 1 0 ~ \mu \mathrm { m }$ ），番红-固绿双重染色，光学生物显微镜（SDPTOPCX40-RFL）观察并拍照、记录。同时参照 Zhang等（2019）的方法，取出FAA固定液中的样品，依次于无水乙醇、蒸馏水中各浸泡 $3 0 \mathrm { m i n }$ ，随后置于吸水纸室温自然脱水 $1 0 { \sim } 1 5 ~ \mathrm { m i n }$ 。体式显微镜（LeicaDFC500）下，逐层拨开芽，直至露出顶端分生组织，拍照观察并记录。结合物候期观察花芽分化进程及花器官发育过程。
+
+# 1.4内源激素含量测定
+
+酶联免疫吸附分析法（enzyme-linked immunosorbent assays，ELISA）测定激素（ABA、GA3、ZR及IAA）含量（Zhao etal.,2006），略有改动，每个样品3个生物学重复。
+
+# 1.5数据分析及图片处理
+
+使用Excel2010软件及SPSS Statistics23.0软件进行数据统计及制作图表，并使用Adobe Photoshop 2020 软件处理图片。
+
+# 2结果与分析
+
+# 2.1花芽分化形态观察
+
+2.1.1单花品种'梨花粉
+
+花芽分化过程可分为6个时期，依次为花芽分化初期即叶原基分化期（Le）、苞片原基分化期（Br）、萼片原基分化期（Se）、花瓣原基分化期（Pe）、雄蕊原基分化期（St）和雌蕊原基分化期（Pi），历时 $8 8 \mathrm { ~ d ~ }$ ，各时期对应的日期和花芽形态特征如图版Ⅱ和图2所示。7月上旬至中旬，‘梨花粉'已进入花芽分化初期，顶端生长点向上凸起，分化成叶原基Le（图版II：A1，A2）；7月18日，‘梨花粉'进入苞片原基分化期，顶端生长点开始横向变平变宽，表面积增大，生长点中心部位相对下凹，四周的细胞逐渐分化，产生凸起形成苞片原基Br（图版I：B1，B2），花芽分化开始；7月28日，‘梨花粉'进入萼片原基分化期，顶端生长点继续下凹呈浅盘状，在苞片原基内侧形成萼片原基 Se（图版ⅡI：C1，C2）；萼片原基分化一段时间后，在花托盘边缘内侧逐渐产生新一轮的突起，花瓣原基Pe形成（图版II：D1，D2）；9月23日，‘梨花粉'进入雄蕊原基分化期，芽体整体增大，顶端生长点呈深宽杯状，花瓣原基继续生长发育，在花瓣原基内侧又产生多个新的颗粒状突起，进而分化出雄蕊原基St（图版I：E1，E2）；10月13日，随着雄蕊原基的分化生长，顶端生长点进一步下凹，花托盘明显，花托盘的底部形成较大的突起，即为雌蕊原基Pi（图版II：F1，F2）。至此，‘梨花粉'花芽分化基本完成。
+
+![](images/4f2ee28dbfcb76e6b26d35a46705f24367238f99500c8b5778f132d450a6441f.jpg)
+
+A1-F1.体式显微镜观察；A2-F2.石蜡切片，光学生物显微镜观察。A1,A2.叶原基分化期；B1,B2.苞片原 基分化期；C1,C2.萼片原基分化期；D1,D2.花瓣原基分化期；E1,E2.雄蕊原基分化期；F1,F2.雌蕊原 基分化期。Le.叶片原基；Br.苞片原基；Se.萼片原基；Pe.花瓣原基；St.雄蕊原基；Pi.雌蕊原基。下 同。 A1-F1.Stereo microscopes. A2-F2. Parafin sections，optical biomicroscopy. A1,A2.Leaf primordium differentiation stage;B1,B2.Bract primordium diferentiation stage;C1,C2.Sepal primordium diferentiation stage;D1,D2.Petal primordium diferentiation stage;E1,E2.Stamen primordium diffrentiation stage;F1,F2. Pistillde primordium differentiation stage.Le.Leaf primordium; Br. Bract primordium; Se. Sepal primordium; Pe.Petal primordium; St. Stamen primordium; Pi. Pistil primordium. The same below.
+
+图版ⅡI‘梨花粉'花芽分化过程形态观察
+
+Plate I Morphology of flower bud differentiation of Paeonia suffruticosa ‘Lihua Fen'
+
+# 2.1.2 有侧花品种'姊妹游春'
+
+花芽分化开始于7月10日，11月5日结束，历时 $1 1 8 \mathrm { d }$ 。全过程分为11个时期：叶原基分化期（Le）、顶花苞片原基分化期（TBr）、顶花萼片原基分化期（TSe）、顶花花瓣原基分化期（TPe）、顶花雄蕊原基分化期（TSt）、顶花雌蕊原基分化期（TPi）、侧花苞片原基分化期（LBr）、侧花萼片原基分化期（LSe）、侧花花瓣原基分化期（LPe）、侧花雄蕊原基分化期（LSt）、侧花雌蕊原基分化期（LPi）（图版II）。其中 TPe、TSt、Tpi与LBr重合，TPi与LSe重合（图2）。7月10日，‘姊妹游春'已进入顶花苞片原基分化期（图版II：b1，b2）；7月28日进入顶花萼片原基分化期（图版III：c1，c2）；8月12日，‘姊妹游春'已进入顶花花瓣原基分化期（图版I：d1，d2）；同一时间，侧花原基于花芽基部上数第3或第4片叶原基腋部开始分化，进入苞片原基分化期（图版I：B）；9月13日，‘姊妹游春已进入顶花雄蕊原基分化期（图版III：e1，e2），侧花苞片原基持续分化；9月23日进入顶花雌蕊原基分化期（图版II：f1，f2），花芽分化基本完成，此时侧花苞片原基仍继续分化；10月1日，侧花在经过长时间的苞片原基分化后进入侧花萼片原基分化期（图版III：C）；10月10日、10月20日先后进入侧花花瓣原基分化期（图版III：D）和侧花雄蕊原基分化期（图版III：E）；11月5日进入侧花雌蕊原基分化期（图版II：F），至此，‘姊妹游春'花芽分化基本完成。
+
+![](images/615d241f01ff416ab7a458b4e0c7c7b0a5ed7472967414ac7afb908bc6b608d0.jpg)
+
+a1-f1.体式显微镜观察；a2-f2.石蜡切片，光学生物显微镜观察；A-F.体式显微镜观察。a1,a2.叶原基分 化期；b1,b2.顶花苞片原基分化期；c1,c2.顶花萼片原基分化期；d1,d2.顶花花瓣原基分化期；e1,e2.顶 花雄蕊原基分化期；f1,f2.顶花雌蕊原基分化期；A.侧蕾叶原基分化期；B.侧蕾苞片原基分化期；C.侧 蕾萼片原基分化期；D.侧蕾花瓣原基分化期；E.侧蕾雄蕊原基分化期；F.侧蕾雌蕊原基分化期。Le.叶原 基；TBr.顶花苞片原基；TSe.顶花萼片原基；TPe.顶花花瓣原基；TSt.顶花雄蕊原基；TPi.顶花雌蕊原 基；LBr.侧花苞片原基；LSe.侧花萼片原基；LPe.侧花花瓣原基；LSt.侧花雄蕊原基；LPi.侧花雌蕊原 基。下同。 a1-f1.By stereo microscopes;a2-f2.By paraffin sections,optical biomicroscopy; A-F.By stereo microscopes.a1, a2.Leaf primordium diferentiation stage; b1,b2. Bract primordium diferentiation stage of top flower; c1,c2. Sepal primordium diferentiation stage of top flower; d1,d2.Petal primordium diferentiation stage oftop flower; e1,e2.Stamen primordium differentiation stage of top flower;f1,f2.Pistillode primordium diferentiation stageof top flower. A.Leaf primordium diffrentiation stage; B.Bract primordium diffrentiation stage oflateral flower; C. Sepal primordium differentiation stage of lateral flower;D.Petal primordium diffrentiation stage of lateral flower; E.Stamen primordium differentiation stageof lateral flower;F.Pistillode primordium differentiation stageof lateral flower.Le.Leaf primordium; TBr. Bract primordium of top flower; TSe.Sepal primordiumof top flower; TPe.Petal primordium of top flower;TSt. Stamen primordium of top flower; TPi.Pistil primordium of top flower; LBr.Bract primordiumof lateral flower; LSe. Sepal primordium of lateral flower; LPe. Petal primordium of lateral flower;LSt.Stamen primordium oflateral flower; LPi.Pistil primordium of lateral flower.The same below.
+
+图版Ⅲ‘姊妹游春'花芽分化形态观察
+
+Plate I Flower bud differentiation morphology of Paeonia suffruticosa ‘Zimei Youchun'
+
+2.1.3有侧花品种‘云鄂粉
+
+花芽分化于7月4日开始，11月1日结束，历时 $1 2 0 { \mathrm { d } }$ 。分化过程与‘姊妹游春'相同，共11个时期。不同的是，‘云鄂粉'侧花于顶花分化后的第45天开始分化，较‘姊妹游春'侧花原基开始分化的时间晚15d左右。‘云鄂粉'花芽分化各时期形态特征见图版IV。分化起始时间见图2，其中TPe、TSt与LBr重合，TPi与LSe、LPe重合。7月4日，‘云鄂粉'已进入顶花苞片原基分化期（图版IV：B1）；7月14日进入顶花萼片原基分化期（图版IV：C1）；8月2日，进入顶花花瓣原基分化期（图版IV：D1）；8月28日，进入侧花苞片原基分化期（图版IV：A2）；9月10日，‘云鄂粉'已进入顶花雄蕊原基分化期（图版IV：E1）；9月29日已进入顶花雌蕊原基分化期（图版IV：F1），顶花花芽分化基本完成，同一时间，侧花在经过长时间的苞片原基分化后进入侧花进入萼片原基分化期（图版IV：B2）；10月13日、10月23日先后进入侧花花瓣原基分化期（图版IV：C2，D2）和侧花雄蕊原基分化期（图版IV：E2）；11月1日进入侧花雌蕊原基分化期（图版IV：F2）。至此，‘云鄂粉'花芽分化基本完成。
+
+![](images/d09056063118b075af8346f3329d2cf8289b77c3fa67b712e4601e1b5e59370d.jpg)
+
+A1.叶原基分化期；B1.顶花苞片原基分化期；C1.顶花萼片原基分化期；D1.顶花花瓣原基分化期；E1顶花雄蕊原基分化期；F1.顶花雌蕊原基分化期；A2.侧蕾苞片原基分化期；B2.侧蕾萼片原基分化期；C2,D2.侧蕾花瓣原基分化期；E2.侧蕾雄蕊原基分化期；F2.侧蕾雌蕊原基分化期。
+
+A1.Leaf primordium differentiation stage;B1.Bract primordium differentiation stage of top flower; C1.Sepal primordium differentiation stage of top flower;D1.Petal primordium differentiation stage of top flower;E1. Stamen primordium differentiation stage of top flower;F1.Pistillode primordium diferentiation stage of top flower; A2.Bract primordium diffrentiation stage of lateral flower; B2.Sepal primordium diferentiation stage of lateral flower；C2，D2.Petal primordium diffrentiation stage of lateral flower；E2.Stamen primordium diffrentiation stage of lateral flower; F2.Pistillode primordium diferentiation stage of lateral flower.
+
+图版IV‘云鄂粉'花芽分化过程形态观察（体式显微镜观察）
+
+Plate IV Flower bud differentiation morphology of Paeonia suffruticosa ‘Yun'e Fen'(Stereo microscope)
+
+![](images/c2aafb66a8ef4ccaabb581c06027e20e2cf0b4df83002bfe3ce1fc67ac04b064.jpg)  
+日期（月/日）Date（month/day）
+
+“姊妹游春'顶花Pe,St,Pi与侧花Br重合，顶花Pi与侧花Se重合。‘云鄂粉'顶花Pe,St与侧花Br重合，顶花Pi与侧花Se,Pe重合。
+
+TPe,TSt and TPiof‘Zimei Youchun’coincided with its LBr,TPicoincided with LSe.TPe and TStof Yun'e Fen'coincided with its LBr,TPi coincided with LSe and LPe.
+
+Fig.2 The initiaiton time of flower bud differentiationof‘Lihua Fen’,‘Zimei Youchun’and ‘Yun'e Fen'
+
+# 2.2花芽分化过程中叶片内源激素变化
+
+单花品种‘梨花粉'花芽分化过程中花芽的内源激素含量变化如图3：A所示。ABA、GA3和ZR含量在Le至Br阶段上升，Br阶段ABA及ZR含量达最大值，IAA含量降低；Br至St阶段，ABA和ZR含量逐渐下降； $\mathbf { G } \mathbf { A } _ { 3 }$ 含量在Br至Pe阶段无显著变化，Pe至Pi阶段逐渐降低；苞片、萼片、花瓣原基分化阶段， $\mathrm { G A } _ { 3 }$ 处于高水平，而雌、雄蕊原基分化阶段GA3处于低水平；IAA含量在Br至Se阶段变化不显著，进入花瓣原基分化阶段后则持续降低，说明花器官原基分化对IAA的需求可能更低。
+
+![](images/42ee0911d2a4abe4265484f594c36fffd91b472d7c4035a9f19d721fb11542b7.jpg)  
+图2‘梨花粉’、‘姊妹游春'和'云鄂粉'花芽分化各时期起始时间
+
+与'梨花粉'类似，有侧花品种‘姊妹游春'花芽分化过程中各激素含量变化也存在差异（图3：B）。Le至TBr阶段，ABA、GA3和ZR含量均升高，IAA含量降低，说明较高水平的ABA、 $\mathbf { G } \mathbf { A } _ { 3 }$ 和 ZR以及较低水平的IAA可能有利于花芽分化的启动。侧花原基分化起始阶段，即TSe至TPi/LBr阶段，ABA和 $\mathrm { G A } _ { 3 }$ 含量显著降低，而ZR和IAA表现为先升高后下降趋势，说明较低水平的ABA和GA及较高水平的ZR和IAA含量可能对侧花原基分化的启动起促进作用。
+
+A 中的Le,Br,Se,Pe,St,Pi分别为梨花粉'的叶片原基、苞片原基、萼片原基、花瓣原基、雄蕊原基和雌蕊原基；B中的Le,TBr,TSe,TPe,TSt,TPi,LBr,LSe,LPe,LSt,LPi分别为'姊妹游春'的叶片原基、顶花苞片原基、顶花萼片原基、顶花花瓣原基、顶花雄蕊原基、顶花雌蕊原基、侧花苞片原基、侧花萼片原基、侧花花瓣原基、侧花雄蕊原基、侧花雌蕊原基，其中 $\mathbf { T P e / L B r }$ 表示TPe与LBr重合，TSt//LBr表示TSt与LBr重合，TPi/LBr表示TPi与LBr重合，TPi/LSe表示TPi与LSe重合，TPi/LPe表示TPi与
+
+LPe 重合。不同小写字母表示同一激素在不同时期差异显著。下同。
+
+Le, Br,Se,Pe,St,Pi in A were the leaf primordium,bract primordium,sepal primordium,petal primordium, stamen primordium and pistil primordium of‘Lihua Fen’respectively.Le,TBr,TSe,TPe,TSt,TPi,LBr,LSe, LPe,LSt,LPi in B were the leaf primordium,the apical flower bract primordium,apical sepal primordium,apical flower petal primordium,and apical flower of ‘Zimei Youchun’respectively Stamen primordium,top flower pistil primordium,lateral flower bract primordium,lateral sepal primordium,lateral flower petal primordium,lateral flower stamen primordium,lateral flower pistil primordium. Among them,TPe/LBr means TPe and LBrcoincide, TSt/LBr means TSt and LBr coincide,TPi/LBr means TPi and LBr coincide,TPi/LSe means TPi and LSe coincide,TPi/LPe means TPi and LPe coincide.Diffrent lowercase letters indicate significant differences in the same hormone at different stages.The same below.
+
+图3‘梨花粉'(A)和‘姊妹游春'(B)花芽分化过程内源激素变化
+
+Fig.3 Endogenous hormone contents during the flower bud differentiation process of Paeonia suffruticosa‘Lihua Fen'(A) and ‘Zimei Youchun' (B)
+
+# 2.3激素平衡与花芽分化
+
+内源激素的平衡关系分析（图4）显示，‘梨花粉'和‘姊妹游春'IAA/GA3与（ $\mathrm { I A A + Z R }$ ） $/ \mathrm { G A } _ { 3 }$ 比值的变化趋势相似。‘梨花粉'呈逐渐降低的趋势，在Le阶段IAA/GA3与（ $\mathrm { I A A ^ { + } Z R }$ ）/GA比值最高，分别为8.487和7.099，之后逐渐降低；‘姊妹游春'在顶花叶原基分化时IAA/GA与（ $\mathrm { I A A ^ { + } Z R }$ ）/GA3比值较高，TBr阶段降低，LBr形成阶段又显著升高，并在TSt/LBr阶段达到最高，分别为13.678 和11.194。
+
+‘梨花粉'的Le阶段ABA/IAA比值最低，为0.865，Br阶段比值升高后又在Se至St阶段逐渐降低，Pi阶段比值显著显著升高并达到最大值（1.537）；‘姊妹游春'的ABA/IAA比值在Le至TSe阶段显著升高，并在TSe阶段达到最大值（2.305），LBr形成过程中ABA/IAA比值逐渐降低，在TPi/LBr阶段达到最低（0.780），之后升高。
+
+‘梨花粉'的 $\boldsymbol { Z } \mathrm { R } / \mathrm { G } \mathrm { A } _ { 3 }$ 比值呈先升高后降低的变化趋势，Le至Br阶段比值升高，之后逐渐降低；‘姊妹游春'的 $\boldsymbol { Z } \mathrm { R } / \mathrm { G } \mathrm { A } _ { 3 }$ 比值变化则与'梨花粉'相反，Le至Br阶段 $\boldsymbol { Z } \mathrm { R } / \mathrm { G } \mathrm { A } _ { 3 }$ 比值显著降低，之后逐渐升高，在TSt/LBr阶段比值达到最大值后逐渐下降。
+
+![](images/840fdd237343facb978cd43ed8dc569bf94856e466875481d536d21e7c8db4a4.jpg)  
+图:4‘梨花粉'(A)和‘姊妹游春'(B)花芽分化过程内源激素比值变化  
+Fig.4 Endogenous hormones ratio during the flower bud differentiation process of Paeonia suffruticosa ‘Lihua Fen'(A) and‘Zimei Youchun' (B)
+
+# 3讨论
+
+# 3.1牡丹单花品种及有侧花品种花芽分化特点
+
+不同牡丹品种虽然在分化时间及进程上存在差异，但都遵循叶片原基、苞片原基、萼片原基、花瓣原基、雄蕊原基、雌蕊原基的顺序依次分化，一般将苞片原基的产生作为牡丹花芽分化起始的标志，预示着牡丹开始由营养生长转变为生殖生长（王莲英，1986）。
+
+本研究中单花品种‘梨花粉'的花芽分化始于7月中旬，历时 $9 0 \mathrm { d }$ ，分化进程与前人结果一致（王莲英，1986；王宗正和章月仙，1987；贺丹等，2014）。有侧花品种‘姊妹游春'、‘云鄂粉'花芽分化可分为11个时期，顶花原基先分化，侧花原基后分化；侧花苞片原基分化与顶花原基分化同步，顶花分化基本完成后，侧花则迅速完成萼片、雄蕊、雌蕊等花器官原基的分化。各自的分化进程则符合牡丹品种花芽分化的一般规律。
+
+与'梨花粉'相比，有侧花品种‘姊妹游春'、‘云鄂粉'较早开始分化（3个品种开始分化的时间依次为7月18日、7月10日和7月4日），因有侧花原基，‘云鄂粉'及‘姊妹游春花芽分化历时更久（‘梨花粉'88d、‘姊妹游春'118d、云鄂粉'120d）。‘云鄂粉'为紫牡丹与卵叶牡丹远缘杂交后代，侧花来自母本；而‘姊妹游春'为中原牡丹品种群内自然杂交后选育，二者花芽分化过程中侧花的发生机制需深入研究。
+
+# 3.2牡丹单花品种及有侧花品种花芽分化内源激素变化
+
+3.2.1ABA与牡丹花芽分化的关系
+
+在花芽分化起始期，即叶片原基至苞片原基阶段，‘姊妹游春'及'梨花粉'花芽中 ABA含量升高，有积累的趋势，与秋菊（Chrysanthemummorifolium）‘神马’研究结果相似（冯枫和杨际双，2011），可能是叶片中的ABA向上运输到花芽，并在花芽中积累。且在Br时期 ABA含量达到最大，说明花芽中内源ABA的积累有利于牡丹花芽分化的启动。王辉等（2016）施用外源ABA提高了香草兰（Vanilla planifolia）的花芽分化率。张莹婷等（2019）也证实鳞片中高浓度的ABA有利于忽地笑（Lycoris aurea）花芽分化。同时‘姊妹游春'侧花分化起始期，即侧花苞片原基分化始期，ABA呈降低趋势，说明花芽中较低水平的ABA有利于牡丹侧花原基分化启动。
+
+# 3.2.2ZR与牡丹花芽分化的关系
+
+一些植物花芽分化前ZR含量升高，花芽分化后有所降低，如荔枝（Litchichinensis）（Chen,2007）；但也有植物花芽分化初期 ZR含量较低，后大幅提高，分化后期稳定在较高水平，如无花果（Ficus carica）（罗羽洧等，2007）、番红花（Crocus sativus）（张衡锋等，2018）、甘草（Gfycyrrhiza uralensis）（Yan etal.,2019）。同时，研究表明，鳞片中低浓度的 ZR有利于中国石蒜（Lycorischinensis）花芽分化（范瑾怡等，2021）；茎尖中高水平的 ZR有利于萱草（Hemerocallis）花器官原基的形态建成（李志娟等，2021）。本研究中，叶片原基至苞片原基阶段，‘姊妹游春'及‘梨花粉'花芽中 ZR含量升高，与在无花果、番红花、甘草等植物中的研究结果相似，说明花芽中高含量的 ZR有利于启动牡丹的虎牙分化和发育。‘姊妹游春'侧花苞片原基分化始期，ZR含量增加，推测花芽中较高水平的ZR可能有利于牡丹侧花原基分化启动。
+
+# $3 . 2 . 3 \mathrm { G A } _ { 3 }$ 与牡丹花芽分化的关系
+
+在花芽分化起始期时，秋菊‘神马’叶片中内源GA3含量上升，而顶芽中的变化与叶片相反（冯枫和杨际双，2011）。本研究中，叶片原基至苞片原基阶段，‘姊妹游春'及‘梨花粉'花芽中GA3含量升高。研究表明，短日处理条件下，外源 $\mathrm { G A } _ { 3 }$ 能促进秋菊‘神马’花发育进程（杨再强等，2008）。推测在牡丹花芽的生理分化阶段，GA3从叶片向花芽运输，使花芽中GA含量积累，进而促进其花芽分化。‘姊妹游春'侧花分化起始期，GA3含量呈降低趋势，推测叶片中较低的GA有利于牡丹侧花原基分化启动。
+
+# 3.2.4IAA与牡丹花芽分化的关系
+
+在花芽分化起始期，‘姊妹游春'及‘梨花粉'花芽中IAA含量降低。研究表明，花芽中低水平的IAA有利于诱导番红花花芽分化（张衡锋等，2018）。说明花芽中低含量的IAA有利于启动牡丹的花芽分化。推测牡丹花芽分化初期，顶芽需要较低的IAA，IAA从花芽向叶片运输，使花芽中IAA含量降低。‘姊妹游春'侧花分化起始期，IAA呈增加趋势，说明花芽中较高水平IAA可能有利于牡丹侧花原基分化启动。
+
+# 3.2.5内源激素平衡与花芽分化的关系
+
+植物花芽分化既受单一种激素调控，也受激素间相互平衡的影响。如较高的ABA/GA有利于石蒜（Lycoris radiata）（王磊等，2008）、罗汉果（Siraitia grosvenorii）（莫长明等，2015）、杂交杏李（Prunus domestica $\times$ armeniaca‘Fengweimeigui'）（莫文娟等，2015）花芽形态分化；较高的ABA/IAA有利于番红花、‘李光杏’（ $P .$ armeniaca var.glabra）、菊花和枣等的花芽分化和形态建成（冯枫和杨际双，2011；阿布都卡尤木·阿依麦提等，2015；张衡锋等，2018；赵通等，2020）；较低的IAA/GA3有利于枣花的花芽形成（牛辉陵等，2015）；较高的 $\boldsymbol { Z } \mathrm { R } / \mathrm { G } \mathrm { A } _ { 3 }$ 和（IA $\mathrm { A } + \mathrm { Z R }$ ）/GA有利于萱草花器官原基发育（李志娟等，2021）。本研究中，叶原基分化期至苞片原基分化期，‘姊妹游春’（指顶花苞片原基分化期）和‘梨花粉'花芽中的IAA/GA、（ $\mathrm { I A A ^ { + } Z R }$ ） $/ \mathrm { G A } _ { 3 }$ 和 $\boldsymbol { Z } \mathrm { R } / \mathrm { G } \mathrm { A } _ { 3 }$ 比值均降低，ABA/IAA和 $\mathrm { A B A } / \mathrm { G A } _ { 3 }$ 比值升高，说明花芽中较低的 $\mathrm { I A A } / \mathrm { G } \mathrm { A } _ { 3 }$ 、（ $\mathrm { I A A ^ { + } Z R }$ ） $/ \mathrm { G A } _ { 3 }$ 、ZR/GA3比值和较高的ABA/IAA、ABA/GA比值有利于牡丹从营养生长转向生殖生长，与前人研究结果相似。侧花分化起始期，‘姊妹游春'花芽中的 $\mathrm { I A A } / \mathrm { G } \mathrm { A } _ { 3 }$ 、（ $\mathrm { I A A ^ { + } Z R }$ ）/GA3和$\mathrm { Z R } / \mathrm { G } \mathrm { A } _ { 3 }$ 比值均升高，在侧花苞片原基形成期间达到最大；ABA/IAA和 $\mathrm { A B A } / \mathrm { G A } _ { 3 }$ 比值在侧花苞片原基形成过程中逐渐降低，在侧花苞片原基形成的最后阶段达到最低，之后升高，说明较高的 $\mathrm { I A A } / \mathrm { G A } _ { 3 }$ 、（IAA+ZR） $/ \mathrm { G A } _ { 3 }$ 、ZR/GA和较低的ABA/IAA、ABA/GA比值有利于牡丹侧花原基分化启动。
+
+# 3.3有侧花牡丹品种与长花期牡丹育种
+
+我国中原牡丹群中，有侧花且稳定的品种较少，除姊妹游春'、‘姊妹惜春'外，以‘姊妹游春'为亲本育成的新品种‘欢聚一堂’（登录号MD 2021066）当年生花枝上也具 $1 { \sim } 2$ 侧花。而‘桃花飞雪’、‘姊妹双娇’（登录号MD 2021055）、‘姊妹探春’（登录号MD2021056）等品种侧花数量尚需进一步观察。近年国内育成的远缘杂交新品种中，也有部分品种与‘姊妹游春'近似，具至少1个稳定的侧花蕾。如北京林业大学王莲英等人育成的‘华夏玫瑰红'[花紫红色，新品种权号20090005，亲本为紫牡丹（Paeonia delavayi） $\times$ 紫斑牡丹（P.rockii）]，单株花期可达 $2 0 \textup d$ ，‘小香妃[花橙色，新品种权号20140077，亲本为黄牡丹（ $P .$ lutea） $x ^ { \epsilon }$ 层中笑’（ $P .$ suffruticosa‘CengzhongXiao'）]，单株花期15d；甘肃省林业科技推广总站育成的‘云鄂粉’（花粉蓝色，新品种权号20170139，亲本为紫牡丹 $\times$ 卵叶牡丹（ $P .$ quii））、‘晨韵’（花橙色，新品种权号20150066，亲本为紫牡丹 $\times$ 紫斑牡丹）、‘彩练’（花橙红复色，新品种权号20150067，与‘晨韵'同一组合），单株花期甚至可达 $2 0 \mathrm { d }$ （王莲英和袁涛，2015）。与实生选育、亲本不详的中原品种不同的是，这些新品种母本均为具 $_ { 1 \sim 2 }$ 甚至更多的侧花，单株花期长（平均15d以上）的肉质花盘亚组野生种。
+
+“姊妹游春'虽为中原牡丹品种，但其侧花发生的机制可能与'云鄂粉'这类以肉质花盘亚组野生种为亲本的育成的远缘杂交后代类似。以此为起点，可深入研究其发生的分子机制，也可为牡丹系统学研究提供基础信息。自然杂交之育种效率远低于人工定向杂交，以具侧花的牡丹种和品种为亲本，可培育侧花多、长花期的牡丹新品种，有助于纾解花期短而集中之困境。
+
+# 参考文献：
+
+ABDUL KA,FAN DY, YUE WW, et al., 2021. Changes of nutrients, endogenous hormones and antioxidant enzymes activities during flower bud differentiation process of Ziziphus jujuba [J]. Acta Bot Boreal-Occident Sin,41(1):142-150.[阿布都卡尤木·阿依麦提，樊丁宇，岳婉 婉，等，2021.枣花芽分化过程中营养物质和内源激素含量及抗氧化酶活性变化研究[J]. 西北植物学报，41(1)：142-150.] BAI SL, SALTO T, SAKAMOTO D, et al., 2013. Transcriptome analysis of Japanese pear (Pyrus
+
+pyrifolia Nakai.) flower buds transitioning through endodormancy [J]. Plant Cell Physiol, 54(7):1132-1151.  
+CHEN B, GONG MX, LIU XW, et al., 2020.Morphological and anatomical studies of flower buddifferentiation of Barnardia japonica [J]. Guihaia, 40(11): 1638-1644.[陈斌,宫明雪,刘筱玮,等，2020.绵枣儿花芽分化的形态解剖学研究[J].广西植物，40(11)：1638-1644.]  
+CHEN WS, 2O07. Changes in cytokinins before and during early flower bud differentiation inLychee (Litchi chinensis Sonn.) [J]. Plant Physiol, 96(4): 1203-1206.  
+FAN JY, ZHANG YT,WU WQ, et al., 2021. Changes of endogenous hormones in 2 kinds ofLycorisplantsatdifferentgrowthstages[J].MolPlantBreed:1-9.https://kns.cnki.net/kcms/detail/46.1068.S.20210602.1334.008.html.[范瑾怡，张莹婷，吴文菁，等，2021.2种石蒜属植物不同生育期内源激素含量变化[J].分子植物育种：1-9.https://kns.cnki.net/kcms/detail/46.1068.S.20210602.1334.008.html.]  
+FENG F, YANG JS,2011.Relationship between floral bud differentiation and endogenoushormones in autumn-cutting Chrysanthemum morifolium‘Jinba' [J]. Sci Agric Sin, 44(03): 552-561.[冯枫，杨际双，2011.切花秋菊‘神马'花芽分化与内源激素的关系[J].中国农业科学，44(03): 552-561.]  
+HE D, GAO XF, LU BY, et al., 2014. Morphology research of flower bud differentiation of treepeony and herbaceeos peony[J].JHenan Agric Sci, 43(12):117-120.[贺丹，高小峰，吕博雅，等，2014.牡丹、芍药花芽分化的形态学研究[J].河南农业科学，43(12)：117-120.]  
+HUANG FL,NIU HY, MENG FJ,et al.，2009.Micro-study on flower bud diferentiation ofPaeonia lactiflora Pall[J].JNE Agric Univ,40(3): 57-61.[黄凤兰，牛红云，孟凡娟，等，2009.芍药花芽分化过程的显微研究[J].东北农业大学学报，40(3)：57-61.]  
+LI G,WANG JH, CHE SC, et al., 2019. Changes in endogenous hormones during times of floralbud differentiation of Platycladus orientalis [J]. N Hort, (22): 90-96.[李广，王建红，车少臣，等，2019.侧柏花芽分化期间内源激素变化规律[J].北方园艺，(22)：90-96.]  
+LI JA,SUN Y, GAO AL, et al., 2011. Physiological nutrition and hormone variations in Verniciafordii during flower bud differentiation [J].JCent S Univ For & Technol, 31(3): 34-37.[李建安，孙颖，郜爱玲，等，2011.油桐花芽分化期营养与激素生理变化研究[J].中南林业科技大学学报，31(3)：34-37.]  
+LI ZJ, JIA ML,LU YM, et al., 2021. Dynamic changes of endogenous hormone during floral buddifferentiation in Hemerocalis [J]. J Shanxi Agric Sci, 49(9): 1061-1066.[李志娟，贾民隆,吕英民，等，2021.萱草花芽分化过程中内源激素的动态变化[J].山西农业科学，49(9):1061-1066.]  
+LIU YY，2010. Studies on and biological and morphological characteristics of Paeoniasuffruticosa Zhongyuan Group[D]. Beijing: Beijing Forestry University.[刘玉英，2010.中原牡丹品种生物学及形态特性研究[D].北京：北京林业大学.]  
+LIU W, LIU JD, ZHOU HG,2012. Morphological observation on floral bud diferentiation ofLilium formolongi under night-break condition [J]. Guihaia, 32(6): 828-833.[刘 伟，刘久东,周厚高，2012.暗期光间断条件下新铁炮百合花芽分化的形态学研究[J].广西植物，32(06):828-833.]  
+LU CP, CHENG ML,MO NJ, et al.,2009. Effects of exogenous $\mathrm { G A } _ { 3 }$ on flower bud developmentof peony[J].Crop Res,23(2):133-135.[吕长平，成明亮，莫宁捷，等，2009.外源GA3对芍药花芽发育的影响[J].作物研究，23(2)：133-135.]  
+LUO YW, XIE WH, MA K,2007. Correlation between endogenous hormones contents and flowerbud differentiation stage of Ficus carica L.[J]. Acta Bot Boreal-Occident Sin, 27(7): 1399-1404.[罗羽洧，解卫华，马凯，2007.无花果花芽分化与内源激素含量的关系[J].西北植物学报，(7):1399-1404.]  
+MO CM,TU DP, HUANG J, et al., 2015.Morphological and endogenous hormone characteristicsof flower bud of Siraitia grosvenori during its differentiation [J]. Acta Bot Boreal-Occident Sin,35(1):98-106.[莫长明，涂冬萍，黄杰，等，2015.罗汉果花芽分化过程中形态及其激素水平变化特征[J].西北植物学报，35(1)：98-106.]  
+MO NJ,LU CP, CHENG ML, et al., 2008. Flower bud differentiation of tree peony introducedfrom Heze to Changsha [J]. JHunan Agric Univ (Nat Sci Ed),34(2): 193-195.[莫宁捷，吕长平，成明亮，等，2008.菏泽牡丹引种到长沙地区后的花芽分化[J].湖南农业大学学报(自然科学版)，34(2)：193-195.]  
+MO WJ, ZHANG JJ, YANG SB, et al., 2015.Flower bud differentiation and dynamic changes ofendogenous hormones in Prunus domestica $\times$ armeniaca ‘Fengweimeigui'[J]. J Chin AgricUniv,35(01):98-106.[莫文娟，张嘉嘉，杨绍彬，等，2015.杂交杏李‘风味玫瑰'花芽分化过程及内源激素动态变化[J].中国农业大学学报，25(11)：54-61.]  
+NIU HL, ZHANG HW,BIAN Y,et al.， 2015. Flower formation and endogenous hormonesdynamic in Chinese jujube [J].Acta Hort Sin,42(04): 655-664.[牛辉陵，张洪武，边 媛，等，2015.枣花分化发育过程及其内源激素动态研究[J].园艺学报，42(4)：655-664.]  
+WANG DH, 2017. Experimental technology of plant developmental biology[M]. Beijing: PekingUniversity Press:124.[王东辉，2017.植物发育生物学常用实验技术[M].北京：北京大学出版社：124.]  
+WANG H, GU WL, ZHUANG HF, et al.,2015. Effects of plant external hormones on flower buddifferentiation of vanilla[J].Chin JTrop Agric,36(11):72-76.[王辉，顾文亮，庄辉发，等,2016.不同外源激素对香草兰花芽分化的影响[J].热带农业科学，36(11):72-76]  
+WANG L, TANG GG, LIU T, 2008. Variation of endogenous hormone and nucleic acid contentduring flower bud differentiation of Lycoris lycoris [J]. J Nanjing For Univ (Nat Sci Ed), (4):67-70.[王磊，汤庚国，刘彤，2008.石蒜花芽分化期内源激素和核酸含量的变化[J].南京林业大学学报(自然科学版)，(4)：67-70.]  
+WANG LY, 1986.Observations in the morphological of flower bud differentiation of cultivars oftree peony and the analysis on the formation of flower roems[J]. Acta Hort Sin,13(3): 203-208.[王莲英，1986.牡丹品种花芽形态分化观察及花型成因分析[J].园艺学报，13(3)：203-208.]  
+WANG LY, YUAN T, 2015. Sequel of chinese tree peony [M]. Beijing: China Forestry PublishingHouse:137-286.[王莲英，袁涛，2015.中国牡丹品种图志（续志）[M].北京：中国林业出版社：137-286.]  
+WANG QQ, 2011. Evaluation on introduction of Paeonia suffruticosa northwest group andZhongyuan Group in Harbin [D].Harbin: Northeast Forestry University.[王欠欠，2011.哈尔滨引种不同中原和西北牡丹品种的评价[D].哈尔滨：东北林业大学.]  
+WANG ZZ, ZHANG YX,1987. Studies on morphogenesis and life cycle of the flower bud of treepeony(Paeonia suffruticosa Andr.)[J].J Shandong Agric Univ,18(3): 9-16.[王宗正，章月仙，1987.牡丹花芽的形态发生及其生命周期的观察[J].山东农业大学学报，18(3)：9-16.]  
+YAN BB, HOU JL, CUI J, et al., 2019.The effects of endogenous hormones on the flowering andfruiting of Glycyrrhiza uralensis [J]. Plants,8(11): 519-531.YANG ZQ,LUO WH, CHEN FD, et al., 2008. Effects of gibberellin on development and externalquality of single flower cut Crysanthemum morifolium Ramat [J]. Plant Physiol Comm, 44(6):  
+1095-1098.[杨再强，罗卫红，陈发棣，等，2008.赤霉素对单头切花菊发育和外观品质的影响[J].植物生理学通讯,44(6):1095-1098.]YANG ZS, ZHANG YM,1986. The process of flower bud differentiation in tree peony [J]. J WHenan Agric Coll,(01):36-38.[杨正申，张益民，1986.牡丹花芽分化过程的观察[J].豫西农专学报，(01)：36-38.]ZENG XL，CHENG JF,1989. Applied biology filmmaking technique[M]. Beijing: HigherEducation Press.[曾小鲁，程景福，1989.实用生物学制片技术[M].北京：高等教育出版社.]ZHANG HF, WEI QC, TANG GG, 2018. Changes in the endogenous hormones and carbohydratecontents in Crocus sativus L. during floral bud differentiation [J]. J Yunnan Agric Univ (Nat SciEd),33(4):684-689.[张衡锋，韦庆翠，汤庚国，2018.番红花花芽分化过程中内源激素和糖含量的变化[J].云南农业大学学报(自然科学)，33(4)：684-689.]ZHANG JJ, ZHU W, TEIXEIRA DA SILVA JA,et al., 2019. Comprehensive application ofdifferent methods of observation provides new insight into flower bud diferentiation of double-flowered Paeonia lactiflora ‘Dafugui' [J]. Hort Sci, 54(1): 28-37.ZHANG YT, YANG XL,HE L, et al., 2019.Relationships between flower bud differentiation intwo kinds of Lycoris and the changes of carbohydrate, antioxidant enzymes and endogenoushormones [J].JAnhui Agric Univ,46(2): 342-349.[张莹婷，杨秀莲，何岭，等，2019.2种石蒜花芽分化与碳水化合物、抗氧化物酶及内源激素变化的关系[J].安徽农业大学学报，46(2): 342-349.]ZHAO J, LI G, YI GX,et al., 2006. Comparison between conventional indirect competitiveenzyme-linked immunosorbent assay (icELISA) and simplified icELISA for small molecules [J].Anal Chim Acta, 571(1): 79-85.ZHAO T, CHEN CL, CHENG L, et al., 2020. Dynamic study on endogenous hormones and C /Nratio during flower-bud differentiation of Li-Guang Apricot [J]. Agric Res Arid Areas, 38(3):  
+97-104.[赵通，陈翠莲，程丽，等，2020.‘李光杏'花芽分化时期内源激素及碳氮比值的动态研究[J].干旱地区农业研究，38(3)：97-104.]ZOU LP, PAN C, WANG MX, et al., 2020. Progress on the mechanism of hormones regulatingplant flower formation[J].Hereditas,42(8):739-751.[邹礼平，潘铖，王梦馨，等，2020.激素调控植物成花机理研究进展[J].遗传，42(8)：739-751.]ZHU GP,LI JY,LI XL,et al.， 2011. Morphology and physiological characteristics of flowerdevelopment in Camellia changii Ye,an endangered and rare plant [J]. Guihaia, 31(4): 507-  
+512.[朱高浦,李纪元,李辛雷,等，2011．珍稀濒危植物张氏红山茶花的花发育形态及生理特性研究[J].广西植物，31(4):507-512]

@@ -1,0 +1,285 @@
+# 一种基于DTMF信号的智能手机外部攻击方法
+
+申兴发，杨健，冉德纲(杭州电子科技大学 计算机学院，杭州 310018)
+
+摘要：传统的针对智能手机内部攻击的方式容易被用户察觉及预防。作为一种常见的音频信号，DTMF信号在手机通信中具有非常重要的地位，但也面临严峻的安全风险。提出了一种基于DTMF信号的智能手机外部攻击方法，可以在用户不被察觉，且与用户手机无交互情况下进行有效攻击。首先，该方法对用户某些重要按键操作进行录音；然后对录音数据在时域上进行双阈值的端点检测，提取信号的有效区域；再将有效区域通过Goertzel算法转换到频域进行数字分类；最后，通过比照DTMF编码表得到用户所有按键数据。实验结果表明，该方法在10 db 信噪比，且与用户手机无交互的条件下能破解 $80 \%$ 以上的按键数据。
+
+关键词：智能手机；内部攻击；DTMF信号；外部攻击；端点检测；Goertzel算法 中图分类号：TN918.91 doi:10.19734/j.issn.1001-3695.2018.11.0893
+
+External attack method for smartphone based on DTMF signal
+
+Shen Xingfa, Yang Jian+, Ran Degang (Schoolof Computer Science&Technology,Hangzhou Dianzi University,Hangzhou 3100l8,China)
+
+Abstract: The traditionalwayof interalattack forsmartphone iseasytodetectedand preventedbytheuser.Asacommon audio signal,DTMFsignal playsavery importantroleinmobilecommunication,butalsofacesseveresecurityrisk.This paper proposedan external tack method forsmartphonebasedonDTMFsignal,whichcouldatack effectively without the user beingaware and without interactionwith the smartphone.Firstly,itrecorded some importantkeystrokeoperationof user.Secondly,performed double-threshold endpoint detection intimedomain to extract the efective areaofthe signal. Thirdly,converted theefectiveareatofrequencydomainbyGoertzelalgorithmfordigitalclasification.Finallyalthe keystroke data of the user were obtained bycomparing the DTMFcoding table.The experimental results show that the method can decipher more than $80 \%$ of the keystroke data under the condition of 1Odb signal-to-noise ratio and no interaction with the smartphone.
+
+Key Words: smartphone; internal attck; DTMF signal; external attack; endpoint detection; Goertzelalgorithm
+
+# 0 引言
+
+随着计算机技术和通信业的发展，使用智能手机的人越来越多。根据互联网分析师玛丽·米克尔最新互联网趋势报告[1]显示，到2018年，全球智能手机的用户人数约为15亿，中国智能手机用户数量已达3.54亿，超越美国成为世界上智能手机用户量最多的国家。移动智能手机的广泛使用使它们成为进行隐私和安全攻击的目标，各种针对智能手机的攻击接踵而至，其中有三类攻击最为频繁，第一类是软件层面的攻击，如Das等人发现的一些第三方应用可以收集私自用户物理位置数据以及联系人信息，Schlegel等人[3]发现的一些恶意软件可以捕捉语音通话和记录内置麦克风的任何对话；第二类是系统层面的攻击，如Drake等人[4]发现了Android系统上多种远程代码执行漏洞，并且不需要用户交互就可以进行攻击，Xing等人[5]发现的针对iOS操作系统缺乏身份验证造成网络套接字滥用问题；第三类网络层面是的攻击，如Manikandan等人[提出的通过移动热点通信信道获取其他节点的数据和流量，Cheng等人[7提出的公共WiFi接入点的隐私泄露问题。这三类针对智能手机的攻击都属于内部攻击的方式，都容易被用户察觉并采取相应的解决方法，如Akhuseyinoglu 等人[8]针对软件层面的攻击提出了一种基于机器学习的恶意软件自动检测工具。Enck等人9针对系统层面的攻击提出的TaintDroid系统执行动态污染分析，可以显示智能手机系统中隐藏的和可能不需要的私有数据信息流。Khoula等人[10]针对网络层面的攻击提出了一种针对移动热点入侵检测系统SIDS。
+
+综上所述，已有文献的研究成果主要关注的是对智能手机内部的攻击，且用户容易发现并采取相应措施进行解决，反而忽视了对智能手机外部进行攻击的方式。由于智能手机具有体积小，功能强大等特点，大多数的人都选择智能手机作为业务工具，像手机银行、手机邮件、人工服务和手机支付等等，然而这些业务操作中都会使用智能手机的拨号键盘，用户通过拨号键盘进行菜单选择以及密码输入，而这种按键操作会产生一种DTMF的音频信号，通过这种DTMF信号的录音进行检测可以识别用户的按键内容，且不容易让用户察觉，也不需要与用户手机进行交互。本文基于此考虑，提出了一种基于DTMF信号智能手机外部的攻击方法，攻击者通过对受害者某种操作(密码输入、电话号码输入等)按键音的录音，然后在时域上通过双阈值端点检测算法将按键产生的连续DTMF信号分割成每一个按键的DTMF信号，在频域上将分割的每一个按键的DTMF信号通过Goertzel算法上解析成相应的数字，最后获取用户的密码和手机号等隐私数据。经证明，该攻击方式在10db的信噪比的条件下，可以破解 $80 \%$ 以上的4或6位数字密码和11位数字的手机号码。
+
+# 1 DTMF信号
+
+电话通信具有两种拨号方式，一种是脉冲式拨号，一种是DTMF(dual tone multi frequency)，也就是双音多频[1112]式拨号。脉冲式拨号是早期常用的拨号方式，它通过彼此断开的脉冲序列发送呼叫和被叫号码。但随着使用者和使用频率的增加，脉冲式拨号暴露出人工量大，误码率高，通信效率低的问题。因此美国贝尔实验室于1963年推出了一种双音多频式拨号方式，以准确的、高效的完成电话通信网络中被叫号码的自动接收，随后双音多频电话迅速取代了脉冲式电话成为主流的拨号方式。
+
+如今，DTMF信号已经成为电话系统、智能监控系统以及远程控制系统的主要通信方式。如表1所示，每一个DTMF信号由两个频率的音频信号叠加构成，这两个音频信号的频率来自两个预分配的频率组：行频组和列频组。每一对这样的音频信号唯一产生表示一个数字或符号。DTMF编码是将键盘上不同的按键用8个频率的不同组合表示出来，如当人们在智能手机的拨号键盘按下数字“1”时，将会由 $6 9 7 \mathrm { H z }$ 和 $1 2 0 9 ~ \mathrm { H z }$ 的音调进行叠加而来产生数字“1”的DTMF 信号。
+
+表1DTMF 信号编码表  
+Table 1 The coding table of DTMF signal   
+
+<html><body><table><tr><td>Hz</td><td>1209</td><td>1336</td><td>1477</td><td>1633</td></tr><tr><td>697</td><td>1</td><td>2</td><td>3</td><td>A</td></tr><tr><td>770</td><td>4</td><td>5</td><td>6</td><td>B</td></tr><tr><td>852</td><td>7</td><td>8</td><td>9</td><td>C</td></tr><tr><td>941</td><td>*</td><td>0</td><td>#</td><td>D</td></tr></table></body></html>
+
+# 2 基于时域的端点检测
+
+考虑到用户在智能手机上输入密码或电话号码的动作是连续的，大部分的密码是4位或者6位，手机号码是11位，所以攻击者录音时得到的是连续的DTMF信号，需要将连续的DTMF信号分割成每一个按键的DTMF信号进行识别。因此本文将语音信号识别中的端点检测[134]技术引入到DTMF信号检测，从连续的DTMF信号中分割出按键信号和非按键信号。同时用户的按键内容是随机的，可能会出现一些重复性的数字或字母。例如用户进行电话银行操作时，拨打“95588”这种类型的数字号码。通过对号码“95588”的DTMF信号进行时域和频域上的分析，如图1所示，可以看出相同的数字在频域上表现出相同的频率增幅，并没有像时域上呈现多个独立的信号，对于DTMF信号的分割会造成很大误差。基于此，本文采用基于时域的端点检测算法区分DTMF信号和非DTMF信号。
+
+# 2.1短时能量
+
+由于语音信号能量随时间变化而变化，语音段和噪声段之间的能量差别相当显著。因此可以通过对语音信号的短时能量进行分析，可以描述语音的这种特征的变化。设语音时域信号为 $x ( l )$ ，窗函数为 $w ( m )$ ，加窗后的第 $n$ 帧语音信号为$x _ { n } ( m )$ ，则有
+
+$$
+\begin{array} { r } { x _ { n } ( m ) = w ( m ) x ( n + m ) , \ 0 \leq m \leq N - 1 , n = 0 , \ 1 T , \ 2 T , \ \cdots } \end{array}
+$$
+
+其中： $N$ 为帧长，即窗口的长度， $T$ 为帧移。加窗后的第 $n$ 帧语音信号 $x _ { n } ( m )$ 的短时能量为
+
+$$
+E _ { n } = \sum _ { m = 0 } ^ { N - 1 } x _ { n } ^ { 2 } ( m )
+$$
+
+![](images/16c511178248d634f1a8cd8a5f4acf85c5a06960076f3839fd3e0836076d2902.jpg)  
+图1“ $9 5 5 8 8 ^ { \prime \prime }$ 的 DTMF 信号在时域和频域上的分布Fig.1Distribution of $" 9 5 5 8 8 "$ DTMF signals in time domain andfrequency domain
+
+# 2.2短时过零率
+
+时域分析中除了对语音信号的短时能量进行分析，还可以从语音信号波形的角度分析。语音信号输入会随着时间上下波动，形成其特有的波形，这一特征可以用一帧内语音信号通过零值得次数来描述，称为短时过零率。若是连续信号，则语音信号的时域波形通过横轴的次数即为过零；若是离散信号，则相邻取样值之间的符号变化即为过零。由于语音信号是一种短时平稳信号，采用短时过零率可以在一定程度上反映语音信号的频谱性质，由此可以获得频谱特性的一种估计。设语音信号为 $x ( l )$ ，窗函数为 $w ( m )$ ，加窗后第 $n$ 帧语音信号 $x _ { n } ( m )$ 的短时过零率 $Z _ { n }$ 为
+
+$$
+Z _ { n } = { \frac { 1 } { 2 } } { \sum _ { m = 1 } ^ { N - 1 } } | \mathrm { s g n } ( x _ { n } ( m ) ) - \mathrm { s g n } ( x _ { n } ( m - 1 ) ) |
+$$
+
+其中 $\mathrm { s g n ( ) }$ 是符号函数。
+
+$$
+\operatorname { s g n } ( x ) = { \left\{ \begin{array} { l l } { 1 , x \geq 0 } \\ { - 1 , x < 0 } \end{array} \right. }
+$$
+
+# 2.3 双阈值端点检测
+
+在语音信号信噪比高的条件下，仅靠计算信号的短时能量就基本能够把语音段和噪声段区别开来，即使在最低电平的语音的能量也比噪声能量要高。但是，在现实生活中很难保证信号的高信噪比，仅仅根据短时能量进行判断是不够的。因此，还需进一步利用信号的短时过零率进行判断，而语音段的短时平均过零率比噪声的短时平均过零率要高出好几倍所以可以作为区分语音段的辅助判断。基于此，本文利用信号的短时能量和短时过零率双重阈值进行判别DTMF信号和非DTMF信号。
+
+a)基于短时能量判别。如图2所示，首先根据语音信号的短时能量平均值选取一个较高的阈值 $T _ { \mathrm { l } }$ ，进行第一次粗判，语音的起止点位于该阈值与短时能量曲线交点所对应的时间间隔之外(即 $A _ { 1 } A _ { 2 }$ 段之外)。再根据背景噪声的平均能量确定一个较低的阈值 $T _ { 2 }$ ，并从 $A _ { 1 }$ 点往左、从 $A _ { 2 }$ 点往右进行搜索，分别找到短时能量曲线与 $T _ { 2 }$ 相交的两个点 $B _ { 1 }$ 和 $B _ { 2 }$ ，于是 $B _ { 1 } B _ { 2 }$ 就是基于短时能量所判断的语音段。
+
+b)基于短时过零率判别。如图2所示，根据背景噪声的平均过零率确定一个阈值 $T _ { 3 }$ ，以信号的短时平均过零率为标准，从 $B _ { \mathrm { l } }$ 点往左、从 $B _ { 2 }$ 点往右搜索，找到短时平均过零率低于阈值 $T _ { 3 }$ 的两个点 $C _ { 1 }$ 和 $C _ { 2 }$ ，这就是语音段的起止点，即DTMF信号的起止点。
+
+![](images/2a6e94925c15539f48f8a4829a78a80b956a5e6cfbd4b156d633c685ed3f1bd0.jpg)
+
+通过短时能量的粗判，在结合短时过零率的特性进行辅助判断，可以很好的分割DTMF信号的有效区域。如图3所示，数字 $^ { \mathrm { \tiny ~ \it ~ 4 ~ 9 5 5 8 8 } ^ { \mathrm { \tiny ~ , 9 } } }$ 的连续按键音信号经过双阈值端点分割后的情况，从上往下依次是数字“95588”录音的原始信号、在加入10db的噪声后的信号、信号的短时能量分布以及信号的短时过零率分布，从图中可以看出该双阈值端点检测算法能够很好的分辨出DTMF信号和非DTMF信号。
+
+![](images/3072cd1a8db358a170b0d1d6f57567724d8997c1e548d7f6312975f33cb1822f.jpg)  
+图2基于短时能量和短时过零率的双门限判别示意图 Fig. 2 Dual threshold discrimination diagram based on short-time energy and short-time zero-crossing rate   
+图3数字‘ $9 5 5 8 8 ^ { \prime \prime }$ 的端点分割情况  
+Fig.3Endpoint segmentation of the number "95588"
+
+# 3 基于频域的分类检测
+
+连续的DTMF信号经过时域上的端点检测后，被分割成单个的DTMF信号，需要对单个的DTMF信号进行分类解析成表1中的数字和字母。传统的DTMF 信号检测方法有DFT 算法、FFT算法等，本文采用Goertzel算法对DTMF信号进行检测，相对于FFT算法效率更高。
+
+# 3.1Goertzel算法原理
+
+Goertzel算法[15]是由美国人杰拉德·戈泽尔(GeraldGoertzel)在1958年提出，主要用于数字信号处理领域中，是一种计算信号离散傅里叶变换的方法。设语音信号为 $x ( n )$ ，则信号第 $k$ 个DFT分量表示为
+
+$$
+X ( k ) = \sum _ { n = 0 } ^ { N - 1 } x ( n ) e ^ { - j 2 \pi k { \frac { n } { N } } } , k = 0 , \ \cdots , N - 1
+$$
+
+又因为
+
+$$
+e ^ { j 2 \pi k { \frac { N } { N } } } = 1
+$$
+
+对等式(5)两边同时乘以 $e ^ { j 2 \pi k { \frac { N } { N } } }$ 可以得到
+
+$$
+X ( k ) = e ^ { j 2 \pi k { \frac { N } { N } } } \sum _ { n = 0 } ^ { N - 1 } x ( n ) e ^ { - j 2 \pi k { \frac { n } { N } } }
+$$
+
+通过对等式(7)进行变形可以得到
+
+$$
+X ( k ) = \sum _ { n = 0 } ^ { N - 1 } x ( n ) e ^ { - j 2 \pi k { \frac { n - N } { N } } }
+$$
+
+等式(8)的右边部分可以看成信号序列 $x ( n )$ 与脉冲响应$h _ { k } \left( n \right)$ 的离散线性卷积。其中 $h _ { k } \left( n \right)$ 可以表示为
+
+$$
+h _ { k } \left( n \right) = e ^ { j 2 \pi k \frac { n } { N } } u ( n )
+$$
+
+如果把卷积计算的结果表示为 $y _ { k } ( n )$ ，则有
+
+$$
+y _ { k } ( n ) = \sum _ { m = 0 } ^ { N - 1 } x ( m ) e ^ { j 2 \pi k { \frac { n - m } { N } } } u ( n - m )
+$$
+
+由此，可以对输出响应进行 $z$ 变换得到变换方程：
+
+$$
+H _ { k } ( z ) = \sum _ { n = - \infty } ^ { \infty } h _ { k } ( n ) z ^ { - n } = ( \sum _ { n = 0 } ^ { \infty } e ^ { j 2 \pi { \frac { k } { N } } } z ^ { - 1 } ) ^ { n }
+$$
+
+其中等式(11)可以看成以 $e ^ { j 2 \pi k { \frac { 0 } { N } } _ { Z ^ { - 0 } = 1 } }$ 为首项，以 $e ^ { j 2 \pi \frac { k } { N } } z ^ { - 1 }$ 为公比的几何级数等比序列。对于 $\left| q \right| < 1$ ，即 $| z | > 1$ 的情况，此序列是趋于收敛的，且其求和结果为
+
+$$
+H _ { k } ( z ) = { \frac { 1 } { 1 - e ^ { j 2 \pi _ { N } ^ { k } } z ^ { - 1 } } }
+$$
+
+其相应的差分方程为
+
+$$
+y _ { k } \left( n \right) = x ( n ) + e ^ { j 2 \pi { \frac { k } { N } } } y _ { k } \left( n - 1 \right)
+$$
+
+其中 $y _ { k } \left( - 1 \right) = 0$ 。
+
+为了解决差分方程计算过程中带有复杂的倍增系数，可以在差分方程的分子和分母中同时引入共轭因子$( 1 - e ^ { - j 2 \pi \frac { k } { N } } z ^ { - 1 } )$ ，从而构造了一个含有二阶共轭极点的滤波器，进而可以得到
+
+$$
+H _ { k } ( z ) = { \frac { 1 - e ^ { - j 2 \pi { \frac { k } { N } } } z ^ { - 1 } } { 1 - 2 \cos ( { \frac { 2 \pi k } { N } } ) z ^ { - 1 } + z ^ { - 2 } } }
+$$
+
+其二阶差分方程为
+
+$$
+y _ { k } \left( n \right) = x ( n ) - x ( n - 1 ) e ^ { - j 2 \pi { \frac { k } { N } } } + 2 \cos ( { \frac { 2 \pi k } { N } } ) y _ { k } ( n - 1 ) - y _ { k } ( n - 2 )
+$$
+
+其中 $x ( - 1 ) = y ( - 1 ) = y ( - 2 ) = 0$ 。对上式引入中间变量 $\nu ( n )$ ，可以得到最终的结果为
+
+$$
+\left\{ \begin{array} { l l } { \displaystyle \nu ( n ) = x ( n ) + 2 \cos ( \frac { 2 \pi k } { N } ) \nu ( n - 1 ) - \nu ( n - 2 ) } \\ { \displaystyle y _ { k } ( n ) = \nu ( n ) - e ^ { - j \frac { 2 \pi k } { N } } \nu ( n - 1 ) } \end{array} \right.
+$$
+
+该滤波器对应的网络结构如图4所示，其中 $x ( n )$ 是语音信号采样值， $\nu ( n )$ 是中间变量， $y _ { k } ( n )$ 是对应的输出响应。
+
+![](images/989bfc956daea017e86cec6e22843c0168a9e0be401cb1840d436b2cde30300b.jpg)  
+图4Goertzel算法原理框图 Fig. 4 Goertzel algorithm block diagram
+
+# 3.2Goertzel算法性能分析
+
+对DTMF信号检测之前，需要将模拟信号转换成数字信号。从表1可知，DTMF信号最高频率为 $f _ { \mathrm { m a x } } = 1 6 3 3 H z$ ，采用$f _ { s } = 8 0 0 0 H z$ 的采用频率显然满足奈奎斯特采样定理的要求，然后对采样后的数字信号利用Goertzel算法求出相应频率的幅值信息，即
+
+$$
+\left| X ( k ) \right| ^ { 2 } = \left| y _ { k } ( N ) \right| ^ { 2 } = \left| \nu ( N ) - e ^ { - j { \frac { 2 \pi k } { N } } } \nu ( N - 1 ) \right| ^ { 2 }
+$$
+
+而需要检测的DTMF信号频率 $f _ { i }$ 与离散傅里叶系数 $k$ 存在着如下关系：
+
+$$
+k = N \times \frac { f _ { i } } { f _ { s } }
+$$
+
+其中： $N$ 是采样点数， $f _ { s }$ 是采样频率。 $N$ 的选取取决于频率分辨率和采集 $N$ 个采样点所需要的时间， $N$ 取值越大，频率分辨率越高，采样所需时间也会相应增加。因此，需要在频率分辨率和采样时间这两个因素之间作出权衡。文献[16]中给出了 $N = 2 0 5$ 是最佳值，这时的频率偏差保持在小于 $1 . 5 \%$ 的范围内，符合国际电信联盟ITU对DTMF信号有效性的要求[17]，所以本文在实验时，取 $N = 2 0 5$ 和 $f _ { s } = 8 0 0 0$ 。利用上式可以求出DTMF信号的8个频率所对应的 $k$ 值，如取$f _ { i } = 6 9 7 H z$ 时，有
+
+$$
+k = N \times \frac { f _ { i } } { f _ { s } } = 2 0 5 \times \frac { 6 9 7 } { 8 0 0 0 } = 1 7 . 8 6 0 6
+$$
+
+由于 $k$ 必须取整数，所以将其四舍五入取 $k = 1 8$ ，DTMF其他频率也可以通过上式相应计算得到，8个DTMF频率对应 $k$ 值如表2所示。
+
+表28个DTMF 频率对应的 $k$ 值  
+
+<html><body><table><tr><td colspan="4">ruoreo DrMnHequeneres</td></tr><tr><td>基本频率(Hz)</td><td>计算k值</td><td>整数k值</td><td>绝对误差</td></tr><tr><td>697</td><td>17.861</td><td>18</td><td>0.139</td></tr><tr><td>770</td><td>19.731</td><td>20</td><td>0.269</td></tr><tr><td>852</td><td>21.833</td><td>22</td><td>0.167</td></tr><tr><td>941</td><td>24.113</td><td>24</td><td>0.113</td></tr><tr><td>1206</td><td>30.981</td><td>31</td><td>0.019</td></tr><tr><td>1306</td><td>34.235</td><td>34</td><td>0.235</td></tr><tr><td>1477</td><td>37.848</td><td>38</td><td>0.152</td></tr><tr><td>1633</td><td>41.864</td><td>42</td><td>0.154</td></tr></table></body></html>
+
+由于Goertzel算法只关心8个频率的信息，相对于FFT算法计算量更小，在频域上的分辨率更好。如图5所示在$N = 2 0 5$ 和 $f _ { s } = 8 0 0 0$ 条件下，数字“1”对应的DTMF信号识别情况，其中FFT算法将信号整个频域的信息都计算出来了，且需要找出两个幅度最大的频率值，而对应的Goertzel算法计算8个DTMF信号的幅度值，计算量减小，而且分辨率更高。如表3所示，对于Goertzel算法和FFT算法计算复杂度对比，在 $N = 2 0 5$ 的条件下，Goertzel的计算量相对于FFT算法减少了 $60 \%$ 。
+
+# 4 算法实现
+
+算法的流程如图6所示，具体的步骤为：
+
+a)对输入的数字语音信号 $x ( n )$ 进行预处理，其中包括滤波、分帧加窗使其去除大部分噪声信号。
+
+b)信号分帧之后，每一帧记为 $s _ { i } ( n )$ ， $n = 1 , ~ 2 , ~ \cdots , ~ N$ ， $N$ 为帧长， $i$ 为帧数。以帧为单位计算语音信号的短时能量和短时过零率，分别为序列 $\{ E _ { i } \}$ 和 $\{ Z _ { i } \}$ 。
+
+c)根据信号的短时能量和背景噪声的短时能量选取的阀值 $T _ { 1 }$ 和 $T _ { 2 }$ ，进行短时能量的判别，确定语音段起止点的大致
+
+范围。
+
+d)根据信号的平均过零率和噪声的平均过零率选取的阈值 $T _ { 3 }$ ，进行短时过零率的判别，确定最终语音段的起止点。
+
+e)循环步骤c)和d)，当满足双阈值判别时，将最近一次的能量序列作为语音信号端点的候选序列，直到遍历完所有的能量序列，得到最终的候选分段序列 $\{ S _ { i } \}$ 。
+
+f)将分段序列{S}对应的时域信号转换到频域，通过Goertzel算法进行DTMF信号的解析，找到每一段DTMF信号在频域内对应的频率对 $( f _ { i } , f _ { j } )$ 。
+
+g)将所有的频率对在DTMF 编码中查询，得到该信号最终的数字序列 $\{ P _ { i } \}$ ，算法结束。
+
+![](images/c70ad0db5f36e4b94436c9a006dee9d62952b313cca1177c66750030036715db.jpg)  
+图5数字“1”的FFT变换与Goertzel变换   
+表3Goertzel算法与FFT算法运算结果对比
+
+Table 8DTMF frequencies   
+Table 3 Comparison between Goertzel algorithm and FFT algorithn   
+
+<html><body><table><tr><td></td><td>Goertzel 算法</td><td>FFT算法</td></tr><tr><td>加法次数</td><td>3Nlog N</td><td>(2N +1)×8</td></tr><tr><td>乘法次数</td><td>2Nlog2 N</td><td>(N+1)×8</td></tr><tr><td>总运算次数</td><td>5N log2 N</td><td>24N+24</td></tr><tr><td>N=205</td><td>4944</td><td>7872</td></tr></table></body></html>
+
+![](images/7a63790a57b552558c1181d6755dd4768db1673c9c3680861f262545b1bcea16.jpg)  
+Fig.5FFT algorithm and Goertzel algorithm for number "1   
+图6算法流程框图  
+Fig.6The algorithm flow diagram
+
+# 5 实验结果与分析
+
+# 5.1实验环境
+
+实验在杭州电子科技大学的第一教学楼实验室进行，首先在实验室环境下采集数据，分别按照1位、4位、6位和11位数字录取各100份录音数据，然后将录音数据在Win10系统下基于MATLAB2016a平台进行DTMF信号检测。其中录音采用两部Android手机相距 $2 0 \ \mathrm { c m }$ 进行录制，音频格式为wav，信号采样率为 $8 ~ \mathrm { k H z }$ ，精度为 $1 6 ~ \mathrm { b i t }$ ，窗函数采用汉明窗，帧长取 $3 2 ~ \mathrm { m s }$ ，帧移为 $8 ~ \mathrm { m s }$ 。
+
+# 5.2结果分析
+
+首先将采集到的300份数据(4位数字，6位数字，11位数字)，加入6种不同信噪比下的噪声，然后根据基于时域的端点检测算法进行分割。本文定义了端点分割的误差函数：
+
+$$
+p _ { i } = \frac { T _ { i } } { G _ { i } }
+$$
+
+其中： $p _ { i }$ 为 $i$ 位数字的分割误差， $T _ { i }$ 为 $i$ 位数字经过基于时域的端点分割后的有效区间数， $G _ { i }$ 为 $i$ 位数字有效区间的真实数(Ground Truth)。如图7所示，三种不同位数的数字在不同信噪比下的端点检测结果。可以看出4位数字和6位数字信号在信噪比很低的条件下，分割精确度在 $80 \%$ 以上，在高信噪比的条件下能达到 $90 \%$ 以上的分割准确率。而由于电话号码数字位数较长，在低信噪比的条件下，分割准确率相对4位数字和6位数字要低，但是也基本满足要求，分割准确率基本保持在 $7 5 \%$ 以上。
+
+最后，本文在4位、6位和11位数字切割完成后，将所有有效区间的信号经过Goertzel算法进行分类，从数字“0”至数字“9”，检测DTMF信号所对应的数字是否正确。如图8、9所示，将采集的1位数字的录音数据以及分割后的1位数字的信号数据(取500份)，进行Goertzel分类算法的结果，Goertzel算法的平均分类准确率为 $8 0 . 3 6 \%$ ，实验结果表明，该攻击方法是有效的。
+
+# 6 结束语
+
+本文总结了现通信环境下智能手机隐私安全方面的已有攻击种类，并提出了一种基于DTMF信号的智能手机外部攻击方法，通过对用户拨打电话、输入密码等操作的按键音录音，然后对按键的DTMF信号进行时域和频域的混合算法进行解析，获取用户按键信息。文中首先阐述了方案的具体实施过程；其次，介绍了基于短时能量和基于过零率的端点分割算法，本文将其二者进行结合，更好地利用了二者的特性，分割效果更好；然后，介绍了Goertzel算法的核心思想以及实现，将端点分割后的信号通过Goertzel算法进行分类；最后，对整个攻击方案的端点检测部分以及DTMF信号检测部分进行实验分析，证明了该方案的可行性和实用性。但是，由于文章篇幅和水平的限制，本文提出了攻击方案主要考虑在有噪声的环境下近距离对用户手机进行攻击，没有考虑到攻击的攻击角度、方向以及远距离等因素的影响，所以，下一步的研究方向将在这些方面继续深入研究。
+
+数字“0”：[941,1336] 1 0.5 0 专 ① - ① ① ① 697 770 852 941 1209 1336 1477 1633 数字“1”：[697,1209] 0.5 0 ① O O O ① + 697 770 852 941 1209 1336 1477 1633 数字“2”：[697,1336]   
+度   
+0.5 ① ① ① ① ① 697 770 852 941 1209 1336 1477 1633 数字“3”：[697,1477] 一 0.5 0 O O O O O 697770 852 941 1209 1336 1477 1633 数字“4”：[770,1209] 1 0.5 0 业 O + O ① ① 697 770 852 941 1209 1336 1477 1633 频率 (Hz) 数字“5”：[770,1336] 0.5 0 O ① ① O ① 697 770 852 941 1209 1336 1477 1633 数字“6”：[770,1477] 0.5 0 ① ① ① ① ① 697 770 852 941 1209 1336 1477 1633 数字“7”：[852,1209]   
+度 1   
+0.5 ① O ① ? 697 770 852 941 1209 1336 1477 1633 数字“8”：[852,1336] 1 0.5 0 T ① O . 697 770 852 941 1209 1336 1477 1633 数字“9”：[852,1477] 1 0.5 0 ① D ① O ① 697 770 852 941 1209 1336 1477 1633 频率 (Hz)
+
+![](images/dfd0c64a09f7754d269fcf3b28de45414f4cc50007afedee98b071aaf6f863af.jpg)  
+图7三种数字在不同信噪比下的分割误差Fig. 7 Segmentation error of three numbers at differentsignal-to-noise ratios  
+图8数字“0”到“4”的检测结果  
+Fig.8 The detection results for numbers $" 0 "$ to "4"   
+图9数字“5”到“9”的检测结果 Fig. 9 The detection results for numbers "5" to "9"
+
+# 参考文献：
+
+[1]Meeker M.Internet trends 2018 [EB/OL].(2018-05-30)[2019-01-13]. https://www.kleinerperkins.com/perspectives/internet-trends-report2018.   
+[2]Das A,Khan H U.Security behaviors of smartphone users [J]. Information & Computer Security,2016,24(1):116.   
+[3]Schlegel R,Kapadia A，Wang X.Soundcomber:A Stealthy and Context-Aware Sound Trojanfor Smartphones [C]//Proc of Network and Distributed System Security Symposium.2011.   
+[4]Drake J,Experts Found a Unicorn in the Heart of Android [EB/OL]. (2015-07-27) [2019-01-13]. http://log.zimperium.com/experts-found-a-unicorn-in-the-heart-of-and roid/.   
+[5]Xing L,Bai X,Li T,et al.Unauthorized cross-app resource access on Mac OS X and iOs [EB/OL].(2015-09-07). https://sit.sice.indiana.edu/en/2015/09/07/xara-ccs/.   
+[6]Manikandan S P,Manimegalai R.Survey on mobile ad hoc network attacks and mitigation using routing protocols [J].American Journal of Applied Sciences,2012,9(11):1796-1801.   
+[7]Cheng N,Wang X O,Cheng W,et al. Characterizing privacy leakage of public WiFi networks for users on travel[C]//Proc of IEEE INFOCOM. Piscataway,NJ:IEEE Press,2013.   
+[8]Akhuseyinoglu N B,Akhuseyinoglu K．AntiWare: an automated Android malware detection tool based on machine learning approach and official market metadata [C]/Proc of Ubiquitous Computing, Electronics&Mobile Communication Conference.Piscataway,NJ:IEEE Press,2016: 1-7.   
+[9]Enck W,et al.TaintDroid:An Information-flow Tracking System for RealtimePrivacyMonitoringonSmartphones[C]//Procof Symposium on Operating Systems Design and Implementation.2010.   
+[10]Khoula A H,Shah N,Shankarappa A N S.Smartphone's hotspot security issues and challenges [C]//Internet Technology & Secured Transactions.Piscataway,NJ:IEEE Press,2017.   
+[11]赵霞．双音多频信号产生及解码的研究[J].微电子学，2001,31(6): 418-421.(Zhao xia,The generation and detection of DTMF signals [J]. Microelectronics,2001,31(6):418-421.)   
+[12]张雅琪.基于MATLAB的双音多频信号仿真[J].信息与电脑：理论 版,2013(6):129-130.(Zhang Yaqi.Dual-tone multi-frequency signal simulation based on MATLAB[J].China Computer& Communication, 2013(6):129-130.)   
+[13]刘华平，李昕，徐柏龄,等．语音信号端点检测方法综述及展望[J]. 计算机应用研究,2008,25(8):2278-2283.(Liu Huaping,Li Xin,Xu Boling,et al. Summary and survey of endpoint detection algorithm tor speech signals [J].Application Research of Computers,20o8,25(8): 2278-2283.)   
+[14]韩立华，王博，段淑凤．语音端点检测技术研究进展[J].计算机应 用研究,2010,27(4):1220-1226.(Han Lihua,Wang Bo,Duan Shufeng. Development of voice activity detection technology [J].Application Research of Computers,2010,27(4):1220-1226.)   
+[15] Sysel P. Goertzel algorithm generalized to non-integer multiples of fundamental frequency [J].Eurasip Journal on Advances in Signal Processing,2012,2012(1):56.   
+[16]金鑫春，汪一鸣.Goertzel 算法下DTMF 信号检测及参数优化[J]. 现代电子技术，2010,33(6):152-155.(Jin Xinchun，Wang Yiming, DTMF Signal Detection and Parameter Optimization Based on Goertzel Algorithm[J].Modern Electronic Technique,2010,33(6):152-155.)   
+[17] Technical features of push-button telephone sets [EB/OL].(2oo3-02-10) [2019-01-13].http://www.itu.int/rec/T-REC-Q.23/en.

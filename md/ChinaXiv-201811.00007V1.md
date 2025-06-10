@@ -1,0 +1,207 @@
+# 全球单克隆抗体药物研发现状及发展趋势
+
+# 高倩\*\* 江洪 叶茂 郭文娟
+
+# （中国科学院武汉文献情报中心 武汉 430071)
+
+摘要单克隆抗体药物以其独特的作用机制及高效性，在恶性肿瘤和自身免疫疾病的治疗中发挥了不可估量的重要作用，成为全球的研发热点。基于科睿唯安旗下的Cortellis 数据库，采用定量分析和专家智慧相结合的方法，从总体研发和商业化现状、主要国家/地区、技术和种类、靶点及作用机制、市场份额、产品交易多个维度展现出全球单克隆抗体药物的研发和商业化全景。分析结果显示：全球已上市的单克隆抗体药物有133个，其中已上市的人源化单克隆抗体药物占已上市的单克隆抗体药物总数的 $3 7 . 6 \%$ 。作用靶点主要集中在HER、TNF、CD20、PD-1/L1、VEGF 以及CD3，其中作为HER2 酪氨酸激酶受体抑制剂的药物数量最多。美国在单克隆抗体药物研发和商业化方面遥遥领先，中国在研和上市的单抗隆抗体药物总数排名第二，但中国上市的单抗隆抗体药物数量仅8个。2017年销售额高于10 亿美元的单克隆抗体药物有22个。全球单克隆抗体药物的交易数量共有1408次，药物开发与商业化许可是最主要的交易方式。未来，单克隆抗体药物的发展趋势将朝着新靶点、新适应症和新用药方案的方向发展，将会产生更多“重磅炸弹药物”。
+
+关键词 单克隆抗体 临床研发 商业化交易
+
+# Current status and trend of R&D of monoclonal antibodies GAO Qian JIANG Hong YE Mao GUO Wen-juan
+
+(Wuhan Library， Chinese Academy of Sciences，Wuhan 43oo71, China）
+
+AbstactMonoclonal antibodies have played an inestimable role in the treatment of cancer and autoimmune diseases with their unique mechanism and high efficiency, which have become the focus of research in biopharmaceutics. In this paper, all the data was extracted from Clarivate via Cortellis. Through the combination of quantitative data analysis and expert wisdom， the competitive landscape of monoclonal antibodies was presented from various dimensions, including the overall trend of R&D and industrialization, focus countries, technology and drug categories, targets,market share and commercial deal. The results showed that among the 133 kinds of launched monoclonal antibodies recently, $3 7 . 6 \%$ of them belonged to humanized monoclonal antibodies.HER,TNF,CD20,PD-1/L1，VEGF and CD3 were the“hot”antibody target molecule, of the total number of target-based actions which was the most numerous in HER2 tyrosine kinase receptor inhibitor. The total volume of monoclonal antibodies in China ranked second to the United States. But there were only 8 monoclonal antibodies approved in China,which was far below the level of United States.There were 22 launched monoclonal antibodies achieved annual sales over $\$ 1$ biliion in 2017.Access to 1408 monoclonal antibodies deal records, drug development/commercial license was the primary agreement type. In the future, the development trend of monoclonal antibodies will be focused on new targets,new indications and new therapeutic schemes,and then more “blockbuster drugs” will be produced.
+
+Key wordsMonoclonal antibodies ClinicalR&D Commercial deal
+
+单克隆抗体是由单个B淋巴细胞克隆所分泌的抗体，由于B淋巴细胞只能产生一种专有的、针对一种抗原决定簇的抗体，所以具有理化性质高度专一、生物活性单一、与抗原结合特异性强等特点[1l。经过30多年的研究和发展，单克隆抗体药物在肿瘤和自身免疫疾病治疗领域取得了巨大进展，同时也是医药领域增长速度最快、最有前景的发展方向。因此，本文将单克隆抗体药物作为研究对象，分析全球单克隆抗体药物的研发和商业化现状、市场发展情况，以期对我国单克隆抗体产业的发展起到支撑作用。
+
+# 1研究方法
+
+采用科睿唯安（Clarivate analytics）的Cortellis 数据库作为检索对象，检索时间是2018年10月19日，其中研发和商业化阶段、药物种类、作用靶点、主要国家/地区分布、产品市场份额、药物交易分别从“Drugs”和“Deals”两个入口进行检索，检索词均采用“技术（technologies）”中“单克隆抗体（monoclonalantibody）”。分析方法采用定量分析、定性调研和专家智慧相结合的方法。分析工具借助于Cortellis数据库的分析平台以及Excel等数据处理工具。
+
+# 2研究结果
+
+# 2.1研发和商业化阶段总体分布
+
+药物从探索发现到商业化上市需要经历多个阶段，从Cortellis 的数据来看，除去终止、撤回、无报道的药物外，全球至今共记录有2423个处于研发和商业化阶段的单克隆抗体药物（研发和商业化阶段包含已上市、注册、预注册、临床3期、临床2期、临床1期、临床前、发现和暂停，下同)。其中研发状态处于发现阶段的药物有1843个，处于临床阶段（含临床1期、临床2期、临床3期）的药物有1123个，处于上市阶段的药物有133个。（由于一种单克隆抗体药物在不同国家或针对不同适应症时可能处于不同的研发和商业化阶段，因此，处于每个阶段的药物数量总和大于全部药物数量2423个）
+
+![](images/e99152ed35b59ff82b796df7c045316d903c99e75882b37cf09f477434274bac.jpg)  
+图1全球单克隆抗体药物处于研发和商业化各阶段的数量分布  
+Fig.1 Quantity distribution of monoclonal antibodies in R&D and industrialization
+
+# 2.2主要国家/地区
+
+单克隆抗体药物作为生物药的新兴细分品种，迎来全球各国的研发和竞争热潮。目前共有上百个国家/地区竞逐单克隆抗体药物市场，其中药物研发和商业化数量排名前十的国家/地区（仅统计企业总部所在国家/地区）见图3。受益于良好的创新药研发环境，总部位于美国的企业在单克隆抗体药物研发和商业化方面遥遥领先，单克隆抗体药物数量高达761个，其中已上市的药物有64个；总部位于中国（不含台湾）的企业的单克隆抗体药物数量排名第二，但是已上市的药物仅有8个，这说明加快单克隆抗体药物在我国的上市进程是一个亟待解决的问题。
+
+![](images/eb3b04e3800d052507c78de60abb6f16a584ebc496329171740639e8f4d8ca0d.jpg)  
+图2单克隆抗体药物数量TOP10的国家/地区
+
+# Fig.2 Global TOP1O countries/regions of monoclonal antibodies
+
+# 2.3技术和种类
+
+基因工程抗体技术主要包括人源化技术、抗体库技术和转基因小鼠技术等，在这些技术的推动下，单克隆抗体人源化程度不断提高，并不断往小型化、功能化等方向拓展。根据结构可分为：单克隆抗体（鼠源单抗、嵌合单抗、人源化单抗、全人源单抗）和抗体偶联药物、多特异性抗体、抗体融合蛋白、小分子抗体（Fab、ScFv、VHHS）等新型单克隆抗体。其中人源化单克隆抗体药物的上市数量最多，占单克隆抗体药物上市总数的 $3 7 . 6 \%$ ；新型单克隆抗体中小分子抗体的上市数量最多，占单克隆抗体药物上市总数的 $9 . 8 \%$ L
+
+![](images/ac2ba420b482c3f8677eff8ec128b8d33c65933cc3499517b753a75bcb1687f6.jpg)  
+图3各细分种类已上市单克隆抗体药物的数量分布
+
+Fig.3 Quantity distribution of each kind of launched monoclonal antibodies
+
+# 2.4靶点及作用机制
+
+迄今为止，单克隆抗体药物的生物学功能主要体现在抑制肿瘤生存的关键分子、激活针对肿瘤的免疫固有性和适应性、抗体偶联细胞毒药物三个方面[2]。单克隆抗体药物的靶点主要集中在HER、TNF、CD20、PD-1/L1、VEGF 以及CD3，其中靶向 HER2 的单克隆抗体药物数量最多，作用机制是下调 HER2表达水平并抑制肿瘤生长[3]。靶向TNF- $\mathbf { \alpha } \cdot \mathbf { \alpha } \mathbf { \alpha } \propto$ 的单克隆抗体药物数量排名第二，作用机制是中和血液中游离型 TNF $\mathbf { \alpha } \cdot \mathbf { \alpha } \mathbf { \alpha } \propto$ 和免疫细胞表面跨膜型 TNF- $\alpha$ 活性，阻断TNF- $\mathbf { \alpha } \cdot \mathbf { \alpha } \mathbf { \alpha } \propto$ 与I型TNF- $\mathbf { \alpha } _ { \cdot \mathbf { \alpha } \mathbf { \alpha } _ { \mathbf { \alpha } } } \mathbf { \alpha } _ { \cdot \mathbf { \alpha } \mathbf { \alpha } _ { \mathbf { \alpha } } }$ 受体p55及Ⅱ型 TNF- $\alpha$ 受体 p75 的亚基结合[4]。
+
+表1药物主要靶向作用数量TOP10  
+
+<html><body><table><tr><td colspan="2">Table1 TOP10 target-based actions ofmonoclonal antibodies</td></tr><tr><td>排名</td><td>主要靶向作用 数量（个）</td></tr><tr><td>1</td><td>HER2酪氨酸激酶受体抑制剂 111</td></tr><tr><td>2</td><td>TNF-α配体抑制剂 109</td></tr><tr><td>3</td><td>TNF 结合剂 90</td></tr><tr><td>4</td><td>B 淋巴细胞CD20抗原抑制剂 80</td></tr><tr><td>5</td><td>程序性细胞死亡蛋白-1抑制剂 77</td></tr><tr><td>6</td><td>VEGF配体抑制剂 75</td></tr><tr><td>7</td><td>程序性细胞死亡蛋白-1配体抑制剂 68</td></tr><tr><td>8</td><td>表皮生长因子受体拮抗剂 56</td></tr><tr><td>9</td><td>HER2酪氨酸激酶受体调节剂 40</td></tr><tr><td>10 CD3调节剂</td><td>38</td></tr></table></body></html>
+
+# 2.5已上市产品市场份额
+
+2017年，全球已上市的单克隆抗体药物中销售额高于10亿美元的有22个，销售额排名前十的单克隆抗体药物的介绍如下：
+
+# （1）Adalimumab(Humira）阿达木单抗
+
+Adalimumab 最初是由 BASF Knoll 和 Cambridge Antibody Technology（CAT）合作研发的TNF- $\mathbf { \alpha } \cdot \mathbf { a }$ 全人源单克隆抗体，通用名为阿达木单抗[5]。2001年，Abbott 收购 BASFKnoll,并将该抗体市场化。Adalimumab于2002 年获得美国食品药品管理局（FDA）批准，并于2003 年获得欧洲药品管理局（EMEA）批准。2013年，Abbott 因业务发展需要将AbbVie独立拆分出来，AbbVie 负责Adalimumab 后期的生产开发和销售。此前，Abbott与Eisai 达成协议，将Adalimumab 用于治疗类风湿关节炎的日本、韩国及台湾市场授权给 Eisai。截至目前，Adalimumab在全球已经获批类风湿样关节炎、幼年特发性关节炎、银屑病关节炎、强直性脊柱炎、克罗恩氏病等15个适应症。在中国，Adalimumab 已经获批三个适应症：2010年获批类风湿关节炎适应症，2013年获批强直性脊柱炎适应症，2017年获批中重度斑块型
+
+银屑病适应症。
+
+# （2）Infliximab(Remicade）英夫利西单抗
+
+Infliximab 是由 Johnson& Johnson、Merck、Mitsubishi Tanabe Pharma 共同研发的人/鼠IgG1k 同型链上的嵌合单克隆抗体[]，主要用于治疗克罗恩病、溃疡性结肠炎、类风湿样关节炎、强直性脊柱炎、银屑病关节炎、斑块性银屑病等疾病，通用名为英夫利西单抗。Infliximab 于1998 年获得 FDA 批准，在美国、欧洲、日本和中国共同销售。注射用 Infliximab于 2006年进入中国，并于2017年进入国家医保药品目录。
+
+# （3）Rituximab(Rituxan;MabThera）利妥昔单抗
+
+Rituximab 是由Roche 生产的抗CD20人鼠嵌合型单克隆抗体，该药是第一个被批准用于肿瘤治疗的单克隆抗体，是肿瘤内科治疗史上一个重要的里程碑，通用名为利妥昔单抗。1997年，Rituximab 获得美国FDA批准，用于治疗复发难治性滤泡淋巴瘤，随后又获准用于治疗其他B 细胞非霍奇金淋巴瘤；1999年，中国食品药品监督管理局（CFDA）批准Rituximab 进口，用于治疗滤泡淋巴瘤和弥漫性大B细胞淋巴瘤。Rituximab ( $3 7 5 \mathrm { m g } / \mathrm { m } ^ { 2 }$ 标准剂量）联合化疗，显著提高了B细胞非霍奇金淋巴瘤的治愈率，它不仅能使患者获得临床缓解，而且能显著延长患者的无进展生存和5年总生存率，从而为治愈更多的B细胞非霍奇金淋巴瘤提供了可能[7]。
+
+# （4）Trastuzumab(Herceptin）曲妥珠单抗
+
+Trastuzumab 由Genentech公司开发，而后除日本与美国以外地区的开发与销售权被转让给Roche，该药是全球首个获准用于治疗HER2-阳性的人源化单克隆抗体，也是首个治疗HER2-阳性早期乳腺癌的靶向药物，通用名为曲妥珠单抗。Trastuzumab 最先于1998 年在美国上市，临床上联合紫杉醇用于HER2-过度表达的乳腺癌的一线治疗[8]，或单独给药用于上述疾病的二线与三线治疗，2010 年又获批用于HER2-阳性转移性胃癌的治疗。Trastuzumab于 2003年进入中国市场。随着临床研究的深入，Trastuzumab 应用于乳腺癌、卵巢癌、胃癌、肺癌和肾癌等多种肿瘤的治疗，其安全性与有效性在国内外长期的临床实践中得到了广泛验证。
+
+# （5）Bevacizumab（Avastin）贝伐珠单抗
+
+Bevacizumab 是Roche旗下Genentech开发的全球首个可广泛用于多种肿瘤的抗血管生成药物，通用名为贝伐珠单抗。Bevacizumab于2004 年首次获得FDA批准用于治疗转移性结直肠癌，目前已拓展到结直肠癌、非小细胞肺癌、胶质母细胞瘤、肾细胞癌、宫颈癌、卵巢癌、输卵管癌、腹膜癌等多个实体瘤适应症。Bevacizumab 于2005年在欧洲获批，2010年在中国上市用于治疗转移性结直肠癌，2015年又被CFDA批准用于治疗非小细胞肺癌。与单独给药相比，Bevacizumab 的精确作用方式使其能够与化疗药物有效结合，并提高肿瘤的治疗效果[9]。
+
+# （6）Nivoluma（Opdivo）纳武利尤单抗
+
+Nivolumab 是由 Bristol-Myers Squibb（BMS）和 Ono Pharmaceutical 联合开发的一种抗PD-1完全人源化的IgG4 型单克隆抗体，该药是FDA 批准的首个抗PD-1靶向药物，用于其他疗法难治性晚期黑素瘤[10]，通用名为纳武利尤单抗。BMS 的Nivolumab 于2014 年获得日本医药品与医疗器械局（PMDA）、美国FDA的批准，2015年获得欧洲EMA 批准，并由Ono Pharmaceutical和BMS在美国、欧洲和日本共同销售。2018年6月,CFDA批准Nivolumab单抗注射液进口注册申请，这是我国批准注册的首个以PD-1为靶点的单克隆抗体药物，用于治疗表皮生长因子受体（EGFR）基因突变阴性和间变性淋巴瘤激酶（ALK）阴性、既往接受过含铂方案化疗后疾病进展或不可耐受的局部晚期或转移性非小细胞肺癌（NSCLC）成人患者。
+
+自上市以来，Nivolumab已相继获批11个适应症，分别是：黑色素瘤（一、二线）、非小细胞肺癌（二线）、肾细胞癌、经典霍奇金淋巴瘤、结直肠癌、头颈癌、膀胱癌、肝癌、转移性Merkel细胞癌、晚期胃癌、胃癌(日本),随着Nivolumab 适应症的不断增多,Nivolumab市场份额随之不断攀升。
+
+# （7）Ustekinumab(Stelara）优特克单抗
+
+Ustekinumab 是Johnson&Johnson 研发的一种高亲和力、全人源化IgGlk 单克隆抗体，其靶点为 IL-12/IL-23 的 $\mathtt { p 4 0 }$ 亚基[11]。Ustekinumab 于2008 年在加拿大上市，随后于 2009年获得美国FDA批准上市，2011年获得日本PMDA批准上市，该药批准的适应症为中度至重度斑块状银屑病、活跃的银屑病性关节炎和克罗恩氏病。Ustekinumab 由Johnson &Johnson在欧洲、美国和日本市场销售。
+
+# （8）Denosumab(Pralia）地诺单抗
+
+Denosumab 是由Amgen 研发的首个靶向核因子kB受体活化因子（RANK）配体的全人源单克隆抗体，通用名为地诺单抗。2007年，Daiichi Sankyo 从 Amgen 获得 Denosumab 在日本的开发及销售权利，并于2012年4月以商品名RANMARK（皮下注射， $1 2 0 \mathrm { m g }$ ）在日本市场推出，用于治疗多发性骨髓瘤所致的骨骼并发症以及由实体瘤所致的骨转移。Denosumab 于2013年通过快递通道获得FDA批准，用于骨质疏松（绝经后骨质疏松）、延缓骨转移癌患者骨相关并发症（病理性骨折、脊髓压迫等)的发生、恶性肿瘤患者高钙血症、芳香化酶和雄激素缺乏所诱导的骨质丢失以及骨巨细胞瘤患者的临床治疗[12]。截止目前，Denosumab已经在全球80多个国家上市。
+
+# （9）Pembrolizumab(Keytruda）帕博利珠单抗
+
+Pembrolizumab 是由 Merck 研发的一种与PD-1受体结合的人源化单克隆抗体，可以阻断 PD-1与PD-L1 和PD-L2 的结合，通用名为帕博利珠单抗。Pembrolizumab 是美国 FDA批准的首个不依据肿瘤来源，而依据生物标记物进行区分的抗肿瘤疗法，可谓广谱抗癌药[13]。Pembrolizumab于 2014 年获得美国 FDA 批准，2015 年获得欧洲 EMA 批准，2016 年获得日本PMDA 批准，并由 Merck 在美国、欧洲和日本市场销售。2018年7月,Pembrolizumab的中国获得CFDA批准，成为继 BMS 的Nivoluma之后第2个正式在中国上市的PD-1/PD-L1单抗类药物，适用于晚期恶性黑色素瘤。
+
+自上市以来，Pembrolizumab 相继获批以下适应症：黑色素瘤（一、二线）、非小细胞肺癌（一、二线）、经典霍奇金淋巴瘤、头颈癌、晚期胃癌。值得一提的是，2016年10月，Pembrolizumab 获批非小细胞肺癌一线治疗适应症，而 Nivolumab 则在此重要适应症上惨遭失败，以至于在 2017年第四季度，销售额遥遥领先的Nivolumab 面临被 Pembrolizumab 赶超的尴尬境地。随着Pembrolizumab 适应症的不断增多，特别是一线非小细胞肺癌治疗适应症，Pembrolizumab的市场份额将快速扩大。
+
+# （10）Ranibizumab(Lucentis）雷珠单抗
+
+Ranibizumab 是由Roche 旗下Genentech 和Novartis 合作开发的第二代人源化抗血管内皮生长因子（VEGF）重组鼠单克隆抗体片段，由 Bevacizumab 的部分抗体片段衍生加工而成。Roche 拥有该药在美国的商业化权利，Novartis 则拥有该药在美国以外国家和地区的独家权利。Ranibizumab于2006 年获得FDA 批准，用于年龄相关性黄斑变性（AMD）的临床治疗[14]。随后，Ranibizumab 分别于2010年、2012年及2015年被批准用于视网膜静脉阻塞（RVO）导致的黄斑水肿、糖尿病性黄斑水肿（DME）及糖尿病视网膜病变（DR）的治疗。2012年，Ranibizumab 被CFDA批准上市，用于湿性年龄相关性黄斑变性（wAMD）的治疗。
+
+# 表22017年销售额10亿美元以上的单克隆抗体药物汇总
+
+Table2Themonoclonal antibodiesofannual sales over $\$ 1$ biliion in 2017   
+
+<html><body><table><tr><td rowspan="2">排名</td><td rowspan="2">药品名称（商品名）</td><td rowspan="2">公司</td><td colspan="6">2017 年销售额（亿美元）</td></tr><tr><td>总额</td><td>美国（US）</td><td>欧洲（EU)</td><td>日本（JP)</td><td>亚洲(ASI)</td><td>其他国家/地区</td></tr><tr><td>1</td><td>Adalimumab (Humira)</td><td>AbbVie Inc Eisai Co Ltd</td><td>187.67</td><td>123.61</td><td></td><td>3.4</td><td></td><td>60.66</td></tr><tr><td rowspan="3">2</td><td rowspan="3">Infliximab (Remicade)</td><td>Johnson & Johnson</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>77.55</td><td>50.88</td><td>8.37</td><td>6.03</td><td></td><td>12.27</td></tr><tr><td>Merck & Co Inc</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td>Rituximab (Rituxan; MabThera)</td><td>Mitsubishi Tanabe Pharma Corp Roche Holding AG</td><td>75.04</td><td>41.98</td><td>17.16</td><td>2.97</td><td></td><td>12.92</td></tr><tr><td>4</td><td>Trastuzumab (Herceptin)</td><td>Roche Holding AG</td><td>71.24</td><td>27.39</td><td>21.56</td><td>2.99</td><td></td><td>19.28</td></tr><tr><td>5</td><td>Bevacizumab (Avastin)</td><td>Roche Holding AG</td><td>67.93</td><td>29.39</td><td>18.03</td><td>8.29</td><td></td><td>12.19</td></tr><tr><td>6</td><td>Nivolumab (Opdivo)</td><td>Ono Pharmaceutical Co Ltd</td><td>58.86</td><td>31.02</td><td></td><td>9.38</td><td></td><td>18.46</td></tr><tr><td>7</td><td>Ustekinumab (Stelara)</td><td>Bristol-Myers Squibb Co Johnson & Johnson</td><td>40.11</td><td>27.67</td><td></td><td></td><td></td><td>12.44</td></tr><tr><td>8</td><td>Denosumab (Pralia)</td><td>Amgen Inc</td><td>38.31</td><td>24.29</td><td></td><td>2.88</td><td></td><td>11.14</td></tr><tr><td>9</td><td>Pembrolizumab (Keytruda)</td><td>Daiichi Sankyo Co Ltd Merck & Co Inc</td><td>38.09</td><td>23.09</td><td></td><td></td><td></td><td></td></tr><tr><td>10</td><td>Ranibizumab (Lucentis)</td><td>Roche Holding AG</td><td></td><td></td><td></td><td></td><td></td><td>15</td></tr><tr><td></td><td></td><td>Novartis AG</td><td>33.24</td><td>14.36</td><td></td><td></td><td></td><td>18.88</td></tr><tr><td>11</td><td>Eculizumab (Soliris)</td><td>Alexion Pharmaceuticals Inc</td><td>31.44</td><td>12.35</td><td>9.86</td><td></td><td>3.28</td><td>5.95</td></tr><tr><td>12</td><td>Golimumab (Simponi)</td><td>Johnson & Johnson</td><td>28.76</td><td>9.54</td><td>8.19</td><td>2.24</td><td></td><td>8.79</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="6"> Mitsubishi Tanabe Pharma Corp</td></tr><tr><td>13</td><td>Omalizumab (Xolair)</td><td>Roche Holding AG</td><td>26.89</td><td>17.69</td><td></td><td>9.2</td></tr><tr><td>14</td><td>Pertuzumab (Perjeta)</td><td>Novartis AG Roche Holding AG</td><td>22.3</td><td>10.28</td><td>7.79 1.21</td><td>3</td></tr><tr><td>15</td><td>Secukinumab (Cosentyx)</td><td></td><td>20.71</td><td>12.75</td><td></td><td>7.96</td></tr><tr><td>16</td><td>Natalizumab (Tysabri)</td><td>Novartis AG Biogen Inc</td><td>19.73</td><td>11.13</td><td></td><td></td></tr><tr><td>17</td><td></td><td></td><td></td><td></td><td>6.4</td><td>8.59</td></tr><tr><td>18</td><td>Tocilizumab (Actemra)</td><td>Roche Holding AG</td><td>19.56</td><td>7.67</td><td>3.08</td><td></td></tr><tr><td>19</td><td>Vedolizumab (Entyvio)</td><td>Takeda Pharmaceutical Co Ltd Astellas Pharma Inc</td><td>18.52</td><td>12.29</td><td>5.53</td><td>0.69</td></tr><tr><td></td><td>Certolizumab pegol (Cimzia)</td><td>UCB SA Eli Lilly & Co</td><td>16.77</td><td>10.36</td><td>4.17 0.69</td><td>1.53</td></tr><tr><td>20</td><td>Cetuximab (Erbitux)</td><td>Merck KGaA</td><td>16.09</td><td>6.45</td><td>5.04</td><td>4.58</td></tr><tr><td>21</td><td>Ipilimumab (Yervoy)</td><td>Bristol-Myers Squibb Co</td><td>12.44</td><td>9.08</td><td></td><td>3.36</td></tr><tr><td>22</td><td>Daratumumab (Darzalex)</td><td>Johnson & Johnson</td><td>12.42</td><td>8.84</td><td></td><td>3.58</td></tr></table></body></html>
+
+# 2.6产品交易现状
+
+截止目前，单克隆抗体药物的交易数量共有1408次，交易类型主要有药物开发与商业化许可、药物资助、早期药物研发合作三种，这三种交易类型占所有交易的比例分别为 $2 9 \%$ 、$1 5 \%$ 和 $14 \%$ 。2017年单克隆抗体药物商业化交易金额排名前十的情况如下：
+
+（1）Vir与Visterra就VIS-FLX、VIS-RSV、VIS-FNG等药物达成10亿美元的早期药物研发合作协议
+
+2017年10月18日，Vir与Visterra 达成协议，共同推动和商业化基于后者Hierotope平台技术的针对传染病的VIS-FLX、VIS-RSV、VIS-FNG 等研发计划。按照计划，双方将推动Visterra 针对特定疾病靶标的抗体药物设计和制作技术与Vir在传染病领域的专业能力相结合，合作范围包括VIS-FLX、VIS-RSV、VIS-FNG 以及另外两个研发项目。此项合作交易的总金额达到10亿美元。
+
+# （2）Incyte与MacroGenics就PD-1单克隆抗体药物MGA012达成9亿美元的药物开发与商业化许可协议
+
+2017年10月24日,Incyte和MacroGenics正式开展PD-1蛋白单克隆抗体药物MGA012的全球合作。根据合作协议，Incyte 将获得 MGA012所有适应症的全球独家开发和商业化的权利，而MacroGenics将继续保留开发渠道以及MGA012的所有权。
+
+Incyte向MacroGenics支付一笔1.5亿美元的首付款以获得MGA012的全球开发和商业化授权。如果MGA012 最终被批准并商业化，MacroGenics 将有权利从 Incyte 获得 $1 5 \%$ 到$24 \%$ 的销售版税。
+
+# （3）ImmuNext与Sanofi就免疫调节分子CD40L达成5亿美元的药物开发与商业化许可协议
+
+2017年1月9日，ImmuNext与 Sanofi达成一份合作协议，主要针对自身免疫失调领域的创新蛋白药物的开发研究。靶向CD40L 的单克隆抗体候选药物 INX-201正处在临床前研发阶段，对红斑狼疮和多发性硬化症之类的多种自身免疫疾病均具有良好的治疗潜力，未来两家公司合作将共同推进该药物的临床开发。根据协议，ImmuNext在该项合作的里程碑款项将达到5亿美元，同时还有两位数的销售提成收入。
+
+# （4）Merck与Domain就腺苷受体药物达成2.57亿美元的研究合作协议
+
+2017年1月23日，Merck与Domain达成合作，Merck支付2.57亿美元的里程碑款和版权费支持Domain 公司的G蛋白偶联受体（GPCR）等技术应用于靶向腺苷受体药物的开
+
+发和测试，而Merck 将获得研发产生的相关资产的全球权利作为回报。对于Merck 而言，新一代腺苷受体拮抗剂将是Merck免疫肿瘤产品渠道的重要补充，研究腺苷受体拮抗剂并开发新的相关化合物，以便更好地发展创新的癌症组合免疫疗法。
+
+# （5）Celularity以2亿美元与TNKTherapeutics达成嵌合抗原受体（CAR）的专利独占许可权
+
+2017年6月12日,Celularity 与 TNK Therapeutics（Sorrento Therapeutics 的全资子公司）签订了与CAR构建相关的专利独占许可协议，包括抗CD38、抗CD20、抗CD123、抗CD16、抗CD19的CAR-T细胞疗法。根据协议，Celularity将先支付协议金额2亿美元的 $50 \%$ 作为预付款，并获得抗CD38CAR的结构以及胎盘驱动细胞和/或脐带血衍生细胞或成体细胞。
+
+# （6）AbCelleraBiologics与Pfizer就新的治疗性抗体达成0.9亿美元的研究合作协议
+
+2017年1月5日，AbCellera Biologics与Pfizer 达成合作，共同开发新的治疗性抗体。AbCellera将应用其专有的单克隆抗体筛选平台，试图发现针对未公开的膜蛋白靶标的功能调节抗体。根据协议条款，AbCellera Biologics 将获得0.9 亿美元的商业里程碑费和研究支持。
+
+# （7)HanAll Biopharma和Harbour BioMed就HL161和HL036抗体达成0.81亿美元的药物开发与商业化许可协议
+
+2017年9月12日，韩国药企大熊制药集团旗下的HanAll Biopharma 与中国HarbourBioMed（和铂医药）达成战略合作，共同签署在大中华地区开发创新型生物大分子药物免疫产品线的授权协议。基于此协议，和铂医药获得独家授权，在大中华区（包括香港，澳门和台湾）开展研发、生产和销售抗FcRn 的全人源单克隆抗体HL161和创新型抗肿瘤坏死因子（TNF）滴眼液HL036，其中HL161用于治疗重症肌无力、视神经脊髓炎、免疫性血小板减少性紫癫、天疱疮等一系列病理性IgG 介导的严重免疫性疾病；HL036 用于治疗炎症性眼科疾病，例如糖尿病视网膜病变，湿性老年黄斑病变，干眼症、非感染性葡萄膜炎以及其他 TNF 介导的免疫性疾病。HanAll Biopharma 将获得高达0.81亿美元的商业里程碑款，以及获得上市后的销售阶梯分成。Hanall Biopharm将保留这两个药物在大中华区以外的权利。
+
+# （8）美国政府资助EmergentBioSolutions公司0.305亿美元开发治疗病毒性出血热单克隆抗体药物
+
+2017年2月13日，EmergentBioSolutions 公司与美国生物医学高级研究与开发局（BARDA）达成资助协议，用于开发治疗病毒性出血热的单克隆抗体药物。该协议包括一
+
+个36个月的基本业绩期，基本任务订单价值约为740万美元。如果行使所有期权，订单总额将高达0.305 亿美元。Emergent BioSolutions 将充分利用先进开发与制造创新中心（CIADM）的设施完成此项任务。
+
+# （9）KiniksaPharmaceuticals与Primatope Therapeutics 就KPL-404抗体达成0.213亿美元的药物开发与商业化许可协议
+
+2017年9月30 日，Kiniksa Pharmaceuticals 与 Primatope Therapeutics 签订合作协议，并获得了研究，开发和生产KPL-404 抗体的许可。KPL-404 是CD40/CD40L相互作用的单克隆抗体抑制剂，正处于临床前研究阶段。
+
+# （10）Bill&MelindaGatesFoundation资助Achaogen 公司0.205亿美元开发抗革兰氏阴性细菌（包括新生儿败血症）的单克隆抗体药物
+
+2017年5月4日，Achaogen 公司与Bill& Melinda Gates Foundation（盖茨基金）达成资助协议，双方将共同在发展中国家新生儿败血症的预防领域做出努力，主要方向是Achaogen 将会开发一款针对革兰氏阴性菌治疗的单克隆抗体药物。根据协议，Achaogen 将会获得盖茨基金1050万美元的资金资助，并获得1000万美元的股权投资。
+
+表32017年单克隆抗体药物商业化交易金额TOP10  
+Table 3 2O17 commercial deals of monoclonal antibodies TOP10   
+
+<html><body><table><tr><td rowspan="2">排名</td><td rowspan="2">药物名称</td><td rowspan="2">委托人</td><td rowspan="2">合伙人</td><td rowspan="2">交易类型</td><td rowspan="2">交易金额 （亿美元）</td><td rowspan="2">已付金额 （百万美元）</td><td rowspan="2">适应症</td><td rowspan="2">交易开始 时间</td><td rowspan="2">交易时最高 研发状态</td></tr><tr><td>曲霉菌感染；念</td></tr><tr><td>1</td><td>VIS-FLX; VIS-RSV; VIS-410; VIS-FNG</td><td>Visterra Inc</td><td>Vir Biotechnology Inc</td><td>药物-早期研究/ 开发</td><td>10</td><td></td><td></td><td>珠菌感染；隐球 菌感染；真菌感 染；流感病毒感 染；呼吸道合胞</td><td>2017/10/18 发现</td><td></td></tr><tr><td>2</td><td>MGA-012 anti-CD40L antagonists</td><td></td><td>MacroGenics Inc</td><td> Incyte Corp</td><td>药物-开发/商业 化许可</td><td>9</td><td>1.5</td><td>病毒感染 实体瘤；血液肿 瘤 自身免疫性疾</td><td>2017/10/24</td><td>临床1期</td></tr><tr><td>3</td><td>(antibodies,autoimmune disorder/graft rejection), Sanofi PD-1 checkpoint inhibitor +</td><td>ImmuNext Inc</td><td>Sanofi</td><td>化许可</td><td>药物-开发/商业 5</td><td></td><td></td><td>病；多发性硬化 症；系统性红斑 狼疮</td><td>2017/1/9</td><td>发现</td></tr><tr><td>4</td><td>A2aR checkpoint inhibitor (cancer),Domain Therapeutics/Merck KGaA anti-CD123 CAR NK-cell therapy (acute myeloid</td><td>Domain Therapeutics SA</td><td>Merck KGaA</td><td>药物-发现/设计</td><td>2.5673</td><td></td><td></td><td>癌症 癌症；急性淋巴</td><td>2017/1/23</td><td>发现</td></tr><tr><td>5</td><td>leukemia), Celularity; anti-CD20 CAR T-cell therapy (non-Hodgkin's lymphoma), Celularity;</td><td>TNK Therapeutics Inc</td><td>Celularity Inc</td><td>专利-独占许可</td><td>2</td><td></td><td></td><td>细胞白血病；急 性髓性白血病; 胶质母细胞瘤; 多发性骨髓瘤; 非霍奇金淋巴</td><td>2017/6/12</td><td>发现</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="2">6</td><td>AbCellera Biologics Inc</td><td>Pfizer Inc</td><td>药物-发现/设计</td><td colspan="3">0.9</td><td>2017/1/5</td><td>发现</td></tr><tr><td rowspan="3">7</td><td>HL-036;</td><td>HanAll</td><td></td><td>药物-开发/商业</td><td></td><td></td><td>自身免疫性疾</td><td></td><td>HL-036：临床</td></tr><tr><td>HL-161</td><td>Biopharma Co</td><td>Harbour BioMed</td><td>化许可</td><td>0.81</td><td>0.81</td><td>病；炎症性疾</td><td>2017/9/12</td><td>1期</td></tr><tr><td>monoclonal antibodies (viral</td><td>Ltd</td><td></td><td></td><td></td><td></td><td>病；结膜干燥</td><td></td><td>HL-161：发现</td></tr><tr><td>8</td><td>hemorrhagic fever), Mapp/ Emergent</td><td>Emergent BioSolutions Inc</td><td>US Government</td><td>药物-资助</td><td>0.305</td><td></td><td>病毒性出血热</td><td>2017/2/13</td><td>发现</td></tr><tr><td>9</td><td></td><td>Primatope</td><td>Kiniksa Pharmaceuticals</td><td>药物-开发/商业</td><td>0.213</td><td></td><td>自身免疫性疾</td><td></td><td></td></tr><tr><td></td><td>KPL-404</td><td></td><td></td><td></td><td></td><td>0.0075</td><td></td><td>2017/9/30</td><td>发现</td></tr><tr><td></td><td></td><td>Therapeutics</td><td>Ltd</td><td>化许可</td><td></td><td></td><td>病</td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="2">monoclonal antibody 10</td><td colspan="8"></td></tr><tr><td>targeting Acinetobacter</td><td>Achaogen Inc</td><td>Bill & Melinda</td><td>药物-资助</td><td>0.205</td><td>0.132</td><td>革兰氏阴性菌</td><td>2017/5/4 发现</td></tr><tr><td>Achaogen</td><td>baumannii (neonatal sepsis),</td><td></td><td>Gates Foundation</td><td></td><td></td><td></td><td>感染；脓血症</td><td></td></tr></table></body></html>
+
+# 3总结与展望
+
+自1986年FDA批准第一个治疗性单克隆抗体药物以来，单克隆抗体药物从靶点开发到技术改进，从临床研究到商业化策略，各个方面均日趋成熟，已经成为医药领域的主流新秀。
+
+全球单克隆抗体药物市场规模约千亿美元，近10年来仍保持 $10 \%$ 以上的增速，高于医药行业 $5 \% - 6 \%$ 的平均增速水平，美国是全球最大的单克隆抗体药物研发基地。PD-1/L1药物、抗体Fc融合蛋白药物等有广阔的市场前景，多特异性抗体、抗体偶联药物正逐步进入全新的发展阶段。
+
+未来，单克隆抗体的研发趋势将集中在新靶点、新适应症、新用药方案，具体如下：
+
+（1）开拓新靶点。PD-1/PD-L1的发现使肿瘤类单克隆抗体药物市场迅速壮大，伴随着人类后基因组学及代谢组学的发展，越来越多的单克隆抗体药物新靶点将被发现和研究，单克隆抗体药物的种类将会继续增多。
+
+（2）拓展新适应症。单一适应症针对的患者群体有限，随着基础研究的深入、临床试验的突破等，单克隆抗体药物对恶性肿瘤和自身免疫疾病以外其他领域的渗透会越来越多，药物的竞争力和市场空间将会进一步扩大。
+
+（3）开发新用药方案。临床上部分药物联合使用表现的疗效显著强于单一药物，通过开发新的用药方案，可以显著提高药物使用频率和适用范围。
+
+# 参考文献
+
+[1]任会琴，张永莉，吴剑涓，等．单克隆抗体药物在抗血栓治疗中的应用及研究进展．中国医院药学杂志， 2010,30(09): 787-789. Reng H Q, Zhang YL,Wu JJ. Application and research advance of monoclonal antibodies in antithrombotic therapy. Chinese Journal of Hospital Pharmacy,2010, 30(09): 787-789.   
+[2]Rodgers K R, Chou R C.Therapeutic monoclonal antibodies and derivatives: historical perspectives and future directions. Biotechnology advances,2016, 34(6): 1149-1158.   
+[3]Barbacci EG,Pustilnik LR,Rossi A M,etal.The biological and biochemical effects of CP-654577,a selectiv erbB2 kinase inhibitor,on human breast cancer cells. Cancer research,20o3,63(15): 4450-4459.   
+[4]ChoyEH,Panayi GS. Cytokine pathways and joint inflammation in rheumatoid arthritis. New England Journa. of Medicine,2001,344(12): 907-916.   
+[5]Kempeni J.Preliminary results of early clinical trials with the fully human anti-TNF $\mathbf { \bar { \alpha } } _ { \mathbf { \alpha } } \mathbf { \alpha } _ { \mathbf { \alpha } }$ monoclonal antibody D2E7.Annals of the rheumatic diseases,1999, 58(Suppl 1): 170-172.   
+[6]Scallon B J, Moore MA,Trinh H, et al. Chimeric anti- TNF- alpha monoclonal antibody cA2 binds recombinant transmembrane TNF alpha and activates immune effector functions. Cytokine,1995,7(3): 251-259.   
+[7]Keating G M.Rituximab: areview of its use in chronic lymphocytic leukaemia,low-grade or follcular lymphoma and diffuse large B-cellymphoma. Drugs,2010,70(11): 1445-1476.   
+[8]Abdel-Rahman O,ElHalawani H. Adjuvant systemic treatment for elderly breast cancer patients; addressing safety concerns. Expert opinion on drug safety,2014,13(11): 1443-1467.   
+[9]Wildiers H,Guetens G,De Boeck G,et al.Effect of antivascular endothelial growth factor treatment on the intratumoral uptake of CPT-11. British Journal of Cancer,2003,88(12):1979-1986.   
+[10]Robert C,Long G V,Brady B, et al. Nivolumab in previously untreated melanoma without BRAF mutation. The New England journal of medicine,2015,372(4): 320-330.   
+[11]Kimball A B, Gordon KB,Langley R G,et al.Safetyand efficacy of ABT-874,a fully human interleukin 12/23 monoclonal antibody,in the treatment of moderate to severe chronic plaque psoriasis: results of a randomized, placebo-controlled,phase 2 trial. Archives of Dermatology,2008,144(2),200-207.   
+[12]Singh A S, Chawla N S,Chawla S P. Giant-celltumor of bone: treatment options and role of denosumab. Biologics: targets & therapy,2015,9: 69-74.   
+[13]汤佳琳，黄镜.PD-1/PD-L1免疫检查点抑制剂在晚期结直肠癌的药物治疗进展．癌症进展,2017,15(08) 872-875. Tang JL, Huang J. The treatment progress on PD-1/PD-L1 immune checkpoint inhibitor treating advanced colorectal cancer. Oncology Progress,2017,15(08): 872-875.   
+[14]Rosenfeld PJ, Rich R M,Lalwani G A. Ranibizumab: Phase IIclinical trial results. Ophthalmology clinics C North America,2006,19(3): 361-372.

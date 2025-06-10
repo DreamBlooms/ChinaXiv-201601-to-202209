@@ -1,0 +1,248 @@
+[
+    {
+        "type": "text",
+        "text": "Particle-number conserving analysis of rotational bands in $^ { \\cdot 2 4 7 , 2 4 9 }$ Cm and $^ { 2 4 9 }$ Cf ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhen-Hua Zhang,1 Jin-Yan Zeng,² En-Guang Zhao $^ { 1 , 3 , 2 }$ and Shan-Gui Zhou $^ { 1 , 3 }$ ， $^ *$ （204 （204 $^ { 1 }$ Key Laboratory of Frontiers in Theoretical Physics， Institute of Theoretical Physics, Chinese Academy ofSciences，Beijing 10019o,China （2 $^ 2$ School of PhyicsPeking UniversityBeijing87n （20 $^ 3$ Center of Theoretical Nuclear Physics, National Laboratory of Heay Ion Accelerator，Lanzhou 730oo,China (Dated: August 1, 2017) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The recently observed high-spin rotational bands in odd $A$ nuclei $^ { 2 4 7 , 2 4 9 }$ Cm and $^ { 2 4 9 }$ Cf [Tandel et al.,Phys.Rev. C82 (2010) 041301R] are investigated by using the cranked shell model (CSM) with the pairing correlations treated by a particle-number conserving (PNC) method in which the blocking effects are taken into account exactly. The experimental moments of inertia and alignments and their variations with the rotational frequency $\\omega$ are reproduced very well by the PNC-CSM calculations. By examining the $\\omega$ -dependence of the occupation probability of each cranked Nilsson orbital near the Fermi surface and the contributions of valence orbitals to the angular momentum alignment in each major shell,the level crossing and upbending mechanism in each nucleus is understood clearly. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers:21.60.-n;21.60.Cs;23.20.Lv;27.90.+b ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The rotational spectra of the heaviest nuclei can reveal detailed information on the single particle configurations, the shell structure,the stability against rotation,etc., thus providing a benchmark for nuclear models.In recent years,the in-beam spectroscopy of nuclei with $Z \\approx 1 0 0$ has been one of the most important frontiers on nuclear structure physics [1]. Besides even-even nuclei [2-4],experimental efforts have been also focused on the study of high-spin states of odd- $A$ nuclei, such as $^ { 2 5 3 }$ No [5] and $^ { 2 5 1 }$ Md [6]. Quite recently,the rotationalbands of odd- $A$ 247,249Cm and 249Cf were observed up to very high spins $( \\approx ~ 2 8 \\hbar$ ）and appropriate single particle configurations have been assigned to these bands [7]. It is worthwhile to mention that the neutron $\\nu 1 / 2 ^ { + } [ 6 2 0 ]$ band in $^ { 2 4 9 }$ Cm is the highest-lying neutron configuration investigated up to very high spins.Although the cranking Woods-Saxon calculations reproduced well some of the observed properties,this experiment,together with some previous ones, still challenge nuclear structure models,e.g., the absence of the alignment of $j _ { 1 5 / 2 }$ neutrons in several nuclei in this mass region needs a consistent explanation [7]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this paper,the cranked shell model (CSM) with pairing correlations treated by a particle-number conserving (PNC) method [8] is used to investigate the rotational bands in $^ { 2 4 7 , 2 4 9 }$ Cm and $^ { 2 4 9 }$ Cf observed in Ref. [7]. In contrary to the conventional BCS approach,in the PNC method, the particle-number is conserved and the Pauli blocking effects are taken into account exactly. The PNC-CSM treatment has been used to describe successfully the normally deformed and superdeformed high spin rotational bands of nuclei with $A \\approx 1 6 0$ ,190,and 250 [9- 14]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The details of the PNC-CSM treatment can be found in Refs. [9, 1O]. For convenience,here we briefly give the related formalism.The CSM Hamiltonian of an axially symmetric nucleus in the rotating frame is ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { \\mathrm { C S M } } = H _ { 0 } + H _ { \\mathrm { P } } = H _ { \\mathrm { N i l } } - \\omega J _ { x } + H _ { \\mathrm { P } } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "where $H _ { \\mathrm { N i l } }$ is the Nilsson Hamiltonian, $- \\omega J _ { x }$ is the Coriolis interaction with the cranking frequency $\\omega$ about the $x$ axis (perpendicular to the nuclear symmetry $z$ axis). $H _ { \\mathrm { P } } = H _ { \\mathrm { P } } ( 0 ) + H _ { \\mathrm { P } } ( 2 )$ is the pairing interaction, ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle H _ { \\mathrm { P } } ( 0 ) = - G _ { 0 } \\sum _ { \\xi \\eta } a _ { \\xi } ^ { + } a _ { \\bar { \\xi } } ^ { + } a _ { \\bar { \\eta } } a _ { \\eta } ~ , } } \\\\ { { \\displaystyle H _ { \\mathrm { P } } ( 2 ) = - G _ { 2 } \\sum _ { \\xi \\eta } q _ { 2 } ( \\xi ) q _ { 2 } ( \\eta ) a _ { \\xi } ^ { + } a _ { \\bar { \\xi } } ^ { + } a _ { \\bar { \\eta } } a _ { \\eta } ~ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "where $\\xi$ ( $\\bar { \\eta } )$ labels the time-reversed state of a Nilsson state $\\xi$ (n)， $q _ { 2 } ( \\xi ) ~ = ~ \\sqrt { 1 6 \\pi / 5 } \\langle \\xi | r ^ { 2 } Y _ { 2 0 } | \\xi \\rangle$ is the diago nal element of the stretched quadrupole operator,and $G _ { 0 }$ and $G _ { 2 }$ are the effective strengths of monopole and quadrupole pairing interactions,respectively. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Instead of the usual single-particle level truncation in common shell-model calculations,a cranked manyparticle configuration(CMPC） truncation (Fock space truncation）is adopted which is crucial to make the PNC calculations for low-lying excited states both workable and suffciently accurate [15]. An eigenstate of $H _ { \\mathrm { C S M } }$ can be written as ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| \\Psi \\rangle = \\sum _ { i } C _ { i } | i \\rangle , \\qquad ( C _ { i } \\mathrm { r e a l } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "where $| i \\rangle$ is a CMPC (an eigenstate of the one-body operator $H _ { 0 }$ ). By diagonalizing the $H _ { \\mathrm { C S M } }$ in a sufficiently large CMPC space,sufficiently accurate solutions for lowlying excited eigenstates of $H _ { \\mathrm { C S M } }$ are obtained. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The kinematic moment of inertia(MOI) for the state $\\left| \\Psi \\right.$ is ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle J ^ { ( 1 ) } = \\frac { 1 } { \\omega } \\langle \\Psi | J _ { x } | \\Psi \\rangle } } \\\\ { { \\displaystyle \\quad = \\frac { 1 } { \\omega } \\left( \\sum _ { i } C _ { i } ^ { 2 } \\langle i | J _ { x } | i \\rangle + 2 \\sum _ { i < j } C _ { i } C _ { j } \\langle i | J _ { x } | j \\rangle \\right) \\ . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Considering $J _ { x }$ to be a one-body operator, the matrix element $\\langle i | J _ { x } | j \\rangle$ for $i \\neq j$ is nonzero only when $| i \\rangle$ and $| j \\rangle$ differ by one particle occupation [9,1O]. After a certain permutation of creation operators, $| i \\rangle$ and $| j \\rangle$ can be recast into $| i \\rangle = ( - 1 ) ^ { M _ { i \\mu } } | \\mu \\cdot \\cdot \\cdot \\rangle$ and $| j \\rangle = ( - 1 ) ^ { M _ { j \\nu } } | \\nu \\cdot \\cdot \\cdot \\rangle$ where the ellipsis “...” stands for the same particle occupation and $( - 1 ) ^ { M _ { i \\mu ( \\nu ) } } = \\pm 1$ according to whether the permutation is even or odd.Therefore,the angular momentum alignment of $\\left| \\Psi \\right.$ can be expressed as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\langle \\Psi | J _ { x } | \\Psi \\rangle = \\sum _ { \\mu } j _ { x } ( \\mu ) + \\sum _ { \\mu < \\nu } j _ { x } ( \\mu \\nu ) \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The diagonal contribution $j _ { x } ( \\mu ) ~ = ~ \\langle \\mu | j _ { x } | \\mu \\rangle n _ { \\mu }$ where （204号 $\\begin{array} { r } { n _ { \\mu } = \\sum _ { i } | C _ { i } | ^ { 2 } P _ { i \\mu } } \\end{array}$ is the occupation probability of the cranked Nilsson orbital $| \\mu \\rangle$ and $P _ { i \\mu } = 1$ (0)if $| \\mu \\rangle$ is occupied (empty). The off-diagonal (interference) contribution $j _ { x } ( \\mu \\nu ) = 2 \\langle \\mu | j _ { x } | \\nu \\rangle \\sum _ { i < j } ( - 1 ) ^ { M _ { i \\mu } + M _ { j \\nu } } C _ { i } C _ { j }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/d1e8aeb2a132ff32814b27a68950b6d94bb5e126bd745fd4dcfaaf228540dcbe.jpg",
+        "table_caption": [
+            "TABLE I. Nilsson parameters $\\kappa$ and $\\mu$ proposed for nuclei with $A \\approx 2 5 0$ [18]. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>N</td><td>1</td><td>Kp</td><td>μp</td><td>N</td><td>1</td><td>Kn</td><td>μn</td></tr><tr><td>4</td><td>0,2,4</td><td>0.0670</td><td>0.654</td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td>1</td><td>0.0250</td><td>0.710</td><td>6</td><td>0</td><td>0.1600</td><td>0.320</td></tr><tr><td></td><td>3</td><td>0.0570</td><td>0.800</td><td></td><td>2</td><td>0.0640</td><td>0.200</td></tr><tr><td></td><td>5</td><td>0.0570</td><td>0.710</td><td></td><td>4,6</td><td>0.0680</td><td>0.260</td></tr><tr><td>6</td><td>0,2,4,6</td><td>0.0570</td><td>0.654</td><td>7</td><td>1,3,5,7</td><td>0.0634</td><td>0.318</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Nilsson parameters $( \\kappa , \\mu )$ systematics [16,17] can not reproduce well the order of single particle levels for the very heavy nuclei with $A \\approx 2 5 0$ (see,e.g., Ref.[14]). Recently we have proposed a new set of $( \\kappa , \\mu )$ which is given in Table I and deformation parameters for nuclei with $A \\approx 2 5 0$ by ftting the observed single particle spectra of all known odd- $A$ nuclei in this mass region [18]. Note that the readjustment of Nilsson parameters is also necessary in some other regions of the nuclear chart [19, 20]. The deformation parameters $\\left( \\varepsilon _ { 2 } , \\varepsilon _ { 4 } \\right)$ are (0.242,0.002) for $^ { 2 4 7 }$ Cm and (0.248,0.008） for $^ { 2 4 9 }$ Cm and $^ { 2 4 9 }$ Cf. There are no experimental values of the deformation parameters for these nuclei. The values used in various calculations or predicted by different models are different.What we adopt here are larger than those used in Ref.[7] or predicted in Ref.[21],and smaller than the interpolated values from Ref. [22] where,e.g., the $\\epsilon _ { 2 }$ values for $^ { 2 4 8 }$ Cf and $2 5 0$ Cf are 0.260 and 0.265 respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The effective pairing strengths,in principle,can be determined by the odd-even differences in binding energies, and are connected with the dimension of the truncated CMPC space. The CMPC space for the very heavy nuclei is constructed in the proton $N = 4 , 5 , 6$ shells and the neutron $N = 6 , 7$ shells.The dimensions of the CMPC space are about 1ooo for both protons and neutrons in our calculation. The corresponding effective monopole and quadrupole pairing strengths are $G _ { 0 p } = 0 . 5 0$ MeV and $G _ { 2 p } = 0 . 0 4$ MeV for protons, $G _ { 0 n } = 0 . 3 0$ MeV and $G _ { 2 n } = 0 . 0 2$ MeV for neutrons.The stability of the PNC calculation results against the change of the dimension of the CMPC space has been investigated in Refs. [9,11, 15]. In the present calculations,almost all the CMPC's with weight $> 0 . 1 \\%$ are taken into account,so the solutions to the low-lying excited states are accurate enough.A larger CMPC space with renormalized pairing strengths gives essentially the same results. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 shows the calculated cranked Nilsson levels near the Fermi surface of $^ { 2 4 7 } \\mathrm { C m }$ .The positive (negative）parity levels are denoted by blue (red) lines. The signature $\\alpha = + 1 / 2$ （ $\\alpha = - 1 / 2$ ）levels aredenoted by solid(dotted) lines.For both protons and neutrons,the sequence of single-particle levels near the Fermi surface is the same as the experimental data taken from $^ { 2 4 7 }$ Cm and $\\mathrm { ^ { 2 4 7 } B k }$ [1] with the only exception of the $\\nu 5 / 2 ^ { + }$ [622] orbital.Many theoretical models predict that the first excited state in $N = 1 5 1$ isotones should be $\\nu 7 / 2 ^ { + }$ [624] (see,e.g.,Ref. [23]). This is not consistent with experimental results,i.e.,the first excited state in $N = 1 5 1$ isotones is $\\nu 5 / 2 ^ { + }$ [622]. The low excitation energy of the $\\nu 5 / 2 ^ { + }$ [622] state in the $N = 1 5 1$ isotones have been interpreted as a consequence of the presence of a low-lying $K ^ { \\pi } = 2 ^ { - }$ octupole phonon state [24]. Figure 1 shows that there exist a proton gap at $Z = 9 6$ and a neutron gap at $N = 1 5 2$ ,which is consistent with the experiment and the calculation by using a Woods-Saxon potential [25]. The cranked Nilsson levels of $^ { 2 4 9 }$ Cm and $^ { 2 4 9 }$ Cf are quite similar to that of $^ { 2 4 7 }$ Cm and not shown here. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 shows the experimental and calculated MOIs and alignments (see the caption of Fig.2) of the ground state bands (gsb's） in $^ { 2 4 7 , 2 4 9 }$ Cm and $^ { 2 4 9 }$ Cf.The experimental MOIs and alignments are denoted by solid squares (signature $\\alpha ~ = ~ + 1 / 2$ ）and open squares (signature $\\alpha = - 1 / 2$ )，respectively. The calculated MOIs and alignments are denoted by solid lines (signature $\\alpha = + 1 / 2$ ）and dotted lines (signature $\\alpha = - 1 / 2$ )，re spectively. The experimental MOIs and alignments of all these three 1-quasiparticle bands are well reproduced by the PNC-CSM calculations,which in turn strongly support the configuration assignments for these high-spin rotational bands adopted in Ref. [7]. Moreover, the signature splitting in the $\\nu 1 / 2 ^ { + } [ 6 2 0 ]$ band is also well reproduced by our calculation,which is understandable from the behavior of the cranked Nilsson orbital $\\nu 1 / 2 ^ { + }$ [620] in Fig.1.The upbending frequency $\\hbar \\omega _ { c } \\sim 0 . 2 5$ for the gsb in $^ { 2 4 9 } \\mathrm { C f }$ is a little larger than that of the Cm isotopes 0 $\\hbar \\omega _ { c } \\sim 0 . 2 0$ MeV).These results agree well with the experiment and the cranking Woods-Saxon calculations [7]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "One of the advantages of the PNC method is that the total particle number $N = \\sum _ { \\mathbf { \\mu } } { n _ { \\mu } }$ is exactly conserved, whereas the occupation probability $n _ { \\mu }$ for each orbital varies with rotational frequency $\\hbar \\omega$ .By examining the $\\omega$ -dependence of the orbitals close to the Fermi surface, one can learn more about how the Nilsson levels evolve with rotation and get some insights on the upbending mechanism.Figure 3 shows the occupation probability ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(a) proton (b) neutron (i) sianes nrsin peruesa 67 [512]5/2 7.8 161 7.7 [613]7/2 [624]9/2 [622]3/2] 6.6 [521]1/2] [620]1/2 .\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\* N=152 [514]7/2 7.6 [734]9/2 6.5 [633]7/2 [521]3/2] [624]7/2 Z=96 7.5 [622]5/2] 6.4 [642]5/2 [631]1/2 [423]1/2 7.4 [743]7/2 6.3 [402]3/2 [606]13/2 [651]3/2 6.2 [505]1/2 7.3 [631]3/2 [752]5/2 0.00.10.20.30.4 0.00.10.20.30.4 hω (MeV) hω (MeV) ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae13b352eab51c27f85ed50919841817ca0b7211f8002ae4e234d3f6606fd988.jpg",
+        "img_caption": [
+            "FIG.1.(Color online） The cranked Nilsson levels near the Fermi surface of $^ { 2 4 7 }$ Cm for protons (a) and for neutrons (b). The positive (negative) parity levels are denoted by blue (red） lines.The signature $\\alpha = + 1 / 2$ ( $\\alpha = - 1 / 2$ ）levels are denoted by solid (dotted） lines. ",
+            "FIG. 2.(Color online) The experimental and calculated MOIs $J ^ { ( 1 ) }$ and alignments (or called alignments difference)of the ground state bands (gsb's) in $^ { 2 4 7 , 2 4 9 } \\mathrm { C m }$ and $^ { 2 4 9 }$ Cf.The alignments difference $i$ is defined as $i = \\langle J _ { x } \\rangle - \\omega J _ { 0 } - \\omega ^ { 3 } J _ { 1 }$ and the Harris parameters $J _ { 0 } ~ = ~ 6 5 ~ \\hbar ^ { 2 } \\mathrm { M e V ^ { - 1 } }$ and $J _ { 1 } \\ = \\ 2 0 0 \\hbar ^ { 4 } \\mathrm { M e V } ^ { - 3 }$ are taken from Ref.[7]. The experimental MOIs and alignments difference are denoted by solid squares (signature $\\alpha = + 1 / 2$ ） and open squares (signature $\\alpha = - 1 / 2$ ),respectively. The calculated MOIs and alignments difference are denoted by solid lines (signature $\\alpha = + 1 / 2$ ） and dotted lines (signature $\\alpha = - 1 / 2$ ), respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$n _ { \\mu }$ of each orbital $\\mu$ near the Fermi surface for the gsb's in 249Cm and 249Cf. The top and bottom rows are for the protons and neutrons respectively. The positive (negative)parity levels are denoted by blue solid (red dotted) lines. We can see from Fig.3(a） that the occupation probability of $\\pi 7 / 2 ^ { + }$ [633] $( i _ { 1 3 / 2 }$ ） drops down gradually from O.5 to nearly zero with the cranking frequency $\\hbar \\omega$ increasing from about O.20 MeV to O.30 MeV,while the occupation probabilities of some other orbitals slightly increase.This can be understood from the cranked Nilsson levels shown in Fig.1(a). The $\\pi 7 / 2 ^ { + } [ 6 3 3 ]$ is slightly above the Fermi surface at $\\hbar \\omega = 0$ .Due to the pairing correlations,this orbital is partly occupied. With increasing $\\hbar \\omega$ ,this orbital leave fartherabove the Fermi surface. So after the band-crossing frequency, the occupation probability of this orbital becomes smaller with increasing $\\hbar \\omega$ .Meanwhile,the occupation probabilities of those orbitals which approach near to the Fermi surface become larger with increasing $\\hbar \\omega$ ．This phenomenon is even more clear in Fig.3(b),but the band-crossing occurs ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.0 （a）249Cm 3/2+[651]] (b)249Cf 5/2[523] 1612 （a)249Cm (b)249Cf   \n(uojoud) 1.5 ·+·.···+··· .…… 5/2+[642] (uo1oud) 5/2\\*[642] 8 1.0 5/2[523] 3/2[521] 7/2+[633] 3/2[521] 4 N=6 diagonal N=6 N=5 N=6 diagonal   \nn 500 721514712[163] 7/212[521 S 04 N=6 off-diagonal. N=4 N=6 off-diagonal N=4 N=5 1 2.0 (c)2Cm7/21743] (d)249Cf 7/2[743] 12 (c)249Cm (d)249Cf   \n(uouineu) 1.5 1.0 9/2[734] 7/2+[624] 1/2+[620] 7/2\\*[624] 9/2[734] （uoninnu) 8 N=6 diagonal N=7 diago 4 N=7   \nn 0.5 0.0 3/2+[622] 7/2\\*[615] I 1/2+[620] 全 0 N=7 off-diagonal N=6 N=7 off-diagonal 1 L 0.1 0.2 0.3 0.1 0.2 0.3 0.0 0.1 0.2 0.3 0.1 0.2 0.3 hω (MeV) hω (MeV) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "at $\\hbar \\omega _ { c } \\sim 0 . 2 5$ MeV,a little larger than that of $^ { 2 4 9 } \\mathrm { C m }$ So the band-crossings in both cases are mainly caused by the $\\pi i _ { 1 3 / 2 }$ orbitals.In Fig.3(c)，with increasing $\\hbar \\omega$ the occupation probability of $\\nu 1 / 2 ^ { + } [ 6 2 0 ]$ decreases slowly and that of the high- $\\Omega$ (deformation aligned) $\\nu 9 / 2 ^ { - }$ [734] orbital $\\left( j _ { 1 5 / 2 , } \\right)$ ）increases slowly. Thus only a small contribution is expected from neutrons to the upbending for the gsb in $^ { 2 4 9 }$ Cm.In Fig. 3(d), the neutron orbital $\\nu 9 / 2 ^ { - }$ [734] of $j _ { 1 5 / 2 }$ parentage is totally blocked by an odd neutron,so it has no contribution to the upbending for the gsb in $^ { 2 4 9 }$ Cf. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "FIG.3.（Color online）Occupation probability $n _ { \\mu }$ of each orbital $\\mu$ (including both $\\alpha = \\pm 1 / 2$ )near the Fermi surface for the gsb's in $^ { 2 4 9 } \\mathrm { C m }$ and $^ { 2 4 9 }$ Cf. The top and bottom rows are for protons and neutrons respectively. The positive (negative) parity levels are denoted by blue solid (red dotted) lines.The Nilsson levels far above the Fermi surface $( n _ { \\mu } \\sim 0 \\ :$ ）and far below ( $n _ { \\mu } \\sim 2$ ）are not shown.For the $\\nu 9 / 2 ^ { - }$ [734] band in $^ { 2 4 7 }$ Cm, $n _ { \\mu }$ of proton (neutron)orbitalsarenotshownbecause they are nearly the same as those of $^ { 2 4 9 }$ Cm ( $^ { 2 4 9 }$ Cf). ",
+            "FIG.4. (Color online) Contribution of each proton and neutron major shell to the angular momentum alignment $\\langle J _ { x } \\rangle$ for the gsb's in $^ { 2 4 9 } \\mathrm { C m }$ and $^ { 2 4 9 }$ Cf. The diagonal $\\textstyle \\sum _ { \\mu } j _ { x } ( \\mu )$ and off-diagonal parts $\\begin{array} { r } { \\sum _ { \\mu < \\nu } j _ { x } ( \\mu \\nu ) } \\end{array}$ in Eq.(6) from the proton $N = 6$ and neutron $N = 7$ shells are shown by dotted lines. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The contribution of each proton and neutron major shell to the angular momentum alignment $\\langle J _ { x } \\rangle$ for the gsb's in $^ { 2 4 9 } \\mathrm { C m }$ and $\\mathrm { ^ { 2 4 9 } C f }$ are shown in Fig. 4. The diagonal $\\textstyle \\sum _ { \\mu } j _ { x } ( \\mu )$ and off-diagonal parts $\\textstyle \\sum _ { \\mu < \\nu } j _ { x } ( \\mu \\nu )$ in Eq.(6) from the proton $N = 6$ and the neutron $N = 7$ shells are shown by dotted lines. Note that in this figure,the smoothly increasing part of the alignment represented by the Harris formula $( \\omega J _ { 0 } + \\omega ^ { 3 } J _ { 1 } )$ is not subtracted(cf. the caption of Fig.2). It can be seen clearly that the upbendings for the gsb's in $^ { 2 4 9 } \\mathrm { C m }$ at $\\hbar \\omega _ { c } \\sim$ 0.20 MeV and in $^ { 2 4 9 }$ Cf at $\\hbar \\omega _ { c } \\sim 0 . 2 5$ MeV mainly come from the contribution of the proton $N = 6$ shell. Furthermore, the upbending for the gsb in $^ { 2 4 9 }$ Cm is mainly from the off-diagonal part of the proton $N \\ = \\ 6$ shell,while both the diagonal and off-diagonal parts of the proton $N = 6$ shell contribute to the upbending for the gsb in 249Cf. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In order to have a more clear understanding of the upbending mechanism,the contribution of intruder proton orbitals $i _ { 1 3 / 2 }$ (top row) and intruder neutron orbitals $j _ { 1 5 / 2 }$ (bottom row） to the angular momentum alignments $\\langle J _ { x } \\rangle$ are presented in Fig. 5. The diagonal (offdiagonal） part $j _ { x } ( \\mu ) \\left[ j _ { x } ( \\mu \\nu ) \\right]$ in Eq.(6）is denoted by blue solid (red dotted） lines. Near the proton Fermi surfaces of Cm and Cf isotopes，the protn $i _ { 1 3 / 2 }$ orbitals are $\\pi 3 / 2 ^ { + }$ [651], $\\pi 5 / 2 ^ { + }$ [642] and $\\pi 7 / 2 ^ { + }$ [633]. Other orbitals of $\\pi i _ { 1 3 / 2 }$ parentage are either fully occupied or fully empty (cf. Fig.3） and have no contribution to the upbending. In Fig. 5(a)，the PNC calculation shows that after the upbending ( $\\hbar \\omega \\geq 0 . 2 0$ MeV)the off-diagonal part $j _ { x } ( \\pi 5 / 2 ^ { + } [ 6 4 2 ] \\pi 7 / 2 ^ { + } [ 6 3 3 ] ,$ ）changes a lot. The alignment gain after the upbending mainly comes from this interference term. The off-diagonal part $j _ { x } ( \\pi 3 / 2 ^ { + } [ 6 5 1 ] \\pi 5 / 2 ^ { + } [ 6 4 2 ] )$ and the diagonal part $j _ { x } \\left( \\pi 7 / 2 ^ { + } [ 6 3 3 ] \\right)$ also contribute a little to the upbending in $^ { 2 4 9 } \\mathrm { C m }$ . From Fig. 5(b) one finds that for $^ { 2 4 9 }$ Cf the main contribution to the alignment gain after the upbending comes from the diagonal part $j _ { x } \\left( \\pi 7 / 2 ^ { + } [ 6 3 3 ] \\right)$ （202 and the off-diagonal part $j _ { x } ( \\pi 5 / 2 ^ { + } [ 6 4 2 ] \\pi 7 / 2 ^ { + } [ 6 3 3 ] ,$ ） Again this tells us that the upbending in both cases is mainly caused by the $\\pi i _ { 1 3 / 2 }$ orbitals. The absence of the alignment of $j _ { 1 5 / 2 }$ neutrons in nuclei in this mass region can be understood from the contribution of the intruder neutron orbitals ( $N = 7$ ）to $\\langle J _ { x } \\rangle$ ．For the nuclei with $N \\approx 1 5 0$ , among the neutron orbitals of $j _ { 1 5 / 2 }$ parentage, only the high- $\\Omega$ (deformation aligned) $\\nu 7 / 2 ^ { - }$ [743] and $\\nu 9 / 2 ^ { - }$ [734] are close to the Fermi surface. The diagonal parts of these two orbitals contribute no alignment to the upbending,only the interference terms contribute a little if the neutron $j _ { 1 5 / 2 }$ orbital is not blocked [cf. Fig. 5(c)]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In summary, the recently observed high-spin rotational bands in odd- $A$ nuclei $^ { 2 4 7 , 2 4 9 }$ Cm and $^ { 2 4 9 }$ Cf [7] are inves",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "12 (a) 249Cm (b)249Cf 1/2+[660]   \n(uojoud) r) 84 3/2\\*165112164010 3/2\\*[651] 5/2 164721312164) 7/2+[633] 3/2\\*[651] 0 H ommnm -4 5/2[642] 5/2[642]7/2[633] 5/2+[642] 7/2\\*[633] 12 (c)249Cm (d)249Cf   \n(uojnau) ) 1/2[770] 1/2[770] 8 7/2[743]9/2[734] 3/2[761] 4 9/2[734] 3/2[761] 9/2[734] 0 mmm -4 5/2[752] 7/2[743] 5/2[752] 7/2[743] -8 0.0 0.1 0.2 0.3 0.1 0.2 0.: hω (MeV) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "tigated using the PNC-CSM.In the PNC method for the pairing correlations, the particle-number is conserved and the blocking effects are taken into account exactly. The experimental $\\omega$ variations of MOIs and alignments are reproduced very well by the PNC-CSM calculations.By analyzing the $\\omega$ -dependence of the occupation probability of each cranked Nilsson orbital near the Fermi surface and the contributions of valence orbitals in each major shell to the angular momentum alignment,the level crossing and upbending mechanism in each nucleus is understood clearly. The upbending in the ground state rotational bands in these nuclei is mainly caused by the intruder proton ( $N = 6$ ） $\\pi i _ { 1 3 / 2 }$ orbitals. The reason of the absence of the alignment of $j _ { 1 5 / 2 }$ neutrons is discussed. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This work has been supported by NSFC (Grant Nos.10875157 and 10979066)，MOST (973 Project 2007CB815000),and CAS(Grant Nos.KJCX2-EW-N01 and KJCX2-YW-N32). The computation of this work was supported by Supercomputing Center, CNIC of CAS. Helpful discussions with G.G.Adamian，N.V.Antonenko,X. T.He,and F. Sakata are gratefully acknowledged. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] R.-D.Herzberg and P. Greenlees, Prog. Part. Nucl. Phys. 61,674 (2008).   \n[2]P.Reiter,T.L.Khoo,C.J.Lister,D.Seweryniak,I.Ahmad,M. Alcorta,M.P.Carpenter,J.A.Cizewski, C.N. Davids,G.Gervais,J.P.Greene,W.F.Henning,R.V.F. Janssens,T.Lauritsen,S.Siem，A.A.Sonzogni,D.Sullivan，J.Uusitalo,I.Wiedenhover,N.Amzal,P.A.Butler,A.J.Chewter,K.Y.Ding,N.Fotiades,J.D.Fox, P.T.Greenlees,R.-D.Herzberg,G.D.Jones,W.Korten，M. Leino，and K.Vetter,Phys.Rev.Lett.82,509 (1999).   \n[3]R.-D.Herzberg，N.Amzal,F.Becker，P.A.Butler, A.J.C.Chewter, J.F.C.Cocks,O.Dorvaux,K.Eskola, J.Gerl,P.T.Greenlees,N.J.Hammond,K.Hauschild, K.Helariutta,F.Hessberger，M. Houry，G.D. Jones, P.M.Jones,R.Julin，S.Juutinen，H. Kankaanpaa，H.Kettunen，T.L.Khoo，W.Korten，P.Kuusiniemi,Y.L.Coz，M.Leino,C.J.Lister,R.Lucas, M.Muikku,P.Nieminen,R.D.Page,P.Rahkila,P.Reiter,C.Schlegel,C.Scholey，O.Stezowski,C. Theisen, W.H.Trzaska,J.Uusitalo,and H.J.Wollersheim,Phys. Rev.C 65,014303 (2001).   \n[4] J.E.Bastin,R.-D.Herzberg,P.A.Butler,G.D.Jones, R.D.Page,D.G. Jenkins,N.Amzal,P.M.T.Brew, N.J. Hammond,R.D. Humphreys,P. J.C. Ikin,T.Page, P.T.Greenlees，P.M.Jones，R.Julin，S.Juutinen, H.Kankaanpaa,A.Keenan,H.Kettunen,P.Kuusiniemi, M.Leino，A.P.Leppanen，M.Muikku，P.Nieminen，P.Rahkila,C.Scholey，J.Uusitalo，E.Bouchez, A. Chatillon，A.Hurstel，W.Korten，Y.L.Coz, C.Theisen,D.Ackermann,J.Gerl,K.Helariutta,F.P. Hessberger,C.Schlegel，H.J.Wollerscheim，M.Lach, A.Maj，W.Meczynski，J. Styczen，T.L.Khoo，C.J. Lister，A.V.Afanasjev,H.J.Maier,P.Reiter,P.Bednarczyc,K. Eskola, and K.Hauschild, Phys.Rev.C 73, 024308 (2006).   \n[5] P.Reiter，T.L.Khoo,I.Ahmad，A.V.Afanasjev, A．Heinz，T.Lauritsen，C.J.Lister，D.Seweryniak, P.Bhattacharyya,P.A.Butler,M.P.Carpenter,A.J. Chewter,J.A. Cizewski，C.N.Davids,J.P.Greene, P.T.Greenlees,K.Helariutta,R.-D.Herzberg,R.V.F. Janssens,G.D.Jones,R.Julin,H.Kankaanpaa,H.Kettunen,F.G.Kondev, P.Kuusiniemi,M. Leino, S. Siem, A.A.Sonzogni, J.Uusitalo,and I.Wiedenhover，Phys. Rev.Lett. 95, 032501 (2005).   \n[6] A．Chatillon，C．Theisen，E.Bouchez，P.A.Butler, E.Clement，O.Dorvaux，S.Eeckhaudt，B.J.P.Gall, A. Gorgen, T. Grahn,P. T. Greenlees,R.-D.Herzberg, F.Hessberger,A.Hurstel,G.D.Jones,P.Jones,R. Julin, S.Juutinen,H. Kettunen,F.Khalfallah,W.Korten, Y.L.Coz,M.Leino，A.-P. Leppanen，P. Nieminen, J.Pakarinen，J.Perkowski,P. Rahkila,M.Rousseau, C.Scholey,J.Uusitalo,J.N.Wilson，P.Bonche，and P.-H.Heenen, Phys.Rev. Lett. 98,132503 (2007).   \n[7] S.K. Tandel, P.Chowdhury,S.Lakshmi,U. S. Tandel, I.Ahmad,M.P. Carpenter, S.Gros,R.V.F. Janssens, T.L.Khoo,F.G.Kondev,J.P.Greene,D.J.Hartley,T.Lauritsen,C.J.Lister,D.Peterson,A.Robinson, D. Seweryniak， and S. Zhu, Phys. Rev. C 82, O41301R (2010). [8] J. Y. Zeng and T. S. Cheng, Nucl.Phys. A 405,1 (1983). [9] J. Y. Zeng, T.H. Jin， and Z. J. Zhao, Phys. Rev. C 50, 1388 (1994).   \n[10] J.Y. Zeng,Y.A.Lei, T.H. Jin,and Z. J. Zhao, Phys. Rev. C 50, 746 (1994).   \n[11] S.X. Liu, J. Y. Zeng, and E. G. Zhao, Phys. Rev.C 66, 024320 (2002).   \n[12] X. T. He, S. X. Liu,S. Y. Yu, J. Y. Zeng, and E.G. Zhao,Eur.Phys.J. A 23,217 (2005).   \n[13] Z.H.Zhang, X.Wu,Y.A.Lei, and J. Y. Zeng, Nucl. Phys. A 816, 19 (2009).   \n[14] X.T. He, Z. Z. Ren, S. X.Liu,and E. G.Zhao, Nucl. Phys. A 817, 45 (2009).   \n[15]H.Molique and J. Dudek,Phys. Rev. C 56,1795 (1997).   \n[16] S.G.Nilsson, C.F.Tsang,A.Sobiczewski, Z. Szymanski, S.Wycech,C.Gustafson,I.-L.Lamm,P.Mueller，and B. Nilsson, Nucl. Phys. A 131, 1 (1969).   \n[17] T.Bengtsson and I.Ragnarsson,Nucl. Phys.A 436,14 (1985).   \n[18] Z.H. Zhang et al.,in preparation.   \n[19] T. Seo, Z. Phys. A: Hadrons Nucl. 324, 43 (1986).   \n[20] J.-y. Zhang，Y.Sun,M. Guidry,L.L.Riedinger，and G. A. Lalazissis, Phys. Rev. C 58, R2663 (1998).   \n[21]P.Moller,W.D.Myers,W.J.Swiatecki,andJ.R.Nix, At. Data and Nucl. Data Tables 59,185 (1995).   \n[22]F.Al-Khudair,G.-L. Long， and Y. Sun,Phys. Rev. C 79,034320 (2009).   \n[23]A.Parkhomenko and A. Sobiczewski,Acta Phys.Pol., B 36, 3115 (2005).   \n[24]S.W.Yates,R.R.Chasman,A.M.Friedman,I.Ahmad, and K. Katori, Phys. Rev. C 12, 442 (1975).   \n[25]R.R.Chasman,I.Ahmad,A.M.Friedman，and J.R. Erskine, Rev.Mod. Phys. 49，833 (1977)； Rev.Mod. Phys. 50,173 (1978). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

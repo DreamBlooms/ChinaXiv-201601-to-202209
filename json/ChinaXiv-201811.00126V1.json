@@ -1,0 +1,478 @@
+[
+    {
+        "type": "text",
+        "text": "载瓦语声调的声学及感知研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陆尧 孔江平",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[提要]本文采用声学和感知的方法，对载瓦语的声调调值进行了研究，声学分析表明载瓦语中存在2个平调、3 个降调和1个升调。调值分别是：55,44,35,51,31,21。在声学分析的基础上，本文选取了三种声调和发声的组合类型进行了感知研究。这三种分别是：1）声调不同，元音同为正常嗓音；2）声调不同，元音同为紧嗓音；3）声调不同，元音发声类型不同。声学分析和感知研究发现，基频和发声类型对载瓦语的声调感知都有贡献，都具有语言学意义，当发声类型缺失时，被试出现“基频感知中立”。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[关键词]载瓦语发声类型声学分析声调感知",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "一、引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "语音感知研究对研究人类语言音位的心理实体和确立音位的范畴非常重要。20世纪70年代，声调的感知研究开始得到语言学界的普遍重视。虽然不能够把基频与声调完全等同，但是学界普遍认为，声调的高低升降曲直主要是由基频的变化所决定的，所以对于声调的感知研究，目前基本上是通过改变基频的高低来进行听辨实验。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王士元（Wang，1976）以/i/为负载音节，通过改变基频，合成了普通话阴平-阳平的11 个刺激连续体。识别实验和区分实验结果显示，母语者对于普通话（北京话）阴平-阳平的感知是范畴感知（Categorical perception)。Abramson(1977）通过哈斯金斯实验室的parallel-resonance 合成器改变基频，合成了中央泰语中跨越高平、中平、低平三个平调的8个刺激连续体，对33名母语者进行了感知实验，结果发现，母语者对声调的感知是连续感知（Continuous Perception)。Abramson 认为，与Wang(1976)结果不同的原因可能是由于Wang(1976)的实验中刺激是从平调到升调的连续体，而在他的实验中，三个声调均是平调。Abramson（1977)认为泰语除了这三个平调，还有一个升调和一个降调，那么，如果对中央泰语从升调到降调的刺激连续体再进行区分实验，或许能够解释这两个实验结果的差异。此外，Abramson 还认为，Wang(1976)的实验中声调所负载的音节仅仅是单元音/i/，而他的实验中声调负载的音节是相对复杂的/kha:/，这可能也会导致实验结果的差异。Francis etal.(2003）进一步对这些实验结果进行了解释，他认为Wang（1976）使用的声调同时包含调型(pitch contour)和音高(pitch height)的变化,而 Abramson 使用的泰语声调只包含音高的变化，这可能是导致两者结果有差异的原因。于是，他同时考察了母语者对粤语中三个平调之间、平调与曲拱调之间以及曲拱调之间的感知情况。实验结果显示，粤语三平调的感知结果与中央泰语平调的感知结果相似，是连续感知，而粤语平调与曲拱调的感知结果是范畴感知，与Wang（1976）的感知结果相同。Francis的研究结果证明了声调调型的变化对范畴感知的重要性，也有不少其他学者的研究同样证明了这一点，即：母语者对于调型相同的声调感知往往是连续感知，如平调之间、升调之间，而对调型不同尤其是方向完全相反的声调的感知往往是范畴感知，如普通话的平调与升调之间、平调与降调之间，升调与降调之间。但是，这个规律是否适用于所有的声调语言，目前尚待继续研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着声学、生理学和心理学研究的进展，学界已经意识到仅仅依靠基频不能够准确描写声调，也不能完全对声调的感知结果做出解释，尤其是当该语言中同时存在特殊发声类型时。如张锐锋、孔江平（2014）发现，河南禹州话方言声调的感知中，发声类型也起到了一定的作用，在基频差别大的情况下发声类型对感知的贡献较小，在基频差别小的情况下，发声类型在感知上的贡献就会变大。刘文、张锐锋（2016）发现，鱼粮苗语低平调（T5：22）和低降调（T6：31）的区分是发声和基频二者共同作用的结果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中国境内的一些少数民族语言中，声调之间不仅存在基频的对立，还同时还存在发声类型的对立，那么，母语者感知的结果是基频起了作用还是发声类型起了作用？声调的“区别性特征”到底是什么？这些问题仍需做深入研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此，本文选取了声调系统中同时具有基频和发声类型对立的载瓦语作为研究对象，首先，通过声学分析确定其调值及发声类型。其次，从中选取“声调不同，元音同为正常嗓音\";“声调不同，元音同为紧嗓音\"；“声调不同，元音发声类型不同”这三种类型声调和发声的组合进行感知实验研究，以期探讨基频和发声类型对于母语者感知的贡献。实验结果对于载瓦语声调音位范畴的讨论与区分将具有重要的理论意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "二、载瓦语声调的声学分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "载瓦语是中国景颇族中自称“载瓦”的人使用的语言，属于汉藏语系藏缅语族缅语支，当地人称“小山话”。根据《载瓦语语言简志》（徐悉艰、徐桂珍，1984)，载瓦语声调共有3个：21（也有学者认为是22)，55，51。此外，正常嗓音韵母能同所有的声母结合，而紧嗓音韵母只能同不送气音、浊擦音、鼻音、边音结合。当声母是不送气音（清擦音除外）和韵母是正常嗓音时，55 调的实际调值是15（也有学者认为是35）（何勒腊,2016)。根据是否带塞尾，21调和55调有促声调和舒声调之分。此外，戴庆厦（1989）通过载瓦语同缅、阿昌、哈尼等亲属语之间的比较，详细论证了载瓦语声调的来源和分化问题，并指出，对载瓦语声调的归类有两种方法：一种是现在这种分类法，主要根据调值的相近程度，把舒声调和促声调合为一类。这样分的结果，在 55、21 两个调里既有舒声调，又有促声调。另一种方法是把舒声调和促声调分开，归为五个调，3个舒声调和2个促声调。他指出，从声调的变化上看，分为三个调比较方便，但如果为了研究载瓦语声调的发展变化，似乎把舒声调和促声调分开分析更方便些。但前人对载瓦语的声调研究多是依靠田野调查的听音、记音，未曾有人进行过声学分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为更准确厘清载瓦语的声调情况，本文选择了4名来自德宏傣族景颇族自治州瑞丽市户育乡的村民作为发音人采集数据。其中2名女性，一名19岁，一名 48岁；2名男性，一名 20 岁，一名36 岁。他们的母语均是载瓦语，会说普通话。根据得到的语音样本，提取男女发音人的基频数据作平均值。此外，目前国际上的声调和音调的研究都采用半音法（刘复1924；孔江平 2015:64-65)，相对于纯物理声学参数的基频而言，半音值比较符合人的听感，因为半音之间的关系反映的是听感上的关系。因此，本文采用半音法将基频转换为半音值，半音 $= 1 2 \\times \\log 2 ( \\mathrm { f x } / \\mathrm { f } 2 )$ ，其中f2 为调域内的最低值，fx为每一点的实测基频值，当fx 取调域内最高值时得出的半音即为该发音人的音域,本文中调域内基频最高值为 $2 4 8 \\mathrm { { H z } }$ ，最低值为 $1 4 6 \\mathrm { H z }$ ，计算得出音域约为9个半音。得到半音值之后,再将其转换为5度值,5度值 $\\ c =$ [(lgfx$- \\mathrm { l g f } 2 ) / ( \\mathrm { l g f } 1 \\mathrm { - l g f } 2 ) \\mathrm { x } 4 ] + 1$ 。最后得出载瓦语声调基频及五度值情况如图1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d5c435182099d7f6b4d5c2f0f2cd50fe9c5531bdde4bec358df46a36cdf58bc8.jpg",
+        "img_caption": [
+            "图1：载瓦语声调基频和五度值图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图1中可以看出，基频分析的结果与传统记音有较大差异，主要体现在以下2点：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "首先是舒声调与促声调的调值有较大差异，载瓦语的促声调 55 明显比舒声调55的基频要高1度左右，促声调约为55，而舒声调约为44。21调同理，促声调约为31，舒声调约为21。另外，由于这两个调的时长差别太大，因此，本文认为将舒声调与促声调分开更能符合人的感知。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其次是，传统记音中，将15 调与55 调合并为一个调位，认为是由于发声类型不同和声母的不同而形成的音位互补。根据孔江平（2001：188）给出的嗓音区别性特征矩阵，载瓦语的发声类型可以称为正常嗓音和紧嗓音，即松音实际上是正常嗓音。根据孔江平（2001：56)，测量第一谐波（h1）和第二谐波（h2）的振幅（dB）是常用的嗓音分析法，其谐波的振幅差一般能反映声带振动时的紧张程度，h2-h1数值越大，声带越紧。我们采用谐波分析法选取正常嗓音a 和紧嗓音a的稳定段部分进行分析，如图2所示，确实存在松紧对立。但是从调值上来看，正常嗓音的实际调值为35，与55 的调值差别较大，本文认为不能将二者笼统地归为一个调位。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/92e56552110ef532a9345370f4e208f8282654eafe97bfb9b2cf7f480ecc132b.jpg",
+        "img_caption": [
+            "图2：［a]-[a]元音功率谱 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上，从基频模式上来看，本文认为载瓦语应有6个声调，其中2个平调，1个升调，3 个降调，调值应当记为：55，44,35,51,31,21。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "三、载瓦语声调感知实验",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了考察基频及发声类型对声调感知的影响，我们选取了3组载瓦语单字调音节作为母本进行声调感知实验，分别为：/po21/“蛙”和/po51/“便宜\"；/i21/“尿”和/i51/“酒\";/mau35/“奇怪”和/mau44/“骗人”。这6个词都为载瓦语的常用词。其中，第一、二组母本声韵母相同，声调不同，韵母发声类型相同，都为紧嗓音或都为正常嗓音。第三组母本声韵母相同，声调不同，且韵母发声类型不同，一个为正常嗓音，一个为紧嗓音，即本组样本同时存在基频和发声类型的对立。原始音节由一位男性母语者发音，年龄 20 岁，母语为载瓦语，四个音节的时长平均500ms。录音在安静的室内进行，具体录音设备包括：cooledit录音软件、麦克风（Sony）、笔记本电脑（Thinkpad）、外置声卡和调音台。录音时的采样频率为 $2 2 0 5 0 \\mathrm { H z }$ ，采样精度为16 位。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1实验刺激 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文通过 PSOLA（pitch synchronous overlap-add,基频同步叠加）的方法对上述 3组母本两两之间合成实验刺激。以“po21-po51”组为例：首先用praat 脚本程序等距离地分别提取出 po21和po51各11个点的基频数据，接着，通过插值计算出这两个声调11个基频测量点两两之间的9个刺激样本的基频，然后我们以“po21”作为母本，把“po21”的原始基频曲线作为组内第一个刺激样本，接着逐步按照计算出的9个样本的基频数值来改变“po21”的基频，均匀地合成9个连续体，最后按照po51的实际基频，在“po21”的母本上合成第11个刺激。合成母本的不同会影响被试对刺激的感知结果，因此，我们随后再以“po51”作为母本，同样通过上述方法逐步改变基频得到11个刺激样本。最终，我们合成了3对，6组，每组11个，共计66个刺激样本，刺激样本的基频曲线图如图3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bbbedbb035617163231dd2303945fd9e2bfd165fea851a1bcac8b81f64d248f2.jpg",
+        "img_caption": [
+            "图3:三组声调合成样本设计"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图3左图为 $^ { 6 } \\mathrm { p } \\underline { { 0 } } 2 1 \\mathrm { - p } \\underline { { 0 } } 5 1$ ，紧嗓音”的合成样本，基频最低为 $1 0 8 . 3 1 \\mathrm { { H z } }$ ，最高为160.12Hz；中图为“i21-i51，正常嗓音”的合成样本，基频最低为107.41Hz，最高为 $1 6 2 . 5 \\mathrm { ~ H z }$ 右图为“mau35-mau44”的合成样本，发声类型对立，基频最低为 $1 1 5 . 6 9 \\mathrm { H z }$ ，最高为138.49Hz 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2实验被试 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文选取的28名被试（12男，16女）均来自德宏傣族景颇族自治州瑞丽市户育乡户育村尹山、广帕、芒弄、户育四个村民小组，年龄16-52岁。所有被试从小在该村土生土长，以载瓦语为母语，平时与家人、朋友交流以载瓦语为主，听力和视力正常，最低具有小学文化水平。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3实验过程",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "每个被试都参与了感知实验中经典的识别和区分任务。所有的刺激由索尼MDR-7506 耳机播放出来，双声道，72dB SPL。实验和数据采集使用E-PRIME 软件进行。在正式实验之前，被试可以进行循环练习，以熟悉设备与实验程序。在正式实验中，被试可随时按空格键暂停实验进行休息。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）识别实验",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验将合成的6组刺激随机播放，每组的11个刺激各随机出现2次( $2 * 1 1 { = } 2 2$ trials), ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "每次每个刺激连续播放2遍。声音播放的同时屏幕上会同时出现2个与声音对应的载瓦文词语及汉语意思，播放完毕后，选择为强迫式的二选一形式，被试必须在5秒内做出选择，判断他听到的是哪个词。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）区分实验",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文采用了AX型区分实验。为了最大程度上区分范畴内和范畴间的不同(Pisoni，1973)，每个刺激间隔 500 毫秒成对出现，被试有5秒的时间判断这个刺激对是“相同\"还是“不同”。在每组刺激中，不同对中的两个刺激间隔两个步长，正序和倒序都要播放。6组刺激共组成了 $1 8 * 6 + 9 * 6 = 1 6 2$ 个样本对。每个样本对在实验中播放2次，被试共需做出 $1 6 2 * 2 * 3 2 4$ 次反应，所有样本对的播放都是随机的。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4数据分析 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文统计了每个被试的识别实验结果和区分实验结果，以期探讨基频与发声类型对声调感知的贡献，确定母语者对不同声调对立组的感知模式。数据统计分析采用Excel2010，IBMSPSS Statistics 20.O 及R 语言（The R Project for Statistical Computing，一种统计软件）进行。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）识别函数及识别边界",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "每个刺激的识别结果是被试将其识别为每个汉字的百分比。根据识别实验数据，本文构造了二分变量逻辑回归模型(Binary Logistic Regression）。回归方程可以写为:loge(P1/1-P1)$\\mathbf { \\tau } = \\mathbf { b } 0 + \\mathbf { b } 1 \\mathbf { x }$ （Xu etal,2006)。对每一组声音连续体，P1为识别实验结果， $\\mathbf { x }$ 为声音连续体的步长个数，b0 和b1是回归模型函数中自变量 $\\mathbf { x }$ 的回归系数和常数，b1可以用来计算回归曲线的斜率，识别率为0.5时所对应的 $\\mathbf { x }$ 值即为识别边界。即：b0+blxcb $\\vDash$ loge( 0.5/1-0.5)=0 $$ xcb=-b0/b1。识别边界宽度为识别率为 $2 5 \\%$ 和识别率为 $7 5 \\%$ 之间的线性距离（Xuetal,2006）。识别边界越陡峭，边界宽度越窄，则范畴化程度越高，反之则越低。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）区分实验分数及区分峰值",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文采用如下公式计算区分率： $\\mathrm { P \\mathrm { = } \\mathrm { P ( ^ { \\mathrm { * } \\mathrm { S } } \\mathrm { ^ { \\mathrm { * } \\mathrm { > } } \\mathrm { | \\mathrm { S ) ^ { \\mathrm { * } \\mathrm { P ( \\mathrm { S ) + } \\mathrm { P ( ^ { \\mathrm { * } \\mathrm { D ^ { \\prime } \\mathrm { | D ) ^ { \\mathrm { * } \\mathrm { P ( D ) } } } } } } } } } } } } }$ （Xu et al,2006)。其中P(\"S\"S)为相同样本对被判断为相同的概率,P(\"D\"D)为不同样本对被判断为不同的概率，P(S)和P(D)是相同和不同样本对在整个区分实验中的比例,本次实验P(S)和P(D)分为1/3 和2/3。对每一个样本对处得到的区分率数据，需要判断区分波峰的位置，所以本文会通过One-way ANOVA 单因素方差分析和 Turkey HSD post-hoc 事后检验进行两两比较，确定哪个或哪几个样本对的区分率显著高于其他样本对。（张文彤 2004，贾俊平 2006；于谦 2016)",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.5实验结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）i21-i51声调对立组",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/55a281665ef355078bfddf66201de74220afe883ceae1a7844e8479641b0cf91.jpg",
+        "img_caption": [
+            "图4：i21-i51声调对立组感知结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图4左图是母本为i21时的感知结果，统计得出，识别边界和识别宽度分别为4.22 和3.04，识别边界大致位于刺激样本中间位置，识别宽度相对陡峭。图4右图为母本为i51时的感知结果，统计得出，识别边界和识别宽度分别为4.44和2.99，识别边界大致位于刺激样本中间位置，识别宽度相对陡峭。两组感知结果的识别边界基本重合。从区分曲线来看，经过One-way ANOVA 单因素方差分析和 Turkey HSD post-hoc 事后检验，如表1所示，两图中9个样本对的区分率组间差异显著 $( \\mathrm { F } ( 8 , 2 4 3 ) = \\ 5 . 7 5 8 , \\mathrm { p } \\mathrm { = } 0 . 0 0 0 ) , ( \\mathrm { F } ( 8 , 2 4 3 ) =$ 4. 927, $\\scriptstyle \\mathrm { p = } 0 . 0 0 0$ )，9个样本对的区分率两两比较可分为3个子集，子集内部各样本对之间没有显著差异，而子集之间有显著差异，但表中可以看出，3组子集相互之间重叠严重，无法判断区分波峰。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表1：i21-i51声调对立组各样本对区分率的同类子集",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/c01e214def9cea17827f67fc16be90e2e226aa98718b6c2dfa10232a4ac264db.jpg",
+        "table_caption": [
+            "121-151(121)区分率统计分组数据"
+        ],
+        "table_footnote": [
+            "将显示同类子集中的组均值。，（204号 $a$ 将使用调和均值样本大小 $= 2 8 . 0 0 0 \\circ$ "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">A5t</td><td rowspan=\"2\">Nt</td><td colspan=\"3\">alpha=0.05的子集</td></tr><tr><td>1</td><td>2</td><td>3t</td></tr><tr><td rowspan=\"7\">HSD</td><td>9</td><td>28</td><td>.35114</td><td></td><td></td></tr><tr><td>10t</td><td>28+</td><td>.3630</td><td></td><td></td></tr><tr><td>8t</td><td>28+</td><td>.3928</td><td>.3928</td><td></td></tr><tr><td>7</td><td>28</td><td>.4642+</td><td>.46424</td><td>.4642</td></tr><tr><td>Tukey 2t</td><td>28</td><td>4940</td><td>.4940</td><td>.4940</td></tr><tr><td>6</td><td>284</td><td>.4999</td><td>.4999</td><td>.4999</td></tr><tr><td>3</td><td>28</td><td></td><td>.5595+</td><td>.5595+</td></tr><tr><td>4t</td><td></td><td>28+</td><td></td><td></td><td>.59524</td></tr><tr><td></td><td>5t</td><td>28</td><td></td><td></td><td>.6250</td></tr><tr><td>显著性</td><td></td><td></td><td>.220</td><td>.109</td><td>.140</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/d49e519b5570a2d7ebde45216ec0cb0ddc8d1d9defe8fc0fe0dde48a97ceb8a0.jpg",
+        "table_caption": [
+            "121-i51(i51)区分率统计分组数据"
+        ],
+        "table_footnote": [
+            "将显示同类子焦中的组均值 $\\diamond$ $a$ 将使用调和均值样本大小 $= 2 8 . 0 0 0 \\circ$ “"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">A6t</td><td rowspan=\"2\">Nt</td><td colspan=\"3\">alpha=0.05的子集</td></tr><tr><td>1t</td><td>2t</td><td>3t</td></tr><tr><td rowspan=\"6\">Tukey HSD</td><td>10t</td><td>28</td><td>.3273</td><td></td><td></td></tr><tr><td>8t</td><td>28</td><td>.3630</td><td></td><td></td></tr><tr><td>7</td><td>28</td><td>3809</td><td>.3809</td><td></td></tr><tr><td>9t</td><td>28</td><td>.3928+</td><td>.3928</td><td></td></tr><tr><td>6</td><td>284</td><td>.4583+</td><td>.4583+</td><td>.4583+</td></tr><tr><td>4t</td><td>28</td><td>.47614</td><td>.4761</td><td>.4761</td></tr><tr><td rowspan=\"4\"></td><td>2t</td><td>28</td><td>.48214</td><td>.48214</td><td>.48214</td></tr><tr><td>5t</td><td>28+ K></td><td></td><td>.5357</td><td>.5357</td></tr><tr><td>3</td><td>28</td><td></td><td></td><td>.58924</td></tr><tr><td>显著性</td><td></td><td>.1124</td><td>.112+</td><td>.292+</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/4f9ce6ad8109928af6ff40a986ec81262c668c555484f35ff54d3da6afc734dd.jpg",
+        "img_caption": [
+            "（2）po21-po51声调对立组"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图5：po21-po51声调对立组感知结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图5左图为母本为 po21时的感知结果，统计得出，识别边界和识别宽度分别为6.14和 2.79，识别边界大致位于刺激样本中间偏右位置，识别宽度相对陡峭。图5右图为母本信号为 po51时的感知结果，统计得出，识别边界和识别宽度分别为4.46 和 3.91，识别边界也大致位于刺激样本中间位置，识别宽度相对陡峭。母本不同，识别边界差异不大。从区分曲线来看，左图被试9个样本对的区分率组间差异显著 $( \\operatorname { F } \\left( 8 , 2 4 3 \\right) = 3 . 8 2 7 , \\operatorname { p } = 0 . 0 0 0 )$ ，但如表2所示，两两比较输出为3个子集，且子集间重叠严重，无法判断区分波峰。右图被试9 个样本对的区分率组间差异不显著 $( \\mathrm { F } ( 8 , 2 4 3 ) = \\ 1 . 5 7 4 , \\mathrm { p } = 0 . 1 3 3 )$ ，不存在区分波峰。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表2：po21-po51(po21)\\mau35-mau44（mau35）声调对立组各样本对区分率的同类子集",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/bcc7da7b154fbd0904fdd8a714ef1ade0d4945d62b562d0fe62f89491309af37.jpg",
+        "table_caption": [
+            "po21-po51（po21)区分率统计分组数据."
+        ],
+        "table_footnote": [
+            "将显示同类子集中的组均值。，$a$ 将使用调和均值样本大小 $\\mathrm { \\Omega } = 2 8 . 0 0 0 \\circ$ 1"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">A7t</td><td rowspan=\"2\">Nt</td><td colspan=\"3\">alpha=0.05的子集</td></tr><tr><td>1t</td><td>2t</td><td>3</td></tr><tr><td rowspan=\"7\">HSD</td><td>9t</td><td>28+</td><td>.35714</td><td></td><td></td></tr><tr><td>2t</td><td>28</td><td>.40474</td><td>.4047+</td><td></td></tr><tr><td>10t</td><td>28+</td><td>4285+</td><td>.4285</td><td></td></tr><tr><td>8t</td><td>28</td><td>.4523+</td><td>.45234</td><td>.45234</td></tr><tr><td>Tukey 7t</td><td>28+</td><td>.4821+</td><td>.48214</td><td>.4821+</td></tr><tr><td>3</td><td>28</td><td>.5119</td><td>.5119</td><td>.5119</td></tr><tr><td>6</td><td>28+</td><td>.5297</td><td>.5297</td><td>.5297</td></tr><tr><td>4t</td><td></td><td>28</td><td></td><td>.57734</td><td>.57734</td></tr><tr><td></td><td>5t</td><td>28</td><td></td><td>3</td><td>.6190</td></tr><tr><td>显著性</td><td></td><td></td><td>.107</td><td>.1074</td><td>.1374</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/87a74352ea5cdf692179adaa64324d3ac6a934c878249a037b7315827928300e.jpg",
+        "table_caption": [
+            "mau35-mau44（mau35）区分率统计分组"
+        ],
+        "table_footnote": [
+            "将显示同类子集中的组均值。，a.将使用调和均值样本大小 $= 2 8 . 0 0 0 \\cdot$ "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">3</td><td rowspan=\"2\">A3t</td><td rowspan=\"2\">Nt</td><td colspan=\"3\">alpha=0.05的子集</td></tr><tr><td>1t</td><td>2t</td><td>3t</td></tr><tr><td rowspan=\"7\">Tukey HSD</td><td>2</td><td>28</td><td>.3269</td><td></td><td></td></tr><tr><td>3</td><td>28</td><td>.4102</td><td>.4102</td><td></td></tr><tr><td>4t</td><td>28</td><td>.4230</td><td>.4230</td><td></td></tr><tr><td>10t</td><td>28</td><td>.4294+</td><td>.42944</td><td>.4294+</td></tr><tr><td>9t</td><td>28</td><td>.4807+</td><td>.4807</td><td>.4807+</td></tr><tr><td>6t</td><td>28</td><td>.4807+</td><td>.4807</td><td>.4807+</td></tr><tr><td>5t</td><td>28</td><td>.5000+</td><td>.5000</td><td>.5000</td></tr><tr><td rowspan=\"2\"></td><td>8t</td><td>28</td><td></td><td>.51924</td><td>.5192</td></tr><tr><td>7</td><td>28</td><td></td><td>3</td><td>.6153+</td></tr><tr><td>显著性</td><td></td><td></td><td>.108</td><td>.688</td><td>.062+</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b457090ea5c87d17263f7ebf3a7d5f7c46b7bfaafe0976e018cc96bc302bcab.jpg",
+        "img_caption": [
+            "（3）mau35-mau44声调对立组"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/38ca4672ed72960a601bec0e1c60bf330d309d0655a63fab85a522b235c4b6f5.jpg",
+        "img_caption": [
+            "图6：mau35-mau44声调对立组感知结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图6左图为母本为mau35时的感知结果。统计得出，识别边界和识别宽度分别为10.21和 5.86，识别边界非常平缓，几乎靠近最后一个刺激样本，识别宽度也较宽。图中还可看出，被试对第一个刺激样本，将其识别为mau35 的比率几乎为 $1 0 0 \\%$ ，识别为 mau44的比率几乎为 $0 \\%$ 。但随着刺激样本基频从35变化到44，虽然被试对 mau35的识别率不断下降，但始终没有降为 $0 \\%$ ，对 mau44的识别率不断上升，但也始终没有升为 $1 0 0 \\%$ ，在第10 和第11个刺激样本处，对mau35 和mau44的识别率几乎各为 $5 0 \\%$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图6 右图为母本为 mau44时的感知结果。统计得出，识别边界和识别宽度分别为4.82、3.04。识别边界大致位于刺激样本中间位置。与左图对比，被试的感知结果差异显著，识别宽度相比左图要窄的多，即范畴边界较为陡峭。被试对mau35 的识别率从 $1 0 0 \\%$ 逐渐降至 $0 \\%$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对mau55的识别率从 $0 \\%$ 逐渐升至 $1 0 0 \\%$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从两组实验的区分曲线来看，左图被试9个样本对的区分率组间差异显著‘ ${ \\mathrm { ~ \\ ' ~ } } \\mathrm { F } \\left( 8 , 2 4 3 \\right) =$ 3. 537, $\\mathrm { p } { = } 0 . 0 0 1 \\$ )，但两两比较输出为3个子集，如表2所示，子集间重叠严重，无法判断区分波峰。右图被试9个样本对的区分率组间差异不显著 $( \\mathrm { F } ( 8 , 2 4 3 ) = 2 . 2 5 0 , \\mathrm { p } { = } 0 . 0 2 5 )$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.6讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "实验结果显示，“i21-i51”和“po21-po51”这两组声调对立组的感知实验，识别边界均较为陡峭，高降调与低降调能够被明显地区分为两个对立的音位范畴。即在范畴内部无论基频如何变化，都只能被感知为同一个声调，一旦变化跨越范畴边界就被感知为另一个声调。在每组声调对立内部，由不同母本合成的实验刺激，感知结果的识别边界也差异不大。这说明在语言学意义上，主要是基频对区分这两组声调起了作用。此外，从感知模式上来看，“识别曲线边界分明、区分曲线存在波峰且与识别边界对应”是被大多数学者所认同的2项范畴感知判断标准，这两组感知实验的结果虽然识别曲线边界分明，但区分曲线在统计结果上并未出现波峰，因此在行为学上的感知模式为连续感知。前文提到，前人研究大多认为，母语者对调型相同，调值不同的声调对立感知为连续感知，调型相同指的是声调曲线斜率应当一致，例如 31调和 53 调，而对调型和调值均不同的声调对立感知为范畴感知。本文实验中，虽然21调和51调都为降调，但是斜率差别较大，也就是说既有调型的差别也有调值的差别，但母语者对本组声调对立的感知却不是范畴感知，这与前人研究有出入，具体原因仍待进一步探索。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "此外，更有意思的是，第三组mau35-mau44声调对立的感知，当母本不同时，母语者的感知结果出现了显著的差异。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "图6左图，当刺激的母本为正常嗓音时，识别边界非常平缓，被试几乎不能将mau35-mau44区分为两个音位范畴。造成这种现象的原因是什么呢？首先，由于母本为正常嗓音，那么即使基频从35变化到了44，在嗓音性质不改变为紧嗓音的情况下，仅凭基频的变化，被试无法将刺激样本识别成 mau44。其次结合载瓦语的音系来看，虽然 mau44这个音节不存在，但“声母（送气或清擦音） $^ +$ 正常嗓音 $+$ 高平调 44”这种音节组合方式是存在的，如表4所示的/khau44/“表兄弟”。那么当母本为正常嗓音时，被试会对越来越趋向于 mau44的刺激样本感到疑惑，从而与 mau44产生混淆，所以也不会将其完全识别成 mau35，对 mau44和 mau35的识别率都在 $5 0 \\%$ 左右。也就是说，由于母本缺失了发声类型，基频在这里对感知实际上并没有起到作用，被试出现了基频的“感知中立”。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表4：载瓦语高平调与高升调声韵母配合情况",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/cd56bd80e37b9ff47469bd81a1f02a0ffc48c42a430366b0b5caf2579b492fec.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>声母</td><td>不送气音（除清擦音）</td><td>清擦音/送气音</td><td>所有声母</td><td>清擦音/送气音</td><td>所有声母</td></tr><tr><td>韵母</td><td>正常嗓音</td><td>正常嗓音</td><td>紧嗓音</td><td>正常嗓音+塞尾</td><td>紧嗓音+塞尾</td></tr><tr><td>声调</td><td>35</td><td>44</td><td>44</td><td>55</td><td>55</td></tr><tr><td>例字</td><td>/mau/奇怪</td><td>/khau/表兄弟</td><td>/mau/骗人</td><td>/Sut/错</td><td>/tsut/肺</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "图6右图，当刺激的母本为紧嗓音时，识别曲线边界分明，两个声调被区分为了两个明显的音位范畴。基频逐步变化为44时，被试通过“基频” $^ +$ “紧嗓音“这两条特征，清楚识别出了mau44。基频趋向35时，由于载瓦语音系中不存在“韵母为紧嗓音 $^ +$ 声调为 $3 5 ^ { \\prime \\prime }$ 这种音节组合形式，被试忽略了发声类型的异常，仅凭基频即将其识别为mau35。这组实验结果显示，基频和发声类型共同对紧嗓音声调的感知结果起到了重要作用。但由于音位的互补，发声类型对正常嗓音的识别失去了作用，被试将发声类型为紧嗓音的刺激识别为了正常嗓音的音节。此外，虽然该组感知结果识别曲线较为陡峭，但由于无法判断区分波峰，被试对本组声调对立在行为学意义上的感知模式仍为连续感知。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "综上，本组实验结果从感知的角度，证明了载瓦语高平调和高升调这两个音位之间，存在基频和发声类型两种区别性特征，且共同对声调感知起着重要作用。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "四、结论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本文首先通过声学分析确定了载瓦语6个声调的调值:2个平调(55、44)、3个降调（51、31、21）和1个升调（35)。然后，重点研究了被试对高平调44 和高升调 35、低降调 21和高降调51的感知。结果表明：载瓦语母语者对声调不同、发声类型相同的声调对立组为连续感知；声调和发声类型都不同的声调对立组，当合成母本为紧嗓音，被试为连续感知，当合成母本为正常嗓音，被试无法区分音位范畴。这说明，载瓦语的基频和发声类型对声调的感知都有贡献，都具有语言学意义，当发声类型缺失时，被试出现“基频感知中立”。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "张锐锋，孔江平．河南禹州方言声调的声学及感知研究[J]．方言,2014(3):206-214.  \n刘文，张锐锋.鱼粮苗语低平调和低降调的声学感知研究[J]．语言学论丛,2016(2):197-212.  \n徐悉艰，徐桂珍．景颇族语言简志 (载瓦语)[M]．民族出版社,1984.  \n戴庆厦．载瓦语声调研究[J]．中央民族大学学报：哲学社会科学版,1989(1):61-66.  \n何勒腊．载瓦语语音研究[D]．上海师范大学,2016刘复．《四声实验录》.群益书社.1924.  \n孔江平．《实验语音学基础教程》.北京大学出版社.2015.  \n孔江平．论语言发声[M]．中央民族大学出版社,2001.  \n张文彤，董伟.SPSS 统计分析高级教程[J].2004.  \n贾俊平．统计学[M]．清华大学出版社有限公司,2006.  \n于谦.方言背景与普通话声调范畴感知研究[D].北京大学,2016.  \nWang W S Y.(1976). Language change. Annals of the New York Academy of Sciences, 280(1):61-72.  \nAbramson, A. S.(1977). Noncategorical perception of tone categories in Thai. The Journal of theAcoustical Society of America, 61(S1), S66-S66.  \nFrancis, A. L., Ciocca, V.,& Ng, B. K. C. (2003). On the (non) categorical perception of lexicaltones.Perception & psychophysics, 65(7),1029-1044.  \nFrancis,A.L.,& Ciocca, V. (2Oo3). Stimulus presentation order and the perception of lexicaltones in Cantonese.The Journal of the Acoustical Society of America, 114(3),1611-1621.  \nPisoni,D.B.(1973). Auditory and phonetic memory codes in the discrimination of consonantsand vowels. Perception & psychophysics,13(2),253-260.  \nXu, Y., Gandour, J. T.,& Francis, A. L. (2Oo6). Effects of language experience and stimuluscomplexity on the categorical perception of pitch direction. The Journal of the AcousticalSociety of America, 120(2), 1063-1074.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[Abstract] Zaiwa language which is used by Zaiwa branch of Jingpo ethnic group is part of Sino-Tibetan language family. According to our acoustic and perceptual studies, Zaiwa language has six tones for monosyllabic words: two level tones, three falling tones and one rising tone. Their tone values are: 55， 44， 35， 51， 31， 21.This paper therefore undertook a perceptual experiment on three type combinations of tones and phonation:1)different tones, both modal voice; 2) different tones,both pressed voice; 3) different tones, modal voice Vs. pressed voice.The result turned out that both fundamental frequency (FO) and phonation contribute to the perception of tones in Zaiwa language and the lack of phonation will lead to the “FO neutral perception” phenomenon. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[Keywords] Zaiwa languagephonationacoustic analysistone perception（陆尧 100871北京北京大学中文系/中国人民大学图书馆 luyiru2012@ 163.com;孔江平100871 北京北京大学中国语言学研究中心/中文系 jpkong @pku.edu.cn )",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

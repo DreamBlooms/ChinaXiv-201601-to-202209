@@ -1,0 +1,558 @@
+[
+    {
+        "type": "text",
+        "text": "A fully human monoclonal antibody targeting PD-L1 with potent anti-tumor activity ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yan Luanab, Dafei Chaia, Jianjian Penga,Shuli Maa, Min Wanga, Hui Maa, Xiang Lia,Shilong Fua, Xiaolong Pan a, Xiaoxiao Wangd, Songbing Qin C\\*, Ting Xu a.d,\\*\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "aDingFu Biotarget Co.Ltd.,Suzhou,Jiangsu 215125,PR China   \nbChieseee   \nDepartmentfdiotherapy,heFstAfliatedHospitalofoochowUiversity,uzou,Jngsu5o6,in   \nd Alphamab Co.Ltd.,Suzhou,Jiangsu 215125,PR China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE INFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article history:   \nReceived 16 September 2015   \nReceived in revised form 7 December 2015   \nAccepted 29 December 2015   \nAvailable online 12 January 2016 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nMonoclonal antibody   \nPD-L1   \nB60-55   \nTumor   \nTherapeutic agent Background: Programmed cell death ligand-1(PD-L1) with its receptorPD-1 pathway is overactivated in many tumors.Inhibiting the interactionof PD-L1and PD-1isanattractive strategy to restore tumor-specificTcell immunity for tumor therapy.   \nMethods: A fully human anti-PD-L1 monoclonal antibody(mAb)B6O-55 was identified by yeast surface display. The affinity,specificity,activity,and efficacy of mAb B6O-55 were investigated in vitro or in vivo.   \nResults: mAb B60-55 (purity ${ > } 9 9 \\%$ )could bind to PD-L1 that is expressed on HEK293 cells with a dissociation constant of $0 . 2 { \\mathrm { n M } }$ ,and specifically bind to human or cynomolgus macaque PD-L1 without a cross-reaction with murinePD-L1.Moreover,mAb B60-55 isanantagonistic antibody,which can block PD-L1 binding to its receptors, including PD-1(PDCD1) and B7.1(CD80).In vitro assays demonstrated the abilityof mAb B60-55 to enhance Tcell responses and cytokine production in the mixed lymphocyte reaction.In vivo studies showed that administration of mAb B6O-55 exhibited a potent antitumor activity toward tumor cell carcinoma xenograft,with a mean half-life of $1 7 7 . 9 \\mathrm { h }$ in cynomolgus monkeys. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Conclusion: mAb B6O-55 is a potential candidate for clinical development in cancer treatment. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\circledcirc$ 2016 Elsevier B.V.All rights reserved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Programmed death 1 (PD-1; CD279) is a member of CD28 family that is overexpressed byactivated Tcells,B cells,dendritic cells,macrophages,and myeloid cells [1-4].PD-1 encounters with its ligand pro grammed cell death ligand-1 (PD-L1;B7-H1 or CD274),which is expressed by tumor cells and immune cells [5].PD-L1 is a type I transmembrane protein that is approximately $5 3 \\mathrm { k D a }$ ,and it contains two extracellular Ig domains,which include an N-terminal V-type domain followed by a C-type domain [6].Studies demonstrated that PD-L1 expression in tumor tissues can be used as an independent factor to evaluate the prognosis of gastric carcinoma [5,7].The PD-1/PD-L1 molecular pathwayisa negative regulator of co-signalingpathway that functions as a cellular checkpoint to suppress inflammatory and immune responses against cancer [8-1O].PD-1/PD-L1 functions through several alternative mechanisms,which include inducing the exhaustion of tumor infiltrating T lymphocytes,stimulating secretion of immune repressive cytokines into the tumor microenvironment,stimulating repressive regulatory T cell function,and protecting PD-L1-expressing tumor cells from lysis by tumor cell specific cytotoxic Tcells [11-13].Modulation of the immune responses involved in immune-mediated disorders can be accomplished by manipulating the PD-1/PD-L1 pathway [14]. Therefore, inhibition of the interaction between PD-1and PD-L1 can enhance T-cell responses and mediate preclinical antitumor activity. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PD-1/PD-L1 interaction is considered a negative regulator of T-cell effector mechanisms,and this interaction limits the immune responses against cancer[15,16].Monoclonal antibodies （mAbs） that antagonize either PD-1 or PD-L1 are currently in various stages of development for cancer treatment,in which recent human trials showed promising results in advanced, treatment-refractory diseases [17,18]. Remarkable results observed in clinical trials made the US Food and Drug Administration approve the use of pembrolizumab and nivolumab (both antiPD-1 antibodies） to treat advanced melanoma in late 2o14 and to treat non-small cell lung carcinoma in 2015[16].Anti-PD-L1 mAbs, MEDI4736,and MPDL3280A are in the late-stage multicenter clinical trial studies for different types of advanced cancers,such as melanoma, non-small cell lung carcinoma,renal cell carcinoma,and ovarian cancer [19-21].They have promoted durable tumor regression and prolonged stabilization of disease in patients [14].Based on these observations, anti-PD-L1 antibodies can be used therapeutically to enhance antitumor immune responses in cancer patients. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Yeast surface display isa powerful tool forantibody screening and further improvement onaffinity,specificity,and stability [22].Antibodies of interest are expressed on yeast surface,and its protein properties, such as stability and affinity,can be quantitatively measured by using fluorescently labeled reagents and flow cytometry [23].The method for isolation of novel antibodies against specific antigens from a nonimmune human antibody library is well established.In the present study,we developed three novel fully human IgG1 anti-PD-L1 mAbs (BI61-62,B60-55,and B50-6) by yeast surface display.The mAb B60- 55 exhibited specific binding to PD-L1 witha higher affinity than the othertwo mAbs.Inaddition,mAb B6O-55 could enhanceT cell activation by blocking PD1 binding to PD-L1 and exhibited strong antitumor effects in preclinical models. Our study showed that B6O-55 isa potent antagonist of PD-L1 with significant antitumor activity in mouse models,and itisa candidate for clinical trials. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Animals ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Six- to eight-week-old female inbred C57BL/6 or NOD/SCID mice were obtained from the Experimental Animal Centre of Chinese Academy of Science (Shanghai, China) and housed in a specific pathogen-free room under controlled temperature and humidity.This study was performed in strict accordance with the recommendations provided in the Guide for the Care and Use of Medical Laboratory Animals (Ministry of Health,People's Republic of China,1998).The protocols for mouse studies and pharmacokinetic (PK) study in cynomolgus monkey were approved by the local ethics committee. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Cell lines and reagents ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Adherent human embryonic kidney HEK293 cells (Invitrogen R79007),murine colon cancer cell line MC38 (ATcC),and human melanoma cell line A375 (ATCC,CRL-1619TM),or A375 stable cell line highly expressing PD-L1（prepared in house) were grown in DMEM medium supplemented with $1 0 \\%$ （20 $\\left( \\mathbf { v } / \\mathbf { v } \\right)$ fetal bovine serum (FBS),1oO units/ml penicillin,and $1 0 0 ~ { \\mu \\mathrm { g / m l } }$ streptomycin (Gibco Invitrogen).HEK293 cells that express human PD-L1 (hPD-L1 cells),human PD-1(hPD-1 cells),and murine PD-L1 (mPD-L1 cells)were generated in our laboratory and maintained with RPMI 164O culture medium containing $1 0 \\%$ FBS,100 units/ml penicillin,and $1 0 0 \\mu \\mathrm { g / m l }$ streptomycin.Yeast strain EBY100(GAL1-AGA1::URA3 ura3-52 trp1 leu21 his3200 pep4:HIS2 prb11.6R can1 GAL) was maintained in YPD broth (Difco). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.Expression protein of hPD-L1 or hPD-1 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DNA encoding residues 19-238 (hPD-L1) and 21-170 （hPD-1) were fused to human Fc fragment by overlapping PCR.The overlapping PCR product were cloned into a pcDNA3.1 expression vector and used for transfection and protein expression.hPD-L1-Fc and hPD-1-Fc fusion proteins were secreted in the media by transfecting HEK293 cells as described elsewhere [24] and were purified by Protein Aafinity chromatography (GE Healthcare).The homogeneityand purity of the protein preparations Were verified by SDS-PAGE and SEC-HPLC.Protein concentrations were measured by A28O assay.hPD-L1-Fc or hPD-1-Fc fusion protein was labeled with biotin by standard protocol. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4. Library construction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Total RNA was isolated from peripheral blood mononuclear cells (PBMCs) of 15O healthy donors and reverse transcribed into cDNA by using transcriptor first-strand cDNA synthesis kit (Thermo).The HulgG,HulgM,Huk forward,and Hu> forward primers that were used for the gene-specific cDNA synthesis were based on Marks et al.[25]. The scFv yeast display vector pDFYD was generated from the vector pCT302(Addgene).A BssHlI cloning site was inserted at the 6029 bp site of the pCT3O2 byusing the QuikChange Multi Site-Directed Mutagenesis Kit (Stratagene).21-amino-acid linker ( $5 ^ { \\prime }$ -CCATGGGGATCCGG TGGTGGTGGTTCTGGTGGTGGTGGTTCTGGTGGTGGTGGTTCTGTCGAC3')was insertedat the 5603 bp site of the pCT302 by overlap PCR.The primers were based on the method previously described [26] with slight modifications. Certain sequences were added to the $5 ^ { \\prime }$ end of the forward primersand $5 ^ { \\prime }$ end of the reverse primers ( $5 ^ { \\prime }$ -GCCGGCTAGC $. 3 ^ { \\prime }$ for VH forward primers)，( $5 ^ { \\prime }$ -GCCGCCATGG $. 3 ^ { \\prime }$ for all VH reverse primers),( $5 ^ { \\prime }$ -GCCGGTCGAC- $3 ^ { \\prime }$ for all forward $\\mathsf { V } \\mathsf { \\Lambda }$ and Vk primers),and 0 $5 ^ { \\prime }$ -GCCGGCGCGC $3 ^ { \\prime }$ for all reverse $\\mathsf { V } \\mathsf { \\Lambda }$ and Vk primers) to allow cloning into pDFYD vector. Kappa and lambda light-chain genes were gel purified with the QIAquick Gel Extraction Kit (Qiagen),pooled in an equal ratio,digested with the restriction enzymes BssHII and Sall,and ligated into the vector pDFYD.After ethanolic precipitation, the ligation mixture was used to transform Escherichia coli strain byusing Electro-Ten Blue (Stratagene). pDFYD plasmid DNA that contained the light-chain genes was isolated by usinga Maxiprep kit(Qiagen）and digested with the restriction enzymes NheI and NcoI for ligation of the heavychain genes.The libraries were then linearized with BssHIl,ethanol precipitated,and used to transform the yeast strain EBY1oO byusing the high-efficiency lithiumacetate method.The size of the scFv libraries were approximately $1 \\times 1 0 ^ { 8 }$ ,which was estimated by standard plate count method.To increase antibody affinity,scFv sequence was randomly mutated by using error-prone PCR as previously described [27]. The error prone PCR products were ligated to pDFYD plasmid,and the library was constructed as described above. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.5.Screening of mAb anti-hPD-L1 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Theyeast librarywith tenfold diversitywas thawed,grown in SDCAA media for $2 4 \\mathrm { h }$ at $3 0 ~ ^ { \\circ } \\mathrm { C } ,$ and then cultured in SG-CAA for $3 6 \\mathrm { h }$ at $2 0 ^ { \\circ } \\mathsf C$ in volumes appropriate for the library size. Sequential magnetic bead enrichment and flow-cytometric sorting strategy were developed to isolate antigen-specific scFvs from the full library.One hundred nanomolars PD-L1-Biotin and SA-Beads were used for the first round of magnetic selection,and one-hundred nanomolars PD-L1-Biotin and anti-Biotin-Beads were used for the second round of selection.The following two rounds of sorting were performed by using flow cytometry to sort out PD-L1 Fc antigen positive and myc positive cells,which indicate that complete antibody expression on yeast can bind target antigen.After the final round,yeasts were placed on SD-CAA plates and individual colonies were picked up for characterization.Thousands of single yeast colonies were screened by high throughput flow cytometry analysis,with PD-1-Fc-biotin protein as the negative control. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.6.Expression and purification of antibodies ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The scFv-coding genes from the identified yeast clone were overlapped with human Fc and then cloned into expression vector pcDNA3.1 by using Nhel and NotI for scFv-Fc expression.To produce full length mAbs,the VH gene were cloned from the identified yeast clone and overlapped with the human IgG1 C-region gene containing three mutations to get rid of ADCC and CDC function.The VL genes were cloned from the identified yeast clone and overlapped with the human kappa or lambda C-region gene.The overlapped fragments were further cloned into pcDNA3.1 vector by using Nhel and NotI separately. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The scFv-Fc fusion protein or fully mAb IgG protein were secreted in the media by transfected HEK293 cells as described previously,and purified byProtein Aaffinitychromatography(GEHealthcare).The homogeneityand purity of the protein preparations were verified by sodium dodecyl sulfate-polyacrylamide gel electrophoresis (SDS-PAGE),capillaryelectrophoresis-sodium dodecyl sulfate(CE-SDS）and size exclusion chromatography-high-performance liquid chromatography (SEC-HPLC).Protein concentrations were measured by A280 assay. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.7.ELISA binding assay of mAbs to hPD-L1 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ELISA plates (Costar)were coated with hPD-L1-muFc at $2 \\mu \\mathrm { g } / \\mathrm { m l }$ dissolved in buffer ( $5 0 ~ \\mathrm { m M }$ $\\Nu { \\sf a } _ { 2 } \\mathrm { C O } _ { 3 } / \\Nu { \\sf a H C O } _ { 3 }$ $\\mathsf { p H 9 . 6 }$ ),overnightat $4 ^ { \\circ } \\mathsf C$ 4号 After the plates were washed three times with PBST(pH7.4) containing $0 . 0 5 \\% \\mathrm { ( v / v ) }$ Tween-20 and blocked with $3 \\%$ BSA in PBS for $^ { 1 \\mathrm { h } }$ ,the antibodies B50-6,B6O-55,and Bl61-62 with serial dilutions were added and incubated for $2 \\mathfrak { h }$ at $3 7 ^ { \\circ } \\mathrm { C } .$ Binding was detected with the horseradish peroxidase (HRP)-conjugated goat anti-human IgG (Southern Biotech)，which was developed using tetramethylbenzidine(TMB) substrate(eBioscience, San Diego,CA) and stopped by $2 \\ N \\ H _ { 2 } S O _ { 4 }$ .The absorbance at $4 5 0 { \\mathrm { - } } 6 5 0 \\ \\mathrm { n m }$ was detected in a Molecular Devices SpectraMax Plus-384 microplate reader.The concentration was determined byusing SoftMaxPro 5.4 software. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.8.Surface plasmon resonance ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Kinetic interactions between PD-L1 and anti-PDL1 antibodies were evaluated at $2 5 ~ ^ { \\circ } C$ by surface plasmon resonance(SPR,BIAcore X100),and affinity analysis of the anti-PD-L1 antibodies was performed according to manufacturer instructions.Recombinant hPD-L1-hFc protein was immobilized on a research-grade CM5 sensor chip by using the Amine Coupling kit to get 1ooO resonance units.PD-L1 antibodies $( 1 . 3 7 - 1 0 0 0 \\mathrm { n M } )$ )were injected over the antigen surface,and the antibodybindingkinetic variables,includingKon,Koff,and $K _ { \\mathrm { D } }$ ,weredetermined using the BIAcore Evaluation Software version 3.2. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.9.Binding analysis of mAb ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The plasmids pCDNA3.1-hPD-L1-EGFP,pCDNA3.1-hB7H3-EGFP, pCDNA3.1-hPD-L2-EGFP,and pCDNA3.1-mPD-L1-EGFP were constructed and transiently transfected into HEK293 cells separately.The target protein,such as hPD-L1,was expressed on the cell surface with simultaneous EGFP expression.Cells were harvested and incubated with antihPD-L1 mAb $( 1 \\mu \\mathrm { g / m l } )$ or hIgG Fc as a negative control.PE-conjugated anti-hIgG Fc (eBioscience)was used as secondary antibody.Data were acquired on the Guava EasyCyte 8HT flow cytometer(Millipore) instrument by using CytoSoft software (version 2.2). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.10.Competitive and sandwich ELISA ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ELISA plate (Costar) was coated with hPD-L1 Fc protein $( 5 \\mu \\mathrm { g } / \\mathrm { m l } )$ （204 overnight at $4 ^ { \\circ } \\mathsf C .$ After plate washing and blockingas previously described,serially diluted anti-hPD-L1 mAbs were applied to the ELISA plate containing hPD-1-hIgG-biotin( $( 1 0 \\mu \\mathrm { g / m l } )$ ,and incubated for $^ { 2 \\mathrm { h } }$ at $3 7 ^ { \\circ } \\mathrm { C }$ Afterwashing with PBST,HRP-conjugated Streptavidin(dilution1:1ooO in PBST/BSA;Sigma Aldrich) was added and incubated for $^ { 1 \\mathrm { h } }$ The following steps are as described in Section 2.7. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.11.Mixed lymphocytereaction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PBMCs were obtained by Ficoll-Hypaque density gradient centrifuge from heparinized peripheral blood samples of the healthy donors.The cells were resuspended and cultured for $^ { 2 \\mathrm { ~ h ~ } }$ in $1 0 \\ \\mathrm { c m }$ tissue culture plates,in a final volume of $5 ~ \\mathrm { m l }$ of RPMI 1640 supplemented with $2 \\mathrm { m M L }$ -glutamine,10o units $\\mathrm { \\langle m l }$ penicillin,and $1 0 0 \\mu \\mathrm { g / m l }$ streptomycin (Gibco Invitrogen, Carlsbad, CA).The adherent cells were continued to culture in RPMI 1640 medium(Gibco,USA) supplemented with $10 \\%$ heat-inactivated FBS（Gibco，USA）in the presence of GM-CSF （204号 $( 2 5 0 ~ \\mathrm { \\ n g / m l } )$ and IL-4 $\\mathrm { { ' } 1 0 0 n g / m l } )$ .The cultured medium was replenished by half the amount every 2-3 days.On the sixth day, $5 0 ~ \\mathrm { { n g / m l } }$ of TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { \\alpha } \\propto$ (PrimeGene Bio-Tech,Shanghai) was added to the culture medium and incubated for another $2 4 \\mathrm { ~ h ~ }$ to induce cell maturation.Mature dendritic cells were harvested,confirmed to be HLA-DR positive and PD-L1 positive by flow cytometry (Fig.4C-D) and dispersed in $9 6 \\mathrm { U }$ bottom plate(Costar 3799) at $1 \\times 1 0 ^ { 4 }$ cells per well. CD4 T cells were purified $( > 9 5 \\%$ purity） from allogeneic PBMCs bymagnetic beads enrichment ( $\\mathrm { \\Delta C D 4 ^ { + } }$ T cell isolation kit,MACS beads; Miltenyi Biotec）according to the handbook.The CD4 T cells were added to the $9 6 ~ \\mathrm { ~ U ~ }$ bottom hole（Costar 3799）containing DC at 10-20:1 ratio in the presence of anti-PD-L1 antibody or isotype control antibody.The cells were incubated for five days.The supernatant was collected，and thelevelsofIFN- $\\boldsymbol { \\cdot } \\boldsymbol { \\gamma }$ were evaluated by ELISA kit (eBioscience) according to the manufacturer instructions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.12.In vivo studies ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To evaluate the antitumor effect of mAb B5O-6 in vivo,a syngenic mouse colon cancer model was prepared by inoculating MC38 cells subcutaneously into the right flank of C57BL/6 mice (6-12 weeks old).Antibodies or isotype control antibody as negative control was administered intraperitoneally at the same day of tumor inoculation (day O) and on days 3,7,and 1o.Tumor volumes were measured along three orthogonal axes(a,b,and c)and calculated as tumor vol${ \\mathrm { u m e } } = \\left( { \\mathrm { a b c } } \\right) / 2$ 业 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Axenograft tumor model was established to evaluate B6O-55 and BI61-62. NOD-SCID mice were inoculated subcutaneously with human melanoma cells A375 $( 5 \\times 1 0 ^ { 6 } )$ mixed with allogenic PBMCs $( 1 \\times 1 0 ^ { 6 } )$ on the right flank.The mice were treated intraperitoneally with mAb B60-55,mAb Bl61-62,or isotype control antibody weekly from the day of inoculation (day O) fora total of 4doses.Tumor volumes weremonitoredtwiceweeklyasdescribedabove. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.13.Pharmacokinetics of anti-PD-L1 mAb in cynomolgus macaques ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In a single-dose PK pilot study,cynomolgus monkey(Macaca fascicularis）received i.v. injection of anti-PD-L1 mAb B6O-55 at $6 ~ \\mathrm { m g / k g }$ .Anti-PD-L1 mAb serum concentrations were determined by ELISA with PD-L1 muFc protein as capture antibody and anti-human Ig-HRP as detectingantibody.The optical densities(OD)of a set of anti-PD-L1 mAb concentration standards were determined and used to plot an OD versus concentration standard curve that was analyzed by four-parameter curve fit.Anti-PD-L1 mAb serum concentrations werecalculated from the standard curve byusing SOFTmax $\\textcircled { \\mathbb { R } }$ PRO software(version 5.4;Molecular Devices).The PK parameters were analyzedbyusingWinNonlin.Anti-drugantibody（ADA）in the serum were detected by bridging Elisa with $\\mathsf { B 6 0 - } 5 5 \\mathrm { \\ m A b }$ as capture Antigen, and B60-55-Biotin as detection Antigen. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.14. Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Statistical analyses were performed by using GraphPad Prism version 5.O1 software (San Diego, CA).Data are expressed as means $\\pm$ SEM of three independent experiments.Two group comparisons were performed by using unpaired Student's t-test. Multiple group comparisons were performed by one-way ANOVA followed by Dunnett's t-test. The statistical significance level was set as $ { ^ * }  { \\mathtt { p } } < 0 . 0 5$ $^ { * * } \\mathfrak { p } < 0 . 0 1$ ,and $^ { * * * } \\mathrm { p } < 0 . 0 0 1$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.Results ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.Characterization of anti-PD-L1 mAbs ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Yeast surface display ofantibody libraries isan easyand efficient way to get novel fully humanantibodies,which can be further developed into therapeutic reagent and has been increasingly used more recently [28].A non-immunized human scFv library was constructed and screened with PD-L1 Fc proteins to develop novel mAbs targeting hPDL1 with antagonistic activities for tumor immune therapy.Three novel ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ScFvs,Bl61-62,B60-55,and B50-6,were selected from the library with good binding and antagonist properties to PD-L1antigen,they were further constructed to be expressed as mAbs (mutated IgG1).A series of characteristicsof themAbswere evaluated.As shown in Table1,the binding kinetics of Bl61-62,B60-55,and B50-6 to PD-L1 were determined at $2 5 ^ { \\circ } \\mathrm { C }$ by SPR technique through flowing antibodies over PDL1immobilized surface.mAb B6O-55 showed the highest affinity with the dissociation constant $( K _ { \\mathrm { D } } )$ of $1 . 7 2 \\mathrm { E } - 1 0 \\$ (M) compared with mAb BII61-62 or mAb B50-6 (Table 1).Therefore,mAb B60-55 was given more attention in the following studies. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "mAb B6O-55 was purified from the HEK293 cells transient transfection culture supernatant by using standard protein A chromatography. The protein was in correctly assembled form that was assessed by reducing and non-reducing SDS-PAGE analyses.In the presence of $\\beta$ mercaptoethanol,the homodimeric B6O-55 band was separated as heavy chainand lightchain thatmigrated as ${ \\sim } 5 0 \\mathrm { k D a }$ and ${ \\sim } 2 5 \\mathrm { k D a }$ ,respectively(Fig.1A,lane1).Moreover,the purityof the B6O-55 protein determined by SEC-HPLC or CE exceeds $9 9 \\%$ (Fig.1B and C). These results indicated that anti-PD-L1 mAb B6O-55 has a good purity and integrity. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.mAb B60-55 binds Specifically to PD-L1. ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To further confirm whether mAb B6O-55 bound specifically to hPDL1,ELISA and flow cytometry method were performed.mAb B6O-55 exhibited a strong binding with PD-L1 protein $( \\mathrm { E C } 5 0 = 4 0 . 7 0 \\mathrm { n g / m l } )$ by ELISA(Fig.2A).The mean fluorescence intensity(MFI) determined by flow cytometry analysis demonstrated that mAb B6o-55 could significantly bind to cell-surface-expressed PD-L1 on PD-L1-expressing HEK293 cells compared with PD-L1-negative cells (Fig.2B).Meanwhile, mAb B6O-55 could not bind to the other proteins in the same family, such as B7-H3 or PD-L2,(Fig.2C and D). In addition,cross reactivity of mAb B6O-55 to mouse or cynomolgus macaques PD-L1 (cPD-L1) was checked.No significant difference was observed between mPD-L1 positive cells and negative cells,which indicates that B6O-55 had no cross-reactive binding to mPD-L1（Fig.2E）but had a cross-reactive binding to cPD-L1(Fig.2F).The original flow cytometry graphs for Fig. 2B-F were shown in Supplementary Fig.1.Collectively, the above results demonstrated that anti-PD-L1 mAb B6O-55 could specifically bind to human or cynomolgus macaques PD-L1 with no cross-reactive binding to mouse PD-L1. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.B60-55 mAb competitively bind to PD-L1 with PD1or CD80 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A potential therapeutic PD-L1 antibody should be an antagonist, which can interfere the binding of PD-L1 and PD-1, thus blocking the inhibitory signals for tumor specific CTLs.To evaluate whether mAb B60- 55 is an antagonistic antibody,we performed ELISA to determine whether mAb B60-55 could compete with PD-1 to bind hPD-L1.In the data shown in the PD-1/PD-L1 binding system (Fig.3A),B6O-55 showed a competitive binding ability with $1 0 \\mu \\mathrm { g / m l }$ PD-1 dose dependently, with IC50 around $5 3 0 ~ \\mathrm { n g / m l }$ ； the competitive ability was similar to the PD-L1 antibody MEDI4736 (MedImmune） that was developed at phase II clinical trial stage [29]. By contrast, because PD-L1 has another receptor CD8O,their interaction had also been reported to induce inhibitory signals [30,31].The binding site of PD-L1 to PD-1 or to CD80 is reported to be non-overlapping.Therefore, $\\mathsf { B 6 0 - } 5 5 \\mathrm { \\ m A b }$ was further evaluated foritsability to block hCD8O-PD-L1 binding. Italso exhibited strong competitive binding in CD8O/PD-L1 interaction (Fig.3B).These results indicated that mAb B6O-55 was an antagonistic antibody, which holds potential to enhance T cell activity. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b4a72428ab06cdbba22db3424ade91e6127607430340fe77d208e41542b359d2.jpg",
+        "table_caption": [
+            "Table 1 Kinetic interactions of mAbs with PD-L1 determined by SPR analyses. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>mAbs</td><td>Kon (1/Ms)</td><td>Koff (1/s)</td><td>KD (M)</td></tr><tr><td>B50-6</td><td>1.67E+5</td><td>1.37E-2</td><td>8.19E-8</td></tr><tr><td>BII61-62</td><td>9.80E+4</td><td>4.26E-4</td><td>4.35E-9</td></tr><tr><td>B60-55</td><td>1.30E+6</td><td>2.22E-4</td><td>1.72E-10</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4.Activation effects of anti-PD-L1 mAbs on Tcells ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To determine whether mAb B60-55 could stimulate T lymphocyte activation,PBMCs were isolated from healthy donors and activated by anti-CD3 and anti-CD28 in the presence of $\\mathsf { B 6 0 - } 5 5 \\mathrm { m A b }$ or isotype control.The release of IFN- $\\cdot \\gamma$ was remarkably increased in the culture supernatant of B6O-55-treated PBMCs compared with isotype control-treated PBMCs (Fig.4A).PBMC cell proliferation was also observed to be higher in the B6O-55-treated group.Studies have reported that anti-PD-L1 antagonist can efficiently activate $\\mathsf { C D 4 } ^ { + }$ or $\\mathsf { C D 8 } ^ { + }$ T cells to secrete $\\textstyle \\operatorname { I F N - } \\gamma$ [32,33].Besides,no activity was observed for B6O-55 on freshly isolated PBMC cells in the absence of anti-CD3 (data not shown),which indicate that IFN-yupregulation induced by B6O-55 is fromTcell rather than NK cells. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To confirm the activity of B6O-55 in a more physiological setting,a mixed lymphocyte reaction (MLR) wasused by mixing matured dendritic cells with $\\mathtt { C D 4 } ^ { + }$ T cells from different donor to induce an allogenic Tcell activation.The PD-L1 and HLA-DR expression on matured dendritic cells were as shown in Fig.4C and Fig.4D.In this process,serially diluted B6O-55mAb or isotype control antibody wasadded,and the levels of IFN- $\\cdot \\gamma$ were analyzed by ELISA after five days.Compared with the cells treated with isotype control Ab,B6O-55-treated cells showed significantly increased IFN- $\\cdot \\gamma$ levels ina concentration-dependent manner (Fig.4B).These results demonstrated that mAb B60-55 possessed the ability to stimulate Tcell activation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "What needed to be noted is that the level of interferon-gamma release in the PBMC activation system was found to be significantly higher than that released from MLR studies,that is because that PBMC assay and MLR study are completely different assay system,the immune activation mechanism and activation status are distinct.In the PBMC system,all the T cells were supposed to be activated by the first signal (anti-CD3 antibody） together with the second signal (anti-CD28), while in the MLR system,the antigen specific response were evoked byallogenic antigen from dendritic cells.So the activation levels in the MLR system were supposed to be much lower. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.5.Anti-PD-L1mAbs inhibit tumor growth in vivo ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Among the three novel PD-L1 antibodies,B6O-55 and BlI61-62 did not cross-react with mouse PD-L1,while the effect of PD-L1 antagonist antibody largely depends on immune activation, thus,to evaluate the anti-tumor effect of individual anti-PD-L1 mAbs,we chose a human melanoma xenograft mouse model by co-inoculating human melanoma A375 cells with allogenic PBMCs into NOD/SCID mice.The A375 xenograft mouse model was developed according to the in vivo mouse models used for MEDl4736 with certain modifications [34]. In this mouse model,T cells from PBMCs reacted with the allogenic tumor cells and immune responses were induced to attack tumor cells.During Tcell activation,PD-1 upregulated,while tumor cells were PD-L1 highly positive A375 stable cell line and The PD-L1 expression was shown in Fig.5C.Therefore,the PD-L1/PD-1 pathway will inhibit anti-tumor response and provide a window to test the in vivo function of PD-1 or PD-L1 antagonist antibodies.Mice were injected s.c.with A375/PBMC mixed cells at 5:1 ratio and administered with $1 0 0 ~ \\mu \\mathrm { l }$ of Abs at $3 \\mathrm { m g / k g }$ intraperitoneally on the same day.The Abs include anti-PDL1 mAbs,isotype control Ab,or MEDI4736 as the positive control. This administration was repeated administered once weeklyuntil day 28 of the study.As shown in Fig.5A,compared with animals in control group,Bl61-62 or B6O-55 treatment significantly inhibited tumor growth which is even better than MEDI4736 $( \\mathsf { P } < 0 . 0 5 )$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Since ${ \\mathsf { B } } 5 0 { \\mathrm { - } } 6 { \\mathrm { m } } { \\mathrm { A b } }$ can cross-react with mouse PD-L1 and has overlap epitope as B6O-55,it is used as a surrogate molecule in mouse syngenic model for B6O-55.To evaluate the in vivo antitumor effect of B50-6 mAbs,we used a colon carcinoma syngenic mouse model. C57BL/6 mice were inoculated s.c.with MC38 cells which naturally expressing PDL-1 on the surface(data not shown）on day O and subsequently injected i.p.with $1 0 0 \\mu \\mathrm { l }$ of mAb B50-6 ( $1 0 \\mathrm { m g / k g ) }$ or isotype ctrl Ab on days O,3,7,and 10.The tumor growth was significantly inhibited in $\\mathsf { B 5 0 - 6 } \\mathrm { \\ m A b }$ -treated group compared with the isotype controltreated group (Fig.5B).Collectively, these results indicated that mAb BI61-62, B6O-55,and B5O-6 possess good antitumor activity in vivo. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/aa33bad63897fb07ddd6bee111244724b96795a53ad2f23f0f82e86490722e2f.jpg",
+        "img_caption": [
+            "i Lane3 showed BSA sample.One micrograms of total protein was loaded per lane.The samples were separated by using $1 0 \\%$ gradient PAGE gels and stained with Coomasse Blue. (B) Analysis of purified mAb B60-55 at $1 \\mathrm { m g / m l }$ by SEC-HPLC.(C) The mAb B60-55 was analyzed by using reducing CE-SDS. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.6.Pharmacokinetics of B60-55 mAb in cynomolgus monkey ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A pilot PK study was performed by single i.v.administration of B60- $5 5 ~ \\mathrm { { m A b } }$ to cynomolgus monkey ( $\\mathbf { \\dot { n } } = 1$ at $6 \\mathrm { m g / k g }$ The monkey well tolerated the treatment and had no effects on its body weight or clinical observations.Mean concentrations declined ina multiphasic manner from $\\mathrm { C } _ { \\mathrm { m a x } } ,$ which was observed within $0 . 5 \\mathrm { h }$ at the dose. Serum PK parameter estimates are shown in Table 2.Mean apparent terminal elimination half-life estimates for cynomolgus monkey at $6 ~ \\mathrm { m g / k g }$ was $1 7 7 . 9 \\mathrm { h } .$ B60-55 in the serum are undetectable after day 17 strongly indicate the induction of ADA,which had substantial impact on PK assessment [i.e.,mean retention time (MRT),total clearance(CLT),and steady state volume of distribution $\\left( \\mathsf { V } _ { s s } \\right) ^ { \\ }$ J.The ADA assay show that the AntiB60-55 antibodiesare detectable by the day 24(Fig.6B),These characters are similar to other late stage PD-1 or PD-L1 antagonist antibodies, to some extent owing to their immune activation properties,for example, $78 \\%$ of cynomolgus monkey were ADA positive aftera single dose of nivolumab injection (BMS,anti-PD-1) as indicated in the pharmacology review of FDA application file package.Generally, B6O-55 mAb had a relatively slow clearance with limited extra vascular distribution. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/72a6c69cfa48c5fd8bbe0f0e8427598c715c061d709d3fb9a82aa6b056e3b0b0.jpg",
+        "img_caption": [
+            "F hB7H3(C),andh-L(D),mPD-L(E),cPD-L(F)proteinexpresinginEK293cellscomparedwithHEK293cellee tertainproteins;The datashownasstatisticalanalysisof the mean fluorescence intensity in various group.Data are from three performed experiments and presented as the mean $\\pm \\mathsf { S E M }$ $\\mathfrak { k } \\mathfrak { k } \\mathfrak { k } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\lambda } _ { \\mathbf { \\lambda } } _ { \\mathbf { \\lambda } } _ { \\lambda \\mathbf { \\lambda } } _ { \\lambda } _ { \\mathbf { \\lambda \\lambda } } _ { \\lambda } _ { \\lambda \\mathbf { \\lambda } } _ { \\lambda \\mathbf { \\lambda } } _ { \\lambda \\lambda } _ { \\lambda \\mathbf { \\lambda } } _ { \\lambda \\lambda } _ { \\lambda \\lambda } _ { \\lambda \\lambda } _ { \\lambda \\lambda \\lambda } _ { \\lambda \\lambda \\lambda } _ { \\lambda \\lambda \\lambda \\lambda \\lambda } _  \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\lambda \\$ ,ns, no significant. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/116e1c6d95ba60888fed39ad0b4ed97c3f184ce637af68aa90d72b32a195622d.jpg",
+        "img_caption": [
+            "Fig presence of certain amount of PD1 (A) or CD80 (B). "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7cf7c1f30a79ed81aec74a692c3e3f44a290697f789b517bbf63578dbc70b428.jpg",
+        "img_caption": [
+            "tissue culture platesat $2 \\times 1 0 ^ { 5 }$ cells/well activated by anti-CD3 $( 1 \\mu \\mathrm { g / m l } )$ and anti-CD28 $( 0 . 2 \\mu \\mathrm { g } / \\mathrm { m l } )$ in the presence of $2 \\mu \\mathrm { g } / \\mathrm { m l }$ mAb B60-55 or isotype control antibody.Plates were cultured a $3 7 ^ { \\circ } C$ in a humidified incubator with $5 \\% \\mathrm { C O } _ { 2 }$ for five days.The levels of IFN $\\cdot \\gamma$ were measured by ELISA assay. (B)Anti-PD-L1 mAb B6O-55 enhanced the activation of $\\mathrm { C D 4 ^ { + } }$ T cells in a dendriticell-cellmiedlmpocyeseC50ob55foryvelsonendricell-Tellmiedlympoctesss $0 . 1 8 9 \\mu \\mathrm { g / m l }$ (C-D) The expression of PDL1 and ADrilt $\\pm$ SEM. $\\ast _ { \\mathrm { p } < 0 . 0 5 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/af0b0a94815011dfd1f63642145eaec6268ac7b3b112c48915d700da22627fe0.jpg",
+        "img_caption": [
+            "Fi with anti-PD-L1 antibodies (BII 61-62,B6O-55and MEDI4736)or isotype control was initiated on day 0at $3 \\mathrm { m g / k g }$ ,and continued with another 3 doses once per week by i.p.injection. () 3,7,and10 at $1 0 \\mathrm { m g / k g }$ Each group had 6-8 mice.Tumor growth was measured and compared twice weekly. $^ { * } \\mathtt { p } < 0 . 0 5$ compared with control group.Mean $\\pm$ SEM values are shown. Error bars indicateSMOnerepresentativeexpermentofthreeisdepicted.（C)Teexpressoofon75weredetectedbyfowcometr "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4. Discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Inhibitory Tcell signaling restricts the ability of a host to generate productive immune responses against cancer [35].One of the costimulatory ligand,PD-L1,has been identified as a negative regulator of antitumor Tcell-mediated immunity [36].PD-L1 is commonly upregulated in many different types of tumor cells and tumor infiltrating lymphocytes;it createsan important rationale for antibody blockade of this pathway for cancer immunotherapy,as validated by multiple murine tumor studies,as well as clinical studies [37,38]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Currently,mAbs have proven their usefulness for a wide spectrum of research,diagnostic,and therapeutic applications [39].In the present study,we have isolated a panel of fully humananti-PD-L1 antibodies (BI61-62,B6O-55,and B5O-6) by yeast surface display and selected mAb B6O-55 that bind to cell-surface-expressed PD-L1 with high affinity. It specifically binds to hPD-L1 or cynomolgus macaques PD-L1.B60- 55 cannot cross react with murine PD-L1.However,competitive ELISA demonstrated that B6O-55 can block the interaction between PD-L1 and both of the known cognate receptors (PD1 or CD8O).In addition, it is an IgG1 isotype mAb,but the potential for Fc-mediated effector function was removed from B6o-55 by engineering the constant domain to include3 point mutations which is identical to the Fc mutations in the MEDI4736,in which the ADCC and CDC activity have been confirmed to be depleted [34].Therefore,B6O-55 was an antagonistic mAb without antibody-dependent cell-mediated cytotoxicity (ADCC) and complement dependent cytotoxicity(CDC) that had a potential to be therapeutic antibody drugs for cancer treatment. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Recent studydemonstrated thatPD-L1 on APCsisa critical negative regulatorof $\\mathtt { C D 4 } ^ { + }$ T cell responses [4O,41].To test whether this inhibition that resulted in antagonism of PD-L1 function,PBMC activation and MLR assays were conducted.B6O-55 could overcome the inhibitory effects of PD-L1 and promote IFN- $\\cdot \\gamma$ production during the activation of naive $\\mathrm { C D 4 ^ { + } }$ T cells in the reaction with PD-L1 positive allogenic mature dendritic cells.Therefore,the antagonistic activity of B6O-55 during T cell activation was proved in vitro. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/f79b359b5d7541b3a3cbe18eccb87772e8d724fe8b1d21149523d44ef277ccd3.jpg",
+        "table_caption": [
+            "Table 2 Serum PK parameter estimates for B6O-55 following single i.v.administration to Cyno monkey. "
+        ],
+        "table_footnote": [
+            "Abbreviations: CLT,total clearance; MRT,mean retention time; Vss,steady state volume of distribution. "
+        ],
+        "table_body": "<html><body><table><tr><td>Gender</td><td>Dose</td><td>t1/2</td><td>Tmax</td><td>Cmax</td><td>AUC(0-t)</td><td>AUC(0-00)</td><td>Vss</td><td>CLTs</td><td>MRT(0-00)</td></tr><tr><td></td><td>mg/kg</td><td>(h)</td><td>(h)</td><td>(μg/ml)</td><td>(ug/ml*h)</td><td>(ug/ml*h)</td><td>(ml/kg)</td><td>（ml/h/kg)</td><td>(h)</td></tr><tr><td>Male</td><td>6</td><td>177.9</td><td>0</td><td>220.1</td><td>13,162.4</td><td>26,209.6</td><td>58.7</td><td>0.2</td><td>70.1</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b78a39d53eaf05e860bbc9a7c8531e4b47cd19d4ccfea192fae48be1527d9d07.jpg",
+        "img_caption": [
+            "Fig.6.PreliminaryPK study in cynomolgus monkey.(A)The B6O-55 mAb serum concentration versus time profiles for $6 \\mathrm { m g / k g }$ doses in one male cynomolgus monkey.(B) The Anti-B60 55 antibodies are detected by bridging ELISA assay. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To evaluate the therapeutic effects of the three anti-PD-L1 mAb BII61-62,B6O-55,and B5O-6 against tumor growth in vivo,we generated two murine tumor models.These models includea human A375/ PBMC mixed-cell-derived NOD/SCID mouse model to evaluate mAb BI61-62 and B6O-55,both of them did not cross-react with mouse PD-L1; the other one was MC38-derived C57BL/6 mouse model to evaluate mAb B5O-6.In this study,we investigated the roles of mAb BIl61- 62,B60-55,and B5O-6 in inhibiting tumor growth by using these models.The mAb Bl61-62 or B60-55 showed significant suppression of tumor volume on day 42 after A375/PBMC mixed cell inoculation in NOD/SCID mice.In MC38-derived tumor model, mAb B50-6 was administered into mice with a dose of 10 mg/kg,43 days after MC38 cell inoculation,and the tumor growth was effciently inhibited in C57BL/6 mice. A prospected sensitive dose of Abs was used in each model according to the properties of the models.Moreover,the mice treated with the antibodies did not show any obvious side effects.In addition,the pilot PK data in cynomolgus macaques provided a favorable preclinical characterization of B6O-55 for future human clinical trials in cancer therapy. Even though ADA is observed in a single dose cynomolgus monkey PK study,this does not indicate such an antibody will not have good performance in a potential multi-dose therapeutic use. On one hand, the performance of a drug in non-human primate can't be directly transfer to human. On the other hand,Our antibody is a fully human antibody, the immunogenicity is different between monkey and human. So what the performance in human will be need to be further investigated in clinical trials. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Collectively,our results demonstrated that the ability of anti-PD-L1 mAb to inhibit the immunosuppressive effects of PD-L1 resulted in the increased tumor cell elimination by T cells and that B6O-55 can be further developed for cancer treatment. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In conclusion, the anti-PD-L1 mAb immunotherapeutic abrogation of the PD-1/PD-L1 pathway can profoundly reverse immune inhibition and permitTcell effector function against a various cancers. Our preclinical data showed that mAb B6O-55 could specifically bind to hPD-L1 witharelatively highaffinityand exhibited effectiveanti-tumoractivity.However, the mechanisms of action of this molecular axis need further investigation.The occurrence of T cell exhaustion and deletion and the precise role of PD-1 in the differentiation of this $\\mathtt { C D 4 } ^ { + }$ or $\\mathsf { C D 8 } ^ { + }$ T cell subset are still unclear.The role of PD-L1 in $\\mathtt { C D 4 } ^ { + }$ Tcells also remains largely undefined.PD-1/PD-L1 interactions may synergize with other inhibitory pathways to regulate the induction and/or maintenance of peripheral T cell tolerance. Combined treatment with other immune regulators or bispecific antibodies has greater potential for cancer treatment.Thus,mAb B6O-55 may be developed as therapeutic agent for various tumors.B6o-55 can be used as a single agent or in combination with other immunoregulators for more effective anticancer therapy. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Conflict of interest statement ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "All the authors except Songbing Qin and Xiaoxiao Wang are employees of DingFu biotechnology.The authors declare that no conflict of financial interests exists. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The following is the supplementary data related to this article. Supplementary data to this article can be found online at http:/dx. doi.org/10.1016/j.intimp.2015.12.039. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We thank Dr.Pilin Wang for providing important suggestions.This research was supported in part by grants from National Nature Science foundation of China,812o2328 to Yan Luan,and in part by grant from BY2015039-06 to SongBing Qin. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]B.M. Carreno,M. Collins,The B7 family of ligands and its receptors: new pathways for costimulation and inhibition of immune responses, Annu. Rev. Immunol. 20 (2002) 29-53.   \n[2]R.J. Greenwald, G.J. Freeman,A.H. Sharpe,The B7 family revisited, Annu. Rev. Immunol.23 (2005) 515-548.   \n[3]M.E.Keir,M.J.Butte, G.J.Freeman, A.H. Sharpe,PD-1 and its ligands in tolerance and immunity,Annu. Rev.Immunol.26(2008) 677-704.   \n[4] T.Pentcheva-Hoang, E. Corse,J.P.Allison, Negative regulators of T-cell activation: potential targets for therapeutic intervention in cancer,autoimmune disease,and persistent infections, Immunol.Rev.229(2009) 67-87.   \n[5] S.P.Patel, R. Kurzrock, PD-L1 expression as a predictive biomarker in cancer immunotherapy,Mol. Cancer Ther.14(2015) 847-856.   \n[6] H.Dong, G. Zhu,K. Tamada,L. Chen, B7-H1,a third member of the B7 family,costimulates T-cell proliferation and interleukin-1O secretion, Nat. Med.5 (1999) 1365-1369.   \n[7] C.Wu, Y. Zhu,J. Jiang,J. Zhao, X.G. Zhang, N. Xu, Immunohistochemical localization of programmed death-1 ligand-1 (PD-L1) in gastric carcinoma and its clinical significance,Acta Histochem.108 (2006) 19-24.   \n[8] L. Chen, Co-inhibitory molecules of the B7-CD28 family in the control of T-cell immunity, Nat.Rev. Immunol.4(2004) 336-347.   \n[9] K.E.de Visser, A. Eichten, LM. Coussens, Paradoxical roles of the immune system during cancer development,Nat. Rev. Cancer 6 (2oo6) 24-37.   \n[10] D.S.Shin, A. Ribas,The evolution of checkpoint blockade as a cancer therapy: what's here,what's next? Curr. Opin. Immunol.33 (2015) 23-35.   \n[11] E.A. Akbay, S. Koyama, J. Carretero,A. Altabef,J.H. Tchaicha, C.L. Christensen, O.R. Mikse,A.D.Cherniack,E.M.Beauchamp,T.J.Pugh,M.D.Wilkerson,P.E.Fecci,M. Butaney, J.B.Reibel,M. Soucheray,T.J. Cohoon,P.A. Janne,M. Meyerson,D.N. Hayes,G.I. Shapiro,T. Shimamura,L.M. Sholl,S.J.Rodig,G.J.Freeman，P.S. Hammerman, G. Dranoff, K.K.Wong, Activation of the PD-1 pathway contributes to immune escape in EGFR-driven lung tumors, Cancer Discov 3 (2013)1355-1363.   \n[12] L.Shi,S. Chen,L. Yang,Y.Li,The role of PD-1 and PD-L1 in T-cellimmune suppression in patients with hematological malignancies,JHematol Oncol 6 (2013)74.   \n[13]B.H. Zinselmeyer,S.Heydari, C.Sacristan,D.Nayak,M. Cammer,J.Herz,X. Cheng,S.J. Davis,M.L Dustin, D.B. McGavern, PD-1 promotes immune exhaustion by inducing antiviral T cell motility paralysis,JExp Med 210 (2013) 757-774.   \n[14]D.B. Flies,B.J. Sandler,M.Sznol,L.Chen, Blockade of the B7-H1/PD-1 pathway for cancer immunotherapy, Yale JBiol Med 84(2011) 409-421.   \n[15] S.L. Topalian,C.G.Drake,D.M.Pardol,Targeting the PD-1/B7-H1(PD-L1) pathway to activate anti-tumor immunity, Curr. Opin. Immunol. 24 (2012) 207-212.   \n[16] J. Sunshine,JM. Taube,PD-1/PD-L1 inhibitors, Curr. Opin. Pharmacol. 23 (2015) 32-38.   \n[17]F.Massari,M. Santoni, C.Ciccarese,D.Santini,S.Alfieri, G.Martignoni, M.Brunelli,F. Piva,R. Berardi,R.Montironi, C.Porta,S.Cascinu, G.Tortora, PD-1 blockade therapy in renal cell carcinoma: current studies and future promises, Cancer Treat. Rev.41 (2015)114-121.   \n[18]A.Swaika,W.A. Hammond, R.W.Joseph, Current State of Anti-PD-L1 and Anti-PD-1 Agents in Cancer TherapyMol Immunol 2015.   \n[19]A.J.Furness,F.A. Vargas, K.S.Peggs,S.A. Quezada, Impact of tumour microenvironment and Fc receptors on the activity of immunomodulatory antibodies,Trends Immunol.35 (2014) 290-298.   \n[20] E. Cha,J.Wallin,M. Kowanetz,PD-L1 inhibition with MPDL3280A for solid tumors, Semin. Oncol.42 (2015) 484-487.   \n[21] R. Ibrahim,R. Stewart, A. Shalabi,PD-L1 blockade for cancer treatment: MEDI4736, Semin. Oncol.42 (2015) 474-483.   \n[22] J.A. Van Deventer,K.D.Wittrup, Yeast surface display for antibody isolation: library construction, library screening,and afnity maturation,Methods Mol. Biol. 1131 (2014) 151-181.   \n[23]E.T. Boder,M. Raeeszadeh-Sarmazdeh,J.V.Price, Engineering antibodies by yeast display, Arch.Biochem.Biophys.526(2012) 99-106.   \n[24]J.Wrammert, K. Smith,J. Miller,W.A.Langley, K. Kokko, C. Larsen,N.Y. Zheng,I. Mays,L. Garman, C.Helms,J. James, G.M. Air, J.D. Capra, R. Ahmed, P.C.Wilson, Rapid cloning of high-affinity human monoclonal antibodies against influenza virus,Nature 453(2008) 667-671.   \n[25] J.D.Marks,H.R. Hoogenboom,T.P. Bonnert,J. McCafferty, A.D.Griffiths,G.Winter, By-passing immunization. Human antibodies from V-gene libraries displayed on phage,J. Mol. Biol.222(1991) 581-597.   \n[26] D.Sblattero,A. Bradbury,A definitive set of oligonucleotide primers for amplifying human V regions,Immunotechnology 3(1998) 271-278.   \n[27]G.Chao,W.L. Lau,B.J. Hackel, S.L. Sazinsky,S.M. Lippow,K.D.Wittrup, Isolating and engineering human antibodies using yeast surface display,Nat.Protoc.1(2006) 755-768.   \n[28] S.A. Gai, K.D.Wittrup,Yeast surface display for protein engineering and characterization, Curr. Opin. Struct. Biol.17 (2007) 467-473.   \n[29]R.Stewart, M.Morrow,S.A.Hammond,K.Mulgrew,D.Marcus,E.Poon, A.Watkins, S.Mullins,M. Chodorge,J.Andrews,D.Bannister,E.Dick,N. Crawford,J.Parmentier, M.Alimzhanov, J.S.Babcook,LN. Foltz, A. Buchanan, V. Bedian, R.W.Wilkinson, M. McCourt, Identification and pre-clinical characterization of MEDI4736,an antagonistic anti-PD-L1 monoclonal antibody, Cancer Immunology Research (2015).   \n[30]M.J. Butte,M.E. Keir,T.B.Phamduy, A.H. Sharpe,G.J. Freeman,Programmed death-1 ligand1 interacts specifically with the B7-1 costimulatory molecule to inhibit T cell responses,Immunity 27(2007) 111-122.   \n[31]M.J. Butte,V.Pena-Cruz, M.J. Kim,G.J. Freeman,A.H. Sharpe,Interaction of human PD-L1 and B7-1, Mol.Immunol. 45(2008) 3567-3572.   \n[32]L Zhang, T.F. Gajewski,J. Kline,PD-1/PD-L1 interactions inhibit antitumor immune responses in a murine acute myeloid leukemia model,Blood 114 (2009) 1545-1552.   \n[33]L Deng,H. Liang, B. Burnette,M.Becket,T.Darga,R.R.Weichselbaum, Y.X.Fu, Irradiation and anti-PD-L1 treatment synergistically promote antitumor immunity in mice,J. Clin.Invest.124(2014) 687-695.   \n[34]R.Stewart,M.Morrow,S.A. Hammond,K.Mulgrew,D.Marcus,E.Poon, A.Watkins, S.Mullins,M. Chodorge,J.Andrews,D.Bannister,E.Dick,N. Crawford,J.Parmentier, M. Alimzhanov,J.S. Babcook,LN. Foltz,A.Buchanan, V.Bedian,R.W.Wilkinson,M. McCourt, Identification and characterization of MEDl4736,an antagonistic antiPD-L1 monoclonal antibody, Cancer Immunology Research 3(2015） 1052-1062.   \n[35]R.H.Thompson,M.D. Gillett,J.C. Cheville, C.M.Lohse,H. Dong,W.S.Webster, K.G. Krejci, J.R.Lobo,S. Sengupta,L. Chen,H. Zincke,M.L.Blute,S.E. Strome,B.C. Leibovich,E.D.Kwon, Costimulatory B7-H1 in renal cellcarcinoma patients: indicator of tumor aggressiveness and potential therapeutic target, Proc.Natl. Acad. Sci. U. S.A. 101 (2004) 17174-17179.   \n[36]W. Zou, L. Chen, Inhibitory B7-family molecules in the tumour microenvironment, Nat. Rev.Immunol. 8 (2008) 467-477.   \n[37]C.Blank,I. Brown, A.C.Peterson,M. Spiotto,Y.Iwai,T.Honjo,T.F. Gajewski,PD-L1/ B7H-1 inhibits the effector phase of tumor rejection by Tcell receptor (TCR) transgenic $\\mathrm { C D 8 + }$ T cells, Cancer Res.64 (2004) 1140-1145.   \n[38]Y.Iwai,M. Ishida, Y.Tanaka,T.Okazaki,T. Honjo,N. Minato, Involvement of PD-L1 on tumor cels in the escape from host immune system and tumor immunotherapy by PD-L1 blockade,Proc.Natl.Acad.Sci.U.S.A.99(2002)12293-12297.   \n[39]J.M. Reichert, C.J. Rosensweig,L.B.Faden,M.C.Dewitz,Monoclonal antibody successes in the clinic, Nat. Biotechnol.23 (2005) 1073-1078.   \n[40]M.E. Keir, LM.Francisco, A.H.Sharpe,PD-1 and its ligands in T-cell immunity, Curr. Opin. Immunol.19 (2007) 309-314.   \n[41]D.B.Flies,X. Han,T.Higuchi,L. Zheng,J. Sun,JJ. Ye,L. Chen, Coinhibitory receptor PD-1H preferentially suppresses $\\mathrm { C D 4 ( + ) }$ T cell-mediated immunity, J. Clin. Invest. 124 (2014) 1966-1975. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

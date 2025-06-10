@@ -1,0 +1,272 @@
+# 1960—2018年博斯腾湖水位变化特征及其影响因素分析
+
+李玉焦¹²，陈亚宁¹，张齐飞¹²，方功焕¹(1.中国科学院新疆生态与地理研究所,荒漠与绿洲生态国家重点实验室,新疆 乌鲁木齐830011;2.中国科学院大学,北京10049)
+
+摘要：结合博斯腾湖1960—2018年水位、出入湖径流以及气象站点实测资料,采用集合经验模态分解(Ensem-ble Empirical Mode Decomposition,EEMD）、水量平衡和气候弹性方法,对近60a博斯腾湖水位变化及其影响因素进行了详细分析。结果表明：(1)1960—2018年博斯腾湖水位总体呈下降态势,具体表现为"下降-上升-下降-上升"四个阶段。(2)在年际尺度上水位存在准 $3 { \sim } 4 \mathrm { ~ a ~ }$ 、准8\~9a的周期性振荡，而年代际尺度上表现出准29\~30a和准 $3 3 \sim$ 34a的周期性变化。（3）1960—2018年降水、气温和潜在蒸散发对开都河、黄水沟和焉耆径流的累积贡献率分别达$8 5 . 1 \%$ 、 $4 2 . 1 \%$ 和 $2 3 . 8 \%$ ，而下垫面、其他气象变量和人为等因素累积对径流的贡献率分别约为 $1 4 . 9 \% . 5 7 . 9 \%$ 和$7 6 . 2 \%$ 。（4）对不同阶段博斯腾湖水位变化原因分析：1960—1987年水位急剧下降的主要原因同入湖径流减少和湖面蒸发量大有关;气温升高和降水量增加导致入湖水量增加是1988—2002年水位显著升高的主要原因;入湖径流减少和出湖水量增多，导致2003—2014年水位显著下降;博斯腾湖入湖水量的显著增加及对出湖水量的严格控制是2015—2018年水位明显上升的主要原因。
+
+关键词：博斯腾湖；水位变化；集合经验模态分解；水量平衡；气候弹性；影响因素
+
+干旱区内陆湖泊是对全球气候变化响应最为敏感的地理单元之一，易受人类活动的影响[1-2]。湖泊水位过低和过高都会带来不利影响3，其中，水位下降过低将导致湿地面积萎缩，植被退化，生物多样性减少和渔业损失。而水位过高，水面面积扩大，将加剧土壤盐碱化和农业损失，增加粮食风险，而超过一定生态水位还会产生一系列洪水灾害，造成一定的社会经济损失[4-。湖泊水位变化的原因非常复杂，尤其是干旱地区的平原湖泊，易受其地理特征、气候变化、冰川覆盖和人类活动等因素的影响[。因此，加强干旱区湖泊变化的科学研究对深入了解其水量平衡具有重要意义，并为如何调节这些重要水资源提供线索。
+
+干旱区内陆湖变化最易受气候变化和人类活动的影响[8-12],其中,平原区尾闾湖由于气候变化和人为影响而急剧收缩，高山湖泊由于降水变化较小而保持相对稳定，吞吐型湖泊由于河流入湖口用水量的变化，比其他两种类型的湖泊变化更灵活[8]黄坤等[13]采用交叉小波研究了各种气象因素对巴尔喀什湖水位变化的影响。Liu等[10]、Jing等[1]和Li等利用遥感数据研究新疆不同区域湖泊退缩和扩张，认为湖泊变化是自然和人为因素共同作用的结果。苏向明等[4]采用高分遥感影像分析艾比湖的年内和年际变化特征，认为年内湖泊变化主要影响因素为农业灌溉用水。阿依努尔·买买提等[15采用统计分析方法对伊塞克湖水位变化的影响因素进行探讨分析，认为气候变化为其水位变化的第一影响因素，人为因素为第二影响因素。作为国内最大的内陆淡水湖一一博斯腾湖，其水位变化一直是许多学者关注的热点问题[3.5.16-20]。Yao等[3]和Guo等5采用水量平衡和气候弹性方法，结果显示不同时期博斯腾湖水位变化的影响因素明显不同。朱长明等[通过采用多源遥感数据研究博斯腾湖水位、面积和水量时间动态变化过程与演变特征，认为其水资源呈现波动减少主要受气候变化和人类活动的共同影响。本文基于EEMD方法[21]和水量平衡原理，详尽分析了博斯腾湖1960一2018年水位变化趋势以及在不同时期的非线性变化过程，采用气候弹性方法，探讨了博斯腾湖水位在不同阶段对水文气象因子的响应程度，分析了湖泊水位对气候变化和人类活动的响应过程，旨在为博斯腾湖流域水资源可持续利用和生态环境可持续发展提供科技支撑。
+
+# 1研究区概况与研究方法
+
+# 1.1 研究区概况
+
+博斯腾湖 $( 4 1 ^ { \circ } 5 6 ^ { \prime } \mathrm { N } { \sim } 4 2 ^ { \circ } 1 4 ^ { \prime } \mathrm { N } , 8 6 ^ { \circ } 4 0 ^ { \prime } \mathrm { E } { \sim } 8 7 ^ { \circ } 5 6 ^ { \prime } \mathrm { E } )$ 地处新疆南部，是中国最大的内陆淡水湖(图1）。该地区是典型的内陆气候，博斯腾湖湖区多年平均气温约 $6 . 3 ~ \mathrm { ^ { \circ } C }$ ,年均降水量仅约 $7 0 ~ \mathrm { m m }$ ,潜在蒸发量高达 $2 0 0 0 \mathrm { m m } ^ { [ 2 2 ] }$ 。博斯腾湖作为新疆典型的吞吐型湖泊，既是塔里木河四源流之一一 开都河的尾闾湖，同时也是下游孔雀河的补给湖。博斯腾湖水源来自天山南坡的开都河、黄水沟、清水河及诸小河流，其中开都河和黄水沟作为博斯腾湖的主要补给源流,分别占总人湖水量的 $8 4 . 6 \%$ 和 $6 . 3 \% ^ { [ 2 3 ] }$ 。博斯腾湖作为开都一孔雀河流域水资源时空分布的天然调节库，同时也是新疆巴音郭楞蒙古自治州地区(简称巴州)的重要水资源储存库，具有调节河川径流、净化水质等生态功能，被誉为巴州人民的“母亲湖”。
+
+# 1.2数据资料的选取
+
+（1）径流数据。大山口和宝浪苏木(开都河）、黄水沟(黄水沟)和塔什店(孔雀河)水文站的1960—2018实测年径流量数据由新疆塔里木河流域管理局提供。
+
+(2）气象数据。巴音布鲁克、巴伦台和焉耆气象站1960一2018年的日气温、降水、风速、蒸发、日照时数、水汽压数据来自中国气象数据服务网(http://data.cma.cn/)
+
+（3）湖水位数据。博斯腾湖1960—2018年实测年水位数据和1986一2018年实测月水位数据来源于博斯腾湖管理局。
+
+（4）土地利用数据。1980、1995、2005年和2015年土地利用数据来源于中国科学院资源环境科学与数据中心（http://www.resdc.cn/data.aspx?DA-TAID $\scriptstyle 1 = 1 9 7$ )，分辨率为 $1 ~ \mathrm { k m }$ 的栅格数据，土地利用类型包括6个一级类型以及25个二级类型。1980、1995、2005年各期数据的遥感解译主要使用了Landsat-TM/ETM遥感影像数据，而2015年土地利用/覆盖数据更新主要使用Landsat8遥感影像数据[24]
+
+# 1.3 研究方法
+
+1.3.1EEMD方法集合经验模态分解（EEMD）法[21],适用于非线性和非平稳序列信号分析，能够很好地提取趋势和周期信息[25]。在待分析的原始信号序列中叠加上给定振幅的白噪声序列，将加入白噪声后的信号进行EMD分解（分解为本征函数IMFs），将多次分解得到的IMFs进行集合平均，使加入的白噪声互相抵消，并将其作为最终的分解结果：
+
+![](images/f8e2e0a5b45380b27a1a3498475d7674fec418938371e8eb3bafecb7e1819d3b.jpg)  
+图1博斯腾湖流域示意图  
+Fig.1 Location of the Bosten Lake Basin
+
+$$
+C _ { j } ( t ) = \frac { 1 } { N } \sum _ { i = 1 } ^ { N } C _ { i j } ( t )
+$$
+
+式中： $C _ { j } ( t )$ 为原始信号经过EEMD分解变换后得到的第 $j$ 个IMF分量； $N$ 为白噪声增加数; $C _ { i j } ( t )$ 为第 $i$ 次加入白噪声后分解所得的第 $j$ 个IMF分量。
+
+1.3.2M-K统计检验Mann-Kendall检验[2的统计量 $s$ 为：
+
+$$
+S { = } \sum _ { k = 1 } ^ { n - 1 } \sum _ { j = k { + } 1 } ^ { n } \operatorname { s g n } ( x _ { j } - x _ { k } ) , ( j > k )
+$$
+
+统计 $U F _ { k }$ 的序列值为：
+
+$$
+U F _ { k } = \frac { S _ { k } - E ( S _ { k } ) } { \sqrt { \operatorname { V a r } ( S _ { k } ) } } , ( k = 1 , 2 , \cdots , n )
+$$
+
+检验统计区域的均值和方差如下：
+
+$$
+E ( S _ { k } ) { = } \frac { n ( n + 1 ) } { 4 }
+$$
+
+$$
+\operatorname { V a r } ( S _ { k } ) = { \frac { n ( n - 1 ) ( 2 n + 5 ) } { 7 2 } }
+$$
+
+通过对开都河、黄水沟和焉耆站径流进行突变检验(表1)，本研究将时间序列分为突变前基准期(1960—1996年，1960—1992年，1960—1991年)和突变后(1997—2018年，1993—2017年，1992—2016年)两个时期。
+
+1.3.3气候弹性方法根据Zheng等[27]提出的气候弹性方法，计算开都河和黄水沟径流对气候变化的敏感性：
+
+$$
+\varepsilon _ { i } = \frac { \bar { X } } { \bar { Q } } \frac { \sum ( X _ { i } - \bar { X } ) ( Q _ { i } - \bar { Q } ) } { \sum ( X _ { i } - \bar { X } ) ^ { 2 } }
+$$
+
+# 表1博斯腾湖水位和不同水文站的径流Mann-Kendall趋势及突变检验
+
+Tab.1 Mann-Kendall trend and mutation test of BostenLake waterlevel and runofffrom different hydrological stations   
+
+<html><body><table><tr><td>因子</td><td>Z</td><td>Sig</td><td>α =0.01</td><td>突变时间</td><td>趋势</td><td>显著性</td></tr><tr><td>水位</td><td>-4.24</td><td>0.00002</td><td>2.56</td><td>1966年</td><td>下降</td><td>显著</td></tr><tr><td>大山口径流</td><td>3.19</td><td>0.00140</td><td>2.56</td><td>1996年</td><td>上升</td><td>显著</td></tr><tr><td>黄水沟径流</td><td>2.86</td><td>0.00430</td><td>2.56</td><td>1992年</td><td>上升</td><td>显著</td></tr><tr><td>焉耆站径流</td><td>0.48</td><td>0.62990</td><td>2.56</td><td>1991年</td><td>上升</td><td>不显著</td></tr></table></body></html>
+
+注：Z表示 $Z$ 分数，表示变化的显著性; $s i g$ 表示双边检验的 $P$ 值。
+
+$$
+\Delta Q = \Delta Q _ { c } + \Delta Q _ { \nu }
+$$
+
+$\Delta Q _ { c } = ( \varepsilon _ { r } \Delta P / P + \varepsilon _ { \scriptscriptstyle E T _ { 0 } } \Delta E T _ { 0 } / E T _ { 0 } + \varepsilon _ { \scriptscriptstyle T } \Delta T / T ) Q$ (8)式中： $\boldsymbol { \varepsilon } _ { i }$ 为气象因子的弹性系数( $i$ 表示气温 $T$ ，降水 $P$ 和潜在蒸散发 $E T _ { 0 } ) \colon Q _ { i }$ 和 $X _ { i }$ 分别是气象因子(如降水、气温等)引起的年径流变化量和不同气候变量的值， $\varrho$ 是径流量的变化比例， $\bar { \varrho }$ 是平均径流,$\bar { X }$ 为气象因子平均值; $\Delta Q \ 、 \Delta P \ 、 \Delta E T _ { 0 }$ 和 $\Delta T$ 分别为流域内径流、降水、潜在蒸散发和气温的变化量;$\Delta Q _ { c } , \Delta Q _ { \nu }$ 分别是气象因子和其他因素（包括下垫面特性和人为因素等)引起的径流变化。
+
+1.3.4 水量平衡 博斯腾湖是吞吐型湖泊，其水量平衡方程可以表示为[28]：
+
+$$
+\Delta V { = } Q _ { \mathrm { i n } } { + } P _ { \it s } - Q _ { \mathrm { o u t } } - E _ { \it s } + \Delta V _ { \it x }
+$$
+
+式中： $\Delta V$ 是博斯腾湖水量变化量; $Q _ { \mathrm { i n } } \ : , Q _ { \mathrm { o u t } }$ 是入出湖的水量； $P _ { s }$ 为湖面降雨量； $E _ { s }$ 湖面蒸发量， $\Delta V _ { _ { x } }$ 为误差和地下水交换量引起的湖水变化量。
+
+1.3.5潜在蒸散发的计算潜在蒸发数据是根据气象站的逐日气象观测资料，采用联合国粮农组织推荐的Penman-Monteith公式计算所得[29]：
+
+$$
+E T = \frac { 0 . 4 0 8 \Delta \big ( R _ { n } - G \big ) + \gamma \frac { 9 0 0 } { T + 2 7 3 } u _ { \scriptscriptstyle 2 } ( e _ { s } - e _ { a } ) } { \Delta + \gamma ( 1 + 0 . 3 4 u _ { \scriptscriptstyle 2 } ) }
+$$
+
+式中： $E T$ 为蒸散发； $\boldsymbol { R } _ { n }$ 为净辐射; $G$ 为土壤热通量； $\boldsymbol { e } _ { s }$ 是饱和蒸汽压； $e _ { a }$ 是实际水汽压； $T$ 是地面以上 $2 \mathrm { m }$ 高度处空气温度； $u _ { 2 }$ 是地面以上 $2 \mathrm { m }$ 高处的风速; $\Delta$ 为饱和水汽压与温度曲线上的斜率； $\gamma$ 是湿度计算常数。这些参数是由平均日最高和最低温度，平均温度，实际水汽压，平均风速，日照时数，平均相对湿度数据和其他经验指标直接计算得到。
+
+1.3.6 湖面蒸发量计算 博斯腾湖湖面的年蒸发量采用Zhou等计算方法3%，可以表示为：
+
+$$
+E _ { \scriptscriptstyle l } = E _ { \scriptscriptstyle \phi 2 0 } \times k \times s
+$$
+
+式中： $E _ { \iota }$ 是湖面单位面积的年蒸发量; $E _ { \phi 2 0 }$ 是口径为 $2 0 ~ \mathrm { m m }$ 的蒸发皿测量的蒸发量； $k$ 是湖面蒸发量修正系数； $s$ 是湖面面积。
+
+# 2 结果分析
+
+# 2.1博斯腾湖水位变化
+
+根据Mann-Kendall趋势检验结果，近 $6 0 \mathrm { ~ a ~ }$ 博斯腾湖水位整体呈显著下降趋势（ $\scriptstyle { \left. { \begin{array} { l } { \scriptstyle P < 0 . 0 1 } \end{array} } \right. }$ 表1)，具体表现为四个阶段(图2a)：1960—1987年以 $0 . 0 8 \ \mathrm { m \cdot a ^ { - 1 } }$ 的速率下降了近 $3 \mathrm { ~ m ~ }$ ,1988—2002年以 $0 . 2 6 \mathrm { \ m } \cdot \mathrm { a } ^ { - 1 }$ 的速率上升了近 $4 \mathrm { m } , 2 0 0 3 { \mathrm { - } } 2 0 1 4$ 年水位以 $0 . 1 8 \mathrm { \ m } \cdot \mathrm { a } ^ { - 1 }$ 的速率下降了近 $3 . 2 \mathrm { ~ m ~ }$ ，自2015年以来，博斯腾湖水位以 $0 . 7 2 \ \mathrm { m } \cdot \mathrm { a } ^ { - 1 }$ 速率上升近 $1 . 9 \mathrm { ~ m ~ }$ （图2a）。其中，1987年和2002年分别是博斯腾湖水位最低（1045$\mathbf { \Sigma } _ { \mathrm { m } }$ 和最高（ $( 1 0 4 9 . 3 6 ~ \mathrm { m }$ )的两个年份，相差 $4 . 3 6 \mathrm { m }$ ○
+
+![](images/73167f7805f94d7b7ee95605034612af5c98e1410c14f1a740d92d1fa7e78c23.jpg)  
+图21960—2018年博斯腾湖水位年际变化(a)和年内各月水位变化(b) Fig.2 Inter-annual (a)and monthly (b) changes of water level in Bosten Lake form 1960 to 2018
+
+博斯腾湖水位年内变化呈现双峰型形态（图2b)。其中9月的水位最高( $1 0 4 6 . 6 5 \ \mathrm { m }$ ），1月最低L $( 1 0 4 6 . 4 5 \ \mathrm { m } )$ )。4—9月是一年中高水位时期，11月至翌年1月是一年中低水位时期。春季气温回升，促使上游山区冰川积雪消融加速，进而使得下游径流量增加，湖泊水位抬升，至4月水位达1046.59m。4月以后，由于博斯腾湖水量调度和周边农业活动的影响，湖泊水位有所下降。夏秋季降水量增加，季节性冰川积雪完全消融，入湖径流量增加，故9月份湖泊水位最高。冬季开都河上游来水量少，年内径流量最小，湖泊处于低水位状态。
+
+# 2.2水位的多尺度变化特征
+
+图3是对博斯腾湖1960—2018年水位距平进行EEMD分解得到4个IMF分量和1个趋势分量(RES)。其中，分解所得到的IFMs依次反映了原始水位距平从高频到低频不同时间尺度的波动变化，趋势项RES表示1960—2018年水位随时间变化的整体演变趋势。结合表2,IMF1未通过 $5 \%$ 的显著性检验，表示准3\~4a周期属于弱周期;IMF2、IMF3和IMF4均通过了 $5 \%$ 的显著性检验，说明IMF2、IMF3和IMF4分量非常显著，水位具有准8\~9a、准29\~30a和准33\~34a的主周期性振荡。
+
+各分量方差贡献率显示，博斯腾湖水位年际变
+
+![](images/58190cd22af056587fc8a2d82c5ed6729e654636f8a214f2a0962d2d050faa89.jpg)  
+图3博斯腾湖1960—2018年水位距平各IMF分量及趋势项Fig.3The IMF and trend components of water levelanomaly for BostenLake from 1960 to 2018
+
+# 表2博斯腾湖水位距平各IMF分量的周期、方差贡献率及其与径流距平序列的相关性
+
+Tab.2 Periods and variance contributionrates ofIMF components and theircorrelations with the water level anomalyseriesforBostenLake   
+
+<html><body><table><tr><td>IMF分量</td><td>IMF1</td><td>IMF2</td><td>IMF3</td><td>IMF4</td><td>RES</td></tr><tr><td>周期/a</td><td>3.28</td><td>8.89</td><td>29.50</td><td>33.83</td><td></td></tr><tr><td>与水位距平的相关系数</td><td>0.29*</td><td>0.23</td><td>0.90**</td><td>0.39**</td><td>0.29*</td></tr><tr><td>贡献率/%</td><td>6.88</td><td>7.61</td><td>83.04</td><td>1.68</td><td>0.79</td></tr><tr><td>显著性检验/%</td><td><90</td><td>>95</td><td>>95</td><td>>95</td><td></td></tr></table></body></html>
+
+注：\*\*、\*分别在0.01、0.05水平上显著相关。
+
+化约占 $1 4 . 4 9 \%$ ，而年代际变化为 $8 5 . 5 1 \%$ ，年代际变化对水位整体变化的贡献高于年际变化。年代际振荡在水位长期变化中占主导，结合水位各分量(IMFs)与原始水位距平的相关关系，发现年代际变化同原始径流距平呈非常显著的正相关。结合图3和表2，IMF3表征的准29\~30a周期性振荡的方差贡献率最大，约为 $8 3 . 0 4 \%$ ,该周期尺度在1980年之后有明显振荡；IMF1表示的是准3\~4a周期振荡，主要是在2000—2005年和2010年之后表现的比较明显，其对水位距平总体方差贡献率为 $6 . 8 8 \%$ ; IMF2代表的准8\~9a的周期性振荡，方差贡献率为$7 . 6 1 \%$ ,其周期性振荡在整个研究时期均有表现；IMF4表示的是水位准33\~34a的周期变化，其方差贡献率最小( $1 . 6 8 \%$ )，在此时间尺度上，博斯腾湖水位在1980—1990年振幅处于较低水平；由趋势项变化可以看出，博斯腾湖水位在1960—2018年间总体上表现出非线性下降趋势。
+
+# 2.3博斯腾湖水量平衡
+
+研究发现，博斯腾湖湖面蒸发量和出湖水量对水位下降的贡献率分别达到了 $4 7 \%$ 和 $5 8 \%$ ，由图4和表3可知，1960—1987年入湖水量和湖面降水量均呈下降趋势，而该时期博斯腾湖水位下降了3.04$\mathrm { ~ m ~ }$ ,湖水量减少了约 $3 . 1 0 \mathrm { k m } ^ { 3 }$ ;1988—2002年，博斯腾湖入湖水量和湖面降水量对水位的变化贡献率分别为 $1 1 5 \%$ 和 $4 \%$ ，而该时期入湖水量、湖面降水量、湖面蒸发量和出湖水量均呈上升趋势，同期湖水位上升了约 $4 . 0 1 \mathrm { ~ m ~ }$ ,水量增加 $4 . 1 3 ~ \mathrm { k m } ^ { 3 }$ 。2003—2014年，湖面蒸发量和出湖水量对湖泊水位下降贡献量分别为 $4 3 \%$ 和 $7 5 \%$ ,研究发现该时期入湖水量，湖面降水量，湖面蒸发量和出湖水量均呈下降趋势，同期湖水位下降约 $3 . 2 4 \mathrm { m }$ ，,水量减少了约 $3 . 4 1 ~ \mathrm { k m } ^ { 3 }$ 。然而，2015—2018年，博斯腾湖入湖水量增加，湖面降水量下降，湖面蒸发量和出湖水量增加，而同期入湖水量和湖面降水量对水位的变化贡献率分别达$1 1 2 \%$ 和 $3 \%$ ,使得同期水位上升 $1 . 9 3 \mathrm { ~ m ~ }$ 左右，水量增加了约 $1 . 9 8 \mathrm { k m } ^ { 3 }$ O
+
+![](images/a5e1d434018f01ceae467b62ae9cce20949261ad40d6f50d5900abcffd038de4.jpg)  
+图4 博斯腾湖水量平衡要素湖面蒸发量(a）湖面降水量(b)、人湖径流量(c)和出湖径流量(d)的变化趋势 Fig.4Changesof waterbalanceelements inBostenLake:Evaporationoflake surface(a),precipitationonlakesurface(b),rnoff into the lake (c) and discharge from the lake (d)
+
+表3 博斯腾湖四个时期的水量平衡  
+Tab.3 Lake waterbalance inBostenLake during four periods   
+
+<html><body><table><tr><td rowspan="2">阶段</td><td rowspan="2">湖泊水量变化 量/(km·a-1)</td><td colspan="4">湖泊补给量</td><td colspan="4">湖水消耗量</td><td rowspan="2">地下水交换 量+误差</td><td rowspan="2">占比/%</td></tr><tr><td>入湖径流量 /(km²·a−1)</td><td>占比 1%</td><td>湖面降水量 /(km³·a-1)</td><td>占比 1%</td><td>湖面蒸发量 /(km·a−1)</td><td>占比 1%</td><td>出湖水量 /(km³·a-1)</td><td>占比 1% /(km·a−1)</td></tr><tr><td>1960—1987年</td><td>-0.11</td><td>1.92</td><td>48</td><td>0.07</td><td>2</td><td>0.93</td><td>23</td><td>1.15</td><td>29</td><td>-0.07</td><td>2</td></tr><tr><td>1988—2002年</td><td>0.28</td><td>2.72</td><td>55</td><td>0.10</td><td>2</td><td>0.83</td><td>18</td><td>1.48</td><td>30</td><td>-0.23</td><td>5</td></tr><tr><td>2003—2014年</td><td>-0.28</td><td>2.14</td><td>46</td><td>0.07</td><td>1</td><td>0.94</td><td>20</td><td>1.65</td><td>35</td><td>-0.11</td><td>2</td></tr><tr><td>2015—2018年</td><td>0.50</td><td>2.84</td><td>53</td><td>0.08</td><td>1</td><td>1.08</td><td>20</td><td>1.45</td><td>27</td><td>-0.09</td><td>2</td></tr></table></body></html>
+
+# 2.4博斯腾湖水位变化的影响因素分析
+
+2.4.1 气象因子变化对径流的影响径流是博斯腾湖补给的主导因素，从图5可以看出，博斯腾湖水位变化同开都河和黄水沟径流变化高度一致( $P <$ 0.05)，故其径流变化将直接影响博斯腾湖水位，而气温、降水和潜在蒸散发主要通过影响其上游径流进而对下游湖水位产生影响。降水、气温和潜在蒸散发与径流的相关性系数 $\rho _ { { } _ { P , \mathcal { Q } } } \setminus \rho _ { { } _ { T , \mathcal { Q } } }$ 和 $\rho _ { _ { E T _ { 0 } , \mathcal { Q } } }$ 表明(表4)，开都河和黄水沟的降水与径流的相关性最显著，表明降水是影响径流变化的最关键因子。根据表4中降水 $( P )$ 、气温 $( T )$ 、潜在蒸散发 $( E T _ { 0 } )$ 和径流 $( Q )$ 的阶段变化，利用气候弹性方法计算得到开都河源流区的气候弹性系数 $\varepsilon _ { P } = 0 . 6 5$ 、 $\varepsilon _ { T } = - 0 . 3 1$ 和εET。=-0.67(表5),即1996年之后开都河流域降水、气温和潜在蒸散发每增加/上升 $10 \%$ ,其对应的径流量将增加 $6 . 5 \% , 3 \%$ 和 $- 6 . 7 \%$ 。黄水沟流域径流的气候弹性系数 $\varepsilon _ { P } = 0 . 9 3$ 、 $\varepsilon _ { T } = 0 . 9 8$ 和 $\varepsilon _ { E T _ { 0 } } = - 2 . 8 5$ ，即3个气象要素变化 $10 \%$ ，将会引起径流分别发生$9 . 3 \% . 9 . 8 \%$ 和 $- 2 . 8 5 \%$ 的变化。焉耆气象站和水文站位于焉耆盆地腹地，水文站以上的集水区面积约为$4 1 3 4 . 2 \ \mathrm { k m } ^ { 2 }$ ,在该区域,干旱指数( $\scriptstyle \varphi = E T _ { 0 } / { P }$ )大于
+
+![](images/ffa515042e1e4b016c06630f9b6330d279f5a76700ea375ce3282908ff9d0a93.jpg)  
+图5标准化后的博斯腾湖水位变化与主要入湖河流径流变化
+
+Fig.5Changes of Bosten Lake water level and runoff of two rivers into the lake after standardization
+
+表4不同时期气象因子和径流的变化  
+Tab.4 Changes of climatic elements and runoff in different periods   
+
+<html><body><table><tr><td></td><td>阶段</td><td>P/mm</td><td>ET/mm</td><td>T/C</td><td>Q/mm</td><td>R</td><td></td><td>Pp.0</td><td>Pr.0</td><td>PETo</td></tr><tr><td rowspan="3">山口</td><td>1960—1996年</td><td>257.30</td><td>632.60</td><td>-4.70</td><td>174.70</td><td>0.68</td><td>2.46</td><td>0.58**</td><td>0.32</td><td>-2.44</td></tr><tr><td>1997—2018年</td><td>303.90</td><td>642.90</td><td>-3.60</td><td>211.50</td><td>0.70</td><td>2.12</td><td>0.61**</td><td>0.05</td><td>0.52*</td></tr><tr><td>1960—2018年</td><td>274.70</td><td>636.50</td><td>-4.30</td><td>188.40</td><td>0.69</td><td>2.32</td><td>0.69**</td><td>0.43**</td><td>-0.17</td></tr><tr><td rowspan="3">黄水沟</td><td>1960—1992年</td><td>192.52</td><td>1048.32</td><td>6.17</td><td>57.66</td><td>0.30</td><td>5.45</td><td>0.60**</td><td>0.21</td><td>-0.47**</td></tr><tr><td>1993- -2017年</td><td>237.57</td><td>977.91</td><td>7.14</td><td>83.56</td><td>0.35</td><td>4.12</td><td>0.80**</td><td>-0.01</td><td>-0.42*</td></tr><tr><td>1960—2017年</td><td>211.94</td><td>1017.97</td><td>6.59</td><td>68.83</td><td>0.32</td><td>4.80</td><td>0.75**</td><td>0.34°</td><td>-0.57**</td></tr><tr><td rowspan="3">焉耆</td><td>1960- -1991年</td><td>71.23</td><td>919.20</td><td>8.20</td><td>55.80</td><td>0.78</td><td>12.90</td><td>0.18</td><td>0.20</td><td>-0.08</td></tr><tr><td>1992—2016年</td><td>82.95</td><td>864.00</td><td>9.10</td><td>63.80</td><td>0.77</td><td>10.40</td><td>0.17</td><td>0.13</td><td>-0.54**</td></tr><tr><td>1960—2016年</td><td>76.38</td><td>895.01</td><td>8.60</td><td>59.33</td><td>0.78</td><td>11.72</td><td>0.21</td><td>0.22°</td><td>-0.36**</td></tr></table></body></html>
+
+注：\*\*、\*分别在0.01、0.05水平上显著相关。
+
+10,径流系数( $R _ { c } = Q / P ~ ;$ 小于0.8(表4)，属于典型的干旱区水文气候特征，其径流的气候弹性系数为$\varepsilon _ { P } = 0 . 1 3$ 、 ${ \varepsilon } _ { T } = 0 . 9 0$ 和 $\varepsilon _ { E T _ { 0 } } = - 0 . 9 8$ ,即当降水量增加$1 0 \%$ 时，其相应的年径流量将增加 $1 . 3 \%$ ;而气温升高 $1 0 \%$ 时，将导致年径流量增加 $9 \%$ ；当潜在蒸散发减少 $10 \%$ 时，年径流量将增加 $9 . 8 \%$ 。
+
+由表5可知,三个水文站的降水弹性系数 $\mathbf { \sigma } _ { \varepsilon _ { P } } = \mathbf { \varepsilon } _ { }$ 0.65、0.93和0.13，相对于基准期，降水分别增加了$4 6 . 6 1 ~ \mathrm { m m } \cdot 4 5 . 0 5 ~ \mathrm { m m }$ 和 $1 1 . 7 2 \mathrm { m m }$ ，根据公式(8)可以计算出大山口1997—2018年、黄水沟1993—2017年以及焉耆1992—2016年径流深比基准期分别增加约 $2 0 . 5 6 ~ \mathrm { m m } \setminus 1 2 . 3 0 ~ \mathrm { m m }$ 和 $1 . 2 0 \ \mathrm { m }$ ；气温弹性系数$\boldsymbol { \varepsilon } _ { T }$ 分别为-0.31、0.67和0.9，温度分别上升 $1 . 1 0 ~ \mathrm { ^ { q } C }$ 、$0 . 9 7 ^ { \circ } \mathrm { C }$ 和 $0 . 9 0 \mathrm { { ^ \circ C } }$ ,引起大山口、黄水沟和焉耆的径流深相对于基准期分别增加 $1 2 . 6 7 ~ \mathrm { m m } \cdot 9 . 0 0 ~ \mathrm { m m }$ 和$3 . 1 0 \ \mathrm { m m }$ ;潜在蒸散发弹性系数 $\quad \varepsilon _ { E T _ { 0 } }$ 分别为 $- 0 . 6 7$ 、$- 2 . 8 5$ 和-0.98，三个集水区的潜在蒸散发量分别增加了 $1 0 . 3 3 ~ \mathrm { m m \_ } 7 0 . 4 1 ~ \mathrm { m m }$ 和 $- 5 5 . 2 0 ~ \mathrm { m m }$ ,导致径流深相对于基准期分别减小约 $1 . 9 1 \ \mathrm { m m } \setminus 1 0 . 4 0 \ \mathrm { m m }$ 和$6 . 2 0 \mathrm { m m }$ 。
+
+研究发现，降水、气温和潜在蒸散发的综合影响下，1997—2018年开都河年经流深增加了31.32$\mathbf { m } \mathbf { m }$ ，占径流深增加量的 $8 5 . 1 \%$ ，而其他因素作用下导致年经流深增加 $5 . 5 0 \ \mathrm { m m }$ ，占流量变化的 $1 4 . 9 \%$ 。1993—2017年黄水沟气象因子变化累积引起径流深增加 $1 0 . 9 0 \mathrm { m m }$ ,约占径流增加总量的 $4 2 . 1 \%$ ,而其他因素变化导致径流深增加 $1 5 . 0 0 \mathrm { m m }$ ,约占径流变化量的 $5 7 . 9 \%$ 。而在农业比较发达的焉耆盆地人类活动比较频繁，1992—2016年气温、降水和潜在蒸散发变化直接引起的径流深总的变化量约为1.90$\mathbf { m } \mathbf { m }$ ,约占径流总变化量的 $2 3 . 8 \%$ ,远小于其他因素所导致的径流深度变化 $( 7 6 . 3 \% )$ (表5)。这说明，相对于基准期，1990s之后，入湖径流除了对气温、降水和潜在蒸散发变化敏感外，其他要素对径流变化也很重要。
+
+2.4.2人为因素对水位变化的影响研究表明，宝浪苏木入湖水量分别占1960—1987年、1988—2002年、2003—2014年和2015—2018年大山口径流量的$6 0 \%$ ） $70 \%$ ） $5 9 \%$ 和 $7 2 \%$ ,耗水量分别约占大山口径流总量的 $3 6 \% . 2 6 \% . 2 7 \%$ 和 $1 7 \%$ (表6)，这也意味着流域内的引耗水量对博斯腾湖水量变化有很大的影响。
+
+总的来看，1988—2002年博斯腾湖流域开始进入丰水期，2002年博斯腾湖流域大山口径流量达到近60a的最大值( $( 4 . 4 9 \mathrm { k m } ^ { 3 } .$ )，博斯腾湖水位也达到最高。根据已有资料[31],1950s流域内农田灌溉面积约为 $1 0 0 \ \mathrm { k m } ^ { 2 }$ ,至1960年农田灌溉面积已经增长至$5 7 8 ~ \mathrm { k m } ^ { 2 }$ ,大量的耕地开垦以及水资源的肆意利用，导致1987年之前入湖径流量不断减少。1986年之后，由于灌溉定额制度的实施，水资源的利用效率得以提高,流域内灌溉用水量得到有效的控制[19.32]1980、1995、2005、2015年博斯腾湖流域土地利用变化数据显示(表7)，流域内耕地面积仍然在不断增
+
+表5气温、降水和潜在蒸散发变化对径流的影响  
+Tab.5Effects of changes in temperature precipitation and potential evapotranspiration on runof   
+表6大山口径流量、宝浪苏木入湖径流量与大山口至宝浪苏木段引耗水量变化  
+
+<html><body><table><tr><td></td><td colspan="3">弹性系数</td><td>△P</td><td>△ET。</td><td></td><td>△T</td><td>△Q</td><td>△P/P</td><td>ET1%</td><td>△T/T</td><td>△Q/Q</td><td>△Q(P)</td><td>△Q(T)</td><td>△Q (ETo)</td><td>△Q</td><td>△Qv</td></tr><tr><td></td><td>εp</td><td></td><td></td><td>/mm</td><td>/mm</td><td>/mm</td><td>/mm</td><td>1%</td><td>ET</td><td></td><td>1%</td><td>1%</td><td>/mm</td><td>/mm</td><td>/mm</td><td>/mm</td><td>/mm</td></tr><tr><td>大山口</td><td>0.65</td><td>-0.31</td><td>-0.67</td><td>46.61</td><td>10.33</td><td>1.10</td><td>36.82</td><td>18.11</td><td></td><td>1.63</td><td>-23.40</td><td>21.08</td><td>20.56</td><td>12.67</td><td>-1.91</td><td>31.32</td><td>5.50</td></tr><tr><td>黄水沟</td><td>0.93</td><td>0.98</td><td>-2.85</td><td>45.05</td><td>-70.41</td><td>0.97</td><td>25.90</td><td>23.00</td><td>-7.00</td><td></td><td>16.00</td><td>45.00</td><td>12.30</td><td>9.00</td><td>-10.40</td><td>10.90</td><td>15.00</td></tr><tr><td>焉耆</td><td>0.13</td><td>0.90</td><td>-0.98</td><td>11.72</td><td>-55.20</td><td>0.90</td><td>8.00</td><td>16.00</td><td>-6.00</td><td>11.00</td><td>14.00</td><td></td><td>1.20</td><td>3.10</td><td>-6.20</td><td>1.90</td><td>6.10</td></tr></table></body></html>
+
+Tab.6Changes of runoffin Dashankou and runoff of Baolangsumu into Bosten Lakeand water consumption from Dashankou to Baolangsumu Station   
+
+<html><body><table><tr><td>时间阶段</td><td>大山口径流量/km</td><td>宝浪苏木入湖径流量/km</td><td>大山口一宝浪苏木段引耗水量/km</td></tr><tr><td>1960—1987年</td><td>3.22</td><td>1.92</td><td>1.16</td></tr><tr><td>1988—2002年</td><td>3.86</td><td>2.72</td><td>1.02</td></tr><tr><td>2003—2014年</td><td>3.64</td><td>2.14</td><td>0.97</td></tr><tr><td>2015—2018年</td><td>3.94</td><td>2.82</td><td>0.66</td></tr></table></body></html>
+
+# 表7博斯腾湖流域土地利用变化
+
+Tab.7Land use changesinBostenLake basin   
+
+<html><body><table><tr><td>年份</td><td>耕地/km</td><td>林地/km²</td><td>草地/km²</td><td>水域/km²</td><td>未利用地/km²</td><td>城乡居民工矿用地/km</td></tr><tr><td>1980</td><td>1691</td><td>428</td><td>20143</td><td>1133</td><td>19325</td><td>78</td></tr><tr><td>1995</td><td>1775</td><td>450</td><td>19796</td><td>1134</td><td>19536</td><td>100</td></tr><tr><td>2005</td><td>1900</td><td>495</td><td>19619</td><td>1162</td><td>19486</td><td>128</td></tr><tr><td>2015</td><td>2207</td><td>455</td><td>19636</td><td>1162</td><td>19202</td><td>133</td></tr></table></body></html>
+
+加，至2015年达到约 $2 2 0 7 \mathrm { k m } ^ { 2 }$ ,1980—2015年期间，博斯腾湖流域耕地、城乡居民用地面积均有所增加，其中耕地增长率高达约 $3 0 . 5 \%$ 。耕地和生产生活用地的不断增加，会导致流域内下垫面发生变化，可能会对流域内气候和径流产生重要影响。2015年之后，水位快速回升的主要原因除了入湖径流量的增加外，参考博斯腾湖适宜生态水位[22],人为对出湖水量的严格控制也是主要因素。
+
+由于水资源的无限制利用，塔里木河下游遭受了严重的生态退化，为了恢复塔里木河下游的“绿色走廊”，政府于2000年实施了生态输水工程，将水从博斯腾湖输送到大西海子水库，其所用的水主要来自博斯腾湖和节水灌溉，这进一步加剧了博斯腾湖流域水资源短缺。从2002—2010年，博斯腾湖的总生态输水量为 $1 . 9 1 ~ \mathrm { k m } ^ { 3 [ 2 2 ] }$ 。这也是造成2003—2014年间博斯腾湖水位下降的原因。
+
+# 3讨论
+
+开都河径流对气象因子的敏感性分析结果表明，降水、气温和潜在蒸散发对径流的累计贡献率约为 $8 5 . 1 \%$ ,其他因素(包括人为和气象因子间相互作用导致径流的变化)对径流的贡献率约为 $1 4 . 9 \%$ ，这同Chen等33利用水文敏感性方法分析得到开都河径流对气候变化和人类活动的响应结果基本一致，Li等[34在阿克苏河流域采用气候弹性方法的研究也得出类似的结论。降水、气温和潜在蒸发对径流的贡献率差别较大，降水明显要高于气温和潜在蒸发的影响，Wang等[35在滦河流域也得出类似的结论。
+
+1960—1987年、1988—2002年、2003—2014年和2015—2018年博斯腾湖水位变化的主要原因分别为：径流量减少和湖面蒸发量大、气候变化引起入湖径流量增加、入湖径流量减少和出湖水量增多、人为对出湖水量的控制和入湖径流量的增加，这表明径流是引起水位变化周期的最主要因素。通过对气象因子的EEMD分析结果可知，在近60a时间尺度上年际和年代际尺度上的降水与径流呈显著正相关关系，而气温和潜在蒸散发与径流主要在年代际尺度上显著相关,表明降水是影响径流变化的最主要的气象因素。本文采用了小波分析方法进一步判断EEMD的分解效果，结果显示28a周期对小波方差的贡献率最大，与EEMD分解结果在年代际尺度上基本一致,但与郭梦京等[19]采用连续小波分析求得水位变化周期结果有所不同，可能是由于研究的时间段不同所致，但相比较而言，本研究的数据时间序列更长，结果的可靠性更高。开都河流域大山口径流在年际尺度上存在准 $3 { \sim } 4 \mathrm { ~ a } .$ 准7\~8a的周期性振荡，在年代际尺度上存在准13\~14a和准29\~30a的周期性变化。降水存在准3\~4a、准7\~8a的年际尺度变化，准 $^ { 1 4 \sim 1 5 \mathrm { ~ a ~ } } \cdot$ 准51\~52a的年代际变化。湖面蒸发量在年际尺度上呈准 $2 \sim 3 \mathrm { ~ a ~ } .$ 准9\~10a的周期变化,在年代际尺度上有准 $2 9 { \sim } 3 0 \mathrm { a } .$ 准39\~40a的周期性。宏观上，这些不同尺度的周期还可能来自于大气环流以及太阳活动的准周期变化[36]，受西风环流及北冰洋气流影响的博斯腾湖流域[22],水位变化可能存在一定的关联。Wang等[23]分析区域气候和遥相关对博湖流域水文过程的影响表明，博斯腾湖流域水文过程受北半球极区指数涡(VPA)和西藏高压(XZH)的影响(统计上)显著，尤其是气温和径流。VPA的变化导致博斯腾湖流域中纬度西风槽和山脊系统发生变化,进而影响博斯腾湖流域的气候。
+
+根据入湖量与湖面蒸腾蒸发量的比值，博湖的蒸发蒸腾损耗对于水位变化有着很重要的影响（表3)。湖面的蒸发量随着湖面积增大而增加，尤其是在气温较高的月份。因此，可以通过协调湖泊水位和湖面蒸发量之间的关系，减少水资源损失，提高水资源利用率[37]。已有研究表明[38]开都河年径流量主要集中在夏季(6一8月），约占全年径流量的$44 \%$ ，气温升高加速了冰川积雪的融化，降雨频率较高，径流大幅增加，发生洪涝灾害风险的概率增大[37]。因此,在调水时间分配上,可以在主要农作物生长季、湖水蒸发最强的5一9月向下游孔雀河流域调水，同时，每年10月至翌年4月作物收获后，温度和蒸发速率较低，博斯腾湖水位在冬季和春季保持较高的水位，从而最大限度地减少博斯腾湖的年蒸发量损失，提高水资源利用率[22]
+
+除气候变化外，人类活动对博斯腾湖水位变化也有一定的影响，如农业灌溉引水，水利工程建设等[22]。自1958年以来，人类活动虽然仍小于气候变化对湖水位变化带来的影响，但对博斯腾湖水位变化的影响呈增加趋势[22.39]，主要体现在人类活动频繁的出山口以下平原和盆地的主要入湖径流消耗区的影响[40]。博斯腾湖流域水资源系统是脆弱的，气候变化加剧了不稳定水资源的不确定性，但人为用水因素对博斯腾湖的未来同样起着关键作用[39]。
+
+# 4结论
+
+（1）1960—2018年博斯腾湖水位总体呈下降态势，经历了下降-上升-下降-上升的过程。1960—1987年以约 $0 . 0 8 ~ \mathrm { { m } \cdot { a } ^ { - 1 } }$ 的速率下降，1988—2002年以 $0 . 2 6 \ \mathrm { m \cdot a ^ { - 1 } }$ 的速率上升，2003—2014年水位以$0 . 1 8 \mathrm { \ m } \cdot \mathrm { a } ^ { - 1 }$ 的速率下降，2015年以来，水位以 $0 . 7 2 \mathrm { m }$ ：$\mathbf { a } ^ { - 1 }$ 速率上升，近60a间，博斯腾湖水位总共下降了$0 . 4 5 \mathrm { m }$ 。
+
+（2）博斯腾湖1960—2018年水位的EEMD分解结果表明，水位呈准 $8 { \sim } 9 \mathrm { ~ a ~ }$ 准29\~30a和准33\~34a的周期性振荡。近60a来水位变化在年际尺度上存在准 $3 { \sim } 4 \mathrm { a } ,$ 准8\~9a的周期性振荡，在年代际尺度上存在准29\~30a和准33\~34a的周期性变化，其中在29\~30a时间尺度上周期振荡比较明显。
+
+（3）气象因子对径流敏感性分析表明，1997—2018年开都河流域期间，降水、气温和潜在蒸散发对径流贡献率分别为 $5 7 \% . 3 4 \%$ 和 $5 \%$ 。1993—2017年黄水沟流域降水、气温和潜在蒸散发对径流量的贡献率分别为 $4 7 \%$ ） $3 5 \%$ 和 $4 0 \%$ 。1992—2016年焉耆盆地气温、降水和潜在蒸散发变化直接引起的径流变化量约占径流总变化量的 $1 5 \% . 3 9 \%$ 和 $78 \%$ ○
+
+(4)近 $6 0 \mathrm { ~ a ~ }$ 不同时期博斯腾湖水位变化来看，1960一1987年水位下降主要同入湖径流减少（20 $( - 0 . 1 1 \mathrm { k m } ^ { 3 } \cdot \mathrm { a } ^ { - 1 } )$ ),湖面蒸发耗水量大 $( 1 . 0 2 \mathrm { k m } ^ { 3 } { \cdot } \mathrm { a } ^ { - 1 } )$ 有关；1988一2002年降水增加，气温升高和湖面潜在蒸散发量较小，导致径流量增加 $( 0 . 2 8 \mathrm { k m } ^ { 3 } { \cdot } \mathrm { a } ^ { - 1 } )$ ，引耗水量下降 $( - 0 . 0 0 6 \mathrm { k m } ^ { 3 } \cdot \mathrm { a } ^ { - 1 } )$ ,是湖泊水位上升的主导因素;2003—2014年比1988—2002年平均入湖水量减少约 $0 . 5 8 \mathrm { k m } ^ { 3 }$ ,出湖水量增加 $0 . 1 1 ~ \mathrm { k m } ^ { 3 }$ （生态输水工程为主），是该阶段湖水位下降的主要原因。2015年以来，入湖水量增加以及人为对出湖水量的合理控制，水位持续上升至 $1 0 4 7 . 5 9 \mathrm { m } ( 2 0 1 8 \$ 年）。
+
+# 参考文献(Reference)：
+
+[1]Li Y, Morill C.Lake levels in Asia at the Last Glacial Maximum as indicators of hydrologic sensitivity to greenhouse gas concentrations[J]. Quaternary Science Reviews,2013,60: 1-12.   
+[2]Kaplan G,Avdan U.Object-based water body extraction model using Sentinel-2 satelite imagery[J].European Journal of Remote Sensing,2017,50(1): 137-143.   
+[3] Yao J,Chen Y,Zhao Y,et al. Hydroclimatic changes of Lake Bosten in Northwest China during the last decades[J]. Scientific Reports,2018,8(1): 9118-9131.   
+[4]Bai J, Chen X,LiJ,et al. Changes in the area of inland lakes in arid regions of central Asia during the past 3O years[J]. Environmental Monitoring and Assessment,2011,178(1): 247-256.   
+[5]Guo M, Wu W, Zhou X,et al. Investigation of the dramatic changes in lake level of the Bosten Lake in northwestern China[J].Theoretical and Applied Climatology,2014,119(1-2): 341-351.   
+[6]万洪秀,孙占东,王润.博斯腾湖水位变动对湿地生态环境的影 响[J].自然资源学报,2006,21(2):260-266.[Wan Hongxiu, Sun Zhandong,Wang Run. Influence of water level change of Bosten Lake on wetland eco-environment[J]. Journal of Natural Resources,2006,21(2): 260-266.]   
+[7]陈亚宁,李稚,范煜婷,等.西北干旱区气候变化对水文水资源 影响研究进展[J].地理学报,2014,69(9):1295-1304.[Chen Yaning,Li Zhi,Fan Yuting, etal. Research progress on the impact of climate change on water resources in the arid region of Northwest China[J].Acta Geographica Sinica,2014,69(9): 1295-1304.]   
+[8]Bai J,Chen X,LiJ,etal.Changes in the area of inland lakes in arid regions of central Asia during the past 30 years[J]. Environmental Monitoring and Assessment,2011,178(1-4): 247-256.   
+[9]成晨,傅文学,胡召玲,等.基于遥感技术的近30年中亚地区主 要湖泊变化[J].国土资源遥感,2015,27(1):146-152.[Cheng Chen,Fu Wenxue,Hu Zhaoling,et al. Changes of major lakes in Central Asia over the past 3O years revealed by remote sensing technology[J]. Remote Sensing for Land and Resources,2015,27 (1): 146-152.]   
+[10]Liu Y T,Yang J,Chen Y N,et al. The temporal and spatial variations in lake surface areas in Xinjiang, China[J]. Water,2018,10 (4): 431-441.   
+[11]Jing Y Q, Zhang F,Wang X P.Monitoring dynamics and driving forces of lake changes in different seasons in Xinjiang using multisource remote sensing[Il. Furonean Iournal of Remote Sensing. 2018,51(1): 150-165.   
+[12] Li Q,Lu L, Wang C,et al. MODIS-derived spatiotemporal changes of major lake surface areas inarid Xinjiang, China, 2Ooo-2014[J]. Water,2015,7(10): 5731-5751.   
+[13] 黄坤,马龙,吉力力·阿不都外力.基于小波分析的巴尔喀什湖 水位变化特征及其影响因素[J].干旱区研究,2020,37(3):570- 579.[Huang Kun,Ma Long,Jilili Abuduwaili.A study of the water level variation of Lake Balkhash: Its influencing factors based on wavelet analysis[J]. Arid Zone Research,2020,37(3): 570-579.]   
+[14] 苏向明,刘志辉,魏天锋,等.艾比湖面积变化及其径流特征变 化的响应[J].水土保持研究,2016,23(3):252-256.[Su Xiangming,Liu Zhihui,Wei Tianfeng,etal. Change of Ebinur Lake area and its response characteristics of the runoff change[J]. Reaearch of Soil and Conservation,2016,23(3): 252-256.]   
+[15] 阿依努尔·买买提,玉米提·哈力克,阿依加马力·克然木.天山 典型湖泊水位变化影响因素对比分析——以博斯腾湖与伊塞 克湖为例[J].干旱区资源与环境,2017,31(8):143-147.[Aynur Mamat,Umit Halik,Ayjamal Keram. Remote sensing based analysis on environment changes of typical lakes in Tianshan mountains: A case study of Bosten Lake and Issyk-Kul Lake[J]. Journal of Arid Land Resources and Environment,2017,31(8): 143-147.]   
+[16] 朱长明,李均力,张新,等.近40a来博斯腾湖水资源遥感动态 监测与特征分析[J].自然资源学报,2015,30(1):106-114.[Zhu Changming,Li Junli, Zhang Xin,et al. Bosten water resource dy namic detection and feature analysis in recent 4O years by remote sensing[J]. Journal of Natural Resources,2015,30(1): 106-114.]   
+[17] 吴红波.基于星载雷达测高资料估计博斯腾湖水位—水量变化 研究[J].水资源与水工程学报,2019,30(3):9-16,23.[Wu Hongbo. Studies on changes in water level and storage of Bosten Lake based on satellite-borne radar altimetry data[J]. Journal of Water Resources & Water Engineering,2019,30(3): 9-16,23.]   
+[18] 张涛,吴剑锋,林锦,等.基于水量平衡的博斯腾湖水位变化分 析[J].水文,2015,35(3):78-83.[Zhang Tao,Wu Jianfeng,Lin Jin, et al.Analysis of water level change of Bosten Lake based on water balance[J].Journal of China Hydrology,2015,35(3): 78-83.]   
+[19] 郭梦京,周孝德,李鹏,等.近50年博斯腾湖水位变化特征分析 [J].水土保持研究,2015,22(2): 52-57.[Guo Mengjing,Zhou Xiaode,Li Peng, et al. Investigation of the changes in the water level of Bosten Lake in the past 5O years[J].Research of Soil and Water Conservation,2015,22(2): 52-57.]   
+[20] 邱辉,赵巧华,朱伟军,等.博斯腾湖水位变化特征及其可能影 响机制分析[J].气象科学,2013,33(3):289-295.[Qiu Hui, Zhao Qiaohua,Zhu Weijun,et al.Analysis of the Bosten Lake's level and its possible mechanism[J]. Journal of the Meteorological Sciences,2013,33(3): 289-295.]   
+[21]Wu Z H,Huang N E.Ensemble empirical mode decomposition: A noise-assisted data analysis method[J].Advances in Adaptive Data Analysis,2009,1: 1-41.   
+[22] 陈亚宁,杜强,陈跃滨,等.博斯腾湖流域水资源可持续利用研 究[M].北京:科学出版社,2013.[Chen Yaning,Du Qiang, Chen Yuebin,et al. Sustainable Water Resources Utilization in Bosten Lake Basin[M]. Beijing: Science Press,2013.]   
+[23] Wang H, Pan Y,Chen Y. Impacts of regional climate and teleconnection on hydrological change in the Bosten Lake Basin,arid region of northwestern China[J].Journal of Water and Climate Change,2018,9(1): 74-88.   
+[24] 徐新良,刘纪远,张树文,等.中国多时期土地利用土地覆被遥 感监测数据集(CNLUCC)[DS].中国科学院资源环境科学数据 中心数据注册与出版系统(htp://www.resdc.cn/DOI/DOI.aspx? DOIid=54),2018.DOI: 10.12078/2018070201. [Xu Xinliang,Liu Jiyuan,Zhang Shuwen,et al. Multi-period land use and land cover remote sensing monitoring data set in China[DS]. Data Registration and Publishing System of Resources and Environmental Sciences Data Center, Chinese Academy of Sciences (htp: //www. resdc.cn/DOI/DOLaspx?DOIid=54),2018.DOI: 10.12078/2018070201.]   
+[25] 柏玲,刘祖涵,陈忠升,等.开都河源流区径流的非线性变化特 征及其对气候波动的响应[J].资源科学,2017,39(8):1511- 1521.[Bai Ling,Liu Zuhan, Chen Zhongsheng,et al. Runoff nonlinear variation and responses to climate fluctuation in the headwater region of the Kaidu River[J]. Resources Science,2O17,39(8): 1511-1521.]   
+[26]Data P,Das S.Analysis of long-term precipitation changes in West Bengal, India: An approach to detect monotonic trends influenced by autocorrelations[J]. Dynamics of Atmospheres and Oceans, 2019, 88: 101-118.   
+[27] Zheng H, Zhang L, Zhu R,et al. Responses of streamflow to climate and land surface change in the headwaters of the Yellow River Basin[J]. Water Resources Research,2009,45(7): 641-648.   
+[28] 刘丽梅,赵景峰,张建平,等.近50 a博斯腾湖逐年水量收支估 算与水平衡分析[J].干旱区地理,2013,36(1):33-40.[Liu Limei, Zhao Jingfeng, Zhang Janping,et al. Water balance of Lake Bosten using annual water-budgets method for the past 5O years [J]. Arid Land Geography,2013,36(1): 33-40.]   
+[29] Allen R,Pereira L, Raes D,et al. Crop evapotranspiration: Guidelines for computing crop water requirements[J]. FAO Irrigation and Drainage Paper 56,1998,56: 1-15.   
+[30] Zhou H, Chen Y,Perry L,etal. Implications of climate change for water management of an arid inland lake in Northwest China[J]. Lake and Reservoir Management,2015,31(3): 202-213.   
+[31] 吴敬禄,马龙,曾海螯.新疆博斯腾湖水质水量及其演化特征分 析[J].地理科学,2013,33(2):231-237.[Wu Jinglu,Ma Long, Zeng Hai'ao.Water quality and quantity characteristics and its evolution in Lake Bosten, Xinjiang over the past 5O years[J]. Scientia Geographica Sinica,2013,33(2): 231-237.]   
+[32] 周洪华,李卫红,陈亚宁,等.博斯腾湖水盐动态变化(1951- 2011年)及对气候变化的响应[J].湖泊科学,2014,26(1):55- 65.[Zhou Honghua,Li Weihong, Chen Yaning,et al. Water-salt succession patterns (1951-20l1) and its response to climate change in Lake Bosten[J]. Journal of Lake Sciences,2014,26(1): 55-65.]   
+[33]Chen Z S,Chen Y N,LiB F. Quantifying the effcts of climate variability and human activities on runoff forKaidu River Basin in arid region of Northwest China[J]. Theoretical and Applied Climatology,2013,111(3-4): 537-545.   
+[34]Li B,Chen Y,Xiong H. Quantitatively evaluating the effects of climate factors on runoff change for Aksu River in northwestern China[J]. Theoretical and Applied Climatology,2014,123(1-2): 97-105.   
+[35]Wang W,Wei J, Shao Q,etal. Spatial and temporal variations in hydro-climatic variables and runoff in response to climate change in the Luanhe River Basin, China[J]. Stochastic Environmental Research and Risk Assessment, 2014,29(4): 1117-1133.   
+[36]Jorge Perez-Peraza.Highlights in Helioclimatology[M].Boston: Elsevier,2012: 71-142.   
+[37]Zhou H H,Chen Y N,Perry L,et al. Implications of climate change for water management of an arid inland lake in Northwest China[J].Lake and Reservoir Management,2015,31(3): 202-213.   
+[38] 向燕芸,陈亚宁,张齐飞,等.天山开都河流域积雪、径流变化及
+
+影响因子分析[J].资源科学,2018,40(9):1855-1865.[Xiang Yanyun,Chen Yaning,Zhang Qifei,et al.Trends of snow cover and streamflow variation in Kaidu River and their influential factors [J]. Resources Science,2018,40(9): 1855-1865.]
+
+[39] 伊丽努尔·阿力甫江,海米提·依米提,麦麦提吐尔逊·艾则孜,等.1958—2012年博斯腾湖水位变化驱动力[J].中国沙漠，2015,35(1):24O-247.[Ilnur Ghalip,Hamid Yimit,MamattursunRusuli,et al.The driving forces of the Bosten Lake water levelvariations in 1958-2012[J].Journal of Desert Research,2015,35(1): 240-247.]
+
+[40] 王俊,陈亚宁,陈忠升.气候变化与人类活动对博斯腾湖入湖径 流影响的定量分析[J].新疆农业科学，2012,49(3):581-587 [Wang Jun,Chen Yaning,Chen Zhongsheng.Quantitative assessment of climate change and human activities impact the inflowing runoff of Bosten Lake[J].Xinjiang Agricultural Sciences,2O12,49 (3): 581-587.]
+
+# Analysis of the change in water level and its influencing factors on Bosten Lake from 1960 to 2018
+
+LI Yujiao'²，CHEN Yaning'， ZHANG Qifei'²，FANG Gonghuan' (1.State KeyLaboratoryof DesertandOasis Ecology,Xinjiang InstituteofEcologyand Geography,Chinese Academy of Sciences,Urumqi 830o11,Xinjiang, China; 2.Universityof Chinese Academy ofSciences,Beijing 100049, China)
+
+Abstract: Using measurements of the water level and runofinto the lakeas wellas data from meteorological stations of Bosten Lake from l960 to 2018,this paper provides a detailed analysis of the trend in water level change based on ensemble empirical mode decompsition and the water balance model.In addition,this paper uses the climate elasticity method to explore the response ofthe water levelto hydroclimatic factors in diferent time periods,and then analyzes the complex response of the lake water level to climate change and human activities.The results revealed the follwing: (1)The lake level shows a significant decreasing trend from 1960 to 2018,which is shown in the four periods as“descending-rising-descending-rising". (2)Ensemble empirical mode decomposition analysis results show that the water level of Bosten Lake has periodic oscilations of 3-4 a and $8 -$ 9 aonthe interannual scale,and 29-30 aand 33-34 a on the interdecadal scale. (3)Thecontributions of precipitation, temperature,and potential evapotranspiration to runoff to the Kaidu River, Huangshui River,and Yanqi Basin from 1960 to 2018 were approximately $8 5 . 1 \%$ ， $4 2 . 1 \%$ ，and $23 . 8 \%$ ,respectively. Other factors contributed approximately $14 . 9 \%$ ， $57 . 9 \%$ ，and $76 . 2 \%$ to the runoff.(4) The prime reason for the decline in water level in Bosten Lake from 1960 to 1987 was the decrease in runof into the lake and substantial evaporation of the lake surface.Increase in lake water intake due to the climate change was the main cause of rise in water level from 198 to 2Oo2.The decrease in runoffinto the lakeand increase in the amount of lake water are responsible factors for the decreased water level from 2O03 to 2014.An increase in lake water intake and strict controls on discharge from 2015 to 2018 were the major reasons for the rising water level in Bosten Lake.
+
+Keywords: Bosten Lake；water level change； ensemble empirical mode decomposition；water balance；climate elasticity；influence factors

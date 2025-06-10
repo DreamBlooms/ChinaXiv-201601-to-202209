@@ -1,0 +1,832 @@
+[
+    {
+        "type": "text",
+        "text": "单词统计特性在情感词自动抽取和商品评论分类中的作用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "韩彤晖，杨东强，马宏伟(山东建筑大学 计算机科学与技术学院，济南 250100)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：单词的统计特征在自然语言处理中具有广泛的应用。针对统计特征对关键词抽取和文本分类精确度的影响，分析了八种常见的统计特征，通过情感词抽取和商品评论分类，研究统计特征在情感分析领域中的作用。情感词提取实验的结果表明，通过结合统计特征与词性，情感词提取的准确率能够达到 $7 6 . 4 \\%$ ，显著高于基于统计特征或单词词性的情感词提取算法。商品评论分类的测试结果表明，与传统的基于单词的文本情感分类相比，基于统计特征的商品评论分类的准确率提高了 $1 0 . 8 \\%$ 。利用八种统计特征构造文本向量空间模型，替代基于单词构造文本向量空间模型的方法，能够降低文本向量的维度，具有隐形语义空间(LSA/SVD)的压缩效果，在保证分类结果准确率的前提下有效降低了算法的复杂度，能够替代传统的向量空间模型。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：统计特征；情感词提取；商品评论分类 中图分类号：TP391 doi:10.3969/j.issn.1001-3695.2017.09.0913 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Using lexical statistical features in extracting sentimental words and classifying product reviews ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Han Tonghui' Yang Dongqiang, Ma Hongwei (School ofComputer Science and Technology Shandong Jianzhu University,Jinan 2501oo,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The statistical features ofwords arewidelyused inNaturalLanguageProcessing.This papersummarizes eighttypes of statistical features,andstudies theroleof these features in extractingsentimental wordsandclasifying productreviews. Sentiment words extraction result showed thatcombining these statistical features andPoS tags of wordscan achieve much higher extraction accuracy than other methods with precision of $7 6 . 4 \\%$ .Product reviews classification results showed that in contrast with sentimental words in constructingthe feature space,exclusively using these8 kinds ofstatistical features can improve classification precision by $1 0 . 8 \\%$ . Different from the multi-dimensions of lexical elements in the vector space models (VSM),this paperonly employed these8 types of statistical features inrepresentationof words or documents,which has the ability that can lower the VSM's dimension and can efectively derive the latent semantic space without expensivetime and space complexity of SVD calculation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: statistical features; extracting sentimental words; classifying product reviews ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文本情感分析作为自然语言研究领域的热点之一，在舆情分析与控制，商品评论系统中具有重要应用。情感词抽取是文本情感分析的基础，其中，抽取精度和范围是情感词典构造[I]、文本情感分类[2.3]和情感强度计算[4等应用的基础。以语法规则为基础的情感词抽取算法是一种易于实现的情感词自动抽取算法，其中，Qiu[5根据单词之间的概率关系，挖掘情感词与主题词的语法联系，同步扩充情感词集合和主题词集合，Liu[在语法规则的基础上通过引入语义相似性，改进算法的效率。上述情感词提取方法的范围仅仅局限于形容词，但是，在实际的语言环境中情感词不只局限于形容词。单词统计特征的使用不仅能够打破词性和文本领域依赖性的限制，对不同语种也具有较好的适应性[7]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文分析了八种自然语言处理领域常见的单词统计特征，通过情感词抽取和商品评论分类，研究这些统计特征在情感分析领域中的作用。情感词提取结果表明，结合统计特征与单词词性的情感词提取算法的提取精度显著高于其他常用算法。商品评论分类的实验结果表明，以八种统计特征为基础构造的低维向量空间模型能够提高分类器的准确率并能够有效降低分类算法的时间和空间复杂度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 相关研究",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "单词的统计特征以数值的形式反映单词同文类型之间的关联性，这种关联性能够作为提取关键词的依据。点互信息[8](PMI:pointwise mutual information)算法是一种典型的基于统计特征的情感词提取算法，该算法还能够根据被提取单词的PMI值来判断单词的情感极性。Aliaksei[9将语料库中出现的单词作为特征，利用线性分类算法对测试文本进行情感分类，通过调整参数向量优化分类结果，当分类结果达到最优时，将每个特征对应的参数作为提取情感词的标准。 $\\mathrm { Y u } ^ { [ 1 0 ] }$ 认为情感词对文本情感极性的贡献值远大于非情感词，因此在已知文本情感极性的前提下，计算单词在文本内的权重，并根据权重提取情感词。上述算法的实现过于复杂，且基于PMI的情感词提取算法在个别领域的文本可靠性不强。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文本情感分类根据单词在文本中的分布特征训练分类模型，可以将情感词作为特殊的关键词构造文本的向量表达。因此，基于统计特征的关键词提取算法同样适用与抽取情感词，例如，Rajeswari[1]将信息增益作为提取关键词的依据，Uysal[12]使用信息增益、让步比、基尼系数在文本中提取关键词。McAuley[13]在LDA 模型的基础上挖掘文本内的潜在关键词，Chen[14]通过LDA模型在文本中挖掘关键词，并根据关键词的频率分布对其进行分类处理。Mesleh[15]使用卡方测试为单词赋予权重，并根据权重提取关键词，Mitra[16将单词与文本之间的相关系数作为特征提取的主要依据，Juola[17利用交叉熵计算文本同单词之间的关联性，根据关联强度挖掘关键词。虽然单词的统计特征能够直观的反映单词同文本类型之间的关联程度，但是基于统计特征提取关键词面临着阈值确定的问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文分析了八种常见的统计特征在情感词抽取和文本情感分类中的作用。实验中使用基于机器学习的方法进行文本情感分类，以检验基于八种统计特征构造的向量空间模型对分类算法的优化能力。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 特征值计算与数据表达",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文依次研究信息增益(IG:informationgain)、优势比(OR:oddsration)、互信息(MI:mutual information)、对数概率比(LPR:logarithmic probability ratio)、交叉熵(CC:cross entropy)、卡方检测(CHI:chi-squire test)、相关系数(CC:correlationcoefficient)和差异性分布(DD:differentialdistribution)在情感词抽取和商品评论分类中的作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1特征值计算",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "使用 $C$ 表示文本情感类型， $C \\in \\{ p o s , \\ n e g \\}$ ，pos 为积极性情感，neg为消极性情感， $P ( C )$ 表示文本的情感类型为 $C$ 的概率， $P ( \\overline { { C } } )$ 表示文本情感类型为非 $C$ 的概率,其中， $P ( \\overline { { C } } ) { = } 1 { - } P ( C )$ 。使用字母 $T$ 表示表示文本，字母 $w$ 表示单词， $P ( w )$ 表示在 $T$ 中包含 $w$ 的概率, $P ( \\overline { { \\mathbf { \\Gamma } _ { w } } } )$ 表示 $T$ 中不包含 $w$ 的概率， $P ( \\overline { { w } } ) { = } 1 { - } P ( w )$ 。为了便于计算单词的统计特征，本文创建四元组 $\\mathcal { Q } _ { w } = \\langle q _ { p } , \\overline { { q _ { p } } } , q _ { n } , \\overline { { q _ { n } } } \\rangle$ 存放单词的分布信息，其中 $q _ { p }$ 表示包含 $w$ 的积极性文本的频率， $\\overline { { q _ { \\rho } } }$ 表示不包含 $w$ 的积极性文本的频率， $q _ { \\mathrm { } _ { p } } + \\overline { { q _ { \\mathrm { } _ { p } } } }$ 为积极性文本的频率，同理 $q _ { n }$ 与 $\\overline { { q _ { n } } }$ 表示 $w$ 在消极性文本中的分布信息，$q _ { n } + { \\overline { { q _ { n } } } }$ 为消极性文本的频率，表1列举了特征值计算过程中使用到的概率近似公式。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/b6b41149c33dee50b2a457289958c1562a75d47e9c1529425a5fdc7bc6c632a4.jpg",
+        "table_caption": [
+            "表1概率近似公式"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>类型</td><td>近似表达</td></tr><tr><td>N</td><td>qp + qp + qn + qn</td></tr><tr><td>P(w)</td><td>(qp + qn)/N</td></tr><tr><td>P(c)</td><td>C = pos : (qp+qp)/N C=neg : (qn+qn)/N</td></tr><tr><td>P(wlc)</td><td>C = pos : qp/(q+qp) C =neg : qn/(qn+qn)</td></tr><tr><td>P(m|)</td><td>C = pos : qn/(qn+qn) C=neg : qp/(q+qp)</td></tr><tr><td>P(w,C)</td><td>C= pos : qp/N C = neg :</td></tr><tr><td>P(w.c) C = pos : qp/N</td><td>C = neg :</td></tr><tr><td>P(w.) C = pos : qn/N</td><td>C = neg :</td></tr><tr><td>P(w) C = pos :</td><td>q/N C = pos :</td></tr><tr><td>P(c|w) C= pos :</td><td>qp/(q+qn) C = neg :</td></tr><tr><td>P(c[) C = pos :</td><td>q/(+q) C = pos :</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1）信息增益(IG)",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "单词的信息增益表示单词携带的用于区分文本情感类型的信息量， $w$ 的信息增益越大，则表明其区分文本情感极性的能力越强。IG的计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle { I G ( \\boldsymbol { w } ) = \\{ - \\sum _ { c = \\{ p o s , n e g \\} } P ( C ) \\times \\log P ( C ) \\} - } } \\\\ { \\displaystyle { \\{ \\sum _ { t \\in \\{ \\boldsymbol { w } , \\overline { { { \\boldsymbol { w } } } } \\} } P ( t ) \\times [ - \\sum _ { c = \\{ p o s , n e g \\} } P ( C | t ) \\times \\log P ( C | t ) ] \\} } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2）改进的让步比(OR)",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "让步比反映单词影响文本情感极性的能力，让步比的绝对值越高，表明单词影响文本情感极性的能力越强。OR的计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { O } R  \\left( \\boldsymbol { \\nu } , C \\right) = P \\left( \\boldsymbol { w } \\right) \\times \\log \\frac { P \\left( \\boldsymbol { \\nu } | C \\right) \\times \\left[ 1 - P \\left( \\boldsymbol { w } \\Big | C \\right) \\right] } { \\left[ 1 - P \\left( \\boldsymbol { w } | C \\right) \\right] \\times P \\left( \\boldsymbol { w } \\Big | C \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3）互信息(MI)",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "互信息指单词携带的能够反映文本情感类型的信息量， $w$ 的互信息越高，表明其携带的信息量越大。 $\\mathbf { M I }$ 的计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM I ( w , C ) = \\log \\frac { P ( w , C ) } { P ( w ) P ( C ) } = \\log \\frac { P (  w | C ) } { P (  w ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "最终，w的MI值为MI(w)=max{MI(w.C)}。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4）改进的对数概率比(LPR) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对数概率比类将单词在积极性和消极性文本中出现概率的对数比值作为衡量单词携带信息量的标准，对数概率比的绝对值越大， $w$ 区分文本情感极性的能力越强。LPR的计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL P R ( \\mathbf { \\psi } _ { w } ) { } _ { = P } ( \\mathbf { \\psi } _ { w } ) \\times \\log { \\frac { P ( \\mathbf { \\psi } _ { w } | c ) } { P ( \\mathbf { \\psi } _ { w } | { \\overline { { c } } } ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5）交叉熵(CE) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "交叉熵用于描述单词在积极性和消极性文本之间的分布差",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "异，若 $w$ 具有较高的交叉熵，则表明其在两种不同极性文本中的分布差异越明显，成为情感词的概率越高。CE的计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC E ( \\boldsymbol { w } ) = P ( \\boldsymbol { w } ) \\times \\sum _ { \\boldsymbol { c } \\in \\{ p o s , n e g \\} } P ( \\boldsymbol { c } | \\boldsymbol { w } ) \\times \\log \\frac { P ( \\boldsymbol { c } | \\boldsymbol { w }  ) } { P ( \\boldsymbol { w } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6）改进的卡方检测(CHI) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "卡方检测用于测试单词与文本情感类型之间的关联程度，在计算过程中，假定单词和文本类型之间服从自由度为1的卡方分布。卡方值越高，表明 $w$ 与文本情感类型的关联度越高，其成为情感词的概率也越大。CHI的计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\chi ^ { 2 } \\left( w , C \\right) = P \\left( w \\right) \\times \\frac { \\left( \\ A \\times D - E \\times B \\right) ^ { 2 } } { \\left( A + E \\right) \\times \\left( B + D \\right) \\times \\left( A + B \\right) \\times \\left( E + D \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $A$ 表示情感类型为 $\\boldsymbol { c }$ ，并且包含 $w$ 的文本的数量； $B$ 表示情感类型为非 $C$ ，并且包含 $w$ 的文本的数量； $E$ 表示情感类型为 $C$ ，并且不包含 $w$ 的文本的数量; $D$ 表示情感类型为非 $C$ 并且不包含 $w$ 的文本的数量。最终， $w$ 的CHI值为：$\\chi ^ { 2 } \\left( w \\right) = \\operatorname* { m a x } _ { c \\in \\{ p o s , n e g \\} } \\left\\{ \\chi ^ { 2 } \\left( w , C \\right) \\right\\} _ { \\circ }$ （20",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "7）相关系数(CC)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "相关系数表示单词和文本情感极性之间的相关程度，相关系数越大，表明单词区分文本情感的能力越强。CC的计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { c } C \\left( w , C \\right) = \\frac { \\left[ P \\left( w , C \\right) P \\left( \\stackrel { - } { w } , \\stackrel { - } { C } \\right) - P \\left( w , \\stackrel { - } { C } \\right) P \\left( \\stackrel { - } { w } , C \\right) \\right] } { \\sqrt { P \\left( w \\right) P \\left( \\stackrel { - } { w } \\right) P \\left( C \\right) P \\left( \\stackrel { - } { C } \\right) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "8）差异分布(DD)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "差异性分布将单词在积极性和消极性文本之间的分布差异作为衡量单词情感极性的标准，如果 $w$ 在 $C$ 类文本中的频率明显高于(或低于)其在非 $C$ 类文本中的频率，则表明 $w$ 成为情感词的可能性越大，且 $w$ 的情感极性与文本的情感极性相同(或相反)。DD 的计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal D } { \\cal D } (  w ) = { \\cal P } (  w ) \\times \\frac { | { \\cal P } (  p o s |  w ) - { \\cal P } (  n e g |  w ) |  } { \\operatorname * { m a x } _ { { \\cal C } \\in \\{ p o s , n e g \\} } \\{ { \\cal P } ( { \\cal C } |  w ) \\} }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分母取 $P ( p o s | w )$ 与 $P ( n e g | w )$ 之间的最大值， $ { \\mathrm { D D } } (  { \\boldsymbol { w } } )$ 的取值范围为[-1,1]，乘以概率 $P ( w )$ 的目的是为了降低噪声对DD值的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于标准的让步比、对数概率比和卡方检测算法倾向于给低频率单词赋予较高的权重，使得大量低频非情感词具有较高的权重，从而影响算法的可靠性。为了提高算法的可靠性，本文在标准算法的基础上乘以单词概率 $P ( w )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以让步比为例，表2列举了一组单词的OR值以及在特征值列表内的排列顺序。由表2可知，让步比算法改进前后，单词在特征值列表中的排列顺序变化较为明显。基于让步比的情感词提取实验表明，与基于标准让步比的情感词提取算法相比，基于改进让步比的情感词提取算法的准确率提高了 $1 7 . 8 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上述特征值的计算过程基本相似，本文以计算单词'good的信息增益为例，介绍特征值的具体计算方法。根据'good'的分布信息，构造四元组 $\\scriptstyle Q _ { \\scriptscriptstyle ^ { o o d } }$ ，统计结果显示，包含'good'的积极性和消极性文本频率分别为9974、5978，不包含'g00d'的积极性和消极性文本频率分别为23400、27464，即 $\\textstyle q _ { _ { P } } = 9 9 7 4$ ， $\\overline { { q _ { p } } } = 2 3 4 0 0$ （204号$\\scriptstyle q _ { n } = 5 9 7 8$ 、 $\\overline { { q _ { n } } } = 2 7 4 6 4$ ，因此 $Q _ { { g o o d } } { = } { < } 9 9 7 4 { , } 2 3 4 0 0 { , } 5 9 7 8 { , } 2 7 4 6 4 > _ { \\mathrm { c } }$ 将$\\scriptstyle Q _ { \\scriptscriptstyle ^ { g o o d } }$ 带入表1，得到计算'good'信息增益所需的相关概率，计算结果如表3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f2c13614de83e2bbaed087caa45524400db4b28a423cc9852710240602ab1f14.jpg",
+        "table_caption": [
+            "表2使用标准让步比计算方法与改进的让步比计算方法计算的部分单词的OR值和这些单词在特征值列表内的序号"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">单词</td><td colspan=\"2\">标准的OR 算法</td><td colspan=\"2\">改进的OR算法</td></tr><tr><td>OR值</td><td>排序</td><td>OR值</td><td>排序</td></tr><tr><td>wtf</td><td>2.3263</td><td>39</td><td>0.0016</td><td>932</td></tr><tr><td>yellow</td><td>2.2399</td><td>48</td><td>0.0017</td><td>841</td></tr><tr><td> penny</td><td>2.1527</td><td>55</td><td>0.0055</td><td>256</td></tr><tr><td>great</td><td>1.5835</td><td>247</td><td>0.3461</td><td>1</td></tr><tr><td>love</td><td>2.0303</td><td>77</td><td>0.3156</td><td>2</td></tr><tr><td>good</td><td>0.6270</td><td>1121</td><td>0.1604</td><td>5</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/9656bdd03b81c0190a0244e3fb99dafce306f565b6266f895f2674ad4df72be9.jpg",
+        "table_caption": [
+            "表3概率计算结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>类型</td><td>取值</td><td>类型</td><td>取值</td></tr><tr><td>P(good)</td><td>0.2387</td><td>P(poslgood)</td><td>0.6253</td></tr><tr><td>P(good)</td><td>0.7613</td><td>P(neglgood)</td><td>0.3747</td></tr><tr><td>P(pos)</td><td>0.4995</td><td>P(poslgood)</td><td>0.4601</td></tr><tr><td>P(neg)</td><td>0.5005</td><td>P(neglgood)</td><td>0.5399</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将上述概率代入式(1)，得到 $\\mathrm { I G } ( \\mathrm { g o o d } ) { = } 1 . 0 0 0 3$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 情感词自动提取 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "情感词的提取过程的实质是对连续型特征做离散化处理，跟据统计特征将单词分配到情感词或非情感词集合中。为了快速合理的划分单词集合，采用 SDR(standard deviation reduction)[18]算法划分单词集合，确定统计特征对应的阈值。SDR算法采用动态方式将单词分配到相应的集合中，分配操作结束后，计算该次分配的误差缩减量，当误差缩减量达到最大时，表明分配结果达到最优。算法公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu a l u e = s d \\left( L \\right) - \\frac { \\left| L _ { s } \\right| } { \\left| L \\right| } \\times s d \\left( L _ { s } \\right) - \\frac { \\left| L _ { n } \\right| } { \\left| L \\right| } \\times s d \\left( L _ { n } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $L$ 表示由候选情感词的特征值组成的列表， $L$ 中的元素按照特征值递减的顺序排列， $L _ { s }$ 表示情感词特征值列表， $L _ { n }$ 表示非情感词特征值列表， $\\scriptstyle { L = L _ { s } + L _ { n } }$ 。|·表示集合或列表中元素的数量， $s d ( \\bullet )$ 为标准差函数。当value达到最大值时，对情感词和非情感词的划分达到最优，此时 $L _ { n }$ 内的最大特征值即该统计特征对应的阈值。算法1描述了SDR的执行过程。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了演示SDR的执行过程，以信息增益为例，创建包含10个信息增益的样本列表 $L$ ，通过SDR确定样本的阈值。在 $L$ 中按信息增益递减的顺序排列，如表4所示。首先将样本集合 $s$ 划分为两个列表，即情感词特征值列表 $L _ { s } ( = \\{ \\mathrm { I G } \\mathrm { d i s a p p o i n t } \\} ^ { \\setminus } )$ 和非情感词特征值列表 $L _ { n } ( = \\{ \\mathrm { G h a p p y } \\mathrm { - I G _ { w e l l } \\} } )$ ，在 $L _ { s }$ 和 $L _ { n }$ 中，按元素值递减的顺序排列。在算法执行过程中，若 $\\nu a l u e { > } V$ 时，使用value更新变量 $V$ ，并且，通过 $L _ { n }$ 中最大的特征值更新变量threshold。当算法执行结束时，threshold的取值就是在 $L$ 中抽取情感词的阈值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法1 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "输入：特征列表L，情感词特征值列表 $L _ { s }$ 和非情感词特征值列表 $L _ { n }$ ，其中， $L { = } \\{ f _ { \\mathrm { w 1 } } { \\sim } f _ { \\mathrm { w } | L | } \\} , L _ { s } { = } \\{ f _ { \\mathrm { w 1 } } \\} , L _ { n } { = } \\{ f _ { \\mathrm { w 2 } } { \\sim } f _ { \\mathrm { w } | S | } \\}$ 过程：  \n1. 创建变量：V=-1，threshold $\\scriptstyle = \\forall$   \n2. for $| L _ { n } | > 1$ do  \n3. 计算 $L , \\ L _ { s }$ 和 $L _ { n }$ 的标准差 $s d ( L )$ ， $s d ( L _ { s } )$ 和 $s d ( L _ { n } )$ 4. 将 ${ \\mathit { s d } } ( L ) { \\ldots } { } d ( L _ { s } )$ 和 $s d ( L _ { n } )$ 带入公式(12),计算value;5. if value>V then  \n6. V=value， threshold= max {fw}  \nwieSn  \n7. end if  \n8. $f _ { \\mathrm { m a x } } = \\operatorname* { m a x } _ { w i \\in S _ { n } } \\{ f _ { w i } \\}$ ：  \n9. 将 $f _ { \\mathrm { m a x } }$ 存入列表 $L _ { s }$ ，并在列表 $L _ { n }$ 中删除fmax;10. end for  \n输出：threshold",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "计算 $L , \\ L _ { s }$ 和 $L _ { n }$ 的标准差和列表长度，得到，样本整体的标准差 $s d ( L ) { \\approx } 0 . 2 2 5 4$ ，长度| $ { L } | = 1 0$ ；情感词列表的标准差$s d ( L _ { s } ) { \\approx } 0 . 0$ ，列表长度| $L _ { s }$ |为 $^ { = 1 }$ ；非情感词列表的标准差$s d ( L _ { n } ) { \\approx } 1 . 8 6 1$ ，列表长度| $L _ { n }$ 为9。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "计算得到 $\\nu a l u e { \\approx } 0 . 0 5 7 9$ ，将value 赋值给 $V$ ，将 $L _ { n }$ 中的最大值 $\\mathrm { I G _ { h a p p y } }$ 添加到 $L _ { s }$ ，即 $L _ { s } { = } \\{$ IGdisappoint,IGhappy}，并且threshold=IGhappy，最后，在 $L _ { n }$ 中删除IGhappy，得到$L _ { n } { = } \\{ \\ \\mathrm { I G } _ { \\mathrm { p e r f e c t } } { \\sim } \\mathrm { I G } _ { \\mathrm { w e l l } } \\ \\}$ 。程序的最终执行结果显示，该信息增益样本的最佳阈值为0.8053。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/2ce99c0228f9b74ae4168fa4933062110e1200e4cca4c7d1aa3d83b84d1e3dc3.jpg",
+        "table_caption": [
+            "表4单词样本"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>单词</td><td>IG</td><td>单词</td><td>IG</td></tr><tr><td>disappoint</td><td>1.3370</td><td>best</td><td>0.7816</td></tr><tr><td>happy</td><td>1.2387</td><td>fast</td><td>0.7441</td></tr><tr><td>perfect</td><td>1.1125</td><td>awesome</td><td>0.7276</td></tr><tr><td>good</td><td>1.0003</td><td>stop</td><td>0.7266</td></tr><tr><td>amaze</td><td>0.8053</td><td>well</td><td>0.6931</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文对被提取的单词做如下定义：若基于单一统计特征$\\mathsf { \\alpha } \\mathsf { d } \\mathsf { ( \\in \\{ I G , O R , M I , L P R , C E , C H I , C C , D D \\} }$ 提取情感词， $\\scriptstyle a$ 对应阈值为 $\\theta$ ， $w$ 关于 $\\scriptstyle a$ 的特征值为 $f _ { w }$ 。若 $f _ { w } { > } \\theta$ ，则认为 $w$ 是情感词，称 $w$ 满足统计特征 $\\scriptstyle a$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "除了测试使用单一特征提取情感词的效果，本文还测试了基于多统计特征的情感词提取方法。实验根据研究的统计特征的数量设置了8种提取标准，依次为 $C _ { - } I { \\sim } C _ { - } \\delta$ ，其中， $C _ { - } i ( i \\in$ [1,8])要求被提取的单词至少满足 $i$ 种统计特征。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3情感分析中的数据表示",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于2.1中介绍的统计特征创建单词的特征向量，实现单词的向量表示，向量的格式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { w } = \\{ f _ { 1 } , f _ { 2 } , f _ { 3 } , f _ { 4 } , f _ { 5 } , f _ { 6 } , f _ { 7 } , f _ { 8 } \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中：向量元素 $f _ { I ^ { \\sim } } f _ { \\delta }$ 依次对应八种统计特征。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用语义组合中的向量加函数构造向量空间模型，通过特征向量表示文本，向量空间模型的构造方式下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { T } = \\sum _ { u = 1 } ^ { t } s i g \\left( \\boldsymbol { w } _ { i } \\right) \\times \\boldsymbol { V } _ { \\boldsymbol { w } } ^ { u }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $w _ { i }$ 表示在情感词中编号为 $i$ 的单词号， $s i g ( w _ { i } )$ 为符号函数，当 $w _ { i }$ 在 $\\mathrm { ~ T ~ }$ 中出现时 $s i g ( w _ { i } ) { = } 1$ ，否则 $s i g ( w i ) { = } 0$ ， $V _ { _ { w } } ^ { i }$ 表示 $w _ { i }$ 对应的单词向量，最终，可以通过向量 $V _ { T }$ 表示文本，在4.3.2中详细介绍了文本向量的构造过程。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 情感词提取与商品评论分类 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "虽然中文购物网站提供了大量商品评论，但是，现有的中文分词工具一定局限性[19]，并且这些评论中广告信息和虚假评论比重较大。因此，采用中文商品评论难以有效验证算法的实际效果。英文评论能够降低分词错误对算法的影响，并且，亚马逊购物网站提供的英文商品评论信息相对也更加真实。因此，实验采用亚马逊英文网站提供的商品评论，其中积极性评论33374条，消极性评论33442条。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1文本预处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在网站内采集的商品评论包含大量停止词和单词缩写，因此，需要对这些数据进行预处理，操作步骤如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)文本规范化(normalization)。将大写字母转换为小写字母：过虑特殊符号(如：#、 $\\textcircled{ a}$ 和停用词(如：this、that)，将单词缩写替换为正规格式(如：that's→thatis)，将否定性副词统一替换为not(如：hardly→not)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b)词干处理(stemming)。若单词以名词复数、形容词比较级、动词过去式等形式出现，则将该单词还原(如issues $$ issue、better→good)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c)词组抽取。多个连续的单词之间存在语法联系，使得这些连续的中性词具有表达情感的能力，如meetmy expectation、notbuyagain等。本文根据单词间的语法联系抽取情感词组。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "d)候选词列表构造：构造候选情感词列表 $L$ ，将文本中出现的单词和短语作为候选情感词存储在列表 $L$ 中， $L$ 内不包含重复出现的单词和短语；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "e)频率限制：过虑频率低于 $\\beta$ 的单词，本实验将 $\\beta$ 设置为35；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表5展示了预处理前后，评论集合中单词总量以及形容词、动词、名词、副词的数量变化。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/de92873c380d7819304ce02214697af435a67e3ee92214a5b0658fde7beda72e.jpg",
+        "table_caption": [
+            "表5预处理前后语料库中单词的数量变化"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"2\">预处理之前</td><td colspan=\"2\">预处理之后</td></tr><tr><td>word token</td><td>word type</td><td>word token</td><td>word type</td></tr><tr><td>形容词</td><td>464686</td><td>29443</td><td>206331</td><td>512</td></tr><tr><td>动词</td><td>1009911</td><td>29513</td><td>85451</td><td>228</td></tr><tr><td>名词</td><td>1086026</td><td>30281</td><td>630252</td><td>1596</td></tr><tr><td>副词</td><td>431654</td><td>27807</td><td>105066</td><td>191</td></tr><tr><td>积极类文本的词汇</td><td>2855588</td><td>25121</td><td>633362</td><td>2758</td></tr><tr><td>消极类文本的词汇</td><td>2378824</td><td>23907</td><td>546016</td><td>2758</td></tr><tr><td>语料库的词汇</td><td>5234412</td><td>34328</td><td>1179378</td><td>2761</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/44e46786041f2bd229807c58711591a0812e8b74aef4ab48cb9f4bcb26e37bf5.jpg",
+        "table_caption": [
+            "表6部分单词及其特征分布(加粗部分表示满足阈值要求)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">单词</td><td rowspan=\"2\">词性</td><td>𝜃-.017</td><td>OR065</td><td>-0.0022</td><td>0𝑁1PR07</td><td>p-2.921</td><td>0CH8</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>f-7C363</td><td>DD63</td></tr><tr><td>luck</td><td></td><td>0.1033</td><td>0.0077</td><td>0.0050</td><td>0.0076</td><td>2.6904</td><td>0.0019</td><td>11.3849</td><td>0.0043</td></tr><tr><td>awful</td><td>adj</td><td>0.1214</td><td>0.0084</td><td>0.0056</td><td>0.0083</td><td>2.6252</td><td>0.0021</td><td>12.2506</td><td>0.0043</td></tr><tr><td>cheap</td><td>adj</td><td>0.0164</td><td>0.0069</td><td>0.0032</td><td>0.0067</td><td>9.3314</td><td>0.0019</td><td>4.6780</td><td>0.0060</td></tr><tr><td>refuse</td><td>V</td><td>0.0814</td><td>0.0066</td><td>0.0042</td><td>0.0066</td><td>2.6427</td><td>0.0015</td><td>10.1777</td><td>0.0039</td></tr><tr><td>nice</td><td>adj</td><td>0.3661</td><td>0.0394</td><td>0.0152</td><td>0.0376</td><td>11.4454</td><td>0.0558</td><td>21.8535</td><td>0.0258</td></tr><tr><td>great</td><td>adj</td><td>4.6086</td><td>0.3461</td><td>0.0974</td><td>0.2769</td><td>21.7177</td><td>3.2030</td><td>76.6667</td><td>0.1569</td></tr><tr><td>love</td><td>V</td><td>5.0430</td><td>0.3156</td><td>0.0833</td><td>0.2748</td><td>22.4717</td><td>2.3952</td><td>78.6123</td><td>0.1289</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2提取情感词 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过四元组计算单词在文本中出现的概率、文本的情感类型为积极或消极的概率、单词同文本情感类型之间的联合概率和条件概率。创建特征值列表 $L _ { f l } { \\sim } L _ { f 8 }$ 依次存储单词和单词的8种类型的特征值，并且在特征值列表中单词按照特征值递减的顺序排列。调用SDR算法，计算每一类统计特征的阈值，并创建变量 $\\theta _ { f l } { \\sim } \\theta _ { f 8 }$ ，依次存储八种统计特征对应的阈值。该实验将基于单词词性的情感词提取算法作为实验基线，其中该算法的准确率为 $54 . 5 \\%$ ，召回率为 $2 7 . 7 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.1基于单一统计特征提取情感词 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据选取的统计特征 $\\mathbf {  { a } }$ 创建情感词典 $\\mathrm { D } _ { \\mathrm { q } }$ 用于存放基于 $\\mathfrak { a }$ 提取的情感词，查找该统计特征对应的特征值列表和阈值，遍历特征值列表，比较列表内单词的特征值与阈值之间的数值关系，若单词的特征值大于阈值，将该单词存入词典，当遍历结束后，词典内的单词即为被提取的情感词。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以基于信息增益的情感词提取算法为例，创建词典DIG,并将词典初始化为空，信息增益对应的特征值列表为 $L _ { f I }$ ，阈值为 $\\scriptstyle \\theta _ { f l } = 0 . 1 0 1 7$ 。遍历 $L _ { f I }$ ，并比较列表内单词的信息增益与 $\\theta _ { f I }$ 之间的数值关系，若单词的信息增益大于 $\\theta _ { f l }$ ，即该单词满足信息增益，将该单词存入词典 $\\mathrm { D } _ { \\mathrm { I G } }$ 。由表6可知，单词'luck'的信息增益 $\\mathrm { I G } _ { \\mathrm { l u c k } } { = } 0 . 1 0 3 3$ ，单词'refuse'的信息增益 $\\mathrm { I G } _ { \\mathrm { r e f u s e } } { = } 0 . 0 8 1 4$ 。由于 $\\mathrm { I G } _ { \\mathrm { l u c k } } { > } \\theta _ { f l }$ ，将'luck'存入 $\\mathrm { \\Delta D _ { I G } }$ ，由于 $\\mathrm { I G } _ { \\mathrm { r e f u s e } } { < } \\theta _ { f l }$ ，因此'refuse'被过滤。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.2基于多统计特征提取情感词 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于多统计特征提取情感词，要求被提取的单词满足至少。根据3.2的提取标准 $C _ { - } I { \\sim } C _ { - } \\delta$ 结合提取情感词，并利用8种统计特征为被提取单词创建向量表达。算法2展示了基于多统计特征的情感词提取算法的执行过程。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "算法2 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "输入：特征值列表 $L _ { f l } \\sim L _ { f 8 }$ ；候选情感词列表L；阈值变量 $\\theta _ { f l } \\sim \\theta _ { f 8 }$   \n过程：  \n1．根据提取标准 $C _ { - } I { \\sim } C _ { - } \\delta$ 创建词典 D1\\~D8;  \n2. for $_ { w } \\in { \\cal L }$ do  \n3. $\\pmb { I } = 0$   \n4. 查找 $w$ 在 $L _ { f l } sim L _ { f \\bar { 8 } }$ 内对应的8种特征值 $\\mathcal { f } _ { 1 } ^ { ^ { w } } \\sim \\mathcal { f } _ { 8 } ^ { ^ { w } }$ ：  \n5. for $i = 1 , 2 , \\cdots , 8$ do  \n6. if $\\mathcal { f } _ { i } ^ { \\mathrm { ~ w ~ } } > \\theta _ { \\hat { \\pi } }$ then  \n7. $\\pmb { I } + = 1$   \n8. end if  \n9. endfor  \n10. if $\\pmb { I } = \\pmb { \\mathrm { \\Omega } } _ { n }$ $( n \\in [ 1 , 8 ] )$ then  \n11. 利用 $f _ { 1 } ^ { w } \\sim f _ { 8 } ^ { w }$ 构造 $w$ 的特征值向量 $\\boldsymbol { V } _ { w }$   \n12. 将 $w$ 和 $\\nu _ { w }$ 存入词典 D1\\~Dn;  \n13. end if  \n14.end for  \n输出：词典D1\\~D8",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以提取单词'refuse'的过程为例，介绍该算法。程序从候选情感词列表中读取'refuse'，并将变量 $I$ 初始化为0。遍历特征值列 $L _ { f l ^ { \\sim } } L _ { f 8 }$ 表查找'refuse'的8 种特征值 $f _ { 1 } ^ { r e f u s e } \\sim f _ { 8 } ^ { r e f u s e }$ 。分别将$f _ { 1 } ^ { r e f u s e } \\sim f _ { 8 } ^ { r e f u s e }$ 与对应的阈值 $\\theta _ { f l } { \\sim } \\theta _ { f 8 }$ 进行数值比较，在比较过程中，若 $f _ { i } ^ { r e f u s e } > \\theta _ { f i }$ （ $i \\in [ 1 , 8 ] )$ ，则变量 $\\scriptstyle { I = I + 1 }$ 。由表6可知，'refuse'同时满足OR、MI和CC，当数值比较结束后，得到 $\\scriptstyle { I = 3 }$ 。判断 $\\boldsymbol { I > }$ 0是否成立，由于条件成立，因此利用'refuse'的8种特征值为其构造单词向量，格式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { r e f u s e } = \\left( 0 . 0 1 6 4 , 0 . 0 0 6 9 , 0 . 0 0 3 2 , 0 . 0 0 6 7 , 9 . 3 3 1 4 , 0 . 0 0 1 9 , 4 . 6 7 8 0 , 0 . 0 0 6 0 \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将'refuse'和向量 $V _ { r e f u s e }$ 存入词典 D1\\~D3，并从候选词列表中删除'refuse'。之后，程序判断候选情感词列表是否为空，若列表非空，从候选情感词列表中抽取单词，并逐步判断该单词是否为情感词，否则，结束程序。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.3结合统计特征与单词词性提取情感词 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "结合单一统计与单词词性的提取算法要求单词的特征值大于对应阈值且单词为形容词，若满足条件则将单词存入情感词典。如表6所示，'luck的信息增益均大于 $\\theta _ { f l }$ ，因此该单词满足信息增益，但是，由于'luck的词性为名词，不满足词性要求，'luck'无法被提取。根据表6可知，单词'awful的词性为形容词，并且 $\\mathrm { I G } _ { \\mathrm { a w f u l } } { > } \\theta _ { f I }$ ，因此'awful能够被结提取。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "结合多统计特征与单词词性的提取算法的执行过程与算法2相似，唯一的区别是第10行，不仅要判断I的取值，还需要判断候选情感词必须为形容词，如果单词为形容词则继续后面的操作，否则过滤该单词。由表6可知，'cheap'和'refuse'都满足三种统计特征，因此这两个单词都能够被算法2提取。但是，结合多统计特征与单词词性的提取算法要求被提取的单词必须为形容词，而'refuse'是动词词性，因此'refuse'被过滤，因为'cheap'形容词词性，所以'cheap'能够被程序提取。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.4提取结果 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "词典HowNet为文本情感分类提供了丰富的资源，其中包含9142个英文评价词语，本文根据HowNet构造标准词典用于检测上述提取算法的效率，标准词典中包含的单词必须在HowNet和语料库中同时出现。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表7的统计结果表明结合统计特征与单词词性的提取算法具有更高的准确率，相较于基于单一统计特征的提取算法，准确率平均提高 $3 6 . 8 \\%$ ，而与基于单词词性的情感词提取算法相比，准确率最大提高 $2 1 . 7 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/6cf650981c8055f7d6dfb4fb64143a493e0532b9029c1a642a1c201481d5d0eb.jpg",
+        "table_caption": [
+            "表7基于单一统计特征的提取结果 "
+        ],
+        "table_footnote": [
+            ""
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"2\">基于单一统计特征</td><td colspan=\"2\">结合单一统计特征与词性</td></tr><tr><td>准确率</td><td>召回率</td><td>准确率</td><td>召回率</td></tr><tr><td>IG</td><td>39.6%</td><td>13.3%</td><td>70.8%</td><td>4.1%</td></tr><tr><td>OR</td><td>34.4%</td><td>17.5%</td><td>71.4%</td><td>4.9%</td></tr><tr><td>MI</td><td>33.5%</td><td>19.4%</td><td>72.4%</td><td>5.1%</td></tr><tr><td>LPR</td><td>40.3%</td><td>12.6%</td><td>69.6%</td><td>3.9%</td></tr><tr><td>CE</td><td>25.1%</td><td>26.7%</td><td>67.4%</td><td>7.0%</td></tr><tr><td>CHI</td><td>41.1%</td><td>12.9%</td><td>76.2%</td><td>3.9%</td></tr><tr><td>CC</td><td>28.9%</td><td>23.8%</td><td>70.5%</td><td>7.5%</td></tr><tr><td>DD</td><td>37.4%</td><td>12.6%</td><td>76.2%</td><td>3.9%</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图1(a)展示了基于多统计特征提取情感词的结果，横坐标D1\\~D8表示根据 $C _ { - } I { \\sim } C _ { - } \\delta$ 创建的情感词典，用于存储在对应标准下提取的单词，至少满足一种特征时，提取结果具有最低的准确率，而当八种特征全满足时，提取结果具有最高的准确率。图1(b)展示了结合多统计特征与单词词性提取情感词，与基于多统计特征的提取算法相比，至少满足一种统计特征时，提取结果的准确率提高了 $4 1 . 9 \\%$ ，8种统计特征全部满足时提取结果的准确率提高了 $3 1 . 1 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/084257fc73f9ee6418aed4a3c597f2b40f6dda32156efcac960b6432943ef86e.jpg",
+        "img_caption": [
+            "图1基于多统计特征的情感词提取结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/b44b1ebcfaca17be89c43fa6acde1b0d86a40744f3d74511d05932aed1c44ad1.jpg",
+        "table_caption": [
+            "表8单一统计特征的商品评论分类结果(P表示准确率,R表示召回率)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"10\">基于单一统计特征(a)</td><td colspan=\"10\">结合单一统计特征与语单词词性(b)</td></tr><tr><td></td><td colspan=\"2\">朴素贝叶斯</td><td colspan=\"2\">支持向量机</td><td colspan=\"2\">决策树</td><td colspan=\"2\">神经网络</td><td colspan=\"2\">随机森林</td><td colspan=\"2\">朴素贝叶斯</td><td colspan=\"2\">支持向量机</td><td colspan=\"2\">决策树</td><td colspan=\"2\">神经网络</td><td colspan=\"2\">随机森林</td></tr><tr><td></td><td>P (%)</td><td>R (%)</td><td>P</td><td>R</td><td>P</td><td>R</td><td>P</td><td>R</td><td>P</td><td>R</td><td>P</td><td>R</td><td>P</td><td>R</td><td>P</td><td>R</td><td>P</td><td>R</td><td>P</td><td>R</td></tr><tr><td>IG</td><td>85.6</td><td>85.6</td><td>(%) 83.8</td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td></tr><tr><td></td><td></td><td></td><td></td><td>83.8</td><td>80.3</td><td>80.3</td><td>81.5</td><td>81.5</td><td>81.5</td><td>81.5</td><td>71.2</td><td>70.5</td><td>70.6</td><td>69.5</td><td>70.7</td><td>69.6</td><td>70.3</td><td>69.3</td><td>69.9</td><td>69.8</td></tr><tr><td>OR</td><td>86.4</td><td>86.4</td><td>85.5</td><td>85.5</td><td>79.5</td><td>79.5</td><td>81.5</td><td>80.2</td><td>83.3</td><td>83.3</td><td>71.4</td><td>70.7</td><td>70.5</td><td>69.5</td><td>71.1</td><td>70.2</td><td>70.2</td><td>69.4</td><td>70.6</td><td>69.8</td></tr><tr><td>MI</td><td>86.3</td><td>86.2</td><td>85.4</td><td>85.4</td><td>79.7</td><td>79.7</td><td>77.9</td><td>77.5</td><td>84.3</td><td>84.3</td><td>71.4</td><td>70.7</td><td>70.5</td><td>69.5</td><td>70.7</td><td>70.2</td><td>70.7</td><td>69.7</td><td>70.7</td><td>69.9</td></tr><tr><td>LPR</td><td>85.4</td><td>85.4</td><td>84.5</td><td>84.5</td><td>80.1</td><td>80.1</td><td>82.4</td><td>82.4</td><td>82.4</td><td>82.4</td><td>71.2</td><td>70.5</td><td>70.9</td><td>69.9</td><td>71.0</td><td>70.1</td><td>70.6</td><td>69.8</td><td>71.0</td><td>70.1</td></tr><tr><td>CE</td><td>85.4</td><td>85.4</td><td>83.6</td><td>83.6</td><td>79.1</td><td>79.1</td><td>55.7</td><td>55.1</td><td>83.8</td><td>83.8</td><td>70.4</td><td>69.9</td><td>70.4</td><td>69.5</td><td>69.1</td><td>68.3</td><td>66.9</td><td>66.3</td><td>69.5</td><td>68.8</td></tr><tr><td>CHI</td><td>85.5</td><td>85.5 87.1</td><td>84.6</td><td>84.6</td><td>79.5</td><td>79.5</td><td>83.4</td><td>83.1</td><td>82.5</td><td>82.5</td><td>70.5</td><td>69.9</td><td>70.7</td><td>69.8</td><td>70.7</td><td>69.7</td><td>70.3</td><td>69.5</td><td>70.7</td><td>69.9</td></tr><tr><td>CC</td><td>87.1 85.0</td><td>85.0</td><td>85.4</td><td>85.4</td><td>79.6</td><td>79.5 78.6</td><td>75.8 82.1</td><td>75.8 80.5</td><td>83.9 82.8</td><td>83.9 82.8</td><td>71.4 70.5</td><td>70.8</td><td>70.5</td><td>69.5 69.8</td><td>71.1 70.7</td><td>70.2 69.7</td><td>69.5 70.3</td><td>68.8 69.5</td><td>70.6 70.7</td><td>69.8</td></tr><tr><td>DD</td><td></td><td></td><td>84.6</td><td>84.6</td><td>78.6</td><td></td><td></td><td></td><td></td><td></td><td></td><td>69.9</td><td>70.7</td><td></td><td></td><td></td><td></td><td></td><td></td><td>69.9</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/7935569c2ffce4f4359b9cdff8d7bbfca1b15c212feb5b629aaa7b44c15467fe.jpg",
+        "table_caption": [
+            "表9多统计特征的商品评论分类结果(P表示准确率，R表示召回率)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"10\">基于多统计特征(a)</td><td colspan=\"10\">结合多统计特征与语单词词性(a)</td></tr><tr><td></td><td colspan=\"2\">朴素贝叶斯</td><td colspan=\"2\">支持向量机</td><td colspan=\"2\">决策树</td><td colspan=\"2\">神经网络</td><td colspan=\"2\">随机森林</td><td colspan=\"2\">朴素贝叶斯</td><td colspan=\"2\">支持向量机</td><td colspan=\"2\">决策树</td><td colspan=\"2\">神经网络</td><td colspan=\"2\">随机森林</td></tr><tr><td></td><td>P (%)</td><td>R</td><td>P</td><td>R</td><td>P</td><td>R</td><td>P</td><td>R</td><td>P</td><td>R</td><td>P</td><td>R</td><td>P</td><td>R</td><td>P</td><td>R</td><td>P</td><td>R</td><td>P</td><td>R</td></tr><tr><td>C1</td><td></td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td><td>(%)</td></tr><tr><td>C_2</td><td>81.4</td><td>80.2</td><td>84.1</td><td>83.9</td><td>86.7</td><td>86.7</td><td>85.9</td><td>85.8</td><td>86.3</td><td>86.3</td><td>70.7</td><td>68.5</td><td>70.9</td><td>69.7</td><td>70.6</td><td>70.3</td><td>70.9</td><td>70.0</td><td>69.1</td><td>68.6</td></tr><tr><td></td><td>81.3</td><td>80.1</td><td>83.5</td><td>83.5</td><td>84.2</td><td>84.2</td><td>84.7</td><td>84.6</td><td>84.7</td><td>84.7</td><td>70.6</td><td>68.4</td><td>70.7</td><td>69.5</td><td>70.7</td><td>70.4</td><td>70.7</td><td>69.4</td><td>70.2</td><td>69.5</td></tr><tr><td>C_3</td><td>80.8</td><td>79.6</td><td>83.5</td><td>83.3</td><td>84.3</td><td>84.2</td><td>84.7</td><td>84.5</td><td>85.0</td><td>85.0</td><td>70.5</td><td>68.3</td><td>71.1</td><td>69.8</td><td>71.2</td><td>70.8</td><td>70.5</td><td>69.3</td><td>70.5</td><td>69.9</td></tr><tr><td>C_4</td><td>81.0</td><td>79.8</td><td>83.9</td><td>83.7</td><td>84.5</td><td>84.5</td><td>85.1</td><td>85.0</td><td>85.0</td><td>85.0</td><td>70.6</td><td>68.4</td><td>71.0</td><td>69.7</td><td>71.2</td><td>70.8</td><td>70.6</td><td>69.4</td><td>70.4</td><td>69.7</td></tr><tr><td>C_5</td><td>80.6</td><td>79.3</td><td>84.1</td><td>84.0</td><td>83.9</td><td>83.9</td><td>85.2</td><td>85.1</td><td>84.8</td><td>84.8</td><td>70.7</td><td>68.5</td><td>71.0</td><td>69.8</td><td>70.7</td><td>70.3</td><td>70.8</td><td>69.5</td><td>70.5</td><td>69.7</td></tr><tr><td>C_6</td><td>79.9</td><td>78.5</td><td>83.5</td><td>83.4</td><td>82.2</td><td>82.2</td><td>84.4</td><td>84.3</td><td>84.2</td><td>84.2</td><td>70.4</td><td>68.1</td><td>71.2</td><td>70.0</td><td>71.2</td><td>70.7</td><td>70.4</td><td>69.0</td><td>70.7</td><td>70.0</td></tr><tr><td>C_7</td><td>79.8 79.8</td><td>78.4 78.4</td><td>83.4 84.1</td><td>83.5</td><td>82.5</td><td>82.4</td><td>84.7</td><td>84.7</td><td>83.5</td><td>83.5</td><td>70.4</td><td>68.1</td><td>71.2</td><td>70.0</td><td>71.2</td><td>70.7</td><td>70.4</td><td>69.0</td><td>70.7</td><td>70.0</td></tr><tr><td>C_8</td><td></td><td></td><td></td><td>84.0</td><td>82.8</td><td>82.8</td><td>85.0</td><td>84.9</td><td>83.4</td><td>83.4</td><td>70.2</td><td>67.8</td><td>71.1</td><td>70.2</td><td>70.7</td><td>70.0</td><td>71.1</td><td>69.9</td><td>70.9</td><td>70.1</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3商品评论分类测试 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将使用单一特征值构造的情感词典和结合多种特征构造的情感词典用于文本分类测试。实验使用朴素贝叶斯(naiveBayes)[20,21]、支持向量机(support vector machine,SVM)[20]、决策树(decision tree)[22]、BP 神经网络(BP neural network)[23]和随机森林(random forest)[24]五种算法对测试文本进行情感分类。测试文本同样为亚马逊的商品评论，其中积极评论997条，消极评论999条，并以列表的形式存放测试文本。使用数据处理工具Weka提供的分类器，并使用10-foldcross-validation进行商品评论分类测试，每种分类算法的参数均为Weka提供的缺省参数。将基于单词词性的商品评论分类结果作为实验的基线，上述五种分类器的测试精度依次为 $7 7 . 1 \\%$ 、 $74 . 5 \\%$ 、 $69 . 5 \\%$ 、 $6 3 . 0 \\%$ 和 $76 . 3 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.1基于单一统计特征的商品评论分类 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将基于单一统计特征构造的情感词典用于商品评论分类测试，并以单词为基础构造向量空间模型。Pang[25]证明，在文本向量中使用0、1表示情感词具有更好的效果，因此该实验中文本向量的格式如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ S V M } _ { \\tau } = \\left\\{ s i g \\left( \\boldsymbol { w } _ { 1 } \\right) , s i g \\left( \\boldsymbol { w } _ { 2 } \\right) , \\cdots , s i g \\left( \\boldsymbol { w } _ { t } \\right) \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中 $: t \\rrangle$ 表示情感词典中单词的数量， $w _ { i }$ 表示词典中编号为 $i$ 的单词，若 $w _ { i }$ 在 $T$ 中出现，则 $s i g ( w _ { i } ) { = } 1$ ，否则 $s i g ( w _ { i } ) { = } 0$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.2基于多统计特征的商品评论分类 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于词典D1\\~D8对商品评论进行分类测试，该实基于用8种统计特征构造向量空间模型，代替传统的文本表方法算法3描述了以统计特征为基础构造文本向量的过程。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "算法3 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "输入：文本列表 $\\scriptstyle { L _ { T } } ;$ 词典Di(i∈[1,8]);过程：  \n1. 创建向量空间列表并初始化为空；2. for （204号 $T \\in L _ { T }$ （204号 do  \n3. for $( w , V _ { w } ) \\in \\mathrm { ~ D 1 ~ }$ do  \n4. if $w \\in T$ then  \n5. $V _ { T } + = V _ { w }$   \n6. end if  \n7. end for  \n8. 将向量 $\\nu _ { T }$ 存入空间向量列表；9. end for  \n输出：空间向量列表",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "以对商品评论 $T$ 构造本向量为例，描述文本数据表达的具体细节，构造过程采用的情感词典为D1，商品评论 $T$ 如下：“Very nice, sleek and works great. My grandkids talked me into it,it's what they use in school.So farIlove it.\"其中，'nice'、'great和'love'以单词向量的形式存储在D1中，其向量表示如下：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { V _ { _ { n i c e } } = \\left( 0 . 3 6 6 1 , 0 . 8 4 0 0 , 0 . 0 1 5 2 , 0 . 8 0 2 5 , 1 1 . 4 4 5 4 , 0 . 0 5 5 8 , 2 1 . 8 5 3 5 , 0 . 0 2 5 8 \\right) } } \\\\ { { V _ { _ { g r e a t } } = \\left( 4 . 6 0 8 6 , 1 . 5 8 3 5 , 0 . 0 9 7 4 , 1 . 2 6 7 2 , 2 1 . 7 1 7 7 , 3 . 2 0 3 0 , 7 6 . 6 6 6 7 , 0 . 1 5 6 9 \\right) } } \\\\ { { V _ { _ { l o v e } } = \\left( 5 . 0 4 3 0 , 2 . 0 3 0 3 , 0 . 0 8 3 4 , 1 . 7 6 7 9 , 2 2 . 4 7 1 7 , 2 . 3 9 5 2 , 7 8 . 6 1 2 3 , 0 . 1 2 8 9 \\right) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "遍历词典D1，依次读取单词和对应的单词向量，检测 $w \\in$ $T$ 是否成立，若条件成立，则记录该单词和单词向量。操作结果为： ${ \\cal T } \\cap \\mathop { \\mathrm { { D } } } 1 = .$ {‘nice','great','love'}。根据3.4可知， $s i g ( n i c e ) { = } 1$ 、$s i g ( g r e a t )  1  s i g ( l o \\nu e )  1  s i g ( w )  0 , \\ w \\in \\mathrm { D 1 } \\ \\mathrm { E }$ $w \\not \\in T _ { \\circ }$ 得到 $\\scriptstyle V _ { T } =$ $V _ { n i c e } + V _ { g r e a t } + V _ { l o \\nu e }$ ，最终， $V _ { T }$ 的向量表达如下：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { T } = \\left( 1 0 . 0 1 7 7 , 4 . 4 5 3 8 , 0 . 1 9 6 , 3 . 8 3 7 6 , 5 5 . 6 3 4 8 , 5 . 6 5 4 , 1 7 7 . 1 3 2 5 , 0 . 3 1 1 6 \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.3结合统计特征与单词词性的商品评论分类 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "结合单一统计特征与单词词性的商品评论分类，以单词为基础创建向量空间模型，文本向量的构造方法与3.3.1相同，以0、1向量的形式表示文本向量。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "结合多统计特征与单词词性的商品评论分类，以8种统计特征构造文本的向量表达，尽管该部分文本向量的构造方法与3.3.2相同，但是由于情感词提取算法存在差异，因此构造的文本向量也存在差异。仍以3.3.2中的商品评论为例，基于多统计特征的商品评论分类通过‘nice’‘great'和‘love'，由于结合多统计特征与单词词性的商品评论分类只采用形容词，由表6可知，该算法只能利用‘nice’‘great'的单词向量构造评论的向量表达。最终，上述客户评论的向量表达为 $V _ { T } { = } ~ V _ { n i c e } { + } ~ V _ { g r e a t }$ ，向量形式如下：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { _ { T } } = \\left( 9 . 6 5 1 6 , 3 . 6 1 3 8 , 0 . 1 8 0 8 , 3 . 0 3 5 1 , 4 4 . 1 8 9 4 , 5 . 5 9 8 2 , 1 5 5 . 2 7 9 , 0 . 2 8 5 8 \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.4分类结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表 8(a)展示了基于单一统计特征的商品评论分类结果，在朴素贝叶斯算法中，基于相关系数的商品评论分类算法具最有最高的精度，其准确率为 $87 . 1 \\%$ 。在BP-神经网络中，基于交叉熵的商品评论分类算法的准确率只有 $5 5 . 7 \\%$ 。表8(b)展示了结合单一统计特征与词性的商品评论分类结果，测试结果的准确率集中分布在区间 $6 6 \\%$ 至 $72 \\%$ 内。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表9(a)描述了基于多统计特征的文本情感分类结果，结果表明，当单词至少满足一种统计特时，所有分类算法均达到最优的分类效果。结合多统计特征与单词词性的文本分类的准确率集中分布在区间 $69 \\%$ 至 $71 \\%$ 内，如表9(b)所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 实验结果分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由于人们倾向于用形容词表达个人情感，因此，与基于统计特征的情感词提取算法相比，基于单词词性的情感词提取算法具有更高的精度。在实际的语言环境中，除了形容词，部分动词、副词和名词也具有表达情感的能力,例如，‘love'、‘kindly'、‘issue\"等，上述原因使得基于单词词性的商品评论分类算法的准确率低于基于单词统计特征的商品评论分类算法。结合统计特征与词性的情感词提取算法要求被提取的情感词既要满足统计特征并且词性为形容词，表7和图1展示的提取结果表明，该提取算法的准确率高于只基于单词统计特征或单词词性的提取算法。通过表8可知，基于单一统计特征的商品评论分类测试的最高准确率为 $8 7 . 1 \\%$ ，而结合单一统计特征与单词词性的商品评论分类测试的最高准确率仅为 $71 . 4 \\%$ 。表9表明，基于多统计特征的商品评论分类测试的最佳结果为 $8 6 . 7 \\%$ ，结合多统计特征与单词词性的商品评论分类的最高准确率只有 $71 . 2 \\%$ 造成上述现象的主要原因是，结合统计特征与词性虽然能够提高提取单词的准确率，但是由于增加了提取算法的限制条件，使得满足要求的单词随之减少，导致文本情感分类测试中情感词的数量不足，从而降低分类算法的精度，如‘love'，该单词满足统计特征，但由于其词性为动词，因此该单词无法被系统提取。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图1(a)表明，当单词满足八种统计特征时，即在标准 $C _ { - } \\delta$ 时，基于多统计特征的情感词提取算法具有最高的精度，当单词至少满足一种统计特征时，即在标准 $\\boldsymbol { C } _ { - } \\boldsymbol { I }$ 时，提取算法的精度最低。由表9-(a)可知，基于 $\\boldsymbol { C } _ { - } \\boldsymbol { I }$ 构造的情感词典在商品评论分类测试中具有最高的精度，而基于 $\\boldsymbol { C } _ { - } \\delta$ 构造的情感词典在商品评论分类测试中具有最低的精度。造成该现象的原因在于，由于提取标准 $\\underset { - } { C } \\overset { i } $ 要求被提取的单词至少满足 $i$ 种统计特征，当 $i$ 增加时，满足要求的单词也随之减少，候选词情感词列表中只有少量单词满足标准 $\\boldsymbol { C } _ { - } \\delta$ ，从而造成在分类测试中词典D8无法提供足够数量的情感词，降低分类器的准确率。例如，‘cheap'在商品评论中该单词能够表达客户对商品价格的观点在基于多统计特征的提取实验中，该单词满足三种特征，因此只有词典D1\\~D3包含‘cheap'，当使用这些词典进行商品评论分类时，可能会遗漏包含‘cheap\"的文本，影响分类算法的效率。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对比表8(a)与表9(a)可知，在朴素贝叶斯分类器中基于单一统计特征的商品评论分类算法优于基于多统计特征的文本情感分类算法，而在另外四种分类器中，基于多统计特征的文本情感分类算法具有更高的精度。并且，在多统计特征的商品评论分类实验中，基于8种统计特征创建向量空间模型，与传统的基于单词构造向量空间模型的方法相比，该方法有效的降低了文本向量的维度，具有隐性语义空间(LSA/SDV的压缩效果，压缩文本向量可以有效减小数据的规模，降低了分类算法的空",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "间和时间复杂度。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文选取了8种在自然语言处理中常见的统计特征，并研究它们在情感词抽取和商品评论分类中的作用。实验结果表明，基于统计特征的文本情感分类方法具有更高的精度。在基于多统计特征的商品评论分类实验中，以8种统计特征为基础创建文本的向量空间模型，替代传统的文本表示方法。测试结果表明这文本表示方法在保证分类算法准确率和召回率的前提下，有效的降低了分类算法的时间和空间复杂度。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "今后的工作将改进语句拆分算法，使系统可以挖掘文本中包含的网络用语，研究统计特征在不同的分类算法中的权重，使系统能够根据分类器自动为对应的统计特征赋予相应的权重，提高文本分类的效率。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]Tang D Y,Wei FR,Qin B,et al. Building large-scale twitter-specific sentiment lexicon: a representation learning approach [Cl//Proc of the 25th International Conference on Computational Linguistics.2014: 23-29.   \n[2]Ibrahim H S,Sherif MA,Gheith MH. Sentiment analysis for modern standard Arabic and colloquial [J]. International Journal on Natural Language Computing,2015,4(2): 95-109.   \n[3]Wang FX, Zhang ZH,Lan M.ECNU at SemEval-2016 task 7: an enhanced supervised learning method for lexicon sentiment intensity ranking [C]// Proc of the International Workshop on Semantic Evaluation.2016: 491-496.   \n[4]Mohammad S M,Bravo-Marquez F.Wassa-2017 shared task on emotion intensity $[ \\mathrm { C } ] / \\AA$ Proc of the Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis.2017.   \n[5]Qiu G,Liu B,Bu JJ,et al. Opinion word expansion and target extraction through double propagation [J].Computational Linguistics,2011,37(1): 9- 27.   \n[6]Liu K, Xu L H, Zhao J. Extracting opinion targets and opinion words from online reviews with graph co-ranking [C]//Proc of the 52nd Annual Meeting of the Association for Computational Linguistics.2014: 314-324.   \n[7]Chetviorkin I, Loukachevitch N. Domex: extraction of sentiment lexicons for domains and meta-domains [C]//Proc of COLING.2012: 77-86.   \n[8]Jovanoski D,Pachovski V,Nakov P.On the impact of seed words on sentiment polarity lexicon induction [C]// Proc of COLING.2016:11-17.   \n[9]Severyn A, Moschitti A. On the automatic learning of sentiment lexicons [C]// Proc of Annual Conference of the North American Chapter of the Association for Computational Linguistics:Human Language Technologies. 2015: 1397-1402.   \n[10] Yu H L,Deng Z H,Li S Y. Identifying sentiment words using an optimization-based model without seedwords [C]// Proc of the 51st Annual ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Meeting of the Association for Computational Linguistics.2013:855-859. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[11] Rajeswari K,Nakil S,Patil N,et al. Text categorization optimization by a hybrid approach using multiple feature selection and feature extraction methods [J].International Journal of Engineering Research and Applications, 2014,4 (3): 86-90.   \n[12] Uysal A K.An improved global feature selection scheme for text classification [J].Expert Systems With Applications,2016,43:82-92.   \n[13] McAuley J,Leskovec J. Hidden factors and hidden topics: understanding rating dimensions with review Text[C]//Proc of the 7th ACM Conference on Recommender Systems.2013: 165-172.   \n[14] Chen Z Y,Arjun Mukherjee,Liu B. Aspect extraction with automated prior knowledge learning [C]// Proc of the 52nd Annual Meeting of the Association for Computational Linguistics. 2014,347-358.   \n[15] Mesleh AA. Chi square feature extraction based svms arabic language text categorization system [J]. Journal of Computer Science,2007,3 (6): 430 435.   \n[16]Mitra P,Murthy CA,Sankar K.P.Unsupervised feature selectionusing feature similarity [J].IEEE Trans on Pattern Analysis and Machine Intelligence,2002,24 (3): 301-312.   \n[17] Juola P，Baayen H.A controlled-corpus experiment inauthorship identificationbycross-entropy[J].Literaryand Linguistic Computing,2005, 20 (1): 59-67.   \n[18] Wang Y, Witten I. Inducing model trees for continuous classes [C]// Proc of the 9th European Conference on Machine Learning.1997: 128-137   \n[19] Zhou XJ,Wan XJ, Xiao JG. Collective opinion target extraction in Chinese microblogs [C]//Proc of Conference on Empirical Methods in Natural Language Processing. 2013: 1840-1850.   \n[20] Bakliwal A,AroraP,PatilA,etal.Towards enhanced opinion classification using NLP techniques [C]// Proc of Workshop on Sentiment Analysis where AI Meets.2011:101-107.   \n[21] Yoo JY, Yang D M. Clasification scheme of unstructured text document using tf-idfand naive bayes classifier[J].Advanced Science and Technology Leters,2015,1 (50): 263-266.   \n[22] Chen H, Zhan Y,Li Y.The application of decision tree in Chinese email clasification [C]//Proc of the 9th International Conference on machine Learning and Cybernetics.2010: 305-308.   \n[23] Zhang M L,Zhou Z H. Multi-label neural networks with applications to functional genomicsand text categorization [J]. IEEE Trans on Knowledge and DataEgeg,18(0):-1.   \n[24] Moreira S,Filgueiras J, Martins B,etal. Reaction: a naive machine learning approach for sentiment classification [C]/ Proc of the 2nd Joint Conference on Lexical and Computational Semantics.2013: 490-494.   \n[25] Pang B,LeeL， Shivakumar Vaithyanathan.Thumbsup?sentiment classification using machine learning techniques [C]/ Proc of Conference on Empirical Methods in Natural Language Processing.2002:79-86 ",
+        "page_idx": 7
+    }
+]

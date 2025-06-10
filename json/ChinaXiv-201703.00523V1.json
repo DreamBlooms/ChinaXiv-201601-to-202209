@@ -1,0 +1,320 @@
+[
+    {
+        "type": "text",
+        "text": "彩巢计划 $^ 1 - ^ { 6 6 }$ 成长在中国”：学龄儿童青少年脑与行为生长发育曲线项目",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨宁1,2,3#何叶 1,2.3.4,#张喆1,2.3,#董昊铭1,2,3,5,#张蕾1,2,3#朱幸婷1,2.3.6侯晓晖1,2.3,7王银山1,2.3周荃1,2,3宮竹青1,2.3曹立智1,2,3王平1.2,3张一文1,2.3隋丹阳1,2,3徐婷1,23.8魏高峡1,2,3杨志1,2.3.5,10 姜黎黎1,2.3李会杰1,2.3冯廷勇陈安涛邱江’陈旭左西年1.2.35,7,9\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1（中国科学院行为科学重点实验室 北京100101）2（中国科学院大学心理学系 北京 100049)3（中国科学院心理研究所毕生人脑连接组学与行为研究团队 北京 100101)4（DepartmentofPsychologicaland Brain Sciences,IndianaUniversityIndiana 47405,USA)5（中国科学院心理研究所磁共振成像研究中心北京 100101）（QuintilesIMS, Shanghai, China, 200041）7（广西师范学院教育科学学院认知神经科学与教育实验室 南宁 530001)8（Child Mind Institute,New York,NY 10022, USA)9（西南大学心理学部 重庆400715）10（上海市精神卫生中心上海 200030)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "#同等贡献作者：杨宁、何叶、张喆、董昊铭、张蕾 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*通讯作者：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "左西年，博士，研究员  \n中国科学院行为科学重点实验室  \n中国科学院心理研究所磁共振成像研究中心  \n中国科学院心理研究所毕生人脑连接组学与行为研究团队  \n地址：北京市朝阳区林萃路16号院南楼 708  \n邮编：100101  \n电话：64853798  \n邮件： zuoxn@psych.ac.cn; zuoxinian@gmail.com  \n实验室网站：http://zuolab.psych.ac.cn",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：[目的]介绍“中国彩巢计划：成长在中国（Chinese ColorNest Project-CCNP:GrowingUp in China 2013-2022）”大型学龄儿童青少年脑与行为生长曲线项目。「方法]在全国范围内分期分步地开展毕生发展各年龄段的心理行为与脑影像样本积累，未来十年CCNP将基于加速纵向实验设计方法，建立中国人脑毕生发展的常模轨线。[结果]作为\"彩巢\"计划的脑发育项目，devCCNP已经完成对重庆北碚区192名健康儿童青少年(6-18岁)的5年追踪。[结论]devCCNP就实验设计、样本采集策略、数据获取和存储、初步结果和数据共享等方面都说明本计划具备长期实施的可行性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关键词：中国彩巢计划；生长曲线；脑与认知；脑成像；连接组",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "序言",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "生长发育曲线基于各个年龄阶段的儿童青少年进行相关生理或心理指标的测量，得到某特定年龄阶段的儿童青少年在某项生理或心理指标上的典型表现特征，能够帮助确定发育关键期，监测几童个体是否达到了正常发育水平。儿科在公共健康领域的长期临床实践表明：生长发育曲线是进行生长发育监测的有力工具。譬如，通过世界卫生组织（WHO）2006 年发布的身高发育曲线[1,2]，可以知道在某特定年龄（如5岁）男性儿童人群的身高中位数为110厘米，上下三个标准差所对应的身高分别为123.9 厘米和96.1厘米。如果该年龄段儿童身高不足96.1厘米，则提示医生和父母该儿童营养不良或存在其它发育异常，应及时检查干预。通过生长发育曲线，可以监测儿童青少年的各项生理及心理指标是否在正常发育范围内，方便辅助儿童发育疾病的早期干预和治疗。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "世界卫生组织早在上世纪70年代就发布了5到19岁儿童青少年的国际化生长发育参照标准[3]，并在1997年到2003年间开展了针对6岁前儿童的多中心生长参照研究计划，其中包括从出生到24个月年龄新生儿的纵向追踪研究和从18个月到71个月儿童的横向调查4；于2007年使用新的统计模型对已有的生长发育曲线进行了重构[5]。世界卫生组织发布的生长发育参照标准包括身高、体重、身体质量指数、头围、胸围等等人体测量数据，除了辅助评估儿童发育的营养状态，很多国家还依据发育曲线测量国民幸福感评价，并据此制定相关的公共健康与卫生政策。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在国家卫生部支持的全国人口普查大力推动下，国内公共健康和儿科临床实践已经基于世界卫生组织（WHO）和美国国家疾病控制中心（CDC）的生长发育常模方法，建立了完备的中国儿童青少年身高、体重、头围、微量元素等的生长发育曲线，为中国儿童青少年的生长发育及其临床监护做出了巨大的贡献。由首都儿科研究所生长发育研究室和北京大学儿童青少年卫生研究所共同制定了0 到18 岁儿童、青少年身高体重的标准化生长曲线。其中，0\\~6岁数据来自国家卫生部组织实施的\"2005 年中国九市7岁以下儿童体格发育调查研究\"大型普查项目中的城区调查资料；7\\~19岁数据来自教育部组织实施的\"2005年中国学生体质与健康调查研究\"中与7岁以下调查相对应的九省市城区调查资料。九省市分别为北京、哈尔滨、西安、上海、南京、武汉、广州、福州和昆明。其中7岁以下分为22个年龄组，按年龄组距要求进行随机整群抽样，共调查健康儿童69760名，其中男性34901名，女性34859名；6\\~19岁健康儿童、青少年则是以整群抽样方法在上述九城市及周边城市先确定测查学校，再以年龄分层，以班级为单位随机整群抽样，共调查健康儿童青少年24542名，其中男性12188名，女性 12354 名[7]。2010 年，李辉等又使用上述九市数据，以1个月为间隔对0\\~6个月龄婴儿的体重、身长和头围构建了生长曲线[8]。除上述身体测量指标外，金春华等人于2009-2013年间修订了北京地区对评估儿童神经心理发育程度的《中国儿童发育量表》，以儿童认知发展理论为基础，从儿童的粗大运动、手的精细动作、适应能力、语言、社会行为5个方面确定量表的测量维度，重新梳理并定位了测验项目[9]，并在北京地区选取了0\\~60 月龄的儿童 2402名，其中男性1265名，女性1137名，进行了北京地区的常模修订和信度分析[10,11]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "临床流行病学调查显示：脑功能疾病给各国带来了巨大的社会与经济负担，这类疾病可在人类生命周期的任何节点发生[12.13]，其中精神障碍类患者 $50 \\%$ 在14 岁前发病，而此年龄放宽至24岁则会覆盖 $7 5 \\%$ 患者[14,15]。研究表明可以识别这类疾病易感性出现的时间窗，比如：幼儿时期易感性表现为破坏性行为、冲动和焦虑，青春期易出现情绪化行为、精神疾病和药物滥用[16-20]。美国国立精神卫生研究所（NIMH）战略计划强调：在脑和行为科学领域，科学发现需要特别注意构绘大脑功能和精神病的毕生发展轨线，为指定的大脑回路绘制统计常模将使研究人员能够了解整个发育过程中的精神疾病发病病理生理基础[21]。人脑磁共振成像技术已在脑发育基础研究领域广泛应用[22]，逐渐被用来探索儿童青少年脑与行为发展轨线[23-26],有望为各类脑功能发育疾病的客观诊断和早期检测以及病程监测提供客观辅助工具[27-30]。然而在全世界范围内，儿童青少年脑认知与行为的生长发育曲线仍然缺乏，究其原因是脑科学相关基础研究尚未给予生长发育曲线足够的重视。近来，随着各国脑计划的提出和推进[31,32]，人脑发展及其与心理行为之间关系越来越受到关注，并逐步成为当前脑科学研究的核心内容之一，比如美国提出的“人类连接组计划 Human Connectome Project（HCP：2009-2015）”，聚焦探索宏观尺度上人脑连接组与心理行为关联，取得了一系列进展[33,34]，美国国立卫生研究所（NIH）基于 HCP 的技术最新进展完成了婴儿连接组、青少年脑与认知发育和人脑毕生发展三大项目的部署[35]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "聚焦脑科学领域国际前沿，我国科学家在国家自然科学基金委、中国科学院、国家科技部和北京市科委的资助下，相比美国HCP得以在国内更早地（2012）开展人脑生长发育曲线研究，并提出了“中国彩巢计划ChineseColorNestProject（CCNP：2013-2022）”，在全国范围内分期分步地开展毕生发展各年龄段的心理行为与脑影像样本积累[36.37]。CCNP 将在未来10 年内建立中国人脑毕生发展的常模轨线，作为\"彩巢\"计划的脑发育项目，devCCNP已经初步完成了对重庆北碚区192名健康儿童青少年（6-18岁）的5年追踪，验证了项目可行性[38,39]。本文将对devCCNP实验设计、样本采集策略、数据获取和存储、初步结果和数据共享、研究目前存在问题和挑战、未来研究计划和安排等进行详细介绍。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验设计与样本",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "建模大脑发展曲线要求受试群体的年龄构成具有足够跨度，并且对其进行一定时间间隔的追踪测量；同时，研究大脑架构个体差异也要求同一年龄段的受试数量达到一定水平以足以将样本的统计结果推广至总体。作为一个毕生发展研究计划，CCNP采用了纵向和横向混合设计，原因是纯粹的纵向实验设计在人类身上不易现实，而纯粹的横向实验设计无法精准刻画个体内部的变化[40-42]。作为毕生发展曲线的前端，devCCNP致力于建模儿童青少年脑认知生长发育曲线。然而，直到devCCNP提出以前，脑成像领域仍然缺乏建模大脑结构和功能生长曲线的纵向数据集。少数大样本脑发育数据集只包含横断面的结构形态磁共振（sMRI）、扩散张量磁共振（dMRI）和静息态功能磁共振（rfMRI）脑影像数据[43.44]，极大地限制了生长曲线建模的统计力度和敏感度。因此，为精准地建模大脑生长曲线，我们采用多队列结构化纵向实验设计[41]，建立一套规范的涵盖多模态脑成像与认知行为的大样本纵向数据集。该设计的优点包括：1）多队列纵向设计可以系统的追踪被试个体大脑结构和行为的发育变化，可以有效控制季节、气候等外界环境因素对被试生理和心理发育过程中的影响，同时还可以保证纵向追踪的多次测量覆盖所有年龄阶段；2）队列内结构化设计保证了每次测量都能涵盖各个年龄阶段，收集足够的横向数据用以研究不同年龄阶段的年龄特征及个体差异；3）混合设计不仅能系统地纵向追踪个体的大脑及行为发育变化，还能扩充横向样本，使拟合的发育常模轨线更具有代表性；4）多队列结构化设计在一定程度上回避纵向追踪的缺陷（如时间长，脱落率高等）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "受试者采样策略：所有受试者年龄要求在6.0至17.9岁（招募年龄），每间隔1年为一个年龄段（共12个年龄段），每15个月为一个队列（这里采用1年一个季节的设计来规避季节效应），期间每一个队列每一个年龄段中采样 16人（8名男性和8名女性）；对每一名受试者，追踪期限为接下来的30个月，包含三个队列（基线、追踪1、追踪2），即三次磁共振成像扫描和认知行为测查，后两次追踪分别在第15个月和第30个月进行。详细的采样策略图示请参考图1，其中直观地展示了受试者采样发生过程细节。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/96d06370b93750f250fd723539241d5e12c7e671a056d1abfb1c579cfc3c6dc4.jpg",
+        "img_caption": [],
+        "img_footnote": [
+            "图1采样策略图示。该设计包含三个队列（cohort），分别是基线（紫色）、追踪1（蓝色）、追踪2（绿色），每个队列的覆盖时间是15个月，覆盖自6至18岁的12个年龄段。"
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "受试招募策略：目标样本整体将是基于社区的健康学龄儿童青少年，将优化样本的代表性和易于项目实施，充分考虑跨越地域和社会经济群体的变化，项目组首先在重庆市的北碚区进行项目试点。中国科学院心理研究所与西南大学心理学部共同负责这次试点项目，通过选择一所小学和一所中学，覆盖小学一年级到高中二年级。项目组致力于对这些学龄儿童进行全面的生长发育监测，为每一个家庭和每一个儿童提供长达五年的身心发育报告，并通过多场家长、学校和项目组的三方沟通见面会，进行上述项目理念的推广，与此同时也结合大量最新脑发育科学进展在学校和家庭开展生长发育监测的科普活动。项目组均匀地分布五年中受试样本数据收集，避免集中时间段采集样本而干扰实验结果的推广力。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "受试排除原则：1）人口学信息。由于不能提供详细的家族史，收养儿童不被包括在本研究中。2）怀孕、分娩和围产期史。已知能够改变大脑结构或功能的子宫内暴露(孕期接触致畸药物、吸烟每天超过半包、喝酒每周超过两次白酒)，超过两天的黄疸输血和/或光疗，多胎，婴儿复苏胸外按压或插管，出生体重小于1.5公斤或大于4.2公斤。3）身体物理/医疗或发育参数。身高或体重小于中国儿童青少年生长曲线的第3个百分位，或头围小于生长曲线的第3个百分位。病史对中枢神经系统的影响（癫痫症，中枢神经系统感染，恶性肿瘤，糖尿病，系统性风湿性疾病，肌营养不良症，偏头痛或丛集性头痛，镰状细胞贫血等），重大闭合性颅脑损伤（如重大的医学或神经系统疾病，意识丧失），听力障碍而需要辅助干预，视力障碍而需要比传统眼镜更特殊的矫正（如斜视），金属植入物或目前正怀孕测试。4）行为/精神。目前或过去接受过语言障碍治疗，轴I精神病史，儿童行为量表（CBCL）总分高于70，韦氏智力（WISC-IV）智商得分低于80。5）家族史。遗传性神经系统疾病史，任何一级亲属有由于非创伤性的事件导致的精神发育迟滞，任何一级亲属有如下病史之一：精神分裂症，双相情感障碍，精神障碍，酒精或其他药物依赖，强迫症，妥瑞氏症，抑郁症，多动症或广泛性发育障碍。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表型评估与数据采集",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "项目组开展常见的行为学和神经心理学测量。本团队的国际合作成员已经演示了在基于脑影像学的毕生发展研究中开展大型表型数据测量的可行性，在本项目中我们全部使用中文版本。针对每个儿童，评估与采集流程按照如下进行：受试和家长签署知情同意书，家长填写家庭基本信息情况表及儿童行为量表（CBCL），身高、体重、脉搏和血压测量，磁共振影像扫描（MRI），行为量表和心理实验测查，韦氏智力测试。为防止行为测查引起被试的生理疲劳及心理情绪状态的波动，进而影响脑成像静息态功能扫描，所有心理行为及实验测查均在磁共振影像扫描后完成，可以是当天进行或者是隔几天后进行，表1和表2分别给出了本项目所采用行为量表和心理实验测查的详细相关信息。下面就韦氏智力测试和MRI扫描相关的表型评估进行详细介绍。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f44fc675dffb0bccbc62a52dbfbe8e41525ef9550c7de220847c5b1405dad880.jpg",
+        "table_caption": [
+            "表1心理行为问卷测量"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>量表名</td><td>适年</td><td>施</td><td>采集</td><td>条目数</td><td>维度</td><td>信度</td><td></td><td>效度</td></tr><tr><td>儿童行为量表[45,46]</td><td>4~16</td><td>他评</td><td>3</td><td>120</td><td></td><td>重测信度：0.77～0.79</td><td></td><td>因子分析得到2个因子，解释的变异量为：4～11岁男， 63.0%；4～11岁女，60.2%; 12～16 岁男，73.4%；12～16 岁女，67.4%。</td></tr><tr><td>知觉压力量表[47,48]</td><td>>10</td><td>自评</td><td>3</td><td>14</td><td></td><td>内部一致性信度：0.78</td><td></td><td>因7子分析得到2个因子，各个条目的因子载荷介于0.50～</td></tr><tr><td>青少年生活事件量表[49]</td><td>13～20</td><td>自评</td><td>3</td><td>27</td><td></td><td>重测信度：0.69；分半信度：0.88; 内部一致性信度：0.85</td><td></td><td>因子分析得到6个因子，共解释全量表44%的变异。</td></tr><tr><td>儿童自我意识量表[50]</td><td>6~17</td><td>自评</td><td>1</td><td>80</td><td></td><td>丙测度：0.70：04；分半信度：0.82；</td><td></td><td>以ICD-10诊断标准作效标，以PHCSS总分第30百分位作 划界分时对异常儿童的诊断，其灵敏度为70%，特异度为</td></tr><tr><td>儿童社会焦虑量表[51]</td><td>7~16</td><td>自评</td><td>3</td><td>10</td><td></td><td></td><td>重测信度；：54~084；半分信度：0.81；内部</td><td>因子分析得到2个因子，共解释全量表 49.21%的变异。</td></tr><tr><td>儿童多维度焦虑量表[52]</td><td>8~19</td><td>自评</td><td>3</td><td>39</td><td></td><td>重测信度：0.84; 内部一致性信度：0.91</td><td></td><td>因子分析得到4个因子，各项拟合指标都在0.94以上。</td></tr><tr><td>状态-特质焦虑量表[53-55]</td><td></td><td>自评</td><td>3</td><td>40</td><td></td><td>重测信度：0.68</td><td></td><td>因子分析得到4个因子，共解释全量表47.1%的变异。</td></tr><tr><td>儿童抑郁量表[56]</td><td>7~17</td><td>自评</td><td>3</td><td>27</td><td></td><td>重信度性信度：0.88</td><td></td><td>因子分析得到5个因子，各项拟合指标都在0.87 以上。</td></tr><tr><td>儿童孤独量表[57]</td><td>6~12</td><td>自评</td><td>3</td><td>24</td><td></td><td>内部一致性信度：0.88</td><td></td><td>验证性因子分析，各项拟合指标都在0.80以上。</td></tr><tr><td>积极消极情感量表[58.59]</td><td></td><td>自评</td><td>3</td><td>18</td><td></td><td>内部一致性信度：>0.77</td><td></td><td>因子分析到个子，个条日的因子载荷介于0.45～</td></tr><tr><td>巴昂情绪智力量表[60]</td><td>7~18</td><td>自评</td><td>3</td><td>60</td><td></td><td>致信度：0.90</td><td></td><td>因子分析得到4个因子，共解释全量表41.14%的变异。</td></tr><tr><td>艾森克人格问卷 （青少年版）61]</td><td>7~15</td><td>自评</td><td>3</td><td>88</td><td></td><td>小学生重测信度：0.58～0.67; 中学生重测信度：0.61～0.86</td><td></td><td></td></tr><tr><td>艾森克人格问卷 （成人版） [62]</td><td>≥16</td><td>自评</td><td>3</td><td>88</td><td></td><td>分量表分半信度：0.51～0.77; 内部一致性信度：0.54～0.78</td><td></td><td></td></tr><tr><td>威廉姆斯创造性 托兰斯创造性测试[63-66]</td><td></td><td>自评</td><td>1</td><td>10</td><td></td><td></td><td></td><td></td></tr><tr><td>倾向测试[67]</td><td></td><td>自评</td><td>3</td><td>50</td><td></td><td>0.87；分半信度：0.41～0.92</td><td>重测信度：0.49～0.81；内部一致性信度：0.40～</td><td></td></tr><tr><td>识字测验[68]</td><td>5~12</td><td>他评</td><td>3</td><td>150</td><td></td><td>分半信度：0.89</td><td></td><td></td></tr><tr><td>视频游戏调查（自编）</td><td></td><td>自评</td><td>1</td><td>13</td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/0e7551db14e4a94c0ed4bf4245b4b792df5bebe5d17270cc4770f04cbe816a89.jpg",
+        "table_caption": [
+            "表2心理实验任务测量"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>任务名称</td><td>施测 方式</td><td>采集 次数</td><td>任务简介</td></tr><tr><td>（Attention Network Test） 注意网络测试[69]</td><td>电脑</td><td>3</td><td>要求被试正确且迅速判断靶子的 朝向：中间的箭头的方向是朝左 或朝右，并按相应键反应。</td></tr><tr><td>(Task-Switch) 任务转换[70]</td><td>电脑</td><td>3</td><td>要求被试在两种不同类型的数字 归类任务（1.判断数字大于/小于5; 2.判断数字的奇偶）之间转换</td></tr><tr><td>（Working Memory Updating） 工作记忆刷新任务[71]</td><td>电脑</td><td>3</td><td>实验采用n-back 范式，共有1-back 和 2-back两水平，呈现刺激为1～9 间共9个整数，要求被试判断当前 呈现的刺激与之前第n个刺激是否一致</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "韦氏智力测试：韦氏智力测试采用韦氏儿童智力量表第四版中文版（Wechsler Intelligence Scale for Children-IV-Chinese Version，WISC-IV） [72,73],该量表适用于 $6 { \\sim } 1 6$ 罗儿童，包括10个核心分测验和4个补充分测验，进而通过合成分数可以得到总智商和4个指数（言语理解指数、知觉推理指数、工作记忆指数和加工速度指数）。十个核心分测验包括积木、类同、背数、图画概念、译码、词汇、字母-数字排序、矩阵推理、理解和符号检索；补充分测验包括常识、填图、算术和划消，可作为核心分测验的替代测验，提供认知和智力功能方面的更宽泛的样本。这些分测验分散在4个指数上，类同、词汇、理解、常识构成言语理解指数；积木、图画概念、矩阵推理和填图构成知觉推理指数；背数、字母-数字排序、算术构成工作记忆指数；译码、符号检索、划消构成加工速度指数。4个指数反映儿童在不同认知领域中的认知能力，总智商分数反映儿童的总体认知能力。各分测验的原始分数根据常模可转换为量表分数，计算言语理解、知觉推理、工作记忆、加工速度以及全量表的量表分数总分，进而转换得到合成分数，即4个指数和总智商。量表分数和合成分数均为正态分布，量表分数的平均数为10，标准差为3；合成分数的平均数为100，标准差为15。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "测试采取一对一的施测方式，施测主试在测试前已通过主试培训，取得主试资格。韦氏儿童智力量表第四版中文版具有较高信度和较好效度。各分测验的分半信度大于0.71，合成分数的分半信度在 $0 . 8 7 { \\sim } 0 . 9 7$ 之间；各分测验间隔一个月的重测信度在 $0 . 7 1 { \\sim } 0 . 8 6$ 之间，合成分数重测信度大于0.80；评分者间的一致性信度在 $0 . 9 6 { \\sim } 0 . 9 9$ 之间。WISC-IV中文版具有较好的聚合效度和区分效度，功能近似的分测验之间的相关高于测量不同功能的分测验之间的相关；探索性因素分析表明四因素结构的拟合度良好，与原版结构一致；与WISC-R的合成分数和总量表分数的相关系数在 $0 . 6 { \\sim } 0 . 7 4$ 之间；对超常、智力障碍和学习困难儿童的研究进一步证明了WISC-IV中文版的效度[72-74]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "MRI扫描：磁共振扫描在西南大学脑成像中心进行，磁共振扫描仪型号为西门子TrioTim，场强为3.0特斯拉，使用12通道头部线圈扫描。扫描包括两次静息态功能像扫描，一次T1加权结构像扫描，一次T2加权结构像扫描；扫描顺序为\"定位像—静息态功能像扫描—T1 加权结构像扫描—静息态功能像扫描",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "—T2加权结构像扫描”，其中T2加权像仅用于辅助诊断，排除脑部的明显病变。  \n项目执行期间，该机器未进行任何硬件和软件升级。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "T1 加权结构像扫描序列为3D MPRAGE,扫描参数如下：翻转角(Flip Angle)8.0度，翻转时间（Inversion Time ） $\\scriptstyle \\mathrm { T I } = 9 0 0$ 毫秒，回波时间（Echo Time ） $\\mathrm { T E } { = } 3 . 0 2$ 毫秒，重复时间（Repetition Time） $\\mathrm { T R } { = } 2 6 0 0 . 0$ 毫秒，单位带宽（Bandwidth perVoxel）为180 赫兹，部分傅里叶采集（PartialFourier）为6/8，采集层数（Numberof Slices）为176层，层内相位编码方向（Slice Phase EncodingDirection）为从前到后（Anterior to Posterior），采集顺序（Slice Acquisition Order）为连续升序采集（Sequential Ascending），层厚（Slice Thickness）为1毫米，层间距（SliceGap)为0.5毫米，视野（Field ofView)为256毫米，采集矩阵（AcquisitionMatrix）为 $2 5 6 \\times 2 5 6$ ，层内平面分辨率（SliceIn-PlaceResolution）为 $1 . 0 { \\times } 1 . 0$ 平方毫米,采集时间为8分19秒。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "静息态扫描序列为平面回波扫描（Echo Planar Imaging，EPI），扫描参数如下：翻转角（FlipAngle）80度，回波时间 $\\mathrm { T E } { = } 3 0$ 毫秒，重复时间 $\\mathrm { T R } { = } 2 5 0 0 . 0$ 毫秒，单位带宽（Bandwidth perVoxel）为 2240 赫兹，采集层数（Number of Slices）为38层，选层定位（SliceOrientation）为轴状位（Axial），层内相位编码方向（Slice Phase Encoding Direction）为从前到后（Anterior to Posterior），采集顺序（Slice Acquisition Order）为隔层升序采集（Interleaved Ascending），层厚（SliceThickness）为3毫米，层间距（SliceGap）为0.33毫米，视野（FieldofView）为216毫米，采集矩阵（AcquisitionMatrix）为 $7 2 \\times 7 2$ ，层内平面分辨率（SliceIn-Place Resolution）为 $3 . 0 { \\times } 3 . 0$ 平方毫米，重复次数（NumberofMeasurements）为184，采集时间为7分45秒，扫描中开启脂肪抑制（Fat Suppression）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "项目进展与发育报告",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "经过近一年的筹备工作，项目组自2013年11月在重庆市北碚区正式启动该项目。项目组在当地的小学和中学对学生、家长、教师共计进行9轮项目宣讲。本着自愿参与的原则，经学生本人及其监护人共同签署知情同意书，共有198名儿童青少年报名参与首轮（基线期）数据采集。排除韦氏智力测验分数低于80 分2人；排除抑郁症服药1人；排除幽闭恐惧1人；排除脑囊肿2人。基线期从2013年12月至2014年7月结束。第二轮采集（追踪1）从2015年4月至8月，共有158人，其中152人为第二次参与，脱落率 $20 . 8 3 \\%$ ，另有7人首次参与，排除行为问题1人；第三轮采集（追踪2）从2016年9月到2017年1月，共 107人，其中100人第三次参与，5人第二次参与，脱落率 $3 3 . 5 4 \\%$ ，另有2人首次参与。项目整体志愿者参与情况的详细统计数据请参见表3，表4详细列出了各类表型数据采集的完成情况。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "每一轮数据采集工作全部完成后，项目组均为每一个参与者（包括被排除个体）制作个人发育数据报告，向监护人反馈参与者的生理、心理行为、脑等各方面的发育情况。目前，已制作反馈首轮和第二轮报告各198和164册，第三轮报告将在2017年4月前制作完成并反馈给项目参与家庭。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/3ab92eaab287903dba6bbdaf12a6baab37cf677379d4ba87bc88bd9762fcb1ae.jpg",
+        "table_caption": [
+            "表3各轮参与项目人数按年龄段分布"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>年龄段</td><td>6-7</td><td>7-8</td><td>8-9</td><td>9-10</td><td>10-11</td><td>11-12</td><td>12-13</td><td>13-14</td><td>14-15</td><td>15-16</td><td>16-17</td><td>17-18</td><td>满18</td><td>总计</td></tr><tr><td>第一轮 （人）</td><td>7</td><td>20</td><td>19</td><td>19</td><td>22</td><td>25</td><td>11</td><td>19</td><td>10</td><td>11</td><td>19</td><td>10</td><td>0</td><td>192</td></tr><tr><td>第二轮 （人）</td><td>0</td><td>2</td><td>16</td><td>20</td><td>24</td><td>18</td><td>26</td><td>7</td><td>14</td><td>8</td><td>7</td><td>11</td><td>5</td><td>158</td></tr><tr><td>第三轮 （人）</td><td>0</td><td>0</td><td>0</td><td>8</td><td>27</td><td>19</td><td>7</td><td>18</td><td>7</td><td>7</td><td>6</td><td>2</td><td>6</td><td>107</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/54e63431dea49bf3e5e12b8744653a3fa72e9277e575442bc152fd332d5b74a0.jpg",
+        "table_caption": [
+            "表4表型评估各轮完成量"
+        ],
+        "table_footnote": [
+            "注：a1.191人（1人身体不适未成）；a2.157人（1人戴牙套未成）；a3.101人（6人戴牙套未成）"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">轮次</td><td rowspan=\"2\">MRI</td><td rowspan=\"2\">生理</td><td rowspan=\"2\">韦氏 智力</td><td colspan=\"5\">行为量表</td><td colspan=\"3\">实验测查</td></tr><tr><td>感受</td><td>利手</td><td>SASC</td><td>EPQ</td><td>识字</td><td>ANT</td><td>TS</td><td>WM</td></tr><tr><td>1</td><td>191al</td><td>192</td><td>172</td><td>183</td><td>189</td><td>189</td><td>190</td><td>192</td><td>183</td><td>78</td><td>79</td></tr><tr><td>2</td><td>157a2</td><td>158</td><td>131</td><td>157</td><td>157</td><td>158</td><td>158</td><td>158</td><td>155</td><td>57</td><td>57</td></tr><tr><td>3</td><td>101a3</td><td>107</td><td>100</td><td>101</td><td>105</td><td>101</td><td>105</td><td>107</td><td>107</td><td>53</td><td>53</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "发育报告是对参与者身心发展的一个阶段性呈现，因此必须忠于实际数据，客观反馈给志愿者家庭，并成为进一步和参与家庭沟通的基础数据，结合与儿童青少年及及监护人的沟通，恰当而准确地解读报告内容。发育报告反馈了参与者的五部分测验内容：生理指标（身高、体重、头围、血压、脉搏）、智商、情绪（社会焦虑、抑郁、压力知觉和行为问题）、人格和脑。具体到脑发育，包括了脑容积、皮质下灰质容积、灰质容积、皮层白质容积和脑脊液体积，以及七大脑功能网络[75]（视觉网络、体感运动网络、背侧注意网络、腹侧注意网络、边缘网络、控制网络和默认网络）的皮层厚度和表面积的发育。参考WHO身高体重生长曲线常模的建模方法[2]，针对上述每一个测验内容，基于测量数据绘制群体水平的常模曲线，然后把个体的数据绘制到常模图中。图2展示了某个体的脑功能网络的皮层表面积发育，辅助材料中的一个志愿者的完整发育报告给出了详细的个体水平发育内容。该报告为第二轮测量报告，除了呈现与第一轮基线期相同测量内容，还绘制了各部分内容两轮测试间对比图（即发育）并结合实际情况给出了意见建议，新提供了儿童抑郁量表和儿童孤独量表的两次得分以及两次对比情况，作为家长了解孩子心理健康水平的一个依据。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "做为本项目核心，MRI数据经过严格的质量控制，最终有179名志愿者获得了共393套合格的脑成像数据；其中，有80名儿童青少年（44名女孩）完成了全部的脑成像扫描，获得了2次追踪的高精度T1结构像和静息态脑功能影像数据；有54名儿童青少年（28名女孩）完成了部分追踪脑成像扫描，获得了1次追踪的高精度T1结构像和静息态脑功能影像数据；有45名儿童青少年（32 名女孩）完成了单次脑成像扫描，仅获得了1次基线期高精度T1结构像和静息态脑功能影像数据。为了初步展示脑影像数据的结果，我们利用全自动化结构图像处理和分析的在线软件 volBrain[76]，获得了每个儿童的颅内、灰质、白质和脑脊液的体积。鉴于个体脑体积差异，我们将灰质、白质和脑脊液体积基于颅内体积进行了标准化，即计算三类组织体积相对于颅内体积的比例。在图3中，绝对脑体积和三类脑组织相对体积的数据呈现为个体纵向散点图。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/f07b75641e0b357e6de51224279f5c839703b2eff781057ba148a583599f8a05.jpg",
+        "img_caption": [
+            "图2脑功能网络皮层表面积发育曲线及个体应用"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/320e9d3d5d8bb06943b6ebbfb3ed93fa376affa8111b7d6cd4cfd1476e4f26d0.jpg",
+        "img_caption": [
+            "图3绝对脑体积和三类脑组织相对体积的数据呈现为个体纵向散点图"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "讨论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本文系统地介绍了“中国彩巢计划“，此项计划对学龄儿童青少年“身一心一脑\"的心理行为和认知神经特征进行了纵向追踪，印证了计划可行性。当前我国已推出全面开展和重视心理健康建设的具体指导方针，结合国内老龄化日趋明显的现状，随着二胎政策的全面放开实施，呵护每一个儿童青少年都能够健康快乐的成长，变得极为关键，并成为事关国家未来核心竞争力。举例来讲，精神和心理障碍具有明显的发育驱动机制，发达国家都已经将其列入基础研究、临床应用以及公共卫生健康领域的重大内容[77,78]，然而目前我国对儿童精神和心理障碍的重视远远不够，特别是在临床诊断和提前预防方面非常薄弱，尤其是重性病例（如自闭症和精神分裂症），在未来需要足够重视和大力投入。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "在基于MRI的正常儿童脑发育研究中，一个不可忽视的问题就是个体脑配准偏差。早期由于儿童 MRI数据的缺乏，各类研究普遍使用成人脑模板（如MNI152 模板[79]、Talairach 模板[80])等作为儿童 MRI群组水平数据的配准对象。然而大量研究指出，由于成人和儿童的大脑结构形态存在较大差异，上述成人模板的不恰当使用会引入不可忽视的系统偏差，加大配准误差[81-83]，直接影响到对儿童大脑结构指标如灰白质概率图[84]、皮层厚度[85]等的测量。为解决该问题，研究人员开始针对不同年龄阶段的儿童构建相应的大脑结构像模板，如美国的Sanchez等人以0.5岁为间隔，分别构建了从2周到4岁、从4.5岁到19.9岁的西方儿童青少年大脑MRI结构像模板（同时使用了1.5T和3.0T的磁共振扫描仪数据）[86.87]。但是，由于人种、生长环境等因素的差异，西方人的大脑模板应用在中国人MRI影像数据上也会引入系统偏差[88]；为解决该问题，目前国内已有山东大学医学院和首都医科大学附属宣武医院构建了中国人成人MRI模板[89-91]；香港大学和四川大学附属华西医院构建了儿科 MRI模板[92.93]，上述儿童青少年MRI标准脑模版的构建样本容量较少，无纵向MRI数据进行发育轨线方面的研究和验证，前者只基于5岁到8岁的53个被试构建了单一的结构像模板，未考虑不同年龄阶段的儿童青少年大脑结构形态学差异；后者以两岁为间隔构建了从7岁到16 岁共五个年龄组的结构像MRI模板，每组样本量在20人到39人之间，样本年龄不连续，不适用于系统全面地刻画大脑发育曲线。因此，在当前国内儿童青少年的脑影像发育研究领域，基于充足样本来构建各年龄段的健康儿童青少年标准脑，直接关系到中国儿童青少年大脑结构和功能指标测量，及中国人脑发育常模构建的精确度和可靠性，具有至关重要的基础研究和临床应用价值。“中国彩巢计划\"为这一关键科学问题的解决提供了基础数据。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "中国儿童青少年 MRI数据的共享开放急需推进。生长曲线常模的建立通常需要大样本和大数据的支持，例如WHO构建的身高体重发育常模使用了6站点共计 8440 名儿童青少年的样本[1,2]；我国的儿童青少年发育项目\"2005 年中国九市7岁以下儿童体格发育调查研究\"和\"2005年中国学生体质与健康调查研究\"分别由卫生部、教育部组织实施，共测查69760 名儿童和 24542名儿童青少年[6,7]。由于测量实施的复杂度和成本均远高于行为和基本生理测查，MRI研究积累的样本量普遍较小，然而得益于目前国际上主流的MRI数据分享项目，研究者可以免费使用来自世界各地不同研究单位自愿公开的大量MRI数据，在一定程度上解决了样本量问题。其中，比较著名的MRI数据共享项目包括美国的\"千人功能组连接计划（FCP）\"[94,95]和\"人脑连接组计划（HCP）\"[96.97]，我国领衔建立的首个神经影像大数据共享计划\"国际信度与可重复性联盟（CoRR）\"[39]等。而Sanchez等人构建的西方儿童大脑模板也是获益于公开的神经影像大数据，他们共使用了来自六个站点的数据，其中儿童青少年 MRI数据主要来源于受美国国NIH资助的健康大脑发育研究计划“儿科磁共振影像数据库（PediatricMRIDataRepository，NIHPD）\"以及南卡罗来纳大学的McCausland 脑影像中心收集的MRI数据。相比之下，国内在相关儿科MRI领域的数据共享项目发展非常缓慢，只有CoRR[39]和ADHD200[98]项目中包含了部分中国健康儿童青少年MRI数据，这就在某种程度上阻碍了我国儿童青少年脑发育的常模构建，例如：样本量太小且集中于单一地区，构建的脑模板就缺乏地域代表性；缺少纵向数据，就无法构建纵向发育曲线等。在未来，依托大型的国家级科研项目，一旦将不同地区、不同研究组收集的儿童青少年MRI数据共享，上述问题都将迎刃而解，极大地推进我国在儿科脑影像领域的研究进展，加深我们对中国儿童青少年大脑一般发育规律和与之相关的脑功能疾病的病因学机制的了解。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "由于儿童青少年这一人群的特殊性，涉及该人群的研究通常会遇到较大的困难，如项目安全性科普、被试招募、组织实施等等，特别是适龄人群处于义务教育阶段，所有项目开展均应以不影响儿童青少年学业发展和保障儿童青少年安全为首要前提，这就需要来自于学校方面的大力配合。因此，针对于目前我国的国家总体发展情况，由国家部委（如卫生部、教育部）等部署开展的儿童青少年项目一般能大范围覆盖被试人群，同时具有很好的安全性和组织性。例如，上述我国儿童青少年身体（身高和体重）发育项目的推动开展，就得力于卫生部和教育部的组织规划和高效部署。脑影像发育曲线项目由于其测量手段的特殊性，更需要来自国家部委层面的重视和支持，这也是未来本领域的一大挑战和机遇，挑战来自于多省市大规模开展的实施困难度，一旦能够解决，不仅能够推进我国大脑发育领域的研究进展，同时对于中国整个脑科学领域的研究也具有深远的推动促进作用。彩巢计划初步验证了区域性开展人脑发育曲线常模数据采集的可行性，回顾美国著名的\"脑十年\"计划，其最大的成果在于绘制了大脑形态学发育曲线。在当前世界各地纷纷大力推进脑计划的氛围下，我国应抓住机遇，结合我国\"迅速步入老龄化社会\"和\"生育鼓励导向政策\"的现实，发挥世界第一人口大国的资源优势，及早部署开展儿童青少年的脑与认知生长曲线常模研究计划，提升中国在相关研究领域的国际实力和影响力。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "致谢 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "本计划的顺利启动得力于中国科学院心理研究所、西南大学心理学部在人员、场所等方面的大力支持，以及重庆市北碚区参与项目的中小学校给予的宣传许可与协助。感谢刘勋、曹筱燕、李甦为项目设计提供的意见。感谢陈兵制作志愿者招募宣传视频。在数据采集过程中，郝磊、周娅菲、蒙杰、田雪、尹首航、刘颖、翟晶、王康程、侯鑫、魏佳丽、唐清婷、胡佳、张兴、马原啸、杨正宇、毛毓、孙江洲、胡娜、刘欣怡、杨兵兵、庄恺祥、施亮、任芷葶、唐炎程、李含笑、杨崇、唐妍、陆丹丹、朱文荣、管景、高青、陈群林、赵远方、王洋、曹国光、李宝林、董德波、冯攀、郭逸群、车先伟、赵海潮、陈圣栋、吴欣然、邓翔、杨润澜等为项目贡献了力量。感谢况晨等对数据电子化做的工作。感谢文琼女士对项目后勤工作的鼎力支持。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[1] de Onis,M., Onyango,A.W., Borghi,E., Siyam,A., Nishida, C.,Siekmann,J. Development of a WHO growth reference for school-aged children and adolescents [J]. Buletin of the World Health Organization,2007, 85(9):660-7.   \n[2] World Health Organization. WHO child growth standards : length/height-for-age， weight-for-age, weight-for-length,weight-for-height and body mass index-for-age $\\because$ methods and development. Geneva: World Health Organization, 2006.   \n[3]Tanner,J. M., Whitehouse,R.H. Clinical longitudinal standards for height, weight, height velocity,weight velocity,and stages of puberty [J].Archives of Disease in Childhood,1976,51(3):170-9.   \n[4] de Onis,M., Garza C Fau - Victora, C.G., Victora $\\mathrm { C g }$ Fau - Onyango,A. W., Onyango Aw Fau - Frongillo, E. A.,Frongillo Ea Fau - Martines,J.,Martines,J.The WHO Multicentre Growth Reference Study: planning,study design,and methodology[J]. Food and Nutrition Bulletin,2004,25(1_suppl1):S15-S26.   \n[5] World Health Organization. WHO Child Growth Standards: Growth velocity based on weight,length and head circumference: Methods and development. Geneva: World Health Organization, 2009.   \n[6] 李辉,季成叶，宗心南,张亚钦．中国0\\~18岁儿童、青少年身高、体重的标准化生长曲线[J].中华儿科 杂志,2009,47(7):487-492.   \n[7] 李辉,季成叶，宗心南,张亚钦．中国 $0 \\sim 1 8$ 岁儿童、青少年体块指数的生长曲线[J].中华儿科杂志, 2009,47(7):493-498.   \n[8] 李辉，宗心南．中国0\\~13 周婴儿体重身长和头围的生长参照值[J].中国新生儿科杂志，2010, 25(1):11-15.   \n[9] 金春华,张悦，李娜，张丽丽，李瑞莉，王建红，王晓燕，王贺茹，高海涛，宋文红，陈博文．《中国儿童 发育量表》修订的基本思路 [J].中国儿童保健杂志,2014,22(9):899-901.   \n[10] 李瑞莉，金春华，张丽丽，张悦，李娜，王晓燕，王建红，高海涛，王贺茹，宋文红，肖峰，许琪，陈博 文．《中国儿童发育量表》（4-6岁部分）信度与效度研究[J].中国儿童保健杂志,2015,23(9):934-936. [11] 张丽丽，金春华,李瑞莉，李娜，张悦，王建红，王晓燕,王贺茹，高海涛，宋文红，陈博文．《中国儿童 发育量表》北京地区常模（0\\~4 岁部分）修订与信度分析[J].中国儿童保健杂志,2015,23(6):573-576. [12] Charlson,F.J.，Baxter,A.J.，Cheng,H.G.，Shidhaye,R.，Whiteford, H. A. The burden of mental, neurological,and substance use disorders in China and India: a systematic analysis of community representative epidemiological studies [J]. The Lancet, 2016,388(10042):376-389.   \n[13] Whiteford,H.A.,Degenhardt,L.,Rehm,J.,Baxter,A.J.,Ferari,A.J.,Erskine,H.E.,Charlson,F.J., Norman,R.E.,Flaxman,A.D.,Johns,N.,Burstein,R.,Murray,C.J.L.,Vos,T.Global burden of disease attributable to mental and substance use disorders: findings from the Global Burden of Disease Study 2010 [J]. The Lancet, 2013,382(9904):1575-1586.   \n[14]Silberberg,D.,Anand,N.P.,Michels, K.,Kalaria,R.N.Brainandother nervoussystem disordersacross the lifespan - global challenges and opportunities [J]. Nature,2015,527(7578):S151-4.   \n[15] Kessler,R.C.,Berglund,P.,Demler,O.,Jin,R.,Merikangas,K.R.,Walters,E.E.Lifetime prevalenceand age-of-onset distributions of DSM-IV disorders in the National Comorbidity Survey Replication [J]. Archives of General Psychiatry,2005,62(6):593-602.   \n[16] Christiana,J.M.,Gilman,S.E, Guardino,M.,Mickelson,K.,Morseli,P.L.,Olfson,M.,Kesser,R.C. Duration between onset and time of obtaining initial treatment among people with anxiety and mood disorders: an international survey of members of mental health patient advocate groups [J].Psychological Medicine,2000, 30(3):693-703.   \n[17] Grant, B.F.,Dawson,D.A.Age of onset of drug use and its association with DSM-IV drug abuse and dependence:results from the National Longitudinal Alcohol Epidemiologic Survey [J]. Journal of Substance Abuse,1998,10:163-173.   \n[18] Kesler，R.C.，Avenevoli， S.，Ries Merikangas,K.Mood disorders in children and adolescents:an epidemiologic perspective [J]. Biological Psychiatry,2001, 49(12):1002-14.   \n[19] Kessler,R. C.,Amminger,G.P.,Aguilar-Gaxiola,S.,Alonso,J.,Lee,S., Ustun,T.B.Age of onsetof mental disorders: a review ofrecent literature [Jj. Current Opinion in Psychiatry,2007,20(4):359-64.   \n[20]Lavigne,J.V.，Arend,R.，Rosenbaum,D.，Binns,H.J.，Christofel,K.K.，Gibbons,R.D.Psychiatric disorders with onset in the preschool years: I. Stability of diagnoses [J]. Journal of the American Academy of Child and Adolescent Psychiatry,1998,37(12):1246-54.   \n[21] National Instituteof Mental Health.Strategic Plan for Research Objective 2: Chart Mental Illess Trajectories to Determine When，Where,and How to Intervene.htp://www.nimh.nih.gov/about/strategic-planning-reports/ strategic-objective-2.shtml.   \n[22] Di Martino,A.,Fair,D.A.,Kelly,C.,Saterthwaite,T.D.,Castellanos,F.X.,Thomason,M.E.,Craddock,R. C.,Luna,B.,Leventhal, B.L., Zuo,X.N., Milham, M. P. Unraveling the miswired connectome: adevelopmental perspective [J]. Neuron,2014,83(6):1335-53.   \n[23] Shaw,P.,Greenstein,D.,Lerch,J.,Clasen,L.,Lenroot,R.,Gogtay,N.,Evans,A.,Rapoport,J.Giedd,J. Intellectual abilityand cortical development in children andadolescents [J].Nature,2o06,440(7084):676-9. [24] Gur,R.C.,Calkins,M.E., Satterthwaite,T.D.,Ruparel,K., Bilker, W.B., Moore,T.M.,Savitt,A.P., Hakonarson,H., Gur,R.E. Neurocognitive growth charting in psychosis spectrum youths [J]. JAMA Psychiatry, 2014, 71(4):366-74.   \n[25]Dosenbach,N.U.,Nardos,B.,Cohen,A.L.,Fair,D.A.,Power,J.D.,Church,J.A.,Nelson,S.M.,Wig,G. S., Vogel,A.C.,Lessov-Schlaggar,C.N.,Bares,K.A.,ubis,J.W.,Feczko,E.,Coalson,R.S.,PruetJr,J.R, Barch,D. M.,Petersen,S.E.,Schlaggar,B.L. Prediction of individual brain maturity using fMRI[J]. Science, 2010,329(5997):1358-61.   \n[26] Stevens,M. C.The contributions of resting state and task-based functional connectivity studies to our understanding of adolescent brain network maturation [J].Neuroscience & Biobehavioral Reviews,2016, 70:13-32.   \n[27] Kaufmann,T.,Alnaes,D.,Doan,N.T.,Brandt, C.L.,Andreassen,O.A., Westlye,L.T.Delayed stabilization and individualization in connectome development are related to psychiatric disorders [J]. Nature Neuroscience, 2017, doi: 10.1038/nn.4511.   \n[28]Hazlet,H.C.,Gu,H.,Munsell,B.C.,Kim,S.H.,Styner,M.,Wol,J.J.,Elison,J.T.,Swanson,M.R.,Zhu, H., Boteron,K.N.,Collins,D.L.,Constantino,J.N.,Dager,S.R.,Estes,A. M.,Evans,A.C.,Fonov,V.S., Gerig,G.,Kostopoulos,P.,McKinstry,R.C.,Pandey,J.,Paterson,S.,Pruet,J.R.,Schultz,R.T.Shaw,D.W, Zwaigenbaum,L.，Piven,J.Early brain development ininfantsat highrisk forautismspectrum disorder[J]. Nature,2017,542(7641):348-351.   \n[29] Chang,L.,Oishi,K.,Skranes,J.,Buchthal,S.,Cunningham,E.,Yamakawa,R.,Hayama,S.,Jiang,C.S., Alicata，D.，Hernandez，A.，Cloak，C.，Wright，T.，Ernst，T. Sex-Specific Alterations of WhiteMatter Developmental Trajectories in Infants With Prenatal Exposure to Methamphetamine and Tobacco [J]. JAMA Psychiatry,2016,73(12):1217-1227.   \n[30] Kessler,D.,Angstadt,M.,Sripada, C.Growth Charting of Brain Connectivity Networks and the Identification of Attention Impairment in Youth [J]. JAMA Psychiatry,2016,73(5):481-9.   \n[31] Yuste,R., Bargmann, C. Toward a Global BRAIN Initiative [J]. Cell,2017,168(6):956-959.   \n[32] Kandel,E.R.，Markram, H.，Mathews，P.M.，Yuste,R.，Koch，C. Neuroscience thinks big (and collaboratively)[J]. Nature Reviews Neuroscience,2013,14(9):659-64.   \n[33]Tavor,1.,Parker Jones,O.,Mars,R.B.,Smith,S.M.,Behrens,T.E.,Jbabdi,S.Task-free MRI predicts individual diferences in brain activity during task performance [J]. Science,2016,352(6282):216-20.   \n[34] Glasser,M.F.,Coalson,T.S.,Robinson,E.C.,Hacker,C.D.,Harwell,J.,Yacoub,E.，Ugurbil,K., Andersson,J.,Beckmann, C.F., Jenkinson,M. Smith,S. M., Van Essen, D. C. A multi-modal parcelation of human cerebral cortex [J]. Nature,2016, 536(7615):171-8.   \n[35] Glasser,M.F.,Smith,S.M.,Marcus,D.S.,Anderson,J.L.,Auerbach,E.J.,Behrens,T.E.,Coalson,T.S., Harms,M.P.,Jenkinson,M.,Moeler,S.,Robinson,E.C.,Sotiropoulos,S.N.,Xu,J.,Yacoub,E.,Ugurbil,K, Van Essen, D. C. The Human Connectome Project's neuroimaging approach [J]. Nature Neuroscience, 2016, 19(9):1175-87.   \n[36] 颜志雄，刘勋，谭淑平，谭云龙，魏高峡，杨志，左西年．发展认知神经科学：人脑毕生发展的功能连 接组学时代 [J].科学通报,2016,61(7):718-727.   \n[37] Zuo, X.N.,He,Y.,Betzel,R.F. Colcombe,S.,Sporns,O.,Milham, M.P. Human Connectomics across the Life Span [J]. Trends in Cognitive Sciences,2017,21(1):32-45.   \n[38] Wang,J., Yang,N.,Liao,W.,Zhang,H.,Yan,C.G., Zang,Y.F.,Zuo,X.N. Dorsal anterior cingulate cortex in typically developing children: Laterality analysis [J]. Developmental cognitive neuroscience,2015,15:117-29. [39] Zuo,X.N.,Anderson,J.S.,Belec,P.,Birn,R.M.,Biswal,B.B.,Blautzik,J.,Breitner,J.C.,Buckner,R.L, Calhoun, V.D.,Castellnos,F.X., Chen,A., Chen, B.，Chen,J., Chen,X., Colcombe,S.J.,，Courtney,W., Craddock,R.C.,Di Martino,A., Dong, H. M.,Fu, X, Gong, Q., Gorgolewski, K.J., Han,Y.,He,Y., He,Y., Ho E.,Holmes,A., Hou, X.H.,Huckins,J.,Jiang,T.,Jiang,Y.,Kelley, W., Kely,C., King, M.,LaConte,S.M, Lainhart, J.E.,Lei, X.,Li,H.J.,Li,K.,Li,K.,Lin, Q.,Liu,D.,Liu,J.,Liu, X.,Liu,Y.,Lu, G.,Lu,J.,Luna,B, Luo,J.,Lurie,D.,Mao,Y.,Margulies,D.S.,Mayer,A.R.,Meindl,T.,Meyerand,M.E.,Nan,W.,Nielsen,J.A., OConnor,D.,Paulsen,D,Prabhakaran,V., Qi,Z.,Qiu,J,Shao,C.,Shehzad,.,Tang, W., Villringer,A.,Wang, H.,Wang, K.,Wei,D., Wei, G. X., Weng,X. C., Wu, X., Xu,T., Yang, N., Yang, Z., Zang, Y.F., Zhang,L., Zhang,Q., Zhang,Z., Zhang, Z., Zhao,K., Zhen,Z., Zhou,Y., Zhu, X.T., Milham, M.P.An open science resource forestablishing reliabilityand reproducibility in functional connectomics [J].Scientific Data,2014, 1:140049.   \n[40] Nooner,K.B., Colcombe,S.J.,Tobe,R.H.,Mennes,M.,Benedict, M.M.,Moreno,A.L.,Panek,L.J., Brown,S.,Zavitz,S.T.,Li, Q.,Sikka,S.,Gutman,D.,Bangaru,S.,Schlachter,R.T.,Kamiel,S.M.,Anwar,A.R, Hinz, C.M.,Kaplan,M.S.,Rachlin,A.B.,Adelsberg,S., Cheung,B., Khanuja,R., Yan, C., Craddock,C.C., Calhoun,V.,Courtney,W.,King,M.,Wood,D.,Cox,C.L.,Kely,A.M.,DiMartino,A.,Petkova,E.,Reiss,P. T.,Duan,N.,Thomsen,D., Biswal,B.，Coffey，B.,Hoptman,M.J.，Javit,D.C.,Pomara,N.，Sidtis,J.J., Koplewicz,H.S., Castellanos,F.X.,Leventhal, B.L.,Milham,M.P.The NKI-Rockland Sample: A Model for Accelerating the Pace of Discovery Science in Psychiatry [J].Frontiers in Neuroscience,2O12,6:152.   \n[41]Thompson, W.K.,Hallmayer,J.,O'Hara,R.Design considerations for characterizing psychiatric trajectories acrossthe lifespan: application to effects of APOE-epsilon4 on cerebral cortical thickness in Alzheimer's disease [J]. The American Journal of Psychiatry,2011,168(9):894-903.   \n[42] Mills, K.L.,Tamnes,C. K. Methods and considerations for longitudinal structural brain imaging analysis across development [J]. Developmental Cognitive Neuroscience,2014, 9:172-190.   \n[43] Saterthwaite,T.D.,Connoly,J.J.,Ruparel,K.,Calkins,.E.,Jackson,C.,Eiott,M.A.,Roalf,D.R., Hopson,R.,Prabhakaran,K.,Behr,M.,Qiu,H.J.,Mentch,F.D.,Chiavacci,R.,Sleiman,P.M.A.,Gur,R.C, Hakonarson,H.,Gur,R.E.The Philadelphia Neurodevelopmental Cohort: A publicly available resource for the study of normal and abnormal brain development in youth [J]. NeuroImage,2016,124:1115-1119.   \n[44]Jernigan,T.L.,Brown,T.T.,Hagler,D.J,Jr.,Akshoomoff,N.,Bartsch,H.,Newman,E.,Thompson,W.K., Blos,C. S.,Murray, S.S.,Schork,N.,Kennedy,D.N., Kuperman,J. M., McCabe, C., Chung,Y.,Libiger,O., Maddox,M.,Casey,B.J.,Chang,L.,Erst,T..,Fraier,J.A.,Gruen,J.R.,Sowel,E.R.,Kenet,T.,Kaufann, Data Repository [J]. NeuroImage, 2016, 124(Pt B):1149-54.   \n[45] 苏林雁，李雪荣，罗学荣，万国斌，杨志伟．Achenbach 儿童行为量表的再标准化及效度检验[J]．中国 心理卫生杂志,1998,12(2):67-69.   \n[46] 忻仁娥.儿童心理与行为的评估工具——Achenbach's儿童行为量表[J].心理发展与教育，1994,1:26. [47] Cohen,S.,Kamarck,T.,Mermelstein,R.A Global Measure of Perceived Stress [J].Journal of Health and Social Behavior,1983,24(4):385-396.   \n[48] 杨廷忠，黄汉腾．社会转型中城市居民心理压力的流行病学研究[J].中华流行病学杂志，2003, 24(9):760-764.   \n[49] 刘贤臣，刘连启，杨杰，柴福勋，王爱祯，孙良民，赵贵芳，马登岱．青少年生活事件量表的编制与信 度效度测试 [J]．山东精神医学,1997,10(1):15-19.   \n[50]苏林雁，罗学荣，张纪水，谢光荣，刘永忠．儿童自我意识量表的中国城市常模[J].中国心理卫生杂 志,2002,16(1):31-34.   \n[51]李飞，苏林雁，金宇，儿童焦虑量表全国协作组．儿童社交焦虑量表的中国城市常模[J].中国儿童保 健杂志,2006,14(4):335-337.   \n[52] 邹涛，姚树桥，朱熊兆,Abela,J.R.Z.,Auerbach,R.P.MASC 中文版信效度的分析及与西方样本的比较 [J]．中国临床心理学杂志,2007,15(5):452-455.   \n[53]付瑞娟，陈洵．潮汕地区流动儿童自尊与焦虑现状的关系研究[J].中国健康心理学杂志，2012, 20(9):1381-1383.   \n[54] 李文利，钱铭怡．状态特质焦虑量表中国大学生常模修订[J]．北京大学学报：自然科学版，1995, 31(1):108-112.   \n[55]全警．高中生状态—特质焦虑、学习动机与学业可能自我的关系[硕士]．陕西师范大学,2011. [56] 吴文峰，卢永彪，谭芙蓉，姚树桥．儿童抑郁量表中文版在中小学生中的信效度[J].中国心理卫生杂 志,2010,24(10):775-779.   \n[57]高金金，陈毅文．儿童孤独量表在1～2 年级小学生中的应用[J].中国心理卫生杂志，2011, 25(5):361-364.   \n[58]邱林，郑雪，王雁飞．积极情感消极情感量表(PANAS)的修订[J].应用心理学,2008,14(3):249-254. [59]陈文锋，张建新．积极/消极情感量表中文版的结构和效度[J].中国心理卫生杂志，2004, 18(11):763-765.   \n[60] 赵清清，韦嘉，应斌，张进辅．巴昂情绪智力量表青少年版的信效度检验[J].中国健康心理学杂志, 2013,21(10):1511-1515.   \n[61]龚耀先．艾森克个性问卷在我国的修订[J].心理科学通讯,1984,(04):11-18.   \n[62] 钱铭怡，武国城，朱荣春，张莘．艾森克人格问卷简式量表中国版(EPQ-RSC)的修订[J].心理学报, 2000, 32(3):317-323.   \n[63]叶仁敏，洪德厚，保尔·托兰斯．《托兰斯创造性思维测验》(TTCT)的测试和中美学生的跨文化比较[J]. 应用心理学,1988,3(3):22-29.   \n[64]Dollinger,S.J. \"Standardized Minds\"or Individuality? Admissions Testsand Creativity Revisited[J]. Psychology of Aesthetics Creativity and the Arts,2011, 5(4):329-341.   \n[65]李文福．创造性的脑机制[博士]．西南大学,2014.   \n[66] 郝鑫．认知风格与创造性思维的关系[硕士]．西南大学,2014.   \n[67]Hwang,W-Y.,Chen,N.-S.,Dung,J.-J.,Yang,Y.-L.MultipleRepresentationSkilsand CreativityEffectson Mathematical Problem Solving using a Multimedia Whiteboard System [J]. Educational Technology & Society, 2007,10(2):191-212.   \n[68] Xue,J.,Shu,H.,Li,H.,Li, W.,Tian,X.The stability_ofliteracy-relatedcognitivecontributions toChinese character naming and reading fluency [J]. Journal of Psycholinguistic Research, 2013,42(5):433-50.   \n[69]Fan, J.,McCandliss,B. D. Sommer,T.,Raz,A.,Posner,M.I. Testing the efficiency and independence of attentional networks [J]. Journal of Cognitive Neuroscience,2002,14(3):340-7.   \n[70]Schuch,S.,Koch,I. Theroleofresponse selection forinhibition of task sets intask shifting[J].Journal of Experimental Psychology: Human Perception and Performance, 2003,29(1):92-105.   \n[71] Zhu,D.F., Wang,Z. X.,Zhang,D.R.,Pan,Z.L.,He,S.,Hu,X.P.,Chen, X.C., Zhou,J. N. fMRI revealed neural substrate for reversible working memory dysfunction in subclinical hypothyroidism [J]. Brain,2006,129(Pt 11):2923-30.   \n[72] Wechsler，D. WISC-IV Administration and Scoring Manual. San Antonio， TX:The Psychological Corporation,2003.   \n[73] Wechsler，D. WISC-IV Technical and Interpretive Manual. San Antonio，TX:The Psychological Corporation,2004.   \n[74] 张厚粲．韦氏儿童智力量表第四版(WISC-IV)中文版的修订 [J].心理科学,2009,32(5):1177-1179. [75] Yeo,B.T.,Krienen,F.M.,Sepulcre,J.Sabuncu,M.R.,Lashkari,D.,Holinshead,M.,Roffman,J.L, Smoller,J.W.,Zolei,L.,PolimeniJ.R.,Fischl,B.,Liu,H.，Buckner,R.L.Theorganizationof the human cerebral cortex estimated by intrinsic functional connectivity[J]. Journal of Neurophysiology，2011, 106(3):1125-65.   \n[76] Manjon,J.V.， Coupe,P.volBrain: An Online MRI Brain Volumetry System [J].Frontiersin neuroinformatics, 2016,10:30. [77]Insel，T.R.Mental disorders in childhood:shifting the focus from behavioral symptoms to neurodevelopmental trajectories [J]. JAMA,2014, 311(17):1727-8.   \n[78] Insel, T.R. Rethinking schizophrenia [J]. Nature,2010,468(7321):187-93.   \n[79] Fonov,V. S., Evans, A. C., McKinstry,R. C.,Almli, C.R., Colins, D.L. Unbiased nonlinear average age-appropriate brain templates from birth to adulthood [J]. NeuroImage,2009,47,Supplement 1:S102. [80] Collins,D.L.，Neelin,P.，Peters,T.M.， Evans,A. C.Automatic 3D intersubject registration of MR Volumetric data in standardized Talairach space [J].Journal of Computer Assisted Tomography，1994, 18(2):192-205.   \n[81] Hoeksma,M.R.,Kenemans,J.L.,Kemner, C.,van Engeland,H. Variability in spatial normalizationof pediatric and adult brain images [J]. Clinical Neurophysiology,2005,116(5):1188-94.   \n[82]Muzik,O.,Chugani,D.C.,Juhasz,C.,Shen,C.,Chugani,H.T.Statistical parametric mapping: assessmentof application in children [J].NeuroImage,2000,12(5):538-49.   \n[83] Wilke,M.,Schmithorst, V.J.,Holland,S.K.Assessmentof spatial normalization of whole-brain magnetic resonance images in children [J]. Human Brain Mapping, 2002,17(1):48-60.   \n[84] Wilke,M.,Schmithorst,V.J.,Hollnd,S.K.Normative pediatric brain data for spatial normalization and segmentation differs from standard adult data [J]. Magnetic Resonance in Medicine,2003,50(4):749-57. [85] Yoon,U.,Fonov,V.S.,Perusse,D.,Evans,A.C.,Group,B.D.C. The effect of template choice on morphometric analysis of pediatric brain data [J]. NeuroImage,2009,45(3):769-77.   \n[86] Sanchez, C. E.， Richards, J.E., Almli, C. R. Age-specific MRI templates for pediatric neuroimaging [J]. Developmental Neuropsychology,2012,37(5):379-99.   \n[87] Sanchez,C.E.,Richards,J.E.,Almli,C.R.Neurodevelopmental MRI brain templates for children from 2 weeks to 4 years of age [J]. Developmental psychobiology,2012,54(1):77-91.   \n[88] Zilles,K.,Kawashima,R.,Dabringhaus,A.,Fukuda,H.,Schormann,T.Hemispheric shapeofEuropeanand Japanese brains: 3-D MRI analysis of intersubject variability,ethnical,and gender differences [J]. NeuroImage, 2001,13(2):262-71.   \n[89] Tang,Y.,Hojatkashani, C.,Dinov,I.D.,Sun,B.,Fan,L,Lin,X., Qi,H.,Hua,X.,Liu,S.,Toga,A.W.The construction of a Chinese MRI brain atlas: a morphometric comparison study between Chinese and Caucasian cohorts [J]. NeuroImage,2010,51(1):33-41.   \n[90] Wang,X.,Chen,N.,Zuo,Z.,Xue,R.,Jing,L,Yan,Z.,Shen,D.,Li,K.Probabilistic MRIbrainanatomical atlases based on 1,000 Chinese subjects [J].PLoS One,2013,8(1):e50939.   \n[91] Liang,P., Shi, L.,Chen,N., Luo, Y., Wang, X., Liu,K.,Mok,V. C.,Chu, W.C.,Wang,D.,Li, K. Construction of brain atlases based on a multi-center MRI dataset of 2O20 Chinese adults [J]. Scientific Reports, 2015,5:18216.   \n[92] Luo,Y.,Shi,L.,Weng,J.,He,H.,Chu,W.C.,Chen,F.,Wang,D.Intensity and sulci landmark combined brain atlas construction for Chinese pediatric population [J]. Human brain mapping, 2014,35(8):3880-92. [93] Xie,W.,Richards,J.E.,Lei,D.,Zhu,H.,Lee,K.,Gong,Q.The constructionofMRIbrain/head templatesfor Chinese children from 7to 16 years of age [J]. Developmental Cognitive Neuroscience,2015,15:94-105. [94]Biswal,B.B.,Mennes,M.,Zuo,X.N.,Gohel,S.,Kelly,C.,Smith,S.M.,Beckmann,C.F.,Adelstein,J.S., Buckner,R.L.,Colcombe,S.,Dogonowski,A.M.,Ernst,M.,Fair,D.,Hampson,M.,Hoptman,M.J.,Hyde,J.S., Kiviniemi,V.J.,Koter,R.,Li,S.J.,Lin, C.P.,Lowe,M.J.,Mackay,C.,Madden,D.J.，Madsen,K.H., Margulies,D.S.,Mayberg,H.S.,McMahon,K.,Monk,C.S.,Mostofsky,S.H,Nagel,B.J.,Pekar,J.J.,Peltier, S.J.,Petersen,S.E.,Riedl,V.,Rombouts,S.A.ypma,B.,Schlaggar,B.L.,Schmidt,S.,eidler,R.D.,iegle, G. J.,Sorg,C.,Teng,G.J, Veijola,J., Vilringer,A., Walter,M., Wang,L., Weng,X.C.,Whitfield-Gabrieli,S., Williamson,P.， Windischberger, C., Zang,Y.F.，Zhang，H.Y.，Castellnos,F.X.， Milham,M. P.Toward discovery science of human brain function [J].Proceedings of the National Academy of Sciences of the United States of America, 2010,107(10):4734-9.   \n[95] Mennes,M., Biswal,B.B., Castellanos,F.X.,Milham,M.P. Making data sharing work: the FCP/INDI experience [J]. NeuroImage,2013,82:683-91.   \n[96] Van Essen,D.C.,Ugurbil,K.,Auerbach,E.,Barch,D.,Behrens,T.E.,Bucholz,R.,Chang,A.,Chen,L., Corbetta,M.,CurtissS.W.,Dell Penna,S,Feinberg,D.,Glasser,M.F.,Harel,N.,Heath,A.C.,Larson-Prior, L.,Marcus,D.,Michalareas,G.,oeller,S,Oostenveld,R.,Petersen,S.E.,Prior,F,Schlaggar,B.L.mith,. M.,Snyder, A. Z.，Xu, J., Yacoub,E. The Human Connectome Project: a data acquisition perspective [J]. NeuroImage,2012,62(4):2222-31.   \n[97] Van Essen,D.C.,Smith,S.M.,Barch,D.M.,Behrens,T.E.,Yacoub,E.,Ugurbil,K.The WU-Minn Human Connectome Project: an overview [J]. NeuroImage,2013,80:62-79.   \n[98]The ADHD-200 Consortium.The ADHD-200 Consortium: A Model to Advance the Translational Potential of Neuroimaging in Clinical Neuroscience [J]. Frontiers in Systems Neuroscience, 2012, 6:62. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "左西年：项目总体规划和设计；左西年，魏高峡，杨志，姜黎黎，李会杰，冯廷勇，陈安涛，邱江，陈旭：研讨实施思路和方案；左西年，杨志，徐婷：影像技术方法和统计算法支撑；杨宁，何叶，张喆，董吴铭，张蕾，朱幸婷，侯晓晖，王银山，张一文：实施项目具体实验测试；杨宁，何叶，张喆，董昊铭，张蕾，朱幸婷，侯晓晖，王银山，张一文，周荃，宮竹青，曹立智，王平，隋丹阳：采集、整理和分析数据；左西年，杨宁，何叶，张喆，董昊铭，张蕾，王银山，周荃：论文写作思路研讨和起草；左西年：论文最终版本修订。",
+        "page_idx": 17
+    }
+]

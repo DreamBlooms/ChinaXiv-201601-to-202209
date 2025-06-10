@@ -1,0 +1,199 @@
+# RESEARCH ARTICLE
+
+# Modeling xeroderma pigmentosum associated neurological pathologies with patients-derived iPSCs
+
+Lina $\bar { \mathsf { F } } \bar { \mathsf { u } } ^ { 1 , 1 0 }$ , Xiuling $\mathbf { \boldsymbol { x } } \mathbf { \boldsymbol { u } } ^ { 1 }$ , Ruotong Ren12, Jun $\boldsymbol { \mathsf { W } } \boldsymbol { \mathsf { u } } ^ { 4 , 5 }$ ,Weiqi Zhang12, Jiping Yang1, Xiaoqing Ren1, Si Wang1, Yang Zhao1, Liang $\mathsf { \pmb { s u n } } ^ { \pmb { 6 } }$ ,Yang $\mathbf { \Delta } \mathbf { \mathsf { Y } } \mathbf { u } ^ { \mathsf { T } }$ , Zhaoxia Wang, Ze Yang6, Yun Yuan, Jie Qiao7, Juan Carlos lzpisua Belmonte4, Jing $\mathsf { \pmb { Q } } \boldsymbol { \mathsf { u } } ^ { 3 \boxtimes }$ ,Guang-Hui Liu1,2.9,10区
+
+1NationalLaboratoryof Biomacromolecules,Instituteof Biophysics,ChineseAcademyof Sciences,Beijing100101,China   
+2 FSU-CAS Innovation Institute,Foshan University, Foshan 528000,China   
+3 State KeyLaboratory of StemCellandReproductive BiologyInstituteof ZoologyChinese Academyof Sciences, Beijing 100101, China   
+4GeneExpressionaboatorySalkInstituteforiologicalStudies0NorthorryPinesRoad,LaJollaC92UA   
+5UniversidadCatolicaSanAntoniode Murcia(UCAM)CampusdelosJeronimos,N135Guadaupe30107,Murciapain   
+6 Beijing Hospital of the Ministry of Health,Beijing 100730,China   
+7 Department of GynecologyandObstetrics,Peking UniversityThird Hospital,Beijing 100191,China   
+8 Department of Neurology,Peking University First Hospital, Beijing 100034China   
+9Beijing Institutefor Brain Disorders,Capital MedicalUniversityBeijing10o69,China   
+10UniversityofhineseAcademyofiencesejing9Cina   
+区Correspondence: belmonte@salk.edu (J.C.I. Belmonte)， qujing@ioz.ac.cn (J.Qu),ghliu@ibp.ac.cn (G.-H.Liu)   
+Received December 22.2015 Accepted December 29.2015
+
+# ABSTRACT
+
+Xeroderma pigmentosum (XP) is a group of genetic disorders caused by mutations of XP-associated genes, resulting in impairment of DNA repair. XP patients frequently exhibit neurological degeneration, but the underlying mechanism is unknown, in part due to lack of proper disease models. Here, we generated patientspecific induced pluripotent stem cells (iPSCs) harboring mutations in five different XP genes including XPA, XPB, XPC,XPG, and XPV.These iPSCs were furtherdifferentiated to neural cells,and their susceptibility to DNA damage stress was investigated. Mutation of XPA in either neural stem cells (NSCs) or neurons resulted in severe DNA damage repair defects,and these neural cells with mutant XPA were hyper-sensitive to DNA damage-induced apoptosis. Thus, XP-mutant neural cells represent valuable tools to clarify the molecular mechanisms of neurological abnormalities in the XP patients.
+
+KEYWORDS xeroderma pigmentosum,iPSC,disease model, neural stem cell, neuron
+
+# INTRODUCTION
+
+Xeroderma pigmentosum (XP) is the first discovered rare autosomal recessive genetic disorder associatedwith defective repair of damaged DNA (Cleaver，1968;Epstein et al.，1970).XP is divided into eight complementation groups (XP-A to XP-G,and XP-V) that are associated with mutations in eight genes (Fassihi, 2013; De Weerd-Kastelein etal.，1972).XP patients bear molecular defects either in nucleotide excision repair (NER) or in translesion synthesis (TLS).NER is involved in the erasure of ultraviolet (UV)- induced DNA lesions or chemical-caused DNA bulky adducts (Cleaver et al., 20o9).Two most common lesions induced by UVexposure are cyclobutane pyrimidine dimers (CPDs）and (6-4）pyrimidine pyrimidinone photoproducts (6-4 PPs) (Setlow and Setlow,1962).There are approximately 30 proteins involved in the NER pathway,including XPA to XPG.Mechanistically， XPC-HR23B and CSA-CSB complexes first recognize the damaged sites in the genome and atactively transcribed genes respectively, recruit XPA to further confirm,and then XPB and XPD as two helicases unwind the DNA double strands.Subsequently the damaged sites are removed by the endonuclease XPG and XPF. Finally，the gap is repaired by DNA polymerase and DNA ligase (Scharer,2013;Mocquet et al.,2008). In TLS,XPV encodes DNA polymerasen that isresponsible forbypassingunrepaired lesions duringDNA replication (Cleaver, 1972；Masutani et al.，1999;Chou，2011). Dysfunction of these XP proteins results in impairment of DNA repair, leading to genomic instability and increased tumor incidence，esp.on skins (Robbins et al.，1974).Importantly, most patients in groups XPA，XPB，XPD，and XPG also exhibitprogressiveneurologicaldegeneration(Grewal, 1991;Kulkarni and Wilson, 20o8), characterized by microcephaly,dementia,peripheral neuropathy,and sensorineural hearing loss (Lai etal., 2013;Hayashi et al.,2004;Anttinen et al.,20o8). Of note is that these neurological symptoms are most frequently observed in XPA patients (Maeda et al., 1994).While mice deficient in XPA have been created, they did not recapitulate the neurological degeneration phenotypes observed in humans (Nakane et al.,1995).The failure of mouse XPA model calls for a relevant human model system for disease mechanistic studies.
+
+Theadvent of induced pluripotent stem cell (iPSC) technology has opened an unprecedented avenue to study the mechanism of rare human genetic diseases,including those caused by defects in DNA damage repair machineries (Cockayne syndrome (Andrade et al.,2012),Fanconi anemia(Liu etal.,2014),Werner syndrome (Shimamoto etal., 2014; Cheung et al., 2014)). So far, an iPSC disease model for XP is still lacking and the establishment of which will facilitate the understanding of pathogenic mechanism,i.e.in nervous system. In this study,we established a series of XPspecific iPSCs carrying different pathogenic mutations in XP genes,which were generated from XP patients'skin fibroblasts.We observed that XPA-mutant neural stem cells (NSCs)and differentiated neurons were defective in NER and very vulnerable to DNA damage stress.Our study provides for the first time molecular clues underlying the neurodegeneration observed in XPA patients.
+
+# RESULTS
+
+# Generationofnon-integrative iPSCs from XP patients
+
+We obtained 5 lines of human primary fibroblasts from XPA, XPB，XPC，XPG，and XPV patients，respectively. DNA sequencing analysis verified the presence of mutations in corresponding XP genes (Fig. 1A and 1B)．To generate patients-specific iPSCs，we electroporated integration-free episomal vectors expressing reprogramming factors Oct4, Sox2，KIf4,L-myc,Lin28,and sh-p53 into fibroblasts and induced them back to pluripotent state (Okita etal., 2011). All these XP gene-mutant fibroblasts were capable of being efficiently reprogrammed to iPSCs (Fig.2A-F),despite the fact that XPC was reported as an Oct4/Sox2 coactivator by forming a protein complex in embryonic stem cells (Cattoglio et al.,2015). In addition,an iPSC line reprogrammed from healthy (WT) human fibroblasts was used as a control (Ding et al.，2015).All the derived iPSCs exhibited normal karyotype and expressed comparable levels of the pluripotency markers including NANOG,OCT4,and SOX2 (Fig.2C and 2E).We did not detect any residual episomal reprogramming vectors in these iPSC lines (Fig.2D). Upon being implanted subcutaneously into immunocompromised mice, these iPSCs formed teratomas comprised of cells from three germ lineages (Fig.2F).Together, these results indicated that despite XPA，XPB，XPC，XPG，and XPV's roles in safeguarding genome stability,mutations in these genes did not compromise somatic cellular reprogramming as well as pluripotency of generated iPSCs (Fig.6).
+
+# XPA-mutant NSCs demonstrated impaired DNA repair potential and increased susceptibility to apoptosis
+
+XP patients frequently exhibit symptoms of neurodegeneration, likely due to increased DNA damage in neural cells.We firstly differentiated these iPSCs into NSCs (Fig.3A and 3B). Both WT and XP mutant NSCs exhibited typical neural progenitor morphology，expressed neural stem cell-specific markers NESTIN and PAX6 (Fig. 3B),and could be further differentiated into neurons expressing TUJ1 and microtubule-associated protein 2 (MAP2) (Fig. 3C).
+
+Next,we investigated whether mutations in XP genes could affect DNA repairability in NSCs.UV radiation causes DNA damage by introducing CPDs and 6-4 PPs into the genome,which can be repaired via NER or TLS.Considering that normal human cells are able to repair $50 \%$ of CPDs within $2 4 \ h$ afterUVirradiation (Nakagawa etal.,1998),we decided to employ CPD as an indicator for cellular repair activity.To this end, we challenged XP-mutant and WT-NSCs with $\textstyle 1 \operatorname { J } / \mathsf { m } ^ { 2 }$ UV,and determined the cellular CPD levels.Both WTand XPmutant NSCs showed low levelsof CPD at the rested state, which became strongly upregulated 20 min after UV treatment (Fig. 4A).WT-NSCs demonstrated a strong self-repair activity as the CPD dropped to basal levels $4 8 \mathsf { h }$ after UVirradiation. In contrast,XP-mutant NSCs showed more CPD-positive cells compared to WT cells $4 8 \mathsf { h }$ after treatment (Fig.4A).Of note is that XPA-mutant NSCs exhibited an unusual high level of CPD $4 8 \mathsf { h }$ after UV treatment (Fig. 4B).These observations indicated thatmutations ofXP genes resulted in compromised NER or TLS abilities,and XPA mutation led to most severe DNA repairdefects in NSCs.
+
+We next investigated whether compromised DNA damage repair in XPA mutant NSCs could be associated with decreased cellularsurvival.To thisend,we treated cellswith $\textstyle { 1 \operatorname { J } / \mathsf { m } ^ { 2 } }$ UV,and cellular apoptosis was determined after $2 4 \mathsf { h }$ We found that UV radiation resulted in massive cellular apoptosis indicated by Annexin V/Pl staining in XPA-mutant NSCs while had little impact on WT-NSCs (Fig. 4C).Western blottinganalysis showed increased levels of cleaved PARP (c-PARP),an apoptosis marker, in XPA mutant NSCs upon UVtreatment (Fig.4D).Additionally，terminal deoxynucleotidyl transferase (TdT)-mediated dUTP nick-end labeling (TUNEL） assay revealed more dramatic nuclear DNA fragmentation in XPA mutant NSCs following UV treatment (Fig.4E).Additionally,we also observed that the XPA mutant NSCshadimpairedabilities ofclonal expansionand migrationeven inabsence of UV radiation (Fig.4Fand 4G).
+
+![](images/98ec6b8c0d01f155ed251943b16632ca9aa4dd2a93030f02be7207abd5a1455f.jpg)  
+Figure1.Genotyping fibroblasts from five XP patients.(A)Schematic diagram of NER pathwayin the nucleus.Upon DNA damage,XPCand HR23Brecognizedamage site,XPAverifies,XPBand XPDunwindDNA double strands,finallyXPFand XPG excisethedamagedstrand.Allof these proteinsfunction togethertorepair UV-inducedDNAdamage.GGR: Global genomerepair; TCR:Transcription-coupledrepair.(B)DNAsequencing showing thediferent mutations inXPA,XPB,XPC,XPG,XPVgenesin fibroblasts from five XP patients.Fibroblasts isolated from a healthy individual were used as acontrol.
+
+Altogether，these findings indicated a defective NER system as well as decreased cellular migration and clonal expansion in XPA-mutant NSCs,and under DNA damage stress these cells were prone to apoptosis.
+
+![](images/9e9ef1955ec7a7fcdc79a59d081837e991cccc5c318583e41edb7efd0ba70ec4.jpg)
+
+# XPA-mutantneuronsare defective in NER and susceptible to UV-induced apoptosis
+
+We next investigated whether post-mitotic neurons with XPA mutation also exhibited similar defective DNA repair phenotypes.For this purpose，we differentiated WT and XPA mutant NSCs into neurons, respectively (Fig. 5A). Similar to NSCs，mutation of XPA in neurons resulted in a compromised DNA repairability，indicated by significantly higher CPD levels upon UV treatment (Fig. 5B). Consistently, XPAmutant neurons exhibited more TUNEL-positive cells than their WT counterparts (Fig. 5C).These results indicated XPA-mutation compromised neuron's ability to repair DNA damage triggered by UV irradiation,and as a result apoptosis occured in XPA-mutant neurons (Fig.6).
+
+# DISCUSSION
+
+Neurological abnormalities are observed in patientsfrom certain xeroderma pigmentosum complementation groups including XPA,XPB,XPD,and XPG.However, the underlying pathogenesis basis is unclear.A roadblock to the mechanistic understanding in part can be attributed to the inability of existing XP mouse models to replicate the neurological pathologies of XP patients (Nakane et al.，1995; Andressooetal.,2oo9).Therefore,amorerelevantmodel system recapitulating human XP pathogenesis is needed for studying the disease mechanism and developing related therapy.
+
+Here，we generated for the first time transgene-free iPSCs from fibroblasts of five XP patients bearing mutations in XPA，XPB，XPC,XPG，and $x P V$ genes，respectively. While mutations of DNA repair-related genes (i.e.WRN (Shimamoto et al.,2014; Cheung et al., 2014) and Fanconi genes (Raya et al., 2009; Muller et al., 2012; Yung et al., 2013)）have been revealed as a barrier to somatic cell reprogramming，we did not observe obvious impairment in reprogramming kinetics from XP patient fibroblasts.Additionally，it has recently been reported that mutations of Fanconi genes compromised the teratoma formation efficiency (Yung etal.,2013),and deficiency of FANCA gene in NSCs resulted in defective neuronal differentiation ability (Liu et al.,2014). In our study, these XP gene mutant iPSCs still retained potentials to differentiate to three germ layers, including NSCs and neuronal cells. In line with these observations,XP gene mutations did not markedly affect the chromosomal stability,and the basal CPD levels are comparable between XP cells and WT cells.
+
+Regarding the novel disease phenotypes in neural cells, weobserved that mutations of XPAin patients leadto the most severe defects in NER，compared to the cells with other XP mutations.This is consistent with the observation that the patients with XPA mutation(s) more frequently exhibited neurological abnormalities．In the clinic，XPA patients showed mild to severe neuronal loss in various brain regions，including cerebral cortex，brainstem，and spinal cord (Hayashi etal.,20o4).We found that the compromised NER activity not only influences the survival of the non-dividing neurons but also promotes apoptosis of dividing neural stem cells.Therefore，the neurodegenerative phenotypes observed in XPA patients may be attributed to decreased cellular survival in both NSCs and neurons upon DNA damage,as accelerated apoptosis in either NSCs or neurons could contribute to diminished number or dysfunction of mature neuronal cells,leading to neurodegeneration.
+
+Besides neurological defects， the XP patients also demonstrated UV-associated dysfunction of skin cells,i.e. increased incidence in skin cancers.Thus the skin cell derivatives derived from XP patient iPSCs can potentially be usedas a platform to study the mechanism of UV-associated malignant cell transformation.Moreover, combined with targeted gene editing techniques(Liu etal., 2011b; Suzuki et al., 2014),iPSC-derived neural or skin cells free of pathogenic mutations can also be used for cell-replacement therapies viaautologous transplantation.On the other hand, the diseasemodels established in this study hold the potential for screening candidate drugs for combating XP diseases.
+
+# MATERIALSANDMETHODS
+
+# Cells
+
+Human XP patient fibroblasts were purchased from Coriell Cell Repository. XPA fibroblast (GM00710） carries a homozygous $6 1 9 0 > 7$ mutation resulting in a nonsense codon in exon 5 of XPA gene． XPB fibroblast (GM13026）is heterozygousfor $\mathsf { T } > \mathsf { C }$ transversion in the XPB gene which results in a phenylalanine-99-toserine missense mutation.XPC fibroblast (GM15709) hasa homozygous $- 9 T > A$ mutation in intron 3 of the XPC gene.This mutation is located ina splice lariat branch point sequence.PCR analysis of fibroblast cells detected an XPC mRNA isoformwith deletion of exon 4 (Khan et al.,2004).XPG fibroblast (GM13371) is
+
+A Day 0 Day 2 Day 4 Day 9 Neural induction medium 1 Neural induction medium 2 Neural stem cell ma iPSCs NSCs   
+B WT XPA XPB XPC XPG XPV Phase   
+Hoechst   
+NESTIN PAX6 Merge   
+C WT XPA XPB XPC XPG XPV TUJ1 MAP2   
+Hoechst
+
+identified with a 1 bp deletion in an AAA triplet at nucleotides 2170_2172 of the XPG gene resulting in subsequent frame shift. XPV fibroblast (GMo3055)also has a nonsense mutation at nucleotide 376 of the $x P V$ gene $( 3 7 6 0 > { \sf T } )$ .The control fibroblast GM00o38was purchased from Coriell Cell Repository.All these mutations in primary fibroblasts or derived iPSCs were verified by DNA sequencing.All fibroblasts were maintained in high glucose DMEM(Invitrogen） containing $1 5 \%$ FBS (Hyclone), $1 \%$ Glutamax (Invitrogen), $1 \%$ non-essential amino acids (Invitrogen), $1 \%$ penicillin/streptomycin (Invitrogen).
+
+# iPSCs generation and culture
+
+XP patients specific iPSCs were generated by electroporation of fibroblastswith episomal vectors includingpCXLE-hOCT3/4-shp53- F,pCXLE-hSK and pCXLE-hULas described (Liu etal.,2014; Okita
+
+![](images/8fa0241071bb9a0a73e4b44ce217e4de46b9cfe9e5c8ec00741db791c2f548ab.jpg)  
+Figure4.XPA-mutant NSCs showed profound impairment of NER and hypersensitive to UV-induced apoptosis. (A)Immunostaining of CPDin WTand XP-mutant NSCs culturedon coverslips in24-wellplate inthe absence or presenceof $1 \mathsf { J } / \mathsf { m } ^ { 2 }$ UV exposure. The images were taken 20 min or $4 8 \mathrm { ~ h ~ }$ after UV irradiation,respectively. Nuclei were stained with Hoechst 33342. Scale bar, $5 0 ~ { \mu \mathrm { m } }$ ：(B) Quantitative analysis offluorescence intensity of CPD in WTand XPA-mutant NSCs in the indicated contexts.60-10O nuclei were used for calculation.(C) Apoptosis analysis in WT and XPA-mutant NSCs $2 4 \ h$ after 1 J/m2 UV treatment(quantitativedatashownontheright).(D)Western blotsshowing PARPcleavageusing anti-PARP(topblots)andanticleaved PARP (middle blots)antibodies respectively in WTand XPA-mutant NSC $2 4 \ h$ after being exposed to $\textstyle 1 \operatorname { J } / \mathsf { m } ^ { 2 }$ UV. $\beta$ -Actin was usedasaloading control. (E)RepresentativeTUNELstaining in WTandXPA-mutantNSCsculturedoncoverslipsin24-wellplate in theabsence orpresenceofUVtreatment (quantitativedatashownontheright).Nucleiwerestainedwith Hoechst3342.Scalebar $5 0 ~ { \mu \mathrm { m } }$ .Dataare shown as mean $\pm \mathsf { S D }$ ： $n = 3$ .For(C) and (D),cells were cultured on 6-well plates without coverslips.(F) Clonal expansion analysis of WTand XPA mutant NSCs.Data are shown as mean $\pm$ SD. $n = 3$ $( \mathsf { G } )$ Cell migration analysis of WT and XPA mutant NSCs.Data are shown as mean $\pm \mathsf { S D }$ $n = 3$
+
+![](images/90cba30356cc6fef7b12e6a14f3c61cea41439336492adf2f56b11199ae23f09.jpg)  
+Figure 4. continued
+
+et al.,2011;Xu etal.,2014).All the derived iPSC lines were maintained on mitomycin C-treated MEF feeder cells in hESC medium (Liu et al. 2011a, b, 2012; Zhang et al., 2015).
+
+# Generationandcharacterization of NSC
+
+NSC differentiation and characterization were performed as previously described (Duan et al., 2015; Liu et al., 2012,2014).
+
+# Neuronal differentiation
+
+$2 . 5 \times 1 0 ^ { 4 }$ NSCs were seeded on a Matrigel-coated well of 6-well plates.The next day, the culture medium was changed to differentiation medium containing DMEM/F12, $1 \times$ N2, $1 \times$ B27,200 μmol/L ascorbic acid (Sigma), $4 0 0 \ \mu \mathrm { m o l / L }$ dbcAMP (Sigma), $1 0 \ \mathrm { \ n g / m L }$ GDNF (Peprotech） and $1 0 \ \mathrm { \ n g / m L }$ of BDNF (Peprotech). Laminin wasadded on the third day to promote differentiation.After14days of differentiation the neurons were subjected to characterization or cytotoxicityanalysis.
+
+# Immunofluorescence microscopy
+
+Cells were fixed with $4 \%$ paraformaldehyde for 30 min at room temperature,washed with PBS,permeabilized in $0 . 4 \%$ Trion $x - 1 0 0$ in PBS,and then blocked in $10 \%$ donkey serum (Jackson ImmunoResearch Labs).After that,cells were incubated with primary antibodies in blocking solution at $4 ^ { \circ } \mathsf { C }$ overnight,followed by incubation with corresponding secondary antibodies and Hoechst 33342 for $1 \ h$ at room temperature.The primaryantibodies used include anti-NANOG (Abcam,21624),anti- $\scriptstyle \cdot \supset \subset \ T 3 / 4$ (Santa Cruz,5279),antiSOX2 (Santa Cruz,17320),anti-NESTIN (Millipore,MAB5326),antiPAX6 (Covance,PRB-278P),anti-TUJ1 (Sigma,T2220),anti-MAP2 (Sigma，4403)，anti-FOXA2 (CST，8186)，anti-α-SMA (Sigma, A5228).
+
+![](images/cdf94bede773a32b87ccb821bb4c897a0243b6974f3b70286d5b223357736232.jpg)  
+Figure 5.XPA-iPSCs derived neurons showed increased susceptibility to UV-induced cellapoptosis.(A） Schematic illutrationofneuronaldiferentiationfrom NSCs.(B)CPDimmunostaininginWTandXPA-mutantneuronsculturedoncoverslips in 24-well plate in the absence or presence of UV exposure.Nuclei were stained with Hoechst 33342.Scale bar, $5 0 \mu \mathrm { m }$ .60-100 nuclei wereused forcalculation. (C)RepresentativeimagesofTUNELstaining in WTand XPA-mutantneurons culturedoncoverslip in 24-wel plae in the absence or presence of UVexposure.Nuclei were stained with Hoechst 33342.Scale bar, $5 0 \mu \mathrm { m }$ .Data are shown as mean $\pm$ SD.60-100 nuclei were used for calculation.
+
+# CPD immunostaining
+
+Cells were fixed with $4 \%$ paraformaldehyde for 15 min at room temperature,washed,and then permeabilized in $0 . 4 \%$ Trion $x - 1 0 0$ inPBS.Following denature of cellular DNA with 2 mol/L HCl,cells
+
+were blocked in $10 \%$ donkey serum, incubated with CPD antibody (Cosmo Bio，TMD-2）and corresponding secondary antibodies. Nuclei were stained with Hoechst 33342.
+
+# Teratoma formationand immunohistological analyses
+
+Five million iPSCs were injected subcutaneously into NOD-SCID mice.After8-12 weeks,teratomas were excised,fixed,dehydrated, embedded in O.C.T compound，sectioned，and analyzed by immunostaining.All murine experiments were conducted in compliance with animal protocols approved by the Chinese Academy of Science Institutional Animal Care and Use Committee.
+
+![](images/0cd8a84bb896ae74a354cb665fb013aee3338ab7bc4c6896283092fb36f59e11.jpg)  
+Figure 6.Schematicillustrationof disease modeling using XPA patient-specific iPSCs.Both NSCsand neurons derivedfrom XPApatientiPSCsshowedcompromisedNERandincreasedsusceptibitytoDNAdamage-inducedapoptosis,whichmaycontribute to XP-associated neurological disorders.
+
+# TUNEL
+
+TUNEL analysis was performed using DeadEndTM Fluorometric TUNEL System kit (Promega). In short, cells were fixed with $4 \%$ paraformaldehyde at room temperature,permeabilized in $0 . 2 \%$ Trion $x - 1 0 0$ in PBS and pre-equilibrated with equilibration buffer,followed by labeling DNA strand breaks with nucleotide mix (6O min at $3 7 ^ { \circ } \mathsf { C }$ ）
+
+$2 \times$ SSC was used to stop the reaction.DNA was stained with Hoechst 33342.
+
+# Apoptosis
+
+FACS-based cell apoptosis analysis was performed as previously described (Liu et al., 2012).
+
+# Westernblotanalysis
+
+Fordetecting the cleaved PARP in NSCs,cells were treated with UV and then protein lysates were subjected to SDS-PAGE.Primary
+
+antibodies used were anti-PARP (CST,9542),anti-cleaved PARP (CST,9541),anti- $\cdot \boldsymbol { \mathsf { \beta } }$ -actin (Santa Cruz,130301).
+
+# Statistical analysis
+
+Dataare presented as mean $\pm \mathsf { S D }$ .The statistical significance of difference between groups was calculated using Student's t test. $P > 0 . 0 5$ (ns), $P < 0 . 0 5$ (\*)， $P < 0 . 0 1$ （204 $( ^ { \star \star } )$ and $P < 0 . 0 0 1$ (\*\*\*).
+
+# ACKNOWLEDGMENTS
+
+This work was supported by National Basic Research Program (973 Program) (Nos.2015CB964800 and 2014CB910503), the Strategic Priority Research Program of the Chinese Academy of Sciences (XDA01020312)，National High Technology Research and Development Program of China (2015AA020307)，National Natural Science Foundation of China (Grant Nos．81330008，31222039, 31201111,81371342,81300261,81300677，81271266,81471414， 81422017，and 81401159)，Beijing Natural Science Foundation (7141005；5142016)，Program of Beijing Municipal Science and Technology Commission (Z151100003915072)，Key Research Program of the Chinese Academy of Sciences (KJZDEW-TZ-LO5),the Thousand Young Talents program of China,National Laboratory of Biomacromolecules(012kf02，2013kf05，2013kf11，2014kf02, 2015kf10).J.C.I.B.was supported by UCAM,the G.Harold and Leila Y. Mathers Charitable Foundation,the Leona M.and Harry B. Helmsley Charitable Trust (2012-PG-MED002) and the Moxie Foundation.
+
+# ABBREVIATIONS
+
+CPDs，cyclobutane pyrimidine dimers；iPSCs,induced pluripotent stem cells；NER,nucleotide excision repair；NSCs,neural stem cells；TLS，translesion synthesis；UV,ultraviolet;XP,xeroderma pigmentosum.
+
+# COMPLIANCEWITHETHICSGUIDELINES
+
+Lina Fu,Xiuling Xu,Ruotong Ren, Jun Wu,Weiqi Zhang，Jiping Yang，Xiaoqing Ren，Si Wang，Yang Zhao,Liang Sun，YangYu, Zhaoxia Wang,Ze Yang，Yun Yuan,Jie Qiao,Juan Carlos lzpisua Belmonte,Jing Qu,and Guang-Hui Liu declare that they have no conflict of interest.All institutional and national guidelines for the careand use of laboratoryanimalswere followed.
+
+# OPENACCESS
+
+This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/ licenses/by/4.O/)，which permits unrestricted use,distribution,and reproduction in any medium,provided you give appropriate credit to the original author(s) and the source,provide a link to the Creative Commons license,and indicate if changes were made.
+
+# REFERENCES
+
+Andrade LND et al (2012) Evidence for premature aging due to oxidative stress in iPSCs from Cockayne syndrome.Hum Mol Genet 21(17):3825-3834
+
+Andressoo JO et al (2009) An Xpb mouse model for combined Xeroderma pigmentosum and cockayne syndrome reveals progeroid features upon further attenuation of DNA repair. Mol Cell Biol 29(5):1276-1290   
+Antinen A et al (20o8) Neurological symptoms and natural course of xeroderma pigmentosum. Brain 131:1979-1989   
+Cattoglio C et al (2015) Functional and mechanistic studies of XPC DNA-repair complex as transcriptional coactivator in embryonic stem cells.Proc Natl Acad Sci U S A 112(18):E2317-E2326   
+Cheung HH et al (2014) Telomerase protects werner syndrome lineage-specific stem cells from premature aging.Stem Cell Reports 2(4):534-546   
+Chou KM (2011） DNA polymerase eta and chemotherapeutic agents. Antioxid Redox Signal 14(12):2521-2529   
+Cleaver JE (1968) Defective repair replication of DNA in xeroderma pigmentosum. Nature 218(5142):652-656   
+Cleaver JE (1972) Xeroderma pigmentosum-variants with normal DNA-repair and normal sensitivity to ultraviolet-light. J Investig Dermatol 58(3):124-128   
+Cleaver JE,Lam ET,Revet I(20o9) Disorders of nucleotide excision repair: the genetic and molecular basis of heterogeneity. Nat Rev Genet 10(11):756-768   
+De Weerd-Kastelein EA，Bootsma D，Keijzer W(1972) Genetic heterogeneity of Xeroderma pigmentosum demonstrated by somatic cell hybridization. Nature 238(81):80-83   
+Ding Z et al (2015)A widely adaptable approach to generate integration-free iPSCs from non-invasively acquired human somatic cells.Protein Cell 6(5):386-389   
+Duan S et al (2015) PTEN deficiency reprogrammes human neural stem cells towards a glioblastoma stem cell-like phenotype.Nat Commun 6:10068   
+Epstein JH et al (197O) Defect in DNA synthesis in skin of patients with xeroderma pigmentosum demonstrated in vivo. Science 168 (3938):1477-1478   
+Fassihi H (2013)Spotlight on ‘xeroderma pigmentosum'. Photochem Photobiol Sci 12(1):78-84   
+Grewal RP (1991) Neurons and DNA-Repair - Neurologic Involvement in Xeroderma Pigmentosa.Med Hypotheses 34(2):171-173   
+Hayashi M et al (2oo4） Brainstem and basal ganglia lesions in xeroderma pigmentosum group A.J Neuropathol Exp Neurol 63 (10):1048-1057   
+Khan SG et al (2004） Two essential splice lariat branchpoint sequences in one intron in a xeroderma pigmentosum DNA repair gene: mutations result in reduced XPC mRNA levels that correlate with cancer risk. Hum Mol Genet 13(3):343-352   
+Kulkarni A,Wilson DM (2008) The involvement of DNA-damage and -repair defects in neurological dysfunction. Am J Hum Genet 82 (3):539-566   
+Lai JP et al (2013) The influence of DNA repair on neurological degeneration，cachexia,skin cancer and internal neoplasms: autopsy report of four xeroderma pigmentosum patients (XP-A, XP-C and XP-D). Acta Neuropathol Commun 1:4   
+Liu GH et al (2011a) Recapitulation of premature ageing with iPSCs from Hutchinson-Gilford progeria syndrome. Nature 472(7342):221-225   
+Liu GH et al (2011b） Targeted gene correction of laminopathyassociated LMNA mutations in patient-specific iPSCs. Cel Stem Cell 8(6):688-694   
+Liu GH etal (2012) Progressive degeneration of human neural stem cells caused by pathogenic LRRK2.Nature 491(7425):603-607   
+Liu GH et al (2014) Modelling Fanconi anemia pathogenesisand therapeutics using integration-free patient-derived iPSCs.Nat Commun 5:4330   
+Maeda Tet al (1994) Severe neurological abnormalities associated with a mutation in the zinc-finger domain in a group A Xeroderma pigmentosum patient.BrJ Dermatol 131(4):566-570   
+Masutani C et al (1999) The XPV (xeroderma pigmentosum variant) gene encodes human DNA polymerase eta.Nature 399(6737): 700-704   
+MocquetVet al (2oo8) Sequential recruitment of the repair factors during NER: the role of XPG in initiating the resynthesis step. EMBOJ27(1):155-167   
+Muller LUW et al (2012) Overcoming reprogramming resistance of Fanconianemia cells.Blood 119(23):5449-5457   
+Nakagawa A et al (1998) Three-dimensional visualization of ultraviolet-induced DNA damage and its repair in human cell nuclei. Journal of Investigative Dermatology 110(2):143-148   
+Nakane H et al (1995) High incidence of ultraviolet-B-or chemicalcarcinogen-induced skin tumours in mice lacking the Xeroderma pigmentosum group A gene.Nature 377(6545):165-168   
+Okita Ketal (2011) A more efficient method to generate integrationfree human iPS cells.Nat Methods 8(5):409-412   
+RayaAetal (2oo9) Disease-corrected haematopoietic progenitors from Fanconi anaemia induced pluripotent stem cells.Nature 460 (7251):U53-U61   
+Robbins JH et al (1974) Xeroderma pigmentosum:an inherited diseases with sun sensitivity,multiple cutaneous neoplasms,and abnormal DNA repair. Ann Intern Med 80(2):221-248   
+Scharer OD (2013) Nucleotide excision repair in eukaryotes.Cold Spring Harb Perspect Biol 5(10):a012609   
+Setlow RB，Setlow JK(1962）Evidence that ultraviolet-induced thymine dimers in DNA cause biological damage.Proc Natl Acad Sci USA 48(7):1250   
+Shimamoto A et al (2014) Reprogramming suppresses premature senescence phenotypes of Werner syndrome cells and maintains chromosomal stability over long-term culture.PLoS ONE 9(11): e112900   
+Suzuki K et al (2014) Targeted gene correction minimally impacts whole-genomemutationalloadinhuman-disease-specific induced pluripotent stem cell clones.Cell Stem Cell 15(1):31-36   
+Xu XL et al (2014) Direct reprogramming of porcine fibroblasts to neural progenitor cells.Protein Cell 5(1):4-7   
+Yung SK et al (2013)Brief report: human pluripotent stem cell modelsof fanconi anemiadeficiencyrevealan important role for fanconi anemia proteins in cellular reprogrammingand survival of hematopoietic progenitors.Stem Cells 31(5):1022-1029   
+Zhang WQ et al (2015)A Werner syndrome stem cell model unveils heterochromatinalterationsasadriverof humanaging.Science 348(6239):1160-1168

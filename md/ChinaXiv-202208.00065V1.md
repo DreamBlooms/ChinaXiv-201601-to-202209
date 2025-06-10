@@ -1,0 +1,223 @@
+# 黄河上游近60a径流量与降水量变化特征研究
+
+成艺¹²，武兰珍³，刘峰贵¹，沈彦俊1.2（1.青海师范大学地理科学学院,青海 西宁810008；2.中国科学院遗传与发育生物学研究所农业资源研究中心,河北 石家庄 050022；3.甘肃农业大学水利水电工程学院,甘肃 兰州 730070)
+
+摘要：为探究黄河上游径流量与降水量变化特征，基于唐乃亥、下河沿、头道拐3个水文站近60a的降水量、径流量资料，采用线性倾向趋势检验、Mann-Kendall检验法(M-K趋势检验）、Spearman秩次相关检验、M-K突变检验、Pettt非参数检验、有序聚类分析、累积距平法、双累积曲线等分析方法对比研究了黄河上游及上游不同子区域降水量和径流量的变化特征，并讨论了径流量对降水量的响应关系。结果表明：黄河上游降水量呈不显著增加趋势，在2003年发生突变，突变前后变化率为 $4 . 6 7 \%$ ;径流量呈显著减少趋势，突变年份为1986年，突变前后变化率为 $3 5 . 3 4 \%$ 。3个子区域年降水量变化趋势分别呈显著增加、不显著增加和显著减少趋势，径流量均呈减少趋势。以唐乃亥以上的I区为基准区时，唐乃亥一下河沿所在的Ⅱ区降水量因素对径流量的影响达到 $2 5 . 0 8 \%$ ，非降水量因素为 $7 4 . 9 2 \%$ ，而下河沿一头道拐的Ⅲ区，降水量对径流量的影响为 $3 2 . 1 4 \%$ ，非降水量因素为 $6 7 . 8 6 \%$ 。研究结果对黄河流域水资源综合管理与科学配置具有参考意义。
+
+关键词：黄河上游及分区；径流量；降水量；变化特征；响应关系文章编号：
+
+降水量与径流量作为自然界水循环的2个重要环节对区域水资源产生重大影响，降水量是区域水资源量时空分布特征最重要的因素，也是区域自然地理特征重要表征要素与关键环节；径流量是水资源的重要组成部分和主要存在形式，是地表水循环的重要环节和水量平衡的基本要素，更是社会经济发展用水的最主要来源。然而，径流量的变化受降水量变化的影响[1-2],因此，研究区域降水量、径流量变化规律与特征以及二者之间的关系和影响因素，掌握区域水文水资源演变规律，可为区域水资源综合管理与科学配置提供重要参考和借鉴依据。黄河是中国第二长河，是中国西北、华北地区的重要水源[3]。黄河流域西起巴颜喀拉山，东临渤海，南至秦岭，北抵阴山，是横跨青藏高原、内蒙古高原、黄土高原和黄淮海平原的生态廊道，承载着全国 $1 5 \%$ 的耕地面积和 $12 \%$ 的人口[4],沿线集聚有关中平原、中原、山东半岛3个区域级城市群和兰西、宁夏沿黄、呼包鄂榆、晋中4个地区性城市群[5],在中国经济社会发展和生态安全中占有十分重要的地位。但黄河流域受地理位置与东亚季风气候的影响，流域大部分属于干旱、半干旱地区，多年平均降水量在 $2 0 0 { \sim } 6 0 0 ~ \mathrm { m m }$ 之间,水资源自然禀赋严重不足[6],人均水资源占有量仅为全国平均水平的 $2 7 \%$ 。2016年，流域缺水 $8 . 6 0 \times 1 0 ^ { 9 } \mathrm { m } ^ { 3 }$ ,缺水率高达 $1 7 \%$ （全国缺水率为 $2 . 2 \%$ )[7],供需矛盾十分突出。
+
+因此，众多学者聚焦影响黄河流域水资源关键水文要素(径流量与降水量)及影响因素展开了深入而广泛的研究，如保广裕等8利用气象观测站逐日地面降水量和水文站径流量数据，分析了黄河上游河源区不同量级降水量对径流量变化的影响；魏伊宁等研究了兰州以上区域径流量丰枯的空间分布特征及其影响因子；宁怡楠等[分析黄河中游河龙区间4个典型流域径流量变化趋势，阐述了气候变化和人类活动对流域径流量变化的作用;潘彬等[]对黄河下游1962—2012年径流量和降水量变化特征及规律进行了深入探讨；王未等利用多维度径流量情势指标，分析了黄河流域各区域的径流量过程整体变化特征并评估了其改变度。尽管国内外学者对黄河流域降水量、径流量变化规律和影响因素采用不同方法、不同站点数据及不同时间序列多有探究，但对降水量、径流量时空尺度变化特征研究的成果存在一定差异[13],针对流域上游降水量、径流量的研究大多集中在以唐乃亥水文站以上的河源区，涉及整个上游区域(河源一头道拐)的研究较为单薄，且绝大多数研究都集中在时间序列突变前后二者的变化及影响因素的分析，而针对上游分区域降水量、径流量响应的研究几乎空白。因此，本文根据黄河上游地区地域特征，以典型水文站为界，将黄河上游分为3个研究区域，分区域研究黄河上游降水量、径流量变化趋势及二者之间的响应，为黄河流域生态保护与高质量发展提供科技支撑，夯实黄河全流域高质量发展根基。
+
+# 1 研究区概况
+
+根据黄河流域形成发育的地理、地质条件及水文情况，将源头至内蒙古自治区托克托县河口镇区域称为黄河上游，该区域(含内流区)位于青藏高原、内蒙古高原和黄土高原三大高原交接地带，流域面积 $3 . 8 6 \times 1 0 ^ { 5 } ~ \mathrm { k m } ^ { 2 }$ ，占流域总面积的 $5 3 . 8 0 \%$ ,径流量占全河的 $6 0 \%$ 以上[14],如单纯选择整个黄河上游进行研究并不能很好地反映区域降水量、径流量变化的时空规律。因此，基于水资源二级区正式图件，综合流域自然环境和人类活动对降水量、径流量影响的差异，以流域典型水文站断面为界，将研究区划分为3个子区域：I区为河源一唐乃亥水文站之间的区域，平均海拔 $4 0 6 3 . 2 3 \mathrm { m }$ ，多年平均气温 $- 2 . 6 0 \mathrm { { ^ { \circ } C } }$ 多年平均降水量 $5 3 7 . 9 \mathrm { m m }$ ，为黄河上游主要产水区，且位于连续多年冻土区，多年冻土占该区域面积的$34 \%$ 。Ⅱ区为唐乃亥一下河沿水文站之间的区域，平均海拔 $2 7 0 9 . 4 7 \mathrm { ~ m ~ }$ ,多年平均气温 $3 . 0 8 ~ \mathrm { \textdegree C }$ ,多年平均降水量 $4 4 9 . 3 ~ \mathrm { m m }$ ，为高山与峡谷串珠状连接地带，并有多条河流汇入，水能资源丰富，分布着诸如龙羊峡、刘家峡等大型水利枢纽。Ⅲ区为下河沿一头道拐水文站之间的区域，平均海拔 $1 3 4 4 . 0 9 \mathrm { m }$ ，多年平均气温 $7 . 0 0 ^ { \circ } \mathrm { C }$ ,多年平均降水量 $2 7 1 . 7 \ \mathrm { m m }$ ，区域地势平坦，分布着广袤的耕地资源，是黄河上游主要的灌溉农业区，该区域的宁蒙河套灌区是全国特大型灌区之一，赖于黄河水的灌溉，河套平原享有"八百里河套米粮川"的美誉(图1)。
+
+# 2数据与方法
+
+# 2.1数据来源
+
+本研究所用径流量数据为1956—2017年黄河上游唐乃亥、下河沿及头道拐3个水文站年实测径流量数据，数据来源于国家科技基础条件平台国家地球系统科学数据中心（http://www.geodata.cn）。研究区I区径流量数据为唐乃亥水文站实测数据；Ⅱ、III区采用区域径流量变化量，分别为相应水文站(唐乃亥一下河沿、下河沿一头道拐)径流量差值数据；上游径流量数据采用头道拐水文站实测数据。1956—2017年降水量数据是经496个独立气象观测点进行验证的可信数据[15]
+
+# 2.2 研究方法
+
+# （1）趋势检验
+
+线性倾向估计是目前趋势分析中最直接有效地方法之一，建立分析要素 $x _ { i }$ 与时序i之间的一元函数,来检验时间序列的趋势性[1]。滑动平均是趋势拟合技术最基础的方法之一，此方法在降低数据序列自由度的同时能增强序列的相关性，可采用时间序列的平滑值来显示变化趋势，从滑动平均曲线图来判别其变化是呈上升或下降趋势[17]
+
+Mann-Kendall检验法(简称M-K趋势检验)是一种非参数检验方法，优点为样本序列无需服从特定分布，且不易受奇异值干扰，用于水文要素时间序列的趋势检验。此方法利用统计量Z值的正负判断序列趋势，当 $Z$ 为正值时，序列呈上升趋势，反之为下降趋势， $Z$ 的绝对值越大，序列趋势变化越显著，对于给定的显著性水平 $\scriptstyle \alpha = 0 . 0 5$ ，当 $| Z | > | Z _ { \alpha / 2 } |$ 时，认为序列趋势显著[18]。
+
+Spearman秩次相关检验是一种非参检验方法，该方法计算简单，精确性高，根据秩次相关系数 $\left( r _ { s } \right)$ 判别时间序列的趋势性。当 $r _ { s } { > } 0$ 时，时间序列呈上升趋势， $r _ { s } { < } 0$ 时，则呈降低趋势，并用 $\mathbf { \Phi } _ { t }$ 检验法检验趋势的显著性[19-20]。
+
+![](images/22201d4bd2066cde558665e389d3b996e5908f162c57dc8f9ddaec6eac2b8d05.jpg)  
+干辛区地理  
+图1研究区概况  
+Fig.1 Overview of the study area
+
+# (2）突变检验
+
+M-K突变检验是在M-K趋势检验基础上建立的一种确定时间序列突变的方法，根据构造的秩序列样本计算统计量 $U _ { \mathrm { f k } }$ 和 $U _ { \mathrm { b k } }$ ,根据 $U _ { \mathrm { f k } }$ 和 $U _ { \mathrm { b k } }$ 曲线在置信范围内的交点，确定时间序列的突变点[21]
+
+Pettitt检验为非参数检验方法，方法结构简洁，受异常值影响小[22-23]。统计量 $| U _ { t , N } |$ 最大值对应的时间点 $t _ { 0 }$ 即为时间序列的突变点， $U _ { t , N }$ 为：
+
+$$
+U _ { t , N } = U _ { t - 1 , N } + \sum _ { J = 1 } ^ { N } \mathrm { s g n } ( x _ { i } - x _ { j } )
+$$
+
+式中： $U$ 为统计量，其本质为前1个样本值大于后1个样本值的个数; $\mathbf { \Phi } _ { t }$ 为样本的排列序号； $N$ 为样本总数； $x _ { i } \setminus x _ { j }$ 为相同时间序列的2个样本值。对于突变点的显著性根据构造的统计量 $P$ 进行检验：
+
+$$
+P { = } 2 \exp { [ - 6 U _ { _ { t , N } } / ( N ^ { 2 } + N ^ { 3 } ) ] }
+$$
+
+式中： $P$ 为统计量；当 $P$ 小于显著水平 $\scriptstyle \alpha = 0 . 0 5$ ，则认为检测出来的突变点在意义上发生显著变化。
+
+有序聚类分析法属于非参数检验方法[24]，其实质是计算最优分割点，使同类之间的离差平方和较小，而不同类之间的离差平方和较大。
+
+$$
+S _ { n } ( \tau ) = \operatorname* { m i n } \left[ \sum _ { i = 1 } ^ { \tau } ( x _ { i } - \bar { x } _ { \tau } ) ^ { 2 } + \sum _ { i = \tau + 1 } ^ { n } ( x _ { i } - \bar { x } _ { n - \tau } ) ^ { 2 } \right]
+$$
+
+式中： $S _ { n }$ 为离差平方和; $\tau$ 为假设序列分割点； $\bar { x } _ { \tau }$ 为分割点前的序列均值; $\bar { x } _ { n - \tau }$ 为分割点后序列均值； $x _ { i }$ 为序列值；分别计算 $\tau$ 前后序列的离差平方和$S _ { n } ( \tau )$ ，当 $S _ { n } ( \tau )$ 为最小时，所对应的 $\tau$ 就是最优分割
+
+点，即最可能的突变点。
+
+累积距平法利用累积距平曲线反映变化趋势，若累积距平曲线显示上升趋势，则时间序列距平值增加，若累积距平曲线显示下降趋势，则距平值减少，同时可利用累积最大绝对值判断出时间序列突变发生的大致时间。
+
+# （3）双累积曲线法
+
+双累积曲线法是水文气象要素一致性分析中最常用的一种方法，同时分析水文要素的变化规律及趋势。如果未受到外界干扰时，存在以下关系：
+
+$$
+\sum R = k \sum P = b
+$$
+
+式中： $\textstyle \sum R$ 为累积径流量深； $k$ 为系数; $\textstyle \sum P$ 为累积降水量； $b$ 为常数。将受到干扰的累积降水量作为变量 $\textstyle \sum P$ ,可根据式(4)计算受到影响的累积径流量 $\textstyle \sum R$ ,模拟和实测径流量深的差值则为径流量受非降水量因素而产生的变化量
+
+# 3结果与分析
+
+# 3.1降水量与径流量变化特征
+
+3.1.1黄河上游降水量与径流量变化趋势对黄河上游(头道拐以上区域)的年尺度降水量数据及头道拐水文站实测径流量数据进行分析，根据（图$2 \mathrm { a } { \sim } \mathrm { b }$ )所示的降水量、径流量可知，黄河上游年均降水量约为 $4 1 9 . 9 \ \mathrm { m m }$ ,1956一1970年年际变化波动幅度较大，1970年以后较小，最大降水量出现在1968年,为 $5 5 9 . 3 ~ \mathrm { m m }$ ,最小降水量为1966年的 $3 1 8 . 3 ~ \mathrm { m m }$ ，相差约 $2 4 1 . 0 \mathrm { m m }$ ,极值比为 $1 . 7 6$ 。以5a滑动平均过程线分析，降水量序列在1980—2002年左右呈减少趋势，2002年以后呈增加趋势，由线性倾向趋势可知黄河上游降水量以 $1 . 8 0 \mathrm { m m } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ 的速率呈微弱增加趋势。与降水量相比，径流量呈明显减少趋势，减少速率为 $1 . 9 4 { \times } 1 0 ^ { 9 } \mathrm { m } ^ { 3 } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ ,最大径流量出现在1967年 $( 4 . 3 8 \times 1 0 ^ { 1 0 } ~ \mathrm { m } ^ { 3 } )$ ,约为最小径流量出现年份1997年 $( 1 . 1 2 \times 1 0 ^ { 1 0 } ~ \mathrm { m } ^ { 3 } )$ 的3.91倍。从5a滑动平均过程线看出，径流量呈现多段上升一下降一上升变化过程，在1986—2004年左右呈现显著减少趋势
+
+![](images/7dab6a2e12056388438e697d3b0094610ac551dd8bab71455eb34c1f2372fb66.jpg)  
+图2黄河上游降水量与径流量变化特征  
+Fig.2Characteristics of precipitation and runoff in the upstream of the Yellow River
+
+采用M-K和Spearman 秩次相关检验法验证1956—2017年降水量和径流量变化趋势及其在置信水平 $\scriptstyle \alpha = 0 . 0 5$ 下的显著性，结果如表1所示。
+
+根据检验结果，降水量的M-K检验统计量 $Z =$ 0.78，且 $\scriptstyle | Z | = 0 . 7 8 < Z _ { \alpha / 2 } = 1 . 9 6$ ,Spearman秩次相关系数$r _ { s } { = } 0 . 0 9 { > } 0$ ，且统计量 $\scriptstyle | T | = 0 . 7 8 < T _ { \alpha / 2 } = 2 . 0 1$ ,说明两种检验方法均得出黄河上游近 $6 0 \mathrm { ~ a ~ }$ 来降水量呈不显著增加趋势;径流量的M-K统计量 $\scriptstyle { Z = - 3 . 8 2 }$ ，且 $| Z | = 3 . 8 2 >$ $Z _ { \alpha / 2 } { = } 1 . 9 6$ ,Spearman秩次相关系数 $r _ { s } = - 0 . 5 1 < 0$ ，且统计量 $\lvert T \rvert { = } 2 . 5 8 { > } T _ { \alpha / 2 }$ ，说明两种检验方法均得到黄河上游近 $6 0 \mathrm { ~ a ~ }$ 来径流量呈显著减少趋势。通过以上分析结果可看出,M-K检验、Spearman秩次相关检验结果与线性趋势检验结果相吻合，说明降水量和径流量趋势判断可靠度强。尽管降水量是径流量变化的支配性因素，但针对黄河上游降水量增加但径流量显著减少这一现象说明影响黄河上游径流量变化除了降水量这一因素外，还有人类活动、气候变化等其他因素。
+
+3.1.2 黄河上游降水量与径流量突变分析对图$3 \mathrm { a } { \sim } \mathrm { b }$ 所示的黄河上游降水量和径流量M-K突变检验曲线进行分析，由 $U _ { \mathrm { f k } }$ 和 $U _ { \mathrm { b k } }$ 曲线交点大致判断，黄河上游降水量可能发生的突变年份为1962、1976、2003年，径流量突变年份为1990年。在Pettitt检验下，黄河流域上游降水量在2003年发生突变，其变异年份所对应的 $k _ { t 0 } = 1 8 2$ ,统计量 $ { P _ { \mathrm { m a x } } } { = } 0 . 8 8$ ,突变不显著；径流量在1986年发生突变，其变异年份所对应的 $k _ { t 0 } = 7 0 9 0$ ,统计量 $P _ { \mathrm { m a x } } { = } 0$ ,突变显著。采用有序聚类对黄河上游降水量和径流量进行突变分析，降水量和径流量离差平方和的时序变化如图4所示，根据图4a得出降水量离差平方和在2003年达到低谷值，因此认为2003年为降水量最佳变异分割点，从图4b看出，1986年为径流量离差平方和的最小值，即认为1986年为黄河上游径流量突变年份。采用累积距平对黄河上游降水量和径流量突变年份进行进一步精确识别，根据图5所示的黄河上游降水量与径流量累积距平曲线看出，降水量和年径流量均在研究时段内发生了一次较为明显的突变，降水量发生在2003年，径流量发生在1986年。综合以上分析，确定黄河上游降水量突变年份为2003年，1956—2002年平均降水量为 $4 1 5 . 7 \mathrm { m m }$ ,2004——2017年平均降水量为 $4 3 5 . 1 \ \mathrm { m m }$ ，突变前后变化率为$4 . 6 7 \%$ ；径流量突变年份为1986年，1956—1985年平均径流量为 $2 . 4 9 \times 1 0 ^ { 1 0 } \mathrm { m } ^ { 3 }$ ,1987—2017年平均径流量为 $1 . 6 1 \times 1 0 ^ { 1 0 } \mathrm { m } ^ { 3 }$ ,突变前后变化率为 $3 5 . 3 4 \%$ 。
+
+表1降水量与径流量变化趋势统计检验值  
+Tab.1 Variation trend of precipitation and runoff inspection values   
+
+<html><body><table><tr><td>类型</td><td>Z值</td><td>Z/2</td><td>趋势性</td><td>显著性</td><td></td><td>ITI</td><td>Ta/2</td><td>趋势性</td><td>显著性</td></tr><tr><td>降水量</td><td>0.78</td><td>1.96</td><td>增加</td><td>不显著</td><td>0.09</td><td>0.78</td><td>2.01</td><td>增加</td><td>不显著</td></tr><tr><td>径流量</td><td>-3.82</td><td>1.96</td><td>减少</td><td>显著</td><td>-0.51</td><td>2.58</td><td>2.01</td><td>减少</td><td>显著</td></tr></table></body></html>
+
+注： $Z$ 值为M-K检验统计值； $Z _ { \alpha / 2 }$ 为M-K检验 $9 5 \%$ 置信度水平临界值； $r _ { s }$ 为Spearman秩次相关系数； $| T |$ 为t检验统计量； $T _ { \alpha / 2 }$ 为t检验 $9 5 \%$ 置信度水平临界值。下同。
+
+![](images/f3465ef85020c16a4d087f45c79c4d57acf583a01127391f2665d19ffa3e3fa5.jpg)  
+Fig.3M-K test of the precipitation and runoff in the upstream of the Yellow River
+
+![](images/2439c886e534ba850a4b73978fc735b63f7322df3755dab09f502c80b7718952.jpg)  
+图3黄河上游降水量和径流量M-K突变检验  
+图4黄河上游降水量与径流量离差平方和
+
+# 3.2分区降水量与径流量特征
+
+3.2.1分区降水量、径流量变化趋势对各区域插 值的空间降水量及径流量数据进行分析，从表2所 示的分区降水量和径流量特征值可看出，黄河上游 年均降水量由西向东呈减少趋势,3个区域之间变 化率分别为 $1 5 . 3 7 \% , 3 9 . 5 3 \%$ ;年均径流量变化量由 西向东也呈减少趋势，Ⅲ区径流量变化量为负值， 说明该区域产生的径流量被全部消耗
+
+![](images/481d19b0c4668c2540ef94a4981e1df66eeb9ec2c56a7c734ebb8e8d44623340.jpg)  
+Fig.4 Sum of squares of the precipitation and runoff in the upstream of the Yellow River   
+图5黄河上游降水量与径流量累积距平 Fig.5Precipitation and runoff accumulative anomalies in the upstream of the Yellow River
+
+根据图6a\~f所示的各区域降水量和径流量变化过程线可知，I区与Ⅱ区降水量分别以 $9 . 1 ~ \mathrm { m m }$ ：$( 1 0 \mathrm { a } ) ^ { - 1 } , 2 . 8 \ \mathrm { m m } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ 的速率增加，而Ⅲ区以3.1$\mathrm { m } \mathrm { m } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ 的速率减少；I、Ⅱ、Ⅲ区径流量变化分别以 $3 . 5 { \times } 1 0 ^ { 8 } \mathrm { ~ m } ^ { 3 } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ ， $1 1 . 5 { \times } 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ 和 $4 . 4 \times$ $1 0 ^ { 8 } \mathrm { m } ^ { 3 } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ 的速率减小。
+
+表2分区降水量与径流量特征值  
+Tab.2 Characteristic values of precipitation and runoff in different regions   
+
+<html><body><table><tr><td>类型</td><td>研究区域</td><td>均值</td><td>最大值</td><td>最大值出现年份</td><td>最小值</td><td>最小值出现年份</td><td>极值比</td></tr><tr><td rowspan="3">降水量/mm</td><td>I区</td><td>530.90</td><td>658.20</td><td>1989</td><td>418.60</td><td>1956</td><td>1.57</td></tr><tr><td>Ⅱ区</td><td>449.30</td><td>622.50</td><td>1967</td><td>338.20</td><td>1991</td><td>1.84</td></tr><tr><td>Ⅲ区</td><td>271.70</td><td>425.30</td><td>1961</td><td>148.30</td><td>1965</td><td>2.87</td></tr><tr><td rowspan="3">径流量/10m</td><td>I区</td><td>198.64</td><td>328.60</td><td>1989</td><td>105.75</td><td>2002</td><td>3.11</td></tr><tr><td>Ⅱ区</td><td>97.29</td><td>214.62</td><td>1964</td><td>13.67</td><td>2009</td><td>13.67</td></tr><tr><td>Ⅲ区</td><td>-91.80</td><td>-58.92</td><td>1956</td><td>-121.14</td><td>2005</td><td>0.49</td></tr></table></body></html>
+
+采用M-K和Spearman秩次相关检验方法验证
+
+![](images/6d0437391e453cc9a814c618a664bd9bce64e148e34f1fb190eece8f0e4c8cba.jpg)  
+图6不同分区降水量与径流量变化特征  
+Fig.6Variation characteristics of precipitation and runoff in different research regions
+
+# 干旱区地理
+
+1956—2017年时段内3个区域年降水量与年径流量变化趋势及在置信水平 $_ { \cdot \alpha = 0 . 0 5 }$ 下的显著性，结果如表3所示。两种方法检验结果一致，I区降水量呈显著增加趋势，Ⅱ区呈不显著增加趋势，Ⅲ区呈不显著减少趋势，而径流量均呈减少趋势，该结果与线性趋势检验一致。
+
+3.2.2径流量对降水量变化的响应分析原则上降水量是影响径流量的主要支配性因素，但气候变化和强人类活动等改变了影响径流量变化的主要因素。因此针对黄河上游3个不同分区，分析降水量与径流量的变化关系，确定降水量对径流量的影响程度。采用Kendall、Spearman 和Pearson 法做相关分析，判别时段内降水量对径流量的影响，结果如表4所示。
+
+3种相关性分析结果表明，在年尺度上，降水量与径流量存在一定的相关性，根据相关系数的大小可知，3种检验方法的检验结果均显示降水量和径流量的相关性在区域上呈I区 $\mathrm { . } >$ Ⅲ区 ${ } _ { > \mathbb { I } }$ 区，说明降水量对径流量的影响在唐乃亥水文站以上的河源区最大，其次是下河沿到头道拐水文站之间的Ⅲ区，降水量对径流量影响最小的区域是唐乃亥到下河沿之间的Ⅱ区。因此以该区域为基准区，建立降水量-径流量双累积曲线(图7)。Ⅱ区和Ⅲ区作为变化区，将累积降水量代入基准方程中，得到累积径流量，并经过反复推算得到径流量的理论值，通过理论值和实测值之间的差异，确定降水量因素对
+
+Tab.3 M-K test and Spearman test results in different research regions   
+
+<html><body><table><tr><td>研究区域</td><td>检验对象</td><td>Z值</td><td>Z/2</td><td>趋势性</td><td>显著性</td><td>r</td><td>ITI</td><td>Ta/2</td><td>趋势性</td><td>显著性</td></tr><tr><td>I区</td><td>降水量</td><td>2.45</td><td>1.96</td><td>增加</td><td>显著</td><td>0.30</td><td>3.26</td><td>2.01</td><td>增加</td><td>显著</td></tr><tr><td></td><td>径流量</td><td>-0.97</td><td>1.96</td><td>减少</td><td>不显著</td><td>-0.13</td><td>0.89</td><td>2.01</td><td>减少</td><td>不显著</td></tr><tr><td>Ⅱ区</td><td>降水量</td><td>1.00</td><td>1.96</td><td>增加</td><td>不显著</td><td>0.13</td><td>1.14</td><td>2.01</td><td>增加</td><td>不显著</td></tr><tr><td></td><td>径流量</td><td>-3.74</td><td>1.96</td><td>减少</td><td>显著</td><td>-0.49</td><td>2.50</td><td>2.01</td><td>减少</td><td>显著</td></tr><tr><td>Ⅲ区</td><td>降水量</td><td>-0.66</td><td>1.96</td><td>减少</td><td>不显著</td><td>-0.35</td><td>1.97</td><td>2.01</td><td>减少</td><td>不显著</td></tr><tr><td></td><td>径流量</td><td>-4.71</td><td>1.96</td><td>减少</td><td>显著</td><td>-0.58</td><td>2.78</td><td>2.01</td><td>减少</td><td>显著</td></tr></table></body></html>
+
+表3不同分区M-K和Spearman检验结果  
+
+<html><body><table><tr><td>研究区域</td><td>Kendall检验</td><td>Spearman检验</td><td>Pearson检验</td></tr><tr><td>I区</td><td>0.49</td><td>0.68</td><td>0.71</td></tr><tr><td>Ⅱ区</td><td>0.15</td><td>0.21</td><td>0.34</td></tr><tr><td>Ⅲ区</td><td>0.33</td><td>0.48</td><td>0.43</td></tr></table></body></html>
+
+# 表4不同分区降水量与径流量相关性检验结果
+
+![](images/38f925325648732d54fccbba2b7aed44d0aedf45477ce31df3df6ef45467af7d.jpg)  
+图7基准区(I区)降水量径流量双累积曲线 Fig.7Double accumulation curve of precipitation and runoff in datum zone (zone I)
+
+径流量的影响和非降水量因素对径流量的影响，计算结果如表5所示。当以I区为基准区时，Ⅱ区降水量因素对径流量的影响达到 $2 5 . 0 8 \%$ ,非降水量因素为 $7 4 . 9 2 \%$ ;Ⅲ区降水量因素对径流量的影响达$3 2 . 1 4 \%$ ,非降水量因素为 $6 7 . 8 6 \%$ ○
+
+Tab.4 Test results of correlation between precipitation and runoff in different regions   
+表5降水量与非降水量因素对径流量的影响程度  
+Tab.5Influence degree of precipitation and non-precipitation factors on runoff   
+
+<html><body><table><tr><td>研究区域</td><td>平均降水量/mm</td><td>实测平均径流量 /10m²</td><td>理论平均径流量 /101°m²</td><td>降水量因素对 径流量的影响/%</td><td>非降水量因素对 径流量的影响/%</td></tr><tr><td>Ⅱ区</td><td>449.3</td><td>9.73</td><td>1.73</td><td>25.08</td><td>74.92</td></tr><tr><td>Ⅲ区</td><td>271.7</td><td>-9.18</td><td>1.05</td><td>32.14</td><td>67.86</td></tr></table></body></html>
+
+# 4讨论
+
+# 5结论
+
+（1）众多学者对黄河上游径流量和降水量的研究基本都集中在唐乃亥以上的河源区（1区），对头道拐以上整个上游地区的研究较为缺乏。本文采用黄河上游控制站头道拐水文站降水量和径流量数据进行研究，但黄河上游地处青藏高原、内蒙古高原和黄土高原交接地带，控制面积较大，仅采用头道拐控制站数据得出的研究结论并不能代表整个黄河上游地区；同时年内降水强度对研究结果也有较大影响，不同降水强度对于径流量的影响有待进一步深入研究。
+
+(2）本文基于水资源二级区正式图件，综合流域自然环境和人类活动对径流量的影响，以唐乃亥、下河沿、头道拐水文站断面为界将黄河上游划分为3个研究区域，研究区域划分主观性强，较多的考虑了人类活动对径流量的影响，但气候等因素对于径流的影响也不容忽视，如何对研究区进行更加合理的划分仍需要考虑。
+
+（3）唐乃亥水文站以上I区，径流量补给以降水量为主，占源区总径流量来源的 $9 5 . 9 \% ^ { [ 2 5 ] }$ ,如果单纯考虑降水量因素对径流量的影响，即可粗略认为该区域径流量为不受其他因素影响的天然径流量。因此，以1区为基准区模拟天然径流量，得出Ⅱ、Ⅲ区非降水量因素对径流量的影响很大，这与径流量与降水量的相关性检验结果一致，与Ⅱ区内水利工程林立,分布着诸如龙羊峡、刘家峡等联合调度的大型水库，Ⅲ区为黄河上游发达的农业灌溉区，人类活动成为影响Ⅱ、Ⅲ区域径流量的主要因素这一实际情况也较符合，此外也得出了Ⅱ区非降水量因素对径流量的影响大于Ⅲ区的结果。要更加关注大型水利工程的修建与农业灌溉引水对径流量的影响，尤其是流域内大型水利工程的联合调度对径流的影响。尽管研究结论表明基于唐乃亥水文站以上I区内人类活动对该区域的影响非常小，其径流为无人类活动干扰的天然径流，但此区域并非完全没有人类活动，例如，2011年建成运行的日调节水库班多电站对此区域的径流产生的影响。另外，全球变暖引发了冻土的变化[26],河源区冻土的退化也会对径流产生影响[2]，因此非降水量因素对该区域径流产生的定量影响仍需进一步解决。
+
+(1）整个黄河上游(头道拐以上区域)1956—2017年降水量呈非显著增加趋势，倾向率为1.80$\mathrm { m m } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ ，径流量呈显著减少趋势，倾向率为 $1 . 9 4 \times$ $1 0 ^ { 9 } \mathrm { m } ^ { 3 } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ ,二者变化并不一致。
+
+(2）根据各类检验方法综合得出黄河上游1956—2017年降水量序列的突变年份为2003年，径流量突变年份为1986年。
+
+（3）对黄河上游进行分区研究，I、Ⅱ、Ⅲ区降水量变化分别呈显著增加、不显著增加和不显著减少趋势，而径流量呈现非显著减少、显著减少和显著减少趋势。
+
+（4）分别对3个区域的降水量径流量进行相关检验，结果表明，3个区域降水量和径流量相关关系呈I区 $\mathrm { . } >$ Ⅲ区>Ⅱ区，唐乃亥水文站以上的河源区降水量对径流量的影响最大，下河沿到头道拐水文站之间的Ⅲ区次之，唐乃亥到下河沿之间的Ⅱ区降水量对径流量影响最小。
+
+（5）以人类活动影响较小的I区为基准区，通过双累积曲线分析得出Ⅱ区降水量因素对径流量的影响达到 $2 5 . 0 8 \%$ ，非降水量因素为 $7 4 . 9 2 \%$ ，Ⅲ区降水量对径流量的影响程度为 $3 2 . 1 4 \%$ ,非降水量因素为 $6 7 . 8 6 \%$ 。
+
+# 参考文献(References)
+
+[1]冉思红,王晓蕾,罗毅.多模式预测气候变化及其对雪冰流域径 流的影响[J].干旱区地理,2021,44(3):807-818.[Ran Sihong, Wang Xiaolei,Luo Yi.Predicting climate change and its impact onrunoff in snow-ice basin with multi-climate models[J].Arid Land Geography,2021,44(3): 807-818.]   
+[2] 刘宇，管子隆，田济扬，等.近70a泾河流域径流变化及其驱动 因素研究[J].干旱区地理,2022,45(1):17-26.[Liu Yu,Guan Zilong, Tian Jiyang,et al.Runoff change and its driving factors in Jinghe River Basin in recent 7O years[J].Arid Land Geography, 2022,45(1): 17-26.]   
+[3]孙思奥,汤秋鸿.黄河流域水资源利用时空演变特征及驱动要 素[J].资源科学,2020,42(12): 2261-2273.[Sun Si'ao,Tang Qiuhong. Spatiotemporal patterns and driving factors of water resources use in the Yellow River Basin[J]. Resources Science, 2020,42(12): 2261-2273.]   
+[4] 贾绍凤,梁媛.新形势下黄河流域水资源配置战略调整研究[J]. 资源科学,2020,42(1):29-36.[Jia Shaofeng,Liang Yuan.Sugges
+
+# 干旱区地理
+
+tions for strategic allocation of the Yellow River water resources under the new situation[J]. Resources Science,2020,42(1): 29-36.]   
+[5]邓祥征,杨开忠,单菁菁,等.黄河流域城市群与产业转型发展 [J].自然资源学报,2021,36(2):273-289.[Deng Xiangzheng, Yang Kaizhong,Shan Jingjing,et al. Urban agglomeration and industrial transformation and development in the Yellow River Basin [J]. Journal of Natural Resources,2021,36(2): 273-289.]   
+[6]刘华军,乔列成,孙淑惠.黄河流域用水效率的空间格局及动态 演进[J].资源科学,2020,42(1): 57-68.[Liu Huajun,Qiao Liecheng,Sun Shuhui. Spatial distribution and dynamic change of water use efficiency in the Yellow River Basin[J]. Resources Science, 2020, 42(1): 57-68.]   
+[7]游进军,王婷,贾玲,等.黄河流域水资源供需合理调控方向与 对策浅析[J].国土资源情报,2021(4):8-17.[You Jinjun,Wang Ting, Jia Ling,et al. Supply-demand analysis of water resources and countermeasures in Yellow River Basin[J]. Land and Resources Information,2021(4): 8-17.]   
+[8]保广裕,也虹,戴升,等.黄河上游河源区不同量级降水量对径 流量变化的影响[J].干旱区研究,2021,38(3):704-713.[Bao Guangyu,Nie Hong,Dai Sheng,etal.Research on effectsof different precipitation magnitudes on runoff changes in the headwater region of the upper Yellow River[J].Arid Zone Research,2021,38 (3): 704-713.]   
+[9]魏伊宁,李勋贵,李芳.黄河上游径流量丰枯空间分布特征及其 影响因素[J].水资源保护,2021,37(6):103-113.[Wei Yining, Li Xungui,Li Fang.Spatial distribution characteristics and influencing factors of wet and dry of runoff in upper reaches of the Yellow River[J]. WaterResourcesProtection,021,37(6):103.]   
+[10] 宁怡楠,杨晓楠,孙文义,等.黄河中游河龙区间径流量变化趋 势及其归因[J].自然资源学报,2021,36(1):256-269.[Ning Yi' nan, Yang Xiaonan, Sun Wenyi, et al. The trend of runoff change and itsattribution in the middle reachesof theYellow River[J]. Journal of Natural Resources,2021,36(1): 256-269.]   
+[11] 潘彬,韩美,倪娟.黄河下游近50年径流量变化特征及影响因 素[J].水土保持研究,2017,24(1):122-127.[Pan Bing,Han Mei, Ni Juan. Characteristics and influence factors of runoff variation in the lower reachesof the Yellow River in the last 5O years[J]. Reasearch of Soil and Water Conservation,2017,24(1): 122-127.]   
+[12]王未,张永勇.黄河流域径流量情势区域变化特征分析[J].水资 源与水工程学报,2020,31(3):59-65.[Wang Wei,Zhang Yongyong. Analysis on regional variation characteristics of flow regimes in the Yellow River Basin[J].Journal of Water Resources& Water Engineering,2020,31(3): 59-65.]   
+[13] 王道席,田世民,蒋思奇,等.黄河源区径流量演变研究进展[J]. 人民黄河,2020,42(9):90-95.[Wang Daoxi,TianShimin,Jiang Siqi, et al. Research progress of the evolution of runoff in the source area of the Yellow River[J]. Yellow River,2020,42(9): 90-95.]   
+[14] 张金萍,肖宏林.黄河流域灌区农业用水研究发展历程与展望 [J].灌溉排水学报,2020,39(10):9-17.[Zhang Jinping,Xiao Honglin.Past,current and future prospect for research on agricultural water use in irrigation districts in the Yellow River Basin[J]. Journal of Irrigation and Drainage,2020,39(10): 9-17.]   
+[15]Peng S Z, Ding Y X, Wen Z M,et al. Spatiotemporal change and trendan alysis of potential evapotranspiration over the Loess Plateau of China during 2011—2100[J].Agricultural and Forest Meteorology,2017,233:183-194.   
+[16] 刘希胜,李其江,段水强,等.黄河源径流量演变特征及其对降 水量的响应[J].中国沙漠,2016,36(6):1721-1730.[Liu Xisheng,Li Qijiang,Duan Shuiqiang, et al. Runoff change and respons es to precipitation in the source regions of the Yellow River[J]. Journal of Desert Research,2016,36(6): 1721-1730.]   
+[17] 商沙沙,廉丽姝,马婷,等.近54a中国西北地区气温和降水量 的时空变化特征[J].干旱区研究,2018,35(1):68-76.[Shang Shasha,Lian Lishu,Ma Ting,et al.Spatiotemporal variation of temperature and precipitation in northwest China in recent 54 years[J]. Arid Zone Research,2018,35(1): 68-76.]   
+[18] 蔡俐辰,李志威,游宇驰,等.1956—2016年拉萨河径流量变化 及影响因素分析[J].水资源与水工程学报,2021,32(2):90-96. [CaiLichen,Li Zhiwei,You Yuchi,etal.Analysis of runoffchanges in Lhasa River from 1956 to 2016 and the influencing factors [J]. Journal of Water Resources & Water Engineering,2021,32 (2): 90-96.]   
+[19] 商滢,江竹.黄河源区降水径流变化特征及响应分析[J].中国农 村水利水电,2021(2):106-112.[Shang Ying,Jiang Zhu.Characteristics and response analysis of precipitation and runoff in the source area of the Yellow River[J]. China Rural Water and Hydropower, 2021(2): 106-112.]   
+[20] Commission of the European Community.Applications of statistical techiques:Proceedings of an autumn school organ[M]. Berlin: Springer,1995.   
+[21] 白君瑞,徐宗学,班春广,等.基于Z指数的雅鲁藏布江流域径 流丰枯变化及其特征分析[J].北京师范大学学报(自然科学 版),2019,55(6): 715-723.[Bai Junrui, Xu Zongxue,Ban Chunguang,et al. Runof variation and characteristics in Yarlung Zangbo River by $Z$ -index[J].Journal of Beijing Normal University (Natural Science Edition),2019,55(6): 715-723.]   
+[22] 黄星,陈伏龙,赵琪,等.新疆和田河径流演变特征及其影响因 素分析[J].灌溉排水学报,2021,40(4):88-96.[Huang Xing, Chen Fulong,Zhao Qi,et al. Change in runoff in Hotan River in Xinjiang and its determinants[J]. Journal of Irrigation and Drainage,2021,40(4): 88-96.]   
+[23]吴子怡,谢平,桑燕芳,等.水文序列跳跃变异点的滑动相关系 数识别方法[J].水利学报,2017,48(12):1473-1481,1489.[Wu Ziyi, Xie Ping, Sang Yanfang,et al.Moving correlation coefficientbased method for the detection of change-points in hydrological time series[J]. Journal of Hydraulic Engineering,2017,48(12): 1473-1481, 1489.]   
+[24] 张献志,汪向兰,王春青,等.黄河源区气象水文序列突变点诊
+
+断[J].人民黄河,2020,42(11):22-26.[Zhang Xianzhi，Wang Xianglan,Wang Chunqing,et al.Diagnosis of abrupt change point of the meteorological and hydrological series in the source area of the Yellow River[J].Yellow River,2020,42(11): 22-26.]
+
+[25]楚楚,任立新.黄河源区2018年洪水特性分析[J].人民黄河, 2020,42(增刊2):14-16.[Chu Chu,Ren Lixin.Analysis of flood characteristics in the source area of the Yellow River in 2O18[J]. Yellow River,2020,42(Suppl.2): 14-16.]
+
+[26]古力米热·哈那提,张音，苏里坦,等.季节性冻土水热对融雪及 气温的响应[J].干旱区地理,2021,44(4):889-896.[Hanati Gulimire,Zhang Yin, Su Litan,et al.Response of water and heat of seasonal frozen soil to snow melting and air temperature[J].Arid Land Geography,2021, 44(4): 889-896.]
+
+[27]黄荣辉,周德刚.气候变化对黄河径流以及源区生态和冻土环 境的影响[J].自然杂志,2012,34(1):1-9.[Huang Ronghui, Zhou Degang.The impact of climate change on the runof of the Yellow River and ecosystem and frozen soil in its source area[J].Chinese Journal of Nature,2012,34(1): 1-9.]
+
+# Changes of runoff and precipitation in the upstream of Yellow River during the past 60 years
+
+CHENG Yi'²， WU Lanzhen’，LIU Fenggui'， SHEN Yanjun1.2 (1.CollegeofGeosiencs,QinghaiNormalUniversityXiningo8,Qinghai,China；2.CenterforAgriculturalResouces Research,InstituteofGeneticsandDevelopmental Biology,ChineseAcademyofSciences,ShijiazhuangO5o22,Hebei,Cina; 3.Water ConservancyandHydropowerEngineringCollege,GansuAgriculturalUniversityLanzhou73o7o,Gansu,China)
+
+Abstract:Inthisresearch,linear trend test,M-Ktrend test,Spearman'srank correlation test,M-Ktest,Ptit's nonparametric test,orderly clustering analysis,the cumulative departure method,and the double-mass curve were applied to study the precipitation and runoff variation characteristics of upstream of the Yellow River, China. Further, the relationship between runoff and precipitation is discused. Results show an insignificant increasing trend in rainfall in the upstream of the Yellw River,while runoff exhibits a distinct decreasing trend.Both precipitation and runoff present a significant deflection point, whose change rate between before and after is $4 . 6 7 \%$ (2003)and $3 5 . 3 4 \%$ (1986),respectively. For the three subregions, subregion I: above Tangnaihai station, subregion I: from Tangnaihai to Xiaheyan,and subregion I: from Xiaheyan to Toudaoguai, rainfall presents a significant increasing trend,an insignificantincreasing trend,andasignificant decreasing trend.However,ruoff, for all subregions,exhibits a significant decreasing trend.With subregion I taken as the baseline,the relative impact of precipitation on runoff in subregion $\mathrm { I I }$ is $2 5 . 0 8 \%$ . Consequently, the nonprecipitation factors account for $7 4 . 9 2 \%$ . Similarly, the percentage for subregion II is $3 2 . 1 4 \%$ and $67 . 8 6 \%$ , respectively. This research will offer theoretical references for water resource management and planning.
+
+Key words: the upstream of Yelow River and its regions； runof； precipitation；variation characteristics；response relationship

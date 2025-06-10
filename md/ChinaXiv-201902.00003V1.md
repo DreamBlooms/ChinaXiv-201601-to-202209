@@ -1,0 +1,103 @@
+# Magnetic field-dependent reversal effect of the electromagnetinduced normal stress of magnetorheological materials
+
+Taixiang Liu1, Yangguang $\mathsf { X u } ^ { 2 , 3 }$ , Ke Yang1, Lianghong Yan1, Beicong Huang1, Zhuo Zhang1, Xiaodong Jiang1, Hongwei Yan1\*
+
+1 Laser Fusion Research Center， China Academy of Engineering Physics，Mianyang   
+621900, China.   
+2 Institute of Systems Engineering, China Academy of Engineering Physics,Mianyang   
+621999, China.   
+3 College of Aerospace Engineering, Chongqing University, Chongqing 40o044, China.   
+\*Corresponding author, e-mail: hwyan@163.com
+
+# Abstract
+
+Magnetorheological (MR) materials are a type of magnetoactive smart materials, whose physical or mechanical properties can be altered by applying a magnetic field. In usual， MR materials can be prepared by mixing magnetic particles into non-magnetic matrices. In this work, the electromagnet-induced (or non-uniform magnetic field-induced) normal stress of MR materials is studied. It shows that the stress does not vary monotonically along with the enhancement of the applied magnetic field.There exists a field-dependent reversal effect of the variation of the stress.The reversal effect is thought resulting from that the ratio of interparticle repellent of parallel magnetic particles to the particle-electromagnet attraction gets enlarged along with the enhancement of the field.
+
+Keywords:Magnetorheologicalmaterial; Magnetorheologicalfinishing; Electromagnet; Normal stress; Reversal effect.
+
+# 1. Introduction
+
+Magnetorheological (MR) materials are magnetoactive particle-reinforced composite materials，whose physical or mechanical property can be altered by applying a magnetic field. MR materials can be usually prepared by mixing magnetic particles into non-magnetic matrices. Attributing to the mechanical state of the matrices from fluid-likes to solid-likes in normal condition,MR materials are sorted to MR fluids [1-3], MR gels [4-7], MR plastomers [8-10], MR elastomers [11-14],etc. For MR materials, their magnetostrictive effect, magnetic field-induced deformation and magnetic field-induced normal stress draw a significant amount of attention in technical applications [15-35], especially in MR finishing and MR materials-based sensing.
+
+It has been pointed out that there are contradictive results of magnetic field-induced deformation existing from different reports [36]. For example, Ginder et al [16] and Guan et al [17] reported the magnetically cured MR elastomer would behave field-induced stretching along the field direction when exposed to a magnetic field. Contradictorily， some other studies [37-39] found the magnetically cured MR elastomer would behave magnetic field-induced shrinking along the field direction. The concerned magnetic field strength in these works differ much to each other from dozens mT to hundreds mT. It is believed that the magnetostrictive effect of MR materials depends much on the filling state (i.e.random or structured) of magnetic particles [40-42]. Especially， an electromagnet-induced ful-field deformation of MR elastomer Was measured by digital holographic interferometry [36]. It was found that discretely dispersed particles lead to shrinking and grouped particles lead to stretching of MR elastomer. Moreover, the magnetic field-induced deformation relies on the interparticle interaction of magnetic particles. The magnitude of the interaction depends on the particle position,as wellas the direction and the strength of the applied magnetic field [41]. The magnetic field-induced normal stress of MR materials can reflect the particle-aggregated microstructure and the potential of field-induced deformation of MR materials.
+
+For MR materials，especially for flowable MR fluids，gels and plastomers，the particle positions of magnetic particles can influence the magnitude of the interparticle magnetic interactions when applying a magnetic field. In return，the magnetic field-dependent interparticle interactions will change the particle positions. In other words, the particle positions and the interparticle magnetic interactions are both field-dependent and coupled with each other. That is to say different magnetic field strength can induce diferent microstructures formed by magnetic particles, resulting in field-dependent different normal stress. In most MR finishing, electromagnet is commonly used and MR material always works under nonuniform magnetic field.The magnetic field-induced normal stress of MR materials is crucial in MR finishing [21]. However, the electromagnet-induced normal stress of MR material is seldom studied,while most studies focus on the uniform magnetic field-induced normal stress of MR materials. Besides, the concerning strength of magnetic field are different from one work to another and mostly changes in a narrow range or at some discrete magnitudes. Few work concerns the electromagnet-induced normal stress of MR materials in the continuous range of O-1 T field.
+
+In this work, to study the effect of continuously changing magnetic field on the electromagnet-induced normal stress of MR materials,MR plastomer and MR fluid samples are prepared for investigating and electromagnet-induced normal stress is experimentally studied by using rheometer testing. It shows that there exists a reversal effect existing for electromagnet-induced normal stress along with the enhancement of magnetic field.
+
+# 2. Materials and experiment
+
+MR materials are usually composed of magnetic particles， non-magnetic matrices and additives. In this work,carbonyl iron powder (type CIP-CN with the average diameter of $6 ~ \mu \mathsf { m }$ and chemical composition $( w t \% )$ ： ${ > } 9 9 . 5 \%$ Fe, $< 0 . 0 3 \%$ C, $< 0 . 0 1 \%$ N and $< 0 . 2 5 \%$ O,produced by BASF SE,Germany) is used as the magnetic particles for preparing both MR plastomer and MR fluid samples.For preparing MR plastomer sample， plastic polyurethane is used as the non-magnetic matrix. The preparing method can be found in our previous work [8] and MR plastomer samples with $7 0 . 0 \%$ carbonyl iron powder in weight fraction (or $2 4 . 2 \%$ in volume fraction) are prepared in this work. For preparing MR fluid sample, silicone oil (type H2O1 with the viscosity of $2 0 ~ \mathsf { m P a } { \cdot } \mathsf { s } .$ ，provided by Sinopharm Chemical Reagent Co.，Ltd，China)is used as the carrier fluid and MR fluid samples with $4 5 . 0 \%$ carbonyl iron powder in weight fraction (or $1 0 . 0 \%$ in volume fraction) are prepared. The magnetic field-dependent normal stress is tested by using a commercial rheometer (Physica MCR 301, produced by Anton Paar, Austria). In the test, the material sample is placed between an electromagnet base and a fixed rotator connected with force sensor. There is no magnetically permeable cover applied when testing.A simplified sketch of the normal-stress-testing system is shown as the inset of Figure 1.
+
+# 3. Results and discussion
+
+![](images/58ea96a8583c51fc60caff7667451f61a2426bbb9d19675147bc70f94416072a.jpg)  
+Figure 1. Electromagnet-induced normal stress of MR plastomer due to the field intensity being gradually, linearly enhanced. The inset shows the setup of the normal-stress-testing system.
+
+The variation of the electromagnet-induced normal stress of MR plastomer along with the enhancement of the applied magnetic field is shown in Figure 1. The lower part of this figure illustrates the magnetic field is gradually, linearly applied to the MR plastomer sample from initial $0 \ : \mathrm { m T }$ to final $9 3 0 ~ \mathrm { m T }$ in a duration of $3 0 0 \ s$ Correspondingly， the upper part of Figure 1 shows the variation of the electromagnet-induced normal stress in the same duration of 3OO s. The red line gives the variation of the stress of a sufficiently relaxed MR plastomer sample with initial stress of nearly $0 \not \vdash \mathsf { P a }$ . The black one gives that of an insufficiently relaxed MR plastomer sample with an initial stress of nearly O.25 kPa. Along with the enhancement of the field in the first $2 4 0 ~ \mathsf { m } \mathsf { T }$ (i.e. in the first time range of 75 s), the normal stress gradually decreases from the its initial value.The decrement is about $0 . 5 \mathsf { k P a }$ for both sufficiently and insufficiently relaxed samples. However, the normal stress will reversely get enhanced and finally approach to about $4 . 0 \ \mathsf { k P a }$ when the field intensity reaches $9 3 0 ~ \mathrm { m T }$ (or at the time of 30O s). For the normal stress, the decrement of $0 . 5 \ \mathsf { k P a }$ is considerable to the final $4 . 0 ~ \mathsf { k P a }$ .Accordingly, one can find that there exists a magnetic field-dependent reversal effect of the field-induced normal stress of the MR plastomer samples.In addition,it has an approximative reversal point and the initially residual stress will counteract the enhancement of the magnetic field-induced stress.
+
+![](images/b9b442fb68bbd315e18ee0558b2b043a0aa97924f0ceb3065dd915a39d964aeb.jpg)  
+Figure 2.Electromagnet-induced normal stress of MR plastomer due to the field being suddenly applied.
+
+The effect of suddenly applied magnetic field on the normal stress of MR plastomer is shown in Figure 2. The lower part of Figure 2 shows the applying process of the magnetic field. The field is suddenly applied at the time $1 5 \ s ,$ ，then kept for 300 s,and removed at the time 315 s.The applied field intensity varies from $1 2 0 ~ \mathsf { m } \mathsf { T }$ to $9 3 0 ~ \mathsf { m } \mathsf { T } .$ In the case of the field intensity being lower than $2 4 4 ~ \mathsf { m T } ,$ the normal stress will decrease gradually during the keeping of the field.The decrements of the stress are $1 . 4 8 \mathsf { k P a }$ and $0 . 4 3 \mathsf { k P a }$ for the $1 2 0 ~ \mathsf { m } \mathsf { T }$ and $1 8 2 ~ \mathsf { m T }$ field,respectively. In the case that the field intensity is $2 4 4 ~ \mathsf { m T }$ ，one can find the stress changes little when applying and keeping the field.In case of the field intensity being stronger than $2 4 4 ~ \mathsf { m T } ,$ the stress will suddenly have an increment from its initial value when suddenly applying the field.The stronger the field is, the stronger the normal stress is. The stress will get stronger and stronger during the keeping of the field approaching to a saturate value. When the field is removed at $3 1 5 s ,$ .the normal stress will have a sudden change approaching to its initial value. One can also find that there exists a magnetic field-dependent reversal effect of the electromagnet-induced normal stress for field intensities ranging from $1 2 0 ~ \mathsf { m } \mathsf { T }$ to $9 3 0 ~ \mathsf { m } \mathsf { T } .$ The reversal point of the field intensity for the normal stress is $2 4 4 { \mathrm { ~ m } } \bar { \mathrm { { I } } } $
+
+![](images/421ac1cc446c6fa4a4326a1078a50ecb84927b7f6ea2308c944b536cec3b6988.jpg)  
+Figure 3. Electromagnet-induced normal stress of MR fluid due to the field being suddenly applied (Red lines) and gradually, linearly enhanced (Blue lines), respectively.
+
+Further, the electromagnet-induced normal stress of MR fluid is studied and Figure 3 shows the variation of the stress under suddenly applied magnetic field and linearly enhanced magnetic field. The lower part of Figure 3 shows the applying process of the field. The rectangular red line means a $7 2 6 ~ \mathsf { m T }$ field is suddenly applied at the time $2 0 ~ \mathsf { s } .$ ，then kept for $3 0 0 \ s ,$ ，and removed at the time 320 s.The wedged blue line means a field with initial $0 \ : \mathrm { m T }$ intensity is applied at the time $2 0 ~ \mathsf { s }$ and then gradually, linearly enhanced to $7 2 6 ~ \mathsf { m T }$ in the next $3 0 0 ~ \mathsf { s } .$ ，and removed at the time $3 2 0 \ s$ . In the upper part of Figure 3, the square-marked red lines and triangle-marked blue lines show the variation of the normal stress corresponding to the lower rectangular red line and wedged blue line for field applying, respectively. In the case of gradually, linearly applying the field,the corresponding normal stress will gradually decrease to some extent (about $- 0 . 4 3 \ \mathsf { k P a } )$ at the time $2 5 0 ~ \mathsf { s }$ (or when the field intensity is $5 5 7 ~ \mathsf { m T } .$ ).However, in the next 7O seconds,the stress will quickly, reversely get enhanced along with the enhancement of the field from $5 5 7 \mathsf { m } \mathsf { T }$ to 726 mT. Comparatively， in the case of magnetic field being suddenly applied，the corresponding normal stress will suddenly have an increment and the stress will change little when the field is kept, although there is an unexpected sudden drop occurring. Doing a successively repeat test, the variation of normal stress is shown as the relatively upper lines corresponding to their formers (i.e. the lower lines). One can find the reversal point of the stress difers to that of its former and the stress is a little stronger than its former during the applying of the field,although the final field-induced normal stress are approximatively equal to each other.
+
+Why the electromagnet-induced normal stress of MR materials varies with a magnetic field-dependent reversal effect? From our knowledge， this effect results from that the magnetic field is not uniform and the affected space is changing during the field getting enhanced.When the magnetic field is relatively weak, the magnetic particles of MR materials will be attracted by the electromagnet， resulting in the normal stress decreasing. In this case， the attracting effect between the magnetic particle and the electromagnet is stronger than the interparticle repulsing effect of parallel magnetic particles. When the field gets stronger, the interparticle repulsing effect can be stronger than the attracting effect,and the magnetic particles can form needle-like microstructures (like a hedgehog erects its needles when attacked).This will result in the normal stress getting enhanced reversely.
+
+# 4. Conclusions
+
+In this work, the electromagnet-induced normal stress of MR materials,e.g. MR plastomer and MR fluid, is experimentally studied. It is found the variation of the normal stress is not monotonic along with the enhancement of the applied magnetic field.In the beginning of the enhancement of the field， the normal stress will gradually decrease from its initial value. The decrement of the stress is considerable. When the field gets enhanced to some extent (e.g. $2 4 0 ~ \mathsf { m T }$ to MR plastomer and 557 mT to MR fluid in this work), the normal stress will reversely get enhanced.There exists a magnetic field-dependent reversal effect of the field-induced normal stress of the MR material samples. From our knowledge, this reversal effect results from that the ratio of interparticle repellent of parallel magnetic particles to the particle-electromagnet attraction is varying with the enhancement of the applied magnetic field.When the field is relatively weak, the ratio is small resulting in the decrement of the normal stress.When the field gets enhanced to some extent, the ratio gets enlarged and then leads to the increment of the normal stress.
+
+# Acknowledgement
+
+Financial supports from the National Natural Science Foundation of China (Grant No.: 11602242 and 11502256). The authors are grateful for the generous help of Prof. Xinglong Gong from University of Science and Technology of China for the experimental test of this work.
+
+# References
+
+[1] G.Bossis,S.Lacis,A. Meunier and O.Volkova,J. Magn.Magn. Mater. 252, 224 (2002).   
+[2] J. de Vicente, D.J. Klingenberg and R. Hidalgo-Alvarez, Soft Matter 7,3701 (2011).   
+[3] W. L. Zhang, S. D. Kim and H.J. Choi, IEEE Tran. Magn.50, 2500804 (2014).   
+[4] M.J.Wilson, A. Fuchs and F. Gordaninejad,J. Appl. Polym.Sci.84,2733 (2002).   
+[5] P. Venkateswara Rao, S. Maniprakash, S. M. Srinivasan and A. R. Srinivasa, Smart Mater.   
+Struc.19,085019 (2010).   
+[6] Y.G. Xu, X. L. Gong and S. H. Xuan, Smart Mater. Struc. 22, 075029 (2013).   
+[7] P. A. Yang, M. Yu, H. P. Luo,J. Fu, H. Qu and Y. P. Xie, Appl. Surf. Sci. 416, 772 (2017).   
+[8] Y. G. Xu, X. L. Gong, S. H. Xuan, W. Zhang and Y. C. Fan, Soft Matter 7, 5246 (2011).   
+[9] T. X. Liu, X. L. Gong, S. H. Xuan, W. Zhang and Y. C. Fan, Soft Matter 7,5246 (2011).   
+[10] S. H. Xuan, Y. G. Xu, T. X. Liu and X. L. Gong, Int. J. Smart Nano Mater. 6, 135 (2015). [11] L.C. Davis,J. Appl. Phys.85,3348 (1999).   
+[12] X. L. Gong, X. Z. Zhang and P. Q. Zhang, Polym. Test. 24, 669 (2005).   
+[13] Y. C. Li,J. C.Li, W. H. Li and H. P. Du, Smart Mater. Struct.23,123001 (2014).   
+[14] Q. Q.Wen, Y. Wang, J. B. Feng and X. L. Gong, Appl. Phys. Lett. 113,081902 (2018).   
+[15] S. Bednarek, Mod. Phys. Lett. B 13,865 (1999).   
+[16] J.M. Ginder, S. M. Clark,W. F. Schlotter and M.E. Nichols, Int.J. Mod. Phys. B 16, 2412 (2002).   
+[17] X.C.Guan, X. F. Dong and J. P. Ou,J. Magn. Magn. Mater. 320, 158 (2008).   
+[18] P. Metsch, K. A. Kalina, C.Spieler and M. Kastner, Comp. Mater. Sci.124,364 (2016).   
+[19] J.de Vicente, F. Gonzalez-Caballero and G. Bossis,J. Rheology 46,1295 (2002).   
+[20] H. See and R. Tanner, Rheol. Acta 42, 166 (2003).   
+[21] C.L. Miao, S.N. Shafrir,J. C. Lambropoulos and S.D.Jacobs，Proc. SPlE 7426,2119 (2009).   
+[22] M.T. Lopez-Lopez, P. Kuzhir, J. D. G.Juan and G. Bossis,J. Rheology 54, 1119 (2010).   
+[23] J. C. Lambropoulos, C.L. Miao and S. D.Jacobs, Opt. Exp.18,19713 (2010).   
+[24] J. L. Jiang, Y. Tian, D. X. Ren and Y. G. Meng, Smart Mater. Struc.20, O85012 (2011).   
+[25] X.L. Gong, C. Y. Guo, S. H. Xuan, T. X. Liu, L. H. Zong and C. Peng, Soft Matter 8, 5256 (2012).   
+[26] G.J. Liao, X.L.Gong and S. H. Xuan, Mater. Lett. 106,270 (2013).   
+[27] T. X. Liu, Y. G. Xu, X. L. Gong, H. M. Pang and S. H. Xuan, AIP Adv. 3, O82122 (2013).   
+[28] B. X.Ju,M.Yu,J.Fu, X. Zheng and S. Z. Liu, Ind. Eng. Chem. Res.52,11583 (2013).   
+[29] X.Y. Yao, M. Yu and J. Fu, Smart Mater. Struct. 24, O35001 (2015).   
+[30] X. H. Liu, D. Ye, X. L. Gao, F. Li, M.Sun, H. Zhang,T. G.Tu and H. Yu,J. Magn. Magn. Mater.   
+398, 137 (2016).   
+[31] X.Y. Yao, C.W. Liu, H. Liang, H. F. Qin, Q. B.Yu and C. Li,J. Magn. Magn. Mater. 403,161 (2016).   
+[32] K. P. Hong, K. H. Song, M.W. Cho,S. H. Kwon and H.J. Choi,J. Int. Mater. Syst. Struc. 29, 137 (2018).   
+[33] I. Bica, Mater. Lett. 63,2230 (2009).   
+[34] I. Bica,J. Ind. Eng. Chem. 17,83 (2011).   
+[35] M. Chen, H. Liu,J. Cheng, B.Yu and Z. Fang,Appl. Opt.56,5573 (2017).   
+[36] X. L. Gong, G.J. Liao and S. H. Xuan, Appl. Phys. Lett.100, 211909 (2012).   
+[37] G. Y. Zhou and Z.Y. Jiang, Smart Mater. Struc. 13, 409 (2004).   
+[38] L. Borcea and O. Bruno,J. Mech. Phys. Solids 49,2877 (2001).   
+[39] D.S.Wood and P.J. Camp, Phys. Rev. E83, 011402 (2011).   
+[40] K. Morozov, M. Shliomis and H.Yamaguchi, Phys. Rev. E 79, 040801 (2009).   
+[41] K. Danas, S. V. Kankanala and N. Triantafyllidis,J. Mech. Phys.Solids 60,12O (2012).   
+[42] E.Galipeau, S. Rudykh, G. deBotton and P. P. Castaneda, Int.J. Solids Struct.51,3012 (2014).

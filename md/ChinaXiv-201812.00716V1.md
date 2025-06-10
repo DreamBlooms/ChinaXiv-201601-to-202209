@@ -1,0 +1,194 @@
+1 博落回生物碱和茶籽多糖对黄羽肉鸡生长性能、血清生化指标及脂质过氧化的影响
+
+2 胡贵丽　刘　靖　刘勇强 宋泽和　范志勇　张石蕊　贺　喜\*
+
+一 ?） 口  
+3 （湖南农业大学动物科学技术学院，饲料安全与高效利用教育部工程研究中心，湖南畜禽安  
+4 全生产协同创新中心，长沙 410128)  
+5 摘要：本试验旨在研究博落回生物碱和茶籽多糖对黄羽肉鸡生长性能、血清生化指标及脂  
+6 质过氧化的影响。选取1日龄健康黄羽肉鸡 750羽，随机分为5个组，每组6个重复，每个  
+7 重复25只鸡。对照组饲喂基础饲粮，试验组分别在基础饲粮中添加抗生素（ $_ { 1 \sim 2 8 }$ 日龄为10  
+8 $\mathrm { m g / k g }$ 抗敌素， $2 9 \sim 5 6$ 日龄为 $5 \mathrm { m g / k g }$ 黄霉素；抗生素组）、茶籽多糖（ $0 . 0 4 \%$ ；多糖组）、博  
+9 落回生物碱 $( 1 \sim 2 8$ 日龄为 $1 0 \mathrm { m g / k g }$ , $2 9 \sim 5 6$ 日龄为 $2 0 \mathrm { m g / k g }$ ；博落回组）、茶籽多糖（ $0 . 0 4 \%$ ）  
+10 $+$ 博落回生物碱（ $\cdot 1 { \sim } 2 8$ 日龄为 $1 0 \mathrm { m g / k g }$ ， $2 9 \sim 5 6$ 日龄为 $2 0 \mathrm { m g / k g }$ ；多糖 $\mathrm { \dot { + } }$ 博落回组)。试验期  
+11 56d，分为 $_ { 1 \sim 2 8 }$ 日龄和 $2 9 \sim 5 6$ 日龄 2个阶段进行。结果表明：1）1\~28日龄时，各组黄羽  
+12 肉鸡的平均日增重（ADG）、平均日采食量（ADFI）和料重比（F/G）均无显著差异（ $\scriptstyle \cdot { \cal P } > 0 . 0 5 .$ ）°  
+13 29\~56 日龄和1\~56 日龄时，博落回组的 ADFI显著高于其他各组（ $P { < } 0 . 0 5 )$ ；各组的 ADG  
+14 和F/G均无显著差异（ $P { > } 0 . 0 5$ )。2）28日龄时，与对照组相比，其他各组黄羽肉鸡的血清  
+15 谷丙转氨酶（ALT）、乳酸脱氢酶（LDH）活性和尿素氮（BUN）含量显著降低（ $. P { < } 0 . 0 5 )$ ，  
+16 血清碱性磷酸酶（ALP）活性极显著降低（ $_ { P < 0 . 0 1 } \dot { }$ ；多糖组、博落回组和多糖 $^ +$ 博落回组的  
+17 血清ALP活性极显著低于抗生素组（ $_ { . } { \cal P } { < } 0 . 0 1$ )。56 日龄时，与对照组相比，其他各组的血  
+18 清 ALP 活性极显著降低（ $_ { \cdot } P { < } 0 . 0 1 \$ ，血清LDH活性显著降低（ $\scriptstyle \cdot < 0 . 0 5$ )。3）与对照组相比，  
+19 博落回组黄羽肉鸡的胸肌率和腿肌率、多糖组和多糖 $^ { \cdot } +$ 博落回组的腿肌率均显著提高  
+20 （ $\cdot P { < } 0 . 0 5 \$ )；与抗生素组相比，博落回组和多糖 $+$ 博落回组的胸肌率和腿肌率及多糖组的腿肌  
+21 率均显著提高( $( P { < } 0 . 0 5 )$ ；博落回组的胸肌率显著高于多糖组（ $_ { \cdot } P { < } 0 . 0 5 )$ 。肌肉于 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 保存2、  
+22 4、6d后，与对照组相比，其他各组的肌肉丙二醛（MDA）含量极显著降低（ $_ { \cdot } P { < } 0 . 0 1 \rangle$ ；与  
+23 抗生素组相比，多糖组、博落回组和多糖 $+$ 博落回组 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 保存2d后的肌肉MDA含量极显  
+24 著降低（ $_ { \cdot P < 0 . 0 1 \rangle }$ ， $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 保存6d后的肌肉MDA含量显著降低（ $( P { < } 0 . 0 5 )$ )。综上所述，饲粮
+
+中添加博落回生物碱和茶籽多糖对黄羽肉鸡的生长性能和血清生化指标均有改善作用，其中，博落回生物碱的作用效果优于茶籽多糖，且二者均能延长鸡肉在 $4 ^ { \circ } \mathrm { C }$ 时的保存时间；这说明博落回生物碱和茶籽多糖均能替代抗生素在肉鸡中的使用，且二者联用与单独添加效果相当。
+
+关键词：黄羽肉鸡；博落回生物碱；茶籽多糖；生长性能；血清生化指标
+
+中图分类号：S816.7中图分尖亏：S810./
+
+博落回又名号筒杆、山号筒，隶属罂粟科，为多年生草本植物；其果实中含有较丰富的生物碱，主要有血根碱(sanguinarine)、原阿片碱(protopine)、白屈菜红碱(chelerythrine)、α别隐品碱(α-allocryptopine)、 $\beta$ 别隐品碱(β-allocryptopine)等[1]。博落回生物碱的药理活性较广，如抗菌消炎、抗肿瘤、改善肝功能和杀虫作用等[2]，可以替代抗生素发挥中药作用。植物多糖广泛存在于植物中，是一类由单糖通过糖苷键组合而成的化合物，常见的有黄芪多糖、枸杞多糖、海藻多糖和茶籽多糖等。研究发现，植物多糖具有降血糖、抗肿瘤、免疫调节等作用[3]。目前，已有许多关于博落回生物碱和茶籽多糖在动物生产中的研究。饶华等[4]研究显示，博落回提取物能显著改善断奶仔猪的生长性能。李美奎等[5]报道认为，饲粮中添加 $5 . 0 \mathrm { m g / k g }$ 博落回提取物能显著提高仔猪的平均日增重（ADG）和平均日采食量（ADFI)，降低料重比（F/G)，极显著降低血清丙二醛（MDA）含量。徐春燕回研究发现，饲粮中添加一定量的苜蓿多糖和黄芪多糖能提高肉仔鸡的抗氧化能力，显著提高血清总抗氧化能力（T-AOC)，降低血清 MDA 含量。陈桂冰等[7研究显示，茶籽多糖能清除羟基自由基、氮自由基、过氧化氢等，同时对过氧化氢引起的DNA氧化损伤具有保护作用。但有关博落回生物碱和茶籽多糖在家禽生产中的研究还较少。因此，本试验旨在研究博落回生物碱和茶籽多糖对黄羽肉鸡生长性能、血清生化指标及脂质过氧化的影响，从饲料添加剂角度为其开发利用提供条件，并探索其作为新型、高效绿色饲料添加剂的可能性，从而为博落回生物碱和茶籽多糖在畜禽生产中的应用提供理论依据。1材料与方法
+
+1.1试验材料博落回生物碱：总碱含量为 $70 \%$ ，其中血根碱占 $60 \%$ ，白屈菜红碱占 $20 \%$ ，由湖南中药提取工程研究中心提供；茶籽多糖：纯度为 $4 3 . 4 \%$ ，由湖南农业大学食品科技学院油脂教研室提供；抗生素：前期为抗敌素，后期为黄霉素。
+
+# 1.2试验动物与试验设计
+
+选择同批次、遗传背景相同、发育正常的1日龄黄羽肉鸡750羽，随机分为5个组，每组6个重复，每个重复25只鸡。各组鸡的初始体重无显著差异（ $_ { . P > 0 . 0 5 ) }$ 。采用单因子随机试验设计，对照组饲喂基础饲粮，试验组分别在基础饲粮中添加抗生素 $( 1 \sim 2 8$ 日龄为 $1 0 \mathrm { m g / k g }$ （204号抗敌素， $2 9 \sim 5 6$ 日龄为 $5 \mathrm { m g / k g }$ 黄霉素；抗生素组）、茶籽多糖（ $0 . 0 4 \%$ ；多糖组）、博落回生物碱（ $\cdot 1 { \sim } 2 8$ 日龄为 $1 0 \mathrm { m g / k g }$ ， $2 9 \sim 5 6$ 日龄为 $2 0 \mathrm { m g / k g }$ ；博落回组）、茶籽多糖（ $0 . 0 4 \%$ ） $+$ 博落回生物碱（ $_ { 1 \sim 2 8 }$ 日龄为 $1 0 \mathrm { m g / k g }$ ， $2 9 \sim 5 6$ 日龄为 $2 0 \mathrm { m g / k g }$ ；多糖 $\mathrm { \dot { + } }$ 博落回组)。抗生素的添加符合我国现行法律法规规定。试验鸡采用粉料饲喂。试验期56d,分为1\~28日龄和 $2 9 { \sim } 5 6$ 日龄2个阶段进行。
+
+# 1.3 试验饲粮
+
+基础饲粮参照NRC（1994）和《鸡饲养标准》（NY/T33—2004）中的肉鸡营养需要，选用玉米、豆粕等原料配制而成，其组成及营养水平见表1。
+
+表1基础饲粮组成及营养水平 (风干基础)
+
+<html><body><table><tr><td>Table1</td><td colspan="2">Composition and nutrient levelsof basal diets (air-dry basis) %</td></tr><tr><td colspan="2">项目Items</td><td>29~56日龄</td></tr><tr><td colspan="2">1 to 28 days of age</td><td>29 to 56 days of age</td></tr><tr><td colspan="2">原料Ingredients</td><td></td></tr><tr><td>玉米Corn</td><td>56.10</td><td>61.10</td></tr><tr><td>豆粕 Soybean meal</td><td>21.00</td><td>16.00</td></tr><tr><td>菜籽粕 Rapeseed meal</td><td>2.00</td><td>2.00</td></tr><tr><td>棉籽粕 Cottonseed meal</td><td>3.00</td><td>4.00</td></tr><tr><td>次粉 Wheat middlings</td><td>3.80</td><td>3.00</td></tr><tr><td>豆油 Soybean oil</td><td>0.40</td><td>1.00</td></tr><tr><td>米糠 Rice bran</td><td>2.60</td><td>1.80</td></tr><tr><td>玉米蛋白粉 Corn proteinmeal</td><td>7.00</td><td>7.00</td></tr></table></body></html>
+
+<html><body><table><tr><td>食盐 NaCl</td><td>0.30</td><td>0.30</td></tr><tr><td>预混料 Premix1</td><td>3.80</td><td>3.80</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td></tr><tr><td>代谢能 ME/(MJ/kg)</td><td>12.34</td><td>12.55</td></tr><tr><td>粗蛋白质CP</td><td>21.00</td><td>19.00</td></tr><tr><td>钙Ca</td><td>1.00</td><td>0.90</td></tr><tr><td>有效磷 AP</td><td>0.45</td><td>0.35</td></tr><tr><td>赖氨酸Lys</td><td>1.10</td><td>1.00</td></tr><tr><td>蛋氨酸 Met</td><td>0.50</td><td>0.38</td></tr></table></body></html>
+
+1预混料为每千克饲粮提供 The premix provided the following per $\mathbf { k g }$ of diets : $\mathrm { C u } 2 5 \mathrm { m g }$ ，Fe 96 mg, $\mathrm { M n \ 1 0 5 . 4 \ m g }$ ， $\mathrm { 7 n 9 8 ~ m g }$ ， $\mathrm { N a } 0 . 9 \mathrm { m g }$ ， $\mathrm { ~ I ~ } 1 . 2 9 \mathrm { m g }$ ，Se $0 . 2 2 5 \mathrm { m g }$ ，VA 12 000 IU, $\mathrm { V D } _ { 3 }$ 2 500IU，VE $2 0 \mathrm { m g }$ ， $\mathrm { V K } _ { 3 } 3 . 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 3 . 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 8 . 0 \ : \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 7 . 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 3 \ : \mathrm { m g }$ ，泛酸pantothenic acid $2 0 . 0 \mathrm { m g }$ ，烟酸niacin $5 0 . 0 \mathrm { m g }$ ，生物素biotin $0 . 1 \mathrm { m g }$ ，叶酸 folic acid $1 . 5 \mathrm { m g }$ 。
+
+2’营养水平为计算值。Nutrient levels were calculated values.
+
+# 1.4 饲养管理
+
+试验鸡舍选用开放式，采用高低床平养，光照为 $\boldsymbol { 1 4 \mathrm { h } }$ 光明： $1 0 \mathrm { { h } }$ 黑暗（ $1 4 \mathrm { L } { : } 1 0 \mathrm { D } $ )；1\~7日龄 $3 0 { \sim } 3 3 \mathrm { ~ ~ } ^ { \circ } \mathrm { C }$ 、 $8 { \sim } 1 4$ 日龄 $2 7 { \sim } 2 9 \ \mathrm { ~ } ^ { \circ } \mathrm { C }$ 、15\~21日龄 $2 4 { \sim } 2 6 \ \mathrm { ~ \textdegree ~ }$ 、22\~28日龄 $2 2 { \sim } 2 3 \ \mathrm { ~ } ^ { \circ } \mathrm { C }$ 、 $2 9 { \sim } 5 6$ 日龄 $2 0 { \sim } 2 1 \ \ \mathrm { ~ \textdegree ~ }$ ，保持正常温度，舍内采取锅炉控温，自然通风。定期打扫鸡舍卫生，相对湿度保持在 $5 5 \% { \sim } 6 5 \%$ ，自由饮水和采食，按常规程序免疫。
+
+1.5 测定指标与方法
+
+1.5.1 生长性能
+
+试验期间观察试鸡的生长和健康状况，按重复记录饲料消耗量；于28、56日龄早晨称重（空腹 $8 \mathrm { h }$ ），计算各组试鸡的ADFI、ADG和 $\mathrm { F / G }$ 。
+
+# 1.5.2 血清生化指标
+
+于28、56日龄早晨（空腹8h），分别从每个重复中选择1只接近该组平均体重的试鸡，翅静脉采血 $1 0 ~ \mathrm { m L }$ ，静置凝固后， $3 0 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ ，收集离心管上层血清分装，于 ${ } _ { - 2 0 } { } ^ { \circ } \mathrm { C }$ 保存，用于血清生化指标的测定。血清谷丙转氨酶（ALP）、谷草转氨酶（AST）、碱性磷酸酶（ALT）、乳酸脱氢酶（LDH）活性和尿素氮（UN）含量采用迈瑞BS-200全自动生化分析仪测定，试剂盒均购自深圳迈瑞生物医疗电子股份有限公司，所有指标严格按照相关试剂盒说明书进行操作。
+
+1.5.3 胴体性状和肌肉MDA含量
+
+于56日龄时，分别从每个重复中选择1只接近该组平均体重的试鸡，称重后颈部放血、屠宰，参考《家禽生产性能名词术语和度量统计方法》（NY/T823—2004）计算胸肌率和腿肌率。计算公式如下：
+
+胸肌率 $( \% ) = 1 0 0 \times$ 胸肌重/全净膛重；  
+腿肌率 $( \% ) = 1 0 0 \times$ 腿肌重/全净膛重。
+
+取相同部位的胸肌 $5 0 ~ \mathrm { g }$ 左右，于 $4 ^ { \circ } \mathrm { C }$ 保存，用于胸肌MDA含量的测定。测定方法如下：将肌肉于 $4 ^ { \circ } \mathrm { C }$ 保存2、4、6d后，严格按照南京建成生物工程研究所试剂盒说明书进行操作。
+
+# 1.6 数据处理与分析
+
+试验数据采用 SPSS16.0软件的one-way ANOVA程序进行系统分析，组间差异显著者则采用Duncan氏法进行多重比较，以 $P { < } 0 . 0 5$ 为差异显著性标准。试验结果以"平均值±标准差"表示。
+
+2结果
+
+2.1 生长性能
+
+由表2可知，1\~28日龄时，各组黄羽肉鸡的 ADG、ADFI和F/G 均无显著差异( $( P { > } 0 . 0 5 )$ 。29\~56 日龄和1\~56日龄时，博落回组的 ADFI显著高于其他各组（ $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ )，对照组、抗生素组、多糖组和多糖 $^ { \cdot } +$ 博落回组的ADFI无显著差异（ $_ { . P > 0 . 0 5 ) }$ ；各组的ADG和F/G均无显著差异（ $P { > } 0 . 0 5 )$ 。
+
+# 表2博落回生物碱和茶籽多糖对黄羽肉鸡生长性能的影响
+
+Table 2Effects of Macleaya cordata alkaloids and tea seed polysaccharide on growth performance of yellow-feathered broilers
+
+<html><body><table><tr><td></td><td></td><td>抗生素组</td><td>多糖组</td><td>博落回组</td><td>多糖+博落回组</td><td></td></tr><tr><td>项目</td><td>对照组</td><td>Antibiotic</td><td>Polysaccharide</td><td>Macleaya</td><td>Polysaccharide+Macleaya</td><td>P值</td></tr><tr><td>Items</td><td>Control group</td><td>group</td><td>group</td><td>cordata group</td><td>cordata group</td><td>P-value</td></tr><tr><td>1~28日龄 1 to 28 days of age</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>终末体重</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>FBW/g</td><td>495.13±9.37</td><td>516.30±6.60</td><td>512.78±7.07</td><td>498.18±12.06</td><td>508.01±5.35</td><td>0.344</td></tr><tr><td>平均日增重</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ADG/(g/d)</td><td>21.58±0.45</td><td>21.72±0.57</td><td>22.59±0.31</td><td>22.42±0.34</td><td>22.19±0.25</td><td>0.345</td></tr><tr><td>平均日采食量</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ADFI/(g/d)</td><td>37.78±0.68</td><td>38.20±0.72</td><td>38.72±0.70</td><td>39.14±0.67</td><td>38.46±0.55</td><td>0.672</td></tr><tr><td>料重比F/G</td><td>1.75±0.01</td><td>1.76±0.02</td><td>1.72±0.01</td><td>1.74±0.04</td><td>1.73±0.03</td><td>0.195</td></tr><tr><td>29~56 日龄 29 to 56 days of age</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>终末体重</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>FBW/g</td><td>1 290.07±13.91</td><td>1 321.61±13.98</td><td>1 302.07±13.76</td><td>1 331.83±13.69</td><td>1 297.44±13.53</td><td>0.194</td></tr><tr><td>平均日增重</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ADG/(g/d)</td><td>36.13±0.77</td><td>38.07±0.77</td><td>37.37±0.76</td><td>38.45±0.76</td><td>37.20±0.75</td><td>0.267</td></tr><tr><td>平均日采食量</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ADFI/(g/d)</td><td>99.66±1.79b</td><td>100.76±1.78b</td><td>100.74±1.76b</td><td>105.02±1.75a</td><td>102.02±1.73b</td><td>0.020</td></tr><tr><td>料重比F/G</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>2.76±0.06</td><td>2.65±0.05</td><td>2.70±0.06</td><td>2.73±0.06</td><td>2.74±0.05</td><td>0.237</td></tr><tr><td>1~56 日龄 1 to 56 days of age</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日增重</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ADG/(g/d)</td><td>29.42±0.72</td><td>29.56±0.24</td><td>29.61±0.74</td><td>30.54±0.27</td><td>29.73±0.18</td><td>0.532</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日采食量</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>69.30±1.07b</td><td>69.93±0.55b</td><td>69.47±1.07b</td><td>72.73±1.35a</td><td>70.29±0.77b</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>0.011</td></tr><tr><td>ADFI/(g/d)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>料重比F/G</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>2.36±0.03</td><td></td><td>2.35±0.03</td><td>2.38±0.04</td><td>2.36±0.03</td><td>0.412</td></tr><tr><td></td><td></td><td>2.37±0.04</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></table></body></html>
+
+111 同行数据肩标相同或无字母表示差异不显著（ $P { > } 0 . 0 5$ ），不同小写字母表示差异显著112 （ $_ { \cdot \textcircled { P } < 0 . 0 5 }$ ），不同大写字母表示差异极显著（ $P { < } 0 . 0 1$ ）。下表同。
+
+In the same row,values with the same or no letter superscripts mean no significant difference （204 $( P { > } 0 . 0 5 )$ ，while with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,and with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ .The same as below.
+
+# 2.2 血清生化指标
+
+由表3可知，28日龄时，与对照组相比，其他各组黄羽肉鸡的血清 ALT、LDH活性和UN含量显著降低（ $_ { \cdot } P { < } 0 . 0 5 )$ ，抗生素组、多糖组、博落回组和多糖 $+$ 博落回组的血清 ALT、LDH活性和UN含量无显著差异（ $. P { > } 0 . 0 5 )$ ；与对照组相比，其他各组的血清ALP活性极显著降低（ $P { < } 0 . 0 1 )$ ，多糖组、博落回组和多糖 $^ { \cdot } +$ 博落回组的血清ALP活性极显著低于抗生素组（ $( P { < } 0 . 0 1 \$ )，多糖组、博落回组和多糖 $\mathrm { \dot { + } }$ 博落回组的血清ALP活性无显著差异（ $( P { > } 0 . 0 5 )$ ；各组的血清AST活性无显著差异（ $P { > } 0 . 0 5 \$ )。56日龄时，与对照组相比，其他各组的血清ALP活性极显著降低（ $P { < } 0 . 0 1$ )，血清LDH活性显著降低（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ，抗生素组、多糖组、博落回组和多糖 $\mathrm { \dot { \cdot } + }$ 博落回组的血清ALP、LDH活性无显著差异（ $( P { > } 0 . 0 5 )$ ；各组的血清ALT、AST活性和UN含量均无显著差异（ $_ { P > 0 . 0 5 } )$ ）°
+
+# 表3博落回生物碱和茶籽多糖对黄羽肉鸡血清生化指标的影响
+
+Table 3Effects of Macleaya cordata alkaloids and tea seed polysaccharide on serum
+
+<html><body><table><tr><td colspan="2">128</td><td colspan="5">biochemical indexes of yellow-feathered broilers</td></tr><tr><td rowspan="4">Y a 项目</td><td rowspan="4">对照组</td><td rowspan="4">抗生素组</td><td>多糖组</td><td>博落回组</td><td>多糖+博落回组</td><td></td></tr><tr><td></td><td></td><td></td><td>P值</td></tr><tr><td></td><td>Macleaya</td><td>Polysaccharide+Macleaya</td><td></td></tr><tr><td>Polysaccharide Antibiotic group</td><td></td><td></td><td>P-value</td></tr><tr><td rowspan="4"></td><td rowspan="4">28日龄28 days of age</td><td rowspan="4"></td><td>group</td><td>cordata group</td><td>cordata group</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>谷丙转氨酶</td><td>21.93±3.03a</td><td>17.38±1.73b</td><td>17.01±3.70b</td><td>16.53±2.53b</td><td>16.56±2.57b</td><td>0.015</td></tr><tr><td>ALT/(U/L)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>谷草转氨酶</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>302.65±22.43</td><td>292.68±23.71</td><td>287.68±16.42</td><td>286.51±20.80</td><td>291.51±20.43</td><td>0.666</td></tr><tr><td>AST/(U/L)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>碱性磷酸酶</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>2 765.87±161.47Aa</td><td>2 209.10±143.87Bb</td><td>2 082.98±184.24Cc</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>2062.12±193.71Cc</td><td>2 081.55±121.57Cc</td><td><0.001</td></tr><tr><td>ALP/(U/L)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>522.75±48.49b</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>557.27±36.75a</td><td></td><td>481.93±31.81b</td><td>482.01±66.19b</td><td></td><td></td></tr><tr><td>乳酸脱氢酶</td><td></td><td></td><td></td><td></td><td>486.40±44.47b</td><td>0.043</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+LDH/(U/L)
+
+<html><body><table><tr><td colspan="2">尿素氮</td><td rowspan="2"></td><td rowspan="2">0.14±0.03b</td><td rowspan="2">0.14±0.02b</td><td rowspan="2">0.15±0.03b</td><td rowspan="2">0.042</td></tr><tr><td>0.21±0.04a</td><td>0.15±0.04b</td></tr><tr><td>UN/(mmol/L)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>56日龄 56 days of age</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>谷丙转氨酶</td><td>13.23±1.82</td><td>10.85±3.46</td><td>9.47±3.20</td><td>8.86±5.35</td><td>10.30±2.66</td><td>0.284</td></tr><tr><td>ALT/(U/L)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>谷草转氨酶</td><td>315.88±27.94</td><td></td><td>298.22±13.62</td><td></td><td></td><td></td></tr><tr><td>AST/(U/L)</td><td></td><td>307.98±24.93</td><td></td><td>288.97±13.15</td><td>289.00±23.86</td><td>0.220</td></tr><tr><td></td><td></td><td>2</td><td>2</td><td></td><td></td><td></td></tr><tr><td>碱性磷酸酶</td><td>2 823.10±192.80Aa</td><td></td><td></td><td>2 251.54±166.22Bc</td><td>2 289.50±169.14Bbc</td><td><0.001</td></tr><tr><td> ALP/(U/L)</td><td></td><td>392.66±127.70Bbc</td><td>281.68±187.88Bbc</td><td></td><td></td><td></td></tr><tr><td>6</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>乳酸脱氢酶</td><td>541.47±76.84a</td><td>453.98±42.32b</td><td>449.18±47.02b</td><td>439.78±53.22b</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>427.78±85.87b</td><td>0.049</td></tr><tr><td>DDH/(U/L)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>尿素氮</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.18±0.03</td><td>0.21±0.05</td><td>0.15±0.07</td><td>0.16±0.02</td><td>0.17±0.03</td><td>0.475</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ON/(mmol/L)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 2.3 胴体性状和肌肉MDA含量
+
+由表4可知，与对照组相比，博落回组黄羽肉鸡的胸肌率和腿肌率、多糖组和多糖 $+$ 博落回组的腿肌率均显著提高 （ $. P { < } 0 . 0 5 )$ ；与抗生素组相比，博落回组和多糖 $+$ 博落回组的胸肌率和腿肌率及多糖组的腿肌率均显著提高（ $. P { < } 0 . 0 5 )$ ；博落回组的胸肌率显著高于多糖组1 $_ { . P < 0 . 0 5 ) }$ ，与多糖 $^ { \cdot } +$ 博落回组无显著差异（ $\cdot P { > } 0 . 0 5 )$ ；多糖组、博落回组和多糖 $^ +$ 博落回组的腿肌率无显著差异（ $\cdot P { > } 0 . 0 5 )$ 。肌肉于 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 保存2、4、6d后，抗生素组、多糖组、博落回组和多糖 $\mathrm { \dot { + } }$ 博落回组的肌肉MDA含量极显著低于对照组（ $( P { < } 0 . 0 1 )$ ，多糖组、博落回组和多糖 $^ +$ 博落回组的肌肉MDA含量无显著差异（ $_ { . P > 0 . 0 5 ) }$ ；2d时，多糖组、博落回组和多糖+博落回组的肌肉MDA含量极显著低于抗生素组（ $\cdot P { < } 0 . 0 1$ )；6d时，多糖组、博落回组和多糖 $^ +$ 博落回组的肌肉MDA含量显著低于抗生素组（ $_ { . } P { < } 0 . 0 5 )$ ）°
+
+表4博落回生物碱和茶籽多糖对黄羽肉鸡胴体性状和肌肉MDA含量的影响Table 4Effects of Macleaya cordata alkaloids and tea seed polysaccharide on carcass traits andmuscle MDA content of yellow-feathered broilers
+
+<html><body><table><tr><td></td></tr><tr><td></td><td>对照组 抗生素组</td><td>多糖组</td><td>博落回组</td><td>多糖+博落回组</td><td>P值</td></tr><tr><td>项目 Items</td><td>Control</td><td>Antibiotic</td><td>Polysaccharide</td><td>Macleaya Polysaccharide+Macleaya</td><td>P-value</td></tr><tr><td></td><td>group</td><td> group</td><td>group</td><td>cordata group</td><td>cordata group</td></tr><tr><td>胸肌率 Breast</td><td>5.14±0.52bc</td><td>5.00±0.55c 5.36±0.56bc</td><td>5.90±0.49a</td><td>5.77±0.70ab</td><td>0.046</td></tr><tr><td>muscle rate/%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>腿肌率Leg</td><td>6.85±0.32c 6.64±0.41c</td><td>7.23±0.47ab</td><td>7.61±0.84a</td><td>7.11±0.35ab</td><td>0.035</td></tr><tr><td>muscle rate/%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>丙二醛含量 MDA content/(nmoL/mg prot)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2d</td><td>11.23±0.13Aa</td><td>9.88±0.29Bb</td><td>9.52±0.23Cc</td><td>9.50±0.23Cc</td><td>9.51±0.23Cc</td></tr><tr><td>4d</td><td>13.26±0.16Aa</td><td>11.48±0.12Bb</td><td>11.46±0.23Bb</td><td>11.47±0.33Bb</td><td>11.47±0.20Bb</td></tr><tr><td>6d</td><td></td><td></td><td>13.01±0.17Bc 13.06±0.18Bc</td><td></td><td><0.001</td></tr></table></body></html>
+
+142 3讨论
+
+3.1博落回生物碱和茶籽多糖对黄羽肉鸡生长性能的影响
+
+14 本试验结果表明，饲粮中添加博落回生物碱在一定程度上提高了黄羽肉鸡的ADG，显  
+15 著提高了ADFI，而F/G与对照组和抗生素组相比无显著差异；博落回组黄羽肉鸡的生长性  
+16 能与抗生素组相比无显著差异。这一结果与Vieira 等[8]在饲粮中添加 $3 7 . 5 \mathrm { m g / k g }$ 博落回提取  
+17 物可提高 21日龄火鸡的 ADG 相一致。云龙[9研究显示，饲粮中添加博落回血根碱提取物能  
+18 显著改善黄羽肉鸡生长后期的 ADG 和 ADFI。Kantas 等[10]和蔡鹏等[1]在仔猪上的研究显示，  
+19 饲粮中添加博落回生物碱可改善断奶仔猪的生长性能。饲粮中添加博落回生物碱可改善动物  
+50 的 ADG、ADFI和饲料利用效率，一方面可能是因为博落回生物碱中重要的成分血根碱具有  
+51 抑制胆碱酯酶活性、刺激唾液分泌等功能及利尿、外周抗肾上腺素解交感等作用[12]，且通  
+52 过抑制芳香族氨基酸脱羧酶调节色氨酸-5-羟色胺代谢途径，从而提高动物的采食量[13]；另  
+53 一方面可能是因为博落回生物碱能保障肠道健康，促进肠细胞增值、分化、更新，促进小肠  
+54 对营养物质的消化吸收，从而提高了动物的体增重[14]。
+
+目前，多种被分离出来的植物多糖均表现出促生长作用。本试验结果也显示，饲粮中添加茶籽多糖能改善黄羽肉鸡的生长性能，作用效果与抗生素相当。这与袁钟宇等[15]试验结果相似，饲粮中添加 $3 0 0 \mathrm { m g / k g }$ 茶籽多糖对肉鸡生长性能的影响与 $5 ~ \mathrm { m g / k g }$ 恩拉霉素相当。
+
+李学军等[16]研究显示，饲粮中添加茶籽多糖能改善仔猪的生长性能。茶籽多糖对肉鸡生长性能的改善可能与其促进肠道菌群平衡，提高动物健康水平，从而促进营养物质的吸收和蛋白质的合成有关。
+
+# 3.2博落回生物碱和茶籽多糖对黄羽肉鸡血清生化指标的影响
+
+血清AST和ALT活性是检查肝功能是否正常的理化指标，肝功能不全时，血清中的AST和ALT活性会升高[17]。本试验中，多糖组、博落回组和多糖 $^ +$ 博落回组黄羽肉鸡的血清ALT和AST活性低于对照组，除28日龄时的血清ALT活性与对照组相比差异显著外，其他均无显著差异，这表明茶籽多糖和博落回生物碱不会给机体代谢带来不良影响，且不会损伤肝脏细胞。正常情况下，血清中的ALP和LDH活性较低，当细胞因各种因素（如应激）刺激而受到损伤时，细胞膜的通透性增加，ALP释放入血液的速度增加，血清ALP活性显著升高[18]；当机体组织细胞受到广泛损伤时，LDH活性显著升高。本试验结果表明，与对照组相比，茶籽多糖、博落回生物碱及二者联用均可使黄羽肉鸡的血清ALP活性极显著下降，血清LDH活性显著下降；与抗生素组相比，茶籽多糖、博落回生物碱及二者联用均可使28日龄时的血清ALP活性极显著下降。这表明茶籽多糖和博落回生物碱可能具有保护肠黏膜，降低其受损程度的作用。血清UN含量与动物体内的蛋白质代谢情况及饲粮氨基酸的平衡状况有关，当蛋白质代谢异常时，血清UN含量升高；蛋白质代谢良好时，血清UN含量降低[19]。本试验结果显示，与对照组相比，茶籽多糖、博落回生物碱及二者联用均能显著降低28日龄黄羽肉鸡的血清UN含量。这说明茶籽多糖和博落回生物碱并未对肝肾的正常功能造成影响，蛋白质的利用率有所改善。血清UN含量降低说明蛋白质代谢终产物的排泄正常，体内无有毒物质聚积，给黄羽肉鸡饲喂茶籽多糖和博落回生物碱不仅不会损害肾脏，反而有保护肾脏、增强肾脏排泄功能的作用；此外，血清UN含量降低说明蛋白质的分解代谢降低，蛋白质在体内的沉积增加。
+
+# 3.3博落回生物碱和茶籽多糖对黄羽肉鸡胴体性状和脂质过氧化的影响
+
+本试验结果表明，饲粮中添加博落回生物碱可显著提高黄羽肉鸡的胸肌率和腿肌率；多糖组的胸肌率和腿肌率高于对照组，胸肌率显著高于抗生素组。MDA是体内自由基攻击生物膜上的多不饱和脂肪酸，从而引发脂质过氧化所产生的一类较稳定的脂质过氧化物。组织中的 MDA含量是反映脂质过氧化程度的重要指标，是体内脂质反应的最终产物，肉品中的
+
+MDA 含量直接反映肉品脂质过氧化的程度[20]，直接关系到肉品的货架寿命。本试验结果显示，肌肉于4℃保存2、4、6d后，抗生素组、多糖组、博落回组和多糖 $^ { + }$ 博落回组的肌肉MDA 含量极显著低于对照组。这与 Lee 等[21I研究结果相一致，饲粮中添加 20 和 $5 0 ~ \mathrm { m g / k g }$ （204号血根碱能显著降低肉鸡的腿肌MDA含量。云龙[试验亦显示，饲粮中添加血根碱能降低 28日龄黄羽肉鸡的血清 MDA 含量；血根碱添加水平小于 $1 5 0 ~ \mathrm { m g / k g }$ 时，56日龄肉鸡的血清MDA 含量显著低于对照组和抗生素组。多糖类物质具有清除自由基和增强机体免疫功能作用。薛凌峰等[22]在饲粮中添加 $1 5 0 { \sim } 4 5 0 \ \mathrm { m g / k g }$ 香菇多糖，发现能够显著提高仔猪的血浆超氧化物歧化酶（SOD）和谷胱甘肽过氧化物酶（GSH-Px）活性，降低血浆MDA含量。李学军等[16]研究发现，饲粮中添加 $6 0 0 ~ \mathrm { { m g / k g } }$ 茶籽多糖能提高生长猪的血清 SOD 活性，降低血清 MDA含量。这说明添加茶籽多糖和博落回生物碱均可延长鸡肉的货架存放时间，作用效果与抗生素相似。
+
+4结论   
+饲粮中添加博落回生物碱和茶籽多糖对黄羽肉鸡的生长性能和血清生化指标均有改善 作用，其中，博落回生物碱的作用效果优于茶籽多糖，且二者均能延长鸡肉在4℃时的保 存时间；这说明博落回生物碱和茶籽多糖均能替代抗生素在肉鸡中的使用，且二者联用与单 独添加效果相当。   
+参考文献:   
+[1]程巧,乐捷,曾建国.药用植物博落回形态与发育解剖学研究[J].植物学 报,2015,50(1):72-82.   
+[2]周婉,印丽娟,贺安娜.博落回生物碱及药理作用研究进展[C]//全国第六届(2015)侗族医药 学术研讨会暨侗族医药理论培训会论文集.贵州:中国民族医药学会,2015.   
+[3]叶涛,叶湘漓,贺建华.植物多糖功能与作用机理的研究进展[J].农产品加工（学 刊）,2012(1):22-23.   
+[4]饶华,蔡鹏,周锡红,等.博落回提取物对断奶仔猪生长性能的影响[J].中国兽药杂 志,2009,43(11):42-45.   
+[5]李美荃,张春勇,满意,等.博落回提取物在仔猪生产中的应用效果研究[J].家畜生态学 报,2013,34(9):50-55. [6]徐春燕.苜蓿多糖和黄芪多糖对肉仔鸡抗氧化性能影响的研究[D].硕士学位论文.扬州: 扬州大学,2010.   
+[7]陈桂冰,孙培冬,宁奇,等.茶籽多糖抗氧化性及其对DNA 氧化损伤的保护作用[J].天然产 物研究与开发,2016,28(6):949-954.   
+[8]VIEIRA A L,BERRES J,REIS R N,et al.Studies with sanguinarine like alkaloids as feed additive in broiler diets[J].Revista Brasileira de Ciéncia Avicola,2008,10(1):28-33.   
+[9]云龙.血根碱制剂对黄羽肉鸡生长性能及抗氧化功能的影响[D].硕士学位论文.长沙:湖 南农业大学,2016.   
+[10]KANTAS D,PAPATSIROS V G,TASSIS P D,et al.Effct of a natural feed aditive (Macleaya cordata),containing sanguinarine,on the performance and health status of weaning pigs[J].Animal Science Journal,2014,86(1):92-98.   
+[11]蔡鹏,孙志良,曾建国,等.不同剂量博落回提取物对断奶仔猪生长性能的影响[J].中国畜 牧兽医,2010,37(5):41-43.   
+[12]BIANCO F,BASINI G,GRASSELLI F.The plant alkaloid sanguinarine affects swine granulosa cel activity[J].Reproductive Toxicology,2006,21(3):335-340.   
+[13]DRSATA J,ULRICHOVA J,WALTEROVA D.Sanguinarine and chelerythrine as inhibitors of aromatic amino acid decarboxylase[J].Journal of Enzyme Inhibition,20o8,10(4):231-237. [14]李杰.博落回生物碱对猪肠上皮细胞增殖作用及胃泌素表达的影响研究[D].硕士学位 论文.长沙:湖南农业大学,2014.   
+[15]袁钟宇,张石蕊,贺喜,等.茶籽多糖及茶皂素对肉鸡生长性能和肠道微生物的影响[J].中 国畜牧杂志,2010,46(7):28-31.   
+[16]李学军,朱良.茶籽多糖对生长猪生长性能及抗氧化能力的影响[J].饲料广 角,2010,19(7):17-18.   
+[17]时维静,李立顺,俞浩,等.柴芪颗粒抗菌及保肝作用研究[J].畜牧兽医学 报,2005,36(5):502-505.   
+[18]郝生燕,刘陇生,王国栋,等.饲粮中添加甜菜碱对热应激蛋鸡生产性能、蛋品质及血清生 化指标的影响[J].动物营养学报,2017,29(1):184-192.   
+[19]朱良,张石蕊,贺喜,等.茶籽提取物对生长猪生长性能及血清生化指标的影响[J].中国饲   
+料,2010(17):12-14.   
+[20]郑桂红,张伟力.VE 和 VC 对固始鸡 4C 血液指标和组织脂质抗氧化的影响[J].江苏师范   
+大学学报(自然科学版),2006,24(3):60-63.   
+[21]LEE K W,KIM J S,OH S T,et al.Effects of dietary sanguinarine on growth   
+performance,relative organ weight,cecal microflora,serum cholesterol level and meat quality in   
+broiler chickens[J].Journal of Poultry Science,2015,52(1):15-22.   
+[22]薛凌峰,李同洲,臧素敏,等.香菇多糖对仔猪生产性能、营养物质消化率及抗氧化能力的   
+影响[J].畜牧与兽医,2009,41(6):5-9. Effects of Macleaya cordata Alkaloids and Tea Seed Polysaccharide on Growth Performance, Serum Biochemical Indexes and Lipid Peroxidation of Yellow-Feathered Broilers HU Guili LIU Jing LIU YongqiangSONG Zehe FAN Zhiyong ZHANG Shirui HE Xi\* ( Hunan Co-Innovation Center of Animal Production Safety, Engineering Research Center of Feed Safety and Efficient Use of Ministry of Education, College of Animal Science and Technology, Hunan Agricultural University, Changsha 410128, China)   
+Abstract: This experiment was conducted to investigate the effects of Macleaya cordata alkaloids   
+and tea seed polysaccharide on growth performance, serum biochemical indexes and lipid   
+peroxidation of yellow-feathered broilers. A total of 750 1-day-old healthy yellow-feathered   
+broilers were randomly allocated to 5 groups with 6 replicates per group and 25 broilers per   
+replicate. Broilers in control group were fed a basal diet, and the others in experimental groups   
+were fed the basal diets supplemented with antibiotic ( $1 0 ~ \mathrm { m g / k g }$ colistin at 1 to 28 days of age and   
+$5 ~ \mathrm { m g / k g }$ flavomycin at 29 to 56 days of age, antibiotic group), tea seed polysaccharide $( 0 . 0 4 \%$   
+polysaccharide group), Macleaya cordata alkaloids ( $1 0 ~ \mathrm { m g / k g }$ at 1 to 28 days of age and $2 0 \mathrm { m g / k g }$   
+at 29 to 56 days of age, Macleaya cordata group), tea seed polysaccharide $( 0 . 0 4 \% )$ and Macleaya   
+cordata alkaloids ( $1 0 \ \mathrm { m g / k g }$ at 1 to 28 days of age and $2 0 ~ \mathrm { m g / k g }$ at 29 to 56 days of age,
+
+stages of 1 to 28 days of age and 29 to 56 days of age. The results showed as follows: 1) there were no significant differences in average daily gain (ADG), average daily feed intake (ADFI) and the ratio of feed to gain (F/G) of yellow-feathered broilers in all groups at 1 to 28 days of age （20 $( P { > } 0 . 0 5 )$ . At 29 to 56 days of age and 1 to 56 days of age, ADFI in Macleaya cordata group was significantly higher than that in the other groups $( P { < } 0 . 0 5 )$ ， and there were no significant differences in ADG and $\mathrm { F / G }$ in all groups ( $( P { > } 0 . 0 5 )$ . 2) At 28 days of age, compared with control group, the activities of alanine aminotransferase (ALT) and lactate dehydrogenase (LDH) and urea nitrogen (UN) content in serum of yellow-feathered broilers in the other groups were significantly decreased $( P { < } 0 . 0 5 )$ , and the activity of alkaline phosphatase (ALP) in serum in the other groups was significantly decreased $( P { < } 0 . 0 1 )$ . The activity of ALP in serum in polysaccharide group, Macleaya cordata group and polysaccharide+Macleaya cordata group was significantly lower than that in antibiotic group $( P { < } 0 . 0 1 )$ . At 56 days of age，compared with control group, the activities of ALP $( P { < } 0 . 0 1 )$ and LDH $( P { < } 0 . 0 5 )$ in serum in the other groups were significantly decreased.3） Compared with control group，breast muscle rate and leg muscle rate of yellow-feathered broilers in Macleaya cordata group and leg muscle rate in polysaccharide group and polysaccharide+Macleaya cordata group were significantly increased $( P { < } 0 . 0 5 )$ . Compared with antibiotic group, breast muscle rate and leg muscle rate in Macleaya cordata group and polysaccharide+Macleaya cordata group and leg muscle rate in polysaccharide group were significantly increased $( P { < } 0 . 0 5 )$ . Breast muscle rate in Macleaya cordata group was significantly higher than that in polysaccharide group $( P { < } 0 . 0 5 )$ . After 2, 4 and 6 days of muscle preservation at $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ , compared with control group, muscle malondialdehyde (MDA) content in the other groups was significantly decreased $( P { < } 0 . 0 1 )$ . Compared with antibiotic group, muscle MDA content in polysaccharide group, Macleaya cordata group and polysaccharide+Macleaya cordata group after 2 $( P { < } 0 . 0 1 )$ and 6 days $( P { < } 0 . 0 5 )$ of muscle preservation at $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ was significantly decreased. In conclusion, dietary Macleaya cordata alkaloids and tea seed polysaccharide can improve growth performance and serum biochemical indexes of yelow-feathered broilers,and the effects of
+
+Macleaya cordata alkaloids were beter than that of tea seed polysaccharides,and both of them can prolong the storage time of chicken at $4 ^ { \circ } \mathrm { C }$ . That indicate Macleaya cordata alkaloids and tea seed polysaccharide can replace antibiotic used in broilers,and combined effects are equivalent to individual addition effects.   
+Key words: yelow-feathered broilers； Macleaya cordata alkaloids； tea seed polysaccharide; growth performance; serum biochemical indexes

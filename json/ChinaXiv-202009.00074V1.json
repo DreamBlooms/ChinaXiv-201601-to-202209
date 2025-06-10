@@ -1,0 +1,820 @@
+[
+    {
+        "type": "text",
+        "text": "格上具有完全前向安全的0轮往返时间密钥交换协议",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵宗渠，马少提，汤永利，叶青†(河南理工大学 计算机科学与技术学院，河南 焦作 454000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：0-RTT密钥交换协议，允许客户端在零往返时间发送加密保护的有效载荷和第一条密钥交换协议消息，具有非交互、可离线等优点。为了降低密钥交换往返时间，基于穿透加密思想提出一种格上0-RTT密钥交换协议，首先利用一次性签名算法和分级身份基密钥封装机制构造可穿透前向保密密钥封装方案，然后使用可穿透前向保密密钥封装方案设计0-RTT密钥交换协议。协议只需客户端对服务器进行单向认证，并且能够有效抵抗量子攻击和重放攻击。与同类协议相比，所提协议具有可穿透的完全前向安全，减少了通信轮数，提高了通信效率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：格；密钥交换；0-RTT；前向安全 中图分类号：TP309 doi:10.19734/j.issn.1001-3695.2020.02.0072 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zero round trip time key exchange protocol with full forward secrecy on lattice ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhao Zongqu,Ma Shaoti, Tang Yongli, Ye Qing† (College ofComputerScience&Technology,HenanPolytechnic University,Jiaozuo Henan4540oo,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: O-RTTkeyexchange protocol alows clients to send encrypted protected payloads andthe first key exchange protocol messgeat zero round-trip time,which has the advantages of non-interactive andof-line.Iorder to reduce the round-trip timeofkeyexchange,this paper proposedaO-RTTkeyexchange protocolonlaticebasedontheideaofpenetrating encryption.Firstly,itutilizedtheone-time signaturesalgorithmandthehierarchical identity-based keyencapsulation mechanism toconstruct penetrable forward secret keyencapsulationscheme,andthenused the penetrable forward ecret key encapsulationscheme todesigna O-RTTkey exchange protocol.The protocol onlyrequiredtheclient side toauthenticate the server one-way,andcould efectively resist thequantum attack and replay attack.Compared with similar protocols，the proposed protocol has penetrable full forward secrecy,reduces the number of communication rounds and improves the communication efficiency. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: latice; key exchange; zero round-trip time(O-RTT); forward secrecy ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "认证密钥交换(authenticatedkey exchange，AKE)协议是实体进行安全通信的前提，允许通信双方在公开的信道上建立一个共享的高熵会话密钥,并用这个会话密钥进行加密消息、认证和完整性校验等工作。1976年，Diffie和Hellman[1]基于离散对数困难问题设计了第一个密钥交换协议，简称为“DH协议”，这一开创性的研究成果加速了密钥交换协议领域的发展。由于DH协议是被动安全的密钥交换协议，无法抵抗主动攻击，存在会话密钥泄露的风险，因此许多基于DH假设[2-4]的密钥交换协议通过交换密钥的部分元素或加入身份信息来抵御主动攻击。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "像TLS这样的经典AKE协议在传输第一个有效的实际数据消息之前需要交换大量协议信息协商共享的会话密钥，因此会产生相当大的延迟开销。延迟通常是以往返时间(RTT)来衡量的，在发送第一个实际数据之前，必须进行N轮往返消息传递,即N-RTT。传输层安全(transport layer security,TLS)协议提供一个认证密钥交换，允许两个远程方通过不安全的通道建立共享的会话密钥。TLS1.2[5]协议需要两次往返时长(2-RTT)完成握手，然后才能发送请求；TLS1.3[协议比TLS1.2更快更安全，TLS握手仅需要一次往返时长(1-RTT)，如果网站以前被客户端连接过，则TLS握手的往返时长为零。作为高性能 AKE 协议的 HMQV[7]在协商会话密钥时也需要至少发送两条消息(即1-RTT)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "将密钥交换协议的延迟开销降低到零往返时间(0-RTT)，同时保持严格的安全保证已成为学术界和工业界的一个主要设计目标。从实用的角度来看，谷歌的QUIC协议[8]不仅把延迟开销降到了零往返时间，而且已经在GoogleChrome 和OperaWeb 浏览器中得到应用，并在2015年由Google向IETF提议作为IETF标准。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2017年，Günther,Hale,Jager 和Lauer[GHJL17][9]提出了基于穿透加密且具有完全前向安全的0-RTT密钥交换协议，该协议是在Canetti,Halevi和Katz[1o]的前向安全公钥加密和Green 等[的前向保密穿透公钥加密的工作基础上构建得到的。GHJL17[9]方案通过一次性签名技术和Blazy 等[12]的身份基分级密钥封装机制构建的可穿透前向保密密钥封装机制来实现前向保密一次通过密钥交换协议，该方案使前向保密0轮往返时长密钥交换协议成为了可能，并且具有完全前向安全，能够抵抗重放攻击。2018年，Derler和Jager等[13]使用Bloom Filter Encryption(BFE)构造了O-RTT 密钥交换协议，提高了计算效率，并通过容忍一个不可忽略的正确性误差把密钥的增长限制在一个可以容忍的限度内。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着量子计算理论的发展，基于传统大整数分解和离散对数困难问题的AKE协议[14]并不能抵抗量子攻击，在后量子时代，这些方案所依赖的困难问题已经可以用量子算法在多项式时间内解决，而基于格上困难问题的公钥密码方案在量子理论下还不存在多项式时间高效求解算法，同时格上的运算是矩阵向量上的乘法，具备并行计算、效率高的特点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于格的密码学受到广泛关注，2009年Katz等[15]设计了一个基于格的 CCA(chosen-ciphertext attack)安全的加密体制，并通过该加密体制构造近似平滑投射哈希（approximatesmooth projection hash,ASPH)函数，提出第一个基于格的2PAKE(two-party password-based anthenticated key exchange)协议。2011年，Ding 等[16]在Groce-Katz 框架[17]的基础上结合 Katz等[15]提出的加密体制和近似平滑投射哈希函数，提出了一种基于格上困难问题的高效PAKE协议，并且在标准模型下证明了协议的安全性。2017年，Zhang 等[18]将拆分的公钥加密体制和Katz等[15]的3次通信框架相结合，提出了基于格上困难问题且仅需两轮通信的PAKE协议，提高了通信效率，但是方案中存在拆分公钥加密造成计算花销增加的不足。2019年，李子臣等[19]基于环上误差学习问题设计了一种后量子认证密钥交换协议，在标准eCK模型下可证明安全并达到弱的完全前向安全。在这些格上AKE协议中，协商会话密钥需要2轮或者3轮通信，所需的通信开销更多。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文基于GHJL17方案的设计思想构造了一种新的0-RTT密钥交换协议。方案的主要贡献有：1)设计了一种可穿透前向保密密钥封装机制实现穿透加密和密钥更新功能，使本文协议具有完全前向安全性；2)基于可穿透前向保密密钥封装机制构造本文协议，减少了通信轮数，降低了通信开销。本文所提协议具有完全的前向安全性和抵抗量子攻击、重放攻击的特点，并且实现了0轮通信，有更高的通信效率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 背景知识 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义10-RTT密钥交换。以Diffie-Hellman 密钥交换为例，首先用户从之前的密钥交换中获得服务器的共享信息 $g ^ { s }$ ，然后选择指数 $x$ 生成密钥 $k _ { 1 } = g ^ { x s }$ ，给服务器发送用密钥 $k _ { \\mathrm { 1 } }$ 加密过的数据和 $g ^ { x }$ ，服务器收到后选择 $y$ 生成密钥 $k _ { 2 } = g ^ { x y }$ ，发送用 $k _ { 2 }$ 加密过的数据和 $g ^ { y }$ 给用户，在本次通信中双方使用 $k _ { 2 }$ 作为会话密钥，在密钥协商时同时发送了加密信息和密钥交换信息，称之为0-RTT密钥交换。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义2穿透加密。在一个可穿透前向安全密钥封装方案中，假设一个服务器拥有长期私钥 $s k$ ，当收到一条密文消息 $c _ { 1 }$ 时，其中消息 $c _ { 1 }$ 中封装了一个会话密钥，服务器用 $s k$ 解密消息 $c _ { 1 }$ 并派生出一个新的私钥 $s k _ { \\backslash c _ { 1 } }$ ，新的私钥在 $c _ { 1 }$ 时穿透的，并且用于解密除了 $c _ { 1 }$ 之外的所有密文，最终服务器删除$s k$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1格的相关知识 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义3给定 $\\mathbf { \\nabla } _ { m }$ 个线性无关的向量 $B = ( b _ { 1 } , \\cdots , b _ { m } ) \\in \\mathbb { R } ^ { m \\times m }$ ，格 $\\Lambda \\subset \\mathbb { R } ^ { m }$ 定义为所有这些向量的整系数线性组合，$\\Lambda = L ( B ) = \\{ \\sum _ { i = 1 } ^ { m } x _ { i } b _ { i } : x _ { i } \\in \\mathbb { Z } \\} \\ .$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义4q元格。对于整数 $q$ ，满足 $q \\mathbb { Z } ^ { m } \\subseteq \\mathbb { Z } ^ { m }$ 。对 $q , m , n \\in \\mathbb { Z }$ ，给定矩阵 $A \\in \\mathbb { Z } _ { q } ^ { n \\times m }$ ，定义： $\\Lambda _ { q } ( A ) = \\{ y \\in \\mathbb { Z } ^ { m } : y = A ^ { T } s ( \\mathrm { m o d } q ) \\}$ ; $\\Lambda _ { q } ^ { \\perp } ( A ) =$ $\\{ y \\in \\mathbb { Z } ^ { m } : A y = 0 ( { \\bmod { q } } ) \\}$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义5对于任意 $s > 0$ ，以向量 $c \\in \\mathbb { R } ^ { m }$ 为中心， $x \\in \\Lambda$ ，参数为 $s$ ，在格 $\\Lambda \\subseteq \\mathbb { Z } ^ { m }$ 上的高斯分布函数定义为$\\rho _ { s , c } \\left( x \\right) = \\exp ( - { \\left( \\pi \\left\\| x - c \\right\\| ^ { 2 } \\right) } / { s ^ { 2 } } )$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义6令 $\\rho _ { s , c } ( \\Lambda ) = \\sum _ { x \\in \\Lambda } \\rho _ { s , c } ( x )$ ，对于任意 $s > 0$ ，以向量 $c \\in \\mathbb { R } ^ { m }$ 为中心，参数为 $s$ 的格 $\\Lambda$ 上的离散高斯分布定义为$D _ { \\Lambda , s , c } ( y ) = \\rho _ { s , c } ( y ) / \\rho _ { s , c } ( \\Lambda )$ 。其中， $y \\in \\Lambda$ 。(若没有明确说明， $\\mathbf { \\Psi } _ { c }$ 默",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "认为0)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2安全模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在AKE协议可证明安全保证的研究方面，Bellare和Rogaway[20]两人作出了开创性的工作。文献[20]提供了适用于分布式环境的实体认证和认证密钥分发的第一种形式化处理并详细讨论了对称、双方设置下的相互认证和认证密钥交换问题，而且对于每一种情况都给出了协议满足其目标的一个定义、协议和证明，且假设存在一个伪随机函数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文采用GHJL17方案中的协议安全性分析模型，用$\\boldsymbol { I } = \\boldsymbol { C } \\dot { \\cup } \\boldsymbol { S }$ 表示系统中客户端(C)和服务器(S)建模的身份集，每个身份 $u \\in I$ 与一个公钥/私钥对 $( p k _ { u } , s k _ { u } )$ 相关联。其中公钥部分$p k _ { u }$ 是一次性生成并固定的，而随着时间的推移 $s k _ { u }$ 可以被相关参与者的会话修改。此外，每个身份 $u$ 在由 $\\tau _ { u } \\in \\mathbb { N }$ 表示的变量中保存局部的当前时间并初始化为 $\\tau _ { u } \\gets 1$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在安全模型中，敌手 $A$ 与多个身份会话进行交互并运行前向保密一次通过密钥交换协议。 $\\pi _ { u } ^ { i }$ 表示身份 $\\boldsymbol { u }$ 的第 $i$ 个会话，并与下述每个会话内部状态变量有关联：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)role∈{client,server}表示会话的角色。分别要求$r o l e = c l i e n t$ 和 $r o l e = s e r \\nu e r$ 当且仅当 $u \\in C$ 和 $u \\in S$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b) $i d \\in I$ 表示会话的拥有者(例如 $u$ 拥有 $\\pi _ { u } ^ { i }$ ）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c) $p i d \\in I \\cup \\{ \\perp \\}$ 表示预期的通信方并被精确设置一次。如果 $r o l e = s e r \\nu e r$ 设置 $p i d = \\perp$ 表示客户端未通过身份验证。最初，如果 $r o l e = s e r \\nu e r$ 还可以设置 $p i d = \\perp$ 表示在协议中需要学习的客户端身份。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "d) $t r a n s \\in \\{ 0 , 1 \\} ^ { * } \\cup \\{ \\bot \\}$ 分别记录单一发送和接受的消息。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "e) $t i m e \\in \\mathbb { N }$ 记录当分别处理发送和接受消息时的时间间隔。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "f $) k e y \\in \\{ 0 , 1 \\} ^ { * } \\cup \\{ \\perp \\}$ 是会话中派生的会话密钥，用 $\\pi _ { u } ^ { i } . k e y$ 表示引用的特定会话状态变量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "g)keystate $\\ r \\in \\ r _ { \\theta }$ {fresh,revealed}表示会话密钥是否已被泄露，初始化k $e y s t a t e = \\ f r e s h$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义7匹配会话。两个会话 $\\pi _ { u } ^ { i }$ 和 $\\pi _ { \\nu } ^ { j }$ 如果是匹配关系则需要满足以下条件：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a) $\\pi _ { u } ^ { i } . t r a n s = \\pi _ { \\nu } ^ { j } . t r a n s$ 表示两个会话共享同一个传输;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b) $\\pi _ { u } ^ { i } . t i m e = \\pi _ { v } ^ { j } . t i m e$ 表示两个会话在同一个时间间隔内运行：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c) $\\pi _ { u } ^ { i } . r o l e = c l i e n t \\land \\pi _ { \\nu } ^ { j } . r o l e = s e r \\nu e r$ 表示两个会话以相反的角色运行；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "d) $\\pi _ { u } ^ { i } . p i d = \\pi _ { \\nu } ^ { i } . i d$ 表示服务器会话由客户端的预期匹配伙伴拥有；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "e) $\\pi _ { u } ^ { i } . i d = \\pi _ { \\nu } ^ { i } . p i d \\lor \\pi _ { \\nu } ^ { j } . p i d = \\perp$ 表示客户端会话属于服务器的预期伙伴，或者服务器认为其伙伴未经身份验证。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设敌手 $A$ 控制网络，负责传输消息，从而允许任意修改、删除或重新排序消息。它可以通过以下查询与密钥交换协议和会话交互。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "NewSession $( u , r o l e , p i d , m )$ ：初始化新会话身份 $u \\in I$ ，角色$r o l e \\in \\{ c l i e n t , s e r \\nu e r \\}$ 和预期通信伙伴 $p i d \\in I \\cup \\{ \\perp \\}$ (其中服务器会话 $p i d = \\perp$ 表示未经身份验证的客户端伙伴)。如果 $r o l e \\neq s e r \\nu e r$ ，设置 $m = \\perp$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如果 $r o l e = s e r \\nu e r$ ，调用 $( s k _ { u } , k , m ) \\gets \\mathit { F S O P K E . R u n C } ( s k _ { u } , p k _ { p i d } )$ ，否则调用 $( s k _ { u } , k ) \\gets F S O P K E . R u n S ( s k _ { u } , p k _ { p i d } , m )$ ，其中 $p k _ { \\perp } = \\perp$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "注册一个新会话 $\\pi _ { u } ^ { i }$ ，其中 $\\mathbf { r o l e } = r o l e$ ， $\\mathbf { \\nabla } _ { i d } = u$ ， $\\mathrm { \\ p i d } = p i d$ ，$t r a n s = m$ ， $t i m e = \\tau _ { u }$ ， $k e y = k$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当 $r o l e = c l i e n t$ 时，返回 $\\mathbf { \\nabla } _ { m }$ 。当 $r o l e = s e r \\nu e r$ 时，如果 $k = \\perp$ 返回 $\\perp$ ，否则返回 $T _ { \\circ }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Reveal $( \\pi _ { u } ^ { i } )$ ：如果会话密钥是派生的，就显示特定会话的会话密钥。如果 $\\pi _ { u } ^ { i } . k e y \\neq \\perp$ ，设置 $\\pi _ { u } ^ { i } . k e y s t a t e \\gets r e \\nu e a l e d$ 并返回密钥，否则返回 $\\perp$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Corrupt $( u )$ ：破坏身份 $u \\in I$ 的长期状态。此查询最多可在每个身份 $\\boldsymbol { u }$ 中查询一次，并且以后不允许对会话 $u$ 进行进一步查询。设Corrupt(u)为 $A$ 发出的第 $\\varsigma$ 次查询；设置 $\\varsigma _ { u } ^ { c o r r } \\gets \\varsigma$ ，其中 $\\mathcal { G } _ { u } ^ { c o r r } = \\infty$ 表示未损坏的身份。如果出现破坏则记录身份的当前时间 $\\tau _ { \\boldsymbol { u } }$ ，并设置 $\\tau _ { u } ^ { c o r r } \\gets \\tau _ { u }$ ，最后返回 $s k _ { u }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "${ \\mathit { T i c k } } ( u )$ ：通过调用 $s k _ { u } \\gets F S O P K E . T i m e S t e p ( s k _ { u } )$ ，将一些身份$u \\in I$ 的状态一次性转发。将新时间记录为 $\\tau _ { u } \\gets \\tau _ { u } + 1$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$T e s t ( \\pi _ { u } ^ { i } )$ ：允许敌手挑战派生的会话密钥，并且只被询问一次。该预言在安全游戏中随机选择了一个秘密比特$b _ { t e s t } \\in \\{ 0 , 1 \\}$ 。如果 $\\pi _ { u } ^ { i } . k e y = \\perp$ ，返回 $\\perp$ 。设置 $\\tau ^ { \\prime } \\gets \\pi ^ { \\prime } . t i m e$ ，如果$b _ { t e s t } = 0$ ，返回 $\\pi _ { u } ^ { i } . k e y$ ，否则返回一个根据协议特定的概率优势随机选择的密钥。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 格上具有前向安全的0-RTT密钥交换协议",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了构建本文协议，首先使用 MP12 陷门[2I]实现了一个格上标准模型下的基于SIS困难问题的一次性签名技术(one-timesignatures,OTSIG)，接着设计了一个格上标准模型下的身份基分级密钥封装机制(hierarchical identity-based keyencapsulationmechanism,HIBKEM)，然后以上述两个方案为基础模块构造了可穿透前向保密密钥封装机制(puncturableforward-secret key encapsulation mechanism,PFSKEM)，最后以可穿透保密密钥封装机制设计格上具有前向安全的0-RTT密钥交换协议，协议具体构造如下所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1一次性签名技术",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "一个一次性签名技术 OTSIG 由三个概率多项式时间算法组成(OTSIG.KGen, OTSIG.Sign,OTSIG.Vfy)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "OTSIG.KGen(1\")：算法输入安全参数 $n$ ，从分布 $D$ 中选择 $\\overline { { A } }  \\mathbb { Z } _ { q } ^ { n \\times \\overline { { m } } }$ ， $R \\in \\mathbb { Z } ^ { \\mathit { \\overrightarrow { m } } \\times n k }$ ，让 $A = [ \\overline { { A } } \\ : | \\ : G - \\overline { { A } } R ]$ 。选择 $A _ { i } \\gets \\mathbb { Z } _ { q } ^ { n \\times n k }$ ，其中$i = 0 , 1 , . . . , \\ell$ ，再选择一个向量 $u \\gets \\mathbb { Z } _ { q } ^ { n }$ 。输出公钥 $p k _ { o T } =$ $( A , A _ { 0 } , . . . , A _ { \\ell } , u )$ ，私钥 $s k _ { O T } = R$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "OTSIG.Sign( $s k _ { o r }$ ， $\\mu \\in \\{ 0 , 1 \\} ^ { \\ell }$ ):算法让 $\\begin{array} { r } { A _ { \\mu } = [ A \\vert A _ { 0 } + \\sum _ { i \\in [ \\ell ] } \\mu _ { i } A _ { i } ] \\in } \\end{array}$ （20$\\mathbb { Z } _ { q } ^ { n \\times m }$ ，其中 $\\mu _ { i } \\in \\{ 0 , 1 \\}$ 是 $\\mu$ 的第 $i$ 个比特，可视为一个整数。输出 $\\nu \\in \\mathbb { Z } ^ { m }$ ，向量 $\\boldsymbol { \\nu }$ 是从 $D _ { \\Lambda _ { u } ^ { \\perp } } ( A _ { \\mu } ) , s$ 中使用包含矩阵 $A$ 的陷门 $R$ 的算法 SampleR采样得到(它也是 $A$ 的拓展 $A _ { \\mu }$ 的一个陷门)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "OTSIG.Vfy( $p k _ { o r } \\mathrm { ~ , ~ } \\mu \\mathrm { ~ , ~ } \\nu )$ ：算法让 $\\begin{array} { r } { A _ { \\mu } = [ \\boldsymbol { A } \\ | A _ { 0 } + \\sum _ { i \\in [ \\ell ] } \\mu _ { i } A _ { i } ] \\in \\mathbb { Z } _ { q } ^ { n \\times m } } \\end{array}$ 如果 $\\left\\| \\nu \\right\\| \\leq \\mathbf { \\sigma } _ { S } . { \\sqrt { m } }$ ， $A _ { \\mu } \\cdot \\nu = u$ 就接受，否则拒绝。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2分级身份基密钥封装",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "一个分级身份基密钥封装机制HIBKEM由四个概率多项式算法构成(HIBKEM.KGen，HIBKEM.Del，HIBKEM.Encap,HIBKEM.Decap)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "HIBKEM.KGen( $\\cdot \\mathrm { ~ \\bf ~ l ~ } ^ { n } \\mathrm { ~ , ~ } \\mathrm { ~ } \\mathrm { ~ } 1 ^ { d } \\mathrm { ~ } )$ ：输入一个安全参数 $n$ 和最大分级深度 $d$ ，调用 $\\mathrm { T r a p } G e n ( \\overline { { A } } , H )$ 算法生成一个均匀随机矩阵$A = [ \\overline { { A } } | H G - \\overline { { A } } T _ { A } ] \\in \\mathbb { Z } _ { q } ^ { n \\times m }$ 和 $A$ 的陷门矩阵 $T _ { A } = [ a _ { 1 } | a _ { 2 } | \\cdots | a _ { \\omega } ] \\in \\mathbb { Z } ^ { { \\bar { m } } \\times \\omega }$ ，选取 $n$ 维均匀随机向量 $u \\in R _ { q } ^ { n }$ ，运行SampleR(l\")算法，输出 $2 d$ 个矩阵 $R _ { 1 , 0 } , R _ { 1 , 1 } , R _ { 2 , 0 } , R _ { 2 , 1 } , \\cdots$ $R _ { d , 0 } , R _ { d , 1 } \\in \\mathbb { Z } ^ { m \\times m }$ 。输出主公钥 $M P K =$ $( A , u , R _ { 1 , 0 } , R _ { 1 , 1 } , R _ { 2 , 0 } , R _ { 2 , 1 } , \\cdots , R _ { d , 0 } , R _ { d , 1 } )$ 和主私钥 $M S K = ( T _ { A } )$ 。假设 $M P K$ 隐式地定义身份空间 $I D$ 和密钥空间 $\\mathbf { K }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "HIBKEM.Del( $M P K , S K _ { i d _ { \\psi } } , i d ~ ,$ ：输入主公钥 $M P K$ ， $S K _ { i d _ { \\mu } }$ 表示分级深度为 $\\ell$ 时用户公钥矩阵 $A _ { i d _ { \\boldsymbol { \\nu } } }$ 所对应的陷门矩阵，其中$A _ { i d _ { | \\ell } } = A _ { 0 } ( R _ { 1 , i d _ { 1 } } ) ^ { - 1 } ( R _ { 2 , i d _ { 2 } } ) ^ { - 1 } \\dots ( R _ { \\ell , i d _ { \\ell } } ) ^ { - 1 } \\in \\mathbb { Z } _ { q } ^ { n \\times m }$ ，父用户身份 $i d _ { | \\ell } = \\{ 0 , 1 \\} ^ { \\ell \\le d }$ ；输入子用户身份 $i d = ( i d _ { \\scriptscriptstyle 1 } | i d _ { \\scriptscriptstyle 2 } | \\cdots | i d _ { \\scriptscriptstyle \\ell } | i d _ { \\scriptscriptstyle \\ell + \\scriptscriptstyle 1 } | \\cdots | i d _ { \\scriptscriptstyle \\bar { k } } )$ ，其中 $\\overline { { k } } \\leq d$ 。令（20 $R = ( R _ { \\ell + 1 , i d _ { \\ell + 1 } } ) ^ { - 1 } ( R _ { \\ell + 2 , i d _ { \\ell + 2 } } ) ^ { - 1 } \\cdots ( R _ { \\bar { k } , i d _ { \\bar { k } } } ) ^ { - 1 } \\in \\mathbb { Z } ^ { m \\times m } \\ , A _ { i d } = \\ A _ { i d _ { \\ell } } R \\in$ 。调用陷门派生算法得到 $S ^ { \\prime } = T r a p D e l ( A _ { i d _ { \\psi } } , R , S K _ { i d _ { \\psi } } , \\sigma _ { k } )$ ，输出陷门矩阵 $S K _ { i d } = S ^ { \\prime }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "HIBKEM.Encap( $M P K , i d )$ ：输入主公钥 $M P K$ ，分级深度为 $\\overline { { k } }$ 的接收方用户身份 $i d$ 。计算可逆矩阵$R _ { i d } = ( R _ { 1 , i d _ { 1 } } ) ( R _ { 2 , i d _ { 2 } } ) \\cdots ( R _ { \\bar { k } , i d _ { \\bar { k } } } ) \\in \\mathbb { Z } ^ { m \\times m }$ 和用户公钥矩阵 $A _ { i d }  A _ { 0 } R _ { i d } ^ { - 1 } \\in \\mathbb { Z } _ { q } ^ { n \\times m }$ 。随机选取密钥 $k \\in \\{ 0 , 1 \\}$ ，使用对偶Regev算法来加密密钥 $k$ ：首先选取均匀随机向量 $s \\gets R _ { q } ^ { n }$ ；然后选取容错值 $x  \\overbar { \\Psi } _ { \\boldsymbol { q } _ { \\ell } } \\mathbf { \\mathbb { Z } } _ { \\boldsymbol { q } }$ 和容错向量 ${ \\bf { y } } \\longleftarrow \\frac { \\bar { \\Psi } _ { \\sigma _ { \\bar { k } } ^ { m } } ^ { m } } { q } \\mathbb { Z } _ { q } ^ { m }$ ；然后计算加密密文 $C T = ( c _ { 0 } = u ^ { T } s + x +$ （204号$k \\big \\lfloor q / 2 \\big \\rfloor , c _ { 1 } = A _ { i d } ^ { T } s + y ) \\in \\mathbb { Z } _ { q } \\times \\mathbb { Z } _ { q } ^ { m }$ ，输出密文和密钥 $( C T , K = k )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "HIBKEM.Decap( $M P K , S K _ { i d } , C T ~ \\cdot$ ：输入主公钥 $M P K$ ，陷门矩阵 $S K _ { i d }$ 和密文 $\\mathit { c T }$ ，其中用户身份 $i d$ 的分级深度为lid $= { \\overline { { k } } }$ 。令高斯参数 $\\tau _ { \\bar { k } } = \\sigma _ { \\bar { k } } \\sqrt { m } \\times \\omega ( \\sqrt { \\log m } )$ ，做和封装算法一样的操作得到用户公钥矩阵 $A _ { i d } \\in \\mathbb { Z } _ { q } ^ { m }$ ，运行原象采样算法 $e _ { i d } \\gets$ $M P 1 2 \\mathrm { S a m p l e } ( \\mathbf { A } _ { i d } , \\mathbf { S K } _ { i d } , \\mathbf { u } , \\tau _ { \\bar { k } } )$ ，满足 $A _ { i d } e _ { i d } = u$ ，计算 $k ^ { \\prime } = c _ { 0 } - e _ { i d } ^ { T } c _ { 1 } \\in \\mathbb { Z } _ { q }$ ，其中把 $k ^ { \\prime }$ 和 $\\lfloor { q } / { 2 } \\rfloor$ 视为 $\\mathbb { Z }$ 中的整数，如果 $\\left| k ^ { \\prime } - \\lfloor q / 2 \\rfloor \\right| < \\lfloor q / 4 \\rfloor$ ，输出1，否则输出0。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "HIBKEM正确性：HIBKEM解封装正确性由定理1刻画。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定理1 HIBKEM的解封装是正确的，对任意的 $i d \\in I D$ ，（204 $( M P K , M S K ) $ HIBKEM.KGen $( 1 ^ { n } , 1 ^ { d } )$ ， $S K _ { i d } \\gets \\mathrm { H I B K E M . ~ D e l } ( M P K , S K _ { i d _ { \\parallel } } , i d )$ 和密钥 $k \\in \\{ 0 , 1 \\}$ ，其中 $I D$ 为身份空间，有 $\\mathrm { P r } [ \\mathrm { D e c a p } ( M P K , S K _ { i d }$ Encap $( M P K , i d , k ) ) = k ] = 1 - n e g l ( n )$ 成立。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "证明HIBKEM 解封装算法的输出为 $k ^ { \\prime } = c _ { 0 } - e _ { i d } ^ { T } c _ { 1 } =$ $u ^ { T } s + x + k \\lfloor q / 2 \\rfloor - e _ { i d } ^ { T } ( A _ { i d } ^ { T } s + y ) = u ^ { T } s + x + k \\lfloor q / 2 \\rfloor - ( A _ { i d } e _ { i d } ) ^ { T } s - e _ { i d } ^ { T } y = k \\lfloor q / 2 \\rfloor +$ $x - e _ { i d } ^ { T } y$ ，其中 $x - e _ { i d } ^ { T } y$ 为误差项，其绝对值小于 $q / 5$ ，满足$\\left| { k ^ { \\prime } - \\lfloor q / 2 } \\right\\rfloor \\left| { < \\lfloor q / 4 } \\right\\rfloor$ 输出1，否则输出0的设置，定理1成立。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "HIBKEM安全性：在可选则 ID 的游戏 $G _ { A , H I B K E M } ^ { I N D - s I D - C P A } ( n )$ 中把敌手 $A$ 的优势定义为 $A d \\nu _ { A , H I B K E M } ^ { I N D - s I D - C P A } ( n ) : = \\left| \\operatorname* { P r } [ G _ { A , H i B K E M } ^ { I N D - s I D - C P A } ( n ) = 1 ] - \\frac { 1 } { 2 } \\right|$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "下面是挑战者 $C$ 和敌手 $A$ 演示的身份基分级密钥封装机制的可选则 ID 的CPA 安全实验 $G _ { A , H I B K E M } ^ { I N D - s I D - C P A } ( n )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a) $A$ 输入它想要挑战的目标身份 $i d ^ { * }$ □ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)挑战者生成系统参数和最大分级深度并计算(MPK,MSK) $\\dot {  }$ HIBKEM.KGen(I\",1）。 $C$ 生成 $( K _ { 0 } , C T ^ { * } ) \\stackrel { 5 } {  }$ HIBKEM.Encap $( M P K , i d ^ { * } )$ （204号和 $K _ { 1 } \\stackrel { \\mathfrak { s } } {  } \\mathrm { K }$ 。然后挑战者给 $A$ 发送 $( K _ { b } , C T ^ { * } , M P K )$ ，其中 $b { \\overset { \\underset { 5 } { } } { \\longleftarrow } } \\{ 0 , 1 \\}$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c) $A$ 可以查询 $H I B K E M . D e l$ 预言机。 $H I B K E M . D e l$ 预言机输出一个请求身份 $i d$ 的私钥。唯一的限制是不允许敌手 $A$ 向HIBKEM.Del预言机查询 $i d ^ { * }$ 或者其祖先的私钥。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)最后， $A$ 输出一个猜测 $\\boldsymbol { b ^ { \\prime } }$ 。定义事件 $\\boldsymbol { b } = \\boldsymbol { b } ^ { \\prime }$ 表示$G _ { A , H I B K E M } ^ { I N D - s I D - C P A } ( n ) = 1$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如果 $A d \\nu _ { A , H I B K E M } ^ { I N D - s I D - C P A } ( n )$ 对所有概率多项式敌手 $A$ 在安全参数$n$ 上是一个可忽略的函数，那么一个身份基分级密钥封装机制 HIBKEM是可选则 ID CPA 安全(IND-sID-CPA)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3可穿透前向保密密钥封装",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "一个可穿透前向保密密钥封装机制PFSKEM由五个概率多项式时间算法组成(PFSKEM.KGen，PFSKEM.Encap,PFSKEM.PnctCxt，PFSKEM.Decap，PFSKEM.PnctInt)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PFSKEM.KGen(1\"):算法输入安全参数 $n$ 生成 $( M P K , M S K ) \\dot { \\bar {  } }$ HIBKEM $K G e n ( 1 ^ { n } , 1 ^ { d } )$ 并输出 $P K : = M P K$ 和 $S K : = ( M S K , \\varepsilon )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PFSKEM.Encap $\\left(  P K , \\tau \\right) $ ：算法输入公钥和时间间隔 $\\boldsymbol { \\tau }$ ，生成 $( p k _ { o T } , s k _ { o T } ) \\dot {  }$ OTSIG. $K G e n ( 1 ^ { n } )$ 。然后计算 $( C T _ { H B K E M } , K ) \\stackrel { 5 } {  }$ HIBKEM.En $c a p ( M P K , \\tau \\| p k _ { o T } )$ 和 $\\underline { { { \\sigma } } } \\overset { \\mathfrak { s } } {  } O T S I G ( s k _ { o T } , C T _ { H I B K E M } )$ 。让 $C T _ { P F S K E M } =$ （204号 $( C T _ { H I B K E M } , \\sigma , p k _ { O T } )$ ，输出 $K$ 和 $C T _ { P F S K E M }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PFSKEM.PnctCxt( $S K , \\tau , C T _ { P F S K E M } \\quad \\mathrm { ~ , ~ }$ ：把 $C T _ { P F S K E M }$ 解析为$( C T _ { H I B K E M } , \\sigma , p k _ { O T } )$ ，让 $T$ 表示HIBKEM 树。计算 $\\boldsymbol { S } \\boldsymbol { K } ^ { \\prime } =$ PunctureTree $( T , S K , \\tau \\| p k _ { o T } )$ ，输出新密钥 $\\boldsymbol { S } \\boldsymbol { K } ^ { \\prime }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PFSKEM.Decap( $S K , \\tau , C T _ { P F S K E M }$ )解密算法：把 $C T _ { P F S K E M }$ 解析为 $( C T _ { H I B K E M } , \\sigma , p k _ { O T } )$ 。如果 $O T S I G . V f y ( p k _ { o T } , C T _ { H I B K E M } , \\sigma ) = 0$ 输出 $\\perp$ 。否则：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)如果 $\\boldsymbol { s K }$ 包含 $i d = \\tau \\parallel p k _ { o T }$ 的私钥 $s k _ { i d }$ ，就输出$\\boldsymbol { K } ^ { \\dot { \\mathcal { S } } }$ HIBKEM.Decap $( M P K , s k _ { i d } , C T _ { H I B K E M } )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)如果 $\\mathit { s K }$ 包含拥有标签 $i d = \\tau \\parallel p k _ { o T }$ 的节点的一个祖先节点 ${ n } _ { j }$ ，就计算 $s k _ { i d } \\overset { \\mathrm { ~ s ~ } } {  } H I B K E M . D e l ( M P K , s k _ { j } , i d )$ ，输出 $\\kappa \\overset { \\circ } {  }$ H $t B K E M . D e c a p ( M P K , s k _ { i d } , C T _ { H I B K E M } )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c）否则输出 $\\perp$ 。",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PFSKEM.PnctInt( $\\boldsymbol { S } \\boldsymbol { K } , \\tau \\in \\mathcal { V }$ 下次时间间隔密钥更新算法：计算 $S K ^ { \\prime } = P u n c t u r e T r e e ( T , S K , \\tau )$ 其中 $T$ 是HIBKEM树。输出用于下次时间间隔 $\\tau + 1$ 的新密钥 $\\boldsymbol { S } \\boldsymbol { K } ^ { \\prime }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PFSKEM正确性：对所有的 $n \\in \\mathbf { N }$ ，对任何$( P K , S K ) \\stackrel { 5 } {  }$ PFSKEM.KGen(l\"），时间间隔 $\\tau ^ { * }$ ， $( K , C T ^ { * } ) { \\stackrel { \\mathfrak { s } } {  } } P F S K E M . E n c a p ( P K , \\tau ^ { * } )$ 和任意交叉序列 $i = 0 , . . . , n - 1$ ，对任何 $( \\tau , C T ) \\neq ( \\tau ^ { * } , C T ^ { * } )$ ，调用SK'PFSKEM.PnctCxt $( S K , \\tau , C T )$ ，或者对任何 $\\tau \\neq \\tau ^ { * }$ ，调用$S K ^ { \\prime } { \\overset { \\underset { * } { } } {  } } P F S K E M . P n c t I n t ( S K , \\tau )$ ，可以得到 $P F S K E M . D e c a p ( S K ^ { \\prime } , \\tau ^ { * } , ~ C T ^ { * } ) = K$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PFSKEM安全性：在选择时间CCA游戏 $G _ { A , P F S K E M } ^ { I N D - s T - C C A } ( n )$ 中，定义一个敌手 $A$ 的优势为 $A d \\nu _ { A , P F S K E M } ^ { I N D - s T - C C A } ( n ) : =$ $\\left| \\operatorname* { P r } [ G _ { A , P F S K E M } ^ { I N D - s T - C C A } ( n ) = 1 ] - 1 / 2 \\right|$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "一个PFSKEM方案安全可以通过一个挑战者 $C$ 和一个攻击者 $A$ 演示的选择时间 CCA安全实验 $G _ { A , P F S K E M } ^ { I N D - s T - C C A } ( n )$ 来定义。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)开始 $A$ 输出目标时间 $\\tau ^ { * }$ 。",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b）挑战者 $C$ 生成一个新鲜密钥对 $( P K , S K ) \\stackrel { 5 } {  }$ PFSKEM.KGen(1\"）。计算 $( C T ^ { * } , K _ { 0 } ^ { * } ) { \\stackrel { 5 } { \\longleftarrow } } P F S K E M . E n c a p ( P K , \\tau ^ { * } )$ 并选择 $K _ { 1 } ^ { * } \\overset { \\mathfrak { s } } {  } K$ 。此外选择一个比特$b { \\overset { \\underset { 5 } { } } { \\longleftarrow } } \\{ 0 , 1 \\}$ 然后发送 $( P K , C T ^ { * } , K _ { b } ^ { * } )$ 给 $A$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c) $A$ 现在可以进行多项式次下面的查询：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a)PFSKEM.Decap( $\\tau , C T ~ )$ ：挑战者计算 $K ^ { \\stackrel { 5 } {  } }$ PFSKEM.$D e c a p ( S K , \\tau , C T )$ ，返回 $K$ 给 $A$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(b）PFSKEM.PnctCxt( $\\mathbf { \\Psi } _ { \\tau , C T }$ )：挑战者运行 $S K { \\overset { \\circ } {  } }$ PFSKEM.$P n c t C x t ( S K , \\tau , C T )$ 并返回符号T。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(c)PFSKEM.PnctInt(τ)：挑战者运行 $s K \\Dot {  }$ PFSKEM.PnctInt(SK,t)并返回符号 $\\mathrm { \\Delta T }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(d)PFSKEM.CorruptO：挑战者中止游戏输出一个随机比特如果 $\\boldsymbol { A }$ 之前没有查询过 $P F S K E M . P n c t C x t ( \\tau ^ { * } , C T ^ { * } )$ 或者PFSKEM.PnctInt(t\"）。否则挑战者返回当下私钥 $\\boldsymbol { s K }$ 给 $A$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "d)A最终输出一个猜测 $b ^ { \\prime }$ 。用 $G _ { A , P F S K E M } ^ { I N D - s T - C C A } ( n )$ 表示事件 $\\boldsymbol { b } = \\boldsymbol { b } ^ { \\prime }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如果 $A d \\nu _ { A , P F S K E M } ^ { I N D - s T - C C A } ( n )$ 在安全参数 $n$ 下对所有概率多项式时间敌手 $A$ 是一个可忽略的函数，那么一个可穿透前向保密密钥封装机制PFSKEM是选择时间CCA安全(IND-sT-CCA)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4协议描述",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文从可穿透的前向安全密钥封装机制出发构造了一种格上具有前向安全的0-RTT密钥交换协议。协议假设客户端和服务器拥有一些大致同步的时间，但强调协议关注的是时间间隔而不是确切的时间，如果时间间隔为一天，则对于本文的方案是有效的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文仅在客户端侧针对服务器进行单向认证，客户端不能持有长期密钥材料(即客户端 $p k = \\perp$ )，仅能使用其密钥存储当前时间间隔。协议使用穿透加密更新机制在时间间隔结束后或者调用密钥更新算法时更新客户端和服务器的公钥和私钥，同时客户端调用由一次性签名和分级身份基密钥封装机制构造得到的可穿透前向保密密钥封装算法不仅可以生成安全的会话密钥和仅能解密一次的密文，还可以实现认证服务器身份的功能，保证了客户端的安全性。协议具体流程如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a）调用算法FSOPKE.KGen为服务器生成带有身份信息的公钥 $p k \\gets ( P K , \\tau _ { \\operatorname* { m a x } } )$ 和私钥 $s k \\gets ( S K , \\tau , \\tau _ { \\operatorname* { m a x } } )$ ，为客户端生成公钥 $p k  \\perp$ 和私钥 $s k \\gets ( \\tau )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b）客户端调用算法FSOPKE.RunC，输入客户端的私钥和服务器的公钥，判断条件 $\\tau > \\tau _ { \\mathrm { m a x } }$ 是否成立，如果条件成立则中止协议并输出 $( s k , \\bot , \\bot )$ ，否则调用可穿透前向保密密钥封装算法PFSKEM.Encap，算法PFSKEM.Encap生成一次性签名算法的公钥 ${ p } k _ { o T }$ 和私钥 $s k _ { o r }$ ，然后调用分级身份基密钥封装算法 HIBKEM.Encap 生成会话密钥 $K$ 和密文 $C T _ { H I B K E M }$ ，对 $C T _ { H I B K E M }$ 签名得到 $\\sigma$ ，算法 FSOPKE.RunC 输出会话密钥 $k \\gets K$ 和密文 $m  C T _ { P F S K E M } = ( C T _ { H I B K E M } , \\sigma , p k _ { o T } )$ ，客户端把密文 $\\mathbf { \\nabla } _ { m }$ 发送给服务器。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c）服务器收到密文 $m$ 后调用算法FSOPKE.RunS，输入服务器的私钥和客户端的公钥以及密文 $\\mid m$ ，判断条件 $S K = \\perp$ 或 $\\tau > \\tau _ { \\mathrm { m a x } }$ 是否成立，条件成立输出 $( s k , \\perp )$ ，否则调用可穿透前向保密密钥解封装算法PFSKEM.Decap，算法PFSKEM.Decap调用一次性签名验签算法OTSIGVfy验证签名，签名成立则调用分级身份基密钥解封装算法HIBKEM.Decap 解封装得到会话密钥 $K$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定义 8(FSOPKE，Forward-Secret One-Pass KeyExchange）一个支持 $\\tau _ { \\mathrm { m a x } }$ 时间周期并提供单方(仅服务器)身份验证的前向保密一次通过密钥交换(FSOPKE)协议由以下四种概率算法组成。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FSOPKE.KGen $( 1 ^ { n } , r , \\tau _ { \\operatorname* { m a x } } ) \\to ( p k , s k )$ 密钥生成算法：输入安全参数 $n$ ，一个角色 $r \\in \\{ c l i e n t , s e r \\nu e r \\}$ 和最大时间周期 $\\tau _ { \\mathrm { m a x } } \\in N$ ，如果 $r { = } s e r \\nu e r$ ，生成一个公私钥对 $( P K , S K ) \\gets P F S K E M . K G e n ( \\mathbb { 1 } ^ { n } )$ 让 $p k \\gets ( P K , \\tau _ { \\operatorname* { m a x } } )$ ， $\\tau  1$ 和 $s k \\gets ( S K , \\tau , \\tau _ { \\operatorname* { m a x } } )$ ，输出 $( p k , s k )$ 。如果$\\scriptstyle { r = c l i e n t }$ ，让 $p k  \\perp$ ， $\\tau  1$ 和 $s k \\gets ( \\tau )$ ，输出 $( p k , s k )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FSC $\\mathrm { ) P K E . R u n C } ( s k , p k )  ( s k ^ { \\prime } , k , m )$ 客户端生成会话密钥算法：输入客户端的私钥和服务器的公钥，解析 $s k = \\left( \\tau \\right)$ 和$p k = ( P K , \\tau _ { \\operatorname* { m a x } } )$ 。如果 $\\tau > \\tau _ { \\mathrm { m a x } }$ ，那么中止协议并输出 $( s k , \\bot , \\bot )$ ，否则计算 $( C T , K ) \\gets P F S K E M . E n c a p ( P K , \\tau )$ ，让 $k \\gets K$ 和 $m \\gets C T$ ，输出 $( s k , k , m )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FSOPKE.RunS $( s k , p k = \\perp , m ) \\to ( s k ^ { \\prime } , k )$ 服务器生成会话密钥算法：输入服务器的私钥、客户端的公钥和密文消息 $\\mathbf { \\nabla } _ { m }$ ，解析 $s k = ( S K , \\tau , \\tau _ { \\operatorname* { m a x } } )$ 。如果 $S K = \\perp$ 或 $\\tau > \\tau _ { \\mathrm { m a x } }$ ，中止协议并输出$( s k , \\perp )$ 。计算 $K \\gets P F S K E M . D e c a p ( S K , \\tau , m )$ ，如果 $K = \\perp$ ，中止协议并输出 $( s k , \\perp )$ ，否则计算 $S K ^ { \\prime } \\gets P F S K E M . P n c t C x t ( S K , \\tau , m )$ 。让$s k \\gets \\left( S K ^ { \\prime } , \\tau , \\tau _ { \\operatorname* { m a x } } \\right)$ 和 $k \\gets K$ ，输出 $( s k , k )$ 0",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FSOPKE.TimeStep $( s k , r ) \\to s k ^ { \\prime }$ 时间间隔密钥更新算法：如果 $r { = } s e r \\nu e r$ 解析 $s k \\gets ( S K , \\tau , \\tau _ { \\operatorname* { m a x } } )$ 。如果 $\\tau \\geq \\tau _ { \\operatorname* { m a x } }$ 让$s k \\gets ( \\bot , \\tau + 1 , \\tau _ { \\operatorname* { m a x } } )$ ，输出 $s k$ 。否则让 $S K ^ { \\prime } \\gets P F S K E M . P n c t I n t ( S K , \\tau )$ ，$s k \\gets \\left( S K ^ { \\prime } , \\tau + 1 , \\tau _ { \\operatorname* { m a x } } \\right)$ ，输出 $s k$ 。如果 $\\scriptstyle r = _ { \\mathfrak { c } }$ client解析 $s k = ( \\tau )$ ，让$s k \\gets ( \\tau + 1 )$ 输出 $s k$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "0-RTT密钥交换协议正确性：协议正确性可由底层的PFSKEM正确性得到。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5 安全性证明",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本节给出所设计的格上具有前向安全的0-RTT密钥交换协议的安全性证明。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定理2定义8中的FSOPKE 构造是一个安全的单边认证FSOPKE协议，在FSOPKE-sec 游戏中，对于任何有效的对手 $A$ ，都存在一个有效的算法B，其算法概率公式为：$A d \\nu _ { A , F S O P K E } ^ { F S O P K E - \\mathrm { s e c } } ( n ) \\leq n _ { I } \\cdot \\hat { \\tau } _ { \\mathrm { m a x } } \\cdot n _ { s } \\cdot A d \\nu _ { \\mathrm { B , P F S K E M } } ^ { I N D - s T - C C A } ( n )$ ，公式中 $n _ { \\scriptscriptstyle I } = \\mid I \\mid$ 是最大标识数， $\\hat { \\tau } _ { \\operatorname* { m a x } }$ 是任何会话的最大时间间隔， $n _ { s }$ 是最大会话数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "证明让 $A$ 成为一个破坏FSOPKE 安全的敌手并进行一系列的游戏，将引入的差异限定在 $A$ 的每一步的优势中。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "游戏 $G _ { 0 }$ ：这是最初的安全实验，敌手的优势$A d \\nu _ { 0 } = A d \\nu _ { A , F S O P K E } ^ { F S O P K E - \\mathrm { s e c } } ( n )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "游戏 $G _ { 1 }$ ：在这里，让挑战者预先猜测一个与公钥/私钥对$( p k ^ { * } , s k ^ { * } )$ 相关联的服务器身份 $s ^ { * } \\in I$ ，如果这不是测试会话中所涉及的身份，则中止游戏。即如果测试了服务器会话中 $\\cdot \\pi ^ { t } . r o l e = s e r \\nu e r$ )，挑战者的猜测是会话所有者 $s ^ { * } = \\pi ^ { t } { \\mathrm { } } { \\mathrm { } } i d$ ，而如果测试了客户端会话( $\\  \\cdot \\ r o l e = c l i e n t \\ .$ ，则挑战者的猜测是预期的合作伙伴( $s ^ { * } = \\pi ^ { t } . p i d$ 。让 $n _ { I } = \\mid I \\mid$ ，然后 $\\mathbf { A d v } _ { 0 } \\leq \\boldsymbol { n } _ { I } \\cdot \\mathbf { A d v } _ { 1 }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "游戏 $G _ { 2 }$ ：现在 $A$ 猜测时间间隔 $\\tau ^ { * } = \\pi ^ { t } . t i m e$ ，其中测试会话在运行中，如果猜测不对中止游戏。让 $\\hat { \\tau } _ { \\operatorname* { m a x } }$ 表示任何会话 $\\pi$ 的π.time最大值，它遵循 $\\mathrm { A d v } _ { 1 } \\le \\hat { \\tau } _ { \\mathrm { m a x } } \\cdot \\mathrm { A d v } _ { 2 }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "游戏 $G _ { 3 }$ ：从 $G _ { 2 }$ 开始，挑战者如果没有正确地猜测所涉及的客户端会话 $\\pi _ { c } ^ { t }$ (即， $\\pi _ { \\mathrm { { c } } } ^ { t } . r o l e = c l i e n t$ )，则遵循下面两个条件的一个：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a) $\\pi _ { c } ^ { t } = \\pi ^ { t }$ ，即 $\\pi _ { c } ^ { t }$ 是被测试的会话，或者b） $\\pi _ { c } ^ { t }$ 与测试的(服务器)会话 $\\pi ^ { t }$ 合作。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于条件b)，如果测试服务器会话，必须存在这样的合作客户端会话 $\\pi _ { c } ^ { t }$ ，其具有 $\\pi _ { c } ^ { t } . p i d = \\pi ^ { t } . i d$ 以便 $A$ 获胜。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用 $n _ { s }$ 表示为会话总数，有 $A d \\nu _ { 2 } \\leq n _ { s } \\cdot A d \\nu _ { 3 }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "此外，如果测试服务器会话，则会话 $\\pi ^ { t }$ 实际上必须是 $s ^ { * }$ 拥有的第一个接受会话，该会话与 $\\pi _ { c } ^ { t }$ 合作以便 $A$ 获胜。回想一下，通过正确性，第一个这样的接受会话派生密钥 $K \\neq \\perp$ 为 $K \\gets P F S K E M . D e c a p ( \\mathrm { S K } ^ { * } , \\tau ^ { * } , m )$ （其中 $m = \\pi ^ { t } . t r a n s$ )因此调用$S K ^ { * } \\gets P F S K E M . P n c t C x t ( \\mathrm { S K ^ { * } } , \\tau ^ { * } , m )$ 。任何后来这样的接受会话将因此派生出 $K = \\perp$ ，通过 $K \\gets P F S K E M . D e c a p ( \\mathrm { S K ^ { * } } , \\tau ^ { * } , m )$ 得到，因此敌手将被给予 $\\perp$ 作为对其Test查询的响应而无法获胜。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "游戏 $G _ { 4 }$ ：在这个游戏中，将在测试会话 $\\pi ^ { t }$ 中派生的密钥$k ^ { * }$ 替换为从PFSKEM.Decap 的输出空间中随机均匀选择的一个。然而，任何能区分从 $G _ { 3 }$ 到 $G _ { 4 }$ 的优势不可忽略的对手都可以变成一种算法B，它以同样的优势在 $G _ { A , \\mathrm { P F S K E M } } ^ { I N D - s \\mathrm { T } - C C A }$ 中获胜。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在这个归约中，B首先输出 $G _ { 2 }$ 中猜测的时间间隔 $\\tau ^ { * }$ 作为它在 $G _ { A , P F S K E M } ^ { I N D - s T - C C A }$ 想要挑战的时间间隔。然后，它得到一个挑战公钥 $P K ^ { * }$ ，该公钥 $P K ^ { * }$ 与在 $G _ { 1 }$ 中猜测的拥有 $p k ^ { * } = ( P K ^ { * } , \\tau _ { \\operatorname* { m a x } } )$ 的服务器身份 $s ^ { * }$ 有关联。对于所有其他身份 $u \\in I \\setminus \\{ s ^ { * } \\}$ ，算法B根据FSOPKE.KGen生成适当的公钥/私钥对。特别是，它为所有其他服务器身份 $s \\in S \\setminus \\{ s ^ { * } \\}$ 生成PFSKEM密钥。此外，B获得一个挑战密文 $C T ^ { * }$ 和密钥 $K ^ { * }$ ，其中 $K ^ { * }$ 表示封装在 $C T ^ { * }$ 中的真实密钥或者独立选择的随机密钥。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "让算法B用这种方式正确地为 $A$ 模拟安全游戏，如果$K ^ { * }$ 是真正的密钥，它将完美地模拟 $G _ { 3 }$ ，而如果 $K ^ { * }$ 是随机选择的密钥，它将完美地模拟 $G _ { 4 }$ 。在这个程度上，算法B会使用在PFSKEM安全性中给出的选择ID,选择时间CCA安全游戏中的预言PFSKEM.KGen(，PFSKEM.DecapO，PFSKEM.PnctInt(和PFSKEM.PnctCxt(，在密钥交换游戏对$A$ 的查询回答如下所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "NewSession $( u , r o l e , p i d , m )$ ，该查询方法需要区分以下情况：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a)对于所有客户端会话 $\\pi _ { u } ^ { i } \\left( u \\in C \\right)$ ，除了在 $G _ { 3 }$ 中猜测的客户端会话 $\\pi _ { c } ^ { t }$ 外，B模拟安全游戏中指定的NewSession 查询。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b）对于猜测的客户端会话 $\\pi _ { c } ^ { t }$ ， $\\mathbf { B }$ 不调用PFSKEM.Encap,而是使用其挑战密钥 $K ^ { * }$ 作为会话密钥 $k$ ，使用挑战密文 $C T ^ { * }$ 作为输出消息 $\\mathbf { \\nabla } _ { m }$ 。通过 $G _ { \\mathrm { { l } } }$ 到 $G _ { 3 }$ ，确保 $\\pi _ { c } ^ { t }$ 使用服务器 $s ^ { * }$ 的时间间隔 $\\tau ^ { * }$ 和公钥 $p k ^ { * }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "c）对于 $G _ { 1 }$ 中所有不属于猜测服务器身份 $s ^ { * }$ (即 $s \\in S \\setminus \\{ s ^ { * } \\}$ ）的服务器会话 $\\pi _ { s } ^ { i }$ ，B 使用相应的(自己生成的)密钥 $s k _ { s }$ 模拟指定的NewSession 查询。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "d)对于所有属于 $s ^ { * }$ 的服务器会话 $\\pi _ { s ^ { * } } ^ { i }$ ，但未与猜测的客户端会话 $\\pi _ { c } ^ { t }$ 合作，B 根据预言PFSKEM.Decap和PFSKEM.PnctCxt来模拟NewSession查询的操作。因为 $\\pi _ { s ^ { * } } ^ { i }$ 和 $\\pi _ { c } ^ { t }$ 不是合作会话(尽管拥有相反的角色且 $\\boldsymbol { \\pi } _ { c } ^ { t } . p i d = \\boldsymbol { s } ^ { * }$ )，且$( \\pi _ { c } ^ { t } . t i m e , \\pi _ { c } ^ { t } . t r a n s ) = ( \\tau ^ { * } , ~ C T ^ { * } ) \\neq ( \\pi _ { s ^ { * } } ^ { i } . t i m e , \\pi _ { s ^ { * } } ^ { i } . t r a n s )$ ，所以允许调用PFSKEM.Decap预言作为此处的输入。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "e)对于 $s ^ { * }$ 拥有的第一个服务器会话 $\\pi _ { s ^ { * } } ^ { t }$ ，其与猜测的客户端会话 $\\pi _ { c } ^ { t }$ 合作，B将会话密钥设置为挑战密钥 $k \\gets K ^ { * }$ 并调用 $P F S K E M . P n c t C x t ( \\tau ^ { * } , C T ^ { * } )$ 。合作意味着 $\\pi _ { s ^ { * } } ^ { t }$ 与 $\\pi _ { c } ^ { t }$ 保持相同的时间，并获得 $\\pi _ { c } ^ { t }$ 的消息，即 $\\pi _ { c } ^ { t } . t i m e = \\tau ^ { * } = \\pi _ { s ^ { * } } ^ { t } . t i m e$ 和 $\\pi _ { c } ^ { t } . t r a n s = m =$ $\\pi _ { s } ^ { t } .$ .trans。此外，PFSKEM.PnctCxt不会在 $( \\tau ^ { * } , C T ^ { * } )$ 之前被调用。由正确性可以得到 $\\pi _ { s ^ { * } } ^ { t }$ 和 $\\pi _ { c } ^ { t }$ 建立了相同的会话密钥 $\\boldsymbol { K ^ { * } }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "f)对于与 $\\pi _ { c } ^ { t }$ 合作的任何其他服务器会话 $\\pi _ { s ^ { * } } ^ { i }$ ，B设置$K \\gets \\perp$ 。任何此类会话都将得到 $\\perp  P F S K E M . D e c a p ( S K , \\tau ^ { * } , C T ^ { * } )$ ，因为PFSKEM.PnctCxt已经在 $( \\tau ^ { * } , C T ^ { * } )$ 之前被调用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Reveal $( \\pi _ { u } ^ { i } )$ ：首先，观察任何获胜的敌手 $A$ 不能根据匹配会话的条件a)b)在会话 $\\pi _ { c } ^ { t }$ 和 $\\pi _ { s ^ { * } } ^ { t }$ 上公开，因为其中一个是测试会话，如果存在另一个，那么它会与测试会话合作。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于所有其他会话，B持有上述NewSession查询中模拟得到的正确密钥，因此可以根据指定的Reveal查询进行响应。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Corrupt(u)：对于测试会话 $\\pi ^ { t }$ 中涉及的服务器身份 $s ^ { * }$ ，B调用其PFSKEM.Corrupt预言获取PFSKEM密钥 $S K ^ { * }$ ，该密钥在 $s k ^ { * } = ( S K ^ { * } , \\tau _ { s ^ { * } } , \\tau _ { \\operatorname* { m a x } } )$ 内返回。如果 $A$ 无丢失调用Corrupt $( s ^ { * } )$ ，确保B在Corrupt(s\\*）之前调用了 $P F S K E M . P n c t C x t ( \\tau ^ { * } , C T ^ { * } )$ 或者PFSKEMPnctInt $( \\tau ^ { * } )$ ，因此在选择性时间CCA安全游戏中不会丢失：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如果 $\\pi ^ { t } = \\pi _ { s ^ { * } } ^ { t }$ 是一个服务器会话(由 $s ^ { * }$ 拥有)，匹配会话的条件c确保 $s ^ { * }$ 只有在 $\\pi ^ { t }$ 被接受后才能被中断。在 $\\pi ^ { t }$ 接受过程中存在 $\\pi ^ { \\prime } . t i m e = \\tau ^ { * }$ 和 $\\pi ^ { t } . t r a n s = C T ^ { * }$ ，因此在 $s ^ { * }$ 中断之前，B必须调用 $P F S K E M . P n c t C x t ( \\tau ^ { * } , C T ^ { * } )$ 。如果 $\\pi ^ { t } = \\pi _ { c } ^ { t }$ 是一个客户端会话，那么匹配会话的条件d确保存在一个在时间间隔 $\\tau ^ { * }$ 中处理$C T ^ { * }$ 的合作服务器会话 $\\pi _ { s ^ { * } } ^ { t }$ ，或者 $s ^ { * }$ 在时间间隔 $\\tau _ { s ^ { * } } ^ { c o r r } > \\pi ^ { t } . t i m e = \\tau ^ { * }$ 中被中断。因此，B必须在 $s ^ { * }$ 被中断之前分别调用$P F S K E M . P n c t C x t ( \\tau ^ { * } , C T ^ { * } )$ 和 $P F S K E M . P n c t I n t ( \\tau ^ { * } )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于任何其他(客户端或服务器)身份 $u \\neq s ^ { * }$ ，B 维护相应的私钥 $s k _ { u }$ ，因此可以响应指定的Corrupt查询。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "${ { T i c k } } ( u )$ ：算法B使用其对于未知私钥 $S K ^ { * }$ 的预言PFSKEM.PnctInt执行指定的时间步进过程，该私钥与PFSKEM挑战公钥 $P K ^ { * }$ 有关。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$T e s t ( \\pi ^ { t } )$ ：测试会话 $\\pi ^ { t }$ 必须是 $G _ { 3 }$ 中猜测的客户端会话 $\\pi _ { c } ^ { t }$ ，或者是属于与 $\\pi _ { c } ^ { t }$ 合作的 $s ^ { * }$ 的第一个服务器会话 $\\pi _ { s ^ { * } } ^ { t }$ ，在这两种情况下，算法B只输出 $\\pi ^ { t } . k e y = K ^ { * }$ 作为Test 查询的响应。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当 $A$ 停止并输出一个猜测 $b \\in \\{ 0 , 1 \\}$ ， $\\mathbf { B }$ 也停止把 $b$ 作为自己的猜测输出。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "算法B正确回答 $A$ 的所有查询，在 $K ^ { * }$ 是封装在 $C T ^ { * }$ 中的真正密钥的情况下，则它完全模拟 $G _ { 3 }$ ，而如果 $\\boldsymbol { K ^ { * } }$ 是随机独立选择的，则它完全模拟 $G _ { 4 }$ 。而且如果 $A$ 坚持FSOPKE安全游戏的条件，那么算法B就会遵循在PFSKEM安全性中选择ID 选择时间CCA安全游戏的所有限制。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当B继承 $A$ 的输出时， $A$ 在 $G _ { 3 }$ 中的优势与其在 $G _ { 4 }$ 中的优势之间的差异与B在选择ID、选择时间CCA安全实验两种情况下输出的概率差异有关。因此，",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA d \\nu _ { 3 } \\leq A d \\nu _ { 4 } + A d \\nu _ { \\mathrm { B } , P F S K E M } ^ { I N D - s T - C C A } ( n )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在 $G _ { 4 }$ 中，测试会话中的会话密钥 $k ^ { * }$ 总是随机均匀选择，对查询Test的响应与挑战位 $b$ 无关，因此 $A$ 不能比猜测更好地预测 $b$ ，即 $A d \\nu _ { 4 } \\leq 0$ 。结合 $G _ { 1 }$ 到 $G _ { 4 }$ 中的优势边界，得出整体边界。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 性能分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本节从安全性和效率两方面，对本文协议和 Katz 等[15]提出的PAKE 协议和 Zhang 等[18]提出的PAKE 协议进行比较，这些协议都是由格上困难问题构造得到。3中协议性能如表1所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在安全性方面，协议引入了穿透加密机制，提供了完全前向安全性，与协议[15][18]相比，本文协议可以抵抗重放攻击，具有更高的安全性。在效率方面，协议由一次性签名技术和分级身份基密钥封装构造得到，完成密钥协商只需要1轮通信。由表1可以看出，与协议[15][18]相比，本文协议的通信开销较小，主要由分级身份基密钥封装的密文及其签名构成，这使本文协议的通信效率提高。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c7c6a635728787f3c02cb7833e69f6d5c70c803d4fb60868e8f9d561b5b8539d.jpg",
+        "table_caption": [
+            "表1三种方案性能比较",
+            "Tab.1Performance comparison of three schemes "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">方案</td><td rowspan=\"2\">类型</td><td colspan=\"2\">完全前向通信轮</td><td rowspan=\"2\">通信开销</td><td colspan=\"2\">服务器计 用户计算</td></tr><tr><td>安全</td><td>数</td><td>算开销</td><td>开销</td></tr><tr><td>Katz等 协议</td><td>2-party</td><td>否</td><td>3</td><td>2m+4n</td><td>O(mn)</td><td>O(mn)</td></tr><tr><td>Zhang等 协议</td><td>2-party</td><td>否</td><td>2</td><td>4m+2n +l</td><td>O(mn)</td><td>O(mn)</td></tr><tr><td>本文协议 2-party</td><td></td><td>是</td><td>1</td><td>2m+1</td><td>O(nm3)</td><td>O(nm3)</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "协议[15]是基于LWE的2PAKE协议，需要3轮通信，通信代价由密文、投射密钥和消息认证码决定，大小为 $2 m$ ，通信开销比本文多 $4 n - 1$ 。此外，本文使用穿透加密提供了完全前向安全性。根据分析和表1数据可得，本文协议不仅具有更强的前向安全性，而且通信效率更高。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "协议[18]是基于格的2PAKE协议，需要2轮通信，通信代价主要取决于密文和投射密钥的大小，本文协议和协议[18]相比，通信开销只有 $2 m + 1$ ，增加了服务器计算开销和用户计算开销。同时本文协议仅需1轮通信，提供了更强的前向安全性。根据分析和表1数据可得，本文协议通信效率更低，安全性更高。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以上分析结果表明，本文构造的密钥交换协议通过密钥穿透更新策略实现了完全前向安全性，可以抵抗重放攻击、量子攻击；而且本文协议在协商密钥时只需要给服务器发送一条包含加密保护的有效载荷和一条密钥交换协议消息而不需要服务器回复从而实现了0轮往返时长通信，极大的降低了通信开销，因此本文协议具有可行性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文提出的0-RTT密钥交换协议，其中一次性签名技术基于格上的SIS困难问题，身份基分级密钥封装机制基于格上的LWE困难问题，在后量子时代具有重要意义。设计的0-RTT密钥交换协议仅需要服务器认证，把会话密钥和传递的消息一起发送给服务器从而实现了0轮通信的效果。协议可以有效抵抗量子攻击和重放攻击，提高了应用安全性，同时给出了在标准模型下严格的安全性证明。协议因为安全性和部署参数在执行穿透操作更新密钥时可能要花费较多的时间，但可以通过进行少量的有效计算和删除二叉树中的部分私钥来优化穿透操作降低耗时。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Diffie W,Hellman M.New directions in cryptography [J].IEEE Trans on Information Theory,1976,22 (6):644-654.   \n[2]Shor,Peter W.Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer [J].SIAM Journal on Computing,1997,26 (5):1484-1509.   \n[3]Hu Zhao,Zhu Yuesheng,Ma Limin.An improved Kerberos protocol based on Difie-Hellman-DSA key exchange [C]// IEEE International Conference on Networks.Piscataway,NJ:IEEE Press,2012:400-404.   \n[4]Hu Xuexian,Liu Wenfen,Zhang Jianhui．An Efficient ID-Based Authenticated Key Exchange Protocol [C]//Wase International Conference on Information Engineering.Piscataway,NJ: IEEE Press, 2009:229-233.   \n[5]Dierks T,Rescorla E.The Transport Layer Security(TLS） Protocol Version 1.2,RFC 5246 [EB/OL].[2008-08].https://www.rfc-editor. org/info/rfc5246.   \n[6]Rescorla E.The Transport Layer Security(TLS) Protocol Version 1.3 [EB/OL].[2016-10].https://tools.ietf.org/html/draft-ietf-tls-tls13-18.   \n[7]Krawczyk H. HMQV:A high-performance secure Diffie-Hellman protocol[C]//Advances in Cryptology-CRYPTO 2005.CRYPTO 2005. Lecture Notes in Computer Science.Berlin:Springer, 2005:546-566.   \n[8]QUIC,a multiplexed stream transport over UDP [EB/OL]. https://www. helplib.com/c/mutia_121632.   \n[9]GuintherF,Hale B,Jager T,etal.O-RTTKey Exchange withFullForward Secrecy [Cl/ International Conference on the Theory & Applications of Cryptographic Techniques.Berlin: Springer,2017: 519-548.   \n[10] Canetti R,Halevi S, Katz J.A Forward-Secure Public-Key Encryption Scheme [M]. Advances in Cryptology—EUROCRYPT 2003.Berlin: Springer,2003:255-271.   \n[11] Green M D,Miers I. Forward Secure Asynchronous Messaging from Puncturable Encryption [C]// IEEE Symposium on Security & Privacy. Piscataway,NJ: IEEE Press,2015:305-320.   \n[12] BlazyO,Kiltz E,Pan J. (Hierarchical) Identity-Based Encryption from Affine Message Authentication [M]// Advances in Cryptology CRYPTO 2014. Berlin: Springer,2014: 408-425.   \n[13]Derler D,Jager T,Slamanig D,et al.Bloom Filter Encryption and Applications to Efficient Forward-Secret O-RTT Key Exchange [C]// International Conference on the Theory& Applications ofCryptographic Techniques.Berlin: Springer, 2018: 425-455.   \n[14] 魏福山，马建峰，李光松，等．标准模型下高效的三方口令认证密钥 交换协议[J].软件学报,2016,27(9):2389-2399.(Wei Fushan,Ma Jianfeng,Li Guangsong,el al. Efficient Three-Party Password-Based Authenticated Key Exchange Protocol in the Standard Model[J]. Journal of Software,2016,27 (9): 2389-2399.)   \n[15] Katz J,Vaikuntanathan V. Smooth Projective Hashing and PasswordBased Authenticated Key Exchange from Lattices [C]// Advances in Cryptology-ASIACRYPT20o9,the 15th International Conference on the Theory and Application of Cryptology and Information Security. Berlin: Springer,2009:636-652.   \n[16]Ding Yi,Fan Lei. Efcient password-based authenticated key exchange from lattices [Cl/ Seventh International Conference on Computational Intelligence and Security. Piscataway, NJ: IEEE Press,2012: 934-938.   \n[17] Groce A,Katz J.A New Framework for Efficient Password-Based Authenticated Key Exchange [C]// Proceedings of the 17th ACM Conference on Computer and Communications Security. New York: ACM Press,2010: 516-525.   \n[18] Zhang Jiang,Yu Yu. Two-Round PAKE from Approximate SPH and Instantiations from Latices [C]/ International Conference on the Theory and Application of Cryptology and International Security. Berlin: Springer,2017: 37-67.   \n[19] 李子臣，谢婷，张卷美，等．基于RLWE的后量子认证密钥交换协议 [J].计算机研究与发展,2019,56(12):2694-2701.(Li Zichen,Xie Ting, Zhang Juanmei,et al. Post Quantum Authenticated Key Exchange Protocol Based on Ring Learning with Errors Problem [J].Journal of Computer Research and Development,2019,56 (12): 2694-2701.)   \n[20] Bellare M,Rogaway P.Entity Authentication and Key Distribution [C]// Annual International Conference on the Theory and Applications of Cryptographic Techniques.Berlin: Springer,1993: 232-249.   \n[21] Micciancio D,Peikert C.Trapdoors for lattices: simpler, tighter, faster, smaller[C]. Advancesin Cryptology-EUROCRYPT2012. EUROCRYPT 2012. Lecture Notes in Computer Science. Berlin: Springer,2012: 700 - 718. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

@@ -1,0 +1,410 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.13930/j.cnki.cjea.161024 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘平，刘学军，刘恩科，韩彦龙，李丽君，白光洁，许稳，吕薇，张强．山西省太原市旱作农区大气活性氮干湿沉降年度变化特征[J]．中国生态农业学报,2017,25(5):625-633Liu P,Liu XJLiuEK,HanY,LiLJBaiGJ,XuW,LyuWZagQ.Tmporalvaratioofatmospheric wetdryreactiverdepositioninTaiyuanrainfedfarmingareaofShanxiProvince[J].ChineseJournalofEco-Agriculture,2O17,25(5):625-633",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "山西省太原市旱作农区大气活性氮干湿沉降年度变化特征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘平¹，刘学军²，刘恩科³，韩彦龙²，李丽君¹，白光洁¹， 许稳²，吕薇¹，张强 1\\*\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "业科学院农业环境与资源研究所/山西省土壤环境与养分资源重点实验室太原030031;2.中国农业大学资源与环境学院北京 100193;3．山西省农业科学院旱地农业研究中心 太原030031)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：鉴于大气氮素沉降对整个生态系统的重要影响，我国近年来陆续开展了不同尺度的大气氮素干、湿沉降的研究，但少有农业区多年连续监测的资料。本研究利用DELTA系统、被动采样器和雨量器在山西省太原市郊区阳曲县河村旱作农业区进行了4年的监测试验，观测大气氮素干、湿沉降的时间变异。结果表明:2011年4月—2015年3月，河村4年大气活性氮 $\\mathrm { N H } _ { 3 }$ 、 ${ \\mathrm { H N O } } _ { 3 }$ 、 $\\mathrm { N O } _ { 2 }$ 、颗粒态 $\\mathrm { N O } _ { 3 } ^ { - }$ $( \\mathsf { p N O } _ { 3 } ^ { - } ,$ 、颗粒态 $\\mathrm { N H } _ { 4 } ^ { + }$ $( \\mathrm { p N H _ { 4 } ^ { + } } )$ 平均沉降量分别为 $4 . 5 0 \\mathrm { k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ 、 $3 . 5 4 \\mathrm { k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ ， $2 . 5 6 \\mathrm { k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ 、 $1 . 6 2 \\mathrm { k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ 、 $2 . 7 5 \\mathrm { k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ ，大气氮素干沉降总量为 $1 2 . 3 8 { \\sim } 1 8 . 9 5 \\mathrm { k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ ，以 2011年的氮干沉降量最高,2014年的最低。2011年4月—2015年3月各月氮干沉降量与氨气沉降量之间存在显著正相关，相关系数在 $0 . 8 0 9 ~ 8 { \\sim } 0 . 9 3 7 ~ 1$ ，由此可知，该地区活性氮沉降主要受农业氨气排放的影响。河村4年雨水中 $\\mathrm { N O } _ { 3 } ^ { - }$ 、 $\\mathrm { N H } _ { 4 } ^ { + }$ 平均浓度分别为 $3 . 2 0 \\mathrm { m g ( N ) { \\cdot } L ^ { - 1 } }$ 和 $2 . 4 3 ~ \\mathrm { m g ( N ) { \\cdot } L ^ { - 1 } }$ 大气氮素湿沉降 $1 1 . 6 7 { \\sim } 4 1 . 3 1 \\ \\mathrm { k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ 。年度间氮素湿沉降存在很大差异，以2012年氮素年湿沉降量最高,2014年最低，每年大气氮素湿沉降占氮总沉降量的份额超过 $50 \\%$ 。此外,4年湿沉降中不仅 $N O _ { 3 } ^ { - } { - } \\mathrm { N }$ 和 $\\mathrm { N H } _ { 4 } ^ { + }$ -N之间、且二者与降雨量也呈显著线性或二次相关关系，说明降雨量对 $\\mathsf { N O } _ { 3 } ^ { - } { - } \\mathsf { N }$ 和 $\\mathrm { N H } _ { 4 } ^ { + }$ -N的湿沉降影响较大。本研究表明太原市旱作农区不同年份间氮素湿沉降比干沉降差异更大，且总沉降数量较高。虽然是旱作区，该地区氮素干沉降略低于湿沉降。研究结果为该地区农田氮肥施用和氮素循环监测提供了理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：活性氮；干沉降；湿沉降；年度变化；旱作农区中图分类号：X53 文献标识码：A 文章编号：1671-3990(2017)05-0625-09",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Temporal variation of atmospheric wet/dry reactive nitrogen deposition in Taiyuan rainfed farming area of Shanxi Province ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIU Ping',LIU Xuejun², LIU Enke³, HAN Yanlong³,LI Lijun1, BAI Guangjie', XU Wen²,LYU Wei', ZHANG Qiang ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.InstituteofAgriculturalEnvironmentandResources,Shanxi AcademyofAgriculturalSciences/ShanxiKeyLaboratoryofSoi ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Environmentand NutrientResources,TaiyuanO3oo31,China;2.CollgeofResourcesand Environmental Sciences,China Agricultural University,Beijing10ol93,China;3.nstituteofDrylandFarming,Shanxi AcademyofAgriculturalSciences, Taiyuan 030031, China) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Nitrogen (N)depositionhas aseries of negativeefects onecosystem,thereforetheatmosphericreactive N(Nr) polution and deposition induced by excesive anthropogenic Nrhavebecome a global environmentalconcern.Untilrecent years,researcheson Nrdepositionand precipitation wereconducted at diferent scales,butstill there arefew continuous monitoring data about N deposition in rainfed farming areas.Here,the temporal variation of atmospheric wet and dry $\\mathrm { ~ N ~ }$ deposition was quantified using the DELTA system,pasive samplers and rain gauge at Hecun Village (which is Yangqu County, Taiyuan City,Shanxi Province)inafour-yearperiodspaning fromApril201lto March2O15.Theresultsshowedthe average deposition rates of $\\mathrm { N H } _ { 3 }$ ， ${ \\mathrm { H N O } } _ { 3 }$ ， $\\Nu { \\cal O } _ { 2 }$ ，particle form of $\\mathrm { N O } _ { 3 } ^ { - } ( \\mathsf { p N O } _ { 3 } ^ { - } )$ and particle fore of $\\mathrm { N H _ { 4 } ^ { + } \\left( p N H _ { 4 } ^ { + } \\right) }$ in the four-year period were $4 . 5 0 \\ \\mathrm { k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ ， $3 . 5 4 ~ \\mathrm { k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ $2 . 5 6 \\mathrm { \\ k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ ， $1 . 6 2 \\mathrm { ~ k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ and $2 . 7 5 ~ \\mathrm { k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ ,respectively. This led to total dry deposition value of $1 2 . 3 8 { - } 1 8 . 9 5 \\ \\mathrm { k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ ，with $\\mathrm { ~ N ~ }$ dry deposition flux being the highest in 2011,and the lowest in 2014.From April 2011 to March 2015,there was a positive linear correlation between monthly dry $\\mathrm { ~ N ~ }$ deposition and ammonia deposition (with a correlation coefficient range of $0 . 8 0 9 8  – 0 . 9 3 7 1$ ), indicating that ammonia had a significant influence on $\\mathrm { ~ N ~ }$ deposition of the study area. Total wet $\\mathrm { \\Delta N }$ precipitation range was $1 1 . 6 7 { - } 4 1 . 3 1 \\ \\mathrm { k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ in the region and the average concentrations of $\\mathrm { N O } _ { 3 } ^ { - }$ -N and $\\mathrm { N H } _ { 4 } ^ { + } { - } \\mathrm { N }$ in rainfall were $3 . 2 0 ~ \\mathrm { m g ( N ) { \\cdot } L ^ { - 1 } }$ and $2 . 4 3 ~ \\mathrm { m g ( N ) { \\cdot } L ^ { - 1 } }$ ,respectively. There were considerable differences in annual wet $\\mathrm { \\Delta N }$ deposition fluxes in the four-year period,of which it was the highest in 2Ol2 and the lowest in 2014.Moreover,wet $\\mathrm { \\Delta N }$ deposition accounted for over $50 \\%$ of total $\\mathrm { \\Delta N }$ deposition.Furthermore,there was a positive linear correlation between ${ \\bf N O } _ { 3 } ^ { - }$ -N and $\\mathrm { N H } _ { 4 } ^ { + }$ -N concentrations in rainwater in the four-year period,and there was also a positive linear correlation between ${ \\mathrm { N O } } _ { 3 } ^ { - }$ -N concentration and rainfall and then a quadratic correlation was also observed between $\\mathrm { N H } _ { 4 } ^ { + }$ -N concentration and rainfall. This indicated that rainfall had a significant impact on wet depositions of $N O _ { 3 } ^ { - } { - } N$ and $\\mathrm { N H } _ { 4 } ^ { + }$ -N. Such high deposition rates of Nr in Taiyuan showed a severe Nr polution from anthropogenic sources and a significant atmospheric $\\mathrm { ~ N ~ }$ input in croplands. Overall, there were bigger differences in annual wet $\\mathrm { ~ N ~ }$ deposition than annual dry $\\mathrm { ~ N ~ }$ deposition for the investigated four-yearperiod in Taiyuanarea.Although tested indryland,therateofdrydeposition was lower thanthatof wet precipitation.This study was important for $\\mathrm { ~ N ~ }$ management referring to Nr deposition in farmlands and for monitoring $\\mathrm { ~ N ~ }$ cycle in the farmland ecosystem. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Reactive nitrogen; Dry deposition; Wet deposition; Annual variation; Rainfed farming area ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "过量的人为氮排放导致的大气活性氮[主要包括 $\\mathrm { N H } _ { 3 }$ 、 $\\Nu { \\cal O } _ { 2 }$ 、 ${ \\mathrm { H N O } } _ { 3 }$ 、颗粒态 $\\mathrm { N H _ { 4 } ^ { + } \\left( p N H _ { 4 } ^ { + } \\right) }$ 和颗粒态 $\\mathrm { \\Delta N O _ { 3 } ^ { - } ~ ( p N O _ { 3 } ^ { - } ) _ { \\cdot } ^ { - } }$ 污染和沉降已经成为世界范围内关注的问题[1]。随着中国社会经济的快速发展，活性氮的排放以每年 $3 . 7 \\%$ 的速度递增，到2010年中国排放的活性氮达 $; 5 6 ~ \\mathrm { T g } ( 1 ~ \\mathrm { T g } { = } 1 0 ^ { 1 2 } ~ \\mathbf { g } ) ^ { [ 2 ] }$ ，相应也导致大气 $\\mathrm { N H } _ { 3 }$ 及 $\\mathrm { N O } _ { x }$ 排放的急剧增加[3]。大量的活性氮排放使中国一些地区成为高氮沉降量的热点地区[4]。自前，普遍认为中国农田过量施氮引起了严重的环境问题[5-6]，因此我国农业生态系统氮平衡问题受到了广泛关注。有研究指出农业是中国大气沉降氮的主要来源，与20世纪80年代相比，至2010年全国大气氮沉降增加了 $6 0 \\% ^ { [ 7 ] }$ 。而我国氮沉降研究起步较晚，从20世纪70年代才开始大气湿沉降的监测[8；到20世纪90年代，全国性的沉降监测网络基本建立[9]；2004年农田、草原、森林、城市等生态系统氮沉降监测陆续展开[10]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "我国现有氮沉降研究主要集中于对氮湿沉降的监测，大气氮干沉降研究只有零星报道，而且大多是针对大气某些氮化合物干沉降量和总沉降通量的研究[11-13]，缺乏对典型农区氮素干湿沉降多年连续监测结果。山西省是我国重要的能源基地，同时大部分地区属于旱作农业区，因此其大气活性氮的排放也具有特殊性，但相关研究仍属于起步阶段。本研究选取山西省太原市阳曲县河村旱作农业区作为采样点，使用DELTA系统、雨量器等仪器综合监测采样点大气活性氮污染状况，并进一步探究其对干湿沉降的贡献。连续4年监测了山西省太原市近郊农田区域的大气活性氮状况，定量化当地农田氮素的干、湿沉降输入。另外也明确活性氮组分之间的关系，从而为估算和预测山西省乃至全国农业区中大气活性氮的沉降状况提供基础数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1试验点和研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 采样点基本情况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选取山西省太原市阳曲县凌井店乡河村旱作农业区（ $1 1 2 . 8 9 ^ { \\circ } \\mathrm { E }$ $3 8 . 0 5 ^ { \\circ } \\mathrm { N } _ { . } ^ { \\cdot }$ 作为采样点。该监测点位于太原市近郊北部 $3 0 ~ \\mathrm { k m }$ 处，年平均降水量为 $4 4 0 \\ \\mathrm { m m }$ 年平均气温 $1 0 . 1 ~ \\mathrm { { ^ { \\circ } C } }$ ，无霜期一般为 $1 2 0 { \\sim } 1 4 0 \\mathrm { d }$ ，年均风速 $2 . 1 \\ \\mathrm { m } { \\cdot } \\mathrm { s } ^ { - 1 }$ ，主要以西北风为主，耕地 $4 5 1 . 4 ~ \\mathrm { h m } ^ { 2 }$ ，人口密度58人 $\\cdot \\mathrm { k m } ^ { - 2 }$ ，完全依靠自然降水从事农业生产，属于典型的农业村。采样期为2011年4月至2015年3月(文中2011年为2011年4月—2012年3月，2012年为2012年4月—2013年3月，2013年为2013年4月—2014年3月，2014年为2014年4月—2015年3月)，干沉降每月收集1次。干、湿沉降仪均放置在河村旱作农业基地，周边农田主要粮食作物为玉米(Zeamays)，平均施肥量 $2 4 0 { \\sim } 2 7 5 \\mathrm { k g } ( \\mathrm { N } _ { 2 } \\mathrm { O } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、 $1 0 5 { \\sim } 1 3 0$ $\\mathrm { k g } ( \\mathrm { P } _ { 2 } \\mathrm { O } _ { 5 } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，采样区不存在其他污染源。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 干沉降采样器",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干沉降采样器包括DELTA系统(1套)和被动采样器(3个)。其中DELTA系统采集活性氮气体 $\\mathrm { N H } _ { 3 } ,$ ${ \\mathrm { H N O } } _ { 3 }$ 及颗粒态 $\\mathrm { N H } _ { 4 } ^ { + }$ 和 $\\mathrm { N O } _ { 3 } ^ { - }$ ，被动采样器是用于活性氮气体 $\\Nu { \\cal O } _ { 2 }$ 浓度的采集，所采集的5种活性氮用于计算各形态氮及总的氮干沉降量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 DELTA系统",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DELTA系统是英国爱丁堡生态与水文中心(Centre for Ecology and Hydrology,CEH)开发的利用扩散管与滤膜组联用法长期监测 $\\mathrm { N H } _ { 3 }$ 、 ${ \\mathrm { H N O } } _ { 3 }$ /颗粒态 $\\mathrm { N H } _ { 4 } ^ { + }$ 和 $\\mathrm { N O } _ { 3 } ^ { - }$ 浓度的监测系统。DELTA系统实现了大气中气态 $\\mathrm { N H } _ { 3 }$ 和 ${ \\mathrm { H N O } } _ { 3 }$ 与气溶胶的分开采集，有效地减少了滤膜组测定法的误差。由于该系统价格相对低廉，自前已在英国和欧洲的环境监测中得到了广泛应用[14]。在系统中配置一个小型的泵采集大气的速率为 $0 . 3 { \\sim } 0 . 4 \\ \\mathrm { L } { \\cdot } \\mathrm { m i n } ^ { - 1 }$ ，使进入的气体活性氮组分被采样链内扩散管上的吸附剂吸附，气溶胶中颗粒物被后面的滤膜收集。其中采样链收集硝酸的吸附剂为 $1 \\%$ $K O H + 1 \\%$ 甘油甲醇溶液，吸附氨气的扩散管添加吸附剂为 $5 \\%$ 柠檬酸甲醇溶液，收集颗粒物 ${ \\bf N O } _ { 3 } ^ { - }$ 加吸附剂为 $5 \\% \\ \\mathrm { K O H } { + } 1 0 \\%$ 甘油甲醇溶液，收集颗粒物铵加吸附剂为 $13 \\%$ 柠檬酸甲醇溶液，关于DELTA系统的更详细信息见参考文献[14]。采样高度高于地面 $1 . 6 \\mathrm { m } _ { \\circ }$ 由于中国空气污染严重，本试验采用 $3 7 ~ \\mathrm { m m }$ 的滤膜来收集 $\\mathrm { N O } _ { 3 } ^ { - }$ 和 $\\mathrm { N H } _ { 4 } ^ { + }$ 颗粒物，这个滤膜要大于欧洲监测所采用的$2 5 ~ \\mathrm { m m }$ 的滤膜。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "样品的采样周期为1个月，即从1个月的月初到月末。样品从采样点采集后立即在 $4 \\mathrm { { ^ \\circ C } }$ 下保存，且在1个月内分析完。 ${ \\mathrm { H N O } } _ { 3 }$ 和 $\\mathrm { N O } _ { 3 } ^ { - } \\mathrm { N }$ 颗粒物用 $1 0 ~ \\mathrm { m L }$ $0 . 0 5 \\% \\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 浸提， $\\mathrm { N H } _ { 3 }$ 和 $\\mathrm { N H } _ { 4 } ^ { + }$ 颗粒物用 $1 0 ~ \\mathrm { m L }$ 高纯水浸提，溶解之后 ${ \\bf N O } _ { 3 } ^ { - }$ 和 $\\mathrm { N H } _ { 4 } ^ { + }$ 在AA3连续流动分析仪上测定(Bran+Luebbe GmbH,Norderstedt, Germany).",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 用于大气 $\\mathbf { N O } _ { 2 }$ 收集的被动采样器",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "大气中 $\\mathrm { N O } _ { 2 }$ 采用英国环境变化网络(ECN)所用的标准方法即被动采样器来采集， $\\Nu { \\cal O } _ { 2 }$ 被动采样器内部浸渍有 $20 \\%$ 的三乙醇胺吸附剂用于吸附 $\\mathrm { N O } _ { 2 }$ 气体，该采样器安置于距地面 $2 \\mathrm { ~ m ~ }$ ，每月采样时间为$1 0 { \\sim } 1 4 \\mathrm { ~ d ~ }$ ，时间与其他采样器同步进行，该采样器在采样点采集两周后收回在 $4 \\mathrm { { ~ } ^ { \\circ } C }$ 下保存，采用ECN(www.ecn.ac.uk)在线网站所描述的标准方法-比色法测定收集到的 $\\mathrm { N O } _ { 2 }$ 浓度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 大气氮干沉降的计算 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "大气氮素干沉降的计算采用推断模型法，一定时间段内的大气氮干沉降量等于一段时间采集的大气活性氮浓度与沉降速率的乘积[15]，公式表示为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF = C \\times V _ { \\mathrm { d } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $F$ 表示一定时段的大气氮干沉降量 $[ \\mathrm { k g ( N ) \\cdot h m } ^ { - 2 } ]$ $C$ 表示一段时间的大气活性氮浓度 $[ \\mu \\mathrm { g } ( \\mathrm { N } ) \\cdot \\mathrm { m } ^ { - 3 } ]$ ， $V _ { \\mathrm { d } }$ 表示不同活性氮种类的沉降速率 $\\mathrm { \\ L c m { \\cdot } s ^ { - 1 } l _ { 0 } }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "大气氮干沉降速率通常由大气沉降速率阻力模型获得，不同的活性氮气体之间，及气体和颗粒物均存在较大的差别。本研究中 2011 年 4月—2013年3月选取 $\\mathrm { \\Delta X u }$ 等[16对华北地区氮沉降研究所发表的阳曲县农村区域沉降速率(中国农业大学与北京大学合作研究模型计算得出)，由于沉降速率在年份间差异不大，主要表现在月份间，因此2013年4月—2015年3月采用前3年相应月份的平均沉降速率。各形态活性氮月沉降速率如表1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 湿沉降采集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "雨水样品用雨量器(SDM6，天津产的气象设备)在每次降雨事件后采集。雨量器紧邻Delta系统放在宽阔平坦的地方，收集好的雨水冷冻保存并在1个月内分析完。 $\\mathrm { N H } _ { 4 } ^ { + } { - } \\mathrm { N }$ 和 $N O _ { 3 } ^ { - } { - } N$ 用上面提到的方法测定。湿沉降的无机氮根据湿沉降中 $\\mathrm { ~  ~ { ~ N ~ } ~ }$ 的浓度和量来计算[17]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "氮湿沉降的计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN _ { \\mathrm { w d } } = P { \\times } C _ { \\mathrm { N } } { \\times } 1 0\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $N _ { \\mathrm { w d } }$ 表示每次降雨氮湿沉降量 $\\mathrm { [ g ( N ) \\cdot h m } ^ { - 2 } ]$ ， $P$ 表示每次降雨量 $( \\mathrm { m m } )$ ， $C _ { \\mathrm { N } }$ 表示 $\\mathrm { N H } _ { 4 } ^ { + }$ -N或 $N O _ { 3 } ^ { - } { - } N$ 含量 $[ \\mathrm { m g ( N ) \\cdot L ^ { - 1 } } ] , 1$ 0是单位换算系数。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n { N _ { \\mathrm { m , y } } } = \\sum _ { 1 } ^ { n }  { N _ { \\mathrm { w d } } } \\times 1 0 ^ { - 3 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $N _ { \\mathrm { m , y } }$ 表示1月或1年的氮湿沉降量 $\\cdot [ \\mathrm { k g } ( \\mathrm { N } ) \\cdot \\mathrm { h m } ^ { - 2 } ]$ 即1月或1年内所有降雨中氮湿沉降量之和。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/8104940e463724aefa2cc1a0e31407143ec27bfc98609156d55af9536b29b0a6.jpg",
+        "table_caption": [
+            "表1华北地区不同年份各形态活性氮月平均干沉降速率Table 1Monthly average dry deposition velocities for $\\mathrm { N H } _ { 3 }$ $\\mathrm { H N O } _ { 3 }$ $\\mathrm { N O } _ { 2 }$ $\\mathsf { p N H } _ { 4 } ^ { + }$ $\\mathsf { p N O } _ { 3 } ^ { - }$ ",
+            "in different years in North China cm·s-1 "
+        ],
+        "table_footnote": [
+            "$\\mathsf { p N H } _ { 4 } ^ { + }$ 和 ${ \\mathfrak { p } } { \\mathrm { N O } } _ { 3 } ^ { - }$ 分别为颗粒态 $\\mathrm { N H } _ { 4 } ^ { + }$ 和 $\\mathrm { N O } _ { 3 \\circ } ^ { - }$ $\\mathsf { p N H } _ { 4 } ^ { + }$ and ${ \\tt p N O } _ { 3 } ^ { - }$ are particle forms of $\\mathrm { N H } _ { 4 } ^ { + }$ and ${ \\bf N O } _ { 3 } ^ { - }$ ,respectively. "
+        ],
+        "table_body": "<html><body><table><tr><td>年份 Year</td><td>活性氮形态 Reactive N</td><td>1月 Jan.</td><td>2月 Feb.</td><td>3月 Mar.</td><td>4月 Apr.</td><td>5月 May</td><td>6月 Jun.</td><td>7月 Jul.</td><td>8月 Aug.</td><td>9月 Sep.</td><td>10月 Oct.</td><td>11月 Nov.</td><td>12月 Dec.</td></tr><tr><td rowspan=\"6\">2011 (2011-04—2012-03)</td><td>NH3</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.37</td><td>0.41</td><td>0.44</td><td>0.44</td><td>0.41</td><td>0.36</td><td>0.29</td><td>0.30</td></tr><tr><td>NO2</td><td>0.01</td><td>0.04</td><td>0.05</td><td>0.10</td><td>0.21</td><td>0.25</td><td>0.27</td><td>0.26</td><td>0.22</td><td>0.17</td><td>0.06</td><td>0.02</td></tr><tr><td>HNO3</td><td>0.14</td><td>0.27</td><td>0.34</td><td>0.65</td><td>1.94</td><td>2.26</td><td>1.96</td><td>1.50</td><td>1.45</td><td>1.63</td><td>0.37</td><td>0.20</td></tr><tr><td>pNH4</td><td>0.14</td><td>0.16</td><td>0.21</td><td>0.26</td><td>0.30</td><td>0.35</td><td>0.30</td><td>0.28</td><td>0.22</td><td>0.18</td><td>0.14</td><td>0.12</td></tr><tr><td>pNO3</td><td>0.14</td><td>0.16</td><td>0.21</td><td>0.26</td><td>0.30</td><td>0.35</td><td>0.30</td><td>0.28</td><td>0.22</td><td>0.18</td><td>0.14</td><td>0.12</td></tr><tr><td>NH3</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.37</td><td>0.43</td><td>0.46</td><td>0.46</td><td>0.42</td><td>0.36</td><td>0.30</td><td>0.30</td></tr><tr><td rowspan=\"6\"></td><td>NO2</td><td>0.02</td><td>0.03</td><td>0.05</td><td>0.11</td><td>0.20</td><td>0.26</td><td>0.29</td><td>0.28</td><td>0.23</td><td>0.16</td><td>0.04</td><td>0.02</td></tr><tr><td>HNO3</td><td>0.16</td><td>0.23</td><td>0.34</td><td>0.65</td><td>1.73</td><td>2.19</td><td>2.00</td><td>1.60</td><td>1.74</td><td>1.51</td><td>0.37</td><td>0.18</td></tr><tr><td>pNH4</td><td>0.13</td><td>0.16</td><td>0.20</td><td>0.23</td><td>0.30</td><td>0.31</td><td>0.24</td><td>0.20</td><td>0.22</td><td>0.18</td><td>0.13</td><td>0.13</td></tr><tr><td>pNO3</td><td>0.13</td><td>0.16</td><td>0.20</td><td>0.23</td><td>0.30</td><td>0.31</td><td>0.24</td><td>0.20</td><td>0.22</td><td>0.18</td><td>0.13</td><td>0.13</td></tr><tr><td>NH3</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.36</td><td>0.31</td><td>0.33</td><td>0.34</td><td>0.31</td><td>0.27</td><td>0.30</td><td>0.30</td></tr><tr><td>NO2</td><td>0.02</td><td>0.04</td><td>0.07</td><td>0.10</td><td>0.20</td><td>0.19</td><td>0.20</td><td>0.20</td><td>0.17</td><td>0.12</td><td>0.02</td><td>0.04</td></tr><tr><td rowspan=\"8\">2014 (2014-04—2015-03)</td><td>HNO3</td><td>0.19</td><td>0.26</td><td>0.35</td><td>0.61</td><td>1.95</td><td>1.64</td><td>1.55</td><td>1.24</td><td>1.23</td><td>1.15</td><td>0.19</td><td>0.26</td></tr><tr><td>pNH4</td><td>0.12</td><td>0.15</td><td>0.21</td><td>0.25</td><td>0.33</td><td>0.26</td><td>0.22</td><td>0.19</td><td>0.17</td><td>0.14</td><td>0.12</td><td>0.15</td></tr><tr><td>pNO3</td><td>0.13</td><td>0.12</td><td>0.15</td><td>0.21</td><td>0.25</td><td>0.26</td><td>0.22</td><td>0.19</td><td>0.17</td><td>0.14</td><td>0.12</td><td>0.15</td></tr><tr><td>NH3</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.36</td><td>0.31</td><td>0.33</td><td>0.34</td><td>0.31</td><td>0.27</td><td>0.30</td><td>0.30</td></tr><tr><td>NO2</td><td>0.02</td><td>0.04</td><td>0.07</td><td>0.10</td><td>0.20</td><td>0.19</td><td>0.20</td><td>0.20</td><td>0.17</td><td>0.12</td><td>0.02</td><td>0.04</td></tr><tr><td>HNO3</td><td>0.19</td><td>0.26</td><td>0.35</td><td>0.61</td><td>1.95</td><td>1.64</td><td>1.55</td><td>1.24</td><td>1.23</td><td>1.15</td><td>0.19</td><td>0.26</td></tr><tr><td>pNH4</td><td>0.12</td><td>0.15</td><td>0.21</td><td>0.25</td><td>0.33</td><td>0.26</td><td>0.22</td><td>0.19</td><td>0.17</td><td>0.14</td><td>0.12</td><td>0.15</td></tr><tr><td>pNO3</td><td>0.12</td><td>0.15</td><td>0.21</td><td>0.25</td><td>0.33</td><td>0.26</td><td>0.22</td><td>0.19</td><td>0.17</td><td>0.14</td><td>0.12</td><td>0.15</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4 数据处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "所有试验数据均采用MicrosoftExcel2003软件处理并制图。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 大气氮干沉降中各活性氮浓度及其沉降量月变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究区大气 $\\mathrm { . N H } _ { 3 }$ 人 ${ \\mathrm { H N O } } _ { 3 }$ 、 $\\mathrm { N O } _ { 2 }$ 、 $\\mathsf { p N O } _ { 3 } ^ { - }$ 和 $\\mathsf { p N H } _ { 4 } ^ { + }$ 4年平均浓度分别为 $4 . 1 7 \\mu \\mathrm { g } ( \\mathrm { N } ) { \\cdot } \\mathrm { m } ^ { - 3 }$ 、 $1 . 4 9 ~ { \\mu \\mathrm { g } } ( \\mathrm { N } ) { \\cdot } \\mathrm { m } ^ { - 3 }$ 、$6 . 1 0 ~ \\mathrm { \\mu g } ( \\mathrm { N } ) { \\cdot } \\mathrm { m } ^ { - 3 }$ 、 $2 . 5 8 ~ \\mu \\mathrm { g } ( \\mathrm { N } ) { \\cdot } \\mathrm { m } ^ { - 3 }$ 和 $4 . 1 0 ~ \\mathrm { \\ \\mu g { ( N ) } } { \\cdot } \\mathrm { m } ^ { - 3 }$ ，$\\Nu { \\cal O } _ { 2 }$ 浓度在5种活性氮成分中最高；由于气体和颗粒物的月沉降速率均存在较大差别， $\\mathrm { N H } _ { 3 }$ 、 ${ \\mathrm { H N O } } _ { 3 }$ /$\\mathrm { N O } _ { 2 }$ 号 $\\mathsf { p N O } _ { 3 } ^ { - }$ 和 $\\mathrm { \\ p N H } _ { 4 } ^ { + }$ 沉降量分别为 $4 . 5 0 \\mathrm { k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ $3 . 5 4 \\mathrm { k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ 、 $2 . 5 6 \\mathrm { k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 } .$ 、 $1 . 6 2 \\mathrm { k g } ( \\mathrm { N } )$ $\\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ 和 $2 . 7 5 ~ \\mathrm { { \\ k g ( N ) } { \\cdot } h m } ^ { - 2 } { \\cdot } \\mathrm { { a } } ^ { - 1 }$ 。本试验区氧化态氮$\\mathrm { ( H N O _ { 3 } , N O _ { 2 } }$ 和 $\\mathsf { p N O } _ { 3 } ^ { - } ,$ 沉降略高于还原态氮 $( \\mathrm { N H _ { 3 } } \\mathfrak { F } \\mathrm { \\mathbb { I p N H } _ { 4 } ^ { + } } .$ ）二者之比为 $1 . 0 6 _ { \\circ }$ 大气氮素干沉降通量为 $1 2 . 3 8 { \\sim } 1 8 . 9 5$ $\\mathrm { k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ ，平均达 $1 4 . 9 8 ~ \\mathrm { { \\ k g ( N ) } { \\cdot } \\ h m ^ { - 2 } { \\cdot } a ^ { - 1 } }$ ，占氮素年总沉降通量的 $28 \\text{‰}$ 就各活性氮的干沉降通量来看，该试验点作为农区，表现在气态 ${ \\mathrm { N H } } _ { 3 } { \\mathrm { > N O } } _ { 2 }$ ，颗粒物 $\\mathrm { p N H } _ { 4 } ^ { + } { > } \\mathrm { p N O } _ { 3 \\circ } ^ { - }$ 图1的年际间比较结果表明，研究区4年各月以2011年的氮干沉降量最大，2014年的最小。图2显示除冬季3个月氮干沉降量较小外，其他月份氮干沉降数量差别较小。该区氮干沉降通量除2011年外最大值出现在5月、6月份，尤其以5月份出现最多，而氨气峰值也出现在5月、6月份，说明在施肥较为集中的5、6月份，随之沉降的氮素也增多，可知该区域氮的干沉降主要受农业施肥的影响。进一步分析表明，2011—2015年各月氮干沉降量与氨气沉降量之间存在显著正相关，总相关系数为0.8112(图3)，说明本试验区氨气的沉降在活性氮沉降中占较大比重。尽管 $\\Nu { \\cal O } _ { 2 }$ 沉降量次之，但其与总活性氮沉降之间的相关性未达显著水平。由此可知，该地区活性氮总沉降受农业氨气排放影响较大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2大气氮湿沉降变化及降雨中无机氮之间关系",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "一直以来人们对湿沉降关注较多，研究者发现氮湿沉降与降雨量密切相关，且不同年份之间差别较大。河村2011—2015年降雨量为 $2 8 5 . 2 5 { \\sim } 5 2 3 . 8 7 ~ \\mathrm { m m }$ 雨水中 $\\mathrm { N O } _ { 3 } ^ { - }$ 和 $\\mathrm { | N H _ { 4 } ^ { + } }$ 平均浓度分别为 $3 . 2 0 ~ \\mathrm { \\ m g ( N ) { \\cdot } L ^ { - 1 } }$ 和",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2a22ca7bf79324387c4174b0ddb2a8eeb3f660e68d932b368544c420c559f178.jpg",
+        "img_caption": [
+            "图12011年4月—2015年3月研究区月平均大气氮干沉降量Fig.1Monthly average N dry deposition in the study area from April 20ll to March 20152011年为2011年4月—2012年3月,2012年为2012年4月—2013年3月,2013年为2013年4月—2014年3月,2014年为2014年4月—2015年3月。2011isApr.2011-Mar.2012;2012isApr.2012-Mar.2013;2013isApr.2013-Mar.2014;2014isApr.2014-Mar.2015."
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae8666f7ac79043321bedfb4451291cd9932113366a098486a6e6e26ae4ed77b.jpg",
+        "img_caption": [
+            "图22011年4月—2015年3月研究区不同形态活性氮的月均干沉降量",
+            "Fig.2Monthly dry deposition of different reactive Nforms in the study from April 2011 to March 2015a为2011年4月—2012年3月，b为2012年4月—2013年3月，c为2013年4月—2014年3月，d为2014年4月—2015年3月。 $\\mathsf { p N H } _ { 4 } ^ { + }$ 和 $\\mathsf { p N O } _ { 3 } ^ { - }$ 分别为颗粒态 $\\mathrm { N H _ { 4 } ^ { + } }$ 和 $\\mathrm { N O } _ { 3 \\mathfrak { c } } ^ { - }$ 、a: Apr.2011-Mar.2012;b:Apr.2012-Mar.2013;c:Apr.2013-Mar.2014;d: Apr.2014-Mar.2015. $\\mathsf { p N H } _ { 4 } ^ { + }$ and $\\mathsf { p N O } _ { 3 } ^ { - }$ are $\\mathrm { N H _ { 4 } } ^ { + }$ $\\mathrm { N O } _ { 3 } ^ { - }$ in particle form,respectively."
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$2 . 4 3 \\ : \\ : \\mathrm { \\ m g ( N ) { \\cdot } L ^ { - 1 } }$ ，大气无机态氮湿沉降量为 $1 1 . 6 7 \\sim$ 41.31 $\\mathrm { k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ ，其中 $N O _ { 3 } ^ { - } { - } N$ 沉降量占$3 9 \\% { \\sim } 5 1 \\%$ $\\mathrm { N H } _ { 4 } ^ { + } { - } \\mathrm { N }$ 沉降量占 $4 9 \\% { \\sim } 6 1 \\%$ ，且以2012年氮素年湿沉降量最高，2014年最低(图4),4年氮湿沉降量占各自年总氮沉降量的 $4 9 \\% \\sim 7 2 \\%$ 。本监测点为干旱农区，但从占氮总沉降的份额看，湿沉降量超过 $50 \\%$ ，其旱作区特征不太明显。图5显示2011—2013年每月沉降的 $N { \\cal O } _ { 3 } ^ { - } { - } \\mathrm { N }$ 和 $\\mathrm { N H } _ { 4 } ^ { + } { - } \\mathrm { N }$ 之间显著正线性相关，而2014年这种关系变为二次相关关系。图6进一步表明4年中降雨量分别与 $N O _ { 3 } ^ { - } { - } N$ 和$\\mathrm { N H } _ { 4 } ^ { + } { - } \\mathrm { N }$ 呈显著正线性相关或二次相关关系，相关系数平均分别达0.7815和0.6783，说明 ${ \\mathsf { N O } } _ { 3 } ^ { - } { - } { \\mathsf { N } }$ 和$\\mathrm { N H _ { 4 } ^ { + }  – N }$ 的2/3以上的沉降量取决于降雨量大小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/26270c2431f2a1b1bfd86b0608c70c3d8cca5564fdea6194f4b818a3e58a8fe8.jpg",
+        "img_caption": [
+            "图32011年4月—2015年3月研究区氨月均沉降量与氮月均总沉降量之间关系",
+            "Fig. 4N wet deposition in the study area from Apr.2011 to Mar.2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5f760b29286acb9f6285215c2bba979ba547bd738365ca9ca85ac9529b341a1.jpg",
+        "img_caption": [
+            "图42011年4月—2015年3月研究区年氮素湿沉降变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2011年为2011年4月—2012年3月，2012年为2012年4月—2013年3月，2013年为2013年4月—2014年3月，2014年为2014年4月—2015年3月。2011:Apr.2011-Mar.2012;2012:Apr.2012-Mar.2013；2013:Apr.2013-Mar.2014；2014:Apr.2014-Mar.2015.",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c305ce5a32caea8cd3bd59708a0e1ed52e3e591de7fd5bbaf434e71416c6cbd.jpg",
+        "img_caption": [
+            "Fig.3Relationship between monthly ammonia deposition rate and total N deposition rate from Apr.2011 to Mar.2015 in the study area ",
+            "图52011年4月—2015年3月研究区雨水中 $\\mathbf { N O } _ { 3 } ^ { - } \\mathbf { - N }$ 和 $\\mathbf { N H } _ { 4 } ^ { + }  – \\mathbf { N }$ 月沉降量之间关系Fig.5Relationship between monthly nitrate and ammonia deposition in rainfallfrom Apr.20l1 to Mar.2015a为2011年4月—2012年3月,b为2012年4月—2013年3月,c为2013年4月—2014年3月,d为2014年4月—2015年3月。a: Apr.2011-Mar.2012; b: Apr.2012-Mar.2013;c: Apr.2013-Mar.2014;d: Apr.2014-Mar.2015"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 讨论与结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "大气氮干沉降是大气氮沉降的重要组成部分，其在欧洲占氮沉降量的 $1 0 \\% { \\sim } 9 0 \\% ^ { [ 1 8 ] }$ 。随着研究方法的成熟和重视程度加大，近些年我国各地陆续开始了对干沉降的研究。本研究结果表明，山西省太原市阳曲县凌井店乡河村旱作农业区2011年4月—2015年3月4年大气氮素干沉降通量平均达$1 4 . 9 8 \\mathrm { k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ ，占氮素年总沉降通量的 $28 \\% \\sim$ $51 \\text{‰}$ 监测期内干沉降呈逐年下降趋势，可能与近两年玉米价格走低，农民施肥量投入减少有关。4年各月氮干沉降量与氨气沉降量之间存在显著正相关，相关系数为0.8112，且氨气峰值出现在施肥较为集中的5、6月份。一般认为大气中 $\\mathrm { N H } _ { 4 } ^ { + } { - } \\mathrm { N }$ 主要来自土壤、肥料和家畜粪便中 $\\mathrm { N H } _ { 4 } ^ { + } { - } \\mathrm { N }$ 的挥发和含氮有机物的燃烧[19-20], $N O _ { 3 } ^ { - } { - } N$ 主要来自工业活动和汽车尾气的排放及氮的自然氧化(如雷击)[21]。刘杰云等[22]也认为其他排放源如养殖场外和交通源释放的氨气一般在高温季7、8月份浓度较高。由此可知，该区域氮的干沉降主要受氨气排放影响较大。 $\\mathrm { \\Delta X u }$ 等[16]对全国大气活性氮的监测也得出类似的结论，表明$\\mathrm { N H } _ { 3 }$ 和 $\\Nu { \\cal O } _ { 2 }$ 的年排放量和各自的沉降量呈极显著的正相关。另外，4年监测期间 $\\mathrm { N H _ { 3 } / N O _ { 2 } }$ 的年均摩尔浓度比为1.9，其比值 $_ { > 1 }$ ，说明农业源的贡献较大[23]。采样区周围没有任何广矿污染源，活性氮排放源单一，综合考虑该区域农业施用氮肥对氮的",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/58bf1a9f7f5c2970ada0ca63c63fdfd96e526c81985b4c6a9dd1faabc2014ef9.jpg",
+        "img_caption": [
+            "图62011年4月—2015年3月研究区湿沉降中 $\\mathbf { N O } _ { 3 } ^ { - } \\mathbf { - N }$ 和 $\\mathbf { N H } _ { 4 } ^ { + }  – \\mathbf { N }$ 月沉降量分别与降雨量间关系Fig.6Relationship between monthly nitrate or ammonia depositionand rainfallfrom Apr.201l to Mar.2015a为2011年4月—2012年3月,b为2012年4月—2013年3月,c为2013年4月—2014年3月,d为2014年4月—2015年3月。a: Apr.2011-Mar.2012; b: Apr.2012-Mar.2013;c: Apr.2013-Mar.2014;d: Apr.2014-Mar.2015"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "干沉降影响较大。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "虽然是旱作区，该地区有些年份氮素干沉降低于湿沉降，湿沉降占各自年总氮沉降量的$4 9 \\text{‰}$ 而2010年在山西省古城镇的研究表明氮的干沉降是湿沉降的3倍[24]，陕西省不同生态区氮素沉降研究认为氮湿沉降占到 $62 \\%$ 以上[25-26]。此外,与国内的一些研究相比，本研究降雨中无机氮 $\\mathrm { N O } _ { 3 } ^ { - }$ 和 $\\mathrm { N H } _ { 4 } ^ { + }$ 平均浓度分别为 $3 . 2 0 \\mathrm { m g ( N ) { \\cdot } L ^ { - 1 } }$ 和 $2 . 4 3 \\mathrm { m g ( N ) { \\cdot } L ^ { - 1 } }$ 高于东部及南部的一些研究结果[27]，大气湿沉降除2012年外其余年份均低于广东肇庆森林采样点、浙江农田区域以及上海、广州等地[28-30]。相对于北方地区(华北、东北、西北地区)降雨输入的氮量$5 . 1 { \\sim } 2 5 . 4 \\ \\mathrm { k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ 而言，本研究区有些年份高于上限值 $2 5 . 4 \\ \\mathrm { k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 [ 3 1 - 3 4 ] }$ 。同其他研究者结果类似，降雨量分别与 ${ \\tt N O } _ { 3 } ^ { - } { \\tt - N }$ 和 $\\mathrm { N H } _ { 4 } ^ { + } { - } \\mathrm { N }$ 呈显著的正线性相关或二次相关关系，相关系数平均分别达0.7815和0.6783，所以降雨量显著影响氮素的湿沉降[26,35-36]。雨水中 ${ \\mathsf { N O } } _ { 3 } ^ { - } { \\mathsf { - N } }$ 和 $\\mathrm { N H } _ { 4 } ^ { + } { - } \\mathrm { N }$ 分别呈线性和二次正相关,可以推测 $N { \\cal O } _ { 3 } ^ { - } { - } \\mathrm { N }$ 和 $\\mathrm { N H } _ { 4 } ^ { + }$ -N 在雨水中以某种稳定的物质存在。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过太原市郊区阳曲县河村(4年)大气氮输入的定期监测，研究显示，平均湿沉降 $\\mathrm { N H _ { 4 } ^ { + } { - N } , N O _ { 3 } ^ { - } { - N } }$ 及干沉降 $\\mathrm { N H } _ { 3 }$ 、 ${ \\mathrm { H N O } } _ { 3 }$ 、 $\\Nu { \\cal O } _ { 2 }$ 、 $\\mathsf { p N H } _ { 4 } ^ { + }$ 、 $\\mathsf { p N O } _ { 3 } ^ { - }$ 分别占沉降量的 $2 6 . 7 \\%$ 、 $3 3 . 4 \\%$ 、 $12 . 0 \\%$ 、 $9 . 4 \\%$ 、 $6 . 8 \\%$ 、 $7 . 3 \\%$ 和 $4 . 3 \\%$ ，平均干沉降占总沉降量的 $3 9 . 9 \\text{‰}$ 大气氮素干沉降量为 $1 2 . 3 8 { \\sim } 1 8 . 9 5 \\ \\mathrm { k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ ，湿沉降量为$1 1 . 6 7 { \\sim } 4 1 . 3 1 \\ \\mathrm { k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ 。总沉降量平均值略低于全国 43个点的平均大气氮干、湿沉降 $3 9 . 9 ~ \\mathrm { { \\ k g ( N ) } }$ $\\mathrm { { h m } } ^ { - 2 } { \\cdot } \\mathrm { { a } } ^ { - 1 [ 1 6 ] }$ ，也低于有的南方城市采样点，例如雷州半岛典型农田大气氮沉降总量达 $4 2 . 9 \\mathrm { k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 [ 3 7 ] } \\phantom { . }$ 。但稍高于湖南亚热带地区森林，农田的大气氮沉降(包括干沉降和湿沉降)为 $2 2 { \\sim } 5 5 \\mathrm { k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 [ 1 5 ] } ,$ 。尽管有些地区显示湿沉降占 $9 0 . 4 \\%$ 以上[25]，但是，随着人们对大气活性氮干沉降研究的逐渐增多，已有研究结果表明氮素干沉降在其总沉降中占有很大比重[26]，本研究也证实这一结论。此外，本研究大气氮素干沉降速率采用中国农业大学与北京大学合作研究模型计算得出，相对于以前研究计算出的各活性氮干沉降量准确性更高些。总之,4年大气氮总沉降平均值 $3 8 . 9 \\mathrm { k g ( N ) }$ $\\mathrm { { h m } } ^ { - 2 } { \\cdot } \\mathrm { { a } } ^ { - 1 }$ 已远超氮沉降对陆地生态系统影响警戒线10$\\mathrm { k g ( N ) \\cdot h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ ，目前该区域氮的沉降将会对农田生态系统养分循环产生较大影响[38-39]。本监测有助于该地区农田施用氮肥或监测氮素循环时合理估算大气输入的氮素。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献References",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]Compton JE,Harrison JA,Dennis RL,et al.Ecosystem services altered by human changes in the nitrogen cycle:A new perspective for US decision making[J].Ecology Letters,2011, 14(8): 804-815   \n[2]Cui S H,Shi Y L,Groffman P M,et al.Centennial-scale analysis of the creation and fate of reactive nitrogen in China (1910-20lO)[J].Proceedings of the National Academy of Sciences of the United States of America,2013,110(6): 2052-2057   \n[3]Liu X J,Duan L,Mo JM,et al.Nitrogen deposition and its ecological impact in China:An overview[J].Environmental Pollution,2011,159(10):2251-2264   \n[4] Galloway JN, Dentener F J, Capone D G,et al. Nitrogen cycles:Past,present,and future[J].Biogeochemistry,2004, 70(2): 153-226   \n[5]Gu B J,Ju X T,Chang J,et al. Integrated reactive nitrogen budgets and future trends in China[J].Proceedings of the National Academy of Sciences of the United States of America, 2015,112(28):8792-8797   \n[6]张卫峰，马林，黄高强，等．中国氮肥发展、贡献和挑战[J]. 中国农业科学,2013,46(15):3161-3171 Zhang W F,Ma L,Huang G Q,et al. The development and 46(15): 3161-3171   \n[7] Liu X J,Zhang Y,Han W X,et al. Enhanced nitrogen deposition over China[J]. Nature,2013,494(7438): 459-462   \n[8]鲁如坤，史陶钧．金华地区降雨中养分含量的初步研究[J]. 土壤学报,1979,16(1):81-84 Lu R K,Shi T J. The content of plant nutrients of precipitation in Jin-hua District of Zhejiang Province[J].Acta Pedologica Sinica,1979,16(1): 81-84 [9]丁国安，徐晓斌，王淑凤，等．中国气象局酸雨网基本资料 数据集及初步分析[J]．应用气象学报,2004,15(S):85-94 Ding G A,Xu X B,Wang S F,et al. Database from the acid rain network of China meteorological administration and its preliminary analyses[J]. Journal of Applied Meteorological Science,2004,15(S): 85-94   \n[10]刘学军，张福锁．环境养分及其在生态系统养分资源管理 中的作用：以大气氮沉降为例[J]．干旱区研究,2009,26(3): 306-311 Liu X J, Zhang F S. Nutrient from environment and its effect in nutrient resources management of ecosystems:A case study on atmospheric nitrogen deposition[J]. Arid Zone Research,2009,26(3):306-311   \n[11]王小治，朱建国，高人，等．太湖地区氮素湿沉降动态及生 态学意义：以常熟生态站为例[J]．应用生态学报，2004, 15(9):1616-1620 Wang X Z, Zhu JG, Gao R,et al. Dynamics and ecological significance of nitrogen wet-deposition in Taihu Lake region - Taking Changshu agro-ecological experiment station as an example[J].Chinese Journal of Applied Ecology，2004，15(9): 1616-1620   \n[12]赵鹏，朱彤，梁宝生，等．北京郊区农田夏季大气颗粒物质量 和离子成分谱分布特征[J].环境科学,2006,27(2):193-199 Zhao P, Zhu T,Liang B S,et al. Characteristics of mass distributions of aerosol particle and its inorganic water soluble ions in summer over a suburb farmland in Beijing[J]. Environmental Science,2006,27(2): 193-199   \n[13] 许稳，金鑫，罗少辉，等．西宁近郊大气氮干湿沉降研究[J]. 环境科学,2017,38(4),doi:10.13227/j.hjkx.201609237 Xu W,Jin X,Luo S H,et al. Dry and bulk nitrogen deposition in suburbs of Xining City[J]. Environmental Science,2017, 38(4),doi: 10.13227/j.hjkx.201609237   \n[14] Tang Y S,Simmons I, van Dijk N,et al. European scale application of atmospheric reactive nitrogen measurements in a low-cost approach to infer dry deposition fluxes[J].Agriculture,Ecosystems & Environment, 2009,133(3/4):183-195   \n[15] Shen JL,Li Y,Liu X J,et al. Atmospheric dry and wet nitrogen deposition on three contrasting land use types of an agricultural catchment in subtropical central China[J].Atmospheric Environment,2013,67: 415-424   \n[16] $\\mathrm { X u ~ W }$ ,Luo X S,Pan Y P,et al. Quantifying atmospheric nitrogen deposition through a nationwide monitoring network across China[J].Atmospheric Chemistry and Physics,2015, 15: 12345-12360   \n[17] Liu X J,Ju X T,Zhang Y,et al.Nitrogen deposition in agroecosystems in the Beijing area[J].Agriculture,Ecosystems & Environment,2006,113(1/4): 370-377   \n[18] Erisman J,Hensen A,Fowler D,et al.Dry deposition monitoring in Europe[J].Water,Air and Soil Pollution:Focus, 2001, 1(5/6): 17-27   \n[19]DentenerF J,Crutzen PJ.A three-dimensional model of the global ammonia cycle[J]. Journal of Atmospheric Chemistry, 1994, 19(4): 331-369   \n[20] Jenkinson D S.An introduction to the global nitrogen cycles[J]. Soil Use and Management,1990,6(2): 56-61   \n[21]周薇，王兵，李钢铁．大气氮沉降对森林生态系统影响的 研究进展[J]．中央民族大学学报：自然科学版,2010,19(1): 34-40 Zhou W，Wang B,Li G T. Progress on the impact of atmospheric nitrogen deposition on forest ecosystems[J]. Journal of MUC: Natural Sciences Edition, 2010,19(1): 34-40   \n[22]刘杰云，况福虹，唐傲寒，等．不同排放源周边大气环境中 $\\mathrm { N H } _ { 3 }$ 浓度动态[J]．生态学报,2013,33(23):7537-7544 Liu JY,Kuang F H, Tang A H,et al. Dynamics of atmospheric ammonia concentrations near different emission sources[J].Acta Ecologica Sinica,2013,33(23): 7537-7544   \n[23] Xu W, Zheng K, Liu XJ,et al. Atmospheric $\\mathrm { N H } _ { 3 }$ dynamics at a typical pig farm in China and their implications[J].Atmospheric Pollution Research,2014,5(3): 455-463   \n[24]刘平，刘学军，骆晓声，等．山西北部农村区域大气活性氮 沉降特征[J].生态学报,2016,36(17):5353-5359 Liu P, Liu X J, Luo $\\mathrm { ~ x ~ s ~ }$ ，et al.The atmospheric deposition characteristics of reactive nitrogen (Nr） species in Shuozhou area[J].Acta Ecologica Sinica,2016,36(17): 5353-5359   \n[25]魏样，同延安，段敏，等．陕北典型农区大气干湿氮沉降季 节变化[J].应用生态学报,2010,21(1):255-259 Wei Y,Tong Y A,Duan M,et al. Atmospheric dry and wet nitrogen deposition in typical agricultural areas of North Shaanxi[J]. Chinese Journal of Applied Ecology,2010,21(1): 255-259   \n[26] 梁婷，同延安，林文，等．陕西省不同生态区大气氮素干湿 沉降的时空变异[J]．生态学报,2014,34(3):738-745 Liang T,Tong Y A,Lin W,et al. Spatial-temporal variability of dry and wet deposition of atmospheric nitrogen in different ecological regions of Shaanxi[J]. Acta Ecologica Sinica, 2014, 34(3): 738-745   \n[27] Yang R,Hayashi K, Zhu B,et al. Atmospheric $\\mathrm { N H } _ { 3 }$ and $\\Nu { \\bf O } _ { 2 }$ （20 concentration and nitrogen deposition in an agricultural catchment of Eastern China[J]. Science of the Total Environment,2010,408(20): 4624-4632   \n[28] Fang Y T,You M, Koba K,et al. Nitrogen deposition and forest nitrogen cycling along an urban-rural transect in southern China[J]. Global Change Biology,2011,17(2): 872-885   \n[29]陈义，唐旭，杨生茂，等．杭州稻麦菜轮作地区大气氮湿沉 降[J]．生态学报,2009,29(11):6102-6109 Chen Y, Tang X, Yang S M, et al. Atmospheric N wet deposition in Hangzhou region under rice-wheat-vegetable cropping system[J]. Acta Ecologica Sinica,2009，29(11): 6102-6109   \n[30] Yu W T, Jiang C M, Ma Q,et al. Observation of the nitrogen deposition in the lower Liaohe River Plain,Northeast China and assessing its ecological risk[J].Atmospheric Research, 2011,101(1/2): 460-468   \n[31] 李生秀，寸待贵，高亚军，等．黄土旱塬降水向土壤输入的 氮素[J]．干旱地区农业研究,1993,11(S):83-92 Li S X, Cun D G, Gao Y J,et al. Mineral nitrogen introduced into soil by precipitation on Loess dry land[J].Agricultural Research in the Arid Areas,1993,11(S): 83-92   \n[32] 吴刚，冯宗炜，王效科，等．黄淮海平原农林生态系统 N、 P、K 营养元素循环——以泡桐-小麦、玉米间作系统为例[J]. 应用生态学报,1993,4(2):141-145 Wu G,Feng Z W,Wang X K,et al.N,Pand K recyclings in an agroforestrial ecosystem of Huanghuaihai Plain: With Paulownia elongata-intercropped wheat and maize as an example[J]. Chinese Journal of Applied Ecology,1993,4(2): 141-145   \n[33]罗良国，闻大中，沈善敏．北方稻田生态系统养分平衡研 究[J]．应用生态学报,1999,10(3):301-304 Luo LG,Wen D Z,Shen S M.Nutrient balance in rice field ecosystem of northern China[J]. Chinese Journal of Applied Ecology,1999,10(3): 301-304   \n[34]李世清，李生秀．陕西关中湿沉降输入农田生态系统中的 氮素[J]．农业环境保护,1999,18(3):97-101 Li S Q,Li S X. Nitrogen added to ecosystems by wet deposition in Guanzhong Area in Shaanxi[J].Agro-Environmental Protection, 1999,18(3): 97-101   \n[35]张颖，刘学军，张福锁，等．华北平原大气氮素沉降的时空 变异[J].生态学报,2006,26(6):1633-1639 Zhang Y,Liu X J, Zhang F S,et al. Spatial and temporal variation of atmospheric nitrogen deposition in North China Plain[J]. Acta Ecologica Sinica,2006,26(6): 1633-1639   \n[36] 郑祥洲，张玉树，丁洪，等．闽西北农田生态系统中大气氮 湿沉降研究[J]．水土保持学报,2012,26(3):127-130 Zheng X Z，Zhang Y S，Ding H，et al． Nitrogen wet-deposition in agro-ecosystem of northwestern Fujian Province[J]. Journal of Soil and Water Conservation, 2012, 26(3): 127-130   \n[37]骆晓声，石伟琦，鲁丽，等．我国雷州半岛典型农田大气氮 沉降[J].生态学报,2014,34(19):5541-5548 Luo X S, Shi W Q,Lu L,et al. Nitrogen deposition in typical cropland in the Leizhou Peninsula, China[J].Acta Ecologica Sinica,2014,34(19): 5541-5548   \n[38] Krupa S V.Effects of atmospheric ammonia $( \\mathrm { N H } _ { 3 } ) ^ { . }$ ）on terrestrial vegetation: A review[J]. Environmental Pollution, 2003,124(2): 179-221   \n[39] Chan C K,Yao X H. Air pollution in mega cities in China[J]. Atmospheric Environment,2008,42(1):1-42 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

@@ -1,0 +1,698 @@
+[
+    {
+        "type": "text",
+        "text": "融合全局与局部视角的光场超分辨率重建 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "邓武，张旭东，熊伟，汪义志(合肥工业大学 计算机与信息学院，合肥 230601)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对光场相机结构和像素传感器分辨率的限制导致光场图像空间分辨率和角度分辨率都较低的问题，提出一种融合全局与局部视角的光场超分辨率重建算法，同时提高光场图像的空间分辨率和角度分辨率。首先根据待重建新视角的位置，自适应选择局部视角，利用空间超分辨率卷积神经网络提高全局视角和局部视角的空间分辨率，然后提取并融合全局视角和局部视角在新视角处映射图像的深度特征和颜色特征，通过角度分辨率卷积神经网络重建获得新视角图像。实验结果表明，与现有方法相比，峰值信噪比(PSNR)提高约3dB，结构相似性指数(SSIM)提高约0.02，有效地解决了遮挡情况下重建新视角局部目标丢失现象，同时更好地保持新视角的边缘信息，获得更优的重建效果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：超分辨率重建；光场；卷积神经网络；自适应；全局视角；局部视角 中图分类号：TP391.41 doi:10.3969/j.issn.1001-3695.2017.12.0835 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Light field super-resolution using global and local multi-views ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Deng Wu, Zhang Xudong, Xiong Wei, Wang Yizhi (School ofComputer&Information,Hefei UniversityofTechnology,Hefei 23ooo9,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The spatialandangularresolutionarecomparativelylowowing tothe limitationoftheresolutionofits pixelsensor which is due todesign reasons.To adressthe above problem,this paper presentedanew super-resolutionmethod based on globalandlocal views tosimultaneouslyenhanceboththespatialandangularresolutionsofalightfieldimage.Fistofll,it adaptivelychose local views acording to the positionof the novel view,and thenused spatial super-resolution convolution neuralnetworktogethighresolutionsub-imagessuchas global-viewandlocal-viewimages,subsequentlyitextractedad fused thedepthandcolorfeatures fromtheimageobtainedbybackward warping theinput views.Thenputtheresults intothe angular super-resolution network whichproducedanovelview imageas thefinalresult.Theexperimentalresults demonstrate thatthe reconstructionefectof this methodissuperor tothestate-of-th-art's.And inpeak signalto noiseratioget3dBpromotionand structuralsimilarityimage measureupgradeabout0O2.Iaddition,it is notonlyable to improve spatialandangularrsolution of multi-viewimages,butalsotomaintaiedgeinformationofthenovelview,thuseffectivelyavoidingthelossofobjectsand yielding a better reconstruction effect. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: super-resolution; light field; convolution neural network; adaptive; global views; local views ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着光场成像技术的发展，光场相机[1作为一种新型的多视角成像设备成为计算成像领域的研究热点。光场相机的基本原理是在主透镜和像素传感器中间插一个微透镜阵列，通过一次曝光可以获得2D空间信息和2D角度信息。相比于传统相机，光场相机具有先拍照后聚焦的独特优势，在显著性检测[2]、深度估计[3]、三维重建[4等方面得到广泛应用。但是由于光场相机结构和像素传感器分辨率的限制，光场数据多出的2D角度信息是以牺牲一定的空间分辨率为代价的，两者之间存在一个折中。目前，光场商业相机如Lytro、Lytro illum[5]和Raytrix 都具有较低的角度分辨率，且其空间分辨率也低于传统相机,导致光场稀疏采样问题[6]，因此，同时提高光场图像的空间分辨率和角度分辨率对于充分发挥光场相机的优势，具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由于光场相机采集到的光场信息具有较多的冗余信息和先验信息，这使得利用超分辨率重建技术(super-resolutionreconstruction，SR)来提高光场图像的分辨率存在可能。光场的超分辨率重建分为空间超分辨率重建和角度超分辨率重建。2009年，Bishop等人[7]利用深度图和精确的相机内部参数对光场相机逐层建模，并在贝叶斯框架下应用盲反卷积方法重建高分辨率光场全聚焦图像。然而，该方法对微透镜图像直接进行重建，忽略了光场图像的角度分辨率。2012年，Mitra等人[8分析了四维光场图像块的低秩性和图像块视差之间的关系，提出以混合高斯模型作为先验来提高光场图像的分辨率。但该方法仅适合漫反射场景，并且图像块需要取得足够小，从而忽略深度不连续的影响。2014年，Wanner等人[9]提出在全变分框架下，通过计算光场EPI(epipolarplane image)获取全视角图像的深度信息，将贝叶斯框架下的MAP估计作为数据项，全变分模型作为能量函数的先验模型，对四维光场数据进行空间分辨率和角度分辨率的重建。其重建对象是所有的光场多视角图像，由于不需要精确的几何关系和相机内部参数，在一定程度上损失了重建图像的边缘信息。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，深度学习尤其是卷积神经网络(convolutionalneuralnetwork，CNN)成功应用于图像超分辨率重建[10\\~13]中。2014年，Dong等人[10]首次提出了基于卷积神经网络的图像超分辨率重建方法，分析了传统的稀疏编码和深度学习的SR技术的等价性，将CNN用于单幅图像的超分辨率重建。2016年，Yoon 等人[11]首次提出的基于CNN对光场图像进行空间、角度超分辨率重建，利用了待重建视角周围的相邻视角，只能在相邻多视角图像之间合成新视角图像，不能在任意位置合成新视角。2016年，Nima等人[13]提出的基于CNN的光场图像角度分辨率重建方法，通过级联卷积神经网络分别估计新视角处的深度信息和颜色信息，来合成光场新视角图像。但该方法未提高新视角的空间分辨率，且仅使用四幅角点视角作为输入，对于复杂场景如遮挡，当角点视角对应的映射图像缺失有效信息时，会造成合成的新视角图像局部信息丢失。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对上述问题，本文提出一种融合全局与局部视角的光场超分辨率重建算法，可以同时提高光场图像的空间分辨率和角度分辨率。鉴于商业光场相机采集的光场图像，其相邻多视角之间具有较大相关性，利用待重建新视角周围的视角信息，采用全局视角和局部视角相结合的方式，可以解决遮挡情况下局部信息丢失问题。实验结果在定性和定量两个方面都验证了，本文提出的超分辨率重建算法在结果图像中能够保持较好的效果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 光场相机成像原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "空间中，每一个点和每一个方向的辐射函数的总和就是光场[14]。微透镜阵列式光场相机成像原理如图1所示，在主透镜和像素传感器之间插入一个微透镜阵列，物体上某一点反射的光线经主透镜聚焦到微透镜阵列上，然后通过微透镜阵列将光线按照入射方向分散到像素传感器上，因此像素传感器在记录场景空间信息的同时也记录了角度信息。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "与传统相机不同的是，微透镜阵列中每一个微透镜在像素传感器上形成对应的子孔径图像，每一个子孔径图像都记录了来自目标物某一点不同方向的光线，从所有子孔径图像中选取同一方向的像素，即可得到该方向的完整图像，从而可以获得多视角图像。如图2所示，每一幅视角图像表示从st平面上所有同方向点到uv平面上对应点的光线的集合。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/206149178ec49a66c432f43eaf6577a5a8b7080ffa1d44196835c6166e872c81.jpg",
+        "img_caption": [
+            "图1光场相机的成像模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/de65641de8a47cdafa92a8800b8808f1df81077294a696b14172adec81aed173.jpg",
+        "img_caption": [
+            "图2光场多视角图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于像素传感器的分辨率是固定的，每个微透镜记录光线对应相同位置不同角度的场景图像，这使得像素传感器的大部分像素用来记录方向信息，获得较大角度分辨率，导致空间分辨率较低。光场相机通过牺牲空间分辨率获取角度信息，其空间分辨率和普通相机相比低很多，角度分辨率也达不到实际应用需求。因此，本文通过超分辨率重建的方法，提高光场图像的空间分辨率和角度分辨率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 本文方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文的光场超分辨率重建旨在合成具有高空间分辨率的任意位置新视角图像。现有新视角合成方法都是通过已有视角来合成一个新的视角，主要分为：a)利用所有的光场多视角图像来重建一幅新视角图像，其重建新视角图像时间效率较低，平坦边缘区域容易产生阶梯效应；b)利用相邻局部多视角图像来重建一幅新视角图像，由于光场相机基线窄，局部视角方向信息很小，未考虑新视角位置的不同，局部视角选取问题，导致重建结果局部位置噪声较大，边缘模糊；c)利用全局视角来重建一幅新视角图像，时间效率较高，重建结果较好，但在遮挡情况下，会造成新视角图像局部信息丢失现象。综合考虑时间效率和遮挡情况，本文提出融合全局与局部视角的光场超分辨率重建算法。利用全局视角视差大，包含的角度信息大的特点，可以合成全局视角范围内任意位置的多视角图像；同时，结合局部视角和待重建新视角的相关性，可以解决遮挡情况下新视角图像局部信息丢失问题并且合成一幅新视角图像的效率较高在选取局部视角时，根据局部视角和待重建新视角的相对位置关系，自适应选择局部视角。图3所示为使用不同视角的重建结果，其中图3(a)左上角为全局与局部视角示意图，每个方框代表一幅多视角图像，红色框表示全局视角，绿色框表示待重建新视角，蓝色框表示局部视角,右下角为局部放大真值；图3(b)为使用相邻局部多视角的重建结果，图3(c)为使用所有多视角的重建结果，图3(d)为使用全局多视角的重建结果，图3(e)为采用全局与局部视角的重建结果，可以看出，本文的算法的结果较好，避免了仅使用全局、局部和所有视角造成的局部信息缺失、边缘模糊和阶梯效应等问题。本文的算法整体框架如图4 所示。为了合成高分辨率新视角图像，首先使用空间超分辨率卷积神经网络提高输入多视角图像的像素分辨率，得到高分辨率多视角图像；然后利用角度超分辨率卷积神经网络分别估计待重建新视角处的深度信息和颜色信息，通过融合全局视角和局部视角信息，优化其深度估计和颜色估计的精度，从而合成高质量的新视角图像。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文算法主要步骤为：a)对光场原始数据进行预处理操作，解码重构出多视角图像，获取低分辨率全局视角图像和局部视角图像；b)为了得到高分辨率的全局视角图像和局部",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "视角图像，采用卷积神经网络提高全局视角图像和局部视角图像的空间分辨率；c将步骤b)得到的高分辨率全局视角图像和局部视角图像映射到待重建新视角位置，从映射图像中提取深度特征和颜色特征，利用角度超分辨率卷积神经网络，分别估计待重建新视角的深度信息和颜色信息，最终合成新视角图像。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6def5f295db21e0c7157037d9153db59f3b7901c04f16ba05384d44c181b93c5.jpg",
+        "img_caption": [
+            "图3使用不同视角重建结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d5b4d48662d4a880c523e73af1abf19f8a13bb00ad778fa4d58e4a760b2070e.jpg",
+        "img_caption": [
+            "图4本文算法整体框架"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1光场数据预处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用Lytroillum相机获取的光场数据包含目标物同一位置不同方向的信息，为了重构出该目标物不同方向的多视角图像，通过lytro-power-tools 解码原始光场数据，获得多视角图像。由于光场基线窄，光场相邻多视角图像之间的视差较小，其相关性较大，因此本文充分利用相邻光场多视角图像之间的相关性信息，融合全局视角和局部视角信息，重建出高分辨率的新视角图像。根据和待重建新视角的相对位置关系，分以下九种情况自适应选择局部视角。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$d x \\leq { \\frac { w } { 4 } } , \\ d y \\leq { \\frac { h } { 4 } }$ 时，",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL ( i , j ) = \\left\\{ C ( i - 1 , j ) , C ( i + 1 , j ) , C ( i , j - 1 ) , C ( i , j + 1 ) \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)当 $\\frac { w } { 4 } < d x \\leq \\frac { w } { 2 }$ $\\frac { h } { 4 } < d y \\leq \\frac { h } { 2 }$ <ʰ且Nx<Cx(i,j)，N,<C,(i,j）时，，$L ( i , j ) = \\left\\{ C ( i - 1 , j - 1 ) , C ( i - 1 , j ) , C ( i , j ) , C ( i , j - 1 ) \\right\\}$   \n(3)当 $\\frac { w } { 4 } < d x \\leq \\frac { w } { 2 }$ $\\frac { h } { 4 } < d y \\leq \\frac { h } { 2 }$ ≤ʰ且N<C(,j),N,>Ci,j时,，$L ( i , j ) = \\left\\{ C ( i - 1 , j ) , C ( i - 1 , j + 1 ) , C ( i , j + 1 ) , C ( i , j ) \\right\\}$   \n(4) 当 $\\frac { w } { 4 } < d x \\leq \\frac { w } { 2 } , \\frac { h } { 4 } < d y \\leq \\frac { h } { 2 }$ 且 $N _ { x } > C _ { x } ( i , j ) , N _ { y } < C _ { y } ( i , j )$ 时,$L ( i , j ) = \\left\\{ C ( i , j - 1 ) , C ( i , j ) , C ( i + 1 , j ) , C ( i + 1 , j - 1 ) \\right\\}$   \n(5) 号 $\\frac { w } { 4 } < d x \\leq \\frac { w } { 2 } , \\frac { h } { 4 } < d y \\leq \\frac { h } { 2 }$ 且 $N _ { x } > C _ { x } ( i , j ) , N _ { y } > C _ { y } ( i , j )$ 时，$L ( i , j ) = \\left\\{ C ( i , j ) , C ( i , j + 1 ) , C ( i + 1 , j + 1 ) , C ( i + 1 , j ) \\right\\}$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(6)当dx≤ $d x \\leq \\frac { w } { 4 } , \\frac { h } { 4 } < d y \\leq \\frac { h } { 2 }$ 且 $N _ { _ { y } } < C _ { _ { y } } ( i , j )$ 时, ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL ( i , j ) = \\left\\{ { { C ( i - 1 , j - 1 ) , C ( i , j - 1 ) , C ( i + 1 , j - 1 ) , } } \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（7） 当dx≤ $d x \\leq \\frac { w } { 4 } , \\frac { h } { 4 } < d y \\leq \\frac { h } { 2 }$ 且 $N _ { \\mathrm { } _ { y } } > C _ { \\mathrm { } _ { y } } ( i , j )$ 时，",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL ( i , j ) = \\left\\{ { { C ( i - 1 , j - 1 ) , C ( i , j ) , C ( i + 1 , j ) , } \\atop { C ( i - 1 , j + 1 ) , C ( i , j + 1 ) , C ( i + 1 , j + 1 ) } } \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(8) 当 $\\frac { w } { 4 } < d x \\leq \\frac { w } { 2 } \\ , d y \\leq \\frac { h } { 4 }$ 且 $N _ { x } < C _ { x } ( i , j )$ 时，",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL ( i , j ) = \\left\\{ { { C ( i - 1 , j - 1 ) , C ( i - 1 , j ) , C ( i - 1 , j + 1 ) , } } \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(9) 当 $\\frac { w } { 4 } < d x \\leq \\frac { w } { 2 } \\ , d y \\leq \\frac { h } { 4 }$ 且 $N _ { x } > C _ { x } ( i , j )$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL ( i , j ) = \\left\\{ \\begin{array} { l } { { C ( i , j - 1 ) , C ( i , j ) , C ( i , j + 1 ) , } } \\\\ { { C ( i + 1 , j + 1 ) , C ( i + 1 , j ) , C ( i + 1 , j + 1 ) } } \\end{array} \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $N _ { x }$ 表示待重建新视角中心点的横坐标， $N _ { y }$ 表示待重建新视角中心点的纵坐标， $C ( i , j )$ 表示距离待重建新视角中心点坐标最近的多视角， $C _ { x } ( i , j )$ 表示距离待重建新视角中心点坐标最近的多视角中心点的横坐标， $C _ { y } ( i , j )$ 表示距离待重建新视角中心点坐标最近的多视角中心点的纵坐标， $d x { = } \\big | N _ { x } { - } C _ { x } ( i , j ) \\big |$ ，$d y = \\left| N _ { y } - C _ { y } ( i , j ) \\right|$ ， $w$ 表示多视角图像的宽， $h$ 表示多视角图像的高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图5(a)所示，图中蓝色框表示待重建新视角，黄色框表示局部视角。选取边长为多视角图像宽高的一半，中心点与多视角图像中心点重合的矩形区域作为局部视角选择参考窗，如图5(b)绿色区域所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cc1c2abebb53dcca42358e8168cda39f7b768b41ec56803744eea98dcab15c53.jpg",
+        "img_caption": [
+            "图5全局视角与局部视角"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2空间超分辨率卷积神经网络",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了提高光场数据预处理后得到的低分辨率全局视角和局部视角图像的空间分辨率，使用基于学习的空间超分辨率卷积神经网络来提高其空间分辨率，得到高分辨率的全局视角和局部视角图像。网络模型类似于文献[12],但输入输出为n幅全局视角图像或者局部视角图像(n为4或者6)，通过深层网络对低分辨率图像块到高分辨率图像块之间映射关系建模，结构如图6所示。该网络将阶数较小的卷积核多次级联，充分利用低分辨率和高分辨率较大图像区域的上下文信息，获取它们之间的相关性信息，从而得到低分辨率图像到高分辨率图像之间的映射关系。将低分辨率的全局视角和局部视角图像输入空间超分辨率卷积神经网络，获得高分辨率的视角输出。空间超分辨率卷积神经网络有20个权值层，该网络第一层包含64个卷积核，尺寸为 $3 \\times 3 \\times \\mathrm { n }$ ，即每个卷积核和输入的四幅光场多视角图像做卷积操作，生成64个通道(特征图)；第二层至第十九层的配置参数都一样,包含64个卷积核，尺寸为 $3 \\times 3 \\times 6 4$ ，即每个卷积核和上一层的64通道中的 $3 { \\times } 3$ 区域做卷积操作；最后一层包含 $\\mathfrak { n }$ 个卷积核，尺寸为 $3 \\times 3 \\times 6 4$ ，用来图像重建，得到高分辨率",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "多视角图像。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "前十九个卷积层后各连接一个Relu 激活层。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/00ad384f4add1ed11df3c0a6b9de0d94f711c494bac82d4932ccad5ad612cc85.jpg",
+        "img_caption": [
+            "图6空间超分辨率卷积神经网络"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3角度超分辨率卷积神经网络 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了合成新视角，一般方法[9],[15-16]是先估算输入视角图像的深度信息，然后使用该深度信息将输入视角图像映射到待重建新视角位置，最后对映射图像进行操作（如加权）获得新视角图像。如图7所示，相机 $c _ { i }$ 从两个不同方向对物体面 $\\Sigma$ 拍摄成像于 $\\Omega _ { i }$ 平面的 $x ^ { \\prime }$ 和 $x$ 两点，利用深度估计算法得到输入多视角图像的深度图 $\\pmb { d }$ ，根据该深度图可知多视角图像平面 $\\Omega _ { i }$ 上的点 $x$ 和物体表面≥上的点 $p$ 呈一一对应关系。由于光场相机超分辨率重建的新视角图像所在平面r与输入的多视角图像平面$\\Omega _ { i }$ 往往在同一平面上，并且转移函数 ${ \\pmb { \\tau } } _ { i }$ 跟深度图有关，其中$\\pmb { \\tau } _ { i } ( x ) = x + \\pmb { d } _ { i } ( x ) ( c - c _ { i } )$ ，因此将输入视角图像通过视角转移函数映射到待重建新视角位置，然后通过对映射图像操作获得新视角图像。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a3009a2551788c4710f3b8ea08e08024ef73a6cc41d795dc3d5cc292ba0a8e04.jpg",
+        "img_caption": [
+            "图7新视角合成示意图",
+            "图8合成新视角结果对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Nima等人将上述合成新视角方法分成深度估计和颜色估计两步，使用卷积神经网络分别对新视角处的深度信息和颜色信息建模，并用四个全局视角图像估计出待重建新视角位置的深度信息和颜色信息，从而重建出新视角图像。相比于现有合成新视角的方法而言，效果更好并且合成新视角图像的效率也有明显提高。然而对于复杂场景如遮挡，当全局视角对应的映射图像缺失有效信息时，会造成合成的新视角图像局部信息丢失。如图8(a)所示，全局视角映射图像中丢失了柱子和叶尖信息，导致合成的新视角图像柱子和叶尖缺失。为了解决遮挡情况下出现的局部信息丢失问题，本文充分利用待重建新视角周围的多视角信息，采用全局视角和局部视角相结合的方式，融合全局视角和局部视角作为输入视角，使用卷积神经网络分别估计待重建新视角处的深度信息和颜色信息，最终合成高质量的新视角图像。如图8(b)所示，局部视角映射图像中右上角和右下角图像包含了柱子以及叶尖信息，故最终合成新视角图像包含柱子和叶尖，解决了局部信息缺失问题。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "NN NY(a) 全局视角映射图像  \nNNNG 一11  \n局部视角 (b) 局部视角映射图像",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文角度超分辨率重建的网络结构如图9所示，由输入视角图像 $L p _ { { } _ { g _ { 1 } } , \\dots , L p _ { { } _ { g _ { i } } } , L p _ { { } _ { l _ { 1 } } } , \\dots , L p _ { { } _ { l _ { n } } } }$ 和新视角的位置 $q$ ，估计出新视角图像 $L q$ ，即",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL q = f ( L p _ { _ { g _ { 1 } } } , . . . , L p _ { _ { g _ { i } } } , L p _ { _ { l _ { 1 } } } , . . . , L p _ { _ { l _ { n } } } , q )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： ${ L p } _ { g _ { i } }$ 表示全局视角图像， $i \\in \\left\\{ 1 , . . . , 4 \\right\\}$ ， $L { p } _ { l _ { n } }$ 表示局部视角图",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "像， $n \\in \\{ 1 , . . . , k \\}$ ，其中 $k$ 根据待重建新视角的位置选择4或6，q为新视角的角度坐标， $f$ 定义为输入视角和新视角之间的映射关系。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4 深度估计模块 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "该模块的任务是估计待重建新视角图像的深度信息。为了估计深度信息，首先根据预设的深度等级 $d _ { 1 } , . . . , d _ { c }$ 把全局视角图像 $I _ { \\phantom { } _ { g } }$ 和局部视角图像 $I _ { \\iota }$ 映射到新视角处：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { L } } _ { p _ { i } } ^ { d _ { c } } ( s ) = { L } _ { p _ { g _ { i } } } [ s + ( P _ { g _ { i } } - q ) d _ { c } ] + { L } _ { p _ { I _ { n } } } [ s + ( P _ { \\iota _ { n } } - q ) d _ { c } ]\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $t \\in \\left\\{ 1 , . . . , N \\right\\}$ ， $c \\in \\{ 1 , . . . , C \\}$ ， $s$ 为 xy 方向的像素位置， $\\boldsymbol { q }$ 为uv 方向新视角图像的位置， $p _ { g _ { i } }$ 和 ${ p _ { l } } _ { n }$ 分别为全局视角和局部视角在uv方向的位置， $\\overline { { L } } _ { p _ { t } } ^ { d _ { c } } ( s )$ 为输入视角图像在每一个深度等级的映射图像。本文在新视角处[-21,21]像素范围内分成100个深度等级进行映射。利用Tao 等人[17]的方法，从每一个深度等级的映射图像中提取散焦和一致性信息作为深度特征，即",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM ^ { d _ { c } } \\left( s \\right) = \\frac { 1 } { N } \\sum _ { i = 1 } ^ { N } { \\overline { { L } } _ { p _ { i } } ^ { d _ { c } } } \\left( s \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ^ { d _ { c } } \\left( s \\right) = \\sqrt { \\frac { 1 } { N - 1 } \\sum _ { i = 1 } ^ { N } \\left( \\overline { { L } } _ { p _ { i } } ^ { d _ { c } } \\left( s \\right) - M ^ { d _ { c } } \\left( s \\right) \\right) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过连接每个深度等级的散焦信息和一致性信息$\\{ { M _ { g } } ^ { d _ { 1 } } , { V _ { g } } ^ { d _ { 1 } } , . . . , { M _ { g } } ^ { d _ { c } } , { V _ { g } } ^ { d _ { c } } , { M _ { l } } ^ { d _ { 1 } } , { V _ { l } } ^ { d _ { 1 } } , . . . , { M _ { l } } ^ { d _ { c } } , { V _ { l } } ^ { d _ { c } } \\}$ 得到深度估计特征集 $K$ 。本文使用100个深度等级，每个深度等级包含全局与局部的散焦和一致性信息，因此深度特征集总共有400个特征向量。由于用全局视角和局部视角对应的新视角处映射图像提取深度特征来估计新视角的深度信息：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { q } = g _ { d } ( K )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $D _ { \\boldsymbol { q } }$ 为待合成新视角图像的深度信息， $g _ { d }$ 定义为输入特征集和待合成新视角图像深度信息之间的映射关系。深度估计模块网络结构包含四个卷积层，其中第一层包含200个卷积核，尺寸为 $7 { \\times } 7 _ { \\mathrm { { ; } } }$ 第二层包含100个卷积核，尺寸为 $5 { \\times } 5$ 第三层包含50个卷积核，尺寸为 $3 { \\times } 3 .$ 第四层包含1个卷积核，尺寸为 $1 \\times 1$ ，前三层后连接Relu层。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5 颜色估计模块 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "该模块是对输入视角图像进行映射，利用映射图像、待重建新视角图像的深度信息及其位置坐标所组成的颜色特征集$H = \\{ \\overline { { L } } _ { \\boldsymbol { r } _ { 1 } } , . . . , \\overline { { L } } _ { \\boldsymbol { p } _ { N } } , D _ { q } , q \\}$ ，估计待重建新视角图像的颜色信息，其网络结构类似于深度估计模块。由于新视角图像的每一个像素，其深度信息和每一幅输入视角图像（包括全局视角和局部视角）的相应像素相对应，因此新视角图像的颜色信息可以由输入视角图像估计获得。根据深度估计模块估计得到的深度信息将输入视角图像映射到待重建新视角处，即",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { L } } _ { p _ { i } } \\left( s \\right) = L _ { p _ { g _ { i } } } [ s + ( p _ { g _ { i } } - q ) D _ { q } ( s ) ] + L _ { p _ { i n } } [ s + ( p _ { l _ { n } } - q ) D _ { q } ( s ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\overline { { L } } _ { \\ d _ { p _ { i } } }$ 为输入视角图像根据深度信息 $D _ { q }$ 得到的映射图像。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将颜色特征集输入颜色估计卷积神经网络，合成最终的新视角，即",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { \\boldsymbol { q } } = g _ { \\boldsymbol { c } } ( \\boldsymbol { H } )\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\boldsymbol { g } _ { c }$ 定义为颜色特征集和估计新视角图像之间的映射关系。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f3c55187c4d4a6e39b542241bb7ad31eaf9e779cef753ce1a190e3136e3505df.jpg",
+        "img_caption": [
+            "图9角度超分辨率卷积神经网络"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 实验结果及分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1实验设置 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "实验平台：实验使用的台式电脑配置如下：Intel-2620V4CPU2.1GHzx8 cores，NVIDIAGeForce TITANX $\\textbf { x } 2$ ，RAM128G,Ubuntu14.0464位操作系统，编译软件为Matlab 2015b,Caffe，Matconvnet。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "数据集：本文使用 standford光场数据集[18]以及文献[13]的数据集作为训练集和测试集。这两个数据集都是由Lytro illum光场相机获取，其空间分辨率为 $3 7 6 \\times 5 4 1$ ，角度分辨率为$1 4 \\times 1 4$ ，由于边缘子孔径图像受噪声、渐晕效应等影响，只采用中间 $8 { \\times } 8$ 视角进行训练和测试。本文训练集包含100 幅光场图片，包含自行车，汽车，大树，植物，人物等八类，测试集包含30张光场图片。对光场原始图像，按照尺寸为 $6 0 \\times 6 0$ ，步长为16像素提取图像块，因此本文的训练集数量有超过 $1 0 ^ { 6 }$ 个图像块。为了定量分析本文的超分辨率重建算法，实验中先删除光场图像的中心视角图像(5,5),并对其进行空间下采样，再以同样的采样因子（本文的采样因子为2）上采样，然后将重建结果与原始的中心视角进行定量比较。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "评价指标：为了验证本文方法的有效性，将本文方法与文献[9，11，13]的方法进行超分辨率重建的结果对比分析，并采用峰值信噪比（peak signal to noise ratio,PSNR）和结构相似性指数（structural similarity image measure,SSIM）进行定量评价。即：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P N S R } { = } 1 0 \\log _ { 1 0 } { \\frac { { W \\times H } } { \\left\\| x - y \\right\\| ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中， $W$ 、 $H$ 为图像的大小， $x$ 为原始高分辨率图像， $y$ 为重建后的高分辨率图像。",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S S I M } = \\frac { ( 2 \\mu _ { x } \\mu _ { y } + \\mathbf { C } _ { 1 } ) ( \\sigma _ { x y } + C _ { 2 } ) } { ( \\mu _ { x } ^ { 2 } + \\mu _ { y } ^ { 2 } + C _ { 1 } ) ( \\sigma _ { x } ^ { 2 } + \\sigma _ { y } ^ { 2 } + C _ { 1 } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\textstyle \\mu _ { x }$ 和 $\\sigma _ { x }$ 分别为原始高分辨率图像的灰度平均值和方差，$\\mu _ { y }$ 和 $\\sigma _ { y }$ 分别为重建后图像的灰度平均值和方差， $\\sigma _ { x y }$ 为原始高分辨率图像和重建图像的协方差， $C _ { 1 }$ 、 $C _ { 2 }$ 为常数。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2网络训练",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于空间超分辨率卷积神经网络，对原始输入多视角图像先下采样再使用双三次线性插值的方法，以相同的缩放因子上采样得到低分辨率输入视角，原始多视角图像作为真值。对于低分辨率图像块和高分辨率真值图像块，本文在相同的区域随机裁剪尺寸大小为 $4 1 \\times 4 1$ 的图像块作为输入和真值。在卷积操作之前，使用填充零的方法使得所有的特征图以及输出图像的尺寸大小保持不变，这样可以有效解决边缘像素的超分辨率重建问题。本文使用残差训练的方法训练该网络，对低分辨率和高分辨率图像之间的残差进行训练，并采用较高的学习率，加快收敛速度，同时采用可调节梯度裁剪策略[19]，调整梯度信息，有效避免训练过程中梯度消失和梯度爆炸的问题。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于角度超分辨率卷积神经网络，由于现有真实场景光场数据集没有对应的深度真值，所以难以通过直接最小化估计的深度值和对应的深度真值来训练深度估计网络。本文通过最小化新视角图像和多视角真值图像之间的误差来训练角度超分辨率重建网络，能量损失函数为：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE = \\sum _ { k = 1 } ^ { 3 } ( L _ { q , k } - L _ { q , k } ) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中： $L _ { q , k }$ 为合成的新视角图像， $L _ { \\boldsymbol { q } , k }$ 为合成的新视角图像位置所对应的多视角真值图像， $k$ 为RGB三通道。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文使用Caffe[20]训练网络，Matconvnet[21]来测试网络。空间超分辨率卷积神经网络使用均值为0，标准差为0.001的高斯分布来随机初始化权重，动量参数为0.9，权重衰减参数为0.0001，学习率为0.1。角度超分辨率卷积神经网络使用Xavier方法来随机初始化权重，求解器为ADAM，其中 $\\beta _ { 1 } = 0 . 9$ ，$\\beta _ { 2 } = 0 . 9 9 9$ ，学习率为0.0001。空间超分辨率卷积神经网络和角度超分辨率重建网络先分别单独训练，然后再将空间超分辨率卷积神经网络的输出作为角度超分辨率重建网络的输入，对整个网络进行端到端微调。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 实验结果分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了验证本文算法的准确性，依次使用文献[9，11，13]方法以及本文方法对光场图像进行超分辨率重建。从提高角度分辨率，空间分辨率和重建效果以及算法时间效率上分析三种方法的超分辨率重建结果。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图10显示了使用本文算法进行角度超分辨率重建得到的新视角图像。图中第一行为输入多视角图像中的第一幅图像，第二行为使用本文超分辨率重建算法获得的新视角图像。红色矩形框（图像右下角为其放大图像）表示输入图像与重建后图像相同位置同样大小的视图，可以看出重建后的图像与输入图像的视角不同。因此，超分辨率重建后获得一幅新视角图像，增加了光场图像的视角数，从而提高光场图像的角度分辨率。本文算法利用四个全局视角和局部视角，可以重建出全局视角范围内任意位置的新视角图像。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/058749cca7887f1682bc972053598b425ecd5fa2641926f00a003d7cd44c0ccd.jpg",
+        "img_caption": [
+            "图10超分辨率重建后新视角图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图11从定性的角度对比分析了文献[9]方法、文献[11]方法、文献[13]方法和本文方法在真实自然场景数据集上的超分辨率重建图像效果（为便于可视化，将重建图像部分放大显示）。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/6fb9a1fb54a61a812d5364d31f94b00168cbf5b2bcbb4ee5856b457ce3051ba8.jpg",
+        "img_caption": [
+            "图11四种方法超分辨率重建结果定性结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "文献[9]方法使用了所有光场多视角图像来重建新视角，但不能很好的保持重建后图像边缘信息，导致重建后图像边缘模糊；文献[11]方法使用相邻多视角合成一幅新视角，对于复杂真实自然场景的合成效果较差，边缘噪声较大。文献[13]方法仅使用四幅全局视角图像来合成新视角图像，虽然很好的保持了边缘信息，但是对于一些遮挡场景，当其在待合成新视角处的映射图像缺失局部有效信息时，会造成合成的新视角图像局部目标丢失现象，比如Leaves场景中的柱子和Rock场景中的叶尖。本文方法采用了全局视角和局部视角相结合的方式，利用了局部视角的有效信息，可以弥补全局视角在待重建视角处映射图像局部信息丢失的缺陷，并且可以保持重建后图像的边缘信息。本文方法的重建效果优于文献[9]方法和文献[11]方法，不仅保持了重建后图像的边缘信息，而且有效的避免了局部目标丢失情况。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了从定量的角度分析文献[9，11，[13]方法和本文方法的超分辨率重建结果，对真实自然场景数据集上进行超分辨率重建，分别采用峰值信噪比和结构相似性指数来量化，表1为定量比较结果，从表中可以看出，本文的方法要优于其他两种方法，与定性评价结果一致。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文算法通过融合全局和局部视角信息，利用卷积神经网络提高光场图像的空间分辨率和角度分辨率，图12给出了不用方法在standford光场数据集上的峰值信噪比PSNR随迭代次数的变化趋势图。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从图中可以看出，传统方法不考虑迭代次数这个因素的影响，所以它们的PSNR保持不变，在图上呈直线表示，文献[11，13]最终的重建结果优于传统算法，而本文方法相对而言是最优的。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/9c049c3baa7efd90e40be4a54ac09a251ea430a6c3476717b497b3f524770ecc.jpg",
+        "img_caption": [
+            "图12不同方法的重建结果对比曲线图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文算法包括空间超分辨率重建网络和角度超分辨率重建网络两部分，根据网络复杂度的计算公式[22]：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nO \\Bigg ( \\sum _ { l = 1 } ^ { L } n _ { l - 1 } f _ { l } ^ { 2 } n _ { l } \\Bigg )\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "可以得到本文网络的复杂度为5557204，文献[13]的网络复杂度为2308404，文献[11]的网络复杂度为251488。由于本文加入了局部视角，导致其输入的特征图(feature map)增大，从而网络复杂度增大，因此本文网络每次迭代的计算量较大，但由图12可知，本文网络在 $1 4 \\times 1 0 ^ { 5 }$ 接近收敛，总用时为 $2 6 . 5 \\mathrm { ~ h ~ }$ 而文献[13]在迭代将近 $1 2 \\times 1 0 ^ { 5 }$ 收敛，总用时为 $2 4 . 8  { \\mathrm { h } }$ ，两个网络模型在大概相同的时间内收敛，但本文算法可以获得更好的超分辨率重建效果。在时间效率上，表2给出了各算法重建一 幅新视角图像的时间。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/d05c67b0a6426b3f6fd3b205421f861cf8d457e9ec1fb5f9cbc5b355c5d2c03e.jpg",
+        "table_caption": [
+            "表1超分辨率重建结果的PSNR和SSIM比较"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>光场图像</td><td colspan=\"2\">文献[9]</td><td colspan=\"2\">文献[11]</td><td>文献[13]</td><td>本文方法</td></tr><tr><td></td><td>PSNR</td><td>SSIM</td><td>PSNR SSIM</td><td></td><td>PSNR SSIM</td><td>PSNR SSIM</td></tr><tr><td>Flower1</td><td>29.89</td><td>0.819</td><td>31.98 0.913</td><td>35.56 0.961</td><td>37.08</td><td>0.969</td></tr><tr><td>Leaves</td><td>22.68</td><td>0.810</td><td>26.32 0.892</td><td>27.81</td><td>0.933</td><td>32.65 0.967</td></tr><tr><td>Flower2</td><td>25.97</td><td>0.829</td><td>29.53 0.912</td><td>31.28</td><td>0.948</td><td>35.08 0.972</td></tr><tr><td>Rock</td><td>24.53</td><td>0.799</td><td>28.33 0.824</td><td>33.74</td><td>0.957</td><td>34.17 0.965</td></tr><tr><td>Seahorse</td><td>26.92</td><td>0.896</td><td>29.25 0.924</td><td>31.27</td><td>0.963</td><td>35.67 0.978</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/11efa721031a7c59936f5c6617c03dd896100ce47518a7529c220fbe7427a9c3.jpg",
+        "table_caption": [
+            "表2不同算法合成一幅新视角的时间效率"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>使用所有多视角</td><td>使用局部多视角</td><td>使用全局视角</td><td>使用全局与局部相结合</td></tr><tr><td>效率</td><td>22.3s</td><td>16.6s</td><td>12.3s</td><td>12.5s</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文针对光场图像的空间分辨率和角度分辨率较低的问题，提出了融合全局与局部视角的光场超分辨率重建算法。通过融合包含信息最大的全局视角和根据和待重建新视角相对位置关系自适应选择的局部视角信息，可以合成全局视角范围内任意位置的新视角图像，并解决遮挡情况造成局部视角丢失的问题;同时为了提高新视角图像的空间分辨率，使用空间超分辨率卷积神经网络提高输入全局视角和局部视角图像的分辨率，从而得到高分辨率新视角图像。实验结果表明，本文方法可以快速合成一幅新视角，不仅保持更好的边缘效果，而且有效的避免局部目标丢失现象，获得相对更优的重建效果。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]NgR,Levoy M,Brédif M,et al.Light field photography witha hand-held plenoptic camera [J]. Computer Science Technical Report, 20o5,2(11):1- 11.   \n[2]ZhangJ,Wang M,Lin L,et al. Saliency Detection on Light Field:A MultiCue Approach [J].ACM Trans on Multimedia Computing, Communications, and Applications,2017,13(3):32.   \n[3]Tao M W,Srinivasan PP, Hadap S,et al. Shape estimation from shading, defocus,and correspondence using light-field angular coherence [J]. IEEE Trans on Pattern Analysis and Machine Intelligence,2017,39 (3): 546-560.   \n[4]Vagharshakyan S, Bregovic R, Gotchev A.Light field reconstruction using Shearlet transform [J].IEEE Trans on Pattern Analysis and Machine Intelligence,2018,40(1): 133-147.   \n[5]Georgiev T,Yu Z,Lumsdaine A,et al.Lytro camera technology: theory, algorithms,performance analysis [C]//Multimedia Content and Mobile Devices.International Society for Optics and Photonics.2013,8667: 86671J.   \n[6]覃亚丽，张晓帅，余临倩．基于低秩矩阵分解的光场稀疏采样及重构 [J]．光学精密工程,2017,25(5):1171-1177.   \n[7]Bishop TE,Zaneti S,Favaro P.Light field superresolution [C]// Proc of IEEE International Conference on Computational Photography.2009:1-9.   \n[8]Mitra K, Veeraraghavan A.Light field denoising,light field superresolution and stereo camera based refocussing using a GMM light field patch prior [C]// Proc of IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops.2012:22-28.   \n[9]Wanner S,Goldluecke B.Variational light field analysis for disparity estimation and super-resolution [J]. IEEE Trans on Pattern Analysis and Machine Intellgence,2014,36 (3): 606-619.   \n[10] Dong C,Loy C C,He K,et al. Learning a deep convolutional network for image super-resolution [C]//Proc of European Conference on Computer Vision. Springer,2014: 184-199.   \n[11] Yoon Y,Jeon HG, Yoo D,et al.Learning a deep convolutional network for light-field image super-resolution [C]// Proc of the IEEE International Conference on Computer Vision s.2015: 24-32.   \n[12] Kim J, Kwon Lee J, Mu Lee K.Accurate image super-resolution using very deep convolutional networks [Cl// Proc of IEEE Conference on Computer Vision and Patern Recognition. 2016:1646-1654.   \n[13] Kalantari NK, Wang TC, Ramamoorthi R.Learning-based view synthesis for light field cameras [J].ACM Tran on Graphics,2016,35 (6):193.   \n[14]尹晓艮，张晓芳，张伟超，等．基于光场数字重聚焦的三维重建方法研 究[J]．光电子·激光,2015(5):986-991.   \n[15] Chaurasia G, Sorkine O,Dretakis G. Silhouette-Aware Warping or ImageBased Rendering [C]// Computer Graphics Forum,2011,30 (4): 1223-132.   \n[16] Chaurasia G,Duchene S,Sorkine-Hornung O,et al. Depth synthesis and local warps for plausible image-based navigation [J].ACM Trans on Graphics,2013,32 (3):30.   \n[17] Tao MW,Hadap S,Malik J,et al.Depth from combining defocus and correspondence using light-field cameras [C]// Proc of IEEE International Conference on Computer Vision.2013: 673-680.   \n[18] Raj A S,Lowney M, Shah R,et al. Stanford Lytro light field archive [J]. (2016)[2017-12-18]. http://lightfields.stanford. edu.   \n[19] Pascanu R,Mikolov T, Bengio Y.On the difficulty of training recurrent neural networks [C]/ Proc of International Conference on Machine Learning. 2013: 1310-1318.   \n[20] Jia Y,Shelhamer E,Donahue J,et al. Caffe:Convolutional architecture for fast feature embedding [C]// Proc of the 22nd ACM International Conference on Multimedia.New York:ACMPress,2014: 675-678.   \n[21] Vedaldi A,Lenc K.Matconvnet: Convolutional neural networks for matlab [C]//Proc of the 23rd ACM International Conference on Multimedia.New ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "York:ACMPress,2015:689-692. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[22]He K, Sun J.Convolutional neural networks at constrained time cost [C]// Proc of IEEE Conference on Computer Vision and Pattern Recognition. 2015:5353-5360. ",
+        "page_idx": 8
+    }
+]

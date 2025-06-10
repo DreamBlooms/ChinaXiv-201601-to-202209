@@ -1,0 +1,578 @@
+[
+    {
+        "type": "text",
+        "text": "Bioactive Pentacyclic Triterpenoids from the Leaves of Cleistocalyx operculatus ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chen Wang,t# Ping Wu,† Shuai Tian,+ Jinghua Xue,† Liangxiong Xu,t Hanxiang Li,† and Xiaoyi Wei\\*,† ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "+Key Laboratory of Plant Resources Conservation and Sustainable Utilization and Guangdong Provincial Key Laboratory of Applied Botany, South China Botanical Garden, Chinese Academy of Sciences, Xingke Road 723,Tianhe District, Guangzhou 510650, People's Republic of China \\*University of Chinese Academy of Sciences, Yuquanlu 19A, Beijing 100049, People's Republic of China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT. Thirteen new pentacyclic triterpenoids, cleistocalyxic acids A-K (1, 2, 4, 5,and 7-13) and cleistocalyxolides A (3) and B (6),and fifteen known analogues (14-28), based on taraxastane, oleanane,ursane, multiflorane,and lupane skeletons, were isolated from the leaves of Cleistocalyx operculatus. The structures of 1-13 were elucidated by analysis of their spectroscopic data and ECD/TDDFT computations. Cleistocalyxolide A (3)， presumed to be derived from the known taraxastane-type compound 14， has a rare rearranged triterpenoid backbone. Cleistocalyxic acid B (2) displayed cytotoxicity against HepG2, NCI-N87,and MCF7 cancer cell lines with $\\mathrm { I C } _ { 5 0 }$ values ranging from 3.2 to $6 . 5 ~ \\mu \\mathrm { M }$ and cleistocalyxic acid D (5) was active against HepG2 and NCI-N87 cells with the values around $5 . 0 ~ \\mu \\mathrm { M }$ ，The non-cytotoxic cleistocalyxic acid E（7) inhibited production of IL-6 by $6 8 . 1 \\%$ and TNF- $\\alpha$ by $5 3 . 7 \\%$ in LPSinduced RAW 264.7 macrophages at the concentration of $2 \\mu \\mathrm { M }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cleistocalyx operculatus (Roxb.) Merr. et Perry,an evergreen tree belonging to the family Myrtaceae,is widely distributed in southern mainland China and other areas of tropical Asia. Its leaves and flower buds have long been used as herbal tea and herbal medicine in the People's Republic of China and Vietnam for the treatment of cold fever, inflammation, and gastrointestinal disorders.1 Chemical constituents of the flower buds were extensively investigated and chalcones, flavanones, flavones,and oleanane- and ursane-type triterpenoids were isolated with a wide range of biological activities, including cancer cell growth inhibition,2 cholinesterase inhibition, antioxidation,4 anti-hyperglycemia,5 anti-influenza, and antiinflammation.7 Chemical investigations on the leaves were recently reported, in which a new taraxastane-type triterpene, two new acetophenones, and a new flavanone were disclosed.89 In a continuing endeavor to discover biologically active compounds from natural sources,10-14 the constituents of the leaves of $C .$ .operculatus were investigated and 13 new pentacyclic triterpenoids (1-13) along with 15 known compounds (14-28) were obtained, of which 1 and 2 are the first two taraxastane-type triterpenoids having an aldehyde or carboxy C-27 and 3 has a rare rearranged triterpenoid backbone. The isolated triterpenoids were evaluated for the tumor cell toxicity and in vitro anti-inflammatory activity. Herein are reported the isolation, structural elucidation,and biological activities of these compounds. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/10a76badd22aecd420f33706e1692d0d72eb3f66a90e0a1ce1cec507b3ae541a.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "RESULTSANDDISCUSSION ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Air dried leaves of $C .$ .operculatus were powdered and extracted with $90 \\%$ aqueous EtOH. The crude extract was suspended in water and successively partitioned with petroleum ether, EtOAc, and $n$ -BuOH. The combined petroleum ether- and EtOAc-soluble fractions were subjected to a series of column chromatographic purification steps over silica gel, ODS, and Sephadex LH-20, followed by semi-preparative HPLC, to afford 13 new (1-13) and 15 known (14-28) pentacyclic triterpenoids,of the oleanane, ursane, taraxastane, multiflorane,and lupane types. The known compounds were identified as $3 \\beta$ -hydroxytaraxast-20-en-28-oic acid (14),15 oleanolic acid (16),16 maslinic acid (17),17 arjunolic acid (18), $^ { 1 8 } 1 1 \\alpha , 1 2 \\alpha$ -epoxy- $\\cdot 2 \\alpha , 3 \\beta , 2 3$ -trihydroxyolean- $^ { 2 8 , 1 3 \\beta }$ olide (19),19 $2 \\alpha$ -hydroxymicromeric acid (20),20 actinidic acid (21),21 ursolic acid (22),2² corosolic acid (23),23 asiatic acid (24),18 $\\cdot 2 \\alpha , 3 \\beta , 1 1 \\alpha , 2 3$ -tetrahydroxyurs-12-en-28-oic acid (25) $^ { 2 4 } 2 \\alpha , 3 \\beta .$ （20 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "dihydroxy-24-nor-urs-4(23),12-dien-28-oic acid (26),25 betulinic acid (27),26 and alphitolic acid (28),27 by comparing their spectroscopic data with literature values. $_ { 3 \\beta , 2 1 \\alpha }$ -Dihydroxytaraxast $2 8 { , } 2 0 \\beta .$ -olide (15) was reported to be obtained in chemical transformation of 20,21- epoxytaraxstane-3β,28-diol diacetate,28 but its structure was not confirmed. Herein, it was isolated as a naturally occurring compound for the first time and its structure was assigned unambiguously by detailed analysis of its spectroscopic data. Among these isolated triterpenoids, 17,18,23, 24 and the new compound 2 were found to be the most abundant components of the leaves of C. operculatus. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Cleistocalyxic acid A (1) gave a $[ \\mathbf { M } - \\mathbf { H } ] ^ { - }$ ion peak at m/z 469.3314 in the negative-ion HRESIMS,appropriate for a molecular formula of $\\mathrm { C } _ { 3 0 } \\mathrm { H } _ { 4 6 } \\mathrm { O } _ { 4 }$ .The $^ { 1 } \\mathrm { H }$ NMR spectrum (Table 1) displayed resonances for four tertiary methyls ( $ \\langle \\delta _ { \\mathrm { H } } 0 . 8 5$ ,1.01,1.07,and 1.16),a secondary methyl $[ \\delta _ { \\mathrm { H } } 1 . 1 9 \\$ (3H, d, $J { = } 6 . 6 \\mathrm { H z } )$ ],an olefinic methyl $( \\delta _ { \\mathrm { H } } 1 . 7 3 )$ , an oxymethine $[ \\delta _ { \\mathrm { H } } 3 . 3 9 \\$ (1H, dd, $J =$ $1 0 . 4 , 6 . 6 \\mathrm { H z } ) ]$ , an olefinic proton $[ \\delta _ { \\mathrm { H } } 5 . 4 6 ( 1 \\mathrm { H } , \\mathrm { d } , J = 7 . 0 \\mathrm { H z } ) ]$ , and an aldehyde proton $[ \\delta _ { \\mathrm { H } } 1 0 . 4 9 \\$ (1H, s)]. The $^ { 1 3 } \\mathrm { C }$ NMR spectrum (Table 2) showed 30 carbon resonances comprising six methyls, nine methylenes, eight methines, of which one was oxygenated $( \\delta _ { \\mathrm { C } } 7 8 . 2 )$ , one was olefinic ( $\\langle \\delta _ { \\mathrm { C } } 1 1 8 . 4 \\rangle$ , and one was an aldehyde ( $\\left( \\delta _ { \\mathrm { C } } 2 1 1 . 6 \\right)$ , and seven quaternary carbons, including olefinic $( \\delta _ { \\mathrm { C } } 1 4 3 . 1 )$ and a carboxylic acid $( \\delta _ { \\mathrm { C } } 1 7 8 . 3 )$ carbons. These 1D NMR data,in combination with the molecular formula, suggested the presence of a pentacyclic triterpenoid acid containing a hydroxy group,a formyl group,and a trisubstituted double bond. Detailed analysis of $\\mathrm { ^ { 1 } H \\mathrm { - } ^ { 1 } H }$ COSY and HSQC spectra was used to identify structural fragments as shown by the bolded lines in Figure 1. The connectivity of the fragments and functionalities were established by the HMBC spectrum (Figure 1). The long-range correlations of two gem-methyl singlets ( $\\cdot \\delta _ { \\mathrm { H } } 1 . 0 1 \\$ and 1.16) with C-4, C-5,and the oxymethine carbon $( \\delta _ { \\mathrm { C } } 7 8 . 2 )$ (Figure 1) helped locate the hydroxy group at C-3. The remaining two tertiary methyl groups were assigned to C-25 and C-26 by HMBC correlations of their protons $ \\delta _ { \\mathrm { H } } 0 . 8 5$ and 1.07) with C-1/C-5/C-9 and C-9/C-14, respectively. The HMBC correlations of H-13 ( $\\langle \\delta _ { \\mathrm { H } } 3 . 1 4 \\rangle$ and $\\mathrm { H } _ { 2 }$ -15 with the aldehyde carbon $( \\delta _ { \\mathrm { C } } 2 1 1 . 6 )$ as well as the correlation of aldehyde proton $( \\delta _ { \\mathrm { H } } 1 0 . 4 9 )$ with C-13 indicated that the formyl group is attached to C-14. The substitution pattern of ring E was evident on the basis of HMBC correlations from the secondary methyl ( $\\cdot \\delta _ { \\mathrm { H } } 1 . 1 9 )$ to C-18/C-20,from the olefinic methyl ( $\\cdot \\delta _ { \\mathrm { H } }$ 1.73) to C-19/C-21,from the olefinic proton ( $\\ \\cdot \\delta _ { \\mathrm { H } } 5 . 4 6 )$ to C-17/C-19,and from H-18 to the carboxylic acid carbon ( $( \\delta _ { \\mathrm { C } } 1 7 8 . 3 )$ . The relative configuration of 1 was established on the basis of proton coupling constants and NOESY correlations (Figure 1). The large diaxial coupling constant between $\\mathrm { H } { - } 2 \\beta$ and H-3 $( J = 1 0 . 4 \\ : \\mathrm { H z } )$ ）(Table 1) along with NOE interactions of H-3/H-5, $\\mathrm { H } { - } 3 / \\mathrm { H } _ { 3 }$ -23,H-5/H-9, $\\mathrm { H } _ { 3 } – 2 4 / \\mathrm { H } _ { 3 } – 2 5$ ,and $\\mathrm { H } _ { 3 } – 2 5 / \\mathrm { H } _ { 3 } – 2 6$ implied that H-3,H-5,and H-9 are co-facial and $\\alpha$ -oriented. In turn,NOE correlations of $\\mathrm { H } _ { 3 } – 2 6 / \\mathrm { H } – 1 3$ ,and H-13/H-19 suggested H-13 and H19 are $\\beta \\mathrm { . }$ oriented, while the absence of any correlation between $\\mathrm { H } _ { 3 } { - } 2 6$ and H-27 and the presence of correlations of H-27/H-18 and H $\\underline { { \\cdot } } 1 8 / \\mathrm { H } _ { 3 }$ -29 indicated the $\\alpha \\mathrm { . }$ -orientation of the H-18, CHO-27, and $\\mathrm { C H } _ { 3 } – 2 9$ functionalities. These findings also illustrated the trans-fusion of the A/B/C/D/E rings,in accordance with compound 1 being a taraxastane-type triterpenoid rather than an ursane-type compound that has the cis-fusion of D/E rings and the $\\beta \\mathrm { . }$ orientation of H-18 and $\\mathrm { C H } _ { 3 }$ -29 functionalities. Therefore, the structure of 1 was elucidated as $3 \\beta$ -hydroxytaraxast-20-en27-al-28-oic acid. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f7da58b536ab3343ecadb07b6afc518c54ebfc600c0499984907bd46fca1628a.jpg",
+        "img_caption": [
+            "Figure1. Key $\\mathrm { ^ { 1 } H \\mathrm { - } ^ { 1 } H }$ COSY (bold lines),HMBC (plain arrows),and NOE (dashed arrows) correlations of 1. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Cleistocalyxic acid B(2) was determined to have a molecular formula of $\\mathrm { C _ { 3 l } H _ { 4 8 } O _ { 5 } }$ from the HRESIMS data. The $^ { 1 } \\mathrm { H }$ and $^ { 1 3 } \\mathrm { C }$ NMR spectra (Tables 1 and 2) were almost identical to those of 1 except for the presence of signals for a methoxy group $( \\delta _ { \\mathrm { H } } 3 . 6 8 , \\delta _ { \\mathrm { C } } 5 1 . 7 )$ and replacement of the formyl group in 1 by an additional carboxylic acid carbon $( \\delta _ { \\mathrm { C } } 1 7 6 . 8 )$ . HMBC correlations of H-13 with one carboxylic acid carbon $( \\delta _ { \\mathrm { C } } 1 7 8 . 5 )$ and $_ { \\mathrm { H - 1 8 / H _ { 3 } - O C H _ { 3 } } }$ with the other one ( $\\mathit { \\Omega } _ { \\mathcal { S } _ { \\mathrm { C } } }$ 176.8) (Figure S1, Supporting Information) confirmed that 2 possesses a free carboxylic acid group at C-14 and a carboxylic acid methyl ester group at C-18. The relative configuration of 2 was determined to be identical to 1 by interpretation of its NOESY spectrum. Therefore, the structure of 2 was defined as $3 \\beta$ -hydroxytaraxast-20-en-27,28-dioic acid 28-methyl ester. To the best of our knowledge, compounds 1 and 2 represent the first two examples of taraxastane-type triterpenoids having an aldehyde or carboxylic acid substituent at C-27. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/65d9ce6c1b01a206b52f56786c0107d68aa1b9e4af3e630dd1becfff698790a8.jpg",
+        "table_caption": [
+            "Table 1. 1H NMR $( { \\bf 5 0 0 M H z } )$ Data $[ \\delta _ { \\mathrm { H } }$ in ppm, mult., (J in Hz)] of Compounds 1-6 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>no.</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td rowspan=\"2\">1</td><td>α 0.94 m</td><td>α 1.05m</td><td>α 0.99 m</td><td>α 1.46 m</td><td>α 1.03 m</td><td>α 0.92 m</td></tr><tr><td>β 1.71 m</td><td>β 1.79 m</td><td>β 1.66 m</td><td>β 2.33 dd (12.6, 4.3)</td><td>β 1.75 m</td><td>β 1.99-2.05 m</td></tr><tr><td>2</td><td>1.83-1.87 m</td><td>1.83-1.89 m</td><td>1.86-1.92 m</td><td>4.13 ddd (11.5, 9.4, 4.3)</td><td>1.85-1.92 m 1.77-1.82 m</td><td>3.70 ddd (11.5, 9.6, 4.6)</td></tr><tr><td>3</td><td>3.39 dd (10.4, 6.6)</td><td>3.28 dd (11.3, 4.6)</td><td>3.48 dd (10.5, 5.8)</td><td>3.44 d (9.4)</td><td>3.34 dd (11.5, 4.6)</td><td>3.37 d (9.6)</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/3747b97a2249d711d56defae7238ef8a75a0d2c9bc99a59204252086c090922a.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "aPyridine- $d _ { 5 }$ used as solvent.Methanol- $d _ { 4 }$ used as solvent. "
+        ],
+        "table_body": "<html><body><table><tr><td>5</td><td>0.72 dd (11.9,</td><td>0.91 dd (12.1,</td><td>0.82 m</td><td>1.50-1.58 m</td><td>1.06 m</td><td>1.31 m</td></tr><tr><td>6</td><td>1.4) α 1.54 m</td><td>1.5) α 1.62 m</td><td>α 1.57 m</td><td>α 2.21 m</td><td>α 1.68 m</td><td>1.43-1.48 m</td></tr><tr><td></td><td>β 1.34 m</td><td>β 1.41-1.45 m</td><td>β 1.38-1.44 m 1.38-1.44 m</td><td>β 2.04 m 5.55 m</td><td>β 1.44 m</td><td></td></tr><tr><td>7</td><td>1.60-1.68 m</td><td>α 2.04 ddd (13.5, 13.0, 3.6) β 1.91-1.96 m</td><td></td><td></td><td>α 2.77 m β 1.77-1.82 m</td><td>α 1.75 m β 1.22 m</td></tr><tr><td>9</td><td>1.35 m</td><td>1.91-1.96 m</td><td>1.38-1.44 m</td><td>2.41 m</td><td>1.94 m</td><td>1.77 m</td></tr><tr><td>11</td><td>α 1.79 m β 1.51 m</td><td>α 1.79 m β 1.41-1.45 m</td><td>α 1.46 m β 1.27 m</td><td>1.67-1.73 m 1.50-1.58 m</td><td>α 1.71 m β 1.56 m</td><td>α 1.55-1.61 m β 1.93 ddd</td></tr><tr><td rowspan=\"2\">12</td><td></td><td>1.97 m</td><td></td><td>1.67-1.73 m</td><td></td><td>(13.7, 13.3,3.8) 3.77 dd (3.8,2.4)</td></tr><tr><td>α 2.26 m β 2.05 m</td><td>2.88 m</td><td>α 1.25 m β 1.52 m</td><td></td><td>α 2.89 m β 3.07 dd (15.3,</td><td></td></tr><tr><td>13</td><td>3.14 ddd (13.3, 12.7, 3.8)</td><td>2.87m</td><td>1.73 m</td><td></td><td>5.4)</td><td></td></tr><tr><td>15</td><td>α 2.13 ddd (13.8,4.2, 3.0) β 1.60-1.68 m</td><td>α 2.38-2.44 m β 1.52 ddd (13.5,13.0, 3.5)</td><td>α 1.14 ddd (14.0, 4.7, 2.6) β 2.60 ddd</td><td>1.76 m 1.37 m</td><td>α 2.32 m β 1.97 m</td><td>α 1.17-1.20 m β 1.81 m</td></tr><tr><td>16</td><td>α 1.40 ddd (14.0,13.5,4.2) β 2.39 ddd</td><td>1.91-1.96 m 2.38-2.44 m</td><td>(14.0, 13.7,4.3) α 1.65 m β 2.00 m</td><td>α 1.87 m β1.64 m</td><td>α 1.85-1.92 m β 2.13m</td><td>α 2.25 ddd (13.2,13.0,5.6) β 1.17-1.20 m</td></tr><tr><td>18</td><td>(14.0, 4.3, 3.0) 1.49 m</td><td>1.78 m</td><td>2.68 d (12.4)</td><td>2.95 dd (11.5, 4.9)</td><td></td><td>2.07 m</td></tr><tr><td>19</td><td>2.54 m</td><td>2.57 m</td><td></td><td>1.50-1.58 m 1.42 m</td><td>α 2.75 d (13.6) β 1.85-1.92 m</td><td>1.99-2.05 m</td></tr><tr><td>21</td><td>5.46 d (7.0)</td><td>5.34 d (6.9)</td><td>4.87 d (1.9)</td><td>1.99-2.03 m</td><td>α 1.26 m</td><td>α 1.43-1.48 m</td></tr><tr><td>22</td><td>α 1.91 m β 2.62 dd (15.5,</td><td>1.83-1.89 m 2.38-2.44 m</td><td>α 1.68 m β 1.96 m</td><td>2.58 m 1.85 m</td><td>β 1.45-1.50 m α 1.45-1.50 m</td><td>β 1.27 m 1.55-1.61 m</td></tr><tr><td>23</td><td>7.0) 1.16 s</td><td>1.10 s</td><td>1.25 s</td><td>1.25 s</td><td>β 2.38 m 1.18 s</td><td>3.51 d (11.1)</td></tr><tr><td>24</td><td>1.01 s</td><td></td><td></td><td></td><td></td><td>3.27 d (11.1)</td></tr><tr><td>25</td><td>0.85 s</td><td>1.03 s 0.96 s</td><td>1.054 s 0.86 s</td><td>1.18 s 0.89 s</td><td>1.06 s 0.98 s</td><td>0.69 s 0.99 s</td></tr><tr><td>26</td><td>1.07 s</td><td>1.19 s</td><td>1.07 s</td><td>1.35 s</td><td>1.17 s</td><td>1.13 s</td></tr><tr><td>27</td><td>10.49 s</td><td></td><td>1.046 s</td><td>1.20 s</td><td></td><td>1.36 s</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>29</td><td>1.19 d (6.6)</td><td>1.26 d (6.6)</td><td>1.40 s</td><td>1.05 s</td><td>0.98s</td><td>0.98 s</td></tr><tr><td>30</td><td>1.73 s</td><td>1.70 s</td><td>2.29 s</td><td>1.25 s</td><td>0.97 s</td><td>0.93 s</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>OCH3</td><td></td><td>3.68s</td><td></td><td></td><td>3.78 s</td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Cleistocalyxolide A (3) gave a molecular formula of $\\mathrm { C _ { 3 0 } H _ { 4 6 } O _ { 4 } }$ as determined from the HRESIMS data. The $^ { 1 } \\mathrm { H }$ and $^ { 1 3 } \\mathrm { C }$ NMR data of 3 (Tables 1 and 2) were closely comparable to those of betulinic acid $( 2 7 ) ^ { 2 6 }$ except that the resonances corresponding to the 19-propen-2-yl group, CH-19, and $\\mathrm { C H } _ { 2 ^ { - } } 2 0$ in 27 were not observed. Instead, the proton and carbon signals for an acetyl group $[ \\delta _ { \\mathrm { H } } 2 . 2 9 \\$ (s, $\\mathrm { H } _ { 3 ^ { - } } 3 0 ^ { \\rangle }$ ； $\\delta _ { \\mathrm { C } }$ 26.6 (C-30), 209.7 (C-20)], an additional tertiary methyl $[ \\delta _ { \\mathrm { H } }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1.40 (s, $\\begin{array} { r } { \\mathrm { H } _ { 3 ^ { - } } 2 9 _ { , } } \\end{array}$ ） $\\delta _ { \\mathrm { C } }$ 16.1 (C-29)], an extra aliphatic quaternary carbon $[ \\delta _ { \\mathrm { C } }$ 59.6 (C-19)], and an oxygenated methine $[ \\delta _ { \\mathrm { H } } 4 . 8 7$ (d, $J { = } 1 . 9 \\operatorname { H z }$ ,H-21); $\\delta _ { \\mathrm { C } }$ 84.3 (C-21)] were observed in the spectra. The presence of H-C correlations of $\\mathrm { H } _ { 3 ^ { - } } 3 0$ with C-19, $\\mathrm { H } _ { 3 }$ -29 with C-20/C-21,H-21 with C-17 ( $\\delta _ { \\mathrm { C } }$ 52.7)/C-18 ( $\\delta _ { \\mathrm { C } }$ 45.6)/C-28 ( $\\delta _ { \\mathrm { C } }$ 178.7), and H-18 ( $\\ \\cdot \\delta _ { \\mathrm { H } } 2 . 6 8 )$ with C-20/C-28 in the HMBC spectrum (Figure 2), together with the spin system of $\\mathrm { H } { - } 2 1 / \\mathrm { H } _ { 2 } { - } 2 2$ in the $\\mathrm { ^ { 1 } H \\mathrm { - } ^ { 1 } H }$ COSY spectrum (Figure 2), revealed the occurrence of a five-membered ring consisting of C-17, C-18, C-19, C-21,and C22, in which $\\mathrm { C H } _ { 3 } – 2 9$ and an acetyl group atached to C-19 and C-17 carboxylic acid substituent is connected to C-21 via an ester linkage to form a lactone ring. In the NOESY spectrum, NOE correlations were observed for $\\mathrm { H } _ { 3 }$ -27/H-18,H-18/H3-30, $\\mathrm { H } _ { 3 }$ -30/H-21,and H-13/H3-29 (Figure 2), indicating the $\\beta$ -orientation of $\\mathrm { C H } _ { 3 }$ -29 and the $\\alpha \\mathrm { . }$ -orientation of 19-acetyl and H-21 functionalities. In order to determine the configuration, the possble stereoisomers,(18S,19S)- and $( 1 8 R , 1 9 R ) – 3$ , were subjected to quantum chemical computations of their ECD spectra (see Supporting Information). As can be seen in Figure 3, the calculated ECD spectrum of the (18S,19S)-isomer, which displayed a negative Cotton effect (CE) at $2 9 5 \\mathrm { n m }$ and a positive CE at （204号 $2 2 0 \\mathrm { n m }$ , arising from $\\Pi  \\pi ^ { * }$ excitations of keto carbonyl and lactone carboxy functions, matches up well with the measured spectrum. In turn, the predicted ECD spectrum of the （20 $( 1 8 R , 1 9 R )$ -isomer, showing the absence of a CE around $2 9 5 \\mathrm { n m }$ ,was inconsistent with the measured ECD data. Accordingly, the structure of 3 was determined as $3 \\beta .$ hydroxy-20-ox0- 21 $( 2 0 \\to 1 9 )$ -abeo-taraxast- $^ { 2 8 , 2 1 \\beta }$ -olide. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c783d1ad8de3e07382133c3405d08c61f2f1ac5f53fd5c11fc82e6590d14f6b.jpg",
+        "img_caption": [
+            "Figure 2. Key $\\mathrm { ^ { 1 } H \\mathrm { - } ^ { 1 } H }$ COSY (bold lines),HMBC (plain arrows),and NOE (dashed arrows) "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "correlations of 3. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/e4cebf803d04f96217a90ae3a601147cdf88d0d8fc4af2c36a8222b29763f365.jpg",
+        "img_caption": [
+            "Figure 3. Comparison of the measured ECD spectrum of 3 with MO6-2X/TZVP calculated ECD "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "spectra of (18S,19S)- and $( 1 8 R , 1 9 R ) – 3$ in MeOH ( $\\mathrm { \\Delta ~ \\stackrel { \\cdot } { o } = 0 . 3 5 \\mathrm { e V } }$ ，shift $= - 6 \\mathrm { n m }$ for the (18S,19S)- isomer and $- 2 \\mathrm { n m }$ for the $( 1 8 R , 1 9 R )$ -isomer). ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/d280dde85e75216a4a37b29faac5ce4a33ca2d04230918255eeaf8662a42283a.jpg",
+        "table_caption": [
+            "Table 2. $^ { 1 3 } \\mathbf { C }$ NMR(125 MHz) Data ( $\\ : \\delta _ { \\mathrm { c } } \\ :$ in ppm, type) of Compounds 1-6 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>no.</td><td>1</td><td>2\"</td><td>3a</td><td>4</td><td>5</td><td>6</td></tr><tr><td>1</td><td>39.3, CH2</td><td>39.7, CH</td><td>39.7, CH</td><td>46.9, CH2</td><td>39.6, CH2</td><td>48.0, CH2</td></tr><tr><td>2</td><td>28.6, CH2</td><td>28.8, CH2</td><td>28.8, CH2</td><td>69.0, CH</td><td>28.7, CH2</td><td>69.9, CH</td></tr><tr><td>3</td><td>78.2, CH</td><td>78.3, CH</td><td>78.5, CH</td><td>84.1, CH</td><td>78.4, CH</td><td>78.1, CH</td></tr><tr><td>4</td><td>39.9, C</td><td>39.9, C</td><td>40.0, C</td><td>40.3,C</td><td>39.9, C</td><td>44.2, C</td></tr><tr><td>5</td><td>56.0, CH</td><td>56.5, CH</td><td>56.2, CH</td><td>51.1, CH</td><td>55.8, CH</td><td>48.2, CH</td></tr><tr><td>6</td><td>19.0, CH2</td><td>19.4, CH2</td><td>19.2, CH2</td><td>25.1, CH2</td><td>19.6, CH2</td><td>18.5, CH2</td></tr><tr><td>7</td><td>35.7, CH2</td><td>38.6, CH</td><td>35.0, CH</td><td>119.2, CH</td><td>37.0, CH</td><td>34.5, CH2</td></tr><tr><td>8</td><td>43.4, C</td><td>41.6, C</td><td>41.8, C</td><td>149.0, C</td><td>42.8, C</td><td>43.5, C</td></tr><tr><td>9</td><td>54.6, CH</td><td>52.5, CH</td><td>51.3, CH</td><td>50.3, CH</td><td>53.2, CH</td><td>45.7, CH</td></tr><tr><td>10</td><td>38.3, C</td><td>38.3, C</td><td>37.9, C</td><td>37.1, C</td><td>38.5, C</td><td>38.6, C</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/700f447f3ca96a1d678574edf0053e8040b64f86e09f11443231e7bb83ab1fe8.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "aPyridine- $d _ { 5 }$ used as solvent. bMethanol- $d _ { 4 }$ used as solvent.cdAssignments interchangeable in the same column. "
+        ],
+        "table_body": "<html><body><table><tr><td>11</td><td>22.4, CH2</td><td>22.3, CH</td><td>21.4, CH2</td><td>18.3, CH2</td><td>21.8, CH2</td><td>29.7, CH2</td></tr><tr><td>12</td><td>27.6, CH2</td><td>28.3d, CH</td><td>27.8, CH2</td><td>37.8, CH2</td><td>27.6, CH2</td><td>76.6, CH</td></tr><tr><td>13</td><td>39.2, CH</td><td>41.2, CH</td><td>37.1, CH</td><td>37.6, C</td><td>135.2, C</td><td>93.3, C</td></tr><tr><td>14</td><td>57.8, C</td><td>59.8, C</td><td>43.6, C</td><td>41.9, C</td><td>60.0, C</td><td>43.4, C</td></tr><tr><td>15</td><td>24.8, CH2</td><td>28.4d, CH</td><td>27.4, CH2</td><td>34.5c, CH2</td><td>25.0, CH2</td><td>29.0, CH2</td></tr><tr><td>16</td><td>34.6, CH2</td><td>36.2, CH2</td><td>24.5, CH2</td><td>34.8, CH2</td><td>34.7, CH2</td><td>22.3, CH2</td></tr><tr><td>17</td><td>49.1, C</td><td>49.7, C</td><td>52.7, C</td><td>46.0, C</td><td>49.5, C</td><td>46.2, C</td></tr><tr><td>18</td><td>51.0, CH</td><td>51.9, CH</td><td>45.6, CH</td><td>42.1, CH</td><td>131.2, C</td><td>52.5, CH</td></tr><tr><td>19</td><td>38.5, CH</td><td>38.0, CH</td><td>59.6, C</td><td>36.3, CH</td><td>42.4, CH2</td><td>40.2, CH2</td></tr><tr><td>20</td><td>143.1, C</td><td>143.5, C</td><td>209.7, C</td><td>29.5, C</td><td>34.2, C</td><td>32.4, C</td></tr><tr><td>21</td><td>118.4, CH</td><td>118.1, CH</td><td>84.3, CH</td><td>34.6, CH2</td><td>37.9, CH2</td><td>35.2, CH2</td></tr><tr><td>22</td><td>38.6, CH2</td><td>38.7c, CH2</td><td>44.8, CH2</td><td>31.6, CH2</td><td>36.4, CH2</td><td>28.7, CH</td></tr><tr><td>23</td><td>28.9, CH</td><td>29.0, CH</td><td>29.1, CH</td><td>29.4, CH</td><td>29.2, CH</td><td>66.1, CH2</td></tr><tr><td>24</td><td>16.8, CH</td><td>17.0, CH</td><td>16.5, CH</td><td>17.3, CH</td><td>17.13c, CH</td><td>13.7, CH</td></tr><tr><td>25</td><td>17.1, CH3</td><td>17.6, CH</td><td>16.8c, CH</td><td>15.0, CH</td><td>17.10c, CH</td><td>18.4, CH</td></tr><tr><td>26</td><td>17.6, CH</td><td>18.0, CH</td><td>16.9c, CH</td><td>26.3, CH</td><td>19.2, CH</td><td>19.2, CH</td></tr><tr><td>27</td><td>211.6, CH</td><td>178.5, C</td><td>15.1, CH3</td><td>29.6, CH</td><td>179.0, C</td><td>19.0, CH3</td></tr><tr><td>28</td><td>178.3, C</td><td>176.8, C</td><td>178.7, C</td><td>181.7, C</td><td>177.5, C</td><td>182.6, C</td></tr><tr><td>29</td><td>23.9, CH</td><td>23.6, CH</td><td>16.1, CH</td><td>34.1, CH</td><td>32.8, CH</td><td>33.7, CH</td></tr><tr><td>30</td><td>22.6, CH</td><td>22.5, CH</td><td>26.6, CH</td><td>31.8, CH</td><td>24.8, CH</td><td>24.2, CH</td></tr><tr><td colspan=\"2\">OCH3</td><td>51.7, CH</td><td></td><td></td><td>52.3, CH</td><td></td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The triterpenoid backbone represented by 3 is not seen commonly in Nature, for which only two compounds of this kind were previously reported.29.30 Instead of being derived from a lupane skeleton,29 3 is likely generated from the co-occurring known compound $3 \\beta$ -hydroxytaraxast-20- en-28-oic acid (14) by oxidative cleavage of the double bond,subsequent aldol condensation, and formation of the final lactone ring (Scheme 1). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Scheme 1. Possible biogenetic pathway of 3 from 14. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/5ad7d16480b49ff83e89616542bcc039b48fd55bf579b1f4f1f3feb1fcc8008f.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The molecular formula of cleistocalyxic acid C(4) was found to be $\\mathrm { C _ { 3 0 } H _ { 4 8 } O _ { 4 } }$ on the basis of the HRESIMS data. The $^ { 1 } \\mathrm { H }$ and $^ { 1 3 } \\mathrm { C }$ NMR spectra (Tables 1 and 2), in combination with the HSQC spectrum, indicated that 4 is a pentacyclic triterpenoid with seven tertiary methyls, two oxygenbearing methines $[ \\delta _ { \\mathrm { H } } 4 . 1 3 \\$ (ddd, $J = 1 1 . 5$ ,9.4, $4 . 3 \\ : \\mathrm { H z }$ ,H-2),3.44 (d, $J { = } 9 . 4 \\ : \\mathrm { H z }$ ,H-3); $\\delta _ { \\mathrm { c } } 6 9 . 0$ (C2),84.1 (C-3)],a trisubstituted double bond $[ \\delta _ { \\mathrm { H } } 5 . 5 5 ( \\mathrm { m } , \\mathrm { H } . 7 ) ; \\delta _ { \\mathrm { C } } 1 1 9 . 2 ( \\mathrm { C } \\cdot 7 ) , 1 4 9 . 0 ( \\mathrm { C } \\cdot 8 ) ]$ ,and a carboxylic acid group [δc 181.7 (C-28)]. Analysis of the $\\mathrm { ^ { 1 } H \\mathrm { - } ^ { 1 } H }$ COSY and HMBC spectra was used to establish a multiflorane type triterpenoid,31.32 in which hydroxylation at C-2 and C-3 was determined by the HMBC correlations of two gem-methyl singlets ( $\\delta _ { \\mathrm { H } } 1 . 1 8$ and 1.25) with C-3 and C-5,and the strong $\\mathrm { ^ { 1 } H \\mathrm { - } ^ { 1 } H }$ COSY interaction between H-2 and H-3 (Figure 4). The presence of a double bond between C-7 and C-8 was deduced from the $\\mathrm { ^ { 1 } H \\mathrm { - } ^ { 1 } H }$ COSY spin system of H$5 / \\mathrm { H } _ { 2 } { - } 6 / \\mathrm { H } { - } 7$ along with HMBC correlations of $\\mathrm { H } _ { 2 } { - } 6 / \\mathrm { H } _ { 3 }$ -26 with C-8 and of H-7 with C-9/C-14 (Figure 4). Also, the carboxylic acid group was assigned to C-28 by the HMBC cross peaks observed from $\\mathrm { H } _ { 2 ^ { - } } 1 5 / \\mathrm { H } { - } 1 8 / \\mathrm { H } _ { 2 ^ { - } } 2 2$ to the carboxy carbon $( \\delta _ { \\mathrm { { C } } } 1 8 1 . 7 )$ . The relative configuration of 4 was established on the basis of proton coupling constants and NOESY spectrum. The large diaxial coupling constants between $_ { \\mathrm { H - 1 } \\alpha }$ and H-2 ( $\\langle J = 1 1 . 5 \\mathrm { H z } \\rangle$ ),and between H-2 and H-3 ( $\\mathbf { \\nabla } J =$ $9 . 4 \\mathrm { H z } \\backslash$ (Table 1) as well as NOE interactions of H-3/H-5, $\\mathrm { H } { - } 3 / \\mathrm { H } _ { 3 }$ -23,H-5/H-9,and $\\mathrm { H } { - } 9 / \\mathrm { H } _ { 3 }$ -27 (Figure 4) indicated that H-3, H-5, H-9, $\\mathrm { C H } _ { 3 } – 2 7$ are co-facial and $\\alpha$ -oriented. In turn, NOE ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "correlations of $\\mathrm { H } { - } 2 / \\mathrm { H } _ { 3 }$ -24, $\\mathrm { H } { - } 2 / \\mathrm { H } _ { 3 }$ -25, $\\mathrm { H } _ { 3 } – 2 4 / \\mathrm { H } _ { 3 } – 2 5$ ,and $\\mathrm { H } _ { 3 }$ -26/H-18,together with the absence of any NOE interaction between H-18 and $\\mathrm { H } _ { 3 } { - } 2 7$ (Figure 4), suggested the $\\beta$ -orientation of H-2 and H-18. Thus, the structure of 4 was proposed as $2 \\alpha \\mathrm { , } 3 \\beta$ -dihydroxymultiflor-7-en-28-oic acid. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c261380b5e1c685abd652e1420b5f67a81da300cb5d0f360f802357b6c37ee6.jpg",
+        "img_caption": [
+            "Figure 4. Key $\\mathrm { ^ { 1 } H \\mathrm { - } ^ { 1 } H }$ COSY (bold lines),HMBC (plain arrows),and NOE (dashed arrows) correlations of 4. "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Cleistocalyxic acid D (5) was determined to have the molecular formula, $\\mathrm { C _ { 3 l } H _ { 4 8 } O _ { 5 } }$ ,from the HRESIMS. The $^ { 1 } \\mathrm { H }$ and $^ { 1 3 } \\mathrm { C }$ NMR spectra (Tables 1 and 2) showed a structure closely related to oleanolic acid (16) except for the presence of a methoxy group $( \\delta _ { \\mathrm { H } } 3 . 7 8 ; \\delta _ { \\mathrm { C } } 5 2 . 3 )$ and replacements of the trisubstituted olefin and one of the tertiary methyls in 16 by a tetrasubstituted double bond ( $\\langle \\delta _ { \\mathrm { C } } 1 3 5 . 2$ and 131.2) and a carboxylic acid group ( $\\mathrm { \\partial } \\cdot \\delta _ { \\mathrm { C } } 1 7 7 . 5$ or 179.0), respectively. Analysis of the $\\mathrm { ^ { 1 } H \\mathrm { - } ^ { 1 } H }$ COSY and HSQC spectra (Figure S1, Supporting Information) enabled the assignment of a methylene $( \\delta _ { \\mathrm { H } } 3 . 0 7 , 2 . 8 9 ; \\delta _ { \\mathrm { C } } 2 7 . 6 )$ to C-12, but showed the absence of a methine at C-18 as in compound 16. Furthermore, the HMBC spectrum (Figure S1, Supporting Information) showed long-range H-C correlations from $\\mathrm { H } _ { 2 }$ -12 and $\\mathrm { H } _ { 2 }$ -19 to both olefinic carbons, revealing that a double bond is located between C-13 and C-18. Carboxylic acid groups at C-14 and C-17, with the latter being esterified by a methyl group, were shown by HMBC correlations from $_ { \\mathrm { H } _ { 2 ^ { - } } 1 5 }$ to one carboxy carbon ( $( \\delta _ { \\mathrm { C } } 1 7 9 . 0 ) \\$ and from $\\mathrm { H } _ { 2 }$ -16, $\\mathrm { H } _ { 2 } { - } 2 2$ ,and the methoxy protons to the other carboxy carbon $( \\delta _ { \\mathrm { C } } 1 7 7 . 5 )$ (Figure S1, Supporting Information). The relative configuration of 5 was found to be consistent with that of 16 by the proton coupling constants (Table 1) and NOE interactions in the NOESY spectrum (Supporting Information). Therefore, the structure of 5 was elucidated as $3 \\beta .$ -hydroxyolean-13(18)-en-27,28-dioic acid 28-methyl ester. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Cleistocalyxolide B (6) showed a molecular formula of $\\mathrm { C _ { 3 0 } H _ { 4 8 } O _ { 6 } }$ ,according to the HRESIMS data. The $^ { 1 } \\mathrm { H }$ and $^ { 1 3 } \\mathrm { C }$ NMR spectra of 6 (Tables 1 and 2) were very similar to those of $2 \\alpha , 3 \\beta , 2 3 \\cdot$ （20 trihydroxy- $1 1 \\alpha , 1 2 \\alpha \\cdot$ -epoxyolean- $^ { 2 8 , 1 3 \\beta }$ olide (19) except for the absence of the resonances for a 11,12-epoxide ring. Instead, the spectra exhibited signals for an extra hydroxylated methine ( $\\cdot \\delta _ { \\mathrm { H } }$ 3.77; Sc 76.6) and an additional methylene ( $^ { \\prime } \\delta _ { \\mathrm { { H } } } 1 . 9 3 , 1 . 5 8 ; \\delta _ { \\mathrm { { C } } } 2 9 . 7 )$ ,which were assigned to C-12 and C-11, respectively, by analysis of $\\mathrm { ^ { 1 } H \\mathrm { - } ^ { 1 } H }$ COSY (Figure 5) and HSQC spectra. The assignments were supported by HMBC correlations of $\\mathrm { H } _ { 2 }$ -11 with C-12 and C-13 $( \\delta _ { \\mathrm { C } } 9 3 . 3 )$ ,and of $\\mathrm { H } _ { 3 } { - } 2 7$ with C-13 (Figure 5). The $\\alpha$ -orientation of OH-12 was suggested by the NOE correlation of H-12/H-18 in the NOESY spectrum (Figure 5) and the small $^ { 1 } \\mathrm { H }$ NMR coupling constants between H-12 and $\\mathrm { H } _ { 2 }$ -11（ $J = 3 . 8$ and $2 . 4 \\mathrm { H z }$ ). The stereochemistry of6 was supported by theoretical ECD computations (Supporting Information), which were consistent with the negative CE around $2 2 0 \\mathrm { n m }$ in the measured ECD spectrum (Figure 6). Accordingly, the structure of 6 was characterized as $2 \\alpha , 3 \\beta , 1 2 \\alpha , 2 3$ -tetrahydroxyolean- $^ { 2 8 , 1 3 \\beta }$ -olide. ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/6fd3a13341074304ea1827284f9a598dc4f8a64bad9a98a64e007168b345b385.jpg",
+        "img_caption": [
+            "Figure 5. Key $\\mathrm { ^ { 1 } H \\mathrm { - } ^ { 1 } H }$ COSY (bold lines), HMBC (plain arrows), and NOE (dashed arrows) "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "correlations of 6. ",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/89c61ea94e7c8e83d73c3417825892975cdc3926b7600b39855a0a9b9795d5a0.jpg",
+        "img_caption": [
+            "Figure 6. Comparison between the MO6/TZVP calculated and measured ECD spectra of 6 in MeOH ( $\\sigma = 0 . 3 6 \\mathrm { e V }$ ，shift $= + 1 ~ \\mathrm { { n m } } ,$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Cleistocalyxic acid E(7) gave a sodium adduct ion peak at m/z 527.3325 in $( + )$ -HRESIMS, corresponding to a molecular formula of $\\mathrm { C _ { 3 0 } H _ { 4 8 } O _ { 6 } }$ . The $^ { 1 } \\mathrm { H }$ and $^ { 1 3 } \\mathrm { C }$ NMR spectra (Tables 3 and 4) were almost identical to those of arjunolic acid (18) except for replacement one of the methylenes in 18 by an additional oxymethine $[ \\delta _ { \\mathrm { H } } 4 . 4 4 \\$ (1H, dd, $J = 8 . 8 , 3 . 8 \\mathrm { H z }$ ） $\\delta _ { \\mathrm { C } } 8 1 . 9 ]$ in 7. The $\\mathrm { ^ { 1 } H \\mathrm { - } ^ { 1 } H }$ COSY interactions of this oxymethine proton with H-9 and H-12 as well as HMBC correlations of the same oxymethine proton with C-10/C-12/C-13 (Figure 7) revealed the attachment of an OH group to C-11 in 7. The NOE interation of $\\mathrm { H } _ { 3 } { - } 2 6$ with H-11 (Figure 7) ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "indicated the $\\alpha$ -orientation of OH-11. Cleistocalyxic acid F(8) gave a molecular formula with one $\\mathrm { C H } _ { 2 }$ unit more than that of 7 according to its $( + )$ -HRESIMS.It was an 11- $O$ -methylated derivative of 7 as indicated by close similarity of its $^ { 1 } \\mathrm { H }$ and $^ { 1 3 } \\mathrm { C }$ NMR spectra with those of 7, except for the presence of signals for a methoxy group $( \\delta _ { \\mathrm { H } } 3 . 2 9 ; \\delta _ { \\mathrm { C } } 5 4 . 6 )$ and the upfield shifts of H-11 and C-11 relative to those in 7 (Tables 3 and 4),and supported by its 2D NMR spectra (Figure S1, Supporting Information). Therefore, the structures of 7 and 8 were defined as $2 \\alpha , 3 \\beta , 1 1 \\alpha , 2 3$ -tetrahydroxyolean-12-en-28-oic acid and $2 \\alpha , 3 \\beta , 2 3$ -trihydroxy- $1 1 \\alpha \\cdot$ methoxyolean-12-en-28-oic acid, respectively. ",
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/8aa8d8e7bce3dee64afb7822062be0556eb9d4fe5e7a3bf17d191ad575a740a5.jpg",
+        "img_caption": [
+            "Figure 7. Key $\\mathrm { ^ { 1 } H \\mathrm { - } ^ { 1 } H }$ COSY (bold lines),HMBC (plain arrows),and NOE (dashed arrows) correlations of 7. "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/f6617e52a15333b14718bfbf9e00f5f955ed799078bcb8c242bf14606da36326.jpg",
+        "table_caption": [
+            "Table 3. 1H NMR Data $( { \\bf 5 0 0 M H z } )$ ！ $[ \\delta _ { \\mathrm { H } }$ in ppm, mult., (J in Hz)] of Compounds 7-13 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>no.</td><td>76</td><td>8b</td><td>96</td><td>10a</td><td>11</td><td>12b</td><td>13b</td></tr><tr><td>1</td><td>α 1.15 m β 2.33 dd</td><td>α 1.14-1.20 m β 2.17 dd</td><td>α 0.92 m β 3.08 dd</td><td>α 1.07 m β 1.79 m</td><td>α 1.11-1.17 m β 2.45 dd</td><td>α 1.19 m β 2.20 dd</td><td>α 0.93 m β 3.05 dd</td></tr><tr><td>2</td><td>(13.3,4.4) 3.70 ddd (11.8,</td><td>(13.3,4.4) 3.69 ddd (11.6,</td><td>(12.7, 4.4) 3.74 ddd (11.5,</td><td>1.81-1.86 m</td><td>(13.3,4.3) 3.70 ddd (11.9,</td><td>(13.7, 5.2) 3.70 ddd (11.5,</td><td>(12.7, 4.5) 3.75 ddd (11.3,</td></tr><tr><td>3</td><td>9.6, 4.4) 3.36 d (9.6)</td><td>9.6, 4.3) 3.35 d (9.6)</td><td>9.6, 4.5) 3.35 d (9.6)</td><td>1.88 m 3.28 dd (11.5,</td><td>9.7, 4.4) 3.37 d (9.7)</td><td>9.6, 4.3) 3.36 d (9.6)</td><td>9.7,4.4) 3.37 d (9.7)</td></tr><tr><td>5</td><td>1.30 m</td><td>1.31 m</td><td>1.24-1.28 m</td><td>4.6) 0.91 m</td><td>1.32 m</td><td>1.30 m</td><td>1.27 m</td></tr><tr><td>6</td><td>α 1.49 m</td><td>α 1.48 m</td><td>α 1.50 m</td><td>α 1.62 m</td><td>α 1.49 m</td><td>α 1.49 m</td><td>α 1.52 m</td></tr><tr><td></td><td>β 1.38-1.44 m</td><td>β 1.38 m</td><td>β 1.44 m</td><td>β 1.45m</td><td>β 1.41 m</td><td>β 1.40 m</td><td>β 1.44 m</td></tr><tr><td>7</td><td>1.54-1.59 m</td><td>1.54-1.59 m</td><td>1.74-1.80 m</td><td>α 2.07 m</td><td>α 1.62 m</td><td>α 1.61 m</td><td>α 1.81 m</td></tr><tr><td></td><td>1.20-1.24 m</td><td>1.19-1.24 m</td><td>1.33 m</td><td>β 1.99 m</td><td>β 1.27 m</td><td>β 1.25 m</td><td>β 1.38 m</td></tr></table></body></html>",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/e4d88268253356fa5f3202b3278b486f145e2721f6dbb84cd7dcdabe004b106b.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "aPyridine- $d _ { 5 }$ used as solvent. Methanol- $d _ { 4 }$ used as solvent. "
+        ],
+        "table_body": "<html><body><table><tr><td>9</td><td>1.78 d(8.8)</td><td>1.80 d (8.6)</td><td>2.52 s</td><td>1.97 m</td><td>1.84 d (9.2)</td><td>1.79 d (8.5)</td><td>2.52 s</td></tr><tr><td>11</td><td>4.44 dd (8.8,</td><td>3.88 dd (8.6, 3.8)</td><td></td><td>α 1.81-1.86 m</td><td>4.47 dd (9.2, 3.4)</td><td>3.85 dd (8.5, 3.6)</td><td></td></tr><tr><td>12</td><td>3.8) 5.60 d (3.8)</td><td>5.62 dd (3.8)</td><td>5.56 s</td><td>β 1.50 m α 2.97 m</td><td>5.57 d (3.4)</td><td>5.51 d (3.6)</td><td>5.55 s</td></tr><tr><td>13</td><td></td><td></td><td></td><td>β 2.05 m 2.99 m</td><td></td><td></td><td></td></tr><tr><td>15</td><td>α 1.09 m</td><td>α 1.09 m</td><td>α 1.29 m</td><td>α 2.52 ddd</td><td>α 1.11-1.17 m</td><td>α 1.16 m</td><td>α 1.33 m</td></tr><tr><td rowspan=\"4\">16</td><td>β 1.71 m</td><td>β 1.70 m</td><td>β 1.74-1.80 m</td><td>(13.4, 4.6, 3.3)</td><td>β 1.89 m</td><td>β 1.85-1.90 m</td><td>β 1.92-1.98 m</td></tr><tr><td>α 2.04 ddd</td><td>α 2.04 ddd</td><td>α 2.14 ddd</td><td>β 1.59 m α 2.88 ddd</td><td>α 2.25 m</td><td>α 2.28m</td><td>α 2.35 m</td></tr><tr><td>(14.4, 13.4, 3.8)</td><td>(14.4, 13.5,</td><td>(14.1, 13.4,</td><td>(14.0, 13.6,</td><td>β 1.77 m</td><td>β 1.77 m</td><td>β 1.86 m</td></tr><tr><td>β 1.62 m</td><td>4.1) β 1.63 m</td><td>4.7) β 1.72 m</td><td>3.3) β 2.39 ddd</td><td></td><td></td><td></td></tr><tr><td>18</td><td>2.92 dd (13.8, 4.6)</td><td>2.90 dd (14.0, 4.6)</td><td>3.00 dd (14.1,</td><td>(14.0, 4.6, 3.2) 2.62 m</td><td>2.32-2.36 m</td><td>2.31m</td><td>2.46 m</td></tr><tr><td>19</td><td>α 1.65 m</td><td>α 1.68 m</td><td>4.4) α 1.74-1.80 m</td><td>2.64 m</td><td>2.37 m</td><td>2.40 m</td><td>2.49 m</td></tr><tr><td>21</td><td>β 1.33 m 1.38-1.44 m</td><td>β 1.14-1.20 m 1.41 m</td><td>β 1.19 m 1.47 m</td><td>5.89 d (6.5)</td><td>2.32-2.36 m</td><td>2.36m</td><td>1.92-1.98 m</td></tr><tr><td></td><td>1.20-1.24 m</td><td>1.19-1.24 m</td><td>1.24-1.28 m</td><td></td><td>2.22 m</td><td>2.24 m</td><td>1.64 m</td></tr><tr><td>22</td><td>α 1.54-1.59 m</td><td>α 1.54-1.59 m</td><td>α 1.66 m</td><td>4.53 d (6.5)</td><td>1.86 m</td><td>1.85-1.90 m</td><td>2.39 m</td></tr><tr><td>23</td><td>β 1.76 m</td><td>β 1.75 m</td><td>β 1.74-1.80 m</td><td></td><td>1.64 m</td><td>1.64 m</td><td>2.25 m</td></tr><tr><td></td><td>3.51 d (11.2) 3.27 d (11.2)</td><td>3.51 d (11.2) 3.26 d (11.2)</td><td>3.52 d (11.2) 3.26 d (11.2)</td><td>1.10 s</td><td>3.52 d (11.2)</td><td>3.52 (11.1)</td><td>3.53 d (11.2)</td></tr><tr><td>24</td><td>0.70 s</td><td>0.70 s</td><td>0.70 s</td><td>1.04 s</td><td>3.27 d(11.2) 0.71 s</td><td>3.27 (11.1) 0.71 s</td><td>3.26 d (11.2) 0.70 s</td></tr><tr><td>25</td><td>1.13 s</td><td>1.13 s</td><td>1.20 s</td><td>0.97 s</td><td></td><td>1.15 s</td><td></td></tr><tr><td>26</td><td>0.84 s</td><td>0.83 s</td><td>0.98 s</td><td>1.24 s</td><td>1.16 s</td><td></td><td>1.22 s</td></tr><tr><td>27</td><td></td><td></td><td></td><td></td><td>0.89 s</td><td>0.85 s</td><td>1.02 s</td></tr><tr><td>29</td><td>1.24 s</td><td>1.25 s</td><td>1.43 s</td><td></td><td>1.25 s</td><td>1.26 s</td><td>1.43 s</td></tr><tr><td></td><td>0.92 s</td><td>0.93 s</td><td>0.95 s</td><td>1.36 d (6.0)</td><td>1.14 d (5.9)</td><td>1.09 d (6.4)</td><td>1.03 d (6.0)</td></tr><tr><td>30</td><td>0.97 s</td><td>0.97 s</td><td>0.97 s</td><td>1.78 s</td><td>4.70 brs 4.66 brs</td><td>4.71 brs 4.67 brs</td><td>4.75 brs 4.69 brs</td></tr><tr><td>OCH</td><td></td><td>3.29 s</td><td></td><td>3.71 s</td><td></td><td>3.33 s</td><td></td></tr></table></body></html>",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Cleistocalyxic acid G (9) was determined to have a molecular formula of $\\mathrm { C _ { 3 0 } H _ { 4 6 } O _ { 6 } }$ from the HRESIMS, which was two hydrogen atoms less than that of 7. The 1D NMR data of 9(Tables 3 and 4) were closely comparable to those of 7 except for the absence of the oxymethine C-11, the presence of a ketone carbonyl carbon $( \\delta _ { \\mathrm { C } } 2 0 2 . 7 )$ , and the significant downfield shifts of C-13 ( $\\mathrm { \\partial } \\cdot \\mathrm { \\partial } \\delta \\mathrm { \\partial }$ 172.8), H-9 ( $( \\delta _ { \\mathrm { H } } 2 . 5 2 )$ , and C-9 $( \\delta _ { \\mathrm { { C } } } 6 2 . 9 )$ (Tables 3 and 4). Analysis of the 2D NMR spectra (Figure S1, Supporting Information) indicated that 9 is an 11-keto derivative of 7. The configuration determination of 9 was supported by ECD/TDDFT computations that afforded a simulated ECD spectrum in excellent agreement with the measured spectrum (Figure 8). Consequently, the structure of this molecule was established as $2 \\alpha , 3 \\beta , 2 3$ -trihydroxy-11-0x0- olean-12-en-28-oic acid. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/f134c8a9a47aafd55c0838cc66ee4fd1203090163bacd41a3c8ef8149e1ff120.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Figure 8. Comparison between the MO6/TZVP calculated and measured ECD spectra of 9 in MeOH. Bars represent the calculated rotatory strengths $R$ （20 $( 1 0 ^ { - 4 0 } \\mathrm { c g s } )$ of the global energy minimum ( $\\mathrm { \\Delta \\sigma } _ { \\mathrm { \\sigma } } = 0 . 3 8 \\mathrm { \\ e V }$ ，shift $= - 2 { \\mathrm { ~ n m } } ,$ ） ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Cleistocalyxic acid H(10) was found to have a molecular formula of $\\mathrm { C _ { 3 l } H _ { 4 8 } O _ { 6 } }$ on the basis of the HRESIMS. Comprehensive analysis of $^ { 1 } \\mathrm { H }$ ， $^ { 1 3 } \\mathrm { C }$ ， $\\mathrm { ^ { 1 } H \\mathrm { - } ^ { 1 } H }$ COSY,HSQC,and HMBC NMR spectra (Tables 3 and 4, Figure 9) were used to construct a planar structure similar to those of 2 except for the replacement of the $\\mathrm { C H } _ { 2 }$ -22 in 2 by a hydroxymethine $[ \\delta _ { \\mathrm { H } } 4 . 5 3 \\$ ,(1H,d, $J { = } 6 . 5 \\mathrm { H z } { \\mathrm { , } }$ ） $\\delta _ { \\mathrm { C } } 6 9 . 4 ]$ . However, the relative configuration of 10 was found to be different from that of 2 on the basis of the NOESY spectrum,in which the presence of NOE correlations of $\\mathrm { H } { - } 1 2 \\beta / \\mathrm { H } { - } 1 8$ H-16α/H-19,and H-22/H-16β (Figure 9) suggested the $\\beta$ orientation of H-18, $\\underline { { \\operatorname { C H } } } _ { 3 ^ { - } } 2 9$ ,and OH22 and an ursane-type cis D/E ring junction rather than the taraxastane-type trans-fusion of D/E rings in 2. Hence, the structure of 10 was characterized as ${ } _ { 3 \\beta , 2 2 \\beta } .$ dihydroxyurs-20-en-27,28- dioic acid 28-methyl ester. ",
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/48409a13ee3addea69445cbc3a9ca253d97ebdedeb938befbd35013be7396028.jpg",
+        "img_caption": [
+            "Figure 9. Key $\\mathrm { ^ { 1 } H \\mathrm { - } ^ { 1 } H }$ COSY (bold lines),HMBC (plain arrows),and NOE (dashed arrows) correlations of 10. "
+        ],
+        "img_footnote": [],
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/0c0959e4794c5ad2b44d0d7c446bf8e1e1f10e18559a2a4fdb30454f3fb7a785.jpg",
+        "table_caption": [
+            "Table 4. $^ { 1 3 } \\mathbf { C }$ NMR(125MHz) Data ( $\\ : \\delta _ { \\mathrm { c } } \\ :$ in ppm, type) of Compounds 7-13 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>no.</td><td>76</td><td>8b</td><td>96</td><td>10a</td><td>11b</td><td>12b</td><td>13b</td></tr><tr><td>1</td><td>48.9, CH2</td><td>48.9, CH2</td><td>48.2, CH2</td><td>39.7, CH2</td><td>49.1, CH2</td><td>49.1, CH2</td><td>48.2, CH2</td></tr><tr><td>2</td><td>69.8, CH</td><td>69.8, CH</td><td>69.3, CH</td><td>28.6, CH2</td><td>69.9, CH</td><td>69.8, CH</td><td>69.4, CH</td></tr><tr><td>3</td><td>77.9, CH</td><td>77.8, CH</td><td>77.6, CH</td><td>78.3, CH</td><td>77.9, CH</td><td>77.9, CH</td><td>77.7, CH</td></tr><tr><td>4</td><td>44.2, C</td><td>44.1, C</td><td>44.2, C</td><td>39.9, C</td><td>44.2, C</td><td>44.2, C</td><td>44.2, C</td></tr><tr><td>5</td><td>48.1, CH</td><td>48.2, CH</td><td>47.8, CH</td><td>56.4, CH</td><td>48.2, CH</td><td>48.2, CH</td><td>47.8, CH</td></tr><tr><td>6</td><td>19.1, CH2</td><td>19.1, CH2</td><td>18.1, CHz</td><td>19.4, CH2</td><td>19.0, CH</td><td>19.1, CH2</td><td>18.2, CH2</td></tr><tr><td>7</td><td>33.6c, CH2</td><td>33.6c, CH</td><td>33.4, CH2</td><td>38.7, CH2</td><td>34.0, CH2</td><td>33.9, CH</td><td>33.6, CH2</td></tr><tr><td>8</td><td>43.9, C</td><td>43.9, C</td><td>45.4, C</td><td>41.6, C</td><td>43.8, C</td><td>43.7, C</td><td>46.0, C</td></tr><tr><td>9</td><td>52.2, CH</td><td>53.8, CH</td><td>62.9, CH</td><td>52.5, CH</td><td>51.3, CH</td><td>54.1, CH</td><td>62.6, CH</td></tr><tr><td>10</td><td>39.8, C</td><td>40.1, C</td><td>39.1, C</td><td>38.3, C</td><td>39.9, C</td><td>40.0, C</td><td>39.1, C</td></tr><tr><td>11</td><td>81.9, CH</td><td>77.4, CH</td><td>202.7, C</td><td>22.5, CH2</td><td>82.1, CH</td><td>77.7, CH</td><td>202.2, C</td></tr><tr><td>12</td><td>123.7, CH</td><td>122.6, CH</td><td>128.2, CH</td><td>28.8, CH2</td><td>127.5, CH</td><td>126.0, CH</td><td>131.1, CH</td></tr><tr><td>13</td><td>150.6, C</td><td>150.5, C</td><td>172.8, C</td><td>40.9, CH</td><td>144.2, C</td><td>143.9, C</td><td>166.3, C</td></tr><tr><td>14</td><td>43.1, C</td><td>43.2, C</td><td>45.1, C</td><td>59.8, C</td><td>43.4, C</td><td>43.5, C</td><td>45.5, C</td></tr><tr><td>15</td><td>29.0, CH2</td><td>29.0, CH2</td><td>28.9, CH2</td><td>28.4, CH2</td><td>29.4, CH2</td><td>29.3, CH</td><td>29.6, CH2</td></tr><tr><td>16</td><td>23.9, CH</td><td>23.9, CH</td><td>23.9, CH2</td><td>32.0, CH</td><td>25.3, CH</td><td>25.2, CH</td><td>25.2, CH2</td></tr><tr><td>17</td><td>47.2, C</td><td>47.3, C</td><td>47.2, C</td><td>54.9, C</td><td>49.3, C</td><td>48.8, C</td><td>48.2, C</td></tr><tr><td>18</td><td>42.2, CH</td><td>42.4, CH</td><td>43.4, CH</td><td>42.8, CH</td><td>55.9, CH</td><td>55.9, CH</td><td>56.7, CH</td></tr><tr><td>19</td><td>46.4, CH2</td><td>47.0, CH2</td><td>45.5, CH2</td><td>38.3,CH</td><td>38.5,CH</td><td>38.2,CH</td><td>37.8,CH</td></tr><tr><td>20</td><td>31.6, C</td><td>31.6, C</td><td>31.6, C</td><td>147.5, C</td><td>154.6, C</td><td>154.2, C</td><td>153.4, C</td></tr><tr><td>21</td><td>34.9, CH2</td><td>34.8, CH</td><td>34.7, CH2</td><td>123.1, CH</td><td>33.3, CH2</td><td>33.2, CH</td><td>39.9, CH2</td></tr><tr><td>22</td><td>33.7, CH2</td><td>33.8, CH</td><td>32.9, CH2</td><td>69.4, CH</td><td>40.5, CH2</td><td>40.3, CH2</td><td>33.1, CH</td></tr><tr><td>23</td><td>66.1, CH2</td><td>66.1, CH2</td><td>65.8, CH2</td><td>29.0, CH</td><td>66.2, CH2</td><td>66.2, CH2</td><td>65.9, CH2</td></tr><tr><td>24</td><td>13.8, CH</td><td>13.8, CH</td><td>13.9, CH</td><td>17.0, CH</td><td>13.9, CH</td><td>13.9, CH</td><td>13.9, CH3</td></tr></table></body></html>",
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/3dd696f273a687714c24f65eedfac816120b4f8a9643c1cc89e030937c991097.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "aPyridine- $d _ { 5 }$ used as solvent. bMethanol- $d _ { 4 }$ used as solvent.cAssignments interchangeable in the same column.dn.d.:not detected. "
+        ],
+        "table_body": "<html><body><table><tr><td>25</td><td>18.9, CH</td><td>19.0, CH</td><td>18.3, CH</td><td>17.6, CH</td><td>18.8, CH</td><td>19.1, CH</td><td>18.4, CH</td></tr><tr><td>26</td><td>19.6, CH</td><td>19.4, CH</td><td>19.8, CH</td><td>18.1, CH</td><td>19.6, CH</td><td>19.4, CH</td><td>19.9, CH</td></tr><tr><td>27</td><td>25.3, CH</td><td>25.7, CH</td><td>24.0, CH</td><td>178.6, C</td><td>23.0, CH</td><td>23.3, CH</td><td>21.3, CH</td></tr><tr><td>28</td><td>182.0, C</td><td>181.7, C</td><td>180.8, C</td><td>177.0, C</td><td>n.d.d</td><td>180.7, C</td><td>n.d.d</td></tr><tr><td>29</td><td>33.5, CH</td><td>33.5, CH</td><td>33.2, CH</td><td>23.5, CH</td><td>16.9, CH</td><td>16.8, CH</td><td>16.8, CH</td></tr><tr><td>30</td><td>24.0, CH</td><td>24.0, CH</td><td>23.8, CH</td><td>22.8, CH</td><td>105.4, CH2</td><td>105.6, CH2</td><td>106.2, CH</td></tr><tr><td>OCH3</td><td></td><td>54.6, CH</td><td></td><td>51.7, CH</td><td></td><td>55.1, CH</td><td></td></tr></table></body></html>",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Cleistocalyxic acid I(11) gave a molecular formula of $\\mathrm { C _ { 3 0 } H _ { 4 6 } O _ { 6 } }$ as determined from HRESIMS data. The $^ { 1 } \\mathrm { H }$ and $^ { 1 3 } \\mathrm { C }$ NMR spectra (Tables 3 and 4), in combination with the HSQC spectrum, suggested a structure closely related to that of the known compound $2 \\alpha , 3 \\beta , 1 1 \\alpha , 2 3$ tetrahydroxyurs-12-en-28-oic acid (25),except for replacement one of the aliphatic methines and one of two secondary methyls in 25 by an extra olefinic quaternary carbon ( $( \\delta _ { \\mathrm { C } } 1 5 4 . 6 )$ and an olefinic methylene ( $^ \\prime \\delta _ { \\mathrm { H } } 4 . 6 6 , 4 . 7 0 ; \\delta _ { \\mathrm { C } } 1 0 5 . 4 \\$ ),respectively, in accordance with the presence of an exocyclic double bond. Detailed analysis of the $\\mathrm { ^ { 1 } H \\mathrm { - } ^ { 1 } H }$ COSY and HMBC spectra (Figure S1, Supporting Information), in particular HMBC correlations from the olefinic methylene protons to C-19/C-21 and from $\\mathrm { H } _ { 3 } { - } 2 9$ to the olefinic quaternary carbon $( \\delta _ { \\mathrm { C } } 1 5 4 . 6 )$ , were used to locate the exocyclic double bond at C-2O. Cleistocalyxic acid J(12) was deduced to be an 11- $O$ -methyl derivative of 11 by comparison of its HRESIMS and 1D NMR data with those of 11(Tables 3 and 4) and analysis of its 2D NMR data (Figure S1, Supporting Information). Consequently, 11 and 12 were defined structurally as $2 \\alpha , 3 \\beta , 1 1 \\alpha , 2 3$ -tetrahydroxyurs-12,20(30)-dien-28-oic acid and $2 \\alpha , 3 \\beta , 2 3$ -trihydroxy- $1 1 \\alpha$ -methoxyurs-12,20(30)-dien-28-oic acid, respectively. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Cleistocalyxic acid K(13) was determined to have a molecular formula of $\\mathrm { C _ { 3 0 } H _ { 4 4 } O _ { 6 } }$ containing two hydrogen atoms less than that of 11. The $^ { 1 } \\mathrm { H }$ and $^ { 1 3 } \\mathrm { C }$ NMR spectra (Tables 3 and 4) were similar to those of 11 except for resonances corresponding to the protons and carbons in ring C, which, in turn, were similar to those of 9, suggesting this compound to be an 11-keto derivative of 11. The structure proposed was supported by the 2D NMR data (Figure S1, Supporting Information). The configuration of 13 was substantiated by ECD/TDDFT computations which provided a calculated ECD spectrum consistent with the experimental spectrum (Figure 1O). Therefore,13 was assigned as $2 \\alpha , 3 \\beta , 2 3$ -trihydroxy-11-oxours-12,20(30)- dien-28-oic acid. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/57402d952f5c0aeb1c92de0e99e093c41d4ceafbc486d20ee62cb80bfafaeafb.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Figure 10. Comparison between the MO6/TZVP calculated and measured ECD spectra of 13 in MeOH. Bars represent the calculated rotatory strengths $R$ （20 $( 1 0 ^ { - 4 0 } \\mathrm { c g s } )$ of the global energy minimum ( $\\mathrm { \\Delta \\mathfrak { O } = 0 . 2 8 \\mathrm { e V } }$ ，shift $= - 2 \\ \\mathrm { n m } )$ ！ ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "The molecular formula of compound 15 was determined to be $\\mathrm { C _ { 3 0 } H _ { 4 8 } O _ { 4 } }$ from the HRESIMS. Comparison of $^ { 1 } \\mathrm { H }$ and $^ { 1 3 } \\mathrm { C }$ NMR data obtained for 15 and 14 indicated that these two compounds share the same structure in rings A,B, C and D, but have a different ring E. The absence of signals for an olefin moiety and the presence of resonances for an oxygenated quaternary carbon （2号 $( \\delta _ { \\mathrm { { C } } } 8 5 . 4 )$ and an additional oxymethine $[ \\delta _ { \\mathrm { H } } 4 . 1 4 \\$ (1H, dd, $J = 1 0 . 2 , 5 . 7 ;$ ： $\\delta _ { \\mathrm { c } } 7 2 . 1 ]$ in the NMR spectra of 15 (Experimental Section) suggested that C-20 and C-21 are oxygenated $\\displaystyle \\mathbf { s p } ^ { 3 }$ carbons in 15 instead of having a double bond between them in 14.The presence of a weak correlation of $\\mathrm { H } _ { 3 }$ -30 with the carboxy C-28 ( $\\delta _ { \\mathrm { C } }$ 176.9) in the HMBC spectrum (Figure S1, Supporting Information), the downfield shift of the oxygenated quaternary carbon C-2O,and the upfield shift of C-28,together with the requirement of unsaturation sites indicated substitution of an OH at C21 and the connection of C-20 to C-28 via a ester linkage to form a six-membered lactone ring. The absence of the NOE correlation between $\\mathrm { H } _ { 3 } { - } 2 9$ and H-21 (Figure S2, Supporting Information) and the proton coupling pattern of H-21 (dd, $J = 1 0 . 2 , 5 . 7 \\mathrm { H z } )$ ）were consistent with a boat conformation of ring E and an $\\alpha$ -orientation of OH-21 were also inferred. To determine the configuration of 15, ECD/TDDFT computations were carried out on two possible stereoisomers,(18S,19S)- and $( 1 8 R , 1 9 R )$ -15, representing taraxastane- and ursane-type structures,respectively. As a result (Figure 11), the theoretical ECD spectrum of (18S,19S)-15 was found to be almost superimposable on the measured spectrum while that of $( 1 8 R , 1 9 R )$ -15 was similar to the mirror image of the measured one. Consequently, the structure of this molecule was defined as $_ { 3 \\beta , 2 1 \\alpha }$ -dihydroxytaraxast $2 8 { , } 2 0 \\beta .$ -olide. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/b48105f4e9a8d531f18d580d7458e8c78af5c73f4de613fcaed24956d49c0c2d.jpg",
+        "img_caption": [
+            "Figure 11. Comparison of the measured ECD spectrum of 15 with M06-2X/TZVP calculated spectra of (18S,19S)- and $( 1 8 R , 1 9 R )$ -15inMeOH ( $\\sigma = 0 . 3 5 \\mathrm { e V }$ ，shift $= - 2$ nm for both isomers) "
+        ],
+        "img_footnote": [],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "The cytotoxicity of compounds 1, 2,5,and 7-26 was evaluated against three cancer cell lines, human hepatocellular carcinoma (HepG2), human gastric carcinoma (NCI-N87),and human breast carcinoma (MCF-7), by MTT assay3 using doxorubicin as a positive control. As shown ir Table 5,the new compound 2 exhibited growth inhibitory effects on alltested cancer cell lines with $\\mathrm { I C } _ { 5 0 }$ values ranging from 3.2 to $6 . 5 \\mu \\mathrm { M }$ and compound 5 displayed the activity against HepG2 and NCI-N87 cell lines with the values around $5 . 0 \\mu \\mathrm { M }$ . The known compound 14 gave the best activity against the tested cells with $\\mathrm { I C } _ { 5 0 }$ values being $1 . 9 \\mathrm { - } 4 . 3 ~ \\mu \\mathrm { M }$ ,which was in agreement with the previous finding.16 A preliminary structure-activity relationship (SAR) analysis revealed that the structural types and number of oxygenated functional groups in these triterpenoids influenced their cytotoxicity. In general, ursolic acid derivatives were more favorable to cytotoxicity than their oleanolic acid counterparts (22, 23 vs.16,17),and the increase of hydroxy groups on rings A and C and 2O(3O)-dehydrogenation in ursolic acid derivatives diminished the activity (22,23 vs.24,25; 23 vs.20).For taraxast-20-en-28-oic acid derivatives, the substituent attached to C-14 played an important role in their cytotoxic activity. The 14-methyl (14) was slightly superior to the 14-carboxylic acid (2) while the 14-formyl (1) lost the activity (Table 5). Among the dicarboxylic acid 28-methyl esters, both olean-13(18)-ene 5 and taraxast-2O-ene 2 exhibited good cancer cell growth inhibitory effects while the urs-20-ene 10 was non-cytotoxic. ",
+        "page_idx": 22
+    },
+    {
+        "type": "table",
+        "img_path": "images/f59f85af940aa0d5f79446c32107597e100e17e45d35c1b50d1677712df835e2.jpg",
+        "table_caption": [
+            "Table 5. Cytotoxic Activity $( \\mathbf { I C _ { 5 0 } } , \\mu \\mathbf { M } ) ^ { a }$ of Compounds 1, 2, 5,and 7-26 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">compoundb</td><td colspan=\"3\">Cell lines</td></tr><tr><td>HepG2</td><td>NCI-N87</td><td>MCF-7</td></tr><tr><td>2</td><td>3.2 ± 0.49</td><td>6.5 ± 1.33</td><td>4.9 ± 0.52</td></tr><tr><td>5</td><td>5.0 ± 0.78</td><td>5.1 ± 0.84</td><td>>10.0</td></tr><tr><td>14</td><td>1.9 ± 0.30</td><td>2.4 ± 0.02</td><td>4.3 ± 0.01</td></tr><tr><td>15</td><td>> 10.0</td><td>7.3 ± 0.28</td><td>>10.0</td></tr></table></body></html>",
+        "page_idx": 22
+    },
+    {
+        "type": "table",
+        "img_path": "images/16153ffbec937e59e2bf067f6638702c90b4920462c5586c0dd47121a374337b.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "aValues represent means ± SD based on three individual experiments. bCompounds 1, 7-13, 16-21, 24 and 25 were non-cytotoxic $( \\mathrm { I C } _ { 5 0 } > 1 0 . 0 \\mu \\mathrm { M } )$ against all tested cell lines. "
+        ],
+        "table_body": "<html><body><table><tr><td>22</td><td>>10.0</td><td>4.2 ± 0.09</td><td>6.6 ± 0.32</td></tr><tr><td>23</td><td>> 10.0</td><td>4.4 ± 0.68</td><td>> 10.0</td></tr><tr><td>26</td><td>> 10.0</td><td>9.1 ± 0.56</td><td>> 10.0</td></tr><tr><td>doxorubicin</td><td>1.2 ± 0.02</td><td>1.6 ± 0.21</td><td>1.0 ± 0.17</td></tr></table></body></html>",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "The in vitro anti-inflammatory activity of compounds 1, 2, 7-13,15,17-21,and 23-25 were assessed using previously described method.34 As listed in Table 6, the 11-oxygenated oleanolic acid derivatives 7 and 8 exhibited inhibitory effects on LPS-induced IL-6 and TNF- $\\alpha$ production in RAW 264.7 macrophages, of which, 7 inhibited the production of IL-6 by $6 8 . 1 \\%$ and TNF- $\\mathbf { \\alpha } _ { \\mathrm { ~ \\normalfont ~ Q ~ } }$ by $5 3 . 7 \\%$ at the minimal tested concentration $2 \\mu \\mathrm { M }$ ,which were comparable to those of the control drug dexamethasone at the same concentration. However, none of their ursolic acid counterparts (11,12,and 25) provided inhibition more than $50 \\%$ against any of the two cytokins at the tested concentrations. The major component cleisocalyxic acid B (2) displayed moderate inhibitory effects $( 5 1 . 0 \\%$ and $4 2 . 9 \\%$ inhibition for IL-6 and TNF- $\\alpha$ ,respectively） at the highest non-cytotoxic concentration $( 2 \\mu \\mathbf { M } )$ . Examination of inhibition of IL-6 and TNF- $\\alpha$ production by the tested triterpenoids suggested that the $1 1 \\alpha \\cdot$ -hydroxylated oleanolic acid derivative 7 was the most favorable molecule for the activity, the methylation of OH-11 slightly weakened the activity (7 vs. 8),and the change of oxymethine at C-11 into a ketone group greatly diminished the activity (7, 8 vs. 9). ",
+        "page_idx": 23
+    },
+    {
+        "type": "table",
+        "img_path": "images/74f0cef5b7ca53c882d56a5f57b6d4e16dbbe21a03a539b965f29ea19678e5e1.jpg",
+        "table_caption": [
+            "Table 6.Inhibitory Effects of Compounds 1,2,7-13,15,17-21,and 23-25 on LPS-induced IL-6 and TNF- $\\pmb { \\alpha }$ Production in RAW 264.7 Macrophages ( $9 \\%$ Inhibition)a,b "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Compound</td><td colspan=\"4\">IL-6</td><td colspan=\"4\">TNF-α</td></tr><tr><td>50 μM</td><td>10 μM</td><td>2 μM</td><td>0.4 μM</td><td>50 μM</td><td>10 μM</td><td>2 μM</td><td>0.4 μM</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 23
+    },
+    {
+        "type": "table",
+        "img_path": "images/855817260389e9217b8a24e53bbaed0403006befc38516cf5fd467d47a7d3835.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "aValues represent means ± SD based on three individual experiments. Compounds 10-13,15, 17-21,and 23-25, giving inhibition no more than $50 \\%$ against any of the two cytokines at all tested concentrations, are not listed. cnt: not tested. "
+        ],
+        "table_body": "<html><body><table><tr><td>1</td><td>nte</td><td>53.8 ± 0.7</td><td>19.2 ± 5.3</td><td>23.6 ± 5.1</td><td>nt</td><td>35.9 ± 5.2</td><td>14.1 ± 2.0</td><td>14.8 ± 0.3</td></tr><tr><td>2</td><td>nt</td><td>nt</td><td>51.0 ± 0.2</td><td>38.4 ± 8.6</td><td>nt</td><td>nt</td><td>42.9 ± 2.1</td><td>39.1 ± 1.1</td></tr><tr><td>7</td><td>74.9 ± 2.0</td><td>69.9 ± 0.3</td><td>68.1 ± 0.2</td><td>nt</td><td>65.6 ± 0.3</td><td>57.7 ± 0.1</td><td>53.7 ± 0.3</td><td>nt</td></tr><tr><td>8</td><td>68.8 ± 1.5</td><td>64.8 ± 0.4</td><td>42.3 ± 2.9</td><td>nt</td><td>52.8 ± 1.1</td><td>54.1 ± 0.7</td><td>22.0 ± 1.4</td><td>nt</td></tr><tr><td>9</td><td>63.0 ± 0.1</td><td>35.2 ± 0.8</td><td>33.8 ± 0.5</td><td>nt</td><td>18.8 ± 1.6</td><td><10.0</td><td><10.0</td><td>nt</td></tr><tr><td>dexamethasone</td><td>84.9 ± 2.1</td><td>80.4 ± 0.2</td><td>75.9 ± 1.9</td><td>nt</td><td>86.1 ± 0.1</td><td>79.2 ± 0.8</td><td>71.8 ± 0.6</td><td>nt</td></tr></table></body></html>",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "EXPERIMENTALSECTION ",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "General Experimental Procedures. Optical rotations were obtained on a Perkin-Elmer 341 polarimeter with MeOH or $\\mathrm { C H C l } _ { 3 }$ as solvent. ECD spectra of 3, 6, 9,13,15 in MeOH were recorded on a Chirascan CD spectrometer (Applied Photophysics Ltd., Leatherhead, Kent, UK) using a $5 0 \\mathrm { n m / m i n }$ scanning speed, $1 \\mathrm { n m }$ bandwidth,and three accumulations.The ECD spectrum of solvent MeOH was used as baseline and subtracted from the experimental spectrum. $^ { 1 } \\mathrm { H }$ NMR, $^ { 1 3 } \\mathrm { C }$ NMR,and 2D NMR spectra were recorded in pyridine $d _ { 5 }$ or methanol- $d _ { 4 }$ on a Brucker AVII 5OOM instrument for $^ { 1 } \\mathrm { H }$ at 500 and for $^ { 1 3 } \\mathrm { C }$ at $1 2 5 \\mathrm { M H z }$ using the residual solvent peak as reference. Chemical shifts are reported as ppm (Sunits) and the coupling constants as $J$ in hertz $\\left( \\mathrm { H z } \\right)$ . The splitting pattern abbreviations are as follows: $s =$ singlet, ${ \\mathrm { d } } =$ doublet, ${ \\mathrm { d d } } =$ double doublet, $\\mathbf { t } =$ triplet, $\\mathbf { m } =$ multiplet, brs $\\mathbf { \\tau } = \\mathbf { \\tau }$ broad singlet. High-resolution electrospray ionization mass spectrometry (HRESIMS) was obtained on Bruker maXis Q-TOF mass spectrometer. ESIMS data were collected on a MDS Sciex API2OO0 LC/MS/MS instrument. Preparative HPLC was performed on a Waters 6OO pump and a 2487 dual $\\lambda$ absorbance detector. All separations were carried out with a Shimadzu Shim-Pack Pro-ODS column ( $( 2 0 \\mathrm { m m } \\times 2 5 \\mathrm { c m } )$ （20 at a flow rate of 5 mL/min. For column chromatography, silica gel 60 (100-20O mesh, Qingdao Marine Chemical Ltd., Qingdao,People's Republic of China), YMC ODS-A ( $7 5 \\ \\mu \\mathrm { m }$ ,YMC Co. Ltd., Kyoto, Japan), and Sephadex LH-2O (GE Healthcare, Uppsala, Sweden) were used. Fractions were monitored by TLC and spots were visualized by heating silica gel plates sprayed with $10 \\%$ ${ \\mathrm { H } } _ { 2 } { \\mathrm { S O } } _ { 4 }$ in EtOH. Theoretical computations of ECD spectra were performed using the truncated structures of compounds (see Supporting Information) in order to reduce the computational cost. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Plant Material. The leaves of Cleistocalyx operculatus were collected from the South China Botanical Garden, Guangzhou, People's Republic of China, in March 2O13 and authenticated by Professor Fuwu Xing.A voucher specimen (IBSC-0241915) was deposited at the South China Botanical Garden Herbarium (IBSC). ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Extraction and Isolation. The fresh leaves of Cleistocalyx operculatus were dried at room temperature and then crushed into powder $( 3 . 3 \\mathrm { k g } )$ ). After extraction with $90 \\%$ EtOH for $2 4 \\mathrm { h }$ $( \\times 3 )$ , the solutions were combined and concentrated under a vacuum. The crude extract was suspended in water and extracted successively with petroleum ether, EtOAc, and $n$ -BuOH for three times each. The combined petroleum ether- and EtOAc-soluble fractions $( 3 5 0 ~ \\mathrm { g } )$ were subjected to silica gel column chromatography (CC), eluted with gradient $\\mathrm { C H C l } _ { 3 }$ -MeOH mixtures (100:0-50:50), to afford ten fractions (Frs. A-J). ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Fr. D $( 4 0 \\ \\mathrm { g } )$ was further applied to silica gel CC using gradient petroleum ether-acetone mixtures (v/v, 9:1-6:4), to yield ten subfractions (Fr. D1-D10). Fr. D4 and D6 were separately subjected to Sephadex LH-20 CC using $\\mathrm { C H C l } _ { 3 }$ -MeOH(1:1) as an eluent and the corresponding subfractions were purified by preparative HPLC using $80 \\%$ （20 $\\mathrm { C H } _ { 3 } \\mathrm { C N }$ to yield 27 ( $\\mathrm { 3 0 ~ m g }$ ）and14 $( 4 0 \\mathrm { m g } )$ and using $90 \\%$ （204号 $\\mathrm { C H } _ { 3 } \\mathrm { C N }$ to yield 1 ( $\\mathrm { 3 \\ m g ) }$ and 3 ( $\\langle 3 \\mathrm { m g } \\rangle$ ), respectively. The precipitates in ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Fr. D5,D8,and D9 in MeOH were collected by filtration and washed with MeOH to give 16 (30 mg), 2 $( 2 . 2 \\ \\mathrm { g } )$ , and 15 $\\mathrm { 5 0 ~ m g }$ , respectively. The filtrate of Fr. D8 was further separated by ODS CC using aqueous MeOH of decreasing polarities $( 5 0 - 1 0 0 \\% )$ ), followed by preparative HPLC using $8 5 \\%$ （204号 $\\mathrm { C H } _ { 3 } \\mathrm { C N }$ to yield 4 $( 3 ~ \\mathrm { m g } )$ and using $90 \\%$ （204 $\\mathrm { C H } _ { 3 } \\mathrm { C N }$ to yield 5 ( $\\mathrm { 5 \\ m g ) }$ and 22 $\\mathrm { ( 5 0 ~ m g ) }$ Fr.E $( 3 5 \\mathrm { g } )$ was subjected to silica gel CC using petroleum ether-acetone mixtures of increasing polarities (9:1-2:1) to give nine subfractions (Fr. E1-E9). Fr. E4 was further separated by ODS CC using aqueous MeOH of decreasing polarities $( 5 0 - 1 0 0 \\%$ ), followed by preparative HPLC using $8 5 \\%$ MeOH, to afford 28 ( $2 \\ : \\mathrm { m g } )$ . The precipitate in Fr. E5 in MeOH was collected and washed with MeOH to yield a mixture of 17 and 23 $( 8 \\ \\mathrm { g } )$ , of which an aliquot ( $\\mathrm { 2 0 0 ~ m g } ,$ was applied to preparative HPLC using $8 5 \\%$ MeOH to give 17 ( $\\mathrm { 4 5 \\ m g ) }$ and 23 ( $\\mathrm { 5 0 ~ m g ) }$ in pure form. Fr. E6 was separated by ODS CC using aqueous MeOH $( 5 0 - 1 0 0 \\% )$ ). The fraction obtained by elution of $80 \\%$ MeOH was purified by preparative HPLC eluting with $80 \\%$ MeOH to give 20 (6 mg). In turn, the fraction afforded by elution of $90 \\%$ MeOH was purified with the same method using $8 5 \\%$ MeOH to afford 10 ( $\\langle 5 \\ : \\mathrm { m g } \\rangle$ and 26 ( $\\langle 4 \\ : \\mathrm { m g } \\rangle$ .Fr.G( $\\ 1 8 \\ \\mathrm { g } )$ was fractionated by ODS CC using aqueous MeOH $( 4 0 - 1 0 0 \\% )$ to afford seven subfractions (Fr. G1-G7). Fr. G5 and G6 were chromatographed separately on a Sephadex LH-2O column using CHCl3/MeOH (1:1) as an eluent and the resultant fractions were purified by preparative HPLC, using $65 \\%$ and $70 \\%$ MeOH, successively, to yield 6 (1 mg), 7 (9 mg), 8 $( 2 0 \\mathrm { m g } )$ ,9（ $1 5 \\mathrm { m g }$ ),11 (3 mg),12( $\\langle 3 \\ : \\mathrm { m g } \\rangle$ ,13 $( 5 \\mathrm { m g } )$ ,19 $\\cdot 2 2 \\mathrm { m g } ,$ , and 25 ( $\\langle 4 \\ : \\mathrm { m g } \\rangle$ . Fr. G7 in MeOH yielded a precipitate $( 1 0 \\ \\mathrm { g } )$ that was collected by filtration and a portion $( 3 0 0 \\mathrm { m g } )$ ） was purified by preparative HPLC using $7 5 \\%$ MeOH to give 18 ( $\\mathrm { 6 0 ~ m g }$ ,21 $\\mathrm { 2 0 ~ m g ) }$ , and 24 ( $( 6 5 ~ \\mathrm { m g } )$ ） ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Cleistocalyxic Acid A (1): white powder; $[ \\alpha ] _ { \\mathrm { ~ \\tiny ~ D ~ } } ^ { 2 0 } + 9 . 1 \\ ( c 0 . 1 7 , \\mathrm { C H C l _ { 3 } } )$ ·， $\\mathrm { ^ { 1 } H }$ and $^ { 1 3 } \\mathrm { C }$ NMR data, see Tables 1 and 2; (-)-ESIMS m/z 469 [M-H]; $( - )$ HRESIMS m/z 469.3323 $[ \\mathbf { M } - \\mathbf { H } ] ^ { - }$ (calcd for $\\mathrm { C } _ { 3 0 } \\mathrm { H } _ { 4 5 } \\mathrm { O } _ { 4 }$ ,469.3314). Cleistocalyxic Acid B (2): white powder; $[ \\alpha ] _ { \\mathrm { ~ \\tiny ~ D ~ } } ^ { 2 0 } + 2 1 . 1 \\ ( c \\ 0 . 2 , \\mathrm { C H C l _ { 3 } } )$ ：， $^ { 1 } \\mathrm { H }$ and $^ { 1 3 } \\mathrm { C }$ NMR data, see Tables 1 and 2; $( + )$ -ESIMS m/z 501 $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ ,523 $[ \\mathbf { M } + \\mathbf { N a } ] ^ { + }$ ， $( - )$ -ESIMS m/z 499 [M- H]-; $( + )$ -HRESIMS m/z 501.3575 $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ (calcd for $\\mathrm { C _ { 3 l } H _ { 4 9 } O _ { 5 } }$ ,501.3575). Cleistocalyxolide A (3): white powder; $[ \\alpha ] _ { \\phantom { } _ { 0 } } ^ { 2 } + 1 6 . 4 ( c 0 . 1 8 , \\mathrm { C H C l _ { 3 } } )$ $^ { 1 } \\mathrm { H }$ and $^ { 1 3 } \\mathrm { C }$ NMR data, see Tables 1 and 2; $( + )$ -ESIMS m/z 471 $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ $( + )$ -HRESIMS m/z 963.6680 $[ 2 \\mathrm { M } + \\mathrm { N a } ] ^ { + }$ (calcd for $\\mathrm { { C } _ { 6 0 } \\mathrm { { H } _ { 9 2 } \\mathrm { { N a O } _ { 8 } } } }$ ,963.6684). Cleistocalyxic Acid $C \\left( 4 \\right)$ : white powder; $[ \\alpha ] _ { \\textrm { 0 } } ^ { 2 } { - } 1 . 1 \\ ( c \\ 0 . 2 6 , \\mathrm { C H _ { 3 } O H } )$ ： $^ { 1 } \\mathrm { H }$ and $^ { 1 3 } \\mathrm { C }$ NMR data, see Tables 1 and 2; $( + )$ -ESIMS $m / z 4 9 5 [ \\mathrm { M } + \\mathrm { N a } ] ^ { + }$ ： $( - )$ -ESIMS m/z 471 [M-H]-; $( + )$ -HRESIMS $m / z 4 9 5 . 3 4 4 2 [ \\mathrm { M } + \\mathrm { N a } ] ^ { + }$ (calcd for $\\mathrm { C _ { 3 0 } H _ { 4 8 } N a O _ { 4 } }$ ,495.3445). Cleistocalyxic Acid $D$ (5): white powder; $[ \\alpha ] _ { \\textrm { 0 } } ^ { 2 } { - } 2 7 . 0 \\ ( c \\ 0 . 3 8 , \\mathrm { C H _ { 3 } O H } )$ $^ { 1 } \\mathrm { H }$ and $^ { 1 3 } \\mathrm { C }$ NMR data, see Tables 1 and 2; $( + )$ -ESIMS m/z 523 [M + Na]; $( - )$ -ESIMS m/z 499 [M- H]-; $( - )$ -HRESIMS m/z 499.3445 $[ \\mathbf { M } - \\mathbf { H } ] ^ { - }$ (calcd for $\\mathrm { C _ { 3 l } H _ { 4 7 } O _ { 5 } }$ ,499.3429) Cleistocalyxolide $B \\left( { \\pmb 6 } \\right)$ : white powder; $[ \\alpha ] _ { \\textrm { 0 } } ^ { 2 } + 5 3 . 0 \\ ( c \\ 0 . 1 , \\mathrm { C H _ { 3 } O H } )$ ： $^ { 1 } \\mathrm { H }$ and $^ { 1 3 } \\mathrm { C }$ NMR data, see Tables 1 and 2; $( + )$ -ESIMS m/z 527 $[ \\mathbf { M } + \\mathbf { N a } ] ^ { + }$ ： $( - )$ -ESIMS m/z 503 [M-H]-, 539 [M+ Cl]-; (-)-HRESIMS m/z 539.3151 $[ \\mathbf { M } + \\mathbf { C } ] ] ^ { - }$ (calcd for $\\mathrm { C _ { 3 0 } H _ { 4 8 } C l O _ { 6 } }$ ,539.3145) Cleistocalyxic Acid $E \\left( 7 \\right)$ : white powder; $[ \\alpha ] _ { \\textrm { 0 } } ^ { 2 } + 1 8 . 9 \\ ( c \\ 0 . 8 , \\mathrm { C H _ { 3 } O H } )$ $^ { 1 } \\mathrm { H }$ and $^ { 1 3 } \\mathrm { C }$ NMR data, see Tables 3 and 4; $( + )$ -ESIMS m/z 527 $[ \\mathbf { M } + \\mathbf { N a } ] ^ { + }$ ， $( + )$ -HRESIMS m/z 527.3325 $[ \\mathrm { M } + \\mathrm { N a } ] ^ { + }$ (calcd for $\\mathrm { C _ { 3 0 } H _ { 4 8 } N a O _ { 6 } }$ ,527.3343). ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Cleistocalyxic Acid $F \\left( { \\pmb { \\mathscr { \\ 8 } } } \\right)$ : white powder; $\\left[ \\alpha \\right] _ { 0 } ^ { 2 } + 1 4 . 3$ (c 2.3, $\\mathrm { C H _ { 3 } O H }$ ） $^ { 1 } \\mathrm { H }$ and $^ { 1 3 } \\mathrm { C }$ NMR data,   \nsee Tables 3 and 4; $( + )$ -ESIMS m/z 541 $[ \\mathbf { M } + \\mathbf { N a } ] ^ { + }$ ,557 $[ \\mathbf { M } + \\mathbf { K } ] ^ { + }$ · $( - )$ -ESIMS m/z 517 [M-H]-;   \n$( + )$ -HRESIMS m/z 541.3506 $\\mathrm { [ M + N a ] ^ { + } }$ (calcd for $\\mathrm { C _ { 3 l } H _ { 5 0 } N a O _ { 6 } }$ ,541.3500) Cleistocalyxic Acid G (9): white powder; $[ \\mathrm { a } ] _ { ~ 0 } ^ { 2 } + 6 3 . 6$ (c 0.3, $\\mathrm { C H _ { 3 } O H } _ { , }$ ） $^ { 1 } \\mathrm { H }$ and $^ { 1 3 } \\mathrm { C }$ NMR data,   \nsee Tables 3 and 4; $( + )$ -ESIMS m/z 525 $[ \\mathbf { M } + \\mathbf { N a } ] ^ { + }$ ,541 $[ \\mathbf { M } + \\mathbf { K } ] ^ { + }$ ， $( - )$ -ESIMS m/z 501 [M-H]-;   \n(-)-HRESIMS m/z 501.3227 $[ \\mathbf { M } - \\mathbf { H } ] ^ { - }$ (calcd for $\\mathrm { C } _ { 3 0 } \\mathrm { H } _ { 4 5 } \\mathrm { O } _ { 6 }$ ,501.3222). Cleistocalyxic Acid $H ( I \\pmb { \\theta } )$ : white powder; $\\left[ \\alpha \\right] _ { 0 } ^ { 2 } + 3 9 . 9$ (c 0.29, $\\mathrm { C H _ { 3 } O H }$ ）， $^ { 1 } \\mathrm { H }$ and $^ { 1 3 } \\mathrm { C }$ NMR data,   \nsee Tables 3 and 4; $( + )$ -ESIMS m/z 539 $[ \\mathbf { M } + \\mathbf { N a } ] ^ { + }$ ， $( - )$ -ESIMS m/z 515 [M-H]-; $( - )$ -HRESIMS   \nm/z 515.3383 $[ \\mathbf { M } - \\mathbf { H } ] ^ { - }$ (calcd for $\\mathrm { C _ { 3 1 } H _ { 4 7 } O _ { 6 } }$ ,515.3378). Cleistocalyxic Acid $I ( I I )$ : white powder; $[ \\mathrm { a } ] _ { \\ 0 } ^ { 2 } + 4 5 . 3$ (c 0.3, $\\mathrm { C H _ { 3 } O H } ;$ ， $^ { 1 } \\mathrm { H }$ and $^ { 1 3 } \\mathrm { C }$ NMR data,   \nsee Tables 3 and 4; $( + )$ -ESIMS m/z 525 $[ \\mathbf { M } + \\mathbf { N a } ] ^ { + }$ ， $( + )$ -HRESIMS m/z 525.3178 $\\mathrm { [ M + N a ] ^ { + } }$   \n(calcd for $\\mathrm { C _ { 3 0 } H _ { 4 6 } N a O _ { 6 } }$ ,525.3187). Cleistocalyxic Acid $J ( \\pmb { I } 2 )$ : white powder; $\\left[ \\alpha \\right] _ { 0 } ^ { 2 } + 4 9 . 5$ (c 0.15, $\\mathrm { C H _ { 3 } O H } _ { , }$ ） $^ { 1 } \\mathrm { H }$ and $^ { 1 3 } \\mathrm { C }$ NMR data,   \nsee Tables 3 and 4; $( + )$ -ESIMS m/z 539 [M + Na]+; $( - )$ -ESIMS m/z 515 [M- H]-; $( - )$ -HRESIMS   \nm/z 515.3387 $[ \\mathbf { M } - \\mathbf { H } ] ^ { - }$ (calcd for $\\mathrm { C _ { 3 1 } H _ { 4 7 } O _ { 6 } }$ ,515.3378). Cleistocalyxic Acid K (13): white powder; $[ \\mathrm { { \\alpha } ] _ { \\mathrm { ~ 0 } } ^ { \\mathrm { { 2 } } } + 1 1 0 . 0 \\ ( \\mathrm { { c } \\ 0 . 1 , C H _ { 3 } O H ) } }$ · $^ { 1 } \\mathrm { H }$ and $^ { 1 3 } \\mathrm { C }$ NMR data,   \nsee Tables 3 and 4; $( + )$ -ESIMS m/z 523 $[ \\mathbf { M } + \\mathbf { N a } ] ^ { + }$ ,539 [M + K]+; $( - )$ -ESIMS m/z 499 [M-H]-;   \n(-)-HRESIMS m/z 499.3070 [M-H]-(calcd for $\\mathrm { C _ { 3 0 } H _ { 4 3 } O _ { 6 } }$ ,499.3065). 3 β,21 α-Dihydroxytaraxast-28,20β-olide (15): white powder; $[ \\alpha ] _ { \\phantom { } 0 } ^ { 2 } - 1 . 1 \\ ( c 0 . 1 7 , \\mathrm { C H } _ { 3 } \\mathrm { O H } )$ ： $^ { 1 } \\mathrm { H }$   \nNMR (500 MHz, pyridine- $d _ { 5 }$ )84.14 (1H, dd, $J = 1 0 . 2 , 5 . 7 \\ : \\mathrm { H z }$ ,H-21), 3.49 (1H, dd, $J = 1 0 . 2$ ,6.1   \nHz, H-3), 2.35 (1H, ddd, $J = 1 4 . 0$ ,13.4, 4.2 Hz, $\\mathrm { H } { - } 1 5 \\beta$ ),2.25 (1H, dd, $J = 1 3 . 3 , 1 0 . 2 \\mathrm { H z } , \\mathrm { H } \\mathrm { - } 2 2 \\beta )$   \n2.06 (1H, ddd, $J = 1 3 . 7$ ,4.2, 2.6 Hz, $\\mathrm { H } { - } 1 6 \\beta )$ ,1.90 (2H, m,H-2),1.87 (1H, m,H-22α), 1.82 (1H, ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "m, H-19), 1.70 (1H, ddd, $J = 1 3 . 0$ ,4.4, 3.3, H $1 \\beta \\mathrm { \\hbar }$ ,1.66 (3H, s, H-30), 1.65 (1H, m, H-12β),1.56 (1H, m, H-6α),1.54 (1H, m,H-11α), 1.49 (1H, m,H-18), 1.46 (3H, d, $J { = } 7 . 3 \\mathrm { H z }$ ,H-29), 1.39 (2H, m,H-7),1.38 (1H,m,H-6β),1.37 (2H,m,H-9 and H-13),1.36 (1H,m,H-16α),1.26 (3H, s,H-23),1.19 (1H, m, H-11β),1.14 (1H, ddd, $J = 1 4 . 0$ ,4.7, 2.6,H-15α),1.05 (3H, s, H-24), 0.99 (1H, m, H-1α), 0.97 (6H, s,H-26 and H-27), 0.86 (3H, s, H-25), 0.82 (1H, m, H-5); $^ { 1 3 } \\mathrm { C }$ NMR (125 MHz, pyridine- $d _ { 5 }$ ) 8 176.9 (C-28), 85.4 (C-20), 78.6 (C-3), 72.1 (C-21), 56.4 (C-5), 51.3 (C-9),49.5 (C-18), 43.8 (C-13), 43.4 (C-22), 43.1 (C-19), 42.7 (C-17),41.9 (C-14),41.3 (C-8), 40.0 (C-4),39.8 (C-1),37.9 (C-10),34.9 (C-7),29.2 (C-23),28.8 (C-2),28.5 (C-16),28.0 (C15), 25.9 (C-12),22.4 (C-30),21.7 (C-11), 19.5 (C-29), 19.2 (C-6),17.1 (C-25),16.8 (C-24), 16.4 (C-26), 14.9 (C-27); $( + )$ -ESIMS m/z 473 $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ ,495 $[ \\mathbf { M } + \\mathbf { N a } ] ^ { + }$ $( + )$ -HRESIMS m/z 495.3441 $[ \\mathrm { M } + \\mathrm { N a } ] ^ { + }$ (calcd for $\\mathrm { C _ { 3 0 } H _ { 4 8 } N a O _ { 4 } }$ , 495.3445). ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Cytotoxicity Assay. Human hepatocellular carcinoma (HepG2), human gastric carcinoma (NCI-N87), human breast carcinoma (MCF-7),and murine macrophage RAW 264.7 cell lines were purchased from Kunming Institute of Zoology, Chinese Academy of Sciences (Kunming, People's Republic of China). The cells were cultured in RPMI 1640 (for HepG2 and NCI-N87 cells)and DMEM (for MCF-7 and RAW 264.7 cells) medium supplemented with $10 \\%$ heatedinactivated fetal bovine serum (Gibco, Carlsbad, CA, USA) as well as $1 \\%$ penicillin and streptomycin in a $3 7 ^ { \\circ } \\mathrm { C }$ $5 \\%$ （204号 $\\mathbf { C O } _ { 2 }$ incubator. Cell viability was assessed using the MTT method as previously described.3 Al experiments were performed in triplicate, and the data are expressed as means $\\pm \\operatorname { S D }$ of three independent experiments.Doxorubicin was used as positive control. ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Anti-Inflammatory Activity Assay. The murine macrophage RAW 264.7 cells were cultured in DMEM medium supplemented with $10 \\%$ heated-inactivated fetal bovine serum(Gibco) as ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "well as $1 \\%$ penicillin and streptomycin in a $3 7 ^ { \\circ } \\mathrm { C }$ $5 \\%$ $\\mathbf { C O } _ { 2 }$ incubator. The working concentrations of test compounds were set as $5 0 , 1 0 , 2 \\mu \\mathrm { M }$ for 7-9,12,13,and 19,10,2,0.4 μM for 1, 10, 11, 15, 17, 18,20,21,and 23-25,and 2, 0.4, $0 . 0 8 ~ \\mu \\mathrm { M }$ for 2, according to the MTT assay results,in which test compounds at the highest serial concentration were non-cytotoxic toward RAW 264.7 cells (growth inhibition less than $5 \\%$ ). Anti-inflammatory activity was evaluated using previously reported method34 with minor modifications. In brief, macrophage RAW 264.7 cells were pretreated with serial concentrations of test triterpenoids at $3 7 ^ { \\circ } \\mathrm { C }$ for $^ { \\textrm { 1 h } }$ followed by the stimulation with LPS $( 0 . 1 ~ \\mu \\mathrm { g / m l } )$ for an additional $2 4 \\mathrm { h }$ . Cell supernatants were evaluated for the production levels of IL-6 and TNF- $\\alpha$ using commercial enzyme linked immunosorbent assay (ELISA) kit (R&D Systems, Inc., Minneapolis,MN, USA). Dexamethasone was used as positive control. All values were given as means $\\pm$ SD $\\left( n = 3 \\right)$ ） ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "ASSOCIATEDCONTENT ",
+        "text_level": 1,
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information. The 1D,2D NMR and HR-ESIMS spectra of compounds 1-13 and 15,and fer-theoretical computations of ECD spectra are available free of charge via the Internet at http://pubs.acs.org. ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "AUTHORINFORMATION ",
+        "text_level": 1,
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Corresponding Author ",
+        "text_level": 1,
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "\\*Tel: +86-20-3725-2538.Fax: +86-20-3725-2537. E-mail: wxy@scbg.ac.cn. ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENT ",
+        "text_level": 1,
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "We thank Mr. Yunfei Yuan, South China Botanical Garden, Chinese Academy of Sciences,for NMR spectroscopic measurements,and Ms. Aijun Sun, South China Sea Institute of ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Oceanology, Chinese Academy of Sciences, for HRESIMS measurements.We gratefully acknowledge support from the Guangzhou Branch of the Supercomputing Center of Chinese Academy of Sciences. This work was supported by an NSFC grant (no.31470423). ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "(1) Editorial Committee of the Administration Bureau of Traditional Chinese Medicine. Chinese Materia Medica (Zhong Hua Ben Cao), Vol.5; Shanghai Science & Technology Press: Shanghai, 1999; pp 627-629. (2) Min, B. S.; Cuong, T. D.; Lee, J. S.; Woo, M. H.; Hung,T. M. Bull Korean Chem. Soc. 2010, 31,2392-2394. (3) Min, B. S.; Cuong, T. D.; Lee, J.-S.; Shin, B.-S.; Woo, M. H.; Hung,T. M. Arch. Pharm. Res. 2010,33,1665-1670. (4) Min, B. S.; Thu, C.V.; Dat, N. T.; Dang, N. H.; Jang, H. S.; Hung, T. M. Chem. Pharm. Bull. 2008, 56, 1725-1728. (5) Mai, T. T.; Chuyen, N, V. Biosci. Biotechnol. Biochem. 2007, 71,69-76. (6) Dao, T.T.; Tung, B. T.; Nguyen, P.H.; Thuong, P.T.; Yoo, S. S.; Kim, E. H.; Kim, S. K.; Oh,W.K.J. Nat. Prod.2010,73,1636-1642. (7) Dung, N. T.; Bajpai, V. K.; Yoon, J. I.; Kang, S. C. Food Chem. Toxicol. 2009, 47, 449-453. (8) Giang,P.M.; Phuong, V.T.T; Chinh, T.T. T. Nat. Prod. Commun. 2016,11,29-30. (9) Ha, T. K. Q.; Dao, T. T.; Nguyen, N. H.; Kim, J.; Kim, E.; Cho, T. O.; Oh, W. K. Fitoterapia 2016,110,135-41. ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "(10) Ding, W.; Zeng, F.; Xu,L.; Chen, Y.; Wang, Y.; Wei, X. J. Nat. Prod. 2011, 74, 1868-1874. (11) Xue, J.; Wu, P.; Xu,L.; Wei, X. Org. Lett. 2014, 16,1518-1521. (12) Fu, Y.; Wu,P.; Xue,J.; Wei, X. J. Nat. Prod. 2014, 77, 1791-1799. (13) Wu, P.; Yao,L.; Xu,L.; Xue, J.; Wei, X. J. Nat. Prod. 2015, 78, 2161-2166. (14) Wu, P.; Xue, J.; Yao, L.; Xu,L.; Li, H.; Wei, X. Org. Let. 2015, 17, 4922-4925. (15) Lobo-Echeverr, T.; Rivero-Cruz, J.F.; Su, B. N.; Chai, H. B.; Cordell G. A.; Pezzuto, J. M.; Swanson, S. M.; Soejarto,D.D.; Kinghorn, A. D. J. Nat. Prod. 2005, 68, 577-580. (16) Maillard, M.; Adewunmi, C. O.; Hostettmann, K. Phytochemistry 1992,31,1321-1323. (17) Zhao, Q.-S.; Tian,J.; Yue, J.-M.; Chen, S.-N.; Lin, Z.-W.; Sun, H.-D. Phytochemistry 1998, 48, 1025-1029. (18) Furuya, T.; Orihara, Y.; Hayashi, C. Phytochemistry 1987, 26, 715-719. (19) Jayasinghe,L.; Wannigama, G. P.; Macleod, J. K. Phytochemistry 1993,34, 1111-1116. (20) Singh, C. Phytochemistry 1990,29, 2348-2350. (21) Lahlou,E.; Hirai, N.; Kamo,T.; Tsuda, M.; Ohigashi, H. Biosci. Biotech. Bioch. 2001, 65, 480-483. (22) Piozzi, F.; Paternostro, M.; Passannanti, S.; Gacs-Baitz, E. Phytochemistry 1986, 25, 539-541. (23) Osman, A. M.; Younest, M. E.-G.; Sheta, A. E. Phytochemistry 1974, 13, 2015-2016. (24) Acebey-Castellon, I. L.; Voutquenne-Nazabadioko, L.; Mai, H. D. T.; Roseau, N.; Bouthagane, N.; Muhammad, D.; Debar, E. L. M.; Gangloff, S. C.; Litaudon, M.; Sevenet, T.; Nguyen Van, H.; Lavaud, C. J. Nat. Prod. 2011, 74,163-168. ",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "(25) Nishimura, K.; Fukuda, T.; Miyase,T.; Noguchi, H.; Chen, X. M. J. Nat. Prod.1999, 62, 1061-1064. ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "(26) Siddiqui, S.; Hafeez,F.; Begum, S.; Siddiqui, B. S.J. Nat. Prod. 1988,51, 229-233. (27) Guise, G. B.; Ritchie, E.; Taylor, W. C. Aust. J. Chem. 1962, 15, 314-321. (28) Rihova, E.; Vystreil, A. Coll. Czech. Chem. Commun. 1966,31, 3163-3173. (29) Chiang, Y.-M.; Kuo, Y.-H. J. Org. Chem. 2002,67, 7656-7661. (30) Kuo, Y. H.; Lin, H. Y. Helv. Chim. Acta. 2004, 87, 1071-1076. (31) Nakano, K.; Oose, Y.; Masuda, Y.; Kamada, H.; Takaishi, Y. Phytochemistry 1997, 45,   \n293-296. (32) Tanaka, T.; Koyano, T.; Kowithayakorn, T.; Fujimoto, H.; Okuyama, E.; Hayashi, M.;   \nKomiyama, K.; Ishibashi, M. J. Nat. Prod. 2001, 64, 1243-1245. (33) Wang, C.; Wu, P.; Shi, J.-F.; Jiang, Z.-H.; Wei, X.-Y. Eur. J. Med. Chem. 2015, 100,   \n139-150. (34) Wu, P.; Wu, M.; Xu, L.; Xie, H.; Wei, X. Food Chem. 2014, 152, 23-28. ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Table of Contents Graphic ",
+        "text_level": 1,
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Bioactive Pentacyclic Triterpenoids from the Leaves of Cleistocalyx operculatus ",
+        "text_level": 1,
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Chen Wang,Ping Wu, Shuai Tian, Jinghua Xue,Liangxiong Xu, Hanxiang Li,and Xiaoyi Wei\\* ",
+        "page_idx": 34
+    },
+    {
+        "type": "image",
+        "img_path": "images/58bb62c8b5b03c327926d1df6c92102f184deb1e75f3995413e57116238d4813.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 34
+    }
+]

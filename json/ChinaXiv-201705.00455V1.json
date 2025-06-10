@@ -1,0 +1,496 @@
+[
+    {
+        "type": "text",
+        "text": "Folate-conjugated dually responsive micelles for targeted anticancer drug delivery ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lingling Zhao,\\*ab Yajuan Zhang,a Jia Shao,a Hongze Liang,a Haining Na\\*b and Jin Zhu\\*b ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Phenylboronic acid and folate grafted chitosan hydrochloride(FHCSPBA) was synthesized and confirmed by FTIR and $^ 1 \\mathsf { H }$ NMR.Glucose and pH dually responsive micelles were obtained through self-assembly of theamphiphilic polymers.The prepared FHCSPBA micelles displayed good biocompatibilityand sustained drug release of the model drug doxorubicin hydrochloride (DOX).The cumulative drug release from the polymeric micelles showed obvious pH and glucose dependence and was accelerated by slightlydecreasing the medium pH or increasing the glucose concentration.In vitro antitumor efficiency was evaluated by incubating the DOX loaded micelles with 4T1 breast cancer cells,and the results showed that folate-targeted micelles had higher antitumor activity than the non-targeted ones.Cellular uptake demonstrated by confocal microscopy indicated that free DOX was internalized in the nuclei of 4T1 cells, while the DOX loaded micelles were internalized in the cytoplasm.The cellular uptake of the micelles was enhanced by folate,with stronger fluorescence intensity in the cytoplasm,due to active FR-mediated endocytosis.These folate-conjugated glucose and pH dually responsive micelles may be a potential antitumor drug delivery system for cancer chemotherapy. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "‘Smart'drug delivery systems have attracted much interest from pharmacologistsandbiomaterialsscientistsinprevious decades,and amphiphilic polymers with the ability to selfassemble into micelles in aqueous solutions are highly promising.1-4 Advantages of using polymeric micelles as drug carriers include relatively easy structural and functional modification, improved biodistribution and bioavailability of the drugs,and targeted delivery of drugs to correct locations such as tumor cells.5-8 As most anticancer drugs have poor solubility,high side effects and low bioavailability,the encapsulation of anticancer drugs in polymeric micelles could not only improve the solubility of drugs,but also decrease the risk of multidrug resistance.9-12 More importantly,the nano-scaled polymeric micelles exhibit tumor accumulation by the enhanced permeability and retention (EPR) effect.9,13,14 In particular, the microenvironment in a tumor has differences from that of normal tissue.For example, the rate of glucose entry into tumor cells is at least 2o-3o fold higher than that in normal cells,because cancer cell growth is heavily dependent on glucose metabolism as a major energy substrate.The interstitial glucose concentration in a tumor ranges from ${ \\sim } 1 5$ to $\\mathbf { 5 0 } \\mathbf { m } \\mathbf { M }$ and varies with type of cancer cell,as well as rate of growth of cancer cells,and the tumor glucose levels even increase to 13-17 fold in hyperglycaemia.Because lactic acid is the final product of glycolysis,the extracellular pH of a solid tumor is lower (6.5-6.8) than normal physiological pH (7.4).15-18 In addition,many malignant tissues cells,including cancers of the ovary,breast,liver,kidney,uterus,testis,brain, colon and lung，consistently express high levels of specific receptorssuch as folate receptors(FR-a，FR).1,19-23These phenomena have been used to design stimuli triggered polymeric micelles for delivery of anticancer drugs to tumors. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A number of natural or synthetic polymers have been used to form polymeric micelles.Among them,chitosan and its derivatives are the most attractive candidates because of their biochemicalactivity,biocompatibility,biodegradabilityand low toxicity and they have been widelyused in the pharmaceutical field15,16,24. Grafting hydrophobic and hydrophilic segments to the chitosan backbone would give rise to amphiphilic graft copolymers,which could form self-assembled micelles in water. In our previous study，phenylboronic acid grafted chitosan hydrochloride (HCsPBA) was synthesized by coupling amine groups in chitosan hydrochloride with carboxyl groups in 3- carboxyphenylboronic acid.The phenylboronic acid group was introduced as a glucose sensitive moiety，which can be combined with vicinal diol compounds such as glucose to form a more hydrophilic structure.Hydrophobic drugs could be encapsulated by the assembled polymeric micelles ofHCsPBA, sustained and glucose responsive drug release was observed as well.25 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To enhance intracellular uptake of carriers containing a drug within cancerous cells at the tumor site, it is necessary to develop more effective and active targeting drug delivery systems.A variety of targeting moieties and ligands,such as folate and transferrin,which can substantially increase site-specific targeting, have been immobilized on the surface of drug carriers.19,26-28 In specific,folate has been utilized as a targeting moiety for enhancing the therapeutic efficacy of many anticancer drugs.29,30 Folate is a type of small molecular vitamin essential for the combination of the single-carbon metabolism of the eukaryotic cell nucleus and the nuclear glucoside synthesis.It has been reported that the folate receptor (FR) is overexpressed on the surface of several cancers,including breast,kidney,lung,brain, and ovary cancers.19,2o Folate can bind to FR and facilitate the transfer of folate-targeted micelles through receptor mediated endocytosis.It has been shown that FR has high affinity $( K _ { \\mathrm { d } } > >$ $1 0 ^ { - 1 0 } \\mathrm { ~ M } )$ for folate and mediates the cellular uptake via a nondestructive endosomal pathway.19,27,31 Regarding the limited expression of FR on normal tissues and their overexpression on tumor cells,19,28,32 folate may be an appropriate choice for targeting tumor cells in micelle-based cancer therapies. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study，we designed multifunctional micelles by anchoring the active compounds,phenylboronic acid and folate, to the polymer chain of chitosan hydrochloride.Phenylboronic acid was introduced as a glucose sensitive moiety and folate was conjugated as a targeting moiety,and the synthesized amphiphilic polymer could self-assemble to form glucose and pHdually responsive micelles.DOX was employed as a model anticancer drug and loaded into the polymeric micelles.The characteristics of the micelles,such as particle size and drug release behavior, were studied in detail.In addition,the cytotoxicity of blank and DOX-loaded micelles and the receptor-mediated targeting effect of micelles were evaluated.From the effcient tumor targeting and controlled drug release,it seemed that this system would be of great potential for cancer therapy. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experimental ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materials ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Phenylboronic acid grafted chitosan hydrochloride (HCSPBA) wassynthesized according to our previous study,15,25the phenylboronic acid content in the HCsPBA unit $\\mathrm { ( m o l ~ m o l ^ { - 1 } } .$ was O.21，as determined from the $\\mathbf { C } / \\mathbf { N }$ ratio by elemental analysis. $N \\mathrm { \\Omega }$ Hydroxysuccinimide (NHS)was purchased from Quzhou Xinteng Chemical, China.1-(3-Dimethylaminopropyl)-3- ethylcarbodiimide hydrochloride $\\mathbf { \\left( E D C \\cdot H C l \\right) }$ waspurchased from Sigma Aldrich (St.Louis,US).Folate was purchased from Aladdin Industrial Corporation,China.Pyrene was purchased fromFluka Company $( > 9 9 \\% )$ .Doxorubicin hydrochloride (DOX) waspurchased from Beijing Huafeng United Technology,China. All the reagents were used as received without further purifica tion.Distilled and deionized water was used in all experiments. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Synthesis of folate modified HCSPBA (FHCSPBA) ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FHCSPBA was synthesized by a similar procedure to that previously reported.2² In brief,HCsPBA (0.1 g) was dissolved in ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$0 . 3 ~ \\mathrm { w t \\% }$ acetic acid solution $\\mathrm { \\Omega } ^ { \\mathrm { 2 0 } \\mathrm { m L } }$ ina $1 0 0 ~ \\mathrm { { m L } }$ flask.Folate in 0.05 and O.2 molar equivalents of HCSPBA unit and NHS $( 4 1 . 6 \\ \\mathrm { m g } , \\ 0 . 3 6 \\ \\mathrm { m m o l } )$ ）weredissolved in DMSO $\\mathrm { ( 5 ~ m L ) }$ ，and stirred at room temperature for $3 0 \\ \\mathrm { \\ m i n }$ .To this, $\\mathbf { \\mathrm { E D C } } \\cdot \\mathbf { H C l }$ (41.5 mg,0.22 mmol) was added,and the mixture was stirred to forma uniform solution.Then,the mixed solution of folate/NHS/ EDC·HCl was added to the HCsPBA acetic acid solution.After being stirred for $2 4 \\mathrm { ~ h ~ }$ ,themixture wastransferred toa dialysis tube with a molecular weight cut-off of $1 2 \\ \\mathrm { k D a }$ and dialyzed against distilled water with one change every $^ { 4 \\mathrm { ~ h ~ } }$ for three days. The dialysate was freeze-dried to harvest yellowish powder-like products (yield, $8 5 \\mathrm { - } 9 0 \\%$ ).FHCSPBA prepared with theoretical folate grafting ratio of O.05 and 0.2 were coded asFHCSPBA-I and FHCSPBA-II, respectively. The grafting ratio of folate was determined by fluorescence spectrometry (F-46oo,Hitachi factory, Japan) ata wavelength of $4 5 0 \\ \\mathrm { n m }$ using the calibration curve obtained from folate solutionswith different folate concentrations.The excitation wavelength was ${ 3 7 0 } \\mathrm { n m }$ andboth excitation and emission bandwidths were set at $1 0 \\ \\mathrm { n m }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Characterization ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { ^ 1 H }$ NMR analysis was performed on polymer solutions in ${ \\bf D } _ { 2 } { \\bf O }$ using a Bruker AMX $4 0 0 ~ \\mathrm { { M H z } }$ spectrometer.Infrared spectroscopy was tested using a Bruker Equinox 55 spectrometer. Samples were mashed and pressed with KBr and scanned from 4000 to $4 0 0 ~ \\mathrm { c m } ^ { - 1 }$ with a resolution of $2 ~ \\mathrm { c m } ^ { - 1 }$ .Transmission electron microscopy (TEM) was carried out on a JEM-2100 microscope at an operating voltage of $\\begin{array} { r } { 1 0 0 \\ \\mathrm { ~ k V } . } \\end{array}$ The sample dispersions were dropped onto carbon-coated copper grids and then air-dried.The size distribution of the self-assembled polymeric micelles was performed in aqueous dispersion using a Zetasizer (Nano Series,Malvern Instruments,UK) at $2 5 ~ ^ { \\circ } \\mathbf { C }$ and repeated three times at a constant concentration of $0 . 1 \\mathrm { m g } \\mathrm { m L } ^ { - 1 }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Measurement of critical micelle concentration (CMC) ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The CMC of FHCSPBA was determined using pyrene as ahydrophobic probe in fluorescence spectroscopy.³ In brief, $2 0 0 ~ \\mu \\mathrm { L }$ of pyrene in acetone $\\left( 1 0 ^ { - 5 } \\mathrm { m o l } \\mathrm { L } ^ { - 1 } \\right)$ wasadded to each of the series of $1 0 \\ \\mathrm { \\ m L }$ vials,acetone was evaporated, $2 { \\mathrm { ~ m L ~ } }$ of various concentrations of FHCSPBA( $\\ b { \\mathrm { \\Omega } } ^ { 1 } \\times \\ b { \\mathrm { \\Omega } } ^ { 1 0 ^ { - 4 } }$ to $0 . 5 ~ \\mathrm { m g ~ m L ^ { - 1 } } ,$ were added to the vials,and the mixtures were sonicated for 30 min at room temperature.The sample solutions were heated at $3 7 ^ { \\circ } \\mathbf { C }$ for $2 4 \\mathrm { ~ h ~ }$ to equilibrate pyrene and the micelles,and then left to cool at room temperature.Fluorescence spectra were obtained at the excitation wavelength of $3 3 5 ~ \\mathrm { \\ n m }$ and the emission wavelength was $3 6 0 { - } 4 2 0 ~ \\mathrm { n m }$ for the emission spectra. The excitation and emission bandwidths were set at 5 and 2.5 nm,respectively.Based on the pyrene emission spectra and a decreasing $I _ { 3 7 2 } / I _ { 3 8 3 }$ with increasing log concentrations of FHCSPBA，the CMC values were calculated by the crossover point at which $I _ { 3 7 2 } / I _ { 3 8 3 }$ began to decrease rapidly. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Preparation and characterization of DOX-loaded polymeric micelles ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DOX loaded polymeric micelles were prepared by a dialysis method. Typically, $1 0 \\ \\mathrm { m g }$ of DOX was dissolved in $5 \\ \\mathrm { m L }$ of methanol and $2 0 ~ \\mu \\mathrm { L }$ of triethylamine was added,and the mixture was stirred for $^ { 2 4 \\mathrm { ~ h ~ } }$ ，Then，the hydrophobic treated DOX solution in methanol was added dropwise to the FHCSPBA solution ( $\\mathrm { 2 0 ~ m g }$ in $1 0 ~ \\mathrm { m L }$ distilled water) under stirring.After being stirred at room temperature for $^ \\textrm { \\scriptsize 4 h }$ ，the solution was transferred to $1 2 \\mathrm { \\ k D a }$ molecular weight cut-off dialysis tubing and dialyzed for $2 4 \\mathrm { ~ h ~ }$ to remove the organic solvents and free DOX.The solution was freeze-dried to obtain DOX loaded polymeric micelles.The whole procedure was performed in the dark. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The content of encapsulated DOX was determined spectrophotometrically at a wavelength of $4 9 0 \\ \\mathrm { n m }$ in $0 . 5 \\ \\mathrm { w t \\% }$ acetic acidusing the calibration curve obtained from $\\mathrm { D O X } / 0 . 5 ~ \\mathrm { w t \\% }$ acetic acid solutions with different DOX concentrations.The drug loading content (DLC) and drug loading efficiency (DLE) werecalculated according to the following formulas as follows: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sf { D L C } _ { \\tau } \\left( \\mathrm { w t ^ { \\circ } / \\mathrm { { 0 } } } \\right) = \\left[ \\frac { \\mathrm { w e i g h t ~ o f ~ l o a d e d ~ d r u g } } { \\mathrm { w e i g h t ~ o f ~ d r u g ~ l o a d e d ~ m i c e l l e } } \\right] \\times 1 0 0 \\\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { { D L E } \\ : \\ : ( \\% ) = \\left[ \\frac { w e i g h t \\ : o f \\ : l o a d e d \\ : d r u g } { w e i g h t \\ : o f \\ : d r u g \\ : i n \\ : f e e d { i n g } } \\right] \\times 1 0 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "InvitroreleaseofdrugloadedFHCSPBAmicelles ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In vitro release ofDOX from polymeric micelleswas conducted using $0 . 1 \\%$ $\\left( \\mathbf { v } / \\mathbf { v } \\right)$ Tween-8o PBS solution as the dissolution medium with different pH values and glucose concentrations.16 Typically, DOX loaded polymeric micelles were diluted to $1 ~ \\mathrm { m g }$ $\\mathrm { m } \\mathbf { L } ^ { - 1 }$ in PBS $\\left( 0 . 0 1 \\mathrm { M } , \\mathrm { p H } 7 . 4 \\right)$ ,and then $1 \\mathrm { m L }$ of the solution was transferred into dialysis membrane tubings(Spectra/Por, MWCO $1 2 \\mathrm { \\ k D a }$ ).The tubings were immersed into flasks containing $1 0 ~ \\mathrm { m L }$ of release mediumas a sink condition $( 3 7 ^ { \\circ } \\mathbf { C } )$ . At desired time intervals, $2 ~ \\mathrm { m L }$ of released medium was taken out and replenished with an equal volume of fresh medium. The amount of releasedDOXwasdetected bya fluorescence detector with excitation wavelength at $4 9 4 ~ \\mathrm { n m }$ and emission wavelength at $5 9 4 \\mathrm { n m }$ .The release experiments were conducted in triplicate and the results were presented as the average data with standard deviations. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cytotoxicity assay ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "L929 fibroblasts were cultured in Dulbecco's Modified Eagle's Medium (DMEM) supplemented with $1 0 \\%$ fetal bovine serum, $1 0 0 \\ \\mu \\mathrm { g } \\ \\mathrm { m L } ^ { - 1 }$ streptomycin and $1 0 0 \\ \\mathrm { \\ I U } \\ \\mathrm { m L } ^ { - 1 }$ penicillin.The temperature of the incubator was set to $3 7 \\ { } ^ { \\circ } { \\bf C }$ under a humidified atmosphere containing $5 \\%$ （204号 $\\mathbf { C O } _ { 2 }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The relative cytotoxicity of FHCSPBA micelles was obtained by Cell Counting Kit-8 (CCK-8) assay against L929 fibroblasts. The cells were seeded onto 96-well plates at a density of $4 \\times 1 0 ^ { 4 }$ cells per well in $1 0 0 ~ \\mu \\mathrm { L }$ of medium.After $2 4 \\mathrm { ~ h ~ }$ incubation,the culture medium was removed and replaced with $1 0 0 ~  { \\mu \\mathrm { L } }$ of medium containing FHCsPBA micelles of different concentrations.The cells were incubated for another $2 4 \\mathrm { ~ h ~ }$ .The culture medium was removed and the wells were rinsed with PBS (pH ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "7.4) three times.Then, $1 0 0 ~  { \\mu \\mathrm { L } }$ of DMEM containing $1 0 ~ \\mu \\mathrm { L }$ of CCK-8 solution was added to each well and incubated for another $^ { 2 \\mathrm { ~ h ~ } }$ .Theabsorbance of eachwell wasmeasured at 450 nm usinga microplate reader (Thermo MULTISKAN MK3).Cell viability was calculated by the following equation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { C e l l ~ v i a b i l i t y ~ } } ( \\% ) = { \\frac { \\mathrm { I n t _ { s } } } { \\mathrm { I n t _ { c o n t r o l } } } } \\times 1 0 0\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathrm { I n t _ { s } }$ is the absorbance intensity of the cells incubated with the samples and $\\mathrm { I n t _ { c o n t r o l } }$ is the absorbance intensity of the cells incubated with the culture medium only. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In vitro anticancer effciency of drug loaded micelles ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The in vitro anticancer efficiency of drug loaded polymeric micelles against 4T1 breast cancercells was evaluated by CCK-8 assay.Approximately $4 \\times { 1 0 } ^ { 4 }$ cells per well were seeded in 96- well plates with $1 0 0 ~ \\mu \\mathrm { L }$ of DMEM medium for $2 4 \\mathrm { ~ h ~ }$ before the tests.DOX and DOX loaded polymeric micelles with different concentrations $\\operatorname { ( f r o m ~ } 0 . 0 0 1$ to ${ 5 0 0 } { \\mu \\mathrm { g } } { \\mathrm { ~ m L } } ^ { - 1 } .$ ）in DMEMwere added to the medium of 96-well plates and incubated for $2 4 \\mathrm { ~ h ~ }$ The culture medium was removed and the wells were rinsed with PBS three times.Subsequently,CCK-8 assay was conducted as described above.The half maximal inhibitory concentration (IC50) of the micelles and DOX were calculated using SPSS software $( n = 3 )$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cellular uptake of drug loaded micelles ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Confocal laser scanning microscopy (CLSM) was employed to evaluate the qualitative cellular uptake of the DOX loaded micelles.The 4T1 cells were seeded onto $3 5 ~ \\mathrm { m m }$ diameter glass dishes ata density of $4 \\times 1 0 ^ { 4 }$ cells per well.After incubation in DMEM with $1 0 \\%$ FBS and $5 \\%$ $\\mathbf { C O } _ { 2 }$ at $3 7 \\ { ^ \\circ } \\mathbf { C }$ for $2 4 \\mathrm { ~ h ~ }$ ,when the 4T1cells were ata logarithm phase, $2 5 0 \\mu \\mathrm { L }$ ofDMEM solution of DOXorDOXloaded micelles were added into thewells with the DOX concentration of $5 0 \\mu \\mathrm { g } \\mathrm { m L } ^ { - 1 }$ .The 4T1 cells were incubated at $3 7 ^ { \\circ } \\mathbf { C }$ foranother $^ { 3 \\mathrm { h } }$ before the culture mediumwas removed and the dishes were rinsed with PBS three times.The cell nucleus was stained with DAPI for $2 0 \\mathrm { m i n }$ and washed with PBS. In the control group,the 4T1 cells were incubated with excess free folate $( 2 { \\mathrm { ~ m M } } )$ for $^ \\textrm { \\scriptsize 4 h }$ before the DOX and DOX loaded micelles were added,whereas the other conditions were kept the same.CLSMimages of cells were observed using a FV1000- IX81 confocal laser scanning microscope (Olympus,Japan), with an excitation wavelength of $4 0 5 ~ \\mathrm { { \\ n m } }$ and $4 8 8 ~ \\mathrm { n m }$ and emission wavelength of $4 2 5 { \\mathrm { - } } 4 7 5 { \\mathrm { ~ n m } }$ forDAPI and $5 0 0 { - } 5 8 0 ~ \\mathrm { n m }$ for DOX. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results and discussion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SynthesisandcharacterizationofFHCSPBA ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The synthetic routes of amphiphilic FHCsPBA are illustrated inScheme1a.The two small molecules of phenylboronic and folate were immobilized on the chitosan hydrochloride (HCs) by the coupling reaction of $\\boldsymbol { - } \\mathbf { N } \\mathbf { H } _ { 2 }$ in HCS with -COOH in PBA and folate.The structures of the graft polymers were characterized by ${ } ^ { 1 } \\mathrm { H }$ NMR and FTIR spectra.As shown in the ${ } ^ { 1 } \\mathrm { H }$ NMR spectrum (Fig.1), the broad peak at $\\delta = 3 . 6$ ppm is assigned to the protons on C2-C6 of the HCS unit.Peaks at $\\delta = 7 . 4$ ，7.8, and $8 . 2 \\ \\mathrm { p p m }$ are assigned to proton signals on the benzene ring of PBA,the peak at $\\delta \\ : = \\ : 2 . 9$ ppm is from methylene protons of succinic acid on the HCs backbone,and the peak at $\\delta = 2 . 0$ ppm corresponds to the protons of $\\mathrm { C H } _ { 3 }$ on the nondeacylated CONH content.15,25 The new signals at $\\delta = 6 . 8$ ， 7.6 and $8 . 9 \\ \\mathrm { p p m }$ in FHCsPBA are assigned to protons on the benzene and pteridine rings of folate.1,34 The FTIR spectrum of FHCsPBA shows an increased peak at $1 5 6 4 ~ \\mathrm { c m } ^ { - 1 }$ relative to that of the HCSPBA spectrum (Fig.2).This peak is usually caused by secondary amines,suggesting that the substitution of the amino groups in HCsPBA was increased.Comparing the FTIR spectra of folate with that of FHCSPBA，the absorption band at $1 7 2 9 ~ \\mathrm { c m } ^ { - 1 }$ ,the specific peak of carbonyl groups,testifies to the presence of the -NHCOCHCOOHgroup in folate,and the appearance of the peak at $1 6 0 8 ~ \\mathrm { { c m } ^ { - 1 } }$ in the spectrum of FHCSPBA is attributed to the benzene ring of the folate.22,35 ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9138164a83d81c317db615412660e8508985af267b672b9b872e9ffa04b9c1e4.jpg",
+        "img_caption": [
+            "Scheme1 Illustrative synthesis of FHCSPBA (a),and the formation of drug-loaded micelles, take up of the micelles by tumor cells and drug release in response to a range of stimuli characteristic of tumor tissues and intracellularmicroenvironments (b). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3acbb587a3c3c699b78da35e11a148bdbc2854e3973871bfb9237255aa2763eb.jpg",
+        "img_caption": [
+            "Fig. 1 $^ 1 { \\mathsf { H N M R } }$ spectra of HCS (a), HCSPBA (b) and FHCSPBA (c). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The graft amount of folate in FHCSPBA could be tuned by changing the feeding molar ratio of the HCSPBA unit to folate and was determined by fluorescence spectrometry.The results show that the graftamount increaseswith the increase of folate amount,as shown in Table 1.The content of folate in the FHCSPBA unit was much lower than the feeding ratio; it was $1 / \\ l$ 36 and $_ { 1 / 9 }$ when the feeding molar ratio of folate to HCSPBA unit was 0.05 and 0.2,respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/04b8723fd4691c58202466e20b9a2b46bc9839b87f17e1a6f64ec7e7d3c0b127.jpg",
+        "img_caption": [
+            "Fig.2FTIR spectra of HCSPBA (1),FHCSPBA (2) and folate (3). "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Characterizations of blank and drug loaded polymeric micelles ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "BothHCSPBA and FHCSPBA can self-assemble in PBSdue to their amphiphilic natures.The CMC was determined using a fluorescence spectrophotometer with pyrene as the probe.At low concentration $( C )$ ofFHCSPBA( $C < \\mathrm { C M C } )$ ,there are small or negligible changes in the fluorescence intensity ratio of $I _ { 3 7 2 } / I _ { 3 8 3 }$ Asthe concentration is increased,remarkable decrease of the intensity ratio $\\left( I _ { 3 7 2 } / I _ { 3 8 3 } \\right)$ is observed (Fig.3). Fig.3b and d shows the intensity ratio $\\left( I _ { 3 7 2 } / I _ { 3 8 3 } \\right)$ of the pyrene excitation spectra versus the log concentrations of FHCSPBA-I and FHCSPBA-II, respectively.Based on the intensity ratio data,the CMC value of FHCSPBA was calculated from the crossover point.24,34 All the CMC values of FHCSPBA with different folate content were listed in Table1.As show in Table1,the CMC ofHCSPBAis 0.020 $\\mathrm { m g } \\mathrm { m L } ^ { - 1 }$ and the CMC of FHCSPBA is 0.033 and $0 . 0 5 3 \\mathrm { \\ m g } \\mathrm { m L } ^ { - 1 }$ with a folate content of $1 / 3 6$ and $1 / 9$ ，respectively.Spherical aggregates were observed by TEM,as shown in Fig.4.The size of the polymeric micelles measured by DLS decreaseswith increasing folate content and the valuesare $3 3 4 \\pm 1 3$ ， $2 3 7 \\pm 5 5$ and $1 8 7 \\pm 1 0 ~ \\mathrm { { n m } }$ for HCSPBA,FHCSPBA-I and FHCSPBA-II, respectively，which are much larger than micelles formed from low molecular weight surfactants and thus implies a multicore structure of the aggregates.25,33 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DOX was used as a model anticancer drug to evaluate the loading and release properties of the FHCsPBA micelles.DOX is widely used to treat various solid malignant tumors by interacting with DNA by way of intercalation and inhibition of macromolecular biosynthesis.The drug loading content (DLC) ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9f9a6dd417621849b05ef8df226b8d4de50524ba0eca6cb9375d8a9fec29f78e.jpg",
+        "img_caption": [
+            "Fig.3Pyrene emission spectra of FHCSPBA-I (a) and FHCSPBA-ll (b) solution (excitation wavelength of $3 3 5 ~ \\mathsf { n m } )$ .The intensity ratio $( I _ { 3 7 2 } /$ $I _ { 3 8 3 } )$ of the pyrene emission versus the log concentration of FHCSPBAI(c) and FHCSPBA-Il (d). "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and drug loading efficiency (DLE) of the polymeric micelles were tested spectro-photometrically at a wavelength of $4 9 0 ~ \\mathrm { n m }$ (Table1).The DLC and DLE of FHCSPBA micelles were lower than those of HCsPBA micelles,which may have been caused by the variation of the solubility and electron charge of FHCSPBA, which thus affected the DOX loading of the polymeric micelles. Themorphologies ofblank and drug loaded micelleswere showninFig.4.Afterloading withDOX, the size of themicelles increased significantly due to the solubilizing of hydrophobic treated DOX into the polymeric micelles.25,36 As show in Fig. 5, the sizesofDOX-loaded micelles increased from $3 6 2 \\pm { 1 1 }$ to 875 $\\pm \\ 2 7 \\ \\mathrm { n m }$ and $1 8 7 \\pm 1 0$ to $7 2 0 \\pm 8 5 \\ \\mathrm { n m }$ ，testedbyDLS,for FHCSPBA-I and FHCSPBA-II, respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The phenomenon of size change with change in pH value or glucose concentration was reported in some $\\mathrm { p H \\mathrm { - } }$ or glucosesensitive nanocarriers.24,25 In this study, the phenomenon of pH and glucose dependent size change was also observed.The phenylboronic acid group can combine with glucose to form a hydrophilic complex in the presence of glucose and the charge repulsion of FHCSPBAis increased atlow $\\mathsf { p H }$ ,resultingin the swelling or collapse of FHCsPBA micelles.DLS measurements verified that the size of blank FHCSPBA-I micelles in $\\mathrm { p H } ~ 7 . 4$ solution was $3 6 2 ~ \\pm ~ 1 1 ~ \\mathrm { { n m } }$ and increased to $6 3 3 \\pm 6 5 \\mathrm { { \\ n m } }$ obviously in $\\mathsf { p H } 6 . 5$ and then slightly increased to $6 8 6 \\pm 3 7 ~ \\mathrm { { n m } }$ in $\\mathrm { p H } ~ 5 . 0$ ,asshown in Fig.6a.The size of blankFHCSPBA-I micelles also increased with the glucose concentration of the medium; the value increased to $4 8 7 \\pm 5 3$ and $5 0 3 \\pm 1 9 ~ \\mathrm { { n m } }$ at glucose concentration of 25 and $5 0 ~ \\mathrm { m M }$ ,respectively (Fig. 6b). The size change of blank FHCSPBA-I micelles showed pH and glucose sensitivity as well; the size increased to $6 1 8 \\pm 8 8$ and $6 4 3 \\pm 9 8 ~ \\mathrm { { n m } }$ in $\\mathsf { p H } 6 . 5$ and 5.0,respectively, from $1 8 7 \\pm 1 0 \\mathrm { n m }$ in $\\mathrm { p H } 7 . 4$ (Fig. 6c). The values were $4 1 1 \\pm 3 6$ and $4 9 6 \\pm 3 1 \\mathrm { n m }$ at glucose concentration of 25 and $5 0 ~ \\mathrm { m M }$ ,respectively (Fig. 6d). As shown in the TEM images (Fig. 4), the polymeric micelles swelled but did not collapse in lower $\\mathsf { p H }$ and high glucose concentrationand theyretained spherical morphologies.These results indicate that the micelles formed by FHCsPBAare highly sensitive to acidic pH and glucose,which is favorable for targeting delivery in tumor treatment because of the lowpH and high glucose concentration in tumor tissues. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/fe6c1146ac9eed40fecd9a3d5854b5a42f453d8b4b9afee6b994aecde8b59741.jpg",
+        "table_caption": [
+            "Table1Folatecontent,CMCofFHCSPBA,particlesize,drugloadingcontentanddrug loading effciencyof polymericmicelles "
+        ],
+        "table_footnote": [
+            "α Determined by fluorescence spectrometry. Determined by $I _ { 3 7 2 } / I _ { 3 8 3 }$ ratio $\\left( I _ { 1 } / I _ { 3 } \\right)$ of pyrene fluorescence emission as a function of polymer concentration.‘ Mean value measured using DLs. "
+        ],
+        "table_body": "<html><body><table><tr><td>Sample</td><td>Folate feed ratio (folate/HCSPBA unit, mol mol-1)</td><td>Folate graft ratioä (folate/FHCSPBAunit,mol mol-1)</td><td>(mg mL-1) CMCb</td><td>DLC (wt%)</td><td>DLE (%)</td><td>Particle sizec (nm)</td></tr><tr><td>HCSPBA</td><td>0</td><td>0</td><td>0.020</td><td>25.3%</td><td>65.6%</td><td>334±13</td></tr><tr><td>FHCSPBA-I</td><td>1:20</td><td>1:36</td><td>0.033</td><td>14.6%</td><td>36.4%</td><td>237±55</td></tr><tr><td>FHCSPBA-II</td><td>1:5</td><td>1:9</td><td>0.053</td><td>19.6%</td><td>56.1%</td><td>187 ±10</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef324627b8a34ce4ba3444952a518bdfe1a70e13871a9aa4db02f461a87c80ba.jpg",
+        "img_caption": [
+            "Fig.5Size distribution of blank and drug loaded FHCSPBA-l (a)and FHCSPBA-II (b) micelles. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3820ad285c32ef71890db9919622ac78b3aebf5f70993915dc3a0a18dfcca28d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/833ff40c219ced5bad88af5b99ae9872ff32764e7c91315eb78731935a702c5b.jpg",
+        "img_caption": [
+            "Fig.4 TEM images of FHCSPBA-l micelles (a)and DOX loaded FHCSPBA-I micelles (b) at pH7.4, FHCSPBA-I micelles at $\\mathsf { p H } 5 . 0$ (c)and $\\mathsf { p } \\mathsf { H } \\ 7 . 4$ with $5 0 ~ \\mathsf { m } M$ glucose (d);FHCSPBA-Il micelles (e) and DOX loaded FHCSPBA-Il micelles (f) at pH 7.4, FHCSPBA-Il micelles at pH 5.0 (g) and pH7.4 with $5 0 ~ { \\mathsf { m } } M$ glucose (h). ",
+            "Fig.6Size distribution of blank FHCSPBA-l (a and b)and FHCSPBA-ll (c and d) micelles at different pH values and glucose concentrations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Invitrodrugrelease ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The drug release of DOXloaded micelles was investigated at 37 ${ } ^ { \\circ } \\mathbf { C }$ in PBS containing $0 . 1 \\%$ (v/v) Tween-80 with different pH values and glucose concentrations.Sustained drug release from the drug loaded polymeric micelles was observed without initial burst release (Fig.7),and the drug release was accelerated by either decreasing the medium pH or increasing the glucose concentration, due to the swelling of the FHCsPBA micelles.As demonstrated in Fig.7a,the drug release from FHCSPBA-II micelles was very slow at physiological pH (7.4)，and the cumulativerelease ofDOXwas $3 1 . 5 \\%$ atarelease time of $1 7 0 \\mathrm { h }$ When the medium pH was low, the electrostatic repulsion of FHCSPBA increased due to the protonation of amino groups, resulting in the swelling of FHCSPBA micelles and accelerating drug release from the micelles.The cumulative release of DOX increased to $4 4 . 4 \\%$ and $7 8 . 7 \\%$ at a release time of $^ { 1 7 0 \\mathrm { ~ h ~ } }$ at tumor $\\mathsf { p H }$ (6.5)and lysosome pH (5.0),respectively. The DOX release was also accelerated in the presence of glucose due to the more hydrophilic forms of FHCsPBA micelles after the phenylboronic acid groups combined with glucose and the cumulative releaseofDOX was $4 3 . 6 \\%$ and $8 7 . 8 \\%$ atarelease time of $^ { 1 7 0 \\mathrm { h } }$ at physiological $\\mathsf { p H }$ (7.4) with $2 5 ~ \\mathrm { m M }$ and $5 0 ~ \\mathrm { m M }$ glucose，respectively.The drug release from the polymeric micelles with low folate content demonstrated similar $\\mathsf { p H }$ and glucose dependence.As demonstrated in Fig.7b,the cumulativerelease ofDOXfromFHCSPBA-Imicelleswas $2 3 . 0 \\%$ at a release time of $1 7 0 \\mathrm { h }$ at physiological pH(7.4),and the value increased to $5 9 . 4 \\%$ and $8 0 . 3 \\%$ at tumor $\\mathrm { p H }$ (6.5) and lysosome $\\mathsf { p H }$ (5.0)，respectively. The presence of glucose could also accelerate the drug release and the cumulative release of DOX was $4 8 . 6 \\%$ and $9 3 . 8 \\%$ at a release time of $^ { 1 7 0 \\mathrm { h } }$ at physiological $\\mathsf { p H }$ (7.4) with $2 5 { \\mathrm { ~ m M } }$ and $5 0 ~ \\mathrm { m M }$ glucose,respectively.For the low pH and high glucose concentration microenvironment in tumor tissue,the $\\mathsf { p H }$ and glucose sensitivity of DOX release from the drug loaded FHCsPBA micelles should be beneficial for the system applied in tumor treatment.15,37 ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/db7fed3a5eed93dd8c3a1b6bc1c4df0a5754ccfefec37f1e2571342d8f00b25d.jpg",
+        "img_caption": [
+            "Fig.7Cumulative release of DOX from the drug loaded FHCSPBA-ll (a)and FHCSPBA-I (b) micelles immersed in $1 0 ~ \\mathrm { m L }$ of saline in different media. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The biocompatibility of micelles ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To investigate the cytotoxicity of polymeric micelles,L929 fibroblastswithmedium containing blankmicellesat different concentrations $( 1 0 { - } 1 0 0 0 ~ { \\mu } \\mathrm { g } \\ \\mathrm { m L } ^ { - 1 } )$ were evaluated using Cell Counting Kit-8 (CCK-8) assay. The results were presented in Fig.8; the cell viability decreased as the micelle concentration increased,but the relative cell viability was higher than $9 0 \\%$ even when the concentration was as high as $1 \\mathrm { \\ m g \\mathbf { m } L ^ { - 1 } }$ . Thus, no obvious growth inhibition effect was found after incubation with the blank micelles even at the highest concentration at 1 $\\mathrm { m g } \\mathrm { m L } ^ { - 1 }$ for $2 4 \\mathrm { ~ h ~ }$ ,indicating that the polymers with different folate content were nontoxic as nanocarriers.The results suggest that the newly developed FHCsPBA are biocompatible and suitable for biomedical applications. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In vitro anticancer efficiency ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To evaluatewhether the FHCSPBAmicelles are efficient carriers foranticancer drug delivery,the in vitro anticancer activity of drug loaded micelles was measured.DOXloaded micelles were incubated with 4T1breast cancer cells,and freeDOX wasused as control.As shown in Fig. 9,significant proliferation inhibition of cells following $2 4 \\mathrm { h }$ incubation withDOX loaded micelles was observed.The IC50 of drug loaded micelles was 18.0,16.4 and $2 3 . 1 ~ \\mu \\mathrm { g } \\ \\mathrm { m L } ^ { - 1 }$ for DOX loaded HCSPBA,FHCSPBA-I and FHCSPBA-I micelles,respectively,and much higher than that of free DOX $( 0 . 5 7 \\ \\mu \\mathrm { g } \\ \\mathrm { m L } ^ { - 1 } )$ .It seems that free DOX showed higher toxicity to cells than the micelle formulations due to its higher and nonspecific cellular uptake,but the effect lessened with time due to the generation of drug resistance of cells. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e3d00de7b89e5eb81848406aab8e78913f7e43870f55b2cd4f41f42164bafc6c.jpg",
+        "img_caption": [
+            "Fig.8Viability of L929 cells after being incubated with DOX-free micelles at different concentrations for $2 4 \\ h$ （204 $( n = 3 )$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b97950abdd50ce57cba9dd1891fb31d00d5f7eb72597fa2e8f971c6f165c7a7c.jpg",
+        "img_caption": [
+            "Fig.9 Anticancer activity of DOX loaded HCSPBA micelles,DOX loaded FHCSPBA micelles and free DOX as a function of concentration.The cells were incubated against 4T1 cells with DOX-loaded micelles or free DOX for $2 4 \\mathsf { h }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Because DOX is a small molecule and hydrophilic,and it is internalized in cells easily and directly via pinocytosis.9,38 The intracellular transportation of polymeric micelles may not be as fast or efficient as the direct diffusion of free DOXand resulted in greater cell viability.However,nano- or sub-micrometer sized drug formulations can be internalized by endocytosis9,39 and this can be further enhanced by installing targeting ligands, such as folate,aptamer,peptide,and antibody moieties,that facilitate efficient and specific cellular uptake of micelles.4 The IC50 of DOX-loaded HCSPBA micelles is $4 . 6 ~ \\mu \\mathrm { g }$ DOX equiv. $\\mathrm { m L } ^ { - 1 }$ for 4T1 cells after $2 4 \\mathrm { ~ h ~ }$ of incubation. Therefore,the polymer formulations are still considered to be toxic to cancer cells and the anticancer activity of DOX-loaded polymeric micelles can be enhanced by installing folate as a targeting ligand.The IC50 of DOX-loaded FHCSPBA-I and FHCSPBA-II micelles are 2.6 and $3 . 5 ~ \\mu \\mathrm { g }$ DOX equiv. $\\mathrm { m } \\mathrm { L } ^ { - 1 }$ for 4T1 cells, respectively,calculated based onFig.9,which were lower than that obtained with the non-folate HCSPBA counterpart under otherwise the same conditions. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Invitrocellularuptake ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CLSM was applied to investigate the cellular uptake behavior and intracellulardistributionofDOXloaded micelles and free DOXin 4T1 cells.After a predetermined interval of $^ { 3 \\mathrm { ~ h ~ } }$ ，the nuclei were stained by DAPI and observed by confocal micros copy.The results revealed that the uptake of free DOX by cell nuclei was crucial and they showed red fluorescence onlyin the nucleus,because DOXhas to intercalate withDNA to induce cell death.40,41 In contrast, weaker DOX fluorescence was observed for 4T1 cells incubated withDOX-loaded HCSPBAand FHCSPBA micelles under otherwise the same conditions and the red fluorescence mainly originated from the cytoplasm (Fig. 10), because the DOX-loaded micelleswere internalizedvia endocytosis,while free DOX was internalized via diffusion.’The folate-enhanced delivery of micelles wasalso observed.Itwas found thatin Fig.10,cells incubated with the folate-targeted micelles (FHCSPBA-I and FHCSPBA-II) showed much stronger ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/be06b59265f9a6ee31776669f77b8fbf41c71321c38797bdfcfc7621294dc202.jpg",
+        "img_caption": [
+            "Fig.10CLSM images of 4T1 cells incubated with free DOX (a),DOX loaded HCSPBA micelles (b),DOX loaded FHCSPBA-I micelles (c) or DOX loaded FHCSPBA-Il micelles (d) for $3 h$ (DOX concentration was $5 0 ~ { \\mu \\ g } ~ \\mathsf { m L } ^ { - 1 } )$ .Cell nuclei were stained with DAPl. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "DOXfluorescence in comparison with cells incubated with the non-targeted ones (HCSPBA).The weaker fluorescence of DOXloaded HCsPBA micelles might be explained by the slightly slower cellular uptake from that of DOX-loaded FHCSPBA micelles,and the strong fluorescence intensity in the cytoplasm isa result of active FR-mediated endocytosis.21,42 To further confirm this,the 4T1 cells were incubated first with an excess amount of folate for $^ { 4 \\mathrm { h } }$ to interrupt the FA-receptor interaction between the micelles and the cell membrane,and then free DOX and DOX loaded micelles were added to the wells for another $^ { 3 \\mathrm { ~ h ~ } }$ of incubation.Compared with the stronger DOX fluorescence of folate-targeted micelles (FHCsPBA) than that of non-targeted ones (HCsPBA), the intensity of DOX fluorescence showed no significant difference between them when excess folate was added,as shown in Fig.11.The result indicated that the internalization of the folate-containing FHCsPBA micelles could be significantly inhibited by the addition of free folate molecules,which suggests the selectivity of transportation of the FHCsPBA micelles to FA-receptor expressing cells through an active FR-mediated endocytosis pathway. The result is in agreement with the in vitro anticancer effciency test result, wherein the FHCSPBA micelles have lower IC5O (DOX equiv. $\\mathbf { m \\mathbf { L } ^ { - 1 } } )$ and higher anticancer activity than the non-folate micelles due to the eficient and specific cellular uptake of micelles facilitated by folate as a targeting ligand. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/1fbf1df9a0684d4e1d7833f27476b29325cab795097de55104015f9443f49733.jpg",
+        "img_caption": [
+            "Fig.11 CLSM images of 4T1 cells were first incubated with excess folate for4hand then with free DOX(a),DOX loaded HCSPBA micelles (b),DOX loaded FHCSPBA-I micelles (c) or DOX loaded FHCSPBA-Il micelles (d) for 3 h (DOX concentration was $5 0 ~ { \\mu \\ g } ~ \\mathsf { m L } ^ { - 1 } )$ . Cell nuclei were stained with DAPI. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Folate-conjugated,glucose and pH dual-responsive micelles were developed by anchoring phenylboronic acid and folate to the polymer chain of chitosan hydrochloride and the blank micelles showed non-cytotoxicity.DOX was employed as an anticancer drug model and loaded into the polymeric micelles. Sustained glucose and pH dually sensitive drug release from the drug loaded micelles was observed and the cumulative drug release could be accelerated by slightlydecreasing the medium pH or increasing the glucose concentration.In vitro anticancer efficiency and cell uptake were evaluated by incubating the DOX loaded micelles with 4T1 breast cancer cells and the results showed that folate-targeted micelles (FHCSPBA) had higher anticancer activity than non-targeted ones (HCsPBA).Free DOX was internalized into the nuclei of 4T1 cells via diffusion, whereas the DOX loaded micelles were internalized in the cytoplasm via endocytosis,and the cellular uptake of the micelles was enhanced by folate,with stronger fluorescence intensity in the cytoplasm.Because of the different microenvironments (low pH，high glucose concentration and overexpression of folate receptor） in cancer cells，these folateconjugated glucose and pH dually responsive micelles appear to bea promising platform for targeted anticancer drug release. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1 S.Hassanzadeh, Z.Feng,T.Pettersson and M.Hakkarainen, Polymer,2015,74,193. 2 S.Lee,H. Kim,S.Chae and B.H. Sohn,Polymer,2015,61,15. 3 Z.Chen，P.A. FitzGerald，Y. Kobayashi，K. Ueno, M.Watanabe,G.G. Warr and R. Atkin，Macromolecules, 2015, 48,1843. 4 Y. Singh and M. P. Palombo, Cur Med. Chem., 2008,15, 1802.   \n5 Y. K. Jung, M. H. Park, H.J. Moon, U.P. Shinde and B. Jeong, Macromolecules,2013,46,4215. 6 L.Jiang, Z. M. Gao,L. Ye,A. Y. Zhang and Z. G.Feng, Polymer, 2013,54,5188.   \n7 J. Hu,J. He,M. Zhang and P.Ni,J. Controlled Release, 2015, 213,e86.   \n8 C. Deng, Y. Jiang, R. Cheng, F. Meng and Z. Zhong, Nano Today,2012,7,467.   \n9 Y. Lei, Y. Lai, Y. Li, S. Li, G. Cheng, D. Li,H. Li, B.He and Z. Gu,Int.J. Pharm.,2013,453,579.   \n10 X.Li,P.Li, Y. Zhang,Y. Zhou, X. Chen,Y.Huang and Y. Liu, Pharmaceut. Res., 2010, 27,1498.   \n11 X.B. Xiong, Y. Huang,W.L. Lu, X. Zhang, H. Zhang, T.Nagai and Q. Zhang,J. Controlled Release,2005,107, 262.   \n12 J. Makino, H. Cabral, Y. Miura, Y. Matsumoto, M. Wang, H. Kinoh，Y. Mochida,N. Nishiyama and K. Kataoka, J. Controlled Release,2015,220,783.   \n13 S.Acharya and S.K. Sahoo,Adv.Drug Delivery Rev.,2011,63, 170.   \n14 V. Torchilin, Adv. Drug Delivery Rev., 2011, 63,131.   \n15 J. Li, W. Hu,Y. Zhang, H.Tan, X. Yan,L. Zhao and H. Liang, J.Polym. Sci.,Part A:Polym. Chem.,2015,53,1235.   \n16 L. Zhao,L. Zhu,F. Liu, C. Liu, Shan-Dan, Q. Wang, C. Zhang, J. Li, J. Liu, X. Qu and Z. Yang, Int. J. Pharm.,2011, 410, 83.   \n17 U. Kedar，P. Phutane, S. Shidhaye and V. Kadam, Nanomedicine, 2010,6, 714.   \n18 A.Kumar,N.K.Vishvakarma,A. Tyagi,A.C.Bharti and S. M. Singh, Biosci. Rep.,2011,32,91.   \n19 B.Bahrami，M. Mohammadnia-Afrouzi，P. Bakhshaei, Y. Yazdani,G.Ghalamfarsa,M. Yousefi,S. Sadreddini, F. Jadidi-Niaragh and M. Hojt-Farsangi， Tumor Biol., 2015,36,5727.   \n20 G. Hong, R. Yuan, B. Liang, J. Shen, X. Yang and X. Shuai, Biomed. Microdevices, 2008,10, 693.   \n21 H. Zhao,H. H. P. Duong and L. Y. L. Yung, Macromol. Rapid Commun., 2010,31,1163.   \n22 H. Zhu,F. Liu,J. Guo,J. Xue, Z. Qian and Y. Gu, Carbohydr. Polym.,2011,86,1118.   \n23 P.J.Kinnari， M. L. Hyvonen， E.M. Makila, M. H. Kaasalainen, A．Rivinoja，J. 1 Salonen, J.T.Hirvonen，P. M. Laakkonen and H. A. Santos, Biomaterials,2013,34,9134.   \n24 J.Liu,H. Li,X. Jiang,C. Zhang and Q. Ping,Carbohydr. Polym.,2010,82,432.   \n25 Y. Zhang,J. Zheng,J. Li, W.Hu,Y. Sun,H. Liang,L. Zhao and F. Liang, Acta Polym. Sin., 2015,9,1020. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This study is financially sponsored by the National Natural Science Foundation of China (514031o8),the Natural Science Foundation of Zhejiang Province,China (LQ13B04ooo1),the Open Fund of Beijing National Laboratory for Molecular Sciences,the Open Fund of Zhejiang Provincial Top Key Discipline of Aquaculture and K.C.Wong Magna Fund in Ningbo University. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "26 Z. Du, S.Pan,Q. Yu, Y. Li, Y. Wen, W. Zhang, M. Feng and C.Wu,Colloids Surf.,A,2010,353,140.   \n27G.A.Mansoori,K.S.Brandenburg and A.Shakeri-Zadeh, Cancers,2010,2,1911.   \n28W.Ye,J.Du,B. Zhang,R. Na,Y. Song,Q.Mei,M. Zhao and S. Zhou,PLoS One,2014,9,e97358.   \n29S.Khoee and A.Kavand,Eur.J.Med.Chem.,2014,73,18.   \n30K.Yao,J.Wang,C.Wang,C.Tang and X.Jiang,J.Mater. Chem. B,2013,1,2324.   \n31S.K.Murthy,Int.J.Nanomed.,2007,2,129.   \n32N.Parker,M.J.Turk,E.Westrick, J.D.Lewis,P.S.Lowand C.P.Leamon,Anal. Biochem.,2005,338,284.   \n33 L. Zhu,L. Zhao,X.Qu and Z. Yang,Langmuir,2012，28, 11188.   \n34 T.Lu,J. Sun,X. Chen,P. Zhang and X. Jing,Macromol. Biosci.,2009,9,1059.   \n35 N. Aoki, M. Nishikawa and K. Hattori, Carbohydr. Polym., 2003,52,219.   \n36 Y. Yang, Y.Guo,R. Sun and X. Wang, Carbohydr. Polym., 2016,145,56.   \n37 U.Manna and S.Patil,ACS Appl. Mater. Interfaces,2010,2, 1521.   \n38 L.Luo,J. Tam,D. Maysinger and A. Eisenberg, Bioconjugate Chem.,2002,13,1259.   \n39I.Canton and G.Battaglia,Chem. Soc.Rev.,2012,41,2718.   \n40 W. Chen, P. Zhong,F. Meng,R. Cheng, C. Deng,F. Jan and Z.Zhong,J.Controlled Release,2013,169,171.   \n41D.A.Gewirtz,Biochem.Pharmacol.,1999,57,727.   \n42 Y. Sun,Y. Li, S. Nan,L. Zhang,H. Huang and J. Wang, J. Colloid Interface Sci., 2015,458,119. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

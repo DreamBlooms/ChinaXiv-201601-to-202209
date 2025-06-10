@@ -1,0 +1,257 @@
+[
+    {
+        "type": "text",
+        "text": "Gravitational Waves from Oscillons with Cuspy Potentials ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jing Liu $^ { 1 , 2 }$ ,\\* Zong-Kuan Guo $^ { 1 , 2 }$ ,t Rong-Gen Cai $^ { 1 , 2 }$ ,\\$ and Gary Shiu $^ 3$ （204 $^ { 1 }$ CAS Key Laboratory of Theoretical Physics， Institute of Theoretical Physics, Chinese Academy of Sciences，P.O.Box 2735，Beijing 100190，China （20 $^ 2$ School of Physical Sciences， University of Chinese Academy of Sciences, No.19A Yuquan Road,Beijing 10o049，China and $^ 3$ Department of Physics， University of Wisconsin-Madison， Madison， WI 53706, USA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We study the production of gravitational waves during oscillations of the inflaton around the minimum of a cuspy potential after inflation.We find that a cusp in the potential can trigger copious oscillon formation, which sources a characteristic energy spectrum of gravitational waves with double ɔeaks.The discovery of such a double-peak spectrum could test the underlying inflationary physics. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction. Gravitational waves play an important role in the context of inflationary cosmology. A stochastic background of gravitational waves,produced during inflation and subsequent preheating/reheating after infation,carries useful information about the inflationary dynamics and inflaton decay (see [1] for a recent review). Detecting such a stochastic background of gravitational waves,whether directly or indirectly, can provide us with a unique opportunity to test theories of inflation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "During inflation,quantum fluctuations of the tensor modes of the spacetime metric were stretched by the accelerated expansion of the Universe,and were then nearly frozen on super-Hubble scales.In the standard singlefield slow-roll inflationary scenario, the amplitude of the power spectrum of the resulting gravitational waves depends on the energy scale of inflation. Since these gravitational waves can result in B-mode polarization of the cosmic microwave background(CMB）anisotropies,their spectrum is in principle measurable by CMB polarization experiments. Although primordial B-modes have not been detected yet, the amplitude of the tensor spectrum (quantified by the tensor-to-scalar ratio $r$ ）has become a strong discriminator of models. Current CMB data alone already put an upper bound on $r < 0 . 0 9$ at 95% confidence level [2],and when combined with the constraints on the scalar spectral index,have been effective in discriminating inflationary models.For example, the cubic and quartic potentials are strongly disfavored, and the quadratic potential is moderately disfavored by the Planck 2015 data [3],while axion monodromy inflation with a linear potential [4] or fractional powers [5] are compatible with the current Planck results.Further advances in axion monodromy inflation have suggested potentials with even more possible powers [6,7]. Moreover, it has recently been shown that stringy effects can lower the power of a quadratic axion monodromy potential to less than linear [8]. Thus,axion monodromy inflation represents an interesting class of large feld inflationary models that are compatible with data. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Besides vacuum fluctuations during inflation,another source of gravitational waves is parametric resonance during preheating [9]. During preheating after inflation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "the Fourier modes of a scalar matter field $\\chi$ coupled to the inflaton grow exponentially by parametric resonance,driven by the oscillating inflaton. The resonant modes are quickly pumped up to a large amplitude.Such highly pumped modes correspond to large, time dependent density inhomogeneities in position space,ensuring that the matter distribution has a non-trivial quadrupole moment,which can source a significant spectrum of gravitational waves [1O].The present peak frequency of such gravitational waves is proportional to the energy scale of inflation [11],while the present amplitude of gravitational waves is independent of the energy scale of inflation [12]. In hybrid inflation with the energy scale ranging from the GUT scales down to the TeV scale,the stochastic background produced during preheating is expected to be directly detected by future gravitational wave detectors [13]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this letter,we shall investigate the production of gravitational waves during oscillations of the inflaton after inflation with a cuspy potential ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ( \\phi ) = \\lambda M _ { \\mathrm { p l } } ^ { 4 - p } | \\phi | ^ { p }\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "with $p = 1 , 2 / 3 , 2 / 5$ ,and $M _ { \\mathrm { p l } } \\equiv ( 8 \\pi G ) ^ { - 1 / 2 }$ is the reduced Planck mass.Our study is motivated by the potentials that appear in axion monodromy inflation [4,5],though we hasten to add that the powers of these potentials are expected only at large field values,due to the coupling of the inflaton to high scale physics.At the end of inflation, i.e., for small $\\phi$ , these potentials for axion monodromy become quadratic.Nonetheless,cuspy potentials can arise in other inflationary contexts, e.g., through non-standard kinetic terms or as a result of integrating out the dynamics of other fields that couple to the inflaton. Thus,we use these specific potentials as benchmarks to illustrate the novel gravitational wave signatures that can arise when the potential has a cuspy behavior at the end of inflation. Assuming the potential in eq.(1) applies to both the inflationary era and at the end of inflation, the value of $\\lambda$ in this simple class of models can be fixed by the estimated amplitude of scalar perturbations from the CMB data. For powers of $p = 1 , 2 / 3 , 2 / 5$ ， $\\lambda \\approx 3 , 4 , 5 \\times 1 0 ^ { - 1 0 }$ , the predicted scalar spectral index $n _ { s } \\approx 0 . 9 7 0 , 0 . 9 7 3 , 0 . 9 7 6$ ,and the predicted tensor-to-scalar ratio $r \\approx 0 . 0 8 , 0 . 0 5 , 0 . 0 3$ F respectively,assuming the number of e-folds $N \\ = \\ 5 0$ ： These predictions are in agreement with the recent CMB data.In the reheating scenario, the inflaton $\\phi$ oscillates near the minimum of its potential after inflation and decays into elementary particles.However,due to the cusp of the potential, the oscillating behavior of the inflaton is very different from that of smooth potentials like $\\phi ^ { 2 }$ and $\\phi ^ { 4 }$ . It has recently been shown that an efficient parametric resonance can occur during preheating for an inflaton potential of the form of eq.(1） with $0 < p \\le 2$ ,if the inflaton is coupled to a scalar matter feld $\\chi$ via an interaction term $\\phi ^ { 2 } \\chi ^ { 2 }$ [14].However,the production of gravitational waves has not been studied to our knowledge.In this letter,we are interested in gravitational wave production during oscillations of the inflaton after inflation with cuspy potentials. We find that the nonsmooth oscillations can trigger amplification of fluctuations of the inflaton itself at the moment when $\\phi ( t ) = 0$ ， so that oscillons copiously form after inflation.As in the models with a symmetric smooth potential [15] and an asymmetric smooth potential [16], the oscillon formation in the models with cuspy potentials sources a stochastic background of gravitational waves,on which the characteristic size of the oscillons is imprinted. Interestingly, these cuspy potentials result in a characteristic energy spectrum of gravitational waves with double peaks,which can be distinguished from smooth potentials by probing the shape of the energy spectrum of gravitational waves. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Model.Gravitational waves are described by the transverse-traceless gauge-invariant tensor perturbation, （204号 $h _ { i j }$ , ina Friedman-Robertson-Walker (FRW）metric, ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd s ^ { 2 } = - d t ^ { 2 } + a ^ { 2 } ( t ) ( \\delta _ { i j } + h _ { i j } ) d x ^ { i } d x ^ { j } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $t$ is the cosmic time and $a ( t )$ is the scale factor.To first order in $h _ { i j }$ , the perturbed Einstein equation reads ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ddot { h } _ { i j } + 3 H \\dot { h } _ { i j } - \\frac { 1 } { a ^ { 2 } } \\nabla ^ { 2 } h _ { i j } = \\frac { 2 } { M _ { \\mathrm { p l } } ^ { 2 } a ^ { 2 } } \\Pi _ { i j } ^ { \\mathrm { T T } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\Pi _ { i j } ^ { \\mathrm { T T } }$ is the transverse-traceless projection of the anisotropic stress tensor $T _ { i j }$ .In our model we assume that the inflaton is weakly coupled to other fields during preheating. Gravitational waves are sourced by the inflaton fluctuations $\\delta \\phi$ ,i.e., $\\Pi _ { i j } ^ { \\mathrm { T T } } = ( \\partial _ { i } \\delta \\phi \\partial _ { j } \\delta \\phi ) ^ { \\mathrm { T T } }$ .Later we shall discuss the effects of interactions with other fields on the production of gravitational waves. The energy density of gravitational waves is given by ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho _ { \\mathrm { G W } } = \\frac { M _ { \\mathrm { p l } } ^ { 2 } } { 4 } \\langle \\dot { h } _ { i j } \\dot { h } ^ { i j } \\rangle ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\langle \\ldots \\rangle$ denotes a spatial average over the volume. It is commonly parameterized by the dimensionless density parameter per logarithmic frequency interval, $\\Omega _ { \\mathrm { G W } } h ^ { 2 } =$ （204号 $h ^ { 2 } d \\rho _ { \\mathrm { G W } } / d \\ln k / \\rho _ { c }$ ，where $\\rho _ { c }$ is the critical density of the ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Universe and $h$ is the reduced Hubble parameter. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To understand oscillon formation during oscillations of the inflaton after inflation with a cuspy potential, we now investigate the evolution behavior of inflaton fluctuations.To first order, the equation of motion for the Fourier modes of fluctuations of the inflaton $\\phi$ is ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta \\ddot { \\phi } _ { k } + 3 H \\delta \\dot { \\phi } _ { k } + \\left[ \\frac { k ^ { 2 } } { a ^ { 2 } } + V ^ { \\prime \\prime } ( \\phi ) \\right] \\delta \\phi _ { k } = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To solve this equation,we neglect the expansion of the Universe for the moment, thus the friction term drops out of the equation of motion.Moreover,since we are interested in large-scale modes, the $k ^ { 2 }$ term can be dropped. The equation becomes ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta \\ddot { \\phi } _ { k } + V ^ { \\prime \\prime } ( \\phi ) \\delta \\phi _ { k } = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For illustrative purposes,in what follows let us consider the linear potential. We shall later numerically show that there exist similar evolutions of $\\delta \\phi _ { k }$ for $p \\ = \\ 2 / 3$ and $p = 2 / 5$ .Since the inflaton potential $V ( \\phi ) = \\lambda M _ { \\mathrm { p l } } ^ { 3 } | \\phi |$ has a cusp at $\\phi = 0$ ，its derivative with respect to $\\phi$ is a step function and its second order derivative is a delta function $V ^ { \\prime \\prime } ( \\phi ) = 2 \\lambda M _ { \\mathrm { p l } } ^ { 3 } \\delta ( \\phi )$ .We focus on the evolution behavior of the $\\delta \\phi _ { k }$ modes near the point $\\phi ( t ) = 0$ ： It is convenient to define $t$ such that $\\phi ( t \\ : = \\ : 0 ) \\ : = \\ : 0$ ： The solution to the equation of motion for the inflaton is $\\phi ( t ) = | \\dot { \\phi } _ { m } | t + \\lambda M _ { \\mathrm { p l } } ^ { 3 } t ^ { 2 } / 2$ when $t < 0$ and $\\phi ( t ) = $ （204号 $| \\dot { \\phi } _ { m } | t - \\lambda M _ { \\mathrm { p l } } ^ { 3 } t ^ { 2 } / 2$ when $t ~ > ~ 0$ ，where $\\dot { \\phi } _ { m }$ is the maximum value of $\\dot { \\phi }$ at $t ~ = ~ 0$ .Since $\\phi ( t ) \\approx | \\dot { \\phi } _ { m } | t$ isa good approximation in a small vicinity of $\\phi = 0$ ,we find （20 $\\delta \\dot { \\phi } _ { k } ( t = 0 ^ { + } ) - \\delta \\dot { \\phi } _ { k } ( t = 0 ^ { - } ) = - 2 \\lambda M _ { \\mathrm { p l } } ^ { 3 } \\delta \\phi _ { k } ( t = 0 ) / | \\dot { \\phi } _ { m } |$ which implies that $\\delta \\dot { \\phi } _ { k }$ jumps suddenly when $\\phi$ crosses the cusp of the potential. Such periodic jumps of $\\delta \\dot { \\phi } _ { k }$ result in periodic, rapid increases of the energy density （204号 $\\rho _ { k }$ .We show the time evolution of the energy density for a linear potential (orange) in an expanding Universe in Fig.1. In the cases of $p = 2 / 3$ and $p = 2 / 5$ ， $\\left| V ^ { \\prime } ( \\phi ) \\right|$ becomes infinite when $| \\phi |$ tends to zero. To avoid this singularity, the potential with a cut-off $\\vert \\phi \\vert > \\mathcal { O } ( 1 0 ^ { - 3 } )$ is adopted in our numerical calculations.We also show the time evolution of the energy density for the $\\phi ^ { 2 / 3 }$ potential (blue） and $\\phi ^ { 2 / 5 }$ potential (green) in Fig.1. Similar to the linear potential, the energy density suddenly increases near the points at which $\\phi ( t ) = 0$ .However, the sudden increase is followed by a sudden decrease near （204 $\\phi ( t ) = 0$ after several oscillations of the field $\\phi$ .The energy density always increases after each oscillation of the field $\\phi$ . We have checked that the increase in energy density is independent of the choice of the cut-off. As a result,oscillon formation occurs when the inflaton oscillates near the minimum of its potential, which sources a stochastic background of gravitational waves. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Simulation Results. Using a modified version of LATTICEEASY [17],we simulate the production of gravitational waves during preheating in the models (1）with cuspy potentials. The publicly available C++ package LATTICEEASY has been developed for more generally calculating the evolution of interacting scalar fields in an expanding Universe using a staggered leapfrog algorithm, which allows us to simultaneously solve the Friedmann equations and the inflaton evolution equation in an FRW Universe.To calculate the energy spectrum $\\Omega _ { \\mathrm { G W } } h ^ { 2 }$ of gravitational waves, the gravitational wave equation (3) needs be solved in an expanding Universe.The spectral method can directly solve for the evolution of $h _ { i j }$ sourced by the transverse-traceless part of the anisotropic stress tensor $T _ { i j }$ in Fourier space [18]. Actually, one can first evolve the tensor perturbations in configuration space sourced by the anisotropic stress tensor $T _ { i j }$ instead of its transverse-traceless part and then apply the transversetraceless projector to the real physical $h _ { i j }$ in Fourier space [19]. Another method is based on the Green's functions in Fourier space to calculate numerically the energy spectrum of gravitational waves generated well inside the horizon [2Ol. In our lattice simulations we adopt the configuration-space method for solving the following evolution equation of the tensor perturbations ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/eaf2a3421dc978bf2450ca2d7dfe925629a4a9ad6b126520ffdeea6fe5925159.jpg",
+        "img_caption": [
+            "FIG.1:Evolutions of the energy density $\\rho _ { k }$ for cuspy potentials with $p = 1$ (orange), $p = 2 / 3$ (blue)and $p = 2 / 5$ (green), respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ddot { u } _ { i j } + 3 H \\dot { u } _ { i j } - \\frac { 1 } { a ^ { 2 } } \\nabla ^ { 2 } u _ { i j } = \\frac { 2 } { M _ { \\mathrm { p l } } ^ { 2 } a ^ { 2 } } T _ { i j } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Therefore,the transverse-traceless tensor perturbations can be written as $h _ { i j } ( t , { \\bf k } ) = \\Lambda _ { i j , l m } ( \\hat { \\bf k } ) u _ { l m } ( t , { \\bf k } )$ ，where $\\Lambda _ { i j , l m } ( \\hat { \\mathbf { k } } )$ is the transverse-traceless projection operator and $u _ { l m } ( t , { \\bf k } )$ is the Fourier transform of the solution to the equation (7). The energy density of gravitational waves can be expressed in terms of $u _ { i j }$ as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho _ { \\mathrm { G W } } = \\frac { M _ { \\mathrm { p l } } ^ { 2 } } { 4 L ^ { 3 } } \\int d ^ { 3 } { \\bf k } \\Lambda _ { i j , l m } ( \\hat { \\bf k } ) \\dot { u } _ { i j } ( t , { \\bf k } ) \\dot { u } _ { l m } ^ { * } ( t , { \\bf k } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Weperform three-dimensionallattice simulations with （204号 $2 5 6 ^ { 3 }$ points in a box with periodic boundary conditions assuming $\\lambda = 1 . 2 6 \\times 1 0 ^ { - 1 2 }$ in the linear potential model. Weset the initial values of the inflaton,its derivative and the scale factor as $\\phi _ { i } = 0 . 7 5 M _ { \\mathrm { p l } }$ ， $\\phi _ { i } = 6 . 8 \\times 1 0 ^ { - 4 } M _ { \\mathrm { p l } } ^ { 2 }$ and $a _ { i } = 1$ . The inflaton fluctuations and its derivative are initialized by quantum vacuum fluctuations,while the tensor fluctuation and its derivative are initialized as zero.We stop the simulation when the energy spectrum of gravitational waves does not grow significantly. The energy spectrum and its frequency at the end of simulations are converted to the present values.Fig.2 shows the time evolution of the energy density as a function of position on a two-dimensional slice through the simulation from $a ( t ) = 6 . 1 3$ (top-left)，to 6.81 (top-right)，to 7.43(bottom-left） and 13.4 (bottom-right）in the linear potential model. We can see that at the beginning,oscillons copiously form and then decay during oscillations of the inflaton. In this model, the rapid growth of oscillons results in the production of gravitational waves with $\\Omega _ { \\mathrm { G W } } h ^ { 2 } \\sim 2 \\times 1 0 ^ { - 9 }$ today. Our lattice simulation results show that there appear two peaks in the energy spectrum of gravitational waves,a feature very distinct from that of other models. Therefore,our model can be distinguished from the production of gravitational waves during preheating by future gravitational wave detectors.A phenomenological study of gravitational waves produced from preheating with a time dependent resonance parameter $q ( t )$ was recently undertaken [23]. For some choices of $q ( t )$ , one also finds a gravitational wave spectrum with multiple peaks due to non-linear effects. Our model provides an explicit realization of this phenomenon. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The evolution of the spectrum goes through two different stages,the linear growth stage and nonlinear growth stage. In the first stage,as shown in Fig.3, the small- $k$ modes of the field $\\phi$ exponentially grow due to the cusp of the potential until the turning point $a ( t ) = 7 . 1 2$ .The linear growth is more efficient than those driven by the symmetric potential [15] and asymmetric potential [16]. This leads to the left peak in the energy spectrum of gravitational waves,which is characteristic of the cuspy potential.In the second stage, from Fig.3 we see that the small- $k$ modes begin to drop and the large- $k$ modes continue to grow.It implies that the energy flows from the small- $k$ modes to the large- $k$ modes,as discussed in detail in [19].This leads to the right peak in the energy spectrum of gravitational waves. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Moreover, from the lattice simulations of preheating in the models(1） with $p = 2 / 3$ and $p = 2 / 5$ ,we find that the energy spectra of gravitational waves peak at around $\\Omega _ { \\mathrm { G W } } h ^ { 2 } \\sim 1 . 2 \\times 1 0 ^ { - 9 }$ and $\\Omega _ { \\mathrm { G W } } h ^ { 2 } \\sim 4 \\times 1 0 ^ { - 1 0 }$ ,respectively,which are lower than the one in the linear potential model. Although the energy density $\\rho _ { k }$ increases more than in the $p = 1$ case when $| \\phi |$ tends to zero,as shown in Fig. 1,a sudden decease follows,which may suppress the production of gravitational waves. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In our analysis,we have neglected the interactions between the inflaton $\\phi$ and other matter fields.If the inflaton is coupled to a matter field $\\chi$ ，broad parametric resonance leads effectively to a fast growth of the fluctuations of $\\chi$ [14].However,our numerical simulations confirm that the growth of the inflaton fluctuations themselves triggered by the cusp in its potential is more effective than that of the field $\\chi$ by parametric resonance. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c7f155627f691339169c38c9db52a40dd7acdd00444e16b3535071d1e5aa6f40.jpg",
+        "img_caption": [
+            "FIG. 2: Energy density $\\rho$ on a two-dimensional slice through the simulation, when $a ( t ) = 6 . 1 3$ (top-left),6.81 (top-right),7.43 (bottom-left） and 13.4 (bottom-right),in the linear potential model. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5abb4427cca8e4f4f3cb452e01c2859f261cd1bc4dc151d8d0393d919247c4b.jpg",
+        "img_caption": [
+            "FIG.3: Evolution of the energy density of the field $\\phi$ for the linear potential. The yellow line corresponds to a turning point $a ( t ) = 7 . 1 2$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2cbcdec2f4445ce543024dda2869a205735344801d12cfd1e028db18c9ac67fc.jpg",
+        "img_caption": [
+            "FIG.4: Energy spectra of gravitational waves today，predicted by the linear potential with $\\lambda = 7 . 5 \\times 1 0 ^ { - 4 3 }$ (blue) and $\\lambda = 9 . 7 2 \\times 1 0 ^ { - 4 0 }$ (green). The black curve is the expected sensitivity curve of the fifth observing run(O5) of the aLIGO-Virgo detector network. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Therefore, gravitational waves are sourced mainly by the inflaton fluctuations,even if a parametric resonance for the field $\\chi$ occurs in this model. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Observational Implications. As found in [12,13], the peak amplitude of the energy spectrum of gravitational waves needs not depend on the energy scale of inflation, while the peak frequency scales inversely with the energy scale of inflation.In the single-field slow-roll inflationary scenario, if $\\lambda \\approx 3 \\times 1 0 ^ { - 1 0 }$ is fixed by the amplitude of the primordial power spectrum of curvature perturbations $A _ { s } = 2 . 2 \\times 1 0 ^ { - 9 }$ [3], the peak frequency of gravitational waves today is fixed to be $f \\sim 1 0 ^ { 9 } \\mathrm { H z }$ , many orders of magnitude beyond the frequencies that can be reached by current gravitational-wave detection experiments. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "If the model parameter $\\lambda$ is not fixed by the amplitude of the primordial power spectrum of curvature perturbations,the sensitivity of advanced LIGO(aLIGO）is expected to be significantly improved,which allows us to possibly observe gravitational waves produced during oscillations of inflaton after inflation.For example,in the hybrid inflationary scenario [21],since $\\phi$ is not necessarily the inflaton itself, $\\lambda$ becomes essentially a free parameter.In this case we have plotted in Fig.4 the present-day energy spectra of gravitational waves produced during oscillon formation in the linear potential model(1） with $\\lambda = 7 . 5 \\times 1 0 ^ { - 4 3 }$ (blue)and $\\lambda = 9 . 7 2 \\times 1 0 ^ { - 4 0 }$ (green), the peaks of which lie above the expected sensitivity curve of the fifth observing run(O5) of the aLIGO-Virgo detector network [22].From Fig.4 we can see that there are two peaks in the energy spectrum of gravitational waves, which differ from other spectra of gravitational waves produced during preheating.A detection of the second peak may require corroboration from other gravitational wave detectors such as the Big Bang Observatory (BBO). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To summarize,we have studied the production of grav itational waves during oscillon formation after inflation with cuspy potentials. At the end of inflation，oscillon formation can be triggered by the particular oscillations of the inflaton around the minimum of its potential, which sources a characteristic double-peak spectrum of gravitational waves. The discovery of such a background would open a new observational window into inflationary physics. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This work is supported in part by the National Natural Science Foundation of China Grants No.11690021, No.11690022，No.11575272，No.11335012，No.11375247 and No.11435006, in part by the Strategic Priority Research Program of the Chinese Academy of Sciences Grant No. XDB23030100 and by Key Research Program of Frontier Sciences,CAS.GS is supported in part by the DOE grant DE-FG-02-95ER40896and the Kellett Award of the University of Wisconsin. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（20 $^ { \\dagger }$ Electronic address: guozk@itp.ac.cn Electronic address: cairg@itp.ac.cn $\\ S$ Electronic addres: shiu@physics.wisc.edu   \n[1] R. G. Cai, Z. Cao, Z. K. Guo, S. J. Wang and T. Yang, arXiv:1703.00187 [gr-qc].   \n[2] P.A. R. Ade et al.\\* [BICEP2 and Keck Array Collaborations]，Phys.Rev.Lett．116，031302(2016) [arXiv:1510.09217 [astro-ph.CO]].   \n[3] P.A.R. Ade et al. [Planck Collaboration],Astron.Astrophys.594,A20 (2016) [arXiv:1502.02114 [astro-ph.CO]].   \n[4] L.McAllister,E. Silverstein and A.Westphal, Phys.Rev. D 82,046003 (2010) [arXiv:0808.0706 [hep-th].   \n[5] E. Silverstein and A. Westphal,Phys.Rev.D 78,106003 (2008）[arXiv:0803.3085 [hep-th]].   \n[6] F.Marchesano,G. Shiu and A.M. Uranga, JHEP 1409, 184(2014) [arXiv:1404.3040 [hep-th]].   \n[7]L.McAllister,E. Silverstein,A.Westphal and T.Wrase, JHEP 1409,123 (2014) [arXiv:1405.3652 [hep-th].   \n[8] A.Landete,F. Marchesano,G. Shiu and G. Zoccarato, JHEP1706,071（2017） [arXiv:1703.09729 [hep-th]].   \n[9] L.Kofman,A.D.Linde and A.A. Starobinsky, Phys. Rev.Lett.73,3195 (1994) [hep-th/9405187].   \n[10] S.Y.Khlebnikov and I.I. Tkachev, Phys.Rev.D 56, 653（1997） [hep-ph/9701423].   \n[11]R.Easther and E.A.Lim，JCAP 0604,010 (2006) [astro-ph/0601617].   \n[12] R.Easther,J.T.Giblin,Jr.and E.A. Lim,Phys.Rev. Lett.99,221301 (2007) [astr0-ph/0612294].   \n[13]J.Garcia-Bellido and D.G.Figueroa,Phys.Rev.Lett. 98,061302 (2007） [astro-ph/0701014].   \n[14] H.Bazrafshan Moghaddam and R. Brandenberger, Mod.Phys.Lett．A 31，no.39，1650217(2016) [arXiv:1502.06135 [hep-th].   \n[15] S.Y.Zhou,E.J. Copeland，R. Easther，H.Finkel, Z.G.Mou and P. M. Saffin,JHEP 1310,026 (2013) [arXiv:1304.6094 [astro-ph.CO].   \n[16] S.Antusch,F.Cefala and S.Orani, Phys.Rev.Lett.118, no.1,011303(2017) [arXiv:1607.01314 [astro-ph.CO].   \n[17] G.N. Felder and I. Tkachev, Comput.Phys.Commun. 178,929 (2008) [hep-ph/0011159].   \n[18] R.Easther,J. T.Giblin and E. A.Lim,Phys.Rev.D 77,103519 (2008)[arXiv:0712.2991 [astro-ph].   \n[19] J.Garcia-Bellido,D.G.Figueroa and A. Sastre, Phys. Rev.D_77, 043517 (2008) [arXiv:0707.0839 [hep-ph]l.   \n[20] J.F. Dufaux,A. Bergman，G.N. Felder,L. Kofman and J.P.Uzan,Phys.Rev.D 76,123517 (2007) [arXiv:0707.0875 [astro-ph].   \n[21] A.D.Linde,Phys:Rev.D 49,748 (1994) [astro-ph/9307002].   \n[22] B. P. Abbott et al.[LIGO Scientific and Virgo Collaborations]，Phys.Rev.Lett.116,no.6,061102 (2016) [arXiv:1602.03837 [gr-qc].   \n[23] D.G. Figueroa and F. Torrenti,arXiv:1707.04533 [astroph.CO]. ",
+        "page_idx": 4
+    }
+]

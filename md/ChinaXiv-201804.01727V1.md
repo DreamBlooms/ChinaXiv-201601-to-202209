@@ -1,0 +1,183 @@
+# DOI: 10.5846/stxb201704250746
+
+高升,曹广喜,洪滔,赵林,徐敏.海岛城市化过程中的生态安全动态评价与驱动力分析——以平潭岛为例.生态学报,2018,38（7):2503-2511.GaoS,CaoGXooatoolcalidctosiocsofbiofestudy of Pingtan Island.Acta Ecologica Sinica,2018,38(7) :2503-2511.
+
+# 海岛城市化过程中的生态安全动态评价与驱动力分析以平潭岛为例
+
+高升}²,曹广喜²，洪 滔，赵 林,徐敏1，\*
+
+1南京师范大学，地理科学学院，南京210023  
+2南京信息工程大学，财务处，南京210044  
+3 福建农林大学，林学院，福州350002
+
+摘要;随着海岛城市化进程的不断加速,海岛的开发建设与生态安全的矛盾日益突出,客观评价平潭岛开发建设中生态状况的动态变化及驱动力分析,对促进平潭岛社会经济与生态环境的协调发展具有重大意义。选取平潭岛 2001年作为生态安全状况评价对比基准年份，另选取2005—2015年的自然与社会经济指标数据构建了平潭岛生态安全评价DPSIR评价指标体系。采用综合指数法发现驱动力因子、影响因子在评价年份中动态变化较为平稳;压力因子、状态因子动态变化趋势较为相似,响应因子在 2009 年设立综合试验区之前动态变化较为平稳,但是 2009—2012年波动最为明显。响应因子、压力因子、状态因子对生态安全指数产生重大影响,其中响应因子是关键因子,对生态安全指数有决定性影响。平潭岛的生态安全状态总体呈上升趋势，2001年、2005—2009 年生态安全状况总体上较为平稳,而设立综合实验区以来的 2009—2011年期间生态安全指数上升幅度最为明显,尤其是从2011年开始,生态安全指数达到0.7612,生态安全状况由2010年的临界进人了良好,后续 2012—2015 年呈现略微下降的平稳状态。进行相关因子分析发现状态指数、驱动力指数\响应指数与安全总指数的相关系数较高并且响应指数大于压力指数相关系数;通过主成分分析与通径分析发现2011年与 2015年的主成分综合得分最高，分别为1.5277与1.1974,响应因子对平潭岛生态安全状况起到决定作用,其中交通运输投资比率、卫生社会保障投资比率、公共设施投资比率对平潭岛生态安全状况产生直接与间接的影响较大。研究可以丰富海岛环境评估的实证案例与相关理论体系,同时为国内海岛城市化进程的生态安全评估提供借鉴。 5
+
+关键词：综合指数；生态安全；驱动力分析；平潭岛
+
+# Dynamic evaluation of ecological security and its driving factors in the process of urbanization of islands : a case study of Pingtan Island
+
+GAO Sheng1,²,CAO Guangxi²,HONG Tao³,ZHAO Lin1 ,XU Min', \* 1School ofGeographIcal Science,Nanjing Normal University,Nanjing21oo23,China 2FinanceOffce,Nanjing Universityof Information Scienceand Technology,Nanjing21oo44,China 3College of Forestry,Fujian Agriculture and Forestry University,Fuzhou 35ooO2,China
+
+Abstract:With the aceleration of theurbanization process of islands，the contradiction between the developmentand constructionof islandsandtheecologicalsafetyhasbecomeincreasinglyprominent.Itisof greatsignificance topromotethe cordinateddevelopmentof thesocial，economic，and ecological environmentof Pingtan Islandbyobjectivelyevaluating the dynamicchangesandthedriving forces of theecological conditions inthedevelopmentand construction of Pingtan Island.
+
+Weselected2Ool as theecological security status evaluation benchmark year.Inaddition，natural and socio-economic indexes from 2O05 to 2015 were selected to constructthe Driving forces—Pressure—State—Impact—Responses（SPSIR) evaluation indexsystem forecological securityassessmentofPingtan Island.Usingthecomprehensive index method,it was observed thatthedriving factorsand impactfactors wererelativelystable intheevaluation years.Thedynamic trends of the pressure and state factors weresimilar.The dynamic changes in theresponse factors were relatively stable before the establishmentof thecomprehensive test area in 2009,but the fluctuationwas most obvious from 2009 to 2012.Response factors，pressre factors，and state factors have a significant impacton theecological securityindex.Response factors, taken together，wasthekeyfactor impacting ecological securityindex.Theecological securitystatus of Pingtan Island ison therise，buttheecological security situation was relatively stable in20Oland 2O05 to 2O09.Sincetheestablishment of the comprehensiveexperimentationarea,theecologicalsecurityindex hasrisenthemaximum，especialyduringtheperiod from 2009 to 2011.From 2011，the ecological security index reached 0.7612，which was a good threshold compared to the ecologicalsecuritysituationof 2010and then showedaslight declineatasmoth state from 2012 to2015.Corelation coeficients betweenthestate index，driving force index，response index，and safety index were higher，and theresponse index was greater than the corelation coeffcientof the pressure index.Through principal component analysisand path analysis,it was found that the principal component scores in2O11 and 2015 were the highest，with1.5277and1.1974, respectively.Theresponsefactorsplaya crucial rolein the ecological securityof Pingtan Island.Among these, Transportation investmentratio,Healthand social securityinvestmentratio,Public facility investmentratiohavedirectand indirect mpactsontheecological securityof Pingtan Island.These results support the empirical caseand relevance of the theoretical systemof islandenvironmental assessment，and provideareferencefor theecologicalsecurityasessmentof the domestic island urbanization process.
+
+Key Words:comprehensive index；ecological security；driving force analysis；Pingtan Island
+
+生态安全评价是基于生态安全影响因子与社会经济的持续发展之间的相互关系,用一系列安全评价指标对生态安全的程度予以度量的一种方法,是国内外学者研究的热点[1],但是对于海岛快速城市化背景下的生态安全动态变化研究相对较少。如何准确获取岛屿的生态安全状态,及时的采取有效措施维护良好生态状况,实现海岛的快速城市化进程与生态环境协调持续发展成为当前海岛生态安全研究的重要方面。
+
+海岛所处的生态环境较陆地环境更为复杂，因此对开发建设的海岛进行生态安全评价不能直接借鉴陆地生态安全评价指标体系,需要综合考虑海岸带及海洋影响指标因子并结合人工干预指标因子。国外学者对海岛的生态环境研究主要基于构建的海岸带生态安全评价指标体系[2]、海样工程或生态修复工程的生态安全评价指标体系[3],海岸带生态脆弱性及生态风险评价指标体系[4]、海岸带区域生态系统服务功能指标体系[5]、生态系统健康评价指标体系[6]、海岸带区域生态承载力评价指标体系[7]等。因此,如何客观准确的构建起海岛生态安全评价指标体系是重要前提,如Cao 等建立了一个基于压力-状态-响应评价指标体系（PSR)模型,通过综合指数法进行生态安全的时空分析[5]。国内学者结合陆地城市生态安全评价指标体系,分别运用多种评价方法从以下几个方面对海岛的生态环境进行了研究,如海岛灾害生态风险评估指标体系[8]、海岛近岸海域资源环境承载能力评价指标体系[9]、海岛土地利用类型重金属的潜在生态风险评价[10]、海岛生态系统服务功能价值评价与分析[11]、海岛旅游生态安全指标体系[12]、海岸带陆地土地利用变化景观格局分析与优化[13]、海岛城市环境质量评价指标体系[14]、结合景观格局指数与生态风险指数分析景观生态风险及其演变[15]等。但是,大部分对海洋生态环境状况的探讨仅仅停留在时空动态评估,并没有进行相应的驱动力分析,也没有深入分析关键影响因子,进而也就无法有针对性的提出应对措施与管理方法。
+
+生态安全是平潭岛可持续发展的必要条件,随着平潭岛大规模的投资开发建设以及城市化扩张,探讨海岛生态安全评价指标体系，有效的开展平潭岛生态安全评价研究，分析平潭岛生态环境与社会经济持续发展的相互影响与制约,对调整海岛环境保护与管理机制,保障生态环境建设,提高平潭岛的生态水平,促进海岛自然、经济、社会的协调可持续发展具有重要意义。
+
+# 1研究区域概况与数据来源
+
+# 1.1 研究区域
+
+平潭岛为平潭县主岛,位于 $2 5 ^ { \circ } 1 6 ^ { \prime } \mathrm { - } 2 5 ^ { \circ } 4 4 ^ { \prime } \mathrm { N } , 1 1 9 ^ { \circ } 3 2 ^ { \prime } \mathrm { - } 1 2 0 ^ { \circ } 1 0 ^ { \prime } \mathrm { E }$ （图1)，南北长 $2 9 \mathrm { k m }$ ,东西宽19km,全岛海岸线长达 $4 0 8 \mathrm { k m }$ ,面积 $2 6 7 . 1 3 \mathrm { k m } ^ { 2 }$ ,北与福州长乐国际机场仅距 $6 0 \mathrm { k m }$ ,东面与台湾省新竹港相距仅$1 2 5 . 9 3 6 \mathrm { k m } ^ { 2 }$ ,是大陆距台湾最近处,成为大陆对台经贸和人文交往的重要窗口。地处南亚热带半湿润海洋性季节气候区域,年平均气温19.0— $1 9 . 9 \%$ ,年平均风速 $6 . 5 { - } 8 . 5 \mathrm { m / s }$ ,年降水量900- $1 2 0 0 \mathrm { m m } ^ { [ 1 6 ] }$ ,多年平均水资源量为 $1 . 7 2 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ ,其中平均地表水为 $1 . 1 2 3 8 \times 1 0 ^ { 9 } \mathrm { m } ^ { 3 }$ 。 C
+
+当前平潭岛综合实验区正在快速开发建设，为了实现建造生态宜居海岛城市的目标，在快速城镇化背景下,基于合理客观的评价方法以及生态安全阈值,准确反映平潭岛的生态安全状况,揭示平潭岛生态安全动态特征并进行驱动力分析,找到影响平潭岛生态安全状况的主要因子,是对各种风险下维持生态系统健康和可持续性的识别与分析，是建立生态安全预警系统及进行环境管理的基础。
+
+# 1.2 数据来源
+
+指标数据主要来源于相应评价年份的平潭县土地志、平潭岛建设规划、平潭统计年鉴、福州市统计年鉴、福建省统计年鉴、福建社会与科技统计年鉴。由于2011年平潭岛尚未进行较大规模的开发建设,将其作为生态安全状况对比基准年份。2005—2015年平潭岛的城市化进程日益加速,尤其是 2009 年设立平潭综合实验区之后,开启了大规模的投资建设。因此,分别选取2001年、2005—2015年共12年的自然与社会经济指标数据进行生态安全量化评价与驱动力分析,选取的评价年份区间范围涵盖了平潭岛未进入大规模开发时期至实验区建设初期,以此探求平潭岛快速城市化进程中生态环境的动态变化状况。
+
+# 2研究方法
+
+2.1构建生态安全评价指标体系框架
+
+结合研究区域自然-经济-社会的实际情况,参考国内外关于生态安全评价指标体系构建的研究成果[17-18],着重参照适应海岸带开发区域的生态系统评价指标体系,如适应近岸和湿地生态系统的生态脆弱性评价指标体系、并汇总近年来海岛生态环境研究中应用频率较高的指标。依据德尔菲法反复进行专家咨询论证选取和增加部分指标,剔除每年变化微小的指标,最终选择了能够反映平潭岛生态安全主要特征的 34个因子作为具体评价指标。
+
+将筛选出的评价指标依据DPSIR概念模型框架构建3级平潭岛生态安全综合评价指标体系，自上而下分别为目标层、准则层、指标层。其中将生态安全综合指数作为目标层,并将准则层分为系统驱动力（Drivingforces）系统压力（Pressure）、系统状态（State）、系统影响（Impact）和系统响应（Responses）5个[19],每个指标层中的评价指标均包含社会经济指标与自然环境指标。
+
+# 2.2评价指标标准化处理及权重的确定
+
+筛选出34个指标作为平潭岛生态安全评价的影响因子,构建构成如下评价指标体系,采用极差标准化转换法对指标矩阵进行无量纲化和数据标准化处理,依靠熵权法计算出计算出与平潭岛生态安全状态相关的34个评价因子熵权权重（表1）。
+
+# 2.3生态安全综合指数计算
+
+综合指数法[20]可以将分散的信息通过模型集成,形成关于对象综合特征的信息,在确定各单项指标在各自对应层次的权重及其对系统总层次的总排序权重的基础上,通过线性加权法分别计算出驱动力、压力、状态、影响和响应5个因子评价指数,最后求综合评价指数,生态安全综合评价指数模型如下：
+
+$$
+D = \sum _ { i = 1 } ^ { n } W _ { { D i } } X _ { { D i } } \qquad P = \sum _ { i = 1 } ^ { n } W _ { { P i } } X _ { { P i } } \qquad S = \sum _ { i = 1 } ^ { n } W _ { { S i } } X _ { { S i } }
+$$
+
+表1平潭岛生态安全评价指标体系与权重  
+  
+
+<html><body><table><tr><td colspan="5">Table1 Ecological SecurityAssessment Index Systemandweightof Pingtan Island</td></tr><tr><td>准则层Criterionlayer</td><td>指标层 Index layer</td><td>编号 Number</td><td>指标属性 Index attribute</td><td>熵权权重 Entropy weight</td></tr><tr><td>驱动力 Driving forces</td><td>年台风次数</td><td>X1</td><td>一</td><td>0.0107</td></tr><tr><td rowspan="8"></td><td>年旅游人数</td><td>X2</td><td>+</td><td>0.0311</td></tr><tr><td>城镇人口增长率</td><td>X3</td><td>+</td><td>0.0353</td></tr><tr><td>GDP 总量变化率</td><td>X4</td><td>+</td><td>0.0215</td></tr><tr><td>海水养殖受灾面积</td><td>X5</td><td>一</td><td>0.0127</td></tr><tr><td>农作物受灾面积</td><td>X6</td><td>1</td><td>0.0141</td></tr><tr><td>人均住房面积</td><td>X7</td><td>一</td><td>0.0346</td></tr><tr><td>农药使用量</td><td>X8</td><td></td><td>0.0169</td></tr><tr><td>水质综合污染指数</td><td>X9</td><td></td><td>0.0154</td></tr><tr><td rowspan="6">状态 State</td><td>大气污染指数</td><td>X10</td><td></td><td>0.0232</td></tr><tr><td>第一产业产值增长率</td><td>X11</td><td></td><td>0.0145</td></tr><tr><td>第二产业产值增长率</td><td>X12</td><td></td><td>0.0243</td></tr><tr><td>第三产业产值增长率</td><td>X13</td><td></td><td>0.0207</td></tr><tr><td>社会消费品零售总额</td><td>X14</td><td></td><td>0.0286</td></tr><tr><td>水产品总产量</td><td>X15</td><td></td><td>0.0217</td></tr><tr><td rowspan="6">影响 Impact</td><td>单位耕地粮食产量</td><td>X16</td><td></td><td>0.0315</td></tr><tr><td>城镇登记失业率</td><td>X17</td><td>一</td><td>0.0108</td></tr><tr><td>水体质量达标率</td><td>X18</td><td>+</td><td>0.0369</td></tr><tr><td>农林牧渔业不变价发展速度</td><td>X19</td><td>+</td><td>0.0212</td></tr><tr><td>土地开发面积</td><td>X20</td><td>+</td><td>0.0347</td></tr><tr><td>耕地年均损失率</td><td>X21</td><td>1</td><td>0.0443</td></tr><tr><td rowspan="8">响应 Responses</td><td>人均森林面积</td><td>X22</td><td>+</td><td>0.0213</td></tr><tr><td>森林覆盖率</td><td>X23</td><td>+</td><td></td></tr><tr><td>财政支出比率</td><td>X24</td><td>+</td><td>0.0435 0.0437</td></tr><tr><td>土地开发投资比率</td><td>X25</td><td>+</td><td>0.0314</td></tr><tr><td>固定资产投资比率</td><td>X26</td><td>+</td><td>0.0287</td></tr><tr><td>卫生社会保障投资比率</td><td>X27</td><td>+</td><td>0.0647</td></tr><tr><td>公共设施投资比率</td><td>X28</td><td>+</td><td>0.0489</td></tr><tr><td>交通运输投资比率</td><td>X29</td><td>+</td><td>0.0514</td></tr><tr><td rowspan="5"></td><td>教育投资比率</td><td>X30</td><td>+</td><td>0.0412</td></tr><tr><td>实际利用外资</td><td>X31</td><td>+</td><td>0.0478</td></tr><tr><td>生活垃圾无害化处理率</td><td>X32</td><td>+</td><td>0.0136</td></tr><tr><td>年造林面积</td><td>X33</td><td>+</td><td>0.0374</td></tr><tr><td>全岛绿化率</td><td>X34</td><td>+</td><td>0.0217</td></tr></table></body></html>
+
++,权益性指标;-,成本性指标
+
+$$
+{ \cal I } = \sum _ { i = 1 } ^ { n } W _ { I i } X _ { I i } \qquad R = \sum _ { i = 1 } ^ { n } W _ { R i } X _ { R i } \qquad { \mathrm { E S I } } _ { j } = \sum _ { i = 1 } ^ { n } W _ { i } X _ { i }
+$$
+
+式中， $\smash { D \sqrt {  { S } _ { \varepsilon } { I } _ { \lambda } R } }$ 分别表示驱动力、压力、状态、影响和响应5个因子指数; $\mathrm { E S I } _ { j }$ 为第 $j$ 年生态安全综合评价指数或生态安全度； $X _ { i }$ 为指标 $i$ 的标准化值; $\textstyle \mathbf { \textit { W } } _ { i }$ 为指标 $i$ 的权重。生态安全度的取值在0一1之间[2],计算的结果越接近于1,表示该地区的生态环境质量越好,生态越安全;结果越接近于0,表示该区域的生态安全水平越低,生态越不安全。
+
+# 2.4安全阈值的确定及生态安全等级划分
+
+生态安全评价的评价标准是生态安全指标的目标值,指标安全阀值的确定一方面可以参照已有的相关标准或直接依据现状值估算,另一方面可以运用生态模型对评价对象进行计算,本文参照国内外生态安全等级的分级方法[22],借鉴已有研究生态安全度等级[23],根据平潭岛的实际情况,将生态安全指数值与生态安全水平等级做出如下关联,划定生态安全水平的分级临界值,构建适合平潭岛的生态安全度等级,将生态系统安全综合指数划分为5级（表2）。据此进行生态评价,确定区域是否处于安全状态。
+
+表2生态安全指数等级划分标准  
+Table 2 Ecological security index grading standards   
+
+<html><body><table><tr><td>等级 Rating</td><td>生态安全指数 Ecological security index</td><td>评价 Evaluation</td></tr><tr><td>I</td><td>0.0—0.2</td><td>生态安全程度很低</td></tr><tr><td>Ⅱ</td><td>0.2—0.4</td><td>生态安全程度较低</td></tr><tr><td>Ⅲ</td><td>0.4—0.6</td><td>生态安全程度一般</td></tr><tr><td>V</td><td>0.6—0.8</td><td>生态安全程度较高</td></tr><tr><td>V</td><td>0.8—1.0</td><td>生态安全程度很高</td></tr></table></body></html>
+
+# 3结果分析
+
+# 3.1 生态安全动态变化
+
+通过对12个年份平潭岛生态安全状况指标数据的计算,得到 DPSIR 模型中5个准则层的生态安全因子值的动态变化状况（图1)。可以发现,驱动力因子 $D$ 在12 个年份中较为平稳,从指数最小年份 2005 年的0.0388到最大年份2014年的0.1153,总体虽然呈上升趋势但变化微小；压力 $P$ 因子在 2001年、2005—2010 年较为平稳,2010—2012年上升变化最为明显,其中2005年最小,只有0.0204,2012年最大达到0.1375;状态因子 $s$ 的变化趋势同压力因子非常相似,其中2005 年最小,只有0.0655,同样在2010—2012年期间明显升高并在2012年达到最大值0.2275;影响因子 $\boldsymbol { \mathsf { I } }$ 总体趋势较为平稳,2010 年数值最小,2005 年数值最大,分别为0.0201、0.0722；驱动力因子 $R$ 总体呈上升趋势,2001年最小，只有0.0215,其中2005—2008 年变化较为平稳，而设立综合试验区进入快速开发建设之后的2009—2011年上升剧烈,在 2011年到达最高值0.0471,后续2012—2015年虽又呈现略微下降的平稳状态,但指数依然高于 2011年之前的所有年份;响应因子 $R$ 在2009年之前动态变化较为平稳,而 2009—2012年波动变化最为明显,从2009年的0.0571陡升到2011年的0.4128之后又降到2012年的0.1635,后续年份又趋于稳定上升，变化不大。
+
+基于计算的准则层指标值进而求得12个评价年份的平潭岛生态安全总指数动态变化状况（图2）。可以发现,平潭岛生态安全指数总体呈上升趋势,2001年、2005—2009 年生态安全状况总体上较为平稳,其中2005 年生态安全指数最小,只有0.2198;但 2009—2011年期间剧烈上升,2011—2013 年稍微下降,而 2013—2015 年又呈缓慢上升趋势,2010 年生态安全指数在0.4—0.6之间，
+
+生态安全程度一般,处于临界状态,2011年的生态安全指数最高,达到0.7612,2011—2015 年的生态安全指数均在0.6—0.8之间,生态安全程度较高,处于良好状态。总之,平潭岛的生态安全状态逐渐好转,从预警到临界再到良好,这表明海岛的开发建设模式已较为成熟,海岛发展速度不断提高,正在朝着建设生态海岛城市的目标发展。
+
+驱动力、压力、状态、影响和响应5个准则层因子指数在2009—2012年时间段都存在大幅度变化现象,最终影响了生态安全指数的动态变化趋势。通过对比5个准则层因子与生态安全指数的动态变化趋势,可以发现压力因子、状态因子、响应因子的动态趋势同生态安全指数极为相似,其中响应因子是绝对关键因子,对生态安全指数有决定性影响。
+
+![](images/4f4678ce7bd1260e77522a5f1ac732f1dee7f5b53c5f94d901f29b26268af3e9.jpg)  
+图1生态安全因子值动态变化
+
+![](images/5b12c012a39f9825f39345e8c686f241acc2959d131aedac01858988f5a16f22.jpg)  
+Fig.1Ecological safety factor value of dynamic change   
+图2生态安全指数动态变化图  
+Fig.2Dynamic changes of ecological security index
+
+# 3.2 驱动力及其变化
+
+通过相关因子分析法、主成分分析法、通径分析法,分别独立的分析了可能影响平潭岛生态安全动态变化的因子,探讨平潭岛生态安全态势变化的驱动力。
+
+# 3.2.1生态安全度变化的相关因子分析
+
+将 $\smash { D \sqrt {  { S } _ { \varepsilon } { I } _ { \lambda } R } }$ 与生态安全指数ESI这6个指数作为因子,运用因子分析法[24]计算它们间的相互关系,发现影响平潭岛生态安全总指数主要因素是状态指数，相关系数达 $0 . 9 2 3 \left( P { < } 0 . 0 1 \right)$ ,这表明其对安全总指数的贡献较大(表3);其次是驱动力指数与响应指数，影响度分别为 $0 . 8 9 7 . 0 . 8 7 5 ( P < 0 . 0 1 )$ 。响应指数的贡献大于压力指数的贡献,这正是平潭岛虽然经历这么高速的开发建设而生态环境状态却逐渐提升的关键。
+
+表3生态安全指数因子分析关联矩阵  
+Table3 Correlation matrix of eco-security indices'factor analysis   
+
+<html><body><table><tr><td>指数</td><td>D</td><td>力指数 状态指数</td><td>影数</td><td>数</td><td>生数</td></tr><tr><td>驱动力指数 Driving force index</td><td>0.9070</td><td>0.9270</td><td>-0.2640</td><td>0.6680</td><td>0.8970</td></tr><tr><td>压力指数Pressure index</td><td>1.0000</td><td>0.9720</td><td>-0.0480</td><td>0.5440</td><td>0.8730</td></tr><tr><td>状态指数 State index</td><td></td><td>1.0000</td><td>0.0350</td><td>0.6260</td><td>0.9230</td></tr><tr><td>影响指数 Influence index</td><td></td><td></td><td>1.0000</td><td>0.0240</td><td>0.0480</td></tr><tr><td>响应指数 Response index</td><td></td><td></td><td></td><td>1.0000</td><td>0.8750</td></tr><tr><td>生态安全指数 Ecological security indexs</td><td></td><td></td><td></td><td></td><td>1.0000</td></tr></table></body></html>
+
+# 3.2.2生态安全变化的主成分分析
+
+在生态安全评价指标体系中,某一指标值的变异程度越大,表明其提供的信息量越多[25],在生态安全评价中所起的作用越大,其权重值也应越大。选取熵权权重大于或接近0.04的8个指标作为主要分析指标进行主成分分析，所选取的8个变量中有KMO 为 $6 9 . 5 \%$ 以上的系数绝对值大于0.3,故认为可以进行主成分分析。将标准化矩阵导人 SPSS 19.0软件中进行主成分分析,得出前两个累计方差贡献率达到 $9 2 . 1 8 8 \%$ ,初始方差贡献率分别为 $7 8 . 9 9 4 \% . 1 3 . 1 9 4 \%$ （表4）,说明这两个变量基本涵盖了变量信息，可以作为衡量平潭岛生态安全状况的主成分。从主成分载荷矩阵发现,交通运输投资比率、森林覆盖率、卫生社会保障投资比率、教育投资比率、实际利用外资额与第一个主成分相关程度较高;耕地年均损失率在第二主成分上的载荷为0.9930,即相关程度较高。
+
+将得到的特征向量与标准化后数据相乘得到各主成分得分,以主成分对应的特征值占所提取主成分总特征值之和的比例作为权重,最终得到个年份综合主成分大小（图3)。发现 2011年的主成分1得分最高,达到0.9123,2015 年次之,达到0.8231,而2001年与2005 年的主成分1得分最小,分别为-2.2117与-1.7325;2001年的主成分2得分最高,达到0.8721,2011年次之,达到0.6154,而2010年与2009年的主成分2得分最小，分别为-1.2496与-0.4218。将主成分综合得分大小排序可以发现2011年的主成分综合得分最高,达到1.5277;2015 年的主成分综合得分次之,达到1.1974。表明在平潭岛在快速城市化开发建设过程中,两个主成分在2011 年与2015 年对平潭岛生态安全状态的影响作用最明显。
+
+表4主成分的特征值、贡献率和累计贡献率  
+Table 4Eigen values、contribution rates and accumulate contribution rates of the principle component:   
+
+<html><body><table><tr><td>主r成分评因entevalationfator</td><td>Num号er</td><td>准则层 Criterion layer</td><td>熵权权重 Entropy weight</td><td>方差 贡献率/% contribution</td><td>累积 贡献率/% contribution</td><td></td><td>主成分载荷 Pricipal component</td></tr><tr><td>卫生社会保障投资比率 Health and social security investment ratio</td><td>1</td><td>响应</td><td>0.0647</td><td>78.9940</td><td>78.9940</td><td>1 0.9690</td><td>2 0.0090</td></tr><tr><td>交通运输投资比率 Transportation investment ratio</td><td>2</td><td>响应</td><td>0.0514</td><td>13.1940</td><td>92.1880</td><td>0.9910</td><td>-0.0240</td></tr><tr><td>公共设施投资比率 Public facility investment ratio</td><td>3</td><td>响应</td><td>0.0489</td><td>5.3840</td><td>97.5720</td><td>0.9330</td><td>0.0700</td></tr><tr><td>实际利用外资额 Actual amount of foreign capital utilized</td><td>4</td><td>响应</td><td>0.0478</td><td>2.0920</td><td>99.6640</td><td>0.9510</td><td>0.2060</td></tr><tr><td>耕地年均损失率 Annual average loss rate of cultivated land</td><td>5</td><td>影响</td><td>0.0443</td><td>0.2280</td><td>99.8930</td><td>-0.0910</td><td>0.9930</td></tr><tr><td>财政支出比率 Fiscal expenditure ratio</td><td>6</td><td>响应</td><td>0.0437</td><td>0.0710</td><td>99.9640</td><td>0.8450</td><td>-0.1370</td></tr><tr><td>森林覆盖率</td><td>7</td><td>影响</td><td>0.0435</td><td>0.0250</td><td>99.9880</td><td></td><td></td></tr><tr><td>Forest coverage ratio</td><td></td><td></td><td></td><td></td><td></td><td>0.9860</td><td>-0.0010</td></tr><tr><td>教育投资比率 Education investment ratio</td><td>8</td><td>响应</td><td>0.0412</td><td>0.0120</td><td>100.0000</td><td>0.9640</td><td>-0.0410</td></tr></table></body></html>
+
+# 3.2.3 生态安全变化的通径分析
+
+由于在主成分分析中的8个主要影响因子均出现在2个主成分中，所以用这8个指标表征平潭岛生态安全态势变化,按照通径分析原理[26],对因变量Y进行正态性检验后,Shapiro-Wilk 统计量0.825,显着水平 Sig. $\mathbf { \tau } = \mathbf { \tau }$ $0 . 0 7 1 2 { > } 0 . 0 5$ ，所以因变量 $\stackrel { \triangledown } { \boldsymbol { v } }$ 服从正态分布，即 $Y$ 是可以进行回归分析的正态变量。进行方差分析得到 $F =$ 77.315,SigF<0.001,模型通过 $F$ 检验，可以认为在0.005的显着性水平下作通径分析有意义，结果见表5。
+
+通过计算发现响应指标因子是影响平潭岛生态安全态势变化的关键，交通运输投资比率、卫生社会保障投资比率、公共设施投资比率对平潭岛生态安全状况的直接影响较大,直接通径系统分别达到0.0921、0.0862、0.0762；同时卫生社会保障投资比率、交通运输投资比率、公共设施投资比率对平潭岛生态安全状况的间接影响较大,间接通径系数分别为0.8115、0.8032、0.7832。而耕地年均损失率与森林覆盖率两个影响因子对平潭岛生态安全状况的直接影响较大，直接通径系数为-0.7022、-0.5478。
+
+![](images/c78989fc1ea6269050630575babe8ce2ac3f5fc1deeacccd4aa75c5f7337f2fc.jpg)  
+图3各个年份主成分得分  
+Fig.3The principal component score of each year
+
+# 4结论与讨论
+
+首先,平潭岛生态安全评价指标体系准则层中的驱动力因子、影响因子在评价年份中动态变化较为平稳；压力因子、状态因子动态变化趋势较为相似,2001、2005—2010 年期间较为平稳,在2010—2012 年期间明显升高并同时在2012年达到最大值,分别为0.1375与0.2275;响应因子在2009年设立综合试验区之前动态变化较为平稳,但是 2009—2012年波动最为明显,从 2009 年的0.0571陡升到2011年的0.4128。
+
+表5生态安全变化的通径分析  
+Table 5Path analysis of ecological safety change   
+
+<html><body><table><tr><td>影响因子 Influence factor</td><td>编号 Number</td><td>与生态安全状况的相关系数</td></tr><tr><td>卫生社会保障投资比率 Health and social security investment ratio</td><td>1</td><td>0.8977</td></tr><tr><td>交通运输投资比率 Transportation investment ratio</td><td>2</td><td>0.8953</td></tr><tr><td>公共设施投资比率 Public facility investment ratio</td><td>3</td><td>0.8594 0.0762</td></tr><tr><td>实际利用外资额 Actual amount of foreign capital utilized</td><td>4</td><td>0.0326</td></tr><tr><td>耕地年均损失率 Annual average loss rate of cultivated land</td><td>5</td><td>-0.7022</td></tr><tr><td>财政支出比率 Fiscal expenditure ratio</td><td>6</td><td>0.0652 0.3113</td></tr><tr><td>森林覆盖率 Forest coverage ratio</td><td></td><td>-0.5478 0.1129</td></tr><tr><td>教育投资比率 Education investment ratio</td><td>0.3599</td><td>0.0284 0.3315</td></tr></table></body></html>
+
+其次,平潭岛生态安全指数总体呈上升趋势,从预警到临界再到良好。响应因子、压力因子、状态因子的动态趋势同生态安全指数极为相似,对生态安全指数产出重大影响,其中响应因子是绝对关键因子,对生态安全指数有决定性影响。2001 年 $2 0 0 5 - 2 0 0 9$ 年生态安全状况总体上较为平稳,而设立综合实验区以来的2009—2011年期间生态安全指数上升幅度最为明显,这是因为当时国家批准建立平潭岛综合实验区,平潭岛开始了大规模的开发建设，随着海岛的开发建设，压力因子的趋势也有所提高，大量的资金不断投入到海岛建设的各个领域起到关键作用,致使响应因子指标大幅度升高,抵消压力因子带来的影响,于此同时状态因子也逐渐走高,说明平潭岛的生态安全状况不断优化;影响因子趋势平稳表明,虽然平潭岛进入快速发展建设的高峰时期,但是海岛的开发建设并没有对其生态造成太大影响;最后也是对海岛生态起到关键影响的响应因子，从其趋势上，可以发现海岛开发之前较为平稳,但是进入高速开发之后,响应的趋势大幅提高,这表明国家在加快海岛开发建设的同时,也促进了平潭岛社会经济的高速发展,生态环境领域的巨大投人,这也是驱动力不断降低,生态状态较稳定且不断提升的主要原因。2010年生态安全指数在0.4—0.6之间,生态安全程度一般,处于临界状态。尤其是从2011年开始,生态安全指数达到0.7612,平潭岛的生态安全状况由临界进入了良好，后续2012—2015年虽又呈现略微下降的平稳状态。
+
+再次,相关因子分析再次发现,响应指数的贡献大于压力指数的贡献,这正是平潭岛虽然经历这么高速的开发建设而生态环境状态却逐渐提升的关键。主成分分析发现2011年与2015年的主成分1得分最高，分别为0.9123与0.8231,2001年与2011年的主成分2得分最高,分别为0.8721,与0.6154；2001年与2005 年的主成分1得分最小,分别为-2.2117与-1.7325;2010年与 2009年的主成分2得分最小,分别为-1.2496与-0.4218。其中2011年与2015年的主成分综合得分最高,分别为1.5277与1.1974,表明在平潭岛快速城市化过程中,两个主成分在2011年与2015年对平潭岛生态安全状态的影响作用最明显。通径分析发现响应指标因子是影响平潭岛生态安全态势变化的关键,交通运输投资比率、卫生社会保障投资比率、公共设施投资比率对平潭岛生态安全状况的直接影响较大,分别为0.0921、0.0862、0.0762；同时卫生社会保障投资比率、交通运输投资比率、公共设施投资比率对平潭岛生态安全状况的间接影响较大,分别为0.8115、0.8032、0.7832。随着海岛开发建设,带动了社会经济的快速发展,政府部门针对不断增长的压力,大力作出响应投入,响应大于压力是平潭岛生态状况不断优化的关键因素。
+
+最后，为了保障海岛型城市的生态安全，今后必须建立一套完整的预警及应对系统，实时准确的掌握海岛快速城市化过程中的生态安全状况,及时评估分析生态安全状况动态变化的主要驱动因子,避免海岛快速城镇化建设带来的一系列生态环境问题,为平潭岛中后期进入快速开发发展阶段的生态布局提供重要参考。
+
+# 参考文献（References）：
+
+[1]WeiC，uJsretleeeiaoA case in Nantong. Ocean & Coastal Management，2014,93：51-59.  
+[2]HuangH,ChenB,MaZY,LiuZH,ZhengSL,YuWW,LiaoJJ,Hu WJ,DuJG,ChenGC.Asesingtheecologicalsecurityf theestuaryinviewoftheecological services-Acasestudyofthe Xiamen Estuary.Ocean&Coastal Management，2O17,137:12-23.  
+3]JosKeie36(4) : 435-440.  
+[4]KaniewDVa,aCt,e,urelVeblieeaschanges along the coast of Israel.PLoS One，2014,9（7）：e102090.  
+[5]CaoCX，YangB,XuM,LXWinghRP,ZaoXJ,ChenWEvaluatioadaalssofpost-sesmicrestoraioofologicalitynWenchuan using remote sensing and GIS.Geomatics，Natural Hazards and Risk，2016,7(6）：1919-1936.  
+[6]RomboutIeaugrandG,ArtigasLF,DvinJC,evaertF，obervileE，oppD,LefebvreS,czakC,SiontN,Tavesolet,VillnuevaMC，KirbyRR.Evaluatingmarineosstehalth：casestudiesofindicatorsusingdiretbsevatiosandmodelingetods.Ecological Indicators，2013，24：353-365.  
+7]Iiitfsin North Cyprus.Landscape Ecology，2017,32(4)：897-913.  
+[8］巫丽芸，何东进，游巍斌，邓西鹏，谭勇，纪志荣.福建东山岛灾害生态风险的时空演化.生态学报,2016,36(16)：5027-5037.  
+[9] 张晓霞，陶平，程嘉熠，邵秘华，朱京海.海岛近岸海域资源环境承载能力评价及其应用.环境科学研究，2016,29(11)：1725-1734.  
+[10］张鑫，余树全，李清林，张超，李领寰，车继鲁。洞头列岛土地利用对土壤及沉积物重金属污染的影响及其生态风险评价.生态科学，2016,35(5):126-135.  
+[11] 艾训安，洪滔.厦门岛生态系统服务价值评价与分析.中国农学通报，2015，31（16)：194-200.  
+[12] 周彬，虞虎，钟林生，陈田，普陀山岛旅游生态安全发展趋势预测.生态学报，2016，36（23）：7792-7803.  
+[13] 索安宁，关道明，孙永光，林勇，张明慧.景观生态学在海岸带地区的研究进展.生态学报，2016，36(11)：3167-3175.  
+[14] 金星星，叶士琳，吴小影，王怡，程煜.海岛型城市人居环境质量评价——基于厦门市和平潭综合实验区的对比.生态学报，2016，36(12):3678-3686.  
+[15] 凡姚申，陈沈良，谷国传.海岛景观生态风险演变研究——以舟山朱家尖岛为例.海洋通报，2016，35（1)：1-10.  
+[16] 郑达贤，骆灿鹏，沙济琴，黄义雄，方祖光，谢皎如，徐鹏，谢萍萍.平潭地理信息系统研究.福州：福建教育出版社，1994.  
+[17] 曹牧，薛建辉.崇明东滩湿地生态系统服务功能与价值评估研究述评.南京林业大学学报：自然科学版，2016，40(5)：163-169.  
+[18] 薛雄志，吝涛，曹晓海.海岸带生态安全指标体系研究.厦门大学学报：自然科学版，2004，43(S1)：179-183.  
+[19] 张继权，伊坤朋，Tani H,王秀峰，佟志军，刘兴朋.基于DPSIR的吉林省白山市生态安全评价.应用生态学报，2011,22（1)：189-195.  
+[20] 米楠，杨美玲，樊新刚，米文宝，李同昇，王婷玉.主体功能区划中限制开发生态区的细分方法——以宁夏回族自治区为例.生态学报，2016，36(16):5058-5066.  
+[21] 郭亚军.综合评价理论与方法.北京：科学出版社，2002.  
+[22] 张婧．胶州湾海岸带生态安全研究[D].青岛：中国海洋大学，2009.  
+[23] 翁嫦华.近岸海域生态系统健康与生态安全评价及其在生态系统管理中的应用研究[D].厦门：厦门大学，2007.  
+[24] 辛督强，韩国秀.因子分析法在科技期刊综合评价中的应用.数理统计与管理，2014，33（1)：116-121.  
+[25] 潘云龙，林晗，陈灿，洪滔，吴承祯，何东进.福建岛屿林业科技论文文献计量分析.森林与环境学报，2016，36(3）：380-384.  
+[26］郭满才，王继军，彭珂珊，权松安.纸坊沟流域生态经济系统演变阶段及驱动力初探.水土保持研究，2005，12(4)：245-246，255-255.

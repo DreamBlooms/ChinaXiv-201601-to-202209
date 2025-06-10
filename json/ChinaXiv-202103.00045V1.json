@@ -1,0 +1,561 @@
+[
+    {
+        "type": "text",
+        "text": "巴丹吉林沙漠植被群落特征与土壤水分关系研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "秦洁²，司建华¹，贾冰²，赵春彦¹，李端²，罗欢²，任立新³  \n(1.中国科学院西北生态环境资源研究院内陆河流域生态水文重点实验室，甘肃 兰州730000;  \n2.中国科学院大学,北京100049；3.黄河水利委员会上游水文水资源局,甘肃 兰州 730000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：通过对巴丹吉林沙漠周边及腹地进行野外调查采样,归纳出该区植被的生活型和群落类型,分析其植被多样性、优势度及均匀度指数,进而探讨该地区植被群落特征对土壤水分的响应。结果表明：（1）本次调查共记录到20科52属56种植物,分属于乔木、小乔木、灌木、小灌木、半灌木、草质藤本、多年生草本、一年生草本8类生活型,群落多以灌木和多年生草本植物为主,且多为沙漠旱生或超旱生多年生植物;(2)巴丹吉林沙漠群落整体生物多样性指数偏低,沙漠腹地湖泊周围物种丰富度和多样性指数相对较高，边缘地区较低，且灌木层在群落中占优势且分布均匀,草本层植被种类多样;(3)巴丹吉林沙漠土壤含水量普遍较低,超过 $6 1 \\%$ 的区域土壤含水量不足 $5 \\%$ ·土壤含水量与Simpson优势度指数 $( C )$ 为极显著负相关,与Shannon-Winner多样性指数 $\\left( H ^ { \\prime } \\right)$ 、Simpson多样性指数$( D$ )、Alatato均匀度指数 $\\left( E _ { \\mathrm { a } } \\right)$ 均为极显著正相关,且Simpson优势度指数 $( C )$ 、Shannon-Winner多样性指数 $\\left( H ^ { \\prime } \\right)$ 、Simpson多样性指数 $( D )$ 对土壤水分的响应关系中均为立方函数拟合效果最好。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：巴丹吉林沙漠；物种多样性；群落特征；土壤含水量",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "生物多样性，是指一定范围内各种生物(动物、植物、微生物)与环境有规律地结合所构成稳定的生态综合体，主要包括物种多样性、基因多样性、生态系统多样性三个层次，能够反映一定范围内各种生命形成的丰富程度[1]。其中,物种多样性是生物多样性的关键和直观体现，是进行生物多样性研究的基础，是生态学研究中至关重要的内容[2-4],能够体现群落的结构类型、组织水平、发展阶段、稳定程度和生境差异[5]。目前,众多学者对森林、绿洲、沙漠、风沙区等多种生态系统的物种多样性进行了广泛、深入的研究，但是关于特定生态系统中影响物种多样性分布格局的因素存在较多争议，主要的影响因素包括植被类型、演替过程、地形因子、土壤因子、气候因子以及干扰因素等[6-]。其中，以植被群落物种多样性特征与土壤因子特别是土壤水分的相互关系研究较多，张立欣等[8认为，土壤含水量的差异会导致群落物种多样性的变化;张志南[9]、李轲[7]濮阳雪华[0]等发现,植被群落物种多样性指标与土壤含水量具有显著的正相关关系;而王萌等[则表示不同的物种多样性指标与土壤含水量的关系并不相同，土壤含水量对物种丰富度的影响极为显著,对均匀度的影响有限。关于植被群落特征与土壤水分关系的研究并无定论，并且两者关系亦会因生境差异而不同，还需进行深入研究来进一步明确植被群落特征与土壤水分的关系。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，全球气候变化导致荒漠化过程加剧，干旱荒漠地区生态系统不断遭到破坏，而沙生植物作为沙漠生态系统的重要组成部分，对气候变化响应极为敏感[12],其群落结构特征能够充分体现沙漠生态系统的稳定性。在沙漠生态系统中，水分是制约植物生长的关键因素，土壤水分是植物生长吸收利用的直接水源[13],故而在沙漠生态系统中进行植被群落特征与土壤水分的关系研究极具代表性。以往关于沙漠生态系统植被与土壤水分的研究多集中于人工固沙植被演替或沙漠化过程中土壤含水量的变化[14],对沙漠生态系统长期稳定的自然植被特征与土壤水分的相互作用关系研究较少。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "巴丹吉林沙漠位于内蒙古阿拉善右旗境内，是我国流沙面积仅次于塔克拉玛干沙漠的第二大沙漠[15],因其独特的沙山和湖泊共存地貌,受到了国内外学者的广泛关注[6]。目前，关于巴丹吉林沙漠的研究多集中于高大沙山的形成机理[17-20]、形态走向[21-24]、沉积物粒度[25-27]以及微形态特征[28]等，沙漠湖泊的形成机制及其演化规律[29-30]、湖泊水来源及补给机制[19.31-36]湖泊区暖岛空间分布及暖岛效应[37-38]、湖泊水化学特征[39-43]、湖底沉积物特征指示气候环境变化[44-45]等,沙漠地区地下水补给机制[46-50]、气候特征[51-54]以及能量平衡[55-56]等，关于植被方面的研究相对来说较少且多集中于外围边缘地区[4.57-58],对于沙漠腹地植被的物种多样性研究甚少。本文通过对巴丹吉林沙漠边缘及腹地地区进行野外考察观测，研究该区物种多样性特征及其分布格局，探讨其与土壤含水量之间的响应关系，进一步阐明该区生态系统的结构和功能，为沙漠植被的多样性保育、生态系统修护、沙漠化防治以及自然资源利用提供科学依据和理论支持。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况与研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "巴丹吉林沙漠 $\\mathrm { 3 9 ^ { \\circ } 0 4 ^ { \\prime } 1 5 ^ { \\prime \\prime } { \\sim } 4 2 ^ { \\circ } 1 2 ^ { \\prime } 2 3 ^ { \\prime \\prime } N , 9 9 ^ { \\circ } 2 3 ^ { \\prime } 1 8 ^ { \\prime \\prime } } \\sim$ $1 0 4 ^ { \\circ } 3 4 ^ { \\prime } 0 2 ^ { \\prime \\prime } \\mathrm { E }$ )地处内蒙古阿拉善高原西部，南至合黎山、北大山、黑山头，北至额济纳旗东居延海附近，东至省道S218，东南至雅布赖山、雅布赖盐湖、民勤绿洲北侧，西至弱水冲积扇、古日乃湖，东西长约 $4 4 2 \\ \\mathrm { k m }$ ,南北宽约 $3 5 4 ~ \\mathrm { k m }$ ,面积为 $5 . 2 1 6 2 \\times 1 0 ^ { 4 }$ $ { \\mathrm { k m } } ^ { 2 }$ ,是我国第二大沙漠[15]。地势呈东南高,西北低,海拔高度范围 $8 9 5 { \\sim } 1 5 7 2 \\ \\mathrm { m } ^ { [ 2 8 ] }$ ,地貌有沙山沙丘、风蚀洼地、剥蚀山丘、湖泊盆地和谷地等，以流动沙丘为主，土壤多为沙土，该地区属温带荒漠干旱区和极干旱区，为极端干旱的温带大陆性气候，常年日照充足，降水稀少，蒸发强烈，夏季高温酷热，冬春季多大风。年平均气温 $7 { \\sim } 8 \\ \\mathrm { ‰ }$ ，冬季平均气温$- 9 . 1 \\mathrm { { ^ { \\circ } C } }$ ,夏季平均气温 $2 5 . 3 ~ \\mathrm { \\textdegree C }$ ,年温差和日温差大，平均无霜期155d,年平均降水量 $7 6 . 9 \\ \\mathrm { m m } ^ { [ 5 3 ] }$ ，降水主要集中在6—9月，最大值出现在7—8月，降水量时空差异很大，从东南向西北呈递减趋势，蒸发量为降水量的40\\~80倍，年均日照时数 $3 0 0 0 { \\sim } 3 4 0 0 \\mathrm { ~ h ~ }$ ，年均风速 $4 \\mathrm { m } \\cdot \\mathrm { s } ^ { - 1 }$ 。光能、热能、风能、矿产资源丰富，植被覆盖率低，多为广袤荒漠，植被以旱生和超旱生灌木、半灌木植物为主，代表植物有白刺(Nitrariatangutorum）霸王(Zygophyllumxanthoxylum）红砂(Reaumuria soongorica）珍珠（Salsola passerina）、沙米（Agriophyllum squarrosum）沙竹(Psammochloa vil-losa)等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1调查方法采用样方与样线相结合的方法进行野外调查、采样，调查时间为2019年6一7月，在巴丹吉林沙漠周边及腹地共调查样地136个，样地主要分布在沙漠边缘及腹地湖泊周围等植被分布区域(图1,表1)。根据实地情况设置样方，每个样方大小 $2 0 \\mathrm { m } { \\times } 2 0 \\mathrm { m }$ 或 $1 0 \\mathrm { m } { \\times } 1 0 \\mathrm { m }$ ，记录样方内的植物名称,包括乔木和灌木，在 $2 0 ~ \\mathrm { m } { \\times } 2 0 ~ \\mathrm { m }$ 或 $1 0 \\ \\mathrm { m } { \\times } 1 0 \\ \\mathrm { m }$ 样方的四角设置 $1 \\mathrm { m } { \\times } 1 \\mathrm { m }$ 样方,用于草本调查。调查记录内容主要包括：乔木植物的种类、数量、高度、胸径、冠幅等;灌木植物的种类、株数、高度、冠幅、盖度、地径、生物量、生长及分布状况等;草本植物的种类、高度、盖度、多度、密度、生物量等。调查的过程中注意记录样地状况、群落郁闭度等。在调查的同时，使用GPS对调查地点定位，从而获取经纬度信息，记录各样地的海拔高度、地貌、天气状况等环境因子。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2土壤含水量测定方法土壤含水量采用烘干称重法测定，在每个样方内取 $1 0 { \\sim } 6 0 ~ \\mathrm { c m }$ 混合土样，迅速装入铝盒，用精度为 $0 . 0 1 \\ \\mathrm { g }$ 的天平称重，记录此时质量为 $m _ { 1 }$ ;带回实验室后，在烘干箱中设置 $1 0 5 \\pm$ $2 ^ { \\circ } \\mathrm { C }$ 下烘干 $6 { \\sim } 8 \\mathrm { ~ h ~ }$ 至恒重，冷却后称重，记录此时质量为 $m _ { 2 }$ ;之后称量空铝盒重，记录此时质量为 $m _ { 0 }$ O土壤含水量计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3多样性指数计算方法选用物种丰富度指数、优势度指数、生物多样性指数以及均匀度指数等对巴丹吉林沙漠研究区植被群落的多样性特征进行测度，计算方法参照文献[58」。计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "重要值 $( I V )$ ·",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI V { = } \\frac { R H { + } R C { + } R F } { 3 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/0368eb4716eb97ab1397822710ead5587efa664fc2bce300a87053381c2a0cf9.jpg",
+        "img_caption": [
+            "图1研究区位置及采样点分布示意图",
+            "Fig.1 Location of study area and distribution of survey sampling points "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1巴丹吉林沙漠调查样地位置",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/86fdb77be7c3879bcde47c0af9f66d7b9e57ee286ecde13ce4fae32be6e49119.jpg",
+        "table_caption": [
+            "Tab.1 Location of the Badain Jaran Desert survey plot "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号</td><td>地点</td><td>经度(E)</td><td>纬度(N)</td><td>海拔/m</td><td>编号</td><td>地点</td><td>经度(E)</td><td>纬度(N)</td><td>海拔/m</td></tr><tr><td>BD-1</td><td>阿朝苏木</td><td>101°13'36.09\"</td><td>39°02'49.89\"</td><td>1718</td><td>BD-69</td><td>必鲁图湖</td><td>102°29'29.20\"</td><td>39°50'15.79\"</td><td>1180</td></tr><tr><td>BD-2</td><td></td><td>10113'35.17\"</td><td>39°02'49.78\"</td><td>1719</td><td>BD-70</td><td>苏敏吉林</td><td>102°25'53.97\"</td><td>39°48'41.14\"</td><td>1178</td></tr><tr><td>BD-3</td><td>巴尔图</td><td>101°03'42.46\"</td><td>39°02'40.62\"</td><td>1934</td><td>BD-71</td><td>庙海子南湖</td><td>102°25'35.05\"</td><td>39°47'40.10\"</td><td>1181</td></tr><tr><td>BD-4</td><td>特尔希庙</td><td>101°00'27.66\"</td><td>39°06'59.42\"</td><td>2632</td><td>BD-72</td><td>呼和吉林</td><td>102°27'44.00\"</td><td>39°52'33.26\"</td><td>1185</td></tr><tr><td>BD-5</td><td>查干德日斯嘎查</td><td>101°07'50.20\"</td><td>39°06'10.83\"</td><td>1743</td><td>BD-73</td><td>音德尔图湖</td><td>102°26'53.39\"</td><td>39°50'50.37</td><td>1182</td></tr><tr><td>BD-6</td><td>查干德日斯嘎查</td><td>101°09'18.95\"</td><td>39°08'57.34\"</td><td>1652</td><td>BD-74</td><td>巴嘎吉林</td><td>102°25'20.35\"</td><td>39°50'04.16\"</td><td>1179</td></tr><tr><td>BD-7</td><td></td><td>101°04'30.31\"</td><td>39°11'33.95\"</td><td>1667</td><td>BD-75</td><td>呼都格吉仁</td><td>102°22'44.26\"</td><td>39°48'55.79\"</td><td>1174</td></tr><tr><td>BD-8</td><td></td><td>101°06'27.22\"</td><td>39°16'05.43\"</td><td>1523</td><td>BD-76</td><td></td><td>102°22'48.60\"</td><td>39°47'30.82\"</td><td>1175</td></tr><tr><td>BD-9</td><td>噶顺乌苏</td><td>101°41'07.01\"</td><td>39°17'05.82\"</td><td>1526</td><td>BD-77</td><td>塔马英</td><td>102°19'30.17\"</td><td>39°45'57.30\"</td><td>1175</td></tr><tr><td>BD-10</td><td>阿日毛道</td><td>101°30'16.26\"</td><td>39°25'33.20\"</td><td>1550</td><td>BD-78</td><td>巴格图</td><td>102°19'59.30\"</td><td>39°48'47.50\"</td><td>1173</td></tr><tr><td>BD-11</td><td></td><td>101°24'00.92\"</td><td>39°29'31.20\"</td><td>1544</td><td>BD-79</td><td>阿拉特图湖</td><td>102°21'13.04\"</td><td>39°49'55.48\"</td><td>1161</td></tr><tr><td>BD-12</td><td></td><td>101°08'50.39\"</td><td>39°33'18.77\"</td><td>1488</td><td>BD-80</td><td>昂斯格湖</td><td>102°16'30.14\"</td><td>39°46'51.29\"</td><td>1170</td></tr><tr><td>BD-13</td><td></td><td>100°57'55.49\"</td><td>39°27'16.09\"</td><td>1657</td><td>BD-81</td><td>布尔图</td><td>102°16'27.77\"</td><td>39°50'24.47\"</td><td>1164</td></tr><tr><td>BD-14</td><td></td><td>100°57'55.49\"</td><td>39°27'16.09\"</td><td>1657</td><td>BD-82</td><td>宗吉格德</td><td>102°18'02.49\"</td><td>39°52'50.43\"</td><td>1167</td></tr><tr><td>BD-15</td><td></td><td>100°12'53.31\"</td><td>40°01'43.35\"</td><td>1421</td><td>BD-83</td><td>策日格勒</td><td>102°15'50.14\"</td><td>39°53'13.87\"</td><td>1174</td></tr><tr><td>BD-16</td><td></td><td>99°49'15.42\"</td><td>40°14'31.70\"</td><td>1189</td><td>BD-84</td><td>万海子</td><td>102°13'43.87\"</td><td>39°51'12.05\"</td><td>1161</td></tr><tr><td>BD-17</td><td></td><td>99°49'15.33\"</td><td>40°14'31.65\"</td><td>1501</td><td>BD-85</td><td>查干诺海图</td><td>102°12'44.99\"</td><td>39°50'17.70\"</td><td>1159</td></tr><tr><td>BD-18</td><td></td><td>102°08'29.78\"</td><td>39°21'34.97\"</td><td>1568</td><td>BD-86</td><td>伊和吉德格</td><td>102°09'42.83\"</td><td>39°46'22.94\"</td><td>1153</td></tr><tr><td>BD-19</td><td></td><td>102°33'22.83\"</td><td>39°24'20.39\"</td><td>1321</td><td>BD-87</td><td>少格西格湖</td><td>102°07'12.70\"</td><td>39°46'46.54\"</td><td>1157</td></tr><tr><td>BD-20</td><td></td><td>102°41'25.49\"</td><td>39°24'12.91\"</td><td>1269</td><td>BD-88</td><td>麦格图湖</td><td>10207'47.54\"</td><td>39°49'21.86\"</td><td>1157</td></tr><tr><td>BD-21</td><td></td><td>102°44'20.59\"</td><td>39°31'14.79\"</td><td>1422</td><td>BD-89</td><td>达布苏图湖</td><td>102°12'48.99\"</td><td>39°53'51.75\"</td><td>1161</td></tr><tr><td>BD-22</td><td></td><td>102°46'18.36\"</td><td>39°37'24.70\"</td><td>1613</td><td>BD-90</td><td>赛罕艾勒</td><td>102°13'39.73\"</td><td>39°58'24.68\"</td><td>1165</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/205724c1d41471ab020ec791795f13f5b64ab01255746f3b188d3b4c3453e341.jpg",
+        "table_caption": [
+            "续表1 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号</td><td>地点</td><td>经度(E)</td><td>纬度(N)</td><td>海拔/m</td><td>编号</td><td>地点</td><td>经度(E)</td><td>纬度(N)</td><td>海拔/m</td></tr><tr><td>BD-23</td><td></td><td>102°49'33.45\"</td><td>39°40'30.68\"</td><td>1633</td><td>BD-91</td><td>巴彦诺尔</td><td>102°13'35.68\"</td><td>4001'02.28\"</td><td>1168</td></tr><tr><td>BD-24</td><td></td><td>103°05'25.11\"</td><td>39°51'24.12\"</td><td>1713</td><td>BD-92</td><td>乌尔塔.布拉格</td><td>102°11'26.96\"40°02'02.88\"</td><td></td><td>1168</td></tr><tr><td>BD-25</td><td>雅布赖山口</td><td>103°07'58.36\"</td><td>39°44'04.57\"</td><td>1365</td><td>BD-93</td><td>额肯吉林</td><td>102°09'35.75\"40°00'12.88\"</td><td></td><td>1159</td></tr><tr><td>BD-26</td><td>雅布赖山</td><td>103°08'57.49\"39°52'47.73\"</td><td></td><td>1711</td><td>BD-94</td><td>陶森吉林</td><td>10207'34.04\"40°01'20.00\"</td><td></td><td>1159</td></tr><tr><td>BD-27</td><td></td><td>103°09'32.11\" 40°04'30.05\"</td><td></td><td>1495</td><td>BD-95</td><td>诺尔图</td><td>102°05'53.06\"39°56'43.63\"</td><td></td><td>1158</td></tr><tr><td>BD-28</td><td></td><td>103°21'02.17\"</td><td>40°10'16.67\"</td><td>1490</td><td>BD-96</td><td>巴润格力克湖</td><td>102°08'09.25\"39°55'01.62\"</td><td></td><td>1171</td></tr><tr><td>BD-29</td><td></td><td>103°32'45.13\"</td><td>40°18'38.51\"</td><td>1408</td><td>BD-97</td><td>昭日古图</td><td>102°04'30.48\"</td><td>39°50'55.09\"</td><td>1159</td></tr><tr><td>BD-30</td><td></td><td>103°47'38.07\"</td><td>40°21'05.48\"</td><td>1537</td><td>BD-98</td><td>布尔图</td><td>102°03'05.61\"39°49'37.17\"</td><td></td><td>1153</td></tr><tr><td>BD-31</td><td></td><td>103°49'39.12\"</td><td>40°22'05.01\"</td><td>1559</td><td>BD-99</td><td>香根吉林</td><td>102°02'15.09\"39°51'53.57\"</td><td></td><td>1151</td></tr><tr><td>BD-32</td><td>塔木素苏木</td><td>103°43'02.52\"</td><td>40°34'13.91\"</td><td>1345</td><td>BD-100</td><td>巴润香根吉林</td><td>102°01'27.39\"</td><td>39°50'51.86\"</td><td>1151</td></tr><tr><td>BD-33</td><td>塔木素苏木</td><td>103°40'24.19\"</td><td>40°49'12.04\"</td><td>1337</td><td>BD-101</td><td>巴润吉格德</td><td>101°59'39.00\"39°48'30.72\"</td><td></td><td>1155</td></tr><tr><td>BD-34</td><td></td><td>104°05'35.02\"</td><td>40°33'37.22\"</td><td>1425</td><td>BD-102</td><td>海泥格德</td><td>101°57'53.64\"</td><td>39°49'02.15\"</td><td>1159</td></tr><tr><td>BD-35</td><td></td><td>104°21'25.93\"</td><td>40°25'52.01\"</td><td>1441</td><td>BD-103</td><td></td><td>101°24'24.74\"39°35'19.67\"</td><td></td><td>1375</td></tr><tr><td>BD-36</td><td>阿拉腾敖包</td><td>104°25'18.88\"</td><td>40°15'36.59\"</td><td>1451</td><td>BD-104</td><td>乌哲木</td><td>101°31'49.43\"</td><td>39°49'37.58\"</td><td>1137</td></tr><tr><td>BD-37</td><td></td><td>104°08'25.81\" 40°00'26.02\"</td><td></td><td>1194</td><td>BD-105哈日诺尔</td><td></td><td>101°33'36.66\"39°48'50.70\"</td><td></td><td>1139</td></tr><tr><td>BD-38</td><td>孟根布拉格</td><td>103°51'51.01\"</td><td>40°00'38.10\"</td><td>1409</td><td>BD-106</td><td></td><td>101°30'22.71\" 39°50'57.73\"</td><td></td><td>1140</td></tr><tr><td>BD-39</td><td></td><td>103°37'33.76\"</td><td>39°52'22.33\"</td><td>1489</td><td>BD-107</td><td></td><td>101°28'54.86\"</td><td>39°52'17.39\"</td><td>1143</td></tr><tr><td>BD-40</td><td></td><td>10304'38.98\"</td><td>39°40'05.08\"</td><td>1300</td><td>BD-108</td><td></td><td>101°26'32.28\"</td><td>39°53'25.66\"</td><td>1143</td></tr><tr><td>BD-41</td><td></td><td>101°33'42.36\"</td><td>38°48'47.74\"</td><td>1869</td><td>BD-109</td><td>陶来图</td><td>101°26'33.59\"</td><td>39°53'24.95\"</td><td>1131</td></tr><tr><td>BD-42</td><td>少白音吉林西湖 102°15'01.80\"</td><td></td><td>39°34'08.18\"</td><td>1218</td><td>BD-110</td><td>西诺尔图</td><td>101°44'33.13\"44°01'40.40\"</td><td></td><td>1133</td></tr><tr><td>BD-43</td><td>敦德吉林湖</td><td>102°15'40.26\"</td><td>39°35'22.88\"</td><td>1211</td><td>BD-111</td><td>莫尔图</td><td>101°48'43.57\"39°58'12.74\"</td><td></td><td>1143</td></tr><tr><td>BD-44</td><td>沃门吉仁湖</td><td>102°16'41.23\"</td><td>39°35'01.82\"</td><td>1210</td><td>BD-112</td><td></td><td>101°50'14.11\"39°57'09.74\"</td><td></td><td>1135</td></tr><tr><td>BD-45</td><td>牡代吉仁湖</td><td>102°15'10.54\"39°35'53.59\"</td><td></td><td>1204</td><td>BD-113</td><td></td><td>101°59'28.35\"40°00'56.19\"</td><td></td><td>1149</td></tr><tr><td>BD-46</td><td>巴润伊克日</td><td>102°19'36.72\"</td><td>39°43'13.71\"</td><td>1188</td><td>BD-114</td><td>大诺敖诺图</td><td>102°03'54.58\"40°03'24.12\"</td><td></td><td>1147</td></tr><tr><td>BD-47</td><td></td><td>102°18'52.02\"</td><td>39°43'33.71\"</td><td>1178</td><td>BD-115</td><td>小诺敖诺图</td><td>102°07'30.33\"40°04'19.95\"</td><td></td><td>1155</td></tr><tr><td>BD-48</td><td>天池</td><td>102°20'11.79\"</td><td>39°34'15.95\"</td><td>1207</td><td>BD-116</td><td>少布勒</td><td>102°08'13.53\"40°02'17.49\"</td><td></td><td>1155</td></tr><tr><td>BD-49</td><td>赛因乌苏西湖</td><td>102°19'55.23\"</td><td>39°34'03.40\"</td><td>1207</td><td>BD-117</td><td>那木吉图</td><td>102°03'30.08\"39°57'42.48\"</td><td></td><td>1146</td></tr><tr><td>BD-50</td><td>赛因乌苏东湖</td><td>102°20'18.53\"</td><td>39°33'50.78\"</td><td>1205</td><td>BD-118</td><td>路图</td><td>101°59'06.23\"39°54'41.34\"</td><td></td><td>1158</td></tr><tr><td>BD-51</td><td>呼和乌珠日</td><td>102°20'30.66\"</td><td>39°33'26.14\"</td><td>1205</td><td>BD-119</td><td>苏海图</td><td>101°53'36.88\"39°50'00.10\"</td><td></td><td>1145</td></tr><tr><td>BD-52</td><td></td><td>102°20'58.65\"</td><td>39°33'27.24\"</td><td>1206</td><td>BD-120</td><td>古日乃</td><td>101°17'01.82\"40°37'00.27\"</td><td></td><td>1021</td></tr><tr><td>BD-53</td><td></td><td>102°21'15.64\"39°33'30.95\"</td><td></td><td>1207</td><td>BD-121</td><td>古日乃</td><td>101°11'52.60\"40°35'15.57\"</td><td></td><td>1028</td></tr><tr><td>BD-54</td><td></td><td>102°21'26.25\"39°33'26.73\"</td><td></td><td>1207</td><td>BD-122</td><td>古日乃</td><td>101°06'15.41\" 40°33'36.68\"</td><td></td><td>1037</td></tr><tr><td>BD-55</td><td></td><td>102°22'10.94\"</td><td>39°33'19.28\"</td><td>1208</td><td>BD-123</td><td>古日乃</td><td>100°57'55.34\"40°36'15.13\"</td><td></td><td>1037</td></tr><tr><td>BD-56</td><td></td><td>102°22'20.52\"</td><td>39°33'19.99\"</td><td>1209</td><td>BD-124古日乃</td><td></td><td>101°23'53.71\" 40°39'17.42\"</td><td></td><td>1050</td></tr><tr><td>BD-57</td><td>巴丹湖</td><td>102°22'13.09\"</td><td>39°33'02.91\"</td><td>1218</td><td>BD-125</td><td>古日乃</td><td>101°30'29.20\"41°04'22.14\"</td><td></td><td>997</td></tr><tr><td>BD-58</td><td>都贵吉仁</td><td>102°23'19.63\"</td><td>39°35'15.10\"</td><td>1214</td><td>BD-126</td><td>古日乃</td><td>101°30'16.41\" 40°59'38.97\"</td><td></td><td>1030</td></tr><tr><td>BD-59</td><td></td><td>102°26'09.86\"</td><td>39°36'06.71\"</td><td>1218</td><td>BD-127</td><td>古日乃</td><td>101°28'28.69\"40°53'01.15\"</td><td></td><td>1014</td></tr><tr><td>BD-60</td><td>准敖格钦</td><td>102°26'16.72\"</td><td>39°35'19.80\"</td><td>1217</td><td>BD-128</td><td>古日乃</td><td>101°26'54.53\"40°46'13.71\"</td><td></td><td>1026</td></tr><tr><td>BD-61</td><td></td><td>102°25'02.62\"</td><td>39°34'16.35\"</td><td>1213</td><td>BD-129</td><td></td><td>额济纳旗天鹅湖101°35'12.25\"4200'38.08\"</td><td></td><td>901</td></tr><tr><td>BD-62</td><td>通格图</td><td>102°28'36.44\"</td><td>39°36'09.15\"</td><td>1267</td><td>BD-130</td><td>拐子湖</td><td>102°14'32.01\" 41°21'57.22\"</td><td></td><td>941</td></tr><tr><td>BD-63</td><td>沃斯格图</td><td>102°30'37.44\"</td><td>39°36'55.35\"</td><td>1292</td><td>BD-131</td><td>拐子湖</td></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $R H$ 为相对高度[(该种的高度/所有种的高度总和） $\\times 1 0 0 \\%$ 」； $R C$ 为相对盖度[（该种的盖度/所有种的盖度总和） $\\boldsymbol { \\times } 1 0 0 \\%$ ； $R F$ 为相对频度（该种的频度/所有种的频度总和） $\\times 1 0 0 \\%$ J",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "物种丰富度指数(S)：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$S =$ 样地的物种数",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Simpson优势度指数 $( C )$ · ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC = \\sum _ { i = 1 } ^ { S } P _ { i } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Simpson多样性指数 $( D )$ 及Shannon-Wiener多样性指数 $\\left( H ^ { \\prime } \\right)$ ：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD = 1 - \\sum _ { i = 1 } ^ { s } { P _ { i } ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ^ { \\prime } = - \\sum _ { i = 1 } ^ { s } P _ { i } \\ln P _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Pielou均匀度指数 $\\left( J _ { \\mathrm { { s w } } } \\right)$ 及Alatato均匀度指数$\\left( E _ { \\mathrm { a } } \\right)$ ：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ _ { \\mathrm { s w } } = H ^ { \\prime } / \\ln S\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { \\mathrm { a } } = \\left( 1 { \\left/ \\sum _ { i = 1 } ^ { S } { P _ { i } ^ { 2 } } - 1 \\right) } \\right/ \\left( e ^ { - \\sum _ { i = 1 } ^ { S } { P _ { i } \\ln { P _ { i } } } } - 1 \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $P _ { i }$ 为样方中第 $i$ 种物种的相对重要值; $s$ 为样地中物种数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.4数据处理与分析采用Excel2016进行数据统计分析，使用ArcGIS10.2进行绘图，SPSS21.0进行相关分析与回归分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1巴丹吉林沙漠植被类型特征 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本次调查共记录到56种植物，包括样方内植物、样方外沙坡、湖岸边的植物等，分属20科52属。藜科11属12种，禾本科8属9种，菊科8属9种，蒺藜科5属5种，蝶形花科4属4种，怪柳科2属2种，杨柳科1属2种，榆科、桑科、豆科、胡颓子科、石蒜科、毛茛科、茄科、麻黄科、百合科、紫草科、鸢尾科、报春花科、蓼科各1属1种(表2)。调查区植物大多数属于藜科、禾本科、菊科、蒺藜科。藜科植物种最多，占总种数的 $2 1 . 4 \\%$ ;禾本科植物种占总种数的 $1 6 . 1 \\%$ ;菊科植物种占总种数的 $1 6 . 1 \\%$ ；蒺藜科植物种占总种数的 $8 . 9 \\%$ 。这些种类以沙漠旱生或超旱生植物为主。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "按植物的生活型划分，巴丹吉林沙漠植被分属于乔木、小乔木、灌木、小灌木、半灌木、草质藤本、多年生草本、一年生草本等8类生活型[59-60],其中，灌木和草本生活型的植物居多。乔木多分布于湖岸边以及井周围，且部分为人工种植，麻黄和沙拐枣基本多分布于样方外沙坡上，样方内植物多以灌木、小灌木以及草本植物为主。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2巴丹吉林沙漠植物群落类型特征",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "样地植物群落类型的确定首先是通过计算各样方物种的重要值来判断优势物种，然后由“优势灌木 $^ +$ 优势草本\"或\"优势草本\"来命名[12],对于单一植物种群落，以该植物种命名。结果显示(表3),就群落数量而言，以白刺(Nitrariatangutorum)为优势种的群落数量最多，有72个，达到调查样地数量的$5 2 . 9 \\%$ ;其次是以芦苇(Phragmitesaustralis)为单一优势物种的群落，有19个，达到调查样地数量的$1 4 . 0 \\%$ ;以甘草(Glycyrrhizauralensis）为单一优势物种群落的数量为第三，有16个，达到调查样地数量的 $1 1 . 8 \\%$ 。就群落类型而言，在所有调查样地中群落可以分为4种类型,灌木和多年生草本群落、单一灌木群落、单一多年生草本群落和小乔木群落。就群落空间分布而言，白刺群落分布最广，在沙漠边缘及腹地均有分布，古日乃和拐子湖地区植物群落优势种均为白刺（Nitrariatangutorum）或者芦苇（Phragmitesaustralis），多为两者共生;东部边缘塔木素苏木和阿拉腾敖包多为白刺和骆驼蓬群落;盐爪爪群落均在西南边缘，偶有芨芨草群落；仅有的2个小乔木群落分别在额济纳旗天鹅湖和雅布赖山;甘草群落均分布在沙漠腹地湖泊周边。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/250ad2c4a1d76d77f8a0276201cb2aba89a947b77e50028ceef3711caa464a67.jpg",
+        "table_caption": [
+            "表2巴丹吉林沙漠地区植被生活型及科属种统计",
+            "Tab.2Statistics of vegetation life forms and families and species in the Badain Jaran Desert "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>生活型</td><td>植物种</td><td>科</td><td>属</td><td>占比/%</td></tr><tr><td rowspan=\"4\">乔木</td><td>胡杨(Populus euphratica)</td><td>杨柳科(Salicaceae)</td><td>杨属(Populus)</td><td rowspan=\"4\"></td></tr><tr><td>白杨(Populus tomentosa)</td><td>杨柳科(Salicaceae)</td><td>杨属(Populus)</td></tr><tr><td>白榆(Ulmus pumila)</td><td>榆科(Ulmaceae)</td><td>榆属(Ulmus)</td></tr><tr><td>桑树(Morus alba)</td><td>桑科(Moraceae)</td><td>桑属(Morus)</td></tr><tr><td rowspan=\"5\">小乔木</td><td>槐树(Sophora japonica)</td><td>蝶形花科(Leguminosae)</td><td>槐属(Sophora)</td><td rowspan=\"5\">5.4</td></tr><tr><td>沙枣(Elaeagnus angustifolia)</td><td>胡颓子科(Elaeagnaceae)</td><td>胡颓子属(Elaeagnus)</td></tr><tr><td>梭梭(Haloxylon ammodendron)</td><td>藜科(Chenopodiacea)</td><td>梭梭属(Haloxylon)</td></tr><tr><td>怪柳(Tamarix chinensis)</td><td>怪柳科(Tamaricaceae)</td><td>怪柳属(Tamarix)</td></tr><tr><td>白刺(Nitraria tangutorum)</td><td>蒺藜科(Zygophyllaceae)</td><td>白刺属(Nitraria)</td></tr><tr><td rowspan=\"4\">灌木</td><td>霸王(zygophyllum xanthoxylon)</td><td>蒺藜科(Zygophyllaceae)</td><td>霸王属(Sarcozygium)</td><td rowspan=\"4\">8.9</td></tr><tr><td>黑果枸杞(Lycium ruthenicum)</td><td>茄科(Solanaceae)</td><td>枸杞属(Lycium)</td></tr><tr><td>麻黄(Ephedra sinica)</td><td>麻黄科(Ephedraceae)</td><td>麻黄属(Ephedra)</td></tr><tr><td>沙拐枣(Calligonum mongolicum)</td><td>蓼科(Polygonaceae)</td><td>沙拐枣属(Calligonum)</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/17f07fa2433dd9a8b19ead9127eca866af4388c7d6a8fa22b865fa9d43a6cb40.jpg",
+        "table_caption": [
+            "续表2 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>生活型</td><td>植物种</td><td>科</td><td>属</td><td>占比/%</td></tr><tr><td>小灌木</td><td>盐爪爪(Kalidium foliatum)</td><td>藜科(Chenopodiacea)</td><td>盐爪爪属(Kalidium)</td><td>3.6</td></tr><tr><td></td><td>红砂(Reaumuria soongorica)</td><td>柽柳科(Tamaricaceae)</td><td>红砂属(Reaumuria)</td><td></td></tr><tr><td></td><td>驼绒藜(Ceratocarpus latens)</td><td>藜科(Chenopodiacea)</td><td>驼绒藜属(Ceratoides)</td><td></td></tr><tr><td></td><td>珍珠(Salsola passerina)</td><td>藜科(Chenopodiacea)</td><td>猪毛菜属(Salsola)</td><td></td></tr><tr><td>半灌木</td><td>油蒿(Artemisia ordosica)</td><td>菊科(Asteraceae)</td><td>蒿属(Artemisia)</td><td>8.9</td></tr><tr><td></td><td>猫头刺(Oxytropis aciphylla)</td><td>豆科(Fabaceae)</td><td>棘豆属(Oxytropis)</td><td></td></tr><tr><td></td><td>骆驼刺(Alhagi sparsifolia)</td><td>蝶形花科(Leguminosae)</td><td>骆驼刺属(Alhagi)</td><td></td></tr><tr><td>草质藤本</td><td>铁线莲(Clematis florida)</td><td>毛茛科(Ranunculaceae)</td><td>铁线莲属(Clematis)</td><td>1.8</td></tr><tr><td></td><td>芨芨草(Achnatherum splendens)</td><td>禾本科(Poaceae)</td><td>芨芨草属(Achnatherum)</td><td></td></tr><tr><td></td><td>骆驼蓬(Peganum harmala)</td><td>蒺藜科(Zygophyllaceae)</td><td>骆驼蓬属(Peganum)</td><td></td></tr><tr><td></td><td>驼蹄瓣(Zygophyllum fabago)</td><td>蒺藜科(Zygophyllaceae)</td><td>驼蹄瓣属(Zygophyllum)</td><td></td></tr><tr><td></td><td>沙蒿(Artemisia desertorum)</td><td>菊科(Asteraceae)</td><td>蒿属(Artemisia)</td><td></td></tr><tr><td></td><td>芦苇(Phragmites australis)</td><td>禾本科(Poaceae)</td><td>芦苇属(Phragmites)</td><td></td></tr><tr><td></td><td>棘豆(Oxytropis subfalcata)</td><td>蝶形花科(Leguminosae)</td><td>棘豆属(Oxytropis)</td><td></td></tr><tr><td></td><td>蓝刺头(Echinops sphaerocephalus)</td><td>菊科(Asteraceae)</td><td>蓝刺头属(Echinops)</td><td></td></tr><tr><td></td><td>沙葱(Allium przewalskianum)</td><td>百合科(Liliaceae)</td><td>葱属(Alliaceae)</td><td></td></tr><tr><td></td><td>沙竹(Psammochloa villosa)</td><td>禾本科(Poaceae)</td><td>沙鞭属(Psammochloa)</td><td></td></tr><tr><td></td><td>砂引草(Tournefortia sibirica)</td><td>紫草科(Boraginaceae)</td><td>紫丹属(Tournefortia)</td><td></td></tr><tr><td></td><td>苦荬菊(Ixeris denticulata)</td><td>菊科(Asteraceae)</td><td>苦荬菜属(Ixeris)</td><td></td></tr><tr><td>多年生草本</td><td>冰草(Agropyron cristatum)</td><td>禾本科(Poaceae)</td><td>冰草属(Agropyron)</td><td>42.9</td></tr><tr><td></td><td>马蘭(Iris lactea)</td><td>鸢尾科(Iridaceae)</td><td>鸢尾属(Iris)</td><td></td></tr><tr><td></td><td>无芒隐子草(Cleistogenes songorica)</td><td>禾本科(Poaceae)</td><td>隐子草属(Cleistogenes Keng)</td><td></td></tr><tr><td></td><td>针茅(Stipa capillata)</td><td>禾本科(Poaceae)</td><td>针茅属(Stipa)</td><td></td></tr><tr><td></td><td>西北针茅(Stipa grandis)</td><td>禾本科(Poaceae)</td><td>针茅属(Stipa)</td><td></td></tr><tr><td></td><td>蒲公英(Taraxacum mongolicum)</td><td>菊科(Asteraceae)</td><td>蒲公英属(Taraxacum)</td><td></td></tr><tr><td></td><td>甘草(Glycyrrhiza uralensis)</td><td>蝶形花科(Leguminosae)</td><td>甘草属(Glycyrrhiza)</td><td></td></tr><tr><td></td><td>长叶点地梅(Androsace longifolia)</td><td>报春花科(Primulaceae)</td><td>点地梅属(Androsace)</td><td></td></tr><tr><td></td><td>翡翠珠(Senecio rowleyanus)</td><td>菊科(Asteraceae)</td><td>千里光属(Senecio)</td><td></td></tr><tr><td></td><td>披碱草(Elymus dahuricus)</td><td>禾本科(Poaceae)</td><td>披碱草属(Elymus)</td><td></td></tr><tr><td></td><td>蓼子朴(Inula salsoloides)</td><td>菊科(Asteraceae)</td><td>旋覆花属(nula)</td><td></td></tr><tr><td></td><td>蒙古韭(Allium mongolicum)</td><td>石蒜科(Amaryllidaceae)</td><td>葱属(Alliceae)</td><td></td></tr><tr><td></td><td>花花柴(Karelinia caspia)</td><td>菊科(Asteraceae)</td><td>花花柴属(Karelinia)</td><td></td></tr><tr><td></td><td>猪毛菜(Salsola collina)</td><td>藜科(Chenopodiacea)</td><td>猪毛菜属(Salsola)</td><td></td></tr><tr><td></td><td>沙米(Agriophyllum squarrosum)</td><td>藜科(Chenopodiacea)</td><td>沙蓬属(Agriophyllum)</td><td></td></tr><tr><td></td><td>雾冰藜(Bassia dasyphylla)</td><td>藜科(Chenopodiacea)</td><td>雾冰藜属(Bassia)</td><td></td></tr><tr><td></td><td>虫实(Corispermum mongolicum)</td><td>藜科(Chenopodiacea)</td><td>虫实属(Corispermum)</td><td></td></tr><tr><td></td><td>苦菊(Cichorium endivia)</td><td>菊科(Asteraceae)</td><td>菊苣属(Cichorium)</td><td></td></tr><tr><td>一年生草本</td><td>狗尾草(Setaria viridis)</td><td>禾本科(Poaceae)</td><td>狗尾草属(Setaria)</td><td>19.6</td></tr><tr><td></td><td>蒺藜(Tribulus terrester)</td><td>蒺藜科(Zygophyllaceae)</td><td>蒺藜属(Tribulus)</td><td></td></tr><tr><td></td><td>白茎盐生草(Halogeton arachnoideus)</td><td>藜科(Chenopodiacea)</td><td>盐生草属(Halogeton)</td><td></td></tr><tr><td></td><td>灰绿藜(Chenopodium glaucum)</td><td>藜科(Chenopodiacea)</td><td>藜属(Chenopodium)</td><td></td></tr><tr><td></td><td>地肤(Kochia scoparia)</td><td>藜科(Chenopodiacea)</td><td>地肤属(Kochia)</td><td></td></tr><tr><td></td><td>灰条草(Chenopodium album)</td><td>藜科(Chenopodiacea)</td><td>苋属 (Amaranthus)</td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3巴丹吉林沙漠群落物种多样性",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "调查区内群落总体生物多样性数值分布如图2所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "物种丰富度指数(S)在1\\~9之间变化，沙漠腹地湖泊周围地区和东南边缘地区，分别因为湖泊的存在和较高的降水量，为植物生长提供了较好的水分条件，所以物种丰富度指数相对较高。北部的拐子湖和西部的古日乃附近水分条件最差，物种丰富度数值也普遍较低。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Simpson优势度指数 $( C )$ 在0.23\\~0.98之间变化，大部分地区Simpson优势度指数与物种丰富度指数呈相反变化规律，即物种丰富度越高，优势种越不明显。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "物种多样性指数：Shannon-Winner多样性指数$\\langle H ^ { \\prime }$ )在0.06\\~1.54之间变化;Simpson多样性指数 $( D )$ 在0.02\\~0.77之间变化，两者的变化趋势相同，与优势度指数呈相反变化规律，说明物种多样性越高，优势种越不明显。空间上仍然是沙漠腹地湖泊周围地区多样性指数较高，边缘地区较低。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/7acfbff3caf6e3b0b41cb762771e0f3d31516ac354beb68861c38a1d0665f779.jpg",
+        "table_caption": [
+            "表3巴丹吉林沙漠各样地植被群落类型",
+            "Tab.3 Types of vegetation communities in the BadainJaran Desert "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号</td><td>群落类型</td><td>编号</td><td>群落类型</td></tr><tr><td>BD-1</td><td>白刺(Nitraria tangutorum)</td><td>BD-69</td><td>白刺+雾冰藜(Nitraria tangutorum& Bassia dasyphylla)</td></tr><tr><td>BD-2</td><td>白刺(Nitraria tangutorum)</td><td>BD-70</td><td>白刺+芨芨草(Nitraria tangutorum& Achnatherum splendens)</td></tr><tr><td>BD-3</td><td>白刺(Nitraria tangutorum)</td><td>BD-71</td><td>白刺+沙竹(Nitraria tangutorum & Psammochloa villosa)</td></tr><tr><td>BD-4</td><td>芨芨草(Achnatherum splendens)</td><td>BD-72</td><td>甘草(Glycyrrhiza uralensis)</td></tr><tr><td>BD-5</td><td>盐爪爪(Kalidium foliatum)</td><td>BD-73</td><td>甘草(Glycyrrhiza uralensis)</td></tr><tr><td>BD-6</td><td>盐爪爪(Kalidium foliatum)</td><td>BD-74</td><td>甘草(Glycyrrhiza uralensis)</td></tr><tr><td>BD-7</td><td>红砂(Reaumuria soongorica)</td><td>BD-75</td><td>甘草(Glycyrrhiza uralensis)</td></tr><tr><td>BD-8</td><td>白刺(Nitraria tangutorum)</td><td>BD-76</td><td>白刺+芨芨草(Nitraria tangutorum &Achnatherum splendens)</td></tr><tr><td>BD-9</td><td>白刺+骆驼蓬(Nitraria tangutorum& Peganum harmala)</td><td>BD-77</td><td>芦苇(Phragmites australis)</td></tr><tr><td>BD-10</td><td>白刺+骆驼蓬(Nitraria tangutorum & Peganum harmala)</td><td>BD-78</td><td>油蒿+芦苇(Artemisia ordosica & Phragmites australis)</td></tr><tr><td>BD-11</td><td>盐爪爪(Kalidium foliatum)</td><td>BD-79</td><td>芦苇(Phragmites australis)</td></tr><tr><td>BD-12</td><td>盐爪爪(Kalidium foliatum)</td><td>BD-80</td><td>油蒿+沙米(Artemisia ordosica & Agriophyllum squarrosum)</td></tr><tr><td>BD-13</td><td>盐爪爪(Kalidium foliatum)</td><td>BD-81</td><td>甘草(Glycyrrhiza uralensis)</td></tr><tr><td>BD-14</td><td>白刺(Nitraria tangutorum)</td><td>BD-82</td><td>甘草(Glycyrrhiza uralensis)</td></tr><tr><td>BD-15</td><td>黑果枸杞(Lycium ruthenicum)</td><td>BD-83</td><td>甘草(Glycyrrhiza uralensis)</td></tr><tr><td>BD-16</td><td>芦苇(Phragmites australis)</td><td>BD-84</td><td>芦苇(Phragmites australis)</td></tr><tr><td>BD-17</td><td>白刺+棘豆(Nitraria tangutorum & Herba oxytropis falcatat)</td><td>BD-85</td><td>芦菲(Phragmites australis)</td></tr><tr><td>BD-18</td><td>白刺(Nitraria tangutorum)</td><td>BD-86</td><td>芦苇(Phragmites australis)</td></tr><tr><td>BD-19</td><td>白刺+沙竹(Nitraria tangutorum & Psammochloa villosa)</td><td>BD-87</td><td>芦苇(Phragmites australis)</td></tr><tr><td>BD-20</td><td>白刺(Nitraria tangutorum)</td><td>BD-88</td><td>芦苇(Phragmites australis)</td></tr><tr><td>BD-21</td><td>白刺(Nitraria tangutorum)</td><td>BD-89</td><td>甘草(Glycyrrhiza uralensis)</td></tr><tr><td>BD-22</td><td>无植被</td><td>BD-90</td><td>甘草(Glycyrrhiza uralensis)</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "续表3 ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/310d5357958a1bd2da61b798cf7c77fc80756569cfb26a2b976343587b3b0296.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号</td><td>群落类型</td><td>编号</td><td>群落类型</td></tr><tr><td>BD-23</td><td>白刺(Nitraria tangutorum)</td><td>BD-91</td><td>芨芨草(Achnatherum splendens)</td></tr><tr><td>BD-24</td><td>油蒿(Artemisia ordosica)</td><td>BD-92</td><td>甘草(Glycyrrhiza uralensis)</td></tr><tr><td>BD-25</td><td>油蒿+芦苇(Artemisia ordosica & Phragmites australis)</td><td>BD-93</td><td>甘草(Glycyrrhiza uralensis)</td></tr><tr><td>BD-26</td><td>沙枣+沙蒿(Elaeagnus angustifolia &Artemisia desertorum)</td><td>BD-94</td><td>芨芨草(Achnatherum splendens)</td></tr><tr><td>BD-27</td><td>芨芨草(Achnatherum splendens)</td><td>BD-95</td><td>芦苇(Phragmites australis)</td></tr><tr><td>BD-28</td><td>霸王(zygophyllum xanthoxylon)</td><td>BD-96</td><td>油蒿+沙米(Artemisia ordosica & Agriophyllum squrrosu</td></tr><tr><td>BD-29</td><td>白刺(Nitraria tangutorum)</td><td>BD-97</td><td>芦苇(Phragmites australis)</td></tr><tr><td>BD-30</td><td>白刺+骆驼蓬(Nitraria tangutorum & Peganum harmala)</td><td>BD-98</td><td>甘草(Glycyhza uralensis)</td></tr><tr><td>BD-31</td><td>白刺+骆驼蓬(Nitraria tangutorum & Peganum harmala)</td><td>BD-99</td><td>甘草(Glycyrrhiza uralensis)</td></tr><tr><td>BD-32</td><td>白刺(Nitraria tangutorum)</td><td>BD-100</td><td>甘草(Glycyrrhiza uralensis)</td></tr><tr><td>BD-33</td><td>白刺+骆驼蓬(Nitraria tangutorum& Peganum harmala)</td><td>BD-101</td><td>甘草(Glycyrrhiza uralensis)</td></tr><tr><td>BD-34</td><td>白刺+骆驼蓬(Nitraria tangutorum & Peganum harmala)</td><td>BD-102</td><td>芦苇(Phragmites australis)</td></tr><tr><td>BD-35</td><td>白刺+骆驼蓬(Nitraria tangutorum & Peganum harmala)</td><td>BD-103</td><td>油蒿(Artemisia ordosica)</td></tr><tr><td>BD-36</td><td>骆驼蓬+针茅(Peganum harmala& Stipa capillata)</td><td>BD-104</td><td>白刺+芦苇(Nitraria tangutorum & Phragmites australis)</td></tr><tr><td>BD-37</td><td>白刺+蓝刺头(Nitraria tangutorum & Echinops sphaerocepha- lus)</td><td>BD-105</td><td>白刺+芦苇(Nitraria tangutorum & Phragmites australis)</td></tr><tr><td>BD-38</td><td>白刺(Nitraria tangutorum)</td><td>BD-106</td><td>白刺+芦菲(Nitraria tangutorum & Phragmites australis)</td></tr><tr><td>BD-39</td><td>红砂(Reaumuria soongorica)</td><td>BD-107</td><td>白刺(Nitraria tangutorum)</td></tr><tr><td>BD-40</td><td>骆驼蓬(Peganum harmala)</td><td>BD-108</td><td>芦苇(Phragmites australis)</td></tr><tr><td>BD-41</td><td>白刺(Nitraria tangutorum)</td><td>BD-109</td><td>芦苇(Phragmites australis)</td></tr><tr><td>BD-42</td><td>油蒿+沙竹(Artemisia ordosica & Psammochloa villosa)</td><td>BD-110</td><td>白刺+芦苇(Nitraria tangutorum & Phragmites australis)</td></tr><tr><td>BD-43</td><td>白刺+马葡(Nitraria tangutorum & Iris lactea)</td><td>BD-111</td><td>芦苇(Phragmites australis)</td></tr><tr><td>BD-44</td><td>白刺+马葡(Nitraria tangutorum & Iris lactea)</td><td>BD-112</td><td>芨芨草(Achnatherum splendens)</td></tr><tr><td>BD-45</td><td>白刺+马葡(Nitraria tangutorum & Iris lactea)</td><td>BD-113</td><td>白刺+芦菲(Nitraria tangutorum & Phragmites australis)</td></tr><tr><td>BD-46</td><td>白刺+甘草(Nitraria tangutorum & Glycyrrhiza uralensis)</td><td>BD-114</td><td>芨芨草(Achnatherum splendens)</td></tr><tr><td>BD-47</td><td>白刺+芨芨草(Nitraria tangutorum& Achnatherum splendens)</td><td>BD-115</td><td>骆驼蓬(Peganum harmala)</td></tr><tr><td>BD-48</td><td>白刺+沙竹(Nitraria tangutorum & Psammochloa villosa)</td><td>BD-116</td><td>甘草(Glycyrrhiza uralensis)</td></tr><tr><td>BD-49</td><td>白刺+芨芨草(Nitraria tangutorum & Achnatherum splendens)</td><td>BD-117</td><td>油蒿+芦苇(Artemisia ordosica & Phragmites australis)</td></tr><tr><td>BD-50</td><td>白刺+芨芨草(Nitraria tangutorum & Achnatherum splendens)</td><td>BD-118</td><td>芦苇(Phragmites australis)</td></tr><tr><td>BD-51</td><td>白刺+芨芨草(Nitraria tangutorum & Achnatherum splendens)</td><td>BD-119</td><td>白刺+甘草(Nitraria tangutorum & Glycyrrhiza uralensis)</td></tr><tr><td>BD-52</td><td>白刺+沙竹(Nitraria tangutorum & Psammochloa villosa)</td><td>BD-120</td><td>芦苇(Phragmites australis)</td></tr><tr><td>BD-53</td><td>白刺+沙竹(Nitraria tangutorum & Psammochloa villosa)</td><td>BD-121</td><td>芦苇(Phragmites australis)</td></tr><tr><td>BD-54</td><td>白刺+芨芨草(Nitraria tangutorum & Achnatherum splendens)</td><td>BD-122</td><td>白刺(Nitraria tangutorum)</td></tr><tr><td>BD-55</td><td>白刺+芦苇(Nitraria tangutorum & Phragmites australis)</td><td>BD-123</td><td>白刺(Nitraria tangutorum)</td></tr><tr><td>BD-56</td><td>白刺+芦苇(Nitraria tangutorum & Phragmites australis)</td><td>BD-124</td><td>白刺+芦苇(Nitraria tangutorum & Phragmites australis)</td></tr><tr><td>BD-57</td><td>白刺+芦苇(Nitraria tangutorum & Phragmites australis)</td><td>BD-125</td><td>白刺+芦苇(Nitraria tangutorum & Phragmites australis)</td></tr><tr><td>BD-58</td><td>白刺+芨芨草(Nitraria tangutorum & Achnatherum splendens)</td><td>BD-126</td><td>白刺+芦苇(Nitraria tangutorum & Phragmites australis)</td></tr><tr><td>BD-59</td><td>白刺+沙竹(Nitraria tangutorum & Psammochloa villosa)</td><td>BD-127</td><td>白刺(Nitraria tangutorum)</td></tr><tr><td>BD-60</td><td>白刺+沙竹(Nitraria tangutorum & Psammochloa villosa)</td><td>BD-128</td><td>白刺+芦苇(Nitraria tangutorum & Phragmites australis)</td></tr><tr><td>BD-61</td><td>白刺(Nitraria tangutorum)</td><td>BD-129</td><td>怪柳+芦苇(Tamarix ramosissima & Phragmites australis)</td></tr><tr><td>BD-62</td><td>白刺+芨芨草(Nitraria tangutorum & Achnatherum splendens)</td><td>BD-130</td><td>白刺(Nitraria tangutorum)</td></tr><tr><td>BD-63</td><td>白刺(Nitraria tangutorum)</td><td>BD-131</td><td>芦苇(Phragmites australis)</td></tr><tr><td>BD-64</td><td>白刺+苦菊(Nitraria tangutorum & Cichorium endivia)</td><td>BD-132</td><td>白刺+芦苇(Nitraria tangutorum & Phragmites australis)</td></tr><tr><td>BD-65</td><td>白刺(Nitraria tangutorum)</td><td>BD-133</td><td>白刺+芦苇(Nitraria tangutorum & Phragmites australis)</td></tr><tr><td>BD-66</td><td>白刺+沙竹(Nitraria tangutorum & Psammochloa villosa)</td><td>BD-134</td><td>芦苇(Phragmites australis)</td></tr><tr><td>BD-67</td><td>白刺+沙米(Nitraria tangutorum & Agriophyllum squarosum</td><td>BD-135</td><td>白刺+芦苇(Nitraria tangutorum & Phragmites australis)</td></tr><tr><td>BD-68</td><td>白刺+虫实(Nitr n&Cori</td><td>BD-136</td><td>白刺+芦苇(Nitr &Phr ustralis)</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/28a97672e40e78d219163ed60728495c373f4797b49a91867d23e65c20fc355a.jpg",
+        "img_caption": [
+            "图2巴丹吉林沙漠样地植物群落丰富度、优势度、多样性及均匀度指数",
+            "Fig.2Plant community richness,dominance,diversity,and evenness index in the BadainJaran Desertplot "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "物种均匀度指数：Pielou均匀度指数 $( J _ { \\mathrm { s w } } )$ 在$0 . 0 4 { \\sim } 1 . 0 0$ 之间变化;Alatato均匀度指数 $\\left( E _ { \\mathrm { a } } \\right)$ 在 $0 . 3 6 \\sim$ 1.00之间变化，两者变化趋势并不完全相同。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "另外，从群落结构的角度研究物种多样性很有意义[6]。本段结合灌木层和草本层两个层片进行综合分析，计算结果见表4。调查区整体Simpson优势度指数 $( C )$ 数值为0.67，灌木层为0.37，草本层为0.30,灌木层优势种更明显；调查区整体Shannon-",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表4巴丹吉林沙漠分层物种多样性指数",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/a0ee03618b638b6e9421fa3b0e0c59eee936fcb82afa27a8965b4c5636c6fa8b.jpg",
+        "table_caption": [
+            "Tab.4 Hierarchical species diversity indexof Badain Jaran Desert "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>C</td><td>H'</td><td>D</td><td>Js</td><td>E</td></tr><tr><td>调查区</td><td>0.67</td><td>2.92</td><td>0.33</td><td>0.92</td><td>0.03</td></tr><tr><td>灌木层</td><td>0.37</td><td>1.31</td><td>0.63</td><td>0.60</td><td>0.63</td></tr><tr><td>草本层</td><td>0.30</td><td>1.61</td><td>0.70</td><td>0.59</td><td>0.58</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Winner多样性指数 $( H ^ { \\prime }$ )数值为2.92，Simpson多样性指数 $( D )$ 数值为0.33，灌木层两种多样性指数数值为1.31和0.63，草本层两种多样性指数分别为1.61和0.70，草本层多样性指数高于灌木层，说明草本植物比灌木植物更多样，符合前文草本植物种类多于灌木植物的结论。调查区整体Pielou均匀度指数$\\left( J _ { \\mathrm { s w } } \\right)$ 数值为0.92，Alatato均匀度指数 $\\left( E _ { \\mathrm { a } } \\right)$ 数值为0.03，灌木层均匀度指数分别为0.60和0.63，草本层均匀度指数分别为0.59和0.58，灌木层均匀度相对较高。总体来说，巴丹吉林沙漠群落整体生物多样性指数偏低，灌木层在群落中占优势且分布均匀，草本层植被种类多样。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.4巴丹吉林沙漠物种多样性与土壤水分的关系",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "巴丹吉林沙漠常年降水较少，蒸发强烈，且沙质土壤储水能力较弱，土壤含水量普遍较低，超过",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$6 1 \\%$ 的区域土壤含水量不足 $5 \\%$ ,调查样地平均含水量为 $6 . 4 \\%$ （图3)，高于赵景波等[34]关于巴丹吉林沙漠沙层含水量的研究结果。本研究中含水量较高的地方多集中在湖岸边，其中土壤含水量最大值为$5 1 . 6 3 \\%$ ,位于沃斯格图，原因在于土壤取样点位于湖岸边，且 $2 0 \\mathrm { c m }$ 深度处即见水面露出。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/32b5c681c4109727ace1d8685ceda63efb2a1a2060b1785e7b9e91bc22d572cc.jpg",
+        "img_caption": [
+            "图3巴丹吉林沙漠采样点土壤含水量分布 Fig.3 Distribution of soil water content at sampling sites in the BadainJaranDesert "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "植物生存过程离不开水，而植物用水最直接的来源为土壤水分，因此，土壤含水量状况能够直接影响植被的生长状况、分布特征及其多样性特征，故进行物种多样性对土壤含水量的响应研究，对于进一步分析植被状况具有十分重要的意义。首先进行相关性分析，各相关系数结果见表5。土壤含水量与各项指数的相关性除Pielou均匀度指数 $\\left( J _ { \\mathrm { { s w } } } \\right)$ 以外，其余均为极显著相关，与Simpson优势度指数$( C )$ 为极显著负相关,与Shannon-Winner多样性指数 $\\left( H ^ { \\prime } \\right)$ 、Simpson多样性指数 $( D )$ 、Alatato均匀度指数 $\\left( E _ { \\mathrm { a } } \\right)$ 均为极显著正相关，表明该地区植物群落的各项指数与土壤含水量具有较强的相关性。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究中Simpson优势度指数 $( C )$ 、ShannonWinner多样性指数 $( H ^ { \\prime }$ )和Simpson多样性指数 $( D )$ 对土壤含水量的响应关系中均为立方函数拟合效果最好(表6)。表明在沙漠环境中,物种的 Simpson优势度指数（C）、Shannon-Winner多样性指数 $\\left( H ^ { \\prime } \\right)$ 和Simpson多样性指数 $( D )$ 随着土壤含水量的增长呈",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/4ac954ff7d9dc64209c298ac1a612ec34b3cbf7fe117563b3e21b67179e95318.jpg",
+        "table_caption": [
+            "Tab.5 Correlation coeficients between species diversity index and soil water content "
+        ],
+        "table_footnote": [
+            "注：\\*\\*表示在0.01水平(双侧)上显著相关。"
+        ],
+        "table_body": "<html><body><table><tr><td>相关系数</td><td>含水量</td><td>C</td><td>H'</td><td>D</td><td>Js</td><td>E</td></tr><tr><td>含水量</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>C</td><td>-0.453**</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>H'</td><td>0.461**</td><td>-0.957**</td><td>1</td><td></td><td></td><td></td></tr><tr><td>D</td><td>0.453**</td><td>-1.000**</td><td>0.957</td><td>1</td><td></td><td></td></tr><tr><td>Jsw</td><td>0.216</td><td>-0.595**</td><td>0.578**</td><td>0.595**</td><td>1</td><td></td></tr><tr><td>E</td><td>0.376**</td><td>-0.889**</td><td>0.727**</td><td>0.889**</td><td>0.553**</td><td>1</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表6各多样性指数对土壤含水量响应模型",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/61cf3a8ed33c58efd75d5da41eda0fd728f47391fd3041f544a92ae32b443b54.jpg",
+        "table_caption": [
+            "表5各物种多样性指数与土壤含水量相关系数",
+            "Tab.6Response models of various diversity indexes to soilwatercontent "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>因变量</td><td>方程</td><td>R</td><td>P</td></tr><tr><td>C</td><td>y=0.834-0.041x+0.003x²-0.00006x</td><td>0.244</td><td>0.000</td></tr><tr><td>H'</td><td>y=0.298-0.053x-0.002x²+0.000008x</td><td>0.282</td><td>0.000</td></tr><tr><td>D</td><td>y=0.166+0.041x-0.003x²+0.00006x</td><td>0.244</td><td>0.000</td></tr><tr><td>Jsw</td><td>y=0.254+0.050x-0.003x²+0.00007x</td><td>0.100</td><td>0.138</td></tr><tr><td>E</td><td>y=0.537+0.050x-0.005x²</td><td>0.167</td><td>0.022</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "三次函数增加。Pielou均匀度指数 $\\left( J _ { \\mathrm { s w } } \\right)$ 和Alatato均匀度指数 $\\left( E _ { \\mathrm { a } } \\right)$ 对土壤含水量的响应关系中拟合效果均较差，因此，还需进一步的研究来分析这两种指数与土壤含水量的响应关系。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "巴丹吉林沙漠植被调查共记录到植物20科52属56种，植物种大多数属于藜科、禾本科、菊科、蒺藜科,与库姆塔格沙漠[62]、库布齐沙漠[63]、乌兰布和沙漠[64-65]、古尔班通古特沙漠[66]等的天然植被调查结果一致。而这些植物种也多以旱生灌木、超旱生灌木以及多年生草本植物为主，表现出典型的沙漠植物群落的特点[67-68],与巴丹吉林沙漠长年日照充足、降水稀少、蒸发强烈，降水蒸发比例严重失衡的自然环境极其相关。灌木植物以其较深的根系来固定土壤从而维持群落环境的稳定性，草本植物受灌木植物及生长环境因素影响尤为明显，它们共同决定了群落物种的多样性。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "群落的物种多样性不仅可以直接反映出群落的结构特征[5]，也是对环境状况的指示。沙漠地区水资源缺乏，自然环境恶劣，植物种数普遍较少导致样地均具有较低的生物多样性指数，但由于调查区范围较大,不同样地间地表形态、土地沙化程度、地表侵蚀状况、水分条件等差异较大，各样地的物种多样性特征存在空间分异。本研究各样方总体Simpson优势度指数 $( C )$ 在0.23\\~0.98之间变化，大部分地区Simpson优势度指数与物种丰富度指数呈相反变化规律，与崔徐甲[2刘铮瑶[58等的研究结果一致。有少部分地区没有表现出这种趋势，可能是由于样地生境特殊，适宜生长的植物种较少，能够存活的灌木和多年生草本占绝对的优势，其他物种数量较少，导致群落物种丰富度高，优势度指数也高。而Pielou均匀度指数 $\\left( J _ { \\mathrm { s w } } \\right)$ 和Alatato均匀度指数$\\left( E _ { \\mathrm { a } } \\right)$ 变化趋势并不完全相同，表明物种均匀度除了受物种丰富度影响以外，还受其他因素影响，如群落生境、群落自身层次结构等。通过对灌木层和草本层的多样性进行分析，灌木在群落中占优势且分布均匀，草本种类多样，表明灌木作为该区域的优势物种，其稳定程度能够决定群落的稳定程度，对于维持沙漠生态系统的稳定性方面具有重要作用。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "植被和土壤是两个相互作用、相互影响的系统，土壤含水量的分布格局是植被与土壤共同作用的结果，是植被耗水与土壤保水、供水能力的平衡。巴丹吉林沙漠群落组成主要依赖于水分对植物生存的限制，故土壤水分的空间异质性直接导致了植物群落特征的空间差异性。巴丹吉林沙漠土壤含水量普遍较低，平均含水量 $6 . 4 \\%$ 左右，所以物种丰富度不高，物种间竞争并不激烈。傅致远[69]和王萌[等的研究结果均表明，土壤水分是影响植物群落结构特征的决定性因素。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本文物种多样性指数与土壤含水量的相关性研究中，土壤含水量与Simpson优势度指数 $( C )$ 为极显著负相关，与Shannon-Winner多样性指数 $\\left( H ^ { \\prime } \\right)$ 、Simpson多样性指数 $( D )$ 、Alatato均匀度指数 $\\left( E _ { \\mathrm { a } } \\right)$ 均为极显著正相关，表明巴丹吉林沙漠地区土壤水分对植被物种多样性有显著影响，土壤水分条件越好，物种丰富度指数、多样性指数、均匀度指数相对较高，优势度指数相对较低；反之，水分条件越差，物种丰富度指数等相对较低，优势度指数相对较高,表现为沙漠腹地湖泊周围地区和沙漠东南边缘地区土壤含水量较高，且Shannon-Winner多样性指数 $( H ^ { \\prime }$ ）、Simpson多样性指数 $( D )$ 、Alatato 均匀度指数 $\\left( E _ { \\mathrm { a } } \\right)$ 均较高，Simpson优势度指数 $( C )$ 较低;而西部和北部地区土壤水分条件较差，各多样性指标变化与前者相反。沙漠腹地湖泊周围地区由于湖泊的存在,地下水-湖泊水-土壤水之间存在某种补给机制，故而土壤水分条件较好，能够充分有效的供植物吸收利用;而沙漠东南边缘地区主要是降水量相对较高，对浅层土壤水存在一定补给作用[]，并且十旱区植物在有限的降水条件下能够有效地吸收降水补给的浅层土壤水,并储存于体内用于其生存生长。也有部分研究表明植物物种多样性对深层土壤水分的响应更为直接\"，这主要与植物类型及根系分布有关,本区域中植物多为灌木及多年生草本植物，在调查过程中进行根系挖掘发现，调查样地内植物吸水根系多分布于干沙层下 $2 0 { \\sim } 6 0 ~ \\mathrm { c m }$ 左右,未接触到地下水，因此,认为该区域植被群落特征主要受浅层( $( 1 0 { \\sim } 6 0 ~ \\mathrm { c m } )$ 土壤水分影响。而土壤含水量与Pielou均匀度指数 $\\left( J _ { \\mathrm { s w } } \\right)$ 相关性并不显著，Pielou均匀度指数 $\\left( J _ { \\mathrm { s w } } \\right)$ 考虑了群落中各物种的相对多度，可能说明除土壤水分以外，还有其他因素限制物种在群落中出现的多度\"。在各种多样性指数对土壤含水量的回归分析发现，各最适模型的决定系数 $\\left( R ^ { 2 } \\right)$ 均较小,表明一定存在其他因素影响植物群落特征，如土壤质地、土壤盐分等也会影响到土壤水分对植物的有效性[73]。即使土壤水分相对较好的地区，较粗的土壤质地更适宜灌木物种生存,盐渍化较为严重的土壤只适宜耐盐碱的植物生存。因此,除土壤水分外的其他因素对植物群落多样性如何影响还有待进一步研究。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（1）巴丹吉林沙漠植物群落中以白刺为优势种的群落数量最多且分布最广，群落的物种多样性指数普遍较低；土壤含水量普遍较低，平均含水量$6 . 4 \\%$ 。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(2）空间分布上，沙漠腹地湖泊周围地区和沙漠东南边缘地区土壤含水量较高，Shannon-Winner多样性指数 $( H ^ { \\prime }$ ）、Simpson多样性指数 $( D )$ 、Alatato均匀度指数 $\\left( E _ { \\mathrm { a } } \\right)$ 均较高，Simpson优势度指数 $( C )$ 较低；西部和北部地区土壤水分条件较差，各多样性指标变化与前者相反。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "（3）在相关性分析中，土壤含水量与Simpson优势度指数 $( C )$ 为极显著负相关,与Shannon-Winner多样性指数 $\\left( H ^ { \\prime } \\right)$ 、Simpson多样性指数 $( D )$ 、Alatato均匀度指数 $\\left( E _ { \\mathrm { a } } \\right)$ 均为极显著正相关。研究结果表明巴丹吉林沙漠群落结构主要依赖于水分对植物生存的限制，土壤水分的空间异质性直接导致了植物群落特征的空间差异性。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References):",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1]吴安驰,邓湘雯,任小丽,等.中国典型森林生态系统乔木层群 落物种多样性的空间分布格局及其影响因素[J].生态学报, 2018,38(21): 7727-7738.[Wu Anchi,Deng Xiangwen,Ren Xiaoli, et al.Biogeographic patterns and influencing factors of the species diversity of tree layer community in typical forest ecosystems in China[J]. Acta Ecologica Sinica,2018,38(21): 7727-7738.]   \n[2]张林静,岳明,张远东,等.新疆阜康绿洲荒漠过渡带植物群落 物种多样性特征[J].地理科学,2003,23(3):329-334.[Zhang Linjing,Yue Ming, Zhang Yuandong,et al. Characteristics of plant community species diversity of Oasis Desert Ecotone in Fukang, Xinjiang[J]. Scientia Geographica Sinica,2003,23(3): 329-334.]   \n[3]张锦春,王继和,赵明,等.库姆塔格沙漠南缘荒漠植物群落多 样性分析[J].植物生态学报,2006,30(3):375-382.[Zhang Jinchun, Wang Jihe, Zhao Ming,et al.Plant community and species diversity in the south fringe of Kumtag Desert[J]. Journal of Plant Ecology,2006,30(3): 375-382.]   \n[4]王蒙,董治宝,逯军峰,等.巴丹吉林沙漠周边植被特征和物种 多样性[J].中国沙漠,2015,35(5):1226-1233.[Wang Meng, Dong Zhibao,Lu Junfeng,et al. Vegetation characteristics and species diversity around the Badain Jaran Desert[J].Joural of Desert Research,2015,35(5):1226-1233.]   \n[5]司建华,冯起,常宗强,等.阿拉善雅布赖风沙区荒漠植物群落 结构和物种多样性研究[J].西北植物学报,2011,31(3):602- 608.[Si Jianhua,Feng Qi, Chang Zongqiang,et al. Community structure and species diversity of desert plants in the wind-sand area of Yabulai[J].Acta Botanica Boreali- Occidentalia Sinica,2011,31 (3): 602-608.]   \n[6]郝文芳,杜峰,陈小燕,等.黄土丘陵区天然群落的植物组成、植 物多样性及其与环境因子的关系[J].草地学报,2012,20(4): 609-615.[Hao Wenfang,Du Feng,Chen Xiaoyan,etal. Composition and diversity analysis of natural-community plants in the Loess hill region[J]. Acta Agrestia Sinica,2012,20(4): 609-615.]   \n[7]李轲,赵勇钢,刘小芳,等.黄土丘陵区典型草地演替中植物群 落特征与土壤储水量关系[J].水土保持通报,2019,39(1):55- 60.[Li Ke,Zhao Yonggang, Liu Xiaofang,et al. Relationship between plant community characteristics and soil water storage along typical grassland succession in Loess hilly region[J]. Bulletin of Soil and Water Conservation,2019,39(1): 55-60.]   \n[8]张立欣,段玉玺,王伟峰,等.库布齐沙漠不同植被类型群落特 征与土壤有机质、全氮、含水量关系研究[J.江西农业大学学 报,2015,37(6): 1044-1051.[Zhang Lixin,Duan Yuxi, Wang Weifeng,et al.Relationships between community characteristics and soil organic mater,total nitrogen,soil moisture content under different vegetation types in the Kubuqi Desert[J]. Acta Agriculturae Universitatis Jiangxiensis,2015,37(6): 1044-1051.]   \n[9]张志南,武高林,王冬,等.黄土高原半干旱区天然草地群落结 构与土壤水分关系[J].草业学报,2014,23(6):313-319.[Zhang Zhinan,Wu Gaolin,Wang Dong,et al.Plant community structure and soil moisture in the semi-arid natural grassland of the Loess Plateau[J]. Acta Prataculturae Sinica,2014,23(6): 313-319.]   \n[10] 濮阳雪华,王春春,苟清平,等.陕北黄土区植被群落特征与土 壤水分关系研究[J].草业学报,2019,28(11):184-191.[Puyang Xuehua,Wang Chunchun, Gou Qingping,et al. Relationship between vegetation community and soil moisture in the loess region of northern Shaanxi Province[J]. Acta Prataculturae Sinica,2019, 28(11): 184-191.]   \n[11] 王萌,徐冰,张大勇,等.内蒙古草原锡林河流域植物群落生物 量及多样性沿土壤水分含量梯度的变化[J.北京师范大学学 报（自然科学版),2016,52(4): 445-449.[Wang Meng,Xu Bing, Zhang Dayong,et al. Changes in plant community biomass and biodiversity along soil moisture content gradients in Xilin River basin,Inner Mongolia[J].Journal of Beijing Normal University (Natural Science),2016,52(4): 445-449.]   \n[12] 崔徐甲,董治宝,逐军峰,等.巴丹吉林沙漠高大沙山区植被特 征与地貌形态的关系[J].水土保持通报,2014,34(5):278-283. [Cui Xujia, Dong Zhibao,Lu Junfeng,et al. Relationship between vegetation feature and physiognomy morphology of mega-dunes in Badain Jaran Desert[J].Bulletin of Soil and Water Conservation, 2014,34(5): 278-283.]   \n[13] 张进虎.巴丹吉林沙漠高大沙山怪柳生态水文指示及其水来源 [D].兰州:兰州大学,2018.[Zhang Jinhu. Study on the Eco-Hydrological Indicators and Water Source of Tamarix laxa in the Mega-Dunes of the Badain Jaran Desert[D]. Lanzhou: Lanzhou University, 2018.]   \n[14] 李新荣,马凤云,龙立群,等.沙坡头地区固沙植被土壤水分动 态研究[J].中国沙漠,2001,21(3):3-8.[Li Xinrong,MaFengyun, Long Liqun, et al. Soil water dynamics under sand-fixing vegetation in Shapotou area[J]. Joural of Desert Research,2O01,21(3): 3-8.]   \n[15] 朱金峰,王乃昂,陈红宝,等.基于遥感的巴丹吉林沙漠范围与 面积分析[J].地理科学进展,2010,29(9):1087-1094.[Zhu Jinfeng,Wang Nai'ang, Chen Hongbao,etal. Study on the boundary andthe area of Bdain Jaran Desert based onremote sensig imagery[J].Progress in Geography,2010,29(9): 1087-1094.]   \n[16]Dong Zhibao,Wang Tao,Wang Xunming. Geomorphology of the megadunes in the Badain Jaran Desert[J]. Geomorphology,2004, 60(1): 191-203.   \n[17] 闫满存,王光谦,李保生,等.巴丹吉林沙漠高大沙山的形成发 育研究[J].地理学报,2001,56(1):83-91.[Yan Mancun,Wang Guangqian,Li Baosheng,et al.Formation and growth of high megadunes in Badain Jaran Desert[J].Acta Geographica Sinica, 2001,56(1): 83-91.]   \n[18] 张伟民,王涛.巴丹吉林沙漠高大沙山形成演化初步探讨[J].中 国沙漠,2005,25(2):139-144.[Zhang Weimin,Wang Tao.Approach to formation and evolution of megadunes in Badain Jaran Desert[J]. Joural of Desert Research,2005,25(2): 139-144.]   \n[19] 陈建生,赵霞,盛雪芬,等.巴丹吉林沙漠湖泊群与沙山形成机 理研究[J].科学通报,2006,51(23):2789-2796.[Chen Jiansheng,Zhao Xia,. Sheng Xuefen,et al. Study on formation mechanism of lake group and sand mountain in Badain Jaran Desert[J]. Chinese Science Bulletin,2006,51(23): 2789-2796.]   \n[20] 白肠.巴丹吉林沙漠高大沙山的内部结构及形成过程研究[D]. 兰州：兰州大学,2O11.[Bai Yang.Internal Structure and Formation Process of Mega-Dunes in the Badain Jaran Desert[D]. Lanzhou: Lanzhou University,2011.]   \n[21] 刘陶,杨小平,董巨峰,等.巴丹吉林沙漠沙丘形态与风动力关 系的初步研究[J].中国沙漠,2010,30(6):1285-1291.[Liu Tao, Yang Xiaoping,Dong Jufeng, et al.A preliminary study of relation between megadune shape and wind regime in the Badain Jaran Desert[J]. Joural of Desert Research,2010,30(6): 1285-1291.]   \n[22] 王莉萍.基于地貌学原理的巴丹吉林沙漠金字塔沙丘形态和形 成过程的研究[D].西安:陕西师范大学,2013.[Wang Liping. Study on the Formation and Formation Process of Pyramid Sand Dunes in Badain Jaran Desert Based on the Principle of Geomorphology[D]. Xi'an: Shaanxi Normal University,2013.]   \n[23] 宁文晓,王振亭.巴丹吉林沙漠东南部典型高大沙丘形态参数 分析[J].福建农林大学学报(自然科学版),2018,47(6):755- 763.[Ning Wenxiao,Wang Zhenting.Analysis of morphological parameters of mega-dunes in the southeast of Badain Jaran Desert [J]. Journal of Fujian Agriculture and Forestry University (Natural Science Edition),2018,47(6): 755-763.]   \n[24] 屈建军,常学礼,董光荣,等.巴丹吉林沙漠高大沙山典型区风 沙地貌的分形特性[J].中国沙漠,2003,23(4):27-31.[Qu Jianjun, Chang Xueli, Dong Guangrong,etal.Fractal behaviorof aeolian sand landform in typical megadune area of Badain Jaran Desert [J]. Joural of Desert Research,2003,23(4): 27-31.]   \n[25] 钱广强,董治宝,罗万银,等.巴丹吉林沙漠地表沉积物粒度特 征及区域差异[J].中国沙漠,2011,31():1357-1364.[Qian Guangqiang,Dong Zhibao,Luo Wanyin,et al. Grain size characteristics and spatial variation of surface sediments in the Badain Jaran Desert[J]. Joural of Desert Research,2011,31(6): 1357-1364.]   \n[26] 崔徐甲,董治宝,罗万银,等.巴丹吉林沙漠高大沙山沉积物粒 度特征及其与植被、地貌关系[J].中国沙漠,2015,35(4):857- 864.[Cui Xujia,Dong Zhibao,Luo Wanyin,etal.Grain size characteristics of mega-dunes in the Badain Jaran Sand Sea and its correlation with vegatation and land form[J].Joural of Desert Research,2015,35(4): 857-864.]   \n[27］ 李恩菊,董治宝,赵景波.巴丹吉林沙漠典型高大沙山迎风坡粒 度特征[J].干旱区地理,2011,34(3):471-478.[Li Enju,Dong Zhibao,Zhao Jingbo.Grain size distribution of the aeolian sediments on the stoss slope of a typical mega-dune in the Badain Jaran Desert[J]. Arid Land Geography,2011,34(3): 471-478.]   \n[28] 刘铮瑶,董治宝,萨日娜,等.巴丹吉林沙漠边缘沉积物粒度和 微形态特征空间分异[J].中国沙漠,2018,38(5):945-953.[Liu Zhengyao,Dong Zhibao,Sa Rina,et al. Grain size and micro-morphology characteristics of the surface sediments in the marginal area of the Badan Jaran Desert[J]. Joural of Desert Research,2018, 38(5): 945-953.]   \n[29] 郭永海,王海龙,董建楠,等.关于巴丹吉林沙漠湖泊形成机制 的初步看法[J]).地球科学(中国地质大学学报),2012,37(2): 276-282.[Guo Yonghai,Wang Hailong, Dong Jiannan,et al. The primary opinion on the formation mechanisms of megadunes and lakes in the Badain Jaran DesertJ].Earth Science-Journal of China University of Geosciences,2012,37(2): 276-282.]   \n[30]马素辉,李卓仑,王乃昂,等.地下水补给型湖泊表层沉积物矿 物组成及其形成机制——以巴丹吉林沙漠湖泊群为例[J].湖 泊科学,2015,27(4):727-734.[Ma Suhui,Li Zhuolun,Wang Nai'ang,et al. Mineralogical assemblages in surface sediments andits formation mechanism in the groundwater recharged lakes: A case studyof lakes in the Badain Jaran Desert[J]. Journal of Lake Sciences,2015,27(4): 727-734.]   \n[31]王涛.巴丹吉林沙漠形成演变的若干问题[J].中国沙漠,1990, 10(1):32-43.[Wang Tao.Formation and evolution of Badain Jaran Desert[J]. Joural of Desert Research,1990,10(1): 32-43.]   \n[32] 陈建生,赵霞,盛雪芬,等.同位素地球化学方法研究巴丹吉林 沙漠高大沙山与湖泊水补给源[J].地质学报,2005,79(4):576. [Chen Jiansheng,Zhao Xia, Sheng Xuefen, etal. Isotope geochemical method to study water supply sources of tall sand hills and lakes in Badain Jaran Desert[J].Acta Geologica Sinica,2005,79 (4): 576.]   \n[33] 董春雨.阿拉善沙漠水循环观测实验与湖泊水量平衡[D].兰 州：兰州大学,2011.[Dong Chunyu. Observation Experiment of the Water Cycle and Lake Water Balance in Alax Deaert[D]. Lanzhou: Lanzhou University,2011.]   \n[34] 赵景波,邵天杰,侯雨乐,等.巴丹吉林沙漠高大沙山区沙层含 水量与水分来源探讨[J].自然资源学报,2011,26(4): 694-702. [Zhao Jingbao,Shao Tianjie,Hou Yule,et al. Moisture content of sand layer and its originin a mega-dune area in the Badain Jaran Desert[J]. Journal of Natural Resources,2011,26(4): 694-702.]   \n[35]Shao Tianjie, Zhao Jingbo, Zhouqi, et al. Recharge sources and chemical composition types of groundwater and lake in the Badain Jaran Desert,northwestern China[J].Journal of Geographical Sciences,2012,22(3): 479-496.   \n[36] 丁宏伟,郭瑞,蓝永超,等.再论巴丹吉林沙漠湖泊水的补给来 源、补给模式与高大沙山的形成机理[J].冰川冻土,2015,37 (3): 783-792.[Ding Hongwei, Guo Rui,Lan Yongchao,etal. Study on the supplying resource and mode of lakes in the Badain Jaran Desert and the formation mechanism of mega-dunes[J]. Journal of Glaciologyand Geocryology,2015,37(3): 783-792.]   \n[37]梁晓燕.基于观测的巴丹吉林沙漠湖泊区“暖岛效应\"研究[D]. 兰州：兰州大学,2016.[Liang Xiaoyan.Research on Warm Island Effect in Badain Jaran Desert Based on Observation Data[D]. Lanzhou: Lanzhou University,2016.]   \n[38]邓小波.巴丹吉林沙漠暖岛效应时空变化及其影响因素分析 [D].兰州:兰州大学,2018.[Deng Xiaobo.Spatiotemporal Changes of Warm Island in Badain Jaran Desert and Its Influencing Factors[D]. Laznhou: Lanzhou University,2018.]   \n[39] 杨小平.巴丹吉林沙漠腹地湖泊的水化学特征及其全新世以来 的演变[J].第四纪研究,2002,22(2):97-104.[Yang Xiaoping. Water chemistry of the lakes in the Badain Jaran Desert and their Holocene evolutions[J]. Quaternary Sciences,2002,22(2): 97-104.]   \n[40] 陆莹,王乃昂,李贵鹏,等.巴丹吉林沙漠湖泊水化学空间分布 特征[J].湖泊科学,2010,22(5): 774-782.[Lu Ying,Wang Nai' ang,Li Guipeng,et al. Spatial distribution of lakes hydro-chemical types in Badain Jaran Desert[J]. Journal of Lake Sciences,2010, 22(5): 774-782.]   \n[41] 邵天杰,赵景波,董治宝.巴丹吉林沙漠湖泊及地下水化学特征 [J].地理学报,2011,66(5): 662-672.[Shao Tianjie, Zhao Jingbo, Dong Zhibao.Water chemistry of the lakes and groundwater in the Badain JaranDesert[J].Acta GeograpicaSinica,211,6(5):6 672.]   \n[42] 陆莹.巴丹吉林沙漠湖泊水化学时空分布特征及其成因初探 [D].兰州:兰州大学,2012.[Lu Ying.Anaysis of Spatiotemporal Variations Characters and the Cause of Its Formation of the Badain Jaran Desert Lake[D].Lanzhou: Lanzhou University,2012.]   \n[43] 吴月,王乃昂,赵力强,等.巴丹吉林沙漠诺尔图湖泊水化学特 征与补给来源[J].科学通报,2014,59(12):1140-1147.[Wu Yue,Wang Nai'ang, Zhao Liqiang,et al. Hydrochemical characteristics and sources of replenishment of Nortu Lake in Badain Jaran Desert[J]. Chinese Science Buletin, 2014,59(12): 1140-1147.]   \n[44]吕晓楠.巴丹吉林沙漠全新世湖泊沉积物分析与环境重建[D]. 兰州:兰州大学,2014.[Lyu Xiaonan.Analysis of Lake Sediment and Its Palaeoenvironment Reconstruction in the Badain Jaran Desert during the Holocene[D]. Lanzhou:Lanzhou University, 2014.]   \n[45] 潘燕辉.巴丹吉林沙漠包气带硝酸盐循环富集特征及其对古水 文气候环境的响应[D].兰州:兰州大学,2014.[PanYanhui. $\\mathrm { N O } _ { 3 } ^ { - }$ Circulation in Vadose Zone and Its Response to Paleao-Hydrology and Environment of Badain Jaran[D]. Lanzhou: Lanzhou University, 2014.]   \n[46] 黄天明.应用环境同位素研究巴丹吉林沙漠地下水补给来源 [D].兰州:兰州大学,20O7.[Huang Tianming.Groundwater Recharge Source in Badain Jaran Desert: Evidence from Environmental Isotopes[D].Lanzhou: Lanzhou University,2007.]   \n[47] 黄天明,庞忠和.应用环境示踪剂探讨巴丹吉林沙漠及古日乃 绿洲地下水补给[J].现代地质,2007,21(4):624-631.[Huang Tianming,Pang Zhonghe. Groundwater recharge in Badain Jaran Desert and Gurinai Oasis based on environmental tracers[J]. Geoscience,2007, 21(4): 624-631.]   \n[48] 马金珠,黄天明,丁贞玉,等.同位素指示的巴丹吉林沙漠南缘 地下水补给来源[J].地球科学进展,2007,22(9): 922-930.[Ma Jinzhu,Huang Tianming,Ding Zhenyu,et al. Environmental isotopes as the indicators of the groundwater recharge in the south Badain Jaran Desert[J].Advances in Earth Science,2007,22(9): 922-930.]   \n[49] 安帅,王乃昂,陈会丽,等.基于SOFM网络的巴丹吉林沙漠湖 泊聚类及其地下水补给来源推断[J].中国沙漠,2014,34(2): 574-581.[An Shuai, Wang Nai'ang,Chen Huili,et al. The lakes’ clustering of the Badain Jaran Desert based on SOFM network and inferences of their sourcesof groundwater recharge[J]. Joural of Desert Research,2014, 34(2): 574-581.]   \n[50] 魏世博,聂振龙,申建梅,等.巴丹吉林沙漠南缘地下水补给机 制研究[J].人民黄河,2019,41(2):88-93.[Wei Shibo,Nie Zhenlong, Shen Jianmei, et al. Research on groundwater recharge mechanism in the south fringe of Badain Jaran Desert[J]. Yellow River, 2019,41(2): 88-93. ]   \n[51] 杨小平.近3万年来巴丹吉林沙漠的景观发育与雨量变化[J]. 科学通报,200,45(4): 428-434.[Yang Xiaoping.Landscapedevelopment and rainfall change of Badain Jaran Desert in the last 30,000 years[J]. Chinese Science Bulletin,2000,45(4): 428-434.]   \n[52] 马宁,王乃昂,李卓仑,等.1960—2009年巴丹吉林沙漠南北缘 气候变化分析[J].干旱区研究,2011,28(2):242-250.[Ma Ning, Wang Nai'ang,Li Zhuolun,et al.Analysis on climate change in the northern and southern marginal zones of the Badain Jaran Desert during the period 1960-2009[J]. Arid Zone Research,2011, 28 (2): 242-250.]   \n[53]马宁,王乃昂,朱金峰,等.巴丹吉林沙漠周边地区近50a来气 候变化特征[J].中国沙漠,2011,31(6):1541-1547. [Ma Ning, Wang Nai'ang,Zhu Jinfeng,etal. Climate change around the Badain Jaran Desert in recent 5O years[J].Joural of Desert Research, 2011, 31(6): 1541-1547.]   \n[54] 张克存,姚正毅,安志山,等.巴丹吉林沙漠及其毗邻地区降水 特征及风沙环境分析[J].中国沙漠,2012,32(6):1507-1511. [Zhang Kecun,Yao Zhengyi,An Zhishan,et al.Wind-blown sand environment and precipitation over the Badain Jaran Desert and its adjacent regions[J]. Joural of Desert Research,2012,32(6): 1507-1511.]   \n[55] 杨帆,买买提艾力·买买提依明,何清,等.巴丹吉林沙漠拐子湖 地表辐射与能量平衡特征[J].中国沙漠,2015,35(6):1636- 1643.[Yang Fan,Ali Mamtimin,He Qing,et al. Surface radiation and energy balance in the Guaizi Lake of the Badain Jaran Desert [J]. Joural of Desert Research,2015,35(6): 1636-1643.]   \n[56] 许兴斌,王乃昂,梁晓燕,等.巴丹吉林沙漠高大沙山近地层温 湿廓线与能量交换特征[J].中国沙漠,2018,38(6):1303-1312. [Xu Xingbin,Wang Nai'ang, Liang Xiaoyan,et al. Temperature, humidity profiles and heat balance in the megadune surface layer of the Badain Jaran Desert[J]. Joural of Desert Research,2018,38 (6): 1303-1312.]   \n[57] 王蒙,董治宝,罗万银,等.巴丹吉林沙漠南缘植被物种多样性 及其与土壤特性的关系[J].西北植物学报,2015,35(2):379- 388.[Wang Meng, Dong Zhibao,Luo Wanyin, et al. Species diversity of vegetation and its relationship with soil characteristics in the southern marginal zone of the Badain Jaran Desert[J].Acta Botanica Boreali-Occidentalia Sinica, 2015,35(2): 379-388.]   \n[58] 刘铮瑶,董治宝,王建博,等.巴丹吉林沙漠边缘地区植被特征 [J].中国沙漠,2016,36(5): 1348-1356.[Liu Zhengyao,Dong Zhibao,Wang Jianbo,et al. Vegetation characteristics in the marginal areas of the Badain Jaran Desert[J].Joural of Desert Research, 2016,36(5): 1348-1356.]   \n[59] 方炎明.试谈植物分类学方法[J].南京林业大学学报(自然科学 版),1990,14(1): 89-94.[Fang Yanming.A review of current plant taxonomy[J].Journal of Nanjing Forestry University,1990,14(1): 89-94.]   \n[60]王森林,董善虎,孔雨光,等.植物名称及学名书写规范化[J].曲 阜师范大学学报(自然科学版),2012,38(4):80-84.[Wang Senlin,Dong Shanhu,Kong Yuguang,et al. Suggestion on the normalization in using the plant name and its scientific name[J]. Journal of Qufu Normal University,2012,38(4): 80-84.]   \n[61] 谢晋阳,陈灵芝.暖温带落叶阔叶林的物种多样性特征[J].生态 学报,1994,14(4): 337-344.[Xie Jinyang,Chen Lingzhi. Species diversity characteristics of deciduous forests in the warm temperate zone of north China[J].Acta Ecologica Sinica,1994,14(4): 337-344.]   \n[62] 张锦春.库姆塔格荒漠草地植被生态与环境变化[D].兰州:甘 肃农业大学,2015.[Zhang Jinchun.Desert Steppe Vegetation Ecology and Environmental Changes in Kumtag Desert[D]. Lanzhou: Gansu Agricultural University,2015.]   \n[63]姜春义.内蒙古库布齐沙漠地区植物多样性及其保护研究[D]. 呼和浩特:内蒙古师范大学,2016.[Jiang Chunyi. Study on the Plant Diversity and Conservation in Kubuqi Desert of Inner Mongolia Region[D]. Hohhot: Inner Mongolia Normal University,2016.]   \n[64] 杨光,郝玉光,包斯琴,等.乌兰布和沙漠绿洲东缘植被群落结 构及物种多样性研究[J].水土保持研究,2016,23(3):257-261. [Yang Guang,Hao Yuguang,Bao Siqin, et al. Study on the community structure and species diversity in the eastern margin of the Ulanbuh Desert Oasis[J].Research of Soil and Water Conservation,2016,23(3): 257-261.]   \n[65] 董雪,辛智鸣,段瑞兵,等.乌兰布和沙漠典型灌木群落多样性 及其生态位[J].干旱区研究,2020,37(4):1009-1017.[Dong Xue,Xin Zhiming,Duan Ruibing,et al. Ulanbuh desert typical shrub species diversity and niche of shrub dominant species[J]. Arid Zone Research,2020,37(4): 1009-1017.]   \n[66] 刘忠权.古尔班通古特沙漠南缘植被物种多样性及其分异研究 [D].石河子:石河子大学,2011.[Liu Zhongquan. Species Diversity and Spatial Variation of Plant Community in the Southern Part of the Gurbantunggut Desert[D]. Shihezi: Shihezi University,2011.]   \n[67] 张立运,陈昌笃.论古尔班通古特沙漠植物多样性的一般特点 [J].生态学报,2002,22(11):1923-1932.[Zhang Liyun, Chen Changdu.On the general characteristics of plant diversity of Gurbantunggut Sandy Desert[J]. Acta Ecologica Sinica,2OO2,22(11): 1923-1932.]   \n[68] 段义忠,李娟,杜忠毓,等.毛乌素沙地天然植物多样性组成及 区系特征分析[J].西北植物学报,2018,38(4):770-779.[Duan Yizhong,Li Juan,Du Zhongyu, et al.Analysis of biodiversity and flora characteristics of natural plants in Mu Us Land[J].Acta Botanica Boreali-Occidentalia Sinica,2018,38(4):770-779.]   \n[69] 傅致远,姜宏,王国强,等.半干旱草原区土壤性质对植物群落 结构的影响[J].生态学杂志,2018,37(3):823-830.[Fu Zhiyuan, Jiang Hong, Wang Guoqiang,et al. Effcts of soil properties on plant community structure in a semi- arid grassland[J]. Chinese Journal of Ecology,2018,37(3): 823-830.]   \n[70]冯起，程国栋.我国沙地水分分布状况及其意义[J].土壤学报, 1999,36(2): 225-236.[Feng Qi, Cheng Guodong. Moisture distribution and movement in sandy lands of China[J].Acta Pedologica Sinica,1999,36(2): 225-236.]   \n[71] 徐满厚,薛娴.青藏高原高寒草甸夏季植被特征及对模拟增温 的短期响应[J].生态学报,2013,33(7):2071-2083.[Xu Manhou,Xue Xian.A research on summer vegetation characteristics & short-time responses to experimental warming of alpine meadow in the Qinghai-Tibetan Plateau[J].Acta Ecologica Sinica, 2013,33 (7) : 2071-2083.]   \n[72] 马瑞,赵锦梅.东祁连山河谷高寒草地植被群落特征及其与土 壤性状的关系[J].干旱区研究,2020,37(2):374-381.[Ma Rui, Zhao Jinmei. Relationship between the grassland and soil conditions in the Eastern Qilian Mountains[J].Arid Zone Research, 2020,37(2): 374-381.]   \n[73] 刘俊廷,张建军,王恒星,等.晋西黄土区不同退耕年限油松林 草本多样性与土壤养分的关系[J.干旱区研究,2020,37(2): 400-409.[Liu Junting, Zhang Jianjun, Wang Hengxing,et al. Relationship between species diversity at the herbaceous stratum and soil nutrients inPinus tabulaeformis plantations of various ages on the Loess Plateau of western Shanxi Province, China[J].Arid Zone Research,2020,37(2): 400-409.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Study on the relationship between vegetation community characteristics and soil moisture in Badain Jaran Desert ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "QIN Jie'²， SI Jianhua'， JIA Bing'²， ZHAO Chunyan'，LI Duan1²,LUO Huan'², REN Lixin³",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(1.Key Laboratory of Eco-Hydrology of Inland River Basin,Northwest Institute of Eco-Environment   \nResources, Chinese Academy of Sciences,Lanzhou 73oooo,Gansu,China;2.University of Chinese Academy of Sciences,Beijing 1Oo049,China; 3.Upstream Hydrology and Water Resources Bureau of Yellow River Conservancy Commission,Lanzhou 73oooo,Gansu, China) ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Following investigation and sampling of Badain Jaran Desert periphery and hinterland, this study has summarized the life forms and community types of vegetation in the area,analyzed the diversity,dominance,and evenness index of vegetation,and then investigated the response of vegetation community to soil water. The results obtained are as folows.First,atotal of 52 generaand 56 species of plants belonging to 20 families were recorded in thissurvey,which belonged to 8 types of life forms,including arbors,smallarbors,shrubs,small shrubs,semi-shrubs,grassy vines,perennial herbs,and annual herbs.The vegetation communities were mostly shrubs and perennial herbs,and most of them were desert xerophytes or super xerophytic perennials.Second, the overall biodiversity index of the Badain Jaran Desert community is low,whereas the species richness and diversity indices around the lakes in the desert hinterlandare relatively high,and those in the marginal area are low.The shrub layer is dominant and uniformly distributed in the plant community,and the herb layer consists of various forms of vegetation. Third,the Badain Jaran Desert has low soil water content,and more than $61 \\%$ of the region has less than $5 \\%$ soil moisture. The soil moisture content is negatively correlated with the Simpson dominance index $( C )$ ,and positively correlated with the Shannon-Winner diversity index $( H ^ { \\prime } )$ , Simpson Diversity Index $( D )$ ， and Alatato uniformity index $\\left( E _ { \\mathrm { a } } \\right)$ . Additionally, Simpson Dominance Index $( C )$ ，Shannon- Winner Diversity Index $( H ^ { \\prime }$ )，and Simpson Diversity Index $( D )$ have good cubic function fitting effect on response relations of soil moisture. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Badain Jaran Desert; species diversity； community characteristics； soil water content ",
+        "page_idx": 15
+    }
+]

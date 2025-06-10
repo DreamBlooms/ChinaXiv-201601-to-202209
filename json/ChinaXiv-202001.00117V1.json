@@ -1,0 +1,314 @@
+[
+    {
+        "type": "text",
+        "text": "空间频率影响恐惧面孔表情加工的神经通路",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "贺则宇1张紫琦¹ 李可轩¹ 何蔚祺1(1辽宁师范大学脑与认知神经科学研究中心,大连116029)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 恐惧情绪由于其具有威胁性而优先得到有效的加工。其中空间频率作为处理面孔信息的基础成分，通过不同的神经通路影响恐惧面孔表情的加工。双通路观点认为在皮层下通路上，低空间频率的恐惧面孔表情存在优先传递性，高空间频率则主要通过皮层通路对恐惧面孔表情进行精细化加工；而多通路则能够更加灵活地处理空间频率对情绪加工的影响。未来研究应明确脑区及其子区域在多条通路上的作用，从而进一步验证视觉信息是如何影响情绪加工的。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 空间频率；恐惧面孔表情；皮层下通路；皮层通路；多通路",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在整个人类进化过程中，对重要事件相关情绪的快速分析，特别是对威胁信号的快速加工，对生存是非常有益的。以往对情绪加工的研究表明，相对于中性刺激，我们的注意资源往往优先分配给威胁性刺激(Vuilleumier,Armony,Driver,&Dolan,2003),当个体面对威胁性刺激时，恐惧是会自发产生的一种防御性的情绪反应。在研究恐惧情绪的过程中，面孔材料通常作为情绪载体进行研究。情绪类别理论(categorical theoryof emotion)认为，人们会依据面孔的结构特征对面孔表情进行加工(Hassin,Aviezer,&Bentin,2013)。而这些面孔结构特征可以通过傅里叶变换分解视觉信号来得到，即将整体刺激分解为多种原始成分,它们在空间频率上具有不同的方向、幅度和相位(Webster,De Valois,& Switkes,1990)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "空间频率(spatial frequency，SF)被定义为空间距离单位上的亮度变化，通常以每一视角 $( \\mathrm { c / d } )$ 的周期表示(Jeantet, Caharel, Schwan,Lighezzolo-Alnot,& Laprevote,2018)。其中，低空间频率(low spatial frequency，LSF)信息（ $_ { \\mathrm { < } 8 \\mathrm { \\scriptsize ~ c / d } } \\backslash$ ）主要和面孔粗略地整体加工有关，加工速度较快，信息通过大细胞通路(magnocellular channels)传递到背侧通路(dorsal stream) 以及皮层下区域(subcortical regions)(Cushing,Im,Adams Jr,Ward,&Kveraga,2019)，该过程有利于侦测威胁性或者紧急性视觉事件(Carretie,Hinojosa,Lopez-Martin,& Tapia,2007)。与之相对的高空间频率 (high spatial frequency，HSF)信息（ $\\mathrm { > } 2 4 \\ \\mathrm { c / d }$ ）则主要和面孔的精细加工有关，加工速度较慢，信息经由小细胞通路(parvocellular channels)传递到达腹侧视觉皮层(ventral visual cortex)(Cushing et al.,2019)，其神经节细胞具有较小的接受场，对发生在较小的图像区域上的亮度变化进行反应(Merigan&Maunsell,1993)。综上，低空间频率成分传递的面孔信息涉及整体化加工，多传递模糊的情绪信息；而高空间频率成分传递的面孔信息多涉及精细化加工，例如与年龄特征和面孔表情相关的皱纹和眼白等信息(Liu,Collin,Rainville,&Chaudhuri, 2000)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "不同于其他情绪刺激，与威胁性刺激的相关信息可以通过专门的机制得到快速有效地处理(Adolphs et al.,2005;LeDoux,1998; Ohman& Mineka,2001)，这推动了专用神经通路的发展(Ohman& Mineka,2001; Tamietto&DeGelder,2010)。对此，情绪加工的双通路模型提出，情感信息的处理存在两条平行的通路：皮层下的“低路”，向杏仁核(amygdala，AMG)提供快速但粗略的生物学信号，以及通过皮层视觉区域处理提供详细信息的较长、较慢的皮层上的“高路”(LeDoux,1998;Ohman,2005; Tamietto& DeGelder,2010)。Bar在2003年的研究中则表明，加工空间频率信息的视觉神经通路和处理情绪刺激的神经回路之间存在很高的相关性(Bar,2003)。视觉和情绪系统存在广泛联系，皮层与皮层下也是紧密相连的，这意味着在处理视觉图像刺激时，空间频率信息利用多条神经通路对情绪刺激进行加工(Vuilleumier etal.,2003)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中低空间频率的恐惧面孔比高空间频率的恐惧面孔诱发更大的杏仁核，上丘(superior colliculus，SC)和丘脑枕核(pulvinar，Pulv)的激活，这表明粗略恐惧信息在皮层下通路(subcortical pathways)存在快速传递的优先性(Vuilleumier et al.,2003)。但近年来有研究认为观察者主要使用高空间频率而不是低空间频率信息来区分恐惧面孔和其他表情(Stein,Seymour,Hebart,& Sterzer,2014)。还有假说认为被试可以根据任务需求或策略灵活地加工空间频率信息(Goffaux,Jemel, Jacques,Rossion,& Schyns,2003;Peyrin etal.,2005)。低空间频率信息指向面孔的存在，高空间频率信息指明面孔的身份，这两者对于检测潜在威胁都是必不可少的。较快传递的低空间频率信息可能会生成对面孔的初始、粗略的印象，来指导由高空间频率传达的详细信息的加工(Bar,2003;Bullier,Hupé,James,&Girard,2001)。总之，感知视觉刺激的处理除了依赖于低空间频率信息之外，也同样依赖于高空间频率信息，因此未来将高低空间频率信息综合起来研究恐惧面孔情绪的加工可以帮助我们更完整的理解威胁性信息的加工。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文主要整理了空间频率影响恐惧面孔表情加工的神经通路证据和质疑，对当前关于恐惧情绪刺激加工的神经通路的观点进行总结和展望。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2低空间频率影响恐惧面孔表情加工的神经通路",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1低空间频率影响恐惧面孔表情加工的皮层下神经通路",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "情绪的早期视觉信息加工研究发现，视觉信息影响情绪加工存在着特定通路：来自视网膜的少数纤维能够通过皮层下通路到达上丘和丘脑枕核，最后到达情绪处理中枢—一杏仁核。其中上丘是皮层下神经通路的关键组成部分，是最早对粗糙(即低空间频率)情绪刺激做出反应的视网膜后皮层下结构，主要功能包括优先调节到较低空间频率的大细胞神经元(Markus etal.,2009)；丘脑枕核在该通路中也起着重要作用，作为信息从上丘传递到杏仁核的中间途径，负责将从上丘接受到的视觉信息快速传递到杏仁核(陈珊珊,蔡厚德,2015)。对情绪刺激的神经处理的研究表明，杏仁核是传导对威胁性信息并做出适应性反应的重要节点(Phelps&LeDoux,2005;Vuilleumier,2005)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Morris 等人(1999)提出这条皮层下神经通路对信息传递具有重要意义，其主要负责对视觉情绪信息进行自动快速的加工，可以快速处理威胁性刺激，如恐惧的面部表情，并在很大程度上在无意识层面自动运作。Garvert等人(2014)进一步印证了通往杏仁核的皮层下通路在面孔的快速感觉处理中起作用，特别是在早期刺激加工过程中。皮层下通路 $( 8 0 { \\sim } 9 0 ~ \\mathrm { m s } )$ 的突触整合时间比皮层视觉流 $1 4 5 { \\sim } 1 7 0 \\ \\mathrm { m s } \\$ 快，支持了杏仁核皮层下快速输入信息的概念(Silverstein&Ingvar,2015)，来自颅内脑电(intracranialelectroencephalogram，iEEG)的结果也表明杏仁核对恐惧面孔表情的反应早在 $7 4 ~ \\mathrm { m s }$ 左右便产生，其反应潜伏期明显快于在梭形皮质区观察到的潜伏期(Méndez-Bértolo et al.,2016)，而近年来将扩散张量成像(DTI)技术运用到研究中也为皮层下通路提供了更多的解剖学 证 据（McFadyen，Mattingley，&Garrido，2019;Tamietto，Pullens，de Gelder,Weiskrantz,&Goebel,2012)，进一步说明了皮层下通路为杏仁核提供快速但粗略的威胁相关信号。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2低空间频率影响恐惧面孔表情加工的证据",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "行为数据的结果发现个体对影响情绪效价的低空间频率和高空间频率信息存在敏感性差异。在对恐惧刺激的低空间频率信息加工时，会产生更加快速的反应(Holmes,Green，& Vuilleumier，2005；Mermillod，Droit-Volet，Devaux，Schaefer，& Vermeulen,2010)，与高空间频率信息相比，人们对低空间频率处理过的面孔的检测速度更快(Holmes et al.,2005;Vlamings,Goffaux,& Kemner,2009)；其中在对不同高低空间频率信息的面孔性别进行判断时，低空间频率恐惧面孔的识别的准确度要显著高于高空间频率的恐惧面孔的识别(Bocanegra& Zeelenberg,2009;Holmes et al.,2005)。根据上述高低空间频率加工的差异，由于对较粗糙面孔信息的判断不需要太大的精确度，低空间频率信息在加工速度和准确性上存在优势。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "功能性磁共振成像(functional magnetic resonance imaging,fMRI)的研究结果也支持了促进粗略视觉信息，即低空间频率成分在上丘－丘脑枕核－杏仁核快速通路上得到早期处理的主导假设(Vuileumier et al.,2003; Zhang,Zhou,Wen,&He,2015)。其中有研究显示恐惧面孔激活了上丘和丘脑枕核，特别是低空间频率恐惧面孔，这表明上丘-丘脑枕核－杏仁核皮层下通路可能为杏仁核传递粗略的恐惧相关信息(Vuilleumier et al.,2003)。Burra(2017)等人在双侧视野“盲视”的病人TN身上发现只有低空间频率恐惧面孔激活了杏仁核，进一步表明低空间频率恐惧情绪信息的传递可能依赖于皮层下的上丘－丘脑枕核－杏仁核通路。目前人类视觉系统中情绪处理的主流观点认为，对威胁性视觉刺激的初步分析绕过了视觉皮层，并通过上丘和丘脑枕核参与的一种特殊的皮层下通路，从视网膜投射到杏仁核。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "然而，来自血液动力学的大脑信号没有提供有关视觉皮层对低空间频率情绪刺激的反应潜伏期的信息。通过高时间分辨率的事件相关电位(ERP)技术对情绪面孔处理的时间特征进行的探索可以进一步验证低空间频率在皮层下通路上的优势性。有研究表明，在情绪处理的早期阶段，低空间频率信息可以快速提取威胁相关刺激(面部和场景)，如P1和N170成分所反映的那样，对低空间频率的情绪面孔的波幅比对低空间频率的中性面孔的波幅要大，且低空间频率信息诱发的P1和N170波幅大于高空间频率信息所 诱发 的(Pourtois,Dan,Grandjean， Sander,& Vuilleumier,2Oo5；Tian et al.，2018;Vlamings etal.,2009)，颅内脑电(iEEG)则提供了直接电生理学证据表明了空间频率影响恐惧加工时杏仁核所产生的相关反应，其结果显示杏仁核的快速反应仅限于低空间频率的恐惧面孔(Mendez-Bértolo et al.,2016)。因此，低空间频率与情绪神经处理的相关性得到了明确的支持。综合来看，情绪加工在不同的时间处理阶段被选择性地调节到不同的空间频率信息上，而低空间频率主要在情绪加工的早期阶段具有处理的优势。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3低空间频率影响恐惧面孔表情加工的质疑",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "有fMRI的研究发现，丘脑枕核对视觉刺激的情绪意义没有反应，而是对刺激是否被有意识地感知有反应。这些结果不支持关于丘脑枕核参与了无意识加工过程中的说法，并且与其在皮层下通路中起主要作用的观点不一致(Padmala,Lim,&Pessoa,2010)。而且通过测量和对比大脑各区域的反应潜伏期来评估视觉处理的速度，结果发现皮层下的视觉处理并不能比皮层处理更快地识别信息(Pessoa＆Adolphs,2010)。这使研究人员对人类和动物研究中广泛存在的皮层下通路提出质疑，进而思考恐惧反应是否会因为低空间频率信息的加工优先得到处理而更快产生？",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "McFadyen 等人2017年的研究通过脑磁图（magnetoencephalography，MEG）测量大脑的神经活动，让被试判断低空间频率和高空间频率过滤后的中性情绪和恐惧情绪面孔的性别，应用动态因果模型探索所有存在信息传递性的神经网络。通过数据驱动对这两条通路进行神经模拟，证据表明杏仁核活动时皮层下连接具有明显时间优势，即皮层下通路在视觉处理中，对快速传输原始、未经过滤的信息到杏仁核的加工过程有广泛作用，支持了快速皮层下通路的存在。但丘脑枕核到杏仁核的连接并不受到空间频率或面部表情的调节，即杏仁核皮层下通路在面孔的空间频率或情绪方面是非选择性的，这和以往认为低空间频率恐惧面孔信息优先在皮层下通路加工的观点不同(McFadyen,Mermillod,Mattingley,Halasz,&Garrido,2017)。ERP研究也出现了相左的结果，有研究得出N170成分既不受面孔情绪的影响，也不受空间频率信息的影响(Holmes etal.,2005)，但也有研究验证不论情绪信息如何，比起低空间频率信息，N170对高空间频率信息更敏感(Alorda,Serrano-Pedraza, Campos-Bueno,Sierra-Vazquez,&Montoya,2007)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "针对以往结果上存在的争议，McFadyen 等人认为，可能是由于在此动态因果建模过程中并没有包含上丘。而有证据表明上丘输入的信息主要为低空间频率的视觉面孔信息，说明丘脑枕核－杏仁核的快速的信息传递最有可能代表信息的多种来源，能够处理来自视网膜和皮层输入的低空间频率和/或高空间频率的刺激(Tamietto&Morrone,2016)。近来有研究人员将空间频率信息的亮度和对比度进行了匹配，发现在早期(即100 毫秒)的视觉处理过程中，对比度均衡对空间频率信息的处理尤为重要(Vlamings etal.,2009)。颅内脑电图研究结果支持了这一观点，实验材料使用了亮度和对比度均衡的刺激，发现直到240毫秒才观察到高低空间频率面孔之间的显著差异(Willenbockel,Lepore,Nguyen,Bouthillier,&Gosselin,2012)。因此，空间频率对情绪的影响可以通过控制刺激亮度的差异来进一步研究和探讨。以后的研究中可以使用更高空间分辨率的方法，在人类和非人类灵长类动物身上寻找更多信息传递通路的证据。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上，视觉信息可以通过初级视觉皮层传递到杏仁核，提供了情绪信息，尤其是恐惧等威胁性信息在皮层下通路：上丘－丘脑枕核－杏仁核上传递的论证，而低空间频率在这条皮层下神经通路上有信息传递的优先性，从而使得低空间频率的恐惧面孔得到快速有效的加工。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3高空间频率影响恐惧面孔表情加工的神经通路",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1高空间频率影响恐惧面孔表情加工的皮层神经通路",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "许多视觉刺激可以通过最初的皮层反应得到快速处理，这表明即使在皮层内，也有足够的时间加工大量的反馈(Pessoa&Adolphs,2010)。鉴于加工过程同时涉及了杏仁核与视觉皮层，与无意识情绪刺激加工便形成了不同的神经通路：皮层通路。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "恐惧情绪信息会通过外侧膝状体(lateral geniculate nucleus，LGN)-初级视觉皮层 V1-杏仁核，从而引起视觉皮层的广泛激活(Das etal.,2005;Hariri,Mattay,Tessitore, ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fera,& Weinberger, 2003; Morris et al.,1999; Vuilleumier,Richardson, Armony, Driver, &Dolan,2004)，其中外侧膝状体到枕叶中的初级视觉皮层(V1)，是一条主要的视觉通路。外侧膝状体负责接收来自视网膜以及上丘的直接投射，并反馈到枕叶皮质内的视网膜组织区域(Shi&Davis,2001)。De Valois 等人通过测量猕猴V1区细胞的空间频率调节特性发现，两种频率的刺激都激活了V1区中的神经元群，也就是说，任何对高、低空间频率刺激反应的差异都能通过V1区不同的视觉神经元群的活动反应出来(De Valois,Albrecht,&Thorell,1982)。因此研究多将V1的激活水平作为探究其他视觉区域的空间频率特性的基准(Skottun,2015)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2高空间频率影响恐惧面孔表情加工的证据",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在意识层面加工的皮层通路主要传递的是代表精细加工的高空间频率信息(Furl,Henson,Friston,&Calder,2013)。Stein等人(2014)的行为研究验证了高空间频率在皮层通路上影响恐惧面孔表情加工的结果，实验一通过连续闪烁抑制范式让被试判断高低空间频率影响下面孔的情绪效价(恐惧或中性)，发现个体在意识层面加工恐惧面孔信息时，对高空间频率的恐惧面孔识别更快，具有加工优势，表明恐惧面孔的快速检测主要是由精细的高空间频率信息传递的。在实验二和实验三中，则采用由高空间频率恐惧面孔和低空间频率中性面孔组成的高恐混合面孔、由低空间频率恐惧面孔和高空间频率中性面孔组成的低恐混合面孔作为实验材料。实验二的结果发现在连续闪烁抑制范式中，高恐混合面孔识别速度更快，即高恐混合面孔的受抑制时间明显短于低恐混合面孔；在实验三中用三明治夹层掩蔽任务识别混合面孔，这种任务能将与面孔的高低空间频率之间的潜在相互作用降到最低，结果发现个体对高恐混合面孔的检测准确率高于低恐混合面孔。综上表明恐惧信息的快速加工并不完全依赖于低空间频率信息同时也受到高空间频率信息的影响，体现了大脑皮层视觉区域的参与(Stein et al.,2014)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于视觉系统中不同的神经通路对不同空间频率范围的视觉刺激敏感性不同，研究人员通过分析不同空间频率面孔刺激的加工特点，探究其在正常人脑中的杏仁核和腹侧视觉皮层是否有不同的输入，结果表明个体在意识水平加工情绪信息时对高空间频率信息虽然识别速度慢但识别率更高(Vuilleumier et al.,2003)。非正常人脑的研究结果也对此提供了证据，癫痫患者的颅内脑电数据表明相对于低空间频率信息影响下观察到的潜伏期，高空间频率的情绪表达效应的开始略有延迟(Tessari,2012)。对患有双侧杏仁核病变的患者进行的一项研究表明，该患者对恐惧面孔表情的识别受损是由于面孔眼部区域的处理受损，尤其是无法对于高空间频率信息加工过的眼部区域进行主动加工(Adolphs et al., 2005)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "来自脑磁图的证据进一步表明，高空间频率恐惧面孔相较于低空间频率恐惧面孔会引起更显著的脑区激活。研究通过建立动态因果模型，分析空间频率和(或)恐惧情感对神经通路连接强度的影响，并对皮层、内侧和皮层下的可能连接通路进行比较分析。结果表明高空间频率面孔在皮层通路上引起的效应量更大，且在初级视觉皮层V1到杏仁核神经通路上，面孔信息传递显著受高空间频率调节，皮层神经通路连接更强，即皮层通路依赖高空间频率信息的加工(McFadyen etal.,2017)。这些结果证明了高空间频率信息在恐惧识别中的重要性，并表明杏仁核对于这种视觉处理和情绪加工是必需的。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3高空间频率影响恐惧面孔表情加工的质疑",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "虽然依赖高空间频率的快速恐惧检测支持了新出现的观点，即皮层在检测与生态相关的信号中起着重要作用，但也有神经影像学数据显示杏仁核不能区分恐惧和中性的高空间频率面孔(Vuilleumier etal.,2003)。有研究认为可能其原因是杏仁核不参与恐惧面孔的初始加工，而是根据刺激效价和行为学意义调节后期的注意和认知过程(Adolphs,2008;Pessoa,2010)。另外，因为视觉皮层区域不仅会向杏仁核发出大量的信号，也会出现很短的延迟反应，且有fMRI研究结果证明了杏仁核对刺激的反应不需要完整的初级视觉皮层(Burra etal.,2013)，因此皮层通路的信息传递特性还需要进一步的研究来证明。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上，恐惧面孔在皮层上通路的传递主要是由精细的高空间频率信息所介导的，意识加工恐惧情绪的高空间频率优先性与高空间频率信息在识别恐惧面孔中的核心作用是吻合的，说明了快速加工恐惧面孔情绪并不一定意味着直接走到杏仁核的皮层下通路，大脑皮层也是处理与生态相关的信号的关键(Stein etal.,2014)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4空间频率影响恐惧面孔表情加工的多通路",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Pessoa等人在2010年就针对“传统”的皮层下通路涉及的脑区和加工过程进行了讨论和修订。通常认为“传统”的皮层下神经通路经由上丘和丘脑枕核至杏仁核，针对情感视觉刺激进行无意识快速加工，然而在生物体产生恐惧反应的过程中，快速但粗糙的视觉处理仅仅是一个有机体在危险环境中所急需的。研究发现除了“传统”皮层下通路以外，其他视觉通路也发挥着这一作用，如通过在视觉皮层及以上产生“多个激活波”，视觉刺激加工可以涉及多个大脑部位：包括杏仁核、眶额皮质(orbitofrontal cortex，OFC)、前岛叶(anterior insularcortex，AIC)和前扣带回皮质(anterior cingulatecortex，ACC)，这些部位也可以直接处理与行为相关的反应。因此，即使没有专门的皮层下通路，对情感信息进行快速处理也是可能的。这意味着视觉刺激的处理存在多条平行的视觉信息处理路径，皮层下通路可能并不是单一纯粹的“皮层下”，与皮层也存在直接连接，例如杏仁核与OFC或ACC之间(Pessoa＆Adolphs,2010;Tamietto&DeGelder,2010)，通过对眶额区域观察发现其内部不同的子区域专门负责处理特定情绪，对面孔表情的加工比杏仁核更快，表明眶额皮质可能在调节杏仁核的活动(Tessari,2012)。且当皮层下通路或者关键脑区(如杏仁核)受损而不能正常传递信息时，情绪性的信息依旧能得到有效和快速的传递(Pessoa＆Adolphs,2010)，故有研究认为在丘脑枕核到初级视觉皮层至杏仁核的内侧通路上也存在情绪刺激的加工(Furlet al., 2013)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "因此有研究不再孤立地探讨高低空间频率在不同神经通路上的作用，研究结果挑战了单一神经通路信息传递的传统主流观点。ERP研究结果就此提出了新的证据，You和Li(2015)对高低空间频率加工过的威胁场景的研究发现，空间频率与情绪在早期视觉成分P1上存在交互作用，恐惧和厌恶引起低空间频率(局限于背侧视觉流)和高空间频率(局部在腹侧视觉流)条件下的相反的反应模式，该结果也就表明虽然反应模式和视觉流不同，但其实在视觉处理的早期阶段高低空间频率信息都可以影响威胁情绪刺激的加工。也有实验结果支持腹侧流V4区的细胞不仅对较高的空间频率有反应，对低空间频率的刺激也有反应。因此，不能只单独依赖某一空间频率有选择地激活背/腹侧流(Skottun,2015)。这样的机制是合理的，考虑到如果一个有机体能够同时利用高低空间频率视觉信息来快速检测潜在的威胁，那么它的生存就会得到最大化的保证(Fradcourt,Peyrin, Baciu, & Campagne, 2013; Stein et al., 2014)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "但对于空间频率在多通路上是怎样影响恐惧面孔表情加工的研究还是很有限，已有的结果也尚有争议。针对前文提到的丘脑枕核到初级视觉皮层至杏仁核的内侧通路上存在情绪信息的加工，用DCM模型针对脑磁图研究进行分析得到了不一致的结果。虽然在最优的模型中丘脑枕核－初级视觉皮层V1连接的存在证实了先前来自人类和灵长类动物的解剖证据(Bridge,Leopold,& Bourne,2016)，但模型也揭示了空间频率和情绪都不会通过丘脑枕核或外侧膝状体来影响初级视觉皮层V1的活动(McFadyen et al.,2017)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "总之，目前研究多集中于单方面探讨情绪刺激或视觉信息在关键脑区和通路上的加工，而加入空间频率信息之后，对多通路上的情绪加工带来何种影响仍需进一步研究。已有的结果探讨了恐惧情绪刺激在丘脑、杏仁核和感觉皮层(枕下、梭形皮质区)神经通路内的传递，以及前扣带回皮层(ACC)对这些神经通路的调节作用存在背腹侧相反的特点(Das etal.,2005)。还有研究发现对恐惧面孔情绪等威胁性信息的加工与双侧杏仁核的激活反应相关，而对这些刺激的认知评估则与右腹侧眶额皮质的反应的增加相关。其他前额叶区域，例如腹侧和背侧前额皮质，可能通过对眶额皮质的相互影响以及丘脑和纹状体来传递信息到杏仁核，因此调节个体情绪体验和对刺激反应的能力很可能取决于杏仁核与这些更横向的前额叶皮层之间的相互作用(Haririetal.,2003)。以后的研究应不再以皮层或皮层下为中心来探讨情绪加工，而应该以情绪信息的纵向和横向整合为中心(Pessoa &Adolphs,2011)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5总结与展望 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "综上所述，关于空间频率影响恐惧面孔表情加工的双通路模型已经得到了诸多佐证，即低空间频率的恐惧面孔情绪在皮层下通路上可以得到快速且有效的加工，而高空间频率在意识参与加工的皮层通路上影响恐惧面孔情绪的加工。然而在到杏仁核的神经通路上恐惧面孔情绪是如何被加工的问题仍然存在争议与质疑，多通路模型则推测视觉信息影响情绪刺激的加工经过早期多条平行通路的传递，从而引起多个关键脑区和子区域的激活，从单一、专门的神经通路到多通路的变化有助于研究人员把注意力集中在脑区及其子区域、皮层与皮层下之间的联系上。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对此，未来的研究应考虑以下几点：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "首先，是否应控制实验任务与情绪内容的相关性仍存在争议。不同于其他领域对于实验范式的控制，在空间频率影响情绪加工的以往研究中，研究人员关心的重点之一便是实验结果是否与情绪内容相关。由于刺激和任务参数的差异可能对信息在神经通路的上的传递产生重大影响，更为了在研究之间进行有成效的交叉比较，故而许多研究采用任务与情绪表达无关的实验任务，即辨别面孔材料的性别(Garvert etal.,2014;McFadyen et al.,2017; Méndez-Bértolo et al.,2016; Vuilleumier et al.,2003)。但也有研究提出，未来可以进一步探讨高空间频率影响面孔表情加工的皮层通路是否能在涉及明确情绪表达判断的任务中驱动杏仁核，而不是仅仅采用以往实验中的性别任务的设计(Vuilleumier et al., 2003)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "其次，由于目前的方法学限制，皮层和皮层下结构的处理速度的评估和比较仍然是一个悬而未决的问题。虽然杏仁核的皮层下通路处理视觉信息这一概念通常直接应用于人类研究，但目前并没有明确的解剖学证据表明，灵长类动物大脑中视觉信息是通过上丘或丘脑枕核传递到的杏仁核的(Pessoa&Adolphs,2010)。据此有研究质疑人类大脑中是否存在着这样的皮层下恐惧信息加工通路，且视网膜－上丘－丘脑枕核－杏仁核通路是否确实存在并没有直接证据支持，通常是从研究结果间接推断得出的通路存在，并就此认为和人类视觉加工低空间频率面孔信息的神经通路一致。因此，至关重要的不是哪个脑区首先响应视觉刺激开始激活，而是哪个神经通路支持更快地促进刺激和视觉因素的整合，将皮层下通路在面部处理中重构为一个广义的角色而不是一个专门的角色也许可以解释为什么对不同空间频率的情绪反应会产生矛盾的结果(DeCesarei&Codispoti,2013)，故而有研究人员建议将皮层下通路的“粗糙性”重新定义为“未经过滤的”(McFadyen etal.,2017)。近来有研究人员运用纤维束追踪技术，重建皮层下通路来证明杏仁核与皮层下感觉神经的联系促进了恐惧的识别(McFadyen et al.,2019)。未来的研究应继续推进技术的应用和方法的创新，如fMRI和颅内记录的技术手段来着重阐明这些输入刺激传递到通路上各个脑区的时间和空间频率特性，以验证以往发现中涉及的推测，减少尚有疑问的其他因素的干扰(Méndez-Bértolo et al.,2016)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "再者，情绪动机作为独立于效价和唤醒度的另一维度，现有研究对情绪动机如何在空间频率影响恐惧面孔表情加工中起作用仍存在空白。情绪刺激的视觉处理依赖于动机系统，动机系统刺激个体采取行动并做出反应，采取适当的行为回避外界的威胁性刺激(Vuilleumier,2005)。已有研究结果支持高空间频率信息与快速识别自我情绪体验相关，而快速识别情绪动机（回避，趋近或不采取行动）则需要低空间频率信息，证实了情绪的动机特征对视觉刺激的影响(Fradcourt,Peyrin,Baciu,& Campagne,2013)。因此，未来可以进一步探讨情绪动机在面孔表情加工的神经通路上的影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "最后，除针对恐惧面孔情绪以外，其他威胁性情绪刺激或者相似的情绪是否会得到一致的结论还有待研究。由于对恐惧面孔的检测和识别都依赖于高空间频率波段所表示的相似的面部特征，如眼睛和口腔区域的锋利边缘，所以未来研究的一个主要问题是确定恐惧处理的高空间频率选择性是否扩展到其他刺激(Isbell,2006;Ohman,2005)或身体姿势(Tamietto&DeGelder,2010)。研究的另一个重要局限是在研究空间频率影响面孔情绪处理时大多将恐惧与中性面孔进行对比。因此，研究的结果不一定是只针对恐惧的面部表情，也可能反映了表情型和非表情型面孔之间更普遍的区别。例如，其他面部表情(如惊讶)可能会获得类似的加工模式，这种表情在物理上和概念上都与恐惧相似，惊讶和恐惧的表情共享一些形态特征(例如，瞪大的眼睛)，并且具有几个重叠的面部动作单元(Du,Tao,&Martinez,2014)。相对于中性面孔而言，威胁刺激在意识加工方面获得的优势可以反映出更原始的危险信号可以得到优先处理，那就意味着空间频率信息处理其他简单的威胁信号仍然是可能的(Jack,Blais,Scheepers,Schyns,&Caldara, 2009)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "陈珊珊，蔡厚德.(2015).丘脑枕核参与情绪信息加工的多条通路.心理科学进展,23(2),234-240.   \nAdolphs,R.(2008).Fear, faces,and the human amygdala.Current opinion in neurobiology,18(2),166- 172.   \nAdolphs,R.,Gosselin,F.,Buchanan,T.W.,Tranel,D.,Schyns,P.,&Damasio,A.R.(2OO5).Amechanism for impaired fear recognition after amygdala damage.Nature, 433(7021), 68.   \nAlorda,C.， Serano-Pedraza,I.， Campos-Bueno,J.J.，Sierra-Vazquez, V.，& Montoya，P. (2007).Low spatial frequency filtering modulates early brain processing of affective complex pictures. Neuropsychologia, 45(14),3223-3233.   \nBar, M. (2o03). A cortical mechanism for triggering top-down facilitation in visual object recognition. Journal of Cognitive Neuroscience,15(4), 600-609.   \nBocanegra, B. R.,& Zeelenberg, R.(2009). Emotion improves and impairs early vision. Psychological science, 20(6),707-713.   \nBridge,H., Leopold, D. A.,& Bourne,J. A. (2016). Adaptive pulvinar circuitry supports visual cognition. Trends in Cognitive Ssciences, 20(2), 146-157.   \nBullier, J., Hupé,J.-M.,James,A. C.,& Girard, P. (20o1). The role of feedback connections in shaping the responses of visual cortical neurons.Hofman,Michel A.(Ed.),Progress in brain research (Vol. 134, pp. 193-204).   \nBurra,N.， Hervais-Adelman,A., Celeghin,A., De Gelder,B.,& Pegna,A.J. (2017). Affective blindsight relies on low spatial frequencies. Neuropsychologia.   \nBurra,N., Hervais-Adelman,A., Kerzel, D.,Tamietto,M.,De Gelder,B.,& Pegna,A.J. (2013).Amygdala activation for eye contact despite complete cortical blindness. Journal of Neuroscience, 33(25), 10483-10489.   \nCarretié,L., Hinojosa,J. A., López-Martin,S.,& Tapia,M.(2007). An electrophysiological study on the interaction betweenemotional content and spatial frequency of visual stimuli. Neuropsychologia,45(6),1187-1195.   \nCushing，C.A.， Im，H.Y.，Adams Jr，R. B.，Ward，N.，& Kveraga，K. (2019).Magnocelular and parvocellular pathway contributions to facial threat cue processing. Social Cognitive and Affective Neuroscience, 14(2),151-162.   \nDas,P.， Kemp,A. H., LiddellB. J.， Brown, K.J.， Olivieri, G., Peduto, A.，. .Williams, L. M. (2005). Pathways for fear perception: Modulation of amygdala activity by thalamo-cortical systems. Neuroimage, 26(1),141-148.   \nDe Cesarei, A.,& Codispoti, M. (2013). Spatial frequencies and emotional perception. Reviews in the Neurosciences, 24(1),89-104.   \nDe Valois,R.L. Albrecht, D. G.,& Thorell,L. G. (1982).Spatial frequency selectivity of cels in macaque visual cortex. Vision Research,22(5), 545-559.   \nDu,S.,Tao,Y.,& Martinez,A. M. (2014). Compound facial expressons of emotion. Proceedings of the National Academy of Sciences,111(15), E1454-E1462.   \nFradcourt, B., Peyrin, C.， Baciu, M.，& Campagne,A. (2013). Behavioral assessment of emotional and motivational appraisal during visual processing of emotional scenes depending on spatial frequencies. Brain and Cognition, 83(1),104-113.   \nFurl,N., Henson,R.N.,Friston,K.J.,& Calder,A.J.(2O13).Top-downcontrol of visual responses to fear by the amygdala.Journal of Neuroscience, 33(44),17435-17443.   \nGarvert，M. M.，Friston,K. J.， Dolan,R.J.,& Garrido,M.I. (2014). Subcortical amygdala pathways enable rapid face processing. Neuroimage, 102,309-316.   \nGoffaux,V.， Jemel，B.， Jacques，C.，Rossion，B.，& Schyns，P.G. (2003). ERP evidence for task modulations on face perceptual processing at diferent spatial scales. Cognitive Science, 27(2), 313-325.   \nHariri,A. R., Mattay, V.S.,Tessitore,A. Fera,F.,& Weinberger,D.R. (2Oo3). Neocortical modulation of the amygdala response to fearful stimuli. Biological psychiatry, 53(6), 494-501.   \nHassin,R. R., Aviezer, H.,& Bentin,S.(2013). Inherently ambiguous: Facial expressions of emotions,in context. Emotion Review, 5(1), 60-65.   \nHolmes,A.,Green,S.，& Vuillumier, P. (20o5). The involvement of distinct visual channels in rapid attention towards fearful facial expressions. Cognition & Emotion, 19(6),899-922.   \nIsbell,L.A. (2006). Snakes as agents of evolutionary change in primate brains. Journal of Human Evolution, 51(1),1-35.   \nJack,R.E., Blais, C., Scheepers,C.， Schyns,P.G.,& Caldara,R. (2009). Cultural confusions show that facial expressions are not universal. Current Biology, 19(18),1543-1548.   \nJeantet, C., Caharel, S. Schwan,R., Lighezzolo-Alnot, J.，& Laprevote, V. (2018).Factors influencing spatial frequency extraction in faces:A review. Neuroscience & Biobehavioral Reviews,93, 123-138.   \nLeDoux, J. (1998). The emotional brain: The mysterious underpinnings of emotional life: Simon and Schuster.   \nLiu,C.H., Collin,C.A., Rainville,S.J.,& Chaudhuri, A. (2OoO).The effects of spatial frequency overlap onface recognition. Journal of Experimental Psychology: Human Perceptionand Performance, 26(3), 956.   \nMarkus,Z.,，Berényi, A.， Paróczy, Z.,Wypych, M.，Waleszczyk,W.J., Benedek,G.，& Nagy,A. (2009). Spatial and temporal visual properties of the neurons in the intermediate layers of the superior colliculus.Neuroscience Letters, 454(1),76-80.   \nMcFadyen,J., Matingley, J. B.,& Garrido,M.I. (2019). An afferent white matter pathway from the pulvinar to the amygdala facilitates fear recognition. eLife,8,e40766.   \nMcFadyen,J., Mermillod, M., Mattingley, J.B.，Halasz,V.,& Garrido,M.I. (2017). A rapid subcortical amygdala route for faces irrespective of spatial frequency and emotion. Journal of Neuroscience, 37(14), 3864-3874.   \nMéndez-Bértolo,C.， Morati， S.， Toledano,R., Lopez-Sosa，F.， Martinez-Alvarez， R.，Mah,Y. H， Strange, B.A. (2O16).A fast pathway for fear in human amygdala. Nature Neuroscience, 19(8), 1041.   \nMerigan,W. H.，& Maunsel, J. H. (1993). How parallel are the primate visual pathways? Annual Review of Neuroscience, 16(1),369-402.   \nMermillod,M., Droit-Volet, S.， Devaux,D., Schaefer,A.，& Vermeulen,N. (2010). Are coarse scales sufficient for fast detection of visual threat? Psychological Science,21(10),1429-1437.   \nMorris,J.S. Ohman,A.,& Dolan, R.J. (1999). A subcortical pathway to the right amygdala mediating \"unseen\" fear. Proceedings of the National Academy of Sciences, 96(4),1680-1685.   \nOhman，A. (2O05). The role of the amygdala in human fear: Automatic detection of threat. Psychoneuroendocrinology, 30(10), 953-958.   \nOhman,A.,& Mineka, S.(2001). Fears, phobias,and preparedness: Toward an evolved module of fear and fear learning.Psychological Review, 108(3), 483.   \nPadmala，S.， Lim，S.-L.，& Pessoa，L. (2O10). Pulvinar and affective significance: Responses track moment-to-moment stimulus visibility.Frontiers in Human Neuroscience,4,64.   \nPessoa,L. (2010). Emotion and attention effects: Is it all a mater of timing? Not yet. Frontiers in Human Neuroscience,4,172.   \nPessoa,L.，& Adolphs, R. (2010). Emotion processing and the amygdala: From a 'low road' to 'many roads' of evaluating biological significance. Nature Reviews Neuroscience,11(11),773.   \nPessoa,L.,& Adolphs, R.(2O11).Emotion and the brain: Multiple roads are better than one. Nature Reviews Neuroscience, 12(7), 425.   \nPeyrin，C.， Schwartz，S.， Seghier，M.，Michel，C.， Landis，T.，& Vuileumier， P. (2005). Hemispheric specialization of human inferior temporal cortex during coarse-to-fine and fine-to-coarse analysis of natural visual scenes. Neuroimage, 28(2),464-473.   \nPhelps,E. A.，& LeDoux, J. E. (20o5). Contributions of the amygdala to emotion processing: From animal models to human behavior. Neuron, 48(2),175-187.   \nPourtois,G.,Dan,E.S.,Grandjean,D.,Sander,D.,& Vuillumier,P. (2oo5).Enhanced extrastriate visual response to bandpass spatial frequency filtered fearful faces: Time course and topographic evoked-potentials mapping. Human Brain Mapping,26(1),65-79.   \nShi，C.，& Davis，M. (2Oo1). Visual pathways involved in fear conditioning measured with fearpotentiated startle: Behavioral and anatomic studies.Journal of Neuroscience, 21(24),9844- 9855.   \nSilverstein, D.N.,& Ingvar, M. (2015). A multi-pathway hypothesis for human visual fear signaling. Frontiers in Systems Neuroscience,9,101.   \nSkottun, B. C.(2015). On the use of spatial frequency to isolate contributions from the magnocellular and parvocellular systems and the dorsal and ventral cortical streams. Neuroscience & Biobehavioral Reviews, 56,266-275.   \nStein,T., Seymour, K., Hebart,M. N.,& Sterzer, P. (2014). Rapid fear detection relies on high spatial frequencies. Psychological Science,25(2), 566-574.   \nTamietto,M.，& De Gelder, B. (2010). Neural bases of the non-conscious perception of emotional signals. Nature Reviews Neuroscience, 11(1O), 697.   \nTamietto, M.,& Morrone, M. C. (2016). Visual plasticity: blindsight bridges anatomy and function in the visual system. Current Biology, 26(2), R70-R73.   \nTamietto,M.,Pullens,P. de Gelder, B., Weiskrantz,L.,& Goebel,R.(2012).Subcortical connections to human amygdala and changes following destruction of the visual cortex. Current biology, 22(15), 1449-1455.   \nTessari,M. (2012). Intracranial electrophysiological recordings of human orbitofrontal responses to emotional stimuli (Unpublished master dissertation). University of Padova,Italy.   \nTian,J.,Wang,J., Xia,T., Zhao,W., Xu,Q.,& He, W. (2018).The influence of spatial frequency content on facial expression processing: An ERP study using rapid serial visual presentation. Scientific Reports,8(1),2383.   \nVlamings, P. H.，Gofaux, V.,& Kemner, C. (2Oo9). Is the early modulation of brain activity by fearful facial expressions primarily mediated by coarse low spatial frequency information? Journal of Vision, 9(5), 12-12.   \nVuilleumier, P. (2O05). How brains beware: Neural mechanisms of emotional attention. Trends in Cognitive Sciences, 9(12), 585-594.   \nVuilleumier,P.,Armony,J.L,Driver,J.,&Dolan,R.J. (2Oo3). Distinctspatial frequencysensitivities for processing faces and emotional expressions.Nature Neuroscience, 6(6),624.   \nVuilleumier, P.,Richardson,M.P.,Armony,J.L., Driver,J.,& Dolan,R.J. (2Oo4).Distant influences of amygdala lesion on visual cortical activation during emotional face processing. Nature Neuroscience,7(11),1271.   \nWebster, M.A., De Valois, K.K.,& Switkes,E.(1990). Orientation and spatial-frequency discrimination for luminance and chromatic gratings. Josa a, 7(6),1034-1049.   \nWillenbockel,V.，Lepore，F.，Nguyen，D.K.，Bouthilier,A.，& Gosselin，F.(2012). Spatial frequency tuning during the conscious and non-conscious perception of emotional facial expressions-an intracranial ERP study. Frontiers in Psychology,3,237.   \nYou,Y.，& Li，W. (2O15). Parallel processing of general and specific threat during early stages of perception.Social Cognitive and Affective Neuroscience,11(3),395-404.   \nZhang,P., Zhou, H.,Wen,W.,& He,S. (2O15). Layer-specific response properties of the human lateral geniculate nucleus and superior colliculus. Neuroimage,111,159-166. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Spatial frequencies affect the processing of fearful facial expression in neural pathways ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "HE Zeyu1; ZHANG Ziqi1; LI Kexuan¹;HE Weiqi1 ( Research Centerof Brainand Cognitive Neuroscience,Liaoning Normal University,Dalian 116029,China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Fear has been often given priority to effective processing for the need to evade threatening stimuli. Most of researches have probed the influence of high and low spatial frequencies on the processing of fearful faces from the perspective of the two-channel model. Low spatial frequency components of the fearful face can be processed preferentially in the subcortical pathway. The high spatial frequency mainly processes the fearful faces through the cortical pathway. On this basis, researchers have proposed multiple pathways. The purpose of this paper is to review the subcortical, cortical and multiple pathways from the physiological perspective, and then organize the effects that high/low spatial frequencies on the processing offearful faces in the various pathways and propose the controversies. Finally, we suggested several focuses that could be studied in the future. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Keywords: spatial frequency; fearful facial expression; subcortical pathway; cortical pathway; multiple pathways ",
+        "page_idx": 10
+    }
+]

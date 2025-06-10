@@ -1,0 +1,171 @@
+# 冰川下垫面对夏季云结构和云水含量的影响以祁连山区疏勒南山为例
+
+孙美平1²，史继花1，姚晓军'，张海瑜'，赵琳林'，马维谦1（1.西北师范大学地理与环境科学学院,甘肃 兰州730070;2.中国科学院西北生态环境资源研究所，甘肃 兰州730070)
+
+摘要：云水含量和云结构参量是天气预报、高山区水循环过程分析的基础。基于2012—2015年夏季CloudSat卫星遥感资料的2B-CLDCLASS、2B-GEOPROF和2B-GEOPROF-LIDAR,结合中国第二次冰川编目数据及气象资料，对祁连山地区疏勒南山冰川区与非冰川区云水含量和云类型特征进行分析。结果表明：(1)云水含量的垂直分布受下垫面和云类型的影响，主要表现为有冰川覆盖的高山上空降水云类型以深对流云为主，无冰川覆盖的高山上空降水云类型以雨层云为主。（2）疏勒南山地区高含水量主要分布在 $5 \mathrm { k m }$ 以下的中低层云中，且冰川区气流垂直运动较非冰川区活跃。(3)疏勒南山冰川区云水含量平均值为 $0 . 0 7 \ \mathrm { g } \cdot \mathrm { m } ^ { - 3 }$ ,非冰川区云水含量平均值为 $0 . 1 7 \ \mathrm { g } \cdot \mathrm { m } ^ { - 3 }$ ，云水的空间变化在一定程度上能够反映降水和水汽的分布状况。
+
+关键词：云结构；云水含量；冰川下垫面；CloudSat；祁连山区疏勒南山
+
+# 文章编号：
+
+云是地气循环系统的重要组成部分，对辐射收支及水分循环有着重要调节作用[]。云的垂直结构(如云高、云厚、云层数等)和微物理参数(如冰/水含量、云滴数浓度、有效粒子半径等)是人工增雨的前提条件，但受下垫面类型、地形状况和天气系统等因素的影响，其产生的不确定性是研究云与气候相互关系的最大障碍之一[2-3]。因此辨识云结构与云水含量的分布特征及其与水汽、降水间的相互关系，对了解区域水循环过程、开发云降水潜力、提高降水效率具有重要意义。
+
+云与水汽、降水关系密切，其垂直结构特征对天气、气候以及人工影响天气都十分重要。作为大气云辐射反馈中的重要因子，云量可以反映区域云水资源的丰富程度，是实施人工影响天气的重要参考因素[4]。当云量、云水含量和云厚度均较大时,有利于降水的形成和催化增雨[5-6]。在我国西北地区，空中云水资源多年平均分布有沿地形分布的特点，总云量、中云量、总光学厚度和总云水路径的高值区均在天山、昆仑山、祁连山一带，而低值中心一般分布在塔里木盆地一内蒙古西部戈壁沙漠一黄土高原西北部一带[7-9]；且西部区域随着云量增加，降水量也呈上升趋势[10]。祁连山地区水汽和降水主要受西风带、偏南季风(南亚季风和高原季风)和东亚季风的共同影响，其降水量自西向东呈增加趋势,且夏季整个祁连山地区形成"水汽汇”-14]。研究表明，祁连山地区云量高值区域与降水量高值区分布一致[15]。随着卫星遥感技术的发展,云结构与云水含量研究水平得到极大提升。如杨大生、张晓等[16-17]基于CloudSat卫星资料对云水含量的垂直和区域变化特征分析发现，青藏高原地形以及东亚夏季风对月平均云含水量分布具有明显影响;李积明等[18利用星载激光雷达资料对云的垂直分布特征研究表明，东亚地区多层云分布中双层云比例最大，云顶和云底高度除了随季节变化显著外，还有
+
+# 干旱区地理
+
+明显的区域特征;王智敏等[19]基于CloudSat资料分析了北疆强降雪天气的云结构特征，发现降雪前和降雪期间的云类型主要以层云、积云、高层云和深对流云为主，且降雪前冰粒子有效半径、冰水含量等均值分别比降雪期间大。
+
+上述研究多集中于云参量特征及云参量与各气象要素间相互关系的分析，缺乏下垫面类型-气象要素-区域云之间相互关系的研究。随着研究深入，下垫面特征类型(如植被覆盖情况、地表反照率等)影响着局地空中水资源。在高山冰川区，由于下垫面的温度场与湿度场与周围环境的差异，使冰川区形成冷岛和高湿中心，导致冰川上空湍流加剧、对流加强，形成多降水过程，继而增加降水量[20-24]。为进一步认识区域云结构、云水含量分布特征与不同下垫面之间的关系，选择祁连山冰川发育中心之一的疏勒南山 $( 9 6 ^ { \circ } 3 0 ^ { \prime } { \sim } 9 8 ^ { \circ } 3 0 ^ { \prime } \mathrm { E }$ $3 8 ^ { \circ } { \sim } 3 9 ^ { \circ }$ N)为研究区[25-26],分析冰川区与非冰川区上空云结构与云水含量分布特征及空中水资源转化情况，从而为提高云及气候间复杂关系的认知提供理论基础。
+
+# 数据来源与研究方法
+
+# 1.1数据来源
+
+本文采用的数据源主要包括：（1）美国宇航局（NASA）CloudSat卫星上搭载的毫米波云廓线雷达（CPR)反演资料2B-CWC-RO、2B-GEOPROF和2B-CLDCLASS，由CloudSat数据处理中心网站(http://www.cloudsat.cira.colostate.edu)下载获得。相较于传统的卫星遥感数据，该数据精度更高更准确[27-28]。
+
+其中，2B-CWC-RO数据产品仅考虑云雷达信息，不包含可见光云光学厚度信息，产品主要包括液(冰)水含量、液（冰)水路径、云粒子有效半径等；2B-GEOPROF数据产品主要包括雷达反射率因子、云判别参数、大气衰减等；2B-CLDCLASS数据产品包含经纬度、高度和云类型等信息。本研究共选取了65536条廓线并根据其运动轨迹结合冰川分布将疏勒南山分为I区和Ⅱ区(图1)，I区和Ⅱ区廓线数目相同。（2）中国第二次冰川编目数据，来源于寒区旱区科学数据中心(http://westdc.westgis.ac.cn）。（3）ERA-Interim再分析月平均资料，空间分辨率为$0 . 1 2 5 ^ { \circ } \times 0 . 1 2 5 ^ { \circ }$ ,从欧洲中期天气预报中心网站(http://data.ecmwf.int/data）下载获得。（4）近地面气象与环境要素数据集中的降水数据，其时间分辨率为$^ 3 \mathrm { ~ h ~ }$ ,水平空间分辨率为 $0 . 1 ^ { \circ } \times 0 . 1 ^ { \circ }$ ,来源于寒区旱区科学数据中心（http://westdc.westgis.ac.cn）。
+
+# 1.2研究方法
+
+1.2.1CloudSat卫星数据对于2B-CWC-RO数据产品的处理，选择有云存在，且对应2B-GEOPROF数据CPR_Cloud_Mask ${ \geqslant } 2 0$ 的资料，其中CPR_Cloud_Mask的数据值主要有:0、1、5、5\~10进而 $2 0 \sim$ 40,分别表示没有探测到云、数据损坏、地面噪音、弱探测信号和探测有云,且值越大探测越准[17]。2B-CLDCLASS云层类型给出了每层云的云类型，分别用数字1\~8来表示：卷云Ci、高层云As、高积云Ac、层云St、层积云Sc、积云 $\mathrm { C u }$ 、深对流云Dc和雨层云Ns[29]。为减少研究的随机误差,将疏勒南山各高度层的云水含量进行纬向 $0 . 0 5 ^ { \circ }$ 平均之后再分析，云水含量为液水含量和冰水含量之和。
+
+N.00.60 9700'E 97°30'E 9800'E 200660疏 97°30'E 99°00'E 100°30'E勒疏 N.00.69 电托 3河流 I 低：1998雄 南 流 南 山 北 山脉  
+330080 勒 南 33080 立河 哈拉湖南 山 srt山 达哈拉湖 图例 山 22335M 中 吾农山 巴 音 布 通 333.3NCloudSat轨迹 海勒郭 青 河河流 冰脉 0 100 km 海 南 青海湖 月山  
+100.88 0 50 km T 山湖泊 低：1998 97°30'E 99°00'E 100°30'E  
+97°00'E 97°30'E 98°00'E
+
+1.2.2大气水汽含量大气水汽含量 ${ \bf \Xi } ( \bf { \Lambda } \ )$ 的计算公式[30-31]为：
+
+$$
+W { = } \frac { 1 } { g \rho } { \int } _ { P _ { z } } ^ { P _ { 0 } } q \mathrm { d } P
+$$
+
+式中： $W$ 为某地单位面积上整层大气的总水汽含量 $( \operatorname { m m } ) : g$ 为重力加速度( $\mathrm { \zeta } _ { \mathrm { m m } } \cdot \mathrm { s } ^ { - 2 } ,$ ; $\rho$ 为水的密度$\left( \mathbf { g } \cdot \mathbf { m } \mathbf { m } ^ { - 3 } \right)$ ； $P _ { 0 }$ 和 $P _ { z }$ 分别表示地面和 $Z$ 高度上的气压$( \mathrm { h P a } ) ; q$ 为比湿 $\left( \mathbf { k g } \cdot \mathbf { k g } ^ { - 1 } \right)$ 。当气层分得比较薄的时候，可以将各层比湿随高度的分布视为线性变化。于是，(1)式可改写成下式：
+
+$$
+{ \cal W } = 0 . 0 1 \sum _ { i = 1 } ^ { n } \bar { q } _ { i } \Delta P
+$$
+
+式中： $\overline { { q } } _ { i }$ 第 $i$ 层内的平均比湿 $\left( \mathrm { k g } \cdot \mathrm { k g } ^ { - 1 } \right)$ ; $\Delta P$ 为层厚（20 $\left( \mathrm { { h P a } } \right)$ 。
+
+1.2.3 降水转化率降水转化率(PCE)是降水云体中所产生的降水量与大气水汽含量的比值[32]。通常某一地区在大气水汽含量一定的情况下，降水转化率越低，其云水资源开发潜力越大[33]。计算公式如下：
+
+$$
+\mathrm { P C E } = { \frac { \mathrm { P r } } { W } } \times 1 0 0 \%
+$$
+
+式中：PCE指某一地区某一时段的降水转化率 $( \% ) { \operatorname* { m } } , \operatorname* { m } $ 指该地区某一时间段的降水总量 $( \operatorname* { m m } )$ ; $W$ 指该地区某一时间段的大气水汽总含量，即大气可降水量 $\left( \mathrm { m m } \right)$ 。
+
+# 2结果与分析
+
+# 2.1疏勒南山冰川现状
+
+据中国第二次冰川编目，疏勒南山共有冰川418条，面积为 $4 3 2 . 5 4 \ \mathrm { k m } ^ { 2 }$ 。统计表明，该山系冰川数量以面积 $< 1 . 0 \mathrm { k m } ^ { 2 }$ 的冰川为主，共319条，占疏勒南山冰川总数量的 $7 6 . 3 2 \%$ ;冰川面积介于 $2 { \sim } 1 0 \mathrm { k m } ^ { 2 }$ 等级的面积最大，为 $2 4 0 . 6 6 \mathrm { k m } ^ { 2 }$ ，占疏勒南山冰川总面积的 $56 . 0 0 \%$ （图2）。面积 $_ { \cdot \geqslant 1 0 \mathrm { k m } ^ { 2 } }$ 的冰川仅4条，其中登陇20号冰川（编号为5Y445G0020)面积最大，为 $1 4 . 9 5 \mathrm { k m } ^ { 2 }$ 。从冰川朝向来看(图3)，疏勒南山冰川数量和冰川面积均以朝北冰川最多（大），其次是东北朝向和西北朝向。朝北方向(包括东北向与西北向)的冰川数量共有289条，占疏勒南山冰川总条数的 $6 9 . 1 4 \%$ 。其他各朝向的冰川数量基本相当。朝北、东北、西北方向的冰川面积为307.49$ { \mathrm { k m } } ^ { 2 }$ ,占疏勒南山冰川总面积的 $7 1 . 0 9 \%$ ;其次为西南朝向，冰川面积为 $3 9 . 9 5 \ \mathrm { k m } ^ { 2 }$ ，占冰川总面积的$9 . 2 4 \%$ 。
+
+![](images/9651c281b799d3834a2a241883fd137b52696e0dd173cd607e4be3dbbc4d5cbd.jpg)  
+图2疏勒南山不同规模冰川数量与面积 Fig.2Number and area of different scale glaciers in the Shulenan Mountain
+
+![](images/5a30da1cdbdbbf0364207e222cd90dee7ed1e28730ae1eb8aa57c8987b1488fd.jpg)  
+图3疏勒南山地区不同朝向冰川数量与面积变化  
+Fig.3 Orientational characteristics of glacier number and area in the Shulenan Mountain
+
+![](images/97533f94a9d6803547dde1100ca563d980d7f66aad62c449ee3ad681c2b99269.jpg)  
+干吴区地理  
+图4疏勒南山夏季云水含量的纬度-高度剖面  
+Fig.4 Latitude-height profile of cloud water content of the Shulenan Mountain in summer
+
+# 2.2疏勒南山夏季云水含量及云结构
+
+2.2.1疏勒南山夏季云水含量空间分布图4为2012—2015年夏季祁连山地区疏勒南山纬向云水含量垂直剖面图。图中白色无云水含量，这可能是由于实际数据缺测所致。1区云水含量低于Ⅱ区，1区主要位于疏勒南山西北段，Ⅱ区位于其东南段(图1)，I区平均云水含量为 $0 . 0 7 \ \mathrm { g } \cdot \mathrm { m } ^ { - 3 }$ ,Ⅱ区平均云水含量为 $0 . 1 7 \ \mathrm { g } \cdot \mathrm { m } ^ { - 3 }$ ,表现出疏勒南山云水含量由西向东呈增加趋势。I区外围哈拉湖附近 $( 3 8 . 2 ^ { \circ } \mathrm { N } )$ 云水含量相对较高，这与哈拉湖水体下垫面，夏季蒸发强烈，湖区上空水汽含量充沛有直接关系。而哈拉湖以北的疏勒南山山麓地带( $3 8 . 5 ^ { \circ } \mathrm { N } )$ 云水含量明显低于其偏南或偏北纬度地区，这是因为高山冰川边缘区水平温度梯度大导致的热成风强，进而增大了风随高度的垂直切变，加速了暖湿气团从非冰川下垫面向冰川下垫面的流动，对暖湿气团起到了一种类似“吸拉”的作用，增加了冰川表面的降水，从而使周围部分云水含量有所减少。Ⅱ区云水含量在 $3 8 . 4 ^ { \circ } \mathrm { N } { \sim } 3 8 . 6 ^ { \circ } \mathrm { N }$ 之间存在一个明显的高值区,其最高值约为 $1 . 8 7 \ \mathrm { g } \cdot \mathrm { m } ^ { - 3 }$ ,这可能是受地形地势和下垫面的影响，降水转化率较小所致。
+
+2.2.2疏勒南山夏季云类型及高度结构疏勒南山云水含量在垂直方向上的最大高度位于 $1 4 ~ \mathrm { k m }$ 附近，由此可知云水含量可达平流层中下层及整个对流层。I区对流整体发展高度略高于Ⅱ区，因为在高山冰川区，地形及温度场和湿度场的扰动使局地对流加强。云水含量垂直分布的高值区（大于或等于 $1 \ { \mathrm { g } } \cdot { \mathrm { m } } ^ { - 3 } .$ )大多分布在 $5 \mathrm { k m }$ 以下高度，说明疏勒南山地区高含水量主要分布在中低层云中。云水含量分布差异也受区域云类型不同影响，对2012—2015年夏季疏勒南山不同区域的云类型统计(表1)发现，深对流云为I区(冰川区)主要的降水云类型，而Ⅱ区(非冰川区)降水云类型则主要以雨层云为主，层云与层积云次之。I区和Ⅱ区同属于疏勒南山但其云水含量和云类型的空间分布却表现出显著的差异，这在一定程度上反映了不同下垫面（冰川区和非冰川区)对云水含量和云类型的影响以及山区气候的复杂性。
+
+表1各区域不同云类型发生频率  
+Tab.1 Frequency ofcloud types over different areas   
+
+<html><body><table><tr><td rowspan="2">区域</td><td colspan="3">云高</td><td colspan="3">云状</td></tr><tr><td>高云(卷云)</td><td>中云(高层云、高积云)</td><td>低云(层云、层积云、雨层云、积云)</td><td>积云</td><td>深对流云</td><td>雨层云</td></tr><tr><td>I(冰川区)</td><td>7.6</td><td>43.2</td><td>49.2</td><td>28.0</td><td>31.0</td><td>6.2</td></tr><tr><td>Ⅱ(非冰川区)</td><td>4.2</td><td>34.2</td><td>61.6</td><td>5.0</td><td>13.0</td><td>36.0</td></tr></table></body></html>
+
+2.2.3 疏勒南山夏季云水含量与降水关系云的存在是降水的前提条件。通过与大气环流的相互作用，云可以间接地与区域降水之间建立一定的物理联系。对疏勒南山2012—2015年夏季的年均降水量与降水转化率研究发现，疏勒南山地区降水量整体上从西北向东南递增，此外南坡降水量大于北坡，Ⅱ区降水量大于1区，这与云水含量的空间分布相一致(图5)。降水量与大气水汽含量之间的关系可由降水转化率体现，某一区域的降水转化率可直观的反映出该区域开发空中云水资源的潜力大小。疏勒南山降水转化率由西向东也呈递增趋势，即云水资源开发潜力由西向东递减，结合祁连山地区大气水汽转化情况，发现西风所携带的水汽对该地区降水的贡献率较低，相反东部季风所携带的水汽对该地区降水贡献率较高[34]。这也说明疏勒南山上空云水含量的空间分布（由西向东大体呈增加趋势)在一定程度上能够反映降水和水汽的分布状况，
+
+# 2.3 疏勒南山冰川特殊下垫面对夏季云水含量的 影响
+
+I区有大量冰川分布记为冰川区，Ⅱ区冰川分布少(几乎可以忽略不计)记为非冰川区(图1)。对2个区域上空云水含量的垂直分布(图6)研究发现，冰川区云水含量垂直廓线在不同高度上存在2个峰值区，最大峰值在 $2 \mathrm { k m }$ 附近，次峰值在 $5 \mathrm { k m }$ 附近，而非冰川区云水含量垂直廓线具有单峰的形态特征，最大峰值位于 $2 \mathrm { k m }$ 附近,这在一定程度上较好地解释了对于一定海拔的山体，往往在中山带有第一大降水高度带，冰川区存在第二大降水高度带的论证。冰川区平均云水含量 $( 0 . 0 7 \ \mathrm { g } \cdot \mathbf { m } ^ { - 3 } )$ 小于非冰川区的平均云水含量 $( 0 . 1 7 \ \mathrm { g } \cdot \mathrm { m } ^ { - 3 } )$ ，由于冰川的冷储作用，冰川上空空气的饱和水汽压小，水汽在经过冰川区时，更容易凝结形成降水，这一结果与孙旭映等[35]对降水过程温湿度演变特征的分析一致。冰
+
+300.3M 8 97°00E 97°30'E 100.60 N.00.60 心 97°00'E OE 水化 R 2.00.60 135 180- 疏 ? ? 冰泊 高：5826.8 3 40   
+3308M L H2as 河 A 3030.80 300.30 42 S 60 30.00.80 哈拉湖 46 S G   
+300.80 0 50km 0 300.80 200.80 9 25m 心 54- 200.8 97°00'E 9730'E 98°00'E 98°30'E 97°00'E 97°30'E 98°00'E
+
+![](images/9f15f39c9efd033b420537deb246f569c005323b597448d217f6662a245c362b.jpg)  
+图5疏勒南山2012—2015年夏季年均降水量(a)与降水转化率(b)的空间分布 Fig.5Spatial distributions of summer average precipitation (a) and precipitation conversion rate (b) in the Shulenan Mountain from 2012 to 2015   
+图6云水含量垂直高度比率分布  
+Fig.6 Distribution of the cloud water content ratio
+
+川下垫面(I区)深对流云发生频率占整个I区降水云类型的 $3 1 \%$ ,而非冰川下垫面(Ⅱ区)雨层云为主要的降水云类型，其发生频率占整个Ⅱ区降水云类型的 $3 6 \%$ ,这也在一定程度上说明了冰川区气流垂直运动的活跃性。
+
+# 3结论
+
+祁连山地区疏勒南山夏季云水含量的垂直分布受大气环流、下垫面的影响十分明显，了解云水含量的时空分布特征，对于天气预报、人工影响天气以及水循环都非常重要。本文通过对2012—2015年夏季疏勒南山云水含量变化进行分析，得出以下结论。
+
+# 干吴区地理
+
+（1）2012—2015年疏勒南山夏季经向云水含量在垂直方向上的最大高度在 $1 4 ~ \mathrm { k m }$ 附近，即水汽可达整个对流层及平流层中下层。哈拉湖以西的疏勒南山地区对流发展高度高于哈拉湖以东山区，一定程度反映了冰川区气流垂直运动的活跃性。疏勒南山平均云水含量的高值区在垂直方向上主要集中分布在 $5 \mathrm { k m }$ 以下高度,最大值约为 $1 . 8 7 \ \mathrm { g } \cdot \mathrm { m } ^ { - 3 }$ 反映了疏勒南山地区高含水量主要分布在中低层云中。在哈拉湖以西地区由于冰川覆盖，深对流云为这一区域主要降水云类型，哈拉湖以东地区则由于冰川分布较少，降水云类型主要以雨层云为主。同一条山系的2个区域其云水含量和云类型却有着显著的空间差异，这在一定程度上反映了山区气候的复杂性。
+
+（2）通过对研究区2012—2015年6—8月的年均降水量统计发现,疏勒南山地区降水量从西北向东南递增，与云水含量的空间分布相一致，总体上南坡降水大于北坡，东部山区降水量大于西部山区。云水资源开发潜力由西向东呈逐渐递减的趋势，说明云水含量的空间变化规律在一定程度上能够体现降水和水汽的分布状况
+
+（3）疏勒南山有冰川覆盖的哈拉湖以西山区降水云类型以深对流云为主，无冰川覆盖的哈拉湖以东山区降水云类型主要以雨层云为主。冰川区云水含量垂直廓线在不同高度上存在2个峰值区，最大峰值在 $2 \mathrm { k m }$ 附近，次峰值在 $5 \mathrm { k m }$ 附近。非冰川区云水含量垂直廓线具有单峰的形态特征，最大峰值位于 $2 \mathrm { k m }$ 附近。冰面上空平均云水含量约为 $0 . 0 7 \ \mathrm { g }$ $\mathbf { m } ^ { - 3 }$ ，低于非冰川区平均云水含量(约为 $0 . 1 7 \ \mathrm { g } \cdot \mathrm { m } ^ { - 3 } ,$ )，表明水汽在流经冰川区上空时，由于冰川下垫面的冷储作用，使上空水汽的饱和水汽压降低，水汽更容易凝结致雨，反映了冰川对水汽输送具有一定的牵引作用。
+
+本文使用的CloudSat卫星遥感资料为国际公认精度更高更准确的云特征多参数反演资料，但资料研究时段有限，且研究区域较小，很可能缩小了云特性参量区域间差异。之后期望引入更多高质量云产品数据，研究不同下垫面与云、各气象要素间相互的关系。
+
+# 参考文献(References)
+
+[1]Stephens G L.Cloud feedbacks in the climate system: A critical review[J]. Joumal of Climate,2005,18(2): 237-27,doi:10.1175/JCLI
+
+3243.1. [2]Bony S,Stevens B,Frierson D MW,et al.Clouds,circulation and climate sensitivity[J]. Nature Geoscience,2015,8(4):261-268, doi: 10.1038/ngeo2398. [3]Norris JR,Allen R J,Evan A T,et al.Evidence for climate change in the satellite cloud record[J]. Nature,2016,536(7614):   
+72-75,doi:10.1038/nature18273. [4]丁晓东,黄建平,李积明,等.基于主动卫星遥感研究西北地区 云层垂直结构特征及其对人工增雨的影响[J].干旱气象,   
+2012,30(4): 529-538.[Ding Xiaodong,Huang Jianping,Li Jiming,et al. Study on cloud vertical structure feature over northwest China based on active satelite remote sensing and its influence on precipitation enhancement[J].Arid Meteorology,2012,30(4): 529-   
+538.] [5]洪延超,周非非.层状云系人工增雨潜力评估研究[J].大气科 学,2006,30(5): 913-926.[Hong Yanchao,Zhou Feifei. The study of evaluation of potential of artificial precipitation enhancement in stratiform cloud system[J]. Chinese Journal of Atmospheric Sciences,2006,30(5): 913-926.] [6]王研峰,王蓉,王聚杰,等.西北干旱半干旱区一次层状云系微 物理特征分析[J].干旱区地理,2019,42(6):1291-1300.[Wang Yanfeng,Wang Rong,Wang Jujie,et al. Cloud microphysical characteristics on a stratiform nephsystem in the arid and semi-arid regions of northwest China[J].Arid Land Geography,2O19,42(6):   
+1291-1300.] [7]张杰,张强,田文寿,等.祁连山区云光学特征的遥感反演与云 水资源的分布特征分析[J].冰川冻土，2006,28(5):722-727. [Zhang Jie, Zhang Qiang,Tian Wenshou,et al. Remote sensingretrieval and analysis of optical character of cloud in Qilian Mountains[J]. Journal of Glaciology and Geocyology,2006,28(5):722-   
+727.] [8]陈勇航,黄建平,陈长和,等.西北地区空中云水资源的时空分 布特征[J].高原气象,2005,24(6): 905-912.[Chen Yonghang, Huang Jianping, Chen Changhe, et al. Temporal and spatial distributions of cloud water resources over northwestern China[J]. Plateau Meteorology,2005,24(6): 905-912.] [9]郑国光,陈跃,陈添宇,等.祁连山夏季地形云综合探测试验[J]. 地球科学进展,2011,26(10):1057-1070.[Zheng Guoguang Chen Yue, Chen Tianyu,et al. The observational study of summer orographic clouds structures of Qilian Mountains[J].Advances in Earth Science,2011,26(10):1057-1070.] [10] 吴伟,王式功.中国北方云量变化趋势及其与区域气候的关系 [J].高原气象,2011,30(3):651-658.[Wu Wei,Wang Shigong. Tendency change of cloud cover over northern China and its relationwith regional climate[J].Plateau Meteorology，2011,30(3):   
+651-658.] [11]巩宁刚,孙美平,闫露霞,等.1979—2016年祁连山地区大气水 汽含量时空特征及其与降水的关系[J].干旱区地理,2017,40 (4):762-771. [Gong Ninggang,Sun Meiping,Yan Luxia,et al. Temporal and spatial characteristics of atmospheric water vapor and its relationship with precipitation in Qilian Mountains during 1979——2016[J].Arid Land Geography,2017,40(4): 762-771.]   
+[12] 王宝鉴,黄玉霞,王劲松,等.祁连山云和空中水汽资源的季节 分布与演变[J].地球科学进展,2006,21(9):948-955.[Wang Baojian,Huang Yuxia,Wang Jinsong,et al. The seasonal distribution and time-varying of the cloud and vapor flux in Qilian Mountain areas[J].Advances in Earth Science,2006,21(9): 948-955.]   
+[13] 马兴刚,贾文雄,丁丹,等.祁连山东部大气降水 $\mathbf { \delta } \mathbf { \delta } \mathbf { \delta } .$ 变化特征 及水汽输送[J].干旱区地理,2019,42(3):517-525.[Ma Xinggang, Jia Wenxiong,Ding Dan, et al.Variation characteristics of $8 ^ { 1 7 } 0$ （20 in precipitation and moisture transports in eastern Qilian Mountains[J]. Arid Land Geography,2019,42(3): 517-525.]   
+[14] 陈少勇,董安祥,韩通.祁连山东、西部夏季降水量时空分布的 差异及其成因研究[J].南京气象学院学报,2007,30(5):715- 719.[Chen Shaoyong,Dong Anxiang,Han Tong. Diferences in summer precipitation between the east and west of the Qilian Mountains and its contributing factors[J]. Journal of Nanjing Institute of Meteorology,2007,30(5): 715-719.]   
+[15] 宋琦明,张武,苏亚乔,等.基于卫星遥感的祁连山及甘肃中部 地区云宏观特征[J].干旱区研究,2019,36(3):712-722. [Song Qiming, Zhang Wu, Su Yaqiao,et al. Cloud macro-features over the Qilian Mountains and central Gansu based on satelite remote sensing[J]. Arid Land Geography,2019,36(3): 712-722.]   
+[16] 杨大生,王普才.中国地区夏季6—8月云水含量的垂直分布特 征[J].大气科学,2012,36(1):89-101.[Yang Dasheng,Wang Pucai. Characteristics of vertical distributions of cloud water contents over China during summer[J]. Chinese Journal of Atmospheric Sciences,2012,36(1): 89-101.]   
+[17] 张晓,段克勤,石培宏.基于CloudSat卫星资料分析青藏高原东 部夏季云的垂直结构[J].大气科学,2015,39(6):1073-1080. [Zhang Xiao,Duan Keqin, Shi Peihong.Cloud vertical profiles from CloudSat data over the eastern Tibetan Plateau during summer[J].Chinese Journal of Atmospheric Sciences,2015,39(6): 1073-1080.]   
+[18] 李积明,黄建平,衣育红,等.利用星载激光雷达资料研究东亚 地区云垂直分布的统计特征[J].大气科学,2009,33(4):698- 707.[Li Jiming,Huang Jianping, Yi Yuhong,et al.Analysis of vertical distribution of cloud in East Asia by space-based lidar data [JJ. Chinese Journal of Atmospheric Sciences,2009,33(4): 698-707.]   
+[19] 王智敏,冯婉悦,李圆圆,等.基于CloudSat资料分析北疆强降 雪天气的云结构特征[J].干旱区地理,2019,42(2):244-251. [Wang Zhimin, Feng Wanyue, Li Yuanuan, et al. Cloud structure characteristics in heavy snowfall days in northern Xinjiang using Cloudsat satelitedata[J].Arid Land Geography,2019,42(2): 244-251.]   
+[20] 沈永平,梁红.高山冰川区大降水带的成因探讨[J].冰川冻土, 2004,26(6):806-809.[Shen Yongping,Liang Hong.Highprecipitation in glacial region of high mountains in high Asia: Possible cause[J]. Journal of Glaciology and Geocyology,2004,26(6): 806- 809.]
+
+[21]张东启,明镜,魏文寿.天山乌鲁木齐河源1号冰川致冷效应的
+
+小气候观测[J].干旱区地理,2011,34(3):449-457.[Zhang Dongqi, Ming Jing,Wei Wenshou. Microclimate measurements related to glacier coling effect at No.1 glacier,headwaterof Urumqi River,Tianshan Mountains[J]. Arid Land Geography,2011,34(3): 449-457.]   
+[22] 张晓,段克勤,刘焕才.夏季念青唐古拉峰地区云结构分析[J]. 水科学进展,2015,26(2):196-200.[Zhang Xiao,Duan Keqin, Liu Huancai.Study of the cloud structure over the Mount Nyainqéntanglha during summer[J]. Advances in Water Science, 2015,26(2): 196-200.]   
+[23] 张勇,刘时银,韩海东,等.天山南坡科其卡尔巴契冰川消融期 气候特征分析[J].冰川冻土,2004,26(5):545-550.[Zhang Yong,Liu Shiyin,Han Haidong,et al.Characteristics of climate on the Keqicar Glacier on the south slopes of the Tianshan Mountains during ablation period[J]. Journal of Glaciology and Geocyology,2004,26(5): 545-550.]   
+[24] 丁贤荣.高山增水效应及其水资源意义[J].山地学报,2003,21 (6):681-685.[Ding Xianrong.Water increasing effect of mountains and its value of water resources[J].Journal of Mountain Science,2003,21(6): 681-685.]   
+[25] 孙美平,刘时银,姚晓军,等.近50年来祁连山冰川变化——基 于中国第一、二次冰川编目数据[J].地理学报,2015,70(9): 1402-1414. [Sun Meiping,Liu Shiyin, Yao Xiaojun,et al. Glacier changes in the Qilian Mountains in the past half century: Based on the revised first and second Chinese glacier inventory[J].Acta Geographica Sinica,2015,70(9): 1402-1414.]   
+[26] 张华伟,鲁安新,王丽红,等.祁连山疏勒南山地区冰川变化的 遥感研究[J].冰川冻土,2011,33(1):8-13.[Zhang Huawei,Lu Anxin,Wang Lihong,et al. Glacier change in the Shulenan Mountain monitored by remote sensing[J]. Journal of Glaciology and Geocyology,2011,33(1): 8-13.]   
+[27]Frank R, Boris T,Christoph R,etal.Cloud detection and analysis on the Tibetan Plateau using Meteosat and Cloudsat[J]. Journal of Geophysical Research: Atmospheres，2013,118(17): 10082- 10099,doi: 10.1002/grd.50790.   
+[28] Smalley M,L'ecuyer T,Lebsock M,etal.A comparison of precipitation occurrence from the NCEP stage IV QPE product and the cloudsat cloud profiling radar[J].Journal of Hydrometeorology, 2014,15(1): 444-458,doi: 10.1175/JHM-D-13-048.1.   
+[29] 位晶,段克勤.基于卫星资料的秦岭南北云系及其垂直结构特 征[J].高原气象,2018,37(3): 77-785.[Wei Jing,Duan Keqin. Analysis of cloud system and its vertical structure between the southern and northern Qinling based on satellite data[J]. Plateau Meteorology,2018,37(3): 777-785.]   
+[30] 王炳忠,刘庚山.我国大陆大气水汽含量的计算[J].地理学报, 1993,48(3): 244-253.[Wang Bingzhong,Liu Gengshan. An estimation of total atmospheric water vapor in the mainland of China [J]. Acta Geographica Sinica,1993,48(3): 244-253.]   
+[31] 潘韬,吴绍洪,刘玉洁,等.纵向岭谷区地表大气水汽含量的气 候学计算[J].地理科学进展,2012,31(3):293-302.[Pan Tao, Wu Shaohong,Liu Yujie,et al. Climatological calculation of land
+
+# 干吴区地理
+
+surface atmospheric water vapor content in longitudinal rangegorge region[J]. Progress in Geography,2012,31(3): 293-302.] [32]李进,李栋梁,张杰.黄河流域夏季降水有效转化率[J].水科学 进展,2012,23(3): 346-354.[Li Jin,Li Dongliang,Zhang Jie.Research on summer effective precipitation conversion rate over the Yellow River Basin[J].Advances in Water Science,2012,23(3): 346-354.]
+
+[33]卓嘎,边巴次仁,杨秀海,等.近30年西藏地区大气可降水量的 时空变化特征[J].高原气象,2013,32(1):23-30.[Zhuo Ga,Bian Baciren,Yang Xiuhai,et al.Spatial and temporal changes of atmospheric precipitable water in Tibet region in recent 3O years[J].
+
+Plateau Meteorology,2013,32(1): 23-30.] [34] 张强,张杰,孙国武,等.祁连山山区空中水汽分布特征研究[J]. 气象学报,2007,65(4): 633-643.[Zhang Qiang,Zhang Jie,Sun Guowu,et al,Research on atmospheric water-vapor distribution over Qilianshan Mountains[J]. Journal of Meteorology，2OO7,65(4): 633-643.]
+
+[35] 孙旭映,李耀辉,邓祖琴.一次层状云降水过程云中液态水含量 的演变特征[J].干旱区资源与环境,2013,27(10):81-86.[Sun Xunying,Li Yaohui,Deng Zuqin.The liquid water evolvement in a stratiform cloud-precipitation process[J]. Journal of Arid Land Resources and Environment,2013,27(10): 81-86.]
+
+# Effects of glacial surface on cloud structure and cloud water content in summer: A case study of the Shulenan Mountain of Qilian Mountains
+
+SUN Meiping1²， SHI Jihua'， YAO Xiaojun'， ZHANG Haiyu', ZHAO Linlin', MA Weiqian' (1.College of Geographyand Environment Science,Northwest Normal University,Lanzhou73oO70,Gansu,China; 2.Northwest Institute of Eco-Environment and Resources, CAS,Lanzhou 73oooo,Gansu, China)
+
+Abstract: As a distinct underlying surface， glaciers directly affect water vapor flux,cloud,precipitation,and atmospheric circulation. Shulenan Mountain is rich in cloud water resources and is home to the glacier development center of the Qilian Mountains.It is of great significance for regional climate change,water resource development,and utilization for study of the interaction of glaciers，clouds，and precipitation at Shulenan Mountain. On the basis of the 2B-CLDCLASS,2B-GEOPROF,and 2B-GEOPROF-LIDAR product data of the CloudSat remote sensing satelite during the summers of 2012-2015,the second Chinese glacier inventory,and meteorological data,this paper first analyzed the current situation of the glaciers on Shulenan Mountain.Then,it studied the cloud water content and cloud structure in the summer at Shulenan Mountain, including the spatial distribution of cloud water content,cloud types,and height structure.Finall,the influence of the glacial surface of Shulenan Mountain on the cloud water content in summer was analyzed. The results showed the follwing: (1) The cloud water content at Shulenan Mountain could develop in the stratosphere in summer,and the vertical distribution of the cloud water content was afected by the glacial surface and cloud type, which mainly showed that the type of precipitation clouds over glacial-covered high mountains was largely deep convective clouds and that on the mountain without glacier cover was mainly nimbostratus. (2) The high water content in the Shulenan Mountain area was mainly distributed in the middle-and lower-layer clouds below $5 ~ \mathrm { k m }$ ,and the vertical movement of the airflow in the glacial area was more active than that in the non-glacial area.The development potential of the cloud water resources showed a decreasing trend from west to east, indicating that the change of cloud watercan,to some extent,reflect the spatial distribution of the precipitation and water vapor. (3) The average cloud water content in the glacial area of Shulenan Mountain was $0 . 0 7 \ \mathrm { g } \cdot \mathrm { m } ^ { - 3 }$ 5 and that in the non-glacial area was $0 . 1 7 ~ \mathrm { g } \cdot \mathrm { m } ^ { - 3 }$ . This showed that when the water vapor passed over the glacial area,the saturated water vapor pressure of the overhead water vapor decreased because of the cold storage of the glacial surface and water vapor was more likely to condense and cause rain,reflecting that the glacier has a certain traction effect on water vapor transportation.
+
+Key words: cloud structure；cloud water content;glacial surface；CloudSat; Shulenan Mountain of Qilian Mountains

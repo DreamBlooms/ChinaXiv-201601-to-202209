@@ -1,0 +1,559 @@
+[
+    {
+        "type": "text",
+        "text": "Responses of leaf water potential and gas exchange to the precipitation manipulation in two shrubs on the Chinese Loess Plateau ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Yangyang1,2\\*, CHEN Jiacun²,AI Shaoshui', SHI Hui3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1State Key Laboratoryof SoilErosion and Dryland FarmingontheLoess Plateau,Instituteof Soil and Water Conservation, Northwest A&F University, Yangling 71210o,China; 2 Institute of Soil and Water Conservation,Chinese Academy of Sciences, Yangling 712100,China; 3SchoolofEnvironmentalandMunicipalEnginering,Xi'anUniversityofArcitectureandTechnology,Xi'an70o5,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Regulation of leaf gas exchange plays an important role in the survival of trees and shrubs under future climate change. However, the responses of leaf water potential and gas exchange of shrubs in semi-arid areas to the precipitation alteration are not clear. Here,we conducted a manipulated experiment with three levels of precipitation, i.e.，a control with ambient precipitation, $50 \\%$ above ambient precipitation (irrigation treatment),and $50 \\%$ below ambient precipitation (drought treatment),with two common shrubs, Salix psammopbila C. Wang & C.Y. Yang (isohydric plant, maintaining a constant leaf water potential by stomatal regulation) and Caragana korshinski Kom. (anisohydric plant,having more variableleaf water potential),on the Chinese Loess Plateau in 2014 and 2O15.We measured the seasonal variations of predawn and midday leaf water potential ( $\\psi _ { \\mathrm { p d } }$ and $\\psi _ { \\mathrm { m d } , }$ ,two parameters of gas exchange, i.e., light-saturated assimilation $( A _ { \\mathfrak { n } } )$ and stomatal conductance $( g _ { \\mathrm { s } } )$ ，and other foliar and canopy traits. The isohydric $S _ { \\cdot }$ psammopbila hada similar $\\mathcal { A } _ { \\mathrm { n } }$ and a higher $g _ { \\mathrm { s } }$ than the anisohydric $C .$ korsbinskii under drought treatment in 2O15,inconsistent with the view that photosynthetic capacity of anisohydric plants is higher than isohydric plants under severe drought. The two shrubs differently responded to precipitation manipulation. $\\psi _ { \\mathrm { p d } } , \\mathcal { A } _ { \\mathrm { n } }$ and $g _ { \\mathrm { s } }$ were higher under irrigation treatment than control for $S$ psammopbila,and these three variables and $\\psi _ { \\mathrm { m d } }$ were significantly higher under irrigation treatment and lower under drought treatment than control for $C$ ，korsbinski. Leaf water potential and gas exchange responded to manipulated precipitation more strongly for $C .$ korsbinskii than for $S$ psammopbila.However, precipitation manipulation did not alter the sensitivity of leaf gas exchange to vapor-presure deficit and soil moisture in these two shrubs. Acclimation to long-term changes in soil moisture in these two shrubs was primarily atributed to the changes in leaf or canopy structure rather than leaf gas exchange. These findings willbe useful for modeling canopy water-carbon exchange and elucidating the adaptive strategies of these two shrubs to future changes in precipitation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: drought; irrigation; leaf water potential; gas exchange; acclimation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Precipitation is one of the most important factors controlling primary productivity in terrestrial ecosystems (Huxman et al., 2Oo4). Ecosystems in areas with the low mean annual precipitation are predicted to be most susceptible to projected changes of precipitation associated with climatic warming (de Dios et al., 2OO7). The wind-water erosion crisscross region on the Chinese Loess Plateau has the most intensive losses of soil and water in the world.Mean annual precipitation in this area is about $4 0 0 ~ \\mathrm { { m m } }$ ，but mean annual evaporation is $> 1 5 0 0 \\ \\mathrm { m m }$ (Tang et al., 1993)，so water scarcity is the primary factor limiting plant growth and survival in this ecosystem. Large-scale coal and oil mining have exacerbated the shortage of water resources by depleting underground water sources,and some plants already have symptoms of dieback (Fan，2007). Understanding the influences of projected variations of precipitation on the physiology， growth and productivity of local vegetation is therefore needed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Plants alleviate the threat of drought in a short term by regulating stomatal closure. Therefore, plants were classified into two drought strategies based on stomatal regulation i.e., isohydry and anisohydry (Tardieu and Simonneau, 1998). Isohydric plants maintain leaf water potential $(  { \\mathcal { H } _ { \\mathrm { l e a f } } } )$ （204号 by rapidly closing their stomata during drought, thus decreasing stomatal conductance $( g _ { \\mathrm { s } } )$ and photosynthetic assimilation. In contrast,anisohydric plants decrease $\\psi _ { \\mathrm { l e a f } }$ during drought, which may increase their vulnerability to hydraulic failure. Anisohydric plants often close their stomata later,thus maintaining higher $g _ { \\mathrm { s } }$ and carbon assimilation under severe drought (McDowell et al., 2008).This framework has been extensively used to explain the mortality of drought-induced trees (Adams et al., 2009; Hartmann et al.,2013; Sevanto et al., 2014). Some experimental results, however，contradict this elaborate framework. For example,daily $g _ { \\mathrm { s } }$ decreased more for anisohydric sunflower than for isohydric maize under severe water deficit (Tardieu and Simonneau, 1998). $g _ { \\mathrm { s } }$ and photosynthesis were similar at the end of a dry period for co-existing isohydric and anisohydric Mediterranean woody species (Quero et al.,2O11), the same pattern has been reported in different Vitis cultivars (Lovisolo et al.，2O1O). These results contradict the traditional view that anisohydric species can maintain higher levels of gas exchange under severe drought.Martinez-Vilalta and Garcia-Forner (2O16) found that isohydric Pinus edulis exhibited chronic embolism, whereas anisohydric Juniperus monosperma had very litle embolism, refuting the hypothesis that anisohydric species are more vulnerable than isohydric species to hydraulic failure. Garcia-Forner et al. (2O16) suggested that iso/anisohydry in the regulation of $\\psi _ { \\mathrm { l e a f } }$ may be independent of the dynamics of leaf gas exchange or the degree of hydraulic or carbon limitations under drought, necessitating the measurements of leaf water potential and gas exchange together rather than only inferring gas exchange or hydraulic traits from plant iso/anisohydric behavior. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The long-term acclimation of plants to limited water supply is important for their growth and survival. Experimental manipulation of precipitation has provided a way to perform controlled studies of acclimation under the long-term drought, thus improving our understanding of adaptive strategies for different plants under the projected conditions of future climate change (Weltzin et al.,2003; Huang et al.,2O17). Acclimation to the long-term drought may involve the adjustment of plant morphology， physiology，anatomy，growth and/or carbon partitioning among organs. Photosynthesis is one of the most crucial physiological processes involved in acclimation (Chaves et al.,2002； Flexas et al., 2O04),and the effects of the long-term drought on photosynthetic acclimation have been studied. For example, net rate of light-saturated assimilation $( A _ { \\mathrm { n } } )$ ， $g _ { \\mathrm { s } }$ mesophylic conductance of $\\mathrm { C O } _ { 2 }$ ，maximum rate of carboxylation and maximum rate of electron transport all decreased when predawn $\\psi _ { \\mathrm { l e a f } }$ was reduced by the manipulation of throughfall in the evergreen Quercus ilex, but the functional relationships between these parameters and $\\psi _ { \\mathrm { l e a f } }$ were not affected by water treatments (Limousin et al., 2O1O). In contrast, $A _ { \\mathrm { n } }$ and $g _ { \\mathrm { s } }$ for $\\boldsymbol { Q }$ ilex from a mesic habitat decreased more rapidly in mesic than in dry habitats (Martin-StPaul et al.,2012). $A _ { \\mathfrak { n } }$ under full irrigation,specific leaf hydraulic conductance and $\\psi _ { \\mathrm { l e a f } }$ at zero assimilation in a mixed forest in southwestern USA decreased as precipitation decreased for both pinon and juniper trees, and leaf gas exchange acclimated to the level of precipitation in both species (Limousin et al., 2013).The long-term water stress can also invoke acclimatory responses that decrease the sensitivity of photosynthetic capacity to drought in xeric but not in riparian Eucalyptus species (Zhou et al.， 2016). These variations in acclimatory responses suggest that functional photosynthetic acclimation may be influenced by the climatic and soil conditions but can also vary among species/populations. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Salix psammophila C. Wang & C. Y. Yang (Salicaceae) and Caragana korshinskii Kom. (Fabaceae) are two typical deciduous shrubs in the wind-water erosion crisscross region on the Chinese Loess Plateau. Both shrubs play important roles in controlling soil erosion and blocking the invasion of sand. S. psammophila is important to the energy and paper industries,whereas $C$ korshinskii is economically important as a highly productive forage shrub.Effects of the short-term drought on seedling water relations and photosynthesis on these two species have been studied (Liu et al.,2OO7; Xu et al., 2O12), but little is known about the responses of mature plants to the long-term drought and varied precipitation. Thus, we conducted a manipulated experiment with three levels of precipitation (a control with ambient precipitation, $50 \\%$ above ambient precipitation (irrigation treatment), and $50 \\%$ below ambient precipitation (drought treatment)） on these two shrubs to address the following three questions:（1）are $A _ { \\mathrm { n } }$ and $g _ { \\mathrm { s } }$ higher in $C$ korshinskii than in S. psammophila under severe drought due to the anisohydric behavior of $C$ korshinskii and isohydric behavior of S. psammophila (Li et al.，2016)? (2） does the shallow-rooted S. psammophila respond more strongly than $C$ .korshinskii to the higher precipitation，and is it severely inhibited under drought treatment? and (3） xeric species photosynthetically acclimate to the long-term drought better than riparian species (Martin-StPaul et al.,2012; Zhou et al.,2016),so does the drought-resistant C. korshinski (Ma et al.,2008; Xu et al.,2012) photosynthetically acclimate better than the drought-vulnerable S. psammophila? ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The study area was conducted in the Liudaogou Watershed of the Shenmu County， Shaanxi Province,China $( 3 8 ^ { \\circ } 4 6 ^ { \\prime } - 3 8 ^ { \\circ } 5 1 ^ { \\prime } \\mathrm { N }$ ， $1 1 0 ^ { \\circ } 2 1 ^ { \\circ } - 1 1 0 ^ { \\circ } 2 3 ^ { \\prime } \\mathrm { E }$ ； 1081.0-1273.9 m a.s.l.)，which is in a typical wind and water erosion crisscross region on the Chinese Loess Plateau. The mean annual precipitation is $4 3 7 \\ \\mathrm { m m }$ ，with $70 \\%$ falling between July and September. The annual mean temperatures is $8 . 4 ^ { \\circ } \\mathrm { C }$ ，with an annual accumulative temperature $\\geq 1 0 ^ { \\circ } \\mathrm { C }$ of $3 2 4 8 ^ { \\circ } \\mathrm { C }$ ,153 frost-free days,total annual solar radiation of $5 9 2 2 ~ \\mathrm { M J / m } ^ { 2 }$ and mean annual sunshine duration of $2 8 3 6 \\mathrm { ~ h ~ }$ (Tang et al.,1993). The area has mainly loamy,sandy and silt-dammed soils. Vegetation includes plants common in loessial and desert regions； typical woody plants are mainly trees, such as Populus simonii and Salix matsudana and shrubs， such as S. psammophila， C. korshinskii, Amorpha fruticosa and Hedysarum scoparium. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Experimental design ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Two adjacent stands of healthy and uniformly growing S. psammophila and $C$ 、korshinskii on the flat top of a slope in the watershed were selected as experimental sites.Plants at the sites had been planted 30 years ago at the densities of 16OO and 21OO individuals $/ \\mathrm { h m } ^ { 2 }$ for S.psammophila and $C$ korshinskii,respectively. The soil at the sites was classified as typical sandy soil. The average canopy size and height were 3.71 $( \\pm 0 . 1 4 )$ and 3.04 $( \\pm 0 . 0 7 )$ m for S. psammophila and 1.78 $( \\pm 0 . 0 8 )$ （20 and $2 . 2 4 \\ ( \\pm 0 . 2 1 ) \\ \\mathrm { m }$ for C. korshinskii,respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The experimental design consisted of nine，randomly arranged $5 0 ~ \\mathrm { ~ m } ^ { 2 }$ plots，with three replicates of three treatments per stand. The treatments were: (1) an ambient control that received a normal amount of precipitation,(2)a drought treatment with $50 \\%$ less precipitation,and(3) an irrigation treatment with $50 \\%$ more precipitation.We selected these lower and higher amounts of precipitation based on mean annual precipitation in the last 3O a and on the precipitation gradient （ $( 2 0 0 - 6 0 0 ~ \\mathrm { { m m } ) }$ ） within the distribution of the two shrubs on the Chinese Loess Plateau.For the drought treatment, $50 \\%$ of the precipitation was diverted by transparent V-shaped troughs mounted on a steel frame at an interval of $2 0 . 0 \\ \\mathrm { c m }$ . The steel frame was $2 . 5 \\mathrm { ~ m ~ }$ above the canopy and was supported by ten steel posts. Each post was inserted $0 . 5 \\mathrm { ~ m ~ }$ into the soil and fixed by concrete. The intercepted precipitation was collected and diverted by a PVC trough beside the frame and was stored in a large tank and filtered for use as the irrgation water. The photosynthetic photon flux density at the canopy position was generally $9 0 \\% - 9 5 \\%$ of that in the control, and ground-level temperature was $1 ^ { \\circ } \\mathrm { C } \\mathrm { - } 4 ^ { \\circ } \\mathrm { C }$ lower during the growing season. For the irrigation treatment, water was delivered from the tank using a pump driven by a solar panel after a rainfall event with eight equally spaced sprinklers mounted about $2 . 5 \\mathrm { ~ m ~ }$ above the canopy. Precipitation $< 5 \\mathrm { ~ \\ m m }$ was not collected by the troughs，so only approximately $45 \\%$ of the precipitation was diverted for application under the irrigation treatment. Vertical asbestos sheets were buried to a depth of $6 0 \\mathrm { c m }$ between plots to restrict the lateral movement of water in shallow soil.Three neutron-probe access tubes were installed to a depth of $3 \\mathrm { ~ m ~ }$ in each replicate for periodically monitoring soil moisture.The experimental setups were installed on 11 May 2014 for $C$ 、korshinskii and 21 May 2014 for S. psammophila，and no rain fell between the two installations. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Three representative plants centrally located within each plot were selected as target shrubs for measuring physiological parameters. $\\psi _ { \\mathrm { l e a f } } ,$ gas exchange and leaf area index (LAI） were determined for these 27 plants of each species during the growing seasons in 2O14 and 2015,and foliar dry mass per unit area and foliar $\\delta ^ { 1 3 } \\mathbf { C }$ were measured only during the growing season in 2015. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Environmental variables ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Environmental variables were continuously monitored at a nearby field microclimatic station. Solar radiation $( R _ { \\mathrm { s } } )$ was measured using an Apogee2O PRY-P pyranometer (CS3Oo，Apogee Instruments Inc., Logan, USA), air temperature and relative humidity (RH) were measured using a temperature and RH probe (HMP155A， Vaisala Com., Helsinki, Finland)，wind speed was measured using an anemometer (Met One,Met One Instrument, Inc., OR,USA) and precipitation was measured using a tipping-bucket rain gauge (TE525MM, Texas Electronics, Texas, USA). Data were recorded on CR10o0 data loggers (Campbell Scientific, Shepshed, UK) every $1 0 ~ \\mathrm { s }$ ,and averages or totals were stored every $1 0 ~ \\mathrm { { m i n } }$ . Vapor-pressure deficit (VPD, $\\mathbf { k P a } _ { , }$ ）was calculated as the difference between saturated vapor pressure $( e _ { \\mathrm { s } } )$ and actual vapor pressure $( e _ { \\mathrm { a } } )$ ，where $e _ { \\mathrm { s } }$ 0 $\\mathrm { ( P a ) }$ （20 was calculated using the Murray's formula (Murray, 1967): ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne _ { \\mathrm { s } } { = } 6 1 0 . 7 \\times 1 0 ^ { 7 . 5 t / ( t + 2 3 7 . 3 ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne _ { \\mathrm { a } } { = } \\mathrm { R H } { \\times } e _ { \\mathrm { s } } / 1 0 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $t$ is the temperature ${ \\mathrm { ( } } ^ { \\circ } \\mathrm { C } { \\mathrm { ) } }$ ; andRHis the relative humidity $( \\% )$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4 Measurements of $\\psi _ { \\mathrm { l e a f } }$ and soil moisture ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Predawn $(  { \\boldsymbol { { \\Psi } } } _ { \\mathrm { p d } } )$ and midday $( \\psi _ { \\mathrm { m d } } ) \\psi _ { \\mathrm { l e a f } }$ values were measured on sunny days at about 20 d intervals during the growing seasons in 2014 and 2O15 using a pressure chamber (PMS 1000, PMS Instruments,Corvallis, USA). Two to three healthy mature leaves on current-year twigs from the south-facing side of each plant (6-9 leaves per plot) were measured on each measuring date. Leaves for the $\\psi _ { \\mathrm { p d } }$ and $\\psi _ { \\mathrm { m d } }$ measurements were collected on the same days at O5:00-06:00 (LST,local standard time) and 12:00-14:00,respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Soil moisture at a depth of $0 . 2 \\mathrm { - } 3 . 0 \\ \\mathrm { m }$ was measured in each block at $2 0 \\mathrm { - c m }$ intervals using a neutron probe (CNC 503，Beijing Chaosheng Technology Co． LTD，Beijing，China) approximately every three weeks.The neutron probe was calibrated in situ by saturating the ground near the experimental sites and periodically measuring soil moisture using both neutron probe and gravimetric method at different depths.The relationship between probe and gravimetric measurements was used to infer soil moisture. Soil surface $( 0 { - } 2 0 \\ \\mathrm { c m } )$ moisture was measured by gravimetric method. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5Measurements of gas exchange, mass per unit area and $\\delta ^ { 1 3 } \\mathbf { C }$ of leaves ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We measured two parameters of leaf gas exchange, $\\scriptstyle A _ { \\mathrm { n } }$ and $g _ { \\mathrm { s } }$ ，using a portable gas exchange system (LI-640o, Li-Cor Inc.,Lincoln, USA) on two mature leaves of current-year twigs from the south-facing side of three plants per block and species and on the same dates that $\\psi _ { \\mathrm { l e a f } } ^ { \\prime }$ was measured. $A _ { \\mathrm { n } }$ and $g _ { \\mathrm { s } }$ were measured from O9:OO to 12:0O on a sunny day, with the light source set to a saturating photosynthetic photon flux density of $1 8 0 0 \\mathrm { \\ : \\mu m o l / ( m } ^ { 2 } { \\cdot } \\mathrm { s } )$ ,and ambient temperature, relative humidity and ambient $\\mathbf { C O } _ { 2 }$ concentration were $7 . 4 ^ { \\circ } \\mathrm { C } \\mathrm { - } 2 7 . 2 ^ { \\circ } \\mathrm { C } .$ $1 4 . 1 \\% - 6 2 . 8 \\%$ and 376-402 $\\mathrm { \\mu m o l / m o l }$ , respectively, depending on the measurement date and time of the day. At the end of each measurement，the leaves enclosed in the chamber were collected for determining their projected areas that were imaged on a flatbed scanner and measured using ImageJ software (US National Institutes of Health, Bethesda, USA) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "After the measurement of gas exchange, samples of leaves were pooled on $2 9 \\ \\mathrm { M a y }$ and 24 August 2O15 with the other mature leaves collected from current-year twigs for measuring leaf mass per unit area (LMA） and foliar $\\delta ^ { 1 3 } \\mathrm { C }$ . The leaves were oven-dried at $7 5 ^ { \\circ } \\mathrm { C }$ for $^ { 4 8 \\mathrm { ~ h ~ } }$ for determining dry mass. LMA was calculated as the ratio of dry mass to projected area. Ground dried leaves were analyzed for $\\delta ^ { 1 3 } \\mathrm { C }$ using a continuous-flow isotope ratio mass spectrometer (DeltaPlus,Finnigan,Germany). $\\delta ^ { 1 3 } \\mathrm { C }$ was calculated as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\delta } ^ { 1 3 } \\mathrm { C } { = } ( R _ { \\mathrm { s a m p l e } } / R _ { \\mathrm { s t a n d a r d } } { - } 1 ) { \\times } 1 0 0 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $R$ is the isotope ratio $\\big ( { } ^ { 1 3 } \\mathrm { C } / { } ^ { 1 2 } \\mathrm { C } \\big )$ ; and $R _ { \\mathrm { s a m p l e } }$ and $R _ { \\mathrm { s t a n d a r d } }$ are the isotope ratios of the sample and standard,respectively. The isotope values are expressed in delta notation relative to the VPDB(Vienna Peedee Belemnites） standard. The standard deviation for replicate analyses was $\\pm0 . 3 \\text{‰}$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.6 LAI ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "LAI was monitored for three plants in each replicated block using a LAI-22OO Plant Canopy Analyzer (LI-COR Biosciences,Lincoln,USA). Three measurements from three directions,at intervals of $1 2 0 ^ { \\circ }$ , were taken at half of projected canopy size between O5:3O and O8:OO on a sunny day. These measurements were taken three times in each growing season. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.7 Data analyses ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Effects of treatments on soil moisture, $\\ _ { \\mathrm { p d } } ^ { \\upsilon } , \\ \\mathcal { Y } _ { \\mathrm { m d } } , \\ A _ { \\mathrm { n } } , \\ g$ ,LMA, $\\delta ^ { 1 3 } \\mathrm { C }$ and LAI on each sampling date were tested using one-way analysis of variance (ANOVA)，with individual plots as a replicate $\\scriptstyle ( n = 3 )$ for each species.A Tukey post hoc test was used to identify differences among treatments when an ANOVA identified a significant effect. The differences between species of （204 $\\psi _ { \\mathrm { p d } }$ ， $\\psi _ { \\mathrm { m d } }$ $A _ { \\mathfrak { n } }$ and $g _ { \\mathrm { s } }$ for each treatment during the growing season in 2O15 were detected using an independent $t { \\cdot }$ -test. Analysis of covariance (ANCOVA） was used to compare the regressions between $g _ { \\mathrm { s } }$ and $A _ { \\mathfrak { n } }$ ,between VPD and $A _ { \\mathfrak { n } }$ or $g _ { \\mathrm { s } }$ ,and between $\\psi _ { \\mathrm { p d } }$ and $A _ { \\mathrm { n } }$ or $g _ { \\mathrm { s } }$ among treatments for each species.We modeled the sensitivities of the gas exchange parameters to VPD and $\\psi _ { \\mathrm { p d } }$ as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny = - m \\mathrm { l n } \\mathrm { V P D } + n ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $m$ is the sensitivity of $A _ { \\mathfrak { n } }$ or $g _ { \\mathrm { s } }$ to VPD; and $n$ is the corresponding value of $A _ { \\mathrm { n } }$ or $g _ { \\mathrm { s } }$ at $\\mathrm { { V P D = 1 } \\ k P a }$ (Oren et al., 1999),and ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\scriptstyle { y = a e ^ { b x } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $x$ is the $\\psi _ { \\mathrm { p d } } ; b$ is the sensitivity of $A _ { \\mathrm { n } }$ or $g _ { \\mathrm { s } }$ to $\\psi _ { \\mathrm { p d } }$ ；and $a$ is the corresponding value of $A _ { \\mathrm { n } }$ or $g _ { \\mathrm { s } }$ when $x$ is close to O (Zhou et al.， 2O16). Standard major axis was used to compare the difference of $m$ or $b$ between species using SMATR (Standardised Major Axis Tests and Routines) 2.0 software (Falster et al., 2006). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Climatic variables and soil moisture ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Mean annual precipitation was $4 3 9 . 2 \\mathrm { m m }$ in 2014 and $3 8 8 . 4 \\mathrm { m m }$ in 2015,and precipitation during the growing season was $3 7 3 . 3 ~ \\mathrm { m m }$ in 2014 and $3 0 5 . 6 \\mathrm { m m }$ in 2015 (Fig.1).When the precipitation values during the growing season and for the entire year in 2O14 and 2O15 were compared with the corresponding values of the multi-years (1980-2O14), we found that precipitation values were almost the same as means of multi-years in 2O14, but $6 5 ~ \\mathrm { m m }$ less for the growing season and 45 mm less for the entire year in 2O15,indicating that 2O14 was a normal year but 2O15 was a relatively dry year.Mean daytime VPD was higher in 2015( $1 . 4 6 \\ \\mathrm { k P a } )$ than in 2014 $( 1 . 2 4 \\mathrm { ~ k P a } )$ ， but mean daily solar radiation $( 2 0 . 7 \\mathrm { \\ M J / ( m } ^ { 2 } { \\cdot } \\mathrm { d } )$ in 2014 and $2 0 . 3 \\mathrm { \\ M J / ( m ^ { 2 } { \\cdot } d ) }$ in 2015) did not significantly differ between the two growing seasons. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0108d7ee4362d6f0b900cfe719a53bed45aacd1425822ea60d5077927b5dc7e.jpg",
+        "img_caption": [
+            "Fig.1Seasonal variations in precipitation,solar radiation and vapor pressure deficit (VPD) during the growing seasons in 2014 (a) and 2015 (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Soil moisture for all treatments was lower in 2015 than in 2O14 for both species (Fig. 2),as expected. Soil moisture was relatively low under all treatments at the end of June and August in both years,corresponding to the low precipitation during these periods. The treatments did not significantly affect soil moisture at the end of June and August for both species. However, soil moisture significantly changed in the other months. Soil moisture for S. psammophila was generally lower under drought treatment and higher under irrigation treatment than the control during the growing season in 2O14 and rainy season in 2O15, no difference of soil moisture among treatments at the end of growing season in 2O14 and dry season in 2O15 may be related with leaf except in June-August in 2O14 when soil moisture under drought treatment was not significantly decreased compared to the control. The result might be explained by the fact that the experimental setup was installed in the near term. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/74b8d4f6c20bff99f9035d60667a71ca1f2170fe760317bc057cf3d99b36076a.jpg",
+        "img_caption": [
+            "Fig.2Variations of soil moisture within $1 . 0 \\mathrm { ~ m ~ }$ soil depth for Salix psammophila (a and c) and Caragana korshinskii (b and d) under different precipitation treatments in 2O14 and 2O15.Bars are standard errors, $\\scriptstyle n = 3$ ： $^ *$ （20 and \\*\\* indicate significance among three treatments at $P { < } 0 . 0 5$ and $P { < } 0 . 0 1$ levels,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 Leaf water potential ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$\\psi _ { \\mathrm { p d } }$ for S. psammophila during the growing seasons in 2O14 and 2O15 generally ranged from $- 0 . 1$ to $- 0 . 5 \\mathrm { M P a }$ , except for at the end of June,when $\\psi _ { \\mathrm { p d } }$ was the lowest $( - 0 . 6 \\ \\mathrm { M P a }$ in 2014 and $- 0 . 7$ MPa in 2015,Figs. 3a and b). $\\psi _ { \\mathrm { p d } }$ for $S$ .psammophila was significantly affected by the treatments on two of the nine sampling dates in 2014 ( $_ { ( P < 0 . 0 5 }$ ; Fig. 3a) and on five of the eleven sampling dates in 2015 ( $_ { ( P < 0 . 0 5 }$ ; Fig. 3b). $\\psi _ { \\mathrm { p d } }$ for S. psammophila usually responded more to irrigation than drought treatment, especially on the dates when $\\psi _ { \\mathrm { p d } }$ was significantly affected by the treatments (Figs. 3a and b; Table 1). $\\psi _ { \\mathrm { p d } }$ for $C .$ 、korshinskii ranged from $- 0 . 3$ to $- 1 . 3 \\ \\mathrm { M P a }$ during the two growing seasons,and $\\psi _ { \\mathrm { p d } }$ for $C$ 、korshinskii under control and irrigation treatments was relatively stable throughout the growing seasons in both years,but $\\psi _ { \\mathrm { p d } }$ under drought treatment significantly decreased during the late growing season in both years (Figs.3c and d). Seven of the twelve $\\psi _ { \\mathrm { p d } }$ measurements in 2O14 and all ten of the measurements in 2O15 were significantly influenced by the treatments $( P { < } 0 . 0 5 )$ ： $\\psi _ { \\mathrm { p d } }$ was significantly lower under drought treatment and higher under irrgation treatment during the growing seasons in 2O14 and 2O15,especially on the dates when $\\psi _ { \\mathrm { p d } }$ was significantly affected by the treatments (Figs. 3c and d; Table 1). ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/07e86b91acb46e065ec49e71703c5f694882bcd31a0caa48dcf7f0140dc1a21a.jpg",
+        "img_caption": [
+            "Fig.3Variations in predawn ( $\\psi _ { \\mathrm { p d } } ^ { } )$ and midday ( $\\left( \\psi _ { \\mathrm { m d } } \\right)$ leaf water potentials for Salix psammophila(a,b,e and f) and Caragana korshinskii(c, d, $\\mathbf { g }$ and $\\mathbf { h }$ ） under different precipitation treatments during the growing seasons in 2014 and 2O15.Bars are standard errors, $\\scriptstyle n = 3$ .\\* and $^ { * * }$ indicate significance among three treatments at $P { < } 0 . 0 5$ （20 and $P { < } 0 . 0 1$ levels,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\psi _ { \\mathrm { m d } }$ for S.psammophila ranged from $- 0 . 6$ to $- 1 . 6$ MPa during the two growing seasons and decreased during the\"late growing season in 2015 (Figs. 3e and f). Three of the nine $\\psi _ { \\mathrm { m d } }$ measurements in 2O14 and four of the eleven measurements in 2O15 were significantly afected by the treatments $( P { < } 0 . 0 5 )$ ： $\\psi _ { \\mathrm { m d } }$ was lower under drought treatment in 2O14 and higher under irrigation treatment in 2O15 compared with the control on the dates when the treatments significantly affected $\\psi _ { \\mathrm { m d } }$ (Figs.3e and f; Table 1). $\\psi _ { \\mathrm { m d } }$ for $C$ 、korshinskii ranged from $- 1 . 3$ to $- 2 . 8$ MPa during the two growing_seasons (Figs. $3 \\mathrm { g }$ and h). Three of the twelve $\\psi _ { \\mathrm { m d } }$ measurements in 2O14 were significantly affected by the treatments $( P { < } 0 . 0 5 )$ . Nine of the ten $\\psi _ { \\mathrm { m d } }$ measurements in 2O15 were significantly affected by the treatments $( P { < } 0 . 0 5 )$ ，with the highest $\\psi _ { \\mathrm { m d } }$ under irrigation treatment,and the lowest under drought treatment (Fig. 3h; Table 2). ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/87705c484ae45cb724a4bab16813e6173ac350ee1f77ad348e9250cef963b378.jpg",
+        "table_caption": [
+            "Table 1Number of days with significant treatment efects for irrigation and drought treatments when compared with the control for Salix psammophila and Caragana korshinskiiduring the growing seasons in 2O14 and 2015 "
+        ],
+        "table_footnote": [
+            "Note: $\\psi _ { \\mathrm { p d } }$ and $\\psi _ { \\mathrm { m d } }$ were predawn and midday leaf water potentials,respectively, $A _ { \\mathfrak { n } }$ and $g _ { s }$ were light-saturated net assmilation and stomatal conductance,respectively. $N$ was the measuring times in 2O14 and 2015.The positive $( + )$ signs indicate the increases and the negative (-) signs indicate the decreases of the number of days. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">Variable</td><td colspan=\"5\">Salixpsammophila</td><td colspan=\"5\">Caragana korshinskii</td></tr><tr><td colspan=\"2\">Irrigation</td><td colspan=\"2\">Drought</td><td rowspan=\"2\">N</td><td colspan=\"2\">Irrigation</td><td colspan=\"2\">Drought</td><td rowspan=\"2\">N</td></tr><tr><td>2014</td><td>2015</td><td>2014</td><td>2015</td><td>2014</td><td>2015</td><td>2014</td><td>2015</td></tr><tr><td>Ypd</td><td>1(+)</td><td>4(+)</td><td>1(-)</td><td>1(-)</td><td>9,11</td><td>3(+)</td><td>9(+)</td><td>7(-)</td><td>10 (-)</td><td>12,10</td></tr><tr><td>Ymd</td><td>0</td><td>4(+)</td><td>3(-)</td><td>2 (-)/2 (+)</td><td>9,11</td><td>2(+)</td><td>8(+)</td><td>2 (-)</td><td>9(-)</td><td>12,10</td></tr><tr><td>An</td><td>0</td><td>3 (+)</td><td>1(-)</td><td>2(-)</td><td>8,8</td><td>0</td><td>6(+)</td><td>0</td><td>6(-)</td><td>10,8</td></tr><tr><td>gs</td><td>2(+)</td><td>3(+)</td><td>0</td><td>1(-)</td><td>8,8</td><td>0</td><td>4(+)</td><td>0</td><td>5(-)</td><td>10,8</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/c1714d4ee31115cb3383320506d0aae440a97dd01567025fd8dc412a238bbba2.jpg",
+        "table_caption": [
+            "Table 2Averaged leaf water potentials and gas exchange parameters for Salix psammophila and Caragana korshinskii during the growing season in 2015 "
+        ],
+        "table_footnote": [
+            "Note: $\\psi _ { \\mathrm { p d } }$ and $\\psi _ { \\mathrm { m d } }$ were predawnand midday leaf waterpotentials,espectively,and were measured for11 times in Salix psammophila and10 timesin Caragana korshinskii. $A _ { \\mathfrak { n } }$ and $g _ { \\mathrm { s } }$ were light-saturated net assimilation and stomatal conductance,respectively and were measured8times forboth species.Thenumbers within parenthesesarethepercentage increaserelativetothecontrolvalue,with positive value indicating increaseand negative value indicating decrease.“andnsindicate significance betweentwo species at $P { < } 0 . 0 5$ （20 and $P { > } 0 . 0 5$ levels, respectively. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Variable</td><td colspan=\"3\">Salix psammophila</td><td colspan=\"3\">Caragana korshinskii</td></tr><tr><td>Control</td><td>Irrigation</td><td>Drought</td><td>Control</td><td>Irrigation</td><td>Drought</td></tr><tr><td>Ypd(MPa)</td><td>-0.30</td><td>-0.27 (10.00)</td><td>-0.34 (-13.33)</td><td>-0.65*</td><td>-0.50 (23.08)*</td><td>-0.91 (-40.00)*</td></tr><tr><td>Ymd (MPa)</td><td>-1.09</td><td>-0.97 (11.01)</td><td>-1.09 (0.00)</td><td>-2.11*</td><td>-1.93 (8.53)*</td><td>-2.51 (-18.96)*</td></tr><tr><td>An (umol/(m²·s))</td><td>13.85</td><td>16.71 (20.65)</td><td>12.16 (-12.20)</td><td>16.24*</td><td>21.66 (33.37)*</td><td>11.33 (-30.23)ns</td></tr><tr><td>gs(mmol/(m²·s))</td><td>119.00</td><td>142.50 (19.80)</td><td>106.10 (-10.85)</td><td>116.00ns</td><td>159.20 (37.25)*</td><td>75.80 (-34.66)*</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\psi _ { \\mathrm { p d } } ^ { \\prime }$ and $\\psi _ { \\mathrm { m d } }$ were generally lower for $C$ 、korshinskii than for S.psammophila in both years (Fig. 3; Table 2). There was no significant correlation between $\\psi _ { \\mathrm { p d } }$ and $\\psi _ { \\mathrm { m d } }$ for $S$ psammophila (Fig. 4a), but $\\psi _ { \\mathrm { p d } }$ was positively correlated with the water potential gradient $( \\Delta \\Psi , \\Psi _ { \\mathrm { p d } } - \\Psi _ { \\mathrm { m d } }$ $P { < } 0 . 0 5$ ; Fig. 4b). $\\psi _ { \\mathrm { p d } }$ was positively correlated with $\\psi _ { \\mathrm { m d } }$ for $C$ korshinskii ( $_ { ( P < 0 . 0 5 }$ ; Fig. 4c), but $\\psi _ { \\mathrm { p d } }$ was not significantly correlated with the water potential gradient (Fig. 4d). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3 Leaf gas exchange ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Parameters of leaf gas exchange for S. psammophila seasonally fluctuated, with $\\scriptstyle A _ { \\mathrm { n } }$ and $g _ { \\mathrm { s } }$ much lower at the end of June and in mid-to-late August during the two growing seasons (Fig.5). These decreases corresponded to the lower precipitation and soil moisture during these periods (Figs. 1 and 2).Only one $A _ { \\mathfrak { n } }$ and two $g _ { \\mathrm { s } }$ of the eight measurements of leaf gas exchange for $S$ psammophila in 2O14 were significantly affected by the treatments ( $_ { ( P < 0 . 0 5 }$ ; Figs. 5a and b). Four $A _ { \\mathrm { n } }$ and three $g _ { \\mathrm { s } }$ of the eight measurements in 2O15 were significantly affected by the treatments 1 $( P { < } 0 . 0 5$ ; Figs. 5c and d). $\\scriptstyle A _ { \\mathfrak { n } }$ and $g _ { \\mathrm { s } }$ responded more to the irrigation treatment on the sampling dates when the treatment had significant effects (Figs.5a and d; Tables 1 and 2). $A _ { \\mathrm { n } }$ for $C$ korshinskii peaked in mid-to-late August during the two growing seasons. Treatments did not significantly affect $\\scriptstyle A _ { \\mathrm { n } }$ or $g _ { \\mathrm { s } }$ in 2014 (Figs. 5e and f). All eight $\\scriptstyle A _ { \\mathrm { n } }$ and $g _ { \\mathrm { s } }$ measurements were significantly affected by the treatments in 2015 $( P { < } 0 . 0 5 )$ ,with the highest $A _ { \\mathrm { n } }$ and $g _ { \\mathrm { s } }$ values under irrigation treatment, followed by the control and the lowest under drought treatment (Figs. 5g and h; Tables 1 and 2). ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e9df7df7a431dd8fcd40081186e4e9c52903b7dcc51cf137b84675d7f42a1bb1.jpg",
+        "img_caption": [
+            "Fig.4Relationships of predawn leaf water potential ( $\\left( \\psi _ { \\mathrm { p d } } \\right)$ with midday leaf water potential ( $: \\psi _ { \\mathrm { m d } } )$ and water potential gradient $( \\Delta \\psi , \\ \\psi _ { \\mathrm { p d } } - \\psi _ { \\mathrm { m d } } )$ for Salix psammophila(a and b) and Caragana korshinskii(c and d) under different precipitation treatments.Bars are standard errors.Data from 2O14 and 2015 were pooled together,in which $\\scriptstyle n = 9$ in 2014 and11 in 2015 for S.psammophila,and12 in 2014 and 10 in 2015 for $C .$ korshinskii. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$A _ { \\mathfrak { n } }$ and $g _ { \\mathrm { s } }$ for both species responded to precipitation manipulation more in 2O15 than in 2014 (Fig. 5). $\\scriptstyle A _ { \\mathrm { n } }$ and $g _ { \\mathrm { s } }$ during the growing season in 2O15 were higher for $C .$ korshinskii than for $S _ { \\cdot }$ psammophila under irrigation treatment, but $\\scriptstyle A _ { \\mathrm { n } }$ was similar and $g _ { \\mathrm { s } }$ was even lower than that of $S$ psammophila under drought treatment (Table 2),indicating that $C .$ ，korshinskii did not have a higher photosynthetic capacity than $S$ ：psammophila under severe drought. The response pattern and magnitude of $A _ { \\mathrm { n } }$ and $g _ { \\mathrm { s } }$ to precipitation manipulation differed between the two species. $\\scriptstyle A _ { \\mathrm { n } }$ and $g _ { \\mathrm { s } }$ for $S$ . psammophila clearly responded to irrigation but seldom to drought treatment. In contrast, $\\scriptstyle A _ { \\mathrm { n } }$ and $g _ { \\mathrm { s } }$ for $C$ .korshinskii responded strongly to both irrigation and drought treatments relative to the control (Tables 1 and 2). The response magnitude of both irrigation and drought treatments was larger for $C$ 、korshinskii than for $S$ psammophila (Table 2).Precipitation treatments did not affect the linear relationship between $A _ { \\mathrm { n } }$ and $g _ { \\mathrm { s } }$ for these two species (Fig. 6). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.4 Sensitivities of leaf gas exchange to VPD and $\\psi _ { \\mathrm { p d } }$ ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Treatment and VPD or $\\psi _ { \\mathrm { p d } }$ did not significantly interact with $A _ { \\mathrm { n } }$ and $g _ { \\mathrm { s } }$ for either species $( P { > } 0 . 0 5 )$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/10627a29381774e59dea92c0a32316b038760e892e1e2e5866f0186c4b75b182.jpg",
+        "img_caption": [
+            "Fig.5Variations in light-saturated net assimilation $\\left( A _ { \\mathrm { n } } \\right)$ and stomatal conductance $( g _ { \\mathrm { s } } )$ for Salix psammophila (a, b,c and d)and Caragana korshinskii(e,f,g and h) under diffrent precipitation treatments during the growing seasons in 2014 and 2015.Bars are standard errors, $\\scriptstyle n = 3$ .\\* and $^ { * * }$ indicate significance among three treatments at $P { < } 0 . 0 5$ and $P { < } 0 . 0 1$ levels,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "in the ANCOVA,so the relationships between $A _ { \\mathfrak { n } }$ and VPD or $\\psi _ { \\mathrm { p d } }$ $g _ { \\mathrm { s } }$ and VPD or $\\psi _ { \\mathrm { p d } }$ did not differ among the treatments.When we pooled together the data from all treatments, leaf gas exchange decreased with increasing VPD and $\\psi _ { \\mathrm { p d } }$ ，and decreased faster for S.psammophila than for $C .$ korshinskii $_ { ( P < 0 . 0 5 }$ ; Figs.7 and 8), indicating a higher sensitivity of gas exchange to VPD and $\\psi _ { \\mathrm { p d } }$ $\\scriptstyle A _ { \\mathrm { n } }$ and $g _ { \\mathrm { s } }$ were the highest at $ { \\mathcal { Y } _ { \\mathrm { p d } } } \\mathrm { = - 0 . 2 \\ M P a }$ for S. psammophila and at $ { \\mathcal { Y } _ { \\mathrm { p d } } } \\mathrm { = - 0 . 4 \\ M P a }$ for $C$ ，korshinskii. $\\psi _ { \\mathrm { p d } }$ at a $50 \\%$ loss of maximum $A _ { \\mathfrak { n } }$ was $- 0 . 3 9 \\ \\mathrm { M P a }$ for S. psammophila and $- 1 . 2 5 \\ \\mathrm { M P a }$ for $C$ .korshinskii, with a corresponding $\\psi _ { \\mathrm { p d } }$ at a $50 \\%$ loss of maximum $g _ { \\mathrm { s } }$ of $- 0 . 4 2$ MPa for S. psammophila and $- 1 . 2 1 \\ \\mathrm { M P a }$ for $C$ ，korshinskii. $\\psi _ { \\mathrm { p d } }$ corresponding to $50 \\%$ losses of maximum $\\scriptstyle A _ { \\mathrm { n } }$ and $g _ { \\mathrm { s } }$ was lower for $C$ 、korshinskii than for S. psammophila,suggesting that the ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "photosynthetic apparatus was more resistant to drought for C. korshinskii than for S.   \npsammophila. Salixpsammophila Caragana korshinskii 40 (a) (c) =-4.301x+28.069   \n（(s-u)/joum) 30- HH T He 格 TQIH 王 R 20- I A HH鑫 工 全 10- O■△ Irntron TOI Drought 国 0 (b) (d) 300 y=-118.879x+199.563 I y=-115.830x+223.210   \n(s.u)/ouu) 重 R=0.31,P<0.001 丰 H R²=0.25,P<0.001 A HH   \n30 全 望 全 K全H 至 / H 工+I 奋 鑫 医 A 奋 0 0.0 0.2 0.4 0.6 0.8 1.0 0.0 0.2 0.4 0.6 0.8 1.0 1.2 ln(VPD) ln(VPD) ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/1f4fccc705096994261850c67db4d6b81204fc305f7b71a0a209badcc27d0773.jpg",
+        "img_caption": [
+            "Fig.6Relationship between light-saturated net assimilation $\\left( A _ { \\mathrm { n } } \\right)$ and stomatal conductance $( g _ { \\mathrm { s } } )$ for Salix psammophila (a)and Caragana korshinskii(b)under diffrent precipitation treatments.Bars are standard errors. Data from 2014 and 2015 were pooled together,in which $\\scriptstyle n = 4 8$ for $S$ psammophilaand54for $C .$ korshinskii. ",
+            "Fig.7Relationships of light-saturated net assimilation $\\left( A _ { \\mathrm { n } } \\right)$ and stomatal conductance $( g _ { \\mathrm { s } } )$ with VPD (vapor pressuredeficit)for Salix psammophila (aandb)and Caragana korshinskii (c and d) under different precipitation treatments.Bars are standard errors.Data from 2O14 and 2O15 were pooled together,in which $\\scriptstyle n = 4 8$ for $S .$ （20 psammophilaand $\\scriptstyle n = 5 4$ for $C$ korshinskii. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.5 LMA, $\\delta ^ { 1 3 } \\mathbf { C }$ and canopy LAI ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Leaf $\\delta ^ { 1 3 } \\mathbf { C }$ and LMA for $S$ ：psammophila during the growing season in 2O15 were significantly affected by the treatments $( P { < } 0 . 0 5 )$ ,with $\\delta ^ { 1 3 } \\mathrm { C }$ and LMA lower under irigation treatment than the control. Treatments, however, did not significantly affect $\\delta ^ { 1 3 } \\mathrm { C }$ or LMA for $C .$ 、korshinskii(Table 3).Drought significantly decreased LAI for S.psammophila in 2O15 and for $C$ 、korshinskii inboth two seasons,and irrigation increased LAI for $C$ . korshinskii during the middle growing season in 2015 (Fig. 9). ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/58f65d5b15f73d76616bd3ccdc8d31af02a2bbe76367c63023bed9ace7f0fd33.jpg",
+        "img_caption": [
+            "Fig.8Relationships of light-saturated net assimilation $\\left( A _ { \\mathrm { n } } \\right)$ and stomatal conductance $( g _ { \\mathrm { s } } )$ with predawn leaf water potential( $\\left( \\psi _ { \\mathrm { p d } } \\right)$ for Salix psammophila (a and b） and Caragana korshinskii (c and d) under different precipitation treatments. Bars are standard errors.Data from 2014 and 2015 were pooled together,in which $\\scriptstyle n = 4 8$ （204号 for S.psammophila and $\\scriptstyle n = 5 4$ for C.korshinskii. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/05b00e7b0abb65291e982b7eb31c9ff18207f5c74e0269e57e7e9ae237ed9e6b.jpg",
+        "table_caption": [
+            "Table 3Leaf mass per area (LMA）and $\\delta ^ { 1 3 } \\mathrm { C }$ for Salix psammophila and Caragana korshinskii during the growing season in 2015 "
+        ],
+        "table_footnote": [
+            "Note:Mean±SE, $\\scriptstyle n = 3$ .Different lowercase letters indicate significance among different treatments at $P { < } 0 . 0 5$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Species</td><td rowspan=\"2\">Treatment</td><td colspan=\"2\">LMA (g/m²)</td><td colspan=\"2\">813C (%0)</td></tr><tr><td>May</td><td>August</td><td>May</td><td>August</td></tr><tr><td rowspan=\"3\">Salix psammophila</td><td>Control</td><td>74.33±2.03a</td><td>123.05±5.40a</td><td>-24.8±0.1a</td><td>-25.6±0.2ab</td></tr><tr><td>Irrigation</td><td>61.11±3.37b</td><td>99.11±9.85b</td><td>-25.4±0.1b</td><td>-26.0±0.1b</td></tr><tr><td>Drought</td><td>72.00±2.08a</td><td>125.09±10.7a</td><td>-25.0±0.3ab</td><td>-25.2±0.1a</td></tr><tr><td rowspan=\"3\">Caragana korshinskii</td><td>Control</td><td>63.37±1.68</td><td>104.30±2.79</td><td>-25.2±0.1</td><td>-26.2±0.4</td></tr><tr><td>Irrigation</td><td>61.77±2.92</td><td>104.73±1.37</td><td>-25.5±0.4</td><td>-25.7±0.3</td></tr><tr><td>Drought</td><td>59.42±1.23</td><td>89.92±3.48</td><td>-24.9±0.2</td><td>-25.9±0.1</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.1Strategies of stomatal regulation and carbon assimilation in two shrubs ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "S. psammophila is an isohydric plant, whereas C.korshinskii is an anisohydric plant,based on seasonal changes in $\\psi _ { \\mathrm { l e a f } } ^ { \\prime } .$ ，daily stomatal regulatory capacity and stem hydraulic vulnerability (Dong and Zhang，2001; Jiang and Zhu,2001；Xu et al.，2012；Li et al.，2016). Seasonal fluctuations in $\\psi _ { \\mathrm { p d } }$ and $\\psi _ { \\mathrm { m d } }$ for S. psammophila were small,and $\\psi _ { \\mathrm { p d } }$ and $\\psi _ { \\mathrm { m d } }$ were not significantly affected by drought and correlated for most sampling dates (Fig. 3). $\\psi _ { \\mathrm { p d } }$ and water potential gradient were significantly correlated, suggesting that S. psammophila could maintain $\\psi _ { \\mathrm { p d } }$ and adjusted its water potential gradient when soil water potential decreased, behaving as a typical isohydric plant (Tardieu and Simonneau，1998；Martinez-Vilalta and Garcia-Forner, 2O16). In contrast, seasonal fluctuations in $\\psi _ { \\mathrm { p d } }$ and $\\psi _ { \\mathrm { m d } }$ and the effects of drought on $\\psi _ { \\mathrm { p d } }$ and $\\psi _ { \\mathrm { m d } }$ were larger for $C$ 、korshinskii than for $S$ ：psammophila (Fig.2). The linear regression between $\\psi _ { \\mathrm { p d } }$ and $\\psi _ { \\mathrm { m d } }$ was significant, but $\\psi _ { \\mathrm { p d } }$ was not significantly correlated with the water potential gradient for $C$ .korshinskii, suggesting that $\\psi _ { \\mathrm { m d } }$ decreased as soil water potential decreased and that this shrub behaved as an anisohydric plant (Tardieu and Simonneau,1998; Martinez-Vilalta and Garcia-Forner, 2016). ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/e4c24f382bc2e7f1991314974f6783c585facb509449b53a47ff60e38441e25c.jpg",
+        "img_caption": [
+            "Fig.9Leaf area index of Salix psammophila (a) and Caragana korshinskii(b)under diffrent precipitation treatments during the growing seasons in 2O14 and 2O15.Bars are standard errors, $\\scriptstyle n = 3$ Different lowercase letters indicate significant differences among different treatments at $P { < } 0 . 0 5$ level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "$A _ { \\mathfrak { n } }$ and $g _ { \\mathrm { s } }$ were higher for $C$ 、korshinskii than for S.psammophila under irrigation treatment, perhaps due to the higher leaf $\\mathbf { N }$ content ( $1 . 8 4 \\%$ for $C$ ，korshinskii and $1 . 0 5 \\%$ for S. psammophila) of this leguminous species. $A _ { \\mathfrak { n } }$ was similar for $C$ 、korshinskii and S. psammophila,and $g _ { \\mathrm { s } }$ was lower for $C$ 、korshinskii than for S.psammophila under severe drought (Table 2), inconsistent with the higher $\\scriptstyle A _ { \\mathrm { n } }$ and $g _ { \\mathrm { s } }$ for anisohydric than for isohydric plants under extreme drought. This patern has been reported for various crops,woody species and Vitis cultivars (Tardieu and Simonneau，1998；Lovisolo et al.，2010；Quero et al.，2011)，further suggesting that iso/anisohydric behavior based on the regulation of $\\psi _ { \\mathrm { l e a f } } ^ { \\prime }$ may be difficult to associate with their gas exchange behavior (Martinze-Vilalta and Garcia-Forner, 2016). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.2 Responses of $\\psi _ { \\mathrm { l e a f } } ^ { \\prime }$ and gas exchange to precipitation manipulation ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The parameters of $\\psi _ { \\mathrm { l e a f } }$ and gas exchange for both shrubs responded to the precipitation manipulation, but the patterns of response differed between the two species. The response of $S$ psammophila to irrigation and drought treatments was asymmetrical. $\\psi _ { \\mathrm { p d } } ^ { \\prime } , \\ A _ { \\mathrm { n } }$ and $g _ { \\mathrm { s } }$ for $S$ psammophila were higher under irrigation treatment than under the control but were similar between drought and control treatments. $\\psi _ { \\mathrm { p d } }$ ， $\\psi _ { \\mathrm { m d } }$ ， $A _ { \\mathrm { n } }$ and $g _ { \\mathrm { s } }$ for $C$ 、korshinskii all responded symmetrically to irrigation and drought treatments. All these variables were higher under irrigation treatment and lower under drought treatment than under the control (Figs.3 and 5; Tables 1 and 2). These different patterns of response between the two shrubs may be due to the hydraulic constraints, especially root distribution and the acclimation of water uptake by roots. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "S.psammophila has shallow roots,with roots not exceeding $1 . 5 \\mathrm { ~ m ~ }$ ，but the roots spread horizontally by up to 3-fold of the canopy size.This root configuration restricts S.psammophila to water supplies in shallow soil (Liu et al., 2O1O),so $\\psi _ { \\mathrm { l e a f } }$ and gas exchange for this species are very sensitive to irrigation. Stronger stomatal regulation in the isohydric S. psammophila may have limited responses of $\\psi _ { \\mathrm { l e a f } } ,$ $\\scriptstyle A _ { \\mathrm { n } }$ and $g _ { \\mathrm { s } }$ to drought on most of the measuring dates. $C$ korshinskii has a taproot system with dense lateral roots,and roots can reach deeper than $6 . 0 \\mathrm { ~ m ~ }$ for 12-15-year-old plants (Niu et al.,2O03).A hydrogen isotope experiment in the Ulanbuh Desert found that $C$ .korshinskii mainly acquired water from depths of O-30 and $6 0 { \\ - } 9 0 \\ \\mathrm { c m }$ during late autumn (Zhu et al.,2O1O),suggesting that its root system took up water from both shallow and deep layers.This versatile strategy for acquiring water likely accounts for the symmetrical patterns of the responses of $\\psi _ { \\mathrm { l e a f } }$ $A _ { \\mathrm { n } }$ and $g _ { \\mathrm { s } }$ to irrigation and drought treatments. The asymmetrical patern of response of S. psammophila to the water treatments in our study was similar to the pattern in the isohydric $P .$ edulis in southwestern USA,whereas the symmetrical patterns for $C$ korshinskii differed from that for anisohydric $J .$ monosperma (Limousin et al.，2013). The photosynthetic capacity of $J .$ monosperma was similar in irrigation and control plots and was significantly lower under drought treatment (Limousin et al.,2O13).These differences in response to precipitation manipulation between two anisohydric species may be due to a greater reliance on deep soil water in $J .$ monosperma than in C.korshinskii. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "C. korshinski responded more strongly than S. psammophila to the precipitation manipulation, outperformed S. psammophila under irrigation treatment and was severely inhibited under drought treatment (Table 2).Leaf $\\mathbf { N }$ content was higher for C. korshinskii than for $S$ psammophila due to its function of fixing N, which may help to increase photosynthetic capacity under irrigation in the nutrient-limited area. The high infiltration capacity of the sandy soils at the sites may also have allowed rainwater to quickly infiltrate to deep soil, which would be difficult to access by the shallow-rooted S. psammophila. Our previous data for the growth of these two shrubs (Ai et al., 2Ol7） also demonstrated that seasonal increase in aboveground biomass was larger for $C$ .korshinskii than for S. psammophila under irrigation treatment but smaller under drought treatment, supporting the validity of our data for gas exchange. The greater plasticity of $\\psi _ { \\mathrm { l e a f } } ^ { \\prime }$ and gas exchange for $C$ 、korshinskii may increase its fitness in highly variable environments, partly contributing to the wide distribution of this species on the Chinese Loess Plateau. The stricter stomatal regulation and more conservative response of gas exchange to drought for $S .$ （2号 psammophila, however, may increase its adaptation in drought and desert areas, so the two shrubs may have different strategies for adapting to a long-term drought. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.3Acclimation of leaf gas exchange to the long-term alteration of water supply ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The sensitivities of leaf $A _ { \\mathrm { n } }$ and $g _ { \\mathrm { s } }$ to VPD or $\\psi _ { \\mathrm { p d } }$ did not differ among the treatments for either species， suggesting that VPD and precipitation manipulation did not alter the functional relationship between leaf gas exchange and water stress.These findings are consistent with those reported for the evergreen trees $\\boldsymbol { Q }$ 、ilex and Arbutus unedo in a Mediterranean Macchia ecosystem (Nogués and Alegre,2002; Ripullone et al.,2009; Limousin et al.,2010; Mission et al.,2010), suggesting that two years of variation in soil moisture did not acclimate photosynthetic gas exchange in the plants. Studies of $\\boldsymbol { Q }$ .ilex across a precipitation gradient (Martin-StPaul et al., 2012), pinon and juniper trees under precipitation manipulation in southwestern USA (Limousin et al.,2013)and xeric Eucalyptus species (Zhou et al.,2016), however, have reported acclimatory responses in the sensitivity of photosynthetic capacity to a long-term drought. These contradictions among studies may be due to the differences in species,developmental stage (seedling, sapling and mature tree) and degree of water stress. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Long-term structural adjustment may allviate the effects of drought on photosynthesis and $g _ { \\mathrm { s } }$ (Maseda and Fernandez,2Oo6).The treatments of precipitation manipulation influenced LMA for S. psammophila,which was lower under irrigation treatment. The higher photosynthetic rate and lower integrated water-use efficiency (lower foliar $\\delta ^ { 1 3 } \\mathrm { C } )$ ）for S.psammophila under irrigation treatment than under the control may therefore be partly atributed to the changes in foliar structural properties. Leaves with a lower LMA generally have higher rates of $A _ { \\mathrm { n } }$ and lower water-use efficiencies (Lamont et al.,2OO2; Gulias et al.,2OO3).LMA for C. korshinskii was not significantly influenced by the treatments,so the responses of leaf gas exchange to the irrigation and drought treatments were likely due to factors other than the alteration of foliar structure.LAI was significantly lower under drought treatment than under the control for both shrubs and was partly higher under irigation treatment in 2O15 (Fig. 8), indicating an acclimatory response of canopy structure. Changes to hydraulic conductance in soil-plant systems may be responsible for altered leaf gas exchange in precipitation manipulation (Ripullone et al., 2OO7; Limousin et al., 2013; Zhou et al., 2Ol6),so foliar and canopy properties may serve as potential regulators of water uptake by roots and hydraulic transport, possibly afecting photosynthesis in these two shrubs. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Finally,this study identified the behavior of mature shrubs in a natural environment in response to projected variation in precipitation,but our experiments were conducted only for two years. Long-term experiments are thus needed to characterize the drought resistance and resilience of these fragile ecosystems to projected climate change. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Two consecutive years of precipitation manipulation did not alter the strategy of stomatal control in the two shrubs. $A _ { \\mathfrak { n } }$ was similar for isohydric S. psammophila and anisohydric C.korshinskii, and $g _ { \\mathrm { s } }$ was even higher for S. psammophila under severe drought, inconsistent with the view that $\\scriptstyle A _ { \\mathrm { n } }$ and $g _ { \\mathrm { s } }$ under extreme drought are higher for anisohydric plants.Parameters of $\\psi _ { \\mathrm { l e a f } }$ and gas exchange ( $\\psi _ { \\mathrm { p d } } , ~ \\psi _ { \\mathrm { m d } } , A _ { \\mathrm { n } }$ and $g _ { \\mathrm { s } } \\mathrm { \\dot { \\Omega } }$ for $S$ psammophila were most strongly influenced by irrigation treatment and for $C$ . korshinskii were significantly influenced by both irrigation and drought treatments. $\\psi _ { \\mathrm { l e a f } }$ and gas exchange were more plastic to irrigation and drought treatments for $C$ korshinskii. Precipitation manipulation did not alter the sensitivity of leaf gas exchange to VPD or soil moisture in either species. Acclimation to changes in soil moisture for the two species was primarily due to the changes in foliar structure (e.g., LMA) and/or canopy structure (e.g., LAI) rather than photosynthetic gas exchange. These findings may be useful for modeling water-carbon exchange in canopy and elucidating the adaptive strategies of these two shrubs to future changes in precipitation. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The study was funded by the National Natural Science Foundation of China (41571130o82,41371507). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Adams HD,Guardiola-Claramonte M,Barron-Gaffrd GA,etal.209.Temperature sensitivityof drought-induced tree mortality portends increased regional die-offunderglobal-change-type drought.Proceedingsof the NationalAcademy of Sciences of the United States of America,106(17): 7063-7066.   \nAi $s \\textsc { H }$ ，LiYY,Chen LR.2017.Responses of the shoot growth in Salix psammophila and Caragana korshinskii to manipulated precipitation variation.Science of Soiland Water Conservation,15(3):90-98.(in Chinese)   \nChaves MM,PereiraJS,MarocoJ,etal.2OO2.How plantscopewith waterstress inthefield?Photosynthesisand growth. Annals of Botany,89(7): 907-916.   \nde Dios VR,Fischer C,Colinas C.2O07.Climate change effectson Mediterranean forestsand preventive measures.New Forest,33(1):29-40.   \nDong XJ,Zhang X S.2Oo1.Some observationsof the adaptationsof sandyshrubsto thearidenvironment in the Mu Us Sandland: leaf water relations and anatomic features.Journal of Arid Environments,48(1): 41-48.   \nFalsterDS,WartonDI,WrightIJ.2O06.Users Guide to SMATR: Standardised Major Axis Tests&Routines Version2.0. [2014-03-11].http://www.bio.mq.edu.au/ecology/SMATR/.   \nFanLM.2OO7.Groundwater sepage caused by mining and the prevention strategies in the northern Shaanxi.Mining Safety and Environmental Protection,34(5): 62-64.(in Chinese)   \nFlexas J,BotaJ,LoretoF,etal.2O04.Diffusiveand metabolic limitations tophotosynthesisunderdroughtandsalinityin $\\mathbf { C } _ { 3 }$ （204号 plants.Plant Biology,6(3): 269-279.   \nGarcia-ForerN,Adams HD,Sevanto S,etal.2O16.Responsesof twsemiaridconifertree species toreduced precipitation and warming reveal new perspectives for stomatal regulation.Plant, Cell and Environment,39(1): 38-49.   \nGulias J,FlexasJ,Mus M,etal.2Oo3.Relationshipbetweenmaximum leaf photosythesis,nitrogencontentandspecificleaf area in Balearic endemic and non-endemic Mediterranean species.Annals of Botany,92(2): 215-222.   \nHartmanH,ZieglerW,KollO,etal.2Ol3.Thirstbeatshunger-declining hydrationduringdroughtpreventscarbonstaration in Norway spruce saplings.New Phytologist,20o(2):340-349.   \nHuang G,LiY,MuXH,etal.Ol7.Water-useefcencyinesponsetosmulatedincreasingprecipitationinaemperatedesert ecosystem,of Xinjiang,China. Journal of Arid Land. 9(6): 823-836.   \nHuxmanTE,SmithMD,FayPA,etal.2o04.Convergence acrossbiomes toacommonrain-useeficiency.Nature,429(6992): 651-654.   \nJiangGM,Zhu GJ.2Oo1.Efectsofnaturalhigh temperatureand rradiationonphotosynthesisandrelated parameters nthree arid sandy shrub species.Acta Phytoecologia Sinica,25(5):525-531.(in Chinese)   \nLamontBB,GroomPK,Cowling RM.2O02.High leaf mass perareaof related species assemblages mayreflectlowrainfall andcarbon isotope discrimination rather than low phosphorusandnitrogenconcentrations.Functional Ecology，16(3): 403-412.   \nLiYY,ChenWY,ChenJC,etal.2O16.Vulnerabilitytodrought-inducedcavitation inshotsof twotypicalshrubs nthe   \nLimousinJM,MisonL,LavoirAV,etal.2O1o.Dophotosynthetic limitationsof evergreen Quercusilexleaves changewith long-term increased drought severity?Plant,Cell and Environment,33(5): 863-875.   \nLimousin JM,BickfordCP,DickmanLT,et al.2013.Regulationand acclimationof leaf gas exchange ina pion-juniper woodland exposed to three different precipitation regimes.Plant, Cell and Environment,36(1O): 1812-1825.   \nLiu HY,LiJY,Zhao Y,etal.2O07.Influenceof drought stressongasexchangeand wateruseeficiencyof Salix psammophila growing in five places.Arid Zone Research,24(6): 815-820.(in Chinese)   \nLiu J,HeX,BaoHL,etal.2O1o.DistributionoferootsofSlix psammophilaanditselationshipwithsoilmoistureinMu Us Sandland. Journal of Desert Research,30(6): 1362-1366.(in Chinese)   \nLovisoloC,Perrone I, CarrA,etal2Olo.Drought-inducedchangesin development andfunctionof grapevine(Vitis spp.) organs and in their hydraulic and non-hydraulic interactions atthe whole-plant level: a physiological and molecularupdate. Functional Plant Biology,37(2): 98-116.   \nMa CC,GaoYB,GuoHY,etal.2Oo8.PhysiologicaladaptationsoffourdominantCaragana species inthedesertregionof the Inner Mongolia Plateau. Journal of Arid Environments,72(3): 247-254.   \nMartinez-VilaltaJ,Garcia-ForerN.2O16.Waterpotentialregulation,stomatalbehaviourandhydraulic transportunderdrought: deconstructing the iso/anisohydric concept.Plant,Cell and Environment,40(6): 962-976.   \nMartin-StPaulNK,LimousinJM,Rodriguez-Calcerrda J,etal.2O12.Photosyntheticsensitivitytodroughtvariesamong populations of Quercus ilex along a rainfall gradient. Functional Plant Biology,39(1): 25-37.   \nMaseda PH,FernandezRJ.2o6.Staywetorelse:three ways in which plantscanadjust hydraulicallto their environment. Journal of Experimental Botany,57(15): 3963-3977.   \nMcDowell NG,Pockman WT,AllenCD,et al.2O08.Mechanisms of plant survival and mortalityduring drought: whydo some plants survive while others succumb to drought? New Phytologist,178(4): 719-739.   \nMissonL,LimousinJM,RodriguezR,etal.2O10.Leaf pysiologicalresponses toextreme droughts inMediterrnean Quercus ilex forest. Plant,Cell and Environment,33(11): 1898-1910.   \nMurray F W.1967. On the computation of saturation vapor pressure.Journal of Applied Meteorology,58(6): 203-204.   \nNiu X W,DingYC,Zhang Q,et al.2Oo3.Studiesonthecharacteristicsof Caragana rootdevelopmentand somerelevant physiology. Acta Botania Boreal-Occidential Sinica,23(5): 860-865.(in Chinese)   \nNogues S,Alegre L.2O02.An increase in water deficit has no impact on the photosyntheticcapacityof field-grown Mediterranean plants.Functional Plant Biology,29(5): 621-630.   \nOren R,SperryJS,Katul GGetal.1999urveyandsythesisofintra-andinterspecificvarationinstomatalsesitivityto vapor pressure deficit.Plant,Cell and Environment,22(12):1515-1526.   \nQuero JL,SterckFJ，Martinez-Vilalta J,etal.2O11. Water-usestrategiesof sixco-existing Mediterranean woodyspecies during a summer drought. Oecologia,166: 45-57.   \nRipuloneF,Guerieri MR,NoleA,etal.2Oo7.Stomatalconductanceand leaf waterpotentialresponsesto hydraulic conductance variation in Pinus pinaster seedlings.Trees,21(3): 371-378.   \nRipullone F,BorghetiM,Raddi S,etal.2O09.Physiologicalandstructuralchangesinesponse toalteredprecipitatioregimes in a Mediterranean macchia ecosystem. Trees,23(4): 823-834.   \nSevanto S,McdowellNG,DickmanLT,etal.2O14.Howdotrees die?Atestof the hydraulicfailureand carbonstarvation hypotheses. Plant, Cell and Environment,37(1): 153-161.   \nTang KL,Hou QC,Wang B K,et al.1993.Theenvironment background andadministration wayof wind-water erosion criscross region and Shenmu experimental area on the LoessPlateau.Memoirof Northwestern Institute ofSoil and Water Conservation,Academia Sinica and Ministry of Water Conservancy,18:1-15.(in Chinese)   \nTardieuF,SimonneauT.1998.Variabilityamong speciesofstomatalcontrolunder fluctuating soil waterstatusandevaporative demand: modeling isohydric and anisohydric behaviours.Journal of Experimental Botany,49(Special Issue): 419-432.   \nWeltzinJF,Loik ME,Schwinning S,etal.2O03.Assessing theresponseof terrestrialecosystems topotentialchanges in precipitation. Bioscience,53(10): 941-952.   \nXu D H,Fang XW,BinZJ,etal.2012.Ecophysiologicalmechanismof CaraganakorshinskiiKomadaptation toextreme drought stress:leaf abscissionand keepingchloroplast integrity in stem.Journalof Desert Research,32(3):691-697.(in Chinese)   \nZhouSX,MedlynBE,PrenticeIC.2016.Long-term waterstressleads toaclimatioofdroughtsensitivityofphotosynthetic capacity in xeric but not riparian Eucalyptus species.Annals of Botany,117(1):133-144.   \nZhu YJ,JiaZQ,Lu Q,etal.2O10. Wateruse strategyoffiveshrubs in Ulanbuh Desert.Scientia Silvae Sinicae,46(4):15-21. (in Chinese) ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    }
+]

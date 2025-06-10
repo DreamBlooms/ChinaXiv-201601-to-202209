@@ -1,0 +1,416 @@
+[
+    {
+        "type": "text",
+        "text": "宁夏枸杞（LyciumbarbarumL.）花器官形态多样性",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "与品系间识别研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张益芝”²，戴国礼1\\*，秦垦，马海军²（1．宁夏农林科学院构杞工程技术研究所/国家枸杞工程技术研究中心，宁夏 银川，750002;2.北方民族大学，宁夏银川，750021)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本研究以宁夏枸杞（Lycium barbarum L.）种内42个品系为实验材料，在对其花器官的16 项性状的形态学指标进行赋值，测量的基础上，利用组间单因素方差分析、主成分分析和聚类分析法对其形态学差异的多态性进行了研究。研究结果表明：同一品系宁夏枸杞花器官形态学指标在不同时间（具体观测时间为2017年7月、8月、9月） $\\mathrm { p } { < } 0 . 0 5$ ，差异不显著；同时，主成分分析显示花瓣外缘色泽、花瓣正-背面脉络、花瓣形状、花瓣背部色泽、花喉色泽、雌雄蕊位置6个花部形态指标的累积贡献率达到 $8 4 . 7 9 1 \\%$ 为宁夏枸杞不同品系花器官差异的主成分；聚类分析以欧式距离7.5为阈值，将参加试的42个品系分成6类。通过本项研究明确了，同一品系的宁夏枸杞花器官形态在不同时间表现出一定的稳定性，作为区分宁夏枸杞种内不同品系的鉴别指标之一；同时，筛选出了反映宁夏枸杞花器官形态差异的6个主成分并将 42份宁夏枸杞分为六类，初步建立了宁夏枸杞种内品系间的形态学鉴别方法，可为宁夏枸杞的形态学研究及品系鉴定等工作提供依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：宁夏枸杞花器官主成分分析聚类分析形态学鉴别 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Floral Morphological Diversity and cultivars identification ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "in Lycium Barbarum L. ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Yizhi1 ², DAI Guoli1\\*,QIN Ken¹，Ma Haijun2   \n(1. Institute of Wolfberry Engineering Technology, Ningxia Academy of Agriculture and Forestry Sciences/National Wolfberry Engineering and Technology Research Institute， 750o02， Ningxia, China，2.Beifang University ofNationalities， 750021，Ningxia，China）   \nAbstract: In this study， 42 species of Lycium barbarum L. were used as experimental materials.Based on the evaluation of the morphological indexes of the 16 traits of their floral organs， The polymorphisms of morphological differences of Lycium barbarum L. were studied using one-way ANOVA, principal component analysis and cluster analysis.The results of the study showed that the morphological indicators of the same flower organ of Lycium barbarum L. were not significantly different $_ { ( P < 0 . 0 5 ) }$ at different times.(The specific time is July,August and September of 2O17.） The principal component analysis suggested that 6 traits are crucial to the identification of L. barbarum cultivars, including Petal edge color, color of front and back of the petal, petal shape,color of back of petal, color of Flower throat, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pistil and stamen location, The cumulative contribution rate of these floral traits reached $8 4 . 7 9 1 \\%$ ，That is the difference in Lycium barbarum L. flower department is mainly reflected in these 6 traits.The results of cluster analysis showed that 42 strains of Lycium barbarum L.could be divided into 6 categories at an Euclidean distance of 7.5, classification results are consistent with the observed floral traits.Through this study, it was clarified that the flower organ morphology of The same strain Lycium barbarum L. exhibits certain stability at different times,which could be used as one of the distinguishing indicators for distinguish different seed quality in Lycium barbarum L.; At the same time, six main components were selected to reflect the differences in flower organ morphology of Lycium barbarum L. and divided 42 species of Lycium barbarum L. into six categories.. Initially established morphological identification methods within and between Lycium barbarum L. seed strains, which provides the basic information for the floral Morphological research and Varijiety Identification of about the cultivars of L. barbarum,it also has certain reference value for practical production. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Lycium barbarum L.， floral organ， morphology， principal component analysis,cluster analysisidentification",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "前言：枸杞属LyciumLinn 植物隶属于茄科（Solanaceae）茄亚科枸杞族，该属植物全世界大约有80种，主要分布在南美洲，少数种类分布于欧亚大陆温带。中国枸杞属植物有7种、3变种，主要分布于西北和华北地区（姚霞，2010）。国内对枸杞的形态学分类主要集中在20 世纪70年代到21世纪初（钱丹，2017；钟笙元，2005；王晓宇，2011）。路安民等（2003）对枸杞和宁夏枸杞从形态上进行了区分，区分的形态学指标包括习性、茎、叶、花萼、花冠、花冠裂片、种子和果味。袁海静等（2013）也对中国枸杞种质资源进行了形态性状的调查与分析，结果表明中国枸杞资源差异较大，各种之间的遗传差异性较丰富。前人的研究表明，中国枸杞属的7种3变种间存在较大形态差异，可以从花萼、花冠、果形、叶形和茎部形态等方面区分。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "宁夏枸杞LyciumbarbarumL.在我国广泛栽种于北方各地，是我国重要的经济作物，果实有补肝肾、益精明目，具有抗衰老作用（董静洲等，2008）。自2011年以来，宁夏枸杞的种植面积已超70万亩，枸杞产品出口超过30多个国家和地区（廉军，2012）。作为种属内种植最多最广的宁夏枸杞来说，目前尚无明确规范的种内鉴别方法，大众对不同品系的区分大多建立在种植经验上，区分的标准十分模糊。这不仅是宁夏枸杞品系间鉴定研究的空白，也是种质资源收集和种植过程中去除杂苗、保证品种纯度上的难题。花作为植物的繁殖器官，在形态学鉴定水平上受环境和栽培条件的影响较小，具有一定形态特征的稳定性。同时不同种属植物的花器官性状存在显著差异，利用花器官形态特征的差异对植物进行分类是一个有价值的方法（杨冬之，2002）。经查阅文献及田间观察后，我们选取了16项性状指标对宁夏枸杞花部形态进行观测，并通过统计分析，初步建立宁夏枸杞种内品系的形态学鉴别方法，为枸杞的形态学研究及种类鉴定等工作提供依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法：",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1材料与处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验地点位于银川市国家枸杞工程技术中心芦花台试验场枸杞种质资源圃试验区，实验材料为宁夏枸杞种内共42个不同品系，实验材料中39份来自宁夏银川市西夏区芦花台枸杞种质资源圃试验区，经纬度为 $3 8 ^ { \\circ }$ $3 8 ^ { \\mathrm { ~ \\tiny ~ \\cdot ~ } } \\mathrm { N }$ ，106°9‘E，海拔1114m；3份来自宁夏中宁县孔滩村，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "经纬度为 $3 7 ^ { \\circ }$ 48‘N,105° $5 9 ^ { \\cdot } \\mathrm { ~ E ~ }$ ，海拔1259。采集品系概况详见表1。试验观测时间为2017年5-9月。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "于不同的盛花期选取各品系健壮植株，并摘取5朵当天开放且未褪色的花作为观测对象。采花时间为早上 $1 0 { : } 0 0 { - } 1 1 { : } 0 0$ ，采摘后的枸杞花置于一次性塑料培养皿内，保存于 $4 ^ { \\circ } \\mathrm { C }$ 冰箱中，在12h 内进行观测。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ae57b32575bb6bbe1e168e5b3b9524dfa0286e5e2e6541cba46fe29e46b37ed5.jpg",
+        "table_caption": [
+            "表1各品系枸杞位置信息 Table1 The information of the studied Lycium barbarum L.location information "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">编号品系</td><td>树龄 Code Cultivars name Tree age</td><td>采样点 position</td><td>编号品系</td><td>Code Cultivars name</td><td>树龄 Tree age</td><td>采样点 position</td></tr><tr><td>1</td><td>14-2-2-5</td><td>2年 2 years</td><td>资源圃 Resource garden</td><td>22</td><td>16-23-8-10</td><td>2年 2 years</td><td>资源圃 Resource garden</td></tr><tr><td>2</td><td>14-26-4</td><td>2年 2 years</td><td>资源圃 Resource garden</td><td>23</td><td>小麻叶 Da Ma leaves</td><td>2年 2 years</td><td>资源圃 Resource garden</td></tr><tr><td>3</td><td>14-419</td><td>2年</td><td>资源圃</td><td></td><td>大麻叶</td><td>2年 2 years</td><td>资源圃</td></tr><tr><td>4</td><td>14-5-9-1</td><td>2 years 2年</td><td>Resource garden 资源圃</td><td>24</td><td>Xiao Ma leaves 宁杞1号</td><td>2年</td><td>Resource garden 资源圃</td></tr><tr><td>5</td><td></td><td>2 years 2年</td><td>Resource garden 资源圃</td><td>25</td><td>NO.1 of NING Qi 宁杞2号</td><td>2 years 2年</td><td>Resource garden 资源圃</td></tr><tr><td>6</td><td>14-6-3-7 16-11-15-20</td><td>2 years 2年</td><td>Resource garden 资源圃</td><td>26</td><td>NO.2 of NING Qi 宁杞3号</td><td>2 years 2年</td><td>Resource garden 资源圃</td></tr><tr><td>7</td><td>16-1-1-22</td><td>2 years 2年 2 years</td><td>Resource garden 资源圃</td><td>27</td><td>NO.3 of NING Qi 宁杞5号</td><td>2 years 2年</td><td>Resource garden 资源圃</td></tr><tr><td>8</td><td>16-1-2-16</td><td>2年</td><td>Resource garden 资源圃</td><td>28</td><td>NO.5 of NING Qi 宁杞6号</td><td>2 years 2年</td><td>Resource garden 资源圃</td></tr><tr><td>9</td><td>16-1-3-12</td><td>2 years 2年 2 years</td><td>Resource garden 资源圃</td><td>29</td><td>NO.6 of NING Qi 宁杞7号</td><td>2 years 2年</td><td>Resource garden 资源圃</td></tr><tr><td>10</td><td>16-1-3-14</td><td>2年</td><td>Resource garden 资源圃</td><td>30</td><td>NO.7 of NING Qi 宁杞8号</td><td>2 years 2年</td><td>Resource garden 资源圃</td></tr><tr><td>11</td><td></td><td>2 years 2年</td><td>Resource garden 资源圃</td><td>31</td><td>NO.8 of NING Qi</td><td>2 years 2年</td><td>Resource garden 资源圃</td></tr><tr><td></td><td>16-1-3-5</td><td>2 years 2年</td><td>Resource garden 资源圃</td><td>32</td><td>14-104</td><td>2 years 2年</td><td>Resource garden 资源圃</td></tr><tr><td>12 13</td><td>16-16-5-7</td><td>2 years 2年</td><td>Resource garden 资源圃</td><td>33</td><td>14-16</td><td>2 years 2年</td><td>Resource garden 资源圃</td></tr><tr><td></td><td>16-16-9-18</td><td>2 years 2年</td><td>Resource garden 资源圃</td><td>34</td><td>14-401</td><td>2 years 2年 2 years</td><td>Resource garden 资源圃 Resource garden</td></tr><tr><td>14</td><td>16-16-9-3</td><td>2 years 2年</td><td>Resource garden 资源圃</td><td>35</td><td>14-402</td><td>2年</td><td>资源圃 Resource garden</td></tr><tr><td>15</td><td>16-17-5-11</td><td>2 years 2年</td><td>Resource garden 资源圃</td><td>36</td><td>14-87</td><td>2 years 2年</td><td>资源圃</td></tr><tr><td>16 17</td><td>16-18-7-6 16-19-8-12</td><td>2 years 2年</td><td>Resource garden 资源圃</td><td>37 38</td><td>Z44 白花 2015</td><td>2 years 2年</td><td>Resource garden 资源圃</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/4395abb96de6a11f9329eca2d0f93d48679c6e96fe508389aa762142b29c778d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\"></td><td>2 years 2年</td><td>Resource garden</td><td></td><td>White flowers2015</td><td>2 years</td><td>Resource garden</td></tr><tr><td colspan=\"3\"></td><td>资源圃</td><td></td><td>新9</td><td>2年</td><td>资源圃</td></tr><tr><td rowspan=\"3\">18</td><td>16-22-8-9</td><td>2 years</td><td>Resource garden</td><td>39</td><td>New 9</td><td>2 years</td><td>Resource garden</td></tr><tr><td></td><td>2年</td><td>资源圃</td><td></td><td></td><td>2年</td><td>孔滩</td></tr><tr><td>16-23-13-5</td><td>2 years</td><td>Resource garden</td><td>40</td><td>NM-01</td><td>2 years</td><td>Kong Tan</td></tr><tr><td rowspan=\"3\">20</td><td></td><td>2年</td><td>资源圃</td><td></td><td></td><td>2年</td><td>孔滩</td></tr><tr><td>16-23-14-1</td><td>2 years</td><td>Resource garden</td><td>41</td><td>NM-02</td><td>2 years</td><td>Kong Tan</td></tr><tr><td></td><td>2年</td><td>资源圃</td><td></td><td></td><td>2年</td><td>孔滩</td></tr><tr><td>21</td><td>16-23-7-8</td><td>2 years</td><td>Resource garden</td><td>42</td><td>NM-03</td><td>2 years</td><td>Kong Tan</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e0221944d72ff230736fd2e1e332b7811ea3e16bfd87d009bb0511c8edc0f7c1.jpg",
+        "table_caption": [
+            "表2花部性状指标及其赋值 ",
+            "Table 2Floral traits and taxonomic evaluations "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">编号 Code</td><td rowspan=\"2\">性状名称 Name of Trait</td><td>赋值</td><td>编号</td><td>性状名称</td><td>赋值</td></tr><tr><td>Evaluation</td><td>Code</td><td>Name of Trait 花瓣背部色泽</td><td>Evaluation</td></tr><tr><td>1</td><td>花直径 Flower diameter 花冠筒长度</td><td>实际测量值 The actual measured value</td><td>9</td><td>Petal back color 花瓣背面脉络</td><td>0-紫色,1-白色 0-purple,1-White</td></tr><tr><td>2</td><td>Corolla tube length 花冠筒宽度</td><td>实际测量值 The actual measured value</td><td>10</td><td>Petal dorsal veins 花瓣正面脉络</td><td>0-3条,1-2条,2-1条 0-Three,1-Two,2-One</td></tr><tr><td>3</td><td>Corolla tube width 花柄长度</td><td>实际测量值 The actual measured value</td><td>11</td><td>Petals positive veins 具花丝绒毛程</td><td>0-3条,1-2条,2-1条 0-Three,1-Two,2-One 0-不具,1-稀疏,2-浓</td></tr><tr><td>4</td><td>Flower stalk length 花喉宽度</td><td>实际测量值 The actual measured value</td><td>12</td><td>度 Filamentous degree</td><td>密 0-No,1-Little,2-Numero us</td></tr><tr><td>5</td><td>Flowers throat width</td><td>实际测量值 The actual measured value</td><td>13</td><td>花喉色泽 color of Flower throat</td><td>0-紫色,1-黄绿色 O-purple,1-Chartreuse</td></tr><tr><td>6</td><td>花色 Flower color</td><td>0-白色,1-紫色,2-深紫色 0-White,1- Purple,2-Dark Purple</td><td>14</td><td>花瓣外缘色泽 Petal edge color</td><td>0-紫色,1-白色 0-purple,1-White</td></tr><tr><td>7</td><td>雌雄蕊位置 Pistil and stamen location</td><td>0-花柱探出型,1-花柱侧移 型,2-花柱低矮型 O-Pistil stuck out,1-Pistil lateral shift,2-Pistil low</td><td>15</td><td>花瓣褪色方式 Petal fading way</td><td>0-整体褪色,1-由外及 内 0-Overall fade,1-From outside to inside</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d7e8c0931c1ee108d07234305ee5afa2d6de7e05e0c587679cb850c3b25af405.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">0-花瓣两边背翻,1-花瓣尖端</td></tr><tr><td>花瓣翻卷方式</td><td>背翻，2-花瓣尖端正翻,3-花瓣</td><td></td><td></td><td>0-矩圆形,1-匙形,2-</td></tr><tr><td rowspan=\"4\">8</td><td>Petals rolled</td><td>卷翻 16</td><td>花瓣形状</td><td>心形</td></tr><tr><td>way</td><td>O-Petals two edge back</td><td>Petal shape</td><td>0-Oval-shaped,1-Spoon</td></tr><tr><td></td><td>flip,1-Petal tip flip</td><td></td><td>-shaped,2-Heart-shaped</td></tr><tr><td>backwards,2-Petal roll turn</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2形态学观测项目及方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.1宁夏枸杞花部特征稳定性观测及统计 通过文献资料的查阅（刘冬云&刘燕，2012；），结合实际情况选取了共16个宁夏枸杞花部性状并赋值，使所测数据标准化（欧阳彩虹，2010）详见表2，对宁杞1号等5个品系在3个不同时间（2017.7.27；2017.8.22；2017.9.2）的花部形态学性状进行观测和统计，测量时以游标卡尺直接测量，测量精度为0.01cm，将所得数据用 SPSS软件计算平均值和标准差，进行组间单因素方差分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 宁夏枸杞花器官形态差异性观测及统计采用相同的方法对 42个宁夏枸杞的花部进行观测，并将所得数据用SPSS软件进行主成分分析和聚类分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1宁夏枸杞花部特征稳定性的单因素方差分析",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "16 个性状指标中，11个描述性指标在不同时间所表现出来的性状一致，只有5个测量性指标之间存在差异（表3），因此需对这5个指标进行单因素方差分析。将所观测到的结果赋值，使数据标准化后进行单因素组间方差分析（赵莺莺，2003），分别得到2个表，方差齐性检验（表4）、单因素组间方差分析（表5）。由方差齐性检验表中可以看到，这5个品系中每个形态学指标在2017年7月27日、8月22日、9月2日三个采集日期内所有数据的显著性均达到0.6以上，可以进行单因素方差分析。从表4，5个枸杞品系的单因素方差分析显著性P值均高于 $\\mathrm { P = } 0 . 0 5$ ，即花直径、花冠筒长度、花冠筒宽度、花柄长度和花喉宽度在3个不同时期内无显著差异，说明宁夏枸杞的花部性状表现稳定，可作为品系区分依据。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/2e776f2ee1b9018001f7aa59bebb49e7cfcd29f3d127889a7564f174be6223eb.jpg",
+        "table_caption": [
+            "表35个花部性状在不同时期的平均值及其标准差",
+            "Table 3 Average and standard deviations of five flower traits in different peri "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">Tabie3Aver ilierentperiods</td></tr><tr><td>品系</td><td>花直径 Flower diameter</td><td>花冠筒长度 Corolla tube</td><td>花冠筒宽度 Corolla tube</td><td></td><td>花柄长度 Flower stalk</td><td>花喉宽度 Flowers throat</td></tr><tr><td rowspan=\"2\"></td><td>平均值 标准差 平均值 标准差 平均值 标准差 平均值 标准差 平均值 标准差</td><td>length</td><td></td><td>width</td><td>length</td><td></td><td>width</td></tr><tr><td>Cultivars name Average Standard Average Standard Average Standard Average Standard Average Standard value deviation value deviation value deviation value deviation value deviation</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>宁杞1号 NO.1 of NING Qi</td><td>14.326</td><td>0.665</td><td>9.639 0.368</td><td>2.231</td><td>0.17124.3180.6913.684</td><td></td><td>0.372</td></tr><tr><td>宁杞3号</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>NO.3 of NING Qi</td><td>15.328 0.813</td><td>8.120</td><td>0.359</td><td>2.414 0.069</td><td>23.106</td><td>0.630 2.438</td><td>0.076</td></tr><tr><td>白花2015</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>White</td><td>15.328 0.813</td><td>8.120</td><td>0.359</td><td>2.419 0.074</td><td>23.200</td><td>0.716</td><td>2.438 0.090</td></tr><tr><td>flowers2015</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/cd781e04f7d1e11190388f33f2a7e820cec94f5fc051b182f7a1c578c25b72f4.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>14-401 19.360 0.670 10.163 0.515 2.843 0.221 22.991 0.710 4. 458 0.368</td></tr><tr><td>16-23-8-10 16.341 0. 617 9.697 0.367 2.594 0.156 21.610 0.615 3.849</td></tr><tr><td></td></tr><tr><td>0.321</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e43cfb455e2721a4859d8f3b07e5484dfaccdb4df716ea8a281c2f64b6671ace.jpg",
+        "table_caption": [
+            "Table 4 Homogeneity of variance test results of five indicators of floral traits ",
+            "表5单因素组间方差分析结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>品系 Cultivars name</td><td>花直径 Flower diameter</td><td>花冠筒长度 Corolla tube length</td><td>花冠筒宽度 Corolla tube width</td><td>花柄长度 Flower stalk length</td><td>花喉宽度 Flowers throat width</td></tr><tr><td>宁杞1号 NO.1 of NING Qi</td><td>0.967</td><td>0.804</td><td>0.866</td><td>0.986</td><td>0.756</td></tr><tr><td>宁杞3号 NO.3 of NING Qi</td><td>0.895</td><td>0.741</td><td>0.743</td><td>0. 714</td><td>0.712</td></tr><tr><td>白花2015 White flowers2015</td><td>0.895</td><td>0. 741</td><td>0.796</td><td>0.922</td><td>0.979</td></tr><tr><td>14-401</td><td>0.666</td><td>0.876</td><td>0.913</td><td>0.619</td><td>0.894</td></tr><tr><td>16-23-8-10</td><td>0.832</td><td>0.812</td><td>0.917</td><td>0.968</td><td>0.748</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/a37fb1cbbb784e09b9b23c332bd34023a43f351f2ed66f14f51f382012d12b9d.jpg",
+        "table_caption": [
+            "表45个花部性状指标的方差齐性检验结果",
+            "Table 5 Analysis of variance among single factor groups "
+        ],
+        "table_footnote": [
+            "注： $\\mathrm { P = } 0 . 0 5$ Note: $\\scriptstyle \\mathrm { P = } 0 . 0 5$ "
+        ],
+        "table_body": "<html><body><table><tr><td>品系 Cultivars name</td><td>花直径 Flower diameter</td><td>花冠筒长度 Corolla tube length</td><td>花冠筒宽度 花柄长度 width</td><td>length</td><td>花喉宽度 Corolla tube Flower stalk Flowers throat width</td></tr><tr><td>宁杞1号 NO.1 of NING Qi</td><td>0.854</td><td>0.958</td><td>0.971</td><td>0.757</td><td>0.920</td></tr><tr><td>宁杞3号 NO.3 ofNING Qi</td><td>0.953</td><td>0.987</td><td>0.798</td><td>0.989</td><td>0.745</td></tr><tr><td>白花2015 White flowers2015</td><td>0.953</td><td>0.987</td><td>0.981</td><td>0.728</td><td>0.812</td></tr><tr><td>14-401</td><td>0.9</td><td>0.533</td><td>0.992</td><td>0.668</td><td>0.614</td></tr><tr><td>16-23-8-10</td><td>0.893</td><td>0.889</td><td>0.943</td><td>0.879</td><td>0.649</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9dfafa73e0c69a36716bff197592dcd4fa9bb79872ab1036b31c32fd220753dd.jpg",
+        "img_caption": [
+            "图版I不同时期5个品系的花部形态"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "注： $\\mathrm { A { ^ { - 1 } \\tilde { \\Lambda } } A { ^ { - 3 } } }$ ：宁杞一号在7月27日、8月22日、9月2日； $\\mathrm { B { - } 1 \\tilde { \\Delta } B { - } 3 }$ ：宁杞3号在7月27日、8月22日、9月2日； $\\mathrm { c - 1 { \\widetilde { \\ c } - 3 } }$ ：14-401在7月27日、8月22日、9月2日；D-1\\~D-3：16-23-8-10在7月27日、8月22日、9月2日； $\\mathrm { E ^ { - 1 } \\tilde { \\ E } ^ { - 3 } }$ ：白花2015在在7月27日、8月22日、9月2日Note:A-1\\~A-3: NO.1 of NING Qi in July 27, August 22, September 2; B-1\\~B-3: NO.3 of NING Qi in July 27,August 22,September2;C-1\\~C-3:14-401 in July27,August22,September2; D-1\\~D-3:16-23-8-10 in July 27,August 22, September 2; E-1\\~E-3: White flower 2015 in July 27,August 22, September 2",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Plate I The flower morphology of five strains in different periods ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2枸杞形态学鉴别的主成分分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对11个花部描述性性状进行主成分分析，得到2个表，即总方差分解表（表6），成分矩阵（表7）。由表5可知，11个描述性指标被分成6个主成分，其贡献率分别为 $2 3 . 2 6 5 \\%$ ，$1 8 . 9 4 5 \\%$ 、 $1 3 . 5 9 9 \\%$ 、 $1 0 . 8 2 7 \\%$ 、 $9 . 8 7 4 \\%$ 、 $8 . 2 8 0 \\%$ ，累积初始特征值为 $8 4 . 7 9 1 \\%$ ，说明这6个主成分涵盖了所研究11个因素的 $8 4 . 7 9 1 \\%$ ，贡献率较高。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/204ae00bc7d9fd4ef3d0558174f8cb6ff418e5ab188f513f8ab28d3d5b9eb59c.jpg",
+        "table_caption": [
+            "表6总方差分解"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">Table6TotalVarianceExplained</td></tr><tr><td colspan=\"5\">初始特征值</td><td colspan=\"3\">提取平方和载入 Extraction Sums of Squared Loadings</td></tr><tr><td>成份</td><td>合计</td><td>Initial Eigenvalues 方差的%</td><td>累积%</td><td>合计</td><td>方差的%</td><td></td><td>累积%</td></tr><tr><td>Component</td><td>Total</td><td>% of Variance</td><td>Cumulative %</td><td>Total</td><td>% of Variance</td><td></td><td>Cumulative %</td></tr><tr><td>1</td><td>2. 559</td><td>23.265</td><td>23.265</td><td>2. 559</td><td></td><td>23.265</td><td>23.265</td></tr><tr><td>2</td><td></td><td></td><td>42.210</td><td>2.084</td><td></td><td></td><td></td></tr><tr><td>3</td><td>2.084</td><td>18.945</td><td></td><td></td><td></td><td>18.945</td><td>42.210</td></tr><tr><td></td><td>1. 496</td><td>13.599</td><td>55.809</td><td></td><td>1. 496</td><td>13.599</td><td>55.809</td></tr><tr><td>4</td><td>1. 191</td><td>10.827</td><td>66.636</td><td>1. 191</td><td></td><td>10.827</td><td>66.636</td></tr><tr><td>5</td><td>1. 086</td><td>9.874</td><td>76.511</td><td>1.086</td><td></td><td>9.874</td><td>76.511</td></tr><tr><td>6</td><td>.911</td><td>8.280</td><td>84. 791</td><td>.911</td><td></td><td>8.280</td><td>84. 791</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/8d92a4bc302b2cd5333aceef484e9a31caa8f0a917ab13905c6c99f7a680ba48.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>7 .688 6.251</td><td>91.042</td></tr><tr><td>8</td><td>94.850</td></tr><tr><td>.419 3.808 .318 2.887</td><td></td></tr><tr><td>9 10</td><td>97.737</td></tr><tr><td>.249 2.263 11 -4.825E-17</td><td>100.000 -4.386E-16 100.000</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/d6bbfe3531a44cb8f1840ac20e4153cc0d3d3261c87763a5e080f649f5664d83.jpg",
+        "table_caption": [
+            "表7成份矩阵Table 7 Component matrix"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">成份</td></tr><tr><td rowspan=\"2\">性状 Traits</td><td colspan=\"6\">Component</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td>花色 Flower color 雌雄蕊位置</td><td>-. 649</td><td>.445</td><td>-.261</td><td>-. 224</td><td>-. 174</td><td>.237</td></tr><tr><td>Pistil and stamen location</td><td>-.496</td><td>-. 177</td><td>-. 416</td><td>.112</td><td>.297</td><td>.558</td></tr><tr><td>花瓣翻卷方式 Petals rolled way</td><td>-.242</td><td>.623</td><td>.360</td><td>.158</td><td>.362</td><td>.261</td></tr><tr><td>花瓣背部色泽 Petal back color</td><td>.196</td><td>-.386</td><td>.129</td><td>.819</td><td>.191</td><td>.000</td></tr><tr><td>花瓣背面脉络 Petal dorsal veins</td><td>.625</td><td>.721</td><td>-.201</td><td>.165</td><td>-.047</td><td>.041</td></tr><tr><td>花瓣正面脉络 Petals positive veins</td><td>.625</td><td>.721</td><td>-.201</td><td>.165</td><td>-.047</td><td>.041</td></tr><tr><td>具花丝绒毛程度 Filamentous degree</td><td>.398</td><td>-. 182</td><td>-. 446</td><td>-.330</td><td>.372</td><td>-.296</td></tr><tr><td>花喉色泽 color of Flower throat</td><td>.248</td><td>-.280</td><td>-. 182</td><td>. 152</td><td>-.769</td><td>.280</td></tr><tr><td>花瓣外缘色泽 Petal edge color</td><td>.675</td><td>-.363</td><td>.156</td><td>-.098</td><td>.208</td><td>.429</td></tr><tr><td>花瓣褪色方式 Petal fading way</td><td>.504</td><td>-.074</td><td>.519</td><td>-.483</td><td>.004</td><td>.321</td></tr><tr><td>花瓣形状 Petal shape</td><td>-.291</td><td>.171</td><td>.709</td><td>.055</td><td>-. 148</td><td>-.138</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "各形态性状在表6中的结果在哪个主成分中绝对值大于0.5,便归于该主成分中,如花色在第一主成分中的分值为-0.649，其绝对值大于0.5,所以归入第一主成分，余下类推，将所有花的形状归为以下6大主成分：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "第一主成分包括指标（2个）：花色和花瓣外缘色泽；第二主成分包括指标（3个）：花瓣翻卷方式、花瓣背面脉络和花瓣正面脉络；第三主成分包括指标（2个）：花瓣形状和花瓣褪色方式；第四主成分包括指标（1个）：花瓣背部色泽；第五主成分包括指标（1个）：花喉色泽；第六主成分包括指标（1个）：雌雄蕊位置。所有指标中仅有“具花丝绒毛程度”",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "这一指标得到的结果绝对值不足0.5，即该指标与主成分的相关系数较小，可舍掉。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.3枸杞形态学鉴别的聚类分析",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究采用欧式聚类法对42个品系的枸杞花部性状进行组间平均联结分析，在欧氏距离为7.5 处将42个枸杞品系共聚为5个大类群共6类，得到的聚类树状图如图1。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/5f0fde178b586af15f87174f98113464f9b520fa38480319936e85f3008da3f5.jpg",
+        "img_caption": [
+            "图1使用类平均聚类法得到的树状图",
+            "Fig.1 Tree graphs obtained using the class average clustering method "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由聚类树状图可知：第一类群包括20个品系，进一步又可分为2个亚群，第一亚群为：16-1-3-12、NM-03、16-16-9-3、16-17-5-11、白花 2015、新9、16-11-5-20、16-1-1-22、16-16-9-18、16-22-8-9、16-23-8-10、16-23-7-8、16-23-13-5，第二亚群为：14-26-4、16-1-2-16、14-402、Z44、14-401、14-16、16-1-3-5。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "第二类群包括12个品系：14-419、宁杞3号、宁杞1号、小麻叶、16-23-14-1、大麻叶、14-5-9-1、宁杞2号、宁杞6号、14-6-3-7、NM-02、宁杞5号。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "第三类群仅包括宁杞7号一个品系。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "第四类群包括8个品系：14-87、16-18-7-6、16-1-3-14、14-104、16-16-5-7、16-19-8-12、NM-01、14-2-2-5。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "第五类群仅包括宁杞8号一个品系。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/a8a82d0585b8ae5dee96bb3eb7706b0c1fdc692192a6cf6c072a6cafec51b582.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "注：第一类群：A（16-22-8-9）、B（14-16）；第二类群：C（14-419）、D（14-6-3-7）；第三类群：E（宁杞7号）；第四类群：F（14-87）、G（14-104）；第五类群：H（宁杞8号）Note:The first group:A(16-22-8-9)、B(14-16)； The second group: C(14-419)、D(14-6-3-7)； The third group:E(NO.3 of NING Qi)；第四类群：F(14-87)、G(14-104)；第五类群：H(NO.3 of NING Qi)",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "图版ⅡI5个不同类群的花部形态",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Plate II The flower morphology of five different groups ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "结合各类群包含的品系形态来看，第一类群特征包含花瓣外缘紫色、花喉宽度较大，雌雄蕊高度差较小，花瓣常对翻；第二类群聚集了花瓣含3条维管束脉络、常以卷翻方式卷曲，褪色时由外及内，花喉部较窄的特征；第三类群仅宁杞7号，常见一条维管束主脉络，花瓣翻卷程度较轻微，花瓣外缘色泽为白色，雌蕊比雄蕊高；第四类群聚集了花瓣外缘色泽为紫色，花柱异型程度较明显，花瓣形状呈心形，花喉较窄的特征；第五类群仅宁杞8号，花冠筒较宽，花瓣除3条维管束脉络外还分布有细小纹路，花瓣顶端正翻，雌蕊比雄蕊低。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.结论与讨论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.1宁夏枸杞花器官在不同时期的稳定性分析",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "该研究在保证了采样标准、具体采样时间一致的前提下，通过对5个宁夏枸杞在三个不同采集日期的16个花器官指标进行形态学观察和分析，其中11个描述性形态指标所得的结果均一致，5个数量性形态指标之间存在差异，对这5个数量性指标进行单因素组间方差分析后，得到的结论是宁夏枸杞的花器官在不同时期的变化不显著 $( \\mathrm { P } { > } 0 . 0 5 )$ ，即宁夏枸杞花器官具有一定的形态稳定性，选取花器官作为区分宁夏枸杞种内品系的依据是可行的。花器官在不同时期的形态表现具有稳定性，该结论仅对宁夏枸杞种内品系成立，对于中国枸杞种间花器官形态是否稳定，以及其他枸杞种内的花器官形态是否也符合该结论，尚需进一步的验证。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2宁夏枸杞花器官的主成分分析",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "该研究为了更全面的探讨花器官是否可作为形态学鉴别的依据之一，使用了16个反映宁夏枸杞花部性状的变量进行观测，这些变量之间都具有一定的相关性，但由于变量过多会导致数据的统计分析变得困难，主成分分析法可以通过线性变换将多个变量转换为较少数量的综合性指标，在不改变变量间相关性及变量与综合指标间相关性的同时，使数据的分析变的更加简便。SPSS 软件在分析中将11个描述性花部性状提取成6大主成分，累积贡献率达$8 4 . 7 9 1 \\%$ 。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "在主成分分析的结果中第一主成分包括：花色、花瓣外缘色泽，前者与该主成分呈负相关，而后者与该主成分呈正相关；第二主成分包括：花瓣翻卷方式、花瓣背面脉络和花瓣正面脉络，三者与该主成分呈正相关；第三主成分包括：花瓣形状和花瓣褪色方式，二者与主成分呈正相关；第四主成分包括：花瓣背部色泽，与主成分呈正相关；第五主成分：花喉色泽，与主成分呈负相关；第六主成分：雌雄蕊位置，与主成分呈正相关。根据表7，将各因子在各自所在主成分中的成分系数按由大到小的顺序排列为：（1）花瓣外缘色泽>花色>花喉色泽，（2）花瓣正面脉络 $\\cdot =$ 花瓣背面脉络>花瓣翻卷方式，（3）花瓣形状>花瓣褪色方式，（4)花瓣背部色泽，（5）花喉色泽，（6）雌雄蕊位置。在实地鉴别中，可按以上顺序进行品系鉴别。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "由于每位研究者的个人偏好不同，在进行形态学鉴别观测时会主动选择首要鉴别性状，如作者在田间观测时会将花色作为第一指标进行鉴别，但主成分分析结果中花瓣外缘色泽的成分系数在第一主成分中最大，花色排在第二位，但在鉴别中无论以哪个指标作为第一指标，都不影响最后的鉴别结果，即该研究中提出的鉴别顺序可作为参考，但要想对某几种品系进行鉴别，结论中提取的指标必不可少。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.3宁夏枸杞花器官的形态学聚类分析",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "聚类分析是根据事物本身特性来进行分类的统计方法，是按照物以类聚的原则（欧阳彩虹，2010）来研究事物的分类。应用 SPSS23.0软件进行的聚类分析其原理按照样品的特征将它们分类，使同一类别内的个体具有尽可能高的同质性，而类别之间则具有尽可能高的异质性。本研究中将42个不同品系的宁夏枸杞分为5大类，第一类群汇集了花瓣外缘紫色、花喉宽度较大，雌雄蕊高度差较小，花瓣常对翻，花冠形状多为匙形的品系；第二类群聚集了花瓣含3条维管束脉络、常以卷翻方式卷曲，花直径小但花冠筒较长且褪色时由外及内，花柱侧移程度较小，花喉部较窄的品系；第三类群仅宁杞7号，常见一条维管束主脉络，花瓣翻卷程度较轻微，花瓣外缘色泽为白色，雌蕊比雄蕊高；第四类群聚集了花瓣外缘色泽为紫色，花柱侧移程度较明显，花瓣性状呈心形，花喉较窄的品系；第五类群仅宁杞8号，花冠筒较宽，花瓣除3条维管束脉络外还分布有细小纹路，花瓣顶端正翻，雌蕊比雄蕊低。聚类分析的结果与实际观测到的现象相匹配，再次证明通过软件分析进行形态学的鉴别是可行的。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4．参考文献 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "DONG JZ， YANG JJ，WANG Y， 2008. Lycium species resources in China and research progress at home andabroad[J].Chin JClin Pharmacol,(18):2020-2027.[董静洲，杨俊军，王瑛，2008.我国枸杞属物种资源及国内外研究进展［J]．中国中药杂志，（18):2020-2027.]  \nJI CF，2004. Systematic taxonomy of the Genus Osmanthus (Oleaceae)[D]. Nanjing Forestry Univ.[季春峰,2004.木犀属（Osmanthus）的系统分类学研究[D]．南京林业大学.]  \nLIU DY，LIU Y， 2012.Floral diversity of the different populationgs of Lilium pumilum DC[J]. J PLANTGROWTHREGUL,13(06):997-1004.[刘冬云，刘燕，2012．山丹不同居群花器官的形态多样性研究[J]．植物遗传资源学报,13(06)：997-1004.]  \nLU AM，WANG ML，2003.On the identification of the original plants in the modernization of Chinese herbalmedicine一An example from the taxonomy and exploitation of Gouqi[J].J.NW Sci-Tech Univ. 23(7):1077-1083.[路安民，王美林，2003．关于中药现代化中的物种鉴定问题[J]．西北植物学报,23(7):1077-1083.]OUYANG CH，2010.Study on morphological characteristics and ISSR analysis in 44 cultivars of dendranthema×gradifolium(ramat） kitam[D]．J SW Univ.[欧阳彩虹,2010 44 个菊花（Dendranthema $\\times$ gradifolium（Ramat）Kitam.）品种的形态学研究与ISSR分析［D].西南大学.］  \nQIAN D，JI RF，GUO W，et al, 2017. Advances in research on relationships among Lycium species andorigin of cultivated Lycium in China[J].Chin JClin Pharmacol,42(17):3282-3285.[钱丹,纪瑞锋，郭威,等,2017．中国枸杞属种间亲缘关系和栽培枸杞起源研究进展[J].中国中药杂志,42(17):3282-3285.]WANG XY, CHEN HP, YIN L,et al,2011. A brief overview on the plant resources of Lycium L. in China[J].Pharmacol Clin Chin Mater Clin Med, $2 ( 0 5 ) { : } 1 { - } 3 { + } 5 0$ .[王晓宇,陈鸿平,银玲，等，2011．中国枸杞属植物资源概述[J]．中药与临床, $2 ( 0 5 ) { : 1 - 3 + 5 0 } .$ ]  \nYAO X，2010.Germplasma investigations on Lycium plants in China and studies on the chemical constituents of viola yedoensis makino[D].Peking Union Medical Colege.[姚霞，2010．中国枸杞属植物不同种质资源的研究及紫花地丁的化学成分研究[D]．中国协和医科大学.]  \nYANG DZ，2O02.Tribe hyoscyameae of the solanaceae: structure,differentiation and phylogenetic relationship[D]．Graduate School of Chinese Academy of Sciences(Institute of Botany).[杨冬之,2002.茄科天仙子族：结构、分化和系统关系[D]．中国科学院研究生院（植物研究所）.]  \nZHOU RH,DUAN JA，2005.Phytochemical taxonomy[M]. Shanghai: Shanghai Sci & Technol Publishers:1019-102．[周荣汉,段金庚，2005.植物化学分类学[M]上海：上海科学技术出版社:1019-1027.]ZHONG SY，2005. Lycium high yield cultivation techniques[M].Beijing: JinDun pres: 8-17.[钟笙元，2005 枸杞高产栽培技术[M].北京：金盾出版社：8-17.]  \nZHAO YY,2003.Priliminary studies on morphology，anatomy and palynology of plants in narcissus L[D].JNanjing Agric Univ.[赵莺莺,2003．水仙属植物形态学、解剖学、孢粉学初步研究[D]．南京农业大学.]ZUO SY，YIN MY，WU YTN，et al， 2017. Diversity of flower organ phenotype in wild Amygdalus pcdunculata germplasm resources[J].Nonwd P Fib,35(02):72-77．[左丝雨,尹明宇,乌云塔娜,等，2017.野生长柄扁桃种质资源花器官的多样性[J]．经济林研究,35(02):72-77.]",
+        "page_idx": 12
+    }
+]

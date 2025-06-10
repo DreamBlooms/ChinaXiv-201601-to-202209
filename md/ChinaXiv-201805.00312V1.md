@@ -1,0 +1,173 @@
+# DOI:10.5846/stxb201706241143
+
+陈静，蒋万祥，贺诗水，王洪凯，卓丽玲，陈青，王红妹.新薛河底栖动物物种多样性与功能多样性研究.生态学报,2018,38（9):3328-336. ChenJ,JiangWX,HeS，WangH,ZuoL，hQ，WangHudyofacrovertebratespeisdfuctioaldiversitineue River，Shandong Province，China.Acta Ecologica Sinica,2018,38(9）:3328-3336.
+
+# 新薛河底栖动物物种多样性与功能多样性研究
+
+陈静，蒋万祥\*，贺诗水，王洪凯，卓丽玲，陈青，王红妹枣庄学院生命科学学院，枣庄277160
+
+摘要：研究功能多样性与物种多样性关系及其随环境梯度的变化规律,有助于理解生物在群落中的共存机制;然而,二者间关系的研究在淡水生态学中尚鲜见报道。通过对新薛河典型河段(A缓流河段、B断流河段、C有机污染河段、D对照河段、E人为干扰河段)底栖动物季节性调查,就物种多样性和功能多样性时空动态及关系进行了研究。结果表明：在空间序列上,物种多样性指数在B河段均最低,表明间歇性断流对物种多样性影响重大。功能丰富度在D河段最高,A河段最低;功能均匀度在A河段高于其他河段;功能分离度在A、B河段最高,D河段最低。在时间序列上，物种丰富度和Shanon指数均值在10月份最低,4月份最高;均匀度指数在12月份最低,10月份最高。3个功能多样性指数于各季节间差异显著、相互独立，主要受水文条件和底栖动物生活史影响。相关分析表明,功能多样性指数间无显著相关性;功能丰富度同物种丰富度和Shanon指数相关显著，功能均匀度同物种均匀度相关显著。逐步回归分析发现,功能丰富度受物种丰富度和Shannon指数影响显著,功能均匀度受物种均匀度影响显著;功能多样性和物种多样性指数间拟合度总体不高。研究结果进一步表明：相对物种多样性,功能多样性对生境梯度变化响应更加全面。
+
+关键词：底栖动物；功能多样性;物种多样性;新薛河
+
+# Study of macroinvertebrate species and functional diversity in the New Xue River， Shandong Province， China
+
+CHEN Jing，JIANG Wanxiang\*，HE Shishui，WANG Hongkai， ZHUO Liling，CHEN Qing，WANG Hongmei College ofLife Sciences，Zaozhuang University，Zaozhuang 27716O,China
+
+Abstract：Understandingtherelationshipbetween functionaland species diversitiesaswellastheirasociation withhabitat heterogeneitycan helprevealthemechanismsof species coexistence inecologicalcommunities.However,these interactions havebeen porly studied infreshwater ecosystems.Inthisstudy，weevaluatedthe spatio-temporal dynamicsoffunctional diversityand traditional species diversity indices，andtherelationshipsbetween them.The mainresults wereas follws：In the spacesequence，speciesdiversity indices were the lowest in reach B，andthe resultsshowed that intermitent disconnection hadasignificantinfluenceonspecies diversity.Functionalrichness was the highest inreachDandthelowest inreachA,functional evennesswas highest inreachA,andfunctional divergence was the highest inreaches Aand Band thelowest inreach D.In the time series，the lowest mean valueof species richnessand Shannon index were recorded in Octoberandthe highestin April,andtheevenness index was thelowest inDecemberandthe highestin October.The three functionaldiversityindices weresignificantlydiferentandorthogonalamongseasons，andtheyweremainlyafected by hydrological conditionsandbenthicanimal life history.Correlationanalysis wasusedtoanalyzetherelationshipof the biodiversity indices，andtheresultsshowedno significantcorrelationsamong functionaldiversityindices.Functional richness was significantlycorelated with speciesrichnessand Shannon indexandalsowith functional evennessand species evenness.Stepwiseregressionanalysis wasusedtoanalyze the influenceof species diversityonfunctionaldiversityandthe resultsshowed that functional richness wassignificantlyafected byspeciesrichness and Shannon index，andalso by functionalevenness andspecies evenness.Furthermore，wealsofound thatthe fiting degreesamong this indices were not high.By further analysisanddiscussion，we foundthatcompared to species diversity，functional diversitywasmore comprehensive in revealing habitat gradient.
+
+Key Words: macroinvertebrate； functional diversity； species diversity；the New Xue River
+
+物种多样性表征生物多样性在溪流底栖动物生态学研究中广泛应用[1-4];然而,越来越多的研究证实,物种性状组成对研究一些重要的生态过程(如生态系统功能、群落组成等)十分重要[5]。许多关于生物多样性与生态系统功能关系的研究表明,基于物种属性(性状)的研究比简单的物种多样性（如物种丰富度、Shannon指数、物种均匀度)研究可提供更多信息[6]。目前,生物多样性研究已拓展至功能层面,使用功能性状表征功能组成及多样性是当前底栖动物生态学研究的热点之一[7]。
+
+物种多样性与功能多样性关系研究有助于了解种间共存[8-9]、生态位互补机制[10],是研究生物多样性对生态系统功能影响的中心环节[11]。相对植物功能多样性研究,我国动物功能多样性研究起步较晚,特别是种类繁多的溪流底栖无脊椎动物,近几年才见零星报道[7.12];底栖动物功能多样性与物种多样性关系研究尚未见报道。功能多样性与物种多样性关系决定于所处的生态系统,如Bu等[13]研究发现,功能多样性与物种多样性存在显著的正相关；Biswas 等[14]研究表明,由中度干扰到严重干扰过程中,功能多样性同物种多样性呈负相关;De Bell等[15]和Li等[16]等研究表明,二者之间相互独立,不存在显著的相关性。此外,在研究功能多样性与物种多样性关系时,很多研究并没有考虑到功能多样性的多面性。Mason 等[11]认为功能多样性应包括功能丰富度、功能均匀度、功能分离度3个相互独立的组份。功能多样性3类指数之间及其与物种多样性之间究竟存在怎样的关系,仍是一个值得深人探讨的问题[17]。
+
+生物群落对环境变化的响应主要取决于物种功能性状组成[18]。研究生物多样性随环境梯度变化,有助于理解生境异质性对多样性的直接影响[9]。本文在山东省新薛河选取代表性河段,就季节性溪流底栖动物多样性随环境梯度的变化进行了研究。以期:1)明确物种多样性和功能多样性随环境梯度的变化;2）厘清区域功能多样性与物种多样性的关系。为后续相关研究的开展提供背景数据及理论基础。
+
+# 1材料与方法
+
+# 1.1 区域概况与样点设置
+
+新薛河位于山东省西南部,属于南四湖水系,全长 $8 9 . 6 \mathrm { k m }$ ,流域面积 $6 8 6 \mathrm { k m } ^ { 2 }$ 。根据栖境特征,对5个代表性河段底栖动物进行了调查。A河段,位于石嘴子水库坝下,以缓流和静水为主,沉积物较多。B河段下游紧挨枣庄市山亭区,人口较为密集,流量受上游水库排水量限制,河道频繁出现干涸现象。C河段位于山亭区下游,城市污水在经过沉积处理后，直接排到该河段;D河段距离城区较远,生境质量相对较好;E河段间歇性受人为干扰（衣物涮洗、家禽活动）。
+
+# 1.2底栖动物采集与鉴定
+
+L 2012 年4、10、12月（2012 年夏季上游A、B河段干涸）,每月中旬用40目网径、采样面积 $0 . 0 9 \mathrm { m } ^ { 2 }$ 的索伯网（Surber sampler)采集底栖动物,将网中的底栖动物拣出,装标本瓶中，用 $10 \%$ 的福尔马林液固定,标本带回实验室后鉴定、计数[19-1]。每个河段沿水流方向设置采样点3个,共计采集标本42个（4月份河段B处断流）。
+
+# 1.3功能性状和生物多样性计算
+
+功能性状主要参考相关文献[2-24]确定,个别分类单元性状根据标本或分类资料的描述确定。选择化性
+
+（Voltinism）、漂移性（Occurrence in drift）、游泳能力（Swimming ability）、附着能力（Atachment）、形状（Shape）、成熟个体大小（Size at maturity）、流态偏好（Rheophily）、温度偏好（Thermal Preference）、生活型（Habit）、营养习性（Trophic habit)等10 个性状纳入分析。功能性状及其等级描述同相关文献[7,22]。
+
+物种多样性指数(物种丰富度、物种均匀度、Shannon 指数)计算方法同文献[3]。功能丰富度(Functionalrichness , $F R _ { c i }$ )[11]、功能均匀度(Functional evenness, $F E _ { v e }$ ）[25]、功能分离度（Functional divergence, $F D _ { i v }$ )[26]计算公式如下：
+
+$$
+F R _ { \mathrm { { c i } } } = { \frac { S F _ { c i } } { R _ { c } } }
+$$
+
+${ S F } _ { c i }$ 为群落 $i$ 内物种所占据的生态位空间； $R _ { c }$ 为性状 $\boldsymbol { \mathbf { \mathit { c } } }$ 的绝对值范围。
+
+$$
+F E _ { \nu e } = { \frac { \displaystyle \sum _ { i = 1 } ^ { S - 1 } \mathrm { c m i n } ( \mathrm { P E W } _ { i } { \frac { 1 } { S - 1 } } ) \ - { \frac { 1 } { S - 1 } } } { \displaystyle 1 \ - { \frac { 1 } { S - 1 } } } }
+$$
+
+$s$ 为物种丰富度； $\mathrm { P E W } _ { i }$ 为物种 $i$ 的局部加权均匀度。
+
+$$
+F D _ { i v } = \frac { 2 } { \pi } \mathrm { a r c t a n } \left[ 5 \times \sum _ { i = 1 } ^ { N } \left[ ( \mathrm { l n } C _ { i } - \overline { { { \mathrm { l n } x } } } ) ^ { 2 } \times A _ { i } \right] \right] \quad 2 ^ { \prime }
+$$
+
+$C _ { i }$ 为第 $i$ 项功能性状的数值； $A _ { i }$ 为第 $i$ 项功能性状的相对丰度；lnx为物种特征值自然对数的加权平均值。
+
+# 1.4数据统计与分析
+
+功能多样性和物种多样性使用软件 R3.1.3 和 FDiversity 软件[27]计算。单因素方差分析（One-wayANOVA analysis)用于比较多样性指数的时空差异；相关分析（Correlation analysis）、偏相关分析（Partialcorrelation analysis）用于计算多样性指数间的相关性;逐步回归分析（Stepwise regression analysis）用于分析物种多样性对功能多样性的影响;上述分析使用的软件为IBM SPSS 19.0。图表制作使用的软件为 OringinPro8.0和 EXCEL 2007。
+
+# 2结果与分析
+
+# 2.1物种多样性时空格局
+
+对底栖动物物种多样性空间格局统计分析(图1),结果表明,各河段物种多样性均值介于12.5—17.7之间,表现为E河段 $\mathrm { \geqslant C , D }$ 河段 $\scriptstyle \geqslant { \widehat { \mathrm { A } } } , { \mathrm { B } }$ 河段( $P { < } 0 . 0 5 )$ ;Shannon 指数均值介于1.3—2.0之间,表现为B河段低于其他河段( $P { < } 0 . 0 5 )$ ;均匀度指数均值介于0.53—0.75 之间,表现为A、C、D 河段 $\geqslant \mathrm { E }$ 河段 $\geqslant \mathbf { B }$ 河段( $P <$ 0.05）。
+
+对物种多样性季节动态进行分析（图2）,结果表明,物种丰富度在10月份最低（均值为9.8）,4月份最高（均值为18.6);表现为10月份低于12和4月份( $P { < } 0 . 0 5 \mathrm { ) }$ ）。Shannon 指数10月最低（均值为1.6），4月最高（均值为2.0)，表现为4月 $\geqslant 1 2$ 月 $\geqslant 1 0$ 月（ $P { < } 0 . 0 5 )$ 。均匀度指数10月份最高（均值为0.73）,12月份最低（均值为0.62）,表现为10月 $\geqslant 4$ 月 $\geqslant 1 2$ 月 $( P { < } 0 . 0 5 )$ 。
+
+# 2.2功能多样性时空格局
+
+对功能多样性指数空间格局统计分析（图3）,结果表明：功能丰富度指数均值在A河段最低（均值为23.5），D河段最高(均值为41.0)；表现为D河段 $\geqslant \mathrm { { B } } , \mathrm { { C } } , \mathrm { { E } }$ 河段 $\geqslant \mathrm { A }$ 河段( $\scriptstyle ( P < 0 . 0 5 )$ 。功能均匀度指数均值在C 河段最低（均值为0.40），A河段最高(均值为0.56)；表现为 $\mathrm { A } \geqslant \mathrm { E } \geqslant \mathrm { B } \ \mathrm { , C } \ \mathrm { , D } ( P < 0 . 0 5 )$ 。功能分离度指数均值在B 河段最高（均值为0.90）,D河段最低（均值为0.74);表现为 $\mathrm { ~ A ~ } _ { \mathrm { { s } } } \mathrm { { B } } \gtrsim \mathrm { { C } } \mathrm { ~ } _ { \mathrm { { s } } } \mathrm { { E } } \gtrsim \mathrm { { D } } ( P < 0 . 0 5 )$ 。
+
+统计分析功能多样性季节动态（图4）,结果表明：功能丰富度均值10月份最低（均值为24.7）,12月份最高(均值为40.4)；表现为12月 $\geqslant 4$ 月 $\geqslant 1 0$ 月（ $P { < } 0 . 0 5 )$ 。功能均匀度均值4月份最低（均值为0.42），10月份
+
+![](images/d56c0dd9e41247c4986c6c67be794acf574526c6452ac0b62f9150f58903425d.jpg)  
+图1底栖动物物种多样性空间分布格局  
+Fig.1Spatial distribution of macroinvertebrates species diversity
+
+A—E代表A—E河段;A河段：位于石嘴子水库坝下;B河段：下游紧挨枣庄市山亭区;C河段：山亭区下游;D河段：距离城区较远;E河段：间歇性受人为干扰(衣物涮洗、家禽活动)
+
+最高（均值为0.53）;表现为10 月 $\geqslant 1 2$ 月≥4月（ $\scriptstyle P < 0 . 0 5 )$ 。功能分离度均值12月份最低（均值为0.75）,10月份最高(均值为0.88）；表现为12月份显著低于10 和4月份( $\scriptstyle \cdot { P < 0 . 0 5 } )$ 。
+
+# 2.3物种多样性与功能多样性关系
+
+采用Pearson 相关分析法研究多样性指数间的相关性(表1),结果表明,功能丰富度同 Shannon指数相关显著( $P { < } 0 . 0 5 )$ ,同物种丰富度相关极显著( $P { < } 0 . 0 1 )$ 。功能均匀度同功能分离度、均匀度指数相关显著( $P { < } 0$ =05）。功能分离度与均匀度指数相关性接近显著水平( $P _ { \mathrm { \Lambda } } = 0 . 0 5 2 { \mathrm { ; } }$ 。Shannon 指数同物种丰富度和均匀度指数相关极显著( $P { < } 0 . 0 1 )$
+
+表1生物多样性指数间Pearson相关分析  
+Table 1Pearson correlation analysis among 6 biodiversity indices   
+
+<html><body><table><tr><td>生物多样性指数</td><td>功能均匀度</td><td>功能分离度</td><td>物种丰富度</td><td>Shannon 指数</td><td>均匀度指数</td></tr><tr><td> Biodiversity indices</td><td>Fve</td><td>Fiv</td><td>S 0.603 **</td><td>H</td><td>E 0.021</td></tr><tr><td>功能丰富度Fci 功能均匀度Fve</td><td>-0.157</td><td>-0.219 0.345 *</td><td>-0.240</td><td>0.364 * 0.108</td><td>0.312 *</td></tr><tr><td>功能分离度Fiv</td><td></td><td></td><td>-0.142</td><td>0.172</td><td>0.299</td></tr><tr><td>物种丰富度 S</td><td></td><td></td><td></td><td>0.487 **</td><td>-0.083</td></tr><tr><td>Shannon 指数 H</td><td></td><td></td><td></td><td></td><td>0.817 **</td></tr></table></body></html>
+
+\* $P < 0 . 0 5$ ，\*\* $P < 0 . 0 1$ ; $F _ { \mathrm { c i } }$ ：Functional richness, $\boldsymbol { F } _ { v e }$ ：Functional evenness, $\boldsymbol { F } _ { i v }$ ：Functional dispersion，S：Species richness, $H$ ： Shannon index, $E$ :Evenness
+
+鉴于功能多样性3个指数代表多样性的不同方面[11],且功能均匀度和分离度指数均与物种均匀度指数存在较大相关性,以均匀度指数为控制变量,对功能均匀度和功能分离度指数进行偏相关分析,结果表明二者
+
+![](images/88216834b9061ab42cbe130d246acf70eb215ff3ee815614cfa4d8f0e015cd8f.jpg)  
+Fig.2Seasonal dynamics of macroinvertebrates species diversity
+
+![](images/3d5fa15b52a7644395da0031e979649a23e84e7b29d0a913dfac3f81513207a1.jpg)  
+图2底栖动物物种多样性季节动态  
+图3底栖动物功能多样性空间分布格局  
+Fig.3Spatial distribution of macroinvertebrates functional diversity
+
+![](images/5800c2964862180c70fa6d064782010e279865524d9b256a1f0e3fca2851e0eb.jpg)  
+图4底栖动物功能多样性季节动态  
+Fig.4Seasonal dynamics of macroinvertebrates functional diversity indices
+
+间无显著相关性 $( P > 0 . 0 5 )$ 。
+
+运用逐步回归分析研究物种多样性对功能多样性的影响（图5）,结果表明,物种丰富度、Shannon指数对功能丰富度影响显著( $P { < } 0 . 0 5 )$ 。均匀度指数对功能均匀度影响显著( $P { < } 0 . 0 5 )$ ；对功能分离度影响接近显著水平 ${ \mathit { \Sigma } } ^ { ' } P _ { \mathit { \Phi } } = 0 . 0 5 4 { \mathit { \Sigma } } _ { , } ^ { ' }$ 。
+
+# 3讨论
+
+对物种多样性的分析可知,受间歇性干扰的E河段物种丰富度高于D河段,符合中度干扰可增加物种多样性的理论[28]。B河段各项指标(物种丰富度、Shannon指数、均匀度指数)均最低,表明河道频繁断流对流域内底栖动物群落结构影响最大。各河段 Shannon 指数均值变化趋势同均匀度指数一致,表明在空间格局上，物种均匀度较物种丰富度对 Shannon 指数影响更大。在时间序列上,10月份物种丰富度显著低于其他月份,主要因为该时间段河道水量充沛,流速较大,底栖动物生存的底部空间扩大;反之,枯水期的12和4月份，水面狭窄,促使不同种类的底栖动物聚集[29]（10、12、4月底栖动物密度分别为896、5259、13352个/ $' \mathrm { m } ^ { 2 }$ )。相比物种均匀度,物种丰富度变化趋势在季节间同 Shannon 指数较为一致,表明在时间序列上物种丰富度对Shannon 指数影响更大。
+
+研究功能多样性随环境梯度的变化有助于理解生境异质性对功能多样性的直接影响[9]。功能丰富度是对物种占据生态位(性状)空间的度量,功能丰富度低意味着群落中未被利用的资源多[17]。本文功能丰富度在缓流态的A河段低于其他河段(包括物种丰度最低的B河段),表明流态对底栖动物功能丰富度影响重大。D河段(对照河段)功能丰度高于其他河段(包括物种丰度最高的E河段),表明相对物种丰富度,功能丰富度对环境压力具有更好的响应;即环境压力可增加功能性状的同质性。功能均匀度常用来衡量物种性状在占据的性状空间中是否规律分布;功能均匀度低,意味着未充分利用或过度利用的资源多,进而可作为生产力、稳定性、抵御入侵能力等的指标[11]。A 河段功能均匀度最高,主要原因在于该河段底栖动物密度最小（均值为
+
+![](images/5684ee18aee96a6c71430236e9ec12d31df09b1125d5e56adbf933eb9d4ebbe5.jpg)  
+图5物种多样性指数同功能多样性指数间回归分析（仅列 $P < 0 . 1$ 的图)   
+g.5Regression analysis between species diversity and functional diversity indices( Only ${ P } { < } 0 . 1$ in the fig
+
+1590个/ $\mathbf { \chi } _ { \mathbf { m } } ^ { \prime }$ ,低于其他河段),功能性状组成相对均匀。C 河段物种均匀度均值最高,功能均匀度均值最低；主要原因是城市生活用水的排放使底栖藻类大量繁殖,以刮食藻类为生的摇蚊（如仅Orthocaldius vaillanti、Neozarelia sp.、Chaetocladius sp.3个分类单元的相对丰度合计就高达 $3 9 . 6 \%$ )幼虫在数量上占据绝对优势。功能离散度体现了群落中物种间的生态位的互补程度[25];高功能分离度表示物种生态位重叠小,资源竞争水平较低,利用效率高[]。A河段功能分离度高,主要原因是该段物种丰富度低、密度小,使得性状重叠相度对较小。B 河段拟长跗摇蚊(Paratanytarsus sp.E)占绝对优势（相对丰度 $6 3 \%$ );由功能分离度计算方法[26]可知，该物种位于性状生态位空间的边缘地带应是B河段功能分离度高的主要原因。
+
+在时间序列上,3类功能多样性指数变化趋势相互独立。同物种多样性相比,功能丰富度在4月份稍有下降,主要原因在于春季是水生昆虫羽化的重要时期,一些性状伴随生物的羽化从群落中消失或减少。10 月份功能均匀度高于12月份和4月份,主要是因为12月份和4月份水文环境稳定，一些在竞争上占有优势的物种大量繁殖,从而导致了群落生物性状分布更加不均匀。同理而论,功能分离度在12月份最低,也是由于生境稳定,少数物种在群落中占据绝对优势(如 Paratanytarsus sp.、Cheumatopsyche sp.两个物种相对丰度之和为 $5 5 . 6 \%$ ),4月份伴随摇蚊等水生昆虫,特别是优势类群的羽化,生物性状重叠度总体出现下降。
+
+！功能多样性3类指数间及其与物种多样性间不存在必然的关联性;如果出现显著的关联,一定是生态学性状作用的结果[11]。新薛河底栖动物功能多样性指数间相关不显著,进一步验证了三者之间的独立性。Shannon 指数由于受群落物种丰富度和均匀度共同影响[30],因此,与二者相关均显著。物种多样性的改变会引起功能多样性发生相应变化被普遍认同,但二者间具体关系在很多生态系统中尚属未知[31]。本文功能丰富度受物种丰富度和 Shannon指数影响显著,主要原因在于随着物种的增加,竞争增加,生态位进一步分化[32-33];同时,某些特殊功能物种的加人无疑会直接增加群落占据的性状空间,这和很多研究的结果是一致的[13,34]。同时,我们也注意到,功能多样性和物种多样性的关系在不同生态系统中有所差异,如 Devictor等[35]的研究发现,随着物种丰度升高功能多样性下降。功能均匀度和离散度主要受群落功能性状分布的影响,不受物种丰度的影响;而物种均匀度可对性状分布产生不同程度影响,因此，二者均不同程度地受物种均匀度影响;这和薛倩妮等[17]的研究结果是一致的。同时,就分析结果可知,功能多样性与物种多样性间拟合度总体不高( $R ^ { 2 } { < } 0 . 3 6 4 )$ ,说明二者之间存在更为复杂的非线性关系。Zhang 等[36]认为,二者间的非线性关系是“功能多样性可提供更多不同于物种多样性的特殊信息”重要佐证。
+
+致谢：野外调查及室内分析得到李坤、马相铭、李丛丛的帮助,特此致谢。
+
+# 参考文献（References）:
+
+[1]CostaS，eletadesitireertateebagsoitdoicbiatpntsdogia,2008,598(1)：131-138.  
+2tBrazil.Biota Neotropica,2010,10(3）：115-128.  
+[3］蒋万祥，贾兴焕，周淑婵，李凤清，唐涛，蔡庆华.香溪河大型底栖动物群落结构季节动态.应用生态学报，2009,20（4)：923-928.  
+［4］蒋万祥，蔡庆华，唐涛，吴乃成，傅小城，李凤清,刘瑞秋.香溪河大型底栖无脊椎动物空间分布.应用生态学报，208，19（11)：2443- 2448.  
+[5]Din-Fcgengdasitca2011,25(4): 735-744.  
+[6]BarnettAJ,Finlay K,Beisner B E.Functional diversity of crustacean zooplankton owardsa traitbased classification.FreshwaterBiology，2007,52(5):796-813.  
+[7］蒋万祥，何逢志，蔡庆华.香溪河水生昆虫功能性状及功能多样性空间格局.生态学报，2017,37(6)：1861-1870.  
+[8]Cardinale BJ,Palmer M A,Collins SL. Species diversity enhances ecosy m functioning through interspecific facilitation.Nature，2Oo2，415(6870):426-429.  
+[9]HuG,JinJJcialesisseesitelatisiiaergitteasubtropical evergreen broad-leaved forest. Ecological Research,2014,29(5）:897-903.  
+[10]Tilaneich,os，WinD,eenCitdructityi-edeit,294(5543): 843-845.  
+[11]Maso,oilliocal，ioalesdueeepratsfunctional diversity. Oikos,2005,111(1)：112-118.  
+[12］张濒波，刘东晓，刘朔孺，张勇，童晓立，王备新.钱塘江中游水生昆虫群落功能多样性对土地利用变化的响应.应用生态学报，2013，24(10): 2947-2954.  
+[13]BuWangGingYctioaldivesteasispeiesdvesitlogceialgadentidarroicallowdrainforest. Tropical Ecology，2014, 55(3）: 393-401.  
+14]ReoldalfsiFundamental and Applied Limnology/Archiv fur Hydrobiologie，2013,183(2）：121-133.  
+[15] DeBelloLepebastidVariatiosinspesdfutialplantdvesitlogcaticdggaditsoga(6): 801-810.  
+[16 LiW,ChengJM,YuKL,EpsteinHE,GuoL,ingGH,ZaoJ,DuGZPlantfuctioaldiversityanbedependentfspeciesditybservationsbasedontheimpactof4-yrsofnitrogenandphosphorusaditionsinanalpinemeadow.PLoSOne,2O15,10（8）：e0136040.  
+[17] 薛倩妮，闫明，毕润成.山西五鹿山森林群落木本植物功能多样性.生态学报，2015，35（21)：7023-7032.  
+[18] LavorelS，GarnerE.PredictingchangesincommunitycompositionandcosystemfunctioingfromplanttraitsrevitingtheHolyGral.Functional Ecology，2002,16(5）： 545-556.  
+[19]EplerJHdentifiatioaalfortelalode（iptera）ofrthdSoutharoliaG#X98497awfodvilFAmerica：EPA,2001：1-500.  
+[20]MorseJC,YangLF,TianLX.AquaticIsectsofCinaUsefulforonitoringWaterQualtyNanjig:HhaiUnivrsityPress，4-568.  
+[21]BrinkhurstRO.GuidetotheFreshwaterAquaticMicrodileOligochaetesofNrthAmericaOtawa，Ontario，Canada：CanadianSpecialPublication of Fisheries and Aquatic Sciences 84 Department of Fisheries and Oceans，1986：1-259.  
+[2]Poff OenJDViiraK,DiosKoratefBncialtratichofrthAmercanlotbasedecologlcatisinhtftatosJoulftolcaty）：.  
+2Usselcedefinition of groups with similar traits.Freshwater Biology，2000,43(2）：175-205.  
+[24]TachetHououadUseliateraP.IvertebdEuDceystematiqe，logieogieParisEdiios,2002:1-552.  
+[25] VillgerS，MooultmesialfuncoaldivesitndfoulifceedfrokifuialolEcology，2008，89（8）：2290-2301.  
+[26] MasonNWH,MacGiliayK,SteeJB,lonJB.AndexoffutioaldiversityJualofVegetationSiee，,14（4)：78  
+[27] CasanovesF,Pla,ieJA,DazSivestoftareckagfthteatedaalysisoffuctioaldveityMethosoland Evolution，2011,2(3）：233-237.  
+[28] Townsend CR，Scarsbrook MR，Doledec S.The intermediate disturbance hypothesis，refugia，and biodiversityi streams.Limnology andOceanography，1997,42(5）:938-949.  
+[29]BecheLcesheasoalaiinecalitsntacrovertebatesiiaclimate streams in California，U.S.A.Freshwater Biology，2006,51(1)：56-75.  
+[30] Shannon CE.A mathematical theory of communication.The BellSystem Technical Journal,1948,27(3)：379-423.  
+[31] CadoteMWasenK,rothckodseisfutialesideteaefolcalprocsdolof Applied Ecology，2011,48(5）：1079-1087.  
+[32] MasonNWHeelllealepJcheeaevealshetspeitsuncedsigblsexperimental grassland communities. Journal of Ecology，2011,99(3）：788-796.  
+[33] Mouchet MA，Villeger S，Mason N WH，Mouillot D.Functional diversity measures an overview of their redundancy and their ability todiscriminate community assembly rules.Functional Ecology，2010,24(4):867-876.  
+[34] BiswasSR,MalikAUpeisdesidfuctialdvesityelatosrsibaneitesitospre，l（4).  
+[35]DevictorVouiltD,eardCigetF,ilroqtSatialismatchndoguebetntaxoiclcfunctionaldiversity：thenedforintegrativeonservationstrategiesiachangingworld.EcologyLeters，l3（8）：031040.  
+36]ZhangJi,iLFVatiofpantilesitgubegradietioaidoofteihae,Beijing，,China.Russian Journal of Ecology，,2015,46(2）：157-166.

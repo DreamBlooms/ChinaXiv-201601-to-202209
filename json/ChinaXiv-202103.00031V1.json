@@ -1,0 +1,442 @@
+[
+    {
+        "type": "text",
+        "text": "基于径流还现的洮河流域径流变化特征研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "牛最荣¹，王启优²，孙栋元¹，张芮¹，武雪¹，邢云鹏}，展士杰¹(1.甘肃农业大学,甘肃 兰州 730070；2.甘肃省水文水资源局,甘肃 兰州 730000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：河川径流还现计算是准确反映区域水资源状况的基础，同时也是水资源规划和决策的重要依据。选取甘肃省洮河流域李家村、红旗2个代表水文站长系列径流资料作为基础数据，在还原计算的础上，对洮河流域径流进行还现计算，同时对径流变化特征进行研究。结果表明：1956—2016年洮河流域李家村、红旗多年平均实测径流量分别为 $3 9 . 5 2 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 } . 4 4 . 6 6 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ，还原后多年平均天然径流量分别为 $3 9 . 6 9 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 } . 4 6 . 1 1 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ，多年平均还原水量分别为 $0 . 1 7 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 } \\setminus 1 . 4 5 { \\times } 1 0 ^ { 8 }$ $\\mathrm { m } ^ { 3 } , 2$ 站消耗水量主要用于农业灌溉;2站天然径流突变趋势基本一致，突变点均为1990年；李家村、红旗站径流多年平均天然径流量修正还现后分别为 $3 1 . 7 6 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 } . 3 8 . 7 7 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ，减少径流量分别为 $7 . 9 3 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 } . 7 . 0 4 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ，分别减少 $2 0 \\% . 1 5 \\%$ ；还现后李家村站年径流呈现略微增加趋势，而红旗站年径流量呈现略微减小趋势；径流量呈现20世纪50年代和70年代—21世纪00年代低于多年平均值,21世纪10年代高于平均值和不同丰、平、枯状态的年代际特证。研究结果为流域水资源调查评价提供基础支撑，对促进流域水资源高效利用和优化配置，指导区域水资源综合管理与社会经济发展具有重要作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：洮河流域；天然径流；还现计算；变化特征",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "径流作为区域水循环的关键环节和水量平衡的重要要素，同时是区域水资源利用和评价的最主要部分[1-4]。受气候变化和人类活动的影响，流域下垫面条件发生较大变化，河流径流过程呈现显著变化。河川径流还原计算是水资源评价的基础，同时也是合理分配、调度有限水资源，并为生产服务的基本根据和重要保证[5-6]。而还原又分为\"向前还原\"和“向后还原”，“向前还原\"指将实测年径流量系列还原计算为流域(或区域)未大量兴建水利工程前的所谓天然年径流量系列，“向后还原\"指将区域内各代表站天然年径流量系列折算(换算)为现状条件下的年径流量系列，即还现计算。“向前还原\"评价成果反映了流域(或区域)水资源的天然状态，而随着人类经济社会快速发展，大量水利工程修建和水土保持措施面积增加，区域下垫面条件发生了很大改变，无法再回到天然状况，其成果不能直接用于水利工程规划设计和决策使用[7-8]。通过径流还现计算真实反映水利工程建设状况和水资源利用情况，为区域水资源科学合理调配和可持续发展提供技术支撑。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "针对径流还原计算方面，许多学者分别采用投影寻踪法、SWAT模型、VIC模型和BP神经网络模型等方法对不同区域径流进行了还原研究[9-12]，同时阿不力克木、张洪波、夏传清、薛青、吴英超等[5-6.13-15]分别对西北干旱区、地下水强扰动地区、雅鲁藏布江中游、渭干河和抚河下游进行了径流还原计算。而针对径流还现计算方面的研究相对较少，薛树文等对年径流量序列还现方法进行了研究8，孙娟绒",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对坪上水库径流进行了还现计算分析[16],王方方等[17]基于 $F$ 检验对金沙江下游梯级径流进行了还现分析研究[17]。尽管上述研究取得了一定成果,但针对特定区域径流还现计算方面的研究还相对偏少。洮河是黄河上游水量最大的一级支流。然而，随着气候变化和人类活动对下垫面的改变，近20a来洮河径流量呈现显著减少的趋势。在传统的水资源评价、水利工程设计中，一般都是将实测的径流系列还原到天然状态，即开展还原计算，然后再进行评价或工程设计。由于气候变化比如气温升高在短期内难有逆转的迹象，以及流域内一些引调水工程(特别是向本流域外调水的工程)是永久性工程，所以这种还原计算的方法势必会造成水资源量(还原后的天然径流量)偏大的假象，这会严重影响水资源的科学配置和开发利用，比如，会造成下游修建的水电站因来水达不到设计标准造成不能满负荷发电。本文采用第三次全国水资源调查评价的技术规定，采用洮河流域2个水文控制站1956—2016年共61a径流和面平均降水资料，在传统的还原计算的基础上，重点探索径流的还现问题，即将径流系列还现到现状的气候和下垫面条件下进行对比分析，并研究洮河径流量的演变趋势。因此，选取逃河流域为研究区域，开展流域径流还现计算研究，为流域水资源综合利用提供基础支撑。本文选取洮河流域李家村、红旗2个代表水文站长系列径流资料作为基础数据，采用分项调查法和降水径流双累积关系法完成径流还原计算，在此基础上对洮河流域径流进行修正还现计算研究，并对还现后的径流进行变化特征研究，从而为流域水资源综合管理和科学配置、环境治理提供科学依据，也为全球气温升高和人类活动背景下同类河流河川径流量的科学评价、水资源开发管理提供借鉴。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "洮河流域位于青藏高原东北部，地理位置介于$1 0 1 ^ { \\circ } 3 6 ^ { \\prime } { \\sim } 1 0 4 ^ { \\circ } 2 0 ^ { \\prime } \\mathrm { E } , 3 4 ^ { \\circ } 0 3 ^ { \\prime } { \\sim } 3 6 ^ { \\circ } 0 1 ^ { \\prime } \\mathrm { N }$ 之间。发源于青海省海南州境内的西倾山东麓,源地海拔 $4 2 6 0 \\mathrm { ~ m ~ }$ 干流全长 $6 7 3 { \\mathrm { ~ k m } }$ ,平均坡度 $2 7 . 0 \\%$ ，流域面积25225$\\mathrm { k m } ^ { 2 }$ ,多年平均径流 $4 8 . 2 5 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ，流域属大陆性季风气候，年平均气温 $7 \\%$ ，降水主要集中于6—9月，占全年降水的65%以上[18-19] ○",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2资料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1资料来源与监测站点情况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "水文站实测降水、径流数据来自于甘肃省水文水资源局，社会经济用水数据和水利工程引水及灌区用耗水数据来源于当地水务部门。甘肃省洮河流域自上而下共布设有碌曲、下巴沟、岷县、李家村、红旗5个干流水文站，下巴沟(博）多坝、冶力关、王家磨、康乐、尧甸、临洮、三甲集8个支流水文站，李家村和红旗站基本信息见表1。李家村至红旗水文站河段之间有干流控制站红旗水文站及临洮、康乐、三甲集3个支流主要控制水文站，洮河绝大部分用水集中在这个区域，主要是临洮县及洮河支流广通河区域诸县的农业灌溉，其中主要灌区有：临洮县洮河灌区、东峪沟灌区、红旗灌区、东乡县南阳灌区、达板灌区、唐汪灌区、那勒寺灌区、果园灌区、康乐县丰台灌区、和政县达浪灌区、和广灌区、梁家寺水库、卜家庄水库等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "面雨量计算选用洮河及邻近流域代表性好、系列较长的半阴坡、庆坪、尧甸等60个雨量站资料。选用水文站的河川径流量和雨量站降水量系列有缺测或系列长度不足的，均延长至1956年，经合理性分析后确定采用值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "径流还原方法是采用全面收集资料和典型调查分析相结合对代表水文站和控制水文站进行逐年(逐月)径流还原计算。利用相应地分项还原公式和计算过程[20-21],结合上下游、干支流和地区间综合平衡分析，完成对径流的准确还原计算和合理性分析。径流修正方法是通过点绘降水量与径流量的双累积相关图，找出其明显变化的拐点年份，以此为划分时间段依据，并对相应时间段径流量进行修正。在径流还原基础上,通过还现修正把早期下垫面状况下产生的径流量修正为现状条件下的径流量。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/f832104e34b006c708c6e46a2301be1dda90ebbcfbc2b92f73d66f17349fefdc.jpg",
+        "table_caption": [
+            "表1洮河水文站信息",
+            "Tab.1 Information of hydrological station of Taohe River "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">站名</td><td colspan=\"2\">坐标</td><td rowspan=\"2\">集水面积/km²</td><td rowspan=\"2\">控制面积/km</td><td rowspan=\"2\">选用雨量站数</td><td colspan=\"3\">平均面降水量/mm</td></tr><tr><td>东经/E</td><td>北纬/N</td><td>1956—2000年</td><td>1956—2016年</td><td>相对值/%</td></tr><tr><td>李家村</td><td>103°49'</td><td>35°16'</td><td>19693</td><td>19684.3</td><td>34</td><td>580.8</td><td>583.4</td><td>0.40</td></tr><tr><td>红旗</td><td>103°34'</td><td>35°48'</td><td>24973</td><td>24952.5</td><td>60</td><td>571.9</td><td>572.1</td><td>0.03</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用线性倾向拟合法描述径流变化趋势与倾向率[22-27]。采用滑动平均法判断径流变化波动趋势[22-23]。利用累积距平法诊断径流突变发生时间[22-26]。采用Mann-Kendall检验法进行突变检验和变化趋势分析，同时也可用于气温、降水、径流等水文和气象要素的分析[23-28]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3径流还原计算与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1径流还原计算",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过对1956一2016年洮河流域李家村、红旗实测径流量统计分析，得出2站多年平均实测径流量分别为 $3 9 . 5 2 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 } . 4 4 . 6 6 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ 。利用分项还原计算方法，得到李家村、红旗多年平均还原水量分别为 $0 . 1 7 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 } , 1 . 4 5 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ，李家村还原水量为农业灌溉用水量，红旗站还原水量为农业灌溉和工业用水量，耗水系数采用甘肃省农田灌溉水利用系数为0.42。因此，还原后多年平均天然径流量分别为$3 9 . 6 9 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 } \\ 、 4 6 . 1 1 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ 。由2站实测径流量与还原后天然径流量对比分析可知(图1)，还原后的天然径流量较实测径流量均有所增加，同时，李家村和红旗站天然径流量均呈现先增加后减小的变化趋势，说明随着人流活动的不断影响，天然径流量较以前有所减小。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2径流一致性分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "绘制面平均年降水量与天然年河川径流量的双累积相关图，发现流域降水量与径流量关系发生明显变化拐点年份在1990年，因此，以1990年为分割点，将系列划分为1956—1990年和1990—2016年2个年段，并对相应天然河川径流量进行一致性修正分析(图2、图3)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3径流突变特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过对李家村、红旗站年平均天然径流量进行突变检验(图4)。由图 $\\mathrm { 4 a }$ 可知，李家村站径流量在20世纪50—80年代 $U _ { \\mathrm { f k } }$ 均为正值，平均径流量呈现增加趋势，特别是20世纪60年代径流量增加趋势略微超过 $9 5 \\%$ 临界线，表明李家村站年平均径流量在这一时段上升趋势十分显著。 $U _ { \\mathrm { f k } }$ 在20世纪90年代一21世纪10年代为负值，径流量呈现减小趋势，同时径流量减小趋势超过 $9 5 \\%$ 临界线在20世纪90年代后期一21世纪10年代,表明该站在此时段径流量下降趋势显著。1990年为 $U _ { \\mathrm { f k } }$ 和 $U _ { \\mathrm { b k } }$ 交点，且在 $\\pm$ 1.96临界线之间，说明平均径流量在1990年为李家",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a)李家村站 天然 120 (b)红旗站 天然中实测 /售 80 中实测  \n1c 60  \n。 40201 LL 0  \n680 086 0 01 0004 L00 010 0 3000 896 L6 L6 LL61 00 3602年份 年份(a)李家村站 y=0.054x+458.93 (b)红旗站 y=0.060.9423.57 4 美  \n2000 1500 y=0.0792x-6.4922 R²=0.9981 e8608444444 44444444444 44444444 2000 1500 y-0.0911x-8.0918 R²=0.999 eee WR²=0.9991 AAAWW  \n1000 o 1956—1990年系列 1000 。1956—1990年系列  \n500 A y=0.0543x-1.92961991—2016年系列 500 y=0.0673x+5.4079 △ 1991—2016年系列0 R²=0.9997 ×修正后系列 0 R²=0.9996 ×修正后系列5000 15000 25000 35000 5000 15000 25000 35000累积降水量/mm 累积降水量/mm",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Correction curve of precipitation and runoff double accumulation at Lijiacun and Hongqi stations ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "450 (a)李家村站 450 (b)红旗站400 y= 0.7181x-190.68 4 400y=0.6804x-186.22 △350 R²=0.7712 350 R²=0.7776 A  \n/m 302020 19561990年 公□□ /m 302020 A191-2010年 △4 △△ □  \n径150 嘿 径 150 电目100 y=0.4547x-101.23 100 y=0.4425x-95.41550 R²=0.5903 50 R²=0.65670 0200 300 400 500 600 700 800 900 200 300 400 500 600 700 800 900降水量/mm 降水量/mm",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6284e844d847d0834a111d44efea7a720f986e72e3809e1a314d2c977c8c1cde.jpg",
+        "img_caption": [
+            "图3李家村与红旗站前后2个时段径流深与降水量关系",
+            "Fig.3Relationship between runoff depth and precipitation at Lijiacun and Hongqi stations ",
+            "图4洮河流域李家村和红旗站年平均径流突变检验"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.4M-K mutation test of annual average runofof Lijiacun and Hongqi stations in Taohe River ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "村站突变点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图4b可知，红旗站径流量 $U _ { \\mathrm { f k } }$ 为正值的时段是20世纪50一80年代，平均径流量呈现增加趋势。 $U _ { \\mathrm { f k } }$ 为负值时段为20世纪90年代—21世纪10年代,径流量呈现减小趋势，径流量减小趋势超过$9 5 \\%$ 临界线在20世纪90年代后期—21世纪10年代，表明该站在此时段径流量下降趋势十分显著1990年为 $U _ { \\mathrm { f k } }$ 和 $U _ { \\mathrm { b k } }$ 交点，且在 $\\pm 1 . 9 6$ 临界线之间，说明平均径流量在1990年为红旗站突变点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由上分析可知，2个站突变趋势基本一致，突变点均为1990年，且结果与一致性分析的拐点一致。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4径流还现计算与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "查算李家村、红旗站不同量级年降水量对应的径流修正系数，分别计算2站降水量与径流修正系数，分别作为2站天然径流量还现修正依据，详见表2。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据李家村、红旗站修正年份的降水量，从降水量与径流修正系数关系曲线上查得相应的修正系数，通过与天然年河川径流量相乘分别得到修正还现后2站径流量，还现后2站径流量分别为 $3 1 . 7 6 \\times$ $1 0 ^ { 8 } \\mathrm { m } ^ { 3 } . 3 8 . 7 7 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ，比还原后多年平均天然径流量分别为减少 $7 . 9 3 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 } . 7 . 0 4 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ 。李家村、红旗站天然径流量与还现径流量对比见图5。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8da72fe171fbbfde5aa3826cc79a4d730f450f02fc7d445fe628410f63851308.jpg",
+        "table_caption": [
+            "表2李家村和红旗站降水量与径流修正系数",
+            "Tab.2 Correction factor of precipitation and runoff at Lijiacun and Hongqi stations "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">降水量/mm</td><td colspan=\"3\">李家村站</td><td colspan=\"3\">红旗站</td></tr><tr><td>y=0.7181x-190.68</td><td>y=0.4547x-101.23</td><td>修正系数</td><td>y=0.6804x-186.22</td><td>y=0.4425x-95.41</td><td>修正系数</td></tr><tr><td>300</td><td>24.750</td><td>35.184</td><td>1.4216</td><td>17.90</td><td>37.340</td><td>2.0860</td></tr><tr><td>350</td><td>60.655</td><td>57.919</td><td>0.9549</td><td>51.92</td><td>59.465</td><td>1.1453</td></tr><tr><td>400</td><td>96.560</td><td>80.654</td><td>0.8353</td><td>85.94</td><td>81.590</td><td>0.9494</td></tr><tr><td>450</td><td>132.465</td><td>103.389</td><td>0.7805</td><td>119.96</td><td>103.715</td><td>0.8646</td></tr><tr><td>500</td><td>168.370</td><td>126.124</td><td>0.7491</td><td>153.98</td><td>125.840</td><td>0.8172</td></tr><tr><td>550</td><td>204.275</td><td>148.859</td><td>0.7287</td><td>188.00</td><td>147.965</td><td>0.7870</td></tr><tr><td>600</td><td>240.180</td><td>171.594</td><td>0.7144</td><td>222.02</td><td>170.090</td><td>0.7661</td></tr><tr><td>650</td><td>276.085</td><td>194.329</td><td>0.7039</td><td>256.04</td><td>192.215</td><td>0.7507</td></tr><tr><td>700</td><td>311.990</td><td>217.064</td><td>0.6957</td><td>290.06</td><td>214.340</td><td>0.7390</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 还现后径流变化特征 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.1径流变化趋势 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "洮河流域还现后李家村和红旗站1956—2016年多年平均径流量分别为 $3 1 . 7 6 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ 和 $3 8 . 7 7 \\times 1 0 ^ { 8 }$ $\\mathbf { m } ^ { 3 }$ 。李家村站年径流量最大、最小值分别为1967年的 $5 5 . 8 3 \\times 1 0 ^ { 8 } \\ \\mathrm { m } ^ { 3 }$ 和2002年的 $1 9 . 5 5 \\times 1 0 ^ { 8 } \\ \\mathrm { m } ^ { 3 }$ ,相差$3 6 . 2 8 \\times 1 0 ^ { 8 } ~ \\mathrm { m } ^ { 3 }$ ，比值为 $2 . 8 6$ 。红旗站年径流量最大、最小值分别为1967年的 $7 2 . 2 0 { \\times } 1 0 ^ { 8 } ~ \\mathrm { m } ^ { 3 }$ 和1971年的$2 4 . 4 0 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ,相差 $4 7 . 8 0 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ,比值为 $2 . 9 6$ 。由图6a可知，李家村站年径流呈现略微增加趋势,增加趋势不明显，线性倾向方程为 $y = 0 . 0 0 8 7 x + 3 1 . 4 8 6$ ，年径流量以 $0 . 0 8 7 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 } { \\cdot } ( 1 0 \\mathrm { a } ) ^ { - 1 }$ 的速率增加,61a内增加了 $0 . 5 3 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ 。由图 $6 \\mathrm { b }$ 可知,红旗站年径流量呈现略微减小趋势，减少趋势不明显，线性倾向方程",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "98076504302010 (a)李家村站 天然 120 (b)红旗站 天然  \n0/ ↑← 还现(天然) 线性(还现) 80 还现（天然) 线性(还现)本 60★ 本 店 40 1 A ★ 4  \n交 20 火0  \n55 6 8000 2000 3 9005 68 2007 O 3 620 2年份 年份-年径流量 年平均径流量(a)李家村  \n0/鲁 50 60 5a滑动平均 -线性(年径流量)40302010 y=0.0087x+31.486R²=0.000300080 0303800200400 100 0 02 0年份(b)红旗  \n0/ 87650403020100 0.00043 6 6 5 7 8 8 9861 686 766 00 0 00 0 19 0 9 9 9 9 9 9 0 0 20 0年份  \n/店 6040 20 (c) 红旗 -李家村0-2040 年份-6000 022 2 2 2",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为 $y = - 0 . 0 1 2 4 x + 3 9 . 1 4 9$ ,年均径流量以 $0 . 1 2 4 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ：$\\left( 1 0 \\mathrm { a } \\right) ^ { - 1 }$ 的速率减小,61a内减少了 $0 . 7 6 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ 。从2站5a滑动平均曲线(图6a和6b)可以看出，李家村站和红旗站年径流量均呈缓慢增减增变化趋势，呈现不同上升-下降-上升过程变化。由图6c累积距平可知，整体上李家村站和红旗站1956—1967、1974—1985年和2003—2016年均呈现上升趋势，1968—1973年和1986—2002年均呈现下降趋势。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.2径流年际变化特征 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过对还现后径流进行统计分析，得到李家村和红旗站径流特征值，见表3。由表3可知，李家村站径流量相对较小时段为20世纪50年代和70年代—21世纪00年代，比多年平均值分别小 $5 . 3 6 \\times 1 0 ^ { 8 }$ $\\mathrm { m } ^ { 3 } , 1 . 3 2 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 } , 1 . 1 4 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 } , 0 . 4 8 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ 和 $0 . 4 5 \\times 1 0 ^ { 8 }$ $\\mathbf { m } ^ { 3 }$ ;相对较大时段为20世纪60年代和21世纪10年代，分别大 $5 . 0 1 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ 和 $1 . 6 9 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ,同时径流极值呈现不同特征变化。该站特枯水年为1956一1959年，偏丰水年为1960—1969年，平水年为1970—1979、1980—1989、1990—1999、2000—2009年和2010—2016年5个时段。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，红旗站径流量相对较小时段为20世纪50年代和70年代一21世纪00年代，比多年平",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/05319f2c4d383739c5723a7d86b3469249146707042a46744bf462be9128e719.jpg",
+        "table_caption": [
+            "表3逃河流域不同水文站年际径流量特征值",
+            "Tab.3Characteristic values of interannual runoffofLijiacun and Honggi stations in Tao River Basin "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">时段</td><td colspan=\"2\">平均值/10m</td><td colspan=\"2\">最大值/10m</td><td colspan=\"2\">年份</td><td colspan=\"2\">最小值/10m</td><td colspan=\"2\">年份</td><td colspan=\"2\">极值比</td><td colspan=\"2\">距平百分率/%</td><td colspan=\"2\">年景</td></tr><tr><td></td><td>李家村 红旗</td><td></td><td>李家村 红旗</td><td></td><td>李家村 红旗</td><td>李家村 红旗</td><td></td><td>李家村 红旗</td><td></td><td></td><td>李家村 红旗</td><td>李家村 红旗</td><td></td><td>李家村 红旗</td><td></td></tr><tr><td>1956- 1959年</td><td>26.40</td><td>32.93</td><td></td><td>34.16 43.83</td><td>1959</td><td>1959</td><td>19.78</td><td>24.63</td><td>1957</td><td>1957</td><td>1.73</td><td>1.78</td><td>-20.30 -17.73</td><td></td><td>特枯 水年</td><td>偏枯 水年</td></tr><tr><td>1960— 1969年</td><td>36.77</td><td>45.17</td><td>55.83</td><td>72.20</td><td>1967</td><td>1967</td><td>21.76</td><td>26.04</td><td>1969</td><td>1969</td><td>2.57</td><td>2.77</td><td>13.63</td><td>14.17</td><td>偏丰 水年</td><td>偏丰 水年</td></tr><tr><td>1970— 1979年</td><td></td><td>30.4437.48</td><td></td><td>41.6550.75</td><td>1976</td><td>1978</td><td>20.27</td><td>24.40</td><td>1971</td><td>1971</td><td>2.05</td><td>2.08</td><td></td><td>-4.34 -3.44</td><td>平水 年</td><td>平水 年</td></tr><tr><td>1980— 1989年</td><td>30.62</td><td>38.06</td><td>41.61</td><td>50.97</td><td>1984</td><td>1984</td><td>21.40</td><td>28.95</td><td>1988</td><td>1988</td><td>1.94</td><td>1.76</td><td>-3.72</td><td>-1.87</td><td>平水 年</td><td>平水 年</td></tr><tr><td>1990- 1999年</td><td>31.28</td><td>35.85</td><td>43.92</td><td>50.32</td><td>1992</td><td>1992</td><td>22.26</td><td>27.08</td><td>1991</td><td>1997</td><td>1.97</td><td>1.86</td><td>-1.53</td><td>-8.15</td><td>平水 年</td><td>平水 年</td></tr><tr><td>2000— 2009年</td><td>31.31</td><td>38.13</td><td>48.78</td><td>56.80</td><td>2005</td><td>2005</td><td>19.55</td><td>24.54</td><td>2002</td><td>2002</td><td>2.50</td><td>2.31</td><td>-1.44</td><td>-1.68</td><td>平水 年</td><td>平水 年</td></tr><tr><td>2010— 2016年</td><td>33.45</td><td>40.89</td><td></td><td>48.24 58.38</td><td>2012</td><td>2012</td><td>24.01</td><td>31.02</td><td>2016</td><td>2016</td><td>2.01</td><td>1.88</td><td>5.05</td><td>5.18</td><td>平水 年</td><td>平水 年</td></tr><tr><td>1956— 2016年</td><td>31.76</td><td>38.77</td><td>55.83</td><td>72.20</td><td>1967</td><td>1967</td><td>19.55</td><td>24.40</td><td>2002</td><td>1971</td><td>2.86</td><td>2.96</td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "均值分别小 $5 . 8 4 \\times 1 0 ^ { 8 } \\mathrm { ~ m } ^ { 3 } , 1 . 2 9 \\times 1 0 ^ { 8 } \\mathrm { ~ m } ^ { 3 } , 0 . 7 1 \\times 1 0 ^ { 8 } \\mathrm { ~ m } ^ { 3 } .$ $2 . 9 2 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ 和 $0 . 6 4 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ,相对较大时段为20世纪60年代、21世纪10年代，分别大 $6 . 4 0 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ 和 $2 . 1 2 \\times$ $1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ,同时径流极值呈现不同特征变化。该站偏枯水年为1956—1959年，偏丰水年为1960—1969年，平水年为1970—1979、1980—1989、1990—1999、2000—2009年和2010—2016年5个时段。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "总体上，洮河流域径流年代际低于和高于多年平均值时段分别为20世纪50年代和70年代—21世纪00年代、21世纪10年代，同时呈现不同丰、平、枯状态。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于流域内存许多灌区和向外流域的调水工程，使得流域耕地面积呈现不同程度增加趋势，同时在流域内采取不同程度水土保持生态和工程措施，使得区域植被覆盖度有所改变，这些因素综合改变了流域下垫面条件，使得流域产汇流条件也发生相应改变。受气候变化影响，使得区域水文、气象发生相应改变，从而使得流域的径流呈现不同变化规律，再加之地形条件和2个水文站之间灌溉面积不同，使得李家村和红旗2个站还现后年径流呈现不同变化趋势。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "尽管不同的学者针对径流还原开展了相关研究，但是针对径流还现方面的研究相对偏少，尤其关于洮河流域径流还原、还现的研究几乎为零。本研究区别于以往仅仅局限于径流还原研究，在还原基础上进行了流域径流突变特征研究，径流还现研究以及还现后变化趋势和年际变化特征研究，计算结果可为区域水资源调查评价和优化布局提供一定参考依据。因此，在未来流域水资源综合利用、高效管理、水利工程合理优化布局和规划、区域生态环境综合保护和治理方面综合考虑还现计算成果。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "随着人流活动不断加剧和区域气候变化的影响，流域下垫面条件也在不断发生改变，流域的产汇流条件在一定程度上也受到不同程度影响，在径流还现计算过程中，应进一步加强综合分析计算，加强不同方法交叉应用，使得区域水文还现计算更趋于科学合理，同时未来研究中应更进一步加强气候变化与人类活动对流域径流的影响分析。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "7结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1956—2016年洮河流域李家村、红旗多年平均实测径流量分别为 $3 9 . 5 2 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 } . 4 4 . 6 6 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ,还原后多年平均天然径流量分别为 $3 9 . 6 9 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 } . 4 6 . 1 1 { \\times }$ $1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ,多年平均还原水量分别为 $0 . 1 7 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 } . 1 . 4 5 { \\times }$ $1 0 ^ { 8 } \\mathrm { m } ^ { 3 } , 2$ 站消耗水量主要用于农业灌溉。通过M-K法检测结果显示，洮河流域李家村站、红旗站年天然平均径流量突变趋势基本一致，2站突变点均为",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1990年。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "李家村、红旗站径流还原后多年平均天然径流量分别为 $3 9 . 6 9 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 } . 4 6 . 1 1 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ，还现修正后分别为 $3 1 . 7 6 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 } . 3 8 . 7 7 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ，减少径流量分别为$7 . 9 3 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 } . 7 . 0 4 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ，分别减少 $2 0 \\% . 1 5 \\%$ 。李家村站年径流量以 $0 . 0 8 7 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 } { \\cdot } ( 1 0 \\mathrm { a } ) ^ { - 1 }$ 的速率增加，61a内增加了 $0 . 5 3 \\times 1 0 ^ { 8 } \\ \\mathrm { m } ^ { 3 }$ ,而红旗站年径流量以$0 . 1 2 4 \\times 1 0 ^ { 8 } ~ \\mathrm { m } ^ { 3 } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ 的速率减小，61a内减少了$0 . 7 6 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "总体上，洮河流域径流年代际低于和高于多年平均值时段分别为20世纪50年代和70年代一21世纪00年代、21世纪10年代，同时呈现不同丰、平、枯状态。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]李晓娟,张军龙,宋进喜,等.渭河陕西段径流量对经济用水的 响应[J].干旱区地理,2016,39(2):265-274.[Li Xiaojuan, Zhang Junlong, Song Jinxi,et al. Response of runoff to economic water consumptions of the Weihe River in Shaanxi Province[J].Arid Land Geography,2016,39(2): 265-274.]   \n[2]牛最荣,陈学林,王学良.白龙江干流代表站径流变化特征及未 来趋势预测[J].水文,2015,35(5):91-96.[Niu Zuirong,Chen Xuelin,Wang Xueliang.Runoff variation characteristics of representative stations on mainstream of Bailongjiang River and trend prediction[J].Journal of China Hydrology,2015,35(5): 91-96.]   \n[3]周海鹰,沈明希,陈杰,等.塔里木河流域60a来天然径流变化 趋势分析[J].干旱区地理,2018,41(2):221-229.[Zhou Haiying, Sheng Mingxi,Chen Jie,et al.Trends of natural runofs in the Tarim River Basin during the last 6O years[J].Arid Land Geography,2018,41(2): 221-229.]   \n[4]牛最荣,张芮,陈学林,等.1970-2016年气候变化对渭河源头 清源河流域降水和地表径流的影响[J].水土保持通报,2018, 38(5): 9-14.[Niu Zuirong,Zhang Rui, Chen Xuelin,et al. Impacts of climate change on precipitation and surface runoff from 1970 to 2016 in Qingyuan River Basin,source region of Weihe River[J]. Bulletin of Soil and Water Conservation,2018,38(5): 9-14.]   \n[5]阿不力克木·阿不力孜,宋星原.西北干旱地区径流量还原计算 有关问题的探讨[J].节水灌溉,2010,(8):42-44,48.[Ablikim Abliz, Song Xingyuan.Discussion on restoring calculation of runoff in northwest arid area[J].Water Saving Irrigation,2O10,(8): 42-44,48.]   \n[6]张洪波,陈克宇,俞奇骏,等.地下水强扰动地区的径流还原计 算方法[J].水力发电学报,2015,34(11):95-105.[Zhang Hongbo,Chen Keyu,Yu Qijun,et al. Unimpaired flow calculations in regions with great disturbance in groundwater[J]. Journal of Hydroelectric Engineering,2015,34(11): 95-105.]   \n[7]陆中央.关于年径流量系列的还原计算问题[J].水文,2000,20 (6): 9-12.[Lu Zhongyang. Restore estimation of annual runoff series[J]. Journal of China Hydrology,2000,20(6): 9-12.]   \n[8]薛树文,曹升乐,王利朵,等.年径流量序列还现方法研究[J].水 力发电,2017,43(5): 21-24.[Xue Shuwen, Cao Shengle,Wang Liduo,et al. Research on forward restore method of annual runoff [J].Water Power,2017,43(5): 21-24.]   \n[9]乔云峰,夏军,王晓红,等.投影寻踪法在径流还原计算中的应 用研究[J].水力发电学报,2007,26(1): 6-10.[Qiao Yunfeng, Xia Jun,Wang Xiaohong,et al.Estimation of restoration of annual runoff series byusing projection pursuit method[J]. Journal ofHydroelectric Engineering,2007,26(1): 6-10.]   \n[10] 陈佳蕾,钟平安,刘畅,等.基于SWAT模型的径流还原方法研 究———以大汶河流域为例[J].水文,2016,36(6):28-34.[Chen Jialei,Zhong Ping'an,Liu Chang,et al. Research on runoff restoration method based on SWAT model: A case study in Dawenhe River Basin[J]. Journal of China Hydrology,2016,36(6): 28-34.]   \n[11]范辉,肖恒,马金一,等.基于VIC模型的天然径流还原研究[J] 华北水利水电大学学报(自然科学版),2017,38(2):7-10.[Fan Hui, Xiao Heng,Ma Jinyi,etal.Study onrestoringcomputationof runoff basedon VIC model[J]. Journal of North China University of Water Resources and Electric Power (Natural Science Edition), 2017, 38(2): 7-10.]   \n[12] 刘强,冯忠伦,刘红利,等.结合RVA法建立天然径流量还原计 算的 BP神经网络模型[J].中国农村水利水电,2018,(10): 54- 59.[Liu Qiang,Feng Zhonglun,Liu Hongli,et al. Building BP neural network model of reduction calculation combined with RVA method[J]. China Rural Water and Hydropower,2018,(1O): 54-59.]   \n[13] 夏传清,马顺刚.雅鲁藏布江中游径流还原计算方法探析[J].东 北水利水电,2010,(12): 28-30.[Xia Chuanqing,Ma Shungang. Discussion on calculation method of runof restore in middle reaches of Yarlung Zangbo River[J].Water Resources& Hydropower of Northeast China, 2010, (12): 28-30.]   \n[14]薛青,张亮.渭干河年径流量还原计算分析[J].水利科技与经 济,2013,19(8): 34-36.[Xue Qing,Zhang Liang. Reducing the calculation of annual runoff in the Weigan River[J]. Water Conservancy Science and Technology and Economy,2013,19(8): 34-36.]   \n[15] 吴英超,吴敦银,王永文,等.抚河下游李家渡站径流还原计算 分析[J].南昌工程学院学报,2014,33(3):14-17,24.[Wu Yingchao, Wu Dunyin, Wang Yongwen, et al. Restoration analysis and calculation of runoff about Lijiadu station on the downstream ofFuheRiver[J].Journalof Nanchang Instituteof Technology, 2014,33(3): 14-17, 24. ]   \n[16]孙娟绒.坪上水库径流还现计算分析[J].太原理工大学学报, 2005,36(5): 589-592,596.[Sun Juanrong. Calculation analyse of current unoff in Pingshang Reservoir[J]. Journal of Taiyuan University of Technology,2005,36(5): 589-592,596.]   \n[17] 王方方,阮燕云,王二鹏,等.基于 $F$ 检验的金沙江下游梯级径 流还现分析研究[J].水电与新能源,2018,32(9):22-25,30. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[Wang Fangfang,Ruan Yanyun,Wang Erpeng,et al.On the natu",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ral flow derivation of the downstream Jinsha River based on $F$ -test [J].Hydropower and New Energy,2018,32(9): 22-25,30.]   \n[18] 胡迎,黄春长,周亚利,等.黄河上游洮河流域全新世古洪水水 文学研究[J].干旱区地理,2017,40(5):1029-1037.[Hu Ying, Huang Chunchang,Zhou Yali,et al.Hydrological studies of the Holocene palaeoflood in the Taohe River Basin of the upper Yellow River[J].Arid Land Geography,2017,40(5):1029-1037.]   \n[19] 杨玉霞,郝岩彬,化勇鹏,等.洮河流域水资源保护对策措施研 究[J].甘肃水利水电技术,2016,52(1):1-8.[Yang Yuxia,Hao Yanbin, Hua Yongpeng,et al. Study on counter measures of water resources protection in Taohe River Basin[J]. Gansu Water Resources and Hydropower Technology,2016,52(1):1-8.]   \n[20] 蒋憬.径流还原与一致性修正在水资源评价中的应用研究 以渭河秦安站为例[J].地下水,2019,41(1):181-183.[Jiang Jing.Study on the application of runoff reduction and consistency correction in water resources evaluation:Taking Qinan station of Weihe River as an example[J]. Ground Water,2019,41(1):181- 183.]   \n[21] 陈凯霖,冯民权,王丹丹.基于径流还原的桑干河生态基流及其 盈缺分析研究[J].水资源与水工程学报,2018,29(2):90-96. [Chen Kailin,Feng Minquan,Wang Dandan.Ecological basis flow and its sufficiency and lack of Sanggan River based on restoring computation of runoff[J].Journal of Water Resources & Water Engineering,2018,29(2): 90-96.]   \n[22] 商沙沙,廉丽妹,马婷,等.近54a中国西北地区气温和降水的 时空变化特征[J].干旱区研究,2018,35(1):68-76.[Shang Shasha,Lian Limei,Ma Ting,et al. Spatiotemporal variation of temperature and precipitation in northwest China in recent 54 years [J].Arid Zone Research,2018,35(1): 68-76.]   \n[23]孙栋元,齐广平,鄢继选,等.疏勒河干流降水变化特征[J].干旱 区研究,2020,37(2):291-303.[Sun Dongyuan,Qi Guanping, Yan Jixuan,et al.Research on variation characteristics of precipitation in the mainstream of Shule River[J].Arid Zone Research, 2020,37(2): 291-303.]   \n[24] 热孜宛古丽·麦麦提依明,杨建军,刘巍.艾比湖流域1957- 2013 年潜在蒸散、气温、降水变化特征分析[J).冰川冻土, 2016,38(1):69-76.[Reziwangguili Maimaitiyiming,Yang Jianjun,Liu Wei. Changing characteristics of potential evapotranspiration,air temperature and precipitation in Ebinur Lake Basin from 1957 to 2013[J]. Journal of Glaciology and Ceocryology,2016,38 (1): 69-76.]   \n[25] 周唤唤,郭威.芜湖市1971—2015年降水变化趋势及突变性分 析[J].黄河水利职业技术学院学报,2018,30(1):5-10.[Zhou Huanhuan, Guo Wei. Rainfall change trend and mutation analysis in Wuhu from 1971 to 2015[J]. Journal of Yellw River Conservancy Technical Institute,2018,30(1): 5-10.]   \n[26] 常周梅,胡文博,张丽娟.西宁市1951—2015年气温及降水量 变化特征[J].水电能源科学,2017,35(2):7-11.[Chang Zhoumei, Hu Wenbo, Zhang Lijuan.Change characteristics of temperature and precipitation from 1951 to 2015 in Xining City[J].Water Resources and Power,2017,35(2): 7-11.]   \n[27] 刘艳伟,王淑莹,屠星磊,等.元谋干热河谷区近60年干湿状况 和气温变化特征分析[J].排灌机械工程学报,2018,36(2):172- 178.[Liu Yanwei,Wang Shuying,Tu Xinglei,et al. Characteristic analysis of dry-wet condition and temperature trend in Yuanmou dry-hot valley (DHV) in recent 6O years[J]. Journal of Drainage and Irrigation Machinery Engineering,2018,36(2):172-178.]   \n[28] 高彦春,王金凤,封志明.白洋淀流域气温、降水和径流变化特 征及其相互响应关系[J].中国生态农业学报,2017,25(4):467- 477.[Gao Yanchun,Wang Jinfeng,Feng Zhiming.Variation trend and response relationship of temperature,precipitation and runoff in Baiyangdian Lake Basin[J]. Chinese Journal of Eco-Agriculture, 2017, 25(4): 467-477.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Runoff variation characteristics of Taohe River Basin based on calculation of current runoff ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "NIU Zuirong'， WANG Qiyou²， SUN Dongyuan'， ZHANG Rui',WU Xue'， XING Yunpeng'， ZHAN Shijie'(1.Gansu Agricultural University,Lanzhou 73Oo7o,Gansu,China;2.Hydrologyand Water Resources Bureauof Gansu Province,Lanzhou 73oooo,Gansu, China)",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The calculation of current river runof is not only the basis of accurately reflecting regional water resources but is also the important basis of water resource planning and decision-making. Runof reduction was divided into“forward reduction”and“backward reduction”.“Forward reduction”referred to the reduction calculation of the measured annual runoff series into the natural annual runoff series before a large number of water conservancy projects were built in the basin.“Backward reduction” referred to the conversion of the natural annual runoff series of each representative station in the region to the annual runoff series under the current conditions,i.e.,the current calculation.The“forward reduction”evaluation results reflect the natural state of the water resources in the basin. With the rapid development of human economy and society,a large number of water conservancy projects have been built, and the regional underlying surface conditions have been much changed,so they cannot bereturned to the natural state.Therefore,theresults cannot beused directly in the planning,design,and decision-making of water conservancy projects.The current runoff calculation can truly reflect the construction and utilization of water conservancy projects and provide technical support for scientific and rational allocation and sustainable development of regional water resources.The Taohe River is the largest tributary in the upper reaches of the Yellow River. However, with the change in climate and human activities on the underlying surface,the runoff of the Taohe River has decreased significantly in the past two decades.The Lijiacunand Hongqi hydrological stations in the Taohe River Basin were selected for the basic data,the current runoff in the Taohe River Basin was calculated using the results of thereduction calculation，and the characteristics of runoff change were studied.The results showed that from 1956 to 20l6,the average annual measured runoffs of the Lijiacun and Hongqi stations in the Taohe River Basin were $3 9 . 5 2 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ and $4 4 . 6 6 \\times 1 0 ^ { 8 }$ （20 $\\mathrm { m } ^ { 3 }$ ,respectively. After the reduction calculation, the average annual natural runoffs were $3 9 . 6 9 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ and $4 6 . 1 1 \\times$ $1 0 ^ { 8 } \\mathrm { ~ m } ^ { 3 }$ ，respectively. The average annual reduction water volumes were $0 . 1 7 \\times 1 0 ^ { 8 } \\mathrm { ~ m ~ } ^ { 3 }$ and $1 . 4 5 \\times 1 0 ^ { 8 } \\ \\mathrm { m } ^ { 3 }$ ， respectively. These two water consumption stations are mainly used for agriculture. The anomaly change trends of the average natural runof in the two stations were the same,and the anomaly change point was 1990.The corrected current runoff amounts at the Lijiacun and Hongqi stations were $3 1 . 7 6 \\times 1 0 ^ { 8 } ~ \\mathrm { m } ^ { 3 }$ and $3 8 . 7 7 \\times 1 0 ^ { 8 } \\ \\mathrm { m } ^ { 3 }$ ， respectively, and the revised amounts were $7 . 9 3 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ and $7 . 0 4 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ,respectively. The runoffs of the Lijiacun and Hongqi stations decreased by $20 \\%$ and $1 5 \\%$ ,respectively. At present, the annual runoff of the Lijiacun station shows a slight increasing trend, whereas the annual runoff of the Hongqi station shows a slight decreasing trend. The interannual changes of runoff in the 195Os and 197Os—199Os were lower than the multiyear average runoff, of which that of the 2l1Os was higher than the multiyear average runoff.The research results provide basic support for the investigation and evaluation of water resources in the basin and have important practical reference significance for promoting regional integrated water resource management and scientific deployment, guiding regional integrated water resources planning and socio-economic development. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words: Taohe River Basin； natural runoff; current runoff the calculation； variation characteristics",
+        "page_idx": 8
+    }
+]

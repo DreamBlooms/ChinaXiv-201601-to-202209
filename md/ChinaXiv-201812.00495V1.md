@@ -1,0 +1,211 @@
+枯草芽孢杆菌对产蛋后期蛋鸡生产性能和蛋壳品质的影响崔闯飞¹²王晶²齐广海² 张海军² 武书庚2\* 史兆国1\*（1.甘肃农业大学动物科技学院，兰州730070；2.中国农业科学院饲料研究所，农业部饲料生物技术重点开放实验室，生物饲料开发国家工程研究中心，北京 100081)
+
+摘要：本试验旨在研究饲粮中添加枯草芽孢杆菌对产蛋后期蛋鸡生产性能和蛋壳品质的影响。选取420 只产蛋率和体重相近的健康52周龄海兰褐蛋鸡，随机分为4个组，每组7个重复，每个重复15只鸡。对照组饲喂玉米-豆粕型基础饲粮，试验组分别在基础饲粮中添加200、400和 $8 0 0 \mathrm { m g / k g }$ 枯草芽孢杆菌。预试期1周，正试期12周。结果表明，与对照组相比：1）饲粮中添加200、400 和 $8 0 0 ~ \mathrm { { m g / k g } }$ 枯草芽孢杆菌对产蛋率和平均蛋重无显著影响（ $P { > } 0 . 0 5 \$ )，但显著降低了平均日采食量（ $_ { . } { P \mathrm { < } 0 . 0 5 } )$ ；饲粮中添加400 和 $8 0 0 \mathrm { m g / k g }$ 枯草芽孢杆菌显著降低了料蛋比（ $P { < } 0 . 0 5$ )。2）饲粮中添加200、400和 $8 0 0 ~ \mathrm { m g / k g }$ 枯草芽孢杆菌显著增加了蛋壳厚度（ $. P { < } 0 . 0 5 )$ ，显著降低了破软蛋率（ $\scriptstyle \left. P < 0 . 0 5 \right)$ ；饲粮中添加 $8 0 0 \mathrm { m g / k g }$ 枯草芽孢杆菌显著提高了蛋壳强度和壳重比例（ $P { < } 0 . 0 5$ )。3）饲粮中添加 $8 0 0 ~ \mathrm { { m g / k g } }$ 枯草芽孢杆菌改善了蛋壳的超微结构，显著增加了蛋壳中钙含量（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ )。由此可见，饲粮中添加枯草芽孢杆菌可以改善产蛋后期蛋鸡生产性能，提高蛋壳品质，降低破软蛋率。本试验条件下，饲粮中添加 $8 0 0 \mathrm { m g / k g }$ 枯草芽孢杆菌为宜。
+
+关键词：枯草芽孢杆菌；蛋鸡；生产性能；蛋壳品质
+
+中图分类号：S831
+
+目前，我国是世界上最大的鸡蛋生产和消费大国，鸡蛋产量和消费量约占世界总量的$3 8 \%$ 。随着蛋鸡生产的规模化、集约化和机械化发展，蛋壳品质问题日益凸显。据统计，蛋鸡生产中破壳蛋、软壳蛋的数量占总产蛋量的 $6 \% \sim 1 3 \% ^ { [ 1 ] }$ ，我国每年因此造成的经济损失达5 亿元人民币[2]。随着日龄的增加，蛋鸡对营养物质的消化吸收能力下降，导致生产性能下降[3-4]；且后期蛋重增加、蛋壳变薄，破、软蛋率超过了 $20 \%$ ，蛋壳品质问题严峻[5]。蛋壳品质问题不仅引起消费者对鸡蛋品质的担忧，也给蛋鸡产业和蛋品加工业造成了巨大损失，影响了蛋鸡行业的健康发展。因此，寻求改善蛋壳品质的有效措施，尤其对于产蛋后期的蛋鸡生产，具有重要的实际意义。
+
+枯草芽孢杆菌是一种微生态添加剂，是内生孢子的革兰氏阳性好氧菌，具有良好的耐高温、耐酸碱的能力，在畜牧生产中应用广泛。其孢子形态可耐受饲料加工过程中温度、压力的变化，且在饲料贮存过程中不消耗饲料的营养成分，又能耐受胃酸和胆盐，进入消化道后仍能保持较高的存活率，在适宜条件下萌发成为活细胞发挥作用[7]。枯草芽孢杆菌可以促进蛋鸡肠道中有益菌增殖，抑制致病菌生长，改善微生物区系[8]；增加小肠绒毛高度，改善肠道完整性，增强蛋鸡对营养物质的吸收和利用[9-10]；减少排泄物中氨、氮含量，降低鸡舍有害气体排放[11-12]。有研究发现，饲粮中添加枯草芽孢杆菌使蛋鸡的产蛋率较对照组提高了$4 . 4 \%$ ，料蛋比降低了 $0 . 5 \%$ ，改善了鸡生产性能[13]。试验还表明，枯草芽孢杆菌能够增加蛋壳厚度和强度，降低破软蛋率，改善蛋壳质量[14]。目前枯草芽孢杆菌在蛋鸡生产上的应用多有研究，但对产蛋后期蛋鸡生产性能和蛋壳品质的影响及其机制鲜有报道。因此，本试验以产蛋后期海兰褐蛋鸡为研究对象，旨在研究饲粮中枯草芽孢杆菌对蛋鸡生产性能和蛋壳品质的影响及机理，为生产实践提供理论依据。
+
+# 1 材料与方法
+
+1.1 试验材料枯草芽孢杆菌菌粉由上海牧冠企业发展有限公司提供,其中活菌含量为 $1 . 0 { \times } 1 0 ^ { 1 0 }$ CFU/g。
+
+# 1.2试验设计与试验饲粮
+
+试验采用单因子试验设计，选取420只52周龄产蛋率和体重相近的健康海兰褐蛋鸡，随机分为4个组，每组7个重复，每个重复15只鸡，阶梯式笼养，每笼（ $\left( 4 7 \thinspace \mathrm { c m } { \times } 3 7 \thinspace \mathrm { c m } { \times } 4 7 \thinspace \mathrm { c m } \right)$ 3只鸡。对照组饲喂玉米-豆粕型基础饲粮，试验组分别在基础饲粮中添加 200、400 和 800$\mathrm { m g / k g }$ 的枯草芽孢杆菌（活菌含量分别为 $2 \times 1 0 ^ { 9 }$ 、 $4 \times 1 0 ^ { 9 }$ 、 $8 { \times } 1 0 ^ { 9 } \mathrm { C F U } / \mathbf { g } )$ 。
+
+基础饲粮参照NRC（1994）和我国《鸡饲养标准》（NY/T33—2004)，并结合海兰褐蛋鸡饲养管理手册配制，基础饲粮组成及营养水平见表1。
+
+表1基础饲粮组成及营养水平(风干基础)   
+Table 1Composition and nutrient levels of the basal diet (air-dry basis) %   
+
+<html><body><table><tr><td>项目Items 含量Content</td></tr><tr><td>原料Ingredients</td></tr><tr><td>玉米Corm 62.74</td></tr><tr><td>豆粕 Soybean meal 26.26</td></tr><tr><td>石粉Limestone 8.93</td></tr><tr><td>氯化胆碱 Choline chloride (50%) 0.10</td></tr><tr><td>磷酸氢钙CaHPO4 1.35</td></tr><tr><td>食盐 NaCl 0.30</td></tr><tr><td>微量元素 Microelements1) 0.20</td></tr><tr><td>维生素Vitamins1) 0.02</td></tr><tr><td>蛋氨酸Met 0.10</td></tr><tr><td>合计 Total 100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td></tr><tr><td>代谢能ME/(MJ/kg) 11.08</td></tr><tr><td>粗蛋白质CP 16.50</td></tr><tr><td>钙Ca 3.50</td></tr><tr><td>总磷TP 0.60</td></tr><tr><td>有效磷 AP 0.32</td></tr><tr><td>赖氨酸Lys 0.75</td></tr><tr><td>蛋氨酸Met 0.34</td></tr></table></body></html>
+
+1’微量元素和维生素为每千克饲粮提供 The microelements and vitamins provided thefollowing per kg of the diet: VA 12 500 IU, $\mathrm { V D } _ { 3 }$ 4 125 IU,VE 15 IU, VK $2 \ : \mathrm { m g }$ ，硫胺素 thiamine$1 \mathrm { m g }$ ，核黄素riboflavin $8 . 5 \mathrm { m g }$ ，泛酸钙 calcium pantothenate $5 0 ~ \mathrm { m g }$ ，烟酸 niacin $3 2 . 5 \mathrm { m g }$ 吡哆醇 pyridoxine $8 ~ \mathrm { m g }$ ，生物素 biotin $2 \ : \mathrm { m g }$ ，二氢叶酸 folic acid $5 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 5 ~ \mathrm { m g }$ ，胆碱choline $5 0 0 \mathrm { m g }$ ， $\mathrm { M n } 6 5 \mathrm { m g }$ ， $\mathrm { ~ I ~ l ~ m g ~ }$ ，Fe $6 0 \mathrm { m g }$ ，Cu 8 mg， $Z n 6 6 \mathrm { m g }$ ，Se 0.30 mg。
+
+2代谢能和有效磷为计算值，其余均为实测值。ME and AP were calculated values,while the others were measured values.
+
+# 1.3 饲养管理
+
+采用半开放式鸡舍3层立体笼养，自然光照加人工补光，光照时间 $1 6 \mathrm { { h / d } , }$ ，光照强度$2 0 \mathrm { l x }$ ，纵向负压通风。人工饲喂，每日喂料3次（06:30、13:00和17:30)，每天15:00收蛋。自由采食和饮水，每周消毒1次，常规免疫。
+
+# 1.4测定指标与方法
+
+# 1.4.1 生产性能
+
+正试期间，每天以重复为单位记录产蛋数和蛋重，计算平均蛋重和产蛋率。每2周以重复为单位计算平均日采食量和料蛋比。
+
+# 1.4.2 蛋壳品质
+
+正试期第12周末，连续3d，每天每重复选取6枚接近平均蛋重的蛋样（去除破壳蛋、软壳蛋后），测定蛋品质及蛋壳表观品质，保留完整蛋壳用于超微结构的观察及蛋壳中钙、磷含量的测定。
+
+蛋壳表观品质的测定：使用分析天平测定蛋壳重量，蛋壳厚度测定仪（Egg ShellThickness Gauge,Orka Technology Ltd.）测定蛋壳厚度，蛋壳强度分析仪（EggForce Reader,Orka TechnologyLtd.）测定蛋壳强度。
+
+壳重比例 $( \% ) = 1 0 0 \times$ 蛋壳重/蛋重。
+
+蛋壳超微结构观察：使用 JEOL6301F场发射扫描电子显微镜观察蛋壳超微结构。用酒精擦除蛋壳表面油脂，制成小块样品，用导电胶带黏于样品台上，喷金，置于电镜样品仓中，在高真空环境中，在不同倍率下，分别观察和拍照样品各个部位。
+
+蛋壳中钙、磷含量测定：蛋壳用温热蒸馏水擦洗干净，烘干、粉碎，分别采用高锰酸钾
+
+法和比色法测定蛋壳中钙、磷含量。
+
+# 1.5 统计分析
+
+数据经 Excel2010 处理，采用 SPSS19.0 统计软件进行单因素方差分析（one-wayANOVA)，并采用Duncan氏法进行组间差异显著性检验，以 $P { < } 0 . 0 5$ 为差异显著性标准，结果以“平均值 $\boldsymbol { \pm }$ 标准差”表示。
+
+# 2结果与分析
+
+2.1枯草芽孢杆菌对产蛋后期蛋鸡生产性能的影响
+
+由表2可知，饲粮中添加不同水平的枯草芽孢杆菌对蛋鸡的产蛋率、平均蛋重无显著影响（ $. P { > } 0 . 0 5 )$ ；3个试验组蛋鸡的平均日采食量均显著低于对照组（ $_ { , P < 0 . 0 5 ) }$ ；3个试验组蛋鸡的料蛋比也低于对照组，且400 和 $8 0 0 ~ \mathrm { m g / k g }$ 组显著低于对照组（ $. P { < } 0 . 0 5 )$ )。以上结果提示，饲粮中添加400 和 $8 0 0 \mathrm { m g / k g }$ 枯草芽孢杆菌改善了蛋鸡的生产性能。
+
+表2枯草芽孢杆菌对产蛋后期蛋鸡生产性能的影响  
+Table 2Effects of Bacillus subtilis on performance of laying hens during later period of layir   
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2">项目 Items</td><td colspan="4">枯草芽孢杆菌添加水平 Bacillus subtilis supplemental level/(mg/kg)</td><td rowspan="2">SEM</td><td colspan="2">P值 P-value</td></tr><tr><td>0（对照 Control)</td><td>200</td><td>400</td><td>800</td><td>线性 Liner</td><td>Quadratic 二次</td></tr><tr><td>Egg production rate/%</td><td></td><td>89.76±2.13</td><td>90.77±1.46</td><td>89.34±2.26</td><td>90.93±2.01</td><td>0.38</td><td>0.55</td><td>0.70</td></tr><tr><td>平均蛋重 Average egg weight/g C</td><td></td><td>65.88±1.49</td><td>65.74±0.81</td><td>66.19±0.63</td><td>65.41±1.12</td><td>0.20</td><td>0.60</td><td>0.44</td></tr><tr><td>平均日采食量 Average daily feed intake/g</td><td></td><td>121.69±1.32a</td><td>119.23±1.18b</td><td>119.02±1.30b</td><td>119.74±1.41b</td><td>0.34</td><td>0.02</td><td>0.01</td></tr><tr><td>料蛋比Feed/egg</td><td></td><td>2.11±0.07a</td><td>2.06±0.05ab</td><td>2.03±0.06b</td><td>2.03±0.04b</td><td>0.01</td><td>0.03</td><td>0.24</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ )，相同或无字母表示差异不显著1 $. P { > } 0 . 0 5 )$ )。下表同。
+
+In the same row, values with different small letter superscripts mean significant difference （204号 $( P { < } 0 . 0 5 )$ ，while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ： The same as below.
+
+2.2枯草芽孢杆菌对产蛋后期蛋鸡蛋壳品质的影响
+
+由表3可知，与对照组相比，饲粮中添加不同水平的枯草芽孢杆菌均能显著增加蛋鸡蛋壳厚度（ $\scriptstyle \cdot P < 0 . 0 5 { \mathrm { . } }$ )，显著降低破软蛋率（ $P { < } 0 . 0 5 )$ ，但3个试验组之间差异不显著 $( P { > } 0 . 0 5 )$ ；3个试验组蛋鸡蛋壳强度均高于对照组，其中 $8 0 0 \mathrm { m g / k g }$ 组显著高于对照组（ $\scriptstyle \cdot < 0 . 0 5 .$ ；蛋鸡蛋壳强度随着饲粮中枯草芽孢杆菌添加水平的增加呈线性增加（ $\scriptstyle . P < 0 . 0 5 )$ ；饲粮中添加不同水平的枯草芽孢杆菌虽有增加蛋鸡蛋壳重量的作用，但是各组间差异不显著（ $P { > } 0 . 0 5 )$ ；3个试验组的蛋鸡壳重比例均高于对照组，其中400 和 $8 0 0 ~ \mathrm { m g / k g }$ 组显著高于对照组( $_ { , P < 0 . 0 5 } )$ 。以上结果提示，饲粮中添加400 和 $8 0 0 \mathrm { m g / k g }$ 枯草芽孢杆菌改善了蛋壳表观品质。
+
+表3枯草芽孢杆菌对产蛋后期蛋鸡蛋壳表观品质的影响
+
+Table 3Effects of Bacillus subtilis on eggshell apparent quality of laying hens during later period of laying   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="4">枯草芽孢杆菌添加水平 Bacillus subtilis supplemental level/(mg/kg)</td><td rowspan="2">SEM</td><td colspan="2">P值 P-value</td></tr><tr><td>0（对照 Control)</td><td>200</td><td>400</td><td>800</td><td>线性 Liner</td><td>二次 Quadratic</td></tr><tr><td>蛋壳厚度 Eggshell thickness/mm</td><td>0.420±0.005b</td><td>0.434±0.006a</td><td>0.433±0.006a</td><td>0.435±0.004a</td><td>0.002</td><td>0.01</td><td>0.01</td></tr><tr><td>蛋壳强度 Eggshellstrength/N</td><td>34.80±1.68b</td><td>35.55±1.30ab</td><td>36.50±1.72ab</td><td>37.51±1.65a</td><td>0.35</td><td>0.03</td><td>0.83</td></tr><tr><td>蛋壳重量Eggshellweight/g</td><td>6.44±0.08</td><td>6.52±0.16</td><td>6.59±0.15</td><td>6.57±0.10</td><td>0.03</td><td>0.04</td><td>0.27</td></tr><tr><td>壳重比例 Eggshell percentage/%</td><td>9.75±0.21b</td><td>9.83±0.26ab</td><td>10.01±0.18a</td><td>10.03±0.22a</td><td>0.05</td><td>0.02</td><td>0.72</td></tr><tr><td>破软蛋率Broken egg rate/%</td><td>2.19±1.28a</td><td>1.11±0.50b</td><td>1.19±0.35b</td><td>1.16±0.45b</td><td>0.16</td><td>0.03</td><td>0.08</td></tr></table></body></html>
+
+因 $8 0 0 ~ \mathrm { { m g / k g } }$ 组的蛋壳厚度和蛋壳强度均显著高于对照组（ $P { < } 0 . 0 5 )$ ，故观察该组和对照组的蛋壳超微结构。由图1可以看出， $8 0 0 \mathrm { m g / k g }$ 组的蛋壳乳突层乳突较多且排列紧密，乳突高度和间隙较小，而对照组乳突层乳突较少且形状与排列不规则。此外，在相同放大倍数下， $8 0 0 ~ \mathrm { { m g / k g } }$ 组蛋壳的有效厚度与总厚度均高于对照组，表明枯草芽孢杆菌能够改善蛋壳的超微结构。
+
+由表4可知，各组间蛋壳中磷含量无显著差异（ $\cdot P { > } 0 . 0 5 )$ ，但 $8 0 0 \mathrm { m g / k g }$ 组蛋壳中钙含量显著高于对照组（ $. P { < } 0 . 0 5 ^ { \cdot }$ )，说明蛋壳内钙的沉积量增加。
+
+Fig.1Effects of Bacillus subtilis on eggshell ultrastructure of laying hens during later period of laying
+
+$8 0 0 \mathrm { m g / k g }$ 组蛋壳超微结构 Eggshell ultrastructure of $8 0 0 \mathrm { m g / k g }$ group
+
+![](images/8551edc10764ef73b27421d734b960d9a7dc4158c4ed81a0acf7122a7dafb87d.jpg)  
+图1枯草芽孢杆菌对产蛋后期蛋鸡蛋壳超微结构的影响  
+表4枯草芽孢杆菌添对产蛋后期蛋鸡蛋壳中钙、磷含量的影响
+
+Table 4Effects of Bacillus subtilis on contents of calcium and phosphorus in eggshell of laying hens during later period of laying $\%$ （20   
+
+<html><body><table><tr><td></td><td colspan="4">枯草芽孢杆菌添加水平 Bacillus subtilis supplemental</td><td rowspan="2">SEM</td><td colspan="2">P值 P-value</td></tr><tr><td>项目 Items</td><td>0（对照</td><td>level/(mg/kg) 200</td><td>400</td><td>800</td><td>线性</td><td>二次</td></tr><tr><td>钙Calcium</td><td>Control) 33.45±0.68b</td><td>34.14±2.71b</td><td>33.10±0.82b</td><td>36.06±1.89a</td><td>0.38</td><td>Liner 0.02</td><td>Quadratic 0.30</td></tr><tr><td>磷 Phosphorus</td><td>0.096±0.009</td><td>0.101±0.004</td><td>0.101±0.010</td><td>0.099±0.008</td><td>0.002</td><td>0.74</td><td>0.59</td></tr></table></body></html>
+
+# 3讨论
+
+3.1饲粮中添加枯草芽孢杆菌对产蛋后期蛋鸡生产性能的影响
+
+有研究表明，饲粮中添加枯草芽孢杆菌可以改善动物的生产性能，但其相关研究结论不尽相同。王翔宇[15]分别在54 和60 周龄海兰褐蛋鸡饲粮中添加 $1 { \times } 1 0 ^ { 1 0 } \mathrm { C F U / g }$ 枯草芽孢杆菌，结果发现，试验组蛋鸡的平均日采食量和料蛋比较对照组有所降低，但差异不显著。也有试验发现，饲粮中添加 $1 \times 1 0 ^ { 8 }$ 和 ${ 8 \times 1 0 ^ { 5 } } \mathrm { C F U / g }$ 枯草芽孢杆菌对蛋鸡平均日采食量和料蛋比无显著影响[16-17]。而丁海[18]和 $\mathrm { \Delta X u }$ 等[19]研究则表明， $3 \times 1 0 ^ { 9 }$ 、 $6 { \times } 1 0 ^ { 9 }$ 和 $9 { \times } 1 0 ^ { 9 } \mathrm { C F U / g }$ 对蛋鸡产蛋率无显著影响，但可以显著降低蛋鸡的平均日采食量和料蛋比，改善蛋鸡生产性能。该现象可能与枯草芽孢杆菌的添加水平及蛋鸡的品种和年龄不同有关。
+
+本试验中，饲粮中添加 $2 0 0 { \sim } 8 0 0 \mathrm { m g / k g }$ （ $2 { \times } 1 0 ^ { 9 } { \sim } 8 { \times } 1 0 ^ { 9 }$ CFU/g）枯草芽孢杆菌均降低了蛋鸡的平均日采食量，其中饲粮中添加 400 和 $8 0 0 \mathrm { m g / k g }$ （ $4 \times 1 0 ^ { 9 }$ 和 ${ 8 { \times } 1 0 ^ { 9 } } \mathrm { C F U } / { \bf { g } }$ ）枯草芽孢杆菌降低了料蛋比。这可能是由于枯草芽孢杆菌能消耗肠道内多余的氧，产生细菌素及挥发性抑菌物质[20]，创造利于乳酸菌、双歧杆菌等有益菌的生长环境，降低肠道 $\mathfrak { p H }$ ，从而抑制有害菌的生长，调节肠道的微生态平衡[21-22]；枯草芽孢杆菌还能改善肠道完整性，增强小肠的消化吸收功能[23-24]；可以产生多种消化酶及乳酸、乙酸、丙酸等有益代谢物质[25-26]，在消化过程中起到协同与促进体内酶活性的作用，有利于降解饲料中的营养物质，提高饲料的转化率，从而降低动物的采食量和料蛋比。
+
+3.2饲粮中添加枯草芽孢杆菌对产蛋后期蛋鸡蛋壳品质的影响
+
+蛋壳属性包含结构属性和物质属性2部分，均影响蛋壳品质[27]。蛋壳的结构属性包括蛋壳厚度、蛋壳强度、蛋壳比例及蛋壳超微结构等；物质属性则主要为蛋壳有机和无机组分等。蛋壳中含有约 $1 . 6 \%$ 的水、 $3 . 3 \% { \sim } 3 . 5 \%$ 的有机物和 $9 5 \%$ 左右的无机矿物[28-29]，后者主要是碳酸钙，含量约 $94 \%$ ，其余为碳酸镁和磷酸钙等。蛋壳钙含量约为 $3 7 . 5 \%$ ，其中 $6 0 \% \sim 7 5 \%$ 源于饲粮，其余则来自于髓质骨钙的释放[30]。
+
+改善蛋壳品质是蛋鸡生产中的重要问题，也是目前国内外科研工作者的研究热点。饲粮中添加枯草芽孢杆菌能提高鸡蛋的蛋壳厚度和蛋壳强度，改善蛋壳品质，降低破软蛋率，提高经济效益[19.31]。王翔宇[15]试验发现，枯草芽孢杆菌可以改善蛋鸡产蛋后期（54 周龄之后)的蛋壳表观品质及超微结构，但对蛋白高度、哈氏单位等指标无显著影响。试验结果表明，饲粮中添加不同水平的枯草芽孢杆菌均显著增加了试验组的蛋壳厚度，显著降低了破软蛋率，其中， $8 0 0 ~ \mathrm { m g / k g }$ 组的蛋壳强度和壳重比例较对照组显著提高。也有研究认为，饲粮添加枯草芽孢杆菌能改善蛋鸡生产性能，但对蛋壳品质无显著影响[32]，这可能与蛋鸡品种、年龄和试验周期等不同有关。本试验中，各组间蛋壳中磷含量无显著差异，但 $8 0 0 \mathrm { m g / k g }$ 组蛋壳中钙含量显著高于其他各组，说明钙在蛋壳内的沉积增加。枯草芽孢杆菌改善蛋壳品质的作用机理尚不明确，但老龄鸡蛋壳品质的降低与肠道对钙吸收效率的降低有关[33-34]，枯草芽孢杆菌在肠道内发挥作用后，使得肠道对营养物质特别是钙、磷的吸收效率提高，从而改善蛋壳品质。肠道对钙、磷的吸收效率与肠道内的酸碱度有关，酸度的增加，促进钙盐溶解，从而有利于肠道对钙的吸收[35]。枯草芽孢杆菌可能通过促进乳酸菌的生长及产生乳酸等代谢产物降低肠道pH，从而促进肠道对钙的吸收效率。研究表明，微生态制剂能促进蛋鸡对饲粮中钙的吸收[36]，肠道钙吸收利用率的提高是枯草芽孢杆菌改善蛋壳品质的主要原因[37]。
+
+本试验结果发现，与对照组相比， $8 0 0 \mathrm { m g / k g }$ 组蛋壳的超微结构中乳突层乳突较多，乳突高度、宽度和间隙较小，且蛋壳内晶体均匀且排列紧密，而对照组蛋壳乳突层乳突较少，且排列不规则，这与王翔宇[15]试验结果一致，乳突层的紧密排列可有效防止裂缝的产生和延伸。这说明枯草芽孢杆菌还能通过改善蛋壳的微观结构，改善蛋壳品质。
+
+# 4结论
+
+$\textcircled{1}$ 饲粮中添加 400 和 $8 0 0 ~ \mathrm { { m g / k g } }$ 枯草芽孢杆菌对蛋鸡的产蛋率和平均蛋重无显著影响，但显著降低了蛋鸡的平均日采食量、料蛋比及破软蛋率。
+
+$\textcircled{2}$ 饲粮中添加 $8 0 0 ~ \mathrm { m g / k g }$ 枯草芽孢显著增加了蛋壳厚度，显著提高了蛋壳强度，显著增加了蛋壳重中钙含量，改善了蛋壳的超微结构。参考文献：
+
+[1] ROLAND D A.Research note:egg shell problems:estimates of incidence and economic impact[J].Poultry Science,1988,67(12):1801-1803.
+
+[2]宋慧芝,王俊,叶均安.鸡蛋蛋壳受载特性的有限元研究[J].浙江大学学报（农业与生命科学版）,2006,32(3):350-354.
+
+[3] SCHEIDELER S E,AL-BATSHAN H.Basics of calcium,phosphorus nutrition in layers studied[J].Feedstuffs (USA),1994,66(14):15-16.
+
+[4] ROLAND D A.Further studies of effects of sodium aluminosilicate on egg shell quality[J].Poultry Science,1988,67(4):577-584.
+
+[5]Nys Y.Recent developments in layer nutrition for optimising shell quality[C]//Proceedings of 13th European Symposium on Poultry Nutrition.Blankenberge,Belgium:[s.n.],2001:42-52.
+
+[6]王晓阁.枯草芽孢杆菌研究进展与展望[J].中山大学研究生学刊（自然科学与医学版）,2012,33(3):14-23.
+
+[7] CENCI G,TROTTA F,CALDINI G.Tolerance to challenges miming gastrointestinal transit by spores and vegetativecells of BacillusclausiiJ].JournalofApplied Microbiology,2006,101(6):1208-1215.
+
+[8] OH J K,PAJARILLO E A B,CHAE JP,et al.Protective effects of Bacillus subtilis against Salmonella infection in the microbiome of Hy-Line brown layers[J].Asian-Australasian Journal of Animal Sciences,2017,30(9):1332-1339.
+
+[9]张爱武,薛军.枯草芽孢杆菌在动物生产中的应用效果[J].中国畜牧兽医,2011,38(4):234-238.
+
+[10]马春阳,罗正,李鸿博,等.微生态制剂对蛋鸡生长性能和肠道菌群及抗体效价的影响[J].中国畜牧杂志,2015,51(5):60-64.
+
+[11] SANTOSO U,OHTANI S,TANAKA K,et al.Dried Bacillus subtilis culture reduced ammonia gasrelease in poultry house[J].Asian-Australasian Journal ofAnimal Sciences,1999,12(5):806-809.
+
+[12] KIM H J,WOO J S,KWON O S,et al.Effects of Bacillus subtilis supplementation on egg quality,blood characteristics and fecal $\mathrm { N H } _ { 3 }$ -N in laying hens[J].Korean Journal of Poultry Science,2005,32(1):9-14.
+
+[13] ABDELQADER A,AL-FATAFTAH A R,DAS G.Effects of dietary Bacillus subtilis and inulin supplementation on performance,eggshell quality,intestinal morphology and microflora composition of laying hens in the late phase of production[J].Animal Feed Science and Technol0gy,2013,179(1/2/3/4):103-111.
+
+[14] GUO J R,DONG X F,LIU S,et al.Effects of long-term Bacillus subtilis CGMCC 1.921 supplementation on performance,egg quality,and fecal and cecal microbiota of laying hens[J].Poultry Science,2016,96(5):1280-1289.
+
+[15]王翔宇.枯草芽孢杆菌对蛋鸡生产性能及蛋品质的影响[D].硕士学位论文.长春:吉林大学,2015.
+
+[16] RIBEIRO V,Jr.,ALBINO L F T,ROSTAGNO H S,et al.Effects of the dietary supplementation of Bacillus subtilis,levels on performance,egg quality and excreta moisture of layers[J].Animal Feed Science and Technology,2014,195:142-146.
+
+[17] SOBCZAK A,KOZLOWSKI K.The effect of a probiotic preparation containing Bacillus subtilis ATCC PTA-6737 on egg production and physiological parameters of laying hens[J].Annals of Animal Science,2015,15(3):711-723.
+
+[18]丁海.枯草芽孢杆菌对蛋鸡生产性能及盲肠菌群区系影响的研究[D].硕士学位论文.银川：宁夏大学,2013.
+
+[19] XU C L,JI C,MA Q,et al.Effects of a dried Bacillus subtilis culture on egg quality[J].Poultry Science,2006,85(2):364-368.
+
+[20]翟茹环.枯草芽孢杆菌G8抗菌物质的理化性质分析及分离纯化[D].硕士学位论文.泰安:
+
+山东农业大学,2008
+
+[21] KNARREBORG A,BROCKMANN E,HOYBYE K,et al.Bacillus subtilis (DSM17299) modulates the ileal microbial communities and improvesgrowth performancein broilers[J].International Journal of Probiotics & Prebiotics,20o8,3(2):83-88.
+
+[22] KNAP I,KEHLET A B,BENNEDSEN M,et al.Bacillus subtilis (DSM17299) significantly reduces Salmonella in broilers[J].Poultry Science,2011,90(8):1690-1694.
+
+[23] SAMANYA M,YAMAUCHI K E.Histological alterations of intestinal vili in chickens fed dried Bacillussubtilis var. natto[J].Comparative Biochemistry and Physiology Part A:Molecular & Integrative Physiology,2002,133(1):95-104.
+
+[24]TEO A Y,TAN H M.Evaluation of the performance and intestinal gut microflora of broilers fed on corn-soy diets supplemented with Bacillus subtilis PB6 (CloSTAT)[J].The Journal of Applied Poultry Research,2007,16(3):296-303.
+
+[25]江国忠.高产纤维素酶枯草芽孢杆菌的筛选、应用及其产酶条件研究[D].硕士学位论文.南昌：南昌大学,2010.
+
+[26] SCHOLZ-AHRENS K E,ADE P,MARTEN B,et al.Prebiotics,probiotics,and synbiotics affect mineral absorption,bone mineral content,and bone structure[J].The Journal of Nutrition,2007,137(3):838S-846S.
+
+[27] BAIN M M.Recent advances in the assessment of eggshell quality and their future application[J].World's Poultry Science Journal,2005,61(2):268-277.
+
+[28] AGRONOMIQUE F.Egg formation and chemistry[M]//NYS Y,BAIN M,VAN IMMERSEEL F.Improving the safety and quality of eggs and egg products:egg chemistry,production and consumption.Cambridge:Woodhead Publishing,2011:83.
+
+[29] TSAI W T,YANG J M,LAI C W,et al.Characterization and adsorption properties of eggshells and eggshell membrane[J].Bioresource Technology,2006,97(3):488-493.
+
+[30]MICHAEL B C.Involvement of calcium and phosphorus in bone and shell quality of early maturing commercial layers[J].World Poultry,2001,6:16-19.
+
+[31] ABDELQADER A,IRSHAID R,AL-FATAFTAH A R.Effects of dietary probiotic inclusion on performance,eggshell quality,cecal microflora composition,and tibia traits of layinghensinthelatephaseofproduction[J].Tropicalanimalhealthand production,2013,45(4):1017-1024.
+
+[32] 裴跃明,邵强,吴桂龙,等.枯草芽孢杆菌制剂对产蛋后期蛋鸡生产性能、蛋品质、免疫及肠道菌群的影响[J].中国畜牧杂志,2016,52(7):61-65,70.
+
+[33]AL-BATSHAN H A,SCHEIDELER S E,BLACK B L,et al.Duodenal calcium uptake,femur ash,and eggshell quality decline with age and increase following molt[J].Poultry Science,1994,73(10):1590-1596.
+
+[34]GROBAS S,MENDEZ J,DE BLAS C,et al.Influence of dietary energy,supplemental fat and linoleic acid concentration on performance of laying hens at two ages[J].British Poultry Science,1999,40(5):681-687.
+
+[35]ASHMEAD H D,GRAFF D J,ASHMEAD H H.Factors affecting mineral absorption from theintestine[M]//CHARLES C.Intestinal absorption of metal ions.Springfield:Thomas Pub.,1985:13-29.
+
+[36] NAHASHON S N,NAKAUE H S,MIROSH L W.Production variables and nutrient retention in single comb white leghorn laying pullets fed diets supplemented with direct-fed microbials[J].Poultry Science,1994,73(11):1699-1711.
+
+[37]SWIATKIEWICZ S,KORELESKI J,ARCZEWSKA A.Laying performance and eggshell quality in laying hens fed diets supplemented with prebiotics and organic acids[J].Czech
+
+Journal of Animal Science,2010,55(7):294-304.
+
+Effects of Bacillus subtilis on Performance and Eggshell Quality of Laying Hens during Later
+
+# Period of Laying
+
+CUI Chuangfei1,2WANG Jing²QI Guanghai²ZHANG Haijun²WU Shugeng2\* SHI Zhaoguo1\*
+
+(1. College ofAnimal Scienceand Technology, Gansu Agricultural University,Lanzhou 73070,China; 2. Key Laboratory ofFeed Biotechnology ofMinistry ofAgriculture,National Engineering,Research Centerof BiologicalFeed,FeedResearch Institute,ChineseAcademyofAgriculturalSiences,Beijingooo81,China)
+
+Abstract: This experiment was conducted to study the effects of Bacillus subtilis on performance and eggshell quality of laying hens during later period of laying. Four hundred and twenty 52-week-old Hy-Line brown laying hens with similar egg production rate and bodyweight were randomly divided into 4 groups with 7 replicates per group and 15 hens per replicate. The control group was fed a corn-soybean meal basal diet, and the experimental groups were fed basal diets supplemented with 200, 400 and $8 0 0 ~ \mathrm { m g / k g }$ Bacillus subtilis, respectively. The pre-experimental period lasted for 1 week,and the experimental period lasted for 12 weeks. The results showed as that compared with the control group: 1) diet supplemented with 2Oo, 400 and $8 0 0 ~ \mathrm { m g / k g }$ Bacillus subtilis had no significant effects on the egg production rate and average egg weight $( P { > } 0 . 0 5 )$ ,but significantly decreased the average daily feed intake $( P { < } 0 . 0 5 )$ ； diet supplemented with 400 and $8 0 0 ~ \mathrm { m g / k g }$ Bacillus subtilis significantly decreased the ratio of feed to egg $( P { < } 0 . 0 5 )$ .2）Diet supplemented with 200, 400 and $8 0 0 ~ \mathrm { m g / k g }$ Bacillus subtilis significantly increased the eggshell thickness $( P { < } 0 . 0 5 )$ ,but significantly decreased the broken egg rate ( $( P { < } 0 . 0 5 )$ ； diet supplemented with $8 0 0 \mathrm { ~ m g / k g }$ Bacillus subtilis significantly increased the eggshell strength and eggshell percentage $_ { ( P < 0 . 0 5 ) }$ ．3）Diet supplemented with $8 0 0 \mathrm { \ m g / k g }$ Bacillus subtilis improved the eggshell ultrastructure，and significantly increased the eggshell calcium content ( $( P { < } 0 . 0 5 )$ .In conclusion， diet supplemented with Bacillus subtilis can improve the performance, improve eggshell quality,and reduce broken egg rate of laying hens during later period of laying. The optimal supplemental level of Bacillus subtilis is $8 0 0 \mathrm { m g / k g }$ in the present study.
+
+Key words: Bacillus subtilis; laying hens; performance; eggshell quality

@@ -1,0 +1,156 @@
+# Probing R-parity Violating Interactions from Top Quark Polarization at LHC
+
+Peiying Li $^ { 1 }$ ， Gongru Lu $^ 1$ ， Jin Min Yang $^ { 2 , 3 }$ ， Huanjun Zhang $^ { 1 , 3 }$
+
+$^ { 1 }$ Department of Physics， Henan Normal University， Xinxiang 453007, China $^ 2$ CCAST (World Laboratory)， P.O.Box 8730, Beijing 100080, China   
+（20 $^ 3$ Institute of Theoretical Physics，Academia Sinica, Beijing 10oo80，China (Dated:February 2,2008)
+
+In minimal supersymmetric standard model the R-parity violating interactions can induce anomalous top pair productions at the LHC through the $t$ -channel process $d _ { R } d _ { R }  t _ { L } \bar { t } _ { L }$ by exchanging a slepton or $u$ -channel process $d _ { R } d _ { R }  t _ { R } \bar { t } _ { R }$ by exchanging a squark.Such top pair productions with certain chirality cause top quark polarization in the top pair events.We found that at the LHC,due to the large statistics,the statistical significance of the polarization observable and thus the probing ability for the corresponding R-parity violating couplings are much higher than at the Tevatron upgrade.
+
+PACS numbers: 14.65.Ha,14.80.Ly
+
+# I.INTRODUCTION
+
+It has long been speculated that as the heaviest fermion in the Standard Model (SM),the top quark may have a close connection to new physics[1].So far there remain plentyof room for new physics in topquark sector due to the small tatisticsof theevents discovering the topquarkattheFermilabTevatroncolider.SincetheLHCwill produce topquarks copiously and allow a precision test of topquark nature,it willeither uncover or stringently constrain the new physics related to the top quark [2].
+
+As a popular candidate for new physics,the TeV-scale supersymmetry can sizably alter some of the top quark properties. For example,the minimal supersymmetric standard model (MSSM) can significantly enhance the top quark favor-changing neutral-currnt (FCNC) interactions [3]and thus make the topquark FCNC processes possiblly observable at the LHC.
+
+It is well known that in the MSSM, a discrete multiplicative symmetry of $R$ -parity, defined by $R = ( - 1 ) ^ { 2 S + 3 B + L }$ with spin $S$ ，baryon number $B$ and lepton number $L$ , is often imposed on the Lagrangian to maintain the separate conservation of $B$ and $L$ . Since such a conservation requirement is not dictated by any fundamental principle such as gauge invariance or renormalizability, the phenomenology of $R$ -parity violation has attracted much attention [4]. So far as the top quark physics at the LHC, $R$ -parity violation can cause some exotic top quark processes like the $s$ -channel single top production and the decays via exchanging a squark or slepton [5, 6]
+
+Note that the R-parity violating interactions can also induce new mechanisms for top pair_productions at the LHC through the $t$ -channel process $d _ { R } \bar { d } _ { R } \to t _ { L } \bar { t } _ { L }$ by exchanging a slepton or $u$ -channel process $d _ { R } \bar { d } _ { R } \to t _ { R } \bar { t } _ { R }$ by exchanging a squark. Although their contribution to the total $t t$ cross section is unobservably as small as a few percent [7], they mayinducea sizable asymmetry between the left-and right-handed polarized topquarks dueto the chiral nature of these couplings.In[8]such induced polarization in the toppair events is studied for the Tevatron colliderand turns out to be a sensitive probe for these couplings due to the fact that both the SM and $R$ -conserving MSSM contributions to the polarizationare unobservably small[9].Since the upcoming LHC willoverwhelminglyoutclassthe Tevatron for the study of top quark physics, in this work we extend the analysis of [8] to the LHC.
+
+This work is organized as follows.In Sec.II we briefy describe our calculations.In Sec. II we present some numerical results and give some discussions. Finally, in Sec. IV we give our conclusions.
+
+# II. CALCULATIONS
+
+The $R$ -violating interactions in the superpotential of the MSSM are given by
+
+$$
+{ \mathcal W } _ { \mathbb H } = \frac 1 2 \lambda _ { i j k } L _ { i } L _ { j } E _ { k } ^ { c } + \lambda _ { i j k } ^ { \prime } \delta ^ { \alpha \beta } L _ { i } Q _ { j \alpha } D _ { k \beta } ^ { c } + \frac 1 2 \lambda _ { i j k } ^ { \prime \prime } \epsilon ^ { \alpha \beta \gamma } U _ { i \alpha } ^ { c } D _ { j \beta } ^ { c } D _ { k \gamma } ^ { c } + \mu _ { i } L _ { i } H _ { 2 } ,
+$$
+
+where $H _ { 1 , 2 }$ are the Higgs chiral superfields,and $\boldsymbol { L } _ { i }$ ( $Q _ { i }$ ）and $E _ { i }$ ( $U _ { i }$ ， $D _ { i }$ ）are the left-handed lepton (quark) doublet and singlet chiral superfields. The indices $i$ ， $j$ ， $k$ denote generations and $\alpha$ ， $\beta$ and $\gamma$ are the color indices. For top pair productions at hadron colliders, the lepton number violating couplings $\lambda _ { i 3 1 } ^ { \prime }$ can induce the $t$ -channel process $d _ { R } \bar { d } _ { R } \to t _ { L } \bar { t } _ { L }$ by exchanging a slepton while the baryon number violating couplings $\lambda _ { 3 1 j } ^ { \prime \prime }$ can induce the $u$ -channel )rocess $d _ { R } d _ { R }  t _ { R } \bar { t } _ { R }$ by exchanging a squark,as shown in Fig. 1. The forms of these amplitudes are discussed in some detail inthe appendix of[8].Itis clear that dueto thechiral natureof thesecouplings,theprocesses they induced in Fig.1 will cause top quark polarization in the $t t$ events, i.e.,an asymmetry between $N _ { + }$ (the number of $t t$ events with positive helicity of $t$ )and $N _ { - }$ (the number of $t t$ events with negative helicity of $t$ ).The observables we will examine are three polarizations: $P _ { t }$ for all $t t$ events and $P _ { t } ^ { F }$ ( $P _ { t } ^ { B }$ ）for the $t t$ events with $t$ in the forward (backward) hemisphere in the $t \bar { t }$ c.m. frame, defined by [8]
+
+![](images/9ea7d77e1d7f79cd3aa9c06d9c16d12e1a63a83a581b49cd654aa575004aa1de.jpg)  
+FIG.1: Feynman diagrams for top pair productions induced by $\lambda _ { i 3 1 } ^ { \prime }$ and $\lambda _ { 3 1 j } ^ { \prime \prime }$ ,respectively.
+
+$$
+\begin{array} { l } { { P _ { t } ~ = ~ \displaystyle \frac { N _ { + } - N _ { - } } { N _ { + } + N _ { - } } = \displaystyle \frac { \sigma _ { + } - \sigma _ { - } } { \sigma _ { + } + \sigma _ { - } } , } } \\ { { P _ { t } ^ { F } ~ = ~ \displaystyle \frac { N _ { + } - N _ { - } } { N _ { + } + N _ { - } } | _ { \cos \theta ^ { * } > 0 } = \displaystyle \frac { \sigma _ { + } - \sigma _ { - } } { \sigma _ { + } + \sigma _ { - } } | _ { \cos \theta ^ { * } > 0 }  , } } \\ { { P _ { t } ^ { B } ~ = ~ \displaystyle \frac { N _ { + } - N _ { - } } { N _ { + } + N _ { - } } | _ { \cos \theta ^ { * } < 0 } = \displaystyle \frac { \sigma _ { + } - \sigma _ { - } } { \sigma _ { + } + \sigma _ { - } } | _ { \cos \theta ^ { * } < 0 }  , } } \end{array}
+$$
+
+Here $\theta ^ { * }$ is the top scattering angle in the $t t$ c.m.frame,and $\sigma _ { + } \left( \sigma _ { - } \right)$ is $t t$ hadronic cross section with positive (negative) helicity of $t$ , which is obtained by convoluting the parton cross section ${ \hat { \sigma } } _ { + }$ $( \hat { \sigma } _ { - } )$ with the parton distribution functions [10] (in our calculations we assume both the renormalization and factorization scales to be $\mu = m _ { t }$ ）
+
+Note that it may seem naive to define the polarization asymmetry as simply $( N _ { + } - N _ { - } ) / ( N _ { + } + N _ { - } )$ since it would be sizable even when $N _ { + }$ and $N _ { - }$ are very small (say below unity). However, since $N _ { + }$ ( $N _ { - } )$ is the total number of $t \bar { t }$ events with positive (negative)helicity and not the number contributed by new physics alone (the R-violating contribution will become very small for small R-violating couplings and heavy sfermions involved), $N _ { + }$ and $N _ { - }$ are very large numbers at the LHC due to the large QCD $t t$ production cross section and high luminosity of the LHC. Of course,as will be discussed when we consider the statistical sensitivity in next section, $N _ { + }$ and $N _ { - }$ will be suppressed by the detection efficiency. But even so, $N _ { + }$ and $N _ { - }$ are very large since the LHC can produce $t \bar { t }$ copiously and can serve as a top-quark factory. Also,as willbe discussed at the end of this section, although $N _ { + }$ and $N _ { - }$ are very large numbers, the asymmetry $( N _ { + } - N _ { - } ) / ( N _ { + } + N _ { - } )$ is very small in the SM because the SM $t t$ production is dominated by QCD processes which predict $N _ { + } = N _ { - }$ . For this reason, this asymmetry will be a sensitive probe for any new physics which can predict a sizable difference between $N _ { + }$ and $N _ { - }$ ：
+
+![](images/2e7c770ae7d627cb4b51ae17fe9e110541a8ffee97e6baf1608a2c5d4888bae6.jpg)  
+FIG.2: Feynman diagrams for top pair productions in the Standard Model.
+
+The parton cross section $\hat { \sigma }$ contains the SM contribution $\hat { \sigma } ^ { \mathrm { s u } }$ and the $R$ violating contribution $\hat { \sigma } ^ { \mathrm { n e w } }$ （20
+
+$$
+\hat { \sigma } = \hat { \sigma } ^ { \mathrm { S M } } + \hat { \sigma } ^ { \mathrm { n e w } } .
+$$
+
+For $\hat { \sigma } ^ { \mathrm { s u } }$ the dominant contributions are from the QCD processes shown in Fig. 2. It is well known that at the LHC (Tevatron) the gluon-gluon fusion process $g g  t \bar { t }$ and quark-antiquark annihilation process $q \bar { q }  t \bar { t }$ contribute about 90% (10%) and 10% (90%),respectively. We assume that the QCD correction factors (K-factor) to $\hat { \sigma } ^ { \mathrm { n e w } }$ and $\hat { \sigma } ^ { 0 }$ take the same value and thus the QCD correction efects cancelin the polarizations defined above.Note that due to the separate $C$ and $P$ -invariance of QCD, the QCD cross section $\hat { \sigma } _ { + } ^ { 0 }$ equals to $\hat { \sigma } _ { - } ^ { 0 }$ ，which are given by
+
+$$
+\frac { d \hat { \sigma } _ { + } ^ { 0 } } { d \cos \theta ^ { * } } = \frac { d \hat { \sigma } _ { - } ^ { 0 } } { d \cos \theta ^ { * } } = \frac { \pi \alpha _ { s } ^ { 2 } \beta } { 1 8 \hat { s } } ( 1 + \cos ^ { 2 } \theta ^ { * } ) + \frac { 2 \pi \alpha _ { s } ^ { 2 } \beta m _ { t } ^ { 2 } } { 9 \hat { s } ^ { 2 } } \sin ^ { 2 } \theta ^ { * }
+$$
+
+for $q \bar { q }  t \bar { t }$ ,and
+
+$$
+\begin{array} { r l } { \frac { d \hat { \sigma } _ { + } ^ { 0 } } { l \cos \theta ^ { * } } = \frac { d \hat { \sigma } _ { - } ^ { 0 } } { d \cos \theta ^ { * } } = } & { \frac { \pi \beta \alpha _ { s } ^ { 2 } } { 3 2 \hat { s } } \left[ 1 2 \frac { ( \hat { t } - m _ { t } ^ { 2 } ) ( \hat { u } - m _ { t } ^ { 2 } ) } { \hat { s } ^ { 2 } } - \frac { 2 } { 3 } \frac { m _ { t } ^ { 2 } ( \hat { s } - 4 m _ { t } ^ { 2 } ) } { ( \hat { t } - m _ { t } ^ { 2 } ) ( \hat { u } - m _ { t } ^ { 2 } ) } \right. } \\ & { \quad \left. + \frac { 8 } { 3 } \frac { ( \hat { t } - m _ { t } ^ { 2 } ) ( \hat { u } - m _ { t } ^ { 2 } ) - 2 m _ { t } ^ { 2 } ( \hat { t } + m _ { t } ^ { 2 } ) } { ( \hat { t } - m _ { t } ^ { 2 } ) ^ { 2 } } + \frac { 8 } { 3 } \frac { ( \hat { t } - m _ { t } ^ { 2 } ) ( \hat { u } - m _ { t } ^ { 2 } ) - 2 m _ { t } ^ { 2 } ( \hat { u } + m _ { t } ^ { 2 } ) } { ( \hat { u } - m _ { t } ^ { 2 } ) ^ { 2 } } \right. } \\ & { \quad \left. + 6 \frac { ( \hat { t } - m _ { t } ^ { 2 } ) ( \hat { u } - m _ { t } ^ { 2 } ) - m _ { t } ^ { 2 } ( \hat { t } - \hat { u } ) } { \hat { s } ( \hat { t } - m _ { t } ^ { 2 } ) } + 6 \frac { ( \hat { t } - m _ { t } ^ { 2 } ) ( \hat { u } - m _ { t } ^ { 2 } ) + m _ { t } ^ { 2 } ( \hat { t } - \hat { u } ) } { \hat { s } ( \hat { u } - m _ { t } ^ { 2 } ) } \right] , } \end{array}
+$$
+
+for $g \bar { g }  t \bar { t }$ .Here $\beta = \sqrt { 1 - 4 m _ { t } ^ { 2 } / \hat { s } }$ ， $\hat { t } = m _ { t } ^ { 2 } - \hat { s } ( 1 - \beta \cos \theta ^ { \ast } ) / 2$ and $\hat { u } = m _ { t } ^ { 2 } - \hat { s } ( 1 + \beta \cos \theta ^ { \ast } ) / 2$ （204号
+
+The $R$ violating contribution $\hat { \boldsymbol { \sigma } } ^ { \mathrm { n e w } }$ comes from the interference of the diagrams in Fig.1 with the corresponding quark-antiquark annihilation QCD diagram in Fig. 2. Due to the chiral nature of these $R$ -violating couplings,the cross section with positive helicity of top quark $( \hat { \sigma } _ { + } ^ { \mathrm { n e w } } )$ is not equal to that with negative helicity $( \hat { \sigma } _ { - } ^ { \mathrm { n e w } } )$ . The detailed expressions for $d \hat { \sigma } _ { + } ^ { \mathrm { n e w } } / d \cos \theta ^ { * }$ and $d \hat { \sigma } _ { - } ^ { \mathrm { n e w } } / d \cos \theta ^ { * }$ can be found in [8].
+
+Finally, we stress the reasons to consider the polarization asymmetry in Eq.(2)rather than the total $t t$ cross section in probing the R-violating couplings:
+
+(i) This polarization asymmetry willbe a sensitive probe for new physics due tothefact that the SMcontribution to this polarization asymmetry is very small (below $1 \%$ )[9].The $t \bar { t }$ productions at the LHC are dominated by the QCD processes shown in Fig. 2. Of course,if we only consider the QCD interactions in the $t \bar { t }$ productions,the polarization asymmetry in Eq.(2) is zero due to the separate $C$ -and $P$ -invariance of QCD.The SM electroweak process $q \bar { q } \to Z ^ { * } \to t \bar { t }$ can cause a non-zero polarization asymmetry. But the polarization caused by this process is very small[9l since it does not interfere with the QCD amplitude because of the orthogonal color structure. Furthermore,the polarization caused by the SM electroweak loop corrections to the QCD $t \bar { t }$ production processes is also very small [9]. Therefore, the observation of a sizable polarization asymmetry (say $P _ { t } > 1 \%$ ）will serve as a robust evidence for new physics.   
+(ii)The R-conserving supersymmetric contribution to this polarization asymmetry is also very small[9].So,if supersymmetry is the true story，only R-violating couplings can cause a sizable value for the polarization asymmetry,which makes it a unique probe for R-violating couplings.   
+(iii） Although the R-violating couplings can contribute to the total $t t$ cross section by a few percent [7], such correction effects of a few percent are hard to be disentangled from the measurement of the $t t$ cross section because of the uncertainties in the SM predictions of the $t \bar { t }$ production cross section and the possible loop contributions from the R-conserving MSSM interactions [11].
+
+# III. RESULTS AND DISCUSSIONS
+
+In our numerical calculations the top quark mass $m _ { t } ~ = ~ 1 7 5$ GeV,and the center-of-mass energy for the LHC (Tevatron) $\sqrt { s } = 1 4$ TeV (2 TeV). We assume that only one of the involved $R$ -violating couplings dominates. For the $L$ -violating couplings $\lambda _ { i 3 1 } ^ { \prime }$ , we consider the existence of $\lambda _ { 3 3 1 } ^ { \prime }$ , in which case the stau is exchanged in the process, since $\lambda _ { 1 3 1 } ^ { \prime }$ and $\lambda _ { 2 3 1 } ^ { \prime }$ are already strongly constrained by atomic parity violation and $\nu _ { \mu }$ deep-inelastic_ scattering [12]. For the $B$ violating interactions $\lambda _ { 3 1 j } ^ { \prime \prime }$ , none of them have been well constrained by other processes. So we may interpret our result as that on any one of $\lambda _ { 3 1 j } ^ { \prime \prime }$ , in which case the squark $\bar { d } ^ { j }$ is exchanged in the process.
+
+In Fig.3 we show the polarizations $P _ { t }$ ， $P _ { t } ^ { F }$ and $P _ { t } ^ { B }$ normalized to $| \lambda _ { 3 3 1 } ^ { \prime } | ^ { 2 }$ versus the stau mass. This figure can be also read as $- \boldsymbol { P } _ { t }$ ， $- P _ { t } ^ { F }$ and $- P _ { t } ^ { B }$ normalized to $| \lambda _ { 3 1 j } ^ { \prime \prime } | ^ { 2 }$ versus the mass of the squark $\tilde { d } ^ { j }$ with $P _ { t } ^ { F }$ and $P _ { t } ^ { B }$ interchanged.The total polarization is smaller than hemisphere polarizations because of thecancelation between the two hemispheres. For the coupling $\lambda _ { 3 3 1 } ^ { \prime }$ ( $\lambda _ { 3 1 j } ^ { \prime \prime }$ ), the backward (forward) polarization has the largest magnitude of the three.Comparing the LHC results with the Tevatron results,we see that the polarizations at the LHC are smaller.This can be understood as follows: Compared with the Tevatron,at the LHC both the difference $\sigma _ { + } - \sigma _ { - }$ （20 $( = \sigma _ { + } ^ { \mathrm { n e w } } - \sigma _ { - } ^ { \mathrm { n e w } } )$ and the total cross section $\sigma _ { + } + \sigma _ { - }$ increase, but the total cross section increase more significantly since it is dominated by gluon-gluon fusion process.
+
+![](images/10da28a99f0b2ec1ae6888a7763631ee08d6560570216fab89366259a0d14822.jpg)  
+FIG.3: Top quark polarizations $P _ { t }$ ， $P _ { t } ^ { F }$ and $P _ { t } ^ { B }$ normalized to $\left| \lambda _ { 3 3 1 } ^ { \prime } \right| ^ { 2 }$ at the LHC $( \sqrt { s } = 1 4 ~ \mathrm { T e V } )$ ）and the Tevatron upgrade （ $\sqrt { s } = 2$ TeV) versus the exchanged stau mass. The figure can be also read as $- { \cal P } _ { t }$ ， $- P _ { t } ^ { F }$ and $- { P } _ { t } ^ { B }$ normalized to $| \lambda _ { 3 1 j } ^ { \prime \prime } | ^ { 2 }$ versus the exchanged squark mass with $P _ { t } ^ { F }$ and $P _ { t } ^ { B }$ interchanged.
+
+Now we estimate the statistical sensitivity.The statistical error for the top polarization asymmetry defined in Eq.(2) is given by
+
+$$
+\delta P _ { t } = \frac { [ 2 ( N _ { + } ^ { 2 } + N _ { - } ^ { 2 } ) ] ^ { 1 / 2 } } { ( N _ { + } + N _ { - } ) ^ { 3 / 2 } } \simeq \frac { 1 } { \sqrt { N _ { + } + N _ { - } } } = \frac { 1 } { \sqrt { N } }
+$$
+
+while $\delta P _ { t } ^ { F }$ ( $\delta P _ { t } ^ { B }$ ） is obtained by replacing the above events numbers with those in forward (backward) hemisphere. Forthe $t t$ event number in estimating the statistical error we take the assumption
+
+$$
+N = \epsilon \left[ N ^ { \mathrm { S M } } + N ^ { \mathrm { n e w } } \right] \simeq \epsilon N ^ { \mathrm { S M } } = \epsilon \mathcal { L } \sigma _ { t \bar { t } } ^ { \mathrm { S M } }
+$$
+
+vith $\sigma _ { t \bar { t } } ^ { \mathrm { S M } } = 8 7 3 ~ \mathrm { p b } ~ ( 6 . 7 7 ~ \mathrm { p b } )$ for the LHC (Tevatron upgrade)[17], $\mathcal { L }$ being the intergrated luminosity and $\epsilon$ being :he efficiency factor in events counting. The efficiency factor $\epsilon$ can be writen as
+
+$$
+\epsilon = \epsilon _ { 1 } \epsilon _ { 2 } \epsilon _ { 3 }
+$$
+
+with $\boldsymbol { \epsilon } _ { 1 , 2 , 3 }$ coming respectively from three aspects:
+
+(1)Firstly,as discussed in many previous works [13,14,15],the helicity statesof the topquark may have to be determined from the kinematic distribution of its decay particles $t \to W ^ { + } b \to \ell ^ { + } \nu _ { \ell } b$ ( $\ell = e$ or ）after $\mu$ reconstructing the topand anti-top quarks in the signal events.This willimmediately lead to a suppression factor $\epsilon _ { 1 } = 2 / 9$ ：   
+(2)Secondly,as is wellknown,consideringboth thedetectoracceptanceand the suppressionofthe QCDbackground, some kinematic cuts on the top and anti-top decay particles as well as $b$ -tagging are necessary. Depending on the detailed kinematic cuts and the $b$ -tagging efficiency, the events number is further suppressed by an efficiency factor e2.
+
+For example, if we impose the kinematic selection cuts as $p _ { T } ^ { \ell } , p _ { T } ^ { j e t } \ge 2 0$ GeV, $\eta _ { j e t }$ ， $\eta _ { \ell } \leq 3 . 0$ ， $p _ { T } ^ { \mathrm { m 1 s s } } \geq 3 0$ GeV and $\Delta R _ { j j }$ ， $\Delta R _ { j \ell } \ge 0 . 4$ ，where $p _ { T }$ denotes the transverse momentum, $\eta$ is the pseudo-rapidity, and $\Delta R$ is the separation in the azimuthal angle-pseudo rapidity plane ( ${ \Delta R = \sqrt { ( \Delta \phi ) ^ { 2 } + ( \Delta \eta ) ^ { 2 } } }$ ） between a jet and a lepton or between two jets, then the efficiency from such kinematic cuts is about $3 0 \%$ [19]. Combined with the b-tagging efficiency of about $5 0 \%$ , the efficiency factor $\epsilon _ { 2 } \simeq 1 5 \%$ . (Currently at Tevatron CDF, the effciency for tagging at least one b-jet in a $t t$ event is $( 5 3 \pm 4 ) \%$ [20].At the LHC we expect an efficiency better than $5 0 \%$ for tagging at least one b-jet in a $t t$ event.)
+
+Note that in theoretical analyses we usually impose $\Delta R _ { j j }$ ， $\Delta R _ { j \ell } \ge 0 . 4$ [19]. But for the separation of jets at the LHC, $\Delta R _ { j j } \ge 0 . 4$ may be over-optimistic and the realistic cut may be $\Delta R _ { j j } \ge 0 . 7$ . As a result of such a stronger cut,the efficiency factor $\epsilon _ { 2 }$ may drop below $1 0 \%$
+
+Further,in theoretical analyses we usually imposed $\eta \leq 3$ [19] and did not consider the difference of detector efficiency in the different regions of $\eta \leq 3$ . In practice,the detector efficiency will certainly be quite different in the barrel $\eta < 1$ and endcap $1 < \eta < 3$ regions.Therefore, the realistic value of $\epsilon _ { 2 }$ can only be obtained from detector-dependent full Monte Carlo simulation.
+
+(3)Thirdly,from analysing the distribution of the leptonic decays of a top quark,we in practice can only know its helicity with some probability $\epsilon _ { 3 }$ .A recent analysis [14] gives $\epsilon _ { 3 } \simeq 7 5 \%$ .But this figure may be overoptimistic since the analysis [14] is a theoretical work making rather optimistic assumptions.As pointed in [15], the principal diffculty in measuring top quark polarization comes from the ambiguities in reconstructing its momentum from the decay products,when both top and anti-top decay semileptonicaly.The realistic value of （20 $\epsilon _ { 3 }$ may also have to be obtained from detector-dependent full Monte Carlo simulation. For the ATLAS detector an analysis was given in [16] based on leading-order Monte Carlo generators andon a fast simulation of the detector.
+
+Since $^ { \epsilon _ { 2 , 3 } }$ are detector-dependent and their realistic values can only be obtained from detector-dependent full Monte Carlo simulations,in our numericalcalculations for statistical significanceand statistical limits weonly incorporate the suppression factor $\epsilon _ { 1 }$ while leave $^ { \epsilon _ { 2 , 3 } }$ as variables. Of course, it is straitforward to reinterpret our results once $^ { \epsilon _ { 2 , 3 } }$ are determined. We will explicitly point out how to reinterpret our results once $\epsilon _ { 2 , 3 }$ are known.
+
+![](images/a90f9bfceeec403d984e927fe321c6b90ecbb9d6cf379b2f0a2b3908773aa98d.jpg)  
+FIG.4: Statistical significance at the LHC ( $\sqrt { s } = 1 4$ TeV）and the Tevatron upgrade ( $\sqrt { s } = 2$ TeV),normalized to $\left| \lambda _ { 3 3 1 } ^ { \prime } \right| ^ { 2 }$ (or to $\left| \lambda _ { 3 3 1 } ^ { \prime } \right| ^ { 2 } \sqrt { \epsilon _ { 2 } \epsilon _ { 3 } }$ if we consider the efficiency factors $\epsilon _ { 2 , 3 }$ ). The figure can be also read as the statistical significance normalized to $| \lambda _ { 3 1 j } ^ { \prime \prime } | ^ { 2 }$ versus the exchanged squark mass with $ { \boldsymbol { P } } _ { t } ^ { F }$ and $P _ { t } ^ { B }$ interchanged.
+
+The statistical significances $P _ { t } / \delta P _ { t }$ ， $P _ { t } ^ { F } / \delta P _ { t } ^ { F }$ and $P _ { t } ^ { B } / \delta P _ { t } ^ { B }$ normalized to $| \lambda _ { 3 3 1 } ^ { \prime } | ^ { 2 }$ versus stau mass are shown in
+
+Fig. 4. The figure can be also read as the statistical significances normalized to $| \lambda _ { 3 1 j } ^ { \prime \prime } | ^ { 2 }$ versus the exchanged squark mass with $P _ { t } ^ { F }$ and $P _ { t } ^ { B }$ interchanged. We see that in case of $\lambda _ { 3 3 1 } ^ { \prime }$ $( \lambda _ { 3 1 j } ^ { \prime \prime }$ ） the sensitivity of the backward (forward) polarization is the best.Comparing Fig.3with Fig.4,we see thatalthough thepolarizations attheLHCare smaller than at the Tevatron upgrade,the LHC gives much larger statistical significances due to its much larger $t t$ sample.
+
+The statistical limits for $\lambda _ { 3 3 1 } ^ { \prime }$ ( $\lambda _ { 3 1 j } ^ { \prime \prime }$ ) versus stau (squark) mass are shown in Fig. 5. Here for the LHC we show the limits at $5 \sigma$ (discovery), $3 \sigma$ (evidence） and $2 \sigma$ (exclusion). The current $2 \sigma$ exclusion limits from $Z$ decay at LEP [18] are also shown for comparison. We see that the LHC may be quite powerful in probing these $R$ -violating couplings.
+
+![](images/c35e60935b18360c41244f206e285101c165e1ebcd9c3fcba140a2c07fffeac4.jpg)  
+FIG. 5:The statistical limits for $\lambda _ { 3 3 1 } ^ { \prime }$ (or for $\lambda _ { 3 3 1 } ^ { \prime } ( \epsilon _ { 2 } \epsilon _ { 3 } ) ^ { 1 / 4 }$ if we consider the efficiency factors $^ { \epsilon _ { 2 , 3 } }$ ）versus stau mass. The figure can be also read as the statistical limits for $\lambda _ { 3 1 j } ^ { \prime \prime }$ versus squark mass.
+
+Finally，we stress that our above analyses are almost solely theoretical.Weonly demonstrated the statistical sensitivity and statistical limits.As is wellknown,in experiments some systematic erorsare inevitable. Such systematic errorsare detector-dependent and willcertainly worsen the probing limits forthe R-violating couplings. For example,as an artifact of the measurement problems,an apparent polarization asymmetry may arise.The analysis for the ATLAS detector showed[16] that the systematic uncertainties willdominate over the statistical errors after one LHC year at low luminosity $\mathrm { ( 1 0 ~ f b ^ { - 1 } }$ ). The analysis in [16] gives a quite encouraging result，which shows that a_percent-level precision on the measurement of the polarization asymmetry between like-spin versus unlikespin $t \bar { t }$ events is possible even with $\mathrm { 1 0 ~ f b ^ { - 1 } }$ . Of course, a higher luminosity (say $1 0 0 ~ \mathrm { f b ^ { - 1 } }$ ）will further enhance the measurement precision.Although the analysis in [16] did not show the posible measurement precision on our polarization asymmetry $( N _ { + } - N _ { - } ) / ( N _ { + } + N _ { - } )$ ，we can expect a similar or even better precision because here we sum over the helicities of the $t$ and consider an integrated asymmetry in the numbers of $t _ { + }$ and $t _ { - }$ produced.
+
+# IV.CONCLUSIONS
+
+In summary,the R-parity violating interactions of the top quark,which have not been wellconstrained by current experiments,can induce anomalous top pair productions at hadron coliders.Although such induced processes only contribute to the total $t t$ cross section at the percent level, they can cause top quark polarization in the top pair events due to the chiral natureof these interactions.The polarization can bea useful observable for probing these interactions at the LHCand the upgraded Fermilab Tevatron collider because the polarization is expected to be very small in the Standard Model.We found that at theLHC,due to the large statistics,the statistical signiffcanceof the polarization observableand thus the probing ability for the corresponding R-parity violating couplingsare much higher than at the Tevatron upgrade.Finally,we stressthat for the purpose of probing these R-vioalting couplings, there may exist other processes which are complementary to our analyses. For example, $\lambda _ { 3 i j } ^ { \prime \prime }$ couplings can induce $s$ -channel top-squark productions at the LHC and Tevatron and,as studied in [21],such productions can be used to probe the parameter space of $\lambda _ { 3 i j } ^ { \prime \prime }$ versus top-squark mass.
+
+[1]For somereviewsontopquark physics,see,e.g.,D.ChakrabortyJ.Konigsberg,D.Rainwater，Ann.Rev.Nucl.Part. Sci.53,301(2003)；E.H.Simmons,hep-ph/0211335; C.-P.Yuan,hep-ph/0203088;S.Wilenbrock,hep-ph/0211067.M. Beneke et al.,hep-ph/0003033.   
+[2]For model-independentstudiesofnewphysicsintopquark physics,se,e.g.,C.T.HillandS.J.Parke,Phys.Rev.D49, 4454 (1994); K.Whisnant,etal.,Phys.Rev.D56,467 (1997); K.Hikasa,et al.,Phys.Rev.D 58,114003 (1998).   
+[3] C.S.Li,R.J.Oakes and J.M.Yang,Phys.Rev.D49,293 (1994); G.Couture,C.Hamzaoui and H. Konig,Phys.Rev. D 52,1713 (1995); J.L.Lopez,D.V.NanopoulosandR.Rangarajan,Phys.Rev.D 56,3100(1997); G.M.de Divitis, R.Petronzio and L.Silvestrini,Nucl.Phys.B504,45 (1997).J.M.Yang,B.-L.Young and X.Zhang,Phys.Rev.D58, 055001(1998);J.M.Yang andC.S.Li,Phys.Rev.D 49,3412 (1994);J.Guasch,and J.Sola,Nucl.Phys.B 562,3 (1999);G.Eilam,etal.,Phys.Lett.B510,227(2001);J.Cao,etal.,Nucl.Phys.B651,87(2003);J.J.LiuC.S.LiL. L.Yang,L.G.Jin,Phys.Lett.B599,92(2004);J.Cao,etal.,Phys.Rev.D74,031701(2006); G.Eilam,M.Frank,I. Turan,hep-ph/0601253.   
+[4]For somereviews,seeR.Barbier,etal.，Phys.Rept.420,1(2005)；H.Dreiner,hep-ph/9707435;G.Bhatacharyya, hep-ph/9709395;P. Roy, hep-ph/9712520.   
+[5] A.Datta,etal.,Phys.Rev.D56,3107(1997);R.J.Oakes,etal.,Phys.Rev.D57,534(1998);P.Chiappettaet al., Phys.Rev.D61,115008 (2000).   
+[6] K.J. Abraham,et al., Phys. Rev. D 63,034011 (2001); Phys. Lett.B 514, 72 (2001).   
+[7]D.K. Ghosh, S. Raychaudhuri and K. Sridhar,Phys.Lett.B 396,177 (1997).   
+[8]K.Hikasa,J.M. Yang and B.-L.Young,Phys.Rev.D 60,114041 (1999).   
+[9]C.Kao,G.A.LadinskyandC.-P.Yuan,FSU-HEP-930508,1993 (unpublished); C.Kao,Phys.Lett.B348,155(995); C.S.Li,et.al.,Phys.Lett.B398,298 (1997); C.S.Li, C.-P.Yuan and H.-Y. Zhou,Phys.Lett.B 424,76 (1998).   
+[10] J.Pumplin,et.al., JHEP 0207,012 (2002);D.Stump,et.al.,JHEP 0310,046 (2003).   
+[11] C.S.Li,etal,Phys.Rev.D52,5014(1995);J.Kim,J.L.Lopez,D.V.NanopoulosandR.Rangarajan,Phys.Rev.D 54,4364 (1996);J.M.Yang andC.S.Li,Phys.Rev.D52,1541 (1995);54,4380 (1996);C.S.Liet al.,Phys.Lett.B 379,135(1996)； S.Aam,K.Hagiwara and S.Matsumoto,Phys.Rev.D55,1307 (1997); Z.Sullvan,Phys.Rev.D 56, 451(1997);W.Hollik,W.M.Mosle and D.Wackeroth,Nucl.Phys.B 516,29 (1998).   
+[12]V.Barger,G.F.Giudice and T.Han,Phys.Rev.D 40,2978 (1989).   
+[13]G.L. Kane,G.A.Ladinskyand C.-P. Yuan,Phys.Rev.D45,124 (1992); M. Jezabek and J.H. Kuhn,Phys. Lett.B 329, 317 (1994); S. Parke and Y. Shadmi, Phys. Lett. B 387,199 (1996);   
+[14] Y. Sumino and S. Tsuno,Phys.Lett.B 633,715 (2006).   
+[15] R.M.Godbole, S.D.Rindani,R.K. Singh, JHEP0612,021 (2006).   
+[16] F.Hubaut,E.Monnier,P.Pralavorio,V.Simak,K. Smolek,hep-ex/0508061.   
+[17] See,e.g., N. Kidonakis and R. Vogt,Phys.Rev. D68,114014 (2003); Eur.Phys.Jour. C 33,s466 (2004).   
+[18]J.M.Yang,Eur.Phys.Jour.C20,553(2001);G.Bhatacharyya,J.Eisand K.Sridhar,Mod.Pys.Lett.A10,1583 (1995);G. Bhattacharyya, D.Choudhury and K. Sridhar,Phys. Lett.B 355,193 (1995).   
+[19]Se,e.g,J.M.Yang,B.-L.Youg,Phys.Rev.D62,115002(20);M.Hosch,etal,Phys.Rev.D58,034002(1998);R. J. Oakes,et al.,Phys.Rev.D 57,534 (1998).   
+[20] See, e.g., H. Bachacou, hep-ex/0501007.   
+[21] E.L.Berger,B.W.Harris,Z.Sullivan,Phys.Rev.Lett.83,4472 (1999); Phys.Rev.D63,115001 (2001).

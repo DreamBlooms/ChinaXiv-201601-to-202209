@@ -1,0 +1,380 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蛋白4.1家族在小鼠黑色素瘤细胞中的表达及其对细胞增殖的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "门颖丽}，康巧珍,丁聪}，刘诗梦},江慧，王晓东},汲振余²,刘鑫]，王婷1郑州大学生命科学学院，河南省医药科学研究院,河南郑州 450000",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的 筛选小鼠黑色素瘤细胞中蛋白4.1家族的表达，探讨蛋白4.1对小鼠黑色素瘤细胞增殖的影响。方法 以MEF、B16、B16-F10细胞基因组RNA和总蛋白为模板，经PCR法和Westemblot筛选蛋白4.1在小鼠黑色素瘤细胞中的表达;通过分子克隆构建真核表达载体pEGFP-N1-EPB41L3并转染黑色素瘤细胞;检测表达蛋白4.1B后B16、B16-F10细胞增殖的变化。结果蛋白4.1B在黑色素瘤细胞中表达缺失;通过转染成功构建的真核表达载体pEGFP-N1-EPB41L3发现，表达蛋白4.1B的黑色素瘤细胞的增殖作用被显著性抑制。结论 通过真核表达载体pEGFP-N1-EPB41L3转染表达蛋白4.1B可显著抑制B16和B16-F10黑色素瘤细胞的增殖。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：黑色素瘤细胞；蛋白4.1；真核表达；抑制增殖",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Expression of protein 4.1 family in melanoma cell lines and its effect on cell proliferation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MENYingliKNGQiaozen,GCong,imeng',JNGHui’,ANGiodong,Jnyu,Xin,ng SchoolofLifeciences,ZhengzhouUniversity,InstituteofedicineofHenanProince,Zhengzhou4ooCia ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ObjectiveTodetecttheexpresionof protein4.1 familymembers inmouse melanoma cellinesand evaluate their efect oncell proliferation.Methods PCRand Westernblot were used todetected to the expressionof protein4.1 family members (4.1R,4.1B,4.1G,and 4.1N)atthe mRNA and protein levels inB16and B16-F10cellines.The expression plasmid vector pGFP-N1-EPB41L3carrying 4.1B gene sequence amplified from genomic RNA of mouse embryo fibroblasts was constructedand transientlytransfected into mouse melanoma cels.Thechange in cellproliferation wasasesed using MTT assay. Results The mRNA and protein expresions of allthe protein 4.1 family members, withthe exception of 4.1B, were detected inboth B16and B16-F10cell.Transfection ofcells with theeukaryotic expression vector pEGFP-N1-EPB41L3 markedlyinhibitedcellproliferationascomparedwiththenon-transfectedcels.ConclusionTheeukaryoticexpresionvector carrying EPB41L3 sequence is capable of inhibiting the proliferation of mouse melanoma B16 and B16-F10 cells. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: mouse melanoma cells; protein 4.1; eukaryotic expression vector; inhibiting proliferation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，大量研究证实在许多恶性肿瘤中蛋白4.1的表达呈不同程度的下降或缺失，它的异常表达会导致肿瘤发生及肿瘤的恶化[1-3]。蛋白4.1B是4.1家族(包括$4 . 1 { \\mathrm { R } } , 4 . 1 { \\mathrm { B } } , 4 . 1 { \\mathrm { N } }$ 和4.1G)的重要成员[4-5],由EPB41L3基因编码。蛋白4.1B定位在细胞与细胞之间的接触位点，作为衔接蛋白连接细胞质膜与细胞骨架或者胞质效应分子，介导细胞骨架相关的细胞运动和粘附；调节细胞生长、分化、上皮样结构的建立。4.1B发挥了\"细胞骨架连接蛋白\"对肌动蛋白应力纤维的调节作用，从而抑制细胞的运动性发挥抑癌作用；在多种肿瘤细胞中，蛋白4.1B的表达对于细胞增殖调控、细胞黏附及信号转导均有重要意义8-9]。蛋白4.1B可能是人类癌症的一个重要的预后指标，也可能是一个潜在的抗肿瘤治疗的靶点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "恶性黑色素瘤(malignantmelanoma,MM)又称为恶黑,发病率占皮肤恶性肿瘤的第3位，也是发病率增长最快的恶性肿瘤之一，年增长率为 $3 \\% { \\sim } 5 \\%$ ,其恶性度高、转移早，预后差,死亡率高[10-]。在本研究中，以MEF细胞为阳性对照，利用PCR技术扩增蛋白4.1家族，经过筛选得出：在核酸及蛋白水平，4.1B在小鼠黑色素瘤细胞系B16、B16-F10细胞均呈现缺失表达。研究结果表明EPB41L3可能是肿瘤抑制基因，但其在肿瘤发生发展过程中的功能仍不完全清楚[12-13]。本研究中通过构建真核表达载体pEGFP-N1-EPB41L3,将EPB41L3基因导入B16、B16-F10细胞，并成功使其表达蛋白4.1B,进一步验证了蛋白4.1B在小鼠黑色素瘤细胞系中的肿瘤抑制作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 材料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 细胞株 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "野生型C57BL/6小鼠胚胎成纤维细胞(MEF细胞)以及4.1B敲除的MEF细胞(MEF4.1B-/-)由美国纽约血液中心安秀丽教授惠赠，小鼠黑色素瘤细胞系B16和B16-F10购于中国科学院上海生命科学研究院细胞资源中心。MEF、B16、B16-F10细胞均用含$10 \\%$ 胎牛血清的DMEM培养基，分别于 $3 7 \\ \\%$ $\\mathrm { C O } _ { 2 }$ 的培养箱中培养，根据细胞生长情况，每2\\~3d用含EDTA的胰酶消化MEF、B16细胞并传代,用不含EDTA的胰酶消化B16-F10细胞并传代，传代至对数生长期做相关细胞实验。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2主要材料及试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "兔抗鼠 $4 . 1 \\mathrm { R } \\ 、 4 . 1 \\mathrm { G } \\ 、 4 . 1 \\mathrm { N } \\ 、 4 . 1 \\mathrm { B }$ 多克隆抗体由美国纽约血液中心安秀丽教授惠赠;HRP-羊抗兔IgG购买于武汉博士德生物工程有限公司；胎牛血清购于浙江天杭生物科技有限公司;兔抗鼠EGFP单克隆抗体由美国血液中心安秀丽教授惠赠;DMEM(Dulbecco'sModifiedEagleMedium)购于美国Gibco公司；Trizol试剂、PrimeSTARTMHS(Premix）DNAMaker、Xho1、BamHI内切酶和T4连接酶购于TaKaRa公司；UltraSYBRMixture购于北京康为世纪生物科技有限公司;Revertaid first strand cDNA synthesis kit 购于Fermentas公司；转染试剂Lipofectamine2OoO购自美国Invitrogen公司。基因测序由金唯智公司完成。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 引物设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据GeneBank上所提供的小鼠EPB41、EPB41L3、EPB41L1、EPB41L2及内参 $\\beta$ -actin的mRNA序列，采用PrimerPremier5软件设计EPB41、EPB41L3、EPB41L1、EPB41L2及内参 $\\beta$ -actin各自的特异性PCR引物(表1)。pEGFP-N1-EPB41L3真核表达载体引物设计后应用BLAST软件进行在线筛查对比，以消除潜在的同源干扰，上游引物(引入XhoI位点）：5'-AAACTCGAGATGACGACCGAATCAGGATCAGACTCAGAATCGAAGC-3';下游引物(引人BamHI位点）:5'-AAAGGATCCCGATCCTCTCCGTCCTCTGGTGTGATT-3（划线部分为酶切位点，前面为保护碱基）。以EPB41L3基因序列为模板，根据荧光定量PCR引物设计原则，设计EPB41L3特异性的引物序列(表2)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4PCR扩增蛋白4.1家族基因",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "待细胞生长至状态良好，TRIzol法提取MEF、MEF4.1B-/-、B16、B16-F10细胞基因组RNA,Nanodrop2000测得RNA浓度及纯度，以不大于 $1 \\mu \\ g$ 的RNA利用反转录试剂盒合成cDNA。以反转录产物为模板进行PCR反应，反应体系 $5 0 \\mu \\mathrm { L } { : } \\mathrm { c D N A } 2 \\mu \\mathrm { L }$ ，上、下游引物各$2 \\mu \\mathrm { L }$ ,高保真酶Premix $2 5 ~ \\mu \\mathrm { L }$ $\\mathrm { \\ d d H _ { 2 } O }$ 19 uL。PCR反应条件 $\\mathrm { ; 9 4 ~ \\mathrm { { } ^ { \\circ } C ~ 5 ~ m i n ; 9 4 ~ \\mathrm { { } ^ { \\circ } C ~ 3 0 ~ \\mathrm { { s } , 6 0 ~ \\mathrm { { } ^ { \\circ } C ~ 3 0 ~ \\mathrm { { s } , 7 2 ~ \\mathrm { { } ^ { \\circ } C ~ 3 ~ \\mathrm { { m i n } } } } } } } } }$ ，共",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/85798369774d7c5f5fb1e0042867f05c1053b9b274e0402cc72b66de8243429b.jpg",
+        "table_caption": [
+            "表14.1蛋白家族PCR引物序列"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Gene</td><td>Sequence of primers (5'-3')</td></tr><tr><td rowspan=\"2\">EPB41</td><td>ForWard:ATGACAACAGAGAAGAGTTTAGTGGCTGAAGC</td></tr><tr><td>Reverse:CTCCTCAGAGATCTCTGTCTCCTGGTGGA</td></tr><tr><td rowspan=\"2\">EPB41L2</td><td>Forward:ATGACTACTGAAGTTGGCTCTGCATCTGAAGTG</td></tr><tr><td>Reverse:TTATTCTTCTCCTTCCTCCGCCAACTCTG</td></tr><tr><td rowspan=\"2\">EPB41L1</td><td>Forward:ATGACAACAGAGACAGGTCCCGATTCTGA</td></tr><tr><td>Reverse:TCAGGATTCCTGTGGCTTCTTGTCTC</td></tr><tr><td rowspan=\"2\">EPB41L3</td><td>Forward:ATGACGACCGAATCAGGATCAGACTCAG</td></tr><tr><td>Reverse:TCAATCCTCTCCGTCCTCTGGTGTGATT</td></tr><tr><td rowspan=\"2\">β-actin</td><td>Forward:GCCATCCTGCGTCTGGACCTGGCTG</td></tr><tr><td>Reverse:CGGACTCATCGTACTCCTGCTTGCTGATCC</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/1add77b46465e3ad43a9eff2f4fef6662761c978fcfa46e537c4ec5ea932690e.jpg",
+        "table_caption": [
+            "Tab.1 Primer sequences for amplification of the 4.1 protein family members ",
+            "表2EPB41L3的qPCR引物序列",
+            "Tab.2 Gene-specific primers used for quantitative real-time PCR ofEPB41L3 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Gene</td><td>Sequence of primers (5'-3')</td></tr><tr><td>EPB41L3</td><td>Forward:TGCGAACATCTGAACCTGCT</td></tr><tr><td rowspan=\"3\"></td><td>Reverse:CCTTAGCAGGGTCCAACCAG</td></tr><tr><td>Forward:AGCTTGTCATCAACGGGAAG</td></tr><tr><td>Reverse:TTTGATGTTAGTGGGGTCTCG</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "30个循环； $7 2 \\mathrm { ~ \\textdegree ~ { ~ C ~ } ~ } 1 0 \\mathrm { ~ m i n }$ 。扩增后取PCR产物 ${ 5 \\mathrm { ~ u L ~ } }$ 于$1 \\%$ 琼脂糖凝胶中电泳，于凝胶图像分析系统下观察并拍照。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5Westernblot检测蛋白4.1的表达",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "培养MEF、B16、B16-F10细胞，当细胞铺满瓶底时，胰酶消化收集细胞， $1 0 0 0 \\ \\mathrm { r / m i n } , 5 \\ \\mathrm { m i n }$ 离心收集细胞,并用PBS清洗3遍。加入 $2 0 0 ~ \\mu \\mathrm { L }$ 裂解液和 $2 ~ \\mu \\mathrm { L }$ PMSF，冰上裂解 $3 0 \\operatorname* { m i n } , 4 \\mathrm { ~ \\textcircled { C } , 1 2 0 0 0 \\ r / m i n , 1 5 \\operatorname* { m i n } }$ 取上清。用BCA法酶标仪 $5 7 0 \\ \\mathrm { n m }$ 测蛋白浓度，调整蛋白浓度使其一致,加入 $2 \\times$ Loadingbuffer,水浴煮沸 $5 \\mathrm { m i n } ,$ 0细胞总蛋白经 $10 \\%$ SDS-PAGE分离后，湿转法转膜到NC膜。用含 $5 0 ~ \\mathrm { g / L }$ 脱脂奶粉的TBST封闭 $2 \\mathrm { ~ h ~ }$ ,TBST冲洗3次， $1 0 \\mathrm { m i n } \\prime$ 次。分别加入兔抗鼠 $4 . 1 \\mathrm { R } , 4 . 1 \\mathrm { N } , 4 . 1 \\mathrm { G }$ 和4.1B多克隆抗体 $( 1 : 1 0 0 ) , 4 \\mathrm { ~ \\textdegree C }$ 孵育过夜，TBST冲洗3次， $1 0 \\mathrm { m i n } /$ 次。加入HRP-羊抗兔lgG(1:4000),37℃水平摇床孵育1h,TBST冲洗3次， $1 0 \\mathrm { m i n } \\hat { \\nparallel }$ 欠。ECL试剂盒显色发光，Azurec600-多功能分子成像系统采集图像。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.6RealtimePCR法检测4.1BmRNA相对表达量",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以GAPDH为内参，使用荧光定量PCRMix进行real timePCR,反应体系 $2 0 ~ \\mu \\mathrm { L }$ PCRMix $1 0 ~ \\mu \\mathrm { L }$ . $\\mathrm { \\ d d H _ { 2 } O }$ $6 . 4 ~ \\mu \\mathrm { L }$ ，正反向引物各 $0 . 8 ~ \\mu \\mathrm { L }$ ,cDNA模板为 $2 ~ \\mu \\mathrm { L }$ 。反应条件为： $9 5 \\ \\mathrm { ^ { \\circ } C , 1 0 \\ m i n ; 9 5 \\ ^ { \\circ } C \\ 1 5 \\ s , 6 0 \\ ^ { \\circ } C \\ 1 \\ m i n }$ ，共40个循环;溶解曲线， $6 0 ~ \\mathrm { { ^ { \\circ } C } }$ 到 $9 5 ~ \\mathrm { ^ { \\circ } C }$ 梯度升温溶解。实验数据采用 $\\Delta \\triangle \\mathrm { C t }$ 法统计分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.7构建pEGFP-N1-EPB41L3真核表达载体",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将真核表达载体pEGFP-N1与EPB41L3基因纯化产物分别经XhoI、BamHI双酶切和胶回收，利用T4连接酶进行连接，将EPB41L3基因导入pEGFP-N1表达载体中，经转化到DH5a宿主菌后涂布于LB平板，挑取单菌落并提取质粒进行酶切鉴定，再经过DNA测序进一步确认。验证正确后再进行大量扩增，保存重组质粒,命名为pEGFP-N1-EPB41L3。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.8pEGFP-N1-EPB41L3重组质粒转染黑色素瘤细胞 系B16、B16-F10 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当黑色素瘤细胞系B16、B16-F10细胞成长状态良好时，消化处理细胞并用血球计数板计数，将 $5 { \\times } 1 0 ^ { 5 } .$ 个细胞重悬于1mLDMEM培养液中，转移至6孔细胞培养板，培养 $2 4 \\mathrm { h }$ 左右，待单层细胞生长融合度达到 $70 \\%$ ${ \\sim } 9 0 \\%$ 时可进行转染。细胞实验分组：转染试剂空白对照组（Control）、pEGFP-N1组以及pEGFP-N1-EPB41L3实验组，瞬时转染 $2 4 \\mathrm { ~ h ~ }$ 后，荧光显微镜观察。Westernblot检测4.1B的表达，EGFP(1:2000)，二抗(1:6000)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.9MTT法检测蛋白4.1B对黑色素瘤细胞系B16、B16-F10细胞增殖的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "收集上述各实验组细胞，B16-F10细胞以 $8 \\times 1 0 ^ { 3 } /$ 孔，B16细胞以 $6 { \\times } 1 0 ^ { 3 } /$ 孔接种于96孔板，每孔培养液总量为 $2 0 0 ~ \\mu \\mathrm { L }$ ，于 $3 7 \\ \\mathrm { ^ { \\circ } C } \\ 5 \\% \\mathrm { C O } _ { 2 }$ 培养箱中培养，分别在 $2 4 、 4 8 、 7 2 、 9 6 \\mathrm { h }$ 换成无血清培养基，每孔加入 $2 0 ~ \\mu \\mathrm { L }$ $5 \\mathrm { m g / m L }$ 的MTT孵育 $^ { 4 \\mathrm { h } }$ 后终止培养,弃上清,每孔加入 $1 5 0 ~ \\mu \\mathrm { L }$ DMSO,将培养板置于酶标板,振荡 $1 0 \\mathrm { m i n }$ ，然后 $5 7 0 ~ \\mathrm { n m }$ 处检测各孔吸光度。增殖率 $\\scriptstyle -$ 实验组-对照组)/对照组。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.10 统计学处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "计数数据以均数 $\\pm$ 标准差表示，采用GraphPadPrism5.0软件进行分析，两组间采用student's $T$ test比较，以 $P { < } 0 . 0 5$ 表示差异具有统计学意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1蛋白4.1家族成员在小鼠黑色素瘤细胞中的表达筛选",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以MEF细胞的cDNA为模板进行PCR,EPB41、EPB41L3、EPB41L1、EPB41L2基因均有目的条带，说明在MEF细胞中，蛋白4.1家族核酸水平均正常表达，这与文献报道相符，因此MEF作为阳性对照是可信的。以黑色素瘤细胞系B16和B16-F10的cDNA为模板进行PCR，核酸水平验证蛋白4.1家族的表达（图1A)；以总蛋白为模板采用Westernblot的方法验证蛋白4.1家族在蛋白水平的表达情况(图1B)。结果提示：在核酸和蛋白水平，蛋白4.1B在B16和B16-F10中均表达缺失。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2重组质粒pEGFP-N1-EPB41L3的鉴定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "提取MEF细胞总RNA，逆转录为cDNA，PCR扩增小鼠EPB41L3基因。利用 $\\mathrm { T } _ { 4 }$ 连接酶将经XhoI、BamHI双酶切的EPB41L3片段和pEGFP-N1载体进行连接，随后连接产物转化到DH5a感受态细胞中，挑取经Kana筛选的菌落进行培养，提取质粒，质粒产物经XhoI单酶切,XhoI、BamHI双酶切,并进行 $1 \\%$ 琼脂糖凝胶电泳后可见约 $7 . 3 \\mathrm { k b }$ 线性化pEGFP-N1-EPB41L3重组质粒、 $4 . 7 ~ \\mathrm { k b }$ 线性化pEGFP-N1载体和$2 . 6 \\mathrm { k b }$ 的EPB41L3条带(图2),测序结果与Genebank中的EPB41L3序列完全一致。结果表明，重组载体pEGFP-N1-EPB41L3构建成功。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9a4a01b1c2f5462a40afa000364d0dd2e097c968ab007ad8c4e07136cc5701a.jpg",
+        "img_caption": [
+            "图1蛋白4.1家族成员在小鼠黑色素瘤细胞中的表达筛选",
+            "Fig.1Expressonofprotein4.1fmilymembersinmelanomacels.AmRNAexpressionof4.1familyembers inMEF,B16,and B16-F10celtecda.:ker();1,4,0:of EPB41L3mRinFcelsecively;s2,5,81:Expressosf444,d4i6 cells,respectively;Lanes3,6,9,12:Expressionof PB41EPB42,EPB41L1,andEPB413 mRNAin6-cells. $^ { * * * } P { < } 0 . 0 0 1$ B: Expresionsof 4.1 protein familymembers detectedby Westernblotting.1: MEFcels; 2:B16cels;3: B16-F10 cells. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/567e434d41eb984f35068480872cb8b78b034479a0d11131622ba2104f1de4b2.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3pEGFP-N1-EPB41L3转染上调蛋白4.1B核酸及蛋白水平的表达",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将pEGFP-N1-EPB41L3瞬时转染小鼠黑色素瘤细胞B16、B16-F10细胞 $2 4 \\mathrm { ~ h ~ }$ 后，在荧光显微镜下观察到B16和B16-F10细胞发出清晰的绿色荧光信号(图3)，荧光显微镜分析结果说明，pEGFP-N1-EPB41L3载体在黑色素瘤B16、B16-F10细胞中表达了EGFP-4.1B融合蛋白。pEGFP-N1-EPB41L3载体转染导人B16和B16-F10细胞 $2 4 \\mathrm { h }$ 后，Real-timePCR分析结果进一步说明,pEGFP-N1-EPB41L3载体在B16、B16-F10细胞中表达了EGFP-4.1B融合蛋白(图4);Westernblot检测结果显示，与control和pEGFP-N1细胞相比，pEGFP-N1-EPB41L3转染的B16、B16-F10 细胞表达了蛋白4.1B(图5)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e527439e856543163a148a5ed7423b1807dd1eca73ba6431b4a1c3413dd3d3e8.jpg",
+        "img_caption": [
+            "图3pEGFP-N1-EPB41L3重组质粒在B16-F10、B16细胞中表达EGFP-4.1B融合蛋白 Fig.3 Expression of EGFP-4.1B fusion protein in B16 and B16-F10 cells transfected with pEGFP-N1-EPB41L3 recombinant plasmid. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4重组质粒pEGFP-N1-EPB41L3转染黑色素瘤细胞 抑制B16、B16-F10细胞体外增殖 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "MTT实验结果显示，蛋白4.1B的表达对黑色素瘤细胞B16、B16-F10的增殖均有抑制作用。在第2,3天，外源蛋白4.1B的表达对B16-F10细胞增殖有显著性抑制作用；B16细胞的MTT结果显示从第1天起蛋白4.1B的表达就对B16细胞增殖起抑制作用(图6)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/835f241930e46fc429426e874fc462157ebc1275b066e06f6f18075065e82926.jpg",
+        "img_caption": [
+            "图4Real-timePCR分析重组质粒pEGFP-N1-EPB41L3转 染后B16-F10、B16细胞EPB41L3基因mRNA水平的表达 Fig.4EPB41L3 mRNA expression level analyzedby real-time PCR in B16 and B16-F1O cells transfected with pEGFP-N1-EPB41L3recombinantplasmid. $* * * P { \\ < } 0 . 0 0 1$ pEGFP-N1-EPB41L3 Us pEGFP-N1. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d87fb4fdd8099270458090a156a747910d7aaa406887fba925d8047405a55950.jpg",
+        "img_caption": [
+            "图5WesternBlot分析重组质粒pEGFP-N1-EPB41L3转染后B16-F10、B16细胞4.1B蛋白水平的表达"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "蛋白4.1超家族不仅在维持细胞形态、连接细胞表面糖蛋白和细胞骨架方面起重要作用4，在肿瘤发生、发展、转移中也起到重要的调控作用。蛋白4.1B与血影蛋白-肌动蛋白[15]、14-3-3蛋白家族[16]、整合素[17-18]、肺癌肿瘤抑制因子1(tumor suppressor in lung cancer-1,TSLC-1)[319等分子相互作用发挥肿瘤抑制因子的作用。近年研究表明在多种肿瘤细胞中，蛋白4.1B的表达对于细胞增殖[、运动性[20] 黏附[9]、信号转导[、上皮间质转化（Epithelial-mesenchymal transition,EMT）[21-22]等都具有重要意义。蛋白4.1B在多种组织中都有表达，相关研究证实蛋白4.1B在多种恶性肿瘤或良性肿瘤如非小细胞肺癌[2]、前列腺癌[23]、肾细胞癌[24]、卵巢癌[25等中出现表达缺失或下调。本课题组选取小鼠黑色素瘤细胞B16、黑色素瘤高转移细胞B16-F10作为研究对象，以MEF细胞为阳性对照，首次发现，蛋白4.1B在小鼠黑色素瘤细胞系B16、B16-F10细胞中显著性表达缺失。推测蛋白4.1B可能在黑色素瘤细胞的恶化过程中具有一定作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "我们选择了pEGFP-N1真核表达系统，成功构建了pEGFP-N1-EPB41L3重组质粒，瞬时转染小鼠黑色素细胞B16、B16-F10,成功获得了表达蛋白4.1B的细胞系。MTT法检测细胞增殖显示外源蛋白4.1B抑制黑色素瘤细胞的增殖，依据相关文献推测蛋白4.1B可能通过以下两种通路抑制细胞生长：蛋白4.1B的非保守区(U2)定位在细胞质膜，通过依次激活Src、Rac1、MLK3和JNK，从而减少细胞周期蛋白A(cyclinA)的表达，降低Rb蛋白过磷酸化2；蛋白4.1B与它的结合配偶体PRMT5相互作用，通过甲基化组蛋白H4抑制细胞周期蛋白E1启动子活化间接抑制细胞生长[27]。前期实验结果显示B16、B16-F10细胞表达外源蛋白4.1B后，在显微镜下可观察到细胞形态逐渐变圆，随着培养时间延长，细胞逐渐脱离，表现出细胞凋亡特征。有研究证实蛋白4.1B可通过TLR4或gab-1激活JNK，启动凋亡蛋白酶1介导的凋亡28或依赖凋亡蛋白酶8介导细胞凋亡[29]。推测蛋白4.1B在抑制黑色素细胞增殖和促进其凋亡过程中发挥着重要作用，蛋白4.1B的缺失表达可能是导致黑色素瘤恶性度高、易发生转移的原因之一。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a8bcbf65f32104775fd498db090af5710209791ee64896480391b289df129ff.jpg",
+        "img_caption": [
+            "Fig.5 Expressions of 4.1B protein detected by Western blotting in B16-F10 cells (A) and B16 cells $( B )$ transfected with pEGFP-N1-EPB41L3 recombinant plasmid.1: Nontransfected cells;2:Cells transfected with pEGFP-N1;3: Cells transfected with pEGFP-N1-EPB41L3. ",
+            "图6EGFP-4.1B蛋白抑制B16-F10(A)、B16(B)细胞的体外增殖 Fig.6 Proliferation of B16-F10 $4 , 8 \\times 1 0 ^ { 3 } \\mathrm { c e l l s } )$ and B16 cells $( B , \\ 6 \\times 1 0 ^ { 3 } \\mathrm { c e l l s } )$ transiently transfected with EGFP-4.1B recombinant plasmid.The data are presented as absorbance at $5 7 0 \\mathrm { n m }$ ： $^ { * * * } P { < } 0 . 0 0 1$ pEGFP-N1-EPB41L3 vs pEGFP-N1 or Control. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在多种肿瘤进展的早期阶段，蛋白4.1B表达量的不同程度下降会启动肿瘤生成。本研究结果表明，4.1B蛋白表达缺失的黑色素瘤细胞B16和B16-F10重新表达4.1B蛋白后，其细胞增殖作用被显著性抑制，这进一步证实EPB41L3基因编码的蛋白4.1B可能是肿瘤进展中的负调控分子。因此，通过使肿瘤细胞表达4.1B蛋白可能成为新的肿瘤治疗方式，通过DNA甲基转移酶抑制剂抑制EPB41L3基因启动子去甲基化，通过腺病毒、慢病毒、质粒使缺失EPB41L3基因的肿瘤细胞重新表达蛋白4.1B有望成为新的肿瘤治疗策略。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Xi C,Ren CX,Hu AJ,et al. Defective expression of Protein 4.1N is correlated totumorprogression，aggressivebehaviorsand chemotherapy resistance in epithelial ovarian cancer[J].Gynecol Oncol,2013,131(3): 764-71.   \n[2]Zhang YJ,Xu RB,Li GQ,et al. Loss of expression of the differentially expressed in adenocarcinoma of the lung (DAL-1) protein is associated with metastasis of non-small cell lung carcinoma cells[J].Tumor Biol,2012,33(6):1915-25.   \n[3]Takahashi Y,Iwai M,Kawai T,et al.Aberrant expression of tumor suppressors CADM1 and 4.1B in invasive lesions of primary breast cancer[J].Breast Cancer,2012,19(3): 242-52.   \n[4]Baines AJ,Lu HC,Bennett PM.The protein 4.1 family:hub proteins in animals for organizing membrane proteins[J].Biochim Biophys Acta,2014,1838(2): 605-19.   \n[5]Parra MK,Gallagher TL,Amacher SL,et al. Deep intron elements mediate nested splicing events at consecutive AG dinucleotides to regulate alternative 3' splice site choice in vertebrate 4.1 genes[J]. Mol Cell Biol,2012,32(11): 2044-53.   \n[6] Wang Z, Zhang J,Ye M, et al. Tumor suppressor role of protein 4.1B/DAL-1[J]. Cell Mol Life Sci,2014,71(24): 4815-30.   \n[7]Cavanna T,Pokornä E,Vesely P,et al. Evidence for protein 4.1B acting as a metastasis suppressor[J].J Cell Sci,2007,120(Pt 4): 606-16.   \n[8]Nagata M, Sakurai-Yageta M, Yamada D,et al.Aberrations of a cell adhesion molecule CADM4 in renal clear cell carcinoma[J]. Int JCancer,2012,130(6): 1329-37.   \n[9]Heller G, Geradts J, Ziegler B,et al. Downregulation of TSLC1 and DAL-1 expression occurs frequently in breast cancer[J].Breast Cancer Res Treat,2007,103(3): 283-91.   \n[10]Martinez-Cardus A,Vizoso M, Moran S,et al. Epigenetic mechanisms involved in melanoma pathogenesis and chemoresistance [J].Ann Transl Med,2015,3(15): 209.   \n[11]Teixido C,Gonzalez-Cao M,Karachaliou N,et al.Predictive factors for immunotherapy in melanoma[J].Ann Transl Med,2015,3(15): 208.   \n[12]Dickinson PJ, Surace EI, Cambell M,et al. Expression of the tumor suppressor genes NF2,4.1B,and TSLC1 in canine meningiomas [J].Vet Pathol,2009,46(5): 884-92.   \n[13]盛誉乔,梅珊,祁元明,等.4.1B蛋白的抑制肿瘤作用[J].生命的化 学,2008,28(6): 711-4.   \n[14]Hoover KB, Bryant P4.1 family: organizers of the membrane and cytoskeleton[J]. Curr Opin Cell Biol,2000,12(2): 229-34.   \n[15]Gimm JA,An XL,Nunomura W,et al. Functional characterization of spectrin-actin-binding domains in 4.1 family of proteins [J]. Biochemistry,2002,41(23): 7275-82.   \n[16]Robb VA,Li W, Gutmann DH. Disruption of 14-3-3 binding does not impair protein 4.1B growth suppression[J]. Oncogene, 2004, 23 (20): 3589-96.   \n[17] Jung Y,Kissil JL,McCarty JH. beta8 integrin and band 4.1B cooperatively regulate morphogenesis of the embryonic heart[J]. Dev Dyn,2011,240(1): 271-7.   \n[18]Wang J, Song J, An C, et al. A 130-kDa protein 4.1B regulates cell adhesion,spreading,and migration of mouse embryo fibroblasts by influencing actin cytoskeleton organization[J].JBiol Chem, 2014, 289(9): 5925-37.   \n[19]Busam RD,Thorsell AG,Flores AA,et al. Structural basis of tumor suppressor in lung cancer 1(TSLC1） binding to diferentially expressed in adenocarcinoma of the lung (DAL-1/4.1B) J].J Biol Chem,2011,286(6): 4511-6.   \n[20]Schulz WA,Ingenwerth M, Djuidje CE,et al. Changes in cortical cytoskeletal and extracellular matrix gene expression in prostate cancer are related to oncogenic ERG deregulation[J].BMC Cancer, 2010,10: 505.   \n[21]Chen X,Guan X,Zhang H,et al. DAL-1attenuates epithelial-to mesenchymal transition in lung cancer[J]. J Exp Clin Cancer Res, 2015, 34: 3.   \n[22]Yu F，Yang H,Zhang Z,etal. DALl/4.1B contributes to epithelialmesenchymal transition via regulation of transforming growth factorbeta in lung cancer cell lines[J].Mol Med Rep,2015, 12(4): 6072-8.   \n[23]Schulz WA,Alexa A,Jung V,et al. Factor interaction analysis for chromosome 8 and DNA methylation alterations highlights innate immune response suppression and cytoskeletal changes in prostate cancer[J].Mol Cancer,2007,6: 14.   \n[24] Yamada D，Kikuchi S,Williams YN,et al.Promoter hypermethylation of the potential tumor suppressor DAL-1/4.1B gene in renal clear cell carcinoma[J].Int JCancer, 2006,118(4): 916-23.   \n[25]Dafou D,Grun B,Sinclair J,et al. Microcell-Mediated chromosome transfer identifies EPB41L3 as a functional suppressor of epithelial ovarian cancers[J].Neoplasia,2010,12(7): U83-579.   \n[26] Gerber MA,Bahr SM,Gutmann DH. Protein 4.1B/differentially expressed in adenocarcinoma of the lung-1 functions as a growth suppressor in meningioma cells by activating Rac1-dependent c-Jun-NH(2)-kinase signaling[J].Cancer Res,2006,66(10): 5295-303.   \n[27]Fabbrizio E,El Messaoudi S,Polanowska J，et al.Negative regulation of transcription by the type II arginine methyltransferase PRMT5[J].EMBO Rep,2002,3(7): 641-5.   \n[28]Mariathasan S,Newton K,Monack DM,et al．Differential activation of the inflammasome by caspase-1 adaptors ASC and Ipaf [J].Nature,2004,430(6996): 213-8.   \n[29]Jiang W,Newsham IF.The tumor suppressor DAL-1/4.1B and protein methylation cooperate in inducing apoptosis in MCF-7 breastcancer cells[J].Mol Cancer, 2006,5:4. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（编辑：吴锦雅）",
+        "page_idx": 5
+    }
+]

@@ -1,0 +1,137 @@
+临床研究
+
+# 肝细胞肝癌患者血浆中甘露聚糖结合凝集素和甘露聚糖结合凝集素相关丝氨酸蛋白酶-2的表达水平
+
+李 捷}³,朱玲燕²，左大明¹,张丽芸'，卢晓'，陈政良}，周 嘉'  
+1南方医科大学基础医学院免疫教研室,广东广州 510515；²中山大学生命科学学院,广东广州 5102750;南  
+方医科大学第三附属医院（广东省骨科研究院），广东广州510000
+
+摘要：目的 检测肝细胞肝癌患者血浆中甘露糖结合凝集素(MBL)、MBL相关丝氨酸蛋白酶-2(MASP-2)的表达水平,探讨其与肝细胞肝癌发生发展的相关性。方法用酶联免疫吸附测定方法检测64例肝细胞肝癌患者及30例健康人血浆中MBL及MASP-2的表达水平,并用统计学方法分析患者血浆中MBL及MASP-2的浓度与各临床指标的相关性。结果 肝细胞肝癌患者血浆中MBL和MASP-2的浓度均显著高于健康人群 $\scriptstyle { ' } P = 0 . 0 1 4 , 0 . 0 0 2$ ),MBL/MASP-2比值在健康人群与肝细胞肝癌患者中的差异无统计学意义，此外,患者血浆中MBL与MASP-2并无相关性。在肝细胞肝癌患者中,血浆MBL水平与肿瘤的血管侵犯 $( r = 0 . 2 5 3 , P = 0 . 0 4 7 ,$ )和总胆红素水平 $( r = 0 . 2 8 3 , P = 0 . 0 2 4 )$ 呈正相关；血浆中MASP-2水平与肝细胞肝癌的TNM分期呈正相关0 $\scriptstyle \longmapsto 0 . 2 7 6 , P = 0 . 0 2 7 ;$ ,而与血浆白蛋白呈负相关 $( r { = } 0 . { - } 0 . 3 1 7 , P { = } 0 . 0 1 5 )$ 。经ROC曲线分析，MBL和MASP-2曲线下面积分别为0.665 $\scriptstyle ( P = 0 . 0 1 0 )$ 和 $0 . 6 9 4 ( P { = } 0 . 0 0 3 )$ ,对肝细胞肝癌诊断的敏感性分别为 $50 \%$ 和 $89 . 1 \%$ 。结论 补体凝集素途径的关键分子MBL、MASP-2与肝细胞肝癌患者的炎症状态和疾病进展相关,参与了肝癌的发生与发展。
+
+关键词：原发性肝细胞肝癌;甘露聚糖结合凝集素;甘露聚糖结合凝集素相关丝氨酸蛋白酶-2；补体
+
+# Plasma mannan-binding lectin and MBL-associated serine protease 2 in patients with hepatocellular carcinoma
+
+$L I J i e ^ { 1 , 3 } ,$ ZHU Lingyan, ZUO Daming',ZHANG Liyun',LU Xiao1,CHEN Zhengliang,ZHOU Jial   
+DepartmentofnogoolfsicedicaliencesoutedicalUniesityangzou5in;hoole Science，Sunatsenersityangzou5a;irdAflatedospitalfourndicaliesityado Academy of Orthopaedics,Guangzhou 51oooo, China
+
+Abstract: ObjectiveTodetect the plasma levels of mannan-binding lectin (MBL)and MBL-associated serine protease-2 (MASP2) in patients with hepatocellular carcinoma (HCC)and explore their role in the tumorigenesis and progresion of HCC. Methods The plasma levels of MBL and MASP-2 were detected by enzyme-linked immunosorbent assay in 64 HCC patients and 30 healthycontrol subjects.Thecorrelation of MBL and MASP-2 with theclinical parameters of HCC patients were analyzed. Results The plasma levels of MBL $( P { = } 0 . 0 1 4 )$ and MASP-2 $_ { ( P = 0 . 0 0 2 ) }$ were significantly higher in HCC patients than in the healthycontrols，butthe MBL-to-MASP-2ratiodid notdifer significantly between the two groups.InHCC patients, plasma MBL level was positively correlated with vascular invasion $_ { ( r = 0 . 2 5 3 }$ $\scriptstyle P = 0 . 0 4 7$ )andtotalbilirubinlevel $( r { = } 0 . 2 8 3$ $\scriptstyle P = 0 . 0 2 4$ 0 The plasma level of MASP-2 was positively correlated with TNM stage $\scriptstyle ( r = 0 . 2 7 6 ,$ $\scriptstyle P = 0 . 0 2 7 .$ ） and negatively correlated with plasma albumin level $( r { = } 0 . { - } 0 . 3 1 7$ $_ { P = 0 . 0 1 5 }$ ). ROC curve analysis revealed an area under curve of 0.665 for MBL $_ { ( P = 0 . 0 1 0 ) }$ and 0.694 for MASP-2 $( P { = } 0 . 0 0 3 )$ 0. The sensitivities of MBL and MASP-2 were $5 0 \%$ and $8 9 . 1 \%$ in the diagnosis of HCC, respectively. Conclusion MBL and MASP-2 are associated with the inflammatory state and disease progresion in patients with HCC. Keywords: hepatocellular carcinoma; mannan-binding lectin; serine protease; mannan-binding lectin complement.
+
+肝细胞肝癌的发病机制与肝脏的宏观环境相关，尤其是肝脏的持久炎症。补体系统是固有免疫的重要组成部分，是机体免疫防御的第一道防线，补体也可以参与获得性免疫、炎症反应、凝血等各种病理生理过程[2]。甘露糖结合凝集素(MBL)作为可溶性模式识别受体，可识别微生物或细胞表面的特殊糖结构而介导调理作用，其结合糖结构后也可与MBL相关的丝氨酸蛋白酶(MASP)作用从而激活补体凝集素途径[3]。MBL或MASP结构基因的突变引起的免疫缺陷，将导致患者处于高感染风险中，也易患自身免疫性疾病、冠心病等疾病45]。
+
+大量证据表明补体参与了多种肿瘤的发生和发展，补体在肿瘤诊治中作用和机制也得到了广泛的关注[6有研究认为作为补体中的重要固有成分，MBL及其下游的MASP与多种肿瘤的发生发展相关，但对于MBL和MASP在肝癌中的作用及机制仍有待阐明。目前关于MBL、MASP与肝细胞肝癌发生发展关系的文章很少，而且关注点均在MBL、MASP编码基因的多态性上[7-8],关注MASP并同时检测原发性肝癌患者外周MBL、MASP-2水平变化的研究尚未见报道。本文通过检测肝细胞肝癌患者血浆中的MBL、MASP-2水平，分析其与临床相关指标的关系，探讨其与肝细胞肝癌发生发展的相关性，为研究MBL、MASP-2在肝细胞肝癌发生发展中的作用机制、在肝细胞肝癌的诊治应用方面提供依据。
+
+# 1资料和方法
+
+# 1.1一般资料
+
+随机选取64例2009\~2012年于中山大学肿瘤防治中心接受手术切除或介入治疗的患者。手术切除治疗者经病理学检查确诊;介人治疗患者均符合欧洲肝病研究学会标准，经超声、CT或超声引导下获取活组织做病理检查确诊。肝细胞肝癌分期根据国际抗癌联盟和美国肿瘤联合会联合制定的TNM分期方法进行。所有患者术前均无放疗、化疗及生物治疗史，无自身免疫性疾病史及免疫治疗史。另设与患者年龄、性别相近的健康人30例作对照，经检测均无HCV、HBV、HIV和梅毒感染。
+
+# 1.2主要试剂及方法
+
+表1肝癌患者的临床指标Tab.1 Characteristics of HCC patients  
+
+<html><body><table><tr><td>Index</td><td>HCC</td><td>Healthy control</td></tr><tr><td>Age (year,Mean±SD)</td><td>51.6±1.5</td><td>48.9±2.2</td></tr><tr><td>Male/Female</td><td>60/4</td><td>30/0</td></tr><tr><td>Cirrhosis (+/-)</td><td>30/35</td><td>NA</td></tr><tr><td>HBsAg (+/-)</td><td>59/5</td><td>0/30</td></tr><tr><td>AFP (ng/mL,≤25/>25)</td><td>20/45</td><td>30/0</td></tr><tr><td>Tumor size (cm,≤5/>5)</td><td>32/33</td><td>NA</td></tr><tr><td>Toumiarymutiatit</td><td>45/19</td><td>NA</td></tr><tr><td>Vascular invasion (+/-)</td><td>19/45</td><td>NA</td></tr><tr><td>TNM stage (I+II/III)</td><td>34/30</td><td>NA</td></tr><tr><td>ALT(U/L,Mean±SD)</td><td>44.9±3.4</td><td>18.81±4.2</td></tr><tr><td>AST(U/L,Mean±SD)</td><td>49.2±4.0</td><td>17.8±4.5</td></tr><tr><td>TBIL (μmol/L)</td><td>18.2±1.4</td><td>10.2±3.4</td></tr><tr><td>ALB (g/L)</td><td>44.2±1.7</td><td>30.1±3.1</td></tr><tr><td>CRP (mg/mL)</td><td>15.9±3.6</td><td>0.59±0.53</td></tr><tr><td>ThcrE/MCetment resectio/RFA/</td><td>26/11/24/3</td><td>NA</td></tr></table></body></html>
+
+HBsAg:Hepatitis B virus surface antigen;AFP:Alpha-fetoprotein; ALT:Alanine aminotransferase;AST:Aspartate aminotransferase; TBIL:Total bilirubin; ALB:Albumin;CRP:C reactive protein;RFA: Radiofrequency ablation; TACE:Transcatheter arterial chemoembolization; MCT:Microwave coagulation therapy; NA: None available.
+
+1.2.1标本采集及处理术前用肝素抗凝采血管采集静脉血;静置 $1 0 \ \mathrm { m i n } , 3 0 0 0 \ \mathrm { r / m i n }$ 离心 $1 0 ~ \mathrm { { m i n } }$ ,留取上清液;置 $- 7 0 \ \mathrm { { ^ { \circ } C } }$ 冰箱保存，供测定MBL和MASP2的浓度用。1.2.2仪器与试剂 人MBL检测试剂盒(R&D System,美国);人MASP2检测试剂盒(USCN,中国武汉);多功能酶标仪(PerkinElmergo,美国）离心机(Eppendorf,德国)。1.2.3 检测方法血浆样本溶解并恢复至室温，具体操作步骤严格按试剂盒说明进行操作，酶标仪测吸光度中 $\mathrm { \langle A _ { 4 5 0 } \rangle }$ ,根据标准品作出的标准曲线及测得吸光度，换算出血浆MBL和MASP-2的浓度。
+
+# 1.3统计学分析
+
+应用SPSS16.0进行统计分析，计量资料以均数 $\cdot \pm$ 标准差表示，组间比较用非方差齐性两样本独立t检验，用Pearson相关分析法来分析MBL与MASP-2与各变量之间的相关性， $P { < } 0 . 0 5$ 认为差异有统计学意义。
+
+# 2结果
+
+# 2.1肝细胞肝癌患者的临床指标
+
+经术前进行常规检查，肝癌患者组与健康对照组的各项临床指标情况如表1所示。
+
+# 2.2肝细胞肝癌患者和健康对照组血浆中MBL和MASP-2的表达水平
+
+ELISA检测结果显示，肝细胞肝癌患者血浆中 MBL水平高于健康对照者( $1 0 2 9 { \pm } 1 2 4 ~ \mathrm { n g / m L }$ vs $1 4 7 1 \pm$ $1 0 6 ~ \mathrm { { n g / m L } }$ $P { = } 0 . 0 1 4$ ),肝细胞肝癌患者血浆中MASP-2 水平高于健康对照组 $( 3 8 2 . 7 \pm 1 6 . 3 ~ \mathrm { n g / m L }$ vS $2 9 0 . 7 \pm$ $2 4 . 7 \ \mathrm { n g / m L } , P \mathrm { = } 0 . 0 0 2$ ，图1)。
+
+# 2.3肝细胞肝癌患者血浆中MBL和MASP-2的相关性 分析
+
+Pearson相关性分析结果显示，肝细胞肝癌患者血浆中MBL与MASP-2并无相关性 $( r = 0 . 0 4 4 , P = 0 . 7 2 7$ 图2)。同一个体血浆中MBL与MASP-2的比值在健康对照组和肝细胞肝癌组间的差异无统计学意义（ $( 4 . 4 \pm$ 0.6 vs $4 . 3 { \pm } 0 . 4 , P { = } 0 . 8 7 0$ ，图3)。
+
+2.4肝细胞肝癌患者血浆中MBL和MASP-2与临床相 关变量的相关性
+
+2.4.1MBL与临床相关变量的相关性对肝细胞肝癌 患者血浆中MBL浓度与临床相关变量进行Pearson相 关分析(表2),结果显示患者血浆中MBL水平与肿瘤血 管侵犯 $( r { = } 0 . 2 5 3 , P { = } 0 . 0 4 7 )$ 和总胆红素水平 $\scriptstyle \overbrace { r = 0 . 2 8 3 }$ .
+
+![](images/fe087994bed1cadf8dd6ef758f2f5b4fe18fc1455de2a2cc32bd2e2c3b100315.jpg)  
+图1肝细胞肝癌患者和健康对照组血浆中MBL和MASP-2的表达水平 Fig.1 Plasma levels of MBL and MASP-2 in HCC patients and healthy controls.A: Plasma levels of MBL;B:Plasmalevels ofMASP-2.
+
+□ r=0.044800P=0.727(Tt/1) )-1SS P1Pd 心 Q600 中中中400 地 中 □ 中 心中 5 g L □200 心 □ 中中0 1000 2000 3000 4000Plasma MBL (ng/mL)
+
+![](images/1c55978dc194bfbaa470dee5940af5a58ec87de1b2c012ef371e347bb3f87a4d.jpg)  
+图2肝细胞肝癌患者血浆中MBL和MASP-2的相 关性 Fig.2 Correlation between plasma levels of MBL and MASP-2 in HCC patients.   
+图3MBL与MASP-2的比值在健康对照组和肝 细胞肝癌组间的比较 Fig.3 Ratio of MBL to MASP-2 in HCC patients and healthy controls.
+
+$P { = } 0 . 0 2 4 \$ )呈正相关，有血管侵犯组的MBL水平高于无血管侵犯组( $1 3 0 6 { \pm } 1 2 2 ~ \mathrm { n g / m L }$ vs $1 8 8 0 { \pm } 1 8 6 ~ \mathrm { n g / m L } ,$ $P =$ 0.011,图4)。
+
+2.4.2 MASP-2与临床相关变量的相关性 结果显示患者血浆MASP-2水平与TMN临床分期呈正相关 $\scriptstyle ( r = 0 . 2 7 6$ $P { = } 0 . 0 2 7$ ),而与血浆白蛋白水平呈负相关( $_ { r = 0 . - 0 . 3 1 7 }$ $P { = } 0 . 0 1 5$ ,表2)。其中TNM晚期患者血浆MASP-2水平高于早期患者 $( 4 2 2 . 7 { \pm } 2 6 . 2 \mathrm { n g / m L }$ vs $3 5 0 . 4 { \pm } 1 9 . 1 ~ \mathrm { n g / m L }$ $\scriptstyle P = 0 . 0 2 7$ ，图5。
+
+# 2.5肝细胞肝癌患者血浆中MBL和MASP-2的ROC曲线
+
+MBL、MASP-2曲线下面积分别为 $0 . 6 6 5 ( P { = } { - } 0 . 0 1 0 )$ 、0.694( $\scriptstyle P = 0 . 0 0 3 )$ (图6)。按公式计算尤登指数：尤登指数 $\varprojlim 2$ 敏感性 $^ +$ 特异性- $1 =$ 敏感性-(1-特异性)，求得MBL、MASP-2的最佳界值(cut-off值）分别是1422.14、$2 5 3 . 2 2 \mathrm { n g / m L }$ ,敏感性分别为 $89 . 1 \% 5 0 \%$
+
+# 3讨论
+
+MBL、MASP-2是补体凝集素途径的重要分子，其中MBL是由肝脏合成的C型凝集素样急性期蛋白，可起到调理吞噬、活化补体、参与炎症反应等作用，有重要的免疫防御功能;MASP-2则是凝集素途径的关键蛋白酶，MBL或Ficolin与配体结合后可激活与之相连的MASP-2,从而激活下游的补体级联反应[3]。有研究表明，MBL与MASP-2不仅与感染性疾病相关，也与炎症性疾病如类风湿性关节炎的进展相关[10],而对其与肿瘤的研究亦发现血清组织中的MBL与MASP-2均与肿瘤相关[11-12]。肝细胞肝癌通常发生在慢性肝损伤的基础上，慢性肝损伤可激活先天性免疫功能，维持持久的炎症反应，引起的炎症反应可激活肝细胞的再生能力，从而促进肝癌的形成和发展[1]。因此,本研究推测,MBL、MASP-2与肝细胞肝癌的发生发展相关，参与了肿瘤的
+
+表2肝细胞肝癌患者血浆中MBL和MASP-2与临床相关变量 的相关性 Tab.2 Correlation of plasma MBL and MASP-2 with the clinical parameters of HCC patients   
+
+<html><body><table><tr><td rowspan="2">Index</td><td colspan="2">P</td></tr><tr><td>MBL</td><td>MASP-2</td></tr><tr><td>Age</td><td>0.200</td><td>0.740</td></tr><tr><td>Gender</td><td>0.203</td><td>0.829</td></tr><tr><td>Cirrhosis</td><td>0.472</td><td>0.119</td></tr><tr><td>HBsAg</td><td>0.374</td><td>0.338</td></tr><tr><td>AFP</td><td>0.668</td><td>0.755</td></tr><tr><td>Tumor size</td><td>0.595</td><td>0.107</td></tr><tr><td>Tumor multiplicity</td><td>0.783</td><td>0.253</td></tr><tr><td>Vascular invasion</td><td>0.047*</td><td>0.267</td></tr><tr><td>TNM stage</td><td>0.507</td><td>0.027*</td></tr><tr><td>ALT</td><td>0.865</td><td>0.339</td></tr><tr><td>AST</td><td>0.952</td><td>0.123</td></tr><tr><td>TBIL</td><td>0.024*</td><td>0.941</td></tr><tr><td>ALB</td><td>0.506</td><td>0.015*</td></tr><tr><td>CRP</td><td>0.693</td><td>0.113</td></tr></table></body></html>
+
+$^ { * } P { < } 0 . 0 5$ ；HBsAg:Hepatitis B virus surface antigen;AFP:Alphafetoprotein;ALT: Alanineaminotransferase;AST: Aspartate aminotransferase；TBIL:Total bilirubin；ALB:Albumin;CRP:C reactive protein.
+
+发生与发展。
+
+早期有研究表明MBL、MASP-2的基因多态性均与肝细胞肝癌的发生无关[13];但是此后的研究结果提示MBL编码基因的多态性与肝细胞肝癌的发生发展有一定关系[14]。有研究发现在1组针对结肠癌患者的研究中MBL及MASP-2的表达水平与其基因型并不匹配[15],而在1项对肺结核的研究中也出现了类似的情况，机体所携带的MBL及MASP-2基因型并不能反映其蛋白表达水平[16]。因此,本研究通过对64例肝细胞肝癌患者和30例健康对照人群血浆中的MBL和MASP-2表达水平进行检测，并分析其与肿瘤发生发展相关的各项参数的相关性，来推测其与肝细胞肝癌发生发展的相关性。
+
+ELISA检测的结果表明，肝细胞肝癌患者血浆中MBL( $P { = } 0 . 0 1 4 )$ 和MASP-2( $P { = } 0 . 0 0 2 )$ 水平均显著高于健康对照人群，提示二者可能参与了肝细胞肝癌的发生，这可能与肝细胞肝癌通常发生在慢性肝损伤及慢性炎症的基础上有关[]。尽管有1项早期研究发现肝细胞肝癌患者MBL血浆水平较正常人降低，并推测可能与肝细胞肝癌患者肝功异常造成的肝脏产生补体分子如MBL产量的降低有关[14]。目前未见MASP-2在肝癌中表达水平的详细报道，只在一项国内的研究中与肝脏损伤相关[17]。但同为肝脏产生的急性期蛋白CRP在肝细胞肝癌患者血浆中含量上升并参与疾病的发生发展[18]；
+
+![](images/6bca9e2c274b20985added5296b3f2ee45bb4748795293f0b418e7a1751f3822.jpg)  
+图4肝细胞肝癌患者血浆MBL水平与总胆红素、血管侵犯的相关性 Fig.4 Correlation of plasma MBL levels with vascular invasion and total bilirubin in patients with HCC. A: Vascular invasion; $B$ ：Total bilirubin.
+
+且血清MBL水平在HCV感染患者中比健康患者高[19],这些研究结果均不支持这一推测。其结果与本研究结果不一致，可能与检测技术的进步和所选人群不同有关。因此接下来应考虑设立更多的对照人群，比如HBV感染的非肝癌人群等，来更深入的解答这一问题。此外，本研究还发现同一个体中血浆中MBL与MASP-2的比值在正常人与肝细胞肝癌患者中并无明显差异，证明这两者的升高趋势是一致的，尽管两者之间并无明确的相关性存在。这可能是由于MASP-2是1个潜在的急性期蛋白，其与MBL及CRP具有共同的应激转录元件，在炎症过程中其表达上调，可参与机体的炎症反应[20]。以上结果提示MBL、MASP-2可能参与了炎症反应，从而参与了的肿瘤的发生发展。
+
+![](images/156816e0769599c7095f25c3c52d049a188fd9d3775cf6974200bc6e456953ed.jpg)  
+图5肝细胞肝癌患者血浆中MASP-2水平与TMN分期、血浆白蛋白的相关性分析 Fig.5 Correlation of plasma level of MASP-2 with TNM stage and albumin in HCC patients.A: TNM stage; B:Albumin.
+
+![](images/239940f04da25aab2ba00d78074f030dce6c372e3a7b3faeb57720913b1c1b02.jpg)  
+图6肝细胞肝癌患者血浆中MBL、MASP-2的ROC曲线 Fig.6 ROC curve of plasma MBL and MASP-2 in HCC patients.
+
+为了进一步分析肝细胞肝癌患者血浆MBL、MASP-2水平与疾病进展的关系，本研究分析了二者与临床相关变量的相关性。在肝细胞肝癌中常见的与肿瘤发生发展相关的变量有：性别、年龄、肿瘤大小、肿瘤数量、肝硬化、甲胎蛋白、肿瘤的血管侵犯、HBsAg、谷丙转氨酶、谷草转氨酶、总胆红素、血浆白蛋白、C反应蛋白等[21]。Pearson相关性分析的结果发现肝细胞肝癌患者血浆中的MBL水平与肿瘤的血管侵犯呈正相关，有血管侵犯者的血浆MBL表达水平高于无血管侵犯组中 $_ { \scriptstyle P = 0 . 0 1 1 }$ ),表明MBL与肿瘤的血管侵犯相关，而血管侵犯本身与肿瘤的发展和转移有密切关系[21-22]，这一结果提示MBL可能通过影响肿瘤的血管侵犯从而参与肿瘤的发展和转移。相关分析结果还发现MBL与总胆红素水平呈正相关 $\scriptstyle ( P = 0 . 0 2 4 )$ ,由于总胆红素水平的上升与肝脏发炎症、损伤相关且与肿瘤的进展有关[23],这一结果提示肝脏损伤、炎症时MBL会升高，而MBL作为1个参炎症反应的急性期蛋白，显然应具有这一特点。而在对肝细胞肝癌患者血浆中MASP-2含量与临床相关变量的Pearson相关性分析的结果发现,血浆MASP-2水平与患者的临床TNM分期呈正相关，TNM晚期的患者的血浆MASP-2水平显著高于早期患者 $( P { = } 0 . 0 2 7 )$ ，即表明随着疾病的进展MASP-2水平升高，提示MASP-2参与了肿瘤的进展。此外，血浆MASP-2水平与血浆白蛋白水平呈负相关( $_ { P = 0 . 0 1 5 ) }$ ，而血浆白蛋白水平的降低也是肝脏损伤的一个重要指标，本身也与肿瘤的进展相关24，提示MASP-2也在肝脏损伤及发生炎症反应的过程中表达上调,可参与肝脏炎症反应。最后为探讨这两个分子作为肝细胞肝癌的诊断分子的可能性，参考之前以正常健康人为对照分析MBL及MASP-2基因多态性与肝细胞肝癌关系的研究[25-26],本研究对其进行了ROC曲线分析，得出MBL和MASP-2曲线下面积分别为0.665和0.694,对肝细胞肝癌诊断的敏感性低，分别为 $50 \%$ 和 $89 . 1 \%$ ,并不能作为肝细胞肝癌独立的诊断指标。
+
+以上结果均提示补体凝集素途径的关键分子MBL及MASP-2可能参与了肝细胞肝癌的发生和发展，为进一步研究其在肝细胞肝癌发生发展中的作用机制及其在肝细胞肝癌的诊治应用方面的研究提供了依据。在接下来的研究中，可考虑加大样本数量和优化样本分类进一步探讨，并开展二者在肝细胞肝癌诊疗中的相关研究。
+
+# 参考文献：
+
+[1]Ghouri YA,Mian I, Rowe JH. Review of hepatocelllar carcinoma: Epidemiology, etiology,and carcinogenesis[J].JCarcinog,2017,16 (29): 1-3.   
+[2]Kolev M,Le Friec G, Kemper C. Complement--tapping into new sites and effector systems[J]. Nat Rev Immunol, 2014,14(12): 811- 20.   
+[3]Dan XL,Ng TB.Lectins in human cancer:both a devil and an angel [J]. Curr Protein Pept Sci,2013,14(6): 481-91.   
+[4]Heitzeneder S,Seidel M,Forster-Waldl E,et al. Mannan-binding lectin deficiency- Good news,bad news,doesn't matter?[J]. Clin Immunol,2012,143(1): 22-38.   
+[5]Beltrame MH, Boldt AB,Catarino SJ,et al. MBL-associated serine proteases (MASPs)and infectious diseases[J].Mol Immunol, 2015, 67(1, SI): 85-100.   
+[6] Kourtzelis I,Rafail S.The dual role of complement in cancer and its implication in anti-tumor therapy[J].Ann Transl Med,2016,4(14): 265-7.   
+[7] Swierzko AS, Kilpatrick DC,Cedzynski M. Mannan-binding lectin in malignancy[J]. Mol Immunol,2013,55(1, SI): 16-21.   
+[8］Blom AM. The role of complement inhibitors beyond controlling inflammation[J].JIntern Med,2017,282(2): 116-28.   
+[9]Chen M, Liang Y,Li W, et al. Impact of MBL and MASP-2 gene polymorphism and its interaction on susceptibility to tuberculosis [J].BMC Infect Dis, 2015,15(1): 1-6.   
+[10]陈 思,马宝良,曹明强,等.类风湿关节炎患者血清MBL、MASP-2、 HsCRP与C3水平的相关性[J].南方医科大学学报,2016,36(10): 1340-4, 1356.   
+[11]石燕萍,刘阁玲,张慧芹,等.甲状腺肿瘤患者血清中MBL和MASP-2 的表达及意义[J].广东医学,2012,33(2):223-9.   
+[12]段廷旺,周永宁.MBL/MASP-2/P53在胃癌组织及癌旁组织中的表 达情况[J].中国社区医师,2015,31(4):112-3.   
+[13] Yuen MF, Lau CS,Lau YL,et al. Mannose binding lectin gene mutations are associated with progression of liver disease in chronic hepatitis B infection[J]. Hepatology,1999,29(4): 1248-51.   
+[14] Eurich D,Boas-Knoop S,Morawietz L,et al. Association of mannose-bindinglectin-2genepolymorphismwiththe development of hepatitis C-induced hepatocellular carcinoma [J]. Liver Int,2011,31(7): 1006-12.   
+[15]Ytting H, Christensen IJ,Steffensen R, et al. Mannan-binding lectin (MBL) and MBL-associated serine protease 2 (MASP-2) genotypes in colorectal cancer[J]. Scand JImmunol, 2011,73(2): 122-7.   
+[16] Chalmers JD,Matsushita M,Kilpatrick DC.No strong relationship between components of the lectin pathway of complement and susceptibility to pulmonary tuberculosis[J]. Inflammation,2015,38 (4): 1731-7.   
+[17]许大成.HBV慢性感染者血清中MBL,MASP和C3b水平检测的临 床意义[J].国际检验医学杂志,2013,24(9):3305-7.   
+[18]Ma LN,Liu XY,Lu ZH, et al. Assessment of high-sensitivity Creactive protein tests for the diagnosis of hepatocellular carcinoma in patients with hepatitis B-associated liver cirrhosis[J]. Oncol Lett, 2017,13(5): 3457-64.   
+[19] Komur S,inal AS, Ulu AC,et al. Effects of mannose-binding lectin and mannose-binding lectin polymorphisms on treatment response in patients with chronic hepatitis C[J].Turk JGastroenterol,2014,5 (6): 702-6.   
+[20]熊思敏,赵 娜,裘宇容,等.MASP2在小儿上呼吸道感染中的意义 [J].南方医科大学学报,2015,35(6):888-93.   
+[21] Shen JY,He LY,Li C,et al. Prognostic nomograms for patients with resectable hepatocelluar carcinoma incorporating systemic inflammation and tumor characteristics[J]. Oncotarget, 2016,7(49): 80783-93.   
+[22]Park YK, Song SK,Kim BW, et al. Prognostic significance of microvascular invasion in tumor stage for hepatocellular carcinoma [J].World J Surg Oncol,2017,15(1): 225-7.   
+[23]Li J,Qiu X, Guo W,et al. Prospective analysis of tiopronin in prevention of sorafenib and antiviral therapy inducing liver toxicity in advanced hepatitis B virus-related hepatocellular carcinoma[J]. Med Oncol, 2015,32(10): 238-40.   
+[24] Yoshizumi T, Sakata K, Nagatsu A,et al.Prognostic significance of combined albumin-bilirubin and tumor-node-metastasis staging system inpatientswhounderwent hepaticresectionfor hepatocellular carcinoma[J].Hepatol Res,2017,12(8): 68-70.   
+[25]Segat L,Fabris A,Padovan L,et al. MBL2 and MASP2 gene polymorphisms in patients with hepatocellular carcinoma[J].J Viral Hepat,2008,15(5): 387-91.   
+[26] Lin Y, Su C,Niu J,et al. Impact of mannose-binding lectin 2 polymorphism on the risk of hepatocellular carcinoma: a casecontrol study in Chinese Han population.J [J]．Environment Epidemiol,2015,25(5): 387-91.

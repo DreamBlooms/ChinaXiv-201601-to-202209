@@ -1,0 +1,203 @@
+# 阿拉伯木聚糖和阿拉伯低聚木糖的益生功能研究进展
+
+雷钊尹达菲 袁建敏\*（中国农业大学动物科技学院，北京100193）
+
+摘要：畜禽肠道健康的调控已成为当今畜牧业中的关注重点问题。阿拉伯木聚糖（AX)和阿拉伯低聚木糖(AXOS)作为新型的益生元，其对双歧杆菌等益生菌的增殖效果优于低聚果糖等益生元。此外，与低聚果糖等益生元相比，AX 和 AXOS 能够进入肠道后段进行发酵，生成非支链的短链脂肪酸，并抑制蛋白质的发酵，减少有毒物质（苯酚、氨等）的生成，从而有效地调节后肠段（结肠和盲肠）的健康。不同结构的AX和AXOS具有不同的益生功能，且AX 和 AXOS 间存在协同增效的益生作用。本文综述了近年来关于 AX 和AXOS 的益生功能的研究进展，为其在畜牧业中的应用提供一定的理论依据和指导。
+
+关键词：阿拉伯木聚糖；阿拉伯低聚木糖；益生功能；肠道健康
+
+1中图分类号：S816.7 文献标识码：A 文章编号：
+
+随着畜禽产品安全问题越来越受到关注，抗生素等药物的使用越来越受到限制，因而研发新的调节畜禽肠道健康的抗生素替代品显得越来越重要。阿拉伯木聚糖（arabinoxylanAX)和阿拉伯低聚木糖（arabinoxylan oligosaccharides，AXOS)作为一种新型的益生元，可以特异性地促进益生菌的增殖，尤其是对双歧杆菌的增殖作用，其效果显著优于果寡糖[1]。近年来的研究表明,AXOS 和AX对乳酸菌[2]和芽孢杆菌[3]的促生长作用同样优于果寡糖和葡萄糖。此外，AX、AXOS 较果寡糖等低聚糖而言，更易进入肠道后段进行发酵，从而能更有效地调节后肠段的健康[4]。同低聚果糖相比，低聚木糖（xylo oligosaccharides,XOS）还具有降低蛋白质发酵产生的有毒物质引起的结肠DNA损伤的作用[5]。因而，AX、AXOS的益生功能的研究成为了近几年的研究热点。
+
+AXOS 为AX的酶解产物，因木聚糖来源和木聚糖酶的酶学特性的不同而有所差异，其产物可以为AXOS、XOS和 阿魏酸低 聚木糖（feruloylated arabinoxylanoligosaccharides,FXOS）等低聚糖以及木糖、阿魏酸等支链水解产物，这些低聚糖和支链水解产物进一步而发挥不同的益生和生理作用。
+
+目前，关于 AX、AXOS 的研究主要还集中在其应用层面上，其结构和功能的关系还不清楚，且对细菌体内的代谢机理缺乏相关报道。本文从木聚糖酶的酶学特性、AX 及其酶解产物结构和功能的关系以及微生物对AX、AXOS 的代谢3个方面来介绍AX、AXOS的益生功能的研究进展，为其在生产中的研发和应用提供一定的理论依据和指导。
+
+# 1AX的结构与功能
+
+# 1.1 AX的结构
+
+木聚糖是植物细胞壁的重要组成成分，连接细胞壁中的木质素和纤维素，是最主要的半纤维素，也是自然界中第2丰富的可再生物质，并广泛存在于硬木（ $1 5 \% { \sim } 3 0 \%$ ）、软木（ $7 \% \mathrm { - } 1 0 \%$ ）和草本类植物中（低于 $30 \%$ ）。木聚糖的主链由木糖经 $\beta$ -1,4-糖苷键连接而成，而其支链结构由于来源的不同而有所差异。如谷物类饲料中（小麦、玉米和燕麦)发热木聚糖的存在形式主要为 AX，即主要的支链结构为阿拉伯糖取代基；而来源于硬木（桦木、榉木等）的木聚糖的支链结构则主要为乙酰基、葡萄糖醛酸等。阿拉伯糖主要在主链的C2或C3位置进行双取代或单取代，而乙酰基主要在C3位置进行单取代[7]。除这2 种侧链取代基外，木聚糖的支链结构都还含包括多种支链，如阿魏酸、葡萄糖醛酸、 $p -$ 香豆素等[8]。
+
+不同来源的AX[]和来源于同一种类、但不同组织的 $\mathrm { A X } ^ { [ 1 0 ] }$ 的结构都不一样，表现在聚合度（average degree of polymerization,avDP）的不同和侧链取代程度的不同（average degreeof arabinose substitution,avDAS）以及支链取代基的不同。avDP 和 avDAS 这2个指标常常用于描述AX及其酶解产物AXOS 的结构特征。因而不同酶学性质的木聚糖酶分解 AX 后的产物也不同。这些结构不同的产物都可以不同程度地影响肠道微生物发酵[11-13]。根据溶解性，AX可分为可溶型（waterextractable,WE-AX）和不可溶型(water-unextractable,WU-AX)。二者的支链结构组成相似，但WU-AX的聚合度和阿拉伯侧链取代程度高于WE-AX[14]。此外，阿魏酸在WU-AX 结构的形成中发挥了重要作用[15]。在大多数植物中，AX的主要存在形式为WU-AX[15]。
+
+# 1.2AX 的益生功能
+
+在人的研究营养研究中，AX 被认为是一种益生元[16]，表现在可以促进人肠道中益生菌的增殖[1]，并具有降低血液中甘油三酯含量的作用[17]。然而在畜禽营养研究中，AX 确被认为是一种抗营养因子，尤其是对于单胃动物而言。AX在弱碱性的条件下黏度会增大，因而在畜禽肠道中会形成黏性食靡，从而降低饲料养分的消化率[18]。未消化的养分为致病菌的增殖提供了充足的营养，并可能引起如产气夹膜梭菌等病原菌的大量增殖，进而引发畜禽患坏死性肠炎等肠道疾病[19-20]。因而，当前在小麦型饲粮中添加木聚糖酶已成为一种较为普遍的做法。木聚糖酶能提高饲料的养分利用率从而影响畜禽的生长性能，并影响肠道微生物区系，表现在提高肠道益生菌的数量[21-22]，并减少病原菌的数量[23-24]。然而对于不同单胃动物而言，AX 的抗营养作用也具有不确定性，如 Damen 等[1的研究表明，AX可以促进大鼠结肠罗氏菌属的数量，这可能与AX的添加量以及其结构有关。
+
+谷物饲料中的大部分WU-AX在通过整个肠道时不被降解，因而WU-AX同其他不可溶性纤维一样，可以增加大鼠[25]、人[26]肠道内的食糜流通速度。虽然WU-AX很难被降解，但体外试验证明，其仍可以被发酵产生挥发性脂肪酸并促进益生菌的增殖[27]。不过,Hopkins等[28]进行体内试验发现，AX 不能促进双歧杆菌的增长，却可以促进拟杆菌的增长。而Hughes 等[29进行体外发酵时发现，高分子量的AX可以显著促进双歧杆菌的生长，但这种促进作用随着 AX 分子量的增大而降低。Damen 等[1发现，WE-AX、WU-AX 和 AXOS都可以显著降低大鼠盲肠的pH，并且促进结肠和盲肠的发酵。不同的研究结果之间存在差异可能是由于研究方法的不同，如体外试验和体内试验、单次发酵和单次发酵、单一菌种发酵和多种细菌发酵等。此外，AX 来源的不同、添加量和结构的差异都同样可能导致研究结果的差异（表1）。因此，关于AX益生功能的研究，在研究方法确定的情况下，需要着重集中在AX 的结构上。
+
+AX 之所以能被肠道微生物利用而增殖，主要原因是这些细菌含有与多糖利用相关的基因座（polysaccharide utilization loci,PULs），因而能够表达分解AX 等多糖相关的酶。细菌分解 AX 的能力与AX的结构密切相关，AX的avDP 值和avDAS 值都会影响细菌对AX 的利用[12]。目前只有卵形拟杆菌（Bacteroides ovatus）分解木聚糖的PULs得到了描述，它含有2个基因座，能够表达21种酶（图1）[30]。
+
+![](images/bc8119e624df1aa1f2d7a75af51a4dcaa8526ef7024d3e6a663b27f588383f28.jpg)  
+图1卵形拟杆菌的多糖水解酶家族
+
+OM：outer membrane 外膜；IM：inner membrane 内膜；GH:glycoside hydrolase 糖苷水解酶；CE：carbohydrate esterase 碳水化合物酯酶；Arabinoxylan：阿拉伯木聚糖；FeA：ferulic acid 阿魏酸；Ar：arabinose 阿拉伯糖；Galactose：半乳糖；Xylose：木糖；Ac：acetylgroup 乙酰基;GH上有 2 种颜色,代表可以水解2 种糖苷键 Two colors on theGHmean canhydrolyze 2 kinds of glucosidic bond。
+
+Fig.1Glycoside hydrolase family in Bacteroides ovatus[30]
+
+# 2AX 降解系统
+
+AX 的完全降解需要多种酶的协同作用才能完成[31]，主要包括内切型木聚糖酶(endo-1,4 $\cdot \beta$ -D-xylannase，EC3.3.1.8）、木糖苷酶(β-D-xylosidases，EC3.2.1.37)以及木聚糖支链分解酶，包括 $\scriptstyle { { \mathfrak { a } } - { \cal L } - }$ 阿拉伯呋喃糖苷酶（ $a \mathrm { - } L$ arabinofuranosidase，EC 3.2.1.55）、乙酰木聚糖酯酶（acetyxylan esterase,EC 3.1.1.72）和阿魏酸酯酶（ferulic acid esterase,EC3.1.1.73）等（图2）。其中内切型木聚糖酶主要随机作用于木聚糖的主链，将长链的木聚糖水解为短链的低聚木糖；木糖苷酶则属于外切酶，其作用是进一步将低聚木糖分解为木糖，也具有较弱的直接从木聚糖的非还原端分解木聚糖的能力；而支链酶则分解木聚糖侧链上的各种支链。氨基酸序列和空间结构的不同，决定了它们在水解木聚糖时的酶切位点存在差异性，因而根据水解糖苷键的不同，木聚糖酶可分为不同的糖苷水解酶（glycosidehydrolase,GH），如GH5、GH7和GH8等[32]，木聚糖的完全降解需要这些酶的协同作用[33]。不同菌源表达的木聚糖酶和支链酶有不同的酶学特性，表现为最适pH、等电点、米氏常数的不同[34]以及主链酶切位点的不同和支链酶切位点的不同[35]。木聚糖酶的添加可以使WU-AX的分子质量减小，从而向WE-AX转变，并可以进一步降解为AXOS[36]。
+
+$\beta$ -D-Xylopyranose: $\beta { - } D -$ 吡喃木糖； $\mathfrak { a }$ -4-Me-GlcUA: α-4-methyl-glucuronic acid $a { - } 4 -$   
+甲基-葡萄糖醛酸； $\mathfrak { a }$ Glucuronidase: $\mathfrak { a }$ -葡萄糖醛酸酶；Xylanase：木聚糖酶；Acetate：乙   
+酰基；Acetly xylan esterase：乙酰木聚糖酯酶； $\scriptstyle { \mathfrak { a } } - L .$ Arabinofuranosidase: $\mathrm { ~ } \simeq \mathrm { ~ } L -$ 阿拉伯呋喃   
+糖酶; $a { - } L$ Arabinofuranose: $\mathrm { ~ } \simeq \mathrm { ~ } L -$ 阿拉伯呋喃糖；Feruloyl esterase：阿魏酸酯酶;Lignin/xylan:   
+木质素/木聚糖;Ferulic acid:阿魏酸;GH:glycoside hydrolase 糖苷水解酶;CE:carbohydrate esterase 碳水化合物酯酶。
+
+![](images/721f9cc94d9db41a2f30acc3e3efa0ea1d80c76a72b76e6e7f3ef6bb833de775.jpg)  
+图2木聚糖酶降解系统及其酶切位点  
+Fig.2The cutting site of the xylanase degradation system[31]
+
+# 3 AXOS
+
+# 3.1 AXOS结构与功能
+
+在缺乏外源木聚糖降解酶时，AX 进入肠道后，可以在肠道内细菌分泌（主要为拟杆菌属）的木聚糖酶等降解酶的作用下，降解为低聚糖，并经相应的转运载体转移进入细菌后，被细菌内的酶进一步分解为单糖（如木糖和阿拉伯糖）后再进行利用（图3）[13]。AX、AXOS 的avDP 和avDAS 值的不同可以显著影响其发酵形式，从而影响其益生功能[12]。但是关于AX、AXOS 的结构和功能的研究，还存在一定的不一致性。一般认为，avDP 值越大，AXOS 和 XOS 的益生作用越小[37]。但是最近的研究表明，高avDP 值的AX 可以被类芽孢杆菌 JDR-2(Paenibacillus JDR-2)很好地利用，其利用效果优于葡萄糖[3]。对于avDAS值对 AX、AXOS 的功能的影响，同样存在一定的争议。如 Damen 等[认为 avDAS 值不影响 AX 的益生功能；而 Sharma 等[38]和 Rumpagaporn 等[39]的研究分别表明，avDAS 值可以影响 AX在体外和体内的发酵，且avDAS 值越大，AX越难被降解。通过添加支链分解酶后，这一阻碍作用降低，也证明了这一观点[。Rumpagaporn 等[39的研究同样表明，来源于水稻和高梁的AX较玉米和小麦源的AX具有更简单的支链结构，因而具有更快的发酵速度。除了AX的阿拉伯侧链取代程度可以影响AX和AXOS 的发酵外，阿魏酸侧链基团同样可以影响AX和AXOS 的发酵。阿魏酸基团越多，AX 和AXOS 相对更难发酵[40]。因而对于AX、AXOS 的益生功能的研究，除了avDP 和avDAS 这2个指标外，需要更注重研究其细微结构。
+
+# 3.2 AXOS的代谢与利用
+
+AXOS 和 XOS 被微生物发酵后，其发酵产物是非支链的短链脂肪酸（unbranched shortchain fatty acid,USCFA）。USCFA可以降低肠道的pH、抑制病原菌的生长，其中的丁酸可以作为结肠细胞的能量来源，刺激结肠上皮细胞的生长[41l，并具有抑制结肠肿瘤细胞生长的作用[42]；同时，发酵产生的乙酸和丙酸被吸收后分别参与机体的脂代谢和糖代谢[43]。Duncan 等[44]和Geboes等[45]的研究表明，结肠中的乙酸还可以提高罗斯氏菌属（Roseburiaspp）和柔嫩梭菌（Faecalibacterium prausnitzii）发酵产物中丁酸的含量。此外，低聚糖在后肠的发酵，还可以抑制蛋白质在后肠的分解[46]，减少有毒物质的生成，从而降低后肠发病的风险[47]。异丁酸和异戊酸常用来衡量蛋白质在肠道的发酵程度[48-49]。而 AX和 AXOS由于其结构特殊性，与低聚果糖等益生元相比，其在前肠降解不完全，从而更易进而后肠发酵。因而高avDP 值和avDAS 值的AX及AXOS，能更有效地调控后肠健康[4]。
+
+![](images/f061b011feb1671af8f225151400f3bdfd0ba9b5b202a0e7543a4000c4536801.jpg)  
+图3AX、AXOS 和 XOS 在肠道内的代谢过程
+
+Fig.3The metabolic progress of AX,AXOS and XOS in the gut[13]
+
+T rr eeeesgo sialsls bnried es [1qe   
+
+<html><body><table><tr><td rowspan="2">试验物质 Test compound</td><td rowspan="2">试验方式 Test mode</td><td rowspan="2">试验对象 Test species</td><td rowspan="2">试验结果</td><td rowspan="2">物质结构 Material structure</td><td rowspan="2">物质来源 Source</td><td rowspan="2">使用方法 Method of application</td><td rowspan="2">参考文献 Reference</td></tr><tr><td>Test result</td></tr><tr><td rowspan="4">阿拉伯木聚糖 AX</td><td>体内</td><td>人</td><td>对人粪便中的细菌组成无影响</td><td>不确定</td><td>玉米皮</td><td>6.1 g/d，口服持 续10d</td><td>Falck 等[50]</td></tr><tr><td>体外</td><td>双歧杆菌 短乳杆菌</td><td>2 种 AX对细菌增殖均无促进作用</td><td>不确定</td><td>桦木 黑麦</td><td>单次发酵48 h</td><td>Pollet 等[51]</td></tr><tr><td>体内</td><td>大鼠</td><td>WU-AX增加结肠罗氏杆菌的数量以及丁酸 含量</td><td>avDAP=28; avDAS=0.59</td><td>麦麸</td><td>5%添加量，饲 喂14d</td><td>Damen 等 [11]</td></tr><tr><td>体外</td><td>人结肠液</td><td>发酵产生非支链的 SCFA，avDAP、avDAS 值越小，发酵强度越大</td><td>00)； avDAS(0.14</td><td>麦麸</td><td>单次48h发酵</td><td>Cloetens 等 [52]</td></tr><tr><td rowspan="4">阿拉伯低木聚 糖AXOS</td><td>体内</td><td>大鼠</td><td>增加结肠双歧杆菌的数量，降低pH，抑制 蛋白质的发酵</td><td>avDP=5; avDAS=0.24</td><td>麦麸</td><td>5%添加量，饲 喂14d</td><td>Damen 等 [11]</td></tr><tr><td>体内</td><td>鸡</td><td>增加盲肠双歧杆菌数量</td><td>avDP=9; avDAS=0.34</td><td>麦麸</td><td>0.17%添加量， 饲喂14d</td><td>Geraylou 等[53]</td></tr><tr><td>体内</td><td>鲟鱼</td><td>增加后肠中乳酸菌属和梭菌属的数量以及 SCFA的含量</td><td>avDP=32; avDAS=0.3</td><td>麦麸</td><td>2%添加量，饲 喂14d</td><td>Lecerf等 [54]</td></tr><tr><td>体内</td><td>人</td><td>增加粪便中双歧杆菌的数量和丁酸的含量， 减少乙酸和甲酚的含量</td><td>不确定</td><td>麦麸</td><td>5 g/d，口服持 续28d</td><td>Campbell 等[55]</td></tr><tr><td rowspan="2">低木聚糖 XOS</td><td>体外</td><td>双歧杆菌 短乳杆菌</td><td>均能促进2种细菌的生长,且桦木源的XOS 对短乳杆菌的生长促进作用好</td><td>avDP(2~5)</td><td>桦木 黑麦</td><td>单次发酵48 h</td><td>Pollet等[51]</td></tr><tr><td>体内</td><td>大鼠</td><td>增加盲肠 SCFA 和双歧杆菌的数量，降低盲 肠pH值</td><td>avDP(2~4)</td><td>桦木</td><td>6%添加量,饲 喂14d</td><td>Campbell 等[55]</td></tr></table></body></html>
+
+SOX  SOX X
+
+许多慢性的结肠疾病（如结肠癌）往往始于结肠后段病变[3]。低聚果糖等益生元，往往在肠道前段就被降解了，很少能进入结肠后段发酵，因而不能够有效调节后结肠的健康[4]。低avDP 值的 AXOS 和 XOS 同样在结肠前段就被分解掉了，其很少进入后段发酵[5];而高avDP 值的 AXOS、XOS 以及AX 则可以进入后肠被微生物利用，从而抑制结肠后段微生物对蛋白质的分解作用，减少相关有毒物质的产生，有利于后肠段的健康[51]。
+
+AX、AXOS 间还表现出一定的协同作用。与单独添加WU-AX 相比，用AXOS 替代部分WU-AX可以通过提高老鼠体内罗氏菌属的活性[43],从而提高老鼠结肠丁酸的含量[1]。用 AXOS 替代部分WE-AX后，可以延长WE-AX的益生功能，使其在结肠后段也能发挥作用[12]，从而显著减少结肠后段支链短链脂肪酸的生成，并提高双歧杆菌的数量[]。此外，WU-AX、WE-AX、AXOS 的同时添加能在不提高盲肠细菌总数的情况下，提高盲肠中双歧杆菌和罗氏菌属的数量；同时提高结-盲肠中丁酸和总短链脂肪酸的含量，并降低支链脂肪酸的含量[]。因此，通过组合不同结构的 AX、AXOS，可以进一步提高其益生功能。而这种组合效应同样也可以指导其余低聚糖与AX、AXOS（XOS）的配伍使用，如通过组合菊粉和 XOS 同样能起到协同益生的效果[54]。
+
+# 4小结
+
+随着抗生素的使用越来越严格，因此畜禽的肠道健康调控是未来养殖业的关注重点。而肠道微生物对于肠道健康的维持起着重要作用。AX和AXOS 作为一种新型的益生元，相较于在饲粮中直接添加各种益生菌，其对畜禽肠道微生物的调节属于非侵虐性的调节，具有很好的安全性，可以提高畜禽肠道益生菌的数量并降低有害菌的数量。但由于 AX、AXOS 结构的复杂性，其结构和功能的关系还不确定。因此，未来的研究需重点关注其结构，尤其是细微结构的分析上。当前关于AX以及AXOS 的研究主要集中在人和鼠上，而在畜禽上的研究报道还相对较少。与人、鼠以及鱼等模式动物相比，家禽缺乏发达的结肠结构。而不同物种间生理结构的差异，可能会导致AX以及AXOS 的应用效果产生差异。因此，关于 AX、AXOS 在畜禽上的应用，需要做更多的研究。此外，关于肠道微生物对AX、AXOS 的利用机理还缺乏相关报道。因此，采用新的信息分析手段（如微生物的转录组学、代谢组学等）来研究微生物对 AX和 AXOS 的代谢通路和机理，可以为其功能的研究和实际应用提供更多的理论依据和指导。
+
+# 参考文献：
+
+[1]HSU C K,LIAO J W,CHUNG Y C,et al.Xylooligosaccharides and fructooligosaccharides affect the intestinal microbiota and precancerous colonic lesion development in rats[J].The Journal of Nutrition,2004,134(6):1523-1528.
+
+[2] LEI Z,SHAO Y X,YIN X N,et al.Combination of xylanase and debranching enzymes specific to wheat arabinoxylan improve the growth performance and gut health of broilers[J].Journal of Agricultural and Food Chemistry,2016,64(24):4932-4942.
+
+[3]SAWHNEY N,CROOKS C,JOHN F S,et al.Transcriptomic analysis of xylan utilization systems in Paenibacillus sp. Strain JDR-2[J].Applied and Environmental Microbiology,2015,81(4):1490-1501.
+
+[4]GROOTAERT C,VAN DEN ABBEELE P,MARZORATI M.Comparison of prebiotic effects of arabinoxylan oligosaccharides and inulin in a simulator of the human intestinal microbial Ecosystem[J].Federation of European,2009,69(2):231-242.
+
+[5]CHRISTOPHERSEN C T,PETERSEN A,LICHT TR,et al.Xylo-oligosaccharides and inulin affect genotoxicity and bacterial populations differently in a human colonic simulator challenged with soy protein[J].Nutrients,2013,5(9):3740-3756.
+
+[6]ZHENG F,HUANG J X,YIN Y H.A novel neutral xylanase with high SDS resistance from Volvariella volvacea:characterization and its synergistic hydrolysis of wheat bran with acetyl xylan esterase[J].Journal of Industrial Microbiology & Biotechnology,2013,40(10):1083-1093.
+
+[7]KORMELINK F J M,VORAGEN A G J.Degradation of different [(glucurono） arabino] xylans by a combination of purified xylan-degrading enzymes[J].Applied Microbiology and Biotechnology,1993,38(5):688-695.
+
+[8] GRUPPEN H,HAMER R J,VORAGEN A G J.Water-unextractable cell wall material from wheatflour.2.Fractionationofalkali-extractedpolymersandcomparison with water-extractable arabinoxylans[J].Journal of Cereal Science,1992,16(1):53-67.
+
+[9]SAULNIER L,MAROT C,CHANLIAUD E,et al.Cell wall polysaccharide interactions in maize bran[J].Carbohydrate Polymers,1995,26(4):279-287.
+
+[10]SAULNIER L,SADO P E,BRANLARD G,et al.Wheat arabinoxylans:exploiting variation in amount and composition to develop enhanced varieties[J].Journal of Cereal
+
+Science,2007,46(3):261-281.
+
+[11]DAMEN B,JORAN V,POLLET A,et al.Prebiotic effects and intestinal fermentation of cereal arabinoxylans and arabinoxylan oligosaccharides in rats depend strongly on their structural properties and joint presence[J].Molecular Nutrition & Food Research,2011,55(12):1862-1874.
+
+[12]VAN CRAEYVELD V,SWENNEN K,DORNEZ E,et al.Structurally different wheat-derived arabinoxylooligosaccharides have different prebiotic and fermentation properties in rats[J].The Journal of Nutrition,2008,138(12):2348-2355.
+
+[13] BROEKAERT WF,COURTIN CM,VERBEKE K,etal.Prebiotic and other health-related effects of cereal-derived arabinoxylans,arabinoxylan-oligosaccharides,and xylooligosaccharides[J].Critical Reviews in Food Science and Nutrition,2011,51(2):178-194.
+
+[14] ORDAZ-ORTIZ JJ,SAULNIER L.Structural variability of arabinoxylans from wheat flour.Comparison of water-extractable and xylanase-extractable arabinoxylans[J].Journal of Cereal Science,2005,42(1):119-125.
+
+[15]IZYDORCZYK M S,BILIADERIS C G.Cereal arabinoxylans:advances in structure and physicochemical properties[J].Carbohydrate Polymers,1995,28(1):33-48.
+
+[16]NEYRINCK A M,POSSEMIERS S,DRUART C,et al.Prebiotic effects of wheat arabinoxylan related to the increase in Bifidobacteria,Roseburia and Bacteroides/Prevotella in diet-induced obese mice[J].PLoS One,2011,6(6):e20944.
+
+[17] GARCIA A L,STEINIGER J,REICH S C,et al.Arabinoxylan fibre consumption improved glucose metabolism,but did not affect serum adipokines in subjects with impaired glucose tolerance[J].Hormone and Metabolic Research,2006,38(11):761-766.
+
+[18] CHOCT M,HUGHES R J,WANG J,et al.Increased small intestinal fermentation is partly responsible for the anti-nutritive activity of non-starch polysaccharides in chickens[J].British Poultry Science,1996,37(3):609-621.
+
+[19]KALDHUSDAL M,SKJERVE E.Association between cereal contents in the diet and incidence of necrotic enteritis in broiler chickens in Norway[J].Preventive Veterinary Medicine,1996,28(1):1-16.
+
+[20]JIA W,SLOMINSKI B A,BRUCE HL,et al.Effects of diet type and enzyme addition on growth performance and gut health of broiler chickens during subclinical Clostridium
+
+perfringenschallenge[J].Poultry Science,2009,88(1):132-140.
+
+[21]KIARIE E,NYACHOTI C M,SLOMINSKI B A,et al.Growth performance,gastrointestinal microbial activity,and nutrient digestibility in early-weaned pigs fed diets containing flaxseed and carbohydrase enzyme[J].Journal of Animal Science,2007,85(11):2982-2993.
+
+[22]COURTIN C M,BROEKAERT WF,SWENNEN K,et al.Dietary inclusion of wheat bran arabinoxylooligosaccharides induces beneficial nutritional effects in chickens[J].Cereal Chemistry,2008,85(5):607-613.
+
+[23]ROSIN E A,BLANK G,SLOMINSKI B A,et al.Enzyme supplements in broiler chicken diets:in vitro and in vivo effects on bacterial growth[J].Journal of Science and Food Agriculture,2007,87:1009-1020.
+
+[24]JOZEFIAK D,RUTKOWSKI A,KACZMAREK S,et al.Effect of $\beta$ -glucanase and xylanase supplementation of barley-and rye-based diets on caecal microbiota of broiler chickens[J].British Poultry Science,2010,51(4):546-557.
+
+[25]LU Z X,GIBSON P R,MUIR JG,et al.Arabinoxylan fiber from a by-product of wheat flour processing behaves physiologically like a soluble,fermentable fiber in the large bowel of rats[J].Journal of Nutrition,2000,130(8):1984-1990.
+
+[26]LU Z X,WALKER K Z,MUIR J G,et al.Arabinoxylan fibre improves metabolic control in people with TypeIIdiabetes[J].European Journal of Clinical Nutrition,2OO4,58(4):621-628.
+
+[27] VARDAKOU M,PALOP C N,GASSON M,et al.In vitro three-stage continuous fermentation of wheat arabinoxylan fractions and induction of hydrolase activity by the gut microflora[J].International Journal of Biological Macromolecules,2Oo7,41(5):584-589.
+
+[28]HOPKINS M J,ENGLYST H N,MACFARLANE S,et al.Degradation of cross-linked and non-cross-linked arabinoxylans by the intestinal microbiota in children[J].Applied and Environmental Microbiology,2003,69(11):6354-6360.
+
+[29] HUGHES S A,SHEWRY PR,LI L,et al.In vitro fermentation by human fecal microflora of wheat arabinoxylans[J].Journal of Agricultural and Food Chemistry,2007,55(11):4589-4595.
+
+[30]KOROPATKIN N M,CAMERON E A,MARTENS E C,et al.How glycan metabolism shapes the human gut microbiota[J].Nature Reviews Microbiology,2012,10(5):323-335.
+
+[31]COLLINS T,GERDAY C,FELLER G.Xylanases,xylanase families and extremophilic xylanases[J].FEMS Microbiology Reviews,2005,29(1):3-23.
+
+[32] COUGHLAN MP,HAZLEWOOD G P.β-1,4-D-xylan-degrading enzyme systems:biochemistry,molecular biology and applications[J].Biotechnology and Applied Biochemistry,1993,17:259-289.
+
+[33]BASTAWDE K B.Xylan structure,microbial xylanases,and their mode of action[J].World Journal of Microbiology & Biotechnology,1992,8(4):353-368.
+
+[34]POLLET A,DELCOUR J A,COURTIN C M.Structural determinants of the substrate specificities of xylanases from different glycoside hydrolase families[J].Critical Reviews in Biotechnology,2010,30(3):176-191.
+
+[35]DAMEN B,POLLET A,DORNEZ E,et al.Xylanase-mediated in situ production of arabinoxylan oligosaccharides with prebiotic potential in whole meal breads and breads enriched with arabinoxylan rich materials[J].Food Chemistry,2O11,131(1):111-118.
+
+[36]KARPPINEN S,KIILIAINEN K,LIUKKONEN K,et al.Extraction and in vitro fermentation of rye bran fractions[J].Journal of Cereal Science,2O01,34(3):269-278.
+
+[37]GLITSO L V,GRUPPEN H,SCHOLS H A,et al.Degradation of rye arabinoxylans in the large intestine of pigs[J].Journal of the Science of Food and Agriculture,1999,79(7):961-969.
+
+[38]SHARMA V K,VASUDEVA R,HOWDEN C W.Changes in colorectal cancer over a 15-year period in a single United States city[J].The American Journal of Gastroenterol,2000,95(12):3615-3619.
+
+[39]RUMPAGAPORN P,REUHS B L,KAUR A,et al.Structural features of soluble cereal arabinoxylan fibers associated with a slow rate of in vitro fermentation by human fecal microbiota[J].Carbohydrate Polymers,2015,130:191-197.
+
+[40]SNELDERS J,OLAERTS H,DORNEZ E,et al.Structural features and feruloylation modulate the fermentability and evolution of antioxidant properties of arabinoxylanoligosaccharides during in vitro fermentation by human gut derived microbiota[J].Journal of Functional Foods,2O14,1O:1-12.
+
+[41]HAMER HM,JONKERS D,VENEMA K,et al.Review article:the role of butyrate on colonic function[J].Alimentary Pharmacology & Therapeutics,20o8,27(2):104-119.
+
+[42]ROMBEAU JL,KRIPKE S A.Metabolic and intestinal effects of short-chain fatty acids[J].Journal of Parenteral and Enteral Nutrition,199O,14(5 S):181S-185S.
+
+[43]DUNCAN S H,BARCENILLA A,STEWART C,et al.Acetate utilization and butyryl coenzyme A (CoA):acetate-CoA transferase in butyrate-producing bacteria from the human large intestine[J].Applied and Environmental Microbiology,2002,68(1O):5186-5190.
+
+[44]DUNCAN S H,HOLTROP GLOBLEY G E,et al.Contribution of acetate to butyrate formation by human faecal bacteria[J].The British Journal of Nutrition,2OO4,91(6):915-923 [45] GEBOESKP,DE PRETERV,LUYPAERTS A,et al.Validation of lactose $[ ^ { 1 5 } \mathrm { N } , ^ { 1 5 } \mathrm { N } ]$ ureide asa tool to study colonic nitrogen metabolism[J].America Journal of Physiology Gastrointestinal Liver Physiology,2005,288(5):G994-G999.
+
+[46] DE PRETER V,GEBOES K,VERBRUGGHE K,et al.The in vivo use of the stable isotope-labelled biomarkers lactose- $[ ^ { 1 5 } \mathrm { N } ]$ ureide and $[ ^ { 2 } \mathrm { H } 4 ]$ tyrosine to assess the effects of pro-and prebiotics on the intestinal flora of healthy human volunteers[J].The British Journal of Nutrition,2004,92(3):439-446.
+
+[47]JOHNSON K A.The Production of secondary amines by the human gut bacteria and its possible relevance to carcinogenesis[J].Medical Laboratory Science,1977,34(2):131-143.
+
+[48]MORTENSENPB,CLAUSEN MR,BONNEN H,et al.Colonic fermentation of ispaghula,wheat bran,glucose,and albumin to short-chain fatty acids and ammonia evaluated in vitro in 50 subjects[J].Journal of Parenteral and Enteral Nutrition,1992,16(5):433-439.
+
+[49]SHARMA N,RAMACHANDRAN S,BOWERS M,et al.Multiple factors other than p53 influence colon cancer sensitivity to paclitaxel[J].Cancer Chemotherapy & Pharmacology,2000,46(4):329-337.
+
+[50]FALCK P,PRECHA-ATSAWANAN S,GREY C.et al.Xylooligosaccharides from hardwood and cereal xylans produced by a thermostable xylanase as carbon sources for Lactobacillus brevis and Bifidobacterium adolescentis[J].Journal of Agricultural and Food Chemistry,2013,61(30):7333-7340.
+
+[51]POLLET A,VAN CRAEYVELD V,VAN DE WIELE T,et al.In vitro fermentation of arabinoxylan oligosaccharides and low molecular mass arabinoxylans with different structural properties from wheat (Triticum aestivum L.) bran and psyllium (Plantago ovata Forsk) seed husk[J].Journal of Agricultural and Food Chemistry,2012,60(4):946-954.
+
+[52]CLOETENSL,BROEKAERTWF,DELAEDTY,etal.Tolerance of arabinoxylan-oligosaccharides and their prebiotic activity in healthy subjects:a randomised,placebo-controlled cross-over study[J].British Journal of Nutriti0n,2013,103(5):703-713.
+
+[53]GERAYLOU Z,SOUFFREAU C,RURANGWA E,et al.Effects of arabinoxylan-oligosaccharides (AXOS) on juvenile Siberian sturgeon (Acipenser baerii) performance,immune responses and gastrointestinal microbial community[J].Fish & Shellfish Immunology,2012,33(4):718-724.
+
+[54]LECERF JM,DEPEINT F,CLERC E,et al.ylo-oligosaccharide (XOS) in combination with inulin modulates both the intestinal environment and immune status in healthy subjects,while XOS alone only shows prebiotic properties[J].The British Journal of Nutrition,2012,108(10):1847-1858.
+
+[55] CAMPBELL JM,FAHEY G C,Jr,WOLFB W.Selected indigestible oligosaccharides affect large bowel mass,cecal and fecal short-chain fatty acids,pH and microflora in rats[J].The Journal of Nutrition,1997,127(1):130-136.
+
+Research Progress on Prebiotic Effects of Arabinoxylan and Arabinoxylan Oligosaccharides LEI Zhao YIN Dafei YUAN Jianmin\*
+
+(College of Animal Science, China Agricultural University, Beijing 1OO193, China)
+
+Abstract: The research on regulation of gut health of livestock has been focused on in recent years. As novel prebiotics,arabinoxylan (AX) and arabinoxylan oligosaccharides (AXOS） show better proliferation effectson Bifidobacterium than fructooligosaccharides and other oligosaccharides.Besides,AX and AXOS can effciently regulate the health of hindgut (colon and cecum) via fermentation in the hindgut to produce non-branched short chain fatty acids and inhibit protein fermentation to lower the production of toxic substance (phenol, ammonia and so on). Structural differently AX and AXOS have different fermentation properties and can produce synergistic effect. This paper reviewed the research progress of prebiotic effects of AX and AXOS in recent years, which provides a theoretical basis and instruction for their application in livestock industry.
+
+Key words: arabinoxylan; arabinoxylan oligosaccharides; prebiotic effects; gut health i

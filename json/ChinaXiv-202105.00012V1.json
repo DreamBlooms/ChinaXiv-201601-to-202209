@@ -1,0 +1,321 @@
+[
+    {
+        "type": "text",
+        "text": "嫦娥四号低频射电频谱仪2C数据对宇宙黑暗时代的探测能力分析\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "焦 康¹，王明远²，张同杰，黄茂海²，平劲松²(1北京师范大学 天文系，北京 100875;2 中国科学院 国家天文台，北京 100012)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：嫦娥四号着陆器搭载的低频射电频谱仪已成功开展观测，每月把观测数据回传到地面，并且把经过一定的预处理后的 2C 级别的频谱数据释放给了科学团队。本文旨在评估该级别数据是否满足探测宇宙黑暗时代21cm整体谱的要求。我们对生成的2C 级别数据进行了长时间积分，并对银河系前景射电辐射被着陆器接收进行了模拟仿真。通过对两套数据进行比对分析，发现2C数据被减弱 $4 0 { - } 5 0 ~ \\mathrm { d B }$ ，几乎不包含银河系前景的远场辐射信号，这种大幅度的减弱进而影响到了该载荷对宇宙黑暗时代的探测能力。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：低频射电频谱仪；嫦娥四号；黑暗时代;",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：P161文献标识码： 文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1．引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "现代宇宙学中，基于对宇宙微波背景辐射(Cosmic Microwave Background，CMB)温度图中的小扰动的观测，我们建立了宇宙大尺度结构形成的理论。但是对于从CMB 最后散射面$( z { \\sim } 1 1 0 0 )$ 到宇宙完全电离 $( z { \\sim } 6 )$ 这段漫长宇宙演化历史，很多理论尚未经过观测上的验证。一般认为，从最后散射面到宇宙中最早的发光天体-第一代恒星形成 $( z { \\sim } 3 0 )$ ）之前，宇宙处于完全透明的“黑暗时代”(Dark Ages,DA)。第一代恒星产生之后，宇宙黎明(Cosmic Dawn，CD)开始，期间第一代恒星产生的辐射显著改变了宇宙的辐射背景，气体的电离度和温度等。之后，随着第一代星系的批量形成 $( z { \\sim } 1 5 )$ ，再电离时期(Epoch of Reionization，EoR)开始。在星系和类星体等发出的电离光子的驱动下，IGM 被快速电离和加热。一直到 $z { \\sim } 6$ 左右，几乎所有的星系际介质（Intergalactic Medium，IGM）再次回到电离状态，宇宙中残余的 HI 主要在星系内部，EoR 结束。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "对于DA、CD 和 EoR的观测是低频射电天文研究的重要内容，在过去的二十年里，地基低频射电天文学的研究主要在30MHz以上。在该频率以下，无线电波受到电离层影响而严重畸变，在10MHz以下则几乎完全被反射。因而，对于理论上位于30MHz以下的 DA 吸收谷的观测，几乎只能通过空间射电望远镜进行观测。月球的背面为射电天文观测提供了一个独特的射电静谧区，它不受地面射频干扰，且电离层非常薄。作为空间低频射电天文的探路者，搭载于嫦娥四号着陆器的低频射电频谱仪（Low Frequency Radio Spectrometer,LFRS）已于2019年1月3日成功着陆，并观测了首批数据。本文将评估其2C级数据对于DA 信号的探测能力。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文第2节简要介绍了21cm 信号的理论基础；第3节简要介绍了前景辐射的理论模型;第4节由2C数据基线功率频谱得到亮温度频谱，并从数量级上将其与信号和前景进行比较，并在第5节给出结论。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2．21cm 整体谱 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中性氢原子HI存在电子自旋与核自旋平行(0能级)与反平行（1能级）的超级细能级结构，能级跃迁会吸收或辐射 $2 1 \\mathrm { c m }$ 波长谱线，我们定义 $T _ { * } \\equiv h c / k _ { \\mathrm { B } } \\lambda _ { 2 1 \\mathrm { c m } } = 0 . 0 6 8 \\mathrm { K }$ ，两个能级氢原子的数密度比可由中性氢的自旋温度 $T _ { S }$ 来描述，即",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nn _ { 1 } / n _ { 0 } = ( g _ { 1 } / g _ { 0 } ) \\mathrm { e x p } ( - T _ { * } / T _ { S } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其统计简并度比 $g _ { 1 } / g _ { 0 } = 3$ 。根据辐射转移理论，我们可以得到 $2 1 \\mathrm { c m }$ 线微分亮温度",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\delta T _ { b } = \\frac { T _ { S } - T _ { R } } { 1 + z } ( 1 - e ^ { - \\tau _ { v } } ) } \\\\ & { ~ \\approx \\frac { T _ { S } - T _ { R } } { 1 + z } \\tau } \\\\ & { ~ \\approx 2 1 x _ { \\mathrm { H I } } ( 1 + \\delta _ { b } ) ( \\frac { \\Omega _ { b } h ^ { 2 } } { 0 . 0 2 3 } ) ( \\frac { 0 . 1 5 } { \\Omega _ { m } h ^ { 2 } } \\frac { 1 + z } { 1 0 } ) ^ { 1 / 2 } ( \\frac { T _ { s } - T _ { R } } { T _ { s } } ) [ \\frac { \\partial _ { r } v _ { r } } { ( 1 + z ) H ( z ) } ] \\mathrm { m K } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $T _ { R }$ 为背景辐射温度， $\\tau _ { \\nu }$ 为谱线光深， $z$ 为宇宙学红移， $x _ { \\mathrm { H I } }$ 为中性氢电离度， $\\delta _ { b }$ 为重子密度涨落比分数， $\\Omega _ { b }$ 和 $\\Omega _ { m }$ 分别为重子物质与暗物质的密度参量， $H ( z )$ 为哈勃参量，约化哈勃参量 $h = H ( z ) / 1 0 0$ ， $\\partial _ { r } v _ { r }$ 为视线方向的速度梯度[]。只有当 $T _ { S }$ 偏离 $T _ { R }$ ，才存在可探测的$2 1 \\mathrm { c m }$ 信号，即当 $T _ { S } > T _ { R }$ 时表现为辐射，当 $T _ { S } < T _ { R }$ 表现为吸收。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自旋温度主要由三个物理过程共同决定：（1)从（向）背景辐射吸（辐射）21cm 光子；（2）与其他中性原子及电子的碰撞；（3）莱曼 $\\alpha$ 光子的共振散射导致通过中间激发态的自旋翻转。这些过程远快于退激发时间，所以通过平衡态方程可以近似给出自旋温度，",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { T _ { S } ^ { - 1 } = \\frac { T _ { \\gamma } ^ { - 1 } + x _ { \\alpha } T _ { \\alpha } ^ { - 1 } + x _ { c } T _ { K } ^ { - 1 } } { 1 + x _ { \\alpha } + x _ { c } } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $T _ { \\gamma }$ 为背景辐射温度，近似地 $T _ { \\gamma } = T _ { C M B }$ ； $T _ { c }$ 为莱曼 $\\alpha$ 辐射场色温度， $T _ { K }$ 为气体动力学温度； $x _ { \\alpha }$ 与 $x _ { c }$ 为相应过程的耦合系数。当总耦合系数 $x _ { \\mathrm { { t o t } } } \\equiv x _ { \\alpha } + x _ { c } \\gtrsim 1$ 时，自旋温度强耦合于气体温度，当 $x _ { \\mathrm { { t o t } } } \\ll 1$ 时则趋于背景辐射温度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从观测角度，背景辐射源主要有两类：CMB 或射电噪点源，后者对应于“21cm森林”的观测，这里我们主要讨论前者。当 $T _ { R } = T _ { C M B }$ 时， $2 1 \\mathrm { c m }$ 信号表现为CMB 黑体谱在射电波段的微小扰动。对 $2 1 \\mathrm { c m }$ 信号的观测分为两类，一类是考虑空间扰动的功率谱测量或成像测量，另一类则是对全天所有方向平均的整体谱测量，即测量",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\overline { { \\delta T _ { b } } } ( \\boldsymbol { \\mathsf { v } } ) = \\int \\mathrm { d } \\Omega \\delta T _ { b } ( \\hat { \\boldsymbol { r } } , \\boldsymbol { \\mathsf { v } } ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "功率谱的测量需要望远镜有足够的空间分辨率，通常需要由射电阵列来观测。通过嫦娥四号中继通讯卫星上搭载的中荷低频射电探测仪（Then Netherland-China Low FrequencyExplorer，NCLE）与LFRS 进行空间低频射电干涉测量[2]，我们有望探测到 21cm 信号的功率谱。而整体谱的观测则可通过单天线来实现，本文评估的便是LFRS 的2C 级数据对于宇宙DA 时期21cm信号整体谱的探测能力。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b154346011b76e1814f8da6ed4a476c385600b31af0877ff5c4346c7847dfef6.jpg",
+        "img_caption": [
+            "图1不同模型的 $2 1 \\mathrm { c m }$ 整体谱示例[6]",
+            "Fig.1 Examples of 2lcm global spectrum of different models "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "21cm信号蕴含着丰富的信息，它由宇宙学参数与天体物理学参数共同决定。考虑到IGM密度、电离状态和热状态的演化以及天体的形成，不同阶段的21cm 整体谱信号表现出不同的特征，不同模型（参数）的信号差异也较大。其理论值可由纯流体动力学模拟[3、半解析模拟4或基于神经网络的仿真器给出。图1给出不同模型下的 $2 1 \\mathrm { c m }$ 整体谱示例(详见参考文献)，横坐标分别为中性氢谱线的观测频率及其对应的宇宙学红移，纵坐标为21厘米线微分亮温度。图中的黑色虚线对应标准宇宙学模型，灰色区域是重子物质与暗物质的相互作用的参数化模型，阴影区域分别是与EDGES 观测结果一致的 $1 \\sigma$ 和 $2 \\sigma$ 置信区间，蓝色曲线假设早于标准模型的绝热冷却，红色曲线冷却更早且冷却率更低，紫色曲线假设冷却速率非单调下降，而是存在一个过冷却时期。现有模型普遍认为 $z > 3 0$ 存在DA 吸收谷， $3 0 >$ $z > 1 5$ 存在CD 吸收谷， $1 5 > z > 6$ 存在EoR发射线，信号大小为 $1 0 ^ { 1 } \\sim 1 0 ^ { 2 } \\mathrm { m K }$ 量级。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3．前景辐射 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "21cm 信号观测充满挑战，主要在于将微弱的信号从高于其数个量级的前景辐射中分离出来。在低频射电波段，银河系的同步辐射占主导前景辐射，一个合理的亮温度模型近似为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { T _ { \\mathrm { s y n } } ( \\mathsf { v } ) = A _ { \\mathrm { s y n } } ( \\frac { \\mathsf { v } } { \\mathsf { v } _ { 0 } } ) ^ { - \\alpha _ { \\mathrm { s y n } } - \\Delta \\alpha _ { \\mathrm { s y n } } \\ln { ( \\mathsf { v } / \\mathsf { v } _ { 0 } ) } } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中v为观测频率，谱指数 $\\alpha _ { \\mathrm { s y n } } \\approx 2 . 8$ ，谱指数跑动 $\\Delta \\alpha _ { \\mathrm { { s y n } } } \\approx 0 . 1$ ， $\\nu _ { 0 }$ 是（任意的）中心频率，其与特定频率的总体振幅简并[8]。当 $\\mathsf { v } _ { 0 } = 1 5 0 \\mathrm { M H z }$ 时， $A _ { \\mathrm { s y n } } = 3 3 5 . 4 \\mathrm { K }$ 。银河系的自由-自",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由辐射（在 $1 5 0 \\mathrm { M H z }$ 处约占总体前景辐射的 $1 \\%$ )，我们同样采用跑动幂率谱来近似，",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { T _ { \\mathrm { f f } } (  { \\boldsymbol \\nu } ) = A _ { \\mathrm { f f } } ( \\frac {  { \\boldsymbol \\nu } } {  { \\boldsymbol \\nu } _ { 0 } } ) ^ { - \\alpha _ { \\mathrm { f f } } - \\Delta \\alpha _ { \\mathrm { f f } } \\mathrm { l n } (  { \\boldsymbol \\nu } /  { \\boldsymbol \\nu } _ { 0 } ) } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\alpha _ { \\mathrm { f f } } \\approx 2 . 1 5$ ， $\\Delta \\alpha _ { \\mathrm { { f f } } } \\approx 0 . 0 1$ ， $A _ { \\mathrm { f f } } = 3 3 . 5 \\mathrm { K }$ 。此外，明亮射电源、未知点源以及尘埃辐射等组成的前景污染同样不容忽视。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "然而，由于IGM在视线上的密度、电离状态和温度的不均匀性，21cm的信号在光谱上是高度变化的，而非热前景辐射光谱则是平滑的。这就为分离前景辐射与信号提供了便利，但前提是需要改正任何仪器效应造成前景扰动所带来的污染[9]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4．2C数据频谱",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2019 年1月3日嫦娥四号着陆器成功着陆月球背面南极-艾特肯盆地冯-卡门撞击坑。嫦娥四号着陆器搭载的低频射电频谱仪安装在着陆器顶板，包括四根接收天线、前置放大器和电子学单元。四根接收天线中，A、B、C三根天线互相正交且长度均为5米，D天线为长度 $2 0 \\ \\mathrm { c m }$ 的短天线。低频射电频谱仪的工作频率和频率分辨率为100 kHz－2 MHz（ $5 ~ \\mathrm { k H z }$ ）和 $1 \\mathrm { ~ - ~ } 4 0 ~ \\mathrm { M H z }$ （ $1 0 0 ~ \\mathrm { { k H z } }$ ）两个频段。在低频射电频谱仪的数据处理中，首先对四天线的原始电压观测量进行快速傅里叶变换，根据一定时间间隔内每根长天线与天线D频谱幅值间的比值确定对消系数，再以长天线频谱幅值减去天线D的频谱幅值乘以对消系数，得到 2C 观测数据[10]。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c98d630fd74cb118ac6c2f76eef02c22daef58ab2e32146eb1f0d8b791739117.jpg",
+        "img_caption": [
+            "图2低频射电频谱仪（LFRS）2C数据（2019年1-4月）基线频谱"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 The baseline spectrum of the Low Frequency Radio Spectrometer (LFRS） 2C data（Jan.-Apr. 2019) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在低频射电波段，辐射亮温度定义为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { T _ { b } = \\frac { I _ { v } } { 2 k _ { B } } \\frac { c ^ { 2 } } { v ^ { 2 } } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $k _ { B }$ 为玻尔兹曼常数， $\\boldsymbol { c }$ 为光速， $\\nu$ 为谱线频率。辐射强度由单位立体角的流量密度决定，即",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { I _ { \\mathrm { v } } = \\frac { S _ { \\mathrm { v } } } { \\mathrm { d } \\Omega } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据有效面积的定义[1]，我们可由谱功率 $P _ { \\nu }$ 得到总流量密度为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { S _ { v } = \\frac { 2 P _ { v } } { \\langle A _ { \\mathrm { e f f } } \\rangle } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中 $P _ { \\nu }$ 由每个频率通道的接收功率除以谱频率分辨率可得。对于所有的无损失天线，其平均有效接收面积均正比于波长入的平方[1]，即",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left. A _ { \\mathrm { e f f } } \\right. = \\frac { \\lambda ^ { 2 } } { 4 \\pi } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通常低频单机子天线在HF 频带的天线效率n取值动态范围 $1 0 \\% { \\sim } 8 0 \\%$ ，我们将2C数据基线功率频谱转化为亮温度频谱，即",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\overline { { T } } _ { b } = \\frac { 4 \\pi P _ { v } } { \\eta k _ { B } } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于上述过程，我们对2019年1月-4月的2C级别数据做了长时间积分，并分别给出A、B和C三根天线测量的亮温度频谱上下限。结果如图2中阴影区域所示，横纵坐标分别表示观测频率和亮温度。假设天线效率 $1 0 \\% { \\sim } 8 0 \\%$ ，给出A、B和C天线测量的亮温度上下限（阴影区域)，蓝色和橙色曲线为银河系同步辐射和自由-自由辐射的理论值一公式（5）和（6)。图中同时给出银河系前景辐射的理论曲线用于比较，结果显示 2C 数据基线频谱低于前景辐射4\\~5个数量级。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5. 结论与讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "上述结果表明，2C数据基线频谱低于银河系前景辐射4\\~5个数量级，因而几乎不包含前景辐射信号，也无法使用前景辐射的仿真数据对2C数据进行定标校准。因此，我们需要更低级别的数据，从中寻找造成该结果的原因，并对更低级别的数据进行多种数据处理方法的对比研究，以便更进一步地评估嫦娥四号低频射电频谱仪对宇宙黑暗时代的探测能力。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "致谢 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "我们感谢张志嵩在数据分析部分的深度讨论和建议，感谢陈林杰和张墨关于文稿的修改建议，也感谢所有参与本项目并做出贡献的同事们。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] Pritchard，J. R.，Loeb，A. 21cm Cosmology in the 21St Century ［J]． Reports on Progress in Physics， 2012， 75(8). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[2］武宇翔，温卫斌，平劲松，等．利用 Halo 轨道仿真开展嫦娥四号中继星与月面设备干涉基线的研究［J]．天文研究与技术，2021，18(1)：69-76.Wu Yuxiang， Wen Weibin， Ping Jinsong， et al. Research of InterferometryBaselines Between CE-4 Rover and Lunar Facility Using Halo Orbit Simulation [J].Astronomical Research & Technology，2021，18(1):69-76.  \n[3] Trac H.，Cen R.，Loeb A. Imprint of Inhomogeneous Hydrogen Reionization on theTemperature Distribution of the Intergalactic Medium [J]. The AstrophysicalJournal，2008，689，L81.  \n[4] Mesinger,A.，Furlanetto,S.，Cen,R. 21CMFAST: A Fast， Seminumerical Simulationof the High-Redshift 21-Cm Signal ［J]. Monthly Notices of the Royal AstronomicalSociety，2011，411(2)，955-972.  \n[5] Cohen，A.，Fialkov，A.，Barkana，R.，Monsalve，R.A. Emulating the Global 21-CmSignal from Cosmic Dawn and Reionization [J]. Monthly Notices of the RoyalAstronomical Society，2020，495(4)，4845- 4859.  \n[6] Burns，J. O.，Bale，S.，Bassett，N.，et al. FARSIDE: A Low Radio FrequencyInterferometric Array on the Lunar Farside [J]，arXiv, 2019,arXiv:1902. 06147.  \n[7] Bowman，J. D.，Rogers，A. E. E.，Monsalve，R. A.，et al． An Absorption ProfileCentred at 78 Megahertz in the Sky-Averaged Spectrum [J]. Nature， 2018,555(7694)，67 - 70.  \n[8] Wang， X.，Tegmark, M.，Santos，M. G.，Knox, L. 21 Cm Tomography with Foregrounds[J]． 2006，The Astrophysical Journal，650，529.  \n[9] Kern， N. S.， Dillon， J. S.， Parsons， A. R.，et al. Absolute CalibrationStrategies for the Hydrogen Epoch of Reionization Array and Their Impact on the21 Cm Power Spectrum ［J]. The Astrophysical Journal， 2020，890(2)，122.  \n[10]张韬，苏彦．嫦娥四号低频射电频谱仪降低背景噪声方法的研究［J]．天文研究与技术，2019，16(003)：312-320.Zhang Tao， Su Yan. Research of the Method for Reducing Background of Very LowFrequency Radio Spectrumon Chang' E-4 [J]. Astronomical Research & Technology,2019，16(3): 312-320.  \n[11]Condon,J. J.，Ransom, S. M. Essential Radio Astronomy [M],Princeton: PrincetonUniversity Press， 2016, 75-76.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Analysis of the capability of Chang' E-4 Low Frequency Radio Spectrometer 2C data in detecting the Dark Ages ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Jiao Kang'，Wang Mingyuan²， Zhang Tongjie'， Huang Maohai²， Ping Jinsong² (1 Department of Astronomy， Beijing Normal University， Beijing 100875, China 2 National Astronomical Observatory， Chinese Academy of Science, Bei jing 100018, China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The low-frequency radio spectrometer carried by Chang' E-4 lander has successfully carried out observation. The observational data are continuously sent back to the ground data center monthly. After certain pretreatment， the 2C level spectrum data is released to scientific teams. The main purpose of this article is to evaluate whether this level of data meets the requirements for detecting the sky-averaged 2lcm global spectrum of the cosmic dark ages. We make a long-term integration of the 2C level data, and simulate the reception of the Galactic foreground radio radiation by the lander. Through the comparison and analysis of the two sets of data，we found that the 2C data has been reduced by 40-50 dB,which almost does not contain the far-field radiation signal of the Galactic foreground. Such a large reduction will affect the detection ability of the payload for the dark ages. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Key words: Low Frequency Radio Spectrometer; Chang’ E-4; Dark Ages ",
+        "page_idx": 6
+    }
+]

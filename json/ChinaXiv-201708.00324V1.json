@@ -1,0 +1,225 @@
+[
+    {
+        "type": "text",
+        "text": "Split-UED andDark Matter ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Seong Chan Park,Jing Shu Institute for the Physics and Mathematics of the Universe, TheUniversity of Tokyo，Chiba 277-8568，Japan ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Motivated by the recent observation of the high energy electron and positron excesses in cosmic ray by PAMELA and ATIC/PPB-BETS,we suggest an anomaly-free scenario for the universal extra dimension that localizes the SM quarks and splits the spectrum of KK quarks from KK leptons. When the SM quarks are“wellocalized”at the boundaries,the most stringent bound of the model （ $1 / R > 5 1 0$ GeV)comes from the resonance search for the Tevatron dijet channels.Even at the early stage of LHC,one can discover the second KK gluon for masses up to 4 TeV. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction- One of the best motivated waysof extending the standard model (SM) is to embed the theory in higher dimensions. The “direct proof’ of dark matter (DM）[1] certainly brings our attention to a particular form of extra dimensional model [2],the universal extra dimension(UED）[3],in which the lightest KaluzaKlein particle (LKP）arises as a natural candidate for dark matter [4] thanks to the Kaluza-Klein (KK) parity (for the comprehensive recent review,see e.g. [5]). Indeed the ATIC collaboration recently claimed that their observation of the excess and the sharp drop in the cosmic $( e ^ { + } + e ^ { - } )$ spectrum around 300-80o GeV can be naturally understood by the electrons and positrons from the LKP annihilation assuming a large “boost factor” in the galactic halo [6]. The result is essentially consistent with the PPB-BETS result [7]. It is even more interesting to notice that the same source of positrons can also explain another interesting observation by PAMELA [8], where the ratio of the positron flux over the sum of the electron and positron fluxes in the energy range 10-85 GeVis much higher than the standard astrophysical expectation [9]. However,one should note that no excess in antiproton flux has been observed by the same experiment and thus the UED needs to be modified [28]. Because of the characteristic degeneracy in the KK spectrum,UED predicts that a pair of the LKP,the first KK photon,annihilates not only to leptons but also to quarks at a comparable rate.The main purpose of this letter is to provide a simple way of modifying UED in such a way that the KK dark matter annihilates mainly into leptons and the hadronic production is suppressed by the heavier KK quarks as $\\langle \\sigma v \\rangle _ { q \\bar { q } } \\propto m _ { \\gamma ^ { 1 } } ^ { 2 } / ( m _ { \\gamma ^ { 1 } } ^ { 2 } + m _ { q ^ { 1 } } ^ { 2 } ) ^ { 2 }$ ： ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Conventional wisdom is that KK parity is available only in the case when all the fields are propagating through the bulk.However,we notice that KK parity remains a good symmetry even when some fields are (quasi）localized at the boundaries if their profiles respect the inversion symmetry about the midpoint.As it is clearly seen in Fig.1,the inversion symmetry about the midpoint ( $y = 0$ ),and thus the KK parity,is respected even in the case when the quarks are quasi-localized at the boundaries ( $y = \\pm L$ ).As we will see in detail below, the quasi-localization makes the KK quarks heavier,and consequently their contribution to the dark matter annihilation becomes more suppressed. We suggest call this set-up split-UED,as the spectrum of the KK quarks is quite split from the others,and the profile of each quark in the fifth dimension is also quite split towards the two boundaries [29] [30]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/d5c3cde0f0d1b189961090c809865eb5982ffa68de70a191d6a35039293dec27.jpg",
+        "img_caption": [
+            "FIG.1: The profile of wave functions of the quasi-localized quarks in the extra dimension. The profile clearly respect the inversion invariance about the midpoint ( $y = 0$ )，and is localized toward the end points ( $y = \\pm L$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This letter is organized as follows.First，we provide a concrete field theoretic method of quasi-localizing fermions on the boundaries while keeping the KK parity intact. The realistic model of KK dark matter is constructed by embedding the SM in the set-up where the quarks are quasi-localized at the boundaries.We show that our setup is anomaly free.After considering the current bounds from electroweak data and flavor physics, we discuss the LHC phenomenology,which is quite distinct from the conventional minimal UED (MUED). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A Field Theory Realization-Here we present an explicit field theory mechanism to localize fermion zero modes at the boundaries (or fixed points) in higher dimensions in such a way that the KK parity is conserved. We start our setup by considering 5D fermions on an orbifold along the fifth dimension with the boundary points $y = \\pm L ( =$ $\\pm \\pi R / 2$ ). The 5D bulk Lagrangian is given by the form ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS = \\int d ^ { 5 } x \\Bigl [ { \\frac { i } { 2 } } ( \\bar { \\Psi } _ { I } \\Gamma ^ { M } \\overleftrightarrow { \\partial _ { M } } \\Psi _ { I } ) - \\lambda _ { I J } \\Phi ( y ) \\bar { \\Psi } _ { I } \\Psi _ { J } \\Bigl ] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "where $\\overleftrightarrow { \\partial _ { 5 } } = \\overrightarrow { \\partial _ { 5 } } - \\overleftarrow { \\partial _ { 5 } }$ , with the arrows indicating the direction of action of the differential operator, $M = 0 , 1 , 2 , 3 , 5$ and $\\Gamma ^ { M } = ( \\gamma ^ { \\mu } , i \\gamma _ { 5 } )$ , which satisfies the Clifford algebra in ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "5D: $\\{ \\Gamma ^ { M } , \\Gamma ^ { N } \\} = 2 \\eta ^ { M N }$ ， $\\eta ^ { M N } = d i a g ( 1 , - 1 , - 1 , - 1 , - 1 )$ $\\lambda _ { I J }$ is the Yukawa coupling between the background scalar field $\\Phi ( y )$ ，fermion $\\Psi _ { I } ( y )$ and $\\Psi _ { J } ( y )$ and $I , J$ are the flavor indexes [31]. Here if we choose an antisymmetric background profile $\\Phi ( - y ) = - \\Phi ( y )$ ，we can see that the KK parity,which is the inversion symmetry about the midpoint $y = 0$ ，is a good symmetry of the Lagrangian under which the fermion field transforms as $\\Psi ( x , - y )  \\pm \\gamma _ { 5 } \\Psi ( x , y )$ . The simplest bulk mass profile we can consider is the a step function $\\lambda \\langle \\Phi ( y ) \\rangle = m ( y ) =$ $\\mu \\epsilon ( y )$ ，where the $\\epsilon ( y )$ is defined to be $+ 1$ for $0 < y < L$ and $- 1$ for $- L < y < 0$ . The origin of such a bulk mass profile could be understood as a particular limit of a double kink profile in a similar way to the orbifold setup in Ref.[13,14]. In this case, the allowed term $\\lambda _ { H } \\Phi ^ { 2 } H ^ { \\dagger } H$ can only contribute to the Higgs mass by $\\lambda _ { H } \\langle \\Phi \\rangle ^ { 2 }$ ina $y$ -independent way. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A bulk fermion is now KK expanded by basis eigenmodes which are sub-divided into even(symmetric) and odd(antisymmetric) modes under KK parity. A convenient way of expressing the KK decomposition for $Z _ { 2 }$ even/odd $( \\Psi _ { \\pm } )$ mode is in the form [15]: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\Psi _ { + } ( x , y ) = \\displaystyle \\sum _ { n ^ { + } , n ^ { - } } g _ { n ^ { + } } ( | y | ) \\chi _ { n ^ { + } } ( x ) + \\epsilon ( y ) g _ { n ^ { - } } ( | y | ) \\chi _ { n ^ { - } } ( x ) , } \\\\ { \\Psi _ { - } ( x , y ) = \\displaystyle \\sum _ { n ^ { + } , n ^ { - } } \\epsilon ( y ) f _ { n ^ { + } } ( | y | ) \\psi _ { n ^ { + } } ( x ) + f _ { n ^ { - } } ( | y | ) \\psi _ { n ^ { - } } ( x ) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where the label $n ^ { \\pm }$ here stands for the $n$ th KK modes with the even/odd KK parity. The profiles satisfy the following coupled,first-order equations of motion in $( 0 , L )$ $\\partial _ { y } g _ { n } + \\mu g _ { n } - m _ { n } f _ { n } = 0$ and $\\partial _ { y } f _ { n } - \\mu f _ { n } + m _ { n } g _ { n } = 0$ with each profile ${ { g } _ { n } } +$ ， $g _ { n ^ { - } }$ ， $f _ { n ^ { + } }$ ， $f _ { n ^ { - } }$ satisfying the $( + , + )$ ， $( - , + )$ ， $( - , - )$ ， $( + , - )$ boundary condition at $y = ( 0 , L )$ ， respectively. Once the solution for $y \\subset \\ [ 0 , L ]$ is obtained，the solution to the whole space is determined from Eq.(2） thanks to the symmetry.The solution for the zero mode in the interval $[ 0 , L ]$ is $g _ { 0 ^ { + } } ( y ) =$ $\\begin{array} { r } { N _ { + } \\exp ( \\int _ { 0 } ^ { y } \\lambda \\langle \\Phi ( s ) \\rangle d s ) = N _ { + } \\exp ( \\mu y ) } \\end{array}$ .For the massive modes，when $\\mu > 0$ ，the profiles ${ { g } _ { n ^ { + } } }$ and $f _ { n ^ { - } }$ were a combination of cosine and sine functions,while $f _ { n ^ { + } }$ and $g _ { n } -$ were sine functions because of the $( - )$ boundary condition at $y = 0$ . The mass of the nth KK mode is given by $m _ { n } ~ = ~ \\sqrt { \\mu ^ { 2 } + k _ { n } ^ { 2 } }$ ，where $k _ { n ^ { + } } ~ = ~ n \\pi / L$ for the KK even modes and $k _ { n ^ { - } }$ is the nth solution of the equation $k _ { n ^ { - } } = - \\mu \\tan ( k _ { n ^ { - } } L )$ for the KK odd modes, so that $k _ { n }$ increases from $( n - 1 / 2 ) \\pi / L$ to $n \\pi / L$ when $\\mu$ increases from $0$ to $+ \\infty$ .In this case,in the limit of $\\mu \\to + \\infty$ all KK modes could be decoupled,and the zero mode is completely localized at the boundary $y = \\pm L$ [32]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Embeding the Standard Model and the $5 D$ Anomaly Cancellation- The above setup could be used to quasilocalize any fermion zero modes along the fifth dimension. The lepton sector is untouched by putting $\\lambda _ { \\mathrm { l e p t o n } } = 0$ to evade the stringent bounds from LEP and other low energy experiments.We choose $\\lambda _ { \\mathrm { q u a r k } }$ universally for all quarks and the massive KK quarks could be decoupled from the theory, so the dark matter candidate $\\gamma _ { 1 }$ will dominantly pair annihilate into lepton pairs. To avoid the very light 1st KK quark,we choose $\\mu > + 1 / L$ or $< - 1 / L$ if we embed the SM quarks in the $\\Psi _ { + }$ or $\\Psi _ { - }$ component. In either case,one can see that the zero mode is quasi-localized at the boundary $y = \\pm L$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "One immediate consequence of localizing the SM quarks is the violation of KK number conservation in the quark sector,which gives a tree level coupling of the KK even field to the SM quarks.For the KK gauge bosons，the effective coupling between the nth （ $n \\ > \\ 0$ ） KK even gauge boson and the SM quarks could be obtained by integrating out the fifth dimension: $g _ { q ^ { 0 } - q ^ { 0 } - A ^ { 2 n } } = \\sqrt { 2 } g _ { 0 } \\mathcal { F } _ { 2 n } ( \\mu L )$ where $g _ { 0 }$ is the SM gauge interaction between $q ^ { 0 }$ and $A ^ { 0 }$ ，and the dimensionless function $\\mathcal { F } ( \\mu L )$ is given by: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { F } _ { 2 n } ( x ) \\equiv \\frac { 2 x } { 1 - e ^ { 2 x } } \\int _ { 0 } ^ { 1 } d s e ^ { 2 x s } \\cos ( \\pi n s ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where the dimensionless variable $s = y / L$ , is introduced. Note that the function approaches $( - 1 ) ^ { n + 1 }$ when $x =$ $\\mu L \\gg 1$ ,a limit in which the quarks are “well localized\" and peaked at the boundaries. The coupling constant between the SM quarks and the KK even gauge boson becomes $\\sqrt { 2 }$ times larger than the SM coupling $g _ { 0 }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In our setup,one may worry about the 5D localized anomaly, which leads to a breakdown of 4D gauge invariance even the zero mode theory,which is the SM, is anomaly free [16].Because we treat the quarks and leptons separately, the possible 5D anomalies are the $S U ( 2 ) _ { L } ^ { 2 } - U ( 1 ) _ { Y }$ ， $U ( 1 ) _ { Y } ^ { 3 }$ and $U ( 1 ) _ { Y } -$ gravitational anomalies,which do not cancel among the quark or lepton sector alone.For the leptons, the 5D anomalies will live entirely at the boundary $y = \\pm L$ (the orbifold fixed plane for the leptons) [17]. In the interval $y \\subset [ 0 , L ]$ 5 for a 5D quark field whose left/right-handed component $\\Psi _ { - } / \\Psi _ { + }$ has the $\\left( \\alpha _ { 0 } , \\alpha _ { 1 } \\right)$ boundary condition at $y = 0$ and $L$ , the 5D anomaly is $\\partial _ { C } J ^ { C } = \\mathcal { Q } \\Big [ \\alpha _ { 0 } \\delta ( y ) + \\alpha _ { 1 } \\delta ( y - L ) \\Big ] / 2$ [18],where $\\mathcal { Q }$ is the corresponding consistent anomaly of a left/right-handed spinor.The 5D anomalies from the KK even states ( $\\alpha _ { 0 } = 1$ ）will cancel those from the KK odd states ( $\\alpha _ { 0 } = - 1$ ）at the midpoint $y = 0$ ，so the 5D anomalies from the quark sector will live at the boundary $y = L$ .Similarly, the 5D anomalies in the interval $y \\subset [ - L , 0 ]$ will be localized at the boundary $y = - L$ As a consequence, the 5D anomalies from the quark sector will be localized at the same point ( $y = \\pm L$ ）asthose from the lepton sector, thus our 5D setup is anomaly free. Bounds from EW Data and Flavor Physic $$ In our setup, the main one-loop contributions to the electroweak precision parameters from the KK top and bottom are expected to be small as $\\delta S , \\delta T \\sim m _ { t } ^ { 2 } / m _ { K K } ^ { 2 }$ [3].If Higgs isheavy ( $m _ { H } \\sim 1 / R$ )，contributions to EW precision parameters from the Higgs and its KK modes can be important [2ol. The additional bounds come from the KK number violation. The oblique parameters will not be affected directly by the KK even gauge bosons since they will never mix with the $W$ and $Z$ gauge bosons through operators like $( D ^ { \\mu } H ) ^ { \\dagger } D _ { \\mu } H$ because the Higgs profile is chosen to be flat in UED.The important modification is the four fermion operator which involves the SM quarks by integrating out the KK even gauge bosons. The most stringent bound comes from the resonance search for the Tevatron dijet channels. We consider the “well localized”case,where couplings between the 2nd KK gluon and the SM quarks is $\\sqrt { 2 } g _ { s }$ ,the bound for the $g ^ { 2 }$ mass is illustrated in Fig.2.We can see that the allowed mass region for $g ^ { 2 }$ is $M _ { g ^ { 2 } } > 1 . 3$ TeV,which corresponds to the compactification scale ( $R$ is defined as $2 L / \\pi$ ）） ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/46cb20aaf85652bbba9234b2e334fad9e7a1abf10d6224b12f1cd1446ec20d38.jpg",
+        "img_caption": [
+            "FIG.2: Comparison of cross section predicted by the “well localized”scenario of the split-UED and the CDF exclusion bounds on the colored-octet vector boson production cross section as a function of the resonance mass.The $g ^ { 2 }$ production cross section is obtained by rescaling the cross section for the Coloron case in Ref. [19] by a factor of 2. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { 1 } { R } } > 5 1 0 \\ \\mathrm { G e V }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "assuming $2 8 \\%$ renormalization group enhancement for the $g ^ { 2 }$ mass [21]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Since we have chosen a flavor universal Yuakwa coupling in Eq.(1)，there is no tree level contributions to the flavor changing neutral currents. The only contributions are from the box diagrams which involves KK gauge bosons,in particular,the KK even weak gauge boson $W _ { 2 n } ^ { \\pm }$ to $K ^ { 0 } - K ^ { 0 }$ ， $B _ { s , d } ^ { 0 } \\ - \\ B _ { s , d } ^ { 0 }$ mixing and $\\epsilon _ { K }$ Thanks to the KK parity as well as the orthogonality of the KK decomposition in the flat background, there is no tree level flavor changing neutral current (FCNC) in split-UED,but the KK even weak gauge bosons can contribute to the box diagrams with $( W _ { \\mathrm { S M } } ^ { \\pm } , W _ { 2 n } ^ { \\pm } )$ exchanges that are suppressed by the mass of $W _ { 2 n } ^ { \\pm }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b1b72143dbaad80e1963c32503a8d30e17434e2341bac47ca5fbc69112e0eac0.jpg",
+        "table_caption": [
+            "TABLE I: The branching fraction of the hadronic annihilation of the LKP over that of the charged leptonic annihilation of the LKP,as well as the mass of $q ^ { \\perp }$ ,for different 5D bulk mass （204号 $\\mu$ .Here we fix the LKP mass to be 62O GeV and include the radiative corrections to all the masses according to Ref.[21] asan approximation. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>μ (GeV)</td><td>0</td><td>200</td><td>400</td><td>600</td><td>800</td><td>1000</td></tr><tr><td>Mq1 (GeV)</td><td>713</td><td>863</td><td>1026</td><td>1198</td><td>1378</td><td>1566</td></tr><tr><td>BR(had)/BR(lep)</td><td>45.7%</td><td>39.3%</td><td>28.6%</td><td>18.3%</td><td>10.7%</td><td>6.0%</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\Delta M _ { s , d } ( K K ) } { \\Delta M _ { s , d } ( S M ) } \\simeq \\frac { \\sum _ { n = 1 } ^ { \\infty } ( 2 \\mathcal { F } _ { n } ) ^ { 2 } m _ { t } ^ { 2 } / m _ { W _ { 2 n } ^ { 2 } } } { S _ { 0 } ( S M ) } < 7 . 5 \\% ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where we took $1 / R > 5 1 0$ GeV as we found above (see Eq.(4))， $S _ { 0 } ( S M ) ~ \\simeq ~ 2 . 4 2$ [22]and $m _ { W _ { 2 n } } ~ \\simeq ~ 2 n / R$ as $m _ { W } \\ll 2 n / R$ . In view of non-perturbative uncertanties in $\\Delta M _ { K } , \\Delta M _ { d , s }$ and $\\epsilon _ { K }$ , it will be very difficult to distinguish the split-UED expectations from the SM ones.In conclusion,the split-UED is safe from the flavor physics bounds. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Dark Matter-In our scenario,by making the KK quark mass heavier,the hadronic annihilation cross section could be highly suppressed,as shown in Table I. The relic density of the LKP,which is the frst KK photon, willnot beaffectedbecause the coannihilation of theKK quarks could be safely ignored in the calculation. The precise calculation of the relic density [23] indicates that the LKP masshas to be from 500 GeV to 700 GeV in the typical mass spectrum [21] to get the right relic density, which indeed covers the LKP mass (around 62O GeV) that is required to fit the peak of electron and positron spectrum [24] in the ATIC data [6]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Collider PhysicsattheLHC-KeepingKK parity asin MUED,any KK odd particles should not be singly produced by particle collisions. However, the KK even gauge bosons,especially the KK even gluon，will be copiously produced due to the KK number number violation in the valence quark coupling. We expect to discover the resonance in the dijet channels against the large QCD background [25] even in the early stages of LHC (assuming an integrated luminosity of $\\mathcal { L } = 1 0 0 \\mathrm { p b } ^ { - 1 }$ ）[33].To explore this possibility,in Fig.3,we plot the invariant mass distribution of QCD dijets simulated by Madgraph [27] (with rough acceptance cuts $| \\eta | < 2 . 5$ and $p _ { T } > 5 0 0$ GeV to reduce the SM background).We choose a high minimum $p _ { T }$ cut for the jets so our simulation based on perturbative QCD is reliable. In Table II,we have calculated the decay width and the statistical significance of the signal for the $g ^ { 2 }$ discovery both during the early stage and the entire LHC running time [34]. We can see that at the early stage,one can discover the second KK gluon $g ^ { 2 }$ just below 4 TeV.For the entire LHC running time,one can clearly discover $g ^ { 2 }$ up to more than 6 TeV ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/dbea53d0a7afe93b6ccc9be77cd982345f5630d6ef8ebe576e0799680f3b0f36.jpg",
+        "img_caption": [
+            "FIG.3: The invariant mass distribution of the dijet signal. The resonance peaks appear at the $M _ { g _ { 2 } }$ for 1.58 (for ATIC/PPB-BETS and PAMELA),2and3TeV.The deviation from the SM background at the high dijet invariant mass comes from the T-channel exchange of the KK even gluon. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d62314a28460db73bada97449bf8ae10420f2d18052d8232d67f879e5b0834b2.jpg",
+        "table_caption": [
+            "TABLE II: The statistical significance of the signal for the $g ^ { 2 }$ discovery,as well as the $g ^ { 2 }$ decay width with different $g ^ { 2 }$ masses in the“well localized”scenario.The event number is counted in the mass window $0 . 8 5 M _ { g ^ { 2 } } < M _ { J J } < 1 . 2 M _ { g ^ { 2 } }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Mg2 (TeV)</td><td>1.58</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td>Tg2 (GeV)</td><td>270</td><td>334</td><td>482</td><td>627</td><td>769</td><td>909</td></tr><tr><td>S/√B (100 pb-1)</td><td>66.5</td><td>38.2</td><td>11.9</td><td>4.3</td><td>1</td><td>1</td></tr><tr><td>S/√B (100 fb-1)</td><td>2103</td><td>1208</td><td>376</td><td>137</td><td>86</td><td>22</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[35]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Conclusion-In the present model, split-UED, the quarks are quasi-localized on the boundaries,but all of the other fields including leptons,gauge bosons and the Higgs are in the bulk in such a way that KK parity is conserved. We explicitly show how the required properties can be realizedin the fivedimensionalinterval andthat the setup is anomaly free.The model is automatically safe from the FCNC problem since all the new interactions are flavor blind. The most stringent bound comes from the resonance search for the Tevatron dijet channels. The LKP is a nice dark matter candidate which can pair an nihilate mainly into leptons,thus the model nicely meets the requirements imposed by the recent PAMELA and ATIC/PPB-BETS data. A novel signal at the LHC is the dijet production from a second KK gluon resonance. Acknowledgements- This work was supported by the WorldPremierInternationalResearch CenterInitiative (WPI initiative) by MEXT, Japan. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[3] T. Appelquist,H. C. Cheng and B.A. Dobrescu, Phys. Rev.D 64,035002 (2001).   \n[4] G.Servant and T.M.P. Tait,Nucl. Phys.B 650,391 (2003).   \n[5] D. Hooper and S. Profumo, Phys. Rept. 453, 29 (2007). [6] J.Chang et al., Nature 456 (2008) 362. [7] S. Torii et al.,arXiv:0809.0760 [astro-ph].   \n[8] I.Cholis,G. Dobler,D.P. Finkbeiner,L.Goodenough and N. Weiner,arXiv:0811.3641 [astro-ph].   \n[9]O.Adrianietal.,arXiv:0810.4995 [astro-ph], arXiv:0810.4994 [astro-ph].   \n[10] D.Hooper and K. Zurek,arXiv:0902.0593 [hep-ph].   \n[11] N.Arkani-Hamed and S.Dimopoulos, JHEP O506,073 (2005).   \n[12] T. Flacke,A. Menon and D. J. Phalen,arXiv:0811.1598 [hep-ph].   \n[13] H. Georgi, A. K. Grant and G. Hailu, Phys. Rev. D 63, 064027 (2001)；D.E.Kaplan and T.M.P. Tait,JHEP 0111,051 (2001).   \n[14] Y.Grossman and M. Neubert,Phys.Lett.B 474,361 (2000)；T.Gherghetta and A.Pomarol，Nucl. Phys. B 586,141 (2000)；C. Csaki, C. Grojean, J. Hubisz, Y.Shirman and J. Terning, Phys.Rev. D 70,015012 (2004).   \n[15] K. Agashe,A. Falkowski, I. Low and G. Servant, JHEP 0804,027 (2008).   \n[16] C.A. Scrucca, M. Serone,L. Silvestrini and F. Zwirner, Phys.Lett.B 525,169 (2002).   \n[17] N.Arkani-Hamed,A.G.Cohen and H.Georgi,Phys. Lett.B 516,395 (2001).   \n[18] B.Gripaios and S.M. West，Nucl. Phys.B 789,362 (2008).   \n[19] CDF Collaboration,CDF public note 9246 [publication in preparation].   \n[20] T. Appelquist and H. U. Yee, Phys. Rev. D 67, 055002 (2003); I. Gogoladze and C. Macesanu, Phys. Rev. D 74, 093012 (2006) [arXiv:hep-ph/0605207].   \n[21] H. C. Cheng,K.T.Matchev and M. Schmaltz,Phys. Rev.D 66,036005 (2002).   \n[22] A. J. Buras, A. Poschenrieder and S. Uhlig, Nucl. Phys. B 716, 173 (2005).   \n[23] K.Kong and K. T. Matchev, JHEP 0601,038 (2006); F.Burnell and G.D.Kribs,Phys.Rev.D 73,O15001 (2006).   \n[24] C. R. Chen，M. M. Nojiri，S. C. Park，J. Shu and M. Takeuchi,“Dark matter and collider phenomenology of split-UED,” arXiv:0903.1971 [hep-ph].   \n[25] B. Lillie,J. Shu and T. M.P. Tait,Phys.Rev.D 76, 115016 (2007).   \n[26] A. Datta,K. Kong_and K. T. Matchev, Phys. Rev. D 72,096006 (2005)[Erratum-ibid.D 72,119901 (2005)]; S.Matsumoto,J. Sato,M. Senami and M. Yamanaka, arXiv:0903.3255 [hep-ph].   \n[27] J. Alwall et al., JHEP 0709,028 (2007).   \n[28]In Ref.[1O] the authors claimed that the absence of an excess in anti proton signal can be consistent with MUED by choosing a particular galactic propagation model.However it is still desirable to have a mechanism to reduce the hadronic branching fraction.   \n[29] In terms of particle spectrum,split-UED is quite similar to split-SUSY [11] and these two models share many features in the collider phenomenology.   \n[30] Adding a brane kinetic term that is symmetric on the boundary branes will also split mass spectrum and preserve the KK parity,and this is considered in Ref.[12] for gauge boson and Higgs.   \n[31] We will assume the Yukawa interactions diagonal $\\lambda _ { I J } =$ （204 $\\lambda \\delta _ { I J }$ to avoid the potential flavor problems.   \n[32] In case of $\\mu < - 1 / L$ ,the first KK mode is a special solution whose mass can be approximated as $m _ { 1 } \\approx 2 | \\mu | e ^ { \\mu L }$ which tends to zero in the $\\mu \\to - \\infty$ limit.   \n[33] The production of KK even gauge bosons through loop suppressed couplings in MUED and their discovery through dilepton channel have been discussed in Ref. [26].   \n[34] The jet resolution is neglected in the simulation because the width of the resonance is much larger.   \n[35] Here we do not present the statistical significance of the signal for $M _ { g ^ { 2 } } > 6$ TeV,because the corresponding $S / B$ is less than $1 0 \\%$ ，so any deviation from the Gauss distribution of the events will contaminate our estimation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

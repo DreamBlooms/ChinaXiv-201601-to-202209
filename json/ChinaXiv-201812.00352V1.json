@@ -1,0 +1,468 @@
+[
+    {
+        "type": "text",
+        "text": "1白藜芦醇通过沉默调节蛋白1-解偶联蛋白2信号通路降低小鼠睾丸间质细胞 TM3 的氧化损伤",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张晓春」陈指龙」方　娟」　黎　陈」伍小松²\\* 杨 青1\\*（1.湖南农业大学动物医学院，长沙 410128；2.湖南农业大学动物科学技术学院，长沙",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "410128) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在研究白藜芦醇（RES）对氧化损伤小鼠睾丸间质细胞TM3的保护作用，并探索其可能的作用机制。首先，用不同浓度（0、150、200、250、 $3 0 0 \\mathrm { \\textmu m o l / L }$ ）的过氧化氢（ $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ ）处理小鼠睾丸间质细胞TM38h，确定建立氧化损伤细胞模型的适宜 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 浓度。用适宜浓度的 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 建立氧化损伤细胞模型；然后，用不同浓度（0、2.5、5.0 和 $1 0 . 0 \\ \\mathrm { \\mu m o l / L }$ ）的RES分别处理正常细胞和氧化损伤细胞 $2 4 \\mathrm { h }$ ，确定RES安全浓度；最后，用安全浓度的RES 处理氧化损伤细胞 $2 4 \\mathrm { h }$ 。在整个培养过程中采用iCELLigence 实时无标记细胞功能分析仪监测细胞的增殖情况；待安全浓度的RES 处理氧化损伤细胞结束后采用2',7'-二氯荧光素二乙酸酯（DCFH-DA）探针法检测细胞中活性氧（ROS）的含量，实时荧光定量PCR（RT-qPCR）和蛋白质印迹（Wester blotting）法分别检测沉默调节蛋白1(SIRT1)/UCP2 信号通路中关键因子 SIRT1和UCP2mRNA和蛋白质的相对表达量。结果表明：1）用浓度为$1 5 0 \\mathrm { \\textmu m o l { L } }$ 及以上的 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 处理细胞 $8 \\mathrm { { h } }$ 后，极显著降低细胞存活率（ $P { < } 0 . 0 1$ ），因此确定$1 5 0 \\mathrm { \\textmu m o l / L }$ 为建立氧化损伤细胞模型的适宜 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 浓度。2)用 $1 0 . 0 \\mu \\mathrm { m o l / L }$ 及以下浓度的RES处理正常细胞 $2 4 \\mathrm { h }$ 后，细胞存活率均无显著变化（ $. P { > } 0 . 0 5$ ）；用2.5、5.0和 $1 0 . 0 \\ \\mathrm { \\mu m o l / L }$ 的RES处理氧化损伤细胞 $2 4 \\mathrm { h }$ 后，细胞存活率均显著提高（ $. P { < } 0 . 0 5$ ），且各浓度RES组间无显著差异（ $. { \\cal P } { > } 0 . 0 5$ ）。因此，选用 $5 . 0 \\ \\mathrm { \\mu m o l / L }$ 为 RES 的安全浓度。3）用 $5 . 0 \\mu \\mathrm { m o l / L }$ 的RES处理氧化损伤细胞 $2 4 \\mathrm { h }$ 后,细胞中ROS 的含量较极显著降低( $_ { \\cdot P < 0 . 0 1 \\rangle }$ ；细胞中SIRT1mRNA和蛋白质的相对表达量极显著增加（ $\\cdot P { < } 0 . 0 1$ ），而UCP2mRNA和蛋白质的相对表达量则显著或极显著降低（ $\\scriptstyle \\cdot - 0 . 0 1$ 或 $P { < } 0 . 0 5$ ）。由此可见，适宜浓度的RES可激活SIRT1同时抑制UCP2 的表达，UCP2通过负反馈调节方式减少细胞内ROS 的生成，从而在一定程度上抑制TM3细胞的氧化损伤。关键词：白藜芦醇；氧化损伤；沉默调节蛋白1；解偶联蛋白2；小鼠睾丸间质细胞 TM3中图分类号：S823;R285.5 文献标识码：A 文章编号：当机体遭受体内外各种有害刺激时，由于机体内氧化系统与抗氧化系统平衡失调，机体内活性氧（ROS）会大量聚集，使组织细胞暴露于高浓度氧分子或氧的化学衍生物，从而引起细胞的氧化损伤。研究发现氧化损伤可引起动物严重的生精障碍，导致睾丸组织发生明显的病理变化，睾丸指数和精子数下降，精子畸形率升高，造成雄性动物不育[1-2]。白藜芦醇（RES）是一种广泛存在于葡萄、花生、虎杖、决明、藜芦等植物性食物中的天然多酚类物质，具有很广泛的生物学活性，在治疗氧化损伤、炎症、过敏、肿瘤、心血管疾病等方面都得以应用[3-4]。目前，RES 在畜禽生产中也被广泛应用，它能提高畜禽的生产性能、改善畜禽酮体品质和肉品质、提高畜禽免疫力和抗氧化能力[5]。高糖高胆固醇饮食可导致小鼠睾丸间质细胞的睾酮合成能力受损，添加RES 能够通过减轻其氧化应激，并通过激活沉默调节蛋白1(SIRT1)及影响下丘脑-垂体-性腺轴的调控发挥保护作用[6]。成海建等[7]研究发现RES可通过激活 SIRT1/腺苷酸活化蛋白激酶（AMPK）信号通路促进牛皮下脂肪细胞的凋亡。周曦等[8研究发现RES 可能通过调控 SIRTI/解偶联蛋白2(UCP-2)信号通路抑制血管内皮细胞氧化应激损伤。SIRT1具有去乙酰化酶活性，通过对组蛋白、多种转录因子、转录共调控因子的翻译后修饰（去乙酰化），可调节与氧化应激、凋亡、炎症反应相关基因和蛋白质的转录[9]。UCP2作为解偶联蛋白，能影响线粒体的跨膜电位，当线粒体内膜电势升高时，UCP2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "能够降低细胞膜内外氢离子（ $\\mathrm { H } ^ { + }$ ）浓度，促进氧消耗，从而抑制 ROS 的产生[10]。目前，虽已明确RES 的抗氧化作用效果，但对于其具体的作用机制尚未完全明确。因此，本研究以小鼠辜丸间质细胞TM3为研究对象，在过氧化氢（ $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ ）诱导的氧化应激状态下研究RES对氧化损伤细胞的治疗作用，并阐明其可能的作用机制，以期为防治由氧化损伤引起的雄性生殖系统疾病提供理论依据。  \n1材料与方法  \n1.1试验材料  \n小鼠睾丸间质细胞TM3 细胞株由中国科学院上海细胞库提供;RES、 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 、羊抗-UCP2多克隆抗体和辣根过氧化物酶（HRP）标记兔抗羊免疫球蛋白G（IgG）购自美国 Sigma 公司；兔抗-SIRT1多克隆抗体和兔抗 $\\cdot \\beta$ -肌动蛋白（ $\\beta$ -actin）多克隆抗体购自英国Abcam公司；HRP 标记驴抗兔IgG 购自美国 Santa Cruz Biotechnology 公司；Trizol购自美国LifeTechnologies 公司；HiScript? II QRT SuperMix for qPCR(+gDNA wiper)试剂盒、ChamQTMSYBR?qPCRMaster Mix 试剂盒购自南京诺唯赞生物科技有限公司；二辛可酸（BCA）蛋白定量试剂盒购自碧云天生物技术研究所；ROS检测试剂盒购自南京建成生物工程研究所；放射免疫沉淀测定（RIPA）细胞裂解液和苯甲基磺酰氟（PMSF）购自北京索莱宝科技有限公司；胎牛血清购自美国Gibco 公司；DMEM/F12 培养基购美国Hyclone 公司。  \n1.2试验方法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 细胞培养 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "小鼠睾丸间质细胞TM3细胞株用DMEM/F12培养基（添加 $10 \\%$ 的胎牛血清和 $1 \\%$ 青链霉素-两性霉素），置于 $3 7 \\mathrm { ~ \\textdegree ~ }$ 、 $5 \\% C O _ { 2 }$ 培养箱中培养。每天更换培养基，待细胞长至对数生长期即汇合度达到 $8 0 \\% \\sim 9 0 \\%$ 时，使用胰酶消化制备细胞悬液。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2iCELLigence细胞功能分析仪监测细胞增殖情况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将细胞消化离心后，用含 $1 \\%$ 胎牛血清的DMEM/F12培养基重悬细胞并计数，制备成密度为 $2 . 5 { \\times } 1 0 ^ { 4 }$ 个 $/ \\mathrm { m L }$ 的细胞悬液待用。在E-PlateL8 板中加入含 $1 \\%$ 胎牛血清的DMEM/F12培养基（ $1 5 0 ~ \\mu \\mathrm { L } /$ 孔），放入iCELLigence 实时无标记细胞功能分析仪（Roche，德国），在仪器配备的iPad软件中，选择增殖试验，用含 $1 \\%$ 胎牛血清的DMEM/F12培养基自动调零。随后取出E-PlateL8板，每孔加入细胞悬液 $3 0 0 ~  { \\mu \\mathrm { L } }$ ，每组设置3个重复孔，待细胞静置 $3 0 \\mathrm { m i n }$ 后将 E-PlateL8板重新放置于iCELLigence 实时无标记细胞功能分析仪内，点击开始进行实时监测。具体操作过程中：1）在确定建立氧化损伤细胞模型的适宜 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 浓度的试验中，待细胞生长曲线进入对数期后（即在培养板中培养 $2 4 \\mathrm { h }$ 后），将E-PlateL8 取出，轻轻吸出$1 0 0 \\mu \\mathrm { L }$ 培养基，再加入 $1 0 0 \\mu \\mathrm { L }$ 含不同浓度 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 的培养基，使终浓度分别0（正常对照组）、150、200、250 和 $3 0 0 \\mathrm { \\textmu m o l / L }$ ，轻轻混匀后再将E-PlateL8 板置于分析仪中，继续监测 $^ { 8 \\mathrm { h } }$ ，此过程共监测 $3 2  { \\mathrm { h } _ { \\circ } } 2 )$ ）在确定RES安全浓度的试验中，待细胞生长曲线进入对数期后（即在培养板中培养 $2 4 \\mathrm { h }$ 后），将E-PlateL8取出，分别采用0（正常对照组）、2.5、5.0和10.0$\\mu \\mathrm { m o l / L }$ 的 RES 处理，继续监测 $2 4 \\mathrm { h }$ ，此过程共监测 $4 8 \\mathrm { { h } }$ 。3）在RES干预处理氧化损伤细胞的试验中，待细胞生长曲线进入对数期后（即在培养板中培养 $2 4 \\mathrm { h }$ 后），先将细胞用150$\\mu \\mathrm { m o l / L }$ 的 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 处理 $^ { 8 \\mathrm { h } }$ ，再分别用0（ $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 组）、2.5、5.0和 $1 0 . 0 \\ \\mathrm { \\textmu m o l / L }$ 的 RES 处理，同时设未经 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 和 RES 处理的正常对照组，继续监测 $2 4 \\mathrm { ~ h ~ }$ ，此过程共监测 $5 6 \\mathrm { ~ h ~ }$ 。设置iCELLigence系统每隔 $1 5 \\mathrm { m i n }$ 实时监测细胞增殖情况，制作增殖曲线，不同曲线可反映不同处理条件下细胞实时增殖情况，细胞增殖情况用增殖指数（proliferation index，PI）表示。在监测结束时测定各个培养板中细胞的存活率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.32',7'-二氯荧光素二乙酸酯（DCFH-DA）探针法检测细胞中ROS含量待 $\\mathrm { R E S } ( 5 . 0 \\mu \\mathrm { m o l / L } )$ 处理氧化损伤细胞结束后，按照ROS 检测试剂盒说明书测定细胞中ROS 含量，具体操作如下：去掉培养上清液，加入含 $1 0 \\mathrm { \\ : \\mu m o l / L }$ DCFH-DA探针的新鲜培养基，37℃孵育细胞 $4 0 \\mathrm { m i n }$ ，用胰酶消化细胞， $1 0 0 0 \\mathrm { r / m i n }$ 离心 $1 0 \\mathrm { m i n }$ ，弃去上清液，用磷酸盐缓冲液（PBS）清洗1次，离心留细胞沉淀，用PBS 重悬细胞，调整细胞密度为 $6 \\times 1 0 ^ { 5 }$ 个 $/ \\mathrm { m L }$ ，使用荧光酶标仪在激发波长为 $4 8 5 ~ \\mathrm { n m }$ 、发射波长为 $5 2 5 ~ \\mathrm { { n m } }$ 处检测荧光强度。DCFH-DA本身没有荧光，当其进入细胞后被酯酶水解为DCFH，而DCFH可被细胞内的ROS 氧化为强绿色荧光物质DCF，因此，其荧光强度与细胞内ROS 的含量成正比，可用荧光强度表示ROS含量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.4实时荧光定量 PCR（quantitative real-time PCR，RT-qPCR）检测细胞中 SIRT1 和 UCP2的 mRNA相对表达量待 $\\mathrm { R E S } ( 5 . 0 \\mu \\mathrm { m o l / L } )$ )处理氧化损伤细胞结束后，采用Trizol法提取细胞的总RNA，并用NanoDrop 2000 测定总RNA 的浓度和纯度。总 RNA 产物经 HiScript?II QRT SuperMix forqPCR(+gDNA wiper)试剂盒反转录后，得到cDNA 作为模板用于qPCR。在 ABI Step One 荧光定量PCR仪上，使用ChamQTM SYBR?qPCR Master Mix 试剂盒进行RT-qPCR。反应体系：2×ChamQTM SYBR? qPCR Master Mix $1 0 ~ \\mu \\mathrm { L }$ 、上游引物 $0 . 4 \\mu \\mathrm { L } \\left( 1 0 \\mu \\mathrm { m o l / L } \\right)$ 、下游引物 $0 . 4 ~ \\mu \\mathrm { L }$ （10 μmol/L）、50xROX $0 . 4 ~ \\mu \\mathrm { L }$ 、cDNA $2 . 0 ~ \\mu \\mathrm { L }$ 、双蒸水（ $\\mathrm { \\ d d H _ { 2 } O }$ ） $6 . 8 ~ \\mu \\mathrm { L }$ ，总体积为 $2 0 ~ \\mu \\mathrm { L }$ 。反应条件：95℃预变性 $3 0 ~ \\mathrm { s }$ ；95 $\\mathrm { { } ^ { \\circ } C }$ 变性 $1 0 \\mathrm { ~ s ~ }$ ， $6 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 退火延伸 $3 0 ~ \\mathrm { s }$ ，40个循环。熔解曲线反应条件：95℃，变性 $1 5 \\mathrm { ~ s ~ }$ ， $6 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 退火 $6 0 ~ \\mathrm { s }$ ，95 $\\mathrm { { } ^ { \\circ } C }$ 变性 $1 5 \\mathrm { ~ s ~ }$ 。以 $\\beta$ -肌动蛋白（ $\\beta$ -actin）作为内参，采用 $2 ^ { - \\triangle \\triangle \\mathrm { C t } }$ 法计算目的基因的mRNA相对表达量，对照组基因的mRNA相对表达量设定为1。所用引物由华大基因股份有限公司设计合成，引物序列见表1。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表1实时荧光定量PCR引物序列",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Table 1Primer sequences for RT-qPCR ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/81820aee451f28fb5a18aedb28f85b69b90d204ea1d8604e26cec2f28c1a37e6.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>基因Gene</td><td>序列号 Accession number</td><td>引物序列 Primer sequence（5'-3'）</td></tr><tr><td>β-肌动蛋白</td><td></td><td>F:CATCCGTAAAGACCTCTATGCCAAC</td></tr><tr><td></td><td>NM_007393.5</td><td></td></tr><tr><td>β-actin</td><td></td><td>R:ATGGAGCCACCGATCCACA</td></tr><tr><td></td><td></td><td></td></tr><tr><td>沉默调节蛋白1</td><td>NM_001159589.2</td><td>F：GCTTCATGATGGCAAGTGG</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "解偶联蛋白2 F:TCGGACACAGCCTTCT",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "NM_011671.5 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "UCP2 R:CTGGGAGACGAAACACTTA ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "F和R分别代表上游和下游引物。 F and R represents forward and reverse primers,respectively ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.2.5蛋白质印迹（Western-blot）法检测细胞中 SIRT1和UCP2的蛋白质相对表达量待 RES 处理氧化损伤细胞结束后，弃掉培养基，用预冷的PBS 洗涤细胞2次，加入200μLRIPA细胞裂解液（含 $1 \\%$ PMSF），吹打均匀，冰上放置 $3 0 \\mathrm { m i n }$ ，期间剧烈振荡3次，每次 $3 0 ~ \\mathrm { s }$ ，将细胞裂解液置于 $4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ， $1 2 0 0 0 \\mathrm { r / m i n }$ 离心 $1 0 \\mathrm { m i n }$ 后吸取上清液，采用BCA蛋白定量试剂盒进行蛋白质浓度的测定。取适量蛋白质样品用 $5 \\times$ LoadingBuffer 混匀，100℃水浴中煮 $5 \\mathrm { m i n }$ 使蛋白质变性。使用十二烷基硫酸钠-聚丙烯酰胺凝胶电泳（SDS-PAGE）分离蛋白质，每孔上样量为 $3 0 ~ { \\mu \\mathrm { g } }$ ，然后将蛋白质转印到聚偏二氟乙烯（PVDF）膜上，使用$0 . 2 \\%$ 明胶室温摇床封闭1h，分别加入不同的一抗4℃孵育过夜；用三羟甲基氨基甲烷吐温（TBST）洗膜3次，每次 $1 0 ~ \\mathrm { { m i n } }$ ；加入相对应的HRP标记二抗室温摇床孵育1h，TBST洗膜3次，每次 $1 0 \\mathrm { m i n }$ ；最后用ECL化学发光液进行显色，于ChemiDocTMXRS+成像系统中检测蛋白质条带并用Quantity One 软件分析条带的密度值和表达量，以 $\\beta$ -actin为内参。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.3 数据统计分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "试验数据以平均值 $\\scriptstyle \\pm$ 标准差（mean±SD）表示，利用SPSS17.0统计分析软件中的单因素方差分析（one-wayANOVA）进行方差分析，采用LSD 法进行两两比较。 $P { < } 0 . 0 5$ 为差异显著， $P { < } 0 . 0 1$ 为差异极显著。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 对TM3细胞增殖的影响不同浓度 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 处理 TM3 细胞 $8 \\mathrm { h }$ 后，根据iCELLigence 细胞功能分析仪实时监测结果(图1)可知，与正常对照组相比，各浓度 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 组的细胞存活率均极显著下降（ $\\cdot P { < } 0 . 0 1$ ），且呈浓度依赖。其中用 $1 5 0 \\mathrm { \\textmu m o l { } L }$ 的 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 处理时细胞存活率下降至 $7 5 \\%$ 左右，达到预计的损伤效果。因此，在后续试验中选用 $1 5 0 \\mu \\mathrm { m o L } / \\mathrm { L }$ 的 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 处理细胞 $8 \\mathrm { h }$ 构建本试验中所需的细胞氧化损伤模型。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A 1.2 BP 500m 150mo/L \\*\\*0.8 80 \\*\\*1 \\*\\*\\*\\*0.4 40 10 00 5 10 15 20 25 30 35 0 150 200 250 300时间Time/h H2O2浓度 Concentration ofH2O2 $( \\mu \\mathbf { M } )$ （24号",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A：iCELLigence细胞功能分析仪实时监测 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 对TM3细胞增殖的影响。B：不同浓度$\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 处理TM3细胞 $8 \\mathrm { h }$ 后对细胞增殖的影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A:real-time monitor the effect of $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ on proliferation of TM3 cells by iCELLigence cell function analyzer.B:effects of different concentrations of $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ on proliferation of TM3 cells after treated for $8 \\mathrm { h }$ 数据柱标“\\*\\*”表示与正常对照组相比差异极显著（ $_ { \\cdot  { P } < 0 . 0 1 }$ ）。下图同。 Value columns of each with “\\*\\*” mean extremely significant difference compared with the normal control group $( P { < } 0 . 0 1 )$ .The same as below. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图1不同浓度 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 对 TM3 细胞增殖的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Effects of different concentrations of $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ on proliferation of TM3 cells ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2RES 对 TM3 细胞增殖的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为研究RES对 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 致TM3细胞氧化损伤的作用效果，首先检测了RES对TM3细胞增殖的影响，由图2可知，用浓度分别为2.5、5.0 和 $1 0 . 0 \\ \\mathrm { \\mu m o l / L }$ 的 RES 处理正常细胞 $2 4 \\mathrm { h }$ 后，各浓度RES组与正常对照组的细胞存活率无显著差异（ $. { \\cal P } { > } 0 . 0 5$ ）。由图3可知，当用RES处理氧化损伤细胞 $2 4 \\mathrm { h }$ 后，与 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 组（仅经 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 单独处理，未经RES处理的氧化损伤细胞）相比，各浓度RES组的细胞存活率均显著提高（ $P { < } 0 . 0 5$ ），但仍无法恢复到正常",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "8对照组水平,且各浓度RES 组间无显著差异 $( P { > } 0 . 0 5 )$ ),因此，后续试验中选取浓度为 $5 \\mu \\mathrm { m o l / L }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "149 的RES对氧化损伤TM3细胞进行处理。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A Bp Control 2.5μmol/L5umol/L 10umol/L 山80400 00 10 20 30 40 50 0 2.5 5 10时间Time/h RES浓度 Concentration ofRES $( \\mu \\mathbf { M } )$ （204号",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A：iCELLigence 细胞功能分析仪实时监测RES对TM3细胞增殖的影响。B：不同浓度",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "RES处理TM3细胞 $2 4 \\mathrm { h }$ 后对细胞增殖的影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A:real-time monitor the effects of RES on proliferation of TM3 cells by iCELLigence cell function analyzer.B:effects of different concentrations of RES on proliferation of TM3 cells after treated for $2 4 \\mathrm { h }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图2不同浓度 RES 对 TM3 细胞增殖的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig. 2 Effects of different concentrations of RES on proliferation of TM3 cells ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A B 2.4 Control H202   \nP RES2.5μmol/L RES5μmol/L # # # 1.6 RES10umol/L 80 山 0.8 0 0 0 10 20 30 40 50 60 Control H2O2 RES2.5μM RES5μM RES10μM 时间Time/h 处理组Groups ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A：iCELLigence细胞功能分析仪实时监测RES对 $\\mathrm { \\cdot H } _ { 2 } \\mathrm { O } _ { 2 }$ 诱导氧化损伤TM3细胞增殖的影响。B：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "RES处理 $2 4 \\mathrm { h }$ 对 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 诱导氧化损伤TM3细胞增殖的影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A:real-time monitor the effects ofRES on proliferation of $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ -induced oxidative-damaged TM3 cells by iCELLigence cell function analyzer.B:effects of RES on proliferation of $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ .induced oxidative-damaged TM3 cells after treated for $2 4 \\mathrm { h }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "数据柱标注“#”表示与 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 组相比差异显著（ $\\cdot P { < } 0 . 0 5$ ）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Value columns with“#” mean significant difference compared with $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ group $( P { < } 0 . 0 5 )$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Effects of RES on proliferation of oxidative-damaged TM3 cells induced by $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.3RES 对氧化损伤TM3 细胞中ROS含量的影响由图4可知，正常细胞经 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 的处理后，细胞内相对荧光强度极显著增强！ $( P { < } 0 . 0 1 )$ ），  \n即表明细胞中ROS 含量显著升高；而氧化损伤细胞经RES 处理后，细胞内相对荧光强度极  \n显著下降 ( $_ { \\cdot  { P } < 0 . 0 1 }$ ），但仍无法恢复至正常对照组的水平。这说明RES能够在一定程度上  \n抑制氧化损伤 TM3 细胞中ROS 的产生。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/9c8021de1910c4183eb8649994871eaeae2098ed9cedad6746ca16aadf4e30ae.jpg",
+        "img_caption": [
+            "图3RES对 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 诱导氧化损伤TM3细胞增殖的影响",
+            "图4RES对 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 诱导氧化损伤TM3细胞中ROS含量的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "数据柱标注“##”表示与 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 组相比差异极显著（ $\\cdot P { < } 0 . 0 1$ ）。下图同。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Value columns with “##” mean extremely significant difference compared with $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ group （20 $( P { < } 0 . 0 1 )$ .The same as below. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Effects of RES on ROS content in oxidative-damaged TM3 cells induced by $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.4RES 对氧化损伤 TM3 细胞中 SIRT1和UCP2 mRNA 和蛋白质相对表达量的影响由图5-A可知，正常细胞经 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 的处理后，细胞中SIRT1mRNA相对表达量极显著降低（ $P { < } 0 . 0 1$ ），UCP2mRNA相对表达量极显著增加（ $P { < } 0 . 0 1$ ）。而氧化损伤细胞经RES处理后，细胞中SIRT1mRNA相对表达量极显著增加（ $_ { P < 0 . 0 1 }$ ），UCP2mRNA相对表达量极显著降低（ $\\cdot P { < } 0 . 0 1$ ）。由图5-B可知，细胞中SIRT1和UCP2蛋白质相对表达量的变化趋势与其mRNA相对表达量变化趋势一致，即 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 处理导致SIRT1蛋白质相对表达量极显著降低（ $_ { \\cdot  { P } < 0 . 0 1 }$ ），而使UCP2蛋白质相对表达量表达极显著增加（ $\\cdot P { < } 0 . 0 1$ ）；RES处理可极显著提高氧化损伤细胞中SIRT1蛋白质相对表达量（ $_ { \\cdot  { P } < 0 . 0 1 }$ ），显著降低UCP2蛋白质相对表达量（ $\\scriptstyle \\cdot < 0 . 0 5$ ）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/cd23f4728003f1b2e6c3cbb647d4ef947c995d0b20fc2dfc17c5d076b79512c2.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A:qPCR 检测RES对 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 诱导氧化损伤TM3细胞中 SIRT1和UCP2mRNA相对表达  \n量的影响。B：Western-blot 法检测RES 对 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 诱导氧化损伤TM3 细胞中 SIRT1和UCP2  \n蛋白质相对表达量的影响。A: detection of the mRNA relative expression levels of SIRT1 and UCP2 in $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ -induced  \noxidative-damaged TM3 cells with treatment of RES by qPCR.B:detection of the protein  \nrelative expression levels of SIRT1 and UCP2 in $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ -induced oxidative-damaged TM3 cells  \nwith treatment of RES by Western-blot method.同行数据肩标“\\*\\*”表示与正常对照组相比差异极显著（ $\\cdot P { < } 0 . 0 1$ ），肩标“##”表示与  \n$\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 组相比差异极显著（ $P { < } 0 . 0 1$ ），肩标“#”表示与 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 组相比差异显著（ $\\scriptstyle \\cdot < 0 . 0 5$ ）。Values in the same line of with“ \\*\\*” superscript means extremely significant diference  \ncompared with the normal control group $( P { < } 0 . 0 1 )$ ，with “##” superscript means extremely  \nsignificant difference compared with the $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ group $( P { < } 0 . 0 1 )$ ，and with“#” superscript means",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "significant difference compared with the $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ group $( P { < } 0 . 0 5 )$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "图5RES对 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 氧化损伤TM3细胞中SIRT1和UCP2mRNA及蛋白质相对表达量的影响Fig.5Effects of RES on mRNA and protein relative expresson levels of SIRTl and UCP2 inoxidative-damaged TM3 cells induced by $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.1 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 诱导TM3细胞氧化损伤模型的建立",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "目前，在细胞氧化损伤模型的建立中，多以 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 作为诱导剂，不同类型的细胞对诱导剂的敏感性不一样，因此诱导剂的浓度和处理时间非常关键[11-12]。当诱导剂浓度过高或处理时间过长时会导致细胞损伤太严重，不利于抗氧化机制的研究；而当损伤程度太弱时，细胞可能通过自身修复影响相关的研究。对于细胞氧化损伤模型，一般通过噻唑蓝（MTT）法检测，根据其吸光度值来判断细胞增殖情况从而确定氧化损伤程度，MTT 法虽然有其优势，如重复性较好、特异性强等，但每次只能确定1个时间点细胞的增殖情况。本试验中采用iCELLigence细胞功能分析仪实时监测，可更直观地判断细胞的增殖情况，而且监测过程中不需要特殊试剂，可减少因多次操作所导致的误差。本试验中，通过iCELLigence 细胞功能分析仪实时监测，发现 $1 5 0 \\mathrm { \\textmu m o l { L } }$ 的 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 处理细胞 $^ { 8 \\mathrm { h } }$ ，细胞存活率下降至 $7 5 \\%$ 左右，符合后续抗氧化损伤实验的要求，因此确定采用 $1 5 0 \\mathrm { \\textmu m o l { } L }$ 的 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 建立细胞氧化损伤模型。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.2 RES对氧化损伤细胞的保护作用",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "研究表明，动物体中 $90 \\%$ 的ROS源于线粒体电子呼吸传递链，ROS的产生与线粒体能量代谢紧密相关，当ROS 含量增加时，会对线粒体的结构、功能造成损伤，而线粒体受到损伤后又会促进 ROS 的生成，如此恶性循环，加重氧化损伤程度[13-14]。解偶联蛋白（UCPs)是位于线粒体内膜上的一类转运蛋白，它们可以介导线粒体内膜的\"质子漏\"使能量以热的形式散失[15]。UCP2作为UCPs家族成员之一，是UCPs 在生殖系统中的主要存在形式[16-17]。大量试验表明，UCP2可以调控ROS 的生成，并参与多种组织的抗氧化损伤作用。Brand[18]提出了UCP2对ROS 的负调控假设模型，当ROS 含量增加时，过氧化物在化学转化过程中产生的某种物质激活UCP2 的质子漏活性，导致线粒体膜电位的下降，UCP2就以一种负反馈调节的方式来限制ROS 的生成，表明在氧化应激过程中，UCP2可以通过降低ROS 的生",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "成量保护机体免受过氧化损伤。同样的结论在 Zhang 等[19]、王晓娜等[20]的试验中也得到证实。Zhang 等[19]的试验表明，高温诱导的凋亡能引起小鼠睾丸内 ROS 含量增加，UCP2 蛋白质表达量也随之增加；王晓娜等[2试验发现，精子内UCP2蛋白质的表达量与过氧化氢的作用浓度呈正相关，UCP2为了对抗增加的ROS，表达量也随之增加。SIRT1作为一种核蛋白，能够以转录的形式抑制UCP2的转录活性，通过与UCP2启动子结合，抑制 UCP2基因的表达，减少其编码的线粒体内膜蛋白的生成，从而抑制线粒体中解偶联反应的发生[21]。相关研究表明，经不同药物诱导的大鼠或小鼠氧化应激模型中，SIRT1都表现出低表达状态，而SIRT1一经激活，可导致 UCP2 的表达下降[8.2-23]。结合以上信息推测，在本试验中，RES通过对 SIRT1/UCP2信号通路的调节发挥对氧化损伤小鼠睾丸间质细胞TM3 的保护作用。本试验结果显示，与正常对照组相比， $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 组细胞中ROS含量极显著增加，SIRT1 mRNA及蛋白质的相对表达量均极显著降低，而UCP2mRNA及蛋白质的相对表达量极显著升高，提示细胞被 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 损伤后细胞中SIRT1含量的降低可能诱导UCP2含量的增加，以抵抗细胞中增加的ROS。UCP2生成量增加，解偶联线粒体内氧化磷酸化过程，减少ATP的生成，ROS的生成量应该下降，但氧化应激在细胞中UCP2表达增强的情况下仍持续存在，推测可能是由于UCP2增加的量不足以抵抗ROS的过量产生。相比氧化损伤细胞，采用RES处理后由 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 所致的SIRT1mRNA及蛋白质表达的下调和UCP2mRNA及蛋白质表达的上调均在一定程度上受到抑制，且细胞中ROS含量也极显著下降，提示RES作为SIRT1的激活剂，能够促进其表达。SIRT1被激活后，可抑制UCP2的表达，理论上应该会产生更多的ROS，但实际采用RES处理后氧化损伤细胞中ROS的含量相对未经RES处理的氧化损伤细胞而言是减少的，分析原因可能是UCP2对ROS存在负反馈调节，即UCP2表达被抑制后，细胞中ROS的含量增加，UCP2通过负反馈调节的方式限制ROS的产生。  \n此外，在本研究中发现，在正常 TM3 细胞中UCP2 mRNA 的表达较丰富，而其蛋白质",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "较难检测到，而经 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 损伤后TM3 细胞中UCP2蛋白质的相对表达量极显著增加。这种情况的出现可能与抗体的特异性有关；也可能是在生理状态下，某些器官中的UCP2mRNA并不最终表达为蛋白质，而在病理状态下就可以启动UCP2mRNA翻译为蛋白质。在 Fisler等[24]的研究中也在胰腺、脾脏、心脏、下丘脑、肺、睾丸、巨噬细胞等检测到大量的UCP2mRNA，而用Westerm blot 法仅在下丘脑、巨噬细胞、白色脂肪组织、脾脏、胰岛的实质细胞中检测到了UCP2蛋白质。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "SIRT1/UCP2信号通路介导了 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 致TM3细胞的氧化损伤，RES通过活化SIRT1抑制UCP2表达，UCP2通过负反馈调节方式削弱氧化损伤细胞内ROS 的生成，从而在一定程度上抑制 TM3 细胞的氧化损伤。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献：  \n[1] ASADI N,BAHMANI M,KHERADMAND A,et al.The impact of oxidative stress ontesticular function and the role of antioxidants in improving it:a review[J].Journal of Clinicaland Diagnostic Research,2017,11(5):IE01-IE05.  \n[2]陈指龙,张晓春,薛立群,等.环磷酰胺致小鼠生精障碍作用研究[J].动物医学进展,2017,38(5):34-38.  \n[3]PANGENI R,SAHNI J K,ALI J,et al.Resveratrol:review on therapeutic potential and recentadvances in drug delivery[J].Expert Opinion on Drug Delivery,2014,11(8):1285-1298.  \n[4] MALHOTRA A,BATH S,ELBARBRY F.An organ system approach to explore theantioxidative,anti-inflammatory,andcytoprotectiveactionsofresveratrol[J].OxidativeMedicine and Cellular Longevity,2015,2015:803971.  \n[5]张成,耿照玉,赵晓惠.白藜芦醇的生物学功能及其在畜禽生产中的应用[J].动物营养学报,2017,29(11):3837-3843.  \n[6] 王慧君.白藜芦醇对高糖高胆固醇饮食小鼠睾丸Leydig 细胞睾酮合成障碍的保护作用研究[D].硕士学位论文.合肥:安徽医科大学,2014.  \n[7]成海建,游伟,靳青,等.白藜芦醇通过激活去乙酰化酶 1/腺苷一磷酸激活的蛋白激酶信号通路影响牛脂肪细胞凋亡[J].动物营养学报,2017,29(12):4398-4407.  \n[8]周曦,易龙,金鑫,等.SIRT1/UCP2通路在白藜芦醇抑制血管内皮细胞氧化应激损伤中的作",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "用[J].第三军医大学学报,2013,35(16):1671-1675.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[9]HSU C P,ZHAI P Y,YAMAMOTO T,et al.Silent information regulator 1 protects the heartfrom ischemia/reperfusion[J].Circulation,2010,122(21):2170-2182.  \n[10]MATTIASON G,SULLIVAN P G.The emerging functions of UCP2 in health,disease,andtherapeutics[J].Antioxidants & Redox Signaling,2006,8(1/2):1-38.  \n[11]张润蔚,王玲,张春晓,等.过氧化氢诱导斜带石斑鱼原代肝细胞氧化损伤模型的构建[J].动物营养学报,2017,29(4):1227-1232.  \n[12]丁逍，刘琳，陈迪,等.过氧化氢诱导原代大鼠睾丸间质细胞氧化损伤模型的建立[J].南京农业大学学报,2014,37(4):99-104.  \n[13]乔卫龙,李炜弘,史年刚,等.线粒体能量代谢与疾病关联机制的研究进展[J].云南中医中药杂志,2016,37(4):61-62.  \n[14]韩孝先,刘泽宇,周庆彪,等.线粒体在炎症调控中的作用研究进展[J].癌变·畸变·突变,2017,29(6):467-470,475.  \n[15]李海.线粒体解耦联蛋白2与能量代谢[J].内江师范学院学报,2010,25(8):52-55.  \n[16] 郑贵浪.UCP2在脓毒症大鼠心肌细胞线粒体中的作用及初步机制探讨[D].博士学位论文.广州:南方医科大学,2016.  \n[17] JI F,SHEN T J,ZOU W Z,et al.UCP2 Regulates embryonic neurogenesisviaROS-mediated yap alternation in the developing neocortex[J].StemCells,2017,35(6):1479-1492.  \n[18] BRAND M D.Uncoupling to survive?The role of mitochondrial inefficiencyinageing[J].Experimental Gerontology,2000,35(6/7):811-820.  \n[19]ZHANG K J,SHANG Y L,LIAO S Y,et al.Uncoupling protein 2 protects testicular germcellsfrom hyperthermia-induced apoptosis[J].Biochemical and Biophysical Research",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[20]王晓娜,朱春芳,张家燕,等.精子的氧化损伤与线粒体解偶联蛋白2(UCP2)表达的关联性[J].医学研究杂志,2017,46(7):62-66.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[21]BORDONE L,MOTTA M C,PICARD F,et al.Sirt1 regulates insulin secretion by repressing UCP2 in pancreatic $\\beta$ cells[J].PLoS Biology,2006,4(9):e295. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[22] 徐静,李楠,王俊红,等.二甲双胍对2 型糖尿病合并非酒精性脂肪肝大鼠肝脏 SIRT1、UCP2表达的影响[J].中南大学学报（医学版）,2013,38(9):882-887.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[23]张玉佩,孔怡琳,杨钦河,等.SIRT1/UCP2通路在脂肪变性HepG2 细胞线粒体能量代谢中的调控机制[J].中国老年学杂志,2016,36(3):513-516.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[24] FISLER J S,WARDEN C H.Uncoupling proteins,dietary fat and the metabolic syndrome[J].Nutrition & Metabolism,2006,3:38. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Resveratrol Attenuates Acute Oxidative Injury in Mouse Leydig Cell TM3 via Silent Information Regulator 1/Uncoupling Protein 2 Signaling Pathway ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Xiaochun1 CHEN Zhilong1 FANG Juan1 LI Chen1 WU Xiaosong2\\* YANG Qing1\\* ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1. College of Veterinary Medicine, Hunan Agricultural University, Changsha 410128, China; 2. College of Animal Science and Technology, Hunan Agricultural University, Changsha 410128, ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "China) ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This experiment was conducted to investigate the protective effect of resveratrol (RES) on oxidative-damaged mouse Leydig cell TM3,and to explore its possible mechanism.Firstly, TM3 cells were treated with different concentrations (0，150，200，250 and $3 0 0 \\ \\mu \\mathrm { m o l / L } \\backslash$ of hydrogen peroxide $\\mathrm { ( H } _ { 2 } \\mathrm { O } _ { 2 } )$ ，and the optimal concentration of $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ was selected to establish the ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "325 oxidative-damaged cell model. Secondly， the normal cells and oxidative-damaged cells were   \n326 treated with different concentrations (O,2.5,5.O and $1 0 . 0 \\ \\mu \\mathrm { m o l / L } )$ of RES for $2 4 \\mathrm { ~ h ~ }$ to select the   \n327 safe concentration of RES. Finally， the oxidative-damaged cells were treated with safe   \n328 concentration of RES for $2 4 \\mathrm { ~ h ~ }$ . Cell proliferation was real-time monitored by iCELLigence cell   \n329 function analyzer during the whole culture process. After the oxidative-damaged cells treated by   \n330 safe concentration of RES, the reactive oxygen species (ROS) content in cell was detected by   \n331 $^ { 2 ^ { \\prime } , 7 ^ { \\prime } }$ -dichlorodi-hydrofluorescein diacetate (DCFH-DA） probe method， and the real-time   \n332 fluorescence quantitative PCR (RT-qPCR) and Western blotting method were used to detect the   \n333 mRNA and protein relative expression levels of silent information regulator 1 (SIRT1） and   \n334 uncoupling protein 2 (UCP2） which were the key factors in SIRT1/UCP2 signal pathway,   \n335 respectively. The results showed as follows: 1） the cell viability was extremely significantly   \n336 reduced after treatment with a concentration of $1 5 0 \\ \\mathrm { \\textmu m o l / L }$ or more of $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ for $8 \\mathrm { ~ h ~ }$ $( P { < } 0 . 0 1 )$ . So,   \n337 the concentration of $1 5 0 \\ \\mathrm { \\textmu m o l { L } }$ was selected as the optimal concentration of $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ to establish the   \n338 oxidative-damaged cell model. 2) The cell viability had no significant change when the normal   \n339 cells treated by $1 0 . 0 \\ \\mathrm { \\ u m o l / L }$ or less RES for $2 4 \\mathrm { ~ h ~ }$ $( P { > } 0 . 0 5 )$ ； the cell viability was significantly   \n340 increased when the oxidative-damaged cells treated by 2.5,5.O and $1 0 . 0 \\ \\mathrm { \\textmu m o l / L }$ RES for $2 4 \\mathrm { ~ h ~ }$   \n341 $( P { < } 0 . 0 5 )$ ，and no significant difference among different concentration RES groups $( P { > } 0 . 0 5 )$ . So,   \n342 the concentration of $5 . 0 ~ \\mathrm { \\ u m o l / L }$ was selected as the safe concentration. 3） When the   \n343 oxidative-damaged cells were treated by $5 ~ { \\mu \\mathrm { m o l / L } }$ of RES for $2 4 \\mathrm { ~ h ~ }$ ,the content of ROS in cells   \n344 was extremely significantly increased $( P { < } 0 . 0 1 )$ ； the relative expression levels of SIRT1 mRNA   \n345 and protein were extremely significantly up-regulated $( P { < } 0 . 0 1 )$ ，while the relative expression   \n346 levels of $U C P 2 \\ \\mathrm { m R N A }$ and protein were extremely significantly or significantly down-regulated   \n347 $_ { \\it P 1 } \\mathrm { < } 0 . 0 1$ or $\\scriptstyle P < 0 . 0 5$ ). It is concluded that RES can activate the expression of SIRT1 and inhibit the   \n348 expression of UCP2; meanwhile, UCP2 can attenuate the production of ROS in cells through a   \n349 negative fedback regulation,thereby inhibiting the oxidative injury of TM3 cells to some extent. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Key Words: resveratrol; oxidative injury; SIRT1; UCP2; mouse Leydig cell TM3 ",
+        "page_idx": 15
+    }
+]

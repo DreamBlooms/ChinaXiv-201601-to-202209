@@ -1,0 +1,445 @@
+[
+    {
+        "type": "text",
+        "text": "基于CALIPSO卫星产品的中国区域异质核化冰云比例差异",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "范学伟¹，郑有飞1,2,3，王立稳1，陈纹锋4（1 南京信息工程大学大气物理学院,江苏 南京210044；2 江苏省大气环境监测与污染控制高技术研究重点实验室,江苏 南京210044；3南京信息工程大学江苏省大气环境与装备技术协同创新中心,江苏 南京210044;4南京信息工程大学环境科学与工程学院,江苏 南京210044)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：利用2012年1月 $\\sim 2 0 1 5$ 年12月CALIPSO冰云3级月平均产品(CAL_LID_L3_Ice_Cloud)对中国区域异质核化冰云比例进行分析，研究冰云的比例分布与季节变化特征，探究中国区域冰云分布情况和影响冰云分布的因素。结果表明：中国南北部冰云的比例差异与地面 $2 \\mathrm { m }$ 温度、地表长波净辐射通量和来自地面的冰核有关。 $- 4 0 \\sim 0 \\mathrm { { ‰ } }$ 之间的冰云比例水平分布，中国大陆北部比中国大陆南部高约 $30 \\%$ ，季节性变化规律明显，冬季南北差异大，夏季南北差异小；云箱温度在-30$\\sim 1 0 \\ \\mathrm { { ^ { \\circ } C } }$ 之间的冰云，中国大陆北部比例比大陆南部平均高出约 $5 \\%$ ，春季、秋季、冬季北部冰云比例均高于南部，夏季温度在 $- 8 ~ \\mathrm { { ^ circ C } }$ 以下，南部的冰云比例超过了北部的冰云比例；在对流层( $1 0 \\mathrm { k m }$ 以下)，冰云比例分布中国大陆北部比南部高，南北部之间冰云比例差异在 $6 \\mathrm { k m }$ 左右显示出峰值，约$5 0 \\%$ ，四季冰云比例随高度增加均呈现增大的趋势，且北部冰云比例均高于南部。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：冰云；CALIPSO；区域差异 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "云对水文系统和地球能量收支产生很大影响。许多先前的研究发现在尝试理解和预测全球气候变化时云是不确定的重要来源[1-2]。冰云是完全或几乎由冰晶所组成的云，其覆盖了全球约$2 0 \\% \\sim 3 0 \\%$ 的区域，冰云的水平、垂直分布会作用到地-气系统，影响全球辐射及天气、温度、气候变化等[3-4],冰云可能受动力、热力条件和冰云内部微物理过程的影响产生降水[5-6]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "与云水相比，冰云的形成和生长过程非常复杂，尚未完全了解[],因为冰粒的形成和生长过程各不相同。冰粒形成涉及同质核化和异质核化(接触冷冻，浸没冷冻，冷凝成核和沉积成核），在低于$- 3 8 \\ \\mathrm { { ^ circ C } }$ 的温度下，通过同质核化和异质核化形成冰粒。相反，在高于 $- 3 8 \\ \\mathrm { { ^ circ C } }$ 的温度下，冰粒完全由异质核化形成[8]。MORENO等[9]报道,接触冷冻的温度高于浸泡冷冻。在多尘的空气条件下比在无尘的空气条件下，通常观察到更多的冰云，其云顶温度在 $- 2 0 \\sim - 1 0 ^ { \\circ } \\mathrm { C }$ 之间[10-1]。但目前仍然缺乏对冰云的全面认识。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由于冰云光学厚度薄，云顶高度高，局部观测困难，因此有必要通过卫星资料对其进行全面深入的研究。随着卫星探测技术的发展，星载观测资料提供了云、大气和气溶胶等参数的时空分布，同时为冰云的研究提供了技术支持，但此前的研究仅从冰云或部分区域进行分析，缺少对中国区域冰云与水云的对比研究。彭杰等12利用CloudSat数据并结合CALIPSO卫星资料发现东亚地区不同高度的云量具有明显的季节特征。闵敏等[3用两年的CALIOP数据研究了中国北方卷云的宏观和光学特征。AVERY等[14]利用2007年8月CALIOP数据对全球冰水含量的垂直分布特征进行了研究分析。李积明等[15]利用CALIPSO卫星云数据研究了东亚地区云的垂直分布特征，发现云顶和云底高度除了随季节变化显著外，还有明显的区域特征。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HUO等[用CloudSat和CALIPSO卫星产品数据分析了中国华北地区、日本海地区和太平洋地区的中云分布特征，探究了3个区域中冰云的冰水路径。DELANOE 等[17-18]将CloudSat和CALIPSO 资料结合形成DARDAR产品，对冰云的垂直分布做出了进一步细化分析。星载雷达或激光雷达的主动传感器可以释放穿透云层的信号，从而获得冰云的垂直分布特征，而主动传感器对冰云敏感的通道受水云、气溶胶等影响更小，因此主动传感器通常会比被动传感器更精确[19]。从上述研究可以发现,使用CALIPSO卫星数据产品研究冰云属性准确性较高。此前的研究缺少对于冰云和水云的对比研究。在这项研究中，我们专注于温度高于 $- 4 0 \\ \\mathrm { { ^ circ C } }$ 以上形成的冰云，这部分冰云必须有冰核参与由异质核化形成。此外，在本研究中，云相无法确认的云被忽略不计，它们占总云样本数的比例约为 $7 . 4 \\%$ ，所引起的不确定性较低。我们只考虑CALIOP可以成功确定的云相态。并比较了中国大陆南部和北部云比例分布特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文利用4aCALIOP冰云3级数据产品研究分析中国区域冰云比例空间和季节性变化特征，探究中国区域冰云的演变特征，得出中国区域冰云分布情况和影响冰云分布的因素，为中国区域冰云进一步研究和理解冰云形成过程的影响因素做出贡献，为我国大气环境监测在冰云方面的研究提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1资料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1卫星数据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "美国宇航局NASA（National Aeronautics andSpaceAdministration）于2006年4月发射CALIPSO(Cloud-Aerosol Lidar and Infrared Pathfinder SatelliteObservation）卫星，CALIPSO是主被动传感器A-Train卫星星座的一部分，A-train卫星在下午1:30左右穿过赤道，轨道高度为 $7 0 5 \\mathrm { k m }$ ,运行周期为 $1 6 \\textup { d }$ 倾角为 $9 8 ^ { \\circ }$ 。CALIPSO卫星上搭载着双偏振激光雷达 CALIOP(the Cloud-Aerosol Lidar with OrthogonalPolarization）红外成像辐射计IR(theImaging Infra-redRadiometer）、宽幅照相机WFC（theWideFieldCamera)[20-21]。CALIOP可以观测全球范围内气溶胶、云的空间结构及特性，该激光雷达能帮助人们测量气溶胶粒子的含量和颗粒的大小，它提供的颗粒物的退偏振信息可以区分冰云和水云，同时能准确确定气溶胶层和云的海拔高度[22]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文利用2012年1月 $\\sim 2 0 1 5$ 年12月CALIPSO卫星CALIOP冰云3级月平均产品（ $\\mathrm { C A L _ { - } }$ LID_L3_Ice_Cloud)研究中国区域冰云比例分布。所有3级产品参数均来自CALIPSO4.10版本2级5$\\mathrm { k m }$ 云剖面产品，每个月生成3个三级数据文件，仅白天数据，仅夜晚数据，以及全天数据，该数据水平分辨率为 $2 . 5 ^ { \\circ } \\times 2 ^ { \\circ }$ ,垂直分辨率为 $1 2 0 \\mathrm { m }$ ,所用资料每个垂直剖面上共有170层，即垂直探测范围是从地面到大约 $2 0 \\mathrm { k m }$ 高度。水平分布研究时选取的区域为 $0 ^ { \\circ } \\sim 6 0 ^ { \\circ } \\mathrm { N } , 7 0 ^ { \\circ } \\sim 1 4 0 ^ { \\circ } \\mathrm { E }$ ,对冰云属性统计时为了避免赤道辐合带影响，选取 $1 5 ^ { \\circ } 5 5 \\sim 5 5 ^ { \\circ } \\mathrm { N } , 7 2 ^ { \\circ } \\sim$ $1 3 6 ^ { \\circ } \\mathrm { E }$ 为研究区域。根据冰云比例分布的差异又将中国区域，分为南部 $( 1 5 ^ { \\circ } \\sim 3 5 ^ { \\circ } \\mathrm { N } , 7 2 ^ { \\circ } \\sim 1 3 6 ^ { \\circ } \\mathrm { E } )$ 和北部 $( 3 5 ^ { \\circ } \\sim 5 5 ^ { \\circ } \\mathrm { N }$ ， $7 2 ^ { \\circ } \\sim 1 3 6 ^ { \\circ } \\mathrm { E }$ )。在这项研究中，冰云（ $\\boldsymbol { F } _ { i c e }$ )的比例定义为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { _ { i c e } } = N _ { _ { i c e } } / \\left( N _ { _ { i c e } } + N _ { _ { w a t e r } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $N _ { _ { i c e } }$ 和 $N _ { \\mathit { w a t e r } }$ 分别是冰云和水云的样本数量。  \n我们只分析了云顶温度高于 $- 4 0 \\mathrm { { ^ { \\circ } C } }$ 的云。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2再分析数据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "我们使用了来自美国国家环境预报中心NCEP(National Centers for Environmental Prediction）的再分析资料，包括地面以上 $2 \\mathrm { m }$ 的温度和地表长波净辐射通量的月平均数据。它是基于 $1 . 8 7 5 ^ { \\circ } \\times 1 . 9 0 4 ^ { \\circ }$ 的空间分辨率。NCEP再分析资料是美国国家环境预报中心将来源于地面、船舶、无线电探空、探空气球、飞机和卫星等的气象观测资料进行同化处理后，研制的全球气象资料数据库。人们认为利用NCEP月平均再分析资料研究中国区域气候的长期变化是基本可信的[23-24]。地表长波净辐射通量$S L R _ { n e t }$ （the surface net longwave radiation flux)定义为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS L R _ { n e t } = L _ { \\uparrow } - L _ { \\downarrow }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $L _ { \\uparrow }$ 是地表向上的长波辐射通量， $L _ { \\downarrow }$ 是地表向下的长波辐射通量",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 结果分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1水平范围内比较冰云和水云的比例",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在中国大陆北部， $- 4 0 \\sim 0 \\mathrm { ~ } \\mathrm { { ^ C } }$ 之间的冰云比例比中国大陆南部高约 $3 0 \\%$ 。表1显示了在-40至 $0 \\mathrm { { ^ { \\circ } C } }$ 之间中国大陆冰云( $F _ { \\mathrm { i c e } }$ ，如公式(1)所示)的比例。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$N _ { \\mathrm { i c e } }$ 和 $N _ { \\mathrm { w a t e r } }$ 是表1中大气柱中的冰水云样本总数。中国大陆上的冰水云比例在 $3 5 ^ { \\circ } \\mathrm { N }$ 以北和 $3 5 ^ { \\circ } \\mathrm { N }$ 以南之间有很大差异，因此，本文将中国大陆以 $3 5 ^ { \\circ } \\mathrm { N }$ 为界分为南北部研究中国区域冰云比例。中国大陆北部的冰云比例高于中国大陆南部,北部的总云量低于南部，而北部的冰云样本数总数多于南部，这些结果表明,中国大陆北部的冰云可能比中国大陆南部更容易形成。当冰云温度在 $- 4 0 \\sim 0 \\mathrm { { ‰ } }$ 之间时，中国大陆南部的平均相对湿度为 $56 . 1 \\%$ ,中国大陆北部的平均相对湿度为 $4 9 . 2 \\%$ ，中国大陆北部的相对湿度低于中国大陆南部，表明中国大陆南部比中国大陆北部有更多的水汽供应。来自NCEP的地表长波净辐射通量显示中国大陆南部的地表长波净辐射通量均值为 $6 1 ~ \\mathrm { { W } } \\cdot \\mathrm { { m } } ^ { - 2 }$ ,中国大陆北部的地表长波净辐射通量均值为 $8 8 ~ \\mathrm { { W } } \\cdot \\mathrm { { m } } ^ { - 2 }$ ，中国大陆南部的地表长波净辐射通量低于中国大陆北部,由中国大陆北部的云比例低引起的强辐射降温。NCEP的地面以上 $2 \\mathrm { m }$ 的温度显示，中国大陆南部的地面 $2 \\mathrm { m }$ 的平均温度为 $2 2 . 2 ~ \\mathrm { ^ { \\circ } C }$ ,中国大陆北部的地面 $2 \\mathrm { m }$ 的平均温度为 $4 . 5 ~ \\mathrm { { ^ circ C } }$ ,中国大陆北部的温度较低，辐射冷却强烈,冷冻层在该区域更加靠近地面。当冰云温度为 $- 4 0 \\sim 0 \\mathrm { { ‰ } }$ 时,中国大陆冰云的平均高度为 $8 1 3 0 \\mathrm { m }$ 中国大陆南部冰云平均高度均高于中国大陆北部。由于温度高于 $- 4 0 \\mathrm { { ^ circ C } }$ 以上形成的冰云完全由异质核化形成,冰云的形成必须有冰核参与,而作为冰核的气溶胶等多来自地表,因此，中国大陆北部的云层更容易受到地表的影响，这可能是该地区较大冰云比例的原因之一。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "冰云的形成与水汽、温度、辐射、冰核等有密切的关系[25],冰核与悬浮在空中水滴碰并在适合的温度下触发凝结形成冰粒。我们研究冰云与相对湿度、地面 $2 \\mathrm { m }$ 温度、地表长波净辐射通量的相关性，相关系数是反映两个变量的相关程度的一种统计方法，其取值一般可划分三级： $| r | < 0 . 3$ 为没有相关性； $0 . 3 \\leqslant \\lvert r \\rvert < 0 . 8$ 为弱相关性; $0 . 8 \\leqslant \\lvert r \\rvert < 1$ 为强相关性。研究发现冰云比例与相对湿度、地面 $2 \\mathrm { m }$ 的温度和地表长波净辐射通量的相关系数分别为",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$0 . 2 6 8 \\AA . - 0 . 5 8 2$ 和0.742，冰云样本数与相对湿度的相关系数为0.518，可以看出冰云比例与相对湿度的相关系数较小，基本没有相关性，冰云比例受相对湿度影响较小;冰云比例与地面 $2 \\mathrm { m }$ 的温度、地表长波净辐射通量有弱相关性，其中与地面 $2 \\mathrm { m }$ 温度有反相关性，与地表长波净辐射通量有正相关性，表明地面 $2 \\mathrm { m }$ 的温度和地表长波净辐射通量对冰云比例变化有相反的作用；冰云样本数与相对湿度具有弱的正相关，表明水汽对冰云样本数具有重要作用，这与表1的数据相符合。以上相关性检验都超过$9 5 \\%$ 置信度水平。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "不同季节中国冰云比例的水平分布也有所不同。中国区域冰云比例呈南小北大分布(表2)。由冰云比例四季水平分布可以看出，春季、秋季和冬季北方地区都处在大值区，冬季南北差异最大；夏季南北差异较小。由表3可以看出，中国区域冰云平均高度季节性变化明显。由各季节来看，中国区域冰云的平均高度呈现夏季高、冬季低的特点；北方的冰云平均高度四季均低于南方。冰云的平均高度越低，越容易受到地表的影响，冰云比例也就越高。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由冰云样本数季节变化(表4)来看，整体上中国南部处于低值区。春季平均样本数为6800,最大值出现在新疆及青海地区，为18000；夏季中国区域冰云样本数普遍增加，冰云平均样本数为8600，大值区出现在中国中西部及北部大部分区域，为25000；秋季冰云样本数平均值为6700，最大值出现在青海省，为21000;冬季中国冰云平均样本数为4800，最大值出现在青海省，为15000。由表4可以发现中国区域冰云样本数呈现夏季大，冬季小的变化特点，青海省基本都处于极大值区，与表3相对比，虽然夏季中国北部冰云比例减小，但是冰云平均样本数增加，冬季中国北部冰云比例增大，但是冰云平均样本数减小，由此可以得出夏季北部水云样本数相对于冰云增加的更多，使冰云比例减小，冬季北部水云样本数相对于冰云减少的更多，使冰云比例增大。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/d5e82700c399b1f2cca64a6d6bd03b4f88e75fdd46ac941cffeb04799ad12aca.jpg",
+        "table_caption": [
+            "表1中国区域冰云相关属性分布",
+            "Tab.1 Distributionof relativeattributes of ice clouds of China "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>区域</td><td>冰云比例</td><td>冰水云样本总数</td><td>相对湿度</td><td>地表长波净辐射通量</td><td>地面以上2m温度</td><td>冰云平均高度</td></tr><tr><td>中国南部</td><td>69.7%</td><td>209 890</td><td>56.1%</td><td>61W·m²</td><td>22.2℃</td><td>5 890 m</td></tr><tr><td>中国北部</td><td>38.2%</td><td>156170</td><td>49.2%</td><td>88W·m²</td><td>4.5C</td><td>10 370m</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2中国区域冰云比例季节平均 $1 \\%$ ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e279a131a45c3f66f7443173172f9322a0e3a18fc21330ca72eb38b0021733bc.jpg",
+        "table_caption": [
+            "Tab.2 Seasonal average of fraction of ice clouds in the regions of China $1 \\%$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>区域</td><td>春季</td><td>夏季</td><td>秋季</td><td>冬季</td></tr><tr><td>中国南部</td><td>45</td><td>59</td><td>31</td><td>9</td></tr><tr><td>中国北部</td><td>87</td><td>66</td><td>83</td><td>97</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3中国区域冰云高度季节平均／m",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/15f89e19c24483924bcd7526f5dacabaa7284b5955d3bc49bf74ae3f0a388a19.jpg",
+        "table_caption": [
+            "Tab.3 Seasonal average of ice clouds height in the regions of China／m ",
+            "表4中国区域冰云样本数季节平均"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>区域</td><td>春季</td><td>夏季</td><td>秋季</td><td>冬季</td></tr><tr><td>中国区域</td><td>7570</td><td>9130</td><td>7910</td><td>6 660</td></tr><tr><td>中国南部</td><td>8 640</td><td>9 890</td><td>8950</td><td>7820</td></tr><tr><td>中国北部</td><td>6500</td><td>8 370</td><td>6870</td><td>5510</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/431f37c5bdd7cd04be2455f0c54fc7355f50bc4433ccdf6cf5e383e90a942ee6.jpg",
+        "table_caption": [
+            "Tab.4 Seasonal average of ice clouds sample number in the regions of China "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>区域</td><td>春季</td><td>夏季</td><td>秋季</td><td>冬季</td></tr><tr><td>中国区域</td><td>6800</td><td>8 600</td><td>6700</td><td>4800</td></tr><tr><td>中国南部</td><td>5300</td><td>7800</td><td>5300</td><td>2900</td></tr><tr><td>中国北部</td><td>8300</td><td>9 400</td><td>8100</td><td>4 700</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2每个云箱温度范围内比较冰云和冰云的比例",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在中国大陆，云箱温度 $( C B T )$ 从 $- 3 0 \\mathrm { ~ \\sim ~ } - 1 0 \\mathrm { ~ \\textdegree C }$ 范围内，观测到冰云的比例显著减少。图1a显示了冰云的比例(等式(1)所示）与云箱温度之间的关系。云箱温度在 $- 4 0 \\sim 0 \\mathrm { { ^ { \\circ } C } }$ 之间以 $2 ^ { \\circ } \\mathrm { C }$ 的间隔进行分档。 $N _ { _ { i c e } }$ 和 $N _ { \\mathit { w a t e r } }$ 是每个云箱温度内云样本总数。图1b显示了中国大陆北部、中国大陆南部和整个中国大陆的冰云(实线)和水云(虚线)的样本数。随着CBT的减小，冰云的比例增加。然而，中国大陆南部和北部的每个CBT中冰云的比例表现不同，北部冰云比例高于南部和整个中国，在 $- 2 0 \\mathrm { { ^ { \\circ } C } }$ 左右显示出峰值，差异约为 $8 \\%$ 。在CBT大约 $- 1 7 \\ \\mathrm { { ^ circ C } }$ 左右，冰云与水云数量相当。图1c显示了中国大陆南部，中国大陆北部和整个中国大陆的平均相对湿度随云箱温度的变化。在 $0 \\%$ 南部的平均相对湿度在 $6 0 \\%$ 左右，北部的平均相对湿度在 $4 9 \\%$ 左右，随着温度的降低，南部的平均相对湿度减小，北部的平均相对湿度增大，在 $- 4 0 \\mathrm { { ^ { \\circ } C } }$ 附近两者趋于相同，但北部的冰云比例却大于南部，表明此时水汽不是影响冰云比例的主要原因，来自地表冰核的影响可能是北部冰云比例较高的原因。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "中国区域冰云比例(图2)存在明显的季节变化特征。各季节冰云比例随温度减小都呈现明显增大趋势。春季、秋季、冬季北部的冰云比例都高于南部，冬季冰云比例起始于较低的数值，在 $0 \\sim -$ $1 0 \\ \\mathrm { { ^ { \\circ } C } }$ 比例变化不大；夏季南部冰云比例在 $- 8 ~ \\mathrm { { ^ circ C } }$ 以下超过了北部冰云比例，且 $0 \\sim - 1 0 ^ { \\circ } \\mathrm { C }$ 北部冰云比例变化不大，具体的影响因素可能是对于相同的温度层，夏季南部水汽十分充足，使得冰云比例上升。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由不同季节冰云样本数随温度变化(图3)来看，各季节冰云样本数随温度增高呈现减小趋势；水云样本数在 $- 1 0 \\sim - 4 0 \\mathrm { ~ } \\mathrm { { ^ { \\circ } C } }$ 之间随温度降低呈现减小趋势，在 $0 \\sim - 1 0 ^ { \\circ } \\mathrm { C }$ 之间有略微增加的趋势;北部的冰水云样本数在 $- 5 ^ { \\circ } \\mathrm { C }$ 以下均高度南部， $- 5 ^ { \\circ } \\mathrm { C }$ 以上各季节略有不同。夏(冬)季冰水云样本数在每个温度层均多(少)于其他季节。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3每个海拔高度内比较冰云和水云的比例",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在对流层，中国大陆南部和北部之间冰云比例的差异程度较大。图4a显示出了中国大陆南部、中国大陆北部和整个中国大陆上冰云比例（如等式",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "100 107 80  \n088 2 北部 1W T 会 0%/  \n0 南部冰云20 A -北部水云10 ： 1 103 --南部水云 4040-35-30-25-20-15-10-5 0 104035302520151国 0 30403530252015105 0云箱温度/℃ 云箱温度／℃ 云箱温度／℃",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9e299b1c42c3d95068c2db4167d026e1746b09e2451e20505947b173668edf55.jpg",
+        "img_caption": [
+            "图22012年1月 $\\sim 2 0 1 5$ 年12月中国区域冰云比例随温度变化的四季垂直分布图;(a)春季;(b)夏季;(c)秋季;(d)冬季Fig.2Seasonal vertical distributionof fractionof iceclouds with temperatureof China from Jan 20l2 to Dec 2015:(a)spring; (b) summer;(c) autumn; (d) winter"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/af367a18155fe3fe27a84c157a83cfef65ffb67ad26b51378f61b35eebb89eca.jpg",
+        "img_caption": [
+            "图32012—2015年中国区域冰水云样本数随温度变化的四季垂直分布图;(a)春季;(b)夏季;(c)秋季;(d)冬季Fig.3Seasonal vertical distribution oficeclouds sample numberwith temperatureof Chinafrom Jan2O12 toDec 2015;(a) spring; (b) summer; (c) autumn; (d) winter"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1)所示)和高度之间的关系。以下图中高度均在$0 \\sim 1 0 0 0 0 \\mathrm { m }$ 之间以 $5 0 0 \\mathrm { ~ m ~ }$ 的间隔分档， $N _ { _ { i c e } }$ 和 $N _ { w a t e r }$ 是每个高度层内云样本总数。图4b显示了中国大陆南部、中国大陆北部和整个中国大陆上的冰云(实线)和水云(虚线)的样本数量和高度之间的关系，在 $5 \\mathrm { k m }$ 左右北部冰水云数量相当，在 $8 ~ \\mathrm { k m }$ 左右南部冰水云数量相当。图4c示出了中国大陆南部、中国大陆北部和整个中国大陆上平均相对湿度和高度之间的关系，在 $4 . 5 \\ \\mathrm { k m }$ 以上北部的相对湿度超过了南部。图4d示出了中国大陆南部、中国大陆北部和整个中国大陆上平均温度和高度之间的关系。中国大陆南部和北部 $1 0 \\mathrm { k m }$ 以下的冰云比例明显不同。中国大陆北部 $1 0 \\mathrm { k m }$ 以下的冰云比例高于南部,在 $0 { \\sim } 3 \\ \\mathrm { k m }$ 南部的冰云比例几乎为0,这是由于南部 $3 \\mathrm { k m }$ 以下的平均温度高于 $0 \\mathrm { { ^ { \\circ } C } }$ ,在高于 $0 \\%$ 的情况下冰云无法形成， $3 \\mathrm { k m }$ 以后冰云比例缓慢上升直到 $1 0 \\mathrm { k m }$ 冰云比例达到 $9 0 \\%$ 左右；南北部之间冰云比例差异在 $6 \\mathrm { k m }$ 左右显示出峰值，北部冰云比例比南部高约 $5 0 \\%$ ，而温度层的最大差异仅为 $8 \\%$ ，这是因为在相同的温度情况下，南部所对应的海拔高度更高，冰云样本数也更多，所以比例差异变得相对较小，这些差异取决于每个海拔高度的云箱温度差异。我们发现冰云的比例在图1a中从 $- 1 0 \\sim -$ $2 5 ~ \\mathrm { { ^ { \\circ } C } }$ 急剧上升，北部 $4 ~ \\mathrm { k m }$ 左右的云箱温度达到-$1 0 \\ \\mathrm { { ^ { \\circ } C } }$ 左右，在这个高度范围内冰云的比例改变非常大。另一方面，南部 $4 \\mathrm { k m }$ 左右的云箱温度比北部温暖，在这个温度范围内，冰云的比例变化不大。这表明中国大陆北部 $- 1 0 \\sim - 2 5 \\mathrm { ~ \\textdegree C }$ 之间的冰云形成得到了促进。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "不同季节中国区域冰云比例随高度变化如图5。各季节冰云比例随高度增加均呈现增大的趋势，北部均高于南部;夏(冬)季中国南北部冰云比例均低(高)于其他季节，南北之间差异最小（大），主要原因是夏(冬)季的温度较高，各高度层温度升高(降低)不利于(有利于)冰云形成。由冰云样本数的季节变化(图6)来看，不同季节冰云样本数随高度增高总体呈现增大趋势。水云样本数随高度增高呈现先增加后减小趋势。在低层( $4 ~ \\mathrm { k m }$ 以下)",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/291ed406babe70fb029610e18abfc565809a3edbcb19ed0f81e6b5a41e8b305e.jpg",
+        "img_caption": [
+            "图42012—2015年中国区域冰水云相关属性随高度变化垂直分布图:(a)冰云比例;(b)冰水云样本总数;(c)相对湿度;(d)温度Fig.4VerticaldistributionofrelativeatributesofcecloudsandwatercloudswithheightofChinafromJan2O12toDec2015 (a)fractionof ice clouds; (b)thesample numbers of iceclouds and water clouds; (c)relative humidity; (d)temperature"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ca3d29e5156d74f29acf97ef93d3da1fa9defb631a2fd74915b9607b65736dce.jpg",
+        "img_caption": [
+            "图52012—2015年中国区域冰云比例随高度变化四季垂直分布图;(a)春季;(b)夏季;(c)秋季;(d)冬季Fig.5Seasonal vertical distribution of fraction of ice clouds of with temperature of China from $\\mathrm { J a n } 2 0 1 2$ to Dec 2015:(a) spring; (b) summer; (c) autumn; (d) winter",
+            "图62012年1月 $\\sim 2 0 1 5$ 年12月中国区域冰水云样本数随高度变化四季垂直分布图;(a)春季;(b)夏季;(c)秋季;(d)冬季Fig.6Seasonal vertical distributionof ice clouds sample number with height of China from Jan 2O12 to Dec 2015:(a) spring;(b) summer;(c) autumn; (d) winter"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "10000 100009000 (a) □ 4 王 9000 (b) 北部冰云 A8000 + 中 A ！ 8000 L  \nm/ 7000 1 m/ 7000 北云 4  \n高 5000 南部水 江 高 5000 A4000 中国水云 1 4000 13000 T 3000L A2000 A 2000 Y A1000 . A 1000 ? 1A T 10 . 0 4101 10² 103 104 105 106 107 101 10² 103 104 105 106 107云箱样本数 云箱样本数10000 10000T □ 19000 (c) 门 广 9000 (d) A8000 北 主 三 8000 北部冰云 三 1  \n度 m 6000 5000 北部水会 南部水会 A Y □ 度 m 6000 5000 中国冰云 北部水 1 □  \n高 中国水云 D □ 高 南部水4000 4 4000 . 2中国水云3000 ↑ 中 3000 H 12000 . A2000 .1000 A 1000 □ . AA0 F · 中 0 T + 上101 10² 103 104105 106 107 101 102 103 104105 106 107云箱样本数 云箱样本数",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "夏(冬)季的冰云样本数低(高)于其他季节;在高层（ $4 \\mathrm { k m }$ 以上)冬季的冰云样本数低于其他季节，夏季的冰云样本数高于其他季节(除春季),这些现象主要原因是在低层冰云主要受温度的影响，夏(冬)季低层温度较高不利于(有利于)冰云形成，在高层温度已不再是主要影响冰云形成的主要因素，冰云主要受水汽影响，夏季的地面温度较高，水汽蒸发旺盛，给冰云形成提供了充足的水汽；冬季干冷，无法给冰云形成提供相应的水汽条件。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "通过对中国区域4aCALIOP冰云3级产品资料的研究分析，得出以下结论：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "L $( 1 ) - 4 0 \\sim 0 \\mathrm { { ‰ } }$ 之间的冰云比例，中国大陆北部比中国大陆南部高约 $3 0 \\%$ 。北部的云量低于南部，导致强烈的辐射冷却，大气温度降低，冷冻层在该区域中靠近地面，北部冰云平均高度低于南部，北部的云层更容易受到地表冰核影响，使北部冰云比例增加。四季冰云比例北部均处于大值区，夏(冬)季南北差异小(大)，冰云样本数整体出现夏(冬)季大(小)的特点。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2)中国大陆南北部的冰云比例差异在 $- 2 0 \\ \\mathrm { { ^ { \\circ } C } }$ 左右显示出峰值,约为 $8 \\%$ 。在 $- 3 0 \\sim - 1 0 \\mathrm { ~ \\textdegree C }$ 之间，通过接触冷冻和浸没冷冻过程形成冰粒，我们的结果表明这些形成过程在北部得到了促进。我国城市碳质气溶胶的污染特征表明，北方城市较南方城市有较高的碳质气溶胶浓度，尤其在冬季，可能跟燃煤排放有关系，而燃煤对硝酸盐和碳质气溶胶的贡献超过 $5 0 \\% ^ { [ 2 6 - 2 7 ] }$ 。我们提出这些冰核对北部冰云的影响大于南部。春季、秋季、冬季北部冰云比例均高于南部，夏季南部冰云比例在 $- 8 \\mathrm { { ^ circ C } }$ 以下超过北部冰云比例。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3)在对流层（ $1 0 \\mathrm { k m }$ 以下），中国大陆南北部之间冰云比例存在显著差异。北部的冰云比例均高于南部，冰云比例差异在 $6 \\mathrm { k m }$ 左右显示出峰值，约$5 0 \\%$ ；在对流层低层( $3 \\mathrm { k m }$ 以下），中国南部的冰云儿乎为0,这表明北部冰粒形成始于较低的海拔，接近地表，而南部则始于较高的海拔，北部地表对冰核的影响大于南部。四季冰云比例北部均高于南部，夏(冬)季南北部之间的冰云比例均低(高)于其他季节。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "丐乂mIIHCS): ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]DUFRESNE JL, BONY S. An assessment of the primary sources of spread of global warming estimates from coupled atmosphere ocean models[J]. Journal of Climate,2008,21(19): 5135-5144.   \n[2]STEPHENS, GRAEME L. Cloud feedbacks in the climate system: A critical review[J]. Journal of Climate,2005,18(2): 237-273.   \n[3]LIOU K N.Influence of cirrus clouds on weather and climate processes:a global perspective[J]. Mon Wea Rev,1986,114(6): 1167-1199.   \n[4]HONG G,YANG P, BAUM B A,et al.Parameterization of shortwave and longwave radiative properties of ice clouds for use in climate models[J]. Journal of Climate,2009,22(23): 6287-6312.   \n[5]郑倩,郑有飞,王立稳,等.京津冀夏季强降水下冰云宏微观特 征[J].干旱区地理,2019,42(1): 67-76.[ZHENG Qian,ZHENG Youfei,WANG Liwen, et al. Macrophysical and microphysical properties of ice clouds during heavy rainfals in Beijing-TianjinHebei region in summer[J].Arid Land Geography,2019,42(1): 67-76.]   \n[6] 邓军英,丁明月,王文彩,等.冰云粒子微物理属性在一次强降 雨过程中的垂直分布[J].干旱区地理,2016,39(3):590-599. [DENG Junying,DING Mingyue,WANG Wencai,et al. Vertical distributions microphysical properties of ice particles in a heavy rain[J].Arid Land Geography,2016,39(3): 590-599.]   \n[7]LOHMANN U,FEICHTER J. Global indirect aerosol ffects: a review[J].Atmospheric Chemistry and Physics,2005,5(3): 715-737.   \n[8]HOOSE C, MOHLER O. Heterogeneous ice nucleation on atmospheric aerosols: A review of results from laboratory experiments [J]. Atmospheric Chemistry and Physics,2012,12(20): 9817-9854.   \n[9] MORENO L A,STETZER O, LOHMANN U. Contact freezing: A review of experimental studies[J].Atmospheric Chemistry and Physics,2013,13(19): 9745-9769.   \n[10] SEIFERTP,ANSMANN A,MATTIS I, et al.Saharan dust and heterogeneous ice formation: Eleven years of cloud observations at a central European EARLINET site[J]. Journal of Geophysical Research Atmospheres,2010,115(D20).   \n[11] ZHANG D, WANG Z, HEYMSFIELD J, et al. Quantifying the impact of dust on heterogeneous ice generation in midlevel supercooled stratiform clouds[J]. Geophysical Research Letters,2012, 39(18): 143-157.   \n[12]彭杰,张华,沈新勇.东亚地区云垂直结构的CloudSat卫星观测 研究[J].大气科学,2013,37(1):91-100.[PENGJie,ZHANG Hua, SHEN Xinyong.Analysis of vertical structure of clouds in East Asia by space-based lidar data [J]. Chinese Journal of Atmospheric Sciences,2013,37(1): 91-100.]   \n[13]MIN M, WANG P,CAMPBELLJR,et al. Cirrus cloud macrophysical and optical properties over North China from CALIOP measurements[J]. Advances in Atmospheric Sciences,2011,28(3): 653-664.   \n[14]AVERY M, WINKER D,HEYMSFIELD A,et al. Cloud ice water ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "content retrieved from the CALIOP space-based lidar[J].Geophysical Research Letters,2012,39(5): L05808.   \n[15] 李积明,黄建平,衣育红,等.利用星载激光雷达资料研究东亚 地区云垂直分布的统计特征[J].大气科学，2009,33(4):698- 707.[LI Jiming,HUANG Jianping,YI Yuhong,et al.Analysis of vertical distribution of cloud in East Asia with CloudSat data [J]. Chinese Journal of Atmospheric Sciences,2009,33(4): 698-707.]   \n[16]HUO J.Physical properties of mid-level clouds based on CloudSat/ CALIPSO data over land and sea[J]. Climatic and Environmental Research,2015,20(1): 30-40.   \n[17]DELANOE J,HOGANRJ.A variational scheme for retrieving ice cloud properties from combined radar,lidar,and infrared radiometer[J].Journal of Geophysical Research:Atmospheres,2Oo8,113.   \n[18]DELANOE J,HOGAN R J. Combined CloudSat-CALIPSO-MODIS retrievals of the properties of ice clouds[J]. Journal of Geophysical Research,2010,115(4): D00H29.   \n[19]李静,肖子牛,刘奇俊,等.基于MODIS 和Cloudsat云产品分析 降水云系特征[J].科技信息,2009,(11):42-43.[LIJing,XIAO Ziniu,LIU Qijun,et al.Analysis of precipitation cloud characteristics based on MODIS and Cloudsat cloud products [J]. Science & Technology Information,2009,(11): 42-43.]   \n[20]STEPHENSGL,VANE DG,BOAINRJ,et al. The Cloudsat mission and the A-Train[J].Bulletin of the American Meteorological Society,2002,83(12): 1771-1790.   \n[21]DAVIDMW,MARKAV,ALIO,et al.Overview of the CALIPSO mission and CALIOP data processing algorithms[J]. Journal of Atmospheric & Oceanic Technology,2009,26(11): 2310-2323.   \n[22]刘刚,史伟哲，尤睿.美国云和气溶胶星载激光雷达综述[J].航 天器工程,2008,17(1):78-84.[LIU Gang,SHI Weizhe,YOU Rui. Cloud- aerosol lidar of America[J]. Spacecraft Engineering, 2008,17(1): 78-84.]   \n[23]周青,赵凤生,高文华.NCEP/NCAR逐时分析与中国实测地表 温度和地面气温对比分析[J].气象,2008,(2):83-91.[ZHOU Qing,ZHAO Fengsheng,GAO Wenhua. Comparison and analysis between NCEP/NCAR every-6-hours analysis land surface and air temperature and 753 chinese stations'observation in 2Oo5[J]. Meteorological Monthly,2008,(2): 83-91.]   \n[24]SHI Xiaohui, XU Xiangde,XIE Lian.Reliability analyses of anomalies of NCEP/NCAR reanalyzed wind speed and surface air temperature in climate change research in China[J].Acta Meteorologica Sinica,2007,(3): 320-333.   \n[25]GULTEPE I,HEYMSFIELD A J. Introduction ice fog,ice clouds and remote sensing[J]. Pure and Applied Geophysics,2O16,173 (9):2977-2988.   \n[26]周声圳.我国典型城市和高山地区碳质气溶胶及单颗粒混合状 态研究[D].济南:山东大学,2014.[ZHOU Shengzhen.Study on carbonaceous aerosols and mixing state of individual particles in typical urban and mountain areas in China[D]. Jinan: Shandong University,2014.]   \n[27]张小电.中国不同区域大气气溶胶化学成分浓度、组成与来源 特征[J].气象学报,2014,72(6):1108-1117.[ZHANG Xiaoye. Characteristics of chemical components of aerosol particles in the various regions over China[J].Acta Meteorologica Sinica,2014,72 (6): 1108-1117.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Differences in the fractions of heterogeneous ice clouds over China based on CALIPSO data ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "FAN Xue-wei'， ZHENG You-fei1,2.3, WANG Li-wen'， CHEN Wen-feng (1SchooloftmospricicsingUesityfftionece&ologingi; 2JiangsuKeyLboratoryoftmosphericEnvironmentonitoringndPolutionControl,njingO4,JangsuCina; 3Jiangsu CollaborativeInnovationCenterofAtmosphericEnvironmentandEquipmentTechnologyNanjing Universityof InformationSience&Technology,Nanjing44,iangsu,China；4SholofEnvironmentalSienceandEngineering NanjingUniversityofInformationScience&Technology,Nanjing21oo44,Jiangsu,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Ice clouds have a large impact on Earth's hydrological systems and energy budget.The formation and growth processes of ice clouds are more complicated than those of water clouds and are not yet full understood. To investigate the distribution of ice clouds in Chinaand the factors afecting this distribution,this paper analyzes the horizontal and vertical distributionand seasonal variation of the fraction of heterogeneous ice cloudsover China from January 2O12 to December 2015.Heterogeneous ice clouds must have ice nuclei involved in their formation and formation temperatures greater than $\\textstyle - 4 0 ^ { \\circ } \\mathrm { C }$ ，This paper uses the Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observation(CALIPSO)level-3ice clouds data product(CAL_LID_L3_Ice_Cloud） to analyze the horizontal and vertical distribution of heterogeneous ice clouds over China from January 2O12 to December 2015. Seasonal ice cloud variation is studied as wellBecause of the thin optical depthand high altitude of ice clouds, aircraftand ground-based RSobservationsare diffcult.However,satelitesareauseful toolfordetecting iceclouds. In thisstudy,China is divided southernand northernareas basedondiffrences inthe fractionof ice cloud distribution.Theresultsof this studyshow thatthediferences inthefractionoficeclouds innorthernandsouthern China are related to temperature,radiation,and ice nuclei from the ground.In northern China,the horizontal distribution of the fraction of ice clouds between $\\mathtt { - 4 0 }$ and $0 ^ { \\circ } \\mathrm { C }$ is approximately $30 \\%$ higher than in southern China. The average height of ice clouds in southern China is higher than that in northern China; however,ice clouds inthe north are closer to the groundand thus more afected by surface ice nuclei.The icecloud formation process is promoted more in northern Chinathan in southern China.Aditionally,there is an obvious seasonal variation of the fraction of ice clouds.The diference between northernand southern China is large in winter butsmall in summer.A weak increased (approximately $5 \\%$ ) fraction of ice clouds is observed in northern China in the cloud temperature bin that ranges from $\\scriptscriptstyle \\mathrm { - } 3 0$ to $\\mathrm { \\Gamma \\to 1 0 ^ { \\circ } C . }$ In this temperature range,the contact and immersion freezing processes form ice particles.The results of thisanalysis indicate that these formation processesare promoted in the north.In the spring,autumn,andwinter,thefractionoficeclouds inthe northis higherthaninthe south.Insummer,thefraction of ice clouds below $\\textstyle - 8 ^ { \\circ } \\mathrm { C }$ in the south exceeds that in the north.The fraction of ice cloud bins in the troposphere (below $1 0 ~ \\mathrm { k m }$ ）was larger in northern China than in southern China andthe fraction of ice clouds between the north and the south shows a peak at around $6 ~ \\mathrm { k m }$ ，about $5 0 \\%$ . The fraction of ice clouds in northern and southern China was lowest in summer and highest in winter. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words: ice clouds; CALIPSO; regional differences ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "RegionalSustainability国际编委访问中国科学院新疆生态与地理研究所",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2020年11月15～21日，中国科学院新疆生态与地理研究所拟办英文新刊RegionalSustainability国际编委Hassan M.El Shaer教授(埃及沙漠研究中心)和Ireneusz Malik教授(波兰西里西亚大学)赴中国科学院新疆生态与地理研究所，开展期刊办刊经验讨论与学术交流。访问期间，中国科学院新疆生态与地理研究所所长、Regional Sustainability主编张元明研究员为HassanM.ElShaer和IreneuszMalik颁发了期刊编委聘书。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "交流座谈会上,研究所主办英文期刊Journal of Arid Land和Regional Sustainability编辑部成员与编委就期刊现状与发展展开了讨论。HassanM.El Shaer和Ireneusz Malik从国际编委、国际审稿人和国际作者的角度为期刊发展建言献策，并表示会认真履行编委的责任与义务，同时积极宣传期刊，与编委会成员共同努力将期刊办成高质量、高水平的国际刊物。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "访问期间,Hassan M.El Shaer作了题为“The role of Desert Research Center in desert developmentinEgypt”的学术报告，介绍了埃及荒漠化现状和治理措施，以及埃及沙漠研究中心的机构职能和近期目标任务等，并希望能与新疆生地所在荒漠化防治方面开展密切合作。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "RegionalSustainability是新疆生地所继JournalofAridLand后创办的第二本英文学术期刊,计划于2020年正式出版，期刊将以区域可持续发展研究为主要切入点，关注全球相关领域最新科学技术及研究成果。刊登包括资源开发与利用、城市化与区域可持续发展、城市化与信息化、人地关系与区域差异、人口迁移与社会转型、人类活动空间布局与优化等多领域的研究成果。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "经过近一年的筹备工作，目前期刊已组建了国际化的编委会团队，张元明研究员和德国Eber-swalde University for Sustainable Development大学MartinWelp教授担任联合主编，于瑞德研究员任执行主编，国际编委占总编委人数的3/4。期刊将借助全球最大的科技出版平台—ScienceDirect全文发布平台实施Open Access出版,Regional Sustainability 旨在打造“中国制造”具有国际影响力的一流期刊，为区域可持续发展研究提供高水平的交流平台。",
+        "page_idx": 9
+    }
+]

@@ -1,0 +1,127 @@
+# Biosynthesis of a new psoralidin glucoside by enzymatic glycosylation
+
+LI Jing, LI Nan, ZHAO Yuru, DAI Yiqun, HUO Qiang, MA Tao,LI Hongmei, WU Chengzhu
+
+FacultyofPharmacy,BengbuMedicalCollege,Bengbu233o30,China
+
+Abstract: ObjectiveTomodifythestructureofpsoralidin usingin vitro enzymatic glycosylationtoimproveits watersolubility and stability.Methods A new psoralidin glucoside (1) was obtained by enzymatic glycosylation using a UDPglycosyltransferase. Thechemical structure of compound 1 was elucidated by HR-ESI-MS and nuclear magnetic resonance (NMR)analysis. The high-performance liquid chromatography (HPLC) peaks were integrated and sample solution concentrations werecalculated.MTTassy wasused todetect thecytotoxicityofthecompoundsagainst3cancercelines in vitro.Results Basedon the spectroscopic data,the new psoralidin glucoside was identified as psoralidin-6',7-di-O $\cdot \{ \beta$ -Dglucopyranoside (1), whose water solubilitywas 32.6-fold higher than thatof the substrate.Analysesof pHandtemperature stability demonstrated that compound 1 was more stable than psoralidin at $\mathrm { p H } 8 . 8$ and at high temperatures. Only psoralidin exhibiteda moderatecytotoxicityagainst3humancancercelines.ConclusionInvitroenzymatic glycosylationisapowerful approach for structural modification and improving water solubility and stability of compounds.
+
+Key words: psoralidin; glycosylation; water solubility; stability; cytotoxicity
+
+# INTRODUCTION
+
+Psoralidin,3,9-dihydroxy-2-(3-methylbut-2-enyl)-[1]- benzofuro-β,2-c]-chromen-6-one,is a natural furano coumarin isolated from Psoralea corylifolia L[1] with a widespectrumofbiologicalactivitiessuchas anticancer, antioxidant,antibacterial,antidepressant, and anti-inflammatory activities,and is also shown to regulate insulin signaling [2-6] Invivo studiesof psoralidin,however,are much limited by its poor water solubilityand low absorbability[7].Glycosylation provides an effective strategy to improve the water solubility, chemical stability，pharmacokineticproperties,and biological potency of many natural products [8-1o]. In this study， weattemptedtouseinvitroenzymatic glycosylation for structural modification of psoralidin to enhance its water solubility and absorbability.
+
+UDP-glycosyltransferase(YjiC) is a member of the GT1 family capable of transferring different types of activated sugars (NDP-sugar） to an acceptor. Recent studies have described the use of GTs（YjiC）from Bacillus licheniformis DSM-13 to synthesize novel glucosidessuch asmupirocin，apigenin, phloretin, resveratrol, geldanamycin analogs, isobavachalcone,and neolignanlislInthisstudy，wereporttheinvitro glycosylationandexaminedthe structure,water solubility，andstabilityofthe novelpsoralidin glucoside.
+
+# MATERIALSANDMETHODS
+
+# Instruments and reagents
+
+Nuclear magnetic resonance (NMR） spectroscopic data were acquired on a Bruker Avance I 6OO NMR spectrometer(Bruker,Billerica,MA,USA).HR-ESI-MS spectra were recorded on an Agilent 6538 Accurate Q-TOF mass spectrometer (Agilent Technologies, USA). Semi-preparative reversed-phasehigh-performance liquid chromatography (HPLC） was carried out on 2535Q(Waters，USA). The YjiC enzyme expression vector(pET3O2-YjiC） wasobtained from Prof. Jae Kyung Sohng of Sun Moon University.UDP-glucose and other reagents were purchased from Sigma-Aldrich (USA). HPLC-grade acetonitrile and methanol were purchased from Thermo Fisher Scientific (Waltham, MA,USA).Psoralidin was isolated from $P$ .corylifolia seeds with a purity exceeding $9 8 \%$ . The structure of psoralidin was confirmed by electrospray ionizationmassspectrometry(ESI-MS)andprotonnuclear magneticresonance spectroscopy（'H-NMR）ofthe reference substance [19].
+
+# Enzymatic glycosylation of novel psoralidin glucoside
+
+The expression and purification of YjiC was described in detail previously [1-18].For in vitro glycosylation of psoralidin,a total volume of $5 0 ~ \mathrm { m L }$ containing $1 0 0 \ \mathrm { m m o l / L }$ Tris-HCl $\mathrm { ( p H ~ 9 . 6 ) }$ ，1mmol/L $\mathrm { M g C l } _ { 2 } \cdot 6 \mathrm { H } _ { 2 } \mathrm { O }$ ， $1 . 5 \ \mathrm { m m o l / L }$ psoralidin, $3 \ \mathrm { m m o l / L }$ UDP-glucose,and $1 0 ~ \mathrm { m L }$ MeOH was mixed with $3 5 ~ \mu \mathrm { g / m L }$ of YjiC.The reaction mixture was incubated at $3 0 \ \%$ for $^ { 3 \mathrm { ~ h ~ } }$ and quenched twice with anequal volume of EtOAc.The mixture was then centrifuged at $1 0 \mathrm { \ : \ : 0 0 0 \ : \ : r / m i n }$ for $5 \ \mathrm { m i n }$ to remove the denatured protein.The EtOAc layer was combined, dried and dissolved in methanol for further analysis and purification.Finally，purification of the product was carried out by semi-preparative HPLC with a SunFireTM $\mathrm { C _ { 1 8 } }$ column $2 5 0 \ \mathrm { \ m m } \times 1 0 \ \mathrm { \ m }$ n,Waters,Milford,MA, USA）connected to a UV detector $( 2 5 4 ~ \mathrm { n m } )$ with $20 \%$ acetonitrile( $\mathrm { C H _ { 3 } C N - H _ { 2 } O }$ ， $3 . 0 \mathrm { m L / m i n } )$ toyield compound 1( $1 2 \mathrm { m g } )$ 1
+
+# Watersolubilitydetermination
+
+To determine the water solubility of the compounds,an excess of psoralidin and compound 1 were dissolved in $4 0 0 ~ \mu \mathrm { L }$ HPLC-grade water in eppendorf tubes at room temperature. Anultrasoniccleanerwasusedto maximizethe solubility of each compound. After sonication atroomtemperaturefor $3 0 ~ \mathrm { \ m i n }$ and centrifugation at $1 2 ~ 0 0 0 ~ \mathrm { { r / m i n } }$ for $1 0 ~ \mathrm { m i n }$ to remove the insoluble material, the solutions were analyzed by HPLC to determine the concentration of the sample solution.
+
+# Stability determination
+
+Psoralidin glucoside (1） was extracted and purified as described above.To determine the $\mathrm { \ p H }$ value and temperature sensitivity,psoralidin and compound1 were dissolved in $2 0 0 ~ \mu \mathrm { L }$ Tris-HCl buffer of various $\mathrm { \ p H }$ levels (6.O-9.6)at different temperatures $( 5 0 - 1 0 0 ~ \mathrm { ^ { \circ } C } )$ for $3 0 ~ \mathrm { m i n }$ .The compounds were first dissolved in $2 0 0 ~ \mu \mathrm { L }$ Tris $\cdot$ HCl buffer at $\mathrm { p H }$ values of 6.0, 7.0, 8.0, 8.8, and 9.6 for $3 0 ~ \mathrm { \ m i n }$ at room temperature.Similarly，for temperature sensitivity determination,psoralidin and compound1 were incubated at 50,60,70,80,90,and $1 0 0 \ \mathrm { { ^ \circ C } }$ for $3 0 \ \mathrm { m i n }$ at $\mathrm { p H } ~ 8 . 8$ .Aliquots $( 2 0 ~ \mu \mathrm { L } )$ were used for HPLC analysis to determine the sample solution concentration.The stability of the compounds was calculated as a percentage of the total peak area.
+
+# MTTcolorimetric assay
+
+Human hepatocellular carcinoma (SMMC7721),breast cancer (MCF-7),and colon adenocarcinoma (SW480) cell lines were grown in DMEM media containing $10 \%$ fetal bovine serum (Hyclone,Logan,UT,USA） and $1 \%$ penicillin/streptomycin(Gibco,GrandIsland, NY, USA).All the cell lines were maintained at $3 7 \ ^ { \circ } \mathrm { C }$ ina humidified $5 \%$ $\mathrm { C O } _ { 2 }$ incubator.Toassess the anti-proliferative activity of the compounds,the cells were seeded in 96-well plates at a density of 6OOO cells/ well for 1 day,and pre-incubated with the compounds at varying concentrations for $^ { 4 8 \mathrm { ~ h ~ } }$ .Theanti-proliferative activity of the compounds was evaluated using standard MTT assay procedures [15,18].
+
+# RESULTS
+
+# Identification of psoralidin glucoside
+
+In vitro enzymatic glycosylation was performed and the reaction products were purified by semi-prep HPLC to yield compound 1 ( $1 2 \mathrm { m g }$ ).Compound1was obtained as a white powder,and its molecular formula $\mathrm { C } _ { 3 2 } \mathrm { H } _ { 3 6 } \mathrm { O } _ { 1 5 }$ was established by HR-ESI-MS at m/z 661.2137 $\lfloor \mathbf { M } + \mathbf { H } \rfloor ^ { + }$ The ${ } ^ { 1 } \mathrm { H } .$ and $^ { 1 3 } \mathrm { C }$ -NMR spectra of compound 1 were similar to those of the substrate,psoralidin [19].In contrast, the NMR data of compound 1 showed two anomeric H-atoms $\delta _ { \mathrm { H } } 5 . 0 4$ (H,d, J=7.4 Hz,H-1"),5.00 ('H, d, $J { = } 7 . 3 ~ \mathrm { H z }$ ，H-1""） and corresponding C-atoms $\delta _ { \mathrm { C } }$ 100.5 (C-1"), 100.7 (C-1""), indicating the presence of a disaccharide moiety (Tab.1). The two glucopyranosyl moieties were attached to C-7 and C-6' based on the HMBC correlations from proton at $\delta _ { \mathrm { H } } ~ 5 . 0 4 \$ (H-1") to $\delta _ { \mathrm { c } }$ 158.2 (C-7) and $\delta _ { \mathrm { { H } } } ~ 5 . 0 0$ (H-1"") to $\delta _ { \mathrm { c } }$ 156.7 (C-6'). The HMBC profile also revealed a correlation between the $\delta _ { \mathrm { H } }$ 3.42 (2H, m, H-1") to $\delta _ { \mathrm { c } }$ 120.8 (C-5), 128.3 (C-6), 158.2 (C-7), showing that the prenyl group was attached to C-6 (Fig.1).Inaddition，bothsugarsshowed a $\beta$ -conformation,based on the coupling constant of the anomeric proton at $\delta _ { \mathrm { H } }$ 5.04( $J { = } 7 . 4 ~ \mathrm { H z } )$ and5.00( $\scriptstyle { \mathcal { J } } = 7 . 3$ Hz). Therefore, the structure of compound 1was identified aspsoralidin-6',7-di-O $\mathcal { B }$ -D-glucopyranoside (Fig.2).
+
+![](images/16d67e0a4ee54a51794a4003662bbb1dc592a459f389acdc272d6997fe9ff988.jpg)  
+Fig.1Key HMBC correlations of compound 1.
+
+# Determination ofwatersolubility
+
+The water solubility of the new glucoside (1） was evaluated by comparison with that of the substrate.The solubility of compound 1 in water was found to be $5 2 7 . 6 \pm$ $3 . 4 2 ~ \mu \mathrm { m o l / L }$ ，approximately 32.6-fold higher than that of its substrate,psoralidin" $( 1 6 . 2 3 \pm 2 . 3 1 ~ \mu \mathrm { m o l / L } )$ .As expected, theenzymaticbiosynthesisofanovel glucoside ofpsoralidin greatly enhanced itswater solubility.
+
+# Determination ofpH and temperature stability
+
+The $\mathrm { \ p H }$ stabilityand temperature stability of the compounds were determined by incubating psoralidin and its glucoside (1） dissolved in $2 0 0 ~ \mu \mathrm { L }$ Tris-HCl buffer at varying pH levelsfor $3 0 ~ \mathrm { \ m i n }$ at room temperature,and by incubating the compound solutions at different temperatures for $3 0 ~ \mathrm { m i n }$ at the most stable pH (8.8). HPLC analysis showed that the novel psoralidin glucoside(1) exhibited the highest stability at pH 8.8 with a good temperature stability at $5 0 – 7 0 \ \mathrm { ^ { \circ } C }$ (Fig.3).Theseresultssuggestedthatpsoralidin glucoside is relatively stable at $\mathrm { p H } ~ 8 . 8$ and at high temperatures.
+
+Tab.1 'H-and ${ } ^ { 1 3 } { \mathsf { C } } .$ -NMR(600/150 MHz) data of compound 1in DMSO- $d _ { 6 }$   
+
+<html><body><table><tr><td>No.</td><td></td><td>No.</td><td></td><td></td></tr><tr><td>2 -</td><td>157.4</td><td>3"</td><td></td><td>132.8</td></tr><tr><td>3</td><td></td><td>103.1 4"</td><td>1.72 (s)</td><td>17.7</td></tr><tr><td>4</td><td>159.7</td><td>5"</td><td>1.74 (s)</td><td>25.6</td></tr><tr><td>5</td><td>7.73 (s) 120.8</td><td>1"</td><td>5.04 (d, 7.4)</td><td>100.5</td></tr><tr><td>6</td><td></td><td>128.3</td><td>2 3.26-3.51 (overlap)</td><td>76.6</td></tr><tr><td>7</td><td></td><td>158.2 3"</td><td>3.26-3.51 (overlap)</td><td>73.2</td></tr><tr><td>8</td><td>7.30 (s)</td><td>103.0</td><td>4" 3.26-3.51 (overlap)</td><td>77.2</td></tr><tr><td>9</td><td></td><td>152.9</td><td>5" 3.18 (m)</td><td>63.1</td></tr><tr><td>10</td><td></td><td>105.7</td><td>6" 3.73 (m)</td><td>60.7</td></tr><tr><td>2'</td><td></td><td>155.7 1</td><td>5.00 (d, 7.3)</td><td>100.7</td></tr><tr><td>3'</td><td></td><td>116.9</td><td>2 3.26-3.51 (overlap)</td><td>73.3</td></tr><tr><td>4</td><td>7.81 (d, 8.5)</td><td>120.5</td><td>3 3.26-3.51 (overlap)</td><td>72.5</td></tr><tr><td>5'</td><td>7.19 (dd, 2.1, 8.5)</td><td>115.3</td><td>4" 3.26-3.51 (overlap)</td><td>77.1</td></tr><tr><td>6'</td><td></td><td>156.7</td><td>5" 3.18 (m)</td><td>61.7</td></tr><tr><td>7'</td><td>7.58 (d, 2.1)</td><td></td><td>6." 3.73 (m)</td><td>58.4</td></tr><tr><td>1"</td><td>3.42 (m)</td><td>27.6</td><td></td><td></td></tr><tr><td>2"</td><td>5.40 (t, 7.5)</td><td>121.6</td><td></td><td></td></tr></table></body></html>
+
+![](images/f19d4aef330e720fb498bea11c96f5474ac70301ed9e19f54bf3ba03429d61c0.jpg)  
+Fig.2 Chemical structures of psoralidin and compound 1.
+
+# MTTassay forcell viability
+
+We next investigated the anti-proliferative activity of psoralidin and compound 1 against 3 cancer cell lines using MTT colorimetric assay. The results showed that 48 h after addition of the compounds in the cell culture, only psoralidin exhibited a moderate cytotoxicity against the 3 cancer cell lines with IC5o values ranging from 17.46 to $2 2 . 6 2 ~ \mu \mathrm { m o l / L }$ (Tab.2).
+
+# DISCUSSION
+
+Whilenatural productsprovide a rich source of therapeutically useful compounds,the pharmaceutical industry appearsto show reduced interest in the development of natural products 20.21l. Moreover,because most natural products display poor physicochemical and pharmacokinetic properties,optimization efforts would preclude semi-synthetic,genetic engineering,biotransformationorefficientrouteforstructure-activity relationship studies.
+
+Glycosylation of secondary metabolites is one of the most common modificationsin plantsand other produces to confer such physical changes as in water solubilityandstability.However,somereactions including glycosylation, which is generally considered to enhancethe watersolubility，stability，and bioavailability of the substrate,are not easily accessible usingchemicalmethods[2]Chemicalsynthetic approachesfortheproductionofglycosylated compounds involve tedious,time-consuming multi-step chemical reactions.Enzymatic glycosylation method using YjiC offers another option to produce psoralidin glucosides.So far as we know,this is the first report of in vitro enzymatic glycosylation of psoralidin using YjiC.
+
+![](images/1d6645d400d18390df79bdc1a319153a2a2f81f96af459b7a428e0677fb7ab16.jpg)  
+Fig.3Determination of pH (A) and temperature $( B )$ sensitivities of psoralidin and its glucoside (1)
+
+Tab.2Anti-proliferative activity $( 1 mathsf { C } _ { 5 0 } )$ of the compounds against 3 cancercell lines $( \mu \mathrm { m } \circ \mathsf { I } / \mathsf { L }$ ，Mean±SD, $\scriptstyle n = 3$ ）   
+
+<html><body><table><tr><td>Compounds</td><td>SMMC7721</td><td>MCF-7</td><td>SW480</td></tr><tr><td>Psoralidin</td><td>20.72±1.33</td><td>22.62±1.56</td><td>17.46±0.98</td></tr><tr><td>Compound 1</td><td>>200</td><td>>200</td><td>>200</td></tr></table></body></html>
+
+Glycosylation of natural products has emerged as a viable strategy for producing bioactive compounds with an improved activity[23]. Such sugar atachments also substantiallyinfluencepharmacological andpharmacokineticproperties,including tissuespecificity, water solubility，distribution,and metabolic stability [22-24]. The novel psoralidin glucoside we obtained exhibited the highest stability at a $\mathrm { \ p H \ 8 } . 8$ and at $5 0 { - } 7 0 \ \mathrm { ~ \textdegree C }$ · Therefore,an extraction $\mathrm { p H }$ of 8.8 and a temperature around $6 0 ~ \mathrm { { ^ { \circ } C } }$ can be optimal conditions for biosynthesis of psoralidin glucoside.
+
+Toevaluate thepharmaceuticalpotency，we investigated the anti-proliferative activities of psoralidin and compound 1 against 3 cancer cell lines.Psoralidin isamember of thefuranocoumarin subclassof coumarin,and consists of phenolic hydroxyl groups at the C-7 and C-6' positions.C7-OH and C6'-OH form important networks at the active position for biological activities,includingantioxidant,antibacterialand anticanceractivities[25].Thus,the in vitroantiproliferativeactivityofcompound1decreased considerably $( \mathrm { I C } _ { 5 0 } { > } 2 0 0 \mathrm { ~ \mu m o l / L } )$ ，possibly as a consequence of the bulkiness of glycosylation at the C-7 hydroxyl group and the C-6' hydroxyl group[15,26].
+
+# CONCLUSION
+
+Wereport the in vitro glycosylation of psoralidin by enzymatic biosynthesis. Our data suggest that YjiC is a glycosyltransferasethatconfersmodificationsto psoralidin and that glycosylation can improve the water solubility and stability of compounds.Further studies are needed to clarify whether compound 1 has antitumor activity in vivo.
+
+# REFERENCES
+
+[1]Liu XY,Nam JW,Song YS,et al.Psoralidin,a coumestan analogue, as a novel potent estrogen receptor signaling molecule isolated from Psoralea corylifolia [J].Bioorg Med Chem Lett,2014,24(5):1403-6.   
+[2]Yang HJ,Youn HS,Seong KM,et al.Psoralidin,a dual inhibitor of COX-2and 5-LOX,regulatesionizing radiation (IR)-induced pulmonary inflammation [J].Biochem Pharmacol,2O11,82(5): 524-34.   
+[3]Jan S,Parween T, Siddiqi TO,et al. Anti-oxidant modulation in response to gamma radiation induced oxidative stress in developing seedlings of Psoralea corylifolia L[J].JEnviron Radioactiv,2012, 113(11): 142-9.   
+[4]Wang TX,Yin ZH, Zhang W,et al. Chemical constituents from Psoralea corylifolia and their antioxidantα-glucosidase inhibitory and antimicrobial activities [J]. Zhongguo Zhong Yao Za Zhi,2013,38 (14): 2328-33.   
+[5]Jin ZL,Yan W,Jin H,et al.Differential effect of psoralidin in enhancing apoptosis of colon cancer cells via nuclear factor-kappaB and B-cell lymphoma-2/B-cell lymphoma-2-associated X protein signaling pathways [J]. Oncol Let,2016,11(1): 267-72.   
+[6]Hao WH, Zhang XN, Zhao WW,et al.Psoralidin induces autophagy through ROS generation which inhibits the proliferation of human lung cancer A549 cells [J].PeerJ,2014,2: e555.   
+[7]Pahari P,Rohr J. Total synthesis of psoralidin,an anticancer natural product [J].JOrg Chem,2009,74(7): 2750-4.   
+[8]Ghimire GP,Koirala N,Pandey RP,etal.Modification of emodin and aloe-emodin by glycosylation in engineered Escherihia coli [J]. World JMicrob Biot,2015,31(4):611-9.   
+[9]Nguyen HT,Jae KS.Recent biotechnological progress in enzymatic synthesis of glycosides [J].J Ind Microbiol Biot,2013,40(12): 1329-56.   
+[10]Li Z,Wang J, Zhou Y,et al. Lead compound optimization strategy (3):structure modification strategies for improving water solubility [J].Acta Pharm Sin,2014,49(9): 1238-47.   
+[11] Parajuli P,Pandey RP,Pokhrel AR,et al. Enzymatic glycosylation of the topical antibiotic mupirocin [J].Glycoconjugate J,2O14,31(8): 563-72.   
+[12]Gurung RB, Kim EH, Oh T,et al. Enzymatic synthesis of apigenin glucosides_by glucosyltransferase(YjiC) from Bacillus licheniformis DSM13[J].Mol Cells,2013,36(4):355-61.   
+[13]Pandey RP,Li TF,Kim EH,et al. Enzymatic synthesis of novel phloretin glucosides [J].Appl Environ Microb,2013，79(11): 3516-21.   
+[14]Pandey RP,Parajuli P,Shin JY,et al. Enzymatic biosynthesis of novel resveratrol glucoside and glycoside derivatives [J].Appl Environ Microb,2014,80(23):7235-43.   
+[15]Wu CZ,Jang JH,Woo M,etal. Enzymatic glycosylation of nonbenzoquinone geldanamycin analogs via Bacillus UDPglycosyltransferase[J].Appl Environ Microb,2012,78(21): 7680-6.   
+[16]Huo Q,Li HM,Lee JK,et al.Biosynthesis of novel glucosides geldanamycin analogs by enzymatic synthesis [J].J Microbiol Biotechnol,2015,26(1): 56-60.   
+[17]Li HM,Lee JK,Nie LJ,et al.Enzymatic synthesis of novel isobavachalcone glucosides via a UDP-glycosyltransferase [J].Arch Pharm Res,2015,38(12): 2208-15.   
+[18]Li HM,Li J,Jin W,et al. Transglycosylation of neolignans_by enzymatic synthesis and evaluation of their antitumor activity [J].J South Med Univ,2015,35(11):1570-4.   
+[19]Xiao GD,Li GW,Chen L,et al.Isolation of antioxidants from Psoraleacorylifoliafruitsusinghigh-speedcounter-current chromatogramphy guided by thin layer chromatography-antioxidant autographic assay [J].Chromatogr A,2010,1217(34): 5470-6.   
+[20] Quinn RJ,Carroll AR,Pham NB,et al.Developing a drug-like natural product library[J].JNat Prod,2OO8,71(3): 464-8.   
+[21] Galm U, Shen B.Natural product drug discovery: the times have never been better[J].Chem Biol,2007,14(10):1098-104.   
+[22]Gantt RW,Peltier-Pain P,Thorson JS.Enzymatic methods for glycol (diversification/randomization) of drugs and small molecules [J].Nat Prod Rep,2011,28(11):1811-53.   
+[23]Singh S,Phillips GN,Thorson JS.The structural biology of enzymes involved in natural product glycosylation [J].Nat Prod Rep,2012,29 (10): 1201-37.   
+[24]Blanchard S,Thorson JS.Enzymatic tools for engineering natural product glycosylation[J].Curr Opin Chem Biol,2006,10(3):263-71.   
+[25]Bubols GB,Vianna DR,Medina-Remón A,et al. The antioxidant activity of coumarins and flavonoids[J].Mini-Rev Med Chem,2013, 13(3): 318-34.   
+[26] Cheng,H, Cao XH,Xian M,et al. Synthesis and enzyme specific activation of carbohydrate geldanamycin conjugates with potent anticancer activity[J].JMed Chem,2005,48(2):645-52.
+
+# 酶法糖基化合成一种新型补骨脂定葡萄糖苷
+
+李 静,李 楠,赵玉茹,戴轶群,霍 强,马 涛,李红梅,吴成柱蚌埠医学院药学系，安徽 蚌埠 233030
+
+摘要：目的 为提高补骨脂定的水溶性和稳定性，用体外酶法糖基化反应对其进行结构修饰。方法通过UDP-糖基转移酶对补骨脂定进行糖基化修饰，合成一种新的葡萄糖苷化合物(1)。使用高分辨电喷雾电离质谱(HR-ESI-MS)和核磁共振(NMR)分析,鉴定化合物1的结构;利用高效液相色谱峰面积计算出样品溶液的浓度;MTT法检测化合物对3种肿瘤细胞(SMMC7721、MCF-7、SW480)增殖的影响。结果根据波谱分析,鉴定制备出的新型葡萄糖苷化合物为psoralidin-6',7-di-O-$\beta$ -D-glucopyranoside(1)。水溶性检测结果表明,化合物1的水溶性是底物(补骨脂定)水溶性的32.6倍。此外,化合物1在pH8.8和高温条件下较补骨脂定更加稳定。在抗肿瘤细胞增殖实验中，只有补骨脂定对3种肿瘤细胞都显示出较强的抑制能力。结论体外酶法糖基化是进行结构修饰、改善水溶性和稳定性的强有力方法。
+
+关键词：补骨脂定；糖基化；水溶性；稳定性;细胞毒性
+
+收稿日期:2016-04-12
+
+基金项目:国家自然科学基金(81302671);蚌埠医学院研究生科研创新项目(Byycx1557)作者简介:李 静,硕士研究生,E-mail: lijing2828@126.com通信作者：吴成柱,博士,副教授,硕士研究生导师,电话:0552-3175232,E-mail:wuchengzhu0611@ foxmail.com

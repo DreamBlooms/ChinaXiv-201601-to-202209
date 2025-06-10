@@ -1,0 +1,552 @@
+[
+    {
+        "type": "text",
+        "text": "微型嵌入式系统故障诊断方法综述",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "谢光强，郭小全，李杨，徐峰(广东工业大学计算机学院，广州 510000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：随着物联网和大数据的高速发展，微型嵌入式系统已经广泛应用于外卖、共享单车、运输、快递和智能家居等行业之中，现有的故障诊断研究主要集中在传统嵌入式系统上，因此针对微型嵌入式系统故障诊断文献相对较少。针对上述问题和结合该系统的特点(有限计算能力和存储空间的)，提出了一类适合微型嵌入式系统故障诊断方法分类方法，将其分为两大类，即本地故障诊断方法和远程故障诊断方法。接着讲述了微型嵌入式系统故障诊断方法核心思想，总结出了各方法在微型嵌入式系统上运用的优缺点和应该注意的问题，最后讨论了微型嵌入式系统故障诊断亟待解决的问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：微型嵌入式系统；故障诊断；定性诊断；定量诊断 中图分类号：TP277 doi: 10.3969/j.issn.1001-3695.2018.01.0126 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Review of fault diagnosis methods for mirco-embedded system ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xie Guangqiang, Guo Xiaoquan, Lin Yang†, Xu Feng (School of Computers Guangdong University of Technology,Guangzhou 51ooo0,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Nowadays,with therapiddevelopmentofInternetofThingsandbigdata,micro-embeddedsystems havebeen widely usedintakeawayand sharing industriessuchassharedbikes,transportation,expressdeliveryandsmarthome.Existing fault diagnosisresearch mainlyfocusesontraditional embedded systems.Therefore,relativelyfew fault diagnosis documents for micro-embedded systems.To solvethe above problems and combine the characteristics of the system (limited computing capacityandstorage space),this paper proposesaclass offault diagnosis method clasification methods suitable for miniature embeddedsystems,divided intotwocategories,namelylocalfault diagnosis methodsandremoteFaultdiagnosis method.Then this paperdescribes thecore ideaofthe fault diagnosis method for micro-embeddedsystems,summarizes the advantages and disadvantages of each methodused in micro-embedded systems,and the problems that should be noted.Finally,this paper discusses the problems that need to be solved in the fault diagnosis of miniature embedded systems. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: micro-embedded system; fault diagnosis; qualitative diagnosis; quantitative diagnosis ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "微型嵌入式系统广泛的应用在各行各业之中，例如在打印机行业的POS机、小票打印机等;在安全领域上使用的共享单车的智能锁、安全门上的指纹锁等;医疗领域的心率脉搏检测仪器、康复训练仪器等;人们日常生活用的智能音乐播放器、智能耳机、智能家具等[l-2]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "这些微型嵌入式系统虽然给予了用户安全性的保障和生活上的便利,但是由于日常使用的频率增高,因此导致故障的类型增多和频率增高,例如现在正在火热流行的共享单车、共享汽车智能锁故障问题,智能家具子系统失灵问题等。传统的故障诊断方法已经无法比较好地解决上述一类问题。将一些人工智能诊断方法和微型嵌入式系统的特点相结合可以解决上述的问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "微型嵌入式系统是传统嵌入式系统量级较小的部分，通常该系统的操作系统的大小只有几K到几百K。因此和其他嵌入式系统相比，该系统的集成度较高、功能比较专一，同时资源受限更加严重，计算能力有限，二次开发比较困难[3'4]，例如心率手环、心率耳机、智能锁等。由于微型嵌入式系统是大幅度的裁剪并且满足软硬件的最小需求，因此所述的微型嵌入式系统一般具有以下特点[4-5]:",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a)实时性,可以将信息及时的处理。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "b)专用性,软硬件经过裁剪,满足要求的最小软硬件需求(例如接口数量和类型固定，存储空间大小固定，传感器数量和类型等)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c)较低的计算能力和有限的存储空间。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "d)鲁棒性,不会因为软故障而导致微型嵌入式系统瘫痪。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "e)可预测性,微型嵌入式系统所有功能和应用都是可预测的(如应用的输入和输出,或者功能所需占用的资源)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于微型嵌入式系统资源受限的特点，该系统故障诊断一般分类两个阶段,初步诊断和详细诊断，初步诊断采用的是简单的诊断模型，计算能力要求不高，可以有效的识别系统的简单故障。因为微型嵌入式系统的固化的问题，初步诊断模型需要覆盖整个系统，需要为详细诊断提供有效的数据支持。初步诊断对于复杂故障诊断精度不高，微型嵌入式系统需要通过服务器对初步诊断数据分析和结合其他人工智能诊断方法进行进一步的精度更高的故障诊断。基于上述问题研究涉及文献相对较少，但是针对故障诊断的技术20世纪70年代就已经被提出,产生很多关于故障诊断的诊断方法[6-9]，但传统的诊断方法都是基于资源丰富的条件下进行的故障诊断,而目前关于微型嵌入式系统诊断方法研究成果相对较少。通过对传统故障诊断方法的分析和现有分类架构的分析,结合微型嵌入式系统的特点，本文提出一种适合微型嵌入式系统故障诊断的分类框架[10\\~14],如图1所示,然后对每种方法技术进行详细的阐述并作出对比,最后讨论出目前微型嵌入式系故障诊断领域亟待解决的问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b591eaa48cbdd7be26f8675018c1cf90dbcb3261cbd56550fa5fc99708f604b2.jpg",
+        "img_caption": [
+            "图1微型嵌入式系统故障诊断方法结构图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 本地故障诊断方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本地故障诊断方法指的是微型嵌入式系统通过本地采集数据进行初步诊断和分析的方法。基于微型嵌入式系统特点,本地诊断方法主要解决是故障基础诊断和为远程故障诊断提供故障数据。其中主要包括符号有向图和故障树分析这两种定性的图论方法[7,15,16]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1符号有向图(signed directed graph,SDG) ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定性模型应用于故障诊断最有代表性是SDG 模型,SDG 建模核心就是确定微型嵌入式系统的节点和支路，通过分析正常状态下的节点数据和支路关系，建立微型嵌入式系统节点间的因果关系以图形的方式表示出来,并以此定位到故障源。文[17]首次提出SDG模型运用于故障诊断,SDG模型并不复杂,它是基于基础数学模型获得而来,SDG 模型最终将会得到一张CE 图,并确定SDG相关的概念和定义。文[18]在2005年将SDG的模型和定义进行了归纳和总结,并指出 SDG 数学模型,如式(1)(2)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { i j } = \\mathrm { s g n } { \\left[ \\frac { \\partial X _ { i } } { \\partial X _ { j } } \\right] }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $i , j$ 为如图2所示系统的两个节点, $X _ { i }$ 为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { X } _ { i } = \\boldsymbol { X } _ { i } \\left( \\boldsymbol { t } \\right) = \\boldsymbol { X } _ { i } ^ { 0 } , ( i = 1 , 2 , 3 , \\cdot \\cdot \\cdot , \\mathrm { n } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$X _ { i }$ 为当前节点的状态量,sgn 表示符号 $+ , - , G _ { i j }$ 表示i到 $\\mathrm { j }$ 的支路符号。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum \\limits _ { i } ^ { G _ { i j } } \\sum \\limits _ { j } ^ { \\infty }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图2一般的SDG图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[19]通过SDG模型确定系统节点,结合规则库的方式对节点状态值进行区分，从而实现故障诊断。节点状态值本身并不能反映故障的程度,因此文献[20]在 2015 年提出模糊五级的SDG模型，通过添加定量信息的方式来反映出故障危害程度，该方法比较适合微型嵌入式系统了节点阀值难以确定的情况。微型嵌入式系统的故障节点可能受多个节点影响,因此形成错误故障解释,文献[21]提出了结合贝叶斯推理的多概率的 SDG 模型,该模型引入逻辑门来描述多个节点的逻辑因果关系并通过回溯的方法分析确定搜索到的故障后验概率，从而得出真正的故障原因。针对微型嵌入式系统发生的多重故障,文献[22]提出了结合PCA(主元分析法)和 SDG 对故障进行检测和隔离,分离出多重故障。文[23]提出了一种基于概率扩展SDG和故障索引推理的故障诊断方法。并通过仿真表明，该诊断方法具有较高的故障分辨率，适用于故障原因的定位。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将SDG应用到微型嵌入式系统只需要通过确定节点和支路的关系就能实现故障诊断，不仅诊断模型直观、思路清晰，而且节点的数据还能提供给远程服务器辅助远程故障诊断。但是 SDG算法受限于节点的个数和支路数量,过多的支路、节点信息可能造成信息的冗余且节点阀值难以精确确定，因此容易造成产生错误的故障原因信息[24]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2故障树分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "故障树分析(faulttreeanalysis,FTA)诊断方法是可以将微型嵌入式系统内部故障从整体到局部细化分析的一种因果模型分析方法。其中FTA将微型嵌入式系统的故障分为顶事件、中间事件、底部事件三种事件。其中顶事件是如图3所示的系统故障就是直观的微型嵌入式系统故障,该类故障是最不希望发生，通常需要确定该类故障状态值；中间事件就是各个子系统的故障；底部事件就是各个部件发生的故障,但底部事件的故障不一定会引起顶部事件的故障。如图3所示的子系统A的故障是由部件1和2同时失效引起的[25]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "FTA已经广泛的应用于故障诊断领域,其主要应用于故障类型和种类比较明确的微型嵌入式系统，例如小票打印机的微型嵌入式系统,由于微型嵌入式系统资源受限的特点，可能造成多重故障识别困难的问题，文献[26]提出了多个故障隔离问题的几种排序算法。这些算法提供次优程度和计算复杂度之间的关系,使整体诊断策略的存储复杂性大大减少。文献[27]提出一种利用隐马尔可夫模型(HMM)实时嵌入式系统在线分析意外故障的方法,该方法是结合故障树和贝叶斯网络中概率论,通过大量案例证明该方法在识别复杂故障。文献[28]提出通过结合SVM(支持向量机)和故障树分析对故障进行分类,将故障评定优先级的方法,并通过涡轮泵转子的故障诊断来验证其方法有效。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/56aef352a6c130bb3236bfc14b4710b13313e755b7208c45975f493e25c34d83.jpg",
+        "img_caption": [
+            "图3微型嵌入式系统故障树分析图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "除此之外,可以通过提高推理能力来解决上述问题,文献[29]提出结合FTA、FMEA两种方法,形成基于贝叶斯网络的故障诊断模型,有提高了故障诊断的推理能力。文献[30]通过建立基于FTA的系统现象故障树(SPF),通过该方法可以有效的缩小故障诊断的检索范围和减低了计算难度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用FTA方法需要在充分了解微型嵌入式系统的结构和功能前提下，能够对发生故障进行总结和分析并定量分析出顶部事件故障的发生概率,具有较强的逻辑性，但是对微型嵌入式系统不同分析可能造成故障树节点建立有所差异，因此可能影响故障诊断准确率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 远程故障诊断方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于微型嵌入式系统存储资源和计算资源有限的特点，对于需要大运算量的数据分析和复杂的故障诊断需要将其放在远程服务器进行处理,结合高级人工智能诊断方法在远程进行故障诊断可以有效的提高微型嵌入式系统的故障诊断准确率甚至实现预测故障[31]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1专家系统(expert system,ES) ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于微型嵌入式系统本身资源有限的特点,专家系统一般放在远程服务器端,远程专家系统需要不断采集微型嵌入式系统传输的数据,当发生故障时，查阅自己知识库并通过推理机获得故障诊断信息,并反馈给微型嵌入式系统。如图4所示[32]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ec3b7b0ad3117df10fde51d2976731027ad84c439ad3fdd5169b7b27ec6b1cbf.jpg",
+        "img_caption": [
+            "图4远程专家系统组成图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "远程专家系统应用在微型嵌入式系统首先应该注意的处理数据问题，数据传输的可靠性和可用性是实现故障诊断保障。文献[33]设计出基于远程专家系统的数据库的更新模型,解决了专家系统的数据可靠性和可用性问题,文献[34]提出一种使用DSP和CPLD数据的CLIPS专家系统,该专家系统通过故障的预定义处理,具有知识数据库更新方便，故障诊断准确率高的特点。完成数据处理后，结合本地故障诊断形成相关故障诊断知识，文献[35]利用模糊SDG技术获取系统的故障数据,并形成相应的知识规则,实现了专家系统的在线诊断。文献[36]通过故障树分析数据,并形成相应的专家系统在某一数字控制系统的控制箱故障有比较好的诊断效果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于专家系统故障诊断在微型嵌入式系统应用时不需要精确的数学模型就可以容易直观和快速定位的故障的发生,但是需要对数据进行预处理和大量历史故障数据支持,因此早期将专家系统应用到微型嵌入式系统有一定的局限性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2经验模式分解法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "经验模式分解法(empirical mode decomposition,EMD)广泛应用于基于信号处理的故障诊断,通过微型嵌入式系统本地诊断传输的信号数据分解成多个本征模态函数(IMF),EMD是一种适合非线性和非平稳过程的自适应信号处理方法[37]。信号经过处理,可以分解为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx \\left( t \\right) = \\sum _ { i = 1 } ^ { n } c _ { i } \\left( t \\right) + r _ { i } \\left( t \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\mathbf { x } ( \\mathrm { t } )$ 是原始信号， $C _ { 0 } \\left( t \\right) , C _ { 1 } \\left( t \\right) , \\cdots , C _ { n } \\left( t \\right)$ 分别是第1个IMF到第 $\\mathrm { ~  ~ N ~ }$ 个IMF,而 $r _ { i } \\left( t \\right)$ 是残差[38]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "IMF本身表示一种简单的振荡模式。主要应用于为微型嵌入式系统非平稳数据集，EMD上述数据集中可以有效和实时的诊断出故障[39]。但在处理将数据分解成多个IMF时可能产生噪声问题,该问题会导致分解的IMF不准确,因此,文[40]提出一种结合小波变换和EMD进行原始信号预处理,可以减少其窄带脉冲和随机噪声,提高检测故障准确率。文[39]提出通过结合CMF方法去除噪声,可以有效的提取了设备故障的特征值,并识以此识别故障。文[38]在文[39]的基础上提出将IMF的聚合成三种模式的CMF的新方法,这三种模式分别为：噪声,信号,趋势。通过该方法有利于分解出信号中的噪声部分，提高了早期检测故障准确性。除此之外,通过优化IMF来提高诊断的准确性,文[41]提出一种使用SVM通过对IMF进行分类,通过SVM方法可以识别故障的严重性,并通过实验证明该方法可以有效的识别轴承故障,提高系统的鲁棒性，文[42]提出了可以优化了IMF的提取的峰值并以此量化各种故障,并通过实验证明,该方法有利于设备早期故障的检测。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "经验模式分解法主要应用于非平稳数据集的微型嵌入式系统,通过EMD算法进行信号数据分析，可以快速和准确的提取出故障信息。但是需要注意的是EMD方法不能很好的识别稳定状态的信号和停止状态的信号。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 主元分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "主元分析方法(principal component analysis,PCA)的核心思想是收集正常的历史数据,通过研究和分析历史数据中各变量的因果关系并找到其低维度成份。故障检测模型一般表示为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ S P E } = \\boldsymbol { r } ^ { T } \\boldsymbol { r } , \\boldsymbol { r } = ( \\boldsymbol { I } - \\boldsymbol { P P } ^ { T } ) \\boldsymbol { z }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS P E >  { \\hat { \\sigma } } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "标准化矩阵z∈R $z \\in \\boldsymbol { R } ^ { n \\times m }$ ， .a $\\scriptstyle { \\hat { o } } ^ { 2 }$ 为故障统计量 ${ } , { } ^ { P } { }$ 为 $Z$ 的特征向量,一旦收集到数据和主元分析故障统计量不符合的时候即满足条件5的时候,就代表可能发生故障[43]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "主元分析非常适合内部结构复杂、系统节点多的微型嵌入式系统。节点间关系复杂，会造成故障诊断精度下降的问题，文献[44]提出了基于FDA的故障诊断方法,使用PCA方法降低变速齿轮箱获取的变量的维度,并结合其他方法提高了故障诊断精度。在数据预处理方面，文献[45]提出通过邻域标准化(LNS)策略作为数据预处理方法，并通过实验证明LNS-PCA在多模过程中故障检测能力由于传统PCA的故障检测。PCA对各变量进行综合数据分析得出故障,但是不能够很好的解释故障原因，文献[46]提出结合PCA和SDG的故障诊断综合方法,通过SDG的方法定位到故障位置并有效的分析出故障原因。文献[47]提出一种运用多级PCA的方法来识别故障大小,通过仿真证明该方法可以分析出故障的原因。由于PCA要求的操作数据必须是遵循正态分布,在多模过程中效果并不好。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "主元分析法只需要获取微型嵌入式系统的关键节点历史数据就能诊断出故障,这种方法很适合微型嵌入式系统远程故障诊断的特点。但是使用PCA方法有严格数据要求并且这一类方法需要大量数据支持，比较适合应用到已有大量历史数据的微型嵌入式系统。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4 支持向量机法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "支持向量机(supportvectormachine,SVM)在故障诊断领域上是是非常重要的分类方法,该方法在微型嵌入式系统故障诊断应用的核心思想是：通过对微型嵌入式系统故障数据进行整体分析并对故障特征进行分类来实现故障诊断,其基本数学模型为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf \\left( x , a \\right) = \\left( \\omega \\cdot \\phi \\left( x \\right) \\right) + b\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\mathbf { \\Delta } _ { a }$ 、 $\\omega$ 和 $b$ 是常数, ${ \\phi } \\left( x \\right)$ 由非线性变换得到。通过式(6)得到分类标志：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varphi ( x , a ) = { \\left\\{ \\begin{array} { l l } { + 1 } & { ( f \\left( x , a \\right) > 0 ) } \\\\ { - 1 } & { ( o t h e r ) } \\end{array} \\right. }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SVM可以对本地故障诊断的诊断数据进行有效的分类和分析，但分类的时候应注意其分类的合理性和有效性,文献[48]提出通过结合分形维数和SVM结合,评估每个分形维数及其组合的分类性能并以此实现故障诊断。除此之外，还需要结合其他方法来提高故障诊断准确性，文献[49]提出一种小波包变换(WPT),距离评估方法(DET)和支持向量回归(SVR)的通用多类别的铺路的统计参数提取求解器,有效的区分轴承和齿轮的故障并且提高了故障诊断的准确性。文献[50]提出通过EMD方法提取非平稳信号的特征,结合变换SVM可以有效提高的诊断诊断准确精度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SVM在微型嵌入式系统中主要对本地故障诊断诊断数据的特征信息分类,通过对故障分类可以有效实现“软故障”的自恢复。但是只根据单一的特征信息可能造成多故障诊断准确率不高，因此需要结合其他故障诊断方法才能有效诊断出微型嵌入式系统的故障[51]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5小波变换 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "小波变换(wavelet packet transform,WPT)是基于 FFT(傅里叶变换)演变而来的,FFT 本身在传统故障诊断领域应用已经相当的广泛和成熟,但是由于其只能在平稳的信号下进行故障诊断,因而导致其有很大局限性,而小波变换因为其在不平稳的信号也能进行故障诊断的特点被广泛的推广。小波变换最重要也是应用最广泛的形式是连续的小波变换(CWT),其表达形式为[52]",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW \\chi \\left( a , b ; \\varphi \\right) = a ^ { - \\frac { 1 } { 2 } } \\int x ( t ) \\varphi \\ast \\left( \\frac { t - b } { a } \\right) d t\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $a$ 是尺度参数 $\\mathbf { \\Omega } _ { , b }$ 是时间参数， $\\varphi ( t )$ 是小波基函数, $\\varphi * ( t )$ 是$\\varphi ( t )$ 的共轭函数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "小波变换比较适用数据集波动比较大的微型嵌入式系统，其核心思想是通过对本地故障诊断数据进行小波变换和对信号的特征信息的提取,检测出突变信号来诊断故障。其对多个故障识别比较困难，因此文献[53]将小波变换结合SVM应用于嵌入式变频电机系统,该方案通过SVM对故障分类和复小波识别多个故障并分离。文献[54]出了一种基于小波变换诊断嵌入式系统可靠性的故障诊断程序,并通过不同嵌入式系统故障信息对该故障诊断程序进行鲁棒性测试,证明该程序需要良好的鲁棒性和高效的故障诊断能力。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "小波变换可以有效和快速的识别出信号的突变信息，可以实时快速诊断出故障,但由于小波变换的约束性太强,其变换结果会受到小波基的选择和分解的影响，也与小波函数的参数有关,因此小波变换的自适应性并不强。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.6 人工神经网络",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "人工神经网络(artificialneuralnetwork，ANN)应用到故障诊断主要是使用的BP神经网络模型,其由三层神经元组成如图5所示,分别为输出层、隐含层和输入层。在隐含节点已经自由设置的情况下,这三层是可以逼近任务连续函数[55]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "人工神经网络在微型嵌入式系统中应用通常是远程故障诊断技术的辅助工具,例如，文献[56]通过EDM方法提取滚动轴承非线性特征,通过所选择的特征用于训练人工神经网络(ANN)来分类轴承缺陷,从而成功地在线检测缺陷的严重程度；文献[57]提出一种结合主成分分析(PCA)提取测量数据的主要特征应用于多个过程中执行的系统的有效故障检测和识别方法。并证明该方法可以准确的检测出识别故障；文献[58]通过对传感器收集的振动信号的进行预处理并通过小波分解和傅里叶变换，然后通过人工神经网络的训练成功部件剩余使用寿命并识别组件和机器的故障；文献[59]在构建基于故障树的专家系统的基础,通过ANN方法克服传统专家系统的缺点,并证明该方法是高效可靠的新型方法。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由此可知,人工神经网络是通过对已有的远程诊断的故障数据进行不断学习和训练,解决诊断系统中知识的获取、未知的知识表示和并行推理等问题[56,但是其在前期需要大量的样本支持，因此前期诊断的准确率并不高。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d418bdbc3b6aedcbac8bd96026c39f6e188198d85f73e90c88a6cca65e6109a8.jpg",
+        "img_caption": [
+            "图5BP神经网络模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.7 各方法对比分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于微型嵌入式系统诊断方法可以分为：远程诊断方法和本地诊断方法,其中本地诊断方法是基于微型嵌入式系统资源有限、集成度较高和二次开发较困难的特点,采用定性诊断的方法来实现的,该类方法容易理解和直观,并且可以快速诊断出故障和分析出故障源。远程故障诊断方法是对本地故障诊断数据进行更为精确的分析和诊断，通过该类方法可以有效的提高故障诊断的准确率、实现对本地故障诊断方法的改进和实现故障预测。结合文献[13，15，16]，本文给出了各故障诊断方法对比表,如表1所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "随着微型嵌入式系统在物联网领域迅速发展，基于微型嵌入式系统故障诊断方法研究具有巨大的应用价值，例如在运输行业“仓储式打印机集群系统”、共享单车“智能锁系统”和智能家居“控制系统”等系统。因此如何利用本地故障诊断数据快速建立基于微型嵌入式系统诊断模型,并通过远程故障诊断方法诊断、恢复和预测故障是该系统的核心问题。本文总结近些年国内外关于微型嵌入式系统的发展趋势和问题，对其现有的技术的优缺点进行了总结，并提出了以下一些亟待解决的问题：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a)多故障的检测和分离,通过一种诊断方法往往不能有效的检测和分离出复杂系统的故障。事实上,复杂系统中多故障是经常出现的。因此如何通过混合多个故障诊断方法准确,快速的检测和分离出多故障是急需解决的一个问题。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b)识别新故障,虽然目前通过SDG、PCA、故障树分析和人工神经网络等方法都能实现识别,但是其都依赖于大量历史故障数据,能否在早期（少量历史数据）识别出新故障一直都是待解决的问题。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "c)预测故障和故障自修复，目前微型嵌入式系统故障诊断方法绝大数是针对已经发生故障条件下进行的,这样只能被动的进行故障诊断。在故障未发生前，通过对数据监控和相关故障诊断技术诊断出故障将要发生的时间和原因，从而进行故障预测和故障自修复，这将是一个很有挑战性和应用前景的方向。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/ee0f038a63e83fe1674db7a990e1fed54f928642be43a31d82d13e9f6146811e.jpg",
+        "table_caption": [
+            "表1微型嵌入式系统故障诊断方法对比表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>诊断技术</td><td>SDG</td><td>FT</td><td>ES</td><td>EMD</td><td>PCA</td><td>SVM</td><td>WPT</td><td>ANN</td></tr><tr><td>快速诊断</td><td>？</td><td>？</td><td>√</td><td>√</td><td>√</td><td>7</td><td>√</td><td>7</td></tr><tr><td>识别多重故障</td><td>7</td><td>7</td><td>×</td><td>？</td><td>×</td><td>？</td><td>？</td><td>×</td></tr><tr><td>存储计算要求</td><td>低</td><td>低</td><td>高</td><td>高</td><td>高</td><td>高</td><td>高</td><td>高</td></tr><tr><td>识别新故障</td><td>√</td><td>√</td><td>×</td><td>？</td><td>√</td><td>？</td><td>？</td><td>√</td></tr><tr><td>故障预测</td><td>？</td><td>？</td><td>√</td><td>？</td><td>√</td><td>？</td><td>√</td><td>√</td></tr><tr><td>故障产生路径 说明</td><td>√</td><td>√</td><td>√</td><td>×</td><td>×</td><td>×</td><td>×</td><td>×</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Zavitsanou S,ChakrabartyA,Dassau E,et al.Embedded control in wearable medical devices: application to theartificial pancreas [J].Processes,2016,4 (4): 35.   \n[2]Penhaker M,Cerny M,Martinak L,et al.HomeCare:smartembedded biotelemetry system [J].IFMBE Proceedings,2007,14(3): 711-714.   \n[3]涂刚，阳富民，胡惯荣，嵌入式操作系统综述[J].计算机应用研究, 2000,17 (11):4-9.(Tu Gang,Yang Fumin,Hu Guanrong.A Survey of Embedded Operating Systems [J].Application Research ofComputers,2000, 17 (11): 4-9. )   \n[4]王福刚，杨文君，葛良全.嵌入式系统的发展与展望[J].计算机测量 与控制,2014,22 (12):3843-3847+3863.(Wang Fugang,Yang Wenjun, Ge Liangquan.Development and Prospect of Embedded System[J]. Computer Measurement & Control,2014,22(12): 3843-3847.)   \n[5]Pedram M.Power optimization and management in embeddedsystems [C]// Proc ofAsia and South Pacific Design Automation Conference.New York: ACMPress,2001:239-244. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[6]Wiiisky A S.A survey of design methods for failure detection in dynamic systems [J].Automatica,1976,12: 601-611. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[7] 李红卫，杨东升，孙一兰等，智能故障诊断方法研究综述和展望[J], 计算机工程与设计,2013,34(2):632-637.(LiHongwei,Yang Dongsheng, Sun Yilan,et al. Study review and prospect of intelligent fault diagnosis technique [J].Computer Engineering And Design,2013,34(2): 632-637.)   \n[8]Kelkar S, Kamal R.Adaptive fault diagnosis algorithm for controller area network[J].IEEE Transon Industrial Electronics,2014,61(10): 5527-5537.   \n[9]Pan Jun,Chen Jinglong,Zi Yanyang，et al.Mono-component feature extraction for mechanical fault diagnosis using modified empirical wavelet transformvia data-drivenadaptive Fourierspectrum segment[J]. Mechanical Systems & Signal Processing,2016,s 72-73:160-183.   \n[10]MhamdiL,DhouibiH,Liouane,N,Simeu-Abazi Z,Multiple fault diagnosis using mathematical models [C]/ Proc of the 9th Asian Control Conference. 2013: 1-6.   \n[11] Gao Zhiwei,Cecati C,Ding S X.A survey of fault diagnosis and fault tolerant techniques，part II: fault diagnosiswith knowledge-based and hybrid//active approaches [J].IEEE Trans on Industrial Electronics,2015, 62 (6): 3768-3774.   \n[12]Gao Zhiwei, Cecati C,DingSX.A survey of fault diagnosisand faulttolerant techniques,part i: fault diagnosiswith model-based and signalbased approaches [J].IEEE Trans on Industrial Electronics,2015,62 (6): 3757-3767.   \n[13] Venkatasubramanian V,Rengaswamy R,Yin Kewen,et al.A review of process fault detection and diagnosis，part I: quantitative model-based methods [J],Computers & Chemical Enginering,2003.27 (3): 293-311.   \n[14]周东华，胡艳艳，动态系统的故障诊断技术[J]，自动化学报,2009,35 (6):748-758.(Zhou Donghua; Hu Yanyan.Fault diagnosis techniques for dynamic systems [C]. Acta Automatica Sinica,2009,35 (6): 748-758.)   \n[15]Venkatasubramanian V,RengaswamyR,Kavuri SN,et al.Areview of proces fault detectionanddiagnosis,partI: process history based methods [J],Computers & Chemical Engineering,2003,27(3): 327-346.   \n[16] Venkatasubramanian V, Rengaswamy R, Kavuri S N. A review of process fault detection and diagnosis,part I:qualitative modelsand search strategies [J].Computers& Chemical Engineering.2003,27(3):313-326   \n[17] Iri M,Aoki K,O'Shima E,etal.An algorithm for diagnosis of system failures in the chemical process [J]. Computers & Chemical Engineering, 1979,3 (1): 489-493.   \n[18]杨帆，萧德云.SDG 建模及其应用的进展[J]控制理论与应用,2005, 22 (5):767-774.(Yang Fan,Xiap Deyun.Review of SDG modeling and its application[J]. ControlTheory &Applications,2005,22(5): 767-774.)   \n[19]刘洪刚，吴建军，陈小前等．基于 SDG 的智能故障诊断方法研究[J]. 系统工程与电子技术,2002(1):103-104,109.(LiuHonggang,Wu Jianjun, Chen Xiaoqian,et al. Study on the SDG-based intelligent fault diagnosis method [J].Systems Engineering and Electronics,2002,24(1):103-104.)   \n[20]Liu Yingjie,Xie Gang,Yang Yunyun,Fault location approach based on ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "fuzzy five-range SDG and hierarchical method [C]// Proc of the 27th Chinese Control and Decision Conference.2015:2980-2985. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[21] Peng Di, Geng Zhiqiang,Zhu Qunxiong.A multilogic probabilistic signed directed graph fault diagnosis approach based on bayesian inference [J]. Industrial& Engineering Chemistry Research,2014.53 (23): 9792-9804.   \n[22] SmailiR,ElHarabi R,Abdelkrim,MN.Fault diagnosis based on graphical tools for multi-energy processes [Cl//Proc of the 19th World Congress of the International-Federation-of-Automatic-Control.2014:7073-7078.   \n[23] Liu Yingjie,Meng Qinghao, Zeng Ming,etal.Fault diagnosis method based on probability extended SDG and fault index [C]/ Intellgent Control and Automation. 2016: 2868-2873.   \n[24] 杨恒占，张可，钱富才．基于模糊分层 SDG 模型的故障推理方法[J]. 计算机系统应用,2017,26(4):104-109.(Yang Hengzhan,Zhang Ke, Qian Fucai. Fault Reasoning method based on fuzzy hierarchical SDG model [J]. Computer Systems& Applications,2017,26 (4): 104-109.)   \n[25]李娟，周东华，司小胜等．微小故障诊断方法综述[J]，控制理论与应 用,2012,29(12): 1517-1529.(Li Juan,Zhou Donghua,Si Xiaosheng,et al. Review of incipient fault diagnosis methods [C]. Control Theory & Applications,2012,29(12): 1517-1529.)   \n[26] Shakeri M,Raghavan V,Pattipati KR,et al. Sequentialtesting algorithms for multiple fault diagnosis [J].IEEE Transon Systems,Man,and Cybernetics,Part A: Systems and Humans,1997,30(1): 1-14.   \n[27] GeN,Nakajima S,Pantel M.Online diagnosis of accidentalfaults for realtime embedded systems usinga hidden Markov model [J]，SimulationTransactions of the Society for Modeling and Simulation International,2015, 91 (10): 851-868.   \n[28] Yuan Shengfan, Chu Fulei. Support vector machines-based fault diagnosis for turbo-pump rotor [J].Mechanical Systems &Signal Processing,2006,20 (4): 939-952.   \n[29] Yang Shunkun.A fault diagnosis model for embedded software based on FMEA//FTA and Bayesian network [C]//Procof IEEE International Conference on Reliability. 2009: 778-782.   \n[30] Chen Guorong,Yan Ping,Yi Runzhong,et al.Fault diagnosis method based on system-phenomenon-fault tree [J]. Chinese Journal of Mechanical Engineering,2011,24 (3): 466-473.   \n[31] Ma Chongguo，Wang Jianguo,Li Yazhou. The remote monitoring management and fault diagnosis system of the distributed open numerical control system[J].Key Engineering Materials,2014,589-590: 746-751.   \n[32]Angeli C.Online expert systems for fault diagnosis in technical processes [J]. Expert Systems,2008,25 (2): 115-132.   \n[33] Ding Zhiqin. Research on internet-based open remote fault diagnosis expert system[C]// Proc of International Conference on Informationand Multimedia Technology.2009: 1-4.   \n[34] Zhang Jianhu, Leilei,Li Jiafeng,et al. Research on electronic equipment fault diagnosis expert system based on embedded Linux [J].Advanced Materials Research,2013,683: 837-840.   \n[35]李秀喜，吉世明．基于半定量 SDG 模型的化工过程故障诊断[J]．清华 大学学报：自然科学版,2012,(8):1112-1115+1129.(LiXiuxi,Ji Shiming. Based on semi-quantitative SDG model chemical process fault diagnosis [J]. Jourmal of Tsinghua University: Science and Technology,2012,(8):1112- 1115, 1129.)   \n[36] Wang Yingying, Li Qiuju, Chang Ming,et al. Research on fault diagnosis expert system based on the neural network and the fault tree technology [J]. Procedia Engineering,2012,31(16): 1206-1210.   \n[37] Huang NE, Shen Z,Long S R. The empirical mode decomposition and the Hilbert spectrum for nonlinear and non-stationary time series [Cl//Proc of the Royal Society ofLondon Series.1998: 903-995.   \n[38] Dybala,Jacek; Zimroz,Radoslaw.Rolling bearing diagnosing method based on empirical mode decomposition of machine vibration signal[J].Applied Acoustics,2014,77 (3): 195-203.   \n[39] Gao Q,Duan C,Fan H,et al.Rotating machine fault diagnosis using empirical mode decomposition [J]. Mechanical Systems & Signal Processing,2008,22 (5): 1072-1081.   \n[40] Meng Lingjie; Xiang Jiawei, Wang Yanxue.Ahybrid fault diagnosis method using morphological filter-translation invariant wavelet and improved ensemble empirical mode decomposition [J]. Mechanical Systems and Signal Processing,2015,50-51: 101-115.   \n[41] Zhang Xiaoyuan,Liang Yitao,Zhou Jianzhong.A novel bearing fault diagnosis model integrated permutation entropy, ensemble empirical mode decomposition and optimized SVM[J]. Measurement,2015,69: 164-179.   \n[42] Amarnath M,Krishna IR P.Empirical mode decomposition of acoustic signals for diagnosis of faults in gears androlling element bearings [J]. IET Science Measurement & Technology,2012,6 (4): 279-287   \n[43]李尔国，俞金寿.PCA 在过程故障检测与诊断中的应用[J].华东理工 大学学报,2001(5):572-576.(Li Erguo;Yu Jinshou.Fault detection and diagnosis based onPrincipal Component Analysis [J].Journal of East China UniVersity of Science and Technology,2001 (5): 572-576.)   \n[44] Gharavian MH, GanjFA,Ohadi AR,et al. Comparison of FDA-based and PCA-based features in fault diagnosis of automobile gearboxes [J]. Neurocomputing,2013,121 (18): 150-159.   \n[45] Ma Hehe,Hu Yi, Shi Hongbo.A novel local neighborhood standardization strategy and its application in fault detectionof multimode processes [Cl/ Chemometrics and Inteligent Laboratory Systems.2012,118: 287-300.   \n[46]Lu Yunsong，Wang Fuli， Chang Yuqing，et al. PCA-SDG based fault diagnosis on capl furnace temperature system [C]//Proc of Control and Decision Conference.2013: 3550-3554.   \n[47] Wang Chunxia,Hu Jing,Wen Chenlin.Multi-level PCA and its application in fault diagnosis $[ \\mathrm { C } ] / \\AA$ Proc of the 26th Chinese Control and Decision Conference. 2014.   \n[48] Yang Junyan, Zhang Youyun, Zhu Yongsheng.Intellgent fault diagnosis of rolling element bearing based on SVMs and fractal dimension [J]. Mechanical Systems & Signal Processing,2007,21(5): 2012-2024.   \n[49] Shen Changqing,Wang Dong,Kong Fanrang,et al. Fault diagnosis of rotating machinery based on the statistical parameters of wavelet packet paving and a generic support vector regressive classifier [J]. Measurement, 2013, 46 (4): 1551-1564.   \n[50] Shen Zhongjie,Chen Xuefeng，Zhang Xiaoli，et al.A novel inteligentgearfault diagnosis model based on EMD and multi-class TSVM [J].Measurement,2012,45(1): 30-40.   \n[51] Hui KH,Meng HL,Leong MS,et al. Dempster-Shafer evidence theory for multi-bearing faults diagnosis [J].Engineering Applications of Artificial Intelligence,2017,57: 160-170.   \n[52] Peng Z K,Chu F L.Application of the wavelet transformin machine condition monitoring and fault diagnostics: a review with bibliography [J]. Mechanical Systems & Signal Processing,2004,18 (2): 199-221.   \n[53] Seshadrinath J,Singh B,Panigrahi BK. Investigationofvibration signatures for multiple fault diagnosis in variable frequency drives using complex wavelets [J].IEEE Trans on Power Electronics,2013,29(2): 936-945.   \n[54] Bennouna O,Roux JP.Real time diagnosis& fault detection for the reliability improvement of the embedded systems [J].Journal of Signal Processing Systems for Signalimage and Videotechnology,2013,73 (2): 153-160.   \n[55]司景萍，马继昌，牛家骅，等．基于模糊神经网络的智能故障诊断专家 系统[J].振动与冲击,2017,36(4):164-171.(Si Jingping,MaJichang, Niu Jiayu,et al.An intelligent fault diagnosis expert system based on fuzzy neural network[J]. Journal of Vibration and Shock,2017,36(4):164-171.)   \n[56] Ali JB,Fnaiech N,Saidi L,et al.Application of empirical mode decomposition and artificial neural network for automatic bearing fault diagnosis based on vibration signals [J].Applied Acoustics,2015,89 (3): 16-27.   \n[57] Zhou Jing,Guo Aihuang,Celler B,et al.Fault detection and identification spaning multiple processes by integrating PCA with neural network [J]. Applied Soft Computing,2014,14(1): 4-11.   \n[58] Zhang Zhenyou,Wang Yi,Wang Kesheng,Fault diagnosis and prognosis using wavelet packet decomposition,Fouriertransform and artificial neural network [J],Journal ofInteligent Manufacturing,2O13,24(6): 1213-127.   \n[59] Wang Jinping.Expert system for fault intelligence diagnosis of gasoline engine [C]//Applied Mechanics and Materials.2012: 711-716. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

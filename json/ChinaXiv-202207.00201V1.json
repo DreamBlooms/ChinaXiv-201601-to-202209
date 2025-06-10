@@ -1,0 +1,314 @@
+[
+    {
+        "type": "text",
+        "text": "县域医共体建设典型地区乡镇卫生院效率变动分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "10.12114/j.issn.1007-9572.2022.0525孟业清，李思思 秦江梅③，林春梅③，张艳春?，张丽芳$\\textcircled{1}$ 新疆石河子　832002　石河子大学医学院$\\textcircled{2}$ 北京100007北京市第六医院$\\textcircled{3}$ 北京100044国家卫生健康委卫生发展研究中心通信作者：秦江梅，研究员；E-mail:qinjm@nhei.cn",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要背景：县域医共体通过各种“强基层”措施助力基层医疗服务能力和质量提升，并推动基层医疗卫生机构运行效率提升。目的：分析国家紧密型县域医共体建设试点典型地区乡镇卫生院工作效率和全要素生产效率变动情况。方法：利用中西部地区8个县（市）143个乡镇卫生院2018-2019 年县域医共体监测数据和卫生健康统计年报数据；采用数据包络分析（DEA）Malmquist指数法分析试点前后乡镇卫生院全要素生产率变动情况。结果：与2018年相比，2019 年典型地区乡镇卫生院全要素生产率提高了 $4 . 5 0 \\%$ ，A1县、A2县、B1市、B2县、C1县、C2 县、D1县和D2 县分别有 $4 7 . 8 3 \\%$ 、 $7 2 . 2 3 \\%$ 、 $5 8 . 0 6 \\%$ 、 $5 9 . 2 6 \\%$ 、 $8 0 . 0 0 \\%$ 、 $7 2 . 7 3 \\%$ 、$8 5 . 7 1 \\%$ 和 $6 6 . 6 7 \\%$ 的乡镇卫生院全要素生产率提升，西部4县乡镇卫生院全要素生产率提升占比较高。结论：县域医共体改革“强基层”措施对乡镇卫生院效率提升有推动作用，乡镇卫生院效率持续提升不仅需要牵头医院提供有针对性帮扶，更需要调动乡镇卫生院内生动力和积极性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词县域医共体；乡镇卫生院；全要素生产效率；Malmquist指数法",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Analysis on the Change of Efficiency of Township Hospitals of the Close County Medical Communities in Typical National Pilot Areas /MENG Yeqing,LI Sisi, QIN Jiangmei， LIN Chunmei, et al ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Background: The county medical community has helped improve the capacity and quality of primary medical services through various\"strengthening primary health care\" measures, and promoted the operational efficiency of primary medical and health institutions.Objectives: To evaluate the efficiency of service delivery and the total factor productivity (TFP） of township hospitals in typical areas of the National Pilot areas of Close County Medical Communities in China. Methods: Data based on health annual report of 143 township hospitals of 8 national pilot counties (districts, cities) from 2018 to 2019 were used to analyze the TFP.Results: Compared with 2018, the TFP of township hospitals increased by $4 . 5 0 \\%$ in 2019.From 2018 to 2019，the total factor productivity were increased in $4 7 . 8 3 \\%$ ， $7 2 . 2 3 \\%$ ， $5 8 . 0 6 \\%$ ， $5 9 . 2 6 \\%$ ， $8 0 . 0 0 \\%$ ， $7 2 . 7 3 \\%$ ， $8 5 . 7 1 \\%$ and $6 6 . 6 7 \\%$ of township hospitals in A1 county, A2 county, B1 city, B2 county, C1 county, C2 county, D1 county, and D2 county, respectively, West 4 counties higher. Conclusions: The \"strengthening primary health care\" measures among the reform of County Medical Communities have played a role in elevating the efficiency of township hospitals.To continuously improve the efficiency of township hospitals relies on both the leading hospital providing targeted assistance and mobilizing the productivities and enthusiasm of the township hospitals. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KeywordsCounty medical community ； Township hospitals； Total factor productior efficiency ；Malmquist index method ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2019年5月，国家卫生健康委、国家中医药管理局印发了《关于推进紧密型县域医疗卫生共同体建设的通知》（国卫基层函（2019）121号），确定山西省、浙江省为紧密型县域医共体建设试点省，567个县（市、区）为紧密型县域医共体建设试点县，旨在进一步完善县域医疗卫生服务体系，提高县域医疗卫生资源配置和使用效率,加快提升基层医疗卫生服务能力，推动构建分级诊疗、合理诊治和有序就医新秩序[。县域医共体通过培养培训基层卫生人才、专家下沉传帮带、建设特色专科、加强基层首诊病种能力建设、远程共享服务等助力基层医疗服务能力和质量提升[2]，这些“强基层”措施势必会推动基层医疗卫生机构运行效率提升。本研究从全要素生产率变动角度系统描述国家县域医共体建设典型地区试点前后乡镇卫生院运行效率变动情况。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1资料来源与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 资料来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用2020年国家卫生健康委专家调研组对部分县域医共体建设试点典型地区相关数据，包括 2018-2019年安徽省、江西省、广西壮族自治区、新疆维吾尔自治区4个省份8个县（市）医共体监测数据和卫生健康统计年报数据；本研究纳入分析的乡镇卫生院数量143个（本研究纳入的143家乡镇卫生院均为县域医共体成员单位）。基于数据可获得性选取2018-2019年的数据进行研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1数据包络分析(data envelopment analysis，DEA)。是一种评价具有多个输入、多个输出的相同类型的决策单元间相对有效性的方法，可用于同类型决策单元集合中各元素间的比较[3]。本研究分别以县（市）和乡为研究单元，分析其乡镇卫生院的运行效率。1.2.2 Malmquist 指数法。Malmquist指数通常用于测量不同时期决策单元的效率变化，由Fare等[4首先引入了全要素生产率（Total factor Productivity，TFP）变化指数，通常用于测量不同时期决策单元的效率变化。 $s$ 到 $t$ 期的Malmquist指数可以定义如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { m } \\big ( \\mathrm { x } ^ { \\mathrm { t } } , \\mathrm { y } ^ { \\mathrm { t } } , \\mathrm { x } ^ { \\mathrm { s } } , \\mathrm { y } ^ { \\mathrm { s } } \\big ) = \\frac { \\mathrm { d } ^ { \\mathrm { t } } \\big ( \\mathrm { x } ^ { \\mathrm { t } } , \\mathrm { y } ^ { \\mathrm { t } } \\big ) } { \\mathrm { d } ^ { \\mathrm { s } } \\big ( \\mathrm { x } ^ { \\mathrm { s } } , \\mathrm { y } ^ { \\mathrm { s } } \\big ) } \\bigl [ \\frac { \\mathrm { d } ^ { \\mathrm { s } } \\mathrm {  ~ ( \\mathrm { x } ^ { \\mathrm { t } } , \\mathrm { y } ^ { \\mathrm { t } } ) ~ } } { \\mathrm { d } ^ { \\mathrm { t } } \\mathrm {  ~ ( \\mathrm { x } ^ { \\mathrm { t } } , \\mathrm { y } ^ { \\mathrm { t } } ) ~ } } \\times \\frac { \\mathrm { d } ^ { \\mathrm { s } } \\bigl ( \\mathrm { x } ^ { \\mathrm { s } } , \\mathrm { y } ^ { \\mathrm { s } } \\bigr ) } { \\mathrm { d } ^ { \\mathrm { t } } \\bigl ( \\mathrm { x } ^ { \\mathrm { s } } , \\mathrm { y } ^ { \\mathrm { s } } \\bigr ) } \\bigr ] ^ { \\frac { 1 } { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式1 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式1中，右边第一项为技术效率变化指数（EFFCH），即 $s$ 到 $t$ 期的技术效率变化，若该指数大于1，说明技术效率改善，若小于1，说明技术效率恶化，该指数又可继续分解为纯技术效率（PEFFCH）和规模效率（SEFFCH）。式1中，右边第二项为技术进步指数（TECH），表示 $s$ 到 $t$ 期的技术进步变动，指数大于1，表示技术进步，指数小于1表示技术退步[5]。当Malmquist指数大于1时，表示全要素生产效率（TFP）提高。本研究采用DEA-Malmquist 指数模型分析 2018-2019 年典型地区县域医共体下乡镇卫生院全要素生产率随时间动态变化情况。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "技术进步表示日常生产活动过程中技术进步或者创新的变化程度；纯技术效率变动表示机构的管理水平与医疗技术水平所影响的变化情况；规模效率变动表示机构规模因素所影响的变化情况；技术效率是从整体上机构提供服务的效率变化情况，包括纯技术效率与规模效率的综合效果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3投入产出指标。以在岗职工数、总支出作为投入指标，以总收入、基本医疗服务量、公共卫生服务量作为产出指标，其中医疗卫生服务量等于年内诊疗人次数加上三倍的年实际占用床日数，公共卫生服务量等于年内0-6岁儿童国家免疫规划接种人次数 $\\cdot +$ 年末0-6岁儿童健康管理人数 $+$ 孕产妇健康管理人数 $+ 6 5$ 岁以上老年人健康管理人数 $+$ 年末高血压规范管理人数 $+$ 年末糖尿病规范管理人数 $+$ 年末严重精神障碍规范管理人数；利用8个县（市）整体乡镇卫生院指标和143个乡镇卫生院指标分别建模。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.4统计分析。采用 Excel录入和整理数据，使用数据包络分析软件DEAP2.1进行分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1县域医共体建设试点监测评价的关键指标",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2019年，被调研典型地区人口数分布在 $8 . 4 0 { \\sim } 1 3 6 . 7 8$ 万人之间，县域内住院人次占比分布在 $7 1 . 2 5 \\% { \\sim } 9 2 . 5 3 \\%$ 之间，县域内就诊率分布在 $7 9 . 5 8 \\% \\sim 9 9 . 7 6 \\%$ 之间，县域内基层医疗卫生机构门急诊占比分布在 $3 4 . 4 7 \\% \\sim 6 4 . 3 7 \\%$ ，医保基金县域内支出率分布在 $4 0 . 2 7 \\% \\sim 9 5 . 5 5 \\%$ ，基层医保基金占比分布在 $4 . 2 4 \\% \\sim 3 1 . 6 7 \\%$ ，从监测评价关键指标看，各试点典型地区差距明显（表1）。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/44e8a67bd1da79bd6f914434f2ecc97dc63f9078444dfcf1bf7deb296c5d747e.jpg",
+        "table_caption": [
+            "表12019年县域医共体建设典型地区基本情况和关键指标 Table 1 Basic situation and key indicators in typical areas of the National Pilot areas of Close County Medical Communities in 2019 "
+        ],
+        "table_footnote": [
+            "2.22019年各县（市）乡镇卫生院工作效率"
+        ],
+        "table_body": "<html><body><table><tr><td>典型地区</td><td>常住人 口数（万</td><td>县域内住 院人次占 比(%)</td><td>县域内 就诊率</td><td>县域内基层医疗 卫生机构门急诊</td><td>医保基金县 域内支出率</td><td>基层医疗卫 生机构医保</td></tr><tr><td>安徽省A1县</td><td>人） 116.10</td><td>86.56</td><td>(%） 99.76</td><td>占比(%) 55.95</td><td>(%） 73.71</td><td>基金占比(%) 13.73</td></tr><tr><td>安徽省A2 县</td><td>106.70</td><td>71.25</td><td>96.40</td><td>49.76</td><td>57.74</td><td>10.73</td></tr><tr><td>江西省B1市</td><td>136.78</td><td>92.53</td><td>91.41</td><td>64.37</td><td>87.56</td><td>19.30</td></tr><tr><td>江西省 B2 县</td><td>88.60</td><td>85.84</td><td>92.77</td><td>62.19</td><td>68.22</td><td>27.14</td></tr><tr><td>广西自治区C1县</td><td>26.17</td><td>81.66</td><td>83.72</td><td>34.47</td><td>65.16</td><td>19.54</td></tr><tr><td>广西自治区C2县</td><td>36.83</td><td>85.06</td><td>95.69</td><td>62.45</td><td>68.55</td><td>31.67</td></tr><tr><td>新疆自治区D1县</td><td>25.64</td><td>90.46</td><td>91.58</td><td>48.98</td><td>95.55</td><td>23.17</td></tr><tr><td>新疆自治区D2县</td><td>8.40</td><td>72.82</td><td>79.58</td><td>44.23</td><td>40.27</td><td>4.24</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2019 年，被调查典型地区县域内乡镇卫生院在岗职工总人数分布在240 人 ${ \\sim } 1 4 3 2$ 人之间，职工人均总收入在 23.40 万元～32.57万元之间，职工人均总支出在18.26 万元 ${ \\sim } 2 9 . 6 2$ 万元之间，职工年人均担负医疗服务量在787.98人次～2198.10人次之间，职工年人均担负公共卫生服务量在104.85人次～794.11人次之间。从各县市乡镇卫生院工作效率指标看，各试点典型地区乡镇卫生院工作效率指标差距明显，与2018年相比，A1县和C2县乡镇卫生院职工年人均担负医疗服务量减少，除A2和D2县外，职工年人均担负公共卫生服务量减少（表2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/20b73930df5ad9660384d58b302a63de8567af2234ab0ef213458862f739a9a8.jpg",
+        "table_caption": [
+            "表22019年县域医共体建设典型地区乡镇卫生院职工人均投入和产出指标 Table 2 The per capita input and output indicators of township hospitals employees in typical areas of the National Pilot areas of Close County Medical Communities in 2019 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>典型地区</td><td>在岗职工 数（人）</td><td>职工人均总收 入 （万元）</td><td>职工人均总 支出(万元）</td><td>职工年人均担负 医疗服务量</td><td>职工年人均担负 公共卫生服务量</td></tr><tr><td></td><td></td><td></td><td></td><td>（人次）</td><td>(人次)</td></tr><tr><td>2018年 安徽省A1县</td><td>1067</td><td>32.40</td><td>30.42</td><td>2239.57</td><td>916.29</td></tr><tr><td>安徽省A2县</td><td>1156</td><td>22.67</td><td>21.25</td><td>1346.30</td><td>735.91</td></tr><tr><td>江西省B1市</td><td>1433</td><td>27.38</td><td>27.58</td><td>2100.27</td><td>423.01</td></tr><tr><td>江西省B2 县</td><td>1035</td><td>29.64</td><td>29.56</td><td>2172.07</td><td>366.63</td></tr><tr><td>广西自治区C1县</td><td>492</td><td>19.28</td><td>15.90</td><td>922.45</td><td>315.63</td></tr><tr><td>广西自治区C2县</td><td>879</td><td>19.88</td><td>19.48</td><td>1385.59</td><td>217.19</td></tr><tr><td>新疆自治区D1县</td><td>337</td><td>23.45</td><td>23.56</td><td>1725.78</td><td>254.28</td></tr><tr><td>新疆自治区D2县</td><td>283</td><td>18.61</td><td>16.81</td><td>811.79</td><td>92.01</td></tr><tr><td>2019年</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>安徽省A1县</td><td>1105</td><td>32.57</td><td>29.62</td><td>2198.10</td><td>794.11</td></tr><tr><td>安徽省A2 县</td><td>1142</td><td>28.29</td><td>26.48</td><td>1454.87</td><td>763.84</td></tr><tr><td>江西省B1市</td><td>1432</td><td>30.23</td><td>29.61</td><td>2105.44</td><td>405.94</td></tr><tr><td>江西省 B2 县</td><td>1250</td><td>25.03</td><td>21.98</td><td>1848.54</td><td>305.54</td></tr><tr><td>广西自治区C1县</td><td>498</td><td>25.30</td><td>18.26</td><td>1064.57</td><td>272.63</td></tr><tr><td>广西自治区C2县</td><td>981</td><td>23.56</td><td>21.38</td><td>1410.34</td><td>197.94</td></tr><tr><td>新疆自治区D1县</td><td>346</td><td>26.47</td><td>25.56</td><td>2056.78</td><td>242.50</td></tr><tr><td>新疆自治区D2县</td><td>240</td><td>23.40</td><td>22.90</td><td>787.98</td><td>104.85</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.32018-2019年县（市）整体乡镇卫生院全要素生产率变动",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以县（市）为决策单元乡镇卫生院Malmquist结果显示，与2018相比，2019 年典型地区乡镇卫生院技术效率、技术进步、纯技术效率、规模效率和全要素生产率指数分别为0.977、1.037、0.995、0.982和1.013，乡镇卫生院全要素生产效率平均提高了 $1 . 3 \\%$ ；2019 年乡镇卫生院全要素生产率提高的县（区、市）包括江西省B2县（1.069）、广西省C1县（1.106）、广西省C2县（1.024）、新疆自治区D1县（1.101）和新疆自治区D2县（1.006）5个县（区、市），占全部县（市）的 $6 2 . 5 0 \\%$ （表3）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表32018-2019年典型地区以县（市）为决策单元乡镇卫生院Malmquist 结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/fb6859d2d1ae6fcb0d8d467b90399a4304c9318b589c7d0140756d6a1c718692.jpg",
+        "table_caption": [
+            "Table 3Malmquist results of township hospitals with counties(cities）as decision-making units in typical regions from 2018 to 2019 "
+        ],
+        "table_footnote": [
+            "2.42018-2019年各乡镇卫生院的全要素生产率变动"
+        ],
+        "table_body": "<html><body><table><tr><td>典型地区</td><td>技术效率变 化指数</td><td>技术进步变 化指数</td><td>纯技术效率 变化指数</td><td>规模效率变 化指数</td><td>全要素生产 率变化指数</td></tr><tr><td>安徽省A1县</td><td>1.000</td><td>0.944</td><td>1.000</td><td>1.000</td><td>0.944</td></tr><tr><td>安徽省A2县</td><td>1.000</td><td>0.906</td><td>1.000</td><td>1.000</td><td>0.906</td></tr><tr><td>江西省 B1市</td><td>0.958</td><td>1.009</td><td>1.000</td><td>0.958</td><td>0.967</td></tr><tr><td>江西省 B2 县</td><td>1.012</td><td>1.057</td><td>1.008</td><td>1.003</td><td>1.069</td></tr><tr><td>广西自治区C1县</td><td>1.000</td><td>1.106</td><td>1.000</td><td>1.000</td><td>1.106</td></tr><tr><td>广西自治区C2县</td><td>0.937</td><td>1.093</td><td>1.953</td><td>0.983</td><td>1.024</td></tr><tr><td>新疆自治区D1县</td><td>1.026</td><td>1.073</td><td>1.000</td><td>1.026</td><td>1.101</td></tr><tr><td>新疆自治区D2县</td><td>0.894</td><td>1.125</td><td>1.000</td><td>0.894</td><td>1.006</td></tr><tr><td>合计</td><td>0.977</td><td>1.037</td><td>0.995</td><td>0.982</td><td>1.013</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以乡镇为决策单元分县市计算结果显示：与2018年相比，2019年乡镇卫生院全要素生产率提高的县（区、市)包括安徽省A2县（1.035）、江西省B1市（1.033）、江西省 B2县（1.048）、广西自治区C1县（1.017）、广西自治区C2县（1.060）、新疆自治区D1县（1.103）6个县（市），分别提高了 $3 . 5 \\%$ 、 $3 . 3 \\%$ 、 $4 . 8 \\%$ 、 $1 . 7 \\%$ 、 $6 . 0 \\%$ 和 $1 0 . 3 \\%$ ，全要素生产率提高的乡镇卫生院占比分别为 $6 6 . 7 \\%$ 、 $5 4 . 8 \\%$ 、 $5 9 . 7 \\%$ 、 $7 0 . 0 \\%$ 、 $9 0 . 9 \\%$ 和 $78 . 6 \\%$ （表4）。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/2b616badd93f2a6f285f3cfa77fd896a62397a585071a41c0ea0366c5d67c539.jpg",
+        "table_caption": [
+            "表42018-2019年典型地区分别以每县（市）乡镇卫生院计算Malmquist结果 Table 4Malmquist results calculated by township hospitals in each county (city) in typical regions in 2018-2019 "
+        ],
+        "table_footnote": [
+            "\\*以乡镇为决策单元，纳入143个乡镇卫生院计算结果，表中其他数据为分县分别计算结果。"
+        ],
+        "table_body": "<html><body><table><tr><td>典型地区</td><td>技术效率 变化指数</td><td>技术进步 变化指数</td><td>纯技术效率 变化指数</td><td>规模效 率变化 指数</td><td>全要素生 产率变化 指数</td><td>全要素生产率 提高的乡镇卫 生院占比（%)</td></tr><tr><td>安徽省A1县</td><td>0.962</td><td>1.038</td><td>0.957</td><td>1.005</td><td>0.998</td><td>47.83</td></tr><tr><td>安徽省 A2 县</td><td>1.001</td><td>1.034</td><td>0.999</td><td>1.002</td><td>1.035</td><td>66.67</td></tr><tr><td>江西省B1市</td><td>0.972</td><td>1.063</td><td>0.977</td><td>0.995</td><td>1.033</td><td>54.84</td></tr><tr><td>江西省 B2 县</td><td>0.954</td><td>1.098</td><td>0.997</td><td>0.957</td><td>1.048</td><td>59.26</td></tr><tr><td>广西自治区C1县</td><td>0.972</td><td>1.046</td><td>1.036</td><td>0.938</td><td>1.017</td><td>70.00</td></tr><tr><td>广西自治区C2县</td><td>0.936</td><td>1.133</td><td>0.971</td><td>0.964</td><td>1.060</td><td>90.91</td></tr><tr><td>新疆自治区D1县</td><td>0.963</td><td>1.145</td><td>1.007</td><td>0.957</td><td>1.103</td><td>78.57</td></tr><tr><td>新疆自治区D2县</td><td>1.064</td><td>0.938</td><td>1.048</td><td>1.015</td><td>0.998</td><td>55.56</td></tr><tr><td>合计*</td><td>0.963</td><td>1.085</td><td>0.960</td><td>1.004</td><td>1.045</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以乡镇为决策单元纳入全部乡镇卫生院结果显示：与2018相比，2019年典型地区乡镇卫生院的技术效率、技术进步、纯技术效率、规模效率和全要素生产率指数分别为0.963、1.085、0.960、1.004和1.045，全要素生产效率平均提高 $4 . 5 \\%$ （表3）。从各县（市）全要素效率提升乡镇卫生院所占比例看，2019 年县（市）全要素生产率提高的乡镇卫生院占比从高到低依次为新疆自治区D1县（ $8 5 . 7 \\%$ ）、广西省C1县（ $8 0 . 0 \\%$ ）、广西省C2县（ $7 2 . 7 \\%$ ）、安徽省A2县（ $7 2 . 2 \\%$ ）、新疆自治区D2县（ $6 6 . 7 \\%$ ）、江西省B2县（ $( 5 9 . 3 \\%$ ）、江西省B1市（ $5 8 . 1 \\%$ ）、安徽省A1县（ $4 7 . 8 \\%$ ），143个乡镇卫生院中有 $6 4 . 3 \\%$ 的全要素生产效率得到提升（表5）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/963d2d59f9e0acb0737dbfa6f377402c784f7b47055ef48e9267e30908e617f8.jpg",
+        "table_caption": [
+            "表52018-2019年典型地区以乡镇卫生院为决策单元Malmquist结果 ble 5 Malmquist results in typical areas with township hospitals as decision-making units in 2018-: "
+        ],
+        "table_footnote": [
+            "\\*为分县市分别计算结果，表中其他数据均为纳入143个乡镇卫生院计算结果"
+        ],
+        "table_body": "<html><body><table><tr><td>典型地区</td><td>乡镇卫生 院数（个）</td><td>技术效率提高 的乡镇卫生院 占比(%)</td><td>技术进步提高 的乡镇卫生院 占比(%)</td><td>全要素生产率 提高的乡镇卫 生院占比（%)</td><td>全要素生产率 提高的乡镇卫 生院占比（%）*</td></tr><tr><td>安徽省A1县</td><td>23</td><td>8.70</td><td>86.96</td><td>47.83</td><td>47.83</td></tr><tr><td>安徽省A2 县</td><td>18</td><td>11.11</td><td>100.00</td><td>72.22</td><td>66.67</td></tr><tr><td>江西省B1市</td><td>31</td><td>35.48</td><td>77.42</td><td>58.06</td><td>54.84</td></tr><tr><td>江西省 B2 县</td><td>27</td><td>48.15</td><td>85.19</td><td>59.26</td><td>59.26</td></tr><tr><td>广西自治区C1县</td><td>10</td><td>40.00</td><td>100.00</td><td>80.00</td><td>70.00</td></tr><tr><td>广西自治区C2县</td><td>11</td><td>36.36</td><td>100.00</td><td>72.73</td><td>90.91</td></tr><tr><td>新疆自治区D1县</td><td>14</td><td>78.57</td><td>92.86</td><td>85.71</td><td>78.57</td></tr><tr><td>新疆自治区D2县</td><td>9</td><td>11.11</td><td>100.00</td><td>66.67</td><td>55.56</td></tr><tr><td>合计</td><td>143</td><td>33.57</td><td>89.51</td><td>64.34</td><td>62.24</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3结论与讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1典型地区县域医共体“强基层”做法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文纳入分析的县域医共体典型地区为我国中部（安徽省和江西省）和西部（广西壮族自治区和新疆维吾尔自治区）的县域医共体改革典型地区。安徽省早在2015年开始县域医共体探索，A1和A2两县 2016 年被列为安徽省第二批县域医共体建设试点县，分别成立2个和 3个县域医共体；2019 年被纳入国家试点后，按照国家政策要求及安徽省确定的“两包三单六贯通”改革路径扎实推进，着力推进县域医共体建设内涵提质升级；在牵头医院帮助基础上A1 县开展中心卫生院“管理圈”工作试点（中心卫生院对一般卫生院管理，落实管理圈内医疗业务一体化）；A2县财政足额落实基层定向补助经费，创新乡镇卫生院“县聘乡用”和编制周转池制度，牵头医院中心药房下沉慢性病用药，强化帮扶乡镇卫生院特色专科建设，设立“运营奖补”专项资金用于下沉专家奖励性绩效发放。江西省B1市和 B2 两县（市）2018 年开始县域医共体探索，分别成立2个和4个县域医共体，2019 年被列为国家试点，B1市实行以技术帮扶为主的松散型联合模式，即牵头医院每半年选派一批县级专家（与原单位脱钩）到乡镇卫生院开展专家门诊、科室共建、教学培训、处方和病历点评等活动；B2 县利用差异化医保报销政策引导基层卫生发展，推动患者下沉，如设立门诊统筹基金，引导参保居民常见病和多发病在门诊就诊，门诊实际就诊报销比例达 $5 0 \\%$ 以上；广西壮族自治区和新疆维吾尔自治区4县2019年被纳入国家试点县，广西壮族自治区C1和C2两县采取向乡镇卫生院输送优秀管理人才（任乡镇卫生院院长、副院长）和技术人才，以及卫生院医务人员到牵头医院跟班学习等强基层措施；新疆维吾尔自治区D1和D2两县采取县域医共体牵头医院“科包院”机制，即县级医院专业科室对乡镇卫生院的重点科室进行对口帮扶，并且对下沉的专家实行“ $1 { + } 1$ 双绩效”（享受原单位和派驻乡镇卫生院双份绩效工作）。8个县（市）县域医共体均以信息化为依托实现了“基层检查、上级诊断”，不仅节约乡镇卫生院运行成本，还促进诊断同质化，提升县域诊疗质量和效率。技术进步表示生产前沿面的前移，主要涉及医疗卫生技术的创新和高端医疗技术设备的引进等因素。乡镇卫生院自身的技术效率主要包括机构管理水平的提升、机构人员医疗水平的提升和区域碎片化的医疗资源集约配置等因素。大部分地区都实行县级医院专业科室对乡镇卫生院的重点科室进行对口帮扶，为乡镇卫生院引入新技术与新项目，对乡镇卫生院的医疗人员医疗技术水提升起到促进作用，从而有效提升乡镇卫生院的效率与服务质量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2典型地区县域内基层医疗卫生发展不平衡",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从国家县域医共体建设试点的关键监测指标看，江西省 B2县和广西壮族自治区C2 县基层医疗卫生机构门急诊占比达到 $6 0 \\%$ 以上，县域内基层医保基金占比达到 $3 0 \\%$ 左右，反映两县就诊患者和医保资金下沉基层明显；新疆维吾尔自治区D2县两个指标分别为 $4 4 . 2 3 \\%$ 和 $4 . 2 4 \\%$ 反映患者和医保资金下沉基层比例偏低。本次纳入分析的典型地区基层医疗服务能力及分级诊疗推进程度不同。从典型地区乡镇卫生院工作效率指标看，中部地区乡镇卫生院工作效率相对较高，西部地区偏低，安徽省A1县乡镇卫生院职工年人均担负医疗服务量和公共卫生服务量分别达到2196.1人次和794.1人是新疆 D2县788.0人次和104.9人次的2.8倍和7.6倍;西部地区地广人稀，从公平性角度需要较高基层卫生资源配置，加上服务人口少，很难形成规模效应，典型地区乡镇卫生院相关指标横向比较可比性差，本文没有进行静态效率比较。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3选取不同决策单元效率分析方法对结果有一定的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "包络分析（DEA）原则上决策单元数应是指标数的2倍及以上，否则DEA无法强有力地区分有效率单位，易将无效率单位当成有效率单位。本文以县（市）为决策单元计算乡镇卫生院投入和产出指标数为5，决策单元数为8，决策单元数是指标数的1.6倍，存在决策单元不足问题。本文采取两种决策单元分析乡镇卫生院效率，以县（市）为决策单元可观察县域内乡镇卫生院整体运行效率变动具有全局观；以乡镇为决策单元主要观察每个乡镇卫生院运行效率变动，样本量大，结果稳定可信。分别以县（市）和乡镇作为决策单元的分析结果在一定程度上显示结论的一致性，改革前后典型地区在乡镇卫生院全要素生产率提高（1.013、1.045）、技术进步（1.037、1.085）和技术效率降低（0.977、0.963）方面是一致；乡镇卫生院效率变动程度存在一定差异：（1)以县（市)为决策单元，改革后乡镇卫生院全要素生产率提升了 $1 . 3 0 \\%$ ，以乡镇为决策单元则提升了 $4 . 5 0 \\%$ ；（2）从乡镇卫生院全要素生产率提升比例看，分县（市）乡镇卫生院效率分析结果显示， $6 6 . 7 \\%$ 的乡镇卫生院的效率提升，纳入全部乡镇卫生院分析结果显示， $7 2 . 2 \\%$ 的乡镇卫生院效率得到提升，绝大部分是契合的。两种方法分析也有存在相互矛盾结果，以县（市）为决策单元结果显示安徽省A2县乡镇卫生院全要素生产率（0.906）下降，分县市以乡镇为决策单元结果显示A2县乡镇卫生院全要素生产率（1.035）提高；本研究以乡镇为决策单元纳入全部乡镇卫生院结果为准。在对结果解释时，两种决策单元分析结果互为补充。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4县域医共体强基层举措推动乡镇卫生院全要素生产效率提高",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "以乡镇为决策单元Malmquist模型结果显示，乡镇卫生院全要素生产效率提高了 $4 . 5 0 \\%$ ，高于2003-2014年我国乡镇卫生服务全要素生产率提高 $2 . 3 0 \\% ^ { [ 6 ] }$ 。全要素生产率提升的乡镇卫生院占比较高的分别为新疆维吾尔自治区D1县( $8 5 . 7 1 \\%$ ）、广西壮族自治区C1县（ $8 0 . 0 0 \\%$ ）、广西壮族自治区C2 县 $( 7 2 . 7 3 \\%$ ）、安徽省 A2县 $( 7 2 . 2 3 \\%$ ）、新疆维吾尔自治区D2县 $( 6 6 . 6 7 \\% )$ ，5 个县市全要素生产效率提升乡镇卫生院的占比超过 $6 5 \\%$ 以上。随着县域医共体内信息化建设不断完善，乡镇卫生院也在向集约型管理方式转变,这在一定程度上提高乡镇卫生院规模效率。从分解因素来看，安徽省A1县乡镇卫生院全要素生产率下降是由于技术效率下降所致（技术效率变化指数为0.962，降 $4 . 8 0 \\%$ ），这与A1县县域医共体起步早，“强基层”措施进入平台期和常态化有关；安徽省A2县乡镇卫生院效率提升明显，这与A2县“县聘乡用”编制周转池和“运行奖补”专项资金等机制创新有效调动县域医共体内生动力和积极性有关。本研究发现，与中部地区相比，西部典型地区乡镇卫生院效率提升更明显，这是由于中部地区乡镇卫生院运行效率本就处于高水平，进一步提升难度加大，而西部地区乡镇卫生院效率普遍偏低，县域医共体的“强基层”措施集中发力效果更明显。县域医共体强基层举措、机制体制改革创新，以及政策协同联动共同推动乡镇卫生院效率提升。乡镇卫生院效率持续提升不仅需要县域医共体牵头医院提供有针对性帮扶，更需要调动乡镇卫生院内生动力和积极性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.5本文不足 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "影响乡镇卫生院技术效率、纯技术效率、规模效率、全要素生产效率因素较多，既有乡镇卫生院层面因素，也有外部因素如县域医共体建设举措和创新，因为样本量（8个县市）限制，尚不能在县域医共体层面（如不同模式）进相关效率定量的影响因素分析。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] 国家卫生健康委，国家中医药管理局.关于推进紧密型县域医疗卫生共同体建设的通知[Z].2019.  \n[2] 秦江梅．紧密型县域医共体怎样强基层[J]，中国卫生，2021,433（9）：37-39.  \n[3] Caves D W，Christensen L R，Diewert W E. Multilateral compositions of output, input andproductivity using superlative index numbers[J]. Economic Journal， 1982， 365（92）: 73-86.  \n[4]Fare R，Gross kop S， Norris M，et al. Productivity growth， technical progress，and efficiencychange in industrialized countries[J]. American Economic Review， 1994,84（1） : 66-81.  \n[5] 李慧君，张建华．我国医疗卫生资源效率分析：基于两阶段的Malmquist-Tobit方法实证．中国卫生经济，2013，32（10）：32-34.  \n[6] 杨希，陈曼莉.2003-2014 年我国乡镇卫生服务全要素生产率变化趋势研究[J].中国全科医学，2018，21（1）:88-92.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,290 @@
+# DOI: 10.5846/stxb201610202146
+
+校亮,熊东红,张宝军,张素,吴汉,杨丹,李建查,史亮涛.葛藤覆被下干热河谷冲沟沟岸土壤水热变化特征.生态学报,2018,38（2）：646-656.XiaoL,XiongagJagSugD,i,Setofoveagoloisturedteeaurelfthe Dry-hot Valley Region.Acta Ecologica Sinica,2018,38(2):646-656.
+
+# 葛藤覆被下干热河谷冲沟沟岸土壤水热变化特征
+
+校亮1,2,3，熊东红1,2,\*，张宝军1,2,3,张素1,2,3,吴汉1,2,3，杨丹1,2,3，李建查4， 史亮涛4
+
+1中国科学院山地灾害与地表过程重点实验室，成都610041  
+2中国科学院水利部成都山地灾害与环境研究所，成都610041  
+3中国科学院大学资源与环境学院，北京100049  
+4云南省农业科学院热区生态农业研究所，元谋651300
+
+摘要：干热河谷冲沟沟岸裸露、陡立、土壤水热变化剧烈,导致植被恢复极端困难。通过野外调查和定位监测,在葛藤覆被沟岸，根据藤本生物量设置4个处理（T $\Gamma 1 : 3 0 9 . 7 0 \mathrm { g } / \mathrm { m } ^ { 2 }$ 鲜藤覆被地块， $\mathrm { T 2 } \mathrm { , T 3 } \mathrm { , T 4 } \colon 5 9 4 . 3 4 \mathrm { ( } \mathrm { T 1 0 3 } \mathrm { . } 4 3 \mathrm { , } 1 6 9 3 \mathrm { . } 2 7 \mathrm { g / m ^ { 2 } }$ 枯藤覆被地块),并选取裸露地块作为对照CK,研究了葛藤不同覆被状况对沟岸土壤水分和温度在单次降雨过程变化的影响。结果表明：相比裸露沟岸而言，1)鲜藤覆被沟岸土壤含水率仅为 $8 . 6 8 \%$ ,较裸露沟岸还降低了 $4 . 4 7 \%$ ;枯藤覆被沟岸土壤含水率则相对增加,T2—T4土壤含水率分别为 $1 4 . 9 1 \% 1 6 . 7 5 \% 1 9 . 4 4 \%$ ,较裸露沟岸增加了 $1 . 7 6 \% . 3 . 6 \% . 6 . 2 9 \%$ 。2)鲜藤覆被可明显增加土壤水分活跃层深度、变化幅度和变异程度,枯藤覆被下土壤水分活跃层深度、变化幅度和变异程度则相对减小。3)随鲜、枯藤覆被量增加,水分补给过程中土壤含水率的增加量增大,同时水分衰减过程中土壤含水率的散失量减小;增加枯藤覆被量后,沟岸表层土壤含水率变化率的波形逐渐平缓、波动依次减小、波长稳步增大 $\overline { \circ } 4$ )随鲜、枯藤覆被量的增加,沟岸表层土壤温度波动逐渐减小。研究成果对干热河谷冲沟沟岸生境改良与植被恢复具有重要的指导意义。
+
+关键词：水热变化;葛藤覆被;冲沟沟岸;干热河谷
+
+# Effect of Kudzu coverage on soil moisture and temperature in the gully bank of the Dry-hot Valley Region
+
+XIAO Liang1,23，XIONGDonghong1,2,\*，ZHANG Baojun1,2.3，ZHANG Su1,2.3，WU Han1,2.3，YANGDan2.3   
+LI Jiancha4，SHI Liangtao4   
+1 Key Laboratory of Mountain Hazards and Surface Proceses，Chinese Academyof Sciences，Chengdu 610041，China   
+2 Institute of Mountain Hazards and Environment，Chinese Academy of Sciences，Chengdu 61oo41,China   
+3College of Resources and Environment，UniversityofChinese Academy of Sciences，Beijing1Ooo49,China   
+4 Institute of Tropical Eco-agricultural Sciences，Yunnan Academyof Agricultural Sciences，Yuanmou 6513Oo，China
+
+Abstract:Soil moistureand temperature change sharply inthe gullybank of the Dry-hot Valley Region，and vegetation restorationisextremelydificultinthisarea.Basedonfieldinvestigationandinsituobservationinthegullybankunderthe coverage of Kudzu ，we set four treatments depending on the biomass of Kudzu cover （T1: $3 0 9 . 7 0 \mathrm { g / m } ^ { 2 }$ fresh Kudzu ；T2, T3，and T4: 594.34，1103.43，and $1 6 9 3 . 2 7 \mathrm { g / m } ^ { 2 }$ withered Kudzu,respectively），and used plots without Kudzu coverage as control.Theefectof thediffrent extentsof Kudzucoverageonsoilmoistureandtemperature inthegullybank were studied in situ.The results showed that（1）soil water content in the gully bank under fresh coverageof Kudzu（T1）was $8 . 6 8 \%$ ， which was $4 . 4 7 \%$ lower than that in the bare gully bank.However，soil water content in areasunder withered Kudzu coverage（i.e.，T2，T3，and T4）was $1 4 . 9 1 \%$ ， $1 6 . 7 5 \%$ ， $1 9 . 4 4 \%$ ，respectively，which were greater than that in the bare gully bank by $1 . 7 6 \%$ ， $3 . 6 0 \%$ ， $6 . 2 9 \%$ ，respectively. （2） Fresh coverage of Kudzu resulted in larger active layer，range ability,，andvariationdegreethan those inthebaregullbank，whereas witheredcoverageofKudzurevealed theopposite trend.（3）Inthe soil moisture-supplying period,thesoil moisture increased with increase in Kudzu biomas.However,the rateof soil moisture lossdecreased with increasein Kudzubiomassduring this period.Furthermore,with increase in biomass of withered $K u d z u$ ,the rate of soil moisture waveform reduced,fluctuation decreased，and wavelength increased.（4）With increase in the biomass of $K u d z u$ ， soil temperature fluctuation in the surface layer of the gully bank decreased. Our findings have potential applications in vegetation restoration and habitat improvement of the gully bank.
+
+Key Words:moisture and temperature change； Kudzu cover; gully bank；Dry-hot Valley
+
+金沙江干热河谷是我国西南地区特殊的生态脆弱区[1],该区冲沟侵蚀强烈、气候炎热干燥、水热矛盾突出[2-3]。在该区植被恢复实践中,土壤水分、温度扮演的角色比其他类型的干旱区更加敏感,是研究水热综合影响的最佳场所[4]。长期以来,干热河谷区在自然和人为因素的共同作用下,形成了具有干旱炎热、易于侵蚀、养分贫瘠等特点的特殊土壤生态环境[5-6],已成为国内植被恢复困难区,尤其是在土体裸露、陡立、水分蒸发严重、昼夜温差剧变的冲沟沟岸,更是植被恢复极端困难区,长期以来一直未能找到有效的植被恢复措施。
+
+覆盖处理是土壤水热调控的主要措施之一[7],在干旱半千旱区作物栽培方面得到了广泛应用。研究表明,覆盖不仅可以有效拦截降雨、提高土壤入渗量[8-0],还可减少蒸发 增加土壤贮水量[1-12],又可调节地温、降低温差[13-14],是土壤水热调控的有效方式。在干热河谷区覆盖措施的理论研究和实践探索现阶段主要集中于农业上的保熵控温、作物生长等方面,多见于秸秆、地膜覆盖的农田和坡耕地土壤[15-16],较少有学者关注到冲沟沟岸,刘洁等研究了3种植被恢复模式下土壤贮水及入渗特性,指出与裸地相比,植被的饱和贮水量普遍较高[17];刘芝芹等通过对金沙江干热河谷不同土地利用土壤入渗特征的研究,得到了果园和灌木地土壤入渗性能最好、其次为草地、旱地土壤入渗性能最差[18];韩娇娇等指出,干热河谷不同土地利用类型坡面土壤水分坡耕地最好、草地次之、林地最差[19];但以往研究及以上措施均很难应用到陡立的冲沟沟岸。但是,该区冲沟面积广阔,发育形成有较多沟岸,若长期暴露在干热的气候条件下,强蒸发作用将使得土壤水分生态环境进一步恶化,更不利于植被恢复。因此,亟需探寻适宜的技术措施来调控沟岸土壤水热状况,为沟岸生境改良与植被恢复奠定基础。
+
+野外调查干热河谷区冲沟流域发现,自然状况下藤本植物攀沿覆被沟岸现象较为普遍,调查进一步针对性地选取了葛藤(Kudzu)生长的沟岸。裸露沟岸寸草不生、部分地块甚至发育形成跌穴、沟岸底部存在大量结构松散的崩积物;而葛藤生长的沟岸则布满了翠绿的鲜藤,绿被物下裹覆有厚实的枯落物,整个沟岸分布有较多的扭黄茅（Heteropogon contortus）。基于此现象,研究者思考扭黄茅着床生长沟岸可能与葛藤覆被沟岸后沟岸土壤水热条件得以改善有关。那么,葛藤覆被沟岸后土壤水热条件是否改善以及如何改善？这些问题目前尚不清楚。
+
+本文以元谋干热河谷冲沟发育的沟岸土体为研究对象,选取干热河谷雨季初期首场较为充沛的降雨过程,这是因为该场降雨对于干热河谷植被复苏尤为重要,并以旱季5月土壤平均含水率作为背景条件（此时期沟岸土壤水分蒸发殆尽,土壤含水率相对稳定)。采用野外定位监测的方法,开展葛藤覆被对沟岸土壤水热变化的影响研究，旨在为沟岸生境改良与植被恢复提供有益参考。
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+研究区位于云南元谋干热河谷，介于 $1 0 1 ^ { \circ } 3 5 ^ { \prime } \_ 1 0 2 ^ { \circ } 2 6 ^ { \prime } \mathrm { E } , 2 5 ^ { \circ } 2 3 ^ { \prime } \_ 2 6 ^ { \circ } 0 6 ^ { \prime } \mathrm { N }$ 之间。该区属南亚热带季风
+
+http://www.ecologica.cn
+
+气候,年均温 $2 1 ^ { \circ } \mathrm { C }$ 、年降雨量 $6 1 3 . 8 \mathrm { m m }$ 、年蒸发量 $3 7 3 7 . 3 \mathrm { m m }$ ,干燥度达 $4 . 4 ^ { [ 4 ] }$ 。旱季(11—5月份)降水不足$5 0 \mathrm { m m }$ ,长达7个月以上的旱季降水量不足年降水量的 $10 \%$ ,特别是在2—5月份春末初夏植物生长的关键季节,干热加剧、蒸发强烈、土壤严重干旱、地面温度最高达 $7 0 \%$ ,严重影响植物生长。区内地带性土壤为燥红土,自然植被为稀树灌木草丛[20]。由于特殊的气候和岩性条件,该区冲沟侵蚀发育,沟壑密度为 3.0— ${ . 5 . 0 \mathrm { k m } } /$ $ { \mathrm { k m } } ^ { 2 }$ ,最大达 $7 . 4 \mathrm { k m / k m } ^ { 2 [ 2 1 ] }$ ,且因下切侵蚀和侧壁崩塌,沟谷两侧常发育有陡立沟岸。沟岸由于特殊的微地形条件,在降雨过程中水分入渗困难,加之土体温度昼夜剧变,使得该地块成为冲沟系统中土壤水热矛盾最为突出的部位,也成为冲沟植被恢复实践中的困难部位。 2
+
+# 1.2 研究方法
+
+# 1.2.1 样地选取
+
+本研究中所指的冲沟沟岸，区分于沟头以上及临近范围受集水区径流冲刷直接影响的区域，特指在地形平坦开阔的沟床两侧的陡立地带，即从沟床侧壁底部向上延伸至沟缘的区域[2（图1)。其特征在于地表裸露、坡度陡峭，水分、温度变化剧烈,其上植被难以生长。
+
+CUL
+
+2016年3月于成都山地所沟蚀崩塌观测研究站附近 $\mathrm { ' } 1 0 1 { } ^ { \circ } 8 3 { } ^ { \prime } \mathrm { E } , 2 5 { } ^ { \circ } 8 5 { } ^ { \prime } \mathrm { N } )$ ,选取了一个葛藤生长的原位沟岸。葛藤属多年生藤本植物,2006年种植在沟岸底部,攀沿生长布满沟岸，因生长条件差异，不同地块葛藤覆被状况各异。
+
+沟岸基本特征如下：坡向 $3 0 ^ { \circ }$ 、坡度 $6 7 . 5 ^ { \circ }$ 、沿坡面长 $5 . 9 \mathrm { m }$ 岸宽 $4 7 \mathrm { m }$ ,沟岸燥红土（上层 $3 . 9 \mathrm { { m } }$ ）、砂积层（下层 $2 \mathrm { m }$ )成层分布。
+
+在沟岸顶部沿坡面长 $2 \mathrm { m }$ 以下的燥红土层选取原位小区，以避免沟缘以上台面区域降雨入渗和水分蒸散对深层土壤水分的影响,尽可能地保证沟岸土壤水分蒸散只取决于侧壁蒸发（图2）。
+
+研究时段处于旱雨季交替时期,葛藤经历长时间干旱后开始复苏生长,出现了大量枯藤和极少鲜藤共存的景象。在试验小区,基于葛藤自然生长状况,自东向西依次选取裸露、鲜藤覆被和枯藤覆被地块,地块规格为 $1 . 8 \mathrm { m } \times 1 . 8 \mathrm { m }$ 。其中裸露地块作对照CK、鲜藤覆被地块设置1种处理T1、枯藤覆被地块设置3种处理（T2、T3、T4），葛藤覆被状况均以单位面积生物量计。
+
+![](images/5cd50a30b52e859fcda92cff36eebd1c5dcfb5eed1fd13d67b0ce280e50a26df.jpg)  
+图1干热河谷冲沟陡立沟岸发育  
+Fig.1Development of the gully bank in Yuanmou Dry-hot Valley Region   
+图2试验区原位小区布设示意图  
+Fig.2Sketch of experimental field plots
+
+CK;裸露沟岸,thebaregullybank；T1：鲜藤覆被沟岸,thegullybankunderfreshcoverageofKudzu；T2—T4：枯藤覆被沟岸，thegullybank under withered coverage of Kudzu
+
+# 1.2.2 葛藤覆被物生物量测定
+
+采集各地块葛藤覆被物,各处理取4个样品,S形采样。将自制方形环刀( $2 0 \mathrm { c m } \times 2 0 \mathrm { c m } \times 2 0 \mathrm { c m } )$ 垂直轻扣
+
+在覆被物上,紧贴环刀外壁刈割覆被物,并收集环刀内所有覆被物。烘干法测定其生物量[23],平均后求得葛藤单位面积生物量(表1）,作为葛藤覆被状况指标,各处理间 $C _ { v } = 0 . 9 1$ ,处中等变异。
+
+Table 1 Design of experimental treatments   
+
+<html><body><table><tr><td>试验处理 Treatments</td><td>沟岸覆被类型 Cover types of gully bank</td><td>覆被状况/（g/m²） Condition of the vegetation cover</td></tr><tr><td>CK</td><td>无藤覆被</td><td>0</td></tr><tr><td>T1</td><td>鲜藤覆被</td><td>309.70</td></tr><tr><td>T2</td><td>枯藤覆被</td><td>594.34</td></tr><tr><td>T3</td><td>枯藤覆被</td><td>1103.43</td></tr><tr><td>T4</td><td>枯藤覆被</td><td>1693.27</td></tr></table></body></html>
+
+CK:裸露沟岸,thebaregullybank；T1：鲜藤覆被沟岸,thegullybankunderfreshcoverageofKudzu；T2—T4：枯藤覆被沟岸，thegullybank under withered coverageof Kudzu. 0
+
+# 1.2.3土壤含水率、土壤温度监测
+
+在选定的5个试验地块中心,垂直沟岸埋设土壤水分探管,用与之配套的土壤剖面水分仪（英国 Delta-TDeviceLtd.公司生产，型号：PR2/6)进行土壤水分动态监测。
+
+在土壤水分监测点附近埋设纽扣式温度记录仪（德国Fireball.公司生产,型号:TQ-03-2）,动态监测土壤温度变化。具体监测深度和精度信息见表2。 1
+
+表1试验处理设置  
+表2土壤含水率和土壤温度监测点位置  
+Table 2Observation sites of soil water content and soil temperature   
+
+<html><body><table><tr><td>项目Item</td><td>监测点深度 Depth of observation point /cm</td><td>监测精度 Monitoring precision</td></tr><tr><td>土壤含水率 Soil water content</td><td>10，20,30,40,60,100</td><td>2%</td></tr><tr><td>土壤温度 Soil temperature</td><td>5,10</td><td>0.625C</td></tr></table></body></html>
+
+监测时段为2016年5月3日 $- 5$ 月5日、5月21日—5月31日，监测期间的降雨信息如图3所示。土壤含水率监测频度为每日7次（6:00、9:00、12:00、14：00、16:00、19：00、23：00），每一时间点土壤水分监测3次取平均值（每次将土壤剖面水分仪顺时针旋转$1 2 0 ^ { \circ }$ ,重新读数）。土壤温度设置整点监测，时间间隔为$2 \mathrm { h } / \AA$ 次。
+
+# 1.3数据统计与分析
+
+沟岸表层土壤水分动态变化特征可采用土壤含水率变化率 $\boldsymbol { R } _ { v }$ 来表征：
+
+$$
+R _ { v } = \frac { v _ { t 0 + 1 } - v _ { t o } } { v _ { t o } } / t
+$$
+
+![](images/3b67a72c6678426601d504cd1ace1ce481f2adb0061c29b916fa620e34c51f66.jpg)  
+图3监测期间降雨量  
+Fig.3Rainfall over the monitoring period
+
+式中： $R _ { v }$ 为土壤含水率变化率, $v _ { t 0 + 1 }$ 为连续监测时段后一时刻土壤含水率, $\boldsymbol { v } _ { t o }$ 为连续监测时段前一时刻土壤含水率, $\mathbf { \chi } _ { t }$ 为监测时长。
+
+不同覆被状况下沟岸土壤水热变化程度可采用极值比 $K _ { a }$ 和变异系数 $C _ { v }$ 来表示[24]：
+
+$$
+K _ { _ a } = \frac { x _ { \mathrm { m a x } } } { x _ { \mathrm { m i n } } }
+$$
+
+式中： $x _ { \mathrm { m a x } }$ 为水分(温度)最大值; $x _ { \operatorname* { m i n } }$ 为水分(温度)最小值。 ${ \mathbf { } } K _ { a }$ 反映了系列数据的变化幅度, $K _ { a }$ 值越大,不同
+
+覆被状况下土壤水热变化幅度越大。
+
+数理统计中用标准差与均值之比作为衡量系列数据相对离散程度的参数,称为变异系数 $\boldsymbol { C } _ { v }$ ,可反映土壤水热的变异性：
+
+$$
+C _ { v } = \frac { \sigma } { \bar { x } }
+$$
+
+式中， $\sigma$ 为标准差; $\bar { x }$ 为系列数据的算术平均值。 $\boldsymbol { C } _ { v }$ 值越大,表示土壤水热的离散程度越大,反之就越小。变异系数 $C _ { v } < 0 . 1$ 为弱变异; $\boldsymbol { C } _ { v }$ 在0.1—1.0 之间为中等变异， $C _ { v } > 1 . 0$ 为强变异。
+
+试验所得基础数据采用 Excel2003软件进行预处理,采用 SPSS 17.0软件进行数据统计分析,采用Origin$\mathrm { P r o } ~ 8 . 0$ 软件进行图件绘制。
+
+# 2结果与分析
+
+# 2.1沟岸土壤水分季节变化特征
+
+在干热河谷地区,漫长的旱季使得沟岸土壤水分在雨季来临之前几乎蒸发殆尽,土壤水分严重亏缺且相对稳定。此时雨季首场较为充沛的降雨将十分有利于土壤存蓄水分,为植被复苏创造条件。表3反映了不同处理措施下旱季末期(5月3日至5月5日)及雨季首场降雨结束后土壤含水率相对稳定时期(5月30日)沟岸表层0- $4 0 \mathrm { c m }$ 土层平均土壤含水率。 22
+
+表3不同时段沟岸表层 $\mathbf { 0 - 4 0 c m }$ 土层平均土壤含水率  
+Table 3Soil water content of surface layer in gully bank in $\scriptstyle \mathbf { 0 - 4 0 c m }$ under the different seasons   
+
+<html><body><table><tr><td rowspan="2">处理 Treatments</td><td colspan="4">土壤含水率 soil water content/%</td></tr><tr><td>CK</td><td>T1 T2</td><td>T3</td><td>T4</td></tr><tr><td>旱季 Dry-season</td><td>13.15</td><td>8.86 14.91</td><td>16.75</td><td>19.44</td></tr><tr><td>雨季 Rainy-season</td><td>21.04</td><td>19.17 24.42</td><td>27.32</td><td>29.15</td></tr></table></body></html>
+
+CK:裸露沟岸，thebaregullybank；T1：鲜藤覆被沟岸,thegullybankunderfreshcoverageofKudzu；T2—T4：枯藤覆被沟岸，the gullybank underwithered coverage of Kudzu
+
+由表3可知， $\textcircled{1}$ 在旱季,裸露沟岸 $0 { \div } 4 0 \mathrm { e m }$ 土层平均土壤含水率较低,为 $1 3 . 1 5 \%$ ;鲜藤覆被下沟岸土壤含水率进一步降低,仅为 $8 . 6 8 \%$ ,较裸露沟岸下降了 $4 . 4 7 \%$ ;统计分析表明,CK 与T1处理间土壤含水率 $C _ { v } \ =$ 0.28,属中等程度变异。枯藤覆被下沟岸土壤含水率相对增加,T2—T4平均土壤含水率分别为 $1 4 . 9 1 \%$ 、$1 6 . 7 5 \%$ ） $1 9 . 4 4 \%$ ,分别较裸露沟岸增加了 $1 . 7 6 \% \cdot 3 . 6 \% \cdot 6 . 2 9 \%$ ;统计分析表明,CK与 T2—T4 处理间土壤含水率 $C _ { v } = 0 . 1 8$ ,属中等程度变异。雨季也呈现出了类似的规律。表明鲜藤覆被沟岸后沟岸土壤含水率会进一步降低,只有在枯藤覆被沟岸下土壤含水率才得以提升。说明枯藤覆被可改善土壤水分状况,增加土壤蓄水量。$\textcircled{2}$ 各处理措施下 $\mathrm { C K , } \mathrm { T 1 } { \stackrel { } { \longrightarrow } } \mathrm { T } 4$ 沟岸平均土壤含水率较旱季分别增加了 $7 . 8 9 \% 1 0 . 3 1 \% 9 . 9 . 5 1 \% 1 0 . 5 7 \% 9 . 7 1 \% ,$ （204号统计分析表明，各处理间土壤含水率增加量 $C _ { v } = 0 . 1 1$ ,属中等程度变异。对比分析不同处理措施下沟岸0一$4 0 \mathrm { c m }$ 平均土壤含水率自旱季至初次降雨结束后相对稳定时期的增加量可知,较裸露沟岸而言,葛藤覆被可沟岸土壤水分蓄积能力，有利于降雨水分入渗。
+
+# 2.2沟岸剖面土壤水分变化特征
+
+7 气象条件、覆被状况和土壤性质共同决定着水分入渗及蒸散,影响着土壤水分活跃层深度,对土壤水分蓄积至关重要[25-26]。图4为单次降雨过程中各处理措施下沟岸剖面土壤水分逐日变化特征。
+
+由图4可知,各处理措施下沟岸浅层土壤水分变化活跃,但活跃层深度不同;土层加深后,水分逐日变化微弱。 $\textcircled { 1 } \mathrm { C K }$ 土壤水分变化趋势线在0一40cm土层呈分散状态， $4 0 { \mathrm { - } } 1 0 0 { \mathrm { c m } }$ 土层逐渐汇合；T1土壤水分变化趋势线在0- $1 0 0 \mathrm { c m }$ 土层均较为分散;T2—T4土壤水分变化趋势线在0—30cm土层均呈现出分散状态,30—$1 0 0 \mathrm { c m }$ 土层趋于汇合。表明土壤水分活跃层深度与葛藤覆被状况有关，鲜藤覆被可增加土壤水分活跃层深度，枯藤覆被下土壤水分活跃层深度则相对减小。 $\textcircled{2}$ 随土层加深,各处理措施下土壤水分变化趋势线均呈现
+
+![](images/d0ecc8fac6e75d353312f5c0c2f5eb6348394d06a0af92fbceab595c561b979d.jpg)  
+图4不同处理措施下沟岸剖面土壤水分逐日变化特征  
+Fig.4The changes characteristics of soil moisture content in gully bank under different treatments
+
+CK:裸露沟岸,thebaregullybank；T1：鲜藤覆被沟岸,thegullybankunderfreshcoverageofKudzu；T2—T4：枯藤覆被沟岸,thegullybank underwithered coverage ofKudzu
+
+出由分散趋向汇合的规律。表明土层加深后，土壤水分活跃程度逐渐减弱
+
+本文引入极值比 $\left( K _ { a } \right)$ 和变异系数（ $\boldsymbol { C } _ { v }$ )对沟岸剖面土壤水分逐日变化特征进行了统计学分析,以进一步准确、科学地表达和描述王壤水分逐日变化特征(包括土壤水分变化幅度和变异程度及土壤水分活跃层深度）。表4为各处理措施下沟岸剖面土壤水分变化统计学分析结果。
+
+由表4可知,在剖面方向:各处理措施下土壤水分变化幅度和变异程度大都呈现出随土层加深而减小的规律。以裸露地块为例， $K _ { a \left( 1 0 , 2 0 , 3 0 , 4 0 , 6 0 \mathrm { c m } \right) } = 3 . 1 4 5 \ . 1 . 6 9 1 \ . 1 . 2 3 0 \ . 1 . 0 4 7 \ . 1 . 0 2 0 \ . 1 . 0 6 5 \ , K _ { a }$ 值依次减小; $C _ { v ( 1 0 , 2 0 , 3 0 , 4 0 , 6 0 \mathrm { { c m } ) } } =$ （200.375、0.123、0.106、0.102、0.029、0.100, $C _ { v }$ 值依次减小;其余处理也呈现出类似规律。表明土层加深后,土壤水分变化幅度和变异程度逐渐减弱。在水平方向;鲜藤覆被下同层土壤水分变化幅度及变异程度相对增加,枯藤覆被下则明显减弱。以土壤水分变化最为剧烈的沟岸表层 $1 0 \mathrm { { c m } }$ 土壤为例,土壤水分变化幅度： $K _ { a \left( \mathrm { C K } \right) } =$ （204号3.145 $, K _ { a \left( \mathrm { T 1 } \right) } = 3 . 1 4 7 , K _ { \alpha \left( \mathrm { T 2 } , \mathrm { T 3 } , \mathrm { T 4 } \right) } = 2 . 7 4 9 \ { _ \mathrm { \times } } 1 . 7 7 4 \ { _ \mathrm { \times } } 1 . 7 9 8 \ , K _ { a \left( \mathrm { T 2 } , \mathrm { T 3 } , \mathrm { T 4 } \right) } < K _ { a \left( \mathrm { C K } \right) } < K _ { a \left( \mathrm { T 1 } \right) } < K _ { \alpha \left( \mathrm { T 1 } \right) } < K _ { \alpha \left( \mathrm { T 2 } \right) } < K _ { \alpha \left( \mathrm { T 2 } \right) } .$ 。土壤水分变异程度： $C _ { v _ { \mathrm { ~ \tiny ~ ( ~ C ~ K ~ ) ~ } } } =$ （204号0.375, $C _ { \phantom { } _ { v } \ ( \mathrm { { T 1 } } ) } = 0 . 3 7 6 , C _ { \phantom { } _ { v } \ ( \mathrm { { T 2 } } , \mathrm { { T 3 } } , \mathrm { { T 4 } } ) } = 0 . 3 1 1 , 0 . 1 7 4 , 0 . 1 9 9 ,$ $C _ { v \ ( \mathrm { T } 2 , \mathrm { T } 3 , \mathrm { T } 4 ) } < C _ { v }$ (CK)<C。（TI）。其余土层深度均呈现出类似规律。表明在同一土层深度,鲜藤覆被可增加土壤水分变化幅度和变异程度,枯藤覆被下土壤水分变化幅度和变异程度则相对减小。
+
+http://www.ecologica.cn
+
+陈军锋等依据 $C _ { v } \geqslant 0 . 0 7$ 划分了晋中盆地冻融期秸秆覆盖下土壤水分活跃层[22],划分依据统计分析结果人为选取,合理性有待商榷。本文依据变异系数本身特点,将土壤水分变化剧烈,各层土壤含水率 $\boldsymbol { C } _ { v }$ 值均大于0.1,处中等以上变异的连续土层定义为土壤水分活跃层。以裸露地块CK 为例， $C _ { v ( 1 0 , 2 0 , 3 0 , 4 0 , 6 0 , 1 0 0 \mathrm { c m } ) } = 0 . 3 7 5$ 0.123、0.106、0.102、0.029、0.100，10、20、30、40cm连续土层 $\boldsymbol { C } _ { v }$ 值均大于0.1,则CK土壤水分活跃层为0—$4 0 \mathrm { c m }$ 。以同样的方法划分了其他处理土壤水分活跃层,鲜藤覆被地块T1为0— $1 0 0 \mathrm { c m }$ ,枯藤覆被地块（T2T3,T4)均为0— $3 0 \mathrm { c m }$ 。
+
+表4沟岸剖面土壤水分变化统计学分析结果  
+Table 4Statistical analysis results of soil moisture variation of gully bank   
+
+<html><body><table><tr><td rowspan="2">土层深度 Soil depth/cm</td><td colspan="10">统计指标 Statistical indicators</td></tr><tr><td colspan="2">CK</td><td colspan="2">T1</td><td colspan="2">T2</td><td colspan="2">T3</td><td colspan="2">T4</td></tr><tr><td></td><td>K</td><td>C</td><td>K</td><td>C</td><td>K</td><td>C</td><td>K</td><td>C C</td><td>K D</td><td>C</td></tr><tr><td>10</td><td>3.145</td><td>0.375</td><td>3.147</td><td>0.376</td><td>2.749</td><td>0.311</td><td>1.774</td><td>0.174</td><td>1.789</td><td>0.199</td></tr><tr><td>20</td><td>1.691</td><td>0.123</td><td>1.855</td><td>0.147</td><td>1.669</td><td>0.122</td><td>1.472</td><td>0.156</td><td>1.125</td><td>0.243</td></tr><tr><td>30</td><td>1.230</td><td>0.106</td><td>1.985</td><td>0.162</td><td>1.106</td><td>0.106</td><td>1.021</td><td>0.103</td><td>1.112</td><td>0.154</td></tr><tr><td>40</td><td>1.047</td><td>0.102</td><td>一</td><td>1.611</td><td>1.008</td><td>0.071</td><td>1.018</td><td>0.022</td><td>1.085</td><td>0.064</td></tr><tr><td>60</td><td>1.020</td><td>0.029</td><td>1.245</td><td>0.100</td><td>1.004</td><td>0.016</td><td>1.022</td><td>0.019</td><td>1.213</td><td>0.187</td></tr><tr><td>100</td><td>1.065</td><td>0.100</td><td>1.862</td><td>0.213</td><td>1.075</td><td>0.036</td><td>1.127</td><td>0.085</td><td>1.058</td><td>0.022</td></tr></table></body></html>
+
+CK：裸露沟岸，thebare gullybank；T1：鲜藤覆被沟岸,the gullbankunderfreshcoverageofKudzu；T2—T4：枯藤覆被沟岸,thegullybankunder withered coverage of Kudzu ; $K _ { a }$ ：极值比，extremes ratio; $\boldsymbol { C } _ { v }$ ：变异系数，variation coefficient；一表示土壤含水率监测过程中最小值未检测出，极值比不存在 > 2
+
+# 2.3沟岸表层土壤水分变化特征
+
+沟岸表层土壤水分状况与动态变化可用土壤含水率及其变化率表征。土壤含水率可直观反映土壤水分状况,土壤含水率变化率的正(负)则能反映土壤水分的蓄积(散失),切线斜率也较好地表达了土壤水分蓄积（散失)速率。不同处理措施下沟岸表层0—10cm土壤含水率及其变化率如图5所示。
+
+由图5a可知,各处理措施下沟岸表层土壤含水率均呈现出“增加,减小,陡升,陡降,之后稳定衰减”的规律。依据土壤含水率变化规律将监测时段划分为2个阶段,5月21日—5月26日,土壤水分补给阶段;5月27日—5月30日，土壤水分衰减阶段。
+
+分析表明,葛藤覆被可增加水分补给阶段土壤含水率的增加量,且在枯藤覆被地块,土壤含水率的增加量随葛藤覆被量的增加而增加。5月21日雨前土壤平均含水量CK 为 $1 2 . 8 \%$ ,T1为 $1 4 . 6 \%$ ,T2—T4 依次为$1 4 . 0 \%$ ） $1 6 . 0 \%$ ， $2 4 . 3 \%$ 。土壤水分补给结束后,各处理措施下CK、T1—T4平均土壤含水率较前期土壤含水率分别增加了 $7 . 2 \% . 1 1 . 2 \% . 8 \% . 9 . 8 \% . 1 4 . 8 ^ { c }$ 。上述变化特征表明了葛藤覆被可增加土壤水分补给过程中土壤含水率的增加量。
+
+进一步分析表明,葛藤覆被可有效降低土壤含水率的散失量。在土壤水分衰减阶段,5月 27日，$V _ { ( \mathrm { C K } , \mathrm { T 1 } , \mathrm { T 2 } , \mathrm { T 3 } , \mathrm { T 4 } ) } = 2 9 . 9 \% . 3 5 . 2 \% . 3 2 . 8 \% . 2 8 . 9 \% . 4 5 . 7 \% ; 5 $ 月30日， $\mathrm { V } _ { ( \mathrm { C K } , \mathrm { T 1 } , \mathrm { T 2 } , \mathrm { T 3 } , \mathrm { T 4 } ) } = 1 4 . 1 \% { } _ { \times } 2 1 . 1 \% { } _ { \times } 1 8 . 1 \% { } _ { \times } 2 1 . 9 \% \mathrm { ~ , ~ }$ $3 7 . 0 \%$ ,各处理措施下平均土壤含水率分别降低了 $1 5 . 8 \% , 1 4 . 1 \% , 1 4 . 7 \% , 6 . 9 \% , 8 . 8 \%$ 。上述变化特征表明了葛藤覆被可减小土壤水分衰减过程中土壤含水率的散失量。
+
+由图 5b 可知,随葛藤覆被量增加,沟岸表层土壤含水率变化率波动规律不明显。但是,在枯藤覆被地块，覆被量增加后,土壤含水率变化率的波动逐渐平缓,波峰依次减小,波长稳步增大。 $\textcircled { 1 } \mathrm { T } 2$ 波形最陡,T3 次之,T4 波形最缓。表明随枯藤覆被量增加,土壤含水率变化率波形逐渐变缓。 $\textcircled{2}$ 土壤含水率变化率峰值 T2 为0.380,T3为0.138,T4为0.124。表明随枯藤覆被量增加,土壤含水率变化率峰值依次减小。 $\textcircled{3}$ 在土壤含水率变化率波动出现峰值的波段准1/2波长处,T2对应时长7h,T3、T4对应时长均为 $1 7 \mathrm { h }$ 。表明随枯藤覆被量增加,土壤含水率变化率正波动的时长增加。 $\textcircled{1}$ 一 $\textcircled{3}$ 共同说明了增加枯藤覆被量可保证土壤含水率变化率较高的增长速率、较为平稳地、较长时间地增长。
+
+http://www.ecologica.cn
+
+![](images/3e18592534af952ecff09a44ea9c34c9699fad14a0315e5f71b28d133c87bcd9.jpg)  
+图5不同处理措施下沟岸表层0一10cm土层土壤水分变化特征  
+Fig.5The changes characteristics of soil moisture content in gully bank surface layer under diffrent treatments
+
+CK：裸露沟岸,thebaregullybank；T1：鲜藤覆被沟岸，the gullybankunderfreshcoverageofKudzu；T2—T4：枯藤覆被沟岸,thegullybankunder withered coverage of Kudzu；监测次数N以土壤含水率监测时间点顺次排列，1,2,3,其下标注有监测日期
+
+# 2.4沟岸表层土壤温度变化特征
+
+土壤温度是太阳辐射平衡和土壤热量平衡共同作用的结果。气象条件、覆被状况通过影响太阳辐射和土壤热特性改变土壤温度[27]。图6描述了各处理措施下沟岸表层 $5 , 1 0 \mathrm { c m }$ 土壤温度变化特征。
+
+由图6可知， $\textcircled{1}$ 葛藤覆被削弱了沟岸表层土壤温度随深度的变异性,覆被量越多，表层土壤温度差异越小。沟岸表层 $5 , 1 0 \mathrm { c m }$ 处土壤温度波动的差异性随葛藤覆被量增加而减弱,T4处理下 $5 , 1 0 \mathrm { c m }$ 处土壤温度变化曲线几乎重叠。 $\textcircled{2}$ 以土壤水分补给、衰减转折期5月26日为界，各处理措施下沟岸表层 $5 , 1 0 \mathrm { c m }$ 处土壤温度变化显著不同。5月26日之前， $\mathrm { { 1 0 c m } }$ 处土壤温度普遍高于 $5 \mathrm { c m }$ 处；5月26日之后则相反，且 $1 0 \mathrm { { c m } }$ 处土壤温度变化较 $5 \mathrm { c m }$ 处表现出滞后性。表明沟岸表层不同深度土壤温度变化与土壤水分补给衰减过程有关。
+
+表5为沟岸表层土壤温度变化统计学分析结果。由表5可知,随葛藤覆被量增加,沟岸表层 $5 \mathrm { c m } , 1 0 \mathrm { c m }$ 处土壤温度变化幅度和变异程度均逐渐减小。各处理措施下沟岸表层 $5 \mathrm { c m }$ 处土壤温度的极值比$K _ { a }$ (CK,T1,T2,T3,74)= 1.374、1.399、1.205、1.196、1.183,异系数 $C _ { v }$ $\boldsymbol { \ ? } _ { v } _ { ( \mathbf { \scriptsize { C K } } , \mathbf { \scriptsize { T } } 1 , \mathbf { \scriptsize { T } } 2 , \mathbf { \scriptsize { T } } 3 , \mathbf { \scriptsize { T } } 4 ) } = 0 . 0 6 8 _ { \mathbf { \scriptsize { \perp } } } 0 . 0 6 6 , 0 . 0 4 3 _ { \mathbf { \scriptsize { \perp } } } 0 . 0 3 9 _ { \mathbf { \scriptsize { \perp } } } 0 . 0 3 8 _ { \mathbf { \scriptsize { \perp } } }$ ，$5 \mathrm { c m }$ 处土壤温度 $K _ { a }$ 值和 $\vec { C _ { v } }$ 值均表现为 $\mathrm { C K } > \mathrm { T 1 } > \mathrm { T 2 } > \mathrm { T 3 } > \mathrm { T 4 } ; 1 0 \mathrm { c m }$ 处土壤温度的极值比 $K _ { a \left( \mathrm { C K } , \mathrm { T 1 } , \mathrm { T 2 } , \mathrm { T 3 } , \mathrm { T 4 } \right) } = 1 . 5 6 5$ 、1.529、1.351、1.248、1.242,变异系数 $\boldsymbol { C } _ { v }$ $\mathbf { \Phi } _ { ( \mathbf { C K } , \mathbf { T 1 } , \mathbf { T 2 } , \mathbf { T 3 } , \mathbf { T 4 } ) } = 0 . 1 1 3 \ \mathbf { \circ } . 0 . 1 0 9 \ \mathbf { \circ } . 0 . 0 8 5 \ \mathbf { \circ } . 0 . 0 6 8 \ \mathbf { \circ } . 0 . 0 6 2 , 1 0 \mathbf { c m }$ 处土壤温度 $K _ { a }$ 值和 $\hat { C } _ { v }$ 值亦表现为 $\mathrm { C K } { > } \mathrm { T } 1 { > } \mathrm { T } 2 { > } \mathrm { T } 3 { > } \mathrm { T } 4$ ，上述变化规律说明了土壤温度变化幅度和变异程度均随葛藤覆被量的增加而减小。
+
+图7为各处理措施下沟岸表层 $5 \mathrm { c m }$ 处土壤温度变化特征。由图7可知， $\textcircled{1}$ 随葛藤覆被量增加,沟岸表层5cm 处土壤温度波动逐渐减弱。裸露地块CK土壤温度波动最为剧烈,T1次之,T2、T3、T4 依次降低。表明葛藤覆被可降低沟岸表层 $5 \mathrm { c m }$ 处土壤温度波动,减弱土壤温度的剧变性。 $\textcircled{2}$ 以土壤水分补给、衰减转折期5月26日为界，各处理措施下沟岸表层 $5 \mathrm { c m }$ 处土壤温度变化特征显著不同。5月26日之前， $5 \mathrm { c m }$ 处土壤温度波动较小,土壤温度随葛藤覆被量增加而增加;5月26日之后土壤温度波动较大,土壤温度随葛藤覆被量增加而降低。表明土壤温度波动与土壤水分补给衰减过程有关。
+
+![](images/247464247701b3b35454865a63f298b9c23e56b3774624d6a0ffeadc59bf89b3.jpg)  
+图6不同处理措施下沟岸表层土壤温度变化特征  
+Fig.6The changes characteristics of soil temperature in gully bank surface layer under different treatments
+
+CK：裸露沟岸,thebaregullybank；T1：鲜藤覆被沟岸,thegullybankunderfreshcoverageofKudzu；T—T4：枯藤覆被沟岸,thegullybankunder withered coverage of Kudzu；监测次数N以土壤温度监测时间点顺次排列，1,2,3,其下标注有监测日期
+
+表5沟岸表层土壤温度变化统计学分析  
+Table 5Statistical analysis results of soil temperature variation of gully bank surface layer   
+
+<html><body><table><tr><td rowspan="2">不同沟岸 Gully bank surface layer under different treatments</td><td rowspan="2">5cm</td><td colspan="3">10cm</td></tr><tr><td>C</td><td>K</td><td>C</td></tr><tr><td>CK</td><td>K 1.399</td><td>0.068</td><td>1.565</td><td>0.113</td></tr><tr><td>T1</td><td>1.374</td><td>0.066</td><td>1.529</td><td>0.109</td></tr><tr><td>T2</td><td>1.205</td><td>0.043</td><td>1.351</td><td>0.085</td></tr><tr><td>T3</td><td>1.196</td><td>0.039</td><td>1.248</td><td>0.068</td></tr><tr><td>T4</td><td>1.183</td><td>0.038</td><td>1.274</td><td>0.062</td></tr></table></body></html>
+
+CK：裸露沟岸,thebare gullbank；T：鲜藤覆被沟岸，thegullbankunderfreshcoverageofKudzu；T—T4：枯藤覆被沟岸,thegullybankunder withered coverage of Kudzu ; $\textcircled { 2 } K _ { a }$ ：极值比，extremes ratio； $C _ { v }$ ：变异系数，variation coefficient；—表示土壤含水率监测过程中最小值未检测出,极值比不存在
+
+# 3讨论
+
+# 3.1沟岸土壤水分季节变化特征
+
+相比裸露沟岸而言,旱、雨季鲜藤覆被沟岸土壤含水率均出现不同程度的降低,旱、雨季枯藤覆被沟岸土壤含水率则显著增加。较裸露沟岸,鲜、枯藤覆被沟岸0—40cm 土层平均土壤含水率自旱季至初次降雨结束后相对稳定时期土壤含水率的增量明显增加,即鲜、枯藤覆被均可提高沟岸土壤水分蓄积能力,利于降雨水分入渗。
+
+http://www.ecologica.cn
+
+# 3.2沟岸剖面土壤水分变化特征
+
+本研究中枯藤覆被减小了沟岸土壤水分活跃层深度、变化幅度和变异程度。这与陈军锋等[24],李守蕾[28]的研究结果一致。可能是由于覆被改变了土气间的水分交换条件，使得土壤水分补给一衰减过程发生了改变，进而影响到土壤水分动态变化。降雨期间，覆被可降低径流，提高入渗;降雨结束后，覆被又可抑制蒸发[28]。沟岸表层土壤水分存量增加、蒸发却减小,土壤水分波动影响范围则相对减弱。
+
+较裸露沟岸，鲜藤覆被下沟岸土壤水分活跃层深度、变化幅度和变异程度显著增加。原因可能是葛藤生长对极端环境产生了相应的调节适应机制，12：00—16：00太阳辐射强烈，葛藤叶片倾斜生长以降低蒸腾耗水。期间部分表土裸露，植物蒸腾和土面蒸发使得土壤水分加速散失引起。T1、T4处理下 $4 0 { - } 6 0 \mathrm { c m }$ 王层土壤含水率低的原因在于区内有葛藤须根生根，强烈的蒸腾作用使的该层土壤水分急剧下降，水分亏缺严重。因此，葛藤种植应选择在沟岸底部水分条件相对优越的区域，以防止植被过度耗水导致土壤干旱化。
+
+![](images/cc86b5534b6a76815d9f57ea4d074232f4635f00abe8904c29f0118d56f12e4b.jpg)  
+图7不同处理措施下表层5cm处土壤温度变化 Fig.7The changes characteristics of soil temperature in gully bank surface layer in 5cm under different treatments CK：裸露沟岸，the bare gully bank；T1：鲜藤覆被沟岸，the gully bank under fresh coverage of Kudzu；T2—T4：枯藤覆被沟岸，the gullybank under withered coverage of Kudzu; $\textcircled{2}$ 监测次数N以土壤 温度监测时间点顺次排列，1,2,3，其下标注有监测日期
+
+# 3.3沟岸表层土壤水分变化特征
+
+有研究表明,表层土壤水分变化对气象条件和覆被状况的改变更为敏感[29],本文对比分析了不同处理措施下沟岸表层0— $1 0 \mathrm { { c m } }$ 土壤含水率及其变化率在单次降雨过程中的动态变化特征。研究发现,葛藤覆被可增加水分补给过程中土壤含水率的增加量,减小土壤水分衰减过程中土壤含水率的散失量。增加枯藤覆被量后,土壤含水率变化率的波形逐渐平缓、波峰依次减小、波长稳步增大。可能是由于覆被物既可充当降雨水分的缓存器,使水分人渗存在缓冲效应;又可充当水分人渗的缓释器,使水分补给存在滞后效应[26],使得土壤水分人渗时间拉长,入渗速率减弱,表现在土壤含水率变化率的波动规律即为波形平缓,峰值减小,波长增加。
+
+# 3.4沟岸表层土壤温度变化特征
+
+本研究中葛藤覆被减弱了沟岸表层土壤温度。这与蔡太义[30]的研究结果一致。可能是由于覆被改变了表层土壤热量的自然迁移规律,阻碍了太阳辐射和地面净辐射,降低了白天辐射热能,削弱了夜间热量散失，并弱化了土壤的热传导过程,使得土壤温度波动降低。
+
+研究还发现,土壤温度波动与土壤水分补给衰减过程有关。原因可能是5月26日之前，覆层内存留有一定水分，表层土壤温度主要以深层( $1 0 \mathrm { { c m } } \dot { }$ )土壤向浅层( $5 \mathrm { c m } { \mathrm { \cdot } }$ )土壤的热传导为主,地表温度对表层土壤的影响较弱,因而深层土壤温度相对较高。5月26日之后,覆层水分蒸发殆尽后,太阳辐射通过加热浅层土壤并以热传导的方式传递给深层土壤,因而浅层土壤温度较高;同时表层土壤温土壤热传导过程需要一段时间,温度变化的滞后性也就随之出现。
+
+# 4结论
+
+(1)相比裸露沟岸而言,旱、雨季鲜藤覆被沟岸土壤含水率均出现不同程度的降低,枯藤覆被沟岸土壤含水率则显著增加,且鲜、枯藤覆被均有利于降雨水分入渗,提高土壤水分蓄积量。
+
+(2)相比裸露沟岸而言,鲜藤覆被可明显增加土壤水分活跃层深度、变化幅度和变异程度,枯藤覆被下土壤水分活跃层深度、变化幅度和变异程度则相对减弱。
+
+http://www.ecologica.cn
+
+(3)相比裸露沟岸而言,鲜、枯藤覆被可提高水分补给过程中沟岸表层土壤含水率的增加量,降低水分衰减过程中沟岸表层土壤含水率的散失量;增加枯藤覆被量可保证土壤含水率变化率以较高的增长速率、较稳平稳地、较长时间地增长。
+
+(4)相比裸露沟岸而言,鲜、枯藤覆被可削弱沟岸表层土壤温度的变化幅度和变异程度,减弱土壤温度波动。
+
+# 参考文献（References）:
+
+[1]CuiP，WeiFQ,LidintrasporedybrifotoeerJishaRerIteatioalJoualofedentResearch99,4(4)67-71.  
+[2]刘方炎，李昆，张春华，廖声熙.金沙江干热河谷植被恢复初期的群落特征.南京林业大学学报：自然科学版，2007,31(6)：129-132.  
+[3］陈安强，张丹，魏雅丽，刘刚才.元谋干热河谷冲沟沟头土壤结构对入渗性能的影响.水土保持学报，2011，25（1）：47-52. $\bigcirc$   
+［4］何毓蓉，沈南，王艳强，唐家良，高庭艳，杨艳鲜，范月清.金沙江干热河谷元谋强侵蚀区土壤裂隙形成与侵蚀机制.水土保持学报，2008，22(1):33-36，42-42.  
+[5］段爱国，张建国，何彩云，刘娟娟，曾燕飞，崔永忠,李昆.干热河谷重要造林树种气体交换特性的坡位效应.生态学报,2013,33（12)：3630-3638.  
+[6]ZuY,LuXXZouYietfsitytiategaseudyineacetoftureie,China.Global and Planetary Change，2008,60(3/4）：429-442.  
+［7］刘婷，贾志宽，张睿，郑甲成，任世春，杨宝平，聂俊峰，刘艳红，王海霞.秸秆覆盖对旱地土壤水分及冬小麦水分利用效率的影响.西北农林科技大学学报：自然科学版，2010，38（7)：68-76.  
+[8]LiSX,WagZH,LiSQ，GoYJ,TanXH.Efetofplastshemulcheattramchndmazegrowthowaterlossvportioin dryland areas of China.Agricultural Water Management,2013,116：39-49.  
+[9]Ramakrishna A,Tam HM，Wani SP,Long T D.Effect of mulch on soil temperatu weed infestation and yield of groundnut innorthern Vietnam.Field Crops Research,2006,95(2/3）: l15-125.  
+[10]BaS,inathP,MkaraO,MichllJukaiSEetsoftrawulchomungeanyieldiicefieldswitstroglyompactedilsieldCrops Research，2011，124(3）：295-301.  
+[11]FlerchingeGueikeR.fectsofoseovedhieuoeatdaterasfeathilaceGe,2003，116(1/2): 217-233.  
+[12］员学锋，吴普特，汪有科，徐福利.免耕条件下秸秆覆盖保熵灌溉的土壤水、热及作物效应研究.农业工程学报，2006,22（7）：22-26.  
+[13］脱云飞，费良军，杨路华，张永玲.秸秆覆盖对夏玉米农田土壤水分与热量影响的模拟研究.农业工程学报，2007,23(6)：27-32.  
+14]ZengXQJFigSfitaiydaeesorgdgetseoegcosofthe CSAE,2009,25(11）: 23-28.（in English with Chinese abstract)  
+[15]GuoFF,anL，heAQ,LiuGCIfuencefvegetatiocoverageonsurfacerunoffandsoloistureinrainysasnindvayAgricultural Science & Technology，2010,11(4):138-14.  
+[16] 胡兵辉，王维，张红芳.干热河谷旱地覆盖间作两熟种植模式的水分效应.水土保持学报，2015,29(1)：274-278.  
+[17］刘洁,李贤伟，纪中华，张健，张良辉，周义贵.元谋干热河谷三种植被恢复模式土壤贮水及入渗特性.生态学报，2011，31（8)：2331-2340.  
+[18］刘芝芹，黄新会，王克勤.金沙江干热河谷不同土地利用类型土壤入渗特征及其影响因素.水土保持学报，2011,28(2)：57-62.  
+[19］韩娇娇，段旭，赵洋毅，熊好琴.干热河谷不同土地利用类型坡面土壤水分时空变异.水土保持学报，2017,31（2）：129-136.  
+[20］张宝军，熊东红，郭敏，董一帆，苏正安，杨丹，史亮涛.干热河谷冲沟侵蚀劣地不同坡位草被生长和土壤水分关系研究.草业科学，2015,32(5) : 686-693.  
+[21］何毓蓉，黄成敏，杨忠，张信宝.云南省元谋干热河谷的土壤退化及旱地农业研究.土壤侵蚀与水土保持学报，197,3（1）：56-60.  
+［22］张磊．双面蒸发条件下沟岸地土壤水分时空分布特征[D].杨凌：西北农林科技大学，2015：1-2.  
+[23] 寇萌，焦菊英，尹秋龙，杜华栋，王东丽.黄土丘陵沟壑区主要草种枯落物的持水能力与养分潜在归还能力.生态学报，2015，35（5)：1337- 1349.  
+[24] 陈军锋，郑秀清，秦作栋，刘萍，臧红飞，孙明.冻融期秸秆覆盖量对土壤剖面水热时空变化的影响.农业工程学报，2013，29（20)：102- 110.  
+[25] 李强，周道玮，陈笑莹.地上枯落物的累积、分解及其在陆地生态系统中的作用.生态学报，2014，34（14)：3807-3819.  
+[26] 米美霞，樊军，邵明安.利用热脉冲技术研究石子覆盖对土壤内部蒸发的影响.土壤学报，2013,50(1)：75-82.  
+[27] 米美霞，樊军，邵明安，高宇.地表覆盖对土壤热参数变化的影响.土壤学报，2014，51(1)：58-66.  
+[28] 李守蕾.旱地秸秆带状覆盖不同覆盖量对冬小麦土壤水热变化的影响[D].兰州：甘肃农业大学,2016：2-3.  
+9]CookHlG.ulctsalleelalaceriseurerelTillage Research，2006,91(1/2）：227-235.  
+[30］蔡太义.渭北旱原不同量秸秆覆盖对农田环境及春玉米生理生态的影响[D]．杨凌：西北农林科技大学,2011：1-3.

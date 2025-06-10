@@ -1,0 +1,192 @@
+谷氨酰胺对黄颡鱼幼鱼生长性能、肠道形态及非特异性免疫相关基因表达的影响
+
+叶沙舟’张杰‘陈海敏‘　周歧仔‘ 朱方周‘（1．宁波大学海洋学院，浙江省海洋生物工程重点实验室，宁波 315211；2.宁波大学海洋学院，鱼类营养研究室，宁波315211；3.郑州新威营养技术有限公司，郑州 475000）摘要：本试验旨在探讨谷氨酰胺对黄颡鱼幼鱼生长性能、肠道形态及非特异性免疫相关基因表达的影响。选用体重为 $( 2 . 4 9 \pm 0 . 0 4$ ） $\mathbf { g }$ 的黄颡鱼幼鱼240尾，随机分为4组，每组3个重复，每个重复20尾。配制含0（对照）、 $0 . 1 0 \%$ 、 $0 . 2 0 \%$ 和 $0 . 4 0 \%$ 谷氨酰胺的4种试验饲料，每种试验饲料随机饲喂1组试验鱼，饲养周期为 $7 0 \mathrm { d }$ 。结果发现：饲料中增加谷氨酰胺对黄颡鱼幼鱼的生长性能指标无显著影响（ $_ { . P > 0 . 0 5 }$ )。相比对照组，饲料中添加Gln后促进了肠道绒毛的发育，绒毛高度与皱褶深度有所增加，但肌层厚度有所下降，其中 $0 . 2 0 \%$ 和$0 . 4 0 \%$ 组肠道绒毛高度、皱褶深度显著增加（ $P { < } 0 . 0 5 \$ )，肌层厚度显著降低（ $P { < } 0 . 0 5 \rangle$ 。在$0 . 1 0 \% { \sim } 0 . 2 0 \%$ 谷氨酰胺添加范围内，金属硫蛋白（ $. M T )$ mRNA 相对表达量在肌肉中变化最明显，各添加组均较对照组显著升高（ $_ { ( P < 0 . 0 5 ) }$ ；谷胱甘肽-S-转移酶（GST）mRNA 相对表达量在肠道中变化最明显，其中 $0 . 2 0 \%$ 组较对照组显著升高（ $. P { < } 0 . 0 5 )$ ；抗菌肽（Hepc）和组成型热休克蛋白70（Hsc70）mRNA 相对表达量在肝脏中变化最明显，其中 $0 . 1 0 \%$ 组的HepcmRNA相对表达量达到对照组的73倍之多（ $. P { < } 0 . 0 5 )$ ， $0 . 2 0 \%$ 组的 $H s c 7 0 \ \mathrm { m R N A }$ 相对表达量达到对照组的3倍之多（ $\scriptstyle \cdot - P < 0 . 0 5 .$ )。由此得出，在基础饲料上添加一定量的谷氨酰胺能增强黄颡鱼幼鱼的非特异性免疫和抗氧化能力。
+
+关键词：黄颡鱼；谷氨酰胺；非特异性免疫；肠道形态中图分类号：S963 文献标识码：A 文章编号：
+
+谷氨酰胺(glutamine,Gln)是动物体内含量最丰富的一种条件性必需氨基酸，是机体一些快速分裂细胞的主要能量来源，参与合成多种必需物质代谢，具有维持肠道黏膜屏障、改善机体营养状况、增强机体免疫能力等多种功能[1]。研究表明，适量Gln 的添加可以增加大鼠肠绒毛高度，降低肠黏膜通透性，增强肠免疫功能，并防止细菌及毒素的移位，维持肠黏膜屏障[2]。Gln在动物饲料领域的应用已有所研究，例如：添加 $1 \%$ 的Gln 可以增加断奶仔猪的空肠绒毛高度，降低肌层厚度，防止断奶仔猪的肠黏膜萎缩，对维持肠道的结构和功能具有重要作用[3]；Gln 可以提高猪肠黏膜中抗菌肽 mRNA 的表达，提高仔猪的抗病能力[4]，且可以减少断奶仔猪应激时自由基的产生，从而减少应激对机体的损伤[5]。
+
+黄颡鱼（Pelteobagrus fulvidraco）属鲶形目（Siluriformes），鱼尝科(Bagridae)，黄颡鱼属(Pelteobagrus)，其肉味鲜美、含肉率高、营养价值高，深受中国、韩国、日本等东亚国家消费者青睐[。随着黄颡鱼养殖业的兴起和发展，对病害防治途径的探索不断加深。然而，Gln 对动物免疫及营养作用的研究主要集中在畜禽方面，关于水生动物方面的研究只有零星报道[7]，而在黄颡鱼饲料中的应用效果还未有报道。因此，本研究通过在饲料中添加Gln，探讨其对黄颡鱼幼鱼肠道形态和非特异性免疫相关基因表达的影响，并确定其适宜添加量，为Gln在水产饲料生产中的应用提供参考。
+
+# 1材料与方法
+
+# 1.1 试验饲料
+
+设定试验饲料中GIn（纯度 $9 9 \%$ ，郑州新威营养技术有限公司)添加量分别为0（对照）$0 . 1 0 \%$ 、 $0 . 2 0 \%$ 、 $0 . 4 0 \%$ 。饲料原料粉碎后过60目筛，按照配方要求准确称量，混匀，微量成分采取逐级扩大法预混合，再与大宗原料混合均匀，液体原料加入后过60目筛，使其混合均匀，混均后加入 $30 \%$ 的水，再次混匀后用双螺杆制粒机(华南理工大学科技实业总厂，G-250)挤压成粒径分别为2.5 和 $4 . 0 \mathrm { m m }$ 的2 种颗粒饲料，制粒后于 $9 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 烘箱中熟化 $0 . 5 \mathrm { h }$ 干燥后于－20 $\mathrm { { } ^ { \circ } C }$ 保存备用。饲料成分分析参照AOAC（1995）[8]的方法，即水分含量采用105℃常压干燥法测定，粗蛋白质含量采用凯氏定氮法测定，粗脂肪含量采用索氏抽提法测定。试验饲料组成及营养水平见表1。
+
+Table 1 Composition and nutrient levels of experimental diets (air-dry basis） $0 \%$
+
+表1试验饲料组成及营养水平(风干基础)  
+
+<html><body><table><tr><td>项目Items</td><td colspan="4">谷氨酰胺添加量 Gln addtion/%</td></tr><tr><td></td><td>0</td><td>0.10</td><td>0.20</td><td>0.40</td></tr><tr><td>原料Ingredients</td></tr><tr><td>鱼粉 Fish meal</td><td>18.00</td><td>18.00</td><td>18.00</td><td>18.00</td></tr><tr><td>菜籽粕 Rapeseed meal</td><td>12.00</td><td>12.00</td><td>12.00</td><td>12.00</td></tr><tr><td>豆粕 Soybean meal</td><td>26.00</td><td>26.00</td><td>26.00</td><td>26.00</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>面粉Wheat flour</td><td>27.30</td><td>27.30</td><td>27.30</td><td>27.30</td></tr><tr><td>玉米蛋白粉 Corn gluten meal</td><td>7.50</td><td>7.50</td><td>7.50</td><td>7.50</td></tr><tr><td>豆油 Soybean oil</td><td>2.10</td><td>2.10</td><td>2.10</td><td>2.10</td></tr><tr><td>鱼油Fish oil</td><td>2.10</td><td>2.10</td><td>2.10</td><td>2.10</td></tr><tr><td>大豆卵磷脂Lecithin</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>矿物质预混料 Mineral premixl</td><td>1.50</td><td>1.50</td><td>1.50</td><td>1.50</td></tr><tr><td>维生素预混料 Vitamin premix2)</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td></tr><tr><td>氯化胆碱 Choline chloride</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td></tr><tr><td>磷酸二氢钙Ca（HPO4）2</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>纤维素 Cellulose</td><td>0.50</td><td>0.40</td><td>0.30</td><td>0.10</td></tr><tr><td>谷氨酰胺 Gln</td><td></td><td>0.10</td><td>0.20</td><td>0.40</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels</td><td></td><td></td><td></td><td></td></tr><tr><td>粗蛋白质CP</td><td>39.82</td><td>39.56</td><td>40.32</td><td>40.54</td></tr><tr><td>粗脂肪 EE</td><td>7.73</td><td>7.65</td><td>7.69</td><td>7.23</td></tr><tr><td>水分 Moisture</td><td>10.57</td><td>10.21</td><td>10.93</td><td>10.30</td></tr></table></body></html>
+
+1矿物质预混料为每千克饲粮提供 The mineral premix provided the following per $\mathrm { k g }$ of diets: Fe （as ferric citrate） $1 2 \mathrm { m g }$ ，Zn (as zinc sulfate) $3 2 ~ \mathrm { m g }$ ，Mn (as manganese sulfate) $2 0 ~ \mathrm { m g }$ ， $\mathrm { c u }$ (as copper sulfate) $2 5 ~ \mathrm { m g }$ ，I (as potassium iodide) $0 . 1 0 \mathrm { m g }$ $\mathbf { M g }$ (as magnesium sulphate) $3 5 0 ~ \mathrm { m g }$ , K (as monopotassium phosphate) $1 0 0 0 \mathrm { m g }$ ， Na (as monosodium phosphate) $3 0 0 ~ \mathrm { { m g } }$ ，Ca (as calcium lactate) $6 5 ~ \mathrm { m g }$ ，Co (as cobalt dichloride) $5 \mathrm { m g }$ ，Se (as sodium selenite) $0 . 3 ~ \mathrm { m g }$ 。 2维生素预混料为每千克饲粮提供 The vitamin premix provided the following per kg of diets：VA $2 \ : \mathrm { m g }$ ， VB1 100 mg，VB2 60 mg，VB6120 mg，VB12 0.2 mg，VC 105 mg，VD3 0.15 mg，VE 100 mg，VK3 40 mg, 生物素 biotin $2 . 5 ~ \mathrm { m g }$ ,叶酸 folic acid $4 . 0 \mathrm { m g }$ ,泛酸钙 calcium pantothenate $1 5 0 ~ \mathrm { m g }$ ，烟酸 nicotinic acid $4 0 0 \mathrm { { m g } }$ 肌醇 inositol $2 0 0 0 \mathrm { m g }$ 。
+
+# 1.2 饲养管理
+
+试验用黄颡鱼幼鱼购自浙江湖州渔场，在试验条件下饲养2周后开始试验。试验前，禁食 $2 4 \mathrm { h }$ 后取健康、体重相近的黄颡鱼幼鱼进行分组，将 240尾平均体重为 $( 2 . 4 9 \pm 0 . 0 4 ) \ : \mathrm { g }$ 的黄颡鱼幼鱼随机分为4组，每组3个重复，每个重复20尾，饲养于 $3 0 0 \mathrm { { L } }$ 蓝色玻璃钢桶中，试验期为10周。每2周测量1次体重，每天投喂2次，投喂时间分别为07:00和17:00，日投喂量为其体重的 $6 \% \sim 8 \%$ ，投喂后1h观察其摄食情况，根据鱼的进食情况调整投喂量。试验用水为经过曝气处理的自来水，整个养殖过程中连续充气 $( 1 ~ \mathrm { L } / \mathrm { m i n } )$ ，溶氧浓度保持或接近饱和，每天除污1次，前2周隔天换水1次，之后视水质情况每天换水 $4 0 \% \sim 6 0 \%$ 。试验期间，水温为 $1 9 \mathrm { \sim } 2 9 \mathrm { ~ \textdegree C }$ ， $\mathrm { p H } 7 . 5 \sim 7 . 8$ ，氨氮浓度不高于 $0 . 0 5 \mathrm { m g / L }$ 。
+
+1.3样品采集与指标测定
+
+试验结束后，禁食 $2 4 \mathrm { h }$ ，擦干鱼体表水分和黏液，称重，统计存活率。每桶随机取3尾鱼测定其体重。按下列公式计算生长性能指标：
+
+增重率（weight gain rate，WGR， $\% ) ~ { = } 1 0 0 \times ~ ( ~ W _ { \mathrm { t ^ { - } } } W _ { 0 } ) ~ / W _ { 0 } ;$ 特定生长率（specific growth rate，SGR， $\% ( \mathrm { d } ) ~ = 1 0 0 \times ~ \left( \mathrm { l n } { W _ { \mathrm { t } } } \mathrm { { - } } \mathrm { { l n } } { W _ { 0 } } \right) ~ / t ;$ 饲料效率（feed efficiency， $\mathrm { F E } ) = \left( \smash { W _ { \mathrm { t } } W _ { 0 } } \right) / F$ ： 存活率（survival rate $\mathrm { , S R , \% ) \ = 1 0 0 \times \ ( \it { N } _ { t } \mathrm { - } \it { N } _ { 0 } ) \ \mathrm { / } \it { N } _ { 0 } \mathrm { _ { \circ } } }$
+
+式中： $W _ { \mathrm { t } }$ 为终末体重（g)； $W _ { 0 }$ 为初始体重（g)； $t$ 为试验天数（d)； $F$ 为摄食量 ${ \bf \Pi } ( { \bf g } )$ $N _ { \mathrm { t } }$ 为终末尾数； $N _ { 0 }$ 为初始尾数。
+
+每个重复再随机选取3尾鱼，在冰浴条件下对进行解剖，剥取肝脏、肌肉与肠道组织置于含 RNAlater 的离心管中，立即置于液氮中备用。取出前肠 $1 \mathrm { c m }$ 左右，用生理盐水冲洗干净，放入 $10 \%$ 中性甲醛中固定，石蜡包埋，连续横断切片，厚 $7 \mu \mathrm { m }$ ，进行常规苏木精-伊红（HE）染色。利用 NIS-ElementsD照相处理软件，每个肠管取2张切片，每张切片选取3个绒毛高度、皱褶深度和肌层厚度进行测量。
+
+1.4总RNA 提取和cDNA合成
+
+采用OmegaR6934-01TotalRNAKitII试剂盒分别抽提肝脏、肌肉与肠道组织中总RNA，微量紫外可见分光光度计测定RNA溶液浓度和纯度。取 $1 ~ { \mu \mathrm { g } }$ 总RNA按照 TaKaRaPrimeScriptRTReagent Kitwith gDNAEraser试剂盒操作说明反转录得到cDNA。
+
+# 1.5 引物的设计和合成
+
+根据GeneBank中黄颡鱼的金属硫蛋白(MT）谷胱甘肽-S-转移酶(GST）抗菌肽(Hepc)、组成型热休克蛋白70（Hsc70）和 $\beta$ -肌动蛋白（ $\beta$ -actin，内参基因）的cDNA序列，用Primer5.0 软件设计引物，见表2，引物由上海英潍捷基公司合成。
+
+# 表2内参和目的基因的引物序列
+
+Table 2Primer sequences of internal reference and target genes
+
+<html><body><table><tr><td colspan="2"></td></tr><tr><td>基因</td><td>引物序列</td></tr><tr><td>Genes</td><td>Primer sequences</td></tr><tr><td>金属硫蛋白 MT</td><td>F:5'-TTGCGAGTGCTCCAAGAC-3'</td></tr><tr><td></td><td>R:5'-CAGAAGGGCAGCAAGAGC-3'</td></tr><tr><td>组成型热休克蛋白70 Hsc70</td><td>F:5'-CCTCTGTCCCTGGGTATT-3'</td></tr><tr><td></td><td>R:5'-GGCTCGTTCACCCTCATA-3'</td></tr><tr><td>抗菌肽 Hepc</td><td>F:5'-CTGGAGAAGCCTGTGGAAAC-3'</td></tr><tr><td></td><td>R:5'-GCAGAACCCACAGCCTTTAT-3'</td></tr><tr><td rowspan="2">谷胱甘肽-S-转移酶GST</td><td>F:5'-GGCTGTTGCTGGTGTTGAGT-3'</td></tr><tr><td>R:5'-ATTCCCATCCATTCAACCAG-3'</td></tr><tr><td></td><td>F:5'-GTCCGTGACATCAAGGAGAAGC-3'</td></tr><tr><td rowspan="2">β-肌动蛋白β-actin</td><td></td></tr><tr><td>R:5'-CAGGACTCCATACCCAGGAAAGA-3'</td></tr></table></body></html>
+
+用实时荧光定量PCR仪（Roche）采用 SYBR?GreenI方法对目的基因的mRNA相对表达量进行检测。以稀释的cDNA作为标准品模板，反应体系为：SYBRPrimix Ex Taq II（TliRNase plus）（ $2 \times$ ） $1 0 . 0 \mu \mathrm { L }$ ，PCR Forward Primer（ $1 0 \mu \mathrm { m o l / L }$ ） $0 . 8 ~ \mu \mathrm { L }$ ，PCR ReversePrimer( $1 0 \mathrm { \ : \mu m o l / L }$ ） $0 . 8 ~ \mu \mathrm { L }$ ，DNA 模板 $2 . 0 ~ \mu \mathrm { L }$ ， $\mathrm { d d H } _ { 2 } \mathrm { O } 6 . 4 \mu \mathrm { L }$ 。MT、Hsc70与Hepc反应程序： $9 5 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 持续 $1 8 0 \mathrm { ~ s ~ } 1$ 个循环； $9 4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 持续 $4 5 \mathrm { ~ s ~ }$ ，退火温度 $5 5 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ,持续 $4 5 \mathrm { ~ s ~ }$ ，72℃持续60s，共计45 个循环。GST反应程序： $9 5 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 持续 30 s1个循环； $9 5 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 持续5s，退火温度 $6 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 持续 $3 0 ~ \mathrm { s }$ ，共计45个循环，应用LightCycler 96软件，采用 $2 ^ {  \triangleup  }$ 法测定目的基因的mRNA相对表达量。
+
+# 1.6 数据统计与分析
+
+通过统计软件 SPSS20.0，采用单因素方差分析（one-wayANOVA）和Duncan氏多重检验法进行统计分析， $P { < } 0 . 0 5$ 为差异显著。
+
+2结果
+
+2.1Gln对黄颡鱼幼鱼生长性能的影响表3 显示，随着饲料中Gln 添加量的增加，黄颡鱼幼鱼的存活率出现增高的趋势，但组间差异不显著（ $_ { \cdot \ P > 0 . 0 5 } )$ )。黄颡鱼幼鱼的终末体重、增重率、特定生长率、饲料系数各组间亦差异不显著（ $. P { > } 0 . 0 5 ^ { \cdot }$ )。
+
+表3GIn 对黄颡鱼幼鱼生长性能的影响  
+Table 3Effects of Gln on growth performance of juvenile yellow catfish   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="4">Gln 添加量 Gln addtion/%</td></tr><tr><td>0</td><td>0.10</td><td>0.20</td><td>0.40</td></tr><tr><td>终末体重 FBW/g</td><td>16.73±2.67</td><td>17.69±0.54</td><td>14.40±1.33</td><td>18.28±0.02</td></tr><tr><td>增重率 WGR/%</td><td>565.34±101.23</td><td>601.47±20.36</td><td>479.81±50.32</td><td>651.34±7.31</td></tr><tr><td>特定生长率 SGR/%</td><td>2.67±0.22</td><td>2.78±0.04</td><td>2.50±0.12</td><td>2.88±0.01</td></tr><tr><td>饲料效率 FE</td><td>0.38±0.02</td><td>0.36±0.01</td><td>0.35±0.02</td><td>0.42±0.01</td></tr><tr><td>存活率 SR/%</td><td>83.33±5.85</td><td>85.00±2.89</td><td>87.50±1.77</td><td>91.67±3.47</td></tr></table></body></html>
+
+同行数据肩标相同或无字母表示差异不显著，不同字母表示差异显著（ $P { < } 0 . 0 5 \$ )。下表同。
+
+In the same row, values with no or the same letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ,while with different letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ . The same as below.
+
+2.2Gln 对黄颡鱼幼鱼肠道形态的影响
+
+图1显示，相比对照组，饲料中添加Gln后促进了肠道绒毛的发育，绒毛高度与皱褶深度有所增加，但肌层厚度有所下降。
+
+A：对照组；B： $0 . 1 0 \%$ 组；C： $0 . 2 0 \%$ 组；D： $0 . 4 0 \%$ 组；MH：绒毛高度；MF：皱褶高度；MC：肌层厚度。
+
+![](images/bb6ae87d09e74c237d20b21def5d8e1ceaaf611c8538bd9bf7d11beffe2d9aeb.jpg)  
+图1摄食含不同添加量Gln饲料后黄颡鱼幼鱼的肠道组织学变化
+
+A: control group; B: $0 . 1 0 \%$ group; C: $0 . 2 0 \%$ group; D: $0 . 4 0 \%$ group; MH: villus height; MF: height of folds; MC: muscle thickness.
+
+Fig.1Histological changes of intestine of juvenile yellow catfish after fed with different addtions of Gln
+
+表4显示，随着饲料中Gln添加量的增加，黄颡鱼幼鱼肠道绒毛长度呈现增加的趋势，其中 $0 . 1 0 \% \mathrm { G l n }$ 组与对照组差异不显著（ $_ { \cdot P > 0 . 0 5 ) }$ ，而 $0 . 2 0 \%$ 和 $0 . 4 0 \% \mathrm { G l n }$ 组与对照组差异显著（ $\cdot P { < } 0 . 0 5$ )。对于皱褶深度， $0 . 2 0 \%$ 和 $0 . 4 0 \% \mathrm { G l n }$ 组较对照组显著增加（ $. P { < } 0 . 0 5 )$ ，而 $0 . 1 0 \%$ 组与对照组差异不显著‘ $( P { > } 0 . 0 5 )$ 。饲料中添加 $0 . 1 0 \% \mathrm { G } \mathrm { l n }$ 对肠道肌层厚度未产生显著影响1 $. P { > } 0 . 0 5 )$ ，但添加 $0 . 2 0 \%$ 和 $0 . 4 0 \% \mathrm { G l n }$ 则显著降低了肠道肌层厚度（ $_ { , P < 0 . 0 5 ) }$ 。
+
+表4GIn对黄颡鱼幼鱼肠道形态的影响  
+Table 4Effects of Gln on intestinal morphology of juvenile yellow catfish μm   
+
+<html><body><table><tr><td>项目</td><td colspan="4">Gln 添加量 Gln addtion/%</td></tr><tr><td>Items</td><td>0</td><td>0.10</td><td>0.20</td><td>0.40</td></tr></table></body></html>
+
+<html><body><table><tr><td>绒毛高度Villus height</td><td>545.52±31.66a</td><td>582.25±42.11ab</td><td>611.35±40.69b</td><td>745.77±40.37c</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>皱褶深度 Folds depth</td><td>528.18±53.94a</td><td>442.37±86.64a</td><td>594.92±53.82b</td><td>626.48±40.87b</td></tr><tr><td>肌层厚度Muscle</td><td></td><td></td><td></td><td></td></tr><tr><td>thickness</td><td>269.89±23.94a</td><td>289.22±49.12a</td><td>181.48±36.20b</td><td>206.63 ±41.30b</td></tr></table></body></html>
+
+2.3Gln 对黄颡鱼幼鱼 $M T \mathrm { m R N A }$ 相对表达量的影响
+
+图2显示，饲料中添加Gln后，肌肉中 $M T \mathrm { m R N A }$ 相对表达量变化最明显，各添加组均较对照组显著升高（ $_ { ( P < 0 . 0 5 ) }$ ，其中 $0 . 4 0 \%$ 组达到了对照组的3倍之多，但没有剂量效应，以 $0 . 2 0 \%$ 组的升高量较低。与对照组相比，肠道中 $M T \mathrm { m R N A }$ 相对表达量在 $0 . 2 0 \%$ 组显著升高 $( P { < } 0 . 0 5 )$ ，升高了 $2 8 . 4 2 \%$ 但在 $0 . 1 0 \%$ 和 $0 . 4 0 \%$ 组则显著下降（ $( P { < } 0 . 0 5 )$ 。肝脏中MTmRNA相对表达量随着饲料中Gln添加量的增加先显著降低（ $. P { < } 0 . 0 5 \$ ，而后虽然有所升高，但各添加组仍均显著低于对照组（ $_ { . P < 0 . 0 5 ) }$ 。
+
+数据柱标注不同字母表示差异显著（ $_ { . { P < 0 . 0 5 } }$ )。下图同。
+
+![](images/27805f4ffc9ff57fae368efa262a12d94c097e0ead45db53a04dc907303a2263.jpg)  
+图2Gln 对黄颡鱼幼鱼不同组织MTmRNA相对表达量的影响
+
+Value columns with different letters mean significant difference $( P { < } 0 . 0 5 )$ .The same as below.
+
+Fig.2Effects of Gln on MTmRNA relative expression level in diferent tissues of juvenile yellow catfish
+
+2.4Gln 对黄颡鱼幼鱼 $G S T \mathrm { m R N A }$ 相对表达量的影响
+
+图3显示，与对照组相比，肠道中GSTmRNA相对表达量在 $0 . 1 0 \%$ 和 $0 . 2 0 \%$ 组有所升高， $0 . 2 0 \%$ 组升高了 $3 2 . 4 2 \% ( P { < } 0 . 0 5 )$ ，在 $0 . 4 0 \%$ 组又有所下降，但差异未达显著水平( $_ { ( P > 0 . 0 5 ) }$ 。与对照组相比，肝脏中 $G S T \mathrm { m R N A }$ 相对表达量在 $0 . 2 0 \%$ 组略有下降（ $( P { > } 0 . 0 5 )$ ，而在 $0 . 1 0 \%$ 和 $0 . 4 0 \%$ 组则下降显著（ $. P { < } 0 . 0 5 \$ )。饲料中添加Gln后肌肉中GSTmRNA相对表达量出现了显著下降 ( $_ { . } P { < } 0 . 0 5 )$ ）°
+
+![](images/35d675dbd410c1f9ec6a846d0b8853360743bcbcd76a8737212320a8cf475e75.jpg)  
+图3Gln 对黄颡鱼幼鱼不同组织GSTmRNA相对表达量的影响
+
+Fig.3Effects of Gln on GST mRNA relative expression level in different tissues of juvenile yellow catfish
+
+2.5Gln对黄颡鱼幼鱼Hepc mRNA相对表达量的影响
+
+图4 显示，饲料中添加GIn 后肝脏中Hepc mRNA相对表达量受影响最明显，在添加量为 $0 . 1 0 \%$ 时较对照组升高达73倍之多（ $. P { < } 0 . 0 5 )$ ，而添加量增加到 $0 . 2 0 \%$ 和 $0 . 4 0 \%$ 时虽然较对照组有所增加，但差异不显著（ $_ { . } P { < } 0 . 0 5 )$ 。与对照组相比，肌肉中Hepc mRNA 相对表达量只有 $0 . 2 0 \%$ 组出现了2倍的升高（ $( P { < } 0 . 0 5 )$ ，另外2个组都略有下降（ $. P { > } 0 . 0 5 \$ )。饲料中添加Gln后肠道中HepcmRNA相对表达量出现了显著下降（ $. P { < } 0 . 0 5 )$ ）
+
+![](images/ece7849cf8feb274976c09196f7cebea94ae6de9a6914a649580edcedc5eea9e.jpg)
+
+Fig.4Efects of Gln on Hepc mRNA relative expression level in different tissues of juvenile yellow
+
+2.6Gln 对黄颡鱼幼鱼 $H s c 7 0 \mathrm { m R N A }$ 相对表达量的影响
+
+图5所示，肌肉中 $H s c 7 0 \mathrm { m R N A }$ 相对表达量随饲料中Gln 添加量的增加而升高，其中$0 . 2 0 \%$ 和 $0 . 4 0 \%$ 组较对照组显著升高（ $( P { < } 0 . 0 5 \$ )。与对照组相比，肝脏中 $H s c 7 0 \mathrm { m R N A }$ 相对表达量在 $0 . 2 0 \%$ 组升高显著（ $\cdot P { < } 0 . 0 5 \$ ，达到3倍之多；而 $0 . 1 0 \%$ 和 $0 . 4 0 \%$ 组未产生显著变化L $. P { > } 0 . 0 5 )$ 。与对照组相比，肠道中 $H s c 7 0 \mathrm { m R N A }$ 相对表达量在 $0 . 2 0 \%$ 组略有升高，在 $0 . 1 0 \%$ 和 $0 . 4 0 \%$ 组则略有降低，但差异均不显著（ $_ { . P > 0 . 0 5 ) }$ 。
+
+![](images/c347ce696c9f9846e6142dd1b63b0cb7c836e8f221b0c9f362371f80359e4e36.jpg)  
+图4Gln 对黄颡鱼幼鱼不同组织Hepc mRNA相对表达量的影响  
+$\approx 0 . 0 0 \%$ □0. $1 0 \%$ $\Xi 0 . 2 0 \%$ □0.40%   
+图5Gln对黄颡鱼幼鱼不同组织Hsc70mRNA相对表达量的影响  
+Fig.5Effects of Gln on Hsc70 mRNA relative expression level in different tissues of juvenile yellow
+
+3讨论
+
+肠黏膜和其他迅速增生的细胞（如免疫细胞）的主要能量来源是Gln，而非葡萄糖[9]。肠道是Gln 最主要的消耗器官[10]。同时，肠道将体内环境和外源性物质隔离开来，肠黏膜作为第1道防线，与机体的非特异性免疫有着密切关系。饲料组添加适量的Gln 可维持肠黏膜形态结构的完整性，能防止肠腔内的有害物质如细菌和毒素穿过肠黏膜进入体内其他组织器官和血液循环[11-12]。乔云芳[13]研究发现，饲料中添加 $0 . 5 \% \mathrm { G l n }$ 可显著提高肉仔鸡的绒毛高度。林燕[14]研究发现，饲料中添加 $1 . 2 \% \mathrm { G l n }$ 后建鲤（Cyprinus carpio var.Jian）肠道的皱褶深度显著提高。邹晓庭[15]研究发现，饲料中添加 $0 . 5 \% \mathrm { G l n }$ 可降低断奶仔猪的肌层厚度。本试验中，饲料中适量添加Gln 提高了黄颡鱼幼鱼的增重率、特定生长率和存活率，说明
+
+Gln 对其健康生长是有积极作用的。尽管Gln 对增重率、特定生长率的影响不显著，但考虑到Gln在增强免疫功能方面发挥主要作用，可能对生长速度的影响不是其主要作用。本研究发现，饲料中添加 $0 . 2 0 \% \mathrm { G } \mathrm { l n }$ 提高了黄颡鱼幼鱼肠道的绒毛高度、皱褶深度，且降低了肌层厚度。因此，该Gln 添加量能有效防止黄颡鱼幼鱼的肠道黏膜萎缩，维持肠道的结构和功能，不同程度的提高机体非特异性免疫能力。
+
+Hepc 和Hsc70 与机体的非特异性免疫作用有着密切关系。Hepc 对革兰氏阳性菌、革兰氏阴性菌、霉菌、螺旋体和病毒等病原微生物均具有很强的杀伤活性[16-17]，是鱼体非特异性免疫系统的重要组成成分[18]。沈文英等[19]发现，正常状态下，Hepc mRNA 相对表达量在肝脏中最高；用嗜水单胞菌（Aeromonas hydrophila）和腊样芽孢杆菌（Bacillus cereus）感染黄颡鱼后,Hepc mRNA 相对表达量在肝脏中变化最显著。Hsc70 是热休克蛋白家族的成员，近来有研究表明，病原感染细胞后，细胞表面的Hsc70可以呈递抗原，增强细胞的内摄作用[20]。贾爱荣[21]发现，正常状态下，Hsc70 mRNA 相对表达量在肝脏中最高，用哈维氏弧菌（Vibrio harveyi）感染大菱鲆（Scophthalmus maximus）后，Hsc70 mRNA相对表达量在肝脏中变化最显著。本试验结果显示，在饲料中添加Gln 能提高机体的非特异性免疫能力，而且在 $0 . 1 0 \% { \sim } 0 . 2 0 \%$ 添加范围内，Hepc 和Hsc70 mRNA相对表达量在肝脏中变化最明显。MT 和GST主要与机体的非特异性免疫作用中的抗氧化机制有关。MT富含还原态巯基且具有亲核性，其中的金属具有动力学不稳定性，这使得MT对自由基有较强的清除作用[22],对金属[23]、化学物质[24]及辐射[25]导致的氧化损伤可起到一定的保护作用，同时还对巨噬细胞有保护和增强作用[26]。GST 是生物机体内重要的氧化还原代谢酶之一[27]，同时具有解毒的功能[28]，可提高机体的防御能力。本试验结果显示，在饲料中添加Gln 在提高机体抗氧化能力的同时也提高了机体的非特异性免疫能力，且在 $0 . 1 0 \% { \sim } 0 . 2 0 \%$ 添加范围内，MTmRNA相对表达量在肌肉中变化最明显， $G S T \mathrm { m R N A }$ 相对表达量在肠道中变化最明显。
+
+4结论
+
+在基础饲料中添加一定量的Gln 能增强黄颡鱼幼鱼的非特异性免疫和抗氧化能力，从而促进其健康生长。
+
+参考文献：
+
+[1]朱青,徐奇友,王长安,等.丙氨酰-谷氨酰胺对德国镜鲤幼鱼(CyprinuscarpioL.)血清生化指 标及体组成的影响[J].水产学杂志,2009,22(4):12-15.
+
+[2]任国谱,谷文英.谷氨酰胺活性肽营养液对大鼠小肠营养作用的研究[J].氨基酸和生物资源,2003,25(4):40-42.
+
+[3]WU G,MEIER S A,KNABED A.Dietary glutamine supplementation prevents jejunal atrophy inweaned pigs[J].Journal of Nutrition,1996,126(10):2578-2584  
+[4]赵玉蓉.仔猪抗菌肽基因的发育表达和谷氨酰胺对其表达及肠道保护作用的研究[J].博士学位论文.长沙：湖南农业大学,2007.  
+[5]许梓荣,邹晓庭,孙庆宇,等.谷氨酰胺对断奶仔猪肝脏 SOD、 $G S H  – P x$ 基因表达的影响[J].中国兽医学报,2008,28(4):461-464.  
+[6]文远红,曹俊明,黄燕华,等.蝇蛆粉替代鱼粉对黄颡鱼幼鱼生长性能、体组成和血浆生化指标的影响[J].动物营养学报,2013,25(1):171-181.  
+[7]李源,温安祥,骆美琳．谷氨酰胺促泥鳅生长机理的初步研究[J].饲料工业,2014,35(2):37-43.  
+[8]AOAC.OfficialmethodsofanalysisofOfficialAnalytical Chemists[S].16thed.Arlington,VA:Association of Official Analytical Chemists,1995.  
+[9]徐奇友,王常安,许红,等.外源性谷氨酰胺对虹鳟稚鱼生长和肠道形态的影响[J].中国粮油学报,2009,24(4):98-102.  
+[10]YOUNG V R,AJAMI A M.Glutamine:the emperor or his clothes?[J].The Journal ofNutrition,2001,131(Suppl.9):2449S-24459S.  
+[11]喻文立.谷氨酰胺的肠屏障保护功能研究进展[J].中国医药,2007,2(5):316-318.  
+[12]沈通一,秦环龙.谷氨酰胺对肠屏障功能保护作用的研究进展[J].肠外与肠内营养,2003,10(3):177-180.  
+[13]乔云芳.谷氨酰胺对肉仔鸡生长性能和肉质的影响及其机理研究[D].硕士学位论文.杭州:浙江大学,2006.  
+[14]林燕.谷氨酰胺对幼建鲤肠道功能和免疫力的影响[D].硕士学位论文.雅安:四川农业大学,2005.  
+[15]邹晓庭.谷氨酰胺对断奶仔猪生长、免疫的影响及其机理研究[D].博士学位论文.杭州:浙江大学动物科学学院,2007.  
+[16]姜兰,白俊杰,邓国成,等.重组抗菌肽的制备及其对水产养殖中常见病原菌的抑菌效果[J].中国水产科学,2002,9(2):152-156.  
+[17]周庆军,邵健忠,项黎新,等.鱼类抗菌肽的研究进展[J].生物化学与生物物理进展,2002,29(5):682-685.  
+[18]丁云超.鱼类卵黄高磷蛋白衍生抗菌肽的免疫调节功能的研究[D].博士学位论文.青岛:中国海洋大学,2012.  
+[19]沈文英,李卫芬,雷凯,等.黄颡鱼抗菌肽Hepcidin基因的克隆和表达分析[J].农业生物技术学报,2009,17(6):972-978.  
+[20]WATANABE K,TACHIBANA M,TANAKA S,et al.Heat shock cognate protein 70 contributesto Brucella invasion into trophoblast giant cells that cause infectious abortion[J].BMCMicrobiology,2008,8:212.  
+[21]贾爱荣.大菱鲆4种免疫相关基因的克隆、表达分析及溶藻弧菌溶血素的研究[D].博士学位论文.青岛:中国海洋大学,2010.  
+[22]唐秀丽,秦春晶,孙瑞成,等.金属硫蛋白抗氧化作用研究进展[J].山东化工,2015,44(11):42-48.  
+[23]金慧英,李法卿,李素芹,等.金属硫蛋白对急性镉中毒后抗氧化酶的保护作用[J].中国病理生理杂志,1999,15(7):631-632.  
+[24]王以美,连勇,夏静,等.金属硫蛋白对异烟肼、利福平联用致小鼠肝脏毒性的保护作用[J].中国药理学与毒理学杂志,2013,27(3):486-487.
+
+[25]赵红光,王志成,杜翔,等.含 MT 蛋奶粉对小鼠辐射损伤的保护作用[J].吉林大学学报:医学版,2005,31(4):543-546.
+
+[26]SUGIURA T,KURODA E,YAMASHITA U.Dysfunction of macrophages in metallothionein-knock out mice[J].Journal of UOEH,2004,26(2):193-205.
+
+[27]吴伟,陈家长,冷春梅,等.溴氰菊酯对罗非鱼谷胱甘肽及 S 转移酶的影响[J].中国环境科学,2006,26(4):474-477.
+
+[28]BOOTH J,BOYLAND E,SIMS P.An enzyme from rat liver catalysing conjugations with glutathione[J].Biochemical Journal,1961,79(3):516-524
+
+Effects of Glutamine on Growth Performance, Intestinal Morphology and Non-Specific Immune Related Gene Expression of Juvenile Yellow Catfish（Pelteobagrus fulvidraco) YE ShazhoulZHANG JielCHEN Haimin1\*ZHOU Qicun²ZHU Fangzhou3   
+(1. Key Laboratory of Marine Bioengineering of Zhejiang Province, School of Marine Sciences,   
+Ningbo University, Ningbo 315211, China; 2.Laboratory ofFish Nutrition, School of Marine   
+Sciences,Ningbo University, Ningbo 315211, China; 3. Zhengzhou Xinwei Nutrition Technology Company, Zhengzhou 450100, China)
+
+Abstract: The effects of glutamine (Gln) on growth performance, intestinal morphology and non-specific immune related gene expression of juvenile yellow catfish (Pelteobagrus fulvidraco） were evaluated in this study. Two hundred and forty juvenile yellow catfish with the initial body weight of $( 2 . 4 9 \pm 0 . 0 4 )$ g were randomly divided into four groups with three replicates,and there were twenty fish in each replicate.Four experimental diets were formulated to contain O (control), $0 . 1 0 \%$ ， $0 . 2 0 \%$ and $0 . 4 0 \%$ Gln,which were randomly fed one of four groups for 7O days. The results showed that the growth performance indices were not significantly afected by Gln supplementation( $_ { . P > 0 . 0 5 }$ ）.Diets supplemented with Gln could improve the intestinal villus development, and increase the villus height and folds depth, but decrease the muscle thickness. Compared with control group,the intestinal villus height and folds depth in $0 . 2 0 \%$ and $0 . 4 0 \%$ （204号 groups were significantly increased $( P { < } 0 . 0 5 )$ ，and the muscle thickness was significantly decreased $( P { < } 0 . 0 5 )$ . For the Gln supplemental level at $0 . 1 0 \%$ to $0 . 2 0 \%$ ， the mRNA relative expression level of metallothionein $( M T )$ in muscle had the most obvious change,and that in supplementation groups was significantly higher than that in control group $( P { < } 0 . 0 5 )$ ; the mRNA relative expression level of glutathione-S-transferase (GST) in intestine got the most obvious change, and that in $0 . 2 0 \%$ group was significantly higher than that in control group $( P { < } 0 . 0 5 )$ ; the mRNA relative expression levels of heppatic bactericidal protein (Hepc) and heat shock cognate protein 70 (Hsc70) both in liver got the most obvious changes,the mRNA relative expresson level of Hepc in $0 . 1 0 \%$ group was over 73 times than that of control group $( P { < } 0 . 0 5 )$ , and the mRNA relative expression level of $H s c 7 0$ in $0 . 2 0 \%$ group was over 3 times than that of control group $( P { < } 0 . 0 5 )$ . In summary, these results suggest that Gln can improve the non-specific immune and antioxidant ability of juvenile yellow catfish at certain supplemental level.
+
+Key words: yellow catfish (Pelteobagrus fulvidraco); glutamine; non-specific immune; intestine morphology

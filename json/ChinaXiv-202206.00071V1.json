@@ -1,0 +1,875 @@
+[
+    {
+        "type": "text",
+        "text": "基于Im2col的并行深度卷积神经网络优化算法\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "胡健1²，龚克¹，毛伊敏1，陈志刚³，陈亮²(1.江西理工大学 信息工程学院，江西 赣州 341000;2.赣南科技学院 电子信息工程学院，江西 赣州 341000;3．中南大学 计算机学院，长沙 410083)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对大数据环境下并行深度卷积神经网络(DCNN)算法中存在数据冗余特征多、卷积层运算速度慢、损失函数收敛性差等问题，提出了一种基于 Im2col 方法的并行深度卷积神经网络优化算法 IA-PDCNNOA。首先，提出基于 Marr-Hildreth 算子的并行特征提取策略 MHO-PFES，提取数据中的目标特征作为卷积神经网络的输入，有效避免数据冗余特征多的问题；其次，设计基于Im2col方法的并行模型训练策略IM-PMTS，通过设计马氏距离中心值去除冗余卷积核，并结合MapReduce和Im2col方法并行训练模型，提高了卷积层运算速度；最后，提出改进的小批量梯度下降策略 IM-BGDS，排除异常节点的训练数据对批梯度的影响，解决了损失函数收敛性差的问题。实验结果表明，IA-PDCNNOA 算法在大数据环境下进行深度卷积神经网络计算具有较好的性能表现，适用于大规模数据集的并行化深度卷积神经网络模型训练。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：大数据；DCNN算法；并行计算；特征提取；图像分类中图分类号：TP311 doi:10.19734/j.issn.1001-3695.2022.03.0114",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Parallel deep convolution neural network optimization based on Im2col ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hu Jian1, 2, Gong $\\mathsf { K e } ^ { 1 }$ ,Mao Yimin1†, Chen Zhigang³, Chen Liang² (1.Schoolof Information Engineering,Jiangxi Universityof Science&Technology，Ganzhou Jiangxi 3410oo,China; 2.Electronic Information Enginering，Gannan Universityof Science& Technology，Ganzhou Jiangxi 341ooo,China; 3.College of Computer Science & Engineering, Central South University, Changsha 410o83, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:In the large data environment,thereare many problems in the parallel deepconvolution neural network (DCNN) algorithm,suchas excesivedataredundancy,slowconvolutionlayeroperationand poorconvergenceoflossfunction.This paper proposed aparalel dep convolution neural network optimization algorithm basedon the Im2col method.First,the algorithmproposedaparallel feature extraction strategybasedon Mar-Hildrethoperator toextract target features fromdata as inputofconvolutionneural network,whichcan efectivelyavoid the problemofexcessivedataredundancy.Secondly,the algorithmdesigned a paralelmodel training strategy basedon the Im2col method.Theredundant convolution kernel is removed bydesigning the Mahalanobis distancecentervalue,and theconvolution layeroperation speed is improved by combining the MapReduceand Im2col methods.Finall,the algorithmproposed an improved smallbatch gradient descent strategy,which eliminates the efectofabnormal dataon thebatch gradientand solves the problemofpoorconvergenceof the lossfunction.The experimental results show that IA-PDCNNOA algorithm performs wellindeep convolution neural network calculation under large data environment and is suitable for parallel DCNN model training oflarge datasets. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: big data; DCNN algorithm; parallel computing; feature extraction; image classification ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DCNN[I作为深度学习领域中一类重要的分类算法，具有强大的表征能力、泛化能力和拟合能力，效果稳定且无须对数据做额外的特征工程，常被运用于图像分类[2]、语音识别[]、对象检测[4]、语义分割[5]、人脸识别[]、自动驾驶[7]等领域，受到人们的广泛关注和深入研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着移动互联网的发展以及数据存储介质容量的突破，产生了海量的、多模态的、高价值的数据[8]，众多科研者和公司尝试从中提取高价值的信息，但海量的数据使得DCNN模型的训练将面临大量时间消耗，数据与模态变化又将导致模型参数需要反复训练等困难。因此，如何降低大数据环境下DCNN模型训练的代价成为了一个亟待解决的问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Google公司开发的MapReduce 并行计算模型以其易于编程、高容错性、均衡负载和扩展性强等优点深受广大学者和企业的青睐，许多基于MapReduce 计算模型的DCNN 算法也得到了广泛的研究[9\\~12]。文献[13]提出基于 MapReduce的并行化DCNN算法，该算法采用分而治之的思想，通过MapReduce的Split方法对数据进行划分，构建多个计算节点同时训练DCNN网络模型，选取准确率最高的网络模型作为算法的输出，实现了DCNN并行化训练过程。基于此文献[14]提出并行深度卷积神经网络算法FCNN(Fully CNNforprocessingCTscanimage)，算法将全视图转变为稀疏视图，并通过高斯滤波器，对特征边缘进行平滑处理，增强重要的纹理特征信息。虽然算法在将全视图转变为稀疏视图的过程会加快读取速度，但由于稀疏视图的特征结构变化，导致其难以对特征进行筛选，使得模型在训练的过程中会存在数据冗余特征多的问题。文献[15]基于 $\\mathrm { I m } 2 \\mathrm { c o l }$ 方法，提出单跨步优化 CNN 算法 SSOCNN（An optimization of im2col,animportant method of CNNs based on continuous address access)该算法设计基于连续内存地址读取的单跨步情况下的im2col算法加速方法，通过改变数据读取顺序，加速图像映射成矩阵的进程，并利用通用矩阵乘法对列向量和卷积核进行矩阵相乘运算，实现了对卷积层运算的加速，其本质是一种模型并行方法。但在构建并行卷积运算的过程中，算法难以筛除分散在各个节点的冗余卷积核，导致在大数据环境下，无法解决卷积层运算速度慢的问题。文献[16]通过将DCNN与萤火虫算法相结合，提出 MR-FPDCNN 算法(Deepconvolutional neural network algorithm based on feature graphand parallel computing entropyusing MapReduce)，该算法将信息共享搜索策略与萤火虫算法相结合来寻找网络模型最优参数，并通过MapReduce 通信机制共享DCNN网络参数，加快了损失函数的收敛速度，其本质是一种数据并行方法。但该算法没有针对异常节点的训练数据进行甄别处理，使得算法在反向传播过程中的损失函数收敛震荡，导致损失函数收敛性差。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上，尽管上述算法取得一定的成效，但对于数据冗余特征多、卷积层运算速度慢、损失函数收敛性差等问题仍然是目前亟待解决的。针对以上问题，本文在MapReduce 并行计算框架的基础上，提出一种基于Im2co1算法的并行深度卷积神经网络优化算法IA-PDCNNOA，算法在三个方面对并行深度卷积神经网络进行优化：a)在特征并行提取阶段，对于数据的预处理，现有算法大都是去除噪声与缺失值，进行数据标准化与正则化，但在大数据环境下，常规的数据预处理操作不仅难以提升模型精度，而且不能降低大数据所带来的计算资源消耗。IA-PDCNNOA算法改进了Marr-Hildreth算子提出MHO-PFES策略，通过提取图像数据的全部边缘特征，评估同类型数据的特征相似度，并删除低相似度的特征来解决数据冗余特征多的问题，不仅去除无关特征对模型训练的精度影响，而且降低了计算资源的开销。b)在模型并行训练阶段，对于模型的卷积运算，算法提出基于数据并行的IM-PMTS 策略，设计了马氏距离中心值MDCV来去除当前卷积层中的冗余卷积核，并结合Im2col算法，将卷积运算的过程转换为矩阵运算，进而使得这一过程能够与MapReduce结合，进行并行化运算来提升卷积层的运算速度。c)在参数并行更新阶段，对于反向传播过程，大多并行算法采用随机梯度下降法或批梯度下降法进行参数的更新，然而，他们没有考虑到计算节点由于程序中断、内存溢出等因素而导致训练数据异常，这些异常数据会使得反向传播过程中的损失函数收敛震荡，进而导致损失函数收敛性差。IA-PDCNNOA算法基于模型并行提出IM-BGDS策略，通过评估每个节点的梯度与批梯度间的距离，来去除批梯度中的异常值，实现批梯度的自适应调整，解决了损失函数收敛性差的问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本文主要贡献包括：a)提出MHO-PFES 策略：提取数据中的目标特征作为卷积神经网络的输入，解决了数据冗余特征多的问题；b)提出 IM-PMTS 策略，通过设计马氏距离中心值MDcV 来去除冗余卷积核，并结合MapReduce和 $\\mathrm { I m } 2 \\mathrm { c o l }$ 方法并行训练模型，提高了卷积层运算速度；c)提出IM-BGDS策略，排除异常节点的训练数据对批梯度的影响，解决了损失函数收敛性差的问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关概念介绍 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义1非局部均值算法[17]。非局部均值算法是一种基于邻域像素的滤波方法，可以结合图像中的全局信息进行数",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "据降噪。假设”表示数据样本， $x , y \\in g$ ， $x$ 表示搜索窗口，y表示邻域窗口，则降噪后灰度值 $\\tilde { u } ( \\boldsymbol { x } )$ 为可以表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { u } ( x ) = \\sum _ { y \\in G } \\phi ( x , y ) ^ { * } \\theta ( y )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\phi ( x , y )$ 为 $x$ 与 $y$ 区域间的相似度， $\\theta ( y )$ 为含噪声图像。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义2余弦相似度[18]．余弦相似度是度量个体之间的相似性指标。可以将个体的指标数据映射到向量空间，并测量两个个体向量之间的内积空间夹角余弦值，从而比较个体相似度。假设 $X , Y$ 表示对比个体， $\\stackrel {  \\  } { x } , \\stackrel {  } { y }$ 表示个体 $X , Y$ 的一维形式，则余弦相似度 $S i m ( X , Y )$ 可以表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS i m ( X , Y ) = c o s \\theta = { \\frac { x \\cdot y } { \\| { \\vec { x } } \\| + \\| { \\vec { y } } \\| } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中，为个体的模。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义3 Image to column,Im2col[19]。Im2col 是一种将卷积计算变换成矩阵乘法计算的变换函数。可以将输入值的3DMatrix转换为2DMatrix，并将卷积核转换为1DMatrix,从而实现将卷积计算转换成矩阵相乘计算。假设 $x$ 表示输入特征图， $w$ 表示卷积核，i表示像素点横纵坐标，则卷积结果 $a _ { i , j }$ 可以表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\na _ { i , j } = \\sum _ { h = 0 } ^ { k H - 1 } \\sum _ { w = 0 } ^ { k W - 1 } w _ { h , w } x _ { i + h , j + w }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $k H , k W$ 为款集合的宽和高。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义4马氏距离[20]。马氏距离是度量学习中一种常用的距离指标。它是一种有效的计算两个未知样本集的相似度的方法。假设 $s$ 表示多维随机变量的协方差矩阵， $\\boldsymbol { \\mu }$ 表示样本均值， $x$ 表示当前数据点。则马氏距离 $D _ { \\boldsymbol { y } } \\left( \\boldsymbol { x } \\right)$ 可以表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { \\varkappa } \\left( \\boldsymbol { x } \\right) = \\sqrt { \\left( x - \\mu \\right) ^ { \\gamma } S ^ { - \\dagger } \\left( x - \\mu \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 IA-PDCNNOA 算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "IA-PDCNNOA算法主要包括三个阶段：特征并行提取，模型并行训练，参数并行更新。a)特征并行提取阶段：提出MHO-PFES策略，首先通过改进Marr-Hildreth 算子提取原始数据集的数据特征，然后筛选数据的目标特征作为卷积神经网络的输入，从而解决了数据冗余特征多的问题；b)模型并行训练阶段：提出IM-PMTS策略，首先设计马氏距离中心值MDcV对同层卷积核剪枝，然后通过结合MapReduce 和$\\mathrm { I m } 2 \\mathrm { c o l }$ 方法并行训练的方式加速卷积运算的过程，提高了卷积层运算速度；c)参数并行更新阶段：提出IM-BGDS策略，首先设计损失求和梯度LSG(T)构建小批量数据梯度，然后通过误差反向传播算法对参数并行更新，排除异常节点的训练数据对批梯度的影响，解决了损失函数收敛性差的问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1特征并行提取 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前在大数据环境下的并行DCNN算法中，初始图像数据中存在大量冗余特征，这些冗余特征未能经过有效筛选使得在模型训练过程中存在数据冗余特征多的问题。为了解决此问题，提出了基于Marr-Hildreth算子的MHO-PFES策略，该策略主要包含两个步骤：a)特征提取：提出改进的非局部均值滤波器 $F T ( \\vec { a } , \\vec { b } )$ (Filtertransformation)对输入的图像数据进行滤波，并计算滤波数据的拉普拉斯方程 $h ( x , y )$ ，寻找拉普拉斯方程的零交叉来提取图像特征；b)特征筛选：为进一步筛选目标特征，提出特征相关指数FCI(x,y）(Featurecorrelationindices)对比任意两个图像块间的相似度，并设定相关性系数 $\\boldsymbol { \\varepsilon }$ ，通过去除 $F C I ( x , y ) < \\varepsilon$ 的图像块来减少数据中的冗余特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1)特征提取 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了获取到高精度的图像特征，需先对初始数据集进行噪声去除，因此提出基于余弦相似度的非局部均值滤波器$F T ( \\vec { a } , \\vec { b } )$ ，通过图像在不同区域的自相似性来去除数据噪声；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "然后再通过卷积核 $f ( x , y )$ 与图像 $g ( x , y )$ 的拉普拉斯运算，构建并寻找拉普拉斯方程的零交叉来提取数据特征，其具体过程为：首先，在目标图像设置以像素点 $\\textit { a }$ 为中心的邻域窗口矩阵与以像素点 $\\textit { b }$ 为中心的搜索窗口矩阵，使邻域窗口在当前图像中进行滑动，通过对比像素点 ${ \\mathbf { \\Omega } } _ { a , b }$ 所在矩阵的余弦相似度得到邻域窗口的加权值，并根据权重值以及各个点本身的灰度值对数据进行降噪处理，得到降噪后图像 $g ( x , y )$ ；接着，设置大小为 $3 ^ { * } 3$ 的卷积核 $f ( x , y )$ ，对 $g ( x , y )$ 进行拉普拉斯运算，得到拉普拉斯方程 $h ( x , y ) = \\nabla ^ { 2 } \\left( f ( x , y ) \\cdot F T ( \\vec { a } , \\vec { b } ) \\right)$ ；最后，判断当前节点的拉普拉斯方程的二阶导数是否为交叉零点，且此节点的一阶导数处在较大峰值，若满足条件则将此节点保留，否则将此像素点置零，然后合并当前数据节点得到特征提取后的图像。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定理1基于余弦相似度的非局部均值滤波器 $F T ( \\vec { a } , \\vec { b } )$ ）。已知 $\\vec { a } , \\vec { b }$ 分别表示以像素点 $\\textit { a }$ 为中心的邻域窗口矩阵与以像素点 $\\textit { b }$ 为中心的搜索窗口矩阵。变换函数 $F T ( \\vec { a } , \\vec { b } )$ 的计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF T ( { \\vec { a } } , { \\vec { b } } ) = \\sum _ { b \\in G _ { i } } { \\frac { { \\vec { a } } \\cdot { \\vec { b } } } { \\left\\| { \\vec { a } } \\right\\| + \\left\\| { \\vec { b } } \\right\\| } } \\cdot \\ \\theta ( a )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\theta$ 为含噪声图像， $G _ { i }$ 为当前图像数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "证明非局部均值滤波原理利用了噪声的非相关性特征，设无噪声的像素块的值为 $\\omega ( x , y )$ ，噪声值为 $\\psi ( x , y )$ ，则与噪声融合后的像素块的值为 $\\rho ( x , y ) = \\omega ( x , y ) + \\psi ( x , y )$ ，相似像素块叠加后取均值得到 $\\overline { { \\rho } } ( x , y ) = 1 / k \\cdot \\Sigma _ { i = 1 } ^ { k } \\rho _ { i } ( x , y )$ ，则 $\\overline { { \\rho } } ( x , y )$ 的期望为$E [ \\overline { { \\rho } } ( x , y ) ] { = } 1 \\big / k \\cdot \\sum _ { i = 1 } ^ { k } ( E [ \\omega _ { i } ( x , y ) ] { + } E [ \\psi ( x , y ) ] )$ 。由于像素块的相似性，$E [ \\omega _ { i } ( x , y ) ]$ 可简化为 $\\omega ( x , y )$ ，当噪声为0时， $E [ \\psi ( x , y ) ] = 0$ ，故$E [ \\overline { { \\rho } } ( x , y ) ] = \\omega ( x , y )$ 。此外，由于噪声的非相关性， $\\omega ( x , y )$ 的方差为 $\\begin{array} { r } { \\sigma [ \\overline { { \\rho } } ( x , y ) ] ^ { 2 } = \\sigma [ \\omega ( x , y ) ] ^ { 2 } + 1 \\big / k ^ { 2 } ( \\sum _ { i = 1 } ^ { k } \\sigma _ { \\psi _ { i } } ^ { 2 } ) ^ { 2 } } \\end{array}$ ，由于 $\\omega ( x , y )$ 无噪声，方差为0，故 $\\sigma [ \\overline { { \\rho } } ( x , y ) ] ^ { 2 } = 1 / k \\cdot \\sigma [ \\psi ( x , y ) ] ^ { 2 }$ ，则表明噪声 $\\psi ( x , y )$ 与方差相关，$F T ( a , b )$ 通过减小 $\\psi ( x , y )$ 来降低数据噪声。证毕。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2)特征筛选 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在完成特征提取后，策略将batch中图像切块，并提出特征相关指数 $F C I ( x , y )$ 来计算任意两个图像块之间的特征相似度，然后去除 $F C I ( x , y ) < \\varepsilon$ 的图像块来实现数据中冗余特征的去除，具体过程如下：首先，将相同类别的图像切分至等大小的图像块，并提出特征相关指数 $F C I ( x , y )$ 来计算任意两个图像块之间的相似度，其中 $x , y$ 表示两个互不相同图像块；接着，映射键值对 $< ( x , y ) , F C I ( x , y ) >$ 存储至 HDFS 中，设定并根据相关性系数 $\\varepsilon$ 去除键值对中 $F C I ( x , y ) < \\varepsilon$ 的项，减少图像中的冗余特征;最后，再次遍历键值对，读取HDFS中剩余键值对的key来获取冗余特征筛选后图像块的编号，并将筛选后的图像块作为卷积神经网络的输入，完成数据的特征筛选。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定理2特征相关指数 $F C I ( x , y )$ ．已知 $x$ 和 $y$ 分别表示两条特征向量， $\\mu _ { x } , \\mu _ { y }$ 表示 $x$ 和 $\\mathrm { ~ y ~ }$ 的期望， $\\sigma _ { x } , \\sigma _ { y }$ 表示 $x$ 和 $\\mathrm { ~ y ~ }$ 的方差。特征相关指数 $F C I ( x , y )$ 的计算公式为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF C I ( x , y ) = \\frac { 2 \\sigma _ { x } \\cdot \\sigma _ { y } } { \\sigma _ { x } ^ { 2 } + \\sigma _ { y } ^ { 2 } + ( \\mu _ { x } - \\mu _ { y } ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "证明 $F C I ( x , y )$ 是衡量 $x$ 和 $y$ 之间的特征相似度的指标,设 $\\mu _ { x } , \\mu _ { y }$ 表示 $x$ 和 $\\mathrm { ~ y ~ }$ 的期望， $\\sigma _ { x } , \\sigma _ { y }$ 为 $x$ 和 $y$ 的方差，当特征向量$x$ 在 $\\sigma _ { { } _ { x } } = 0$ 时，卷积过程在 $x$ 上的操作属于线性叠加，无法对特征进行抽取，此时 $F C I ( x , y ) = 0$ ；当 $\\sigma _ { x } \\neq 0 , \\sigma _ { y } \\neq 0$ 且特征向量 $x$ 和 $\\mathrm { ~ y ~ }$ 的特征相似时， $F C I ( x , y )  1$ 。证毕。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法1征并行提取算法输入：批数据batch，超参数 $\\boldsymbol { \\varepsilon }$ 输出：特征提取后数据 batcha) RunMapRedece（ batch,ε)b) For each $g _ { i }$ inbatch doc） MapReduce.Map $\\textit { ( g _ { i } ) }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d) For each $x _ { j }$ in $g _ { i }$ do   \ne) $x _ { j } = F T ( a , b ) . \\quad ( a , b ) \\notin g _ { i }$   \nf) End For   \ng) End Map   \nh) MapReduce.Reduce ${ \\bf \\Xi } ( { \\bf \\Lambda } _ { g _ { i } } , \\varepsilon { \\bf \\Lambda } )$   \ni) Spilt $g _ { i }$ to block $b _ { i }$ （20   \nj) For each $b _ { i } , b _ { j }$ in $g _ { i }$ （20   \nk) Calculate $F C I ( b _ { , } , b _ { , } )$ （204号   \n1) Save key-value $< ( x , y ) , F C I ( x , y ) >$ （20   \nm） End For   \nn) While ( $< ( x , y ) , F C I ( x , y ) >$ ）   \n0） if( $F C I ( x , y ) < \\varepsilon$ ）   \np) Delete data block where index ${ \\bf \\Phi } = { \\bf \\Phi } \\times { \\bf \\Phi } \\& { { \\bf \\Phi } } = { \\bf \\Phi } \\times \\delta { \\bf a }$ y   \nq) End While   \nr) End Reduce   \ns) End For   \nt) Return batch ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 模型并行训练 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在目前在大数据环境下的DCNN算法中，模型的并行训练需要将特征图与卷积核分散到不同的计算节点进行运算，但在构建并行卷积运算的过程中，算法难以筛除分散在各节点的冗余卷积核，导致在大数据环境下，传统DCNN 算法无法解决卷积层运算速度慢的问题。为了解决此问题，本文提出IM-PMTS策略，该策略主要包含两个步骤：a)卷积核剪枝：设计马氏距离中心值MDcv(Mahalanobisdistancecentervalue)，通过求解MDcV值来寻找与网络模型中卷积核线性相关的向量，并计算此向量到各个卷积核之间的距离dist，通过设定阈值 $\\alpha$ ，裁剪 $d i s t < \\alpha$ 的卷积核来减少网络模型中冗余参数；b)并行 $\\mathrm { I m } 2 \\mathrm { c o l }$ 卷积：利用 $\\mathrm { I m } 2 \\mathrm { c o l }$ 算法将特征图映射成矩阵，将矩阵与对应卷积核存储键值对，分发到各计算节点进行矩阵运算来加快卷积层的运算，得到运算卷积层运算结果，并将结果存入HDFS中。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1)卷积核剪枝 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了减少卷积神经网络中冗余卷积核所产生的无效计算，设计马氏距离中心值 $M D C V$ 筛除当前卷积层中冗余卷积核，进而加速卷积层运算，其具体过程为：首先，各节点计算卷积层所有的卷积核 $X , X , . . . , X _ { . }$ 的协方差矩阵 $s$ 和均值 $\\mathbf { \\nabla } \\mu$ ，构建目标函数MDCV的目标函数 $f ( x )$ ；接着，计算 $f ( x )$ 在其驻点 $x _ { \\ast }$ 处的二阶泰勒展开 $f ( x ) = x _ { k } + \\nabla f ( x _ { k } ) ( x - x _ { k } ) +$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\scriptstyle { \\frac { 1 } { 2 } } ( x - x _ { k } ) ^ { T } \\nabla ^ { 2 } f ( x _ { k } ) ( x - x _ { k } )$ ，若当前二阶导数非奇异，则下一个迭代点为 $x _ { k + 1 } = x _ { k } + \\nabla ^ { 2 } f ( x _ { k } ) ^ { - 1 } \\nabla f ( x _ { k } )$ ，若当前二阶导数奇异，先求解 $\\nabla ^ { 2 } f ( x _ { \\ast } ) d = - \\nabla f ( x _ { \\ast } )$ 确定搜索方向 $\\mid d _ { \\nu } ^ { \\phantom { \\dagger } } \\mid$ ，在确定下一个迭代点$x _ { _ { k + 1 } } = x _ { _ { k } } + d _ { _ { k } }$ ，直至找到最优MDCV值；最后，计算卷积层中所有卷积核到MDCV 值的距离 $\\ d i s t$ ，并设定阈值 $\\alpha$ ，裁剪 $d i s t < \\alpha$ 的卷积核完成卷积核剪枝过程。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定理3马氏距离中心值 $M D C V$ ．已知 $X , X _ { \\cdot } , . . . , X _ { \\cdot } .$ 表示网络模型中的卷积核， $s$ 表示所有卷积核的协方差矩阵， $\\boldsymbol { \\mu }$ 表示所有卷积核的均值。马氏距离中心值MDCV 的计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM D C V = x ^ { * } = m i n { \\sum _ { x = R ^ { * } } } \\sqrt { ( x - \\mu ) ^ { \\top } S ^ { - 1 } ( x - \\mu ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "证明MDCV 是特征向量 $x ^ { * }$ 到特征向量组 $X , X , , . . . , X .$ 的最小距离，设 $s$ 为向量组 $X , X _ { . } , . . . , X _ { . }$ 的协方差矩阵， $\\boldsymbol { \\mu }$ 为向量组的均值，其中引入协方差矩阵 $s$ 来排除变量之间的相关性的干扰，当特征向量 $x  M D C V$ 值时，特征向量 $x$ 就越容易被特征向量组替代，当 $\\pmb { x } = M D C V$ ， $x$ 与 $X , X , , . . . , X .$ 线性相关，故MDCV 值为表示特征向量 $x ^ { * }$ 到特征向量组 $X , X , { \\mathrm { , } } { \\mathrm { , } } { \\mathrm { , } } { \\mathrm { , } } X .$ 的最小距离。证毕。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2)并行 $\\mathrm { I m } 2 \\mathrm { c o l }$ 卷积 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在完成卷积核剪枝后，便可结合MapReduce 计算框架实现 $\\mathrm { I m } 2 \\mathrm { c o l }$ 卷积的并行运算，其具体过程为：首先，通过$\\mathrm { I m } 2 \\mathrm { c o l }$ 方法把输入特征图 ${ M } _ { _ i }$ 映射为卷积计算矩阵 $I _ { { _ i } }$ ，并将每张映射矩阵 $I _ { { _ i } }$ 与对应的卷积核存储键值对 $< I _ { { \\mathrm { { } } _ { i } } } , K _ { { \\mathrm { { } } _ { i } } } >$ ；接着，调用MapO函数，将键值对中的矩阵 $I _ { \\mathrm { { } _ { i } } }$ 与对应卷积核的一维向量做矩阵相乘运算，得到卷积中间结果；最后，调用ReduceO函数合并同一条数据的特征图，获得最终输出特征图 $N M _ { _ i }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法2模型并行训练算法   \n输入：卷积核 $\\kappa$ ，输入特征图 $M$ ，超参 $\\alpha$ 。 输出：输出特征图NM。   \na）RunMapRedece $\\left( \\begin{array} { l } { K , M , \\alpha } \\end{array} \\right)$   \nb) For each $k _ { z }$ in $\\kappa$ do   \nc） MapReduce.Map $( \\mathrm { \\Delta } k _ { z } , \\alpha \\mathrm { \\Delta } )$   \nd) Calculate MDCV   \ne) While( $\\mathrm { ~ : ~ } | k _ { z } - M D C V | \\leq \\alpha \\mathrm { ~ : ~ }$ 0   \nf) Delete $k _ { z }$ （204   \ng） End while   \nh) End Map   \ni) MapReduce.Reduce $\\left( \\begin{array} { l } { k _ { z } , M } \\end{array} \\right)$   \nj) $\\mathbf { \\nabla } _ { I _ { i } } = \\mathbf { \\nabla } _ { }$ Im2col（k,M）   \nk) Save key-value $< I _ { i } , K _ { \\ast } >$   \n1) $\\begin{array} { r l r } { N M } & { { } = } & { I _ { \\ast } \\times K _ { \\ast } } \\end{array}$   \nm) End Reduce   \nn） End For   \n0） Return NM ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3参数并行更新 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目前大数据下的并行DCNN算法中，分布式集群中各节点首先进行正向传播获得各卷积层结果，并将结果统一传递至Master节点进行聚合，再通过反向传播，采用随机梯度下降法或批梯度下降法进行参数的更新。然而，在实现梯度下降的过程中，异常节点的训练数据会使得反向传播过程中的损失函数收敛震荡，进而导致损失函数收敛性差。为解决此问题，提出IM-BGDS策略，该策略主要包含两个步骤：a)梯度构建。提出损失均值权重 LAW(g）(Loss AverageWeight)来排除异常节点的训练数据对批梯度的影响，并设计损失求和梯度 LsG(T）(Loss Sum Gradient)来构建批数据平均梯度，解决了损失函数收敛性差的问题。b)参数并行更新。在得到批数据的平均梯度后，结合MapReduce计算框架和反向传播的误差传导公式来并行化地计算误差，实现参数的并行更新。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1)梯度构建 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了排除异常节点的训练数据对批梯度的影响，设计损失均值权重 $L A W ( g _ { \\prime } )$ 和损失求和梯度 $L S G ( T )$ 来解决损失函数收敛性差的问题，其具体过程为：首先，根据损失函数公式计算批数据损失函数的均值，并计算批数据的损失函数与此均值的差，得到损失均值权重 $L A W ( g _ { i } )$ ，将结果映射为键值对$< g _ { i } ^ { } , L A W ( g _ { i } ^ { } ) >$ 存入HDFS 中；接着，计算批数据中每条数据g的损失函数的对当前参数 $\\delta _ { z }$ 的偏导 $\\nabla J _ { \\delta i }$ ，同样将结果映射为键值对 $< g _ { i } , \\nabla J _ { \\delta i } >$ 存入HDFS 中；最后，以 $g _ { i }$ 为索引遍历键值对 $< g _ { i } ^ { } , L A W ( g _ { i } ^ { } ) >$ 和 $< g _ { i } , \\nabla J _ { \\delta i } >$ ，构造批数据平均梯度 $L S G ( T )$ ，获得当前参数的批梯度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定理4损失均值权重 $\\ L A W ( g _ { _ i } )$ 。已知 $g _ { i }$ 表示批数据中的一条数据， $J ( \\omega , b ) _ { i }$ 表示数据 $g _ { i }$ 损失函数值，batch_size 表示批数据大小， $L A D ( g _ { i } )$ 为数据 $g _ { i }$ 的损失函数值与损失函数值均值之差的绝对值。损失均值权重 ${ \\ L A W } ( g _ { \\cdot } )$ 的计算公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL A W ( g _ { \\cdot } ) = \\left\\{ \\begin{array} { l l } { 1 \\qquad } & { L A D ( g _ { \\cdot } ) < \\tau } \\\\ { 0 \\qquad } & { L A D ( g _ { \\cdot } ) \\geq \\tau } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中:",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL A D ( g _ { i } ) = \\left| \\frac { \\displaystyle \\sum _ { i = 1 } ^ { \\mathrm { b o t } \\varepsilon , i \\varepsilon e } J ( \\omega , b ) } { b a t c h _ { - } s i z e } - J ( \\omega , b ) \\right|\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "证明 $L A W ( g _ { \\iota } )$ 是数据 $g _ { i }$ 的损失函数值的权重指标，设batch_size为批数据大小， $\\{ \\tau \\}$ 为衡量 $\\boldsymbol { L A D } ( g _ { i } )$ 的阈值，当 $L A D ( g _ { \\cdot } ) < \\tau$ 时，则当前数据 $g _ { i }$ 的损失函数值属于常规值，故令 $L A W ( g _ { _ i } ) = 1$ 将其保留；当 $L A D ( g _ { . } ) \\geq \\tau$ 时，则当前数据 $g _ { i }$ 的损失函数值属于异常值，故令 $L A W ( g _ { \\prime } ) = 0$ 。证毕。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定理5损失求和梯度 $L S G ( T )$ 。已知 $\\textit { T }$ 表示批中所有数据，$\\nabla J _ { _ { x i } }$ 表示数据 $g _ { i }$ 的损失函数对于参数 $x$ 的梯度， $b a t c h \\_ s i z e$ 表示批数据大小。损失求和梯度 $L S G ( T )$ 的计算公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL S G ( T ) = \\frac { \\sum _ { i = 1 } ^ { b a t c h \\_ s i z e } \\nabla J _ { x i } \\times L A W ( g \\_ ) } { b a t c h \\_ s i z e }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "证明 $L S G ( T )$ 是批数据 batch 的平均梯度，设 $\\nabla J _ { _ { x i } }$ 为数据 $g _ { i }$ 的损失函数对于参数 $x$ 的梯度， $b a t c h \\_ s i z e$ 为批数据大小，当$L I W ( g _ { \\prime } ) = 1$ 时，数据 $g _ { _ i }$ 的梯度 $\\nabla J _ { _ { x j } }$ 朝着最优方向下降；当$L I W ( g _ { i } ) = 0$ 时，数据 $g _ { i }$ 的梯度 $\\nabla J _ { x i }$ 与最优方向偏差较大，不计入LSG(T)梯度之中。证毕。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2)参数并行更新",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在获得批数据平均梯度后，使用误差反向传播算法并行化的对误差项参数进行更新，得到参数并行更新后的网络模型，参数并行更新过程具体为：首先，计算第l-1层卷积核$W _ { k } ^ { l - 1 }$ 所有参数的梯度 $\\begin{array} { r l } { \\sum _ { i = 1 } ^ { k } L S G ( T ) ^ { l - 1 } } & { { } } \\end{array}$ ，并将结果映射为键值对$< W _ { k } ^ { l - 1 } , \\sum _ { i = 1 } ^ { k } L S G ( T ) ^ { l - 1 } >$ 存入HDFS中；接着，计算网络模型中卷积核 $W _ { k } ^ { l - 1 }$ 参数的改变量 $\\Delta W _ { k } ^ { l - 1 }$ ，以此更新第l-1层卷积核的网络参数；最后，通过HDFS将更新后参数同步至所有计算节点，并进行下一步更新，直至网络模型中所有参数更新完成。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法3 参数并行更新算法  \n输入：批数据batch，模型参数 $W$ ,超参t  \n输出： 更新后网络模型参数 $W$   \na）RunMapRedece（batch,W,τ）  \nb) For each $g _ { i }$ inbatch do  \nc) Calculate LsG(T) by using $L A W ( g _ { \\ i } )$ （20  \nd) MapReduce.Map（ $W _ { \\bar { k } } ^ { l - 1 } , L S G ( T ) ^ { - 1 }$ ）  \ne) End For  \nf) For Each $< W _ { \\ast } ^ { \\prime - 1 } , \\sum \\sp \\ast \\ { \\cal L } S G ( T ) \\sp { \\prime - 1 } >$ do  \ng) MapReduce.Reduce( $W _ { \\star } ^ { \\prime - 1 } , L S G ( T ) ^ { \\prime - 1 }$ ）  \nh) Calculate $\\Delta W _ { \\ i } ^ { \\prime }$ by using LSG(T)  \ni) Update $W _ { _ { i } } ^ { \\prime }$ by using △W  \nj) End Reduce  \nk) End For  \n1) Return ∑w",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4IA-PDCNNOA 算法的并行化流程",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "IA-PDCNNOA算法的并行化流程具体实现步骤如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)在特征并行提取阶段，输入原始数据集，启动一次MapReduce任务，按照数据类别划分为若干chunk，依次将chunk 中的数据输入到mapper节点中执行MHO-PFES策略，根据目标特征压缩原始数据集发送至reducer节点，最后将reducer节点中的目标特征保存至HDFS。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b)在模型并行训练阶段，读取HDFS中的数据并随机打乱，划分为若干batch，启动一个新的 MapReduce 任务，依次将 batch 中的数据输入到 mapper节点执行 IM-PMTS 策略，进行卷积、ReLU、池化等操作，得到下一阶段特征图，最终得到输出的预测值存入HDFS 中。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c)在参数并行更新阶段，Master节点上读取上一阶段batch的输出的预测值，执行IM-BGDS策略，根据反向传播公式求全连接层、卷积层参数批梯度，经过多次循环步骤b)c)，求解损失函数最小值，得到最终训练的网络模型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "IA-PDCNNOA算法的并行化流程如图1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5算法时间复杂度分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "IA-PDCNNOA算法的时间复杂度主要由特征并行提取、模型并行训练和参数并行更新三个步骤构成。各部分具体时间复杂度计算如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a)特征并行提取阶段是结合MapReduce计算框架的并行单元运算结构，其时间复杂度主要分为(a)并行架构下的数据特征提取；(b)主节点对数据的特征筛选两个部分，设样本数为 $n$ ，集群节点数为 $k$ ，拉普拉斯最大迭代次数为 $m$ ，算法在数据特征提取阶段利用 $^ { a , b }$ 两个滑动窗口对数据进行遍历，并计算目标窗口 $a$ 的为交叉零点，其时间复杂度为$O ( m \\cdot n \\cdot \\log n / k )$ ；算法在特征筛选阶段计算任意两个数据切片相似度的时间复杂度为 $O ( n ^ { 2 } )$ ，则特征并行提取阶段的时间复杂度为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { 1 } = { \\cal { O } } ( m \\cdot n \\cdot \\log n / k + n ^ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/083625e12b1433544da8d668e7af6cf5cec04513b4b2641559cbf8644a6b39bb.jpg",
+        "img_caption": [
+            "图1IA-PDCNNOA算法并行化流程",
+            "Fig.1Parallelization flowchart ofIA-PDCNNOA algorithm "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b）在模型并行训练阶段，算法提出(a）MDcV 值的求解：(b)卷积并行运算两个部分，设集群节点数为 $k$ ，模型中卷积核数量为 $p$ ，卷积核尺寸为 $s$ ，样本数为 $n$ ，算法在MDCV值求解的过程需要求解卷积核的标准差，并寻找最大线性相关卷积核，其时间复杂度为 $O ( p \\cdot s ^ { 2 } / k )$ ，经过上个阶段的数据处理，算法在卷积并行运算时只需要做矩阵乘法运算，其时间复杂度为 $O ( n ^ { 2 } )$ ，则模型并行训练的时间复杂度为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { 2 } = O ( p \\cdot s ^ { 2 } / k + n ^ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "c）在参数并行更新阶段，算法提出了批数据的梯度构建，设集群节点数为 $k$ ，模型全连接输入的尺寸为 $\\vert c \\vert$ ，批数据梯度构建的时间复杂度为 $O ( k \\cdot c ^ { 2 } )$ ，所以，参数并行更新的时间复杂度为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { 3 } = O ( k \\cdot c ^ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上，本文提出的IA-PDCNNOA算法的时间复杂度为$T _ { I a - P D C N N O A } = T _ { 1 } + T _ { 2 } + T _ { 3 } = \\ O ( ( m \\cdot n \\cdot \\log n + p \\cdot s ^ { 2 } ) / k + n ^ { 2 } + k \\cdot c ^ { 2 } ) .$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于FCNN[I4]算法，该算法首先通过将稀疏视图转换为全视图，再构建数据重建和处理技术并行化进行高精度模型训练，因此FCNN时间复杂度为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { F C N N } = O \\big ( d \\cdot n \\cdot \\log n \\cdot s ^ { 2 } + n ^ { 2 } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中 $s$ 为卷积核尺寸， $^ d$ 为算法迭代次数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于SSOCNN[15]算法，该算法设计了连续内存地址读取的单跨步情况下的im2co1算法加速方法，并利用通用矩阵乘法对列向量和卷积核进行卷积运算，因此SSOCNN时间复杂度为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { S S O C N N } = O ( a \\cdot n ^ { 2 } \\cdot \\log n \\cdot k / k ^ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\boldsymbol { a }$ 为单跨步数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于MR-FPDCNN[16算法，该算法将信息共享搜索策略与萤火虫算法相结合来寻找网络模型最优参数，并通过MapReduce并行训练网络模型，因此MR-FPDCNN时间复杂度为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { \\scriptscriptstyle M R - F P D C N N } = O ( ( n \\cdot \\log n + p \\cdot n ^ { 3 } ) / k )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\boldsymbol { p }$ 为特征图剪枝数量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由算法理论分析可得IA-PDCNNOA、FCNN、SSOCNN以及MR-FPDCNN算法的时间复杂度，在大数据环境下， $n$ 的基数远大于其他指标，可知 $( m \\cdot n \\cdot \\log n + p \\cdot s ^ { 2 } ) / k + n ^ { 2 } + k \\cdot c ^ { 2 } <$ $d \\cdot n \\cdot \\log n \\cdot s ^ { 2 } + n ^ { 2 } < a \\cdot n ^ { 2 } \\cdot \\log n \\cdot k / k ^ { 2 } < ( n \\cdot \\log n + p \\cdot n ^ { 3 } ) / k$ ，相比于FCNN、SSOCNN和MR-FPDCNN算法，本文提出的IA-PDCNNOA算法在大数据环境下有着更为理想的时间复杂度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 实验结果以及分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1实验环境 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了验证IA-PDCNNOA 算法的性能表现，本文设计了相关实验。实验硬件包含一台Master 机和七台Slaver机组成，所有节点的CPU 都为AMDRyzen $7 ~ 3 8 0 0 \\mathrm { X }$ ，内存32G，GPU为NVIDIARTX2080Ti，通过 $1 0 0 0 \\mathrm { M b / s }$ 的以太网相连。实验的编程环境为python3.8，TensorFlow2.3，JDK1.8，ApacheHadoop 3.3，Windows10 Enterprise 2016LTSB，节点配置如表1所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f4e865c8eced4f28855a159bc92f10bd59b1cfffe37c9186893fa3563d139267.jpg",
+        "table_caption": [
+            "Tab.1Configuration of nodes in the experiment "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Node Type</td><td>Node Name</td><td>IP Configuration</td></tr><tr><td>Master</td><td>master</td><td>192.168.111.1</td></tr><tr><td>Slave</td><td>slave_1~7</td><td>192.168.111.2~8</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2实验数据",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验采用CIFAR10、CIFAR100、ImageNet1K和CompCars数据集：CIFAR10数据集包含10个类别，由尺寸为 $3 2 ^ { * } 3 2$ 彩色图像组成，每个类有6000个图像，有50000条训练集和10000条测试集；CIFAR100数据集包含100个类别，由尺寸为 $3 2 ^ { * } 3 2$ 彩色图像组成，每个类有600个图像，每个类各有500个训练集和100个测试集；ImageNet是目前世界上最大的图像识别数据库，ImageNet1K包含1000个类别，120多万条训练集和50000条的验证集，通过边界填充保持图像长宽比，将图像调整为 $2 2 4 ^ { * } 2 2 4$ ；CompCars 数据集共包含208826个车辆图片，共有163个汽车品牌的1716款车辆型号。数据集的具体信息如表2所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f90ad114bf53d239ff352c1aa2fe17809f53c3fa271b052082a75bc74b7865d8.jpg",
+        "table_caption": [
+            "表1实验中节点的配置",
+            "表2实验数据集",
+            "Tab.2Experimental dataset "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>图片</td><td>CIFAR10</td><td>CIFAR-100</td><td>ImageNet1K</td><td>CompCars</td></tr><tr><td>数/条</td><td>60 000</td><td>60000</td><td>1281 167</td><td>208826</td></tr><tr><td>尺寸/像素</td><td>32*32</td><td>32*32</td><td>224*224</td><td>224*224</td></tr><tr><td>类别/类</td><td>10</td><td>100</td><td>1000</td><td>1716</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3 实验准备 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文采用ResNet50作为算法的训练网络，ResNet50作为神经网络中具有跨层连接的代表，能够很好的反映出卷积神经网络算法对模型的优化效果。接着为了减小频繁读取小文件的开销，将图像转换为灰度图，并通过MapReduce算法并行化地将数据集中的图片转为TFRECORD格式，完成实验数据准备。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4评价指标",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验主要通过模型的加速比，Top-1准确率，浮点运算量FLOPs(FloatingPointOperations)和算法运行时间4个评价指标衡量算法性能，加速比和Top-1准确率定义如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4.1加速比",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "加速比是通过并行计算以降低总体的运行时间而获得的性能提升的数值化表示形式，加速比越大，算法并行程度越高，定义如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { n } = T _ { s } / T _ { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中， $T _ { s }$ 为算法串行运行时间， $T _ { n }$ 为算法并行运行时间。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4.2Top-1准确率",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Top-1准确率是深度学习中评价模型预测错误率的重要指标，Top-1准确率越高，模型性能越好，定义如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA C C _ { t o p - 1 } = T _ { b } / N\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中， $T _ { b }$ 为所以验证集中正确标签在模型输出的最佳标记中的样本数， $N$ 为样本总数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.5算法可行性比较分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为验证IA-PDCNNOA算法在大数据环境下的并行训练可行性，采用算法的加速比来进行衡量，对IA-PDCNNOA算法在CIFAR10、CIFAR100、ImageNet1K 和CompCars 数据集上进行测试。同时为确保实验结果的准确性，取各算法平均10 次运行时长来计算加速比，作为最后实验结果。实验结果如图2所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/421eb164ff9e69557bda1baf215de257b02045d1541b605ea65cf4ce8547a136.jpg",
+        "img_caption": [
+            "图2IA-PDCNNOA算法在四个数据集的加速比Fig.2Speedup ratio ofIA-PDCNNOA algorithm in four datasets"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从图2可以看出，IA-PDCNNOA算法随着节点数的增加其加速比总体呈现上升趋势，且随着四个数据集规模的增加逐步增长。其中当节点数为2时，IA-PDCNNOA算法在四个数据集上的加速比差异较小；当节点数为4时，算法相比于单节点的加速比分别增加了2.205、2.417、3.824和4.735；当节点数为8时，IA-PDCNNOA算法在各数据集上有了显著提升，分别达到了6.861、6.876、9.828和8.915。这是由于IA-PDCNNOA算法设计了IM-PMTS策略，将等大小的图像块均匀分布至集群各计算节点，在减少节点通信时间的同时保证了数据的负载均衡，极大提升了算法的运行效率。此外算法还设计了IM-BGDS策略，排除了异常节点所产生的数据计算，避免了这类数据的读写与传输对系统资源的消耗，在一定程度上提升了算法的性能，随着数据规模的增大，这种提升的效果也逐渐明显。这也表明IA-PDCNNOA算法适用于大数据环境下，并行DCNN模型的训练。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.6算法性能实验分析比较",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.6.1算法加速比实验分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为验证IA-PDCNNOA算法在大数据环境中的并行化性能，本文基于CIFAR10、CIFAR100、ImageNet1K和CompCars数据集，将加速比作为衡量指标，分别与MR-FPDCNN、SSOCNN、FCNN，算法做比较。同时，为确保实验结果的准确性，取各算法平均10次运行时长来计算加速比，作为最后实验结果。实验结果如图3所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从图3(a)(b)可以看出，在处理CIFAR10、CIFAR100这样规模相对较小的数据集时，各算法的加速比随着节点数的增加而缓慢增加，其中，当集群节点数为4时，IA-PDCNNOA的加速比相比于并行化程度不高的FCNN和SSOCNN算法，分别低了0.325、0.435和0.276、0.102；但在图3(c)(d)中，算法处理ImageNet1K、CompCars 这样相对较大的数据集时，IA-PDCNNOA算法的加速比增速较大，在集群节点数为8时分别达到了9.804和8.912，相比MR-FPDCNN、FCNN和SSOCNN算法分别高出1.148、4.173、4.652和0.965、2.678、2.094。产生这些结果的原因是：当IA-PDCNNOA算法在处理规模相对较小的数据集时，数据分布到各个计算节点会导致各节点间的通信时间开销快速增长，通过并行化运算获得的运行速度提升极为有限；当IA-PDCNNOA算法在处理规模相对较大的数据集时，因为其设计的IM-PMTS策略，通过提出马氏距离中心值MDCV对同层卷积核剪枝，减少了卷积层参数在网络通信中的开销，然后通过结合MapReduce和Im2col方法并行训练的方式加速卷积运算的过程，提高了卷积层运算速度，并提升了算法的加速比，实验表明，IA-PDCNNOA算法并行化能力随着集群节点数的增多而显著增强，其适用于大数据集进行并行化处理，且具有较好的性能。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/46f9f212ac4144cb7d5524e54541217ff198763a0e33b6716b621a509e029e89.jpg",
+        "img_caption": [
+            "(d)各算法在数据集CompCars上的加速比图3各算法在四个数据集的加速比",
+            "Fig.3Speedup ratio of each algorithm in four datasets "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.6.2算法准确率实验分析 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了进一步验证IA-PDCNNOA 算法的训练效果，使用Top-1准确率作为衡量指标评价算法的训练效果，将IA-PDCNNOA、MR-FPDCNN、SSOCNN和FCNN分别在CIFAR10、CIFAR100、ImageNet1K和CompCars 数据集上进行训练，计算其Top-1准确率作为实验结果，实验结果如图4所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从图4(a)(b)可以看出，在处理CIFAR10、CIFAR100这样规模相对较小的数据集时，各算法的Top-1准确率均能稳定在较高的数值，其中，IA-PDCNNOA算法的Top-1准确率最高，且较早的完成了收敛，达到了 $8 9 . 7 2 \\%$ 和 $7 2 . 3 1 \\%$ ，相比于MR-FPDCNN、SSOCNN和FCNN算法，高了 $2 . 8 7 \\%$ ，$4 . 6 2 \\%$ 、 $6 . 4 8 \\%$ 和 $2 . 1 4 \\%$ 、 $4 . 5 7 \\%$ 、 $3 . 5 3 \\%$ ；但在图4(c)(d)中，算法处理ImageNet1K、CompCars 相对较大的数据集时，各算法的Top-1准确率和算法收敛情况有较大差异，其中，IA-PDCNNOA算法的Top-1准确率在四个并行化算法中最高，达到了 $7 2 . 4 1 \\%$ 和 $6 9 . 1 7 \\%$ ，相比于 MR-FPDCNN、SSOCNN 和 FCNN 算法，高了 $2 . 3 1 \\%$ 、 $7 . 9 8 \\%$ 、 $2 . 8 5 \\%$ 和$2 . 8 1 \\%$ 、 $7 . 5 8 \\%$ 、 $4 . 8 4 \\%$ ，但其他三个算法均出现了不同程度难以收敛的情况。产生这些结果是：IA-PDCNNOA算法提出IM-BGDS策略，其设计损失求和梯度 $L S G ( T )$ 构建小批量数据梯度，并通过误差反向传播算法对参数并行更新，排除异常节点的训练数据对批梯度的影响，增强了IA-PDCNNOA算法的收敛性。因此可以得出，IA-PDCNNOA相较于其他三个并行化算法有着较高的收敛速度和准确率，其适用于大数据集下的深度卷积神经网络的模型并行化训练",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/4e3240d8f2b9e5f6a31dc3d24f883a14c4da1c0c5997ff9afff4872bd29209df.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/38adb46771808a576a9d65bc96de9e12f147b126f0cd44857939334394be10bb.jpg",
+        "img_caption": [
+            "(a）各算法在数据集CIFAR10上的Top-1准确率"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a81fe65a05e617cb2b9c472a419309f06b63409bbb6049f578dd747e9f4df5ea.jpg",
+        "img_caption": [
+            "(a）各算法在数据集CIFAR100上的Top-1准确率"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/aa98a38b4aa8eca960840391b7472d3b07660405ef419dbbd8998f9b06e4cf30.jpg",
+        "img_caption": [
+            "(c）各算法在数据集ImageNet1K上的Top-1准确率",
+            "(d）各算法在数据集CompCars上的Top-1准确率图4各算法在四个数据集上的Top-1准确率Fig.4Top-l accuracy of each algorithm on four datasets5.3算法运行时间和FLOPs实验分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为验证IA-PDCNNOA算法在大数据环境中算法执行速度和模型优化效果，本文基于CIFAR10、CIFAR100、ImageNet1K和CompCars 数据集，分别计算Baseline、IA-",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "PDCNNOA、MR-FPDCNN、SSOCNN和FCNN的运行时间和FLOPs，其中Baseline为ResNet50模型在1/8数据负载量下的基准数据，实验结果如表3所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/b00875412738c0e1dfac24840fd5a425de9e16dbffcff5785ceb1a76b09529ab.jpg",
+        "table_caption": [
+            "表3各算法在四个数据集上的运行时间和FLOPs",
+            "Tab.3Running time and flops of each algorithm on four datasets "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Dataset</td><td rowspan=\"2\">Algorithm</td><td rowspan=\"2\">Running time/s</td><td rowspan=\"2\">FLOPs</td><td rowspan=\"2\">Reduction of FLOPs</td></tr><tr><td></td></tr><tr><td rowspan=\"5\">CIFAR10</td><td>Baseline</td><td>264</td><td>3.8×109</td><td>-</td></tr><tr><td>MR-FPDCNN</td><td>186</td><td>1.97×109</td><td>48%</td></tr><tr><td>SSOCNN</td><td>261</td><td>2.58×109</td><td>32%</td></tr><tr><td>FCNN IA-</td><td>242</td><td>2.39×109</td><td>37%</td></tr><tr><td>PDCNNOA</td><td>154</td><td>1.78×109</td><td>53%</td></tr><tr><td rowspan=\"6\">CIFAR100</td><td>Baseline</td><td>427</td><td>3.8×109</td><td>-</td></tr><tr><td>MR-FPDCNN</td><td>316</td><td>2.05×109</td><td>45%</td></tr><tr><td>SSOCNN</td><td>368</td><td>2.87×109</td><td>25%</td></tr><tr><td>FCNN</td><td>357</td><td>2.94×109</td><td>23%</td></tr><tr><td>IA- PDCNNOA</td><td>281</td><td>1.91×109</td><td>50%</td></tr><tr><td>Baseline</td><td>8.12×104</td><td>3.8×109</td><td></td></tr><tr><td rowspan=\"6\">ImageNet 1K</td><td>MR-FPDCNN</td><td>6.23×104</td><td>2.62×109</td><td></td></tr><tr><td></td><td></td><td></td><td>31%</td></tr><tr><td>SSOCNN FCNN</td><td>8.76×104 1.02×105</td><td>3.09×109 2.81×109</td><td>21% 26%</td></tr><tr><td>IA-</td><td>4.91×104</td><td>2.5×109</td><td>34%</td></tr><tr><td>PDCNNOA Baseline</td><td>6.72×104</td><td>3.8×109</td><td></td></tr><tr><td>MR-FPDCNN</td><td></td><td></td><td>-</td></tr><tr><td rowspan=\"5\">CompCars</td><td></td><td>4.64×104</td><td>2.49×109</td><td>34%</td></tr><tr><td>SSOCNN</td><td>7.72×104</td><td>2.98×109</td><td>22%</td></tr><tr><td>FCNN</td><td>9.18×104</td><td>2.96×109</td><td>22%</td></tr><tr><td>IA-</td><td>3.59×104</td><td>2.41×109</td><td>37%</td></tr><tr><td>PDCNNOA</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从表3可以看出，在处理CIFAR10、CIFAR100这样规模相对较小的数据集时，各算法运行时间没有较大的差距，但它们的浮点运算量均有不同程度的减少，其中，IA-PDCNNOA的浮点运算量相比于MR-FPDCNN、SSOCNN和FCNN算法，分别减少了 $5 \\%$ 、 $21 \\%$ 、 $1 6 \\%$ 和 $5 \\%$ 、 $2 5 \\%$ 、 $2 7 \\%$ 但在处理ImageNet1K、CompCars这样较大的数据集时，IA-PDCNNOA算法的运行时间和浮点运算量均优于其他三个算法，其中，IA-PDCNNOA算法的运行时间相比于MR-FPDCNN、SSOCNN 和FCNN算法快了 $1 . 3 2 \\times 1 0 ^ { 4 } \\mathrm { s }$ 、$3 . 8 5 { \\times } 1 0 ^ { 4 } \\mathrm { s }$ 、 $5 . 2 9 \\times 1 0 ^ { 4 } \\mathrm { s }$ 和 $1 . 0 5 { \\times } 1 0 ^ { 4 } \\mathrm { s }$ 、 $4 . 1 3 { \\times } 1 0 ^ { 4 } \\mathrm { s }$ 、 $5 . 5 9 \\times 1 0 ^ { 4 } \\mathrm { s }$ 浮点运算量分别减少了 $3 \\%$ 、 $13 \\%$ 、 $8 \\%$ 和 $3 \\%$ 、 $1 5 \\%$ 、 $1 5 \\%$ 。对比四个算法在CIFAR10、CIFAR100、ImageNet1K和CompCars数据集上的运行时间和浮点运算量的变化趋势，可以看出IA-PDCNNOA算法随着训练数据集的增大，其运行时间和浮点运算量的减少在与其他算法拉开了较大差距，产生这些结果是：IA-PDCNNOA算法提出的MHO-PFES策略，其通过提出特征相关指数 $F C I ( x , y )$ ，去除了数据中的冗余特征，并筛选数据的目标特征作为卷积神经网络的输入，减少了模型的浮点运算量，加快了算法的运行速度。因此可以得出，IA-PDCNNOA 优于MR-FPDCNN、SSOCNN和FCNN，适用于大数据集下的DCNN模型并行化训练。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.6.4算法并行方式性能实验分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为验证在大数据环境下，算法并行方式对模型构建时间影响，本文选取基于数据并行的MR-FPDCNN和基于模型并行的 SSOCNN 算法，与IA-PDCNNOA 进行比较，算法IA-PDCNNOA在正向传播阶段是数据并行方式，反向传播阶段是模型并行方式。比较算法在CIFAR10、CIFAR100、",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ImageNet1K和CompCars数据集训练至模型准确率为 $70 \\%$ 所需运行时间，实验结果如图5所示。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/13e01af4a2e31fcf04ce9cf239d5d6446ef0e4e03e741e2b0f3fe4cd51049ea9.jpg",
+        "img_caption": [
+            "图5不同并行方式算法在四个数据集的运行时间",
+            "Fig.5Runtime of different parallel-mode algorithms on four dataset "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从图5可以看出，算法在面对CIFAR10、CIFAR100这样的小规模数据集时训练时间相差不大，但在面对ImageNet1K、CompCars这样的大数据环境下，IA-PDCNNOA算法的运行时间相比于数据并行的MR-FPDCNN和模型并行的SSOCNN分别降低了1322s、3837s和1049s、4127s，可以看出IA-PDCNNOA算法随着训练数据规模的增大，训练时间相比于数据并行的MR-FPDCNN和模型并行的SSOCNN出现了明显的优势。产生这些结果的原因是：对于数据并行算法MR-FPDCNN，由于其将数据分散至不同节点单独训练，不同节点间的模型参数没有共享，导致需要花费更长时间训练才能达到目标准确率；对于模型并行算法SSOCNN，其在卷积计算阶段各节点特征图合并使得算法承受了极大的通信开销，降低了算法的运行速度。相比于数据并行算法 MR-FPDCNN 和模型并行算法 SSOCNN，IA-PDCNNOA在卷积计算的正向传播阶段，各节点分别计算batch中的特征图，免去了不同节点间的通信开销；在反向传播阶段，算法将计算结果构建批梯度训练模型参数，使得IA-PDCNNOA算法相比于MR-FPDCNN和SSOCNN算法，运行时间大幅度减少。实验表明，相比于数据并行算法MR-FPDCNN和模型并行算法SSOCNN，IA-PDCNNOA的混合式并行更适用于大规模的深度卷积神经网络的训练。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "针对传统的深度卷积神经网络算法在大数据环境下的不足，本文提出一种基于 $\\mathrm { I m } 2 \\mathrm { c o l }$ 算法的并行深度卷积神经网络优化算法IA-PDCNNOA。首先，提出MHO-PFES策略，设计改进的非局部均值滤波器 $F T ( a , b )$ 对输入数据进行滤波，并计算滤波数据的拉普拉斯方程 $h ( x , y )$ ，寻找拉普拉斯方程的零交叉来提取数据特征，并提出特征相关指数 $F C I ( x , y )$ 去除冗余数据，从而解决了数据冗余特征多的问题；然后，提出IM-PMTS策略，设计马氏距离中心值MDCV寻找与网络模型中卷积核线性相关的向量，并以此对同层卷积核剪枝，然后通过结合MapReduce和 $\\mathrm { I m } 2 \\mathrm { c o l }$ 方法并行训练的方式加速卷积运算的过程，提高了卷积层运算速度；最后，提出IM-BGDS策略，设计损失均值权重 ${ \\mathit { L A W } } ( g _ { i } )$ 来排除异常节点的训练数据对批梯度的影响，并设计损失求和梯度LSG(T)，构建批数据平均梯度，并结合MapReduce计算框架和反向传播的误差传导公式对参数并行更新，排除异常节点的训练数据对批梯度的影响，解决了损失函数收敛性差的问题。为了验证IA-PDCNNOA算法的性能，本文在ResNet50网络上设计了相关实验，在CIFAR10、CIFAR100、ImageNet1K和CompCars 数据集上将IA-PDCNNOA 算法分别于MR-FPDCNN 算法、SSOCNN 算法和FCNN 算法进行比较。最终的实验结果和实验分析均反映出于其他算法相比，IA-",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "PDCNNOA算法在处理大数据时具有相对较好的性能表现。虽然IA-PDCNNOA算法在深度卷积神经网络的模型训练方面取得进步，但该算法在预测准确率上依然存在一定的提升工间，异伝时开性能也有付加強，达付定后时里点儿内容。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：   \n[1] 张珂，冯晓晗，郭玉荣，等．图像分类的深度卷积神经网络模型综述 [J]．中国图像图形学报,2021,26 (10):21.(Zhang Ke,Feng Xiaohan, Guo Yurong,et al.A review of deep convolution neural network models forimage classification[J].JourmalofImageandGrapics,21,6 (10): 21.)   \n[2] 杨真真，匡楠，范露，等．基于卷积神经网络的图像分类算法综述 [J]．信号处理,2018,34(12):1474-1489.(Yang Zhenzhen,Kuang Nan, Fan Lu,et al.Review of Image Classification Algorithms Based on Convolutional Neural Networks [J]. Journal of Signal Processing,2018, 34 (12): 1474-1489.)   \n[3]朱方圆，马志强，陈艳，等．语音识别中说话人自适应方法研究综述 [J]．计算机科学与探索，2021，15(12):15.(Zhu Fangyuan,Ma Zhiqiang,Chen Yan,et al. Survey of Speaker Adaptation Methods in Speech Recognition [J]. Journal of Frontiers of Computer Science and Technology,2021,15 (12): 15.)   \n[4]罗会兰，袁璞，童康．基于深度学习的显著性目标检测方法综述 [J]. 电子学报,2021,49(7):11.(Luo Huilan,Yuan Pu,Tong Kang.Review ofthe Methods for Salient Object Detection Based on Deep Learning [J]. Acta Electronica Sinica,2021,49 (7): 11.)   \n[5] 徐辉，祝玉华，甄彤，等．深度神经网络图像语义分割方法综述[J]. 计算机科学与探索,2021,15(1):13.(Xu Hui,Zhu Yuhua,Zhentong,et al. Survey of Image Semantic Segmentation Methods Based on Deep Neural Network [J]. Journal of Frontiers of Computer Science and Technology,2021,15(1): 13.)   \n[6]白子轶，毛懿荣，王瑞平．视频人脸识别进展综述[J].计算机科学, 2021,48 (3):10.(Bai Ziyi,Mao Yirong,Wang Ruiping. Survey on Video-based Face Recognition [J]. Computer Science,2021,48 (3):10.)   \n[7]朱向雷，王海弛，尤翰墨，等．自动驾驶智能系统测试研究综述[J]. 软件学报,2021,32(7):22. (Zhu Xianglei,Wang Haichi,Youhammer, et al.Survey on Testing of Intelligent Systems in Autonomous Vehicles [J]. Jourmal of Software,2021,32(7): 22.)   \n[8]Fairuz,Amalina,Ibrahim,et al. Blending Big Data Analytics: Review on Challenges and a Recent Study [J]. IEEE Access,2020,8: 3629-3645.   \n[9]Vitor C.F. Gomes, Gilberto R. Queiroz,Karine R.Ferreira.An Overview of Platforms for Big Earth Observation Data Management and Analysis [J].Remote Sensing,2020,12 (8):1253-1253.   \n[10] 肖文，胡娟，周晓峰．基于 MapReduce 计算模型的并行关联规则挖 掘算法研究综述[J]．计算机应用研究,2018,35(01):13-23.(Xiao Wen，Hu Juan， Zhou Xiaofeng.Parallel association rules mining algorithm based on MapReduce: a survey [J]. Application Research of Computers,2018,35(01):13-23.)   \n[11]金国栋，卞昊穹，陈跃国，等.HDFS 存储和优化技术研究综述[J]. 软件学报,2020,31(1):137-161.(Jin Guodong,Bian haoqiong,Chen Yueguo,et al. Survey on Storage and Optimization Techniques of HDFS [J].Journal of Software,2020,31(1): 137-161.)   \n[12] Mahdi Mahmoud A.and Hosny Khalid M.and Elhenawy Ibrahim. Scalable Clustering Algorithms for Big Data:A Review [J].IEEE ACCESS,2021,9: 80015-80027.   \n[13] Leung J，Chen M. Image Recognition with MapReduce Based Convolutional Neural Networks[C]// 2019 IEEE 10th Annual UbiquitousComputing，Electronics &Mobile Communication Conference(UEMCON) .IEEE,2019,pp.0119-0125.   \n[14] Takam CA, Samba O,Kouanou AT,et al. Spark Architecture for deep learning-based dose optimization in medical imaging[J].Informatics in Medicine Unlocked,2020,19:100335.   \n[15]Wang H,Ma C.An optimization of im2col,an important method of CNNs,based on continuous address access [C]//2021 IEEE International Conference on Consumer Electronics and Computer Engineering (ICCECE).2021,pp.314-320.   \n[16]毛伊敏，张瑞朋，高波．大数据下基于特征图的深度卷积神经网络 [J/OL].计算机工程与应用.2022,1-9.[2022-02-07].http://kns.cnki. net/kcms/detail/11.2127.TP.20210413.1143.010.html.(Mao Yimin, Zhang ruipeng,Gao Bo.Deep convolutional neural network algorithm based on feature map in big data environment [J/OL].Computer Engineering and Applications,2022,1-9.[2022-02-07].http://kns.cnki. net/kcms/detail/11.2127.TP.20210413.1143.010.html.)   \n[17]Park J,Kang CK,Lee Y.Quantitative evaluation of the image quality using the fast nonlocal means denoising approach in diffusion-weighted magnetic resonance imaging with high b-value[J].Journal of the Korean Physical Society,2021,78 (3): 244-250.   \n[18]陈俊，何庆．基于余弦相似度的改进蝴蝶优化算法[J].计算机应用, 2021,41 (09): 2668-2677.(Chen Jun,He Qing.Improved butterfly optimization algorithm based on cosine similarity [J].Journal of Computer Applications,2021,41 (09): 2668-2677.)   \n[19] Ji Z,Zhang X,Wei Z,et al.A tile-fusion method for accelerating Winograd convolutions [J]. Neurocomputing,2021,460:9-19.   \n[20]王燕，元祥惠，段亚西．基于核函数与马氏距离的FCM图像分割算 法[J].计算机应用研究,2020,37(02):611-614+624.(Wang Yan,Qi Xianghui,Duan Yaxi.Image segmentation of FCM algorithm based on kernel function and Markov distance [J].Application Research of Computers,2020,37 (02):611-614+624.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

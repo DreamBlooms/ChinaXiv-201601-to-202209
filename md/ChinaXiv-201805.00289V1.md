@@ -1,0 +1,221 @@
+# 张量数据中的多密集块检测方法
+
+范卫俊，程艳云
+
+(南京邮电大学 自动化学院，南京 310023)
+
+摘要：过去的许多研究表明在实际张量数据中密集的部分存在着异常或者欺诈行为，如微博僵尸粉行为、网络攻击等。因此，研究人员提出了各种各样的方法来针对密集块的提取，但是这些方法存在着低准确率和召回率的缺点。针对这些缺点，提出了一种基于二叉树搜索的多密集块检测方法，简称DDB-BST，通过对张量数据进行基于评价指标的局部搜索，找到评价指标最高的子张量数据，将数据分成左右子节点，通过不断比较父节点和左右子节点评价指标值的数值关系，判断二叉树生长是否终止。对终止条件给出了严格的数学证明。在合成数据集以及真实数据集上进行实验，发现DDB-BST比现有的M-z00m多密集块方法的F1值提高近 $30 \%$ 。
+
+关键词：张量数据；密集块；二叉树搜索；终止条件 中图分类号：TP301.6 doi:10.3969/j.issn.1001-3695.2017.08.0866
+
+# Methodondense-blocksdetectionintensordata
+
+Fan Weijun, Cheng Yanyun (College ofAutomation,Nanjing University of Posts & Telecommunications,Nanjing 310023,China)
+
+Abstract:Past studies have shown that dense blocks inreal-world tensorcan have anomalous or fraudulent behavior such as Zombie folowers’behavior or network attack.Thus,various methods have been used for detecting dense blocks intensor. However,these methods have lowaccuracyorlowrecallrate.Toovercome those limitations,DDB-BSTis proposed,amethod ondenseblocksdetectionbasedonbinarytree search which findstheblock withthehighestmetric intensorbylocalsearch. Bycomparing keyvalues betweenchild'sandfather's nodes,we judge whether the binary tree grows.Finall, whenthe binary tree stopgrowing,all the child nodes are dense blocks.End condition of binary tree growing is mathematically proven. Experimentsonboth synthesis dataandreal-worlddata show efficiencyofthe method,theF1valuewith DDB-BSTbeing 30 percent higher than for M-zoom.
+
+KeyWords:tensor data;dense-blocks;binary tree search;end condition
+
+# 0 引言
+
+假设你的工作是检测异常的网络连接，那么如何提取出如下的异常行为：一群IP地址每几秒向同一个IP地址中的某几个端口发送连接请求或者是得到一段时间内网络连接的特征信息如协议类型、从源到目的地的字节数、过去两秒内与当前连接相同主机的连接数等。目前很多研究已经通过张量模型[1]来处理这类问题，而在张量中的密集块代表着一群用户的同步行为，而这些行为往往是可疑的。所以张量中的密集块提取被广泛的应用于网络入侵检测[2]、提高微博转发量检测[3]、僵尸粉活动[4以及遗传学[I]。现在主要有三种类型的方法能对张量中的密集块进行快速准确的检测。一种是基于张量分解的密集块挖掘，张量分解应用于对密集子张量的挖掘，如HOSVD[1]和CP分解。近年来研究者们对张量分解的方法不断改进，如基于分布模型的方法[5]；基于采样的方法[6以及针对数亿规模数据的张量分解[7等。然而基于张量分解的密集块挖掘方法存在着几点缺点：没考虑背景数据的性质；在密度指标下不具有较高延展性；不能提供合理的边界。另一种是稠密子图挖掘方法，文献[8]对稠密子图的挖掘方法进行了总结。最新的稠密子图挖掘的方法主要有：采用最大整体密度和有限重合寻找密集子图[9];基于核分解的稠密子图的发现[10]；基于一种新的评价指标来发现在不确定图上的稠密子图[以及基于数据流或者分布式的动态稠密子图的挖掘[12-13]。最新的研究是通过定义新的标准来对张量中的密集块的检测，文献[14]提出的CrossSpot算法是通过随机选取一个块，然后使用一种近似于贪心的方法不断调整这个块的维度，直到其达到局部最优。由于CrossSpot 没有提供一个合适的边界，所以在面对存在多密集块的张量数据中，检测效果并不好。文献[15]提出的M-zoom 算法同样使用一种近似于贪心的方法，从整个张量数据开始不断移除每个维度中的值直到其达到局部最优即最优部分为一个密集块，然后将密集块移除，再对剩下的进行重复操作。虽然这样可以达到多密集块检测的目的，但是其准确率大大降低。
+
+为了克服上述基于评价指标算法存在的问题，本文提出了一种基于 Suspiciousness 评价指标的二叉树多密集块搜索算法(DetectDense Blockwith Binary Search Tree，DDB-BST)，可以有效的解决在张量数据中对不同形式的多密集块的检测。通过严格的数学证明证明了二叉树的生长条件，从而实现对二叉树中根数据是否存在密集块的判定。应用不同数据集的实验结果表明，本文提出的算法可以有效地对张量数据进行密集块检测。
+
+# 1 符号及定义
+
+# 1.1符号定义
+
+表1罗列出文章所出现的符号以及其说明。
+
+表1符号说明  
+
+<html><body><table><tr><td>符号</td><td>定义</td></tr><tr><td>D(A.1.,...·AK,X)</td><td>含有K个标称属性和一个非负的数值属性的</td></tr><tr><td></td><td>张量数据</td></tr><tr><td>K</td><td>D 中标称属性的个数即张量数据的维度</td></tr><tr><td>Aj</td><td>D中第j个标称属性</td></tr><tr><td>X</td><td>D中的数值属性数据</td></tr><tr><td>B(B1.,...BK,X)</td><td>D 中的子张量数据记录</td></tr><tr><td>p(B,D)</td><td>子张量数据B在D下的评价指标值</td></tr><tr><td>SD（或者是</td><td>张量数据D中X的和（或者是子张量数据B</td></tr><tr><td>SB)</td><td>中X的和)</td></tr><tr><td>VD（或者是</td><td>张量D的体积（或者是子张量数据B的体</td></tr><tr><td>VB)</td><td>积）</td></tr><tr><td>aji △saj i</td><td>在Aj中第i个值 在Aj中第i个值下所有X的和</td></tr></table></body></html>
+
+例1网络访问历史记录。在图1中，定义了一组数据 $D$ (userip datecount)并且每一条数据d $( \mathbf { u } , \mathbf { I P } , \mathbf { d } , \mathbf { c } )$ 表示着用户 $\mathrm { ~ u ~ }$ 在时刻d访问了IP地址c次，所以数据 $D$ 中的标称属性 $\boldsymbol { A } _ { l } = \mathrm { u s e r }$ $A _ { 2 } = \mathrm { I P }$ ， $A _ { 3 } =$ date 和数值属性数据 $X = \mathrm { c o u n t }$ 。令 $B _ { I } = \mathrm { \{ L u c y } $ Nike}， $B _ { 2 } = \{ 1 9 2 . 1 6 8 . 5 . 2 , 1 9 2 . 1 6 8 . 2 . 1 \}$ 和 $B _ { 3 } = \{ 2 0 1 7 - 1 - 2 \}$ ，所以$B$ 表示的子张量是图1(b)中的阴影部分，此时对应的符号的值$S _ { B } = 1 6$ ， $V _ { B } = 4$ ，al $I = \{ 5 \}$ ， $\mathcal { A } s _ { a l ~ I } = \{ 7 , 3 , 1 \}$ 。
+
+# 1.2评价指标
+
+本文选择文献[16]提出的Suspiciousness 评价指标。
+
+定义1（Suspiciousness）：在张量数据D中子张量数据B的Suspiciousness值的计算公式如下：
+
+$$
+\rho ( \mathrm { B } , \mathrm { D } ) \ = \ \mathrm { S } _ { \mathrm { s } } ( \ln { \frac { \mathrm { S } _ { \scriptscriptstyle B } } { \mathrm { S } _ { \scriptscriptstyle D } } } - 1 ) + \mathrm { S } _ { \scriptscriptstyle D } { \frac { V _ { \scriptscriptstyle B } } { V _ { \scriptscriptstyle D } } } - \mathrm { S } _ { \scriptscriptstyle B } \ln { \frac { V _ { \scriptscriptstyle B } } { V _ { \scriptscriptstyle D } } }
+$$
+
+Suspiciousness评价指标可以很好的满足公理1、2。
+
+公理1密度公理。如果两个子数据框的尺寸一样，那么
+
+这两个子数据框中数值属性的所有值的和越大，则Suspiciousness 的值越大，即
+
+$$
+\mathbf { S } _ { \mathrm { s } } > \mathbf { S } _ { \mathrm { s } } . \mathrm { H } | \mathbf { B } _ { \mathrm { n } } | = | \mathbf { B } _ { \mathrm { n } } ^ { \prime } | , \forall \mathbf { n } \in K \Rightarrow \rho ( \mathbf { B } , \mathbf { D } ) > \rho ( \mathbf { B } , \mathbf { D } )
+$$
+
+公理2浓度公理。如果两个子数据框中数值属性的所有值的和一样，那么尺寸越小的 Suspiciousness 的值越大，即：$\mathrm { V _ { \mathrm { s } } } < \mathrm { V _ { \mathrm { s } } } . \mathrm { E A S _ { \mathrm { s } } } = \mathrm { S _ { \mathrm { s } } } \Rightarrow \rho ( \mathrm { B } , \mathrm { D } ) > \rho ( \mathrm { B } , \mathrm { D } )$
+
+# 1.3 问题定义
+
+问题1给定一个K维的张量数据D，数据中存在这 $\mathrm { ~ m ~ }$ 个密集块，采用基于式(1)的评价指标进行二叉树搜索和局域搜索算法找到数据中的 $\mathbf { m }$ 个密集块。
+
+<html><body><table><tr><td>User</td><td>IP</td><td>Date</td><td>Count</td></tr><tr><td>Lucy</td><td>192.168.5.2</td><td>2017-1-2</td><td>5</td></tr><tr><td>Lucy</td><td>192.168.2.1</td><td>2017-1-2</td><td>3</td></tr><tr><td>Nike</td><td>192.168.5.2</td><td>2017-1-2</td><td>6</td></tr><tr><td>Nike</td><td>192.168.1.1</td><td>2017-1-2</td><td>2</td></tr><tr><td>Bob</td><td>192.168.1.1</td><td>2017-1-3</td><td>1</td></tr><tr><td>：</td><td>：</td><td></td><td></td></tr></table></body></html>
+
+(a)一组数据框的数据 $A _ { i }$ 深色部分的数据表示数据框 $\pmb { B }$
+
+![](images/ccf1a18f54b8936b0c6b7215b9a1e00638e04e2368e69269658c24c22f7d4acd.jpg)  
+（b）（a）所对应的张量数据 $A$ ，以及其中选中的子张量图1关于例1的描述
+
+# 2 基于评价指标的二叉树搜索的多密集块检测
+
+# 2.1基于评价指标的二叉树搜索的多密集块检测算法流程
+
+DDB-DST算法有两部分组成,首先对原数据进行预处理，得到适用于该算法处理的数据格式；其次对处理后的数据进行算法2搜索，得到二叉树的左右子节点；再对左右节点运行算法2，如此反复直至满足终止条件。这样就可以得到原数据中的多个异常块，具体算法流程所下示：
+
+算法1二叉树搜索算法：
+
+输入：原始张量数据 $D _ { o r i }$ 输出：k个密集数据块$\mathrm { R } = \mathrm { D } _ { \mathrm { o r i } }$ ,noder编号为0
+
+2.将数据 $\mathrm { ~ R ~ }$ 插入到二叉树中，则node 编号为 $n o d e _ { R }$ ，键值$k e y _ { \scriptscriptstyle  { d } } = \rho ( B , D _ { \scriptscriptstyle \it o r i } )$
+
+3.对数据 $R$ 进行算法2计算，得到二叉树的左节点 $B _ { l }$ 和右节点 $B _ { r }$ ,其node编号分别为noder+"1"和 $n o d e _ { R } + { } ^ {  } 0$ ”键值为
+
+$$
+k e y _ { \scriptscriptstyle L } = \rho ( B _ { \scriptscriptstyle  l } , D _ { \scriptscriptstyle o r i } ) \vec { \mathcal { H } } \mathbb { I } k e y _ { \scriptscriptstyle R } = \rho ( B _ { \scriptscriptstyle r } , D _ { \scriptscriptstyle o r i } )
+$$
+
+4.如果 $k e y _ { \scriptscriptstyle \# } \leq k e y _ { \scriptscriptstyle L } + k e y _ { \scriptscriptstyle R }$ ，则 $R = B _ { l }$ 继续第二步, $R = B _ { r }$ 继续第二步。
+
+5.如果 $k e y _ { \scriptscriptstyle \# } > k e y _ { \scriptscriptstyle L } + k e y _ { \scriptscriptstyle R }$ ,则保存 $R$ 到列表dense_block 中。
+
+6.全部查找结束，返回dense_block。
+
+算法2局域搜索单密集块算法：
+
+输入：张量数据R，种子 seed A={A}j
+
+输出：二叉树左右子数据框数据 $B _ { L }$ 和 $B _ { R }$
+
+1．初始化 $\tilde { \boldsymbol { A } } ^ { \cdot }$ 为空
+
+2.遍历 $\scriptstyle j = I \ldots K$ ，将 $A _ { j }$ 中的元素 $a _ { _ i } ^ { _ j }$ 按照 $\Delta S _ { _ { a _ { i } ^ { j } } }$ 降序排列，保持 $\tilde { \boldsymbol { A } }$ 中除 $j$ 维以外的元素添加到 $\tilde { A } ^ { ' }$ 中，然后依次添加 $a _ { _ i } ^ { _ j }$ 到 $\tilde { A } ^ { ' }$ ，并不断计算 $\tilde { \rho ( A , R ) }$ 直到最大。
+
+不断重复上述步骤1、步骤2，直到Suspiciousness收敛。  
+将 $\begin{array}{c} B _ { \scriptscriptstyle 1 } = \bar { A } ^ { \mathrm { ~ \prime ~ } }  \end{array} , \quad B _ { \scriptscriptstyle r } = R - B _ { \scriptscriptstyle l }$ 。
+
+# 2.2算法时间复杂度分析
+
+算法2局部搜索单密集块算法的时间复杂度是$o ( T \times K \times ( E + N \log N ) )$ ,其中 $T$ 是迭代次数，K是张量数据的维度，E是数据中非零元素的数量， $N$ 是任意维度中最大的长度。通常情况下 $T$ 和 $K$ 是设置成常数，所以算法2的时间复杂度和张量数据中非零元素的个数成线性关系。算法1二叉树搜索算法的时间复杂度是 $o ( \mathrm { c } )$ ， $\mathbf { \Psi } _ { c }$ 是运算算法2的次数，所以算法1的时间复杂度和算法2的时间复杂度成线性关系。所以整个算法时间复杂度是 $o { \big ( } \mathrm { c } \times T \times K \times ( E + N \log N ) { \big ) }$ 。
+
+# 2.3二叉树生长条件
+
+定义3假设初始数据是稀疏矩阵（即 $\lambda < < 1 \dot { }$ ），对原数据进行算法2计算，可以得到Suspiciousness 值最大的子张量数据，定义为左子树，编号为1，将左子树从原数据切除，剩下的子张量数据定义为右子树，编号为0。根数据进行算法2计算，可以得到左子树，如果根数据的编号含有1，那么将左子树在根数据所在维度上的所有值剪除剩下的部分为右子树，如果根数据中的编号不含0，那么将左子树从根数据中剪除。对数据进行基于原背景数据疑心度计算分别为 $k e y _ { \# } \setminus k e y _ { \iota }$ 和 $k e y _ { _ R }$ 。
+
+假设 $e = k e y _ { _ { \# } } { - } \big ( k e y _ { _ { L } } + k e y _ { _ { R } } \big )$ ，根据式(1)将其展开得到式(2)。
+
+$$
+\begin{array} { l } { { \displaystyle e = s _ { _ L } ( \ln { \frac { s _ { _ L } } { S } } - 1 ) + S { \frac { n _ { _ L } } { N } } - s _ { _ L } \ln { \frac { n _ { _ L } } { N } } + s _ { _ R } ( \ln { \frac { s _ { _ R } } { S } } - 1 ) + S { \frac { n _ { _ R } } { N } } } } \\ { { \displaystyle - s \ln { \frac { n _ { _ R } } { N } } - s _ { _ { \mathrm { \scriptscriptstyle { \text H } } } } ( \ln { \frac { s _ { _ { \scriptscriptstyle { \mathrm { H } } } } } { S } } - 1 ) - S { \frac { n _ { _ { \scriptscriptstyle { \mathrm { H } } } } } { N } } + s _ { _ { \scriptscriptstyle { \mathrm { H } } } } \ln { \frac { n _ { _ { \scriptscriptstyle { \mathrm { H } } } } } { N } } } } \end{array}
+$$
+
+定理1如果根数据是完全异常或者完全非异常，那么$k e y _ { \scriptscriptstyle \# } \geq k e y _ { \scriptscriptstyle L } + k e y _ { \scriptscriptstyle R } \ ,$ 。
+
+证明
+
+情况1假设根数据是完全异常，则 $\lambda _ { _ { \mathrm { R } } } \approx \lambda _ { _ { L } } \approx \lambda _ { _ { R } } > > \lambda$ ，而且是采用切割的方法，则 $n _ { { } _ { L } } + n _ { { } _ { R } } < n _ { { } _ { \# } }$ 。因为 $\lambda = { \frac { s } { - } }$ ，所以将式(2)n化简得到式(3)。
+
+$$
+e = ( \lambda _ { _ { \mathrm { R } } } \ln { \lambda _ { _ { \mathrm { R } } } } - \lambda _ { _ { \mathrm { R } } } \ln { \lambda } - \lambda _ { _ { \mathrm { R } } } + \lambda ) ( n _ { _ { L } } + n _ { _ R } - n _ { _ { \mathrm { R } } } )
+$$
+
+因为 $n _ { { } _ { L } } + n _ { { } _ { R } } - n _ { { } _ { \# } } < 0$ ，
+
+所以要证 $e < 0$ ，只要证 $\lambda _ { \scriptscriptstyle \mathrm { R } } \ln \lambda _ { \scriptscriptstyle \mathrm { R } } - \lambda _ { \scriptscriptstyle \mathrm { R } } \ln \lambda - \lambda _ { \scriptscriptstyle \mathrm { H } } + \lambda > 0$ 将式(3)整理得到式(4):
+
+$$
+e = \left( \ln { \left( \frac { \lambda _ { _ { \mathrm { R } } } } { \lambda } \right) ^ { \lambda } } + \ln { \left( \frac { \lambda _ { _ { \mathrm { R } } } } { \lambda \cdot e } \right) ^ { \lambda _ { _ { \mathrm { R } } } \cdot \lambda } } \right) \left( n _ { _ L } + n _ { _ R } - n _ { _ { \mathrm { H } } } \right)
+$$
+
+由于 $\lambda _ { \ast } > > \lambda$ ，则 $\frac { \lambda _ { \ast } } { \lambda } > 1 , \frac { \lambda _ { \ast } } { \lambda \cdot e } > 1$ 0
+
+所以e>0。
+
+情况2如果根数据是完全非异常，则 $\lambda _ { _ { \parallel } } \approx \lambda _ { _ { L } } \approx \lambda _ { _ { R } } \approx \lambda$ ，所以 $e \approx 0$ 综合情况1和2可以得到
+
+$$
+e = k e y _ { \scriptscriptstyle \mathrm { H } } - \big ( k e y _ { \scriptscriptstyle \mathrm { L } } + k e y _ { \scriptscriptstyle \mathrm { R } } \big ) \geq 0 \mathrm { , } \mathbb { A } \mathrm { I } ] k e y _ { \scriptscriptstyle \mathrm { H } } \geq k e y _ { \scriptscriptstyle \mathrm { L } } + k e y _ { \scriptscriptstyle \mathrm { R } }
+$$
+
+证毕。
+
+定理2如果根数据含有异常集合，则 key根<key,+ key。证明：将式(2)化简可得式 (5):
+
+$$
+\begin{array} { r l } & { e = s _ { _ { L } } \ln \lambda _ { _ { L } } + s _ { _ { R } } \ln \lambda _ { _ { R } } - s _ { _ { \scriptscriptstyle \mathrm { H } } } \ln \lambda _ { _ { \scriptscriptstyle \mathrm { H } } } - \ln \lambda ( s _ { _ { L } } + s _ { _ { R } } - s _ { _ { \scriptscriptstyle \mathrm { H } } } ) } \\ & { + ( s _ { _ { L } } + s _ { _ { R } } - s _ { _ { \scriptscriptstyle \mathrm { H } } } ) - \lambda ( n _ { _ { L } } + n _ { _ { R } } - n _ { _ { \scriptscriptstyle \mathrm { H } } } ) } \end{array}
+$$
+
+原数据为稀疏张量，所以有
+
+$$
+s _ { { \scriptscriptstyle L } } + s _ { { \scriptscriptstyle R } } - s _ { { \scriptscriptstyle \# } } \approx \lambda ( n _ { { \scriptscriptstyle L } } + n _ { { \scriptscriptstyle R } } - n _ { { \scriptscriptstyle \# } } ) \approx 0 ~ _ { \circ }
+$$
+
+对于包含异常集合的非完全异常块，必然存在非异常部分，因此有 $\lambda _ { _ L } > \lambda _ { _ \mathrm { H } }$ ，且 $\lambda _ { \mathrm { } _ { R } } > \lambda _ { \mathrm { } _ { \# } }$ ，所以
+
+$e \approx s _ { _ { L } } \ln \lambda _ { _ { L } } + s _ { _ R } \ln \lambda _ { _ { R } } - ( s _ { _ L } + s _ { _ R } ) \ln \lambda _ { _ { \scriptscriptstyle \mathrm { R } } } = s _ { _ L } \ln \frac { \lambda _ { _ { L } } } { \lambda _ { _ { \scriptscriptstyle \mathrm { R } } } } + s _ { _ R } \ln \frac { \lambda _ { _ { R } } } { \lambda _ { _ { \scriptscriptstyle \mathrm { R } } } } > 0$ 证毕。
+
+# 3 仿真实验
+
+为了验证本文提出的算法的有效性，进行了大量实验，实验中首先对比了本文算法和相关异常集合检测的运行效率问题，然后重点对比本文提出的DDB-DST算法和文献[12]提出的 M-zoom算法对于多异常集合检测的结果召回率和准确率分析。本文所有的算法均采用R语言编程实现，实验环境为PC机，装有Intel(R)Core(TM)i5-2450M，CPU频率 $2 . 5 \ : \mathrm { G H z }$ 内存4GB,运行Windows732位操作系统。本文所采用的数据集在表2中给出，其中LBNL 数据集来自Lawrence Berkeley National Lab提供的公开网络包，数据集 AirForce 数据集来自1999KDDCup的网络包数据。S-Data-2和S-Data-3分别是含有若干异常集合的合成数据集。
+
+# 3.1合成数据集仿真
+
+本节中通过合成数据集S-Data-2D和S-Data-3D来比较本文算法和M-zoom 算法对异常集合的检测效果。S-Data-2D：基于ERP 模型根据如下参数生成随机数据集：(1)维度 $\mathrm { K } = 2$ ，(2)尺寸 $5 0 0 ^ { * } 5 0 0$ ，(3)Possion 分布 $\lambda { = } 0 . 0 1$ 。在随机生成的数据集中注入3个维度为2的异常集合，异常集合的尺寸分别为$1 0 ^ { * } 1 0 , 2 0 ^ { * } 2 0 , 3 0 ^ { * } 3 0$ 。任务是将这三个异常集合从随机生成的数据集中检测出来。表3给出了CSBST 算法和M-zoom的检测结果。S-Data-3D:继续根据下列参数生成高维数据集：(1)维度$\mathrm { K } { = } 3$ ，（2）尺寸 $5 0 0 ^ { * } 5 0 0 ^ { * } 5 0 0$ ，，(3)Possion分布的 $\lambda { = } 0 . 0 1$ 。在数据集中生成3个维度为3的异常集合，异常集合的尺寸分别为 $1 5 ^ { * } 1 0 ^ { * } 1 5 , 1 0 ^ { * } 1 0 ^ { * } 1 0 , 2 0 ^ { * } 1 0 ^ { * } 3 0$ 。表3给出了DDB-DST算法和M-zoom 的检测结果。
+
+表2数据集汇总  
+
+<html><body><table><tr><td>数据集</td><td>维度</td><td>大小</td></tr><tr><td>S-Data-2D</td><td>2</td><td>83.5K</td></tr><tr><td>S-Data-3D</td><td>3</td><td>512.3K</td></tr><tr><td>LBNL 数据集</td><td>4</td><td>3.73M</td></tr><tr><td>AirForce(10%)</td><td>7</td><td>64.6M</td></tr></table></body></html>
+
+表3三种算法在合成数据集上的比较   
+
+<html><body><table><tr><td>数据集</td><td colspan="3">S-Data-2D</td><td colspan="3">S-Data-3D</td></tr><tr><td>性能指标</td><td>准确率</td><td>召回率</td><td>F1</td><td>准确率</td><td>召回率</td><td>F1</td></tr><tr><td>DDB-BST</td><td>0.924</td><td>0.964</td><td>0.944</td><td>0.935</td><td>0.952</td><td>0.943</td></tr><tr><td>M-zoom</td><td>0.538</td><td>0.988</td><td>0.697</td><td>0.512</td><td>0.981</td><td>0.673</td></tr><tr><td>CrossSpot</td><td>0.560</td><td>0.540</td><td>0.550</td><td>0.610</td><td>0.524</td><td>0.563</td></tr></table></body></html>
+
+表4用DDB-BST算法检测网络入侵结果  
+
+<html><body><table><tr><td rowspan="2">数据集</td><td rowspan="2">数据体积</td><td rowspan="2">连接 次数</td><td>网络异 常连接</td><td>网络 异常</td></tr><tr><td>次数</td><td>所占 比例</td></tr><tr><td rowspan="2">LBNL</td><td>3610*472*49*35</td><td>111253</td><td>110532</td><td>99.4%</td></tr><tr><td>3610*81*1100*331</td><td>56848</td><td>55192</td><td>97.1%</td></tr><tr><td rowspan="2">AirForce</td><td>3×66×11×3×1×224×36</td><td>376229</td><td>375411</td><td>99.7%</td></tr><tr><td>3×66×11×12×7×184×106</td><td>36791</td><td>35826</td><td>97.3%</td></tr><tr><td></td><td>3×66×11×297×278×24×25</td><td>10241</td><td>9815</td><td>95.8%</td></tr></table></body></html>
+
+表5DDB-BST 算法在真实数据集下同 M-zoom 和CrossSpot 的比较  
+
+<html><body><table><tr><td colspan="2">数据集</td><td colspan="2">LBNL</td><td colspan="3">AirForce</td></tr><tr><td>性能评价</td><td>准确率</td><td>召回率</td><td>F1值</td><td>准确率</td><td>召回率</td><td>F1值</td></tr><tr><td>DDB-BST</td><td>0.986</td><td>0.973</td><td>0.974</td><td>0.940</td><td>0.982</td><td>0.961</td></tr><tr><td>M-zoom</td><td>0.612</td><td>0.998</td><td>0.759</td><td>0.524</td><td>0.987</td><td>0.685</td></tr><tr><td>CrossSpot</td><td>0.542</td><td>0.564</td><td>0.553</td><td>0.572</td><td>0.612</td><td>0.591</td></tr></table></body></html>
+
+# 3.2真实数据集仿真
+
+通过两个真实的数据集证明了DDB-BST算法的有效性。LBNL数据是由4个标称属性和1个数值属性组成。标称属性是时间(s)，源IP地址，目标IP地址和端口号。数值属性数据是发包数量。AirForce 数据集不同于LBNL数据集它并不包含IP 信息，包含了七个属性分别是：protocol、service、src bytes、dst bytes、flag、court、srv count，数值属性是连接次数。
+
+表4展示了在真实数据集中DDB-BST 算法对于网络攻击检测的结果，可以发现异常集合通常是由多种网络攻击组成的，而在标称属性组成的高维张量数据中，发包数量或者是连接次数组成的密集部分的正是异常部分。表5展示了在LBNL和AirForce 数据集中，DDB-BST 算法对其检测性能评价以及同M-zoom 和CrossSpot 的比较，从表中可以看出DDB-DST算法比 M-z00m 算法F1 值提高了 $2 0 \%$ ，比CrossSpot 算法F1 值提高了 $40 \%$ ，主要是因为上述所示的两种方法只是找到评价指标最高的张量数据集，但评价指标最高并不能保证数据集中全是异常数据，而DDB-BST 算法还要对这样的数据集进一步的判别来保证检测出的数据集中不含有异常数据。
+
+# 4 结束语
+
+本文研究了高维张量数据中多密集块的检测方法，提出了一种基于二叉树的多密集块检测算法，给出了二叉树生长的条件，并证明了条件的合理性。实验结果表明上述算法具有很高的准确率及召回率。
+
+# 参考文献：
+
+[1]Maruhashi K, Guo F,Faloutsos C.Multi aspect forensics: pattern mining on large-scale heterogeneous networks with tensor analysis [C]//Proc of International Conference on Advances in Social Networks Analysis and Mining.2011: 203-210.   
+[2]Shah N,BeutelA,Gallagher B,et al. Spoting suspicious link behavior with fBox:an adversarial perspective [C]//Proc of Robot World Cup XVIII. Springer Interantional Publishing,2014:295-305.   
+[3]Rodrigues T,Cunha T,IencomD,et al.Retweet patterns: detection of spatiotemporal patterns of retweets [M]// New   
+[4]Advances in Information Systems and Technologies.[S.1.] :Springer International Publishing,2016.   
+[5] 王越，张剑金，刘芳芳．一种多特征微博僵尸粉检测方法与实[J]．中 国科技论文,2014(1):81-86.   
+[6]Shin K,Kang U.Distributed methods for high-dimensional and large-scale tensor factorization [C]//Proc of IEEE International Conference on Data Mining.2015: 989-994.   
+[7]Papalexakis E E,Faloutsos C,Sidiropoulos N D.ParCube: sparse parallelizable tensor decompositions [J].Acm Transc tions on Knowledge Discovery from Data,2012,10(1): 521-536.   
+[8]Jeon I,Papalexakis E E,Kang U,et al.HaTen2:billion-scale tensor decompositions [C]//Proc of International Conference on Data Engineering. 2015:1047-1058.   
+[9]Lee VE,Ning R, Jin R,et al.A survey of algorithms for dense subgraph
+
+discovery[M]//Managing and Mining Graph Data 201O:303-336   
+[10] Balalau OD,BonchiF,Chan THH,etal.Finding subgraphs with maximum total density and limited overlap [C]//Proc of the 8th ACM International Conference on Web Search and Data Mining.New York:ACMPress,2015: 379-388.   
+[11] Sariyuce AE,Seshadhri C,PinarA,et al. Finding the hierarchy of dense subgraphs using nucleus decompositions [C]// Proc of International Conference on World Wide Web.2015:927-937.   
+[12]朱鎔，邹兆年，李建中．不确定图上的 Top-k稠密子图挖掘算[J]．计算 机学报,2016,39(8):1570-1582.   
+[13]Bahmani B,Kumar R,Vassilvitskii S.Densest subgraph in streaming and MapReduce [J].Computer Science,2012: 454-465.   
+[14]Bahmani B,GoelA,Munagala K.Efficient Primal-dual graph algorithms for MapReduce [M]//Algorithms and Models for the Web Graph.Springer International Publishing,2014: 59-78.   
+[15] Jiang M,BeutelA,CuiP,et al.A General Suspiciousness Metric for Dense Blocks in Multimodal Data [C]//IEEE International Conference on Data Mining.2015: 781-786.   
+[16] Shin K,Hooi B,Faloutsos C.M-zoom: fast dense-block detection in tensors with quality guarantees [M]// Machine Learning and Knowledge Discovery in Databases.2016   
+[17] Jiang M,Beutel A,CuiP,et al. Spoting suspicious behaviors in multimodal data: a general metric andalgortihms [J].IEEE Trans on Knowledge & Data Engineering,2016:1

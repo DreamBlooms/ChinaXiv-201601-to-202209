@@ -1,0 +1,580 @@
+[
+    {
+        "type": "text",
+        "text": "30a青海省公路可达性及县域经济联系格局演化",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨晓敏，李玲琴，付建新（1青海师范大学青海省自然地理与环境过程重点实验室,青海西宁810008;2青海师范大学地理科学学院,青海西宁810008)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：采用加权平均旅行时间、引力模型与克里金插值、XYto line、自然间断点分级法、分级符号等GIS分析方法，以1986年、1995年、2004年、2016年为时间断面，分析了青海省公路网络中43个主要节点城镇的可达性及县域经济联系格局的演化规律,结论为：1986—2016年,青海省公路网络等可达性线呈现不规则的半环状分布，影响因素主要有位置、交通、经济及其时间距离等，可达性插值表现为交通主干道指向性；青海省公路网络可达性水平均有提升，可达性值的变化呈现相似性与差异性并存的特点;1986—2016年，青海省经济联系强度与对外经济联系总量均呈现增长态势，尤其经济联系总量增长愈来愈快;前五等级的经济联系强度与前三经济联系总量的县域基本集中于西宁、海东地区,体现出青海省典型的“单核”城市空间结构,省会城市辐射带动作用明显;经济联系强度、经济联系总量与可达性均呈现正相关。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：可达性；经济联系；空间格局；青海省中图分类号：F503 文献标识码：A 文章编号",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "可达性的概念最早由HANSEN[1]提出,之后许多学者[2-3]对其概念进行了研究,定义为人类活动空间分离的测度，也就是使用一种特殊的交通系统从给定的一个区位到达活动地点的便捷程度。GU-TIERREZ先后对欧洲等公路可达性进行了研究[4]。曹小曙等以东莞为例研究了交通网络的演化及其对区域通达性的影响[5]；徐的等以江苏省为例，分析了高等级公路网络的演化及引起通达性空间格局的变化[6]；曹小曙等分析了我国干线公路网对城市可达性的影响；吴威等以长三角和安徽为研究区域，探讨了公路网络的可达性空间格局及其演化规律[8-9]  \n。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "经济联系研究是人文地理学研究的重点内容，尤其经济联系与交通可达性的综合研究近年来较为普遍。国外学者ZIPF首次将万有引力模型引入到城市体系研究中，之后多位学者使用此模型或者修正模型对旅客流[10]等进行了研究;国内学者利用引力模型对上海与苏锡常地区[1]、深圳与珠三角地区[12]、河南[13]、江苏[14]、浙江[15]、山西[16]等区域的经济联系进行了测度分析。青海省位于青藏高原地区，经济发展水平低，全省39个县为精准扶贫的对象，与全国共同进入小康社会的步伐相距甚远，所以在现阶段研究公路可达性及经济联系具有重要的现实与战略意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究区概况与经济概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文以青海省为研究区域，共包括43个城镇作为研究节点。青海省由于自然[17-19]、经济等原因,长期以来交通较为落后[20],公路在全省的交通网络中一直占有重要地位，公路通车里程与路网密度（以国土面积来衡量公路网密度)不断增加，1985 年$( 1 . 5 9 3 \\times 1 0 ^ { 4 } \\ \\mathrm { k m } \\cdot 2 . 2 1 \\ \\mathrm { k m } \\cdot ( 1 0 0 \\ \\mathrm { k m } ^ { 2 } ) \\ ^ { - 1 } \\ )$ ）、1995年$( 1 . 7 2 2 \\times 1 0 ^ { 4 } \\ \\mathrm { k m } \\cdot 2 . 3 9 \\ \\mathrm { k m } \\cdot ( 1 0 0 \\ \\mathrm { k m } ^ { 2 } ) \\ ^ { - 1 }$ ）、2005年$( 2 . 9 7 2 \\times 1 0 ^ { 4 } \\ \\mathrm { k m } \\cdot 4 . 1 3 \\ \\mathrm { k m } \\cdot ( 1 0 0 \\ \\mathrm { k m } ^ { 2 } ) \\ ^ { - 1 }$ )、2015年（ $( 7 . 5 5 9 \\times 1 0 ^ { 4 } \\ \\mathrm { k m } \\ 、 1 0 . 5 0 \\ \\mathrm { k m } \\cdot ( 1 0 0 \\ \\mathrm { k m } ^ { 2 } ) ^ { \\ - 1 } \\$ )，尤其近$1 0 \\mathrm { ~ a ~ }$ 通车里程与线路密度均增加了1.5倍多。以人口数量来衡量公路网密度，1985—1995 年 $1 0 \\mathrm { ~ a ~ }$ 间公路里程增长速度低于人口增长速度，公路网密度在降低，而1995—2015 年 $2 0 \\mathrm { ~ a ~ }$ 间由于公路建设不断投入,使得公路网密度由 $3 5 . 7 ~ \\mathrm { k m } \\cdot ( 1 0 ^ { 4 } \\wedge ) ^ { - 1 }$ 增加到了 $1 2 8 . 4 7 ~ \\mathrm { k m } \\cdot ( 1 0 ^ { 4 } \\textstyle \\bigwedge ) ^ { - 1 }$ 。目前，国道为5条，分别为 $\\operatorname { G 1 0 9 } \\phantom { + } , \\operatorname { G 2 1 4 } \\phantom { + } , \\operatorname { G 2 1 5 } \\phantom { + } , \\operatorname { G 2 2 7 } \\phantom { + } , \\operatorname { G 3 1 5 }$ ，合计里程为$4 ~ 5 0 8 ~ \\mathrm { k m }$ ;省道为29条，合计里程为 $8 ~ 7 1 7 ~ \\mathrm { k m }$ ;高速公路里程为 $2 \\ 6 6 2 \\ \\mathrm { k m }$ 。目前，青海省公路网络初步形成了以高速公路、国道、省道、县乡道等不同等级为主的公路网络。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "截至2015年底，全省GDP总值为 $2 ~ 4 1 7 . 0 5 \\times$ ${ 1 0 } ^ { 8 }$ 元,产业结构中,第一产业总值为 $2 0 8 . 9 3 \\times 1 0 ^ { 8 }$ 元，占到 $8 . 6 4 \\%$ ;第二产业总值为 $1 \\ 2 0 7 . 3 1 \\times 1 0 ^ { 8 }$ 元，占到 $4 9 . 9 5 \\%$ ,其中工业总产值占到 $3 7 . 0 0 \\%$ ；第三产业总值为 $1 \\ 0 0 0 . 8 1 \\times 1 0 ^ { 8 }$ 元,占到 $4 1 . 4 1 \\%$ ；三次产业对总产值的贡献率分别为 $4 . 9 0 \\%$ ， $6 0 . 4 0 \\%$ 、$3 4 . 7 0 \\%$ ,其中工业的贡献率为 $4 3 . 5 6 \\%$ ;青海省由于地处青藏高原，海拔整体较高，热量不足，种植业只分布在河湟谷地，农业以粗放型畜牧业为主，农业产值较低；工业是对生产总值增长拉动 $( 3 . 5 6 \\%$ )的主要因素，青海省矿产资源丰富，包括盐湖类、有色金属、石油、天然气等，风能、光能资源也较丰富。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法与数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.1可达性测度方法该方法为节点到其它中心节点加权平均旅行时间[8],公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { i } = \\frac { \\displaystyle \\sum _ { j = 1 } ^ { n } \\left( T _ { i j } \\times M _ { j } \\right) } { \\displaystyle \\sum _ { j = 1 } ^ { n } M _ { j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $A _ { i }$ 为可达性值; $T _ { _ { i j } }$ 为节点 $i$ 到 $j$ 的最短旅行时间； $M _ { j }$ 为节点 $j$ 的权重（GDP总量）； $n$ 为除 $i$ 点以外节点总数； $A _ { i }$ 越小，可达性水平越好，反之亦然。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.2经济联系引力模型不同区地区域或城市之间的经济联系强度既反映了中心地区或城市对周围地区或城市的辐射能力，也反映了周围地区或城市对中心区域或城市的接受能力，所以反映的是相互作用能力。文章引入了引力模型，公式为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { i j } = ( { \\ \\sqrt { P _ { i } G _ { i } } } \\times { \\sqrt { P _ { j } G _ { j } } } ) \\ / \\ D _ { i j } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $R _ { i j }$ 为两个地区或城市之间的经济联系强度;$P _ { i } \\setminus P _ { j }$ 为两地区或城市的人口规模; $G _ { i \\setminus } G _ { j }$ 为两地区或城市的地区生产总值； $D _ { _ { i j } }$ 为两地区之间的最短旅",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "行时间。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { i } = \\sum _ { j = 1 } ^ { n } \\ R _ { i j }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $R _ { i }$ 为对外经济联系总量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2数据来源与处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "依据1986年地图出版社出版的《中国分省公路交通地图集》、1995年测绘出版社出版的《中国交通地图集》、2004年人民交通出版社出版的《实用中国交通图册》和2016年中国地图出版社出版的《中国交通地图册》交通图为数据来源；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据《中华人民共和国公路工程技术标准（JTG—2003）》的公路设计，结合不同时期青海省公路实际情况，设定不同类型公路平均速度：1986年油面干线公路 $5 0 ~ \\mathrm { k m } \\cdot \\mathrm { h } ^ { - 1 }$ 、干线公路和油面普通公路 $4 0 \\ \\mathrm { k m } \\cdot \\mathrm { h } ^ { - 1 }$ 、普通公路 $3 0 \\ \\mathrm { k m } \\cdot \\mathrm { h } ^ { - 1 }$ ;1995年，国道 $6 0 \\ \\mathrm { k m } \\cdot \\mathrm { h } ^ { - 1 }$ 、省道 $4 0 \\ \\mathrm { k m } \\cdot \\mathrm { h } ^ { - 1 }$ 、县乡道 $3 0 ~ \\mathrm { k m } ~ \\$ ：$\\mathrm { ~ h ~ } ^ { - 1 } ; 2 0 0 4$ 年高速公路 $1 0 0 \\ \\mathrm { k m } \\cdot \\mathrm { h } ^ { - 1 }$ 、国道 $7 0 ~ \\mathrm { k m } \\cdot \\mathrm { \\Omega }$ $\\mathbf { h } ^ { - 1 }$ 、省道 $5 0 \\ \\mathrm { k m } \\cdot \\mathrm { h } ^ { - 1 }$ 、县乡道路 $4 0 \\ \\mathrm { k m } ; 2 0 1 5$ 年高速公路(快速路) $1 0 0 \\ \\mathrm { k m } \\cdot \\mathrm { h } ^ { - 1 }$ 、国道 $8 0 ~ \\mathrm { k m } \\cdot \\mathrm { h } ^ { - 1 }$ 、省道 $6 0 ~ \\mathrm { k m } \\cdot \\mathrm { h } ^ { - 1 }$ 、县乡道路 $4 0 \\ \\mathrm { k m } \\cdot \\mathrm { h } ^ { - 1 }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文中所采用的各市、地区、县等人口数据、地区生产总值等社会经济数据均来自于青海省统计年鉴，为了更准确的体现出各两两城镇之间的经济联系强度，虽然30a行政区划有所变化，但是统一使用的是最新的行政区划。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于青海省的43个节点的最短旅行时间与对外经济联系总量采用克里金插值的方法进行处理，可达性值、经济联系强度、对外经济联系总量的分类使用了自然间断点分级法，两两节点之间的经济联系强度采用了GIS分析方法的XYtoline分析工具。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3公路网络可达性空间格局及其动态演化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "首先利用公式（1)计算出青海省43个城镇不同时间断面的加权平均旅行时间，四个时间断面的权重均采用的是2014年各城镇的GDP，主要是为了更加显著地突出公路网络演化对可达性的影响，再利用ArcGIS中的克里金(Kriging)插值方法得出青海省公路网络的等可达性线空间分布格局（图1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 可达性空间格局",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）可达性水平在空间分布上总体表现出以西宁市和海东市为中心向其它地区递减的趋势，等可达性线呈现不规则的半环状分布（图1）。可达性水平高（可达性低值区）的城镇均位于西宁及其周边和海东，从东向西向南可达性逐渐变差;由于其所处地理位置偏远，襄谦、杂多、治多、茫崖可达性最差，表现出距离衰减规律。从整体上来看，青海省公路可达性表现为东北部优于西南部。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f9170a4d19f8e53eaa4627156791ab161bb936a615fd6797b449fa0cca052689.jpg",
+        "img_caption": [
+            "图11986—2016 年青海省公路网络可达性格局演化",
+            "Fig.1Evolution of spatial structure of road accessbility in Qinghai Province during 1986 to 2016 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）研究期间西宁市和海东市的可达性一直最好，尤其西宁市最高，影响因素主要有地理位置、交通状况、城镇的经济及其与其它城市的时间距离等。西宁市并不在青海省的几何中心，但其交通发达，四个时间断面的公路网络均形成了以西宁市为中心的放射状公路网络，加上西宁市的GDP(2014年）占到全省GDP的 $3 3 . 5 3 \\%$ 左右，所以西宁可达性水平最高。西宁、湟源、湟中、平安和大通一直位于前五位（2004年大通位于第六位）。处于西部与南部的冷湖、茫崖、班玛、称多、久治、玉树、曲麻莱、治多、杂多、囊谦的可达性差。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（3）四个时间断面的可达性插值呈现交通主干道指向性，比如国道，尤其在2016年高速公路里程增加到一定长度时，高速公路对可达性的影响尤为明显。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 可达性动态演化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）研究期间青海省43个节点的公路网络可达性水平均有提升。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从整体上来看，青海省43个节点加权平均旅行总时间，由（1986年） $5 3 8 . 1 2 \\mathrm { ~ h ~ }$ 依次减少到（1995年） $4 1 7 . 5 5 \\mathrm { ~ h ~ }$ 、(2004年） $3 4 6 . 6 8 \\mathrm { ~ h ~ }$ 、(2016年)266.11h,依次减少了 $1 2 0 . 5 6 \\mathrm { ~ h ~ } . 7 0 . 8 7 \\mathrm { ~ h ~ } . 8 0 . 5 7 \\mathrm { ~ h ~ }$ ;城镇平均加权旅行时间由 $1 2 . 5 1 \\mathrm { ~ h ~ }$ 、依次减少到 $9 . 7 1 \\mathrm { ~ h ~ } . 8 . 0 6$ $\\mathrm { ~ h ~ } , 6 . 1 9 \\mathrm { ~ h ~ }$ ;说明青海省公路随着等级提高，路面平整程度改进,道路宽度增加，路网密度增大，公路基础设施完善，公路可达性整体水平在不断提高。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从具体节点来看，囊谦县的可达性水平提高最快，可达性值由 $2 6 . 1 6 \\mathrm { ~ h ~ }$ 减少到 $1 2 . 8 4 \\mathrm { ~ h ~ }$ ,减少了$1 3 . 3 1 \\mathrm { ~ h ~ }$ ,年均减少 $0 . 4 4 \\mathrm { ~ h ~ }$ ;西宁市的可达性水平一直最高且稳定，可达性值减少的最慢，由 $4 . 9 9 \\mathrm { ~ h ~ }$ 减少到 $2 . 4 5 \\mathrm { ~ h ~ }$ ,减少了 $2 . 5 4 \\mathrm { ~ h ~ }$ ,年均减少 $0 . 0 8 \\mathrm { ~ h ~ }$ ;天峻县可达性的变化率最高为 $5 9 . 7 4 \\%$ ,平均可达性变化率为 $5 1 . 1 1 \\%$ ,其中24个节点城镇的可达性变化率在 $5 0 \\%$ 以上，久治县的可达性变化率最低为$4 3 . 9 8 \\%$ ;到研究期末，各节点的平均可达性值为6.19,其中27个城镇的可达性值均低于均值，占到全部节点城镇的 $6 2 . 7 9 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从三个时间段来看，各城镇平均可达性值分别减少了 $2 . 8 0 \\ \\mathrm { h } ( 2 2 . 3 8 \\%$ ） $\\cdot 1 . 6 5 \\mathrm { ~ h ~ } ( 1 6 . 9 9 \\%$ ）、1.87h$( 2 3 . 2 0 \\%$ ）,年均分别减少 $0 . 3 1 1 \\mathrm { ~ h ~ } , 0 . 1 6 5 \\mathrm { ~ h ~ } , 0 . 1 5 6$ h ；第一阶段变化的原因是公路路面平整，公路加宽，等级提高等;第二阶段变化最小，主要原因是民和、乐都、平安、西宁之间的高速公路修建和道路速度提升，其它原因对可达性水平的影响较弱；第三个阶段变化较大，归因于高速公路大范围的修建，包括道路里程与路网密度的增加，使得公路网络平均速度大幅度提高，可达性水平提高较快。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（2）可达性值的变化呈现相似性与差异性并存的特点。相似性体现在大致由东北向西、向南逐渐递减的趋势（图2）。其变化趋势与城镇的原始可达性水平有关，可达性水平越高变化越小（图1)。差异性体现在分阶段上，第一阶段（图2a），青海省东部可达性值的变化趋势呈现民和、西宁、都兰、格尔木一线和祁连、刚察、兴海、达日一线组成的“十\"字形，西部地区逐渐向西、向南数值增大，其中囊谦的变化最大。由于以前的油面干线公路和干线公路变为国道与省道，等级与速度的提高，使得沿主干道的城镇可达性明显提高，比如格尔木、乌兰、都兰、共和等。囊谦由以前的普通公路变为国道，使得其可达性水平提高最快；第二阶段（图2b），东北部形成以西宁、湟中、湟源、大通、门源、海晏为中心的不规则同心圆，西南部等可达性线大致呈西北一东南走向；西宁、平安、乐都、民和之间出现了高速，可达性水平高;其它地区只在公路等级与速度有提高，可达性维持原始数据状态；高值区变化大，低值区变化小；第三阶段(图2c），东部地区等可达性线呈现半环状，西部地区等值线为南北走向。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/068e67cfb92abf939937b68d8f439ded63e90f7ca25f1603ec98d0893476812c.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea1aba8dbded8ca657d36fabc05d72994d0cca10763d42dae73244368b261731.jpg",
+        "img_caption": [
+            "图21986—2016年青海省公路网络格局可达性值变化Fig.2 Change of road accessibility values in QinghaiProvince during 1986 to 2016"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4ca2cf5832e7d40eec777d2d1cf6f13a5dc781378929a69e5d64d7c33613a376.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a32e7d18ef1bfe1136d49daaf4f9c6e2e16141aac070a08b83426f2f3a9c6320.jpg",
+        "img_caption": [
+            "图31986—2016年青海省公路网络格局可达性值变化率Fig.3Rate of road accessibility changes in QinghaiProvince during 1986 to 2016"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（3）可达性值变化率等值线的空间分布呈现了主干道比如国道、高速公路指向性。第一阶段（图3a)呈现了“多级模式”，形成了西宁低值区，格尔木较低值区，天峻、囊谦的高值区；第二阶段（图3b），民和、乐都变化率最高，主要是因为该阶段民和、乐都高速公路的修建；第三阶段（图3c），由南向北变化率逐渐变大，并且出现了以同仁、泽库为中心的高值区和以大柴旦及其附近为中心的较高值区，充分体现了高速公路的修建对于公路交通可达性的影响，由于北部地区高速公路的修建，所以北部地区的变化率高于南部。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4经济联系空间格局及其演化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1 经济联系强度空间格局及其演化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "首先对社会经济数据与加权平均旅行时间数据进行整理，利用公式(2)计算两县域之间的经济联系强度，列数据矩阵，再利用ArcGIS中Arctoolbox的XYtoline分析工具，得出每两个县域之间的连线，依据自然间断点分级法(Jenks)分为6类，分别得到4个年份的经济联系强度图（图4）。由于青海省特殊的省情，“省会独大”现象突出，为了更全面反映全省县域的经济联系强度，所以对（图4)中的第六级经济联系强度进行了再分类（图5）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "六级经济联系强度轴线：四个时间断面的一级经济联系强度轴线除了2004年为西宁一湟中、西宁一大通、西宁一平安轴线外，其余三个年份均为西宁一湟中、西宁一大通轴线，说明西宁对湟中、大通的辐射带动作用强，经济联系密切；二级经济联系强度轴线除了1995年，其余三个年份均有西宁一互助轴线，除了2004年，其余三个年份均有西宁一平安轴线，1995年与2004年均有西宁一乐都轴线，2004年与2016年均有西宁—互助轴线，1995年还有大通一互助轴线；三级经济联系强度轴线四个年份均有西宁一湟源轴线，1986年与2016年均有西宁—乐都轴线，1995年与2004年均有西宁—民和、乐都一民和、平安一乐都、湟中一大通轴线,1986 年与2004 年均有大通一互助轴线，1995年还有西宁一互助轴线;四级与五级轴线大部分为西宁市与海东市其它县域之间的经济联系轴线;六级经济联系强度轴线(图5)整体上表现出东北部经济联系强度优于西部与南部;但是显示出向西部、北部、南部扩展的变化趋势，尤其是向西部扩展的趋势更加明显",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "经济联系强度表现出以下特征：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）1986—2016年各个县域的经济联系强度整体上表现出增长态势。四个时间断面的平均经济联系强度分别为21853.87（单位： $1 0 4 \\times 1 0 ^ { 4 }$ 人 $\\times 1 0 ^ { 8 }$ 元 $\\times \\mathrm { h } ^ { - 2 }$ ,以下单位相同）、98 321.95、619310.15、8654197.13，分别增加了 $7 6 ~ 4 6 8 . 0 8 ~ . 5 2 0 ~ 9 8 8 . 2 0 ,$ 8034886.98；总的经济联系强度分别为19734 044.94、88 784 723.38、559 237 063.75、7814740009.68，分别增加了69050678.44、470452340.36、7255502945.93，平均值与总值分别增加了3.50倍.5.30倍、12.97倍。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（2）县域的经济联系强度空间分布差异明显。西宁与湟中、大通的经济联系强度一直处于前两位，前十位中西宁与县域的经济联系强度就占了七个，其余五个县域为互助、平安、乐都、湟源、民和，充分显示出西宁作为青海省等级规模最高的城市，青海省“单核模式”的空间结构辐射带动作用的强大，同时也显示出其为青海省政治、经济、文化等中心的优势；总体上东南部的与西北部的、东南部与西南部的经济联系强度较低，比如：久治、称多与茫崖、冷湖，久治与治多、杂多，主要由于其区位处在全省的边缘，与其它城镇的空间距离较远。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（3）经济联系强度与经济发展水平关系密切。四个时间断面的经济联系强度排在前四位的都是西宁与其它县域的联系，这与西宁的经济发展水平高关系密切，西宁四个时间断面的GDP占全省GDP总量的比重分别为 $4 2 . 2 0 \\% . 3 5 . 3 3 \\% . 2 7 . 6 0 \\%$ 、$3 3 . 5 3 \\%$ ，一直居于第一位;湟中与大通四个时间断面的GDP占全省GDP总量的比重分别为 $5 . 3 8 \\%$ 与$5 . 6 0 \\%$ $. 4 . 7 5 \\%$ 与 $8 . 6 7 \\% 4 . 4 7 \\%$ 与 $8 . 4 5 \\%$ $, 6 . 9 6 \\%$ 与 $4 . 5 9 \\%$ ，位次分别为第三与第二、第五与第二、第五与第三、第三与第四，所以西宁与湟中、大通的经济联系强度一直处于前两位。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（4）经济联系强度与可达性水平成正比关系（图6）。前五级经济联系强度与第一级的可达性水",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e7887f721fb5bd85e54291adc80b1110d862747b039563a970af4d8aad61b9b4.jpg",
+        "img_caption": [
+            "图41986—2016 年青海省县域经济联系强度空间格局演化"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Spatialpattrm variationof economy contact strength atthecountyscale in Qinghai Province from1986 to 2016 ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9c79c49a6ac19727ad62b5b59ffcf01ba6066be04cc37f1aef4eaf52665b4ce0.jpg",
+        "img_caption": [
+            "图51986—2016年青海省县域经济联系强度空间格局再分类"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.5Spatial patternreclasificationofeconomycontact strengthatthecountyscalein Qinghai Provincefrom1986 to2016平基本集中于西宁与海东;1986—2016 年第一级的可达性值大致变化情况为 $5 \\sim 8 \\ \\mathrm { h } \\lrcorner 4 \\sim 6 \\ \\mathrm { h } \\lrcorner 3 \\sim 5 \\ \\mathrm { h }$ ，",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$2 . 5 \\sim 3 . 8 \\mathrm { ~ h ~ }$ ,可达性水平不断提高；前五级经济联系强度大致变化情况为44312.44～5193801.36、",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "81141.58\\~23 809 752.54、1 325 823.68\\~111683211.80、15895158.75\\~2835268587.00，四个时间断面的经济联系强度不断提高；说明可达性水平高的区域，经济联系强度同样较高，而且可达性水平的变化趋势与经济联系强度的变化趋势一致。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(5）第六级经济联系强度(图5)向西部扩展的趋势明显的原因是西部地区经济发展迅速，以及西部地区高速公路的通车使得该地区交通可达性的提高等原因。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过分析全省的经济联系强度分布格局可知，青海省是典型的省会及其周边地区独大的城市空间格局，这种格局的优势是辐射带动其它地区的能力强,缺点是导致其它地区发展缓慢，经济发展水平与省会及其周边地区的差距会拉大；通过分析第六级经济联系强度可知，西部、北部、南部的经济联系强度也在逐步的加强，这些地区的经济发展与省会及其周边地区的差距正在逐步的缩小。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2 经济联系总量空间格局及其演化",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过公式(3)计算可以得到青海省各个县域的经济联系总量，由于青海省特殊的省情，人口、经济等主要集中于西宁与海东，所以为了全面的反映全省的经济联系总量，采用自然间断点分级法（Jenks）将其分为十个等级，并且通过克里金插值法，做出了经济联系总量整体空间分布演化图（图7）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "各个县域经济联系总量表现出如下特征：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）1986—2016年各个县域经济联系总量整体上表现为增长的态势，并且增长趋势越来越明显。四个时间断面的经济联系总量之和分别为：39 468 089.88（单位： $1 0 ^ { 4 } \\times 1 0 ^ { 4 }$ 人 $\\times 1 0 ^ { 8 }$ 元 $\\times \\mathrm { h } ^ { - 2 }$ ，以下单位相同） $, 1 7 7 \\ 5 6 9 \\ 4 4 6 . 7 7 , 1 \\ 1 1 8 \\ 4 7 4 \\ 1 2 7 . 5 0 ,$ （20415629261755.71，三个时间段分别增加了138101 356.89、940 904 680.73、14 510 787 628.21,分别增长了3.50倍、5.30倍、12.97倍，这与各个县域的经济发展水平的提升，陆路交通的改善，城市化",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/63243f5c18844a53a865b3c762c7fefc2730762b778d68d35dd358adcac3bd3d.jpg",
+        "img_caption": [
+            "图61986一2016年青海省公路网络可达性与城市经济联系强度轴线叠加图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.6Overly ofroad accesibilityand economy contact strength between counties in Qinghai Provincefrom 1986 to 20 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "冷湖茫做大荣日 大柴旦德令哈 天 阿察 海晏 催令哈 察海曼 大通福 深源 乌兰 皇源共和 湟中格尔木 都兰 格尔木提德兴海贵南 同仁 海贵南 同同德 洋牌 问偿 清玛多 马多玛沁 玛沁  \n(a)1986年 国家茶 称多 uiu 久治 (b)1995年 治多 曲麻莱 达地·杂多 玉柯 杂多 玉科0 170 km 囊谦 0 170 km对外经济联系总量 对外经济联系总量:1 321.26\\~2 663.22 1321.26\\~1 631.08 1315.26\\~8 118.04 1315.26\\~11537.87  \n：2 663.23\\~4 152.28 1631.08\\~2 618.69 ： 8 118.05\\~19 077.33 11 537.87\\~14 619.13  \n·4 152.29\\~9 951.17 2 618.69\\~5 766.85 ·19 077.34\\~54 496.39 14 619.13\\~24 841.73  \n·9 951.18\\~24 850.13 5766.85\\~15 802.13 ·54496.40\\~130 204.03 24 841.73\\~58 756.98  \n·24 850.14\\~119 865.86 15802.13\\~47 791.19 ·130 204.04\\~241615.03 58 756.98\\~171 276.61  \n·119 865.87\\~240 023.81 47791.19\\~149 761.50 ·241 615.04\\~707 971.19 ■171 276.61\\~544 579.73  \n·340 023.82\\~1 751 180.45 149 761.50\\~474 808.34 ·707971.20\\~1907 284.07 544579.73\\~1783076.72  \n·1 751180.46\\~3 567421.43 474 808.34\\~1510 947.70 ·1907284.08\\~12 409 703.75 1 783 076.72\\~5 892 002.43  \n·3567421.44\\~6 546150.48 1510947.70\\~4813 809.45 ·12409 703.76\\~34339 055.17 5892 002.43\\~19524066.62  \n·6 546 150.49\\~15 342 215.29 4813 809.45\\~15 342 215.29 · 34339 055.18\\~64750 772.39 19 524 066.62\\~64750 772.39冷湖 冷大柴旦 大柴机德令哈 天 刚察 德冬哈 天 大油兰 A 烂 漫格杀木 都兰 舒源 格示木 都兰 清源贵他兴海贵南 州 兴海贵南 H阿偿 诚湘 H 泽车玛多 玛多玛沁 豌山味来 达 菜 达甘  \n(c)2004年 久治 (d)2016年 久治称多 秘多装 玉树 五柯0 170 km 0 170 km1对外经济联系总量 对外经济联系总量57158.51\\~281 035.47 57158.51\\~76174.18 308 551.01\\~1091 453.31 308 551.01\\~491 222.72  \n： 281 035.48\\~713 433.22 76 174.18\\~131 024.74 :1091453.32\\~3 203 310.72 491 222.72\\~1 050 699.95  \n·713 433.23\\~1 373 701.44 131024.74\\~289240.80 ·3203 310.73\\~6929289.92 1050 699.95\\~2 764 237.11  \n·1373 701.45\\~2 936178.33 289 240.80\\~745 613.86 ·6929 289.93\\~12 499 771.71 2 764 237.11\\~8 012 367.75  \n·2 936178.34\\~6 526673.53 745 613.86\\~2 062 018.62 ·12499 771.72\\~81512.539.04 8 012 367.75\\~24086 063.68  \n·6 526 673.54\\~12 758 830.08 ■2 062 018.62\\~5 859 178.55 ·81 512 539.05\\~155 245 63.99 ■ 24 086 063.68\\~73 315 726.30  \n·12 758 830.09\\~28 361925.83 5859178.55\\~16 812 058.64 ·155 245 364.00\\~684 018 245.78 73315726.30\\~224093723.64  \n·28 361925.84\\~73188 473.42 16 812 058.64\\~48 405 561.33 ·684018 245.79\\~1608 065 560.14 224 093 723.64\\~685 888 569.85  \n·73188473.43\\~165490374.56 ■48 405 561.33\\~139 536 789.27 ·1608 065 560.15\\~3 377 060 007.16685 888 569.85\\~2 100 249 310.53  \n·165490374.57\\~402 404151.14139 536 789.27\\~402 404151.14 ·3377 060 007.17\\~6432 078 306.002 100 249 310.53\\~6432 078 306.00",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.7Spatial pattern variationof economycontact volumeat thecounty scale in Qinghai Province from1986 to 2016 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "水平的提高等原因有关。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（2）西宁一直是青海省经济联系总量最大的城镇，体现了青海省是典型的“单核”城市空间结构，西宁作为省会，具有人口、经济、交通、城镇化水平等巨大优势，是全省的经济增长极，辐射作用巨大。西宁的四个时间断面经济联系总量分别为15342215.29、64750 772.39、402404151.14、6432078306.00，比第二位的值分别大8796064.81、30411717.22、236 913776.59、3055018 298.84，西宁市四个时间断面的经济联系总量分别大致相当于后40位、后40位、后39位、后41位的经济联系总量之和，所以经济联系总量出现极化现象。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）除了西宁以外，其它县域的经济联系总量也均有提高，只是在位次上有波动变化。湟中、大通在第2、3位次波动，互助、乐都、平安、湟源、民和在第4\\~8位次波动，化隆一直处于第9位次，格尔木四个时间断面的位次依次为第26、23、21、21，稳中上升的趋势，久治、茫崖、杂多在第 $4 0 \\sim 4 3$ 位次波动变化。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（4）全省西部与南部的边缘县域基本一直处于经济联系总量薄弱的趋势。西部地区的茫崖、冷湖，南部地区的杂多、久治、甘德，为县域经济联系总量弱的地区，其原因主要和距离省会城市较远、交通可达性差，经济发展水平低、人口数量少等有关。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（5）通过四个时间断面的插值图分析可以看出，经济联系总量整体上呈现东北独强、西北与南部极弱的特征，两级分化现象较为明显，东北部地区的经济联系紧凑型尤为突出，说明东北部地区的经济联系比其它地区强，提升的速度也快。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（6）可达性水平与经济联系总量的分布（图8）、时空变化趋势均大致呈现正相关的关系。从分布来看，可达性低值区即可达性水平高的区域经济联系总量同样也高;西宁可达性水平最高，其经济联系总量也最高，西宁四个年份的可达性值分别为$4 . 9 9 \\ \\mathrm { h } \\ . 3 . 9 5 \\ \\mathrm { h } \\ . 3 . 3 0 \\ \\mathrm { h } \\ . 2 . 4 5 \\ \\mathrm { h }$ ,经济联系总量分别为15342 215.29、64750 772.39、402404151.14、6432078306.00；可达性水平较高的海东，其经济联系总量仅次于西宁；而位于边缘地区的茫崖、杂多等县可达性水平差，经济联系总量也差；从时空演化来看,可达性水平大致由东北向西、向南递减,经济联系总量同样变现出此变化趋势;30a间每个县域的可达性水平均有所提高，经济联系总量也同样在提高。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（7）通过对青海省DEM地形图与2016年经济联系强度轴线图、对外经济联系总量图的叠加，得出经济联系与地形叠加图（图8）。前五级的经济联系强度轴线与前三位的经济联系总量基本位于地势相对较低的地形上。位于湟水谷地的西宁、民和、乐",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a)1986年 (b)1995年  \n0 170 km 0 170km  \n经济联系总量 可达性水平 经济联系总量 可达性水平·1 321.26\\~2 663.22 ■4.99\\~5.64 ·1 315.26\\~8 118.04 3.95\\~4.60·2 663.23\\~4152.28 5.64\\~6.45 ·8 118.05\\~19 077.33 ■4.60\\~5.37·4 152.29\\~9 951.17 ■6.45\\~7.46 ·19 077.34\\~54496.39 ■5.37\\~6.30·9 951.18\\~24 850.13 ■7.46\\~8.71 ·54 496.40\\~130 204.03 ■6.30\\~7.4124 850.14\\~119 865.86 8.71\\~10.28 ·130 204.04\\~241 615.03 7.41\\~8.74·119 865.87\\~340 023.81 ■10.28\\~12.23 ·241 615.04\\~707 971.19 ■8.7410.32\\~·340 023.82\\~1 751 180.45 ■12.23\\~14.66 ·707 971.20\\~1907 284.07 10.32\\~12.23·1 751180.46\\~3 567 421.43 14.66\\~17.69 ·1 907 284.08\\~12 409 703.75 12.23\\~14.503 567421.44\\~6 546 150.48 17.69\\~21.46 ·12 409 703.76\\~34 339 055.17 14.50\\~17.23?6546150.49\\~15342215.29 21.46\\~26.16 34339055.18\\~64750772.39 17.23\\~19.51(c)2004年 (d)2016年  \n0 170 km 0 170 km  \n经济联系总量 可达性水平 经济联系总量 可达性水平·57 158.51\\~281 035.47 3.30\\~3.83 ·308 551.01\\~1091453.31 2.45\\~2.72·281035.48\\~713433.22 ■3.83\\~4.47 ·1091453.32\\~3 203 310.72 2.72\\~3.09·713 433.23\\~1373 701.44 ■4.47\\~5.24 ·3 203 310.73\\~6 929 289.92 3.09\\~3.59·1 373 701.45\\~2 936178.33 ■5.24\\~6.16 ·6929 289.93\\~12 499 771.71 ■3.59\\~4.26·2 936 178.34\\~6 526 673.53 ■6.16\\~7.26 ·12 499 771.72\\~81512 539.04 ■4.26\\~5.16·6 526 673.54\\~12 758 830.08 7.26\\~8.57 ·81 512 539.05\\~155245 363.99 5.16\\~6.39·12 758 830.09\\~28 361 925.83 8.57\\~10.15 ·155245364.00\\~684 018 245.785 6.39\\~8.04·28 361925.84\\~73 188473.42 ■10.15\\~12.03 ·684 018 245.79\\~1 608 065 560.14 8.04\\~10.26·73 188 473.43\\~165 490 374.56 12.03\\~14.29 ·1 608 065 560.15\\~3 377 060 007.16 10.26\\~11.91165490374.57\\~402404151.14 14.29\\~16.17 3377 060007.17\\~6432078306.0011.91\\~13.13",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.8Overlyof road accessibilityand economycontact volume between counties in Qinghai Province from 1986 to 2016 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "经济联系强度-级经济联系强度二级经济联系强度三级经济联系强度  \n一四级经济联系强度  \n一五级经济联系强度 经济联系总量六级经济联系强度 · 308 551.01\\~1091453.31  \n高程/m 1091453.32\\~3203310.72·3203.31073\\~6929289.92高：6578低：1014 ·6929289.93\\~12499771.71·12499771.72\\~81512539.04·81512539.05\\~155245363.99155245364.00\\~684018245.780 170 km 684018 245.79\\~1608 065 560.141 1 1608065560.15\\~3377060007.163377060007.17\\~6432078306.00",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "都、平安、湟源的经济联系总量均处在前四级，位于黄河谷地的贵德与尖扎、循化经济联系总量分别处于第五级与第六级；平均海拔 $4 ~ 0 0 0 ~ \\mathrm { ~ m ~ }$ 以上的玉树藏族自治州的县域(6个)与果洛藏族自治州(6个)（玛沁为第九等级)的县域经济联系总量均处于第十等级;位于湟水谷地的西宁、民和、乐都、平安、湟源之间的经济联系强度轴线均处于前四等级；由于青海省地处青藏高原，整体海拔较高，地势较低的地形成为了城镇发育、形成、壮大的重要影响因素，同时地形也成了制约因素；前三个时间断面的经济联系与地形同样存在此关系。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5结论与讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5.1讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（1）因为区域本身是一个开放的系统，文章只对青海省公路网络的可达性做了研究，没有考虑与其它省区的联系；一个城镇的可达性应该从综合交通网的角度考虑，比如铁路、航空等，这也是本文没有涉及到的；今后要考虑研究这两方面的问题。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（2）经济联系的影响因素是多方面的，文章只在特征中穿插了几点分析，以后可以单独分析其影响因素；文章经济联系采用的指标只用了GDP与人□，以后可以采用综合指标。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5.2结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "文章采用加权平均旅行时间、引力模型、GIS分析方法对青海省县域可达性与经济联系做了详细的分析，结论如下：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（1）青海省公路网络可达性空间格局总体表现出以西宁市和海东市为中心向其它地区递减的趋势，等可达性线呈现不规则半环状分布；受到经济、交通等因素影响，使得西宁在研究期间可达性水平最高;从整体上来看，青海省43个节点的公路网络可达性水平均有提升，从三个不同时间段来看，各城镇平均可达性值均在减少，但是其原因不同;可达性值的变化表现出相似性与差异性并存的特点；可达性值变化率等值线分布同样呈现主干道指向性。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（2）各个县域的经济联系强度与对外经济联系总量整体上表现出增长态势。西宁与湟中、大通的经济联系强度一直排在前两位，西宁的经济联系总量也是最大，主要是因为西宁的交通、城市化水平、经济发展水平最高，辐射带动作用的强大；西部与南部地区的经济联系总量较小，与其处在边缘地区的地理位置、经济发展水平低等有关;经济联系强度、对外经济联系总量与可达性均呈正相关关系。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1] HANSEN Walter G.How accessibility shapes land use[J]. Journal of the AmericanInstitute of Planners,1959,25(2):73-76. [2] 杨家文，周一星.通达性：概念，度量及应用[J].地理学与国土 研究,1999,15(2）:62-67.[YANG Jiawen,ZHOU Yixing.Accessibility:Concept,measurement and application[J].Geography and Territorial Research,1999,15(2）:62-67.] [3] 李平华,陆玉麒.可达性研究的回顾与展望[J].地理科学进 展,2005,24（3）:69-78.［LI Pinghua,LU Yuqi.Review and prospectation of accessibility research[J].Progress in Geography,   \n2005,24(3):69-78.] [4] GUTIERREZ J,URBANO P.Accessibility in the European union : The impact of the trans-European road network［J].Journal of Transport Geography,1996,4（1）:15-25. [5]曹小曙,阎小培.经济发达地区交通网络演化对通达性空间格 局的影响—以广东省东莞市为例[J］.地理研究,2003.22 (3）:305-312.[CAO Xiaoshu,YAN Xiaopei.Landnetwork spatial structure developed areas:Dongguan City in Guangdong Province[J].Geographical Research,2003,22(3）:305-312.] [6］徐的,陆玉麒.高等级公路网建设对区域可达性的影响：以江 苏省为例[J].经济地理,2004.24（6）：830-833.[XUDi，LU Yuqi.Impacts of the trunk highway system on a accessibility of the municipalities in Jiangsu Provice[J].Economic Geography,2004,   \n24(6):830-833.]   \n[7］曹小曙，薛德升，阎小培.中国干线公路网络联结的城市通达 性[J].地理学报,2005.60(6）:903-910.[CAOXiaoshu,XUE Desheng,YAN Xiaopei.A study on the urban accessibility of national trunk highway system in China[J].Acta Geographica Sinica,2005.60(6):903-910.]   \n[8］吴威,曹有挥,曹卫东,等.长江三角洲公路网络的可达性空间 格局及其演变［J].地理学报,2006,61（10）：1065－1074. [WU Wei,CAO Youhui,CAO Weidong,et al. Spatial structure and evolution of highway accessibility in the Yangtze River Delta [J].Acta Geographica Sinica,2006,61（10）,1065-1074.]   \n[9］吴威,曹有挥,曹卫东,等.区域高速公路网络构建对可达性空 间格局的影响——以安徽沿江地区为实证[J].长江流域资源 与环境,2007,16（6）:726-731.[WUWei,CAO Youhui,CAO Weidong,et al. Impact of regional expressway network on the accessibility pattern:The case of the belt along the Yangtze River in Anhui Provice[J].Resources and Environment in The Yang TZe Basin,2007,16(6):726-731.]   \n[10]RUSSON M G,FAROK Vakil.Population.Convenience and distance decay in a short-haul model of United States air transportation[J].Journal of Transport Geography,1995,3（3）:179- 185.]   \n[11］王德忠,庄仁兴.区域经济联系定量分析初探—以上海与苏锡 常地区经济联系为例[J].地理科学,1996,16（1)：51－57. [WANG Dezhong,ZHUANG Renxing.The preliminary probe into the quantitative analysis of regional economic links:A case study on economic links between Su-Xi-Chang and Shanghai[J].Scientia Geographica Sinica,1996,16(1） :51-57.]   \n[12］李国平,王立明,杨开忠.深圳与珠江三角洲区域经济联系的 测度及分析[J].经济地理,2001,21（1）:33-37.[LI Guoping, WANG Liming,YANG Kaizhong.The measurement and analysis of economic relationship between Shenzhen and Zhujiang Delta[J]. Economic Geography,2001,21(1）:33-37.]   \n[13］孟德友,陆玉麒.高速铁路对河南沿线城市可达性及经济联系 的影响[J].地理科学,2011,31（5）,537-543.[MENGDeyou, LU Yuqi.Impact of high-speed railway on accessibility and economic linkage of cities along the railway in Henan Province,China [J].Scientia Geographica Sinica,2011,31(5）,537-543.]   \n[14］孟德友,陆玉麒.基于引力模型的江苏区域经济联系强度与方 向[J].地理科学进展,2009,28（5）,697-704.[MENG Deyou, LU Yuqi. Strength and direction of regional economic linkage in Jiangsu Province based on gravity model[J].Progress in Geography,2009,28(5):697-704.]   \n[15］徐维祥,陈斌,李一曼.基于陆路交通的浙江省城市可达性及 经济联系研究[J].经济地理,2013,33（12）：49－53.［XU Weixiang,CHEN Bin,LI Yiman.The accessibility and eco-nomic linkage of urban areas in Zhejiang Province based on land communication[J].Economic Geography,2013,33（12）:49-53.]   \n[16］史琴琴,康江江,鲁丰先,等.山西省县域可达性及城市经济联 系格局[J].地理科学进展,2016,35（11）,1340-1351.［SHI Qinqin,KANG Jiangjiang,LU Fengxian,et al.Accessibility and urban economic linkages of counties in Shanxi Province[J].Progress in Geography,2016,35（11）:1340 -1351.]   \n[17］张志忠,杨大庆.乌鲁木齐河流域积雪状况及其对公路的影响 [J].干旱区地理,1992,15（4）:78-84.[ZHANG Zhizhong, YANG Daqing.Seasonal snow cover and its effect to the highway transportation in the Urumqi River Basin[J].Arid Land Geography,1992,15(4) :78-84.]   \n[18］杨发相,穆桂金,雷加强,等.新疆地貌及其过程对公路交通建 设的影响[J].干旱区地理,2004,27（4）：525－529.［YANG Faxiang,MU Guijin,LEI Jiaqiang,et al. Influences of the landforms and their processes on the construction of highways in Xinjiang[J].Arid Land Geography,2004,27(4） :525-529.]   \n[19］王绍令,林清,赵林.青康公路(国道214 线)沿线的多年冻土 [J].干旱区地理,1999,22（2）:42-49.[WANG Shaoling,LIN Qing,ZHAO Lin.Permafrost along the Qing-kang Highway（national highway no.214)[J].Arid Land Geography,1999,22（2）： 42 -49.]   \n[20］李玲琴,马海州.青海交通建设与社会经济发展研究[J].干旱 区地理,1996,19(1）:78-80.[LILingqin,MA Haizhou. Study on the traffic construction and the social economic development in Qinghai Province[J].Arid Land Geography.1996,19（1）:78- 80.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Pattern variation of accessibility and economy contact at the county scale in Qinghai Province from 1986 to 2016 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "YANG Xiao-min12，LILing-qin12，FuJian-xin12 (1Key Laboratory of Qinghai Province Physical Geography and Environmental Process,Qinghai Nomal University, Xining,810008,China ; 2College of Geography Science,Qinghai Nomal University,Xining,81oo08,China;) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Due to the natural geographical location,economic and other reasons,the trafic of Qinghai Province, China isrelatively backward,the highway has been located atavery important position inthe transportation network of Qinghai Province in the long time.This paper takes 1986,1995,2004 and 2016asthe time section,obtains Qinghai Province highway traffic networkdata based on Arcgis spatial analysis module,and analyzes the accessibility and evolutionof the43 main points in the cities of Qinghai Province highway network using the weighted average travel time method,the spatial pattrnof Kriging interpolationmethod.As a whole,the level of accessbilityinthe spatial distribution showsadecreasing trend from Xining Cityand Haidong Cityto other parts of the province,and the contour accessbility line presents a semi annular irregular distribution.The accessibilityof Xining City and Haidong Cityis the best during the study period,especiallitisthe highest in XiningCity.Themain factors impactingthe accesibilityincludethegeographical location,traffcconditions,urbaneconomicandsoon.Theaccessibility interpolation shows the directivity of traffc trunk road.Accessbilitydynamic evolution shows that theroad network accesibility levelsof the43 nodes have been increased in Qinghai Provinceand the variation of accessibility represents concomitant characteristics of similaritiesand diferences.The spatial distribution of thecontour accesibility linevariation ratio shows trunk road directivity，such as the national highwayand the motorway.Thesimilarity shows a declining trend from the northeast tothe westand the south region of theprovince.But there were diferences in the level of the accessibility in three research stages.During 1986—2O16,the economic linkage intensity and economy linkage volumeamong thecounties in Qinghai Province has shown a growing trend,especially he total volume of economy linkage grows faster and faster.The economic linkage intensity of the top fiveand the economy linkage volumeof the top three mainly concentrate in Xining and Haidong City.It reflects the typical“single core\" urban spatial structure of Qinghai Province,and theradiationand leading efect ofthe provincial administrative centeris very obvious.There is apositive corelation between the accessibilityand economic linkage intensityorvolume in the region. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Key words:accessibility ；economic linkage；spatial pattern；Qinghai Province ",
+        "page_idx": 11
+    }
+]

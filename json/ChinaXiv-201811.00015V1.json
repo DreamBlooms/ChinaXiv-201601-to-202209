@@ -1,0 +1,426 @@
+[
+    {
+        "type": "text",
+        "text": "长期膜下滴灌棉田残膜变化趋势研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "贺怀杰²，王振华1²，郑旭荣1²，张金珠¹²，李文昊,²(1．石河子大学水利建筑工程学院,新疆 石河子832000；2．现代节水灌溉兵团重点实验室,新疆 石河子832000）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为探寻棉田土壤中残膜污染状况以及覆膜30a棉田土壤中的残膜分布趋势,对试验区121团覆膜年限分别为5a $\\cdot ^ { 9 }$ a $\\phantom { + } \\cdot 1 1$ a $\\phantom { + } \\cdot 1 3$ a、15a和 $1 9 \\mathrm { ~ a ~ }$ 共6块棉田进行取样研究。运用Matlab 程序构建BP神经网络模型,对取样数据进行分层预测和整体预测,结果表明：运用模型对残膜面积和质量数据进行整体预测,能够更好地反映实际情况下残膜在棉田土壤中的分布趋势,能够精准地预测本地区覆膜30a棉田土壤中地膜残留状况;同时随着覆膜年限的增加,土壤表层大面积残膜在耕地作业下逐年碎裂,并向深层土壤移动，在 $3 0 \\sim 4 0 \\ \\mathrm { c m }$ 深度的土壤中逐年残留。通过预测得到覆膜30a棉田残膜密度达到 $4 1 9 . 1 9 \\ \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ ,超出国家标准限值 $7 5 . 0 ~ \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ 近6倍,为解决此问题可以覆盖厚度大于 $0 . 0 1 0 ~ \\mathrm { m m }$ 的农用地膜,并提高地膜回收率来保证棉田的可持续发展。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：典型绿洲区；BP神经网络；棉田；残膜污染；残膜密度；可持续发展；石河子",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "20世纪70年代后期，塑料膜覆盖技术引进中国，在干旱缺水的新疆地区地膜覆盖技术被用来提高地温、保持土壤水分和控制杂草生长，同时能够改善作物的生态环境和加快作物生长发育的作用[1-4],并且覆膜种植粮食和经济作物产量可分别增长 $20 \\% \\sim 3 5 \\%$ 和 $20 \\% \\sim 6 0 \\%$ [5],该项技术带来了农业生产方式的改变和农业生产力的飞跃[6-7]。在新疆地区地膜覆盖技术已逐渐推广应用到40多种农作物的种植上，尤其在棉花种植方面应用广泛，地膜使用量呈现持续增长的趋势，因此土壤中残膜污染问题在植棉区尤为突出[8]。自 2000 年以来新疆地区地膜覆盖强度呈直线上升趋势，特别是在植棉区,地膜在土壤里能够残留 $2 0 0 \\sim 4 0 0 \\mathrm { ~ a } ^ { [ 9 ] }$ ,土壤中残留的地膜导致土壤孔隙度降低、影响土壤中水分运动[10-12],导致土壤酶活性和微生物多样性显著下降[1],并可能导致土壤肥力下降[13],影响作物种子发芽和作物幼苗的生长[14-15],最终导致作物减产,同时耕作层中残膜仍然具有吸附农药的性质[16]残留地膜通过改变土壤理化性质来影响棉花的根系生长[17-18]，增加温室气体的排放[4]。许多学者[19 -23]通过研究可降解生物地膜和地膜回收机械来解决农田地膜残留问题，并取得一定成果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为了解棉田土壤残膜分布规律及累积趋势，国内学者(24-25]通过 BP 网络模型建立地下水埋深模型，对当地灌区地下水位下降趋势进行了精准预测；也有学者(26-27]通过 BP 网络精准预测了水肥等因素与作物根系、产量之间的关系。以上学者研究表明，在农业工程方面应用BP神经网络解决各影响因素之间呈现高度非线性问题的研究是可行的。因此，本文选取试验区121团6块棉田取样数据为样本，运用Matlab软件构建4层BP神经网络模型预测 $3 0 \\mathrm { ~ a ~ }$ 棉田地膜残留状况，为治理棉田残膜污染问题提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究区位于石河子市121团，地处天山北麓、古尔班通古特大沙漠南缘，玛纳斯河中游下野地垦区，地理位置 $8 5 ^ { \\circ } 0 1 ^ { \\prime } \\sim 8 6 ^ { \\circ } 3 2 ^ { \\prime } \\mathrm { E } , 4 3 ^ { \\circ } 2 7 ^ { \\prime } \\sim 4 5 ^ { \\circ } 2 1 ^ { \\prime } \\mathrm { N }$ ，平均海拔 $3 3 7 \\mathrm { ~ m ~ }$ ,属于温带大陆性气候，年平均降雨量$1 4 2 ~ \\mathrm { { m m } }$ ，年平均蒸发量 $1 8 2 6 ~ \\mathrm { \\ m m }$ ，日照时数$2 ~ 8 6 0 ~ \\mathrm { h }$ ,平均无霜期 $1 6 3 \\mathrm { ~ d ~ }$ ,年平均气温 $6 . 2 ~ \\mathrm { ^ { 9 } C }$ 。试验区121团是新疆应用膜下滴灌技术最早的团场[28]，目前,全团棉田种植均采用此技术,试验区取样地块平面分布见图1。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/312b5f39268f6c7ca46fcdf1aedfbe297d3b6d7ad30c42020d7cfc04d5c0db07.jpg",
+        "img_caption": [
+            "图1试验区取样地块平面分布",
+            "Fig.1Distribution of sample plots in the experimental area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 采样方法与数据获取",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验区棉田均为“一膜三管六行”机采棉种植方式。为充分了解试验区棉田残膜污染状况，选定6块不同年份覆膜棉田(5a、9a、11a、13a、15a和$1 9 \\mathrm { ~ a ~ }$ )进行取样研究，周边棉田以问卷调查方式获取地膜使用量和回收量等数据。取样的棉田在开垦种植之前均为盐碱荒地，分布集中，覆膜和管理模式基本相同，地膜回收力度一致，同时取样棉田灌水施肥制度均相同。2016年9月棉花采摘完毕后，在未耕地之前的每块地随机选取样点（包括窄行、宽行和膜间），取样尺寸为 $1 2 0 ~ \\mathrm { c m } \\times 4 0 ~ \\mathrm { c m } \\times 4 0 ~ \\mathrm { c m }$ ,进一步将样块分割成尺寸为 $1 0 \\ \\mathrm { c m } \\times 1 0 \\ \\mathrm { c m } \\times 5 \\ \\mathrm { c m }$ 。将每个样块装入封口袋并编号、带回试验室人工处理。用超声波清洗仪（乐创LC－CXJ01）对残膜进行清洗（大于 $3 0 ~ \\mathrm { m i n }$ )，之后小心展开卷曲的残膜，放在干燥阴凉处阴干后用 $1 / 1 0 \\ 0 0 0$ 天平测量地膜质量;再将展开的残膜置于带尺子的A4纸张上，用相机（佳能EOS80D)拍照,最后用Adobe Photoshop CS6 处理后得到残膜面积。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "地膜残留在土壤耕作层的主要影响因素有内因和外因：内因是地膜材料厚度，外因是覆膜强度及回收力度。因此，本文所建立的BP神经网络地膜残留预测模型中，在覆膜强度和回收力度相近的情况下，以每个取样点的每层数据作为神经网络的输入，同时以地膜实际残留量作为神经网络的输出。通过人工剥离土壤中残膜,得到取样棉田的残膜面积和质量数据集（ $5 \\ \\mathrm { c m }$ 为1层)（表1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/d1a4cc6a34c225518d2bfcb0b6cf756b3ff8988546dae33c5be6556574f45e13.jpg",
+        "table_caption": [
+            "表1取样棉田不同覆膜年限各层土壤残膜面积和残膜质量",
+            "Cab.1Areas and qualityof residual film in soil in cotton fields with different film-mulched ye& "
+        ],
+        "table_footnote": [
+            "注：不同字母表示样品间差异显著( $\\lceil P < 0 . 0 5 \\rceil$ 。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">土层深度 /cm</td><td colspan=\"10\"></td></tr><tr><td colspan=\"2\">5a</td><td colspan=\"2\">9a</td><td colspan=\"2\">11 a</td><td colspan=\"2\">13a</td><td colspan=\"2\">15a</td><td colspan=\"2\">19 a</td></tr><tr><td>残膜面 积/cm²</td><td>残膜质 量/mg</td><td>残膜面 积/cm²</td><td>残膜质 量/mg</td><td>残膜面 积/cm²</td><td>残膜质 量/mg</td><td>残膜面 积/cm²</td><td>残膜质 量/mg</td><td>残膜面 积/cm²</td><td>残膜质 量/mg</td><td>残膜面 积/cm²</td><td>残膜质 量/mg</td></tr><tr><td>0~5</td><td>1 207.8b</td><td>2 310.9b</td><td>1 476.8a</td><td>2 660.5c</td><td>1 388.3b</td><td>2 470.6bc</td><td>1 266.0c</td><td>2 381.5b</td><td>1 271.9c</td><td>2 242.1ab</td><td>1 341.2b</td><td>2 379.8a</td></tr><tr><td>5~10</td><td>673.8d</td><td>1 215.9d</td><td>1 251.4a</td><td>1 995.2cd</td><td>1 162.0b</td><td>2 107.9c</td><td>1 110.7bc</td><td>2 791.3b</td><td>1 091.1c</td><td>3 005.2a</td><td>1 152.5b</td><td>3 352.7a</td></tr><tr><td>10~15</td><td>538.4d</td><td>1009.8e</td><td>758.4c</td><td>1 879.9d</td><td>982.8b</td><td>2 055.5c</td><td>991.2a</td><td>2 368.3a</td><td>981.2b</td><td>2 563.6b</td><td>1 050.0b</td><td>2 778.3ab</td></tr><tr><td>15~20</td><td>315.7d</td><td>710.3d</td><td>653.3c</td><td>1 599.0c</td><td>877.0a</td><td>1 687.3b</td><td>869.0ab</td><td>1888.7a</td><td>878.9b</td><td>1975.7ab</td><td>894.8b</td><td>2 152.9a</td></tr><tr><td>20~25</td><td>300.2c</td><td>510.5c</td><td>476.7b</td><td>1 153.3b</td><td>676.2a</td><td>1 196.8b</td><td>671.5ab</td><td>1 110.9b</td><td>679.3ab</td><td>1 211.5ab</td><td>707.6a</td><td>1 214.7a</td></tr><tr><td>25~30</td><td>156.9c</td><td>444.0c</td><td>401.0b</td><td>932.3b</td><td>493.6ab</td><td>969.5b</td><td>487.2ab</td><td>905.4b</td><td></td><td>465.4ab 1065.2a</td><td>564.9a</td><td>1090.3ab</td></tr><tr><td>30~35</td><td>0c</td><td>0d</td><td>213.6b</td><td>468.8b</td><td>266.3a</td><td>458.1a</td><td>225. 1a</td><td>447.4c</td><td>216.4b</td><td>494.3b</td><td>255.7a</td><td>484. 4bc</td></tr><tr><td>35~40</td><td>0d</td><td>0d</td><td>10.9c</td><td>71.8cd</td><td>23.1b</td><td>84.5c</td><td>36.9ab</td><td>170.6b</td><td>47.8a</td><td>228.3a</td><td>55.5a</td><td>250.5a</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 BP神经网络",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "BP神经网络算法解决了多层网络模型中隐含层的连接权问题，有效提升了神经网络的自学习和组织能力，是目前应用较多的一种前馈式学习算法与反向传播算法的神经网络[29-30]；也通过误差反传误差反向传播算法的学习过程，由信息的正向传播和误差的反向传播两个过程组成，使用误差梯度下降的方式修正各层权值，不断调整直到网络输出的误差减少到可以接受的程度，或者预先设定的学习次数为止[31]。本文结合 Matlab 软件构建 BP 神经网络预测模型（图2），根据样本容量选择4层BP神经网络，经过反复训练数据之后选择隐层单元数为10个，为保证良好的训练拟合和预报结果，一般选择学习速率 $( l r )$ 在 $0 . 0 1 \\sim 0 . 1$ 之间，为保证训练稳定性故选取 $l r = 0 . 0 1$ 。笔者首先对样本进行标准化预处理,通过newff 函数设置隐层为10、选择 tansig和purelin两个函数作为传递函数，结合trainlm函数作为训练函数，统一设置迭代次数为50次、r为0.01、设置残膜面积训练和预测的目标精度为0.01、残膜质量训练和预测的目标精度为0.001；最终对数据进行训练，提取出权值和阈值并对数据进行归一化，再仿真得到输出后反归一化处理。在BP模型训练过程中，由于神经网络每次运行时会随机生成权值和阈值，导致每次结果均有差异，多次运行网络训练过程中选择输出结果较好的参数，使预测结果更精准。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/faf4161fafd4d36a1ea50bb51b17480f324a44d6e000ba111be9d065b2455ed4.jpg",
+        "img_caption": [
+            "图2神经网络拓扑图",
+            "Fig.2Topological graph of neural network "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分析处理残膜面积和质量数据，结合Matlab软件构建4层BP模型来预测覆膜 $3 0 \\mathrm { ~ a ~ }$ 棉田土壤中的残留状况，试验区最长覆膜滴灌棉田年限为 $1 9 \\mathrm { ~ a ~ }$ ，为保证预测精准，故选取 $3 0 \\mathrm { ~ a ~ }$ 作为预测对象。5a地块耕作年限较短，在耕作层 $3 0 \\sim 4 0 \\ \\mathrm { c m }$ 中无地膜残留，故将5 $\\mathrm { ~ ; ~ a ~ , ~ } 9 \\mathrm { ~ a ~ , ~ } 1 1 \\mathrm { ~ a ~ , ~ } 1 3$ a和 $1 5 \\mathrm { ~ a ~ }$ 地块 $0 \\sim 3 0 ~ \\mathrm { c m }$ 土壤深度内的残膜面积和质量数据作为训练样本，19a地块 $0 \\sim 3 0 ~ \\mathrm { c m }$ 残膜面积和质量数据留作检验网络;将 $9 \\mathrm { ~ a ~ } , 1 1 \\mathrm { ~ a ~ } , 1 3$ a和 $1 5 \\mathrm { ~ a ~ }$ 地块 $3 0 \\sim 4 0 \\ \\mathrm { c m }$ 土壤深度残膜面积和残膜质量数据作为训练样本，19a地块 $3 0 \\sim 4 0 \\ \\mathrm { c m }$ 土壤深度中的残膜面积和残膜质量数据留作检验网络。笔者首先对残膜面积和质量分别进行分层训练与预测，再对其进行整体训练与预测，通过综合分析二者输出数据来选取最优的预测方式，以保证预测的精准性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1取样棉田残膜面积训练与预测",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "首先对残膜面积数据进行分层训练与预测，再对 $0 \\sim 4 0 ~ \\mathrm { c m }$ 残膜面积数据整体进行训练与预测，在",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "BP 模型中设置预测步长为50次时达到目标值0.01，故统一设置步长为50次。根据分层预测与整体预测结果综合比较优选出最佳预测方式，以此来预测覆膜 $3 0 \\mathrm { ~ a ~ }$ 棉田土壤中地膜残留状况。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分析图3可知，在深度为 $0 \\sim 5 ~ \\mathrm { c m }$ 土壤中残膜面积大于 $3 0 ~ \\mathrm { c m } ^ { 2 }$ ,残膜预测值与实际情况下在土壤中的残留状况一致，但预测值较实际值分布离散，这种情况符合地膜实际的残留状况；在土壤深度为$5 \\sim 2 0 ~ \\mathrm { c m }$ 中地膜以面积为 $2 0 \\sim 4 0 ~ \\mathrm { c m } ^ { 2 }$ 的方式残留，实际值和预测值分布都比较均匀；在 $2 0 \\sim 2 5 ~ \\mathrm { c m }$ 深度土壤中残留地膜面积较 $1 5 \\sim 2 0 ~ \\mathrm { c m }$ 土壤深度中的残膜面积小,残膜面积主要以 $1 0 \\sim 3 0 ~ \\mathrm { c m } ^ { 2 }$ 的形式分布在土壤中;在土壤深度 $2 5 \\sim 4 0 ~ \\mathrm { c m }$ ,明显较浅层土壤残膜面积小,残留片数也相对较少；但 $3 5 \\sim 4 0 \\ \\mathrm { c m }$ 深度的土壤中仍有大量的小面积地膜残留。表明在逐年覆膜滴灌模式下，大面积残膜仍然分布在 $0 \\sim$ $2 0 ~ \\mathrm { c m }$ 深度的土壤中，随着覆膜年限的增加浅层土壤中的大面积残膜逐年碎裂，并有向土壤深层运移的趋势，同时一部分面积较小的残膜会分布在 $3 0 \\sim$ $4 0 \\ \\mathrm { c m }$ 深度的土壤中，且这部分残膜难以被回收。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图4可知，随土壤深度增加残膜面积逐渐减小，同时其面积大小分布呈逐渐均匀的趋势。其中面积大于 $3 0 ~ \\mathrm { c m } ^ { 2 }$ 的残膜主要分布在 $0 \\sim 1 0 \\ \\mathrm { c m }$ 浅层土壤中，随着土壤深度的增加，残膜面积呈现减小的趋势，并在 $1 5 \\sim 3 0 ~ \\mathrm { c m }$ 深度土壤中均匀分布；同时在$3 0 \\sim 4 0 \\ \\mathrm { c m }$ 深度土壤中残膜面积较实际取样明显增加， $3 5 \\sim 4 0 \\ \\mathrm { c m }$ 土壤深度中大面积残膜明显增加。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "运用整体预测的方式所得到地膜面积残留趋势与分层预测规律基本一致，但整体预测的方式更接近地膜实际残留情况，尤其是 $3 0 \\sim 4 0 \\ \\mathrm { c m }$ 残膜面积分布，相比较而言，整体预测比分层预测更具可信度。因此，整体预测能够通过连续的残膜面积数据预测出覆膜年限为30a棉田土壤中残膜的变化趋势，能够准确地反映出覆膜年限为 $3 0 \\mathrm { ~ a ~ }$ 棉田各层土壤中的地膜残留。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2取样棉田残膜质量训练与预测 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "首先对残膜质量数据进行分层训练与预测，再对 $0 \\sim 4 0 ~ \\mathrm { c m }$ 残膜质量数据整体进行训练与预测，在BP 模型中设置预测步长为50次时达到目标值0.001，故统一设置步长为50次。根据分层预测与整体预测结果综合比较，优选出最佳预测方式，以此来预测覆膜年限为 $3 0 \\mathrm { ~ a ~ }$ 棉田中地膜质量残留状况。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图5可知，在深度为 $0 \\sim 1 0 ~ \\mathrm { c m }$ 土壤中地膜主要以质量大于 $1 5 0 ~ \\mathrm { m g }$ 的形式残留，预测值与实际值基本一致，但预测值较实际值分布离散,更符合实际情况下地膜残留；在土壤深度为 $1 0 \\sim 3 0 ~ \\mathrm { c m }$ 中地膜以质量为 $1 0 0 \\sim 2 0 0 ~ \\mathrm { m g }$ 的方式残留，预测值较实际值波动大;在 $3 0 \\sim 4 0 \\ \\mathrm { c m }$ 深度土壤中残膜质量明显较其他层小,且残膜质量均小于 $5 0 \\ \\mathrm { \\ m g }$ 。表明随着覆膜年限的增加，质量较大的残膜仍然残留在 $0 \\sim$ $1 0 \\ \\mathrm { c m }$ 深度的土壤中，且土壤浅层的残膜逐年碎裂并有向土壤深层移动的趋势。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1fbca9861b4c513b9472bc6a2dcca4048a0892971de6201d208003803a2ea403.jpg",
+        "img_caption": [
+            "图3残膜面积分层预测",
+            "Fig.3Hierarchical prediction of the area of residual film in soil "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图6可知，在 $0 \\sim 3 0 ~ \\mathrm { c m }$ 深度土壤中残膜质量呈现随土壤深度增加逐渐减小的趋势，并在 $1 0 \\sim 3 0$ cm 土壤中呈均匀分布。质量大于 $1 5 0 ~ \\mathrm { m g }$ 的残膜主要分布在 $0 \\sim 2 0 ~ \\mathrm { c m }$ 土壤深度中，随着土壤深度增加，残膜质量呈现减小趋势，且在 $2 0 \\sim 3 0 ~ \\mathrm { c m }$ 土壤深度中均匀分布，同时 $3 0 \\sim 4 0 \\ \\mathrm { c m }$ 深度土壤中质量为$5 0 ~ \\mathrm { m g }$ 残膜明显增加。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4dd360254ef1272b8c71ae5cbd658e7a44eb60f7d3ba2bbc15a9455b62c18b9b.jpg",
+        "img_caption": [
+            "图4残膜面积整体预测"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb77ee70d62e39fcce507dc43d1e5631a48d99ef56e7e3fecc73bac1089055ef.jpg",
+        "img_caption": [
+            "Fig.4Overall prediction of the area of residual film in soil ",
+            "图5残膜质量分层预测",
+            "Fig.5Hierarchical prediction of the quality of residual film in soil "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/34effee1f78f0f01d28b5dff3988cf5ba5d3be6f790862515fb96b8e2cb22613.jpg",
+        "img_caption": [
+            "Fig.6Overall prediction of the quality of residual film in soil "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1a1d6e1d0e134ce7dcac25029b2a6ae9a4868ce8a325d90caed9930ca8271dd4.jpg",
+        "img_caption": [
+            "图6残膜质量整体预测",
+            "图7残膜密度实际值与预测值对比",
+            "Fig.7Compared results of the measured and predicted values of residual film density in soil "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过残膜质量数据分层预测和整体预测得出，在残膜质量整体预测过程中， $1 0 \\sim 2 0 \\ \\mathrm { c m }$ 深度土壤预测数据波动较大，预测值呈明显下降趋势；在$2 0 \\sim 3 0 ~ \\mathrm { c m }$ 土壤深度残膜质量预测过程中，整体预测的数据呈上升趋势，这与分层预测时有明显区别，但残膜质量都在 $5 0 \\sim 1 0 0 ~ \\mathrm { m g }$ 之间波动变化；在土壤深度为 $3 0 \\sim 4 0 \\ \\mathrm { c m }$ 时，残膜质量呈明显的下降趋势，但预测值均大于实际值。残膜质量整体预测过程中其变化趋势与分层预测基本一致，但整体预测由于预测样本比较集中，在预测过程中能够精准预测残膜趋势。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过处理6块棉田土壤样本,得到5a、9a、11 $^ { \\mathrm { ~ a ~ } , 1 3 \\mathrm { ~ a ~ } , 1 5 }$ a和19a的实测地膜残留密度分别为$1 2 7 . 1 1 . 2 1 5 . 8 5 . 2 5 0 . 6 3 . 2 9 4 . 1 7 . 3 2 7 . 8 3 \\mathrm { ~ k g ~ } \\cdot \\mathrm { h m } ^ { - 2 }$ 和 $3 4 8 . 8 3 \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ h m } ^ { - 2 }$ ,预测得到覆膜年限为 $3 0 \\mathrm { ~ a ~ }$ 的棉田地块残膜密度达到 $4 1 9 . 1 9 \\mathrm { ~ k g ~ } \\cdot \\mathrm { ~ h m ~ } ^ { - 2 }$ ，是国家地膜残留标准限值 $7 5 \\mathrm { ~ k g ~ } \\cdot \\mathrm { h m } ^ { - 2 [ 3 2 ] }$ 的5.6倍,属于地膜严重污染。分析残膜密度实际值与预测值（图7)可知，覆膜30a地块的地膜实际残留与预测值相近，随着覆膜年限的增加，地膜残留速率会逐渐减小并趋于一定值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "屈忠义等[24]综合考虑河套灌区，以地下水数据和当地水文资料等为主要因子建立模型，并精准预测了当地灌区地下水位埋深变化趋势。本研究数据来源于土壤取样及周边棉田覆膜量和地膜回收量的问卷调查，数据包括残膜面积数据和质量数据，为保证预测精准度，故采用4层BP模型，其中隐含单元数为10个、学习速率 $l r = 0 . 0 1$ ，这与屈忠义等所构建的模型理论相符。杨培岭等[26]基于 BP 算法的神经网络建立了一个冠间非线性变化的模拟模型，但该模型数据量较小，且适用条件有明显局限性。本研究数据量完全满足4层BP模型，为使预测更精准，本文在残膜面积和质量预测过程中设置误差要求为0.01和0.001，预测过程中均达到设置精度要求。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文运用BP模型分别将残膜面积数据和质量数据进行分层预测和整体预测。通过分析二者预测输出残膜面积数据可以得出：整体预测方式在预测过程中出现变异区间，同时预测数据较分层预测方式波动大，总体上整体预测方式比分层预测方式更精准，因此，整体预测方式更符合实际情况中的地膜残留状况。通过分析残膜质量数据分层预测和整体预测输出残膜质量数据得出：整体预测过程中，浅层土壤的残膜质量呈现波动变化，与分层预测输出数据有明显区别，同时随着覆膜年限的增加，残膜有向深层土壤下移且均匀分布的趋势。通过分层预测与整体预测比较，整体预测能够通过连续的残膜面积数据预测出覆膜年限为30a的棉田残膜变化规律整体预测方式比分层预测方式更精准地预测了覆膜年限为30a的棉田各层土壤中地膜的残留状况。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）通过棉田土壤取样分析得出：随着覆膜年限的增加，面积为 $3 0 ~ \\mathrm { c m } ^ { 2 }$ 的残膜主要分布在 $0 \\sim$ $2 0 ~ \\mathrm { c m }$ 土壤中，在耕地农田作业下，这部分残膜不断碎裂并向土壤深层移动,同时面积为 $5 ~ \\mathrm { c m } ^ { 2 }$ 的残膜会在 $3 0 \\sim 4 0 ~ \\mathrm { ~ c m }$ 深度的土壤中逐年残留且难以回收。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）通过对残膜面积数据和质量数据进行分层预测与整体预测分析得出：整体预测能更好地呈现实际情况下地膜在棉田土壤中的残留状况，数据集较分层预测集中，预测过程中具有完整的残膜面积与质量的分布趋势，同时出现一些变异区间与地膜的实际残留状况一致，因此，整体预测方式能够预测出残膜的整体变化规律，更精准地预测出覆膜年限为30a棉田中地膜的残留状况。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）BP神经网络模型预测结果表明，新疆植棉区应用覆膜滴灌30a棉田残膜密度将达到419.19$\\mathbf { k g } \\cdot \\mathbf { h m } ^ { - 2 }$ ,超出国家标准限值 $7 5 . 0 \\ \\mathrm { k g } \\ \\cdot \\ \\mathrm { h m } ^ { - 2 }$ 近",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6倍。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）： [1]许裕芳,朱和明,张秀英,等.棉田地膜覆盖对土地微生物区系 影响的研究[J].干旱区研究,1989,6（4）:57-62.[Xu Yufang,Zhu Heming,Zhang Xiuying,et al. Study on the influence of plastic film mulching on the microbial flora in cotton field[J].Arid Zone Research,1989,6(4）:57 -62.] [2]贺欢,田长彦,王林霞.不同覆盖方式对新疆棉田土壤温度和 水分的影响[J].干旱区研究,2009,26(6）:826－831.〔He Huan,Tian Changyan, Wang Linxia.Effect of different coverings on soil temperature and soil moisture content in cottn field in Xinjiang[J].Arid Zone Research,2009,26(6）:826 -831.] [3]田长彦.新疆棉产业可持续发展面临的挑战与科技对策[J] 干旱区研究,2001,18(4）:62-67.[Tian Changyan.Some problems and their scientific and technological countermeasures for sustainable development of cotton production in Xinjiang[J].Arid Zone Research,2001,18(4）:62 -67.] [4]O'Loughlin J,Finnan J,McDonnell K.Accelerating early growth in Miscanthus with the application of plastic mulch film[J]. Biomass and Bioenergy,2017,100:52-61. [5]Liu E K,He WQ,Yan CR.‘White revolution'to‘white pollution'—agricultural plastic film mulch in China[J].Environmental Research Letters,2014,9(9）:091 001. [6]陈奇恩.中国塑料薄膜覆盖农业[J].中国工程科学,2002,4 (4）:12-15,21.[Chen Qi'en. Mulching agriculture using thin plastic film in China[J]. Engineering Science,2002,4（4）:12-   \n15,21. ] [7]严昌荣,梅旭荣,何文清,等.农用地膜残留污染的现状与防治 [J].农业工程学报,2006,22（11）:269-272.[Yan Changrong， Mei Xurong,He Wenqing,et al.Present situation of residue pollution of mulching plastic film and controlling measures[J]. Transactionsof theChineseSocietyofAgriculturalEngineering,26,2 (11) :269 -272.] [8]He H,Wang Z,Guo L,et al. Distribution characteristics of residual film over a cotton field underlong-term film mulching and drip irigation in an oasis agroecosystem[J].Soil and Tillage Research,   \n2018,180:194 -203. [9］舒帆.我国农用地膜利用与回收及其财政支持政策研究[D]. 北京：中国农业科学院,2014.[Shu Fan.The Recycling and Utilization of Agricultural Film and Its Financial Support Policy Research[D]. Beijing: Chinese Academy of Agricultural Sciences,   \n2014.] [10］牛文全,邹小阳,刘晶晶,等.残膜对土壤水分入渗和蒸发的影 响及不确定性分析[J].农业工程学报，2016,32（14)：110-   \n119.[Niu Wenquan,Zou Xiaoyang,Liu Jingjing,etal.Effectsof residual plastic film mixed in soil on water infiltration,evaporation and its uncertainty analysis[J].Transactions of the Chinese Society of Agricultural Engineering,2016,32（14）:110-119.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[11]李仙岳，史海滨，吕烨,等.土壤中不同残膜量对滴灌入渗的影 响及不确定性分析[J].农业工程学报，2013，29（8）：84-90. [LiXianyue,Shi Haibin,Lv Ye,etal.Effects of different residual plastic film quantities in soil on drip infiltration and its uncertainty analysis[J].Transactions of the Chinese Society of Agricultural Engineering,2013,29（8）:84-90.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[12]王志超，李仙岳，史海滨，等.残膜埋深对滴灌条件下粉砂壤土水分人渗影响的试验研究[J].土壤，2014，46（4）：710-715.[Wang Zhichao,Li Xianyue,ShiHaibin,etal.Study on effectofplastic filmresidue at different buried depths on silt loam drip in-filtration[J].Soils,2014,46(4) :710-715.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[13]Wang J,Lv S,Zhang M,etal.Effects of plastic film residues on occurrence of phthalates and microbial activity in soils[J].Chemosphere,2016,151:171-177. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[14]梁志宏，王勇.我国农田地膜残留危害及防治研究综述[J].中 国棉花,2012,39（1）:3-8.[Liang Zhihong，Wang Yong.Research summary of damage and control of the remainder of plastic film in farmland in China[J].China Cotton,2012,39(1):3-8.] [15]刘建国.新疆棉花长期连作的土壤环境效应及其化感作用的 研究［D].南京：南京农业大学,2008.［Liu Jianguo.Effects on Soil Environments of Long-Term Succession Cropping and Allelopathy Mechanism of Cotton in Xinjiang[D].Nanjing:Nanjing Agricultural University,2008.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[16]Nerin C,Tornés A R,Domeno C,et al.Absorption of pesticides on plastic films used as agricultural soil covers[J]. Journal of Agricultural and Food Chemistry,1996,44(12）:4009-4014. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[17]董合干，刘彤，李勇冠，等.新疆棉田地膜残留对棉花产量及土 壤理化性质的影响[J].农业工程学报，2013，29（8）：91-99. [Dong Hegan,Liu Tong,Li Yongguan,et al.Effects of plastic film residue on cotton yield and soil physical and chemical properties in Xinjiang[J].Transactions of the Chinese Society of Agricultural Engineering,2013,29（8）:91-99.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[18]刘建国，李彦斌，张伟，等.绿洲棉田长期连作下残膜分布及对 棉花生长的影响[J].农业环境科学学报，2010，29（2）：246- 250.[Liu Jianguo,Li Yanbin,ZhangWei,etal.The distributing of the residue film and influce on cotton growth under continuous cropping in oasis of Xinjiang[J].Journal of Agro-Environment Science,2010,29(2):246-250.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[19]邬强,王振华,郑旭荣,等.PBAT生物降解膜覆盖对绿洲滴灌 棉花土壤水热及产量的影响[J].农业工程学报,2017,33 (16）:135-143.[Wu Qiang,Wang Zhenhua,Zheng Xurong,et al.Effects of biodegradation film mulching on soil temperature, moisture and yield of cotton under drip irrigation in typical oasis area[J].Transactions of the Chinese Society of Agricultural Engineering,2017,33（16):135-143.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[20]曲萍，郭宝华，王海波，等.PBAT全生物降解地膜在玉米田中的降解特性[J].农业工程学报，2017，33（17）：194-199.〔QuPing,Guo Baohua,WangHaibo,etal.Degaradation characteristicsofPBAT mulch in maize field[J].Transactions of the Chinese So-ciety of AgriculturalEngineering,2017,33(17） :194-199.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[21]Zhao R,Wang H,Ji T,et al.Biodegradable cationic $\\varepsilon$ -poly-L-lysine-conjugated polymeric nanoparticles as a new effective antibacterial agent[J].Science Bulletin,2015,60(2）:216-226. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[22]严伟，胡志超,吴努,等.铲筛式残膜回收机输膜机构参数优化 与试验[J].农业工程学报,2017,33（1)：17-24.[YanWei， Hu Zhichao,Wu Nu,et al.Parameter optimization and experiment for plastic film transport mechanism of shovel screen type plastic film residue collector[J].Transactions of the Chinese Society of Agricultural Engineering,2017,33（1） :17 - 24.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[23］吴小艳,王书,周惠兴,等.基于 EtherCAT&GPRS 的智能残膜 回收装置设计与试验[J].农业机械学报,2016,47（9）：50- 55.[Wu Xiaoyan,Wang Shu,Zhou Huixing,et al.Design and test of intelligent residual film recovery device based on EtherCAT &GPRS[J].Transactions of the Chinese Society for Agricultural Machinery,2016,47(9）:50-55.]   \n[24］屈忠义,陈亚新,史海滨,等.内蒙古河套灌区节水灌溉工程实 施后地下水变化的 BP 模型预测[J].农业工程学报,2003,19 (1）:59-62.[Qu Zhongyi,Chen Yaxin,Shi Haibin,et al.Regional groundwater depth forecast by BP model of post-water-saving re construction in the Hetao irigation district of Inner Mongolia[J]. Transactions of the Chinese Societyof Agricultural Engineering, 2003,19(1) :59-62.]   \n[25]管孝艳,王少丽,高占义,等.基于多变量时间序列CAR 模型 的地下水埋深预测[J].农业工程学报,2011,27(7):64-69. [Guan Xiaoyan,Wang Shaoli,Gao Zhanyi,et al.Groundwater depth forecast based on multi-variate time series CAR model[J]. Transactions of the Chinese Societyof Agricultural Engineering, 2011,27(7) :64 -69.]   \n[26」杨培岭,冯斌,任树梅.利用人工神经网络预报不同水分条件 下作物根系发育参数[J].农业工程学报,2000,16（2）：46- 49.[Yang Peiling,Feng Bin,Ren Shumei. Predicting the growing parameters of crop root under diferent water conditions by using artificial neural network model[J].Transactions of the Chinese Society of Agricultural Engineering,2000,16(2）:46-49.]   \n[27］魏占民,陈亚新,史海滨,等.BP 神经网络的春小麦作物水模 型的初步研究［J].灌溉排水,2002,21（2）：12-16.[Wei Zhanmin,Chen Yaxin,Shi Haibin,et al.Preliminary study on spring wheat response to water with BP neural network method [J].Irrigation and Drainage,2002,21(2）:12-16.]   \n[28］王振华.典型绿洲区长期膜下滴灌棉田土壤盐分运移规律与 灌溉调控研究[D].北京：中国农业大学,2014.［Wang Zhenhua.Salt Movement Trends in Cotton Fields with Long-Term Drip Irrigation under Mulch in Typical Oasis and Irrigation Management [D].Beijing:China Agricultural University,2014.]   \n[29］张宏,马岩,李勇,等.基于遗传BP 神经网络的核桃破裂功预 测模型[J].农业工程学报,2014,30（18）:78－84.[Zhang Hong,Ma Yan,Li Yong,et al.Rupture energy prediction model for walnut shell breaking based on genetic BP neural network[J]. Transactions of the Chinese Society of Agricultural Engineering, 2014,30(18):78 -84.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[30]张建华，祁力钧，冀荣华，等.基于粗糙集和BP神经网络的棉 花病害识别[J].农业工程学报，2012，28（7）：161-167. [Zhang Jianhua,Qi Lijun,Ji Ronghua,et al.Cotton diseases identification based on rough setsand BP neural network[J].Transactions of the Chinese Society of Agricultural Engineering,2O12,28 (7):161-167.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[31]王冠亚.BP神经网络算法在教务管理系统中对学业方向识别 的研究与应用[D].青岛：中国海洋大学，2009.［WangGuanya.BP Neural Network Algorithm in the Educational Management System to Identify the Direction of Academic Research and Application[D].Qingdao:Ocean University of China,2009.] [32]新疆维吾尔自治区农牧业机械试验鉴定站，新疆维吾尔自治 区农业资源与环境保护站，农田地膜残留量限值及测定：GB/T 25413-2010[S].北京：中国标准出版社,2011.[The Xinjiang Uygur Autonomous Region Agricultural and Animal Husbandry Machinery Testand Appraisal Station,The XinjiangUygur Autonomous Region Agricultural Resources and Environmental Protection Station.Limit and Determination of Residual Amount of Farmland Film:GB/T 25413-2010[S].Beijing:China Standard Press, 2011. ] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Change Trend of Residual Film in Soil in Cotton Field under the Long-term Mulched Drip Irrigation ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "HE Huai-jie1,²，WANG Zhen-hua1,²，ZHENG Xu-rong1²，ZHANG Jin-zhu $^ { 1 , 2 }$ ，LI Wen-hao $^ { 1 , 2 }$ （2   \n(1.College of Water ConseruancyandArchitecturalEngineering，Shihezi University，Shihezi 832Oo,Xinjiang，China; 2.Key Laboratory of Modern Water-saving Irrigation of Xinjiang Corps of Production and Construction, Shihezi University，Shihezi 832O0O,Xinjiang,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Inorder toexplore thepolutionand distribution of residual mulching plastic filmin soil incotton field in recent 3O years，the sample plots in121st StateFarmof Xinjiang Corpsof Productionand Construction were selected as the experimental areas，where the mulching film wasused for5,9,11,13,15and19 years respectively.The Matlab program wasused to developthe BP neural network model for hierarchical predictionand oveal prediction of sample data.The results showed that the residual film area and quality data predicted with the model could beused to perfectlyreflectthe distributionofresidualfilm insoil incoton field inrecent3O years.The residual film in topsoil was broken year by year with the time increaseof mulching plastic film and moved down to deep soil ( $( 3 0 - 4 0 ~ \\mathrm { c m } )$ .The predicted result revealed that the residual film density in coton field would reach 419.19 $\\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ after mulching plastic film was used for 3O years，which would be nearly 6 times of the national standard limit $( 7 5 . 0 ~ \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ ).In order to solve this problem，it is suggested to use the plastic film thicker than 0.010 （204 $\\mathbf { m m }$ ,increase the recovery of mulching plastic film，and ensure the sustainable development of coton field. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key Words:typical oasis；BP Neural Network；cottn field；residual film pollution；residual film density；sustainable development；Shihezi ",
+        "page_idx": 8
+    }
+]

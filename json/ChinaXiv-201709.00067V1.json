@@ -1,0 +1,457 @@
+[
+    {
+        "type": "text",
+        "text": "1/mq Corrections to the Heavy-to-Light-Vector Transitions in the HQET ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chao-Shang Huang $a$ \\*， Chun Liu ${ } ^ { a , b }$ t, and Chi-Tau Yan $a$ 其   \n$a$ Institute of Theoretical Physics, Chinese Academy of Sciences, P.O.Box 2735, Beijing 100080, China   \n（20 $b$ Department of Physics and Center for Theoretical Physics, Seoul National University，Seoul 151-742,Korea (May 4, 2017) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Within the HQET, the heavy to light vector meson transitions are systematically analyzed to the order of $1 / m _ { Q }$ . Besides the four universal functions at the leading order, there are twenty-two independent universal form factors at the order of $1 / m _ { Q }$ .Both the semileptonic decay $B  \\rho$ which is relevant to the $| V _ { u b } |$ extraction，and the penguin induced decay $B \\to K ^ { * }$ which is important to new physics discovering, depend on these form factors. Phenomenological implications are discussed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS number(s): 12.39.Hg, 13.20.He ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "There are two main reasons to study the heavy meson to light meson weak transitions. To extract the Cabibbo-Kobayashi-Maskawa matrix element $V _ { u b }$ precisely which has important implications for CP violation, the exclusive $B \\to \\rho ( \\pi ) \\ell \\nu$ decays are suitable channels 1. Another reason is to investigate the rare B exclusive decays induced by penguin diagrams which are important for testing the standard model and for discovering new physics. They are the processes $B \\to K ^ { * } \\gamma$ and $B  K ^ { ( * ) } l ^ { + } l ^ { - }$ ， respectively. Large number of samples of the B to light meson processes produced in the current experiments [1] and to be produced in the near future B factories will make precise measurements available. Thus the main task is to reduce the theoretical uncertainties in the calculations of the hadronic matrix elements. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we focus on the B to light vector decays. The matrix elements responsible for the decay $H \\to V \\ell \\nu$ can be parameterized in terms of four invariant form factors,which are conventionally defined as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { ( p , \\epsilon ) | \\bar { q } \\gamma _ { \\mu } Q | H ( P ) \\rangle = i g ( q ^ { 2 } ) \\varepsilon _ { \\mu \\nu \\lambda \\sigma } \\epsilon ^ { * \\nu } ( P + p ) ^ { \\lambda } ( P - p ) ^ { \\sigma } , } \\\\ & { \\epsilon ) | \\bar { q } \\gamma _ { \\mu } \\gamma _ { 5 } Q | H ( P ) \\rangle = f ( q ^ { 2 } ) \\epsilon _ { \\mu } ^ { * } + a _ { + } ( q ^ { 2 } ) ( \\epsilon ^ { * } \\cdot P ) ( P + p ) _ { \\mu } + a _ { - } ( q ^ { 2 } ) ( \\epsilon ^ { * } \\cdot P ) ( P - p ) | H ( P ) \\rangle , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $q ^ { 2 } = ( P - p ) ^ { 2 }$ . The matrix elements for the decays $B \\to K ^ { * } \\gamma$ and $B \\to K ^ { * } l ^ { + } l ^ { - }$ are parameterized by the following three invariant form factors, ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\left. V ( p , \\epsilon ) \\right| \\bar { q } \\sigma _ { \\mu \\nu } Q \\left| H ( P ) \\right. = g _ { + } \\varepsilon _ { \\mu \\nu \\lambda \\sigma } \\epsilon ^ { * \\lambda } \\left( P + p \\right) ^ { \\sigma } + g _ { - } \\varepsilon _ { \\mu \\nu \\lambda \\sigma } \\epsilon ^ { * \\lambda } \\left( P - p \\right) ^ { \\sigma } } } \\\\ { { + h \\varepsilon _ { \\mu \\nu \\lambda \\sigma } \\left( P + p \\right) ^ { \\lambda } \\left( P - p \\right) ^ { \\sigma } \\left( \\epsilon ^ { * } \\cdot P \\right) , } } \\\\ { { V ( p , \\epsilon ) \\vert \\bar { q } \\sigma _ { \\mu \\nu } \\gamma _ { 5 } Q \\left. H ( P ) \\right. = i g _ { + } \\vert \\epsilon _ { \\nu } ^ { * } \\left( P + p \\right) _ { \\mu } - \\epsilon _ { \\mu } ^ { * } \\left( P + p \\right) _ { \\nu } \\vert } } \\\\ { { + i g _ { - } \\left[ \\epsilon _ { \\nu } ^ { * } \\left( P - p \\right) _ { \\mu } - \\epsilon _ { \\mu } ^ { * } \\left( P - p \\right) _ { \\nu } \\right] } } \\\\ { { + i h \\left[ \\left( P + p \\right) _ { \\nu } \\left( P - p \\right) _ { \\mu } - ( P + p ) _ { \\mu } \\left( P - p \\right) _ { \\nu } \\right] \\left( \\epsilon ^ { * } \\cdot P \\right) . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Here the second relation is obtained from the firstone using $\\begin{array} { r } { \\sigma ^ { \\mu \\nu } = \\frac { i } { 2 } \\varepsilon ^ { \\mu \\nu \\lambda \\sigma } \\sigma _ { \\lambda \\sigma } \\gamma _ { 5 } } \\end{array}$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We use the heavy quark effective theory (HQET) [2] to study these form factors to the order of $1 / m _ { Q }$ . The HQET provides a clear physical description for the hadrons containing a single heavy quark. It has been successfully applied to the analysis of the $B \\to D ^ { ( * ) }$ decays. It has been also used for the heavy to light meson exclusive weak decays [3]. In this latter case, the form factors have no normalization point. The heavy quark symmetry (HQS) does not simplify the analysis significantly. Nevertheless,the relations between various heavy to light meson transitions can be found by the HQS. At the order of $1 / m _ { Q }$ many form factors are introduced. However, they are universal for all the heavy to light transitions. The systematic nature of the heavy quark expansion means uncertainties are easier to identify and estimate. Furthermore the analysis based on HQET is model-independent. It is therefore meaningful to consider the $1 / m _ { Q }$ corrections to the heavy to light meson transitions, in addition to the leading order results. They are also practically important for the analysis of the $D \\to \\rho$ ， $K ^ { * }$ weak decays. For the heavy to light pseudo-scalar weak decays, the $1 / m _ { Q }$ corrections have been considered in Ref. [4]. We will calculate the $1 / m _ { Q }$ corrections to the heavy to light vector meson transitions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Let us make a brief review of the HQET. In the heavy quark limit, the velocity of the heavy quark $Q$ ， $v$ , is a well defined quantity and the heavy quark field can be represented by the velocity-dependent field, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { v } ( x ) = \\exp ( i m _ { Q } v \\cdot x ) P _ { + } Q ( x ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\begin{array} { r } { P _ { + } = \\frac { 1 + \\psi } { 2 } } \\end{array}$ . The effective Lagrangian is ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { L } _ { \\mathrm { e f f } } ^ { 0 } = \\bar { h } _ { v } i v \\cdot D h _ { v } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where the gauge-covariant derivative generates the residual momentum. To the $1 / m _ { Q }$ order [2,5], the relation between $Q$ and $h _ { v }$ is obtained by treating $1 / m _ { Q }$ as perturbation, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ ( x ) = \\exp ( - i m _ { Q } v \\cdot x ) ( 1 + \\frac { i { D / } _ { \\perp } } { 2 m _ { Q } } ) h _ { v } ( x ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $D _ { \\perp } ^ { \\mu } = D ^ { \\mu } - v ^ { \\mu } v \\cdot D$ ，and $h _ { v }$ satisfies exactly the equation of motion $i \\boldsymbol { v } \\cdot \\boldsymbol { D } h _ { v } = 0$ ： The effective Lagrangian becomes, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { L } _ { \\mathrm { e f f } } = \\mathcal { L } _ { \\mathrm { e f f } } ^ { 0 } + \\frac { 1 } { 2 m _ { Q } } \\left[ O _ { \\mathrm { k i n } } + O _ { \\mathrm { m a g } } \\right] + O ( 1 / m _ { Q } ^ { 2 } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal O } _ { \\mathrm { k i n } } = \\bar { h } _ { v } ( i D ) ^ { 2 } h _ { v } , \\qquad { \\cal O } _ { \\mathrm { m a g } } = { \\frac { g _ { s } } { 2 } } \\bar { h } _ { v } \\sigma _ { \\mu \\nu } G ^ { \\mu \\nu } h _ { v } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$O _ { \\mathrm { k i n } }$ describes the kinetic energy of the heavy quark in the hadron， and $\\mathcal { O } _ { \\mathrm { m a g } }$ the heavy quark chromomagnetic energy. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To study the hadronic matrix elements in the HQET, the form factors are considered as functions of the kinematic variable ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nv \\cdot p = \\frac { m _ { H } ^ { 2 } + m _ { V } ^ { 2 } - q ^ { 2 } } { 2 m _ { H } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Accordingly, Eqs. (1） and (2) can be re-expressed as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\left. V ( p , \\epsilon ) \\right| \\bar { q } \\gamma _ { \\mu } h _ { v } \\left| H ( v ) \\right. = 2 i \\tilde { g } ( v \\cdot p ) \\varepsilon _ { \\mu \\nu \\lambda \\sigma } \\epsilon ^ { * \\nu } \\hat { p } ^ { \\lambda } v ^ { \\sigma } , } } \\\\ { { \\left. V ( p , \\epsilon ) \\right| \\bar { q } \\gamma _ { \\mu } \\gamma _ { 5 } h _ { v } \\left| H ( v ) \\right. = 2 \\left[ \\tilde { f } ( v \\cdot p ) \\epsilon _ { \\mu } ^ { * } + \\tilde { a } _ { 1 } ( v \\cdot p ) \\left( \\epsilon ^ { * } \\cdot v \\right) \\hat { p } _ { \\mu } + \\tilde { a } _ { 2 } ( v \\cdot p ) \\left( \\epsilon ^ { * } \\cdot v \\right) v _ { v } \\right] , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\left. V ( p , \\epsilon ) \\right| \\bar { q } \\sigma _ { \\mu \\nu } Q \\left| H ( v ) \\right. = 2 \\left[ \\tilde { g } _ { v } \\varepsilon _ { \\mu \\nu \\lambda \\sigma } \\epsilon ^ { * \\lambda } v ^ { \\sigma } + \\tilde { g } _ { p } \\varepsilon _ { \\mu \\nu \\lambda \\sigma } \\epsilon ^ { * \\lambda } \\hat { p } ^ { \\sigma } + \\tilde { h } \\varepsilon _ { \\mu \\nu \\lambda \\sigma } v ^ { \\lambda } \\hat { p } ^ { \\sigma } \\left( \\epsilon ^ { * \\lambda } \\right) \\right] } } \\\\ { { \\left. V ( p , \\epsilon ) \\right| \\bar { q } \\sigma _ { \\mu \\nu } \\gamma _ { 5 } Q \\left| H ( v ) \\right. = 2 \\left\\{ i \\tilde { g } _ { v } ^ { \\prime } \\left[ \\epsilon _ { \\nu } ^ { * } v _ { \\mu } - \\epsilon _ { \\mu } ^ { * } v _ { \\nu } \\right] + i \\tilde { g } _ { p } ^ { \\prime } \\left[ \\epsilon _ { \\nu } ^ { * } \\hat { p } _ { \\mu } - \\epsilon _ { \\mu } ^ { * } \\hat { p } _ { \\nu } \\right] \\right. } } \\\\ { { \\left. + i \\tilde { h } ^ { \\prime } \\left[ v _ { \\nu } \\hat { p } _ { \\mu } - v _ { \\mu } \\hat { p } _ { \\nu } \\right] \\left( \\epsilon ^ { * } \\cdot v \\right) \\right\\} , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where the dimensionless variable is ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\widehat p } ^ { \\mu } = \\frac { p ^ { \\mu } } { v \\cdot p } , \\qquad v \\cdot { \\widehat p } = 1 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "so that allof the form factors have the same dimension. It is convenient to work in the matrix representation of the hadrons [6]. These wave functions are only dependent on the HQS and their Lorentz transformation properties. The ground-state pseudo-scalar and vector heavy mesons are described by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { M } ( v ) = \\frac { 1 + \\rlap / v } { 2 } \\left\\{ { \\begin{array} { l l l } { - \\gamma _ { 5 } , } & { \\mathrm { p s e u d o s c a l a r ~ m e s o n } ; } \\\\ { \\rlap / \\ q , } & { \\mathrm { v e c t o r ~ m e s o n ~ w i t h ~ p o l a r i z a t i o n ~ v e c t o r ~ } \\epsilon ^ { \\mu } \\ . } \\end{array} } \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Based on the symmetry and the Feynman rules of the HQET, one can express the hadronic matrix element by evaluating some trace over the above wave functions. At the leading order of $1 / m _ { Q }$ , the matrix element of the relevant current $\\bar { q } \\Gamma h _ { v }$ can be written as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\langle V ( p , \\epsilon ) | \\bar { q } \\Gamma h _ { v } | H ( v ) \\rangle = - \\mathrm { T r } \\Big \\{ \\Omega _ { L } ( v , p ) \\Gamma \\mathcal { M } ( v ) \\Big \\} , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where the matrix $\\Omega _ { L } ( v , p )$ transforms as a Lorentz scalar as functions of $v \\cdot p$ . And it has linear dependence on the polarization of the meson $V$ . Considering $\\mathcal { M } ( v ) \\psi = - \\mathcal { M } ( v )$ ，the general form for $\\Omega _ { L }$ is ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Omega _ { L } = L _ { 1 } \\rlap { / } { \\varphi } ^ { * } + L _ { 2 } \\upsilon \\cdot \\epsilon ^ { * } + [ L _ { 3 } \\rlap { / } { \\epsilon } ^ { * } + L _ { 4 } \\upsilon \\cdot \\epsilon ^ { * } ] \\rlap { / } { \\widetilde { \\eta } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where the universal functions $L _ { i }$ ( $i = 1 \\sim 4$ ） depend on the kinematic variable $v \\cdot p$ ,but noton the heavy quark mass $m _ { Q }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The power corrections proportional to $1 / m _ { Q }$ result from both the effective currents and the effective Lagrangian of the HQET. We first consider the corrections coming from the expansion of the currents. Weak current of the heavy-to-light transition in the effctive theory can be expanded as, ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\bar { q } } \\Gamma Q = { \\bar { q } } \\Gamma ( 1 + \\frac { i { / } { / } _ { \\bot } } { 2 m _ { Q } } ) h _ { v } ( x ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the same manner as shown in leading order,one can find that the matrix elements of the operators containing a covariant derivative which acts on the heavy quark field have the formal structure, ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\langle V ( p , \\epsilon ) | \\bar { q } \\Gamma i { \\cal D } ^ { \\mu } h _ { v } | { \\cal M } ( v ) \\rangle = - \\mathrm { T r } \\Big \\{ \\Omega _ { \\cal D } ^ { \\mu } ( v , p ) \\Gamma { \\cal M } ( v ) \\Big \\} .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The matrix $\\Omega _ { D } ^ { \\mu } ( v , p )$ also contains some universal functions depending only on the variable $v \\cdot p$ ，and transforms as a vector. The generic structure of $\\Omega _ { D } ^ { \\mu }$ is ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\Omega _ { D } ^ { \\mu } = \\left( D _ { 1 } v ^ { \\mu } + D _ { 2 } \\hat { p } ^ { \\mu } + D _ { 3 } \\gamma ^ { \\mu } \\right) \\rlap { / { v } } + \\left( D _ { 4 } v ^ { \\mu } + D _ { 5 } \\hat { p } ^ { \\mu } + D _ { 6 } \\gamma ^ { \\mu } \\right) \\left( v \\cdot \\epsilon ^ { * } \\right) } \\\\ & { \\qquad + ( D _ { 7 } v ^ { \\mu } + D _ { 8 } \\hat { p } ^ { \\mu } + D _ { 9 } \\gamma ^ { \\mu } ) \\rlap { / { v } } \\hat { \\mathcal { P } } + \\left( D _ { 1 0 } v ^ { \\mu } + D _ { 1 1 } \\hat { p } ^ { \\mu } + D _ { 1 2 } \\gamma ^ { \\mu } \\right) \\left( v \\cdot \\epsilon ^ { * } \\right) \\rlap { / { p } } } \\\\ & { \\qquad + ( D _ { 1 3 } + D _ { 1 4 } \\hat { p } ) \\epsilon ^ { * \\mu } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The functions $D _ { i }$ are functions of $v \\cdot p$ . Not all of these fourteen universal functions are independent. Using equation of motion of the heavy quark, $i v \\cdot D h _ { v } \\ = \\ 0$ ，we can easily obtain ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } & { } & { D _ { 1 } + D _ { 2 } - D _ { 3 } = 0 , } \\\\ & { } & { D _ { 4 } + D _ { 5 } - D _ { 6 } + D _ { 1 3 } = 0 , } \\\\ & { } & { D _ { 7 } + D _ { 8 } - D _ { 9 } = 0 , } \\\\ & { } & { D _ { 1 0 } + D _ { 1 1 } - D _ { 1 2 } + D _ { 1 4 } = 0 . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, using the following relations, ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\ni \\partial ^ { \\mu } ( \\bar { q } \\Gamma h _ { v } ) = \\bar { q } \\Gamma ( i D ^ { \\mu } ) h _ { v } + i \\bar { q } ( \\overleftarrow { D ^ { \\mu } } ) \\Gamma h _ { v } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\langle V ( p , \\epsilon ) | i \\partial ^ { \\mu } ( \\bar { q } \\Gamma h _ { v } ) | H ( v ) \\rangle = ( \\bar { \\Lambda } v ^ { \\mu } - p ^ { \\mu } ) \\langle V ( p , \\epsilon ) | \\bar { q } \\Gamma h _ { v } | H ( v ) \\rangle ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\Lambda = m _ { M } - m _ { Q }$ denotes the finite mass difference between a heavy meson and the heavy quark in the infinite quark mass limit, and equation of motion for the light quark field, $i D q = 0$ ， we can obtain ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { T r } \\left\\{ \\Omega _ { D } ^ { \\mu } ( v , p ) \\gamma _ { \\mu } \\Gamma ^ { \\prime } { \\mathcal M } ( v ) \\right\\} = ( \\bar { \\Lambda } v ^ { \\mu } - p ^ { \\mu } ) \\mathrm { T r } \\left\\{ \\Omega _ { L } ( v , p ) \\gamma _ { \\mu } \\Gamma ^ { \\prime } { \\mathcal M } ( v ) \\right\\} ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where we have substituted $\\Gamma$ by $\\gamma _ { \\mu } \\Gamma ^ { \\prime }$ . It yields, ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { D _ { 1 } - 2 D _ { 3 } + 2 D _ { 7 } + \\hat { p } ^ { 2 } D _ { 8 } + D _ { 1 3 } = - \\bar { \\Lambda } L _ { 1 } - ( 2 \\bar { \\Lambda } - v \\cdot p \\hat { p } ^ { 2 } ) L _ { 3 } , } } \\\\ { { 2 D _ { 2 } - D _ { 4 } + 4 D _ { 6 } + 2 D _ { 1 0 } + \\hat { p } ^ { 2 } D _ { 1 1 } = \\bar { \\Lambda } ( L _ { 2 } - 2 L _ { 1 } ) - ( 2 \\bar { \\Lambda } - v \\cdot p \\hat { p } ^ { 2 } ) L _ { 4 } , } } \\\\ { { D _ { 2 } - D _ { 7 } - D _ { 1 4 } = \\bar { \\Lambda } L _ { 3 } + v \\cdot p L _ { 1 } , } } \\\\ { { D _ { 5 } - 2 D _ { 7 } + D _ { 1 0 } - 2 D _ { 1 2 } = \\bar { \\Lambda } ( 2 L _ { 3 } - L _ { 4 } ) + v \\cdot p L _ { 2 } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The relations, Eqs. (18) and (22), imply that only six of the fourteen universal functions are independent. Note that the light quarks have been taken to be massless. This reduces the number of HQET operators appearing in the expansion of QCD currents. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The corrections to the effective states should be included. The $1 / m _ { Q }$ terms in the effective lagrangian are treated as perturbation, $h _ { v }$ is still defined by Eq. (4) at the subleading order of the heavy quark expansion. Therefore the effective states of Eq. (12) are not the eigenstates of the operators $O _ { \\mathrm { k i n } }$ and $\\mathcal { O } _ { \\mathrm { m a g } }$ . The corrections to the effective states can be accounted for by including time-ordered products in which $O _ { \\mathrm { k i n } }$ or $\\mathcal { O } _ { \\mathrm { m a g } }$ is inserted into matrix elements of the leading-order currents. By using the Feynman rules in HQET, one can obtain ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\langle V ( p , \\epsilon ) | i \\int \\mathrm { d } y T \\Big \\{ \\bar { q } \\Gamma h _ { v } ( 0 ) , { \\cal O } _ { \\mathrm { k i n } } ( y ) + { \\cal O } _ { \\mathrm { m a g } } ( y ) \\Big \\} | H ( v ) \\rangle } } \\\\ { { \\displaystyle ~ = - \\mathrm { T r } \\Big \\{ \\Omega _ { \\cal K } ( v , p ) \\Gamma { \\mathcal M } ( v ) + \\Omega _ { \\cal G } ^ { \\alpha \\beta } ( v , p ) \\Gamma \\displaystyle \\frac { 1 + \\rlap / \\gamma } { 2 } \\sigma _ { \\alpha \\beta } { \\mathcal M } ( v ) \\Big \\} , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where the properties of matrix $\\Omega _ { K } ( \\boldsymbol { v } , \\boldsymbol { p } )$ are very similar to matrix $\\Omega _ { L }$ ，and the matrix （204号 $\\Omega _ { G } ^ { \\alpha \\beta } ( v , p )$ also has the similar properties except it must transform as a tensor. They can be described in terms of sixteen additional universal functions $S _ { i } ( v \\cdot p )$ as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\Omega _ { K } = S _ { 1 } \\boldsymbol { \\phi } ^ { * } + S _ { 2 } ( \\boldsymbol { v } \\cdot \\boldsymbol { \\epsilon } ^ { * } ) + \\left[ S _ { 3 } \\boldsymbol { \\phi } ^ { * } + S _ { 4 } ( \\boldsymbol { v } \\cdot \\boldsymbol { \\epsilon } ^ { * } ) \\right] \\boldsymbol { \\widetilde { \\mathcal { H } } } , } \\\\ & { \\begin{array} { r l } { ] _ { G } ^ { \\alpha \\beta } = \\big ( i S _ { 5 } \\hat { p } ^ { \\alpha } \\gamma ^ { \\beta } + S _ { 6 } \\boldsymbol { \\sigma } ^ { \\alpha \\beta } \\big ) \\boldsymbol { \\phi } ^ { * } + \\big ( i S _ { 7 } \\hat { p } ^ { \\alpha } \\gamma ^ { \\beta } + S _ { 8 } \\boldsymbol { \\sigma } ^ { \\alpha \\beta } \\big ) ( \\boldsymbol { v } \\cdot \\boldsymbol { \\epsilon } ^ { * } ) + \\big ( i S _ { 9 } \\hat { p } ^ { \\alpha } \\gamma ^ { \\beta } + S _ { 1 0 } \\boldsymbol { \\sigma } ^ { \\alpha \\beta } \\big ) \\boldsymbol { \\hat { p } } } \\\\ & { \\quad + \\big ( i S _ { 1 1 } \\hat { p } ^ { \\alpha } \\gamma ^ { \\beta } + S _ { 1 2 } \\boldsymbol { \\sigma } ^ { \\alpha \\beta } \\big ) \\boldsymbol { \\widetilde { \\mathcal { H } } } ( \\boldsymbol { v } \\cdot \\boldsymbol { \\epsilon } ^ { * } ) + \\big ( i S _ { 1 3 } \\gamma ^ { \\alpha } \\boldsymbol { \\epsilon } ^ { * \\beta } + i S _ { 1 4 } \\gamma ^ { \\alpha } \\boldsymbol { \\epsilon } ^ { * \\beta } \\hat { p } \\big ) } \\end{array} } \\\\ & { \\quad \\boldsymbol { + } \\big ( i S _ { 1 5 } \\boldsymbol { \\epsilon } ^ { * \\alpha } \\hat { p } ^ { \\beta } + i S _ { 1 6 } \\boldsymbol { \\epsilon } ^ { * \\alpha } \\hat { p } ^ { \\beta } \\hat { \\eta } \\big ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To get the independent universal functions in $\\Omega _ { G } ^ { \\alpha \\beta }$ , let us consider the following matrix element of the time-ordered operator products [7], ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(V(p $\\epsilon ) | ~ i \\int \\mathrm { d } y T \\Bigl \\{ \\bar { q } \\Gamma h _ { v } ( 0 ) , \\frac { i } { 2 } g _ { s } \\bar { h } _ { v } \\Gamma _ { 1 } G ^ { \\alpha \\beta } h _ { v } \\Bigr \\} | H ( v ) \\Bigr \\} = - \\mathrm { T r } \\Bigl \\{ \\bar { \\Omega } _ { G } ^ { \\alpha \\beta } ( v , p ) \\Gamma \\frac { 1 + \\rlap / v } { 2 } \\Gamma _ { 1 } \\mathcal { M } ( v , p ) \\Bigr \\} = - \\frac { \\partial \\bar { \\Omega } _ { G } } { \\partial \\bar { \\Omega } _ { G } } \\Bigr \\} .$ }， where ${ \\Gamma } _ { 1 }$ is any fixed Dirac matrix,and ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\frac { x \\beta } { G } = \\frac { 1 } { 2 } \\Big [ ( i S _ { 5 } \\hat { p } ^ { [ \\alpha } \\gamma ^ { \\beta ] } + 2 S _ { 6 } \\sigma ^ { \\alpha \\beta } ) \\phi ^ { * } + ( i S _ { 7 } \\hat { p } ^ { [ \\alpha } \\gamma ^ { \\beta ] } + 2 S _ { 8 } \\sigma ^ { \\alpha \\beta } ) ( v \\cdot \\epsilon ^ { * } ) + ( i S _ { 9 } \\hat { p } ^ { [ \\alpha } \\gamma ^ { \\beta ] } + 2 S _ { 1 } \\rho ^ { [ \\alpha } \\gamma ^ { \\beta ] } + 2 S _ { 1 } \\rho ^ { [ \\alpha } \\gamma ^ { \\beta ] } ) } \\\\ { \\displaystyle \\qquad + ( i S _ { 1 1 } \\hat { p } ^ { [ \\alpha } \\gamma ^ { \\beta ] } + 2 S _ { 1 2 } \\sigma ^ { \\alpha \\beta } ) \\hat { \\mathcal { H } } ( v \\cdot \\epsilon ^ { * } ) + ( i S _ { 1 3 } \\gamma ^ { [ \\alpha } \\epsilon ^ { * \\beta ] } + i S _ { 1 4 } \\gamma ^ { [ \\alpha } \\epsilon ^ { * \\beta ] } \\hat { \\mathcal { H } } ) } \\\\ { \\displaystyle \\qquad + ( i S _ { 1 5 } \\epsilon ^ { * [ \\alpha } \\hat { p } ^ { \\beta ] } + i S _ { 1 6 } \\epsilon ^ { * [ \\alpha } \\hat { p } ^ { \\beta ] } \\hat { \\mathcal { H } } ) + ( i S _ { 1 7 } \\epsilon ^ { * [ \\alpha } v ^ { \\beta ] } + i S _ { 1 8 } \\epsilon ^ { * [ \\alpha } v ^ { \\beta ] } \\hat { \\mathcal { H } } ) } \\\\ { \\displaystyle \\qquad + ( i S _ { 1 9 } \\hat { p } ^ { [ \\alpha } v ^ { \\beta ] } \\phi ^ { * } + i S _ { 2 0 } \\hat { p } ^ { [ \\alpha } v ^ { \\beta ] } \\phi ^ { * } \\hat { \\mathcal { H } } ) + ( i S _ { 2 1 } \\hat { p } ^ { [ \\alpha } v ^ { \\beta ] } + i S _ { 2 2 } \\hat { p } ^ { [ \\alpha } v ^ { \\beta ] } \\hat { \\mathcal { H } } ) ( v \\cdot \\epsilon ^ { * } ) } \\\\ { \\displaystyle \\qquad + ( i S _ { 2 3 } \\gamma ^ { [ \\alpha } v ^ { \\beta ] } \\phi ^ { * } + i S _ { 2 4 } \\gamma ^ { [ \\alpha } v ^ { \\beta ] } \\phi ^ { * } \\hat { \\mathcal { H } } ) + ( i S _ { 2 5 } \\gamma ^ { [ \\alpha } v ^ { \\beta ] } + i S _ { 2 6 } \\gamma ^ { [ \\alpha } v ^ { \\beta ] } \\hat { \\mathcal { H } } ) ( v \\cdot \\epsilon ^ { * } ) \\Big ] , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "with $[ \\alpha , \\beta ]$ being the anti-symmetric index. Note that $i g _ { s } G ^ { \\alpha \\beta } = [ i D ^ { \\alpha } , i D ^ { \\beta } ]$ ，and ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- \\bar { h } _ { v } \\Gamma _ { 1 } D ^ { \\alpha } D ^ { \\beta } h _ { v } = - \\partial ^ { \\alpha } ( \\bar { h } _ { v } \\Gamma _ { 1 } D ^ { \\beta } h _ { v } ) + \\bar { h } _ { v } \\overleftarrow { D ^ { \\alpha } } \\Gamma _ { 1 } D ^ { \\beta } h _ { v } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "After the integration over $x$ ， the total divergence term can be neglected. Consequently, using the equation of motion of heavy quark $i \\boldsymbol { v } \\cdot \\boldsymbol { D } h _ { v } = 0$ , one finds that ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nv _ { \\beta } \\mathrm { T r } \\Big \\{ \\bar { \\Omega } _ { G } ^ { \\alpha \\beta } ( v , p ) \\Gamma \\frac { 1 + \\rlap / v } { 2 } \\Gamma _ { 1 } \\mathcal { M } ( v ) \\Big \\} = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This means $v _ { \\beta } \\bar { \\Omega } _ { G } ^ { \\alpha \\beta } = 0$ which yields, ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { S _ { 5 } = S _ { 1 9 } , \\ 2 S _ { 6 } = S _ { 1 9 } - S _ { 2 3 } , \\ S _ { 7 } + S _ { 1 5 } = S _ { 2 1 } , } \\\\ & { 2 S _ { 8 } = S _ { 1 7 } + S _ { 2 1 } - S _ { 2 5 } , \\ S _ { 9 } = S _ { 2 0 } , \\ 2 S _ { 1 0 } = - S _ { 2 4 } , \\ S _ { 1 1 } + S _ { 1 6 } = S _ { 2 2 } , } \\\\ & { 2 S _ { 1 2 } = S _ { 1 8 } + S _ { 2 2 } - S _ { 2 6 } , \\ S _ { 1 3 } + S _ { 1 5 } = - S _ { 1 7 } , \\ S _ { 1 4 } + S _ { 1 6 } = - S _ { 1 8 } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Therefore,all of the twelve universal functions $S _ { i }$ $( i = 5 \\sim 1 6 \\$ ） are independent.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Until now all the independent universal functions for heavy meson to light vector meson transitions are obtained, four at leading order, twenty-two at next-to-leading order. Note that even to the order of $1 / m _ { Q }$ , the form factors in $B  \\rho$ semileptonic decay and that in $B \\to K ^ { * }$ rare decays are connected. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "By evaluating the traces, we get the relevant form factors to the order of $1 / m _ { Q }$ in terms of the universal functions: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\tilde { g } = - { \\cal L } _ { 3 } + \\displaystyle \\frac { 1 } { 2 m _ { Q } } \\Big ( { \\cal D } _ { 2 } - { \\cal D } _ { 7 } - 2 { \\cal D } _ { 9 } - { \\cal D } _ { 1 4 } - { \\cal S } _ { 3 } - 2 { \\cal S } _ { 5 } + 2 { \\cal S } _ { 9 } - 6 { \\cal S } _ { 1 0 } - 2 { \\cal S } _ { 1 4 } + { \\cal S } _ { 1 5 } } } \\\\ { { { \\cal \\tilde { f } } = - ( { \\cal L } _ { 1 } + { \\cal L } _ { 3 } ) + \\displaystyle \\frac { 1 } { 2 m _ { Q } } \\Big ( - { \\cal D } _ { 1 } - { \\cal D } _ { 2 } + 4 { \\cal D } _ { 3 } - { \\cal D } _ { 7 } - \\tilde { p } ^ { 2 } { \\cal D } _ { 8 } - 2 { \\cal D } _ { 9 } + { \\cal D } _ { 1 3 } - { \\cal D } _ { 1 4 } } } \\\\ { { - { \\cal S } _ { 1 } - { \\cal S } _ { 3 } - 6 { \\cal S } _ { 6 } + ( 1 - \\tilde { p } ^ { 2 } ) { \\cal S } _ { 9 } - 6 { \\cal S } _ { 1 0 } - 2 { \\cal S } _ { 1 3 } - 2 { \\cal S } _ { 1 4 } + ( \\tilde { p } ^ { 2 } - 1 2 \\tilde { p } ^ { 2 } ) \\Big ) , } } \\\\ { { { \\cal L } _ { 2 } = { \\cal L } _ { 2 } + \\displaystyle \\frac { 1 } { 2 m _ { Q } } \\Big ( { \\cal D } _ { 4 } + 2 { \\cal D } _ { 6 } + \\tilde { p } ^ { 2 } { \\cal D } _ { 1 1 } + { \\cal S } _ { 2 } - 2 { \\cal S } _ { 7 } + 6 { \\cal S } _ { 8 } - 2 \\tilde { p } ^ { 2 } { \\cal S } _ { 1 1 } + 2 { \\cal S } _ { 1 3 } - \\tilde { p } ^ { 2 } { \\cal S } _ { 1 6 } \\Big ) , } } \\\\ { { { \\cal L } _ { 1 } = \\displaystyle ( { \\cal L } _ { 3 } - { \\cal L } _ { 4 } ) + \\displaystyle \\frac { 1 } { 2 m _ { Q } } \\Big ( - { \\cal D } _ { 2 } + { \\cal D } _ { 5 } + { \\cal D } _ { 7 } + 2 { \\cal D } _ { 9 } - { \\cal D } _ { 1 0 } - 2 { \\cal D } _ { 1 1 } + 4 { \\cal D } _ { 1 2 } - { \\cal D } _ { 1 4 } } \\\\ { { \\cal S } _ { 3 } - { \\cal S } _ { 4 } + 2 { \\cal S } _ { 5 } + 2 { \\cal S } _ { 7 } - 2 { \\cal S } _ { 9 } + 6 { \\cal S } _ { 1 0 } + 2 { \\cal S } _ { 1 1 } - 6 { \\cal S } _ { 1 2 } + { \\cal S } _ { 1 6 } \\Big ) . } } \\end \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\bar { g } _ { c } = L _ { 1 } + \\displaystyle \\frac { 1 } { 2 m _ { Q } } \\Big ( D _ { 1 } + 2 D _ { 2 } - 3 \\hat { p } ^ { 2 } D _ { 8 } + D _ { 1 3 } + S _ { 1 } - S _ { 5 } + 6 S _ { 6 } + 5 \\hat { p } ^ { 2 } S _ { 9 } + 2 S _ { 1 3 } + S _ { 1 } } \\\\ { \\bar { g } _ { p } = L _ { 3 } + \\displaystyle \\frac { 1 } { 2 m _ { Q } } \\Big ( D _ { 2 } + D _ { 7 } - 4 D _ { 8 } - D _ { 1 4 } + S _ { 3 } + 3 S _ { 5 } + G _ { 8 } + 6 S _ { 1 0 } + 3 S _ { 1 4 } + S _ { 1 5 } + . } \\\\ { \\bar { h } = L _ { 4 } + \\displaystyle \\frac { 1 } { 2 m _ { Q } } \\Big ( D _ { 5 } + D _ { 1 1 } + 2 D _ { 1 2 } + S _ { 4 } - S _ { 5 } - 2 S _ { 7 } - 2 S _ { 1 1 } + 6 S _ { 1 2 } + S _ { 1 4 } + S _ { 1 5 } \\Big ) , } \\\\ { \\bar { g } _ { c } ^ { \\prime } = L _ { 1 } + \\displaystyle \\frac { 1 } { 2 m _ { Q } } \\Big ( D _ { 1 } + 2 D _ { 2 } - \\hat { p } ^ { 2 } D _ { 8 } + D _ { 1 3 } + S _ { 1 } - 2 S _ { 8 } + 6 S _ { 6 } + 2 \\hat { p } ^ { 2 } S _ { 9 } + 3 S _ { 1 3 } + S _ { 1 } } \\\\ { \\bar { g } _ { p } ^ { \\prime } = L _ { 3 } + \\displaystyle \\frac { 1 } { 2 m _ { Q } } \\Big ( D _ { 2 } + D _ { 7 } + 2 D _ { 8 } - 4 D _ { 6 } - D _ { 1 4 } + S _ { 3 } + 2 S _ { 5 } - 2 S _ { 6 } + 6 S _ { 1 0 } + 2 S _ { 1 4 } - } \\\\ { \\tilde { h } ^ { \\prime } = L _ { 1 } + \\displaystyle \\frac { 1 } { 2 m _ { Q } } \\Big ( D _ { 5 } + D _ { 1 1 } + 2 D _ { 1 2 } + S _ { 1 } - 2 S _ { 7 } - 2 S _ { 1 1 } + 6 S _ { 1 2 } + 2 S _ { 1 1 } - S _ { 1 5 } \\Big ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In summary, within the HQET, we have systematically analyzed the heavy to light vector meson transitions to the order of $1 / m _ { Q }$ . Besides the four universal functions at the leading order, there are twenty-two independent universal form factors at the order of $1 / m _ { Q }$ .Both the semileptonic decay $B  \\rho$ which is relevant to the $| V _ { u b } |$ extraction,and the penguin induced decay $B \\to K ^ { * }$ which is important to new physics discovering，depend on these form factors. Once they are given, we can use them to calculate all kinds of decays involving such transitions to a good precision. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Some model-independent observations can be made. Consider the decay $B \\to \\rho \\ell \\nu$ ，the decay rate will be largely simplified if we work at the zero recoil point of $\\rho$ meson. Only $| \\tilde { f } | ^ { 2 }$ has non-vanishing contribution. So we have ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l }  { { \\displaystyle { \\frac { \\mathrm { d } \\Gamma \\big ( B \\to \\rho \\ell \\bar { \\nu } _ { \\ell } \\big ) } { \\mathrm { d } ( v \\cdot p ) } \\bigg \\vert _ { v \\cdot p \\sim m _ { \\rho } } = \\frac { G _ { F } ^ { 2 } \\vert V _ { u b } \\vert ^ { 2 } } { 2 4 \\pi ^ { 3 } } \\sqrt { ( v \\cdot p ) ^ { 2 } - m _ { \\rho } ^ { 2 } } \\cdot \\frac { Q ( v \\cdot p ) - m _ { l } ^ { 2 } } { Q ( v \\cdot p ) } } } } \\\\  { { \\displaystyle ~ \\times \\bigg \\{ \\bigg [ - ( L _ { 1 } + L _ { 3 } ) + \\frac { 1 } { 2 m _ { b } } \\Big ( 2 ( D _ { 1 } - D _ { 8 } + D _ { 1 3 } ) + ( \\bar { \\Lambda } + v \\cdot p ) L _ { 1 } + ( 3 \\bar { \\Lambda } - v \\cdot p \\hat { p } ^ { 2 } ) L _ { 1 1 } } } \\\\ { { { \\displaystyle ~ - S _ { 1 } - S _ { 3 } - 6 S _ { 6 } + ( 1 - \\hat { p } ^ { 2 } ) S _ { 9 } - 6 S _ { 1 0 } - 2 S _ { 1 3 } - 2 S _ { 1 4 } + ( \\hat { p } ^ { 2 } - 1 ) S _ { 1 6 } \\Big ) \\bigg ] ^ { 2 } } } } \\\\ { { { \\displaystyle ~ \\times \\bigg [ \\frac { m _ { B } ^ { 2 } } { m _ { \\rho } ^ { 2 } } \\Big ( ( v \\cdot p ) - \\frac { m _ { \\rho } ^ { 2 } } { m _ { B } } \\Big ) ^ { 2 } \\Big ( 1 - \\frac { m _ { l } ^ { 4 } } { Q ^ { 2 } ( v \\cdot p ) } \\Big ) - 2 \\Big ( Q ( v \\cdot p ) - m _ { l } ^ { 2 } \\Big ) \\bigg ] \\bigg \\} , } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $Q ( v \\cdot p ) = m _ { B } ^ { 2 } + m _ { \\rho } ^ { 2 } - 2 m _ { B } ( v \\cdot p )$ . Only thirteen universal functions are needed to determine the decay rate at zero recoil point. We may also include the favor changing neutral current decays, such as $B \\to K ^ { * } \\gamma$ and $B \\to K ^ { * } \\ell \\ell$ to get some information of the unknown universal functions appeared at the order of $1 / m _ { Q }$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The $1 / m _ { Q }$ corrections are more important for the decays $D \\to K ^ { * }$ and $D \\to \\rho$ . The information of the $1 / m _ { Q }$ corrections can be drawn through the following way. First, from the （204号 $B  \\rho$ decay, neglecting the $1 / m _ { b }$ effect, we can get certain result for the leading order heavy quark expansion through comparing with the experimental data. Then input this knowledge to the $D \\to K ^ { * } ( \\rho )$ decays, while keeping the $1 / m _ { c }$ corrections, the information of the $1 / m _ { Q }$ （20 correction to the decay can be obtained with an uncertainty subject to $m _ { c } / m _ { b } \\sim 3 0 \\%$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To obtain more detailed results of the decays, the knowledge about the universal form factors themselves are needed. While the HQS simplifies the analysis, it does not predict the $v \\cdot p$ dependence of the universal functions. This dependence must be determined separately by using nonperturbative techniques, such as QCD sum rules or lattice simulation,which are the next important steps to obtain quantitative results. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "One of us (C.L.) would like to thank Prof. H. S. Song for the helpful discussions. This work was supported in part by the National Natural Science Foundation of China and the BK21 Program of the Ministry of Education of Korea. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] B.H. Behrens et al. (CLEO Collaboration), Phys. Rev. D 61, 052001 (2000); T.E. Coan et al. (CLEO Collaboration)， hep-ex/9912057.   \n[2] For reviews, see N. Isgur and M.B. Wise, in B Decays, Ed. B. Stone, 2nd edition (World Scientific, Singapore, 1994), P. 231; M. Neubert, Phys.Rep. 245, 259 (1994); I. Bigi, M. Shifman, and N. Uraltsev, Ann. Rev. Nucl. Part. Sci. 47, 591 (1997).   \n[3] N. Isgur and M.B. Wise,Phys. Lett. B 232, 113 (1989); ibid 237, 527 (1990); N. Isgur and M.B. Wise, Phys. Rev. D 42, 2388 (1990); G. Burdman and J.F. Donoghue, Phys. Lett. B 270, 55(1991); G. Kramer, T. Mannel, and G.A. Schuler, Z. Phys. C 51, 649 (1991); D. Du and C. Liu, Phys. Rev. D 50, 4558 (1994); D. Du, C. Liu and D.-X. Zhang, Phys. Lett. B 317, 179 (1993); A.I. Sanda and A. Yamada, Phys. Rev. Lett. 75, 2807 (1995); Z. Ligeti and M.B. Wise, Phys. Rev. D 53, 4937 (1996); Z. Ligeti, I.W. Stewart and M.B. Wise, Phys. Lett. B 420, 359 (1998); Z. Ligeti and M.B. Wise, Phys.Rev. D 60,107506 (1999); E.M. Aitala et al., Phys.Rev. Lett. 80, 1393 (1998).   \n[4] G. Burdman, Z. Ligeti, M. Neubert and Y. Nir, Phys. Rev. D 49, 2331 (1994).   \n[5] M.E. Luke, Phys. Lett. B 252, 447 (1990).   \n[6] A.F. Falk et al., Nucl. Phys.B 343,1 (1990); J.D. Bjorken, in: Gauge Bosons and Heavy Quarks, Proc.18th SLAC Summer Institute on Particle Physics, Stanford, 1990, edited by J.F. Hawthorne, pp167.   \n[7] Y.-B. Dai, X.-H. Guo,and C.-S. Huang, Nucl. Phys. B 412, 277 (1994). ",
+        "page_idx": 8
+    }
+]

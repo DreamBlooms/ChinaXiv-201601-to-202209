@@ -1,0 +1,444 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201705170914 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李航,严方晨,焦菊英,唐柄哲,张意奉.黄土丘陵沟壑区不同植被类型土壤有效水和持水能力.生态学报,2018,38（11):3889-3898.LiH,YnFZieilPlateau.Acta Ecologica Sinica,2018,38(11) :3889-3898.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄土丘陵沟壑区不同植被类型土壤有效水和持水能力",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李航'，严方晨}，焦菊英1,2,\\*，唐柄哲¹，张意奉",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 西北农林科技大学水土保持研究所黄土高原土壤侵蚀与旱地农业国家重点实验室，杨凌712100  \n2中国科学院水利部水土保持研究所黄土高原土壤侵蚀与旱地农业国家重点实验室，杨凌712100",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要;以黄土丘陵沟壑区坊塌流域不同植被类型为研究对象,在野外调查的基础上,利用离心机法测定不同植被类型0—10$1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层不同吸力下的土壤含水率,并利用Van Gennuchten 模型对土壤水分特征曲线进行拟合,对比分析了不同植被类型不同土层土壤水分特征曲线、土壤水分有效性和持水性。结果表明;随着植被恢复的进行,不同植被类型土壤水分特征曲线出现了明显的差异,但是其斜率基本不变且不同植被类型 $0 { - } 1 0 \\ldots 1 0 { - } 2 0 \\ \\mathrm { c m }$ 土层土壤水分特征曲线都呈近似的\"S\"型;不同植被类型 $0 { - } 1 0 \\ldots 1 0 { - } 2 0 \\ \\mathrm { c m }$ 土层土壤有效水范围分别为 $2 2 . 6 5 \\% - 2 6 . 8 0 \\%$ ， $2 3 . 9 7 \\% = 2 8 . 1 3 \\%$ ,除白羊草群落和刺槐林外呈现出多年生蒿禾类群落低于灌木群落而高于一年生草本群落的变化趋势;不同植被类型土壤持水能力在0— $1 0 \\ \\mathrm { c m }$ 土层没有显著性差异,在 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 呈现出多年生蒿禾类群落低于灌木群落而高于一年生草本群落,其中白羊草群落最大,刺槐林最低。刺槐林有效水分和土壤持水能力都较低,建议适当采取间伐并促进其近自然化恢复来实现土壤水分的可持续利用,尽量避免在阳坡缺水地区种植刺槐。对于研究地区土壤水分的可持续利用、植被恢复和科学合理的进行植被配置具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：黄土丘陵沟壑区;植被类型;土壤水分特征曲线;有效水;土壤持水能力",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Soil water availability and holding capacity of different vegetation types in hillygullied region of the Loess Plateau ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Hang'， YAN Fangchen’， JIAO Juyingl.2\\*， TANG Bingzhe'， ZHANG Yifeng1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1StateKeybatofSlrosioddFneLssstifldteseatsAed Forestry University,Yangling71210o,China   \n2StateKybflsiddteteefd Ministry of Water Resources,Yangling 712100,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Based on field investigations，thesoil moistureof diferentsuction inO—10cm Soil layerand10—20cm Soil layer from different vegetation types in Fangta watershed in hilly-gulled regionof the Less Plateau，was measuredusing a high-sped centrifuge，and the watercharacteristic curves were obtained using the mathematical models of Van Genuchten. Then，parameters such as soil moisture characteristic curves，soil water capacity,and soil moisture availability inthe 0—10 cm and1O—2Ocm soil layers werecompared among diferent vegetation types.The resultsshowed that thesoil water retentioncurves wereobviouslydiferentinboth profilesof diferent vegetationtypes，butallsoil waterretentioncurves among diferent vegetation types appeared as approximate“S” shapes.The range of soil available water in the 0一 $1 0 \\ \\mathrm { c m }$ and 10—20 cm soil layers were $2 2 . 6 5 \\% - 2 6 . 8 0 \\%$ and $2 3 . 9 7 \\% - 2 8 . 1 3 \\%$ ，respectively，among different vegetation types， where soil moistureavailabilityof grass communitiesand theperenialArtemisiacommunities wasgreaterthan thatof the annual herbaceouscommunityand less than thatof shrubcommunity exceptthe Bothriochloa ischaemumcommunityand the ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Robiniapseudoacacia forest.There werenosignificantdiferencesintheO—1Ocmsoillayeramongdiferentvegetation types，but in the 10— $2 0 ~ \\mathrm { c m }$ soil layer，soil water capacities of grass communities and the perennial Artemisia communities were higher than thatoftheannual herbaceous communityand lower thanthatof the shrubcommunity.Its maximum was in the Bothriochloaischaemumcommunityandthe minimum wasinthe Robinia pseudoacacia forest.As soilavailable waterand soil watercapacityof Robinia pseudoacacia wereatrelativelylowlevels，intermediate cutingscan betaken to promote naturalrecoveryandeventuallyrealizethesustainableutilizationof waterinartificial Robiniapseudoacacia forests.This provides agoodopportunity to Robinia pseudoacaciaon some slope conditions such as shadyslopesandgaps，where soil water conditions are more favorable.This research was significantlyimportantfor sustainableutilizationof water，vegetation restoration，and vegetation configuration in the study area. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:hilly-gulledregion of theLoess Plateau；vegetation types；soil waterretentioncurve；soil available water; soil water capacity ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "黄土高原地区由于受地理位置、气候条件、地形地貌、土壤以及人类活动对植被的破坏等多种因素的影响,同时该区水力、风力、重力侵蚀相互交错分布、地面支离破碎、天然植被破坏严重、土质结构疏松,使其成为中国乃至世界上水土流失最为严重的地区,也是我国生态系统退化最严重的地区之一[1]。该地区严重的水土流失问题受到了国家有关部门的高度重视,自 1999开始,实行了大规模的退耕还林（草)工程。经过多年退耕,植被得到了一定程度的恢复,但其蒸腾作用和作物自身耗水都变大,再加上黄土高原地区降雨较少,水分成为此地植物生长和重建的限制性因素[2-3]。因此,分析退耕后不同恢复植被类型的土壤持水性如何,不同植被类型的土壤有效水分又处于什么样的水平成为亟待解决的问题。明确退耕多年后不同植被类型土壤持水性和水分有效性的变化对该地区植被恢复和科学合理的进行植被配置有重要意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土壤有效水分是植被能有效利用的水分,对植被生长至关重要;而土壤持水能力在一定程度上反映了土壤的抗旱和释水能力[45]。因此,在干旱半干旱的黄土高原研究土壤有效水和持水能力是很有必要的。众多学者对土壤持水能力和土壤水分有效性进行了研究。李卓等[6]、舒凯民等[7]研究了容重对土壤持水性的影响;闫永利等[8]、党秀丽等[9]研究了保水剂对土壤持水性能的影响;Yan等[10]、高会议等[1]通过不同施肥对土壤持水性和土壤有效水的影响进行了研究,姚姣转等[12」对不同地貌对土壤持水性的影响进行了研究；张瑞等[13]、艾琴[14]对侵蚀黑土的土壤持水性进行了研究;周彩景等[15]研究了不同有机化合物对土壤持水性的影响;Li等[16]研究了林地的土壤持水性;Li等[17]研究了过度放牧草地的土壤持水性;Gonzdlez-Pelayo 等[18]对火灾后地中海灌木林的土壤持水能力进行了研究。尽管众多学者对土壤持水性和水分有效性进行了研究,但是系统的分析一年生草本群落到多年生蒿禾类草本群落再到灌木群落以及人工林地的土壤持水能力和水分有效性的研究鲜有报道。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文以陕西省安塞县坊塌流域为研究区域，选择不同植被群落为研究对象,在分析不同植被类型土壤水分特征曲线与土壤性质的基础上,研究不同植被类型的土壤有效水分和持水能力,为植被恢复过程中土壤水分的可持续利用提供依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区位于陕西省延安市安塞县坊塌流域,流域面积 $8 . 6 7 ~ \\mathrm { k m } ^ { 2 }$ ,年平均气温 $8 . 7 \\%$ ,年平均降雨量542.6mm,降雨主要集中在7—9月份且多暴雨,无霜期158—195d。自1999 年开始,该流域实行了大规模的退耕还林还草工程,该流域分布有大面积的人工乔灌植被和自然恢复植被,该区自然恢复植被演替大体经历了一年生草本群落阶段到多年生蒿禾类草本群落阶段,形成了以猪毛蒿（Artemisia scoparia）、赖草（Leymusscalinus）、长芒草（Stipa bungeana）、达乌里胡枝子（Lespedeza davurica）、铁杆蒿（Artemisia gmelinii）、茭蒿（Artemisia giraldi）、白羊草（Bothriochloa ischaemum）等为主要优势物种构成的不同组合的植物群落;而灌丛主要是人工柠条（Caragana intermedia）及封禁后天然形成的杠柳（Periploca sepium）、狼牙刺（Sophoraviciifolia）旱柳（Salixmatsudan)等,乔木主要以人工刺槐（Robinia psendoacacia）为主。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2样地选择与样品采集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "结合研究区自然恢复植被和人工乔灌林种植情况,2015年4月中旬在黄土丘陵沟壑区安塞县坊塌流域内,并根据不同的退耕方式,选取坡度类似 $( 2 1 ^ { \\circ } - 3 2 ^ { \\circ } )$ ,坡面平整无鱼鳞坑,无严重侵蚀沟且相距不远的7个自然恢复群落即猪毛蒿群落（ZMH）、长芒草群落（CMC）、白羊草群落（BYC）、铁杆蒿 $^ +$ 长芒草群落（TGH+CMC）、铁杆蒿 $^ +$ 大针茅群落( $\\mathrm { T G H + D Z M }$ ）、铁杆蒿 $+$ 茭蒿群落( $\\mathrm { T G H + J H } \\dot { , }$ )与狼牙刺群落（LYC）、以及人工的刺槐林(CH)和柠条林(NT),以裸地(LD)作为对照,不同植被类型和对照均选择三个样地作为重复。各样地的退耕年限是通过对农户进行多次走访和实地考证确定的。每个样地按从上到下斜对角线方式布设3个 $2 { \\mathrm { ~ m } } \\times { \\mathrm { ~ } }$ $2 \\mathrm { ~ m ~ }$ 样方进行植被调查。样地的具体情况如表1所示： C/y",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a9bb6f5d32c473578a330ce68067b4963c5f2617724f93e56eddef196b0fc213.jpg",
+        "table_caption": [
+            "表1所选样地基本信息",
+            "Table 1 Basic information of the sampling plots "
+        ],
+        "table_footnote": [
+            "ZMH:猪毛落,Artemisiascopariacommunity;C:长芒草群落,Stipabungeanacommunitiey；BYC:白羊草群落,Bothriochloaiscem community; $\\mathrm { T G H + C M C }$ ：铁杆蒿 $^ +$ 长芒草群落,Artemisiagmelinit $^ { + }$ Stipa bungeana community; $\\mathrm { T G H + D Z M }$ ：铁杆蒿 $^ +$ 大针茅群落,Artemisia gmelinit $^ +$ Stipa grandis community ; $\\mathrm { T G H + J H }$ ：铁杆蒿 $^ +$ 茭蒿群落,Artemisia gmelinii+Artemisia giraldii community;LYC;狼牙刺群落,Sophora vicifolia community;CH; 刺槐林,Robinia psendoacacia forestry;NT:柠条林,Caragana intermedia forestry;LD:裸地,bare slope land "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>年限</td><td>Gradiet()</td><td>Elevaton/m</td><td>5</td><td></td></tr><tr><td></td><td></td><td></td><td>1274</td><td></td><td></td></tr><tr><td>ZMH</td><td>7-8</td><td>27</td><td>1275</td><td>13 72</td><td>7 28</td></tr><tr><td>CMC</td><td>9-10</td><td>21</td><td>1259</td><td>23 49</td><td>45</td></tr><tr><td>BYC TGH+CMC</td><td>15</td><td>23 25</td><td>1261</td><td>36 11 31</td><td>28</td></tr><tr><td>TGH+DZM</td><td>25 40</td><td>29</td><td>1268</td><td>50 38 22</td><td>22</td></tr><tr><td>TGH+JH</td><td>40</td><td>32</td><td>1232</td><td>40 16</td><td>24</td></tr><tr><td>LYC</td><td>40</td><td>35</td><td>1250</td><td>70 7</td><td>18</td></tr><tr><td>CH</td><td>20 世纪80年代</td><td>23</td><td>1278</td><td>63 3</td><td>60</td></tr><tr><td></td><td>种,1999 年砍</td><td>阶梯坡度43</td><td>1162</td><td></td><td>18</td></tr><tr><td>NT LD</td><td>15-20 0</td><td>29</td><td>1264</td><td>60 25 0 100</td><td>0</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2015年5月在以上所选的样地上进行样品采集,土壤每个样地按从上到下斜对角的方式取3个重复。考虑到表层土壤理化性质随植被恢复变化相对明显，采取所选样地 $0 { - } 1 0 \\ldots 1 0 { - } 2 0 \\ \\mathrm { c m }$ 土层土样。其中：测定土壤容重和土壤水分特征曲线的土样用体积为 $1 0 0 ~ \\mathrm { c m } ^ { 3 }$ 的环刀取土;测定土壤有机质的土样用土钻按“S”型取5点各土层混合样装入样品袋,自然风干后待用;土壤颗粒组成的样品用规格为 $1 2 \\ \\mathrm { c m } { \\times } 1 0 \\ \\mathrm { c m } { \\times } 8 \\ \\mathrm { c m }$ 的铝盒进行原状土的采取,带回实验室后沿土壤的自然结构节理轻轻剥开,剥成直径为 $1 ~ \\mathrm { c m }$ 左右的小土块,剔去粗根和小石块,平摊在通风处自然风干待用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用 MS200 型激光粒度仪测定土壤颗粒组成,土壤颗粒分级采用国际制;采用环刀法测定土壤容重;采用重铬酸钾-外加热法测定有机质;利用离心机法测定土壤水分特征曲线,测定的吸力范围为1一 ${ \\cdot } 1 0 0 0 \\ \\mathrm { k P a }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 数据分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 土壤水分特征曲线的模型选择 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤水的基质势(土壤水吸力)作为土壤含水率的函数,他们之间的关系曲线称为土壤水分特征曲线，反映了土壤水和能量之间的关系,是反映土壤水分运动基本特征的曲线[19]。很多学者提出不同的经验公式来描述土壤水分特征曲线,常用的有 Brooks-Corey 模型、Gardner 模型、Campbell模型、Van Genuchten 模型等。但",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "是鉴于Van Genuchten模型无论是对于粗质地土壤,还是较黏质地土壤,都具有较好的拟合效果[20]。因此本研究采用Van Genuchten 模型对土壤水分特征曲线进行拟合。Van Genuchten 模型方程如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $q$ 为土壤含水率; $q _ { r }$ 为土壤残余体积含水率( $\\mathrm { ( c m ^ { 3 } / c m ^ { 3 } }$ ）； $q _ { s }$ 为土壤饱和含水率( $\\mathrm { c m } ^ { 3 } / \\mathrm { c m } ^ { 3 }$ ）； $h$ 为土壤吸力(cm）; $m _ { \\cdot } n$ 为土壤水分特征曲线形状系数， $\\alpha$ 为土壤进气值的倒数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 土壤有效水分界限划分",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了更清晰地显示土壤水分特征曲线的变化特征,以土壤水吸力水柱高厘米数绝对值的对数值 $p F$ 值为纵坐标,以土壤含水率为横坐标绘土壤水分特征曲线图。根据已有的研究成果[],取 $p F = 1 . 8$ 对应的土壤含水率为田间含水量,分别取 $p F { = } 3 . 8$ 和 $p F { = } 4 . 2$ 对应的土壤含水率为暂时萎蔫系数和永久萎蔫系数。从而计算出有效水( $p F$ 值为1.8—4.2）、速效水( $\\cdot { } _ { p F }$ 值为1.8—3.8)和迟效水( $p F$ 值为3.8—4.2)的土壤含水率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.3比水容量的计算",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据前人研究表明[4],土壤吸持的水分的有效性不在于土壤含水量的多少,在于吸力的大小。而比水容量就是衡量土壤水分对植物的有效性和反应土壤持水性能的一个重要的指标,它是土壤水分特征曲线的斜率,即每单位基膜势(负压值)变化所引起的土壤含水率的变化[19],计算公式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc = { \\frac { d _ { \\theta } } { d _ { h } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $d$ 表示对 $\\theta$ 和 $h$ 分别取微分， $\\theta$ 为土壤含水率 $\\boldsymbol { { \\widehat { \\mathbf { \\ell } } } } ( \\boldsymbol { \\mathbf { \\ell } } )$ 为比水容量 $\\mathrm { ( m L \\ k P a ^ { - 1 } \\ k g ^ { - 1 } ) } ; h$ 为土壤吸力(cm）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "比水容量值越高,即单位水吸力释放的水较多,则说明土壤的供水能力越大,不仅表示有较多的水供植物利用,而且只需较小的吸力就能从土壤中吸收较多的水分[21]。如果植物以相同的能量吸水,在不同的吸力条[4]件下，从各土壤中所吸收的水量因比水容量的不同而有很大的差异 0",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4 数据处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "数据处理采用 Excel 2007,统计分析采用 SPSS20.0,作图采用 Sigmaplot12.5,并采用软件RETC对土壤水分特征曲线进行拟合。利用最小显著极差法(LSD)进行土壤水分参数、土壤性质和比水容量的显著性差异分析。 2 2",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1不同植被群落土壤水分特征曲线",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从土壤水分曲线图(图1)可以看出，各植被类型0—10、10— $2 0 \\ \\mathrm { c m }$ 土层土壤水分特征曲线是平行的曲线,呈近似的“S\"形。按疏密程度将不同植被类型的 $0 { - } 1 0 \\ldots 1 0 { - } 2 0 \\ \\mathrm { c m }$ 土层土壤水分特征曲线可分为 $0 { < } p F { < }$ $1 . 7 \\cdot 1 . 7 { < } p F { < } 2 . 0 1$ 和 $2 . 0 1 < p F < 4 . 0 1$ 三个吸力段。在 $0 { < } p F { < } 1 . 7$ 吸力段曲线较分散,且曲线有交叉; $1 . 7 { < } p F <$ 2.01吸力段,可视为从低吸力段向中高吸力段过渡期，曲线排列紧密； $2 . 0 1 < p F < 4 . 0 1$ 吸力段,土壤水分特征曲线为相对集中的平行曲线。无论是 $0 { - } 1 0 ~ \\mathrm { c m }$ 土层,还是 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层,土壤含水率随着土壤水吸力的增大不断减小,且减小的趋势也在逐渐变缓。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤水分特征曲线在同一土壤含水量下,土壤水吸力越高,土壤保持水分的能力越强。在0一 $1 0 \\ \\mathrm { c m }$ 土层， $0 < p F < 1 . 7$ 吸力段,柠条林持水能力最好,铁杆蒿 $^ +$ 长芒草群落持水能力最差,并且白羊草群落和柠条群落、铁杆蒿 $+$ 茭蒿群落有交叉，狼牙刺群落和长芒草群落有交叉，铁杆蒿 $^ +$ 大针茅群落和裸地、刺槐林、猪毛蒿群落有交叉；在 $1 . 7 { < } p F { < } 4 . 0 1$ 吸力段,白羊草群落持水性能较高;其次为柠条林、狼牙刺群落;铁杆蒿 $+$ 长芒草群落的持水能力最差。在 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层,白羊草群落、狼牙刺群落和柠条林在全吸力段持水能力都大于其他群落,其中白羊草群落持水能力最好且在 $1 . 7 < p F < 4 . 0 1$ 吸力段狼牙刺群落和柠条群落曲线有交叉；在 $1 . 7 { < } p F { < }$ 4.01吸力段，铁杆蒿 $^ +$ 长芒草群落和铁杆蒿 $^ +$ 茭蒿群落持水能力最低；在 $1 < p F < 1 . 7$ 吸力段,猪毛蒿群落持水能力最差;在 $0 { < } p F { < } 1$ 吸力段,裸地和铁杆蒿 $^ +$ 大针茅群落持水能力最差;在 $0 { < } p F { < } 1 . 7$ 吸力段群落间也出现了曲线的交叉。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d1f6427112103f0067458ff43faa1c9492f5b87ad0c2e14cd6839a8d01a4c1d.jpg",
+        "img_caption": [
+            "图1不同植被类型的土壤水分特征曲线图",
+            "Fig.1Soil water retention curve of different vegetation types "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ZMH:猪毛群落,ArtemisiasopariacommunityCC;长芒草群落,Stipabngeanacommunitiey；YC:白羊草群落,othriochloaschum community; $\\mathrm { T G H + C M C }$ ：铁杆蒿 $^ +$ 长芒草群落,Artemisiagmelini $^ { + }$ Stipa bungeana community; TGH+DZM;铁杆蒿 $^ +$ 大针茅群落,Artemisiagmelinit $^ +$ （20 Stipa grandis community ; $\\mathrm { T G H + J H }$ ：铁杆蒿 $^ +$ 茭蒿群落,Artemisia gmelinii+Artemisia giraldii community;LYC;狼牙刺群落,Sophora vicifolia community;CH;刺槐林,Robiniapsendoacacia forestry;NT;柠条林,Caragana intermediaforestry;LD:裸地,bare slopeland ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了能使土壤水分特征曲线的研究能够定量化,利用Van Genuchten模型来拟合各植被类型0—10、10—$2 0 ~ \\mathrm { c m }$ 土层土壤水分特征曲线,并分别对其参数进行显著性差异分析（图2）。不同植被类型的拟合效果均很好， $R ^ { 2 }$ 都在0.99以上，土壤含水率和土壤水吸力的相关关系呈极显著水平( $P { < } 0 . 0 1$ )，基本与实测曲线重合，说明此模型适于该地区的土壤水分特征曲线拟合。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "随着植被恢复的进行，V-G模型的4个参数在 $0 { - } 1 0 ~ \\mathrm { c m }$ 土层 $\\cdot 1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层表现各异（图2），均出现了一定程度的差异。土壤饱和含水率 $\\theta _ { s }$ 和形状系数 $n$ 差异性较大,表明在低吸力段不同植被类型土壤水分特征曲线斜率有一定的影响;残余含水率 $\\overline { { \\theta _ { r } } }$ 为土壤水分特征曲线的斜率为0 时的含水率（即很难随吸力变化而变化时的含水率）， $\\theta _ { r }$ 的差异表现在较高吸力段不同植被类型土壤水分特征曲线位置不同;而进气值为饱和土壤开始排水时的吸力值,α作为其倒数表现出的差异性表明不同植被类型土壤孔径分布在植被恢复过程中出现了改变。 5",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2不同植被类型土壤性质",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分别对不同植被群落土壤性质进行分析可知（表2、表3），白羊草群落粘粒( $\\mathrm { ' } < 0 . 0 0 2 \\ \\mathrm { m m }$ )含量无论是在$\\textstyle 0 { \\ - - } 1 0 \\ \\mathrm { c m }$ 土层还是在10- $\\cdot 2 0 \\ \\mathrm { c m }$ 土层都显著高于其他群落( $P { < } 0 . 0 5 \\ '$ ),但是其他群落之间差异性不显著；就砂粒 $( > 2 ~ \\mathrm { m m } )$ )而言,刺槐和裸地显著高于其他群落且白羊草在 $0 { - } 1 0 \\ldots 1 0 { - } 2 0 \\ \\mathrm { c m }$ 都显著低于其他群落( $P { < } 0$ 05）,其他群落间差异不显著。就不同恢复群落而言,随着植被不断恢复,粘粒含量呈增多的趋势而沙粒含量呈减小的趋势,可见表明从一年生草本群落到多年生蒿禾类群落再到灌木群落,土壤持水能力在逐渐增大。在不同植被类型看,柠条林持水能力除了低于白羊草以外强于其他群落。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于有机质而言,在0— $1 0 \\ \\mathrm { c m }$ 和 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层范围分别是 $6 . 7 6 { \\mathrm { - } } 1 3 . 2 1 ~ \\mathrm { g / k g }$ 和 $4 . 9 6 { \\mathrm { - } } 1 1 . 7 2 ~ \\mathrm { g / k g }$ ,铁杆蒿 $^ +$ 茭蒿群落有机质含量在两个土层都显著高于其他群落( $P { < } 0 . 0 5 )$ 。在0— $1 0 ~ \\mathrm { c m }$ 土层土壤,长芒草群落、铁杆蒿 $+$ 长芒草群落、猪毛蒿群落、刺槐林和裸地有机质含量显著低于其他群落( $\\scriptstyle \\cdot P < 0 . 0 5 ,$ ），其他群落有机质含量无显著性差异。在 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层,长芒草群落和裸地显著低于其他群落,而柠条林有机质含量除了低于铁$n$ ：土壤水分特征曲线形状系数,soilwater etentioncurve shapefactor;α：土壤进气值的倒数,thereciprocal ofair-entryvalue;同字母分别表示0—10、10—20cm土层不同群落间差异显著( $P { < } 0 . 0 5$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/28eb9dac3d3ac3743cf716c002ca21d92ded161f36ad3769efdcd791bfa92b18.jpg",
+        "img_caption": [
+            "图2不同植被类型土壤VanGenuchten模型参数",
+            "Fig.2The parameters of Van Genuchten model of different vegetation type! "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "杆蒿 $+$ 茭蒿群落外显著高于其他群落。就容重来看，白羊草群落无论是在0— $1 0 \\ \\mathrm { c m }$ 土层还是在 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层都高于其他群落,刺槐林、柠条林和狼牙刺群落在两个土层容重都处于较低水平。在 $0 { - } 1 0 ~ \\mathrm { c m }$ 土层,铁杆蒿 $+$ 茭蒿群落,铁杆蒿 $^ +$ 长芒草群落、柠条林,狼牙刺群落和刺槐群落容重低于其他群落。在 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层,植被群落间容重差异不显著。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f98a6240164656d62dc1a12775c97ce7a0e5640d9701b6217f33ade6cf901802.jpg",
+        "table_caption": [
+            "表2不同植物群落0— $\\mathbf { 1 0 ~ c m }$ 土层土壤性质",
+            "Table 2Soil properties in O—10 cm soil layer among different Vegetation types "
+        ],
+        "table_footnote": [
+            "数据后不同字母表示不同群落间差异显著( $\\scriptstyle P < 0 . 0 5$ "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">植被类型</td><td colspan=\"5\">土壤性质 Soil properties</td></tr><tr><td>粘粒</td><td>粉粒</td><td>砂粒</td><td>有机质</td><td>容重Bulk</td></tr><tr><td>Vegetation types</td><td>Clay/%</td><td>Silt/%</td><td>Sand/%</td><td>Organic matter/(g/kg)</td><td>density/(g/cm³)</td></tr><tr><td>LD</td><td>9.66±0.01bc</td><td>23.61±0.01de</td><td>66.73±0.00ac</td><td>6.76±0.64c</td><td>1.14±0.01abc</td></tr><tr><td>BYC</td><td>11.67±0.50a</td><td>32.55±2.09a</td><td>55.77±2.04e</td><td>10.40±2.01b</td><td>1.21±0.09a</td></tr><tr><td>ZMH</td><td>9.75±0.33bc</td><td>26.17±3.10cde</td><td>64.08±3.43acd</td><td>6.95±0.63c</td><td>1.14±0.05ab</td></tr><tr><td>LYC</td><td>9.46±0.18c</td><td>29.80±0.92ab</td><td>60.74±1.10cd</td><td>10.91±2.13ab</td><td>1.09±0.12bc</td></tr><tr><td>TGH+JH</td><td>9.99±0.67bc</td><td>27.66±2.57bcd</td><td>62.35±3.23abcd</td><td>13.21±3.59a</td><td>1.12±0.05b</td></tr><tr><td>CMC</td><td>10.17±0.60bc</td><td>28.34±2.10bc</td><td>61.49±2.70bd</td><td>7.57±0.22c</td><td>1.14±0.05ab</td></tr><tr><td>TGH+CMC</td><td>9.36±1.15c</td><td>24.68±3.02de</td><td>65.96±4.17ab</td><td>7.49±0.16c</td><td>1.11±0.09bc</td></tr><tr><td>TGH+DZM</td><td>9.80±1.39bc</td><td>26.99±2.50bcde</td><td>63.21±3.88abcd</td><td>9.01±4.53bc</td><td>1.16±0.07ab</td></tr><tr><td>CH</td><td>10.21±1.94bc</td><td>24.20±2.23e</td><td>65.59±4.18a</td><td>6.90±7.04c</td><td>1.04±0.10c</td></tr><tr><td>NT</td><td>10.91±1.67ab</td><td>29.20±3.19b</td><td>59.89±4.86d</td><td>11.05±2.41ab</td><td>1.11±0.08bc</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/2e012d342c4534c802d9fa853b572dfb9550dcb4f345602b738cfd10aab63bcf.jpg",
+        "table_caption": [
+            "表3不同植物群落10— $\\mathbf { \\nabla } \\cdot 2 \\mathbf { 0 } \\ \\mathbf { c m }$ 土层土壤性质",
+            "Table 3Soil properties in 10—20 cm soil layer among different Vegetation types "
+        ],
+        "table_footnote": [
+            "数据后不同字母表示不同群落间差异显著( $P { < } 0 . 0 5 \\rangle$ "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">植被类型 Vegetation types</td><td colspan=\"5\">土壤性质 Soil properties</td></tr><tr><td>粘粒</td><td>粉粒</td><td>砂粒</td><td>有机质</td><td>容重</td></tr><tr><td></td><td>Clay/%</td><td>Silt/%</td><td>Sand/%</td><td>Organic matter/(g/kg)</td><td>Bulk density/(g/cm³)</td></tr><tr><td>LD</td><td>9.47±0.02bc</td><td>26.64±0.01cd</td><td>63.89±0.01ab</td><td>4.96±0.13bc</td><td>1.15±0.02ab</td></tr><tr><td>BYC</td><td>12.67±2.34a</td><td>35.27±4.11a</td><td>52.06±6.42c</td><td>6.40±0.79bc</td><td>1.22±0.10a</td></tr><tr><td>ZMH</td><td>9.78±0.07bc</td><td>26.10±4.49cd</td><td>63.14±6.00a</td><td>5.94±0.80bc</td><td>1.11±0.08b</td></tr><tr><td>LYC</td><td>10.29±0.84bc</td><td>32.65±1.71ab</td><td>57.05±2.56bc</td><td>6.66±1.66bc</td><td>1.13±0.04b</td></tr><tr><td>TGH+JH</td><td>10.16±1.20bc</td><td>28.14±3.04cd</td><td>61.70±4.24ab</td><td>11.72±1.61a</td><td>1.11±0.05b</td></tr><tr><td>CMC</td><td>10.96±0.99b</td><td>28.55±1.44bcd</td><td>60.49±2.43ab</td><td>5.18±1.14c</td><td>1.13±0.07b</td></tr><tr><td>TGH+CMC</td><td>8.92±0.25c</td><td>24.91±2.34d</td><td>66.17±2.60a</td><td>5.80±1.03bc</td><td>1.15±0.05ab</td></tr><tr><td>TGH+DZM</td><td>9.11±1.30c</td><td>25.57±3.86d</td><td>65.31±5.16a</td><td>6.69±4.01bc</td><td>1.15±0.06ab</td></tr><tr><td>CH</td><td>9.79±1.09bc</td><td>25.35±1.50d</td><td>64.86±2.58a</td><td>6.87±3.59bc</td><td>1.13±0.06b</td></tr><tr><td>NT</td><td>10.19±1.04bc</td><td>29.25±2.79bc</td><td>60.55±3.83ab</td><td>D 8.41±1.21b</td><td>1.13±0.08b 0</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3不同植被群落土壤水分的有效性",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从得到的不同植被类型土壤水分的有效性来看（图3）,0—10cm土层有效水的含水量范围为 $2 2 . 6 5 \\%$ 一$2 6 . 8 0 \\%$ ,从恢复阶段来看,基本表现出多年生蒿禾类群落低于灌木群落而高于一年生草本群落;从植被类型来看，白羊草群落最大,柠条林次之,刺槐林、铁杆蒿 $^ +$ 长芒草群落最低,白羊草群落显著大于刺槐群落( $P { < } 0$ =05）,其他群落间显著性差异不明显。速效水与有效水呈同样的趋势,其范围为 $2 2 . 0 8 \\% - 2 5 . 9 4 \\%$ 。迟效水含量范围 $0 . 3 5 \\% - 0 . 9 1 \\%$ ,刺槐与裸地、铁杆蒿 $^ +$ 长芒草群落有显著性差异,其他群落没有显著性差异。10—20cm 土层有效含水量范围为 $2 3 . 9 7 \\% - 2 8 . 1 3 \\%$ ,白羊草群落有效含水量显著的大于裸地、猪毛蒿群落、长芒草群落、铁杆蒿 $+$ 茭蒿群落和铁杆蒿 $+$ 大针茅群落的有效含水量( $P { < } 0 . 0 5 )$ ,基本呈现出多年生蒿禾类群落低于灌木群落而高于一年生草本群落,刺槐林和铁杆蒿 $^ +$ 大针茅群落有效含水量最低。速效含水量与有效含水量有同样的趋势,其范围为 $2 3 . 4 2 \\%$ 一 $2 7 . 4 4 \\%$ 。迟效含水量各植被类型之间没有显著性差异。从图3中可以看出，不同植被类型土壤在10— $2 0 ~ \\mathrm { c m }$ 土层的土壤有效水分和速效水分较0— $1 0 \\ \\mathrm { c m }$ 土层土壤有效水分和速效水高。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4不同植被群落比水容量",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表4、表5表明,随着土壤水吸力的增大直至凋萎系数所在水吸力,比水容量的数量级范围为 $1 0 ^ { - 1 } { - } 1 0 ^ { - 5 }$ 。在 $0 . 5 { - } 1 \\ \\mathrm { k P a }$ 的范围，各恢复阶段的植物群落的比水容量的数量级为 $1 0 ^ { - 1 }$ ,相同吸力下植物可以吸收较多的水，5— $1 0 \\ \\mathrm { k P a }$ 时，而田间含水量所在的吸力值为 $6 . 1 9 \\ \\mathrm { k P a }$ ,各植物群落的比水容量为 $1 0 ^ { - 2 }$ ,植物吸水变得困难。暂时凋萎系数和永久凋萎系数所在的吸值，分别为 $6 1 8 . 6 \\mathrm { \\ k P a }$ 和 $1 5 5 3 . 8 ~ \\mathrm { k P a }$ ,各植物群落比水容量的数量级为 ${ { 1 0 } ^ { - 5 } }$ ,可见此时植物已经很难从土壤中吸收水分。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "分别对 $_ { 0 - 1 0 \\mathrm { ~ c m } }$ 土层、 $. 1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层每个吸力段的不同植被类型的比水容量的显著性差异进行了分析（表4、表 $5 ) _ { \\circ } { \\bigcirc } - 1 0 \\ \\mathrm { c m }$ 土层不同植被类型土壤比水容量没有显著性差异,只有在 $1 5 5 4 \\mathrm { ~ k P a }$ 时,白羊草和裸地出现了显著性差异( $_ { _ { P < 0 . 0 5 ) } }$ 。在 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层中,不同植被类型土壤比水容量在土壤水吸力小于 $2 0 ~ \\mathrm { k P a }$ 时没有显著性差异;在土壤水吸力大于 $2 0 \\ \\mathrm { k P a }$ 时,比水容量在各吸力段表现各异,但是其变化趋势基本类似,除了白羊草较大外,基本都呈现出多年蒿禾类草本群落大于一年生草本群落而小于灌木林,刺槐林最小。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在0— $1 0 \\ \\mathrm { c m }$ 土层 $\\cdot 1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层不同植被类型土壤有效水分基本表现出多年生蒿禾类群落低于灌木群落而高于一年生草本群落的变化趋势;在 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层,不同类型植被土壤持水能力呈现出多年蒿禾类草本群落大于一年生草本群落而小于灌木林的变化趋势。不同植物群落由于优势种各异,植物种自身的生物学不同字母分别表示 $0 { - } 1 0 \\ \\mathrm { c m } \\ . 1 0 { - } 2 0 \\ \\mathrm { c m }$ 土层不同群落间差异显著(P<0.05)",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/996d8b3c142003a36a8919f807d622d2e8359dbd2e383e77d627bbf38a72a2d2.jpg",
+        "table_caption": [
+            "（-T）/"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>植被类型</td><td colspan=\"3\"></td><td colspan=\"6\">土壤水吸力 Soil water suction/kPa</td><td colspan=\"7\"></td></tr><tr><td>Vegetation types</td><td>0.5</td><td>1.0</td><td>5.0</td><td></td><td>10.0</td><td>20.0</td><td>60.0</td><td>100.0</td><td>400.0</td><td>618.0</td><td>1554.0</td><td></td></tr><tr><td>BYC</td><td>5.7×10-1a</td><td>2.3×10-1a</td><td>3.1x10-2a</td><td>1.3×10-2a</td><td></td><td>5.4×10-3a</td><td>1.4×10-3a</td><td>9.5×10-4a</td><td>1.3×10-4a</td><td>7.2×10-5a</td><td>2.3×10-5 a</td><td></td></tr><tr><td>CH</td><td>6.1×10-1a</td><td>2.4×10-' a</td><td>3.1×10-2a</td><td>1.3×10-²a</td><td>5.2×10-3a</td><td>1.3×10-³a</td><td></td><td>8.8×10-4a</td><td>1.1×10-4a</td><td>6.4×10-5 a</td><td>2.0×10-5 ab</td><td></td></tr><tr><td>TGH+DZM</td><td>5.2×10-1a</td><td>2.1×10-1a</td><td>2.8x10-²a</td><td>1.2×10-2a</td><td>4.9×10-3a</td><td></td><td>1.2×10-3a</td><td>8.6×10-4a</td><td>1.1×10-4a</td><td>6.6×10-5a</td><td>2.1×10-5 ab</td><td></td></tr><tr><td>ZMH</td><td>6.3×10-1a</td><td>2.5×10-1a</td><td>3.2x10-²a</td><td>1.3×10-2a</td><td></td><td>5.4×10-3a</td><td>1.3×10-3a</td><td>9.0x10-4a</td><td>1.1×10-4a</td><td>6.5×10-5 a</td><td>2.0x10-5 ab</td><td></td></tr><tr><td>CMC</td><td>6.0x10-la</td><td>2.4×10-1a</td><td>3.1x10-²a</td><td>1.3x10-²a</td><td></td><td>5.4×10-3a</td><td>1.3x10-3a</td><td>9.2×10-4a</td><td>1.2×10-4a</td><td>6.8x10-5a</td><td>2.1×10-5 ab</td><td></td></tr><tr><td>LYC</td><td>5.9x10-1a</td><td>2.4×10-1a</td><td>3.1x10-2²a</td><td>1.3×10-2a</td><td></td><td>5.4×10-3a</td><td>1.3×10-3a</td><td>9.2x10-4a</td><td>1.2×10-4a</td><td>6.9x10-5 a</td><td>2.1×10-5 ab</td><td></td></tr><tr><td>TGH+JH</td><td>6.2×10-1a</td><td>2.5×10-1a</td><td>3.2x10-²a</td><td>1.3x10-2a</td><td></td><td>5.5×10-3a</td><td>1.4×10-3a</td><td>9.4×10-4a</td><td>1.2×10-4a</td><td>6.0x10-5a</td><td>2.1×10-5 ab</td><td></td></tr><tr><td>TGH+CMC</td><td>5.7×10-1a</td><td>2.3×10-1a</td><td>2.9×10-2a</td><td>1.2×10-2a</td><td>4.9×10-3a</td><td></td><td>1.2×10-3a</td><td>8.3×10-4a</td><td>1.1×10-4a</td><td>6.0x10-5a</td><td>1.9×10-5 ab</td><td></td></tr><tr><td>NT</td><td>6.1×10-1a</td><td>2.5×10-1a</td><td>3.2×10-2²a</td><td>1.3×10-2a</td><td>5.5×10-³a</td><td></td><td>1.4×10-3a</td><td>9.5×10-4a</td><td>1.2×10-4a</td><td>7.1×10-5a</td><td>2.2×10-5 ab</td><td></td></tr><tr><td>LD</td><td>6.1x10-la</td><td>2.4x10-1a</td><td>3.1x10-²a</td><td>1.3x10-2a</td><td>5.2×10-3a</td><td></td><td>1.3x10-3a</td><td>8.9x10-4a</td><td>1.1×10-4a</td><td>6.5x10-5a</td><td>2.0×10-5b</td><td>干</td></tr><tr><td colspan=\"3\">不同字母表示土层不同群落间差异显著（P<0.05） 表50—10cm土层不同植被类型土壤的比水容量/（mLkPa-1g-1）</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>深</td></tr><tr><td colspan=\"9\"></td><td colspan=\"3\"></td></tr><tr><td>Table 5 Specific water capacity in 10-20cm soil layer among different vegetation types</td><td colspan=\"9\"></td><td colspan=\"3\"></td></tr><tr><td>植被类型</td><td colspan=\"3\"></td><td></td><td></td><td>土壤水吸力 Soil water suction/kPa</td><td colspan=\"3\"></td><td></td><td></td><td></td></tr><tr><td>Vegetation types</td><td>0.5</td><td>1.0</td><td>5.0</td><td>10.0</td><td>20.0</td><td>60.0</td><td>100.0</td><td>400.0</td><td>618.0</td><td>1554.0</td><td></td></tr><tr><td>BYC</td><td>5.9x10-1a</td><td>2.4×10-1a</td><td>3.2×10-2a</td><td>1.3x10-²a</td><td>5.1×10-3a</td><td>1.3x10-³bc</td><td>6.6×10-4bc</td><td>1.1×10-4cde</td><td>6.5×10-5bc</td><td>2.0x10-5cd</td><td></td></tr><tr><td>CH</td><td>5.7×10-1a</td><td>2.3x10-1a</td><td>3.0x10-²a</td><td>1.2×10-²a</td><td>5.5×10-3a</td><td>1.4x10-3 a</td><td>7.4×10-4a</td><td>1.3x10-4a</td><td>7.5×10-5a</td><td>2.4×10-5a</td><td></td></tr><tr><td>TGH+DZM</td><td>5.7×10-1a</td><td>2.4×10-1a</td><td>3.1×10-2²a</td><td>1.3x10-2a</td><td>5.1×10-³a</td><td>1.3x10-3c</td><td>6.5×10-4C</td><td>1.1×10-4e</td><td>6.4×10-5c</td><td>2.0x10-d</td><td></td></tr><tr><td>ZMH</td><td>5.8×10-1a</td><td>2.1×10-1a</td><td>3.0x10-2a</td><td>1.2×10-2a</td><td>5.1×10-³a</td><td>1.3×10-3bc</td><td>6.6×10-4bc</td><td>1.1×10-4de</td><td>6.5×10-5bc</td><td>2.0x10-5 cd</td><td></td></tr><tr><td>CMC</td><td>5.7×10-1a</td><td>2.5×10-1a</td><td>3.0x10-²a</td><td>1.2×10-2a</td><td>5.1×10-3a</td><td>1.3×10-3bc</td><td>6.6×10-4c</td><td>1.1×10-4e</td><td>6.4×10-5c</td><td>2.0×10-5d</td><td></td></tr><tr><td>LYC</td><td>5.8×10-1a</td><td>2.4×10-1a</td><td>3.0x10-²a</td><td>1.2×10-²a</td><td>5.1×10-3a</td><td>1.3×10-3bc</td><td>6.6×10-4bc</td><td>1.1×10-4bcde</td><td>6.6×10-5bc</td><td>2.0×10-5 cd</td><td></td></tr><tr><td>TGH+JH</td><td>5.6×10-1a</td><td>2.4×10-1a</td><td>2.9x10-2a</td><td>1.2×10-²a</td><td>5.3×10-3a</td><td>1.3x10-3abc</td><td>7.0x10-4abc</td><td>1.2×10-4abcd</td><td>7.1×10-5 ab</td><td>2.2×10-5bc</td><td></td></tr><tr><td>TGH+CMC</td><td>5.7×10-1a</td><td>2.5×10-1 a</td><td>3.0x10-2a</td><td>1.3x10-2a</td><td>5.2x10-³a</td><td>1.3×10-³bc</td><td>6.7×10-4bc</td><td>1.1x10-4e</td><td>6.5×10-5c</td><td>2.0x10-5d</td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "（无>）"
+        ],
+        "table_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/052c52e5116e2ed17ca55c63188c33492d115197b0a08c2d5cf5fd2561110ca6.jpg",
+        "img_caption": [
+            "图3不同植被类型土壤有效水分",
+            "Fig.3Soil available waterof different vegetation types "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "特性对土壤有效水分和土壤持水能力的变化有很大影响。灌木群落相较于草本群落具有较大的冠幅和地上生物量,意味灌群落具有较多的枯枝落叶和死根来进行腐殖质的转化,进而增加了土壤有机质含量,减小土壤容重,改善土壤质量,提高土壤有效水分含量和土壤持水能力。而且较大根系生物量可以分泌更多胶接物质促进团聚体的形成[22],从而形成较好的土壤结构,增大土壤空隙,减小土壤容重,提高了土壤有效水分和土壤持水能力。一年生草本处于植被恢复初期,其生物量较少,对养分的累积能力较低,养分消耗大于累积,土壤养分含量逐渐减低[23],且对冲刷抗击能力较弱,土壤紧实,容重较大,土壤结构较差[24],使得有效含水率和土壤持水能力都较低。而多年蒿禾类群落较一年生草本群落结构复杂及生物种类多样化,群落凋落物增多，土壤中物质分解加速,有机质含量增加，土壤容重逐渐变小,土壤环境得到显著改善,相应的有效水分和土壤持水能力较一年生草本群落大[23]。无论是在 $_ { 0 - 1 0 \\ \\mathrm { c m } }$ 土层还是 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层,白羊草群落土壤粘粒含量都最大( $_ { _ { P < 0 . 0 5 ) } }$ 。在有机质含量较少且差异不大的土壤中,主要是土壤质地对土壤性质有影响[25],较高的黏粒,增加了土壤粘结能力,使得其土壤持水能力和土壤有效水较高。而刺槐林有机质较低,粘粒含量也相对较低,使得其土壤持水能力较小。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在本研究中，不同植被类型土壤 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层的有效含水量比 $0 { - } 1 0 ~ \\mathrm { c m }$ 土层的有效含水量高。土壤含水量不仅表现在不同类型之间,在不同土层间也有差异， $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层含量比0— $1 0 \\ \\mathrm { c m }$ 土层高与本研究结果类似[26]。在长期的土壤侵蚀过程中,结构和功能相对较好的表层土壤被流失,导致土壤养分贫瘠。而通过自然植被来恢复极度退化的生态系统是非常困难的,在不进行人工正确干预的情况下,需要很长的时间才能完成[27]。而且在植被恢复的过程中,本研究地区仍然伴随着土壤侵蚀的发生,使得表层土壤流失在持续发生,使得土壤养分状况和土壤结构都较差。尽管0— $1 0 \\ \\mathrm { c m }$ 土层土壤有机质含量较 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 高一些,但是有机质在必须达到一定值才能对土壤结构和持水性能及水、气关系有一定的影响[25],而在本研究中无论是0—$1 0 \\ \\mathrm { c m }$ 土层,还是 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层,有机质含量都较低。在有机质含量较低时,土壤质地对土壤性质有较大影响[25],而在本研究中,土壤均为砂质壤土。在0— $1 0 \\ \\mathrm { c m }$ 土层土壤结构遭到侵蚀破坏后， $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层土壤结构优于0— $1 0 \\ \\mathrm { c m }$ 土层的土壤结构,使得有效水分高于0— $1 0 \\ \\mathrm { c m }$ 土层。而在0— $1 0 \\ \\mathrm { c m }$ 土层土壤性质差异不显著时，土壤持水能力也没有差异性。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "随着植被恢复的进行,在同一土层间不同植被类型的土壤有效水含量和土壤持水能力基本都呈现出多年蒿禾类草本群落大于一年生草本群落而小于灌木林的规律,且白羊草群落土壤有效水分在0—10、10—20 cm土层均高于其他植被类型的土壤有效水含量。相同植被类型下，土壤有效水分在 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层高于0—10cm土层。在 $0 { - } 1 0 \\ldots 1 0 { - } 2 0 \\ \\mathrm { c m }$ 两个土层刺槐林有效水分和土壤持水能力都较低。因此，为实现土壤水分的可持续利用,可以适当采取间伐并促进其近自然化恢复与演替且不适宜在阳坡缺水地区种植大面积种植刺槐。 2",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1］张金屯.黄土高原植被恢复与建设的理论和技术问题.水土保持学报，2004，18(5)：120-124.  \n2]relcireclaimed slopes.CATENA，2011，84(3）：114-124.  \n[3]eLD,gZoJuJHaYofdoeeatiatedcihilleChina.CATENA，2007，70(2）：200-208.  \n［4］陈志雄，汪仁真.中国几种主要土壤的持水性质.土壤学报，1979,16(3)：277-281.  \n[5］沈思渊，席承藩.淮北主要土壤持水性能及其与颗粒组成的关系.土壤学报，1990,27(1)：34-42.  \n[6］李卓，吴普特,冯浩，赵西宁，黄俊，庄文化.容重对土壤水分蓄持能力影响模拟试验研究.土壤学报，2010，47（4)：611-620.  \n[7］舒凯民，樊贵盛.基于质地的土壤水分特征曲线参数非线性预测.人民黄河，2016，38（7)：138-141，145-145.  \n[8] 闫永利，魏占民，任秀苹，奇凤.保水剂对土壤持水性影响及在不同土壤中效果比较.节水灌溉，2016(1)：34-38.  \n[9] 党秀丽，张玉龙，黄毅.保水剂对土壤持水性能影响的模拟研究，农业工程学报，2005，21(4)：191-192.  \n[10］闫治斌，秦嘉海，王爱勤，肖占文，赵芸晨，程红玉，赵静，保水型专用肥对制种玉米田土壤蓄水量的影响及最佳施肥量研究.水土保持通报，2013，33(4)：200-205.  \n[11］高会议，郭胜利，刘文兆，李淼，张健.不同施肥土壤水分特征曲线空间变异．农业机械学报，2014,45（6)：161-165,176.  \n[12] 姚姣转，刘廷玺，王天帅，童新.科尔沁沙地土壤水分特征曲线传递函数的构建与评估.农业工程学报，2014，30(20)：98-108.  \n[13] 张瑞，苟晓敏，赵玉珍，王志强.东北黑土区土壤侵蚀对土壤持水性的影响.水土保持学报，2015，29(1)：62-65.  \n[14] 艾琴.侵蚀黑土与非侵蚀黑土土壤持水性能及物理性质差异性研究[D].长春：吉林农业大学，2013:1-49.  \n[15] 周彩景，刘军，王益权，赵加瑞，祁迎春.有机物质类型与含量对土壤持水性能的影响.西北农林科技大学学报（自然科学版），2008，,36(12）：115-120,128-128.  \n[16]LiYgeifaeiro1:  \n[17]LiXL,HouXY,iuZY,GFDgYanJJ.L-eovergaigiduceangsisilwate-reagapaciclsteppe.Rangeland Ecology & Management，2017,70(3): 324-330.  \n[18]Gonzle-elaodVmeGaaE，oJubistfreangsflwaterentoapacityiiashrblandoil/PrefthCgesolandWaterseatoliateCgdvioetalsiiatGeographical Research Insitute, Hungarian Academy of Sciences， 2008.  \n［19］王康.非饱和土壤水流运动及溶质迁移.北京：科学出版社，2010.  \n[20］徐绍辉，刘建立.土壤水力性质确定方法研究进展.水科学进展，2003，14（4）：494-501.  \n[21］马履一，翟明普，林平.京西山地土壤比水容量的分析//中国林学会造林分会第4届理事会暨学术讨论会造林论文集.宜丰,江西：中国林学会，1998.  \n[22］吴彦，刘世全，付秀琴，王金锡．植物根系提高土壤水稳性团粒含量的研究.土壤侵蚀与水土保持学报，1997,3（1)：45-49.  \n[23] 温仲明，焦峰，赫晓慧，焦菊英.黄土高原森林边缘区退耕地植被自然恢复及其对土壤养分变化的影响.草业学报，2007,16(1)：16-23.  \n>[24] 王凯博，陈美玲，秦娟，刘勇，安慧，上官周平.子午岭植被自然演替中植物多样性变化及其与土壤理化性质的关系.西北植物学报，2007，27(10):2089-2096.  \n[25]马成泽.有机质含量对土壤几项物理性质的影响.土壤通报，1994，25(2)：65-67.  \n[26] 韦兰英，上官周平.黄土高原不同演替阶段草地植被细根垂直分布特征与土壤环境的关系.生态学报，2006，26(11)：3740-3748.  \n[27]BshYaB,dGstodiiiplantgrowth-prootigcogassdliedotsofostdaterJoualofEviontalaagntl6.",
+        "page_idx": 9
+    }
+]

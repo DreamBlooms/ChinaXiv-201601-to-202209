@@ -1,0 +1,588 @@
+[
+    {
+        "type": "text",
+        "text": "Glacier variations and their response to climate change in an arid inland river basin of Northwest China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHOU Zuhao1, HAN Ning1.2\\*, LIU Jiajia', YAN Ziqi', XU Chongyu³, CAI Jingya1, SHANG Yizi', ZHU Jiasong4 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1StateKeyLaboratoryof SimulationandRegulationof WaterCycleinRiver Basin,China Instituteof Water Resourcesand   \nHydropower Research, Beijing 100038, China;   \n2 Beijing Branch,North China Municipal Engineering Designand Research Institute Co.Ltd.,Beijing 1o81,China;   \n3 Department of Geosciences, University of Oslo, Oslo 0316, Norway;   \n4 SchoolofCivilEninering,henhen Universityenen58,Cina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Glaciers are a critical freshwater resource of river recharge in arid areas around the world. In recent decades, glaciers have shown evidence of retreat due to climate change,and the accelerated ablation of glaciers and associated impacts on water resources have received widespread attention. Glacier variations result from climate change,so they can serve as an indicator of climate change. Considering the climatic differences in different elevation ranges, it is worthwhile to explore whether diffrent responses exist between glacier area and air temperature in each elevation zone. In this study, we selected a typical arid inland river basin (Sugan Lake Basin) in the western Qilian Mountains of Northwest China to analyze the glacier variations and their response to climate change. The glacier area data from 1989 to 2016 were delineated using Landsat Thematic Mapper (TM), Enhanced $\\mathrm { T M } +$ $( \\mathrm { E T M ^ { + } } ) $ and Operational Land Imager (OLI) images. We compared the relationships between glacier area and air temperature at seven meteorological stations in the glacier-covered areas and in the Sugan Lake Basin,and further analyzed the relationship between glacier area and mean air temperature of the glacier surfaces in July-August in the elevation range of $4 7 0 0 { - } 5 5 0 0 \\mathrm { ~ m ~ } \\mathfrak { a }$ 1.s.l. by the linear regression method and correlation analysis. In addition, based on the linear regression relationship established between glacier area and air temperature in each elevation zone, we predicted glacier areas under future climate scenarios during the periods of 2046-2065 and 2081-2100. The results indicate that the glaciers experienced a remarkable shrinkage from 1989 to 2016 with a shrinkage rate of $- 1 . 6 1 ~ \\mathrm { k m } ^ { 2 } / \\mathrm { a }$ $( - 0 . 5 \\% / \\mathrm { a } )$ ,and the rising temperature is the decisive factor dominating glacial retreat; there is a significant negative linear correlation between glacier area and mean air temperature of the glacier surfaces in July-August in each elevation zone from 1989 to 2016. The variations in glaciers are far less sensitive to changes in precipitation than to changes in air temperature. Due to the influence of climate and topographic conditions, the distribution of glacier area and the rate of glacier ablation first increased and then decreased in diferent elevation zones. The trend in glacier shrinkage willcontinue because air temperature willcontinue to increase in the future, and the result of glacier retreat in each elevation zone willbe slightly slower than that in the entire study area. Quantitative glacier research can more accurately reflect the response of glacier variations to climate change, and the regression relationship can be used to predict the areas of glaciers under future climate scenarios. These conclusions can offer effective references for assessing glacier variations and their response to climate change in arid inland river basins in Northwest China as well as other similar regions in the world. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: glacier variations; climate change; glacier area; remote sensing; regresion relationship; elevation zone; Qilian Mountains ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Glacier variations result from climate change, so they can serve as an important indicator of climate change. The melting of glaciers accelerated by rising temperature has seriously affcted the composition, annual distribution and stability of water resources of basins (Naz et al., 2014; Gan et al., 2O15; Zhu et al., 2O17). Even with the decrease in glaciers, the annual cycle of runoff is transformed from an ice-melt-dominated to a snow-melt-dominated regime (Horton et al., 2006). In arid inland regions, glaciers are often the main source of runoff for rivers (Sun et al., 2013). Therefore, monitoring the characteristics of glacial variations and their volatility trends, quantitatively analyzing the relationship between glacial area and climate factors and predicting the possible changes in future glacial areas are of great significance for the utilization of glacier resources and sustainable development of the ecology and economy in arid inland regions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The study of modern glaciology began in the early $1 9 ^ { \\mathrm { t h } }$ century. Before the 1980s, the majority of glacier mass balance monitoring abroad occurred in Europe, North America and the territory of the former Soviet Union (Dyurgerov, 2O01). Aerial photographs were collected in a few typical areas to measure glacier area and assess volume changes， thickness variations and glacier responses to climate change (Nye, 196O; Bradley and Miller, 1972; Kite and Reid, 1977). The findings indicated that the global glaciers were generally retreated since the 196Os (Mu et al., 2018).From the 1980s to the early $2 1 ^ { \\mathrm { s t } }$ century, with the development of remote sensing technology and Digital Elevation Model (DEM)， studying the characteristics of glaciers and dynamic changes in high-altitude mountains has become an important trend (e.g., Dwyer, 1995; Casassa et al., 20O2; Paul, 2O02). During this period, a sharp retreat in global glaciers was observed， which greatly encouraged researchers to study the intrinsic influences of glacier variations in different regions under different climate conditions (Dowdeswell et al., 1997; Liu et al., 2003). During the early part of the $2 1 ^ { \\mathrm { s t } }$ century, the widespread application of high-resolution remote sensing images, drone technology and radar thickness measurements played a significant role in studying global-scale and long-term glacier variations. Apart from the characteristics of glaciers, most researchers have gradually shifted to studying and forecasting glacier runoff, and identifying the impact of glacier variations on water resources and ecological stability of basins (e.g., Sorg et al., 2012; Gan et al., 2015). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "With global warming, glaciers in Northwest China have undergone significant changes since the 1990s (Yao et al.， 201O)，and these will have a comprehensive impact on the ecological environment and water resource safety in arid areas (Zhu et al., 2O17). The glacier area decreased by $10 \\% - 1 4 \\%$ from 1970 to 2012 in Northwest China (Liu et al., 2015), and the glacier volume decreased by $2 9 \\%$ in the past half-century in the Qilian Mountains (Sun et al., 2O18), all of which has caused a clear change in runoff, especially for glacier-fed rivers (Hagg et al., 2OO7; Sun et al., 2013; Wang et al., 2O17). During dry periods, glacial meltwater is the only and most important water source keeping rivers flowing (Singh and Kumar, 1997; Stahl et al., 2008; Sorg et al., 2012). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Numerical simulations of glacial change and its prediction are the frontiers of cryospheric science; in particular, simulations of glacier flow velocity and glacier mass balance based on climate factors have atracted increasing attention from scholars (Duan et al., 2O12; Liu et al., 2019). However, current research regarding glacier flow velocity and glacier mass balance is limited to the monitoring of typical individual glaciers, which is not suitable for the study of glaciers in basins. As one of the important indicators of climate change, the glacial area can be easily obtained. It can also be used to simulate and predict glacial variations with climate change by establishing a regression model among temperature, precipitation and glacier area. Moreover, previous studies of glaciers also have certain limitations. First, almost all research has focused on the relationship between glacier area variations and climate change at the basin scale or at several meteorological stations (e.g., Sorg et al., 2012; Rabatel et al., 2013; Wang et al., 2017). There is no quantitative analysis of the relationship between glacier area and climate factors. Second, previous studies have not analyzed the relationship between glacier area and air temperature in each elevation zone (e.g., Sakai et al., 2006; Tian et al., 2014; Sun et al., 2018). Changes in glaciers depend mainly on the climate of the glacier-covered area. The relationship between glacier area and air temperature exhibits diferent characteristics in different elevation zones due to diverse climate and topographic conditions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Qilian Mountains are located on the northern margin of the Tibetan Plateau in an arid to semi-arid region of Northwest China. Glacier and snow runof in the Qilian Mountains nourish the \"Silk Road Economic Belt\", which is very important for the communication between Europe and Asia (Sakai et al., 2O06; Sun et al., 2018). Monitoring the glacier resources of the region is of great significance to the implementation of the national \"Belt and Road Initiative\". In recent years, the accelerated ablation of glaciers has made the conflict between the water crisis and ecological degradation more prominent in arid areas (Bolch et al., 2010a; Pan et al., 2012; Zhu et al., 2017). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Therefore, this study selected a typical arid inland basin in the Qilian Mountains with the aim of (1)using remote sensing images to monitor glacial variations in the study area, (2) quantitatively analyzing the response of glacial area to climate factors, (3) comparing the variation characteristics of glaciers in different elevation zones and (4) establishing a regression relationship between glacier area and air temperature for the glacier-covered areas in each elevation zone and predicting the future glacier area based on the above relationship. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2Study area and data collection ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Studyarea ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Sugan Lake Basin is a typical arid inland river basin located in the western Qilian Mountains $( 3 8 ^ { \\circ } 0 0 ^ { \\prime } - 3 9 ^ { \\circ } 3 0 ^ { \\prime } \\mathrm { N }$ ： $9 3 ^ { \\circ } 3 0 ^ { \\prime } { - } 9 7 ^ { \\circ } 2 0 ^ { \\prime } \\mathrm { E } )$ in Northwest China. The study area covers an area of $2 0 . 1 7 { \\times } 1 0 ^ { 3 } ~ \\mathrm { k m } ^ { 2 }$ . It consists of the Haltang River, Danghenan Mountain and Tergun Daban Mountain (Fig. 1). The upper basin has an alpine and semi-arid climate while the middle and lower basins are characterized by a temperate arid climate. This region is mainly influenced by westerly winds and the Asian Monsoon; thus, most of the precipitation occurs in summer, infrequent and unsteady rains occur in spring and autumn, and rare precipitation events occur in winter. In addition, precipitation decreases from upstream to downstream, whereas evaporation presents the opposite trend. The annual precipitation ranges from 50 to $1 0 0 ~ \\mathrm { { m m } }$ and the average annual evaporation is approximately $2 4 0 0 \\mathrm { m m }$ (Ma et al., 2O15). The annual mean air temperature ranges from $- 0 . 9 ^ { \\circ } \\mathrm { C }$ to $3 . 0 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The latest authoritative data on the number of glaciers and their area in the Qilian Mountains were included in the Second Chinese Glacier Inventory (SCGI; http://westdc.westgis.ac.cn/data/). In the SCGI, the glacier data in the Sugan Lake Basin encompassed the period 2OO6-2009 and were mainly derived from remote sensing data in 2OO7. In addition, the SCGI shows that the glaciers in the Sugan Lake Basin are mainly distributed along the Haltang River, which is located in the southeastern part of the study area. The Sugan Lake Basin presents a total number of 350 glaciers covering an area of $3 1 7 . 5 7 ~ \\mathrm { k m } ^ { 2 }$ ， and the glacier surface elevations range from 4500 to $5 8 0 0 \\mathrm { ~ m ~ }$ a.s.l. The glaciers are well developed and glacial meltwater nourishes the Dunhuang oasis. For the glaciers in the Qilian Mountains, their average area was the largest and the ice volume was the second largest in the Haltang River Basin despite the fewer number of glaciers, compared to the Beidahe River Basin, Heihe River Basin and Danghe River Basin (Sun et al., 2018). Therefore, the Sugan Lake Basin can be selected as a typical representative arid inland river basin in the Qilian Mountains of Northwest China. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Data collection ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 Remote sensing data acquisition Landsat Thematic Mapper (TM), Enhanced $\\mathrm { T M } +$ $( \\mathrm { E T M } + )$ ） and Operational Land Imager (OLI) ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/efc71901fcdd2cf1602b0e04b2e946fb2b0e0aac1265cace48f0227aa1e3ea29.jpg",
+        "img_caption": [
+            "Fig. 1 Location of the Sugan Lake Basin (a), geographical overview of the Sugan Lake Basin (b) and major glacier distribution (c) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "images were used to delineate glacier outlines in the study area from 1989 to 2016. They were accessed from the United States Geological Survey (USGS) (htp://glovis.usgs.gov/) and the Geospatial Data Cloud website (http://www.gscloud.cn/). The images were subjected to radiometric and geometric corrections, and terrain correction was also performed using DEM data. The study area covered the scenes of path 136 and 137 and row O33. We obtained the monthly temperature of the glacier surfaces in the Sugan Lake Basin based on the air temperature of seven national meteorological stations, which are shown in Figure 1. The mean air temperature of the glacier surfaces is above $0 . 0 ^ { \\circ } \\mathrm { C }$ in July-August (ablation period) and below $0 . 0 ^ { \\circ } \\mathrm { C }$ during other months (accumulation period) in the Sugan Lake Basin. The time of the selected remote sensing images and the presence of snow often affect the reliability of the glacier extraction results. To obtain more accurate data and to ensure the time consistency of the remote sensing scenes, we selected dates mostly in August-September, i.e., the end of the ablation season without remnant fresh snow. In addition, we controlled for the cloudiness of each remote sensing image within $3 \\%$ . A total of 20 high-quality remote sensing images during the period 1989-2016 were finally selected in this study. The detailed information is shown in Table 1. In addition, the SCGI was accessed from the Environment and Ecological Science Data Center for West China (http://westdc.westgis.ac.cn/data/). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 Climate and DEM data acquisition ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Seven meteorological stations near the study area were selected to analyze climate change in this study (Fig. 1). They are in Dunhuang, Guazhou (formerly known as Anxi), Yumen, Subei, Lenghu, Da Qaidam and Delingha, with elevations of 1139, 1171, 1526, 2137, 2770, 3173 and $2 9 8 2 \\mathrm { m }$ a.s.l., respectively. We acquired daily air temperature and precipitation data from the seven stations during the period 1989-2016, which were provided by the China Meteorological Administration (http://data.cma.cn/data/cdcdetail/dataCode/SURF_CLI_CHN_MUL_DAY_V3.0.html). Digital elevation model (DEM) is based on Advanced Spaceborne Theemal Emisson and Reflection Radiometer Global Digital Elevation Model (ASTER GDEM) data (http://www.gscloud.cn/) with a spatial resolution of $3 0 \\mathrm { ~ m ~ }$ . It is used to delineate glacier outlines and correct the climate data within the glacier-covered area. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ZHOU Zuhao et al.: Glacier variations and their response to climate change in an arid inland river basin.. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/e5e40b45719ffe7ab1671f7d4907f26aa012f0c21dcc81e1af3ffeb177efaa1f.jpg",
+        "table_caption": [
+            "Table 1 Landsat scenes used in this study "
+        ],
+        "table_footnote": [
+            "Note: TM, Thematic Mapper; $\\mathrm { E T M + }$ ,Enhanced $\\mathrm { T M } +$ ；OLI, Operational Land Imager. "
+        ],
+        "table_body": "<html><body><table><tr><td>Path</td><td>Date of acquisition</td><td>Sensor</td><td>Path</td><td>Date of acquisition</td><td>Sensor</td></tr><tr><td rowspan=\"11\">136/033</td><td>25 Aug 1989</td><td>TM</td><td rowspan=\"11\">137/033</td><td>16 Aug 1989</td><td>TM</td></tr><tr><td>14 Jul 1991</td><td>TM</td><td>7 Sep 1991</td><td>TM</td></tr><tr><td>26 Aug 1995</td><td>TM</td><td>1 Aug 1995</td><td>TM</td></tr><tr><td> 31 Aug 1997</td><td>TM</td><td>22 Aug 1997</td><td>TM</td></tr><tr><td>23 Aug 2000</td><td>TM</td><td>14 Aug 2000</td><td>TM</td></tr><tr><td>16 Aug 2003</td><td>TM</td><td>15 Aug 2003</td><td>TM</td></tr><tr><td>27 Aug 2007</td><td>TM</td><td>26 Aug 2007</td><td>ETM+</td></tr><tr><td>27 Aug 2010</td><td>ETM+</td><td>26 Aug 2010</td><td>TM</td></tr><tr><td>11 Aug 2013</td><td>OLI</td><td>2 Aug 2013</td><td>OLI</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>2 Jul 2016</td><td>OLI</td><td>25 Jul 2016</td><td>OLI</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Methodology ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1Glacier delineation and extraction of ice divides ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The methods for glacier delineation using Landsat data can generally be divided into several categories, i.e., supervised classification (Sidjak, 1999), the normalized-difference snow index (Hall et al., 1995) and the band ratio method (Andreassen et al., 2008; Racoviteanu et al., 2009). Among them, the band ratio method has been proven to be an efficient approach for mapping the extent of glaciers, even for smal alpine glaciers (Paul, 2O02). Images of the ratio between the Red and SWIR (short-wave infrared) bands are usually created and analyzed to delineate glacier boundaries (Bayr et al.,1994; Jacobs and Alvin, 1997; Andreassen et al., 2008). Allimages were preprocessed with the Environment for Visualizing Images (ENVI). This detailed process can be observed in Figure 2. First, damaged Landsat 7 (2OO3-) images were repaired using the Landsat gapfill tool of ENVI, and the image preprocessing steps included radiometric calibration, FLAASH (Fast Line-of-sight Atmospheric Analysis of Spectral Hypercubes) correction and customize map projection. Then, the glacier boundaries were extracted by the band ratio method. For the TM, $\\mathrm { E T M + }$ and OLI images, the threshold (Threshold $\\ c =$ Red/SWIR) is usually close to 2.0 (Cao et al., 2010; Zhou et al., 2017; Han et al., 2018). A threshold of 2.0 (multiple tests) was used to clearly distinguish glaciers from other features,and the thresholds were similar in different years in this study. The glacier binary map was filtered by the median-filtered tool in a $3 { \\times } 3$ window, which not only reduces the noise in shadows but also eliminates some seasonal snow (Andreassen et al., 2Oo8). After the glacier outline was derived by raster-vector conversion from the binary map above, it could be opened in ArcGIS to obtain the glacier area. In addition, manual editing and correction were needed to remove incorrect water, snow areas and mountain shadows from glaciers using high-resolution Google Earth images (with a spatial resolution of $1 4 . 9 2 ~ \\mathrm { m } )$ and SCGI data as the references. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The extraction of ice divides is vitally important for glacier studies (Kienholz et al., 2013). In this study, we divided each glacier using the partitioning tool in ArcGIS based on the delineation results of the SCGI. Specific implementation methods can be found in Guo et al. (2O11). To avoid interference from moraines, we only included ice bodies of more than $0 . 0 1 \\ \\mathrm { k m } ^ { 2 }$ . Thus, polygons with areas of $0 . 0 1 \\mathrm { k m } ^ { 2 }$ or smaller were excluded. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 Indicators for glacier area change analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Generally, the percentage of area changes (PAC; $\\%$ ) and the annual percentage of area changes (APAC; $\\% \\%$ ） can be used to quantify changes in glacier areas. The PAC is defined as the percentage of the change in glacier area to the initial glacier area over a period of time. The APAC is a common indicator used to assess the annual percentage of glacier area changes. These values can be used to compare glacier variations on different time scales. They were calculated using the following formulas: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Landsat TM, ETM+ and OLI scenes 一 Glacier outline and SCGI Landsat7(2003- 1 Y↓ Overlay analysis to extract the Repairing the lost ETM+ glacier segment line in SCGI image by Landsat Gapfill N   \nRemote sensing image preprocessing Cutting the polygonal feature   \nbyradiometric calibration,FLAASH of the glacier outline atmospheric correction and customize map projection Exploding muti-part feature Seamless mosaic and subsetting Others images from ROIs N↑ Extragaciersy Threshold>2.0 Area>0.01km Beided Transformation into a binary map Yer Y 一 Adding the field and Filtering by median-filtered tool 一 number for each glacier 一 Manual editing and correction to 一   \nremove the water, shadow and snow Statistics of glacier area and number Raster-vector conversion to glacier outline ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathbf { P A C } = \\Delta S _ { n } / S _ { 0 } \\times 1 0 0 \\% , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { A P A C } = \\left( \\Delta S _ { n } / S _ { 0 } \\times 1 0 0 \\% \\right) / n \\times 1 0 0 \\% , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $S _ { n }$ is the glacial area in the $n ^ { \\mathrm { t h } }$ year $( \\mathrm { k m } ^ { 2 } )$ ） $S _ { 0 }$ is the initial glacier area $( \\mathrm { k m } ^ { 2 } )$ ; and $n$ is the time interval (a). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3Interpolation and correction of air temperature and precipitation data ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Because the air temperature and precipitation data at several meteorological stations or in the entire basin usually cannot directly represent the climatic conditions within the glacier-covered areas,the station data were further interpolated and corrected to better represent the glacier surfaces. Moreover, considering the large terrain fluctuations in the study area, it is necessary to perform terrain correction for temperature and precipitation. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For temperature, we first estimated the mean monthly air temperature at seven stations at the same elevation during the period 1989-2016 based on both the elevation of each meteorological station and an air temperature lapse rate of $- 0 . 6 ^ { \\circ } \\mathrm { C }$ per $1 0 0 \\mathrm { ~ m ~ }$ (Jin et al., 2019). Then,we interpolated the air temperature of the study area using the Kriging method in ArcGIS, and used the elevation correction to obtain the actual air temperature of glacier surfaces. Furthermore, we plotted the monthly isothermal chart with $1 . 0 ^ { \\circ } \\mathrm { C }$ of temperature difference in the study area, and calculated the glacier area at each air temperature range. For precipitation, we interpolated the annual precipitation from each meteorological station during the period 1989-2O16 in the study area using inverse distance weighting, and then used the multi-year average precipitation contour map of the study area for terrain correction of precipitation. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4Mann-Kendall trend test ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The Mann-Kendall trend test is based on the correlation between the ranks of a time series and their time order (Mann,1945; Kendall, 1990). It has been widely used to detect climate trends by analyzing statistical variables. The methodology is described in greater detail elsewhere (e.g., Burn and Elnur, 2OO2; Hamed, 2OO8). Statistically significant trends were evaluated using the statistical index $u$ . In this paper, the long-term trends of the meteorological time series were investigated using the Mann-Kendall trend test, and a significance level $P { = } 0 . 0 5$ and a critical value $U _ { 0 . 0 5 } { = } { \\pm } 1 . 9 6$ were applied. A value of $| u | > | U _ { 0 . 0 5 } |$ indicates a significant change. In addition, positive $u$ values indicate an increasing trend in the time series, whereas negative values indicate a decreasing trend. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 Results ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1Variations in glacier number and area ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The glacier number and area data in 1989, 1997, 2007 and 2016 were selected to analyze the inter-annual variations of glaciers (Table 2). The number of glaciers with areas of $\\leq 1 . 0 \\mathrm { k m } ^ { 2 }$ was dominant and accounted for $7 6 . 0 \\%$ of the total number but only $2 1 . 0 \\%$ of the total area. Due to climate change, the number of glaciers decreased from 417 to 318 during the period 1989-2016, and the area decreased from 345.3 to $3 0 2 . 2 \\ \\mathrm { k m } ^ { 2 }$ $( - 1 2 . 2 \\%$ PAC)(Table 2). The glacier area decreased mainly because glaciers with areas of $> 0 . 1 \\mathrm { k m } ^ { 2 }$ decreased in both number and area. The reduction rate of the number of larger glaciers $( > 5 . 0 \\mathrm { k m } ^ { 2 } )$ ） was smaller than that of small glaciers $( \\leq 5 . 0 \\mathrm { k m } ^ { 2 } )$ . In contrast, glaciers with areas of ${ \\le } 0 . 1 \\ \\mathrm { k m } ^ { 2 }$ increased in both number and area due to the melting of larger glaciers. The changes in glaciers differed in the three historical periods of 1989-1997, 1997-2007 and 2007-2016,and the rate of glacial retreat has accelerated (Table 3). Comparatively speaking,based on the results of APAC, glaciers retreated at a slightly faster rate after 1997 than before 1997. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/3f6f20aa15b320dfe9d8c7a2920dc73a94ae2852ca86dc0766dee391680d684b.jpg",
+        "table_caption": [
+            "Table2Glacier numberandarea of different classes in 1989,1997,2007 and 2016 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Glacier class (km²)</td><td colspan=\"2\">1989</td><td colspan=\"2\">1997</td><td colspan=\"2\">2007</td><td colspan=\"2\">2016</td></tr><tr><td>Number</td><td>Area)</td><td>Number</td><td>Area)</td><td>Number</td><td>Area</td><td>Number</td><td>Area</td></tr><tr><td>≤0.1</td><td>47</td><td>2.2</td><td>55</td><td>2.9</td><td>63</td><td>3.5</td><td>69</td><td>4.2</td></tr><tr><td>0.1-0.5</td><td>189</td><td>39.0</td><td>161</td><td>37.9</td><td>140</td><td>35.9</td><td>121</td><td>33.4</td></tr><tr><td>0.5-1.0</td><td>85</td><td>37.3</td><td>81</td><td>36.6</td><td>64</td><td>30.3</td><td>55</td><td>28.2</td></tr><tr><td>1.0-5.0</td><td>80</td><td>132.5</td><td>77</td><td>129.5</td><td>69</td><td>123.5</td><td>61</td><td>119.3</td></tr><tr><td>5.0-10.0</td><td>9</td><td>56.1</td><td>9</td><td>55.5</td><td>7</td><td>48.8</td><td>7</td><td>45.8</td></tr><tr><td>>10.0</td><td>7</td><td>78.2</td><td>7</td><td>77.9</td><td>6</td><td>76.4</td><td>6</td><td>71.3</td></tr><tr><td>In total</td><td>417</td><td>345.3</td><td>390</td><td>340.3</td><td>350</td><td>318.5</td><td>318</td><td>302.2</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/3eff7173c53497e80acd2cce44c41b5dac2a3e54379d5bb4822d295fece8351c.jpg",
+        "table_caption": [
+            "Table 3 Annual percentage of area changes (APAC) of diferent glacier classes during the period 1989-2016 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Glacier class (km²)</td><td>1989-1997</td><td>1997-2007</td><td>2007-2016</td><td>1989-2016</td></tr><tr><td>APAC (%/a)</td><td>APAC (%/a)</td><td>APAC (%/a)</td><td>APAC (%/a)</td></tr><tr><td>≤0.1</td><td>4.4</td><td>1.9</td><td>2.4</td><td>3.5</td></tr><tr><td>0.1-0.5</td><td>-0.3</td><td>-0.5</td><td>-0.8</td><td>-0.5</td></tr><tr><td>0.5-1.0</td><td>-0.2</td><td>-1.7</td><td>-0.8</td><td>-0.9</td></tr><tr><td>1.0-5.0</td><td>-0.3</td><td>-0.5</td><td>-0.4</td><td>-0.4</td></tr><tr><td>5.0-10.0</td><td>-0.1</td><td>-1.2</td><td>-0.7</td><td>-0.7</td></tr><tr><td>>10.0</td><td>0.0</td><td>-0.2</td><td>-0.7</td><td>-0.3</td></tr><tr><td>In total</td><td>-0.2</td><td>-0.6</td><td>-0.6</td><td>-0.5</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In this study， we selected data with a short time interval (3 a) to more closely analyze the change trend in glacier area. The glacier area variations in the Sugan Lake Basin are depicted in ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 3. The variations in glacier area over the entire study area exhibited a noticeable decreasing trend, with a shrinkage rate of approximately $- 1 . 6 1 ~ \\mathrm { k m ^ { 2 } / a ( - 0 . 5 \\% / a ) }$ . Comparing the results shown in Table 3, the APAC obtained by considering multiple remote sensing images in the same time period was slightly smaller. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e80c087612e5c8453466e9691c58f35d3f6864a0354b4d2adc3470d36eaa36d.jpg",
+        "img_caption": [
+            "Fig.3Variations in glacierarea inthe SuganLake Basin from 1989 to 2O16.The dashedlines indicate the linear trends of glacier area variations in different periods.The slopes represent the variation trends in glacier area,and the $R ^ { 2 }$ values indicate statistical significance. APAC, annual percentage of area changes. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2Glacier variations in response to climate change ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2.1Temperature and precipitation trends in the glacier-covered areas ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The mean air temperature of the glacier surfaces in July-August was greater than the freezing temperature, and the mean air temperatures in other periods was below $0 . 0 ^ { \\circ } \\mathrm { C }$ .This study focused on the mean air temperature change at the glacier surfaces in July-August. As illustrated in Figure 4a, the mean air temperature exhibited a remarkable upward trend from 1989 to 2O16 with an increasing rate of $0 . 5 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a }$ . From 1989 to 2016, the precipitation of the glacier-covered areas increased at a rate of $1 . 7 4 ~ \\mathrm { m m / a }$ (Fig. 4b). From 1989 to 1994, the surface air temperature of the studied glaciers was slowly reduced, thus showing a slight volatile trend. Since 1995, the mean air temperature has rapidly increased (Fig. 4c). The annual precipitation decreased from 1989 to 2002 but exhibited an upward trend after 2003 (Fig. 4d). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2.2 Correlations of glacier area with mean air temperature and precipitation ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Water (precipitation), heat (temperature) and their combination are the main climate factors that affect the development and evolution of glaciers (Shi, 2OoO). Rising temperatures contribute to the melting of glaciers, and increasing precipitation contributes to the accumulation of glaciers. In this study, a significant negative correlation $( P { < } 0 . 0 1 )$ was observed between glacier area and mean air temperature of the glacier surfaces in July-August (Fig. 5a). Meanwhile, the glacier area was poorly correlated $( P { = } 0 . 3 6 )$ with the precipitation trend (Fig. 5b). The analysis of meteorological data revealed that the rising temperature has been the major controlling factor for glacier retreat in the Sugan Lake Basin since 1989, whereas the variations in glaciers were less sensitive to precipitation changes than to air temperature changes. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The linear coeficient of determination between glacier area and mean air temperature in JulyAugust in the glacier-covered areas $( R ^ { 2 } { = } 0 . 7 0 )$ was slightly greater than that in the entire basin $( R ^ { 2 } { = } 0 . 6 9 )$ (Figs. 5a and 6). The correlation coefficients between glacier area and mean air temperature at each meteorological station differed considerably. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2.3Glacier area and coverage trends in different temperature ranges ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The mean air temperature of the glacier surfaces was mainly between $0 . 0 ^ { \\circ } \\mathrm { C }$ and $8 . 0 ^ { \\circ } \\mathrm { C }$ in JulyAugust in the Sugan Lake Basin. To investigate the relationship between glacier area distribution and different temperature ranges, we divided the mean air temperature into different temperature ranges with a difference of $1 . 0 ^ { \\circ } \\mathrm { C }$ ， and calculated the glacier area and coverage for each temperature range. As revealed in Figure 7, the glacier area of the higher air temperature ranges became larger with increasing air temperature, and the mean air temperature in July-August in 2016 increased by approximately $1 . 0 ^ { \\circ } \\mathrm { C }$ compared with that in 1989. The elevation line corresponding to a temperature of $0 . 0 ^ { \\circ } \\mathrm { C }$ exhibited a significant upward trend. As shown in Table 4， the glacier coverage gradually decreased with rising temperature. When the mean air temperature was below $- 3 . 0 ^ { \\circ } \\mathrm { C }$ ， the average coverage of glaciers was $1 0 0 . 0 \\%$ ; when the mean air temperature exceeded $8 . 0 ^ { \\circ } \\mathrm { C }$ ， the glacier coverage was close to zero. Over the past several decades, the mean glacier coverage in the Sugan Lake Basin ranged from $1 . 3 5 \\%$ to $2 . 0 7 \\%$ , with a multi-year average coverage of $1 . 6 9 \\%$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/ddab14c80e7fd2cc07b0baed8eee7c2640125e2e0319041c0b65427acffcfce9.jpg",
+        "img_caption": [
+            "Fig. 4Variations in temperature, precipitation and statistical index $( u )$ of temperature and precipitation in the glacier-covered areas from 1989 to 2O16.(a),variations in mean air temperature of the glacier surfaces in JulyAugust from 1989 to 2O16 (the dashed line indicates the linear trend in mean air temperature); (b), variations in annual precipitation of the glacier-covered area from 1989 to 2O16 (the dashed line indicates the linear trend in anual precipitation); (c), Mann-Kendall trend test of mean air temperature; (d), Mann-Kendall trend test of annual precipitation. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/82585e2df1b4d003dbf84f139ad3817e5b0ed91790d003c2366780da802f4efc.jpg",
+        "img_caption": [
+            "Fig. 5Relationships of glacier area with mean air temperature of the glacier surfaces in July-August (a) and annual precipitation in the glacier-covered areas (b).The solid lines indicate the linear trends of glacier area variations with air temperature and precipitation changes. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.3 Relationship between variations in glacier area and mean air temperature in different elevation zones ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The terrain, moisture and heat conditions determine the glacier distribution. The glacier area was concentrated in the elevation range of $4 7 0 0 { - } 5 5 0 0 \\ \\mathrm { m }$ a.s.l. The glacier area was approximately ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f9939e57d1c5f5e11a576551bd19b976baac9a1d00ac137db7c434c59711c17.jpg",
+        "img_caption": [
+            "Fig. 6Relationships between glacier area and mean air temperature of the glacier surfaces in July-August at seven meteorological stations and in the entire Sugan Lake Basin.The solid lines indicate the linear trends of glacier area variations with air temperature changes. ",
+            "Fig.7Spatial distributions of different temperature ranges of the major glacier surfaces in July-August in 1989 (a) and 2016 (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "335.38 96°00'E 96°10'E 96°20'E 96°30'E 355000 96°00'E 96°10'E 96°20'E 96°30'E   \n(a) (b) ?   \n301.89 Temperature range (C) 30581 301.80 101089   \n-2-00-11-22-33-4455-66-77-8 100.88 -2-00-11-22-33-44-5 5-66-77-8 100.80 0 9 18 km 0 9 18km 96°00'E 96°10'E 96°20'E 96°30'E 96°00'E 96°10'E 96°20'E 96°30'E ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/5c7705f63effade784b6193ffdd6d3cf0f847631967c5cc214f5ec7aeab7e14f.jpg",
+        "table_caption": [
+            "Table 4Multi-year average glacier coverage distribution in diferent temperature ranges in the Sugan Lake Basin "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Temperature range (C)</td><td>Glacier coverage (%)</td><td>Temperature range (C)</td><td>Glacier coverage (%)</td></tr><tr><td>1801-3.0</td><td>100.00</td><td>3.0-4.0</td><td>32.30</td></tr><tr><td>-3.0- -2.0</td><td>97.00</td><td>4.0-5.0</td><td>14.30</td></tr><tr><td>-2.0- -1.0</td><td>88.86</td><td>5.0-6.0</td><td>4.33</td></tr><tr><td>-1.0-0.0</td><td>83.86</td><td>6.0-7.0</td><td>0.94</td></tr><tr><td>0.0-1.0</td><td>77.12</td><td>7.0-8.0</td><td>0.13</td></tr><tr><td>1.0-2.0</td><td>66.47</td><td>8.0-9.0</td><td>0.00</td></tr><tr><td>2.0-3.0</td><td>51.04</td><td>9.0-10.0</td><td>0.00</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "normally distributed, increasing first and then decreasing with elevation. In this study, the Sugan Lake Basin was divided into six different elevation zones. As shown in Figure 8, in recent years, the inter-annual variation of glacier area in each elevation zone showed a downward trend. In addition, the elevation zones with more glacier area always exhibited a larger deceleration rate. The areas with glaciers above $5 1 0 0 \\mathrm { m }$ a.s.l. and below $4 9 0 0 \\mathrm { m }$ a.s.l. were considerably small such that the trend was not obvious. In addition, there was a significant negative linear correlation $( P { < } 0 . 0 1 )$ between glacier area and mean air temperature in each elevation zone (Fig. 9). The decrease in the glacier area in diffrent elevation zones was mainly determined by the increase in air temperature, while the rate of glacier retreat was also affected by elevation. The more concentrated the area of glaciers, the more sensitive the glaciers to air temperature. Especially in the elevation zone of $4 9 0 0 { - } 5 1 0 0 \\mathrm { ~ m ~ }$ a.s.l., the glaciers exhibited the largest spatial distribution, and the variations in glacier area were most sensitive to air temperature changes; the ablation rate of glaciers was also the largest. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/90c0291f511ac104e1de8379640ed5141f31cc63bc5e1271561df7e92648dbca.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Fig. 8Inter-annual variations of glacier area in the $4 7 0 0 { - } 5 5 0 0 \\mathrm { ~ m ~ }$ a.s.l. elevation zones. The dashed lines indicate the linear trends of glacier area variations. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/e8577d1ecfbb12658aba7a4f37e90eb9b6fca56298936e3eebfcc06c42072fec.jpg",
+        "img_caption": [
+            "Fig.9Relationships between glacier area and mean air temperature of the glacier surfaces in July-August for each elevation zone.The solid lines indicate the linear trends of glacier area variations with air temperature. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.4 Glacier area predictions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The Fifth Assessment Report of IPCC Working Group I in 2013 covered the following four RCP (Representative Concentration Pathway) scenarios of future climate change: RCP2.6, RCP4.5, $\\mathrm { R C P 6 . 0 }$ and RCP8.5 (IPCC, 2O13). The assessment results show that the global mean surface air temperature is expected to increase by $1 . 0 ^ { \\circ } \\mathrm { C } { - 2 . 0 ^ { \\circ } \\mathrm { C } }$ during the period 2046-2065 and by $1 . 0 ^ { \\circ } \\mathrm { C } _ { - }$ $3 . 7 ^ { \\circ } \\mathrm { C }$ during the period 2081-2100 compared with the period 1986-2005 (Table 5). ",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/a1d9c5ff97976939773ab77c243ebb34207636ad79c497069a33e8da8254feba.jpg",
+        "table_caption": [
+            "Table 5Projected changes in global mean surface air temperature for the middle and late $2 1 ^ { \\mathrm { s t } }$ century compared with the period 1986-2005 (IPCC,2013) "
+        ],
+        "table_footnote": [
+            "Note: RCP,Representative Concentration Pathway. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Variable</td><td rowspan=\"2\">Climate scenario</td><td colspan=\"2\">2046-2065</td><td colspan=\"2\">2081-2100</td></tr><tr><td>Mean (C)</td><td>Likely range (°C)</td><td>Mean (°C)</td><td>Likely range (C)</td></tr><tr><td rowspan=\"4\">Global mean surface temperature change (℃)</td><td>RCP2.6</td><td>1.0</td><td>0.4-1.6</td><td>1.0</td><td>0.3-1.7</td></tr><tr><td>RCP4.5</td><td>1.4</td><td>0.9-2.0</td><td>1.8</td><td>1.1-2.6</td></tr><tr><td>RCP6.0</td><td>1.3</td><td>0.8-1.8</td><td>2.2</td><td>1.4-3.1</td></tr><tr><td>RCP8.5</td><td>2.0</td><td>1.4-2.6</td><td>3.7</td><td>2.6-4.8</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "A significant negative linear correlation was observed between glacier area variations and air temperature of the glacier surfaces in each elevation zone (Fig. 9). To analyze the relationship between glacier area and air temperature in various elevation zones, we established regression models based on the glacier area and mean air temperature of the glacier surfaces in July-August in each elevation zone and in the entire basin,as shown in Table 6. The correlations of the regression models established in some elevation zones were higher than those in the entire basin. ",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/cf8ae2d3e070d5b7a5a1918c7be7fb96c77b8d336f2db78488a28db37b8cf221.jpg",
+        "table_caption": [
+            "Table 6Regresson models of glacier area and mean air temperature of the glacier surfaces in July-August in different elevation zones "
+        ],
+        "table_footnote": [
+            "Note:A is the glacier area $( \\mathrm { k m } ^ { 2 } )$ and $T$ is the mean air temperature of the glacier surfaces in July-August $( ^ { \\circ } \\mathbf { C } )$ ： $R ^ { 2 }$ ,coefficient of determination. "
+        ],
+        "table_body": "<html><body><table><tr><td>Elevation zone (m a.s.l.)</td><td>Regression model</td><td>R²</td><td>P value</td></tr><tr><td><4700</td><td>A= -0.87T+9.27</td><td>0.64</td><td>0.005</td></tr><tr><td>4700-4900</td><td>A= -4.11T+70.83</td><td>0.66</td><td>0.004</td></tr><tr><td>4900-5100</td><td>A= -7.32T+166.25</td><td>0.74</td><td>0.002</td></tr><tr><td>5100-5300</td><td>A= -4.40T+118.99</td><td>0.69</td><td>0.003</td></tr><tr><td>5300-5500</td><td>A= -1.70T+33.05</td><td>0.72</td><td>0.002</td></tr><tr><td>≥5500</td><td>A= -0.29T+3.79</td><td>0.41</td><td>0.047</td></tr><tr><td>Entire basin</td><td>A= -22.38T+378.20</td><td>0.69</td><td>0.003</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The mean air temperature of the glacier surfaces in July-August and glacier area distribution in different elevation zones during the period 1986-2005 are presented in Table 7. In this study, the increase in the global mean surface air temperature reported in Table 5 represents the change of mean air temperature in July-August. Based on the regression models described in Table 6, we predicted the corresponding glacier areas under the four climate scenarios (Table 8). The trend in glacier shrinkage will continue because the air temperature will continue to increase in the future. Under the four scenarios of future climate, during the period 2O46-2O65, the average glacier area in the Sugan Lake Basin in different elevation zones was estimated to be $3 0 4 . 5 5 ~ \\mathrm { k m } ^ { 2 }$ ，and the average glacier area for the entire basin was estimated to be $2 9 8 . 1 4 \\mathrm { k m } ^ { 2 }$ ; during the period $2 0 8 1 -$ 2100, the average glacier area in the Sugan Lake Basin in different elevation zones was estimated to be approximately $2 9 0 . 5 3 \\mathrm { k m } ^ { 2 }$ , and the average glacier area in the entire basin was estimated to be $2 8 1 . 0 7 \\mathrm { k m } ^ { 2 }$ . Based on the projected global mean surface air temperature, the prediction results of glacier area show that glacier retreat in different elevation zones will be slightly slower than that in the Sugan Lake Basin (Table 8). ",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/bbf7410da08c39fb0511ffb02b94fb920429c4ef99bf37deaad25b4d27d26cf4.jpg",
+        "table_caption": [
+            "Table 7Mean air temperature of the glacier surfaces in July-August and glacier area in different elevation zones during the period 1986-2005 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Elevation zone (m a.s.l.)</td><td>Mean air temperature (C)</td><td>Glacier area (km²)</td></tr><tr><td><4700</td><td>6.10</td><td>3.77</td></tr><tr><td>4700-4900</td><td>5.08</td><td>50.78</td></tr><tr><td>4900-5100</td><td>3.95</td><td>138.52</td></tr><tr><td>5100-5300</td><td>2.92</td><td>106.52</td></tr><tr><td>5300-5500</td><td>1.73</td><td>29.75</td></tr><tr><td>≥5500</td><td>0.44</td><td>3.56</td></tr><tr><td>Entire basin</td><td>1.77</td><td>332.89</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/7a10d7c8762d962ba1b9c963336b4e1ef15e50ed7bb866081cb6313e826f0f83.jpg",
+        "table_caption": [
+            "Table 8Results of future glacier area predictions under four climate scenarios "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Period</td><td rowspan=\"2\">Climate scenario</td><td colspan=\"7\">Glacier area (km²)</td></tr><tr><td><4700 m</td><td></td><td>4700-4900 m 4900-5100 m 5100-5300 m 5300-5500 m</td><td></td><td></td><td>≥5500 m</td><td>Total</td><td>Entire basin</td></tr><tr><td rowspan=\"5\">2046- 2065</td><td>RCP2.6</td><td>3.09</td><td>45.86</td><td>130.02</td><td>101.74</td><td>28.41</td><td>3.37</td><td>312.49</td><td>308.53</td></tr><tr><td>RCP4.5</td><td>2.74</td><td>44.21</td><td>127.09</td><td>99.98</td><td>27.73</td><td>3.26</td><td>305.01</td><td>298.61</td></tr><tr><td>RCP6.0</td><td>2.83</td><td>44.62</td><td>127.82</td><td>100.42</td><td>27.90</td><td>3.29</td><td>306.88</td><td>301.22</td></tr><tr><td>RCP8.5</td><td>2.22</td><td>41.75</td><td>122.70</td><td>97.34</td><td>26.71</td><td>3.08</td><td>293.80</td><td>284.19</td></tr><tr><td>RCP2.6</td><td>3.09</td><td>45.86</td><td>130.02</td><td>101.74</td><td>28.41</td><td>3.37</td><td>312.49</td><td>308.53</td></tr><tr><td rowspan=\"3\">2081- 2100</td><td>RCP4.5</td><td>2.39</td><td>42.57</td><td>124.16</td><td>98.22</td><td>27.05</td><td>3.14</td><td>297.53</td><td>288.90</td></tr><tr><td>RCP6.0</td><td>2.05</td><td>40.92</td><td>121.23</td><td>96.46</td><td>26.37</td><td>3.02</td><td>290.06</td><td>279.64</td></tr><tr><td>RCP8.5</td><td>0.74</td><td>34.76</td><td>110.25</td><td>89.86</td><td>23.82</td><td>2.59</td><td>262.02</td><td>247.21</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5 Discussion ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5.1 Error estimation of glacier area extraction ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The use of high-resolution remote sensing images to manually extract glacier areas and assess the accuracy of Landsat images is widely used to evaluate individual errors in glacier identification (Bolch et al., 2O1Ob). Figure 3 shows that glacier areas fluctuated within a few years, and the area of glaciers in 2003 changed more significantly compared with that in 20o0. To confirm the reliability of the extraction results, we used Google Earth images to verify the two Landsat images for 2000 and 2003. The glacier boundaries in 2000 and 2003 were manually obtained by Google Earth images in this study. In addition, the calculated glacier area derived from Landsat images in 2O07 was compared with that obtained from the SCGI data. Taking the three glacier areas as an example,， we performed an error analysis by comparing the results obtained by different data sources. The results are shown in Table 9.The glacier areas calculated from Landsat images were slightly larger than those from Google Earth images and SCGI data, and the relative error was within $0 . 5 \\%$ . This error can likely be attributed to the different data sources and processing means. ",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/d3042ee903951a1edc3b688939fb3096865e165a60867b390ec26577da435f68.jpg",
+        "table_caption": [
+            "Table 9 Error estimation of glacier area from different data sources "
+        ],
+        "table_footnote": [
+            "Note:andbmean that thedata were fromtheGoogle Earth images;means thatthedata were fromthe Second Chinese Glacier Inventory (SCGI). "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Year</td><td colspan=\"2\">Glacier area (km2)</td><td rowspan=\"2\">Absolute error (km²)</td><td rowspan=\"2\">Relative error (%)</td></tr><tr><td>Landsat data</td><td>Other data sources</td></tr><tr><td>2000</td><td>326.4</td><td>326.1a</td><td>0.3</td><td>0.1</td></tr><tr><td>2003</td><td>335.3</td><td>333.8b</td><td>1.5</td><td>0.4</td></tr><tr><td>2007</td><td>318.5</td><td>317.6℃</td><td>0.9</td><td>0.3</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5.2Response of glacier variations to climate change ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The increasing trends in annual air temperature and precipitation of the glacier-covered areas during 1989-2016 were $0 . 5 0 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a }$ in July-August and $1 . 7 4 \\ \\mathrm { \\ m m / a }$ ， respectively. However, although the annual precipitation has decreased from 1989 to 2OO2, it has been on an upward trend since 2O03. This result is consistent with the findings of Shi et al. (2O07), who showed that the climate regime has begun to shift from warm-dry to warm-wet in the arid areas of Northwest China since the 198Os. While Tian et al. (2O14) found that the increasing trends in annual air temperature and precipitation measured at meteorological stations were $0 . 3 0 ^ { \\circ } \\mathrm { C } / \\mathrm { a } - 0 . 5 8 ^ { \\circ } \\mathrm { C } / \\mathrm { a }$ and $0 . 3 7 { - } 1 . 5 8 ~ \\mathrm { m m / a }$ from 1961 to 2O10, respectively. The discrepancy may be due to climate change and statistical spatial and temporal scale differences. Based on the data in Table 7, we can estimate the temperature lapse rate in the glacier-covered areas. Due to the differences in topography, the temperature gradient among different elevation zones was approximately $0 . 5 2 ^ { \\circ } \\mathrm { C } -$ $0 . 6 5 ^ { \\circ } \\mathrm { C }$ per $1 0 0 \\mathrm { ~ m ~ }$ ， and the temperature gradient increased with elevation in the glacier-covered area. The higher the elevation increased, the faster the air temperature declined. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Sun et al. (2O18) found that glaciers rapidly shrank in the east but slowly decreased in the west-central region of the Qilian Mountains. In addition, the results in this study $( - 1 2 . 2 \\%$ PAC during the period 1989-2Ol6) indicate that glacier variations in the Sugan Lake Basin were close to those in the Daxue Mountain of the central Qilian Mountains (decreasing rate of $- 4 . 9 \\% / 1 0 \\mathrm { a }$ between 2004 and 2015; Wang et al.， 2017a) and smaller than those in the entire Qilian Mountains (e.g., $- 2 3 \\%$ $( \\pm 5 \\% )$ shrinkage from 1990 to 2010; Tian et al., 2014) and the eastern Qilian Mountains (e.g., between $- 1 4 . 2 1 \\% / 1 0 \\mathrm { a }$ and $- 1 9 . 9 7 \\% / 1 0 \\mathrm { a }$ in the Datong River Basin and Shiyang River Basin from 1956 to 2010; Sun et al., 2018). This trend can be explained by the increasing median glacier elevation from east to west or the differences in latitude and longitude. Moreover, Liu et al. (2O19) proposed that the glacier mass balance indicated a huge loss in glaciers in different areas of western China after 1997. However, in our study, we found that the APAC after 1997 exhibited slightly faster rates than that before 1997 in the Sugan Lake Basin. In addition to rising temperature during the melting season, this finding may also be related to the increase in temperature of glaciers (Sun et al., 2013). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In the Sugan Lake Basin, the rising air temperature during the melting season was the factor governing the glacial retreat. By comparing the coefficient of determination between glacier area and air temperature at the meteorological stations over the entire basin as well as in the glacier-covered areas, refined research regarding glacier variations can more accurately and stably reflect the sensitivity of glacier area to temperature changes. Therefore, it is necessary to analyze the relationship between glacier area and air temperature of the glacier surfaces instead of just the air temperature at the meteorological stations or across the entire basin. The research results above show that the distribution area of glaciers increased initially and then decreased with elevation increases. In the elevation zone of $4 9 0 0 { - } 5 1 0 0 \\ \\mathrm { m }$ a.s.l., the glaciers exhibited the largest distribution, and the change in glacier area was the most sensitive to temperature change; the ablation rate was also the largest. The development and evolution of glaciers are influenced by topographic and climatic conditions, and a mountain is a necessary condition for the formation of glaciers. In the elevation range of ${ \\ge } 5 1 0 0 \\mathrm { ~ m ~ }$ a.s.l., the mountain has a small distribution area, the cutting intensity is large, the terrain is broken and the steep terrain is not conducive to glacier development. Shi et al. (1982) stated that in a certain elevation range, the climate gradually develops in a wet and cold direction with increasing elevation, which is very beneficial for the development of glaciers. However, with further increases in elevation, the precipitation exhibits a decreasing trend, gradually moving toward dry and cold, which will inhibit the development of glaciers to some extent. With increasing elevation, the temperature gradually decreases and the precipitation first increases and then decreases. The increasing precipitation makes the glaciers in the study area more developed. The upper limit of the wet and cold zone is generally the most developed glacier area. For the Sugan Lake Basin, the upper limit of the wet and cold zone was found to be approximately $4 9 0 0 { - } 5 1 0 0 \\mathrm { ~ m ~ a . s }$ 1. The melting of glaciers is a bottom-up process, and in general, smaller glaciers are more sensitive to climate warming than larger ones. As the temperature increases, the area in which the glaciers are concentrated is more intense, and the sensitivity to temperature is stronger. The reason for this phenomenon may be that the melting of glaciers reduces the reflection of shortwave radiation of the original ice-snow covered area, thereby causing the area to absorb more solar radiation. The accumulation of heat exacerbates the heating rate of the glacier surfaces and accelerates the melting of glaciers. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The glacier volume is a potential water resource, and glacier meltwater accounts for $3 9 \\% - 5 6 \\%$ of the total river runoff in the western Qilian Mountains (Shi et al., 2OO3). Therefore, in the future, the meteorological monitoring of different elevation zones in the glacier-covered area should be strengthened, and the relationship between glacier volume and air temperature should be further studied. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "6 Conclusions ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In this study, we selected the Sugan Lake Basin of the western Qilian Mountains as a typical arid inland basin to analyze glacier variations under climate change. The glacier data from 1989 to 2016 were delineated using Landsat images over the past several decades. The Sugan Lake Basin had experienced a significant rise in temperature of $0 . 5 0 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a }$ and an increasing precipitation trend of $1 . 7 4 ~ \\mathrm { m m / a }$ . Overall, there has been a warm and wet tendency in the region during the period 1989-2016. Glaciers experienced a remarkable shrinkage from 1989 to 2016, with a shrinkage rate of $- 1 . 6 1 \\ \\mathrm { k m } ^ { 2 } / \\mathrm { a }$ $( - 0 . 5 \\% / \\mathrm { a } )$ , and the glacier area variations fluctuated slightly within a few years. In addition, the rising air temperature in the melting season was the factor governing glacial retreat, whereas increasing precipitation was less relevant to the changes in glacier area. The linear coefficient of determination between glacier area and mean air temperature of the glacier surfaces in July-August in the glacier-covered areas was slightly larger than that in the entire basin. Quantitative glacier research can more accurately reflect the response of glacier variations to climate change. The glacier area had a significant negative linear correlation with the mean air temperature in July-August in different elevation zones, and the elevation zones with a larger area distribution had a larger deceleration rate of glaciers. The more concentrated the area of glaciers， the more sensitive the glaciers to temperature. The prediction of glacier area variations under future climate scenarios reveal that the trend in glacier shrinkage will continue under increasing air temperatures in the future. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "This study was financially supported by the National Key Research and Development Program of China (2016YFC0402405) and the National Natural Science Foundation of China (91647109,51179203,51579248, 51679257, 51779270). Thanks to the editors and the anonymous reviewers for their insightful comments and suggestions. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "AndreassenLM,aulFKabA,etal.o8.LandsatderivedglacierinventorforJtunheimen,Norwayandeducedglacier changes since the 1930s. The Cryosphere, 2(2): 131-145.   \nBayr KJ,HallDK,Kovalick WM,1994.Observations on glaciers intheeastern Austrian Alps usingsatelitedata. International Journal of Remote Sensing, 15(9): 1733-1742.   \nBolch T,YaoT,KangS,etal.2a.Aglacierinventoryforthe westerNyainqentanglhaRange andtheNamCoBasin,ibet, and glacier changes 1976-2009. The Cryosphere, 4(3): 419-433.   \nBolch T,MenounoB,WheateR.201ob.Landsat-based inventoryof glaciers inwestern Canada,1985-20o5.RemoteSesing of Environment, 114(1): 127-137.   \nBradleyR S,Miler GH.1972. Recent climatic change and increased glacierization in the Eastern Canadian Arctic.Nature, 237: 385-387.   \nBurn DH,Elnur MAH.2002. Detection of hydrologic trends and variability.Journal of Hydrology,255(1-4):107-122.   \nCao B,Pan BT,Gao H S,et al.2010.Glacier variation intheLenglonglingrange ofeastern Qilian Mountains from1972 to 2007. Journal of Glaciology and Geocryology,32(2): 242-248. (in Chinese)   \nCasas G,SmithK,iveraA,etal.O.IventoryofglaciersinslaiescoatagoniaChile,basedonerialpotoah and satellite imagery. Annals of Glaciology, 34: 373-378.   \nDowdeswellJA,HagenJO,Bjornson H,etal.1997.The massbalanceofcircum-arctic glaciersandrecentclimatechange. Quaternary Research, 48(1): 1-14. Asia from 2005 to 2070. Chinese Science Bulletin,57(36): 3511-3515.   \nDwyer JL.1995. Mapping tide-water glacier dynamics inEast Greenland using Landsat data.Journalof Glaciology,41(139): 584-595.   \nDyurgerovM.2Oo1.Mountain glaciersattheendof thetwentieth century: Globalanalysis inrelationtoclimateand water cycle. Polar Geography, 25(4): 241-336.   \nGanR,LuoY,Zuo QT,etal.2015.Effectsof projected climatechangeonthe glacieradrunof generationin theNarynRiver Basin, Central Asia. Journal of Hydrology, 523: 240-251.   \nGuo WQ,LiuSY,YuPC,etal.2O11. Automaticextractionofridgelinesusing ondrainageboundaries andaspectdierence. Science of Surveying and Mapping, 36(6): 210-212. (in Chinese)   \nHagg W,Braun LN, Kuhn M,etal.2o7.Modelingof hydrological responsetoclimate changein glacierizedCentral Asian catchments. Journal of Hydrology, 332(1-2): 40-53.   \nHall D K, Riggs G A,Salomonson V V.1995.Development of methods for mapping global snow cover using moderate resolution imaging spectroradiometer data. Remote Sensing of Environment, 54(2): 127-140.   \nHamed KH.28.Trend detection in hydrologic data:The Mann-Kendal trend testunder the scaling hypothesis.Journalof Hydrology, 349(3-4): 350-363.   \nHanH, Yang X H, Zhou JD.2018.A study of glacier information extraction methods based on multi-sensors remote sensing images in the Chongce Glacier area,West Kunlun Mountains.Journalof Glaciologyand Geocryology,40(5): 951-959.(in Chinese)   \nHorton PB,Schaefli A, Mezghani B,etal. 20o6.Assessment ofclimate-change impactsonalpinedischarge regimes with climate model uncertainty. Hydrological Processes, 20(10): 2091-2109.   \nIPCC (Intergovermmental Panel on Climate Change).2013. Climate Change 2013: Synthesis Report. In: Contribution of Working Group Itothe Fifth Assessment Report of the Intergovernmental Panelon Climate Change.Geneva,Switzerland.   \nJacobs JD,Alvin S.1997.Recessonof the southern partof Barnes Ice Cap,Bain Island, Canada,between1961and 1993, determined from digital mapping of Landsat TM. Journal of Glaciology, 43(143): 98-102.   \nJin Z Z,Qin X,Sun WJ,etal.2019.Monthlyvariationsof temperature gradientinglacierizedandnon-glacierizedareasof the western Qilian Mountains. Journal of Glaciology and Geocryology, 41(2): 282-292. (in Chinese)   \nKendall M G. 1990. Rank correlation methods. British Journal of Psychology, 25(1): 86-91.   \nKienholz C,Hock R, ArendtAA.2013.Anew semi-automatic aproach for dividing glaciercomplexes into individual glaciers. Journal of Glaciology, 59(217): 925-937.   \nKite G W,ReidIA.1977.Volumetricchangeof theAthabasca Glacieroverthe last 100 years.Journalof Hydrology,32(3-4): 279-294.   \nLiu S Y,Sun W X,Shen YP,et al.2O03. Glacier changes since the litle ice age maximum in the western Qilian Shan, Northwest China,and consequences of glacier runoffor water supply. Journal of Glaciology,49(164): 117-124.   \nLiu S Y,YaoXJ, Guo WQ,etal.2O15.Thecontemporary glaciers inChina basedon the secondChineseGlacier Iventory. Acta Geographica Sinica,70(1): 3-16. (in Chinese)   \nLiu Y, Liu YC,Jiao K Q,etal.2019. Advances on waterresources research inthe upperreachesof Urumqi Riversince 1990. Journal of Glaciology and Geocryology, 41(4): 958-967. (in Chinese)   \nLiu YG, Wang NL, Zhang JH,etal.2019.Climatechange and its impacts onmountain glaciers during 1960-2017 in western China. Journal of Arid Land, 11(4): 537-550.   \nMa Z Z, Wang Z Q,Gu YL,etal.2O15.Ecological vulnerability assessmentof naturereserve inarid regionof Northwest China: Acase studyof the Xihu Nature Reserve and the Suganhu Nature Reserve in Gansu. Journal of Desert Research, 35(1): 253-259. (in Chinese)   \nMann H B. 1945. Nonparametric tests against trend. Econometrica, 13(3): 245-259.   \nMu JX,Li ZQ, Zhang H,et al.2018.The global glacierized area: Curren situation and recent change,based on theRandolph Glacier Inventory (RGI6.0) published in 2017.Journalof Glaciology and Geocryology,40(2): 238-248.(in Chinese)   \nNaz B S,Frans CD,ClarkeGKC,et al.2014. Modeling the efect of glacierrecessonon streamflowresponse usinga coupled glacio-hydrological model. Hydrology and Earth System Sciences,18(2): 787-802.   \nNyeJF.1960.Theresponse of glaciers and ice-sheets to seasonal and climatic changes.Procedings ofthe Royal Society A, 256: 559-584.   \nPanBT,Zhang GL,Wang J,et al.2012.Glacierchanges from 1966-2009 in theGongga Mountains,onthe south-eastern margin of the Qinghai-Tibetan Plateau and their climatic forcing. The Cryosphere,6: 1O87-1101.   \nPaulF.002.Changes inglacierarea inTyrol,Austria,between1969and1992derived fromLandsat5thematic mapperand Austrian glacier inventory data. International Journal of Remote Sensing,23(4): 787-799.   \nRabatelA,FrancouB,SorucoA.etal.2Ol3.Currentstateof glaciers inthetropical Andes:Amulti-centuryperspectiveon glacier evolution and climate change. The Cryosphere, 7(1): 81-102.   \nRacoviteanuAE,PaulF,Raup B,et al.29. Challengesand recommendations in mapping ofglacier parameters from space: Results of the 2008 Global Land Ice Measurements from Space(GLIMS)workshop,Boulder,Colorado,USA.Anals of Glaciology, 50(53): 53-69.   \nSakai A,Fujita K, Duan K, et al. 2O06. Five decades of shrinkage of July $1 ^ { \\mathrm { s t } }$ glacier, Qilian Shan, China. Journal of Glaciology, 52(176): 11-16.   \nShi YF,Cui Z J, ZhengB X.1982.Discussion on the Ice Age in the Xixiabangma Mountain Peak: Scientific Expeditions Report of the Xixiabangma Mountain Peak. Beijing: Science Press,155-176. (in Chiese)   \nShiYF.2Ooo.Glaciersand Their Environments in China:ThePresent,PastandFuture.Beijing:Science Pres,12-16.(in Chinese)   \nShi YF,ShenYP,LiDL,et al.2Oo3.Discussiononthe present climatechange from warm-dayto warm-wetinNorthwest China. Quaternary Sciences, 23(2): 152-164.   \nShiYF,ShenYP,KangE,etal.27.Recenandfutureclimatechange inNorthwest China.ClimaticChange,80:79-393.   \nSidjak R W.199Gacier mappingof the Iecillewaet icefield,British Columbia, Canada,using Landsat TManddigital elevation data. International Journal of Remote Sensing, 2O(2): 273-284.   \nSingh P, Kumar N.1997.Impact assessment ofclimate change on the hydrological responseof asnow and glacier melt runoff dominated Himalayan River. Journal of Hydrology,193(1-4): 316-350.   \nSorgA,BolchT,StoelM,etal.2O12.Climatechange impactsonglaciersandrunofinTenShan (CentralAsia).Nature Climate Change, 2: 725-731.   \nStahlK,MooreRD,SheaJM,etal.2Oo8.Coupledmodellingof glacierandstreamflowresponsetofutureclimatesearios. WaterResources Research, 44(2): 1-13.   \nSunMP,Li ZQ,YaoXJ,etal.2O13.Rapid shinkageandhydrologicalresponseof atypicalcontinentalglacier inthearid region of Northwest China: Taking Urumqi Glacier No.1 as an example.Ecohydrology, 6(6): 909-916.   \nSunMP,LiuSY,YaoXJ,etal.2O18.Glacierchanges intheQilianMountains inthe pasthalf-century: Basedontherevised First and Second Chinese Glacier Inventory. Journal of Geographical Sciences, 28(2): 206-220.   \nTian HZ,Yang TB,Liu QP.2O14. Climatechange and glacier area shrinkage inthe Qilian Mountains,China,from1956 to 2010. Annals of Glaciology, 55(66): 187-197.   \nWang J, Qin X,LiZL,et al.2017.Glaciers change detection from 2004 to 2015 in the Daxueshan,Qilian MTS.Remote Sensing Technology and Application,32(3): 490-498. (in Chinese)   \nWang S,YaoTD,TianLD,etal.2O17.Glacier mass variationanditseffectonsurfacerunof intheBeidaRivercatchment during 1957-2013. Journal of Glaciology, 63(239): 523-534.   \nYaoTD,Li ZG,Yang W,etal.2010.Glacial distribution and mass balance intheYarlung ZangboRiverand itsinfluenceon lakes. Chinese Science Bulletin,55: 2072-2078.   \nZhou ZH,HanN,CaiJY,etal.2O17.Variationcharacteristicsof gaciersandtheirresponse toclimatechange intheQilian Mountains: Take theSuganhu Basin as an example.Journal of Glaciologyand Geocryology,39(6): 1172-1179.(in Chinese)   \nZhu GF,QinDH,RenJW,etal.2O17. Asessment ofperceptionandadaptationtoclimate-related glacierchanges inte arid rivers basin in northwestern China. Theoretical and Applied Climatology,133: 243-252. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    }
+]

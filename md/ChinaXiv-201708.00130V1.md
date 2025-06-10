@@ -1,0 +1,587 @@
+# New Insights of Electroweak Phase Transition in NMSSM
+
+Weicong Huang,α Zhaofeng Kang,b,c Jing Shu,& Peiwen Wu,α Jin Min Yanga a State Key Laboratory of Theoretical Physics， Institute of Theoretical Physics， Chinese Academy of Sciences,Beijing 10019o, People's Republic of China.1 （20 $b$ Center for High-Energy Physics, Peking University， Beijing, 100871, P. R. China. （204 $c$ School of Physics, Korea Institute for Advanced Study， Seoul 130-722, Korea.
+
+ABSTRACT: We perform a detailed semi-analytical analysis of the electroweak phase transition (EWPT) property in NMSSM, which serves as a good benchmark model in which the 126 GeV Higgs mixes with a singlet. In this case,a strongly first order electroweak phase transition (SFOEWPT) is achieved by the tree-level effcts and the phase transition strength $\gamma _ { c }$ is determined by the vacua energy gap at $T = 0$ . We make an anatomy of the energy gap at both tree-level and loop-level and extract out a dimensionless phase transition parameter $R _ { \kappa } \equiv 4 \kappa v _ { s } / A _ { \kappa }$ , which can replace $A _ { \kappa }$ in the parameterization and affect the light CP odd and even Higgs spectra. We find that SFOEWPT only occurs in $R _ { \kappa } \sim - 1$ （204号 and positive $R _ { { \kappa } } \lesssim \mathcal { O } ( 1 0 )$ ，which in the non-PQ limit case would prefer either a relatively light CP odd or CP even Higgs boson $\sim ( 6 0 , 1 0 0 )$ GeV, therefore serves as a smoking gun signal and requires new search strategies at the LHC.
+
+# Contents
+
+1Introduction and motivations 1
+
+The NMSSM at Zero and Non-zero Temperature 2
+
+2.1Tree-level Higgs Potential 3   
+2.2Effective potential at Finite Temperature 5
+
+3Electroweak Phase Transition in the NMSSM 6
+
+3.1 Vacua energy gap and SFOEWPT 6
+
+3.2Anatomy of Type-I 8
+
+3.2.1 Tree-level analysis 8   
+3.2.2 Loop-level analysis 12   
+3.2.3 Numerical results 13
+
+3.3Type III: Results and analysis 16
+
+# 4Relevant Phenomenologies 19
+
+4.1 Higgs Spectra 19   
+4.2Dark Matter Consideration 21
+
+5Conclusion and discussion 23
+
+6Acknowledge 24
+
+A Minimum in the singlet subspace 25
+
+# 1Introduction and motivations
+
+In the last two years,the ATLAS and CMS collaborations have established the discovery of the long expected standard model (SM)-like Higgs boson $h$ , with a significance up to 6.1 and $6 . 9 \sigma$ , respectively [1]. This new resonance has a relatively light mass $m _ { h } \simeq 1 2 6$ GeV,and its observed production or decay rate is close to the SM one. With more data accumulating, we would enter into the territory of precise understanding of EWSB mechanism. In an orthogonal direction, one may wonder its impacts on the weak scale cosmology, in particular the corresponding thermal property: the nature of electroweak phase transition (EWPT). It is not only a big question of early cosmology per se, it will also help us understand the origin of baryon asymmetry in a sense that a strongly first order EWPT (SFOEWPT) is required for successful electroweak baryogenesis (EWBG).
+
+Baryogenesis has a close relation with the Higgs physics and moreover the successful baryogenesis implies a non-standard Higgs boson (For discussions on CP violation, see Ref. [2]). Broadly speaking, with the current LHC data on Higgs production and decay, we can specify three classes of SFOEWPT models based on their discovery potential through Higgs physics. The first class is that there is a colored or electric charged particle which couples to the 126 GeV Higgs boson. In this case, new particles which alter the Higgs production or decay through gluon fusion or di-photon decay channel will change the Higgs effctive potential and potentially enhance the EWPT strength [3-11]. Comprehensive studies have been carried out after the LHC data and it is found out that for a single particle,a SFOEWPT requires enhanced gluon fusion production rate and suppressed Higgs di-photon decay width [3, 4]. This problem can be cured if one introduces another particle with its loop contributions opposite to the first one while the EWPT strength is enhanced [4]. The second class is that we have a singlet scalar which couples to the Higgs but never develops a VEV [12]. In this case, future precision electroweak and Higgs measurements would constrain the overall kinematical renormalization of the 126 GeV Higgs induced by this model. The last class is that the extra scalar gets a VEV and mixes with the Higgs (or through a tadpole term which is essentially the same [13]) or there are multi-Higgs [14]. In this case, it is the mixing effect that changes the Higgs physics properties. Investigating its genuine features clearly is an important task.
+
+Supersymmetry (SUSY) is a well motivated example among beyond SM models and it can also provide the SFOEWPT for successful EWBG. For instance,in the minimal supersymmetric SM (MSSM) the significant Higgs-stop coupling can lead to an acceptable EWPT strength in a tiny window, given a wel organized stop sector [15]. In light of the recent LHC Higgs discovery and stop exclusion, this window has been severely constrained and essentially ruled out [16-18] (For a remedy, see [4]). In this class of model,one challenge after the Higgs discovery is to lift $m _ { h }$ with the least fine-tuning while still accommodate the Higgs constrains. One simple extension is the NMSSM, which provides a large treelevel Higgs mass and a natural solution to the $\mu$ problem.With an extra singlet in the Higgs sector, it is conceivable SFOEWPT is still viable in NMSSM and we are curious on the phase transition patterns constrained by the current data. In this article,we have studied this problem in great detail and found out a critical parameter $R _ { \kappa } \equiv 4 \kappa v _ { s } / A _ { \kappa }$ where SFOEWPT only occurs in $R _ { \kappa } \sim - 1$ and positive $R _ { \kappa } \lesssim \mathcal { O } ( 1 0 )$ , which in turn would prefer a lighter CP odd or even Higgs boson.
+
+This paper is organized as follows. In Section 2 we review the NMSSM in detail, including both its Higgs potential in zero and finite temperature. In Section 3,we first analyze the SFOEWPT in NMSSM semi-analytically through both the tree level and loop effects,and then provide the numerical results of the parameter scan which includes all the current experimental and strong electroweak phase transition conditions. We also show the corresponding particle spectra patterns, LHC observations and dark matter in section 4. Finally we conclude and give a discussion in Section 5 and some necessary details in the paper are given in the Appendices.
+
+# 2 The NMSSM at Zero and Non-zero Temperature
+
+As mentioned in the introduction, the NMSSM can accommodate natural SUSY with the current data constraints and provides viable dark matter candidates, thus receives a lot of attention. It also provides a good benchmark model that the 125 GeV Higgs mixes with a singlet getting a VEV，therefore provides tree-level cubic terms in the Higgs effective potential to enhance the strength of EWPT. In this section we review the basic formulas for the Higgs effctive potential setup without and with the finite temperature corrections.
+
+# 2.1 Tree-level Higgs Potential
+
+All of the above eminent features of the NMSSM are traced back to the Higgs sector, which in the $Z _ { 3 } -$ invariant form,is written as
+
+$$
+\begin{array} { l } { { { \cal W } _ { Z _ { 3 } } \supset \lambda S H _ { u } \cdot H _ { d } + \displaystyle \frac { \kappa } { 3 } S ^ { 3 } , } } \\ { { - { \cal L } _ { s o f t } = \biggl ( \lambda A _ { \lambda } H _ { u } \cdot H _ { d } S + \displaystyle \frac { 1 } { 3 } \kappa A _ { \kappa } S ^ { 3 } + \mathrm { h . c . } \biggr ) . } } \end{array}
+$$
+
+After $S$ getting a VEV $v _ { s } \equiv \langle S \rangle$ around the electroweak (EW） scale,an effective $\mu$ -term is generated. This is the original motivation of the singlet extension. But as a great bonus,the model provides a Higgs quartic term at tree level,i.e., $\lambda ^ { 2 } | H _ { u } ^ { 0 } H _ { d } ^ { 0 } | ^ { 2 }$ ， which can be significant for a large $\lambda \sim 1$ and moreover a small $\tan \beta \sim 1$ . As a consequence, the tree-level mass of the SM-like Higgs boson becomes:
+
+$$
+m _ { h } ^ { 2 } = \left( m _ { Z } ^ { 2 } \cos ^ { 2 } 2 \beta + \lambda ^ { 2 } \sin ^ { 2 } 2 \beta \right) + \delta m _ { \mathrm { m i x } } ,
+$$
+
+where $\delta m _ { \mathrm { m i x } }$ stands for the mixing effects on Higgs boson mass. It can be sizable (typically a few GeV),positive or negative depending on the mass order of the SM-like Higgs boson mass among the neutral Higgs bosons [19, 22]. If $h _ { \mathrm { S M } }$ is the lightest one（ $H _ { 1 } -$ scenario),the effect is a reduction.In contrast,if $h _ { \mathrm { S M } }$ is the next lightest one （ $H _ { 2 } -$ scenario),the effect is an enhancement. After the LHC Higgs 126 GeV Higgs discovery, those spectra pattern of those two scenarios have been studied intensively [2O-37]. Here we will investigate the status of EWPT in these two scenarios separately.
+
+For later convenience, we give the complete tree-level Higgs potential, which consists of the D-, F- and the soft SUSY breaking terms:
+
+$$
+\begin{array} { l } { { V _ { 0 } = \left| \lambda H _ { u } \cdot H _ { d } - \kappa S ^ { 2 } \right| ^ { 2 } + | \lambda S | ^ { 2 } ( H _ { d } ^ { \dagger } H _ { d } + H _ { u } ^ { \dagger } H _ { u } ) } } \\ { { \mathrm { } ~ + \displaystyle \frac { g ^ { 2 } } { 4 } ( H _ { u } ^ { \dagger } H _ { u } - H _ { d } ^ { \dagger } H _ { d } ) ^ { 2 } + \displaystyle \frac { g _ { 2 } ^ { 2 } } { 2 } \left| H _ { d } ^ { \dagger } H _ { u } \right| ^ { 2 } } } \\ { { \mathrm { } ~ + m _ { H _ { d } } ^ { 2 } H _ { d } ^ { \dagger } H _ { d } + m _ { H _ { u } } ^ { 2 } H _ { u } ^ { \dagger } H _ { u } + m _ { S } ^ { 2 } | S | ^ { 2 } } } \\ { { \mathrm { } ~ + \left( \lambda A _ { \lambda } H _ { u } \cdot H _ { d } S + \displaystyle \frac { 1 } { 3 } \kappa A _ { \kappa } S ^ { 3 } + \mathrm { h . c . } \right) , } } \end{array}
+$$
+
+where $H _ { d } ^ { \prime } \equiv ( H _ { d } ^ { 0 } , H _ { d } ^ { - } )$ ， $H _ { u } ^ { T } \equiv ( H _ { u } ^ { + } , H _ { u } ^ { 0 } )$ and $g ^ { 2 } = \left( g _ { 2 } ^ { 2 } + g _ { 1 } ^ { 2 } \right) / 2$ . Here we will not discuss the CP violation aspects of the electroweak baryogenesis and assume $\lambda , A _ { \lambda } , \kappa , A _ { \kappa } \in \mathbb { R }$ for simplicity. An SU(2) $\times$ U $( 1 )$ gauge is chosen such that at the physical vacuum
+
+$$
+v ^ { + } \equiv \langle H _ { u } ^ { + } \rangle = 0 , \quad v _ { u } \equiv \langle H _ { u } ^ { 0 } \rangle \in \mathbb { R } ^ { + } .
+$$
+
+（204号 $v ^ { - } \equiv \langle H _ { d } ^ { - } \rangle = 0$ is a local minimum provided that the charged Higgs bosons have the positive mass square. Moreover, $\lambda A _ { \lambda } > 0$ and $\lambda \kappa > 0$ are assumed to realize $v _ { d } , v _ { S } \in \mathbb { R } ^ { + }$ ：
+
+The angle $\beta$ is defined as in the MSSM:
+
+$$
+v _ { d } = v \cos { \beta } , \quad v _ { u } = v \sin { \beta } ,
+$$
+
+with $v \simeq 1 7 4$ GeV.
+
+For the Higgs mass square structure, we decompose the Higgs fields as follows [19].
+
+$$
+\begin{array} { c } { { H _ { u } ^ { 0 } = v _ { u } + \displaystyle \frac { 1 } { \sqrt { 2 } } ( S _ { 1 } \cos \beta + S _ { 2 } \sin \beta ) + \displaystyle \frac { i } { \sqrt { 2 } } ( P _ { 1 } \cos \beta + G ^ { 0 } \sin \beta ) , } } \\ { { H _ { d } ^ { 0 } = v _ { d } + \displaystyle \frac { 1 } { \sqrt { 2 } } ( - S _ { 1 } \sin \beta + S _ { 2 } \cos \beta ) + \displaystyle \frac { i } { \sqrt { 2 } } ( P _ { 1 } \sin \beta - G ^ { 0 } \cos \beta ) , } } \\ { { S = v _ { s } + \displaystyle \frac { S _ { 3 } + i P _ { 2 } } { \sqrt { 2 } } , } } \end{array}
+$$
+
+where $G ^ { 0 }$ is the Goldstone boson. In this basis, the doublet block has already been approximately diagonalized and $S _ { 2 }$ is the SM-like which carries electroweak VEV among the doublets. In the basis $( S _ { 1 } , S _ { 2 } , S _ { 3 } )$ , the elements of the CP even Higgs mass squared matrix elements $( M _ { S } ^ { 2 } ) _ { i j }$ are given by
+
+$$
+\begin{array} { r l } & { ( M _ { \cal { S } } ^ { 2 } ) _ { 1 1 } = M _ { \cal { A } } ^ { 2 } + ( m _ { \cal { Z } } ^ { 2 } - \lambda ^ { 2 } v ^ { 2 } ) \sin ^ { 2 } 2 \beta , } \\ & { ( M _ { \cal { S } } ^ { 2 } ) _ { 1 2 } = - \displaystyle \frac { 1 } { 2 } ( m _ { \cal { Z } } ^ { 2 } - \lambda ^ { 2 } v ^ { 2 } ) \sin 4 \beta , } \\ & { ( M _ { \cal { S } } ^ { 2 } ) _ { 1 3 } = - ( M _ { \cal { A } } ^ { 2 } \sin 2 \beta + 2 \lambda \kappa v _ { s } ^ { 2 } ) \cos 2 \beta \displaystyle \frac { v } { v _ { s } } , } \\ & { ( M _ { \cal { S } } ^ { 2 } ) _ { 2 2 } = m _ { \cal { Z } } ^ { 2 } \cos ^ { 2 } 2 \beta + \lambda ^ { 2 } v ^ { 2 } \sin ^ { 2 } 2 \beta , } \\ & { ( M _ { \cal { S } } ^ { 2 } ) _ { 2 3 } = \displaystyle \frac { 1 } { 2 } ( - M _ { \cal { A } } ^ { 2 } \sin ^ { 2 } 2 \beta + 4 \lambda ^ { 2 } v _ { s } ^ { 2 } - 2 \lambda \kappa v _ { s } ^ { 2 } \sin 2 \beta ) \displaystyle \frac { v } { v _ { s } } , } \\ & { ( M _ { \cal { S } } ^ { 2 } ) _ { 3 3 } = \displaystyle \frac { 1 } { 4 } M _ { \cal { A } } ^ { 2 } \sin ^ { 2 } 2 \beta \left( \frac { v } { v _ { s } } \right) ^ { 2 } + 4 \kappa ^ { 2 } v _ { s } ^ { 2 } + \kappa A _ { \kappa } v _ { s } - \displaystyle \frac { 1 } { 2 } \lambda \kappa v ^ { 2 } \sin 2 \beta . } \end{array}
+$$
+
+where $M _ { A } ^ { 2 } = 2 \lambda v _ { s } ( A _ { \lambda } + \kappa v _ { s } ) / \sin 2 \beta$ defines the largest scale among these elements and is the heavy CP odd Higgs mass. We can introduce an auxiliary parameter $C _ { A } \equiv 1 -$ （204号 $A _ { \lambda } \sin 2 \beta / 2 \mu - \kappa \sin 2 \beta / \lambda$ to measure the mixing between singlet and doublet, i.e., $M _ { 2 3 } ^ { 2 } =$ $2 C _ { A } \lambda \mu v$ (The mixing $( M _ { S } ^ { 2 } ) _ { 1 2 }$ can be safely neglected for moderate large tan $\beta$ ). The other light Higgs diagonal mass square $( M _ { S } ^ { 2 } ) _ { 3 3 }$ can be written as
+
+$$
+\begin{array} { c } { { ( M _ { S } ^ { 2 } ) _ { 3 3 } = \displaystyle \frac 1 4 M _ { A } ^ { 2 } \sin ^ { 2 } 2 \beta \left( \frac v { v _ { s } } \right) ^ { 2 } + 4 \kappa ^ { 2 } v _ { s } ^ { 2 } \left( 1 + \frac 1 { R _ { \kappa } } \right) - \frac 1 2 \lambda \kappa v ^ { 2 } \sin 2 \beta , } } \\ { { = \displaystyle - \frac 1 2 ( M _ { S } ^ { 2 } ) _ { 2 3 } \left( \frac v { v _ { s } } \right) + 4 \kappa ^ { 2 } v _ { s } ^ { 2 } \left( 1 + \frac 1 { R _ { \kappa } } \right) + \lambda ^ { 2 } v ^ { 2 } - \lambda \kappa v ^ { 2 } \sin 2 \beta } } \end{array}
+$$
+
+and we will use this formula again and again in later discussions. Here $R _ { \kappa } \equiv 4 \kappa v _ { s } / A _ { \kappa }$ isa dimensionless critical variable defined for SFOEWPT.
+
+For the CP odd Higgs boson, $A _ { \kappa }$ is theoretically upper bounded in order to keep the CP odd singlet-like Higgs mass squared $( \mathcal { M } _ { P } ^ { 2 } ) _ { 2 2 }$ positive [38]:
+
+$$
+\begin{array} { l } { { ( { \mathcal M } _ { P } ^ { 2 } ) _ { 1 1 } = { \cal M } _ { \cal A } ^ { 2 } ~ , } } \\ { { ( { \mathcal M } _ { P } ^ { 2 } ) _ { 2 2 } = \displaystyle \frac { 1 } { 4 } { \cal M } _ { \cal A } ^ { 2 } \sin ^ { 2 } 2 \beta \left( \displaystyle \frac { v } { v _ { s } } \right) ^ { 2 } - \displaystyle \frac { 3 } { 2 } \lambda \kappa v ^ { 2 } \sin 2 \beta - \frac { 1 2 \kappa ^ { 2 } v _ { s } ^ { 2 } } { R _ { \kappa } } ~ , } } \\ { { ( { \mathcal M } _ { P } ^ { 2 } ) _ { 1 2 } = \displaystyle \frac { 1 } { 2 } { \cal M } _ { \cal A } ^ { 2 } \sin 2 \beta \left( \displaystyle \frac { v } { v _ { s } } \right) ~ , } } \end{array}
+$$
+
+where $( \mathcal { M } _ { P } ^ { 2 } ) _ { 1 1 }$ corresponds to the mass squared $M _ { A } ^ { 2 }$ of the only CP odd Higgs in the MSSM.
+
+# 2.2 Effective potential at Finite Temperature
+
+The starting point for the perturbative analysis of EWPT is the finite temperature effective potential. Up to one-loop order, it takes the form of
+
+$$
+V ( \varphi _ { l } , T ) = V _ { 0 } ( \varphi _ { l } ) + V _ { 1 } ( \varphi _ { l } , T ) + V _ { d a i s y } ( \varphi _ { l } , T ) .
+$$
+
+where $\varphi _ { l }$ ， $l = d$ ， $u$ ， $s$ are the classical field variables corresponding to $H _ { d } ^ { 0 }$ ， $H _ { u } ^ { 0 }$ ，and $S$ . The tree-level part $V _ { 0 }$ follows directly from the Higgs potential in Eq. (2.3). We realize that our analysis at this precision may be subject to corrections from high order and the issue of gauge dependence [39, 40] and a more complete analysis is left to a future study.
+
+The one loop part $V _ { 1 }$ consists of the Coleman-Weinberg potential at zero temperature and thermal corrections at finite temperature [41]:
+
+$$
+V _ { 1 } = \sum _ { i } \frac { ( - ) ^ { 2 s _ { i } } n _ { i } } { 6 4 \pi ^ { 2 } } m _ { i } ^ { 4 } ( \varphi _ { l } ) \left( \ln \frac { m _ { i } ^ { 2 } ( \varphi _ { l } ) } { Q ^ { 2 } } - \frac { 3 } { 2 } \right) + \frac { T ^ { 4 } } { 2 \pi ^ { 2 } } \sum _ { i } ( - ) ^ { 2 s _ { i } } n _ { i } J _ { i } \left( \frac { m _ { i } ^ { 2 } } { T ^ { 2 } } \right)
+$$
+
+where $i$ runs over all particles in the model, with each having degrees of freedom $n _ { i }$ ，fielddependent mass $m _ { i } ( \varphi _ { l } )$ and spin $s _ { i }$ ： $J _ { i }$ is the thermal integral function $J _ { B ( F ) }$ for bosons (fermions)
+
+$$
+J _ { B , F } ( y ^ { 2 } ) = \int _ { 0 } ^ { \infty } d x ~ x ^ { 2 } \ln ( 1 \mp e ^ { - \sqrt { x ^ { 2 } + y ^ { 2 } } } ) .
+$$
+
+It tends to be zero in the non-relativistic limit,i.e., $y ^ { 2 } \gg 1$ . By contrast, it has the high temperature expansion and in particular gives rise to the well known thermal cubic term in Eq. (2.11)，given that $i$ is a boson. Here we work in the Landau gauge and in the $D R$ （204号 scheme. As for $V _ { d a i s y }$ , it is the daisy resummation contributions from the longitudinal components of gauge bosons and the scalar bosons [42-44]
+
+$$
+V _ { d a i s y } = - \frac { T } { 1 2 \pi } \sum _ { b } n _ { b } ( \overline { { { m } } } _ { b } ^ { 3 } ( \varphi _ { l } , T ) - m _ { b } ^ { 3 } ( \varphi _ { l } ) ) ,
+$$
+
+where $\overline { { m } } _ { b }$ is the thermal mass.
+
+Finally, it should be emphasized that in our analysis, we use the three VEVs $v _ { l }$ as the inputs and eliminate the Higgs soft masses via the minimization conditions for the three
+
+field variables $\varphi _ { l }$ . Concretely, at one-loop order, they are given by
+
+$$
+\begin{array} { l } { { m _ { H _ { d } } ^ { 2 } = \lambda ( A _ { \lambda } + \kappa v _ { S } ) v _ { S } \tan \beta - \lambda ^ { 2 } ( v _ { S } ^ { 2 } + v ^ { 2 } \sin ^ { 2 } \beta ) - \displaystyle \frac { \bar { g } ^ { 2 } } { 2 } v ^ { 2 } \cos { 2 \beta } - \frac { 1 } { 2 v _ { 1 } } \left. \frac { \partial V _ { 1 } ( T = 0 ) } { \partial \varphi _ { d } } \right| _ { \varphi _ { n } = v _ { l } } , } } \\ { { m _ { H _ { u } } ^ { 2 } = \lambda ( A _ { \lambda } + \kappa v _ { S } ) v _ { S } \cot \beta - \lambda ^ { 2 } ( v _ { S } ^ { 2 } + v ^ { 2 } \cos ^ { 2 } \beta ) + \displaystyle \frac { \bar { g } ^ { 2 } } { 2 } v ^ { 2 } \cos { 2 \beta } - \frac { 1 } { 2 v _ { 2 } } \left. \frac { \partial V _ { 1 } ( T = 0 ) } { \partial \varphi _ { u } } \right| _ { \varphi _ { u } = v _ { l } } , } } \\ { { m _ { S } ^ { 2 } = \lambda A _ { \lambda } \frac { v ^ { 2 } } { 2 v _ { S } } \sin { 2 \beta } - \kappa A _ { \kappa } v _ { S } - \lambda ^ { 2 } v ^ { 2 } - 2 \kappa ^ { 2 } v _ { S } ^ { 2 } + \lambda \kappa v ^ { 2 } \sin { 2 \beta } - \frac { 1 } { 2 v _ { S } } \frac { \partial V _ { 1 } ( T = 0 ) } { \partial \varphi _ { S } } \Big | _ { \varphi _ { l } = v _ { l } } . } } \end{array}
+$$
+
+# 3 Electroweak Phase Transition in the NMSSM
+
+With previous preparations, in this section we study EWPT in this model. It is well known that successful EWBG requires a SFOEWPT, namely $\gamma _ { c } \equiv v _ { c } ( T _ { c } ) / T _ { c } \gtrsim 0 . 9$ . For a dedicated study of this condition based on gauge invariant quantities, see Ref. [39]. Here $T _ { c }$ is the critical temperature of SFOEWPT,with order parameter $v _ { c } ( T _ { c } )$ . In the SM, the lattice simulation indicates that its EWPT is actually a crossover, failing to achieve any jumps in terms of order parameter. In the MSSM, in particular after the discovery of the 126 GeV Higgs boson,a single light stop alone would be ruled out by the current Higgs data because of too large enhancement on the Higgs production rate from gluon fusion. Nevertheless,a second colored light scalar can not only reduce the gluon Higgs effctive operator,but also enhance the EWPT strength [4]. While the NMSSM,by virtue of its tree-level effects, provides a simple way to enhance $\gamma _ { c }$ . Such effects have been studied by many groups before [45-52], but a detailed general analysis of SFOEWPT after the Higgs discovery is still absent and we fill the gap in this paper.
+
+We will first introduce three types of EWPT and then propose a new way to investigate $\gamma _ { c }$ from the zero temperature Higgs effective potential. Following this way, we make an anatomy of each type, giving semi-analytical treatment on tree-level effects and qualitative analysis of loop corrections. It is found that the latter plays a robust role in SFOEWPT, despite of the dominated tree-level effects.
+
+# 3.1 Vacua energy gap and SFOEWPT
+
+The NMSSM contains three Higgs felds and thus possesses a rich vacua structure, which leads to a variety of EWPT patterns. There are mainly three patterns [49,53], classified by the course of the phase transition from the symmetric phase $\Omega _ { 0 }$ to the EW symmetry breaking phase $\Omega _ { \mathrm { E W } }$ (here we denote various phases with their VEV's):
+
+Type-I: $\Omega _ { 0 } \Rightarrow \Omega _ { \mathrm { S } } \Rightarrow \Omega _ { \mathrm { E W } }$ At high temperature, the universe is in the symmetric phase. As the universe cools down, it may transit to the vacuum locating at the singlet subspace, i.e., $\Omega _ { S }$ . As $T$ further decreases to the critical temperature $T _ { c }$ ， $\Omega _ { \mathrm { { S } } }$ degenerates with $\Omega _ { \mathrm { E W } }$ and then the universe transits into the phase $\Omega _ { \mathrm { E W } }$ 1.
+
+Type-II: $\Omega _ { 0 } \Rightarrow \Omega _ { \mathrm { U } } \Rightarrow \Omega _ { \mathrm { E W } }$ Type-II transition passes the intermediate phase $\Omega _ { \mathrm { U } }$ with $H _ { u }$ developing a VEV first. Here only the first step are relevant for EWPT,which recovers the SM case except that $S$ contributes to the thermal cubic terms [41]. However,in this case, SFOEWPT requires large interactions between Higgs and singlet which induces sizable mixing between the two. This will change the transition type into Type-III. Generally, Type-II is hardly strong so we will not discuss this type.
+
+Type-III: $\Omega _ { 0 } \Rightarrow \Omega _ { \mathrm { E W } }$ The EW symmetry breaking vacuum develops first,and thus the universe in the symmetry phase transits directly into the phase $\Omega _ { \mathrm { E W } }$ .It is worth pointing out that even though the transition does not undergo other phases, there are still extra local minima at $T = 0$ . In particular, there usually exits local minima in the singlet subspace which makes the vacua structure Type-I-like. We will turn back to this point in later discussions.
+
+Vacua structure at $T = 0$ should encode information on EWPT.For instance,the effective potential in Type-I is likely to have a metastable vacuum $\Omega _ { \mathrm { { S } } }$ besides the EW vacuum $\Omega _ { \mathrm { E W } }$ ， with vacua energy gap $\Delta V \equiv V _ { \mathrm { { S } } } - V _ { \mathrm { { E W } } }$ .The $T$ -dependent terms in the finite temperature potential need to smooth out this gap as $T$ increases,until the critical temperature. Accordingly, a smaller $\Delta V ( T = 0 )$ may imply a lower $T _ { c }$ thus a larger $\gamma _ { c }$ ： This conjecture is confirmed by our final numerical results shown in Fig.1. In the threedimension field space, developing an analytical expression for $\gamma _ { c }$ is mission impossible, except for some simplified cases like in the PQ-limit [50, 51]. Therefore,our observation provides an important guideline for achieving a larger $\gamma _ { c }$ ：
+
+![](images/f4e8a40076cfc6ecca4fe7fb4ec97d0b9daf69b328c2264daa5b85de327c9240.jpg)  
+Figure 1. Strong correlation between the strength of EWPT and the vacua energy gap $\Delta V$ at $T = 0$ .Left panel: $H _ { 1 } -$ scenario； Right panel: $H _ { 2 } -$ scenario. The vertical line stands for the $\Delta V = v ^ { 2 } m _ { h } ^ { 2 } / 4 = 1 . 1 8 \times 1 0 ^ { 8 }$ GeV limit.
+
+This general correlation between the phase transition strength and the vacua energy gap $\Delta V$ can be understood in the $\Delta V  0$ limit. Let's consider the vacua energy gap between the symmetry phase and the broken phase:
+
+$$
+\begin{array} { r l } & { \Delta V = \left( V _ { \mathrm { s y m } } - V _ { \mathrm { E W } } ( v _ { 0 } ) \right) | _ { T = 0 } } \\ & { \qquad \simeq V _ { \mathrm { s y m } } ( T _ { c } ) - V _ { \mathrm { E W } } ( T = 0 , v _ { 0 } ) } \\ & { \qquad = V _ { \mathrm { E W } } ( T _ { c } , v _ { c } ) - V _ { \mathrm { E W } } ( T = 0 , v _ { 0 } ) } \\ & { \qquad \simeq T _ { c } \frac { \partial V } { \partial T } ( T = T _ { r } , v _ { 0 } ) } \end{array}
+$$
+
+where in the second line, we have used the approximation $V _ { \mathrm { s y m } } ( T _ { c } ) \simeq V _ { \mathrm { s y m } } ( T = 0 )$ in the $\Delta V  0$ limit which holds exactly if the symmetric phase is the origin of $\phi$ or is a good approximation if the symmetric vacuum is of a weakly coupled singlet. The third line comes from the degenerate vacua condition at the critical temperature. In the last line, we set $v _ { c } \approx v _ { 0 }$ and use the Lagrange mean value theorem and $T _ { r } \in [ 0 , T _ { c } ]$ . Thus,
+
+$$
+\frac { v _ { c } } { T _ { c } } \simeq \left( v \frac { \partial V } { \partial T } \Big | _ { T = T _ { c } } \right) \frac { 1 } { \Delta V }
+$$
+
+The dependence of the phase transition strength on $\Delta V$ can be revealed more explicitly in the simplified model of NMSSM in the PQ-limit [5O]. In this model,
+
+$$
+\Delta V = { \frac { v ^ { 4 } } { 2 } } \left( \tilde { \lambda } - { \frac { 2 \tilde { a } ^ { 2 } m _ { s } ^ { 2 } } { ( m _ { s } ^ { 2 } + \lambda ^ { 2 } v ^ { 2 } ) ^ { 2 } } } \right)
+$$
+
+For a extremely small $\Delta V$ ， $v _ { c } \approx v$ , and the phase transition strength can be rewritten as:
+
+$$
+\frac { v _ { c } } { T _ { c } } = E / \left( \tilde { \lambda } - \frac { 2 \tilde { a } ^ { 2 } m _ { s } ^ { 2 } } { ( m _ { s } ^ { 2 } + \lambda ^ { 2 } v ^ { 2 } \cdot \frac { v _ { c } ^ { 2 } } { v ^ { 2 } } ) ^ { 2 } } \right) \simeq \frac { v ^ { 4 } E } { 2 \Delta V }
+$$
+
+where $E$ is the coefficient of thermal cubic term $\phi ^ { 3 } T$
+
+# 3.2 Anatomy of Type-I
+
+In this subsection we will lead the way to generate a smaller energy gap $\Delta V ( T = 0 )$ in Type-I. A full understanding requires analysis at both tree-level and loop-level. We also give numerical results,which are consistent with those semi-analytical understandings.
+
+# 3.2.1 Tree-level analysis
+
+First of all, let's investigate the vacuum energy $V _ { \mathrm { E W } }$ of $\Omega _ { \mathrm { E W } }$ . Substituting Eq. (2.14) into Eq.(2.3),one can eliminate the Higgs soft masses in $V _ { \mathrm { E W } }$ ，and then VEw can be divided into three parts, $V _ { \mathrm { E W } } ^ { H }$ ， $V _ { \mathrm { E W } } ^ { S }$ and $V _ { \mathrm { E W } } ^ { H S }$ .The first part denotes the contribution completely from the Higgs doublets
+
+$$
+V _ { \mathrm { E W } } ^ { H } = - { \frac { v ^ { 2 } } { 4 } } \left( g ^ { 2 } v ^ { 2 } \cos ^ { 2 } 2 \beta + \lambda ^ { 2 } v ^ { 2 } \sin ^ { 2 } 2 \beta \right) \simeq - { \frac { v ^ { 2 } m _ { h } ^ { 2 } } { 4 } } .
+$$
+
+To derive the second approximation we have used nothing but Eq. (2.2) where we neglect the mixing efects for the Higgsboson massAsonecan see, $V _ { \mathrm { E W } } ^ { H }$ is definitely negative.
+
+Moreover, its value is determined by the Higgs quartic coupling thus related to the SMlike Higgs boson mass, $m _ { h } \simeq 1 2 6$ GeV. Therefore,this part is almost fixed to be around $- 1 . 1 8 \times 1 0 ^ { 8 } \mathrm { G e V ^ { 4 } }$ . The second part $V _ { \mathrm { E W } } ^ { S }$ is the contributionfromthesingletsector,taking the form of
+
+$$
+V _ { \mathrm { E W } } ^ { S } = - \frac { 1 } { 3 } \kappa A _ { \kappa } v _ { s } ^ { 3 } - \kappa ^ { 2 } v _ { s } ^ { 4 } .
+$$
+
+The third part $V _ { \mathrm { E W } } ^ { H S }$ is aresultoftedoublesiglet mixing,nditcanbeastetoa simple form,
+
+$$
+V _ { \mathrm { E W } } ^ { H S } = - C _ { A } \mu ^ { 2 } v ^ { 2 } .
+$$
+
+As we have mentioned before, $C _ { A }$ measures the mixing between singlet and doublet $M _ { 2 3 } ^ { 2 } =$ $2 C _ { A } \lambda \mu v$ . From the current Higgs data,we expect this auxiliary parameter $C _ { A }$ is usually much smaller than 1 [28] ², so the singlet or the SM-like Higgs mass is not largely pushed down in the $H _ { 2 } -$ or the $H _ { 1 } -$ scenario respectively.This fact will help us to simplify discussions and furthermore find out a crucial variable $R _ { \kappa }$ which has a close relation with the vacua energy gap $\Delta V$ and the EWPT strength $\gamma _ { c }$ ：
+
+Next we discuss $V _ { \mathrm { { S } } }$ , the tree-level potential energy of the absolute minimum $u _ { s }$ in the singlet subspace 3. To compare with $V _ { \mathrm { E W } }$ , it is convenient to eliminate $m _ { S } ^ { 2 }$ in favor of $v _ { S }$ （20 through the third equation of Eq. (2.14), rewritten as
+
+$$
+m _ { S } ^ { 2 } = - C _ { A } \lambda ^ { 2 } v ^ { 2 } - \kappa A _ { \kappa } v _ { s } - 2 \kappa ^ { 2 } v _ { s } ^ { 2 } .
+$$
+
+Then from the potential with only singlet $S$
+
+$$
+V ( S ) = m _ { S } ^ { 2 } S ^ { 2 } + \frac { 2 } { 3 } \kappa A _ { \kappa } S ^ { 3 } + \kappa ^ { 2 } S ^ { 4 } ,
+$$
+
+we can get
+
+$$
+V _ { \mathrm { S } } = \left[ - \kappa A _ { \kappa } \left( v _ { s } - 2 u _ { s } / 3 \right) - \kappa ^ { 2 } \left( 2 v _ { s } ^ { 2 } - u _ { s } ^ { 2 } \right) \right] u _ { s } ^ { 2 } - C _ { A } \lambda ^ { 2 } u _ { s } ^ { 2 } v ^ { 2 } .
+$$
+
+It is also illustrative to express $V _ { \mathrm { { S } } }$ in terms of the inputs only,
+
+$$
+V _ { \mathrm { S } } = - \frac { A _ { \kappa } ^ { 4 } } { 3 8 4 \kappa ^ { 2 } } \left( 1 + \sqrt { 1 - 8 x _ { \kappa } } \right) ^ { 2 } \left( 1 + \sqrt { 1 - 8 x _ { \kappa } } - 1 2 x _ { \kappa } \right) ,
+$$
+
+which holds for $x _ { \kappa } \equiv m _ { S } ^ { 2 } / A _ { \kappa } ^ { 2 } < 1 / 8$ ， see more details in Appendix. A. $V _ { \mathrm { { S } } }$ is definitely negative for $x _ { \kappa } < 1 / 9$ . Moreover, it is an even function of both $A _ { \kappa }$ and $\kappa$ . For a given （204号 $x _ { \kappa }$ , Eq.(3.11) indicates that $V _ { \mathrm { { S } } }$ becomes more negative as $A _ { \kappa } ^ { 2 } / \kappa$ (or $A _ { \kappa } / \kappa$ to some extent) increases.
+
+With all the above expressions of potential energy， we proceed to discuss the vacua energy gap at tree level,which is found to be related to the deviation of $\boldsymbol { u } _ { s }$ from $v _ { s }$ .To see it, consider the small deviation case and write $u _ { s } = ( 1 + \delta ) v _ { s }$ ( $| \delta | \ll 1 \AA ,$ ),then the gap is approximated as
+
+$$
+\begin{array} { r l } & { \Delta V _ { \mathrm { t r e e } } = V _ { \mathrm { S } } - V _ { \mathrm { E W } } ^ { S } - V _ { \mathrm { E W } } ^ { H S } - V _ { \mathrm { E W } } ^ { H } } \\ & { \qquad \simeq \frac { v ^ { 2 } m _ { h } ^ { 2 } } { 4 } - C _ { A } \lambda ^ { 2 } v ^ { 2 } ( u _ { s } ^ { 2 } - v _ { s } ^ { 2 } ) + \kappa ^ { 2 } ( v _ { s } ^ { 2 } - u _ { s } ^ { 2 } ) ^ { 2 } } \\ & { \qquad + \frac { 1 } { 3 } \kappa A _ { \kappa } \left[ 2 u _ { s } ^ { 2 } ( u _ { s } - v _ { s } ) + v _ { s } ( v _ { s } ^ { 2 } - u _ { s } ^ { 2 } ) \right] } \\ & { \qquad \approx 4 \delta ^ { 2 } \kappa ^ { 2 } \left( 1 + 1 / R _ { \kappa } \right) v _ { s } ^ { 4 } - 2 \delta C _ { A } v ^ { 2 } \mu ^ { 2 } + \frac { v ^ { 2 } m _ { h } ^ { 2 } } { 4 } , } \end{array}
+$$
+
+Obviously, $\Delta V _ { \mathrm { t r e e } }$ goes to the doublet limit $v ^ { 2 } m _ { h } ^ { 2 } / 4$ as $\delta  0$ . In other words,a substantial deviation is necessary to decrease the energy gap away from the doublet limit. In fact, $\Delta V _ { \mathrm { t r e e } }$ can be even negative (we will see this soon later). A negative $\Delta V _ { \mathrm { t r e e } }$ is somewhat welcome since loop correction will be found to favor uplifting $V _ { \mathrm { { S } } }$ relative to $V _ { \mathrm { E W } }$ ：
+
+One could have a closer inspection into the deviation. Consider the minima structure of the singlet subspace at tree level, whose details are listed in Appendix. A, its absolute minimum locates at the origin or
+
+$$
+u _ { s } = \frac { - A _ { \kappa } } { 4 \kappa } \left( 1 + \sqrt { 1 - 8 x _ { \kappa } } \right) ,
+$$
+
+In Type-I the latter is just the case,which requires $x _ { \kappa } < 1 / 9$ .Using Eq. (3.8) one can rewrite $x _ { \kappa }$ as
+
+$$
+x _ { \kappa } = \frac { 1 } { 8 } - \frac { 1 } { 8 } \left( 1 + R _ { \kappa } \right) ^ { 2 } - C _ { A } \lambda ^ { 2 } v ^ { 2 } / A _ { \kappa } ^ { 2 } .
+$$
+
+In the limit $C _ { A } \to 0$ , one gets the following simple relation between $\boldsymbol { u } _ { s }$ and $v _ { s }$ ：
+
+$$
+u _ { s } \approx { \left\{ \begin{array} { l l } { - v _ { s } ( 1 + 2 / R _ { \kappa } ) + { \mathcal O } ( C _ { A } ) } & { { \mathrm { i f ~ } } R _ { \kappa } \gtrsim - 1 ; } \\ { v _ { s } + { \mathcal O } ( C _ { A } ) } & { { \mathrm { i f ~ } } R _ { \kappa } \lesssim - 1 . } \end{array} \right. }
+$$
+
+which shows that $u _ { s }$ usually deviates from ${ { v } _ { s } }$ significantly in the first case while in the second case they should be close to each other, given suppressed corrections from nonzero $C _ { A }$ . Note that at the leading order $\mathcal { O } ( C _ { A } )$ is given by $- C _ { A } \lambda ^ { 2 } v ^ { 2 } / | 1 + R _ { \kappa } | \kappa A _ { \kappa }$ ，which indicates that the approximation breaks down for $R _ { \kappa }$ near $- 1$ . In this case,a positive $C _ { A }$ （204号 in $x _ { \kappa }$ can also generate a deviation.
+
+Arguably, a substantial VEV deviation, i.e., for the first case in Eq. (3.16), tends to drive $\Delta V _ { \mathrm { t r e e } } < 0$ .Notice that in the decoupling limit $C _ { A } \to 0$ ， $S = v _ { s }$ is always either a minimum or maximum ( $A _ { \kappa } ~ < ~ 0$ and $R _ { \kappa } \gtrsim - 1$ ）in the singlet subspace since the first derivative of $V ( S )$ from Eq. (3.10) over $S$ is zero 4. In the latter case, it is not surprising that $V _ { \mathrm { E W } } ^ { S } ( v _ { s } ) > V _ { \mathrm { S } } ( u _ { s } )$ ； in the former case, a large negative $V _ { \mathrm { S } } ( u _ { s } )$ is also possible for $u _ { s } \lesssim - v _ { s }$ ( $R _ { \kappa } > 0$ ). Remind that the singlet-doublet mixing term is suppressed by small $C _ { A }$ ，thus the above difference tends to dominate in $\Delta V _ { \mathrm { t r e e } }$ ，rendering it negative. This is particularly true in the $A _ { \kappa } < 0$ region when $V _ { \mathrm { { S } } } ( v _ { s } )$ is a maximum,where $R _ { \kappa } > - 1$ requires $- A _ { \kappa } / \kappa > 4 v _ { s } \gtrsim \mathcal { O } ( \mathrm { T e V } )$ or even order of magnitude larger for a larger $\mu$ .That large $- A _ { \kappa } / \kappa$ ， in terms of the naive argument below Eq. (3.11)，renders $\Omega _ { S }$ well below $\Omega _ { \mathrm { E W } }$ ： Therefore substantial loop corrections are indispensable to flip the order.
+
+Before heading towards the loop corrections, let's make some observations of the treelevel results on the $R _ { \kappa } - \Delta V _ { \mathrm { t r e e } }$ plane (see the upper panel of Fig. 2). They are in accord with the analysis above: (I) $\ln { R _ { \kappa } } \ll - 1$ region, $u _ { s } \simeq v _ { s }$ ，S0 $\Delta V _ { \mathrm { t r e e } }$ clearly takes the doublet limit $v ^ { 2 } m _ { h } ^ { 2 } / 4$ ; (II) In $R _ { \kappa } \sim - 1$ region, the magnitude of $\Delta V _ { \mathrm { t r e e } }$ can blow up,in particular within the window $- 1 < R _ { \kappa } < 0$ and for a relatively large $\mu$ ; (III) In $R _ { \kappa } > 0$ region, as argued before, $\Delta V _ { \mathrm { t r e e } }$ can also be negative and of order of a few $1 0 ^ { 8 } \mathrm { G e V ^ { 4 } }$ ， significantly smaller than the case (II). More complementary analysis is left to the part of numerical study.
+
+![](images/c3cb8525aba459d7ad70fdd5a50226b9b7db89b16b5c1db2d6036cd7c7a4cfa5.jpg)  
+Figure 2. $\Delta V _ { \mathrm { t r e e } }$ and $\Delta V _ { \mathrm { n u m } }$ (with loop corrections） versus $R _ { \kappa }$ . The left(right) two figures are the plots for the $H _ { 1 } ( H _ { 2 } ) -$ scenario. Clearly, the large negative energy gap at the tree-level $\Delta V _ { \mathrm { t r e e } }$ is driven back to small positive value $\Delta V _ { \mathrm { n u m } }$ through loop corrections.
+
+# 3.2.2 Loop-level analysis
+
+Previously it is shown at tree level $\Omega _ { \mathrm { { S } } }$ usually lies above $\Omega _ { \mathrm { E W } }$ . Here we will demonstrate that the tree-level order is going to be flipped by loop efects,which tend to lower $\Omega _ { \mathrm { E W } }$ but lift up $\Omega _ { S }$ .In the $\overline { { \mathrm { D R } } }$ scheme,the former is mainly ascribed to the remnant of ColemanWeinberg potential after correcting the Higgs soft mass terms,while the latter is mainly due to the shift of $\boldsymbol { u } _ { s }$ . In the following we describe their details respectively.
+
+On one hand, loop effects can lower $\Omega _ { \mathrm { E W } }$ . To offset the shift of VEV's in $\Omega _ { \mathrm { E W } }$ due to Eq. (2.11), we may need to add the corresponding Higgs quadratic term, $- \textstyle { \frac { 1 } { 2 } } \Delta m _ { l } ^ { 2 } \varphi _ { l } ^ { 2 }$ ，with $\Delta m _ { l } ^ { 2 }$ determined to be
+
+$$
+\Delta m _ { l } ^ { 2 } = 2 \sum _ { i } A _ { i } { \frac { m _ { i } ^ { 2 } ( v _ { l } ) } { v _ { l } } } \left[ m _ { i } ^ { 2 } ( \varphi _ { l } ) \right] _ { v _ { l } } ^ { \prime } ( L _ { i } ( v _ { l } ) - 1 ) .
+$$
+
+We have introduced $A _ { i } \equiv ( - ) ^ { 2 s _ { i } } n _ { i } / 6 4 \pi ^ { 2 }$ and $\begin{array} { r } { L _ { i } \equiv \ln \frac { m _ { i } ( v _ { l } ) ^ { 2 } } { Q ^ { 2 } } } \end{array}$ for short. As a consequence, the remnant of Coleman-Weinberg potential, $\begin{array} { r } { V _ { \mathrm { C W } } - \frac { 1 } { 2 } \Delta m _ { l } ^ { 2 } \varphi _ { l } ^ { 2 } } \end{array}$ ， results in a shift to the tree-level $V _ { \mathrm { E W } }$ vacuum energy:
+
+$$
+V _ { \mathrm { C W } } ^ { R } \equiv \sum _ { i } A _ { i } m _ { i } ^ { 4 } ( v _ { l } ) \left[ L _ { i } ( v _ { l } ) - \frac { v _ { l } } { m _ { i } ^ { 2 } ( v _ { l } ) } \left[ m _ { i } ^ { 2 } ( \varphi _ { l } ) \right] _ { v _ { l } } ^ { \prime } ( L _ { i } ( v _ { l } ) - 1 ) \right] .
+$$
+
+The above expression can be simplified greatly for two limits of $m _ { i } ^ { 2 } ( v _ { l } )$
+
+Strong $v _ { l } -$ dependence In this limit the mass of particle $i$ dominantly originates in coupling to Higgs fields,such as the SM-particles and Higgsinoes. Then we have
+
+$$
+V _ { \mathrm { C W } } ^ { \cal R } ( v _ { l } ) = - \sum _ { i } A _ { i } m _ { i } ^ { 4 } ( v _ { l } ) \left( { \cal L } _ { i } ( v _ { l } ) - \frac { 1 } { 2 } \right) .
+$$
+
+Bare in mind that we have fixed $Q = 2$ TeV, thus the relatively light fermions, e.g., top quark and Higgsinos, contributes a positive $V _ { \mathrm { C W } } ^ { R }$ and make for flipping. The resulted decrease in $V _ { \mathrm { E W } }$ can be up to order $1 0 ^ { 9 } \mathrm { G e V ^ { 4 } }$ for a heavy $\mu \sim 5 0 0$ GeV. By contrast, the light weak gauge bosons hamper for flipping but numerically it is unimportant for their lightness.
+
+Weak $v _ { l } -$ dependence Some particles like stop have large (soft） mass terms, so they typically have quite weak dependence on $v _ { l }$ 5. In this limit one may write $m _ { i } ^ { 2 } ( v _ { l } ) =$ $m _ { i } ^ { 2 } \left( 1 + f ( x ) \right)$ with $x = v _ { l } / m _ { i }$ and $f ( x ) \ll 1$ . With that, we get an approximation
+
+$$
+\begin{array} { r l r } {  { V _ { \mathrm { C W } } ^ { R } \approx A _ { i } m _ { i } ^ { 4 } ( L _ { i } - 3 / 2 ) - } } \\ & { } & { A _ { i } m _ { i } ^ { 4 } [ ( 1 - L _ { i } ) ( 2 f ( x ) - x f ^ { \prime } ( x ) ) - L _ { i } f ( x ) ( f ( x ) - x f ^ { \prime } ( x ) ) ] , } \end{array}
+$$
+
+Here $\begin{array} { r } { L _ { i } \equiv \ln \frac { m _ { i } ^ { 2 } } { Q ^ { 2 } } } \end{array}$ . The term in the first line is a constant thus contributing null to the energy gap. While for the second line, heavier CP even/odd Higgs bosons with their mass dependences on the VEVs ( $f ( x ) \sim x )$ will benefit the reduction of $V _ { C W } ^ { R }$ at the VEVs. If $f ( x ) = \lambda _ { l } ^ { 2 } x ^ { 2 }$ (stop without trilinear soft mixing),the leading $x -$ dependence in the second row will vanish，with energy shift proportional only to powers of $v _ { l }$ i.e., $A _ { i } L _ { i } \lambda _ { l } ^ { 4 } v _ { l } ^ { 4 }$
+
+In summary, viewing from our particle spectrum,loop efects tend to decrease energy of $\Omega _ { \mathrm { E W } }$ . In the following we discuss the $u _ { s } -$ shift effect on $V _ { \mathrm { { S } } }$
+
+On the other hand, loop effects can lift $V _ { \mathrm { { S } } }$ up.Here the discussion is different from the previous case,because in $\Omega _ { S }$ the singlet VEV changes after loop corrections and the effective radiative potential plays an important role. It induces a shift to $m _ { S } ^ { 2 }$ , inherited from the previous discussions in $\Omega _ { \mathrm { E W } }$ . On top of that,it affects other tree-level couplings,as can be seen by expanding $V _ { \mathrm { C W } } ( S )$ into polynomials of $S$ . We give corresponding typical examples: The heavy Higgs bosons (still lighter than $\mu$ ）and Higgsinos with mass $\lambda s$ increase $m _ { S } ^ { 2 }$ and $\kappa$ by an amount, respectively, $\sim \mathrm { T e V ^ { 2 } / 1 6 \pi ^ { 2 } }$ and
+
+$$
+\kappa  \kappa ( 1 + ( 1 - L ) \frac { \lambda ^ { 4 } } { 8 \pi ^ { 2 } \kappa ^ { 2 } } ) ^ { 1 / 2 } .
+$$
+
+From Eq.(3.14) and Eq.(3.11) we know that both $| u _ { s } |$ and $| V _ { \mathrm { S } } |$ are monotonically decreasing functions of $x _ { \kappa }$ (and $\kappa$ as well from Eq. (3.15) in $C _ { A } \to 0$ limit.).Thus,in the region with relatively small $\kappa ^ { 2 }$ ( $\lesssim 0 . 0 1 )$ ， $| u _ { s } |$ may be decreased and negative $V _ { \mathrm { { S } } }$ is increasing so $\Omega _ { S }$ is lifted up.
+
+The loop-level numerical results on the $R _ { \kappa } - \Delta V _ { \mathrm { t r e e } }$ plane are shown in the lower panel of Fig.2. The second role of lifting $V _ { \mathrm { { S } } }$ which effectively increases $\kappa$ is crucial to flip vacua order with an especially large tree-level gap,which is characterized by $- 1 < R _ { \kappa } < 0$ .As mentioned before,it is usually accompanied with a relatively smaller $\kappa$ and large $\mu$ ，which yields a sizable increase of $\kappa$ from Eq. (3.21). Recall that $R _ { \kappa } \propto \kappa$ , increasing $\kappa$ may drag $R _ { \kappa }$ out the window $- 1 < R _ { \kappa } < 0$ and make $R _ { \kappa } < - 1$ . Therefore from Eq. (3.12)，It is reasonable for us to draw a conclusion, i.e., the loop-level gap goes to the doublet limit $m _ { h } ^ { 2 } v ^ { 2 } / 4 > 0$ for those points. In this way, the tree-level order is flipped.
+
+# 3.2.3 Numerical results
+
+The SFOEWPT is the result of complicated interplay among quite a few parameters, including $\lambda$ ， $\kappa$ ， $A _ { \kappa }$ etc.We have turned to the numerical methods for a global understanding,and for a cross-check with previous qualitative analysis. Using the NMSSMTOOLS package [55-57], we scan the parameter space of the model with constraints from various relevant experiments, including the constraints on Higgs signatures. The parameter setting is listed as follows:
+
+$$
+\begin{array} { r l } & { \quad \kappa : ( 0 . 0 1 , 0 . 5 ) , \quad \lambda : ( 0 . 3 , 0 . 8 ) , \quad \tan \beta : ( 1 . 5 , 1 0 ) , } \\ & { A _ { \lambda } : ( 2 0 0 , 2 0 0 0 ) \mathrm { G e V } , \quad \mathrm { A } _ { \kappa } : ( - 1 0 0 0 , 1 0 0 0 ) \mathrm { G e V } , \quad \mu : ( 1 0 0 , 6 0 0 ) \mathrm { G e V } . } \end{array}
+$$
+
+To minimize the uncertainty from the soft spectrum and explore the EWPT properties from the genuine Higgs-singlet sector, we assume that they are irrelevantly heavy. In particular, the parameters in the stop sector are taken to be $m _ { \widetilde Q } ^ { 2 } = m _ { \widetilde t _ { R } } ^ { 2 } = 2$ TeV and $A _ { t } = 0$ 6. The numerical points used in the previous sections are actuall from this parameter space. We calculate the phase transition strength following the textbook way: Search for the minima of the complete one loop Higgs potential (2.1O) at each temperature,and then find out （204号 $T _ { c }$ and $\varphi _ { c }$ by the degenerate vacua condition. In the following we show the parameter distributions favored by SFOEWPT,and try to give interpretations of them.
+
+![](images/f4849ae85f550bb220da6fe0e62488f0dda5116d943ced9687ea0a56e0b17fbf.jpg)  
+Figure 3. $R _ { \kappa }$ versus $\gamma _ { c }$ in Type-I transition,with color code denoting $\mu$ . Left panel: $H _ { 1 } -$ scenario; Right panel: $H _ { 2 } -$ sceanrio.
+
+Firstly, we present plots on the $R _ { \kappa } - \gamma _ { c }$ plane in Fig. 3. From them one can see that $R _ { \kappa }$ （204号 is an helpful variable to judge $\gamma _ { c }$ . In other words,the previous tree-level analysis,despite of very complicated loop corrections, still provides valid insights. A possible large $\gamma _ { c }$ is accommodated in two distinct regions:
+
+$R _ { \kappa } \sim \mathcal { O } ( 1 ) - \mathcal { O } ( 1 0 )$ $\gamma _ { c } > 1$ in Type-I favors the $R _ { \kappa } > 0$ (thus $A _ { \kappa } / \kappa > 0$ ）region，which could have a sizable $( u _ { s } - v _ { s } )$ deviation to avoid the doublet limit. One may wonder why large $R _ { \kappa }$ 's fail. Consider $R _ { \kappa } \gg 1$ and still take $C _ { A } \to 0$ ，from Eq. (3.16) one gets $u _ { s } \approx - v _ { s }$ . Then it is straightforward to derive
+
+$$
+\Delta V _ { \mathrm { t r e e } } \approx m _ { h } ^ { 2 } v ^ { 2 } / 4 - 1 6 \kappa ^ { 2 } v _ { s } ^ { 4 } / 3 R _ { \kappa } + \mathcal { O } ( C _ { A } ) .
+$$
+
+So $\Delta V _ { \mathrm { t r e e } }$ , with its singlet contribution suppressed by the large $R _ { \kappa }$ ， goes to the doublet limit again. Numerical results show that in $H _ { 2 } -$ scenario, $\gamma _ { c } > 1$ occurs for $R _ { \kappa } \lesssim 1 0$ ， while in $H _ { 1 } -$ scenario $\gamma _ { c } > 1$ can still occurs for $R _ { \kappa }$ as large as 30.
+
+Note that $R _ { \kappa }$ can not be too small neither owing to phenomenological reasons. A large positive $A _ { \kappa }$ threatens the positivity of the light CP odd Higgs boson mass (we will turn back to it later). Moreover,a very small $\kappa$ leads to a light (singlino-like) neutralino, which opens too large 126 GeV Higgs exotic decay branching ratio in the non-PQ limit. Besides, singlino-like LSP may be over-abundant because of too small annihilation cross section. In conclusion, $A _ { \kappa } / \kappa$ can not be too large and accordingly $R _ { \kappa }$ gets a lower bound, about 4.O and 2.0 in $H _ { 1 } -$ scenario and $H _ { 2 } -$ scenario respectively as shown in Fig. 3.
+
+$R _ { \kappa } \sim - 1$ For $R _ { \kappa } < 0$ , it is not surprising that points with $\gamma _ { c } > 1$ crowd around $R _ { \kappa } \sim - 1$ On one hand, $R _ { \kappa } \ll - 1$ fails to achieve SFOEWPT owing to the doublet limit,as argued at the end of Section 3.2.1. On the other hand, $R _ { \kappa }$ cuts off before approaching to zero because $- A _ { \kappa }$ is not allowed to be very large here owing to the singlet-like CP even Higgs boson.Therefore, $R _ { \kappa }$ is preferred to be around -1.
+
+$H _ { 1 } -$ scenario and $H _ { 2 } -$ scenario demonstrate a remarkable distinction in this region, namely $\gamma _ { c } \gtrsim 1$ is accommodated in the latter but not in the former.,If the point is in the $H _ { 1 } -$ scenario with $\gamma _ { c } \gtrsim 1$ ,a large $M _ { 3 3 }$ term is required and from Eq. (2.8),we can see that this further requires a large $M _ { A }$ (very large $\mu$ and $A _ { \lambda }$ ， see Fig. 3 and Fig. 6) since the term $4 \kappa ^ { 2 } v _ { s } ^ { 2 } ( 1 + 1 / R _ { \kappa } )$ is close to its minimal.
+
+Notice that those points in $H _ { 1 } -$ scenario have obviously large $\mu$ 's,which yield considerably loop corrections according to the discussion at the end of Section 3.2.2. Those loop corrections would bring $\delta$ back to zero (see Fig. 4) and therefore forbid the SFOEWPT. As a comparison, in $H _ { 2 } -$ scenario $\delta$ could have a very large deviation from zero and even approach $\delta > 1$ . It is precisely those points which have a small $\Delta V$ and trigger a SFOEWPT.
+
+![](images/b40b2a0c77ff3fa713da3aa53ee97033aa315f6a0c8b5ecac65637ad33f6f250.jpg)  
+Figure 4. Loop-level gap $\Delta V _ { \mathrm { n u m } }$ versus $\delta \equiv ( u _ { s } - v _ { s } ) / v _ { s }$ for the Type-I transition for the $H _ { 1 } -$ and $H _ { 2 } -$ scenario respectively.
+
+Next,we outline the distributions of relevant parameters favored by $\gamma _ { c } > 1$ in Type-I:
+
+· Light $\mu$ and small $\tan \beta$ are preferred (see Fig. 5),in particular in $H _ { 1 } -$ scenario where （204号 $\mu \lesssim 2 5 0$ GeV and $\tan \beta \lesssim 3 . 5$ .In $H _ { 2 } -$ scenario they can extend to a bit larger regions, i.e., $\mu \lesssim 2 5 0$ GeV and $\tan \beta \lesssim 5$ . In this sense, Type-I agrees with the most natural
+
+NMSSM scenario [22],which have a slice of parameter space with $\lambda \sim 1$ ， $\tan \beta \sim 1$ and $\mu \sim m z$ ：
+
+· $A _ { \lambda } \sim ( 2 0 0 , 6 0 0 )$ GeV (see Fig. 6). Due to the suppressed mixing effect $| C _ { A } | \ll 1$ ， $A _ { \lambda }$ is strongly correlated with $\mu$ ,i.e., $A _ { \lambda } \approx 2 \mu / \sin 2 \beta$
+
+· As for $\kappa$ and $A _ { \kappa }$ ，most of the preferences can be traced back to the discussion on $R _ { \kappa } = 4 \kappa v _ { s } / A _ { \kappa }$ . We emphasize again that both $H _ { 1 } -$ and $H _ { 2 } -$ scenario accommodate SFOEWPT for $A _ { \kappa } > 0$ ，while for $A _ { \kappa } < 0$ ， $\gamma _ { c }$ can hardly achieve $\mathcal { O } ( 1 )$ in $H _ { 1 } -$ scenario (see Fig. 8).
+
+# 3.3 Type III: Results and analysis
+
+In this subsection, we turn our attention to the Type-II transition. This type of EWPT is studied in detail by the early works [45, 48-50] due to its compatibility with the near
+
+![](images/55dfa668ee8cfa93543581bdc6c9b06c24fe98cc401cadd33509959596465ef1.jpg)  
+Figure 5. As in Fig. 3, plots on the tan $\beta - \gamma _ { c }$ plane.
+
+![](images/e8582db816fca2e12603bab24cbe294750fc8a3b4a6ce54dfc0bca7430e06a34.jpg)  
+Figure 6. As in Fig. 3,plots on the $A _ { \lambda } - \gamma _ { c }$ plane.
+
+![](images/7a07560b872dd60fecfa052d0fa2a2c850f7c4883f47d2c9dbebed17f9ffe014.jpg)  
+Figure 7. As in Fig. 3, plots on the $\kappa - \gamma _ { c }$ plane.
+
+![](images/818f31bdad1d9150af340c024985440837d66b53bc645588a79650bb27a2ec8e.jpg)  
+Figure 8. As in Fig. 3, plots on the $A _ { \kappa } - \gamma _ { c }$ plane.
+
+PQ symmetry limit and its one-step nature. Here we revisit this type of transition in the spirit of energy gap. Most of the analysis is similar to that of Type-I.
+
+It is worth pointing out that Type-III arises not only in the case that the origin is indeed the absolute minimum in the singlet subspace but also in the case that the origin is metastable. The latter has a Type-I-like vacua structure but belongs to Type-II due to thermal evolution: At $T = 0$ , the absolute minimum in the subspace locates at $u _ { s } \neq 0$ but as temperature increases it will exceed the origin and become energetically disfavored. So the degenerating eventually happens between the origin and $\Omega _ { \mathrm { E W } }$ ，who determine the gap. Such type-crossing phenomenons are not dificulty to be understood. The critical case $x _ { \kappa } = m _ { S } ^ { 2 } / A _ { \kappa } ^ { 2 } = 1 / 9 \ll 1$ means that $m _ { S } ^ { 2 }$ is positive and small (typically $m _ { S } \lesssim 1 0 0$ GeV), and thus sensitive to temperature. Although it is unable to distinguish quantitatively this case from Type-I at $T = 0$ ,our numerical results tell that the models of this case have a smaller gap between the origin and $\Omega _ { S }$ than those in Type-I.
+
+We proceed to discuss the energy gap at tree and loop-level. This time, the tree-level gap is quite simple, given by $- V _ { \mathrm { E W } }$ ：
+
+$$
+\begin{array} { l } { \Delta V _ { t r e e } = - V _ { \mathrm { E W } } ^ { H } - V _ { \mathrm { E W } } ^ { H S } - V _ { \mathrm { E W } } ^ { S } } \\ { \displaystyle \simeq \frac { v ^ { 2 } m _ { h } ^ { 2 } } { 4 } + C _ { A } \mu ^ { 2 } v ^ { 2 } + \kappa ^ { 2 } v _ { s } ^ { 4 } \left( \frac { 4 } { 3 R _ { \kappa } } + 1 \right) } \end{array}
+$$
+
+Obviously, the singlet part dominates the energy gap for a large $\mu$ , and thus a smal gap appeals to a large negative $A _ { \kappa }$ such that $- 4 / 3 \lesssim R _ { \kappa } < 0$ . For a moderate $\mu$ , the mixing part becomes important and a negative $C _ { A }$ can help to decrease the gap,which requires a large $A _ { \lambda }$ . The features outlined above are well reflected in the Fig. 9.
+
+The above analysis can be well adjusted in the near PQ-limit, where the mixing part from the second term in Eq. (3.24) could play a dominate role, so a large $A _ { \lambda }$ and a moderate $\mu$ play key roles in decreasing the energy gap. Notice that in Ref. [50] where a relatively larger $\tan \beta > 1 0$ region is considered, the corresponding $A _ { \lambda } \sim ( 2 , 5 )$ TeV is even larger in order to achieve a small $\Delta V$ for SFOEWPT. We observe that Type-III can only be accommodated in a very restricted region. This is because that as soon as $R _ { \kappa }$ become a bit larger, $\Omega _ { \mathrm { { S } } }$ will become so deep that the transition changes into Type-I 7.
+
+The loop-level analysis in Section 3.2.2 is also applicable to Type-III, i.e. there are mainly two kinds of loop-level effects. On the one hand, loop corrections lower $\Omega _ { E W }$ and make it to be the global minimum in the same way as in Type-I. On the other hand, the loop corrections in the singlet subspace lift up $\Omega _ { \mathrm { { S } } }$ by increasing $m _ { S } ^ { 2 }$ and $\kappa$ . However, the latter has no influence on the energy gap concerned here, and just makes $\Omega _ { \mathrm { { S } } }$ shallow and ready to exceed the origin in thermal evolution.
+
+![](images/a980886abf9839924e9300dab23a6359a3c2ea073d04c0d724894a6354effdc5.jpg)  
+Figure9. $R _ { \kappa }$ versus $\gamma _ { c }$ in Type-III transition,with color code denoting $\mu$ . Left panel: $\boldsymbol { H } _ { 1 } -$ scenario; Right panel: $H _ { 2 } -$ sceanrio.
+
+Finally, we summarize the parameters preference of SFOEWPT in Type-III:
+
+· Unlike Type-I, SFOEWPT in Type-III prefers a larger $\mu \gtrsim 2 5 0$ GeV,especially in the region $- 4 / 3 \lesssim R _ { \kappa } < 0$ (see Fig. 9). As argued above, $\Delta V$ here is effectively decreasing by the singlet part. Similar to Type-I, $\tan \beta \lesssim 3 . 5$ is favored (see Fig. 10). · The favored values of $A _ { \lambda }$ here is larger than in Type-I since $A _ { \lambda } \simeq 2 \mu / \sin 2 \beta$ or even larger for a negative $C _ { A }$ (See Fig. 11). · Another obvious distinction between Type-I and -III can be observed in Fig. 13: （204号 $A _ { \kappa } > 0$ barely accommodates Type-I,not mentioning to realize $\gamma _ { c } > 1$ . Eq. (3.8) may provide a simple interpretation.It indicates that given a positive $A _ { \kappa }$ we have （204号 $m _ { S } ^ { 2 } \ \to \ - \kappa A _ { \kappa } v _ { s } \ - \kappa ^ { 2 } v _ { s } ^ { 2 } \ < \ 0$ and consequently $x _ { \kappa } ~ < ~ 0$ ， which yields a large deep minimum in the singlet direction,therefore strongly favors Type-I. · The vast majority of surviving points are in $H _ { 2 } -$ scenario. As a matter of fact, seemingly $H _ { 1 } -$ scenario has a strong tension with Type-III. This may blame to its parameter configurations that is difficult to achieve a large $M _ { 3 3 }$ unless $\mu$ and $A _ { \lambda }$ are large,which forbids the SFOEWPT just like the case of Type-I.
+
+![](images/1776b852a120f1484d27f00463d3dbb171ab0fc8cbd31f91f6b5f0b5b4c3ab4f.jpg)  
+Figure 10. As in Fig. 9,plots on the tan $\beta - \gamma _ { c }$ plane.
+
+# 4 Relevant Phenomenologies
+
+# 4.1 Higgs Spectra
+
+The most remarkable connection may lie in the existence of a relatively light Higgs boson in the spectrum, though their masses are heavier than $m _ { B _ { S M } } / 2$ otherwise the Higgs exotic decay channel would dominate and get severely constrained from the current Higgs signal rates.
+
+For the CP odd Higgses, it is well known that the absence of tachyon states in the Higgs CP odd sector strongly favors negative $k A _ { \kappa }$ and now it is more constrained from the observed Higgs signal rate as mentioned above. Such a sharp contradiction substantially compresses the allowed parameter space and leads to a remarkable prediction on the Higgs spectrum. The CP odd Higgs sector contains two physical states $_ { a _ { 1 , 2 } }$ . In the case of $M _ { A } ^ { 2 } \gg M _ { Z } ^ { 2 }$ we have
+
+![](images/2669f881c77a51df5fb6b93ef63d5570ab55f872014934df594acb90a7d8c69a.jpg)  
+Figure 11. As in Fig. 9, plots on the $A _ { \lambda } - \gamma _ { c }$ plane.
+
+![](images/0546720613fddc89428cd602f1aa843292cd34848e52651e84f4bf6a4d94485f.jpg)  
+Figure 12. As in Fig. 9, plots on the $\kappa - \gamma _ { c }$ plane.
+
+$$
+m _ { a _ { 1 } } ^ { 2 } \simeq \lambda \left( A _ { \lambda } + 4 \kappa v _ { s } \right) v _ { u } v _ { d } / v _ { s } - 3 \kappa A _ { \kappa } v _ { s }
+$$
+
+where the second term can be expressed as $- 1 2 \kappa ^ { 2 } v _ { s } ^ { 2 } / R _ { \kappa }$ . Thus, a positive small $R _ { \kappa }$ drives the lighter CP odd Higgs boson mass downwards.
+
+For the CP even Higgses, $R _ { \kappa }$ can also affect the singlet-dominated CP even Higgs mass, as we mentioned in Eq. (2.8):
+
+$$
+( M _ { S } ^ { 2 } ) _ { 3 3 } = 4 \kappa ^ { 2 } v _ { s } ^ { 2 } \left( 1 + \frac { 1 } { R _ { \kappa } } \right) + \cdot \cdot \cdot ,
+$$
+
+where $\mathbf { \nabla } \cdot \cdot \mathbf { \nabla } \cdot \mathbf { \mu }$ stands for other terms either are small or not relevant here. Therefore the preference of $R _ { \kappa }$ from SFOEWPT may result in some specific distribution in the Higgs spectrum. Especially we can see that $- 1 < R _ { \kappa } < 0$ is the region that the above term get its minimal and will drive down the $h _ { 1 }$ mass significantly. Therefore,it is clear that in the NMSSM, the SFOEWPT will impose a specific Higgs spectra through the critical parameter $R _ { \kappa }$ ：
+
+![](images/e2e14e005f3897f2cec725d75e0bca8783db33e31fef7614da67f9129dea7a66.jpg)  
+Figure 13. As in Fig. 9, plots on the $A _ { \kappa } - \gamma _ { c }$ plane.
+
+· $R _ { \kappa } > 0$ prefers a light CP odd Higgs mass (small $m _ { a 1 }$ ）with no strong preference on $m _ { h 1 }$ ：   
+· $0 > R _ { \kappa } > - 1$ prefers a light CP even Higgs mass (small $m _ { h 1 }$ in the $H _ { 2 } -$ scenario) with no preference on $m _ { a 1 }$ ：
+
+The above speculation is confirmed by the histograms Fig. 14 and 15 in which we have imposed the CMS Higgs signal data on surviving samples in various channels including $h _ { \mathrm { S M } }  Z Z , W W , \gamma \gamma , b b , \tau \tau$ at $2 \sigma$ level [58] (ATALS constraints have a relative smaller number of points with the same distributions). In Fig. 14, we compare the normal histograms for $m _ { h 1 }$ ， $m _ { a 1 }$ and those with SFOEWPT. We can see that the latter has more points concentrated on the light $m _ { h 1 }$ ， $m _ { a 1 }$ region. For those histograms which we have both $R _ { \kappa } > 0$ and $R _ { \kappa } < 0$ ，we further distinguish them in the histograms Fig. 15. We can see that there is a very distinction that $R _ { \kappa } > 0$ prefers small $m _ { a 1 }$ while $R _ { \kappa } ~ < ~ 0$ prefers small $m _ { h 1 }$ ，which is coincident with our analysis above.
+
+# 4.2 Dark Matter Consideration
+
+If the lightest NMSSM neutralino is assumed to be the WIMP Dark Matter (DM) candidate,an important consideration is the DM relic density in the present epoch. Combining the PLANCK [59] and WMAP 9-year data [60] and also including a $1 0 \%$ theoretical uncertainty, the $2 \sigma$ range of the WIMP DM relic density can be considered in the following range:
+
+$$
+0 . 0 9 1 \leq \Omega h ^ { 2 } \leq 0 . 1 3 8
+$$
+
+![](images/a77d314447fdc9d4676185b215676fa10f59f5b3f7ed8eb08e2f7f633602af1b.jpg)  
+Figure 14. Left panels: Histograms of $m _ { a 1 }$ for physical points satisfying the CMS Higgs signal at $2 \sigma$ level(blue-blank）and SFOEWPT(red-shaded) for Type-I samples in $H _ { 2 } -$ scenario (upper) and $\boldsymbol { H } _ { 1 } -$ scenario (bottom）.Right panel: As in the left panels,histogram of $m _ { a 1 }$ in $H _ { 2 } -$ scenario is plotted.
+
+Since the bino and wino mass parameter $M _ { 1 } , M _ { 2 }$ have been fixed at 2 TeV in our analysis, the lightest neutralino basically consists of higgsino and/or singlino. From the neutralino mass matrix one can tell that, $\kappa$ can significantly affect the singlino component in the DM:
+
+$$
+\mathcal { M } _ { 0 } = \left( \begin{array} { c c c c } { M _ { 1 } } & { 0 } & { - \frac { g _ { 1 } v _ { d } } { \sqrt { 2 } } } & { \frac { g _ { 1 } v _ { u } } { \sqrt { 2 } } } & { 0 } \\ { M _ { 2 } } & { \frac { g _ { 2 } v _ { d } } { \sqrt { 2 } } } & { - \frac { g _ { 2 } v _ { u } } { \sqrt { 2 } } } & { 0 } \\ & & { 0 } & { - \mu } & { - \lambda v _ { u } } \\ & & & { 0 } & { - \lambda v _ { d } } \\ & & & & { 2 \kappa v _ { s } } \end{array} \right)
+$$
+
+Since all squarks and sleptons have decoupled in our analysis, the DM can annihilate in the early universe only through the light Higgs bosons in the s-channel process or as the final states when the process is kinematically opened. For a highly higgsino-like DM, the coupling of the Higgs with the DM can be sizable and it is very easy to obtain a small relic density. We have checked that for each SFOEWPT scenario in our discussion, it is always possible to pick out several samples which can produce a relic density that does not overclose the universe, or even lies in the band shown in Eq.(4.3).
+
+![](images/1a7f1ff63e9f84dfb16193db07269b6a1a7d43e6d3f7471a394ab7103fba9f0a.jpg)  
+Figure 15. Left panel: Histogram of $m _ { a 1 }$ for physical SFOEWPT points with arbitrary $R _ { \kappa }$ 's (blue-blank)and points with $R _ { \kappa } ~ < ~ 0$ (red-shaded) for Type-I transition in $H _ { 2 } -$ scenario.Right panel: As in the left panel, histograms of $m _ { a 1 }$ is plotted.
+
+# 5 Conclusion and discussion
+
+After the discovery of 126 GeV Higgs boson, the NMSSM is an attractive supersymmetric theory in virtue of its specific tree-level effect to enhance Higgs boson mass and allowing a more natural $\mu$ parameter.On top of that,the tree-level effect can readily enhance the strength of EWPT $\gamma _ { c } \gtrsim 1 . 0$ , which is required for a successful EWGB mechanism to generate the baryon asymmetry. In this article we have concentrated on studying SFOEWPT in the NMSSM, paying special attention on its relation with Higgs phenomenology. We have calculated EWPT strength $\gamma _ { c }$ with the one-loop finite temperature effective potential and find that a larger $\gamma _ { c }$ requires a smaller gap $\Delta V$ . Then，in terms of the vacua structure and its evolution with temperature, we divide EWPT into three categories, Type-I, II and III along with two Higgs spectra patterns: $H _ { 1 } -$ scenario and $H _ { 2 } -$ scenario.We use our semi-analytical analysis as the intuitive understandings and then use our numerical results to confirm those understandings.
+
+We have observed a dimensionless critical parameter $R _ { \kappa } \equiv 4 \kappa v _ { s } / A _ { \kappa }$ which has demonstrated a clear correlation between the different types of SFOEWPT in NMSSM and the Higgs spectra as follows:
+
+·In $H _ { 1 } -$ scenario, the Type-I phase transition prefers $R _ { \kappa } > 0 ( \subset ( 5 , 3 0 ) )$ and much few points exists in the Type-III phase transition with small negative $R _ { \kappa }$ ， ·In $H _ { 2 } -$ scenario, the Type-I phase transition has two distinct regions, in which either $0 > R _ { \kappa } > - 1$ or $R _ { \kappa } > 0 ( \subset ( 2 , 7 ) )$ .For the Type-III phase transition,much of them lies in the region $0 > R _ { \kappa } > - 4 / 3$ ：
+
+A SFOEWPT in general prefers a relatively light CP odd or even （ $H _ { 2 } -$ scenario） Higgs mass. In particular, $R _ { \kappa } > 0$ prefers small $m _ { a 1 }$ while $R _ { \kappa } < 0$ prefers small $m _ { h 1 }$ ：
+
+The current classification on the EWPT patterns and the Higgs spectra has a great importance to guild us to the next step of understanding the nature of EWPT. In particular, the Higgs spectra in SFOEWPT in the NMSSM,or even broadly, in some SM / 2HDM $^ +$ （204号 singlet models, prefers either a light CP odd or even Higgs with their mass slightly more than $m _ { h _ { S M } } / 2$ . We hope that our work can help bring more attention on the observation of those (60,100) GeV light Higgs and works along this direction will be presented in the future 8.
+
+# 6 Acknowledge
+
+We thank the National Natural Science Foundation of China under grant Nos. 11275245, 10821504 and 11135003.
+
+Table 1.Minimum structures in singlet direction   
+
+<html><body><table><tr><td colspan="4">The range of parameters</td><td>minimum</td></tr><tr><td colspan="4">x></td><td>0</td></tr><tr><td rowspan="4">w<</td><td rowspan="2">b>0</td><td colspan="2">1>x>1</td><td>0</td></tr><tr><td colspan="2">< b<0</td><td>S+</td></tr><tr><td rowspan="2"></td><td>b3>0</td><td></td><td>S-</td></tr><tr><td colspan="2">b<0</td><td>S+</td></tr><tr><td></td><td>b2<0</td><td colspan="2">b3>0</td><td>S-</td></tr></table></body></html>
+
+# A Minimum in the singlet subspace
+
+For convenience, we present the minimum structure in the singlet subspace here. The potential has a form
+
+$$
+V ( S ) = { \frac { b _ { 2 } } { 2 } } S ^ { 2 } + { \frac { b _ { 3 } } { 3 } } S ^ { 3 } + { \frac { b _ { 4 } } { 4 } } S ^ { 4 } .
+$$
+
+The minimum condition $\partial V / \partial S = 0$ has following solutions:
+
+$$
+\begin{array} { c } { S = 0 } \\ { S _ { \pm } = \frac { - b _ { 3 } \pm \sqrt { b _ { 3 } ^ { 2 } - 4 b _ { 2 } b _ { 4 } } } { 2 b _ { 4 } } } \end{array}
+$$
+
+The latter is physical as long as $\Delta \equiv b _ { 3 } ^ { 2 } - 4 b _ { 2 } b _ { 4 } > 0$ ,i.e, $x \equiv b _ { 2 } b _ { 4 } / ( 2 b _ { 3 } ^ { 2 } ) \leq 1 / 8$ （24号
+
+The minimum structures are listed in Table 1. Sometimes,it is useful to express the potential at nontrivial minimum as
+
+$$
+V _ { \mathrm { m i n } } ( S _ { \pm } ) = \frac { b _ { 3 } } { 4 } ( \frac { b _ { 2 } } { b _ { 3 } } + \frac { S _ { \pm } } { 3 } ) S _ { \pm } ^ { 2 } = - \frac { b _ { 3 } ^ { 4 } } { 9 6 b _ { 4 } ^ { 3 } } f ( x )
+$$
+
+where $f ( x ) = 4 + 4 { \sqrt { 1 - 8 x } } - 4 8 x - 3 2 x { \sqrt { 1 - 8 x } } + 9 6 x ^ { 2 }$ ， which decreases monotonically from one to zero as x increares from zero to $2 / 9$ . Obviously, $V _ { \mathrm { m i n } } = 0$ for $x > 2 / 9$
+
+# References
+
+[1] G. Aad et al. [ATLAS Collaboration],Phys.Lett. B 716,1 (2012); S. Chatrchyan et al. [CMS Collaboration], Phys. Lett.B 716,30 (2012).   
+[2] J. Shu and Y. Zhang, Phys. Rev. Lett. 111, no. 9,091801 (2013) [arXiv:1304.0773 [hep-ph].   
+[3] D. J. H. Chung, A. J. Long and L. -T. Wang, Phys. Rev. D 87, 023509 (2013) [arXiv:1209.1819 [hep-ph].   
+[4] W. Huang, J. Shu and Y. Zhang, JHEP 1303,164 (2013) [arXiv:1210.0906 [hep-ph]].   
+[5] H.Davoudiasl,I. Lewis and E. Ponton,Phys. Rev. D 87, 093001 (2013) [arXiv:1211.3449 [hep-ph]].   
+[6] M.Laine, G. Nardini and K. Rummukainen, JCAP 1301,011 (2013) [arXiv:1211.7344 [hep-ph]].   
+[7] R. Huo,arXiv:1305.1973 [hep-phl; X. Chang and R. Huo, Phys.Rev.D 89,036005 (2014) [arXiv:1402.4204 [hep-ph].   
+[8] S. S. AbdusSalam and T.A. Chowdhury, arXiv:1310.8152 [hep-ph].   
+[9] M. Laine,G. Nardini and K.Rummukainen,arXiv:1311.4424 [hep-lat].   
+[10] A. Katz and M. Perelstein,arXiv:1401.1827 [hep-ph].   
+[11] T. Li and Y. -F. Zhou, arXiv:1402.3087 [hep-ph].   
+[12] B. Henning, X. Lu and H. Murayama, arXiv:1404.1058 [hep-ph].   
+[13] P. H. Damgaard, D. O'Connell, T. C. Petersen and A. Tranberg, Phys. Rev. Lett. 111, 221804 （2013）[arXiv:1305.4362 [hep-ph].   
+[14] G. C. Dorsch,S. J. Huber and J. M. No, JHEP 1310, 029 (2013) [arXiv:1305.6610 [hep-ph].   
+[15] M. S. Carena, M. Quiros and C. E. M. Wagner, Phys. Lett. B 380,81 (1996) [hep-ph/9603420].   
+[16] M. Carena, G. Nardini, M. Quiros and C. E. M. Wagner, JHEP 1302,001 (2013) [arXiv:1207.6330 [hep-ph].   
+[17] T. Cohen,D.E. Morrissey and A. Pierce,Phys.Rev. D 86, 013009 (2012) [arXiv:1203.2924 [hep-ph].   
+[18] D. Curtin, P. Jaiswal and P. Meade, JHEP 1208,005 (2012) [arXiv:1203.2932 [hep-ph].   
+[19] D. J. Miller,R. Nevzorov and P. M. Zerwas, Nucl. Phys. B 681,3 (2004) [hep-ph/0304049].   
+[20] J.F. Gunion, Y. Jiang and S. Kraml, Phys. Lett. B 710, 454 (2012) [arXiv:1201.0982 [hep-ph].   
+[21] S. F. King, M. Muhlleitner and R. Nevzorov, Nucl. Phys. B 860, 207 (2012) [arXiv:1201.2671 [hep-ph]].   
+[22] Z. Kang, J. Li and T. Li, JHEP 1211,024 (2012) [arXiv:1201.5305 [hep-ph]].   
+[23] J. Cao et al., JHEP 1203,086 (2012) [arXiv:1202.5821 [hep-ph]; JHEP 1210,079 (2012) [arXiv:1207.3698 [hep-ph].   
+[24] K.S. Jeong, Y. Shoji and M. Yamaguchi, JHEP 1209,007 (2012) [arXiv:1205.2486 [hep-ph].   
+[25] J. F. Gunion, Y. Jiang and S. Kraml, Phys. Rev. D 86,071702 (2012) [arXiv:1207.1545 [hep-ph]].   
+[26] K.J.Bae,K. Choi, E.J. Chun, S.H. Im, C.B.Park and C.S. Shin, JHEP 1211,118 (2012) [arXiv:1208.2555 [hep-ph].   
+[27] K. Agashe, Y. Cui and R. Franceschini, JHEP 1302,031 (2013) [arXiv:1209.2115 [hep-ph].   
+[28] Z. Kang, J. Li, T. Li, D. Liu and J. Shu, Phys. Rev. D 88,015006 (2013). [arXiv:1301.0453 [hep-ph].   
+[29] N. D. Christensen,T. Han, Z. Liu and S. Su, JHEP 1308,019 (2013) [arXiv:1303.2113, arXiv:1303.2113 [hep-ph].   
+[30] S.F. King,M. Muhlleitner,R. Nevzorov and K. Walz, Nucl. Phys.B 870 (2013) 323 [arXiv:1211.5074 [hep-ph].   
+[31] T.Gherghetta, B. von Harling,A. D. Medina and M. A. Schmidt, JHEP O2, 032 (2013) [arXiv:1212.5243 [hep-ph].   
+[32] R.Barbieri, D. Buttazzo,K. Kannike,F. Sala and A. Tesi,Phys. Rev.D 87,no.11,115018 (2013）[arXiv:1304.3670 [hep-ph].   
+[33] M. Badziak,M. Olechowski and S. Pokorski, JHEP 1306, 043 (2013) [arXiv:1304.5437 [hep-ph].   
+[34] S.Moretti, S. Munir and P. Poulose, Phys.Rev. D 89, 015022 (2014) [arXiv:1305.0166 [hep-ph].   
+[35] T. Cheng and T. Li, Phys. Rev. D 88, 015031 (2013) [arXiv:1305.3214 [hep-ph]].   
+[36] C.Beskidt,W. de Boer and D. I. Kazakov, Phys.Lett. B 726, 758 (2013) [arXiv:1308.1333 [hep-ph]].   
+[37] J. Cao,F. Ding, C. Han, J. M. Yang and J. Zhu, JHEP 1311,018 (2013) [arXiv:1309.4939 [hep-ph]].   
+[38] U. Ellwanger, C. Hugonie and A. M. Teixeira, Phys. Rept. 496,1 (2010).   
+[39] H. H. Patel and M. J. Ramsey-Musolf, JHEP 1107, 029 (2011) [arXiv:1101.4665 [hep-ph].   
+[40] C.L. Wainwright, S. Profumo and M. J. Ramsey-Musolf, Phys. Rev. D 86, 083537 (2012) [arXiv:1204.5464 [hep-ph].   
+[41] M. Quiros, hep-ph/9901312.   
+[42] R. R. Parwani, Phys.Rev.D 45,4695 (1992) [Erratum-ibid.D 48, 5965 (1993)] [hep-ph/9204216].   
+[43] M. E. Carrington, Phys. Rev. D 45,2933 (1992).   
+[44] P.B. Arnold and O. Espinosa, Phys. Rev. D 47,3546 (1993) [Erratum-ibid. D 50, 6662 (1994)] [hep-ph/9212235].   
+[45]M. Pietroni, Nucl. Phys. B 402 (1993) 27 [arXiv:hep-ph/9207227].   
+[46] A. T. Davies, C. D. Froggatt and R.G. Moorhouse, Phys. Lett. B 372,88 (1996) [hep-ph/9603388].   
+[47] S.J. Huber and M. G. Schmidt, Nucl. Phys.B 606,183 (2001) [hep-ph/0003122].   
+[48] A. Menon, D.E. Morrissey and C. E. M. Wagner, Phys.Rev. D 70, 035005 (2004) [hep-ph/0404184].   
+[49] K.Funakubo,S. Tao and F. Toyoda,Prog. Theor. Phys. 114, 369 (2005) [hep-ph/0501052].   
+[50] M. Carena, N. R. Shah and C. E. M. Wagner, Phys. Rev. D 85, 036003 (2012) [arXiv:1110.4378 [hep-ph].   
+[51] C. Balazs,A. Mazumdar, E. Pukartas and G. White, arXiv:1309.5091 [hep-ph].   
+[52] S. Profumo, M. J. Ramsey-Musolf and G. Shaughnessy, JHEP 0708, 010 (2007) [arXiv:0705.2425 [hep-ph].   
+[53] J. R. Espinosa, T. Konstandin and F. Riva, Nucl. Phys. B 854, 592 (2012) [arXiv:1107.5441 [hep-ph].   
+[54] C. Cheung and Y. Zhang, JHEP 1309,002 (2013)[arXiv:1306.4321 [hep-ph]].   
+[55] U. Ellwanger,J. F. Gunion and C. Hugonie, JHEP 0502, 066 (2005) [hep-ph/0406215].   
+[56] U. Ellwanger and C. Hugonie, Comput.Phys. Commun. 175, 290 (2006) [hep-ph/0508022].   
+[57] U. Ellwanger and C. Hugonie, Comput. Phys. Commun. 177, 399 (2007) [hep-ph/0612134].
+
+[58]https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsHIG [59] P.A. R. Ade et al. [Planck Collaboration],arXiv:1303.5076 [astro-ph.CO]. [60] G. Hinshaw et al. [WMAP Collaboration],Astrophys. J. Suppl. 208,19 (2013). [61] P. Draper, T. Liu, C. E. M. Wagner, L. -T. Wang and H. Zhang, Phys. Rev. Lett.106, 121805（2011） [arXiv:1009.3963 [hep-ph]]. [62] J. Huang,T. Liu, L. -T. Wang and F. Yu, arXiv:1309.6633 [hep-ph].

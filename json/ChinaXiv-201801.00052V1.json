@@ -1,0 +1,277 @@
+[
+    {
+        "type": "text",
+        "text": "氮肥减施对玉米幼苗根系分泌物影响的根际代谢组学分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "彭钰洁；程楠；李佳佳；孔杨鹭；孙彩霞(东北大学生命科学与健康学院沈阳 110169)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：植物根系分泌物的根际代谢组学分析有助于更好的理解土壤根际微域内植物根系与土壤和土壤生物之间化学信号交流的根际过程。本文采用核磁共振氢谱('HNMR)技术，对基于土壤培养收集的玉米幼苗的根系土壤沥出液(soil leachate，SL)、根鞘土浸提液(rhizosheath soil,RS)、根系水培液(distiled water cultivation,DWC)内的根系分泌物进行了检测，并结合多维统计分析对比了不同收集方法以及不同氮肥施用量下玉米幼苗根系分泌物组的不同。结果表明：三种不同方法收集的玉米幼苗根系分泌物的核磁共振氢谱( $^ 1 \\mathrm { H }$ nuclear magnetic resonance, ${ } ^ { 1 } \\mathrm { H } ~ \\mathrm { N M R } _ { , }$ )谱图轮廓及主要标志物明显不同；玉米幼苗根系分泌物中的 $\\mathfrak { a } \\mathrm { . }$ 葡萄糖、苹果酸、亮氨酸、氨酸水平受氮肥施用量影响变化显著。采用 $\\mathrm { ^ { 1 } H }$ NMR技术，结合RS和DWC收集方法进行根际代谢组学分析，可为根际生态及根际氮素营养研究提供重要理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：氮肥减施；根系分泌物；玉米；根际代谢组学;1HNMR 中图分类号;S181 文献标识码;A ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effects of nitrogen fertilizer reduction on root exudates of maize seedlings analyzed by rhizosphere metabonomics ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PENG Yujie, CHENG Nan,LI Jiajia, KONG Yanglu, SUN Caixia (College of Life and Health Sciences, Northeastern University, Shenyang 11O169, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Metabolomicsofroot exudatescanpotentiallyhelpus tobeterunderstandthechemicalcommunicationbetweenroots, soilsand rganismsintherhizosphere.Ithisstudy,threemethodsweredevelopedforcollectingrotexuatesfrom maiesedling plantedisoilsthroughsoilleachate,rhzosheathsoilextractionanddistilledwatercultivation,respectively.Themetabolomicsof root exudates collected bydiferent methods and under nitrogen fertilizer reductionconditions were investigated based on $\\mathrm { ^ 1 H }$ NMR spectroscopy.Multivariate analysis was performed toquantifythediference of metabolomics among samples andconditions.The results showed that the whole profilings of $\\mathrm { ^ { 1 } H }$ NMR were distinct between root exudates obtained by three methods,and the major compounds contributing to the discrimination also varied. The levels of $\\mathfrak { a }$ -glucose,malate,leucine and valine changed significantly in response to dosages of nitrogen fertilizer. Metabolomics analysis of root exudates based on $^ 1 \\mathrm { H }$ NMR spectroscopy combined with samplecollectingmethodsofizosheathsoilextractionanddistiledwatercultivationcanprovideimportanttheoreticalbasisforthe study on the rhizosphere ecology and nitrogen nutrition. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Nitrogen fertilizer reduction; Root exudates; Maize; Rhizosphere metabolomics; $^ { 1 } \\mathrm { H }$ NMR ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "植物根系分泌物高度影响和调节着根际土壤的物理特性、营养有效性以及植物根系与根际土壤微生物、病原菌及其它生物之间化学信号交流的生物学过程[1-2]。根系分泌物的化学特性以及精确定量分析是更好理解根际过程的主要先决条件。由于根系分泌物的局部沉积、在有菌根际内的分泌物的降解以及根际土壤对分泌物的动态吸附作用，对根系分泌代谢物进行定量及定性分析变得相对困难[3]。近年来，非靶标无偏向性的根际代谢组学(rhizosphere metabolomics)技术平台的发展，使得对根土界面内根系分泌物组进行分析成为可能[4-6]。核磁共振(NMR)具有无破坏性、无偏向性、高灵敏度以及测量快速等特点，是代谢组学研究主要的分析技术平台之一。已经应用NMR方法对植物地上部的生理生态学问题进行了大量研究7，而应用该方法进行地下的植物分泌作用方面的研究则相对有限。如何收集原生状态的根系分泌物是根际代谢组学研究的关键。通常采用营养液、琼脂、灭菌石英砂等基质进行植物培养收集根系分泌物,从而可以避免根际微生物的影响，有效消除土壤环境噪音8。然而根系生长介质会影响根系构型、分泌方式和分泌物构成，同时考虑到农业田间生产实际，尤其是当需要关注土壤物理性状(如机械阻力、孔隙度等)对根系分泌过程扰动时，土壤是最佳培养基质。本文基于植物土壤培养，实施了根系土壤沥出，根鞘土收集及短期水培养三种根系分泌物收集方案，对于建立根际生态学研究方法，理解根土相互作用而言具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "植物内的氮素状态及土壤环境的氮素水平对植物根系分泌物的数量和构成具有重要影响[9]。在化学氮肥减量施用条件下，作物根系分泌过程及分泌物的响应特征，是降低氮肥使用量改善氮利用率，进而减缓氮过剩引发的环境负效应以及实现农业可持续生产过程中亟需明确的关键问题。目前尚无在氮肥减施条件下玉米根系代谢组学特征的报道。本文基于核磁共振波谱法研究了不同氮肥减施量对玉米幼苗根系分泌物及根际代谢物组的影响，从而为获取优化根际内氮平衡、提高氮利用率的有效解决途径提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1玉米幼苗土壤培养及根系分泌物收集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以玉米杂交种\"铁研38\"为植物材料进行盆栽实验。盆栽用土为东北地区典型潮棕壤土， $\\mathrm { p H } ~ 5 . 4 6 \\$ ，含有机质 $1 7 . 8 ~ \\mathrm { g { \\cdot k g ^ { - 1 } } }$ 、全氮 $1 . 3 6 ~ \\mathrm { g { \\cdot k g ^ { - 1 } } }$ 、碱解氮 $5 2 . 9 ~ \\mathrm { m g { \\cdot } k g ^ { - 1 } }$ 、速效磷 $2 2 . 7 ~ \\mathrm { m g { \\cdot } k g ^ { - 1 } }$ 、速效钾 $8 3 . 5 ~ \\mathrm { m g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ 。以常规氮肥施用量 $1 8 0 \\ \\mathrm { k g \\cdot h m ^ { - 2 } }$ 为 $1 0 0 \\% \\mathrm { ( N 1 0 0 ) }$ ，氮肥减施处理用量分别为常规用量的 $8 5 \\% ( \\mathrm { N 8 5 } , ~ 1 5 3 ~ \\mathrm { k g } . \\mathrm { h m } ^ { - 2 } )$ 、$5 5 \\% ( \\mathrm { N } 5 5 , 9 9 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 } )$ 。磷肥和钾肥均采用 $7 5 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 的常规施肥量。按照不同氮肥施用量称取相应肥料与土壤混合装盆。玉米种子催芽后播种，盆钵置于光照培养箱中，出苗后每盆定苗3株。培养箱温度设置为$2 8 \\ { ^ \\circ } C / 1 8 \\ { ^ \\circ } C$ (昼/夜)，其他条件按照常规设置。培养 $2 8 { \\mathrm { ~ d ~ } }$ 后，将玉米幼苗从光照培养箱中取出并分别按照下述不同方案收集根系分泌物。(1)土壤沥出液收集法(soilleachate,SL)；按照 Zhu 等[9]的方法并稍作修改，将带苗盆钵至于烧杯上，缓慢将蒸馏水经由植株茎基部浇入土壤，收集盆钵底部土壤沥出液，经 $0 . 4 5 \\mathrm { \\ m m }$ 滤膜过滤后，收集滤液于 $- 8 0 ^ { \\circ } \\mathrm { C }$ 冰箱冻存。(2)根鞘土收集法(rhizosheath soil,RS)；按照Wei 等[lo]的方法并稍作修改，将玉米幼苗小心从土壤中分离，注意保留根鞘土，将带有根鞘土的玉米根系在装有蒸馏水的离心管中反复浸洗，将收集到的土水混合物涡旋震荡 $3 0 \\mathrm { ~ s } , 6 7 0 0 \\mathrm { r m p }$ 离心 $1 0 \\mathrm { m i n }$ ，收集上清液于 ${ } . 8 0 ^ { \\circ } \\mathrm { C }$ 冰箱冻存。(3)短期水培养收集法(distilled water cultivation，DWC)；按照 Valentinuzzi 等[1]的方法并稍作修改，将土壤培养的玉米幼苗根系冲洗干净，转移到装有蒸馏水的培养瓶中，培养瓶外部用锡箔纸包裹，对根部做遮光处理，继续在光照培养箱内培养,6h后取出，经 $0 . 4 5 \\mathrm { m m }$ 滤膜过滤培养液，收集滤液于 $- 8 0 ^ { \\circ } \\mathrm { C }$ 冰箱冻存。为将该方案与常规营养液液体培养收集法相区分，将其称为短期水培养收集法。同时，按照SL方法收集无植物土壤培养的沥出液为空白对照(CK)。每种样品收集方案中各氮肥用量处理分别重复6次，无植物土壤培养对照重复3次。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 1HNMR采谱 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用真空冷冻干燥器将冻存的根系分泌物样品干燥。干燥后样品加入 $6 5 0 ~ \\mu \\mathrm { L }$ 磷酸盐缓冲液 $( 0 . 1 \\textbf { M }$ $\\mathrm { p H } { = } 7 . 0$ ， $\\mathrm { H } _ { 2 } \\mathrm { O }$ ， ${ \\bf D } _ { 2 } { \\bf O } { = } 9$ ；1，内含 $\\mathbf { 1 } \\ \\mathbf { m M } \\ 3 .$ 三甲基甲硅烷基丙酸 ${ \\bf \\cdot d } _ { 4 }$ 钠盐(TSP)), $1 8 0 0 0 ~ \\mathrm { g }$ 离心 $2 0 ~ \\mathrm { m i n }$ ，取 $6 0 0 ~ \\mu \\mathrm { L }$ 上清液转移到核磁管中进行检测。用核磁共振波谱仪(Bruker Biospin,AV 600,Germany)调用 $\\mathrm { z g } \\ 3 0$ 脉冲序列进行 $\\mathrm { ^ { 1 } H N M R }$ 采集。 $6 0 0 \\mathrm { M H z } , 3 0 0 \\mathrm { K }$ 条件下，对FID 进行 $1 2 8 \\mathrm { T }$ 累加，谱图宽度设为 $6 0 0 9 \\mathrm { H z }$ 、采样点数为 $3 2 \\mathrm { k \\Omega }$ ，每次的扫描在3.5 s内完成。将所得 NMR 谱图用 TopSpin 软件进行自动Fouier变化、相位校正和基线校正，并将TSP的甲基质子信号的峰值位移定位为零 $( 0 . 0 \\mathrm { p p m } )$ ，对化学位移进行定标。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 数据处理及统计分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "使用MestRe-C 软件将整个谱图 $( 9 \\mathrm { { \\sim } - 0 . 0 4 \\ p p m ) }$ 以 $0 . 0 4 \\mathrm { p p m }$ 为单位积分，其中删除残留水峰区(4.55\\~4.95ppm)。为消除样本个体间浓度差异的影响，把TSP峰面积定位为1进行数据归一化处理。为增加各个变量在不同样本中的可比性，按照Par 标度化(Par-scaling)方法进行数据中心化及标准化处理。将处理后的数据矩阵导入 SIMCA-P13.0 软件进行偏最小二乘法-判别分析(Partial least squares projection to latentstructures-discriminant analysis,PLS-DA)。采用 SPSS 13.0 对指认代谢物的相对含量进行单因素方差分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1不同收集方法的玉米幼苗根系分泌物的1HNMR谱图",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究基于玉米土壤培养，分别收集了玉米幼苗的根系土壤沥出液(SL)、根鞘土浸提液(RS)、根系水培养液内的根系分泌物，同时以无植物培养的土壤为对照(CK)。研究结果表明：在常规氮肥施用量条件下，不同收集方式获取的根际及根系分泌物提取液的核磁共振氢谱图有明显差别(图1)。SL与CK的谱图轮廓相似；与SL法比较,RS 和DWC法可获得较多的峰信号。根据核磁波谱数据库和文献[12]对核磁共振氢谱的主要特征谱峰进行归属如图1所示。可能是由于特定根系分泌物发生了局部沉积、或者是微生物的降解作用以及土壤颗粒的吸附作用，三种收集方案获取的根系分泌物的数量上有所不同。采用 $\\mathrm { ^ 1 H }$ NMR可以检测到玉米幼苗根系分泌物中有糖、有机酸、氨基酸等组分。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f4a8ff0498c7ffdb7319cabc3dd490fef7027c217aeb51ca748acd7f03d9ceea.jpg",
+        "img_caption": [
+            "图1不同收集方法的玉米幼苗根系分泌物的典型1HNMR谱图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Typical $^ 1 \\mathrm { H }$ NMR spectra of root exudates collected by different methods under full nitrogen fertilizer condition CK：无植物对照;SL:土壤沥出;RS：根鞘土;DWC:蒸馏水培养．代谢物指认:Leu,亮氨酸;Il，异亮氨酸;Val，氨酸； Thr，苏氨酸;Lac，乳酸;Ala,丙氨酸;AA，乙酸;Pyr，丙酮酸;Succ，琥珀酸;CA，柠檬酸;Asp，天冬氨酸;GB，甜菜碱;MA, 苹果酸;Asn，天冬酰胺;GABA, $\\gamma \\cdot$ 氨基丁酸;Suc，蔗糖; $\\beta$ Gluc, $\\beta$ -葡萄糖; $\\mathfrak { a }$ Gluc, $\\mathbf { \\alpha } _ { \\mathrm { ~ \\normalfont ~ a . ~ } }$ 葡萄糖;Fum，延胡索酸;Ac,乌头酸;For, formate.CK:controlwitoutplants;SL:soilleachate;RS:izosheathsoil;DWC:distiledwatercultivation.Asignmentsofsigalsto metabolitesadie;;;e;te;; Succ, succinate; CA,citrate; Asp,aspartate; GB,glycinebataine; MA, malate; Asn, asparagine; GABA, $\\gamma$ -amino-butyrate; Suc,sucrose; $\\beta$ -Gluc, $\\beta$ -glucose; $\\mathfrak { a }$ -Gluc, $\\mathfrak { a }$ -glucose;Fum,fumarate; Ac,aconitic acid;For, formate. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2玉米幼苗根系及根际代谢组的PLS-DA分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用代谢组学数据简化和降维的常用方法即PLS-DA对不同收集方式的玉米幼苗根系分泌物的 $\\mathrm { ^ 1 H }$ NMR 轮廓进行判别分析。结果表明：三种收集方法的提取液中的代谢物轮廓呈现明显的分组;SL与CK 分组不明显(图 2a)。其中，对 SL 法与 RS 法代谢物轮廓分组贡献较大的主要的标记物为葡萄糖和丙氨酸(图2be)；对 SL法与DWC 法代谢物轮廓分组贡献较大的主要的标记物为乙酸、乳酸、琥珀酸、蔗糖、丙氨酸、亮氨酸、异亮氨酸、氨酸和甜菜碱(图 2cf)；对RS 法与DWC 法代谢物轮廓分组贡献较大的主要的标记物为乙酸、乳酸、琥珀酸和异亮氨酸(图 $2 \\mathrm { d g }$ )。RS 和DWC 两种方案的代谢物轮廓与对照组的分离效果均较好。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/356ab9e7986b22428ea9bc40835d5d228bf160ebc13deb7cffecffdaafc44b7f.jpg",
+        "img_caption": [
+            "图2不同收集方法的玉米幼苗根系分泌物轮廓的PLS-DA分析",
+            "Fig.2PLS-DA based on the metabolite profiles of maize root exudates obtained from different methods. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CK:无植物对照;SL:土壤沥出;RS:根鞘土;DWC:蒸馏水培养。a,b,c,d 是得分图。e,f, $\\mathbf { g }$ 图中分组的关键代谢物的名 称如图1所示。CK:otrolwioutplants;Lsoileachate;Soshathsoil;DWC:ditilldwatecivatioFigreadds score plot,respectively.The legends of key biomarkers in root exudates indicated in figure e,f and $\\mathbf { g }$ are the same as those in Fig. 1. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3不同氮肥施用量条件下玉米幼苗根系分泌物的变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图3可以看出，在不同的氮肥施用量条件下，根鞘土浸提(图3a,b,c)的 $\\mathrm { ^ { 1 } H N M R }$ 谱图轮廓与短期水培养收集(图3d,e,f)的根系分泌物有明显差别；同时，同种收集方式下随着氮肥施用量的不同，整个 $\\mathrm { ^ { 1 } H N M R }$ 谱图轮廓亦发生一定程度的变化。由表1可知，与氮肥常量施用比较，在氮肥减施条件下，仅有 $\\alpha \\mathrm { . }$ -葡萄糖显著增加(增幅高达1.44倍， $P { < } 0 . 0 5 \\rangle$ ，其他玉米幼苗根鞘土内的分泌物的水平没有发生显著性改变；短期水培养的根系分泌物水平的变化相对明显，苹果酸、亮氨酸、氨酸显著增加，增幅分别为1.30,1.20,1.46倍，但是随着氮肥减施量的增加，这些代谢物水平不在继续增加，呈下降趋势。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b863a6eda39d69226d6387eefe6ff66dbeb8dac86408e03f8b1cd3c49b7ec909.jpg",
+        "img_caption": [
+            "图3不同氮肥施用量条件下的玉米幼苗根系分泌物的典型 ${ } ^ { 1 } \\mathbf { H }$ NMR谱图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Typical ${ } ^ { 1 } \\mathrm { H }$ NMR spectra of root exudates from the maize seedling grown under different nitrogen fertilizer rates. 图a,b,c分别为 $100 \\%$ $8 5 \\%$ $5 5 \\%$ 氮肥施用量下的根鞘土浸提;图d,e,f分别为 $100 \\%$ 5 $8 5 \\%$ $5 5 \\%$ 氮肥施用量下的蒸馏水培养。(a) $\\mathtt { R S + N 1 0 0 }$ ;(b) $\\mathsf { R S + N 8 5 }$ ；(c) $\\mathsf { R S + N S 5 }$ ；(d) $\\mathrm { { D W C + N 1 0 0 } }$ ；(e) $\\mathrm { D W C + N } 8 5$ ；(f) $\\mathrm { D W C + N } 5 5$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/58f49ecfdcafb9a9f0746577ded5d04083af0a2f172335e16f497cab4f300932.jpg",
+        "table_caption": [
+            "表1不同氮肥施用量条件下的玉米幼苗根系分泌代谢物的变化率",
+            "able1Response ratios of metabolites inexudates from maize roots under different nitrogen fertilizer conditions "
+        ],
+        "table_footnote": [
+            "N100,N85,N55分别为 $100 \\%$ $8 5 \\%$ $5 5 \\%$ 的氮肥施用量。变化率达显著水平的代谢物用加粗字体标注 $( P { < } 0 . 0 5 )$ 。代谢物名称如图 1所示。The treatments of $100 \\%$ $8 5 \\%$ and $5 5 \\%$ nitrogen fertilizer rates are showed as N1Oo,N85 and N55,respectively.Metabolites with a significant change between control and treatment are indicated in bold $( P < 0 . 0 5 )$ ).The legends of metabolites are the same as those in Fig.1. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Metabolites 代谢物</td><td colspan=\"2\">RS根鞘土</td><td colspan=\"2\">DWC 蒸馏水培养</td></tr><tr><td>N85/N100</td><td>N55/N100</td><td>N85/N100</td><td>N55/N100</td></tr><tr><td>Suc</td><td>1.12±0.33</td><td>1.02±0.26</td><td>1.11±0.10</td><td>1.09±0.12</td></tr><tr><td>α-Gluc</td><td>1.44±0.26</td><td>1.26±0.19</td><td>1.01±0.05</td><td>1.16±0.09</td></tr><tr><td>B-Gluc</td><td>1.04±0.18</td><td>1.07±0.15</td><td>1.02±0.05</td><td>1.06±0.09</td></tr><tr><td>Ala</td><td>1.00±0.10</td><td>1.10±0.04</td><td>1.02±0.23</td><td>1.06± 0.39</td></tr><tr><td>Asn</td><td>1.09±0.07</td><td>1.06±0.12</td><td>0.99±0.31</td><td>1.03±0.47</td></tr><tr><td>Asp</td><td>1.08±0.04</td><td>1.01±0.07</td><td>1.03±0.05</td><td>1.06±0.07</td></tr><tr><td>GAGB</td><td>1.05±0.06</td><td>1.04±0.06</td><td>1.06±0.09</td><td>1.08±0.04</td></tr><tr><td>Ile</td><td>1.06±0.14</td><td>1.00±0.08</td><td>1.03±0.09</td><td>1.09±0.06</td></tr><tr><td>Leu</td><td>1.08±0.10</td><td>1.00±0.04</td><td>1.20±0.09</td><td>1.11±0.11</td></tr><tr><td>Val</td><td>1.14±0.11</td><td>1.07±0.04</td><td>1.46±0.35</td><td>1.18±0.21</td></tr><tr><td>AA</td><td>1.08±0.16</td><td>0.91±0.07</td><td>0.87±0.11</td><td>1.03±0.06</td></tr><tr><td>Ac</td><td>0.99±0.27</td><td>1.12±0.38</td><td>1.04±0.13</td><td>1.02±0.15</td></tr><tr><td>CA</td><td>1.05±0.05</td><td>1.06±0.10</td><td>1.04±0.05</td><td>1.06±0.05</td></tr><tr><td>For</td><td>1.02±0.26</td><td>0.98±0.15</td><td>0.99±0.03</td><td>1.08±0.07</td></tr><tr><td>Fum</td><td>1.00±0.22</td><td>1.01±0.13</td><td>1.13±0.13</td><td>1.12± 0.03</td></tr><tr><td>Lac</td><td>1.11±0.16</td><td>1.02±0.09</td><td>1.01±0.12</td><td>1.04±0.08</td></tr><tr><td>MA</td><td>1.14±0.12</td><td>1.03±0.12</td><td>1.32±0.10</td><td>1.13±0.23</td></tr><tr><td>Pyr</td><td>1.13±0.18</td><td>0.98±0.08</td><td>1.16±0.23</td><td>1.01±0.12</td></tr><tr><td>Succ</td><td>1.10±0.15</td><td>1.03±0.16</td><td>0.99±0.26</td><td>0.98±0.15</td></tr><tr><td>GB</td><td>1.13±0.08</td><td>1.06±0.09</td><td>1.04±0.38</td><td>1.20±0.32</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论与结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1玉米幼苗根系分泌物收集及根际代谢组学分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根际代谢组学旨在分析与植物根系分泌作用相关的包括初生代谢物、化学信号物质等植物天然产物",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "www.ecoagri.ac.cn ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根系相关微生物菌群和真菌的分泌物在内的整个根土交互界面的代谢物组。最早,Fan 等[12]基于营养液培养法，建立了小麦、大麦和水稻根系分泌物的NMR非靶标分析的工作流程。随后,Escudero 等[4]采用 $\\mathrm { ^ { 1 } H N M R }$ 分析了在灭菌沙培条件下西红柿幼苗根系分泌物。精确对根系分泌物的数量和构成进行分析需要合理的实验设计进行分泌物的收集。如前所述，虽然营养液、灭菌沙等基质进行植物培养收集根系分泌物的方法具有控制土壤环境噪音干扰的优势，但是其无法模拟土养植物的实际生境而存在局限性。本研究结合玉米土壤盆栽培养实验，对经过土壤沥出，根鞘土浸提及短期水培养收集的根系分泌物进行了 $\\mathrm { ^ { 1 } H }$ NMR分析，结果表明(图1,2)，不同收集方案的根系分泌物的 $\\mathrm { ^ { 1 } H N M R }$ 谱图轮廓及主要标志物明显不同，根鞘土浸提和土培结合短期水培养均可用于根际代谢组学研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "尽管我们将三种方案的收集物均称为根系分泌物，实际上SL和RS法的收集物是根系分泌物和微生物分泌物，分解物的综合产物[]。但是这两种方法可提供在田间条件下究竟发生了什么的真实信息，适合探究植物与根际微生物发生相互作用之后的化学构成，解读根系分泌物的生态功能。将植物的土壤培养与短期水培养相结合的DWC方法，既最大限度的控制了由于土壤异质性存在的环境噪音干扰，又能反映具有重要植物生理学意义的原生状态的根系分泌物。在自然田间条件下，土壤微生物可通过分泌、沉积及其它活动影响根际微区的化学构成[13-15]。尤其是，一些土壤微生物参与了土壤N循环[16]，所以考虑土壤微生物群落及活动对氮肥减施条件下根系分泌物构成的影响是非常重要的，虽然由于微生物的存在干扰了净分泌作用。在土壤生物多样性的复杂背景条件下，借助于根际代谢组学技术有利于我们真正获取并理解根系分泌物的生态功能及农业意义。植物根系分泌物的种类复杂，收集方式及根际代谢组学技术平台的灵敏度会限制能够检测的根系分泌物的数量。尚需注意结合不同的收集方法以及特定的靶标分析检测处于皮摩尔水平的某些信号化合物。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2氮肥减施对玉米幼苗根系分泌物的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "增施氮肥是促进玉米籽粒增产及提高生物量的主要策略之一。然而，增施氮肥导致的氮过剩以及氮利用率降低已经对环境产生例如土壤酸化、环境污染、土壤微生物活力下降等负面影响。减少氮肥施用量，控制氮供给，降低土壤氮损耗风险，是改善氮利用率促进玉米可持续生产的有效途径[17]。植物固定碳总量的$20 { \\sim } 5 0 \\%$ 可以转移到根系，其中 $1 0 \\small { \\sim } 1 8 \\%$ 经由根系分泌物释放到土壤中[18]。根系分泌物的分泌过程同时依赖于植物的生理状态和土壤营养有效性。土壤营养有效性的高低会影响植物源向根系分泌物的分配。本研究表明，与氮肥常量施用比较，在氮肥减施条件下，除了 $\\mathfrak { a }$ -葡萄糖显著增加之外，玉米幼苗根鞘土内的分泌物的水平基本上没有发生显著改变；短期水培养的根系分泌物水平的变化相对明显，苹果酸、亮氨酸、氨酸显著增加，但是随着氮肥减施量的增加，这些代谢物水平不在继续增加，呈下降趋势(图3，表1)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根系分泌物中的糖和糖醇可作为许多微生物的能量源和通用的趋化性物质[9.19]。根系分泌物中的苹果酸可能与特定的植物生长促进根围细菌的向化吸引有关系。植物根系分泌物中的碳水化合物和氨基酸可以做为向化因子引诱植物生长促进根围细菌到植物根际区域从而有助于植物的生长[20]。分泌物中数量比较多的糖、氨基酸和有机酸等组分和植物应对土壤营养供应不足的适应性调整有关。这种适应性的分子机制尚不十分清楚，但是可能与植物内源激素有关。生长素促进质膜 $\\mathrm { H ^ { + } }$ -ATPase活性增加为次级主动运输过程提供了更强的驱动力，从而可将因渗漏的糖、有机酸和氨基酸再次回输[21l。系统比较不同营养条件下质膜的$\\mathrm { H ^ { + } } .$ -ATPase 活性对于揭示根系分泌物的回输机制至关重要。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根系分泌物在植物避免重金属毒害、土壤电性的产生、蛋白或药化物质的生成、与寄生虫、病原菌及其天敌的相互作用、微生物生长的促进方面均发挥了重要作用[18]；另外，植物可通过根系分泌物的增溶作用，还原/配位作用，配体交换反应而影响土壤营养有效性[I]。有研究表明，根系分泌物的释放可以通过增加土壤碳素有效性(输入水溶性碳)进而降低潜在的氮损耗风险[22]。Carvalhais 等[21I基于液体培养的研究结果表明，氮亏缺条件下玉米根系分泌物中的氨基酸(尤其是天冬氨酸、酪氨酸、异亮氨酸、赖氨酸)和麦芽糖含量下降。Zhu等[研究表明，土壤沥出液中玉米根系分泌物总量随着施氮量的增加而增加。与无氮施加对照比较，在 $3 2 0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 的高氮条件下(高出最适量的2\\~3.2倍)，玉米根系分泌物中的糖、糖醇、酚显著增加，而羧酸类化合物、胺类、多元醇、脂类在两种施氮量下没有显著差异。上述研究结果均表明，氮素水平可影响根系分泌物的数量和构成，而特定根系分泌物的数量水平与氮量之间的关系尚存歧义。这可能是由于根系分泌物的构成和数量随着植物生长的外部环境条件如土壤类型、元素含量、pH、温度、微生物的存在而发生变化[20.23]。另外一个影响根系分泌物构成和数量的重要因子是植物固有的生物学特性，如植物种类、品系和发育阶段。例如,Monchgesang 等[24]根据根系分泌物的非靶标代谢物轮廓分析发现19个拟南芥种质材料的根际化学构成存在自然遗传变异。为适应不同的环境，植物根际存在高水平的化学多样性。在氮肥减施条件下，不同玉米品种在不同生育时期及土壤环境条件下的根系分泌物数量和构成的变化尚需进一步研究。为获取优化根际内氮平衡、提高氮利用率的有效解决途径，根系分泌物及整个根土界面内代谢物组的无偏分析与植物组织内代谢物组的协同分析将有助于探查出土壤环境中引发植物促进生长的特定信号分子及植物内在的环境适应机制。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献 References",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]严小龙，廖红，年海．根系生物学：原理与应用[M]．第一版．北京：科学出版社,2007:1-305 Yang X L, Liao H, Nian H. Roots Biology: Principles and Applications. $3 ^ { \\mathrm { r d } }$ ed. Beijing: Science Press, 2007: 1-305   \n[2]van DamNM,BouwmeesterHJ.Metabolomics intherhizosphere:tapping intobelowground chemical communication[J]. Trends in Plant Science,2016,21(3) : 256-265   \n[3]StrehmelN,BotherCSchmidtS,etal.ProfilingofsecondarymetabolitesinrootexudatesofArabidopsisTliana[J]. Phytochemistry,2014,108: 35-46   \n[4]EscuderoN,Marhuenda-EgeaFC,Ibanco-CaneteR,etal.Ametabolomicapproach tostudytherhizodepositioninthe tritrophic interaction:tomato,pochoniachlamydosporiaandmeloidogynejavanica[J].etabolomics,214,0(5):-804   \n[5]罗庆，孙丽娜，胡筱敏．镉超富集植物东南景天根系分泌物的代谢组学研究[J]．分析化学,2015,43(1):7-12 Luo Q,Sun LN,HuYM.Metabonomicsstudyonroot exudatesof Cdhyperacumulator Sedum Alfredi[J]. Chinese Journalof Analytical Chemistry,2015,43(1): 7-12   \n[6]RugovaA,uschnreiter,KoelespergerGetal.Elucdatingzoshreprocesssbyaspectrometry-Aview[J]. Analytica Chimica Acta, 2017, 956: 1-13   \n[7]Sun CX,Chen X,CaoMM,et al.Growth and metabolicresponses of maize roots to straw biochar applicationatdiferent rates[J]. Plant Soil,2017,416(1): 487-502   \n[8] 李春霞，吴凤芝．根系分泌物的收集及其介导的种间互作[J]．西北农业学报,2016,25(6):795-803 Li C XWuFZ.Advances of root exudatescolectionandroot exudates mediated interspecific interactions[J].Acta Agriculturae Boreali-occidentalis Sinica,2016,25(6): 795-803   \n[9]Zhu S S,Vivanco JM,Manter DK.Nitrogen fertizerrateafectsroot exudation,therhizosphere microbiomeand nitrogen-use-efficiency of maize[J]. Applied Soil Ecology, 2016,107: 324-333   \n[10] WeiMA,LIXX,LiCJodulatioofsoilparticlszeandutrintavlabilityinteazeosheath[J].Pedoshe1. 21(4): 483-490   \n[11]ValentinuiF,PiiYiganiGetalPhosphorusandirodeficienciesinduceametabolicreprogrammingandfctthe exudation traitsof the woody plantFragariaxananassa[J].Journal ofExperimental Botany,2015,66(2O): 6483-6495   \n[12]FanTW,LaneAN,PedlerJ,etal.Comprehensive analysisoforganicligands inwholerootexudatesusingnuclearagnetic resonance and gas chromatography-mass spectrometry[J]. Analytical Biochemistry,1997,251(1): 57-68   \n[13]FischerHEckhardtKU,MeyerA,etal.Rhizodepositionfmaize:short-tercarbonudgetandcomposition[J].Joualof Plant Nutrition and Soil Science,2010,173(1): 67-79   \n[14]TiwarS,SinghP,TiwariR,etal.Salt-tolerantrhzobacteria-mediatedinducedtoleranceinwheat(Triticumestiu）and chemical diversity in rhizosphere enhance plant growth[J]. Biologyand Fertility of Soils,2011,47(8): 907-916   \n[15]Proct C,HeY. Quantifyingroot extractsand exudatesof sedgeandshrubinrelation toroot morphology[J].Soil Biologynd Biochemistry,2017,114:168-180   \n[16]CoskunD,ritoD,ShW,etal.Howplantrootexudatesshapetenitrogencycle[J].endsinlantcience(8): 661-673   \n[17]闫湘，金继运，何萍，梁鸣早．提高肥料利用率技术研究进展[J]．中国农业科学,2008,41(2):450-459 Yan X,JinJY,HeP,LiangMZ.RecentadvancesintechnologyofincreasingfertilizeruseeffiencyJ].Scientia Agricultura Sinica,2008,41(2): 450-459   \n[18] KuijkenRCP,vanEeuwijkFA,MarcelisLFM,etal.Rootphenotyping:fromcomponentraitithelabtobreeding[J]. Journal of Experimental Botany, 2015, 66(18): 5389-5401   \n[19]BaudoinE,BenizriE,GuckertA.Impactofrtificialrootexudatesonthebacterialcommunitystructure inbulk soilandmaize rhizosphere[J]. Soil Biology Biochemistry, 2003,35(9): 1183-1192   \n[20]Huang XFChaparojacqulie,ReardonkeethFetal.izosphereteractios:ootedates,icrobes,ndobial communities[J]. Botany Botanique,2014, 92(92): 281-275   \n[21]CarvalhaisLC,DennisPGDmitriF,etal.Rootexudationofsugars,aminoacids,andorganicacidsbymaizeasectedby nitrogen,phosphorus,potasium,andirondeficiencyJ].JouralofPlant NutritionandSoil Science,20l3,76(4):3-11   \n[2]FiskLM,BartonL,JonesDL,etal.Rootexudatecarbonmitigatesnitrogenlossinasemi-aridsoil[J].SoilBiology Biochemistry,2015,88: 380-389   \n[23]LuoQ,WangS,SunL,etal.Metabolicprofilingofroot exudates fromtwoecotypesofSedumalfredi treated withPbbased on GC-MS[J]. Scientific Reports,2017,7(39878): 1-9   \n[24]MonchgesangS,StrehelN,SchmidtS,etal.Naturalvariatioofrootexudates inArabidopsisthaliana-linkingmetabolomic and genomic data[J]. Scientific Reports,2016,6(29033): 1-11 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

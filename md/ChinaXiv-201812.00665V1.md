@@ -1,0 +1,157 @@
+# 肠道黏液屏障功能的研究进展
+
+韩菲菲 彭丽媛 张学斐 杨莎莎 韩剑众\*（浙江工商大学食品与生物工程学院，杭州310018）
+
+摘要：哺乳动物肠道中存在多种防御机制保护机体免受病原体的侵害，同时预防自身肠道菌群的影响。肠道分泌的黏液是多种防御机制中的第一道防线。黏液层通过自身的持续性分泌将细菌与上皮细胞分离并促进细菌的清除，从而减少肠道炎症和肠源性感染的发生。近期研究发现，致病微生物进化出了绕过这种黏液保护系统的机制。本文通过对肠道黏液屏障的基本特性及其在建立肠道共生菌群、防御致病微生物移植和入侵中发挥的作用等方面研究进展的综述，为更好地理解黏液屏障在维持肠道健康方面的作用提供借鉴。
+
+关键词：肠道黏液；屏障功能；肠道菌群；炎症中图分类号：S811 文献标识码：A 文章编号：
+
+肠道是哺乳动物最大和最复杂的器官之一，不仅具有消化吸收功能，其黏膜屏障也是防止肠腔内细菌移位和内毒素入侵的最大屏障，保持机体内环境稳定，维持机体的正常生命活动。肠道黏膜是将机体内部环境和肠腔内环境分开的复杂结构，包括机械屏障、化学屏障、生物屏障及免疫屏障。一旦这个屏障的完整性被破坏，外源性有害物质（细菌、毒素等）可入侵宿主肠道组织，造成炎症和组织损伤。肠道的化学屏障主要由覆盖在肠上皮细胞表面的黏液层、消化液及抗菌肽等组成，又称为黏液屏障。黏液屏障将细菌与肠道黏膜分开，避免细菌直接接触肠上皮细胞表面，形成机体固有防御机制的第一道防线，在阻止致病微生物的移植和入侵、建立共生肠道菌群、防止损伤和免疫防御等方面发挥功能[]，有效地维持着肠道内环境的稳态和健康。肠道稳态的失衡可引起黏液屏障受损，其通透性增加最终可导致肠道黏膜细胞的炎症和损伤[2]。黏液层、肠道上皮细胞、微生物及宿主免疫防御之间的动态平衡是维持肠道内环境稳态的关键。
+
+1肠道黏液的基本特性
+
+# 1.1 肠道黏液的组成
+
+肠上皮细胞、杯状细胞、潘氏细胞、肠内分泌细胞是构成肠上皮的主要细胞类型[3]。肠道黏液主要由杯状细胞分泌的黏蛋白组成，另外含有约 $2 \%$ 的脂质和 $90 \% { \sim } 9 5 \%$ 的盐、细胞、电解质、其他细胞碎片和水的混合成分[4-5]。杯状细胞除分泌黏蛋白外，还分泌一些生物活性因子，包括结合型黏蛋白、三叶肽、抗性分子β和Fc-γ结合蛋白等[]。这些分子的分泌主要有2种途径：基本型和调节型；其中，基本型分泌依赖于分泌颗粒的细胞骨架运动，呈现低水平的连续性分泌；而调节型分泌涉及外部颗粒刺激的胞吐作用[7]。肠黏膜上皮细胞结构和功能的完整性依赖于黏液层的协同调控、细胞间的紧密连接和宿主的获得性免疫应答[8]。黏液从杯状细胞分泌后，迅速膨胀并形成附着于上皮的致密层，将肠腔内寄生菌与上皮细胞隔离开来，使得腔内的细菌不能到达上皮细胞表面。黏液自小肠至结肠逐渐增厚，小肠的主要功能是营养物质的吸收，厚厚的黏液层不利于营养物质的摄取，所以小肠的黏液层较薄。在小肠中，黏液含有防御素、分泌型免疫球蛋白A(sIgA)等抗菌物质抑制肠腔内细菌与上皮接触。力学光谱法对猪小肠黏液凝胶和结肠黏液凝胶结构和性能的研究发现，2种黏液分泌物都具有黏弹性凝胶的性质，但来自小肠的黏液性质较弱；小肠黏液凝胶容易被酸、洗涤剂和蛋白质变性剂破坏，而结肠黏液相对稳定。
+
+# 1.2 肠道黏液的结构
+
+肠道杯状细胞分泌的黏蛋白与水、无机盐、抗菌肽等共同组成了肠道黏液屏障，其空间上呈现黏稠的凝胶型网状结构[10]。肠道黏液在结构上可大体分为内、外2层，靠近肠腔一侧的外层是共生菌定居的部位，称为疏松黏液层；内层是紧密附着黏液层，以"过滤器"的形式阻碍微生物向肠上皮细胞的渗入。2层黏液有相似的组成成份，但内层黏液更为稠密；通过蛋白水解作用，内层黏蛋白网状结构变得稀释移行为外层疏松黏液层[]。
+
+黏蛋白是肠道黏液的主要成分；根据黏蛋白的结构及定位可将黏蛋白分为分泌型和膜结合型，形成肠道黏液凝胶的分泌型黏蛋白由5种寡聚体黏蛋白（Muc2、Muc5AC、Muc5B、Muc6及Muc19）及1种非寡聚体黏蛋白Muc7组成；除Muc19外，其余4者成串定位于染色体11p15.5[12-13]。在小肠和结肠内，Muc2 是主要的分泌蛋白，也是第1个被确定的分泌型黏蛋白。肠黏液中的主要黏蛋白 Muc2是一种巨大的O-糖基化凝胶蛋白，含有1个长度可变的高度糖基化中心区域，通过C-末端二聚化和N-末端三聚化形成巨大的致密二维网状结构[14-15]，每个黏蛋白单体通过二硫键链接在一起。所有的黏蛋白都具有长而有弹性的"PTS"结构域（由脯氨酸、苏氨酸和丝氨酸组成)，苏氨酸和丝氨酸O-连接的聚糖高度糖基化，使得聚糖在分泌的黏蛋白中占重量的 $40 \% \sim 8 0 \%$ 。多数聚糖以带负电荷的羧基（唾液酸）结构终止，每个黏蛋白单体连接着带负电的硫酸盐基团，因此，PTS 域是高度负电荷的。
+
+# 1.3 肠道黏液的屏障属性
+
+肠道杯状细胞每天在持续不断分泌的黏液，人体每天有将近 $1 0 \mathrm { L }$ 的黏液分泌到胃肠道中，其中胃（ $1 8 0 \mu \mathrm { m }$ 左右）和结肠（ $1 1 0 { \sim } 1 6 0 ~ \mu \mathrm { m }$ ）的黏液层最厚。黏液层作为一个动态半渗透屏障，能够交换营养物质、水、气体、香料、激素等物质，同时对大多数细菌和多种病原体具有阻碍作用[16]。对这种动态屏障功能的研究和理解对于建立药物穿过肠黏膜的通路和营养物质转运来说非常重要[17]。Florey 等[18]报道，将印度墨水颗粒注射到猫的胃中，颗粒由于黏液的固定作用被逐渐黏合在一起形成小块，最后牢固地固定在粪便中；Gruber 等[19]观察了多种微粒在胃肠道中存在状态，研究认为无论大小、密度或成分如何变化，都会被胃肠道黏液形成由黏液覆盖的“小块”。肠道黏液能够包裹住颗粒物质，使其不会直接与上皮细胞接触。肠道黏液层将机体与外界环境隔离开来形成一道屏障，在抵抗细菌、抗原及毒素侵袭的同时，也协助机体摄取水、离子及营养物质。早期研究表明小分子物质更容易通过黏液扩散，而较大的分子，如球状蛋白质，不能通过肠黏液到达上皮细胞。最近的一些研究工作表明，比消化酶大得多的颗粒，甚至大于 $5 0 0 \mathrm { n m }$ 的纳米颗粒可以通过黏液凝胶扩散至上皮细胞，证明了微粒在黏液层中的渗透与其大小以及所带的电荷有关[20]。
+
+肠屏障功能的调节主要取决于细胞旁路径。连接相邻上皮细胞之间的空间，可选择性地控制离子和其它小分子溶质通过细胞旁路的被动扩散，因此上皮细胞间紧密连接对保持肠屏障的完整性起着至关重要的作用。所谓的紧密连接，是由跨膜蛋白和调节分子（含激酶）组成的多蛋白复合体。紧密连接对于扩散物质的尺寸和电荷是有选择性的。一般情况下，扩散速度随着粒径的增大而减慢。研究表明，衣壳病毒可以顺利的通过黏液层而相同尺寸的聚苯乙烯颗粒却不能通过；但是，当聚苯乙烯颗粒被聚乙二醇密实涂覆则可以通过黏液扩散至上皮细胞[21]。衣壳病毒具有净中性的表面，既不会被排斥也不会吸引到黏蛋白的带负电荷的聚糖结构域，没有暴露的疏水性表面基团，所以可以顺利通过黏液层；而带有疏水性表面的聚苯乙烯颗粒则被阻挡。黏液的黏弹性是黏液纤毛运输的关键，其由离子环境改变进而调节黏液的水合作用形成；黏弹性适度的增加可明显抑制纤毛清除呼吸道黏液的能力，阻碍细菌运动；黏弹性太高则会妨碍一些营养物质的递送。黏液黏弹性的适度减少会促进细菌的运动；黏弹性太低对于病原体的屏障作用会减弱[22]。所以，黏液的选择性属性与颗粒所带的电荷极性、颗粒的大小及黏液的黏弹性有关。
+
+# 2肠道黏液与肠道菌群
+
+# 2.1 肠道黏液中的细菌
+
+哺乳动物的肠道为各种兼性厌氧菌和严格厌氧菌提供了生存、代谢、繁殖的良好环境，其组成受内在因素（宿主遗传组成）和外在因素（饮食习惯、自然环境、生存压力等）的影响。这些定植或者过路的细菌依靠营养物质在肠道内进行代谢，代谢同时也会对进入肠道成分的代谢、肠道组织细胞的更新、免疫反应等产生一定影响[23]。肠道黏膜是人体最大的免疫系统，存于其内的厌氧菌、兼性厌氧菌可以诱导黏膜在病原体入侵时发生免疫反应，进一步增强宿主抵抗病原体的能力，避免肠道受到损害。营养供应、能量代谢、免疫功能和炎症的发生发展等都与细菌和肠道或细菌与细菌之间的相互作用而产生的代谢产物或信号分子有联系[24]。
+
+人类肠道细菌数量众多，可达自身细胞的10倍，但小肠微生物菌群的多样性和稳定性较低。正常生理状态下，这些细菌寄居在肠道，与人类呈共生关系[25]；在结肠中，细菌定居于外黏液层中，以黏蛋白聚糖为附着位点和营养来源。细菌可以利用肠道内的多种聚糖，所以黏蛋白聚糖为微生物提供稳定的能量来源；而且，黏蛋白实际上是某些细菌的唯一能量能源。大多数细菌更善于利用各种未消化的食物多糖，而食物成分的变化促进了能够利用黏蛋白聚糖的细菌扩增，因此食物成分可以影响肠道细菌组成。在以纤维类食物为主食的地区人群肠道内，细菌不得不更多地依赖于黏液聚糖作为能量来源，这对黏液的体内平衡具有影响[26]。
+
+黏液对肠道内细菌的功能也会产生影响，运动的细菌可以在黏液中保持浮游和运动状态，防止它们形成生物膜并黏附到黏液下层的表面[26]；保持肠黏膜内稳态是肠道菌群的一种适应性策略。肠道黏膜稳定为这些微生物提供方便的长期栖息地；而微生物通过维持细胞与细胞之间的连接以及促进肠道上皮损伤修复来维持肠道上皮的屏障功能完整性就是一种互惠机制[27]。对猪肠道黏液层的研究发现，黏液厚度对黏膜的黏附功能也有很大影响；黏液越厚，外源聚合物链的扩散及与黏液中各种分子之间的缠绕就越多；当然这个中间也受很多其他因素的影响[28]。
+
+# 2.2细菌对小肠黏液发育的影响
+
+在正常的生理条件下，小肠黏液没有完全附着于上皮；而在无菌条件下，小肠黏液却不能完全从上皮移除。正常肠腔内栖息着大量的细菌，这些共生菌是肠道黏膜产生sIgA 的主要刺激来源[29]，研究发现不管是共生菌还是外源性的致病菌都会刺激肠黏膜分泌 sIgA[30]。细菌定植在无菌动物肠道中后，在开始几周内分泌防御素和 sIgA；定植4周后，小肠内细菌的组成发生显著改变，梭菌属的相对丰度降低，拟杆菌属和杆菌属有所增加，而肠内节丝状细菌已检测不到；定植4周后，黏液结构转变为正常的内外2层，微生物组成也与野生型动物一致；这表明有动态的黏液分泌维持着小肠内微环境的稳态[26]。在Muc2缺陷型小鼠体内的研究也证明了黏液在小肠中的重要性；Muc2缺陷型小鼠肠道内细菌增多，使得肠道菌群发生动态变化从而导致肿瘤、炎症的发生[31]。
+
+# 2.3细菌对结肠黏液发育的影响
+
+对细菌或类似尺寸的微粒而言，结肠黏液通常是不可穿透的。然而，在无菌条件下这种类似细菌大小的微粒却可以穿透黏液到达上皮细胞表面。无菌小鼠在细菌定植5周后结肠黏液才会恢复到不可穿透的状态。无菌动物的肠道菌群在定殖细菌后2周左右可常态化，但是需要8周左右甚至更长时间来形成正常的黏液系统和稳定的结肠微生物群。肠道细菌组成和黏液的变化首先出现在小肠，接着才是结肠，表明小肠在肠道对细菌的选择中起重要作用[26]。最近有研究提出，只有某些类型的细菌具有刺激黏液的性质，细菌对宿主黏液性质的影响可能是由在内黏液层上扩散的小化合物介导的[32]。
+
+# 2.4细菌产物影响黏液产生
+
+Toll样受体（TLR）是微生物与宿主之间的关键调节因子，其在促进体内平衡及黏液形成方面具有重要意义。在宿主体内，细菌的细胞壁成分肽聚糖可以通过TLR2信号通路维持紧密连接并减少细胞凋亡，从而促进肠上皮的完整性[3]。其他的一些微生物成分也被证明通过肠道黏膜TLR通路的信号传导维持肠上皮内稳态和肠黏膜损伤后修复[34]。细菌代谢物，如短链脂肪酸（SCFA）也会影响肠上皮的屏障保护功能。在远端结肠，丁酸也为杯状细胞提供能量来源，从而维持其对Muc2的分泌。丁酸盐是肠道 SCFA的重要组成之一，作为结肠上皮细胞的首选能量来源，丁酸盐吸收的降低与肠道炎症和致癌作用相关[35]。
+
+# 2.5 肠道病原体和黏液
+
+胃肠道内的黏液是持续不断分泌的，这一特点在小肠中更为明显。作为人体的吸收器官的小肠具有吸收营养物质功能，所以其黏液层是松散和可渗透的；细菌可通过几种方式与黏液结合进而阻止其与上皮接触。
+
+首先，尽管小肠的黏液层的网格孔比结肠的更大，但细菌仍可以被困在小肠黏液层中。其次，尽管黏蛋白由于聚糖的修饰而大部分是亲水的，但是其中某些结构的存在使得黏液具有一些疏水特性，这些疏水特性是黏液具有黏性的主要原因。第三，多态且可变的黏蛋白聚糖将与带有对这些聚糖结构具有特异性黏附素的细菌结合[36]。但是，这些机制也是不完美的，致病菌已经有了规避黏液层的方法，例如肠炎沙门氏菌血清型鼠伤寒沙门氏菌、灵芝氏菌和霍乱弧菌依赖鞭毛的驱动和蛋白水解渗透黏液层并达到上皮;李斯特菌利用快速分泌的杯状细胞进行转胞吞作用来渗透黏液层到达上皮细胞[37]。结肠内黏液层是共生细菌和病原体的有效物理屏障。Th2 细胞介导的杯状细胞增殖在协同驱逐蠕虫的作用证明了黏液在清除病原体过程中的重要性[26]。对于影响结肠的病原体而言，内部黏液层对维持肠道屏障的稳定性具有一定挑战性。目前的研究对这一点知之甚少，但在小鼠结肠柠檬酸杆菌感染模型中，细菌通过与幽门螺杆菌所述相似的机制长期存在于结肠内部黏液层[38]；此外，溶组织内阿米巴等一些体积较大的寄生虫可通过水解作用切割Muc2蛋白，从而破坏结肠黏液，使得这些寄生虫穿透结肠黏液内层并侵入肠上皮。
+
+# 3肠道黏液与炎症
+
+# 3.1 细菌在炎症中的作用
+
+胃肠道黏膜的内、外2层黏液都由大量Muc2黏蛋白组成。致密的内黏液层黏附在上皮细胞表面，外黏液层由内黏液层在蛋白水解作用下转化成的可溶、组织化程度更低且可供共生菌栖息的结构[39]。肠道内的微生物首先与外黏液层接触，但在内黏液层被阻挡，说明致密的内黏液层能够通过阻碍细菌黏附来保护上皮细胞免受伤害。外黏液层中的寡糖类Muc2黏蛋白为微生物的寄居提供能量来源；Muc2黏蛋白基因缺失的小鼠肠黏液层变薄且通透性变强，迁移至上皮细胞的细菌数量增加，从而更容易导致肠道炎症[1]。
+
+杯状细胞是肠道黏液的主要分泌细胞，其功能受到多种因素影响后可导致黏液屏障完整性发生变化，如肠道微生物、微生物毒素及某些细胞因子都会刺激或抑制杯状细胞黏液的合成及分泌，改变黏液的化学组成或致使黏液层降解从而影响黏液屏障功能[25]。黏液屏障一旦受损，可导致各种慢性炎症性疾病的发生；在致病菌感染或局部缺血情况下，肠道内细菌穿透内黏液层与上皮细胞接触，激活宿主免疫反应，诱导炎症发生。研究发现，Muc2表达缺陷的自发性肠炎动物模型，因缺乏黏液层结构的保护，大量细菌频繁渗透至肠上皮或侵袭隐窝结构，诱发肠道炎症甚至肿瘤发生[40-41]。有研究表明，无菌小鼠与传统饲养小鼠相比，其内黏液层相对较薄；但是，当无菌小鼠的肠道黏膜暴露于细菌产物（肽聚糖或脂多糖）中时，内黏液层会迅速恢复到与传统饲养小鼠相当的厚度；而这些细菌产物对传统饲养小鼠肠黏液层厚度却没有影响[42-4]。葡聚糖硫酸钠（dextran sulfate sodium,DSS）诱导的小鼠结肠炎模型是研究结肠炎发生的常用模型，其基本原理就是使细菌穿透内黏液层，与肠上皮接触3\~5d后会导致结肠炎发生，相关研究揭示了内黏液层保护结肠的重要性。缺失Muc2基因的小鼠不分泌黏液，会发生腹泻、结肠出血、直肠脱垂和上皮细胞增殖等炎症反应；此外，细菌与肠上皮直接接触还易触发肠黏膜免疫系统进而引起明显的免疫反应。
+
+# 3.2 肠道黏液与炎症性肠病
+
+炎症性肠病主要包括溃疡性结肠炎（ulcerativecolitis,UC）及克罗恩病（Crohn'sdisease,CD）2种类型。经典的克罗恩病在基因功能方面与核苷酸结合寡聚化结构域蛋白 2（NOD2）及ATG16L1蛋白相关，但UC 在发病机制方面的研究并不像CD一样清楚。目前发现UC 的发病有个体倾向性，其发病与环境因素及微生物暴露的联合作用相关[45]。有研究认为UC 患者直肠附着的黏液层较正常对照减少，而CD 患者黏液层较正常对照反而增厚且在远端结肠有大量的细菌定植[4]。正常情况下，这些细菌并不引起炎症反应，但某些情况下，这些细菌也可引起免疫系统过度活化从而导致严重的炎症反应。
+
+在 Muc2、核心1O-聚糖（core 1O-glycans）、TLR5、白细胞介素-10（IL-10）、溶质载体家族蛋白9成员A3（SLC9A3）基因表达缺失的小鼠及用DSS 处理后的溃疡性结肠炎小鼠模型中，肠黏膜上皮细胞内均可见细菌侵袭，在IL-10基因敲除的小鼠模型（炎症过程被阻断）中发现肠道内黏液层厚度显著高于野生型小鼠，但黏液质量发生了变化，表明了Muc2 的数量和质量在黏液层的保护特性中都发挥至关重要的作用。以上述肠炎小鼠模型为研究对象的体内实验均可发现细菌穿透黏液层现象；以荧光微球作为指示物的体外试验发现荧光微球可穿透存在炎症的肠黏液层。在人类正常结肠活检标本中，可清楚地观察到肠黏液层将细菌或荧光微球与上皮细胞分隔开，而在溃疡性结肠炎或急性肠炎患者的结肠黏膜活检标本中则发现细菌穿透了黏液层。在正常人群体内，乙状结肠黏膜表面存在细菌无法穿透的黏液层；而在自发性肠炎小鼠模型及患有溃疡性结肠炎的患者体内，结肠黏膜表面的黏液层变薄或消失，使细菌可以侵袭上皮细胞，造成损害[31]。因此，Muc2 的改变会导致炎症性肠病，而炎症性肠病也会影响黏蛋白的表达以及杯状细胞的分化，两者的相互作用影响了疾病的发生和发展过程[47]。磷脂占黏液脂类组成中的一小部分，磷脂酰胆碱占黏液中磷脂成分的 $90 \%$ ，其在水化的黏液表面形成疏水性层状结构，以阻止肠腔内细菌的入侵，对溃疡性结肠炎患者来说，无论是否存在炎症，黏液层中的磷脂酰胆碱明显减少；当溃疡性结肠炎患者口服延迟释放的磷脂酰胆碱时，肠道炎症得以改善进而达到缓解[48]，患者补充组成肠黏液层的重要抗体—一sIgA 也可以增强黏液层的保护性[49]。
+
+# 4小结
+
+肠道具有哺乳动物体内最大的微生态环境，因此，肠道生态的正常或失调对机体健康和寿命有着举足轻重的影响。肠道杯状细胞所分泌的黏蛋白构成了肠道黏液屏障的主要成分对肠道起保护作用。外层的黏液为肠道微生物提供适宜的共生环境，内层的黏液通过其紧密网状结构阻碍微生物渗入至肠道上皮及隐窝部位，有效地维持了肠道微生物和宿主之间的动态平衡。黏液屏障缺陷可导致肠道通透性增加，从而造成肠上皮细胞炎症损伤。对肠道黏液特性及其与肠道炎症关系的深入理解，进一步研究肠道黏液屏障的损害机制，加强黏液屏障的保护，能够为肠道炎症类疾病的治疗提供一个新思路；也可以利用黏液的生理生化特性来促进营养物质的吸收及阻止病原体对细胞的伤害，或通过调整食物质构和组成来改变营养物质在肠道的吸收状态。
+
+# 参考文献：
+
+[1]MOAL V L L,SERVIN A.The front line of enteric host defense against unwelcome intrusion ofharmful microorganisms:mucins,antimicrobialpeptides,andmicrobiota[J].Clinical Microbiology Reviews,2006,19(2):315-337.   
+[2] KESIMER M,KIRKHAM S,PICKLES R J,et al.Tracheobronchial air-liquid interface cell culture:a model for innate mucosal defense of the upper airways?[J].American Journal of Physiology: Lung Cellular and Molecular Physiology,2009,296(1):L92-L100.   
+[3] PRZYBYLA L M,THEUNISSEN T W,JAENISCH R,et al.Matrix remodeling maintains embryonic stem cell self-renewal by activating Stat3[J].Stem Cells,2013,31(6):1097-1106.   
+[4] MARTINEZ-AUGUSTIN O,RIVERO-GUTIERREZ B,MASCARAQUE C,et al.F00d derived bioactive peptides and intestinal barrier function[J].International Journal of Molecular Sciences,2014,15(12):22857-22873.   
+[5] 胡艳艳,刘小伟.肠道杯状细胞结构和功能的研究进展[J].国际病理科学与临床杂 志,2013,33(5):424-430.   
+[6]MCCAULEY H A,GUASCH G.Three cheers for the goblet cel:maintaining homeostasis in mucosal epithelia[J].Trends in Molecular Medicine,2015,21(8):492-503.   
+[7]DAVIS C W,DICKEY B F.Regulated airway goblet cell mucin secretion[J].Annual Review of Physiology,2008,70(1):487-512.   
+[8] MOWAT A M.Anatomical basis of tolerance and immunity to intestinal antigens[J].Nature Reviews Immunology,2003,3(4):331-341.   
+[9] JOHANSSON M E V,THOMSSON K A,HANSSON G C.Proteomic analyses of the two mucus layers of the colon barrier reveal that their main component,the Muc2 mucin,is strongly bound to the fcgbp protein[J].Journal of Proteome Research,2009,8(7):3549-3557.   
+[10]JOHANSSON M E V,GUSTAFSSON J K,SJOBERG K E,et al.Bacteria penetrate the inner mucus layer before inflammation in the dextran sulfate colitismodel[J].PLoS One,2010,5(8):e12238.   
+[11]PELASEYED T,BERGSTROM JH,GUSTAFSSON J K,et al.The mucus and mucins of the
+
+goblet cells and enterocytes provide the first defense line of the gastrointestinal tract and interact with the immune system[J].Immunological Reviews,2014,260(1):8-20.
+
+[12] HATTRUP C L,GENDLER S J.Structure and function of the cell surface (tethered) mucins[J].Annual Review of Physiology,2008,70(1):431-457.
+
+[13] DO S I,KIM K,KIM D H,et al.Associations between the expression of mucins (MUC1,MUC2,MUC5AC,and MUC6) and clinicopathologic parameters of human breast ductal carcinomas[J].Journal of Breast Cancer,2013,16(2):152-158.   
+[14] 黄春兰,曾悦.杯状细胞及肠道黏液屏障的功能研究[J].国际消化病杂 志,2017,37(6):357-360.   
+[15] MACKIE A R,ROUND A N,RIGBY N M,et al.The role of the mucus barier in digestion[J].Food Digestion,2012,3(1/2/3):8-15.   
+[16] CONERA.Barrierpropertiesofmucus[J].AdvancedDrug Delivery Reviews,2009,61(2):75-85.   
+[17] ATUMA C,STRUGALA V,ALLEN A,et al.The adherent gastrointestinal mucus gel layer:thicknessandphysical stateinvivo[J].American Journal of Physiology:Gastrointestinal and Liver Physiology,2001,280(5):G922-G929.   
+[18] FLOREY H W.Thesecretion and function of intestinal mucus[J].Gastroenterology,1962,43:326-329.   
+[19]GRUBER P,RUBINSTEIN A,LI V H K,et al.Gastric emptying of nondigestible solids in the fasted dog[J].Journal of Pharmaceutical Sciences,1987,76(2):117-122.   
+[20] CONE R A.Chapter 4-mucus[M]//MESTECKY J,BIENENSTOCK J,LAMM M E,et al.Mucosal Immunology.3rd ed.Amsterdam:Elsevier Academic Press,2005:49-72.   
+[21] LAI S K,O'HANLON E,HARROLD S,et al.Rapid transport of large polymeric nanoparticles in fresh undiluted human mucus[J].Proceedings of the National Academy of Sciences of the United States of America,2007,104(5):1482-1487.   
+[22]FORSTNER G.Signal transduction packaging and secretion of mucins[J].Annual Review of Physiol0gy,1995,57(1):585-605.   
+[23]李俊媛.结肠癌患者与结肠癌大鼠肠道菌群的比较分析[D].硕士学位论文.大连:大连医 科大学,2017.   
+[24]王婷婷.肠道菌群结构变化与结直肠癌发生发展关系的研究[D].博士学位论文.上海:上
+
+海交通大学，2012
+
+[25] ANDRIANIFAHANANA M,MONIAUX N,BATRA S K.Regulation of mucin expression:mechanisticaspectsandimplicationsforcancerand inflammatory diseases[J].Biochimica et Biophysica Acta:Reviews on Cancer,2006,1765(2):189-22.   
+[26] JOHANSSON M E V,HANSSON G C.Immunological aspects of intestinal mucus and mucins[J].Nature Reviews Immunology,2016,16(10):639-649.   
+[27] VENTURA M,TURRONI F,STRATI F,et al.The gut microbiota in health and disease[M]//MARCHESI JR.Human Microbiota and Microbiome.Wallingford:CABI,2014.   
+[28]VARUM F J O,VEIGA F,SOUSA J S,et al.An investigation into the role of mucus thickness on mucoadhesion in the gastrointestinal tract of pig[J].European Journal of Pharmaceutical Sciences,2010,40(4):335-341.   
+[29] CEBRA J J.Influences of microbiota on intestinal immune system development[J].The American Journal of Clinical Nutrition,1999,69(5):1046S-1051S.   
+[30] SINGH M,VOHRA H,KUMAR L,et al.Induction of systemic and mucosal immune response in mice immunised with porins of Salmonella typhi[J].Journal of Medical Microbiology,1999,48(1):79-88.   
+[31]JOHANSSON M E V,GUSTAFSSON J K,HOLMEN-LARSSON J,et al.Bacteria penetrate the normally impenetrable inner colon mucus layer in both murine colitis models and patients with ulcerative colitis[J].Gut,2014,63(2):281-291.   
+[32]JAKOBSSON H E,RODRIGUEZ-PINEIRO A M,SCHUTTE A,et al.The composition of the gut microbiota shapes the colon mucus barrier[J].Embo Reports,2015,16(2):164-177.   
+[33] CARIO E,GERKEN G,PODOLSKY D K.Tol-like receptor 2 controls mucosal inflammation by regulating epithelial barrier function[J].Gastroenterology,2007,132(4):1359-1374.   
+[34] RAKOFF-NAHOUM S,PAGLINO J,ESLAMI-VARZANEH F,et al.Recognition of commensalmicroflorabyToll-likereceptorsisrequired for intestinal homeostasis[J].Cell,2004,118(2):229-241.   
+[35] HAMER H M,JONKERS D,VENEMA K,et al.Review article:the role of butyrate on colonic function[J].Alimentary Pharmacology & Therapeutics,2008,27(2):104-119.   
+[36] HANSSON G C.Role of mucus layers in gut infection and inflammation[J].Current
+
+Opinionin Microbiology,2012,15(1):57-62.
+
+[37] STECHER B,HAPFELMEIER S,MULLER C,et al.Flagella and chemotaxis are required for efficient induction of Salmonella entericaserovar Typhimurium colitisin streptomycin-pretreated mice[J].Infection and Immunity,2004,72(7):4138-4150.
+
+[38] BERGSTROM K S B,KISSOON-SINGH V,GIBSON D L,et al.Muc2 protects against lethal infectious colitis by disassociating pathogenic and commensal bacteria from the colonic mucosa[J].PLoS Pathogens,2010,6(5):e1000902.
+
+[39] PHILLIPSON M,JOHANSSON M E V,HENRIKSNAS J,et al.The gastric mucus layers:constituents and regulation ofaccumulation[J].American Journal of Physiology-Gastrointestinal and Liver Physiology,2008,295(4):G806-G812.
+
+[40] HEAZLEWOOD C K,COOK M C,ERI R,et al.Aberrant mucin assembly in mice causes endoplasmic reticulum stressand spontaneousinflammation resembling ulcerative colitis[J].PLoS Medicine,2008,5(3):e54.
+
+[41] BIRCHENOUGH G M H,NYSTROM E E L,JOHANSSON ME V,et al.A sentinel goblet cell guards the colonic crypt by triggering Nlrp6-dependent Muc2 secretion[J].Science,2016,352(6293):1535-1542.
+
+[42] PETERSSON J,SCHREIBER O,HANSSON G C,et al.Importance and regulation of the colonicmucus barrier ina mouse model of colitis[J].American Journalof Physiology-Gastrointestinal and Liver Physiology,2011,300(2):G327-G333.
+
+[43] DEPLANCKE B,GASKINS H R.Microbial modulation of innate defense:goblet cells and the intestinal mucus layer[J].The American Journal of Clinical Nutrition,2001,73(6):1131S-1141S.
+
+[44] BECKER S,OELSCHLAEGER T A,WULLAERT A,et al.Bacteria Regulate intestinal epithelial cell differentiation factors both in vitro and in vivo[J].PLoS One,2013,8(2):e55620.
+
+[45]XAVIER R J,PODOLSKY D K.Unravelling the pathogenesis of inflammatory bowel disease[J].Nature,2007,448(7152):427-434.
+
+[46]李冰，于岩波.肠黏液屏障在肠道中的作用[J].世界华人消化杂志,2017,25(19):1764-1771.
+
+[47]董文逍,曹海龙,王邦茂.杯状细胞在肠道疾病发病中作用的研究进展[J].国际消化病杂
+
+志,2015,35(4):244-246,269.
+
+[48]STREMMEL W.Mucosal protection by phosphatidylcholine as new therapeutic concept in ulcerative colitis[J].Zeitschrift Für Gastroenterologie,2013,51(4):384-389.
+
+[49] DIEBEL L N,LIBERATI D M.Reinforcement of the intestinal mucus layer protects against Clostridium difficile intestinal injury in vitro[J].Journal of the American Collge of Surgeons,2014,219(3):460-468.
+
+Research Progress on Intestinal Mucus Barrier Function   
+HAN Feifei PENG Liyuan ZHANG Xuefei YANG Shasha HAN Jianzhong\*   
+(School of Food Science & Biotechnology, Zhejiang Gongshang University, Hangzhou 310018, China)
+
+Abstract: Mammals have many defense mechanisms in the intestinal tract to protect the body from pathogens and prevent the effects of intestinal microbiota. Intestine mucus is the first line of defense mechanisms. The mucus layer separates the bacteria from the epithelial cells by their continuous secretion and promotes the clearance of bacteria to reduce the incidence of intestinal inflammation and infection. Recent studies have found that pathogenic microorganisms have evolved mechanisms that bypass mucus protection system. This article reviewed the basic characteristics of intestinal mucus barrier and its role in the establishment of intestinal commensal microbiota and defense against the transplantation and invasion of pathogenic microorganisms. These research results would provide the reference for better understanding the role of mucous barrier in maintaining intestinal health.
+
+Key word: intestinal mucus; barrier function; intestinal microbiota; inflammation

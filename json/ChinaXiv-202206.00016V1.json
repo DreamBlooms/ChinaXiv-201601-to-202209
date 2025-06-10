@@ -1,0 +1,586 @@
+[
+    {
+        "type": "text",
+        "text": "石羊河下游人工梭梭林健康评价体系构建及应用研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李雪宁¹²，徐先英²，郑桂恒³，马全林'，张裕年'，刘虎俊¹，赵鹏¹，杨雪梅¹",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.甘肃省治沙研究所荒漠化与风沙灾害防治国家重点实验室培育基地，甘肃 兰州730070；2.中国林业科学研究院荒漠化研究所，北京100091；3.中国林业科学研究院森林生态环境与自然保护研究所,北京100091)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：人工梭梭(Haloxylon ammodendron)林是石羊河下游分布最广、面积最大的人工固沙林,具有防风固沙、改良土壤、调节气候、增加碳汇等生态功能。近年来，人工梭梭林的普遍退化严重威胁着民勤绿洲的生态安全。因此,及时摸清人工梭梭林的健康状况,对人工固沙林的可持续经营具有重要意义。通过查阅文献及咨询专家(调查问卷),构建了5个一级指标和19个二级指标的人工梭梭林健康评价体系,采用AHP层次分析法和熵值法确定各指标的权重。基于野外调查数据，运用生态健康综合指数(HI),对人工梭梭林的健康状况进行评价，结果表明：石羊河下游人工梭梭林整体处于亚健康状态，健康指数值在0.50\\~0.67之间，均值为 $0 . 6 1 7$ 。造成人工梭梭林处于亚健康的主要原因是群落结构不合理及生境因子的影响等,建议采取间伐、平茬以及围封等抚育管护措施来提高人工梭梭林的稳定性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：石羊河下游；人工梭梭林；健康评价；层次分析法；熵值法；可持续经营",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "森林健康评价一直是国内外比较关注的研究问题。森林健康就是森林生态系统能够维持其多样性和稳定性的同时，又能持续满足人类对森林的自然、社会和经济需求的一种状态，是实现人与自然和谐相处的必要途径。森林健康评价是指用相应评价指标体系诊断森林生态系统的健康状况，对森林生态系统生产力水平、结构状态、抵抗外界干扰能力以及服务功能等多方面综合能力做出评估[1-2]。森林健康评价研究的关键是在了解森林本底基础上，掌握建群种属性及生态因子对森林生物的作用和影响规律[3]。森林生态系统健康评价方法主要包括指示物种法、指标体系法、健康距离法、主成分分析法、层次分析法、模糊综合评价法和人工神经网络法等[4]。其中，层次分析法(AHP)较好地考虑和集成了综合评价过程中的各种定性与定量信息[5],在西宁市南北山20\\~30a油松人工林6、城市园林树木[]、渭北黄土高原区刺槐人工林[8]等人工林健康评价中被广泛应用。目前，国内外学者已建立了大量森林生态系统健康评价指标体系，但由于研究地区、对象和评价指标各有不同，部分指标实际操作性不强，适用范围有限[9。防风固沙林生态系统健康指标体系及评价方法的建立要以防风固沙生态学和固沙理论为基础，与沙地的自然条件和防风固沙林具体情况相结合,不断完善才能指导实践[10]。与湿润区相比，荒漠生态系统地处西北内陆，气候干燥，物理风化严重，其植被主要由耐旱和超旱生的乔木、灌木和草本植物组成。整体上，荒漠生态系统结构单一、活力较低，受到的胁迫较大，属于不健康或风险状态，且健康评价体系及方法还需进一步深入研究[]。因此,运用定性与定量相结合的综合方法开展干旱区荒漠人工固沙林的健康评价研究对脆弱荒漠生态系统的可持续管理具有重要实践指",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "导意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "梭梭(Haloxylon ammodendron)属藜科梭梭属小乔木，因其具有极强的生态适应能力，而且耐旱、寒、盐碱、土壤贫瘠和风蚀沙埋等特性，已作为首选树种并在营造干旱区防风固沙林中广泛使用。20世纪50年代末,以梭梭耐旱灌木为主的固沙林就在河西走廊沿线绿洲外围开始了大规模营造活动，截止目前，河西走廊人工梭梭林营造面积已超过 $9 \\times$ $1 0 ^ { 4 } \\mathrm { h m } ^ { 2 }$ ,其中，民勤种植面积已达 $4 . 3 5 { \\times } 1 0 ^ { 4 } \\mathrm { h m } ^ { 2 }$ ，是人工梭梭林发展最早、规模最大的地区，为了改良土壤、提高生物多样性、改善小气候和增加碳汇，在绿洲外围营造 $2 { \\sim } 5 \\mathrm { k m }$ 的梭梭防风固沙带。20世纪70年代开始，由于气候干旱、地下水位下降、造林密度过大、树种单一和病虫害严重等原因，很多地方的人工梭梭林出现了大面积的衰退甚至死亡，严重威胁到绿洲的生态安全，对其应采取相应的措施恢复重建。当前已有研究集中在梭梭衰亡原因[12],恢复措施[13-14]、自然稀疏过程[15]、光合生理特性与形态[16-17]、群落特征[18]、净碳交换及其影响因子[19]、自然更新土壤条件[20]、土壤种子库[21]、自然更新立地条件[22]、更新苗的空间分布特征[23]、土壤种子库动态及其与地上植被的关系[24、梭梭群落演替的环境调控机制[25]。常兆丰等2运用模糊判别方法对民勤沙区梭梭群落的健康状况进行了判别分析，建立的退化植物群落健康评价指标体系包括了植物的状态指标、病态指标、多样性指标和自然更新能力指标等4个方面。该健康评价体系仅关注了种群自身的生物学特征，未考虑林地生境因子和人为干扰对人工梭梭林的潜在影响。此外，人工梭梭林健康评价样地空间分布范围和数量小，代表性不强。为此，本研究以石羊河下游人工梭梭林为研究对象，通过野外样地调查与资料收集，基于层次分析法与熵值法构建健康评价指标体系，采用生态健康指数模型评价人工梭梭林的健康状况，为退化人工梭梭林的恢复与重建提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "民勤绿洲位于石羊河下游，东、北、西三面被腾格里沙漠和巴丹吉林沙漠包围，属于典型的温带大陆性荒漠气候，区域年均气温 $7 . 4 ~ \\mathrm { { } ^ { 9 } C } \\mathrm { ~ , } \\geqslant 1 0 ~ \\mathrm { { } ^ { 9 } C }$ 积温$3 2 4 8 . 8 ~ \\mathrm { ^ { \\circ } C }$ ;年均降水量 $1 1 3 ~ \\mathrm { m m }$ ,多集中在7—9月，占全年降雨量的 $7 3 \\%$ ;年均蒸发量 $2 6 4 4 ~ \\mathrm { m m }$ ,是降水量的24倍;年平均风速为 $4 \\mathrm { m } \\cdot \\mathrm { s } ^ { - 1 }$ 左右，以西北风为主；年均沙暴日数37d,以春季最多。石羊河下游位于干旱草原向荒漠过渡区域，有天然种子植物23个科，73个属，123个种，不仅有典型的戈壁荒漠成分，也渗入一些草原化荒漠植物种类[26]。人工梭梭林占人工林总面积的 $5 1 . 5 \\%$ ，在民勤防风固沙林中占主导地位[27]。地带性土壤为灰棕漠土、非地带性土壤为风沙土、草甸土和草甸沼泽土，灌淤土是主要的耕作土壤。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1野外样地调查",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以石羊河下游民勤绿洲与巴丹吉林沙漠接壤生态过渡带典型人工梭梭林为研究对象，通过样带与样方相结合的方法，开展群落结构、生境条件、人类干扰、病虫害等综合性生态调查(图1)。沿民勤绿洲坝区-泉山区-湖区的地下水埋深梯度共设置8条调查样带(表1),每条样带上间隔 $5 0 0 \\mathrm { ~ m ~ }$ 设置1个$1 0 0 \\mathrm { m } { \\times } 1 0 0 \\mathrm { m }$ 样地，共设置41个随机样地，每个样地平行设置间隔 $3 0 \\mathrm { m }$ 的 $1 0 \\ \\mathrm { m } { \\times } 1 0 \\ \\mathrm { m }$ 灌木样方3个，同时在每个灌木样方内沿对角线设置3个 $\\boldsymbol { 1 } \\mathrm { m } { \\times } \\boldsymbol { 1 } \\mathrm { m }$ 的草本样方，调查记录样方内乔灌木高度、冠幅、多度，草本密度，植被层次结构，计算物种丰富度指数、多样性指数和均匀度指数等。其中乔灌木高度、冠幅采用塔尺和钢卷尺测量，草本密度通过设置 $1 \\mathrm { m } { \\times } 1 \\mathrm { m }$ 的小样方计数获取，生境因子调查中用GPS记录样地经纬度、海拔。每个样地分 $5 \\mathrm { c m } . 2 0$ $\\mathrm { c m } \\mathrm { . 4 0 \\ c m \\mathrm { . 6 0 \\ c m \\mathrm { . 8 0 \\ c m \\mathrm { . 1 0 0 \\ c m } } } }$ 共6层取土样样品6份，一部分装入铝盒测定土壤含水率，另一部分装入自封袋带回实验室阴干，同时记录土壤类型、结皮情况。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f93f31682d815f290c7c7642ade1ffe4374d4f4a8d2623e68128eecff3c89d89.jpg",
+        "img_caption": [
+            "图1石羊河下游人工梭梭林样地分布",
+            "Fig.1Plots distribution of Haloxylon ammodendron plantation in the lower reaches of Shiyang River "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/8d5c2fe231574bc8fc4bd3fffe56467aeb7ca799edc2a52b31e8816428a79d2e.jpg",
+        "table_caption": [
+            "表1人工梭梭林基本情况",
+            "Tab.1 Basic informationof artificial Haloxylon ammodendronforest "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>样地</td><td>林龄/a</td><td>密度/(株·hm2)</td></tr><tr><td>龙王庙</td><td>30</td><td>25</td></tr><tr><td>宋河</td><td>18</td><td>28</td></tr><tr><td>治沙站</td><td>32</td><td>76</td></tr><tr><td>勤锋滩</td><td>15</td><td>55</td></tr><tr><td>刘家地</td><td>20</td><td>38</td></tr><tr><td>三角城</td><td>20</td><td>67</td></tr><tr><td>扶拱</td><td>12</td><td>60</td></tr><tr><td>青土湖</td><td>15</td><td>74</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2评价指标的获取方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）土壤理化性质测定",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤含水率采用烘干法测定；土壤有机质采用重铬酸钾容量法；全氮采用凯氏法；速效磷采用0.5$\\mathrm { m o l } \\cdot \\mathrm { L } ^ { - 1 }$ 氢氧化钠熔融-钥锑抗比色法;土壤机械组成采用马尔文2000激光粒度仪测定；土壤 $\\mathrm { \\ p H }$ 采用电位法；水溶性盐分中钙和镁采用EDTA滴定法；K和Na采用火焰光度法； $\\mathrm { C O } _ { 3 } ^ { 2 - }$ 和 $\\mathrm { H C O } _ { 3 } ^ { - }$ 采用双指示剂滴定法；CI采用 $\\mathrm { A g N O _ { 3 } }$ 滴定法； $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 采用EDTA间接测定法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）地下水埋深",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参照已有每个调查样地的经纬度、海拔等地理位置信息，以及样带附近绿洲灌溉井地下水位监测数据，通过克里格空间插值获得研究区每个样地地下水埋深。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（3）群落功能调查",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "防风效能是根据公式 $E _ { s h } = ( V _ { h } - V _ { s h } ) / V _ { s h } { \\times } 1 0 0 \\%$ 计算得出，其中： $E _ { s h }$ 为梭梭林带后 $s$ 距离处和高度 $h$ 处的防风效能，反映风速被削弱的程度; $V _ { h }$ 为对照 $h$ 高度的平均风速值； $V _ { s h }$ 为林带后 $s$ 距离处和 $h$ 高度的平均风速值(调查过程中的 $s$ 和 $h$ 分别为 $1 0 \\mathrm { ~ m ~ }$ 和$1 . 5 \\mathrm { ~ m ~ }$ ）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "固沙能力是以固沙效率代替的，固沙效率( $\\mathrm { c m } ^ { 3 }$ 0$\\mathbf { g } ^ { - 1 }$ )是以沙包体积和梭梭枝条的鲜重计算得到的单位鲜重固沙量所表示的。水土保持是以林地风蚀状况衡量，通过风蚀钎测得到数值 $\\left( \\mathrm { { c m } \\cdot { a } ^ { - 1 } } \\right)$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（4）健康风险调查",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "鼠害发生率、枯枝程度、病虫害等，通过实地调查获得。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（5）外界干扰调查",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "人为管护和人畜破坏等，通过走访人工梭梭林周边群众获得。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3指标体系构建 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "森林健康根据各国国情和评价原则以及不同区域来确定其评价方法，只要是对人工梭梭林健康状况有影响的因素都应考虑进去，但也要避免各个指标之间出现重复，对梭梭林的评价目前还没有统一的评价体系。本研究是基于相关学者的研究基础上，结合民勤实际情况，通过查阅相关文献初步确定人工梭梭林评价指标，向本领域的50位专家发出评价体系调查问卷，收回有效问卷36份，根据专家意见对所构建的评价指标体系和指标进行调整后再次分发调查问卷50份，收回有效问卷36份，请专家对评价指标做量化等级划分和权重设置，最终建立“群落结构-群落功能-健康风险-生境因子-外界干扰\"5个一级指标框架下的系统化评价指标体系(图2)。结合野外调查数据，采用数理统计方法，对石羊河下游人工梭梭林健康状况进行评价。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）群落结构：健康的人工梭梭林应该具有较复杂的群落结构7，通常来说，群落结构包括物种多样性、植被层次结构、物种丰富度指数和均匀度指数等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）健康风险：鼠害是人工梭梭林生长的最大威胁，大沙鼠的危害主要有：啃吃枝条，影响植株生长；掏空根部，咬断植物根系，对梭梭是致命威胁;打穴穿洞，使沙丘空虚松散，破坏沙层水分流动，加速沙丘干燥，切断水分供应，恶化林地条件。另外病虫害的爆发对人工梭梭林也产生了很大影响，主要是白粉病，夏秋季白色的表生菌丝罩满绿色嫩枝；虫害主要是夜蛾和虫瘿，在植株生长方面会表现为生长放慢等。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/59e0dcd181c64656df4c70d331f6803c5f8f28af8bbe75c4790426aa22e2ed0d.jpg",
+        "img_caption": [
+            "图2石羊河下游人工梭梭林健康评价指标体系",
+            "Fig.2Health evaluation index system of Haloxylon ammodendron plantation in the lower reaches of Shiyang River "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3）群落功能特征：群落功能对于维持干旱沙区可持续生产和生态环境具有重要的意义，防风固沙对保持干旱沙区农田稳定持续高产具有深刻的影响[12]。梭梭林内土壤结皮一方面通过降低土壤风蚀保护梭梭免遭风蚀危害;另一方面又限制了水分下渗，加速土壤干旱，相应地加速了梭梭种群衰败。此外，林内土壤结皮影响了一年生植物的定居和个体生长，尽管结皮对梭梭林内物种数同流动沙丘无显著差异,但是物种类型明显不同[28]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（4）生境因子：土壤水分供给不足是民勤人工梭梭林衰亡的原因之一[29];另外,全氮、有机质、pH等土壤理化性质通过影响生理生态平衡对人工梭梭林的生长有很大影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(5）外界干扰：过度放牧和樵采是影响人工梭梭林健康状况的最主要外界干扰。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4指标量化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对评价指标的量化采用等级评分法，制定相应的评价优劣等级表，通过数理统计方法设置各个评价指标的权重，在此基础上借鉴生态系统健康综合指数(HI)模型进行人工梭梭林健康评价研究。在人工梭梭林健康评价标准的界定方面，将结合干旱沙区实际情况，将每个评价指标划分为3个等级：好、中、差，采用黄金分割法分别对各等级进行赋值：1.0、0.62、0.38，各个评价指标等级的划分标准见表2。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4.1AHP层次分析法确定权重首先邀约生态学和林学领域的50位专家对指标权重进行打分（共发",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "出50份打分表，收回有效打分表36份），并通过yaahp软件得到权重判断矩阵，再计算出最大特征向量，获得各指标的权重。  \n2.4.2熵值法确定权重熵值法主要是以客观角度出发，从各个指标在模型中的集中性来描述该指标对整体评价影响的大小，相对来说准确度较高，适用于干旱区脆弱环境的评价。  \n2.4.3主客观结合确定权重由于AHP层次分析法和熵值法有其各自的特点，因此，将2种方法结合用于确定指标权重更具有现实意义，用以下公式对2种方法进行结合：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ = a \\ Q _ { _ 1 } + ( 1 - a ) \\ Q _ { _ 2 } \n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $Q$ 代表综合权重； $Q _ { 1 }$ 代表AHP层次法确定的权重； $Q _ { 2 }$ 代表熵值法确定的权重。通过3种方法计算结果如图3所示，其3种方法的趋势走向基本一致，将 $\\mathbf { \\Omega } _ { a }$ 赋值0.5，计算结果显示：植被层次结构、乔木高度、物种丰富度指数、枯稍程度、灌木冠幅、土壤含水量、多样性指数、乔木冠幅等指标权重较高，其中植被层次结构综合权重达0.0634,草本高度、草本密度、人畜破坏等指标权重较低，人畜破坏指标权重只有0.0203。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5指标评价模型构建 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于HI模型，结合实际情况做了修改，利用生态系统健康指数模型 $\\mathrm { H I = V \\times O \\times R } ^ { [ 3 0 - 3 3 ] }$ ,计算得到人工梭梭林健康指数，其计算方法如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { H I } = W _ { 1 } \\sum _ { i = 1 } ^ { m } W _ { i } O _ { i } + W _ { 2 } \\sum _ { j = 1 } ^ { n } W _ { j } f _ { j } + W _ { 3 } \\sum _ { k = 1 } ^ { t } W _ { k } r _ { k } +\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { 4 } \\sum _ { u = 1 } ^ { o } W _ { u } S _ { u } + W _ { 5 } \\sum _ { v = 1 } ^ { q } W _ { v } U _ { v }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mathrm { H I }$ 代表人工梭梭林健康综合指数; $\\smash { 0 \\sqrt { f _ { \\mathrm { \\Delta } } r _ { \\mathrm { \\Delta } } S _ { \\mathrm { \\Delta } } U } }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9a8d33442c1ed9e803df8599147b7476d3852401da5e64e88ec76b5934a7b7ca.jpg",
+        "table_caption": [
+            "表2人工梭梭林健康评价指标等级及权重",
+            "Tab.2 Health evaluation index grade and weight of Haloxylon ammodendron plantation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">一级指标</td><td rowspan=\"2\">权重</td><td rowspan=\"2\"></td><td rowspan=\"2\">二级指标</td><td rowspan=\"2\">权重</td><td colspan=\"3\">评价优劣等级</td></tr><tr><td>差(<0.38)</td><td>中(0.38~0.62)</td><td>好(0.62~1.0)</td></tr><tr><td>群落结构</td><td>0.2733</td><td>乔木</td><td>高度/cm</td><td>0.0310</td><td><120</td><td>120~200</td><td>>200</td></tr><tr><td></td><td></td><td></td><td>冠幅盖度/%</td><td>0.0258</td><td><10</td><td>10~20</td><td>>20</td></tr><tr><td></td><td></td><td>灌木</td><td>高度/cm</td><td>0.0258</td><td><25</td><td>25~45</td><td>>45</td></tr><tr><td></td><td></td><td></td><td>冠幅盖度/%</td><td>0.0206</td><td><25</td><td>25~45</td><td>>45</td></tr><tr><td></td><td></td><td>草本</td><td>高度/cm</td><td>0.0150</td><td><10</td><td>10~20</td><td>>20</td></tr><tr><td></td><td></td><td></td><td>密度(株·m -2)</td><td>0.0150</td><td><25</td><td>25~65</td><td>>65</td></tr><tr><td></td><td></td><td>植被层次结构</td><td></td><td>0.0361</td><td>1</td><td>2</td><td>3</td></tr><tr><td></td><td></td><td>物种丰富度指数</td><td></td><td>0.0320</td><td><10</td><td>10~15</td><td>>15</td></tr><tr><td></td><td></td><td>多样性指数</td><td></td><td>0.0361</td><td><1.5</td><td>1.5~2.0</td><td>>2.0</td></tr><tr><td>群落功能</td><td>0.2326</td><td>均匀度指数</td><td></td><td>0.0361</td><td><0.6</td><td>0.6~0.8</td><td>>0.8</td></tr><tr><td></td><td></td><td>防风效能</td><td></td><td>0.0775</td><td><0.5</td><td>0.5~1.2</td><td>>1.2</td></tr><tr><td></td><td></td><td>固沙能力/m</td><td></td><td>0.0775</td><td>20</td><td>20~45</td><td>>45</td></tr><tr><td>健康风险</td><td>0.1948</td><td>水土保持</td><td></td><td>0.0775</td><td>>0.6</td><td>0.3~0.6</td><td><0.3</td></tr><tr><td></td><td></td><td>枯稍程度</td><td></td><td>0.0759</td><td>>0.6</td><td>0.3~0.6</td><td><0.3</td></tr><tr><td>生境因子</td><td></td><td>鼠害发生率/%</td><td></td><td>0.0594</td><td>>20</td><td>5~20</td><td><5</td></tr><tr><td></td><td></td><td>病虫害/%</td><td></td><td>0.0594</td><td>>0.6</td><td>0.2~0.4</td><td><0.2</td></tr><tr><td></td><td>0.1638</td><td></td><td>土壤含水量/%</td><td>0.0367</td><td><2</td><td>2~4</td><td>>4</td></tr><tr><td></td><td></td><td>土壤养分</td><td>有机质/%</td><td>0.0270</td><td><0.2</td><td>0.2~0.4</td><td>>0.4</td></tr><tr><td></td><td></td><td>全氮/%</td><td></td><td>0.270</td><td><0.01</td><td>0.01~0.02</td><td>>0.02</td></tr><tr><td></td><td></td><td></td><td>速效磷/[mg·(100g)]</td><td>0.0270</td><td><1.0</td><td>1~1.2</td><td>>1.2</td></tr><tr><td></td><td></td><td>pH</td><td></td><td>0.0193</td><td><5或>8</td><td>5~6或6~8</td><td>6.0~7.5</td></tr><tr><td>外界干扰</td><td>0.1355</td><td>地下水位/m</td><td></td><td>0.0270</td><td>>20</td><td>15~20</td><td><15</td></tr><tr><td></td><td></td><td>人为管护(次·a\"1)</td><td></td><td>0.0794</td><td>0</td><td>1</td><td>2</td></tr><tr><td></td><td></td><td>人畜破坏/(次·a-)</td><td></td><td>0.0561</td><td>>4</td><td>2~4</td><td><</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2345011c638db2e4210716ba5fb1e4739fc30405155184c92c6e65a094a1d948.jpg",
+        "img_caption": [
+            "图3石羊河下游人工梭梭林健康状况评价权重"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Evaluation weightofhealth status of Haloxylon ammodendron plantation inthelower reaches ofShiyang River分别代表群落结构指数、群落功能指数、健康风险指数、生境因子和外界干扰指数; $O _ { i } \\sqrt { j } \\sqrt { k } \\setminus S _ { u } \\setminus U _ { v }$ 分别代表各一级指标中的二级指标的得分； $W _ { i \\setminus } W _ { j \\setminus } W _ { k }$ 、$\\smash { W _ { u \\setminus 1 } W _ { v } }$ 分别代表群落结构、群落功能、健康风险、生境因子和外界干扰一级指标中的二级指标的权重;$W _ { 1 } \\setminus W _ { 2 } \\setminus W _ { 3 } \\setminus W _ { 4 } \\setminus W _ { 5 }$ 分别代表各一级指标的权重。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { \\scriptscriptstyle 1 } + W _ { \\scriptscriptstyle 2 } + W _ { \\scriptscriptstyle 3 } + W _ { \\scriptscriptstyle 4 } + W _ { \\scriptscriptstyle 5 } = 1\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "另外，将人工梭梭林评价指标体系的5个一级指标权重分别与其对应的二级指标得分乘积之和来表示各自一级指标的健康值，用 $X$ 表示，计算方法如下:",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { 1 } = W _ { 1 } \\sum _ { i = 1 } ^ { m } { { \\cal O } } _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { _ 2 } = W _ { 2 } \\sum _ { i = 1 } ^ { m } f _ { j }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { 3 } = W _ { 3 } \\sum _ { i = 1 } ^ { m } r _ { k }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { 4 } = { \\cal W } _ { 4 } \\sum _ { i = 1 } ^ { m } S _ { u }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { _ 5 } = W _ { 5 } \\sum _ { i = 1 } ^ { m } U _ { \\it v }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.6人工梭梭林健康状况划分方法",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参照鲁绍伟等3对森林健康等级划分，将石羊河下游人工梭梭林健康状况分为4个等级(表3)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表3石羊河下游人工梭梭林健康等级",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/ab4dd02ea4059f5352f528521a06b1153ad727734d8ef2ea8d47ae84322c8e92.jpg",
+        "table_caption": [
+            "Tab.3 Health gradeofHaloxylon ammodendron plantation in the lower reaches of Shiyang River "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>健康等级</td><td>不健康</td><td>亚健康</td><td>健康</td><td>优质健康</td></tr><tr><td>指数</td><td>[0,0.60)</td><td>[0.60,0.70)</td><td>[0.70,0.80)</td><td>[0.80,1.00)</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1石羊河下游人工梭梭林健康状况 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "41个梭梭林样地调查结果显示：（1）群落结构：2个样地得分高于0.7，主要分布在青土湖2号样带和扶拱，29个样地得分在0.6\\~0.7，占总样地的$7 0 . 7 3 \\%$ ，10个样地得分低于0.6，主要分布在龙王庙和治沙站；(2）健康风险指标：1个样地得分高于0.7，主要分布在三角城，34个样地得分在0.6\\~0.7，占总样地的 $8 2 . 9 3 \\%$ ,6个样地得分低于0.6,主要分布于宋河；(3）群落功能指标：1个样地得分高于0.7,主要分布在青土湖1号，30个样地得分在 $0 . 6 \\sim$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "0.7，占总样地的 $7 3 . 1 7 \\%$ ,10个样地得分低于0.6，主要分布在治沙站和宋河；(4）生境因子指标：1个样地得分高于0.7，主要分布在青土湖1号，25个样地得分在0.6\\~0.7,占总样地的 $6 0 . 9 8 \\%$ ,15个样地得分低于0.6,主要分布在治沙站和勤锋滩；（5）外界干扰指标：3个样地得分高于0.7，主要分布在三角城和扶拱，35个样地得分在0.6\\~0.7，占总样地的$8 5 . 3 7 \\%$ ,3个样地得分低于0.6，主要分布在宋河和龙王庙(图4)。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c02d3d9df4615b8e276f48582398abc7451eaac822819723091c753f976e07b.jpg",
+        "img_caption": [
+            "图4石羊河下游人工梭梭林一级指标健康值 Fig.4Health value of first-class index of artificial Haloxylon ammodendron forest in the lower reaches of Shiyang River "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据AHP层次分析法和熵值法的结果，人工梭梭林健康评价一级指标中所占权重从大到小为：群落结构、生境因子、健康风险、群落功能、外界干扰，由此可以看出，人工梭梭林的群落结构对其健康状况影响最大，外界干扰对其影响最小。根据生态健康指数模型获得人工梭梭林健康指数在0.50\\~0.70，没有优质健康和健康的样地，有13个样地处于不健康状况，占总样地的 $3 1 . 7 1 \\%$ ，其余的都为亚健康样地(图5)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2人工梭梭林亚健康原因分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对石羊河下游调查的人工梭梭林样带健康状况进行分析(图6)，相比之下，青土湖样带1的人工梭梭林质量最佳，健康指数达到0.67，治沙站的质量最差，健康指数只有0.5，调查的8条样带中，有2条处于不健康状况，占总样带的 $2 5 \\%$ ,其余6条都处于亚健康状况。处于不健康状态的治沙站和龙王庙样地只有健康风险和群落功能得分大于0.6，其余3个指标得分值均小于0.6,尤其是生境因子得分只有0.55。有研究指出，石羊河下游梭梭林不健康的原因主要是由于长期而持续的土壤干旱，而青土湖相比其他林带水源相对充足，这也可能是该条林带健康指数较高的原因之一，但在评价体系中生境因子的权重并不是4个一级指标中最高的，因此，土壤干旱不是造成梭梭林不健康的最重要因素，但为了提高石羊河下游人工梭梭林的健康指数，对“水\"也不能忽视，在该地区要停止大规模掘井灌田，严防地下水位继续下降[33]。另外,处于不健康状况的治沙站和龙王庙群落结构得分为0.58，调查的梭梭林样带中，治沙站和龙王庙的梭梭林密度最大，密度过大导致可供每株林木利用的养分、水量不足，并且群落结构指标所占权重是4个指标中最高的，因此，在后期更新造林中保持适宜造林密度是维持人工梭梭健康的重要影响因素。同时，调查的人工梭梭林样带中，外界干扰的得分均值在0.65以下，近年来由于持续过度的放牧，导致植被的退化和荒漠化的发生[34],致使原有的演替进程被扰乱，在固定沙地上一年生植物的大量存在和多年生草本的减少，旱生和湿生植物的存在，以及原有湿生植物的旱化。因此，在后期经营过程中，一方面应提高生态意识、加强人工梭梭林的人为管护；另一方面应减少人畜对梭梭林的破坏，包括恶意砍伐和放牧等。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e6639358df27d38532a267c8f37e8dc6cd6a3ae05fa9c3ca228538c4114841d6.jpg",
+        "img_caption": [
+            "图5石羊河下游人工梭梭林健康指数概率分布 Fig.5Probability distribution ofhealth index of Haloxylon ammodendron plantation in thelower reachesof Shiyang River "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/94264a5a9ad03f2e62455705d2f280f78506be85e24d56c7493501c1af50200a.jpg",
+        "img_caption": [
+            "图6不同样带人工梭梭林的健康值Fig.6Health values of Haloxylon ammodendron plantationswith different zones"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "指标体系的科学性：首先，本文构建的人工梭梭林指标体系适用于石羊河下游人工梭梭林评价工作，评价的对象只针对人工梭梭林健康状况的各个方面，单一的评价客体使评价结果更具科学性。其次，明确的指标权重分配在一定程度上反映了人工梭梭林各个一级指标的重要程度和评价倾向。本文所构建的人工梭梭林指标体系中各个指标权重的分配采用主客观结合的方式，在一定程度上降低了采用专家打分获取权重的主观性，反映了人工梭梭林各一级指标对整体健康状况的重要程度。最后，本文所构建的人工梭梭林评价指标体系，根据层次分析法构建层次结构的具体要求，从群落结构、群落功能、健康风险、生境因子和外界干扰5个方面选取指标，使得各个指标之间相互配合、相互补充，形成一个有机的整体，能够更加科学地评价人工梭梭林的健康状况。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "指标体系的系统性和适用性：从群落结构、群落功能、健康风险、生境因子和外界干扰5个方面选取指标，构建了较为全面、系统的评价指标体系，可大大提高人工梭梭林健康评价的可操作性，为推进人工梭梭林健康评价工作提供有力的技术支撑。另外，指标的选取是在相关研究的基础上，结合石羊河下游梭梭林的退化的特点加人了防风效能、枯稍程度、鼠害发生率、病虫害比例和地下水位等指标，此套评价体系主要针对较小尺度的评价研究，若将其用于县级及以上尺度评价时，应充分考虑指标的适用性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由于石羊河下游气候条件如降雨量、风力等的差异，健康标准值并不唯一，最终评价的结果通过计算得到的是人工梭梭林的总体质量分数，因此，以石羊河下游人工梭梭林为例，通过向专家发放第",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/94f020b74543ab8791ed09ec8dc68f5f2439884f976e9ff6f004a5b525f05997.jpg",
+        "table_caption": [
+            "表4人工梭梭林健康指数值分级和适用范围",
+            "Tab.4 Classification and application scope of health index of Haloxylon ammodendron plantation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>等级</td><td>分数阈值</td><td>适用范围</td></tr><tr><td>A</td><td>0.80~1.0</td><td>年降雨量达150mm以上、8级以上大风日一年有60d,如瓜州、凉州</td></tr><tr><td>B</td><td>0.75~0.80</td><td>降雨量在100~150 mm之间、沙暴日30d以上，如民勤、甘州等</td></tr><tr><td>C</td><td>0.70~0.75</td><td>降雨量小于100mm、沙尘暴日在20d以上，如临泽、山丹等</td></tr><tr><td>D</td><td>0.65~0.70</td><td>极端干旱区，降雨量少于40mm、大风日在20d以下，如敦煌、高台等</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3次调查问卷将各个区县实际情况的阀值划分为A级、B级、C级、D级4个等级，共发出问卷50份，收回有效问卷36份，有效率为 $7 2 \\% , \\mathrm { A } \\mathrm { , B } \\mathrm { , C } \\mathrm { , D }$ 级分别代表人工梭梭林健康指数值达到 $0 . 8 0 , 0 . 7 5 , 0 . 7 0 , 0 . 6 5$ 时才处于健康状态(表4)。将不同自然条件引入评价体系，评价河西走廊各区县人工梭梭林健康状况，从而更好地建设和管理人工梭梭林。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "石羊河下游人工梭梭林健康评价研究资料来源于短期的调查，缺少长期的监测和评价，对其健康状况的发展无法准确预测，如要研究未来的发展方向以及可持续性，需要对整个区域进行长期的监测。另外，在健康评价指标数据获取上存在一定的缺陷，如水土保持指标因无法直接获取土壤侵蚀模数，以林地风蚀状况衡量，间接反映防护林保持水土的能力。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "通过生态学野外样地调查和室内分析相结合的方法获得指标基础数据，结合前人研究构建了人工梭梭林健康状况评价体系，采用AHP层次分析法和熵值法相结合对构建的指标进行权重设置，利用HI模型计算人工梭梭林健康指数，对石羊河下游人工梭梭林健康状况进行评价，目的是摸清石羊河下游人工梭梭林健康状况，为人工梭梭林管理经营提供理论依据，实现森林可持续发展。得出如下结论：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）根据前人研究以及调查总结，基于群落结构、群落功能、健康风险、生境因子和外界干扰5个一级指标,提出多样性指数、均匀度指数、鼠害发生率和病虫害程度等二级指标，构建了针对石羊河下游的人工梭梭林健康状况评价体系。评价体系结合主观和客观方法来确定权重，从防风功能，林带自身健康状况，以及外界干扰等方面综合判断，数据获取性强，计算过程简便，具有较好的可操作性",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "和适用性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）石羊河下游人工梭梭林整体处于亚健康状态，处于亚健康状态的样地高达 $6 9 . 4 4 \\%$ ，健康指数均值为0.667，不健康状态的样地占 $3 0 . 5 6 \\%$ ,没有处于健康状态的样地，亚健康状态极有可能发展到不健康状态，因此，应提高生态意识、加强人工梭梭林的人为管护，减少人畜对梭梭林的破坏，包括恶意砍伐和放牧等，停止大规模掘井灌田，严防地下水位继续下降。另外，在后期更新造林中保持适宜造林密度。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）为了进一步扩展评价指标体系的应用范围以及适用性，基于风力以及自然降水指标，将人工梭梭林健康状况划分为A级、B级、C级、D级4组阈值，对应不同自然条件的区县的健康指数值，从而为人工梭梭林建设和管理提供更可靠的科技支撑。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]陈发虎,吴绍洪,崔鹏,等.1949—2019年中国自然地理学与生 存环境应用研究进展[J].地理学报,2020,75(9):1799-1830. [ChenFahu,Wu Shaohong,CuiPeng,etal.Progress of applied research of physical geography and living environment in China from 1949 to 2019[J]. Acta Geographica Sinica,2020,75(9): 1799-1830.]   \n[2]王兵,郭浩,王燕,等.森林生态系统健康评估研究进展[J].中国 水土保持科学,2007,5(3): 114-121.[Wang Bing,Guo Hao,Wang Yan,et al.Renew on the evaluation of forest ecosystem health[J] Science of Soil and Water Conservation,2007,5(3): 114-121.]   \n[3] 鲁绍伟,刘凤芹,余新晓,等.北京市八达岭林场森林生态系统 健康性评价[J].水土保持学报,2006,20(3):79-82,105.[Lu Shaowei,Liu Fengqin,Yu Xinxiao,et al.Evaluation of forest ecosystem health in Beijing Badaling forest farm[J].Journal of soil and water conservation,2006,20(3): 79-82,105.]   \n[4]胡爽,徐誉远,王本洋.我国森林健康评价方法综述[J].林业与 环境科学,2017,33(1):90-96.[Hu Shuang,Xu Yuyuan,Wang Benyang.Review of forest health monitoring and assessment in China[J]. Forestry and Environmental Science,2O17,33(1):90- 96.]   \n[5]施明辉,赵翠薇,郭志华,等.森林健康评价研究进展[J].生态学 杂志,2010,29(12): 2498-2506.[Shi Minghui, Zhao Cuiwei, Guo Zhihua,et al. Review on forest health assessment[J]. Chinese Journal of Ecology,2010,29(12): 2498-2506.]   \n[6]谷鑫鑫,司剑华.基于层次分析法的西宁市油松人工林健康评 价[J].青海大学学报,2020,38(3):34-43.[Gu Xinxin,Si Jianhua.Health evaluation of Pinus tabuliformis Car.plantation in Xining City based on analytic hierarchy processJ]. Qinghai University,2020,38(3): 34-43.]   \n[7]翁殊斐,黎彩敏,庞瑞君.用层次分析法构建园林树木健康评价 体系[J].西北林学院学报,2009,24(1):177-181.[Weng Shufei, Li Caiming,Pang Ruijun.Establishment of landscaping tree health assessment model using analytic hierarchy process[J]. Journal of Northwest Forestry University,2009,24(1): 177-181.]   \n[8]刘金良,于泽群,张顺祥,等.渭北黄土高原区刺槐人工林健康 评价体系的构建[J].西北农林科技大学学报(自然科学版), 2014,42(6): 93-99.[Liu Jinliang, Yu Zequn,Zhang Shunxiaget al. Establishment of forest health assement system for black locust plantation in Weibei Loess Plateau[J]. Journal of Northwest A&F University (Natural Science Edition),2014,42(6): 93-99.]   \n[9]徐来仙,姚兰,郭秋菊,等.鄂西南利中盆地马尾松天然次生林 森林健康评价[J]. 西南林业大学学报(自然科学),2021,41(2): 1-9. [Xu Laixian, Yao Lan, Guo Qiuju,et al. Forest health assessment of Pinus massoniana natural secondary forest in Lizhong basin in southwestern Hubei[J]. Southwest Forestry University (Natural Science Edition),2021,41(2): 1-9.]   \n[10]孙琳,穆桂金,周杰,等.策勒绿洲边缘新疆杨防护林疏透度的 季相变化[J].干旱区研究,2015,32(6):1181-1185.[Sun Lin,Mu Guijin, Zhou Jie,et al. Seasonal variation of shelterbelt porosity of Populus alba var.pyramdalis at the edge of Cele Oasis in the south of Tarim Basin[J]. Arid Zone Research,2015,32(6): 1181- 1185.]   \n[11] 吴建国,常学向.荒漠生态系统健康评价的探索[J].中国沙漠, 2005,25(4): 604-611.[Wu Jianguo, Chang Xuexiang. Assessment of the health of desert ecosystem[J].Journal of Desert Research, 2005,25(4): 604-611.]   \n[12] 罗凤敏,高君亮,辛智鸣,等.乌兰布和沙漠东北缘防护林内外 沙尘暴低空结构特征[J].干旱区研究,2019,36(4):1032-1040. [Luo Fengming,Gao Junliang,Xin Zhiming,et al.Low- altitude structure of sandstorms for inside and outside the shelterbelt in the northeast marginal zone of the Ulan Buh Desert[J].Arid Zone Research,2019,36(4): 1032-1040.]   \n[13] 王继和,马全林.民勤绿洲人工梭梭林退化现状特征与恢复对 策[J].西北植物学报,2003,23(12): 2107-2112.[Wang Jihe,Ma Quanlin.Degradation status,characteristics and restoration countermeasures of artificial Haloxylon ammodendron forest in Minqin oasis[J].Acta Botanica Boreali-Occidentalia Sinica, 2OO3,23(12): 2107-2112.]   \n[14]马全林,王继和,赵明.退化人工梭梭林的恢复技术研究[J].林 业科学研究,2006,19(2):151-157.[Ma Quanlin,Wang Jihe, Zhao Ming.Research on restoration technology of degenerated artificial Haloxylon ammodendron forest[J].Forest Research,20o6,19(2): 151-157.]   \n[15] 常兆丰,韩福贵,仲生年.民勤沙区人工梭梭林自然稀疏过程研 究[J].西北植物学报,2008,28(1):147-154.[Chang Zhaofeng, Han Fugui, Zhong Shengnian. Self thinning process of Haloxylon ammodendron planted forest in desert area of Minqin[J]. Acta Botanica Boreali-OccidentaliaSinica,2008,28(1):147-154.]   \n[16] 张华,吴睿,康雅茸.民勤绿洲梭梭同化枝光合生理特性与形态 [J].草业科学,2018,35(2): 371-379.[Zhang Hua,Wu Rui, Kang Yarong.Photosynthetic,physiological,and morphological characteristics of Haloxylon ammodendron assimilation twigs in Minqin oasis n[J]. Pratacultural Science,2018,35(2): 371-379.]   \n[17]Ma Quanlin, Wang Xinyou, ChenFang,etal.Carbon sequestration of sand-fixing plantation of Haloxylonammodendron in Shiyang River Basin: Storage,rate and potential[J].Global Ecology and Conservation,2021,28: e01607.   \n[18] 张勤德,刘伟,白斌,等.民勤义粮滩不同林龄梭梭人工林群落 生态特征研究[J].防护林科技,2019,37(1):14-16,37.[Zhang Qinde,Liu Wei,Bai Bing,etal.Ecological characteristics f Haloxylon ammodendron plantationcomunitiesatdiffetstandages in Yiliangtan forest fram of Minqin county[J].Protection Forest Science and Technology,2019,37(11): 14-16,37.]   \n[19]吴利禄,高翔,褚建民,等.民勤绿洲-荒漠过渡带梭梭人工林 净碳交换及其影响因子[J].应用生态学报,2019,30(10):3336- 3346.[Wu Lilu,Gao Xiang,Chu Jianming,et al. Net carbon exchange and its driving factors of Haloxylon ammodendron plantation in the oasis-desert ecotone of Minqin, China[J]. Chinese Journal of Applied Ecology,2019,30(10): 3336-3346.]   \n[20] 李发江,孙得祥,常兆丰.民勤沙区梭梭林自然更新机理初步研 究[J].中国农学通报,2008,24(9):165-170.[Li Fajiang,Sun Dexiang, Chang Zhaofeng.Preliminary study on natural regeneration mechanism of Haloxylon ammnodendron forest in Minqin desert area[J]. Chinese Agricultural Science Bulletin,2O08,24(9): 165-170.]   \n[21] 柴尔武.民勤绿洲外围人工梭梭林种子库研究[J]. 甘肃林业科 技,2009,34(3):12-14.[Chai Erwu.Study on seed bank of artificial Haloxylon ammodendron in Minqin oasis external forests[J]. Journal of Gansu Forestry Science and Technology,2O09,34(3): 12-14.]   \n[22] 陈芳,纪永福,张锦春.民勤梭梭人工林天然更新的生态条件 [J].生态学杂志,2010,29(9):1691-1695.[Chen Fang,Ji Yongfu, Zhang Jingchun. Ecological conditions for natural regeneration of artificial Haloxylonammodendron plantationsin Minqinoasis[J]. Chinese Journal of Ecology,2010,29(9): 1691-1695.]   \n[23]丁峰,纪永福,陈芳.民勤梭梭林自然更新苗的空间分布特征 [J].甘肃林业科技,2011,36(3):7-11.[Ding Feng,Ji Yongfu, Chen Fang. Spitial distributing characteror Haloxylon ammodendron seedling-growth in Minqin[J]. Gansu Forestry Science and technology,2011,36(3): 7-11.]   \n[24] 何芳兰,郭春秀,马俊梅,等.民勤绿洲边缘梭梭林衰败过程中 土壤种子库动态及其与地上植被的关系[J].生态学报,2018, 38(13): 4657-4667.[He Fanglan, Guo Chunxiu,Ma Junmei,et al. Dynamics of soil seed bank and its relationship with aboveground vegetation during the decline of Haloxylon ammodendron forest on the edge of Minqin oasis[J].Acta Ecologica Sinica,2018,38(13): 4657-4667.]   \n[25] 赵鹏,徐先英,屈建军,等.民勤绿洲荒漠过渡带人工梭梭群落 与水土因子的关系[J].生态学报,2017,37(5):1496-1505. [Zhao Peng,Xu Xianying,Qu Jianjun,et al.Relationship between artificial Haloxylon ammodendron community and soil and water factors in Minqin oasis desert transition zone[J].Acta Ecologica Sinica,2017,37(5): 1496-1505.]   \n[26] 常兆丰,韩福贵,仲生年,等.生态系统健康评价方法在退化梭 梭群落分析中的应用[J].生态学杂志,2008,27(8):1444-1449. [Chang Zhaofeng,Han Fugui, Zhong Shengnian,etal.Application of ecosystem health assessment method in the analysis of degraded Haloxylon ammodendron community[J]. Chinese Journal of Ecology,2008,27(8): 1444-1449.]   \n[27] 刘虎俊,王继和,常兆丰,等.石羊河下游荒漠植物区系及其植 被特征[J].生态学杂志,2006,25(2): 113-118.[Liu Hujun,Wang Jihe,Chang Zhaofeng,et al.Desert flora and vegetation characteristics in the lower reaches of Shiyang River[J]. Chinese Journal of Ecology,2006,25(2): 113-118.]   \n[28] 刘家琼 黄子琛 鲁作民 等 对廿肃民勒人丁梭梭林衰广原因 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "的几点意见[J].中国沙漠,1982,2(2):48-50.[Liu Jiaqiong, Huang Zichen,Lu Zuoming,et al. Some opinions on the reasons for the decline of artificial Haloxylon ammodendron forest in Minqin, Gansu Province[J]. Journal of Desert Research,1982,2(2): 48-50.]   \n[29] 马全林,王继和,朱淑娟.降水、土壤水分和结皮对人工梭梭林 的影响[J].生态学报,2007,27(12):5057-5067.[Ma Quanlin, Wamg Jihe,Zhu Shujuan.Effects of precipitation, soil water content and soil crust on artificial Haloxylon ammodendron forest[J]. Journal of Ecology,2007,27(12): 5057-5067.]   \n[30]于金涛.秭归县防护林健康评价指标体系建立及应用研究[D]. 武汉：华中农业大学,2013.[Yu Jintao.Establishment and Application of Health Ealuation Index System of Shelter Forest in Zigui County[D].Wuhan: Huazhong Agricultural University,2013.]   \n[31] 于金涛,雷静品,王鹏程,等.秭归县防护林健康评价指标体系 的建立及应用[J].生态学报,2015,35(7):2094-2104.[Yu Jintao,Lei Jingping,Wang Pengcheng,et al.Establishment and application of health evaluation index system of shelter forest in Zigui county[J]. Journal of Ecology,2015,35(7): 2094-2104.]   \n[32]Robert Costanza,Michael Mageau.What is a healthy ecosystem? [J].Aquatic Ecology,1999,33(1) : 13-19.   \n[33]Yukihiro Shimatani.What is a healthy ecosystem?For its evaluation and restoration[J]. Ecology and Civil Engineering,2OO1,4(1): 6-8.   \n[34] 张锦春,王继和,赵明,等.库姆塔格沙漠南缘荒漠植物群落多 样性分析[J].植物生态学报,2006,30(3):375-382.[Zhang Jinchun,Wang Jihe,Zhao Ming,et al.Plant community and species diversity in the south fringe of Kumutag Desert[J]. Journal of Plant Ecology,2006,30(3): 375-382.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A health evaluation of a Haloxylon ammodendron plantation in the Shiyang River lower reaches ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "LI Xuening1²， XU Xianying'²， ZHENG Guiheng'， MA Quanlin'， ZHANG Yunian', LIU Hujun'， ZHAO Peng'， YANG Xuemei   \n(1.State Key Laboratory Breeding Base of desertification and Aeolian Sand Disaster Combating,Gansu Desert   \nControl Research Institute,Lanzhou 73oo7o,Gansu, China;2.Institute of Desertification, Chinese Academy of   \nForestry Sciences,Beijing 1O91, China; 3.Ecologyand Nature Conservation Institute,Chinese Academy of Forestry, Beijing 100091) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: A Haloxylon ammodendron forest is a protected ecological forest in a desert area.It not only reduces the impact of wind sand disasters,controls soil erosion,and maintains the ecological stabilityof desertoasis but also improves soil quality and increases carbon storage of the desert ecosystem. Recently, the $H .$ ammodendron forest has been declining in Minqin. Determining sustainable management of the artificial $H .$ ammodendron forestis critical forthe health status and function of wind preventionand sand fixation forthis forest over time.In this study, the artificial $H .$ ammodendron forest in the lower reaches of the Shiyang River was selected as the research focus.Through a literature review and expert consultation,a health evaluation system of the artificial $H _ { \\mathbf { \\Gamma } }$ ammodendron forest with 5 primary indicators and 19 secondary indicators was constructed.Analytic hierarchy process combined with an entropy method was used to determine the weight of each index. Based on the ecological health index (HI) and field survey data, the health status of the artificial $H .$ ammodendron forest was evaluated. Results show the following: the HI value of the artificial $H .$ ammodendron forest in the lower reaches of the Shiyang River is between 0.50 and 0.67; the average comprehensive HIis O.617,which is ina sub-health state；and to improve the stability of the artificial $H .$ ammodendron forest,we should take measures such as stubble and enclosure. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Keywords: the lower reaches of Shiyang River;artificial Haloxylon ammodendron forest;construction of evaluation system; analytic hierarchy process； entropy method; sustainable management ",
+        "page_idx": 10
+    }
+]

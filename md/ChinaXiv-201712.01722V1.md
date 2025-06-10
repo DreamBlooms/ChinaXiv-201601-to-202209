@@ -1,0 +1,184 @@
+# 河北省滨海盐渍土地区油葵综合性状分析
+
+王婷婷(1);鲁雪林(1);张国新(l);白苇(2);董梅英(3);王秀萍(1)(1).河北省农林科学院滨海农业研究所/唐山市植物耐盐研究重点实验室/河北省盐碱地绿化工程技术研究中心唐山063299;(2).张家口市农业科学院 张家口075000;(3).怀来县农牧局怀来075400
+
+摘要：盐渍逆境胁迫是影响盐渍土地区油葵产量和品质的主要自然环境因素，培育耐盐优质油葵品种是盐渍土油葵育种的主要任务之一。本文采用防雨棚盐碱原土鉴定法，在土壤含盐量 $6 \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ 浓度下处理9份油葵种质，研究土壤含盐量$6 \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ 盐胁迫对油葵苗期株高、叶面积、生物量、出苗率和出苗指数的影响，并通过隶属函数法进行苗期耐盐性初步鉴定，了解不同品种苗期耐盐性能力差异；之后在滨海盐渍化土壤自然大田条件下观测生育期、植株形态、产量、籽粒品质等10个相关主要农艺性状，并进行相关性分析、主成份分析和聚类分析，为滨海盐渍土地区油葵耐盐种质资源的挖掘和遗传育种提供参考信息。结果表明，在 $6 \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ 盐碱原土处理条件下，不同品种的指标与对照相比均呈现下降趋势，但变化率有显著差异，说明油葵品种对盐分的耐受能力差异较大，通过模糊数学隶属函数法对不同油葵材料进行耐盐性排序，油葵1号、8号的耐盐性最好，油葵3号的耐盐能力最弱。在田间盐渍土地区，油葵农艺性状表现各异，各性状至少与2个其他性状呈显著或极显著相关，但相关系数均偏低。生育期与产量构成因子呈极显著负相关，表明油葵在盐渍土环境下处的时间越长受害就越严重，越不利于油葵产量提高。根据各个农艺性状表现将滨海盐渍土种植的油葵品种进行系统聚类分析，按成熟期、产量、品质综合分为高油中产晚熟品种、早熟中产低油品种和高产中熟中等含油量品种3个类群。主成分分析将不同品种农艺性状分成3个主成分，可将其归纳为生育期和形态因子、产量因子和籽粒品质因子，其总变异累积贡献率达 $6 9 \%$ 。对不同油葵品种的综合表现进行加权求和，油葵8号排名第1。结合苗期耐盐性鉴定结果综合分析认为，油葵8号和1号可以作为优异的种质资源在滨海盐渍土地区的油葵耐盐育种中加以利用。
+
+关键词：滨海盐渍土；油葵；耐盐性；产量；品质；种质资源中国分类号：S565.5
+
+# Analysis of comprehensive traits for oil sunflower in coastal salinized soil area of Hebei Province
+
+WANG Tingting1,LU Xulin1, ZHANG Guoxin1, BAI Wei², DONG Meiying3, WANG Xiuping1\*\* (1.CoastalAgrcultural Institute,Hebei AcademyofAgriculturalandForestrySciences/TangshanKeyLaboratoryofPlantSalt   
+ToleranceResearch/Hebei provincesalinealkaliAforestationEngineeringTechnologyResearch Center,angshanO6399,China;2.   
+ZhangjiakouAcademyofAgriculturalSciences,Zhangjakou75oo,China;3.AgricultureandAnimalHusbandryBureauofHuailai county,Huailai 075400, China)
+
+Abstract: Becauseofsoilsalinization,theconomic bnefitofagriculturallandislowincoastalsaline soilarea.So,itisavery meaningful jobtoimprove theagriculturalproductivity incoastalsalinesoilarea.Oilsunflower(HelianthusannuusL.)haslong beenconsideredasaoileconomiccropwithaconsiderable tolerance tosaline-alkaline soils.Salinizationabiotic stressisa main naturalenvironmental factorthatadverselyafectsoil sunflowerproductionandqualityinsoilsalinationarea.Cultivating salt-tolerant andsuperiorqualityoilsunflower varietyisoneofthe primarymisionsofsalinizedoil sunflower breeding.Inthis paper,the9oil sunfloweraccessons werecultivated inantirainshedsalinealkalisoil identification method inacontroled environment chamber.We can be obtained $6 \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ mixture salt soil by adjusting the $1 ~ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ topsoil and $1 0 \ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ seashore saline soil. The $1 ~ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ topsoil was used as the control. The $6 ~ \mathrm { g \cdot k g ^ { - 1 } }$ mixture salt soil was used as the treatment. Plant height,leaf area, biomasson oil sunflower seeding were measured after 2O days treatment，and emergence rateand emergence index were investigated after sowing every 3days.Thesalt resistanceof diferent oil sunflower accesions was evaluated by the fuzzy mathematics methodofmembershipfunction.The9oilsunfloweracesions wereused inthepreliminaryanalysisofsalt-tolerant characteristics. The results showed that the 5 indexes of the 9 oil sunflower decreased under the $6 \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ mixture salt soil. But rate ofchange werethe most significant diferenceatseedling stage.Thedegres ofsalt-toleranceof9oilsunfloweracesions were diferent.The9oilsunfloweraccessions were sortedbasedonclusteringanalysis.Oilsunfloweraccessionsofno.landno.8were strongly toleranttosalt stressOil sunfloweracessionof no.3was the mostsensitive tosalt stressFurthermore,thegrowth period,plantheight,diameterofflowerdish,oilcontentandoter1Omajoragronomic traitswere measured undersalinationoil condition.Diferentoilsunfloweraccessonswas evaluatedbycorrelationanalysis,principalcomponentanalysisandclustering analysis.Theresultof thestudyprovidedtheneededreference informationonsaltolerant germplasmresourcesofoilsunflower incoastalsalinesoilareaandgenetic breding.Correlationanalysis showed thatonetrait wascorelatedorextremelycorrelated withatleast twotraitseachother,butthecorelationcoeffcient waslow.Growthperiod wasextremelynegativecorrelatedwith production factor,andtheresult indicatedthatthe longer suffering inseveresaline environment,the worseincreasing oil sunfloweryield.Acordingtotheobtainedagronomic traits fromfieldexperiments,9oilsunflowervarietiescouldbeclasified into3clustersonthebasisof matureperiod,yieldandquality.ClusterIwasmainlyhighoilcontent,middleyieldandlater maturing variety.ClusterIwas mainly early maturing,middle yieldand lowoilcontent variety.Cluster II was mainly high yield,middleyieldandmidleoilcontentvariety.The principalcomponentanalysisresultsshowedthatthethreeeigenvaluesof cumulative variance proportion is $69 \%$ .We calculated the comprehensive score for the evaluated the 9 oil sunflower accessions with weighted sum method.Oil sunfloweraccessionofno.8 wastopsthe ist.Combining with theresultsof identificationof salt tolerance atseedling stage,comprehensive analysis suggested thatoilsunfloweracesions ofno.and no.8couldbeusedasthe excellent germplasm for salt tolerance breeding of oil sunflower in coastal saline soil area.
+
+Keywords: Coastal salinized soil;Oil sunflower; Yield; Quality; Germplasm resources
+
+土壤盐渍化是制约农作物产量提高的重要因子。我国盐渍土总面积为3600 万 $\mathbf { h } \mathbf { m } ^ { 2 }$ ，其中耕地中盐渍化面积达到920.9万 $\mathrm { h m } ^ { 2 [ 1 - 2 ] }$ 。筛选和培育能够抵抗高盐环境，并有较高产量和优良品质的作物品种是提高盐碱地区作物产量和效益的重要途径。油葵(Helianthus annuus L.)是一种兼具耐干旱、耐贫瘠，以及适应性强等优点的油料经济作物，同时也是众所周知的耐盐作物，是盐碱地先锋作物[3-5]和盐渍土地区景观植被构建的理想作物。因此，筛选和鉴定出耐盐，高产，优质的油葵种质材料对盐渍土的开发利用和生态环境建设具有重要的现实意义。
+
+很多学者针对向日葵品种选育以及耐盐性做了大量研究。雷中华等在新疆农科院安宁渠试验场运用相关分析对20个向日葵杂交种的9个主要性状进行研究，结果表明：与产量显著相关的性状是单株粒重、叶片数和株高，与含油率显著相关的性状为出仁率。Luan等7在吉林省利用3个向日葵品种评估渗透效应和离子氯化钠对向日葵种子萌发的影响，选择在盐碱地区适宜种植的最耐盐品种。谛晋松等8以当地主栽品种'LD 5009'为研究对象,2 年共选择 14 个典型地块作为定位观测点，分析向日葵产量、生物量、株高等12个指标对盐分胁迫的响应，在河套地区进行了向日葵的耐盐性评价。郭园等9采用无土培养方式，对13个油葵品种进行盐碱和非盐碱处理，测定鲜重、株高、根长等生长指标以及叶绿素含量、内二醛含量、抗氧化酶活性等生理指标，进行隶属函数、聚类分析以及秩的相关性分析，进行了抗盐碱性能的综合评价。陈炳东等[10通过盆栽试验研究不同土壤含盐量对油葵含油率及脂肪酸组成的影响，结果表明子实含油率和籽仁含油率随土壤盐含量的升高下降明显，且籽仁含油率受到的影响大于子实含油率。马荣等[11分别以1个敏盐、中度耐盐和耐盐品种为试验材料，研究6个混合盐浓度下的种子萌发和离子在萌发幼苗中积累分布情况，动态监测了复合盐胁迫 $2 4 \mathrm { h }$ 后植株根系离子的流速流向。结果表明不同耐盐性的油用向日葵植株在盐胁迫下可通过调节离子的吸收与外排来适应盐胁迫环境。张俊莲等[12]3个向日葵品种种植于蛭石中，用 $0 \% ( \mathrm { C K } )$ 、 $0 . 3 \%$ 和 $0 . 9 \%$ NaClHoagland 溶液胁迫处理 20d 和 40d，分别测定各种指标。结果表明DK119具有较强的耐盐性，脯氨酸含量、叶绿素含量和光合速率亦不能作为评价植株耐盐性指标。以上研究区域多集中在内陆干旱半干旱地区，耐盐性研究时期多为苗期，研究形式多以盆栽、蛭石或者无土栽培，研究结果应用于滨海盐渍土大田还不充足。相关性分析、主成分分析与聚类分析等统计分析方法为评价作物综合性状提供了科学依据，已广泛运用于玉米(Zea mays)[13]、高梁(Sorghum vulgare)[14]、花生(Arachis hypogaea)[15]、洋葱(Allum cepa)[16]、桑树(Morus notabilis)[7]和苦瓜(Monodramacharantia)[18]等多种作物种质资源农艺性状的评价之中。目前，国内缺乏在滨海盐渍土区对耐盐油葵的筛选与评价研究，迫切需要加强盐碱条件下油葵全生育期的多个农艺性状系统完整的分析，综合科学评价其耐盐性，为高产、抗盐碱、质优、株型理想的耐盐油葵新品种筛选提供科学依据。
+
+本研究搜集了9份油葵种质，首先通过考察 $1 \ { \mathrm { g } } { \cdot } { \mathrm { k g } } ^ { - 1 }$ 和 $6 \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ 混合盐土盐碱鉴定池的油葵苗期株高、叶面积、生物量、出苗率、出苗指数的差异，利用隶属函数法进行耐盐性评价，之后运用相关性分析、主成分与聚类分析对其生育期、株高、叶片数、茎粗、花盘直径、百粒重、百粒仁重、皮壳率、籽实含油率和籽仁含油率等10个主要农艺性状进行考察，旨在揭示滨海地区油葵农艺性状与产量、含油率之间、各性状之间的密切关联程度，以期揭示滨海盐渍土环境下各农艺性状间的相关性与特征规律，选择盐渍土地区农业生产上适宜的主推类型及综合性状最优的油葵品种。本研究也为提高耐盐育种效率，进行种质资源改良和创新，以及选育出适合滨海盐渍土地区耐盐高产优质的油葵新品种提供理论依据。
+
+# 1材料与方法
+
+# 1.1试验区概况
+
+试验在河北省农林科学院滨海农业研究所"滨海现代农业科技成果转化基地”，位于河北省唐山市曹妃甸区十一农场，地处滨海盐碱区，过去主要种植水稻(Oryza sativa)，水改旱后成为盐渍土。试验区土壤为盐渍水稻土类型，土壤质地粘重，耕层板结，透气性差，盐分以 $\mathrm { \Delta N a C l }$ 为主，土体 $0 { \sim } 5 0 ~ \mathrm { c m }$ ，平均含盐量大于 $4 ~ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ ，为中度盐渍土，地下水埋深小于 $2 \mathrm { m }$ ，地下水矿化度 $3 { \sim } 1 0 ~ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ ，耕层土壤有机质 $1 . 4 2 6 \%$ 有效氮、磷和钾分别为 $6 2 . 3 \ \mathrm { m g } \cdot \mathrm { k g } ^ { - 1 }$ 、 $2 7 . 1 \ \mathrm { m g } { \cdot } \mathrm { k g } ^ { - 1 }$ 和 $2 3 2 \mathrm { m g } { \cdot } \mathrm { k g } ^ { - 1 }$ 。
+
+# 1.2苗期耐盐性鉴定试验
+
+试验品种材料选取来自北京、山西、唐山和美国的杂交油葵种质9份，均为 $\mathrm { F } _ { 1 }$ ，材料来源与编号详见表1。取 $1 \ { \mathrm { g } } { \cdot } { \mathrm { k g } } ^ { - 1 }$ 左右的中壤耕层土和 $1 0 \ \mathrm { g \cdot k g ^ { - 1 } }$ 滨海盐土，过筛，自然晾晒风干，依据重量法将土壤含盐量调配为 $6 \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ 。以 $1 \ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ 左右的中壤耕层土为空白对照，调配好的 $6 \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ 混合盐土为处理，分别装入盐碱鉴定池，鉴定池长 $5 \mathrm { m }$ ，宽 $1 . 2 \mathrm { m }$ ，深 $1 \mathrm { m }$ 。将9份油葵品种分别播种于盐碱鉴定池，每品种3行，行株距 $1 5 \mathrm { c m } { \times } 1 0 \mathrm { c m }$ ，每品种30株,3次重复，品种随机排列。5月31日采用穴播播种，播深 $2 \mathrm { c m }$ ，每穴1粒。播后用对应处理的土壤进行撒盖，试验期进行土壤水分监测，土壤质量含水量保持在 $1 7 \% { \sim } 2 0 \%$ 期间定量补水，要求每处理补水基本一致。播种后每隔3d观察出苗、生长情况，播种20d后，每重复取中间5株进行指标测定，3次重复。
+
+测定指标包括株高、叶面积、生物量，计算出苗率、出苗指数。株高：利用直尺，测定存活植株的地上部高度。叶面积：利用叶面积仪进行测量。生物量：分别剪取地上、地下部分，洗净，在 $1 0 5 ^ { \circ } \mathrm { C }$ 杀青10min, $8 0 ^ { \circ } \mathrm { C }$ 烘干12h，称重。
+
+出苗率 $( \% ) \mathrm { = }$ 最终出苗数/供试种子数 $\mathrm { \Phi } _ { \times 1 0 0 \% }$ 出苗指数 ${ \it \Omega } = \sum ( \mathrm { G t / D t } )$ (Gt为t天内的出苗数,Dt为相应的出苗天数)
+
+# 表1试验材料编号和来源
+
+Table1 Codes of the tested oil sunflower accessions and their origins   
+
+<html><body><table><tr><td rowspan="2">序号 No.</td><td rowspan="2">品种 Variety</td><td colspan="2">采集地</td></tr><tr><td></td><td>Collection site</td></tr><tr><td>1</td><td>T562</td><td>BeijingKAFRY Technology CO.,LTD.</td><td>北京凯福瑞科技股份有限公司</td></tr><tr><td>2</td><td>S606</td><td></td><td>北京凯福瑞科技股份有限公司 BeijingKAFRY Technology CO.,LTD.</td></tr><tr><td>3</td><td>先瑞1号 Number1 Xianrui</td><td></td><td>酒泉市同庆种业有限责任公司 Jiuquan city Tongqing Seed Industry CO.,LTD</td></tr><tr><td>4</td><td>同庆1号 Number 1 Tongqing</td><td></td><td>酒泉市同庆种业有限责任公司</td></tr><tr><td>5</td><td>NWS101</td><td></td><td>Jiuquan city Tongqing Seed Industry CO.,LTD 侯马市农娃娃种业有限公司</td></tr><tr><td>6</td><td>NWS563</td><td></td><td>Houma city nongwawa Seed Industry CO.,LTD 侯马市农娃娃种业有限公司</td></tr><tr><td>7</td><td>NWS529</td><td></td><td>Houma city nongwawa Seed Industry CO.,LTD 侯马市农娃娃种业有限公司</td></tr><tr><td>8</td><td>滨葵1号</td><td></td><td>Houma city nongwawa Seed Industry CO.,LTD 河北省农林科学院滨海农业研究所</td></tr><tr><td></td><td>Number1 Binkui</td><td>Coastal Agricultural Institute,Hebei Academy of Agricultural and Forestry Sciences</td><td></td></tr><tr><td>9</td><td>矮大头9650 Aidatou 9650</td><td>唐山市农业科学院种子市场</td><td>Tangshan academy of agricultural sciences Seed Marketing</td></tr></table></body></html>
+
+# 1.3田间试验设计及性状测定方法
+
+2016年4月将9个油葵品种在河北省农林科学院滨海农业研究所"滨海现代农业科技成果转化基地”种植，平均含盐量大于 $4 \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ ，为中度盐渍土。试验采用地膜覆盖栽培的方法，试验品种与苗期耐盐性鉴定试验相同,3个重复，随机排列，种植密度 $5 0 \mathrm { c m } { \times } 6 0 \mathrm { c m }$ ，小区面积 $8 ~ \mathrm { m } ^ { 2 }$ ，每个小区种植50株，常规栽培管理。本试验采取不灌溉的自然盐渍化处理。收获后，每个品种在每个重复中随机选取10 株进行考种，测量单株生育期、株高、叶片数、茎粗、花盘直径等农艺性状。
+
+油葵农艺性状观察包括(1)生育期(天)：从出苗到成熟期的天数;(2)株高(cm):开花终期，每个品种随机取10株，测量从子叶节到茎秆顶端的高度;(3)叶片数(片)：每个品种随机选取10株，标记叶片，开花后调查叶片数，重复3次;(4)茎粗(cm):在成熟期每个品种随机取10株，测量茎秆中部的直径，重复3次;(5)花盘直径(cm):在成熟期每个品种随机取10个花盘量其直径，重复3次;(6)百粒重(g):每个品种随机选取10个花盘，每个花盘随机取100粒，测定重量，重复3次;(7)百粒仁重(g)：每个品种随机选取10个花盘，每个花盘随机取100粒，剥下皮壳，称重籽仁测定重量，重复3次;(8)皮壳率 $( \% )$ ：皮壳重/子粒重$\times 1 0 0 \%$ ;(9)籽实含油率和籽仁含油率：每个品种分别取10个花盘籽粒，每个花盘饱满籽粒50粒进行测量，重复3次。对油葵含油率建立标线进行含油率测量，利用核磁共振仪进行测定含油率。
+
+# 1.4数据处理与分析
+
+采用模糊数学隶属函数法对油葵品种碱胁迫的耐受性进行综合评价。
+
+指标与耐盐性呈正相关用隶属函数公式 $X ( i j ) { = } ( X _ { i j } { - } X _ { j m i n } ) / ( X _ { j m a x } { - } X _ { j m i n } )$ ，指标与耐盐性呈负相关用反隶属函数公式 $X ( i j ) { = } 1 { - } ( X _ { i j } { - } X _ { j m i n } ) / ( X _ { j m a x } X _ { j m i n } )$ ，式中 $X ( i j )$ 表示i种类 $\mathrm { ~ j ~ }$ 指标的隶属值; $X _ { i j }$ 表示i种类j指标的测定值; $X _ { j m a x }$ 、 $X _ { j m i n }$ 分别表示指标的最大值和最小值[19]。
+
+采用 SPSS19.0软件进行数据整理和标准化处理，然后对其进行相关性、主成分、系统聚类分析。相关性用 Pearson 系数作双尾检验。聚类分析按欧氏距离进行聚类。聚类分析和主成分分析用统计分析软件 SPSS19.0 的分类和降维两个分析模块[20]。在聚类分析和主成分分析的基础，对品种的特征特性进行综合评定。采用 MicrosoftExcel2007 软件制图。
+
+# 2结果与分析
+
+# 2.1盐碱胁迫对油葵苗期生长的影响
+
+在调配为 $6 \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ 土壤含盐量的盐碱原土盐胁迫下,9份油葵材料的生长指标变化差异较大(表2)，体现出不同供试材料的耐盐性。经盐胁迫处理后，不同品种的出苗率、出苗指数、株高、叶面积、生物量均呈现下降趋势。从变化率看，油葵1号、6号和8号的出苗率变化最小,2号、5号和7号变化率最大。油葵1号、3号和8号的出苗指数变化最小,7号、4号和5号变化率最大。油葵1号、6号和8号的株高变化最小,5号、7号和2号变化率最大。油葵8号、7号和6号的叶面积变化最小,5号、3号和2号变化率最大。油葵1号、2号和8号的生物量变化最小,7号、5号和3号变化率最大。变化率越小，说明油葵在盐碱胁迫下能保持稳定状态，耐受性强。反之，变化率最大，耐盐碱性较弱。本研究结果显示了不同品种油葵幼苗的生长受抑制程度不同，说明其抗盐碱能力不同。
+
+# 2.2滨海盐渍土油葵苗期耐盐性评价
+
+采用模糊数学隶属函数法对油葵盐碱胁迫的耐受性进行综合评价，对各个指标的隶属函数值累加求平均值。隶属值越大，则耐盐碱性越强[19]，通过比较最终确定其耐盐碱排序(表3)，油葵1号、8号的耐盐碱性最好，油葵3号的耐盐碱能力最弱。
+
+# 表2盐胁迫对油葵苗期6个生长指标的影响
+
+Table 2Effects of saline stress on six growing indexes of oil sunflower   
+表3盐胁迫对油葵幼苗生长指标的隶属值  
+
+<html><body><table><tr><td rowspan="3">序号 No.</td><td colspan="2">出苗率 Emergence</td><td colspan="2">变化率 Rate of</td><td colspan="2">出苗指数 变化率 Emergence Rate of</td><td colspan="2">株高 Plant high</td><td>变化率 Rate of</td><td colspan="2">叶面积Leaf area (cm²)</td><td>变化率</td><td colspan="2">Rate of 生物量 Biomass (g)</td><td>变化率 Rate of</td></tr><tr><td>rate (%)</td><td>T</td><td>change (%)</td><td>index</td><td></td><td>change</td><td colspan="2">(cm)</td><td>change</td><td colspan="2"></td><td>change</td><td></td><td></td><td>change</td></tr><tr><td></td><td>CK</td><td></td><td>CK</td><td>T</td><td>(%)</td><td>CK</td><td>T</td><td></td><td>(%) CK</td><td>T</td><td>(%)</td><td>CK</td><td>T</td><td>(%)</td></tr><tr><td>1</td><td>70.2</td><td>49.1</td><td>30.06</td><td>1.11</td><td>0.8</td><td>27.93</td><td>18.11±3.41 15.92±2.64</td><td></td><td></td><td>12.09 41.95±3.46 22.91±1.64 45.39</td><td></td><td></td><td>0.32±0.10 0.21±0.05</td><td></td><td>34.38</td></tr><tr><td>2</td><td>84.4</td><td>44.4</td><td>47.39</td><td>1.98</td><td>0.76</td><td>61.62</td><td>18.56±2.89 11.75±1.01</td><td></td><td></td><td>36.6926.62±2.0911.52±1.09 56.72</td><td></td><td></td><td></td><td>0.32±0.08 0.18±0.04</td><td>43.75</td></tr><tr><td>3</td><td>72.2</td><td>41.7</td><td>42.24</td><td>1.73</td><td>0.71</td><td>58.96</td><td>15.32±3.09 11.44±2.08</td><td></td><td></td><td>25.33 36.47±3.0915.15±2.04 58.46</td><td></td><td></td><td></td><td>0.25±0.07 0.10±0.02</td><td>60.00</td></tr><tr><td>4</td><td>75</td><td>47.8</td><td>36.27</td><td>1.8</td><td>0.45</td><td>75.00</td><td>19.34±1.01 13.01±1.0</td><td></td><td></td><td>32.7340.55±2.0120.34±1.08 49.840.42±0.04 0.18±0.02</td><td></td><td></td><td></td><td></td><td>57.14</td></tr><tr><td>5</td><td>72.2</td><td>37.8</td><td>47.65</td><td>1.71</td><td>0.53</td><td>69.01</td><td>19.01±0.64 11.43±2.12</td><td></td><td></td><td>39.8742.57±4.6414.43±2.21 66.10 0.40±0.04 0.13±0.01</td><td></td><td></td><td></td><td></td><td>67.50</td></tr><tr><td>6</td><td>75</td><td>50</td><td>33.33</td><td>1.76</td><td>0.65</td><td>63.07</td><td>13.13±1.41 11.55±2.26</td><td></td><td></td><td>12.0331.94±3.2117.79±2.06 44.30</td><td></td><td></td><td></td><td>0.24±0.07 0.11±0.03</td><td>54.17</td></tr><tr><td>7</td><td>77.8</td><td>43.9</td><td>43.573</td><td>1.71</td><td>0.23</td><td>86.55</td><td></td><td>19.48±0.64 12.28±2.1</td><td></td><td>36.9640.73±3.64 24.95±2.1 38.74 0.39±0.06 0.13±0.03</td><td></td><td></td><td></td><td></td><td>66.67</td></tr><tr><td>8</td><td>69.4</td><td>46.1</td><td>33.57</td><td>1.53</td><td>0.62</td><td>59.48</td><td></td><td>18.14±2.47 14.87±2.46</td><td></td><td>18.0328.64±2.0721.32±2.23 25.51 0.27±0.09 0.14±0.01</td><td></td><td></td><td></td><td></td><td>48.15</td></tr><tr><td>9</td><td>73.53</td><td>44.1</td><td>40.02</td><td>1.57</td><td>0.49</td><td>68.79</td><td></td><td>16.61±2.01 11.24±1.19</td><td></td><td>32.3334.14±2.85 16.51±1.57 51.64 0.29±0.05 0.15±0.02</td><td></td><td></td><td></td><td></td><td>48.28</td></tr></table></body></html>
+
+Table 3Subordinate function value of growth parameters of oil sunflower seeding under saline stress   
+
+<html><body><table><tr><td>序号 No.</td><td>出苗率 Emergence rate</td><td>出苗指数 Emergence index</td><td>株高 Plant height</td><td>叶面积 Leafarea</td><td>地上干重 Shoot dry weight</td><td>隶属函数值 SV</td><td>耐盐顺序 SO</td></tr><tr><td>1</td><td>1</td><td>0.86</td><td>0.60</td><td>1</td><td>0.63</td><td>0.86</td><td>1</td></tr><tr><td>2</td><td>0</td><td>0.53</td><td>0.36</td><td>0.04</td><td>0.58</td><td>0.28</td><td>8</td></tr><tr><td>3</td><td>0.37</td><td>0</td><td>0.81</td><td>0</td><td>0.11</td><td>0.18</td><td>9</td></tr><tr><td>4</td><td>0.66</td><td>0.71</td><td>0.11</td><td>0.36</td><td>0</td><td>0.42</td><td>4</td></tr><tr><td>5</td><td>0.43</td><td>0.09</td><td>0.35</td><td>0.38</td><td>0.29</td><td>0.35</td><td>7</td></tr><tr><td>6</td><td>0.25</td><td>0.39</td><td>1</td><td>0.61</td><td>1</td><td>0.65</td><td>3</td></tr><tr><td>7</td><td>0.96</td><td>0.56</td><td>0</td><td>0.14</td><td>0.11</td><td>0.40</td><td>5</td></tr><tr><td>8</td><td>0.85</td><td>1</td><td>0.74</td><td>0.72</td><td>0.55</td><td>0.68</td><td>2</td></tr><tr><td>9</td><td>0.25</td><td>0.72</td><td>0.41</td><td>0.28</td><td>0.01</td><td>0.37</td><td>6</td></tr></table></body></html>
+
+# 2.3滨海盐渍土油葵主要农艺性状表型的差异
+
+对9个油葵品种苗期耐性能力鉴定结果显示,9个油葵品种的耐盐能力存在一定差异。为了进一步揭示在滨海盐渍土壤大田条件下油葵整个生育期的耐盐特点，进行了田间油葵综合农艺性状分析。在平均含盐量大于 $4 \ : \mathrm { g \cdot k g }$ ，中度盐渍土大田自然盐胁迫条件下,9份油葵种质的10个农艺性状差异表现各异。由表4可看出，在营养生长阶段9个油葵品种生育期最长为 $9 5 \mathrm { d }$ ，最短为 $8 2 { \mathrm { ~ d ~ } }$ ；株高最高 $2 0 5 \mathrm { c m }$ ，最低为$8 7 \mathrm { c m }$ ；茎粗最大为 $3 . 9 \mathrm { c m }$ ，最小为 $1 . 6 \mathrm { c m }$ ；叶片数最多为34片，最少为13片。各性状变异系数最小的为生育期 $( 4 . 4 8 \% )$ ，其他性状的变异系数相对较大。这可能由于在外界条件相同的情况下同一品种作物的生育期主要是由品种特性决定的，不容易受到环境的影响，是作物本身遗传特性所决定的，而株高和茎粗容易受到环境的影响。产量构成因子性状中，花盘直径最大为 $2 9 \mathrm { c m }$ ，最小为 $1 5 \mathrm { c m }$ ；百粒重最大为7.11g，最小为 $4 . 3 6 \ \mathrm { g }$ ；百粒仁重最大为 $7 . 1 1 \ \mathrm { g }$ ，最小为 $4 . 3 6 \ \mathrm { g }$ ；产量构成因子性状中变异系数和幅度均较大，说明盐碱地区品种产量较大差异的缘由多样。含油率性状中，皮壳率最大为 $3 7 . 6 3 \%$ ，最小为 $2 0 . 7 3 \%$ ；籽实含油率最大为 $4 9 . 5 8 \%$ ，最小为 $3 2 . 7 8 \%$ ；籽仁含油率最大为 $5 8 . 7 2 \%$ ，最小为 $45 . 9 4 \%$ ；变异幅度最大的为籽实含油率，达 $7 . 5 3 \%$ 。综合品种之间各主要性状变幅和变异系数均较大，表明盐碱胁迫条件下，不同油葵品种对盐胁迫的敏感程度差异较大，生长受到抑制程度不同，说明品种对生境的盐胁迫抵抗能力不同。
+
+9 份油葵品种的农艺性状结果(表5)表明，盐胁迫下品种之间的生育期存与对照差异显著 $( P { < } 0 . 0 5 )$ 只有1号和5号差异不显著。油葵3号、5号和7号株高差异不显著，而1号、2号、6号和9号与对照差异显著。油葵5号、7号和8号茎粗差异不显著，而2号、6号和4号差异显著。油葵1号和二号叶片数差异不显著,4号、6号和9号差异显著。油葵2号、3号、5号、6号、7号、和8号花盘直径差异不显著，而1号、4号和9号差异显著。油葵2号和8号百粒重差异不显著，其余均差异显著。油葵4号和6号百粒仁重差异不显著,5号、7号和9号百粒仁重差异不显著,3号和8号百粒仁重差异不显著。油葵1号和8号皮壳率差异不显著,3号和4号皮壳率差异不显著,2号和9号皮壳率差异不显著。油葵1号、3号和5号,2号、6号和9号,4号和8号籽实含油率差异不显著。油葵3号、4号,1号和2号,5号、8号和9号差异不显著。
+
+Table 4 Statistic summary of agronomic traits of oil sunflower varieties under coastal saline-alkali soil   
+
+<html><body><table><tr><td>性状</td><td>X</td><td>X</td><td>X</td><td>X4</td><td>X5</td><td>X6</td><td>X7</td><td>X8</td><td>X</td><td>X10</td></tr><tr><td>最大值 Maximum</td><td>95.00</td><td>205.00</td><td>3.90</td><td>34.00</td><td>29.00</td><td>9.64</td><td>7.11</td><td>37.63</td><td>49.58</td><td>58.72</td></tr><tr><td>最小值 Minimum</td><td>82.00</td><td>87.00</td><td>1.60</td><td>13.00</td><td>15.00</td><td>4.35</td><td>4.36</td><td>20.73</td><td>32.78</td><td>45.94</td></tr><tr><td>均值 Average 变幅</td><td>88.70</td><td>149.15</td><td>2.86</td><td>24.52</td><td>22.82</td><td>7.23</td><td>5.20</td><td>28.49</td><td>40.07</td><td>54.69</td></tr><tr><td>Amplitude of variation</td><td>13.00</td><td>118.00</td><td>2.30</td><td>21.00</td><td>14.00</td><td>5.30</td><td>2.75</td><td>16.90</td><td>16.80</td><td>12.78</td></tr><tr><td>变异系数 Coefficient Variation(%)</td><td>4.48</td><td>17.78</td><td>16.08</td><td>17.51</td><td>11.27</td><td>13.72</td><td>12.34</td><td>12.76</td><td>7.53</td><td>4.90</td></tr></table></body></html>
+
+$X _ { I }$ ：生育期； $X _ { 2 }$ ：株高； $X _ { 3 }$ ：茎粗； $X _ { 4 } { \mathrm { : } }$ 叶片数; $X _ { \xi } { \mathrm { : } }$ 花盘直径; $X _ { 6 }$ ：百粒重； $X _ { 7 }$ ：百粒仁重； $X _ { \delta }$ ：皮壳率； $X _ { 9 }$ ：籽实含油率; $X _ { I 0 } \mathrm { : }$ 籽仁含油率。同下。 $X _ { I }$ Growth period; $X _ { 2 }$ ：Plant height; $X _ { 3 }$ ：Stemdiameter; $X _ { 4 }$ ：Leaf number; $X _ { 5 }$ ：花Diameter of flower dish; $X _ { 6 }$ ：100-seed weight; $X _ { 7 } { \mathrm { : } }$ 100-seed kernel weight; $X _ { \delta }$ Percentage of shell; $X _ { 9 }$ : Seeds oil content; $X _ { I 0 } .$ Kernel oil content.The same below..
+
+表4滨海盐碱地油葵品种主要农艺性状表型统计量  
+表5滨海盐渍土不同油葵品种的农艺性状表现 Table 5Agronomic traits of different oil sunflower varieties under coastal saline soil   
+
+<html><body><table><tr><td>序号No.</td><td>X</td><td>X</td><td>X</td><td>X4</td><td>X5</td><td>X6</td><td>X7</td><td>X8</td><td>X9</td><td>X10</td></tr><tr><td>1</td><td>88.01±0.46e</td><td>1.5±0.1c</td><td>2.83±0.25b</td><td>28.3±1.62a</td><td>25.7±1.34a</td><td>9.28±0.24a</td><td>6.75±0.15a</td><td>28.33±1.01c 40.89±0.87b</td><td></td><td>56.05±0.45b</td></tr><tr><td>2</td><td>90.06±0.95d</td><td>1.5±0.1c</td><td>2.59±0.41c</td><td>29.7±2.87a</td><td>22.1±2.62b</td><td>7.04±0.32e</td><td>5.16±0.23c</td><td>24.91±1.59f</td><td>41.65±0.79a</td><td>56.12±1b</td></tr><tr><td>3</td><td>91.99±0.88c</td><td>1.7±0.19a</td><td>2.72±0.35b</td><td>25.8±1.78c</td><td></td><td>22.1±3.91b 6.66±0.37f</td><td>4.86±0.29d</td><td>27.77±1.14d 40.88±1.55b</td><td></td><td>57.74±0.55a</td></tr><tr><td>4</td><td>82.11±0.86h.</td><td>1.24±0.18d</td><td>2.2±0.3d</td><td>20.4±2.29e</td><td></td><td>21.4±2.37d 7.65±0.19c</td><td>5.51±0.17b</td><td>28.01±0.79d 39.82±1.09c</td><td></td><td>57.29±0.57a</td></tr><tr><td>5</td><td>88.03±0.54e</td><td>1.82±0.22a</td><td>3.21±0.32a</td><td>25.8±3.12c</td><td>23±2.05b</td><td>6.46±0.18f</td><td>4.77±0.16e</td><td>26.25±0.51e 40.34±1.03b</td><td></td><td>54.12±0.92c</td></tr><tr><td>6</td><td>84.22±0.55g</td><td>1.3±0.17d</td><td>2.62±0.29c</td><td>21.1±3.33d</td><td>23.3±1.85b</td><td>8.02±0.22b</td><td>5.42±0.13b</td><td>32.13±2.27b 41.46±5.08a</td><td></td><td>49.21±2.36e</td></tr><tr><td>7</td><td>87.01±0.44f</td><td>1.69±0.19ab</td><td>3.17±0.43a</td><td>23.6±3.29c</td><td>23.2±1.94b</td><td>7.27±0.23d</td><td>4.76±0.18e</td><td>35.45±1.55a 33.77±0.65d</td><td></td><td>52.91±0.97d</td></tr><tr><td>8</td><td>95.03±0.48a</td><td>1.66±0.13b</td><td>3.19±0.28a</td><td>27.6±1.85b</td><td>22.6±2.15b</td><td>6.86±0.18e</td><td>4.91±0.1d</td><td>28.74±0.86c 40.15±0.73c</td><td></td><td>54.5±0.51c</td></tr><tr><td>9</td><td>93.13±0.49b</td><td>1.3±0.09d</td><td>2.9±0.25b</td><td>23.2±2.14d</td><td>21.6±1.56c</td><td>5.87±0.55h</td><td>4.72±0.15e</td><td></td><td>24.81±3.08f 41.64±0.45a</td><td>54.3±0.91c</td></tr></table></body></html>
+
+同列不同字母表示.0水平差异显著。下同。Diffrentlettrsatesamecolumnrepresentsignificantdiffrenceat.Olevel.Thesamebelow.
+
+# 2.4滨海盐渍土油葵主要农艺性状间的相关性分析
+
+为了衡量滨海盐渍土条件下,9个油葵品种的主要农艺性状的相关密切程度，进行了相关性分析(表6)。结果表明，各性状至少与2个其他性状呈显著或极显著相关；显著性最高的是百粒重与百粒仁重，呈极显著正相关，相关系数为0.88；株高与叶片数、茎粗呈极显著正相关；花盘直径与百粒重、百粒仁重呈极显著正相关，与茎粗、叶片数呈显著正相关。籽仁含油率与籽实含油率均和皮壳率呈极显著负相关，生育期与产量构成因子呈极显著负相关。综合相关性分析结果，盐渍土条件下百粒重、百粒仁重、株高、叶片数、茎粗、花盘直径、籽仁含油率与籽实含油率均可以作为评价杂交油葵的抗盐碱性能力大小的指标。
+
+表6滨海盐渍土油葵品种主要农艺性状相关系数  
+Table6 Correlation coefficients between agronomic traits of oil sunflower varieties undercoastal saline-alkali soil   
+
+<html><body><table><tr><td></td><td>X1</td><td>X</td><td>X</td><td>X4</td><td>X5</td><td>X6</td><td>X7</td><td>X8</td><td>X9</td><td>X10</td></tr><tr><td>X1</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>X</td><td>0.31**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>X</td><td>0.43**</td><td>0.55**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>X4</td><td>0.35**</td><td>0.35**</td><td>0.31**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>X5</td><td>-0.06</td><td>0.01</td><td>0.20*</td><td>0.22*</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>X6</td><td>-0.51**</td><td>-0.18</td><td>0.04</td><td>-0.22*</td><td>0.36**</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>X7</td><td>-0.36**</td><td>-0.24*</td><td>0.12</td><td>-0.26*</td><td>0.34**</td><td>0.88**</td><td>1</td><td></td><td></td><td></td></tr><tr><td>X8</td><td>-0.35**</td><td>0.11</td><td>-0.26*</td><td>0.17</td><td>0.13</td><td>0.25*</td><td>0.02</td><td>1</td><td></td><td></td></tr><tr><td>X9</td><td>0.16</td><td>-0.20</td><td>0.20</td><td>-0.19</td><td>0.02</td><td>-0.02</td><td>0.21*</td><td>-0.50**</td><td>1</td><td></td></tr><tr><td>X10</td><td>0.21</td><td>0.11</td><td>0.34**</td><td>-0.13</td><td>-0.09</td><td>-0.06</td><td>0.12</td><td>-0.42**</td><td>0.15</td><td>1</td></tr></table></body></html>
+
+\*和\*\*表示相关性在 $\overline { { \mathrm { { P } } { < } 0 . 0 5 } }$ 和 $\scriptstyle \mathbf { P < } 0 . 0 1$ 显著。\* and \*\* indicate significant correlation at O.O5 and O.O1 levels(2-tailed),respectively.
+
+# 2.5滨海盐渍土油葵主要农艺性状间的聚类分析
+
+将试验材料的平均隶属函数经欧氏距离平均连锁法用 SPSS19.0 统计软件进行聚类分析，各个农艺性状表现根据欧氏距离<5 将滨海盐渍土种植的油葵品种分为3类(图1)，第1类群：油葵2号、3号、8号和9号共5个试验材料，生育期 $8 8 { \sim } 9 5 \mathrm { d }$ ，株高 $1 1 4 { \sim } 2 0 5 ~ \mathrm { c m }$ ，叶片数19\~34片，茎粗 $1 . 8 { \sim } 3 . 8 ~ \mathrm { c m }$ ，花盘直径 $1 5 { \sim } 2 9 ~ \mathrm { c m }$ ，百粒重 $4 . 3 5 \mathrm { g } { \sim } 7 . 6 6 \mathrm { g }$ ，籽实含油量 $3 7 . 8 5 \% { \sim } 4 3 . 5 \%$ ，籽仁含油率 $5 2 . 3 6 \% { \sim } 5 8 . 7 2 \%$ ，属于高油、中等产量、晚熟品种。第2类群：油葵7号、4号和6号共3个试验材料，生育期 82\~87d，株高90\~195cm，叶片数15\~27片，茎粗 $1 . 6 { \sim } 3 . 6 \mathrm { c m }$ ，花盘直径 $1 7 { \sim } 2 6 ~ \mathrm { c m }$ ，百粒重 $6 . 8 6 { \sim } 8 . 3 \ \mathrm { g }$ ，籽实含油量$3 2 . 7 8 \% { \sim } 4 9 . 5 8 \%$ ，籽仁含油率 $4 5 . 9 4 \% { \sim } 5 8 . 1 1 \%$ ，属于早熟、中等产量、低含油量品种。第3类群：油葵1号。生育期 $8 8 \mathrm { d }$ ，株高 $1 5 2 . 4 4 { \pm } 8 . 8 0 \mathrm { c m }$ ，叶片数 $2 8 . 3 0 { \pm } 1 . 6 2 \$ 片，茎粗 $2 . 8 3 { \pm } 0 . 2 5 \ \mathrm { c m }$ ，花盘直径 $2 5 . 7 { \pm } 1 . 3 5 \ \mathrm { c m }$ 、百粒重 $8 . 8 0 { \pm } 0 . 3 8 \ \mathrm { g }$ 、百粒仁重 $6 . 7 5 { \scriptstyle \pm 0 . 1 5 \ \mathrm { g } }$ ，籽实含油量 $4 0 . 8 8 { \pm } 0 . 8 7 \%$ ，籽仁含油率 $5 6 . 0 5 { \scriptstyle \pm 0 . 4 5 \% }$ ，属于高产、中熟、中等含油量品种。
+
+![](images/2ce88643eca4226796c724faeecb7f7dac255fac8043f78c70b63c248c0be01e.jpg)  
+图1在滨海盐渍土种植的9份油葵品种主要农艺性状间的聚类分析图
+
+Fig.1 Clustering analysis diagram of 9 oil sunflower accessions under coastal saline-alkali soil
+
+# 2.6不同油葵品种的主要农艺性状主成分分析
+
+# 2.6.1 特征根和特征向量分析
+
+从遗传相关矩阵的10个特征根中选取3个较大的(累计贡献率达 $6 9 \%$ )作为主成分，基本上保存了它们的生物信息。进一步的分析发现，主成分及其变异的大小与它们的信息大小相平行，因此可望利用主成分分析来研究各性状之间的关系。把彼此关联制约的10个性状简化为独立无关的主成分(表6)。
+
+# 表69个油葵品种10个农艺性状的特征根与特征向量
+
+Table 6 Eigenvalue and eigenvector from 1O agronomic traits of the 9 oil sunflower varieties   
+
+<html><body><table><tr><td colspan="4">特征根与特征向量Eigenvalue and eigenvector</td></tr><tr><td></td><td></td><td>22</td><td>23</td></tr><tr><td>λi</td><td>2.79</td><td>2.11</td><td>1.99</td></tr><tr><td>累计贡献率Cumulative contribution rate (%)</td><td>27.92</td><td>49.04</td><td>68.95</td></tr><tr><td>X</td><td>0.58</td><td>-0.43</td><td>0.42</td></tr><tr><td>X</td><td>0.76</td><td>-0.11</td><td>-0.1</td></tr><tr><td>X</td><td>0.75</td><td>0.24</td><td>0.46</td></tr><tr><td>X4</td><td>0.81</td><td>-0.1</td><td>-0.23</td></tr><tr><td>X5</td><td>0.39</td><td>0.63</td><td>-0.07</td></tr><tr><td>X6</td><td>-0.19</td><td>0.92</td><td>-0.11</td></tr><tr><td>X7</td><td>0.06</td><td>0.19</td><td>-0.85</td></tr><tr><td>X8</td><td>-0.2</td><td>0.90</td><td>0.18</td></tr><tr><td>X9</td><td>-0.15</td><td>0.1</td><td>0.71</td></tr><tr><td>X10</td><td>0.1</td><td>0.02</td><td>0.65</td></tr></table></body></html>
+
+由表6可以看出，入选的3个主成分对遗传方差的贡献率分别为 $2 7 . 9 2 \%$ 、 $2 1 . 1 2 \%$ 、 $1 9 . 9 2 \%$ ，依次称为第一、二、三主成分。第一主成分 $\lambda _ { 1 } = 2 . 7 9$ ，特征向量中性状组合系数以茎粗(0.81)、株高(0.76)、叶片数(0.75)、生育期(0.58)较大，可称之为生育期和形态因子，在选择品种和亲本时，该指标应适中，太大则生育期延长，太小则植株偏矮，茎秆偏细，叶片数少，光合产物少，影响产量；第二主成分 $\lambda _ { 2 } { = } 2 . 1 1$ ，性状组合系数中以百粒重(0.92)、百粒仁重(0.90)和花盘直径(0.63)最大，因这3个性状均为重要的产量性状，故称之为产量因子，选择品种或亲本时，该主成分值越大越好; $\lambda _ { 3 } { = } 1 . 9 9$ 主要分量来源为性状组合系数为籽实含油率(0.71)和籽仁含油率(0.65)，称之为籽粒品质因子，在品种和亲本选育过程中，此值越高越好。
+
+# 2.6.2品种主成分分析评价
+
+为了更好反映盐渍土条件下不同油葵品种的综合表现，对3个公因子 $Z _ { 1 }$ $\smash {  { Z _ { 1 } } _ { 3 }  { Z _ { 2 } } _ { 3 }  { Z _ { 3 } } }$ 得分进行加权求和权数取方差贡献值。综合得分 $Z { = } 0 . 2 8 { \times } Z _ { 1 } { + } 0 . 2 1 { \times } Z _ { 2 } { + } 0 . 2 0 { \times } Z _ { 3 }$ 。得到品种综合主成份分值(表7)，并进行排名比较。结合性状主成分特征值对应分析可知,9个品种大致分为3类。通过表7可以看出，参试品种生育期与形态因子 $Z _ { 1 }$ 主成份值以油葵1号、8号和3号居高，说明这3个品种的生育期较长，植株较高，茎秆粗壮，单株叶片多，具有较好的生育期与形态特征。产量因子主成份 $Z _ { 2 }$ 主成份值以油葵4号、9号和6号同庆1号’、‘矮大头 $9 6 5 0 ^ { \circ }$ 、‘NWS563居高，说明这3个品种花盘直径、百粒重百粒仁重与产量相关的性状较高，具有较好的的产量性状。籽粒品质因子主成份 $Z _ { 3 }$ 主成份值以油葵8号、3号和5号居高，说明这3个品种籽实含油率和籽仁含油率较高，可以作为油用向日葵高品质育种的指标。根据综合主成份值Z来看，油葵8号排名第1。以上综合得分评定结果与品种在田间的表现吻合。
+
+# 表79个油葵品种综合主成份值
+
+Table 7Comprehensive principal component values of 9 oil sunflower varieties   
+
+<html><body><table><tr><td>序号 NO.</td><td></td><td></td><td>Z3</td><td>Z</td><td>排名 Ranking</td></tr><tr><td>1</td><td>Z 2.38</td><td>Z2 -2.10</td><td>1.30</td><td>0.48</td><td>4</td></tr><tr><td>2</td><td>0.17</td><td>-0.15</td><td>0.99</td><td>0.21</td><td>5</td></tr><tr><td>3</td><td>0.50</td><td>-0.44</td><td>5.08</td><td>1.06</td><td>2</td></tr><tr><td>4</td><td>-1.36</td><td>1.20</td><td>-15.01</td><td>-3.12</td><td>8</td></tr><tr><td>5</td><td>0.00</td><td>0.00</td><td>4.33</td><td>0.86</td><td>3</td></tr><tr><td>6</td><td>-0.86</td><td>0.76</td><td>-18.90</td><td>-3.85</td><td>9</td></tr><tr><td>7</td><td>-0.20</td><td>0.18</td><td>-4.01</td><td>-0.82</td><td>6</td></tr><tr><td>8</td><td>0.96</td><td>-0.85</td><td>24.20</td><td>4.91</td><td>1</td></tr><tr><td>9</td><td>-1.04</td><td>0.92</td><td>-10.51</td><td>-2.19</td><td>7</td></tr></table></body></html>
+
+# 3结论与讨论
+
+特殊环境加之农艺性状复杂性极大地增加了种质资源选择的困难性和盲目性，但农艺性状表现优劣又是田间育种工作的主要依据。本研究首先采用防雨棚盐碱原土鉴定法，在土壤含盐量 $6 \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ 浓度下考察9个油葵品种的株高、叶面积、生物量，出苗率、出苗指数的变化，并进行苗期耐盐性鉴定。结果表明油葵在土壤含盐量 $6 \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ 浓度下能够正常生长，与Katerji等[21-22]最新评价的向日葵属于较耐盐的作物之一一致。但品种之间对盐的耐受能力差异较大，耐盐性排名前三位的品种为油葵1号、8号和6号。
+
+本研究基于苗期耐盐性鉴定的基础上，滨海盐渍土自然田间条件下进行农艺性状分析。农艺性状相关性分析表明各性状之间彼此都至少与2个其他性状呈显著或极显著相关，但相关系数普遍偏低。根据植物"源和库"的物质积累与分配关系[23-26]来说，作为"源"光合作用场所制造养分的相关性状(株高、茎粗叶片数)由于盐胁迫受到显著影响，而植株体为了抵抗盐害，维持各器官的功能发挥，要消耗体内大量的能量和有效营养物质，由此也改变了油葵的"库源关系”，最终表现为对"库"的经济产量影响(百粒重、皮壳率和含油率等性状)，阻滞它们的生长发育和积累。籽仁含油率与籽实含油率均和皮壳率呈极显著负相关，表明盐胁迫对含油率的影响较大，这与有关报道结果一致，陈炳东等[10]发现子实和籽仁含油率随土壤盐含量的增加而减小，并且对子实含油率影响较大。随着土壤含盐量的增加，作物的根量逐渐减少，根活力下降，作物获得的养分减少，导致油葵的品质下降。同时，由于养分的减少，导致油葵的空壳率增大，枇粒增多，皮壳变厚。雷中华等运用相关分析对20个向日葵杂交种的9个主要性状相互关系进行研究，认为向日葵产量育种应把重点放在增加单株粒重上，并选择高大的多叶片类型，而在高油的品质育种上提高出仁率应成为重要的育种指标。因此，盐渍土地区要想得到高含油率的油葵品种尤其要选择低皮壳率品种类型。另外，生育期与产量构成因子呈极显著负相关，表明油葵盐渍环境下生长时间越长受害越严重，越不利于产量提高，揭示了油葵前期的营养生长是盐胁迫的主要影响时期。因此，在盐渍土种植油葵抓苗和促苗壮是关键，同时在选择育种时应选择生育期短的品种。这与禹庆奎等提出的必须在油用向日葵营养生长期保证水、肥需要，使之植株粗壮繁茂，尤其是保证小花分化期水、肥的供给，增加单株粒数的结果一致。
+
+对生育期、株高、茎粗、百粒重、含油率等10个因子进行聚类分析，按成熟期、产量、品质综合分为高油中产晚熟品种、早熟中产低油品种和高产中熟中等含油量品种这3个类群。进行主成分分析， $Z _ { 1 }$ 作为生育期和形态因子，在选择品种和亲本时，该指标应适中，太大则生育期延长，太小则植株偏矮，茎秆偏细，叶片数少，光合产物少，影响产量；第二主成分 $Z _ { 2 }$ 越大产量将越高，并且是通过花盘大小、百粒重、百粒仁重来提高产量，故在选择品种或亲本时，该主成分值越大越好; $Z _ { 3 }$ 与籽实含油率籽仁含油率率呈正相关，与皮壳率呈负相关，在品种和亲本选育过程中，此值越高越好。另外，通过 $\lambda _ { 3 }$ 的性状组合系数，也可以看出在相同盐碱土环境下，油葵籽仁含油率受到的影响大于籽实含油率，与前人研究结果相吻合[10]。以本文所研究的9个油葵品种为例，在滨海盐渍土地区选育耐盐、稳产、优质的品种，应以 $Z _ { 1 }$ 和 $Z _ { 3 }$ （20较大, $Z _ { 2 }$ 适中为宜。综合主成份值综合按聚类分析结果分类排序，油葵8号、3号和5号排名前3位，评定结果与品种在田间的表现吻合。
+
+在育种实践中结合耐盐性鉴定结果，油葵8号和1号可以作为优异的种质资源在耐盐育种中加以利用，可作为滨海盐渍土地区油葵适宜品种。
+
+# 参考文献
+
+[1] 刘小京，刘孟雨．盐生植物利用与区域农业可持续发展[M]．北京：气象出版社,2002:1-19
+
+Liu XJ,Liu MY.Halophyte Utilizationand Regional Sustainable Developmentof Agriculture[M].Beijing: Meteorological Press,2002:1-19   
+[2] 杨劲松．中国盐渍土研究的发展历程与展望[J]．土壤学报,2008,45(5):837-845 Yang JS.Development and prospectofthe research onsalt-affcted soils in China.[J].ACTAPEDOLOGICASINICA,2008, 45(5): 837-845   
+[3] SCHNEITER.A.A. Sunflower Technology and Production[M].Madison, Wisconsin,USA,1997   
+[4]AbelardoJV,anHScottCC.Progressover2Oyearsofsunflowerbreeding incentralArgentina[J].FieldCrops Research,   
+2007,100(1): 61-72   
+[5] 刘宫社．向日葵研究与开发[M]．北京：中国科学技术出版社,1994 Liu GS.Recherche etdeveloppement du tournesolresearchand developmentofthe sunflower[M].Beijing: China scienceand technology press,1994.   
+[6] 雷中华，向理军，石必显．向日葵9个主要性状之间的相互关系分析[J]．新疆农业科学,2006,43(S1):31-33 Le Z H,XiangLJ,Shi B X.StudyonCorelationof Several Main Characters ofSunflower[J]. Xinjiang Agricultural Sciences, 2006, 43( S1):31-33   
+[7]Luan Z, XiaoM,Zhou Det al.Effects ofsalinity,temperature,and polyethylene glycol onthe seed germinationof   
+sunflower(Helianthus annuus L.)[J]. The Scientific World Journal, 2014,2014:170418   
+[8] 谛晋松，童文杰，周媛媛，等．河套灌区向日葵耐盐指标评价[J]．中国生态农业学报,2014,22(2):177-184 Ti JS,Tong WJ,ZhouYY,etal.Evaluationofsalinitytoleranceindexofsunflowerin Hetao Irigation District[J].Chinese Journal of Eco-Agriculture, 2014,22(2): 177-184   
+[9] 郭园，张玉霞，于华荣，等.13个油葵品种苗期生长、生理指标比较及抗盐碱性分析[J]．东北农业科学,2016, 41(4):32-36 Guo Y,Zhang Y X,Yu HR,et al. Analysis of Saline Resistanceand Comparisonof Growth and Physiological Indicatorsof13 Oil-Sunflower Varieties at Seeding Period[J].Journal of Northeast Agricultural Sciences,2016,41(4):32-36   
+[10]陈炳东，岳云，黄高宝，等．油葵含油率及脂肪酸组成与土壤盐含量的关系[J].中国油料作物学报,2007,29(4): 483-486 Chen BD,YueY,Huang GB,etal.Therelationship betweenoilcontentof Helianthus annuus L.andsaltconcentrationinsoil [J].Chinese journal of oil crop sciences, 2007,29(4): 483-486   
+[11] 马荣，王成，马庆，等．向日葵芽苗期离子对复合盐胁迫的响应[J]．中国生态农业学报,2017,25(5):720-729 MaR,Wang C,Ma Q,,et al. Ion response of sunflower at sprouting stage to mixed salt stress[J]. Chinese Journal of Eco-Agriculture, 2017, 25(5): 720-729   
+[12]张俊莲，张国斌，王蒂．向日葵耐盐性比较及耐盐生理指标选择[J].中国油料作物学报,2006,28(2):176-179 Zhang JL, Zhang GB, Wang D. Comparing sunflower salt tolerance and salt tolerance physiological indexes selection[J].Chinese journal of oil crop sciences,2006,28(2): 176-179   
+[13]孙志超，邢跃先，夏远锋，等．玉米杂交种几个农艺性状的主成分分析[J]．农业与技术,2014,34(8):129-130 Sun ZC, Xing YX,XiaYF,etal.Principalcomponent analysisonagronomic traits of maize hybrid[J].Agriculture and technology,2014,34(8):129-130   
+[14]梁万鹏，徐振飞，赫春杰，等．应用聚类分析和主成分分析法评价饲用高粱生产性能[J]．现代农业科技,2015,(8): 277-293 Liang WP,Xu ZF,HeCJ,etal.EvaluationofForage SorghumProduction Performance Using Cluster Analysisand Principal Component Analysis Methods[J]. Modern Agricultural Sciences and Technology,2O15,(8):277-293   
+[15]王军,王溯,王军强,等．花生品种主要农艺性状的主成分分析[J]．农业科技通讯,2015,(4):103-106 Wang J, Wang S,Wang JQ,etal. Principalcomponent analysis onagronomic traits ofpeanut varieties[J]. Agricultural science and technology communication, 2015,(4):103-106   
+[16]朱新明，常国军，何丹，等．应用聚类分析和主成分分析法评价洋葱新品种[J]．甘肃农业科技,2014,(10):25-28 Zhu X M, Chang GH, He D,et al. Evaluation of New Onion Varieties Using Cluster Analysis and Principal Component Analysis Methods[J]. Gansu Agr. Sci. and Techn,2014,(1O): 25-28   
+[17] 田智得，朱方容，林强.175 份桑树种质资源的结实性农艺性状主成分与聚类分析[J].蚕业科学,2010,36(1): 0001-0011 Tian ZD,ZhuFR,Lin Q.Principal Component and Cluster Analyses on Agronomic Traits of Fruiting of 175 Mulberry Germplasm Resources[J]. Science of Sericulture,2010,36(1): 0001-0011   
+[18]向长萍，谢军，聂启军，等.23 个苦瓜品种(系)农艺性状的主成分分析[J]．华中农业大学学报,2001,20(4):378-381 XiangCP,XiJ,NieQJ,etal.Principalcomponentanalysisonagronomictraitsof23bitergourdvarieties(lines)J].Joual of Huazhong Agricultural University, 2001, 20(4): 378-381   
+[19] 陈德明，俞仁培，杨劲松．盐渍条件下小麦抗盐性的隶属函数值法评价[J]．土壤学报,2002,39(3):368-374 Chen D M, Yu RP, Yang JS.The membership function value evaluation method ofunder the saltedstress on wheat[J]. Acta Pedologica Sinica,2002, 39(3): 368-374   
+[20] 杜强，贾丽艳.SPSS 统计分析从入门到精通[M]．北京：人民邮电出版社,2013:248-260   
+Du Q,Jia LY.SPSS statistic analysis from entry to master[M].Beijing: Posts and Telecom Pres,2O13:248-260   
+[21]KaterjiNvanHooJWHamdyA,etal.Salt toleranceclassificationofcropsaccordingtoilsalinityandtowaterstrss   
+day index [J] .Agric Water Manag,2000, 43: 99-109   
+[22] KaterjiN,vanHooJW,HamdyA,etal.Salt toleranceofcropsaccordingtothreeclasifiationmetodsandexaation   
+of some hypothesis aboutsalt tolerance [J]. Agric Water Manag, 2001, 47:1-8 [23]ReynoldsM,FulkesJ,FurbankR,etal.Achievngyieldgaisinwheat[J].PlantCellEnviron.2O12,35(0):17-7823. [24]MencucciniM,MiunnoFalmonY,etal.Coordinationofphsiologicaltraitsinvovedindrought-inducedmotalityof woody plants[J].New Phytol.2015,208(2): 396-409   
+[25]Reynolds M,Foulkes MJ,Slafer GA,etal.Raising yield potentialin wheat[J].JExpBot.2009; 60(7):1899-1918 [26]LiMH,XiaoWF,ShiP,etal.Nitrogenandcarbonsource-sinkrelationships intreesattheHmalyantreelinescompared with lower elevations[J].Plant Cell Environ. 2008,31(10):1377-1387

@@ -1,0 +1,406 @@
+[
+    {
+        "type": "text",
+        "text": "移动群智感知中时间窗口相关的参与者选择机制",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张立燊，孙学梅，邢倩(天津工业大学 计算机科学与软件学院，天津 300000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目前许多移动群智感知应用要求参与者收集一段时间内连续的感知数据，而现有研究在这方面却考虑不足。针对上述应用场景提出了时间窗口相关的参与者选择机制，主要包括基于动态规划算法设计了一种时间窗口相关的参与者选择方法，目标为覆盖任务时间段的同时最大化数据效益；参与者信誉值更新机制，根据参与者参与任务的意愿程度和数据质量更新参与者的信誉值。最后通过仿真实验与两种普遍应用的参与者选择方法比较，实验证明所提出的参与者选择机制在数据可靠性、数据效益和感知成本等方面具有更好的效果，因此所提出的参与者选择机制在时间窗口相关的任务中有更好的应用前景。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：移动群智感知；参与者选择；连续数据；动态规划 中图分类号：TP3 doi: 10.3969/j.issn.1001-3695.2018.07.0466 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Participant selection mechanism for time window dependent tasks in MCS ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhang Lishen, Sun Xuemei, Xing Qian (School of Computer Science & Software Engineering,Tianjin Polytechnic University,Tianjin 30o China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In manyapplications ofmobile crowd sensing,participants should collectcontinuous data overaperiodof time in this scenarioon which existing research lacks consideration.For this scenario,the paper proposes a participant selection mechanism which is time window dependent.This mechanism includes: aparticipant selection method which is time window dependent basedondynamic programming algorithm.Thetarget ofthe method is tomaximizedata benefits while cover time periodof thetask; Aupdating mechanism ofparticipant'sreputation given the willngnessand data qualityof the participant. Finally,simulationresults show thatcompared withtwo common selection mechanisms,the participant selection mechanism proposed has beter performance in terms ofdata reliability,data benefits and cost and has beter prospects. Key words: mobile crowd sensing; participant selection; continuous data; dynamic algorithm ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着智能设备和微电子技术的快速发展，智能设备具备了较大的存储空间以及一些先进的传感器，包括相机、温度传感器和步行计数器等[1]，参与者可以利用这些传感器来获取周围的环境数据，这催生了一种新的感知网络一移动群智感知。如图1所示，移动群智感知网络中包括任务发布者，云端平台和携带智能设备的参与者。任务发布者在平台发布任务并支付相应的费用，平台选择合适的参与者执行感知任务，最后参与者利用移动智能设备采集感知数据上传到云端平台并收取相应的报酬。移动群智感知网络相比传统感知网络具备很多优点[I]，并且已经在医疗方面、环境监测和交通运输等方面有了广泛的应用[2]-[6]。在移动群智感知实际应用中，许多任务对感知数据的完整性具有较高的要求，如交通监测和噪声监测。这些任务要求参与者收集一段时间内连续的感知数据这种时间窗口相关的任务对参与者选择方法提出了更高的要求。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/5c48f7e53e27fabedccc3c91f657947f3799ce310c1e4b8bf8a494efd32eb515.jpg",
+        "img_caption": [
+            "图1移动群智感知网络模型",
+            "Fig.1The model of mobile crowd sensing "
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "移动群智感知中合适的参与者集合能够保证感知任务高效、准确地完成，所以参与者选择方法一直是移动群智感知研究领域的重点问题之一，目前已经存在很多有关参与者选择问题的研究成果。文献[7]提出了一种参与者信誉度感知的数据收集机制，并划分直接发送和间接发送数据两类参与者，动态的更新参与者的信誉度来合理的选择任务参与者。文献[8]是在满足任务覆盖率要求的基础上，优化选取参与者的人数，减少任务的花销。文献[9]是研究了在点对点传输模式中的参与者选择问题，文献[10]提出了一种叫做UtiPay的视觉群智感知框架，从宏观和微观两方面对参与者和数据进行选择。文献[11]是根据参与者的历史活动轨迹数据，在感知区域中选择合适的参与者完成感知任务。但是上述研究成果均无法应用到时间窗口相关的任务中。文献[12]针对时间窗口相关的任务设计了MST算法，旨在满足收集连续数据的同时最小化感知成本，但是文献[12]中未考虑所选参与者的感知质量。针对以上研究的不足之处，本文针对时间窗口相关的任务提出来一种高效、合理的参与者选择方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文针对时间窗口相关的参与者选择问题，提出了一种参与者选择机制(participants selection for time window dependenttasks,PS-TWDT)，该机制主要包括两方面：a)基于动态规划算法的参与者选择方法，目标是在覆盖任务时间窗口的基础上最大化数据效益;b)参与者的信誉值更新机制，根据参与者执行任务的意愿程度和收集的数据质量更新参与者信誉值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 PS-TWDT模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1系统模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文假设任务发布者在平台发布了一个感知任务，要求收集 $N$ 个时间窗口内连续的感知数据， $| T |$ 表示一个时间窗口的长度。假设平台中有充足的参与者 $U = \\{ 1 , 2 , 3 , . . . n \\}$ ，每个参与者（204号 $i$ 表示为 $\\boldsymbol { u } _ { i } = \\{ [ t _ { i } ^ { 1 } , b _ { i } ^ { 1 } ] , [ t _ { i } ^ { 2 } , b _ { i } ^ { 2 } ] , . . . [ t _ { i } ^ { k } , b _ { i } ^ { k } ] \\}$ ，其中 $t _ { i } ^ { k } = \\{ t _ { s } ^ { k } , t _ { e } ^ { k } \\}$ 表示参与者 $u _ { i }$ 在第 $k$ 个时间窗口内的感知时间， $t _ { s } ^ { k }$ 为开始时间， $t _ { e } ^ { k }$ 为结束时间。 $b _ { i } ^ { k }$ 为参与者 $u _ { i }$ 在第 $k$ 个时间窗口内的报价。表1为常用参数。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/7568621f819a51138e9a49e825406b72aac444a3b4130e459ca5eeb5162fdb33.jpg",
+        "table_caption": [
+            "表1常用参数",
+            "Tablel Common parameters "
+        ],
+        "table_footnote": [
+            "因为移动群智感知网络中感知节点不再是专业人员部署的传感器设备，而是携带智能设备的普通群众，所以参与者提供"
+        ],
+        "table_body": "<html><body><table><tr><td>|T|</td><td>任务一个时间窗口的长度</td></tr><tr><td>U</td><td>参与者集合</td></tr><tr><td>t</td><td>表示参与者i在第k个时间窗口内的感知时间</td></tr><tr><td>bi</td><td>参与者i在第k个时间窗口的报价</td></tr><tr><td>ip</td><td>参与者i在第k个时间窗口内的可靠性</td></tr><tr><td>ri</td><td>参与者i信誉值</td></tr><tr><td>di</td><td>参与者i第k个时间窗口的感知数据量</td></tr><tr><td>k</td><td>参与者i第k个时间窗口的设备电量</td></tr><tr><td>Vk</td><td>第k个时间窗口数据效益</td></tr><tr><td>r</td><td>参与者i第k个时间窗口的信任状态反馈值</td></tr><tr><td>wi</td><td>参与者i第k个时间窗口的参与意愿程度</td></tr><tr><td></td><td>参与者i第k个时间窗口上传的数据质量</td></tr><tr><td>ci</td><td>参与者i第k个时间窗口所获得的报酬</td></tr><tr><td>ε,n,ω,2</td><td>数据的时效性，完整性，准确度和价值</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "的感知数据准确率低且存在个体差异。感知数据准确率的高低直接影响感知任务的结果，所以平台要合理地选择参与者以期满足任务要求的同时获得更可靠的感知数据。参与者的可靠性主要与两个因素有关，一是参与者自身的可信度，即参与者的信誉值，参与者的信誉值越高，感知数据的可靠性越高；二是参与者能够提供的感知数据量，数据量越大，高质量数据越多，数据可靠性越高。根据以上两点，本文定义参与者的可靠性如式(1)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\np _ { i } ^ { k } = { r _ { i } } * \\frac { d _ { i } ^ { k } } { \\left| t _ { e } ^ { k } - t _ { s } ^ { k } \\right| }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $p _ { i } ^ { k }$ 表示参与者 $u _ { i }$ 的在第 $k$ 个时间窗口的可靠性。 $r _ { i }$ 表示参与者的信誉值，参与者的信誉值反映了参与者过去执行任务的情况。式(1)中 $\\frac { d _ { i } ^ { k } } { \\left| t _ { e } ^ { k } - t _ { s } ^ { k } \\right| }$ 表示参与者在单位时间内感知的数据量。$d _ { i } ^ { k }$ 表示参与者 $u _ { i }$ 在第 $k$ 个时间窗口表示能够提供的感知数据量， $\\boldsymbol { d } _ { i } ^ { k }$ 主要由参与者携带的智能设备的电量决定[11，具体关系如式(2)所示。其中 $e _ { i } ^ { k }$ 为参与者 $u _ { i }$ 参与任务第 $k$ 个时间窗口时自身设备的初始电量， $\\alpha , ~ \\beta$ 是函数关系中的参数， $\\alpha$ 取8.179,$\\beta$ 取0.4633。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { i } ^ { k } = \\alpha ^ { * } ( e _ { i } ^ { k } ) ^ { \\beta }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2定义目标函数",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文针对的场景是有充足的参与者参与感知任务，需要对感知任务的参与者进行筛选。任务发布者要求在 $N$ 个时间窗口内收集连续的感知数据，所以在各个时间窗口内平台所选参与者的感知时间必须要连续覆盖该时间窗口，否则不满足任务要求。为得到更准确的感知数据，平台需要为每个时间窗口选择合适参与者，在满足任务要求的前提下最大化被选参与者的可靠性同时最小化感知成本，即是最大化平台的数据效益。每个时间窗口目标可以描述为一个优化问题如式(3)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM a x \\ V ^ { k } = \\frac { \\displaystyle \\sum p _ { i } ^ { k } } { \\displaystyle \\sum b _ { i } ^ { k } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { s . t . } & { { } T ^ { k } \\subseteq \\cup _ { i \\in S } [ t _ { s } ^ { k } , t _ { e } ^ { k } ] } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目标函数式(3)中 $p _ { i } ^ { k }$ 是参与者 $u _ { i }$ 的在任务第 $k$ 个时间窗口的感知数据可靠性， $b _ { i } ^ { k }$ 是参与者 $u _ { i }$ 在任务第 $k$ 个时间窗口的报价，本文定义一个时间窗口内被选参与者的数据可靠性总和与报价总和的比值为该时间窗口的数据效益，式(3)中 $\\boldsymbol { V } ^ { k }$ 表示在第 $k$ 个时间窗口的数据效益。约束条件(4)表示被选参与者的感知时间能够覆盖任务的第 $k$ 个时间窗口，其中 $T ^ { k }$ 表示任务的第$k$ 个时间窗口， $s$ 表示该时间窗口内被选参与者集合。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 算法描述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文依据参与者参与任务时能够感知的数据量和信誉值定义数据可靠性参数。本文目标是确保各个任务时间窗口所选参与者的感知时间连续覆盖该时间窗口，同时最大化各个时间窗□内的数据效益，最后根据所选参与者的报价支付报酬。参与者选择伪代码如算法所示，详细描述如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)初始化参与者集 $U$ ，对应感知时间窗口、报价、手机电量、信誉值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)计算参与者的感知数据量和感知数据可靠性。 c)将所有参与者按结束时间进行递增排序。 d)用动态规划算法选择数据效益最大的参与者集 $s$ 。 e)计算数据效益 $\\boldsymbol { V }$ 。 f)按所选参与者的报价给予参与者报酬。 g)算法结束，返回所选参与者集 $s$ ，数据效益 $\\boldsymbol { V }$ 。 算法 input: Set of users U Set of initial mobile phone battery E Set of initial credit value R Task duration T ourput: Selected paticipants S Data benefit V for $\\scriptstyle \\mathbf { i } = 1$ to N do （204号 $\\tt e _ { i }  c$ alculate amount of data value （204号 $\\mathsf { p } _ { \\mathrm { i } } \\gets \\mathsf { \\Omega }$ calculate data reliability value end for Sort U based on $\\ t _ { \\mathrm { e } }$ in the nondecreasing order for $\\textbf { i } = \\textbf { 1 }$ to N do if $\\mathsf { T } _ { \\mathsf { s } } \\in \\mathsf { \\Gamma } [ \\mathsf { t } _ { \\mathsf { s } 1 } , \\mathsf { t } _ { \\mathsf { e } \\mathrm { i } } ]$ then $\\mathsf { p r e } ( \\mathrm { i } ) \\gets ( - 1 ) , \\mathsf { P } ( \\mathrm { i } ) = \\mathsf { p } _ { \\mathrm { i } } , \\mathsf { B } ( \\mathrm { i } ) = \\mathsf { b } _ { \\mathrm { i } } ;$ else $\\begin{array} { r l } & { \\mathsf { p r e } ( \\mathbf { i } ) \\gets \\mathsf { a r g m a x } \\mathsf { t } _ { \\mathrm { e j } } \\mathsf { z t } _ { \\mathrm { s i } } , \\mathsf { j } < \\mathbf { i } \\mathsf { \\Gamma } ( \\mathsf { P } ( \\mathbf { j } ) + \\mathsf { p _ { i } } / \\mathsf { B } ( \\mathbf { j } ) + \\mathsf { b _ { i } } ) } \\\\ & { \\mathsf { P } ( \\mathbf { i } ) { \\gets } \\mathsf { P } ( \\mathsf { p r e } ( \\mathbf { i } ) ) \\ + \\mathsf { p _ { i } } , \\mathsf { B } ( \\mathbf { i } ) { \\gets } \\mathsf { B } ( \\mathsf { p r e } ( \\mathbf { i } ) ) { + } \\mathsf { b _ { i } } } \\end{array}$ end if end for （204号 $\\mathrm { ~ i ~ } \\gets$ arg max Te∈ [tsj,tei],j∈U (P(j)+pi/B(j)+bi) V←P(i)/B(i) while $\\textbf { i } \\neq - 1$ （20 $\\mathsf { S } \\gets \\mathsf { S } \\cup \\{ \\mathsf { i } \\} , \\mathsf { i } { \\gets } \\mathsf { p r e } ( \\dot { \\mathsf { i } } )$ （204号 for all $\\mathbf { i } \\in \\mathsf { U }$ do $c _ { \\mathrm { i } } \\gets 0$ （204号 end for for all $\\mathbf { i } \\in \\mathsf { S }$ do $\\mathsf { c } _ { \\mathrm { i } } \\epsilon \\mathsf { b } _ { \\mathrm { i } }$ （20 end for return $( \\mathsf { S } , \\mathsf { V } )$ （204号 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 信誉值更新机制",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文将参与者的信誉值定义为 $r _ { i }$ ，量化为[0,1]的数值，信誉值为0表示完全不可信，0.5表示不确定，1表示完全可信，设置首次参加感知任务的参与者初始信誉值设置为0.5，表示初始时信誉度不确定。为使参与者的信誉值更能准确的反映参与者的可信度，本文设计了信誉值更新机制，在每个任务时间窗口后根据参与者的执行情况更新参与者的信誉值。在介绍信誉值更新机制前，首先介绍信任状态反馈值。信任状态反馈值定义分为两部分：参与意愿程度和数据质量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1参与意愿程度",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参与意愿程度如式(5)所示， $w _ { i } ^ { k }$ 表示参与者 $u _ { i }$ 在第 $k$ 个时  \n间窗口内参与感知任务的积极程度。其中 $\\left| { \\frac { t _ { e } ^ { k } - t _ { s } ^ { k } } { T } } \\right|$ 表示第 $k$ 个时（20  \n间窗口内参与者参与感知任务的时间比例，时间比例越大，参  \n与任务的积极性越高。为了避免单因素衡量参与意愿程度带来  \n的片面影响，本文加入参与者参与第 $k$ 个时间窗口时的移动设  \n备当前电量 $e _ { i } ^ { k }$ ，电量越多，参与感知任务的积极程度越高。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { i } ^ { k } = e _ { i } ^ { k } * \\left| \\frac { t _ { e } ^ { k } - t _ { s } ^ { k } } { T } \\right|\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2数据质量",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数据质量如式(6)所示， $\\theta _ { i } ^ { k }$ 表示参与者 $u _ { i }$ 在第 $k$ 个时间窗□提供的数据质量，包括时效性 $\\boldsymbol { \\varepsilon } _ { i } ^ { k }$ ，完整性 $\\eta _ { i } ^ { k }$ ，准确度 $\\omega _ { i } ^ { k }$ 和价值 $\\lambda _ { i } ^ { k }$ 四个因素，本文将这四个因素简单量化为[0,1]中的数值，0 表示参与者收集的数据时效性差，不完整，不准确，没有价值，数据质量完全不可靠，1表示收集的数据时效性好，完整、准确、有价值，数据质量完全可靠。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta _ { i } ^ { k } = \\varepsilon _ { i } ^ { k } * \\eta _ { i } ^ { k } * \\omega _ { i } ^ { k } * \\lambda _ { i } ^ { k }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3 信任状态反馈值 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "信任状态反馈值的计算方法根据参与者在任务中的信任状态与任务中其他被选参与者的平均信任状态相比较得到的，如式(7)所示。 $r _ { i } ^ { k }$ 表示参与者 $u _ { i }$ 参与第 $k$ 个时间窗口后所得到的信任状态反馈值。参与者 $u _ { i }$ 的意愿程度和数据质量越高，越能准确可靠地完成感知任务，此时的信任状态反馈值越高。此外，信任状态与参与者所获报酬呈反比，参与者所获报酬越高平台收集数据成本越高，不利于感知任务的完成，此时的信任状态较低。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr _ { i } ^ { k } = \\log _ { 2 } ( \\frac { w _ { i } ^ { k } + q _ { i } ^ { k } } { c _ { i } ^ { k } } + 1 ) - \\log _ { 2 } ( \\sum \\frac { w _ { i } ^ { k } + q _ { i } ^ { k } } { c _ { i } ^ { k } } + 1 )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.4信誉值更新 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在每个任务时间窗口结束后，平台根据本时间窗口内参与者的信任状态反馈值更新参与者当前的信誉值，定义如式(8)所示[13]，更新后的信誉值将作为参与者参与下一个时间窗口的信誉值。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr _ { i } = \\frac { 1 } { \\pi } \\arctan ( r _ { i } + r _ { i } ^ { k } ) + \\frac { 1 } { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4 实验验证 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文针对时间窗口相关的参与者选择问题提出了一种参与者选择机制PS-TWDT。为验证本文所提出的参与者选择机制的有效性，在MATLABR2016a实验环境下进行仿真实验。在本文所述的应用场景中，MST[I2]和随机选择参与者（random)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "是两种常用的选择方法，所以在仿真实验中将本文所提出的PS-TWDT与MST、随机选择参与者（random）在数据可靠性、数据效益和感知成本三方面进行比较。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在仿真实验中假设任务发布者要求收集某一地区连续十天6时到18时空气质量的数据。此外，在任务的每个时间窗口内均为平台模拟100名参与者，设置参与者的感知时间在6时与18 时之间随机分布，参与者的报价服从区间[1,10]上的均匀分布。参与者的设备电量服从[1,100]上的均匀分布。在每个时间窗口结束后，根据参与者的感知情况更新参与者的信誉值，评价参与者感知情况的时效性、完整性、准确度和价值均服从[0,1]上的均匀分布。每个任务时间窗口内分别使用PS-TWDT、MST和随机选择参与者(Random)三种方法为任务选择参与者。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1数据可靠性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在验证数据可靠性方面，得到图2、3两个数据可靠性随任务时间窗口数增加的变化趋势图。在图2中纵坐标为单个时间窗口内被选参与者的平均数据可靠性。在图2中可以明显看到本文所提PS-TWDT选择方法在各个时间窗口内的平均数据可靠性方面优于MST和Random两种方法，这是因为在本文所提算法的选择过程中要充分考虑参与者的数据可靠性，在每一个时间窗口内都是基于动态规划算法选择当前数据可靠性和高的参与者。在图3中，随着任务执行时间窗口数的增加，本文所提的PS-TWDT选择方法在数据可靠性总和方面累计增加速度明显优于另外两种选择方法。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/86916f53256711ee2d4fab4ae0e1a732eecc01db33f6d47241ba78d3282a0bf9.jpg",
+        "img_caption": [
+            "图2平均数据可靠性"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9d1f98784c5acab2238fca45deecf041149f0a1e9c7fe49c685ea300ea4e5c57.jpg",
+        "img_caption": [
+            "Fig.2Average of data reliability ",
+            "图3累计数据可靠性",
+            "Fig.3Accumulation of data reliability "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2数据效益",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在数据效益方面，得到图4、5两个数据效益随任务时间窗□数增加的变化趋势图。在图4中纵坐标是单个时间窗口内被选参与者的数据效益。虽然本文所提PS-TWDT选择方法的数据效益波动较大，但是在各个时间窗口内的数据效益都优于MST 和Random 两种方法。因为在PS-TWDT中加入了信任状态更新机制，使得在连续的执行任务中每次选择参与者都是信誉值较高的，同时也是数据可靠性较高的，又由于是采用的动态规划算法，在各个时间窗口内选择的可靠性总和与报价和的比值是最大的，所以最后选择的参与者的数据效益是最高的。在图5中，随着任务执行时间窗口数的增加，本文所提的PS-TWDT选择方法在数据效益方面累计增加速度明显优于另外两种选择方法，并且差距逐渐增大。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cee6eb7bc90d78241364e98d2c26efcec30f9c5fd0bf3363c8caf9c4e8417145.jpg",
+        "img_caption": [
+            "图4平均数据效益"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/256e1ef2a0c4feb4e19fe1fdd7f91d11a9cd9fa031273de4201bf2d22d3b63e8.jpg",
+        "img_caption": [
+            "Fig.4Average of data benifit ",
+            "图5累计数据收益率",
+            "Fig.5Accumulation of data benefit "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.3平均花费",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在平均数据花费上，得到图6平均数据花费随任务时间窗□数增加的变化趋势图。在图6中可以看到本文所提的PS-TWDT与 MST在平均数据花费上相差不多且远低于Random方法。这是因为在选择参与者过程中，本文所提参与者选择机制和MST都是采用动态规划的算法，选择参与者时将报价考虑在内，而Random方法不考虑报价，它的平均数据花费就高于另外两种方法，同时它的波动范围也最大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "文针对移动群智感知中时间窗口相关的参与者选择问题提出了一种参与者选择机制PS-TWDT。将参与者的一些自身因素纳入选择考虑的范围之中，同时又引入了信誉值更新机制，实现每次执行完任务后动态更新参与者的信誉值，提高了收集的数据可靠性和数据效益。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/83c52dabcd403526d7242d17dc83c45f7c31fc54cd35f29bcdb1bf3591b564c7.jpg",
+        "img_caption": [
+            "图6平均数据花费",
+            "Fig.6Average of data cost "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Khan WZ,Yang Xiang,Aalsalem MY,etal.Mobile phone sensing systems: a survey[J].IEEE Communications Surveys& Tutorials,2013,15(1):402- 427.   \n[2]Lane N D,Miluzzo E,Lu H,et al.A survey of mobile phone sensing [J]. IEEE Communications Magazine,2010,48 (9):140-150.   \n[3]Duan Zhuojun，Li Wei,Cai Zhipeng.Distributed auctions for task assignment and scheduling in mobile crowdsensing systems [C]// Proc of IEEE International Conference on Distributed Computing Systems. Piscataway,NJ: IEEE Prewss,2017: 635-644.   \n[4]Wang Yingjie.Cai Zhipeng.Yin Guisheng,et al.An incentive mechanism with privacy protection in mobile crowdsourcing systems [J].Computer Networks,2016,102:157-171.   \n[5]Duan Zhuojun, Yan Mingyuan, Cai Zhipeng. Truthful incentive mechanisms for social cost minimization in mobile crowdsourcing systems [J]. Sensors, 2016, 16 (4): 481.   \n[6]Zhang,Lichen,Wang,Xiaoming,Lu,Junling,et al.An efficient privacy preserving data aggregation approach for mobile sensing [J]. Security and Communication Networks,2016,9(16):3844-3853.   \n[7]杨静，李鹏程，闫俊杰.参与者信誉度感知的 MCS 数据收集机制[J]. 工程科学学报,2017,39 (12):1922-1934.(Yang Jing,Li Pengchen,Yan Junjie.MCS data collection mechanism for participants ’reputation awareness [J]. Chinese Journal of Engineering,2017,39 (12):1922-1934)   \n[8]Zhang Daqiong, Xiong Haoyi, Wang Leye, et al. CrowdRecruiter: Selecting Participants for Piggyback Crowdsensing under Probabilistic Coverage Constraint [C]// Proc of ACM International Joint Conference on Pervasive and Ubiquitous Computing.New York: ACM Press,2014: 703-714.   \n[9]Wang Yu,Li Hanshang,Li Ting,et al.Participant selection for data collction through device-to-device communications in mobile sensing [J]. Personal and Ubiquitous Computing,2017,21(1): 31-41.   \n[10] Guo Bin,Chen Huihui，Han Qi.Worker-contributed data utility measurement for visual crowdsensing systems [J].IEEE Trans on Mobile Computing,2017,16 (8): 2379-2391.   \n[11] Liu C H, Zhang Bo,Su Xin,et al. Energy-aware participant selection for smartphone-enabled mobile crowd sensing [J].IEEE Systems Journal,2015: 1-12.   \n[12] Xu Jia,Xiang Jinxin, Yang Dejun. Incentive mechanisms for time window dependent tasks in mobile crowdsensing [J]. IEEE Trans on Wireless CommunicatioNS,2015,14 (11): 6353-6364.   \n[13] Champaign J,Cohen R,Zhang Jie,et al. The validation of an annotations approach to peer tutoring through simulation incorporating the modeling of reputation [J]/ Proc of the 19th International Conference on Computer in Education,Asia-Pacific Society for Computers in Education.2011: 1-5. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

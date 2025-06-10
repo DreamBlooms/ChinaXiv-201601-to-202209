@@ -1,0 +1,523 @@
+[
+    {
+        "type": "text",
+        "text": "FAST工程主动反射面健康监测系统中温度信号多元回归估",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "测\\* ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孙晓'，王清梅²，李振伟'，乔峰'，楚敬敬（1.青岛科技大学自动化与电子工程学院，山东青岛 266061；2.中国科学院国家天文台，北京100012)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：大型结构健康监测系统中，温度测点故障会造成安全隐患。基于FAST工程主动反射面健康监测系统，提取并分析了9个测点数据间的线性相关性，将候选变量分组并选择最优回归子集，建立多元线性回归模型，融合正常测点数据对故障测点进行估测。针对变量间多重共线性问题进一步应用了岭回归法，选定岭参数为6。使用F检验与拟合度检验了模型显著性和有效性，使用不同时日数据验证了模型的估测精度。结果证明，多元线性回归模型比单变量具有更高的拟合度与精度，均方根误差为 $0 . 4 7 5 ^ { \\circ } \\mathsf { C }$ ，岭回归法稳定性更高，均方根误差仅为 $0 . 4 3 5 ^ { \\circ } \\mathsf { C }$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：500米口径球面射电望远镜；温度传感器；结构健康监测；多元线性回归；岭回归中图分类号：TP277；TP111.44 文献标志码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "结构健康监测是通过布设大量传感器，监测并评估结构当前状态的一种技术，在工程结构的安全监测中有着广泛应用。500米口径球面射电望远镜FAST(Five-hundred-meterAperture Spherical Telescope)大型射电望远镜为口径500米具有主动反射面的大型钢结构工程。文献[2]讨论了FAST工程结构受力复杂性，由于其结构特殊、空间跨度大且环节众多，在观测过程中主动反射面受控变形致结构受力复杂，为保证其安全工作，建设了主动反射面健康监测系统，通过监测关键结构的应力与坏境信息，实现FAST望远镜的健康状态评估。文献[3]指出，在索网施工过程中，该系统所监测圈梁实时应力最大约60Mpa，始终小于设计安全值201.5Mpa，保持在安全范围内，并指出了温度信号对应力分析的重要性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在FAST运行期间，工作过程中索网主动变形会使结构受力更为复杂，以2019年7月份监测数据为例，所有圈梁格构柱测点应力值最大值为137.37Mpa，最小值为-135.88Mpa，仍处于安全范围内，但部分测点应力变化范围较大，应力变化最大的测点其极差为167.17Mpa。在望远镜后续工作中，应力的监测对结构实时健康状态评估、长期疲劳损伤评估等仍具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "大型工程结构空间尺寸大，不同部位温升不同，温差与温度效应会使结构应力发生较大变化，文献[4]指出FAST工程结构中，温度荷载对圈梁结构的刚度起控制作用，分布测点温度信息是评估结构状态的重要依据[5]。且在FAST工程中，应用了416只光纤Bragg光栅(FiberBragg Grating,FBG)应变传感器[6监测应力，共包含圈梁及格构柱应力测点100只，主索索力测点316只，虽测点分布位置不同，但所有测点均需根据不同测点的实际温度补偿应变传感器的温度应变交叉敏感问题，文献[7]进一步讨论了分离结构应力的温度效应对状态评估的必要性，温度信息缺失将直接导致测点应变信息不可靠。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "实际工程现场环境复杂，大量传感器长期工作，传感器及数据通道存在一定故障率。检修发现，FAST主动反射面健康监测系统已有个别光纤光栅解调仪出现故障，且存在数只传感器数据异常，已确定异常测点数目占比约为 $5 \\%$ ，使部分监测数据无法正常获取。但受限于现场施工条件，以及部分测点安装位置特殊，故障传感器常无法第一时间修复，数据的缺失将导致健康监测系统性能下降，形成安全隐患。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "使用临近测点值代替故障测点温度信息，就FBG传感器而言，因其常串联布设，若数据通道发生损坏，会使临近的一组传感器均失效。使用较远传感器监测值代替，存在距离过远，光照影响温差较大，代替不准确等问题，这也是每测点都布设温度传感器的原因。实现故障测点的温度信号准确估测，对提高健康监测系统可靠性有着重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1传感器布设与数据提取分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FAST主动反射面结构健康监测系统圈梁格构柱关键应变测点的温度信息，使用FBG温度传感器监测。传感器工作原理是外界温度引起光栅周期以及有效折射率发生变化，使反射波长偏移，通过测量中心波长变化量，获取传感器所测温度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为有效探究远距离布设的温度测点之间的相关性，提取FAST边缘圈梁支承格构柱对应测点的温度信息，每个被监测的格构柱提取一路测点信息，FAST工程圈梁格构柱共50个，有10个格构柱装有测点，被测格构柱编号与测点分布如图1所示，传感器安装于如图2所示圈梁支座处的靠内侧的水平拉杆中的绿色杆件，测点之间最远距离为 $5 0 0 \\mathrm { m }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d9879b687464f7c012e019299d2fdf7be59c792a7f876ccccf834761408f1ea5.jpg",
+        "img_caption": [
+            "图1测点分布示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Distribution map of measuring points ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f47361bd90e6e46af75d407c0cbe8b6300ceb39b07093edeff35539a4f9d4ba.jpg",
+        "img_caption": [
+            "图2传感器安装位置Fig.2 Sensor mounting position"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "监测系统数据采集频率为1Hz，为降低数据量，滤除高频干扰，且避免由于数据长度不统一造成的分析困难。对原始数据进行平均处理，平均时窗为10min，取每10分钟内温度数据平均值作为该时刻温度数据，每测点每日得144个数据样本。提取2019年7月份监测数据，对应记作 $T _ { _ { 1 \\# } } \\sim T _ { 4 6 \\# }$ ，其中31#格构柱测点因采集通道检修关闭无数据记录，共提取9个测点信息。因环境温度循环周期往往为昼夜，按天对数据进行分组，7月16日数据如图3所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ba8867f33a073f5d1112f3e5f1dc104e53b3c251c8e64de609a1543e502fa13c.jpg",
+        "img_caption": [
+            "图3温度监测数据",
+            "Fig.3 Temperature monitoring data "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "可见不同测点之间温差较大，最大温差超过 $5 \\mathrm { { ^ { \\circ } C } }$ ，波动规律也有一定区别，但其趋势大体一致。两数据样本分别记作 $X = [ x _ { 1 } , x _ { 2 } , . . . , x _ { n } ]$ ， $Y = [ y _ { 1 } , y _ { 2 } , . . . , y _ { n } ]$ ，计算不同样本间线性相关性，相关系数公式为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr _ { x , y } = { \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } ( x _ { i } - { \\overline { { x } } } ) ( y _ { i } - { \\overline { { y } } } ) } { \\sqrt { \\displaystyle \\sum _ { i = 1 } ^ { n } ( x _ { i } - { \\overline { { x } } } ) ^ { 2 } \\sum _ { i = 1 } ^ { n } ( y _ { i } - { \\overline { { y } } } ) ^ { 2 } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $n$ 为样本长度， $\\overline { { x , y } }$ 为各自均值，得不同测点温度数据相关系数矩阵如表1，可见不同测点之间存在高度线性相关，相关系数最低为0.959。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/a4e7fd3f57f5fa36a93ce6cd80f1762c0f62eb3205cd2f13ca5c02fa8a774e77.jpg",
+        "table_caption": [
+            "表1不同测点温度数据相关系数矩阵表",
+            "Tab.1 Correlation coefficient matrix of temperature data "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>T1#</td><td>T6#</td><td>T11#</td><td>T16#</td><td>T21#</td><td>T26#</td><td>T36#</td><td>T41#</td><td>T46#</td></tr><tr><td>T1#</td><td>1.000</td><td>0.973</td><td>0.986</td><td>0.969</td><td>0.982</td><td>0.984</td><td>0.997</td><td>0.996</td><td>0.996</td></tr><tr><td>T6#</td><td>0.973</td><td>1.000</td><td>0.980</td><td>0.981</td><td>0.974</td><td>0.984</td><td>0.967</td><td>0.969</td><td>0.982</td></tr><tr><td>T11#</td><td>0.986</td><td>0.980</td><td>1.000</td><td>0.991</td><td>0.993</td><td>0.988</td><td>0.981</td><td>0.975</td><td>0.985</td></tr><tr><td>T16#</td><td>0.969</td><td>0.981</td><td>0.991</td><td>1.000</td><td>0.994</td><td>0.992</td><td>0.959</td><td>0.959</td><td>0.972</td></tr><tr><td>T21#</td><td>0.982</td><td>0.974</td><td>0.993</td><td>0.994</td><td>1.000</td><td>0.995</td><td>0.974</td><td>0.973</td><td>0.981</td></tr><tr><td>T26#</td><td>0.984</td><td>0.984</td><td>0.988</td><td>0.992</td><td>0.995</td><td>1.000</td><td>0.977</td><td>0.980</td><td>0.988</td></tr><tr><td>T36#</td><td>0.997</td><td>0.967</td><td>0.981</td><td>0.959</td><td>0.974</td><td>0.977</td><td>1.000</td><td>0.996</td><td>0.995</td></tr><tr><td>T41#</td><td>0.996</td><td>0.969</td><td>0.975</td><td>0.959</td><td>0.973</td><td>0.980</td><td>0.996</td><td>1.000</td><td>0.997</td></tr><tr><td>T46#</td><td>0.996</td><td>0.982</td><td>0.985</td><td>0.972</td><td>0.981</td><td>0.988</td><td>0.995</td><td>0.997</td><td>1.000</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 线性回归模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 模型简介",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当变量之间高度线性相关时，常用线性回归方法建模，自变量个数为1时，记为 $| x \\rrangle$ ，因变量记作y，其一般模型记为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny = \\beta _ { 0 } + \\beta _ { 1 } x + \\varepsilon\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\beta _ { 0 }$ ， $\\beta _ { 1 }$ 为模型系数， $\\varepsilon$ 为随机误差。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "健康监测温度估测应用中，受光照不均匀的影响，一元回归在某些时刻预测精度较差[8]。引入更多变量，综合不同测点的温度影响，可取得更优的预测结果。当变量个数为多个X， $\\boldsymbol { x } _ { 2 } , . . . , \\ \\boldsymbol { x } _ { p }$ ，称为多元线性回归[9，模型记为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny = \\beta _ { 0 } + \\beta _ { 1 } x _ { 1 } + \\beta _ { 2 } x _ { 2 } + . . . + \\beta _ { p } x _ { p } + \\varepsilon\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\beta _ { 0 } ,$ $, \\beta _ { 1 } , . . . , \\beta _ { p }$ 为系数， $p$ 为变量个数，当获得 $n$ 组数据时，模型可简记为矩阵形式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny = X B + E\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY = { \\left( \\begin{array} { l } { y _ { 1 } } \\\\ { y _ { 2 } } \\\\ { \\mathbf { M } } \\\\ { y _ { n } } \\end{array} \\right) } B = { \\left( \\begin{array} { l } { \\beta _ { 0 } } \\\\ { \\beta _ { 1 } } \\\\ { \\mathbf { M } } \\\\ { \\beta _ { n } } \\end{array} \\right) } E = { \\left( \\begin{array} { l } { \\varepsilon _ { 1 } } \\\\ { \\varepsilon _ { 2 } } \\\\ { \\mathbf { M } } \\\\ { \\varepsilon _ { n } } \\end{array} \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX = { \\left( \\begin{array} { l l l l } { 1 } & { x _ { 1 1 } } & { \\Lambda } & { x _ { p 1 } } \\\\ { 1 } & { x _ { 1 2 } } & { \\Lambda } & { x _ { p 2 } } \\\\ { \\mathbf { M } } & { \\mathbf { M } } & { \\mathbf { O } } & { \\mathbf { M } } \\\\ { 1 } & { x _ { 1 n } } & { \\Lambda } & { x _ { p n } } \\end{array} \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：Y为因变量向量， $X$ 为自变量矩阵， $B$ 为各自变量系数向量， $E$ 为随机误差向量，随机误差项符合正态分布 $\\varepsilon _ { i } \\sim N ( 0 , \\sigma ^ { 2 } ) , i = 1 , 2 , . . . , n$ 。舍去误差项的影响，最小二乘法求解模型的自变量系数，系数向量估计为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { \\boldsymbol { B } } = ( \\boldsymbol { X } ^ { T } \\boldsymbol { X } ) ^ { - 1 } \\boldsymbol { X } ^ { T } \\boldsymbol { Y }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用所得自变量估计系数值 $\\hat { \\beta } _ { 0 } , \\hat { \\beta } _ { 1 } , . . . , \\hat { \\beta } _ { p }$ 即可建立经验回归方程：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { \\Vec { y } } = \\hat { \\Vec { \\beta } } _ { 0 } + \\hat { \\beta } _ { 1 } x _ { 1 } + . . . + \\hat { \\beta } _ { p } x _ { p }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $x _ { 1 } \\sim x _ { p }$ 为自变量输入值， $\\hat { \\bf y }$ 为模型输出估测值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对提取的9个测点数据，取其一测点作为因变量即被估测点，其余作为自变量输入，即可通过训练建立多元线性回归模型，当被估测点数据缺失时，可利用自变量输入，对其信号进行估测。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 最优自变量选取 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将1#格构柱测点作为被估测点，其余8个测点温度信息作为候选变量，其模型变量的不同分组子集有 $2 ^ { 8 } - 1$ 种。利用16日数据训练模型，将变量按照相关性降序排列逐个增加，划分为8组。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "结合 $C _ { p }$ 统计量和 $R _ { a } ^ { 2 }$ 自由度调整复决定系数两选取准则来确定最优变量的子集：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { p } = ( n - m - 1 ) \\frac { R S S _ { p } } { R S S _ { m } } - n + 2 p\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $n { = } 1 4 4$ 为样本长度， $\\scriptstyle m = 8$ 为全部待选变量个数， $p$ 为模型所选变量个数， $R S S _ { { _ m } }$ 为选择全部变量建模的残差平方和， $R S S _ { p }$ 为模型残差平方和。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { a } ^ { 2 } = 1 - \\frac { n - 1 } { n - p - 1 } ( 1 - R ^ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $R ^ { 2 }$ 为复决定系数即模型拟合度：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR ^ { 2 } = 1 - \\frac { R S S } { T S S }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中：TSS为因变量 $\\scriptstyle \\mathrm { y = } T _ { 1 \\# }$ 离差平方和。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR S S = \\sum _ { i = 1 } ^ { n } ( y _ { i } - { \\hat { y _ { i } } } ) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT S S = \\sum _ { i = 1 } ^ { n } ( y _ { i } - { \\overline { { y } } } ) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $y _ { i }$ 为实际值， $\\hat { y } _ { i }$ 为模型预测值， $\\overline { { y } }$ 为实际值均值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "变量分组与对应模型 $C _ { p }$ 和 $R _ { a } ^ { 2 }$ 数值如表2所示，选取 $C _ { p }$ 最小且 $R _ { a } ^ { 2 }$ 最大，即为最优变量子集，可见八元作为变量时模型拟合度最优。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/30365d1ef8c3bd4f2b6f5129029a68fde87029b673daf24d25c7857b9b3e5acc.jpg",
+        "table_caption": [
+            "表2变量分组与模型 $C _ { p }$ 、 $R _ { a } ^ { 2 }$ 数值",
+            "Tab.2 Variable grouping and $C _ { p }$ ， $R _ { a } ^ { 2 }$ value of model "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Groups</td><td>Variables</td><td>C</td><td>R</td></tr><tr><td>Univariate</td><td>T36#</td><td>130.51</td><td>0.9937</td></tr><tr><td>Two variables</td><td>T36#,T41#</td><td>98.498</td><td>0.9944</td></tr><tr><td>Three variables</td><td>T36#,T41#,T46#</td><td>56.04</td><td>0.9954</td></tr><tr><td>Four variables</td><td>T11#,T36#,T41#,T46#</td><td>20.95</td><td>0.9963</td></tr><tr><td>Five variables</td><td>T11#,T26#,T36#,T41#,T46#</td><td>22.01</td><td>0.9963</td></tr><tr><td>Six variables</td><td>T11#,T21#,T26#,T36#,T41#,T46#</td><td>22.01</td><td>0.9963</td></tr><tr><td>Seven variables</td><td>T6#,T11#,T21#,T26#,T36#,T41#,T46#</td><td>13.29</td><td>0.9965</td></tr><tr><td>Eight variables</td><td>T6#,T11#,T16#,T21#,T26#,T36#,T41#,T46#</td><td>7</td><td>0.9967</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3多重共线性问题与岭回归模型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表1知，所有测点两两之间均存在极强相关性，对于多元线性回归模型，会因多重共线性使模型稳定性出现问题，即对模型可能存在一组数 $k _ { 0 } , k _ { 1 } , . . . , k _ { p }$ 使：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk _ { 0 } + k _ { 1 } x _ { 1 i } + . . . + k _ { p } x _ { p i } \\approx 0 , ( i = 1 , 2 , . . . , n )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "此时设计矩阵秩 $r a n k ( X ) < p + 1$ ，意味着公式(7)中 $\\vert \\boldsymbol { X } ^ { T } \\boldsymbol { X } \\vert \\approx \\boldsymbol { 0 }$ ，而模型系数向量估计矩阵 $\\hat { \\mathbf { \\xi } } _ { B } ^ { \\wedge } \\hat { \\mathbf { \\xi } } _ { }$ 方差矩阵 $D ( \\stackrel { \\wedge } { B } ) = \\sigma ^ { 2 } ( X ^ { T } X ) ^ { - 1 }$ ，此时方差阵对角元素过大，使自变量系数向量B的估计精度下降，模型对输入数据的细小变化会过于敏感，预测结果不确定性增加，模型的稳定性和精确度降低。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "岭回归法针对多元线性回归模型中的多重共线性问题进行了优化[10],向量系数岭估计定义为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overset { \\wedge } { B } ( \\lambda ) = ( X ^ { T } X + \\lambda I ) ^ { - 1 } X ^ { T } Y\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\lambda > 0$ 称为岭参数。可见给 $X ^ { T } X$ 增加了一个正常数矩阵L2范数惩罚项，保证$X ^ { T } X + \\lambda I$ 满秩可逆，接近奇异程度比原矩阵减小。 $X ^ { T } X + \\lambda I$ 随着岭参数增大而增大，模型方差减小，但向量系数估计值 $\\hat { \\mathbf { \\xi } } _ { B } ^ { \\wedge }$ 将偏离原值，使模型偏差增大， $\\lambda = 0$ 模型退化为普通多元线性回归模型，在应用时，需合理选取岭参数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "应用岭迹法，将8个自变量回归系数对应岭迹绘制如图4所示，按原则选取使所有向量系数稳定的最小的一个岭参数值，确定 $\\lambda = 6$ ，建立岭回归模型。由图4可见，变量 $T _ { 6 \\# }$ 、 $T _ { 2 6 \\# }$ （204系数趋近于0，说明岭回归法训练期间，对自变量有筛选作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ca87468913a3d7748f89f6f431dc943b9010543a13bbc96bf2cc3fadf4970a3.jpg",
+        "img_caption": [
+            "图4岭迹图Fig.4 Ridge parameter map"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4模型检验与评价 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1检验与评价指标",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "多元线性回归模型建立后，需判断模型是否可靠，通过F检验确定模型建立的回归方程显著性，统计量公式为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF = \\frac { E S S / p } { R S S / ( n - p - 1 ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中：RSS为模型残差平方和，ESS为回归平方和， $\\mathrm { \\ n = 1 4 4 }$ 为样本长度， $\\mathrm { \\ p } { = } 8$ 为所选变量个数。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE S S = \\sum _ { i = 1 } ^ { n } ( { \\stackrel { \\wedge } { y } } _ { i } - { \\stackrel { - } { y } } ) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\hat { \\mathbf { y } } _ { i }$ 为模型预测值， $\\mathit { \\Pi } _ { y } ^ { - }$ 为实际值均值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "模型拟合度 $R ^ { 2 }$ 检验，见公式(11)，值越接近于1说明模型拟合度越高。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以 $\\mathrm { T } _ { 1 \\# }$ 数据作为被估测点，其他测点数据作为输入变量。使用16日数据训练建立模型，并对17日、18日数据进行估测检验，使用均方根误差RMSE评价模型的估测效果，其值越小说明模型预测效果越好：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR M S E = \\sqrt { \\frac { 1 } { n } \\sum _ { i = 1 } ^ { n } ( y _ { i } - \\hat { y _ { i } } ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2 测试结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对照前述分组，建立从一元到八元不同类型的线性回归与岭回归模型，并对模型进行估测效果评价，检验及模型估测结果见表3。 $F$ 检验统计量最低为4972.29，依旧远大于查表所得 $F _ { a } ( 1 , 1 3 5 ) { = } 3 . 9 1 1$ ，所有模型通过显著性检验。拟合度均在0.99以上，满足拟合度要求。随着融合变量的增加，模型测试的RMSE也随之减小。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/db687c1d0687e02be078c985fd9a2088b96113a09402fdc3618b6e4bfc03b366.jpg",
+        "table_caption": [
+            "表3模型检验与应用测试结果",
+            "Tab.3 Model test and application results "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\"></td><td colspan=\"3\">16th model fitting 17th estimate</td><td rowspan=\"2\">18th estimate</td><td rowspan=\"2\">Estimated mean value RMSE/C</td></tr><tr><td>Groups</td><td>Ftest</td><td>R² Fitting degree</td><td>RMSE/C</td><td>RMSE/C</td><td>RMSE/C</td></tr><tr><td>Univariate</td><td>22517.92</td><td>0.9937</td><td>0.2</td><td>0.68</td><td>0.66</td><td></td><td>0.67</td></tr><tr><td>Two variables</td><td>12784.23</td><td>0.9945</td><td>0.19</td><td>0.71</td><td></td><td>0.56</td><td>0.635</td></tr><tr><td>Three variables</td><td>10411.94</td><td>0.9955</td><td>0.17</td><td>0.52</td><td></td><td>0.46</td><td>0.49</td></tr><tr><td>Four variables</td><td>9593.81</td><td>0.9964</td><td>0.15</td><td>0.52</td><td></td><td>0.44</td><td>0.48</td></tr><tr><td>Five variables</td><td>7665.63</td><td>0.9964</td><td>0.15</td><td>0.52</td><td></td><td>0.45</td><td>0.485</td></tr><tr><td>Six variables</td><td>6878.33</td><td>0.9967</td><td>0.15</td><td></td><td>0.53</td><td>0.43</td><td>0.48</td></tr><tr><td>Seven variables</td><td>5876.86</td><td>0.9967</td><td>0.15</td><td>0.53</td><td></td><td>0.43</td><td>0.48</td></tr><tr><td>Eight variables</td><td>5418.98</td><td>0.9969</td><td>0.14</td><td></td><td>0.52</td><td>0.43</td><td>0.475</td></tr><tr><td>Ridge regression</td><td>4972.29</td><td>0.9966</td><td>0.15</td><td></td><td>0.46</td><td>0.41</td><td>0.435</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中，一元、八元线性回归、岭回归模型的预测效果可见如图5所示，预测曲线与真实值几乎重叠，几种模型均可较好的跟踪估测信号，岭回归法模型精度更高。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7a20acc2a0fe40fe3f50a8d3f4c9d19f2201caafb6d95a7055c71b6d8c36c51a.jpg",
+        "img_caption": [
+            "图5真实值与模型预测值对比 Fig.5 Comparison of true value and model predicted value "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5结语 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "提取FAST工程主动反射面健康监测系统中跨度 $5 0 0 \\mathrm { m }$ 范围布设的9个测点温度监测数据，分析知两两间存在极强的线性相关性，将1#测点作为被估测点，研究了融合其余测点数据对其估测的方法，并对比了不同变量集时模型的估测效果。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "多元线性回归对比一元的回归模型，无论是在拟合度还是实际估测应用中，都具有更好的效果，当输入变量增加至三元时，测试中RMSE ${ < } 0 . 5 \\mathrm { { ^ { \\circ } C } }$ 。而岭回归对比原始多元线性回归，模型拟合度略有降低，但可有效避免变量间的多重共线性问题，对比17、18日数据的测试，其预测精度要更优于多元回归，算法具有更强的抗干扰能力，稳定性好，两日平均RMSE仅为 $0 . 4 3 5 ^ { \\circ } \\mathrm { C }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "结果表明，当某测点出现故障时，可使用岭回归法利用近期历史数据训练并建立多元线性回归模型，将正常测点温度信息作为输入，对故障测点输出值进行估测。方法具有较高精度，可用于补充健康监测系统缺失的节点温度信息，在故障测点维修期间保持健康监测系统的正常工作。但该方法使用近期日期数据进行拟合预测，只能作为测点故障后短期的替补方案，若测点故障过久，可用数据时日相差较大，由于日照天气差别等原因，设备温度场变化规律迁移，估测精度将较低，长期数据缺失的估测方法仍需进一步研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]NANRD.Five Hundred MeterAperture Spherical Radio Telescope (FAST)[J].Science in China:Series G:Physics Mechanics ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "&Astronomy,2006,49(2):129-148[2]王晓琳，李东平，朱明，等．FAST主动反射面健康监测系统设计与应用研究[J]．广西科技大学学报,2018,29(4):84-91.WANG XL,LIDP,ZHUM,etal.Design andapplicationof health monitoringsystemof mainreflectorsystemforFAST[J].Journal of Guangxi university of Science and Technology,2O18,29(4)：84-91.[3]王玉婷，王启明，朱明，等．光纤光栅传感器在 $5 0 0 \\mathrm { m }$ 口径球面射电望远镜工程索网施工阶段的应用[J]．中国机械工程,2016,27(20):2760-2764.WANGYT,WANGQM,ZHUM,etalApplicationofFiber Grating SensorinConstruction StageofCable NetforFAST[J].ChinaMechanical Engineering,2016,27(20):2760-2764.[4]赵保庆，王启明，李志恒，等．FAST圈梁支承结构性能理论与实验研究[J]．工程力学，2018,35(S1):200-211.ZHAO B Q,WANG QM,LIZH,etal.PerformanceresearchofFASTring beambytheoreticaland experimental[J].EngineringMechanics,2018,35(S1):200-211.[5]王惠,宁云炜，闫浩．26 米天线座架温度分布规律及变形影响分析[J]．天文研究与技术，2018,15(02)：208-215.WANG H,NINGYW,YANH.TemperatureDistributionand DeformationImpact Analysis of26m Antenna Frame[J].Astronomicalresearch and technology,2018,15(02):208-215.[6]孙晓，王启明，吴明长，等．光纤 Bragg 光栅应变计在 500 米口径球面射电望远镜工程索力监测中的应用[J]．光学精密工程，2015，23(4):919-925.SUN X,WANG QM,ZHUMet al.Aplication of optical fiber Bragg grating strain gauge tocable force monitoringofFAST[J].Optics and Precision Enginerring,2015.23(4):919-925.[7]王清梅，朱明，王启明，等．FAST 主动反射面健康监测系统数据处理方法研究及应用[J].天文研究与技术，2017,14(2) :164-171.WANGQM,ZHUM,WANGQM,etal.Researchand applicationofData Processing Methodof the Health Monitoring Systemforthe Main Active Reflector of FAST[J].Astronomical research and technology,2017,14(2)：164-171.[8]郭忠臣，孙朋，李致春，等．预报模型及建模序列长度对钟差短期预报精度影响研究[J]．天文研究与技术，2020,17(03):299-307.GUO ZC,SUNP,LIZC,etal.Researchonthe InfluenceofPrediction Modeland Modeling SequenceLengthon Short-termPrediction Accuracy of Clock Bias[J].Astronomical research and technology,2020,17(O3):299-307.[9]肖霞，伍兴国．线性回归中多重共线性的几何解释[J]．统计与决策，2021(21):46-51.XIAOX,WUXGGeometricInterpolatonofulticollnarityinLinearRegresion[J].Statistcs&Decision,22:46-51.[10]HOERLAE,KENNARDRW.Ridge regression:aplicationfornon-orthogonal problems[J].Techometrics,97(12):69-72.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Multi-linear regression model to estimate temperature signal in FAST project active reflective surface health monitoring system ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Sun Xiao1,Wang Qingmei²,Li Zhenwei1,Qiao Feng',Chu Jingjing1 (1.Colege of Automationand Electronic Enginering,Qingdao UniversityofScienceand Technology,Qingdao 26061, China;2.National Astronomical Observatories,Chinese Academy of Science,Beijing 10ool2,China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The temperature measurement point malfunction in the large-scale structural health monitoring system could cause safety hazards. The paper extracts 9 temperature measurement points’ data of the FAST project active reflective surface health monitoring system and analyzes the linear correlation of them. In order to establish a multiple linear regression model, the variables are grouped and the optimal subset is selected. The fault measuring point is estimated by fusing the normal measuring points’ data. Focusing to the multiple colinear issue between variables,the ridge regression method is applied and the ridge parameter is set to 6. Using F-test and fit-degree,the significance and validity of models are tested. Based on different time data, the estimation accuracy is verified. The results show the multiple linear regression model has a higher degree of fit and accuracy than one variable model, considering its RMSE is $0 . 4 7 5 ^ { \\circ } \\mathrm { C }$ .Besides, the ridge regression model is more stable, considering its RMSE is $0 . 4 3 5 ^ { \\circ } \\mathrm { C }$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Five-hundred-meter Aperture Spherical Telescope(FAST); temperature sensor; health monitoring system; multiple linear regression; ridge regression ",
+        "page_idx": 6
+    }
+]

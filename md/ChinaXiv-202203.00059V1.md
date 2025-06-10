@@ -1,0 +1,197 @@
+# 碳氮源对花榈木胚性愈伤组织诱导、发育及有机物积累的影响
+
+吴高殷1,2，韦小丽 $^ { 1 , 3 ^ { * } }$ ，王晓1,3，韦忆1,3（1．贵州大学林学院，贵阳 550025；2.贵州师范大学生命科学学院，贵阳 550025;3．贵州省森林资源与环境研究中心，贵阳550025）
+
+摘要：研究花榈木体胚发生过程中不同碳氮源处理对胚性愈伤组织诱导、发育和有机物积累的影响，旨在筛选出有利于花榈木体胚发生的碳氮源，优化体胚发生体系。以成熟胚为外植体，通过单因素试验分析3种碳源、4种蔗糖浓度和6种氮源处理下胚性愈伤组织诱导、发育和有机物积累的差异。结果表明：（1）蔗糖中胚性愈伤组织诱导率显著高于葡萄糖和麦芽糖，但其体胚诱导率、体胚分化率、胚性愈伤组织可溶性糖、淀粉和可溶性蛋白含量差异不显著。（2）随着蔗糖浓度的升高，胚性愈伤组织、体胚诱导率、体胚分化率、胚性愈伤组织重量和可溶性蛋白含量呈先升高后降低的趋势，均以添加 $3 0 \mathrm { g } \bullet \mathrm { L } ^ { - 1 }$ 蔗糖最高，而胚性愈伤组织可溶性糖和淀粉含量呈增加的趋势。（3）在6种氮源处理中，胚性愈伤组织诱导率以添加 $5 0 0 \mathrm { m g \cdot L ^ { - 1 } }$ 谷氨酰胺的处理最高，体胚诱导率则以添加谷氨酰胺和水解酪蛋白的处理较高，但不同氮源处理间体胚分化率无差异；添加有机氮源的处理其胚性愈伤组织可溶性蛋白含量显著高于无氮源处理。总之，不同的碳氮源通过影响花榈木胚性愈伤组织的诱导、发育和有机物的积累，从而影响其体胚诱导率，但对体细胞胚分化率影响不显著。初步认为 $3 0 \mathrm { ~ g \cdot L ^ { - 1 } }$ 蔗糖和 $5 0 0 \mathrm { m g \cdot L ^ { - 1 } }$ 谷氨酰胺作为碳氮源可促进花榈木体胚发生诱导。
+
+关键词：花榈木，体胚发生，胚性愈伤组织，碳氮源，有机物中图分类号： $\mathrm { S } 7 2 3 . 1 + 3$ 文献标志码：A 文章编号：
+
+# Effects of carbon and nitrogen sources on the induction, development and organic matter accumulation of embryogenic callus in Ormosia henryi
+
+Wu Gaoyin1,2Wei Xiaoli 1,3\*Wang Xiao1,3Wei Yi1,3   
+(1. College of Forestry, Guizhou University, Guiyang Guizhou 550025 China; 2. Collge of Life   
+Science, Guizhou Normal University, Guiyang Guizhou 550025 China; 3. Institute for Forest Resources & Environment of Guizhou, Guiyang Guizhou 550025 China)
+
+Abstract: In order to study the effects of different carbon and nitrogen sources treatments on the embryogenic callus (EC) induction, development and organic matter accumulation during somatic embryogenesis (SE） process in Ormosia henryi， for screening the carbon and nitrogen sources conducive to SE and optimize SE system in O.henryi. Mature embryos were used as explants in $O$ ，henryi, the differences of EC induction, development and organic matter accumulation under three kinds of carbon sources， four kinds of sucrose concentration and six kinds of nitrogen sources treatments were analyzed by single factor experiment. The results were as follows: (1) EC induction rate in medium supplemented with sucrose was significantly higher than with glucose and maltose,while there was no significant difference in SE induction rate，SE differentiation rate and the contents of soluble sugar， starch and soluble protein with EC.(2) With the increase of sucrose concentration, EC, SE induction rate,SE differentiation rate,EC weight and soluble protein content first increase and then decrease, which was the highest in $3 0 \mathrm { ~ g \cdot L ^ { - 1 } }$ sucrose, while the soluble sugar and starch contents of EC showed an increasing trend. （3） In 6 kinds of nitrogen sources treatments，EC induction rate was the highest in $5 0 0 \mathrm { m g \cdot L ^ { - 1 } }$ glutamine, SE induction rates were higher in glutamine and casein hydrolysate, but there were no difference in SE differentiation rates, the soluble protein content of EC in the treatment with organic nitrogen source was significantly higher than that in the treatment with without organic nitrogen source. In summary, the different carbon and nitrogen sources affected the induction, development and the organic matter accumulation of EC,and affected SE induction rate, but there were no significant differences in the SE differentiation rate. It was preliminarily considered that $3 0 { \mathrm { ~ g ~ } } \cdot { \mathrm { L } } ^ { - 1 }$ sucrose and $5 0 0 \mathrm { m g \cdot L ^ { - 1 } }$ glutamine as carbon and nitrogen sources can promote SE induction in $O$ henryi.
+
+Key words: Ormosia henryi, somatic embryogenesis, embryogenic callus,carbon and nitrogen sources, organic matter
+
+花榈木（Ormosia henryi）属豆科（Fabaceae）红豆属（Ormosia）常绿乔木，材质致密、坚硬、纹理美丽，为我国珍贵用材树种，是制作高档家具和工艺品的重要原材料，其根、枝、叶均可入药，具有较高的经济、药用和生态价值。由于花榈木种皮坚硬，透水性差，野生自然资源稀少，大小年现象严重，自然更新困难，生长缓慢，且成年树木易遭砍伐和破坏，造成现有野生自然资源濒临灭绝状态。为保护它们现有自然资源多样性和解决种质资源不足问题，当下迫切需要进行保护和繁殖，而无性繁殖为解决生产实践中资源匮乏问题和供需矛盾提供了出路。其中，组织培养技术具有繁殖速度快、产量高、利于种质资源保存和遗传转化（Vasilenko et al.,2000；Keshvari etal.,2018）等优点，在林木的扩繁研究和运用中具有重要作用。前人对同为豆科植物的红豆树（Ormosiahosiei）、香合欢（Albiziaodoratissima)等的组织培养技术进行了研究，但仍存在愈伤组织分化率、不定芽增殖率、生根率低等问题（习洋等，2012；许倩，2020；桂平，2018）。
+
+花榈木无性繁殖中，赵正霞（2007）和文虹等（2020）分别对花榈木埋根和嫁接技术进行了研究，高丽等（2009）和乔栋（2016）初步建立了组织培养再生体系，但再生植株的数量有限，其技术尚不成熟，且生产成本高，难以实现产业化。体细胞胚胎发生作为一种高效的体外再生方法，是体细胞在体外培养形成胚性愈伤组织，经胚胎发生和胚胎发育形成大量胚状体的过程，对产业化生产、胚胎发育和细胞全能性研究具有重要意义。先前的研究建立了花榈木体胚发生再生体系（Wuetal.,2020；吴高殷等，2020），较深入探讨了花榈木体胚发生的生理机理，揭示了可溶性糖、淀粉和可溶性蛋白是花榈木体胚发生的物质基础（Wuetal.,2021）。前人在三叶无患子（Sapindus trifoliatus）（Asthana et al.,2017）、北美鹅掌楸（Liriodendron tulipifera）（Kim et al.,2011）和斐济果（Feijoa sellowiana）（Vesco＆Guerra,2001）等物种体细胞胚培养研究中发现，可溶性糖、淀粉和可溶性蛋白这些有机物含量受碳氮源及浓度的影响（Iraqi&Tremblay,2001），从而影响体胚诱导率。由此推测碳氮源及浓度与体胚诱导率及其生理变化有关，但它们如何调控花榈木体胚诱导及其有机物积累的机理尚未可知。因此，本研究以花榈木成熟胚作为外植体，采用单因素试验，分别以3种碳源、4种蔗糖浓度和6组氮源添加至胚性愈伤组织、体细胞胚和体细胞胚分化诱导培养基中，通过分析不同碳氮源处理下胚性愈伤组织诱导率、体胚诱导率及有机物积累的差异，拟探讨以下问题：（1）碳氮源对花榈木体胚诱导率是否具显著影响？（2）碳氮源是否影响花榈木胚性愈伤组织有机物积累，从而对体胚诱导起作用？旨在筛选花榈木体胚发生诱导适宜的碳氮源，进而为优化花榈木体胚再生体系提供参考依据。
+
+# 1材料与方法
+
+# 1. 1 试验材料
+
+于2017年11月采摘贵州省孟关（ $\cdot 1 0 6 ^ { \circ } 2 5 ^ { \prime } 1 2 " \mathrm { N }$ ， $2 6 ^ { \circ } 1 4 ^ { \prime } 2 3 " \mathrm { ~ E ~ }$ ，Alt: $1 1 1 2 \mathrm { m }$ ）同一株花榈木种子。浓硫酸浸泡种子 $^ { \textrm { 1 h } }$ ，回收浓硫酸，自来水洗净种子， $7 5 \%$ 乙醇处理 $1 \mathrm { m i n }$ ， $2 \%$ NaClO 处理 $8 \mathrm { m i n }$ ，无菌水清洗5次，无菌水浸泡种子 $2 4 \mathrm { h }$ 使其吸胀，在超净工作台上使用接种工具剥取成熟胚，备用。
+
+# 1.2 研究方法
+
+# 1.2.1 花榈木体胚发生诱导过程
+
+（1）胚性愈伤组织诱导：以成熟胚为外植体，接种至胚性愈伤组织诱导培养基中。胚性愈伤诱导培养基参考 ${ \sf W } { \sf u }$ et al.（2020）的配方： ${ \bf B } _ { 5 }$ 培养基、 $0 . 2 \ \mathrm { m g \cdot \ L ^ { - 1 } }$ 6-BA、 $2 . 0 \operatorname* { m g } \cdot \mathrm { L } ^ { - 1 } 2 , 4 \mathrm { - D }$ 和 $2 . 5 \ \mathrm { g \cdot L ^ { - 1 } }$ 结冷胶，暗培养， $( 2 5 \pm 2 ) \textrm { \textdegree C }$ 。第25d统计胚性愈伤组织诱导率；（2）体细胞胚诱导：将（1）中胚性愈伤组织转接至体细胞胚诱导培养基，体细胞胚诱导培养基参考Wuetal.（2020）的配方：B5培养基、$0 . 5 \mathrm { m g } \cdot \mathrm { L } ^ { - 1 } \mathrm { K T }$ 、 $1 . 0 \mathrm { m g } \cdot \mathrm { L } ^ { - 1 } 2 , 4 \mathrm { - D }$ 和 $2 . 5 \ \mathrm { g \cdot L ^ { - 1 } }$ 结冷胶，暗培养， $( 2 5 \pm 2 ) \textrm { ‰}$ 。培养4周后统计体细胞胚诱导率；（3）体细胞胚分化诱导：将（2）中体细胞胚转接至体细胞胚分化诱导培养基，体细胞胚分化诱导培养基参考Wuetal.（2020）的配方：B5 培养基， $0 . 5 \mathrm { m g \cdot L ^ { - 1 } }$ TDZ， $0 . 2 \ \mathrm { m g \bullet L ^ { - 1 } N A A }$ ，光照强度 $2 0 \mu \mathrm { m m } ^ { - 2 } \mathrm { s } ^ { - 1 }$ ，$1 6 \mathrm { h } \cdot \mathrm { d } ^ { - 1 }$ ； $6 0 { \mathrm { d } }$ 后统计体细胞胚分化率。
+
+# 1.2.2 不同碳氮源添加的试验设计
+
+在上述培养的（1）、（2）和（3）阶段均添加不同碳源、不同浓度蔗糖和有机氮源，具体设计为：
+
+（1）碳源：分别添加 $3 0 \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ 蔗糖（T1）、 $3 0 \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ 葡萄糖（T2）和 $3 0 \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ 麦芽糖（T3）。
+
+（2）蔗糖浓度：分别添加 $2 0 \ g \cdot \mathrm { L } ^ { - 1 }$ 蔗糖（C1）、 $3 0 \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ 蔗糖（C2）、 $4 0 \ \mathrm { g \cdot L } ^ { - 1 }$
+
+蔗糖（C3）和 $5 0 \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ 蔗糖（C4）。
+
+（3）有机氮源：分别添加 $0 . 5 \ \mathrm { g \cdot L ^ { - 1 } }$ 谷氨酰胺Gln（N1）、 $0 . 5 \ \mathrm { g \cdot L ^ { - 1 } }$ 水解酪蛋白 $\mathrm { C H } \left( \mathrm { N } 2 \right) , 0 . 5 \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ 水解乳蛋白LH（N3）、 $0 . 2 5 \mathrm { g } \cdot \mathrm { L } ^ { - 1 } \mathrm { G l n } + 0 . 2 5 \mathrm { g } \cdot \mathrm { L } ^ { - 1 } \mathrm { C H } \left( \mathrm { N } 4 \right)$ 、$0 . 2 5 \mathrm { ~ g \cdot L ^ { - 1 } G } \mathrm { l n } + 0 . 2 5 \mathrm { ~ g \cdot L ^ { - 1 } L H ~ ( N 5 ) ~ , ~ } 0 . 2 5 \mathrm { ~ g \cdot L ^ { - 1 } C H } + 0 . 2 5 \mathrm { ~ g \cdot L ^ { - 1 } L H ~ ( N 5 ) ~ }$ N6）和以不添加有机氮为对照（N0）。
+
+上述各阶段每个处理重复3次，每个重复接种20个外植体。所有培养基在灭菌前 $( 1 2 1 \ \mathrm { ^ { \circ } C } , \ 2 0 \mathrm { \ m i n } ) \ \mathrm { p H }$ 值均调节至 $5 . 9 0 { \pm } 0 . 2 \$ ，培养条件为暗培养， $( 2 5 \pm 2 ) \textrm { ‰}$ 。
+
+# 1.2.3 胚性愈伤组织的生长和有机物测定
+
+接种后第 $2 5 { \mathrm { ~ d ~ } }$ ，分别测定不同处理培养基的pH值（雷磁PHS-3C 型 $\mathsf { p H }$ 计，上海）；并收集胚性愈伤组织，使用万分之一天平（赛多利斯Practum224-1CN，德国）测量单个成熟胚诱导获得的胚性愈伤组织重量，装入 $5 \mathrm { m L }$ 离心管，贮藏于 $- 8 0 ^ { \circ } \mathrm { C }$ 超低温冰箱；待样品收集完毕，对生理指标进行统一测定。可溶性糖和淀粉含量的测定采用硫酸-蒽酮法（刘萍等，2016），可溶性蛋白含量的测定采用考马斯亮蓝法（刘萍等，2016），每个处理重复测定3次。
+
+# 1.3体胚诱导相关指标计算
+
+胚性愈伤组织诱导率、体细胞胚诱导率和体细胞胚分化率的计算公式如下：胚性愈伤组织诱导率 $( \% ) =$ （胚性愈伤组织的数量/接种成熟胚数量） $\times 1 0 0$ 体细胞胚诱导率 $( \% ) =$ （体细胞胚的数量/接种胚性愈伤组织数量） $\times 1 0 0$ 体细胞胚分化率 $( \% ) =$ （体细胞胚的萌发数量/接种体细胞胚数量） $\times 1 0 0$ 。
+
+# 1.4数据处理
+
+试验数据用Microsoft Office Excel2007进行统计处理，使用 SPSS18.0 软件对数据进行单因素方差分析，通过Turkey检验进行差异显著分析（ $( P { < } 0 . 0 5 )$ ），最后使用Origin 2019作图。
+
+# 2结果与分析
+
+# 2.1 花榈木体胚发生的诱导
+
+成熟胚在胚性愈伤组织诱导培养基中培养 $7 { \sim } 1 0 \mathrm { d }$ ，愈伤组织从成熟胚四周长出。培养25d后，胚性愈伤组织为乳白色、黄白色或黄色，并在愈伤组织表面有结节状的小突起（图1：a），它们在不同碳源、蔗糖浓度和有机氮源上的外观形
+
+态无差异。胚性愈伤组织在体胚诱导培养基中培养4周后相继发育形成表面光滑、白色、透明状和类似球形胚的体细胞胚（图1：b），体细胞胚在体胚分化培养基中进一步分化形成幼芽（图1：c）。
+
+![](images/22741962a647447eb4bff9a0e169359679aa1db7b1020e06c859eb5ad56126c1.jpg)  
+图1花榈木在培养基中添加谷氨酰胺的体胚发生
+
+a．胚性愈伤组织(EC)；b.体细胞胚(SE)；c.体细胞胚的分化。标尺 $\scriptstyle = 1 \ { \mathrm { c m } }$ 。   
+a. Embryogenic callus (EC); b. Somatic embryoes (SE); c. Somatic embryoes differentiation.   
+Bar=1 cm.
+
+Fig.1 Somatic embryogenesis of Ormosia henryi in medium supplemented with glutamine
+
+# 2.1.1碳源对胚性愈伤组织诱导及发育的影响
+
+添加三种碳源的花榈木成熟胚愈伤组织诱导率均为 $100 \%$ （图2），但胚性愈伤组织诱导率差异显著（ $\scriptstyle \cdot < 0 . 0 5$ ）。其中，T1处理的胚性愈伤组织诱导率最高，比T2和T3分别高 $9 . 3 \%$ 和 $9 . 7 \%$ 。不同碳源体细胞胚诱导率和分化率的差异不显著（ $\cdot P { > } 0 . 0 5$ ），但均以T1最高。
+
+T1-T3分别表示 $3 0 \mathrm { g } \bullet \mathrm { L } ^ { - 1 }$ 蔗糖， $3 0 \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ 葡萄糖和 $3 0 \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ 麦芽糖。不同大小写字母表示在 $P <$ 0.05 水平下的显著性差异。下同。
+
+![](images/fda3ee1a638b58f2a7c0c10416e4f931e52bfeff3ee8f3f4130e188b3ae34894.jpg)  
+图2不同碳源对愈伤组织、体胚和体胚分化诱导的影响
+
+T1-T3 represented $3 0 \mathrm { g } \bullet \mathrm { L } ^ { - 1 }$ sucrose, $3 0 \mathrm { g }$ ·L'glucose and $3 0 \mathrm { g }$ ·L'maltose,respectively. Different uppercase and lowercase letters indicate significant differences ( $\left( P < 0 . 0 5 \right)$ 。The same below.
+
+Fig.2Effects of different carbon sources on callus，SE and SE differentiation inductiol
+
+# 2.1. 2 蔗糖浓度对胚性愈伤组织诱导及发育的影响
+
+花榈木成熟胚愈伤组织诱导率随蔗糖浓度的增加呈降低趋势（图3），但差异不显著 $( P { > } 0 . 0 5 )$ ；而胚性愈伤组织、体细胞胚诱导率和体细胞胚分化率随蔗糖浓度的增加呈先升高后降低趋势，其诱导率均以C2最高，但体细胞胚分化率差异不显著（ $\vert P { > } 0 . 0 5 \rangle$ ）。值得注意的是，C4的体胚诱导率急剧下降，这说明高浓度蔗糖不利于体胚诱导。
+
+）120 胚性愈伤组织 愈伤组织 （%） 70 体胚诱导率 体胚分化率 Embryogenic callus Callus SE induction rate SE differentiation induction rate 川 60 A A A 50 80 山 40   
+0   
+诱 诱20 20 10 0 0 C1 C2 C3 C4 处理Treatment 处理Treatment   
+C1-C4 分别表示 $2 0 \ g \cdot \mathrm { L } ^ { - 1 }$ ， $3 0 \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ ， $4 0 \ g \cdot \mathrm { L } ^ { - 1 }$ 和 $5 0 \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ 蔗糖。   
+C1-C4 represented $2 0 \ g \cdot \mathrm { L } ^ { - 1 }$ $3 0 \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ $. 4 0 \ g \cdot \mathrm { L } ^ { - 1 }$ and $5 0 \mathrm { g } \bullet \mathrm { L } ^ { - 1 }$ sucrose, respectively.
+
+# 2.1.3有机氮源对胚性愈伤组织诱导及发育的影响
+
+与对照N0相比，添加不同有机氮源对愈伤组织诱导率和体胚分化率差异不显著（ $\cdot P { > } 0 . 0 5 \$ ）；但对胚性愈伤组织和体胚诱导率影响显著（ $\cdot P { < } 0 . 0 5$ ，图4），其中，N1胚性愈伤诱导率显著高于N0，增加了 $1 8 \%$ ； $\mathrm { \Delta N } 1$ 、N2、N4体胚诱导率显著高于NO，分别比 NO 高 $1 8 . 5 \%$ 、 $20 . 5 \%$ 、 $1 9 . 2 \%$ 。
+
+![](images/16976fe333393b35dc5ca539f18f97d499bbe67a103695f76309e188f1fa4198.jpg)  
+处理Treatment  
+处理Treatment  
+图4不同有机氮源对愈伤组织、体胚和体胚分化诱导的影响
+
+NO:对照， $\mathrm { N 1 { : } 0 . 5 \ g \bullet L ^ { - 1 } }$ 谷氨酰胺Glu，N $2 \colon 0 . 5 \ \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ 水解酪蛋白 CH，N3: $0 . 5 \ \mathrm { g \cdot \mathrm { L } ^ { - 1 } }$ 水解乳蛋LH， $\mathrm { N 4 : 0 . 2 5 ~ g \bullet ~ L ^ { - 1 } G l u + 0 . 2 5 ~ g \bullet ~ L ^ { - 1 } C H }$ ，N5: $0 . 2 5 \textrm { g } \bullet \mathrm { L } ^ { \mathrm { - 1 } } \mathrm { G l u } + 0 . 2 5 \textrm { g } \bullet \mathrm { L } ^ { \mathrm { - 1 } } \mathrm { L H }$ ，N6: 0.25$\mathbf { g } \bullet \mathrm { L } ^ { - 1 } \mathbf { C } \mathrm { H } \substack { + 0 . 2 5 \mathbf { g } \bullet \mathrm { L } ^ { - 1 } \mathrm { L } \mathrm { H } }$ 。
+
+N0-N6 represented control (CK), $0 . 5 \ : \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ glutamine (Glu), $0 . 5 \ \mathrm { g \bullet L ^ { - 1 } }$ casein hydrolysate (CH), 0.5 $\mathbf { g \cdot } \mathbf { \cdot } \mathbf { \mathrm { l } } ^ { - 1 }$ Lactalbumin hydrolysate (LH) , $0 . 2 5 \mathrm { g } \bullet \mathrm { L } ^ { - 1 } \mathrm { G l u } + 0 . 2 5 \mathrm { g } \bullet \mathrm { L } ^ { - 1 } \mathrm { C H } _ { \mathrm { \scriptsize : } }$ $0 . 2 5 \textrm { g } \bullet \mathrm { L } ^ { - 1 } \mathrm { G l u } + 0 . 2 5 \textrm { g } \bullet \mathrm { L } ^ { - 1 } \mathrm { L H }$ $0 . 2 5 \textrm { g } \bullet \textrm { L } ^ { - 1 } \mathrm { C H } + 0 . 2 5 \textrm { g } \bullet \textrm { L } ^ { - 1 } \mathrm { L H }$ respectively.
+
+Fig. 4 Effects of different organic nitrogen sources on callus， SE and SE differentiation induction
+
+# 2.2碳氮源对胚性愈伤组织的生长及有机物积累的影响
+
+# 2.2.1碳源对胚性愈伤组织生长及有机物积累的影响
+
+不同碳源处理的胚性愈伤组织重量差异显著（ $\cdot P { < } 0 . 0 5 \$ ），以T1最高，分别比 T2、T3高 $21 \%$ 、 $7 . 8 \%$ ，而对培养基 $\mathsf { p H }$ 值、胚性愈伤组织的可溶性糖、淀粉和可溶性蛋白含量的影响不显著（ $\cdot P { > } 0 . 0 5$ ，表1）。这表明不同碳源对胚性愈伤组织的生长影响较大，对培养基 $\mathsf { p H }$ 值、胚性愈伤组织碳氮积累的影响较小。
+
+表1不同碳源对胚性愈伤组织生长及生理特性的影响  
+Table 1Effects of different carbon sources on EC growth and physiology   
+
+<html><body><table><tr><td>碳源</td><td>pH值</td><td>胚性愈伤重量 (g)</td><td>可溶性糖含量（mg·g'）淀粉含量(mg·g1）可溶性蛋白含量(mg·g1)</td><td></td><td></td></tr><tr><td>Carbon sources</td><td>pH value</td><td>EC weight</td><td>Soluble sugar content</td><td>Starch content</td><td>Soluble protein content</td></tr><tr><td>T1</td><td>4.74±0.07a</td><td>0.269±0.007a</td><td>22.22±1.14ab</td><td>18.38±1.47a</td><td>11.86±0.3a</td></tr><tr><td>T2</td><td>4.65±0.06a</td><td>0.212±0.012b</td><td>24.80±0.33a</td><td>16.04±1.67a</td><td>10.89±0.58a</td></tr><tr><td>T3</td><td>4.73±0.08a</td><td>0.248±0.015a</td><td>24.45±0.10a</td><td>16.66±1.71a</td><td>10.98±0.46a</td></tr></table></body></html>
+
+同一列不同小写字母代表在 $P { < } 0 . 0 5$ 水平下的显著性差异。下同。 Different lowercase letters in the same column indicate significant differences $( P { < } 0 . 0 5 )$ . The same below.
+
+# 2.2.2 蔗糖浓度对愈伤组织生长及有机物积累的影响
+
+不同蔗糖浓度处理对培养基 $\mathsf { p H }$ 值和胚性愈伤组织淀粉含量的影响不显著 $( P$ ${ > } 0 . 0 5 { \mathrm { : } }$ ），但对胚性愈伤组织的重量、可溶性糖和可溶性蛋白含量的影响显著（ $\cdot P$ ${ < } 0 . 0 5$ ，表2）。随蔗糖浓度升高，胚性愈伤组织的重量和可溶性蛋白含量呈先升高后降低的趋势，以C2最高；胚性愈伤组织可溶性糖含量则随蔗糖浓度增加呈逐渐增加趋势，在C4 处理中最高，分别是C1、C2、C3 处理的2.85、1.90、1.30倍。结果表明蔗糖浓度对培养基的pH值影响较小，对胚性愈伤组织的生长及其有机物积累影响较大。
+
+Table 2Effects of different sucrose concentrations on EC growth and physiology   
+
+<html><body><table><tr><td>蔗糖浓度 Sucrose concentration</td><td>pH值 pH value</td><td>胚性愈伤重量 EC weight (g)</td><td>可溶性糖含量 Soluble sugar content (mg·g1)</td><td>淀粉含量 Starch content (mg·g-1)</td><td>可溶性蛋白含量 Soluble protein content (mg·g1)</td></tr><tr><td>C1</td><td>4.58±0.03a</td><td>0.18±0.024ab</td><td>12.84±0.89c</td><td>15.48±0.64a</td><td>10.21±0.63bc</td></tr><tr><td>C2</td><td>4.6±0.03a</td><td>0.2±0.016a</td><td>19.27±1.08c</td><td>14.93±1.86a</td><td>11.85±0.06a</td></tr><tr><td>C3</td><td>4.4±0.06a</td><td>0.17±0.014b</td><td>28.24±5.31b</td><td>16.58±2.84a</td><td>9.05±0.93c</td></tr><tr><td>C4</td><td>4.54±0.14a</td><td>0.17±0.022ab</td><td>36.65±2.82a</td><td>18.74±1.18a</td><td>10.6±0.3b</td></tr></table></body></html>
+
+# 2.2.3 有机氮源对愈伤组织生长及有机物积累的影响
+
+有机氮源对培养基pH值和胚性愈伤组织淀粉含量的影响不显著 $( P { > } 0 . 0 5 )$ ，但对胚性愈伤组织重量、可溶性糖含量和可溶性蛋白含量的影响显著（ $\cdot P { < } 0 . 0 5$ 表3）。胚性愈伤组织重量在N5、N1和NO处理中较高；NO 胚性愈伤组织可溶性糖含量分别比N1-N6 高 $22 \%$ 、 $1 7 \%$ 、 $34 \%$ 、 $9 . 8 \%$ 、 $1 6 \%$ 和 $2 . 4 \%$ ；相反，N1-N6胚性愈伤组织可溶性蛋白含量显著高于N0。可见，有机氮源的添加有助于胚性愈伤组织的生长和可溶性蛋白的积累，却不利于胚性愈伤组织可溶性糖的积累。
+
+表2不同蔗糖浓度对胚性愈伤组织生长及生理特性的影响  
+表3不同有机氮源对胚性愈伤组织生长及生理特性的影响  
+'able 3Effects of organ nitrogen source on EC growth and physiolog   
+
+<html><body><table><tr><td>有机氮源 Organ nitrogen source</td><td>pH值 pH value</td><td>胚性愈伤重量 EC weight (g)</td><td>可溶性糖含量 Soluble sugar content (mg·g1)</td><td>淀粉含量 Starch content (mg·g1)</td><td>可溶性蛋白含量 Soluble protein content (mg*g-1)</td></tr><tr><td>NO (CK)</td><td>4.49±0.06a</td><td>0.21±0.012ab</td><td>20.16±2.28a</td><td>9.9±5.27a</td><td>8.31±0.33d</td></tr><tr><td>N1</td><td>4.54±0.04a</td><td>0.21±0.01ab</td><td>15.83±1bc</td><td>15.41±1.57a</td><td>11.79±0.2a</td></tr><tr><td>N2</td><td>4.47±0.08a</td><td>0.16±0.007cd</td><td>16.76±2.19abc</td><td>11.26±2.35a</td><td>11.79±0.36a</td></tr><tr><td>N3</td><td>4.52±0.12a</td><td>0.19±0.011bc</td><td>13.25±0.81c</td><td>14.71±1.89a</td><td>9.84±0.24bc</td></tr><tr><td>N4</td><td>4.57±0.11a</td><td>0.13±0.008e</td><td>18.19±0.81ab</td><td>14.85±1.31a</td><td>11.52±0.26a</td></tr><tr><td>N5</td><td>4.55±0.09a</td><td>0.22±0.011a</td><td>16.89±1.65abc</td><td>16.17±0.27a</td><td>11.49±0.17a</td></tr><tr><td>N6</td><td>4.52±0.08a</td><td>0.16±0.003d</td><td>19.67±1.31ab</td><td>11.33±0.74a</td><td>10.49±0.14b</td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1碳源对花榈木体胚发生诱导的影响
+
+碳源参与碳代谢途径，为植物生命活动提供能量和碳骨架，对植物生长发育是不可或缺的（Bartos etal.,2018），影响植物体胚诱导率的高低（Bartos et al.,2018）。本研究中，蔗糖胚性愈伤组织、体胚及体胚分化诱导率均高于葡萄糖和麦芽糖，与龙眼（Dimocarpuslongana）（赖钟雄，1997）和胡桃楸（赵舒野，2013）体胚诱导的结果一致。胚性愈伤组织的重量以添加蔗糖处理最高，可能与相同碳源浓度下蔗糖较葡糖糖和麦芽糖能够更好地调节培养基中的低渗环境，且蔗糖作为双糖经水解后形成同等量的葡萄糖和果糖，有助于提高蔗糖合成酶（SS）、蔗糖磷酸合成酶（SPS）和转化酶（INV）的活性，促进碳水化合物之间的相互转化和转运能力，从而增加碳水化合物含量，提供外植体更多的能量有关（Iraqi&Tremblay.,2001；罗凯等，2020）。这些可能是蔗糖被作为大部分植物细胞培养碳源的主要原因。此外，不同碳源处理下培养基pH值差异不显著，与它们是非电解质有关。
+
+# 3.2蔗糖浓度对花榈木体胚发生诱导的影响
+
+蔗糖浓度影响培养基渗透压，适当的蔗糖浓度为细胞膨大提供渗透推动力，有助于提高蔗糖代谢相关酶的活性，对体胚诱导具有重要作用（Feher，2015；Grafi&Barak.,2015；Hazubska-Przybyl et al.,2016）。本研究中花榈木的胚性愈伤组织、体胚和体胚分化诱导率均以添加 $3 0 { \mathrm { ~ g ~ } } \cdot { \mathrm { L } } ^ { - 1 }$ 蔗糖最高，与前人对龙眼(赖钟雄，1997)和云杉（Hazubska-Przybyl etal.,2016）的研究结果类似。花榈木胚性愈伤组织可溶性糖和淀粉含量随蔗糖浓度升高整体呈逐渐升高的趋势，前人在红花玉兰（Magnolia wufengensis）（宁娜娜等，2018）、栓皮栎（Quercus variabilis）（辛福梅，2007）和云杉（Hazubska-Przybyl etal.,2016）体胚诱导中也得出了类似的结果。究其原因可能是适当的蔗糖浓度不仅促进组织的生长，调控着细胞内外糖代谢的信号分子应答，诱导了ABA水平上升，提高了糖代谢过程中 SS和 SPS 酶活性，促进了糖分的积累（陈俊伟等，2004）；凌亚杰等（2018）报道随外源糖浓度升高，SS 和 SPS 酶活性相应增强，糖分含量增加，从而影响到细胞组织的形态建成（Cangahuala-Inocente et al.,2014），使得胚性愈伤组织糖含量较高，却抑制了体胚发育进程。这些研究结果证明高浓度的蔗糖可促进花榈木胚性愈伤组织糖分的积累，却抑制了体胚诱导。
+
+# 3.3氮源对花榈木体胚发生诱导的影响
+
+有机氮源（谷氨酰胺、水解酪蛋白和水解乳蛋白）可提高培养基 $\mathrm { N H } _ { 4 } ^ { + }$ 与 $\mathrm { N } 0 _ { 3 } { } ^ { - }$ 比例，改变C/N的比值（Yue et al.,2017），促进龙舌兰（Reyes-Diaz et al.,2017）和落叶松（齐力旺，2000）胚胎的生长发育。本研究中，添加有机氮源的处理花榈木胚性愈伤组织和体胚诱导率均高于对照（N0），其中，胚性愈伤组织诱导率以添加谷氨酰胺（N1）最高，类似的结果在三叶无患子胚性愈伤组织诱导中被报道（Asthanaetal.,2017）。这可能与花榈木对氮元素（ $\mathrm { N H } _ { 4 } { } ^ { + }$ 与 $\mathrm { N } 0 _ { 3 } { } ^ { - }$ ）的吸收和利用效率有关。因为谷氨酰胺合成酶（GS）和硝酸还原酶（NR）是植物体内氮代谢同化作用的关键酶，其中，GS 通过氮素同化作用，利用ATP分解释放的能量，将无机氮催化为谷氨酰胺和谷氨酸供植物利用（刘云菲等，2021）；若GS 活性低，植物体内合成的蛋白质不足或低于植物生长所需阈值，植物生理代谢和生长发育将受影响，而外源谷氨酰胺的添加利于植物对其的吸收和利用，提高了GS和 NR的活性，促进蛋白质的形成（罗慧和李伏生，2020），为花榈木胚性愈伤组织的正常发育提供氮源保障。与对照（NO）相比，有机氮源（N1-N6）处理促进花榈木胚性愈伤组织中可溶性蛋白含量的积累，相反，N1-N6处理花榈木胚性愈伤组织可溶性糖含量却较低，辛福梅（2007）在栓皮栎中也发现类似的结果。这可能与N0处理中培养基C/N比相对较高，利于可溶性糖的合成，而添加有机氮源（N1-N6），培养基C/N比值降低，促进可溶性蛋白的积累有关。
+
+综上分析得出结论：碳氮源影响花榈木胚性愈伤组织的诱导、发育和有机物的积累，从而影响其体胚诱导率，但对体细胞胚分化的影响不显著。培养基中添加 $3 0 \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ 蔗糖和 $5 0 0 \mathrm { m g \cdot L ^ { - 1 } }$ 谷氨酰胺可以促进花榈木胚性愈伤组织和体细胞胚的诱导。
+
+# 参考文献
+
+ASTHANA P,RAI MK, JAISWAL U,2017. Somatic embryogenesis from sepal explants in Sapindus trifoliatus,a plant valuable in herbal soap industry[J]. Ind Crop Prod,1OO: 228-235.   
+BARTOS PMC, GOMES HT, AMARAL LIVD, et al., 2018.Biochemical events during somatic embryogenesis in Coffea arabica L[J].Biotechnology,8(4): 209.   
+Cangahuala-Inocente GC, Silveira V, Caprestano CA, et al.,2014. Dynamics of physiological and biochemical changes during somatic embryogenesis of Acca sellowiana[J]. In Vitro Cell Dev-Pl, 50(2): 166-175.   
+CHEN JW, ZHANG SL, ZHANG LC, 2004. Sugar transport, metabolism, accumulation and their regulation in fruits[J].Physiol Mol Biol Plants,(1):1-10.[陈俊伟，张上隆，张良诚，2004．果实中 糖的运输、代谢与积累及其调控[J]．植物生理与分子生物学学报，(1):1-10.]   
+FEHER A,2015. Somatic embryogenesis - Stress-induced remodeling of plant cel fate[J]. BBA - Gene Regul Mech, 1849(4): 385-402.   
+GAO L,LI HL,YANG B,2009. Calls induction and plant regeneration from the hypocotyl of Ormosia henryi Prain[J].JAnhui Agric Sci,37(33):16271-16273.[高丽,李洪林，杨波，2009．花榈木胚轴 愈伤组织的诱导及植株再生[J]．安徽农业科学，37(33):16271-16273.]   
+GRAFIG, BARAK S,2015. Stress induces celldediferentiation in plants[J]. BBA - Gene Regul Mech, 1849(4): 378-384.   
+GUI P,2018. Studies on the tissue culture of rare ornamental trees Ormosia hosiei[D]. Guiyang: Guizhou University.[桂平，2018．珍稀观赏树种红豆树组织培养技术研究[D]．贵阳：贵州大学.]   
+HAZUBSKA-PRZYBYL T, KALEMBA EM, RATAJCZAK E, et al., 2016. Effects of abscisic acid and an osmoticum on the maturation, starch accumulation and germination of Picea spp. somatic embryos[J]. Acta Physiol Plant, 38(2):59.   
+IRAQI D, TREMBLAY FM.， 2001. The role of sucrose during maturation of black spruce (Picea mariana) and white spruce (Picea glauca) somatic embryos.[J]. Physiol Plant,111(3): 381-388.   
+KESHVARI T, NAJAPHY A, KAHRIZI D,et al., 2018. Calus induction and somatic embryogenesis in Stevia rebaudiana Bertoni as a medicinal plant[J]. Cell Mol Biol, 64(2): 46-49.   
+KIM YW, HAN MS, MOON HK, et al., 2011. Effects of ABA, reduced nitrogen source and Osmoticum for somatic embryogenesis in Liriodendron tulipifera[J]. J Plant Biotechnol,38(2): 186-190.   
+LAI ZX, 1997. Plant Regeneration system of protoplast culture in Longan (Dimocarpus longana Lour)[D].Fuzhou:Fujian Agric University.[赖钟雄，1997．龙眼原生质体培养再生系统的 研究[D]．福州：福建农业大学.]   
+LING YJ, MO Q, MO F et al., 2018.Effects of exogenous sugar treatment on fruit quality and main bioactive compounds in Strawberry[J].J Sichuan Agric Univ,36(1): 67-71.[凌亚杰，莫琴，莫凡， 等,2018．外源糖处理对草莓果实品质和主要生物活性物质的影响[J]．四川农业大学学报,36(1): 67-71.]   
+LIU P,LI MJ, DING YF,2016. Experiment of plant physiology [M]. Beijing: Science Press.[刘萍，李 明军，丁义峰，2016．植物生理学实验[M]．北京：科学出版社.]   
+LIU YF, XUE DS, GONG CJ, 2021. Research progress of glutamine synthetase[J]. Shandong Chem Ind, 50(5):97-99.[刘芸菲，薛栋升，宫春杰，2021．谷氨酰胺合成酶研究进展[J]．山东化工，50(5): 97-99.]   
+LUO H,LI FS,2021. Effects of drip irrigation with nitrogen fertigation on tomato nitrogen metabolism and the use of water and nitrogen[J].Water Saving Irrig,9: 90-94.[罗慧，李伏生，2021．滴灌施氮 对番茄氮代谢及水氮利用的影响[J]．节水灌溉，9:90-94.]   
+LUO K, XIE C, WANG J, et al., 2021. Effect of exogenous plant growth regulators on carbon-nitrogen metabolism and flower-pod abscisson of relay strip intercropping soybean[J]. Acta Agron Sin, 47(4): 752-760.[罗凯，谢琛，汪锦，等，2021．外源喷施植物生长调节剂对套作大豆碳氮代谢和花荚 脱落的影响[J]．作物学报，47(4):752-760.]   
+NING NN, DENG W, ZHU ZL, et al., 2018. Embryogenic or not calls induction and analysis of physiological and biochemical differences in M. wufengensis[J]. Mol Plant Breed,16(10): 3278-3285.[宁娜娜，邓为，朱仲龙，等，2018．红花玉兰胚性与非胚性愈伤组织的诱导及生理 生化差异分析[J]．分子植物育种，16(10):192-199.]   
+QIAO D,2016. Study on the tissue culture of Ormosia henryi Prain[D].Guiyang: Guizhou Univ. [乔栋，2016.花榈木组织培养技术研究[D]．贵阳：贵州大学.]   
+QI LW, 2000. Study on the somatic embryogenesis and establishment of experimental system in Larix principis-Rupprechti[D].Beijing: Chinese Academy of Forestry.[齐力旺，20o0.s华北落叶 松体细胞胚胎发生与遗传转化系统建立的研究[D]．北京：中国林业科学研究院.]   
+REYES-DIAZ JI, ARZATE-FERNANDEZ AM, PIA-ESCUTIA JL, et al., 2017. Media culture factors affecting somatic embryogenesis in Agave angustifolia Haw[J]. Ind Crop Prod,108: 81-85.   
+VASILENKO A, MCDANIEL JK, CONGER BV, 2000. Ultrastructural analyses of somatic embryo initiation, development and polarity establishment from mesophyllcells of Dactylis glomerata[J]. Vitro Cell Dev Biol Plant, 36(1): 51-56.   
+VESCO L, GUERRA MP, 2001. The effectiveness of nitrogen sources in Feijoa somatic embryogenesis [J]. Plant Cell Tiss Org,2001, 64(1): 19-25.   
+WEN H, ZHU TC, ZHOU JC, et al., 2020. Study on the grafting technology of Ormosia henryi Prain[J].Hunan For Sci Technol,47(1):86-88.[文虹，朱天才，周洁尘，等，2020．花榈木嫁接 技术研究[J]．湖南林业科技，47(1):86-88.]   
+WU GY，WEI XL,WANG X,et al., 2020. Induction of somatic embryogenesis in different explants from Ormosia henryi Prain[J].Plant Cell Tiss Org,142(2): 229-240.   
+WU GY, WEI XL, WANG X, et al.,2020. Somatic embryogenesis induction of Ormosia henryi with genotypes and seed collection stages[J]. JCentr S Univ For Technol,40(11):109-118.[吴高殷，韦小 丽，王晓，等，2020．花榈木基因型、采种时期对体细胞胚胎的诱导[J]．中南林业科技大学 学报，40(11): 109-118.]   
+WU G,WEI X, WANG X, et al.,2021. Changes in biochemistry and histochemical characteristics during somatic embryogenesis in Ormosia henryi Prain[J]. Plant Cel Tiss Org,144: 505-517.   
+XIN FM,2007.The physiological and biochemistry characteristics of somatic embryogenesis in Quercus variabilis [D].Yang Ling: Northwest Agric For Univ.[辛福梅，2007．栓皮栎体胚发生生 理生化特性的研究[D]．杨凌：西北农林科技大学.]   
+XI Y,HU RY,Wang H, et al., 2012. Somatic embryogenesis and plant regeneration from immature zygotic embryos of black locust (Robinia pseudoacacia)[J]. Sci Silv Sin,48(1): 60-69.[习洋，胡瑞 阳，王欢，等，2012．刺槐未成熟合子胚的体细胞胚胎发生和植株再生[J]．林业科学，48(1): 60-69.]   
+XU Q，2020. Study on hardseedness release and tissue culture of Albizia odoratissima (L.F.) Benth[D]. Nanning:Guangxi University.[许倩，2020．香合欢硬实破除及组织培养研究[D]．南宁：广西大 学.]   
+ZHAO SY, 2013. The physiological and biochemistry characteristics of somatic embryogenesis in Juglans Mandshurica[D].Harbin: Northeast Forestry University.[赵舒野,2013．胡桃楸体胚发 生过程中生理生化特性的研究[D]．哈尔滨：东北林业大学.]   
+ZHAO ZX,2007. Seedling technique by burying roots of Ormosia henryi Prain[J]. For Ecol, 5: 22.[赵 正霞，2007．花榈木埋根育苗技术[J]．湖南林业，5:22.]

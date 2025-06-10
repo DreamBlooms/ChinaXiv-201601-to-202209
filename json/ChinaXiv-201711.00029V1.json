@@ -1,0 +1,576 @@
+[
+    {
+        "type": "text",
+        "text": "Analysis and Numerical Simulation Research of the Heating Process in the Oven ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CHEN Yawei, LEI Dingyou ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "School of Traffic and Transportation Engineering, Central South University, Hunan, Changsha,410075, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "How to use the oven to bake delicious food is the most concerned problem ofthe designers and users of the oven. For this intent, this paper analyzed the heat distribution in the oven based on the basic operation principles and proceeded the data simulation of the temperature distribution on the rack section. Constructing the diferential equation model of the temperature distribution changes in the pan when the oven works based on the heat radiation and heat transmission,based on the idea of utilizing cellular automation to simulate heat transfer process, used ANSYS software to proceed the numerical simulation analysis to the rectangular,round-cornered rectangular, ellptical and circular pans and giving out the instantaneous temperature distribution ofthe corresponding shapes of the pans.The temperature distribution of the rectangular and circular pans proves that the product gets overcooked easily at the corners and edges of rectangular pans but not of a round pan. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Numerical simulation, Heat radiation,Temperature distribution, Cellular automation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "When baking food in the oven, we all expect that the food looks nice,smells sweet and tastes delicious.However,in our real life,the phenomenon of burnt food is quite common.In this paper, the problem to be solved is how to build a model to find the most appropriate pan, so as to make the food cannot be burnt easily. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Firstly, this paper constructed a model to ensure the inner temperature distribution of the oven.The rise of internal temperature of the oven is mainly caused by the heat radiated by electric heating element. The oven has the impacts of the heat radiation,heat transmission,heat convection. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The next, in order to better illustrate heat distribution on the edge and at the corner of the pan, we could cut out a plane to construct a two-dimensional model to consider the heat distribution inside one plane only in order to analyze the heat distribution of the whole three-dimensional model.But considering the difference of the shapes of the pan,range from rectangular to circle,including those graphics like rounded rectangle or elliptical which are derived from the graphics mentioned earlier, can make disparate influence on the heat distribution. So we have to do the analysis to all of them to confirm the optimum shape.In this process, the paper used the idea of cellular automation and analyzed with the help of ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "computer simulation results. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The analysis of the heating process in the oven and numerical simulation of the heat distribution on the pad section ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The three forms of thermal transmission are heat conduction,heat convection and heat radiation.Due to the fact that the oven is made with insulating materials, there will be no convection，which implies heat convection needn't to be considered. So the major form is heat radiation plus the heat conduction when heating products. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The construction of the model of the heat radiation in the oven cavity ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Radiation heat transfer process is a process of heat balance in which the heat rays radiation and reflection transfer heat repeatedly. In this process, the final outcome is that the subject with higher temperature transfers heat energy to one with lower temperature.Therefore，the radiation heat transfer is related to the physical geometric properties of two products. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In order to gather the temperature in oven cavity at anyposition,any time when heating,use the heat radia tion equation to develop the oven-heating model. Suppose the temperature of the upper and lower heating pipes achieve $T _ { 1 }$ before heating,two layers of pans are arranged in the oven and the initial temperature is $T _ { 2 }$ ,and the heat radiation of the oven is shown in Figure 1. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/cba07410273481cd3861ec799cb62a18f4a27801c9b9429fa01faaec6246e731.jpg",
+        "img_caption": [
+            "Fig.1The heat radiation of the oven "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "According to Stefan-Boltzmann Law [1], the equation for calculating the intensity of heat flow of heat radiation transfer is ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nq _ { r } = \\varepsilon f \\sigma ( T _ { 1 } ^ { 4 } - T _ { 2 } ^ { 4 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In which, $q _ { r }$ is intensity of the radiation of heat flow, and the unit is $W / m ^ { 2 }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "${ \\varepsilon } = { \\varepsilon } _ { 1 } { \\cdot } { \\varepsilon } _ { 2 } , { \\varepsilon } _ { 1 }$ ， $\\varepsilon _ { 2 }$ stand forthe degreesofblackness of objects 1 and 2 respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$f$ is average angle coefficient related to the shapes and sizes of two objects radiate each other. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\sigma$ is Stefan-Boltzmann constant, the unit is $W / ( m ^ { 2 } { \\cdot } K ^ { 4 } )$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$T _ { 1 }$ is the initial temperature of the upper and lower heat pipes in the oven, while, $T _ { 2 }$ is the initial temperature of the pan in the oven. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The partial differential equation of Fourier's law of heat conduction is [2]: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nabla \\cdot \\overline { { f } } + p c _ { p } \\frac { \\partial T } { \\partial t } = Q\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The heat $Q = q _ { r } + q _ { c } , q _ { c }$ is the heat of the heat conduction.Ignore the temperature changes on the pan surface therefore the $q _ { c }$ does not exist. From the equations（1) and (2) we can get ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho { \\partial _ { p } } \\frac { { \\partial } T } { { \\partial } } = \\frac { \\partial } { { \\partial } x } ( \\lambda \\frac { { \\partial } T } { { \\partial } x } ) + \\frac { \\partial } { { \\partial } y } ( \\lambda \\frac { { \\partial } T } { { \\partial } y } ) + \\frac { \\partial } { { \\partial } z } ( \\lambda \\frac { { \\partial } T } { { \\partial } z } ) + q _ { r }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In which, $\\rho$ is the density of the material, $c _ { p }$ is the spe cific heat capacity of the material, $\\lambda$ is the thermal conductivity of the material. $T = T ( x , y , z , t )$ is the temperature,which is a function related to the time $t$ and position $( x , y , z )$ . According to this model, the $T ( x , y , z , t )$ inside the oven cavity can be obtained at any time anywhere. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The numerical simulation of the heat distribution of the oven and pad section [3] ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This paper has done the simulation for thermal distri",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "bution of the rack section by the ANSYS,and the simulation results have been shown as Figure 2. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a3001642c7629beb37847bcab39a98ec2867c757d1d8239281e430d574e31e77.jpg",
+        "img_caption": [
+            "Fig.2The diagram for simulation of heat distribution in the rack section "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Thenumerical simulation of the heat transmission of the pan and the heat distribution ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "After developing the heating model inside the cavity, the temperature $T ( x , y , z , t )$ can be known with the help of the results solved. When put pan into the oven,as the cavity temperature above the pan is higher than the initial temperature of the pan, the heat in the cavity will be transferred to the pan by air and then proceed the heat transmission above the pan. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The process analysis of the heating of an iron wire in the oven ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "First of all, simplify the heating process inside the oven at condition of one-dimensional, we can take the pan as an iron wire that is being heated.Assume before putting the baking pan into the oven, the temperature of the oven has been heated to a constant temperature $T _ { 0 }$ = Then in the case of one dimensional, the heat sources of the pan are on the endpoints.We can respectively image as two candles at both ends of the wire heating the iron, then proceeding heat conduction,which is shown in Figure 3. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d372ecf0345fd03f7b6a0959de1d71bb01790562b156bf3cac0d5a227e649c80.jpg",
+        "img_caption": [
+            "Fig.3Heating process of an iron wire "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Then,use the Fourier's heat transmission modell4l to analyze the heating process in one dimension. Set the length of the iron as $L$ ， $T ( x , t )$ stands for the temperature of the iron in the location $x$ of the moment $t$ ,and $0 \\leq x \\leq$ $L$ .So the heat conduction equation in one dimension is [5] ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l } { T _ { t } = k T _ { t t } } \\\\ { u ( 0 , x ) = T ( x ) \\quad \\forall x \\in [ 0 , L ] } \\\\ { T ( t , 0 ) = T ( t , L ) = T _ { 0 } \\quad \\forall x > 0 } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Heat conduction of the pan ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Analyze the heat conduction process of the pan on the basis of the one-dimensional heating process.Due to the existence of temperature diversity between upper and lower surface of the pan, there exists heat conduction between upper and lower surface,and meets the heat conduction equation ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial T } { \\partial t } = k ( \\frac { \\partial ^ { 2 } T } { \\partial x ^ { 2 } } + \\frac { \\partial ^ { 2 } T } { \\partial y ^ { 2 } } + \\frac { \\partial ^ { 2 } T } { \\partial z ^ { 2 } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "in which, $k = \\frac { \\lambda } { p c _ { p } } .$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/25ef984549e64d225f370a8c1fd255e27454367ade2bf236028482b3e33ba6b4.jpg",
+        "img_caption": [
+            "Fig.4Thermal transmission of pan "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The temperature distribution of pan on the upper and lower surface can be obtained based on the solution of thermal radiation process.For each surface, the temperature is different in different positions.Therefore simplify the model to the heat conduction model from point to point on the top and bottom surfaces,as shown in Figure 4.And then it can be seen as an one-dimensional heat conduction model [6]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae8d5ff1875467d106eb518c08f4c966eadc4cda8ada86830fc981d5ddb17be0.jpg",
+        "img_caption": [
+            "Fig.5The structure of the cellular automation "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } {  \\displaystyle \\frac { \\hat { \\partial } T } { \\hat { \\partial } t } = k \\displaystyle \\frac { \\hat { \\partial } ^ { 2 } T } { \\hat { \\partial } x ^ { 2 } }  } \\\\ {  T ( 0 , x ) = T _ { 0 }  } \\\\ {  [ T ( t , 0 ) = T _ { 1 } ^ { \\prime }   } \\\\ {   ( T ( t , 1 ) = T _ { 2 } ^ { \\prime }   } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Then adding the temperature of all the points,we can get the final temperature distribution of the whole pan. In which $T _ { 0 }$ is room temperature. $T _ { 1 } ^ { \\prime }$ is the temperature of corresponding point on the upper surface after heat radiation. $T _ { 2 } ^ { \\mathbf { \\lambda } ^ { \\prime } }$ is the temperature of corresponding point on the lower surface after heat radiation. The process can be seen in Figure 4. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The numerical simulation of the distribution of the different shapes of the pan based on the cellular automation ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The simulative basic principles of the cellular automation ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cellular Automation[7] is an analysis model of nonnumerical algorithm of space using simple codes and non-cell reproduction mechanism, and it can well simu late the temperature distributions in heat transmission and diffusion.The structure of the cellular automation is shown in Figure 5. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The model analysis of the iron wire in one-dimensional ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "When the model is simplified in one- dimensional, we can regard it abstractly as a problem,which has an iron wire whose one side or two sides receive heat and then transmit. According to Fourier's equation of heat transmission in one dimension, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU \\left( t , x \\right) = a ^ { 2 } u _ { x x } , \\left( t > 0 , - \\infty < x < + \\infty \\right) , u \\left( 0 , x \\right) = \\delta \\left( x \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "we can get the temperature of any time $t$ at any point $x$ on the wire and solve it with integral transform method. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Make the Fourier's transform to $x , u$ ,and $\\delta$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { u } } \\left( t , \\lambda \\right) = F \\bigl [ u \\left( t , x \\right) \\bigr ] = \\int _ { - \\infty } ^ { + \\infty } u \\left( t , \\xi \\right) \\exp { \\left\\{ i \\lambda \\xi \\right\\} } d \\xi\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Suppose $x \\to \\infty , u , u \\xi \\to 0$ ，use the properties of the Fourier's transform,we can get the initial problem of ordinary differential equation shown below ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle { \\frac { d \\overline { { u } } } { d t } = a ^ { 2 } \\left[ \\left( - i \\lambda \\right) ^ { 2 } \\right] \\overline { { \\mu } } = - a ^ { 2 } x ^ { 2 } \\overline { { u } } } } \\\\ { \\displaystyle { \\overline { { u } } \\mid _ { t = 0 } = 0 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We are able to solve it using the methods of solving ordinary differential equation and get the solution a $\\mathrm { s } \\overline { { u } } \\big ( t , \\lambda \\big ) \\mathrm { = } \\mathrm { e x p } \\big \\{ - a ^ { 2 } x ^ { 2 } t \\big \\} .$ （2 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Make the Fourier inverse transform and get the basic solution of the Cauchy problem of the one-dimensional heat transmission equation ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu \\mathopen { } \\mathclose \\bgroup \\left( t , x \\aftergroup \\egroup \\right) = \\frac { 1 } { 2 \\pi } \\int _ { - \\infty } ^ { + \\infty } \\overline { { u } } \\exp \\mathopen { } \\mathclose \\bgroup \\left\\{ - i \\lambda x \\aftergroup \\egroup \\right\\} d \\lambda\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle = \\frac { 1 } { 2 \\pi } \\int _ { - \\infty } ^ { + \\infty } \\exp \\Bigl \\{ - a ^ { 2 } x ^ { 2 } t - i \\lambda x \\Bigr \\} d \\lambda } \\\\ { \\displaystyle = \\frac { 1 } { 2 a \\sqrt { \\pi } } \\exp \\Biggl \\{ - \\frac { x ^ { 2 } } { 4 a ^ { 2 } t } \\Biggr \\} } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Then apply the cellular automation model in computer to simulate as shown in Figure 6. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "After the cell receives the heat from heat source radiation,it delivers it to the neighbouring cell b and b does the same to c,...,as this process goes on, the heat could be spread on the whole iron wire.While the number of cells is enough,i.e, the time and space is discrete enough, we could gain the temperature distribution on the linear wire by computer simulation,as shown in Figure 7. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/72e71ba961bbdc2e95d84a760c5b5f37f607f78920fcb31d889f8c800028d273.jpg",
+        "img_caption": [
+            "Fig.6 Cellular automata simulation process in one-dimensional case "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/30e9ba71fdbc4d9cee5a5f99ac7a1252bfe18aa8ef6ce19f399e510e36d04410.jpg",
+        "img_caption": [
+            "Fig.7The temperature distribution of a wire "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The model analysis and simulation of different shapes of the iron plane in two dimension ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "When we use the two-dimensional model to analyze the heat transmission on the pan,it is the same as to take the pan as a section so the heat spreads from the outer edges of the section to the center. Same as in one dimension,we could get the temperature at any time $t$ and any point $( x , y )$ on the section by Fourier's equation of heat transmission [8]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU ( t , x , y ) = \\left( { \\frac { 1 } { 2 a { \\sqrt { \\pi } } } } \\right) ^ { 3 } \\exp \\left( - { \\frac { x ^ { 2 } + y ^ { 2 } + z ^ { 2 } } { 4 a ^ { 2 } t } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Once again apply the cellular automation in computer to simulate, the discrete data applying cellular automation with different shapes of pans are shown below. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1) Rectangular pan When the pan model is rectangular, Figure 8 shows thesimulationof the cellularautomation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "By analysis, the temperatures of a and b are the temperature inside the oven,i.e, the relative outside temperature to the pan, c and d are the temperatures on the pan. We could know that the product would be overcooked by analyzing the heat source of the cell c and d, they could not only gain the heat from cell a but also from b,even from other“neighbours\",therefore when the pan model is rectangular,cells in the corners have higher temperatures than others as they could be provided with heat from much more “neighbours\".The shape producing by the computer simulation through ANSYS is shown in Figure 9. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4d2c19489253fa6834d1b2f240e4b5412fc66e749abcc6f837a1247af9e282db.jpg",
+        "img_caption": [
+            "Fig.8The cellular automata simulation process of two-dimensional rectangular pan "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f57063300daad7ef2b8d519fb6755646e7d8a91e1d3e5aeaa6b3092dc83ab61d.jpg",
+        "img_caption": [
+            "Fig.9The temperature distribution of two-dimensional rectangular pan "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "From the figure,we could see directly that the temperature distribution of the outer edges of the pan is uneven. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2) Circular pan ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "While the pan model is circle,as the points on the edge of the circle have no difference, the heat distribution of the outer edge is even, as shown in Figure 10, b and c,as they are identical, they have same amount of the neighbouring cells to provide them with heat, and the simulation results are in Figure 11. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3) Elliptical pan and rounded rectangular pan ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "When the pan models are elliptical and rounded rectangular,applying the same method to cellular automation simulation and get the results of computer simulation, as shown in Figure 12 and Figure 13. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8d7ea6dbaff83605ed45b1dd9f49ffd12f762152da8a75276a41bde585586a66.jpg",
+        "img_caption": [
+            "Fig.10The cellular automata simulation process of two-dimensional circle "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/52a304737a08875b66e45cfdce5d94614193777559e47656e7c13514f11aad50.jpg",
+        "img_caption": [
+            "Fig.11The temperature distribution of two-dimensional circle "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e7c1f35d0a7d5c31215cd02b9df09bf0224e66b1f9352e96ed74552100f2245.jpg",
+        "img_caption": [
+            "Fig.12The temperature distribution of two-dimensional ellipse "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4d469db317237510588ac67d647d187830d59029e451a665f4a0c571405c6a38.jpg",
+        "img_caption": [
+            "Fig.13The temperature distribution of two-dimensional roundcornered rectangle From the simulation outcomes,we can see why the "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "edges of food on the rectangular pan are easier to be overcooked than those on circular pan.As the shapes of the pan evolve gradually from rectangle to circle,its temperature distribution on outer edges intends to be even. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Why would the rectangular pan overcook the bread? ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Any point among the pan absorbs heat from two aspects,including the heat radiation energy of cavity and the heat radiation energy from the outer edge of the pan Suppose the heat distribution of the cavity is even,the temperature diversity between point A and point B is mainly resulted from heat radiation from the edge of the pan. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure 14, take two points A and B where A and B have the same distance from the edge in the pan,and make unit circle separately. The temperature of the edge of pan is identical because the heat distribution of the cavity is even. Discretize the point of the edge of pan,and regard these points as the source of thermal transmission, thermal radiation of any point in the edge is identical. From the geometry we can know $l _ { 1 } + l _ { 2 } > l _ { 3 }$ S0 the quantity of the source of the heat gathered around point Ais bigger thanB,which implies the thermal radiation of point A gathered from the pan is bigger than B. Hence the temperature in the edge of the pan is higher than others.That's why the product in the outer edge of the pan is easy to be overcooked. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/598ba5eb4e98536eb19cb4424aac4982e64baf335bc1893b9cb04b2e49da5c4b.jpg",
+        "img_caption": [
+            "Fig.14 The sketch map explaining the high temperature in the four corners "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "From the heat distribution model and numerical simulation results in this paper we know that, due to uneven heat distribution at the edges and corners of rectangle pan, it would be easy to burn the food.However, if using circular pan,as a result of even heat distribution on the entire pan, the food would not be burnt easily. But given the truth that the ovens used in the actual life are mostly rectangular, using rectangular pan can make full use of the oven space.We can bake more food in one time.On the contrary, circular pan cannot make good use of the oven ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "space. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In actual use,we can choose rounded rectangular pan. It not only can ensure that food would not be burnt easily at the edges and corners of the pan, but also can make full use of oven space.Of course, the specific choice of the shape of the pan depends on the user's preferences.If you just want to bake delicious food, choose the circular pan! ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] TaoWen quan.Numerical heat transfer[M].Xi'an:Xi'an Jiao tong University Press,1992 (in Chinese).   \n[2] Wang L Q,Zhou $\\mathrm { ~ X ~ S ~ }$ and Wei X H.Heat Conduction. 2008 (Berlin: Springer)   \n[3] Wen Liang ying,Bai Chen guang.Heat Transfer Simulation and Experiment of Highly Efficient Regenerator [J] Journal of Chongqing University (Natural Science Edition),2006,29(2):68-71 (in Chinese).   \n[4]Donald Pitts,Leighton Sisson. Schau's Outline of Theory and Problems of Heat Transfer, Second Edition.Science Press,Ephrata,Pennsylvania,2002.   \n[5] Cao Gang,Wang Gui zhen, and Ren Xiao rong.Fundamental Solution to one-dimensional heat conduction equation.Journal of Shandong Institute of Light Industry. Vol.19,No.4,Dec.2005:77-79.   \n[6]Yoon Hwan Choi, Yeon Won Lee. Temperature Distribution and Thermal Stresses in Various Conditions of Moving Heating Source during Line Heating Process[J]. Journalof Thermal Science Vol.21,No.1 (2012) 82-87.   \n[7]DUAN Xiaodong Cellular Automata Theory Research and Simulation Applications [M] Science Press 2012 in Chinese.   \n[8]Iwao,T. Numerical simulation of argon twin torch plasma arc for high heating efficiency, Vacuum, Vol. 83,pp. 34-38,2009. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

@@ -1,0 +1,231 @@
+# 基于SPEIbasev.2.6数据集的内蒙古旱灾危险性评价
+
+金令'，王永芳1,23，郭恩亮²，刘桂香³，包玉龙1,2(1.内蒙古师范大学地理科学学院,内蒙古 呼和浩特010022；2.内蒙古自治区蒙古高原灾害与生态安全重点实验室,内蒙古 呼和浩特010022；3.中国农业科学院草原研究所，内蒙古 呼和浩特010010)
+
+摘要：为明确内蒙古地区不同时间尺度旱灾危险性分布特征，选取内蒙古地区1949—2018年SPEIbase v.2.6数据集，利用Theil-Sen趋势分析和Mann-Kendall检验法分析气象干旱时空演变特征,并基于干旱多年平均强度与加权综合评价模型,对研究区年、季节尺度的旱灾危险性进行了评价。结果表明：无论是年际变化还是在空间上，内蒙古年尺度和春、夏、秋3个季节尺度的气候整体呈显著干旱趋势；研究区以中等及以上等级的年尺度旱灾危险性为主，占总面积的 $71 \%$ 。其中，高、极高危险性区域主要位于呼伦贝尔市和锡林郭勒盟东部;在春、夏两季，内蒙古干旱灾害危险性空间分布呈“北高南低”,高等级的危险性主要位于锡林郭勒草原和地处干旱区的阿拉善盟；秋、冬两季的高等级危险性区域显著减少，尤其是冬季，以东北地区的低、极低危险性为主要特征，与其干旱趋势变化特征较为一致。研究结果可为内蒙古地区干旱灾害风险管理提供参考依据。
+
+关键词：内蒙古；标准化降水蒸散指数(SPEI)；干旱；时空特征；危险性评价
+
+# 文章编号：
+
+全球气候变暖是人类迄今为止面临的最重大也是最为严重的全球环境问题，并作为21世纪人类面临的最复杂的挑战之一引起了世界各国政府和公众的广泛关注[]。其中政府间气候变化专门委员会（Intergovernmental Panel on Climate Change, IPCC)第6次评估报告指出，目前全球地表平均温度较工业化前高出约 $1 \mathrm { { ^ { c } } }$ ，从未来20a的平均温度变化预估来看,全球升温预计将达到或超过 $1 . 5 ^ { \circ } \mathrm { C } ^ { [ 2 ] }$ 。中国是全球干旱灾害较为严重的国家之一，其发生频率高、持续时间长、影响范围广，已成为制约中国经济发展和社会进步的重要因素之一。中国每年因干旱造成的损失可达 $9 . 1 0 \times 1 0 ^ { 1 0 }$ 元[3],严重威胁经济社会可持续发展和生态文明建设进程。
+
+灾害风险管理工作在防灾减灾中的作用和地位日益突现，其中干旱灾害危险性评价是其核心内容,可以综合表征干旱灾害强度[4]。目前,有关干旱灾害危险性评价方法主要以干旱灾害发生频率、强度、变异系数等指标构建概率分布函数，估算不同程度灾害发生的超越概率为主[5-6]。例如张玉静等7利用华北地区冬小麦发育期资料、气象资料和产量资料，分析不同发育阶段干旱灾害的时空分布规律。费振宇等以降水量距平百分率作为气象干旱指标，通过逐月降水资料进行干旱过程识别，分析了中国近50a干旱危险性时空分布特征。谭春萍等利用标准化降水蒸散指数（Standardized precipita-tionevapotranspirationindex,SPEI)分析宁夏地区气象干旱特征，并在此基础上通过构建SPEI值与干旱等级的加权综合评价模型，对宁夏地区干旱致灾危险性进行了分析。然而，已有的旱灾危险性研究主要针对农业旱灾[10-],草原旱灾危险性研究相对匮乏。
+
+内蒙古自治区是中国四大草原之一，是重要的农牧产品加工基地和主要的粮食产区，也是中国北方重要的生态屏障。然而，由于该区属于典型十旱/
+
+# 干旱区地理
+
+半干旱地区，对全球气候变化十分敏感，容易受到自然灾害的影响。近年来，内蒙古大部分地区降水量呈波动下降趋势，气温每10a上升 $0 . 5 2 ^ { \circ } \mathrm { C }$ ,导致干旱灾害发生频繁，草畜矛盾日趋尖锐，草原退化、沙化及盐碱化现象愈发严重，对生态环境和农牧民生产生活造成了严重影响[12]。内蒙古旱灾形势十分严峻,灾害防御工作显得尤为迫切。然而，目前围绕内蒙古的相关研究以干旱监测及其对植被的影响评估居多[13],从灾害风险科学角度出发进行大区域尺度草原旱灾危险性评价的研究尚少。因此，本文综合考虑降水和蒸发，选取基于格网尺度的SPEI作为干旱监测指标，分析内蒙古地区干旱时空演变特征,并结合不同等级干旱的多年平均强度，运用加权综合评价模型，对内蒙古地区旱灾危险性进行综合评价，以期为内蒙古地区干旱风险管理提供理论依据。
+
+# 1研究区、数据与方法
+
+# 1.1 研究区概况
+
+内蒙古自治区位于东亚中纬度内陆地区，地理范围为 $9 7 ^ { \circ } 1 2 ^ { \prime } { \sim } 1 2 6 ^ { \circ } 0 4 ^ { \prime } \mathrm { E } , 3 7 ^ { \circ } 2 4 ^ { \prime } { \sim } 5 3 ^ { \circ } 2 3 ^ { \prime } \mathrm { N }$ ,东西长$2 4 0 0 \mathrm { k m }$ ，南北宽 $1 7 0 0 \mathrm { k m }$ ，横跨三北(西北、华北、东北），毗邻8省区[4(图1)。地形由东北向西南呈现出平原、山地和高原交错排列，影响着大气环流和地表水热条件的再分配，进而影响植被的发育和分布，最终形成独特的自然条件和自然资源[15]。除了注：该图基于国家测绘地理信息局标准地图服务网站下载的审图号为GS(2020)4632号的标准地图制作，底图边界无修改。下同。
+
+![](images/b5ee7d49c4f00373fcd5991c211f9f93586e18c308f7fc77bc3160629672b1de.jpg)  
+图1研究区及格网点分布  
+Fig.1Distributions of the study area and grid points
+
+大兴安岭北段属寒温带大陆性季风气候外，其余部分属温带大陆性季风气候。全区受蒙古高压控制，冬季漫长而寒冷，受东南海洋热气团影响，夏季短暂而炎热，春季气温上升快，秋季气温急剧下降。全年日照时数为 $2 5 0 0 { \sim } 3 4 0 0 \mathrm { h }$ ;年降水量在100\~500$\mathrm { m m }$ 之间且集中于夏季，由东向西逐渐减少;年平均气温为 $0 { \sim } 8 \ \mathrm { { ^ circ C } }$ ,从东至西逐渐增大；内蒙古蒸发量相当于降水量的3\~5倍，在阿拉善盟部分地区可达200倍[17]。
+
+# 1.2数据来源与处理
+
+本文采用的数据是标准化降水蒸散指数的全球格网数据集2.6版本(SPEIbasev.2.6)。该数据集来源于西班牙国家研究委员会机构资料库(http://hdl.handle.net/10261/202305），发布于2020年3月，时间尺度为1\~48个月，空间分辨率为 $0 . 5 ^ { \circ }$ ，时间范围1901—2018年。数据计算中，降水和温度数据是CRUTSV3.24.01数据集，潜在蒸散量通过彭曼公式(FAO-56 Penman-Monteith)计算[18]
+
+利用内蒙古自治区边界分别提取了1949—2018年3个月和12个月尺度的SPEI值，即SPEI-3和SPEI-12的月值数据集，创建像元大小约为 $5 7 \mathrm { k m }$ 的格网，并对其进行格式转换，总计460个格网。SPEI-3可以反映3个月尺度的干旱状况，SPEI-3数据集中的5、8、11月和次年2月对应的数值可以分别反映春季、夏季、秋季及冬季干旱状况。SPEI-12数据集中12月对应的数值则可以反映整年的干旱状况。基于此，本研究建立了1949—2018年研究区反映春、夏、秋、冬四季和年干旱状况的SPEI年值数据集。根据《气象干旱等级》（GB/T20481-2017）[19]，本文将干旱等级划分为5个等级(表1)。
+
+# 1.3 研究方法
+
+# 1.3.1Theil-Sen趋势分析和Mann-Kendall检验
+
+Theil-Sen趋势分析是一种稳健的非参数计算方法[20]，
+
+表1基于标准化降水蒸散指数(SPEI)的干旱等级划分标准  
+Tab.1 Criteria for classification of drought based on SPEI   
+
+<html><body><table><tr><td>等级</td><td>类型</td><td>SPEI值</td></tr><tr><td>1</td><td>无旱</td><td>SPEI>-0.5</td></tr><tr><td>2</td><td>轻旱</td><td>-1.0<SPEI≤-0.5</td></tr><tr><td>3</td><td>中旱</td><td>-1.5<SPEI≤-1.0</td></tr><tr><td>4</td><td>重旱</td><td>-2.0<SPEI≤-1.5</td></tr><tr><td>5</td><td>特旱</td><td>SPEI≤-2.0</td></tr></table></body></html>
+
+用于判断长时间序列数据趋势。计算公式为：
+
+$$
+\beta = \mathrm { m e d i a n } { \frac { x _ { j } - x _ { i } } { j - i } }
+$$
+
+式中： $\beta$ 为斜率； $x _ { i }$ 和 $\mathbf { \boldsymbol { x } } _ { j }$ 分别为第 $i$ 和第 $j$ 时刻的序列值; $n$ 为序列长度, $1 < i < j < n$ 。若 $\beta > 0$ ,表示呈上升趋势；若 $\beta < 0$ ，表示呈下降趋势;若 $\beta = 0$ ，表示稳定不变。
+
+Mann-Kendall(简称M-K)检验法是一种基于秩的非参数统计检验方法，是检验序列变化趋势及诊断序列突变发生的有效工具之一[21],已被广泛应用于气象水文序列分析，计算公式为[22]：
+
+构造时间序列 $\mathrm { S P E I } _ { i }$ （ $i = 1 , 2 , \cdots , n \ )$ 的秩序列$S _ { k }$ ·
+
+$$
+S _ { k } = \sum _ { i = 1 } ^ { k } r _ { i } \left( k = 1 , 2 , \cdots , n \right)
+$$
+
+定义统计量 $\mathrm { U F } _ { k }$ ：
+
+$$
+\mathrm { U F } _ { k } = { \frac { S _ { k } - E { \bigl ( } S _ { k } { \bigr ) } } { \sqrt { \operatorname { V a r } { \bigl ( } S _ { k } { \bigr ) } } } }
+$$
+
+式中： $E ( S _ { k } )$ 为 $S _ { k }$ 的均值; $\mathrm { V a r } \big ( S _ { k } \big )$ 为 $S _ { k }$ 的方差，计算方式如下：
+
+$$
+E { \big ( } S _ { k } { \big ) } = { \frac { k \times { \big ( } k - 1 { \big ) } } { 4 } }
+$$
+
+$$
+\operatorname { V a r } ( S _ { k } ) = { \frac { k \times ( k - 1 ) \times ( 2 k + 5 ) } { 7 2 } }
+$$
+
+$\mathrm { U F } _ { k }$ 为正序统计量序列,给定显著性水平 $\mathbf { \Omega } _ { a }$ ，查找正态分布表，若 $\left| \operatorname { U F } _ { k } \right| > \left| \operatorname { U F } _ { a / 2 } \right|$ ,则在显著水平 $\mathbf { \alpha } _ { a }$ 下，序列具有显著的趋势变化。将原始时间序列逆序排列，重复上述计算过程，同时使
+
+$$
+\left\{ \operatorname { U B } _ { k } = - \operatorname { U F } _ { k } \ \left( k = 1 , 2 , \cdots , n \right) \right.
+$$
+
+式中： $\mathrm { U F } _ { k }$ 为正序统计量序列； $\mathrm { U B } _ { k }$ 为逆序统计量序列。绘制 $\mathrm { U F } _ { k }$ 和 $\mathrm { U B } _ { k }$ 曲线图,若 $\mathrm { U F } _ { k }$ 和 $\operatorname { U B } _ { k } 2$ 条曲线出现交点,且交点介于临界直线 $y = 1 . 9 6$ 和 $y =$ $- 1 . 9 6$ 之间时，则交点对应的时间点为突变时间[23]。
+
+1.3.2旱灾危险性评价模型本文利用提取的格网SPEI数据计算不同等级干旱的多年平均值，并运用加权综合模型，计算出内蒙古地区年、季节干旱危险性指数。根据表1中的干旱等级划分标准，分别筛选出1949—2018年研究区发生轻旱、中旱、重旱和特旱的年份，将其对应的SPEI值进行平均，分别乘以1、2、3、4的权重并相加，最终获取每个460个格网点整年和4个季节的危险指数，其计算公式为9]：
+
+$$
+H _ { _ { i j } } = \sum _ { j = 1 } ^ { n } \bigl ( M _ { _ { i j } } \times W _ { _ { j } } \bigr )
+$$
+
+式中： $\boldsymbol { H } _ { i j }$ 为干旱危险性指数,值越小,危险性越大;$i$ 为格网点序号； $j$ 为干旱等级的序号； $M _ { i j }$ 为 $i$ 格网中处于干旱等级 $j$ 所有年的SPEI均值，即干旱等级$j$ 的多年平均强度; $\boldsymbol { W } _ { j }$ 为干旱等级 $j$ 的权重;若某一年未出现某一等级的干旱，则不进行加权综合，因此 $n$ 的取值在1\~4之间。在众多分级方法中自然间断点分级法是基于数据中固有的自然分组，对分类间隔加以识别，能够最恰当地对相似值分组，并可使各个类之间的差异最大化[24]。由于内蒙古地区东西跨度大，地区间危险性指数分布差异明显，而自然间断点分级法对于非均衡分布数据值的映射具有较好的适用性[25]。基于此,本文利用ArcGIS软件的自然间断点分级法将危险性指数分为极低、低、中、高和极高5个等级(表2)。
+
+# 2结果与分析
+
+# 2.1SPEIbasev.2.6适用性分析
+
+SPEIbase是全球范围的格网产品数据集，尽管该产品在生产过程中已经进行过检验，但其对于区域干旱的表征能力仍存在不确定性，因此需要对该产品适用性进行分析，确保研究结果的准确性。Wang等[26]利用内蒙古46个气象站点的逐月降水和气温数据计算出多时间尺度的SPEI值，并与对应格网点的SPEIbasev.2.4数据集进行了对比验证，结果表明基于观测数据的SPEI与格网SPEIbasev.2.4数据相关性系数高达0.8306。本研究采用的SPEI-basev.2.6数据集是SPEIbasev.2.4的更新版本，提供了精度更高、时间序列更长的干旱信息。因此，可以认为SPEIbasev.2.6数据集在表征内蒙古干旱时空分布和危险性方面具有较好的适用性。
+
+表2内蒙古地区干旱危险性等级划分  
+Tab.2 Classification of drought hazard in Inner Mongolia   
+
+<html><body><table><tr><td>等级</td><td>极高危险性</td><td>高危险性</td><td>中危险性</td><td>低危险性</td><td>极低危险性</td></tr><tr><td>干旱危险性指数</td><td>[-23.51, -18.63)</td><td>[-18.63, -17.42)</td><td>[-17.42, -16.04)</td><td>[-16.04, -11.61)</td><td>[-11.61, -2.90]</td></tr></table></body></html>
+
+# 2.2内蒙古干旱时空演变特征
+
+2.2.1干旱年际变化特征1949—2018年研究区SPEI-12年际变化特征如图2所示，结果显示内蒙古SPEI-12整体呈显著下降趋势 $( - 0 . 0 2 2 2 \cdot \mathrm { a } ^ { - 1 }$ ， $P <$ 0.05)，表明研究区气候呈显著干旱化。SPEI-12变化范围在-1.99\~1.49之间，最大值发生在1959年，最小值发生在2017年。1949—1964年SPEI-12正值年份较多，说明研究区处于较为湿润的时期；1965—1999年SPEI-12呈现出明显的正负值交替变化特征，发生干旱的年份主要以轻旱为主，1965年则为中旱;进入21世纪，SPEI-12呈下降趋势，干旱频率与程度显著增加，整个时期以中旱为主，2017年发生了重旱，是近70a内蒙古最为干旱的时期。由图2还可以看出，M-K突变检验存在着多个交点，但除了1990年之外，其他2个突变点都未通过0.05水平上的显著性检验，说明1990年是年尺度干旱的显著突变点。
+
+![](images/d6512f771af9c72fe17f6d54e5b35575504152afe096b3b5190d24250c560f29.jpg)  
+图2年干旱的年际变化特征
+
+1949—2018年研究区季节干旱的年际变化特征如图3所示。从图中可知，研究区四季均有不同程度干旱趋势。其中，春季SPEI-3以 $- 0 . 0 2 1 6 \cdot \mathrm { a } ^ { - 1 }$ 速率显著下降( $( P { < } 0 . 0 5 )$ ,说明春季气候显著干旱化，SPEI-3变化范围在 $- 1 . 8 8 \mathrm { \sim } 1 . 8 7$ 之间，无显著突变点，
+
+![](images/9a19d228f631fcd338058a29edd5e9a463f687c352d4a501fc570d7ff5e7baba.jpg)  
+Fig.2 Inter-annual change characteristics ofannual drought   
+图3季节干旱的年际变化特征  
+Fig.3Inter-annual change characteristics of seasonal drought
+
+2017年春季发生了重旱，2010年则最为湿润（图$3 \mathrm { a }$ )。近70a来夏季SPEI-3曲线亦呈显著下降趋势（204 $\left( - 0 . 0 1 3 8 \cdot \mathrm { a } ^ { - 1 } \right.$ $\scriptstyle P < 0 . 0 5 .$ ),变化特征与年干旱的变化曲线相似，1949一1959年研究区处于湿润时期，在1959年达到最大值，随后SPEI值正负交替。UF和UB曲线于1997年相交，且通过了显著性检验，随后干旱频率和程度明显增加，,研究区进入相对干旱时期(图3b);相比春、夏两季，秋季干旱频次有所减少，干旱年主要发生在 $1 9 6 0 \mathrm { s } \lrcorner 2 0 0 0 \mathrm { s }$ 和2010s中期，整体以 $- 0 . 0 1 0 6 \cdot \mathrm { a } ^ { - 1 }$ 速率显著( $( P { < } 0 . 0 5 )$ 下降。UF和UB曲线于1978年相交，并通过0.05水平上的显著性检验，说明1978年是显著突变点(图3c);冬季SPEI-3以 $- 0 . 0 0 2 9 \cdot \mathrm { a } ^ { - 1 }$ 速率呈非显著下降趋势( $P >$ 0.05），研究初期和末期为2个相对湿润时期，干旱主要发生于1958—1999年，以中旱为主。冬季UF和UB曲线在显著水平内有3个突变点，主要集中于湿润向干旱的转折时期(图3d)。总体而言，春、夏季干旱集中在2000年之后，秋季干旱频次少、冬季干旱则在20世纪60年代至90年代的40a间均有发生。
+
+2.2.2 干旱趋势变化特征 基于SPEIbasev.2.6数据集，利用Theil-Sen趋势分析方法，计算研究区SPEI变化斜率，并利用M-K检验判断了斜率的显著性水平，统计结果如表3所示。结果显示，460个格网点内的SPEI-12斜率均为负值，且其中413个格网通过了0.05水平的显著性检验，说明研究区整体呈干旱趋势，斜率则从内蒙古中部向东北、西南方向逐渐降低(图4)。
+
+春季干旱的趋势变化分布与年干旱的空间格局较为相似，460个格网中的SPEI-3均为负值，高达446个格网呈显著降低，研究区中、西大部分地区干旱斜率达到了 $- 0 . 0 2 4 \mathrm { { \sim } } - 0 . 0 3 6 \cdot \mathrm { { a } } ^ { - 1 }$ 之间，说明整个内蒙古春季气候显著干旱化(图 $5 \mathrm { a }$ )。夏季干旱趋势相比春季明显有所缓解，但SPEI-3斜率仍呈现整体下降趋势，其中高值区包括锡林郭勒盟、乌兰察布市、包头市和巴彦淖尔市，并向东、西2个方向逐渐降低。呼伦贝尔市、阿拉善盟以及鄂尔多斯市等地虽有小幅度干旱趋势，但多地均未通过显著性检验（图5b)。秋季有423个格网的SPEI-3呈下降趋势，其中183个显著下降，主要集中于锡林郭勒盟、赤峰市和通辽市，斜率达到了 $- 0 . 0 1 8 { \sim } - 0 . 0 2 4 \cdot \mathrm { a } ^ { - 1 }$ 之间。此外,研究区大部分地区呈非显著干旱趋势，主要位于研究区西部和东北部。37个格网呈上升趋势，位于研究区西南角(图5c)。冬季干旱呈明显的东、西分布格局，162个格网SPEI-3呈上升趋势，但通过显著性的较少，主要分布于研究区中东部和东北地区，呈非显著湿润趋势。这是由于在地理位置上更靠近中国沿海季风区，冬季副热带高压的增强有利于水汽向内陆地区输送，致使研究区冬季相对湿润[27]。研究区298个格网SPEI-3呈下降趋势，其中119个格网通过了0.05水平的显著性检验，主要分布于乌兰察布市、呼和浩特市南缘和鄂尔多斯市北缘(图5d)。整体而言，研究区干旱趋势变化在不同季节存在空间差异，春季以研究区中部以及西部大面积干旱趋势为主要特征，夏季和秋季干旱的程度、面积和重心向中东部倾斜，冬季则呈现了明显的东、西相对的空间格局。
+
+表3不同类型干旱、不同类型趋势格网点统计  
+Tab.3 Statistics of grid points for different types of drought and trend:   
+
+<html><body><table><tr><td>类型</td><td>上升趋势</td><td>显著上升</td><td>非显著上升</td><td>下降趋势</td><td>显著下降</td><td>非显著下降</td></tr><tr><td>年干旱</td><td>0</td><td>0</td><td>0</td><td>460</td><td>413</td><td>47</td></tr><tr><td>春季干旱</td><td>0</td><td>0</td><td>0</td><td>460</td><td>446</td><td>14</td></tr><tr><td>夏季干旱</td><td>1</td><td>1</td><td>0</td><td>459</td><td>249</td><td>210</td></tr><tr><td>秋季干旱</td><td>37</td><td>3</td><td>34</td><td>423</td><td>183</td><td>240</td></tr><tr><td>冬季干旱</td><td>162</td><td>23</td><td>139</td><td>298</td><td>119</td><td>179</td></tr></table></body></html>
+
+![](images/ae458d1c61b181915af23fd14ee8437caf1117c6ccf05d77ca676ce248a5ee26.jpg)  
+图4年干旱的趋势变化特征  
+Fig.4 Change characteristics of annual drought trend
+
+![](images/9c553f05a36d1c888007086b1d9b803bf8b159d3ec42ac6aa91e20d8bc47a3b5.jpg)  
+图5季节干旱的趋势变化特征  
+Fig.5Change characteristics of seasonal drought trend
+
+# 2.3内蒙古旱灾危险性评价
+
+干旱灾害的发生是干旱致灾因子本身的异变及其作用于人类社会经济体的过程。因此，明晰内蒙古地区干旱时空演变特征，并在此基础上对内蒙古地区旱灾危险性进行系统分析、科学评估与区划，事关区域旱灾防御的具体成效。根据旱灾危险性评价模型，本文得到了年、季节干旱的危险性等级空间分布图。结果显示，研究区年尺度旱灾危险性分布具有一定空间差异性(图6)。其中，极高、高危险性分别占研究区总面积的 $1 0 \%$ 和 $2 5 \%$ ，主要分布于呼伦贝尔市和锡林郭勒盟东部，这是由于不同等级干旱的平均强度高所致，尤其是重旱和特旱；中危险性分布于研究区各盟市，占总面积的 $3 6 \%$ ·低危险性与中危险性混合分布，占研究区总面积的$23 \%$ ;位于研究区西南边缘的极低危险性是由于未发生特旱所致，特旱的平均强度为0。总体而言，中危险性及以上等级的危险性占总面积的 $7 1 \%$ ，说明内蒙古地区年尺度旱灾危险性较高，极易引发干旱灾害。
+
+由于春季各地重旱和特旱等级平均强度较高，从而导致中、高危险性等级分布较广，占研究区总面积的 $7 2 \%$ 。而研究区南部地区春季并未发生特旱，属于低、极低危险性区域。值得注意的是，研究区中部锡林郭勒草原位于高危险地区，由于春季处于牧草返青阶段，自身抵抗力最弱，最易受到干旱事件的影响，会影响牧草的生长发育，进而影响牧草产量[28]（图 $7 \mathrm { a }$ )。夏季危险性程度显著增加，且高、极高危险性等级分布相对集中，占研究区总面积的 $3 9 \%$ ，分布于锡林郭勒草原与阿拉善盟；低、极低危险性范围也有所扩大，与春季相比增加了$1 3 \%$ ,体现在研究区东北、东南部地区；东北地区危险性分布存在差异，东高西低，包含各等级危险性，相比其他季节危险性指数相对较高(图7b)。秋季的高、极高危险性面积有所减少，较夏季降低 $14 \%$ ，主要集中于通辽市和赤峰市南部以及阿拉善盟西部地区，属于秋季旱灾高等级危险区域。研究区中西部和东北部地区由低和极低危险性组成，尤其是研究区北缘由极低危险性构成(图7c)。冬季的旱灾低、极低危险性区域占比高达 $4 8 \%$ ,以研究区东部地区最为显著，这与该区气候呈湿润趋势有关。高、极高危险性显著降低，零星分布于研究区边缘
+
+![](images/ce5c8486352d7af95005fe17c4edd642c95f8d737175dd5a82fb6f8f0ef531bf.jpg)  
+图6年干旱危险性空间分布
+
+![](images/b36f07ec3df589c9574cb4d0ec305ffdfb23a00cd78af8ebf76c05e12aecb613.jpg)  
+Fig.6 Spatial distribution of annual drought hazard   
+图7四季干旱危险性空间分布  
+Fig.7Spatial distributions of drought hazard in four seasons
+
+# 干吴区地理
+
+地带(图7d)。总体而言，研究区四季旱灾危险性以中危险等级为主，但其空间分布没有明显的规律可循。春、夏两季的旱灾危险性整体上呈现出“北高南低"的分布格局。秋、冬两季则以南部和东北地区的低、极低危险性区域面积扩大为主要特征。
+
+# 3讨论
+
+本文对内蒙古地区近 $7 0 \mathrm { a }$ 不同时间尺度的干旱时空变化特征进行了分析。研究结果显示，1949—2018年内蒙古地区气候呈显著干旱趋势，这与吴英杰等[29]的研究结果基本一致，但是两者在季节干旱年际变化方面存在差异，前者采用的是降水量距平百分率[29]，而本文运用的则是SPEI,该指数在降水量的基础上考虑了潜在蒸散。已有研究表明当蒸散量增加时，区域需水量也增加，从而可加剧干旱[30]因此，SPEI不仅具有多时间尺度优势，还能揭示干旱的形成机理。本文还发现进人21世纪之后内蒙古地区干旱频率与程度显著增加，这与覃艺等[]的研究结果一致，2篇文章虽然均选用了SPEI,前者数据源为气象观测数据，而本文数据源为基于空间格网尺度的SPEI产品数据集，相比前者，省去了复杂的计算过程，更加快速便捷。
+
+通过不同等级干旱的多年平均强度与加权综合评价模型，本研究对内蒙古旱灾危险性进行了评价。研究结果表明，高危险性区域位于内蒙古中、西部地区。尽管危险性等级有所差异，但整体危险性空间格局与赵佳琪等[32]的研究结果较为一致。张存厚等[33]发现内蒙古草原牧区旱灾危险性指数整体呈现出"北高南低"的空间分布格局，与本研究结果较为一致。本文利用不同干旱等级的平均强度，运用加权综合模型揭示了内蒙古地区干旱危险性分布特征，该模型计算简单，所需的数据获取较易，可以在旱灾发生后迅速评价旱灾的危险程度。但其缺点在于仅考虑了干旱强度作为模型参数，今后将综合考虑干旱历时等要素对模型进行优化与改进，提升其综合评价能力。
+
+# 4结论
+
+本文选取内蒙古自治区1949—2018年SPEI-basev.2.6数据集，利用Theil-Sen趋势分析和M-K检验法分析气象干旱时空演变特征，并通过不同等级干旱的多年平均强度与加权综合评价模型，对该地区旱灾危险性进行了综合评价。主要结论如下：
+
+（1）年际变化方面，SPEI-12以 $- 0 . 0 2 2 2 \cdot \mathrm { a } ^ { - 1 }$ 的速率呈显著下降趋势，说明研究区气候呈显著干旱趋势,尤其是2000年以后，干旱频率及强度逐渐增加;内蒙古春季干旱趋势最为显著，其次为夏季和秋季，冬季呈非显著干旱趋势。
+
+(2）空间上，年尺度和春季干旱趋势变化空间格局相似，均以显著下降趋势为主，从中部地区逐渐向两侧减轻；夏季干旱斜率高值区主要以中部地区为主；秋季偏向于中东部地区；东北部地区在冬季表现为非显著湿润化趋势。
+
+（3）危险性分布格局方面，研究区以中等级的危险性为主，年尺度旱灾高等级危险性位于呼伦贝尔市和锡林郭勒盟东部；春、夏两季的旱灾危险性主要呈现出“北高南低"的分布特征，其中夏季高、极高危险性地区主要为锡林郭勒草原和阿拉善盟;秋、冬两季则以南部和东北地区的低、极低危险性区域面积扩大为主要特征。
+
+# 参考文献(References)
+
+[1]司文洋,张明军,刘普幸.中国绿洲喜温作物气候生长期对全球 变暖停滞响应的时空差异[J].干旱区地理,2020,43(4):899- 908.[Si Wenyang, Zhang Mingjun,Liu Puxing. Spatial and temporal response differences to global warming hiatus of the thermophilic crops climate growth period in oases of China[J].Arid Land Geography,2020,43(4): 899-908.]   
+[2] IPCC. Climate change 2O21: The physical science basis[M]. Cambridge:Cambridge University Press,2021.   
+[3] 张音，古丽贤·吐尔逊拜,苏里坦,等.近60a来新疆不同海拔气 候变化的时空特征分析[J].干旱区地理,2019,42(4):822-829. [Zhang Yin,Tuerxunbat Gulixian, Su Litan,et al. Spatial and temporal characteristics of climate change at different altitudes in Xinjiang in the past 6O years[J].Arid Land Geography,2019,42(4): 822-829.]   
+[4] 赵铁松,王丽荣,郭恩亮,等.基于Copula 函数的降水事件危险 性评估一 一以子牙河流域典型区为例[J].自然灾害学报， 2020,29(6): 199-208.[Zhao Tiesong,Wang Lirong,Guo Enliang, et al.Hazard assessment of precipitation events based on Copula function: Take the typical area of Ziya River Basin as an example
+
+[J]. Journal of Natural Disasters,2020,29(6): 199-208.]   
+[5]支询,林中冠,沙莉,等.川南地区1989—2019年农业干旱危险 性特征分析[J].农学学报,2020,10(8):78-82.[Zhi Xun,Lin Zhongguan, Sha Li, et al. Agricultural drought hazard characteristics in southern Sichuan during 1989—2019[J]. Journal of Agriculture,2020,10(8): 78-82.]   
+[6]黄浩,张勃,马尚谦,等.甘肃河东地区气象干旱时空变化及干 旱危险性分析[J].中国农业气象,2020,41(7):459-469.[Huang Hao, Zhang Bo,Ma Shangqian,et al. Temporal and spatial variations of meteorological drought and drought risk analysis in Hedong area of Gansu Province[J]. Chinese Journal of Agrometeorology, 2020,41(7): 459-469.]   
+[7]张玉静,王春乙,张继权.华北地区冬小麦干旱危险性分析[J] 自然灾害学报,2014,23(6):183-192.[Zhang Yujing,Wang Chunyi, Zhang Jiquan. Hazard analysis of drought disaster for winter wheat in north China[J].Journal of Natural Disasters,2O14,23(6): 183-192.]   
+[8]费振宇,孙宏巍,金菊良,等.近50年中国气象干旱危险性的时 空格局探讨[J].水电能源科学,2014,32(12):5-10.[Fei Zhenyu, Sun Hongwei,Jin Juliang,et al. Temporal and spatial patterns of meteorological drought hazard in China for recent 5O years[J].Water Resources and Power,2014,32(12): 5-10.]   
+[9]谭春萍,杨建平,杨圆,等.宁夏回族自治区干旱致灾危险性时 空变化特征[J].灾害学,2015,30(2):89-93.[Tan Chunping, Yang Jianping,Yang Yuan,et al. Spatial-temporal variation of drought hazard in Ningxia Hui Autonomous Region, China[J].Journal of Catastrophology,2015,30(2): 89-93.]   
+[10] 支询,沙莉,李施,等.宜宾市农业干旱危险性演变特征分析[J]. 现代农业科技,2019(19):191-193,195.[Zhi Xun,Sha Li,Li Shi,et al.Analysis on evolution characteristics of agricultural drought risk in Yibin City[J].Modern Agricultural Science and Technology,2019(19): 191-193,195.]   
+[11] 陈家金,黄川容,孙朝锋,等.福建省茶叶气象灾害致灾危险性 区划与评估[J].自然灾害学报,2018,27(1):198-207.Chen Jiajin,Huang Chuanrong, Sun Chaofeng,et al. Disaster-causing hazard division and evaluation of meteorological disasters for tea in Fujian Province[J]. Journal of Natural Disasters,2O18,27(1): 198-207.]   
+[12]马凯,徐玉霞,方锋.蚂蚁森林种植地鄂尔多斯市1959—2018 年气温及降水变化特征研究[J].水资源与水工程学报,2019, 30(6): 109-115.[Ma Kai,Xu Yuxia,Fang Feng.Study on temperature and precipitation change characteristics of ant forest plantation in Ordos City from1959 to 2018[J].Journal of Water Resources& Water Engineering,2019,30(6):109-115.]   
+[13] 杨舒畅,杨恒山.1982—2013年内蒙古地区干旱变化及植被响 应[J].自然灾害学报,2019,28(1):175-183.[Yang Shuchang,Yang Hengshan. Drought evolution and vegetation response in Inner Mongolia from1982 to2013[J].Journalof Natural Disasters,
+
+2019,28(1): 175-183.]
+
+[14]代海燕,李丹,娜日苏,等.内蒙古干湿环境演变与地区生态建 设优势气候背景分析[J].干旱区地理,2019,42(4):745-752. [DaiHaiyan,Li Dan,Na Risu,etal.Dry and wet environment evolution and climatic background analysis of regional ecological construction in Inner Mongolia[J].Arid Land Geography,2O19,42(4): 745-752.]
+
+[15] 张思源,聂莹,张海燕,等.基于地理探测器的内蒙古植被NDVI 时空变化与驱动力分析[J].草地学报,2020,28(5):1460-1472. [Zhang Siyuan,Nie Ying, Zhang Haiyan, et al. Spatiotemporal variation of vegetation NDVI and its driving forces in Inner Mongolia based on geodetector[J]. Acta Agrestia Sinica,2020,28(5):1460- 1472.]   
+[16] 李文龙,匡文慧,吕君,等.北方农牧交错区人地系统演化特征 与影响机理——以内蒙古达茂旗为例[J].地理学报,2021,76 (2): 487-502.[Li Wenlong,Kuang Wenhui,Lu Jun,et al.Adaptive evolution mechanism of rural human-land system in farmingand-pastoral areas of northern China[J]. Acta Geographica Sinica, 2021,76(2): 487-502.]   
+[17] 王举凤,何亮,陆绍娟,等.内蒙古不同类型草原光合植被覆盖 度对降水变化的响应[J].生态学报,2020,40(16):5620-5629. [Wang Jufeng,He Liang,Lu Shaojuan, et al.Photosynthetic vegetation cover response to precipitation on the Inner Mongolian steppe[J]. Acta Ecologica Sinica,2020,40(16): 5620-5629.]   
+[18]Vicente-Serrano S M,Begueria S,López-Moreno JI,et al.A new global $0 . 5 ^ { \circ }$ gridded dataset (1901—2006)of a multiscalar drought index: Comparison with current drought index datasets based on the Palmer drought severity index[J].Journal of Hydrometeorolo gy,2010,11(4): 1033-1043.   
+[19]GBT20481-2017.气象干旱等级[S].北京:中国标准出版社, 2006.[GBT20481- 2017.Meteorological drought grade[S].Beijing: China Standard Press,2006.]   
+[20] 肖杨,周旭,罗雪,等.黔中地区近60年潜在蒸散量时空变化特 征及主导因素识别[J].水土保持研究,2021,28(6):1-9.[Xiao Yang,Zhou Xu,Luo Xue,et al. Spatiotemporal variation characteristicsof potential evapotranspiration and identification of leading factors in central Guizhou in recent 6O years[J]. Research of Soil and Water Conservation,2021, 28(6): 1-9.]   
+[21]宁忠瑞,张建云,王国庆.1948—2016年全球主要气象要素演 变特征及空间分布格局[J].中国环境科学,2021,41(9):4085- 4095.[Ning Zhongrui, Zhang Jianyun,Wang Guoqing. Variation and global pattern of major meteorological elements during 1948— 2016[J]. China Environmental Science,2021,41(9): 4085-4095.]   
+[22] 谢慧君,张廷斌,易桂花,等.川西高原植被NDVI动态变化特 征及对气候因子的响应[J].水土保持通报,2020,40(4):286- 294.[Xie Huijun, Zhang Tingbin, Yi Guihua,et al. Dynamic char acteristics of NDVI values and its response to climatic factors in
+
+# 干吴区地理
+
+western Sichuan Plateau[J].Bulletin of Soil and Water Conservation,2020,40(4): 286-294.]   
+[23] 刘小园,刘希胜.青海省湿地面积变化特征及成因分析[J].人民 黄河,2021,43(8): 90-95.[Liu Xiaoyuan,Liu Xisheng.Variation characteristics and cause analysis of wetland area in Qinghai Province[J].Yellow River,2021,43(8): 90-95.]   
+[24] 李乃强,徐贵阳.基于自然间断点分级法的土地利用数据网格 化分析[J].测绘通报,2020(4):106-110,156.[Li Naiqiang,Xu Guiyang.Grid analysis of land use based on natural breaks (jenks) classification[J]. Bulletin of Surveying and Mapping,2O2O(4): 106- 110, 156.]   
+[25]卢瑜,向平安,余亮.中国有机农业的集聚与空间依赖性[J].中 国生态农业学报,2021,29(3):440-452.[Lu Yu,Xiang Ping'an, Yu Liang.Agglomeration and spatial dependence of organic agriculture in China[J]. Chinese Journal of Eco-Agriculture,2021,29 (3): 440-452.]   
+[26]Wang YF,Liu G X,Guo E L. Spatial distribution and temporal variation of drought in Inner Mongolia during 1901—2014 using standardized precipitation evapotranspiration index[J]. Science of the Total Environment,2019,654: 850-862.   
+[27] 佟斯琴.气候变化背景下内蒙古地区气象干旱时空演变及预估 研究[D].长春:东北师范大学,2019.[Tong Siqin.Spatio-temporal variations and prediction of meteorological drought in Inner Mongolia under climate change[D]. Changchun: Northeast Normal University,2019.]   
+[28] 郭婷,薛彪,周艳明,等.我国牧草产品生产、贸易现状及启示 [J].草地学报,2019,27(1): 8-14.[Guo Ting,Xue Biao,Zhou Yanming,et al.Current status and enlightenment of production and trade of forage production in China[J].Acta Agrestia Sinica,2019, 27(1): 8-14. ]   
+[29] 吴英杰,李玮,王文君,等.基于降水量距平百分率的内蒙古地 区干旱特征[J].干旱区研究,2019,36(4):943-952.[Wu Yingjie, Li Wei,Wang Wenjun,et al.Drought characteristics in Inner Mongolia based on anomaly percentage[J].Arid Zone Research,2019, 36(4): 943-952.]   
+[30] Thornthwaite C W.An approach toward a rational classification of climate[J]. Soil Science,1948,66(1): 77.   
+[31]覃艺.基于SPEI和TVDI的内蒙古综合干旱监测[D].成都:成都 理工大学,2020.[Tan Yi. Comprehensive drought monitoring based on SPEI and TVDI in Inner Mongolia,China[D]. Chengdu: Chengdu University of Technology,2020.]   
+[32] 赵佳琪,张强,朱秀迪,等.中国旱灾风险定量评估[J].生态学 报,2021,41(3):1021-1031.[Zhao Jiaqi, Zhang Qiang,Zhu Xiudi,et al. Quantitative assessment of drought risk in China[J].Acta Ecologica Sinica,2021,41(3):1021-1031.]   
+[33] 张存厚,张立,吴英杰,等.内蒙古草原干旱灾害综合风险评估 [J].干旱区资源与环境,2019,33(7):115-121.[Zhang Cunhou, Zhang Li,Wu Yingjie,etal.Assessment on the integrated drought disaster risk in Inner Mongolia grassland[J]. Journal of Arid Land Resources and Environment,2019,33(7): 115-121.]
+
+# Evaluation of drought hazards in Inner Mongolia based on SPEIbase v.2.6 dataset
+
+JIN Ling'， WANG Yongfang123， GUO Enliang1²，LIU Guixiang^， BAO Yulong1,2
+
+(1.College ofGeographical Science,Inner Mongolia Normal University,HohhotOloO2,Inner Mongolia,China;   
+2.Inner MongoliaKeyLaboratoryofDisasterandEcological Securityon the MongolianPlateau,Inner Mongolia Autonomous Region,Hohhot OlOo22,Inner Mongolia,China;3.Grassland Research Institute,Chinese Academy of Agricultural Sciences,Hohhot O1OO1O,Inner Mongolia,China)
+
+Abstract: In recent years,drought disasters have occurrd frequently in Inner Mongolia,northern China,and loses caused by drought have increased year by year. Understanding the spatial and temporal characteristics of drought,and associated disaster-causing factors,are crucial for early-warning,prevention,and mitigation of future regional drought disasters.This study utilized the comprehensive SPEIbase v.2.6 dataset of precipitation and evapotranspiration from 1949 to 2018 for Iner Mongolia.The spatiotemporal characteristics of drought-related meteorological data were analyzed statistically using Theil-Sen trend analysis and the Mann-Kendall method.Based on the multi-year average intensity of droughts,a weighted comprehensive evaluation model was used to asess the drought hazard at annual and seasonal timescales.Results from Inner Mongolia show a significant downward trend in SPEI-12 (i.e.,the SPE index calculated ona12-month timescale),indicating thatthe climateof the study area experienced an increasing risk of drought with time. This trend of increasing frequency and degree of drought became particularly pronounced from the start of the $2 1 ^ { \mathrm { s t } }$ century. For the three seasons of spring, summer,and autumn,the climate of the whole of Iner Mongolia shows a significant trend of increasing drought frequency. Data for winter do not show a significant drought trend on an interannual timescale.Spatially,winter data show increasing humidity in the east and a subtle trend of increasing drought in the west. In general,Inner Mongolia can be considered extremely prone to drought disasters: areas ranked with a drought hazard grade of medium and above account for $71 \%$ of the total area of the province. The principal areas of high and extremely high drought risk are located in the east of Hulun Buir City and Xilin Gol League.For spring and summer, the spatial distributionof drought hazards in Inner Mongolia shows a patern of“high in the north and low in the south".The high-grade hazards lie mainly in the Xilin Gol grassand and the Alxa League. In autumn and winter, the areas of high-grade hazard shrink significantlyin size.In winter particularly,low-and extremely low-grade hazards of drought disaster are found in the northeast part of the study area,consistent with the spatial characteristics of the evolving drought trend.In summary,the results of this study can provide a scientific reference for drought disaster risk management in Inner Mongolia.The SPEI index，which integrates the sensitivity of demand for evapotranspiration,is shown to have good applicability in the study area.The SPEIbase v.2.6 dataset used in this study can remove the need for data collection and SPEI calculation,which improves eficiency. In the future,we will consider drought duration and other factors to optimize the model and enhance its predictive capabilities.
+
+Key words: Inner Mongolia; standardized precipitation evaporation index (SPEI)； drought; spatiotemporal characteristics；hazard assessment

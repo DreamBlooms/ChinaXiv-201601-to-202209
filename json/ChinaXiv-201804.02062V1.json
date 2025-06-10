@@ -1,0 +1,478 @@
+[
+    {
+        "type": "text",
+        "text": "基于BLSTM_Attention_CRF模型的新能源汽车领域术语抽取",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "马建红1，张亚梅'，姚 爽²，张炳斐1，郭昌宏1(1．河北工业大学 计算机科学与软件学院，天津 300401;2.河北工业大学，天津 300401)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为提高新能源汽车领域术语抽取准确率，面向新能源汽车专利文本提出一种领域术语抽取模型。传统的领域术语抽取方法过度依赖人工定义特征和领域知识，无法自动挖掘隐含特征，其识别性能过度依赖所选特征的质量。因此，从深度学习的角度出发，提出了一种基于Atention 的双向长短时记忆网络（bidirectional long short-term memory，BLSTM）与条件随机场（conditionalrandomfields,CRF）相结合的领域术语抽取模型（BLSTM_Atention_CRF模型），并使用基于词典与规则相结合的方法对结果进行校正，准确率可达到 $86 \\%$ 以上，该方法切实可行。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：领域术语抽取；Attention机制；双向长短时记忆网络；条件随机场；词典；规则 中图分类号：TP391 doi:10.3969/j.issn.1001-3695.2017.11.0741 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Terminology extraction for new energy vehicle based on BLSTM_Attention_CRF model ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ma Jianhong1, Zhang Yamei1, Yao Shuang², Zhang Bingfei1, Guo Changhong1 (1.SchoolofComputer Science&SoftwareHebei UniversityofTechnology,Tianjin3o040l,China;2.HebeiUniversityof Technology, Tianjin 300401, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Inorder toimprove theaccuracyandrecallrateofterminology extractionresultsinthefieldofnew energyvehicles, this paper presented a domain terminology extraction model for thenew energy vehicles patent text.Traditional domain terminology extractionmethods relytoomuchonhuman-defined featuresandspecialized domain knowledge toautomatically mine implicit features whoserecognition performance greatlydepends onthequalityof the selected features.Inorder to solve the problems,this paper proposed a model from the perspective of deep learning.First it extracted the domain terms by a combinationof BLSTM（bidirectionallong short-term memory,BLSTM）modelbasedonthe atention mechanismand CRF (conditionalrandom fields,CRF）model(BLSTM_Attention_CRF model),and then itcorrectedtheresult byacombination of dictionary and rules.Experimental results show that the accuracy of BLSTM-ATT-CRF model can reach more than $86 \\%$ ， which shows that the BLSTM-ATT-CRF model is effective to term extraction of new energy vehicles. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:domain term extraction;atention mechanism; bidirectional long short-term memory;conditional random fields; dictionary; rules ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "领域术语是以语音或文字为载体来表达或限定专业概念的约定性符号[1]，可以是词，也可以是词组，在我国又称为名词或科技名词。领域术语抽取技术在自然语言处理领域被广泛研究，并应用于多个领域,如文本分类、句法分析、自然语言生成、语料库语言学、统计机器翻译、信息检索、自动问答系统等领域[2]。随着科学技术的不断发展、新技术的不断涌现，以及互联网大数据、云计算时代的到来，使得特定领域的术语抽取需求不断扩大、更新，以往靠人工收集和非监督学习算法的抽取已经远远不能满足人们的需求，利用计算机自动抽取领域术语已经成为必然[3]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "专利文献具有新颖性、可靠性和权威性，是科技信息工作的重要研究对象，通常被认为是一种重要的知识来源。专利中的领域术语能够准确快捷地了解专利的方向以及核心技术，专利的有效利用能够提高国家和企业的发展速度 $[ 4 ^ { \\sim } 6 ]$ 。由此，本文面向新能源汽车领域的专利文本抽取领域术语，基于深度学习建立自动抽取模型。经过大量分析专利文本及新能源汽车相关文献，发现专利文本中的新能源汽车领域术语主要存在以下特点：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a）中文领域术语是一个开放的集合，随着时间转移会不断出现新词，所以抽取过程中的新词发现情况无法很好处理。b）新能源汽车领域术语组合方式多变，词长主要从 $2 \\sim 1 0$ 字不等，其中包含较多的长术语和中英文混合的术语，如AC/DC电源、CAN总线接口。c）新能源汽车领域术语大多为嵌套和复合结构，如机油油量报警传感器，其中机油油量、传感器本身又是领域术语。据统计，新能源汽车专利文本中复杂术语的数量约占到 $83 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，众多相关学者对特定领域术语的抽取做了大量工作，主要有基于语言学规则的方法、基于统计的方法和两者结合起来使用的方法。周浪等人[7根据术语的构词规律提出了构词法识别候选术语。基于语言学的方法是预先定义好许多规则模板，然后与待测语料进行模板匹配。其缺陷在于由于语言组织及其表达方式千变万化，就需要制定者有很丰富的语言知识，定义出许多模板，才能达到较好的效果。郭剑毅等人[8]利用改进的层叠条件随机场模型实现了旅游领域的命名实体识别(namedentityrecongnition)任务，取得了准确率、召回率和F1 值均在$80 \\%$ 以上的效果；何宇等人[9利用条件随机场作为抽取模型，选取词、词长、词性、依存关系、词典位置等作为特征模板，有效地抽取了新能源汽车领域术语。基于条件随机场的模型虽然能有效抽取领域术语，但是召回率不稳定，需要对文本标注和特征选取进行充分定义和选取。刘里等人[10]提出一种基于术语长度和语法特征的统计领域术语抽取方法，在利用机器学习抽取候选术语时，加入基于术语长度和语法特征的约束规则，有效抽取了领域术语。综上分析，利用人工特征和领域知识的方法虽然取得了一定的识别效果，然而这种方法需要依据逻辑直觉人工定制大量特征，无法自动挖掘隐含特征，其识别性能很大程度上依赖所选取的特征的质量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关研究",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在以上背景下，为解决新能源汽车领域术语抽取问题中存在的难点问题和现有方法中对于人工制定特征的过度依赖问题本文从深度学习的角度提出一种全新的方法，它不需要详细地制定领域术语的特征表达，更具有实用性。近年来，利用基于神经网络的深度学习获取特征的方法在图像、语音以及自然语言处理领域取都备受关注。冯艳红等人[1]利用基于上下文的词向量和基于词的词向量提出了基于BLSTM的命名实体识别方法，并将领域知识嵌入模型的代价函数中，进一步增强函数的识别能力，取得了 $9 5 \\%$ 的正确率；侯伟涛等人[12]使用双向LSTM神经网络学习文本的隐藏特征，解决了传统方法通用性不强以及无法有效利用后文信息的缺点，实现了医疗事件的识别研究；Raffel等人[13]提出一种适用于前馈神经网络的简化的注意力模型，证明了Attention机制能够在文本较长的情况下有效解决信息丢失等长距离依赖问题。Yang等人[14]提出的层次化注意网络有两个层次的注意机制，在单词和句子层次上应用，使它能够在构造文档表示时关注关键内容，充分说明了Attention机制能够给文本中的关键部分分配更多的注意力。张冲[15]设计了组合正逆序attention-BasedLSTM模型，结合Attention机制和双向LSTM特点实现文本分类。注意力概率可以突出特定的单词对于整个句子的重要程度，并且考虑了更多的上下文语义关联。Li等人[16]利用基于CRF的双向LSTM深层神经网络模型实现了对生物医学文本中的不规则实体的识别，正确率达到 $8 1 . 0 9 \\%$ Gridach[17]利用BLSTM结合CRF模型实现的字符级神经网络完成了对生物医学命名实体的识别，在最终实现的系统上表现出了 $9 0 . 2 7 \\%$ 的准确率。CRF相对于其他模型可以更有效地关注上下文标注信息，所以结合BLSTM模型可以有效的改善实验结果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在自然语言处理领域，基于深度学习的这类方法减少了人工定义特征和对领域知识的过度依赖，实现了端到端的命名实体识别模式。自动挖掘隐含特征可以有效的解决新词发现问题，所以本文利用深度学习的方法研究新能源汽车领域术语抽取问题。领域术语的抽取可以转换为序列标注问题。循环神经网络（recurrentneuralnetwork，RNN）是一种有效的解决序列标注问题的神经网络模型，但是RNN无法很好地处理自然语言处理中不可忽视的长距离依赖问题，并且其训练算法存在梯度消失或爆炸问题，而LSTM模型通过引入记忆单元和门限机制很好地解决了这个问题，但是LSTM只考虑上文信息，不考虑下文信息，双向的LSTM（即BLSTM）同时考虑上下文信息，对于本文的新能源汽车领域术语抽取问题具有极大意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文提出BLSTM-ATT-CRF $^ +$ 校正模型，首先对新能源汽车领域专利文本进行预处理，之后进行WordEmbedding向量化，然后进入BLSTM-ATT-CRF模型进行标注。BLSTM-ATT-CRF模型既考虑了上下文信息，有效解决了长距离依赖，又能通过Attention机制的加入计算注意力分配概率，有效防止信息的丢失，突出关键词的作用，同时与CRF结合，解决了BLSTM在处理输出标签时无法很好地处理有强烈依赖关系的数据的难题，在标注完成之后，建立基于词典与规则的校正模型，从而取得更好的标注效果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 新能源汽车领域术语抽取模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文首先对要处理的新能源汽车专利文本进行预处理，包括分词、词性标注、去停用词、标点过滤等。为降低运算复杂度和防止分词工具过度切分，本文添加停用词表和用户词典辅助分词系统进行分词。本文将新能源汽车领域术语的抽取转换为序列标注问题，提出BLSTM-ATT-CRF标注模型和基于词典与规则的校正模型。完整的标注流程如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1Word Embedding 向量化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文本预处理之后进行 Word Embedding 向量化[18,19]表示。WordEmbedding技术是一种采用机器学习将单词映射到实数低维向量的技术，可以避免传统词向量的维度过高或向量稀疏问题，还能提供含有语义信息的词向量。该过程如下：设样本句子X由n个词组成， $\\scriptstyle \\mathrm { X = \\{ t l , t 2 , \\dots , t n \\} }$ ，其中第t个词tt为词的",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "one-hot表示。词嵌入xt为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { x } _ { t } = \\boldsymbol { W } ^ { e m b } t _ { t }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $W ^ { e m b } \\in R ^ { d \\times | \\nu | }$ ，为 embedding 向量查询表，需要训练得到;$t _ { t } \\in R ^ { | \\nu | }$ ， $\\boldsymbol { x } _ { t } \\in R _ { d }$ ，d 为 embedding 向量维度， $\\left| \\nu \\right|$ 为one-hot 表示下词典的大小。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/47d7e6beea6561fd5e0979df4c8e0b5febffe5760124fc09f8bcd509c3cafb22.jpg",
+        "img_caption": [
+            "图1领域术语标注框架"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 BLSTM-ATT-CRF模型概述 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文把术语抽取问题转换为序列标注问题。为了实现这一转换，需要对分词后的每一个词语进行标注。考虑新能源汽车专利文本中包含大量的英文术语，定义以下标注体系，即$\\scriptstyle { \\mathrm { R } = }$ {B_cha，I_cha，E_cha，B_eng，I_eng，E_eng， $| \\mathrm { O } \\}$ ，分别代表中文术语首部、中文术语中部、中文术语尾部、英文(缩写)术语首部、英文（缩写）术语中部、英文（缩写）术语尾部、其他。特别的，如果该术语只包含一个词，那么中英文只标注首部标签即可；如果该术语由中英文混合而成，标注之后由词语提取程序判断，连在一起的中英文则为一个领域术语。该标注体系的定义明确界定了词语边界，解决了领域术语中词长不定和中英文混合问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "专利文本经过预处理和WordEmbedding 向量化之后，进入BLSTM-ATT-CRF模型进行训练。BLSTM-ATT-CRF模型架构如图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/af7181a12621322286e360e51c8fd2dd6a288f734f0b494edd74adc9f5dc8e22.jpg",
+        "img_caption": [
+            "图2BLSTM-ATT-CRF模型架构"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1BLSTM模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "文献[20]中提出的LSTM引入记忆单元和门限机制，实现了对长距离信息的有效利用，解决了RNN模型中存在的梯度消失或者爆炸问题。但是LSTM只考虑文本的上文信息，不考虑下文信息，而对于本文的领域术语抽取问题，下文信息也很重要。Graves等人[21]提出了双向的LSTM(即BLSTM)。BLSTM有效地利用了文本序列的上下文信息，可以更多地挖掘隐含特征，有效解决新能源汽车领域术语抽取问题中的新词发现问题。BLSTM结构如图3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图3中 $\\mathbf { X } _ { \\mathrm { { t } } }$ 表示BLSTM模型在t时刻专利文本经过WordEmbedding以后的向量化表示； $\\overrightarrow { h _ { t } }$ 是前向LSTM在t时刻的输出， $\\overleftarrow { h _ { t } }$ 为反向LSTM在t时刻的输出，所以BLSTM在t时刻的输出表示定义为 $h _ { t } = [ \\stackrel { \\longrightarrow } { h _ { t } } , \\stackrel { \\longleftarrow } { h _ { t } } ]$ ，就是直接拼接 $\\overrightarrow { h _ { t } }$ 和 $\\overleftarrow { h _ { t } }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/229c0eb9eff667d4f5878fed3971d334f993372f03d00b399e3d55ac580a79c8.jpg",
+        "img_caption": [
+            "图3BLSTM模型结构"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2Attention机制",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Attention机制是一种模拟人脑注意力的机制，核心思想是借鉴了人脑在特定时刻对于事物的注意力会集中在某个关键点，而忽略其他非关键点，是一种人脑资源分配模型[22]。所以该机制的主要作用是对于关键词可以分配较多的注意力，而对于其他部分分配较少的注意力。将Attention机制的与BLSTM模型进行组合（见图2右侧基于Attention的LSTM），有效突出关键词的作用。例如对于文本“汽车的制动是通过制动盘与制动钳或制动鼓与制动蹄之间的摩擦来实现的”和“制动能量回馈是提高汽车能量效率的一个非常重要的手段”，在不加入Attention机制的情况下，BLSTM模型本身关注的是上下文信息，无法实现重点关注“制动”这个关键词，加入Attention之后，Attention通过计算权重可以实现这一功能。文本预处理时进行了词性标注，考虑新能源汽车专利文本术语多数存在定中、动宾和主谓关系，在BLSTM-ATT层中同时把词性作为特征进行训练。本文attention机制的相关计算公式如下所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\na _ { k i } = \\frac { \\exp ( e _ { k i } ^ { } ) } { \\sum _ { j = i } ^ { T } \\exp ( e _ { k j } ^ { } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne _ { k i } = \\nu \\operatorname { t a n h } ( W h _ { k } + U h _ { i } + b )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC = \\sum _ { i = 1 } ^ { T } \\alpha _ { k i } h _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { k ^ { \\prime } } = H ( C , h _ { k } , X ^ { \\prime } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式（5）计算的是注意力概率分布的语义编码， $a _ { k i }$ 计算的是节点i对于节点 $\\mathbf { k }$ 的注意力概率权重。T为输入序列的元素的数目。V、W、U为权重矩阵，本文中attention机制的输入为上文BLSTM的输出； $h _ { i }$ 为BLSTM模型中前向输出 $\\overrightarrow { h _ { t } }$ ； $h _ { k }$ 为BLSTM模型中反向输出 $\\overleftarrow { h _ { t } }$ 。BLSTM 输出的所有结果都进入attention进行计算。C是语义编码。 $h _ { k } \\cdot$ 就是最终的特征向量，该特征向量表现为突出关键词的语义信息。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.3BLSTM-ATT-CRF模型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "条件随机场模型(conditional random fields,CRF)是Lafferty等人[23]提出的一种无向图的模型，在中文分词、命名实体识别、歧义消解等汉语自然语言处理任务中都有应用，并有着良好表现[24]。在基于Attention 机制的BLSTM模型中引入CRF模型，使得模型在结合上下文信息的同时可以有效地考虑输出标签前后的依赖关系。实际效果中BLSTM-ATT模型和在加入CRF之后的BLSTM-ATT-CRF模型表现如表1所示。原因就是CRF模型可以有效考虑标签B_cha与E_cha之间的依赖关系，所以可以正确识别出此处“功率分析仪”是一个完整术语，而BLSTM-ATT模型无法做到这一点，所以会错误的将“功率分析仪”划分为两个术语。因此，CRF模型的加入可以有效解决领域术语多为嵌套和复合结构的识别问题。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "具体做法就是在BLSTM的 softmax 输出层之后加入CRF层，引入状态转移矩阵A作为CRF层的参数，设矩阵L为BLSTM的输出，其中 $\\mathbf { A } _ { \\mathrm { i , j } }$ 表示时间顺序上从第i个状态转移到第j个状态的概率；Li.j表示观察序列中第i个词被标注为第j个标注的概率。本文采用最大似然估计作为代价函数，采用维特比算法解码。观察序列 $\\mathrm { \\Delta } \\mathrm { X }$ 的待预测标注序列 $\\mathrm { Y = ( \\mathbf { y } _ { 1 } , \\mathbf { y } _ { 2 } , \\dots , \\mathbf { y } _ { n } ) }$ 的输出计算公式为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns ( X , Y ) = \\sum _ { i = 1 } ^ { n } ( A _ { y i , y i + 1 } + { \\cal L } _ { i , y i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\log L ( y | x ) = s ( X , Y ) - \\log \\sum _ { y } , \\exp ( s ( X , Y ^ { \\prime } ) ) \\ (\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f1cad1eef6829786288af0d896016306d82581ab15a6a4df9d842e58d0686cb5.jpg",
+        "table_caption": [
+            "表1BLSTM-ATT 模型和BLSTM-ATT-CRF模型标注对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>模型</td><td>标注结果</td></tr><tr><td>BLSTM-ATT</td><td>通过/O功率/B_cha分析仪/B_cha采集/O电机/B_cha 运行/O的/O输入/O电流/B_cha和/O输入/O电压</td></tr><tr><td>BLSTM-ATT-</td><td>/B_cha 通过/O功率/B_cha分析仪/E_cha采集/O电机/B_cha</td></tr><tr><td></td><td>运行/O的/O输入/O电流/B_cha和/O输入/O电压</td></tr><tr><td>CRF</td><td>/B_cha</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3基于词典与规则的校正",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "经过对新能源汽车的领域特征及语言特征进行分析统计，其领域术语构成存在特定规律。而专利文本中新能源汽车领域术语以名词结尾的占 $8 6 . 4 7 \\% ^ { [ 2 2 ] }$ ，其中又包含一些常用关键词，如器、车、机等；新能源汽车领域术语首词与中心词之间大多为定中关系、主谓关系和动宾关系，约占 $78 \\% ^ { [ 2 5 ] }$ 。所以本文最后采用基于词典与规则相结合的方法对BLSTM-ATT-CRF模型的识别结果进行校正，以提高抽取结果的正确率。对新能源汽车领域术语进行校正的对象是新能源汽车领域术语的中文表述和别名。新能源汽车领域术语大多为名词短语。分析发现虽然构成新能源汽车领域术语的词性组合有多种模式，但是词性主要为名词、动名词和形容词这三种为主。据此，本文通过分析《GB/T19596-2004电动汽车术语》、《GB/T28382-2012纯电动乘用车技术条件》、《GB/T24548-2009燃料电池电动汽车术语》和《GB/T20042.1质子交换膜燃料电池术语》等文献中新能源汽车领域中所包含的术语特征，人工建立新能源汽车领域术语特征词库，如表2所示。通过总结文献中新能源汽车领域术语构词规律，建立新能源汽车领域术语构词特征库，如表3所示。并制定相应规则进行判断：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8743f80c486092631c4998c2bfb1944683714e8a4afc9748405d0b147c565ec0.jpg",
+        "table_caption": [
+            "表2新能源汽车领域术语特征词库示例"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>特征词类</td><td>示例</td></tr><tr><td>常用名词（A)</td><td>活塞、连杆、轴承、涡轮、…</td></tr><tr><td>常用动词(B)</td><td>供油、喷油、喷气、进气、…</td></tr><tr><td>常用词缀（尾）（C)</td><td>器、车、机、环、缸…</td></tr><tr><td>常用形容词（D)</td><td>管式、粘结式、耐油、抗静电、..</td></tr><tr><td rowspan=\"2\">其他词类</td><td>天干（E）、希腊词母（F）、汉文数词</td></tr><tr><td>(G）、罗马数词（H)</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/183aebef966362da1bb05c1e29cd71c1ab4c8970031cd029c895a942c4516127.jpg",
+        "table_caption": [
+            "表3新能源汽车领域术语构词特征库"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>构词特征</td><td>示例</td></tr><tr><td>n</td><td>控制器、扶手、车厢、...</td></tr><tr><td>n+n</td><td>发动机舱、蓄电池箱、车身附件、发动机罩、…</td></tr><tr><td>n+n+n</td><td>泡沫塑料软垫、乳胶棕丝软垫、轮缘端部半径、座椅 中心平面、…</td></tr><tr><td>n+vn+n</td><td>安全门开启角、螺栓孔分布圆直径、带束斜交轮胎、</td></tr><tr><td></td><td>花纹加强筋… 胎面花纹展开图、轮胎气门嘴（孔）位置、机油油量</td></tr><tr><td>n+n+vn+n</td><td>报警传感器...</td></tr><tr><td>n+n+n+n</td><td>航空轮胎圆形截面、实心轮胎基部宽度、..</td></tr><tr><td>ad+n</td><td>厢式货箱、单人座椅、对开式车轮、嵌入式头枕、.</td></tr><tr><td>ad+n+n</td><td>管式自行车轮胎、粘结式实心轮胎、非粘结式实心轮 胎、.</td></tr><tr><td>n+ad+n</td><td>双胎最小间距、电磁振动式调节器、机械啮合式起动 机、...</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "规则1包含表1中标号D-H的新能源汽车领域术语在记录中的比例不足 $1 \\%$ 。若模型求出的新能源汽车领域术语包含标号D-H中的内容，则移到下一个词，继续判断是否包含。若包含继续移动，直到不包含或者包含词库中其他词为止。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "规则2被标注的新能源汽车领域术语如果符合表2中的其中一种形式，并且由表1中词库中已经存在的词语组合得到，那么该标注序列直接标记为有效的序列。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "规则3在表1特征词库的基础上，提出一种文本术语匹配算法。算法流程如图4所示。当库中词条能与待校正样本完全匹配时，无论模型求得的结果如何，都将该词组进行标注作为有效序列。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b46bc550cc877f6e9bf37bea52cc1d72e64cbc4445ac4a0049fd2dd2d12ddb70.jpg",
+        "img_caption": [
+            "图4文本术语匹配算法流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 实验设计与结果分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1实验语料及评价标准 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "目前还没有出现公认度较高的面向新能源汽车领域的语料，所以本文实验采用的数据是从专利网上下载的新能源汽车领域专利文本。由于实验最终获取的是专利文本中的领域术语，而领域术语分布在整篇专利的中的各个部分，为了保证实验的通用性，实验采用的是整篇的专利文本，本实验共标注专利文本1126篇，人工标注结果已经在CAI创新工具中得到验证，其中 800 篇用于训练过程，326篇用于测试过程。标注样例如表4所示。两个过程文本数量及领域术语标注数量如表5所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/e63eee8e06bb117e3783b9c12adadb484b1039c120c72dfb3c50df197f83d853.jpg",
+        "table_caption": [
+            "表4新能源汽车领域术语文本标注样例"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>公开/v</td><td>/m</td><td>种/q</td><td>涡旋/n</td><td>电动/b</td><td>真空泵 /n</td><td>， /wd</td><td>包括/v</td></tr><tr><td>0</td><td>0</td><td>0</td><td>B-cha</td><td>I_cha</td><td>E_cha</td><td>0</td><td>0</td></tr><tr><td>外壳体/n</td><td>、 /wn</td><td>动/v</td><td>涡旋/n</td><td>盘/qv</td><td>。/wj</td><td>VCU /n</td><td>采集/vn</td></tr><tr><td>B-cha</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>B-eng</td><td>B-cha</td></tr><tr><td>传感器/n</td><td>信号/n</td><td>。/wj</td><td>从/p</td><td>高压/n</td><td>到/v</td><td>低压/n</td><td>的/u</td></tr><tr><td>I_cha</td><td>E_cha</td><td>0</td><td>0</td><td>B-cha</td><td>0</td><td>B-cha</td><td>0</td></tr><tr><td>DC/ws</td><td>//w</td><td>DC/ws</td><td>转换器/n</td><td>。/wj</td><td></td><td></td><td></td></tr><tr><td>B-eng</td><td>I-eng</td><td>E-eng</td><td>B-cha</td><td>0</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/4f8525ff99fb9ef92e78d963f4ef56e0db00922195cf95d8a05269f3c2711c5d.jpg",
+        "table_caption": [
+            "表5训练过程和测试过程数据表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>专利/篇</td><td>中文术语/个</td><td>英文术语/个</td></tr><tr><td>训练集</td><td>800</td><td>43 127</td><td>315</td></tr><tr><td>测试集</td><td>326</td><td>18 457</td><td>105</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文实验为了减少外在人为因素的影响，采用三倍交叉验证方式。本文采用式 $( 8 ) \\sim ( 1 0 )$ 指标衡量实验结果：准确率P，召回率R，F1值。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { F 1 } = \\frac { 2 \\mathrm { P R } } { \\mathrm { P } + \\mathrm { R } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 实验设计",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文使用中科院研制的汉语词法分析系统ICTCLAS对语料进行分词。为了获得高质量的embedding向量查询表，本文首先提取《GB/T19596-2004电动汽车术语》、《GB/T28382-2012 纯电动乘用车技术条件》、《GB/T24548-2009 燃料电池电动汽车术语》和《GB/T20042.1质子交换膜燃料电池术语》等文献中新能源汽车领域中所包含的术语词条，然后利用word2vec 工具中的 Skip-gram 模型进行训练得到。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "BLSTM-ATT-CRF模型的运行环境为64位Windows7操作系统，运行内存为8GB。模型使用了keras与theano 的集成框架实现，实现语言为Python；框架安转用到第三方平台为Anaconda2，并使用反向传播算法（BPTT）「26进行训练。CRF模型使用的是 $\\mathrm { C R F } \\mathrm { + } 0 . 5 8$ 工具包，其中的模型参数值如-c、-f等是根据人工经验设定。该模型是否能够取得较好的识别效果与其参数具有密切关系。其中涉及到的参数有embedding向量维度、学习率、隐藏层单元数量以及dropout27值。本文对这四种参数进行实验，得到实验效果最好的值作为模型的参数。实验表明，各参数均存在局部最优值，当embedding向量维度为200、学习率为0.02、隐藏层单元数量为200以及Dropout 值为0.1时，模型的实验效果达到最佳。除此之外，各参数对实验效果的影响也不尽相同，在此实验中，embedding向量维数对实验效果影响最大，隐藏层单元数量对实验效果的影响较小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了检验本文模型对于新能源汽车领域术语标注的效果，本文设计了多组实验来进行对比分析，共包含八组实验：传统的LSTM模型实验、传统的RNN模型实验、传统的CRF模型实验、双向的LSTM模型实验（BLSTM）、BLSTM-CRF模型实验、基于Attention 机制的BLSTM模型实验（BLSTM-ATT）、，BLSTM-ATT-CRF模型实验和BLSTM-ATT-CRF $^ +$ 校正模型实验。特征选择如表6所示。其他模型所用参数均与上文得出的参数相同。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/7d260bebe17ea50fc78c785b1340fb535a296865e2864e6c86d03aa33890ed1e.jpg",
+        "table_caption": [
+            "表6CRF特征选择"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>1</td><td>Cur_Char</td><td>当前词</td></tr><tr><td>2</td><td>Cur_Char_Label</td><td>当前词的标注标签</td></tr><tr><td>3</td><td>Cur_Char_Part</td><td>当前词的词性</td></tr><tr><td>4</td><td>Cur_OnePre_Char_Label</td><td>当前词的前面第一个词的标注标签</td></tr><tr><td>5</td><td>Cur_TwoPre_Char_Label</td><td>当前词的前面第二个词的标注标签</td></tr><tr><td></td><td>6Cur_OneAfter_Char_Label</td><td>当前词的后面第一个词的标注标签</td></tr><tr><td>7</td><td>Cur_TwoAfter_Char_Label</td><td>当前词的后面第二个词的标注标签</td></tr><tr><td>8</td><td>Cur_OnePre_Char_Part</td><td>当前词的前面第一个词的词性</td></tr><tr><td>9</td><td>Cur_TwoPre_Char_Part</td><td>当前词的前面第二个词的词性</td></tr><tr><td>10</td><td>Cur_OneAfter_Char_Part</td><td>当前词的后面第一个词的词性</td></tr><tr><td>11</td><td>Cur_TwoAfter_Char_Part</td><td>当前词的后面第二个词的词性</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3 实验结果及分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "经上述八种模型实验后，实验结果如表7所示。从表7所展示的实验数据可以看出，本文设计的BLSTM-ATT-CRF $+$ 校正模型能够有效地提高新能源汽车领域术语抽取的效果。通过以上实验可以看出，未经过改进的模型1、2、3虽然在一定程度上能够解决本文的领域术语抽取问题，但是整体来看取得的效果不佳。虽然LSTM解决了RNN梯度消失的问题，但是LSTM仅考虑上文信息，也不能取得较好的实验效果。实验4中BLSTM模型解决了LSTM的这一问题，综合考率文本的上下文信息，使得抽取的效果有了较明显的提升，准确率达到了$8 0 . 0 1 \\%$ 。实验6比实验4的正确率提高了 $1 . 5 7 \\%$ ，F1值提高了$1 . 2 9 \\%$ 。其主要原因是前者在合并输出向量时候Attention机制为每个输出向量赋予了不同的权值，使模型将注意力集中在更重要的向量上，从而降低了无关向量的作用。这个模型能够更好地表征文本，突出关键词的作用。通过实验6和7的对比可以看出，CRF 模型的引入对于新能源汽车领域术语抽取具有一定的意义。这是因为BLSTM-ATT-CRF模型在考虑上下文信息的同时由于CRF特征模板的合理制定还考虑了句子前后的标签信息，所以该模型能够取得不错的效果。通过实验7和8的对比可以看出，引入校正模块能够明显提升正确率和召回率。这是因为基于词典与规则校正模型是基于对句子结构的深入分析，并且考虑专利文本的表达习惯而提出的，其更能在尊重句子原义的基础上进行判断分析。综上所述，本文设计的BLSTM-ATT-CRF $^ +$ 校正模型可以取得比一般深度学习模型更好的实验效果。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/adea994bda3471dac8a13ae27e1ef9ca0c42de8f535c2b0e64b0a9849bead7ef.jpg",
+        "table_caption": [
+            "表7实验结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">实验标号</td><td rowspan=\"2\">模型名称</td><td colspan=\"2\">指标</td></tr><tr><td>P_准确率/% R_召回率/%</td><td>F1值/%</td></tr><tr><td>1</td><td>LSTM</td><td>77.26</td><td>75.66 76.45</td></tr><tr><td>2</td><td>RNN</td><td>75.55</td><td>72.57 74.03</td></tr><tr><td>3</td><td>CRF</td><td>73.53</td><td>68.42 70.88</td></tr><tr><td>4</td><td>BLSTM</td><td>80.01</td><td>78.89 79.44</td></tr><tr><td>5</td><td>BLSTM-CRF</td><td>82.24</td><td>79.09 80.63</td></tr><tr><td>6</td><td>BLSTM-ATT</td><td>81.58</td><td>79.91 80.73</td></tr><tr><td>7</td><td>BLSTM-ATT-CRF</td><td>84.27</td><td>81.99 83.11</td></tr><tr><td>8</td><td>BLSTM-ATT-CRF+ 校正</td><td>86.62</td><td>85.07 85.83</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本文提出一种面向新能源汽车领域专利文本的领域术语抽取方法。本文首先建立了BLSTM-ATT-CRF模型，该模型解决了文本标注过程中存在的多种共性问题，所以该模型同样适用于其他领域的领域术语抽取问题。但是为了提高本文新能源汽车领域术语标注的准确率以及F1值，在经过BLSTM-ATT-CRF模型标注的基础之上，文本深入挖掘领域术语的句子构成和专利文本的表达特征，进一步制定了基于词典和规则的校正模型。经过对比实验表明，本文模型具有较好的准确性和鲁棒性。接下来将在继续增加语料的基础上对方法继续优化，对词典和校正规则进行进一步扩充，使抽取结果更加严谨而有效，使得模型具有更好的泛化性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "乡与人m ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Zhu Xiaojin. Semi-supervised learning literature survey,TR-1530 [R].[S. 1.]: University of Wisconsin-Madison. 2008.   \n[2]王密平．汉语专利术语抽取及应用研究[D].南京：南京大学,2017.   \n[3] 樊梦佳，段东圣，杜翠兰，等．统计与规则相融合的领域术语抽取算法 [J]．计算机应用研究,2016,33(8):2282-2285,2306.   \n[4] 葛煦，卢宝华，杨湘华，等．谈高校科技发展中专利文献的利用[J]. 技术与创新管理,2005,26(1):68-70.   \n[5]贾志琦，邵日剑．有效利用专利文献提高企业技术创新能力[J].山西 科技,2008 (1): 91-93   \n[6] 王密平，王昊，邓三鸿，等．基于CRF的冶金领域中文专利术语抽取研 究[J].现代图书情报技术,2016(6):28-36   \n[7] 周浪，史树敏，冯冲，等．基于多策略融合的中文术语抽取方法[J]. 情报学报,2010,29(3):460-467.   \n[8] 郭剑毅，薛征山，余正涛，等．基于层叠条件随机场的旅游领域命名实 体识别[J].中文信息学报,2009,23(5):47-52.   \n[9] 何宇，吕学强，徐丽萍．新能源汽车领域中文术语抽取方法[J].现代 图书情报技术,2015 (10):88-94.   \n[10]刘里，肖迎元．基于术语长度和语法特征的统计领域术语抽取[J].哈 尔滨工程大学学报,2017(9):1437-1443.   \n[11]冯艳红，于红，孙庚，等．基于 BLSTM的命名实体识别方法[J//OL]. 计算机科学,2018 (2):(2017-05-16).   \n[12]侯伟涛，姬东鸿．基于Bi-LSTM的医疗事件识别研究[J//OL].计算机 应用研究,2018,35(7):1-2(2017-07-27).   \n[13] Raffel C,Ellis DPW.Feed-forward networks with attention can solve some long-term memory problems[C]// Proc of ICLR 2016 Workshop Submissionreaders.2016.   \n[14] Yang Z, Yang D,Dyer C,et al.Hierarchical attention networks for document classification [C]//Proc ofConference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. 2017: 1480-1489.   \n[15]张冲．基于Attention-BasedLSTM模型的文本分类技术的研究[D]．南 京：南京大学,2016.   \n[16] Li Fei,Zhang Meishan,Tian Bo,et al.Recognizing iregular entities in biomedical text via deep neural networks [C]//Proc of Pattrn Recognition Letters. 2017.   \n[17] Mourad Gridach. Character-level neural network for biomedical named entity recognition [J]. Journal of Biomedical Informatics,2017,70.   \n[18]MikolovT, SutskeverI, Chen K,etal. Distributed representations of words and phrases and their compositionality[C]//Advances inNeural Information Processing Systems.2013:3111-3119.   \n[19]孟欣，左万利．基于word embedding的短文本特征扩展与分类[J].小 型微型计算机系统，2017，38(8):1712-1717.   \n[20] Jozefowicz R,Zaremba W,Sutskever I.An empirical exploration of recurrent network architectures $[ \\mathrm { C } ] / \\hbar$ Proc of International Conference on Machine Learning.2015:2342-2350   \n[21] Graves A， Schmidhuber J.Framewise phoneme classfication with bidirectional LSTM and other neural network architectures [J].Nrural Networks,2005,18(5):602-610.   \n[22]张冲．基于Attention-basedLSTM模型的文本分类技术的研究[D]．南 京：南京大学,2016.   \n[23]Lafferty J,McCallumA,Pereira F.Conditional random fields: probabilistic models for segmenting and labeling sequence data [C]// Proc of the 18th International Conference on Machine Learning. San Francisco:Morgan Kaufmann Publishers,2001:282-289   \n[24]郑敏洁，雷志城，廖祥文，等．中文句子评价对象抽取的特征分析研究 [J].福州大学学报：自然科学版,2012,40(5):584-590.   \n[25]何宇，吕学强，徐丽萍．新能源汽车领域中文术语抽取方法[J].现代 图书情报技术,2015(10):88-94.   \n[26] Werbos PJ.Backpropagation through time: what it does and how to do it [J]. Proceedings of the IEEE,1990,78(10):1550-1560.   \n[27] Hinton G E,Srivastava N,Krizhevsky A,et al. Improving neural networks by preventing co-adaptation of feature detectors [J]. Computer Science, 2012,3 (4): 212-223. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

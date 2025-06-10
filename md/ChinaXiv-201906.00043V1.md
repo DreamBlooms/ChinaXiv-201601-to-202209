@@ -1,0 +1,233 @@
+# Low soil temperature reducing the yield of drip irrigated rice in arid area by influencing anther development and pollination
+
+ZHANG Jun1,², DONG Peng?, ZHANG Haoyu], MENG Chaoran1, ZHANG Xinjiang1, HOU Jianwei',WEI Changzhoul
+
+1KeyLab of Oasis Ecology Agriculture of Xinjiang ProductionandConstruction Group,Shihezi University,Shihezi 82000, China;   
+²Collborative Innovation Centerof Water Securityfor Water Source Regionof Mid-lineof South-to-North Diversion Project   
+of Henan Province,Nanyang Normal University, Nanyang 473061,China;   
+3 Nanyang Academy of Agricultural Sciences,Nanyang 473083,China
+
+Abstract: Drip irigation can produce high rice yields with significant water savings;therefore, it is widely used in arid area water-scarce northern China. However,high-frequency irrigation of drip irrigation with low temperature well water leads to low root zone temperature and significantly reduce the rice yield compared to normal temperature water irigated rice, for example, reservoir water. The main purpose of this paper is to investigate the effects of low soil temperature on the yield reduction of drip irigated rice in the spike differentiation stage. The experiment set the soil temperatures at $1 8 ^ { \circ } \mathrm { C } .$ $2 4 ^ { \circ } \mathrm { C }$ and $3 0 ^ { \circ } \mathrm { C }$ under two irrigation methods (flood and drip irrigation),respectively. The results showed that, at the $3 0 ^ { \circ } \mathrm { C }$ soil temperature,drip irrigation increased total root length by $53 \%$ but reduced root water conductivity by $9 \%$ compared with flood irrigation.Drip irrigation also increased leaf abscisic acid and proline concentrations by $13 \%$ and $5 \%$ ,respectively. These results indicated that drip irrigated rice was under mild water stress. In the $1 8 ^ { \circ } \mathrm { C }$ soil temperature, drip irrigation reduced hydraulic conductivity by $58 \%$ , leaf water potential by $40 \%$ and leaf net photosynthesis by $2 5 \%$ compared with flood irrigation. The starch concentration in male gametes was also $30 \%$ less in the drip irrigation treatment than in the flood irrigation treatment at soil temperature $1 8 ^ { \circ } \mathrm { C }$ .Therefore, the main reason for the yield reduction of drip irrigated rice was that the low temperature aggravates the physiological drought of rice and leads to the decrease of starch content in male gametes and low polination fertilization rate. Low temperature aggravates physiological water deficit in drip irrigated rice and leads to lower starch content in male gametes and low pollination fertilization rate, which is the main reason for the reduced yield of drip irrigated rice.Overall,the results indicated thatthe low soil temperatures aggravated the water stress that rice was under in the drip irrigated environment, causing declines both in the starch content of male gametes and in polination rate. Low temperature will ultimately affect the rice yield under drip irrigation.
+
+Keywords: soil temperature; drip irrigation; root hydraulic conductivity;starch concentration; rice yield;aridarea
+
+Citation: ZHANG Jun,DONG Peng,ZHANG Haoyu, MENG Chaoran,ZHANG Xinjiang,HOU Jianwei,WEI Changzhou 2019.Lowsoil temperaturesreduce theyieldofdripirrigatedricebyinfluencingantherdevelopmentandpollnation.Journal of Arid Land,11(3):419-430.https://10.1007/s40333-019-0091-9
+
+# 1Introduction
+
+Rice is generally grown under flooded conditions.Nearly $40 \%$ of the world's irrigation water is used to irrigate rice. The percentage is even higher in Asia. Fresh water is becoming increasingly scarce in many regions (Tian et al., 2017). Water shortages have promoted the development of water-saving technologies for rice production. Drip irrigation (DI) is a system that allows small amounts of water to near root zone. Yield as high as $1 2 , 0 5 0 ~ \mathrm { k g / h m } ^ { 2 }$ has been reported for rice grown with DI at the Xinjiang Tianye Agriculture Research Institute in China (Guo and Chen, 2012). DI reduces the amount of irrigation water by $60 \%$ compared with conventional flood irrigation (FI) (He et al., 2O13). Therefore, DI offers great potential for rice producers in arid and semi-arid areas.
+
+Despite the drip irrigated rice has the advantage of saving water, most growers found that the rice produces much less rice yield irigated with underground water compared to surface ground water, for example, the water from reservoirs,which may be caused by the low temperature $( 1 2 ^ { \circ } \mathrm { C } \mathrm { - } 1 5 ^ { \circ } \mathrm { C } )$ of underground water (Menberg et al.,2014). This suggests that drip irrigated rice is more sensitive to temperature than flooding rice.
+
+Underground water often contains high content of ${ \mathrm { H C O } } _ { 3 } { } ^ { - }$ ．In a previous study，we demonstrated that high content of $\mathrm { H C O } _ { 3 } ^ { - }$ is not the main reason that reduces rice Fe uptake and growth in drip irrigated rice (Zhang et al.，2O16),， then we consider if low temperature of underground water is the cause of poor growth of drip irrigated rice.
+
+Low root zone temperatures influence both root and shoot growth. For example, Imran et al. (2013) reported that root zone temperatures below $1 5 ^ { \circ } \mathrm { C }$ caused declines in the development of secondary root branches and root dry weight. Other studies indicated that root zone temperatures of $1 5 ^ { \circ } \mathrm { C }$ led to the degeneration of the panicle tip,later flowering，spikelet sterility,and non-uniform maturation (Yan et al., 2Ol3). Ultimately, these changes resulted in reduced rice yields. In drip irrigated rice, He et al. (2O13) observed that drip irigated rice exhibited mild water stress symptoms,even when soil water contents were maintained at $9 0 \% - 9 5 \%$ of field water capacity. In a previous study, we observed that drip irrigated rice exhibited mild water stress symptoms,for example,superoxide dismutase activity was $5 \%$ greater, catalase activity was $2 7 \%$ （204号 greater, and endogenous hormone concentrations were $5 \% - 1 1 \%$ less in drip irrigated rice compared with flood irrigated rice. Then we hypothesize that low soil temperature may result in more serious drought stress in drip irigated rice than in FI, and finally worsening the growth of drip irrigated rice.
+
+The objectives of this study were to learn more about the effects of DI and low soil temperatures on rice root morphology and physiology,and various aspects of shoot and panicle physiology related to yield composition, including pollen viability, combine these parameters, to reveal the mechanism of low soil temperature severe inhibit the yield of drip irrigated rice.
+
+# 2 Materials and methods
+
+# 2.1 Experimental background
+
+The pot experimental soil was collected from the $0 { - } 2 0 ~ \mathrm { c m }$ depth at the Agricultural Experiment Station of Shihezi University, Shihezi, Xinjiang, China（ $\mathrm { \Delta } 4 4 ^ { \circ } 1 8 ^ { \prime } \mathrm { N }$ ， $8 6 ^ { \circ } 0 0 ^ { \prime } \mathrm { E } )$ . The soil has sandy loam texture and is classified as a Calcareous Fluvisol according to the FAO-UNESCO classification system (FAO,1998). Soil organic matter, alkali-hydrolyzable $\mathbf { N }$ ，available $\mathrm { \bf ~ P } ,$ and readily available K were measured using methods described by Carter and Gregorich (2007): organic matter, $1 5 . 7 ~ \mathrm { g / k g }$ ； alkali-hydrolyzable N, $4 2 . 6 ~ \mathrm { g / k g }$ ； available P, $1 2 . 5 ~ \mathrm { g / k g }$ ；available K, $1 3 8 . 9 \ \mathrm { g / k g }$ ; and pH, 7.8.
+
+Farmers generally use groundwater with temperatures ranging between $1 2 ^ { \circ } \mathrm { C } { - } 1 5 ^ { \circ } \mathrm { C }$ to irrigate the rice. We reasoned that DI with groundwater could reduce soil temperature. If the rice was already under mild water stress, than the additional stress of cool soil could reduce rice yield even more.In an unpublished preliminary study, our research group observed that the yield of drip irrigated rice significantly decreased when soil temperatures were maintained at $1 8 ^ { \circ } \mathrm { C }$ for 25 consecutive days at the tillering, jointing,heading, or grain filling stages.
+
+The local climate characteristics during temperature treatment are shown in Figure 1. The air temperatures averaged $2 5 . 5 ^ { \circ } \mathrm { C }$ ,ranging from a daily minimum of $1 9 . 4 ^ { \circ } \mathrm { C }$ to a daily maximum of $3 1 . 6 ^ { \circ } \mathrm { C }$ ，The daily radiation was $4 . 7 \mathrm { \ M J / ( m } ^ { 2 } { \cdot } \mathrm { d } )$ . Afterwards,the pots were moved back to the greenhouse till mature.
+
+![](images/e5e9f2e20e0eacb9c78ed6e1ff82a43ea5d7dc8b1a874afa1270c61c8318f70c.jpg)  
+Fig.1Air temperature and solar radiation during panicle initiation of rice in 2017. $\mathrm { T } _ { \mathrm { m a x } }$ , maximum temperature; $\mathrm { T } _ { \mathrm { m i n } }$ ,minimum temperature; Tmean,mean temperature.
+
+# 2.2 Experimental design
+
+The study consisted of a two-factor design with two irrigation modes (DI and FI) and three soil temperature treatments ( $1 8 ^ { \circ } \mathrm { C }$ $2 4 ^ { \circ } \mathrm { C }$ and $3 0 ^ { \circ } \mathrm { C }$ , respectively referred to as T1, T2 and T3).T3 was considered optimal for rice growth. A previous study indicated that rice in the DI exhibited mild water stress and T1 and T2 were too cool for rice optimum growth (Zhang et al., 2019). The pots were transferred to temperature-controlled tanks at the spike differentiation stage and kept for $1 0 \mathrm { d }$
+
+The soil was air-dried after collection from the field, passed through a $4 \mathrm { - m m }$ sieve, mixed with N,P,and K fertilizer, and then placed in plastic pots ( $1 8 ~ \mathrm { c m } { \times } 2 5 ~ \mathrm { c m }$ ).Each pot contained $6 ~ \mathrm { k g }$ soil.The fertilizer amounts were as follows: $0 . 2 0 ~ \mathrm { g / k g ~ N }$ soil as urea; $0 . 1 5 { \mathrm { ~ g / k g ~ P ~ } }$ soil as triple superphosphate; and $0 . 2 \ \mathrm { g / k g \ K }$ soil as potassium sulfate.The pots were watered to saturation and then allowed to dry for 3 d before sowing rice seed.
+
+The rice variety in this study(T-43') has been recommended for use in drip irrigated fields by the Tianye Agricultural Institute (Shihezi, China). Four hills of rice (1O seeds per hill) were planted in each pot. The stand was thinned to three plants per hill after emergence.
+
+The irrigation treatments began when the rice plants reached the 4-5 leaf stage. The pots in FI had no drainage hole.A plastic tube was inserted into the soil for aeration: one end of the tube was above the soil surface and open to the atmosphere and the other end of the tube was located at the bottom of the pot. The entire growth period of rice was $1 1 8 \mathrm { ~ d ~ }$ ，and the total irrigation volume of FI and drip irigated rice each was approximately 140 and 50 L/pot, respectively. The water level in FI was maintained $4 { - } 5 \ \mathrm { c m }$ above the soil surface by an electronic irrigation device. The soil water content in DI was controlled at $590 \%$ of field capacity using a Markov bottle to provide the waterhead (Shi et al., 2016).
+
+Root zone soil temperature was control by a temperature-controlled water tank which was connected to a refrigeration machine (Jiale Lengnuan Technology Co., China) that could adjust the water temperature in $1 0 ^ { \circ } \mathrm { C } \mathrm { - } 4 0 ^ { \circ } \mathrm { C }$ (Bai et al., 2017). A pump circulated the water through plastic tubes connecting the refrigeration machines and the tanks. The water temperatures were set at $1 8 ^ { \circ } \mathrm { C }$ ， $2 4 ^ { \circ } \mathrm { C }$ and $3 0 ^ { \circ } \mathrm { C }$ for the different tanks (Fig.2). Rice pots (both DI and FI) were initially kept in a greenhouse and then transferred into the water tanks after the temperature treatments when rice grew at diferentiation stage. The temperatures of the water tanks were adjusted to $1 8 ^ { \circ } \mathrm { C }$ $2 4 ^ { \circ } \mathrm { C }$ ,and $3 0 ^ { \circ } \mathrm { C }$ ,respectively, before the pots being moved into the water tanks to avoid the disturbances to the soil temperature in the pots due to the temperature differences between the pots and water tanks.
+
+![](images/846a2e18420e35cabe6ee4505207d70b29b478e06db42128e06df9c4b7fcefdc.jpg)  
+Fig.2Soil temperature control device
+
+# 2.3Plant sampling and analysis
+
+2.3.1 Photosynthetic characteristics and leaf water potential
+
+Leaf photosynthetic characteristics, i.e.， net photosynthetic rate $( P _ { \mathrm { { n } } } )$ ， stomatal conductance $( g _ { \mathrm { s } } )$ intercellular $\mathrm { C O } _ { 2 }$ concentration $( C _ { \mathrm { i } } )$ and transpiration rate $( T _ { \mathrm { r } } )$ ,were determined after temperature treatments (i.e., $6 5 { \mathrm { ~ d ~ } }$ after emergence).The $P _ { \mathrm { n } ; }$ $g _ { \mathrm { s } }$ ， $C _ { \mathrm { i } }$ and $T _ { \mathrm { r } }$ of functional leaves were measured with a LI-6400XT system (LI-6400, LiCor, Inc., USA). A6400-02B LED light source provided a photosynthetic photon flux density of $1 2 0 0 \ \mathrm { \textmu m o l / ( m } ^ { 2 } { \cdot } \mathrm { s } )$ . The conditions were as follows: $2 5 ^ { \circ } \mathrm { C }$ leaf temperature, $70 \%$ relative humidity,and $3 8 0 ( \pm 1 0 ) \mathrm { m m o l / ( m ^ { 2 } { \cdot } s ) C O _ { 2 } }$ After the photosynthetic measurements, the leaves were immediately excised and their water potential was measured with a pressure chamber (Model 30ooFO1 Plant Water Status Console; Soil Moisture Equipment Corp., USA) (Scholander et al., 1965).
+
+# 2.3.2 Biomass
+
+Rice plants were collected after temperature treatments (i.e., $6 5 { \mathrm { ~ d ~ } }$ after emergence). Samples were brought back to the laboratory and washed with distiled water three times.Samples of the shoot and root of rice after washing were packed in kraft paper bags and fixed at $1 0 5 ^ { \circ } \mathrm { C }$ for $3 0 ~ \mathrm { { m i n } }$ The samples were dried at $8 0 ^ { \circ } \mathrm { C }$ for $^ { 7 2 \mathrm { ~ h ~ } }$ and then weighed to determine the biomass.
+
+# 2.3.3 Root morphology
+
+The roots were excavated after temperature treatments (i.e., $6 5 { \mathrm { ~ d ~ } }$ after emergence), gently washed with running water to remove fine soil particles,and then rinsed three times with acidified deionized water. The root systems were scanned with a flatbed image scanner (Epson Expression/STD 1600 scanner， Epson, Japan). The scanned images were analyzed using WinRhizo commercial software to determine root length, surface area, and volume.
+
+2.3.4Root hydraulic conductivity, proline,and abscisic acid (ABA) concentration
+
+Root hydraulic conductivity $( L p )$ was measured as described by Boursiac et al.(2oo5) after the conclusion of the temperature treatments. Briefly, the root system of a freshly de topped plant was inserted into a pressure chamber filled with hydroponic solution.Pressure was then slowly applied to the chamber, and the rate of sap flow $( J _ { \mathrm { v } } )$ from the sectioned hypocotyl was determined with a micro flow-meter at three pressures $( P _ { \mathrm { g a s } } )$ between $0 . 0 1 { - } 0 . 0 4 ~ \mathrm { M P a }$ .The $L \boldsymbol { p }$ of each root system $\mathrm { ( m L / ( g . h . M P a ) } \mathrm { ) }$ was calculated from the slope of a plot $( L p { = } J _ { \mathrm { v } } / P _ { \mathrm { g a s } } )$ ：
+
+Free proline concentrations in both the roots and the leaves were determined using a modified method described by Bates et al.(1973) after the temperature treatments. Plant samples $\left( 0 . 2 { \mathrm { ~ g } } \right)$ （204号 were placed into $5 ~ \mathrm { m L }$ of aqueous sulfosalicylic acid $( 3 \% )$ and bathed in boiling water for $3 0 \mathrm { m i n }$ The mixture was cooled to room temperature.A $2 . 0 \mathrm { - m L }$ aliquot of the supernatant was mixed with $2 . 0 ~ \mathrm { m L }$ ninhydrin and $2 ~ \mathrm { m L }$ acetic acid. The mixture was bathed for $3 0 ~ \mathrm { { m i n } }$ in boiling water and then cooled by ice. Next, $5 ~ \mathrm { m L }$ of toluene was added, and the mixture was kept in a dark place for $^ { 5 \mathrm { h } }$ .Readings of the colored product were then taken at $5 2 0 \mathrm { n m }$
+
+ABA concentration in leaves and roots were collected after the temperature treatments. The samples were collected, frozen in liquid N,and then stored at $- 8 0 ^ { \circ } \mathrm { C }$ ：Phytohormones were extracted from the samples and purified according to enzyme-linked immunoassay method described by Poschenrieder et al. (1989).
+
+# 2.3.5 Pollen vigor
+
+Pollen vigor was measured during the late booting stage. One drop of $1 \%$ iodine potassium solution was added to the surface of a microscope slide.Pollen grains were then scattered onto the slide by gently tapping the open florets over the slide. That had not dehisced were manually squeezed to release pollen grains (Song et al.，2O15). The iodine-stained pollen grains were photographed at $1 0 \times$ magnification using a DP7O digital camera attached to an Axioplan 2 microscope (Carl Zeiss, Jena, Germany). Three images were taken per slide; each image included approximately 40 pollen grains.Pollen grains that were stained black and had spherical shape were considered viable. The percentage of viable pollen grains was calculated as the ratio of viable pollen grains to the total pollen grains.
+
+# 2.3.6 Soluble sugar and starch concentrations
+
+Soluble sugar was measured in leaf samples one day after the temperature treatments. At the same time,male and female gametes were collected from the flowers.Equal amounts $( 1 . 5 ~ \mu \mathrm { L } )$ of the samples were added to test tubes along with $0 . 1 \%$ ribitol. The samples were then dried using a vacuum concentrator (Labconco, Kansas City, MO). The residue was dissolved in $1 0 0 ~ \mu \mathrm { L }$ of a mixture with $2 0 ~ \mathrm { m g / m L }$ of methoxyamine hydrochloride in pyridine and incubated at $3 0 ^ { \circ } \mathrm { C }$ for 90 min.After incubation, $5 0 ~ \mu \mathrm { L }$ of $\mathrm { \bf N }$ -methyl-N-trimethylsilyltrifluoroacetamide was added to the sample solution and incubated at $3 7 ^ { \circ } \mathrm { C }$ for $3 0 ~ \mathrm { m i n }$ . The sample solutions( $1 0 \mu \mathrm { L }$ aliquots） were analyzed by gas chromatography/mass spectrometry (GCMS-2010 Plus; Shimadzu, Japan) under the folowing conditions: column， Agilent CP-Sil 8CB-MS； carrier gas，helium； injection temperature, $2 3 0 ^ { \circ } \mathrm { C }$ ；oven temperature, $8 0 ^ { \circ } \mathrm { C }$ for 2 min followed by an increase of $1 5 ^ { \circ } \mathrm { C / m i n }$ to $3 3 0 ^ { \circ } \mathrm { C }$ (Matsuda et al., 2011).
+
+# 2.3.7 Yield and yield components
+
+Four main tillers were harvested at maturity from each replicate.The grain was threshed by hand, dried at $8 0 ^ { \circ } \mathrm { C }$ ,and then weighed to determine grain yield (g per panicle) and grain weight (mg per grain). The percentage of filled grains was calculated as the number of filld grains divided by the total number of grains per panicle. Spikelet fertility $( \% )$ was calculated as the number of filled and partially filled grains divided by the total number of grains per panicle.
+
+# 2.4 Statistical analysis
+
+Statistical analysis was performed with SPSS 17.O analytical software. Differences between means were compared using Duncan's multiple range tests at the $5 \%$ probability level.
+
+# 3 Results
+
+# 3.1Root morphology and hydraulic conductivity
+
+The length, surface area, and volume of roots were significantly lessin DI than in FI at T3(Table 1). Under DI, T1 significantly increased root length and reduced root volume, compared with T3. Under FI, T1 significantly reduced all three variables. At T1, root length was $54 \%$ greater, surface area and root volume were $54 \%$ and $1 1 \%$ less in DI than in FI. The irrigation and temperature treatments had no significant effect on root diameter.
+
+The root hydraulic conductivities were less in DI than in FI at T1 and T2 soil temperatures (Fig. 3). Cool soil temperature significantly reduced root $L \boldsymbol { p }$ in both DI and FI. Under DI, the T1 and T2 reduced $L \boldsymbol { p }$ by $31 \% - 7 4 \%$ compared with T3.Under FI, T1 reduced $L \boldsymbol { p }$ by $44 \%$ ; however, the differences between T2 and T3 were not significant. Root hydraulic conductivity at T1 was $58 \%$ less in DI than in FI.
+
+# 3.2 Proline and ABA concentrations
+
+Proline concentrations in both leaves and roots were greater in DI than in FI at the same soil temperature (Fig. 4).Proline concentrations increased as soil temperatures decreased, especially in roots. Root proline concentrations under DI were $102 \%$ greater in T1 and $14 \%$ greater in T2 compared with in T3. Under FI, root proline concentrations were $5 5 2 \%$ greater in $\mathrm { T 1 }$ and $43 \%$ （204 greater in T2 compared with in T3.The diferences between T2 and T3 were not significant in FI. The effects of irrigation and soil temperature on leaf proline concentrations were similar to the effects on root proline concentrations. The main difference was that temperature had relatively less effect on leaf proline than on root proline.
+
+Table1Root morphology of rice at panicle initiation as affected by irrigation method and temperature   
+
+<html><body><table><tr><td colspan="2">Treatment</td><td>Root length (cm)</td><td>Surface area (cm²)</td><td>Average diameter (mm)</td><td>Root volume (cm³)</td></tr><tr><td rowspan="3">DI</td><td>T1</td><td>2579±143a</td><td>406±54a</td><td>0.46±0.06a</td><td>3.9±0.3b</td></tr><tr><td>T2</td><td>2067±48b</td><td>370±14a</td><td>0.53±0.01a</td><td>4.4±0.3ab</td></tr><tr><td>T3</td><td>2139±68b</td><td>359±20a</td><td>0.53±0.03a</td><td>4.9±0.6a</td></tr><tr><td rowspan="3">FI</td><td>T1</td><td>1680±130c</td><td>302±30b</td><td>0.57±0.04a</td><td>4.4±0.1b</td></tr><tr><td>T2</td><td>2008±136b</td><td>348±58ab</td><td>0.55±0.03a</td><td>4.9±0.5b</td></tr><tr><td>T3</td><td>2332±161a</td><td>420±31a</td><td>0.57±0.05a</td><td>6.2±0.5a</td></tr></table></body></html>
+
+Note:Withinacolumnand withinatemperature treatment,means ithdiferentlowercaseletersaresignificantlydifferentat $\scriptstyle P < 0 . 0 5$ level.DI,drip irrigation;FI, flood irrigation; T1, $1 8 ^ { \circ } \mathrm { C }$ ；T2, $2 4 ^ { \circ } \mathrm { C }$ ；T3， $3 0 ^ { \circ } \mathrm { C }$ .Mean $\pm \mathrm { S E }$
+
+![](images/8a917fd571e37455c3889e0d4fd0b2db0850f798e46377422a44f8b362e1fddd.jpg)  
+Fig.3Root hydraulic conductivity $( L p )$ of rice at panicle initiation as affected by irrigation method and temperature.Error bars represent SE $( n { = } 4 )$ .Bars with different lowercase letters are significantly different at $P { < } 0 . 0 5$ level.DI, drip irrigation;FI, flood irrigation; T1, $1 8 ^ { \circ } \mathrm { C }$ ；T2, $2 4 ^ { \circ } \mathrm { C }$ ；T3, $3 0 ^ { \circ } \mathrm { C }$
+
+![](images/801c29bed95f6d694cbc99234e1b0a48c3d5da2508ab515a7515d9bc3ab5cf03.jpg)  
+Fig.4Proline (Pro) concentration of rice at panicle initiation as affected by irrigation method and temperature Error bars represent SE $( n { = } 4 )$ .Bars with different lowercase letters are significantly different at $\scriptstyle P < 0 . 0 5$ level.
+
+Leaf and root ABA concentrations were less in DI than in FI at the same soil temperature (Fig.
+
+5). Cool soil temperature significantly increased ABA concentrations in both roots and shoots. Root ABA concentrations under DI were $7 5 \%$ greater in T1 than in T3.Under FI, root ABA concentrations were $3 5 \%$ greater in T1 than in T3.Root ABA concentrations in T1 were $51 \%$ greater in DI than in FI. The ABA concentrations were greater in leaves and change to roots; however, the trends were generally the same as those just described for the root data.
+
+![](images/022bbe58ccfe826434d4e525fc58c38a32705c090564d3073784368ec05c24dd.jpg)  
+Fig.5Abscisic acid (ABA) concentration of rice at panicle initiation as affected by irrigation method and temperature.Error bars represent SE $( n { = } 4 )$ .Bars with different lowercase letters are significantly different at $P { < } 0 . 0 5$ level.
+
+# 3.3Leaf water potential
+
+Leaf water potential was greater in FI than in DI at the same soil temperature (Fig. 6). Cool soil temperature significantly reduced leaf water potential in both irrigation treatments. The declines were larger in DI than in FI. T1 and T2 under DI reduced leaf water potential by $102 \%$ and $60 \%$ respectively, compared with T3. Under FI, T1 and T2 reduced leaf water potential by $89 \%$ and $31 \%$ , respectively. Leaf water potential in T1 was $40 \%$ less in DI than in FI.
+
+![](images/5b249b88e0853c1068eca73f9b5cb93d3fa4fd07f716461746d17681b59b0555.jpg)  
+Fig.6Leaf water potential $( \psi )$ of rice at panicle initiation as affected by irrigation method and temperature. Error bars represent SE $( n { = } 4 )$ .Bars with different lowercase letters are significantly different at $\scriptstyle P < 0 . 0 5$ level.
+
+# 3.4Photosynthetic characteristics of leaves
+
+The photosynthetic characteristics $( P _ { \mathrm { n } } , g _ { \mathrm { s } } , C _ { \mathrm { i } }$ and $T _ { \mathrm { r } }$ ） were greater under FI than under DI at the same soil temperature (Table 2). Cool soil temperatures significantly reduced $P _ { \mathrm { n } ; }$ $g _ { \mathrm { s } }$ and $T _ { \mathrm { r } }$ ,but had no effect on $C _ { \mathrm { i } }$ . Leaf $P _ { \mathrm { n } } , g _ { \mathrm { s } } ,$ and $T _ { \mathrm { r } }$ under DI were $3 5 \%$ $24 \%$ and $31 \%$ less, respectively, in T1 than in T3. Under FI, T1 reduced $P _ { \mathrm { n } }$ $g _ { \mathrm { s } }$ ,and $T _ { \mathrm { r } }$ by $1 6 \%$ ， $1 5 \%$ and $1 1 \%$ ,respectively. In T1, $P _ { \mathrm { n } } , g _ { \mathrm { s } } ,$ and $T _ { \mathrm { r } }$ were $2 5 \%$ ， $24 \%$ and $16 \%$ greater, respectively, in FI than in DI.
+
+# 3.5 Starch concentrations of leaves
+
+Leaf starch concentrations in DI were less than those in the corresponding FI. Starch concentrations generally declined as soil temperatures declined (Fig. 7). Under DI, starch concentrations were $40 \%$ less in T1 than in T3.The differences between T1 and T2 were not significant. Under FI, starch concentrations were $21 \%$ less in T1 than in T3.The differences between T2 and T3 were not significant. At soil temperature T1, starch concentrations were $50 \%$ greater in FI than in DI.
+
+Table2Photosynthetic characteristics of rice at panicle initiation as affected by irigation method and temperature   
+
+<html><body><table><tr><td colspan="2">Treatment</td><td>Pn (μmol/(m²·s))</td><td>gs (mol HO/(m²·s))</td><td>Ci (μmol/mol)</td><td>T (mmol/(m²·s))</td></tr><tr><td rowspan="3">DI</td><td>T1</td><td>9.4±1.5c</td><td>0.19±0.02</td><td>230±8.4b</td><td>8.6±0.6c</td></tr><tr><td>T2</td><td>13.0±0.9b</td><td>0.21±0.02b</td><td>240±10.7ab</td><td>10.0±0.8b</td></tr><tr><td>T3</td><td>14.5±0.9a</td><td>0.25±0.02a</td><td>249±12.8a</td><td>12.4±0.5a</td></tr><tr><td rowspan="3">FI</td><td>T1</td><td>12.5±1.9b</td><td>0.24±0.03b</td><td>254±9.5a</td><td>9.2±0.7b</td></tr><tr><td>T2</td><td>16.1±1.3a</td><td>0.26±0.02b</td><td>253±10.6a</td><td>12.9±1.0a</td></tr><tr><td>T3</td><td>17.2±0.9a</td><td>0.29±0.02a</td><td>259±16.3a</td><td>13.9±0.4a</td></tr></table></body></html>
+
+Note:Withinacolumn and within atemperature treatment,means with different leters are significantly differentat $\scriptstyle P < 0 . 0 5$ level. DI, drip irrigation；FI, flood irrigation；T1, $1 8 ^ { \circ } \mathrm { C }$ ；T2， $2 4 ^ { \circ } \mathrm { C }$ ：T3， $3 0 ^ { \circ } \mathrm { C }$ ： $P _ { \mathrm { n } } .$ ，leaf net photosynthetic rate; $g _ { \mathrm { s } } ,$ stomatal conductance; $C _ { \mathrm { i } }$ intercellular $\mathrm { C O } _ { 2 }$ concentration; $T _ { \mathrm { r } }$ ,transpiration rate.Mean $\scriptstyle \pm \mathrm { S E }$
+
+![](images/f988c2fa541d6eef245c6a6036de9d0db746f4d1783835531bf7c10aca2b379c.jpg)  
+Fig.7Leaf starch concentration of rice at panicle initiation as affected by irigation method and temperature. Errorbarsrepresent SE $( n { = } 4 )$ .Barswith different lowercase letters are significantly different at $\scriptstyle P < 0 . 0 5$ level.
+
+# 3.6Starch concentrations in male and female gametes
+
+Starch concentrations in the male gamete of floral organs were significantly affected by low soil temperature, but starch concentration in female gametes was not obvious with the decrease of temperature (Fig. 8). Starch concentration in the gametes generally declined as soil temperature declined. The T1 and T2 under DI reduced starch concentrations by $3 9 \%$ and $22 \%$ ,respectively, compared with T3.The T1 and T2 under FI reduced starch concentrations by $32 \%$ and $10 \%$ respectively, compared with T3.At soil temperature T1, starch concentrations were $30 \%$ less in DI than in FI.
+
+![](images/60189c40125910635a4c63ead7cbab646e3eb25c98be3d15b9f1690683bd2f29.jpg)  
+Fig.8Starch concentrations of flowers as affected by irigation method and temperature.Error bars represent SE $( n { = } 4 )$ .Bars with different lowercase letters are significantly different at $\scriptstyle P < 0 . 0 5$ level.
+
+# 3.7 Pollen viability
+
+Pollen viability was less in DI than in FI. The T3 under DI reduced pollen viability by $7 \%$ compared with FI. Pollen viability generally declined as soil temperature declined (Fig. 9). The declines were larger in DI than in FI. Under DI,pollen viability in Tl and T2 was reduced by $18 \%$ and $8 \%$ ,respectively, compared with T3.Under FI, pollen viability was $10 \%$ less in T1 than in T3.The differences between T2 and T3 were not significant.
+
+![](images/275974b0617c274aa3244ec46be2f0c00d148b1dbee68cb0e00ba9a4eff4972e.jpg)  
+Fig.9Pollen viability of rice as affected by irigation method and temperature.Error bars represent SE $( n { = } 4 )$ Bars with different lowercase letters are significantly different at $P { < } 0 . 0 5$ level.
+
+# 3.8Dry matter quantity
+
+Root,shoot dry weight, and total weight under DI were less than those under FI. Starch concentrations generally declined with soil temperature decrease (Table 3). Cool soil temperature significantly reduced shoot dry weight in both DI and FI. The declines were larger in DI than in FI. In the DI, root, shoot, and total dry weights in T1 were $5 5 \%$ $34 \%$ and $47 \%$ lower than in T3, respectively. In FI, shoot and total dry weights decreased but not significant. Root and total dry weights were significantly ( $22 \%$ and $18 \%$ ,respectively) lower in T1 than in T3.
+
+# 3.9 Yield and yield components
+
+Yield and yield components under DI were less than those under FI. Starch concentrations generally declined as soil temperatures declined (Table 4). In DI, filled grain number, total grain number, and yield were $6 6 \%$ ， $3 7 \%$ ,and $65 \%$ less,respectively, in T1 than in T3.Under FI, filled grain number, total grain number, and yield were $49 \%$ ， $2 5 \%$ ，and $49 \%$ less,respectively,in T1 than in T3.
+
+Table 3Dry weight and root/shoot ratio of rice at panicle initiation affected by irigation method and temperature   
+
+<html><body><table><tr><td rowspan="2">Treatment</td><td rowspan="2"></td><td>Root dry weight</td><td>Shoot dry weight</td><td>Total dry weight</td><td rowspan="2">Root/shoot</td></tr><tr><td></td><td>(g/plant)</td><td></td></tr><tr><td rowspan="3">DI</td><td>T1</td><td>2.01±0.19b</td><td>1.70±0.27b</td><td>3.71±0.46b</td><td>1.19±0.07b</td></tr><tr><td>T2</td><td>2.24±0.30b</td><td>1.95±0.13b</td><td>4.19±0.41b</td><td>1.15±0.10b</td></tr><tr><td>T3</td><td>4.43±0.62a</td><td>2.59±0.17a</td><td>7.01±0.54a</td><td>1.72±0.32a</td></tr><tr><td rowspan="3">FI</td><td>T1</td><td>4.27±0.22b</td><td>3.11±0.04a</td><td>7.38±0.19b</td><td>1.38±0.09a</td></tr><tr><td>T2</td><td>4.43±0.43b</td><td>3.36±0.59a</td><td>7.80±0.32b</td><td>1.36±0.39a</td></tr><tr><td>T3</td><td>5.45±0.33a</td><td>3.52±0.19a</td><td>8.97±0.38a</td><td>1.55±0.13a</td></tr></table></body></html>
+
+Note:Withinacolumnand withina temperature treatment,means withdifferentletersare significantlydifferentat $\scriptstyle P < 0 . 0 5$ level.
+
+Table 4Yield and yield components of rice at panicle initiation stage as affected by irigation method and temperature   
+
+<html><body><table><tr><td colspan="2">Treatment</td><td>Filled grains per plant</td><td>Total grains per plant</td><td>1000-grain weight (g）</td><td>Yield (g/hill)</td><td>Seed setting rate (%)</td></tr><tr><td rowspan="3">DI</td><td>T1</td><td>49±5b</td><td>125±10b</td><td>23.9±1.3a</td><td>3.5±0.4c</td><td>39.0±4.2c</td></tr><tr><td>T2</td><td>66±3b</td><td>120±13b</td><td>23.8±0.5a</td><td>4.7±0.2b</td><td>55.2±5.2b</td></tr><tr><td>T3</td><td>141±8a</td><td>198±11a</td><td>23.7±0.4a</td><td>10.0±0.5a</td><td>71.4±2.6a</td></tr><tr><td rowspan="3">FI</td><td>T1</td><td>88±9℃</td><td>155±11c</td><td>26.1±0.6a</td><td>6.9±0.8c</td><td>57.1±4.3b</td></tr><tr><td>T2</td><td>147±4b</td><td>186±12b</td><td>25.7±0.7a</td><td>11.3±0.3b</td><td>78.9±4.5a</td></tr><tr><td>T3</td><td>169±7a</td><td>202±12a</td><td>26.2±0.7a</td><td>13.3±0.7a</td><td>83.6±1.8a</td></tr></table></body></html>
+
+Note:Within acolumn and within a temperature treatment,means with different leters are significantly differentat $\scriptstyle P < 0 . 0 5$ level. DI, drip irrigation; FI, flood irrigation; T1, $1 8 ^ { \circ } \mathrm { C }$ ；T2, $2 4 ^ { \circ } \mathrm { C }$ ；T3, $3 0 ^ { \circ } \mathrm { C }$ .Mean $\pm \mathrm { S E }$
+
+# 4Discussion
+
+Roots are important because they not only absorb water and nutrients but also synthesize bioactive compounds which are then transported to other plant organs (Daryanto et al.,2017). In a previous study, we observed that drip irrgated rice exhibited mild water stress symptoms, even when soil water contents were maintained at $9 0 \% - 9 5 \%$ of field water capacity (He et al., 2013). Drought-stressed plants expend more energy to extract water and nutrients from deeper soil, ultimately resulting in a greater root length (Pucholt et al., 2O15). This experiment showed that root:shoot ratio of rice in T3 (i.e., optimal soil temperature) was $1 1 \%$ greater in DI than in FI (Table 3). We suggest that the longer roots in the DI treatment also indicate moisture stress.
+
+The physiological function of the root system is affected by many factors，including temperature.Some studies suggest that plants are more sensitive to low soil temperature than to low air temperature (Hatfield and Prueger, 2O14). It is believed that the root ABA concentration is the most likely signal reflecting physiology stress (Pinto and Reynolds,2015).Low temperatures cause significant increases in ABA concentrations in root, which directly or indirectly affect the physiological processes in the shoot. In addition, photosynthetic product transport in plants was blocked and ABA content accumulated in the leaves under low temperature (Theocharis et al., 2012).The results of this study showed that T1 increased ABA and proline concentrations in the rice roots compared with T3 (Figs.2 and 3). Furthermore, these increases were greater in DI than in FI. Saab et al. (199O) reported that low root zone temperature caused an imbalance in physiological metabolism by reducing root water content and increasing ABA concentrations. Our results indicated that low soil temperature aggravated the effects of mild drought stress that rice was already experiencing in DI.
+
+The root system is one of the major regulatory sites for water movement through whole plants. Therefore,a decrease in $L \boldsymbol { p }$ affects plant water status, stomatal conductance,photosynthesis, growth,and productivity. The $L \boldsymbol { p }$ values were always less in DI than in FI (Fig. 3); however, the differences between the treatments became larger as root zone temperature decreased. At soil temperature T1, $L \boldsymbol { p }$ was $58 \%$ less in DI than in FI. Overall, the results indicated that DI reduced the capacity of the root system to supply water to other parts of the plant compared to FI and the problem was exacerbated when root zone temperatures were low.
+
+Most of the water absorbed by the roots is used for plant transpiration. Rice leaves roll or dry out when root-zone temperatures are low even when soil water content is high (Murai-Hatano et al.,2008). The results of this study agree with Malcolm et al. (2014) who reported that low temperature stress to rice roots can indirectly influence leaf photosynthesis and biomass accumulation.In this study,at T1,leaf $P _ { \mathrm { n } }$ was significantly $( 2 5 \% )$ less and leaf proline and ABA concentrations were significantly （ $40 \%$ and $2 6 \%$ ） greater in DI than inFI(Table 2).Dry matter accumulation and yield at T1 were $50 \%$ and $49 \%$ less in DI than in FI (Tables 3 and 4). The soil temperatures were the same in DI and FI. The only difference between DI and FI was soil moisture content. Therefore, the results indicate that low temperatures aggravated drought stress in DI, leading to greater yield loss in DI than in FI.
+
+Spike differentiation is an important stage of yield formation and is also the time when rice is most sensitive to temperature stress (Glaubitz et al., 2015). The optimum temperature during panicle differentiation is $2 6 ^ { \circ } \mathrm { C } - 3 0 ^ { \circ } \mathrm { C }$ (Gunawardena et al., 2oo3). Starch plays a significant role in polen maturity as it is specially accumulated in pollen to provide energy for pollination (Datta et al.,2002). In this study, irrigation method and soil temperature significantly affected starch concentrations in male,but not female gametes. Starch concentrations in the male gametes were $32 \% - 3 9 \%$ less in the T1 than in T3.Furthermore,in T1,starch concentrations in the male gametes were $30 \%$ less in DI than in FI at T1 (Fig. 7). This indicated that the development of male gametes was affected by low soil temperature during panicle differentiation. One reason is that leaf $P _ { \mathrm { n } }$ was less in DI than in FI, resulting in a decrease in starch production (Fig. 8), causing the pollen viability declined (Fig.9). This inhibited pollination,resulting in a significant increase in the void rate and a reduction in yield (Table 3). The correlation analyses were conducted for rice yield with root water conductivity， ABA concentration， proline concentration and starch concentration. The results showed that there was a significant positive correlation for yield of rice with starch concentration ( $R ^ { 2 } { = } 0 . 9 6 4$ ， $\scriptstyle P < 0 . 0 1 { \\mathrm { ~ . ~ } }$ ）and root water conductance（ $R ^ { 2 } { = } 0 . 8 9 5$ ， $P { < } 0 . 0 1$ ）in male gametes. And there was a significant negative correlation between yield of rice and ABA concentration in the root（ $R ^ { 2 } { = } 0 . 9 1 5$ ， $\scriptstyle P < 0 . 0 1 )$ ）and in leaves $\scriptstyle ( R ^ { 2 } = 0 . 9 4 9$ ， $\scriptstyle P < 0 . 0 1 { \big . }$ ).Further explanation of the main reasons affecting yield of rice is the concentration of starch in the male gametes and the water conductance of the root system (Datta et al.， 2Oo2). Researchers have reported that pollen development is terminated when starch levels fall below a certain level and pollen sterility is associated with inefficiency in starch accumulation (Datt et al., 2Oo2).Pollen starch accumulation can also be severely affected by brief water stress on plants during meiosis. We concluded that low root zone temperature leads to pollen abortion in drip irigated rice, primarily because starch content synthesis is blocked. The additional stress of low soil temperature makes the drip irrigated rice even more sensitive during the spike differentiation period.
+
+# 5 Conclusions
+
+Low root zone temperatures reduce water absorption by rice roots. As a result, leaf water potential declines,stomata close,and both carbon assmilation and starch production are reduced. The negative effects of low root zone temperature are more serious under drip irrigated rice than under flood irrgated rice. Therefore，we conclude that low soil temperature at the panicle stage aggravates the physiological water deficit under drip irrigation,leading to reduced starch content in male gametes,low fertilization rates,and reduced yield.
+
+# Acknowledgements
+
+This work was supported by the National High Technology Research and Development Program of China (2011AA100508)and the National Natural ScienceFoundationof China (31471947,31860587).We are thankful to Dr.William GALE for help with the English in this manuscript.
+
+# References
+
+BaiRX,ChenL,ZhangXJ,etal.2017.Efectofsalinityandsoil temperatureonthegrowthandphysiologyofdrip-igated rice seedlings.Archives of Agronomy and Soil Science,63(4): 513-524.   
+Bates LS,WaldrenRP,TeareID.1973.Rapiddeterminationoffre proline for water-stress studies.PlantandSoil,9(1): 205-207.   
+Boursiac Y,ChenS,LuuDT,etal.2Oo5.EarlyeffectsofsalinityonwatertransportinArabidopsisroots.Molecularand cellular features of aquaporin expression.Plant Physiology,139(2): 790-805.   
+Carter MR, Gregorich E G.2007.Soil Sampling and Methods of Analysis.Boca Raton: CRC Pres,350-375.   
+Daryanto S,WangL,JacinthePA.2O17.Globalsythesisofdroughteectsoncereal,gume,tuberndroocropsproduction: A review.Agricultural Water Management, 179:18-33.   
+Datta R,Chamusco K C,Chourey PS.2U2.Starch biosynthes1s during pollen maturation1s asociated with altered paterns of gene expression in maize. Plant Physiology,130(4):1645-1656.   
+FAO(Food and Agriculture Organizationof the United Nations).1998.World Reference Base for Soil Resources.In:FAO. World Soil ResourceReports.Rome,S (International SocietyofSoilcience),SRIC (International SoilReferenceand Information Centre).   
+GlaubitzU,ErbanA,KopkaJ,etal.2015.Highnighttemperature stronglyimpacts TCAcycle,aminoacidandpolyamine biosynthetic pathways inricein asensitivity-dependent manner. Journal of Experimental Botany,66(2O): 6385-6397.   
+GunawardenaTAFukaiS,BlameyFP,etal.2Oo.Lowtemperatureinducedspikeletsterilityinrice.I.Nitrogenfertilisation and sensitive reproductive period. Crop & Pasture Science,54(10): 937-946.   
+Guo QR,ChenL.2012.Theadvantages and prospectsofricecultivation techniques under-mulch-drip irrgation.China Rice, 18(4):36-39.(in Chinese)   
+Hatfield JL,Prueger JH.2015.Temperature extremes: efect on plant growth and development. Weather and Climate Extremes,10: 4-10.   
+He H,MaF,Yang R,et al.2O13.Rice performanceand wateruse eficiencyunder plastic mulching withdripirrigation.PLoS ONE,8(12): e83103.   
+Imran M,MahmoodA,Romheld V,etal.20l3.Nutrientseed priming improvesseedlingdevelopment of maize exposedtolow root zone temperatures during early growth. European Journal of Agronomy,49:141-148.   
+Malcolm PJ,HolfordP,BarchiaI,etal.2014.Highandlowroot zonetemperaturesatbud-break reduce growthand influence dry matter partitioning in peach rootstocks.Scientia Horticulturae,171: 83-90.   
+Matsuda,F,Yamasaki ,Hasunuma T,etal.2Ol1.Variationinbiomass propertiesamongricediversecultivars.Bioscience Biotechnology and Biochemistry,75(8): 1603-1605.   
+MenbergK,Blum P,Kurylyk B L,et al.2O14.Observed groundwater temperature response to recent climate change. Hydrology and Earth System Sciences,18(11): 4453-4466.   
+Murai-HatanoM,KuwagataT,SakuraiJ,etal.2o8.Efectoflowoottemperatureonhydraulicconductivityofrceplants and the possible role of aquaporins.Plant and Cell Physiology, 49(9): 1294-1305.   
+Pinto R S,Reynolds MP.2O15.Common genetic basis for canopy temperature depression under heat and drought stress associated with optimized root distribution in bread wheat.Theoretical and Applied Genetics,128(4):575-585.   
+Poschenrieder C,Gunsé B,Barcel6 J.1989.Influence of cadmiumon water relations,stomatal resistance,andabscisic acid content in expanding bean leaves.Plant Physiology, 90(4): 1365-1371.   
+PucholtP,Sjodin,WeiM,etal.2O15.Genome-widetranscriptioalandpysiolgicalresponses todroughtstressleaves and roots of two willow genotypes.BMC Plant Biology,15(1): 244-244.   
+Saab IN,SharpRE,Pritchard J,etal.1990.Increasedendogenousabscisicacid maintains primaryroot growthandinibits shoot growth of maize seedlings at low water potentials.Plant Physiology,93(4):1329-1336.   
+Scholander PF,BradstreetED,HemmingsenEA,etal.1965.Sappresure invascular plants: negativehydrostatic pressure can be measured in plants.Science,148(3668): 339-346.   
+Shi X,Zhou Q,Wang Y,etal.2015.Researchonsoil moisture dynamicundernegative presure irigation.In: WangY,Zhao JH.Procedingsof theInternational ConferenceonEnergy,Environmentand Materials cience (EEMS20l5).BocaRaton: CRC Press, 25-26.   
+Song G,Wang M,Zeng B,et al.2015.Antherresponse to high-temperature stressduring development and polen thermotolerance heterosis asrevealed by polen tube growth and in vitro polen vigor analysis in upland cottn.Planta. 241(5): 1271-1285.   
+Theocharis A,Clement C,BarkaEA,et al.2O12.Physiologicaland molecular changes in plants grown at low temperatures. Planta, 235(6): 1091-1105.   
+TianF,YangP,HuH,etal.2Ol7.Energybalanceandcanopyconductanceforacottonfieldunderfilmmulcheddripigation in an arid region of northwestern China.Agricultural Water Management,l79:110-121.   
+YanQ,Duan Z,MaoJ,etal.2O13.Lowrootzonetemperature limits nutrientefectsoncucumbersedlinggrowthandiduces adversity physiological response.Journal of Integrative Agriculture,12(8): 1450-1460.   
+Zhang J,HouJ,Zhang H,etal.2O19.Lowsoiltemperature inibitsyieldofriceunderdripirigation.JournalofSoilScience and Plant Nutrition,19(1): 228-236.   
+Zhang XJ,Zhang SJ,Zhao H,et al.2016.Effect of ${ \mathrm { H C O } } _ { 3 } ^ { - }$ on rice growth and iron uptake under flood irrigation and drip irigation with plastic film mulch.Journal of Plant Nutrition and Soil Science,178(6): 944-952.

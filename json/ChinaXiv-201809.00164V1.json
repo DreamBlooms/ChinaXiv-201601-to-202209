@@ -1,0 +1,468 @@
+[
+    {
+        "type": "text",
+        "text": "Mulching mode and planting density affect canopy interception loss of rainfall and water use efficiency of dryland maize on the Loess Plateau of China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHENG Jing1,2, FAN Junliang1,2\\*, ZHANG Fucang1.2, YAN Shicheng1,2, GUO Jinjin1,2, CHEN Dongfeng1,2, LI Zhijun1.2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1KeyLaboratoryofAgriculturalSoilandWaterEngineringinAridandSemiaridAreasofMinistryofEducation,Northwest A&FUniversity, Yangling 71210o, China; ² Institute of Water-saving Agriculture in Arid Areas of China, Northwest A&F University, Yangling 712100,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: High and eficient use of limited rainwater resources is of crucial importance for the crop production in arid and semi-arid areas. To investigate the efects of different soil and crop management practices (i.e.， mulching mode treatments: flat cultivation with non-mulching, flat cultivation with straw mulching, plastic-covered ridge with bare furrow and plastic-covered ridge with straw-covered furrow; and planting density treatments: low planting density of 45,OOO plants/ $\\mathrm { h m } ^ { 2 }$ ,medium planting density of 67,500 plants/ $\\mathrm { h m } ^ { 2 }$ and high planting density of 90,000 plants/ $\\mathrm { { h m } } ^ { 2 } ,$ ） on rainfall partitioning by dryland maize canopy, especially te resulted net rainfallinput beneath the maize canopy, we measured the gross rainfall, throughfall and stemflow at different growth stages of dryland maize in 2015 and 2016 on the Loess Plateau of China. The canopy interception loss was estimated by the water balance method. Soil water storage,leaf area index, grain yield (as well as it components) and water use efficiency of dryland maize were measured or calculated. Results showed that the cumulative throughfall， cumulative stemflow and cumulative canopy interception loss during the whole growing season accounted for $4 2 . 3 \\% - 7 7 . 5 \\% .$ $1 5 . 1 \\text{‰}$ $3 6 . 3 \\%$ and $7 . 4 \\% - 2 1 . 4 \\%$ of the total gross rainfall under different treatments, respectively. Soil mulching could promote the growth and development of dryland maize and enhance the capability of stemflow production and canopy interception loss, thereby increasing the relative stemflow and relative canopy interception loss and reducing the relative throughfall. The relative stemflow and relative canopy interception loss generally increased with increasing planting density, while the relative throughfall decreased with increasing planting density. During the two experimental years, mulching mode had no significant influence on net rainfall due to the compensation between throughfall and stemflow, whereas planting density significantly affected net rainfall The highest grain yield and water use eficiency of dryland maize were obtained under the combination of medium planting density of 67,5OO plants/ $\\mathrm { h m } ^ { 2 }$ and mulching mode of plastic-covered ridge with straw-covered furrow. Soil mulching can reduce soil evaporation and retain more soil water for dryland maize without reducing the net rainfall input beneath the maize canopy, which may allviate the contradiction between high soil water consumption and insuficient rainfall input of the soil. In conclusion, the application of medium planting density (67,5O0 plants/ $\\mathrm { \\hbar } \\mathrm { h m } ^ { 2 } ,$ under plastic-covered ridge with bare furrow is recommended for increasing dryland maize production on the Loess Plateau of China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: dryland maize; throughfall stemflow; canopy interceptionloss; yield; water use eficiency; Loess Plateau ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Incident gross rainfallis intercepted by crop canopy as it moves towards the ground and it can be partitioned into three components: throughfall, stemflow and canopy interception loss (Lamm and Manges, 2O0O; Carlyle-Moses, 2OO4). Throughfall considered as the portion of rainfall that reaches the ground through the canopy gaps or leaf raindrops, is the major water flux within most agricultural systems (Dunkerley, 2O00). Stemflow, which refers to the part of rainfall that flows down the plant stem and subsequently delivers to the root zone (Lamm and Manges, 2000), is usually important to maintain the water balance of plant species and alleviate the drought stress on plant growth (Levia and Frost, 2O03; Swaffer et al., 2O14). Canopy interception loss, the proportion of rainfal that is intercepted, reserved and eventually evaporated back into the atmosphere during and after rainfall events (Fan et al., 2O14; Li et al., 2O15), is a significant and sometimes dominant component of rainwater loss in farmland ecosystems. It reduces the amount of actual effective rainfall reaching the ground surface. These studies indicate that the canopy interception loss cannot be ignored. Numerous studies have quantified various redistribution processes under maize crop canopy (Steiner et al., 1983; Paltineanu and Starr, 200O; Wang et al., 20O6; Han et al., 2014). The percentages of canopy interception loss to total rainfall input are not consistent at different locations in the world, which are related to differences in canopy structure (e.g.,leaf area index and leaf shape) and meteorological conditions (e.g., rainfall intensity, wind speed, relative humidity and solar radiation) (Shi et al.,201O; Ghimire et al.,2012; Fathizadeh et al., 2014; Fan et al.,2018a, b). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Loess Plateau is one of the most important regions of agricultural production (including the maize production) in China. Rainfall scarcity， especially during the growth season of dryland maize, is a major problem in this region (Wang et al., 2O11). The key to increase agricultural productivity depends on how to maximize the utilization of limited rainfal resource. In semi-arid regions of the Loess Plateau, many agronomic practices have been explored over the past decades, especially for the dryland maize (Liu et al., 2010; Li et al., 2013). Mulching mode and planting density greatly affect the growth and grain yield of dryland maize,and their efects have been well documented (Tokatlidis et al.,2011; Zhou et al., 2011; Yin et al., 2017). If the planting density is too high, it will reduce the availability of incident rainfall in the growing season and intensify rainfall resource pressure. Mulching mode can be used to explore the problems of water shortage and rainfal fluctuation by altering the balance between evaporation and transpiration (Pabin et al., 2003; Deng et al., 2O06), which may efficiently improve the crop growth conditions and then in turn affect the input of net rainfall. However, the effects of mulching mode and planting density on the rainfall partitioning by dryland maize canopy, especially the resulted net rainfall input beneath the maize canopy, were generally neglected and seldom studied. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Improving knowledge of the agricultural water cycle in dryland agriculture, therefore, is of crucial importance for the high and efficient use of limited rainwater resource. The objectives of this study were: (1) to evaluate the percentages of throughfall, stemflow and canopy interception loss at different growth stages of dryland maize under different planting modes; and (2) to explore the effects of mulching mode and planting density on the partitioned rainfall components, grain yield and water use efficiency (WUE) of dryland maize on the Loess Plateau of China. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The field experiment was carried out at the Water-saving Station of the Key Laboratory of Agricultural Soil and Water Engineering ( $3 4 ^ { \\circ } 1 8 \\mathrm { N }$ $1 0 8 ^ { \\circ } 0 4 ^ { \\prime } \\mathrm { E }$ ： $5 2 1 \\mathrm { ~ m ~ }$ a.s.l.)，sponsored by the Ministry of Education, at the Northwest A&F University, Loess Plateau of China. This area is characterized by a warm temperate and monsoon climate, and situated in a semi-arid to semi-humid transition zone. The maximum and minimum air temperatures in this area are $4 2 . 0 ^ { \\circ } \\mathrm { C }$ and $- 1 9 . 4 ^ { \\circ } \\mathrm { C }$ respectively, and the annual mean air temperature is $1 2 . 9 ^ { \\circ } \\mathrm { C }$ . The total annual sunshine hour is 2196 h and the frost-free period is $2 2 0 \\mathrm { d }$ . The mean annual pan evaporation is $1 5 0 0 ~ \\mathrm { { m m } }$ ，and the mean annual precipitation is $5 6 0 ~ \\mathrm { m m }$ ，with $65 \\%$ of the total precipitation falling between June and September. The soil of the experimental field is silty clay loam in texture, with a mean bulk density of $1 . 4 0 ~ \\mathrm { g } / \\mathrm { c m } ^ { 3 }$ in the top soil layer $\\left( 0 { - } 5 0 \\ \\mathrm { c m } \\right)$ . The field water holding capacity and permanent wilting point of the soil were $2 4 . 0 \\%$ and $8 . 5 \\%$ (gravimetric), respectively. The groundwater level is at least $5 0 \\mathrm { m }$ below the soil surface; thus, the capillary rise from groundwater can be neglected in the present study (Ji et al., 2O14). The total rainfall during the growing season of dryland maize (from mid-June to early October) amounted to $2 7 0 \\mathrm { m m }$ in 2015 and $2 6 1 ~ \\mathrm { m m }$ in 2016 (Fig. 1), both of which were lower than the long-term mean seasonal rainfall of $3 3 3 \\mathrm { m m }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/83c6b0a2a4a60696b55e86baac7db4561803fba4010b5f784511763bd19a4d36.jpg",
+        "img_caption": [
+            "Fig.1Daily rainfal distribution and daily mean air temperature during the growing seasons of dryland maize in 2015 (a) and 2016 (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2Experimental design ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "\"Zhengdan $9 5 8 \"$ , a popular maize cultivar in the study area, was used in the experiment. Four types of mulching mode (NM, flat cultivation with non-mulching; SM, flat cultivation with straw mulching; RP, plastic-covered ridge with bare furrow; RPFS， plastic-covered ridge with straw-covered furrow) and three levels of planting density (LD,low planting density of 45,000 plants $/ \\mathrm { h m } ^ { 2 }$ ； MD，medium planting density of 67,500 plants $/ \\mathrm { h m } ^ { 2 }$ ; HD,high planting density of 90,000 plants $/ \\mathrm { h m } ^ { 2 }$ ） were applied in this study. The twelve treatments (four mulching modes $\\times$ three planting density levels) were replicated three times in a randomized complete factorial block design. Each field plot was designed as $1 5 ~ \\mathrm { m } ^ { 2 }$ , containing 6 rows with each row being $5 . 0 \\mathrm { m }$ long. To prevent the lateral spread of water, we surrounded the plots by dikes with a distance of $1 . 5 \\mathrm { ~ m ~ }$ between plots. In the experiment, the straw mulch material was wheat straw. Alternated ridges and furrows were prepared by shaping the soil surface before planting maize. Ridges ( ${ \\mathrm { 6 0 . 0 c m } }$ wide and $1 5 . 0 \\ \\mathrm { c m }$ high) were covered with plastic film $8 0 . 0 \\ \\mathrm { c m }$ wide and $0 . 0 0 8 ~ \\mathrm { { m m } }$ thick), while furrows 0 $_ { ( 6 0 . 0 \\mathrm { c m } }$ wide) were not mulched or mulched with wheat straw. A double row of maize was planted in furrows. Wheat straw was cut into $1 5 . 0 ~ \\mathrm { c m }$ long segments and was covered the next day after sowing. The wheat straw was uniformly applied at a rate of $9 0 0 0 ~ \\mathrm { k g / h m } ^ { 2 }$ over the entire soil surface with the SM treatment or in furrows with the RPFS treatment (Cai et al., 2O11). Different planting densities (LD, MD and HD) were employed by changing plant spacing of 37.0, 25.0 and $1 8 . 5 \\mathrm { c m }$ , respectively, with a fixed row spacing of $6 0 . 0 \\ \\mathrm { c m }$ . The maize was sown on 15 June 2015 and 12 June 2016, and harvested on 30 September 2015 and 5 October 2016, respectively. Fertilizers N, $\\mathrm { P } _ { 2 } \\mathrm { O } _ { 5 }$ and ${ \\bf K } _ { 2 } \\mathbf { O }$ were applied as basal fertilizers at a rate of $1 8 0 ~ \\mathrm { k g / h m ^ { 2 } }$ 。 $1 2 0 ~ \\mathrm { k g / h m ^ { 2 } }$ and $6 0 \\mathrm { k g } / \\mathrm { h m } ^ { 2 }$ , respectively. No fertilizer or irrigation was further applied during the whole growth season. Other management practices, including pest and weed control were undertaken according to local agronomic practices. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3Data collection ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 Measurements and calculations of gross rainfall and its components ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The gross rainfall was measured by a standard rain gauge with a resolution of $0 . 1 ~ \\mathrm { m m }$ and a mini logger recording 6O-min rainfall amount from an automatic weather station (HOBO event logger, USA) located approximately $2 5 . 0 \\mathrm { ~ m ~ }$ from the experimental field. The gross rainfall was measured by four collecting containers ( $1 0 . 0 \\mathrm { c m }$ in diameter and $1 5 . 0 \\mathrm { c m }$ in height) around the experimental field at the same time.The rainfall volume was collected and measured at once after each rainfall event. A rainfall event was defined as a rainfall period from preceding and succeeding rainfall being partitioned by at least $6 \\mathrm { { h } }$ without rainfall. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Throughfall was measured using 15 collecting containers located beneath four adjacent maize plants which were selected randomly at each experimental plot (Fig. 2). The throughfall volume was measured promptly after each rainfall event. Then, it was converted into depth by dividing the horizontal cross-sectional area of the collecting container (Tanaka et al., 2O15). There were three replicates for each throughfall measurement. The relative throughfall was calculated as: (throughfall/gross rainfall) $1 \\times 1 0 0 \\%$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5f256bc9c1b64753706a543317ebbdd84d03328acd4c1f4e91a3440ded3b751a.jpg",
+        "img_caption": [
+            "Fig.2Schematic layout ofcollecting containers for throughfall measurement under different planting densities "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Stemflow was measured on six maize plants which were representative of the experimental plots. The stemflow was collected using collars constructed from plastic plates that were fitted around the maize stem. Furthermore, we designed a slot with a transfer hose to drain the stemflow water from the stemflow collars to the collecting containers which held the accumulated stemflow (Lamm and Manges, 2OOO). The stemflow volume was measured using a graduated cylinder after each rainfall event. The equivalent stemflow depth was calculated using Equation 1: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { d } = \\frac { V _ { s } } { A } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $S _ { d }$ is the stemflow depth $( \\mathrm { m m } )$ ： $V _ { s }$ is the stemflow volume $( \\mathrm { L } )$ ; and $A$ is the average ground area occupied by a maize plant $( \\mathbf { m } ^ { 2 } )$ . The relative stemflow was calculated as: (stemflow/gross rainfall) $\\boldsymbol { \\times } 1 0 0 \\%$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The interception loss by the canopy of maize for each rainfall event was calculated from the water balance method (Fan et al., 2O15; Zhang et al., 2015): ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { I = G - P _ { \\mathit { n } } , } \\\\ { P _ { \\mathit { n } } = T + S _ { d } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $I$ is the canopy interception loss $\\left( \\mathrm { m m } \\right)$ $G$ is the gross rainfall (mm); $P _ { n }$ is the net rainfall during a rainfall event (mm); and $T$ is the throughfall $( \\mathrm { m m } )$ . The relative canopy interception loss was calculated as: (canopy interception loss/gross rainfall) $\\times 1 0 0 \\%$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The cumulative throughfall cumulative stemflow and cumulative canopy interception loss were calculated as the sum of individual rainfall value over the whole growing season of dryland maize. Percentages of cumulative throughfall, cumulative stemflow and cumulative canopy interception loss during the growing season of dryland maize were calculated. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 Measurementand calculationofleaf area index (LAI) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For each treatment, three plants with three replicates were randomly selected to measure the leaf area every $5 \\mathrm { - } 1 0 \\mathrm { ~ d ~ }$ . The total leaf area of a single maize plant was calculated by Equation 4 (Qi et al., 2012): ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { L A } = \\sum _ { i = 1 } ^ { n } k \\times L i \\times W _ { i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where LA is the total leaf area of a single maize plant $( \\mathrm { c m } ^ { 2 } )$ ： $n$ is the number of green leaves on a single maize plant; $k$ is a correction coefficient $k { = } 0 . 7 5$ ） $L _ { i }$ is the length of the $i ^ { \\mathrm { t h } }$ leaf (cm); and $W _ { i }$ is the maximum width of the $i ^ { \\mathrm { t h } }$ leaf (cm). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "LAI $( \\mathrm { m } ^ { 2 } / \\mathrm { m } ^ { 2 } )$ was calculated as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { L A I } = 0 . 0 0 0 1 N \\times \\mathbf { L A } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $N$ is the number of maize plants per unit ground area. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.3 Measurement of soil water content ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To calculate changes in soil water storage of the soil profile throughout the whole growing season, we measured soil water content gravimetrically at depths of 0-20, 20-40, 40-60, 60-80, 80-100, 100-125, 125-150 cm before sowing and after harvesting of maize in the two experimental years (2015 and 2O16). In addition, we measured the water content of the soil profile at the middle of each growth stage (i.e., 3 July, 24 July, 15 August, 11 September and 23 September in 2015 and 27 June, 23 July, 17 August, 7 September and 22 September in 2016) to observe the dynamics of soil water storage. The sampling positions for cultivation with ridge and furrow were located in the middle of furrow, in the middle of ridge and at the boundary of two adjacent ridge and furrow. For flat cultivation, soil samples were collcted close to the maize plants and between two adjacent plant rows. And, all measurements had thre replicates. Gravimetric soil water content and dry bulk density were obtained by oven-drying the samples at $1 0 5 ^ { \\circ } \\mathrm { C }$ .Gravimetric soil water content was multiplied by soil bulk density to obtain the volumetric soil water content. Soil water storage was calculated by multiplying the volumetric soil water content by soil profile depth in the upper 150 cm soil layer. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.4Grain yield, yield components and water use efficiency (WUE) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Grain yield and yield components were investigated from the center of each plot at physiological maturity of the 3O collected ears. Head length and seed number per head were measured for all harvested ears. Three samples of 1OoO kernels were oven-dried at $8 0 ^ { \\circ } \\mathrm { C }$ for three days to constant weight, and then weighted to estimate the 1Ooo-seed weight. All the kernels were air-dried and the grain yield was determined at a $1 4 . 0 \\%$ soil water content basis. Seasonal evapotranspiration for each plot was determined by the following soil water balance equation (Bu et al., 2O13; Fan et al., 2016): ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname { E T } { = } P _ { n } { + } \\Delta S ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where ET is the seasonal evapotranspiration (mm); and $\\Delta S$ is the change in soil water storage (mm), without considering surface runoff due to flat soil surface or deep percolation as a result of low rainfall and great soil water-holding capacity in the upper $1 5 0 \\ \\mathrm { c m }$ layer. WUE $\\left( \\mathrm { k g / ( h m ^ { 2 } { \\cdot } m m } \\right) \\$ was further calculated as maize yield $( Y ( \\mathrm { k g / h m ^ { 2 } } ) )$ divided by seasonal water use (evaluated as ET in the present study), i.e., $\\mathrm { W U E } { = } Y / \\mathrm { E T }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Analysis of variance was performed to determine the effects of mulching mode, planting density and their interactions on canopy interception loss of rainfall and water use efficiency of dryland maize using statistical software SPSS 16.0 (SPSS Inc., Chicago, USA). Least significant difference test was used to detect differences among the means of treatments. Differences were considered statistically significant at $P { < } 0 . 0 5$ level. The figures were plotted with SigmaPlot 10.O Software (Systat Software Inc., San Jose, IL, USA). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3Results and discussion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Effects of mulching mode and planting density on leaf area index (LAI) of maize ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 shows the LAI dynamics of dryland maize at different growth stages in the two experimental years (2O15 and 2O16). For all treatments, LAI firstly increased and peaked at the tasseling stage of dryland maize (12 August in 2015 and 2 August in 2016). Subsequently, LAI decreased because of leaf senescence at the late stage of maize growth (11 and 24 September in 2015; and 9 and 26 September in 2O16). The differences in LAI under different mulching modes were gradually obvious with the advance of growth stages. Among the four mulching modes, LAI was highest under RPFS, followed by RP, SM and NM, which was similar to previous studies of Chen et al. (2002) and Wang et al. (2004). Compared with NM, RPFS and RP respectively increased the averaged LAI of the whole growing seasons in 2015 and 2016 by $3 6 . 2 \\%$ and $2 3 . 6 \\%$ . while SM increased the averaged LAI by $1 2 . 8 \\%$ . Planting density had a higher effect on LAI than mulching mode, implying that it is a dominant influencing factor on LAI. Compared with LD, MD and HD increased the averaged LAI of the whole growing season in 2O15 and 2016 by $6 3 . 8 \\%$ and $8 6 . 9 \\%$ , respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/97e5c72d5fb936031902b3537fb92d1ee6d020b7a9c2508ea62004a1de396df8.jpg",
+        "img_caption": [
+            "Fig.3Dynamics of leaf area index (LAI) of dryland maize under different mulching modes and planting densities in 2015 and 2016. NM,flat cultivation with non-mulching; SM,flat cultivation with straw mulching;RP, plastic-covered ridge with bare furrow; RPFS, plastic-covered ridge with straw-covered furrow; LD,low planting density $( 4 5 , 0 0 0 \\ \\mathrm { p l a n t s } / \\mathrm { h m ^ { 2 } } )$ ; MD, medium planting density $( 6 7 , 5 0 0 \\ \\mathrm { p l a n t s } / \\mathrm { h m ^ { 2 } } )$ ; HD, high planting density (90.000 plants $/ \\mathrm { h m } ^ { 2 }$ ).Vertical barsindicate significant difference at $P { < } 0 . 0 5$ level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Water scarcity is an essential limiting factor for crop production and soil water content is remarkably affected by precipitation in the rainfed regions of China (Kang et al., 2OOO). Sufficient rainfall can supplement the soil water, thereby improving the crop growth due to the increase in LAI. The overall LAI in 2O16 was higher than that in 2015 (Fig. 3), which was due to more rainfall at the early stage of maize growth in 2O16. The averaged LAI in 2O16 was $1 7 . 4 \\%$ higher than that in 2015. At the late stage of maize growth, LAI was decreased by $4 9 . 0 \\%$ in 2016,which was greater than that $( 2 8 . 7 \\% )$ in 2015. The large decrease in LAI at the late stage in 2O16 was mainly due to severe drought stress at the tasseling stage, resulting in more leaf senescence in dryland maize. Our results were in good agreement with those of Jia et al. (2O18), who also found that water deficit in the dryer year caused the premature leaf senescence. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2Effects of mulching mode and planting density on redistribution of rainfall ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "At the growth stages of dryland maize in the two experimental years, the relative throughfall was highest under NM treatment, followed by SM, RP and RPFS treatments (Fig. 4). For the four mulching modes, the relative stemflow and canopy interception loss values were ranked as NM<SM<RP<RPFS at different growth stages of dryland maize in both years (Figs. 5 and 6). Generally, surface mulching benefits the growth of leaves to a certain extent and promotes the occurrence of shelters for rainfall (Liu et al.， 2O15)，which thus increasing the capability of intercepting and collecting rainfall and converting it into stemflow. Table 1 shows that mulching mode had no significant effect on the amount of net rainfall in the two experimental years. The canopy interception loss was not significantly changed among the four mulching modes (Fig. 6c), which may be due to the insignificant differences in LAI. Also, incident gross rainfalltended to spill over toward the edge of the canopy to generate drip points or be converted into stemflow rather than leaf surface evaporation under a saturated canopy. This can be largely atributed to the special shape of maize leaves, which resulted in an insignificant difference in net rainfall in both years. Furthermore, the compensation between throughfal and stemflow among the four mulching modes may also explain why there was no significant difference of net rainfall. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/d489883b5b5f05dab2896a167c5a97e92ff0db3909d20fc2c39fb0f3564cb7ad.jpg",
+        "img_caption": [
+            "Fig.4Relative throughfall at different growth stages of dryland maize under different mulching modes and planting densities in2O15 and 2O16.Different lowercase lettrs indicate significant diferences among treatments at $P { < } 0 . 0 5$ level at the same growth stage. Error bars represent standard deviations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6ab2ca9e34cf39f79e3e935e742c2edcff3c93913717dcaf332fac77af3cf0a.jpg",
+        "img_caption": [
+            "Fig.5Relative stemflow at diffrent growth stages of dryland maize under different mulching modes and planting densities in 2015 and 2016. Different lowercase lettrs are significantly different among treatments at $P { < } 0 . 0 5$ level at the same growth stage. Error bars represent standard deviations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The relative throughfall significantly decreased with increasing planting density at different growth stages of dryland maize in both years (Fig. 4). The magnitude of relative stemflow and canopy interception loss under different plant densities was in the order of $\\mathrm { L D } { < } \\mathrm { M D } { < } \\mathrm { H D }$ (Figs. 5 and 6). Our results are in agreement with the findings of previous studies by Quinn and Laflen (1983) and Lamm and Manges (2OOO). The catchment area varies according to the different planting densities which then affect the water distribution of the field (Liu et al., 2OO7). Planting density significantly afected the amount of net rainfall after the redistribution of canopy rainfall loss (Table 1). Many investigators have confirmed that there were significant correlations among relative throughfall, relative stemflow, relative canopy interception loss and LAI (Swaffer et al., 2014; Zhang et al.， 2015; Ma et al.， 2016). In this study, LAI of dyland maize significantly increased with increasing planting density. Therefore, the net rainfall amount tended to significantly decrease with the increase in planting density. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The relative canopy interception loss was highest at the ripening stage, which was not significantly different with the values at the tasseling stage. In 2O16, the relative interception loss declined at the late growth stage, with the maximum occurring at the tasseling stage (Fig. 6). Generally speaking, the relative canopy interception loss under different mulching modes and planting densities increased steadily at the early stage but presented diferent change trends at the late stage, which was depended on crop growing conditions. Our findings in 2O15 did not agree well with the results by Zheng et al. (2012) and Liu et al. (2O15), who found that the relative canopy interception loss reached its maximum value at the tasseling stage. In our experiments, the ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "NM LD 30-(a) Mulching mode (2015) SM30-(b) Planting density(2015) MD   \n)ser gronsdeos RP HD RPFS a 25 a aa aa 25 a ab a ab a 20 d 20- b b a aa 15 15 1   \neeeeeeneaer d 1 d 10 10- 5 5 Vegetative growth TasselingRipening Vegetative growth TasselingRipening NM LD SM50(d)Planting density (2016) RP 酷 a RPFS a 40- a 30 a a 30- b ab a 20 a aa a b 20- 10 10- C 1 Vegetative growth TasselingRipening Vegetative growth TasselingRipening Growth stage Growth stage ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "relative canopy interception loss maintained a relatively high stable value at the late stage of maize growth in 2O15. Even the LAI decreased gradually due to the drying of leaves near the stem base at the late growth, the leaves at the bottom of the plants had not yet come offthe maize plants. These leaves still played a role in the rainfall interception and thus maintained a higher relative canopy interception loss at the late stage of maize growth. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The percentage of cumulative throughfall measured in this study ranged from $4 2 . 3 \\%$ to $7 7 . 5 \\%$ falling within the range of throughfall values reported previously (Quinn and Laflen, 1983; Steiner et al.，1983； Lamm and Manges, 2000; Wang et al.， 2006； Han et al.， 2014). However, the percentage of cumulative stemflow $( 1 5 . 1 \\% - 3 6 . 3 \\% )$ and cumulative canopy interception loss $( 7 . 4 \\% - 2 1 . 4 \\% )$ measured in this study were respectively lower and higher than the previously reported values. As we found earlier in Zheng et al. (2O18), the relative stemflow and relative throughfall showed a decreased tendency with decreasing gross rainfall and rainfall intensity, while the decreasing rainfall amount and intensity resulted in an increase in relative canopy interception loss. The lower rainfall intensity (average of $1 1 . 8 ~ \\mathrm { m m / h } )$ in our study resulted in a large amount of rainfall was intercepted and then evaporated during rainfall events and did not diverted to stemflow, leading to lower stemflow and higher canopy interception loss. Moreover, the higher canopy interception loss may be also ascribed to relative long rainfall duration. Low-density rainfall generally lasts for a long time, which could increase the canopy interception loss during the rainfall events (Norman and Campbell, 1983). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3 Effects of mulching mode and planting density on soil water storage ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Obvious differences in soil water storage at $0 { - } 1 5 0 ~ \\mathrm { c m }$ soil depth among different treatments at various growth stages of dryland maize are shown in Figure 7. The three mulching treatments (RPFS,RP and SM), especially RPFS, conserved more water in the soil profile than NM at the vegetative growth stage (3 July and 24 July in 2015, and 27 June and 23 July in 2016). Compared with NM, the averaged soil water storage under RPFS, RP and SM treatments was respectively increased by 22.7, 16.7 and $9 . 8 ~ \\mathrm { m m }$ at the vegetative growth stage in the two years. SM treatment can conserve soil water by reducing soil surface evaporation (Wang et al., 2O11; Li et al., 2013). Incorporation of ridge and furrow can improve the soil water condition by collecting water from light rainfall reducing unproductive evaporation and enhancing rainwater infiltration (Ren et al., 2008; Li et al., 2O13). However, at the late stage of maize growth, field evapotranspiration was dominated by plant transpiration rather than soil evaporation. In 2O15, RPFS and RP produced slightly lower soil water storage than SM and NM did from tasseling to ripening stage (15 August23 September), which is probably due to relatively high plant transpiration. But in 2O16, the values of soil water storage under RPFS, RP and SM treatments were still mildly higher but close to those under NM treatment from tasseling to ripening stage. One possible explanation for this difference is that severe drought at the tasseling stage in 2O16 constrained the growth and subsequent transpiration of dryland maize. At the same time, the soil water storage was higher under NM and SM than under RPFS and RP on 22 September 2016, which was attibute to a heavy rainfall before this date. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/234bf03ed4304681f5c83302a9cd687ffd3a54a50e73c5c60a47aa749f5a6d14.jpg",
+        "img_caption": [
+            "Fig.7Soil water storage of dryland maize under different mulching modes and planting densities in 2015 and 2016.Error bars represent standard deviations. Vertical bars indicate significant difference at $P { < } 0 . 0 5$ level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Compared with LD, the averaged soil water storage under MD and HD was decreased by 11.4 and $2 3 . 6 \\ \\mathrm { m m }$ in the two experimental years, respectively. Soil water storage generally decreased as increasing planting density, which can be atributed to high soil water consumption and low amount of net rainfall(Tokatlidis et al., 2011). As shown in Figure 7, diferences of soil water storage existed among different planting densities at the growth stages of dryland maize. ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/eb41bcabbd4cedc339eb615110dc051ae1f24fe7e4e19abd169c2951f1accb0d.jpg",
+        "table_caption": [
+            "rrr rrlarrtrrrrettrsrrrnarrnrlgggairrrrrt ",
+            "e "
+        ],
+        "table_footnote": [
+            ""
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Treatment</td><td colspan=\"2\">Head length (cm)</td><td colspan=\"2\">Seed number per head</td><td colspan=\"2\">1000-Seed weight (kg)</td><td colspan=\"2\">Grain yield (kg/hm²)</td><td colspan=\"2\">Net rainfall (mm)</td><td colspan=\"2\">ET (mm)</td><td colspan=\"2\">WUE (kg/(hm²·mm))</td></tr><tr><td colspan=\"2\">2015 2016</td><td colspan=\"2\">2015 2016</td><td colspan=\"2\">2015 2016</td><td colspan=\"2\">2015 2016</td><td colspan=\"2\">2015 2016</td><td colspan=\"2\">2015 2016</td><td colspan=\"2\">2015 2016</td></tr><tr><td>Mulching mode</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>NM</td><td>13.47a</td><td>9.39b</td><td>308.7°</td><td>120.2b</td><td>0.247°</td><td>0.135b</td><td>4910.1°</td><td>815.5</td><td>235.8a</td><td>228.1a</td><td>213.9a</td><td>177.1a</td><td>23.46°</td><td>4.59b</td></tr><tr><td>SM</td><td>14.45ab</td><td>9.84b</td><td>325.9ab</td><td>136.1°</td><td>0.253ab</td><td>0.150b</td><td>5311.6</td><td>1181.7</td><td>232.7a</td><td>224.3a</td><td>208.8a</td><td>169.2a</td><td>25.36b</td><td>6.96</td></tr><tr><td>RP</td><td>14.84ab</td><td>12.37a</td><td>358.5ab</td><td>259.2a</td><td>0.261²</td><td>0.207a</td><td>6054.9a</td><td>3097.9²</td><td>228.8²</td><td>219.4a</td><td>200.2a</td><td>170.6a</td><td>30.29ab</td><td>18.36²</td></tr><tr><td>RPFS</td><td>15.43b</td><td>13.04a</td><td>370.5a</td><td>269.9a</td><td>0.263a</td><td>0.214a</td><td>6260.0²</td><td>3278.2a</td><td>225.4a</td><td>217.2 a</td><td>204.7a</td><td>171.5a</td><td>30.66a</td><td>19.59a</td></tr><tr><td>Planting density</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>LD</td><td>15.24a</td><td>12.62a</td><td>393.3a</td><td>253.3a</td><td>0.272a</td><td>0.202a</td><td>4549.6°</td><td>2135.0b</td><td>239.3a</td><td>235.4a</td><td>210.3a</td><td>168.1a</td><td>21.89c</td><td>12.75</td></tr><tr><td>MD</td><td>14.36ab</td><td>11.12b</td><td>379.5a</td><td>221.0²</td><td>0.256b</td><td>0.186b</td><td>6934.4</td><td>2755.1a</td><td>230.5ab</td><td>222.3b</td><td>209.9a</td><td>173.6a</td><td>33.36a</td><td>16.45a</td></tr><tr><td>HD</td><td>14.04b</td><td>9.74°</td><td>250.0</td><td>114.7</td><td>0.240°</td><td>0.144°</td><td>5418.4b</td><td>1389.9c</td><td>222.2b</td><td>208.9c</td><td>200.5a</td><td>174.5a</td><td>27.08b</td><td>7.92°</td></tr><tr><td colspan=\"2\">Mulching modexPlanting density</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td> NM×LD</td><td>14.25b</td><td>10.90de</td><td>359.6ab</td><td>140.5b</td><td>0.260</td><td>0.167bd</td><td>4065.7°</td><td>546.8</td><td>244.9a</td><td>241.7a</td><td>239.6a</td><td>178.8ab</td><td>16.99d</td><td>3.07</td></tr><tr><td>NM×MD</td><td>13.37</td><td>9.43fg</td><td>337.7x</td><td>133.2b</td><td>0.251bd</td><td>0.155cd</td><td>5936.0</td><td>1366.9d</td><td>235.5ab</td><td>229.1a</td><td>207.1</td><td>181.4ab</td><td>29.11°</td><td>7.58de</td></tr><tr><td>NM×HD</td><td>12.81°</td><td>7.83h</td><td>228.9d</td><td>87.0c</td><td>0.230°</td><td>0.083</td><td>4728.7cd</td><td>532.9</td><td>227.1ab</td><td>213.5cde</td><td>195.1°</td><td>171.1ab</td><td>24.28</td><td>3.11f</td></tr><tr><td>SMXLD</td><td>15.04ab</td><td>11.21e</td><td>381.6ab</td><td>154.7°</td><td>0.268ab</td><td>0.167bcd</td><td>4358.4e</td><td>995.38de</td><td>242.2 a</td><td>236.8ab</td><td>204.3</td><td>154.3℃</td><td>21.37</td><td>6.462f</td></tr><tr><td>SMXMD</td><td>14.24bc</td><td>9.98ef</td><td>359.1ab</td><td>145.0b</td><td>0.254bcd</td><td>0.164cd</td><td>6501.3b</td><td>1505.4d</td><td>232.2 ab</td><td>226.1abcd</td><td>223.8ab</td><td>186.2a</td><td>29.08b</td><td>8.15cde</td></tr><tr><td>SMXHD</td><td>14.07c</td><td>8.33gh</td><td>237.0d</td><td>108.7b</td><td>0.238de</td><td>0.119de</td><td>5075.0</td><td>1044.2de</td><td>223.5ab</td><td>209.gde</td><td>198.3b</td><td>167.0ab</td><td>25.63b</td><td>6.28ef</td></tr><tr><td>RP×LD</td><td>15.23ab</td><td>13.82ab</td><td>408.7ab</td><td>347.6a</td><td>0.277a</td><td>0.233ab</td><td>4743.3cd</td><td>3354.8b</td><td>236.1ab</td><td>232.2abc</td><td>193.0c</td><td>169.7ab</td><td>24.60</td><td>19.97°</td></tr><tr><td>RPXMD</td><td>14.80b</td><td>12.22cd</td><td>402.3ab</td><td>300.0a</td><td>0.258</td><td>0.209abc</td><td>7537.3</td><td>3915.5ab</td><td>228.4ab</td><td>218.8bcde</td><td>203.5b</td><td>168.4ab</td><td>37.28a</td><td>23.44gb</td></tr><tr><td>RP×HD</td><td>14.49ab</td><td>11.07de</td><td>264.6cd</td><td>130.0b</td><td>0.247cd</td><td>0.179abcd</td><td>5884.0b</td><td>2023.3℃</td><td>221.7ab</td><td>207.1</td><td>204.2</td><td>173.5abc</td><td>28.98b</td><td>11.67°</td></tr><tr><td>RPFS ×LD</td><td>16.45a</td><td>14.56²</td><td>423.1a</td><td>370.6a</td><td>0.282²</td><td>0.241²</td><td>5031.0</td><td>3642.8b</td><td>233.9ab</td><td>231.1abc</td><td>204.6</td><td>169.7ab</td><td>24.62</td><td>21.49b</td></tr><tr><td>RPFS ×MD</td><td>15.04ab</td><td>12.86 11.72°d</td><td>418.8a</td><td>305.7a</td><td>0.261</td><td>0.216abc</td><td>7763.0</td><td>4232.7ab</td><td>225.7ab</td><td>215.3cde</td><td>205.1</td><td>158.4</td><td>37.95a</td><td>26.64a</td></tr><tr><td>RPFS×HD</td><td colspan=\"2\">14.79gbc</td><td colspan=\"2\">269.7cd 133.3b</td><td colspan=\"2\">0.246cd 0.185abcd</td><td colspan=\"2\">5986.0b 1959.0</td><td colspan=\"2\">216.6b 205.2°</td><td colspan=\"2\">204.5 186.3a</td><td colspan=\"2\"></td></tr><tr><td rowspan=\"2\">Factor</td><td colspan=\"2\">Head length</td><td colspan=\"2\">Seed number per head</td><td colspan=\"2\">1000-Seed weight</td><td colspan=\"2\">Grain yield</td><td colspan=\"2\">Netrainfall</td><td colspan=\"2\">ET</td><td colspan=\"2\">29.42 WUE 10.63cd</td></tr><tr><td colspan=\"2\">2015 2016</td><td colspan=\"2\">2015 2016</td><td colspan=\"2\"></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.4Effects of mulching mode and planting density on grain yield and crop water use ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.4.1 Grain yield and its components ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "On average across all treatments, the head length, seed number per head, 1Ooo-seed weight and grain yield of dryland maize were $1 4 . 6 \\mathrm { c m }$ ,340.9, $0 . 2 6 \\mathrm { k g }$ and $5 6 3 4 . 1 \\mathrm { k g } / \\mathrm { h m } ^ { 2 }$ in 2015, respectively (Table 1). The corresponding values were $1 1 . 2 ~ \\mathrm { c m }$ ，196.3, $0 . 1 8 ~ \\mathrm { k g }$ and $2 0 9 3 . 3 \\ \\mathrm { k g } / \\mathrm { h m } ^ { 2 }$ in 2016, respectively. Soil mulching, irrespective of planting density, obviously increased the head length, seed number per head, 1OoO-seed weight and grain yield of dryland maize compared with non-mulching, especially in 2O16. Grain yields of dryland maize were $6 6 . 6 \\%$ $5 9 . 9 \\%$ and $1 3 . 4 \\%$ higher under RPFS, RP and SM than under NM. The effcts of mulching mode on grain yield and its components of dryland maize exhibited similar trends during each year of the experimental period. The lowest grain yield of dryland maize, on average $8 1 5 . 5 ~ \\mathrm { k g } / \\mathrm { h m } ^ { 2 }$ ，wasrecorded under NM. The low grain yield under NM was largely due to the inefficient soil water supply resulted from high unproductive evaporation (Bu et al., 2O13). As shown in Table 1, mulching mode had no significant influence on net rainfallinput beneath the maize canopy, and net rainfall under NM was not significantly increased compared with other three mulching modes. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Planting density significantly affected the grain yield and its components of dryland maize (Table 1). The head length, seed number per head and 1OOO-seed weight decreased as plant density increased from LD to HD, whereas the grain yield was highest under MD. Compared with LD, MD and HD increased the grain yield by $5 2 . 4 \\%$ and $1 9 . 1 \\%$ in 2015, respectively. However, in 2016, the grain yield was $2 9 . 0 \\%$ higher and $34 . 9 \\%$ lower under MD and HD than under LD, respectively. Maize yield can be improved from the increased optimum planting density instead of the improved grain yield per maize plant (Tokatlidis and Koutroubas, 2OO4). But, it should be noted that the competition for assimilates between maize plants may be large at high planting density, which, in turn, lead to a reduction in grain yield components (Echarte et al., 2OOO; Sangoi et al., 2002). In agricultural production, the planting density lower than the optimum one will delay the canopy closure and decrease the interception of solar radiation and gross rainfall, thus leading to a high grain yield per plant and a low grain production per area (Abuzar et al., 2O11). In this study, there were no significant interactions between mulching mode and planting density on any of the above traits in both years, except the seed number per head and grain yield in 2O16 (Table 1). Yield was significantly affected by planting year. This was mainly due to the characteristics of rainfall which had a highly uneven distribution in 2O16. Much lower net rainfall input at the tasseling stage in 2016 constrained the growth of dryland maize. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.4.2 Crop water use and water use efficiency (WUE) ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The effects of mulching mode and planting density on crop water use of dryland maize were not significant, but the interaction of mulching modexplanting density on crop water use was significant in both years (Table 1). Compared with the three mulching modes, non-mulching treatment generally produced a slightly high crop water use, but the difference was not significant among the four modes. These results are in good agreement with the findings by Lin et al. (2016), who observed no significant differences in crop water use among different mulching modes. At the early growth stage, dryland maize plants were smaller and the consumption of water was mainly via soil evaporation. Straw and plastic mulching of the soil reduced soil evaporation and thus evapotranspiration. The growth of dryland maize was more vigorous at the middle and late growth stages,in which the great consumption of water resulted in a high crop transpiration and evapotranspiration. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Planting density did not significantly affect the crop water use of dryland maize (Table 1), properly due to the high net rainfall input and soil evaporation under low planting density. Population competition could influence the growth condition and transpiration of single plant (Liu et al., 2016). The crop water use of dryland maize was higher in 2015 than in 2O16. Specifically, the crop water use of dryland maize was probably compensated by the evenly distributed rainfall in 2015, when mulching retained water throughout the growing season. In 2O16, although mulching conserved more water at the beginning of dryland maize growth, it cannot transpire more water at the end of dryland maize growth due to less soil water content resulted from severe drought. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Table 1 shows clearly that WUE of dryland maize was greater under the three mulching treatments than under non-mulching treatment. Compared with NM in both years, RPFS, RP and SM increased the WUE of dryland maize by $7 9 . 2 \\%$ ， $7 3 . 5 \\%$ and $1 5 . 3 \\%$ ,respectively. The WUE of dryland maize significantly increased first and then reduced as planting density increased from LD to HD, which was similar to the changes in grain yield of dryland maize. WUE of dryland maize was $1 9 . 0 \\%$ lower under LD than under HD in 2O15 and $6 1 . 0 \\%$ higher under LD than under HD in 2016. MD had the highest WUE of dryland maize in both years. Mulching mode and planting density significantly affected the WUE of dryland maize in both years,and also their interactions in 2016 (Table 1). The highest WUE $( 3 7 . 9 5 ~ \\mathrm { k g / ( h m ^ { 2 } { \\cdot } m m ) }$ in 2015 and $2 6 . 6 4 ~ \\mathrm { k g / ( h m ^ { 2 } { \\cdot } m m ) }$ in 2016) was recorded under the combination of RPFS and MD. There was no significant diference of WUE between ${ \\bf R P } { \\bf \\times } { \\bf M D }$ and RPFSxMD. Soil mulching did not significantly change the net rainfall input but it could conserve more soil water by reducing unproductive evaporation (Ren et al., 2008; Wang et al., 2O11). Planting density can balance the soil water competition by adjusting crop population structure. As a result, there may be more water available for promoting the growth and development of maize, which further results in a greater WUE in dryland areas of northern China. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4Conclusions ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The cumulative throughfall, cumulative stemflow and cumulative canopy interception loss during the growing season of dryland maize respectively accounted for $4 2 . 3 \\% - 7 7 . 5 \\%$ ， $1 5 . 1 \\% - 3 6 . 3 \\%$ and $7 . 4 \\% - 2 1 . 4 \\%$ of the gross rainfall in the two experimental years (2O15 and 2O16). During the two years,mulching mode had no significant impact on net rainfall， whereas planting density significantly affected net rainfall. Soil mulching can retain more soil water for dryland maize without reducing the net rainfall input beneath the canopy, which may alleviate the contradiction between soil water consumption increase due to the increased planting density and insufficient rainfall input. Based on the results of this study, we recommend that application of medium planting density (67,500 plants $/ \\mathrm { h m } ^ { 2 }$ ）under plastic-covered ridge with bare furrow could be adopted for dryland maize production on the Loess Plateau of China. In addition, this study can provide a scientific basis for the theory of hydrological cycle in dryland agriculture, and also provide a guidance for the development of suitable agronomic practices to improve the water use efficiency of crop on the Loess Plateau, as well as in the other similar regions. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This study was supported by the National Natural Science Foundation of China (515092O8),the National Key Research and Development Program of China (2O16YFC0400201） and the Scientific Startup Foundation for Doctors of Northwest A&F University (Z109021613). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abuzar MR,Sadozai G U,BalochMS,etal.2011.Effectof plantpopulationdensities onyieldof maize.Journalof Aimal & Plant Sciences,21(4): 692-695.   \nBu L D,LiuJL, Zhu L,etal.2013.The efectsof mulchingon maize growth,yieldand wateruse in asemi-arid region. Agricultural Water Management, 123: 71-78.   \nCaiTY,JiaZK,MengL,etal.201.Efectsofdiferentratesofstrawmulchosoilmoistureandyieldofsprigmaizein Weibei HiglandareaofChina.Transactionsof theChineseSocietyofAgriculturalEngineering,27(3):43-48.(inChinese)   \nCarlyle-Moses DE.2O04.Throughfall,stemflowandcanopyinterceptionlossfluxes inasemi-aridSierra MadreOriental matorral community. Journal of Arid Environments,58(2): 181-202.   \nChen S Y, Zhang X Y, Hu C S,etal.2002. Efect of mulching on growth and soil water dynamics of summer cor field. Agricultural Research in the Arid Areas,20(4): 55-57. (in Chinese)   \nDeng X P, Shan L, Zhang H P,et al.2O06.Improving agricultural water use eficiency inaridand semiarid areas of China. Agricultural Water Management, 80(1-3): 23-40.   \nDunkerley D.2Oo.Measuring interception lossand canopy storage in drylandvegetation: a brief reviewand evaluationof available research strategies.Hydrological Processes,14(4): 669-678.   \nEcnarte L,LuqueSraer,etal..espose olazeeeuertoanensiygeneannese between 1965 and 1993.Field Crops Research, 68(1): 1-8.   \nFanJL,Oestergaad KTGuyot A,etal.2O14.MeasuringandmodelingrinfallinterceptionlossesbyanativeBanksia oodlnd and an exotic pine plantation in subtropical coastal Australia.Journal of hydrology, 515: 156-165.   \nFanJL,Oestergaad KT, GuyotA,etal.215.Spatialvariabilityof troughfallandstemflowinan exoticpine plantationof subtropical coastal Australia. Hydrological Processes, 29(5): 793-804.   \nFan JL,WuLF, ZhangFC,et al.2016.Climatechange efectsoreference cropevapotranspiration across diferentclimatic zones of China during 1956-2015. Journal of Hydrology,542: 923-937.   \nFanJL,ChenBQ,WuLF,etal.2018a.Evauationaddevelopmentof temperature-basedempirical models for estimatingdaily global solar radiation in humid regions. Energy, 144: 903-914.   \nFan JL,Wang X K, Wu LF,etal. 2018b.New combined models forestimating daily global solarradiation based on sunshine duration in humid regions: Acase study in South China.Energy Conversion and Management,156: 618-625.   \nFathizadehO,AtarodP,KeimRF,etal.2014.Spatial heterogeneityandtemporalstabilityof throughfallunderindividual Quercus brantii trees. Hydrological Processes,28(3): 1124-1136.   \nGhimire CP,BuijnzelLA,Lubczyski MW,etal.2012.Rainfallinterceptionbynaturaland planted forests inthe Middle Mountains of Central Nepal. Journal of Hydrology, 475: 27-280.   \nHan X,WangL,Wang YP.2014.Canopy interceptionofsummercorandits influencingfactors under naturalrainfallScientia Agricultural Sinica, 47(8): 1541-1549. (in Chinese)   \nJi JM,Cai HJ,HeJQ,et al.2014. Performance evaluationofCERES-Wheat modelin Guanzhong Plainof Northwest China. Agricultural Water Management, 144: 1-10.   \nJia QM,SunLF,MouHY,etal.218.Eectsofplantingpaesandowingdsitisongrain-fillng,adaonuseecieny and yield of maize (Zea mays L.) in semi-arid regions. Agricultural Water Management, 2O1: 287-298.   \nKang SZ, Shi WJ,Zhang JH,et al.2oo.Animproved water-useeficiencyfor maize grownunderregulateddeficitiigation. Field Crops Research, 67(3): 207-214.   \nLammFR,Manges HL.20o0.Partitioningof sprinkleririgation waterbyacorncanopy. Transactionsofthe ASAE,43(4): 909- 918.   \nLeviaDF,FrostEE.2Oo3.Areviewand evaluationofstemflow literature inthe hydrologicand biogeochemicalcyclesof forested and agricultural ecosystems. Journal of Hydrology, 274(1-4): 1-29.   \nLiR,Hou XQ,Jia Z K,etal.2O13.Efectsonsoiltmperature,moisture,andmaize yieldofcutivation withrdgeand furrow mulching in the rainfed area of the Loess Plateau, China. Agricultural Water Management,116: 101-109.   \nLi $\\boldsymbol { \\mathrm { ~ s ~ x ~ } }$ , Wang Z H,Li S Q,et al. 2013.Effect of plastic sheet mulch, wheat straw mulch,and maize growth on water loss by evaporation in dryland areas of China. Agricultural Water Management,116: 39-49.   \nLi Y,Cai TJ,Man XL,etal.2O15.CanopyinterceptionlossinaPinussylvestris var.mongolica forestof NortheastChina. Journal of Arid Land, 7(6): 831-840.   \nLin W, Liu WZ,Xue QW.2016.Spring maize yield,soil wateruseand wateruseeficiencyunder plasticfilmandstraw mulches in the Loess Plateau. Scientific Report, 6: 38995.   \nLiu HJ,Kang YH, Wang QG.2Oo7.Effectof cropcanopyonsoil water redistributionundersprinklerirrgation:areview. Agricultural Research in the Arid Areas, 25(2): 137-142. (in Chinese)   \nLiu H J,Zhang R H, Zhang L W,etal.2O15.Stemflow of wateron maize andits influencing factors.Agricultural Water Management, 158: 35-41.   \nLiu QF, Chen Y,Liu Y,etal.2016.Coupling efectsof plastic fim muching andurea types on wateruse effciencyand grain yield of maize in the Loess Plateau, China. Soil and Tillage Research,157: 1-10.   \nLiu Y,Yang SJ,Li S Q,etal.210. Growthand developmentof maize (Zea maysL.)inresponse todiferentfield water management practices: Resource capture and use efficiency. Agricultural and Forest Meteorology,150(4): 606-613.   \nLiu ZD,Liu ZG, ZhangJY2015.Rainfallintereptionprocessanditssimulationof summer maize. Jouralof Iigationand Drainage,34(7): 13-17. (in Chinese)   \nMa B,LiCD,MaF,et al.2O16.Influencesof rainfallintensityand leaf areaoncorn stemflow:Developmentof a model. CLEAN-Soil, Air, Water, 44(8): 922-929.   \nNormanJM,CampbellG.1983.Applicationofplantenvironmentmodel toproblems inirigation.Advances inrigation,2:155- 188.   \nPabin J,LipiecJ,WodekS,etal.O.Efectofdirenttilgesstemsandstrawmanagementonsomephysicalprortisof soil and on the yield of winter rye in monoculture. International Agrophysics,17: 175-181.   \nPaltineanuIC,StarrJL.2Oo.Preferentialwaterflowthroughcorncanopyandsoil waterdynamicsacrossrows.SoilScience Society of America Journal, 64(1): 44-54.   \nQi WZ,LiuHH,LiuP,etal..orphologicalandpysiologicalcharacteristisofco(ZemaysL.)ootsfromculiar with different yield potentials. European Journal of Agronomy, 38: 54-63.   \nQuinnNW,LaflenJM.1983.CharacteristicsofrndropthroughfallundercorcanopyTansactionsof theASAE,26(5):1445- 1450.   \nRenXL,JiaZC,ChenXL.2Oo8.Rainfallconcetrationforincreasingcornproductionundersmiaridclimate.Agricultural Water Management, 95(12): 1293-1302.   \nSangoiL,AlmeidaMLD,SilvaPRFD,etal.2O2.Morpho-physiologicalbasesforgreatertoleranceof modernmaiehbrids to high plant densities. Bragantia, 61(2): 101-110.   \nShi ZJ, Wang YH, XuLH,etal.2O10.Fractionof incidentrainfallwithin thecanopyofa pure standof Pnus armandiwith revised Gash model in the Liupan Mountains of China. Journal of Hydrology, 385(1-4): 44-50.   \nSteinerJL,Kanemasu ET,ClarkRN.1983.Spray lossesand partitioningof waterunderacenter pivot sprinkler system. Transactions of the ASAE, 26(4): 1128-1134.   \nSwafferBA,HollandKL,DoodyTM,etal.2014.Rainfallpartitioning,treeformand measurementscale: aomparisoof two co-occuring, morphologicallydistinct tree species ina semi-arid environment. Ecohydrology,7(5):1331-1344.   \nTanakaN,LeviaDgarashiY,al.Ol5.rougfalluderateakplatatioinldaultifactoalalysiscts of canopy phenology and meteorological conditions.International Journal of Biometeorology,59(9):1145-1156.   \nTokatlidis IS,Koutroubas SD.2004.Areviewofmaize hybrids’dependenceon high plantpopulationsanditsimplications for crop yield stability. Field Crops Research, 88(2-3): 103-114.   \nTokatlidisIS,HasV,Melidis V,etal.2l1.aiehbrdslessdependentonghplantdensitisimproveresource-useecincy in rainfed and irrigated conditions. Field Crops Research, 120(3): 345-351.   \nWangD,LiJS,RaoMJ.2Oo6.Sprinkler waterdistributions asafectedbycorncanopyTransactionsof theChineseSocietyof Agricultural Engineering,22(7): 43-47. (in Chinese)   \nWangSX,WangZJ,ZuoZ,etal.2O4.Eectsofdiferencemulchingonthesoilenvironmentandmazeyieldinrainfedland. Journal of Arid Land Resources& Environment,18(9): 134-137. (in Chinese)   \nWangTC,WeiL,Wang HZ,etal.2O1.Responsesofrainwateronservation,precipitatio-useeficiencyand grain yieldof summer maize toafurrow-planting and straw-mulching system in northern China.Field Crops Research,124(2): 223-230.   \nYin W,ChenGP,FengFX,etal.2O17.Strawretentioncombined with plastic mulching improvescompensationofintercopped maize in arid environment. Field Crops Research, 2O4: 42-51.   \nZhangYF,WangXP,HuR,etal.2O15.Rinfallpartitionngintotrougfall,stemlowndintercptionlossbytwotic shrubs within arain-fed re-vegetateddesert ecosystem,northwestern China.Journal of Hydrology,527:1084-1095.   \nZheng J,FanJL,ZhangFC,etal018.Rainfallpartitiogintothrougfall,stemflowandinterceptionlossbyazeoyon the semi-arid Loess Plateau of China. Agricultural Water Management, 195: 25-36.   \nZhengZC,LiX,ZangXZ,etal.212.ierentiationharacteristicsnduncngfactorsofinfalliteretioe plants.Journal of Soil and Water Conservation,26(4): 208-211, 215. (in Chinese)   \nZhou JB,WangCY,ZhangHetal.2011.Effectofwatersavingmanagementpracticesandnitrogenfertilizerrateonoield and water use eficiency in a winter wheat-summer maize cropping system.Field Crops Research,122(2): 157-163. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

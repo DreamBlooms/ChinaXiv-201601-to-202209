@@ -1,0 +1,267 @@
+# Characterizing the spatiotemporal variationsof evapotranspiration and aridity index in mid-western China from 2001 to 2016
+
+MU Le, LU Yixiao, LIU Minguo, YANG Huimin\*,FENG Qisheng
+
+State KeyLaboratoryofGrassandAgro-ecosystems，ColegeofPastoralAgriculture ScienceandTechnology,Lanzhou University,Lanzhou 730020,China
+
+Abstract: Mid-western China isone of the most sensitive and fragile areas on the Earth. Evapotranspiration (ET) is a key part of hydrological cycle in these areas and is affected by both global climate change and human activities. The dynamic changes in ET and potential evapotranspiration (PET), which can reflect water consumption and demand,are stillunclear,and there is a lack of predictive capacity on drought severity. In this study， we used global MODIS (moderate-resolution imaging spectroradiometer) terrestrial ET (MOD16) products, Morlet wavelet analysis,and simple linear regression to investigate the spatiotemporal variations of ET,PET, reference ET $\left( \mathrm { E T _ { 0 } } \right)$ ,and aridity index (AI)） in mid-western pastoral regions of China (including Gansu Province, Qinghai Province， Ningxia Hui Autonomous Region,and part of Inner Mongolia Autonomous Region) from 2001 to 2016. The results showed that the overall ET gradually increased from east to southwest in the study area.Actual ET showed an increasing trend,whereas PET tended to decrease from 2001 to 2016.The change in ET was affected by vegetation types. During the study period, the average annual $\mathrm { E T _ { 0 } }$ and AI tended to decrease. At the monthly scale within a year, AI value decreased from January to July and then increased. The interannual variations of $\mathrm { E T _ { 0 } }$ and AI showed periodicity with a main period of $1 4 \mathrm { ~ a ~ }$ ，and two other periodicities of 11 and $5 \mathrm { ~ a ~ }$ . This study showed that in recent years, drought in these pastoral regions of mid-western China has been alleviated.Therefore,it is foreseeable that the demand for irrigation water for agricultural production in these regions will decrease.
+
+Keywords: evapotranspiration;aridity index; climate change; human activities; vegetation cover;arid areas
+
+# 1 Introduction
+
+Mid-western China, an arid and semi-arid region， is ecologically important and plays an important role in supporting the livestock husbandry in China.It is one of the most sensitive and fragile areas on the Earth,yet readily influenced by global climate change and human activities. The increase in greenhouse gas concentrations due to human activities has led to surface warming over almost the entire globe (Stocker et al.， 2013). Concomitantly，the climate in mid-western China has also been shifting from warm-dry to warm-wet (Shi et al., 2006). Even minor variations in precipitation and temperature can induce significant changes in hydrological processes such as
+
+evapotranspiration (ET) (Gan, 20oo; Ma et al., 2004). Additionally, the land surface water cycle and ETare affected by global climate change (Jung et al.,2010; Meng,2021). Therefore,further documenting the changes in ET and linking them with variations in vegetation cover will contribute to a more comprehensive understanding of agricultural irigation and ecological water demand, thus promoting the development of agriculture and livestock husbandry.
+
+ET includes the evaporation of water from the Earth's surface and the transpiration of vegetation (Chahine,1992). It returns about $6 0 . 0 \%$ of the global terrestrial precipitation to the atmosphere（Wang and Dickinson,2O12) and consumes about $6 0 . 0 \%$ of the net surface radiation energy (Trenberth et al.，2009).ET links the terrestrial water cycle and surface energy transmission, which determines the intensity of the interactions between the Earth and atmosphere (Jung et al., 2O1O). In arid areas,global climate change may increase (or decrease） potential evapotranspiration (PET)，thereby increasing (or decreasing) the aridity (Huo et al.,2013). Human activities, such as domestic animal husbandry， also play a role in influencing water cycling (Goyal, 2Oo4). In recent years, the potential impact of climate change on reference evapotranspiration $( \mathrm { E T _ { 0 } } )$ has been extensively studied (Wang et al., 2019; Liu et al., 202O; Jerin et al., 2021). Long-term climate sequence analysis showed that abrupt climate change occurred in northwestern China around 1975 (Chen et al.， 1991). Time series analysis revealed that $\mathrm { E T _ { 0 } }$ decreased in all seasons from 1954 to 1993 in China, especially in northwestern and southeastern areas (Wang et al.,2007; Zhang et al.,2007; Song et al.,2010; Zhang et al.,2010; Thomas, 2015). Some researchers have analyzed the factors influencing ET changes,revealing that the sensitivity of $\mathrm { E T _ { 0 } }$ changed according to location and associated environmental variables (Liu et al.,2010). For example, Liu et al. (2010) reported that temperature increase was the main cause of $\mathrm { E T _ { 0 } }$ rise in the Yellow River Basin of China. Eslamian et al. (2O11) reported that temperature and relative humidity were two most important variables affecting the monthly trend of $\mathrm { E T _ { 0 } }$ in Iran. Espadafor et al. (2O11) pointed out that the increases of temperature and solar radiation and the decrease of relative humidity were the main factors leading to the increase of $\mathrm { E T _ { 0 } }$ in southern Spain. Dinpashoh et al. (2O11) proved that wind speed was the main cause of $\mathrm { E T _ { 0 } }$ rise in Iran. Li et al.(2O13) found that the influence of meteorological factors on $\mathrm { E T _ { 0 } }$ was different in the Heihe River Basin of China at the spatiotemporal scales. Mosaedi et al. (2O16) found that sunshine hours,wind speed,and temperature had great effects on $\mathrm { E T _ { 0 } }$ in Iran. Since the late 198Os,some national construction projects and the adjustment of agricultural planting approaches have been implemented in mid-western China，which has affected the environment, including surface vegetation cover. Further exploring ET change and its links with vegetation cover change would be of great help to optimize water management for agriculture production and livestock husbandry in mid-western China.
+
+Ground-based observation can provide data to show time series ET information, but it is diffcult to exhibit the spatial distribution characteristics of ET for a broad area when there are not enough observation sites,for instance, in arid mid-western China. By contrast, remote sensing technology can help to obtain the spatial variability of ET at a regional or global scale.Based on the Penman-Monteith equation and moderate-resolution imaging spectroradiometer (MODIS), the global MODIS terrestrial ET (MOD16) data have been released with an accuracy of $8 6 . 0 \%$ (Mu et al.,2007,2011). The MOD16 products have been validated and applied in many areas with various climate conditions (Jia et al.,2012; Yang et al.,2014; Chen et al., 2015; Sun et al., 2021). Jia et al. (2Ol2) found that the validation of remotely sensed-ET (RS-ET) at the basin scale showed a good consistency between the $_ { 1 - \mathrm { k m } }$ annual RS-ET and the validated data,such as the water balance ET, MODIS ET products, precipitation, and land-use types. Kim et al. (2012) reported that the MODl6 products performed best at five forest sites and were mismatched with observed ET data at two grassland sites in Asia. Feng et al.(2015) pointed out that the MOD16 algorithm reduced the accuracy of ET estimations for grassland, savanna, and shrubland sites over semi-arid ecosystems. In the Tibetan Plateau of China, Chang et al. (2018) also obtained good consistency between the MOD16 products and the measured values.However, the performance of the MOD16 products varies under different climate and underlying surface conditions.Therefore, further investigation on spatiotemporal characteristics of ET using the MOD16 products in mid-western China would aid understanding of the spatiotemporal distributions and variations of regional ET under global climate change and human activities.
+
+In this study, the MOD16 products were used to analyze the spatiotemporal changes of ET and PET, and ground-based data were used to explore the changes in $\mathrm { E T _ { 0 } }$ and aridity index (AI) in typical mid-western pastoral regions of China, including Gansu Province, Qinghai Province, Ningxia Hui Autonomous Region，and part of Inner Mongolia Autonomous Region. The objectives of this study were to: (1） analyze the spatiotemporal variations of ET and PET; (2) reveal the temporal variations of ET with different vegetation types; and (3) explore the temporal variations of $\mathrm { E T _ { 0 } }$ and AI. It is expected that this study will provide a reference for understanding agricultural irrigation and ecological water demand in mid-western China.
+
+# 2 Materials and methods
+
+# 2.1 Study area
+
+This study was conducted in typical mid-western pastoral regions of China, including Gansu Province, Qinghai Province,Ningxia Hui Autonomous Region,and part of Inner Mongolia Autonomous Region. The longitude range is $8 9 ^ { \circ } 3 0 ^ { \prime } { \mathrm { - } } 1 1 3 ^ { \circ } 1 4 ^ { \prime } \mathrm { E }$ and the latitude range is $3 3 ^ { \circ } 0 2 _ { \mathrm { ~ - ~ } } ^ { \prime }$ $4 3 ^ { \circ } 2 8 ^ { \prime } \mathrm { N }$ . The elevation is $5 6 2 \substack { - 6 8 2 0 \mathrm { ~ m ~ } }$ and the terrain gradually decreases from southwest to northeast. These pastoral regions are characterized by an arid and semi-arid climate with high radiation and heat resources, litle precipitation， strong evaporation， and large temperature difference between day and night (Meng et al., 2013; Liu et al., 2021).
+
+# 2.2 MOD16 products
+
+The MODIS ET dataset includes surface ET, latent heat flux, PET, and potential latent heat flux. The dataset has a spatial resolution of $1  { \mathrm { \ k m } } \times 1$ km and time resolutions of 8 d, 1 month,and 1 a. The algorithm is based on the Penman-Monteith equation with some improvements (Mu et al., 2007). These data can beter reflect the non-uniformity of the underlying surfaces of desert and oasis,and are suitable for the study of surface ET in arid areas. The annual synthetic product (MOD16) with actual surface ET data was selected,and the time series was from January 2001 to December 2016.The original MODIS products were stored in hierarchical data format (HDF) with sinusoidal projection. HDF files of the MOD16 products were converted into GeoTIFF files using ArcGIS 10.3 and $\mathrm { E N V I + I D L }$ (The Environment for Visualizing Images+Interactive Data Language） software. The projection conversion, raster mosaic,resampling, and other operations were performed to organize the final ET data.
+
+# 2.3Vegetation and meteorological data
+
+The vegetation dataset was provided by the Data Center for Resources and Environmental Sciences, Chinese Academy of Sciences (RESDC) (http://www.resdc.cn). This dataset includes vegetation types,horizontal and vertical distributions,and the relationship of vegetation with climatic factors and surface environmental factors.Distribution of vegetation types in the study area is shown in Figure 1.
+
+The meteorological data (including daily evaporation， precipitation， average temperature, average pressure， relative humidity， and average wind speed) were obtained from 94 meteorological stations (Fig.1) in the study area from 200l to 2016.For comparative analysis with ET data, the daily values were processed into 192 monthly and 16 annual values.
+
+# 2.4Reference evapotranspiration $\mathbf { ( E T _ { 0 } ) }$ and aridity index (AI)
+
+$\mathrm { E T _ { 0 } }$ reflects an important component of the atmosphere-hydrosphere water cycle, which drives the dry-wet conditions on the Earth's surface.The Penman-Monteith equation was recommended by the Food and Agriculture Organization (FAO) for the calculation of $\mathrm { E T _ { 0 } }$ (Allen et al., 2007); it was adopted in this study. The formula below was used to calculate $\mathrm { E T _ { 0 } }$ ：
+
+$$
+\mathrm { E T } _ { 0 } = \frac { 0 . 4 0 8 \Delta ( R _ { n } - G ) + 9 0 0 \gamma / ( T + 2 7 3 ) U _ { 2 } ( e _ { s } - e _ { a } ) } { \Delta + \gamma ( 1 + 0 . 3 4 U _ { 2 } ) } ,
+$$
+
+![](images/be1a8c939301669bce9dcc24a39993c2c58852a4e5b7079d834fe2e4288a89b5.jpg)  
+Fig.1Distribution of vegetation types and location of meteorological stations in the study area
+
+where $\mathrm { E T _ { 0 } }$ is the reference evapotranspiration (mm); $R _ { n }$ is the net radiation at the crop surface $( \mathrm { M J } / ( \mathrm { m } ^ { 2 } { \cdot } \mathrm { d } ) )$ ： $G$ is the soil heat flux density $( \mathrm { M J } / ( \mathrm { m } ^ { 2 } { \cdot } \mathrm { d } ) )$ · $T$ is the mean daily temperature at $2 \mathrm { ~ m ~ }$ （204号 height $( ^ { \circ } \mathrm { C } )$ ：， $U _ { 2 }$ is the wind speed at $2 \mathrm { m }$ height $\mathrm { ( m / s ) }$ · $\boldsymbol { \mathscr { e } } _ { s }$ is the saturation vapor pressure $( \mathrm { k P a } )$ · $e _ { a }$ is the actual vapor pressure $( \mathrm { k P a } ) ; \Delta$ is the slope of the vapor pressure curve $( \mathrm { { k P a } } / { } ^ { \circ } \mathrm { { C } ) }$ ; and $\gamma$ is the psychometric constant $\mathrm { ( k P a / ^ { \circ } C ) }$ ：
+
+To further analyze dry-wet conditions in terms of agriculture demand, we also calculated AI. In arid areas, the agricultural aridity is induced mainly by ET exceeding precipitation. $\mathrm { E T _ { 0 } }$ means the reference crop ET determined by climate factors, which can be easily observed (Huo et al.,2013). AI, defined by Thornthwaite (1948),represents the degree of drought in arid or semi-arid areas and is calculated as:
+
+$$
+\mathrm { A I } = { \frac { \mathrm { E T _ { 0 } } - \mathrm { P } } { \mathrm { E T _ { 0 } } } } ,
+$$
+
+where AI is the aridity index and $\mathrm { \bf P }$ is the precipitation (mm).AI can also show the water required to satisfy $\mathrm { E T _ { 0 } }$ .If there is no precipitation,AI is equal to 1,and the mean aridity is the highest.By contrast,if precipitation is equal to or higher than $\mathrm { E T _ { 0 } }$ ,AI is zero or negative.In the study area,as $\mathrm { E T _ { 0 } }$ is greater than precipitation,AI is between O and 1.
+
+# 2.5 Interannual variation of evapotranspiration (ET)
+
+The one-way linear regression method (Feng et al., 2O15） was used to analyze the temporal variations of annual average ET in the study area with the formula:
+
+$$
+\theta _ { \mathrm { s l o p e } } = \frac { n \times \displaystyle \sum _ { j = 1 } ^ { n } j \times X _ { j } - \sum _ { j = 1 } ^ { n } j \sum _ { j = 1 } ^ { n } X _ { j } } { n \times \displaystyle \sum _ { j = 1 } ^ { n } j ^ { 2 } - \left( \sum _ { j = 1 } ^ { n } j \right) ^ { 2 } } ,
+$$
+
+where $\theta _ { \mathrm { s l o p e } }$ is the slope of the trend line; $n$ is the accumulated years of monitoring (a); and $X _ { j }$ is the annual ET of the $j ^ { \mathrm { { \bar { t h } } } }$ year (mm). If $\theta _ { \mathrm { s l o p e } } { > } 0$ , ET increases during the monitored $n$ years, and vice versa.
+
+# 2.6 Data analysis
+
+Morlet wavelet analysis has been widely used in many fields, showing the periodic distribution, amplitude,and bit equality information of time series in time domain,and has the ability to
+
+diagnose mutation points in mathematical sense (Ma et al., 2013; Wu et al.,2019; Nourani et al., 2021).Its basic principle is to use a cluster of wavelet function system to represent or approximate a signal or function (Burrus,2005).
+
+Wavelet function $\varPsi ( t ) \in L ^ { 2 } ( R )$ is as follows:
+
+$$
+\int _ { - \infty } ^ { + \infty } \boldsymbol { \psi } ( t ) \mathrm { d } t = 0 ,
+$$
+
+where $t$ is time variable (a) and $\psi ( t )$ is a basic wavelet function and can form a cluster of functions:
+
+$$
+\mathcal { V } _ { a , b } \left( t \right) = \Big | a \Big | ^ { - \frac { 1 } { 2 } } \mathcal { V } \Bigg ( \frac { t - b } { a } \Bigg ) ,
+$$
+
+vhere $\psi _ { a , b } ( t )$ is the wavelet transform function; $a$ is the expansion scale;and $b$ is the translation )arameter $( a , b \in R , a \neq 0 )$
+
+For $f ( t ) \in L ^ { 2 } ( R )$ , the continuous wavelet transform is as follows:
+
+$$
+\mathcal { V } _ { a , b } \left( t \right) = \left| a \right| ^ { - \frac { 1 } { 2 } } \int _ { R } f ( t ) \overline { { \varPsi } } \left( \frac { t - b } { a } \right) \mathrm { d } t ,
+$$
+
+where $\textstyle f ( t )$ is a signal or square integrable function; ${ \overline { { \psi } } } { \Bigg ( } { \frac { t - b } { a } } { \Bigg ) }$ is a complex conjugate function of $\mathcal { F } \Bigg ( \frac { t - b } { a } \Bigg ) .$
+
+Wavelet variance can be used to determine the relative intensity of different scale disturbances in the signal and the main time scale,i.e., the main period (Burrus,2Oo5). The formula is as follows:
+
+$$
+\mathrm { V a r } ( a ) = \int _ { - \infty } ^ { + \infty } \bigl | W _ { f } ( a , b ) \bigr | ^ { 2 } \mathrm { d } b ,
+$$
+
+where $W _ { f } ( a , b )$ is wavelet coefficient.
+
+In this study, the wavelet toolkit of MATLAB software was used for wavelet transform. In addition, data processing,analyzing, and drawing were carried out in ArcGIS 10.3,ENVI 5.6, MATLAB 2016,and EXCEL 2010 software.
+
+# 3 Results
+
+# 3.1 Validations of the MOD16 data
+
+The accuracy of the MODl6 data was verified using the correlation coefficient between PET calculated from the MOD16 products and ET observed from the meteorological stations.As shown in Figure 2，at the temporal scale， the correlation coefficient between calculated PET and observed ET was 0.9008 (Fig.2a) and at the spatial scale, the correlation coeficient between them was 0.5993 (Fig.2b). This showed that PET calculated from the MOD16 products was consistent with ET observed from the meteorological stations,and this dataset from the MODl6 could be used to analyze the spatiotemporal distribution of land surface ET in mid-western China.
+
+![](images/f09195fea98dfcf67e8b201fd3402bc6e5702c8c6de104d1b0bc5dd30c87d56b.jpg)  
+Fig.2Relationships between potential evapotranspiration (PET） calculated from the MODl6 products and evapotranspiration (ET) observed from meteorological stations along a chronosequence (a)and among sites (b)in mid-western China.The data from 192 time points and 94 meteorological stations were used to analyze the relationship between PET calculated from the MOD16 products and ET observed from meteorological stations from 2001 to 2016.
+
+# 3.2Spatiotemporal variations of ET and potential evapotranspiration (PET)
+
+The overall ET in the study area gradually increased from east to southwest (Fig. 3). During the studied $1 6 \mathrm { a }$ ,ET varied from region to region across the study area, but PET was stable.
+
+![](images/710bc928a153ae752f745ed588960a13c133e4e08c49ac345712b69148ada509.jpg)  
+Fig.3Spatial variations of ET(a)and PET(b)as wellas spatial variations of slopes of ET(c)and PET (d) in mid-western China.Note that due to therestriction of the MODl6 products,ETinareas without vegetation such as deserts was not calculated and these areas appeared to be blank (white).
+
+From 2OOl to 2Ol6,the average annual ET in the study area increased and the difference in magnitude among pastoral regions was obvious，with the order of Qinghai>Gansu>Ningxia> midwestern Inner Mongolia (Fig.4). The increasing rates of ET were $0 . 3 5 ~ \mathrm { m m / a }$ in Qinghai, 8.39 $\mathrm { { m m } / \mathrm { { a } } }$ in Ningxia, $5 . 9 0 \mathrm { { m m } / \mathrm { { a } } }$ in Gansu, and $2 . 5 1 \ \mathrm { m m / a }$ in midwestern Inner Mongolia. The average annual PET,with the range of $9 8 0 . 0 0 { - } 1 5 0 0 . 0 0 ~ \mathrm { m m }$ ， showed a decreasing trend during the study period. TheorderofPETamongthefourregionswasmidwesternInner Mongolia $\triangleright$ Ningxia $\triangleright$ Gansu>Qinghai. The decreasing rates of PET were $7 . 0 0 \ \mathrm { m m / a }$ in midwestern Inner Mongolia, $1 1 . 1 0 \ \mathrm { m m / a }$ in Ningxia, $1 2 . 0 0 \ \mathrm { m m / a }$ in Gansu,and $5 . 4 2 ~ \mathrm { m m } / \mathrm { a }$ in Qinghai. The difference between PET and ET can explain the water shortage on the land surface,that is,the drought conditions.The differences between PET and ET were large in all four regions, indicating that the overal water condition was dry and water deficit existed.The degree of drought among the four regions was in the order of midwestern Inner Mongolia>Ningxia>Gansu>Qinghai. The trends of PET were decreasing, showing that drought conditions in different regions were mitigated.
+
+# 3.3Average monthly ET and PET changes
+
+The trend of average monthly ET and PET changes in various pastoral regions was dominated by the higher ET in summer and the lower ET in other seasons,and both ET and PET tended to increase first and then decrease at the monthly scale (Fig. 5). The maximum monthly ET in Gansu, midwestern Inner Mongolia, Ningxia, and Qinghai was 61.85, 27.50, 36.20,and 61.10 mm, respectively. The minimum monthly ET in Gansu, midwestern Iner Mongolia, Ningxia, and Qinghai was 24.63,10.79,16.17, and $2 6 . 3 2 \ \mathrm { m m }$ ， respectively， which respectively occurred in December, May, April, and December. The minimum monthly PET in the study area was in
+
+![](images/210c1d5f12e7f73aa56689ef3612035f5a0ec1d5494d0ed7b07e5d5b3ed3a0be.jpg)  
+Fig.4Average annual variations of ET and PET in mid-western China (a)as wellas in the pastoral regions of Gansu (b),midwestern Inner Mongolia (c), Ningxia (d),and Qinghai (e) during 2001-2016
+
+December, with the values of 51.31,34.35,45.03,and $4 3 . 6 0 \ \mathrm { m m }$ in Gansu, midwestern Inner Mongolia, Ningxia, and Qinghai, respectively. The maximum monthly PET was $2 0 9 . 0 3 \ \mathrm { m m }$ in Gansu, $2 2 9 . 1 0 \ \mathrm { m m }$ in midwestern Inner Mongolia, $2 1 9 . 2 7 ~ \mathrm { { m m } }$ in Ningxia, and $1 9 0 . 8 5 ~ \mathrm { m m }$ in Qinghai. The maximum difference between the average monthly PET and the average monthly ET in Gansu and midwestern Inner Mongolia was 153.90 and $2 0 7 . 8 0 ~ \mathrm { m m }$ in May, respectively, whereas it was $1 9 0 . 5 3 ~ \mathrm { m m }$ in June for Ningxia and $1 2 9 . 7 5 \ \mathrm { m m }$ in July for Qinghai.
+
+# 3.4Interannual variations and monthly changes of ET in different vegetation types
+
+From 2001 to 2O16, the interannual variation of ET for each vegetation type showed a steadily increasing trend (Fig. 6). The average annual ET over the study period in different vegetation types was as followed: forest $( 3 8 6 . 8 5 ~ \mathrm { m m } )$ )，shrub $( 3 3 7 . 6 8 ~ \mathrm { m m } )$ ， alpine vegetation $( 3 0 3 . 7 7 ~ \mathrm { m m } )$ ， natural grassland $( 2 9 6 . 5 0 \ \mathrm { m m } )$ ),cultivated vegetation $( 2 8 6 . 3 9 \ \mathrm { m m } )$ ，swamp $( 2 7 9 . 1 9 \ \mathrm { m m } )$ ，and desert ( $\cdot 1 8 7 . 7 2 \mathrm { m m }$ ）
+
+The change of monthly ET was significantly different in different vegetation types (Fig. 6). The trend can be roughly divided into three categories.First, there was a single peak mainly for forest; specifically, monthly ET increased from January and decreased after reaching the maximum in July at the monthly scale. Second, monthly ET fluctuated in natural grassand, desert, cultivated vegetation, and swamp; specifically, monthly ET firstly decreased from January to April and then increased to peak in July and/or August. After reaching the peak value, monthly ET decreased and later increased again. Third, monthly ET exhibited a bimodal type for alpine vegetation and shrubs. For this category,monthly ET first slowly increased till March， slightly decreased in April, then rapidly increased to peak in July, and finally decreased.
+
+![](images/2b34821830ef628df358d73a94448f83b4a0cf116ea555bb3d37667a1d0c782b.jpg)  
+Fig.5Average monthly ETand PETchanges in mid-western China (a)as wellas in the pastoral regions of Gansu (b), midwestern Inner Mongolia (c),Ningxia (d),and Qinghai (e) during 2001-2016
+
+![](images/c9e0e5f561c78f71e05b95574e70dab8590dbde3e8694622a945a66c10cebaf6.jpg)  
+Fig.6Interannual variations (a) and monthly changes (b)of ET in diferent vegetation types in mid-western China
+
+# 3.5Interannual variations and monthly changes of $\mathbf { E T _ { 0 } }$ , AI, and precipitation
+
+Linear regression analysis showed that the average annual $\mathrm { E T _ { 0 } }$ and AI in the study area decreased from 2001 to 2016 (Fig. 7). Specifically, the average annual $\mathrm { E T _ { 0 } }$ demonstrated a significant decline trend at a rate of $1 2 . 9 0 ~ \mathrm { m m / a }$ , and the average annual AI decreased by $0 . 0 3 ~ \mathrm { m m }$ decade. By contrast, the average annual precipitation increased from 2Oo1 to 20l6,at a rate of $1 . 9 8 ~ \mathrm { { m m } / a }$ It should be noted that the changes of average annual AI and the average annual precipitation were not statistically significant.
+
+The average monthly $\mathrm { E T _ { 0 } }$ ， precipitation, and AI had significant seasonal variations (Fig. 7b). Overall, both $\mathrm { E T _ { 0 } }$ and precipitation increased first and then decreased at the monthly scale, while AI exhibited the opposite trend and was greater than 0.60. This indicated that the study area belonged to an arid area and the climate was dry throughout the year.In July, $\mathrm { E T _ { 0 } }$ reached the maximum with a value of $1 8 3 . 9 4 ~ \mathrm { m m }$ , and precipitation also had the maximum value in July with a value of 63.34 mm. Both the temporal trends of $\mathrm { E T _ { 0 } }$ and precipitation caused a minimum AI of 0.6O in July. During the periods of January-April and November-December, AI was higher than 0.90.
+
+0 ET0 \*Precipitation AI   
+18005 (a) y=-12.903x+1613.6 0.90 200 (b) 1.00   
+1600 R²=0.5986 180 0.85 -0.003x+0.8212 0.5 88 800 I R²=0.3441   
+800 0.40   
+0400200 XX 012823 0000 6040200 0000 1120138304000 118 1346 1ef P Wt IdA KeW unf j SnA S0 AON Dee 0 22222 2 Year Month
+
+# 3.6 Periodic features of $\mathbf { E T _ { 0 } }$ and AI
+
+Morlet wavelet analysis revealed that $\mathrm { E T _ { 0 } }$ and AI had obvious localization characteristics at the interannual time scale,with nested signal strength and phase,and uneven frequency and time domain distribution (Fig. 8). The variation of annual $\mathrm { E T _ { 0 } }$ had a long periodicity of $1 0 – 1 6 \mathrm { ~ a ~ }$ ,and there was also a short periodicity of $4 \mathrm { - } 6 \mathrm { ~ a ~ }$ . Therefore,annual $\mathrm { E T _ { 0 } }$ had three periodicities: 5,11, and $1 4 \mathrm { ~ a ~ }$ , indicating that the change of annual $\mathrm { E T _ { 0 } }$ had a major periodicity of $1 4 \mathrm { ~ a ~ }$ , a secondary periodicity of 11 a, and a minor periodicity of 5 a. The major and secondary periodicities of annual AI were consistent with those of annual $\mathrm { E T _ { 0 } }$ , but annual AI still had shorter periodicities of about 3 and 6 a.
+
+# 4Discussion
+
+# 4.1Applicability of the MOD16 products in arid and semi-arid areas
+
+In recent years,the MODl6 products are widely used in hydrological research in arid and semi-arid areas where ground-based data are scarce (Khan et al., 2018; Li et al., 2021; Wang et al., 2021). For example, Glenn et al. (2011) used the MOD16 products to capture the general actual ET as wellas its features and trends at a continental scale in Australia. Mu et al. (2011) compared the MOD16 derived ET data with measured ET data from 46 AmeriFlux eddy covariance flux towers located across seven biomes in North America and found that the average error was $2 4 . 1 \%$ , within the accuracy range of multiple remote sensing methods ( $( 1 0 . 0 \% - 3 0 . 0 \% )$ （20 (Kalma et al., 2008). Moreira et al. (2018) evaluated the performance of the MOD16 products in nine eddy covariance monitoring sites from the Large-Scale Biosphere-Atmosphere Experiment in the Amazon and revealed that the products showed similar ET values with the calculated statistics.Although the accuracy of the MOD16 products still needs to be further verified in semi-arid areas, it is helpful to identify the spatiotemporal trends of ET change (Jovanovic et al., 2015). Concerns have also arisen on the short duration of the MOD16 dataset (only from the last 20 a). Therefore, it is better to use additional datasets from the MOD16 products over a longer duration to demonstrate ET change associated with climate change.
+
+![](images/28fc2e1dbf6cf149bee6f7ce9c08f0ed378092666c5044020f098bbe3bd9195f.jpg)  
+Fig.8Morlet wavelet analysis of periodic features of average $\mathrm { E T _ { 0 } }$ (a,b) and AI (c,d) in mid-western China
+
+# 4.2 Effects of vegetation type and climate change on ET
+
+In this study,actual ET in mid-western China increased year to year, although the trend was not significant. This is because the amount of ET is closely related to both vegetation type and climate change. Vegetation connects the soil to the atmosphere and regulates water balance,so higher vegetation cover can facilitate water cycling. In recent years， global warming and significant increase in vegetation cover in Northwest China (Mou et al., 2O18) have led to an increase in ET. Mo et al. (2014) showed that NDVI (Normalized Difference Vegetation Index) was positively correlated with ET in China.We also found PET exhibited a slightly decreasing trend with years in mid-western China, which is consistent with the finding in Northwest China revealed by Yang et al. (2015). The declining trend of PET suggested that drought stress was ameliorated (Yao et al.,，2O15). Precipitation in Northwest China was gradually increasing in recent years (Chen et al.， 2O14),and there was a significant negative relationship between precipitation and PET (Pan et al., 2O21). Additionally, the variation of PET was possibly affected by other atmospheric factors, such as solar radiation, wind speed,and temperature (Baguis et al., 2010; Thomas, 2015; Feng et al., 2019).
+
+In this study, ET in mid-western China changed in an obvious season-specific way. There was litle precipitation from January to April in this area and surface water could not be replenished, which results in a decreasing tendency of ET. In April, vegetative plants began to grow, leading to an increase of ET. In the northwest pastoral areas,the land use/cover types were complex, including desert, wind- and sand-controlld engineering areas,and the forests and grasslands were converted from farmlands. These areas tended to have a low vegetation cover and the existing vegetation was mainly cultivated vegetation that can absorb shallow soil moisture. Therefore, the increase of ET was not significant. In July and August, precipitation was concentrated, thus ET reached the highest value. Moreover, solar radiation was a major factor affecting ET (He et al., 2015). Summer days were long, receiving the most solar radiation and promoting the growth of natural and cultivated vegetation. Surface water circulation was accelerated from June to August, and ET continued to increase. In this study, the seasonal response of ET varied in different pastoral regions. The lowest ET in mid-western Inner Mongolia and Ningxia occurred in May and April, respectively, and ET in Gansu was also at a minimum value in April. This is probably because of the snow melting in spring and the gradually increased temperature. Appropriate temperature and moisture were beneficial for grass or crop re-greening,and ET in this period was lower than that in other times of the year (Tong et al., 2016).
+
+The ET of all individual vegetation types changed similarly to the overall ET in mid-western China. However, vegetation types varied in different pastoral regions of the study area and land use/cover types were diversified, resulting in at least three types of monthly ET change trends. We found there was a decrease in ET around April for some vegetation types. In spring, natural vegetation began to regrow, but grazing and human activities (such as plowing) would lead to a reduction of vegetation cover. Considering low precipitation in this season, the decrease in ET can be predicted. After spring, temperature and precipitation gradually increased, providing adequate heat and water for the rapid growth of vegetation, which leads to a rapid rise of ET to peak around August.
+
+# 4.3 Periodic changesof AIand $\mathbf { E T _ { 0 } }$
+
+The variation of $\mathrm { E T _ { 0 } }$ was influenced by radiometric and aerodynamic variables,which mainly reflect the changes in topography and climate (McVicar et al., 2007; Huo et al.,2013; Collins et al., 2021). In this study, $\mathrm { E T _ { 0 } }$ fluctuated and decreased during the studied 16-a duration. This was consistent with the studies conducted in India (Chattopadhyay and Hulme,1997),and the Yangtze River Basin (Xu et al., 2OO6) and the Yellow River Basin in China (Zhang et al.,2015). The decreasing trend of $\mathrm { E T _ { 0 } }$ was mainly attributed to the decreases in net total radiation and wind speed (Zhang et al.， 2015). However, Tabari (2010） showed that average annual $\mathrm { E T _ { 0 } }$ increased by $2 . 3 0 { - } 1 1 . 3 0 ~ \mathrm { m m }$ in an arid western area of Iran,which may be related to the higher temperature. Nouri and Bannayan (2O19） suggested that the variation trend of $\mathrm { E T _ { 0 } }$ was regulated by mean temperature and wind speed in humid environment.
+
+In this study, we also found that AI decreased in mid-western China, suggesting the whole area became wetter. This was consistent with previous results (Wang et al., 2O07; Liu et al., 2013).Vegetation cover has increased in this study area during the period from 200l to 2015 (Mou et al., 2O18) and there was a humidification trend in Northwest China based on the study of a dry-wet homogenization index (Wang et al., 2O07). Analysis of the monthly changes of $\mathrm { E T _ { 0 } }$ and AI showed that there was a unimodal change for $\mathrm { E T _ { 0 } }$ and an opposite change for AI within a year in this study. Past studies revealed that temperature played a decisive role in regulating water cycle in most arid areas, such as Iran (Bazrafshan, 2O17).AI was significantly and negatively correlated with precipitation，which contributed $91 . 7 \%$ of the decrease in AI in Northwest China from 1960 to 2010 (Liu et al.，2013). In this study, temperature and precipitation in mid-western China were higher from June to August, leading to the greatest $\mathrm { E T _ { 0 } }$ ; during this period, AI was the lowest, indicating the wettest time of the year. Zhang et al. (2015) found that the periodic periods of $\mathrm { E T _ { 0 } }$ and AI were 4-6, 8-12,and 18-22 a in the Yellow River Basin,China. The periodicity of $\mathrm { E T _ { 0 } }$ was similar to that of AI to some extent, and the major periodicities of the two variables were comparable.Also, the periodic changes of AI and $\mathrm { E T _ { 0 } }$ were affected by macroclimate patterns,such as El Nino,and atmospheric circulation (Zhang et al., 2015). Atmospheric circulation had a periodicity of $2 { - } 4 \mathrm { ~ a ~ }$ ,and it took 2-7 a for each El Nino to occur (Fan, 2O18). However, the relationship of periodic changes of AI and $\mathrm { E T _ { 0 } }$ with global warming still needs to be explored with long-time monitoring.
+
+# 5 Conclusions
+
+The overall ET gradually increased from east to southwest in mid-western China. From 2001 to 2016,actual ET showed an increasing trend, whereas PET decreased. The average annual ET variation in different vegetation types can be divided into unimodal, fluctuation, and bimodal patterns. The average annual $\mathrm { E T _ { 0 } }$ and AI decreased during the studied 16-a duration. The interannual variations of $\mathrm { E T _ { 0 } }$ and AI showed obvious periodic changes with a major periodicity of $1 4 \mathrm { a }$ , a secondary periodicity of $1 1 \mathrm { ~ a ~ }$ ,and a minor periodicity of about 5 a. This study showed that drought has been alleviated in mid-western pastoral regions of China in recent years.Therefore, a decrease in irrigation water demand may be foreseen for agricultural production. This research will help clarify irrigational and ecological water requirements and guide irrigation management for the development of agriculture and animal husbandry in arid areas.
+
+# Acknowledgements
+
+This work was supported by the earmarked fund for China Agriculture Research System of Ministry of Finance and Ministryof Agriculture and Rural Affirs (CARS-34) and the National Key Research and Development Program of China (2016YFC0400302).
+
+# References
+
+Alen RG,Tasumi M,MorseA,etal.2Oo7.Satelite-based energybalanceformappngevapotranspirationwithinternalized calibration (METRIC)—Applications.Journal of Irigation and Drainage Engineering,133(4):380-394.   
+Baguis P,RoulinE,Wilems P,etal.2O10.Climatechange scenarios forprecipitationand potential evapotranspirationover central Belgium.Theoretical and Applied Climatology,99(3-4): 273-286.   
+Bazrafshan J.20l7.Effectofairtemperatureonhistorical trendof long-termdroughtsindiferentclimatesof Iran.Water Resources Management,31: 4683-4698.   
+Burrus C S.2Oo5.Introduction to Wavelets and Wavelet Transforms: APrimer. Beijing: China Machine Press.   
+Chahine MT.1992.The hydrological cycle and its influence on climate.Nature,359:373-380.   
+Chang YP,QinDH,DingYJ,et al.2018.A modified MOD16 algorithm to estimate evapotranspiration over alpine meadow on the Tibetan Plateau, China.Journal of Hydrology,561: 16-30.   
+ChattopadhyayN,Hulme M.1997.Evaporationand potential evapotranspiration inIndiaunderconditionsofrecentandfuture climate change.Agricultural and Forest Meteorology, 87(1):55-73.   
+ChenLX,ShaoYN,ZhangQF,etal.1991.Preliminaryanalysisofclimaticchange during the last39 years in China. Quarterly Journal of Applied Meteorology,2(2):164-169.(in Chinese)   
+ChenR,LiuJ,KangE,etal.O15.recipitationmeasurement intercomparsonintheQilianMountains,ortheasteibetan Plateau. The Cryosphere Discussions,9(5):1995-2008.   
+ChenYN,LiZ,FanYT,etal.2O14.Researchprogres ontheimpactof climatechangeon waterresourcesinthearidrgionof Northwest China.Acta Geographica Sinica,69(9):1295-1304.(in Chinese)   
+Colins B,Ramezani Etedali H,TavakolA,etal.2021.Spatiotemporal variationsofevapotranspirationandreference crop water requirement over 1957-2O16 in Iran basedon CRUTS griddeddataset.JournalofArid Land,13(8): 858-878.   
+Dinpashoh Y,JhajhariaD,Fakheri-FardA,etal.2O.Trends inreferencecropevapotranspirationover Iran.Journalof Hydrology, 399(3-4):422-433.   
+Eslamian S,KhorddiMJ,Abedi-Koupai J.2l1.Effectsofvarations inclimaticparametersonvapotranspirationinthearid and semi-arid regions.Global and Planetary Change,78(3-4):188-194.   
+EspadaforM,LoriteIJ,GavilanP,etal.2O11.Ananalysisofthetendencyofreferenceevapotranspirationestimatesadother climate variables during the last45 years in southern Spain.Agricultural Water Management,98(6):1045-1061.   
+Fan SP.2018.Variation tendencyof potential evapotranspiration and aridity index in Central Gansu Provinceinrecent 55 years.Journal of Earth Environment,9(2):172-181.(in Chinese)   
+Feng F,ChenJQ,LiXL,etal.2015.Validityoffivesatelite-basedlatent heatfluxalgorithmsforsemi-aridecosystems. Remote Sensing,7(12): 16733-16755.   
+Feng X,Thompson SE,WoodsR,etal.219.Quantifyingasynchronicityofprecipitationand potential evapotranspirationin Mediterranean climates.Geophysical Research Letters,46(24): 14692-14701.   
+GanTY.2o.Reducingvulnerabilityof waterresources ofCanadian Prairies topotential droughtsand posible climatic warming.Water Resources Management,14(2):111-135.   
+Glenn E P,DoodyTM,GuerschmanJP,et al.2011Actual evapotranspiration estimation bygroundand remote sensing methods: the Australian experience.Hydrological Processes,25(26): 4103-4116.   
+GoyalR K.2O04.Sensitivityof evapotranspiration to global warming:A case study of arid zoneof Rajasthan (India). Agricultural Water Management, 69(1): 1-11.   
+He HJ,Zhuo J,DongJF,et al.2015.Surveyingvariations ofevapotranspiration in Shaanxi Province using MOD16products. Arid Land Geography,38(5): 960-967. (in Chinese)   
+Huo ZL,Dai XQ,Feng SY,et al.2O13.Effectof climatechangeonreference evapotranspirationandaridityindex inarid region of China. Journal of Hydrology, 492(7): 24-34.   
+JerinJN,IslamHTsmART,etal.1.Spatiotemporaltrendsieferenceevapotraspationanditsdivigfctor in Bangladesh.Theoretical and Applied Climatology,144:793-808.   
+Jia Z Z,Liu SM,XuZW,etal.20l2.Validationof remotely sensed evapotranspirationover the Hai River Basin,China. Journal of Geophysical Research,117,doi: 10.1029/2011JD017037.   
+Jovanovic N,Mu QS,BuganRDH,etal.2015.DynamicsofMODIS evapotranspiration in South Africa.WaterSA,41(1):79-90.   
+Jung M,ReichsteinM,CiaisP,etal.2O10.Recent decline intheglobal land evapotranspiratio trendduetolimitedmoisture supply. Nature,467(7318): 951-954.   
+Kalma JD,McVicarTR,McCabe MF.2Oo8.Estimating land surface evaporation: areview of methods using remotely sensed surface temperature data. Surveys in Geophysics,29: 421-469.   
+Khan M S,Liaqat U W,Baik J,et al.2018.Stand-alone uncertainty characterizationof GLEAM,GLDASand MOD16 evapotranspirationprouctsusinganextededtriplecoocationaroach.AgriculturalandForestMeteorology,52(15):66.   
+Kim H W,Hwang K,Mu Q Z,et al.2012.Validationof MODIS16 global terrestrial evapotranspiration products invarious climates and land cover types in Asia.KSCE Journal of Civil Engineering,l6(2): 229-238.   
+Li M,ChuR,IslamA,etal.2O21.Characteristicsofsurfaceevapotranspirationand itsresponse toclimateandlanduseand land cover in the Huai River Basin of eastern China.Environmental Science and Polution Research,28(1): 683-699.   
+Li $Z \textrm { L }$ ,Li ZJ,Xu ZX,et al.2O13.Temporal variations of reference evapotranspiration in Heihe River basinof China. Hydrology Research,44(5): 904-916.   
+Liu MG WangZK,MuL,etal.221.Eectofrgulateddeficitiigationonalfalfaperfrmanceunder twoirgationstesin the inlandaridareaofmidwesternChina.Agricultural WaterManagement,248:106764,doi:org/10.1016/j.agwat.2021.106764.   
+Liu Q,Yang ZF,CuiB S,etal.2O10.The temporal trendsof reference evapotranspirationand itssensitivity to key meteorological variables in the Yellow River Basin, China.Hydrological Processes,24(15):2171-2181.   
+Liu X M,Zhang D,LuoYZ,etal.20l3.Spatial and temporal changes inaridity index innorthwest China:1960 to 2010. Theoretical and Applied Climatology,112: 307-316.   
+Liu Y,WangQY,YaoXL,etal.O2o.Variationinreferenceevapotranspirationover theTibetaPlateauduring961-2017: Spatiotemporal variations,future trendsand linkstoother climatic factors.Water,12:3178,doi:10.3390/w12113178.   
+Ma JZ,ChenLH,HeJH,etal.2013.Trendsand periodicitiesinobserved temperature,precipitationandrunofinadesert catchment:case study forthe Shiyang River Basin inNorthwestern China.Waterand Environment Journal,27(1):86-98.   
+Ma ZG,DanL,HuYW.2O04.Theextremedry/wet events innorthern China duringrecent10Oyears.JournalofGeographical Sciences,14(3): 275-281.   
+McVicarTR,NielTG V,LiLT,etal.27.Satiallydistributing monthlyreferenceevapotranspirationand pan evaporation considering topographic influences.Journal of Hydrology, 338(3-4):196-220.   
+Meng CL.2021．Water balance scheme development for urban modeling.Urban Climate，37(9):100843，doi: 10.1016/j.uclim.2021.100843.   
+Meng XJ,Zhang SF,ZhangYY,etal.2013.Temporaland spatialchangesof temperatureand precipitation inHexiCoridor during 1955-2011.Journal of Geographical Sciences,23(4): 653-667.(in Chinese)   
+MoX,Liu S,Lin Z,etal.2O14.Trends in land surface evapotranspiration across China with remotely sensed NDVIand climatological data for 1981-2010.Hydrological Sciences Journal, 60(12): 2163-2177.   
+Moreira A A,Adamati D S,Ruhoff A L.2018.Evaluation of remotely sensed evapotranspiration products MOD16 and GLEAM in eddy covariance flux sites from LBA Project. Micrometeorologia,40:112-118.   
+Mosaedi A,SoughMG,Sadeghi SH,etal.2O16.Sensitivityanalysisof monthlyreferencecropevapotranspiration trendsin Iran: a qualitative approach. Theoretical and Applied Climatology,l28(3-4): 857-873.   
+MouL,LuYX,YangHM,etal.20l8.SpatiotemporalvarationofvegetationcoverinthepastoralareainNortwesterChina during the period of 1981-2015.Arid Zone Research,35(3): 615-623.(in Chinese)   
+Mu Q Z,HeinschFA, Zhao M S,et al.2007.Development of a global evapotranspiration algorithm based on MODIS and global meteorology data. Remote Sensing of Environment,111(4): 519-536.   
+Mu Q Z,Zhao MS,Running SW.2011. Improvements to a MODIS global terrestrial evapotranspiration algorithm.Remote Sensing of Environment,115(8):1781-1800.   
+NouraniV,TootoochiR,Andaryani S.2O21.Investigationof climate,land coverandlake level patern changesand interactionsusingremotelysensed dataand waveletanalysis.Ecological Informatics，64:101330，doi: 10.1016/jecoinf.2021.101330.   
+Nouri M,Bannayan M.2O19.Spatiotemporal changes inaridity index and reference evapotranspiration over semi-arid and humidregionsofIran:Trend,cause,andsensitivityanalyses.Theoreticalandappliedclimatology,36(3-4):0-1084.   
+Pan N,Wang S,LiuYX,etal.2O21.Rapid increaseof potential evapotranspiration weakens theefectof precipitationon aridity in global drylands.Journal of Arid Environments,186:104414,doi:10.1016/j.jaridenv.2020.104414.   
+ShiYF,ShenYP,KangE,etal.2o6.Recentandfutureclimatechangeinnorthwest China.ClimaticChange,80(3-4):79-393.   
+Song ZW,ZhangHL,SnyderRL,etal.210.Distributionand trends inreference evapotranspirationinthenorth Chinaplain. Journal of Irrigation and Drainage Engineering,136(4): 240-247.   
+StockerTF,QinD,PlatnerG K,etal.2013.IPCC,2013:SummaryforPolicymakers.In: ClimateChange 2013:The Physical Science Basis.Contributionof Working Group Ito theFifth Asessment Report of the Intergovernmental Panel on Climate Change.Cambridge and New York: Cambridge University Press.   
+Sun ZD,LotzT,Huang Q.2O21.AnET-basedtwo-phase method forthecalibrationandaplicationofdistributedhydrological models. Water Resources Management, 35(3): 1065-1077.   
+Tabari H.2010.Evaluation of reference crop evapotranspiration equations in various climates.Water Resources Management, 24(10): 2311-2337.   
+Thomas A.20l5.Spatialand temporal characteristicsofpotential evapotranspiration trendsover China.InternationalJournalof Climatology,20(4): 381-396.   
+Thornthwaite C W.1948.Anapproach toward a rational clasification ofclimate.Geographical Review,38(1): 55-89.   
+Tong SQ,Zhang JQ,Hasi,etal.2016.14yearsspatia-temporal distributioncharacteristicsof evapotranspirationinXilingol grassland based on MOD16.Chinese Journal of Grassland,38(4): 83-91.(in Chinese)   
+TrenberthKE,FasullJT,KiehlJO9.Earth'slobalenergybudget.Buletinof theAmericanMeteorologicalSociety90(3): 311-324.   
+Wang KC,Dickinson RE.2012.Areviewofglobal terrestrial evapotranspiration:Observation,modeling,climatology,and climatic variability. Reviews of Geophysics,50(2): 1-54.   
+Wang PX,Zheng YF,HeJH,etal.2007.Analysisofclimate change from dryto wet phaseinNW China with an aridity-wetness homogenized index.In: IEEE International Geoscience and Remote Sensing Symposium,IGARSS 2007. Barcelona: 1778-1781,doi: 10.1109/IGARSS.2007.4423165.   
+Wang S,LianJJ,Peng YZ,etal.2019.Generalized referenceevapotranspirationmodels withlimited climaticdatabasedon random forest and gene expression programming in Guangxi,China.Agricultural Water Management,221: 220-230.   
+Wang Y,JiangT,BotheO,etal.2Oo.ChangesofpanevaporationandreferenceevapotranspirationintheYangtze Riverasin. Theoretical and Applied Climatology,90:13-23.   
+Wang YP,LiR,HuJH,etal.2O21.Evaluationsof MODISand microwavebasedsatelite evapotranspiration productsunder varied cloud conditionsoverEast Asia forests.Remote Sensing of Environment，264(5):112606，doi: 10.1016/j.rse.2021.112606.   
+WuS Q,CaoSS,Wang ZH,etal.2019.Spatiotemporal variations inagricultural flooding in midleand lowerreachesof Yangtze River from 1970 to 2018.Sustainability,11(23): 6613.   
+XuCY,GongLB,JiangT,etal.o6.Analysisofspatialdistributioandtemporaltrendofreferenceevapotranspiratioand pan evaporation in Changjiang (Yangtze River) catchment. Journal of Hydrology, 327(1-2): 81-93.   
+YangC,XiaJZ,Liang SL,etal2014.Comparisonofsatelite-bsed evapotranspiration modelsoverterestrialecoystems in China.Remote Sensing of Environment,140:279-293.   
+Yang XQ,WangGJ,PanX,etal015.Spatio-temporalvariabilityof terestrialevapotranspirationinChina from980to 2011 basedon GLEAMdata.Transactions ofthe Chinese Societyof Agricultural Engineering,31(21):132-141.(in Chinese)   
+Yao J Q, Yang Q, Liu $Z \operatorname { H }$ ,et al.2015. Spatio-temporal change of precipitation in arid region of the northwest China. Acta Ecologica Sinica,35(17):5846-5855.(in Chinese)   
+ZhangKX,PanSM,ZhangW,etal.2O15.Influenceofclimatechangeonreference evapotranspirationandaridity indexadtheir temporal-spatial variations intheYelowRiverBasin,China,from196ltol2.QuaternaryInternational,380-381:75-82.   
+Zhang SH,Wang YF,Hou QZ,etal.2015.Spatialand temporalcharacteristicsofaridity indexand association withAOand ENSO in Qinghai Province.Pratacultural Science,32(12): 1980-1987.(in Chinese)   
+Zhang XT,Kang SZ,ZhangL,etal.2010.Spatial variationof climatologymonthlycropreference evapotranspirationand sensitivity coeficients in Shiyang river basin of northwest China.Agricultural Water Management,97(10):1506-1516.   
+Zhang Y Q,Liu CM,TangYH,et al.2Oo7.Trends in pan evaporation and referenceand actual evapotranspiration acrossthe Tibetan Plateau.Journal of Geophysical Research,112,doi: 10.1029/2006jd008161.

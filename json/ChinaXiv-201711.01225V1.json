@@ -1,0 +1,789 @@
+[
+    {
+        "type": "text",
+        "text": "社会关系网络中影响力用户发现方法研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "何建民 殷澍",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(合肥工业大学管理学院合肥 230009)(过程优化与智能决策教育部重点实验室 合肥 230009)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：【目的】为使结点投放的社会性网络广告绩效最大化，探索一种遴选网络影响力用户的新方法。【方法】从社会资本测量的视角，将社交网络上的用户间关系描述为社会关系网络基本图谱，据此建立用户影响力社会资本测度模型，通过对基本图谱下的用户随机游走行为发生可能性的概率计算，以识别和发现有影响力的用户。【结果】经识别的目标用户在其特定领域拥有相当的话语影响力，可对其他用户施加信息影响，经与\"新浪微博”平台标识的影响力用户对比，验证该方法的有效合理性。【局限】未考虑社交网络用户的博文内容对其话语影响力的贡献。【结论】为企业投放社会性网络广告遴选有影响力用户，提供理论支持和实用方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：网络广告投放社会关系图谱用户社会资本测量影响力用户发现模型",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号：TP393 G35",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在社交网络上，用户基于“利己\"或“利他\"的目的，以及社交和自我价值实现的需要，发布和传播特定话题的信息并与他人互动，以获得和增强其在网上的话语影响力[1]。拥有影响力的用户已成为企业投送社会化广告的重要营销资源。社会化网络广告与一般网络广告相比具有受众关注和互动影响的优势，绩效指标反馈直观。因此，发现和利用有影响力网络用户为企业推送广告以获得最大化的营销绩效便成为网络营销决策管理中的热点研究问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "网络用户的话语影响力属于社会资本范畴[2]。Drushel[3]认为意见领袖的社会资本就是话语影响力，它可促进对特定信息的传播，为企业投送网络广告。Lin[4认为社会资本是内嵌于社会关系网络中的社会资源，行为人可获得和使用这些资源，包括权利、财富和声望等。由社会资本理论可知，社交网络用户之间彼此关注形成的社会关系是一种社会关系网络，用户可在该网络中发布和传播信息，以自己的信息选择方式和行为对他人施加信息的影响，从而获得和积累用户话语影响力[5]。网络用户的话语影响力社会资本资源由社会威望、专业背景和社交能力[等要素构成，体现为用户的个人属性和社会属性特征数据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在现有研究用户影响力的文献和成果中，网上用户及其之间的信息关系被描述为不同类型的物理结构和关系网络，通过计算网上用户的特征属性数据，并经排序或综合计算，获得用户的影响力。代表性的成果主要有：“用户博文内容-用户社交关系\"二分图模型法[7-9]、用户自身影响力因素分析法[10-12]和用户间的多交互关系网络发现法[13-15]等。Zhu 等[7]、Ding 等[8]、Tang 等利用\"博文内容-用户\"二分图关系，确定博文内容结点、用户结点及其子团之间的联接关系，发现网上用户博文传播的规律，并计算和发现影响力用户。Montangero 等[10]、Tarokh 等[]、Liu 等[12]利用网络用户的个体行为特征或综合评价特征属性数据，计算用户的属性数据特征值，从中发现影响力用户；丁兆云等[13-14]将用户之间的信息\"阅读”、“转发”、“回复”和\"复制\"行为关系描述为单关系和多关系的网络结构，以PageRank算法计算用户随机游走下的行为发生概率，以找出影响力用户；齐超等[15]针对用户之间的信息\"转发”、“评论\"和\"提及\"行为关系，对用户的行为关系属性进行赋权，再通过叠加计算其行为特征数据，从中发现影响力用户。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上，学者们采用多种理论方法以不同的视角，探索构成用户影响力的诸多属性及其特征，并将用户之间的信息关注关系映射为物理结构和关系网络，在计算用户的影响力时，主要是依据用户在网络结构中的位置和行为特征数据，将一种或多种用户个人属性或网络属性特征数据进行叠加和综合计算，以获得有影响力的用户。事实上，在社交网上，用户的影响力形成和增强与其社会关系演化过程相伴而生，用户影响力效用不仅与其自身的个人属性特征数据相关，还与其个人属性与社会属性特征数据共同作用因素相关。用户的影响力由其自身的个人属性和社会属性等多属性特征数据的共同作用而呈现影响力功效。本文以社会资本理论视角，将社交网上用户的关注行为关系描述为社会关系网络，将用户之间的信息“浏览”“回复\"和\"分享\"行为关系描述为单社会关系图谱，并确定用户的信息互动能力为用户影响力社会资本因素；在用户的单社会关系网络图谱下，将用户的个人属性与其信息交互行为属性特征数据共同作用关系，描述为多社会关系图谱，并确定用户的信息发布能力为又一用户影响力社会资本因素。设计用户社会关系网络图谱下的随机游走信息选择行为发生概率计算方法，并对用户的多关系属性下的特征数据采用乘积计算和结果综合排名的方法，获得社交网上的影响力用户，从而形成一套基于社会资本的社交网有影响力用户发现方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2用户的社会关系网络图谱及其影响力发现模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1用户社会关系网络基本图谱",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在社交网络中，假定T主题信息下的用户结点i发布或传播了一条有价值的信息，其他用户(如结点 j)会关注到结点i的信息，并以“浏览”、“回复\"和\"分享”行为与结点i进行互动，彼此形成关注关系(简称关系)，由此构成社会关系网络。事实上，用户结点i和结点j之间的关注关系有三种形式：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1）浏览。结点i发布的信息文本被结点j\"浏览”结点i和结点j建立\"浏览\"关系;(2)回复。结点j使用提示标签\"回复\"了结点i所发出的信息文本，结点i和结点j建立\"回复\"关系;(3)分享。结点j转发了结点i所发出的信息文本,结点i和结点j建立\"分享\"关系。用户彼此关注而构建的社会关系网络基本图谱，如图1所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/cfdf53dd9e1bcfa4366d73268e6496c8a82ec342a2e8a4ac16cf6c5d4083f19e.jpg",
+        "img_caption": [
+            "图1用户社会关系网络基本图谱"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2用户的社会关系状态转换图谱",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在社交网络中，假定任意两个用户之间形成一种或多种社会关系，用户关注信息的行为结果一定是图1中的某一种状态形式。在图1中的(a)、(b)、(c)，为了描述用户结点i与结点j在既有的社会关系状态下向另一种新的关系状态转变的可能性，本文采用概率αRead、αReply、αshare分别表示结点j在任意两种社会关系状态之间进行行为变换的可能性。如用户结点j\"浏览\"了结点i所发出的信息，可知结点i和结点j处于“浏览\"状态，当结点j从“浏览\"状态转变为“回复\"状态时，结点j的社会关系状态发生改变的可能性用αreply表示，如图2中(a)。同理，由图2不同状态可知结点j的关系转换概率αRead，αshare o",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/4b9e193cc948652d34dd1809059d9252887d19bc5947b1402a563fd36ca78857.jpg",
+        "img_caption": [
+            "图2用户社会关系状态下的行为转换图谱"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图2描述了用户结点在不同社会关系状态下的关系转换行为。可知，结点j对结点i提供的信息感兴趣，或认为该信息有价值才会发生社会关系转换。即结点i的信息对结点j具有利用价值，并对结点j施加了话语权影响，也即结点i对结点j具有话语影响力。当一个用户结点的话语影响力逐渐增大时，可认为该结点与n个其他用户结点形成了多种社会关系。左文明等[6]研究发现，用户的话语影响力与相关信息发布和社交关系能力成正相关性。因此，用户的影响力由其信息发布和社交关系能力确定，分别用信息发布能力和信息互动能力进行描述。其中，用户的信息发布能力是指用户运用自身的社会资源，发布带有观点倾向性的有价值信息，以对他人施加信息影响的能力，该能力可由用户所发信息的频度和被他人关注的强度计算获得；用户的信息互动能力是指用户结点与其他结点频繁地社交互动交流，以对他人施加信息影响的能力，该能力由用户之间的社交行为关系权重来计算。用户的话语影响力是其信息发布能力和信息互动能力共同作用的结果，用户的上述能力值相乘得到其话语影响力。用户的话语影响力程度越高，表明用户与他人搭建社会关系的可能性越大。如结点j\"浏览\"了结点i的信息，其社会关系发生的可能性用j到i的社交行为发生概率\"表示，可以通过计算结点j与其所有互动的结点的话语影响力值之和，再将该数值与结点i的话语影响力数值相比，得到结点j到结点i的社交行为发生概率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图1为任意两个用户之间建立的社会关系网络图谱，据此可根据PageRank算法规则计算，即允许用户在信息选择行为中以随机游走方式选择任意一种行为的特性[17]，计算用户结点的社交行为发生融合概率，以获得结点在某一确定状态下的话语影响力。对于整个社交网来说，对每个用户结点的话语影响力复合值综合排名后，就能够得到拥有不同话语影响力的所有用户结点，从而可发现那些适合为企业投放网络广告的、营销目标与其话语影响力相配称的影响力用户。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3用户社会关系网络的多关系图谱",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在T主题信息下，假定结点用户的集合为VV发布的文本集合为C，V中用户彼此存续一种或多种社会关系，则整个社交网中的结点用户形成一张庞大的社会关系网络图谱 ${ \\mathrm { G } } , { \\mathrm { G } } { = } ( \\mathrm { V } , \\mathrm { E } )$ ，其中E代表G中任意两个结点之间的关系集合。图1是任意两个用户结点之间存在关注关系的所有情形，由此可见图谱 $\\mathbf { G } _ { \\mathrm { f } } ,$ $\\mathbf { G } _ { \\mathrm { f } } = ( \\mathbf { V } , \\mathbf { E } _ { \\mathrm { R e a d } } \\bigcup \\mathrm { E } _ { \\mathrm { R e p l y } } \\bigcup \\mathrm { E } _ { \\mathrm { S h a r e } } )$ 。例如在图1的(a)中,任意结点之间存续“浏览\"关系，用图谱GRead =（204号 $( \\mathrm { V } _ { \\mathrm { R e a d } } , \\mathrm { E } _ { \\mathrm { R e a d } } , \\mathrm { W } ( \\mathrm { E } _ { \\mathrm { R e a d } } ) )$ 表示， $\\mathrm { \\Delta V _ { R e a d } }$ 是所有的存续\"浏览\"关系结点的集合， $\\mathrm { E _ { R e a d } }$ 是结点之间存续\"浏览\"关系的有向边集合， $\\mathrm { W ( E _ { R e a d } ) }$ 表示结点之间有\"浏览\"关系的权重，该权重体现为该结点对其他结点的信息互动能力。同理可知，任意两个结点处于“回复\"关系下的图谱为 $\\mathbf { G } _ { \\mathrm { R e p l y } }$ 和处于\"分享\"关系下的图谱为 $\\mathbf { G } _ { \\mathrm { S h a r e } }$ 。且$\\mathrm { G } \\supseteq \\mathrm { G } _ { \\mathrm { f } } \\supseteq \\mathrm { G } _ { \\mathrm { R e a d } } , \\mathrm { G } \\supseteq \\mathrm { G } _ { \\mathrm { f } } \\supseteq \\mathrm { G } _ { \\mathrm { R e p l y } } , \\mathrm { G } \\supseteq \\mathrm { G } _ { \\mathrm { f } } \\supseteq \\mathrm { G } _ { \\mathrm { S h a r e } } \\mathrm { ~ \\diamond ~ }$ 号",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在社交网络中，由于结点用户与其他任意结点发生“浏览\"关系是随机的，并没有标签标识，所以结点在该社会关系下的信息互动能力存在不确定性，导致无法计算结点在\"浏览\"关系下的权重；而用户结点与其他结点发生“回复\"和\"分享\"关系时，其结果又是确定的，可由信息标签确定其是“回复\"还是“分享\"关系。因此在计算\"回复\"和\"分享\"关系下的用户结点信息互动能力时，可根据结点的\"回复\"和\"分享\"次数，分别",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "计算 $\\mathrm { W ( E _ { R e p l y } ) }$ 和 $\\mathrm { W ( E _ { S h a r e } ) }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4基于社会资本的用户影响力发现模型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于社会资本的用户影响力发现模型如图3所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "建立用户社会关系网络基本图谱 计算用户话语影响力的社会资本  \n选择社 1.在主题信息T话题下，建立参与T话题的用户 1.根据用户影响力体现的个人属性和社会属性  \n交网络 结点集合，形成用户数据集; 特殊数据资源，计算用户的信息发布能力；  \n平台， 2.描述用户之间形成的社会关系网络，记为图 2.根据用户与用户之间形成不同社会关系，对  \n提取和 谱G; 用户信息互动行为关系属性数据赋权，以计  \n处理用 3.由G得到用户间的多种社会关系，从而形成 算用户间不同关系状态下的信息互动能力;  \n户数据 用户结点的社会关系网络基本图谱，主要是： 3.根据步骤1和步骤2，再计算用户在不同的社会关系图谱下，个人属性和社会属性融合“浏览”、“回复\"和\"分享\"图谱。下的话语影响力社会资本数值。计算用户影响力的位次值并综合排名 计算用户社会关系图谱下的行为发生概率1.依据用户信息\"浏览(回复、分享)\"社会关系1.根据多社会关系图谱下的用户社交行为发生基本图谱和话语影响力数值，计算单一社  \n有话语 概率，计算用户的社交行为复合发生概率矩 会关系图谱下的用户社交行为发生概率；  \n影响力 阵B; 2.设定用户从任一种社会关系状态转换为另  \n的用户 2.根据矩阵B，利用PageRank幂迭代方法计算 一种社会关系状态的关系转换概率分别为用户的话语影响力位次值向量，直至结果${ \\bf { q } } _ { \\mathrm { { R e a d } } }$ ${ \\mathfrak { a } } _ { \\mathrm { R e p l y } }$ ${ \\bf q } _ { \\mathrm { s h a r e } }$ ：，收敛，得到社交网络下的每个用户话语3.由步骤1和步骤2，计算用户在多社会关系影响力的位次值以及综合排名。 图谱下的不同类型社交行为发生的概率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "该模型揭示了用户之间社会关系发生与转换变化的规律，由此可根据用户的社交行为方式随机游走，综合计算用户的社交行为发生概率及其关系转换概率，得到用户结点的话语影响力的位次数值和在整个社交网络中的综合排名，从而发现网上有影响力用户。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3用户话语影响力的社会资本度量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1用户的信息发布能力测度计算",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在社会关系网络中，用户的话语影响力就是社会资本。用户影响力的获得和增强需要其持续发布和传播有价值的信息文本，以吸引他人的关注；同时，他还要与关注他信息的其他用户进行信息互动，由此才能对他人施加信息影响[18]。本文将用户结点所发信息文本被他人评论的数目和转发数相加再经平均，将其定义为用户结点的信息受关注程度；将用户结点在单位时间内所发出的信息文本数定义为结点的信息活跃程度，由此计算获得用户的信息发布能力。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1）用户的信息受关注程度测度计算",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "假设用户结点i在时间t内发出的信息文本数为$\\mathfrak { n } _ { \\mathrm { i } }$ ，i的 $\\mathfrak { n } _ { \\mathrm { i } }$ 个信息文本被评论的总数为 $\\mathbf { c _ { i } }$ ，被转发的总数为 ${ \\bf r } _ { \\mathrm { i } }$ 。则用户结点的信息受关注程度为 ${ \\mathfrak { q } } _ { \\mathrm { i } }$ ，计算如公式(1)所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { q } } _ { \\mathrm { i } } = { \\frac { { \\mathrm { r } } _ { \\mathrm { i } } + { \\mathrm { c } } _ { \\mathrm { i } } } { { \\mathrm { n } } _ { \\mathrm { i } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2）用户的信息活跃程度测度计算",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "假设用户结点i在时间 $\\mathrm { ~  ~ { ~ t ~ } ~ }$ 内发布的信息文本数为$\\mathbf { n } _ { \\mathrm { i } } .$ ，用户结点的信息活跃程度为 $\\mathbf { a } _ { \\mathrm { i } } ,$ 则：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { a _ { i } = \\frac { n _ { i } } { \\Delta t } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3）用户的信息发布能力测度计算",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据公式(1)和公式(2)计算可得用户结点的信息发布能力 ${ \\mathrm { d } } _ { \\mathrm { i } }$ ，如公式(3)所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\bf d } _ { \\mathrm { i } } = { \\bf q } _ { \\mathrm { i } } \\cdot { \\bf a } _ { \\mathrm { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 用户的信息互动能力测度计算",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1）在用户“浏览\"关系下",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用户结点i参与了T主题话题信息的讨论，其信息一经发布即被G中用户结点所浏览，表明结点i所发布的信息能引起他人兴趣并有价值，因而结点i可能由此受到他人关注。他人在浏览结点i所发出的信息频度越高，表明结点i信息对他人施加的影响力越大。由 $\\mathrm { G _ { R e a d } = ( V _ { R e a d } , ~ E _ { r e a d } , ~ W ( E _ { R e a d } ) ) }$ 可知，用户结点i的信息互动能力为 $\\mathbf { W } _ { \\mathrm { R e a d } }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用户结点j\"浏览\"了结点i的信息，表明结点j体验了结点i所发信息的价值，并受到该信息的影响，在过程中结点j用户有两类情形：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 结点j缺乏对T信息的了解和参与讨论必需的专业知识，或结点j初入到社交网参与T话题讨论而受结点i信息的影响;",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 结点j对T主题信息了解并有自己的见解，愿意参与T主题信息的讨论，同时也愿意发表独立见解。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在\"浏览\"社会关系基本图谱下，区分上述两类用户的方法是：先假定G下所有用户结点的信息发布能力阀值为8，任意用户结点的信息发布能力为：$\\mathrm { d } _ { \\mathrm { i } } , ( \\mathrm { i } = 1 , \\cdots , \\mathrm { n } )$ ， $\\forall \\mathbf { d } _ { \\mathrm { i } } \\geqslant \\delta$ 时，可将结点i归属于第 $\\textcircled{2}$ 类型的用户； $\\forall \\mathbf { d } _ { \\mathrm { i } } \\leqslant \\delta$ 时，可将结点i归属于第 $\\textcircled{1}$ 类型的用户。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "针对于第 $\\textcircled{1}$ 类型的用户j，若结点j\"浏览\"了结点i的信息，并将结点i加注为“好友\"进行关注，其决定因素源于结点i的\"受欢迎程度\"和结点i所\"发布信息文本的数量”。假定用户结点j浏览了结点i所发出的信息，可将结点i的信息互动能力定义为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { w _ { R e a d } ( v _ { j }  v _ { i } ) = \\mu _ { i } \\times n _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\mu _ { \\mathrm { i } }$ 表示结点i的受欢迎程度，可用结点i的“粉丝数/关注数\"计算得到。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "针对第 $\\textcircled{2}$ 类型的用户j，结点j对好友结点i所发的与T主题相关的信息感兴趣。在公式(4)的基础上，还要考虑用户结点j\"浏览\"其好友结点i所发的信息与T 主题信息内容的聚焦程度。用户结点i所发布的信息与T主题信息的聚焦程度越高，表明其他用户如结点j\"浏览\"结点i的信息文本可能性越大。假定用户结点i任意发布一则信息文本 $\\mathtt { p } _ { \\mathrm { i } } ( \\mathrm { s } )$ ，则该信息文本与T主题信息的贴近程度为β(s)，根据关键词TF-IDF检测技术和文本余弦相似度[19]可计算βi(s)。假设结点i所发的信息文本与T主题信息的贴近程度阈值为0，当${ \\beta } _ { \\mathrm { { i } } } ( \\mathrm { { s } } ) \\geqslant 0$ 时，则表明结点i所发信息文本pi(s)与T相关,反之则无关。计算用户结点i在t时间内所发布的与T相关的文本总数，将其与该时间段内所发文本总数相比，其比值 $\\lambda _ { \\mathrm { i } }$ 即为该用户结点i信息的聚焦程度。由此可得，在\"浏览\"关系下的用户结点i的信息互动能力定义为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { w } _ { \\mathrm { R e a d } } ( \\mathbf { v } _ { \\mathrm { j } }  \\mathbf { v } _ { \\mathrm { i } } ) = \\mathbf { \\mu _ { \\mathrm { i } } } \\times \\mathbf { n } _ { \\mathrm { i } } \\times \\lambda _ { \\mathrm { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2）在用户“回复\"和\"分享\"关系下",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "用户结点之间存在“回复\"和\"分享\"社会关系，可通过标签检测予以确认。在“回复”关系图谱$\\mathrm { G _ { R e p l y } = ( V _ { R e p l y } , E _ { R e p l y } , W ( E _ { R e p l y } ) ) }$ 和\"分享\"关系图谱$\\mathrm { G _ { S h a r e } = ( V _ { S h a r e } , E _ { S h a r e } , W ( E _ { S h a r e } ) ) }$ 下，用户结点i的信息互动能力 $\\mathrm { w _ { R e p l y } ( v _ { j } \\to v _ { i } ) }$ 和 $\\mathrm { w _ { S h a r e } ( v _ { j } \\to v _ { i } ) }$ ，由其所关注的其他用户结点\"回复\"或\"分享\"所发布的文本信息总数确定，当用户结点j与其好友结点i有\"回复”和\"分享\"关系时，结点i的信息互动能力在\"回复\"下为： $\\mathrm { w _ { R e p l y } ( v _ { j } \\to v _ { i } ) }$ ，在\"分享”下为: $\\mathrm { w } _ { \\mathrm { S h a r e } } ( \\mathrm { v } _ { \\mathrm { j } }  \\mathrm { v } _ { \\mathrm { i } } )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3用户话语影响力的社会资本计算",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在图2中，用户结点的话语影响力由其自身的信息发布能力d和信息互动能力w共同决定，其中w是WRead、WReply、 $\\mathbf { w } _ { \\mathrm { S h a r e } }$ 的综合。结点i的话语影响力计算方法是对d和w两项数值的乘积。假定结点i和结点j是图1关系下的任意一种情形，结点i的话语影响力F，可通过公式(6)-公式(8)计算得到用户话语影响力的社会资本测度：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathrm { F _ { i } } ( \\mathrm { R e a d } ) = \\mathrm { w } _ { \\mathrm { R e a d } } ( \\mathrm { v _ { j } }  \\mathrm { v _ { i } } ) \\cdot \\mathrm { d _ { i } } } \\\\ & { \\mathrm { F _ { i } } ( \\mathrm { R e p l y } ) = \\mathrm { w } _ { \\mathrm { R e p l y } } ( \\mathrm { v _ { j } }  \\mathrm { v _ { i } } ) \\cdot \\mathrm { d _ { i } } } \\\\ & { \\mathrm { F _ { i } } ( \\mathrm { S h a r e } ) = \\mathrm { w } _ { \\mathrm { S h a r e } } ( \\mathrm { v _ { j } }  \\mathrm { v _ { i } } ) \\cdot \\mathrm { d _ { i } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4计算用户的社交行为发生概率",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1单一社会关系",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在图1的(a)、(b)、(c)中，计算用户结点的话语影响力后，要考察用户结点在图1的(d)、(e)、(f)、(g)下的结点社交行为发生的可能性，主要是计算结点的社交行为发生概率。假定用户结点」在\"浏览\"了结点i的信息以后，又转去\"浏览\"其他结点的信息，则建立了一种新的多边关系，即\"浏览-浏览\"关系。令该结点j\"浏览\"他人信息行为发生的概率矩阵为 $\\mathbf { A } _ { \\mathrm { r e a d } }$ ，则结点用户的\"浏览”、“回复”、“分享\"行为发生概率为：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1）任意用户结点 $\\mathbf { v } _ { \\mathrm { j } }$ 随机\"浏览\"结点 $\\mathbf { V _ { i } }$ 信息文本的社交行为发生概率为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { A _ { r e a d } ( v _ { j }  v _ { i } ) = \\frac { F _ { i } ( R e a d ) } { \\sum _ { v _ { j e v } } F _ { v } ( R e a d ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2）任意用户结点 $\\mathbf { v _ { j } }$ 随机\"回复\"结点 $\\mathbf { v _ { i } }$ 信息文本的社交行为发生概率为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { A _ { R e p l y } ( v _ { j } \\to v _ { i } ) = \\frac { F _ { i } ( R e p l y ) } { \\sum _ { v _ { j e v } } F _ { v } ( R e p l y ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3）任意用户结点 $\\mathbf { V } _ { \\mathrm { i } }$ 随机\"分享\"结点 $\\mathbf { v _ { j } }$ 信息文本的社交行为发生概率为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { A } _ { \\mathrm { S h a r e } } ( \\mathrm { v } _ { \\mathrm { j } }  \\mathrm { v } _ { \\mathrm { i } } ) { = } \\frac { \\mathrm { F } _ { \\mathrm { i } } ( \\mathrm { S h a r e } ) } { \\sum _ { \\mathrm { v } _ { \\mathrm { j } \\varepsilon \\mathrm { v } } } \\mathrm { F } _ { \\mathrm { v } } ( \\mathrm { S h a r e } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\mathbf { v } _ { \\mathrm { j } } \\not \\in \\mathbf { V }$ ， $\\mathbf { v }$ 代表被 $\\mathbf { v } _ { \\mathrm { j } }$ “浏览”，或“回复”，或“分享\"的所有结点。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2 多社会关系",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在图1关系下，除去结点以(a)、(b)、(c)形式与其他结点进行社交互动外，还能以(d)、(e)、(f)、(g)形式与其他结点进行社交互动。因此，需要建立一种新型社会关系，即为多社会关系图谱。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "假定结点用户的社会关系状态属于图1中(a)、(b)、(c)中的任意一种，则设结点从任意一种关系状态转换为\"浏览(回复、分享)\"关系状态的社会关系转换概率分别是：αRead、αReply、αshare，且满足 $\\mathrm  \\Delta \\alpha \\mathrm  \\alpha \\mathrm  \\alpha \\mathrm  \\alpha \\mathrm  \\alpha \\mathrm  \\alpha \\mathrm  \\alpha \\mathrm  \\alpha \\mathrm  \\alpha \\alpha \\mathrm  \\alpha \\mathrm  \\alpha \\alpha \\mathrm  \\alpha \\mathrm  \\alpha \\beta \\mathrm  \\alpha \\mathrm { \\alpha \\mathrm \\Omega } \\mathrm  \\alpha \\mathrm  \\alpha \\mathrm \\mathrm  \\alpha \\beta \\mathrm \\mathrm { \\alpha \\mathrm \\Omega } \\mathrm  \\alpha \\mathrm \\mathrm  \\alpha \\mathrm \\mathrm  \\alpha \\beta \\mathrm \\mathrm  \\alpha \\mathrm \\beta \\mathrm \\mathrm  \\alpha \\mathrm \\mathrm  \\alpha \\mathrm \\mathrm { \\alpha \\beta \\mathrm \\mathrm \\Omega } \\mathrm  \\alpha \\mathrm \\mathrm  \\beta \\mathrm \\alpha \\mathrm \\mathrm  \\alpha \\mathrm \\mathrm  \\beta \\mathrm \\alpha \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\mathrm  \\alpha \\beta \\mathrm \\mathrm \\mathrm  \\alpha \\mathrm \\mathrm \\beta \\mathrm \\mathrm  \\alpha \\mathrm \\mathrm \\mathrm  \\beta \\alpha \\mathrm \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\beta \\mathrm \\mathrm \\mathrm  \\alpha \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\beta \\mathrm \\mathrm \\mathrm \\mathrm  \\alpha \\mathrm \\mathrm \\beta \\mathrm \\mathrm \\mathrm  \\alpha \\mathrm \\mathrm \\mathrm \\mathrm  \\beta \\beta \\mathrm \\mathrm \\mathrm \\mathrm \\mathrm  \\alpha \\beta \\mathrm \\mathrm \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\beta \\mathrm \\mathrm \\mathrm \\mathrm  \\alpha \\mathrm \\mathrm \\beta \\mathrm \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\beta \\mathrm \\mathrm \\mathrm \\mathrm  \\alpha \\mathrm \\mathrm \\beta \\mathrm \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\beta \\mathrm \\mathrm \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\mathrm \\beta \\mathrm \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\beta \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm  \\Omega \\mathrm \\mathrm \\Omega \\mathrm \\mathrm \\mathrm \\Omega \\mathrm \\mathrm $ 0结点发布信息除在图1中(a)、(b)、(c)下，以随机游走方式对他人施加话语影响力外，还能以此为起点与其他任意结点构建新的社会关系，如图1中(d)、(e)、(f)、(g)。由此可计算，在既定的社会关系图谱下结点随机游走下步行为变化的可能性，再与结点发生社会关系状态转换的可能性进行综合，便得到该结点对其他结点施加话语影响力的所有可能性，即计算多社会关系下结点社交行为发生概率。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在T主题话题下，假定γ是结点在图1中(a)、(b)、(c)中与其他任意结点建立社会关系的可能性。由图2所示的多关系图谱可知，结点间的社交行为发生概率是：$\\mathrm { B } _ { \\mathrm { R e a d } }$ 、 $\\mathrm { \\Delta B _ { R e p l y } }$ 、 $\\mathrm { B } _ { \\mathrm { S h a r e } }$ ，这时考虑结点在图1中的社交行为发生可能性 $\\mathrm { \\Delta \\cdot A _ { R e a d } \\cdot \\ A _ { R e p l y } \\cdot \\ A _ { S h a r e } } ,$ ，同时需要考虑结点在图2的多社会关系状态转换发生的可能性 $\\mathbf { \\boldsymbol { a } } _ { \\mathrm { R e a d } }$ 、αReply、 $\\mathbf { \\alpha } _ { \\mathrm { { { G } _ { \\mathrm { { S h a r e } } } } } }$ 的概率计算方法。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1）用户结点j在\"浏览”i后的社交行为发生概率$\\mathrm { B _ { R e a d } ( v _ { j }  v _ { i } ) }$ ，得到：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { B } _ { \\mathrm { R e a d } } \\left( \\mathrm { v _ { j } } \\to \\mathrm { v _ { i } } \\right) = \\alpha _ { \\mathrm { R e a d } } \\times \\left[ ( 1 - \\gamma ) \\times \\mathbf { A } _ { \\mathrm { R e a d } } ( \\mathrm { v _ { j } } \\to \\mathrm { v _ { i } } ) + \\frac { \\gamma } { \\mathrm { n } } \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2)用户结点j在\"回复”i后的社交行为发生概率$\\mathrm { B _ { R e p l y } ( v _ { j } \\to v _ { i } ) }$ ，得到:",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { B _ { \\mathrm { R e p l y } } } \\left( \\mathrm { v _ { j } } \\to \\mathrm { v _ { i } } \\right) = \\alpha _ { \\mathrm { R e p l y } } \\times \\left[ ( 1 - \\gamma ) \\times \\mathbf { A _ { \\mathrm { R e p l y } } } \\left( \\mathrm { v _ { j } } \\to \\mathrm { v _ { i } } \\right) + \\frac { \\gamma } { \\mathrm { n } } \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3）用户结点j在\"分享”i后的社交行为发生概率$\\mathrm { B } _ { \\mathrm { S h a r e } } ( \\mathrm { v } _ { \\mathrm { j } }  \\mathrm { v } _ { \\mathrm { i } } )$ ，得到：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { B } _ { \\mathrm { S h a r e } } ( \\mathrm { v _ { j } } \\to \\mathrm { v _ { i } } ) = \\alpha _ { \\mathrm { S h a r e } } \\times \\left[ ( 1 - \\gamma ) \\times \\mathbf { A } _ { \\mathrm { S h a r e } } ( \\mathrm { v _ { j } } \\to \\mathrm { v _ { i } } ) + { \\frac { \\gamma } { \\mathrm { n } } } \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中，参与T主题话题互动的所有的用户结点总数为n。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5用户的话语影响力复合计算和综合排名",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在T主题话题信息下，假定参与T的用户结点数为n，这些用户的话语影响力位次值所组成的向量为P。P中任意一个用户结点i的话语影响力位次值为p $\\mathrm { ( v _ { i } ) }$ 。由PageRank算法[17]可知，计算 $\\mathsf { p } ( \\mathrm { v _ { i } } )$ 值即在图2中计算结点i的追随者的排名位次值，再将所有与结点i有社会关系的追随者的排名位次值与其社交行为发生概率相乘，再逐个累加得到结点i的话语影响力总位次值，$\\mathsf { p } ( \\mathrm { v } _ { \\mathrm { i } } )$ 计算公式如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\displaystyle \\mathfrak { p } ( \\mathrm { v _ { i } } ) = \\left[ \\sum _ { \\mathrm { v _ { i , j } } \\in \\mathrm { E } _ { \\mathrm { r e a d } } } \\mathrm { B } _ { \\mathrm { R e a d } } ( \\mathrm { v _ { j } } \\to \\mathrm { v _ { i } } ) \\mathfrak { p } ( \\mathrm { v _ { j } } ) + \\sum _ { \\mathrm { v _ { i , j } } \\in \\mathrm { E } _ { \\mathrm { r e p } \\mathrm { l y } } } \\mathrm { B } _ { \\mathrm { R e p l y } } ( \\mathrm { v _ { j } } \\to \\mathrm { v _ { i } } ) \\mathfrak { p } ( \\mathrm { v _ { j } } ) \\right. } \\\\ & { \\left. \\ + \\sum _ { \\mathrm { v _ { i , j } } \\in \\mathrm { E } _ { \\mathrm { s h a r c } } } \\mathrm { B } _ { \\mathrm { S h a r c } } ( \\mathrm { v _ { j } } \\to \\mathrm { v _ { i } } ) \\mathfrak { p } ( \\mathrm { v _ { j } } ) \\right] } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中，将 $\\mathsf { p } ( \\boldsymbol { \\mathbf { \\rho } } _ { \\mathrm { V j } } )$ 从括号中移出，括号内的公式恰好是 $\\mathrm { B } _ { \\mathrm { R e a d } }$ 、 $\\mathrm { \\Delta B _ { R e p l y } }$ 、Bshare行为发生概率矩阵转置相加，再与P向量矩阵相乘所得的第i行的 $\\mathsf { p } ( \\mathrm { v _ { i } } )$ 数值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "假设在图2中，用户结点i行为发生概率复合矩阵为B, $\\mathrm { \\mathbf { B } = B _ { R e a d } + B _ { R e p l y } + B _ { S h a r e } = 1 } ,$ 根据PageRank幂迭代计算方法，可计算 $\\mathfrak { n }$ 个结点的话语影响力的排名位次值，得到其排名位次值向量矩阵P；再根据马尔科夫链及其有限性定理[20]，可知该向量矩阵P的结果收敛且唯一。",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { P _ { k } } = \\mathbf { B } ^ { \\mathrm { T } } \\mathbf { P _ { k - 1 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\mathbf { k }$ 的初始值为0，初始位次值向量令为 $\\mathrm { P } _ { 0 }$ ${ \\mathrm { P } } _ { 0 } = ( 1 , 1 , \\cdots , 1 , 1 , ) ^ { \\mathrm { T } }$ 。 $\\mathbf { P _ { k } } , \\mathbf { P _ { k - 1 } }$ 是经过第 $\\mathbf { k }$ 次和第 $\\mathbf { k } { - } 1$ 次迭代计算以后所获得的n个结点话语影响力位次值的向量。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6实验及结果讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6.1实验平台和数据采集",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "实验平台为“新浪微博\"社交网络平台，其数据采集采用新浪微博提供的API编程接口通过程序自动获得，数据采集的时间为2014年10月1日-2014年10月31日。在获取的用户数据包中，挑选用户讨论话题“#爸爸去哪儿了#\"作为T主题话题信息，采集的微博用户结点数据，主要包括结点自身特征属性数据、互动行为关系属性数据，以及结点发布和传播的博文及其互动、转发的日常记录数据。在剔除无效的ID用户结点号后，获得参与T主题话题信息发布、浏览、回复和转发的用户总数为106，博文信息记录总数为1301。用户数据记录属性项包括：用户昵称(A0)、是否加V(A1)、关注数(A2)、粉丝数(A3)、总发微博数(A4)，以及在数据采集周期内的微博数(A5)和微博被评论和被转发数之和(A6)。将上述微博用户数据集合导人基本信息数据库，部分数据属性项列表如表1所示。同时，根据这些用户彼此之间的关注关系，以“0-1\"矩阵形式建立结点用户关注关系数据库，如表 2所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/66395ca5d5f3a0deebb0a41432275f79eac1940e586d80fe94e9a7a408261eb5.jpg",
+        "table_caption": [
+            "表1微博用户基本信息数据库(部分)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>WEIHAO_ID</td><td>A0</td><td>A1</td><td>A2</td><td>A3</td><td>A4</td><td>A5</td><td>A6</td></tr><tr><td>2580538964</td><td>有点任性的射手</td><td>0</td><td>185</td><td>129</td><td>366</td><td>10</td><td>1</td></tr><tr><td>1795128540</td><td>杨仔Melody</td><td>0</td><td>285</td><td>531</td><td>1 511</td><td>14</td><td>64</td></tr><tr><td>1900441543</td><td>丽-歌</td><td>0</td><td>291</td><td>1378</td><td>5 994</td><td>100</td><td>535</td></tr><tr><td>2127830227</td><td>混在阳光下、T</td><td>0</td><td>794</td><td>229</td><td>1 116</td><td>450</td><td>3</td></tr><tr><td>3185540783</td><td>萍萍萍萍平</td><td>0</td><td>27</td><td>8</td><td>13</td><td>1</td><td>1</td></tr><tr><td>…</td><td>…</td><td></td><td>…</td><td>…</td><td>…</td><td>…</td><td>…</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/14019b2fa5359968c980a5e7cfc7a8c4bfc4763e7bd85bead0a11fc8c4c78e91.jpg",
+        "table_caption": [
+            "表2微博结点用户关注关系数据库(部分)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>ID</td><td>2308923167</td><td>1936123170</td><td>1367732612</td><td>2020410163</td><td>3816239594</td><td>：</td></tr><tr><td>2308923167</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>：</td></tr><tr><td>1936123170</td><td>1</td><td>0</td><td>1</td><td>0</td><td>0</td><td>：</td></tr><tr><td>1367732612</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>：</td></tr><tr><td>2020410163</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>：</td></tr><tr><td>3816239594</td><td>1</td><td>1</td><td>1</td><td>1</td><td>0</td><td>：</td></tr><tr><td></td><td></td><td></td><td></td><td>…</td><td>…</td><td>…</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6.2实验步骤和结果讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1）微博用户结点自身的信息发布能力计算",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在微博用户基本信息数据库中，由公式(1)-公式(3)可计算微博用户的信息发布能力d。如昵称为\"菜菜家有小小菜\"的用户，他的信息发布能力值为2.6777,经计算可得所有的微博用户信息发布能力。假定信息发布能力阀值为 $\\scriptstyle { \\delta = 1 }$ ，由微博结点的信息发布能力是大于或小于8判定条件可知，该微博结点属于3.2节所定义的第 $\\textcircled{1}$ 或第 $\\textcircled{2}$ 类用户类型，由此可计算微博用户结点信息发布能力。计算结果如表3所示：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/bc546450cf01afdde9b42b5ec927e273cd2950c067a4005fb41d4c036c01948b.jpg",
+        "table_caption": [
+            "表3微博用户信息发布能力计算结果和用户类型(部分)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>WEIHAO_ID</td><td>A0</td><td>A1</td><td>A2</td><td>A3</td><td>A4</td><td>A5</td><td>A6</td><td>d</td><td>type</td></tr><tr><td>2308923167</td><td>UNES 优理氏</td><td>0</td><td>1 670</td><td>22 296</td><td>4084</td><td>150</td><td>40</td><td>1.2903</td><td>②</td></tr><tr><td>1936123170</td><td>妆-只是一种态度</td><td>0</td><td>555</td><td>285</td><td>9 871</td><td>500</td><td>50</td><td>1.6129</td><td>②</td></tr><tr><td>1367732612</td><td>油切麦兜</td><td>0</td><td>222</td><td>654</td><td>29</td><td>3</td><td>1</td><td>0.0323</td><td>①</td></tr><tr><td>2020410163</td><td>洛丽塔奇奇大王T</td><td>0</td><td>476</td><td>655</td><td>167</td><td>6</td><td>1</td><td>0.0333</td><td>①</td></tr><tr><td>3816239594</td><td>发乱女</td><td>0</td><td>283</td><td>104</td><td>306</td><td>10</td><td>9</td><td>0.2903</td><td>①</td></tr><tr><td>1817474694</td><td>菜菜_家有小小菜</td><td>0</td><td>256</td><td>231</td><td>1083</td><td>45</td><td>83</td><td>2.6777</td><td>②</td></tr><tr><td></td><td>：</td><td>：</td><td>…</td><td></td><td></td><td></td><td>：</td><td>：</td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2）图1微博用户社交行为发生概率矩阵计算",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据微博结点用户关注关系数据库，由其用户类型判定条件和计算公式(4)-公式(6)和公式(9)，可计算微博用户在\"浏览\"关系下的社交行为发生概率。计算结果如表4所示：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/a362e3ddce3155c9e177cf81127dba80fe10d01410d8a2fce1c2b1210c9de73e.jpg",
+        "table_caption": [
+            "表4微博用户在\"浏览\"关系下的社交行为发生概率(部分)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>ID</td><td>2308923167</td><td>1936123170</td><td>1367732612</td><td>2020410163</td><td>3816239594</td><td>：</td></tr><tr><td>2308923167</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0.0015</td><td>：</td></tr><tr><td>1936123170</td><td>0.9973</td><td>0</td><td>0.0004</td><td>0</td><td>0</td><td>…</td></tr><tr><td>1367732612</td><td>0</td><td>0.0003</td><td>0</td><td>0.073</td><td>0.012</td><td>：</td></tr><tr><td>2020410163</td><td>0.0573</td><td>0</td><td>0</td><td>0</td><td>0.002</td><td>：</td></tr><tr><td>3816239594</td><td>0.326</td><td>0.0128</td><td>0.0154</td><td>0.0171</td><td>0</td><td></td></tr><tr><td>…</td><td></td><td></td><td>…</td><td>…</td><td>…</td><td>…</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "同理，可获得微博用户在\"回复\"和\"分享\"关系下的社交行为发生概率。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3）图2中的微博用户社交行为发生概率及其矩阵计算",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由步骤(2)计算可得图1中的用户社交行为发生概率，再利用公式(12)-公式(14)计算微博用户在图2下的社交行为发生概率。先设定结点的社会关系转换概率为α，微博用户“浏览\"了好友用户博文，即认为该微博用户受到好友的信息影响，但影响不及微博用户回复或转发其好友博文而受到其影响作用大[13]，可得,$\\mathrm { a _ { R e a d } { < } a _ { R e p l y } }$ ， $\\mathrm { a _ { R e a d } { < } a _ { S h a r e } }$ 。设 $\\mathbf { \\boldsymbol { a } } _ { \\mathrm { R e a d } }$ 、αReply、 $\\mathbf { \\alpha } _ { \\mathrm { { { a s h a r e } } } }$ 分别为0.2、0.4、0.4，根据经验值将Y设为0.15。由此计算结点在图2中的社交行为发生概率 $\\mathrm { B } _ { \\mathrm { R e a d } }$ ） $\\mathbf { B } _ { \\mathrm { R e p l y } }$ ） $\\mathrm { B } _ { \\mathrm { S h a r e } }$ 以计算 $\\mathbf { B } _ { \\mathrm { R e a d } }$ 为例，如表5所示：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/fdcaf57be15faa63c0fbe22f06a0d8774f1ed2d88ae01a8f46ec9c41bed2e7ba.jpg",
+        "table_caption": [
+            "表5 $\\mathbf { B } _ { \\mathrm { R e a d } }$ 下的结点间行为发生概率(部分)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>ID</td><td>2308923167</td><td>1936123170</td><td>1367732612</td><td>2020410163</td><td>3816239594</td><td>…</td></tr><tr><td>2308923167</td><td>0.00028</td><td>0.00028</td><td>0.00028</td><td>0.00028</td><td>0.00051</td><td>：</td></tr><tr><td>1936123170</td><td>0.14988</td><td>0.00028</td><td>0.00034</td><td>0.00028</td><td>0.00028</td><td>：</td></tr><tr><td>1367732612</td><td>0.00028</td><td>0.00033</td><td>0.00028</td><td>0.00138</td><td>0.00208</td><td>：</td></tr><tr><td>2020410163</td><td>0.00888</td><td>0.00028</td><td>0.00028</td><td>0.00028</td><td>0.00058</td><td>：</td></tr><tr><td>3816239594</td><td>0.04918</td><td>0.0022</td><td>0.00259</td><td>0.00285</td><td>0.00028</td><td>：</td></tr><tr><td></td><td>：</td><td>…</td><td>…</td><td>…</td><td>…</td><td>…</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "同理,得到 $\\mathrm { \\Delta B _ { R e p l y } }$ 、Bshare的结点间社交行为发生概率。(4）微博用户的话语影响力位次值与综合排名",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由步骤(3)和公式(15)、公式(16)计算微博用户的话语影响力位次值与综合排名，如表6所示：",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/06ea7c7eed9aa702b1d167d05635aae4fa290e798eb45c9f1c4a4a7add0c48ce.jpg",
+        "table_caption": [
+            "表6微博用户的话语影响力位次值和综合排名(部分)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>综合排名</td><td>ID</td><td>A0</td><td>A1</td><td>A3</td><td>位次值</td></tr><tr><td>1</td><td>3845175940</td><td>湖南卫视爸爸去哪儿</td><td>0</td><td>799</td><td>0.561119259</td></tr><tr><td>2</td><td>3817825983</td><td>小小志kimi粉丝童乐会</td><td>0</td><td>258 746</td><td>0.462998398</td></tr><tr><td>3</td><td>1843633441</td><td>搜狐视频</td><td>1</td><td>2382 073</td><td>0.351090861</td></tr><tr><td>4</td><td>1864391637</td><td>乐视综艺</td><td>1</td><td>40 473</td><td>0.269427536</td></tr><tr><td>5</td><td>2120293981</td><td>Holly大娟</td><td>0</td><td>819</td><td>0.264906412</td></tr><tr><td>6</td><td>1843633441</td><td>搜狐娱乐</td><td>1</td><td>960 717</td><td>0.227777091</td></tr><tr><td>7</td><td>1068803873</td><td>自由主妇</td><td>1</td><td>338 292</td><td>0.195439281</td></tr><tr><td>8</td><td>2020410163</td><td>洛丽塔奇奇大王T</td><td>0</td><td>655</td><td>0.164923929</td></tr><tr><td>9</td><td>1779850265</td><td>爱奇艺娱乐</td><td>1</td><td>2 034 084</td><td>0.156936338</td></tr><tr><td>10</td><td>1565752662</td><td>赫呵</td><td>0</td><td>4844</td><td>0.103160867</td></tr><tr><td>…</td><td>…</td><td>…</td><td>…</td><td>…</td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "根据步骤(2)-步骤(4)可计算获得微博用户的话语影响力的综合排名，由此可发现在T主题话题下有话语影响力的微博用户。假定某企业的营销主题内容与该T主题话题所讨论的内容相一致，据此可在表6中,帮助企业推荐排名靠前的用户，作为企业投送T主题广告的备选影响力用户，从而为企业的社会化营销广告投放提供理论支持和实用方法。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由表6所得的微博用户话语影响力结果可知，本文提供的微博用户话语影响力发现方法不同于新浪微博官方提供的微博用户影响力推荐方法。“新浪微博\"平台是以微博的粉丝数或用户是否'加V评判用户影响力。事实上，微博用户归属于哪个社交圈是由其深培的领域知识、兴趣和能力因素决定，判定用户的影响力效用需要综合考虑他在社交圈中的网络威望、专业背景和社交能力等要素。表6给出用户的话语影响力排名彰显其在上述三个方面的擅长和能力，可为企业选择用户的擅长领域和能力提供决策支持。由此可帮助企业广告传播，使其广告便于目标受众关注、产生兴趣、搜索和行动，促使其购买和分享价值形成口碑。探索利用用户话语影响力因素与广告绩效因素的关系选择合适的广告投放用户方法，使企业广告绩效最大化是一种新的尝试。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "7结语 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "社会性网络及其用户的话语影响力是企业网络营销重要的战略资源，借助用户的话语影响力可为企业投放社会性网络广告，以获取比一般网络广告更优的推广效率和效益。如何在社交网上发现有话语影响力的用户是社会化营销绩效最大化领域中的热点研究问题。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文以社会资本理论视角，研究社交网络上的用户影响力及其影响力效用的形成与增强过程，探索用户之间的信息选择行为和关系、用户社会关系网络和用户的社会资本形成规律，旨在探明社交网上用户话语影响力的社会资本要素构成，发现用户的信息发布能力和信息互动能力是其社会资本的主要内容，由此定义了用户话语影响力社会资本的个人属性、社会属性及其行为关系属性的特征数据，并采用概率论方法计算其影响力属性特征的相关数据，以确定社交网上的影响力用户，从而形成一套基于社会资本的社交网络影响力用户发现的方法。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "研究表明，社交网络上用户间的社交关系其实是一种社会关系网络。用户的影响力由其信息发布能力和信息互动能力构成，它是用户社会资本资源的主要体现，由用户的个人属性和社会属性特征数据表征。建立了用户单关系和多关系的社会关系图谱，由此定义了用户的社交关系行为发生概率和随机游走行为与关系转换概率，以计算用户对其他用户施加信息影响行为发生的可能性(即影响力效用)，由此构建基于社会资本的影响力用户发现模型，描述不同社会关系下的用户社交行为发生概率和关系转换概率，并采用PageRank随机游走思想，计算用户话语影响力的社会资本位次值和综合排名，以发现有影响力的用户，最终形成一套基于社会资本的社交网影响力用户发现的方法，通过对“新浪微博\"用户数据的进行实验，验证其方法的合理有效性。该方法可作为企业挑选有影响力的用户以投放社会化广告的方法，对帮助企业谋求最大化的社会化营销绩效具有重要的价值。下一步的研究工作将针对社交网上用户发布的信息内容，研究用户传播的信息与其影响力增长的贡献关系。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] 何建民，郑哲．社交网络消费者抱怨\"动机-行为\"模型研究 [J]．合肥工业大学学报：社会科学版,2015,29(1):1-9.(He Jianmin,Zheng Zhe.Study of“Motivation-Behavior”Model of Consumers'Complaints on Social Network[J]. Journal of Hefei University of Technology:Social Science,2015,29(1): 1-9.)   \n[2] O'Connor L G, Dillingham L L.Personal Experience as Social Capital in Online Investor Forums [J].Library& Information Science Research,2014,36(1):27-35.   \n[3] Drushel B E.HIV/AIDS,Social Capital,and Online Social Networks [J].Journal of Homosexuality，2013，60(8): 1230-1249.   \n[4] Lin N.Social Capital: A Theory of Social Structure and Action [M].Cambridge University Press,2002.   \n[5] 唐晓波，房小可．融入社会关系的微博排名策略研究[J]. 现代图书情报技术，2013(9):74-81.(Tang Xiaobo,Fang Xiaoke.Research on Microblog Ranking Strategy with the Social Relations [J]. New Technology of Libraryand Information Service,2013(9):74-81.)   \n[6] Subbian K,Sharma D,Wen Z,et al.Finding Influencers in Networks Using Social Capital [C]. In:Proceedings of the 2013IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining.2013: 25-28.   \n[7]Zhu Z,Su J,Kong L.Measuring Influence in Online Social Network Based on the User-Content Bipartite Graph [J]. Computers in Human Behavior, 2015,52:184-189.   \n[8]Ding Z, Wang H, Guo L,et al. Finding Influential Users and Popular Contents on Twiter [C]. In: Proceedings of the 16th International Conference on Web Information System Engineering，Miami,FL，USA． SpringerInternational Publishing,2015: 267-275.   \n[9]Tang B,Lu T, Gu H,et al. Measuring Domain-Specific User Influence in Microblogs:An Actor-Network Theory Based Approach [C].In: Proceedings of the 19th International Conference on Computer Supported Cooperative Work in Design. IEEE,2015: 314-319.   \n[10] Montangero M,Furini M. TRank: Ranking Twitter Users According to Specific Topics [C]. In: Proceedings of the 12th Conference on Consumer Communications and Networking, Las Vegas,NV,USA.IEEE,2015: 767-772.   \n[11]Tarokh MJ,Arian H S,Speily OR B.Discovering Influential Users in Social Media to Enhance Effective Advertisement [J].Advances in Computer Science: An International Journal, 2015, 4(5): 23-28.   \n[12]Liu N,Li L,Xu G,et al. Identifying Domain-Dependent Influential Microblog Users:A Post-Feature Based Approach [C].In:Proceedings of the 28th AAAI Conference on Artificial Intelligence.AAAI,2014: 3122-3123.   \n[13]Ding Z,Jia Y, Zhou B,et al.Mining Topical Influencers Based on the Multi-relational Network in Micro-blogging Sites [J]. Communications,2013,10(1): 93-104.   \n[14]丁兆云，周斌，贾焰，等．微博中基于多关系网络的话题 层次影响力分析[J]．计算机研究与发展，2013，50(10): 2155-2175.(Ding Zhaoyun,Zhou Bin, Jia Yan,et al. Topical Influence Analysis Based on the Multi-Relational Network in Microblogs[J]. Journal of ComputerResearchand Development,2013,50(10): 2155- 2175.)   \n[15]齐超，陈鸿昶，于洪涛．基于用户行为综合分析的微博用 户影响力评价方法[J]．计算机应用研究，2014，31(7): 2004-2007.(Qi Chao, Chen Hongchang,Yu Hongtao.Method ofEvaluating Micro-blog Users’ Influence Basedon Comprehensive Analysis of User Behavior [J].Application Research of Computers,2014,31(7): 2004-2007.)   \n[16]左文明，王旭，樊偿．社会化电子商务环境下基于社会资 本的网络口碑与购买意愿关系[J]．南开管理评论,2014(4): 140-150.(Zuo Wenming,Wang Xu,Fan Chang.Relationship Between Electronic Word of Mouth and Purchase Intention in Social Commerce Environment: A Social Capital Perspective [J].Nankai Business Review,2014(4):140-150.)   \n[17]Wu X,Kumar V. The Top Ten Algorithms in Data Mining [M].Chapman and Hall/CRC,2009.   \n[18]毛佳昕，刘奕群，张敏，等．基于用户行为的微博用户社 会影响力分析[J]．计算机学报，2014,37(4):791-798.(Mao Jiaxin,Liu Yiqun,Zhang Min,etal.SocialInfluence Analysis forMicro-blog User Based on User Behavior [J].Chinese Journal of Computers,2014,37(4): 791-798.)   \n[19]Russell MA.Mining the Social Web:Data Mining Facebook, Twitter,LinkedIn,Google+,GitHub,and More [M].O'Reilly Media,2013.   \n[20]Li L，Sun L,Ning G. Deterioration Prediction of Urban Bridges on Network Level Using Markov-Chain Model [J]. Mathematical Problems in Engineering,2014,9(1):129-145. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "何建民：提出研究思路，设计研究方案，论文最终版本修订;  \n殷澍：采集、清洗和分析数据，进行实验;  \n何建民，殷澍：论文起草。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "利益冲突声明：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "所有作者声明不存在利益冲突关系。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "支撑数据：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "支撑数据见期刊网络版 http://www.infotech.ac.cn。  \n[1]殷.#爸爸去哪儿#话题下微博用户发布、转发、回复博文情况基本数据.xIsx.#爸爸去哪儿#话题下微博用户发布、转发、回复博文情况基本数据.  \n[2]殷澍.微博用户基本信息表.xlsx.微博用户基本信息表.[3]殷．微博用户信息发布能力计算结果和用户类型数据.xlsx.微博用户信息发布能力计算结果和用户类型数据，[4]殷澍．微博结点用户关注关系邻接矩阵数据.xlsx.微博结点用户关注关系邻接矩阵数据，  \n[5]殷．微博用户“浏览\"关系下的社交行为发生概率矩阵数据.xlsx.微博用户“浏览\"关系下的社交行为发生概率矩阵数据.[6]殷澍．微博用户“回复\"关系下的社交行为发生概率矩阵数据.xlsx.微博用户“回复\"关系下的社交行为发生概率矩阵数据，[7]殷澍．微博用户“分享\"关系下的社交行为发生概率矩阵数据.xlsx.微博用户“分享\"关系下的社交行为发生概率矩阵数据，[8]殷.Bread下的微博用户结点行为发生概率矩阵数据.xlsxBread下的微博用户结点行为发生概率矩阵数据，  \n[9]殷.Breply下的微博用户结点行为发生概率矩阵数据.xlsx.Breply下的微博用户结点行为发生概率矩阵数据  \n[10]殷．Bshare下的微博用户结点行为发生概率矩阵数据.xlsx.Bshare下的微博用户结点行为发生概率矩阵数据.  \n[11]殷．矩阵B.xlsx.矩阵B.  \n[12]殷.矩阵B转置.xlsx.矩阵B转置.  \n[13]殷澍．幂迭代法计算微博用户位次值的迭代步骤和数值.xlsx.幂迭代法计算微博用户位次值的迭代步骤和数值.[14]殷澍．幂迭代主特征值法计算得到的微博用户排名及其位",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "次值和数值.xlsx.幂迭代主特征值法计算得到的微博用户排名及其位次值和数值.[15]殷澍.数据逻辑关系注释.txt.数据逻辑关系注释.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "收稿日期:2015-10-26   \n收修改稿日期:2016-01-15 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Identifying Influential Users in Social Networks ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "He JianminYin Shu (School of Management, Hefei University of Technology, Hefei 23ooo9, China) (Key Laboratory of Process Optimization and Intelligent Decision-making, Ministry of Education, Hefei Universityof Technology,Hefei 23ooo9,China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract:[Objective]This paper aims to identifythe influential users in social network systems,which could helpus maximize theonline advertising efects.[Methods]First,we constructed the basic graphs to describe relationship among the social network system users from the perspective of social capital measurement. Second,we built the influence measurement model basedon the newly constructed graphs.Finall,we identified the influential users by calculating the probabilities of users’random browsing behaviors.[Results]The proposed method could identify users withbig online influence.They were more capable of affecting others inrelated fields than the influential users listed by the Sina Weibo.[Limitations]The proposed method did not evaluate the impacts of user-generated contents in social network systems while measuring the users' influence.[Conclusions]The proposed method could help business owners identify influential users in the social network system to improve the effectiveness of online advertisements. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Online advertisement placementSocial relationship graphsSocial capital measurements of users Identification model of influential users ",
+        "page_idx": 10
+    }
+]

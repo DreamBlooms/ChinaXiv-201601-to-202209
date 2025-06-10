@@ -1,0 +1,108 @@
+# 基于体外组装核糖核蛋白（Ribonucleoprotein）形式的CRISPR/Cas9
+
+# 基因编辑方法研究进展
+
+潘海峰 杨晗 于思远 李廷栋 葛胜祥（厦门大学分子疫苗学与分子诊断学国家重点实验室厦门361005）
+
+摘要 CRISPR(Clusteredregularlyinterspacedshortpalindromicrepeats)/Cas(CRISPR-associated)系统是近年来发展起来的新型的基因编辑技术，在生物医学领域得到广泛应用。CRISPR/Cas9系统需要在gRNA存在的条件下通过Cas9蛋白实现对基因组的定点编辑，通常情况下以慢病毒感染或质粒转染等方式提供Cas9 和gRNA。但是，这些方式容易引起免疫反应及基因片段不可控插入，存在一定的风险，限制了CRISPR/Cas9 技术在机体的应用。近年来发展起来的基于体外组装的核糖核蛋白（Ribonucleoprotein,RNP）转导入胞的策略由于快捷安全、编辑的脱靶率低等优势引起广泛关注。本文对Cas9RNP的转导方式及其应用进行了总结，并就其目前存在的问题进行探讨,以期为CRISPR/Cas9技术的进一步发展提供依据，为拓展其应用奠定基础。
+
+关键词 CRISPR/Cas9； Ribonucleoprotein; CPP-RNP
+
+# Progress in gene editing methods of CRISPR/Cas9 based on in vitro assembly of Ribonucleoprotein
+
+PAN HaifengYANG Han YU Siyuan LI Tingdong GE Shengxiang\* Abstract The CRISPR (Clustered ordered interspaced short palindromic repeats)/Cas (CRISPR-associated) system is a novel gene editing technology developed in recent years,which is widely used in the biomedical fields.The Cas9 protein and gRNAis essential forthe site-specific editing of the genome by CRISPR/Cas9 system. Usually, Cas9 and gRNA are provided by lentivirus infection or plasmid transfection. However, these approaches are likely to cause adverse effects such as immune reactions and uncontrolled insertion of gene fragments, and limits the application of CRISPR/Cas9 systems. The strategy of RNP transduction based on in vitro assembly of Cas9 and gRNA developed in recent years has attracted wide attention because of its advantages such as rapid, safe and low off-target effect. The way of transduction of Cas9 RNP and its application are summarized, and its current problems are discussed in order to provide basis for the further development of CRISPR/Cas9 technology and lay a foundation for its application.
+
+Key words CRISPR/Cas9；Ribonucleoprotein; CPP-RNP
+
+# 1CRISPR/Cas9基因编辑系统
+
+CRISPR/Cas9是近年来发展起来的一种新型的基因编辑系统，自问世以来受到极大的关注。该系统是一种广泛存在于细菌与古细菌中的[1,2]由RNA介导的可遗传的获得性免疫系统。目前已知的CRISPR/Cas系统共有3种类型[3]，研究和应用较多的是II型系统，包括具有引导作用的 sgRNA(single guide RNA，sgRNA)和具有剪切功能的Cas9 蛋白。目前为止，Cas9-sgRNA 基因靶向编辑系统已成功的实现在人类细胞、小鼠、斑马鱼、酵母、细菌、果蝇、线虫及水稻等作物中的基因编辑[4-8]。相对于锌指核酸酶[9,10](zinc finger nuclease，ZFNs)及转录激活因子样效应因子核酸酶[11,12]( transcription activator-like effector nucleases，TALENs)等其他基因编辑技术而言，CRISPR/Cas9技术操作更加简便，并且基因打靶效率较高。
+
+# 2 Cas9/gRNA导入方式及其RNP的优势
+
+Cas9 和 gRNA在胞内的高效表达直接影响CRISPR/Cas9系统的编辑效率。Cas9 和gRNA可以通过多种方式导入细胞，包括质粒转染、病毒感染、直接转染体外转录的Cas9 mRNA及gRNA,以及转导Cas9蛋白和gRNA复合物（RNP）。在这些方法中，质粒转染和病毒感染的方法应用最为广泛，但是，无论是质粒转染，还是病毒感染，都可能导致外源基因的不可控插入[13]，并引起免疫反应[14],带来潜在的威胁；而直接转染Cas9 mRNA和gRNA的方式虽然避免了外源载体所带来的片段插入的发生，但存在着RNA易降解、活性不易确定[15]等问题。
+
+RNP 技术是近年来发展起来的一种新型的Cas9、gRNA导入方法，其原理如图1所示：将Cas9 蛋白以及体外转录的gRNA进行孵育，二者通过静电相互作用以及结构嵌合性[16]，在体外组装形成复合物，然后通过转导方式将其导入待编辑细胞即可实现非同源性末端重组（non-homologous end joining,NHEJ)，在供体 DNA存在的条件下还可以实现特定基因的修复和插入。
+
+相对于其它方式，RNP的编辑效率的优势主要体现在以下几个方面（表1)：1．与mRNA转染类似，RNP方式避免了外源基因插入的风险[14]，不容易引起机体的免疫反应，但相比mRNA，不但Cas9 蛋白更加稳定，而且Cas9与gNRA形成复合物可以提高 gRNA 的稳定性[17]，有利于推动CRISPR/Cas9 技术在临床以及动植物改造中的应用；2.不同于质粒转染或病毒感染方式Cas9蛋白会在细胞内持续表达，Cas9蛋白转导入胞后一定时间即会降解，在一定程度上可以降低脱靶效应[18]；3．操作简便快捷，在体外将Cas9 蛋白和gRNA 混合，转导后即可进行基因编辑，并且由于不需要转录、翻译的过程，RNP方式可以实现即时快速的基因编辑。
+
+![](images/f089852491ce1f8fb9656429acc071e249d7d5de0bea398c7ae8137470a142f6.jpg)  
+图1Cas9RNP的组装及其作用机制
+
+表1CRISPR/Cas9不同形式下基因编辑的比较  
+Table 1 Comparison of gene editing in different formats of CRISPR/Cas9   
+
+<html><body><table><tr><td></td><td>质粒/病毒</td><td>体外转录Cas9 mRNA及gRNA</td><td>RNP</td><td>参考文献</td></tr><tr><td>编辑效率</td><td>++</td><td>++</td><td>+++</td><td>[19]</td></tr><tr><td>插入突变</td><td>+++</td><td></td><td></td><td>[13]</td></tr><tr><td>免疫性</td><td>+++</td><td>++</td><td>+</td><td>[14]</td></tr><tr><td>脱靶率</td><td>+++</td><td>++</td><td>+</td><td>[18]</td></tr><tr><td>组分胞内表达时间</td><td>>12h</td><td>>2h</td><td></td><td>[18]</td></tr><tr><td>组分稳定性</td><td>+++</td><td>+</td><td>++</td><td>[15][17]</td></tr></table></body></html>
+
+# 3Cas9RNP的转导方式及应用
+
+RNP 技术开启了CRISPR/Cas9系统应用的新篇章，而Cas9/gRNA复合物形成后需要转导入胞，才能发挥其基因编辑功能。传统的RNP转导方式分为物理和化学方式，除此之外，也可以通过纳米载体及细胞穿膜肽（CPP）介导RNP入胞。
+
+# 3.1 物理方式
+
+物理方法主要包括电穿孔，核转染，显微注射等，利用相关电转仪器及显微设备将RNP复合物送达至细胞质或细胞核，适用性广，近年来被广泛运用于动植物基因改造工程。例如，Kathrin Schumann[20]等运用电穿孔技术将RNP 转导入胞成功得到cxcr4低表达的T细胞，并且利用该方法将外源基因导入特异性T细胞当中，初步证明了RNP技术应用于人类原始T细胞治疗的潜力；AngelaMeccariello[21等人运用显微注射技术对于入侵性农业害虫地中海果蝇色素沉着基因进行敲除，在晚期胚胎和幼虫中成功导致其角膜缘引起节段性突变，为制定病害虫防治策略提供新的思路；2017年Brett T Staahl[22]等利用RNP显微注射技术对小鼠颅内进行基因敲除，证明了RNP运用的特异性，其精确安全地将RNP递送于成年动物的神经元细胞中，这也预示着将来RNP复合物运用于组织特异性编辑和治疗神经疾病的潜力；核转染是一种利用特定的仪器程序和特异性转染液相配合的高效的非病毒转染方法，Steven Lin[23]等利用核转染将RNP运用于细胞同源重组（HDR），结合细胞周期药物能显著提高HDR效率。
+
+# 3.2化学方式
+
+虽然物理的转染方式相对简单，可以实现对难转染细胞进行转染，但是其易对机体产生生理伤害[24]，运用于体内治疗将具有很大挑战。相比之下，化学方法对细胞伤害较小，适用性更广，其中以脂质体及聚合物为基础的转染运用较为广泛。RNP利用本身电荷特性可与脂质体结合，通过膜融合或内吞作用将复合物导入细胞内。2015年 Zuris 等[25]及Liang 等[26]分别证明了Lipofectamine 2000 和Lipofectamine 3000与RNP运用于体内和体外基因编辑的可行性。JeWookWoo[13]利用聚乙二醇（PEG）将RNP 转染于拟南芥，烟草，莴苣和水稻的植物原生质体中，并在再生植物中实现了高达 $46 \%$ 的定向诱变，由于没有引入外源基因，从而减少了基因改造生物法规（GMO）[27]的限制，为CRISPR/Cas9 技术在植物生物技术和农业广泛应用提供了可能性。随着化学材料领域的发展，聚合物介导的转染方法因其较低的免疫性以及更广的适用性同样被广泛应用于RNP的递送。Huahua Yue 等[28]通过构建聚乙烯亚胺（polyethylenimine，PEI）-石墨烯的联合多聚物将RNP递送入人类细胞中实现了高达 $39 \%$ 的编辑效率，并表现出极高的稳定性。其他的多聚物转运工具还包括了壳聚糖(Chitosan）、poly(L-lysine) (PLL)、树枝状聚合物（Dendrimers）[29]等及其改良形式，也可被运用于RNP 的入胞转运。虽然化学转染方式相对于物理方式，减小对于细胞的直接性损伤，但大部分转染试剂在难转染细胞如肿瘤细胞未能取得良好的转染效果，转染试剂对于细胞的的毒性问题也成为了该方式取得广泛应用的限制因素[24]。
+
+# 3.3纳米载体介导RNP入胞
+
+近年来纳米颗粒载体被证明是一种更为高效的基因和蛋白递送工具[30-33]，可进一步提高RNP基因编辑的效率。其中以脂质体及聚合物为基础的纳米运载系统运用较为广泛。Sun 等[34]运用DNA 线团状纳米粒（DNA nanoclew,NC)包裹RNP后，在外层的阳离子多聚物PEI的进一步组装后，实现对EGFP报告基因进行 $40 \%$ 比率左右的敲除。2017年ACSNANO杂志同样报道了纳米多聚物在转运RNP上的应用[35]，该作者利用阳离子精氨酸纳米金颗粒（cationic arginine goldnanoparticles，ArgNPs)作为组装的模块化积木，Cas9 蛋白融合表达谷氨酸肽，通过ArgNPs与谷氨酸肽的电荷作用自组装形成RNP-ArgNP纳米复合物，通过直接渗透进入细胞，进行高效基因编辑。Kunw0o Lee 等[36]利用金纳米颗粒结合RNP 及模板DNA，成功地对多种细胞进行编辑并有效地纠正导致小鼠Duchenne肌营养不良的DNA突变。纳米载体虽然已有较多报道应用于RNP递送，但本身也存在着制备复杂、稳定性不佳[37]等缺陷，其结合CRISPR/Cas9系统的实用性还需进一步探究。
+
+# 3.4 CPP介导RNP入胞
+
+2014年，Ramakrishna[38]等通过化学方式将细胞穿膜肽(cell-penetratingpeptide,CPP)m9R与Cas9 进行交联，而 gRNA可以通过静电作用与CPP结合形成纳米颗粒，CPP分别介导Cas9 和 gRNA入胞并实现的内源基因的敲除。尽管该研究并未在体外进行CPP-RNP 的组装，但对CPP介导的 RNP 转导具有一定的提示意义。相比物理方式和化学方式，CPP通常是利用静电相互作用其与带负电的细胞表面成分结合并随后穿过细胞膜，最终将生物大分子转运入胞，无需转染试剂或仪器，其生物相容性更好[39]，对细胞和机体的损伤更小（表2）。但是，在化学交联中，CPP随机性的与Cas9表面的氨基或羧基基团反应形成共价键，可能会影响Cas9的活性，使得编辑效率受到影响；而融合表达则可以通过优化CPP 的位置以及接头序列，从而最大限度的保留Cas9的活性。CPP与Cas9 融合表达后，再与体外转录获得的gRNA进行组装，形成CPP-RNP复合物，可实现RNP 转运入胞,在核定位信号(Nuclear localization sequence,NLS)的引导下，RNP从内吞小泡释放后进入细胞核从而实现基因编辑（图2）。
+
+表2RNP不同转导方式特点比较  
+Table 2 Comparison of different transduction delivery system of RNP   
+
+<html><body><table><tr><td></td><td>物理转导</td><td>化学转导</td><td>纳米载体 介导</td><td>细胞穿膜肽介 导</td><td>参考文献</td></tr><tr><td>生理伤害</td><td>高</td><td>中</td><td>中</td><td>低</td><td>[24][40]</td></tr><tr><td>主动靶向性</td><td>无</td><td>无或弱</td><td>弱</td><td>中</td><td>[19][40][41]</td></tr><tr><td>借助仪器</td><td>是</td><td>香</td><td>否</td><td>香</td><td>[40]</td></tr><tr><td>转染试剂使用</td><td>无或需要</td><td>需要</td><td>无或需要</td><td>无</td><td>[40]</td></tr><tr><td>转导效率</td><td>高</td><td>中</td><td>中</td><td>中</td><td>[19][31]</td></tr><tr><td>血清耐受性</td><td>中</td><td>低</td><td>中</td><td>低</td><td>[19]</td></tr><tr><td>细胞兼容性</td><td>强</td><td>中</td><td>中</td><td>强</td><td>[39]</td></tr></table></body></html>
+
+![](images/722f92af5b7a254639250f32e5c2667d5ad7364cb5c6e34ca05c2380420bb865.jpg)  
+图2CPP-Cas9RNP复合物入胞实现基因编辑示意图  
+Fig.2 The diagram of gene editing of CPP-Cas9 RNP complex
+
+# 4结语
+
+CRISPR/Cas9基因编辑技术由于操作简便、效率高等优势具有广阔的应用前景，但是，Cas9及sgRNA的转运入胞的效率及安全性限制了其应用的范围，RNP方式克服了质粒及病毒载体等传统形式存在外源基因插入风险等问题，可实现快速有效的基因编辑并降低脱靶率。相比于物理、化学转导方式及纳米载体，CPP具有更高的生物相容性，为实现CRISPR/Cas9基因编辑提供了新的手段。但是，目前，CPP介导的生物大分子入胞在入胞效率以及靶向性方面仍有待进一步提高，筛选穿膜能力或特异性更强的CPP、增强CPP入胞后的逃逸效率等方面具有较大研究潜力和空间。CPP研究的进一步深入，将有助于进一步提高基于RNP 方式的CRISPR/Cas9基因编辑的效率，推动CRISPR/Cas9基因编辑系统的应用。
+
+# 参考文献
+
+[1]ISHINO Y, SHINAGAWA H, MAKINO K, et al. Nucleotide sequence of the iap gene,responsible for alkaline phosphatase isozyme conversion in Escherichia coli,and identification of the gene product [J]. Journal of bacteriology, 1987, 169(12): 5429-33. [2]QI L S, LARSON M H, GILBERT LA, et al. Repurposing CRISPR as an RNA-guided platform for sequence-specific control of gene expression [J]. Cell,2013,152(5): 1173-83.
+
+[3] JIANG W, BIKARD D, COX D,et al. RNA-guided editing of bacterial genomes using CRISPR-Cas systems [J]. Nature biotechnology,2013,31(3): 233-9.   
+[4]NEKRASOVV,STASKAWICZ B,WEIGEL D,et al.Targeted mutagenesis in the model plant Nicotiana benthamiana using Cas9 RNA-guided endonuclease [J]. Nature biotechnology, 2013,31(8): 691-3. [5]DOUDNA JA, CHARPENTIER E. Genome editing. The new frontier of genome engineering with CRISPR-Cas9 [J]. Science, 2014, 346(6213): 1258096.   
+[6]QIN W, LU X, LIN S. Programmable base editing in zebrafish using a modified CRISPR-Cas9 system [J].Methods,2018,   
+[7]SUZUKI K,TSUNEKAWA Y, HERNANDEZ-BENITEZ R,et al.In vivO genome editing via CRISPR/Cas9 mediated homology-independent targeted integration [J]. Nature, 2016,540(7631): 144-9.   
+[8]JAGANATHAN D, RAMASAMY K, SELLAMUTHU G, et al. CRISPR for Crop ImproVement: An Update Review [J]. Frontiers in plant science, 2018,9(985.   
+[9]GAJ T, GERSBACH C A, BARBAS C F,3RD. ZFN,TALEN,and CRISPR/Cas-based methods for genome engineering [J]. Trends in biotechnology, 2013,31(7): 397-405.   
+[10] CHANDRASEGARAN S. Recent advances in the use of ZFN-mediated gene editing for human gene therapy[J]. Cell& gene therapy insights, 2017,3(1): 33-41.   
+[11] MOSCOU M J，BOGDANOVE A J.A simple cipher governs DNA recognition by TAL effectors [J]. Science,2009,326(5959):1501.   
+[12] Bl H, YANG B. Gene Editing With TALEN and CRISPR/Cas in Rice [J]. Progress in molecular biology and translational science, 2017, 149(81-98.   
+[13] WOO JW, KIM J，KWON S I,et al. DNA-free genome editing in plants with preassembled CRISPR-Cas9 ribonucleoproteins [J]. Nature biotechnology, 2015,33(11):1162-4.   
+[14] CHEN X, GONCALVES M A. Engineered Viruses as Genome Editing Devices [J]. Molecular therapy : the journal of the American Society of Gene Therapy, 2016,24(3): 447-57.   
+[15] KIM S, KIM D,CHO S W,et al. Highly efficient RNA-guided genome editing in human cells via delivery of purified Cas9 ribonucleoproteins [J]. Genome research, 2014, 24(6): 1012-9.   
+[16] NISHIMASU H, RAN F A, HSU P D,et al. Crystal structure of Cas9 in complex with guide RNA and target DNA [J]. Cell,2014, 156(5): 935-49.   
+[17] JINEK M, JIANG F, TAYLOR D W,et al. Structures of Cas9 endonucleases reveal RNA-mediated conformational activation [J]. Science, 2014,343(6176): 1247997.   
+[18] BURGER A, LINDSAY H, FELKER A,et al. Maximizing mutagenesis with solubilized CRISPR-Cas9 ribonucleoprotein complexes [J]. Development, 2016,143(11): 2025-37.   
+[19] WANG H X, LI M,LEE C M,et al. CRISPR/Cas9-Based Genome Editing for Disease Modeling and Therapy: Chalenges and Opportunities for Nonviral Delivery [J]. Chemical reviews，2017，117(15): 9874-906.   
+[20] SCHUMANN K,LIN S, BOYER E,et al. Generation of knock-in primary human T cels using Cas9 ribonucleoproteins [J].Proceedings of the National Academy of Sciences of the United States of America,2015,112(33): 10437-42.   
+[21] MECCARIELLO A, MONTI S M,ROMANELLI A, et al. Highly efficient DNA-free gene disruption in the agricultural pest Ceratitis capitata by CRISPR-Cas9 ribonucleoprotein complexes [J]. Scientific reports, 2017,7(1): 10061.   
+[22] STAAHL B T, BENEKAREDDY M, COULON-BAINIER C,et al. Efficient genome editing in the mouse brain bylocal deliveryof engineered Cas9 ribonucleoprotein complexes[J]. Nature biotechnology, 2017, 35(5): 431-4. [23] LIN S, STAAHL B T, ALA R K, et al. Enhanced homology-directed human genome engineering by controlled timing of CRISPR/Cas9 delivery [J]. eLife,2014,3(e04766.   
+[24] WANG M, GLASS Z A, XU Q. Non-viral delivery of genome-editing nucleases for gene therapy [J]. Gene therapy,2017,24(3): 144-50.   
+[25] ZURIS JA, THOMPSON D B, SHU Y, et al. Cationic lipid-mediated delivery of proteins enables efficient protein-based genome editing in vitro and in vivo [J]. Nature biotechnology, 2015,33(1): 73-80.   
+[26] LIANG X, POTTER J, KUMAR S,et al. Rapid and highly efficient mammalian cell engineering via Cas9 protein transfection [J]. Journal of biotechnology, 2015,208(44-53.   
+[27] KANCHISWAMY C N,MALNOY M, VELASCO R, et al. Non-GMO geneticall edited crop plants [J]. Trends in biotechnology, 2015,33(9): 489-91.   
+[28] YUE H, ZHOU X, CHENG M,et al. Graphene oxide-mediated Cas9/sgRNA delivery for efficient genome editing [J]. Nanoscale, 2018,10(3): 1063-71.   
+[29] LI L,HE Z Y,WEl X W,et al. Chalenges in CRISPR/CAS9 Delivery: Potential Roles of Nonviral Vectors [J]. Human gene therapy, 2015, 26(7): 452-62.   
+[30] GLASS Z, LEE M,LI Y,et al. Engineering the Delivery System for CRISPR-Based Genome Editing[J]. Trends in biotechnology, 2018,36(2): 173-85.   
+[31] KESHARWANI P,IYER A K.Recent advances in dendrimer-based nanovectors for tumor-targeted drug and gene delivery [J]. Drug discovery today, 2015,20(5): 536-47.   
+[32] JEONG S H,JANG JH,CHO H Y,et al. Soft- and hard-lipid nanoparticles: a novel approach to lymphatic drug delivery [J]. Archives of pharmacal research, 2018,   
+[33] DIAZ D, CARE A, SUNNA A. Bioengineering Strategies for Protein-Based Nanoparticles [J]. Genes, 2018, 9(7):   
+[34] SUN W, JI W, HALL JM,et al. Self-assembled DNA nanoclews for the eficient delivery of CRISPR-Cas9 for genome editing [J]. Angewandte Chemie,2015,54(41): 12029-33.   
+[35]MOUTR， RAY M， YESILBAG TONGA G， et al. Direct CytosOlic Deliveryof CRISPR/Cas9-Ribonucleoprotein for Efficient Gene Editing [J]. ACS nano, 2017,11(3): 2452-8.   
+[36] LEE K, CONBOY M, PARK H M,et al. Nanoparticle delivery of Cas9 ribonucleoprotein and donor DNA in vivo induces homology-directed DNA repair [J]. Nature biomedical engineering， 2017, 1(889-901.   
+[37] WANG M, ALBERTI K, VARONE A, et al. Enhanced intracelllar siRNA delivery using bioreducible lipid-like nanoparticles [J].Advanced healthcare materials, 2014,3(9):1398-403.   
+[38] RAMAKRISHNA S，KWAKU DAD A B，BELOOR J，et al. Gene disruption by cell-penetrating peptide-mediated delivery of Cas9 protein and guide RNA [J]. Genome research,2014,24(6): 1020-7. [39] JONES S W， CHRISTISON R， BUNDELL K， et al. Characterisation of cell-penetrating peptide-mediated peptide delivery [J]. British journal of pharmacology,2005,145(8): 1093-102. [40] KAESTNER L， SCHOLZ A， LIPP P. Conceptual and technical aspects of transfection and gene delivery [J]. Bioorganic $\&$ medicinal chemistry letters, 2015,25(6): 1171-6.   
+[41] ROUET R,THUMA B A, ROY M D,et al. Receptor-Mediated Delivery of CRISPR-Cas9 Endonuclease for Cell-Type-Specific Gene Editing [J]. Journal of the American Chemical Society， 2018，140(21): 6596-603.

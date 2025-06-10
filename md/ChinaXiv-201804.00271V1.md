@@ -1,0 +1,159 @@
+# DOI:10.5846/stxb201703020342
+
+王壮,杨万勤,吴福忠,常晨晖，曹瑞,汤国庆,汪沁,杨开军.高山森林林窗对苔藓及土壤微量元素含量的影响.生态学报,2018,38（6)211-211. Wang Z,YangW，WuFZagC,ao,ngG，agQYangKJetsofforestgsocroelentocentratiosfdo in an alpine forest.Acta Ecologica Sinica,2018,38(6) :2111-2118.
+
+# 高山森林林窗对苔藓及土壤微量元素含量的影响
+
+王壮},杨万勤1,2，\*,吴福忠1,²,常晨晖1,曹瑞',汤国庆¹,汪沁',杨开军  
+1 四川农业大学生态林业研究所，长江上游林业生态工程省级重点实验室，成都611130  
+2 长江上游生态安全协同创新中心，成都611130
+
+摘要：苔藓植物和土壤在森林元素循环过程中具有重要作用,其元素含量特征可能受林窗和生长基质的影响,但有关不同林窗位置对苔藓和土壤微量元素含量影响的研究尚未见报道。为理解林窗更新对森林苔藓和土壤微量元素含量及分布特征的影响,于2016年10月,调查研究了在川西高山岷江冷杉（Abies faxoniana）原始林林下、林缘、林窗和旷地中地表苔藓和石生苔藓（204号 $\mathrm { N a } \mathrm { , Z n \mathrm { , M g \mathrm { , M n \mathrm { , C a } \mathrm { , F e } } } }$ 元素含量以及对应土壤有机层和矿质土壤层的元素含量。结果表明;川西高山森林地表苔藓与石生苔藓的 $\mathrm { N a } \ \mathrm { , Z n \mathrm { , } M g \Omega , F e \Omega , C a }$ 含量差异不显著，地表苔藓的 $\mathbf { M } \mathbf { n }$ 元素含量显著高于石生苔藓;土壤有机层的 $\mathrm { { Z n , M g , M n } }$ 和Ca元素含量显著高于矿质土壤层,但Fe元素含量则相反， $\mathrm { { N a } }$ 元素含量差异不显著。林窗位置对地表苔藓和石生苔藓 $\mathrm { { N a } , \mathrm { { Z n } , \mathrm { { C a } } } }$ 和Fe元素含量具有相似的影响,均以林窗和旷地相对较高;石生苔藓与地表苔藓的 $\mathbf { M } \mathbf { n }$ 含量对林窗的响应存在差异，石生苔藓的 $\mathbf { M } \mathbf { n }$ 含量以林下最高,而地表苔藓则以林窗中心最高。但是,林窗对苔藓植物 $\mathbf { M g }$ 元素含量的影响不显著。森林林窗位置对土壤有机层和矿质土壤层微量元素含量具有相似的影响。Na元素含量以旷地土壤最高,而 Zi $1 \sqrt { \mathrm { M n } \sqrt { \mathrm { G a } } }$ 和 Fe 含量以林窗中心的土壤最高;除元素 Na,所有微量元素均以林缘的土壤最低。此外,地表苔藓的 $\mathrm { { N a } , \mathrm { { Z n } , \mathrm { { M n } } } }$ 和 $ { \mathrm { \hat { C } } }  { \mathrm { a } }$ 含量显著高于土壤,而土壤中的Fe 含量显著高于苔藓植物;苔藓中Ca 和 $\mathbf { M } \mathbf { n }$ 元素含量与土壤的Ca 和Mn元素含量呈显著正相关。可见,高山森林林窗更新过程在不同程度上影响了森林地表苔藓和土壤对微量元素的吸存特征,为进一步了解林窗和苔藓植物在高山森林生态系统物质循环中的作用提供了新的角度。 )
+
+关键词：林窗位置;微量元素；附生苔藓；土壤;高山森林
+
+# Effects of forest gaps on microelement concentrations of mosses and soil in an alpine forest A
+
+WANG Zhuang'，YANG Wanqin1, 2WUFuzhog，CHANGChenu’，CAORui，ANGGuoqng'，in,YANG Kaijun1
+
+1KeyLbotolstlUei   
+2 Collaborative Innovation Center of Ecological Security in Upper Yangtze River, Chengdu 61113O,China
+
+Abstract:Mossisan essential component in most forest ecosystems，and plays critical roles in material cycling and water retention.It is alsoan indicator of environmental change.An increasing numbers of studies have demonstrated that the growth andreproduction of moses can be determinedbylight regime，substrate，and hydro-thermal dynamics. Theoretically，a forestgap might improve the growth and element uptakes by mosses on different growth substratesby alteringthelightregimesandthetemperatureand moisture dynamicsonthe forestfloorthrough theredistributionof light and precipitation.Asyet，the efects offorest gappositionon microelement uptakes by moses on diferent growth substrates remain unclear.Tounderstand theeffectof gapregenerationon microelement uptakes bymosses，theconcentrationsof sodium（Na），zinc $( \mathrm { Z n } )$ ，magnesium $( \mathbf { \nabla } \mathbf { M } \mathbf { g } )$ ，manganese（Mn），calcium（Ca），and iron（Fe）in epilithic and epigeic mosses，and inthesoil organicand mineral soil layers were investigated in open areas，the gapcenter,the gap edge，and theclosedcanopyinanalpine fir（Abies faxoniana）forest in western Sichuan during October 2O16.Nosignificant differences for the concentrations Na, $Z _ { \mathrm { { n } } }$ ， $\mathbf { M } \mathbf { g }$ ， Fe，and Ca were recorded between epilithic mosses and epigeic mosses, while the Mn concentration in epigeic mosses were significantly higher than those in epilithic mosses.The Zn, $\mathbf { M } \mathbf { g }$ ， Mn，and Ca concentrations in thesoilorganic layer were significantly higher thanthe mineral soillayer,buttheFeconcentrations in themineral soillayer weresignificantly higher thanthesoilorganic layer.However，no significantdiference wasobserved in Na concentrations between thesoil organic layer and themineral soil layer.Gap positionshad similar efectson the concentrations of Na,Zn，Ca，and Fe in epilithic mosss and epigeic mosses，and the mosses in the gapcenter and open areas had higher Na,Zn，Ca，andFeconcentrations.Incontrast，diferent responses to gap positions were found in Mn concentrations between epilithicand epigeic moses.Higher Mnconcentrations in epilithic moss were found in the microenvironment under the closed canopy，whereas higher Mn concentrations in epigeic mosswere observed inthe gap center microenvironment.However，gap positions had onlyslight efects on Mg concentrations in mossplants.Forestgap positions had similar efectsonmicroelement concentrations in thesoil organic layerand mineralsoil layer.Higher Na concentrations in the soilorganicand mineral soillayers were found in the open area，while higher Zn，Mn,Ca，andFe concentrations inthesoils were foundatthegapcenter.Thelowestconcentrations ofthe measured microelements inthesoil organicand the mineral soil layers were found at thegap edge.In adition，theNa，Zn，Mn，and Caconcentrations in epigeicmosses were significantly higher than those in the coresponding soils，while theFe concentrationsshowedan oppositetrend.Furthermore，theCaand Mn concentrations in moss plants corelated positivelyand significantlywith theCa and Mnconcentrations inthe coresponding soils.In conclusion，gap regeneration affctsmicroelement sequestration by mosses and soils in an alpine forest，which provides new insights into the roles of forest gapregeneration and mosses on bioelement cycles in the alpine forest ecosystem.
+
+Key Words: forest gap；microelements ；epiphytic moss ； soil;alpine forest
+
+林窗作为一种中小尺度干扰在森林生态系统中广泛存在,并影响森林水热条件、调节林内小环境[1-2]苔藓植物由于其独特的结构及对重金属元素的富集效应长期以来作为环境监测者及指示植物,但对苔藓中微量元素缺乏必要关注[3-4]。通常认为大气沉降是森林中元素输入的主要途径[5]。林冠层会显著改变森林降水分布[6],进而改变森林元素输人途径[7]。一方面,旷地和林窗缺少林冠遮挡,穿透雨量较高,林缘和林下林冠截留则会降低森林穿透雨降雨量;另一方面,林冠附生植物和叶片对沉降中的元素和养分也存在较强的吸收作用[8-9],由于旷地和林窗中缺乏植物叶片遮挡可能会导致强降水对苔藓及土壤中元素的淋洗作用[0-]此外,林窗环境也会影响苔藓层斑块特征和群落组成[12],这导致不同林窗位置苔藓植物对元素吸收存在差异。因此苔藓植物中微量元素可能受林窗调节下的多种因素的影响,而林缘和林下林冠层可能导致林缘和林下苔藓和土壤中微量元素含量较低。但关于森林林窗位置改变导致苔藓植物中元素具体含量特征少有研究。
+
+土壤养分和元素分布特征受林窗调节下地表植被的显著影响[13]。已有研究表明,林窗改变地表微环境并促进土壤养分释放[14-15]。凋落物、土壤有机层厚度以及矿质土壤层厚度都会影响土壤中元素含量变化,而降水淋洗以及元素移动性也会影响元素在土壤中的分布特征[16-18]。林窗显著影响凋落物分解和降水途径,从而改变土壤元素分布特征。但关于土壤元素含量特征随林窗位置变化尚不清晰。此外，在前期研究中发现地表苔藓植物中部分元素与腐殖质层中元素含量存在较强相关性[18]。而苔藓层通过对降水截留改变大气沉降中元素对土壤的输人[17,19]。因此,研究苔藓层与土壤层中元素分布随林窗变化特征具有重要意义。
+
+川西高山森林生态系统地处青藏高原东缘和长江上游地区,在区域气候调节、涵养水源和生物多样性保护保育等方面具有不可替代的作用和地位,是我国典型的生态脆弱带和全球气候变化的敏感区[20]。受低温限制、频繁的强风、暴雪、冰雹等自然灾害影响,高山森林林窗干扰频繁,林窗更新是川西高山森林更新的主要形式[21]。因此,有关川西高山森林林窗对地上地下过程的影响受到普遍关注[2-23]。此外,高山森林阴湿的环境有利于苔藓植物大量生长,并附生于岩石、土壤或其他植物,其独特的生理结构有利于吸收周围环境中的各种元素[3,24]。 $\mathrm { N a } \operatorname { \mathrm { . } Z n } \operatorname { \mathrm { . } M g } \operatorname { \mathrm { . } M n } \operatorname { \mathrm { . } C a }$ 和Fe 作为微量元素在苔藓中监测含量通常在 10- $\mathrm { \cdot 1 0 0 0 m g / k g }$ 之间,在生态系统物质循环过程中十分重要[4]。因此,结合前期降水量和沉降中元素浓度研究调查结果,以川西高山岷江冷杉（Abies faxoniana）原始林为研究对象,了解高山森林林窗位置变化对森林苔藓和土壤微量元素含量差异性的影响。 N
+
+# 1材料与方法
+
+# 1.1 研究区域概况
+
+研究区位于四川省阿坝州理县毕棚沟四川农业大学高山森林生态系统定位研究站 $\langle 3 1 ^ { \circ } 1 4 ^ { \prime } \overset { } { \underset { } { \longrightarrow } } 3 1 ^ { \circ } 1 9 ^ { \prime } \mathrm { ~ N ~ }$ ，$1 0 2 ^ { \circ } 5 3 ^ { \prime } \mathrm { - } 1 0 2 ^ { \circ } 5 7 ^ { \prime } \mathrm { ~ E ~ }$ ,海拔 $2 4 5 8 { \mathrm { - } } 4 6 1 9 \mathrm { m }$ ),地处青藏高原东缘到四川盆地过渡地带,四姑娘山北麓,区域总面积 $1 8 0 \mathrm { k m } ^ { 2 }$ 。区域气候属丹巴—松潘半湿润气候,随着海拔上升,植被类型呈现出常绿阔叶林、针阔叶混交林、暗针叶林、高山草甸的垂直分布规律。年均温度 2— $\mathbf { \nabla } \cdot 4 ^ { \circ } \mathrm { C }$ ,最高气温23.7℃，最低温度 $- 1 8 . 1 \mathrm { { ^ { \circ } C } }$ 。年均降水量$8 5 0 \mathrm { m m }$ ,降雨主要分布在生长季节,受季风影响。区域内干湿季节差异显著：干季日照强,降水少,气候寒冷，空气干燥;湿季日照少,降雨多,气候温暖,多云雾。主要森林植被有岷江冷杉、红桦（Betula albo-sinensis）、四川红杉(Larix mastersiana）、方枝柏(Sabina saltuaria)等,林下灌木主要有康定柳（Salix paraplesia）、高山杜鹃（Rhododendron lapponicum）、三颗针（Berberissargentiana）、花楸（Sorbusrufopilosa）、沙棘（Hippophaerhamnoides）、扁刺蔷薇（Rosa weginzowii)等,草本主要有蟹甲草（Cacalia spp.）、冷蕨（Cystopteris ontana）、苔草科和莎草科等。
+
+# 1.2样品采集和测量
+
+2016年10月,在研究区域内选取3个 $1 0 0 \mathrm { m } \times 1 0 0 \mathrm { m }$ 具有代表性的岷江冷杉原始林大样地,并从林窗中心至郁闭林下依次选取林窗、林缘和林下样地( $2 0 \mathrm { m } { \times } 2 0 \mathrm { m }$ ）。在远离林窗处分别选取3个( $2 0 \mathrm { m } \times 2 0 \mathrm { m }$ )相对开阔的旷地(高山草坡)样地。在每个典型样地中分别在地表随机选取3 个( $5 0 \mathrm { c m } { \times } 5 0 \mathrm { c m }$ )小样方采集样方内生长的所有苔藓植物。在地表附生苔藓植物相对应的下层土壤随机选3—5点,使用直径为 $5 \mathrm { c m }$ 的土钻钻取深度为 $3 0 \mathrm { c m }$ 的土柱,按照有机层和矿质层（本研究中土壤有机层主要指未分解、半分解以及腐殖化的有机物,而矿质层界定为有机层下 $\mathrm { 1 5 k m } \mathrm { \cdot }$ )分层采样，同一层次同一样地土壤混合为一个样品。为对比苔藓植物中元素含量受基质影响对林窗位置的响应,在每个 $2 0 \mathrm { m } \times 2 0 \mathrm { m }$ 样地中选取3处有苔藓附生的岩石,进行石生苔藓植物的采集。 AN
+
+将苔藓植物和土壤样品带回实验室,按照林窗、林缘、林下和旷地对样品进行初步分类,苔藓样品分为地表苔藓和石生苔藓,土壤分为土壤有机层和矿质土壤层。苔藓植物样品于 $6 5 \mathrm { ^ { \circ } C }$ 烘箱中烘干至恒重,土壤样品自然风干,样品粉碎过筛。参照国家林业标准森林生态系统长期定位观测方法LY/T1952—2011,称取 $0 . 5 \mathrm { g }$ 样品,用体积比为5:1的硝酸-高氯酸的混合液消解,稀释,使用岛津 AA-7000 火焰原子吸收光谱仪分别测定Na、Zn、Mg、Mn、Ca 和Fe 的含量。元素含量计算公式如下：
+
+元素含量：
+
+$$
+\omega = \frac { \rho \times V \times t s \times 1 0 ^ { - 3 } } { m } \times 1 0 ^ { 3 }
+$$
+
+式中： $\omega$ 为 $\mathrm { { N a } , \mathrm { { Z n } , \mathrm { { M g } , \mathrm { { M n } , \mathrm { { C a } } } } } }$ 和Fe的质量分数( $\mathrm { \ : \ m g / k g } ^ { \prime }$ ） $\rho$ 为测得的重金属的质量浓度( $\mathrm { m g / L }$ ） $V$ 为测定时定容体积 $( \mathrm { m L }$ ; ${ { 1 0 } ^ { - 3 } }$ 为将 $\mathrm { m L }$ 换算成 $\mathrm { ~ L ~ }$ 的系数； $t s$ 为分取倍数; $m$ 为试样质量 ${ \bf \Xi } ( \bf { \Lambda } _ { g } )$ ; $1 0 ^ { 3 }$ 为将 $\mathrm { m g / g }$ 换算成 $\mathrm { m g / k g }$ 的系数。
+
+同时,根据前期研究计算分别样地旷地、林窗、林缘和林下穿透雨降水量(表1)。并测定降水中元素 $\mathrm { { N a } }$ $\mathrm { { Z n } , \mathrm { { M g } , \mathrm { { M n } , \mathrm { { C a } } } } }$ 和Fe的含量(表2）。
+
+表1研究样地穿透雨年降水量  
+
+<html><body><table><tr><td>林窗位置 Gap positions</td><td>旷地 Opening area</td><td>林窗 Gap center</td><td>林缘 Gap edge</td><td>林下 Closed canopy</td></tr><tr><td>降水量 Annual precipitation/mm</td><td>802.07</td><td>738.32</td><td>658.61</td><td>541.05</td></tr></table></body></html>
+
+Table 2The concentrations of Na，Zn, $\mathbf { M g }$ ，Mn，Ca and Fe in precipitation in study sites   
+
+<html><body><table><tr><td>元素Element</td><td>Na</td><td>Zn</td><td>Mg</td><td>Mn</td><td>Ca</td><td>Fe</td></tr><tr><td>含量 Concentration/（mg/L)</td><td>2.32±0.38</td><td>0.41±0.11</td><td>1.56±0.84</td><td>0.54±0.08</td><td>32.93±11.82</td><td>1.24±0.85</td></tr></table></body></html>
+
+# 1.3 数据处理和分析
+
+运用 SPSS 20.0对数据进行统计分析和SigmaPlot12.5软件进行作图。采用独立样本T检验分析地表和岩石两种基质附生苔藓元素含量差异性;采用单因素方差分析(one-way ANOVA)和最小显著差异法（LSD)分别分析检验不同林窗结构下苔藓植物和不同土壤层中元素含量差异;用双因素方法分析(two-way ANOVA)检验林窗位置和土壤层两者交互作用对土壤中微量元素含量的影响;用相关性分析(Pearson 法)分析地表苔藓元素含量和土壤有机层元素含量之间的相关性。
+
+# 2结果与分析
+
+2.1地表苔藓和石生苔藓以及土壤中微量元素含量基本特征
+
+川西高山森林中地表苔藓和石生苔藓 $\mathrm { { N a } , \mathrm { { Z n } , \mathrm { { M g } , \mathrm { { F e } } } } }$ 和 $\mathrm { l c a }$ 含量差异不显著（表3），但地表苔藓Mn元素含量大于石生苔藓且差异显著。通过比较地表苔藓层、土壤有机层和矿质土壤层元素含量发现， $\mathrm { Z n , M g , M n }$ 和Ca元素随地表苔藓到土壤矿质层呈递减特征，地表苔藓 $\mathrm { C a } \mathbf { \mathcal { M } } \mathbf { n }$ 和 $Z _ { \mathrm { { n } } }$ 含量显著大于土壤有机层和矿质土壤层。Na元素以土壤有机层中含量较高,而Fe元素随地表苔藓至土壤矿质层呈递增特征。Pearson 相关分析结果表明(表4），苔藓的Mn和Ca含量与土壤有机层和矿质土壤层的 $\mathbf { M } \mathbf { g }$ 和Ca含量存在显著正相关关系，但其他几种元素的相关性不显著。 A
+
+Table 1 The annual precipitation of study sites   
+表3地表苔藓和石生苔藓几种元素含量独立样本 $_ { T }$ 检验分析  
+Table 3The independent-samples T-test of concentrations of microelements between epilithic moses and epigeic mo   
+表4高山森林地表苔藓元素含量与土壤有机层、矿质土壤层的相关系数  
+
+<html><body><table><tr><td>元素Element</td><td>Na</td><td>Zn</td><td>Mg</td><td>Mn</td><td>Ca</td><td>Fe</td></tr><tr><td>df</td><td>22</td><td>22</td><td>22</td><td>22</td><td>22</td><td>22</td></tr><tr><td>F</td><td>3.573</td><td>0.311</td><td>0.638</td><td>6.182</td><td>0.113</td><td>6.868</td></tr><tr><td>P</td><td>0.072</td><td>0.303</td><td>0.052</td><td><0.001*</td><td>0.328</td><td>0.619</td></tr></table></body></html>
+
+\*,P<0.05;\*\* ,P<0.01;n=22
+
+表2研究样地降水中 $\mathbf { N a } , \mathbf { Z n } , \mathbf { M g } , \mathbf { M n } , \mathbf { C } ;$ 和Fe含量  
+Table4Correlationcoeficientsofelementconcentratiosinepigenicmoseswiththoseinsoiloganiclayerandmneralsoillaerth albine forest   
+
+<html><body><table><tr><td>元素Element</td><td>Na</td><td>Zn</td><td>Mg</td><td>Mn</td><td>Ca</td><td>Fe</td></tr><tr><td>土壤有机层 Organic layer</td><td>0.335</td><td>0.163</td><td>-0.058</td><td>0.954 *</td><td>0.947 *</td><td>-0.132</td></tr><tr><td>矿质土壤层 Mineral layer</td><td>0.371</td><td>0.371</td><td>0.400</td><td>0.894 *</td><td>0.717 *</td><td>-0.306</td></tr></table></body></html>
+
+\* $\scriptstyle P < 0 . 0 5$ ；\*\* P<0.01
+
+# 2.2林窗位置对地表苔藓和石生苔藓植物微量元素含量的影响
+
+林窗位置对高山森林苔藓植物几种微量元素影响显著,但不同元素对林窗的响应存在差异（图1）。除元素 $\mathbf { M } \mathbf { n }$ 外,苔藓植物的 $ { \mathrm { N a } } \mathrm { , }  { \mathrm { Z n } } \mathrm { , }  { \mathrm { M g } } \mathrm { , }  { \mathrm { C a } }$ 和Fe含量受生长基质的影响无显著差异（表3)。地表苔藓的 $\mathrm { N a } , \mathrm { Z n }$ 、$\mathbf { M } \mathbf { n }$ 和 Ca 含量以林窗最高,分别为( $\mathrm { 1 8 0 . 5 7 { \pm 6 . 2 7 } ) ~ m g / k g }$ （ $9 3 . 4 6 \pm 1 . 8 2 ) \mathrm { m g / k g }$ （ $1 1 5 0 . 6 8 \pm 2 . 8 9 ) \mathrm { m g / k g }$ 和（ $1 3 2 4 0 . 5 1 { \scriptstyle \pm 1 1 9 . 4 2 } ) \mathrm { m g / k g }$ ,显著高于林缘和林下;旷地地表苔藓 $\mathrm { \Delta N a , Z n , M n }$ 和Ca含量略低于林窗,但无显著差异。石生苔藓的 Na 和Ca 含量特征与地表苔藓相似,但 $\mathbf { Z } \mathbf { n }$ 含量以旷地最高,为 $( 1 1 8 . 5 7 { \pm } 6 . 1 6 ) \mathrm { m g / k g }$ ，且与其他林窗位置下的苔藓 $Z _ { \mathrm { { n } } }$ 含量差异显著,石生苔藓 Mn 含量在不同林窗位置下存在明显差异并与地表苔藓Mn 含量特征表现不一致。不同林窗位置的地表和石生苔藓的 $\mathbf { M } \mathbf { g }$ 含量大致为 $( 2 5 8 . 1 2 - 2 6 9 . 9 8 ) \mathrm { m g / k g }$ ,但差异不显著。地表苔藓和石生苔藓Fe含量以旷地最高,分别为( $1 3 0 6 . 6 7 { \scriptstyle \pm 3 7 9 . 5 6 } ) \mathrm { m g / k g }$ 和( $2 3 8 3 . 3 1 \pm 1 1 6 . 5 3 \$ ）$\mathrm { m g / k g }$ 。其中,不同林窗位置的石生苔藓的Fe 含量差异显著,但不同林窗位置的地表苔藓的Fe 含量差异不显著。
+
+![](images/2402d251872e5048e7b1af221322ec4a1dbe0ac21ec828463b34a7ffdeb04587.jpg)  
+图1不同林窗位置下地表苔藓和石生苔藓 $\mathbf { N a } , \mathbf { Z n } , \mathbf { M g } , \mathbf { M n } , \mathbf { C a }$ 和Fe的含量Fig.1Theconcentrations ofNa,Zn,Mg,Mn,CaandFeinepilithic mosesand epigeic mosses indierentgappositins（mean $\pm \mathrm { S E }$ ， $n = 3$ ）图中不同小写字母表示不同林窗位置苔藓植物微量元素含量显著差异( $\scriptstyle P < 0 . 0 5 )$ ;图中数据为平均值±标准误差( $n = 3$ ）
+
+# 2.3林窗位置对土壤有机层和矿质土壤层微量元素含量的影响
+
+由表5可以看出,林窗位置和土壤层及其交互作用显著影响了土壤元素的含量。同时,林窗位置对土壤元素含量的影响与元素类型有关(表6)。土壤有机层的 Mn 和Ca含量以林窗最高,分别为( $8 1 9 . 8 7 { \scriptstyle \pm 2 . 6 6 } \rangle$ （20号$\mathrm { m g / k g }$ 和 $\cdot 5 1 4 8 . 5 5 { \pm } 8 2 2 . 5 6 ) \mathrm { m g / k g }$ ,以林缘最低;土壤有机层的Fe含量以林窗最高,以林下最低,但与林缘差异不显著; $Z _ { \mathrm { { n } } }$ 的含量也以林窗最高,以旷地最低,且林缘和林下差异不显著;林窗位置对土壤有机层 $\mathbf { M } \mathbf { g }$ 含量的影响不显著。
+
+表5不同林窗位置和土壤层对土壤中微量元素含量的 $F$ 值双因素方差分析  
+le 5FvluesforTwo-wayANOVAresultsfortheefectsof gappositionsandsoillayersontheconcentrations of microelements in   
+
+<html><body><table><tr><td>元素Element</td><td>df</td><td>Na</td><td>Zn</td><td>Mg</td><td>Mn</td><td>Ca</td><td>Fe</td></tr><tr><td>林窗位置Gap positions</td><td>3</td><td>29.073 **</td><td>92.968 **</td><td>2.729</td><td>42.987 **</td><td>49.674 **</td><td>35.106 **</td></tr><tr><td>土壤层 Soil layer</td><td>1</td><td>4.839 *</td><td>135.385 **</td><td>1.097</td><td>321.884 **</td><td>30.371 **</td><td>66.018 **</td></tr><tr><td>林窗位置×土壤层 Gap positionsXSoil layer</td><td>3</td><td>4.288 *</td><td>2.239</td><td>3.979 *</td><td>6.412 **</td><td>58.057**</td><td>6.181**</td></tr></table></body></html>
+
+\*， $\scriptstyle P < 0 . 0 5$ ；\*\*， $P { < } 0 . 0 1 ; n { = } 3 6$
+
+除 Na以外,矿质土壤层的其他几种微量元素含量都以林窗位置最高,其中 $\mathrm { Z n , M n , C a }$ 和Fe含量以旷地最低;矿质土壤层Na含量以旷地较高,并与其他林窗位置Na 含量差异显著,但林窗,林缘和林下之间差异不显著。
+
+表6高山森林土壤有机层和土壤矿质层 $\mathbf { N a } , \mathbf { Z n } , \mathbf { M g } , \mathbf { M n } , \mathbf { C a }$ 和Fe含量随林窗位置的变化  
+Table 6VariatiosoftheoncentratiosofNa,Zn,Mg,n,CaandFeinsoilorganiclayeradinerasoilayerwithgappositste alpine forest（mean $\pm \mathrm { S D }$ ， $n = 3$ ）   
+
+<html><body><table><tr><td>土壤层 Soils layers</td><td>元素 Element/ （mg/kg)</td><td>旷地 Opening area</td><td>林窗 Gap center</td><td>林缘 Gap edge</td><td>林下 Closed canopy</td></tr><tr><td>土壤有机层</td><td>Na</td><td>283.22±70.66a</td><td>169.27±13.25b</td><td>210.83±43.72ab</td><td>144.34±10.33b</td></tr><tr><td>Soil organic layer</td><td>Zn</td><td>36.13±2.59a</td><td>59.54±4.57b</td><td>46.03±0.97c</td><td>47.47±2.38c</td></tr><tr><td rowspan="5"></td><td>Mg</td><td>256.79±1.93a</td><td>254.62±19.98a</td><td>256.73±3.62a</td><td>259.32±2.71a</td></tr><tr><td>Mn</td><td>470.75±17.48a</td><td>819.87±2.66b</td><td>428.04±14.28c</td><td>553.20±2.19d</td></tr><tr><td>Ca</td><td>1</td><td>5148.55±822.56a</td><td>1427.17±287.49b</td><td>1963.66±173.14b</td></tr><tr><td>Fe</td><td>1710.91±235.58a</td><td>2168.56±107.66a</td><td>2141.01±218.81a</td><td>2088.67±91.30a</td></tr><tr><td>Na</td><td>307.14±3.56a</td><td>144.69±29.60b</td><td>103.45±24.21b</td><td>134.01±4.926b</td></tr><tr><td rowspan="5">矿质土壤层 Mineral soil layer</td><td>Zn</td><td>24.60±0.93a</td><td>50.91±4.37b</td><td>29.88±0.89c</td><td>33.53±1.02c</td></tr><tr><td>Mg</td><td>258.03±1.14a</td><td>265.85±0.82b</td><td>240.54±2.18c</td><td>250.51±0.38d</td></tr><tr><td>Mn</td><td>103.92±7.79a</td><td>254.54±3.31b</td><td>118.69±4.15c</td><td>149.27±12.01d</td></tr><tr><td>Ca</td><td>827.71±101.08a</td><td>1800.00±580.72b</td><td></td><td>1</td></tr><tr><td>Fe</td><td>1886.29±139.88a</td><td>2983.80±16.56b</td><td>2467.85±45.07c</td><td>2558.59±0.71c</td></tr></table></body></html>
+
+同行数字后不同小写字母表示相同土层不同处理间差异显著( $\scriptstyle P < 0 . 0 5$ ）
+
+# 3讨论
+
+降水是森林生态系统中元素来源的重要途径[25-26]。苔藓植物由于独特的生理结构常作为监测大气沉降中元素含量的重要指示植物[3.9],并对金属元素具有较强的截留作用[27]。前期调查发现研究样地降水中元素$Z _ { \mathrm { { n } } }$ 浓度最低 $\mathbf { \nabla } \cdot \mathrm { C a }$ 浓度最高(表2）,而研究结果中苔藓和土壤中 $Z _ { \mathrm { { n } } }$ 含量最低、Ca含量最高。除 Mn 元素,石生苔藓和地表苔藓 $ { \mathrm { N a } } \mathrm { , }  { \mathrm { Z n } } \mathrm { , }  { \mathrm { M g } } \mathrm { , }  { \mathrm { C a } }$ 和Fe元素随林窗变化特征相似。已有研究表明,大气沉降是苔藓植物重金属元素的主要来源,尤其受人为活动的影响[28-29]。本研究结果表明在人为干扰较少的高海拔地区,大气沉降是苔藓植物元素来源的重要途径;而生长基质对苔藓植物中部分元素有显著影响。前期调查发现旷地、林窗、林缘质林下的穿透雨年降水量逐渐降低(表1)。Boquete 等[9]通过研究大气沉降对苔藓植物中化学元素含量的影响也发现,苔藓植物中营养元素和重金属元素很大程度受沉降淋洗作用的影响;林缘和林下的植被叶片对降水的截留可能会降低石头和近地表苔藓植物对大气沉降中化学元素的吸收和利用,从而导致研究结果中位于不同附生位置上的苔藓植物 $ { \mathrm { N a } } ,  { \mathrm { Z n } } ,  { \mathrm { C a } }$ 和 Fe 含量总体特征以旷地或林窗大于林缘和林下。本研究中 $\mathbf { M } \mathbf { g }$ 元素随林窗位置变化不显著且含量稳定，而其他元素变化显著。说明苔藓植物对不同元素吸收利用方式存在差异,而苔藓植物对 Mg元素吸收能力较弱,属于被动吸收[4]。李小梅等[30]在对南极苔藓中元素转移研究中发现, $\mathbf { M } \mathbf { g }$ 、Mn 和Fe元素在苔藓中较难转移,且下层苔藓中含量最高。川西高山森林林下和林缘中苔藓层较厚,可能导致上层新鲜苔藓中 $\mathbf { M g } , \mathbf { M n }$ 和 Fe元素含量较低。而林窗和旷地苔藓层较薄, $\mathbf { M g } , \mathbf { M n }$ 和Fe元素无法有效转移,而Ca 和 $Z _ { \mathrm { { n } } }$ 元素在新鲜苔藓中含量较高[4]。这也可能会导致林窗和旷地中苔藓植物Ca 和 $Z _ { \mathrm { { n } } }$ 含量较高。
+
+研究发现,高山森林土壤 $\mathrm { N a , Z n , M g }$ 和 $\mathrm { C a }$ 元素林窗变化特征与苔藓植物相似。说明土壤中一些元素含量可能也受大气沉降影响。但土壤和苔藓植物部分元素含量林窗大于旷地，可能受凋落物分解影响[31]。林窗调节下的冻融循环可以加速凋落物分解进而促进元素释放[32],凋落物腐殖质对元素也有一定的吸附作用[18]。旷地中凋落物较少,旷地有机层较薄,矿质层石砾较多也会导致土壤中部分元素较快流失[16]。林下和林缘土壤元素含量较低可能是由于乔木和灌木植物对元素具有一定的吸收富集作用[13.33]。此外,林缘和林下有较多的地被物包括木质残体,草本和灌丛等,林缘中草本植物生物量高于林窗和林下,林下存在较多粗木质残体[34]。粗木质残体附生植物对元素对沉降中的元素的吸存作用,也可能导致林下和林缘地表苔藓和土壤中元素含量较低。
+
+http://www.ecologica.cn
+
+Tamminen 等[18]认为腐殖质层和土壤会显著影响苔藓中元素含量。本研究中,地表苔藓的Ca 和 $\mathbf { M } \mathbf { n }$ 元素含量与土壤Ca 和Mn元素含量相关性显著(表4),其他元素相关性不强。 $\mathrm { Z n , M g , M n }$ 和Ca元素随地表苔藓至土壤矿质层呈递减趋势,也反映出苔藓植物对沉降中的元素具有较强的截留作用;Fe元素随地表苔藓至土壤矿质层呈递增趋势,表明川西高山土壤母质Fe元素含量较高。四川土壤背景值研究也表明该地区Fe元素含量较高[35]。 2
+
+# 参考文献（References）:
+
+［1］管云云，费菲，关庆伟，陈斌.林窗生态学研究进展.林业科学，2016,52(4)：91-99.  
+[2］梁晓东，叶万辉.林窗研究进展(综述).热带亚热带植物学报，2001，4(9)：335-364.  
+[3］叶吉，郝占庆，于德永，闫海冰，封德全.苔藓植物生态功能的研究进展.应用生态学报，2004，15（10)：1939-1942  
+[4］吴虹玥，包维楷，王安.苔藓植物的化学元素含量及其特点.生态学杂志，2005，24(1)：58-64.  
+[5]CoskuMteisE,osM,CairCpisofepigecos（Hyuupresfe）ndlic（Cldogfoissrspecies of atmospheric metal deposition. Bulletin of Environmental Contamination and Toxicology,2O09,82(1)  
+[6］薛建辉，郝奇林，吴永波，刘兴良.3种亚高山森林群落林冠截留量及穿透雨量与降雨量的关系．南京林业大学学报，2008，32（3)：9-13.  
+[7]LeviaDF,VaanJ,iegertC,IadarS,Michell,geS,cHalePJAtmosphricdepositoadcoespoingliofstemflostalasiidtcadduouftosrcnt114）404.  
+[8]VanStanJykerTG.ArevadevauatioofforestaoiphteolesiheatitiogandhicalaleratioofriiatioScience of the Total Environment,2015,536：813-824.  
+9]Bqueblcsipurum and in bulk deposition. Environmental Polution,2015,201:1-9.  
+[0]OklandladRHteiE.ElemecocetratiosinerforestossHosledearatoeateddtsvegetation and local environmental factors. Plant and Soil,1999,209(1）: 71-83.  
+[11]AchotegstladsbasuelasJentifigginofmshputsofaceentsis（Catalonia）withbryophytes，lichens，andsoilmonitoring.EnvironmentalMonitoringandAssessment，2O13,185（1）：615-629.  
+[12］刘俊华，包维楷，李芳兰.青藏高原东部原始林下地表主要苔藓斑块特征及其影响因素.生态环境，2005,14（5)：735-741.  
+[13］李文君，那广水，贺广凯，王立军，马新东.菲尔德斯半岛植物和表层土壤中部分金属元素的富集特征．极地研究,2015，27（2)：150-158.  
+[14］张泱，宋启亮，董希斌.不同采伐强度改造对小兴安岭低质林土壤理化性质的影响.东北林业大学学报，2011,39(11)：22-24,49-49.  
+[15] 王成，庞学勇，包维楷.低强度林窗式疏伐对云杉人工纯林地表微气候和土壤养分的短期影响.应用生态学报，2010,21（3）：541-548.  
+[16］王政权.森林土壤化学元素与环境因子关系的研究.东北林业大学学报，1989,17(5)：20-26.  
+［17］徐义刚，周光益，骆土寿，吴仲民，何在成.广州市森林土壤水化学和元素收支平衡研究.生态学报，201,21（10）：1670-1681.  
+[8]TtabetorsiealeostsistdPlant and Soil, 2004, 259(1/2) : 51-58.  
+[19］王彬，于澎涛,王顺利，王彦辉，张雷，刘贤德,金铭，张学龙.祁连山北坡青海云杉林下苔藓层对土壤水分空间差异的影响.生态学报，2017, 37(8) : 2753-2762.  
+[20] Yang WQ，WangKY，KelomakiS，GongHD.Literdyamicsof thresubalpineforestsinwestern SichuanPedosphere，05，5（5）:653-659.21 吴庆贵，吴福忠，杨万勤，谭波，杨玉莲，倪祥银，何洁.川西高山森林林隙特征及干扰状况.应用与环境生物学报，2013，19（6)：922-928.Ni XY,YangWQ,TanB，HeJ，XuLY,LiH，WuFZ.Aceleratedfoliarlitrhumficationinforestgaps：dualfedbacksofcarbonsequestration during winter and the growing season in an alpine forest. Geoderma,2015,241-242：136-144.  
+[23]HeW,WuFZ,ZngDJ,YangWQ,Tan,ZYY，uQQefesoforesgapsolosedegrdatioinhefolalfshrub species in an alpine fir forest.Plant and Soil,2015,393(1/2)：109-122.  
+[24］雷波，包维楷，贾渝.6种人工针叶幼林下地表苔藓植物层片的物种多样性与结构特征.植物生态学报，200，28（5）：594-600.  
+5]Reimaaotstlversus enrichment factors.Science of the Total Environment,2005,337(1/3）：91-107.  
+26]Berg,teEtrsmospcepoiifacetsietfr9osreetalEnvironment，1997,208(3）：197-206.  
+7agvisoleoualicEnvironmental Monitoring and Assessment，2009,157(1/4）：383-390.  
+[28]NickelSrte，ehheresEUgedHreatioetrsofetalsisoioirespectiveacuulatoinossdaturalfcsiloolcallandsesintw9ndviroetaldPollution Research,2015,22(11):8488-8498.  
+[29] BargagliR.Mossandlichenbiomonitoringofatmosheric mercury:areview.ScienceoftheTotalEnvironment，016,57：16-231.  
+[30] 李小梅，赵俊琳，孙立广.南极地区苔藓地衣植物的地球化学元素营养富集特征.应用生态学报，2001，12（4)：513-516.  
+［31邓仁菊，杨万勤，冯瑞芳，胡建利，秦嘉励，熊雪晶.季节性冻融期间亚高山森林凋落物的质量损失及元素释放.生态学报，2009，29(10):5730-5735.  
+[32]YueK，Yang WQ,PengY,ZhangC，HuangCP,XuZF,TanB,WuFZ.Dynamicsof multiple metalcelementsdurigoiaiterdecomposition in an alpine forest river.Annals of Forest Science，2016,73(2）：547-557.  
+[33］张超，刘国彬，薛，张昌胜.黄土丘陵区不同植被根际土壤微量元素含量特征.应用生态学报，2012，23（3）：645-650.  
+［34］肖洒，吴福忠，杨万勤，常晨辉，李俊，王滨，曹艺.川西高山森林生态系统林下生物量及其随林窗的变化特征.生态环境学报，2014，23(9):1515-1519.  
+[35］朱礼学，刘志祥，陈斌.四川成都土壤地球化学背景及元素分布．四川地质学报，2004，24（3）：159-164.

@@ -1,0 +1,257 @@
+# A hidden confining world on the 750 GeV diphoton excess
+
+Ligong Bian, $^ { 1 , 2 }$ Ning Chen, $^ { 3 , * }$ Da Liu,² and Jing Shu $^ { 2 , 4 }$ ,† （20 $^ { 1 }$ Department of Physics， Chongqing University， Chongqing 401331， China （204号 $\mathcal { Z }$ Kavli Institute for Theoretical Physics China, Institute of Theoretical Physics, Chinese AcademyofSciences，Beijing 100190，P.R.China $^ { 3 }$ Department of Modern Physics, University of Scienceand Technology of China,Hefei，Anhui, 230026, China （20 $^ { 4 }$ CAS Center for Excellence in Particle Physics， Beijing 10o049,China
+
+We explain the recent diphoton excesses around 750 GeV by both ATLAS and CMS as a singlet scalar $\Phi$ which couples to SM gluon and neutral gauge bosons only through higher dimensional operators.A natural explanation is that $\Phi$ is a pseudo-Nambu-Goldstone boson (pNGB）which receives parity violation through anomaly if there exists a hidden strong dynamics.The singlet and other light pNGBs will decay into two SM gauge bosons and even serves as the meta-stable coloured states which can be probed in the future.By accurately measuring their relative decay and the total production rate in the future,we will learn the underlying strong dynamics parameter. The lightest baryon in this confining theory could serve as a viable dark matter candidate.
+
+# I.INTRODUCTION
+
+Veryrecently,ATLASand CMScollaborations have announced their first hosts of new results based on $\mathrm { 3 . 2 ~ f b ^ { - 1 } }$ and $2 . 6 ~ \mathrm { f b ^ { - 1 } }$ integrated luminosity at LHC Run II $\sqrt { s } = 1 3$ TeV[1, 2]. Among various channels in searching for new physics, there is an intriguing existence of diphoton excess around 75O GeV,with a local significance of $3 . 6 ~ \sigma$ and 2.6 $\sigma$ respectively in ATLAS and CMS.With more data accumulating,whether this is due to a statistical fluctuation or some manifestation of newphysics would be revealed soon.Nevertheless，as theorists，we should always be aware if this could be the first light that changes our current understanding of microscopic physics.
+
+The first appearing of this anomalous dipho ton resonance at LHC Run II would unambiguously tell us some information.First，due to the Landau-Yang theorem [3],this resonance can only be spin zero or two instead of one. Second, the resonance decay into diphoton process can only be through the higher dimensional operators [4]. Therefore,an unsuppressed total decay width would require an unconventional large production rate and one might need to try hard to hide its main decay channel into the SM backgrounds. Third,according to the 8 TeV LHC Run I results, CMS search [5] sets a $9 5 \%$ CL observed upper limit of $\sigma ( p p  \Phi ) \mathrm { B r } ( \Phi  \gamma \gamma ) <$ 1.5 fb,and ATLAS search [6] also imposes a similar constraints on RS gravitons. In order to accommodate both LHC Run I and Run II results, a larger enhancement on the diphoton signal from 8 TeV to 13 TeV is needed and the gluon initial state is preferred.Collecting all the above hints，we consider a singlet scalar $\Phi$ with only SM higher dimensional couplings to gluon and neutral gauge bosons as perhaps the most optimal solution.
+
+While the process $g g  \Phi  \gamma \gamma$ looks simple,it does have a very rich and deep physics behind it.If the $\Phi$ is pseudo-scalar,or even a pseudo-Nambu-Goldstone boson (pNGB)，then the only existence of higher dimensional couplings to gluon and neutral gauge bosons is a natural consequence of $\Phi$ parity violation due to anomaly [7]. The anomaly induced process at the IR,which affects the $\Phi$ production and decay, is proportional to the number of colour $N _ { n }$ in the underlying confining strong dynamics.Therefore if this excess continues to exist in the future,by accurately measuring the dipho ton resonance rate and the relative rate among different SM diboson decay channels,we could learn $N _ { n }$ and the hypercharge of the confining vector fermions. This provides us another example of learning the ultraviolet physics at the infrared just like a rediscovery of colour $N _ { c } = 3$ in QCD through $\pi _ { 0 }  \gamma \gamma$ . If one of the confining vector fermions $\psi$ is a SM singlet, the baryon which is made of $N _ { n }$ copies of $\psi$ could be a composite dark matter candidate if $\psi$ is the lightest confining vector fermions. Therefore,we use this particular choice of charge assignment as the benchmark of our model in the phenomenology discussion.
+
+The layout of this paper is as follows.In Sec.I,we parametrize our setup in terms of effective theory and give a numerical fit to the 13 TeV diphoton excess.In Sec.III,we build up the simplest hidden QCD model with the required singlet couplings through anomaly based on SU(4) flavor symmetry and discuss the related phenomenology. The benchmark model with a composite dark matter(DM) candidate from the hidden baryon is highlighted.We make conclusions in Sec. IV. We provide an Appendix A to derive the effective Wess-Zumino-Witten (WZW) terms of the simplest confining model.
+
+# II. THEEFFECTIVETHEORIES
+
+We first consider the general dimension-five couplings between a singlet (pseudo)scalar and the gauge fields,
+
+$$
+\begin{array} { r l r } & { } & { - \bigl ( \frac { \alpha _ { s } C _ { g } ^ { S } } { 1 6 \pi F } G _ { \mu \nu } ^ { a } G ^ { \mu \nu , a } + \frac { \alpha C _ { \gamma } ^ { S } } { 2 \pi F } F _ { \mu \nu } F ^ { \mu \nu } \bigr ) \Phi _ { S } , } \\ & { } & { - \bigl ( \frac { \alpha _ { s } C _ { g } ^ { P } } { 1 6 \pi F } G _ { \mu \nu } ^ { a } \widetilde { G } ^ { \mu \nu , a } + \frac { \alpha C _ { \gamma } ^ { P } } { 2 \pi F } F _ { \mu \nu } \widetilde { F } ^ { \mu \nu } \bigr ) \Phi _ { P } , } \end{array}
+$$
+
+respectively. Here, $G _ { \mu \nu } ^ { a }$ and $F _ { \mu \nu }$ are $\mathrm { S U ( 3 ) _ { c } }$ and $\mathrm { U } ( 1 ) _ { \mathrm { e m } }$ field strength tensors. $F$ is expect to be the energy scale of the underlying new physics model.The decay widths of (pseudo)scalar $\Phi _ { S } ( \Phi _ { P } )$ to gluon and photon pairs could be obtained from Eq. (1),
+
+$$
+\begin{array} { l } { { \Gamma ( \Phi _ { S / P } \to \gamma \gamma ) ~ = ~ { \frac { M _ { \Phi _ { S / P } } ^ { 3 } \alpha ^ { 2 } } { 1 6 \pi ^ { 3 } F ^ { 2 } } } ( C _ { \gamma } ^ { S / P } ) ^ { 2 } , } } \\ { { \Gamma ( \Phi _ { S / P } \to g g ) ~ = ~ { \frac { M _ { \Phi _ { S / P } } ^ { 3 } \alpha _ { s } ^ { 2 } } { 1 2 8 \pi ^ { 3 } F ^ { 2 } } } ( C _ { g } ^ { S / P } ) ^ { 2 } . } } \end{array}
+$$
+
+There can be different origins for obtaining the operators in Eq. (1). The first example isanalogous to the Higgs effective couplings to gluons and photons. One may consider a set of vector-like colour-charged and/or electriccharged fermions $F _ { k }$ coupling with the singlet scalars such that $\begin{array} { r } { \sum _ { k } \bar { F } _ { k } \bigl ( \lambda _ { k } \Phi _ { S } + i \gamma _ { 5 } \hat { \lambda } _ { k } \Phi _ { P } \bigr ) F _ { k } } \end{array}$ . Integrating out the heavy fermions $F _ { k }$ ，theWilson coefficients in the effective Lagrangian Eq.(1b)
+
+are calculated to be,
+
+$$
+\begin{array} { l l } { { C _ { \gamma } ^ { S } \ = \ \displaystyle \sum _ { k } \frac { \lambda _ { k } N _ { c } ( k ) Q _ { k } ^ { 2 } } { 3 } , } } & { { C _ { \gamma } ^ { P } = \displaystyle \sum _ { k } \frac { \hat { \lambda } _ { k } N _ { c } ( k ) Q _ { k } ^ { 2 } } { 2 } , } } \\ { { C _ { g } ^ { S } \ = \ \displaystyle \sum _ { k } \frac { 4 \lambda _ { k } } { 3 } , } } & { { C _ { g } ^ { P } = \displaystyle \sum _ { k } 2 \hat { \lambda } _ { k } , } } \end{array}
+$$
+
+with $N _ { c } ( k )$ and $Q _ { k }$ being the $\mathrm { S U ( 3 ) _ { c } }$ colour degrees of freedom and charges carried by $F _ { k }$ and we assume degenerate masses of $M _ { k } \ = \ F$ for simplicity. In the following，we will denote the couplings and charges of vector-like fermion collectively as $\lambda _ { F } = \{ \lambda _ { k } , \hat { \lambda } _ { k } \}$ and $Q _ { F } = \{ Q _ { k } \}$ .In addition,the effective coupling for the $C P$ -odd operator can be induced by the anomaly of the chiral symmetry breaking. This is nothing but the effective WZW term [8,9]. In the next section,a specific model construction will be given.
+
+Due to the couplings,we expect the following relations [75]
+
+$$
+\begin{array} { r l } & { \Gamma ( \Phi _ { S / P } \to g g ) \propto ( C _ { g } / F ) ^ { 2 } , } \\ & { \Gamma ( \Phi _ { S / P } \to \gamma \gamma ) \propto ( C _ { \gamma } / F ) ^ { 2 } . } \end{array}
+$$
+
+The cross section of the production process of $g g \ \to \ \Phi _ { S / P }$ should only depend on $( C _ { g } / F ) ^ { 2 }$ ， hence the' following semi-analytic formula for the signal process could be expected, $\sigma [ g g \ $ $\Phi _ { S / P } \to \gamma \gamma ] \sim ( C _ { g } / F ) ^ { 2 } ( C _ { \gamma } ^ { 2 } f _ { 2 } ) / ( C _ { \gamma } ^ { 2 } f _ { 2 } + C _ { g } ^ { 2 } f _ { 1 } ) .$ （20 Here $( f _ { 1 } , f _ { 2 } )$ are constants and one expect $f _ { 1 } / f _ { 2 } \propto ( \alpha _ { s } / \alpha ) ^ { 2 } \sim ( 1 0 ^ { 2 } - 1 0 ^ { 3 } )$ (notice that the charge $Q _ { k }$ is absorbed into $C _ { \gamma }$ ： We find σ[gg→Φs/p] ≈(6.2 fb) × C²(1 TeV)2.
+
+We perform the numerical analysis of the diphoton excess by using the implementation of the dimension-five operatorsEq. (1）in FeynRules [1O] and generate events with MadGraph [11]，interfaced with Pythia [12] and Delphes[13] for the parton shower,hadronization and the fast detector simulations. The analysis is conducted based on the CMS cuts in Ref. [2]. The diphoton events are reconstructed by selecting photons such that $p _ { T } ( \gamma ) \geq 7 5$ GeV, $| \eta ( \gamma ) | \leq$ 2.5 and $| \eta ( \gamma ) |$ not within (1.4442,1.566).At least one photon should be in the barrel region, i.e., $| \eta | \leq 1 . 4 4 4 2$ . The diphoton invariant mass should be $m _ { \gamma \gamma } \geq 2 3 0$ GeV.For events with one photon in the end-cap region such that $| \eta ( \gamma ) | \geq$ 1.566,we require $m _ { \gamma \gamma } \geq 3 2 0$ GeV.Furthermore, onlytheeventswiththediphoton invariant mass in the range of $m _ { \gamma \gamma } \in ( 6 5 0 \mathrm { G e V } , 8 0 0 \mathrm { G e V }$ ）are selected. In order to account for the diphoton excess at LHC,the cross section of $\sigma ( p p  \Phi $ $\gamma \gamma$ ）at the LHC 13 TeV should be around $3 - 1 3$ fb,while the Run I constrains tell us that the cross section at the LHC 8 TeV should be less than 1.5 fb. Fig. 1 shows the contour plot on the $( C _ { \gamma } / C _ { g } , C _ { g } )$ plane for the $\sigma ( p p  \Phi  \gamma \gamma )$ （20 at the8 TeV and 13 TeVLHC,from which we can infer that small $C _ { g } \lesssim 3$ requires a large ratio $C _ { \gamma } / C _ { g } \gtrsim 8$ . Notice that in the case of degenerate coupling and charge for the vector-like fermions, $C _ { \gamma } / C _ { g } = N _ { c } Q _ { F } ^ { 2 } / 4$ ，therefore from the plot， we can see that our theory even remains to have small coupling $\lambda _ { F } \lesssim 1$ for $Q _ { F } \gtrsim 3$ when we fix $M _ { F } = 1$ TeV $C _ { g } ^ { S } = 4 \lambda _ { F } N _ { f } / 3$ and $C _ { g } ^ { P } = 2 \lambda _ { F } N _ { f }$ through Eq. (3))
+
+![](images/d02f9b7a29eb795548d046b296cbd9c71f1c62eca8cc85920570aa64114c5ac0.jpg)  
+FIG.1:The cross sections of $\sigma [ p p  \Phi  \gamma \gamma ]$ (unit:fb) on the $( C _ { \gamma } / C _ { g } , C _ { g } )$ plane at 8 TeV (in green dashed) and 14 TeV (in blue solid) with $F =$ 1 TeV.The pink region represents the region that can explain the LHC 13 TeV results while remains unconstrained from LHC Run-I bound.
+
+# III. THEMODEL WITHNEWSTRONG DYNAMICS
+
+Next,we turn to a specific model setup,by assuming a new QCD-like strong sector with the gauge symmetry of SU(N $\mathbf { n }$ ). The new strong dynamics possesses the properties of confinement and the asymptotic freedom.We denote the pion decay constant of new strong dynamics as $f _ { \Pi }$ ， and the dynamical scale as $\Lambda _ { n }$ .They are related as $\Lambda _ { n } \simeq 4 \pi f _ { \Pi } / \sqrt { N _ { n } }$ by the large $N$ scaling relation. Unlike the technicolour theories [14- 16],the strong sector is not necessarily related to the electroweak symmetry breaking.As a result，we are free to consider the case where only gauge bosons of unbroken gauge symmetries,namely,gluons and photons,can talk directly to the new sector. We assume a set of vector-like fermions $( \psi ^ { 1 } , \psi ^ { 2 } )$ under the fundamental representation of the new gauge group SU(N $\mathrm { n }$ ).We are especially interested in the case that only the $\mathrm { S U ( 3 ) _ { c } }$ and $\mathrm { U } ( 1 ) _ { \mathrm { Y } }$ fields have the anomaly in order to account for the diphoton excess.This can be realized by assuming that the fundamental fermions $( \psi ^ { 1 } , \psi ^ { 2 } )$ in the new strong sector belong to the singlets of SM $\mathrm { S U } ( 2 ) _ { \mathrm { L } }$ gauge group. In order to embed the $\mathrm { S U ( 3 ) _ { c } }$ group and have the colour-singlet pNGBs,we consider the minimal case with $N _ { f } = 4$ and gauge the subgoup $\mathrm { S U ( 3 ) _ { c } \times U ( 1 ) _ { Y } }$ of SU(4). The quantum numbers of $( \psi ^ { 1 } , \psi ^ { 2 } )$ are summarized in Table.I. More general discussions of the global symmetrybreaking patterns in different representations under the new gauge symmetries can be found in Ref.[17]. The LHC phenomenology of the models with vectorlike confinement were studied in Refs. [18, 19].
+
+TABLE I: The field content of the minimal model.（204号 $\forall Y _ { 1 , 2 } \in \mathbb { Q }$   
+
+<html><body><table><tr><td></td><td>SU(Nn) SU(3)c SU(2)L U(1)Y</td><td></td><td></td><td></td></tr><tr><td>L.R</td><td>Nn</td><td>3</td><td>1</td><td>Y1</td></tr><tr><td>，R</td><td>Nn</td><td>1</td><td>1</td><td>Y2</td></tr></table></body></html>
+
+All gauge anomalies are cancelled since the fermions $( \psi ^ { 1 } , \psi ^ { 2 } )$ are vector-like under both SU(N $\mathbf { n }$ ） and the SM gauge groups. The requirement of the asymptotical freedom of the new gauge theory SU(N $\mathrm { n }$ )bounds the number of flavor to be $N _ { f } \le 1 1 N _ { n } / 2$ ，which is easily satisfy for $N _ { f } = 4$ and $N _ { n } \geq 3$ in our model [76]. In addition, the asymptotical freedom of QCD should be retained,which bounds the color degrees of freedom in the new strong sector as $N _ { n } \leq 1 0$ ：
+
+In the limit of vanishing SM gauge couplings, the strong sector possesses the global chiral symmetry of $\mathrm { S U ( 4 ) _ { L } \times \mathrm { S U ( 4 ) _ { R } \times U ( 1 ) _ { A } \times U ( 1 ) _ { B _ { n } } } }$ where $\mathrm { U } ( 1 ) _ { \mathrm { B _ { n } } }$ denotes the baryon number symmetry in the new strong sector. The axial symmetry of $\mathrm { U } ( 1 ) _ { \mathrm { A } }$ is broken by the instanton effects and will be neglected henceforth. The confinement of the theory at a new scale $\Lambda _ { n }$ will induce spontaneous chiral symmetry breaking of $\mathrm { S U ( 4 ) _ { L } \times S U ( 4 ) _ { R } \to S U ( 4 ) _ { V } }$ ，which results in 15 pNGBs $\Pi ^ { A }$ . They can be decomposed into representations of SM gauge goup $\mathrm { S U ( 3 ) _ { c } \times S U ( 2 ) _ { L } \times U ( 1 ) _ { Y } }$ as follows
+
+$$
+1 5  ( 8 , 1 ) _ { 0 } + ( 3 , 1 ) _ { Y _ { 1 } - Y _ { 2 } } + ( \bar { 3 } , 1 ) _ { Y _ { 2 } - Y _ { 1 } } + ( 1 , 1 ) _ { 0 } .
+$$
+
+Below,we label the colour octet, triplet and singlet pNGBs as $\Phi _ { 8 }$ ， $\Phi _ { 3 }$ ,and $\Phi _ { 1 }$ ,respectively. The masses of pNGBs arise from the gauge-invariant mass terms of $- m _ { Q } ( \psi ^ { 1 } \psi ^ { 1 } + \psi ^ { 2 } \psi ^ { 2 } )$ for vectorlike fermions.Such mass terms provide the dominant mass source and the gauging of SM group only splits the colour octets $\Phi _ { 8 }$ and singlets $\Phi _ { 1 }$ .The meson masses are given by the Gell-Mann $\underline { { \boldsymbol { \mathbf { \Pi } } } }$ Oakes $-$ Renner relation [20]
+
+$$
+\begin{array} { l } { { { \cal M } _ { \Phi _ { 8 } } ^ { 2 } \sim 2 m _ { Q } \Lambda _ { n } ^ { 3 } / f _ { \Pi } ^ { 2 } + \left( \frac { 3 g _ { s } ^ { 2 } } { 1 6 \pi ^ { 2 } } \right) \Lambda _ { n } ^ { 2 } , } } \\ { { { \cal M } _ { \Phi _ { 3 } } ^ { 2 } \sim 2 m _ { Q } \Lambda _ { n } ^ { 3 } / f _ { \Pi } ^ { 2 } + \left( \frac { g _ { s } ^ { 2 } } { 2 4 \pi ^ { 2 } } + \frac { ( Y _ { 1 } - Y _ { 2 } ) ^ { 2 } g ^ { \prime 2 } } { 1 6 \pi ^ { 2 } } \right) \Lambda _ { n } ^ { 2 } , } } \\ { { { \cal M } _ { \Phi _ { 1 } } ^ { 2 } \sim 2 m _ { Q } \Lambda _ { n } ^ { 3 } / f _ { \Pi } ^ { 2 } . } } \end{array}
+$$
+
+The singlet remains the lightest as a result of the Witten theorem [21] and is a good candidate for the diphoton excess.Below,we focus on a benchmark model with $f _ { \Pi } \simeq 2 . 5$ TeV with $N _ { n } = 1 0$ for a composite DM candidate in the spectrum.The corresponding vector-like fermion mass is found to be $m _ { Q } \simeq 1$ GeV to accommodate a 750 GeV singlet in the new strong dynamical sector. Note, the benchmark model given here is made by assuming the unitarity bound to the DM mass is saturated. More generic choices of the pion decay constant of $f _ { \Pi }$ and the gauge symmetries can be expected. Correspondingly, the vectorlike fermion mass range spanning from $\mathcal { O } ( 1 )$ GeV to $\mathcal { O } ( 1 0 )$ GeV is also natural.
+
+The pion-number violating interactions arise from the effective WZW term
+
+$$
+{ \mathcal { L } } _ { \mathrm { W Z W } } = - { \frac { N _ { n } g _ { B } g _ { C } } { 8 \pi ^ { 2 } } } { \frac { \Pi _ { A } } { f _ { \Pi } } } F ^ { \mu \nu , B } \widetilde { F } _ { \mu \nu } ^ { C } \mathrm { T r } [ T ^ { A } T ^ { B } T ^ { C } ] ,
+$$
+
+where $^ { g _ { B , C } }$ are the gauge couplings associated with the SM gauge feld strength tensors $F _ { \mu \nu } ^ { B , C }$ ， and the dual field strength tensor is defined as $\widetilde { \cal F } _ { \mu \nu } ^ { A } \equiv { } \frac { 1 } { 2 } \epsilon _ { \mu \nu \rho \sigma } F ^ { \rho \sigma , A }$ Here, the trace is performed over the SM indices.
+
+In principle,we can freely choose the hypercharges of $\mathrm { S U ( 3 ) _ { c } }$ triplet and singlet.The singlet couplings to the hypercharge fields lead to the possible diphoton signals，given that $Y _ { 1 } ~ \neq ~ Y _ { 2 }$ Note that topological interactions between the colour-triplet and the SM gauge bosons are forbidden by the $\mathrm { S U ( 3 ) _ { c } }$ symmetry. An interesting and special case is $Y _ { 2 } ~ = ~ 0$ where $\psi ^ { 2 }$ is a SM singlet. In this case，the baryonic composites $( \psi ^ { 2 } ) ^ { N _ { n } } \equiv \epsilon ^ { a _ { 1 } . . . a _ { N _ { n } } } \psi _ { a _ { 1 } } ^ { 2 } . . . \psi _ { a _ { N _ { n } } } ^ { 2 }$ could be a dark matter candidate. Therefore,we will use $Y _ { 2 } = 0$ as our benchmark model in the later discussions.
+
+According to the effective WZW terms in Eq.(7) for the singlet $\Phi _ { 1 }$ , we expect its couplings to the $( g g , \gamma \gamma , \gamma Z , Z Z )$ final states.Likewise, the colour octet $\Phi _ { 8 }$ can couple to $( g g , g \gamma , g Z )$ The explicit expressions for the WZW effective terms are given in Eqs. (A4) and (A5),with the corresponding partial decay widths of $\Phi _ { 1 }$ and $\Phi _ { 8 }$ given in Eqs. (A7) and (A8). In Fig.2,we display the decay branching fractions of the singlet $\Phi _ { 1 }$ with the varying inputs of $| Y _ { 1 } |$ by assuming that $Y _ { 2 } = 0$ . The increasing $| Y _ { 1 } |$ apparently leads to the enhancement of the decay modes of $( \gamma \gamma , \gamma Z , Z Z )$ ：
+
+![](images/c8c651c7c19400ab7b6135d5d14a4dc3bb8f34c5d8c3222b1ee632762f58ebf2.jpg)  
+FIG.2:The decay branching ratios into various final states for the singlet $\Phi _ { 1 }$ ：
+
+If the future LHC experiments discover both singlet $\Phi _ { 1 }$ and octet $\Phi _ { 8 }$ ，one may measure the signal rates to $\gamma \gamma$ and dijets for $\Phi _ { 1 }$ ，and the signal rates of $\gamma$ plus jets and dijets for $\Phi _ { 8 }$ . Obviously, these signal rates can be used to determine the hypercharges in the minimal model. From
+
+Eqs. (A7) and (A8), one has
+
+$$
+\begin{array} { l } { { \displaystyle Y _ { 1 } ^ { 2 } = \frac { 5 } { 9 6 } \frac { \alpha _ { s } } { \alpha } \frac { \Gamma [ \Phi _ { 8 } \to g \gamma ] } { \Gamma [ \Phi _ { 8 } \to g g ] } , } } \\ { { \displaystyle Y _ { 2 } ^ { 2 } = Y _ { 1 } ^ { 2 } \pm \frac { \alpha _ { s } } { \alpha } \Big ( \frac { 2 } { 9 } \cdot \frac { \Gamma [ \Phi _ { 1 } \to \gamma \gamma ] } { \Gamma [ \Phi _ { 1 } \to g g ] } \Big ) ^ { 1 / 2 } . } } \end{array}
+$$
+
+Note from the meson mass spectrum in Eq. (6), the octets are typically $\mathcal { O } ( 1 )$ TeV heavier than the singlets.
+
+The total production cross sections can be obtained by mapping the EFT parameter $C _ { g }$ into the minimal model， which is $\begin{array} { r } { C _ { g } \ = \ \frac { 2 N _ { n } } { \sqrt { 6 } } } \end{array}$ from Eqs.(7) and (A4). It is crucial to note the production of thecoloursinglet $\Phi _ { 1 }$ is proportional to the number of colours in the new confining strong dynamics. Based on our numerical simulations by following the approaches described in the previous section and the decay branching ratios displayed in Fig.2,we plot the signal predictions of $\sigma [ p p  \Phi _ { 1 }  \gamma \gamma ]$ on the $( f _ { \Pi } , | Y _ { 1 } | )$ plane in Fig. 3 by fixing $Y _ { 2 } = 0$ for ${ \mathrm { S U } } ( 1 0 )$ hidden gauge symmetry. The parameter region with large $\left| Y _ { 1 } \right|$ and small $f _ { \Pi }$ inputs have been excluded by the ATLAS searches for $Z \gamma$ [30].Furthermore,the total decay width of $\Phi _ { 1 }$ is found to be hardly larger than O.1 GeV for parameter regions favored by the LHC 13 TeV and 8 TeV data sets. Therefore, the limits on cross section of the spin-O resonance to diphoton in the narrow width hypothesis with $\Gamma _ { X } = 0 . 1$ GeV[5] is applicable to some extent.
+
+In addition to the diphoton signal predictions we explored above,the minimal model also predicts several other experimental signatures. We note above that the colour singlet $\Phi _ { 1 }$ decays also to gg.Correspondingly,one would envision the future dijet searches around the mass resonance of $\sim 7 5 0$ GeV.Expressed in terms of the effective couplings defined in Eq. (1)，the ratio between the diphoton and gluon pair signals are determined by $\begin{array} { r } { ( C _ { \gamma } / C _ { g } ) ^ { 2 } = \frac { 9 } { 1 6 } ( Y _ { 1 } ^ { 2 } - Y _ { 2 } ^ { 2 } ) ^ { 2 } } \end{array}$ . Therefore,the future observation and measurements of the dijet signals are not only useful for justifying the model,but also crucial for determining the hypercharge differences for the underlying model.
+
+The other experimental constraints related to the minimal model are the searches for the vector-like quarks $\psi ^ { 1 }$ and the colour triplet $\Phi _ { 3 }$ （204号 in the spectrum. They can be pair produced and hadronize with quarks and gluons to form the $R$ -hadrons.The $R$ -hadron searches at the LHC thus place mass limits on the colour triplet,and the colour triplet mass is bound above around 845 GeV by LHC Run-I results [32,33]. The LHCRun-II at 13 TeV would set the bound more stringent [34]. The analysis in Ref. [35] set an exclusion to charged stable particles to $\sim 9 0 0$ GeV for sufficiently long decay lengths of $c \tau \geq 1 0$ m.
+
+![](images/f14260508550fe8de61a6f0c4b693326e37a57becaef25590e877d62c476e262.jpg)  
+FIG.3: The diphoton cross section of $\sigma [ p p  \Phi _ { 1 } $ $\gamma \gamma ]$ (unit:fb)on the $\left( f _ { \Pi } , \left| Y _ { 1 } \right| \right)$ plane for $Y _ { 2 } = 0$ ,with $K = 1 . 6$ [31] for the NLO QCD correction. The blue and green curves correspond to the $1 3 \mathrm { \ T e V }$ and 8 TeVpredictions,respectively.The total decay width of $\Phi _ { 1 }$ in unit of GeV is shown by purple contours. Cyan region are allowed region of $Z \gamma$ final states from CMS Run I,and magenta region is favored by 13 TeV diphoton excessandallowedby8 TeVCMSdiphoton limits.The colour number in the hidden strong sector is chosen as $N _ { n } = 1 0$ ．A benchmark point marked by star correspond to $f _ { \Pi } \simeq 2 . 5 ~ \mathrm { T e V } , | Y _ { 1 } | = 4 / 3$ ，and the diphoton signal cross section of 5.4 fb.
+
+The colour triplet $\Phi _ { 3 }$ has hypercharge $Y _ { 1 } ~ -$ $Y _ { 2 }$ ,so that it can decay to SM lepton-quark pair through higher-dimensional operators for specific choices of $Y _ { 1 } - Y _ { 2 }$ . Examples include
+
+$$
+\begin{array} { c } { { Y _ { 1 } - Y _ { 2 } = \displaystyle \frac { 2 } { 3 } : \frac { 1 } { \Lambda ^ { 2 } } ( \bar { \psi } ^ { 2 } \gamma ^ { \mu } \gamma _ { 5 } \psi ^ { 1 } ) ( \bar { d } _ { R } \gamma _ { \mu } e _ { R } ) , } } \\ { { { } } } \\ { { Y _ { 1 } - Y _ { 2 } = \displaystyle \frac { 5 } { 3 } : \frac { 1 } { \Lambda ^ { 2 } } ( \bar { \psi } ^ { 2 } \gamma ^ { \mu } \gamma _ { 5 } \psi ^ { 1 } ) ( \bar { u } _ { R } \gamma _ { \mu } e _ { R } ) . } } \end{array}
+$$
+
+For the benchmark in Fig.3,one may look for the pair-produced lepton-quark signals of $j j \ell \ell$ to search for this resonance.The current mass exclusion of $\Phi _ { 3 }$ is $\sim ~ 1$ TeV from the ATLAS 8 TeV searches [36]. For sufficiently small $\Lambda$ ，the metastable $\Phi _ { 3 }$ is expected to decay before the era of the big bang nucleosynthesis(BBN） [37- 39]through Eq. (9). This is different from the case in Ref. [28] where small symmetry-breaking Yukawa couplings between the new fermions and the Higgs doublet are expected to avoid the tension with BBN induced by the metastable charged meson.We left the careful study of BBN to future work.
+
+Thereare also baryoniccompositesin the SU(Nn） confininggaugetheorysince $\pi _ { 3 } ( \mathrm { S U } ( 4 ) ^ { 2 } / \mathrm { S U } ( 4 ) ) = \mathbb { Z }$ . Such baryonic composites usually saturate the cut off scale $4 \pi f _ { \Pi }$ and thus are heavy. They are also the topological objects,which in general get more suppressed production rate besides of the heavy mass kinematical suppression. Therefore,we only expect very tiny production rate at the LHC.In the case of $m _ { \psi ^ { 1 } } \geqslant m _ { \psi ^ { 2 } }$ and $Y _ { 2 } = 0$ [77], the $( \psi ^ { 2 } ) ^ { N _ { n } }$ baryonic composites would be a composite DM candidate.The thermally averaged annihilation rate of the dark baryons could be estimated using partial wave unitarity [23, 24, 28],and the dark baryon mass could be bounded from above as $m _ { B } ~ \lesssim ~ 1 0 0$ TeV [78]. When this bound is saturated,we find $f _ { \Pi } ~ \simeq ~ 2 . 5$ TeV with $N _ { n } \ =$ 10 as our benchmark model marked by star in Fig.3. The estimation is made by employing the large $N$ scaling for the composite baryon mass of $m _ { B } \sim N _ { n } \Lambda _ { n }$ [26,27]. In the early universe,once it is thermally produced, the correct abundance of baryonic dark matter could be obtained with a relatively strong coupling. One may ask whether this baryonic dark matter is metastable through instanton effects [29]. However,the enormous suppression factor which is proportional to $\exp ( - 8 \pi ^ { 2 } / g _ { s } ^ { 2 } )$ will make its life time much longer than the age of our universe. And the consequence of topological dark matter on cosmic ray signals and the decay of the DM through higher dimension operators is highly related with the choice of $N _ { n }$ [22, 25],which is beyond the scope of this work. For more generic case without considering a hypothetical composite DM candidate with $Y _ { 2 } = 0$ as in the minimal model, the 750 GeV diphoton signals can be accommodated by varying $f _ { \Pi }$ from several hundred GeV to $\mathcal { O } ( 1 )$ TeV with $3 \leq N _ { n } \leq 1 0$
+
+# IV.CONCLUSION
+
+We have studied the possibility that a singlet scalar ( $\boldsymbol { C P }$ -even or $C P$ -odd）to account for the recent diphoton excess observed by ATLAS and CMS which has attracted a lot of interests [37, 40-74]. We focused on the gluongluon initiated process and studied it in an effective field theory approach，where the corresponding higher dimension operators can be generated through the heavy vector-like fermions. We then consider a natural example that the singlet scalar is a pseudo-Goldstone boson from chiral symmetry breaking of a new strong sector and the interactions with SM gauge bosons (the gluon，photon and $Z$ ）arepurely topological and arising from anomaly.We consider the minimal favor symmetry group $\mathrm { S U } ( 4 ) \ifmmode \times \else \texttimes \fi { } \mathrm { S U } ( 4 )$ with 15 pNGBs and find the lightest pNGB is colour-singlet,which is a good candidate for the diphoton excess. Our model also predicts the colour-octet，colour-triplet scalars and composite baryons. For the colour-triplet,there is no topological interaction arising from anomaly due to the $\mathrm { S U ( 3 ) _ { c } }$ symmetry,therefore it could be meta-stable due to higher dimensional operators and generates $R$ -hadron like signal at the LHC. Other anomaly decays of colour-octet scalars are also discussed.The lightest neutral baryon could be a viable composite dark matter.If the diphoton excess is confirmed in the near future,the discovery of these resonances and the precise production and decay will provide us a strong test on our scenario.
+
+Acknowledgments.We thank YangBai,Ran Huo, Zhen Liu,and Lian-tao Wang for very helpful discussions. This work is supported by National Science Foundation of China (under grant No. 11335007，11575176)，and the Fundamental Research Funds for the Central Universities (under grant No. WK2030040069 and No. 0903005203404).
+
+Note added.Before this paper is submitted, Ref.[37] appeared which also discussed a singlet pNGB production and decay through anomaly. Nevertheless, our model considers a more general charge assignment and focus on the case where the second confining fermion $\psi ^ { 2 }$ is a SM singlet, where $N _ { n }$ copies of $\psi ^ { 2 }$ could be a composite dark matter candidate. We also consider the possibility that colour triplet scalar is meta-stable,which results a $R$ -hadron like signal at the LHC Run I (its decay pattern through the higher dimensional operator is also different).Moreover，we calculate the predicted hypercharge of the two confining fermions and the confining colour number $N _ { n }$ in terms of pNGBs different diboson decay rate.
+
+# Appendix A: The SU(4) generators and WZW effective terms
+
+We use the generalized Gell-Mann matrices as our generators
+
+$$
+T ^ { a } = { \frac { 1 } { 2 } } \left( \begin{array} { c c } { { \lambda ^ { a } } } & { { 0 } } \\ { { 0 } } & { { 0 } } \end{array} \right) , \qquad T ^ { 1 5 } = { \frac { 1 } { 2 \sqrt { 6 } } } \left( \begin{array} { c c c c } { { 1 } } & { { 0 } } & { { 0 } } & { { 0 } } \\ { { 0 } } & { { 1 } } & { { 0 } } & { { 0 } } \\ { { 0 } } & { { 0 } } & { { 1 } } & { { 0 } } \\ { { 0 } } & { { 0 } } & { { 0 } } & { { - 3 } } \end{array} \right)
+$$
+
+where $\lambda ^ { a }$ for $a = 1 , \cdots , 8$ are the SU(3) GellMann matrices with $\operatorname { T r } ( \lambda ^ { a } \lambda ^ { b } ) = 2 \delta ^ { a b }$ ，and $T ^ { 1 5 }$ （204号 is the third Cartan generator. $T ^ { \imath }$ with $i = 9 , . . . 1 4$ are not used in our evaluation and their expressions are neglected. Collectively,we write down the pNGBs as
+
+$$
+\Pi _ { A } T ^ { A } \ = \ \Phi _ { 8 } ^ { a } T ^ { a } + \Phi _ { 3 } ^ { i } { \hat { T } } ^ { i } + ( \Phi _ { 3 } ^ { i } { \hat { T } } ^ { i } ) ^ { \dagger } + \Phi _ { 1 } T ^ { 1 5 } .
+$$
+
+Our hypercharge generator is defined by
+
+$$
+\begin{array} { r } { Y \equiv \mathrm { d i a g } ( Y _ { 1 } , Y _ { 1 } , Y _ { 1 } , Y _ { 2 } ) . } \end{array}
+$$
+
+With the conventions listed above， itis straightforward to write down the WZW term between the pNGB $\Pi _ { A }$ and the SM gauge fields according to Eq. (7). For the singlet $\Phi _ { 1 }$ ，they read
+
+$$
+\begin{array} { l } { { { \mathcal { L } } _ { \Phi _ { 1 } } = - \frac { N _ { n } g _ { s } ^ { 2 } } { 8 \pi ^ { 2 } } \frac { \Phi _ { 1 } } { f _ { \Pi } } G _ { \mu \nu } ^ { a } G _ { \nu } ^ { \mu } , \mathrm { { T r } } [ T ^ { 1 5 } T ^ { a } T ^ { b } ] } } \\ { ~ - \frac { N _ { n } g ^ { 2 } } { 8 \pi ^ { 2 } } \frac { \Phi _ { 1 } } { f _ { \Pi } } B _ { \mu \nu } \widetilde { B } ^ { \mu \nu } ~ { \mathrm { T r } } [ T ^ { 1 5 } Y ^ { 2 } ] }  \\ { ~ = - \frac { N _ { n } \alpha _ { s } } { 8 \sqrt { 6 } \pi f _ { \Pi } } \Phi _ { 1 \mu _ { \nu } } \widetilde { G } ^ { a } , } \\ { ~ - \sqrt { 6 } ( Y _ { 1 } ^ { 2 } - Y _ { 2 } ^ { 2 } ) \frac { N _ { n } \alpha _ { s } } { 8 \pi f _ { \Pi } } \Phi _ { 1 } ( \widetilde { A } _ { \mu \nu } A ^ { \mu \nu } } \\ { ~ - 2 t _ { W } \widetilde { Z } _ { \mu \nu } A ^ { \mu \nu } + t _ { W } ^ { 2 } \widetilde { Z } _ { \mu \nu } Z ^ { \mu \nu } ) , } \end{array}
+$$
+
+where $t _ { W } \equiv \sin \theta _ { W } / \cos \theta _ { W }$ .For octets $\Phi _ { 8 }$ ，they read
+
+$$
+\begin{array} { l } { { \mathcal { L } _ { \Phi _ { 8 } } = - \frac { N _ { n } g _ { s } ^ { 2 } } { 8 \pi ^ { 2 } } \frac { \Phi _ { 8 } ^ { a } } { f _ { \Pi } } G _ { \mu \nu } ^ { b } \tilde { G } ^ { c , \mu \nu } ~ \mathrm { T r } [ T ^ { a } T ^ { b } T ^ { c } ] } } \\ { { \ } } \\ { { \ } } \\ { { \ } } \\ { { \qquad - \frac { N _ { n } g ^ { \prime } g _ { s } } { 8 \pi ^ { 2 } } \frac { \Phi _ { 8 } ^ { a } } { f _ { \Pi } } G _ { \mu \nu } ^ { b } \tilde { B } ^ { \mu \nu } ~ \mathrm { T r } [ T ^ { a } T ^ { b } Y ] } } \\ { { \ } } \\ { { \ } } \\ { { \qquad = - \frac { N _ { n } \alpha _ { s } } { 8 \pi f _ { \Pi } } d ^ { a b c } \Phi _ { 8 } ^ { a } G _ { \mu \nu } ^ { b } \tilde { G } _ { \mu \nu } ^ { c } } } \\ { { \ } } \\ { { \qquad } } \\ { { \qquad - \frac { Y _ { 1 } N _ { n } \sqrt { \alpha \alpha _ { s } } } { 4 \pi f _ { \Pi } } \Phi _ { 8 } ^ { a } G _ { \mu \nu } ^ { a } ( - t _ { W } \tilde { Z } ^ { \mu \nu } + \tilde { A } ^ { \mu \nu } ) , } } \end{array}
+$$
+
+where the symmetric tensor $d ^ { a b c }$ is given by
+
+$$
+\{ T ^ { a } , T ^ { b } \} \ = \ \frac 1 3 \delta ^ { a b } + d ^ { a b c } T ^ { c } .
+$$
+
+The partial decay widths for the singlet $\Phi _ { 1 }$ can beobtained from the WZW term between the pNGB $\Pi _ { A }$ and gauge fields from Eq. (A4),
+
+$$
+\begin{array} { r l } & { \Gamma [ \Phi _ { 1 } \to g _ { 9 } ] = \frac { N _ { 1 } ^ { 9 } \alpha _ { 9 } ^ { 2 } } { 1 9 2 \pi ^ { 3 } H _ { 1 } ^ { 9 } } M _ { 9 _ { 1 } } ^ { 4 } , } \\ & { \Gamma [ \bar { \Phi } _ { 1 } \to \gamma ] = \frac { 3 N _ { 1 } ^ { 9 } \alpha _ { 9 } ^ { 2 } } { 1 2 8 \pi ^ { 5 } \beta _ { 1 } ^ { 7 } } ( Y _ { 1 } ^ { 2 } - Y _ { 2 } ^ { 2 } ) ^ { 2 } \mathcal { M } _ { 9 _ { 2 } } ^ { 3 } , } \\ & { \Gamma [ \bar { \Phi } _ { 1 } \to \gamma ] = \frac { 3 N _ { 2 } ^ { 9 } \alpha _ { 0 } ^ { 2 } T _ { 1 0 } ^ { 9 } } { 6 4 \pi ^ { 3 } \beta _ { 1 } ^ { 7 } } ( Y _ { 1 } ^ { 2 } - Y _ { 2 } ^ { 2 } ) ^ { 2 } \mathcal { M } _ { 9 _ { 1 } } ^ { 3 } , } \\ & { \qquad \times \left( 1 - \frac { \pi \alpha _ { 0 } ^ { 2 } } { M _ { 9 _ { 1 } } ^ { 5 } } \right) ^ { 3 } , } \\ & { \Gamma [ \bar { \Phi } _ { 1 } \to Z Z ] = \frac { 3 N _ { 2 } ^ { 9 } \alpha _ { 0 } ^ { 2 } T _ { 1 0 } ^ { 9 } } { 1 2 8 \pi ^ { 3 } \beta _ { 1 } ^ { 7 } } ( Y _ { 1 } ^ { 2 } - Y _ { 2 } ^ { 2 } ) ^ { 2 } \mathcal { M } _ { 9 _ { 2 } } ^ { 3 } , } \\ & { \qquad \times \left( 1 - \frac { 4 \pi \alpha _ { 0 } ^ { 2 } } { M _ { 9 _ { 1 } } ^ { 5 } } \right) ^ { 3 / 2 } , } \end{array}
+$$
+
+and also the partial widths of the octet $\Phi _ { 8 }$ from Eq. (A5),
+
+$$
+\begin{array} { l } { { \Gamma [ \Phi _ { 8 }  g g ] = \displaystyle \frac { 5 } { 4 } \frac { M _ { \Phi _ { 8 } } ^ { 3 } } { M _ { \Phi _ { 1 } } ^ { 3 } } } } \\ { { { } } } \\ { { \Gamma [ \Phi _ { 8 }  g \gamma ] = 2 4 \displaystyle \frac { \alpha Y _ { 1 } ^ { 2 } } { \alpha _ { s } } \frac { M _ { \Phi _ { 8 } } ^ { 3 } } { M _ { \Phi _ { 1 } } ^ { 3 } } \Gamma [ \Phi _ { 1 }  g g ] , } } \\ { { { } } } \\ { { { \Gamma [ \Phi _ { 8 }  g Z ] = 2 4 \displaystyle \frac { \alpha t _ { W } ^ { 2 } Y _ { 1 } ^ { 2 } } { \alpha _ { s } } \frac { M _ { \Phi _ { 8 } } ^ { 3 } } { M _ { \Phi _ { 1 } } ^ { 3 } } } } } \\ { { { } } } \\ { { { \displaystyle \qquad \times ( 1 - \frac { m _ { Z } ^ { 2 } } { M _ { \Phi _ { 8 } } ^ { 2 } } ) ^ { 3 } \Gamma [ \Phi _ { 1 }  g g ] . } } } \end{array}
+$$
+
+[1]M.Kado,“ATLAS results” Talk at ATLAS and CMS physics results from Run 2,CERN, Switzerland,December 15 (2015)；ATLAS Collaboration,ATLAS-CONF-2015-081.   
+[2] J. Olsen，“CMS results,” Talk at ATLAS and CMS physics results from Run 2,CERN, Switzerland,December 15 (2015);CMS Collaboration, CMS-PAS-EXO-15-004.   
+[3] L. D.Landau, Dokl. Akad. Nawk., USSR 60, 207 (1948); C.N. Yang, Phys.Rev. 77, 242 (1950).   
+[4] The apparent width in the diphoton invariant mass distribution can be just detector effects like in the 125 GeV Higgs discovery.   
+[5] V. Khachatryan etal. [CMS Collaboration], Phys. Lett. B 750, 494 (2015) doi:10.1016/j.physletb.2015.09.062 [arXiv:1506.02301 [hep-ex]].   
+[6]G. Aad et al. [ATLAS Collaboration], Phys. Rev.D 92, no. 3，032004 (2015) doi:10.1103/PhysRevD.92.032004 [arXiv:1504.05511 [hep-ex]   
+[7] In other models where a singlet scalar couples to the vector fermions (charged under $\mathrm { S U ( 3 ) _ { c } }$ and $\mathrm { U } ( 1 ) _ { \mathrm { Y } }$ )，the coupling between $\Phi$ and SM gauge bosons are loop induced. To get the required excess rate,the coupling between $\Phi$ and vector fermion can be weak if the vector fermion has a a moderately large $Y _ { f }$ . This can exist in many perturbative models with singlet,like NMSSM, or some dark matter models, etc.   
+[8] J.Wess and B. Zumino,Phys.Lett.B 37,95 (1971). doi:10.1016/0370-2693(71)90582-X   
+[9] E.Witten，Nucl. Phys.B 223，422 (1983). doi:10.1016/0550-3213(83)90063-9   
+10]A．Alloul，B.Fuks and V.Sanz， JHEP 1404,110 (2014) doi:10.1007/JHEP04(2014)110 [arXiv:1310.5150 [hep-ph]].   
+11] J.Alwall,M.Herquet,F.Maltoni,O.Mattelaer and T.Stelzer，JHEP 1106,128 (2011) doi:10.1007/JHEP06(2011)128 [arXiv:1106.0522 [hep-ph]].   
+12] T.Sjostrand,S. Mrenna and P. Z. Skands, JHEP 0605(2006） 026doi:10.1088/1126- 6708/2006/05/026 [hep-ph/0603175].   
+13] J. de Favereau et al. [DELPHES 3 Collaboration], JHEP1402, 057 (2014) doi:10.1007/JHEP02(2014)057 [arXiv:1307.6346 [hep-ex]].   
+14] S.Weinberg，Phys.Rev. D 13,974 (1976). doi:10.1103/PhysRevD.13.974   
+15] L.Susskind,Phys.Rev.D 20,2619 (1979). doi:10.1103/PhysRevD.20.2619   
+16] C.T. Hill and E. H. Simmons, Phys. Rept．381， 235(2003）[Phys.Rept．390, 553(2004)] doi:10.1016/S0370-1573(03)00140-6 [hep-ph/0203079].   
+[17] A. Belyaev, G. Cacciapaglia, H. Cai, T. Flacke, A.Parolini and H. Serdio,arXiv:1512.07242 [hep-ph].   
+[18] C.Kilic，T.Okui and R. Sundrum，JHEP 1002,018 (2010) doi:10.1007/JHEP02(2010)018 [arXiv:0906.0577 [hep-ph]].   
+[19] C.Kilic and T.Okui,JHEP 1004,128 (2010) doi:10.1007/JHEP04(2010)128 [arXiv:1001.4526 [hep-ph]].   
+[20] M. Gell-Mann，R. J. Oakes and B. Renner, Phys. Rev. 175, 2195 (1968). doi:10.1103/PhysRev.175.2195   
+[21]E.Witten,Phys.Rev.Lett.51(1983）2351. doi:10.1103/PhysRevLett.51.2351   
+[22] R.Huo，S. Matsumoto，Y.L.S.Tsai and T.T.Yanagida,arXiv:1506.06929 [hep-ph].   
+[23]K. Griest and M. Kamionkowski, Phys. Rev. Lett. 64, 615 (1990). doi:10.1103/PhysRevLett.64.615   
+[24] K.Blum, Y. Cui and M. Kamionkowski, Phys. Rev. D 92, no. 2, 023528 (2015) doi:10.1103/PhysRevD.92.023528 [arXiv:1412.3463 [hep-ph].   
+[25]H. Murayama and J. Shu,Phys.Lett.B 686, 162(2010) doi:10.1016/j.physletb.2010.02.037 [arXiv:0905.1720 [hep-ph].   
+[26] E.Witten，Nucl.Phys.B 160,57(1979). doi:10.1016/0550-3213(79)90232-3   
+[27]O. Antipin, M. Redi, A. Strumia and E. Vigiani, JHEP 1507, 039 (2015) doi:10.1007/JHEP07(2015)039 [arXiv:1503.08749 [hep-ph].   
+[28] T.Appelquist et al.，Phys. Rev.D 92，no.7, 075030 (2015) doi:10.1103/PhysRevD.92.075030 [arXiv:1503.04203 [hep-ph]].   
+[29] E. D'Hoker and E. Farhi,Phys.Lett.B 134,86 (1984). doi:10.1016/0370-2693(84)90991-2   
+[30] G. Aad et al. [ATLAS Collaboration]，Phys. Lett.B738, 428 (2014) doi:i0.1016/j.physletb.2014.10.002 [arXiv:1407.8150 [hep-ex].   
+[31] M.Spira，A.Djouadi，D. Graudenzand P. M. Zerwas, Nucl. Phys. B 453, 17 (1995）doi:10.1016/0550-3213(95)00379-7 [hepph/9504378].   
+[32] S.Chatrchyan et al.[CMS Collaboration], JHEP 1307,122 (2013) doi:10.1007/JHEP07(2013)122 [arXiv:1305.0491 [hep-ex].   
+[33]G.Aad et al.[ATLAS Collaboration]，JHEP 1501,068 (2015) doi:10.1007/JHEP01(2015)068 [arXiv:1411.6795 [hep-ex].   
+[34] J. Barnard, P. Cox, T. Gherghetta and A. Spray, al Alv.IuIU.UU4Uu [Hep-pl].   
+[35] Z.Liuand B Tweedie, JHEP1506, 042 (2015) doi:10.1007/JHEP06(2015)042 [arXiv:1503.05923 [hep-ph].   
+[36] G. Aadetal.[ATLAS Collaboration], arXiv:1508.04735 [hep-ex].   
+[37] Y. Nakai,R.Satoand K. Tobioka, arXiv:1512.04924 [hep-ph].   
+[38] K. Harigaya and Y. Nomura, JHEP 1603, 091 (2016) doi:10.1007/JHEP03(2016)091 [arXiv:1602.01092 [hep-ph].   
+[39] M. Kawasaki, K.Kohri and T. Moroi, Phys. Rev.D71, 083502 (2005) doi:10.1103/PhysRevD.71.083502 [astroph/0408426].   
+[40] K.Harigaya and Y.Nomura,arXiv:1512.04850 [hep-ph].   
+[41] A.Pilaftsis,arXiv:1512.04931 [hep-ph].   
+[42] A.Angelescu,A. Djouadi and G.Moreau, arXiv:1512.04921 [hep-ph].   
+[43] R.Franceschini et al.，arXiv:1512.04933 [hepph].   
+[44] D.Buttazzo，A.Greljo and D.Marzocca, arXiv:1512.04929 [hep-ph].   
+[45] Y.Mambrini,G.Arcadi and A.Djouadi, arXiv:1512.04913 [hep-ph].   
+[46] S.Knapen,T.Melia,M. Papucci and K. Zurek, arXiv:1512.04928 [hep-ph].   
+[47] M.Backovic，A.Mariotti and D.Redigolo, arXiv:1512.04917 [hep-ph].   
+[48] S.Di Chiara，L.Marzola and M. Raida, arXiv:1512.04939 [hep-ph].   
+[49] T.Higaki,K.S.Jeong,N.Kitajima and F.Takahashi,arXiv:1512.05295 [hep-ph].   
+[50] S.D. McDermott,P. Meade and H. Ramani, arXiv:1512.05326 [hep-ph].   
+[51]J.Ellis,S.A.R.Ellis,J.Quevillon,V.Sanz and T.You,arXiv:1512.05327 [hep-ph].   
+[52] M.Low，A. Tesi andL. T. Wang, arXiv:1512.05328 [hep-ph].   
+[53]B．Bellazzini，R.Franceschini，F.Sala and J. Serra,arXiv:1512.05330 [hep-ph].   
+[54] R. S. Gupta, S. Jger,Y. Kats,G. Perez and E. Stamou,arXiv:1512.05332 [hep-ph].   
+[55] C. Petersson and R. Torre, arXiv:1512.05333 [hep-ph].   
+[56] E. Molinaro,F. Sannino and N. Vignaroli, arXiv:1512.05334 [hep-ph].   
+[57] Y. Bai, J. Berger and R. Lu, Phys. Rev. D 93, no. 7, 076009 (2016) doi:10.1103/PhysRevD.93.076009 [arXiv:1512.05779 [hep-ph].   
+[58] D．Aloni,K. Blum,A. Dery，A.Efrati and Y.Nir,arXiv:1512.05778 [hep-ph].   
+[59]A.Falkowski, O.Slone and T.Volansky,JHEP 1602,152 (2016) doi:10.1007/JHEP02(2016)152 [arXiv:1512.05777 [hep-ph]].   
+[60] C. Cski, J. Hubisz and J. Terning, Phys. Rev. D 93, no. 3, 035002 (2016) doi:10.1103/PhysRevD.93.035002 [arXiv:1512.05776 [hep-ph].   
+[61] J.Chakrabortty, A. Choudhury, P. Ghosh, S.Mondal and T. Srivastava,arXiv:1512.05767 [hep-ph].   
+[62]D. Curtin and C. B. Verhaaren, Phys. Rev. D 93, no. 5, 055011 (2016) doi:10.1103/PhysRevD.93.055011 [arXiv:1512.05753 [hep-ph].   
+[63] S. Fichet，G. von Gersdorff and C. Royon, Phys. Rev. D 93, no. 7, 075031 (2016) doi:10.1103/PhysRevD.93.075031 [arXiv:1512.05751 [hep-ph].   
+[64] W. Chao， R. Huoand J. H. Yu, arXiv:1512.05738 [hep-ph].   
+[65] S.V.DemidovandD. S. Gorbunov, arXiv:1512.05723 [hep-ph].   
+[66] J.M.No,V.‘Sanz and J. Setford, arXiv:1512.05700_[hep-ph].   
+[67]D．Beirevi，E.Bertuzzo,O.Sumensari and R. Zukanovich Funchal， Phys.Lett.B 757, 261(2016) doi:10.1016/j.physletb.2016.03.073 [arXiv:1512.05623 [hep-ph].   
+[68] R.Martinez,F.Ochoa and C. F. Sierra, arXiv:1512.05617 [hep-ph].   
+[69] P.Agrawal,J.Fan,B.Heidenreich,M.Reece and M. Strassler,arXiv:1512.05775 [hep-ph].   
+[70] A．Ahmed，B.M.Dillon，B.Grzadkowski, J.F.Gunion and Y. Jiang,arXiv:1512.05771 [hep-ph].   
+[71] P. Cox, A. D. Medina, T. S. Ray and A. Spray, arXiv:1512.05618 [hep-ph].   
+[72] A.Kobakhidze,F.Wang,L. Wu, J. M. Yang and M. Zhang, Phys. Lett. B 757,92 (2016) doi:10.1016/j.physletb.2016.03.067 [arXiv:1512.05585 [hep-ph].   
+[73] S. Matsuzaki and K. Yamawaki, arXiv:1512.05564 [hep-ph].   
+[74] Q.H.Cao,Y.Liu，K.P.Xie,B.Yan and D.M. Zhang,arXiv:1512.05542 [hep-ph].   
+[75] Hereafter, the superscript $S , P$ of $C _ { \gamma , g }$ would be dropped for simplicity,and will be identified when needed.   
+[76] Since the fundamental representation of SU(2) is pseudo-real, the corresponding global chiral symmetry breaking will become $\mathrm { S U } ( 8 ) \to \mathrm { S p } ( 8 )$ ： Hence,the meson spectra in the new strong sector will be different from the current context.   
+[77] If $Y _ { 2 }$ is nonzero,we can use higher dimensional Operators to decay (2)Nn.   
+[78] It is also likely that an asymmetric relic density may extend the DM mass range even below few TeVs [28].

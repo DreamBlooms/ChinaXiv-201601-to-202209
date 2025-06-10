@@ -1,0 +1,183 @@
+# 南疆夏季不同类型暴雨精细化特征对比分析
+
+杨霞¹²，周鸿奎³，许婷婷¹，华烨1(1.新疆维吾尔自治区气象台,新疆 乌鲁木齐830002；2.高原与盆地暴雨旱涝灾害四川省重点实验室，四川 成都610072；3.新疆维吾尔自治区气象信息中心,新疆 乌鲁木齐830002)
+
+摘要：南疆暴雨是小概率事件，其预报预警的难度较大。南疆一些暴雨过程的历时短,降水强度大，并伴有短时强降水事件(即"短时强降水暴雨”);而另一些暴雨过程的降水时间相对较长,未伴有短时强降水事件(即"非短时强降水暴雨")。为探究南疆上述两类暴雨的差异,利用2013—2019年426个自动气象站逐小时降水资料,对比分析了南疆夏季短时强降水暴雨和非短时强降水暴雨的差异，结果表明：(1）南疆夏季以短时强降水暴雨为主，超过$70 \%$ 的站点在暴雨日中出现过短时强降水事件;短时强降水暴雨主要发生在7月，该月约 $9 5 \%$ 的暴雨日中都出现过短时强降水事件。(2）南疆海拔在 $2 0 0 0 { \sim } 2 5 0 0 ~ \mathrm { m }$ 的站点出现暴雨的比例最高，海拔低于 $1 0 0 0 \mathrm { m }$ 的站点最低。南疆短时强降水暴雨主要发生在海拔低于 $2 0 0 0 \mathrm { m }$ 的区域，非短时强降水暴雨则主要发生在海拔高于 $2 0 0 0 \mathrm { m }$ 的区域，上述两类暴雨均具有明显的夜雨特征。（3）南疆总暴雨与短时强降水暴雨的累计降水量、降水频次和平均降水强度的日变化特征相似，二者与非短时强降水暴雨的差异较大。非短时强降水暴雨的累计降水量、降水频次和平均降水强度的峰值时段均出现在上午;短时强降水暴雨的累计降水量和平均降水强度的峰值时段出现在傍晚前后和前半夜,累计降水频次的峰值时段则主要出现在后半夜至清晨,短时强降水暴雨的降水强度与累计降水量的关系比降水频次更密切。南疆短时强降水暴雨和非短时强降水暴雨的观测特征存在显著差异，二者的降水形成机制也不相同。
+
+关键词：暴雨；短时强降水；海拔；精细化特征；南疆
+
+南疆是新疆天山山脉以南，昆仑山以北的区域，属典型的干旱区，拥有高山、戈壁、沙漠、绿洲等复杂地形。由于远离海洋，气候不受季风系统的直接影响，南疆降水稀少，大部分地区的年平均降水量不足 $1 0 0 \mathrm { m m } ^ { [ 1 - 2 ] }$ 。南疆的暴雨雨量与我国东部地区相比虽明显偏少，但其相对强度很大，一次暴雨过程的降水量甚至能接近或超过当地的年平均降水量[3-5]。2018年5月21日和田地区皮山县1h降水量达 $5 3 . 8 ~ \mathrm { m m }$ ,与该地年平均降水量相当;2018年7月31日，哈密市伊州区沁城乡发生极端暴雨，过程降雨量达到 $1 1 0 ~ \mathrm { m m }$ （当地历史最大年降雨量仅为$5 2 . 4 ~ \mathrm { m m } ,$ )，暴雨引发射月沟水库溃坝造成多人遇难。近年来，随着全球气候变暖，南疆降水量明显增加，特别是进入21世纪后，南疆暴雨发生几率明显增大,极端暴雨频次显著增加[6-8],近10a南疆局地暴雨造成的灾害占当地气象灾害的 $3 6 \%$ ，给南疆经济和人民生活造成严重损失。
+
+由于受到观测技术水平的限制，20世纪90年代前，南疆仅有49个国家基本气象站，因此早期开展的南疆暴雨研究不论是空间尺度还是时间尺度都相对较粗°，难以全面系统的揭示南疆暴雨的精细化特征。目前，南疆的暴雨研究主要集中在天气学方面[]，通过大量的天气个例分析，对造成南疆暴雨的大尺度环流背景[11-13]、中尺度天气系统[14-16]和暴雨过程的水汽输送及快速集中机制[17-18]等都有了一定的认识。南疆暴雨的突发性强，历时短，暴雨过程中常伴随短时强降水事件。有学者虽然利用站点降水资料从降水量、降水频率、时空分布等角度对南疆的暴雨特征进行了分析[19-21],但却很少考虑短时强降水事件与南疆暴雨的关系，南疆暴雨日中出现短时强降水事件的概率是多少？出现短时强降水事件的暴雨天气过程与不出现短时强降水事件的暴雨天气过程在时空分布特征上有何差异？这些问题目前都尚不清楚。近年来，随着自动气象观测站网的不断完善，目前，新疆已建成1800余个自动气象站，高时空分辨率的降水资料为深入系统的开展南疆暴雨精细化特征研究提供了条件。本文利用2013—2019年区域加密自动气象站逐小时降水资料，分析南疆夏季暴雨的精细化特征，探讨南疆暴雨天气过程中短时强降水事件的特征，对比分析南疆两类暴雨（即伴有短时强降水事件的暴雨和未伴有短时强降水事件的暴雨)的差异，以期进一步加深对干旱区暴雨的认识，为南疆暴雨预报、洪涝灾害风险评估和防灾减灾提供科学依据。
+
+# 1资料与方法
+
+选用2013—2019年夏季(6—8月）南疆426个自动气象站逐小时降水资料进行研究，首先对自动站逐小时降水资料进行查验，剔除了异常值和缺测数据。新疆地处干旱半干旱地区，全国的暴雨标准和短时强降水事件的标准在新疆都不适用。采用新疆现行的降水业务标准2，即日降水量 $R$ （指前一日20:00至当日20:00各时次 $\mathrm { \gtrsim 0 . 1 ~ m m }$ 的降水累计总量），当 $2 4 . 1 \ \mathrm { m m } { \leqslant } R { \leqslant } 4 8 . 0 \ \mathrm { m m }$ 时为暴雨， $4 8 . 1 ~ \mathrm { m m } \leqslant$ $R { \leqslant } 9 6 . 0 ~ \mathrm { m m }$ 为大暴雨, $R { \geqslant } 9 6 . 1 ~ \mathrm { m m }$ 为特大暴雨。将$^ { \textrm { 1 h } }$ 降水量 $\geqslant 1 0 . 0 \ \mathrm { m m }$ 的降水事件定义为短时强降水事件。本文将伴有短时强降水事件的暴雨定义为短时强降水暴雨，将未伴随短时强降水事件的暴雨定义为非短时强降水暴雨。
+
+本文中某站的暴雨日数指该站日降水量达到新疆暴雨标准的降雨天数;某日南疆区域内任意一站出现暴雨，则该日就记为一个南疆暴雨日；若一个南疆暴雨日中，有一个或以上站点出现短时强降水事件则该日为一个短时强降水暴雨日，否则该日为一个非短时强降水暴雨日。一个南疆暴雨日内出现的总暴雨站次为短时强降水暴雨站次与非短时强降水暴雨站次之和。平均暴雨站次指累计暴雨站次与总暴雨站点数之比。小时降水量指某整点到下一个整点 $1 \mathrm { { h } }$ 内 $\geqslant 0 . 1 \ \mathrm { m m }$ 的降水累计总量；若某小时降水量 $\geqslant 0 . 1 \mathrm { m m }$ ，则该小时记录1次小时降水频次；逐时累计降水量与对应时次累计降水频次之比为该小时多年平均降水强度。暴雨日的降水时数指暴雨日中小时降水量 $\mathrm { \gtrsim 0 . 1 ~ m m }$ 的累计小时数，某站暴雨日的平均降水时数指该站暴雨日的累计降水时数与暴雨日数之比。
+
+# 2结果与分析
+
+# 2.1暴雨日数
+
+从2013—2019年南疆总暴雨日数、短时强降水暴雨日数和非短时强降水暴雨日数的年际及月际分布图可以看出(图1)，2013—2019年，南疆共出现总暴雨日242个，平均每年出现34.6个总暴雨日；短时强降水暴雨日201d，平均每年出现28.7d;非短时强降水暴雨日41d,平均每年出现 $5 . 9 \mathrm { d }$ 。南疆总暴雨日数的年际变化较大，短时强降水暴雨日数和非短时强降水暴雨日数的年际变化特征与总暴雨日数类似。短(非短)时强降水暴雨日数占总暴雨日数的平均比例为 $8 3 . 7 \% ( 1 6 . 3 \% )$ ，其中2014年最高（低），为 $8 9 . 3 \% ( 1 0 . 7 \% )$ ），2015年最低（高），为$7 3 . 1 \% ( 2 6 . 9 \% )$ 。南疆的总暴雨日数在8月最多，6月次之；7月最少；短时强降水暴雨日数在6月和7月最多，8月最少；非短时强降水暴雨日数在8月最多，6月次之，7月最少（图 $1 \mathrm { b } 1 \sim 1 \mathrm { b } 3 .$ )。短时强降水暴雨日数在7月的占比最高，达 $9 4 . 5 \%$ ，6月次之，8月最低；非短时强降水暴雨日数在8月的占比最高1 $2 6 . 7 \%$ )，6月次之，7月最低。综上可以看出，南疆的短时强降水暴雨日数远多于非短时强降水暴雨，前者约为后者的5倍。7月南疆的总暴雨日数最少，该月以短时强降水暴雨为主，接近 $9 5 \%$ 的暴雨日中都有短时强降水事件出现。
+
+从2013一2019年，南疆不同海拔区间不同类型暴雨的平均日数分布可以看出(表1)，总暴雨日数、短时强降水暴雨日数和非短时强降水暴雨日数均随海拔高度的增加而增加。海拔低于 $1 0 0 0 \mathrm { m }$ 站点的平均总暴雨日数最少，为0.21d,海拔 $\cdot \geqslant 2 5 0 0 \mathrm { ~ m ~ }$ 的站点最高，为0.90d,后者约为前者的4.3倍。由表1可以看出，海拔低于 $2 0 0 0 \mathrm { m }$ 的站点，平均短时强降水暴雨日数大于非短时强降水暴雨日数，海拔 $\geqslant 2 0 0 0 \mathrm { ~ m ~ }$ 的站点，则与之相反。可见，南疆短时强降水暴雨主要发生在海拔低于 $2 0 0 0 \mathrm { m }$ 的区域，海拔 $\geqslant 2 0 0 0 \mathrm { ~ m ~ }$ 的区域以非短时强降水暴雨为主。
+
+# 2.2 暴雨站次
+
+2013—2019年，南疆共出现1109站次暴雨，其
+
+![](images/a4d0ec4704af9b0725d54a6dac1ebba32905721cdc536c28f0b268b6a3688339.jpg)  
+图1南疆总暴雨(a1、b1)、短时强降水暴雨(a2、b2)和非短时强降水暴雨(a3、b3)日数的年际和月际分布 Fig.1The interanualandmonthlydistributionsof totalraistormdays(al,bl),ainstordays withshort-termhavyrainal events (a2,b2)and rainstorm days without short-term heavy rainfall events (a3,b3) in southern Xinjiang
+
+# 表12013—2019年南疆不同类型暴雨在不同海拔区间的平均日数分布
+
+Tab.1 Mean days of different rainstorms at different altitudes in southern Xinjiang from 2013 to 2019   
+
+<html><body><table><tr><td>海拔/m</td><td>总暴雨 日数/d</td><td>短时强降水 暴雨日数/d</td><td>非短时强降水 暴雨日数/d</td></tr><tr><td>≥2500</td><td>0.90</td><td>0.52</td><td>0.71</td></tr><tr><td>2000~2500</td><td>0.68</td><td>0.37</td><td>0.48</td></tr><tr><td>1500~2000</td><td>0.53</td><td>0.36</td><td>0.32</td></tr><tr><td>1000~1500</td><td>0.26</td><td>0.23</td><td>0.17</td></tr><tr><td><1000</td><td>0.21</td><td>0.19</td><td>0.15</td></tr></table></body></html>
+
+中短时强降水暴雨556站次，非短时强降水暴雨553站次，平均每年出现158.4站次暴雨，其中短时强降水暴雨79.4站次，非短时强降水暴雨79.0站次（图2)。南疆暴雨站次和暴雨日数的年际变化趋势基本一致，但暴雨站次的年际变化比暴雨日数更大，2016年的暴雨站次最多，为264站次，2014年最少，仅为96站次，二者相差168站次。南疆短(非短)时强降水暴雨站次占总暴雨站次的平均比例为 $5 0 . 5 \%$ （204号 $( 4 9 . 5 \% )$ ，其中2014年最高（低），为 $6 5 . 6 \% ( 3 4 . 4 \% )$ ，2015年最低（高），为 $3 2 . 3 \% ( 6 7 . 7 \% )$ 。南疆总暴雨站次和非短时强降水暴雨站次都呈现6月最多，8月次之，7月最少的特征；而短时强降水暴雨站次则为7月最多，8月次之，6月最少（图 $2 \mathrm { b } 1 \sim 2 \mathrm { b } 3$ )。从两类暴雨站次占总暴雨站次比例的月际分布可以看出，短时强降水暴雨站次在7月的占比最高 $( 7 0 . 1 \%$ ，8月次之，6月最低；而非短时强降水暴雨站次在6月的占比最高 $( 5 8 . 3 \%$ 0，8月次之，7月最低。综上可以看出，南疆夏季暴雨以短时强降水暴雨为主，短时强降水暴雨的日数和站次均多于非短时强降水暴雨，短时强降水暴雨主要出现在7月。
+
+从南疆不同类型暴雨在不同海拔区间的站次分布图可以看出(表2)，平均总暴雨站次、短时强降水暴雨站次和非短时强降水暴雨站次均随海拔高度的升高而增加，海拔 $\geqslant 2 5 0 0 \mathrm { ~ m ~ }$ 站点的平均总暴雨站次(7.70站次)约是海拔低于 $1 0 0 0 \mathrm { m }$ 站点（1.41站次)的5.5倍。南疆 $7 2 . 6 \%$ 的站点在暴雨日中出现过短时强降水事件，海拔低于 $2 0 0 0 \mathrm { m }$ 的站点以短时强降水暴雨为主，短时强降水暴雨站次占总暴雨站次的比例超过 $5 0 \%$ ,其中海拔在 $2 0 0 0 ~ \mathrm { m } { \leqslant } H < 2 5 0 0 ~ \mathrm { m }$ 站点的占比最高，为 $6 3 . 7 \%$ ；海拔 $\mathrm { \gtrsim 2 0 0 0 ~ m }$ 的站点以非短时强降水暴雨为主，其中海拔 $\geqslant 2 5 0 0 \mathrm { ~ m ~ }$ 的站点，非短时强降水暴雨站次占总暴雨站次的比例超过$70 \%$ 。
+
+# 2.3暴雨降水时数
+
+南疆区域平均的总暴雨日平均降水时数为$1 2 . 0 \mathrm { { h } }$ (表3)，平均降水时数在 $6 \mathrm { { h } }$ 以内的站点占总暴雨站数的 $1 9 . 5 \% ; 7 { \sim } 1 2 \mathrm { h }$ 的站点占 $4 2 . 1 \%$ ，大于12h的站点占 $3 8 . 4 \%$ 。总暴雨日的平均降水时数随海
+
+![](images/feda1cccbb9a321aecf0432e56728df176bd98cb0773b4bc59661b7f077f399b.jpg)  
+图2南疆总暴雨(a1、b1)、短时强降水暴雨(a2、b2)和非短时强降水暴雨(a3、b3)站次的年际和月际分布 Fig.2Te interanualandmonthlystationsdistributionsoftotalrainstorm (al,bl),rainstormwithshort-termhavyraial events (a2,b2)and rainstorm without short-term heavy rainfall events (a3,b3) in southern Xinjiang
+
+Tab.2The mean stations of diferent rainstorms at different altitudes in southern Xinjiang from 2013 to 2019   
+
+<html><body><table><tr><td>海拔/m</td><td>平均总暴雨/站次</td><td>短时强降水暴雨/站次</td><td>占比/%</td><td>非短时强降水暴雨/站次</td><td>占比/%</td></tr><tr><td>≥2500</td><td>7.70</td><td>2.26</td><td>29.4</td><td>5.43</td><td>70.6</td></tr><tr><td>2000~2500</td><td>5.35</td><td>2.26</td><td>42.2</td><td>3.09</td><td>57.8</td></tr><tr><td>1500~2000</td><td>3.85</td><td>2.01</td><td>52.2</td><td>1.84</td><td>47.8</td></tr><tr><td>1000~1500</td><td>1.85</td><td>1.18</td><td>63.7</td><td>0.67</td><td>36.3</td></tr><tr><td><1000</td><td>1.41</td><td>0.84</td><td>60.0</td><td>0.56</td><td>40.0</td></tr></table></body></html>
+
+# 表32013—2019年南疆不同类型暴雨平均降水时数在不同海拔区间的分布
+
+表22013—2019年南疆不同类型暴雨在不同海拔区间的平均站次分布  
+Tab.3 The mean precipitation hours of different rainstorms at different altitudes in southern Xinjiang   
+
+<html><body><table><tr><td>海拔高度/m</td><td>总暴雨/h</td><td>短时强 降水暴雨/h</td><td>非短时强 降水暴雨/h</td></tr><tr><td>W2500</td><td>16.9</td><td>11.7</td><td>17.7</td></tr><tr><td>2000~2500</td><td>12.1</td><td>7.7</td><td>15.9</td></tr><tr><td>1500~2000</td><td>11.8</td><td>8.0</td><td>15.5</td></tr><tr><td>1000~1500</td><td>9.7</td><td>6.3</td><td>14.6</td></tr><tr><td><1000</td><td>9.3</td><td>5.8</td><td>14.1</td></tr><tr><td>平均</td><td>12.0</td><td>7.9</td><td>15.6</td></tr></table></body></html>
+
+拔高度的增加而增加，海拔 $\geqslant 2 5 0 0 \mathrm { ~ m ~ }$ 站点总暴雨日的平均降水时数( $\left\lfloor 1 6 . 9 \mathrm { h } \right.$ 比海拔小于 $1 0 0 0 \mathrm { m }$ 的站点$( 9 . 3 \mathrm { h } )$ 长 $7 . 6 \mathrm { ~ h ~ }$ 。从南疆各站总暴雨日数在不同海拔区间的空间分布可以看出（图略），海拔低于1500m站点总暴雨日数的平均降水时数大值区主要分布在巴音郭楞蒙古自治州北部，海拔在 $2 0 0 0 ~ \mathrm { m } { \leqslant } H <$ $2 5 0 0 \mathrm { ~ m ~ }$ 站点总暴雨日数的平均降水时数呈东部大于西部的特征，海拔 $\geqslant 2 5 0 0 \mathrm { ~ m ~ }$ 的站点则呈现西部大于东部的特征。南疆各站短时强降水暴雨日和非短时强降水暴雨日在不同海拔区间的空间分布不存在明显的区域差异。
+
+南疆区域平均的短时强降水暴雨日平均降水时数为 $7 . 9 \mathrm { h }$ ，以 $6 \mathrm { { h } }$ 以内的站点数最多，占总暴雨站数的 $4 8 . 1 \% ; 7 { \sim } 1 2 \mathrm { h }$ 的站点占 $4 4 \%$ ,大于 $1 2 \mathrm { h }$ 的站点仅占 $7 . 9 \%$ 。南疆短时强降水暴雨日的平均降水时数也呈现随海拔高度的增加而增加的特征，海拔 $\geqslant$ $2 5 0 0 \ \mathrm { m }$ 站点的平均降水时数 $( 1 1 . 7 \mathrm { h } )$ 是海拔小于$1 0 0 0 \mathrm { m }$ 站点 $( 5 . 8 \mathrm { h } )$ )的2倍。南疆区域平均非短时强降水暴雨日平均降水时数为 $1 5 . 3 \mathrm { ~ h ~ }$ ,平均降水时数也随海拔高度的增加而增加，海拔 $\geqslant 2 5 0 0 \mathrm { ~ m ~ }$ 站点的平均降水时数( $( 1 7 . 7 \mathrm { ~ h ~ } )$ 比海拔小于 $1 0 0 0 \mathrm { ~ m ~ }$ 的站点(14.1h）长 $3 . 6 \mathrm { h }$ 。南疆非短时强降水暴雨日平均降水时数在 $6 \mathrm { { h } }$ 以内的站点有3个，仅占总暴雨站数的$1 . 1 \% ; 7 { \sim } 1 2 \mathrm { ~ h ~ }$ 的站点占 $2 0 . 7 \%$ ,大于 $1 2 \mathrm { ~ h ~ }$ 的站点占$7 8 . 2 \%$ 。
+
+综上可知，南疆区域平均的总暴雨日、短时强降水暴雨日和非短时强降水暴雨日的平均降水时数均呈现出随海拔高度的增加而增加的特征，特别是短时强降水暴雨日的这一特征更加明显。南疆不同类型暴雨日的平均降水时数差异较大，短时强降水暴雨日中约 $5 0 \%$ 站点的平均降水时数在6h以内，非短时强降水暴雨日中接近 $8 0 \%$ 站点的平均降水时数都在 $1 2 \mathrm { h }$ 以上。
+
+# 2.4暴雨降水量的昼夜比例
+
+研究表明，新疆夏季降水的夜雨特征明显[23]，那么南疆夏季暴雨是否也具有明显的夜雨特征呢？为理清这一问题，本文按白天(08:00—20:00)和夜间(20:00一08:00)两个时段，分别统计每个站白天和夜间的降水量占总暴雨降水量的比例。南疆总暴雨降水量昼夜比例的空间差异较大，喀什地区、克孜勒苏柯尔克孜自治州、和田地区西部、阿克苏地区西部的暴雨以夜雨为主，夜间降水量占总暴雨降水量的比例超过 $8 0 \%$ ；阿克苏地区东部、巴音郭楞蒙古自治州、吐鲁番市、哈密市以昼雨为主，白天降水量占总暴雨降水量的比例超过 $70 \%$ 。南疆短时强降水暴雨和非短时强降水暴雨降水量昼夜比例的空间分布与总暴雨降水量类似（图略）。从南疆不同类型暴雨降水量在不同海拔区间的昼夜分布比例看出（表4)，南疆总暴雨降水量在海拔$2 0 0 0 ~ \mathrm { m } { \leqslant } H { < } 2 5 0 0 ~ \mathrm { m }$ 站点的夜雨降水量占比最高，达 $6 3 . 2 \%$ ,其次为海拔低于 $1 0 0 0 \mathrm { ~ m ~ }$ 的站点，占比为$5 2 . 3 \%$ ，在其他海拔区间，总暴雨降水量均以昼雨为主。短时强降水暴雨降水量在不同海拔区域的昼夜比例分布与总暴雨降水量不同，除海拔 $\geqslant 2 5 0 0 \mathrm { ~ m ~ }$ 的站点外，其余海拔高度的站点均以夜雨降水量为主。非短时强降水暴雨降水量除在海拔 $1 0 0 0 ~ \mathrm { { m } \leqslant }$ $H < 1 5 0 0 \mathrm { ~ m ~ }$ 站点以昼雨降水量为主外，其余海拔高度的站点均以夜雨降水量为主，特别是海拔2000$\mathrm { m } { \leqslant } H { < } 2 5 0 0 ~ \mathrm { m }$ 站点的夜雨降水量高达 $7 4 \%$ 。对比南疆三类暴雨降水量的昼夜分布，短时强降水暴雨和非短时强降水暴雨降水量的夜雨特征比总暴雨明显，其中以 $2 0 0 0 ~ \mathrm { m } { \leqslant } H { < } 2 5 0 0 ~ \mathrm { m }$ 站点的夜雨特征最为显著。
+
+# 2.5 日变化
+
+日变化是全球天气气候系统变化的最基本模态之一，降水的日变化差异在诸多气象变量中表现的最为显著[24]。从南疆不同类型暴雨降水量日变化及其在不同海拔高度的日变化曲线可以看出（图3），夏季南疆总暴雨日累计降水量的高值时段为17:00—19:00,21:00的降水量最少；总暴雨日累计降水量在不同海拔高度的日变化差异较大，在海拔小于 $1 0 0 0 \mathrm { ~ m ~ }$ 的站点，累计降水量日变化曲线呈单峰型，高值时段为 $0 9 { : } 0 0 { - } 1 1 { : } 0 0 , 1 5 { : } 0 0$ 的降水量最少;海拔在 $1 0 0 0 ~ { \mathrm { m } } { \leqslant } H { \ < } 1 5 0 0 ~ { \mathrm { m } }$ 的站点，累计降水量日变化曲线呈多峰型，10:00为相对高值时次，21:00为降水量最少的时次；海拔在 $1 5 0 0 ~ \mathrm { m } { \leqslant } H < 2 0 0 0 ~ \mathrm { m }$ 和 $\lvert \geqslant 2 5 0 0 \mathrm { ~ m ~ }$ 站点的累计降水量日变化曲线均呈单峰型，峰值时次为18:00，谷值为21:00;海拔在2000$\mathrm { m } { \leqslant } H { < } 2 5 0 0 ~ \mathrm { m }$ 的区域，累计降水量日变化曲线呈双峰型，其中，16:00—18:00和01:00—04:00为高值时段，14:00为累计降水量最少时次。短时强降水暴雨日累计降水量的日变化曲线分布与总暴雨日类
+
+表4南疆不同类型暴雨降水量在不同海拔区间的昼夜分布比例  
+Tab.4Ratio of daytime and nighttime precipitation of different rainstorms at different altitudes in southern Xinjiang   
+
+<html><body><table><tr><td rowspan="2">海拔/m</td><td colspan="2">总暴雨/%</td><td colspan="2">短时强降水暴雨/%</td><td colspan="2">非短时强降水暴雨/%</td></tr><tr><td>白天</td><td>夜间</td><td>白天</td><td>夜间</td><td>白天</td><td>夜间</td></tr><tr><td>≥2500</td><td>52.3</td><td>47.7</td><td>51.6</td><td>48.4</td><td>46.8</td><td>53.2</td></tr><tr><td>2000~2500</td><td>36.8</td><td>63.2</td><td>38.5</td><td>61.5</td><td>26.0</td><td>74.0</td></tr><tr><td>1500~2000</td><td>51.0</td><td>49.0</td><td>48.8</td><td>51.2</td><td>46.3</td><td>53.7</td></tr><tr><td>1000~1500</td><td>53.0</td><td>47.0</td><td>48.8</td><td>51.2</td><td>52.0</td><td>48.0</td></tr><tr><td><1000</td><td>47.7</td><td>52.3</td><td>48.7</td><td>51.3</td><td>42.4</td><td>57.6</td></tr></table></body></html>
+
+(a1) 103010 (b1) 600 (c1) 700 0 02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00   
+wu/雪 140 (a2)H<1000 m 150 (b2)H<1000 m 60 (c2)H<1000 m 70 50 30 0 0 0 02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00   
+/鲁 900 600 (a3)1000 m≤H<1500 m 705020 (b3)1000 m≤H<1500 m 30500 (c3)1000 m≤H<1500 m 02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00   
+ww/雪 900 (a4)1500 m≤H<2000 m 600 (b4)1500 m≤H<2000 m 300 (c4) 1500 m≤H<2000 m 300 300 100 0 0 02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00   
+w/ 750 (a5)2000 m≤H<2500 m 400 (b5) 2000 m≤H<2500 m 180 (c5)2000 m≤H<2500 m 250 200 60 02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00   
+wu/雪 300 (a6)H≥2500 m 300(b6) H≥2500 m 240 (c6)H≥2500 m 200 100 80 100 0 02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00 时刻 时刻 时刻
+
+似。非短时强降水暴雨日累计降水量的日变化曲线也成单峰型，但其分布特征与总暴雨日和短时强降水暴雨日不同。非短时强降水暴雨日累计降水量的高值时段出现在08:00—13:00，低值时段主要出现16:00至次日00:00，除海拔在 $2 0 0 0 ~ \mathrm { m } { \leqslant } H <$ $2 5 0 0 \mathrm { ~ m ~ }$ 的站点外（高值时段出现在01:00—05:00，低值时段主要出现12:00—23:00)，其他海拔高度非短时强降水暴雨日累计降水量的日变化曲线基本都呈现上述特征。
+
+从不同类型暴雨日累计降水频次日变化及其在不同海拔高度的日变化曲线可以看出(图4)，总暴雨日和短时强降水暴雨日累计降水频次的日变化曲线类似，高值时段主要分布在02:00—10:00，15:00—19:00还存在一个次高值时段，21:00是累计降水频次最少的时次。总暴雨日和短时强降水暴雨日累计降水频次在不同海拔高度基本都呈现上述特征。非短时强降水暴雨日累计降水频次呈单峰型，峰值时段主要分布在07:00—11:00,18:00—22:00为谷值时段，非短时强降水暴雨日累计降水频次在不同海拔高度基本都呈现上述特征
+
+南疆不同类型暴雨平均降水强度及其在不同海拔高度的日变化特征(图5)，总暴雨日平均降水强度呈双峰型，平均降水强度最大时次出现在18:00和22:00，05:00—14:00的平均降水强度较小。总暴雨日平均降水强度日变化曲线在海拔小于 $1 0 0 0 \mathrm { m }$ 和 $1 5 0 0 ~ \mathrm { m } { \leqslant } H < 2 0 0 0 ~ \mathrm { m }$ 站点的呈单峰特征明显，峰值时次分别出现在20:00和18:00，在 $1 0 0 0 ~ \mathrm { \ m s H } <$ $1 5 0 0 \mathrm { ~ m ~ }$ 站点呈双峰型，峰值时次分别出现在19:00和22:00；在海拔 ${ \geqslant } 2 0 0 0 \mathrm { ~ m ~ }$ 的站点呈多峰型。短时强降水暴雨日平均降水强度日变化及其在不同海拔高度的日变化特征与总暴雨日类似。非短时强降水暴雨日平均降水强度与其累计降水量的日变化曲线分布相似，也成单峰型，峰值时段也在09:00一11:00，谷值时段在18:00—23:00。非短时强降水暴雨日平均降水强度除在海拔 $2 0 0 0 ~ \mathrm { m } { \leqslant } H < 2 5 0 0 ~ \mathrm { m }$ 站点的峰值时段出现在02:00—07:00外，其他海拔高度的峰值时段均出现在09:00—11:00。
+
+综上可以看出，南疆总暴雨日和短时强降水暴雨日的累计降水量、降水频次和平均降水强度的日变化特征相似，与非短时强降水暴雨日的差异较
+
+0 (a1) 450 (b1) 300 (c1) 150 100 02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00   
+酒 30 (a2)H<1000m 7718 (b2)H<1000 m 12 (c2)H<1000m   
+15 9 6 0 0 0 02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00   
+酒 240 (a3)1000 m≤H<1500 m 180 (b3)1000 m≤H<1500 m 960 (c3)1000 m≤H<1500 m 80 60 30 0 02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00   
+20 (a4)1500 m≤H<2000 m 180 (b4) 1500 m≤H<2000 m 75 (c4)1500 m≤H<2000 m 120 50 60 25 02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00   
+酒 200 (a5)2000 m≤H<2500 m 150 (b5)2000 m≤H<2500 m 7550 (c5)2000 m≤H<2500 m   
+100 50 25 02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00   
+新 160 (a6)H≥2500 m 90 (b6)H≥2500 m 90 (c6) H≥ 2500 m   
+120 60 60 80 30 30 02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00 时刻 时刻 时刻
+
+Fig.4Diurnal variation characteristics of precipitation frequency of different rainstorms in southern Xinjiang
+
+/(/(-）/(/(-/（-/ 6 (a1) 6(b1) (c1)   
+4 4 2   
+2   
+02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00   
+14 (a2) H<1000 m 14 (b2) H<1000 m 6 (c2)H<1000 m   
+7 7 3   
+0 0 0   
+02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00   
+6   
+9 (a3)1000 m≤H<1500 m 12 (b3) 1000 m≤H<1500 m (c3)1000 m≤H<1500 m   
+63 8 42   
+4 0   
+02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00   
+6 (a4)1500 m≤H<2000 m A 86 (b4) 1500 m≤H<2000 m 4 (c4) 1500 m≤H<2000 m   
+4   
+4 2   
+2   
+2 0   
+02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00   
+6 6   
+(a5)2000 m≤H<2500 m (b5)2000 m≤H<2500 m 4 (c5)2000 m≤H<2500 m   
+4 4 3   
+2 2   
+02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00   
+432 (a6)H≥2500 m 64 (b6) H≥2500 m 3 (c6)H≥2500 m   
+2   
+02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00 02:00 08:00 14:00 20:00   
+时刻 时刻 时刻
+
+Fig.5Diurnal variation characteristics of average precipitation intensity of different rainstorms in southern Xinjiang大。由于短时强降水暴雨的累计降水量、降水频次和平均降水强度均大于非短时强降水暴雨，因此主导了南疆总暴雨日的累计降水量、降水频次、平均降水强度的日变化特征。对比图 $3 \sim$ 图5，可以看出，非短时强降水暴雨日累计降水量、降水频次和平均降水强度的峰值时段一致,均在上午;短时强降水暴雨日累计降水量与平均降水强度的峰值时段一致，出现在傍晚前后和前半夜，而其累计降水频次的峰值时段却主要出现在后半夜至清晨，可见在短时强降水暴雨日中，降水强度与累计降水量的关系比降水频次更密切。
+
+# 3结论
+
+采用2013—2019年426个自动气象站逐小时降水资料，对比分析了南疆夏季总暴雨、短时强降水暴雨和非短时强降水暴雨的精细化特征，主要结论如下：
+
+（1）南疆夏季以短时强降水暴雨为主，超过$70 \%$ 的站点在暴雨日中都出现过短时强降水事件，短时强降水暴雨的日数约为非短时强降水暴雨日数的5倍。南疆的短时强降水暴雨主要发生在7月，该月约 $9 5 \%$ 的暴雨日中都伴有短时强降水事件。
+
+(2）南疆夏季总暴雨、短时强降水暴雨和非短时强降水暴雨的日数和站次均随海拔高度的增加而增加，短时强降水暴雨主要发生在海拔低于2000$\mathrm { ~ m ~ }$ 的区域，非短时强降水暴雨则主要发生在海拔大于 $2 0 0 0 \mathrm { ~ m ~ }$ 的区域。南疆短时强降水暴雨和非短时强降水暴雨均具有明显的夜雨特征，其中海拔在$2 0 0 0 \sim 2 5 0 0 ~ \mathrm { m }$ 站点的夜雨特征最显著，夜雨降水量超过总降水量 $6 0 \%$ 。
+
+（3）南疆区域平均的总暴雨日平均降水时数为$1 2 . 0 \mathrm { h }$ ;短时强降水暴雨日为 $7 . 9 \mathrm { h }$ ,其中约 $5 0 \%$ 站点的平均降水时数都在 $6 \mathrm { ~ h ~ }$ 以内；非短时强降水暴雨日的平均降水时数为 $1 5 . 6 \mathrm { ~ h ~ }$ ;其中 $78 \%$ 以上的站点平均降水时数大于 $1 2 \mathrm { h }$ ;总暴雨日、短时强降水暴雨日和非短时强降水暴雨日的平均降水时数都随海拔高度的增加而增加。
+
+（4）南疆总暴雨日与短时强降水暴雨日的累计降水量、降水频次和平均降水强度的日变化特征相似，与非短时强降水暴雨日的差异较大。非短时强降水暴雨日累计降水量、降水频次和平均降水强度的峰值时段一致，均在上午；短时强降水暴雨日累计降水量与平均降水强度的峰值时段一致，出现在傍晚前后和前半夜，而其累计降水频次的峰值时段却主要出现在后半夜至清晨，可见在短时强降水暴雨日中，降水强度与累计降水量的关系比降水频次更密切。
+
+# 参考文献(References):
+
+[1]张家宝,邓子风.新疆降水概论[M].北京:气象出版社,1987: 400.[Zhang Jiabao,Deng Zifeng.Xinjiang Precipitation Generality [M]. Beijing: China Meteorology Press,1987: 400.]   
+[2]马淑红,席元伟.新疆暴雨的若干规律性[J].气象学报,1997,55 (2):239- 248.[Ma Shuhong,Xi Yuanwei. Some regularities of storm rainfall in Xinjiang China[J].Acta Meteorologica Sinica, 1997, 55(2): 239-248.]   
+[3]陶诗言.中国之暴雨[M].北京:科学出版社,1980:255.[Tao Shiyan.Heavy Rainfalls in ChinaM]. Beijing: Science Press,1980: 255.]   
+[4]鲍名,黄荣辉.近40年我国暴雨的年代际变化特征[J].大气科 学,2006,30(6): 1057-1067.[Bao Ming, Huang Ronghui. Characteristics of the interdecadal variations of heavy rain over China in the last 40 years[J]. Chinese Journal of Atmospheric Sciences, 2006,30(6): 1057-1067.]   
+[5]陈栋,黄荣辉,陈际龙.我国夏季暴雨气候学的研究进展与科学 问题[J].气候与环境研究,2015,20(4):477-490.[Chen Dong, Huang Ronghui, Chen Jilong. Recent progress and prospective scientific problems concerning climatological research on summer heavy rainfall in China[J]. Climatic and Environmental Research, 2015,20(4): 477-490.]   
+[6]任国玉,袁玉江,柳艳菊,等.我国西北干燥区降水变化规律[J]. 干旱区研究,2016,33(1):1-19.[Ren Guoyu,Yuan Yujiang, Liu Yanju, et al. Changes in precipitation over Northwest China[J]. Arid Zone Research,2016,33(1): 1-19.]   
+[7]丁一汇,张建云.暴雨洪涝[M].北京:气象出版社,2009,290. [Ding Yihui, Zhang Jianyun.Heavy Rainfalls and Floods[M]. Beijing: China Meteorological Press,2009,290.]   
+[8]杨莲梅.新疆极端降水的气候变化[J].地理学报,2003,58(4): 577-583.[Yang Lianmei. Climate change of extreme precipitation in Xinjiang[J].Acta Geographica Sinica,2003,58(4): 577-583.]   
+[9]杨莲梅,李霞,张广兴.新疆夏季强降水研究若干进展及问题 [J].气候与环境研究,2011,16(2):188-198.[Yang Lianmei, Li Xia, Zhang Guangxing. Some advances and problems in the study of heavy rain in Xinjiang [J].Climatic and Environmental Research,2011,16(2): 188-198.]   
+[10] 高守亭,周玉淑,冉令坤.我国暴雨形成机理及预报方法研究进 展[J].大气科学,2018,42(4):833-846.[Gao Shouting,Zhou Yushu,Ran Lingkun.A review on the formation mechanisms and
+
+forecast methods for torrential rain in China[J].Chinese Journal of
+
+Atmospheric Sciences,2018,42(4): 833-846.] [11] 张云惠,李海燕,葡喜禄,等.南疆西部持续性暴雨环流背景及 天气尺度的动力过程分析[J].气象,2015,41(7):816-824. [Zhang Yunhui,Li Haiyan,Lin Xilu,et al.Analysis of continuous rainstrom circulation background and the dynamic process of synoptic-scale in west of southern Xinjiang[J]. Meteorological Monthly,2015,41(7): 816-824.] [12] 姬凯,王士新,左洪超,等.东亚副热带急流径向位置对中国西 部东部盛夏降水的影响[J].干旱区研究,2020,37(1):10-17.[Ji Kai,Wang Shixin,Zuo Hongchao,et al.Effect of meridional position of east Asian subtropical jet on midsummer precipitation in Eastern part on Northwest China[J].Arid Zone Research,2020,37 (1): 10-17.] [13] 孙颖姝,周玉淑,王咏青.一次双高空急流背景下南疆强降水事 件的动力过程和水汽源分析[J].大气科学,2019,43(5):1041-   
+1054.[Sun Yinshu, Zhou Yushu, Wang Yongqing. Analysis of dynamic process and moisture source on a heavy precipitation event in southern Xinjiang associated with the double upper-level jet[J]. Chinese Journal of Atmospheric Sciences，2019,43(5):1041-   
+1054.] [14] 杨霞,李云,赵逸舟,等.新疆一次深秋局地短时大暴雨的成因 分析[J].高原气象,2014,33(1):162-170.[Yang Xia,Li Yun, Zhao Yizhou,et al.Analysis of a brief torrential rain event in Autumn in Xinjiang[J].Plateau Meteorology,2014,33(1): 162-170.] [15]曾勇,周玉淑,杨莲梅.新疆西部一次大暴雨形成机理的数值 模拟初步分析[J].大气科学,2019,43(2):372-388.[Zeng Yong, Zhou Yushu,Yang Lianmei.A preliminary analysis of the formation mechanism for a heavy rainstorm in western Xinjiang by numerical simulation[J]. Chinese Journal of Atmospheric Sciences,   
+2019,43(2): 372-388.] [16] 刘晶,周雅蔓,杨莲梅,等.伊犁河谷"7.31"极端暴雨过程不稳 定性及其触发机制研究[J].大气科学,2019,43(6):1204-1218. [Liu Jing, Zhou Yaman,Yang Lianmei,et al. The instability and its trigger mechanism of extreme precipitation event in the Ili River Valley on 31 July 2O16[J]. Chinese Journal of Atmospheric Sciences,2019,43(6): 1204-1218.] [17] 张俊兰 李娜 秦贺 等 新疆一次暴雨过程的观测分析及水汽
+
+特征[J].暴雨灾害,2016,35(6):537-545.[Zhang Junlan,Li Na, Qing He,et al. The observational analysis and water vapor characteristics of a rainstorm process in Xinjiang[J]. Torrential Rain and Disasters,2016,35(6): 537-545.] [18]马禹,王旭,陶祖钰.新疆"96.7"特大暴雨水汽场特征综合研究 [J].新疆气象,1998,21(5): 9-13.[Ma Yu,Wang Xu,Tao Zuyu. Study on vapors features of 96.7 heavy rain in Xinjiang [J]. Xinjiang Meteorology,1998,21(5): 9-13.] [19] 秦贺,陈春艳,阿不力米提江·阿布力克木,等.新疆暖季短时强 降水特征[J].干旱区研究,2019,36(9):1440-1449.[Qin He, Chen Chunyan,Ablimitijiang Ablikim,et al.Characteristics of short-duration heavy rainfall in warm season in Xinjiang[J].Arid Zone Research,2019,36(9): 1440-1449.] [20] 陈春艳,赵克明,阿不力米提江·阿布力克木,等.暖湿背景下新 疆逐时降水变化特征研究[J].干旱区地理,2015,38(4):692-   
+702.[Chen Chunyan, Zhao Keming,Ablimitijiang Ablikim,et al. Temporal and spatial distributions of hourly rain intensity under the warm background in Xinjiang[J].Arid Land Geography,2015,   
+38(4): 692-702.] [21]王金辉,张小啸,王东,等.新疆克孜勒苏柯尔克孜自治州大气 降水时空变化特征[J].干旱区研究,2016,33(2):266-274. [Wang Jinhui,Zhang Xiaoxiao,Wang Dong,et al. Spatiotemporal change of precipitation in Kizilsu Kirghiz Autonomous Prefecture Xinjiang China[J].Arid Zone Research,2016,33(2): 266-274.] [22] 张家宝,苏起元,孙沈清,等.新疆短期天气预报指导手册[M]. 乌鲁木齐:新疆人民出版社,1986:456.[Zhang Jiabao,Su Qiyuan, Sun Shenqing,et al.Guide Handbook on Xinjiang Short-term Weather Forecast[M]. Urumqi: Xinjiang People Press,1986: 456.] [23] 崔彩霞,李杨,杨青.新疆夜雨和昼雨的空间分布和长期变化 [J].中国沙漠,2008,28(5): 903-907.[Cui Caixia,Li Yang,Yang Qing. Spatial distribution and long-term variation of nocturnal and daytime rainfall in Xinjiang[J]. Journal of Desert Research,2008,   
+28(5): 903-907.] [24] 宇如聪,李建,陈昊明,等.中国大陆降水日变化研究进展[J].气 象学报,2014,72(5): 948-968.[Yu Rucong,Li Jian,Chen Haoming,et al.Progress in studies of the precipitation diurnal variation over contiguous China[J].Acta Meteorological Sinica, 20l4,72(5):   
+948-968.]
+
+# Comparative analysis of the fine characteristics of different rainstorms in southern Xinjiang during summer
+
+YANG Xia'²， ZHOU Hongkui³， XU Tingting'， HUA Yel (1. Xinjiang Uygur Autonomous Region Meteorological Service, Urumqi 830oO2, Xinjiang, China; 2.Heavy Rain and Drought-Flood Disasters in Plateau and Basin Key Laboratory of Sichuan Province, Chengdu 610072,Sichuan,China；3.Xinjiang Meteorological Information Center,Urumqi 83oo02,Xinjiang, China)
+
+Abstract: The probabilityof arainstorm in southern Xinjiang is small,and itis challenging to forecast and give an early warning of such events.Rainstorms in southern Xinjiang have a short duration and heavy intensity, accompanied by short-term heavy rainfall events.Other heavy rainfall events are relatively long,without shortterm heavy rainfall events.To explore the differences between the two rainstorm types in southern Xinjiang, hourly precipitation data from 2013 to 2019 of 426 automatic weather stations were used to compare and analyze the fine observation diferences in short-term heavyrainstorms and those without short-term heavy rainfall events. Results showed that heavy short-term rainfall occurred majorly during summer in southern Xinjiang,and more than $70 \%$ of the stations experienced heavy short-term rainfall during rainstorms. Heavy short-term rainfall occurred majorly in July,which accounted for approximately $9 5 \%$ of heavy rain days.Rainstorms with heavy short-term rainfall in southern Xinjiang are mainly distributed in areas with an altitude lower than $2 0 0 0 \mathrm { ~ m ~ }$ .Those without heavy short-term rainfall events are mainly distributed in areas with an altitude higher than $2 0 0 0 \mathrm { ~ m ~ }$ .Therainfall characteristics at night of the two types of rainstorms are evident in southern Xinjiang.The diurnal variation characteristics of cumulative precipitation, precipitation frequency,and average precipitation intensity are similar between theentire rainstorm days and the rainstorm days with heavy short-term rainfall events in southern Xinjiang. However,they are diffrent from the rainstorm days without heavy short-term rainfall events.The peak periods of accumulated precipitation,precipitation frequency,and average precipitation intensity for rainstorm days without heavy short-term rainfall events appear in the morning.The peak periods of accumulated precipitation and average precipitation intensity for rainstorm days with heavy short-term rainfal events appear in the evening and the first half of the night. Also,the peak periods of accumulated precipitation frequency mainly appear from the second half of the night to the morning.The relationship between precipitation intensity and accumulated precipitation during rainstorm days with heavy short-term rainfallevents is closer than precipitation frequency. The highest proportion of rainstorms occurred at stations with an altitude of $2 0 0 0 { - } 2 5 0 0 ~ \mathrm { m }$ in southern Xinjiang, and the lowest occurred at stations with an altitude of less than $1 0 0 0 \mathrm { ~ m ~ }$ . There were significant differences in the observable characteristics of rainstorms with heavy short-term rainfall events and those without heavy short-term rainfall events in southern Xinjiang.The precipitation formation mechanism of the two is not the same and requires further research.
+
+Keywords:rainstorm；rainstorms with short-term heavy rainfal events；altitude；fine-scale characteristics; southern Xinjiang

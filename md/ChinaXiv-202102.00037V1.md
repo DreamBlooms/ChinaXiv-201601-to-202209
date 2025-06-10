@@ -1,0 +1,205 @@
+# 基于GIS的内蒙古半农半牧区地名景观空间分布特征研究
+
+苏都尔¹，那顺达来}²，其力木格1，东方杰1
+
+（1内蒙古师范大学地理科学学院,内蒙古 呼和浩特010022;2内蒙古蒙古高原灾害与生态安全重点实验室，内蒙古 呼和浩特010022)
+
+摘要：扎鲁特旗地处兴安岭余脉到辽河平原北部，跨中国地形二三阶梯，因各种自然条件所限形成了南农北牧、中间交叉的农牧交错带。通过以内蒙古扎鲁特旗3349处地名作为考察对象，运用核密度估计、地理集中指数及冷热点分析等方法对地名景观的空间分布规律和特征进行分析。研究发现：(1)研究区自然景观地名主要集中在西部及北部丘陵和中、小山地区，地形地貌类地名集中分布于地形过渡区，即地形起伏较大的地区。水文地名主要分布在相对低海拔地区，与河流大小关系不明显，呈南北均匀分布，呈现出水资源缺乏的干旱半干旱地区地名分布特征；(2）人文景观类地名多分布于中部与南部地区，其分布特征看，人文聚落地名与自然水文地名的关系最为密切,在中部地区随河流带状分布，并且因农业依赖水资源的特征而地表水、地下水富集的相对低海拔区和滨河地区集中的规律。这也是半农半牧地区聚落分布的特点。（3）人文地名经历从清初的随机分布到现在的集中分布的过程，大多人文地名在近百年内形成，其中聚落地名从清初的小型聚落到清末蒙地放垦后初具规模,再发展到现在较有规模的集中聚落。经济、交通、建筑类地名是上世纪80年代以来随工业化、城镇化而逐渐集结。(4)研究区地名整体分布看,影响自然地名的主要因子是地貌、水文条件、气象气候、地名认知等，而人文地名的分布受自然因素外，还有政策、人口活动、城镇化与经济发展程度有关。
+
+关键词：GIS；地名；核密度估计；冷热点分析；扎鲁特旗
+
+# 文章编号：
+
+地名是人们赋予某一特定空间位置上自然或人文地理实体的专有名称[1]。国外地名学研究经历了对地名分类、渊源、变迁、语种类型等的定性研究[2-4]。STEPHEN详细探究了美国一些地区的各种不同类型地名与其自然分异规律与土著人的生产生活之间的联系[2],SANDRED则主要深入研究了动态更新与变化当中的社区某些地名单元的变化情形[3],GRAEME细致地研究了俄罗斯莫斯科地区地理名称的演变[4]。
+
+中国地名渊源解释方面的研究历史悠久，我国早期地名学作品主要涉及地名来由、渊源及考证等方面[5]。华林甫[梳理了中国历史上各个不同朝代和时间段当中的地名学著作与成果，并且对地理名称的来由、命名、渊源阐释及其变化的规律特征做出系统的总结。顾永梳理了近现代一些学者的地理名称研究成果，牛汝辰8撰写过分析统计清代北方民族地区地理名称的相关成果。涉及蒙古地区地名方面的研究已经有了初步发展，金峰、那顺达来等深入探究了古地理名称的演变、蒙古地区方向认知及古文献中的地名等[9-10]。20世纪90年代以来，我国学者开始用空间信息技术改变了以往地名研究的特点，如文朋陵、许建国等人将地名研究转向了更为量化、空间可视化的风格，颠覆了以往地名研究的缺乏客观性的缺点，使地名领域向信息化、定量化推进[1-15]。除此之外,有GIS空间分析及统计分析对北京地名景观的统计分类与空间分布格局的研究[1],GIS空间平滑法探究承德市地名文化的空间结构[17],利用"地名时间层"制作专题地图研究广东地名等[18]
+
+以往学者在内容、方法上丰富了地名领域的研究，但基于空间分析、统计学方法的民族地区地名研究较少，本研究在新方法的运用基础上又采用了地形起伏度、相对地形图与地名叠加分析，深入探究其规律。扎鲁特旗是内蒙古典型的半农半牧区，研究其地名景观的分布特征有益于了解内蒙古东部的自然环境和民族文化。
+
+# 数据来源与研究方法
+
+# 1.1研究区域概况
+
+扎鲁特旗位于内蒙古东北部，地图范围为$1 1 9 ^ { \circ } 1 4 ^ { \prime } \sim 1 1 7 ^ { \circ } 0 6 ^ { \prime } \mathrm { E } , 4 3 ^ { \circ } 5 0 ^ { \prime } \sim 4 5 ^ { \circ } 5 0 ^ { \prime } \mathrm { N }$ ,处于大兴安岭南麓山地、丘陵向辽河平原、科尔沁沙地的过渡带，即地形从北部山地到中部低山丘陵，再过渡到南部低沙丘、平原。为内蒙古典型的半农半牧旗县之一。气候类型属于温带半干旱季风性气候,年均气温 $6 . 7 ~ \mathrm { ^ { \circ } C }$ ,年均降水量 $3 8 2 . 5 ~ \mathrm { m m }$ 。中部与南部无霜期较长，平均约 $1 3 0 \sim 1 4 7 \mathrm { ~ d ~ }$ ,北部无霜期较短，平均约 $9 1 \sim 1 1 4 \mathrm { d }$ 。经2014年行政区划调整，本地区共15个乡级行政区(苏木/镇)及16个国有农牧林渔场。其中，阿日昆都楞镇、巴雅尔图胡硕镇、乌兰哈达苏木、格日朝鲁苏木等4个乡级行政区为畜牧业为主区，中部的鲁北镇、香山镇、巨日合镇、巴彦塔拉苏木及黄花山镇等5个行政区为农业为主区，其余行政区为半农半牧区[19-20]（图1)。全旗总人口$3 0 . 6 \times 1 0 ^ { 4 }$ ，其中农业为主的行政区普遍人口密度较大，牧业为主区人口密度值偏低。
+
+# 1.2数据来源
+
+本文以《内蒙古自治区1:5万地名图》为基础空间矢量数据，搜索《内蒙古自治区地名志一哲里木分册》[2I]、《扎鲁特山水地名》等文本材料及互联网提供的中国国家地名信息库的地理名称信息，确定第二、第三产业经济活动及功能文化区地名，通过GoogleEarth及实地考察的方法确定地名坐标，剔除由来无法考证及无法确定坐标的地名后选用地
+
+120E 121E 122°E 阿日昆都楞镇 格日朝鲁苏木夏营地 乌兰哈达苏木   
+1o04 图例 格日朝鲁苏木 巴雅尔图胡硕嘎亥图镇 154 □畜牧业为主 巨日合镇 乌额格其苏木 □半农半牧 2鲁北镇 黄花山镇前德门苏木 □农业为主 巴彦塔香山镇 人口密度/人·km-2 拉苏嘎达苏种畜场道老杜苏木 0\~2.31 香布嘎图苏木   
+N 2.31\~15.58 乌力吉木仁苏木 Not 15.28\~35.54 0 40km 35.54\~86.80 120E 121E 122°E
+
+名3 349处。
+
+行政区划数据选用地理国情监测云发布的2016年全国区划边界数据，产业水平的数据及人口数量的统计均来源于《2017年扎鲁特旗统计年鉴》、《2017年通辽市统计年鉴》及《扎鲁特旗志》。
+
+# 1.3 研究方法
+
+1.3.1核密度估计法可理解成设置指定半径距离的密度值窗口来计算其空间内的点状或线状地理空间要素的密度，再利用自然间断法将其分割为几个不同值范围，分析点或线状要素的空间分布情况。其表达公式为：
+
+$$
+f ( x ) = \sum _ { i = 1 } ^ { n } k { \Biggl ( } { \frac { x - x _ { i } } { h } } { \Biggr ) }
+$$
+
+式中： $f ( x )$ 是该阈值范围内的核密度值; $h$ 表示密度数值窗口的指定搜索距离； $n$ 为指定空间方范围内地名的总数。
+
+1.3.2地理集中指数此模型的地理意义为定义空间要素(或者事物)的空间集中性或离散性程度，其数学表达式为：
+
+$$
+G = 1 0 0 \times { \sqrt { \sum _ { i , j = 1 } ^ { n } \left( X _ { i j } / T \right) ^ { 2 } } }
+$$
+
+式中： $G$ 为扎鲁特旗各农牧类型区地名景观的地理集中指数； $X _ { i j }$ 是第 $i$ 个农牧类型区的第 $j$ 类景观地名个数； $T$ 为各景观类地名总量。 $\textit { G }$ 的指数范围在[0$\sim 1 0 0 ]$ 之间， $G$ 越接近100，表示 $j$ 类景观地名在 $i$ 区域当中集中程度越高。
+
+1.3.3局部空间自相关（Getis-OrdG）主要应用于确定研究区域的地理实体要素的相关与否及相关的正负性。通常利用ArcGIS当中的Hot SpotAnalysis工具得出空间上分布的热点与冷点等。其
+
+公式为：
+
+$$
+G _ { i } ^ { * } = \frac { \displaystyle \sum _ { j = 1 } ^ { n } W _ { i j } X _ { j } } { \displaystyle \sum _ { j = 1 } ^ { n } W _ { i } }
+$$
+
+标准化公式为：
+
+$$
+Z ( G _ { i } ^ { * } ) { = } \frac { G _ { i } ^ { * } - E ( G _ { i } ^ { * } ) } { \sqrt { \operatorname { V a r } ( G _ { i } ^ { * } ) } } 
+$$
+
+式中： $\boldsymbol { W } _ { i j }$ 表示空间权重； $E ( G _ { i } ^ { * } )$ 表示数学期望，$\mathrm { V a r } ( G _ { i } ^ { * } )$ 表示方差，若 $Z ( G _ { i } ^ { * } )$ 值表示显著而且大于0,说明该区域空间的值要比邻近空间的值高，是显著性的区域聚类区(热点区），反之，则是非显著的空间离散区(冷点区）。
+
+# 2扎鲁特旗地名分类与统计
+
+将扎鲁特旗地名根据其地理属性归为为自然景观地名及人文景观2大类，其自然景观类地名又进一步详细分类为地形地貌类、水文类、动植物类等3种小类，人文景观地名分为聚落、功能、经济活动、交通与建筑等4种小类(表1)。
+
+地形地貌类地名在自然景观类地名中占比最高，其总数达1372条，占总数的 $4 0 . 9 7 \%$ ,这与蒙古地区地名当中山水地名居多有关。其中出现较多的通用词有“乌拉"（山）扎拉格(川地）塔拉（甸子）、山、沟、甸子..."等22种。其次为水文类地名，数量达466条，占总数的 $1 3 . 9 1 \%$ 。水文类地名的通名出现最多的有布拉格（泉水）、郭勒(河流）、诺尔(湖泊）、哈嘎(湖泊的一类名称）阿尔山、乌苏(水)河、湖"等10种。动植物地名仅104条，在自然景观类地名中比例最小,常见的通名有“莫德、台、吐”，“莫德"蒙古语指树木，例如“珠莫德”意为“一百棵树”。“台"及"吐"(或"图")是蒙古高原动植物类地名常见通名，表示某种动物或植物分布于此地，清代舆图中野生动物或植物的地名均用这类通名。
+
+聚落地名共出现419次，蒙语通名有“艾力（屯）、嘎查(村)"等，汉语聚落地名的常用通名有“镇、村、屯、营子、堡、窑"等。蒙古语聚落地名的专名通常为当地的山水等自然要素，如额尔敦宝力皋嘎查(意为宝贵的泉）、白音扎拉格嘎查(意为“富饶的川”)等。而汉语专名用字则以人文类为主，如保安屯、安乐村、中心屯村、治兴村等。功能文化区是在非社会变化当中的自然状态下形成的，受政治、经济或社会功能影响的文化特质所分布的空间区域[22],功能类地名是由这些职能划分的，通常是由官方支持的服务类型地名，如教育、医疗、法制、管理等，在所有地名类别中出现次数最少，为105次，用词主要有"府、局、校、院、园...."等9种。经济活动类地名在人文景观地名中出现次数最多，共出现623次。主要用字(词)有“套布(牧铺）店、铺、堡、城、坊、房...."等20种。建筑与交通类地名总数达254条，此类地名的蒙古语源地名的通名有“敖包、召、苏莫、呼都格"等，这些词历史时期的蒙古地区就已出现。汉语地名中建筑与交通类地名的主要用字有“寺、庙、楼、区、院、苑...."等11种，除了部分宗教和园林景观建筑外，大多是因城镇化而产生的建筑与交通景观。
+
+# 3扎鲁特旗地名空间分布特征及成因
+
+# 3.1扎鲁特旗地名空间特征及成因分析
+
+GIS空间分析近几年来在植被动态变化、降水时空变化、景区和经济区空间格局等领域广泛应用[23-27]。空间分析法研究地名不仅可以直观体现区域自然地理特征，还可以反映出人类对自然环境的认知。而人文景观类地名通常体现出当地的地域文化、经济发展、土地利用方式、城镇化、教育医疗资源的分布等等，是人文社会现象在空间上的一种表现。从图2可以看出，自然景观类地名的核密度最高值出现在北部与西部，在 $2 ~ 3 8 9 . 4 1 \sim 2 ~ 9 8 6 . 7 6$ 之间，是中部偏南及南部地区的4倍左右，表示自然景观类地名北部与西部分布较多，南部较少。而人文景观地名恰好相反，中部与南部分布较多，北部较少。空间自相关 $G _ { i }$ 的 $Z$ 得分最高的热点多数在中部及南部,其值在 $1 . 8 5 \sim 1 4 . 3 6 \$ 之间，北部除个别行政村大多都属于冷点与次冷点。
+
+表1扎鲁特旗各类地名用字分类、数量及百分比  
+Tab.1 Classify,quantify and percentage of word use of Jarud Banner place-name   
+
+<html><body><table><tr><td>类别</td><td>主要用字(词)</td><td>数量</td><td>占百分比/%</td></tr><tr><td>地形地貌</td><td>蒙语：乌拉、扎拉格、绍荣、敖瑞、温都日、陶勒盖、达巴、浑迪、楚鲁、哈德、套海、道布、1372 胡硕、花、塔拉、哈日、查干、沟、芒哈;汉语:山、甸子、沟</td><td></td><td>40.97</td></tr><tr><td>水文</td><td>蒙语：郭勒、布拉格、阿尔山、诺尔、乌苏、哈嘎、高热和;汉语：河、湖、泡子</td><td>466</td><td>13.91</td></tr><tr><td>动植物</td><td>台、吐、莫德、阿吉腊格、扎嘎斯台、海勒斯台、布尔嘎苏台、德勒苏台</td><td>104</td><td>3.10</td></tr><tr><td>聚落</td><td>蒙语：艾力、嘎查;汉语：镇、村、屯、营子</td><td>419</td><td>12.51</td></tr><tr><td>功能</td><td>府、校、会、所、庭、厅、院、局、社</td><td>105</td><td>3.13</td></tr><tr><td>经济活动</td><td>套布、堡、铺、店、城、坊、房庄、院、厂、市、园、馆、场、行、室、所、台、队、社</td><td>617</td><td>18.42</td></tr><tr><td>建筑与交通</td><td>蒙语：敖包、召、苏莫、呼都格;汉语：寺、庙、线、路、街、道、站、楼、区、院、苑</td><td>266</td><td>7.94</td></tr><tr><td>总计</td><td></td><td>3 349</td><td>100.00</td></tr></table></body></html>
+
+从两类地名地名与人口密度分布的比较来看，人口密度最高的农业为主区人文景观类地名呈现出带状分布，而自然景观类地名在人口密度较低的牧业为主区分布较多。对比现代地图与清代三大实测地图与《蒙古游牧图》发现，部分自然景观类地名至少在清末之前已经形成。在清中前期基本无聚落，人文地名多数从清末、民初至今的漫长的人口迁入、民族文化交流的过程中逐步形成[21]。
+
+# 3.2扎鲁特旗自然景观类地名空间特征及成因
+
+由图3可以看出，地形地貌类地名在北部及东南部的核密度值最高，在 $1 6 1 4 . 0 3 \sim 2 0 1 7 . 5 4$ 之间，这些区域的地形起伏较大。核密度值最低出现在东南部与西北部，其数值在403.51以下。地理集中指数根据图1当中农牧类型的划分来计算，自然景观类地名的地理集中指数大小排序均为畜牧业为主区>半农半牧区 $>$ 农业为主区。地形地貌类地名的指数排列为 $5 3 . 8 8 > 4 1 . 2 7 > 2 5 . 4 8$ ，这与传统牧业区与半农半牧区整体上人口密度较低，所受人类活动影响较少有关。水文地名的分布相对比较均匀，核密度值最高为 $7 8 5 . 4 2 \sim 9 8 1 . 7 7$ ，集中在西北部与东南部，西北部有多个小型湖泊及小河流，东南部为全旗湖泊最多的区域。作为水源较少的干旱区，水文地名的分布并没有集中于级别高的河流流域，而多分布于是小支流和小型湖泊处。北部水文类地名常见“乌苏、阿尔山、布拉格"等字,而东南部核密度值最高的区域湖泊分布较多，其命名用字常出现“诺尔、哈嘎"等。水文类地名的集中指数大小排序为 $1 9 . 9 8 > 1 5 . 6 3 > 5 . 0 6$ ,符合北部与南部多于中部的规律。动植物地名核密度值最高处在东南部，最高值仅393.35,北部也有零散分布的地区，其核密度值最高为157.34,中部分布最少。其地理集中指数由高到低的排列是 $4 . 0 7 > 3 . 5 3 > 2 . 1 0$ 。植物类地名用字没有明显的差异,多数是蒙古高原常见地名，如"布尔嘎苏台(芨芨草）、德勒苏台"等。地形起伏度是影响地形地貌类地名分布规律的主要因素，对DEM数据进行进一步的焦点统计，利用栅格计算器计算出地形起伏值(图4)。地形地貌类地名主要出现在不同地形起伏值的边缘处，而地形起伏较小处的分布十分离散，只在一些小的丘陵、石丘地带出现,这与人类活动及人的地名认知有关。北部山区地形地貌类地名主要以“乌拉、温都尔、敖瑞、扎拉格、哈达、楚鲁"等反映高大山体的通名为主，而地形起伏较小的南部平原地区则以“花、胡硕、道布、绍荣、陶勒盖"等低山丘陵通名为主，而南部平原沙丘区以及西北部地区地形较平缓区域的通名多为“塔拉、芒哈、甸子"等。造成这一分布规律及通名
+
+![](images/ed3a3213d688ca714413d6f755a5d7ee6b89245842fda5853ccb1055ce4eb023.jpg)  
+图2自然景观类地名核密度分布及人文景观类地名冷热点  
+Fig.2Distribution of the nuclear density of the place-names ofthe natural landscape and the cold hot spots of the place-names of the humanistic landscape
+
+120E 121E 122°E (a) 阿白昆都楞镇 格日朝鲁苏木 苏木   
+104 2.54 其苏述 地形地貌类地 黄花山镇前德门苏木 名核密度 巴彦塔拉苏本 香山镇 道老杜苏木   
+4t 07835-216 中 0 40km Not 11614.03\~2 017.54 120E 121E 122E 120E 121E 122E (b) 昆都楞镇 格日朝鲁苏术夏营地 兰哈 达苏木   
+154 格日朝鲁苏 巴胜尔图胡硕图镇 2.54 ? 巨白合镇 乌额格其苏 水文地名 5 鲁批镇 前德门苏木 核密度 巴彦塔拉苏香山镇 道老杜苏术 0\~196.35 达苏秘 196.35\~392.71 查布嘎图苏木   
+Nt 1392.71\~589.06 Nt 1589.06\~785.42 乌为吉术仁苏木 0 40km 1785.42\~981.77 120E 121E 122E 120°E 121E 122°E (c) 阿日昆都楞镇 格有朝鲁苏木夏营地 兰哈达苏木   
+204 格日朝鲁苏本 巴雄尔图胡硕多图 1.54 日合镇鲁北镇 额格其苏本 动植物地名 2 黄花山镇前德门苏木 核密度 巴彦塔拉苏本香山镇 道老杜苏木 0\~78.67 嘎达 种畜场： 178.67\~157.34 查布 夏图苏木   
+Nt 157.34\~236.01 Nt 1236.01\~314.68 乌力吉木仁苏木 0 40km 1314.68\~393.35 120E 121E 122E
+
+的差异与地壳运动有关，大兴安岭属于晚古生代地壳运动中的板块碰撞挤压形成的褶皱系（参考《中国地理图集》地质篇)，岩石的类型主要以花岗岩与安石岩为主，这些岩石多是构造运动中渗出地面，故北部兴安岭余脉地区出现了许多“哈达”、“楚鲁”等与岩石有关的地名。
+
+# 3.3人文景观类地名空间特征及成因
+
+聚落地名在中部与西部分布较多，中西部部分区域核密度值在 $9 5 8 . 9 0 \sim 1 ~ 1 9 8 . 6 2 \$ 之间，南部与北部相对分布较少(图5)。人文景观类地名的地理集中指数排序均为农业为主区 $>$ 半农半牧区 $>$ 牧业为
+
+![](images/f8d4511c9d1ce7823e3dca213e3c1ac805c80c6103625b6d480ae51b75e55d9e.jpg)  
+图3各类自然地名核密度空间分布  
+Fig.3Spatial distribution of nuclear density inall kinds of natural place-names   
+图4地形地貌类地名与地形起伏值  
+Fig.4Topographic and geomorphological place-names and topographic fluctuation values   
+图5不同类型人文景观类地名核密度分布Fig.5Kernel density distribution of different typesof human landscape place-names
+
+120°E 121E 122°E (a) 阿日昆都楞镇 格日朝鲁苏木夏营 乌兰哈达苏木   
+N04 巴雅尔图胡硕镇 了嘎亥图镇 24 格日朝鲁苏本 北筑 德门苏木 聚落地名 核密度 巴彦塔拉 办 0\~239.72   
+Nt 719.17\~958.90 239.72\~479.45 1958.90\~1198.62 乌力 查布嘎图苏 苏木0 心 L 40km > Not 120E 121E 122E 120E 121E 122°E b） 阿日昆都楞镇 格朝鲁苏木夏营地 乌兰哈达苏木   
+N04 格日朝鲁苏本 巴雅尔图胡硕嘎亥图镇 204 经济活动 北镇共门苏木 黄花山 地名核密度 巴彦塔拉苏木 香出镇 道老杜苏木 0\~264.92 264.2\~529.84 布嘎图苏木   
+N0t 529.84\~794.76 Not 794.76\~1059.68 乌吉木仁木0 40km 1059.68\~1 324.60 S 120E 121E 122E 120°E 121E 122E (c) 阿日昆都楞镇 格日朝鲁苏木夏营地乌兰哈达英木   
+204 格日朝鲁 巴雅尔图胡亥图镇 24 建筑与交通 合有格 前德门苏木 地名核密度 巴彦塔拉苏本 王苏来 0\~94.42 94.42\~188.84 布嘎   
+Nt 283.83-283.26 377.68\~472.09 乌吉木木 V 40 km Nt L 1 120°E 121E 122E
+
+主区。聚落地名的地理集中指数由大到小的排序是 $1 8 . 3 2 > 1 5 . 4 9 > 5 . 3 3$ ，影响这一格局的自然因素是地形地貌及无霜期长短，北部牧区的地形起伏较大，且无霜期仅 $9 1 \sim 1 1 4 \mathrm { d }$ ,所以农业型聚落多集中于无霜期更长的中部与南部。而人文因素主要是清末的"移民实边”、“请指招垦”伪满时期的"集屯并户"[20]以来的人口迁入、土地开发及改革开放以来的土地承包制等。功能类地名的地理集中指数的大小排序为 $6 . 3 9 > 2 . 5 5 > 0 . 1 0$ ，这是由于这些地区城镇化水平差距较大,经济、教育、医疗的发展也出现较大差距。经济活动类地名在农业为主区分布最多,其核密度值最高达到了1324.60,而半农半牧区分布少于农业为主区，北部仍然分布最少,地理集中指数大小排序为 $3 6 . 6 4 > 1 7 . 3 6 > 5 . 3 0$ 。据2015年按国民经济行业划分的统计中,农业区仅鲁北镇的第三产业从事人员就有2924人，第二产业从业人员有1928人，而牧业为主区只有格日朝鲁苏木的第三产业从业人员数达到1000人以上（包括在其他城镇从事服务业、零售业等行业的人)。农业为主区由于二、三次产业相比于其他区域较发达，用字类型有“堡、铺、店、城、坊"等，而半农半牧区仍以第一产业为主，许多类似于“套布（个人承包草场）、马铺、牛铺、农铺"等地名。在清代舆图中的蒙古地区，交通类地名主要为军事驿站及重兵镇守的守关，而建筑类地名常见的有寺庙、敖包等。建筑与交通类地名分布较多的同样是中部地区,核密度值达到了 $3 7 7 . 6 8 \sim 4 7 2 . 0 9$ 之间,是北部牧区的4～6倍,半农半牧区介于农区与牧区之间,地理集中指数的大小顺序为 $1 1 . 7 4 > 6 . 6 4 > 5 . 0 7$ ,全旗范围内主要的道路、园林建筑都汇聚于中部与南部。而牧区除了个别新建乡村道路与车站,就是自古以来留下的敖包、寺庙等建筑。
+
+聚落地名作为人文景观类地名当中最为基础、最为典型的一类，其分布规律可反映生产活动规律、民居习俗及人地关系。聚落地名集中分布于相对海拔较低处，且从南部到北部随着海拔的升高这一特点尤为明显，这是因为越高的地区居民点更趋于比河流、溪流的谷地。扎鲁特旗聚落地名在中海拔区分布最多，这是因为南部地区沙地较多，对农业发展不利所致(图6)。
+
+![](images/bee16e741e21483463edac9b133049fac5f2ac1127463b6ff5aa9dae5bd33316.jpg)  
+图6聚落地名与相对海拔地形叠置图 Fig.6Overlapping map of settlement place-names and relative altitude topography
+
+# 4讨论
+
+地名不仅是历史、文化的活化石，它还刻录着人们对客观世界的主观认知痕迹。
+
+（1）地形地貌类地名是人们对地形高差的认知产物。以往人们总以为地形地貌类地名多分布于大山峻岭深处，但研究结果发现，地形地貌类地名集中在地形起伏较明显的地形过渡带，即平原到丘陵低山的过渡、低山高平原到高山的过渡以及河谷低地到低山高平原的过渡地区有3个带状、南部1个块状核密度区(结论2)。反有地形起伏的地区有地形地名。而且地名的命名具有一定的方向性，它来自人们从自己所居住的平原或低海拔地区向高海拔地区的视觉认知而产生(图4)。
+
+(2）地形地名聚集度与地物的大小有关，但也并非人们一般知识筹备中的大山里地形地名多，地形地名中的大山峻岭有体积大小而影响其单位空间的容量。所以小地形地名的密集程度高于大地形地名。再以河流地名而言，大河流径流地区水文地名少于小河流区域。如，辽河流域的水文地名少于其南北小河流域。它一方面显示，单位空间的地物容量，还有一方面，也体现，“物以稀为贵"的水资源缺乏的干旱地区水文地名分布特征(结论2、图3)，所以出现了多个水文地名核密度区。
+
+(3）GIS空间分析技术对地名研究提供了很多可能，本文在前人研究的基础上，对以往研究涉及偏少的内蒙古半农半牧地区作了一些地名文化景观空间规律分析。当然，由于本人学术积累、知识筹备所限，有关地名认知、空间感知等方面可能存
+
+# 干吴区地理
+
+在不少不尽之处，也不免有地名研究徘徊于空间信息层面上，这都是今后进一步深入研究的议题
+
+# 5结论
+
+地名反映一个地区的的自然概况、历史文化、民族结构、社会经济等诸多信息[28]。本文在对扎鲁特旗地名进行景观分类及统计的基础上，结合GIS的核密度分析及地理集中指数模型分析了各类自然、人文景观地名的空间分布，发现以下特征与规律：
+
+（1）作为半干旱区农牧交错带，研究区自然景观类地名比例高于农业为主区，且用字类型更多，其人文景观地名的比例又高于牧区。自然景观类地名整体上在北部与西部的核密度值最高，与北部与西部的地形起伏较大有关，反映了以牧为主区对地形条件的依赖不是很高。人文景观类地名热点多数出现在中部，其次是东部与南部，与自然景观类地名分布截然相反，多数分布于地势较缓、无霜期较长、人口密度高的农区。
+
+（2）自然景观类地名从3种农牧类型区的地理集中指数看：以牧业主区、半农半牧区、农业主区的顺序逐渐减少。地形地貌类地名在北部高山、西部与中部中山、高平原的过渡地区分布较多，而中部偏南及南部的平原地区分布较少。水文地名在西北部与东南部分布较多，与水系特征相吻合。动植物类地名，量少且零星分布于西南部、北部，多为蒙古高原常见的动植物类型。文中对地形地貌地名进行分析后发现，地形地貌类地名和大型地貌类通用名多数出现在地形起伏较大处，这与大兴安岭南部山脉的褶皱构造和岩石的形成、人的地名认知等有关。
+
+(3）人文景观各类地名的地理集中指数大小排序均为：农业为主区-半农半牧区-牧业为主区。经济活动类地名和建筑与交通类地名均集中分布于中部，而聚落高密度区则相对偏西，这种空间分布的差异是由3种农牧类型区的经济、医疗、教育、交通等社会资源的差距所致。聚落地名作为典型的人文景观地名，其分布具有明显的依赖水流、集中在相对低海拔区域的规律。
+
+(4）通过对古地图、地方志等史地文献进行分析后发现，过去一直到清末扎鲁特旗人文景观类地名较少，自然景观类地名偏多，其聚落地名只有游牧经济典型的少数几种类型。扎鲁特旗聚落多为自清末、民初蒙地开垦时期才开始形成，20世纪80年代至今因社会经济、建筑交通的发展而相关类型的地名逐渐出现。
+
+总之，扎鲁特地名景观空间特征是干旱半干旱地区人地关系的映射，它也如实记录下了内蒙古东部半农半牧区社会文化变迁过程。
+
+# 参考文献(References)
+
+[1]中国大百科全书总编辑委员会《地理学》编辑委员会.中国大百 科全书.地理学·地名条[Z].北京:中国大百科全书出版社, 1992.[Geography Editorial Committe,Chief Editorial Committee of the Encyclopedia of China.Geographical fascicle of Encyclopedia of China: Toponymic entries[Z]. Beijing: China Encyclopedia Press, 1992.]   
+[2]STEPHEN JC. Place naming,environment,and perception among the Canyon de Chelly Navajof Arizona[J].The Professional Geographer,1997,49(4) : 481-493.   
+[3]SANDRED K I. English stead: A changeable place-name element in a changing community[J]. Studia Neophiliologica, 2001,73: 164-170.   
+[4]GRAEME G.Changing symbols: The renovation of Moscow placenames[J]. The Russian Review,2005,64(3): 480-503.   
+[5]华林甫.中国地名学源流[M].长沙:湖南人民出版社,2002:35- 68.[HUA Linfu. Origins of toponymy in China[M]. Changsha: Hunan People's Publishing House,2002:35-68.]   
+[6]华林甫.中国地名学史考论[M].北京:社会科学文献出版社, 2002:14-31.[HUA Linfu. On the history of toponymy in China [M]. Beijing: Social Sciences Literature Press,2002: 14-31.]   
+[7]顾永.近代国内地名研究综述[J].学理论,2017,23(6),147- 149.[GU Yong.A summary of the study of geographical names in modern China[J].Academic Theory,2017,23(6),147-149.]   
+[8]牛汝辰.清代中国边疆地名研究综述[J].中国边疆史地研究, 1989,2(3): 33-35.[NIU Ruchen.A summary of the study of Chinese frontier place names in Qing Dynasty[J]. China's Borderland History and Geography Studies,1989,2(3): 33-35.]   
+[9]金峰.蒙古历史地名初探[J].内蒙古大学学报(哲学社会科学 版),1984,25(2):32-39.[JIN Feng.A preliminary study on the historical place names of Mongolia[J]. Journal of Inner Mongolia University (Philosophy and Social Sciences Edition),1984,25(2): 32-39.]   
+[10] 那顺达来.《大清会典》、《蒙古游牧记》喀尔喀地名误读考辨[J]. 内蒙古师范大学学报(哲学社会科学版),2011,40(6):89-94. [Na Shundalai.A textual research about the misreadings of the place name of Ka'erka in“The Records of Laws and Systems of the Qing Dynasty”and“A Note of Mongolian Nomadic Life"[J]. Journal of Inner Mongolia Normal University (Philosophy and Social Sciences),2011,40(6): 89-94.]   
+[11] 文朋陵,许建国.数理统计方法在地名研究中的应用——以江 苏村镇命名类型区域划分为例[J].南京师大学报,1998,21(4): 116-120.[WEN Pengling,XU Jianguo.The application of mathematical statistics method in the study of geographical names: A case study of the named types of villages and towns in Jiangsu Province[J]. Journal of Nanjing normal University，1998,21(4): 116-120.]   
+[12] 甄峰,秦萧,席广,等.信息时代的地理学与人文地理学创新[J]. 地理科学,2015,35(1): 11-18.[YAN Feng,QIN Xiao,XI Guangliang,et al. Geography and human geography innovation in the informationage[J].Scientia GeographicaSinica,2015,35(1):1-18.   
+[13] 杨立国,刘沛林,林琳.传统村落景观基因在地方认同建构中的 作用效应—以侗族村寨为例[J].地理科学,2015,35(5):593- 598.[YANG Liguo,LIU Peilin,LIN Lin. The effect of traditional village landscape genes inconstruction place identity: Taking the Dong Minority Village as an example[J]. Scientia Geographica Sinica,2015,35(5): 593-598.]   
+[14] 李平星,陈诚,陈江龙.乡村地域多功能时空格局演变及影响因 素研究—以江苏省为例[J].地理科学,2015:35(7):845-851. [LI Pingxing, CHEN Cheng, CHEN Jianglong.A study on the evolution and influencing factors of multifunctional space-time pattern in rural areas:A case study of Jiangsu Province[J]. Scientia Geographica Sinica,2015,35(7): 845-851.]   
+[15] 张佰林,张凤荣,周建,等.农村居民点功能演变的微尺度分析 一山东省沂水县核桃园村的实证[J].地理科学,2015:35 (10): 1272-1279.[ZHANG Bailin, ZHANG Fengrong, ZHOU Jian,et al.Microscale analysis of functional evolutionof rural residential areas:An empirical study of Hetaoyuan Village,Yishui County,Shandong Province[J]. Scientia Geographica Sinica, 2015 35(10): 1272-1279]   
+[16] 陈晨,修春亮,陈伟,等.基于GIS 的北京地名文化景观空间分 布特征及其成因[J].地理科学,2014,34(4):420-429.[CHEN Chen,XIU Chunliang, CHEN Wei,et al.Spatial distribution characteristics and causes of Beijing toponymic cultural landscape based on GIS[J]. Scientia Geographica Sinica,2014,34(4): 420-429.]   
+[17] 孙百生,郭翠恩,杨依天,等,基于GIS 的承德乡村地名文化景 观空间分布特征[J].地理科学,2017,37(2):244-251(SUN Baisheng,GUO Cuien,YANG Yitian, et al. Spatial distribution of Chengde rural geographical names cultural landscape based on GIS[J]. Scientia Geographica Sinica, 2017,37(2): 244-251)   
+[18] 王彬,黄秀莲,司徒尚纪.广东地名语言文化空间结构及景观特 征分析[J].人文地理,2013,27(1):39-44.[WANG Bin,HUANG Xiulian, SITU Shangji. Spatial structure and landscape characteristics of Cantonese language and culture[J]. Human Geography, 2013,27(1): 39-44.]   
+[19] 扎鲁特旗志编纂委员会.扎鲁特旗志[Z].呼和浩特:内蒙古文 化出版社,2O10.[The Jarud County Compilation Commitee. Jarud County annuals[Z]. Hohhot: Inner Mongolia Culture Press,
+
+2010.   
+[20] 斯琴朝克图,房艳刚,乌兰图雅.内蒙古农牧交错带聚落的格局 特征及其形成过程研究——以扎鲁特旗为例[J].干旱区资源 与环境,2016,30(8):75-80.[SI Qinchaoketu,FANG Yangang, Ulantuya.Studyon the patern characteristics and formation process of the settlements in the agro-pastoral zone of Inner Mongolia: Taking Jarud Banner as an example[J]. Journal of Arid Land Resources and Environment,2016,30(8): 75-80.]   
+[21] 内蒙古自治区地名委员会.内蒙古自治区地名志-哲里木盟分 册[Z].呼和浩特：内蒙古自治区地名志编委会,1990.[Geographical Names Committee of Inner Mongolia Autonomous Region. Geographical name chorography of Inner Mongolia Autonomous Region: Fascicle of Jirem League[Z]. Hohhot: Compilation Committee of Geographical Name Chorography of Inner Mongolia Autonomous Region,1990.]   
+[22] 周尚意,孔翔,朱站.文化地理学[M].北京:高等教育出版社, 2002:228-229.[ZHOU Shangyi, KONG Xiang, ZHU Hong. Cultural geography[M]. Beijing: Higher Education Press,2002: 228- 229.]   
+[23] 蔡高明,李志斌,高原,等.西北五省区经济开发区空间格局演 变与主导产业变迁[J].干旱区地理,2019,42(3):625-635.[CAI Gaoming,LI Zhibin,GAO Yuan, et al. Spatial patern evolution and leading industries change in economic development zones of five provinces in northwest China[J].Arid Land Geography,2019, 42(3): 625-635.]   
+[24] 熊俊楠,李伟,刘志奇,等.基于多源数据的西藏东南部历史干 旱监测与分析[J].干旱区地理,2019,42(4):735-744.[XIONG Junnan,LI Wei,LIU Zhiqi,etal. Monitoring and analysisof historical drought in southeast Tibet based on multi-source data[J].Arid Land Geography,2019,42(4): 735-744.]   
+[25] 芦学良,王国梁,胡炜霞,等.民居型景区空间分布特征及影响 因素研究—以山西大院民居为例[J].干旱区地理,2019,42 (1): 206-214.[LU Xueliang,WANG Guoliang,HU Weixia,et al. Spatial distribution characteristicsand influencing factors of residential scenic spots: Cases of courtyard scenic spots in Shanxi Province[J]. Arid Land Geography,2019,42(1): 206-214.]   
+[26]LI Xinhui,LEI Shaogang, CHENG Wei, et al. Spatio-temporal dynamics of vegetation in Jungar Banner of China during 2000- 2017[J]. Journal of Arid Land,2019,11(6): 837-854.]   
+[27] 春兰,秦福莹,宝鲁,等.近55a内蒙古极端降水指数时空变化 特征[J].干旱区研究,2019,36(4):963-972.[CHUN Lan, QIN Fuying,BAO Lu,et al.spatiotemporal and variation characteristics of extreme precipitation indices in Inner Mongolia in recent 55 years[J]. Arid Zone Research,2019,36(4): 963-972.]   
+[28] 李建华,米文宝,冯翠月,等.基于GIS的宁夏中卫县地名文化 景观分析[J].人文地理,2011,117(1):100-104.[LI Jianhua,MI Wenbao,FENG Cuiyue, et al.Analysis of geographicalnames cultural landscape in Zhongwei County,Ningxia based on GIS[J].Human Geography,2011,117(1): 100-104.]
+
+# Spatial distribution of place-names in farming-pastoral region based on GIS: A case study of Jarud Banner, Inner Mongolia
+
+Suduer'， Nashundalai'²， Qilimuge'，DONG Fang-jie'   
+(1CollegeofGeographical Science,InnerongoliaNormalUniversity,HohhotOo022,InnerMongolia,   
+China；2InnerMongolia keyLaboratoryofDisasterand Ecological Securityonthe MongolianPlateau, Hohhot O10022,Inner Mongolia,China)
+
+Abstract:The Jarud Banneris located in the fringe of the Hinggan Mountains to thenorthofLiaohePlain,and it crosses the second and third steps of the Chinese terrain.Due to the limitation of various natural conditions,the southerregion is the farming area,the northern region isthe pastoral area,whilethecentral region is the farmingpastoral ecotone.This paper takes 3 349 place names in Jarud Banner,Iner Mongolia,China as the investigation object.Itapplies methodsof kernel density estimation,geographic concentration index,cold and hot spot analysis, etc.to analyze the spatial distribution rules and characteristics ofthe toponymy landscapes.Research results reveal that: (1)In the study regions,the natural landscape place namesare mainly concentrated in the west, north hills, middle,and small mountains regions.Landform place names are concentrated in terrain transition zone,namely areas with great fluctuation landform.Hydrological place namesaremainly distributed inrelatively low altitude regionand have no obvious relationship with the size ofrivers.They evenly distribute from south to north and show the place names distribution of arid and semi-arid region with water shortage. (2)The human landscape place names are mostlydistributed in midlandand south region.In terms of thedistribution characteristics,human settlements place names have the closest relationship with natural hydrological place name.They show zonal distribution in he midland with reverse and depend on water resources because of the agriculture.Moreover,the rule of surface water and groundwater are concentrated in low altitude region and riverside region.These are alsothe characteristics of the setlement distribution in farming-pastoral region. (3)The human place name has gone through the process of random distribution from the early Qing Dynasty to modern centralized distribution.Most human place names are formed in the last $1 0 0 \mathrm { ~ a ~ }$ .The settlements place names begun to take shape from the small settlements in the early Qing Dynasty to the land liberated in the late Qing Dynasty.They then develop to thecurrent centralized distribution of scale.The place names of economy,transportation,and architecture have been gradually gathered with industrialization and urbanization since the 198Os.(4)Intermsof the overalldistributionof the studyregions, the natural place name distribution is more affcted by factorssuch as climate,terrin,rivers,place names recognition,and etc.However,in additional tothe natural factors,the human place name distribution is related to politics,population activities,urbanization,and degree of economic development.
+
+Keywords: GIS;place name; kernel density estimation; cold and hot spot analysis; Jarud Banner

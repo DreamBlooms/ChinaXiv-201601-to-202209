@@ -1,0 +1,181 @@
+# DOI:10.5846/stxb201701030023
+
+项世亮，吕永苗，戴文龙，王天厚，汪承焕.优势种去除对崇明东滩盐沼湿地生态系统的影响.生态学报,2018,38（4):1245-1255. XiangSL,LuDW,anWangCEfectsfntsiesoaloaltarshosiognggtacolica Sinica,2018,38(4):1245-1255.
+
+# 优势种去除对崇明东滩盐沼湿地生态系统的影响
+
+项世亮，吕永苗，戴文龙，王天厚，汪承焕华东师范大学生命科学学院，上海200241
+
+摘要：盐沼生态系统环境梯度明显，物种组成较简单,是研究生物多样性与生态系统功能关系的理想对象。本研究以崇明东滩盐沼湿地为研究区域,研究优势种去除对植物群落结构以及底栖动物群落的影响。结果表明：（1)去除处理仅对植物群落分株密度有极显著效应( $P { < } 0 . 0 1 \rangle$ 。去除组和对照组物种组成差异随时间增加而减小,处理效应逐渐减弱。(2)去除组底栖动物密度均低于对照组,但差异不显著。（3)盐沼植物群落特征与底栖动物群落有密切关系,植物密度、冠层高度与底栖动物密度相关性极显著。去除优势种后,植物群落分株密度升高,群落内剩余物种占比有所上升,次优势种对群落的补偿效应具有较大贡献;而底栖动物群落密度下降，其生物量和多样性指数的变化趋势与密度并不一致。上述结果表明生物多样性变化影响了盐沼湿地生态系统植物群落和底栖动物群落结构,进而可能影响物质循环和能量流动过程。
+
+关键词：崇明东滩;底栖动物群落;盐沼植物群落;优势物种去除;湿地修复
+
+# Effects of dominant species removal on salt marsh ecosystem in Chongming Dongtan
+
+XIANG Shiliang，LU Yongmiao，DAI Wenlong，WANG Tianhou，WANG Chenghuan \* School of Life Science,East China Normal University，Shanghai 2Oo241，China
+
+Abstract:Thesalt marsh ecosystem isconsidered ideal for studying thebiodiversity-ecosystem functioning relationship (BEF）because of its step environmental gradients andrelativelyfew plant species.Thesalt marsh ecosystem isoneof the ecosystems most afected byanthropogenicactivities，which hasdrawnour atention totheneed to protect andrestoreit intensively.The curent research studies on BEF are mostly focused on grasslands ecosystems rather than salt marshes.The understandingof how theremoval of specificspecies orfunctional groups would influence thestructure and functioning of salt marsh ecosystems isstillacking.Therefore，thisstudy，which was performedat Chongming Dongtaninthe Yangtze estuary，examined theeffects of dominant speciesremoval onplantcommunity structureand macrobenthic invertebrate communities.Wealsoanalyzed therelationship betweenplant communityatributesandmacrobenthicinvertebrate communities usinglinearregression.The aimof the study was toprovide a scientificbasis for wetland restoration.The major findingsofthis studyare as folows（1）Communitytype，seasonandtheir interaction had significant efectsontheramet density and canopy height of manipulated plant communities ( $\textstyle P < 0 . 0 1$ ），whereas the removal treatment had significant effects on the ramet density only( $P { < } 0 . 0 1$ ). Ramet density in species removal treatment was higher than that in the control treatment was，buttheeffect was not significant.Thediferences inspeciescompositionamong the diffrentplant communitiesdecreased with time,indicating thattheefectsof species removal treatment weakened gradualy.The probable underlying mechanismwas thatthe systemrecovered from the initial disturbanceand became more similarto the intact communities.There wereno significantdiferencesinramet density，canopy heightand belowground biomassof all the diferent plant communities between thecontroland speciesremoval treatments．This might be due tothespecies compensatoryefectsandtherecoveryabilityof dominantspecies sinceonlytheabovegroundparts ofthe dominant plants wereremoved.（2）Communitytypeand theseason significantlyaffected thedensityand Shannon-Weiner diversityindexof the macrobenthic invertebrate communities ( $P { < } 0 . 0 1$ ). Community type and interaction between the season and community type had significant effects on the biomass of macrobenthic invertebrates ( $P < 0 . 0 1$ )． The density of macrobenthic invertebrates in the speciesremoval treatment waslowerthan that incontrol treatment，but theefects were notsignificant. The highestdensity，biomassand Shannon-Weiner diversityindex of the macrobenthic invertebrates wereobserved in the Spartinaalterniflora-Scirpus mariquetercommunity.Thiswas mainlycausedbydiferences in environmental factorsand plant speciesatributesof the inhabiting communities.（3）There wasaclose relationship between salt marsh vegetation and benthic community.The densityof macrobenthic invertebrates was positivelyand negativelycorelated with shoot densityand canopy height of the inhabiting plant communities，respectively（all $P { < } 0 . 0 1$ ). After removal of the dominant species，ramet density of the plantcommunitiesand proportion of remaining species increased，while the subdominant species contributed greatlytothecompensatory efect.The densityof macrobenthic invertebrates decreased，butthe paternof biomassand diversityindexchangedifered from thatofthedensity，probablybecauseof the influenceof other environmentfactors.The aboveresultsindicatedthatthe biodiversitychangecouldafect thestructureof plantand macrobenthic invertebrate communities to diferent degres，which maythen alterthe processes of the biogeochemical cycleand energyflow.During ourstudy，theremoval efects wererelativelyweak intheintertidal zoneof Chongming Dongtan，and theydiminished with time.Therefore,the simpleremoval of dominant speciesmay not be suffcient to restore the ecosystem functionsof salt marshes，and further management measures should be used to maintain the long-term efects of habitat modification.
+
+Key Words：Chongming Dongtan；macrobenthic invertebratecommunity；salt marsh community；speciesremoval; wetland restoration
+
+近年来,生物多样性与生态系统功能关系一直是生态学研究的热点[1-2],而在这两者的关系中,物种丰富度和物种组成变化对生态系统功能的影响是至关重要的[3-4]。大量的人工组合群落实验[5-6]以及自然群落实验7表明物种多样性与生态系统初级生产力以及其他功能之间存在正相关关系。物种去除实验是从已经存在的自然或半自然群落中,依循预定计划剔除某些特定的物种或功能群,进而观察生物多样性变化对生态系统功能的影响的一类实验方法[89],近年来越来越多地被应用于生物多样性与生态系统功能关系研究当中[10]。7
+
+盐沼湿地是一类位于陆地和海洋交汇处的重要湿地生态系统,在调蓄洪水、水资源净化、贮存碳、生物多样性保护等方面具有重要作用。然而,盐沼湿地也是受围垦、污染、过度捕捞等人类活动影响最大的生态系统之一。目前对生物多样性与生态系统功能关系的研究大多集中在草地生态系统[11],而在盐沼湿地生态系统中对于两者关系的研究相对较少。对于特定物种或功能群的去除如何影响环境梯度明显、物种组成较为简单的盐沼湿地生态系统的结构与功能,人们仍缺乏足够的了解。
+
+作为国际重要湿地,崇明东滩是迁徙性鸟类在东亚-澳大利亚迁徙路线上的停歇点,也是不利气候条件下涉禽的紧急避难所。崇明东滩盐沼湿地生态系统正面临着围垦、外来物种入侵等因素的威胁,如何有效地保护这一生境类型,修复湿地已成为当前十分紧迫的任务。本研究选取崇明东滩湿地几种主要植物群落（芦苇-互花米草群落、芦苇-互花米草-海三棱藨草群落、狭叶香蒲-芦苇-糙叶苔草群落和互花米草-海三棱蔗草群落)展开物种去除实验,旨在回答以下几个问题;1）去除植物群落中优势物种后,群落结构会发生怎样的变化;2)大型底栖无脊椎动物群落是否随植物群落结构的变化而变化;3）如何利用对植物群落优势物种去除影响的正确认识来指导盐沼湿地的管理与修复实践。
+
+http://www.ecologica.cn
+
+# 1研究区域概况与方法
+
+# 1.1 研究区域概况
+
+崇明岛是我国第三大岛,也是世界上最大的河口冲积岛[12]。崇明东滩位于崇明岛的最东端( $3 1 ^ { \circ } 2 6 ^ { \prime }$ 一（ $3 1 ^ { \circ } 3 7 ^ { \prime } \mathrm { ~ N ~ } . 1 2 1 ^ { \circ } 4 6 ^ { \prime } - 1 2 2 ^ { \circ } 0 2 ^ { \prime } \mathrm { ~ E ~ } )$ ,南北临长江的入海口,向东延伸至东海,由长江径流携带的泥沙沉积而成[13]，每年以200- ${ \cdot 3 0 0 } \mathrm { m }$ 的速度向外延伸,是典型的河口滨海湿地。崇明东滩地属亚热带季风气候,全年气候温和、四季分明。潮汐属于非正规半日潮型,每日潮滩有昼夜两次的潮汐变化,中等潮汐,平均潮差2.66m。 N
+
+芦苇（Phragmites australis）、互花米草（Spartina alterniflora）、海三棱藨草（Scirpus mariqueter）是崇明东滩潮间带的优势物种[14」。在外来物种互花米草引入之前,高程低于 $2 \mathrm { m }$ 的光滩区域,没有出现高等植物的分布,海三棱藨草和藨草（Scirpus triqueter）主要出现在高程2- $\cdot 2 . 9 \mathrm { m }$ 的中潮滩和高潮滩区域,芦苇主要分布于高程$2 . 8 \mathrm { m }$ 以上的高潮滩上部,该区域同时散生着狭叶香蒲（Typha angustifolia）、白茅（Imperata cylindrica）、糙叶苔草（Carex scabrifolia）、碱蓬（Suaeda glauca）和野灯芯草（Juncus setchuensis）等斑块状群落。20世纪90年代以来,互花米草被引入崇明东滩,很快就成功定居并以其强大的繁殖能力迅速扩散,对土著物种尤其是海三棱藨草产生强烈的竞争效应,在扩散前沿已经形成了互花米草-光滩和互花米草-海三棱藨草-光滩两种典型的扩散格局[15-16]。目前崇明东滩高潮带以芦苇和互花米草的单一群落以及混生群落为主,在中潮带以互花米草和 3种莎草科植物的混生群落为主。崇明东滩北部的海三棱藨草基本被互花米草取代,南部的团结沙是海三棱藨草群落的主要分布区,此外还散生着白茅、狭叶香蒲等植物。
+
+# 1.2 研究方法
+
+选取崇明东滩4种典型的群落类型芦苇-互花米草群落、芦苇-互花米草-海三棱藨草群落、狭叶香蒲-芦苇-糙叶苔草群落以及互花米草-海三棱藨草群落(后文分别用 $\mathrm { P a } { \mathrm { - } } \mathrm { S a } \mathrm { , P a } { \mathrm { - } } \mathrm { S a } { \mathrm { - } } \mathrm { S m } \mathrm { , T a } { \mathrm { - } } \mathrm { P a } { \mathrm { - } } \mathrm { C s } \mathrm { , S a } { \mathrm { - } } \mathrm { S m }$ 表示)进行调查(表1)。每种群落带随机选取8个样方 $\left( 5 0 \mathrm { c m } { \times } 5 0 \mathrm { c m } \right) .$ ，用长约 $8 0 \mathrm { c m }$ 的竹竿对样方边界的4个顶点进行标记,并记录每个样方的GPS坐标。其中4个样方为去除组,分别于2014年11月、2015年4月对群落内优势物种进行刈割处理去除地上部分处理(Pa-Sa、Pa-Sa-Sm、 $\mathrm { S a - S m }$ 均去除互花米草,Ta-Pa-Cs 去除狭叶香蒲）;4个样方为对照组,不做处理。
+
+表1样地概况  
+Table 1 Descriptions of sampling sites   
+
+<html><body><table><tr><td>群落类型 Community type</td><td></td><td>纬度 Latitude</td><td>经度 Longitude</td><td>淹水频率 Flooding frequency</td></tr><tr><td>芦苇-互花米草群落Phragmites australis-Spartina alterniflora</td><td></td><td>31°29'55.09"N</td><td>121°58'52.62"E</td><td>低</td></tr><tr><td>芦苇-互花米草-海三棱薰草群落 Phragmites australis-Spartina alterniflora-Scirpus mariqueter</td><td></td><td>31°29'46.82"N</td><td>121°59'11.25"E</td><td>中</td></tr><tr><td>狭叶香蒲-芦苇-糙叶苔草群落 Typha angustifolia-Phragmites australis-Carex scabrifolia</td><td></td><td>31°27'37.84"N</td><td>121°55'50.31"E</td><td>中</td></tr><tr><td>互花米草-海三棱藨草群落 Spartina alterniflora-Scirpus mariqueter</td><td></td><td>31°30'04.48"N</td><td>121°59'17.84"E</td><td>高</td></tr></table></body></html>
+
+分别于2014年11月、2015年4月和9月进行植物群落调查,记录样方内植物分株总数及群落冠层高度。2014年11月和2015年9月用直径为 $1 0 \mathrm { { c m } }$ ,长 $5 0 \mathrm { { c m } }$ 的PVC管挖取样方边界处的沉积物,经 $1 \mathrm { m m }$ 网筛淘洗后获取植株地下部分(包括根、根状茎等);为减小对群落的影响,植物地上部分仅在2014年11月做背景调查时收获。将植株地下、地上部分装袋带回实验室,置于烘箱中， $8 0 ^ { \circ } \mathrm { C }$ 下烘干至恒重后测定地下、地上生物量。
+
+参照《海洋调查规范(GB/T12763-2007)第6部分海洋生物调查》的相关规范要求，在植物群落调查的同时进行大型底栖无脊椎动物样品的采集。为降低对样方的人为干扰,在样方边界处用定量框( $2 5 \mathrm { c m } \times 2 5 \mathrm { c m } \times$ $3 0 \mathrm { c m }$ )进行底栖动物定量取样。用 $1 \mathrm { m m }$ 孔径的网筛淘洗土壤样品，将分离出的大型底栖动物用 $7 5 \%$ 的乙醇溶液固定后带回实验室进行鉴定[17]、计数并称重（湿重)。
+
+# 1.3 数据分析与处理
+
+采用重复测定的方差分析检验植物群落类型以及去除处理对植物群落分株密度、冠层高度、地下生物量、底栖动物密度、生物量及多样性指数的效应,并运用Tukey'stest进行多重比较。采用线性回归分析植物群落表现与底栖动物密度、生物量、多样性指数间的关系。 2
+
+底栖动物群落多样性指数采用Shannon-Weiner物种多样性指数,计算公式为：
+
+$$
+H ^ { \prime } = - \sum _ { i = 1 } ^ { s } P _ { i } \mathrm { l n } P _ { i }
+$$
+
+其中， $P _ { i }$ 表示第 $i$ 个物种的比例，共 $s$ 个物种。
+
+所有统计分析均使用 STATISTICA10.0进行,显著性水平为0.05。所有图形均由 Sigmaplot 10.0绘制。
+
+# 2结果与分析
+
+# 2.1优势种去除对植物群落影响
+
+去除处理对植物群落分株密度有极显著效应( $P { < } 0 . 0 1 \$ )（表2）。所有群落中，去除组分株密度均高于对照组,但差异不显著。除 2015 年春季芦互海群落去除组冠层高度显著低于对照组外（one-way ANOVA， $P <$ 0.05）,其他群落的对照组和去除组间均无显著差异。去除优势物种处理使其地下生物量有一定程度的下降，但所有群落去除组与对照组间均无显著差异（图1）。
+
+芦互群落在去除处理后,互花米草所占比例有所下降,对照组的下降幅度高于处理组。处理效应随着时间逐渐减弱,2015 年秋季对照组与去除组间的差异小于春季,群落物种组成比例更接近初始状态。芦互海群落在去除互花米草地上部分后,2015 年春季互花米草和芦苇所占比例有所上升,而海三棱藨草占比下降,对照组芦苇占比上升及海三棱蔗草占比下降的幅度均高于去除组;秋季海三棱藨草已完全消失,芦苇和互花米草占比上升,对照组与去除组间群落组成相近。香芦糙群落在去除处理后,糙叶苔草占比上升,芦苇占比下降,而对照组芦苇和狭叶香蒲占比上升,糙叶苔草占比下降。2015年秋季对照组和去除组间差异小于春季，群落组成与初始状态更为接近。互海群落去除互花米草后,2015 年春季互花米草占比上升,海三棱藨草占比下降,对照组和去除组间基本无差异,秋季调查时由于崇明东滩互花米草治理工程将滩涂前沿互花米草斑块全部清除，群落中仅有海三棱藨草存在（图2）。
+
+表2群落类型及去除优势物种处理对植物群落影响的重复测量方差分析结果  
+Table 2 Resultsof repeated measurement ANOVA testing the efects of communitytypeand dominant speciesremoval treatment or plant community   
+
+<html><body><table><tr><td rowspan="2">差异来源 Source of variation</td><td colspan="3">分株密度 Ramet density</td><td colspan="3">冠层高度 Canopy height</td></tr><tr><td>df</td><td>F</td><td>P</td><td>df</td><td>F</td><td>P</td></tr><tr><td>群落类型 Community type</td><td>3</td><td>365.3</td><td><0.001***</td><td>3</td><td>65.5</td><td><0.001***</td></tr><tr><td>去除处理 Removal treatment</td><td>1</td><td>9.1</td><td>0.006 **</td><td>1</td><td>0.1</td><td>0.733</td></tr><tr><td>群落类型×去除处理 Community typeXremoval treatment</td><td>3</td><td>1.1</td><td>0.359</td><td>3</td><td>0.05</td><td>0.985</td></tr><tr><td>季节 Season</td><td>1</td><td>101.9</td><td><0.001***</td><td>1</td><td>267.1</td><td><0.001***</td></tr><tr><td>季节×群落类型 SeasonXcommunity type</td><td>3</td><td>165.0</td><td><0.001***</td><td>3</td><td>13.2</td><td><0.001***</td></tr><tr><td>季节×去除处理 SeasonXremoval treatment</td><td>1</td><td>0.1</td><td>0.721</td><td>1</td><td>0.2</td><td>0.656</td></tr><tr><td>季节×群落类型×去除处理 SeasonXcommunity typeXremoval treatment</td><td>3</td><td>0.5</td><td>0.654</td><td>3</td><td>0.2</td><td>0.920</td></tr></table></body></html>
+
+df：自由度，degreeof freedom；\*： $\scriptstyle P < 0 . 0 5$ ；\*\*： $P { < } 0 . 0 1$ ；\*\*\*： $P { < } 0 . 0 0 1$
+
+# 2.2 优势种去除对底栖动物群落的影响
+
+去除优势种处理后,群落类型和季节对底栖动物的密度和香农-威纳多样性指数有极显著效应( $P <$ 0.01）,群落类型以及季节和群落类型的交互作用对底栖动物的生物量有极显著效应( $\scriptstyle { \overrightarrow { P } } < 0 . 0 1 { \mathrm { ~ } }$ ）（表3）。两次
+
+![](images/84a9fbce2981562c0d706594e4b58b1ba48d4dcef2510dff997e27761fdb401e.jpg)  
+图1去除优势种对不同植物群落表现的影响  
+Fig.1Effects of dominant species removal on performances of different plant communities
+
+Pa:芦苇,Phragmites australis;Sa;互花米草,Spartina alterniflora; $\mathrm { { S m } }$ :海三棱藨草,Scirpus mariqueter;Ta;狭叶香蒲,Typha angustifolia;Cs;糙叶苔草，Carex scabrifolia;不同大写字母表示不同群落类型间差异显著( $\scriptstyle P < 0 . 0 5$ );不同小写字母表示同一群落类型内不同处理间差异显著( $P <$ 0.05)
+
+调查期间,互海群落底栖动物密度均显著高于其余群落,各群落中去除组底栖动物密度低于对照组,但差异不显著（图3）。2015年春季互海群落底栖动物生物量显著高于芦互和芦互海群落,到秋季互海群落底栖动物生物量显著高于其余群落。整个生长季中,香芦糙群落底栖动物生物量下降,互海群落生物量上升,芦互与芦
+
+![](images/dbb932ba576dc40ef278d71d9b80855e9fea5a000ef8084ad4812e1fcb2effe9.jpg)  
+图2去除优势种对不同植物群落物种组成的影响  
+Fig.2Effects of dominant species removal on species composition of different plant communities
+
+Pa:芦苇,Phragmites australis;Sa;互花米草,Spartina alterniflora； $\mathrm { s } _ { \mathrm { m } }$ ：海三棱藨草,Scirpusmariqueter;Ta;狭叶香蒲,Typha angustifolia;Cs;糙叶 苔草,Carex scabrifolia;B:处理前本底,before treatment;C:对照组,control;T:去除组,species removal treatment
+
+互海群落对照组生物量上升,处理组生物量下降（图3）。香农-威纳多样性指数从春季到秋季呈下降趋势，2015 年春季互海群落多样性指数显著高于其余群落,秋季各群落之间无显著差异（图3)。所有调查中,去除组底栖动物密度、生物量以及香农-威纳多样性指数与对照组均无显著差异（图3）。
+
+表3群落类型及去除优势物种处理对底栖动物群落的重复测量方差分析结果  
+Table 3 Resultsof repeated measurement ANOVA testing the efects of community type and dominant species removal on macro henthic invertehrates 17   
+
+<html><body><table><tr><td>差异来源 Source of variation</td><td></td><td>密度 Density</td><td></td><td></td><td>生物量 Biomass</td><td></td><td>Shannon-Weiner diversity index</td><td>香农-威纳多样性指数</td><td></td></tr><tr><td>群落类型 Community type</td><td>df</td><td>F</td><td>P</td><td>df</td><td>F</td><td>P</td><td>df</td><td>F</td><td>P</td></tr><tr><td>去除处理 Removal treatment</td><td>3 1</td><td>33.2 2.2</td><td><0.001*** 0.152</td><td>3</td><td>26.6</td><td><0.001*** 0.497</td><td>3</td><td>7.1 0.002</td><td>0.962 0.001***</td></tr><tr><td>群落类型×去除处理</td><td></td><td></td><td></td><td>1</td><td>0.5</td><td></td><td>1</td><td></td><td></td></tr><tr><td>Community typeXremoval treatment 季节 Season</td><td>3 1</td><td>0.61</td><td>0.617</td><td>3</td><td>0.3</td><td>0.826</td><td>3</td><td>0.3</td><td>0.838</td></tr><tr><td>季节×群落类型</td><td>3</td><td>11.2 1.9</td><td>0.002 ** 0.150</td><td>1 3</td><td>0.1 7.3</td><td>0.726 0.001***</td><td>1 3</td><td>27.3</td><td><0.001***</td></tr><tr><td>SeasonXcommunity type 季节×去除处理</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.6</td><td>0.596</td></tr><tr><td>SeasonXremoval treatment 季节×群落类型×去除处理</td><td></td><td></td><td></td><td></td><td></td><td>0.469</td><td>1</td><td>0.1</td><td>0.745</td></tr><tr><td>SeasonXcommunity typeX removal treatment</td><td>3</td><td>0.06</td><td>0.981</td><td>3</td><td>0.9</td><td>0.454</td><td>3</td><td>0.1</td><td>0.931</td></tr></table></body></html>
+
+df：自由度，degreeof freedom；\*： $\scriptstyle P < 0 . 0 5$ ； $\ast \ast { }$ ： $P { < } 0 . 0 1$ ；\*\*\*： $P { < } 0 . 0 0 1$
+
+![](images/a11c8e8080d39547e1d2fcc26b76523206b029469c02fe4359621ab67b06a8cd.jpg)  
+图3去除优势种对不同植物群落内底栖动物群落的影响
+
+Fig.3Effects of dominant species removal onmacro-benthic invertebrate communities in diferent plant communities
+
+Pa;芦苇,Phragmites australis;Sa;互花米草,Spartina alterniflora $\mathrm { s } _ { \mathrm { m } }$ :海三棱藨草,Scirpus mariqueter;Ta:狭叶香蒲,Typha angustifolia;Cs;糙叶苔草,Carex scabrifolia。不同大写字母表示不同群落类型间差异显著( $\scriptstyle P < 0 . 0 5$ );不同小写字母表示同一群落类型内不同处理间差异显著（20 $( P { < } 0 . 0 5 )$ （204
+
+# 2.3底栖动物群落变化与植物群落特征的相关性
+
+2014 年秋季去除优势物种处理前,底栖动物密度与植物群落分株密度呈极显著正相关( $R ^ { 2 } = 0 . 6 3 3$ $P <$ 0.01），底栖动物生物量与植物群落多样性指数呈显著正相关( $R ^ { 2 } = 0 . 3 2 5 , P { < } 0 . 0 5 ;$ ）。去除优势物种处理后，2015 年春季,底栖动物密度与植物群落分株密度呈极显著正相关( $R ^ { 2 } = 0 . 2 6 1$ ， $P { < } 0 . 0 1 \$ ），底栖动物密度与植物群落冠层高度呈极显著负相关( $R ^ { 2 } = 0 . 3 3 0 , P { < } 0 . 0 1 )$ 。2015年秋季，底栖动物密度与植物群落分株密度呈极显著正相关（R²=0.718,P<0.01),与植物群落冠层高度呈极显著负相关(R²=0.451,P<0.01）（图4)。
+
+r/eereettrieeeegen 5000 reereelereceeegeeg 60  
+4000 R²= 0.633 . 50 R²= 0.325  
+店 P<0.01 电 40 P<0.05  
+3000.30 . 1  
+2000 .20 .  
+1000 110 ： ·  
+· ·  
+心  
+0 0  
+0 400 800 1200 1600 0.0 0.2 0.4 0.6 0.8 1.0分株密度 Shannon-weiner多样性指数  
+Ramet density/(个/m2) Shannon-weiner diversity index2015年4月  
+r/ereeterriereegret 3500  
+3000 3000  
+电 2500 1500 R2=0.261 . 酒 2500 1500 R²=0.30：  
+1000 % . 1000  
+Y  
+500 ： . 500 . .  
+2 ” ： · 。  
+0 0  
+0 200 400 600 800 1000 0 20 40 60 80 100分株密度 冠层高度  
+Ramet density/(个/m²) Canopy height/cm2015年9月  
+/ereeeierrceeeige et 2500.  
+2000 R²=0.718 2000 R²=0.451  
+运 P<0.01 电 P<0.01  
+1500 1500 .  
+1000 1000  
+500 500  
+0 8 6 + · 0 ： ： Y "  
+0 700 1400 2100 2800 0 50 100 150 200 250分株密度 冠层高度  
+Ramet density/(个/m2) Canopy height/cm
+
+Fig.4The relationships between macro-benthic invertebrate communities and plantcommunity attributes
+
+# 3讨论
+
+# 3.1物种去除对植物群落的影响
+
+一个物种从群落中减少或消失通常会对群落中剩下的物种产生强烈的作用,尤其当该物种是群落的优势物种时[18-19]。植物群落的优势种对群落冠层高度、盖度及生物量都有很大贡献,去除优势种会对整个群落乃至生态系统功能造成较大影响。本研究中去除处理对植物群落分株密度产生极显著效应,且群落的物种组成也发生变化。去除优势种互花米草后,芦互群落以及芦互海群落中芦苇占比上升,而互海群落中海三棱藨草占比下降;去除狭叶香蒲后,糙叶苔草占比上升而芦苇下降。这与Wardle 等[20]以及 Symstad 和 Tilman[21]的研究结果相似,去除一个或多个功能群至少在短期内的确是在一定程度上促进了保留种的生长。在胁迫相对较小的中高潮带,物种的竞争能力尤为重要。莎草科植物海三棱藨草和糙叶苔草在与体型相对较大的狭叶香蒲和互花米草竞争过程中往往处于劣势,去除优势种后,剩余物种可以得到更多的空间和资源,利于其繁殖生长。为提高群落的稳定性提供了可能。生物多样性-稳定性关系是生态系统功能研究的一个重要方面。Herben 等人[22]通过剔除主要草原物种,发现一些物种开始定居在由于物种剔除产生的空地上,表明一种剔除之后的竞争释放现象。同时,去除处理也会影响被去除物种本身的生长繁殖,本实验中芦互海群落和互海群落中互花米草占比有所上升。在Palo Verde 湿地生态系统中去除优势物种长苞香蒲后,植物群落的物种多样性及丰富度升高,优势物种长苞香蒲地上生物量、分株密度及高度在去除后第一年急剧下降,第二年有所上升,但还是低于对照组,群落对优势物种去除的响应同时还受季节性洪水等非生物因素影响[23]。
+
+在生物多样性-生态系统功能（biodiversity-ecosystem functioning，BEF)关系的研究中,最常用的指标是群落的生物量。生物量累积直接与植物碳驱动过程相关联,是生态系统发展良好的重要指标之一[24]。同时,植物群落的冠层高度和分株密度是植物群落空间层次结构复杂性的重要表征,进而影响到所能支持的动物群落的多样性。高度较高、层次较丰富的冠层条件,能够提高生境异质性,支持更多物种[25]。本研究中不同植物群落在去除优势物种后群落的分株密度、冠层高度以及地下生物量并没有和自然状态下的植物群落产生显著差异,其中去除组分株密度一直高于对照组。这可能是由于群落内保留种对物种去除的补偿效应(compensatory effect)造成的,即在不断变化的环境中,某一物种或功能群在数量上的减少为其他的物种或者功能群的增加所补偿,从而使生态系统功能得以维持[26],次优势种对群落的补偿效应具有较大贡献[27]。芦互海群落和香芦糙群落中,次优势种分别为芦苇和糙叶苔草,去除处理后,其占比上升。另一方面,本研究由于仅去除优势物种的地上部分,还需要考虑其被刈割后的恢复能力。已有研究表明,互花米草根系具高度发达的通气组织,刈割后仍能维持较旺盛的生命活动,在无淹水条件下,再生长表现良好[28]。不同季节刈割互花米草后其恢复能力也存在差异[29],11月份互花米草生长基本结束,刈割后的恢复能力较弱,而4月的刈割处理反而能促进互花米草分株数增加。这主要是由于互花米草密度大、个体较高,生长季末枯萎的植株等凋落物形成遮阴环境,同时减少了植物的可利用空间[30],因此去除处理可以增加光照及可利用空间,有利于新分株的形成和生长。
+
+多样性对生态系统功能的影响是一个动态的过程,本研究中随着时间的推移,优势物种去除处理的效应逐渐减弱,去除组和对照组间物种组成差异随时间增加而减小。这可能是由于“去除”行为在初期对研究系统产生了较大的扰动,包括资源供应的改变以及对于群落内保留种生境条件的物理扰动[31]。优势种的相对丰度和产量以及其本身性状特征,可能是决定土壤碳素动态特征的主要因子[32]。因此,首次“去除"会对盐沼的土壤性质带来严重的扰动。随着时间的推移,植物群落逐渐恢复,干扰效应减小,从而导致去除效应不断减弱。Leps[33]同样认为，“去除"行为造成的干扰对实验的影响不可忽视,干扰对系统的影响随时间尺度而减弱。
+
+# 3.2优势种去除对大型底栖无脊椎动物的影响
+
+底栖动物是河口海岸生态系统的次级生产者,在代谢污染物、食物网结构、干扰影响、物质循环等过程中起重要作用,影响生态系统物流和能流[34]。盐沼植物可为底栖动物提供栖息场所和食物来源,因此植物群落结构对底栖动物群落的组成和分布将起到重要作用。物种去除改变了底栖动物群落的生境条件,对底栖动物群落的密度、生物量以及香农威纳多样性指数具有一定程度的影响。本研究中,去除群落优势植物后各群落中底栖动物密度均降低,部分群落在去除优势植物后,其底栖动物生物量和多样性指数升高,与密度变化趋势并不一致。整体而言,去除处理效应较弱,底栖动物群落的差异可能是由其他环境因子如群落类型、季度或者潮汐作用的变化引起的。Larmed 和 Kilroy 通过去除优势种双生双楔藻（Didymosphenia geminata）对底栖动物群落的影响实验发现,由于河流水文性质不同导致底栖动物群落结构变化比去除处理对底栖动物群落的影响更大[35]。 ）
+
+大量研究表明,随着植物高度的增加,枝、叶分化复杂,植物群落地上部分结构呈现复杂化,增加了环境异质性,可以为底栖动物提供更为丰富的微生境以及生活空间[36-37]。然而本研究中随着植物冠层高度的增加,底栖动物密度呈减少趋势,可能的原因是芦苇和互花米草对冠层高度的贡献率较大,其发达的地下根系对底栖动物起抑制作用,且芦苇的茎叶不易分解,从而导致有机碎屑较少[38]。相反地,海三棱蔗草根系细腻,局部结构更加复杂,营养丰富的地下球茎可能更适合大型底栖动物的取食,所以芦苇和互花米草生境中底栖动物密度显著低于海三棱藨草生境[39。此外,本研究中底栖动物密度、生物量及多样性指数从高潮带到中低潮带呈增加趋势,互海群落生境中底栖动物密度、生物量以及香农-威纳多样性指数均高于其他群落,这主要是由环境因子的差异造成的。中低潮带的互海群落高程低,淹水频率高,受潮汐影响大,可以为底栖动物提供丰富的食物和营养物质,因此以浮游生物为食的缢蛏只出现在互海群落中。
+
+# 3.3对湿地修复的启示
+
+进行湿地修复时,通常首先考虑的是对植物的保护和修复,去除优势植物在短期内能使群落的密度和冠层高度增加，剩余物种占比上升。然而，刈割去除优势物种的单 $\underline { { \underline { { \mathbf { \Pi } } } } }$ 措施对生态系统的总体影响较弱，且效应随时间逐渐减弱。为了有效维持修复效果,需进行更大时空尺度的深入研究,追踪群落的长期响应轨迹并采取相应的管理措施,建立多途径的湿地生态恢复技术体系与长效维持机制。去除优势物种对湿地植物和底栖动物层面的影响并不一致,若要取得良好的修复效果,应综合考虑不同类群对修复措施响应模式的差异。另一方面,湿地修复在很大程度上还受到盐度、淹水时间等环境因子的影响,在异质生境中,需要有针对性地采取不同的管理措施,或者对生境进行适当的改造，以提高修复的效率。
+
+# 参考文献（References）:
+
+[1]Loreau,NeemS,chustiP,engtssoJ,reJP,HectorA,HoperDU,HsonMA,RafeliD,chmidB,ianD,WdleA. Biodiversityand ecosystem functioning:Current knowledgeand future challenges.Science,2001，294(543）：804-808.   
+[2]CardinaleBJDffyJE,GonzalezA,HoperDU,PeringsC,VenailP,NarwaniA,Mace GMlanD,WardeDA,KinzigAP,DlyG C,LoreauM,acJB,rigderieA,ivastavaD,eediversitylsspactonmnityure,486） 67.   
+[3] Wu JG,NaemS,ElserJ，BaiYF,HuangJH,KangL,PanQM,WangQB,HaoSG,HanXG.Testingbdiversiycosysteuctiong relationship in the world'slargest grassand:overviewof the IMGRE project.Landscape Ecology，2015，30(9):1723-1736. 4 Naeem S.Ecosystemconsequences of biodiversity loss:The evolution of a paradigm.Ecology，202，83(6):1537-1552. 5 BalvaneraP,fistererB,ucha,HeJ,NakashukaT,RaelliD,SchdBQuantfingteevidenceforoiversits ecosystem functioning and services.Ecology Leters，2006,9（10）：1146-1156.   
+[6 WormB,BarbierEB,BeaumontN,DuffJE,FokeC,HalpenBS,JcksonJBC,LotzeHK,MicheliF,PalumbiSR,SalaE,Selkoe K A,StachowiczJJ，WatsonR.Impactsofbiodiversityloss onocean ecosystem services.Science，2006,314（580）：787-790.   
+Z TylianakisJM,RndA,aenA,leinAuchaN,eerJ,satkeTesouceeterogeityoderatesteiodieit function relationship in real world ecosystems.PloS Biology，2OO8,6(5）：e122.   
+[8]McelJtl of Ecology，1997，85(4):479-490.   
+[9]GundlerdeA,ioVasaplatrealtsaliatoalfstsdgrao 2010,91(6)： 1704-1714.   
+[10] SymstadAJ,ChapinIIFS,WallDH,GrossKL,HuenekeLF,MitelbachGG,PetersDPC,TilmanD.Long-termandlarge-scale
+
+perspectives on the relationship between biodiversityand ecosystem functioning.Bioscience,2Oo3,53(1）：89-98.[11]CardinaleBJ，WrightJ,CadoteMW，CollIT，Hetor，rivastavaDS,LoreauM，WeisJJImpactsfplantdiversiaproductionincreasethoughtiebecauseofspeciescomplementaityProceingsoftheNatioalAademofSciencesofteUnitedStatesfAmerica，2007，104(46)：18123-18128.[12]MaZJ,LiB,JingK,ZhaoB,TangSChenJKEfectsoftidewaterothefedingeologofhoodedcrane（Grusmoach）ndeationof their wintering habitats at Chongming Dongtan，China.Ecological Research,2003，18(3）：321-329.[13] 吉晓强.崇明东滩水沙输移及植被影响分析[D].上海：华东师范大学，2008.[14] 闫芊，陆健健，何文珊.崇明东滩湿地高等植被演替特征.应用生态学报，2007，18（5）：1097-1101.[15] XiaoDR,ZhangLQ,ZuZC.erangeexpansionpatesofSartinaalterifloraosaltarshesintheYngtzeEstuary，Cha.EstiCoastal and Shelf Science，2010,88(1）：99-104.[16] 曹浩冰，葛振鸣，祝振昌，张利权.崇明东滩盐沼植被扩散格局及其形成机制.生态学报，2014，34（14)：3944-3952.[17] 刘文亮,何文珊.长江河口大型底栖无脊椎动物.上海：上海科学技术出版社，2007:9-167.[18] Hils MH,VankatJL.SpeciesRemovalsFromaFirst-YearOld-Field Plant Community.Ecology，1982,63(3)：705-711.[19] AarssenL W，EppGA.Neighbor manipulations in naturalvegetationareview.Joualof VegetationScience，199o,1(1):1-30.[20] WardeDA,oerKIarkerG,YeatesGW,colsonKSardgettRDWtsoRNniA.PateoalsierealdVegetatindynamics，decomposers，soilbiodiversityandecosystemproperties.Ecological Mongraphs，99，69（4):5-68.[21] SymstadAJ，anDDiversityloss，ecuimentlitationdosystefutoing：lessosleadfroaroalexperitOiko，2001,92(3): 424-435.[22] HerbenT，KrahulecF，Hadincov V，PechkovS.Fine-salespeciesinteractionsofalplantsinamountaingrassand；Areovalexperiment.Oikos，1997，78(2）：299-310.[23]Osland MJ,González E，Richardson C J.Restoring diversity after catail expansion:disturbanc silience，and seasonality ina tropical drywetland.Ecological Applications，2011,21(3）：715-728.[24]Korol A R，Ahn C.Dominance by an obligate annual affects the morphological characterist biomass production of a planted wetlandmacrophyte community. Journal of Plant Ecology，2016,9(2）：187-200.25]WlfJrG,Vubellsantpeoeihdin a neotropical forest.Remote Sensing，2012,4（12）：4010-4021.[26]BaiYFanXG,uJG,ZZ,ioabidatotsglaasue41(7005）：181-184.[27]McLaren JR, Turkington R. Biomass compensation and plant respons 7 years of plant functional group removals. Journal of Vegetation Science,2011,22(3):503-515.[28] 唐龙.刘割、淹水及芦苇替代综合控制互花米草的生态学机理研究[D]．上海：复旦大学，2008.[29] 谭芳林，林贻卿，肖华山，潘辉，崔丽娟，黄丽，林捷，罗美娟，乐通潮，罗彩莲.不同时期刈割对互花米草生长影响的研究.湿地科学，2010,8(4):379-385.[30] 汪承焕.环境变异对崇明东滩优势盐沼植物生长、分布与种间竞争的影响[D]．上海：复旦大学，2009.[31] DiazS，SystadAJ，ChapinIS，WardeDA，HueekeLF.FnctioaldiversityrevealedbyemovalexperimentsTrendsinEolog&Evolution,2003，18(3）:140-146.[32] 王平，盛连喜，燕红，周道玮,宋彦涛.植物功能性状与湿地生态系统土壤碳汇功能.生态学报，2010，30(24)：6990-7000.3]LepJVrabiltinulatiodiassigaduittedbviotalproductivitdio，2004,107(1): 64-71.[34］胡知渊，鲍毅新，程宏毅，张龙龙，葛宝明.中国自然湿地底栖动物生态学研究进展.生态学杂志，2009,28（5）：959-968.[35] Larned S T, Kilroy C. Effects of Didymosphenia geminata r l on river macroinvertebrate communities.Journal of Freshwater Ecology，2O14,29(3) : 345-362.36]WerilfilaceoiseaeEstuarine Coa stal and Shelf Science，1998，47(3）：351-357.[37] 袁兴中，陆健健，刘红.河口盐沼植物对大型底栖动物群落的影响.生态学报，2002，22（3）：326-333.[38] 左倬，陈煜权，成必新，胡伟，朱雪诞，仓基俊，王鹏.不同植物配置下人工湿地大型底栖动物群落特征及其与环境因子的关系.生态学报，2016,36(4):953-960.[39] 杨泽华，童春富，陆健健.盐沼植物对大型底栖动物群落的影响.生态学报，2007，27（11)：4387-4393.

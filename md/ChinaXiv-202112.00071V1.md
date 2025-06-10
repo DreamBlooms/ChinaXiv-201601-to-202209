@@ -1,0 +1,180 @@
+# 新疆图开沙漠灌丛沙堆和抛物线形沙丘表层沉积物粒度特征及其沉积环境
+
+王佩，马倩²，朱元璞，曾燚¹（1.新疆师范大学地理科学与旅游学院,新疆 乌鲁木齐830054;2.新疆干旱区湖泊资源与环境重点实验室，新疆 乌鲁木齐830054)
+
+摘要：沉积物粒度特征是分析粒度组成演变过程、判别沉积环境的重要参考。对新疆图开沙漠灌丛沙堆及抛物线形沙丘表层沉积物粒级级配、粒度参数进行了系统分析，并利用Sahu经验模型判断了沉积环境。结果表明：(1)灌丛沙堆及抛物线形沙丘表层沉积物偏粗，主要由极细砂、细砂、中砂、粗砂组成。(2)各粒级在不同地貌部位分布存在差异，表层沉积物粒度由迎风坡向背风坡沙粒趋向于细化，由坡底到坡顶沙粒趋于细化。(3)不同地貌部位之间粒度参数呈现不同变化趋势，且粒度参数之间有相关性，平均粒径与分选系数、偏度、峰态之间的相关性不大，而分选系数、偏度、峰态之间呈现显著的相关性。(4)沉积物形成环境主要为风成环境及浊流环境。
+
+关键词：图开沙漠；灌丛沙堆；抛物线形沙丘；粒度特征；沉积环境
+
+# 文章编号：
+
+沉积物粒度特征在区分风沙地貌、沉积环境、判定搬运方式与动力条件、控制沙丘地貌、恢复古气候变化等方面具有重要意义[1]。沉积物是风塑造风沙地貌的物质基础，在沙丘的形成和发展过程中，由于不同区域风力条件、沙源运输距离、植被覆盖度、地形等因素以及各因素之间组合情况的不同，各区域不同类型或同一类型沙丘在沉积物粒度特征有所不同[2-7]。由于受到风动力、植被等因素影响沙丘不同地貌部位粒度分布模式有所不同，毛东雷等[8得出灌丛沙堆从迎风坡底部至顶部,沙粒平均粒径逐渐变细，从顶部至背风坡底部，沙粒粒径又逐渐变粗，形成丘顶最细模式;俞胜清等得出新疆喀拉库姆沙漠新月形沙丘由两侧坡脚至丘顶逐渐变粗，由坡脚到丘顶，粒径变粗，形成丘顶最粗模式。在粒度分析过程中的沉积环境分析一直是沉积学领域探索的热点问题，大多数研究集中于不同地域风成、湖泊、河流和浊流沉积物粒度参数特征和沉积环境的鉴别[10-12],不同的沉积环境对风沙沉积物粒度特征产生重要影响，在区域尺度上马茜茜等[13]、常宏等[14]、魏亚娟等[15]、靳建辉等[16]分别对阿联酉迪拜中部沙漠、乌兰布和沙漠、吉兰泰盐湖、艾比湖周边进行采样分析，对表层沉积物粒度进行探讨，分析沉积物粒度特征并重建其形成发育的沉积环境，得出不同位置存在不同的沉积环境，并对沉积物来源展开研究。针对地广人稀、地理位置偏僻的图开沙漠研究还相对比较薄弱，本文对图开沙漠灌丛沙堆及抛物线形沙丘表层沉积物粒级级配、粒度参数特征进行分析，并结合Sahu公式对其沉积类型进行识别，了解沉积物粒度特征和环境意义，有助于辨识沙漠沉积物物质来源、探讨风沙流运动规律、丰富对风沙活动规律的认识，为风沙地貌形成发育过程提供依据，促进沙漠化治理及生态环境修复。
+
+# 1研究区概况
+
+图开沙漠位于新疆霍城县西南方(图1)，地理坐标 $4 3 ^ { \circ } 5 5 ^ { \prime } 1 8 ^ { \prime \prime } { \sim } 4 4 ^ { \circ } 0 1 ^ { \prime } 2 8 ^ { \prime \prime } \mathrm { N } \mathrm { , } 8 0 ^ { \circ } 4 3 ^ { \prime } 4 7 ^ { \prime \prime } { \sim } 8 0 ^ { \circ } 5 1 ^ { \prime } 1 8 ^ { \prime \prime } \mathrm { E }$ 是典型西风带半干旱气候影响下的固定半固定沙漠。该区域属温带大陆性荒漠气候，降水稀少、气候干旱炎热、昼夜温差较大、风沙天气较多，年平均气温 $9 . 1 ~ ^ { \circ } \mathrm { C }$ ，平均日温差 $1 3 { \sim } 1 5 ~ \mathrm { ^ \circ C }$ ,年均降水量 $1 4 0 \sim$ $4 5 0 ~ \mathrm { m m }$ ,年均蒸发量 $1 4 0 0 { \sim } 1 9 0 0 \ \mathrm { m m }$ ,年均日照时数$2 5 5 0 { \sim } 3 0 0 0 \mathrm { ~ h }$ 。沙土松散，沙层湿度较高，区内植被比较丰富,广泛生长梭梭(Haloxylonammodendron）、锦鸡儿（Caragana sinica）、骆驼刺(Alhagi sparsifo-lia）芨芨草(Achnatherumsplendens）铃铛刺(Hali-modendronhalodendron)等乔、灌、草以及短生、类短生植物，总植被盖度为 $3 5 \% { \sim } 4 0 \%$ 。土壤主要以半固定风沙土为主，还发育着灰钙土、沼泽土、草甸土、盐土、潮土等，沙漠中分布着抛物线形沙丘、复合型灌丛沙堆、梁窝状沙丘及沙垄，南部零星分布着舌状沙丘和雏形的新月形沙丘等风沙地貌，由于人类活动过程导致地表植被退化、土地沙化严重，使得该沙漠面积不断扩大，整个沙漠的流动性增强，风沙灾害有所加剧。
+
+![](images/34a903963ed78f322b07c9d61c8377551dc7dc1a4cf1f20f59263df57c4de680.jpg)  
+图1研究区位置及采样点示意图
+
+# 2材料与方法
+
+# 2.1样品采集
+
+基于相关气象资料、遥感影像图及实地考察，对图开沙漠发育典型的抛物线形沙丘、灌丛沙堆表层沉积物进行采集(图2)。其中抛物线形沙丘的样品采集主要按照迎风坡底、迎风坡中、顶部、背风坡中、背风坡底、北翼中、北翼尾、南翼中、南翼尾的顺序采样9个;典型灌丛沙堆一般按照迎风坡底、迎风坡中、顶部、背风坡中、背风坡底的顺序采样5个。此次采样选择不同类型的沙丘16个，共采取沙样100个，采样方法与Lancaster在纳米布沙漠的采样标准类似，选取 $0 . 2 ~ \mathrm { m } { \times } 0 . 2 ~ \mathrm { m }$ 面积的沙面，均匀采集表面深度为 $0 { \sim } 5 ~ \mathrm { c m }$ 的表层沉积物样品，样品重约$5 0 0 \ \mathrm { g }$ ,采样后对其GPS精准定位，并记录沙丘类型、沙丘部位、高度及坡度等信息，同时描述沙丘的地貌特征、形态特征、植被特征，记录后用样品袋封存沙样。
+
+# 2.2分析方法
+
+通过英国Malvern制造的Mastersizer-2O00激光粒度分析仪 $( 0 . 0 2 { \sim } 2 0 0 0 ~ \mu \mathrm { m } ,$ )测试本文中所采集的粒度样品，测量结果用Folk-Ward粒度公式，用GRA-DISTAT粒度分析软件得到各粒度参数，粒度分级采用Wentworth分类[17-18]:黏土 $0 { \sim } 2 ~ { \mu } \mathrm { m }$ ;粉砂 $2 { \sim } 6 3 ~ \mu \mathrm { m }$ （细分为极细粉砂 $2 { \sim } 4 ~ \mu \mathrm { m }$ ;细粉砂 $4 { \sim } 8 ~ \mu \mathrm { m }$ ；中粉砂$8 { \sim } 1 6 ~ \mu \mathrm { m }$ ;粗粉砂 $1 6 { \sim } 3 1 ~ \mu \mathrm { m }$ ;极粗粉砂 $3 1 { \sim } 6 3 ~ \mu \mathrm { m } )$ ;砂 $6 3 { \sim } 2 0 0 0 ~ { \mu } \mathrm { m }$ （细分为极细砂 $6 3 { \sim } 1 2 5 ~ \mu \mathrm { m }$ ；细砂$1 2 5 { \sim } 2 5 0 ~ \mu \mathrm { m }$ ；中砂 $2 5 0 { \sim } 5 0 0 ~ { \mu \mathrm { m } }$ ;粗砂 $5 0 0 { \sim } 1 0 0 0 ~ { \mu \mathrm { m } }$ 极粗砂 $1 0 0 0 { \sim } 2 0 0 0 ~ \mu \mathrm { m } ,$ ）
+
+![](images/6780d8affc87fb00a270552a1b41f8916e20a82e93b8de0748ba353736a0bc7c.jpg)  
+Fig.1 Locations of the study area and the sampling points diagram   
+图2灌丛沙堆与抛物线形沙丘采集点位  
+Fig.2Collection points of sand samples of nebkhas and parabolic dunes
+
+所有数据均采用Excel、IBMStatistics SPSS20、Origin9.0软件分析及绘制相关图表。
+
+# 3结果与分析
+
+# 3.1灌丛沙堆及抛物线形沙丘不同地貌部位表层 沉积物粒径特征
+
+图开沙漠中灌丛沙堆和抛物线形沙丘表面沙物质(图3)沙粒偏粗，主要由极细砂、细砂、中砂、粗砂组成，其中细砂和中砂所占的比例最大，其次是极细砂和粗砂，其他粒级所占的百分比均较少。灌丛沙堆各粒级百分含量依次为中砂( $4 9 . 4 6 \%$ >细砂$( 3 7 . 6 3 \%$ )>粗砂( $7 . 5 1 \%$ )>极细砂( $3 . 4 3 \%$ )>粗粉砂$( 0 . 8 7 \% ) >$ 极粗粉砂( $0 . 8 2 \%$ )>中粉砂 $( 0 . 1 3 \%$ )>细粉砂 $( 0 . 1 2 \% ) >$ 极细粉砂( $0 . 0 2 \%$ ),抛物线形沙丘各粒级百分含量依次为细砂 $( 4 7 . 1 1 \% ) >$ 中砂 $( 3 8 . 0 5 \% ) >$ 极细砂( $8 . 2 4 \%$ )>粗砂( $( 4 . 1 2 \%$ )>粗粉砂 $( 1 . 2 4 \% ) >$ 极粗粉砂( $( 0 . 4 5 \%$ )>中粉砂( $0 . 3 8 \%$ )>细粉砂 $( 0 . 2 2 \% ) >$ 极粗砂 $( 0 . 0 9 \%$ )>极细粉砂 $( 0 . 0 9 \% )$ )，抛物线形沙丘与灌丛沙堆表层沉积物相比较，抛物线形沙丘的极细砂与细砂的含量大于灌丛沙堆，而中砂与粗砂的含量反之，灌丛沙堆比抛物线形沙丘含量多，说明灌丛沙堆与抛物线形沙丘表层沉积物相比较偏粗。
+
+图3灌丛沙堆与抛物线形沙丘表面沉积物粒级百分含量 Fig.3Percentages of sediments on the surface of nebkhas and parabolic dunes   
+![](images/cd59fcd38c1eac372d491c4d2de8fc4fd0bba80418f8818b0c2424ae0cd0ad82.jpg)  
+注：误差棒为标准偏差。下同。
+
+灌丛沙堆(图 $\mathrm { 4 a }$ )不同地貌部位中，中砂含量在沙堆顶部表现最大，百分含量为 $5 0 . 6 5 \%$ ,迎风坡中部含量大于背风坡中部,迎风坡底部含量大于背风坡底部；细砂同样在沙堆顶部含量表现最大，其他部位表现与中砂反之，背风坡中部含量大于迎风坡中部，背风坡底部含量大于迎风坡底部;粗砂的百分含量在沙堆的迎风坡底表现最大，百分含量为$1 0 . 9 8 \%$ ，其次依次为背风坡底、背风坡中、迎风坡中，百分含量依次为 $7 . 5 6 \% . 6 . 8 7 \% . 6 . 4 5 \%$ ，在沙堆的顶部表现最小，百分含量为 $5 . 7 1 \%$ ;极细砂在不同部位的含量变化规律与粗砂在不同部位表现相同。灌丛沙堆不同地貌部位中，由两侧坡脚至灌丛顶部的中砂、细砂逐渐升高，而极细粉砂、极粗粉砂、中粉砂、细粉砂变化规律恰好相反，由两侧坡脚至灌丛沙堆顶部含量逐渐降低，从不同坡向来看，迎风坡粉砂含量小于背风坡，而其他砂粒含量与之相反，说明灌丛沙堆迎风坡受到强烈的风力作用，较细砂粒被风携带到其他地方，在周围植被的阻挡下，粗砂粒在迎风坡发生沉降，较细砂粒受背风坡回旋气流的影响，堆积于背风坡，由迎风坡向背风坡沙粒趋向于细化，同时坡底到坡顶沙粒趋于细化。
+
+![](images/b0895d3b98ed8048bf16202af19ac430de7af5fbe54ea99da249a8699c8d1820.jpg)  
+图4灌丛沙堆与抛物线形沙丘不同地貌部位表层沉积物粒级百分含量  
+Fig.4Percentages of surface sediments in different landforms of nebkhas and parabolic dune:
+
+抛物线形沙丘(图4b)不同部位的粒级表现有所不同，其中细砂的百分含量在沙丘南翼尾中表现最大，平均为 $5 2 . 9 1 \%$ ，其次依次为背风坡中、迎风坡中、北翼中，百分含量依次为 $5 1 . 8 5 \%$ 、 $5 1 . 4 8 \%$ 、$5 0 . 7 8 \%$ ,在沙丘北翼尾、迎风坡底表现最小，百分含量依次为 $4 3 . 8 7 \% . 4 3 . 8 9 \%$ 。中砂在北翼尾百分含量最大，百分含量为 $4 3 . 0 7 \%$ ,其次在迎风坡底百分含量为 $3 8 . 6 8 \%$ ,在沙丘的南翼尾表现最小，百分含量为 $3 0 . 5 2 \%$ 。极细砂在南翼尾百分含量最大,平均为$1 3 . 1 7 \%$ ,其次在南翼中百分含量为 $1 0 . 6 1 \%$ ，在沙丘的北翼尾表现最小，百分含量为 $6 . 1 6 \%$ 。粗砂的变化规律与中砂相似，但其百分含量在迎风坡底最大，百分含量为 $5 . 6 7 \%$ ,其次在北翼尾百分含量为
+
+$5 . 0 7 \%$ ，在南翼尾表现最小，百分含量为 $0 . 6 \%$ 。抛物线形沙丘迎风坡整体表层沉积物相对于背风坡整体表层沉积物较粗，北翼整体表层沉积物相对于南翼整体表层沉积物较粗。由于抛物线形沙丘两翼植被对风沙流的消减，使得较粗砂粒在迎风坡沉降，较细的砂粒被搬运且沉积在背风坡与南翼
+
+# 3.2灌丛沙堆及抛物线形沙形丘表层沉积物粒度参数
+
+图开沙漠灌丛沙堆及抛物线形沙丘表层沉积物粒度参数中灌丛沙堆(表1)平均粒径 $( M _ { \mathrm { Z } } )$ 范围介于 $1 . 4 3 { \sim } 2 . 1 7 ~ \Phi$ ,标准偏差为 $0 . 1 7 ~ \Phi$ ,平均值为1.89$\Phi$ ，属于细砂范围，在不同地貌部位的平均粒径最大的部位为背风坡底，为 $1 . 9 5 \mathrm { \Phi }$ ,其次为背风坡中、迎风坡中、顶部，在迎风坡底的平均粒径最小，为1.83$\Phi$ ;灌丛沙堆表面沙物质的分选系数 $( \pmb { \sigma } _ { 1 } )$ 介于 $0 . 5 1 \sim$ $0 . 8 3 \ \Phi$ ,标准偏差为 $0 . 0 8 { \ \Phi }$ ,平均值为 $0 . 6 4 ~ \Phi$ ,属于中等偏好分选性，分选系数 $\left( \sigma _ { 1 } \right)$ 表现为迎风坡底 $>$ 迎风坡中 $>$ 背风坡底 $>$ 背风坡中 $>$ 顶部；灌丛沙堆的偏度( $\mathrm { S K _ { 1 } }$ 介于 $0 . 0 1 { \sim } 0 . 1 9 \mathrm { ~ } \Phi$ 之间，标准偏差为0.04$\Phi$ ,平均值为 $0 . 0 6 \ \Phi$ ，属于近对称分布，偏度在不同地貌部位与分选系数变化规律相似，偏度在顶部最
+
+表1灌丛沙堆各地貌部位粒度参数  
+Tab.1 Grain size parameters of various geomorphic parts of nebkhas   
+
+<html><body><table><tr><td>采样部位</td><td>参数</td><td>平均粒径(Mz)</td><td>分选系数(σi)</td><td>偏度(SK:)</td><td>峰态(Kc)</td></tr><tr><td rowspan="4">迎风坡底</td><td>平均值</td><td>1.83</td><td>0.70</td><td>0.07</td><td>1.00</td></tr><tr><td>最大值</td><td>2.17</td><td>0.79</td><td>0.14</td><td>1.09</td></tr><tr><td>最小值</td><td>1.43</td><td>0.58</td><td>0.04</td><td>0.95</td></tr><tr><td>标准偏差</td><td>0.21</td><td>0.08</td><td>0.03</td><td>0.05</td></tr><tr><td rowspan="4">迎风坡中</td><td>平均值</td><td>1.89</td><td>0.64</td><td>0.06</td><td>1.00</td></tr><tr><td>最大值</td><td>2.05</td><td>0.83</td><td>0.19</td><td>1.24</td></tr><tr><td>最小值</td><td>1.77</td><td>0.53</td><td>0.01</td><td>0.94</td></tr><tr><td>标准偏差</td><td>0.08</td><td>0.10</td><td>0.06</td><td>0.10</td></tr><tr><td rowspan="4">顶部</td><td>平均值</td><td>1.87</td><td>0.58</td><td>0.04</td><td>0.97</td></tr><tr><td>最大值</td><td>2.10</td><td>0.66</td><td>0.07</td><td>0.99</td></tr><tr><td>最小值</td><td>1.43</td><td>0.51</td><td>0.01</td><td>0.95</td></tr><tr><td>标准偏差</td><td>0.21</td><td>0.05</td><td>0.02</td><td>0.01</td></tr><tr><td rowspan="4">背风坡中</td><td>平均值</td><td>1.91</td><td>0.62</td><td>0.05</td><td>0.97</td></tr><tr><td>最大值</td><td>2.16</td><td>0.72</td><td>0.13</td><td>1.06</td></tr><tr><td>最小值</td><td>1.68</td><td>0.53</td><td>0.01</td><td>0.93</td></tr><tr><td>标准偏差</td><td>0.14</td><td>0.07</td><td>0.04</td><td></td></tr><tr><td rowspan="4">背风坡底</td><td>平均值</td><td></td><td></td><td></td><td>0.04</td></tr><tr><td>最大值</td><td>1.95</td><td>0.64</td><td>0.06</td><td>0.98</td></tr><tr><td>最小值</td><td>2.14</td><td>0.71</td><td>0.12</td><td>1.05</td></tr><tr><td>标准偏差</td><td>1.69 0.17</td><td>0.57 0.06</td><td>0.01 0.03</td><td>0.94 0.03</td></tr></table></body></html>
+
+# 干旱区地理
+
+小，由迎风坡底到顶部减小，由顶部到背风坡底增大，偏度在两侧坡底最大。灌丛沙堆峰态 $( K _ { \mathrm { G } } )$ 介于$0 . 9 3 { \sim } 1 . 2 4 \mathrm { ~ } \Phi$ 之间，标准偏差为 $0 . 0 5 { \mathrm { ~ ‰ ~ } }$ ，平均值为$0 . 9 9 \Phi$ ,不同部位的峰态相差不大，属于中等峰态。
+
+抛物线形沙丘(表2)平均粒径 $( M _ { \mathrm { Z } } )$ 范围介于$1 . 4 7 { \sim } 2 . 5 5 \mathrm { ~ } \Phi$ ,标准偏差为 $0 . 2 1 \ \Phi$ ,平均值为 $2 . 1 7 ~ \Phi$ 属于细砂范围，在南翼尾平均粒径表现最大，为$2 . 2 1 ~ \Phi$ ,其次为背风坡中、南翼中、北翼中、迎风坡中，在北翼尾的平均粒径最小，为 $2 . 0 3 \ \Phi$ 。抛物线形沙丘表面的沙物质分选系数 $\left( \sigma _ { 1 } \right)$ 介于 $0 . 5 4 { \sim } 1 . 1 6 \Phi$ 标准偏差为 $0 . 1 1 \ \Phi$ ,平均值为 $0 . 6 5 \mathrm { \Phi }$ ,属于中等偏好分选性，在不同地貌部位分选系数稍有差别，迎风坡底分选性最差，在北翼中分选性最好。抛物线形沙丘的偏度( $\mathrm { \cdot } \mathrm { s } \mathrm { K } _ { \mathrm { 1 } } $ 0介于 $- 0 . 0 8 { \sim } 0 . 4 1 \ \Phi$ 之间，标准偏差为 $0 . 0 8 { \mathrm { ~ ‰ ~ } }$ ,平均值为 $0 . 0 6 \ \Phi$ ,属于近对称分布，偏度在迎风坡底最小，由迎风坡底到背风坡中逐渐增大，在背风坡中最大。抛物线形沙丘不同地貌部位峰态 $( K _ { \mathrm { G } } )$ 介于 $0 . 9 3 { \sim } 2 . 5 7 \ \Phi$ 之间，标准偏差为0.26$\Phi$ ,平均值为 $1 . 0 3 \ \Phi$ ,属于中等峰态，峰态在顶部最大，为 $1 . 1 7 \Phi$ ,属于窄峰态，其他部位峰态相差不大，都属于中等峰态。
+
+表2抛物线形沙丘各地貌部位粒度参数  
+Tab.2 Grain size parameters of various geomorphic parts of parabolic dun   
+
+<html><body><table><tr><td colspan="6">OranSiztparamelersorVariousgconorphepartsorparabone danes</td></tr><tr><td>采样部位 迎风坡底</td><td>参数</td><td>平均粒径(Mz）</td><td>分选系数(σ1）</td><td>偏度(SK1）</td><td>峰态(Kc)</td></tr><tr><td rowspan="4"></td><td>平均值</td><td>2.09</td><td>0.71</td><td>0.02</td><td>1.01</td></tr><tr><td>最大值</td><td>2.52</td><td>0.79</td><td>0.10</td><td>1.14</td></tr><tr><td>最小值 标准偏差</td><td>1.76</td><td>0.63</td><td>-0.08</td><td>0.95</td></tr><tr><td></td><td>0.25</td><td>0.05</td><td>0.07</td><td>0.06</td></tr><tr><td rowspan="4">迎风坡中</td><td>平均值</td><td>2.20</td><td>0.62</td><td>0.03</td><td>0.97</td></tr><tr><td>最大值 最小值</td><td>2.48</td><td>0.67</td><td>0.06</td><td>1.01</td></tr><tr><td>标准偏差</td><td>1.91</td><td>0.56</td><td>0.01</td><td>0.94</td></tr><tr><td></td><td>0.19</td><td>0.03</td><td>0.02</td><td>0.02</td></tr><tr><td rowspan="4">顶部</td><td>平均值</td><td>2.12</td><td>0.66</td><td>0.09</td><td>1.17</td></tr><tr><td>最大值</td><td>2.32</td><td>1.16</td><td>0.41</td><td>2.57</td></tr><tr><td>最小值</td><td>1.47</td><td>0.54</td><td>0.01</td><td>0.94</td></tr><tr><td>标准偏差</td><td>0.29</td><td>0.21</td><td>0.13</td><td>0.57</td></tr><tr><td rowspan="4">背风坡中</td><td>平均值</td><td>2.25</td><td>0.69</td><td>0.10</td><td>1.15</td></tr><tr><td>最大值</td><td>2.41</td><td>1.12</td><td>0.41</td><td>2.27</td></tr><tr><td>最小值</td><td>2.00</td><td>0.58</td><td>0.00</td><td>0.94</td></tr><tr><td>标准偏差</td><td>0.15</td><td>0.19</td><td>0.13</td><td>0.46</td></tr><tr><td rowspan="4">背风坡底</td><td>平均值</td><td>2.16</td><td>0.62</td><td>0.05</td><td>0.98</td></tr><tr><td>最大值</td><td>2.40</td><td>0.74</td><td>0.09</td><td>1.05</td></tr><tr><td>最小值</td><td>1.75</td><td>0.54</td><td>0.01</td><td>0.94</td></tr><tr><td>标准偏差</td><td>0.21</td><td>0.06</td><td>0.02</td><td>0.03</td></tr><tr><td rowspan="4">北翼中</td><td>平均值</td><td>2.20</td><td>0.60</td><td>0.05</td><td>0.98</td></tr><tr><td>最大值</td><td>2.55</td><td>0.70</td><td>0.12</td><td>1.06</td></tr><tr><td>最小值</td><td>1.88</td><td>0.55</td><td>0.01</td><td>0.93</td></tr><tr><td>标准偏差</td><td>0.30</td><td>0.06</td><td>0.05</td><td>0.05</td></tr><tr><td rowspan="4">北翼尾</td><td>平均值</td><td>2.03</td><td>0.66</td><td>0.04</td><td>0.97</td></tr><tr><td>最大值</td><td>2.19</td><td>0.77</td><td>0.07</td><td>0.99</td></tr><tr><td>最小值</td><td>1.94</td><td>0.57</td><td>0.01</td><td>0.94</td></tr><tr><td>标准偏差</td><td>0.10</td><td>0.08</td><td>0.02</td><td>0.02</td></tr><tr><td rowspan="4">南翼中</td><td>平均值</td><td>2.21</td><td>0.66</td><td>0.05</td><td>1.00</td></tr><tr><td>最大值</td><td>2.52</td><td>0.72</td><td>0.13</td><td>1.07</td></tr><tr><td>最小值</td><td>1.95</td><td>0.60</td><td>-0.02</td><td>0.96</td></tr><tr><td>标准偏差</td><td>0.23</td><td>0.05</td><td>0.05</td><td>0.04</td></tr><tr><td rowspan="4">南翼尾</td><td>平均值</td><td>2.33</td><td>0.65</td><td>0.06</td><td>0.99</td></tr><tr><td>最大值</td><td>2.54</td><td>0.75</td><td>0.12</td><td>1.06</td></tr><tr><td>最小值</td><td>2.17</td><td>0.59</td><td>0.03</td><td>0.97</td></tr><tr><td>标准偏差</td><td>0.15</td><td>0.07</td><td>0.04</td><td>0.04</td></tr></table></body></html>
+
+# 3.3沉积物粒度参数及其相关性
+
+对图开沙漠表层沉积物平均粒径、分选系数、偏度、峰态4个粒度参数进行相关性分析(表3)，发现灌丛沙堆和抛物线形沙丘表层沉积物的分选系数与偏度、峰态两两之间呈极显著正相关 $( P { < } 0 . 0 1 )$ ，说明分选系数与峰态呈显著正相关性，分选系数越大峰态越大，分选越差的沉积物峰态愈窄。灌丛沙堆中平均粒径与其他粒度参数相关性不大，而抛物线形沙丘中平均粒径与偏度之间具有相关性( $P <$ 0.05)。沉积物平均粒径与分选系数存在不显著相关性，说明随着平均粒径的变细，分选性越来越差，在抛物线形沙丘中平均粒径与偏度之间呈现显著相关性，说明抛物线形沙丘表层沉积物随着平均粒径越大，偏度越大，峰态越大。
+
+# 3.4沉积环境
+
+有研究表明，粒度数据和粒度参数可以表征沙粒成因及其沉积环境[19]。本文根据 $\mathrm { S a h u } ^ { [ 2 0 ] } 1 9 6 4$ 年提出的以不同沉积环境下沉积物的平均粒径 $\left( M \mathrm { z } \right)$ 、标准偏差 $( \pmb { \sigma } _ { 1 } )$ 、偏度( $\mathrm { \ S K _ { 1 } }$ )和峰态 $( K _ { \mathrm { G } } ) 4$ 项指标的变化，应用线性多元类别分析方法，建立了风成砂、海滩砂、浅海砂、河流砂、浊流砂5种沙丘沉积环境的判别公式。
+
+$$
+Y _ { _ { ( \mathrm { | X | , } \hat { \mathbb { X } } , \mathrm { ~ \forall ~ } \hat { \mathbb { X } } \hat { \mathbb { E } } ) } } = - 3 . 5 6 8 8 M _ { \mathrm { z } } + 3 . 7 0 1 6 \sigma _ { _ { 1 } } ^ { 2 } -
+$$
+
+$$
+2 . 0 7 6 6 5 \mathrm { K } _ { \mathrm { 1 } } + 3 . 1 1 3 5 K _ { \mathrm { G } }
+$$
+
+$$
+Y _ { _ { ( \mathrm { N H E , ~ M E } ) } } = 1 5 . 6 5 3 4 M _ { \mathrm { z } } + 6 5 . 7 0 9 1 \sigma _ { \scriptscriptstyle 1 } ^ { 2 } +
+$$
+
+$$
+1 8 . 1 0 7 1 \mathrm { S K } _ { \scriptscriptstyle 1 } + 1 8 . 5 0 3 4 K _ { \scriptscriptstyle \mathrm { G } }
+$$
+
+$$
+Y _ { _ { ( \mathrm { N K ) ( E , \bar { \imath } H ) } } } = 0 . 2 8 5 2 M _ { \mathrm { z } } - 8 . 7 6 0 4 \sigma _ { \mathrm { \scriptscriptstyle 1 } } ^ { 2 } -
+$$
+
+$$
+4 . 8 9 3 2 \mathrm { S K } _ { \mathrm { _ 1 } } + 0 . 0 4 8 2 K _ { \mathrm { _ G } }
+$$
+
+$$
+Y _  [ \ddot { \mathfrak { M } } \mathbin  \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - \vrule h i d e - h i d e - h i d e
+$$
+
+$$
+6 . 7 3 2 2 \mathrm { S K } _ { \mathrm { 1 } } + 5 . 0 9 2 7 K _ { \mathrm { G } }
+$$
+
+由于现样品取自于现代沙漠环境，所以首先检验其风成可能性,选用公式(1)，当 $Y _ { ( \vert X \vert , Y \vert , X ) , Y B B E ) } < - 2 . 7 4 1 1$ 为风成沉积环境，当 $Y _ { ( \mathrm { | X | } , \mathrm { | \vec { x } _ { i } \vec { x } _ { i } \vec { x } _ { j } \vec { x } _ { k } \rangle > - 2 . 7 4 1 1 } }$ 则为海滩沉积环境，将图开沙漠100个样品的粒度参数带入此公式，计算结果中有52个样品的值小于-2.7411，属于风成沉积环境。将其余48个样品粒度参数带入公式(2)得到2个样品的值小于65.3650[当Y(海滩、浅海)<65.3650为海滩环境， $Y _ { ( \# \# \# , \dot { * } \# \# ) > 6 5 . 3 6 5 0 }$ 为浅海或泻湖环境」，即2样品属于海滩环境。将剩余46个样品继续带人公式(3)，有2个样品的计算结果小于$- 7 . 4 1 9 0$ [当 $Y _ { ( { \it i \ / \dot { 2 } } , { \it i \ / 2 } , { \it i \ / 2 } ) } { < } - 7 . 4 1 9 0$ 为河流(三角洲)环境， $Y _ { ( \it { i \ / { k } ^ { 3 } \ / { 4 } , \it { i \ / { q } ^ { 3 } \ / { 4 } } ) > - 7 . 4 1 9 0 } }$ 为浅海环境],即2样品属于河流（三角洲)环境，剩余44个样品的值均大于-7.4190，属于浅海环境。再将44个样品的粒度参数带人公式(4)，得到全部样品的值均小于9.8433[当Y[河流(三角洲)、浊流] $< 9 . 8 4 3 3$ 为浊流环境,Y[河流(三角洲)、浊流]>9.8433为河流(三角洲)环境|属于浊流环境。
+
+以上计算与分析结果表明，图开沙漠灌丛沙堆及抛物线形沙丘的形成环境为风成沉积环境、浊流环境，可认为图开沙漠地表沉积物来源是多样的，沉积环境相对复杂，风动力、河流及洪流作用对其沉积环境的形成具有重要影响。
+
+表3灌丛沙堆与抛物线形沙丘粒级粒度参数相关性  
+Tab.3 Correlation of size parameters between nebkhas and parabolic dunes   
+
+<html><body><table><tr><td>沙丘类型</td><td>指标</td><td>平均粒径(Mz)</td><td>分选系数(σ)</td><td>偏度(SK)</td><td>峰态(Kc)</td></tr><tr><td>灌丛沙堆</td><td>平均粒径</td><td>1.000</td><td></td><td></td><td></td></tr><tr><td></td><td>分选系数</td><td>0.092</td><td>1.000</td><td></td><td></td></tr><tr><td></td><td>偏度</td><td>0.030</td><td>0.773**</td><td>1.000</td><td></td></tr><tr><td></td><td>峰态</td><td>0.089</td><td>0.711**</td><td>0.921**</td><td>1.000</td></tr><tr><td>抛物线形沙丘</td><td>平均粒径</td><td>1.000</td><td></td><td></td><td></td></tr><tr><td></td><td>分选系数</td><td>0.080</td><td>1.000</td><td></td><td></td></tr><tr><td></td><td>偏度</td><td>0.328*</td><td>0.798**</td><td>1.000</td><td></td></tr><tr><td></td><td>峰态</td><td>0.176</td><td>0.855**</td><td>0.883**</td><td>1.000</td></tr></table></body></html>
+
+注：\*表示在0.05水平(双侧)上显著相关，\*\*表示在0.01水平(双侧)上显著相关。
+
+# 4讨论
+
+粒度组成和风况是沙漠沙丘表面沉积物粒度特征主要影响因素，粒度组成与沙源、沙粒搬运与堆积过程密切相关。艾比湖流域风向以西北向(NW)和北西北向（NNW)为主，其频率分别占$5 4 . 9 8 \%$ 和 $1 8 . 3 1 \%$ ,而由霍尔果斯沙漠、巴基泰沙漠、图开沙漠等多个沙漠组成的塔克尔莫乎尔沙漠[22]全年起沙风风向主要以西南向(SW)为主，占全年起沙风频率的 $7 0 . 8 7 \%$ ,其次风向为南向(S）、东向(E),分别占全年起沙风频率的 $1 8 . 2 \% . 6 . 1 3 \%$ ,风动力直接对砂物质搬运、堆积具有重要影响。图开沙漠抛物线形沙丘表层沉积物主要成分为砂，含有一定量的粉砂，没有黏土，平均粒径从丘顶至背风坡底部逐渐变粗，沉积物分选性属中等偏好，沙丘表层沉积物属于近对称分布,峰态介于 $0 . 9 3 { \sim } 1 . 2 4 \mathrm { ~ } \Phi$ 之间，属于中等峰态，而马倩等[23研究发现，艾比湖流域抛物线形沙丘表层沉积物主要成分为砂,同时含有一定量的细砾和黏土成分;平均粒径从两翼间地至丘顶逐渐变粗，丘顶至背风坡脚逐渐变细，沉积物分选性整体较差;粒径频率曲线为正偏、基本对称、负偏和极负偏混合存在。图开沙漠抛物线形沙丘表层沉积物粒度特征与凌智永等24对塔克尔莫乎尔沙漠的抛物线形沙丘表面沉积物以细砂组分占优势、分选较好至分选中等的研究结论相一致，与艾比湖抛物线形沙丘表层沉积物粒度特征不同。图开沙漠灌丛沙堆及抛物线形沙丘中分选系数与偏度、峰态两两之间呈现极显著正相关，灌丛沙堆中平均粒径与其他粒度参数相关性不大,这与靳建辉等[6艾比湖流域周边灌丛沙堆表层沉积物特征的结论相似。毛东雷等[8认为这是由于抛物线形沙丘与灌丛沙堆形成的风动力条件不同,在风动力条件下对砂物质搬运产生影响,在地形、植被等综合作用下，导致各区域同一类型沙丘或不同类型沙丘在粒度特征上存在差异。
+
+沉积物粒度组成和粒度参数可以指示砂粒成因以及沉积环境。唐进年25研究发现库姆塔格沙漠沉积环境有风成环境、冲洪积环境和河湖沉积环境，这与罗布泊东侧阿奇克谷地至玉门关一带的第四纪河湖相沉积物有关，沉积环境的分布特征受到风动力及地形的影响，河流冲洪积砂物质主要分布在沙漠中北部，这是受到南高北低的地势影响，而风成砂在沙漠分布广泛，是经过长期风选和搬运的结果。位于青藏高原背部的库木库里沙漠沉积物为浅海(浅湖）河流2种环境类型，沉积物是下伏物质经风力作用改造而成，且与水成沙有着密切联系[26]。图开沙漠形成环境为风成沉积环境、浊流环境，前人研究指出，一方面由于图开沙漠地处欧亚大陆腹地，远离海洋，降水较少，沙漠地区地质构造属第四纪上新统到全新沉积层，来源于古代河流冲积物，沉积层由亚砂土和亚黏土交互组成，上部为黄土冲积层所覆盖，砂土和黄土状细土结构松散，易受风蚀，为沙漠丰富的沙源[27],另一方面由于伊犁河谷山体对西来气流发生挤压，产生加速作用，使伊犁河谷西部受强劲西风、西南风所控制，同时图开沙漠临近伊犁河,降水多,植被较好[28-29]。以上因素为现代沙漠地区风蚀和堆积再造地貌过程提供动力。沉积环境的形成受到多种因素综合影响，本文主要从粒度特征视角探讨图开沙漠灌丛沙堆及抛物线形沙丘表层沉积物的沉积环境，具有一定的局限性。
+
+# 5结论
+
+(1）抛物线形沙丘和灌丛沙堆表面沙物质主要由极细砂、细砂、中砂、粗砂组成，其中细砂和中砂所占的比例最大，其次是极细砂和粗砂，其他粒级所占的百分比均较少；沙丘不同地貌部位存在粒级分异特征，在抛物线形沙丘中细砂、极细砂在南翼尾中表现最大，而中砂在北翼尾百分含量最大，粗砂其百分含量在迎风坡底最大，在灌丛沙堆中中砂、细砂含量在顶部表现最大，粗砂的百分含量在迎风坡底表现最大，极细砂在不同部位的含量变化规律与粗砂在不同部位表现相同，灌丛沙堆及抛物线形沙丘表层沉积物粒度特征都由迎风坡向背风坡沙粒趋向于细化，由坡底到坡顶沙粒趋于细化。
+
+(2）抛物线形沙丘的表层沉积物平均粒径比灌丛沙堆表层沉积物平均粒径略粗，平均值分别为$2 . 1 7 \Phi , 1 . 8 9 \Phi$ ;抛物线形沙丘表面沙物质与灌丛沙堆表面沙物质的分选系数相差不大，平均值分别为$0 . 6 5 \Phi \ 、 0 . 6 4 \Phi$ ，都属于中等偏好分选性;抛物线形沙丘与灌丛沙堆表层沉积物偏度为 $0 . 0 6 \ : \Phi$ ，属于近对称分布；抛物线形沙丘与灌丛沙堆的峰态分别为
+
+$1 . 0 3 \Phi . 0 . 9 9 \Phi$ ，都属于中等峰态。灌丛沙堆及抛物线形沙丘中分选系数与偏度、峰态两两之间呈现极显著正相关，灌丛沙堆中平均粒径与其他粒度参数相关性不大，而抛物线形沙丘中平均粒径与偏度之间呈现相关性。
+
+（3）根据研究区各粒度参数反映较丰富的环境信息，通过Sahu判别公式计算得出，图开沙漠沉积环境复杂，形成环境为风成沉积环境、浊流环境。
+
+参考文献(References)   
+[1]宋洁,春喜,白雪梅,等.中国沙漠粒度分析研究综述[J].中国沙 漠,2016,36(3): 597-603.[Song Jie,Chun Xi, Bai Xuemei,et al. Review of grain size analysis in China desert[J]. Journal of Desert Research,2016,36(3): 597-603.]   
+[2]吴霞,哈斯,杜会石,等.库布齐沙漠南缘抛物线形沙丘表面粒 度特征[J].沉积学报,2012,30(5): 937-944.[Wu Xia, Hasi,Du Huishi,et al.Grain size distribution of parabolic dunes on the southern fringe of Hobq Desert[J].Acta Sedimentologica Sinica, 2012,30(5): 937-944.]   
+[3]苏松领,毛东雷,蔡富艳,等.新疆策勒沙漠与砾质戈壁新月形 沙丘表面沉积物粒度特征及其沉积环境[J]).干旱区资源与环 境,2020,34(8): 124-132.[Su Songling,Mao Donglei, Cai Fuyan, et al.Grain- size characteristics and sedimentary environment of sediments on the surfaces of crescent-shaped dunes in the desert and gravel Gobi in Cele,Xinjiang[J]. Journal of Arid Land Resources and Environment,2020,34(8):124-132.]   
+[4]鲍锋,董治宝.察尔汗盐湖沙漠沙丘沉积物粒度特征分析[J].水 土保持通报,2014,34(6): 355-359.[Bao Feng,Dong Zhibao.Grain size characteristics of sediments from typical sand dunes in Chaer han Salt Lake[J]. Bulletin of Soil and Water Conservation,2014, 34 (6): 355-359.]   
+[5]潘美慧,薛雯轩,伍永秋,等.西藏定结地区爬坡沙丘粒度特征 分析[J].干旱区地理,2019,42(6):1337-1345.[Pan Meihui, Xue Wenxuan,Wu Yongqiu,et al.Grain size characteristics of the climbing dunesin Dinggye areaof Tibet[J]. AridLand Geography, 2019,42(6): 1337-1345.]   
+[6]钱广强,董治宝,罗万银,等.回涡沙丘的形态特征与表面物质 组成[J].中国沙漠,2013,32(3):587-592.[Qian Guangqiang, Dong Zhibao,Luo Wanyin,et al. Morphology and grain size characteristics of echo dunes[J]. Journal of Desert Research,2013,32 (3): 587-592.]   
+[7]张登山,田丽慧,鲁瑞洁,等.青海湖湖东沙地风沙沉积物的粒 度特征[J].干旱区地理,2013,36(2):203-211.[Zhang Dengshan, Tian Lihui,Lu Ruijie,et al. Grain-size features of aeolian deposits in the eastern shore of Qinghai Lake[J].Arid Land Geography,2013,36(2): 203-211.]   
+[8]毛东雷,吴云霞,蔡富艳,等.新疆策勒绿洲-沙漠过渡带灌丛 沙堆与回涡沙丘的粒度分布特性[J].泥沙研究,2019,44(2):   
+48-54.[Mao Donglei,Wu Yunxia,Cai Fuyan, etal.Spatial distribution of sand grain size on aeolian deposition of nebkhas and back vortex dunes inoasis-desert ecotoneinCele,Xinjiang[J].Sediment Research,2019, 44(2): 48-54.] [9]俞胜清,阿布都·米基提,周向玲,等.新疆喀拉库姆沙漠新月形 沙丘不同部位粒度特征[J].中国沙漠,2013,33(6):1629-1635. [Yu Shengqing,Mijiti Abudu, Zhou Xiangling,et al.Grain size characteristics of different parts of the crescent dunes in Karakum Desert,Xinjiang,China[J].Journal of Desert Research,2013,33 (6): 1629-1635.] [10] 杜世松,伍永秋,黄文敏,等.风成沉积物源分析方法及其应用 研究进展[J].干旱区研究,2015,32(1):184-191.[Du Shisong, Wu Yongqiu, Huang Wenmin,et al. Research progresson analysis methods and their application of aeolian sediment sources[J].Arid Zone Research,2015,32(1): 184-191.] [11] 杨立辉,叶玮,郑祥民,等.河漫滩相沉积与风成沉积粒度判别 函数的建立及在红土中应用[J].地理研究,2014,33(10):1848-   
+1856.[Yang Lihui,YeWei, Zheng Xiangmin,etal. The discriminant function with grain size of floodplain and aeolian sediments and its application in the quaternary red clay[J]. Geographical Research,2014,33(10): 1848-1856.] [12] 郭晓阳,王维,王国良,等.季风边缘区湖泊表层沉积物粒度组 分分布特征与影响因素[J].地理研究,2016,35(4):677-691. [Guo Xiaoyang,Wang Wei, Wang Guoliang,et al. Within-lake distributions of grain-size componentsand environmental implications based on the survey of lake surface sediment of Chinese monsoon marginal area[J]. Geographical Research,2016,35(4): 677-691.] [13] 马茜茜,谢小松,肖建华,等.阿联酉迪拜中部沙漠沉积物粒度 特征及其沉积环境分析[J].干旱区资源与环境,2020,34(11):   
+104-109.[Ma Qianqian,Xie Xiaosong, Xiao Jianhua,etal.Analysis of grain-size characteristics and sedimentary environmentof sediments in central Dubai, United Arab Emirates[J].Arid Land Resources and Environment,2020,34(11): 104-109.] [14] 常宏,左合君,王海兵,等.黄河乌兰布和沙漠段两岸地表沉积 物多重分形特征及其指示意义[J].干旱区研究,2019,36(6):   
+1559-1567.[Chang Hong,Zuo Hejun,Wang Haibing,et al. Multifractal features and their significances of surface sediments along both banks of the Yellow River reach in the Ulanbuh Desert[J].Ar id Zone Research,2019,36(6): 1559-1567.] [15] 魏亚娟,党晓宏,蒙仲举,等.吉兰泰盐湖中心盐爪爪灌丛沙堆 形态及其沉积特征[J].水土保持研究,2020,27(3):385-390. [Wei Yajuan,Dang Xiaohong,Meng Zhongju, etal.Morphological and sedimentary characteristics of dune covered by Kalidium foliatum nebkhas in the center of Jilantai Salt Lake[J].Research of Soil and Water Conservation,2020,27(3): 385-390.] [16] 靳建辉,曹相东,李志忠,等.艾比湖周边灌丛沙堆风沙沉积记 录的气候环境演化[J].中国沙漠,2013,33(5):1314-1323.[Jin Jianhui, Cao Xiangdong,Li Zhizhong,et al. Record for climate revolution in aeolian deposit of nabkhas around the Ebinur Lake[J].
+
+# 干吴区地理
+
+[17]Folk RL,Ward WC.Brazos river bar:A study in the significance of grain size parameters[J]. Journal of Sedimentary Petrology, 1957,27(1): 3-26.   
+[18]Udden JA.Mechanical compostion of clastic sediments[J]. Bulletin of the Geological Society of America,1914,25(1): 655-744.   
+[19]赵澄林.沉积岩石学[M].北京:石油工业出版社,2001:48-72. [Zhao Chenglin. Sedimentary petrology[M]. Beijing:Petroleum Industry Press,2001: 48-72.]   
+[20] Sahu B K.Depositional mechanisms from the size analysis of clastic sediments[J]. Journal of Sedimentary Petrology,1964,34(1): 73-83.   
+[21]马倩,武胜利,吴烨,等.艾比湖流域风沙强度特征及其空间差 异[J].水土保持通报,2014,34(4):21-27.[Ma Qian,Wu Shengli, Wu Ye,et al. Characteristics of sand-blown intensity and spatial differences in Ebinur Lake Basin[J].Bulletin of Soil and Water Conservation,2014,34(4):21-27.]   
+[22] 李志忠,武胜利,陈蜀江,等.伊犁塔克尔莫乎尔沙漠风沙地貌 初步研究[J].新疆农业科学,2008,45(增刊3):113-118.[Li Zhizhong,Wu Shengli,Chen Shujiang,et al.Preliminary investigation on wind-sand and topographic feature in Ili Takeermohuer Desert [J]. Xinjiang Agricultural Sciences,2008,45(Suppl.3): 113-118.]   
+[23] 马倩,武胜利,刘永泉,等.艾比湖流域抛物线形沙丘表层沉积 物粒度特征[J].中国沙漠,2014,34(3):650-657.[Ma Qian,Wu Shengli,Liu Yongquan,et al.Grain size distribution of the parabolic dunes’sediments in the Ebinur Lake Basin,Xinjiang, China [J]. Journal of Desert Research,2014,34(3): 650-657.   
+[24] 凌智永,李志忠,李廷伟,等.塔克尔莫乎尔沙漠抛物线形沙丘 的粒度分布模式[J].中国沙漠,2014,34(2):325-331.[Ling Zhiyong,Li Zhizhong,Li Tingwei,et al.Grain size distribution pattern of parabolic dune at the Takermohuer Desert in Yili,Xinjiang, China[J]. Journal of Desert Research,2014,34(2): 325-331.]   
+[25]唐进年.库姆塔格沙漠沉积物特征与沉积环境研究[D].北京： 中国林业科学研究院,2O18.[Tang Jinnian.Sediment characteristics and sedimentary environment of the Kumtag Desert[D]. Beijing: Chinese Academy of Forestry,2018.]   
+[26] 凌智永,周亚辉,李廷伟,等.东昆仑库木库里沙漠表层沉积物 粒度特征、物源与沉积环境[J].干旱区地理,2017,40(5):1013- 1019.[Ling Zhiyong, Zhou Yahui,Li Tingwei, et al. Grain-size characteristics,provenance discrimination and sedimentary environment of the surface sediments from Kumkol Desert of eastern Kunlun Mountain[J].Arid Land Geography,2017,40(5): 1013-1019.]   
+[27]陈炼彪.塔克尔穆库尔沙漠成因的深讨[J].新疆林业,1980(2): 62-65.[Chen Lianbiao.A deep discussion on the causes of the Tak'er Mukul Desert[J]. Xinjiang Forestry,1980(2): 62-65.]   
+[28] 李志忠,凌智永,陈秀玲,等.新疆伊犁河谷晚全新世风沙沉积 粒度旋回与气候变化[J].地理科学,2010,30(4):613-619.[Li Zhizhong,Ling Zhiyong, Chen Xiuling,et al. Late Holocene climate changes revealed by grain-size cycles in Takemukul Desert in Yili of Xinjiang[J]. Scientia Geographica Sinica,2010,30(4): 613-619.]   
+[29] 郑博华,李斌,黄秋霞,等.新疆伊犁河谷冷暖季降水时空分布 特征[J].沙漠与绿洲气象,2019,13(3):80-87.[Zheng Bohua,Li Bin,Huang Qiuxia,et al. Diurnal variation characteristics of precipitation in the cold and warm season of Ili River Valley,Xinjiang [J].Desert and Oasis Meteorology,2019,13(3): 80-87.]
+
+# Grain size characteristics and sedimentary environment of surface sediments from nebkhas and parabolic dunes in the Tukai Desert, Xinjiang
+
+WANG Pei'， MA Qian1²， ZHU Yuanpu'， ZENG Yi' (1.School ofGeography Science and Tourism,Xinjiang Normal University,Urumqi 83oo54,Xinjiang,China; 2.Xinjiang Key LaboratoryofLakeResources and Environmentin Arid Regions,Urumqi 83oo54,Xinjiang,China)
+
+Abstract: Sediment grain size characteristics are of great significance in distinguishing aeolian landforms and sedimentary environments，determining transportation methods and dynamic conditions，controling dune landforms,and restoring paleoclimate changes.This paper investigates the surface sediments in the nebkhas and parabolic dunes of the Tukai Desert, Xinjiang, China,analyzes the characteristics of grain size gradation and grain size parameters through mathematical statistics,and discusses the characteristics of sand dune grain size using the Sahu formula.Knowledge of the grain size characteristics of sediments can help to identify the material sources ofdesert sediments,explore the regularities of wind-sand flow,and enrich understanding of wind-sand activities.The results of this study indicate that the surface sediments of the nebkhas and parabolic dunes of the Tukai Desert are relatively coarse,being mainly composed of extremely fine sand,fine sand, medium sand,and coarse sand.The surface sediments of the nebkhas are also coarser than those of parabolic dunes.Furthermore, there are differences in the distribution of granules among the diffrent landscapes.In the parabolic dunes,the content offine sand and extremely fine sand are highest in the southern wing tail,whereas medium sand is most common in the north wing tail.On top of the nebkhas,the content of medium sand and fine sand is the highest, whereas the percentages of extremely fine sand and coarse sand are the highest at the bottom of the windward slopes.From windward slopes to the leeward slopes,the grain size characteristics ofthe surface sediments of the nebkhas and parabolic dunes tend to be asociated with fine sand.The sand grains also tend to be fine from the bottom to the top of the slopes.The average grain size of the surface sediments of the parabolic dunes is greater than that of the surface sediments of the nebkhas,with the average values being $2 . 1 7 ~ \Phi$ and $1 . 8 9 \Phi$ ,respectively. The separation coefficients of the sand on the surface of parabolic dunes and nebkhas were similar, with the average values being $0 . 6 5 \Phi$ and $0 . 6 4 { \mathrm { ~ ‰ ~ } }$ ,respectively, belonging to the medium preference. The surface sediment skewness of both the parabolic dunes and nebkhas is $0 . 0 6 { \mathrm { ~ } } \Phi$ ，a nearly symmetrical distribution. The kurtosis values of the parabolic dunes and nebkhas were found to be $1 . 0 3 { \mathrm { ~ \Phi ~ } }$ and $0 . 9 9 { \mathrm { ~ ‰ ~ } }$ ，respectively, belonging to medium peaks.A correlation was also found between the particle size parameters of the nebkhas and parabolic dunes.The average particle size has little correlation with the sorting coefficient，skewness,and kurtosis. However,there is a significant corelation between the sorting coefficient,skewness,and kurtosis.According to the Sahu discriminant formula, it was calculated that the Tukai Desert has a complex sedimentary environment, with the sediment formation environment being mainly aeolian and turbid. Distinctions in sand source, topography，wind dynamic conditions,and sand field characteristics,among other factors,contribute to the diferences in the grain size characteristics of the surface sand materials of the sand piles of the Tukai Desert parabolic dunes and nebkhas,which have an impact on the desert sedimentary environment.
+
+Key words: Tukai Desert; nebkhas； parabolic dunes； grain size characteristics; sedimentary environment

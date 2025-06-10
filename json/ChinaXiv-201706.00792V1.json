@@ -1,0 +1,578 @@
+[
+    {
+        "type": "text",
+        "text": "Influence of Tip End-plate on Noise of Small Axial Fan ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MAO Hongya1, WANG Yanping1, LIN Peifeng1, JIN Yingzi1\\*, Toshiaki Setoguchi², Heuy Dong Kim? ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.KeyLaboratoryofFluid Transmision Technologyof Zhejiang Province,Zhejiang Sci-Tech University,Hangzhou   \n310018, China   \n2.Department of Mechanical Engineering, Saga University, Honjo-machi, Saga, 840-8502, Japan   \n3.School of Mechanical Enginering, Andong National University,Seongcheon-Dongl375,Gyeongdong-RD,Andong,   \nGyeongsangnuk-DO, 760-749,Korea ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\copyright$ Science Press and Institute of Engineering Thermophysics, CAS and Springer-Verlag Berlin Heidelberg 2017 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this work,tipend-plate is used to improve thenoise performance of smallaxial fans.Both numerical simulations and experimental methods were adopted to study the fluid flow and noise level ofaxial fans.Four modified models and the prototype are simulated. Influences of tip end-plate on static characteristics,internal flow field and noise of small axial fans are analyzed.The results show thaton basis of the prototype,the model with the tip end-plate of $2 ~ \\mathrm { m m }$ width and changed length achieved best noise performance. The overall sound pressure level of the model with the tip end-plate of $2 ~ \\mathrm { m m }$ width and changed length is $2 . 4 ~ \\mathrm { d B }$ less than that of the prototype at the monitoring point in specifiedfar field.Itis found that the mechanism of noise reduction is due to the decrease of vorticity variation on the surface of blades caused by the tip end-plate.Compared with the prototype,the static pressure of the model with the tip end-plate of $2 \\mathrm { m m }$ width and changed length at design flow rate decreases by 2 Pa and the efficiency decreases by $0 . 8 \\%$ . It is concluded that the method of adding tip end-plate to impeller blades has a positive influence on reducing noise,butit may diminish the static characteristics of smallaxialfan to some extent. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: tip end-plate, small axial flow fan,noise, static characteristics ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the past two decades,many methods are proposed to control the noise of fan.All the methods can be categorized into two approaches.One is active control method,the other is passive control method. In active control techniques,Koopmann et al. use optimally tuned quarter wavelength resonators to cancel blade tone of axial fan [1].Lemire et al. use plasma actuation to reduce blade wakes of fan and compressor; it can reduce tonal noise by this way [2]. Bianchi et al. make a creative review of passive may to reduce noise of industrial fans, which includes changing the amount of blades and the speed of rotor,modifying blade geometry,using nozzles and adding tip end-plate [3]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fukukawa etal.analyze the threedimensional vortical flow structure by laser Doppler vibrometer (LDV) measurements and large eddy simulation (LES),and find that the large movement of tip vortex caused by its break down brings about the high-pressure fluctuation [4-5]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Leakage in tip clearance area causes vortex leads to the unstable flow, which is the main source of noise for the small axial fan [6].Leakage flow can be effectively controlled by adding tip end-plate, through that, the route of vortex moving is changed and aerodynamic noise is decreased [7]. Corsini et al. study the influence of tip endplate on internal flow characteristics and noise of axial fan using numerical simulation and experiment. They find that adding tip end-plate can effectively control the development of leakage vortex in direction of chordwise. So,it's a good way to control noise through avoiding burst of vortex [8-10]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The object in this research is the small axial fan,on the basis of prototype fan, four different models are established by modifying tip of blades.Numerical simulation and experiments are performed to explore the influence of tip end-plate on the static characteristics and the noise characteristics of small axial fan. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Model construction and numerical simulation ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Establishmentoffanmodels ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Small axial fan is chosen as the studying object. Figure 1 shows the geometry of the prototype and Table 1 presents the main parameters of the prototype. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b4f5de3ba307aaa70076767e88b5421c6710f117091a0b94a966751da050ffc.jpg",
+        "img_caption": [
+            "Fig.1Geometry of the Prototype. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/b77bad304edb49e71ad0a013434e1df4ce5fc819d86ce7af083bc519293d7986.jpg",
+        "table_caption": [
+            "Table 1Main parameters of the prototype "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Rotor of the prototype</td></tr><tr><td>Tip diameter (mm)</td><td>85</td></tr><tr><td>Hub ratio</td><td>0.72</td></tr><tr><td>Stagger angle ()</td><td>27.7</td></tr><tr><td>Blade number</td><td>5</td></tr><tr><td>Tip clearance (mm)</td><td>2</td></tr><tr><td>Rated condition (kg/s)</td><td>0.01</td></tr><tr><td>Fundamental frequency (Hz)</td><td>250</td></tr><tr><td>Rated rotational speed (rpm)</td><td>3000</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Based on the prototype,four modified models with different parameters of tip end-plate are established. Model 1 is the geometry of $1 \\ \\mathrm { m m }$ width with constant length of chordwise; Model 2 is the geometry of $2 ~ \\mathrm { m m }$ width with constant length of chordwise; Model 3 is the geometry of $3 \\ \\mathrm { m m }$ width with constant length of chordwise;Model 4 is the geometry of $2 ~ \\mathrm { m m }$ width with inconstant length of chordwise.The blades of the four models are shown in Figure 2. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e961cf00663729439ac7b2357f51b438084827afe907cc64486caad6fc77b03.jpg",
+        "img_caption": [
+            "Fig.2Blades of modified models. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Numericalsimulation ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In orderto ensure the stabilityof the flow field,both of the inlet and outlet are extended.The whole flow field is divided into four areas: the upstream area, the rotational fluid area, the tip clearance area and the downstream area.The dimension of the four areas and the original point of coordinate are shown in Figure 3.Monitoring points are presented in Table 2.In the next section, the point F2 is analyzed as the monitoring point of noise in the near field,and the point F9 is analyzed as the monitoring point of noise in the far field. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/8b3a7c0f4bad223851d657d5d31602e1b38a774537aed6a2d47b211b781507cb.jpg",
+        "table_caption": [
+            "Table 2 Positions of monitoring points "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Point</td><td>X(mm)</td><td>Y(mm)</td><td>Z(mm)</td></tr><tr><td>F1</td><td>0</td><td>0</td><td>-50</td></tr><tr><td>F2</td><td>0</td><td>43.9</td><td>0</td></tr><tr><td>F3</td><td>0</td><td>0</td><td>50</td></tr><tr><td>F4</td><td>0</td><td>0</td><td>100</td></tr><tr><td>F5</td><td>0</td><td>0</td><td>200</td></tr><tr><td>F6</td><td>0</td><td>0</td><td>300</td></tr><tr><td>F7</td><td>0</td><td>0</td><td>400</td></tr><tr><td>F8</td><td>0</td><td>0</td><td>500</td></tr><tr><td>F9</td><td>0</td><td>0</td><td>1000</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/789261aae697a13a6a7c98cef33efb07478fbaf591933a0873da02353d8e6215.jpg",
+        "img_caption": [
+            "Fig.3Computational domain. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The whole computational domain is meshed with structure grids. The grids of upstream area, tip clearance area and downstream area are the same.In order to ensure the quality of grids, there is a little difference exists in the grids of the rotational fluid area, because the blades are different from the prototype and the four modified models. The number of grids of the upstream area, the tip clearance area,the rotational fluid area and the downstream area are respectively make up $8 . 9 \\%$ ， $1 . 5 \\%$ $5 5 . 2 \\%$ and $34 . 4 \\%$ of the whole grid number. The partial grids of the computational domain and the blade are shown in Figure 4. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e41a4f8c1269d398d0a526f4a14721a574272719aca075ad4ac806e1bcd6eb14.jpg",
+        "img_caption": [
+            "Fig.4Computational grids. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The four computational areas are connected with interfaces and the grids on the interfaces are merged.In this paper, both the steady simulation and the unsteady simulation are adopted.In steady simulation， the boundary conditions of the inlet and the outlet are the mass flow inletand the pressure outlet.The RNG $k$ -εmodelisused and the SIMPLE algorithm is used to solve the coupling between pressure and velocity. Second order upwind difference scheme is applied as numerical discretization method of governing equations.In unsteady simulation, the results of steady calculation are used as the initial field of unsteady simulation.The LES is used to calculate the unsteady flow field,the PISO algorithm is used to couple the pressure and velocity. The Ffowcs Williams-Hawkings (FW-H) acoustic model is used to simulate noise prediction after the flow field becomes stable Finally, the FFT method is applied to process the sound pressure signals to obtain the characteristics of noise spectral distribution. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Aerodynamic Noise ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results of noise ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The axial distribution of overall sound pressure level (SPL) is shown in Figure 5.It shows that: ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1) The distribution of overall SPL for the five models is the same.As the axial distance increase,the overall SPL decreases gradually. The highest overall SPL ap pears at the monitoring point F2 in the tip clearance area and the lowest overall SPL appears at the monitoring point F9 in the far field. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2) Model 4 expresses the best performance in reducing noise. Compared with the prototype, the overall SPL for the model 4 is declined almost at all of the monitoring points except for the only one point F2 which is in the tip clearance area.At the monitoring point F9 in the far field, the overall SPL of model 4 is $2 . 4 ~ \\mathrm { d B }$ lower than that of prototype, but $0 . 9 \\ \\mathrm { d B }$ higher than that of prototype at the monitoring point F2 in the near field. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3) Compared with the prototype, the overall SPL of model 1 is higher at the monitoring point in the near field. anda little lower in the far field.The overall SPL of the model 2 and the model3 is both higher than that of the prototype at all of the monitoring points,which are undesirable models to control noise. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/45690c8d8cbb875cf4e0fe4f2e9be8b6bec6827002bdbcd75b1e45270fb8af4f.jpg",
+        "img_caption": [
+            "Fig.5Axial distribution of overall sound pressure. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Model 4 has the best performance in decreasing noise, so model 4 is chosen to compare with the prototype, its static characteristics and noise characteristics are analyzed in the next section. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Analysisof noise innear field ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In Figure 6, the power spectral density (PSD) of model 4 at the point F2 in tip clearance area is compared with that of prototype.It shows that: ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)The peak of the PSD appears at the fundamental frequency and the harmonic frequency of both the prototype and the model 4. The highest value of the PSD appears at the fundamental frequency and it declines gradually at the harmonic frequency. When the frequency is larger than $2 0 0 0 ~ \\mathrm { H z }$ ,the value of PSD is almost zero,it indicates that the noise in the near field is discrete noise. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2) The PSD of the model 4 is larger than that of prototype.For the PSD of the model 4,it has an intensive increase at the fundamental frequency. And with the increasing of frequency, the increasing degree is reduced. Maybe the tip end-plate is a noise source which increases the discrete noise in the near field, it indicates that model 4 is not a helpful model to reduce discrete noise in the near field. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 7 shows the fluctuation of total pressure at point F2 in the tip clearance area, it shows that: (1) The rotor has five blades,and it appears five peaks and five troughs in a period. It can be seen that the fluctuation of total pressure of the five blades is not symmetrical, it indicates that the load on the blades isunsteady. (2) The fluctuation of total pressure of model 4 is a little larger than that of the prototype, it agrees well with the result of noise in the near field. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a722c5ef396bb98727fa9e8e2f01887bb3c3b5f53218359a27d7a5ce100c2526.jpg",
+        "img_caption": [
+            "Fig.6Power spectral density at point F2. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f6c862d62decd85c63c15c18ae12a5bd22727bdbd88be162519488838f420d5.jpg",
+        "img_caption": [
+            "Fig.7Fluctuation of total pressure at point F2. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Analysisof noise in farfield ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The A-weighted sound pressure of the prototype at the monitoringpointF9 in the far field is compared with that of model 4,which is shown in Figure 8. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1) The A-weighted SPL is relatively higher when the frequency is larger than $7 5 0 0 ~ \\mathrm { H z }$ ，it indicates that the noise in the far field is mainly broadband noise. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2)When the frequency is in the band of $7 5 0 0 ~ \\mathrm { H z } \\sim$ $1 5 0 0 0 \\mathrm { H z }$ and $1 7 5 0 0 \\ \\mathrm { H z } { \\sim } 2 2 5 0 0 \\ \\mathrm { H z }$ ,the A-weighted SPL of the prototype is higher as well as that of model 4, but the A-weighted SPL of model 4 has a more intensive decline compared with that of the prototype.It indicates that the model 4 can reduce noise in the far field effectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/267ba1b7c760dbee1459576be717e996fd3edf57ce13c1b057e2aafde9aaeaf2.jpg",
+        "img_caption": [
+            "Fig.8A-weighted sound pressure level in the far field. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 9 shows the vorticity variation in the 4th period. It can be concluded that: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1） Compared with the prototype, the vorticity on the surface of blade in model 4 is more likely to appear at the root of the blades.It indicates that adding tip end-plate may change the route of the moving vortex,which is more likely to move toward the root of the blades. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2) The vorticity on the surface of blades for the model 4 is larger than that of the prototype, but the vorticity variation of model 4 is smaller than that of prototype.It indicates that, for the model 4,the aerodynamic noise caused by the variation of vorticity is lower than that of the prototype,which agrees with the noise predicted in the far field. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Staticcharacteristics ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Static characteristics results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 10 presents the P-Q curves for all of the models: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1)For all of the models,when the inlet mass flow is $0 . 0 0 2 ~ \\mathrm { k g / s } { \\sim } 0 . 0 0 6 ~ \\mathrm { k g / s }$ ，the static pressure declines rapidlyas the mass flow increases;when the inlet mass flow is $0 . 0 0 6 ~ \\mathrm { k g / s } { \\sim } 0 . 0 1 ~ \\mathrm { k g / s }$ ，the static pressure increases as the mass flow increases,but the increasing range is limited; when the inlet mass flow is $0 . 0 1 ~ \\mathrm { k g / s } { \\sim } 0 . 0 1 4 ~ \\mathrm { k g / s } ,$ ，the static pressure declines as the mass flow increases. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2) Compared with the prototype,the static pressures of the four modified models decline at all of the operating points.The static pressure of model 4 declines larger thanthatof the other three modified models. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3）At the design point $\\scriptstyle { ( \\mathrm { Q } = 0 . 0 1 ) }$ ),the static pressure for the model 4 is $2 \\mathrm { P a }$ smaller than that of the prototype. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/369e540b6ea48ce16fd3942555ac5aa56b733d4dbdc8359adc854a1291e4cfa4.jpg",
+        "img_caption": [
+            "Fig.9Vorticity contours at different time. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The $\\boldsymbol { \\mathsf { \\Pi } } \\boldsymbol { \\mathsf { \\Pi } } ^ { \\mathsf { } }$ curves are shown in Figure 11.It can be seen that: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1)As the mass flow increases, the efficiency presents a trend that increases at first and decreases subsequently. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2）Compared with the prototype，the efficiency of four modified models declines,especially, the model 3 declines the most. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3） At the design operating point, the efficiency of model 4 is $0 . 9 \\%$ smaller than that of the prototype, while the efficiency of the other three modified models declines more.Compared with the model 4,the torques of the other three modified models are larger, it indicates that theload on the blades surfaceof the other three modified models is bigger. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b776293fb5985d26e754f5afd066d83a9f5589939b6ecb9e7781813cd5da6ce8.jpg",
+        "img_caption": [
+            "Fig.10 Static pressure versus flow rate (P-Q). "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/abe42f6eb1f8ae22f19a3cb7eaaca88c5d362a4f273236949a20dea9242ab371.jpg",
+        "img_caption": [
+            "Fig.11Efficiency versus flow rate $( \\eta - \\mathrm { Q } )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "AnalysisofStaticcharacteristics ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 12 shows the distribution of static pressure on pressure surface and suction surface of the prototype and the model 4. The high static pressure area on the pressure surface and the low static pressure area on the suction surfaceofbladesforthemodel 4aresmallerthan those of the prototype.It indicates that adding tip end-plate has negative influence on steady characteristics and ventilation performance of model 4.The distribution of static pressure agrees well with the results of the P-Q curves for the prototype and model 4. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 13 shows the distribution of speed on the section of $Z { = } 0$ .In the passages of blades, the high speed area of model 4 is bigger than that of prototype.Leakage in the tip clearance area may be partly surpassed by adding tip end-plate,which increases the speed of air in the passages. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/44f77c6d4718c4eb03d8f8f2ccc0525ee882e6c5d31d9d75484720c51d0fc4ab.jpg",
+        "img_caption": [
+            "Fig.12Distribution of static pressure on surface of blade. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/af8d397339b8665f6bdf5c2cdd236195502d939d2aab4008fd34184bffc00c46.jpg",
+        "img_caption": [
+            "Fig.13Velocity distribution on the section of $\\scriptstyle { Z = 0 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Experimentalresearch ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Numerical simulation is performed to study the influence of tip end-plate on steady characteristics and noise of small axial fan in the former section.To identify the results of numerical simulation, static characteristic experiment and noise experiment are performed in this section. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Experiment on static characteristic ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Static characteristic experiment is performed in a small wind tunnel. The experimental device is presented in Figure 14.Figure 15 shows the test models.The rotor reaches the rotational speed of $3 0 0 0 \\mathrm { r p m }$ by adjusting the input voltage. The static pressure and the torque are measured by the static pressure probe and the torquespeed sensor respectively. The difference of the pressure is measured by the nozzle and the pressure probe after the air flows through the filter net,which is calculated to get the mass flow of the inlet. Auxiliary fan is used to adjust the mass flow to create different operating points for the fan.The static pressure is measured at different operating points and the P-Q curves are drawn as shown in Figure 16. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 16 presents the static pressure of experiment and numerical simulation for both of the prototype and the model 4.It can be seen that: (1)Both the prototype and the model 4,the result of experiment agrees well with that of numerical simulation, it indicates that the numerical simulation is reliable. (2)For the result of experiment or the numerical simulation, the static pressure of model4 is lower than that of the prototype, it indicated that adding tip end-plate has negative influence on static characteristics of fan. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d90a49e468efc00a4db22977d2106398b237bdbaddbd3ba50f2837c9109fc6c4.jpg",
+        "img_caption": [
+            "Fig.14Experiment device of static characteristics. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/68d652c0479dee3f784f54fe00b1b3f015d0ef2787f0113b2fe56a79ecaa3d34.jpg",
+        "img_caption": [
+            "Fig.15Test models. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/37efd4909495d70c7501d6a80099664a66c782e80ee7f34b3310a67c46529054.jpg",
+        "img_caption": [
+            "Fig.16The P-Q curve of experiment and simulation. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Noise testing ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Noise testing is performed in a semi-anechoic chamber The testing environment and the device of the semianechoic chamber are shown in Figure 17.The size of the chamber is $5 \\mathrm { m } \\times 4 \\mathrm { m } \\times 3 . 5 \\mathrm { m } .$ The background noise in the semi-anechoic chamber is $2 1 . 5 { \\mathrm { ~ d B } }$ ，which is measured by hand-held sound pressure meter. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e763b2d9509ccfb6665951c959582a9f4df1b700952594fcd5e4aa712766652b.jpg",
+        "img_caption": [
+            "Fig.17Experimental device for noise measurement. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The A-weighted SPL on different axial points is measured by hand-held sound pressure meter.Figure 18 shows the result of the measurement.The curves trend of the prototype and the mode 4 is the same. The Aweighted sound pressure of model4is smaller than that of the prototype when the axial position exceeds $1 0 0 ~ \\mathrm { { m m } }$ which agrees with the result of the numerical simulation. The noise at the monitoring point in tip clearance cannot be measured for the limit of the size of microphone. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/926789b9965e36bdd75b07717cc6f60e73d2c95809f116e2559aa2e2f699e9ee.jpg",
+        "img_caption": [
+            "Fig.18A-weighted SPL by experiment. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In this paper, numerical simulations and experiments are performed on the prototype and the modified models to study the influence of tip end-plate on noise of small axial fan.The static characteristics,internal flow field and the noise characteristics are analyzed. The conclusions are summarized as follows: ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1）Adding tip end-plate for the model 4 has positive influence on reducing broadband noise in the far field, but it's not helpful to reducing discrete noise in the near field. (2) The mechanism of noise reduction is due to the decrease of vorticity variation on the surface of blades caused by the tip end-plate. (3) Compared with the prototype, the static pressure at design flow rate decreases by $2 \\ \\mathrm { P a }$ and the efficiency decreases by $0 . 8 \\%$ for the model 4. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by National Natural Science Foundation of China (No.51276172)，Public Welfare Technology Application Projects of Zhejiang Province (No.2015C31002),Open Foundation of Zhejiang ProvincialTopKeyAcademic DisciplineofMechanical Engineering and Zhejiang Sci-Tech University Key Laboratory(ZSTUME O1Ao4),and Zhejiang Province Science and Technology Innovation Team Project (2013TD18). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Gorny,L.,Koopmann, G.H.: Axial Fan Blade Tone Cancellation Using Optimally Tuned Quarter Wavelength Resonators， Journal of Vibration and Acoustics, vol.131(2),pp.021002-021002-13,(2009).   \n[2]Lemire, S., Vo, H. D.: Reduction of Fan and Compressor Wake Defect Using Plasma Actuation for Tonal Noise Reduction, JournalofTurbomachinery, vol.133(1), pp.011017-011017-11,(2011).   \n[3]Bianchi, S., Corsini,A., Sheard,A. G.: A Critical Review of Passive Noise Control Techniques industrial Fans, Journal of Engineering for Gas Turbines and Power, vol.136(4), pp.044001-044001-9,(2014).   \n[4]Jang,C.M., Furukawa, M., Inoue,M.: Analysis of Vortical Flow Field in a Propeller Fan by LDV Measurements and LES—Part I: Three-Dimensional Vortical FlowStructures， Journal ofFluidsEngineering, vol.123(4), pp.748-754,(2001).   \n[5]Jang, C. M., Furukawa,M., Inoue,M.: Analysis of Vortical Flow Field in a Propeller Fan by LDV Measurements and LES—Part II: Unsteady Nature of Vortical Flow Structures Due to Tip Vortex Breakdown, Journal of Fluids Engineering, vol.123(4), pp.755-761,(2001).   \n[6]Quinlan, D.A., Bent, P.H.: High Frequency Noise Generation In Small Axial Flow Fans,Journal of Sound and Vibration, vol.218(2), pp.177-204,(1998).   \n[7]Corsini,A.,Rispoli,F.,Sheard,A.G.:Shaping of Tip End-Plate to ControlLeakage Vortex Swirl inAxialFlow Fans,Journal of Turbomachinery, vol.132(3), pp.031005- 031005-9,(2010).   \n[8]Bianchi, S., Corsini,A., Rispoli,F., Sheard,A. G.: FarField Radiation of Tip Aerodynamic Sound Sources in Axial Fans Fitted With Passive Noise Control Features, Journalof VibrationandAcoustics, vol.133(5), pp.051001-051001-11,(2011).   \n[9]Corsini,A.,Rispoli, F., Sheard,A. G.: Aerodynamic Per",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "formance of Blade Tip End-Plates Designed for LowNoise Operation in Axial Flow Fans,Journal of Fluids Engineering,vol.131(8),pp.081101-081101-13,(2009). [10]Bianchi, S., Sheard,A.G.,Kinghorn,I.R.,Corsini,A., Rispoli,F.:Experimental DevelopmentofaMeasurement Technique to Resolve the Radial Distribution of Fan Aero-Acoustic Emissions,Noise Control Engineering, vol.57(4), pp.360-369,(2009). ",
+        "page_idx": 7
+    }
+]

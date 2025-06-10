@@ -1,0 +1,249 @@
+# 秒回？信息通讯技术(ICT)时代的职场通讯压力
+
+孙卉徐洁
+
+(暨南大学管理学院，广州 510632)
+
+摘要职场通讯压力是指员工想要快速回复基于ICT 的工作消息而体验到的紧迫性，现有研究对其成因及影响路径的探讨较为零散且缺乏系统性认识。基于工作要求-资源模型并结合努力-恢复模型，讨论作为工作要求的ICT 使用以及作为个人要求/资源的个体因素对职场通讯压力的前因作用；探讨职场通讯压力因阻碍恢复活动而对员工身心健康以及工作和家庭领域产生的消极影响，以期增进对职场通讯压力的全面了解，丰富现有研究对 ICT使用后果的认识，并为未来研究的展开以及员工职业心理健康干预实践提供参考。
+
+关键词 职场通讯压力，信息通讯技术(ICT)，工作要求-资源(JD-R)模型，努力-恢复模型分类号B849
+
+# 1引言
+
+随着数字化时代的到来，人们在工作中传递信息和维持职场人际关系的方式也随之改变，特别是近些年日益普遍的新型办公形式，如远程办公和虚拟团队(Burton et al.,2021;Raghuram et al.,2019)，使越来越多的员工需要通过信息通讯技术(information andcommunication technology,ICT)完成工作。2020 年新冠疫情在世界范围内的爆发更加快了这一趋势(PoliteMail,2020)，远程工作正在成为一种长期战略(Makarius et al.,2021)，这意味着员工通过ICT沟通将是工作中不可避免的重要组成部分。以ICT为媒介的工作场所互动对生产力有一定的好处，如提高了沟通效率(Mazmanian et al.,2013)以及员工在工作中的自主性和控制感(ten Brummelhuis et al.,2021)等，但也使员工在生产力和连通性方面被赋予更高的期望。在这种期望之下，为了给主管、同事和客户留下更好的印象，员工越来越觉得自已有必要随时与组织保持联系(Mazmanian et al.,2013)，并将其视为良好表现的标志(王海江等,2021)。然而，对工作相关信息的过度关注可能会给员工带来消极而不是积极的影响。为了更好地理解这种想要持续与工作活动保持联系的心理状态，Barber 和 Santuzzi (2015)提出了职场通讯压力(workplace telepressure)的概念，并将其定义为员工想要通过ICT 快速回复工作消息的专注和冲动，它是与日益频繁的ICT互动相伴随而生的独特心理体验。
+
+近些年来，对职场通讯压力影响因素的研究增进了对于员工为什么在工作时间优先考虑 ICT 消息，甚至在非工作时间也倾向于通过ICT与工作活动保持联系的理解(如 Barber& Santuzzi,2015;Grawitch etal.,2018)；对作用后果的研究则揭示了职场通讯压力对员工心理健康、工作及生活领域的消极影响(如 Santuzzi& Barber,2018;Barber et al.,2019)。鉴于职业健康在维持积极组织成果(如工作绩效;Wright&Cropanzano,2000)中发挥着重要作用，且高职场通讯压力下的员工可能会为了实现尽可能快的响应速度而牺牲工作质量(Barber& Santuzzi,2015)，因此对职场通讯压力的探讨对于帮助管理者了解如何在使用 ICT进行职场互动的情况下改善工作设计，维护员工的健康和福祉，帮助组织实现高质量工作成果具有重要意义。
+
+目前，ICT已经广泛应用于我国的各个组织中，组织成员通过企业微信、钉钉、飞书等移动办公软件就可以随时随地处理工作任务，这意味着我国的员工群体也可能正面临着巨大的职场通讯压力和职业健康危机。然而，学术界对该现象缺乏应有的重视。在ICT广泛应用的时代背景下，员工何时会经历职场通讯压力？职场通讯压力又是为何会对员工的职业健康带来消极影响？在这些过程中是否也存在积极结果？现有研究对上述问题的探讨较为零散，缺乏对职场通讯压力的成因及其影响路径的系统性认识。另外，职场通讯压力是将 ICT使用与消极的职业健康结果连接起来的重要内在心理机制(Kao et al.,2020)，对职场通讯压力相关研究的系统性梳理将有助于丰富现有研究对ICT使用后果的认识。
+
+鉴于此，本文在回顾近些年来国内外相关文献的基础上，基于职场通讯压力的概念界定，使用工作要求-资源模型(JD-R;Demerouti et al.,2001)作为理论框架来区分不同类型的ICT 使用：作为工作要求和资源的ICT使用，并进一步讨论员工将ICT相关的工作要求视为挑战性/阻碍性的倾向；探讨个体因素作为个人要求/资源对职场通讯压力产生的影响。在作用结果上，本文结合努力-恢复模型(Meijman&Mulder,1998)，探讨了工作时间和非工作时间经历的职场通讯压力对员工身心健康及工作和家庭领域的影响。以上工作有助于在ICT 使用后果的讨论中，帮助研究者们全面地了解职场通讯压力这一新的内在心理机制，并推动基于实证的干预手段，以减少ICT带来的职场通讯压力或缓解职场通讯压力带来的负面影响，帮助改善员工的工作环境。
+
+# 2职场通讯压力的概念界定
+
+# 2.1职场通讯压力的概念来源
+
+职场通讯压力是伴随着ICT 在工作中的广泛应用而产生的。以ICT为媒介的职场互动不受时间、地点的限制，因此员工在工作时间和地点的安排上有着更大的灵活性和控制感。然而，自主性悖论指出，虽然这种灵活性和控制感增强了员工在工作中的自主权，但
+
+ICT 带来的便利性催生出一种普遍的规范：员工被期望通过ICT持续与工作相关活动保持联系，以满足主管、同事和客户的需求。即使在非工作时间，员工也可能经常觉得需要通过ICT回复与工作有关的消息。为了描述这种想要立即回复工作相关消息的心理状态，Barber 和 Santuzzi(2015)提出了职场通讯压力(workplace telepressure)的概念，并将其定义为员工想要快速回复基于ICT的工作消息而体验到的紧迫性。
+
+职场通讯压力的本质是压力(Grawitch etal.,2018)，但又与广义的工作压力有所不同。它是与ICT互动带来的工作-家庭界限模糊相伴随着的，是由工作任务之外的额外的响应要求带来的，是员工在工作环境中因对 ICT的日益依赖而产生的独特压力体验(Barber&Santuzzi,2015)。它与技术压力(technostress)的不同之处就在于，技术压力开始产生的时代背景是信息技术(information technology,IT)的广泛应用(Tarafdar et al.,2020)，而职场通讯压力则源自于技术进一步发展后的ICT时代，主要关注ICT被用于及时响应工作消息的用途。
+
+# 2.2职场通讯压力的概念内涵与测量方法
+
+职场通讯压力是员工想要通过ICT对工作相关的消息做出快速响应的专注和冲动(Barber& Santuzzi,2015)。根据概念定义，职场通讯压力包括专注和冲动两个关键组成要素，二者缺一不可。首先，专注指的是持续思考“那条未回消息”的状态，或因未回复的消息烦心而忽略其他活动而产生的心境，表现为员工在收到工作相关的消息时，很难全身心地做其他事情，直到回复消息后才能将精力重新投入到工作任务或日常活动中。其次，冲动体现的是员工不愿对工作消息置之不理，而是在收到消息后想要立刻回复的强烈愿望，表现为员工可能会经常检查未读消息并在第一时间回复。另外，职场通讯压力关注的是ICT 背景下员工的心理体验，而不是外在的行为表现，由此可将职场通讯压力与ICT 相关的行为(如，非工作时间工作连通行为)进行区分。例如，员工在非工作时间使用 ICT 工作或与上司、同事、客户保持联络的行为，并不在职场通讯压力的概念范围内。
+
+根据职场通讯压力的专注和冲动这两个特点，Barber 和 Santuzzi(2015)开发了通讯压力6条目量表。各条目中没有使用包含情感(焦虑、担心等)或行为(即回复消息)的表述，以确保量表条目仅反应了对消息的专注和回应冲动。该量表是目前测量职场通讯压力的唯一工具，在多个实证研究中得到使用并且信效度良好(Cambier&Vlerick,2020;Kao et al.,2020)。
+
+# 2.3易混淆概念的对比
+
+为了更深入地理解职场通讯压力的内涵，将其与相关易混淆概念作进一步的区分是十分必要的。
+
+(1)错失恐惧(fear of missing out,FoMO)。当员工出于对错过职业机会的担心，即职场错失恐惧(workplace FoMO)，而对工作信息产生强烈的保持“知情”的愿望时(Przybylski etal.,2013;Budnick etal.,2020)，会在行为上体现为ICT 使用的增加，这与职场通讯压力的行为表现是一致的。然而FoMO 程度高的人使用ICT 是出于了解其他人在做什么的目的；职场通讯压力高的个体对工作相关消息予以高度关注，则是为了满足其他人对得到回应的期待，以保持积极的职场社会关系。
+
+(2)工作狂(workaholic)。也叫工作成瘾，指个体过度努力工作的强迫性动力，是一种相对稳定的个体特质(Schaufeli et al.,2008)。工作狂和职场通讯压力均涉及到与工作领域保持联系的冲动，但工作狂是由不工作时感到的内疚和不安所促使的，具有思考和执行工作任务的强迫性，且其行为结果是工作任务的执行；而职场通讯压力是为了满足其他人对得到回复的期待，行为结果体现在更具体的基于信息的ICT 使用上，其重点是回复工作相关消息，而不是实际执行工作任务。
+
+(3)工作投入(job engagement)。指个体与工作相关的积极、充实的情绪与认知状态，包括活力、奉献和专注三个方面(Schaufeli etal.,2002)。工作投入与职场通讯压力有类似的行为表现，即保持与工作相关活动的联系。工作投入是由员工在工作时体验到的满足感所激发的，他们对工作相关活动的专注和奉献是出于内在的享受；而经历职场通讯压力的员工这样做只是为了响应工作要求。
+
+(4)工作反刍(work-related rumination)。指员工“在没有被要求的情况下(通常为下班后或休闲时间等非工作时间)，有意识地、重复产生与工作相关的想法”(Cropley& Zijlstra2011；张晶等,2020)。工作反刍与职场通讯压力的专注维度均强调对工作相关消息进行持续思考，并且有可能会忽略其他活动。工作反刍是员工在非工作时间主动进行的，但难以主动抽离；而职场通讯压力的专注状态是因收到工作相关的消息而产生的，员工可以通过回复消息而主动地回到原先的活动中(包括工作任务或日常活动)，并且在工作和非工作时间都有可能发生。
+
+# 3职场通讯压力的前因：工作要求-资源模型(JD-R)的视角
+
+Barber 和 Santuzzi(2015)在提出职场通讯压力这一概念时，就根据 JD-R将其界定为对ICT 响应要求的反应，而这种与工作消息相关的ICT要求往往是由ICT在工作中的广泛应用带来的。随后研究对于职场通讯压力预测因素的探讨多遵循这一思路，从JD-R的视角进行分析(如 Cambier& Vlerick,2020; Page et al.,2021)。
+
+JD-R(Demerouti et al.,2001; Bakker&Demerouti,2017)认为，所有类型的工作特征都可以归为工作要求和工作资源，工作要求需要个体持续的身体和/或心理上的努力，工作资源则有助于员工实现工作目标、降低工作相关的生理和心理成本。在影响效果上，工作要求和工作资源分别具有健康损害作用和激励作用，并对工作绩效产生消极和积极的影响。在上述影响效果中，高工作资源可以缓解工作要求对员工的健康损害；高工作要求则会增强工作资源对员工的激励作用。除了这些工作特征，个人资源(如自我效能感)也可以被视为资源，与工作资源发挥着类似的作用；个人要求(如工作狂、完美主义、神经质)也可能同理。
+
+进一步地，一些学者将工作要求区分为阻碍性工作要求和挑战性工作要求，认为工作要求不仅会导致健康损害，还有可能起到激励作用。阻碍性工作要求是指工作中干扰或抑制个人实现目标的限制，会损害员工健康并且不具有激励作用；挑战性工作要求虽需要个体付出努力，但却可能促进员工个人成长和成就，在导致健康损害的过程中同时起到激励作用(LePine et al., 2005; Podsakoff et al.,2007; Crawford et al., 2010; Bakker & Demerouti,2017)。
+
+另外，工作要求、资源和员工福祉之间还存在着反向因果效应。受到激励的员工可能会采取工作重塑(Job Crafting;Wrzesniewski& Dutton,2001; Tims & Bakker,2010)，创造出更多的资源，进而带来更加高的激励水平；而工作压力大的员工可能表现出自我破坏行为(Self-undermining;Bakker&Costa,2014)，进一步导致更加高水平的工作要求，以及更大程度的工作压力。
+
+# 3.1ICT的使用伴随着工作资源和工作要求
+
+正如前面所提到的，ICT使用对员工而言是有利有弊的。一方面，ICT 使员工能够更自主地决定何时何地工作(Kossek et al.,2006)；另一方面，ICT 的连接便利性使员工随时处于待命状态，因而带来更大的工作量、更长的工作时间以及更模糊的工作-非工作界限(Mazmanian et al.,2013)。因此，工作中的 ICT 使用既是工作资源也是工作要求(Day et al.,2010,2012)。当员工将 ICT使用与工作任务的灵活性和自主性联系起来时，他们可能会将其视为工作资源；相反，当与更大的工作量和更长的工作时间以及更难实现的工作脱离联系起来时，他们可能会将其视为一种工作要求(Peters et al.,2009; Demerouti et al.,2014)。Van Laethem 等人(2018)就曾在研究中提出，如果员工认为工作时需要频繁通过ICT回复消息是一种负担，就会将其视为工作要求，并感受到职场通讯压力；而如果认为这可以增加他们的自主性、灵活性，则会将其视为资源，实现更高的工作投入。
+
+# 3.2职场通讯压力的预测因素：工作要求与个人要求/资源
+
+# 3.2.1与ICT相关的工作要求对职场通讯压力的预测作用
+
+在ICT广泛应用的工作环境中，当员工将其视为工作要求时，就容易因此体验到职场通讯压力。职场通讯压力代表了员工对ICT使用相关要求的内化(Barber& Santuzzi,2015)，包括工作超负荷、对工作要求的控制、社会规范(连通性期望和响应性期望)三个方面(Grawitch et al.,2018)。工作中的超负荷包括工作量超负荷和技术超负荷等，当员工的工作量过多或技术的进步导致更高的工作要求时(Wang et al.,2008)，员工会体验到更高的职场通讯压力(Barber& Santuzzi,2017; Grawitch et al.,2018)。对工作要求的控制感也会影响员工的通讯压力体验(Grawitch et al.,2018)，那些不能控制自己对 ICT 的使用的人更倾向于认为自己需要立即回复消息，因而可能会体验到更多的压力感(Hair etal.,2007)。另外，在ICT广泛使用的背景下，组织希望员工能随时保持联系并快速响应，这种组织期望作为一种社会规范，是由ICT使用带来的超出常规工作量的额外工作要求(Barber& Santuzzi,2015)，会使员工觉得自己永远无法摆脱工作活动(Ragu-Nathan et al.,2008)，并导致较高的职场通讯压力(Barber & Santuzzi,2015,2017; Grawitch et al.,2018)。
+
+进一步地，一些学者发现，相比于阻碍性工作要求，职场通讯压力更多的是对挑战性工作要求的反应(Santuzzi& Barber,2018; Barber et al.,2019; Baumeister et al.,2021)，也就是说，员工更倾向于将上述ICT相关的工作要求视为挑战性的。Santuzzi 和 Barber(2018)的研究发现，职场通讯压力与工作投入存在着正相关关系，表明上述这些具有挑战性的ICT工作要求在导致职场通讯压力的同时，也提高了员工的工作投入水平。
+
+# 3.2.2与ICT相关的个人要求/资源对职场通讯压力的预测作用
+
+虽然外部因素在导致职场通讯压力的产生上发挥着重要作用，但仍有相当大一部分是由员工个体因素解释的(Grawitch etal.,2018)，并且这些个体因素可以分为个人要求和个人资源两大类。
+
+神经质、工作狂、自我调节等个人特质反映了导致职场通讯压力的个人要求。首先，在大五人格中，神经质是重要的预测因素，神经质水平较高的员工更容易产生焦虑感和在某种情况下冲动行事的倾向(如急于回复电子邮件)，更容易体验到通讯压力；外倾性及尽责性也与职场通讯压力有较弱的正相关关系，因为外倾性的员工往往更善于交际，为了寻求社会联系，他们会觉得有必要快速回复他人的信息，尽责性的员工则注重工作目标的实现，也倾向于对工作相关消息做出快速回应，由此更容易感受到高水平的通讯压力(Barber& Santuzzi,2015,2017; Grawitch et al.,2018)。其次，工作狂作为一种过度努力工作的强迫性动力，是由他们在不工作时感到的内疚和不安所激励的，可以被视为一种重要的个人要求(Bakker&Demerouti,2017)，具有工作狂特质的员工会将超越组织期望作为一种自我保护策略，产生对工作相关的ICT要求的关注和回应的冲动，导致更高水平的职场通讯压力(Barber& Santuzzi,2015;Grawitch etal.,2018)。再次，员工的气质性自我调节与遵循工作要求以持续实现目标的高动力有关，使员工更倾向于关注ICT 相关的角色预期，从而加强组织期望对职场通讯压力的影响(Kao etal.,2020)。另外，员工的错失恐惧(对错过与工作机会相关信息的担忧)及公我意识(关注自己在职场中留给他人的印象)也与职场通讯压力显著正相关(Barber & Santuzzi, 2015, 2017)。
+
+高自控力和边界管理策略反映了缓解职场通讯压力的个人资源。员工的自我控制能够帮助他们抑制想要尽快回复信息的冲动(Maloney etal.,2012)，从而感受到更少的通讯压力(Barber& Santuzzi,2017;Grawitch etal.,2018)；分割型的边界管理策略则使员工在工作和生活领域之间构建物理、时间或心理边界，以保持工作和生活角色的分离，缓解职场通讯压力(Page et al.,2021)，并减少其带来的负面影响(Hu et al.,2019)。
+
+除此之外，员工的职场通讯压力在性别、婚姻状况上也表现出显著差异(Grawitch et al.,2018)。其中，性别的差异更为明显，相比于男性，女性员工更容易感受到较高的职场通讯压力；已婚者可能比未婚者体验到更多的职场通讯压力，尽管这种差异较小。这可能与社会现状有关，即女性和已婚员工都面临着更多的家庭责任，他们要同时承担工作和家庭领域的职责，因此当技术带来的工作要求增加时，他们能够被用于应对的资源更少，更容易感受到来自工作的压力。
+
+# 4职场通讯压力的后果：JD-R的损害路径与努力-恢复模型相结合
+
+根据 JD-R，职场通讯压力存在于健康损害路径中，会对员工产生消极影响(如 Hu etal.,2019; Gillet et al.,2022)。努力-恢复模型(Effort-Recovery Model; Meijman& Mulder,1998)的观点是与之相契合的，它认为员工为了应对工作要求而付出的努力会消耗个人资源，从而导致压力反应，而恢复活动则有助于缓解压力反应。员工在工作与非工作时间都可以通过恢复活动获得资源补充，如工作时间内在任务间隙休息，在非工作时间内与工作活动相脱离等；当恢复活动受阻时，员工持续暴露于高工作要求和不完全的恢复中，会导致压力反应的累积，最终带来慢性健康损害(Geurts & Sonnentag,2006)。
+
+# 4.1职场通讯压力促进ICT响应
+
+高职场通讯压力员工为了应对工作要求而努力后的直接结果就是增加了基于ICT 的响应行为，体现在响应延迟时间更短和回复更频繁两个方面(Barber& Santuzzi,2015,2017)，不过Cambier和Vlerick(2020)却发现职场通讯压力仅与回复数量呈正相关，与回复延迟无显著关联。在 Barber 和 Santuzzi(2015)研究的基础上，Van Laethem 等人(2018)进一步区分了工作与非工作时间内的ICT使用，发现经历高水平职场通讯压力的员工在任何时间都会更频繁地通过ICT参与工作相关活动。
+
+# 4.2职场通讯压力使恢复活动受阻
+
+为了在任何时间都更快速地回应ICT消息，高职场通讯压力下的员工难以在工作间隙或非工作时间内获得与工作心理脱离的机会，即不考虑工作和工作相关事件(Sonnentag&Fritz,2007)，导致恢复活动受阻。多项研究强调了职场通讯压力会导致较低的心理脱离(Barber & Santuzzi,2015; Santuzzi& Barber,2018; Barber et al.,2019)，这可能是由高通讯压力带来的 ICT 沟通增加导致的(Cambier et al.,2019)；也可能是因为高通讯压力增强了工作相关的ICT沟通与心理脱离之间的负相关关系，使得员工即使在下班后也无法从精神上脱离工作(Van Laethem et al., 2018)。
+
+在工作时间内，面对频繁的、随时发来的ICT 消息，高通讯压力员工倾向于优先对其进行回应，使得当前活动被迫中断(Delanoeije et al.,2019)。工作任务频繁中断会浪费大量的有效工作时间(Gupta et al.,2013)，迫使员工在更短的时间里完成更多的工作量(Keller etal.,2020;Stich,2019)，减少员工在任务间隙与工作脱离的机会，阻碍资源恢复。
+
+在非工作时间接收到消息时，高通讯压力员工更可能中断个人或家庭活动以通过ICT执行工作相关的任务(Barber& Santuzzi,2015; Hu et al.,2019)，这种跨边界行为会导致对个人和家庭生活的干扰(Stich,2019)，减少员工在非工作时间内与工作保持心理脱离的机会(Page et al.,2021)，使员工难以参与恢复性活动来获得休息。现有研究对员工恢复性活动的探讨主要集中在恢复性睡眠上(Barber& Santuzzi,2015; Grawitch et al.,2018; Santuzzi &Barber,2018; Barber et al.,2019; Cambier et al.,2019; Hu et al.,2019)。职场通讯压力对恢复性睡眠的破坏性体现在三个方面：更差的睡眠质量(Huetal.,2019)、更少的睡眠时间(Barber & Santuzzi,2015)、不规律睡眠(Barber & Santuzzi,2017; Santuzzi & Barber, 2018)。Hu 等人(2019)通过探究职场通讯压力对员工健康结果负面影响的潜在机制，发现通讯压力通过减少员工的心理脱离或增加员工在非工作时间对工作相关活动的响应行为(如牺牲睡眠时间应对工作要求)，间接导致了更差的睡眠质量和更少的睡眠时间。
+
+# 4.3职场通讯压力的慢性损害结果
+
+持续暴露于高工作要求和不完全的恢复会导致员工压力反应的累积(Geurts &Sonnentag,2006)，这种影响特别来自于非工作时间的恢复受阻。在非工作时间内，随时发来的工作相关消息使高通讯压力员工不断在工作和家庭任务之间切换(Tedone,2022)，心理和身体资源不断被消耗(Day et al.,2012)，在恢复受阻的情况下进一步损害员工获得资源补充的能力(Demerouti et al.,2009)，引发工作倦怠(Hu et al.,2019; Santuzzi & Barber, 2018;Barber et al.,2019; Kao et al.,2020; Page et al.,2021)以及更强烈的压力感受(Hu et al.,2019;Van Laethem et al.,2018; Page et al.,2021)，并降低员工的工作投入(Barber et al.,2019)。但值得一提的是，职场通讯压力本身也可能直接导致员工压力增加(Barber& Santuzzi2017)，激化工作-家庭冲突进而导致倦怠(Page et al.,2021)。
+
+此外，在高职场通讯压力下，恢复活动受阻还会进一步在家庭生活领域和工作表现两方面对员工带来不利影响。在员工家庭生活领域上，一方面，员工在非工作时间内响应工作消息会占用家庭活动的时间和注意力，阻碍家庭角色参与，增加工作-家庭冲突(Gadeyneet al.,2018; Kao et al.,2020; Page et al.,2021)或降低工作-生活平衡(Grawitch et al.,2018)，并导致较低的幸福感(Barber& Santuzzi,2017; Barber et al.,2019)。另一方面，职场通讯压力带来的压力体验或者由恢复活动受阻带来的压力感也会进一步激发员工的工作-家庭冲突(Page et al.,2021)。在工作表现方面，目前研究的探讨比较少，只关注到了与健康相关的缺勤、出勤主义(Barber& Santuzzi,2015；指的是员工在身心状况不佳而无法专心工作时还依旧要照常上班的情况)和网络闲逛行为(Stich,2019；苏靖璇等,2021)。
+
+![](images/9a137acb33f659285248dc7f945efee8234c02b3f98e11004577821ebda55c64.jpg)  
+图1现有研究进展(来源：作者根据文献整理而成)
+
+# 5未来研究展望
+
+回顾现有研究，我们能够从JD-R理论的视角全面了解职场通讯压力的预测因素，并结合努力-恢复模型梳理其影响结果(如图1所示)。然而当前研究的一些不足之处仍然值得关注，本文从以下四个方面分析了现有研究的不足之处，并提出对未来研究的建议(如图 2所示)。
+
+# 5.1完善职场通讯压力的概念界定
+
+清晰的概念界定是科学研究的基础。目前学者们统一沿用的 Barber 和 Santuzzi(2015)对职场通讯压力的定义，在概念界定上仍存在以下问题。首先，“工作相关消息”的涵盖内容不明确。鉴于 Barber 和 Santuzzi (2015)曾提出员工想要快速回应工作消息可以被看成是一种职场中的印象管理，以此给他人留下良好印象，并且快速响应确实会让沟通的另一方体验到更密切的社会联系(Templeton etal.,2022)，因此应当关注ICT 响应在人际联系方面的表现，明确区分工作任务相关的和工作中人际相关的消息。由于ICT互动的增多伴随着员工与同事的面对面沟通减少，导致员工从工作中获得社会支持的来源变窄。这可能会促使员工积极主动地通过ICT与同事或上级保持联系，以获得与工作有关的社会支持以及更好的工作体验(Collins et al.,2016)。在职场社会支持的相关研究中，员工往往通过两种方式来获得社会支持：一是就工作问题进行沟通，寻求他人的建议或帮助，以便完成工作任务(即工具性支持)；二是出于社交需求与他人进行交流，以获得来自同伴的倾听、关心和兴趣(即情感性支持)(如 Colins et al.,2016; ten Brummelhuis et al.,2021)。员工对工作任务相关消息和人际相关消息的响应冲动有何区别？通讯压力的这两种不同角度可能会在结果方面有什么不同的影响？将概念中的“工作相关消息”区分为工作任务相关的和工作中人际相关的，可能有助于前因及后果研究的进一步深入。
+
+其次，体现快速响应性的响应延迟指代不明。响应延迟指代的时间区间的是消息的已读时刻到被回复时刻，还是收到时刻到被回复时刻，这仍然是比较模糊的，这种分歧不但会影响研究中对响应延迟的测量方法，还会导致截然不同的研究结果。Barber和 Santuzzi(2015)的研究虽发现职场通讯压力与电子邮件的响应延迟时间更短和回复更频繁两个方面有关，但在Cambier 和Vlerick(2020)的研究结果中，职场通讯压力与电子邮件回复延迟无关。这可能是因为前后两项研究在测量响应延迟时选取了不同的时间区间。因此，明确响应延迟指代的时间区间是必要的，Cambier和Vlerick (2020)建议未来研究应当用消息的已读时刻到被回复时刻之间的持续时间来评估响应延迟。
+
+另外，虽然 Barber 和 Santuzzi(2015)已经指出职场通讯压力是对与工作相关的ICT要求的反应，但本文中进一步提到的职场通讯压力是对挑战性/阻碍性工作要求的反应多是现有研究根据JD-R理论做出的逻辑推导，目前还没有实证证据。未来研究可以通过实证研究检验经历高职场通讯压力的员工是否将ICT沟通视为一种挑战性/阻碍性工作要求，并将其与工作量增加和工作时间延长联系起来(Van Laethem et al.,2018)；以及在哪种情况下ICT沟通会被视为挑战性工作要求，以在导致高职场通讯压力的同时起到激励作用(Baumeisteret al., 2021)。
+
+# 5.2职场通讯压力的预测因素研究有待深入
+
+目前研究对职场通讯压力的预测因素探讨不足，未来研究可更多围绕工作要求/资源及个人要求/资源方面展开。
+
+在工作要求及资源上，以下五点是值得考虑的。第一，时间的社会规范在跨文化的研究中应该特别被重视。在低语境文化(主要是西方国家)中，时间被视为一种稀缺品，人们更容易体验到在有限时间内采取行动以完成工作任务的压力；而在高语境文化(如中国、印度)中，时间不那么容易带来必须立即采取行动的压力，人们不太会因为时间的稀缺性而体验到相关的压力(Eldor etal.,2017)。因此不同文化对于是否需要对工作消息进行快速响应的看法可能也会有所不同，在将职场通讯压力研究推广到不同文化背景时应考虑到时间社会规范这一因素。第二，未来研究应关注到工作特征或组织特征，因为快速的响应时间能帮助员工在客户导向的工作中(如咨询和销售)获得好的结果，这些岗位上的员工可能更容易感受到职场通讯压力；而那些与响应要求无关的岗位则不太容易受到影响(Barber &Santuzzi,2015)。第三，领导者因素可能也会影响员工的职场通讯压力。预期违背理论(expectancy violations theory,EVT; Burgoon& Hale,1988)认为，人际互动中的信息接收者会对信息发出者有预设的行为期待，如果对方的行为违背了这个期待，接收者就有可能会对传播者的期待违背给出负面评估并做出反应。在基于ICT的职场互动中，长时间的响应延迟或沉默有可能被视为违反期望的行为。结合领导-成员交换理论(leader-member exchangetheory,LMX;Graen etal.,1982)，相比于“圈外”成员，“圈内”成员与领导有着更高质量的交换关系，同时也承受着来自领导的对响应行为的更高期待。Kalman 和Rafaeli (2011)的研究发现，对于被寄予高期待值的候选人来说，长时间的响应延迟和沉默对候选人的印象有负面影响；而被寄予低期待值的候选人则不受影响。因此“圈内”成员的响应延迟，作为一种期望违背行为，更有可能导致领导的负面评价。相比于“圈外”成员，那些被寄予高期望值的“圈内”成员承担着可能失去组织内优势位置的风险，为了迎合领导的预期，他们可能会经历更高的职场通讯压力，即高LMX有可能会增加员工的职场通讯压力。第四，未来研究还应关注个人-团队的时间焦点匹配。随着远程办公和虚拟团队的日益普遍，员工个人和其所在团队之间的配合变得很重要，由于团队中的成员可能具有不同的时间焦点特征，当个人对时间的感知与所在团体成员的感知相匹配时，他们可能更少受到来自集体环境的限制，较少地体验到职场通讯压力(Jansen&Kristof-Brown,2006; Eldor et al.,2017)。第五，任务量过低可能也会导致职场通讯压力。当任务量未能达到员工的期望时，他们可能会担心自己被排除在重要的沟通之外，错失重要的工作相关信息(Stich et al.,2019)，因此会更加渴望与工作保持联系，导致较高的职场通讯压力(Stich,2019)。
+
+在个人要求及资源方面，员工的ICT焦虑(Wang etal.,2008)可能作为个人要求增加员工的职场通讯压力；而员工自尊(Hair etal.,2007)、管理负面情绪的自我效能感(Liu et al.,2021)等个体特质作为重要的个人资源，可能减少职场通讯压力的产生。此外，员工对时间的主观看法也可能是重要的个体因素，关注当下的员工可能会将响应消息的时间紧迫性视为对当前任务的干扰；关注未来的员工则认为其有助于实现长远目标(Eldor etal.,2017)，因而可能体验到不同水平的职场通讯压力。
+
+# 5.3职场通讯压力的作用效果研究有待深入
+
+目前研究对于职场通讯压力作用结果的探讨存在诸多不足之处。首先，当前研究多关注电子邮件的响应行为，然而随着全球疫情推动数字化工作强度大幅度增加，员工的工作也不局限于某个单一平台或软件，进行工作沟通的渠道更是不仅限于电子邮件(Marsh et al.,2021)，例如在中国，企业微信、钉钉、飞书等移动办公软件就是许多企业正在使用的工作交流工具。Cambier 和 Vlerick(2020)因此提出，未来的研究应考虑同时测量多个ICT 沟通平台，以便更全面地了解职场通讯压力与员工信息响应之间的关系。需要注意的是，对ICT 消息的响应不一定是衡量工作表现的最好指标，未来研究还有必要探讨职场通讯压力对员工中心工作任务的完成质量和效率的影响(Barber& Santuzzi,2015)。
+
+其次，根据 JD-R，经历着工作压力的员工会通过自我破坏行为感知并制造更高的工作要求(Bakker&Costa,2014)，进而体验到更大程度的工作压力，带来螺旋式的资源损耗(Bakker&Demerouti,2017)。Demerouti 等人(2004)的纵向研究体现了这种反向因果关系。因此，经历着职场通讯压力的员工可能会随着时间的推移感知并制造出更高的ICT相关要求，进而经历更加高水平的职场通讯压力，未来对职场通讯压力采用纵向研究来检验这种反向因果关系将有助于揭示其长期且深远的影响效果。
+
+# 5.4探究职场通讯压力的应对策略
+
+对职场通讯压力的干预原则与应对一般工作压力的方法有所不同。由于高远程压力员工随时都有可能需要对不可预测的工作信息作出反应，因此他们不能像应对一般工作压力那样自主选择恢复活动的时间(Gillet et al.,2022)，如在倍感压力时选择不考虑与工作有关的事情或心无旁骛地学习一项新技能。如此这般不能与工作活动相脱离使员工消耗的资源难以得到恢复(Barber et al.,2019)。
+
+因此，依照努力-恢复模型的观点，组织帮助员工应对职场通讯压力的关键就在于增加员工心理脱离的可能性和参与恢复活动的机会(Richardson,2017)。根据Milligan 及 Turner等人的文章(引自Richardson,2017)，目前已经有一部分组织正在做出改变，对何时可以或不可以发送电子邮件做出了限制，以保护他们的非工作时间不被工作消息侵占。不过，组织采取的这些干预措施是否有效，还需要一系列的实证研究来检验，然而目前几乎没有研究对干预对策进行实证检验，仅Rogers 和 Barber(2019)曾以大学生为实验对象，考察了睡眠和技术教育干预对减轻与通讯压力相关的负面结果的作用。该研究中的干预方法虽然没有表现出明显作用，但迈出了对通讯压力进行干预研究的第一步。对职场通讯压力进行干预研究，对于保护员工身心健康，提高员工的积极性和绩效具有重要意义(LePine et al.,2005)。
+
+首先，与ICT消息响应相关的组织规范应该更加明确。组织可以制定与ICT使用相关的政策来明确组织对响应时间的期望是什么，或鼓励工作团队独立制定响应期望协议(Barber& Santuzzi,2015)，并说明立即回应是否有直接的负面后果，如被上级训斥、较低的绩效考核评分等 (Page et al.,2021)，从而减少无效沟通和不必要的持续连接，鼓励员工在家庭领域中专注家庭活动以恢复在工作中被消耗的资源。其次，营造家庭支持型组织氛围可能有助于使员工获得更多的组织对员工家庭生活的支持，以缓冲职场通讯压力的负面影响(如工作-家庭冲突;Witt& Carlson,2006)。
+
+除了组织自上而下地改变工作设计之外，员工也可以采取自卜而上的方法来主动地优化他们的工作环境(Demerouti et al.,2015)。根据前述的 JD-R 模型，激励路径中存在着以工作重塑为机制的资源获得的正向螺旋过程。工作重塑作为员工为平衡工作要求和资源与个人能力和要求而做出的主动改变，是将工作特征与工作结果联系起来的重要的机制(Tims&Bakker,2010)。通过工作重塑，员工可以主动增加工作资源和挑战性工作要求，并减少阻碍性工作要求(Tims＆ Bakker,2010; Petrou et al.,2012)，这会给工作环境带来积极的改变,增加员工的工作投入(Petrou et al.,2012; Tims et al.,2013; Demerouti et al.,2015; Vogt et al.,2016)，减少工作要求的消极影响(Tims etal.,2013)。在未来对职场通讯压力的干预研究中，通过激励员工的工作重塑行为，推动资源获得螺旋，将可能有助于增加职场通讯压力的积极影响(Bakker&Demerouti,2017)，并减少员工的职场通讯压力。
+
+![](images/65dd397bb7e88dc97d845ef3c0644d09b8bfae662f7a585f13bfa2bf66e4e283.jpg)  
+图2 未来研究展望(来源：作者根据文献整理而成)
+
+# 参考文献
+
+苏靖璇，陈壮，马红宇.(2021).通讯压力对网络闲逛的影响—一自我损耗与微休息的作用．第二十三届全 国心理学学术会议，中国内蒙古呼和浩特，   
+王海江，宋学静，龙立荣，黄韫慧.(2021).远程办公情境下如何提升上级的信任感和绩效评价?——解释水 平理论视角下电子沟通即时性的作用．管理学季刊,6(02),36-56+145-146.   
+张晶，李伟贺，史燕伟，张南，马红宇.(2020).工作反刍及其“双刃剑”效应．心理科学进展,28(02),358- 367.   
+Bakker,A. B., & Costa, P.L. (2014). Chronic job burnout and daily functioning: A theoretical analysis. Burnout Research,1(3), 112-119.   
+Bakker,A.B.,& Demerouti,E. (2O17). Job demands-resources theory: Taking stock and looking forward. Journal of Occupational Health Psychology, 22(3),273-285.   
+Barber, L. K., Conlin, A.L.,& Santuzi, A.M. (2019). Workplace telepressure and work-life balance outcomes: The role of work recovery experiences. Stress and Health, 35(3),350-362.   
+Barber, L. K.,& Santuzzi, A. M. (2015). Please respond ASAP: Workplace telepressure and employee recovery. Journal ofOccupational Health Psychology, 20(2),172-189.   
+Barber, L.K.,& Santuzzi, A.M. (2O17). Telepressure and college student employment: The costs of staying connected across social contexts. Stress and Health, 33(1), 14-23.   
+Baumeister, V.M., Kuen,L.P., Bruckes,M.,& Schewe, G. (2021).The relationship of work-related ICTuse with well-being,incorporating the role of resources and demands: A meta-analysis. SAGE Open,11(4),1-19.   
+Budnick, C.J., Rogers,A. P.,& Barber,L. K. (202O). The fear of missing out at work: Examining costs and benefits to employee health and motivation. Computers in Human Behavior; 104,106161. https://doi.0rg/10.1016/j.chb.2019.106161   
+Burgoon, J. K., & Hale,J.L. (1988). Nonverbal expectancyviolations: Model elaboration and application to immediacy behaviors. Communication Monographs,55(1),58-79.   
+Burton,E.,Edwards,D.J.,Roberts,C., Chileshe,N.,&Lai,J. (2021).Delineating the implicationsofdispersing teams and teleworking in an agile UK construction sector. Sustainability,13, 9981. https://doi.0rg/10.3390/su13179981   
+Cambier, R., Derks, D.,& Vlerick, P.(2019). Detachment from work: A diary studyon telepressure, smartphone use and empathy. Psychologica Belgica, 59(1),227-245.
+
+Cambier, R.,& Vlerick,P. (2020).You've got mail: Does workplace telepressure relate to email communication? Cognition Technology& Work,22(3),633-640.
+
+Collins,A.M.,Hislop,D.,& Cartwright,S.(2016).Social support in the workplace between teleworkers,office based colleagues and supervisors. New Technology, Work and Employment,31(2),161-175.   
+Crawford,E.R.,LePine,J.A.,& Rich,B.L. (201).Linking job demandsand resources to employee engagement and burnout: A theoretical extension and meta-analytic test.Journal of Applied Psychology, 95(5),834-848.   
+Cropley, M.,& Zijlstra,F.R. H. (2011). Work and rumination. In J. Langan-Fox,& C.L. Cooper (Eds.), Handbook of Stressin the Occupations (pp.487-501). Edward Elgar Publishing.   
+Day,A.,Paquet, S., Scott,N.,& Hambley,L.(20l2).Perceived informationand communication technology (CT) demands on employee outcomes: the moderating effect of organizational ICT support. Journal of Occupational Health Psychology, 17(4), 473-491.   
+Day, A., Scott,N.,& Kelloway,E. K. (010). Information and communication technology: Implications for job stress and employee well-being. In P.L. Perrewé & D. C. Ganster (Eds.), New developments in theoretical and conceptual approaches tojob stress (pp317-350). Emerald Group Publishing.   
+Delanoeije,J., Verbruggen,M.,& Germeys,L. (2O19).Boundaryrole transitions: Aday-to-day approach to explain the effects of home-based telework on work-to-home conflict and home-to-work conflict. Human Relations, 72(12),1843-1868.   
+Demerouti, E., Bakker, A. B.,& Bulters,A. J. (2004). The loss spiral of work pressure, work-home interference and exhaustion: Reciprocal relations in a three-wave study. Journal of Vocational Behavior, 64(1),131-149.   
+Demerouti, E.,Bakker,A.B.,& Gevers,J.M.P.(2015).Job crafting and extra-role behavior: The role of work engagement and flourishing. Journal of Vocational Behavior, 91, 87-96.   
+Demerouti, E., Derks, D., Ten Brummelhuis,L.L.,& Bakker,A. B. (2014). New ways of working $\because$ impact on working conditions, work-family balance,and well-being. In C.Korunka,& P. Hoonakker (Eds.),The impact of ICT on quality of working life (pp. 123-141). Springer.   
+Demerouti, E.,Bakker,A.B., Geurts, S.A.E.,& Taris,A. W. (2009).Daily recovery from work-related effort during non-work time. In S. Sonnentag,P.L. Perrewé,& D. C. Ganster (Eds.), Current perspectives on jobstress recovery (pp. 85-124). (Research in occupational stress and well being; Vol. 7). JAI Press.   
+Demerouti,E., Bakker,A.B.,Nachreiner,F.,& Schaufeli, W.B. (2o01).The job demands-resources modelof burnout. Journal of Applied Psychology, 86(3),499-512.
+
+Eldor,L.,Fried,Y.,Westman,M.,Levi,A.S.,Shipp,A.J.,&Slowik,L.H. (2o17).The experienceof work stres and the context of time: Analyzing the role of subjective time. Organizational Psychology Review,7(3),227- 249.
+
+Gadeyne,N., Verbruggen,M.,Delanoeije,J.,&De Cooman,R. (2018).All wired,alltired? Work-related ICT-use outside work hours and work-to-home conflict: The role of integration preference,integration norms and work demands. Journal of Vocational Behavior, 107,86-99.   
+Geurts, S.A.E.,& Sonnentag, S.(2006). Recovery as an explanatory mechanism in the relation between acute stress reactions and chronic health impairment. Scandinavian Journal of Work, Environment & Health,32(6), 482-492.   
+Gillet,N.,Morin,A.J.S.,Fernet, C.,Austin,S.,& Huyghebaert-Zouaghi,T. (2022). Telepressureandrecovery experiences among remote and onsite workers. Journal of Personnel Psychology. Advance online publication. https://doi.0rg/10.1027/1866-5888/a000303   
+Graen, G.,Novak,M.A.,& Sommerkamp,P.(1982).The effects of leader—member exchange and job design on productivity and satisfaction: Testing a dual attachment model. Organizational Behavior and Human Performance, 30(1),109-131.   
+Grawitch, M. J., Werth, P.M.,Palmer, S.N.,Erb, K. R.,& Lavigne, K.N. (2018). Self-imposed pressure or organizational norms?Further examination of the construct of workplace telepressure. Stress and Health, 34(2), 306-319.   
+Gupta,A., Li, H.,& Sharda,R. (2O13). Should I send this message? Understanding the impact of interruptions, social hierarchy and perceived task complexity on user performance and perceived workload. Decision Support Systems,55(1),135-145.   
+Hair, M., Renaud,K.V.,& Ramsay, J. (2O07).The influence of self-esteem and locus of control on perceived email-related stress. Computers in Human Behavior, 23(6),2791-2803.   
+Hu, X.,Santuzzi, A.M.,&Barber,L.K. (2019). Disconnecting to detach: The role of impaired recovery in negative consequences of workplace telepressure. Journal of Work and Organizational Psychology, 35, 9-15.   
+Jansen,K. J.,& Kristof-Brown,A. (2Oo6).Toward a multidimensional theoryof person-environment fit.Journal of Managerial Issues,18(2),193-212.   
+Kalman, Y.M.,& Rafaeli, S.(2011). Online pauses and silence: Chronemic expectancy violations in writen computer-mediated communication. Communication Research, 38(1),54-69.   
+Kao,K.-Y.,Chi,N.-W.,Thomas,C.L.,Lee,H.-T.,&Wang,Y.-F. (202O).Linking ICTavailabilitydemands to burnout and work-family conflict: The roles of workplace telepressure and dispositional self-regulation. The Journal of Psychology,154(5),325-345.   
+Keller,A. C.,Meier,L.L.,Elfering,A.,& Semmer,N.K. (202O). Please wait untilIamdone! Longitudinal effects of work interruptions on employee well-being. Work & Stress, 34(2), 148-167.   
+Kossek,E.E.,Lautsch, B.A.,& Eaton, S.C. (2oo6). Telecommuting, control,and boundary management: Correlates of policy use and practice,job control, and work-family effectiveness. Journal of Vocational Behavior; 68(2),347-367.   
+LePine,J.A.,Podsakoff,N.P.,&LePine,M.A. (2o05).A meta-analytic testof the challenge stressor-hindrance stressor framework: An explanation for inconsistent relationships among stresors and performance. Academy of Management Journal, 48(5),764-775.   
+Liu, B., Zhao, H.,& Lu, Q. (O21). Effect of leader mindfulness on hindrance stressin nurses: The social mindfulness information processing path. Journal of Advanced Nursing, 77(11), 4414-4426.   
+Makarius,E.E.,Larson,B.Z.,&Vroman,S.R.(2021,March 24). What is your organization's long-termremote work strategy? Harvard Business Review. htps://hbr.org/2021/03/what-is-your-organizati ons-long-term  
+remote-work-strategy   
+Maloney,P., Grawitch, M.,& Barber,L. (2012). The multi-factor structure of the Brief Self-Control Scale: Discriminant validity ofrestraint and impulsivity. Journal of Research in Personality, 46(1),111-115.   
+Marsh,E., Vallejos,E.P.,& Spence,A. (2022).The digital workplace and its dark side: An integrative review. Computers in Human Behavior, 128,107118. https://doi.org/10.1016/j.chb.2021.107118   
+Mazmanian,M., Orlikowski, W.J.,& Yates,J.(2013).The autonomy paradox: The implications of mobile email devices for knowledge professionals. Organization Science, 24(5),1337-1357.   
+Meijman,T.F.,& Mulder,G.(1998).Psychological aspects of workload. InP.J.D.Drenth,H.Thierry,&C.J.de Wolff(Eds.), Handbook ofwork and organizational: Work psychology (pp.5-33).Psychology PressErlbaum (UK) Taylor & Francis.   
+Page,K.J.,Nastasi,A.,& Voyles,E. (2O21).Did you get that thing Isent you? Mediating effects of strain and work-family conflict on the telepressure and burnout relationship. Stress and Health,37(5), 928-939.   
+Peters,P.,den Dulk,L.,& van der Lippe,T. (2Oo9).The efects of time-spatial flexibility and new working conditions on employees'work-life balance: The Dutch case. Community, Work &Family,12(3),279-297.
+
+Petrou,P.,Demerouti,E.,Peeters,M.C.W.,Schaufeli,W.B.,&Hetland,J. (202).Crafting ajobonadailybasis: Contextual correlates and the link to work engagement. Journal of Organizational Behavior,33(8),1120-1141.
+
+Podsakoff,N.P.,LePine,J.A.,& LePine,M.A. (20o7). Diferential challenge stressor-hindrance stressor relationships with job atitudes,turnover intentions,turnover,and withdrawal behavior: a meta-analysis.Journal of Applied Psychology, 92(2), 438-454.   
+PoliteMail (Ed.) (2020). COvID-19's lasting impact on corporate communications. htps://olitemail.com/ resource-center/whitepapers-for-internal-communications/what-the-covid-happened-to-internal communications/   
+Przybylski,A.K.,Murayama,K.,DeHaan,C.R.,&Gladwel,V. (2l3).Motivational,emotionalndbehavioral correlates of fear of missing out. Computers in Human Behavior; 29(4),1841-1848.   
+Raghuram, S., Hill,N.S., Gibbs,J.L.,& Maruping,L.M. (2019). Virtual work: Bridging research clusters. Academy of Management Annals, 13(1),308-341.   
+Ragu-Nathan,T.S.,Tarafdar,M.,Ragu-Nathan,B.S.,&Tu,Q. (2o08).The consequences of technostress for end users in organizations: conceptual development and empirical validation. Information Systems Research,19(4), 417-433.   
+Richardson, K. M. (2o17). Managing employee stress and wellnessin the new millennium. Journal of Occupational Health Psychology,22(3),423-428.   
+Rogers,A. P., & Barber, L. K. (2019). Addressing FoMO and telepressure among university students: Could a technology intervention help with social media use and sleep disruption? Computers in Human Behavior, 93, 192-199.   
+Santuzzi,A.M.,& Barber,L.K. (2018). Workplace telepressre and worker well-being: The intervening role of psychological detachment. Occupational Health Science, 2(4),337-363.   
+Schaufeli, W.B., Salanova, M., Gonzalez-roma, V.,& Bakker,A.B. (20O2).The measurement of engagement and burnout: A two sample confirmatory factor analytic approach. Journal of Happiness Studies,3(1),71-92.   
+Schaufeli, W.B., Taris,T.W.,&vanRhenen, W. (2o08). Workaholism, burnout,and work engagement: threeofa kind or three different kinds of employee well-being? Applied Psychology, 57(2),173-203.   
+Sonnentag, S.,& Fritz, C. (20o7).The recovery experience questionnaire: Development and validation of a measure for assessing recuperation and unwinding from work. Journal of Occupational Health Psychology, 12(3),204-221.
+
+Stich,J.-F.,arafdar,.tacey,P.,&Cooper,S.C.(9).ppraisalofmailuseasasourceofworkplacesrss: A person-environment fit approach.Journal of the Association for Information Systems,20(2),132-160.
+
+Tarafdar, M.,Maier, C.,Laumer,S.,& Weitzel,T. (202O).Explaining the link between technostress and technology addiction for social networking sites: A study of distraction as a coping behavir. Information Systems Journal, 30(1),96-124.
+
+Tedone A.M. (2022). Keeping up with work email after hours and employee welbeing: Examining relationships during and prior to the COVID-19 pandemic. Occupational Health Science, 6(1),51-72.
+
+Templeton,E.M.,Chang,L.J.,Reynolds,E.A.,Cone LeBeaumont,M.D.,& Wheatley,T. (2022).Fast response times signal social connection in conversation.Proceedings of the National Academy of Sciences,119(4), e2116915119.https://doi.org/10.1073/pnas.2116915119
+
+ten Brummelhuis,L.L.,ter Hoeven, C.L.,& Toniolo-Barrios,M.(2021).Staying in the loop: Is constant connectivity to work good orbad for work performance? Journal of Vocational Behavior; 128,103589. https://doi.org/10.1016/j.jvb.2021.103589
+
+Tims,M.,& Bakker,A.B.(2010).Job crafting: Towards a new model ofindividual job redesign.SA Journal of Industrial Psychology,36(2),1-9.
+
+Tims,M.,Bakker,A.B.,& Derks,D.(2013).The impact ofjob crafting on job demands, job resources,and wellbeing.Journal of Occupational Health Psychology,18(2),230-240.
+
+Van Laethem, M.,van Vianen,A.,& Derks,D. (2018). Daily fluctuations in smartphone use, psychological detachment,and work engagement:The role of workplace telepressure.Frontiers in Psychology,9,1808. https://doi.org/10.3389/fpsyg.2018.01808
+
+Vogt,K.,Hakanen,J.J.,Brauchli,R.,Jenny,G.J.,&Bauer,G.F.(2O16).The consequences ofjob crafting: A three-wave study. European Journal of Work and Organizational Psychology,25(3),353-362.
+
+Wang,K.,Shu, Q.,&Tu,Q.(2Oo8).Technostress under diferent organizational environments: Anempirical investigation. Computers in Human Behavior, 24(6),3002-3013.
+
+Witt,L.A.,& Carlson,D.S. (2oo6).The work-family interface and job performance: moderating effects of conscientiousness and perceived organizational support. Journal of Occupational Health Psychology, $\it { I I } ( 4 )$ 343-357.
+
+Wright,T.A.,& Cropanzano,R. (2Oo0).Psychological wel-eing and job satisfaction as predictors of job performance.Journal of Occupational HealthPsychology,5(1),84-94.
+
+Wrzesniewski,A.,& Dutton, J.E. (2Ool). Crafting a job: Revisioning employees as active crafters of their work. Academy of Management Review,26(2),179-201.
+
+# Prompt reply: Workplace telepressure in the information and communications technology (ICT) era
+
+SUNHui, XU Jie
+
+(Management School,Jinan University, Guangzhou 510632, China)
+
+Abstract: Workplace telepressure(WPT) refers to the urgency experienced by employees when they strive to respond to their ICT-based work messages as soon as possible. Existing studies have discussed the causes and consequences of WPT in a scattered and unsystematic manner. Based on the job demand-resources (JD-R) model combined with the effort-recovery model, the present research discusses the antecedent role of ICT use-as job demands-and individual factors-as personal demands/resources-on WPT. The negative effects of WPT on employee well-being and work and family domains due to impediments to recovery activities are also discussed.This study aims to contribute to a comprehensive picture of WPT, enrich the knowledge of the consequences of ICT use, as well as to inform the development of future studies and the practice of occupational mental health interventions for employees.
+
+Key words: workplace telepressure, information and communication technology (ICT), job demands-resources model(JD-R), effort-recovery model

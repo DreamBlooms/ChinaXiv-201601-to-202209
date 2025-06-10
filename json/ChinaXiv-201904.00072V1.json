@@ -1,0 +1,572 @@
+[
+    {
+        "type": "text",
+        "text": "Impact of Urban Rail Transit on Business Districts Based on Time Distance: Urumqi Light Rail ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ting Chang,Ph.D.1; Degang Yang²；Yu Yang, Ph.D.³; Jinwei Huo, Ph.D.4; Guiling Wang, Ph.D.5;and Chuanhe Xiong,Ph.D.6 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Basedometacartographytissudytablshsaodeltoconverthetiedstanceofakinglgtailtothesatialdistance inmeters.Ontisbasis,tisudyuses tespatialtasformationmetodofgeogapiciforatioste(S)mapprojectiontodefie thedistancebetweentwolocationswiththeconverteddistanceandtransforstheriginalmapintoaimedistancemap.Byspatialiingthe timdistance,tissudygivstidstanceavisalexpresioTsultssothatthifuenceofhtlourbanfoisectedy thedistancebetweethestationpoitsndtheselectedcenterpoit;thatis,tatthetransformationisgreaterwentestationpoitsae fartherawayfrohecenterpontandviceversa.Teimpactofhtilonthlaoutofusiesscentersissicallyistributedithsape ofacircle.Timedistancecompresesthetaditioalurbanfo.herisstillmuchroomforthecitytofurtercompressthetiedistance, andtheexistingbusinscenterssouldeupgadedDOI:10.061/(ACE)UP194-54o64.Tisork ismadeavailabledere terms of the Creative Commons Atribution 4.0 International license, htp:/creativecommons.org/licenses/by/4.0/. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The formation of urban business districts is affected by many factors.According to the theory of commercial location (Brown 1989; Bryan 199O;Cervero 1998),the formation of urban business districts mainly takes on combined impacts from differentiated rent mechanisms,market supply and demand mechanisms,and aggregation and diffusion mechanisms.With different rents in different locations in the city and different orientations of different commercial forms,the differentiated rent mechanism affects the choice of business location.The demand of the consumer market determines the development direction of business districts,and the relationship between supply and demand affects the scale and level of these districts.When one commercial scale expands,different forms of business are generated because commercial space is always in the process of agglomeration or diffusion.The formation of business districts has an inseparable relationship with traffic(Cervero 1992; Hägerstrand197O).In the early stage of a city,business districts are distributed along the traffic network,land transportation has limited impact on the city's business districts,and the psychological time of consumers has limited impact on their travel frequency and travel distance.Because rail transit has unparalleled advantages compared with other land-based transportation,such as high-speed and large passengercapacity trains,rail transit affects the reformation of businessdistricts (Tiry 2OO3).According to relevant practical development experience and theoretical research,the influence of rail transit on the evolution of business districts is shown in the three aspects of expected effect,reachability effect,and passenger flow effect. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Traffic plays a role in the formation of business districts,but the development ofa city faces many issues,such as the rapid expansion of urban areas,rapid growth of motor vehicles,and urban road congestion.Therefore,traffic is an important problem that affects the qualityof residents’lives and must urgentlybe solved. Urumqi is the political, economic,and cultural center of Xinjiang, the western gateway to the outside world, the bridgehead of the NewEurasian Continental Bridge and the core area of the SilkRoad economic zone.Accordingly,Urumqi has seen rapid development inrecent years,and urban traffic congestion has gradually increased, with more than 8Oo.OoO privately owned cars.The Bus Rapid Transit(BRT） system has completed seven lines and become an important mechanism to meet the public's transportation needs. However, the BRT must occupy dedicated lanes on the ground and thus cannot be considered a long-term solution for urban traffic congestion.According to the observations from cities with subways orlight rail, the construction of rail transit has played a significant role in alleviating transport tension,saving transport time, forming economic integration,promoting the development of a knowledge economy,promoting the development of tertiary industries and tourism,providing employment opportunities,and improving the quality ofurban residents’lives.The importance of rail transit includes not only freeing up space on the ground, which was originally narrow,but also shortening the time distance between two locations under the premise of unchanged geographical distance.In particular, a stable transportation system that is not affected by bad weather greatly improves the travel efficiency of an entire city. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Time geography was put forward for the first time by Hägerstrand in a paper published in 197O (Hägerstrand 197O),which setup unique geography symbol systems such as path and prism. With the development of computers and geographic information systems(GISs),Lenntorp,Martin,Miller,Kwan,and others constantly improved the calculation method of time geography (Kwan 2004; Kwan and Weber 2003;Lenntorp 1977,1999; Miller 1991, 2005).Time geography is a new development in transport planning, the family and individual level, the urban activity system,time use and management,environmental and public health,and other fields (Dijst and Vidakovic 1997; Hallin 1991; Neutens et al. 2007, 2011, 2012, Shaw and Yu 20O9;Yu 2OO7).In recent years,Ellegärd and others put forward the concept of “new” time geography (Ellegärd 1999;Ellegärd and Svedin 2O12).Liu,Kuby, Hadas,and others studied public transportation from the aspects of connectivityand passenger flow volume (Hadas and Ranjitkar 2O12;Kuby et al. 2004;Liu etal.2O16).There are also studies on the costof transfer in public transport systems (Guo and Wilson 2O11).Ferbrache studied the influence of traffic on urban development from the perspective of cultural approaches to transport geography (Ferbrache and Knowles 2O17).Hurst,Kasraian,Sekar,and others studied the impact of the rail transit system on land use and land-use change (Hurst and West 2O14; Kasraian et al. 2O16; Sekar and Gangopadhyay 2017).The analysis concentrated on North America in three main areas:urban development and land values,health and environmental impact,and socioeconomic factors(Knowles and Ferbrache 2016; Topalovic et al. 2012). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The research of time distance in China mainly focuses on the time distance betweencities on the mesolevel.Most of the studies on the time difference inside cities adopt the research method of isochronic circles.For example, Zhu conducted a metacartography study of time distance with the example of the Fuzhou-Shanghai railway passenger transportation system (Zhu et al.2O1O). Zhu also selected the main nodes to study traffic time distance inside Fujian Province (Zhu 2O11).With the continuous evolution of the internal spatial pattern of cities,many scholars also study the distribution of urban traffic's isochronic circles through time cost. For instance, Zeng, Chen,Zhao,and Huang divided the cities of the Macao Special Administrative Region,Guangzhou,and Shenzhen into time units and selected two-way links between the main nodes and the city center to research the isochronic circles of transport (Chen 2003;Huang 2003; Zeng 2003; Zhao 2003). Throughout the literature on time distance within cities,most scholars have focused on drawing isochronic circles of travel as the single presentation method but have rarely combined it with time distance mapping. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e2f2153d6baaff1f24e3fad43d5961ab79ca7294b0fe590f16e3492148e4e68.jpg",
+        "img_caption": [
+            "Fig.1.(Color) General plan of the Urumqi light rail. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the following,we use a novel method of calculation to show the effect of the light rail on the time distance within the city.We try to represent the contraction of space distance in an intuitive way. The aims of this study are to provide a reference for commercial location choice in the future and predict for residents’travel.First, a time distance map is produced by space transformation of time distance.Second,we analyze the effect of this contraction on the urban pattern and business circle.Finally, the applicability and limitations of this method are discussed. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Planning of the Urumqi Light Rail and Business Districts ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Planningof the UrumqiLightRail ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The downtown area of Urumqi is surrounded by mountains to the east,west,and south.The terrain ofUrumqi is high in the southeast and low in the northwest.Its urban construction is distributed in a narrow pattern in a north-south direction. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Urumqi Urban Rail Transit plans to build seven lines witha total length of $2 1 1 . 9 ~ \\mathrm { k m }$ (Leading Group Office of Urumqi Light Rail Construction and Coordination 2O13). The recent construction plan intendsto implementLine1,whichhasalengthof $2 6 . 5 \\mathrm { k m }$ and a total of21 stations,in advance.Line 2 in the first phase has a length of $2 1 . 4 ~ \\mathrm { k m }$ and consists of 16 stations with a total construction length of $4 4 . 4 \\mathrm { k m }$ ; the total investment of the project is 31.2 billion RMB.The plan intends to formthe basic framework ofarail transit network to meet the recent growing traffic demand and guide and promote the coordinated development of the regional economy. When the basic network structure is formed,rail transit passengers will account for $10 \\mathrm { - } 1 4 \\%$ of the total public transport passengers in 2020.The first phase of the rail transit construction isLine1,with a planned total duration of 7.5 years; the planned construction period is from 2O12 to 2O16,and the trial operation of the entire Line 1 will occur in 2O18.The first phase of the civil engineering project of Line 2 began after the completion of the civil engineering project ofLine 1,and the planned total duration is 6.5 years;Line 2 should be complete and ready for operation in December 2O2O.The first phase of the civil engineering project of Line 4 began in early 2016, with a planned total duration of 7 years; Line 4 should be ready for operation at the end of 2020. (Fig.1). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Planning of the Urumqi Business Districts ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The planning of the Urumqi business system mainly includes international business centers (including the Main International Business Centre and the International Business Subcentre),urban business centers,municipal business centers,regional business centers (city sub-centers),community-level business centers,and feature business streets.According to the overall urban planning and commerce and trade development orientation of Urumqi (Urumqi Commerce Bureau 2O14), Urumqi business will form an overall development pattern of“two cores,nine hearts,sixteen districts,multiple streets and multiple points.\" ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Two cores: the cores of urban business development are constituted by the Main International Business Centre and the International Business Subcentre and mainly encompass Xinjiang, the entire country,and central and western Asia.Nine hearts: the nine business clusters consist of two urban centers and seven municipal business centers that mainly serve the city ofUrumqi and the surrounding areas.The two urban business centers are the Exhibition Business Centre and the High-Speed Rail Business Centre; the seven municipal business centers are the Nanhu Business Centre,the Hongshan Business Centre,the Railway Bureau Business Centre,the South Railway Station Business Centre,the Gumudi Business Centre,the North New District Business Centre,and the South Business Centre.The“two cores\" and“nine hearts\"—a total of11 business districts—are included within the scope of this research paper. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sixteen districts: the 16 business cluster areas that involve regional business centers mainly meet regional residents’demand for the goods that they consume.Multiple streets:by exploring culture and folk resources and emphasizing these characteristics, 33business streets are formed to lead in a modern business fashion. Multiple points: in focusing on community-level business centers, business cluster areas are formed according to residence and population distribution to meet community residents’demand for the goods that they consume.The“16 districts,”“multiple streets,\"and “multiple points”are business outlets that meet the needs of regional and community residents;because of their small range of application,they are not included within the scope of this research paper (Fig. 2). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Research Methods and Data Sources ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ResearchMethods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This study's research method is based on the basic idea of metacartography (Lenntorp 1999).In1953,Hägerstrand, from the Department of Geography of Lund University in Sweden,first proposed the term metacartography (Chai 1998;Hägerstrand 1974, 1975,1982,1985). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Based on metacartography,this study adopts the space transformation of time distance to build a model to convert the time distance of light rail rides into the spatial distance in meters.Through the space transformation method of GIS map projection,we use the converted spatial distance to redefine the distance between two locations and transform the original map into a time distance map. Based on this time distance map,we visualize on the map the spatial compression that is caused by the intracity traffic time compression (Kwan 2012;Tobler 1961). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Data Sources ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this paper,the city center is defined as the time from the center of South Gate to various end points. South Gate is the old city center ofUrumqi and is located in the main international business district—in one of the“two hearts.\"South Gate isa landmark site of Urumqi,and the autonomous regional government is distributed near it. Since ancient times,South Gate has been Urumqi's commercial, cultural,and financial center; thus,South Gate is selected as the compression center of this study.As early as the 192Os,the ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/41c17a3ac474ea8209863bf416e21406f342117a309bb007d5e0badb7ac51aa0.jpg",
+        "img_caption": [
+            "Fig.2.(Color) Sketch map of the Urumqi light rail stations, light rail line and business center. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Nanguan area south of South Gate formed a business street,and the Shidazi area in the north not far from South Gate was the business center of Urumqi. There were human markets,horse markets, day markets,night markets,shops of merchants of variousnationalities, and trading companies of Russian merchants.Since the reform and opening up,especially recently,the business district of South Gate has been further expanded.In 2OO3,the International Bazaar began to operate,and it became Urumqi's business and tourism center with increasingly more guests from around the world. The number of visitors reached 671,OOO in July 2O16,with a daily number of more than 33,OoO people who arrived mainly on public transport (Zang 2O16).It is difficult to park a car and obtain car rides near the International Bazaar,and traffic congestion is very severe, which to some extent affects tourists'choice of transportation to the International Bazaar (Erbiyik et al. 2012). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The design speed of light rail is $8 0 ~ \\mathrm { k m / h }$ .However, considering theaccelerationand deceleration between stations,the actual travel speed is lower than the design speed.The performance and standards of subways and lines in the metro cities in China,such as Shanghai,Beijing,Nanjing,Shenzhen,and Hangzhou,are a maximum speed in operation of $8 0 ~ \\mathrm { k m / h }$ and an average speed of generally $3 0 { - } 4 0 ~ \\mathrm { k m / h }$ 、Therefore，this paper uses $4 0 ~ \\mathrm { k m / h }$ when calculating the speed of light rail and assumes that the average time length of a stop at each station is $4 0 \\mathrm { ~ s ~ }$ (Huaxia Latitude Network 2012). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This paper's light rail plan originates from the Urumqi Rail Office (Urumqi City Rail Group).The research area includes the downtown region of Urumqi,with an area of $1 { , } 4 3 5 \\ \\mathrm { k m } ^ { 2 }$ .The downtown area comprises the eight functional areas of the Tianshan District,Shayibak District,Hi-tech District (New Urban Area), Shuimogou District,Midong District，Economic Development District (Toutunhe District),and North New District.In the north, the downtown area borders Wuyi Farm， Anningqu Township, Gumudi Township,and the Lucaogou Township administrative boundary.In the south,the downtown area borders the administrative boundary of the Tianshan District.In the east and west, the downtown area borders the outer ring of the planned highway. The downtown area also includes the section of Changji City (which is located northwest ofUrumqi) that is covered bylight rail. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "TimeDistanceCalculationandConversion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "According to a formula,we calculate the time distance from South Gate to the end of each line (time to arrive at destination) (Table 1).The time and distance reserves two decimal fractions while computing. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To give the space compression of time distance a more intuitive expression in the map,we use the actual speed of a city car, $2 0 ~ \\mathrm { k m / h }$ ，as the reference speed.To compare time distance and actual space distance,we convert the time to arrive at a station to the time distance in meters.The calculation method is ( $\\mathrm { Y u }$ et al. 2013) ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD T _ { i } = D S _ { 0 } \\times \\frac { T _ { i } } { T _ { 0 } } \\quad ( i = 1 , 2 , 3 \\dots , n )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $D S _ { 0 } =$ car-driving distance between two locations in the city; and $T _ { 0 } =$ average required time for $D S _ { 0 }$ .Therefore, ${ D S _ { 0 } } / { T _ { 0 } }$ is the actual car speed in the city.After conducting on-site tests with taxis at different times in the city,we set this value at $2 0 ~ \\mathrm { k m / h }$ ： $D T _ { i }$ is the space conversion result of the time distance from South Gate to eachdestination,and $\\boldsymbol { T } _ { i }$ is the time from South Gate to each station. To more intuitively show the trend of the narrowing time distance of intracity traffic after the completion of the light rail and to reasonably compare time distance with space distance,we calculate the time distance between the South Gate station and each station after the formation of all light rail lines according to the formula (Table 1). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Time Distance Map Making ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We use locations $i$ and $j$ as examples.The geographical coordinates of the two locations are $\\left( { x _ { i } , y _ { i } } \\right)$ and $( x _ { j } , y _ { j } )$ ,respectively. The time distance that is formed by a given traffic pattern is $T _ { i j }$ ，and the space conversion result of the time distance is $D T _ { i j }$ . The mathematical process for the visualized expression is as follow $\\mathrm { \\Delta Y u }$ et al. 2013). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The vector is ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { a } _ { i j } = ( x _ { j } - x _ { i } , y _ { j } - y _ { i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The direction vector is ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { e } _ { i j } = \\left( \\frac { x _ { j } - x _ { i } } { \\sqrt { ( x _ { j } - x _ { i } ) ^ { 2 } + ( y _ { j } - y _ { i } ) ^ { 2 } } } , \\frac { y _ { j } - y _ { i } } { \\sqrt { ( x _ { j } - x _ { i } ) ^ { 2 } + ( y _ { j } - y _ { i } ) ^ { 2 } } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "With $i$ as a starting point, $\\mathbf { e } _ { i j }$ as the direction vector, and the norm of the vector as $D T _ { i j }$ ，we can determine the time distance $j ^ { \\prime } ( x _ { j } ^ { \\prime } , y _ { j } ^ { \\prime } )$ from location $j$ to the actual location $i$ .The line segment between $i$ and $j ^ { \\prime }$ in the map is the time distance between the two points. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The previous step forms the corresponding relationship of $j$ and $j ^ { \\prime }$ .Now we can use the Rubbersheet method of the ArcGIS software to stretch the map layers with $j$ as the starting point and $j ^ { \\prime }$ as the ending point. By repeating the previous operation, we obtaina time distance map (Figs.3 and 4).In Fig.3,the starting points of the vectors on the original light rail sites and the end of vectors to the displacement of position are shown. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Analysis ofthe Spatial Transformation Resultsof the TimeDistance ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Overall, the time and the spatial distance maps have varying degrees of compression.Northwest of the central point and Lines 3 and7 in the north of the city have a greater degree of and more obvious compression.The terminal stations of Lines 1-3 in the south are Santunbei, the Border Control Bureau,and No.12 Middle School.Northeast and southeast of the research scope have a smaller degree of and less obvious compression.Several business districts have changed location and shape.It is worth noting that because stations are selected as only the center of gravity during the mapping process,namely, that the“surface”is converted to a “point,” this time map can represent only the characteristics of space-time compression,not all the points’actual time distance. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Discussion:Analysis of the Influence of Light Rail on the Urban Structure and Business Districts ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Based on the time distance map and Urumqi's business districts, this paper analyzes the light rail's influence on the study area after its completion. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "AnalysisoftheLightRailStations ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The actual distance between each station and the center point is $D _ { i }$ and the converted time distance of each station is $D T _ { i }$ . This paper establishes the relationships among $D _ { i } , D T _ { i } , D _ { i } ,$ and $D _ { i } - D T _ { i }$ and conducts linear fitting.The relationship between $D _ { i }$ and $D T _ { i }$ is $y = 0 . 6 7 6 8 x$ (Fig.5).We find that with an increase in the distance from the stations, $D T _ { i }$ shows a significant linear increase,which indicates that the stations that are closer to the center still have a traffic advantage,but not all $D T _ { i }$ increases with an increase of $D _ { i }$ .Some individual stations improve traffic accessibility with the light rail. The relationship between $D _ { i }$ and $D _ { i } - D T _ { i }$ is $y = 0 . 3 2 3 2 x$ (Fig.6).With an increase in the distance from the stations, $D _ { i } - D T _ { i }$ also shows a significant linear increase,which indicates that the light railwayplays a more obvious role when improving the traffic accessibility of the stations that are far away from the center,but we cannot rule out the more obvious advantages of some points. $( D _ { i } - D T _ { i } ) / D _ { i }$ is the compression ratio.This ratio fluctuates and compresses approximately $3 5 \\%$ in the end (Fig.7),which shows that the compression degree of the time distance has no obvious linear relationship with the actual distance but reachesa stable value in the end. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This result occurs because some stations are affected by the number of transfer stations and can only be reached after two transfers,and some stations can only be reached after multiple stops, which requires more time than driving cars,and the time that is saved by the light railis offset.However,the light rail has the advantage of not being affected by bad weather, traffic jams,parking problems,and other uncontrollable factors.Thus,the comparison here is only relative and doesnot mean that the traffic around these sites is deteriorating. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ce5a6304ee4c0f0098d730b471848e132fd6428ce29ba08869657bbe434e2ec9.jpg",
+        "table_caption": [
+            "Table1.Time required to arrive at each station from South Gate "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\"></td><td rowspan=\"2\">Distance from South Gate (m)</td><td rowspan=\"2\">Number of stations in between</td><td rowspan=\"2\">Time of</td><td rowspan=\"2\">Time to arrive at destination</td><td rowspan=\"2\">Space conversiol of time distance</td></tr><tr><td>Number</td><td>Station</td></tr><tr><td>1</td><td>Changjixi</td><td>45,347.02</td><td>28</td><td>transfer 1</td><td>(min) 89.69</td><td>29,895.73</td></tr><tr><td>2</td><td>Zhongshan Road</td><td>43,501.84</td><td>27</td><td>1</td><td>86.25</td><td>28,750.92</td></tr><tr><td>3</td><td>Changji</td><td>42,020.37</td><td>26</td><td>1</td><td>83.36</td><td>27,787.96</td></tr><tr><td>4</td><td>Lvzhou Road</td><td>40,631.76</td><td>25</td><td>1</td><td>80.61</td><td>26,871.43</td></tr><tr><td>5</td><td>Wuyiwulian</td><td>37,342.91</td><td>24</td><td>1</td><td>75.01</td><td>25,004.79</td></tr><tr><td>6</td><td>Wuyijiulian</td><td>36,104.44</td><td>23</td><td>1</td><td>72.49</td><td>24,163.33</td></tr><tr><td>7</td><td>Sanpingsanlian</td><td>34,926.47</td><td>22</td><td>1</td><td>70.06</td><td>23,352.12</td></tr><tr><td>8</td><td>Zhengda Husbandry</td><td>33,368.18</td><td>21</td><td>1</td><td>67.05</td><td>22,350.76</td></tr><tr><td>9</td><td>Sanping New District</td><td>32,165.63</td><td>20</td><td>1</td><td>64.58</td><td>21,527.26</td></tr><tr><td>10</td><td>Xijiao Electric Power Bureau</td><td>30,765.64</td><td>19</td><td>1</td><td>61.82</td><td>20,605.04</td></tr><tr><td>11</td><td>Tiancai Science Park</td><td>29,048.69</td><td>18</td><td>1</td><td>58.57</td><td>19,524.35</td></tr><tr><td>12</td><td>Airport</td><td>23,396.58</td><td>17</td><td>0</td><td>46.43</td><td>15,476.07</td></tr><tr><td>13</td><td>Jiuyunsi</td><td>20,543.90</td><td>16</td><td>1</td><td>44.48</td><td>14,827.50</td></tr><tr><td>14</td><td>No.5 Middle School of Railway Bureau</td><td>18,428.05</td><td>15</td><td>1</td><td>40.64</td><td>13,547.36</td></tr><tr><td>15</td><td>Hebin Residential Area</td><td>17,001.54</td><td>14</td><td>1</td><td>37.84</td><td>12,611.88</td></tr><tr><td>16</td><td> Municipal Administrative College</td><td>15,911.12</td><td>13</td><td>1</td><td>35.53</td><td>11,844.45</td></tr><tr><td>17</td><td>Botanical Garden</td><td>14,884.26</td><td>12</td><td>0</td><td>30.33</td><td>10,108.80</td></tr><tr><td>18</td><td>Normal University for Nationalities</td><td>16.055.37</td><td>13</td><td>1</td><td>35.75</td><td>11,916.57</td></tr><tr><td>19</td><td>Liangxiao</td><td>14,062.97</td><td>10</td><td>1</td><td>30.76</td><td>10,253.71</td></tr><tr><td>20</td><td> Xinjiang Normal University</td><td>13,390.37</td><td>9</td><td>1</td><td></td><td>9,695.19</td></tr><tr><td>21</td><td>Division of Motor Vehicles</td><td>14,961.68</td><td>10</td><td>2</td><td>29.09</td><td>11,703.06</td></tr><tr><td>22</td><td>Diwopudong</td><td>20,754.89</td><td>16</td><td>0</td><td>35.11 41.80</td><td></td></tr><tr><td>23</td><td> Xuanrendun</td><td>18,250.36</td><td>15</td><td>0</td><td>37.38</td><td>13,933.00 12,458.51</td></tr><tr><td>24</td><td>Bureau of Reclamation</td><td>17,236.05</td><td>14</td><td>0</td><td>35.19</td><td>11,729.14</td></tr><tr><td>25</td><td>Machinery Plant</td><td></td><td></td><td>0</td><td></td><td></td></tr><tr><td>26</td><td>Sports Centre</td><td>16.021.70 13,605.94</td><td>13</td><td>0</td><td>32.70</td><td>10,899.74</td></tr><tr><td>27</td><td>Railway Bureau</td><td>12,341.62</td><td>11</td><td>0</td><td>27.74</td><td>9,247.42</td></tr><tr><td>28</td><td>Xiaoxigou</td><td></td><td>10</td><td>0</td><td>25.18</td><td>8,393.03</td></tr><tr><td>29</td><td></td><td>11,111.14</td><td>9</td><td></td><td>22.67</td><td>7,555.57</td></tr><tr><td>30</td><td>Dazhaigou</td><td>9,790.06</td><td>8</td><td>0</td><td>20.02</td><td>6,672.81</td></tr><tr><td>31</td><td>Balou</td><td>7,586.51</td><td>6</td><td>0</td><td>15.38</td><td>5,126.59</td></tr><tr><td></td><td>Wangjiaqu</td><td>5,938.91</td><td>5</td><td>0</td><td>12.24</td><td>4,080.57</td></tr><tr><td>32</td><td>Hualian Vocational School</td><td>5,461.63</td><td>4</td><td>0</td><td>10.86</td><td>3,619.70</td></tr><tr><td>33</td><td>China Mobile</td><td>4,482.09</td><td>3</td><td>0</td><td>8.72</td><td>2,907.71</td></tr><tr><td>34</td><td>Nanhu Plaza</td><td>3,561.13</td><td>22</td><td>0</td><td>6.68</td><td>2,225.01</td></tr><tr><td>35</td><td>1-7 Transfer</td><td>2,981.36</td><td></td><td>0</td><td>5.81</td><td>1,935.13</td></tr><tr><td>36</td><td>North Gate</td><td>1,101.08</td><td>0</td><td>0</td><td>1.65</td><td>550.54</td></tr><tr><td>37</td><td>South Gate</td><td>0.00</td><td></td><td>0</td><td>0.00</td><td>0.00</td></tr><tr><td>38 39</td><td>Erdaoqiao</td><td>1,349.71</td><td>0</td><td>0</td><td>2.02</td><td>674.85</td></tr><tr><td></td><td>Xinjiang University Santunbei</td><td>2,590.23</td><td>1</td><td>0</td><td>4.55</td><td>1,517.34</td></tr><tr><td>40</td><td>Xinxing Street</td><td>3,500.12</td><td>2</td><td>0</td><td>6.58</td><td>2,194.51</td></tr><tr><td>41</td><td></td><td>2,268.64</td><td>1</td><td>0</td><td>4.07</td><td>1,356.54</td></tr><tr><td>42 43</td><td>Wuyishilian Majiangzhuang</td><td>38,945.47</td><td>19</td><td>0</td><td>71.08</td><td>23.694.96</td></tr><tr><td>44</td><td>Wuyisilian</td><td>37,605.05</td><td>18</td><td>0</td><td>68.41</td><td>22.802.52</td></tr><tr><td>45</td><td>Sanpingbalian</td><td>35,875.81</td><td>17</td><td>0</td><td>65.15</td><td>21,715.68</td></tr><tr><td>46</td><td>Sanpingqingnianlian</td><td>33,296.71 31,784.28</td><td>15</td><td>0</td><td>59.95</td><td>19,981.69</td></tr><tr><td>47</td><td>Sanpingwulian</td><td>30,310.07</td><td>14</td><td>0 0</td><td>57.01</td><td>19,003.25</td></tr><tr><td>48</td><td>Wangjiagou</td><td>22,659.05</td><td>13</td><td>0</td><td>54.13</td><td>18,043.92 13,996.19</td></tr><tr><td>49</td><td>West Railway Station</td><td></td><td>12</td><td></td><td>41.99</td><td>12,950.47</td></tr><tr><td></td><td> Henanzhuang</td><td>21,012.04</td><td>11</td><td>0</td><td>38.85</td><td></td></tr><tr><td>50 51</td><td></td><td>19,549.93 15,059.85</td><td>10</td><td>0</td><td>35.99</td><td>11,997.19</td></tr><tr><td>52</td><td>Mianma Mianmadong</td><td>13,897.43</td><td>9 8</td><td>0 0</td><td>28.59 26.18</td><td>9,529.93 8,726.49</td></tr><tr><td>53</td><td>Huashan Street</td></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/7c71e06ec1594420e4c1f7ddb19fd979690f32ebbe64abade5b5635b48bae675.jpg",
+        "table_caption": [
+            "Table1. (Continued.) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\"></td><td rowspan=\"2\">Distance from South Gate (m)</td><td colspan=\"2\">Number of stations in</td><td colspan=\"2\">Time to arrive</td></tr><tr><td>Number</td><td>Station</td><td>between</td><td>Time of transfer</td><td>at destination (min)</td><td>Space conversion of time distance</td></tr><tr><td></td><td>Erdaowan</td><td>2,184.33</td><td>2</td><td>0</td><td>4.61</td><td>1,536.61</td></tr><tr><td>63 64</td><td>Dawan</td><td>3,203.04</td><td>3</td><td>0</td><td>6.80</td><td>2,268.19</td></tr><tr><td>65</td><td>Border Control Department</td><td>4,218.20</td><td>4</td><td>0</td><td>8.99</td><td>2,997.99</td></tr><tr><td>66</td><td>Dairy Farm</td><td>15,608.37</td><td>10</td><td>1</td><td>33.08</td><td>11,026.41</td></tr><tr><td>67</td><td>Hengyi Road</td><td>14,141.59</td><td>9</td><td>1</td><td>30.21</td><td>10,070.79</td></tr><tr><td>68</td><td>Weiliu Road</td><td>12,796.33</td><td>8</td><td>1</td><td>27.53</td><td>9,175.94</td></tr><tr><td>69</td><td>Ergong Tower</td><td>11,813.64</td><td>7</td><td>1</td><td>25.39</td><td>8,462.38</td></tr><tr><td>70</td><td>Cotton Textile Warehouse</td><td>12,249.07</td><td>12</td><td>1</td><td>29.37</td><td>9,791.20</td></tr><tr><td>71</td><td>Railway Hospital</td><td>14,413.34</td><td>11</td><td>1</td><td>31.95</td><td></td></tr><tr><td>72</td><td>Tianran Si</td><td>13,288.60</td><td>11</td><td>1</td><td>30.27</td><td>10,651.12</td></tr><tr><td>73</td><td>Automobile City</td><td>10,753.16</td><td>8</td><td>2</td><td></td><td>10,088.75 9,154.36</td></tr><tr><td>74</td><td>Bajiahu</td><td>9,739.37</td><td>7</td><td>1</td><td>27.46</td><td></td></tr><tr><td>75</td><td>Exhibition Centre</td><td>10,531.89</td><td></td><td>1</td><td>22.28</td><td>7,425.24</td></tr><tr><td>76</td><td>Qidaowan</td><td>12,360.58</td><td>8</td><td>1</td><td>24.13</td><td>8,043.72</td></tr><tr><td></td><td>Lucaogou</td><td></td><td>9</td><td></td><td>27.54</td><td>91,80.29</td></tr><tr><td>77</td><td></td><td>15,775.69</td><td>10</td><td>1</td><td>33.33</td><td>11,110.07</td></tr><tr><td>78</td><td>Linchang</td><td>19,314.32</td><td>14</td><td>1</td><td>41.30</td><td>13,768.27</td></tr><tr><td>79</td><td>Fuel Depot</td><td>18.014.94</td><td>13</td><td>1</td><td>38.69</td><td>12,896.36</td></tr><tr><td>80</td><td>Sangongbei</td><td>16,683.26</td><td>12</td><td>1</td><td>36.02</td><td>12,008.29</td></tr><tr><td>81</td><td>Sangongnan</td><td>15,401.25</td><td>11</td><td>1</td><td>33.44</td><td>11,145.07</td></tr><tr><td>82</td><td>Tuanjie Residential Area</td><td>12,631.19</td><td>9</td><td>1</td><td>27.95</td><td>9,315.60</td></tr><tr><td>83</td><td>Gas Plant</td><td>11,306.72</td><td>8</td><td>1</td><td>25.29</td><td>8,431.14</td></tr><tr><td>84</td><td>Logistics Zone</td><td>10,047.39</td><td>7</td><td>1</td><td>22.74</td><td>7,579.25</td></tr><tr><td>85</td><td>Liyushan</td><td>8,041.84</td><td>6</td><td>1</td><td>19.06</td><td>6,354.25</td></tr><tr><td>86</td><td>Friendly Shopping Mall</td><td>5,046.50</td><td>4</td><td>1</td><td>13.24</td><td>4,412.14</td></tr><tr><td>87</td><td>Foreign Trading Company</td><td>3,811.94</td><td>3</td><td>1</td><td>10.72</td><td>3,572.64</td></tr><tr><td>88</td><td>Postal Office</td><td>2.975.36</td><td>2</td><td>1</td><td>8.80</td><td>2,932.12</td></tr><tr><td>89</td><td>Medicine Company</td><td>2,925.68</td><td>2</td><td>1</td><td>8.72</td><td>2,907.28</td></tr><tr><td>90</td><td>South Railway Station</td><td>3,899.71</td><td>3</td><td>1</td><td>10.85</td><td>3,616.52</td></tr><tr><td>91</td><td>Huochang</td><td>5,181.67</td><td>4</td><td>1</td><td>13.44</td><td>4,479.72</td></tr><tr><td>92</td><td>No.12 Middle School</td><td>6,660.99</td><td>5</td><td>1</td><td>16.32</td><td>5,441.60</td></tr><tr><td>93</td><td>Shangshahexi</td><td>19,492.80</td><td>13</td><td>1</td><td>40.91</td><td>13,635.29</td></tr><tr><td>94</td><td> Xinjiang Wujian</td><td>17,291.06</td><td>12</td><td>1</td><td>36.94</td><td>12,312.20</td></tr><tr><td>95</td><td>Sewage Plant</td><td>15,540.00</td><td>11</td><td>1</td><td>33.64</td><td>11,214.44</td></tr><tr><td>96</td><td>East Railway Station</td><td>14,415.37</td><td>10</td><td>1</td><td>31.29</td><td>10,429.91</td></tr><tr><td>97</td><td>Shisanjian</td><td>11,738.95</td><td>8</td><td>1</td><td>25.94</td><td>8,647.25</td></tr><tr><td>98</td><td>Baiwanzhuang</td><td>7,867.36</td><td>6</td><td>1</td><td>18.80</td><td>6,267.01</td></tr><tr><td>99 100</td><td>Yihaolijin</td><td>6,633.11</td><td>5</td><td>1</td><td>16.28</td><td>5,427.67</td></tr><tr><td>101</td><td>Erlianban</td><td>3,674.84</td><td>3</td><td>1</td><td>10.51</td><td>3,504.09</td></tr><tr><td></td><td>Maliaodi</td><td>5,541.80</td><td>3</td><td>1</td><td>13.31</td><td>4,437.56</td></tr><tr><td>102</td><td> Xishan Street</td><td>7,276.95</td><td>4</td><td>1</td><td>16.58</td><td>5,527.36</td></tr><tr><td>103</td><td>104 Tuan</td><td>8,401.21</td><td>5</td><td>1</td><td>18.94</td><td>6,311.72</td></tr><tr><td>104</td><td>Sidaocha</td><td>9,646.78</td><td>6</td><td>1</td><td>21.47</td><td>7,156.72</td></tr><tr><td>105 106</td><td>Xishanqiaoxi</td><td>11,563.08</td><td>7</td><td>1</td><td>25.01</td><td>8,337.09</td></tr><tr><td>107</td><td>Xishanqiaonan</td><td>14,015.69</td><td>8</td><td>1</td><td>29.36</td><td>9,785.62</td></tr><tr><td></td><td>Niumaohubei</td><td>17,476.02</td><td>9</td><td>1</td><td>35.21</td><td>11,738.01</td></tr><tr><td>108</td><td>Niumaohunan</td><td>19,963.25</td><td>10</td><td>1</td><td>39.61</td><td>13,203.85</td></tr><tr><td>109</td><td> Xishan</td><td>22,068.86</td><td>11</td><td>1</td><td>43.44</td><td>14,478.88</td></tr><tr><td>110</td><td>Xishannan</td><td>25,095.54</td><td>12</td><td>1</td><td>48.64</td><td>16,214.44</td></tr><tr><td>111</td><td>Zhongmiaochang</td><td>18,897.98</td><td>13</td><td>2</td><td>43.01</td><td>14,337.88</td></tr><tr><td>112 113</td><td>Guangai Chang</td><td>18,615.43</td><td>13</td><td>2</td><td>42.59</td><td>14,196.61</td></tr><tr><td>114</td><td>North Sewage Plant</td><td>18,794.77</td><td>13</td><td>2</td><td>42.86</td><td>14,286.27 15,667.97</td></tr><tr><td>115</td><td>Traffic School Shangshahe</td><td>21,113.71 22,539.89</td><td>14 15</td><td>2 2</td><td>47.00 49.81</td></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ee1187deefa385df473083476ebccd95f074204272c0cf056b9e6388b44ce13.jpg",
+        "img_caption": [
+            "Fig.3.(Color) Light rail time distance map (before shrink). "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "AnalysisoftheInfluenceandRegularityof the BusinessDistrictPattern ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The existing pattern of business district distribution is the point-axis distribution along the roads.Traffic nodes tend to form large business centers and spread out from the center point in circle layers. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We use the hierarchical cluster method of SPSS software (Fig. S1).The stations are divided into six levels based on the compression distance (Table 2).The International Main Business Centre,the International Business Sub-Centre, the Hongshan Business Centre,the Railway Station Business Centre,and Nanhu Business Centre are located in the traditional business district. The ExhibitionBusiness Centre,RailwayBureau Business Centre,and High Speed Rail Business Centre are on the second level,and Gumudi Business Centre is on the third level.There are no business centers in the fourth and fifth levels.Because of the integration of Urumqi and Changji City, Changji is also planned to connect to Urumqi through light rail in the future (Leading Group Office of Urumqi Light Rail Construction and Coordination 2O13).As aresult,Changji is treated as a special business center and is on the sixth level.The distribution of traditional business districts spreads out according to the shape of the traffic roads.The leveled distribution of new business districts is basically consistent with the leveled distribution of land transportation methods.However, certain individual stations are bypassed.These stations are located on the edge of business centers or are on the borderlines of multiple business centers,which pull on the business districts that they belong to.Some business districts extend to or overlap with the business districts ata higher or lower level,which causes internal division (e.g.,the Exhibition Business Centre and the International Business Subcentre).The formed subdistrict becomes another core of this business center or a new business center itself (Fig.8). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The survey data show that within urban areas,the average travel time with a bus is $3 1 \\ \\mathrm { m i n }$ ，withacaris $2 7 ~ \\mathrm { m i n }$ ，and on foot is $2 0 ~ \\mathrm { m i n }$ .In the current situation,the travel distance of most residents is approximately $4 { - } 5 \\mathrm { k m }$ and is considered short-range travel (Information Technology Co.Ltd.2015).After the completion of the light rail, the time distance will shorten,which will expand the scope of residents’activities and affect residents’decision-making regarding travel. Time distance will replace the traditional travel distance to become the new standard to measure residents’ travel. Leaving a residence to shop in distant business districts will be less dependent on land traffic congestion,but the distance will be calculated with the number of“stations.”The central business districts will be further strengthened,and new business districts will be more easily developed in the areas with a greater compression of the time distance. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e48126e0b47a6a932ca9bc6b984e7775df930e2e41df8c29df555bdd5d3d9cf2.jpg",
+        "img_caption": [
+            "Fig. 4.(Color) Light rail time distance map. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e9027329e582750ab9cac80e4933a80ca1617d62197e7f53cca61ef48f125773.jpg",
+        "img_caption": [
+            "Fig.5.(Color) Relation between $D _ { i }$ and $D T _ { i }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The areas around transfer stations are more conducive to the formation of business centers.By investigating several business centers,we find that the light rail stations are undoubtedly located at these business centers or on the edge of them or are crossovers that form transfer stations; transfer stations enhance the flow of people at these business centers and promote the improvement of business districts.Areas with intensive transfer stations are more likely to formlarge business centers.Combined with the level of compression,we analyze and predict that the areas that are near certain stations will form potential business centers in the future as follows. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d22437229c3c12e67c0c8d677302c26f49af0422a101b5f15f064f4c8efb5b1.jpg",
+        "img_caption": [
+            "Fig. 6.(Color) Relation between $D _ { i }$ and $D _ { i } - D T _ { i }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "No.12 Station is located at the airport,which is between Urumqi and Changji.A near-port business center will be created here to develop a near-port business district. Stations No.23,80, 112,17,19,and 2O are located north of the city to serve the pop ulation and the functional transfer of the old city.Large residential areas will be formed here in the future,and if the government relocates these areas,the development of business districts will be further promoted. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/5345254c8da3b4ebbdbe6bd7fa3c3624a96623ea09bc250fa231ff0ac9943b08.jpg",
+        "img_caption": [
+            "Fig.7.(Color) Relation between $D _ { i }$ and compression ratio. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Influence of the Urban Spatial Layout and a Countermeasure Analysis ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In the entire research area, the north, northwest,and east of the city demonstrate more obvious compression,whereas the south is not compressed,which is consistent with the recent urban planning concept ofUrumqi,namely to“connect in the east,deepen in the west,control in the south and expand in the north.”The business centers in the downtown area still have unparalleled regional advantages;however, convenient transportation increases the competition among business districts.The main business districts in Changji will compete with the Urumqi city area after the light rail transformation,which will shorten the distance between the two cities and is consistent with the regional policy of “integrating ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Urumqi and Changji.” The South Business Centre in the south of the city is building a maglev to connect to the downtown area. This maglev will greatly enhance the connection between the southern region and the downtown area.The North New District Business Centre in the north of the city does not have light rail stations;bus connection to the closest light rail stations should be added and increased in this area,and light rail planning in later planning stages should increase the extension of nearby lines. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Research with time distance mapping provides a new way of thinking of business district analysis.Time distance mapping can verify the existing business districts or the business districts with future development potential and predict the locations of new future business districts.From the time distance map ofUrumqi,we can tell that the areas along the light rail will become an important direction of urban expansion because they provide new space for urban development.Consequently,the pattern of Urumqi urban land use will be changed; the formation and development of new business cores,residential spaces,and industrial agglomeration areas will affect the space layout, development strength,and economic efficiency of the entire city's land use. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Convenient light rail transpiration improves the exchange of information between the areas along the rail lines and the downtown area.The construction of light rail will have an impact on how urban residents perceive space.Behavioral geography's study on spatial perception does not replace the analysis of land use's functional and social aspects,but it provides another interpretation of the relationship between man and his environment;it supplements the analysis of urban land use's functional and social aspects (Xu et al.2Oo9).Because the impact of various behavior constraints changes the output of the impression structure,the completion of light rail will have a structural impact on residents’ travel time perception; light rail will expand residents'activity space, increase their travel frequency,and shorten the travel time distance in terms of their intended space. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/1cedd33f739cd02df376a1479b1dda478daa67fe6fc311de19751e67571d4d9e.jpg",
+        "table_caption": [
+            "Table 2.The stations are divided into five levels based on the compression distance "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Number</td><td>Station</td><td>Compression district</td><td>Business districts it belongs to</td><td>Compression level classification</td></tr><tr><td>1</td><td>Jichangxi</td><td>15,451.29</td><td>Changji City</td><td>6th</td></tr><tr><td>42</td><td>Wuyishilian</td><td>15,250.51</td><td></td><td></td></tr><tr><td>43</td><td>Majiazhuang</td><td>14,802.52</td><td></td><td></td></tr><tr><td>2</td><td>Zhongshan Road</td><td>14,750.92</td><td>Changji City</td><td></td></tr><tr><td>3</td><td>Changji</td><td>14,232.41</td><td>Changji City</td><td></td></tr><tr><td>44</td><td>Wuyisilian</td><td>14,160.13</td><td></td><td></td></tr><tr><td>4</td><td>Lvzhou Road</td><td>13,760.32</td><td>Changji City</td><td></td></tr><tr><td>45</td><td>Sanpingbalian</td><td>13,315.02</td><td></td><td></td></tr><tr><td>46</td><td>Sanpingqingnianlian</td><td>12,781.03</td><td></td><td></td></tr><tr><td>5</td><td>Wuyiwulian</td><td>12,338.12</td><td></td><td>5th</td></tr><tr><td>47</td><td>Sanpingwulian</td><td>12,266.15</td><td>一</td><td></td></tr><tr><td>6</td><td>Wuyijiulian</td><td>11,941.11</td><td></td><td></td></tr><tr><td>7</td><td>Sanpingsanlian</td><td>11,574.34</td><td>一</td><td></td></tr><tr><td>8</td><td>Zhengda Husbandry</td><td>11,017.43</td><td></td><td></td></tr><tr><td>123</td><td>Midongshihuabei</td><td>10,809.94</td><td></td><td></td></tr><tr><td>9</td><td>Sanping New District</td><td>10,638.37</td><td>一</td><td></td></tr><tr><td>122</td><td>Midongshihua</td><td>10,182.60</td><td>一</td><td></td></tr><tr><td>10</td><td>Xijiao Electric Power Bureau</td><td>10,160.60</td><td>一</td><td></td></tr><tr><td>11</td><td>Tiancai Science Park</td><td>9,524.35</td><td></td><td>4th</td></tr><tr><td>121</td><td>Tiechanggoudong</td><td>9,396.50</td><td></td><td></td></tr><tr><td>110</td><td>Xishannan</td><td>8,881.10</td><td>一</td><td></td></tr><tr><td>48</td><td>Wangjiagou</td><td>8,662.86</td><td>一</td><td></td></tr><tr><td>120</td><td>Tiechanggouxi</td><td>8,464.77</td><td>一</td><td></td></tr><tr><td>49</td><td>West Railway Station</td><td>8,061.58</td><td>一</td><td></td></tr><tr><td>12</td><td>Airport</td><td>7,920.51</td><td>一</td><td></td></tr><tr><td>119</td><td>Zhenxing Street</td><td>7,896.28</td><td></td><td></td></tr><tr><td>109</td><td> Xishan</td><td>7,589.99</td><td></td><td></td></tr><tr><td>50</td><td>Henanzhuang</td><td>7,552.74</td><td>一</td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/e8cfa6b10546d7e286a57ef3f6717eed29f7882ee558768b97ff24c0d3041e88.jpg",
+        "table_caption": [
+            ""
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Table2. (Continued.)</td><td rowspan=\"2\">Compression</td><td rowspan=\"2\">Business districts it belongs to</td></tr><tr><td>Number</td><td>Station</td></tr><tr><td></td><td></td><td>district</td><td></td></tr><tr><td>117</td><td>Gumudidong</td><td>6,924.07</td><td>Gumudi Business Centre</td></tr><tr><td>22</td><td>Diwopudong</td><td>6,821.89 6,759.40</td><td></td></tr><tr><td>108</td><td> Niumaohunan</td><td></td><td></td></tr><tr><td>118</td><td>Dongshan</td><td>6,701.84</td><td></td></tr><tr><td>116</td><td>Gumudi</td><td>6,449.36</td><td>Gumudi Business Centre</td></tr><tr><td>115</td><td>Shangshahe</td><td>5,936.61</td><td>Gumudi Business Centre</td></tr><tr><td>93</td><td>Shangshahexi</td><td>5,857.51</td><td></td></tr><tr><td>23</td><td>Xuanrendun</td><td>5,791.85</td><td>1</td></tr><tr><td>107</td><td>Niumaohubei</td><td>5,738.01</td><td></td></tr><tr><td>13</td><td> Jiuyunsi</td><td>5,716.39</td><td>1</td></tr><tr><td>78</td><td>Lichang</td><td>5,546.05</td><td></td></tr><tr><td>51</td><td>Mianma</td><td>5,529.93</td><td>1</td></tr><tr><td>24</td><td>Bureau of Reclamation</td><td>5,506.91</td><td></td></tr><tr><td>114</td><td>Jiaotong School</td><td>5,445.74</td><td></td></tr><tr><td>52</td><td>Mianmadong</td><td>5,170.94</td><td></td></tr><tr><td>25</td><td>Machinery Plant</td><td>5,121.96</td><td>一</td></tr><tr><td>79</td><td>Fuel Depot</td><td>5,118.58</td><td>1</td></tr><tr><td>94</td><td> Xinjiang Wujian</td><td>4,978.87</td><td>一</td></tr><tr><td>14</td><td>No.5 Middle School of Railway Bureau</td><td>4,880.69</td><td>1</td></tr><tr><td>17</td><td>Botanical Garden</td><td>4,775.46</td><td></td></tr><tr><td>53</td><td>Huashan Street</td><td>4,765.22</td><td></td></tr><tr><td>80</td><td>Sangongbei</td><td>4,674.96</td><td></td></tr><tr><td>77</td><td>Lucaogou</td><td>4,665.62</td><td></td></tr><tr><td>66</td><td>Dairy Farm</td><td>4,581.96</td><td>1</td></tr><tr><td>111</td><td>Zhongmiaochang</td><td>4,560.10</td><td>一</td></tr><tr><td>113</td><td>North Sewage Plant</td><td>4,508.50</td><td>一</td></tr><tr><td>112</td><td>Guangai Chang</td><td>4,418.83</td><td>1</td></tr><tr><td>15</td><td>Hebin Residential Area</td><td>4,389.66</td><td></td></tr><tr><td>26</td><td>Sports Centre</td><td>4,358.53</td><td>Railway Bureau Business Centre</td></tr><tr><td>95</td><td>Sewage Plant</td><td>4,325.55</td><td></td></tr><tr><td>81</td><td>Sangongnan</td><td>4,256.18</td><td>1</td></tr><tr><td>106</td><td>Xishanqiaonan</td><td>4,230.07</td><td></td></tr><tr><td>18</td><td>Normal University for Nationalities</td><td>41,38.79</td><td></td></tr><tr><td>67</td><td>Hengyi Road</td><td>4,070.79</td><td>一</td></tr><tr><td>16</td><td> Municipal Administrative College</td><td>4,066.67</td><td></td></tr><tr><td>96</td><td>East Railway Station</td><td>3,985.46</td><td></td></tr><tr><td>27</td><td>Railway Bureau</td><td>3,948.59</td><td>Railway Bureau Business Centre</td></tr><tr><td>54</td><td>Ergong (2-4 Transfer)</td><td>3,820.42</td><td>High-Speed Rail Business Centre</td></tr><tr><td>19</td><td>Liangxiao</td><td>3,809.26</td><td></td></tr><tr><td>71</td><td>Railway Hospital</td><td>3,762.23</td><td>Railway Bureau Business Centre</td></tr><tr><td>20</td><td>Xinjiang Normal University</td><td>3,695.19</td><td></td></tr><tr><td>68</td><td>Weiliu Road</td><td>3,620.39</td><td></td></tr><tr><td>28</td><td>Xiaoxigou</td><td>3,555.57</td><td>Railway Bureau Business Centre</td></tr><tr><td>69</td><td>Ergong Tower</td><td>3,351.27</td><td></td></tr><tr><td>82</td><td>Tuanjie Residential Area</td><td>3,315.60</td><td></td></tr><tr><td>21</td><td>Division of Motor Vehicles</td><td>3,258.62</td><td>一</td></tr><tr><td>105</td><td>Xishanqiaoxi</td><td>3,225.98</td><td></td></tr><tr><td>72</td><td>Tianran Si</td><td>3,199.86</td><td>Railway Bureau Business Centre</td></tr><tr><td>76</td><td>Qidaowan</td><td>3,180.29</td><td></td></tr><tr><td>29</td><td>Dazhaigou</td><td>3,117.25</td><td>一</td></tr><tr><td>97</td><td>Shisanjian</td><td>3,091.70</td><td></td></tr><tr><td>55</td><td> Jiujiawan</td><td>2,916.33</td><td>一</td></tr><tr><td>83</td><td>Gas Plant</td><td>2.875.58</td><td></td></tr><tr><td>124</td><td>Daxigou</td><td>2,749.42</td><td></td></tr><tr><td>104</td><td>Sidaocha</td><td>2,490.06</td><td></td></tr><tr><td>75</td><td>Exhibition Centre</td><td>2,488.17</td><td>Exhibition Business Centre</td></tr><tr><td>84</td><td>Logistics Zone</td><td>2,468.14</td><td></td></tr><tr><td>30</td><td>Balou</td><td>2,459.92</td><td>International Business Sub-Centre</td></tr><tr><td>70</td><td>Cotton Textile Warehouse</td><td>2,457.87</td><td></td></tr><tr><td>56</td><td>Agricultural University</td><td>2,409.71</td><td></td></tr><tr><td>74</td><td>Bajiahu</td><td>2.314.13</td><td>Exhibition Business Centre</td></tr><tr><td>103</td><td>104 Tuan</td><td>2.089.50</td><td></td></tr><tr><td>57</td><td> Old Man City</td><td>2.055.47</td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/3630dfec9dc0d0cea9159368d2bb2b4fca3b83576b1d1fac291e59554db12edd.jpg",
+        "table_caption": [
+            "Table 2. (Continued.) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Number</td><td>Station</td><td>Compression district</td><td>Business districts it belongs to</td><td>Compression level classification</td></tr><tr><td>31</td><td>Wangjiaqu</td><td>1,858.35</td><td></td><td>1st</td></tr><tr><td>32</td><td>Hualian Vocational School</td><td>1,841.93</td><td></td><td></td></tr><tr><td>102</td><td>Xishan Street</td><td>1,749.59</td><td></td><td></td></tr><tr><td>85</td><td>Liyushan</td><td>1,687.59</td><td></td><td></td></tr><tr><td>98</td><td>Baiwanzhuang</td><td>1,600.35</td><td>Exhibition Business Centre</td><td></td></tr><tr><td>73</td><td>Automobile City</td><td>1,598.80</td><td></td><td></td></tr><tr><td>33</td><td>China Mobile</td><td>1,574.38</td><td></td><td></td></tr><tr><td>58</td><td>Nanchang Residential Area</td><td>1,511.42</td><td></td><td></td></tr><tr><td>34</td><td>Nanhu Plaza</td><td>1,336.12</td><td>Nanhu Business Centre</td><td></td></tr><tr><td>40</td><td>Santunbei</td><td>1,305.62</td><td></td><td></td></tr><tr><td>65</td><td>Border Control Department</td><td>1,220.21</td><td></td><td></td></tr><tr><td>92</td><td>No.12 Middle School</td><td>1,219.38</td><td></td><td></td></tr><tr><td>99</td><td>Yihaolijin</td><td>1,205.44</td><td></td><td></td></tr><tr><td>101</td><td>Maliaodi</td><td>1,104.23</td><td></td><td></td></tr><tr><td>39</td><td>Xinjiang University</td><td>1,072.89</td><td></td><td></td></tr><tr><td>35</td><td>1-7 Transfer</td><td>1,046.24</td><td>Hongshan Business Centre/Nanhu Business Centre</td><td></td></tr><tr><td>64</td><td>Dawan</td><td>934.85</td><td></td><td></td></tr><tr><td>41</td><td>Xinxing Street</td><td>912.10</td><td>Hongshan Business Centre</td><td></td></tr><tr><td>59</td><td>Nianzigou</td><td>753.71</td><td>Train Station Business Centre</td><td></td></tr><tr><td>91</td><td>Huochang</td><td>701.95</td><td></td><td></td></tr><tr><td>38</td><td>Erdaoqiao</td><td>674.85</td><td>The Main International Business Centre</td><td></td></tr><tr><td>63</td><td>Erdaowan</td><td>647.72</td><td></td><td></td></tr><tr><td>86</td><td>Friendly Shopping Mall</td><td>634.36</td><td>International Business Sub-Centre</td><td></td></tr><tr><td>36</td><td>North Gate</td><td>550.54</td><td>Main International Business Centre</td><td></td></tr><tr><td>60</td><td>Lijiaoqiao</td><td>419.87</td><td>Main International Business Centre</td><td></td></tr><tr><td>61</td><td>Autonomous Regional Government</td><td>379.39</td><td>Main International Business Centre</td><td></td></tr><tr><td>62</td><td>School of Education</td><td>326.17</td><td></td><td></td></tr><tr><td>90</td><td>South Railway Station</td><td>283.19</td><td>Train Station Business Centre</td><td></td></tr><tr><td>87</td><td>Foreign Trading Company</td><td>239.30</td><td>Hongshan Business Centre</td><td></td></tr><tr><td>100</td><td>Erlianban</td><td>170.75</td><td>Hongshan Business Centre</td><td></td></tr><tr><td>88</td><td>Postal Office</td><td>43.24</td><td>Hongshan Business Centre</td><td></td></tr><tr><td>89</td><td>Medicine Company</td><td>18.39</td><td>Train Station Business Centre</td><td></td></tr><tr><td>37</td><td>South Gate</td><td>0.00</td><td>Main International Business Centre</td><td></td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This study is illustrated by the example of Urumqi,and also hasreference significance for the other cities that are building light rail. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Between different levels of business districts:（1）Business districts are centered in the downtown area and distributed in circular shapes.The central business districts will be strengthened. Downtown business districts still have a regional advantage; considering competition, they should upgrade their service industries and develop different forms of business in combination with light rail stations,such as underground shops.(2) The districts on the edge will produce a centripetal force because of a shortened time distance.Light rail construction will greatly promote the development of business districts on the edge of business districts;these areas should improve their internal service industries to attract passengers. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Micro level within the specific business districts:(1） Some business districts will encroach on adjacent business districts,and business districts willhave internal differentiation.(2)New traffic nodes will form around transfer stations,the flow of people will increase,and the original business center layout will demonstrate micro changes.(3) Business centers that do not have light rail ac cess should strengthen their connection with the surrounding bus stations to compensate for their traffic disadvantages. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This study has several limitations.First, because the research scalecovers the city and surrounding area, some areas’time and spatial distances do not show obvious compression on this scale. Second,in the time distance mapping,the selected stations represent a certain area,but the number of sample“points”depends on the light rail stations.The obtained time distance map can only represent time and space compression,not the actual time distance of all points.Third,this study selects the South Gate station in the old city as the center point of compression; the new city planning proposes the building of double centers.If the research is continued,it can select a second compression point to observe the influence of the railway transportation business center.Fourth,because this study targets the time-space compression that light rail causes on urban traffic,it does not conduct an in-depth study on other transportation methods and the areas without light rail access.Fifth, this article is based on group research.Kwan et al.developed a geographical narration method based on GIS in the application of spatial and temporal behavior research,which took a behavior mainbody as its object to analyze its daily travel behavior.It fused qualitative analysis such as social culture and subjectivity (Kwan 2008，2013；Kwan and Ding 2008；Kwan et al. 2015). With the progression of the Urumqi subway construction process and the improvement of infrastructure,there is still much room for the further compression of time distance within the city.More feature differentiation with “space distance’will appear; the distribution of the urban population and business districts will also demonstrate new characteristics.We hope that these new features will attract further attention and research commitment from more geographers. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/18500a05f24591b778aa932874d0cb335fc6f4439e8cd8352e0f8fe4027eae8e.jpg",
+        "img_caption": [
+            "Fig.8.(Color) Local contraction. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Natural Science Foundation of China (No.41571159).The authors sincerely thank the reviewers and editors.Ting Chang and Degang Yang designed the research; Ting Chang,Yang Yu and Guiling Wang performed the research;Ting Chang,Jinwei Huo and Chuanhe Xiong analyzed the data;all authors wrote the paper.All authors have read and approved the final manuscript. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Supplemental Data ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Fig. S1 isavailable online in the ASCE Library(www .ascelibrary.org). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Brown, S.1989.“Retail location theory: The legacy of Harold Hotelling.\" J.Retail. 65 (4): 450-470. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Bryan,D.199O.“Natural'and ‘improved'land in Marx's theory of rent.\" Land Econ. 66 (2):176-181.https://doi.org/10.2307/3146367.   \nCervero,R.1992.Land market impactsofurbanrail transit and joint development:An empirical study of rail transit in Washington,DC andAtlanta.Berkeley,CA:Univ.of California Transportation Center.   \nCervero,R.1998.The transit metropolis:A global inquiry，100-102. Washington,DC:Island Press.   \nChai,Y.1998.“The origin of time geography: The main concepts and their applications.” Sci. Geog. Sinica 18(1):70-77.   \nChen,H.2o03.Study on time map of the Macao special administrative region.Guangzhou,China: South China Normal Univ.   \nDijst,M.,and V. Vidakovic.1997.“Individual action space in the city.\" In Activity-based approaches to travel analysis.Washington,DC: National Academies of Sciences,Engineering,and Medicine.   \nEllegard,K.1999.“A time-geographical approach to the study of everyday life of individuals—A challenge of complexity.”GeoJournal 48(3): 167-175. https://doi.0rg/10.1023/A:1007071407502.   \nEllegard,K.,and U. Svedin. 2012.“Torsten Hägerstrand's time-geography as the cradle of the activity approach in transport geography.’J. Transp. Geogr. 23(1):17-25.https://doi.org/10.1016/j.jtrangeo.2012.03.023.   \nErbiyik,H.,S.Ozcan,and K.Karaboga.2012.“Retail store location selection problem with multiple analytical hierarchy process of decisionmaking an applicationin Turkey.”Procedia Soc.Behav.Sci.58: 1405-1414. https://doi.org/10.1016/j.sbspro.2012.09.1125.   \nFerbrache,F.，and R.D.Knowles.2O17.“City boosterism and placemakingwithlightrail transit:A critical reviewoflightrail impacts on city image and quality.\"Geoforum 8O:103-113.https://doi.org/10 .1016/j.geoforum.2017.01.013. .org/10.1016/j.tra.2010.11.002.   \nHadas，Y.，and P. Ranjitkar.2012.“Modeling public-transit connectivity with spatial quality-of-transfer measurements.”J. Transp.Geogr. 22 (2):137-147. https://doi.org/10.1016/j.jtrangeo.2011.12.003.   \nHagerstrand,T.1970.“What about people in regional science?” Pap. Reg. Sci. 24 (1): 7-24.   \nHägerstrand,T.1974.“Impact of transport on the quality of life.”In Proc, 5th Int. Symp.on Theory and Practice in Transport Economics, Washington, DC: National Academies of Sciences, Engineering,and Medicine.   \nHägerstrand,T.1975.Space,time and human conditions. In Dynamic allocation of urban space,edited by A. Karlqvist,L. Lundqvist, and F. Snickars,3-12.Famborough,UK:Saxon House.   \nHägerstrand,T.1982.“The impact of social organization and environment upon the time-use of individuals and households.’ Internal structure of the city,2nd ed.,edited byL.S.Bourne.Oxford, UK: Oxford University Press.   \nHagerstrand, T. 1985.“Time-geography: Focus on the corporeality of man, society,and environment.”The science and praxis of complexity, 193-216. Tokyo: United Nations Univ.   \nHallin, P. O. 1991. “New paths for time-geography?\" Geografiska Annaler Series B,Human Geogr. 73 (3): 199-207. htps://doi.org/10.1080 /04353684.1991.11879625.   \nHuang,L.2Oo3.A preliminary study of urban time structure—A case study of Shenzhen.Guangzhou,China: South China Normal Univ.   \nHuaxia Latitude Network.2O12.“How many minutes does it take to get to the stations by subway line one? Simulate the‘timetable'for reference.\" Accessed June 6，2016. http://www.huaxia.com/ztlx/zjxw/2012/09 /3000784.html.   \nHurst,N.B.,and S.E.West.2O14.“Public transit and urban redevelopment: The effect of light rail transit on land use in Minneapolis, Minnesota.’Reg. Sci.Urban Econ. 46 (1):57-72.https://doi.org/10 .1016/j.regsciurbeco.2014.02.002.   \nInformation Technology Co., Ltd. 2015. Urumqi comprehensive transport planning (2015-2030). Beijing: Information Technology Co.,Ltd.   \nKasraian,D.，K. Maat,D. Stead,and B.van Wee.2016.“Long-term impacts of transport infrastructure networks on land-use change: An international review of empirical studies.”Transp.Rev.36(6): 772-792. https://doi.org/10.1080/01441647.2016.1168887.   \nKnowles,R.D.,and F.Ferbrache.2016.“Evaluation of wider economic impacts of light rail investment on cities.’J. Transp. Geogr. 54: 430-439. https://doi.org/10.1016/j.jtrangeo.2015.09.002.   \nKuby,M.,A.Barranda,and C.Upchurch. 2O04.“Factors influencing lightrail station boardings in the United States.”Transp.Res.Part APolicy Pract. 38 (3): 223-247. https://doi.org/10.1016/j.tra.2003.10.006.   \nKwan，M. P. 2Oo8.“From oral histories to visual narratives: Representing the post-September 11 experiences of the Muslim women in the USA” Soc.Cult. Geogr.9 (6): 653-669.htps://oi.org/10 .1080/14649360802292462.   \nKwan,M.P.2012.“How GIS can help address the uncertain geographic context problem in social science research.\"Ann. GIS 18 (4):245-255. https://doi.0rg/10.1080/19475683.2012.727867.   \nKwan,M. P.2013.“Beyond space (as we knew it): Toward temporally integrated geographies ofsegregation， health， and accessbility: Space-time integration in geography and GIScience.’Ann. Assoc. Am.Ge0gr. 103 (5): 1078-1086.https://doi.0rg/10.1080/00045608 .2013.792177.   \nKwan,M. P.,and G. Ding. 2008.“Geo-narrative: Extending geographic information systems for narrative analysis in qualitative and mixedmethod research.” Prof. Geogr. 60 (4):443-465.https://doi.org/10 .1080/00330120802211752.   \nKwan,M. P., D.Liu,and J. Vogliano. 2015.“Assessing dynamic exposure to air pollution.” In Space-time integration in geography and GIScience,283-300.New York: Springer.   \nKwan，M.P.，and J.Weber.2Oo3.“Individual accessibility revisited: Implications for geographical analvsis in the twentv-first centurv.\" tvU111y   \nKwan,M.-P. 2004.“GIS methods in time-geographic research: Geocomputation and geovisualization of human activity patterns.” Geografiska Annaler Series B, Human Geogr. 86 (4): 267-280. htps://oi.0org/10 .1111/j.0435-3684.2004.00167.x.   \nLeading Group Office of Urumqi Light Rail Constructionand Coordination.2013.Construction planning of urban rapid transit in Urumqi. Urumqi, China: Leading Group Office of Urumqi Light Rail Construction and Coordination.   \nLenntorp,B.1977.“Paths in space-time environments: A time-geographic study of movement possibilities of individuals.”Environ.Plann.A 9 (8): 961-972.   \nLenntorp,B.1999.“Time-geography—At the end of its beginning.” GeoJournal 48 (3): 155-158. https://doi.0rg/10.1023/A:1007067322523.   \nLiu,C., S. Erdogan,T. Ma,and F.W.Ducca.2016.“How to increase rail ridership in Maryland: Direct ridership models for policy guidance. J.Urban Plann. Dev. 142 (4): 04016017. htps://doi.org/10.1061 /(ASCE)UP.1943-5444.0000340.   \nMiller, H. J.1991.“Modelling accessibility using space-time prism concepts within geographical information systems.” Int. J. Geog. Inf. Sys. 5 (3): 287-301. https://doi.0rg/10.1080/02693799108927856.   \nMiller，H. J.20o5.“A measurement theory for time geography.” Geog. Anal. 37 (1): 17-45. https:/doi.org/10.1111/j.1538-4632.2005 .00575.   \nNeutens,T.,M.Delafontaine,D.M. Scott,and P.De Maeyer.2012.“A GIS-based method to identify spatiotemporal gaps in public service delivery.\" Appl. Geogr. 32 (2): 253-264. https://oi.org/10.1016/j.apgeog .2011.05.006.   \nNeutens,T.,T. Schwanen,and F. Witlox.2011.“The prism of everyday life: Towards a new research agenda for time geography.” Transp. Rev. 31 (1): 25-47. htps://doi.0rg/10.1080/01441647.2010.484153.   \nNeutens,T.,F.Witlox,and P. Demaeyer.2Oo7.“Individual accessibility andtravelpossibilities:A literaturereviewon timegeography.” Eur. J. Transp.Infrastruct. Res.7 (4): 335-352.   \nSekar, S.,and D. Gangopadhyay. 2O17.“Impact of rail transit on land use and development: Case study of suburban rail in Chennai.”J. Urban Plann.Dev.143 (2): 04016038.https://doi.0rg/10.1061/(ASCE)UP .1943-5444.0000375.   \nShaw, S.L.,and H. Yu. 2009.“A GIS-based time-geographic approach of studying individual activities and interactions in a hybrid physicalvirtual space.”J. Transp. Geogr.17 (2): 141-149. htps://doi.org/10 .1016/j.jtrangeo.2008.11.012.   \nTiry,C.2Oo3.“Hong Kong's future is guided by transit infrastructure.” Japan Railway Transp.Rev. 35:28-35.   \nTobler, W.R.1961. Map transformations of geographic space. Washington, DC: Univ. of Washington.   \nTopalovic,P., J. Carter,M. Topalovic,and G. Krantzberg. 2012.“Light rail transit in Hamilton:Health,environmental and economic impact analysis.\" Soc. Indic.Res.108 (2): 329-350. https://doi.org/10.1007/s11205 -012-0069-x.   \nUrumqi Commerce Bureau. 2014. Urumqi's commercial network planning (2014-202O). Urumqi, China:Urumqi Commerce Bureau.   \nXu,X. Q.,Y. Zhou,andY.Ning.2009. Urban geography Beijing: Higher Education Press.   \nYu, H. 2007.“Visualizing and analyzing activities inan integrated spacetime environment: Temporal geographic information system design and implementation.”Transp. Res. Rec.2024: 54-62. https://doi.org/10 .3141/2024-07.   \nYu，J.，W.Liu，andL.Wang.2013.“Analysisof $\\mathrm { C } _ { 2 } \\mathrm { C }$ E-commerce virtual business district based on time distance—A case study of Taobao's cosmetics retail in Beijing.\"Acta Geographica Sinica 68 (10): 1380-1388.   \nZang,R. 2O16.“The International Bazaar July tourists has received more than 670000 people.” Accessed July.10,2017. http://ews.iyaxin.com /content/2016-07/27/content_10105569.htm.   \nZeng,S.20o3.Study on the time map of tourism sites in Macao and their time-space relationship with the surrounding areas. Guangzhou, China: South China Normal Univ.   \nZhao,D. 2Oo3．Preliminary practice of time distance study in Guangzhou city.Guangzhou,China:South China Normal Univ.   \nZhu,Y.2O11.Study on the time distance of transportation in Fujian Province.Fuzhou, China:Fujian Normal Univ. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Zhu,Y.,J.You,and X.Li 2O1o.“Research on temporal distance map based on metacartography—A case study on passenger trains between Fuzhou and Shanghai.’J.Hangzhou Normal Univ. (Nat. Sci.Edition) 9(3): 231-236. ",
+        "page_idx": 13
+    }
+]

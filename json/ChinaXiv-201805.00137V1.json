@@ -1,0 +1,193 @@
+[
+    {
+        "type": "text",
+        "text": "松萝酸活性作用机理及其物种资源研究概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "牛东玲\\*，胡礼芳，马茜，石晶，白明生（宁夏大学生命科学学院，宁夏 银川750021)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：松萝酸是地衣中分布最广泛，含量最丰富的地衣酸之一，因早期作为抗生素而闻名于世。近 20 年来，有关松萝酸在抗菌、抗病毒、抗肿瘤等方面的活性作用机理不断有新的突破。研究揭示松萝酸主要通过影响细菌生物膜的形成、抑制细菌及病毒RNA和DNA 的合成从而达到抑制细菌和病毒的目的，通过诱导肿瘤细胞程序性凋亡及抑制肿瘤细胞DNA 的合成等途径，达到杀死肿瘤细胞的效果，并且松萝酸还具有抑制肿瘤细胞迁移的能力。但与此同时，松萝酸作为减肥营养补充剂而引发肝细胞线粒体功能障碍，进而导致肝脏损伤的作用也日益受到了科学界的关注。为更好的把握松萝酸资源研究开发的方向，本文对近 20 年来松萝酸在抗菌、抗病毒、抗肿瘤等活性方面的作用机理及肝脏毒方面的研究进行了归纳分析。截至目前，松萝酸在隶属于35个属的种里被报道有分布，其中大多数是枝状地衣，其次为叶状地衣，壳状地衣只有个别种里有。该文也对目前已报道的含有松萝酸的属种及有关影响松萝酸含量的环境因子的研究进行了全面的梳理，以期为富含松萝酸的优良种质资源的发掘和开展后续活性作用研究需要面对的松萝酸种质资源问题提供理论帮助。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：抗肿瘤活性，肝脏毒作用，作用机理，地衣，松萝酸资源",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Review on the bioactivity mechanism and species resources of usnic acid ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "NIU Dongling\\*，HU Lifang， MAQian， SHI Jing， BAI Mingsheng (Life Science School, Ningxia University, Yinchuan 75oO21,Ningxia, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Usnic acid is one of the most widely distributed and the most abundant compounds in lichens,it is rather well known as the antibiotic in the early stage. Due to its availability and easily isolated from many lichen species, many aspects of biological activity have been discovered.In the past 2O years,research reports on the active mechanism of usnic acid in antibacterial,antiviral, anticancer and other aspects have been keeping up with new breakthroughs. Research revealed usnic acid had antibacterial and antiviral effects by inhibiting biofilm formation of bacteria and synthesis of RNA and DNA, and usnic acid could kill tumor cells by inducing programmed apoptosis and inhibiting synthesis of DNA of tumor cells,furthermore, usnic acid had an ability of inhibiting tumor cell migration. But usnic acid as nutritional supplements for weight loss was found to trigger mitochondrial dysfunction in liver cells,and then to lead to liver damage, which has been paid more and more attention in the scientific community. In order to grasp the domestic and external research trends of usnic acid resources development, this paper focuses on a comprehensive analysis on antibacterial, antiviral, anticancer action mechanism and liver toxicity researches of usnic acid around the last two decades.To date,lots of lichen species subordinate to about 35 genera have been found to contain more or less usnic acid, most of these species with usnic acid are fruticose lichens,followed by folicose lichens,only very rare cruticose liches are found to contain usnic acid. Research reports on genera and species resources rich in usnic acid have been sort out comprehensively,and environmental factors affecting the content of usnic acid have been also summarized in detail in order to provide a theoretical basis for the discovery of potential resources rich in usnic acid and for solving the raw material problem needed for further study of activity. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: anticancer activity, liver toxicity, active mechanism, Lichen, usnic acid resources 1.前言 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "地衣是由共生菌（子囊菌或担子菌）和共生藻（或蓝细菌）形成的一个稳定的菌藻互利共生体，地衣体就相当于一个复杂的生态系统(Lumbsch，1998)。其中，地衣型共生菌起着主导性的作用，其在地衣体内合成了一类为地衣所特有的缩酚（羧）酸类化合物，这些化学成分往往积累在地衣体特定部位的皮层或髓层中，起着重要的生态功能(Nybakken&Gauslaa，2007)。截至目前，这些次生代谢产物对地衣共生体的生存和生长起到怎样的生态作用，我们还知之甚少。但是大量的实验研究已经证明，地衣体内的这些次生代谢产物对其它生物（动物和植物）具有多方面的生物活性和生理功能，已在日常用品、天然染料、保健品及药物中得到了广泛的应用(Molnar＆Farkas，2010）。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中，松萝酸是被研究的较为全面和应用比较广泛的化合物之一。它是一种二苯并呋喃类化合物。最早是由一位德国的科学家W.Knop在1844年分离得到，并于1933-1937年被人工合成(Alahmadi,2017)。在自然界中，松萝酸存在两个对映异构体，化学性质稳定，易溶于氯仿，难溶热乙醇和水。在不同的有机溶剂中，松萝酸呈现出不同的结晶形态，如在丙酮溶液中呈现黄色斜方棱柱结晶，在氯仿乙醇混合液或者苯溶液中则呈针形结晶。一般认为松萝酸仅限出现在地衣体内，是由地衣共生菌产生的次生代谢产物，但也有报道在植物致病真菌和非地衣型子囊菌中分离到了松萝酸(Bondarenko etal，1969；Sassa&Igarashi，2014)。由于松萝酸在地衣中分布广泛，并且易于分离纯化。因此自问世后，围绕松萝酸开展了一系列的生物活性研究，发现该化合物在抗氧化、抗细胞增殖及细胞毒、抗菌、抗病毒、抗炎等方面均具有显著的活性作用(Alahmadi,2017)。进入21 世纪以来，国外研究者逐渐将研究热点转向松萝酸活性作用机理研究。国内相比而言，研究工作还主要集中在松萝酸的活性作用，直到近几年才有研究者开始关注到其作用机理。伴随着松萝酸的活性开发及应用，跟随而来的就是其资源的获取和生产问题。本文拟就近二十年来国内外在松萝酸几个主要热点活性作用机理及物种资源方面的研究报道作一系统回顾，以期为开展国内松萝酸下一步的研究提供一定的思路。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.松萝酸的活性作用机理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1抗菌活性作用机理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "松萝酸的抗菌作用研究历史久远，在第一次世界大战期间就被作为一种有效的抗生素得到了广泛的应用。进入二十一世纪以来，松萝酸的抗菌活性依然是科学家们关注的焦点，并在探讨其抗菌功效的同时也致力于对其抗菌机理的研究。Safak等（2009）研究发现由 Usnea dasypoga 中分离得到的松萝酸具有抑制引起胃溃疡的幽门螺旋杆菌的活性，并且随着松萝酸浓度的增大，其抑菌活性呈相关性增长，而且松萝酸与克拉霉素有协同抑菌的效果。研究揭示松萝酸抑制革兰氏阳性菌的机理主要是通过抑制RNA和DNA的合成来发挥作用(Maciag-Dorszyhska et al，2014)。而松萝酸对于白色念珠菌的抑制作用，则主要是通过降低菌膜表面多糖的积聚，降低生物膜的厚度，从而抑制白色念珠菌生物膜的形成，达到抑制白色念珠菌的效果(Nithyanand et al，2015)。由枝状地衣 Usnea subfloridana 中分离得到的 L-(61)-松萝酸主要是通过破坏金黄色酿脓葡萄球菌的生物膜来抑制其毒性作用，并在剂量为 $1 0 0 0 2 \\mathrm { m g / k g }$ 体重范围以下，松萝酸对实验小鼠的肝脏没有任何损伤和不利的影响(Gupta et al，2012)。进一步的研究揭示松萝酸可以多靶点抑制金黄色酿脓葡萄球菌生物膜的形成，进而抑制其结合到寄主基质结合蛋白上，因此研究者们认为松萝酸有望被开发作为囊性纤维化感染疾病治疗的先导化合物(Pompilio etal，2016)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2抗病毒活性作用机理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "松萝酸对抗病毒的作用机制研究证明松萝酸对小鼠多瘤病毒的增殖具有潜在的抑制作用，其作用方式主要是通过大量抑制RNA的转录，间接抑制了病毒DNA 的复制，从而达到抑制病毒的目的(Campanella et al，2002)。研究也表明，松萝酸的对映异构体及其衍生物对于流感病毒 A(H1N1)pdm09 的活性作用存在差异， (-)-松萝酸的抗病毒活性高于（+）-松萝酸。但是当松萝酸的化学结构被修饰后，二者的活性作用却发生了反转，（+）-松萝酸的抗病毒活性高于(-)-松萝酸，对于这种活性作用的反转机制还有待进一步开展深入研究(Sokolov et al，2012)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3抗肿瘤活性作用机理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，松萝酸在体外抗多种癌细胞系的潜力和抗癌机理不断被发掘。郝凯华等（2015）曾对松萝酸抗肿瘤的作用进行了综合报道，本部分在其报道的基础上进一步完善补充了新的研究数据。研究显示松萝酸可以显著抑制H22肿瘤细胞的生长和血管生成，抑制血管内皮生长因子（VEGF）和碱性纤维母细胞因子(bFGF)的表达以及人脐静脉内皮细胞(HUVEC)的增殖。对 H22 肿瘤细胞生长和血管生成抑制作用的机制可能与松萝酸对VEGF 和 bFGF 的表达抑制作用有关(Hao etal，2016)。研究表明松萝酸体外特异性地杀死乳腺癌细胞主要是通过 ROS 介导的线粒体的凋亡途径来发挥作用（左舒婷，2016)。对于肺癌细胞的抑制作用，松萝酸主要是通过引发肺癌细胞 A549 周期中G0/G1期的阻滞而抑制细胞生长，并通过线粒体膜去极化诱导肺癌细胞的凋亡（Singhetal，2013）。从Ramalina farinacea 和 Cladonia foliacea中分离得到松萝酸的两个对映异构体，在体外可以杀死培养的中国地鼠肺成纤维细胞样细胞V79，人肺癌上皮样细胞A549 和人淋巴细胞的细胞株，表现出显著的细胞毒和细胞凋亡诱导作用(Koparalet al，2006)。在人类急性骨髓白血病 HL-60 细胞和慢性骨髓白血病 K562 细胞的抑制实验中，HL-60 细胞系表现的更为敏感，松萝酸明显地抑制 HL-60 细胞的生长，诱发细胞凋亡。其细胞的凋亡效应主要与抗调亡蛋白mclMcl-1的水平降低有关。松萝酸对两个细胞系中Mnk1/elF4E和Pim-1/4E-BP1 的信号传导作用均有抑制作用，松萝酸可能是一种潜在的 Pim-1 的抑制剂(Fan et al,2016)。松萝酸对前列腺癌PC-3M细胞的增殖作用是通过干扰DNA合成来达到抑制的效果（董玉等，2007)。松萝酸对前列腺癌细胞及黑色素瘤细胞除了具有抑制细胞增殖的作用外，还具有抑制肿瘤细胞迁移的能力，这使得松萝酸有望被用于针对肿瘤细胞转移级联反应过程的治疗(Galanty et al，2017)。截至目前的研究报道，松萝酸的抗癌机制主要是通过抑制肿瘤细胞血管的生成、诱导肿瘤细胞程序性凋亡、抑制肿瘤细胞DNA的合成及抑制肿瘤细胞迁移等途径最终达到杀死癌细胞的效果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4抗炎及抗氧化活性作用机理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "长松萝（Usnea longissima）在土耳其安纳托利亚地区被作为民间药，用于治疗胃溃疡。活性模型追踪实验结果发现主要是长松萝中的松萝酸对大鼠胃溃疡具有保护作用，这种保护作用被归因于松萝酸减少了组织的氧化损伤和中性粒细胞浸润的影响(Fanet al，2016;Galanty et al，2017;Koparal et al，2006)。目前的研究结果表明松萝酸的抗炎疗效主要是通过抑制 NF- $\\mathbf { \\nabla \\cdot } \\kappa \\mathbf { B }$ 的激活，增加抗炎细胞因子IL-10 和抗炎介质 HO-1的产生来下调 TNF-α、iNOS、COX-2、IL- $1 \\beta$ 、IL-6 基因的表达，从而达到抗炎的作用(Huang etal，2011;Huanget al， 2014; Jin et al，2008)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "另外一个有趣的实验结果揭示，由Xanthoparmelia farinosa 中提取的松萝酸对在UVB辐射下的人淋巴细胞中会呈现出抗氧化及促氧化的双功能活性，当在不同UVB 辐射量及不同浓度松萝酸条件下，这种截然相反的氧化作用就会被激活(Kohlhardt-Floehr et al,2010)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5肝脏毒作用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在美国，含有松萝酸的粗提物或者纯的松萝酸已经被作为减肥用膳食补充品而大量销售。但是，越来越多的实验研究发现松萝酸是一种强有力的肝脏毒素，能引发肝细胞的氧化应激和线粒体功能障碍，摧毁肝细胞的正常代谢过程，进而在病人体内引起肝中毒和急性肝衰竭(Durazo et al， 2004; Joseph et al，2009; Pramyothin et al， 2004; Yokouchi et al,2015)。因此，松萝酸是否应继续作为减肥用膳食补充品而受到了普遍的质疑，其在临床治疗中的安全剂量范围也需要进一步深入研究后被明确。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.松萝酸物种资源的研究",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "松萝酸最早是在1843 年由树花属（Ramalina）和松萝属(Usnea)中提取得到。现在已知的含有松萝酸的属主要有石蕊属（Cladonia），松萝属（Usnea）,茶渍属（Lecanora），树花属（Ramalina），扁枝衣属（Evernia），黄梅衣属（Xanthoparmelia），梅衣属（Parmelia），树发属（Alectoria)，赤星衣属(Haematomma)，岛衣属(Cetraria)等，特别是在石蕊属和松萝属含量较为丰富。松萝酸是这几个属区别于其它属的典型特征之一，但是这几个属在系统发育中亲缘关系较远，松萝酸在整个系统发育过程中也表现出不稳定性，很容易在种的发育进程中出现反复的现象。因此，关于松萝酸在分类学上的价值，对于不同的属种应辩证的看待，不能一概而论。但这也从另一个侧面说明，松萝酸一定是对地衣的生长和生存具有重要生态学价值的一类化合物，因而在历史的演化进程中，被机体选择性地保留了下来。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据对文献的统计，随着近年来人们对不同类群化学成分的研究，发现松萝酸在其它的一些属种中也有分布，主要属有Dimelaena,Everniopsis,Flavoparmelia,Flavopunctelia,",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Halecania，Hypotrachyna,Leprocaulon，Psiloparmelia 和 Relicina。在一些 种中如Arctoparmelia centrifuga， Biatora pallens ， Canoparmelia ecaperata ， C. concrescens ，Caloplaca carphinea, C. limitosa, C. cuyabense， C. stenospora， Cetraria nivalis，Cladinauncialis，Flavocetraria nivalis， Haematomma ochroleucum, Hypotrachyna sinuosa, Karoowiasaxeti,Rhizoplaca melanophthalma, Melanelixia fuliginosa, M. fuliginosa,M. elegantula, M.exasperata， M. olivacea， M. septentrionalis， Megalospora austropacifica， M. galapagoensis,Neuropogon sp., Parmotrema delicatulum,Psora rubiformis 也报道含有松萝酸(Blanco et al,2006; Eifler-lima et al， 2015; Grube & Winka 2002; Leavitt et al， 2011; Mcevoy et al， 2006;Miadlikowska et al，2014; Zhang et al，2016;刘栋等 2014)。显然,松萝酸在各种生长习性的地衣中均有分布，包括枝状地衣，叶状地衣及壳状地衣，物种资源丰富。但大量分布主要集中在枝状地衣，其次为叶状地衣，在壳状地衣类型中只是零星分布于个别种中。对于松萝酸在属种中的分布是否存在某种内在的决定因素，还有待进一步开展研究。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在不同地区，不同的属和种中，松萝酸在地衣体内的含量差异较大。Duman 等对分布在土耳其 Anatolia 地区地衣的研究发现，当地的地衣体内松萝酸的含量可达到干重的$6 . 4 9 \\%$ ，脐鳞属（Rhizoplaca）中松萝酸的含量约有干重的 $4 \\%$ ，树花属（Ramalina）中松萝酸的含量约有 $3 . 2 3 \\%$ (Dumanetal.2008)。分布在西藏林芝地区的长松萝（Usnealongissima）中松萝酸含量达到 $5 . 6 6 \\%$ （杨东升等，2007)。曾有报道从新疆天山地区采集的中国树花（Ramalina sinesis）和角石蕊（Cladoniacornutu）中测得松萝酸含量分别达到了 $1 8 . 3 2 \\%$ 和 $2 6 . 9 5 \\%$ （吐尔干乃义·吐尔逊等，2010；热衣木·马木提等，2010)。松萝酸在地衣体内含量的变化除了与属种有密切关系外，还与季节更迭、海拔、降雨量及温度等有密切的关系。在晚春和夏初，分布于南半球Patagonian heathland 的Flavocetraria nivalis 体内的松萝酸含量达到最高水平，约为干重的 $8 \\%$ ，在秋冬季则含量较低。松萝酸含量的这种季节变化显然是与环境因子如太阳辐射、温度条件等密切相关，在春夏季节，UV-B 的辐射是最大的（Bjerke etal，2005)。研究也证实自然界中紫外线会诱导松萝酸的合成和积累，UV-B 诱导石蕊属Cladonia spp.及 Xanthoparmelia stenophylla在皮层重新合成松萝酸，而松萝酸有吸收UV-B的功能，显然松萝酸的产生与自身的应激反应有关，产生松萝酸可以防止UV-B 对地衣体的伤害，具有光屏蔽的作用(BeGora&Fahselt 2001;Bjerke et al,2002，McEvoy et al,2006)。在尼泊尔卡斯基地区分布的Parmelia flexilis 体内松萝酸含量与分布区的海拔高度呈明显负相关关系，降雨量也对该种体内的松萝酸含量产生了一定的影响，高降雨量地区松萝酸的含量较低(Neupane etal,2017）。随着全球气候的变暖，地衣体内与碳代谢相关的一些次生代谢产物可能也会受到一定程度影响。模拟实验显示，Cladoniastellaris体内的松萝酸随气候箱中温度升高 $4 ^ { \\circ } \\mathrm { C }$ ，其含量增加了 $31 \\%$ （Asplund etal,2017）。松萝酸的这种变化有可能反过来又影响到该物种生态功能方面的作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.结论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "松萝酸自二战末开始被关注，直到目前在活性研究方面依然不断涌现出的研究成果，也进一步说明松萝酸是极具开发潜力和开发前景的一个天然先导化合物。但是，其在应用中出现的肝脏损伤等副作用，要求要进一步更深入地开展有关松萝酸作用机理的研究，进而确定松萝酸的安全使用范围及为下一步开发高效低毒的松萝酸药物提供帮助。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目前，随着对自然界中地衣新物种的不断发现和认识，含有松萝酸的地衣资源也在不断地被揭示，许多含有松萝酸的地衣资源已被开发成松萝酸粗提物或松萝酸纯品，并在保健品及药物等方面得到应用。但是，由于地衣生长缓慢的特性以及自然状态下代谢产物的低产率，导致无法商业化从自然资源中大量获取松萝酸。因此，要想更好的开发利用松萝酸，为人类所用。一方面需要继续深入开展大范围、多物种体内松萝酸含量水平影响因素水平及机理研究，另一方面则需要探索利用生物技术的手段，从含有松萝酸的地衣资源中优选资源优势种，开展在可控条件下获取松萝酸的研究。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ALAHMADI AA,2017.Usnic acid biological activity: history,evaluation and usage[J].Int JBasic Clin Pharmacol,6(12): 2752-2759.   \nASPLUND J, SIEGENTHALER A, GAUSLAA Y,2017. Simulated global warming increases usnic acid but reduces perlatolic acid in the mat-forming tericolous lichen Cladonia stellaris[J].Lichenologist,49 (3): 269- 274.   \nBJERKE JW,ELVEBAKK A,DOMINGUEZ E,et al,2O05.Seasonal trends in usnic acid concentrations of Arctic,alpine and Patagonian populations of the lichen Flavocetraria nivalis[J]. Phytochemistry,66(3): 337- 344.   \nBJERKEJW,LERFALL K,ELVEBAKK A,2002.Effects of ultraviolet radiation and PAR on the content of usnic and divaricatic acids in two arctic-alpine lichens[J].Photochem Photobiol Sci,1(9): 678-685.   \nBLANCOl O,CRESPO A,REE RH, et al,2006. Major clades of parmelioid lichens (Parmeliaceae,Ascomycota) and the evolution of their morphological and chemical diversity[J].Mol Phylogenet Evol,39(1): 52-69.   \nBONDARENKO BN,LYSENKO ZA，ROGOZHINA AP,et al，1969.Isolation of usnic acid from the actinomycete C-2167[J]. Mikrobiologija, 620-623.   \nCAMPANELLA L, DELFINA M,ERCOLE P, et al, 2002. Molecular characterization and action of usnic acid: a drug that inhibits proliferation of mouse polyomavirus in vitro and whose main target is RNA transcription[J]. Biochimie, 84: 329-334.   \nDONG Y,YUN,WANG HJ,et al,20O7.Biological effects of usnicacidon the proliferation of prostate cancer PC-30M cels[J]，Shenyang Army Med,20（1）:7-9.[董玉，于宁，王洪军，等,2007.松萝酸抑制前列 腺癌 PC-30M细胞增殖的生物学效应[J]，沈阳部队医药，20（1)：7-9.]   \nDUMAN DC,ARAS S,ATAKOL O,2008. Determination of usnic acid content in some lichen species found in Anatolia[J]. Journal of Applied Biological Sciences,2(3): 41-44.   \nDURAZA FA,LASSMAN C, HAN SH, et al,2004.Fulminant liver failure due to usnic acid for weight loss[J]. Am J Gastroenterol, 99(5): 950-952.   \nEIFLER-LIMA V, SPERRY A, SINBANDHIT S,et al,2O15. NMR spectral data of salazinic acid isolated from some species of Parmotrema[J]. Magn Reson in Chem, 38(6): 472-474.   \nFAN Y,HUANG M,CAO Y,et al,2016.Usnic acid is a novel Pim-1 inhibitor with the abilities of inhibiting growth and inducing apoptosis in human myeloid leukemia cells[J]. Rsc Adv, 6(29): 24091-24096.   \nGALANTY A, KOCZURKIEWICZ P, WNUK D,et al, 2017. Usnic acid and atranorin exert selective cytostatic and anti-invasive efects on human prostate and melanoma cancer cels[J]. Toxicol in Vitro,40: 161-169.   \nGRUBE M& WINKA K,2O02.Progress in understanding the evolution and clasification of lichenized ascomycetes[J].Mycologist,16(2): 67-76.   \nGUPTA VK,VERMA S,GUPTA S,2012.Membrane-damaging potential of natural L-(-)-usnic acid in Staphylococcus aureus[J]. Eur JClin Microbiol,31(12): 3375-3383.   \nHAO KH, HAN T,HU PB,2016.Growth inhibitory effect of usnic acid on H22 tumor cells on mice and underlying mechanism[J].China Pharmacist,19(1):29-32.[郝凯华，韩涛，胡鹏斌,2016.松萝酸抑制小 鼠 H22 肿瘤生长及作用机制研究[J]，中国药师,19（1）：29-32.]   \nHAO KH, HAN T, HU PB,2015. Research progress of anticancer mechanism of usnic acid[J]. Mod Oncol, 23 （23)：3535-3537.[郝凯华，韩涛，胡鹏斌,2015.松萝酸抗肿瘤作用的研究进展[J]，现在肿瘤医学， 23(23): 3535-3537.]   \nHUANG ZJ,TAO JY,RUAN JL,et al, 2014.Anti-inflammatory effects and mechanisms of usnic acid,a compound firstly isolated from lichen Parmelia saxatilis[J]. JMed Plant Res,8 (4): 197-207.   \nHUANG ZJ, ZHENG GH,TAO JY,et al,2011. Anti-inflammatory effects and mechanisms of usnicacid[J].J Wuhan Univ Technol, 26(5): 955-959.   \nJIN JQ,LI CQ,He LC，2008.Down-regulatory effect of usnic acid on nuclear factor-kappaB-dependent tumor necrosis factor-alphaandinduciblenitricoxidesynthase expression in lipopolysaccharide-stimulated macrophagesRAW 264.7[J].Phytother Res,22(12):1605-1609.   \nJOSEPH A,LEE T, MOLAND CL, et al,2009. Effect of $\\left( + \\right)$ -usnic acid on mitochondrial functions as measured by mitochondria-specific oligonucleotide microarray in liver of B6C3F1 mice[J]. Mitochondrion,9(2): 149-158.   \nKOHLHARDT-FLOEHR C,BOEHM F,TROPPENS S,et al,2010.Prooxidant and antioxidant behaviour of usnic acid from lichens under UVB-light iradiation - Studies on human cels[J]. JPhotochem Photobiol B, 101(1): 97-102.   \nKOPARAL AT, TUYLU BA, TURK H, 2006. In vitro cytotoxic activities of $( + )$ -usnic acid and (-)-usnic acid on V79,A549,and human lymphocyte cels and their non-genotoxicity on human lymphocytes[J]. Natl Prod Res,20(14): 1300-1307.   \nLEAVITT SD,FANKHAUSER JD,LEAVITT DH, et al, 2011. Complex patterns of speciation in cosmopolitan “rock posy”’ lichens - Discovering and delimiting cryptic fungal species in the lichen-forming Rhizoplaca melanophthalma species-complex (Lecanoraceae,Ascomycota)[J].Mol Phylogenet Evol,59(3): 587-602.   \nLIU D,WANG XY,LI JW,et al,2014. Contributions to the lichen flora of the Hengduan Mountains,China (6): revisional study of the Genus Canoparmelia (Lichenized Ascomycota,Parmeliacaea)[J].Plant diver Resour, 36(6):781-787.[刘栋,王欣宇,李建文，等，2014.中国横断山的地衣研究,灰梅属地衣修订[J].植物分 类与资源学报,36(6):781-787.]   \nLUMBSCH HT,1998.Taxonomic use of metabolic data in lichen-forming fungi.In: Chemical Fungal Taxonomy (Frisvad J. C., Bridge P.D.,and Arora D.K.,eds.) [M]. New York: Marcel Dekker Inc., 345-387.   \nMACIAG-DORSZYNSKA M, WEZGRZYN G & GUZOW-KRZEMINSKA B,2014. Antibacterial activity of lichen secondary metabolite usnic acid is primarily caused by inhibition of RNA and DNA synthesis[J]. Fems Microbiol Lett, 353(1): 57-62.   \nMCEVOY M, NYBAKKEN L,SOLHAUG KA, et al,2006.UV triggers the synthesis of the widely distributed secondary lichen compound usnic acid[J].Mycol Prog,5(4): 221-229.   \nMIADLIKOWSKA J, KAUFF F, HOGNABBA F, et al, 2014. A multigene phylogenetic synthesis for the class Lecanoromycetes (Ascomycota):13O7 fungi representing 1139 infrageneric taxa,317 genera and 66 families[J].Mol Phylogenet Evol,79(1):132-168.   \nMOLNAR K & FARKAS E,2010.Current results on biological activities of lichen secondary metabolites: a review[J].Z Naturforsch,65(3-4): 157-173.   \nNEUPANE BP,MALLA KP,GAUTAM A,et al,2017.Elevational trends in usnic acid concentration of lichen Parmelia flexilis in relation to temperature and precipitation[J]. Climate,5(4):221-229.   \nNITHYANAND P, SHAFREEN RMB,MUTHAMIL S,et al,2015. Usnic acid inhibits biofilm formation and virulent morphological traits of Candida albicans[J].Microbiol Res,179:20-28.   \nNYBAKKEN L & GAUSLAA Y,2007. Diference in secondary compounds and chlorophyls between fibrils and main stems in the lichen Usnea longissima suggests diffrent functional roles[J].Lichenologist,39(5): 491- 494.   \nPOMPILIO A, RIVIELLA A, CROCETTA V,et al, 2016.Evaluation of antibacterial and antibiofilm mechanisms by usnic acid against methicilin-resistant Staphylococcus aureus[J].Future Microbiol,11(1O):1315-138.   \nPRAMYOTHIN P, JANTHASOOT W, PONGNIMITPRASERT N, et al, 2004.Hepatotoxic effect of $\\left( + \\right)$ -usnic acid from Usnea siamensis Wainio inrats,isolated rat hepatocytes and isolated rat liver mitochondria[J].J Ethnopharmacol, 90(2-3): 381-387.   \nREYIM M, ADILJAN,ABDULLA A,2010. Extraction technology of usnic acid from Cladonia cornuta(L.)Hoffm and content determination[J],China Brewing,224(11):121-124.[热衣木·马木提，阿地里江，阿不都 拉·阿巴斯，2010.角石蕊中松萝酸的提取工艺及含量测定[J]，中国酿造，224(11):121-124.]   \nSAFAK B,CIFTCIIH,OZDEMIR M,et al,2009.In vitroanti-Helicobacter pylori activityof usnic acid[J]. Phytother Res,23(7): 955-957.   \nSASSA T & IGARASHI M, 2014. Structure of $( - )$ -mycousnine, $\\left( + \\right)$ -oxymycousnine,new usnic acid derivatives from phytopathogenic Mycosphaerella nawae[J]. Agri Biolog Chem,54(9): 2231-2237.   \nSINGH N,NAMBIAR D,KALE RK,etal,2O13.Usnic acid inhibits growthand induces cellcycle arrest and apoptosis in human lung carcinoma A549 cells[J]. Nutr Cancer, 65(sup1): 36-43.   \nSOKOLOV DN, ZARUBAEV VV, SHTRO AA, et al, 2012. Anti-viral activity of $( - )$ -and $( + )$ -usnic acids and their derivatives against influenza virus A(H1N1)2009[J].Bioorg Med Chem Lett,22(23): 7060-7064.   \nTUGUNAY T, REYIM M, ADILIJIANG, et al, 2010.Content determination and antioxidant activity evaluation of usnic acid in Ramalina sinesis Jatta[J].Food Sci,31(19):150-152.[吐尔干乃义·吐尔逊，热衣木·马木提， 阿地里江，等，2010.中国树花中松萝酸含量的测定及抗氧化活性[J]，食品科学，31(19):150-152.]   \nYANG DS,SU YQ,PENGF,et al,2Oo7.Measurement on content of usnic acid in several Usnea and the activity of the extractives scavenging DPPH free radical,JNorthwest For Univ,22(4):135-138.[杨东升，苏印泉, 彭峰，等，2007.几种松萝中松萝酸含量及提取物清除 DPPH 自由基能力的测定[J]，西北林学院学 报，22(4): 135-138.]   \nYOKOUCHI Y, IMAOKA M, NIINO N, et al, 2015. $( + )$ -Usnic Acid-induced Myocardial Toxicity in Rats[J]. Toxicol Pathol, 43(3):424-434.   \nZHANG YY,WANG XY,LIUD,2016. The genus Bulbothrix (Parmeliaceae) in China. Lichenologist, 48(2): 121- 133.   \nZUO ST,2016.The research on usnic acid induces apoptosis via an ROS-dependent mitochondrial pathway[D], Changchun:Jinlin University.[左舒婷，2016.松萝酸通过 ROS 诱导乳腺癌细胞凋亡机制的实验研究 [D]，长春：吉林大学.] ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

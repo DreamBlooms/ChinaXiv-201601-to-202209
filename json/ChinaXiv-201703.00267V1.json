@@ -1,0 +1,482 @@
+[
+    {
+        "type": "text",
+        "text": "基于高速数字相关器的太赫兹干涉仪系统研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "韩东浩② 刘 浩①吴季①吴琼之③张德海陆浩①张颖②①(中国科学院国家空间科学中心微波遥感重点实验室 北京 100190)②(中国科学院大学 北京 100049)(北京理工大学 北京 100081)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：干涉仪利用通道间的相关运算进行测量，是干涉式成像的基本单元。太赫兹成像在安全检查、军事侦查等方面有着广泛的应用前景。将干涉成像测量引入太赫兹领域后，为解决相关运算中高速信号的相位同步问题，该文提出基于低速 FPGA控制的交叉同步方案，用低硬件代价解决高速采样信号的相位同步问题，并完成了一套多通道高速数字相关系统。系统的最高采样速率为 5GHz，ADC有效位数大于等于6位，相关器积分时间可调。最后，利用该数字相关器和相应的太赫兹微波元器件搭建了中心频率为 $0 . 4 4 \\mathrm { T H z }$ 的干涉仪，并得到了清晰的干涉条纹，其线性相位误差小于2°。该研究为今后设计太赫兹干涉成像仪提供了基本单元。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：太赫兹；干涉成像；高速数字相关器；相位同步   \n中图分类号：TP732.1   \nDOI: 10.11999/JEIT150841 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Investigation of THz Interferometer System Based on High Speed Digital Correlator ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HAN Donghao@② LIU Hao? WU Ji WU Qiongzhi? ZHANG Dehai@ LU Hao① Zhang Ying ①② ①(KeyLaboratoryof Microwave Remote Sensing, National Space ScienceCenter,Chinese Academyof Sciences,Beijing10190, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "China) (University of Chinese Academy of Sciences,Beijing 1Ooo49,China) (Beijing Institute of Technology,Beijing10oo81,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:As aconventionalunit in interferometric imager,correlator has a wide rangeof applications to getvisibility functions.THz imager has moreand more applied to security check and military scouting area.To solve the phase synchronization problem inhigh speed digitalcorrelator, which is designed for THz interferometer, this paperpresents a cross synchronizationscheme basedonlowhardware costFPGA controller.Ahigh speed multichannel digitalcorrelator is presented under this scheme.In this correlator,sampling rate can reach as high as 5GHz，effective numberof ADC is greaterthan orequalto 6bit，integration time is adjustable.Interference fringesare presented byconstructing a0.44THz interferometeroutof this correlatorand related THz microwave devices.Thefringe'slinear phase erroris better than 2. The research could provide important reference value about the design of THz interferometric imager in future. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ieywords:Terahertz； Interferometric imager；High speed digital correlator;Phase synchronization ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "太赫兹频段介于微波与红外线之间，由于太赫兹频段电磁波对大多数非金属和无极媒介具有很好的穿透性，被动太赫兹成像技术在反恐安全检查及军事侦察等方面有着巨大的应用前景。尤其是在军事侦察中，和传统的光学红外成像相比，被动太赫兹成像可以适用于诸多恶劣天气环境。另一方面，与主动式雷达相比，被动成像手段无需发射电磁波，隐蔽性更好2]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "按照成像制式的不同进行划分，目前毫米波亚毫米波段太赫兹成像主要有机械扫描、焦平面成像、干涉式综合孔径成像以及相控阵波束形成等技术手段。其中相控阵技术受器件水平，系统成本及功耗等因素的限制，其工程实现难度较大，目前应用不多。实孔径机械扫描体制原理简单，成本低，但成像速率低，且机械平台稳定性对系统性能有很大影响。焦平面阵列成像体制4是目前采用的最多的被动式毫米波成像体制，这主要是由于用于该体制系统的天线、馈源、微波集成电路（MMIC）接收机等部件的加工精度及性能在近些年得到了很大的提高，该体制主要缺点是接收机系统数目繁多，系统复杂，成本高。干涉式综合孔径技术5则是利用有效稀疏天线阵列进行频域测量来取代时域测量。该项技术首先在射电天文领域获得成功应用[，随后拓展到微波遥感领域，在对地遥感中发挥了重要作用，例如在 NASA的 ESTAR 机载辐射计[7]、欧空局 SMOS 卫星的 MIRAS 微波辐射计[8]、中国科学院国家空间中心的 GIMS 地球同步轨道微波辐射计样机[9-10中，均利用干涉式综合孔径技术进行成像，并取得了成功。干涉成像与其他成像方式相比最大的优点是：无需机械扫描，无需高精度的抛面天线，通过对散布的小天线的输出数据的合成就可以得到高空间分辨力和高灵敏度的图像，并且可通过基线的优化设计最大限度减少天线阵列的单元数。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "太赫兹干涉式成像的难点在于如何保持太赫兹信号的相位信息从而对其进行复相关运算。本文提出的高速数字相关器，直接在中频波段进行数字采样，利用交叉同步的方案保证高速信号的相位同步性。根据系统逻辑资源及处理速度需求，选型利用 Xilinx 公司的V6 系列 FPGA 对数据进行实时相关运算[11]，从而完成了整个大带宽高速数字相关器的构架。然后利用中国科学院国家空间中心自主研发的太赫兹天线和接收机[12以及本数字相关器搭建了0.44THz的二元干涉仪，并得到了点源干涉条纹，该太赫兹干涉仪可作为今后设计太赫兹干涉成像仪的基本单元。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2干涉式成像原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "二元干涉仪是干涉式成像的基本单元，其基本模型如图1所示。设入射波为平行入射。倾斜角度为 $\\theta _ { 0 }$ 处单频点源 $A ( \\theta _ { 0 } ) \\mathrm { s i n } ( 2 \\pi f _ { 0 } t + \\varphi )$ 的系统 $\\mathsf { \\Omega } _ { \\mathsf { { Q } } }$ 路输出为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle V = \\left. A ( \\theta _ { 0 } ) \\sin ( 2 \\pi f _ { 0 } t + \\varphi ) \\cdot A ( \\theta _ { 0 } ) \\sin ( 2 \\pi f _ { 0 } ( t - \\tau _ { g } ) + \\varphi ) \\right. } } \\\\ { { \\displaystyle ~ = \\frac { 1 } { 2 } A ^ { 2 } ( \\theta _ { 0 } ) \\cos ( 2 \\pi f _ { 0 } \\tau _ { g } ) } } \\\\ { { \\displaystyle ~ = \\frac { 1 } { 2 } A ^ { 2 } ( \\theta _ { 0 } ) \\cos ( 2 \\pi \\frac { D } { \\lambda } \\sin \\theta _ { 0 } ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/13a6174e3e8adebb7cfcd0186e8f4b446c9658c38dff8ced00c16a6f2c3b50fe.jpg",
+        "img_caption": [
+            "图1二元干涉仪示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）式中， $\\langle \\cdot \\rangle$ 表示对时间的期望运算， $\\lambda$ 是该单频点源的波长。 $A ^ { 2 } ( \\theta _ { 0 } )$ 表征该点源的辐射强度。式（1）即二元干涉仪干涉条纹的数学表达式。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将点源扩展为线源，令 $\\xi = \\sin \\theta$ ， $T ( \\xi ) = \\frac { 1 } { 2 } A ^ { 2 } ( \\xi )$ ，单频线源的系统响应可以看做无数个单频点源系统响应的线性叠加，此时 $\\mathsf { \\Omega } _ { \\mathsf { { Q } } }$ 路输出为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { V } _ { l } \\propto \\int \\mathrm { T } ( \\xi ) \\cos ( 2 \\pi \\frac { D } { \\lambda } \\xi ) d \\xi\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对比 $T ( \\xi )$ 傅里叶变换的表达式：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle V ( u ) = \\int \\mathrm { T } ( \\xi ) e ^ { - j 2 \\pi \\xi } d \\xi } } \\\\ { { \\displaystyle \\quad = \\int T ( \\xi ) \\cos ( 2 \\pi f \\xi ) d \\xi - \\int T ( \\xi ) \\sin ( 2 \\pi f \\xi ) d \\xi } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图1所示系统的 $\\mathsf { \\Omega } _ { \\mathsf { Q } }$ 路输出即 $T ( \\xi )$ 的傅里叶变换在 $u _ { 0 } = \\frac { D } { \\lambda }$ 处值的实部 $\\mathrm { R e } [ V ( u _ { 0 } ) ]$ 。类似可得|路输出等于 $\\mathrm { I m } [ V ( u _ { 0 } ) ]$ 。若有众多图1中的间距不同的二元干涉仪，即可得到 $T ( \\xi )$ 的傅里叶变换函数 $V ( u )$ 的离散表达式，进而反演出 $T ( \\xi )$ 。即干涉式辐射计成像的基本原理。由此可见，二元干涉仪是干涉式成像测量的基本单元。实际系统中， $T ( \\xi )$ 通常不是点频，而是受接收机滤波器 $H _ { \\mathfrak { r } }$ 和 $\\mathrm { H } _ { 2 }$ 带宽限制的带限高斯白噪声，则还需考虑边缘洗涤函数的影响[13]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3太赫兹干涉仪系统构成",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "太赫兹干涉仪主要由天线、亚毫米波前端、数字相关器等三个子系统构成。其系统框图如图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6587e185746964b477090b10c46262671910c52e76d6450b30182b8dd2305891.jpg",
+        "img_caption": [
+            "图2THz干涉仪系统结构框图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "天线负责信号的采集接收。由于喇叭天线技术比较成熟，具有增益高，驻波比低，工作频带宽的优点，并且结构简单，容易制造，可靠性较高，所以本系统选择喇叭天线。天线模块经加工测试后，天线增益为25.6dB，3dB 波瓣宽度为 ${ 1 0 } ^ { \\circ }$ ，副瓣电平为-30dB。满足设计要求。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "亚毫米波前端采用二次谐波混频方案，主要包括公共本振、功分器、三倍频器、混频器等结构。其中，三倍频器在获得功率足够的同相太赫兹源中有着重要作用[12]。亚毫米波前端经谐波混频后的中频信号将直接馈入高速数字相关器进行下一步的处理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4太赫兹干涉仪中高速数字相关器的设计与实现",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "输入到数字相关器的中频信号将通过模数转换、数字正交下变频、复相关运算得到原始干涉测量结果，然后将此结果进行存储或上传到PC机进行数据实时处理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从结构上划分，数字相关器主要包含模数转换、数字正交下变频、数字复相关、数据存储处理等单元，其具体结构框图如图3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1f5794d542f02c329a840665bd412ec819912a082439c736a9330b7b4be4ceea.jpg",
+        "img_caption": [
+            "图3太赫兹干涉仪相关器结构框图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "时钟生成分发模块负责为多个模数装换模块提供同步的采样时钟源，模数转换模块负责中频信号数字化，数据处理模块负责对中频数字信号进行处理从而得到相关输出，控制及数据接口模块负责以上各模块的参数配置及数据的导出。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.1时钟生成及分发模块 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "时钟生成模块采用ADF4350 锁相环芯片对10MHz有源晶振进行倍频，而后由ADCLK944芯片进行时钟分发。数字采样时钟网络的时钟质量对系统性能有着很大的影响，时钟质量评估的一个重要指标就是时钟相位的抖动，采样时钟的抖动会造成采样点的偏离，其对性能指标的影响主要表现在ADC转换信噪比的恶化和ADC 有效位数的降低[14]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通常，ADC 通道信噪比SNR和时钟信号的均方根RMS抖动值 $\\sigma$ 关系如式（4)：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS N R = 1 0 \\log [ \\frac { 3 \\times 2 ^ { 2 n } } { 2 + 3 { ( 2 ^ { n } \\omega \\sigma ) } ^ { 2 } } ]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式（4）中， $n$ 为模数转换位数， $\\omega$ 为模数转换频率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ADC通道信噪比和ADC通道的有效位数（ENOB）的关系如式（5）：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS N R = 6 . 0 2 \\times E N O B + 1 . 7 6 d B\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于本相关器中的ADC 模块，其系统采样速率最高为 5GHz，转换位数为8bit，系统指标要求模数转换有效位数为6bit,则可以得到时钟抖动需要小于7.82ps。对于ADF4350,其RMS抖动典型值为0.5ps,ADCLK944的RMS 值为0.05ps。实际完成后，时钟生成分发系统的RMS 抖动测试满足系统性能要求。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2高速模数转换模块 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "高速模数转换是实现高速相关的前提。较高的模数转换速率可以保证系统的相关运算带宽和相关运算的灵敏度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "模数转换模块的核心芯片是 $\\mathtt { e } 2 \\mathtt { v }$ 公司的ev8aq系列芯片。一片芯片内有4个ADC 核，可配置为 $5 G H z \\times$ 1通道、 $2 . 5 6 { \\mathsf { H } } z \\times 2$ 通道、 $1 . 2 5 \\mathsf { G H z } \\times 4$ 通道3种工作模式。另外，可通过配置时钟生成及分发模块的ADF4350微调 $C L K _ { A D i n }$ 的值，得到不同的数字采样频率。系统完成后，经测试，ADC 位数≥6bit，满足系统要求[14]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.3数据处理模块",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "数据处理模块负责中频数字信号的处理，包括数字正交下变频子模块和相关处理子模块。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "每个通道的模数转换后接一个数字正交下变频模块[15]，数字正交下变频依次包含带通滤波器、正交混频器和低通滤波器，其中信号通过滤波器及乘法器时，bit位展宽现象严重，需要进行有效位数的截断，具体截断方案应根据输入信号的幅值范围和输入信号的频谱成分特性等具体情况进行特殊优化。对于本系统高速采样形成的并行数据，可用并行FIR 滤波器的设计来实现对并行信号的滤波[15]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "相关处理模块包含自相关运算模块、自累加运算模块、互相关运算模块。自相关运算相当于全功率检波测量，用于估计该路的测量功率。自累加运算用来估计 ADC 量化的门限误差及ADC 偏置[]，互相关运算可得到原始的干涉测量值。每个通道均接一个自相关自累加模块，所有通道两两进行互相关，互相关运算对资源量消耗最大，为节省资源，每个通道的数据经三阶重量化后再进行互相关运算[17]。三阶重量化协方差系数和模拟相关系数存在固定的转换关系，其影响相当于积分时间的损失[17-18]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.4控制及数据接口模块",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "上述系统中时钟模块倍频系数、ADC工作模式、相关运算积分时间等参数可通过上位机对系统进行配置，控制器通过FPGA内的AXI_lite 总线主机进行控制，系统各单元均作为AXI_lite总线上的从机接受主机的控制。相关模块的数据以AXI_stream 总线的格式输送到通信接口转换模块，经转换后通过 USB数据口上传至PC 机。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5太赫兹干涉仪各接收通道的相位同步问题分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.1相位同步误差来源分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "干涉仪的多个接收机通道通常需要多个模数转换芯片进行同步采样，因此高速AD 间的协同工作问题亟待解决。对于常用高速模数转换芯片ev8aq来说，其片间ADC采样相位差主要可分为两部分：分频模糊引入的相位差；通道延时线不同引入的相位差。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本系统中ev8aq 芯片中的4个AD 核的采样时钟是由外部输入采样时钟 $C L K _ { A D i n }$ 经分频得到，芯片间会存在分频模糊问题。另外，受实际系统精度影响，ADF4350到多片ev8aq的路径延时存在差别，必然会导致实际输入到不同芯片的 $C L K _ { A D i n }$ 存在相位差。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.2ADC采样时钟相位误差的校正",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于分频模糊导致的相位差，其根本原因是多个ev8aq芯片的工作不同步导致的。ev8aq 芯片有专门的同步管脚用于芯片间的同步，并且其数据输出时钟和 $C L K _ { A D i n }$ 时钟是同源的。基于芯片的这一功能，本文提出了所谓的交叉同步方案。其具体实现方法是：先给其中一片ev8aq：编号a，一个任意的同步信号，从而得到a的输出数据时钟；而后利用这个输出数据时钟去同步另外的一片ev8aq：编号b，从而b片工作在了一个确定模式；最后利用b的输出数据时钟去同步其它所有的ev8aq，使所有的ev8aq芯片全部工作在和b同步的模式下。其控制逻辑如图4所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c1a88377fbfb069a912a53614f59252483b022498381b1b0f5ffd681a53bae82.jpg",
+        "img_caption": [
+            "图4多通道交叉同步及同步监控逻辑图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于通道延时线不同引入的相位差，其情况非常复杂：既有时钟网络延时差，又有模拟信号网络延时差，且这两种延时差影响效果可叠加。Ev8aq 芯片对每个AD 核的采样边沿有 $\\pm 1 4 { \\mathsf p } { \\mathsf s }$ 的可编程延时线，调整精度为110fs。可以通过对该延时的调节，进一步提高片间及片内各ADC采样时序的精确度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.3ADC同步状态的监控 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "每个芯片的数据时钟均是由ADC的实际采样时钟经分频得到，通过监控这些数据时钟的相位差能够对各ADC 的同步工作状态进行评估。利用蒙特卡洛分析法，将数据时钟间的相位差转换为一个随机事件的概率，然后通过大量的实验去统计，具体实现逻辑如图4所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于所有的数据时钟都是同源的，因此可以假定其相位差是恒定的。当对这两个时钟信号进行随机采样时，采样结果相同的概率 $P _ { e q u }$ 和 $\\delta \\psi$ 有如下关系：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { e q u } = \\frac { \\delta \\psi } { \\pi }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用一个和数据时钟不相关的时钟对这两个时钟进行采样,通过大量采样结果的统计，可以估算出δy(实际应用中，经交叉同步后， $P _ { e q u } { < } 0 . 0 0 4$ ，Sy $< 0 . 7 2 ^ { \\circ }$ ，该值含有测试方法、FPGA 内部布线等误差，因此有理由相信此时 ev8aq 模块已实现同步工作。未进行交叉同步时， $P _ { e q u } { > } 0 . 1$ ，此时 ev8aq 不工作在同步状态。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.4ADC一致性测试 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据上述交叉同步方案完成ADC同步后，对ADC的一致性进行了测试。ADC一致性和采样时钟网络、ADC 性能、模拟信号网络有关，对干涉仪的相位提取至关重要。ADC一致性测试时选用单频测试信号，将该信号输入到各ADC 的模拟输入端，而后对ADC的采样量化结果进行分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实际应用中，在时域中很难直接比较通道间的不一致性。将各ADC采样量化结果分别经傅里叶变换后，在频域中，通过峰值频点处的相位差来估算通道间的时延误差。经测试，芯片内通道一致性优于芯片间的AD通道，芯片间通道一致性 $\\leq 2 0 { \\mathsf { p s } }$ ，芯片内通道一致性 $\\leqslant 1 0 \\mathsf { p s }$ ，满足系统性能要求。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6太赫兹干涉仪点源干涉实验",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6.1实验系统构成",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用上文所述的太赫兹干涉仪及相应的点噪声源完成了点源干涉实验。本实验将干涉测量技术引入太赫兹研究领域，获得了清晰的太赫兹干涉条纹和线性干涉相位，对今后太赫兹干涉式测量成像提供了重要的参考价值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于太赫兹成像而言，探测频段的选择需要考虑多方面的影响。频率较低时，受天线孔径的限制，成像分辨率会较低，而频率较高时，虽然较小的天线孔径即可得到比较理想的图像分辨率，但是在安检、侦察等应用中，衣服等遮蔽物带来的散射衰减会导致探测质量的下降4。同时，为了更好地发挥太赫兹探测优势，应根据安检侦察中金属、陶瓷等敏感对象的太赫兹辐射谱进行频段设计。综合各方面影响，作为今后太赫兹干涉成像仪的基本单元，本干涉仪选定440GHz作为工作频段。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验系统包括如本文所述的太赫兹干涉仪，控制及数据处理上位机，点噪声源以及为噪声源移动时应用的滑轨机械架。实验框图如图5所示，滑轨与干涉仪基线平行，通过滑轨控制，点源可沿基线平行方向进行移动。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d57ebd373acee8d8bb12d8c079263b3ad269159c78e0f8e06bbf7314fb68dec9.jpg",
+        "img_caption": [
+            "图5太赫兹干涉实验框图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "实际测量时，通过滑轨控制噪声源的精确移动，滑轨位置精度 $< 3 \\mu \\ m$ ，两个天线接收机工作在440GHz频段，干涉仪基线 $5 9 . 5 2 \\mathsf { m m }$ ，基线与滑轨垂直距离 $1 1 0 0 \\mathsf { m m }$ ，经一次下变频后进入数字相关器，经数字正交下变频、数字相关后产生相关结果传送至上位机上。当噪声源分别处于不同位置时，得到不同的测量数据并在上位机上进行分析。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6.2实验数据分析 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将得到的相关数据经定标校正后，其实部虚部分别以噪声源的位置为横坐标画出干涉条纹如图 6(a)中两条曲线所示。由于点噪声源距离远远大于太赫兹信号波长，由式(1)可得，干涉结果相位和点源的位移有线性关系。将图6(a)中各点的相位提出，即可得到干涉 仪的线性相位图，如图6(b)所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/fd035c06b1beb609e039d7daf73301d88b55bc5a5b98ca5cd98e3509f0d16f53.jpg",
+        "img_caption": [
+            "图6太赫兹干涉仪输出结果图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据式(1)，可得距离为1100mm外的相位中心处的一周期干涉条纹对应的位移为 $1 2 . 6 \\mathsf { m m }$ ，实测值为$1 2 . 4 \\mathsf { m m }$ ，其精度达到预期要求。线性相位误差 ${ < } 2 ^ { \\circ }$ 。结果显示，干涉仪可在预期精度内正常工作。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "7结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文利用多片高速模数转换芯片间的交叉同步方法解决了高速数字采样同步工作问题，实现了一种高速数字相关系统，将模数转换，正交下变频，相关运算功能集成在了同一块数字后端。并且利用一种新颖简便的方法对各ADC 通道进行了一致性工作状态监控。经测试，芯片间通道一致性 $\\leq 2 0 { \\mathsf { p s } }$ ，芯片内通道一致性 $\\leqslant 1 0 \\mathsf { p s }$ ，可满足GHz频段的直接采样要求。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "同时，本文提出了一种基于该高速数字相关系统及相应的毫米波器件的太赫兹干涉仪，在0.44THz 频段对点噪声源进行了干涉测量，获得了清晰的干涉条纹和线性相位，如图6所示，其线性相位误差 ${ < } 2 ^ { \\circ }$ 。该干涉仪为今后设计太赫兹干涉成像仪提供了基本单元。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]NEZADAL M,ADAMETZJ,and SCHMIDTL PWideband imaging systemsin the mm-wave andTHzrange forsecurityand nondestructive testing[C]. IEEE General Assembly and Scientific Symposium,Beijing, China, 2O14: 104-118. [2]PIERNOL,FIORELLOAM,SCAFES,etal.THz-TDSanalysisofhiden explosivesforhomelandsecurityscenariosC.IEEE Millimeter Waves and THz Technology Workshop,Rome,Italy, 2O13: 1 - 2. [3]DILLS,andECHM.Studyof passveMMWpersoelimaging withrespect tosuspiciousandcommonconcealedbjectsforcurity ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "applicationsC.Milimetre WaveandTerahertzSensorsand Technology(SPIE),Cardif,United Kingdom,2o8:77-7125.   \n[4]LUUKANENA,UUTEO,etalPassvetheoloursubmillmetrewavevocameraJ].InteratioalSocietyfrOtical Engineering,2013,15(17): 3173-3179.   \n[5]BADYOPADHYA,IUKOVAM,adBARATRB.Interferometricteraertz imagigfordetectioof lthalagentsusirtfial neural network analyses[C]. IEEE Sarnoff Symposium,Princeton,United States, 2Oo6,99o8968:1-4.   \n[6]THOMPOAR,andORANJM.InterferometryandSythesis inRdioAstronomyM.SecondEdition,Weineim,JnWiley& Sons, 2004: 50-63.   \n[7]RUFCS,SWIFTCTTANNERAB,etal.Interferometricsytheticaperture microwaveradiometryfortheremotesnsingf the Earth[J].IEEE Transactions on Geoscience & Remote Sensing,1988,26(5): 597 - 611.   \n[8]WUL,TORRSFCORBELLAI,etal.RadiometricperformanceofOSfull polarimetricimagingJ].IEEEGeoscience&Remote Sensing Letters,2013,10(6): 1454 - 1458.   \n[9]LIUH,UJ,GS,etal.Tegostatioaryinterferometricicrowavesouder(S): istrumetoverviendentproe Geoscience and Remote Sensing Symposium (IGARSS), Vancouver BC, Canada, July 2O11: 3629 - 3632.   \n[10]ZHANGCU,WJetalagigalyisdistsultsoftheostatioaryiteferoetriccowaveoderoato IEEE Transactions on Geoscience and Remote Sensing, 2015,53(1):207-218.   \n[11］杨海钢，孙嘉斌，王慰.FPGA 器件设计技术发展综述[J]．电子与信息学报,2010,32(3):714-727. YANG HG,SUNJB,andWANGW.AnoverviewtoFPGA devicedesigntechnologiesJ.JournalofElectronics&Iforation Technology, 2010, 32(3): 714-727.   \n[12]孟进，张德海，蒋长宏.225GHz 三倍频器实用设计方法[J]．红外与毫米波学报,2015,34(02):190-195. MENGJ,ZHANGDH,JANGCH.Researchonthe practical designmethodof 225GHztriplerJJournalofInfraredandMilieter Waves,2015,34(02):190-195.   \n[13]BUTORA R,MARTIM,ANGELL,etal.Fringe-washingfunctioncalibrationinaperture synthesis mcrowaveradiometry.Radi Science,2003,38(2):1-15.   \n[14]吴琼之，蔡春霞，丁一辰，等.5Gsps高速数据采集系统的设计与实现[J]．电子与设计工程,2012,20(1):154-157. WU Q Z,CAICX,DINGYC,etal. Design andimplementationof5Gsps high-speeddata acquisitionsystemJ].Electronic Design Engineering, 2012, 20(1):154-157.   \n[15]王虹现,李刚，邢孟道，等．微型 SAR 的数字下变频设计[J]．电子与信息学报,2010,32(2):485-489. WANG HX,LIG,XINGMDetal.Designof digitaldownconverterofiniSRJJournalofElectronics&Iformationchology 2010,32(2):485-489.   \n[16]PARHIKigitaligalProcessgStes:Dsigandpleetation.chesterJoiley&os,9:61.   \n[17]CORBELLAITORRESFCAMSA,etalMRASend-toendcibration:pplicationtOSLprocessorJIEEETransctioso Geoscience & Remote Sensing, 2005,43(5): 1126 - 1134.   \n[18]PIEPMERJR,andGAEWKIAJDigitalcoelationmicrowavepolarimetry:analysisandemonstratioJ].IEETasactioso Geoscience & Remote Sensing, 2001,39(11): 2392- 2410. 韩东浩，男，1990 年生，博士生，研究方向为毫米波被动遥感干涉式成像系统设计。   \n刘浩，男，1978年生，研究员，微波遥感器系统研制及信号处理方法研究。 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

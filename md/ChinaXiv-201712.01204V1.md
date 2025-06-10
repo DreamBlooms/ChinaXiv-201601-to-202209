@@ -1,0 +1,148 @@
+临床研究
+
+# 中心动脉脉压是影响大动脉僵硬度的主要因素
+
+肖文凯,叶平，白永悍,骆雷鸣,吴红梅,高鹏 解放军总医院南楼心血管二科，北京100853
+
+摘要：目的观察高血压患者及血压正常人群中心动脉血流动力学差异；探讨哪种血压指标与动脉僵硬度及血管损害标志物更密切相关。方法从北京地区社区人群中筛选出820名高血压患者，同时入选820名与之年龄、性别相匹配的血压正常者。采用脉搏波传播速度(PWV)自动测量系统测定颈-股动脉PWV和颈-桡动脉PWV;应用张力测量法测量中心动脉压和中心动脉脉搏波增强指数(AIx)。同时血浆同型半胱氨酸(HCY),高敏C反应蛋白(HsCRP)及N末端脑利钠肽前体(NT-proBNP)被测定。结果无论是高血压患者还是血压正常人群，中心动脉收缩压和脉压显著低于相应的肱动脉收缩压和脉压，这种脉压扩增在血压正常组 $9 . 8 5 { \pm } 6 . 5 5 \ \mathrm { m m H g }$ 明显低于高血压组 $1 2 . 6 4 { \pm } 6 . 6 9 \mathrm { m m H g }$ ，但在脉压扩增比上两组未见差异。大动脉僵硬度受血压及年龄的影响,高血压组具有较高的颈股动脉PWV和中心动脉AIx,脉压扩增比随年龄的增长而递减。单因素分析见中心脉压相对其它血压指标与动脉僵硬度和血管损害标志物的相关性更强;多元逐步回归分析显示颈股动脉PWV和中心动脉AIx受中心脉压的独立影响而外周平均动脉压及脉压未进人回归方程。结论 中心动脉脉压相对其它血压指标可能是中心动脉僵硬度更直接的指示器和更好的血管老化的标志，未来的临床试验中可能更多地将中心动脉压作为治疗的靶目标值。
+
+关键词：高血压；中心动脉压；动脉僵硬度；压力波反射
+
+# Central pulse pressure but not brachial blood pressure is the predominant factor affecting aortic arterial stiffness
+
+XIAO Wenkai, YE Ping,BAI Yongyi,LUO Leiming,WU Hongmei, GAO Peng SecondDepartmentofCardiology,SouthernBuildingClinicDivision,General HospitalofLA,BeijingO0853,China
+
+Abstract:ObjectiveToinvestigate thediferences incentral hemodynamicindices betweenhypertensiveandnormotensive subjects and identify the blood pressure index that the most stronglycorelate with arterial stiffnessandvascular damage markers.Methods A cohort of 820 hypertensive patients and 820 normotensive individuals matched for age and gender were enroled in this study.We measured carotid-femoraland carotid-radial pulse wave velocity (PWV),aorticaugmentation index (AIx)and central blood pressures using pulse wave analysis and applanation tonometry. Plasma homocysteine (HCY), high-sensitivity C-reactive protein (sCRP)and N-terminal pro-B-type natriuretic peptide (NT-proBNP)were also tested in these subjects.Results In both hypertensiveand normotensivesubjects,thecentral systolic blood pressre (SBP)and pulse pressure (PP)were significantly lower than brachial SBPand PP;this PPamplification was significantly lower in the normotensives $( 9 . 8 5 { \pm } 6 . 5 5 \ \mathrm { m m H g } )$ ）thanin thehypertensives ( $1 2 . 6 4 { \pm } 6 . 6 9 \ \mathrm { m m H g } ;$ , but the amplification ratios were comparable between the two groups.Blood pressure andage wereclosely related with aorticarterial stiffess.Compared with normotensivesubjects,hypertensivesubjects hadhighercarotid-femralPWVandAIx,andshowed significantlylowredP amplification ratio withage.Central PP was more strongly related toarterial stifnessand vasculardamage markers than the other pressure indices. Multivariate analyses revealed that carotid-femoral PWVandaortic AIx were stronglyinfluenced by central PPbutnotbythemean blood pressureorbrachialP.ConclusionThecentralPPisamore directindicatorofcentral arterialstiffness andabetter marker of vascularaging than other blood pressure variables.These findingssupportthe use of central blood pressure as a treatment target in future trials.
+
+Key words: hypertension; central blood pressure; arterial stiffness; pressure wave reflections
+
+上臂肱动脉血压是目前公认的心血管病危险因素，大多数临床药物试验也以外周血压的降低为靶目标值。但传统上臂袖带测压不能精确分辨正常受力模式和持续受力模式，如不进行脉搏波分析计算中心动脉压，可能遗漏重要疾病信息1。不同个体间尽管外周肱动脉压相似，但是在中心血压方面有很大的变异，有研究认为如果以当前国际上通用的高血压指南以肽动脉测量值进行血压分级时可能会高估或低估血压相关的心血管危险，因为外周不同的血压分级间在中心收缩压间却有着相当大的重叠。中心动脉压不能仅仅依靠测量肱动脉压进行推断，近期精确的无创技术的发展使脉搏波分析及中心动脉压测量成为可能。我们的研究旨在探讨中国人群中心动脉血流动力学特点及判别外周还是中心血压与动脉僵硬度和血管损害标志物相关性更强。
+
+# 1资料与方法
+
+# 1.1研究对象
+
+从北京地区参与"心血管病及危险因素"流行病学调查的人群中选择820名高血压病患者，高血压诊断标准参照2010年中国高血压防治指南[4。同时从该人群中人选820名年龄及性别相匹配的血压正常者。排除标准为：继发性高血压、严重的心功能不全(心功能IV级）严重心律失常、周围动脉闭塞症、肝肾功能衰竭、恶性肿瘤。所有受试者均签署知情同意书。
+
+# 1.2研究方法
+
+1.2.1病史采集及体格检查问卷调查受试者一般情况及心脑血管疾病的家族史、既往心脑血管疾病的发病、诊断、治疗情况及生活方式。受检者坐姿静息 $1 5 \mathrm { m i n }$ 后，采用标准袖带水银柱式血压计测量右上臂坐位血压，收缩压和舒张压分别取柯氏音第一音和第五音时血压读数，间隔 $2 \mathrm { m i n }$ 测量1次，测2次取平均值。测量身高、体质量、腰围和臀围备分析用。
+
+1.2.2血标本采集所有受检者空腹 $8 \mathrm { h }$ 以上，于检测当日8:00抽取静脉血 $1 0 \mathrm { m l }$ 。既往未诊断糖尿病者按照美国糖尿病协会规定的口服葡萄糖耐量试验标准口服无水葡萄糖 $7 5 \mathrm { ~ g ~ }$ 后 $1 2 0 \mathrm { m i n }$ 再次抽取静脉血样 $5 \mathrm { m l }$ 已经明确诊断糖尿病者，进食 $\boldsymbol { 1 0 0 } \mathrm { \ g }$ 面粉做成的馒头， $1 2 0 \mathrm { m i n }$ 后再次抽取静脉血样 $5 \mathrm { m l }$ 。所有血样使用全自动生化检测仪(Roche Cobas e6O1,Switzerland)测定血糖、血脂、肝肾功能、尿酸等。另外血浆同型半胱氨酸(HCY)、高敏C反应蛋白(HsCRP)及N末端脑利钠肽前体(NT-proBNP)在动脉僵硬度检测2d内测量。HCY采用高效液相色谱法测定，HsCRP采用免疫比浊法检测(Siemens Healthcare Diagnostics Inc,Germany） ;NT-proBNP采用化学发光免疫测定法(RocheDiagnostics,Mannheim,Germany)测定。
+
+1.2.3脉搏波传播速度(PWV)及中心动脉压力检测晨起在安静、温暖的环境中开展，受检者坐姿静息10\~15min后,取仰卧位,应用自动PWV分析仪(Complior SP,FranceArtchmedical)测定颈-股动脉脉搏波速度(cf-PWV)和颈-桡动脉脉搏波速度(cr-PWV)。将压力感受器置于颈动脉和股动脉，颈动脉和桡动脉搏动最明显的部位，测量两点间的距离输入计算机，PWV根据两个脉搏波之间的距离比脉搏波传导时间计算得到。自动取10个测量值的平均值为测定值。测量后受检者取坐位,使用Sphygmocor 脉搏分析系统（Sphygmocor,Australia)测量中心动脉压力及反射波。将压力探头置于患者右侧桡动脉搏动最明显处，调整探头的位置以获得稳定的桡动脉压力波形，记录10s以上，桡动脉压力波可以实时地转换为中心压力波形，中心动脉压(收缩压、舒张压、脉压及增强压等)及脉搏波增强指数(AIx)
+
+可以自动计算出。
+
+# 1.3统计学分析
+
+本研究数据处理采用SPSS17.0统计软件包进行数据的统计分析。计量资料经正态性检验符合正态分布的，以均数±标准差表示;呈偏态分布的指标进行自然对数转换。两组间计量资料的比较采用独立样本的t检验，计数资料采用卡方检验，校正其它混杂因素采用协方差分析。在单因素分析中，血压指标与动脉僵硬度及生物标记物之间使用简单线性相关(Pearson相关)分别计算相关系数。运用多元线性逐步回归分析计算影响大动脉僵硬度及生物标记物的相关因素，检验当校正了其它因素后是否具有独立相关。以 $P { < } 0 . 0 5$ 为差异具有统计学意义。
+
+# 2结果
+
+# 2.1高血压组与血压正常组基本资料对比(表1)
+
+高血压组在体质量、体质量指数、空腹血糖、口服葡萄糖耐量试验(OGTT)2h血糖、血尿酸、糖尿病及冠心病患病率方面高于血压正常组;而高密度脂蛋白胆固醇(HDL-C)水平低于血压正常组 $( P { < } 0 . 0 5 )$ 。其余各观察指标两组间差异无统计学意义 $( P { > } 0 . 0 5 )$ 。
+
+# 表1高血压组及血压正常组基本资料
+
+Tab.1 Baseline characteristics of the hypertensive and normotensive subjects $\scriptstyle ( n = 8 2 0 )$ （202   
+
+<html><body><table><tr><td>Characteristics</td><td>Hypertensives</td><td>Normotensives</td><td>P</td></tr><tr><td>Age (year)</td><td>60.45±11.20</td><td>59.93±10.70</td><td>0.4</td></tr><tr><td>Male sex [n (%)]</td><td>395 (48.17)</td><td>394 (48.05)</td><td>0.5</td></tr><tr><td>Height (cm)</td><td>162.49±8.87</td><td>163.25±8.03</td><td>0.3</td></tr><tr><td>Weight (kg)</td><td>69.60±11.69</td><td>66.15±10.79</td><td>0.031</td></tr><tr><td>BMI (kg/m²)</td><td>26.31±3.55</td><td>24.74±3.26</td><td>0.003</td></tr><tr><td>Heart rate (bpm)</td><td>76.01±10.38</td><td>75.41±9.81</td><td>0.073</td></tr><tr><td>FBG (mmol/L)</td><td>5.56±1.69</td><td>5.31±1.58</td><td>0.001</td></tr><tr><td>2 h PBG (mmol/L)</td><td>8.32±4.24</td><td>7.12±3.73</td><td><0.01</td></tr><tr><td>TC (mmol/L)</td><td>5.08±0.96</td><td>5.08±0.91</td><td>0.1</td></tr><tr><td>LDL-C (mmol/L)</td><td>2.99±0.75</td><td>2.93±0.72</td><td>0.559</td></tr><tr><td>HDL-C (mmol/L)</td><td>1.34±0.34</td><td>1.42±0.38</td><td><0.01</td></tr><tr><td>TG (mmol/L)</td><td>1.87±1.18</td><td>1.78±1.13</td><td>0.173</td></tr><tr><td>Creatinine (μmol/L)</td><td>67.98±18.46</td><td>66.77±16.16</td><td>0.138</td></tr><tr><td>Uric acid (μmol/L)</td><td>306.25±75.95</td><td>286.34±73.03</td><td><0.01</td></tr><tr><td>Diabetes mellitus [n (%)]</td><td>198 (24.17)</td><td>111 (13.56)</td><td><0.01</td></tr><tr><td>CHD [n (%)]</td><td>135 (16.50)</td><td>61 (7.45)</td><td><0.01</td></tr></table></body></html>
+
+BMI:Body mass index;FBG:Fasting blood glucose;2 h PBG:2 h postprandial blood glucose; TC:Total plasma cholesterol; LDL-C:Low density lipoprotein cholesterol;HDL-C:High density lipoprotein cholesterol; TG: Triglyceride; CHD: Coronary heart disease.
+
+# 2.2血压对动脉僵硬度及中心动脉血流动力学参数的 影响(表2)
+
+无论是高血压组还是血压正常组的中心动脉收缩压和脉压明显低于相对应的外周肱动脉收缩压和脉压；而两组的舒张压外周与中心间无差异。高血压组的脉压扩增(绝对值)高于血压正常组;但是脉压扩增比(相对值)在校正了年龄、性别等相关因素后两组间未见明显差异( $\scriptstyle \left( P = 0 . 1 3 3 \right)$ 。反映中心动脉僵硬度的cf-PWV高血压组高于血压正常组;而反映外周中等肌性动脉僵硬度的cr-PWV两组间未见差异。在校正了相关混杂因素后高血压组的中心动脉脉搏波增强指数(AIx)高于血压正常组。
+
+表2高血压组和血压正常组外周及中心血流动力学参数及动脉僵硬度对比 Tab.2Central,peripheral hemodynamic parametersandarterial stiffess inhypertensive and normotensivesubjects   
+
+<html><body><table><tr><td>Index</td><td>Hypertensives</td><td>Normotensives</td><td>P</td></tr><tr><td>Brachial SBP"(mmHg)</td><td>142.92±15.29</td><td>121.21±10.73</td><td><0.01</td></tr><tr><td>Brachial DBP (mmHg)</td><td>80.72±11.12</td><td>73.33±7.85</td><td><0.01</td></tr><tr><td>Brachial PP" (mmHg)</td><td>62.20±14.26</td><td>47.88±9.30</td><td><0.01</td></tr><tr><td>Central SBP (mmHg)</td><td>130.43±17.59</td><td>111.14±11.88</td><td><0.01</td></tr><tr><td>Central DBP (mmHg)</td><td>80.77±12.69</td><td>73.14±9.45</td><td><0.01</td></tr><tr><td>Central PP (mmHg)</td><td>49.56±15.20</td><td>38.03±9.09</td><td><0.01</td></tr><tr><td>SBPamp (mmHg)</td><td>12.49±7.67</td><td>10.08±7.28</td><td><0.01</td></tr><tr><td>PPamp (mmHg)</td><td>12.64±6.69</td><td>9.85±6.55</td><td><0.01</td></tr><tr><td>PPamp ratio (%)</td><td>130.01±24.86</td><td>128.92±22.29</td><td>0.029</td></tr><tr><td>PPamp ratio (%)</td><td>129.90±17.60</td><td>128.78±16.67</td><td>0.133</td></tr><tr><td>Cf-PWVb m/s)</td><td>12.02±1.23</td><td>10.82±1.34</td><td><0.01</td></tr><tr><td>Cr-PWVb (m/s)</td><td>9.59±1.15</td><td>9.33±1.21</td><td>0.17</td></tr><tr><td>Central AIx (%)</td><td>26.77±10.10</td><td>25.13±10.03</td><td>0.624</td></tr><tr><td>Central AIx (%)</td><td>26.90±7.34</td><td>25.00±8.27</td><td><0.05</td></tr></table></body></html>
+
+SBP:Systolic blood pressure; DBP:Diastolic blood pressure;PPPulse pressure; SBPamp:Systolic blood pressureamplification; Pamp:Pulse presureamplification(rachialPPminuscentralPP);Pampratio:Ratioofpulsepressure amplication(brachialPP divide central PP); AIx: Augmentation index; $^ { \# } P { < } 0 . 0 5$ for paired-group comparison of brachial BPs versus corresponding central BPs. "Afteradjustmentforagegender,heartrate,bloodglucoseandthepresenceofcoronaryheartdisease;Afteradjustmentforage, gender,heartrateeanarterialpressre,bloodgucoseandthepresenceoforonaryheartdisease;Ateradjustmentfoageender heart rate,BMI, mean arterial pressure,blood glucose and the presence of coronary heart disease.
+
+# 2.3 年龄对高血压组和血压正常组动脉僵硬度及中心动脉血流动力学参数的影响(表3)
+
+将高血压患者和血压正常人群按年龄大小分为5个年龄组，高血压患者除体质量指数、总胆固醇(TC)和HDL-C差异无统计学意义，其余指标差异均有统计学意义。血压正常人群各年龄组舒张压、脉压、OGTT2h血糖和HDL-C差异有统计学意义，收缩压、心率、TC、甘油三酯、空腹血糖和体质量指数等各组间差异均无统计学意义。以血压为协变量，不同年龄段PWV和AIx比较结果显示，随着年龄增大，高血压患者和血压正常组的cf-PWV均逐渐升高，AIx在50岁之前随年龄的增长而明显上升，但在50岁后这种增长趋势变得缓慢，进入一平台期;而两组的cr-PWV无随年龄升高的趋势,方差分析差异无统计学意义（分别为 $F { = } 1 . 6 7 3 , P { = } 0 . 1 5 4$ $F { = } 1 . 1 9 0 , P { = } 0 . 3 1 4 ,$ 。两组的脉压扩增比随年龄的增长而逐渐下降，而脉压扩增未发现各年龄组间的统计学差异。
+
+# 2.4外周及中心血流动力学参数与动脉僵硬度及生物标志物的单因素相关分析(表4)
+
+对两组人群合并分析可见在外周及中心动脉的各观察指标中，中心动脉脉压与cf-PWV及AIx的相关性最强，呈显著的正相关（相关系数分别为 $r { = } 0 . 4 4 5 , P { < }$ $0 . 0 1 ; r { = } 0 . 3 8 0 , P { < } 0 . 0 1 )$ 。中心脉压与三种心血管生物标志物间也有一定的相关性，与HsCRP、NT-proBNP、HCY的相关系数分别为0.11，0.229和0.158( $P$ 值均<0.01)。其他血压指标，尤其是脉压扩增与动脉僵硬度及三种生物标志物间相关性较弱或未见相关。
+
+# 2.5 影响大动脉僵硬度和3种生物标志物的多因素分析(表5)
+
+以cf-PWV、AIx及3种生物标志物为应变量进行多元逐步回归分析显示(仅列出具有统计学意义的变量)，中心脉压是影响两组人群cf-PWV和中心动脉AIx的独立因素，其余血压指标未进入回归方程。而对于影响3种生物标志物的因素仅发现外周的平均动脉压(标准化回归系数 $\beta = 0 . 0 6 7 , P { = } 0 . 0 0 6$ )为影响血浆HCY的独立因素;而HsCRP、NT-proBNP未发现与外周或中心动脉血压指标有明确的相关性(本文未列出)。
+
+# 3讨论
+
+在本研究中，我们在较大规模的一组社区人群中通过无创方法测量了中心动脉血压和动脉弹性功能，有以下几点重要发现。首先，中央弹性大动脉的僵硬度受年龄和血压的影响，而外周中等肌性动脉的扩张性未发现与年龄及血压的相关性;其次，中心动脉血压不同于外周肱动脉血压，中心脉压是影响大动脉的僵硬度的重要独立因素。
+
+表3两组不同年龄段动脉僵硬度及中心血流动力学参数比较Tab.3 Arterial stiffness and central hemodynamic variables in different age groups  
+
+<html><body><table><tr><td>Variable</td><td><40 years</td><td>40~49 years</td><td>50~59 years</td><td>60~69 years</td><td>≥70 years</td></tr><tr><td colspan="6">Hypertensives</td></tr><tr><td>n</td><td>50</td><td>133</td><td>197</td><td>224</td><td>216</td></tr><tr><td>Cf-PWV (m/s)</td><td>9.41±1.33</td><td>10.32±1.63*</td><td>10.93±1.75*</td><td>12.62±2.54*</td><td>13.99±2.74*</td></tr><tr><td>Cr-PWV (m/s)</td><td>10.16±1.87</td><td>10.19±1.81</td><td>9.58±1.29</td><td>9.51±1.30</td><td>9.45±1.42</td></tr><tr><td>AIx (%)</td><td>17.12±10.12</td><td>23.87±9.36*</td><td>26.73±8.45*</td><td>27.04±7.33*</td><td>28.63±9.04*</td></tr><tr><td>PPamp (mmHg)</td><td>14.49±6.62</td><td>13.25±5.55</td><td>12.37±6.79</td><td>12.60±7.12</td><td>12.20±7.88#</td></tr><tr><td>PPamp ratio (%)</td><td>149.65±16.8</td><td>137.57±17.9</td><td>131.16±18.2*</td><td>128.88±17.5*</td><td>125.56±17.7*</td></tr><tr><td colspan="6">Normotensives</td></tr><tr><td>n</td><td>53</td><td>148</td><td>202</td><td>230</td><td>187</td></tr><tr><td>Cf-PWV (m/s)</td><td>8.74±0.93</td><td>9.51±1.32</td><td>9.70±1.71#</td><td>11.17±2.24*</td><td>12.57±2.65*</td></tr><tr><td>Cr-PWV (m/s)</td><td>9.64±1.09</td><td>9.68±1.52</td><td>9.12±1.55</td><td>9.25±1.41</td><td>9.54±1.94</td></tr><tr><td>AIx (%)</td><td>12.25±8.99</td><td>20.12±9.26#</td><td>26.16±9.44*</td><td>26.91±8.21*</td><td>27.83±9.13*</td></tr><tr><td>PPamp (mmHg)</td><td>11.88±5.14</td><td>10.31±6.10</td><td>9.23±5.92#</td><td>9.82±7.05</td><td>10.17±7.27</td></tr><tr><td>PPamp ratio (%)</td><td>135.82±15.4</td><td>133.59±17.7</td><td>128.50±17.1</td><td>126.81±17.1#</td><td>125.72±16.5#</td></tr></table></body></html>
+
+Abbreviations are listed in Tab.2. $^ { \# } P { < } 0 . 0 5$ vs $< 4 0$ yrs; $^ { * } P { < } 0 . 0 1$ Us $< 4 0$ yrs.
+
+表4外周及中心血流动力学参数与动脉僵硬度及生物标志物的单因素相关分析  
+Tab.4Associations between hemodynamic parametersand arterial stifness／biochemical variables in univariate correlation analyses   
+
+<html><body><table><tr><td>Parameters</td><td>Cf-PWV</td><td>AIx</td><td>HsCRP</td><td>NT-proBNP</td><td>HCY</td></tr><tr><td>Brachial SBP (mmHg)</td><td>0.326*</td><td>0.173*</td><td>0.083</td><td>0.096*</td><td>0.095</td></tr><tr><td>Brachial PP (mmHg)</td><td>0.402</td><td>0.164*</td><td>0.085</td><td>0.229</td><td>0.120</td></tr><tr><td>MAP (mmHg)</td><td>0.174*</td><td>0.128*</td><td>0.068*</td><td>-0.045</td><td>0.111*</td></tr><tr><td>Central SBP (mmHg)</td><td>0.356*</td><td>0.375*</td><td>0.104*</td><td>0.072</td><td>0.156*</td></tr><tr><td>Central PP (mmHg)</td><td>0.445*</td><td>0.380*</td><td>0.110</td><td>0.229*</td><td>0.158</td></tr><tr><td>PPamp (mmHg)</td><td>0.086*</td><td>-0.364</td><td>0.045</td><td>0.006</td><td>0.066"</td></tr><tr><td>PPamp ratio (%)</td><td>-0.053#</td><td>-0.455</td><td>0.025</td><td>-0.071#</td><td>0.011</td></tr></table></body></html>
+
+MAP:meanarterialpresure;HsCRP:highsensitivityC-reactiveprotein;NT-proBNP:N-terminalpro-B-typenatriureticpeptide; HCY: Homocysteine; $^ { \# } P { < } 0 . 0 5$ $^ { * } P { < } 0 . 0 1$
+
+长期以来，肱动脉血压作为心血管疾病所致结构损害及其发病率、死亡率的重要预测因子而在临床广泛应用[5]。而近期一些临床研究[证实中心动脉压及其相关指标才是心血管疾病及事件的真正关联因素。因此进行动脉弹性功能的检测，准确地评估中心动脉压及其相关参数对心血管病风险的评估具有重要的意义，尤其是对于那些靶器官损害通过常规手段不易发现的患者[8]。
+
+血压和年龄是影响大动脉僵硬度的两个主要因素。血管壁易受两种动态的机械压力的影响，一种是剪切力，一种是血管壁的周期性循环张力。血管壁内的压力变化被认为是导致动脉僵硬度增加和心脑血管疾病的主要因素[9-10]。动脉壁弹性呈压力依赖性,动脉压低时，动脉壁靠顺应性弹性蛋白纤维承受应力；动脉压高时，靠僵硬得多的胶原纤维支撑,动脉僵硬度取决于血管壁中弹性蛋白和胶原蛋白的比例。随着血压的升高，血管壁弹力板退化,弹性蛋白比例下降，内中膜增厚使血管壁僵硬,最终使动脉僵硬度增加[]。动脉硬化时，脉搏波传播速度增快，波的反射速度加快，使本应落在动脉舒张期的反射波提前到收缩晚期，使中心动脉收缩末期压力和AI增加[2]
+
+年龄增长引起的主要结构改变是血管壁中层发生变性，导致大的弹性动脉僵硬度的增加。中央动脉的长期动脉搏动对结构基质蛋白产生直接作用，引起中层胶原含量增加,弹力层断裂[13]。另一个动脉壁的主要改变是钙沉积，动脉壁钙含量随着年龄的增长而增加，特别是在50岁以后，可能也会导致动脉扩张性的减退[14]。但本研究发现与cf-PWV不同，中心动脉AIx与年龄的变化是非线性的，在50岁以后AIx随年龄增加未见明显增长。Anglo-Cardiff协作试验(ACTT)[15]和Framingham研究3也发现了类似变化。在年轻人中增强压的增长主要是靠反射波幅度的变化而不是脉搏波速度的增快;
+
+表5多元回归分析影响大动脉僵硬度和3种生物标志物的因素9.5Multiplestepwise regressionanalysis of the determinants of arterialstiffessand 3biochemical variable  
+
+<html><body><table><tr><td>Parameters</td><td>β</td><td>SE</td><td>standardized β</td><td>t</td><td>P</td></tr><tr><td>Cf-PWV (m/s)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Age (year)</td><td>0.104</td><td>0.006</td><td>0.408</td><td>18.429</td><td><0.01</td></tr><tr><td>Central PP (mmHg)</td><td>0.049</td><td>0.005</td><td>0.233</td><td>10.807</td><td><0.01</td></tr><tr><td>Sex (female)</td><td>-0.351</td><td>0.165</td><td>-0.06</td><td>-2.136</td><td>0.033</td></tr><tr><td>2 h PBG (mmol/L)</td><td>0.062</td><td>0.014</td><td>0.085</td><td>4.378</td><td><0.01</td></tr><tr><td>HDL-C (mmol/L)</td><td>-0.556</td><td>0.158</td><td>-0.069</td><td>-3.511</td><td><0.01</td></tr><tr><td>Height (cm)</td><td>0.026</td><td>0.01</td><td>0.075</td><td>2.571</td><td>0.01</td></tr><tr><td>AIx (%)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Central PP (mmHg)</td><td>0.271</td><td>0.020</td><td>0.352</td><td>13.800</td><td><0.01</td></tr><tr><td>Heart rate (bpm)</td><td>-0.304</td><td>0.025</td><td>-0.280</td><td>-12.315</td><td><0.01</td></tr><tr><td>Height (cm)</td><td>-0.190</td><td>0.047</td><td>-0.148</td><td>-4.047</td><td><0.01</td></tr><tr><td>Age (year)</td><td>0.111</td><td>0.026</td><td>0.104</td><td>4.191</td><td><0.01</td></tr><tr><td>Weight (k)</td><td>-0.090</td><td>0.026</td><td>-0.093</td><td>-3.489</td><td><0.01</td></tr><tr><td>Sex (female)</td><td>2.398</td><td>0.701</td><td>0.109</td><td>3.420</td><td>0.001</td></tr><tr><td>Ln HCY</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Age (year)</td><td>0.012</td><td>0.001</td><td>0.309</td><td>13.158</td><td><0.01</td></tr><tr><td>Sex (female)</td><td>-0.170</td><td>0.022</td><td>-0.220</td><td>-7.892</td><td><0.01</td></tr><tr><td>HDL-C (mmol/L)</td><td>-0.130</td><td>0.026</td><td>-0.123</td><td>-5.054</td><td><0.01</td></tr><tr><td>Creatinine (μmol/L)</td><td>0.002</td><td>0.001</td><td>0.121</td><td>4.488</td><td><0.01</td></tr><tr><td>LDL-C (mmol/L)</td><td>0.037</td><td>0.013</td><td>0.068</td><td>2.857</td><td>0.004</td></tr><tr><td>MAP (mmHg)</td><td>0.002</td><td>0.001</td><td>0.067</td><td>2.773</td><td>0.006</td></tr></table></body></html>
+
+SE: standard error; LnHCY: natural logarithm of the homocysteine.
+
+而老年人中增强压主要是因反射波的反射速度加快而不是反射波幅度的增高。年龄相关的动脉弹性变化通常发生在大的动脉硬化血管[16],因此增加PWV,而最低程度的影响阻抗[17]。
+
+本项研究结果显示：无论是高血压患者还是血压正常人群外周收缩压及脉压均高于相应的中心收缩压和脉压，而舒张压外周及中心间无差异。这是因为从中央大动脉向外周肌性动脉血管管径逐渐减小，压力波在传播过程中逐渐发生变形[18],动脉僵硬梯度和反射波反射时间和幅度进行性变化，起到保护心脏免于增长的后负荷的影响[19],结果在主动脉和外周动脉之间出现生理性的脉压扩增现象。这种现象(通常用脉压之比表示)在年轻和非高血压个体更加明显，而随着年龄的增长，由于中心动脉的僵硬度升高加速，这种生理性放大作用逐渐减小[20-21]。我们的调查发现脉压扩增比随着年龄的增长逐渐减少，但在高血压与血压正常组间未见明显差异。主要因为脉压扩增在个体内或个体间有很大变异性[2,18],受大动脉僵硬度、外周血管阻力、压力波反射及心率等多种因素的影响22，此外降压药物本身也可以影响脉压扩增[23]。
+
+本研究结果表明中心动脉脉压是大动脉僵硬度强的独立决定因素，而不是平均动脉压或者收缩压，提示搏动压力比稳态压力在致动脉硬化方面具有更加重要的作用，中心脉压是大动脉僵硬度的更好的替代指标。
+
+由于中心脉压产生血管及靶器官的直接循环压力[24]，能够直接影响左心室后负荷和冠脉灌注，是反映左心室和心脑血管负荷的敏感指标[25-26]；另外大的弹性动脉的扩张压是衰老、血压升高等导致血管退行性改变的决定因素，相反外周肌性动脉如肱动脉和桡动脉较少受这些因素影响[27]。中心动脉及肱动脉脉压比肱动脉收缩压更强地与血管肥厚及动脉粥样硬化范围相关联，在校正了年龄、性别、吸烟、总胆固醇等因素后，中心脉压比肱动脉脉压更强地预测心血管事件，应用中心血压作为高血压治疗的靶目标得到了进一步的支持。其它研究也发现中心脉压比中心收缩压或外周脉压在决定颈动脉内中膜厚度方面作用更显著[28-29]。这些结果支持中心脉压是中央动脉僵硬度的更直接指示器，相对其它血压指标来讲是更好的血管老化的标志。
+
+由于脉压扩增现象，在青年人中所测的外周肱动脉脉压一般会过高地估计所对应的中心脉压3,相反在一些合并高血压或糖尿病的老年人中肱动脉脉压通常会低估中心脉压，因此单纯测量外周血压是不够的。另外随着动脉硬化的发展，脉搏波传播速度加快，反射波在心脏收缩晚期与前向波重叠，此时升高收缩压，舒张压不增或有所降低，脉压增大。这种现象可以通过AI进行量化，所以中心脉压与PWV及AI在作为评估动脉硬化的指标时有时可以交互使用。
+
+中心脉压与三种生物标志物仅在简单相关分析时有相关性，而多元分析校正其它因素后未见相关性。据我们所知，亚临床炎症和动脉粥样硬化通常作用于小的动脉血管而不是主动脉或大动脉也许是与高敏CRP及HCY未见明确相关的原因。理论上讲左室后负荷应该是血清NT-proBNP的主要决定因素，令人意外的是我们并未发现中心脉压与NT-proBNP的独立相关性。Bunce等[31在男性糖尿病患者中发现中心收缩压及脉压是NT-proBNP的独立影响因素，而主动脉PWV未见与NT-proBNP相关。在一般人群中两者之间的关系有待进一步研究。
+
+综上所述，积极降压对于防治动脉硬化，减少波反射对心血管系统的不良影响具有重要意义；中心动脉脉压相对外周血压更强地预测大动脉僵硬度，应用中心血压作为降压治疗和心脑血管疾病防护的靶目标得到了进一步的支持。然而,中心血压是否比传统的外周肱动脉压更有优势还需更多的探讨与研究，包括中心血压与靶器官损害及人群心血管病预后的研究等。相信随着无创性技术的进一步发展，中心动脉压及其相关指标的检测将为临床疾病的诊治、评估带来更多的价值。
+
+# 参考文献：
+
+[1]Takazawa K,Tanaka N,Takeda K,et al．Underestimation of vasodilator effects of nitroglycerin by upper limb blood pressure[J]. Hypertension,1995,26(3): 520-3.   
+[2]Mceniery CM,Mcdonnell B,Munnery MA,et al.Central pressure: Variability and impact of cardiovascular risk factors- The AngloCardiff Collaborative Trial II[J].Hypertension，2Oo8,51(6): 1476-82.   
+[3］肖文凯,叶平,骆雷鸣,等.接受降压治疗患者的压力波反射及中心动 脉收缩压[J].中华心血管病杂志,2011,39(9):820-4.   
+[4］中国高血压防治指南修订委员会.中国高血压防治指南2010[J].中 华高血压杂志,2011,19(8):701-43.   
+[5]Mancia G,Laurent S,Agabiti-Rosei E,et al.Reappraisal of European guidelines on hypertension management: a European Society of Hypertension Task Force document[J].JHypertens, 2009,27(11): 2121-58.   
+[6]Roman MJ,Devereux RB,Kizer JR,et al. Central pressure more strongly relates to vascular disease and outcome than does brachial pressure: the Strong Heart Study[J].Hypertension,20O7,50(1): 197-203.   
+[7]Williams B,Lacy PS,Thom SM,et al. Differential impact of blood pressure-lowering drugs on central aortic pressure and clinical outcomes:principal resultsofthe Conduit Artery Function Evaluation(CAFE)study[J].Circulation,2006,113(9):1213-25.   
+[8]Laurent S,Cockcroft J,Van Bortel L,et al.On behalf of the European network for noninvasive investigation of large arteries. expert consensus document on arterial stiffness: methodological issues and clinical applications [J].Eur Heart J,2OO6,27(21): 2588-605.   
+[9]Van Herck JL,De Meyer GR,Martinet W,et al. Impaired fibrilln-1 function promotes features of plaque instability in apolipoprotein E-deficient mice[J]. Circulation,2009,120(24): 2478-87.   
+[10]Jankowski P, Bilo G,Kawecka-Jaszcz K. The pulsatile component of blood pressure: its role in the pathogenesis of atherosclerosis[J]. Blood Press,2007,16(4): 238-45.   
+[11]Agnoleti D,Zhang Y, Salvi P,et al. Pulse pressure amplification, pressurewaveform calibration and clinical applications [J]. Atherosclerosis,2012,224(1): 108-12.   
+[12]Shinohata R, Nakatsu T, Yuki Y,et al. Association of augmentation index of radial pressure wave form with diurnal variation pattern of blood pressure in untreated patients with essential hypertension[J]. JHypertens,2008,26(3): 535-43.   
+[13]Mitchell GF,Parise H,Benjamin EJ,et al.Changes in arterial stiffness and wave reflection with advancing age in healthy men and women:The Framingham Heart Study[J].Hypertension,2004, 43(6): 1239-45.   
+[14]Atkinson J.Age-related medial elastocalcinosisin arteries: mechanisms,animal models,and physiological Consequences[J]. J Appl Physiol, 2008,105(5): 1643-51.   
+[15]Mceniery CM, HallIR, Qasem A,et al. Normal vascular aging: differential effects on wave reflection and aortic pulse wave velocity:the Anglo-Cardiff Collaborative Trial (ACCT) J].J Am Coll Cardiol,2005,46(9): 1753-60.   
+[16]Vasan RS,Larson MG, Levy D.Determinants of echocardiographic aortic root size.The Framingham Heart Study[J].Circulation, 1995,91(3): 734-40.   
+[17]Izzo JL, Mitchell GF. Aging and arterial structure-function relations [J].Adv Cardiol, 2007,44: 19-34.   
+[18]Avolio AP,Van Bortel LM,Boutouyrie P,et al.Role of pulse pressure amplification in arterial hypertension: experts'opinion and review of the data[J].Hypertension,2009,54(2): 375-83.   
+[19] Protogerou AD,Papaioannou TG,Blacher J,et al.Central blood pressure:do we need them in the management of cardiovascular disease?Is it a feasible therapeutic target[J].JHypertens,2007,25 (2): 265-72.   
+[20]Benetos A, Thomas F, Joly L,et al. Pulse pressure amplification a mechanical biomarker of cardiovascular risk[J].JAm Coll Cardiol, 2010,55(10): 1032-7.   
+[21] Sharman JE,Mceniery CM,Dhakam ZR,et al. Pulse pressure amplification during exercise is significantly reduced with age and hypercholesterolemia[J].JHypertens,2007,25(6):1249-54.   
+[22]Dart AM, Gatzka CD,Kingwell B,et al. Brachial blood pressure but not carotid arterial waveforms predict cardiovascular events in elderly female hypertensives[J].Hypertension,2006,47(4): 785-90.   
+[23]Protogerou AD, Stergiou GS, Vlachopoulos C,et al. The effect of antihypertensivedrugsoncentral bloodpressurebeyond peripheralblood pressure.Part I:evidence for specific class-effects of antihypertensive drugs on pressure amplification[J]. Curr Pharm Des,2009,15(3): 272-89.   
+[24] Roman MJ,Okin PM,Kizer JR,et al. Relations of central and brachial blood pressure to leftventricularhypertrophyand geometry:the Strong Heart Study[J].J Hypertens,2010,28(2): 384-8.   
+[25]Agabiti-Rosei E,Mancia G,O'rourke MF,et al. Central blood pressure measurements and antihypertensive therapy a consensus document[J]. Hypertension, 2007,50(1): 154-60.
+
+（下转55页）

@@ -1,0 +1,619 @@
+[
+    {
+        "type": "text",
+        "text": "福建省莆田荔城区方言语音研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "林明海",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（北京大学 中国语言文学系 北京 100871）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】荔城区方言属于闽南语系莆田话中的一个下属方言，由于其地理位置的原因，与‘标准’莆田话有着微妙的差别。前人文章并未科学有效地测试其音调以及连读的具体变化和声调值。故本文将以实验语音学的研究方式，使用Praat提取、分析发音人的语料基频，以了解荔城区莆田话单音节的调值以及双子连读变调模式。研究结果表明荔城方言的阴平调值为533、阳平为26、上声为453、阴去为42、阳去为14、阴入为21、阳入为4。存在 $4 9 \\left( 7 * 7 \\right)$ 种不同的连字变调规律。前人也有对莆田方言进行研究，但大多集中在莆仙区，而非荔城区，本次调查的音调结果虽与前人的调查大致一致，却有 $\\pm 4$ 的微小差别。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键字： 莆田方言 荔城区 单字调 双字调 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "一、引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "以词汇学角度来说，汉语可以用声调、语调来分别不同词汇的造词方式十分独特。音调造词也是汉藏语系的特色之一。故此，一个方言词的读音高低会直接影响其意义，本文以此为基础，以声调作为调查方向，调查资料并撰写此文。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "早前学者蔡国妹著作的《莆仙方言研究》虽然十分详尽，但是并未采用实验语音学的方法，将单字的调值直接提出，采用了听辨的方式。本文使用实验语音学研究方法，得出数据与其显示的略有不同。其后，更多的作者开始使用实验语音学提取基频的方法来研究莆仙方言。但是本文所研究的荔城区莆田话，虽然是莆仙话下属的一个地域分支，却受到了西南官话区的影响，不但毗邻福州而受到福州话的影响，更加受到厦门方言的影响，与‘标准’莆仙话有着微妙的差别，经过研究和与其他作者对比，荔城区莆田话和莆仙莆田话确实在调值上有着些许不同，误差值在 $\\pm 4$ 之间。同时，目前的调查研究也集中在莆田市仙游县附近，而荔城县的调查则少之又少。笔者在参考前人方言选词的基础上，结合了王爱闽《莆田方言大字典》的词表，结合当地发音人，总结出了一套特别适用于荔城区的词表以进行调查，以描写单子调和双字调值，并找出荔城区方言声调特点和双字变调规律。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "二、方言点介绍",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.荔城区简介",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "莆田市隶属我国东部沿海的福建省，其市下有5个县级区划；仙游县、荔城区、涵江区、秀屿区、城厢区。莆田市曾用名包括荔城、兴化、莆田、莆仙等，随后逐渐分为不同行政区划。荔城区占地271平方千米，常住人口88万人。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "学者普遍认为闽南语系的复杂性是由于南北，东西的长期碰撞而形成的；荔城区西边有被学术界独立为闽南语次方言的仙游方言，东北方向又有闽南区官话的福州话，位于方言变化带上，有着其独特的地理位置。根据《莆仙方言研究》，荔城区属于莆仙方言区内，使用人口占该行政区划的 $6 2 \\%$ 以上。但荔城莆田话在受到莆田官话区影响的同时，也吸收了不少来自福州话的影响，故此也有着单独调查意义。本文中也将使用莆田话，代指荔城区莆田话，而非莆仙莆田话。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/fc976e89245ac7af52e7c82116e629af531b1f468b9682b8cd02b3c3960d778e.jpg",
+        "img_caption": [
+            "图1福建省行政区图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/32126120f371ef91ec67baf19befaf2af85fd1a2c027af09c8d457ce8132f41d.jpg",
+        "img_caption": [
+            "图2莆田市行政区图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2．音系介绍 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据《莆田方言字考》记载，莆田方言音系系统为包括：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）声母：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "唇音：/p/布、步、盘/p/怕、普、秒/m/门、闻、名",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "舌尖前音：/ts/招、增、争/ts'/醋、抢、处/t/修、声、苏",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "舌尖中音：/t/道、夺、齐/t/太、虫、讨/n/怒、难、认/I/来、兰、连",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "舌根音：/k/贵、结、权/k/去、丘、裤/n/元、严、岸/h/红、胡、 费 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "零声母：/0/案、运、围 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）韵母：",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "复元音：/ai/排、哀/ui/鬼、围/au/包、抄/ou/故、乌/iu/收、手/ua/大、花 /ue/灰、月/ia/食、野/ieu/表、条",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "鼻化音：/α/生、星/σ/三、柑/i/声、影/ia/声、城/ua/山、欢/ui/卷、丸 /au／抓、吵/iu／箱、养",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "鼻尾韵：/ien/点、尖/en/先、烟/an/蓝、安/og/龙、权/pg/东、往/in/荣、心",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "塞尾音：/a?/辣、百/e?/克、漆/o?/局、俗/p?/国、术/i?/直、日/ie?/业、叶",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "声化韵：/n/光、影（3）声调共7个：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "阴平 （1) 533 灯、东阳平（2） 26 时、堂上声（3） 453 反、等阴去（ $5 *$ 调号为5) 42 灯、奋阳去（6) 14 寺、动阴入（7） 21 息、啄阳入(8) 4 故、佛",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "三、研究方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.录音准备 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "单字词录音时间为2019 年10月11日，录音环境为安静的室内，录音设备为电脑麦克风，后经过微信传送。采样频率为44100Hz，单声道。采样精度为16位，录音文件格式为.mp3。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "双字词录音时间为1029 年12月1日\\~4日，其他同上。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2．参数处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "所有音频数据均使用Praat软件进行分析。Praat是一款兼具大众性和学术性的音频处理软件。在参数提取之前，笔者首先去掉弯头和降尾，以求更加真实准确的发音情况，并曾对部分错误数据进行修正，被修正的音会在接下来的讨论中被星号标记。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3．归一化处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于每个单词的发音长短有所不同，提出的基频个数也不相同，需要进行归一化处理。通常是对基频进行实践的归一化；在基频参数先插值，然后根据需要市场抽取需要的基频数量。笔者此次每个音节抽取20 个基频数据点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4．发音人介绍 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本次实验共有四位发音人；两男两女。四人均为土生土长的莆田荔城区人，其中仅有一名年轻男子有过外出学习经历，四人母语均为荔城区莆田话，在家不使用普通话交流。其中;",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "男性甲：26岁男性乙：28岁女性甲：28 岁女性乙：30 岁",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "发音人会在录音之前提前熟悉一边词表，以确保没有生僻字。录音时声音清晰，速度适中，并且会重复读词一遍，以确保稳定性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "\\*但是值得注意的是，实验中的两位女性发音人均曾练习过闽剧唱腔，但已经要求对方在实验过程中尽量使用日常讲话时的发音方式。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.字表",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.单字词表",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/8daffee83b13b27d02b4e515ac04581ce65fd9f96eeac988bbf9500260acaa3c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>1山</td><td></td><td>飞</td><td>开</td><td>偏</td><td>猫</td><td>鸡</td></tr><tr><td>2</td><td>园</td><td>池</td><td>麦</td><td>牛</td><td>时</td><td>鱼</td></tr><tr><td></td><td>3狗</td><td>走</td><td>财</td><td>礼</td><td>火</td><td>好</td></tr><tr><td>4\\5</td><td>露</td><td>衣</td><td>正</td><td>豆</td><td>爱</td><td>数（四种读音）</td></tr><tr><td>5\\6</td><td>鸭</td><td>水（三种读音）</td><td>纸</td><td>直</td><td>左</td><td>起</td></tr><tr><td>6\\7</td><td>国</td><td>谷</td><td>谷</td><td>发</td><td>漆</td><td>策</td></tr><tr><td>7\\8</td><td>上</td><td>北</td><td>字</td><td>会</td><td>读</td><td>外</td></tr><tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.双字词表",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（注：表格分为橙色和绿色，只是为了方便发音人阅读，并不具任何实际意义）",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/d55b6385d4eaad9c1c523daabd5658a6d23ce251f5a5d9a30229ea36f942e735.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>1. 1.</td><td>飞机</td><td>家规</td><td>家业</td><td>山涧</td><td>山脚</td><td>猫公</td></tr><tr><td>1. 2.</td><td>家奴</td><td>低头</td><td>家童</td><td>低头</td><td>低回</td><td>猪哥</td></tr><tr><td>1. 3.</td><td>家务</td><td>偏僻</td><td>猫母</td><td>家谱</td><td>鸡团</td><td>猫母</td></tr><tr><td>1. 5.</td><td>书记</td><td>家教</td><td>开店</td><td>家计</td><td>高价</td><td>骚死</td></tr><tr><td>1. 6.</td><td>医院</td><td>家丑</td><td>车站</td><td>家伙</td><td>高举</td><td>医院</td></tr><tr><td>1.7.</td><td>东北</td><td>家族</td><td>抽血</td><td>猪血</td><td>家法</td><td>鸡血</td></tr><tr><td>1.8.</td><td>生活</td><td>西北</td><td>生日</td><td>骚刺</td><td>高调</td><td>高义</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/978eddd38c32562e75096f76b2bdfad74a013862609732be28e6e8283bb47d6f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>2. 1.</td><td>牛公</td><td>时差</td><td>时刻</td><td>提单</td><td>钱钞</td><td>提高</td></tr><tr><td>2. 2.</td><td>横财</td><td>食茶</td><td>横行</td><td>凉凉</td><td>时值</td><td>提词</td></tr><tr><td>2.3.</td><td>麦秸</td><td>时宜</td><td>无额</td><td>牛母</td><td>提盒</td><td>时</td></tr><tr><td>2.5.</td><td>横祸</td><td>鱼泡</td><td>无够</td><td>无到</td><td>无趁</td><td>提要</td></tr><tr><td>2. 6.</td><td>提醒</td><td>钱款</td><td>提议</td><td>提拔</td><td>鱼霍</td><td>提议</td></tr><tr><td>2.7.</td><td>牛角</td><td>横笛</td><td>油漆</td><td>头发</td><td>牛牛</td><td>衡牛</td></tr><tr><td>2.8.</td><td>提携</td><td>横幅</td><td>提炼</td><td>无事</td><td>朵谷</td><td>钱币</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3.1.</td><td>狗公</td><td>倒车</td><td>礼金</td><td>走开</td><td>火花</td><td>族规</td></tr><tr><td>3.2.</td><td>财贸</td><td>火热</td><td>礼仪</td><td>财团</td><td>地牢</td><td>地层</td></tr><tr><td>3.3.</td><td>米粉</td><td>礼品</td><td>火把</td><td>礼品</td><td>礼帽</td><td>礼节</td></tr><tr><td>3.5.</td><td>解放</td><td>礼拜</td><td>礼聘</td><td>火化</td><td>火爆</td><td>火炮</td></tr><tr><td>3.6.</td><td>好话</td><td>倒彩</td><td>口号</td><td>道口</td><td>倒影</td><td>道喜</td></tr><tr><td>3.7.</td><td>美国</td><td>礼盒</td><td>粉笔</td><td>小雪</td><td>礼彩</td><td>美地</td></tr><tr><td>3.8.</td><td>道具</td><td>财务</td><td>卤肉</td><td>地位</td><td>财运</td><td>道地</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5. 1.</td><td>豆花</td><td>爱家</td><td>绣花</td><td>衣车</td><td>数额</td><td>正音</td></tr><tr><td>5.2.</td><td>正题</td><td>爱河</td><td>正牌</td><td>货源</td><td>爱时</td><td>正题</td></tr><tr><td>5.3.</td><td>衣被</td><td>衣钵</td><td>数位</td><td>数目</td><td>数字</td><td>数学</td></tr><tr><td>5.5.</td><td>爱戴</td><td>正气</td><td>爱好</td><td>正片</td><td>意态</td><td>意气</td></tr><tr><td>5.6.</td><td>贵重</td><td>正巧</td><td>爱海</td><td>爱染</td><td>正比</td><td>爱服</td></tr><tr><td>5.7.</td><td>政策</td><td>犯法</td><td>爱情</td><td>正义</td><td>豆豆</td><td>伏法</td></tr><tr><td>5.8.</td><td>副业</td><td>正道</td><td>爱国</td><td>爱慕</td><td>正步</td><td>意义</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6.1.</td><td>鸭公</td><td>起开</td><td>鸭哥</td><td>起初</td><td>起飞</td><td>起家</td></tr><tr><td>6.2.</td><td>直指</td><td>倒头</td><td>直月</td><td>起锚</td><td>纸马</td><td>纸牌</td></tr><tr><td>6.3.</td><td>柿饼</td><td>水痘</td><td>水笔</td><td>水电</td><td>水塔</td><td>水仙</td></tr><tr><td>6.5.</td><td>路费</td><td>倒退</td><td>饭店</td><td>起爆</td><td>狗母</td><td>起吊</td></tr><tr><td>6.6.</td><td>地位</td><td>水母</td><td>水遁</td><td>水表</td><td>起手</td><td>起草</td></tr><tr><td>6.7.</td><td>大国</td><td>水土</td><td>水力</td><td>道德</td><td>办法</td><td>水法</td></tr><tr><td>6.8.</td><td>倒贴</td><td>起笔</td><td>直笔</td><td>直道</td><td>起步</td><td>卖肉</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7. 1.</td><td>国家</td><td>北风</td><td>铁丝</td><td>铁路</td><td>北方</td><td>发掘</td></tr><tr><td>7.2.</td><td>骨头</td><td>铁皮</td><td>出门</td><td>古怪</td><td>骨长</td><td>团团</td></tr><tr><td>7.3.</td><td>谷雨</td><td>出丑</td><td>铁板</td><td>谷物</td><td>国方</td><td>八千</td></tr><tr><td>7.5.</td><td>福气</td><td>发票</td><td>尺寸</td><td>尺子</td><td>福临</td><td>古代</td></tr><tr><td>7. 6.</td><td>国会</td><td>博士</td><td>入手</td><td>发现</td><td>发落</td><td>发筏</td></tr><tr><td>7.7.</td><td>八百</td><td>国法</td><td>刷漆</td><td>北国</td><td>国策</td><td>出国</td></tr><tr><td>7.8.</td><td>积极</td><td>一月</td><td>刷法</td><td>国强</td><td>图案</td><td>博学</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f29949edef929a704b59e87f4187d357486ad3cbf7b654b86ea442bf6d53ff6a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>8. 1.</td><td>目标</td><td>北风</td><td>北边</td><td>北欧</td><td>字幕</td><td>外交</td></tr><tr><td>8.2.</td><td>合同</td><td>学堂</td><td>上游</td><td>上楼</td><td>上流</td><td>字模</td></tr><tr><td>8.3.</td><td>局长</td><td>外表</td><td>上层</td><td>上手</td><td>上古</td><td>秫米</td></tr><tr><td>8.5.</td><td>卖笑</td><td>目镜</td><td>学费</td><td>会课</td><td>会意</td><td>外处</td></tr><tr><td>8.6.</td><td>北斗</td><td>绿豆</td><td>北极</td><td>字典</td><td>字母</td><td>外敌</td></tr><tr><td>8.7.</td><td>熟铁</td><td>活法</td><td>字数</td><td>字法</td><td>外铁</td><td>外货</td></tr><tr><td>8.8.</td><td>外地</td><td>字号</td><td>外部</td><td>外币</td><td>外调</td><td>字样</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "四、单音节声调参数分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1．男性与女性的单字调半音分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据《四声试验录》中提及的半音记录法，最理想的研究方法方法应该是通过把以赫兹（Hz）为单位的基频转换为相对应的半音值。具体计算公式为：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "半音 $= 1 2 \\times \\mathrm { L o g 2 }$ (f1/f2) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "其中，f2为发音人自己调领中的最低值，f1位每一个点世纪测得的基频值。使用该公式时，如果把f1替换成发音人调域内最高的测得基频值就可以获得该发言人的音域。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "之所以此方法为最理想的原因是，1)发音人的调域并不受到某一个词韵律结构的影响，而是直接受到发言人音域的影响。故此提得数据也会因此受到发言人音域的影响，而非这个词客观、理想的发音。2)女性发言人的音域往往要比男性发言的广阔许多，调域的跨度也较为广阔。基于以上原因，如果使用半音值来替代 Hz 的基频值则不但可以使数据更加贴近语言使用者的听感，还可以使得男女性发言人之间的音高差异在数据现实中不那么明显。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "荔城方言共有阴平、阳平、上声、阴去、阳去、阴入、阳入七个音调。每个声调都由6个字来提取基频，并进行归一化处理，并且提取20个基频点。但是提取极品后笔者并没有将一共168 调数据都处理为半音值，而是直接使用赫兹为单位的基频来显示。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "以下两图为调查结果：",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/57fd35c5b86facfb1fe9a7cde1f8c8091b9e60a61d39701fc580fbabbe274544.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/8ee4ba2ffe28ac9a84ace9588222eca28fdaa2ff43a732c96bcf7e691fada4d5.jpg",
+        "img_caption": [
+            "男性受访者平均数据"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从以上两张图表可以看出，男性发言人与女性发言人的平均音域有着明显的不同。女性的音域跨度在139 赫兹，男性则是91赫兹。二者在单字音调调型上则基本一致。阴平均为降调，只是女性的升降都比男性来的更加明显：男性始于163 赫兹，然后终止于128赫兹，而女性则是从302赫兹降低与238赫兹，阔度约为男性的一倍。而阳平则均为升调。值得注意的是无论男女，阳平都在最后高于阴平，且交接点都在15-16 个基频点之间。而上声则与阳平的起点赫兹基本一致，只是女性虽然升幅较快，但是最终都只高出阳平5赫兹，这或许是因为发音人长期联系闽剧，追求小开口的梅派小青衣唱腔所导致的，而男性的阳平则略高于上声的最终音值。阴去则都为降调，女性起点在312赫兹，下降至246 赫兹。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "而男性则起始于170赫兹，下降至90 赫兹，跨度甚至较高于女性，或由于阴去调的词多为开口元音结尾，因此男性的生理构造导致其跨度则略高于女性。阳去也都同为降调，但是值得注意的是女性的阴去全程低于男性，起于246 赫兹，降低至199赫兹，而男性则起于146赫兹，在11个取值点时超过阴去，而最终又降至低于阴去的88赫兹。在入声上，则有了两性之间的明显不同，虽然都为降调，但是女性的阴入发音起于220 赫兹，降低至189 赫兹，全程高于女性的阳入。而男性的阴入则起始于119 赫兹比阳入在146 的起始要低，但是阴入后在13 个基频点时开始高于阳入，并在最后高出8个赫兹。值得注意的是，荔城区以莆田话为母语的中年女性基本都或多或少受到当地盛行的闽剧唱腔影响。本文的女性发言人也不例外，都有着大于两年的闽剧练习经验，其中闽剧女角的阴人多用于词组的前音，好听的戏曲必定需要较高的阴入作为起点，才可以有良好的听觉体验，这可能是部分导致两性发音出现分别的原因。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.总体描写 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/51f0cb5d030fbf718a6cf017189ab593a0daa454af018bc00dffd2dce50c23a9.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/526c4ea4b18c2486fe1cde5066e34ddfc6aff56f7413443e5b6a7a4bd7b3ab56.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>声调</td><td>P1</td><td>P2</td><td>P3</td><td>P4</td><td>P5</td><td>P6</td><td>P7</td><td>P8</td><td>P9</td><td>P10</td></tr><tr><td>阴平</td><td>231.2</td><td>230.1</td><td>229.5</td><td>227.4</td><td>219.4</td><td>212.6</td><td>209.6</td><td>206.4</td><td>201.0</td><td>197.5</td></tr><tr><td>阳平</td><td>158.2</td><td>157.4</td><td>152.6</td><td>149.4</td><td>149.9</td><td>150.8</td><td>152.4</td><td>157.7</td><td>158.6</td><td>159.8</td></tr><tr><td>上声</td><td>144.3</td><td>148.4</td><td>151.1</td><td>153.2</td><td>153.4</td><td>156.5</td><td>156.8</td><td>156.8</td><td>157.7</td><td>157.8</td></tr><tr><td>阴去</td><td>241.2</td><td>243.5</td><td>238.5</td><td>232.2</td><td>226.8</td><td>219.6</td><td>215.4</td><td>208.2</td><td>201.1</td><td>192.5</td></tr><tr><td>阳去</td><td>197.3</td><td>198.5</td><td>199.2</td><td>199.7</td><td>197.6</td><td>197.4</td><td>192.7</td><td>189.2</td><td>183.2</td><td>182.4</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/ee11bbc87ec1c4fe3fe7163808230f1240d0c3ede9c1f4b3057d838c9f35b6a5.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>阴入</td><td>177.2</td><td>176.5</td><td>176.3</td><td>174.2</td><td>168.2</td><td>162.2</td><td>157.5</td><td>156.2</td><td>153.2</td><td>152.1</td></tr><tr><td>阳入</td><td>178.5</td><td>176.4</td><td>176.0</td><td>170.2</td><td>164.3</td><td>159.2</td><td>154.3</td><td>153.4</td><td>150.2</td><td>148.3</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/395280a6206861cb69135c4950c5ffa54e19426c12481c8c7779e297d3c0bc41.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>声调</td><td>P11</td><td>P12</td><td>P13</td><td>P14</td><td>P15</td><td>P16</td><td>P17</td><td>P18</td><td>P19</td><td>P20</td></tr><tr><td>阳平</td><td>192.5</td><td>188.5</td><td>187.4</td><td>186.6</td><td>184.6</td><td>182.2</td><td>180.7</td><td>180.2</td><td>179.6</td><td>178.6</td></tr><tr><td>阴平</td><td>162.5</td><td>164.8</td><td>165.2</td><td>168.6</td><td>169.5</td><td>171.1</td><td>175.4</td><td>176.7</td><td>177.2</td><td>178.9</td></tr><tr><td>上声</td><td>158.4</td><td>159.2</td><td>159.9</td><td>162.5</td><td>169.2</td><td>175.6</td><td>182.5</td><td>189.2</td><td>192.4</td><td>207.5</td></tr><tr><td>阴去</td><td>188.6</td><td>183.5</td><td>179.9</td><td>175.2</td><td>172.2</td><td>168.2</td><td>164.2</td><td>162.1</td><td>164.2</td><td>166.9</td></tr><tr><td>阳去</td><td>181.2</td><td>177.5</td><td>172.0</td><td>168.7</td><td>162.5</td><td>160.0</td><td>157.2</td><td>156.3</td><td>148.2</td><td>144.3</td></tr><tr><td>阴入</td><td>151.1</td><td>158.2</td><td>153.2</td><td>148.2</td><td>145.2</td><td>144.2</td><td>142.3</td><td>141.1</td><td>140.2</td><td>139.2</td></tr><tr><td>阳入</td><td>146.5</td><td>142.3</td><td>138.2</td><td>136.4</td><td>135.2</td><td>134.2</td><td>133.5</td><td>132.6</td><td>131.2</td><td>130.1</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "以上图表将两位男性、两位女性发言人的基频数据进行平均值后，而得到的整体数据。整体来说，跨度超过100 赫兹，这也是部分因为莆田话可以直接用作戏剧表演的缘故，每一个字经过发音修饰都可以变成所谓‘戏腔’，所以导致音域跨度较大。阴平为降调，而阳平为升调，阴平虽然起始赫兹高于阳平，但两者在最终取值点的基频是一样的。而上升则是声调，并且最终的调值在207赫兹，是所有调里面结尾最高的。阴去和阳去则同为降调，阴去开始于240赫兹，是所有调值里面最高的后缓缓下降，而阳去则开始的调值为197赫兹，仅次于阴平和阴去，全程呈下降趋势，并且全程调值低于阴去。阳入和阴入则大致起点相等，均在177赫兹左右，而后渐渐分开，值得注意的是，男性的阴入起始调值低于阳入，而女性的阴入起始调值则高于男性，才导致了平均数几乎相等的情况。并且本文的女性录音人均有着多于两年的戏曲练习经验，这也导致了她们的阴入会比平常女性更加的高，才导致出现了这样的情况。希望以后的研究员可以注意。但是当地的闽剧颇为兴盛，很少有以莆田话为母语的女性完全不懂闽剧唱法，这也就导致了发音标准良好的莆田话必定受到了当地的戏曲文化中唱法影响。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "五、双音节声调参数分析以及讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由于组合众多，笔者对组合进行了相似变化的数据取平均数的处理，以确保报告的清晰简洁。在分析数据之前，李小凡老师的《汉语方言连续变调的层级和类别》中提出，语音变调的原因主要有三种；意识为了降低发音的困难度的简化连调试；二是为了是字组内部凉音的音节产生区分而发生的异化；三则是为了减少连调总数，由此构建比较简单易懂的连调系统而产生的类调中和，也叫中和形连调系统。由于早前发现女性发言人都有学习闽曲的经历，且当地戏曲文化盛行，需要发言人发音连贯，以‘细腻连贯’为美。故此笔者则以第一种：简化型连调来作为基础，将所得到的资料进行整合。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1.阴平 $+ \\tt X$ ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d7e12e85c81b232d05e4721ae63fd486bfae786c5a767cec6ebe5163435ee11.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "阴平 $+$ 阴平 $\\ c =$ 阳去 $^ +$ 阴平阴平 $^ { \\cdot + }$ 阳平 $\\ c =$ 阳去 $^ +$ 阳平阴平 $+$ 上声 $\\ c =$ 阳去 $^ + .$ 上声阴平 $^ { \\cdot + }$ 阴去 $\\ c =$ 阳去 $^ +$ 阴去阴平 $^ { \\cdot + }$ 阳去 $\\ c =$ 阳平 $^ { \\cdot + }$ 阳去阴平 $^ { \\cdot + }$ 阴入 $\\ c =$ 阳平 $+$ 阴入阴平 $^ { \\cdot + }$ 阳入 $\\circleddash$ 阳去 $^ +$ 阳入",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "由此可见，阴平在与阴平、阳平、上声、阴去、阳入组合时，都会作为高开的降调出现起点的平均值都在138.5Hz 左右，重点在 $9 2 \\mathrm { { H z } }$ ；呈现阳去的特点。而阴平在与阳去和阴入组合时则会变为高开的升调起点在 $1 2 0 \\mathrm { H z }$ ，慢慢上升至$1 5 0 \\mathrm { H z }$ ；呈现阳平的特点。由此可见，在双音节字中，阴平的变调明显，都会进行变调以保证两个音尽可能的衔接，但同时保证发音的清晰，省力的同时确保发音的清楚。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.阳平 $+ \\tt X$ ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/3d9cf2f6e414b06fd2893c24b48f3bd6e225548d19d4108d3e6ed9ae5db0d583.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "阳平 $^ { \\cdot + }$ 阴平 $\\ c =$ 阳去 $^ +$ 阴平 由此可见，阳平在与阴平、阳平、上升、阳入组合的",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "阳平 $^ { \\cdot + }$ 阳平 $\\ c =$ 阳去 $^ +$ 阳平阳平 $+$ 上声 $\\ c =$ 阳去 $^ +$ 上声阳平 $^ { \\cdot + }$ 阴去 $\\ c =$ 阴平 $^ { \\cdot + }$ 阴去阳平 $^ +$ 阳去 $\\ c =$ 阴去 $^ +$ 阳去阳平 $^ { \\cdot + }$ 阴入 $\\ c =$ 阴去 $^ +$ 阴入阳平 $^ { \\cdot + }$ 阳入 $\\circleddash$ 阳去 $^ +$ 阳入",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "时候则，平均起点会在 $1 3 8 \\mathrm { H z }$ 左右，然后降调至97Hz总体呈现出阳去的趋势。而阳平在与阴去组合的时候则会从月 $1 6 0 \\mathrm { H z }$ 时开始，略微升调之后总体呈降调趋势，最终平均停留在 $1 0 0 \\mathrm { H z }$ ，呈阴平的样式。阴平在与阳去和阴入组合的时候则会从 $1 6 5 \\mathrm { H z }$ 开始，在短暂升调之后缓慢降调，最总在 $1 4 0 \\mathrm { { H z } }$ 左右终结调型在高降调保持，但是降幅较小。由此可见，在阳平的组合中，还是以省力、方便发音为变调的效果。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c39541c5acc6713d6797889f77bf9228cbe8435d9999ade6051a8df6ef9c2dc.jpg",
+        "img_caption": [
+            "3上声 $+ \\tt X$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "上声 $^ +$ 阴平 $\\ c =$ 阳去 $^ +$ 阴平由上图可见，当上声与阴平、上声、阴去、阳入组合的上声 $^ +$ 阳平 $\\ c =$ 阳平 $^ { \\cdot + }$ 阳平时候，则平均会从 $1 3 8 \\mathrm { H z }$ 左右出发开始降调，最终降至上声 $+$ 上声 $\\ c =$ 阳去 $^ + .$ 上声96Hz 左右，调值和半音值都十分接近阳去。而在与阳上声 $^ +$ 阴去 $\\ c =$ 阳去 $^ +$ 阴去平、阳去、阴入组合的时，平均值则会从 $1 2 0 \\mathrm { H z }$ 升调上声 $^ +$ 阳去 $\\ c =$ 阳平 $^ { \\cdot + }$ 阳去至 $\\mathrm { 1 5 2 H z }$ ，这也就出现了阳平的特点。由此可见，这两上声 $^ +$ 阴入 $\\ c =$ 阳平 $+$ 阴入都将较难接上的上声变为了更容易接上之后的阳去和上声 $^ +$ 阳入 $\\ c =$ 阳去 $^ +$ 阳入阳平，使得整体发音都更加的流畅。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.阴去 $+ \\tt X$ ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/50ee59df1d8e1f0a13911b548fbb1e1f7d348f14833f816644536ee02e14311d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "阴去 $^ +$ 阴平 $\\ c =$ 阴平 $^ { \\cdot + }$ 阴平由此可见，当阴去在与阴平、阳平、上声、阴去组合时阴去 $^ +$ 阳平 $\\ c =$ 阴平 $+$ 阳平其调值平均会由162Hz开始略微上调然后呈降调趋势阴去 $+$ 上声 $\\ c =$ 阴平 $+$ 上声最后平稳在 $1 4 0 \\mathrm { { H z } }$ 左右，是降调，但降调并不明显，而阴去 $^ +$ 阴去 $\\ c =$ 阴平 $+$ 阴去略微下降后保持平稳。呈现阴平的特征。而当阴去和阴去 $^ +$ 阳去 $\\ c =$ 阴去 $^ +$ 阳去阳去、阴入组合的时，则维持其阴去的特征，总体由阴去 $^ +$ 阴入 $\\circleddash$ 阴去 $^ +$ 阴入 $1 6 0 \\mathrm { H z }$ 左右开始降调至 $1 0 2 \\mathrm { H z }$ 。可以见到，阴去与大多阴去 $^ +$ 阳入 $\\ c =$ 阴平 $^ { \\cdot + }$ 阳入数音调组合的时候都会变为阴平，以确保发音平稳，只有在遇到阳去，阴入等本身就能与阴去接上的音调才会保持不变。这一组变调再次显示了荔城区方言主要的变调模式就是为了方便发音，和节省力气。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5.阳去 $+ \\tt X$ ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/9eb758d4fc3410c4e4d74ed53e087bb86a65b704ae7c3d27a0e6e338410a21ae.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "阳去 $^ +$ 阴平 $\\ c =$ 阴平 $^ { \\cdot + }$ 阴平由此可见在阳去与阴平、阳平、阴去组合的时候，调值阳去 $^ +$ 阳平 $\\ c =$ 阴平 $^ { \\cdot + }$ 阳平会由 $1 6 4 \\mathrm { H z }$ 开始略微上升后，平稳降至 $1 4 0 \\mathrm { { H z } }$ 左右，虽阳去 $+$ 上声 $\\ c =$ 阳去 $^ + .$ 上声 是降调，但是整体降幅较小，整体平滑，比较接近阴平阳去 $^ +$ 阴去 $\\ c =$ 阴平 $+$ 阴去的调值曲线。而在与上升组合的时候阳去则可以保持不阳去 $^ +$ 阳去 $\\ c =$ 阴去 $^ +$ 阳去变。值得注意的是，阳去结束在 $1 0 0 \\mathrm { H z }$ 左右，而上升则阳去 $^ +$ 阴入 $\\circleddash$ 阴去 $^ +$ 阴入 平均由 $1 0 2 \\mathrm { H z }$ 开始发音，整体与阳去形成了很好的结合阳去 $^ +$ 阳入 $\\ c =$ 阴平 $^ { \\cdot + }$ 阳入关系。而阳去在与阳去、阴入结合的时候则会变调由$1 6 0 \\mathrm { H z }$ 开始，略微上升后降调至 $1 0 0 \\mathrm { H z }$ ，总体呈现阴去的曲线趋势。同时，与其组合的阳去和阴入也同样都是 $1 1 0 \\mathrm { { H z } }$ 左右开始的降调，这样的观察结果也与之前的推测保持一致：荔城区方言主要以方便声音连贯作为变调出发点。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "6.阴入 $+ \\tt X$ ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f155f4333f29a6f6d246459fda78a2500768b6c08dff4564990b1de2120bcf7.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "阴入 $\\cdot ^ { + }$ 阴平 $\\ c =$ 阳入 $. +$ 阴平可以看大到，阴入无论和什么调组合，最后都坏变成大阴入 $\\cdot ^ { + }$ 阳平 $\\ c =$ 阳入 $\\cdot ^ { + }$ 阳平约由±5115开始的降调，最后终结于 $\\pm \\nobreakspace 5 \\nobreakspace 9 0 \\nobreakspace$ 。总体都阴入 $\\cdot ^ { + }$ 上声 $=$ 阳入 $. +$ 上声 呈现出阳入的趋势。这也是由于阴入调值本身比较容易阴入 $\\cdot ^ { + }$ 阴去 $\\ c =$ 阳入 $\\cdot ^ { + }$ 阴去 混淆，转为阳入则能够更好的区分后面的音。这则与之阴入 $\\cdot ^ { + }$ 阳去 $\\ c =$ 阳入 $\\cdot ^ { + }$ 阳去前的推测出现了一定的分歧。荔城区方言并不追求完全阴入 $\\cdot ^ { + }$ 阴入 $\\ c =$ 阳入 $\\cdot ^ { + }$ 阴入的融合以达到方便发言的效果，而在过于接近的时候也阴入 $\\cdot ^ { + }$ 阳入 $\\circleddash$ 阳入 $\\cdot ^ { + }$ 阳入会适当的变调，来让前字与后字能够发音分开。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "7.阳入 $+ \\tt X$ ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d95c2b0644b6812761c5fa0e6003470bbb5a95d117ddb18e6d6770c0dd37c96.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "阳入 $\\cdot ^ { + }$ 阴平 $\\ c =$ 阴入 $. +$ 阴平可以看到，阳入则在与阴平、阳平组合的时候调值会从阳入 $\\cdot ^ { + }$ 阳平 $\\ c =$ 阴入 $\\cdot ^ { + }$ 阳平 $1 2 0 \\mathrm { H z }$ 开始降调至 $8 6 \\mathrm { H z }$ ；与上声组的时候则会从 $1 1 0 \\mathrm { { H z } }$ 阳入 $\\cdot ^ { + }$ 上声 $\\ c =$ 阴入 $. + .$ 上声左右降调至 $8 9 \\mathrm { H z }$ ；与阴去、阳去、阴入、阳入组合时阳入 $\\cdot ^ { + }$ 阴去 $\\ c =$ 阴入 $\\cdot ^ { + }$ 阴去　则会由 $\\boldsymbol { 1 0 9 \\mathrm { H z } }$ 左右开始降调至 $8 8 \\mathrm { { H z } }$ 。可以见到，虽然阳入 $\\cdot ^ { + }$ 阳去 $\\ c =$ 阴入 $\\cdot ^ { + }$ 阳去有着细微的差别，但是总体都是城降调阴入的趋势与阳入 $\\cdot ^ { + }$ 阴入 $\\circeq$ 阴入 $\\cdot ^ { + }$ 阴入阴入连读变调时全部变为阳入刚好相反，阳入组合的时阳入 $\\cdot ^ { + }$ 阳入 $\\ c =$ 阴入 $\\cdot ^ { + }$ 阳入则基本都为阴入。这一变化十分的有趣。虽然与李小凡先生所提出的中和型连调系统十分相似但是则刚好将两个音调的组合完全翻转。变相增加了语言的上手难度，特别是在寻找词汇的时困难重重。但是这一做法无疑大大减少了荔城区方言的连调变化总数。使得原本极不稳定且没有固定规律的连调体系变得更加有序。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "六、总结",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "荔城区莆田话中有七个单字调，阴平、阳平、上声、阴入、阳入、阴去、阳去。本文实验调查所得阴平调值为533、阳平为26、上声为453、阴去为42、阳去为14、阴入为21、阳入为4。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "在双音连读时，上字会根据下字的调值进行改变，前字变调较为明显，后字声调基本不变具体变化如下表显示；为方便观察统计，不同音调会有标注不同颜色。",
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/37905a632c6ca21331d9afa026d5a2b51084d2d665fcd6d63fd3b6ac5d03eed7.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>调型</td><td>阴平</td><td>阳平</td><td>上声</td><td>阴去</td><td>阳去</td><td>阴入</td><td>阳入</td></tr><tr><td>阴平</td><td>阳去</td><td>阳去</td><td>阳去</td><td>阳去</td><td>阳平</td><td>阳平</td><td>阳去</td></tr><tr><td>阳平</td><td>阳去</td><td>阳去</td><td>阳去</td><td>阴平</td><td>阴去</td><td>阴去</td><td>阳去</td></tr><tr><td>上声</td><td>阳去</td><td>阳平</td><td>阳去</td><td>阳去</td><td>阳平</td><td>阳平</td><td>阳去</td></tr><tr><td>阴去</td><td>阴平</td><td>阴平</td><td>阴平</td><td>阴平</td><td>阴去</td><td>阴去</td><td>阴平</td></tr><tr><td>阳去</td><td>阴平</td><td>阴平</td><td>阳去</td><td>阴平</td><td>阴去</td><td>阴去</td><td>阴平</td></tr><tr><td>阴入</td><td>阳入</td><td>阳入</td><td>阳入</td><td>阳入</td><td>阳入</td><td>阳入</td><td>阳入</td></tr><tr><td>阳入</td><td>阴入</td><td>阴入</td><td>阴入</td><td>阴入</td><td>阴入</td><td>阴入</td><td>阴入</td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "由此我们可以看到一个看似极为复杂的变调系统。但是实际则不然。根据之前的讨论，大多数的变调都遵循李小凡先生提出的‘简化连调型’，以保证前音与后阴能够更加流畅的连接，还可以顺应当地戏曲的发音要求。同时阴入则在连读时全部转为阳入，阳入则转为阴入，则在一定程度上为‘中和型连调’。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "同时我们也可以看到荔城区方言的连读变调前音进本都要该表，很少出现维持不变的情况。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "笔者此次研究依然有许多缺陷，比如发音人数量仅有四人等。所收集的信息故此也都是初步信息需要进一步的研究和证实。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "闽语仙游话特色词初探［J]．黄金洪， 辽东学院学报(社会科学版)． 2008(03)  \n闽语仙游话词语的历史层次概说[J]．黄金洪. 牡丹江大学学报． 2008(07)  \n莆仙方言研究[D]．蔡国妹.福建师范大学2006  \n《莆田方言大字典》.王爱闽.福建人民出版社  \n莆田方言字考.陈鸿儒.龙岩师专学报 1986(02)",
+        "page_idx": 15
+    }
+]

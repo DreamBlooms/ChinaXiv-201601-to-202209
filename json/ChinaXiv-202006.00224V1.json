@@ -1,0 +1,408 @@
+[
+    {
+        "type": "text",
+        "text": "Effects of rodent-induced disturbance on eco-physiological traits of Haloxylon ammodendron in the Gurbantunggut Desert, Xinjiang, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "XIANG Yanlingl，WANG Zhongke], LYU Xinhua],HE Yaling²,LI Yuxia], ZHUANG $\\mathrm { L i } ^ { 1 }$ ZHAO Wenqin1\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 College of Life Sciences,Shihezi University, Shihezi 832003,China;   \n² School of Medicine,Shihezi University, Shihezi 832Oo3,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Disturbance by rodents alters the morphologies and nutrients of plants as well as the physical-chemical properties of the soils. Changes in plants are considered to be mechanisms of defense against the disturbance by rodents. Rodents gnaw on the assimilating branches of Haloxylon ammodendron (CA Mey.） Bunge and burrow under the bushes in the desert ecosystems of Xinjiang, China. However, eco-physiological responses of different age groups of $H .$ ammodendron to the disturbance by rodents are not well understood.In this study， soil physical-chemical properties under the shrubs and the above-ground morphological, physiological and biochemical features of assimilating branches of $H .$ ammodendron of different age groups (i.e., young, $3 0 { - } 1 0 0 ~ \\mathrm { c m }$ ; middle-aged, $1 0 0 { - } 2 0 0 ~ \\mathrm { c m }$ ; and mature, ${ > } 2 0 0$ cm) in burrowed and non-burrowed (control) areas were studied in 2O18.We found that disturbance by rodents significantly increased the crown width and total branching rates of young and middle-aged $H .$ （204 ammodendron. Photosynthetic pigment contents of assimilating branches of $H .$ ammodendron were significantly reduced under the disturbance by rodents.In term of plant nutrients,the main differences among different age groups of $H .$ ammodendron under the disturbance by rodents occurred in the total soluble sugar and reducing sugar contents that decreased in young plants, increased in middle-aged plants, and did not affect in mature plants. Crude protein and phosphorus contents significantly increased, while crude fiber and calcium contents significantly decreased in young plants. Crude fat and calcium contents significantly decreased in middle-aged plants.Soil organic mater (SOM),total nitrogen (TN),available nitrogen (AN) and available potassium (AK) contents in the topsoil $\\left( 0 { - } 2 0 \\ \\mathrm { c m } \\right)$ ，which are conducive to forming \"fertile islands\",also increased under the disturbance by rodents. In particular, soil AN and AK were the major factors affecting the above-ground morphological characteristics of $H .$ ammodendron in burrowed areas. Overall, the response and defense strategies of $H .$ ammodendron to the disturbance by rodents differed among different age groups, and the effect of the disturbance by rodents on $H .$ ammodendron gradually weakened with the increasing plant age. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: age groups; morphology; asimilating branches; soil physical-chemical properties； photosynthetic pigments ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Haloxylon ammodendron (CA Mey.) Bunge, a representative $\\mathrm { C } _ { 4 }$ succulent xerophyte grows in the desert areas of northwestern China, has xeromorphic characteristics for adaptation to drought and high-salinity environments.Recently,researchers found that $H .$ ，ammodendron provides a high nutrient content to herbivorous animals in the desert environments (Kang et al.， 2O17). The assimilating branches of $H .$ ammodendron provide not only nutrients but also water for rodents living in the desert environments (Mares et al.，1997). Rodents tend to cut the branches horizontally into small pieces and carry them to their burrows for food (Mabry et al.,1977). Additionally， fossorial mammals construct burrow systems where food， feces， seeds，plant propagules and numerous types of organic material are stored, creating patches rich in organic content and affecting the dispersion of soil nutrients (Lacey et al.，2OOl). Therefore,the life activities of rodents are certain to have a profound impact on the growth of $H .$ ammodendron. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Growth differentiation balance hypothesis projects that plants could progress into a \"growth or defense\" stage, either by investing resources in defenses against herbivores or by out-growing competitors (Siemens et al.， 2OO2). Animal feeding damage might change the morphology of plants because of the efects of selective feeding on particular plant tissues (Andino and Borghi, 2018). In certain cases, phenotypic plasticity is regarded as a low-cost defense mechanism that has a crucial role in plant-herbivore interactions (Hakes and Cronin, 2O11; Kozlov and Zvereva, 2012;Dong et al.,2O17).When the shoot apices of plants have been detached by herbivores, damaged plants have been documented to generate axillry branches to improve photosynthesis and compensate for tissue damage (Christie et al.,2O14; Dong et al., 2O17). A study by Zhang et al.(2009) also showed that slight damage to $H .$ ，ammodendron by foraging gerbils promoted an increase in the growth of the branches and crown.Nutritional grade of a plant is reflected in its probable resistance factor once the nutrient content is outside the optimal array of herbivores (Kindler and Robert,197O; Schweissing and Wilde,1979).A deficiency in plant nutrients could decrease plant palatability (Ngatia et al.， 2O15)，making plants less desirable to herbivores. Furthermore,the effects of herbivores on plants might difer among different plant growth stages. Studies have shown that disturbance of herbivores increased the defense compounds (e.g.,alkaloids) of offspring plants (Barton and Koricheva,2O10; Kafle and Wurst, 2O19).The increase of defense compounds may reduce the investment in growth or the synthesis of nutrients (Züst et al., 2015; Karasov et al.，2Ol7). However, eco-physiological responses of different age groups of $H .$ （204号 ammodendron to the disturbance by rodents remain unclear. In this paper, morphological characteristics of above-ground parts and the level of nutrients in assimilating branches of $H .$ ammodendron of diferent age groups, which is located at the southern edge of the Gurbantunggut Desert, under the disturbance of rodents were researched. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Rodents can modify the physical-chemical properties of soil via their burrowing activities (Berke,201O; Hagenah and Bennett,2O13).Recent studies have shown that the activities of burrowing animals play an important role in promoting the formation of \"fertile islands\", which usually manifests as the increases in soil nitrogen,phosphorus and carbon contents (Xu et al., 2012；Allington and Valone,2O14). Thus,the disturbance by rodents may be beneficial to the growth of $H .$ ：ammodendron. Therefore， we tested the physical-chemical propertiesof below-shrub soil at various depths in burrowed and control areas. Furthermore,the contents of leaf photosynthetic pigments are valuable indicators for possible photosynthetic eficiency (Mao et al.,20O7). Therefore, we also compared the differences in the photosynthetic pigment contents of assimilating branches of $H .$ ，ammodendron of different age groups in burrowed and control areas. We hypothesized that: (1） disturbance by rodents would lead to a reduction in photosynthetic pigments of assimilating branches of $H .$ ammodendron.To compensate for nutrient and photosynthetic losses caused by the disturbance, $H .$ ammodendron might alter its morphology; (2) $H .$ ammodendron would weaken rodent feeding on assimilating branches by reducing their nutrient contents. However, changes in nutrient contents in assimilating branches of $H .$ （204号 ammodendron may difer among diferent age groups; (3) rodent activities would increase the contents of organic matter, nitrogen, phosphorus and potassium in the soil under $H .$ ammodendron shrubs,which is likely to stimulate the growth of $H .$ ammodendron to some degree; and (4) responses of $H .$ ，ammodendron to the disturbance by rodents would differ among different age groups. In addition, eco-physiological responses of young $H .$ ，ammodendron to the disturbance by rodents would be more dramatic than those of middle-aged and mature $H .$ ammodendron. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Study area is located at the southern edge of the Gurbantunggut Desert, at a transitional zone between desert and oasis( $4 5 ^ { \\circ } 0 2 ^ { \\prime } \\mathrm { N }$ ， $8 5 ^ { \\circ } 0 4 \\mathrm { ^ { \\prime } E }$ ：， $3 4 6 \\mathrm { ~ m ~ }$ a.s.l.). The study area belongs to a typical temperate continental climate with the mean annual precipitation of $1 1 7 ~ \\mathrm { m m }$ . The mean annual evaporation is more than $1 9 8 0 \\ \\mathrm { \\ m m }$ and annual mean temperature is $6 . 6 ^ { \\circ } \\mathrm { C }$ ，The maximum temperature can reach $4 3 . 1 ^ { \\circ } \\mathrm { C }$ in summer and the minimum temperature $- 2 7 . 0 ^ { \\circ } \\mathrm { C }$ in winter. The surface of the landscape is a mosaic of dry riverbed and aeolian sandy landform.In this area, Xerophytic plants are the most common type of vegetation. The vegetation is dominated by $H .$ ammodendron and Haloxylon persicum with approximately $30 \\%$ coverage (Huang et al., 2015), where $H .$ ，ammodendron is dispersed between the dunes. Rhombomys opimus，Cricetulus migratorius,Meriones meridianus and Dipus sagitta are typical rodent species in this area ( $\\mathrm { \\Delta X u }$ et al.,2012).Amongst them, Rhombomys opimus is the most abundant species.Ma et al. (2018) found that the coverage of burrows in the southern edge of the Gurbantunggut Desert in Xinjiang was in the range of $1 8 \\% - 2 0 \\%$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Experimental design ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In July 2O18,we searched for rodent-burrowed areas along the direction of a longitudinal dune. Three $1 0 \\mathrm { m } { \\times } 1 0 \\mathrm { m }$ quadrats were placed in the middle of burrowed area. Taking the burrowed area as a center, we set up three $1 0 \\ \\mathrm { m } { \\times } 1 0 \\ \\mathrm { m }$ control quadrats in areas distinct from the edge of burrowed area, where there was no (or limited) signs of burrowing, no fresh rodents feces on the ground or at the burrowed entrances and no recently plowed sand at the burrowed entrances (Tchabovsky et al., 2OO1).The distances between all quadrats were over $5 0 \\mathrm { m }$ .Two test replicates were set at a distance of more than $1 ~ \\mathrm { k m }$ from the test site,covering three burrowed areas in total (control areas). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3Measurement of morphological characteristics of above-ground plant parts ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Plant height,basal stem diameter, crown width and total branching rate in the quadrats were measured for all $H .$ ammodendron. Basal stem diameter was measured approximately $3 \\mathrm { c m }$ above the ground. Crown width was expressed as the average width of $H .$ ：ammodendron in the east-western and north-southern directions.Total branching rate $( R _ { \\mathrm { b } } )$ of $H .$ ammodendron was calculated using the formula of Whitney (1976) and Steingraeber and Waller (1986). ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\mathsf { b } } = ( { \\mathrm { N T } } { \\mathrm { - N S } } ) / ( { \\mathrm { N T } } { \\mathrm { - N 1 } } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where NT is the total number of branches; NS is the highest branch number;and N1 is the first branch number. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4 Collection and analysis of assimilating branches ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Five plants from each young, middle-aged and mature $H .$ ammodendron were carefully chosen. A total of fifteen plants were selected from burrowed and control areas. $H .$ ：ammodendron in the height range of $3 0 { \\mathrm { - } } 1 0 0 \\ { \\mathrm { c m } }$ was considered as young plant, $H .$ ammodendron of $1 0 0 { - } 2 0 0 ~ \\mathrm { c m }$ was considered as middle-aged plant,and those over $2 0 0 \\mathrm { c m }$ was considered as mature plant (Zhang et al.,2016; Luo et al.,2O17). Assimilating branches of $H .$ ammodendron in all four directions of east, south, west and north were collected (annual branches were used to analyze photosynthetic pigments,and 1 a to 3 a branches were used to analyze nutrient contents).Assimilating branch samples were fully mixed within different areas and age groups,then numbered and brought back to the laboratory. We extracted chlorophylls (total, i.e., $a$ and $b$ ）and carotenoids with $80 \\%$ acetone and determined their concentrations spectro-photometrically according to the method of ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Lichtenthaler (1987).Assimilating branch samples were dried in an oven at $6 5 ^ { \\circ } \\mathrm { C }$ until a constant weight was achieved,and then crushed by grinder. After grinding,the samples were passed through the 40-mesh sieves for further measurement of nutrient content. According to the methods of Roe (1955) and Nelson (1944),we quantified total soluble sugar and reduced sugar with glucose as the standard. Crude protein content was measured by the Kjeldahl method,and the conversion coefficient was 6.25.Crude fat content was determined with diethyl-ether extract by the Soxhlet method. Crude fiber content was measured by the weight method (Somogyi, 1952). Phosphorous and calcium contents were measured using atomic absorption spectrum-photometry (AAS, Type 932GBC, Scientific Equipment Pty Ltd., Australia). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5 Soil collection and analyses ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We carefully selected an area of ground under the canopy cover of fifteen plants each of young, middle-aged, and mature $H .$ ，ammodendron in burrowed and control areas.For each chosen area, soil samples were collected at the four compass directions and three depths (O-20,20-40 and $4 0 { \\mathrm { - } } 6 0 ~ \\mathrm { c m } )$ at about $2 0 \\ \\mathrm { c m }$ from the base trunk of the shrub,and samples were mixed to form a single composite sample.The soil samples were sealed, labelled and brought back to the laboratory for analysis. All soil samples were dried naturally，ground and passed through a $0 . 2 \\mathrm { - m m }$ sieve for analysis. Soil $\\mathsf { p H }$ value (1:5 soil:water mix） was measured using a $\\mathrm { p H }$ meter (PHS-25 digital explicit, Shanghai Yi Dian Appliance Co., Ltd., China). The following soil properties were measured using the methods of Bao (1999): soil organic matter content (SOM, $\\mathsf { K C r } _ { 2 } \\mathsf { O } _ { 7 }$ method)，total nitrogen（TN, $\\mathrm { H C l O _ { 4 }  – H _ { 2 } S O _ { 4 } }$ digestion method),total phosphorus（TP, Mo-Sb colorimetric method),total potassium (TK, atomic absorption spectrometry), available nitrogen (AN, $\\mathrm { C a C l } _ { 2 }$ extracts analyzed with a flow analyzer),available phosphorus (AP, ${ \\mathrm { N a H C O } } _ { 3 }$ extracts analyzed with the Mo-Sb colorimetric method) and available potassium (AK, $\\mathrm { N H _ { 4 } O A c }$ extracts analyzed by atomic absorption spectrometry). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.6 Data analyses ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Softwares of SPSS 19.O and Origin 9.5 are used for data analysis and ploting.The data in the figures are represented by means $\\pm \\mathrm { S E }$ ． The above-ground morphology of $H$ ，ammodendron, physiological characteristics of assimilating branches,and soil physical-chemical properties in burrowed and control areas were compared using an independent-sample $T .$ -test method $( P { < } 0 . 0 5 )$ ： The concentrations of photosynthetic pigments in assimilating branches of $H .$ ammodendron of different ages and the physical-chemical properties of the soil at different depths were compared by means of a one-way ANOVA (analysis of variance) test and LSD (least significant difference) multiple comparisons.Pearson's correlation analysis was used to analyze the correlations among the above-ground morphological characteristics. Canoco 5.O redundancy analysis (RDA） was used to examine the associations among plant above-ground morphological characteristics and topsoil $\\left( 0 { - } 2 0 ~ \\mathrm { c m } \\right)$ physical-chemical properties in burrowed and control areas $( P { < } 0 . 0 5 )$ . Before the analysis,above-ground morphological characteristics and soil physical-chemical properties were converted into $\\lg ( x { + } 1 )$ form.Detrended correspondence analysis(DCA) was used to analyze the above-ground morphological characteristics (Leps and Smilauer,2Oo3). The outcomes showed that the extended gradients at all axes in burrowed and control areas were O.325 and 0.328, respectively. As these were less than 3.OOo,they were suitable for linear redundancy analysis. All the expansive factors of soil physical-chemical properties were less than 10.Ooo; therefore,they were all analyzed by RDA (Braak and Prentice,1988). Monte Carlo Permutation tests were used to progressively choose significant soil physical-chemical properties. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1Effects of disturbance by rodents on above-ground morphological characteristics of $H .$ ammodendron ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Disturbance by rodents reduced the mean height of $H .$ ammodendron, but the difference was not significant among different age groups ( $_ { ( P < 0 . 0 5 }$ ; Fig.la).The effect of disturbance by rodents on the above-ground morphological characteristicswasmore pronounced for young $H .$ （2号 ammodendron. The base diameter and crown width of young $H _ { ☉ }$ ，ammodendron in burrowed areas were significantly larger than those in control areas $( P { < } 0 . 0 5 )$ by $3 8 . 9 2 \\%$ and $4 1 . 4 3 \\%$ , respectively (Fig.1b). Disturbance by rodents significantly increased the crown width of middle-aged $H .$ （20 ammodendron by $2 1 . 1 7 \\%$ $( P { < } 0 . 0 5$ ； Fig.lc). Total branching rates of young，middle-aged and mature $H .$ ，ammodendron significantly increased by $2 0 . 8 8 \\%$ ， $3 8 . 6 5 \\%$ and $4 8 . 1 9 \\%$ ，respectively $( P { < } 0 . 0 5$ ; Fig.1d) under the disturbance by rodents. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The height of $H .$ ammodendron showed a close positive correlation with its basal stem diameter; nonetheless,this relationship was more significant in the control areas than in the burrowed areas $( P { < } 0 . 0 1 \\$ ; Fig. le).A close positive correlation was found between the height and crown width of $H .$ ammodendron in control areas $( P { < } 0 . 0 1$ ; Fig.1f). However, low-level positive correlation was also found between the height and crown width of $H .$ ammodendroninburrowedareas $_ { ( P < 0 . 0 5 }$ · Fig.1f). It appears that the effect of disturbance by rodents on crown width was greater than that on basal stem diameter. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e896252ffec4eed99cc8c7149a6d4cab5aff68128bd949f6c930dc47e7301ed.jpg",
+        "img_caption": [
+            "Fig.1 Difference in above-ground morphological characteristic (a-d) of $H .$ ammodendron with different ages (heights） in burrowed and control areas.Boxes represent the interquartile range (containing $50 \\%$ of values), lines acrossboxes represent medians,whiskers indicate the highest and lowest values,and circle indicates outlier.\\*and $^ { * * }$ indicate significant differences between burrowed and control areas at $P { < } 0 . 0 5$ and $P { < } 0 . 0 1$ levels, respectively. (e), Correlation between height and basal stem of $H .$ ammodendron in burrowed $( R ^ { 2 } )$ and control $( R _ { 0 } { } ^ { 2 } )$ areas;and (f) correlation between height and crown width of $H .$ ammodendron in burrowed $( R ^ { 2 } )$ and control $( R _ { 0 } { } ^ { 2 } )$ areas. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2Effects of disturbance by rodents on physiological characteristics of assimilating branches ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 Nutrient content in assimilating branches ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Effects of disturbance by rodents on the nutrient content of assimilating branches of $H .$ （204号 ammodendron differed among different age groups (Fig. 2). Disturbance significantly reduced the content of most nutrients,i.e., total soluble sugar,reducing sugar, crude fiber and calcium, in assimilating branches of young $H .$ ammodendron，and they decreased by $1 5 . 2 1 \\%$ ， $2 5 . 7 8 \\%$ ， $1 5 . 7 4 \\%$ ，and $1 7 . 4 0 \\%$ ,respectively. However, crude protein and phosphorus contents were $1 8 . 0 4 \\%$ （204号 and $1 5 . 6 2 \\%$ higher in borrowed areas than in control areas (Figs.2a, c, d, e and f). In contrast, total soluble sugar and reducing sugar contents in assimilating branches of middle-aged $H .$ （204 ammodendron in burrowed areas were $2 9 . 4 4 \\%$ and $2 7 . 0 5 \\%$ greater than those of in control areas, whereas,crude fat and calcium contents were $1 6 . 3 6 \\%$ and $3 3 . 0 1 \\%$ lower in burrowed areas than in control areas (Figs. 2b,c, e and f). For mature $H .$ ，ammodendron,disturbance by rodents only reduced the phosphorus content in assimilating branches ( $_ { ( P < 0 . 0 5 }$ ; Fig. 2). Overall, the change in nutrient contents in assimilating branches was the lowest in mature $H .$ ammodendron compared with young and middle-aged $H .$ ammodendron. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/be9bb36d4c88959f20b74385b7d83dea06de9119b13d75daf01e65172d90341c.jpg",
+        "img_caption": [
+            "Fig.2Difference of nutrient content in assimilating branches of $H .$ ammodendron in burrowed and control areas. Bars represent standard error. \\* and $^ { * * }$ indicate significant differences between burrowed and control areas at $P { < } 0 . 0 5$ and $P { < } 0 . 0 1$ levels, respectively. ",
+            "Fig.3 Comparison of photosynthetic pigment content of $H .$ ammodendron in burrowed and control areas. Different lowercase letters represent significant differences among diferent age groups (heights） of $H .$ ammodendron at $P { < } 0 . 0 5$ level. \\* and $^ { * * }$ indicate significant differences between burrowed and control areas at $P { < } 0 . 0 5$ and $P { < } 0 . 0 1$ levels,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.2Photosynthetic pigment content in assimilating branches   \nDisturbance by rodents had a significant effect on the photosynthetic pigment content of assimilating branches of $H .$ ， ammodendron. Photosynthetic pigment content of young $H .$ （204号 ammodendron was significantly reduced $( P { < } 0 . 0 5$ ; Fig. 3). And in middle-aged $H .$ ammodendron, photosynthetic pigment content was significantly decreased, but there was no significant effect on carotenoids $( P { < } 0 . 0 1$ ； Fig.3a). Chlorophyll $a$ ，total chlorophyll （Chlorophyll $a$ and $b$ ）and carotenoid contents of assimilating branches of mature $H .$ ammodendron significantly decreased in burrowed areas ( $_ { ( P < 0 . 0 5 }$ ; Fig. 3). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "0.6 rr geeeeeprereeooe (a) (b) Zortowed area a 0.28 cr eenee reig Burrowed area 0.4 Control area 0.6 \\* a 0.21 ab a a\\* b 0.4 0.14 0.2 b\\* D b 0.2 0.07 ： 0.0 0.0 0.00 30-100 100-200 >200 30-100100-200 >200 30-100 100-200>200 Height (cm) Height (cm) Height (cm) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3Soil physical-chemical property ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Soil depth had no significant effect on the contents of SOM, TP,AP,TK and AK in burrowed and control areas( ${ \\it P } { > } 0 . 0 5$ ; Fig.4). Soil TN content was the highest in the surface soil $( 0 { - } 2 0 ~ \\mathrm { c m } )$ With increasing soil depth, soil TN content decreased by $5 5 . 5 6 \\%$ and $2 5 . 0 0 \\%$ in burrowed and control areas,respectively;whereas, soil water content increased by $7 5 . 6 0 \\%$ and $6 7 . 7 5 \\%$ in burrowed and control areas,respectively $( P { < } 0 . 0 5$ ; Fig. 4). Disturbance by rodents enhanced the \"fertile island\" effect of $H .$ ，ammodendron,which mainly manifested as an increase in soil AN content at the depth of $0 { - } 4 0 ~ \\mathrm { c m }$ ，especially in the topsoil $( 0 { - } 2 0 ~ \\mathrm { c m } )$ . SOM, TN,AN and AP contents significantly increased by $2 0 . 0 9 \\%$ ， $5 5 . 5 7 \\%$ ， $4 5 . 0 6 \\%$ and $8 . 9 4 \\%$ ,respectively,at the $0 { - } 2 0$ cm depth in burrowed areas compared with control areas( $_ { ( P < 0 . 0 5 }$ ; Fig. 4).AN and AP contents and $\\mathrm { \\ p H }$ of soil at the depth of $2 0 { - } 4 0 ~ \\mathrm { c m }$ were significantly higher in burrowed areas than in control areas ( $_ { ( P < 0 . 0 5 }$ ； Fig.4),having increased by $4 0 . 3 9 \\%$ ， $2 2 . 7 1 \\%$ and $1 . 5 7 \\%$ ，respectively. However, soil $\\mathrm { \\ p H }$ at the depth of $4 0 { - } 6 0 ~ \\mathrm { c m }$ in burrowed areas was significantly lower $( 2 . 1 2 \\% )$ than that in control areas $( P { < } 0 . 0 1$ ； Fig.4).In addition，disturbance by rodents significantly reduced the water content of surface soil $( 0 { - } 2 0 \\ \\mathrm { c m } )$ by $3 5 . 5 6 \\%$ $( P { < } 0 . 0 5$ ; Fig. 4). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.0 0.30 Burrowedarea 0.8 3.2 Controlarea 0.25 a ： 0.20 a a a 0.15 d [ 加 1.6 0.8 N0.10 申 0.2 0.05 0.0 0.00 0.0 0-20 20-40 40-60 0-20 20-40 40-60 0-20 20-40 40-60 35 60 7.5 a a   \n2 a 白白白白 B 5 a d 4.5   \nK 47 1 a b at 点 3.0 0 0 1.5 1 20-40 40-60 2 0-20 2 40-60 0-20 20-40 40-60 6 a \\*\\* 400 a a a a 电 1.0 a 200 8.4 Y s0.0 0.5 串 \\* 0 8.0 0-20 20-40 40-60 0-20 20-40 40-60 0-20 20-40 40-60 Soil depth (cm) Soil depth (cm) Soil depth (cm) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4Correlation between soil physical-chemical property and above-ground morphological characteristic ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "RDA was performed to evaluate the associations between physical-chemical properties of topsoil $\\left( 0 { - } 2 0 \\ \\mathrm { c m } \\right)$ and the above-ground morphology of $H .$ ，ammodendron (Fig. 5; Table 1). In this experiment, there was no significant difference in soil water content among the deep soil samples (data not shown).Hence,soil water content was not included in the RDA analysis.The first two axes elucidated $7 0 . 2 \\%$ of the morphological characteristics of burrowed areas (Fig. 5a) and $6 3 . 8 \\%$ of the morphological features of control areas (Fig. 5b).AN $( P { = } 0 . 0 0 2 )$ and AK $\\scriptstyle ( P = 0 . 0 0 2 )$ had important influences on the above-ground morphology of $H .$ ammodendron in burrowed areas and the order of influence was AN>AK (Fig. 5a). In control areas,AN $( P { = } 0 . 0 2 )$ ，AK $\\scriptstyle ( P = 0 . 0 0 4 )$ ，TN （2 $_ { ( P = 0 . 0 1 2 ) }$ ，and AP $( P { = } 0 . 0 0 8 )$ ）had notable effects on the above-ground morphology of $H .$ ammodendron,with the order of influence being $\\mathrm { A N { > } A K { > } T N { > } A P }$ (Fig. 5b). The results indicate that AN and AK in the topsoil are the most factors affecting the above-ground morphology of $H .$ （2 ammodendron in the presence or absence of disturbance by rodents. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/3feb5f44d77e365c17a65e695535a581bbeae8431a61f36256425d532749c179.jpg",
+        "img_caption": [
+            "Fig.5Correlation between physical-chemical property of topsoil and above-ground morphology of $H .$ （204号 ammodendron,as determined by redundancy analysis (RDA). (a), burrowed areas； and (b),control areas. $\\triangle$ young $H .$ ，ammodendron； O,middle-aged $H .$ ，ammodendron；,mature $H .$ ammodendron；SOM, soil organic mater;TN,total nitrogen;TP,total phosphorus;TK,total potassium；AN,available nitrogen;AP,available phosphorus;AK,available potassium. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/08ad1c054a4c02cdd88ccf8c713b9122617ef39344e80664dd3947f3304088cb.jpg",
+        "table_caption": [
+            "Table1Forward selection of soil variables during the redundancy analysis "
+        ],
+        "table_footnote": [
+            "Note:AN,avilableroge；AKlableas；Totalous；TK,totalassi；O,solnice available phosphorus; TN,total nitrogen. "
+        ],
+        "table_body": "<html><body><table><tr><td>Sample plot</td><td>Soil variable</td><td>Eigenvalues</td><td>Explained variance (%)</td><td>F</td><td>P</td></tr><tr><td>Burrowed area</td><td>AN</td><td>0.505</td><td>50.5</td><td>25.5</td><td>0.002</td></tr><tr><td rowspan=\"8\"></td><td>AK</td><td>0.309</td><td>30.9</td><td>11.2</td><td>0.002</td></tr><tr><td>TP</td><td>0.107</td><td>10.7</td><td>3.0</td><td>0.072</td></tr><tr><td>TK</td><td>0.078</td><td>7.8</td><td>2.1</td><td>0.122</td></tr><tr><td>SOM</td><td>0.045</td><td>4.5</td><td>1.2</td><td>0.270</td></tr><tr><td>pH</td><td>0.038</td><td>3.8</td><td>1.0</td><td>0.354</td></tr><tr><td>AP</td><td>0.018</td><td>1.8</td><td>0.5</td><td>0.578</td></tr><tr><td>TN</td><td>0.014</td><td>1.4</td><td>0.3</td><td>0.690</td></tr><tr><td>AN</td><td>0.426</td><td>42.6</td><td>18.5</td><td>0.002</td></tr><tr><td rowspan=\"6\"></td><td>AK</td><td>0.305</td><td>30.5</td><td>11.0</td><td>0.004</td></tr><tr><td>TN</td><td>0.270</td><td>27.0</td><td>9.2</td><td>0.012</td></tr><tr><td>AP</td><td>0.256</td><td>25.6</td><td>8.6</td><td>0.008</td></tr><tr><td>SOM</td><td>0.101</td><td>10.1</td><td>2.8</td><td>0.104</td></tr><tr><td>TP</td><td>0.041</td><td>4.1</td><td>1.1</td><td>0.294</td></tr><tr><td>pH</td><td>0.008</td><td>0.8</td><td>0.2</td><td>0.762</td></tr><tr><td></td><td>TK</td><td>0.002</td><td>0.2</td><td><0.1</td><td>0.878</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1Soil physical-chemical property under the shrub of H. ammodendron ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In this study, rodent activity significantly increased SOM, TN,AN and AP contents in the soil (Fig. 4). This is mainly due to the burrow system constructed by rodents under the shrub of $H .$ （20 ammodendron,resulting in an accumulation in plant residues,feces and urine in the soil and strengthening the \"fertile island\" effect. However,the difference was most notable in the topsoil $( 0 { - } 2 0 ~ \\mathrm { c m } )$ (Fig. 4) because of the range of rodent activity. Studies have shown that gerbils, the most abundant rodent species in this area,are mainly active at the $2 0 { - } 3 0 ~ \\mathrm { c m }$ soil depth (Jiang et al.，2007； Xu et al.，2O12). In addition to their underground activities,the frequent surface activities of rodents also lead to an increase in nutrients in the topsoil.The increase in soil AN and AP contents at the $2 0 { - } 4 0 ~ \\mathrm { c m }$ depth in burrowed areas may be related to the activity of microorganisms. Studies have shown that increase in organic matter and nitrogen contents of the soil increases microbial biomass and diversity, improving the bio-availability of minerals (Ewing et al.,2007; Jiang et al.,2OO7).In addition,the activities of rodents are likely to affect the release of exudates from the roots of $H .$ . ammodendron, thus affecting the physical-chemical properties of soil and the biomass and diversity of microorganisms. Moreover, this interaction may be more obvious in rhizosphere soil. However, this speculation needs further study. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "As a typical salt-tolerant plant, the salt content of the soil under $H .$ ，ammodendron is high, due to the absorption of water and transport of salt by the shrub's root system（Munns and Tester, 2008;He et al.,2018),a phenomenon known as the \"salt island\" effect (Li et al., 2011).In our study, interference by rodents significantly increased the soil $\\mathsf { p H }$ at the depth of $2 0 { - } 4 0 ~ \\mathrm { c m }$ (Fig. 4). The activities of rodents may have an impact on the \"salt island\" effect under $H .$ ammodendron. Damage to the roots of $H .$ ammodendron through the activities of rodents may weaken its ability to absorb and transport salt. Our study did not involve the determination of soil salt content, so further relevant research is needed. In addition, because the activities of rodents vary among different seasons (Liu et al.,2O12), the physical-chemical changes in the soil of burrow areas will vary depending on the time of soil sample collction. For example,in the season when rodents store food，the number of foraging holes will vastly increase，which will aect the physical-chemical properties of the soil (Whitford and Kay,1999). Studies into changes in the soil physical-chemical properties due to disturbance by rodents throughout the seasons are needed to resolve this question. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2Above-ground morphological characteristic of H. ammodendron ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We found that AN and AK were positively correlated with the height, base diameter and crown width of $H$ ， ammodendron and were the main determining factors affecting the growth of $H .$ ammodendron in areas disturbed by rodents (Fig. 5a). This might be because the return of nutrients to the soil is slow in desert ecosystems (Barthelemy et al.,2O18),and $\\mathbf { N }$ and K sources in the rodent feces could be readily absorbed by vascular plants to stimulate plant growth (Siters et al.,2017).However, disturbance by rodents had a minor inhibitory effect on plant height, although the difference was not statistically significant (Fig.la). The results show that herbivores have a small inhibitory effect on the growth of $H .$ ammodendron. Young $H .$ ammodendron in burrowed areas had thicker stems than those in control areas (Fig. 1b),and this was probably related to the subsequent increase in soil nutrients.However, disturbance by rodents only affected the base diameter of young $H .$ ammodendron.In addition, young $H .$ ammodendron disturbed by rodents had greater crown widths and total branching rates than those of undisturbed plants (Figs. lc and d)，which is likely to be related to the increases in the soil nutrient content and obtainability. The increased branching rate may also be triggered by amputation, which tends to lead to an increase in crown width. Amputation generally leads to the greater branch strength, which is induced by axillary meristems released from the apical dominance (Shimizu-Sato et al., 2009).Furthermore，effect of the disturbance by rodents on the total branching rate of middle-aged and mature $H .$ ， ammodendron was much greater than that of young $H .$ ammodendron (Fig.1d), which may be due to the fact that rodents favor larger plants when building burrows, and they move short distances for small periods of time,staying near burrows most of the time (Falkenberg and Clarke,1998; Rogovin et al., 2003). Hence, larger $H .$ ， ammodendron display a greater branching response to damage. The increased crown width and branching help to increase the leaf area of $H .$ ammodendron,allowing it to absorb more sunlight, $\\mathbf { C O } _ { 2 }$ and $\\mathbf { O } _ { 2 }$ . To a degree, this is also because of the morphological flexibility of $H .$ ，ammodendron in response to the disturbance by rodents. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.3Photosynthetic pigment and nutrient contents of assimilating branches of $H .$ ammodendron ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Disturbance by rodents significantly decreased the photosynthetic pigment content of annual assimilating branches of $H _ { \\ l }$ ，ammodendron,except for the carotenoid content in assimilating braches of middle-aged $H .$ ammodendron (Fig. 3). It is well known that jasmonic acid (JA) or methyl jasmonate (JA-Me） promotes chlorophyll degradation in leaves (Jung, 2O04; Li et al., 2016). Both mechanical injury and herbivore attack may lead to a rapid accumulation of JA or JA-Me in plants (Campos-Vargas and Saltveit, 2010; Nabity et al.,2013). Hence, we speculate the reduction in chlorophyll content triggered by disturbance by rodents might be associated with JA-induced chlorophyll degradation after assimilating branches were fed. Furthermore, mechanical damage to chloroplasts and reactive oxygen species-mediated lipid peroxidation of chlorophyll pigments may also be the influencing factors of chlorophyll content reduction (Sivritepe et al., 20o9). However, this phenomenon requires further study. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Compared with control areas, there were no significant correlations among the content of photosynthetic pigments and the total soluble sugar or reducing sugar of assimilating branches in burrowed areas (Fig.S1). This indicates that the decrease in photosynthetic pigment content is not the main reason for the changes in soluble sugar and reducing sugar contents. In our study, disturbance by rodents significantly increased the contents of total soluble sugar and reducing sugar,while significantly decreased the content of crude fat in assimilating branches of middle-aged $H .$ ammodendron (Figs.2b, e and f). It may be related to the mechanical damage of photosynthetic tissues by herbivores,changing the status and distribution of carbohydrate in plants (Koch, 1996). In burrowed areas,total soluble sugar and reducing sugar in assimilating branches may be mostly used as osmoregulation substances for middle-aged $H .$ ammodendron.In contrast, total soluble sugar and reducing sugar did not increase,but instead significantly reduced, in assimilating branches of young $H .$ ammodendron after being disturbed by rodents (Figs.2e and f)，possibly because young trees lack the well-developed root and stem food stores that are omnipresent in mature plants (Barton， 2O16). Hence，after being browsed, young $H .$ ammodendron reduced the nutrient content, such as total soluble sugar,reducing sugar, crude fiber and calciumin assimilating branches (Fig. 2) to discourage feding by rodents. According to the optimal alocation theory, extremely defensive plants produce chemical substances to prevent animal feeding，which might decrease the availability of nutrients for growth and development (Züst et al.，2O15；Karasov et al.，2Ol7). However,our study only focused on the levels of nutrients,and any changes in the levels of chemical defense substances needs further study. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Modification of nutrient contents in assimilating branches of $H .$ ，ammodendron due to the disturbance by rodents was only significant in young $H .$ ammodendron. Ulappa et al. (2014) reported that browsed plants with a long-term occupancy were more likely to have the greater crude protein content. In our study, there was a significant positive correlation between crude protein and soil N (Table S1). However, disturbance by rodents only significantly increased the crude protein content in assimilating branches of young $H .$ ammodendron (Fig.2a). The nutrient contents in assimilating branches of mature $H .$ ，ammodendron were virtually unaffected, except for phosphorus contents (Fig. 2). These findings are comparable to the results reported by O'Reilly-Wapstra et al. (2005) and Sotelo et al. (2014). The age at which plants are fed on also affects the optimum defense response (Karasov et al., 2017). Mature plants of the same species might have a stronger capability to defend themselves than young specimens. Thus, the degree of disturbance by rodents seen in burrowed areas of this study was inadequate to have a significant impact on the nutrient composition of assimilating branches of mature $H .$ . ammodendron. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "It should be noted that the amount of feeding on $H .$ ammodendron by rodents varies with season and burrow density (Liu et al., 2O12; Xu et al., 2012). $H .$ ammodendron was much more abundant than any other shrub species and had become the main food source for rodents in the study area during autumn, when most herbaceous plants withered (Liu et al.,2O12). We conducted the experiment in summer when the burrow coverage was $1 8 \\% - 2 0 \\%$ in this area (Ma et al., 2018). However， with a change in the degree of disturbance，eco-physiological changes in $H .$ ammodendron may fluctuate. The results of our study preliminarily examined some of the eco-physiological responses of $H .$ ，ammodendron to the disturbance by rodents in the southern edge of the Gurbantunggut Desert. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Rodent feeding decreased the photosynthetic pigment contents of $H .$ ammodendron but increased the volume of branches and crown to cope with the losses of plant tissue，nutrient and photosynthetic machinery. In response to the losses caused by rodent activity， young $H .$ ammodendron tended to reduce the nutrient content of assimilating branches to discourage herbivores from feeding on the branches. The effect of increased soil nutrient on young $H .$ （20 ammodendron was more dramatic than those of on middle-aged and mature $H .$ ammodendron. Middle-aged $H .$ . ammodendron tended to invest more energy in defense, increasing their chemical defense substances,such as total soluble sugar and reducing sugar and decreasing the nutrient content of assimilating branches.The response of mature $H .$ ammodendron to rodents was the least pronounced of the age groups. Overall, $H .$ ammodendron with different age groups has varying degrees of tolerance to the disturbance by rodents.Defense system of $H .$ ammodendron increased with the growth of plants and the effect of disturbance by rodents on $H .$ ，ammodendron gradually decreased with age. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The study was funded by the National Natural Science Foundation of China (41561010,31560177),and the Key Laboratory of Xinjiang Phytomedicine Resource and Utilization and Academic Leader of $\" 3 1 5 2 \"$ in Shihezi University, China. We are grateful to the help from Ms.JIANG Fengjiao,Mr. GE Jinxiong and Mr. LUO Yunfeng. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Alington GRH,Valone TJ.2014.Islandsof fertility:Abyproductof grazing?Ecosystems,17(1):127-141.   \nAndinoN,BorghiCE.0l8.Occurrenceofctenmysmendocinusinaigh-altitudecolddesert:Efectonensityiosd fitness of sagebrush plants.Arctic,Antarctic,and Alpine Research,49(1): 53-60.   \nBao SD1999.Methods of Agrochemical Soil Analysis.Beijing: China Agriculture Press,25-35.(in Chinese)   \nBarthelemyH,Stark S,Michelsen A,etal.2Ol8.Urine isanimportantnitrogensourceforplants irrspectiveof vegetation composition in an Arctic tundra: Insights from a $^ { 1 5 } \\mathrm { N }$ enriched urea tracer experiment.Journal of Ecology,1O6(1): 367-378.   \nBartonK E,Koricheva J.2O10.The ontogenyof plant defense and herbivory:characterizing general paterns using meta-analysis.American Naturalist,175(4):481-493.   \nBartonKE.2O16.Lowtolerance to simulated herbivory in Hawaian seedlingsdespite induced changes in photosynthesis nd biomass allocation.Annals of Botany,117(6):1053-1062.   \nBerke SK.2010.Functional groups of ecosystem engineers: a proposed classification with comments on current issues. Integrative& Comparative Biology,50(2):147-157.   \nBrak CJFT,PrenticeIC.2O04.A theory of gradient analysis.Advances in Ecological Research,34: 23-28.   \nCampos-VargasR,SaltveitME.2010.Involvementofputativechemicalwoundsignals in the inductionofphenolic metabolism in wounded lettuce.Physiologia Plantarum,114(1):73-84.   \nChristie K S,Ruess R W,Lindberg M S,et al.2014.Herbivores influence the growth,reproduction,and morphologyofa widespread arctic willow.PloS ONE,9(7): e101716.   \nDongBC,FuT,LuoFL,etal.2O17.Herbivory-inducedmateraleectsogrowthanddefensetraitsintheclonalspecies Alternanthera philoxeroides. Science of the Total Environment,605-606:114-123. creosote-bush ecosystem. Soil Science Society of America Journal,71(2): 469-475.   \nFalkenberg JC,ClarkeJA.1998.Microhabitat useof deer mice:Effects of interspecific interaction risks.Journalof Mammalogy, 79(2): 558-565.   \nHagenah N,BennettNC.2013.Moleratsactasecosystem engineers withinabiodiversityhotspot,theCapeFynbos.Jouralof Zoology,289(1): 19-26.   \nHakes AS,CroninJT.2O1ResistanceandtolerancetoherbivoryinSolidagoaltissima(Asteraceae): Geneticvariabilitycosts, and selection for multiple traits.American Journal of Botany, 98(9):1446-1455.   \nHe AL,Niu SQ,ZhaoQ,et al.2O18.Induced salt tolerance of perenial ryegrassbyanovel bacterium strain from the rhizospere of a desert shrub Haloxylon ammodendron.International Journal of Molecular Sciences,19(2): 469.   \nHuang G,CaoYF,Wang B,etal.2O15.Effectsofnitrogenadditiononsoilmicrobesand theirimplications forsoilCemission in the Gurbantunggut Desert,centerof the Eurasian Continent.Science of the Total Environment,515-516:215-224.   \nJiang HP,WuN,Yang WK.2o7.Effectsof Rhombomys opimusonmicrobialquantity,soilmoisturecontentandsoilutrient content ina desert.Arid Zone Research,24(2):187-192.(in Chinese)   \nJung S.2004.Efectof chlorophyll reduction in Arabidopsis thaliana by methyl jasmonateor norflurazon onantioxidant systems.Plant Physiology & Biochemistry (Paris),42(3): 225-231.   \nKafleD,Wurst S.2019.Legacyefects of herbivory enhance performance andresistanceof progeny plants.Journalof Ecology, 107(1): 58-68.   \nKang JJ, Zhao W, Ying Z,et al.2O17. Calcium chloride improves photosynthesis and water status in the $\\mathrm { C } _ { 4 }$ succulent xerophyte Haloxylon ammodendron under water deficit. Plant Growth Regulation, 82(3): 467-478.   \nKarasovT,ChaeE,HermanJ,etal.2Ol7.Mechanismstomitigate the tradeoff between growthanddefense.PlantandCell, 29(4): 666-680.   \nKindlerDS,RobertS.97o.Nutrientsandthereactionoftwoalfalfaclonesto thespoted alfalfaaphid.JournalofEconomic Entomology, 63(3): 938-940.   \nKoch KE.1996.Carbohydrate-modulated gene expresion in plants.Annual Reviewof Plant Physiologyand Plant Molecular Biology,47(1): 509-540.   \nKozlovMV,ZverevaEL.2012.Delayed localresponsesofdownybirchtodamage byleafminersandleafrollers.Oikos,121(3): 428-434.   \nLacey EA,Patton JL,Cameron GN,etal.20ol.Community Ecologyof Subterranean Rodents.Chicago: Universityof Chicago Press,75-76.   \nLep\\$J,Smilauer P2003.Multivariate analysisof ecological data using CANOCO.Cambridge: Cambridge University Press, 60-65.   \nLiC J,Li Y,MaJ.20.Spatial heterogeneityofsoilchemical propertiesat finescales induced byHaloxylonammodendron (Chenopodiaceae) plants in a sandy desert. Ecological Research,26(2): 385-394.   \nLiL,Li HX,Zeng HL,etal.2016.Exogenousjasmonicacidandcyokininantagonisticallregulatericeflag leafsenescence by mediatingchlorophyll degradation,membranedeterioration,and senescence-assciated genes expresion.Journalof Plant Growth Regulation,35(2): 366-376.   \nLichtenthaler HK.1987.Chlorolshyllsand carotenoids: Pigments of photosyntheticbiomembranes.Methods inEnzymology, 148: 350-382.   \nLiu W,XuWX,YangWK,etal.2012.Foodhabitsofthe great gerbil(Rhombomysopimus)in the Southern Gurbantunggut Desert, Xinjiang,China.Pakistan Journal of Zoology,44(4): 931-936.   \nLuo Q,Chen Q,Ning H,et al.20l7.Chronosequence-based populationstructure and natural regeneration of Haloxylon ammodendronplantation in thesouthern edgeofthe Gurbantunggut Desert,Northwestern China.Russian JournalofEcology, 48(4): 364-371.   \nMa T,Zheng JH,WenAM,et al.2O18.Groupcoverageof burow entrances and distribution characteristicsof desert forest-dwelling Rhombomys opimus based onunmanned aerial vehicle (UAV)low-altitude remote sensing: Acase studyat the southern margin of the Gurbantunggut Desert in Xinjiang.Acta Ecologica Sinica,38(3): 953-963.(in Chinese)   \nMabryTJ,HunzikerJH,DifeoDRJ.1977.Creosotebush:Biologyand chemistryof Larrea in new world deserts.Desert Plants,31(5): 399.   \nMaoLZ,LuHF, WangQ,etal.2Oo7.Comparativephotosynthesis characteristicsof Calycanthus chinensisand Chimonanthus praecox. Photosynthetica,45(4): 601-605.   \nMares MA,OjedaRA,Borghi CE,etal.1997.How desertrodentsovercomehalophytic plant defenses.Bioscience,47(10): 699-704.   \nMunns R,Tester M.20o8.Mechanisms of salinity tolerance.Annual Review of Plant Biology,59(1): 651-681.   \nNabityPD,ZavalaJA,DeLuciaEH.2013.Herbivore inductionofjsmonicacidandchemicaldefencesreducephotosynthesis in Nicotiana attenuata.Journal of Experimental Botany,64(2): 685-694.   \nNelson N.1944.A photometric adaptation of the Somogyi method for determination of glucose.Journal of Biological Chemistry,153: 375-380.   \nNgatiaLW,TurnerBL,NjokaJT,etal.2O15.Theefectsofherbivoryand nutrientsonplant biomass andcarbonstoragein vertisols of an East African savanna.Agriculture Ecosystems & Environment,2O8: 55-63.   \nO'Reill-WapstraJM,Potts BM,McArthur C,etal.2Oo5.Inheritanceofresistance to mammalian herbivoresandof plant defensive chemistry in a Eucalyptus species.Journal of Chemical Ecology,31(3): 519-537.   \nRoe JH.1955.Thedetermination ofsugar in bloodand spinal fluidwithanthrone reagent.Journal of Biological Chemistry, 212(1): 335-343.   \nRogovinK,dallJA,KloI,etal..ocialorrelatesfsressiultalesoftgeatbil,ombus, in years of high and low population densities.Hormones & Behavior,43(1):132-139.   \nSchweissing FC,Wilde G1979.Temperature and plant nutrient effects onresistance of seedling sorghum to the greenhug. Journal of Economic Entomology,72(1): 20-23.   \nShimizu-Sato S,Tanaka M,Mori H.2O09.Auxin-cytokinin interactions in thecontrolof shoot branching.Plant Molecular Biology, 69(4): 429-435.   \nSiemensDH,Garner SH,Mitchell-OldsT,etal.2O2.Costof defenseinthecontextofplantcompetition: Brasscarapa may grow and defend. Ecology,83(2): 505-517.   \nSitersJ,te Beest M,CherifM,etal.2Ol7.Interactiveeffects betweenreindeerandhabitatfertilitydrivesoil nutrient availabilities in arctic tundra. Ecosystems,20(7): 1266-1277.   \nSivritepeN,KumralNA,ErturkU,etal.O9.Responsesof grapevines totwo-spotedsider mitemediatedbioticr. Journal of Biological Sciences,9(4): 311-318.   \nSomogyi M.1952. Note on sugar determination. Journal of Biological Chemistry,195(1):19-23.   \nSotelo P,PereE,Najar-RodriguezA,etal.2O14.Brasscaplanresponsestomildherbivorestresselicitedbytwopeialist insects from different feeding guilds.Journal of Chemical Ecology,4O(2):136-149.   \nSteingraeberDA,WalerDM.1986.Non-stationarityof tree branching paterns and bifurcationratiosSeries B,Biological Sciences,228(1251): 187-194.   \nTchabovskyAV,KrasnovB,KhokhlovaIS,etal.2Oo1.Theeffectofvegetationcoveronvigilaneandforaging tactics nthe fat sand rat Psammomys obesus. Journal of Ethology,19(2):105-113.   \nUlappaAC,KelseyRGFryeGG,etal.2O14.Plant proteinandsecondarymetabolitesinfluence dietselectioninamammalian specialist herbivore. Journal of Mammalogy, 95(4): 834-842.   \nWhitfordWG,KayFR.1999.Biopedturbation by mammals in deserts: areview.Journal of Arid Environments,41(2): 203-230.   \nWhitney G G1976.The bifurcationratioasanindicatorof adaptive strategy in woody plant species.Bulletinof the Torrey Botanical Club,103(2): 67-72.   \nXu M H,LiuT,JiangL.2Ol2.Studyonthe harmcharacteristicsofrodents to Haloxylon ammodendromand itscontrolfor ecological threshold value in the south of Gurbantonggut Desert.Journalof AridLand Resources and Environment,26(6): 126-133.(in Chinese)   \nXu WX,Liu W,YangWK,etal.2O12.Rhombomysopimuscontribution tothe \"fertileisland\"effectof tamarisk mounds in Junggar Basin. Ecological Research,27(4): 775-781.   \nZhang K,SuYZ,LiuTN,etal.2016.LeafC:N:PstoichiometricalandmorphologicaltraitsofHaloxylon ammodendronover plantation age sequences in an oasis-desert ecotone in North China.Ecological Research,31(3): 449-457.   \nZhang SL,KouMJ,BingJC,etal.2Ool.Ivestigationofforestrodents fauna in Gansu province.ForestPestandDisease,6: 26-28. (in Chinese)   \nZhang SL,Chen YW,MaJM,etal.2009.Efectof thedamageandfeedingof Rhombimysopimusonthe growthof Haloxylon ammodendron.Forest Pest & Disease,28(1):7-9.(in Chinese)   \nZustT,Rasmann S,AgrawalAA.2015.Growth-defensetradeofsfor two majoranti-herbivore traitsof thecommonmilkweed Asclepias syriaca. Oikos,124(10): 1404-1415. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Appendix ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(a) (b)TSS RS CF EE CP P CaChlaChlbCar Total Chl TSS RS CF E CP P CaChlaChlbCar TotalChl  \nTotalChl0.330.070.40 0.70 0.080.63 085095091094 100 Total Chl 0.810.740.13-0.01 0.77 0.210.360900.440.08 1.00\\* 拉 # t 中Car0.51 0.320.49 084 0.12 0.57 0740.93084100:094 Car0.220.200.50-0540.43 0.86.0.88 0.23-0.221.00 0.08 Correlation中 coefficientChlb0.38 0.21 0.27-0.460.07 0.47 086 0.84:100:084091 Correlation Chlb 0.240.230.270.20 0.64 0310140.061000220.44 −1.00Chla 0.44 0.130.49 0730.10 0.69 0.84 100084:093095 coefficient Chl a 0.750.68 -001-0.20-0.51-0.47 0.49 1.00 0.060230.908 \\* 11.00 車 -Q62Ca-0.33-0.03-0240.53-0.23-0741.00 084-086-0.74-0.85 Ca0.53 0.48-0.170.56 0.11 -0.9 1.000.49-0.140880.360.63 BP0.450.03-0.05 0.55 0.49100 074 0.690.470.570.63 P -0.27-0.21 0.220.71-0.29 1.00 0.91-0.47 0.31 -0.86 -0.21 -023牛CP0.200.20 061-0.29100049-0230.100.070.120.08 -0.26 CP 0.50-042-0.570.37 1.00-0.290.11 051-064043077−−0.15EE-046-0.33-0.511.00 -0.29-0550.53 073-0.46-0.84-0.70 −0.12 EE-0.08-0.040.17 100 0.370.71-0.56-0.200.20 0.54-0.01租CF0.130.05 1.00 -0.51-0.61 0.05-0.240.490.270.490.40 -−0.49 CF 0.02-0.08 1.00 0.17 -0.57 0.22-0.17-0.010.27-0.50 0.13 -0.53RS 0.871.00 0.05 0330200.03-0030.130.21 0.32 0.07 −0.86 RS 0.98100 -0.08-0.04-0.42-0.210.480.68 ? 0.230200.74 -0.92TSS 1000.87 0.13 -0460.200.450330.440.380.510.33 TSS 1.000.98 0.02-0.08-0.50-0.270.530.75 0.240.22 0.81林 ·",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/02356578d457aaf511d779abfff756a44b5c9f7137509212586a4b21449d6a80.jpg",
+        "table_caption": [
+            "Table S1 Correlation of nutrient between topsoil and assimilating branches of $H$ ，ammodendron in burrowed area "
+        ],
+        "table_footnote": [
+            "Note:TSS,totaslubleugar;rducingsgar;CFudefber;EE,cdefat;Cdeprotein;Posphrous;Caal; soilictot;otalssotb;lb available potassium.\\*and \\*\\* indicate significant correlations at $P { < } 0 . 0 5$ and $P { < } 0 . 0 1$ levels,respectively. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>SOM</td><td>TN</td><td>TP</td><td>TK</td><td>AN</td><td>AP</td><td>AK</td></tr><tr><td>TSS</td><td>0.58</td><td>-0.32</td><td>-0.55</td><td>-0.21</td><td>-0.35</td><td>0.50</td><td>-0.46</td></tr><tr><td>RS</td><td>0.55</td><td>-0.38</td><td>-0.52</td><td>-0.17</td><td>-0.40</td><td>0.35</td><td>-0.29</td></tr><tr><td>CF</td><td>0.06</td><td>-0.47</td><td>0.03</td><td>0.26</td><td>-0.35</td><td>-0.06</td><td>0.34</td></tr><tr><td>EE</td><td>-0.38</td><td>-0.82**</td><td>0.12</td><td>-0.30</td><td>-0.79*</td><td>-0.43</td><td>-0.31</td></tr><tr><td>CP</td><td>-0.11</td><td>0.62*</td><td>0.70*</td><td>0.15</td><td>0.75*</td><td>0.18</td><td>0.78*</td></tr><tr><td>P</td><td>0.03</td><td>0.61</td><td>0.54</td><td>0.11</td><td>0.78*</td><td>0.71*</td><td>0.40</td></tr><tr><td>Ca</td><td>0.14</td><td>-0.74*</td><td>-0.54</td><td>-0.43</td><td>-0.88**</td><td>-0.31</td><td>-0.82**</td></tr></table></body></html>",
+        "page_idx": 13
+    }
+]

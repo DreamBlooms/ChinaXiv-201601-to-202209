@@ -1,0 +1,476 @@
+[
+    {
+        "type": "text",
+        "text": "Excesses of Cosmic Ray Spectra from A Single Nearby Source ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wei Liu, $^ { 1 , }$ \\* Xiao-Jun Bi, $^ { 1 , \\dag }$ Su-Jie Lin,1 Bing-Bing Wang,1 and Peng-Fei Yin1 （204 $^ 1$ Key Laboratory of Particle Astrophysics， Institute of High Energy Physics, Chinese Academy of Sciences， Beijing 100049， China (Dated:November 29,2016) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Growing evidence reveals universal hardening on various cosmic ray spectra, e.g. proton, positron, as well as antiproton fraction. Such universality may indicate they have a common origin. In this paper,we argue that these widespread excesses can be accounted for by a nearby supernova remnant surrounded by a giant molecular cloud. Secondary cosmic rays (p, $\\mathrm { e ^ { + } }$ ）are produced through the colisions between the primary cosmic ray nuclei from this supernova remnant and the molecular gas.Different from the background,which is produced by the ensemble of large amount of sources in the Milky Way,the local injected spectrum can be harder.The time-dependent transport of particles would make the propagated spectrum even harder. Under this scenario,the anomalies of both primary (p, $\\mathrm { e } ^ { - }$ ）and secondary ( $\\mathrm { e ^ { + } }$ , P/p) cosmic rays can be properly interpreted. We further show that the TeV to sub-PeV anisotropy of proton is consistent with the observations if the local source is relatively young and lying at the anti-Galactic center direction. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers:Valid PACS appear here ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "it is worth to chew over the physical implication of a flat P/p fraction[58-63]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It is widely accepted that cosmic rays(CRs)below the knee region originate from the galactic supernova remnant (SNR).In light of both primordial diffusive shock acceleration[1，2] and steady-state transport[3,4] processes,the galactic CRs are expected to fall off as a featureless power-law in a wide energy range from tens of GeV to $\\sim$ PeV. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "However,such a simple picture has been challenged by new observations in the past few years. The anomalies of CR electrons/positrons have been observed by quite a number of experiments,such as HEAT[5,6],AMS-01[7], ATIC[8]，PPB-BETS[9],PAMELA[10],Fermi-LAT[11], and most recently by AMS-02[12,13]. The overabundance of positrons requires extra primary sources,which involve either astrophysical objects,such as pulsars[14- 19] and the hadronic interactions in SNRs[2O-22]，or more exotic origins like the dark matter self-annihilation or decay[23-28]. For an extensive introduction of relevant models,one can refer to the reviews[29-33] and references therein. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Observations of proton，helium，and heavier nuclei also show remarkable hardenings at energies above a few hundred GeV/nucleon[34-39]. The hadronic hardening may be ascribed to source model[4O-46], transport effect[47-52],or production mechanism[53, 54]. Most recently,AMS-O2 collaboration released the measurements of antiproton-to-proton ratio，which shows a flat behavior up to $\\sim ~ 4 0 0$ GeV[55]. This is not expected by the conventional production and propagation pattern of antiprotons[56,57]. Although sizable errorbars at high energies makes this conclusion not overwhelmingly yet, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this paper,we aim at relating all these anomalies together in a unified framework. We propose that a local, fresh SNR,which was surrounded by a giant molecular cloud(MC),can explain all the above mentioned phenomena.In this scenario,both primary nuclei and electrons were accelerated by the shock wave in the local SNR, whereas the redundant positrons and antiprotons were yielded through the hadronic interactions between the primary nuclei and molecular gas. Compared to the background component from the ensemble of large amount of Galactic SNRs, the injection spectra of this local SNR is harder. Similar picture has been suggested by [21,64], in which they focused only on the secondaries,namely positrons and antiprotons.Here we further extend the model to study its influence on primary CRs. Moreover, the consequence on Boron-to-Carbon (B/C) ratio is evaluated in a realistic way,with reasonable assumption of the source nuclear abundance.This is especially important because the preliminary data published by AMS-02 collaboration do not show significant deviation from the prediction of standard propagation model[56]. This,in turn,can impose strong constraints on the models which generate abundant secondary particles[65]. Thirdly,we deduce both background and local SNR parameters coherently without assumptions of the background parameters a priori,which renders our treatment more selfconsistent. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The rest of paper is organized as follows: in section II,we briefly review the production and propagation of CRs in our model. The results and some discussions are presented in section III. Finally in section IV,we give our conclusion. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "II. COSMICRAYTRANSPORT MODEL ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "After being injected into the interstellar space,CRs diffuse within the Galactic magnetic halo by scattering off magnetic waves and MHD turbulence.The magnetic halo is usually approximated as a cylinder, with its radial boundary equal to the Galactic radius $R = 2 0$ kpc.Its half thickness $L$ ，which characterizes the vertical stretch of interstellar magnetic field, is fixed by CR data.Both CR sources and interstellar medium (ISM) are chiefly distributed in the Galactic disk,whose average width is roughly 2oo pc，much less than halo's thickness. The transport process of CRs in the magnetic halo is described by the following diffusion equation[3,4],i.e. ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { \\displaystyle \\frac { \\partial \\psi } { \\partial t } = Q ( \\boldsymbol { r } , \\boldsymbol { p } ) + \\nabla \\cdot ( D _ { x x } \\nabla \\psi - { \\boldsymbol { V _ { c } } } \\psi ) + \\frac { \\partial } { \\partial \\boldsymbol { p } } \\left[ p ^ { 2 } D _ { p p } \\frac { \\partial } { \\partial p } \\frac { \\psi } { p ^ { 2 } } \\right] } \\\\ { \\displaystyle - \\frac { \\partial } { \\partial \\boldsymbol { p } } \\left[ \\dot { p } \\psi - \\frac { p } { 3 } ( \\nabla \\cdot { \\boldsymbol { V _ { c } } } ) \\psi \\right] - \\frac { \\psi } { \\tau _ { f } } - \\frac { \\psi } { \\tau _ { r } } \\mathrm { ~ . ~ } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Here $\\psi ( \\boldsymbol { r } , \\boldsymbol { p } , t ) = \\mathrm { d } { n } / \\mathrm { d } \\boldsymbol { p }$ is the CR density per total particle momentum $p$ at position $\\mathbfit { r }$ ． At the halo boundary,free escape condition is applied by default,namely $\\psi ( R , z , p ) = \\psi ( r , \\pm L , p ) = 0$ .The diffusion coefficient （204号 $D _ { x x }$ is supposed to be isotropic on large scales,which grows with particle rigidity $\\mathcal { R } = p c / Z e$ ，viz., ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { x x } = D _ { 0 } \\beta \\left( \\frac { \\mathcal { R } } { \\mathcal { R } _ { 0 } } \\right) ^ { \\delta } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\beta$ is the particle velocity in unit of the speed of light $c$ .Both $D _ { 0 }$ and $\\delta$ are specified as free parameters. Apart from diffusion,CR particles may still suffer from galactic convection $V _ { c }$ , diffusive reacceleration $D _ { p p }$ ，fragmentation $\\tau _ { f }$ ，radioactive decay $\\tau _ { r }$ ，energy loss $\\dot { p }$ ，etc. In this work,we adopt the diffusive-reacceleration(DR) scenario[66]. The diffusive reacceleration originates from the random motion of magnetic field in ISM, which brings about the second-order Fermi acceleration during the transport.It is usually depicted as the diffusion in momentum space,whose diffusion coefficient $D _ { p p }$ is related to spatial diffusion coefficient $D _ { x x }$ and Alfvénic velocity $v _ { A }$ by ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { p p } D _ { x x } = { \\frac { 4 p ^ { 2 } v _ { A } ^ { 2 } } { 3 \\delta ( 4 - \\delta ^ { 2 } ) ( 4 - \\delta ) } } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this work, the Galactic SNRs are separated into two classes,one is the local fresh SNR and the others are background ones. For the background SNRs，it is reasonable to assume that the spatial distribution of CRs from them arrives at steady state.Nevertheless for the local single SNR, the time-dependent transport of CRs after injection is requisite.In the next subsections,we discuss these two components separately. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A． Background Supernova Remnants ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All of the SNRs other than the nearby one are labeled as background sources.Here for simplicity, the spatial distribution of background SNRs is assumed to be axisymmetric,that is, ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( r , z ) = \\left( \\frac { r } { r _ { \\odot } } \\right) ^ { a } \\exp \\left[ - b \\cdot \\frac { ( r - r _ { \\odot } ) } { r _ { \\odot } } \\right] \\exp \\left[ - \\frac { | z | } { z _ { s } } \\right] ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "with $r _ { \\odot } = 8 . 5$ kpc,the distance from the solar system to the Galactic center.The parameters $\\alpha$ and $\\beta$ adjusted to be compatible with the Fermi-LAT gamma-ray data[67]. The injection spectrum of both primary CR nuclei and electron is paramterized as a broken power-law,namely ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nq ^ { \\mathrm { i } } = q _ { 0 } ^ { \\mathrm { i } } \\times \\left\\{ \\begin{array} { l l } { \\left( \\frac { R } { R _ { \\mathrm { b r } } } \\right) ^ { - \\nu _ { 1 } } } & { R \\leq R _ { \\mathrm { b r } } } \\\\ { \\left( \\frac { R } { R _ { \\mathrm { b r } } } \\right) ^ { - \\nu _ { 2 } } } & { R > R _ { \\mathrm { b r } } } \\end{array} \\right. .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Some other species,e.g. Li, Be, B, $\\mathrm { e ^ { + } }$ ， $\\mathrm { p }$ and radioactive elements,are hardly synthesized during the stellar nucleosynthesis. They can be brought forth from the fragmentation of parent nuclei throughout the transport. For the production of Li, Be and B,usually the so-called straight-ahead approximation is widely used, in which the kinetic energy per nucleon is conserved during the spallation process.The production rate is thus ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { j } = \\sum _ { i = \\mathrm { C , N , O } } ( n _ { \\mathrm { H } } \\sigma _ { i + \\mathrm { H }  j } + n _ { \\mathrm { H e } } \\sigma _ { i + \\mathrm { H e }  j } ) v \\psi _ { i } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $n _ { \\mathrm { H / H e } }$ is the number density of hydrogen/helium in the ISM and $\\sigma _ { i + \\mathrm { H } / \\mathrm { H e } \\to j }$ is the total cross section of the corresponding hadronic interaction. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Unlike above secondary CR nuclei, secondary $\\mathrm { e ^ { + } }$ and p have energy distribution.Therefore the source term of both $\\mathrm { e ^ { + } }$ and $\\mathrm { p }$ is the convolution of the energy spectra of primary nuclei $\\Phi _ { i } ( E )$ and the relevant differential cross section $d \\sigma _ { i + \\mathrm { H / H e }  j } / d E _ { j }$ ,i.e. ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } & { } & { Q _ { j } = \\displaystyle \\sum _ { i = \\mathrm { p , H e } } \\int d p _ { i } \\boldsymbol { v } \\{ { n } _ { \\mathrm { H } } \\frac { \\mathrm { d } \\sigma _ { i + \\mathrm { H }  j } ( p _ { i } , p _ { j } ) } { \\mathrm { d } p _ { j } }  } \\\\ & { } & {  + { n } _ { \\mathrm { H e } } \\frac { \\mathrm { d } \\sigma _ { i + \\mathrm { H e }  j } ( p _ { i } , p _ { j } ) } { \\mathrm { d } p _ { j } } \\} \\psi _ { i } ( p _ { i } ) ~ , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Furthermore， antiprotonsmaystill undergononannihilated inelastic scattering with ISM protons dur ing propagation,in which antiprotons lose a significant amount of their kinetic energies.This is also known as the tertiary production. The numerical package GALPROP $^ { - 1 }$ is introduced to solve the transport equation (1) to obtain the background CRs. The transport parameters are fine-tuned to ft the data together with the contribution from local source. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "B.Nearby Young Supernova Remnant ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We assume a local( $<$ kpc） supernova explosion occurred in a giant MC about $1 0 ^ { 5 } ~ - ~ 1 0 ^ { 6 }$ years ago. The charged particles were continually accelerated near the shock front with the expansion of supernova ejecta.The accelerated spectrum is represented by a power-law plus an exponential cut-off, i.e. $Q _ { j } \\ =$ $q _ { j } ( \\mathcal { R } / \\mathcal { R } _ { 0 } ) ^ { - \\alpha } \\exp [ - E / E _ { \\mathrm { c u t } } ]$ .The normalization $q _ { j }$ for each kind of element relies on the local chemical environment.In this work,we suppose that the element abundances in the MC are identical with the average of Galaxy. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Besides, the CR nuclei generated by the local SNR also collide with the molecular gas around them and give birth to prolific daughter particles, like B, $\\mathrm { e ^ { \\pm } }$ ， $\\mathrm { p }$ ，and so forth. The yields of B and $\\mathrm { e ^ { \\pm } }$ ， $\\mathrm { p }$ inside the MC are respectively ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { j } = \\sum _ { i = \\mathrm { C } , \\mathrm { N } , \\mathrm { O } } ( n _ { \\mathrm { H } } \\sigma _ { i + \\mathrm { H }  j } + n _ { \\mathrm { H e } } \\sigma _ { i + \\mathrm { H e }  j } ) v Q _ { i } ( E ) t _ { \\mathrm { c o l } } ( 8 )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } {  { Q _ { j } \\ = \\ \\sum _ { i = \\mathrm { p , H e } } \\sum _ { E _ { \\mathrm { t h } } } ^ { + \\infty } \\int d E _ { i } \\ v \\ \\{ n _ { \\mathrm { H } } \\frac { d \\sigma _ { i + \\mathrm { H }  j } } { d E _ { j } }  } } \\\\ & { } & {  + n _ { \\mathrm { H e } } \\frac { d \\sigma _ { i + \\mathrm { H e }  j } } { d E _ { j } } \\} Q _ { i } ( E _ { i } ) t _ { \\mathrm { c o l } } \\ , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $n _ { \\mathrm { H / H e } }$ is the number density of hydrogen/helium in MC.In this work,we assume that it is 10oO times greater than the mean value of ISM. $t _ { \\mathrm { c o l } }$ is the duration of collision. $Q _ { i } ( E )$ is the accelerated spectrum of primary nuclei inside local SNR. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "When the radius of shock front is comparable to or even larger than the size of MC,the whole MC was finally fragmented subject to the expansion of ejecta. All the CRs break out of the MC and diffuse into the interstellar space.The time-dependent distribution of CR nuclei from a point source can be obtained by means of Green function technique. Since the local SNR only makes significant contribution above tens of GeV,a simplified transport equation can competent here with other terms,for example reacceleration,energy loss,etc.,neglected. Then the transport equation for nuclei is ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial \\varphi _ { j } } { \\partial t } - \\nabla ( D _ { x x } \\nabla \\varphi _ { j } ) = Q _ { j } ( E ) \\delta ( \\boldsymbol { r } - \\boldsymbol { r } ^ { \\prime } ) \\delta ( t - t ^ { \\prime } ) - 2 h \\delta ( z ) \\Gamma _ { j } \\varphi _ { j } \\mathrm { ~ , ~ }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Here the transport equation is rewritten in terms of $\\varphi = \\mathrm { d } n / \\mathrm { d } E$ with $E$ the energy per nucleon. $2 h \\delta ( z ) \\Gamma _ { j }$ is the fragmentation term and $\\Gamma _ { \\mathrm { s p } } ^ { j } = \\big ( n _ { \\mathrm { H } } \\sigma _ { j + \\mathrm { H } } + n _ { \\mathrm { H e } } \\sigma _ { j + \\mathrm { H e } } \\big ) \\upsilon$ denotes the spallation rate of CR nuclei $j$ . Meanwhile owing to that the interstellar medium is chiefly concentrated in the Galactic disk,which is much less than halo boundary, thin-disk approximation is applied. The corresponding analytical solution can be found in [42]. As for the energetic electrons and positrons,the energy loss term, due to synchrotron in interstellar magnetic field and inverse Compton scattering off CMB photons,is far more important here compared with fragmentation.Thus the transport equation for electron and positron becomes ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial \\varphi _ { j } } { \\partial t } - D _ { x x } \\Delta \\varphi _ { j } + \\frac { \\partial } { \\partial E } ( \\dot { E } \\varphi _ { j } ) = Q _ { j } ( E ) \\delta ( \\boldsymbol { r } - \\boldsymbol { r } ^ { \\prime } ) \\delta ( t - t ^ { \\prime } ) \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The energy loss rate $\\dot { E }$ is approximately written as $\\dot { E } =$ $- b E ^ { 2 }$ in Thomson limit. Here we use the analytical so lution available in [68]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "III. RESULTS ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this paper,we apply our model to simultaneously fit the spectra of $\\bar { \\mathrm { p } } / \\mathrm { p }$ ，p and $\\mathrm { e ^ { + } }$ ， as well as B/C and $\\mathrm { e } ^ { - }$ ．The local SNR is supposed to lie at O.1 kpc away from our solar system. In our propagation model, the essential transport parameters are $D _ { 0 }$ ， $\\delta$ ， $v _ { A }$ and $L$ . The source parameters of the background CRs are $A _ { 0 } ^ { \\mathrm { p } } , \\nu _ { 1 } ^ { \\mathrm { p } } , \\nu _ { 2 } ^ { \\mathrm { p } }$ for proton,and $A _ { 0 } ^ { \\mathrm { e ^ { - } } } , \\nu _ { 1 } ^ { \\mathrm { e ^ { - } } } , \\nu _ { 2 } ^ { \\mathrm { e ^ { - } } }$ for electron.We still allow for the fluctuation of positron background,which is denoted by a multiplier $c ^ { \\mathrm { e ^ { + } } }$ [66]. For the local SNR, the proton and electron parameters are respectively $q _ { 0 } ^ { \\mathrm { p } }$ ， $\\alpha ^ { \\mathrm { p } }$ ， $E _ { \\mathrm { c u t } } ^ { \\mathrm { p } }$ and $q _ { 0 } ^ { \\mathrm { e } }$ ，b $\\alpha ^ { \\mathrm { { e } } }$ Moreover,wehaveanotherparameter specifying the collision duration of CRs within the MC, $t _ { \\mathrm { c o l } }$ . For the heavier nuclei, like C,N,O,they share the same power-law index of injection as proton.In addition, to fit the low energy data,we have to take solar modulation into account,which is represented by the modulation potential $\\phi$ [3].The parameters of transport,background sources and local SNR are summarized in the separated Tables I, II and III. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A.Energy spectra ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 illustrates our fittings assuming a comparatively young local SNR, whose age is $1 0 ^ { 5 }$ year old.In the figure,the fluxes/ratios from the background(green dash),the local primary protons and electrons(blue dashdot),the local secondary electrons and positrons(brown dash-dot）and total(black solid) are respectively reproduced. Both background and total fluxes/ratios have been solar-modulated to account for the low energy spectra.The modulation potential for p(p), $\\mathrm { e ^ { \\pm } }$ and B/C are respectively $\\phi = 6 6 0 , 1 3 0 0$ and 330 MeV. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For B/C ratio,it can be seen that both background and total can well fit the AMS-O2 data. In this energy range,the contribution from local SNR is negligible,and hence the differences between two of them are tiny. The required transport parameters are $D _ { 0 } = 5 . 9 \\times 1 0 ^ { 2 8 }$ cm² $\\mathrm { s } ^ { - 1 }$ ， $\\delta \\ = \\ 0 . 3 4 3$ ， $v _ { A } = 3 0 \\mathrm { ~ k m ~ s ^ { - 1 } }$ and $L \\ = \\ 4 . 8 5$ kpc, which are similar to other fittings[66].However above 600 GeV,the local component starts to dominate which renders the total B/C ratio hardening. This character can be verified by the future observations. Something similar also happens in the $\\bar { \\mathrm { p } } / \\mathrm { p }$ ratio.From $\\sim 1 0$ GeV, the total $\\bar { \\mathrm { p } } / \\mathrm { p }$ ratio gradually deviates from the prediction of conventional model and fattens up to $1 0 ^ { 3 }$ GeV,which agrees well with AMS-02 data. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Since both positrons and anti-protons are mainly generated by CR protons,the spectra of proton, $\\bar { \\mathrm { p } } / \\mathrm { p }$ and $\\mathrm { e ^ { + } }$ collectively pin down the components of background and local proton.We find in order to fit these spectra all together, the power-index of local protons $\\alpha = 1 . 8 3 7$ is harder than the background $\\nu _ { 2 } = 2 . 4 9$ . The high energy cutoff $E _ { \\mathrm { c u t } }$ of local proton is adjusted to $1 . 4 \\times 1 0 ^ { 5 }$ GeV for the sake of fitting high energy positron data.And to produce enough positrons at high energy,the duration of collision is $3 . 5 \\times 1 0 ^ { 2 }$ years when the density of local MC n = 1000 cm-3. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For electron spectra,the local component comes from two origins,one is the shock-accelerated primary elec trons within local SNR and the other is the products of the collision between CR nuclei and molecular gas.The normalization and injected power-law index of local primary electrons are respectively $q _ { 0 } ^ { \\mathrm { e ^ { - } } } = 1 0 ^ { 4 8 }$ GeV $^ { - 1 }$ and $\\alpha = 2$ .Therefore the electron to proton ratio in local SNR is smaller than $K _ { \\mathrm { e p } } = 0 . 0 1$ . And the injected spectrum is also harder than background electron $\\nu _ { 2 } = 2 . 8 3$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 shows the similar results but hypothesizing an older local SNR(DR-B), whose age is fitted to be $3 \\times 1 0 ^ { 5 }$ years old.Both fitted transport and background parameters are close to DR-A,but the injected power of local SNR has to be boosted to $q _ { 0 } = 9 5 \\times 1 0 ^ { 4 9 } ~ \\mathrm { G e V ^ { - 1 } }$ , nearly seven times higher than DR-A. The total energy spectra of B/C as well as $\\bar { \\mathrm { p } } / \\mathrm { p }$ resembles the model DR-A. Setting against Figure 1,the major differences come from the spectra of electron and positron,in which the total fux plunges dramatically at lower energy, around hundreds of GeV.Because of earlier releasing time of local CRs and energy loss during their propagation,only lower electrons are observed at present.This can be validated by the DAMPE experiment[69]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "B．Anisotropy ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As exemplified above,both local SNRs with different ages can well explain the current data.In order to distinguish the two cases,we further compute their accompanied anisotropies of protons and electrons.The dipole anisotropy is defined as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta = \\frac { 3 D _ { x x } } { v } \\frac { | \\nabla \\varphi | } { \\varphi } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Owning to the spatial distribution of Galactic SNRs, there is inevitablya radial gradient of CRdensity,whose direction is toward Galactic edge.Therefore in the scenario of steady-state propagation, the anisotropy grows with diffusion coefficient, namely rises with the energy. However this is incompatible with current observations, e.g. proton[70]，which do not manifest obvious energydependence between 1 TeV and 1oo TeV.One of the interpretations is that there is a fresh nearby SNR(or more) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "lying at the anti-galactic center,whose CRs can offset the background streaming. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In Figure 3,we show the anisotropies of protons respectively in DR-A(left) and DR-B(right). The blue dash-dot line is evaluated from the background and the black solid line is the total one while adding the local SNR. Apparently, the nearby source at the anti-galactic center direction can effectively lower the anisotropy,but the extent of drop-off depends on the local SNR's age. For the younger one,the total anisotropy can well conform with the measurements from 1 TeV to tens of TeV.But above 100 TeV,due to the high energy cut-off of local proton flux, the anisotropy comes back to the case of steady-state. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Due to the relatively close origin，the discreteness of the sources is more important for the anisotropy of electrons. However for the electrons,current measurements only give the upper bounds[71,72]. We compute the influence of anisotropies under both local source models,as shown in Figure 4. The blue dash-dot and black solid lines are respectively the anisotropies from the background assuming continuous distribution of the background sources and the total. Compared to DR-A, the local streaming in DR-B is comparable to the background and the anisotropy at hundreds of GeV is tremendously suppressed. Nevertheless both anisotropies are still much less than the current constraints from 1-year Fermi-LAT[71] and AMS-02[72]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "IV. CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Currently, the excesses seem prevalent in both primary and secondary galactic CRs,according to the recent observations.In this work,we address ourselves to this universal anomaly in a unified viewpoint.Specifically，we envisage there was once a nearby supernova explosion, which occurred within the giant molecular cloud. The primary CRs are accelerated by the shock wave. And the secondaries, $\\mathrm { e ^ { \\pm } }$ ， $\\mathrm { p }$ and B are massively produced by the interactions between primary CRs and molecular gas. All of them get free and enter into the interstellar space once the molecular cloud is fragmented. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In order to fit the spectra of proton，P/p ratio and positron,the power index of local source has to be harder than the average of background SNRs. For the B/C ratio, the low energy spectrum is unaffected by the local source. However beyond1 TeV,the total B/C ratio is well above the background. This is different from the spectrum of p/p ratio,whose transition occurs at lower energy. This stems from the differences of production cross section between boron and antiproton. Future measurements extending to higher energies can verify this notable feature. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For the local SNR,we hypothesize two different ages, both of which can well recreate all the spectra.The main difference is at the high energy cut-off in the spectra of electron and positron. For the younger SNR, the cut-off occurs above 1 TeV,while for the older,the spectrum falls off wellbefore 1 TeV,about hundreds of GeV.The ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d7b9b68790213ebe8471591113246055175f2b748b4f3cfd5533e951a7837b9.jpg",
+        "img_caption": [
+            "Fig.1.TheftingstoCRenergyspectra,B/C(topleft),P/p(topright),protonfux(middleleft),positronfux(middleright) and electronfux(botomleft),byDR-Amodel.ForB/Cratio,bothAM-02(red)andACE(1998/01-1999/01)(blue)[73]data areused.Thebluedash-dotisthefux fromlocal SNR.Thegreen dashandvioletsolid lines arerespectivelythebackground and total fux(orratio)after solar modulation.The parameters of transport，backgroundand local SNR arerespectively reproduced in table I, II and III. For B/C, p and $\\mathrm { e ^ { \\pm } }$ , the parameter of solar modulation $\\phi _ { \\mathrm { B / C } } = 3 3 0$ MeV, $\\phi _ { \\bar { \\mathrm { p } } / \\mathrm { p } } = 6 6 0$ MeV and $\\phi _ { \\mathrm { e } ^ { \\pm } } = 1 3 0 0 \\ \\mathrm { M e V }$ 厂 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9a1fb10483543eede2383d8a7df47b5097efbeab7eacb3bab1b6565638aff45e.jpg",
+        "img_caption": [
+            "Fig.2.TheftingtoCRenergyspectra,B/C(topleft),/p(topright),protofux(middleleft),positronfux(middleight)nd electronfux(bottomleft),underDR-Bmodel.ForB/Cratio,bothAMS-02(red)andACE(1998/01-199/01)(blue)[73]data areused.Thebluedash-dotis thefuxfromlocalSNR.The greendashandblacksolidlinesarerespectivelythebackgroundand totalfux(orratio)aftersolar modulation.Theparametersoftransport,backgroundandlocal SNRarerespectivelyreproduced in table I, II and III. For B/C, p and $\\mathrm { e } ^ { \\pm }$ , the parameter of solar modulation $\\phi _ { \\mathrm { B / C } } = 3 3 0$ MeV, $\\phi _ { \\mathrm { p } } = 6 0 0$ MeV and $\\phi _ { \\mathrm { e } ^ { \\pm } } = 1 3 0 0$ MeV. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/5d89815ee094a59da25a7fea2da5838a60f47a72afd1bd8bcbeb5bf89c02749f.jpg",
+        "table_caption": [
+            "Tab.I.Set of transport parameters. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">model Do [1028cm²/s] 8 Ro[GV] vA [km/s]L [kpc]</td></tr><tr><td>DR-A</td><td>5.9</td><td>0.343</td><td>4 30</td><td>4.85</td></tr><tr><td>DR-B</td><td>5.5</td><td>0.383</td><td>4 30</td><td>4.85</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/351712e7474938c1a5bde14133c1b6020d89481f2d9eaab84fcf40b2b7a0a407.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>model</td><td>vP</td><td>Rbr [GV]</td><td>v</td><td></td><td>E[GeV]</td><td>Av</td><td></td><td>Rbr</td><td>[GV]v²</td><td>E[GeV]</td><td></td><td>A</td></tr><tr><td>DR-A 1.81</td><td></td><td>12.88</td><td></td><td>2.49</td><td>100</td><td></td><td>4.16 1.79</td><td>2.74</td><td></td><td>2.83</td><td>25</td><td>15.4</td></tr><tr><td>DR-B 1.70</td><td></td><td>12.88</td><td></td><td>2.46</td><td>100</td><td>4.05 1.70</td><td></td><td>2.74</td><td>2.88</td><td></td><td>25</td><td>14.45</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Tab. II. Sets of parameters of background CR injection and solar modulation. The normalization flux of proton $A _ { 0 } ^ { \\mathrm { p } }$ is in units of $1 0 ^ { - 9 } / ( \\mathrm { c m } ^ { 2 } \\cdot \\mathrm { s r } \\cdot \\mathrm { s } \\cdot \\mathrm { M e V } )$ and the electron's $A _ { 0 } ^ { \\mathrm { e ^ { - } } }$ is $1 0 ^ { - 1 0 } / ( \\mathrm { c m } ^ { 2 } \\cdot \\mathrm { s r } \\cdot \\mathrm { s } \\cdot \\mathrm { M e V } )$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/e12c2429a0efb39de64f56da668d380e55cf35e16a678871e4e9f2887cbe05e0.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>model</td><td></td><td>aPq [1049 GeV-1] Ro [GV] Eut [GeV] α° qσ[1049 GeV-1] d [kpc] tage [105yr] tcol [10² yr]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>DR-A 1.837</td><td></td><td>14</td><td>12.88</td><td>1.4e5</td><td>2</td><td>0.1</td><td>0.1</td><td>1</td><td>3.5</td></tr><tr><td>DR-B1.837</td><td></td><td>100</td><td>12.88</td><td>1.4e5</td><td>2</td><td>1</td><td>0.1</td><td>3</td><td>3.5</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Tab.III. the parameters of local young SNR. $\\alpha ^ { \\mathrm { p } }$ and $\\alpha ^ { \\mathrm { { e } } }$ are the injected power-index for proton and electron. $q _ { 0 } ^ { \\mathrm { p } }$ and $q _ { 0 } ^ { \\mathrm { e } }$ are respectively the source term of proton and electron at rigidity $\\mathcal { R } _ { 0 } = 1 2 . 8 8$ GV. $d$ is its distance to solar system and $t$ the injection time of CR. $t _ { \\mathrm { c o l } }$ is the interaction time between CRs and molecular gas. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ongoing DAMPE experiment[69] could supply more precise measurement at this energy range. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For the local source model, one of the validation methods is to compare its anisotropy of high energy CRs with observations.Under steady-state assumption,the anisotropy is proportional to the diffusion coefficient, which is in conflict with the accumulative data.Ifa local SNR is located at anti-Galactic center direction, the CR flux from it could effectively counteract the streaming from the Galactic center.We compute the anisotropies under our local SNR models.We find that when the local SNR is younger, the total anisotropy of proton is in a good agreement with the observations from 1 TeV to tens of TeV. In the case of electron,the local streaming cancels the background streaming in DR-B model and the anisotropy is greatly suppressed at hundreds of GeV. The anisotropies from both models are far below the current upper limits from AMS-02 and Fermi-LAT. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We would like to thank Qiang Yuan for helpful discussion and reading the manuscript. This work is supported by the NSF of China under Grants Nos.11475189, 11475191,and by the 973 Program of China under Grant No.2013CB837000,and by the National Key Program for Research and Development (No. 2016YFA0400200). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]L.O.Drury. An introduction to the theory of diffusive shock acceleration of energetic particles in tenuous plasmas.Reports on Progress in Physics，46:973-1027, August 1983.   \n[2]R.Blandford and D.Eichler. Particle acceleration at astrophysical shocks:A theory of cosmic ray origin. Phys.Rep., 154:1-75,October 1987.   \n[3]D.Maurin,R.Taillet,F.Donato,et al.Galactic Cosmic Ray Nuclei as a Tool for Astroparticle Physics. ArXiv Astrophysics e-prints,December 2002.   \n[4] A.W.Strong，I.V.Moskalenko，and V.S.Ptuskin. Cosmic-Ray Propagation and Interactions in the Galaxy. Annual Review of Nuclear and Particle Science,57:285- 327，November 2007.   \n[5]M.A.DuVernois,S.W.Barwick，J.J.Beatty，et al. Cosmic-Ray Electrons and Positrons from 1 to 10o GeV: Measurements with HEAT and Their Interpretation. ApJ，559:296-303，September 2001.   \n[6] J.J.Beatty，A.Bhattacharyya,C.Bower,et al.New Measurement of the Cosmic-Ray Positron Fraction from 5 to 15GeV.Physical Review Letters,93(24):241102, December 2004.   \n[7] AMS-O1 Collaboration，M.Aguilar，J.Alcaraz,et al. Cosmic-ray positron fraction measurement from 1 to 30 GeV with AMS-01. Physics Letters B，646:145-154, March 2007. [8]J.Chang,J.H.Adams,H.S.Ahn,et al. An excess of cosmic ray electrons at energies of 300-800GeV. Nature, 456:362-365，November 2008.   \n[9] S.Torii, T.Yamagami,T. Tamura,et al. High-energy electron observations by PPB-BETS flight in Antarctica. ArXiv e-prints,September 2008.   \n[10]O.Adriani,G.C.Barbarino,G.A.Bazilevskaya,et al. An anomalous positron abundance in cosmic rays with energies 1.5-100GeV.Nature,458:607-609，April 2009.   \n[11]A.A.Abdo,M.Ackermann,M.Ajello,et al. Measurement of the Cosmic Ray $\\mathrm { e ^ { + } { + e ^ { - } } }$ Spectrum from 20GeV to 1TeV with the Fermi Large Area Telescope.Physical Review Letters,102(18):181101,May 2009.   \n[12]M.Aguilar，D.Aisa，A.Alvino,et al.Electron and Positron Fluxes in Primary Cosmic Rays Measured with the Alpha Magnetic Spectrometer on the International Space Station.Physical ReviewLetters,113(12):121102, September 2014.   \n[13]L.Accardo,MAguilar,D.Aisa,et al.High Statistics Measurement of the Positron Fraction in Primary Cosmic Rays of 0.5-500 GeV with the Alpha Magnetic Spectrometer on the International Space Station.Physical Review Letters,113(12):121101,September 2014.   \n[14]C.S.Shen.Pulsars and Very High-Energy Cosmic-Ray Electrons.ApJ,162:L181,December 1970.   \n[15]L.Zhang and K.S.Cheng.Cosmic-ray positrons from mature gamma-raypulsars.A&A,368:1063-1070,March 2001.   \n[16] H.Yiksel,M.D.Kistler,and T.Stanev.TeV Gamma Rays from Geminga and the Origin of the GeVPositron Excess.Physical Review Letters，103(5):051101,July 2009.   \n[17]D.Hooper，P.Blasi，and P.Dario Serpico.Pulsars as the sources of high energy cosmic ray positrons. J. Cosmology Astropart.Phys.,1:25, January 2009.   \n[18] S.Profumo.Dissecting cosmic-ray electron-positron data European Journal of Physics,1O:1-31,February 2012.   \n[19]Q.Yuan,X.-J.Bi,G.-M. Chen, et al. Implications of the AMS-02 positron fraction in cosmic rays. Astroparticle Physics, 60:1-12, January 2015.   \n[20] P. Blasi. Origin of the Positron Excess in Cosmic Rays. Physical Review Letters,103(5):051104, July 2009.   \n[21] Y.Fujita，K.Kohri，R.Yamazaki,and K.Ioka.Is the PAMELA anomaly caused by supernova explosions near the Earth? Phys.Rev.D,80(6):063003, September 2009.   \n[22] H.-B. Hu, Q. Yuan,B. Wang,et al. On the e+e Excesses and the Knee of the Cosmic Ray Spectra—Hints of Cosmic Ray Acceleration in Young Supernova Remnants. ApJ,700:L170-L173,August 2009.   \n[23] L.Bergstrom, T.Bringmann, and J. Edsjo. New positron spectral features from supersymmetric dark matter: A way to explain the PAMELA data? Phys. Rev. D, 78(10):103520,November 2008.   \n[24] Marco Cirelli， Mario Kadastik，Martti Raidal,and Alessandro Strumia.Model-independent implications of the e+-,anti-proton cosmic ray spectra on properties of Dark Matter.Nucl.Phys.,B813:1-21, 2009.[Addendum: Nucl. Phys.B873,530(2013)].   \n[25] V. Barger, W.-Y. Keung, D. Marfatia,and G. Shaughnessy. PAMELA and dark matter. Physics Letters B, 672:141-146,February 2009.   \n[26] P.-F. Yin,Q. Yuan, J. Liu,et al.PAMELA data and leptonically decaying dark matter.Phys. Rev. D, 79(2):023512, January 2009.   \n[27] L.Bergstrom, J. Edsjo,and G. Zaharijas. Dark Matter Interpretation of Recent Electron and Positron Data. Physical Review Letters,103(3):031103, July 2009.   \n[28] J. Zhang, X.-J. Bi, J. Liu, et al. Discriminating different scenarios to account for the cosmic e excess by synchrotron and inverse Compton radiation. Phys. Rev. D, 80(2):023007, July 2009.   \n[29] X.-G.He. Dark Matter Annihilation Explanation for e Excesses in Cosmic Ray. Modern Physics Letters A, 24:2139-2160,2009.   \n[30] Y.-Z. Fan, B. Zhang,and J. Chang.Electron/positron Excesses in the Cosmic Ray Spectrum and Possible Interpretations. International Journal of Modern Physics D,19:2011-2058,November 2010.   \n[31] P.D. Serpico. Astrophysical models for the origin of the positron \"excess\". Astroparticle Physics,39:2-11, December 2012.   \n[32] M. Cirell. Indirect searches for dark matter. Pramana, 79:1021-1043,November 2012.   \n[33] X.-J. Bi, P.-F. Yin,and Q. Yuan. Status of dark matter detection.Frontiers of Physics,8:794-827,December 2013.   \n[34] M.Aguilar, D.Aisa, B. Alpat, et al. Precision Measurement of the Proton Flux in Primary Cosmic Rays from Rigidity 1 GV to 1.8 TV with the Alpha Magnetic Spectrometer on the International Space Station. Physical Review Letters,114(17):171103, May 2015.   \n[35] M.Aguilar，D.Aisa,B.Alpat，et al. Precision Measurement of the Helium Flux in Primary Cosmic Rays of Rigidities 1.9 GV to 3 TV with the Alpha Magnetic Spectrometer on the International Space Station. Physical Review Letters,115(21):211101, November 2015.   \n[36] A.D. Panov, J. H. Adams,H. S. Ahn, et al.Energy spectra of abundant nuclei of primary cosmic rays from the data of ATIC-2 experiment: Final results. Bulletin of the Russian Academy of Sciences, Physics,73:564-567, June 2009.   \n[37] O. Adriani, G. C. Barbarino, G. A. Bazilevskaya, et al. PAMELA Measurements of Cosmic-Ray Proton and Helium Spectra. Science,332:69-,April 2011.   \n[38] H. S. Ahn,P. Allson,M.G. Bagliesi, et al. Discrepant Hardening Observed in Cosmic-ray Elemental Spectra. ApJ,714:L89-L93,May 2010.   \n[39] Y. S. Yoon,H. S. Ahn,P. S. Alison,et al. Cosmicray Proton and Helium Spectra from the First CREAM Flight.ApJ, 728:122,February 2011.   \n[40] P.L.Biermann, J.K.Becker, J. Dreyer,et al. The Origin of Cosmic Rays: Explosions of Massive Stars with Magnetic Winds and Their Supernova Mechanism. ApJ, 725:184-187,December 2010.   \n[41] Q.Yuan, B. Zhang,and X.-J. Bi. Cosmic ray spectral hardening due to dispersion in the source injection spectra.Phys.Rev.D,84(4):043002,August 2011.   \n[42] G.Bernard，T.Delahaye，P. Salati，and R.Taillet. Variance of the Galactic nuclei cosmic ray flux. A&A, 544:A92,August 2012.   \n[43] S. Thoudam and J.R.Horandel. Nearby supernova remnants and the cosmic ray spectral hardening at high energies.MNRAS,421:1209-1214,April 2012.   \n[44] S. Thoudam and J.R.Horandel. Revisiting the hardening of the cosmic ray energy spectrum at TeV energies. MNRAS, 435:2532-2542, November 2013.   \n[45] G.Bernard, T.Delahaye,Y.-Y.Keum,et al. TeV cosmicray proton and helium spectra in the myriad model. A&A, 555:A48, July 2013.   \n[46] W. Liu, P. Salati, and X. Chen. TeV cosmic-ray proton and helium spectra in the myriad model II. Research in Astronomy and Astrophysics,15:15-27, January 2015.   \n[47] P. Blasi, E. Amato, and P. D. Serpico. Spectral Breaks asa Signature of Cosmic Ray Induced Turbulence in the Galaxy. Physical Review Letters,109(6):061101, August 2012.   \n[48] N. Tomassetti. Origin of the Cosmic-Ray Spectral Hardening. ApJ, 752:L13, June 2012.   \n[49] P.Blasi and E.Amato. Diffusive propagation ofcosmic raysfrom supernova remnants in the Galaxy.I:spectrumandchemicalcomposition. J. Cosmology Astropart. Phys., 1:10, January 2012.   \n[50]A.E.Vladimirov,G.Johannesson,I.V.Moskalenko,and T.A.Porter.Testing the Origin of High-energy Cosmic Rays.ApJ, 752:68, June 2012.   \n[51] S. Thoudam and J.R.Horandel. GeV-TeV cosmic-ray spectral anomaly as due to reacceleration by weak shocks in the Galaxy.A&A, 567:A33, July 2014.   \n[52] Y.-Q. Guo, Z. Tian,and C. Jin. Spatial-Dependent Diffusion of Cosmic Rays and the Ratio of pbar/p,B/C. ArXiv e-prints,September 2015.   \n[53] Y. Ohira and K. Ioka. Cosmic-ray Helium Hardening. ApJ,729:L13,March 2011.   \n[54] M. A.Malkov,P.H. Diamond,and R. Z. Sagdeev. On the mechanism for breaks in the cosmic ray spectruma. Physics of Plasmas,19(8):082901,August 2012.   \n[55] M. Aguilar,L.Ali Cavasonza,B.Alpat,et al. Antiproton Flux,Antiproton-to-Proton Flux Ratio,and Properties of Elementary Particle Fluxes in Primary Cosmic Rays Measured with the Alpha Magnetic Spectrometer on the International Space Station. Physical Review Letters, 117(9):091103. Aug11st 2016.   \n[56]C.Evoli，D.Gaggero，D.Grasso， and L.Maccione. Cosmic ray nuclei,antiprotons and gamma raysinthegalaxy: anewdiffusionmodel. J.Cosmology Astropart. Phys.,10:018, October 2008.   \n[57] M.Kachelriess,I.V.Moskalenko,and S.S.Ostapchenko. New Calculation of Antiproton Production by Cosmic Ray Protons and Nuclei. ApJ,803:54,April 2015.   \n[58]G.Giesen，M.Boudaud，Y.Génolini，et al.AMS02 antiprotons,at last! Secondary astrophysical component and immediate implications for Dark Matter. J.Cosmology Astropart.Phys.,9:23,September 2015.   \n[59] S.-J. Lin,X.-J.Bi, P.-F.Yin,and Z.-H. Yu. Implications for dark matter annihilation from the AMS-02 $\\bar { p } / p$ ratio. ArXiv e-prints,April 2015.   \n[60] K.Hamaguchi,T.Moroi,and K.Nakayama.AMS-02 antiprotons from annihilating or decaying dark matter. Physics Letters B,747:523-528, July 2015.   \n[61] H.-B. Jin,Y.-L. Wu,and Y.-F. Zhou. Upper limits on dark matter annihilation cross sections from the first AMS-02 antiproton data. Phys.Rev.D,92(5):055027, September 2015.   \n[62] M. Ibe,S.Matsumoto,S.Shirai,and T.T.Yanagida. Wino dark matter in light of the AMS-02 2015 data. Phys.Rev.D, 91(11):111701, June 2015.   \n[63] B.-Q.Lu and H.-S. Zong.Limits on the Dark Matter from AMS-O2 antiproton and positron fraction data.ArXiv e-prints, October 2015.   \n[64]K.Kohri,K.Ioka,Y.Fujita,and R.Yamazaki.Can we explain AMS-O2 antiproton and positron excesses simultaneously by nearby supernovae without pulsars or dark matter? Progress of Theoretical and Experimental Physics,2016(2):021E01,February 2016.   \n[65]I.Cholis and D.Hooper. Constraining the origin of the rising cosmic ray positron fraction with the boronto-carbon ratio. Phys. Rev. D,89(4):043013, February 2014.   \n[66] S.-J. Lin,Q. Yuan,and X.-J. Bi. Quantitative study of the AMS-O2 electron/positron spectra:Implications for pulsars and dark matter properties. Phys.Rev.D, 91(6):063508,March 2015.   \n[67]R.Trotta，G.Jóhannesson，I.V.Moskalenko，et al. Constraints on Cosmic-ray Propagation Models from A Global Bayesian Analysis.ApJ,729:106,March 2011.   \n[68] T.Kobayashi,Y.Komori,K.Yoshida,and J.Nishimura. The Most Likely Sources of High-Energy Cosmic-Ray Electrons in Supernova Remnants. ApJ, 601:340-351, January 2004.   \n[69] Jin Chang.Dark Matter Particle Explorer: The First Chinese Cosmic Ray and Hard $\\gamma$ -ray Detector in Space. Chin. J. Space Sci., 34(5):550, 2014.   \n[70] P.Blasi and E. Amato. Diffusive propagation of cosmic rays from supernova remnants in the Galaxy. II: anisotropy.J.Cosmology Astropart.Phys.，1:11，January 2012.   \n[71] M.Ackermann,M.Ajello,W.B.Atwood,et al. Searches for cosmic-ray electron anisotropies with the Fermi Large Area Telescope.Phys.Rev.D,82(9):092003, November 2010.   \n[72] M.Aguilar,G.Alberti,B.Alpat,et al. First Result from the Alpha Magnetic Spectrometer on the International Space Station: Precision Measurement of the Positron Fraction in Primary Cosmic Rays of 0.5-350 GeV.Physical Review Letters，110(14):14102,April 2013.   \n[73] G. A. de Nolfo, I. V. Moskalenko,W. R. Binns, et al. Observations of the Li,Be,and B isotopes and constraints on cosmic-ray propagation.Advances in Space Research, 38:1558-1564, January 2006.   \n[74] M. Amenomori,S. Ayabe,S. W.Cui,et al. LargeScale Sidereal Anisotropy of Galactic Cosmic-Ray Intensity Observed by the Tibet Air Shower Array. ApJ, 626:L29-L32，June 2005.   \n[75]M.Aglietta,V.V.Alekseenko,B.Alessandro,et al. Evolution of the Cosmic-Ray Anisotropy Above $1 0 ^ { 1 4 }$ eV. ApJ,692:L130-L133,February 2009.   \n[76] T.Kifune,T.Hara,Y.Hatano,et al． Anisotropy of the arrival direction of extensive air showers observed at Akeno.Journal of Physics G Nuclear Physics，12:129- 142,February 1986.   \n[77]T.Antoni,W.D.Apel,A.F.Badea,et al.Large-Scale Cosmic-Ray Anisotropy KASCADE. ApJ, 604:687-692, April 2004. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/06ace10e42235ab20830331566413bc7119cfd11cb0d48d48aa4a6ecca0e1161.jpg",
+        "img_caption": [
+            "Fig.3.The anisotropyof punder DR-A(left)and DR-B(right)models.The blue dash-dot line is under theassmptionof continuousdistributioofthesourcesandsteady-statepropagation,whiletheblacksolidlineisthetotalonewhenconsidering the local SNR.The data points are taken from [74,75]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/576dfc30d9b725e289f34a4e483a9a5d7c6f9d1660f78f7f0c183c392cfb76eb.jpg",
+        "img_caption": [
+            "Fig. 4.The anisotropy of $\\mathrm { e ^ { \\pm } }$ under DR-A(left) and DR-B(right) models. The blue dash-dot line is under the assumption of continuous distributionofthesourcesandsteady-statepropagation,whiletheblack solidlineis thetotalone whenconsidering thelocal SNR.Theblack dotsarethelimitsfrom1yearFermi-LATdata[71]and theredlineis therecentAMS-02limitson （20 $\\mathrm { e ^ { \\pm } }$ anisotropy[72]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

@@ -1,0 +1,185 @@
+# 延安地区丹霞地貌类型及发育机制研究
+
+彭小华，吴昊，李兴文，张瑜，祝捷(陕西省矿产地质调查中心，陕西 西安710068)
+
+摘要：延安地区丹霞地貌是国内外地貌学界近年来的最新发现和持续关注点。通过对延安地区丹霞地貌地质遗迹的系统调查和研究发现，该区丹霞地貌景观资源丰富，类型多样，具有较高的观赏价值和科学研究价值。通过野外考察和岩石样品分析，从地质构造、地层组合、岩性特征和外动力等方面来探讨延安地区丹霞地貌的发育机制。研究表明：晚白垩世以来，该地区经历多次构造抬升和新生代以来地壳保持差异升降，区内构造简单，地层产状平缓，但节理、裂隙数量较多，对延安地区丹霞地貌的发育具有控制作用；延安地区丹霞地貌造景岩层主要为白垩系志丹群洛河组（204号 $( \mathbb { K } _ { 1 } l )$ ，为一套干旱气候条件下的红色碎屑岩沉积，沉积环境为沙漠环境，岩层倾角近于水平，为丹霞地貌的发育提供了较好的物质基础;岩性特征上，延安地区丹霞地貌造景岩层岩石成熟度不高，硬度低易碎，抗侵蚀能力较弱，岩石具有相似的矿物组成及峰值强度分布，其沉积过程经历了较为复杂的风力作用过程，岩石强度存在差异性，易受到后期外动力作用的改造；外动力方面，季节性的流水是塑造“沟谷型”丹霞地貌的主要外动力，此外，凹片状和凸片状风化作用以及崩塌作用对延安丹霞地貌的发育也有重要影响。
+
+关键词：丹霞地貌；类型；发育机制；延安地区
+
+# 文章编号：
+
+丹霞地貌是1939年陈国达以广东丹霞山为代表命名的一种特殊地貌类型[],至今已有80多年的研究历史。中国是世界上丹霞分布最广、数量最多、研究最早、最深入的国家[2]。目前对丹霞地貌的研究，主要集中在南方，而对北方丹霞地貌的研究较少，国内有几位学者对该地区的丹霞地貌做过相关研究[3-6]。近年来,通过对陕北丹霞地貌的调查研究发现，延安地区丹霞地貌资源丰富，类型多样，具有较高的美学观赏价值和科学研究价值。为了更深入探讨延安地区丹霞地貌的科学价值和科普价值，对本地区丹霞地貌的发育机制研究尤为迫切，也可为科学合理地保护和利用丹霞地貌提供依据。
+
+# 1延安地区丹霞地貌的类型及特征
+
+# 1.1延安地区丹霞地貌的类型
+
+延安地区丹霞地貌主要分布在延安市志丹一安塞一甘泉一带，分布面积达 $3 7 0 0 \mathrm { k m } ^ { 2 }$ ,主要沿沟谷出露，发育的类型有丹霞负地貌"沟谷型”6、孤峰型、石崖(壁）、天生桥、石蘑菇等5种类型[7-8],主要以“沟谷型"丹霞地貌为主，对其详细划分出天井式、狭缝式、巷道式、宽谷式4种类型，具有较高的美学观赏价值和科学研究价值(表1、图1)。
+
+# 1.2延安地区丹霞地貌遥感影像特征
+
+为了能够直观看出延安地区丹霞地貌的分布特征，本次研究还进行了丹霞地貌的遥感解译分析。工作方法以ETM、高分1号卫星数据、谷歌立体影像作为基础遥感信息源，综合利用中、高分辨率、多光谱遥感数据，为洛河组裸露岩层建立遥感解译标志，进行目视结合计算机提取工作，同时还结合了地质图和无人机正射影像进行典型集中区的重点解译。最终解译结果显示，红色线圈部分为延安地区丹霞地貌的分布范围，呈带状和片状分布，主
+
+# 表1延安地区丹霞地貌地质遗迹资源类型划分表
+
+Tab.1 Geological heritage resources categories for Danxia landform in Yan'an City   
+
+<html><body><table><tr><td>主要类型</td><td>细分类型</td><td>典型丹霞地貌点</td></tr><tr><td>“沟谷型”</td><td>天井式</td><td>志丹九吾山丹霞地貌</td></tr><tr><td></td><td>狭缝式</td><td>志丹毛项峡谷丹霞地貌、志丹曹家 沟丹霞地貌、甘泉雨岔丹霞地貌</td></tr><tr><td></td><td>巷道式</td><td>志丹康家沟丹霞地貌</td></tr><tr><td></td><td>宽谷式</td><td>志丹永宁洛河河谷丹霞地貌</td></tr><tr><td>孤峰型</td><td></td><td>志丹永宁山丹霞地貌、志丹三台山丹霞 地貌</td></tr><tr><td>石崖(壁)</td><td></td><td>富县张家湾丹霞地貌</td></tr><tr><td>天生桥</td><td></td><td>安塞阎山湾天生桥丹霞地貌</td></tr><tr><td>石蘑菇</td><td></td><td>安塞王家湾石蘑菇丹霞地貌、志丹弘门</td></tr></table></body></html>
+
+要沿区内的黄河支流洛河、沿河展布，分布面积达$3 7 0 0 \mathrm { k m } ^ { 2 }$ ，其解译标志主要为色彩、阴影特征和影纹特征(图2a)。
+
+延安地区丹霞地貌景观遥感影像的色彩特征呈红色-粉红色，代表本区裸露的早白垩世洛河组$( K _ { 1 } l )$ 砂岩，主要沿着河谷两岸呈带状分布，而影像中呈绿-深绿色的为植被，呈绿-浅绿色的为水体，呈黑-灰黑色的为山体的阴影，阴影特别发育，宽且长，规律性明显，反映出山峰较高，山脊较长，山谷较深，山体的阴影越黑越密集，表明山体越高陡（图2b）。
+
+延安地区丹霞地貌景观遥感影像的影纹特征表现为红层盆地边缘受区域性深大断裂带的控制，丹霞地貌景观区内断层和大型节理的发育程度一般较高。断裂构造在遥感图像上的显示往往组成带出现，将山体切割成棱形网状,平行格状、不规则块状的多种构造网络图形。
+
+![](images/c85b42018d55cab280150e8d4f5d32989c0ff6ac7ccb2b8b55fcb6d96d465b8f.jpg)  
+图1延安地区丹霞地貌类型图  
+Fig.1Danxia landform type map of Yan'an City
+
+![](images/f2e24f0f9468778c7dcbc28540c826886d6ed8dfd8fc78725a27e8073d8376e3.jpg)  
+(a)遥感影像图
+
+![](images/66dc490960be037542c8a5168a9fa7bcb72924842cabfc4010c42b0fc0a810e6.jpg)  
+(b)局部放大遥感影像图  
+图2延安地区丹霞地貌遥感影响图 Fig 2.Remote sensing image of Danxia landform in Yan'an City   
+图3延安地区丹霞地貌形成区的构造位置图  
+Fig.3Geotectonic location map of Danxia landform in Yan'an
+
+# 2研究区地质构造背景
+
+# 2.1区域构造演化
+
+在大地构造单元划分上，延安地区丹霞地貌主要位于华北陆块(克拉通)（I)-鄂尔多斯地块（I）内，四级构造单元主要有鄂尔多斯边缘海 $( \in \mathrm { - O }$ ）叠加内陆盆地( $\bf ( C _ { 1 } - E )$ (图3)。鄂尔多斯盆地的构造演化分五大阶段：中新元古代克拉通内裂陷槽或坳拉槽演化阶段、早古生代华北克拉通台地陆表海演化阶段、晚古生代华北克拉通坳陷演化阶段、中生代鄂尔多斯内陆盆地及独立鄂尔多斯盆地演化阶段、新生代周缘断陷盆地演化阶段，
+
+中生代盆地的发展演化过程,构造应力从早期受印支运动影响过渡到晚期受燕山运动影响，古气候从早期的干旱(晚三叠世) $$ 温暖潮湿（中侏罗世早期） $$ 晚期的干旱（中侏罗世晚期后），尤其中侏罗世后至新构造运动前古气候持续干旱，氧化作用发育，在早白垩世发育一套红层沉积，构成了延安
+
+I华北板块(柴达木-华北) 内  
+I华北陆块(克拉通) 0  
+I鄂尔多斯地块 莲花迪  
+鄂多斯缘海（0），加陆盆地（CE) 老高川府谷  
+山地 1  
+I2祁连早古生代造山带  
+I陇山断隆 ·榆林市山古宁 .靖边夏 。 龙洲M  
+图例 1 丹 安塞省界 三级构造单元界线 M M ·延安市四级构造单元界线 0延安地区行政边界 甘 甘泉 西M延安地区丹霞地貌分布范围0 丹霞地貌分布点 子午岭  
+01 40km 肃  
+六盘山 韩城A < 陇县 铜川市  
+陇 9 1 14  
+1 岐山
+
+地区丹霞地貌的物质基础，
+
+进入晚白垩世，本区域地壳普遍隆起，经历多期复杂的构造间歇性抬升活动。新生代以来，地壳运动保持差异升降，区内普遍发育多级夷平面和河流阶地，对延安地区丹霞地貌的发育起关键性作用。
+
+# 2.2地质构造特征
+
+在构造特征上，延安地区丹霞地貌主要位于鄂尔多斯盆地叠加内陆盆地内，区内构造简单，褶皱和断裂不发育，地层产状平缓，具有长期稳定的克拉通地块(地台)性质。经野外调查发现，延安地区丹霞地貌的分布严格受控于节理、裂隙构造系统，产状近直立，节理走向主要发育4个优势方位，分别为北西西向、北北东向、北东向、近南北向，其中，北西西向的节理、裂隙数量最多，丹霞地貌地质遗迹点分布也最多，这些节理、裂隙，对区内丹霞地貌的形成起重要的控制作用。
+
+# 2.3地层组合与产状
+
+延安地区的地层年代跨越了三叠纪一第四纪，其中以白垩纪和侏罗纪地层为主。延安地区丹霞地貌的造景岩层主要为白垩系志丹群洛河组 $( \mathbb { K } _ { 1 } l )$ ，为一套干旱气候条件下的红色碎屑岩沉积,沉积环境为沙漠环境[9。造景岩层产状方面,洛河组 $( \mathbb { K } _ { 1 } l )$ 岩层倾角近于水平,斜层理、交错层理倾角约在 $1 0 ^ { \circ } { \sim } 2 5 ^ { \circ }$ 最大倾角不超过 $3 0 ^ { \circ }$ ，近水平的红色陆相碎屑岩层为丹霞地貌的发育提供了较好的物质基础。
+
+# 3岩性特征
+
+# 3.1岩石样品薄片鉴定
+
+为了探究延安地区丹霞地貌的岩性特征对不同类型丹霞发育的影响，本次研究样品根据野外实地踏勘情况，共采集了7件岩石薄片样品，涉及的丹霞地貌点分别为安塞石蘑菇丹霞地貌1件，安塞天生桥丹霞地貌2件，志丹三台山丹霞地貌3件，富县张家湾丹霞地貌1件。由于采样季节在夏季，沟谷中常有洪水和河流水，故未采集到"沟谷型"丹霞地貌岩石样品。本次样品薄片鉴定使用德国莱卡公司生产的LEICADM2700P和LEICADM750P型偏光显微镜鉴定分析。鉴定的主要内容包括粒级、颗粒分选性、磨圆度、主要碎屑成分、胶结物和胶结方式等，并对薄片的典型视域进行拍照。岩石样品薄片鉴定结果见表2和图4。
+
+由表2可知，延安地区丹霞地貌岩性基本为细砂-中砂岩,部分为中粗砂岩，颜色为灰褐色、红褐色，成分为石英 $3 5 \% { \sim } 4 2 \%$ ）、长石（ $2 0 \% { \sim } 2 8 \%$ ）岩屑$( 2 0 \% \sim 2 6 \%$ )，岩石碎屑较破碎，成熟度不高，分选性和磨圆度中等，代表沙漠沉积环境9],岩石中均含有金属矿物氧化形成的赤铁矿、褐铁矿，可能是岩石发红褐色的原因。但是，各丹霞地貌岩石的胶结物和胶结方式略有差异，其中，安塞天生桥丹霞地貌的岩石为基底式胶结，岩石粒间空隙较少，胶结物以钙质为主，其次为铁质、硅质;志丹三台山丹霞地貌岩石为孔隙式胶结，岩石粒间空隙较多，胶结物以硅质为主，其次为铁质、钙质;安塞石蘑菇丹霞地貌岩石为中粗粒砂岩，胶结方式为孔隙式、接触式，胶结物以钙质为主，其次为铁质、硬石膏和硅质。
+
+从整体看，延安地区丹霞地貌岩石胶结程度差，硬度低易碎，抗侵蚀能力较弱，易受到风力、流水作用的侵蚀改造，岩石发育节理、裂隙，逐渐演化形成沟谷型、孤峰型以及特殊的石蘑菇、天生桥丹霞地貌。
+
+# 3.2X衍射定性及半定量检测
+
+为了分析对比延安地区丹霞地貌岩石样品中矿物种类及相对百分含量，在志丹三台山丹霞地貌和安塞天生桥丹霞地貌中共采集了6件样品，样品岩性都为下白垩统洛河组灰褐色中细粒砂岩，对其进行X射线衍射(XRD)分析，计算各矿物的平均含量，分析结果见表3和图5。
+
+由表3和图5可知，志丹三台山丹霞地貌和安塞天生桥丹霞地貌6组岩石样品的X射线衍射(XRD)图谱特征相似，具有相似的矿物组成及峰值强度分布，在矿物峰值强度与矿物组成上没有明显的特征差异;6组样品主要矿物组成及其含量基本一致，矿物组成类型较为单一，整体表现出明显的石英峰，长石峰(钠长石/微斜长石)次之，最弱为方解石峰，表明轻矿物含量很高，以石英、长石（钠长石、微斜长石)为主;轻矿物成分成熟度指数(Q/TF)是指沉积物中石英总量与长石总量的比值，能够反映沉积物的搬运过程和沉积环境[10]，由测试结果可知，以上两地洛河组砂岩的Q/TF的平均值是2.16，变化范围是1.82\~2.43，这表明沉积物受外力侵蚀和
+
+表2延安地区丹霞地貌岩石样品薄片鉴定结果  
+Tab.2 Analysis of thin sections of Danxia landform rock samples taken from Yan'an City   
+
+<html><body><table><tr><td>遗迹名称/岩样编号</td><td>颜色</td><td>粒级</td><td>颗粒分选性</td><td>磨圆度</td><td>主要碎屑成分</td><td>胶结物</td><td>胶结方式</td><td>镜下图片</td></tr><tr><td>安塞石蘑菇丹霞地貌(ASb-3)</td><td>红褐色</td><td>中粗粒</td><td>中等</td><td>较好</td><td>石英40%、长石 25% 岩屑20%、铁 泥硅质岩屑15%</td><td>钙质、铁质、 硬石膏、硅质</td><td>孔隙式、 接触式</td><td>图4a、4b</td></tr><tr><td>安塞天生桥丹霞地貌(ASb-1、灰褐色 ASb-2)</td><td></td><td>中细粒</td><td>中等</td><td>中等</td><td>石英40% 长石 20%岩屑23%钙 质铁质岩屑17%</td><td>钙质、铁质</td><td>基底式、 孔隙式</td><td>图4c、4d</td></tr><tr><td>志丹三台山丹霞地貌(ZDb-1、灰褐色 ZDb-2、ZDb-3)</td><td></td><td>细-中粒</td><td>中等</td><td>中等</td><td>石英42%、长石 28% 岩屑26%黑 云母4%</td><td>硅质、铁质</td><td>孔隙式</td><td>图4e、4f</td></tr><tr><td>富县张家湾丹霞地貌(FXb-1)</td><td>红褐色</td><td>细粒</td><td>较好</td><td>中等</td><td>石英35%、长石 25% 岩屑23%、钙 质铁质岩屑17%</td><td>钙质、铁质</td><td>孔隙式、 接触式</td><td>图4g、4h</td></tr></table></body></html>
+
+# 干旱区地理
+
+注：PI-斜长石， $\scriptstyle { \mathrm { Q t z } } .$ -石英,Kfs-钾长石,Cal-方解石,Anh-硬石膏,Gp-石膏,Ms-白云母,Cb-碳酸盐; $^ +$ 为正交偏光，-为单偏光。
+
+![](images/797a08389a47ec7a345db0054f90f7a51b2fceba52866435f8ca4faf322d9215.jpg)  
+图4偏光显微镜下的岩石样品薄片图像  
+Fig.4Photos of thin sections under polarized light microscope
+
+# 表3延安地区丹霞地貌岩石样品X射线衍射分析结果
+
+Tab.3 $\mathbf { X }$ -raydiffractionanalysisofDanxialandform rock samples in Yan'an City   
+
+<html><body><table><tr><td>样品编号</td><td>名称</td><td>分子式</td><td>含量/%</td></tr><tr><td>ZDYS-1</td><td>石英</td><td>SiO2</td><td>65.34</td></tr><tr><td rowspan="6">ZDYS-2</td><td>钠长石</td><td>Na(AlSi3O8)</td><td>9.81</td></tr><tr><td>微斜长石</td><td>KAlSi3O8</td><td>20.00</td></tr><tr><td>方解石</td><td>CaCO3</td><td>4.85</td></tr><tr><td>石英</td><td>SiO2</td><td>66.39</td></tr><tr><td>钠长石</td><td>Na(AlSi3O8)</td><td>18.10</td></tr><tr><td>微斜长石</td><td>KAlSi3O8</td><td>11.59</td></tr><tr><td rowspan="4">ZDYS-3</td><td>方解石</td><td>CaCO3</td><td>3.92</td></tr><tr><td>石英</td><td>SiO2</td><td>67.32</td></tr><tr><td>钠长石</td><td>Na(AlSi3O8)</td><td>17.60</td></tr><tr><td>微斜长石</td><td>KAlSi3O8</td><td>10.07</td></tr><tr><td rowspan="4">ASYS-1</td><td>方解石</td><td>CaCO3</td><td>5.01</td></tr><tr><td>石英</td><td>SiO2</td><td>62.71</td></tr><tr><td>钠长石</td><td>Na(AlSi3O8)</td><td>13.89</td></tr><tr><td>微斜长石</td><td>KAlSi3O8</td><td>20.53</td></tr><tr><td rowspan="4">ASYS-2</td><td>方解石</td><td>CaCO3</td><td>2.88</td></tr><tr><td>石英</td><td>SiO2</td><td>67.16</td></tr><tr><td>钠长石</td><td>Na(AlSi3O8)</td><td>14.97</td></tr><tr><td>微斜长石</td><td>KAlSi3O8</td><td>14.74</td></tr><tr><td rowspan="5">ASYS-3</td><td>方解石</td><td>CaCO3</td><td>3.13</td></tr><tr><td>石英</td><td>SiO2</td><td>64.83</td></tr><tr><td>钠长石</td><td>Na(AlSi3O8)</td><td>16.89</td></tr><tr><td>微斜长石</td><td>KAlSi3O8</td><td>15.18</td></tr><tr><td>方解石</td><td>CaCO3</td><td>3.10</td></tr></table></body></html>
+
+注：ZDYS、ASYS分别代表志丹三台山丹霞地貌岩石样品、安塞天生桥丹霞地貌岩石样品。
+
+分选作用强，经过了较长的搬运距离，由此可判断，两处丹霞地貌造景岩层的沉积环境为干旱气候下的荒漠环境。
+
+# 3.3岩石强度测定
+
+在野外考察中使用赛维HTY-H1数字回弹仪对延安地区丹霞地貌洛河组 $( \mathrm { K } _ { 1 } l )$ 砂岩岩石强度进行了测试，对每处丹霞地貌 $1 ~ \mathrm { m } ^ { 2 }$ 范围内砂岩的抗压强度进行检测，采用单点单次冲击法，每处岩性点共测试15个回弹值数据，以较高的10个数据的平均值作为该测点的岩石强度值，各丹霞地貌岩石的回弹值数据见表4。
+
+![](images/c54e3cd72740ff90cb43c93ad04023b57f64c9070ecbfde99c895df649285233.jpg)  
+图5延安地区丹霞地貌岩石矿物平均百分含量对比图 Fig.5Contrast map of Danxia landform average percentage content of rock minerals in Yan'an area
+
+根据一般碎屑岩类岩石强度分类标准，干抗压强度大于 $5 0 \mathrm { M P a }$ 为软弱-较坚硬的砂岩、砾岩，而风化岩干抗压强度一般小于 $5 0 \ \mathrm { M P a }$ 。由表4可知，延安地区各丹霞地貌岩石强度除了志丹西沟门丹霞地貌岩石强度为 $5 0 . 5 5 \mathrm { M P a }$ ,其他丹霞地貌岩石强度基本都小于 $5 0 \mathrm { M P a }$ ，但存在明显差异。其中，志丹永宁山丹霞地貌和安塞石蘑菇丹霞地貌的岩石强度值较小，分别为 $2 5 . 3 9 \mathrm { \ M P a }$ ， $2 9 . 3 0 \ \mathrm { M P a }$ ，20.96$\mathrm { { M P a } }$ 。分析原因，一方面可能是两处岩石支撑类型为颗粒支撑，接触性质为点线式，胶结类型为孔隙式，孔隙较大;另外一个重要的原因是，两地的丹霞
+
+表4延安地区丹霞地貌岩石回弹值数据  
+Tab.4 Rock rebound data of Danxia landform in Yan'an City   
+/MPa   
+
+<html><body><table><tr><td>测点名称</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>平均值</td></tr><tr><td>志丹毛项北壁丹霞地貌</td><td>46.6</td><td>36.8</td><td>44.7</td><td>46.6</td><td>40.7</td><td>42.5</td><td>40.7</td><td>42.5</td><td>44.7</td><td>40.7</td><td>42.18</td></tr><tr><td>志丹毛项南壁丹霞地貌</td><td>42.5</td><td>34.9</td><td>42.5</td><td>50.9</td><td>44.7</td><td>42.5</td><td>38.6</td><td>36.8</td><td>33.2</td><td>42.5</td><td>40.51</td></tr><tr><td>志丹三台山丹霞地貌</td><td>42.5</td><td>42.5</td><td>40.7</td><td>42.5</td><td>44.7</td><td>48.9</td><td>42.5</td><td>55.4</td><td>50.9</td><td>46.6</td><td>45.73</td></tr><tr><td>志丹西沟门丹霞地貌</td><td>57.1</td><td>48.9</td><td>48.9</td><td>46.6</td><td>55.4</td><td>46.6</td><td>57.8</td><td>55.4</td><td>42.5</td><td>48.9</td><td>50.55</td></tr><tr><td>志丹永宁山丹霞地貌</td><td>29.7</td><td>26.5</td><td>23.5</td><td>18.9</td><td>24.7</td><td>28.4</td><td>29.7</td><td>32.6</td><td>20.7</td><td>26.5</td><td>25.39</td></tr><tr><td>安塞石蘑菇1丹霞地貌</td><td>38.6</td><td>26.5</td><td>29.7</td><td>23.4</td><td>38.6</td><td>29.7</td><td>20.5</td><td>40.7</td><td>21.8</td><td>33.2</td><td>29.30</td></tr><tr><td>安塞石蘑菇2丹霞地貌</td><td>16.4</td><td>15.1</td><td>19.1</td><td>17.8</td><td>19.1</td><td>21.8</td><td>17.8</td><td>19.1</td><td>26.5</td><td>33.2</td><td>20.96</td></tr></table></body></html>
+
+# 干旱区地理
+
+地貌属于孤峰型和丹霞石蘑菇，发育期属于壮年早期和壮年晚期丹霞地貌[,岩石在长期干旱气候条件下风力改造作用强烈，因此，岩石抗压强度值较低。而志丹毛项峡谷丹霞地貌、志丹三台山丹霞地貌、志丹西沟门丹霞地貌三地的岩石强度值较大，分析原因其岩石胶结特征与上面相似，主要原因可能为三地的丹霞地貌类型为狭缝式“沟谷型"丹霞，发育期属于青年早期丹霞地貌["],岩石经风力作用改造时间较短，因此岩石强度值较高。
+
+# 4外动力条件
+
+延安地区丹霞地貌其形成演化是内外动力地质作用的结果，除了岩性物质和地质构造条件的约束外，流水、风力、崩塌等相结合的外力作用也塑造出了如今的延安地区丹霞地貌，
+
+延安地区丹霞地貌景观类型主要以负地貌“沟谷型"丹霞地貌为主，季节性的流水是塑造“沟谷型"丹霞地貌的主要外动力。延安地区气候属典型的大陆性季风气候，降水量分配不均，冬季受西北季风影响，气候寒冷干燥，降水稀少，夏季温暖潮湿,降水量较大，主要集中在6—9月[12-14]。在区域构造抬升背景下，季节性流水沿节理、裂隙侵蚀，以垂向下切侵蚀为主，形成沿节理、裂隙方向展布的众多壶穴。壶穴长轴走向与沟谷方向一致，随着流水的不断侵蚀、壶穴的不断扩大，侵蚀方向也由早期的垂向侵蚀向侧向侵蚀过渡，并逐步使各个壶穴贯通，形成“沟谷型"丹霞。根据侵蚀的深度、长度、宽度以及形态特征等指标，延安“沟谷型”丹霞分为天井式(图1a）狭缝式(图1b）巷道式、宽谷式（图1c)4种类型丹霞地貌，尤其以狭缝式丹霞地貌的美学观赏价值最高，典型代表地为志丹毛项峡谷丹霞地貌、甘泉雨岔丹霞地貌,堪称"中国羚羊谷”。
+
+此外，风化作用和崩塌作用对延安丹霞地貌的发育也有重要影响。延安地处黄土高原区，风力作用明显，丹霞硬岩夹层中存在相对较软易风化的岩层，经风化剥落凹进形成岩槽，由岩槽继续风化形成额状洞、蜂窝状洞穴等凹片状风化的丹霞地貌;另外一种为凸片状风化(突出的棱角浑圆化)，具体类型有孤峰式(图1d)、石蘑菇(图1f)、波浪谷等。延安丹霞地貌区发育多组近垂直节理，经流水下切侵蚀形成沟谷后，使谷坡产生卸荷作用而不同程度地会产生卸荷节理，只要具备某一触发条件，就会发生崩塌作用，形成丹崖赤壁及崖麓崩积地貌，崩塌作用始终伴随在流水侵蚀作用和风化作用过程之中。
+
+# 5结论
+
+延安地区丹霞地貌资源丰富，类型多样，具有较高的美学观赏价值和科学研究价值。通过上述地质构造背景、地层组合、岩性特征以及外动力因素等方面分析，可将延安地区丹霞地貌的形成条件和发育过程总结如下：
+
+（1）地质构造上，延安地区丹霞地貌主要位于鄂尔多斯地块叠加陆内上叠盆地内，基本构造格局的形成主要在侏罗纪一白垩纪，晚白垩世经历多次构造抬升和新生代以来地壳保持差异升降。区内构造简单，地层产状平缓，但节理、裂隙数量较多，走向以北西西向为主，对延安地区丹霞地貌的发育具有控制作用。
+
+(2）地层组合上，延安地区丹霞地貌发育的主体地层以白垩纪和侏罗纪地层为主，造景岩层主要为白垩系志丹群洛河组 $( \mathbb { K } _ { 1 } l )$ ,为一套干旱气候条件下的红色碎屑岩沉积，沉积环境为沙漠环境，岩层倾角近于水平，为丹霞地貌的发育提供了较好的物质基础。
+
+(3）岩性特征上，延安地区丹霞地貌造景岩层岩石成熟度不高，硬度低易碎，抗侵蚀能力较弱，岩石具有相似的矿物组成及峰值强度分布，其沉积过程经历了较为复杂的风力作用过程，岩石强度存在差异性，岩石易受到后期外动力作用的改造。
+
+(4）外动力方面，季节性的流水是塑造“沟谷型"丹霞地貌的主要外动力，此外，凹片状和凸片状风化作用以及崩塌作用对延安地区丹霞地貌的发育也有重要影响。
+
+（5）通过对延安地区丹霞地貌发育机制的探讨研究，初步揭示了延安的丹霞地貌的科学价值，也为下一步科学合理地保护和利用该地区丹霞地貌提供科学依据。
+
+# 参考文献(References)
+
+[1]陈国达,刘辉泗.江西贡水流域地质[J].江西地质汇刊,1939(2): 1-64.[Chen Guoda,Liu Huisa. Jiangxi Gong River watershed geology[J]. Jiangxi Geological IEEE Transactions,1939(2):1-64.]
+
+[2]欧阳杰,朱诚,彭华,等.丹霞地貌的国内外研究对比[J].地理科 学,2011, 31(8): 996-1000.[Ouyang Jie, Zhu Cheng,Peng Hua, et al. A contrast introduction to Danxia landforms from a world-wide references for similar landforms[J]. Scientia Geographica Sinica, 2011, 31(8): 996-1000.]   
+[3]黄进,陈致均,齐德利.中国丹霞地貌分布(下)[J].山地学报, 2015,33(6): 649-673.[Huang Jin, Chen Zhijun, Qi Deli. Distribution of Danxia landform in China[J]. Journal of Mountain Science, 2015,33(6): 649-673.]   
+[4]杨望暾.鄂尔多斯盆地西南缘丹霞地貌形成机制研究[D].西 安：长安大学,2O16.[Yang Wangtun.Formation mechanism of Danxia landform in southwest Ordos Basin[D].Xi'an: Chang'an University,2016.]   
+[5]杨望暾,张阳,郭威,等.陕西耀州照金国家地质公园旅游资源 及综合评价[J].旅游经济,2012(11):116-118.[Yang Wangtun, Zhang Yang,Guo Wei,et al. Tourism resources and comprehensive evaluation of Zhaojin National Geopark in Yaozhou, Shaanxi Province[J]. Special Zone Economy,2012(11): 116-118.]   
+[6]吴昊,李益朝,王秦伟,等.陕北延安丹霞地貌类型特征及演化 模式分析[J].矿产勘查,2018,9(9):1812-1819.[Wu Hao,Li Yizhao,Wang Qinwei,et al.Characteristics of Danxia landform types and their evolution model in Yan'an, northern Shaanxi[J]. Mineral Exploration,2018,9(9): 1812-1819.]   
+[7]赵汀,赵逊.地质遗迹分类学及其应用[J].地球学报,2009,30 (3): 309-324.[Zhao Ting, Zhao Xun. Geoheritage taxonomy and its application[J].Acta Geoscientica Sinica,2009,30(3): 309-324.]   
+[8]赵汀,赵逊,彭华,等.关于丹霞地貌概念和分类的探讨[J].地球 学报,2014,35(3): 375-382.[Zhao Ting, Zhao Xun,Peng Hua, et al. A tentative discussion on the definition and classification of Danxia landform[J].Acta Geoscientica Sinica,2014,35(3): 375-382.]   
+[9]江新胜,潘忠习.中国白垩纪沙漠及气候[M].北京:地质出版 社,2005.[Jiang Xinsheng,Pan Zhongxi. Cretaceous desert and climate in China[M]. Beijing: Geological Press,2005.]   
+[10] 鲍锋,董治宝.柴达木盆地沙漠地表沉积物矿物构成特征[J].西 北大学学报(自然科学版),2015,45(1):89-96.[Bao Feng,Dong Zhibao.Mineral composition and origin of surface sediment in the desert of the Qaidam Basin[J].Joumal of Northwest University(Natural Science Edition),2015,45(1): 89-96.]   
+[11] 彭华,潘志新,闫罗彬,等.国内外红层与丹霞地貌研究述评[J]. 地理学报,2013,68(9): 1170-1181.[Peng Hua,Pan Zhixin, Yan Luobin,et al.A review of the research on red beds and Danxia landform[J].Acta Geographica Sinica,2013,68(9): 1170-1181.]   
+[12] 岳辉,刘英.近15a陕西省植被时空变化与影响因素分析[J].干 旱区地理,2019,42(2):314-323.[Yue Hui,Liu Ying.Spatiotemporal change of vegetation and its influencing factors in Shaanxi Province in recent 15 years[J].Arid Land Geography,2019,42(2): 314-323.]   
+[13]廉陆鹞,刘滨辉.近58a我国西北地区干期与湿期变化特征[J]. 干旱区地理,2019,42(6):1301-1309.[Lian Luyao,Liu Binhui. Variation characteristics of dry and wet periods in northwest China in recent 58 years[J].Arid Land Geography,2019,42(6): 1301- 1309.]   
+[14] 冯克鹏,田军仓,沈晖.基于K-means聚类分区的西北地区近半 个世纪气温变化特征分析[J].干旱区地理,2019,42(6):1239- 1252.[Feng Kepeng,Tian Junchang, Shen Hui.Analysis of temperature variation characteristics in northwest China in recent half a century based on K-means clustering[J].Arid Land Geography, 2019,42(6): 1239-1252.]
+
+# Danxia landform types and development mechanism in Yan'an City
+
+PENG Xiaohua, WU Hao， LI Xingwen， ZHANG Yu, ZHU Jie (Shaanxi Mineral Resources and Geological Survey,Xi'an 71OO68,Shaanxi, China)
+
+Abstract: The Danxia landform in Yan'an City，Shannxi Province,China is a new finding and continuous concernin the geomorphology field at home and abroad.By investigating and researching the Danxia landform geoheritage resources in Yan’an,we found that Danxia landform resourcesare rich and varied,with high ornamental and scientific research value.Based on the field investigation and analysis of rock samples,this study examines the developmental mechanism of Danxia landforms in Yan'an from geological seting,stratigraphic assemblage,lithological features,and exogenic forces viewpoints.Research shows that since the Late Cretaceous, the areaexperienced many structural uplifts and the crust diferentially rose and fell since the Cenozoic.The structure in the area was simple,and the stratum gentle,but the number of joints and fractures was large, controlling the development of the Danxia landform in Yan'an.Landscape formation of the Danxia landform in Yan’an is predominantly the Luohe Formation $( \mathrm { K } _ { 1 } l )$ of the Cretaceous Zhidan Group (a set of red clastic rock deposits in arid climatic conditions)and desert environment.The rock stratum inclination is almost horizontal, providing a good material basis for developing the Danxia landform.From lithological characteristics,the Danxia landformrock formation in Yan'an has low maturity,low hardnessand fragility,and weak erosion resistance.The rocks have similar mineral compositions and peak strength distributions.Its sedimentary process experienced a more complex wind action process,and the rock strength is diferent,which can be easily modified by later external dynamic action.Finally,regarding external power,seasonal water is the principal external power shaping the valey-type Danxia landform.Furthermore,theconcave and convex weathering and colapse significantly influence the development of the Danxia landform in Yan'an.
+
+Key words:Danxia landform; type; developmental mechanism; Yan'an area

@@ -1,0 +1,85 @@
+# 临床研究
+
+# MRI在功能性不稳踝关节损伤中的诊断价值
+
+曹欣荔，马光俊，欧忠耿广州市正骨医院放射科，广东广州510045
+
+摘要：目的探讨核磁共振成像(MRI)在功能性不稳踝关节损伤中的诊断价值。方法随机选择本院收治的踝关节损伤者45例为研究组，选择同期收治的45例患有其他足部疾病(排除踝关节损伤)患者为对照组。对各组患者进行MRI检查，并通过测量轴向踝指数、踝间指数、踝距指数观察患者距骨和腓骨位置。结果经MRI检查结果显示，研究组中检出距骨软骨损伤的有16例,软骨骨折伴周围组织水肿的有8例，腓骨肌腱损伤有11例，韧带损伤有7例，跟腱断裂有3例。研究组轴向踝指数0 $1 1 . 1 5 { \pm } 1 . 1 4$ vS $7 . 6 9 { \pm } 1 . 8 8 \rangle$ 、踝距指数（ $8 8 . 9 4 \pm 1 0 . 2 1 \$ vs $8 4 . 3 2 { \pm } 1 0 . 3 9 )$ 明显高于对照组，差异有统计学意义 $( P { < } 0 . 0 5 )$ ，两组踝间指数比较差异无统计学意义 $( P { > } 0 . 0 5 )$ 。结论MRI检查对关节软组织损伤,尤其是韧带、肌肉、肌腱、软骨等具有较高敏感性。功能性不稳踝关节损伤患者存在距骨内旋现象，但腓骨在踝穴内的位置未发生改变。
+
+关键词：踝关节；功能不稳；诊断价值；距骨；腓骨；核磁共振成像
+
+# Diagnostic value of MR Image in patients with chronic ankle instability
+
+CAO Xinli, MA Guangjun, Ou Zhonggen Department ofRadiology,Guangzhou Bonesetting Hospital,Guangzhou 51oo45,China
+
+Abstract: Objective To evaluate the valueof MR Image identification in patients with chronic ankle instability.Methods Forty-fivecases withankleinstabilityinour hospital wererandomlyselectedasresearch group.Theother45cases withothers foot disease (excluding ankle injury)patients were selected ascontrol group.MRI was performed to patients.The position of thetalusand fibular patients wereobserved by measuringtheAMI patients,IMI,MTItalusand fibula.Results MRIesults showed osteochondralinjuryofthetalusin16cases,8casesoffractureofcartilagesurounding tisueedema,11casesofthe peroneal tendons,7 cases of ligaments injury and 3cases of achiles tendon rupture .AM1, MTI were significantly higher in research group than the control group ( $P { < } 0 . 0 5$ or $P { < } 0 . 0 1$ ). IMI in 2 groups was not significantly different $( P { > } 0 . 0 5 )$ . Conclusion MRI has a high sensitivity in joint soft tissue injuries, especially the ligaments, muscles,tendons and cartilage. Spin phenomenain the talus exist in patients with functional instability of ankle injury.
+
+Keyword: ankle; functional instability; diagnose value; huckle bone; fibula; MR image
+
+踝关节伤后常存在肿胀、疼痛、踝关节不稳、反复扭伤等症状，当损伤导致踝关节周围韧带受损后，踝关节常由于不稳定而再次发生扭伤，伤害甚至涉及到关节韧带、肌腱、软骨等组织，使患者正常活动受限[-3]。导致踝关节损伤的危险因素较多，如运动方式、运动强度、韧带松弛、解剖变异等。有研究发现，慢性踝关节不稳与踝关节的骨性不匹配有关，存在明显的腓骨在踝穴中向后移位的现象[46]。本研究通过分析功能性不稳踝关节损伤部位核磁共振成像(MRI)特点，探讨MRI在功能性不稳踝关节损伤中的诊断价值。
+
+# 1资料与方法
+
+1.1一般资料回顾性分析本院2015年1月 ${ \sim } 2 0 1 6$ 年12月收治的踝关节损伤者，研究组45例，其中男25例，女20例;年龄 $1 3 { \sim } 6 5$ 岁，平均 $3 8 . 8 { \pm } 4 . 2$ 岁。踝关节损伤部位：左侧29例，右侧16例。研究组入选标准：有外伤史(或踝关节反复扭伤史)；在不平路面上行走有主观不稳感；体检显示前抽屉试验阳性;MRI检查结果显示距腓前韧带撕裂和/或跟腓韧带损伤。选择同期来本院治疗的45例患有其他足部疾病(排除踝关节损伤)患者为对照组，其中男性22例，女性23例;年龄15\~66岁，平均 $3 9 . 2 { \pm } 4 . 1$ 岁。对照组入选标准：无踝关节损伤史;MRI显示无距腓前韧带撕裂，无跟腓韧带损伤。排除标准：两组均排除有踝关节(或同侧下肢其他关节)手术史的患者;排除存在扁平足、高弓足、足跟内翻、胫骨平台内翻等踝关节周围其他关节或骨骼畸形的患者；排除有踝关节骨折史的患者。两组患者一般资料比较差异无统计学意义，具有可比性 $( P { > } 0 . 0 5 )$ 0
+
+# 1.2 方法
+
+采用1.5-THDSigna双束MR扫描仪进行扫描。患者处于仰卧位，足先进，接受扫描踝关节处于中立
+
+位。对踝关节轴位、冠状位、矢状位的图像进行扫描。层厚采用 $3 . 0 \mathrm { m m }$ 无间隔扫描，扫描范围FOV $3 2 0 ~ \mathrm { m m } \times$ $3 2 0 \mathrm { m m }$ ，矩阵 $5 1 2 \times 3 2 0$ ，视野 $1 0 \mathrm { c m }$ ○
+
+# 1.3 观察指标
+
+(1)观察踝关节损伤MRI检查结果；(2)观察各组距骨和腓骨在踝关节中的位置：各组在横断面上采用轴向踝指数(AMI)测量腓骨位置，采用踝间指数(IMI)以内踝为参照物测量腓骨的位置，采用踝距指数(MTI)测量距骨在踝穴内的旋转位置。采用图像编辑通信系统进行数据测量，由同一位测量者对每个数值测量3次(每次测量间隔1周以上)，取平均值进行统计分析。
+
+# 1.4 统计学分析
+
+实验数据应用SAS9.0软件分析，计量资料用 $\overline { { x } } \pm s$ 表示，行方差齐性分析，方差齐者两样本均数比较采用t检验，方差不齐者采用秩和检验， $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+# 2.1MRI检查结果
+
+MRI检查显示隐匿性骨折12例，其中9例T1W1低或稍低信号，斑片状，3例T1W1等信号或稍高信号，T2W1高信号，边界较模糊，呈斑片状或云絮状。软骨骨折伴周围水肿10例，表现为长T1、长T2信号。腓骨肌腱损伤11例，腓骨长短肌腱点片状T1W1高信号，FLIAR低信号。韧带损伤8例，韧带连续性完全或部分断裂，断裂部位显示有不同程度的韧带增厚，T1W1不均匀高信号，边界不清，同时伴有软组织水肿及出血。跟腱断裂5例，断裂部位浅凹消失，为点片状高信号
+
+# 2.2两组AMI、IMI、MTI测量结果
+
+测量结果显示，研究组AMI、MTI高于对照组，差异有统计学意义（ $\scriptstyle \overbrace { P { < } 0 . 0 5 }$ 或 $P { < } 0 . 0 1 \$ )；两组IMI比较差异无统计学意义 $( P { > } 0 . 0 5$ ，表1)。
+
+表1两组AMI、IMI、MTI测量结果 $\scriptstyle ( \ - 4 5 , \bar { x } \pm s )$   
+
+<html><body><table><tr><td>组别</td><td>AMI</td><td>IMI</td><td>MTI</td></tr><tr><td>研究组</td><td>11.15±1.14**</td><td>7.28±2.34</td><td>88.94±10.21*</td></tr><tr><td>对照组</td><td>7.69±1.88</td><td>7.56±2.22</td><td>84.32±10.39</td></tr><tr><td>T</td><td>10.5567</td><td>0.5823</td><td>2.1275</td></tr><tr><td>P</td><td><0.01</td><td>>0.05</td><td><0.05</td></tr></table></body></html>
+
+$^ { * } P { < } 0 . 0 5 ~ \nu s$ 对照组; $^ { * * } P { < } 0 . 0 1$ vs 对照组;AMI:轴向踝指数;IMI:踝间指 数；MTI:踝距指数.
+
+# 3讨论
+
+踝关节损伤发生后，韧带和关节囊内的机械感受器受损，机体反应力下降，容易导致重复性损伤的发生，亦可造成关节软骨的损伤，尤其是距骨软骨的损伤。目前，主要依靠影像学检查(X线检查或MRI)结合临床检查(前抽屉试验、距骨倾斜试验)确诊。X线检查能够初步观察骨折及周围软组织肿胀情况,但韧带断裂难以诊断。MRI是临床上踝关节损伤的首选影像学检查方法，能够发现隐匿性骨折线，清晰的显示关节损伤程度，并能较好的显示踝关节周围韧带的损伤情况[7-8]
+
+Crevoisier等[9]研究认为，在踝关节不稳的患者中，以内踝作为参照物测量AMI指数的结果更为可靠。本研究也发现，当以距骨作为参照物时，研究组AMI指数明显高于对照组，表明踝关节不稳患者腓骨在踝穴内存在向后移位的现象。当以内踝作为参照物时，两组间IMI指数无显著差异，表明慢性踝关节不稳患者腓骨在踝穴内无向后移位现象。可见以距骨为参照物将会导致AMI在踝关节不稳患者的测量数据增高，间接得出腓骨向后移位的错误结论。
+
+维持踝关节的稳定结构包括韧带、关节几何形态构成的静力性稳定结构，以及肌肉、肌腱构成的动力性稳定结构[10-11]。以往研究[12-13]认为踝关节外侧副韧带在维持踝关节旋转稳定中发挥关键作用，但仅限于尸体标本的相关研究,迄今为止，关于活体的踝关节距骨内旋角测量方面的研究还很少。本研究采用了一种较为简便的方法来测量距骨内旋，并与对照组进行比较，避免了自身对照可能出现的偏倚，测量结果更加可靠。关于踝关节不稳患者是否存在腓骨在踝穴内的位置前移一直有争议[14-15]。本研究证实，在慢性踝关节不稳的患者中腓骨在踝穴内的位置并未发生变化。关节几何形态对踝关节稳定性的作用于关节位置、关节面承受压力大小都有一定关系。距骨在踝穴内发生旋转改变，不仅能改变踝关节的运动学，还能改变关节软骨受力分布和外侧副韧带的张力，影响损伤韧带的恢复。另外,距骨旋转后还可导致本体感受器传人中枢过程的信号发生改变，导致踝关节反复扭伤,进一步增加发生骨关节炎的风险。因此有必要对踝关节不稳患者的距骨位置进行评估[16-17]。本研究利用MRI方法测量距骨旋转位置的方法可信度高，也可用于踝关节外侧副韧带修补术后的疗效评估中。
+
+总之，MRI成像技术在反应踝关节周围肌肉、肌腱、韧带、关节、软骨组织损伤程度方面敏感性较高，对踝关节不稳的诊断具有较高的检出率。同时，MRI检测结果证实，慢性踝关节不稳患者存在明显距骨内旋现象，但腓骨在踝穴内的位置并未发生改变。
+
+# 参考文献：
+
+[1]Linklater JM,Hayter CL,Vu D.Imaging of acute capsuloliga
+
+mentous sports injuries in the ankle and foot: sports imaging series[J].Radiology,2017,283(3): 644-62.   
+[2]Ebrahiem AA,Manas RK,Vinagre G.Distally based sural artery peroneus flap (DBSPF) for foot and ankle reconstruction[J].Plastic Reconstruct Surg,2017, 5(4): e1276-9.   
+[3]Bellringer SF,Brogan K,Cassidy L,et al. Standardised virtual fracture clinic management of radiographically stable Weber B ankle fractures is safe, cost effective and reproducible[J]. Injury, 2017,1383(17): 30281-4.   
+[4] Monteagudo MC,Maceira E,de Albornoz P.Foot and ankle tendoscopies:current concepts review[J].Efort Open Rev,2017, 1(12): 440-7.   
+[5］宋 斌,周云烽,陈 娜,等.Internal-braceTM联合Brostrom改良修 补术治疗慢性踝关节不稳[J].中华创伤杂志,2017,33(3):258- 62.   
+[6]吴金龙，陆阿明.不同类型踝关节护具对功能性踝关节不稳者静 态姿势稳定性的影响[J].中国运动医学杂志,2017,36(3):232-5.   
+[7]Borges PRT, Santos TRT,Procopio PRS,et al. Passive stiffness of the ankle and plantar flexor muscle performance after Achilles tendon repair:a cross-sectional study[J].Braz JPhys Ther,2017, 21(1): 51-7.   
+[8] Tajmir S, Raja AS,Ip IK,et al. Impact of clinical decision support on radiography for acute ankle injuries:a randomized trial[J].West JEmerg Med,2017,18(3): 487-95.   
+[9]Crevoisier X,Assal M,Stanekova K Hallux valgus,ankle osteoarthrosis and adult acquired flatfoot deformity:a review of three common foot and ankle pathologies and their treatments[J]. Efort Open Rev,2016,1(3): 58-64.   
+[10]Keene DJ,Mistry D,Nam J,et al. The ankle injury management (AIM） trial:a pragmatic,multicentre,equivalence randomised controlled trial and economic evaluation comparing close contact casting with open surgical reduction and internal fixation in the treatment of unstable ankle fractures in patients aged over 60 years [J].Health Technol Assess,2016,20(75):1-158.   
+[11]毛晓锟,张秋霞.慢性踝关节不稳判定方法研究进展[J]．中国运 动医学杂志,2014,33(8):835-40.   
+[12]Jain TK,Wauneka CN,Liu W.Four weeks of balance training does not affect ankle joint stiffness in subjects with unilateral chronic ankle instability[J].Int JSports Exerc Med,2016,2(1): 36-9.   
+[13]宋 斌,周云烽,陈 娜,等.Internal-braceTM联合Brostrom改良修 补术治疗慢性踝关节不稳[J].中华创伤杂志,2017,33(3):258- 62.   
+[14]Needle AR,Kaminski TW,Baumeister J,et al.The relationship between joint stiffness and muscle activity in unstable ankles and copers[J].J Sport Rehabil,2017,26(1):15-25.   
+[15]车健,郑仰林.旋前-外旋应力正位X线片对诊断下胫腓联合不稳 的临床价值[J].中国药物与临床,2016,16(7):1050-3.   
+[16]Ashman BD,Kong C,Wing KJ,et al.Fluoroscopy-guided reduction and fibular nail fixation to manage unstable ankle fractures in patients with diabetes: a retrospective cohort study[J].Bone Joint J, 2016,98B(9): 1197-201.   
+[17]Schairer WW,Nwachukwu BU,Dare DM, et al. Arthroscopically assisted open reduction-internal fixation of ankle fractures: significance of the arthroscopic ankle drive-through sign[J]. Arthrosc Tech,2016,5(2): e407-12.

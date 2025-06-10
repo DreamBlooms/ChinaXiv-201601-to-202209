@@ -1,0 +1,384 @@
+[
+    {
+        "type": "text",
+        "text": "1 白酒糟酿酒酵母培养物营养成分分析及其在猪饲料中的应用价值评估  \n2 陈顾1,2,3包显颖1.4苏云李斌°曹立红°贾杏林2\\*冯泽猛1,7\\*李铁军1.7  \n3 印遇龙1,4.5  \n4 （1.中国科学院亚热带农业生态研究所畜禽健康养殖研究中心，中国科学院亚热带农业生态  \n5 过程重点实验室，畜禽养殖污染控制与资源化技术国家工程实验室，湖南省畜禽健康养殖工  \n6 程技术研究中心，农业部中南动物营养与饲料科学观测实验站，长沙 410125；2.湖南农业  \n7 大学动物医学院，长沙 410128；3.湖南九鼎科技（集团）有限公司技术中心，长沙 410003;  \n8 4.湖南农业大学动物科技学院，长沙 410128；5.湖南师范大学生命学院动物营养与人体健康  \n9 实验室，长沙 410081；6.安徽东方新新生物技术有限公司，毫州 236800；7.湖南畜禽安全  \n10 生产协同创新中心，长沙 410128)  \n11 摘要：为评估白酒糟酿酒酵母培养物在猪饲料中的应用价值，本试验在测定白酒糟酿酒酵  \n12 母培养物中干物质、粗蛋白质、粗脂肪、粗灰分、粗纤维、氨基酸含量等营养成分的基础上，  \n13 采用全收粪法测定猪对白酒糟酿酒酵母培养物中营养物质的全消化道表观消化率，并通过安  \n14 装T型瘘管测定猪对白酒糟酿酒酵母培养物中氨基酸的回肠末端表观消化率。结果表明：白  \n15 酒糟酿酒酵母培养物的水分、粗蛋白质、粗脂肪、粗灰分、粗纤维含量分别为 $8 . 3 4 \\%$ ， $3 1 . 1 2 \\%$ ，  \n16 $5 . 0 0 \\%$ 、 $1 3 . 4 6 \\%$ 和 $1 1 . 0 0 \\%$ ，总能为 $1 9 . 5 3 ~ \\mathrm { M J / k g }$ ，霉菌毒素含量远低于国家标准。猪对白酒糟  \n17 酿酒酵母培养物中干物质、总能、粗蛋白质、粗脂肪、粗纤维和粗灰分的全消化道表观消化  \n18 率分别为 $4 8 . 7 9 \\%$ 、 $3 8 . 3 3 \\%$ 、 $5 4 . 1 5 \\%$ 、 $8 2 . 9 4 \\%$ 、 $2 3 . 1 7 \\%$ 和 $2 0 . 2 9 \\%$ ，消化能为 $1 1 . 7 5 \\mathrm { M J / k g }$ ；猪  \n19 对白酒糟酿酒酵母培养物中必需氨基酸和非必需氨基酸的回肠末端表观消化率的平均值分  \n20 别为 $7 2 . 3 8 \\%$ 和 $6 9 . 3 7 \\%$ ，其中赖氨酸、甲硫氨酸的回肠末端表观消化率均超过 $80 \\%$ 。由此得出，  \n21 白酒糟酿酒酵母培养物中氨基酸的吸收和利用率较高，可应用于猪饲料生产。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "； 关键词：氨基酸；白酒糟；酿酒酵母培养物；营养价值评估；猪 共陆雨 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "23 中图分类号：S816文献标识码：A文章编号：  \n24 由于我国养殖业的飞速发展，饲料原料的消耗量巨大。2015年我国生猪出栏量为7.08亿  \n25 头，共消耗饲料8 350万t。依据我国现有的耕地面积以及生产能力，短期内对饲料原料的供  \n26 给并不能满足现有饲料行业的需求，饲料行业出现了“与人争粮”的现象。虽然目前饲料原  \n27 料中的小麦和水稻产量相对比较充裕，但是饲料市场最常用的玉米-豆粕型配方所需要的大  \n28 豆和玉米则严重短缺。即便大豆、玉米等主要原料依靠进口才能缓解目前的饲料用粮缺口，  \n29 但在全球谷物生产同质化趋势下[1]，如何保证我国的饲料用粮成了亟待解决的国家战略问  \n30 题。为应对这种风险，积极地扩充饲料原料种类，把食品加工、中草药生产、发酵生产等各  \n31 行业的中间或最终副产物等非常规饲料原料囊括到常用饲料原料目录中势在必行。充分利用  \n32 这些非常规原料是缓解现在饲料原料困局的有效途径。  \n33 白酒糟大多数是以高梁、玉米等谷物为原料经过蒸馏酿酒后的残渣[2]，其残留着原材料  \n34 中绝大多数的蛋白质、脂肪、钙、磷等营养成分，还含有丰富的发酵产物。2015年我国白  \n35 酒产量达到1257.13万t，按固态法生产1t白酒约产生10't白酒糟计算，我国白酒糟年产  \n36 量超过1亿t3]。白酒糟除含有丰富的蛋白质和脂肪等常规营养物质外，还含有大量菌体自  \n37 溶产生的各种嘌呤、嘧啶和类脂化合物等。另外，白酒糟中也含有大量的维生素、酶类和各  \n38 种有机酸，可作为一种新型饲料原料应用于畜禽生产[45]。新鲜的白酒糟难以长时间的贮存  \n39 和运输[67]，但是其经过发酵和加工工艺处理后可使水分、粗纤维含量降低，提升其他营养  \n40 素的相对含量，改善氨基酸的组成，而且还有较高活性的纤维素酶[8-10]，使白酒糟的再利用  \n41 价值得到提升。利用酵母发酵白酒糟既可充分利用白酒糟，减少它对环境的污染，又可提高  \n42 其营养价值，使之成为新型的蛋白质饲料，创造出更大的经济价值。近年来，白酒糟酿酒酵  \n43 母培养物作为一种新的饲料原料，受制于其在猪饲料营养价值方面数据的缺乏，其在养猪业  \n44 上的应用还不普及。因此，本试验旨在通过评定白酒糟酿酒酵母培养物的营养价值，评估其  \n45 在猪饲料中的应用价值，为其在养猪生产和饲料工业上的合理应用提供理论依据。  \n46 1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "49 白酒糟酿酒酵母培养物由安徽东方新新生物技术有限公司提供，加工工艺如下：以安徽古井集团的白酒糟为原料，先经过选育的酿酒酵母（Saccharomycescerevisiae， $2 . 3 { \\times } 1 0 ^ { 8 }$ $\\mathrm { { C F U } / \\mathrm { { g } } }$ ）固体发酵来提高pH以达到枯草芽孢杆菌生长的条件，再经枯草芽孢杆菌（ $2 . 8 \\times 1 0 ^ { 9 }$ $\\mathrm { { C F U / g } }$ ）固体发酵形成酵母培养物，发酵结束后经低温烘干及分离稻壳得到含有丰富营养物质的功能性饲料—一白酒糟酿酒酵母培养物。12 头二元杂交去势公猪[体重为( $2 0 . 0 { \\pm } 2 . 0 \\ \\$ ）kg]购自湖南新五丰股份有限公司永安分公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.2 试验仪器",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "多功能酶标仪（Infinit M200 PRO，TECAN，瑞士）、紫外可见分光光度计(UV-2450,岛津，日本)、马弗炉(C450，北京市永光明医疗仪器有限公司）、全自动索氏抽提仪（SOX416，Gerhardt，德国）、全自动纤维分析仪（FT12，Gerhardt，德国）、等温式全自动量热仪（5E-AC8018，长沙凯德测控仪器有限公司）、氨基酸自动分析仪（L-8800，日立，日本）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2白酒糟酿酒酵母培养物常规营养成分的检测",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干物质、粗蛋白质、粗脂肪、粗纤维、粗灰分含量的测定分别依照中华人民共和国国家标准GB/T 6435-2006、GB/T 6432-1994、GB/T6433-2006、GB/T 6434-2006、GB/T6438-2007进行。总能的测定按照国际标准ISO9831:1998方法进行，使用等温式全自动量热仪测定；氨基酸组成的测定参照中华人民共和国国家标准GB/T18246-2000推荐的方法：样品在110℃下用 $6 ~ \\mathrm { m o l / L }$ 盐酸水解24h后，经过滤，使用氨基酸自动分析仪测定；玉米赤霉烯酮、T-2毒素、呕吐毒素、伏马毒素 $\\mathbf { \\ddot { B } } _ { 1 }$ 、赭曲霉毒素酶联免疫吸附试验（ELISA）检测试剂盒购自于上海酶联生物科技有限公司。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3猪对白酒糟酿酒酵母培养物中营养物质全消化道表观消化率的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "69 动物试验于2016年9月（试验期为12d）在中国科学院亚热带农业生态研究所动物与  \n70 作物实验楼代谢实验室进行。基础饲粮参照NRC（2012） $2 0 { \\sim } 5 0 \\mathrm { k g }$ 生长猪营养需要配制，  \n71 其组成及营养水平见表1。试验饲粮为 $30 \\%$ 白酒糟酿酒酵母培养物 $+ 7 0 \\%$ 的基础饲粮。选取  \n72 体重相近的12头二元杂交去势公猪[体重为（ $2 0 . 0 { \\pm } 2 . 0 \\ \\$ ） $\\mathbf { k g } ]$ ，随机分为2组，单栏饲养，  \n73 自由饮水，保持室温在 $2 5 ^ { \\circ } \\mathrm { { ^ { C } } }$ 左右。适应期4d，饲喂基础饲粮，自由饮水。正式试验分为4d  \n74 的预试期和4d的收粪期。收粪期依照预试期采食量的 $90 \\%$ 喂料，每天2次，间隔 $1 2 \\mathrm { h }$ ，全  \n75 天收集粪便。准确收集各试验猪 $4 8 \\mathrm { ~ h ~ }$ 所排出的全部粪样， $- 2 0 ^ { \\circ } \\mathrm { C }$ 保存，试验结束后全部粪样  \n76 充分混匀，取 $5 0 ~ \\mathrm { g }$ 粪样加入 $1 0 ~ \\mathrm { m L }$ $10 \\%$ 盐酸固氮，于 $6 5 ^ { \\circ } \\mathrm { C }$ 烘箱中烘至恒重，粉碎过60目筛，",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b48f5392e6feddbde0741ad348a12c6a76e1619774f5610a92bad70272752485.jpg",
+        "table_caption": [
+            "Table 1 Composition and nutrient levels of the basal diet (air-dry basis）% "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items 含量Content</td></tr><tr><td>原料Ingredients</td></tr><tr><td>玉米Corn 76.94</td></tr><tr><td>豆粕 Soybean meal 18.63</td></tr><tr><td>3.0 预混剂 Premix 1)</td></tr><tr><td>石粉 Limestone 0.90</td></tr><tr><td>磷酸氢钙 CaHPO4 0.53</td></tr><tr><td>合计Total 100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td></tr><tr><td>消化能DE/(MJ/kg) 13.32</td></tr><tr><td>干物质 DM 93.21</td></tr><tr><td>粗脂肪 EE 4.62</td></tr><tr><td>粗纤维CF 5.7</td></tr><tr><td>粗蛋白质CP 18.34</td></tr><tr><td>粗灰分 Ash 5.67</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1)预混料为每千克饲粮提供Premix provided the following per kg of the diet:VA $6 5 2 2 \\mathrm { I U }$ ， $\\mathrm { V D } _ { 3 } \\textrm { l } 2 0 0 \\mathrm { I U }$ ， VE 30 IU, $\\mathrm { V K } 3 5 . 2 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 2 } 2 7 . 6 \\mu \\mathrm { g }$ ，烟酸 nicotinic acid $3 0 ~ \\mathrm { m g }$ ，叶酸folic acid $0 . 7 ~ \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 } ~ 1 . 5 ~ \\mathrm { m g }$ ， $\\mathrm { V B } _ { 6 }$ （204号 $3 \\mathrm { m g }$ ，Mn (MnO) 60 mg，Fe( $\\mathrm { F e S O } _ { 4 } { \\cdot } \\mathrm { H } _ { 2 } \\mathrm { O } _ { \\cdot } ^ { \\cdot }$ $9 5 ~ \\mathrm { m g }$ ， $Z _ { \\mathrm { { n } } } \\left( Z _ { \\mathrm { { n O } } } \\right) 6 5 ~ \\mathrm { { m g } }$ ，Cu $( \\mathrm { C u S O } _ { 4 } { \\cdot } 5 \\mathrm { H } _ { 2 } \\mathrm { O } )$ （2 $8 0 ~ \\mathrm { m g }$ ， $\\mathrm { ~ I ~ } ( \\mathrm { K I } ) 0 . 3 \\ : \\mathrm { m g }$ Se $\\left( \\mathrm { N a } _ { 2 } \\mathrm { S e O } _ { 3 } \\right) 0 . 3 \\mathrm { m g }$ 。表2同The same as Table2。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2)营养水平为计算值。表2同。Nutrient levels were calculated values.The same as Table 2. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "猪对白酒糟酿酒酵母培养物中营养物质全消化道表观消化率的计算公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD { = } ( A { - } B ) / F { \\times } 1 0 0 { + } B\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $D$ 为被测试验原料中某营养物质的全消化道表观消化率（ $( \\%$ ）； $\\mathbf { \\mathcal { A } }$ 为试验饲粮中",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "8 该营养物质的全消化道表观消化率 $( \\%$ ）； $B$ 为基础饲粮中该营养物质的全消化道表观消化\\$9 率 $( \\% )$ ； $F$ 为被测试验原料中该营养物质占试验饲粮中该营养物质的比例！ $( \\%$ ）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "）1.4猪对白酒糟酿酒酵母培养物中氨基酸回肠末端表观消化率的测定",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "选用6头二元杂交去势公猪，以二氧化钛（ $0 . 2 \\%$ ）为指示剂，采用直接饲喂法测定猪对白酒糟酿酒酵母培养物中氨基酸的回肠末端表观消化率，试验饲粮组成及营养水平见表2。正式试验为7d，第 $1 { \\sim } 4$ 天适应饲粮，第 ${ 5 } \\sim { 7 }$ 天收集食糜。每头猪自由采食与饮水，每天08:30和16:30饲喂，每次饲喂量相同。在食糜收集期间，每天从第1次饲喂开始后连续收集 $1 0 \\mathrm { { h } }$ 收集到的食糜立即置 $- 2 0 ^ { \\circ } \\mathrm { C }$ 保存。试验结束后，将食糜取出解冻，按每头猪的食糜混合均匀，经冷冻干燥并粉碎过60目，置于在-20℃保存待测",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2试验饲粮组成及营养水平（风干基础）",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/9f5f8f53d447cbd7e84c612296f4a3196b3b9f054cf53da27e6c7f80bcfee4f1.jpg",
+        "table_caption": [
+            "Table 2Composition and nutrient levels of the experimental diet (air-dry basis) $\\%$ （20 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items 含量Content</td></tr><tr><td>原料 Ingredients</td></tr><tr><td>白酒糟酿酒酵母培养物 Saccharomyces 51.60</td></tr><tr><td>cerevisiae culture using distiller's grainsas</td></tr><tr><td>substrate</td></tr><tr><td>玉米淀粉 Corn starch 26.94</td></tr><tr><td>海泡石 Sepiolite 18.63</td></tr><tr><td>石粉 Limestone 0.98</td></tr><tr><td>磷酸氢钙CaHPO4 0.74</td></tr><tr><td>预混料 Premixl) 0.50</td></tr><tr><td>氯化钙CaCl 0.31</td></tr><tr><td>防霉剂Fungicide 0.15</td></tr><tr><td>氯化胆碱 Choline chloride 0.10</td></tr><tr><td>抗氧化剂Antioxidants 0.03</td></tr><tr><td>甜味剂 Sweetener 0.02</td></tr><tr><td>合计Total 100.00</td></tr><tr><td>营养水平 Nutrient levels2) 粗蛋白质CP 18.38</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/989ec47ba8254d6872514ea4029e21fc5d03308126b8b07151004728028a55d3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>钙Ca 0.63</td></tr><tr><td>磷P 0.51</td></tr><tr><td>赖氨酸Lys 0.87</td></tr><tr><td>亮氨酸Leu 0.69</td></tr><tr><td>苏氨酸 Thr 0.71</td></tr><tr><td>谷氨酸Glu 0.74</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "猪对白酒糟酿酒酵母培养物中氨基酸回肠末端表观消化率的计算公式如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "某氨基酸的回肠末端表观消化率 $( \\% ) = [ 1 -$ （食糜中该氨基酸含量 $\\times$ 饲粮中指示剂含量)(粪 中指示剂含量 $\\times$ 饲粮中该氨基酸含量) $\\lvert \\times 1 0 0$ 0 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.5统计分析",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "试验数据用SPSS19.0统计软件的一般线性模型进行单因素方差分析，数据以平均值土标准差。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1白酒糟酿酒酵母培养物的营养成分",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "白酒糟酿酒酵母培养物的总能为 $1 9 . 5 3 ~ \\mathrm { M J / k g }$ ，粗蛋白质、粗灰分、粗纤维和粗脂肪分别为 $3 1 . 1 2 \\%$ 、 $1 3 . 4 6 \\%$ 、 $1 1 . 0 0 \\%$ 和 $5 . 0 0 \\%$ ，具体见表3。可以看出，白酒糟酿酒酵母培养物的总能和粗蛋白质含量较高。白酒糟酿酒酵母培养物是由高梁、稻谷、玉米等原料酿酒后的残渣，再经过菌种发酵后的产物，所以能使粗蛋白质含量进一步提升，接近豆粕的粗蛋白质含量。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，酵母培养物的氨基酸组成丰富，其中赖氨酸、亮氨酸、丙氨酸、氨酸、脯氨酸、精氨酸和苯丙氨酸的含量分别为 $8 . 2 7 \\%$ 、 $1 7 . 8 8 \\%$ 、 $9 . 2 1 \\%$ 、 $1 0 . 7 2 \\%$ 、 $9 . 9 9 \\%$ 、 $6 . 4 8 \\%$ 和 $9 . 1 6 \\%$ ，氨基酸的含量和种类都非常丰富，有助于促进动物的生长和发育。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表3白酒糟酿酒酵母培养物的营养水平(风干基础)",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/6f5643e2c43cbddd06f75e0706edc03f0f93539c5e555ee5c29b0a0af741734a.jpg",
+        "table_caption": [
+            "Table 4Nutrient levels of Saccharomyces cerevisiae culture using distiller's grains as substrate (air-dry "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">basis) %</td></tr><tr><td>项目Items</td><td>总能GE/</td><td>水分 Moisture/%</td><td>粗蛋白质</td><td>粗脂肪EE/%</td><td>粗纤维</td><td>粗灰分</td></tr><tr><td></td><td>(MJ/kg)</td><td></td><td>CP/%</td><td></td><td>CF/%</td><td>Ash/%</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/5eea63cc125a2cb017c0ed240314be6059c6589d9fc2700e89099628b5ed0cc7.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\"></td></tr><tr><td>含量</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>19.53±0.05</td><td>8.34±0.05</td><td>31.12±0.15</td><td>5.00±0.36</td><td>11.00±0.75</td><td>13.46±0.15</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/f558b12a13ebd80d476a6b3f10f7d9f3e097d296d54856b3bb55dc145964f10b.jpg",
+        "table_caption": [
+            "Table 4Amino acid composition of Saccharomyces cerevisiae culture using distiller's grains as substrate (air-dr "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">basis)</td><td colspan=\"2\">%</td></tr><tr><td>项目Items</td><td>含量Content</td><td>项目Items</td><td>含量Content</td></tr><tr><td>精氨酸Arg</td><td>6.48±0.18</td><td>天冬氨酸 Asp</td><td>4.67±0.30</td></tr><tr><td>组氨酸 His</td><td>5.52±0.04</td><td>谷氨酸Glu</td><td>35.10±0.58</td></tr><tr><td>异亮氨酸Ile</td><td>6.35±0.17</td><td>丝氨酸 Ser</td><td>4.85±0.05</td></tr><tr><td>亮氨酸Leu</td><td>17.88±0.31</td><td>甘氨酸 Gly</td><td>6.73±0.11</td></tr><tr><td>赖氨酸Lys</td><td>8.27±0.18</td><td>丙氨酸Ala</td><td>9.21±0.25</td></tr><tr><td>甲硫氨酸 Met</td><td>1.81±0.16</td><td>酪氨酸Tyr</td><td>4.67±0.17</td></tr><tr><td>苯丙氨酸 Phe</td><td></td><td></td><td></td></tr><tr><td>苏氨酸 Thr</td><td>9.16±0.16</td><td>脯氨酸 Pro</td><td>9.99±0.16</td></tr><tr><td>氨酸Val</td><td>6.36±0.11 10.72±0.38</td><td>半胱氨酸 Cys</td><td>2.36±0.09</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2白酒糟酿酒酵母培养物对猪的限制性氨基酸的确定",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在畜禽生产中各种必需氨基酸之间及其与非必需氨基酸相互之间应保持平衡。为此，本试验计算了白酒糟酿酒酵母培养物中必需氨基酸之间的比例关系，并确立了其对猪的限制性氨基酸，结果见表5。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从表5可以看出，以赖氨酸为基准（100），白酒糟酿酒酵母培养物的必需氨基酸中，以甲硫氨酸的比率最小，为 22，与猪的理想氨基酸比率中甲硫氨酸的比率（60）相差较大；除甲硫氨酸和赖氨酸外，其他氨基酸的比率均高于猪的理想氨基酸比率。这表明白酒糟酿酒酵母培养物的必需氨基酸中，第一限制性氨基酸为甲硫氨酸，第二限制性氨基酸为赖氨酸。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表5白酒糟酿酒酵母培养中氨基酸的比率与猪的理想氨基酸比率的比较（以赖氨酸为基准）",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/d617f1a92e7517807c8d6a3d3f22ea0b24fe99e06f7830b45327698c4693f992.jpg",
+        "table_caption": [
+            "Table 5Acomparison of the ratio of ideal amino acids for pigs and the ratio ofamino acids in Saccharomyces cerevisiae culture using distiller's grains as substrate (on the basis of Lys) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>氨基酸AA</td><td>猪的理想氨基酸比率</td><td>白酒糟酿酒酵母培养物 The ratio of amino</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/d0946efee60cdd37324bc71c94d6a509571d467095226830423d1bc616155be9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>The ratio of ideal amino acids for pigs[11]</td><td>acidsin Saccharomycescerevisiaeculture</td></tr><tr><td>赖氨酸Lys</td><td></td><td>using distiller's grains as substrate</td></tr><tr><td>精氨酸Arg</td><td>100</td><td>100</td></tr><tr><td>组氨酸Hig</td><td>1 31</td><td>78 67</td></tr><tr><td>异亮氨酸Ile</td><td>60</td><td>77</td></tr><tr><td>亮氨酸Leu</td><td>111</td><td>216</td></tr><tr><td>甲硫氨酸Met</td><td>60</td><td>22</td></tr><tr><td>苯丙氨酸Phe</td><td>95</td><td>111</td></tr><tr><td>苏氨酸Thr</td><td>60</td><td>77</td></tr><tr><td></td><td></td><td></td></tr><tr><td>氨酸Val</td><td>68</td><td>130</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3白酒糟酿酒酵母培养物中霉菌毒素含量",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表6可知，白酒糟酿酒酵母培养物中玉米赤霉烯酮毒素含量为1 $1 9 . 3 8 ~ \\mu \\mathrm { g / k g }$ ，T-2毒素含量为 $1 5 . 5 2 ~ \\mu \\mathrm { g / k g }$ ，呕吐毒素含量为 $5 4 2 . 1 3 ~ { \\mu \\mathrm { g / k g } }$ ，伏马毒素含量为I $3 _ { 1 } 1 1 4 . 2 6 \\mu \\mathrm { g / k g }$ ，黄曲霉毒素含量为 $\\mathbf { B } _ { 1 } 0 . 0 9 \\mu \\mathrm { g / k g }$ ，赭曲霉毒素含量为 $0 . 0 8 ~ \\mu \\mathrm { g / k g }$ ，均远低于限量标准。白酒糟酿酒酵母培养物中黄曲霉毒素和赭曲霉毒素的含量很低，呕吐毒素含量相对于其他的毒素有点偏高，但还是远远低于限量标准。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/6b1b26ba15204c62611eee2669b64b9b20155f1c1edfd7418eb458eb6e097cc1.jpg",
+        "table_caption": [
+            "表6白酒糟酿酒酵母培养物的霉菌毒素含量",
+            "Table6Mycotoxin contents of Saccharomyces cerevisiae culture using distiller's grains as substrate "
+        ],
+        "table_footnote": [
+            "2.4 猪对白酒糟酿酒酵母培养物中营养物质的全消化道表观消化率和消化能 "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">μg/kg</td></tr><tr><td>项目Items</td><td>含量Content</td><td>限量标准 Limited standard</td></tr><tr><td>玉米赤霉烯酮 ZEN</td><td>119.38±14.67</td><td>≤1000 (GB13078.2-2006)</td></tr><tr><td>T-2 毒素 T2</td><td>15.52±1.60</td><td>≤100（美国FDA）</td></tr><tr><td>呕吐毒素 DON</td><td>542.13±77.17</td><td>≤1000 (GB 13078.3-2007)</td></tr><tr><td>伏马毒素BFB</td><td>114.26±15.81</td><td>≤5000（美国FDA）</td></tr><tr><td>黄曲霉毒素BAFBi</td><td>0.09±0.01</td><td>≤20(GB13078-2001)</td></tr><tr><td>赭曲霉毒素 OTA</td><td>0.08±0.03</td><td>≤100(GB13078.2-2006)</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表7可知，猪对白酒糟酿酒酵母培养物中干物质、粗蛋白质、粗脂肪、粗纤维、粗灰分和总能的全肠道表观消化率分别为 $4 8 . 7 9 \\%$ 、 $5 4 . 1 5 \\%$ 、 $8 2 . 9 4 \\%$ 、 $2 3 . 1 7 \\%$ 、 $20 . 2 9 \\%$ 和 $3 8 . 3 3 \\%$ 。由此可知，白酒糟酿酒酵母培养物中粗脂肪和粗蛋白质在猪消化道内的消化率较高，粗纤维和干物质的消化率较低。此外，白酒糟酿酒酵母培养物在猪中的消化能为 $1 1 . 7 5 \\mathrm { M J / k g }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表7猪对白酒糟酿酒酵母培养物中营养物质的全消化道表观消化率和消化能",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/d994bd65b92144952d540d03af1a97cc123f83fbc699d95ee5960f6b05fb5b55.jpg",
+        "table_caption": [
+            "Table7Nutrient total tract apparent digestibility and DE of Saccharomyces cerevisiae culture using "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">distiller’s grains as substrate for pigs</td></tr><tr><td>项目Items</td><td>平均值±标准差Mean±SD</td></tr><tr><td>全消化道表观消化率 Total tract apparent digestibility/%</td><td></td></tr><tr><td>总能GE</td><td>38.33±8.50</td></tr><tr><td>粗蛋白质CP</td><td>54.15±4.83</td></tr><tr><td>粗脂肪 EE</td><td>82.94±9.02</td></tr><tr><td>粗纤维CF</td><td>23.17±7.57</td></tr><tr><td>干物质DM</td><td>48.79±10.41</td></tr><tr><td>粗灰分 Ash</td><td>20.29±1.62</td></tr><tr><td>消化能DE/(MJ/kg)</td><td>11.75±1.30</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "502.5猪对白酒糟酿酒酵母培养物中氨基酸的回肠末端表观消化率 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由表8可知，猪对白酒糟酿酒酵母培养物中必需氨基酸的回肠末端表观消化率普遍都很高，必需氨基酸中回肠末端表观消化率最低的是丝氨酸，也达到了 $5 5 . 1 0 \\%$ 。白酒糟酿酒酵母培养物中第一限制性氨基酸甲硫氨酸的回肠末端表观消化率达到了 $8 4 . 9 2 \\%$ ，苏氨酸的回肠末端表观消化率为 $7 1 . 3 6 \\%$ ，缬氨酸的回肠末端表观消化率为 $7 0 . 2 0 \\%$ ，组氨酸的回肠末端表观消化率为 $7 1 . 1 3 \\%$ 。猪对白酒糟酿酒酵母培养物中必需氨基酸的回肠末端表观消化率的平均值为 $7 2 . 3 8 \\%$ ，对非必需氨基酸的回肠末端表观消化率的平均值为 $6 9 . 3 7 \\%$ ，对总氨基酸的回肠末端表观消化率的平均值为 $7 0 . 8 8 \\%$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表8猪对白酒糟酿酒酵母培养物中氨基酸的回肠末端表观消化率",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/40abd79426bc686c2d87dd72329ec0cc4aae4a450052741e30230bb9770ef8bf.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目 Items</td><td>含量Content</td><td>项目Items</td><td>含量Content</td></tr><tr><td>精氨酸Arg</td><td>69.52±2.58</td><td>天冬氨酸 Asp</td><td>68.01±2.44</td></tr><tr><td>组氨酸 His</td><td>71.13±2.72</td><td>丝氨酸 Ser</td><td>55.10±2.00</td></tr><tr><td>异亮氨酸Ile</td><td>71.31±2.16</td><td>甘氨酸 Gly</td><td>59.59±3.78</td></tr><tr><td>亮氨酸Leu</td><td>69.36±2.37</td><td>谷氨酸Glu</td><td>74.03±2.25</td></tr><tr><td>赖氨酸Lys</td><td>87.46±2.41</td><td>丙氨酸 Ala</td><td>72.27±2.50</td></tr><tr><td>甲硫氨酸 Met</td><td>84.92±1.54</td><td>酪氨酸Tyr</td><td>70.10±2.20</td></tr><tr><td>苯丙氨酸 Phe</td><td>68.71±2.52</td><td>脯氨酸Pro</td><td>66.05±5.16</td></tr><tr><td>苏氨酸 Thr</td><td>71.36±1.71</td><td>半胱氨酸Cys</td><td>74.22±1.55</td></tr><tr><td>氨酸Val</td><td>70.20±2.21</td><td>非必需氨基酸平均值 NEAA average value</td><td>69.37</td></tr><tr><td>必需氨基酸平均值</td><td></td><td>总氨基酸平均值</td><td></td></tr><tr><td>EAA average value</td><td>72.38</td><td>TAA average value</td><td>70.88</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本次试验测出白酒糟酿酒酵母培养物的总能为 $1 9 . 5 3 ~ \\mathrm { M J / k g }$ ，粗蛋白质含量为 $3 1 . 1 2 \\%$ 粗纤维含量为 $1 1 . 0 0 \\%$ ，粗脂肪含量为 $5 . 0 0 \\%$ 。经过加工处理以后，白酒糟酿酒酵母培养物中总能和粗蛋白质含量相比于玉米干全酒糟及其可溶物（DDGS）的含量[12]有所升高，虽然白酒糟酿酒酵母培养物经过脱壳处理，但是还是有少量稻壳的残留，白酒糟酿酒酵母培养物粗纤维含量在 $1 1 \\%$ 。经过去壳工艺后，白酒糟酿酒酵母培养物的粗纤维含量有所降低[13]，适当的粗纤维含量能促进肠道蠕动、增强消化能力和提高饲料的适口性。并且，在降低粗纤维含量的同时也能提升其他营养成分的含量。如果饲料中的粗纤维含量过高会使动物体内营养物质的消化率降低；有研究发现，在母奶牛饲粮中添加 $50 \\%$ 的DDGS可以较好地保持生长性能，同时也能保持蛋白质在肠道的消化率和吸收率[14]；此外，DDGS中的膳食纤维可显著改变猪结肠微生物的特性[15-16]。白酒糟酿酒酵母培养物的氨基酸组成也非常丰富，其中赖氨酸含量为 $8 . 2 7 \\%$ ，亮氨酸含量为 $1 7 . 8 8 \\%$ ，丙氨酸含量为 $9 . 2 1 \\%$ ，缬氨酸含量为 $1 0 . 7 2 \\%$ ，脯氨酸含量为 $9 . 9 9 \\%$ ，苯丙氨酸含量为 $1 9 . 1 6 \\% _ { \\textmd { c } }$ 白酒糟酿酒酵母培养物中赖氨酸的含量高于玉米DDGS[12]。酒糟在发酵中需要保持菌种适宜生长繁殖的温度和湿度，所以白酒糟及其相关产品在发'5 酵过程中也存在霉菌毒素污染的风险。主要的霉菌毒素包括玉米赤霉烯酮、呕吐毒素、T-2毒素、黄曲霉毒素 $\\mathbf { \\ddot { B } } _ { 1 }$ 、伏马毒素 $\\mathbf { \\ddot { B } } _ { 1 }$ 、赭曲霉毒素，这6种霉菌毒素在玉米、大麦、高梁、小麦等白酒发酵原料中普遍存在并且污染越来越严重[17]。其中赭曲霉毒素、玉米赤霉烯酮、呕吐毒素耐热，即便在高温下也不分解，霉菌毒素不仅使饲料中的营养成分降低，而且动物再食用受污染的饲料后会引起胃肠道功能紊乱、腹泻、呕吐和营养不良等症状[18-20]，导致生长缓慢、急性或慢性中毒，甚至死亡[21-22]。DDGS已是国内外广泛应用的一种饲料原料，但是由于其水分含量很高，在生产过程中毒素的浓缩效应导致霉菌毒素的检出率很高，尤其是玉米赤霉烯酮和赭曲霉毒素。王金勇等[23]调查发现，在DDGS及其产品中呕吐毒素、玉米赤霉烯酮的含量严重超标。徐建[24]在9种酒糟均检测到黄曲霉毒素 $\\mathbf { \\ddot { B } } _ { 1 }$ 。黄曲霉毒素Bi的毒性是氰化钾的10倍。霉菌毒素可破坏肠道上皮细胞屏障功能，诱导动物和人类肠道病变[19]。为保护动物和人体健康，实际生产中应注意控制霉菌毒素的产生，所以必须加强霉菌毒素的预防与控制。对易污染的饲料进行脱毒措施，减少霉菌毒素对动物的毒害作用[25]。本试验对6种在饲料中常见的霉菌毒素（玉米赤霉烯酮、呕吐毒素、T-2毒素、黄曲霉毒素 $\\mathbf { \\ddot { B } } _ { 1 }$ 、伏马毒素 $\\mathbf { B } _ { 1 }$ 、赭曲霉毒素）在白酒糟酿酒酵母培养物中的含量进行了检测，这6种霉菌毒素的含量均远低于限量标准。猪对白酒糟酿酒酵母培养物中粗蛋白质和粗脂肪的表观消化率比较高，粗脂肪的表观消化率达到 $8 2 . 9 4 \\%$ 。张益书等[26]在猪的饲粮中添加一定比例酒糟，测得其粗脂肪的表观消化率为 $5 8 . 6 \\%$ ，徐建[24]测得9种酒糟的粗脂肪在猪全消化道的表观消化率介于 $3 5 \\% \\sim 7 2 \\%$ ，均低于白酒糟酿酒酵母培养物。对于猪，白酒糟酿酒酵母培养物的消化能为 $1 1 . 7 5 \\mathrm { M J / k g }$ Woodworth等[27]测得豆粕的消化能为 $1 5 . 3 0 \\mathrm { M J / k g }$ ，Pedersen等[28]测得玉米的消化能为16.21$\\mathrm { M J / k g }$ ，白酒糟酿酒酵母培养物的消化能低于豆粕[27]和玉米[28]，为豆粕的 $76 \\%$ 、玉米的 $72 \\%$ 。何英[29]用替代法算出的酒糟在生长猪中的消化能为 $4 . 9 5 \\mathrm { M J / k g }$ ，夏先林等[13]测得酒糟在猪中的消化能为 $8 . 6 0 \\mathrm { M J / k g }$ ，均低于白酒糟酿酒酵母培养物。猪对白酒糟酿酒酵母培养物中粗纤维的全消化道表观消化率只有 $2 3 . 1 7 \\%$ ，在反刍动物中饲喂DDGS后，营养物质的表观消化率和瘤胃的降解率提升[30]。近期研究发现，通过用DDGS替代部分膳食谷物来降低膳食淀粉含量增加了滤泡中的脂肪酸含量，可以降低血浆中胰岛素的浓度、滤泡液中胰岛素样生长因子-1（IGF-1）的浓度以及排卵的发生率[31]。单胃动物对纤维的分解、吸收效率比较低，使得其消化率也较低。不同地区的酒糟加工工艺的不同，其粗纤维含量也有差异，在饲粮中添加酒糟后其粗纤维的含量直接影响机体对营养物质的吸收，进而对消化率产生影响[32]。饲料氨基酸消化率是评定单胃动物饲料蛋白质营养价值最为重要的指标之一，本试验测得的猪对白酒糟酿酒酵母培养物中必需氨基酸、非必需氨基酸和总氨基酸的回肠末端表观消化率平均值分别为 $7 2 . 3 8 \\%$ 、 $6 9 . 3 7 \\%$ 、 $70 . 8 8 \\%$ ，相比于陈颖[33]测得的猪对白酒糟发酵粉的必需氨基酸、非必需氨基酸和总氨基酸的回肠末端表观消化率（分别为 $5 9 . 2 6 \\%$ 、 $4 4 . 7 7 \\%$ 和$52 . 8 2 \\%$ ）有明显提升，但比豆粕(分别为 $7 9 . 8 5 \\%$ 、 $7 4 . 7 2 \\%$ 和 $7 7 . 5 7 \\%$ 要低。此外，白酒糟酿酒酵母培养物中赖氨酸( $8 7 . 4 6 \\%$ ）、丙氨酸（ $7 2 . 2 7 \\%$ )、苏氨酸的回肠末端表观消化率( $7 1 . 3 6 \\%$ ）比豆粕中赖氨酸（ $80 . 5 2 \\%$ ）、丙氨酸（ $67 . 8 4 \\%$ ）、苏氨酸的回肠末端表观消化率（ $70 . 4 5 \\%$ ）要高，而白酒糟酿酒酵母培养物中其他氨基酸的回肠末端表观消化率都比豆粕低。有研究发现，生长猪对赖氨酸的表观消化率随着DDGS添加量的增加而降低，但氨基酸的回肠末端表观消化率不受脂质含量的影响，而低脂质饮食中内源性脂质的损失使得粗脂肪的表观消化率降低[34]。有研究指出，猪回肠末端的微生物数量及组成会影响氨基酸的消化和吸收[35]；同时，粗纤维的含量也影响营养物质的消化[3]，较高的粗纤维含量增加肠道蠕动的速度，降低食糜的停留时间，使氨基酸的吸收率下降[37]。白酒糟酿酒酵母培养物作为一种新型的蛋白质原料，不同酒厂所使用的原料种类、填充剂、加工工艺，都有可能影响白酒糟酿酒酵母培养物的营养成分和营养物质的表观消化率[38]，在反刍动物中，饲粮中白酒糟添加量在 $30 \\%$ 以内时对山羊的生产性能和各营养物质表观消化率无不利影响[39]。在单胃动物饲粮添加（204号 $30 \\%$ DDGS时，使猪腹部脂肪减少，但做成肉质商品效果更好[15]。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 白酒糟酿酒酵母培养物的总能为 $1 9 . 5 3 ~ \\mathrm { M J / k g }$ ，粗蛋白质含量为 $3 1 . 1 2 \\%$ ，粗纤维含量为$1 1 . 0 0 \\%$ ，粗脂肪含量为 $5 . 0 0 \\%$ ，水分含量为 $8 . 3 4 \\%$ ，粗灰分含量为 $1 3 . 4 6 \\%$ ，霉菌毒素含量远低于国家标准。  \n$\\textcircled{2}$ 猪对白酒糟酿酒酵母培养物中粗蛋白质、粗脂肪、粗纤维、干物质和总能的全肠道表观消化率分别为 $5 4 . 1 5 \\%$ 、 $8 2 . 9 4 \\%$ 、 $2 3 . 1 7 \\%$ 、 $4 8 . 7 9 \\%$ 和 $3 8 . 3 3 \\%$ ，消化能为 $1 1 . 7 5 \\mathrm { M J / k g }$   \n$\\textcircled{3}$ 猪对白酒糟酿酒酵母培养物中必需氨基酸、非必需氨基酸和总氨基酸的回肠末端表观消化率平均值分别为 $7 2 . 3 8 \\%$ 、 $6 9 . 3 7 \\%$ 和 $7 0 . 8 8 \\%$ 。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1] KHOURY C K,BJORKMAN A D,DEMPEWOLF H,et al. ncreasing homogeneity in globalfood supplies and the implications for food security[J].Proceedings of the NationalAcademy of Sciences,2014,111(11):4001-4006.[2]王晓力.白酒糟生产高蛋白饲料研究进展及前景[J].中兽医医药杂志,2013,32(6):34-36.[3]王贵荣.酒糟利用情况调研报告[J].酿酒,1998,2(1):45-51.[4]左上春,杨海泉,邹伟,等.白酒酒糟资源化利用研究进展[J].食品工业,2016,1:246-249.[5]余群莲.白酒糟在节粮型肉牛业中的开发利用潜力[J].中国畜牧杂志,2010,46(4):58-61.[6]李梦云,陈代文.饲料中黄曲霉毒素的危害及几种脱毒剂的作用机理[J].饲料博览,2005(4):10-14.[7]熊本海,庞之洪,罗清尧.中国饲料成分及营养价值表[J].中国饲料,2010,21:34-39.[8] GRAHAM H,AMAN P.Circadian variation in composition of duodenal and ileal digesta frompigs fited with T-cannulas[J].Animal Production,1986,43(1):133-140.[9] LUMPKINS B S,BATAL A B.The bioavailability of lysine and phosphorus in distillers driedgrains with solubles[J].Poultry Science,2005,84(4):581-586.[10]马晓建.酒糟综合利用的发展前景[J].釀酒科技,2006,4:96-98.[11] FIRMANJD,BOLING SD.火鸡的理想蛋白质[J].国外畜牧兽医：饲料，1998(6):30-33.[12] MANTHEY A K,ANDERSON J L,PERRY G A.Feeding distillers dried grains inreplacementofforageinlimit-feddairyheiferrations:effectsongrowthperformance,rumen fermentation,and total-tract digestibility of nutrients[J].Journal ofDairy Science,2016,99(9):7206-7215.[13]夏先林,韦永会.不同谷壳分离方法对酒糟营养价值的影响[J].中国畜牧杂志,2002,38(2):31-32.252 [14] 陈光吉,彭忠利,宋善丹,等.发酵酒糟对舍饲耗牛生产性能、养分表观消化率、瘤胃发酵",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/0c1d92033c1ae78b3d53d6b7dc91bbb134d52385885bd7886bd4fe410a9b3e99.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>删除的内容：史清河</td></tr><tr><td>带格式的：非 突出显示</td></tr><tr><td>删除的内容：，DUDLEY-CASHWA</td></tr><tr><td>删除的内容：张颖</td></tr><tr><td>删除的内容：肉鸡可消化氨基酸需要量的修订和改进</td></tr><tr><td>删除的内容：饲料广角</td></tr><tr><td>删除的内容：;</td></tr><tr><td>删除的内容：7</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "和血清生化指标的影响[J].动物营养学报,2015,27(9):2920-2927. [15] MURILLO M,HERRERA E,RUIZ O,et al.Effect of supplemental corn dried distillers grains with solubles fed to beef steers grazing native rangeland during the forage dormant season[J].Journal of Animal Sciences,2016,29(5):666-671. [16] BURROUGHER,ARRUDABL,PATIENCEJF,et al.Alterations in the colonic microbiota ofpigsassociated with feedingdistilersdriedgrainswith solubles[J].PloS One,2015,10(11):1337-1345. [17] MARESCA M,YAHI N,YOUNES-SAKR L,et al.Both direct and indirect effects account for the pro-inflammatory activity of entero-pathogenic mycotoxins on the human intestinal epithelium: Stimulation of interleukin-8 secretion,potentiation of interleukin- $1 \\beta$ effect and increase in the trans-epithelial passage of commensal bacteria[J].Toxicology and applied pharmacology,2008,228(1):84-92. [18]计成.霉菌毒素对家禽的危害及降解技术[J].中国家禽,2014,36(2):40-41. [19]高亚男.霉菌毒素影响肠道黏膜屏障功能[J].动物营养学报,2016,28(3):674-679. [20]史莹华.饲料中霉菌毒素的危害及其控制[J].河南农业大学学报:自然科学 版,2006,40(6):683-686. [21] SMELA M E,CURRIER S S,BAILEY E A,et al.The chemistry and biology of aflatoxin $\\mathbf { B } _ { 1 }$ :from mutational spectrometry to carcinogenesis[J].Carcinogenesis,20o1,22(4):535-545. [22]计成,赵丽红.黄曲霉毒素生物降解的研究及前景展望[J].动物营养学 报,2010,22(2):241-245. [23]王金勇,刘颖莉.2012 年上半年中国饲料和原料霉菌毒素污染情况调查报告[J].饲料工 业,2012,33(22):40-43. 293 [24] 徐建.白酒糟的营养价值评定[J].中国畜牧杂志,2012,48(7):47-50. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[25] SUBRAMANIAM E,COLAZO M G,GOBIKRUSHANTH M,et al.Effects of reducing dietary starch content by replacing barley grain with wheat dried distillers grains plus solubles in dairy cow rations on ovarian function[J]. Journal of dairy science,2o16,99(4): 2762-2774.   \n[26]张益书,李益良.郎酒糟营养成分和营养价值及作猪饲料的研究[J].商业科 技,1992,5:14-18.   \n[27] WOODWORTH J C,TOKACH M D,GOODBAND R D,et al.Apparent ileal digestibility of amino acids and the digestible and metabolizable energy content of dry extruded-expelled soybean meal and its effects on growth performance of pigs[J].Journal of Animal Science,2001,79(5):1280-1287.   \n[28] PEDERSEN C,BOERSMA MG,STEIN HH.Energy and nutrient digestibility in NutriDense cornandothercerealgrainsfedtogrowingpigs[J].JournalofAnimal Science,2007,85(10):2473-2483.   \n[29] 何英.糠麸糟渣、饼粕类饲料猪有效能预测模型的研究[D].硕士学位论文.雅安:四川农业 大学.2004:67-78.   \n[30] GUTIERREZ N A,SERAO N V L,PATIENCE JF.Effects of distillers’dried grains with solubles and soybean oil on dietary lipid,fiber,and amino acid digestibility in corn-based diets fed to growing pigs[J].Journal of Animal Science,2016,94(4):1508-1519.   \n[31] XIE HD,BU L J,ZHONG Z Z,et al.Effects of sorghum distillers dried grains with solubles on the carcass characteristics and muscle quality of China Micro Duck drakes aged from 4 to 8 weeks[J].Poultry Science,2016,95(11):2633-2639.   \n[32] SAUER W C,OZIMEK L.Digestibility of amino acids in swine:results and their practical applications.A review[J].Livestock Production Science,1986,15(4):367-388.   \n[33]陈颖.白酒糟发酵粉对生长猪消化能、代谢能和氨基酸标准回肠消化率的评定[J].饲料工 业,2013,9:47-52.   \n[34] OVERHOLT MF,LOWWLJE,WILSON KB,et al.Effects of feeding pelleted diets without or with distillers dried grains with solubles on fresh belly characteristics,fat quality,and commercialbaconslicingyieldsoffinishingpigs[J].JournalofAnimal Science,2016,94(5):2198-2206.   \n[35] RAYMOND T L,CONNOR W E,LIN D S,et al.The interaction of dietary fibers and cholesterol upon the plasma lipids and lipoproteins,sterol balance,and bowel function in human subjects[J].Journal of Clinical Investigation,1977,60(6):1429.   \n[36] CHERBUTC,AUBE A C,MEKKI N,et al.Digestive and metabolic effects of potato and maize fibres in human subjects[J].British Journal ofNutrition,1997,77(1):33-46.   \n[37]李铁军,印遇龙.日粮纤维对猪回肠微生物氮及微生物氨基酸流量的影响[J].畜牧兽医学 报,2003,34(3):239-245.   \n[38] SUBRAMANIAM E,COLAZO M G,GOBIKRUSHANTH M,et al.Efcts of reducing dietary starch content by replacing barley grain with wheat dried distillers grains plus solublesindairycowrationsonovarianfunction[J].Journalofdairy science,2016,99(4):2762-2774.   \n[39]王丽.饲粮白酒糟添加水平对山羊生产性能、营养物质表观消化率及血清生化指标的影 响[J].动物营养学报,2014,26(2):519-525. Saccharomyces cerevisiae Culture Using Distiller's Grains as Substrate: Nutritional Component Analysis and Application Value Evaluation for Pigs'Feedl   \nCHENQi123BAO Xianying14SUYun’LIBinCAOLihongJIA Xinglin”FENG Zemeng1,7\\* LI Tiejun $^ { 1 , 7 }$ YIN Yulong1,4.5   \n(1.Key Laboratory ofAgro-Ecological Processes inSubtropical Region,InstituteofSubtropical Agriculture,Chinese Academy ofSciences;National Engineering Laboratory for Pollution Control and Waste Utilization inLivestock and Poultry Production,Hunan Provincial   \nEngineering Research Centerfor Healthy Livestock and Poultry Production,Scientific Observing andExperimental Station ofAnimal Nutritionand Feed Science in South-Central,Ministry of   \nAgriculture, Changsha 410125,China;2. College of Veterinary Medicineof Hunan Agricultural   \nUniversity,Changsha 410128,China; 3.Technical CenterofJiuding(Group) Co.,Ltd.,Changsha   \n410003,China; 4.Collegeof Animal Science and Technology of Hunan Agricultural University, Changsha 410128,China;5.Animal Nutrition and Human Health Laboratory,Collge ofLife Sciences,Hunan Normal University,Changsha 41oo81,China; 6.Anhui Dongfang Xinxin Biological Technology Ltd.,Co.，Bozhou 23680o,China;7.Hunan Co-Innovation Centerof Animal Production Safety, Changsha 410128,China)   \nAbstract: In order to evaluate the application value of Saccharomyces cerevisiae culture using   \ndistiller's grains as substrate for pigs’feed,the nutritional components including the contents of   \ndry matter (DM),crude protein (CP),ether extract (EE),ash,crude fiber (CF),amino acids (AA)   \nand gross energy(GE) of Saccharomyces cerevisiae culture using distiller's grains as substrate   \nwere determined at firstly,and then,the total tract apparent digestability of nutrients through total   \nfeces collection method and apparent ileal digestability (AID) of AA through installed T-shape   \nfistula were also determined. The results showed as follows: the GE of Saccharomyces cerevisiae   \nculture using distiller's grains as substrate was $1 9 . 5 3 ~ \\mathrm { M J / k g }$ ,and it consisted of $3 1 . 1 2 \\%$ of CP,   \n$1 1 . 0 0 \\%$ of CF, $5 . 0 0 \\%$ of EE, $8 . 3 4 \\%$ of moisture and $1 3 . 4 6 \\%$ of ash.Mycotoxin contents in   \nSaccharomyces cerevisiae culture using distiller's grains as substrate were far lower than those of   \nthe national standard.The digestible energy of Saccharomyces cerevisiae culture using distiler's   \ngrains as substrate for pigs was $1 1 . 7 5 \\mathrm { M J / k g }$ ,and the total tract apparent digestability of nutrients was $3 8 . 3 3 \\%$ for GE, $5 4 . 1 5 \\%$ for CP, $8 2 . 9 4 \\%$ forEE, $2 3 . 1 7 \\%$ for CF and $4 8 . 7 9 \\%$ for DM.The apparent ileal digestability average values of essential amino acids (EAA) and nonessential amino acid (NAA)of Saccharomyces cerevisiae culture using distiller's grains as substrate for pigs were $7 2 . 3 8 \\%$ and $6 9 . 3 7 \\%$ ,respectively,and the apparent ileal digestability of both lysine (Lys） and methionine (Met) was over $80 \\%$ .It is proved that the absorption and utilization rates of amino acids in Saccharomyces cerevisiae culture using distiller's grains as substrate are relatively high, and it can be used in Pigs'Feed industry.   \nKey Words:amino acids;distiller's grains; Saccharomyces cerevisiae culture；nutritional value evaluation; pigs ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    }
+]

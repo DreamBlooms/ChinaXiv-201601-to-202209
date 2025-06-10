@@ -1,0 +1,190 @@
+# 青少年饮食失调：同伴的表现形式及作用机制
+
+张天羽 张向葵
+
+（东北师范大学心理学院，长春130024）
+
+摘要饮食失调在青少年群体中非常普遍，同伴被认为是一种重要的影响因素。梳理其作用机制，对青少年饮食失调的预防和干预有重要意义。研究表明，同伴对青少年饮食失调具有消极影响，主要表现为感知到的同伴行为、实际的同伴行为、身体不满意的中介作用、以及同伴质量的影响。研究者从直接、间接的角度就同伴对青少年饮食失调的作用机制及影响进行了阐释。未来的研究应深化研究内容，如增加关于同伴影响的长期效应、同伴属性划分、影响路径作用大小以及同伴与饮食失调的其它社会影响因素间的交互作用等方面的研究。
+
+关键词饮食失调；青少年；同伴影响
+
+# 1引言
+
+饮食失调(eating disorders)也叫进食障碍，是一种由不正常的饮食习惯或一组以异常进食行为为主的精神障碍,它对人的身体或心理健康产生负面影响(Berkman,Lohr,&Bulik,2010)。其临床性主要表现为神经贪食症(bulimia nervosa,BN)、神经性厌食症(anorexia nervosa,AN)、暴食障碍(binge-eating disorder,BEN)。其亚临床主要表现为节食(diet)、贪食(bulimia)。临床性的饮食失调主要是由亚临床性发展、演变而来的。临床性的饮食失调相对少见，而亚临床的饮食失调现象却十分常见，影响了 $6 0 \%$ 的女孩和 $30 \%$ 的男孩(Eisenberg & Neumarksztainer,2010)，并有进一步增加的趋势。研究发现，媒体、家庭、同伴是饮食失调的三个最初影响源(Alison etal.,2008)，而以往的研究多开展于对媒体和家庭作用的探讨，却忽视对同伴的研究(Hutchinson & Rapee, 20O7; Woelders et al., 201O; Ferguson,Munoz,& Garza, 2014)。
+
+同伴(peer)是指那些有相同身份地位的人，例如同龄人。相对于幼儿阶段和成人阶段，青少年期的个体在社会化过程中受同伴影响的程度更大(Spear,2000; Steinberg&Monahan，2007; Neumarksztainer,Wall,Larson,Eisenberg,&Loth,2O11)。青少年有被同伴接受的需要,会花费大量的时间与同伴在一起，同时也有属于自己的圈子和小团体。但同伴也被认为是影响青少年出现风险行为的重要因素(Boyce,Davies,Gallupe,& Shelley,2008)，因为“社会比较”的负面效应主要集中在同伴，而非父母或媒体。
+
+那么，同伴是否会影响青少年发生饮食失调？同伴如何影响青少年饮食失调的发展？以及同伴影响青少年饮食失调的机制是怎么样的？这些都得到了饮食失调研究者的关注，并开展了一系列研究加以讨论。本研究旨在系统地总结以往研究的结果，梳理、归纳同伴影响青少年饮食失调的途径，为未来系统地探讨同伴对青少年饮食失调的作用机制提供依据。
+
+# 2同伴对青少年饮食失调影响的表现形式
+
+关于“同伴对青少年饮食失调影响”为主题的实证研究，大多以横断研究为主，纵向研究为辅，但却“各自为政”、非常零散。本研究旨在总结以往的研究成果，以一种全新的框架，更为清晰地呈现出同伴对青少年饮食失调影响的表现形式。其中包括同伴行为对青少年饮食失调的直接影响、间接影响以及同伴质量对饮食失调的影响。
+
+# 2.1同伴对青少年饮食失调的直接影响
+
+大量研究表明，同伴对于青少年的饮食失调存在着直接的影响，归纳、总结已有研究，如图1所示。这种影响又可以进一步划分为感知到的和实际的同伴影响。感知到的(自我报告)和实际的(同伴报告)同伴的态度和行为是截然不同的风险预测因素(Rayner，Schniering,Rapee,& Hutchinson, 2013)。
+
+![](images/2b70f99883a1de0c87cbb63fb699b56349d5c5fb66364e72f4b8da9fcdd2c9d5.jpg)  
+图1同伴对青少年饮食失调的直接影响
+
+# 2.1.1感知到的同伴影响
+
+感知到的同伴影响，即青少年对同伴关于“体重相关的态度、行为或社会交往等(如取笑、外表对话)”的自我感知、自我评价。简而言之，即你认为同伴是否存在节食、贪食行为。然而，通过其自我报告的问卷形式收集数据，往往具有单一性，容易出现偏见和高估作用。
+
+相关研究发现，感知到的同伴在饮食失调，即青少年认为其同伴在节食、贪食，也会大大加深自身节食、贪食行为的发生率(Hutchinson&Rapee,2007)。同时，感知到同伴对瘦身和减肥的关心，或感知到减肥的压力与青春期女孩的身体不满意和饮食失调呈高水平正相关(Jacobi,Hayward,Zwaan，Kraemer,& Agras，2004)。追踪研究也发现了这种预测作用，如Blodgett 和Gondoli(2011)以12个月为时间间隔两次测量了初中女生感知到的同伴对瘦身和减肥的关心对身体不满意的影响，结果发现，感知到的同伴对瘦身和减肥的关心能够正向预测 12个月后的身体不满意。Rayner 等(2013)也发现感知到的同伴影响对节食行为有直接的影响，即感知到的同伴影响越大，节食行为越可能增加，但感知到的同伴影响和贪食行为之间的关系存在身体不满意这一中介变量。此外，有研究证明，青少年感知到的体重相关的嘲笑对个体的饮食失调也有正向预测作用(Hutchinson,Rapee,& Taylor,2010)，即青少年有时会敏感地误解同伴间的玩笑或言语，把其当成一种嘲笑，进而引发了节食等不健康的体重控制行为。
+
+# 2.1.2实际的同伴影响
+
+实际的同伴影响，即同伴自身对其体重相关的态度和行为(节食、贪食)的评价对青少年饮食失调的影响。通常通过同伴报告的问卷形式来收集数据。与感知到的同伴影响相比，实际的同伴影响克服了偏见及高估的缺点，更能代表同伴实际的态度，进而可以更加精确的考察同伴对青少年饮食失调方面的影响。实际的同伴行为对青少年饮食失调的影响，分两个方面，一方面，同伴的饮食失调(节食、贪食)会直接影响青少年饮食失调(节食、贪食)行为的发生。但目前而言，此方面的研究较少，仍待考证。另一方面，同伴的谈论行为同样会潜移默化地造成个体的饮食失调，同伴的谈论行为主要包括：瘦身策略、外表对于社会接受度的谈论；取笑身材的谈论；肥胖谈论。
+
+外表对于社会接受度的谈论是指同伴间关于“与理想身材一致有利于实现社会接纳”的谈论，即同伴团体间传递着外表对受欢迎度及人际关系有着重要作用的说法。质性研究发现，青春期中期的女孩之所以认为瘦身重要，是因为她们认为瘦身会影响同伴的接纳(Mooney,Farley,& Strugnell,2009)。同样，对“女孩”的两项横断研究中，发现身体不满意与“瘦身对人际关系有利或对吸引男孩注意力有益”的看法相关，并且在控制了一系列变量后仍然显著(Paxton,Schutz,Wertheim,& Muir,1999; Schutz& Paxton,2007)。追踪研究也有同样的发现，Jones,Vigfusdottir和Lee (2004)以12个月为时间间隔两次测量了初中女生的外表社会接纳度与节食情况，发现外表的社会接纳度能够正向预测12个月后的节食行为。总的来说，经常性的外表交谈会形成一个“同伴的外表背景”，那些把外表看的过于重要的青少年会报告更多的身体不满意和不良的饮食行为。
+
+取笑身材的谈论是指对外表及体重相关的取笑(Jung,2009;Menzelet al.,2010)。诸多相关研究考察了取笑身材与身体不满意和饮食失调的关系，研究结果也颇为一致。在控制了一系列变量后，两者的关系仍然显著(Jones, Vigfusdottir,&Lee,2004; Paxton et al.,1999; Tayloret al.1998;Vander,Wal,& Thelen,2000)。但纵向研究却存在两种不同结果。Jones,Vigfusdottir和Lee（2004）发现取笑不能预测青少年1年后的身体不满意；而Paxton等人(2006)发现取笑可以正向预测青少年5年后的身体不满意。此外，Jackson 和Chen（2014）发现取笑可能只发生在青春期的早期，但不可置否的是，取笑身材的谈论与身体不满意和饮食失调存在正相关。总之，与正常的青少年相比，那些经常受到同伴取笑（外表、体重）的个体往往会报告出更多的身体不满意，也最容易出现饮食失调行为。
+
+肥胖谈论(Fat Talk)是一种文化中常见的谈话现象，女性经常对自己的身体不满意，并且在同伴间谈论这种不满意。Nichte 和Vuckovic(1994)认为这种谈论是具有程序性的，所以他们将这种谈论命名为“肥胖谈论”，是指女性之间对自己的身体外貌的信息交流，特别是关于身体肥胖、体重、体型、类型和舒适度等方面的谈论。女性会将在肥胖谈论过程中获得的关于理想身体的信息进行内化，纳入到自己对身体的认知中，但是很少有人能够达到这种理想身体的标准，所以女性之间进行肥胖谈论，会造成瘦理想内化而产生身体不满意，进而会引发饮食失调(吴双双，吕振勇，陈红，王玉慧，肖子伦，2016)。对肥胖谈论和饮食失调的直接研究发现，在青少年女性中，暴露在同伴之间的消极的身体谈论以及一些跟节食行为相关的话题能够增加身体不满意、节食行为、对食物的关注程度以及暴食症状(Compeau &Ambwani,2013; Woelders et al.,2010)。如 Eisenberg 和 Neumarksztaine (2010)关于初中生的一项五年的追踪研究显示：同伴间公开的交流，如对体重和外貌的批评性评论，能够正向预测青少年的节食等不健康的饮食行为。同时，Jackson 和Chen（2008b）针对 593 名非西方样本的一项9个月的前瞻性研究也发现，青少年对于肥胖的担忧（即体重正常或偏瘦却认为自己超重）以及同伴对外表的负面反馈会造成身体不满意和饮食失调。以上说明肥胖谈论是影响饮食失调的因素之一。
+
+# 2.2同伴对青少年饮食失调的间接影响
+
+除了同伴对青少年饮食失调的直接影响外，大量研究显示，同伴对青少年饮食失调也具有间接影响，即以身体意象为中介(Bearman，Presnell，Martinez，& Stice，2006；Jung，2009;
+
+Juan etal.,2012)。归纳、总结已有研究，如图2所示。
+
+![](images/7be32f65e539396fcba2b208bd034d3e24960f8f0f81cbf7bf5c7096eaa61aa5.jpg)  
+图2同伴对青少年饮食失调的间接影响
+
+# 2.2.1身体意象失调
+
+身体意象(body image)是指个体形成的对自己身体的心理图画，包括对身体生理心理功能的认知、态度(如情感、评价)以及对行为的影响(陈红,2006)。
+
+身体意象失调(body image disturbance,BID)，又称负面身体自我(negative physical self,NPS)，是个体对身体的消极认知、消极情感体验和相应的行为调控(陈红，2006)。消极的身体意象表现为过度地关注身体、身体不满意、低自尊、消极情绪以及饮食失调等(陈红等,2007;Carlson, 2004)。
+
+# 2.2.2身体意象失调的中介作用
+
+有关饮食失调的研究表明，身体不满意是引起饮食失调的重要原因(王玉慧，吕振勇，陈红,吴双双，肖子伦，2016; Jacobi,Hayward,deZwaan,Kraemer,& Agras,2004； Stice,2002;Woelders et al.,2010)，由身体不满意引起的饮食失调在女性中十分普遍(羊晓莹，陈红,2006;Gerbasi etal.,2014; Taylor etal.,2006)。近年来，男性身体意象失调开始引起学者的关注，相关研究逐渐增多。研究发现，在西方社会中，男性身体不满意变得越来越普遍(Adams,Turner,& Bucks,2005;Webb& Zimmer,2014)，不同于女性对苗条身材的追求，男性对于身体的关注点主要是肌肉感和身高(施启琰，寇慧，陈红,2017)。
+
+关于同伴-身体意象失调(身体不满意)-饮食失调这一路径,Thompson 等人(1999)提出了三种影响模型(the tripartite influence model)，用于解释女性身体不满意和饮食失调，同时该模型也被应用于男性群体(Karazsia& Crowther,2009;Rodgers,Ganchou,Franko,& Chabrol,2012)和非西方样本（Jackson&Chen,2010)。该模型假设：社会文化因素，即媒体、家庭、同伴是身体不满意和饮食失调的三个最初影响源；外貌比较(appearance comparison)和瘦理想内化(internalization of thin ideal)是社会文化因素和身体满意度之间的中介变量。外貌比较是指个体通过与他人进行比较，以获得对自己身体外貌评价的过程。而同伴为青少年进行外貌比较提供了对象。Myers 和Crowther（2009）针对社会比较的元分析表明：经常性的社会比较能够正向预测身体满意，相比男性和成人，女性和青少年更容易发生身体不满意。瘦理想内化是指女性将媒体中所呈现的模特的苗条身材内化为标准，以此来评价自己的体型，并力求达到那样的身材（唐锐，陈红，鲁小芳，2006；Fong-Ching，Ching-Mei，Ping-Hung,Chiung-Hui，Yun-Chieh，& Tzu-Fu)，而朝夕相处的同伴无疑是比较的最佳对象。如Jackson和 Chen（2008a,2008b）针对非西方样本为期9、18个月的两项追踪研究显示：在9个月的时候，感知到的社会压力正向预测了青少年的身体不满意，但在18个月时效果却不明显，而瘦身理想的内化却有了显著的正向预测作用。造成这种情况的原因可能是感知到的社会压力是暂时的、短期的、不稳定的。而瘦理想内化带来的“深入人心”的效应可能是长期的、稳定的。此外，另有研究证明，消极情绪是身体不满意和饮食失调之间的中介变量(Schulte &Thomas,2013)，支持这一路径的为情绪调控模型(effect regulation model)(Mecarthy,1990)，一方面，由身体不满意所引发的低自尊会唤醒青少年的节食行为，以实现不切实际的瘦身理想。另一方面，贪食和补偿性行为有助于调节苦恼、恐惧、愤怒消极情绪。Jackson 和Chen(2014)对影响青少年饮食失调风险因素的纵向研究中也发现了类似的结果，即消极情绪会正向预测饮食失调的发生，诸如节食、暴食和补偿行为可能是用于分散情绪困扰或提供情绪释放的一种手段。同时，消极情绪的中介作用可能解释了部分而非全部的身体不满意个体会经历饮食失调（Jackson& Chen,2011）。
+
+# 2.3同伴质量对青少年饮食失调的影响
+
+对于同伴如何影响青少年饮食失调，存在着两条可能的路径，第一，同伴间的互动的影响，即前文所提及的同伴对青少年饮食失调的直接影响、间接影响。大量的相关研究、纵向研究对其提供了支持。第二，同伴的社会支持的影响，即同伴的质量和数量对青少年饮食失调的影响。研究发现：较差的同伴质量也是同伴影响的一种特殊表现形式，同时，消极的同伴质量又会抑制同伴选择的特定功能，如亲密关系、同伴依赖、同伴互助等(Sharpe,Schober,Treasure,& Schmidt,2014)。仅有少量的研究考察了路径二，结果也不尽相同。如Germer 和Wilson(2005)发现低同伴质量与身体意象关注显著相关，但与身体不满意和限制性饮食无关。Schutz 和Paxton(2007)则发现低同伴质量与身体不满意、限制性饮食、极度的体重控制行为和暴食行为有关，但当抑郁被考虑进来时，这些联系的强度被降低了，基本达到了无意义的程度。Sharpe,Schober,Treasure 和 Schmidt (2014)发现友谊的消极、特殊方面与身体不满意和饮食失调有关。即与朋友交往存在更多困难的(包括更多的冲突和感觉到与朋友疏远)女孩报告更多的身体不满意和饮食失调。此外，他们还发现这种联系与抑郁有关，但不确定其是否为调节变量，且未确定因果关系，即是“抑郁导致身体不满意、饮食失调”还是“身体不满意、饮食失调导致抑郁”。一项追踪研究也得到了类似的结果,Helfert和Warschburger (2011)发现社会排斥、消极的社会关系能够预测一年后男孩的身体不满意情况，但这种效应在女孩中并未发现。总的来说，要更好地对青少年的饮食问题进行干预，有效地解决同伴关系中消极的同伴质量及社交焦虑是至关重要的(Schutz&Paxton,2007)。
+
+# 3同伴对青少年饮食失调影响的作用机制
+
+关于同伴对青少年饮食失调影响的作用机制，以往的研究结果存在较大的争议，主要包括三个方向的研究结果。第一，青少年饮食失调行为的同伴影响效应显著，而同伴选择效应不显著。如Crandall(1988)发现年轻女性的贪食水平会随着时间的推移，与亲密的朋友愈发相似，他认为这样的结果主要来自于社会化过程而不是选择过程。在此基础上，Paxton 等人（1991）发现青春期女孩在身体意象问题和节食上会变的相似，其结果主要源于同伴影响而非同伴选择效应。此外，另一项研究也发现，青春期女孩把节食看成一种集体活动，为了满足群体归属感，同伴团体成员都从事节食以避免“与众不同”，这来源于同伴影响作用，而不是同伴选择作用（Carey,Donaghue,& Broderick,2011)。第二，青少年饮食失调行为的同伴选择效应显著，而同伴影响效应不显著。如 Meyer 和 Waller(2001)发现，随时间的推移，节食和身体不满意度逐渐变的相似，而贪食行为并没有变的相似，社会化作用不显著。Rayner等人(2013)也发现在同时检验选择和社会化过程时，选择作用可以更好的解释女性在身体不满意、节食和贪食的相似性，而非影响作用。此外，另一项对651名青少年饮食失调的研究中也发现：青春期女孩的同伴团体在身体不满意和饮食失调行为上往往相似，这不是同伴影响的作用，而是同伴选择作用造成的（Kirsch,Shapiro,Conley,& Heinrichs,2016)。第三，青少年饮食失调行为的同伴选择和同伴影响效应都显著。如Hutchinson 和Rapee（2007）发现青春期女性友谊团体内的成员在节食和暴饮暴食上具有相似性，同时同伴的饮食态度和行为又会影响到个体从事相似或相同的行为。相似的是，Zalta 和Keel (2006)发现贪食倾向于受社会化影响，但此研究结果仅适用于那些有相似特征(自尊、完美主义和冲动)的同伴之间，而这种特征又恰好是影响饮食失调的重要因素，即同伴选择和同伴影响过程并非对立存在，而是共存共生的关系。
+
+# 3.1“同伴选择”的作用机制
+
+“同伴选择”也称为“同类趋近”、“选择过程”。即在人格特征、心理状况、外貌身体、职业等方面相似的人更容易相互选择，成为朋友，这可能进一步强化了心理和行为属性上的相似性，即所谓“物以类聚，人以群分” (张镇，郭博达,2016)。该过程是导致友谊关系形成和维持的关键(Hallinan & Williams，1989；Hamm，2000；McPherson，Smithlovin，&Cook,2001)。简而言之，青少年会倾向于选择与自己态度、行为相似的个体成为同伴。
+
+关于同伴选择效应的理论解释主要有 Byrme 和 Nelson(1965)提出的相似性吸引理论(similarityattraction theory)。相似性吸引理论认为个体倾向选择与自己在态度、行为等方面相似的人群建立友谊，即因为相似性而产生了人际关系的吸引。不仅在性别、种族、社会经济地位等人口学特征会出现相似性吸引(McPherson,Smithlovin,&Cook,2001)，而且在人格特质、态度以及问题行为等多个领域也会出现相似性吸引(Jeon&Goodson,2015;Montoya &Horton,2012)。根据该理论，青少年倾向于选择那些与自身身体不满意和饮食失调方面相似或相同的人做朋友(Woelders et al.,2010)。
+
+# 3.2“同伴影响”的作用机制
+
+“同伴影响”也称为“诱导”、“影响过程”，即“近朱者赤，近墨者黑”，指一个人在某种状态下的认知、表情、姿态、动作会感染周围的人，进而通过近距离的人际关系(如家人和亲密朋友)影响远距离的人际关系(如同伴的同伴或朋友的朋友) (张镇，郭博达，2016)。在青少年同伴交往中，这种“影响过程”的作用体现在行为和心理特征的彼此同化(assimilation)(Veenstra,Dijkstra,Steglich,&Van,2013)。简而言之，在同伴关系存在的前提下,同伴之间的相互影响会使得青少年彼此愈加相似。
+
+关于同伴影响效应的理论解释主要有社会学习理论、社会比较理论、社会文化理论等。社会学习理论(social learming theory)的核心是模仿学习，并强调普遍性和诱因对模仿的重要性。在同伴交往的社会背景下，个体通过建模、奖励和惩罚，以及替代强化(通过观察学习)等能够改变行为。媒体中普遍存在的完美身材的模特，以及由完美身材所带来的好处或同伴因理想身材而在人际关系中受欢迎程度高，是诱发模仿学习的主要原因。社会比较理论(social comparison)强调个体通过将自己的能力、观点与他人进行比较，获得稳定的自我评价，如果比较对象与自我具有许多相似之处，这种效应就会尤为显著。个体与媒体模特、同伴的外貌比较引起瘦身理想的内化，进而导致身体不满意、饮食失调。社会文化理论(socioculturaltheory)强调社会文化因素在人类认知功能的发展中发挥着核心作用，研究社会文化价值观如何影响个人的价值观和行为。基于社会文化理论，Thompson 等(1999)进行理论拓展，提出了三重影响模型(the tripartite influence model)，如前所述，该模型专门用于解释男性、女性身体不满意和饮食失调，得到了诸多研究的支持(Keery etal.,2004; Shroff& Thompson,2006)。
+
+以往关于青少年饮食失调行为的同伴选择效应和同伴影响效应的研究结果出现较大的差异可能与被试样本的社会文化差异、受教育程度、性别等人口学因素有关，也可能是在测量工具、饮食失调行为类型、无关变量控制上的选择不同而导致的。未来的研究应选择更为合适的研究方法，以更好地分离出选择和影响作用。
+
+# 4研究展望及启示
+
+综上所述，同伴通过选择或影响作用对青少年的饮食失调存在着直接、间接的影响，在相关研究和追踪研究中都取得许多有价值的成果，但在其研究内容上，仍存在一些有待完善和探讨的方面：
+
+第一，同伴影响长期效应有待研究。以往的研究考察了感知到的同伴行为、谈论行为以及同伴质量对青少年饮食失调的影响。但随时间的推移，同伴的饮食失调是否会直接影响青少年饮食失调行为的发生？同时，相对于青春期而言，成年初期的饮食失调发展趋势如何？是增强或是减弱？此外，本研究系统地总结了“同伴对青少年饮食失调的消极影响”，同伴是否存在积极的作用呢？如同伴的健康饮食态度能否通过影响效应来改变青少年个体的饮食问题？以及积极的同伴关系能否改善个体的饮食失调行为？另外，在对非西方样本的研究中，增加追踪次数后，与西方的研究结果是否一致？这些仍有待探讨和进一步研究，未来研究可采用纵向研究范式或增加追踪次数来讨论同伴影响的长期效应。
+
+第二，同伴属性划分有待深化。首先，以往研究关于同伴数量对青少年饮食失调的影响研究相对较少(Sharpe,Schober,Treasure,& Schmidt,2014)，未来研究应增加对这一方面的探讨。其次，尽管以往研究已经明确同伴质量与青少年的饮食失调存在相关，但这种相关的时间前后和因果关系仍不明确(Dejonget al.,2013)，即是同伴质量差而导致的饮食失调、身体不满意，还是饮食失调、身体不满意引发社交退缩进而导致了较差的同伴质量？仍有待探讨，未来研究可进一步考察其因果关系。再次，同伴对青少年饮食失调的影响是贯穿于整个青春期还是在某个特定时期起作用（Jackson&Chen,2014)，未来可深化研究。最后，以往研究对同伴的界定是泛化的，没有区分好朋友和一般朋友。未来的研究可对同伴类别做进一步的划分。
+
+第三，影响路径作用大小有待探讨。目前关于同伴影响青少年饮食失调的路径有两条：（1）同伴的社会互动路线，即前面所述，同伴的直接、间接影响；（2）同伴的社会支持路线，即前面所述，同伴的质量、数量的影响。那么，这两条路径，哪一路径对青少年饮食失调的作用更大呢？未来可增加这一方面的研究。
+
+第四，同伴与饮食失调的其它社会影响因素间的交互作用有待考察。研究表明父母和媒体对青少年的身体不满意和饮食失调有重要的影响作用(Ata,Ludden,&Lally,2007;Field etal.,2001; Kirsch et al.,2016;Mccabe＆Ricciardelli,2005)，未来的研究可以关注在同伴环境下，媒体所宣扬的瘦身理想是如何在个体间传播的，以及在饮食失调上，同伴和父母是否存在着交互作用。此外，已有研究者开始关注互联网新媒体对女性身体意象失调的影响(王玉慧，谢笑春，陈红，雷雳，2017)，未来的研究可拓宽角度，将新媒体细化，如同伴在微信、微博的线上交流对青少年饮食失调的影响等。
+
+# 参考文献
+
+陈红． (2006)．青少年的身体自我:理论与实证.北京：新华出版社.   
+陈红，羊晓莹，翟理红，何玉兰，陈瑞，高笑.(2007).不同年龄段女性负面身体自我状况及相关因素．中国 心理卫生杂志,21(8),531-534.   
+施启琰，寇慧，陈红.(2017)．男性理想体型变化及其影响因素．心理科学进展,25(4),627-638.   
+唐锐，陈红，鲁小芳.(2006).女性瘦身理想的心理学阐释．中国组织工程研究,10(42),146-148.   
+王玉慧，吕振勇，陈红，吴双双，肖子伦.(2016).男性身体意象失调:大众媒体的影响及作用机制．心理科学 进展,24(2),282-292.   
+王玉慧，谢笑春，陈红，雷雳.(2017).女性身体意象失调:社交网站的影响及作用机制．中国临床心理学杂 志,25(6),1079-1082.   
+吴双双，吕振勇，陈红，王玉慧，肖子伦.(2016)．肥胖谈论:心理学视角下的沟通方式．心理科学进展, 24(1), 111-119.   
+羊晓莹，陈红.(2006)．饮食失调的相关影响因素分析．中国组织工程研究,10(10),152-154.   
+张镇，郭博达.(2016).社会网络视角下的同伴关系与心理健康．心理科学进展,24(4),591-602.   
+Adams,G.,Turmer,H.,& Bucks,R.(2Oo5).The experience of body dissatisfaction in men.Body Image,2(3), 271-283.   
+Alison E.Field,Dr,Kristin M. Javaras,Dr,Ms Parul Aneja,Ms Nicole Kitos,Dr Carlos A. Camargo,Jr, Dr C. Barr Taylor, Dr Nan M.Laird. (2O08). Family, per, and media predictors of becoming eating disordered. Jama Pediatrics,162(6),574-579.   
+Ata,R.N.,Ludden,A.B.,& Lally,M.M. (2O07). The effects of gender and family,friend,and media influences on eating behaviors and body image during adolescence. Journal of Youth & Adolescence, 36(8),1024-1037.   
+Bearman,S.K.,resnell,K.,Martinez,E.,&Stice,E.(2O6).The skinnyonbodydissatisfaction:alongitudinal study of adolescent girls and boys. Journal of Youth & Adolescence,35(2),217-229.   
+Berkman, N. D., Lohr, K. N.,& Bulik, C.M. (2010). Outcomes of eating disorders: a systematic review of the literature. International Journal of Eating Disorders, 40(4),293-309.   
+BlodgettSalafia,E.H.,& Gondoli,D.M. (20l). A 4-year longitudinal investigation of the processesby which parents and peers influence the development of early adolescent girls' bulimic symptoms. Journal of Early Adolescence,31(3),390-414.   
+Boyce,W.F.,Davies,D., Gallupe,O.,& Shelley,D.(2Oo8).Adolescent risk taking, neighborhood social capital, and health.Journal of Adolescent Health Offcial Publication of the Society for Adolescent Medicine,43(3), 246-252.   
+Byrne,D.,& Nelson,D.(1965).Atraction as a linear function of proportion of positive reinforcements.Journal of Personality & Social Psychology,1(6), 659-663.   
+Carey,R.N.,Donaghue,N.,& Broderick,P.(2011).‘what you look likeis such abig factor': girls'own reflections about the appearance culture in an all-girls’school.Feminism &Psychology An International Journal,21(3), 299-316.   
+Carlson,J. D.(2O04).Body image among adolescent girls and boys: a longitudinal study.Developmental Psychology, 40(5), 823-835.   
+Compeau,A.,& Ambwani,S.(2O13).The efects of fat talk on body dissatisfaction and eating behavior: the moderating role of dietary restraint. Body Image, 10(4), 451-461.   
+Crandall,C.S.(1988). Social contagion of binge eating. Journal of Personality and Social Psychology, 55(4), 588-598.   
+Dejong,H.,Eynde,F.V.D.,Broadbent,H.,M.D. Kenyon,Lavender,A.,& Startup,H.,et al.(2013).Social cognition in bulimia nervosa: a systematic review. European Psychiatry, 28(1),1-6.   
+Eisenberg，M.E.，& Neumarksztainer,D. (2O10). Friends’ dieting and disordered eating behaviors among adolescents five years later: findings from project eat. Journal of Youth & Adolescence, 47(1), 67-73.   
+Ferguson, C.J., Munoz, M. E., Garza,A.,& Galindo, M. (2014). Concurrent and prospective analyses of peer, television and social media influences on body dissatisfaction,eating disorder symptoms and life satisfaction in adolescent girls. Journal of Youth & Adolescence, 43(1),1-14.   
+Field,A.E.,Jr,C.C.,Taylor, C.B.,Berkey,C.S.,Roberts,S.B.,& Colditz,G.A.(2O1).Peer,parent,and media influences on the development of weight concerns and frequent dieting among preadolescent and adolescent girls and boys. Pediatrics,107(1),54-63.   
+Fong-Ching,C., Ching-Mei,L.,Ping-Hung,C.,Chiung-Hui, C., Yun-Chieh,P.,& Tzu-Fu,H.(2013). Association of thin-ideal media exposure, body disstisfaction and disordered eating behaviors among adolescents in taiwan. Eating Behaviors,14(3),382-385.   
+Gerbasi,M.E.,Richards,L.K.,Thomas,J.J.,Agnewblais,J.C.,Thompsonbrenner,H.,& Gilman,S.E,etal. (2014).Globalization and eating disorder risk: peer influence,perceived social norms,and adolescent disordered eating in fiji. International Journal of Eating Disorders, 47(7),727-737.   
+Gerner,B.,& Wilson,P.H. (2O05).The relationship between friendship factors and adolescent girls'body image concern,body dissatisfaction,and restrained eating. International Journal of Eating Disorders,37(4),313- 320.   
+Hallinan，M.T.，& Williams，R.A.(1989).Interracial friendship choice in secondary schools.American Sociological Review, $5 4 ( 1 ) , 6 7 - 7 8$ ：   
+Hamm,J.V.(2Ooo).Do birdsofa feather flock together?the variable bases for african american,asian american, and european american adolescents'selection of similar friends.Developmental Psychology,36(2),209-219.   
+Helfert, S., & Warschburger, P. (2O11). A prospective study on the impact of peer and parental pressure on body dissatisfaction in adolescent girls and boys. Body Image, 8(2),101-109.   
+Hutchinson, D.M.,& Rapee,R. M. (2007). Do friends share similar body image and eating problems? the role of social networks and peer influences in early adolescence. Behaviour Research & Therapy, 45(7),1557-1577.   
+Hutchinson,D.M.,Rapee,R.M.,& Taylor,A. (2O1O).Body dissatisfaction and eating disturbances in early adolescence: a structural modeling investigation examining negative afect and peer factors. Journal of Early Adolescence, 30(4), 489-517.   
+Jackson,T.,& Chen, H. (2008a). Predicting changes in eating disorder symptoms among adolescents in china: an 18-month prospective study. Journal of Clinical Child & Adolescent Psychology, 37(4),874-885.   
+Jackson,T.,& Chen, H. (2008b). Predicting changes in eating disorder symptoms among chinese adolescents: a 9-month prospective study. Journal of Psychosomatic Research, 64(1), 87-95.   
+Jackson，T.，& Chen，H. (2Ol0). Sociocultural experiences of bulimic and non-bulimic adolescents in a school-based chinese sample.Journal of Abnormal Child Psychology, 38(1),69-76.   
+Jackson,T.，& Chen，H. (2O11).Risk factors for disordered eating during early and middle adolescence: prospective evidence from mainland chinese boys and girls. Journal of Abnormal Psychology, 120(2), 454- 464.   
+Jackson,T.,& Chen, H. (2O14). Risk factors for disordered eating during early and middle adolescence: a two year longitudinal study of mainland chinese boys and girls.Journal of Abnormal Child Psychology,42(5),791- 802.   
+Jacobi,C.,Hayward, C.,De,Z. M.,Kraemer,H.C.,& Agras,W.S. (2004).Coming to terms with risk factors for eating disorders: application of risk terminology and suggestions for a general taxonomy. Psychological Bulletin,130(1),19-65.   
+Jeon, K. C.,& Goodson, P. (2015). Us adolescents’ friendship networksand health risk behaviors: a systematic review of studies using social network analysis and add health data. Peerj, 3(1), e1052.   
+Jones,D.C., Vigfusdotir, T. H.,& Lee, Y. (2O04). Body image and the appearance culture among adolescent girls and boys: an examination of friend conversations， peer criticism， appearance magazines， and the internalization of appearance ideals. Journal of Adolescent Research,19(3), 323-339.   
+Juan Manuel Mancilla-Diaz,Xochitl López-Aguilar, Karina Franco-Paredes, Georgina Alvarez-Rayon,& Adriana Amaya-Hernandez. (2012). Role of peer influence and thin-ideal internalization on body dissatisfaction and disordered eating in mexican girls. Revista Colombiana De Psicologia,21(2),343-353.   
+Jung,J.,Forbes,G.B.,&Lee,Y.J. (2Oo9). Body disstisfaction and disordered eating among early adolescents from korea and the us. Sex Roles, 61(1-2),42-54.   
+Karazsia,B.T.，& Crowther,J.H.(2Oo9). Social bodycomparison and internalization:mediators of social influences on men's muscularity-oriented body dissatisfaction. Body Image, 6(2),105-112.   
+Keery,H., Van,d.B.P.,& Thompson,J.K. (2O04).An evaluation of the tripartite influence model of body dissatisfaction and eating disturbance with adolescent girls. Body Image,1(3),237-251.   
+Kirsch, A. C., Shapiro,J. B., Conley, C.S.,& Heinrichs,G. (2016). Explaining the pathway from familial and peer social support to disordered eating: is body dissatisfaction the link for male and female adolescents?. Eating Behaviors,22,175-181.   
+Mccabe,M.P.,& Ricciardeli,L. A. (2005). A prospective study of pressures from parents,peers,and the media on extreme weight change behaviors among adolescent boys and girls. Behaviour Research & Therapy, 43(5), 653-668.   
+Mccarthy, M. (199o). The thin ideal,depression and eating disorders in women. Behaviour Research & Therapy, 28(3), 205-214.   
+Mcpherson,M.,Smithlovin,L.,& Cook,J.M. (2Ool). Birds of a feather: homophily in social networks.Annual Review of Sociology, 27(1),415-444.   
+Menzel,J.E.,Schaefer,L.M.,Burke,N.L.，Mayhew,L.L.，Brannick,M.T.,& Thompson,J.K.(2010). Appearance-related teasing, body dissatisfaction,and disordered eating: a meta-analysis.Body Image,7(4), 261-270.   
+Meyer, C.,& Waller, G. (2O01). Social convergence of disturbed eating atitudes in young adult women. Journal of Nervous & Mental Disease,189(2),114-119.   
+Montoya，R. M.，& Horton，R. S. (2Ol2).A meta-analytic investigation of the processes underlying the similarity-atraction effect. Journal of Social & Personal Relationships,30(1), 64-94.   
+Mooney,E.,Farley,H.,& Strugnell, C. (2O09).Aqualitative investigation into the opinions of adolescent females regarding their body image concerns and dieting practices in the republic of ireland (roi). Appetite, 52(2), 485-491.   
+Myers,T. A.,& Crowther, J. H. (20o9). Social comparison as a predictor of body dissatisfaction: a meta-analytic review. Journal of Abnormal Psychology,118(4), 683-698.   
+Neumark-Sztainer,D., Wall,M.,Larson,N.I.,Eisenberg,M.E.,&Loth, K. (2O1). Dieting and disorderedeating behaviors from adolescence to young adulthood: findings from a 10-year longitudinal study. Journal of the American Dietetic Association, 1ll(7),1004-1011.   
+Nichter，M.，& Vuckovic,N. (1994). Fat talk: Body imageamong adolescent girls.In N. Sault (Ed.)，Many mirrors(pp. 109-131). New Brunswick, NJ: Rutgers University Press   
+Paxton,S.J.,Eisenberg,M.E.,& Neumark-Sztainer,D.(20o6).Prospective predictorsof body dissatisfaction in adolescent girls and boys: a five-year,longitudinal study. Developmental Psychology, 42(5),888-899.   
+Paxton,S.J., Schutz,H. K., Wertheim,E.H.,& Muir,S.L. (1999).Friendship clique and peer influences on body image concerns,dietary restraint,extreme weight-loss behaviors,and binge eating in adolescent girls.Journal of Abnormal Psychology, 108(2),255-266.   
+Paxton,S.J.，Wertheim,E.H., Gibbons,K.,Szmukler,G.I.,Hilier,L.,& Petrovich,J.L.(1991). Body image satisfaction,dieting beliefs,and weight loss behaviors in adolescent girls and boys.Journal of Youth & Adolescence,20(3),361-379.   
+Rayner,K.E., Schniering,C.A.,Rapee,R. M.,& Hutchinson, D.M.(2013). A longitudinal investigation of perceived friend influence on adolescent girls' body dissatisfaction and disordered eating. Journal of Clinical Child & Adolescent Psychology, 42(5), 643-656.   
+Rayner,K.E.，Schniering, C.A.，Rapee,R.M.， Taylor, A.，& Hutchinson,D.M. (2013).Adolescent girls' friendship networks，body dissatisfaction，and disordered eating:examining selection and socialization processes.Journal of Abnormal Psychology, 122(1), 93-104.   
+Rodgers,R.F., Ganchou, C.,Franko,D.L.,& Chabrol, H.(2O12).Drive for muscularity and disordered eating among french adolescent boys: a sociocultural model. Body Image, 9(3), 318-323.   
+Schulte,S.J.,& Thomas,J.(2O13).Relationship between eating pathology,body dissatisfaction and depressive symptoms among male and female adolescents in the united arab emirates. Eating Behaviors,14(2),157-160.   
+Schutz,H. K.，& Paxton, S.J. (20o7).Friendship quality, body disstisfaction, dieting and disordered eating in adolescent girls. British Journal of Clinical Psychology, 46(1), 67-83.   
+Sharpe,H.， Schober,I，Treasure,J.，& Schmidt, U.(2O14).The role of high-quality friendships in female adolescents' eating pathology and body dissatisfaction. Eating and Weight Disorders - Studies on Anorexia, Bulimia and Obesity, 19(2),159-168.   
+ShroffH.,& Thompson, J. K. (2O06).The tripartite influence model of body image and eating disturbance: a replication with adolescent girls. Body Image,3(1),17-23.   
+Spear,L.P. (2Oo).The adolescent brain and age-related behavioral manifestations.Neuroscience & Biobehavioral Reviews, 24(4),417-463.   
+Steinberg，L.，& Monahan，K.C. (2007). Age diferences in resistance to peer influence. Developmental Psychology, 43(6),1531-1543.   
+Stice,E. (2OO2).Risk and maintenance factors for eating pathology: a meta-analytic review.Psychological Buletin, 128(5), 825-848.   
+Taylor,C.B.,Bryson,S.,Luce,K.H., Cunning,D., Celio,A.,& Abascal,L.B.,et al. (2O06).Preventionof eating disorders in at-risk college-age women. Archives of General Psychiatry, 63(8),881-888.   
+Taylor,C.B.,Sharpe,T.,Shissak,C.,Bryson,S.,Estes,L.S.,& Gray,N.,et al.(1998).Factors associated with weight concerns in adolescent girls. International Journal of Eating Disorders, 24(1),31-42.   
+Thompson,J.K., Heinberg,L. J.,Altabe,M. N.,&Tantlef-Dunn,S. (1999).Exacting beauty: Theory,assessment, and treatment of body image disturbance.Washington, DC: American Psychological Association.   
+Vander Wal, J.S.,& Thelen, M.H. (20o). Predictors of body image disatisfaction in elementary-age school girls. Eating Behaviors,1(2),105-122.   
+Veenstra,R.,Dijkstra,J. K.,Steglich,C.,& Van Zalk,M. H. W. (2013).Network-behavior dynamics.Journalof Flood Risk Management,23(3),399-412.   
+Webb,H.J.,& Zimmer-Gembeck,M.J. (2014).The role of friends and peers in adolescent body dissatisfaction: a review and critique of 15years of research. Journal of Research on Adolescence,24(4),564-590.   
+Woelders,L. C.,Larsen,J.K. Scholte,R.H., Cilessen，A.H.，& Engels，R.C.(2010).Friendship group influences on body dissatisfaction and dieting among adolescent girls: a prospective study. Journal of Adolescent Health, 47(5), 456-462.
+
+Zalta,A. K.,& Keel, P.K.(2006).Per influenceon bulimic symptoms incollege students. Journal of Abnormal Psychology, 115(1),185-189.
+
+# Eating disorders among adolescents: The form and mechanism of
+
+peerInfluence
+
+ZHANG Tianyu; ZHANG Xiangkui (School of Psychology, Northeast Normal University, Changchun 130024, China)
+
+Abstract : Peer influence is considered to be an important influential factor to eating disorders which are common among adolescents. Identifying the mechanism of adolescents’ eating disorders has great significance for the prevention and intervention. Peer influence which manifest as the mediating effects of the perceived peer behaviors,the actual peer behaviors and the body dissatisfaction，and as the peer quality has a negative impact on adolescents’ eating disorders. Researchers have explored and interpreted the mechanism of peer influence on adolescents’ eating disorders directly and indirectly. They should deepen the research content, such as increasing the studies on the long-term effects of peer influence,the division of peer attributes,the effect size of peer influence pathways,and the interactions between peer influence and other social factors of eating disorders in the future.
+
+Key words: eating disorders; adolescents; peer influence

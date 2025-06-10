@@ -1,0 +1,173 @@
+# 海人树的生态生物学特性
+
+周婉敏12，林若宜1,3，刘楠1，任海1，徐贝贝1,2，简曙光1\*学院海岛与海岸带生态修复工程实验室，中国科学院华南植物园，广州510650；2．仲恺农业工程学院，广州 510225；3．中国科学院大学，北京 100049)
+
+摘要：海人树（Suriana maritima）是海人树科的一种滨海观赏植物，在中国目前仅分布于南海诸岛。该文以西沙群岛自然生长的海人树为研究对象，通过调查、采样，分析测定其茎杆及其叶片的形态解剖结构、叶片的抗氧化酶活性和抗逆渗透物质含量，以及叶片与生长土壤的营养元素含量等生态生物学特性，旨在为其保护及开发利用提供理论依据。结果表明：海人树的叶片小而厚，角质层明显，栅栏组织发达，气孔密度小（ $8 . 6 4 ~ \mathrm { n } { \cdot } \mathrm { m m } ^ { - 2 }$ ），易于维持体内水分，能很好适应干旱和高盐碱的环境；叶片的叶绿素含量低（ $\cdot 0 . 7 6 \mathrm { m g } \cdot \mathrm { g } ^ { - 1 }$ ），总抗氧化能力高（ $5 8 9 . 5 0 \mathrm { U \cdot g ^ { - 1 } }$ ），脯氨酸含量高（ $( 1 1 2 3 . 6 4 \mu \mathrm { g } \cdot \mathrm { g } ^ { - 1 } )$ ，表明海人树光合利用效率高，抗氧化能力强。海人树根际土壤的养分含量低，但叶片有机碳、氮和磷含量较高（分别为490.27、18.10 和 $3 . 8 1 ~ \mathrm { g \cdot k g ^ { - 1 } ) }$ ，表明海人树的土壤养分利用效率高，对贫瘠的土壤具有良好的适应能力。因此，海人树对强光、干旱、高盐碱和土壤贫瘠的热带珊瑚岛环境具有良好的适应能力，可作为热带珊瑚岛植被恢复和园林绿化的工具种。
+
+关键词：海人树，形态解剖结构，生态生物学特性，热带珊瑚岛中图分类号：Q948 文献标识码：A 文章编号：
+
+# Ecological and biological characteristics of Suriana maritima L.
+
+ZHOU Wanmin1,2,LIN Ruoyi1.3, LIU Nan1,REN Hai1, XU Beibei1,2, JIAN Shuguang1\* (1. Engineering Laboratory for Vegetation Ecosystem Restoration on Islands and Coastal Zones, South China Botanical Garden, Chinese Academy of Sciences, Guangzhou 510650, China; 2. Zhongkai University of Agriculture and Engineering, Guangzhou 510225, China; 3. University of Chinese Academy of Sciences, Beijing 100049, China)
+
+Abstract: Suriana maritima (Surianaceae) is a coastal ornamental plant species distributing only on the South China Sea Islands in China,at present. In order to understand the ecological and biological characteristics of S. maritima,and provide a theoretical basis for its protection, development and utilization, we investigated the morphological and anatomical structure of stem and leaf,the antioxidant enzyme activity and osmotic adjustments contents in leaf of S.maritima,and nutrient element contents in leaf and the soil $S$ ，maritima growing on the Paracel Islands,by field investigation and sampling for analysis.The results showed that S. maritima have small and thick leaf, well-developed palisade tissue, and low stomatal density $( 8 . 6 4 ~ \mathrm { n } \cdot \mathrm { m m } ^ { - 2 } )$ ),which make it easy to maintain water in the body and suitable for drought and high saline-alkali environment. The chlorophyll content $( 0 . 7 6 ~ \mathrm { m g \cdot g ^ { - 1 } } )$ of the leaf was low, the total antioxidant capacity $( 5 8 9 . 5 0 ~ \mathrm { U } { \cdot } \mathbf { g } ^ { - 1 } )$ and proline content （ $1 1 2 3 . 6 4 \ \mu \mathrm { g } \cdot \mathrm { g } ^ { - 1 } )$ were high, indicating that $S$ . maritima had high photosynthetic utilization efficiency and strong antioxidant capacity. Though the nutrient in natural growing soil was poor, the contents of organic carbon, nitrogen and phosphorus in leaf of S. maritima were relatively high (490.27,18.10,and $3 . 8 1 ~ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ ，respectively), indicating a high nutrient utilization efficiency and good adaptability of $S$ maritima to poor soil. Therefore, S.maritima had a good adaptability to the environment of strong radiation, drought, high saline-alkali and poor soil on tropical coral islands,and could be used as a tool species for revegetation and landscaping on tropical coral islands.
+
+Key words: Suriana maritima,anatomical structure, ecological and biological characteristics, tropical coral islands
+
+海人树（Suriana maritima）又名滨樗，为海人树科（Surianaceae）海人树属（Suriana）的常绿灌木或小乔木，分枝密；叶线状匙形具短柄，常聚生在小枝的顶部，稍带肉质，叶脉不明显;聚伞花序腋生，花瓣覆瓦状排列，黄色；果近球形（Peng＆Thomas,2013）。海人树曾被归为商陆科和苦木科，在Flora ofChina（Peng＆Thomas,2013）和APGIV分类系统中，海人树被归为海人树科，与豆科（Leguminosae）、远志科（Ploygalaceae）和皂皮树科（Quilajaceae）共同组成豆目。
+
+海人树分布于印度、印度尼西亚、菲律宾和太平洋岛屿，常生长在海滨沙地或石缝中，根系深，抗逆性和适应性较强，且具有固定沙丘、减缓海岸侵蚀的作用。海人树树形优美，叶形奇特，花色淡雅，观赏价值高，是我国热带海岛园林绿化的理想植物物种。因此，海人树具有较高的开发价值。然而，海人树在中国目前仅分布于南海诸岛，种群和数量均很少，亟需保护和种群恢复（Chen et al.,2016）。
+
+中国南海诸岛包括东沙、西沙、中沙和南沙群岛，有着独特的自然环境和丰富的资源。南海诸岛均为热带珊瑚岛，具有土壤粗砂粒多、高盐、强碱、高温、强光、贫瘠、干旱和多台风等恶劣环境条件，形成了适应当地气候环境的热带珊瑚岛植被，主要建群种有白避霜花（Pissoniagrandis）、海岸桐（Guettarda speciosa）、红厚壳（Calophyllum inophyllum）等乔木，草海桐（Scaevolataccada）、银毛树（Messerschmidia argentea）、海人树等灌木，厚藤（Ipomoea pes-caprae）、海刀豆（Canavalia rosea）、细穗草（Lepturus repens）和蒭雷草（Thuarea involuta）等藤草植物（龚子同等，2013；任海等，2017）。这些植物是热带珊瑚岛生态系统的重要组成部分，在海岛生态稳定中发挥重要作用，其对环境变化的响应和适应策略的研究有助于热带珊瑚岛的植被恢复和保护。南海诸岛中，西沙群岛自然岛屿最多，植被最好。海人树在西沙群岛分布于东岛、永兴岛、广金岛、赵述岛等少数岛屿。
+
+以往对海滨木巴戟（Morinda citrifolia）、草海桐和红厚壳等西沙群岛常见植物的生态生物学特性研究发现，这些植物在形态、结构和生理生态方面形成了耐旱、耐盐碱、耐高温和耐强光等植物功能性状，如根系发达，根深且细根多，叶片小而厚，叶片比叶面积小，叶片具有较厚角质层和表皮毛、气孔下陷、栅栏组织发达、蓄水组织发达、细胞持水力强和抗氧化能力强等特性（李婕等，2016；张世柯等，2019；蔡洪月等，2020；周婉敏等，2021）。
+
+目前，国内外对海人树的研究较少，主要研究集中在分类地位（Fernando et al.,1993;Heo &Tobe,1994）、地理分布（邢福武等，1993）、化学组分（Mitchell&Geissman,1971）和种群遗传多样性及遗传结构（Chen etal.,2014,2016）等。针对海人树的生态生物特性及其对热带珊瑚岛极端环境的适应性研究目前尚未见报道，这极大地限制了海人树的保护及开发利用。本研究以我国西沙群岛野生海人树为研究对象，通过研究其形态解剖特征、生理特征和营养成分等生态生物学特性，探讨海人树对热带珊瑚岛高温、强光、盐碱和干旱等极端环境的生理生态适应性，将为海人树的保护与开发利用提供理论依据。
+
+# 1材料与方法
+
+# 1.1试验材料及采样地概况
+
+本研究的海人树（图1）均采自西沙群岛的东岛，属于热带海洋性季风气候，年平均温度约$2 6 . 5 ~ \mathrm { ^ { \circ } C }$ ，年降雨量约 $1 5 0 0 \mathrm { m m }$ ，干湿季明显，6一11月为雨季，降雨量为全年的 $87 \%$ ，12月至次年5月为旱季。旱季主要受东北季风影响，盛行东北气流，雨季主要受赤道气流和印度洋季风影响，盛行西南气流，多发台风与暴雨（林熙等，1999）。东岛土壤主要为由贝壳类残体和珊瑚所形成的磷质石灰土，呈强碱性（ $\mathrm { p H } 8 { \sim } 9 . 5 \$ ），缺乏粘粒及硅、铁、铝，富含钙和磷，全剖面均有强石灰性反应，保水性差。
+
+东岛是西沙群岛中自然植被最好的岛屿，受人类活动干扰少，植被覆盖率高，野生植物种类较多。东岛的主要植被类型为白避霜花林、海岸桐林、草海桐群落和银毛树（Tournefortia argentea)群落。海人树群落主要散生于岛屿东北面海岸边的珊瑚砂地。
+
+在东岛选取生长良好且长势一致的5株成年海人树，每株采集若干发育良好的成熟向阳叶片和枝条放入冰箱中冷藏，带回实验室后进行各项指标的测定；同时采集海人树的根际土（ $( 0 { \sim } 2 0 ~ \mathrm { c m } )$ ）约 $1 0 0 \mathrm { g }$ ，进行土壤理化性质测定。
+
+A．植株；B.花和叶；C.种子。
+
+A.Plant;B.Leaves and Flowers;C.Seeds.
+
+![](images/02b5956e67fe4ea114c66de84d06d24917d3c79e306e908e6d55503c0265864e.jpg)  
+图1海人树植株  
+Fig.1 Plants of Suriana maritima
+
+# 1.2 研究方法
+
+1.1.1形态解剖学特征
+
+以徒手切片方法制作叶片切片，在显微镜下观测叶片厚度、栅栏和海绵组织的厚度、气孔密度（SD）、气孔保卫细胞长（SL），和计算气孔面积指数（SPI）， $S P I \% = S D \ ( \mathrm { n \cdot m m ^ { - 2 } } ) \times S L ^ { 2 } \ ( \mu \mathrm { m } ^ { 2 } )$ $\times 1 0 ^ { - 4 }$ （Sack et al.,2003）。
+
+用 LI-3000叶面积仪测量叶面积（LA），称取叶片鲜重（FW），然后烘干称重（DW），计算比叶面积（SLA）和叶片干物质含量（LDMC）， $S L A = L A \left( \mathbf { c m } ^ { 2 } \right) / D W \left( \mathbf { g } \right)$ （Gower et al.,1999）,$L D M C = D W \left( { \bf g } \right) / F W \left( { \bf g } \right) ^ { * } 1 0 0 \%$ （余静，2014）。
+
+利用Leica 滑走切片机（SM2010R）获取茎杆的横切片（厚度 $3 0 { \sim } 5 0 ~ \mu \mathrm { m }$ ），放置于Leica显微成像系统（DM2500）观察并采集照片。用ImageJ软件分析导管直径和导管密度。木质部密度$\mathbf { \Sigma } = \mathbf { \Sigma }$ 干质量/鲜体积（Hacke etal.,2001）。
+
+1.1.2 生理生态学特征
+
+叶片叶绿素含量的测定采用 $80 \%$ 的丙酮浸提法，用紫外分光光度计（UV-3802，Unico）于663、 $6 4 5 \mathrm { n m }$ 处测定吸光度（李合生等，2000）。
+
+丙二醛（MDA）含量的测定采用硫代巴比妥酸法，于532、 $6 0 0 \mathrm { n m }$ 波长处测定吸光度（李合生等，2000）。
+
+叶片脯氨酸（Pro）含量的测定采用酸性芘三酮染色法，于 $5 2 0 \mathrm { n m }$ 处测定吸光度（Bates et al.,1973）。
+
+超氧化物歧化酶（SOD）活性采用氮蓝四唑法测定，以抑制NBT光化学还原的 $50 \%$ 为1个酶活性单位；过氧化物酶（POD）活性采用愈创木酚显色法测定，以每分钟内 $\mathbf { A } _ { 4 7 0 }$ 变化0.01为1个酶活性单位；过氧化氢酶（CAT）活性采用紫外分光光度法测定，酶活性以 $ { \mathrm { ~ 1 ~ m i n ~ } }$ 内每克鲜重样品催化 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 降解的毫克数表示（李合生等，2000）。
+
+总抗氧化能力（T-AOC）的测定采用FRAP法，以 $\mathrm { 1 . 0 \ m m o l { \cdot } L ^ { - 1 } \ F e S O _ { 4 } }$ 为标准，抗氧化活性以达到同样吸光度所需的 $\mathrm { F e S O _ { 4 } }$ 的毫摩尔数表示（陈玉霞等，2011）。总酚含量（Tp）的测定采用福林酚法，于 $7 6 0 \mathrm { n m }$ 处测定吸光值，总酚含量用没食子酸当量表示（Singletonetal.,1993）。
+
+# 1.1.3植物营养元素及土壤理化性质测定
+
+采用靛酚蓝比色法和钼锑抗比色法测定叶片中的氮含量和磷含量，叶片有机碳和土壤含碳量使用重铬酸钾容量法（稀释热法）测定（赵庆良和马建华，2008）。在每株海人树的野外样地内随机选取6个样点采集 $0 { \sim } 2 0 ~ \mathrm { c m }$ 的土柱，充分混合，放入密封袋中低温保存，于实验室中称重，风干，过 $2 \mathrm { m m }$ 筛，用于测量土壤理化性质。采用电位法测定土壤pH值；采用重铬酸钾氧化-外加热法测定有机碳含量；采用半微量开氏法测定全氮含量；采用硫酸-高氯酸-钼锑抗比色法测定全磷含量；铁采用邻菲啰啉光度法测定；钙、镁、钠采用火焰原子吸收分光光度法测定（刘光崧等，1996）。
+
+# 1.3数据处理
+
+数据分析和作图均采用 Excel2013 和AdobePhotoshopCC 进行。
+
+# 2结果分析
+
+# 2.1形态解剖特征
+
+海人树的形态解剖学特征如表1所示。海人树的叶片小而厚，比叶面积为（ $7 7 . 0 9 { \pm } 1 2 . 0 9 \$ ）$\mathrm { c m } ^ { 2 } { \cdot } \mathrm { g } ^ { - 1 }$ ，为典型的异面叶，具有角质层，栅栏组织发达，两层细胞排列紧密，胞间隙小（图2：A)，栅栏组织与海绵组织比值为 $2 . 0 9 { \pm } 0 . 1 0 \$ ，气孔密度小，表现出明显的阳生植物特征。海人树的茎杆木质部富含导管（图2：B）。
+
+表1海人树的形态解剖学特征  
+Table1Morphological characteristics of Suriana maritima   
+
+<html><body><table><tr><td>指标Index</td><td>数值Value</td></tr><tr><td>比叶面积 Specific leaf area (cm²·g-1)</td><td>77.09±12.09</td></tr><tr><td>叶干物质含量 Leaf dry matter content (%)</td><td>31.51±1.87</td></tr><tr><td>叶厚度 Blade thickness (μm)</td><td>460.64±14.08</td></tr><tr><td>栅栏组织厚 Thickness of palisade tissue (μm)</td><td>310.41±15.61</td></tr><tr><td>海绵组织厚 Thickness of spongy tissue (μm)</td><td>148.53±3.58</td></tr><tr><td>栅栏组织厚/海绵组织厚 Thickness of palisade tissue／spongy tissue</td><td>2.09±0.10</td></tr><tr><td>栅栏组织宽 Width of palisade tissue (μm)</td><td>10.25±1.14</td></tr><tr><td>上表皮厚 Thickness of upper epidermis (μm)</td><td>17.98±0.88</td></tr><tr><td>气孔保卫细胞长 Stomatal guard cell length (μm)</td><td>30.87±2.59</td></tr><tr><td>气孔密度 Stomatal density (n·mm-2)</td><td>8.64±1.02</td></tr></table></body></html>
+
+<html><body><table><tr><td>叶片密度Leaf density (g·cm-)</td><td>0.28±0.08</td></tr><tr><td>木材密度 Wood density (g'cm-3)</td><td>0.97±0.04</td></tr><tr><td>导管密度 Vessel density (n·mm-2)</td><td>62.87±11.21</td></tr><tr><td>导管直径 Vessel diameter (μm)</td><td>36.00±7.49</td></tr></table></body></html>
+
+A.叶片；B.茎杆。   
+A.Leaf; B. Stem.
+
+![](images/fbf97cfde2281c5052bb202bb27e850454dea56611b3eadde3e2b9c33070acdf.jpg)  
+图2海人树叶片和茎杆的解剖结构图  
+Fig.2Leaf and wood anatomical structures of Suriana maritima
+
+# 2.2生理学特征
+
+海人树叶片的生理学特征如表2所示。海人树叶片的总叶绿素含量较低，为 $0 . 7 6 { \pm } 0 . 1 0 \mathrm { m g } { \cdot } \mathrm { g } ^ { - 1 } .$ 0叶片总酚含量低，但叶片脯氨酸含量和总抗氧化能力高，丙二醛含量低，表明海人树具有良好的抗氧化胁迫能力。
+
+表2海人树叶片的生理学特征  
+Table 2Physiological characteristics in leaf of Suriana maritima   
+
+<html><body><table><tr><td>指标Index</td><td>数值Value</td></tr><tr><td>总叶绿素含量 Total chlorophyll content (mg'g-1)</td><td>0.76±0.10</td></tr><tr><td>脯氨酸含量 Proline (Pro) content (μg'g-1)</td><td>1123.64±0.74</td></tr><tr><td>丙二醛含量 Malondialdehyde (MDA) content (nmol·g-1)</td><td>20.03±0.70</td></tr><tr><td>超氧化物歧化酶活性 Superoxide dismutase (SOD) activity (U·g-1)</td><td>182.46±24.86</td></tr><tr><td>过氧化物酶活性 Peroxidase (POD)activity (U·g-1)</td><td>3.49±0.07</td></tr><tr><td>过氧化氢酶活性Catalase (CAT)activity (U·g-1)</td><td>55.89±1.37</td></tr><tr><td>总抗氧化能力 Total antioxidant capacity (T-AOC;U·g-1)</td><td>589.50±22.14</td></tr><tr><td>植物总酚含量 Total phenolic (Tp)content (mg:g-1)</td><td>17.75±0.17</td></tr></table></body></html>
+
+# 2.3叶片营养物质及土壤理化性质
+
+海人树根际土壤的理化性质结果如表3所示，土壤含水量极低，仅 $4 . 1 \%$ ; $\mathfrak { p H }$ 值为8.29，呈强碱性。土壤有机碳、氮、磷含量均较低，但钙含量高，且富含镁、铁金属元素，表明海人树适生环境的土壤为典型的珊瑚砂基质，保水能力差，呈强碱性，养分含量极低。
+
+海人树叶片的营养元素测定的结果如表4所示，叶片的有机碳、氮和磷含量远高于其生长的
+
+土壤中的碳、氮、磷含量；海人树叶片的氮磷比为4.75。
+
+Table 3Physical and chemical properties of rhizosphere soil of Suriana maritima   
+表4叶片营养元素含量  
+
+<html><body><table><tr><td>指标Index</td><td>数值Value</td></tr><tr><td>含水量Water content (%)</td><td>4.10</td></tr><tr><td>pH 值 pH Value</td><td>8.29</td></tr><tr><td>有机碳 Organic carbon (g·kg-1)</td><td>24.01</td></tr><tr><td>全氮 Total nitrogen (g:kg-1)</td><td>0.87</td></tr><tr><td>全磷 Total phosphorus (g·kg-1)</td><td>0.02</td></tr><tr><td>钙 Calcium (g:kg-1)</td><td>81.56</td></tr><tr><td>镁 Magnesium (g·kg-1)</td><td>8.93</td></tr><tr><td>钾 Potassium (mg:kg-1)</td><td>102.05</td></tr><tr><td>钠 Sodium (mg:kg-1)</td><td>204.77</td></tr><tr><td>铁 Iron (mg:kg-1)</td><td>1045.92</td></tr></table></body></html>
+
+表3海人树根际土壤的理化性质  
+Table 4Leaf nutrient contents of Suriana maritima   
+
+<html><body><table><tr><td>指标Index</td><td>数值Value</td></tr><tr><td>叶片有机碳含量Leaf organic carbon content (g:kg-1)</td><td>490.27</td></tr><tr><td>叶片氮含量 Leaf nitrogen content (g:kg-1)</td><td>18.10</td></tr><tr><td>叶片磷含量 Leaf phosphorus content (g·kg-1)</td><td>3.81</td></tr><tr><td>氮磷比 Leaf nitrogen/phosphorus ratio</td><td>4.75</td></tr></table></body></html>
+
+# 3讨论与结论
+
+植物的叶片是高等植物进行光合作用和蒸腾作用的器官，叶片的解剖特征可以直接反映植物对环境的适应特征。比叶面积是植物的重要形态解剖结构特征，比叶面积较低的物种有更厚的叶边缘或更大的组织密度，叶中较大一部分物质被用于构建保卫构造（防虫食、防止过度失水等)或增加叶肉细胞密度，常形成厚度较大而面积较小的叶片以延长寿命（Komer,1989;Reich et al.,1998），更好地适应干旱和资源贫瘠的环境（潘红丽等，2009）。蔡洪月等（2020）和韩涛涛等（2018）的研究发现珊瑚岛植物银毛树和海滨木巴戟通过较小的比叶面积来适应干旱的生境。本研究发现海人树也具有较小的比叶面积，表明海人树具有良好的储水能力和抗干旱能力。另外，角质层可减少叶片的水分散失，是植物适应干旱的特征之一（张晓艳等，2020）。海人树叶片肉质，角质层发达，有利于其减少叶片水分散失，适应干旱环境。以往研究表明，比叶面积和叶片厚度成反比，叶片的厚度能够反映植物的储水能力，厚度大的植物储水能力更好（Kulkami et al,2010）。与大陆植物柠条锦鸡儿（Caragana korshinskii）等6种灌木（叶片厚度为 $2 2 3 . 7 8 \mathrm { - } 5 8 8 . 8 9 \mu \mathrm { m } \mathrm { \Omega }$ 0（韩刚等，2006）与西沙群岛的常见乔木海滨木巴戟（叶片厚度为 $2 2 1 . 7 3 ~ { \mu \mathrm { m } }$ ）（韩涛涛等，2018）和灌木银毛树（叶片厚度为 $5 3 4 . 4 7 ~ { \mu \mathrm { m } }$ ）（蔡洪月等，2020）相比，海人树的叶片厚度较大，表明其对热带珊瑚岛环境具有较好的适应性，可有效减少其生长过程中受到干旱、贫瘠等胁迫的伤害。栅栏组织发达可以防止水分过度蒸发；栅栏组织与海绵组织厚度的比值高，是植物对干旱和盐碱环境的一种适应（赵翠仙和黄子琛，1981；陈旭等，2019）。海人树叶片叶肉中海绵组织和栅栏组织分化明显，且栅栏组织发达，两层细胞排列紧密，细胞间隙小，栅栏组织与海绵组织比值高，具有较强的叶片保水能力，在干旱和高盐碱的热带珊瑚岛环境中具备优势。叶片气孔密度与叶片蒸腾作用相关，较小的气孔密度能减少叶片的蒸腾耗水量（刘照斌等，2009）。本研究发现，海人树的气孔密度远低于大陆的绿化灌木（气孔密度为 $1 1 9 . 0 0 { \mathrm { - } } 6 0 1 . 9 5 \ \mathrm { n } { \cdot } \mathrm { m m } ^ { - 2 } .$ ）（朱栗琼等，2010），也低于草海桐等西沙群岛常见灌木（气孔密度为 $1 8 . 2 – 4 4 . 4 \mathrm { n } \cdot \mathrm { m m } ^ { - 2 } .$ ）（曹策等，2017；徐贝贝等，2018；韩涛涛等，2018），表明海人树更能保持体内的水分，减少水分的散失。
+
+传导系统的解剖特征与水分在植物体内的传输速率或传输效率关系密切，其中木质部的解剖特征在很大程度上决定了树木的水分传输效率（Reich etal.,1998）。导管直径越大、密度越高，水分输导率越高，但直径越大的导管越容易发生栓塞现象，即大导管对于水分输导的安全性比较不利（周洪华和李卫红，2015）。较小的导管直径可能是植物对海岛较干旱环境的一种长期适应（韩涛涛等，2018）。曹策等（2017）研究表明，热带海滨植物水芫花通过减小导管直径以降低栓塞风险，在干旱环境下保持体内水分平衡。本研究的海人树也是通过减小导管直径，降低木质部栓塞化的概率，保证茎杆木质部水分运输的正常进行，这是其适应珊瑚岛礁干旱环境的重要特征。
+
+叶绿素是植物光合作用的主要功能色素，叶绿素在光合作用中具有吸收、传递和转换光能为化学能的重要作用；叶绿素含量低，有利于减少光抑制，提高植物的光能利用效率（周振翔等，2016）。张世柯等（2019）研究发现红厚壳叶绿素含量低，表明红厚壳通过降低叶绿素含量来减少干旱环境引起的伤害，并增强对干旱和强光环境的适应性。本研究发现，海人树的叶绿素含量比红厚壳低，表明在热带海岛光能充沛的环境条件下，海人树通过降低叶绿素含量，防止吸收过剩光能导致对光系统产生氧化伤害，缓解光抑制，提高光合能力。
+
+胁迫会破坏植物细胞内的稳态环境，使植物细胞内活性氧的含量增加，造成细胞器的氧化伤害，并引起植物细胞内一系列的防御响应，包括酶类（即抗氧化酶系统）和非酶类的活性氧清除系统的变化。脯氨酸在植物渗透调节中具有重要作用，属于非酶类活性氧清除系统，植物遭受干旱等非生物胁迫时，体内的脯氨酸含量往往随之增加以应对胁迫。因此，脯氨酸含量可以作为植物耐旱性的一个重要指标。以往研究发现，马棘（Indigofera pseudotinctoria）通过积累脯氨酸来适应干旱胁迫的加重（陈超，2014）；草海桐（徐贝贝等，2018）、水芫花（曹策等，2013）和海滨木巴戟（韩涛涛等，2018）通过在逆境下积累脯氨酸增加渗透调节能力以抵御环境胁迫引起的氧化伤害。丙二醛是细胞膜质过氧化最终分解的产物，其含量可以反映植物遭受胁迫伤害的程度，含量越高说明细胞膜脂过氧化的程度越高（李洁等，2021）。在本研究中，海人树的丙二醛含量低，脯氨酸含量很高，表明海人树可通过增加细胞渗透势，维持细胞膨压，促进细胞吸水，避免细胞膜系统膜脂过氧化，更好地适应热带珊瑚岛强光、干旱和高盐碱环境。
+
+植物抗氧化酶系统也是植物应对胁迫时的重要防御体系之一，它能有效地保护植物以减轻环境胁迫对植物的伤害。海人树的总抗氧化能力远高于海滨木巴戟！ $( 3 8 6 . 7 3 \mathrm { U } { \cdot } \mathbf { g } ^ { - 1 } .$ ）（韩涛涛等，2018）、草海桐（ $\cdot 3 2 8 . 1 9 \mathrm { U } { \cdot } \mathbf { g } ^ { - 1 } .$ ）（徐贝贝等，2018）和红厚壳（ $\cdot 1 4 9 . 4 2 \mathrm { U } { \cdot } \mathbf { g } ^ { - 1 }$ ）（张世柯等，2019）等西沙群岛本土植物，表明海人树具有较高的总抗氧化能力，减小氧化胁迫伤害。超氧化物歧化酶、过氧化物酶和过氧化氢酶是抗氧化酶系统中主要的抗氧化酶。与重度干旱胁迫下的马棘等四种灌木，以及西沙群岛本土植物海滨木巴戟和草海桐相比，海人树的超氧化物歧化酶、过氧化物酶和过氧化氢酶活性均处于较低水平，表明海人树的强抗氧化能力主要依赖非酶类活性氧清除系统清除过多的活性氧自由基。
+
+植物体内营养元素的含量通常可以反映植物的生长状况，特别是氮和磷在植物生长发育和形态构建中发挥重要作用（刘广全等，2001）。本研究发现，海人树根际土壤呈强碱性，含水量和碳、氮、磷含量极低，但其叶片中的碳、氮、磷含量均远高于其根际土壤。生长于极端贫瘠的热带珊瑚岛环境的海人树叶片的碳、氮和磷含量甚至高于生长于大陆普通土壤的草珊瑚（崔珺等，2014），表明海人树对土壤养分的利用能力很高，能较好地适应西沙群岛贫瘠的土壤环境。
+
+综上所述，海人树叶片小而厚，角质层明显，栅栏组织发达，叶绿素含量低，脯氨酸含量高，总抗氧化能力和土壤养分利用能力高。因此，海人树对强光、干旱和贫瘠的热带珊瑚岛环境具有很好的适应能力，适合用于热带海滨地区（特别是珊瑚岛礁）的防风固沙和园林绿化，可作为热带珊瑚岛礁植被恢复和园林绿化的工具种。
+
+# 参考文献
+
+BATES LS,WALDEREN RP, TEARE ID, 1973. Rapid determination of free proline for water stressstudies[J]. Plant Soil, 39(1): 205-207.  
+CAI HY,LIN N, WEN MH, et al., 2020. The ecological and biological characteristics of Tournefortiaargentea in Xisha Islands[J].Guihaia,40(3):375-383.[蔡洪月，刘楠，温美红，等，2020．西沙群岛银毛树（Tournefortia argentea）的生态生物学特性[J].广西植物，40(3)：375-383.]  
+CAO C, JIAN SG, REN H, et al., 2017. The ecophysiological characteristics of Pemphis acidula, atropical beach plant[J].Ecol Environ Sci,26(12):2064-2070.[曹策，简曙光，任海，等，2017．热带海滨植物水芫花(Pemphis acidula)的生理生态学特性[J].生态环境学报，26(12)：2064-2070.]  
+CHEN C,2014. Ecophysiological mechanisms of forage shrubs resistant to drought and cold in karstareas[D].Beijing:China Agr Univ:38-40.[陈超，2014．喀斯特地区饲用灌木抗旱抗寒性的生理生态学机制研究[D]．北京：中国农业大学:38-40.]  
+CHEN WS,WANG ZF, ZHAO G, et al., 2016. Microsatelite and chloroplast DNA analyses reveal nogenetic variation in a beach plant Surianana maritima on the Paracel Islands, China[J]. Biochem SystEcol, 65:171-175.  
+CHEN WS, ZHAO G, JIAN SG, et al.， 2014. Development of microsatelite markers for Surianamaritima (Surianaceae） using next-generation sequencing technology[J]. Genet Mol Res: GMR,14(4):14115-14118.  
+CHEN X,LIU HK, ZHAO CZ, et al.,2019. Responses of foliar anatomical traits to soil conditions in 11tree species on coastal saline-alkali sites of Shandong, China[J]. Chin JPlant Ecol, 43(8): 697-708.[陈旭，刘洪凯，赵春周，等，2019．山东滨海盐碱地11个造林树种叶解剖特征对土壤条件的响应[J]．植物生态学报，43(8)：697-708.]  
+CHEN YX, LIU JH,LIN F, et al.,2011. Determination of antioxidative activity of 41 kinds of Chineseherbal medicines by using DPPH and FRAP methods[J]. Res Explor Lab,30(6):11-14.[陈玉霞,刘建华，林峰，等，2011.DPPH和 FRAP 法测定41种中草药抗氧化活性[J].实验室研究与探索，30(6): 11-14.]  
+CUI J,KE L, ZHANG C, et al.,2014. Foliar nutrient characteristics of main tree species in shrub layerunder subtropical evergreen broad-leaved forest in Southern Anhui [J]. JPlant Resourc Environ, 23(2):36-42.[崔珺，柯立，张驰，等，2014．皖南亚热带常绿阔叶林林下灌木层主要树种叶片养分特征[J]．植物资源与环境学报，23(2)：36-42.]  
+FERNANDO ES, GADEK PA, CRAYN DM, et al.， 1993. Rosid affinities of Surianaceae: molecularevidence[J]. Mol Phylogenet Evol, 2(4): 344-350.  
+GONG ZT, ZHANG GL, YANG F,2013. Soils and the soil ecosystem in the South China Sea Islands[J].Ecol Environ Sci,22(2):183-188.[龚子同，张甘霖，杨飞，2013．南海诸岛的土壤及其生态系统特征[J].生态环境学报，22(2)：183-188.]  
+GOWER ST, KUCHARIK CJ, NORMAN JM, 1999. Direct and indirect estimation of leaf area index,FAPAR,and net primary production of terrestrial ecosystems[J]. Remote Sens Environ,70(1): 29-51.  
+HACKE UG, SPERRY JS, POCKMAN WT,et al.， 2001. Trends in wood density and structure arelinked to prevention of xylem implosion by negative pressure[J]. Oecologia, 126(4):457-461.  
+HAN G I I SX XI1 P et al 2nn6 Analveis nf drouoht recistance nn anatnmical strurture nf leave nf civspexies of shrubs[J].JNW For Univ,(4):43-46,68.[韩刚，李少雄，徐鹏，等，2006.6种灌木叶片解剖结构的抗旱性分析[J]．西北林学院学报，(4)：43-46,68.]  
+HAN TT, LIU N,SONG GM, et al., 2018. Eco-physiological characteristics of Morinda citrifolia[J]. JTrop Subtrop Bot,26(1):33-39.[韩涛涛，刘楠，宋光满，等，2018．海滨木巴戟的生理生态特征研究[J]．热带亚热带植物学报，26(1)：33-39.]  
+HEO K, TOBE H, 1994. Embryology and relationships of Suriana maritima L. (Surianaceae)[J]. J PlantRes, 107(1): 29-37.  
+KORNER C,1989.The nutritional status of plants from high altitudes[J]. Oecologia,81(3): 379-391.  
+KULKARNI M， SCHNEIDER B,RAVEH E, et al.， 2010.Leaf anatomical characteristicsandphysiological responses to short-term drought in Ziziphus mauritiana (Lamk.)[J]. Sci Hortic,124(3):316-322.  
+LI HS, SUN Q, ZHAO SJ, et al., 20o0. Principles and techniques of plant physiological and biochemicalexperiments[M].Beijing: Higher Education Press: 134-137,258-261,165-167.[李合生，孙群，赵世杰，等，2000．植物生理生化实验原理和技术[M]．北京：高等教育出版社：134-137，258-261，165-167.]  
+LI J,FU H, YAO XH, etal,2021.Differentially expressed proteinanalysis of diferent drought tolerancehulless barley leaves[J].Acta Agron Sin,47(7):1248-1258.[李洁，付惠，姚晓华，等，2021．不同耐旱性青稞叶片差异蛋白分析[J]．作物学报，47(7)：1248-1258.]  
+LI J,LIU N,REN H, et al., 2016.Ecological adaptability of seven plant species to tropical coral islandhabitat[J].Ecol Environ Sci,25(5):790-794.[李婕，刘楠，任海，等，2016.7种植物对热带珊瑚岛环境的生态适应性[J]．生态环境学，25(5)：790-794.]  
+LIN X, CHEN XL, WANG F, 1999. Climate survey report on Island of Hainan Province[M] // LU FC,XIONG SL, LIU SL. Specialized report set of comprehensive survey and research on Island resourcesof Hainan Province.Beijing:Ocean Press: 24-35.[林熙，陈小丽，王峰，1999.海南省海岛气候调查研究报告[M]/／ 陆夫才，熊仕林，刘胜利.海南省海岛资源综合调查研究专业报告集．北京：海洋出版社:24-35.]  
+LIU GQ, ZHAO SD,WANG H, et al., 2001. Seasonal variation of growth and nutrient contents forphotosynthetic organ of the sharptooth oak stands[J].Acta Ecol Sin,(6): 883-889.[刘广全，赵士洞，王浩，等，2001．锐齿栎林个体光合器官生长与营养季节动态[J].生态学报，(6)：883-889.]  
+LIU GS, JIANG NH, ZHANG LD,et al.，1996. Soil physical and chemical analysis & description ofsoil profiles[M].Beijing: Standards Press of China: 24,31-33,38-39,50-52.[刘光崧，蒋能慧，张连第，等，1996.土壤理化分析与剖面描述[M]．北京：标准出版社：24，31-33，38-39，50-52.]  
+LIU ZB, NING J,LV JZ,2O09. Change of stomatal density and opening degree of Poa pratensis L.treatment with S3307[J].JShenyang Agr Univ,40(4): 488-490.[刘照斌，宁俊，吕建洲,2009.S_(3307)处理对草地早熟禾叶片气孔密度和开度的影响[J]．沈阳农业大学学报，40(4)：488-490.]  
+MITCHELL RE, GEISSMAN TA,1971. Constituents of Suriana maritima: A triterpene diol of novelstructure and a new flavonol glycoside[J]. Phytochemistry,10(7): 1559-1567.  
+PAN HL,LI MH, CAI XH, et al., 2009. Responses of growth and ecophysiology of plants to altitude[J].Ecol Environ Sci,(2):722-730.[潘红丽，李迈和，蔡小虎，等，2009．海拔梯度上的植物生长与生理生态特性[J]．生态环境学报，(2)：722-730.]  
+PENG H, THOMAS WW,2013. Surianaceae. Flora of China[M]. Beijing: Sci Press: 105.  
+REICH P B, WALTERS M B, ELLSWORTH D S, et al., 1998. Relationships of leaf dark respiration to  
+leaf nitrogen, specific leaf area and leaf life-span: a test across biomes and functional groups[J].REN H, JIAN SG, ZHANG QM, et al.,2017. Plants and Vegetation on South China Sea Islands[J]. EcolEnviron Sci,26(10):1639-1648.[任海，简曙光，张倩媚，等，2017．中国南海诸岛的植物和植被现状[J]．生态环境学报，26(10)：1639-1648.]SACK L，COWAN PD, JAIKUMSR N,et al.，2003. The‘hydrology’of leaves: co-ordination ofstructure and function in temperate woody species[J]. Plant Cell & Environ,26(8): 1343-1356.SINGLETON VL, ORTHOFER R,LAMUELA-RAVENTOS RM,1993. Analysis of total phenols andother oxidation substrates and antioxidants by means of folin-ciocalteu reagent[J]. Exercises GenChem & Qual Anal, 299(2): 152-178.XING FW,LI ZX, YE HG, et al., 1993.A study on the fioristic plant geography of Paracel Islands inChina[J].Trop Geogr,(3):250-257.[邢福武，李泽贤，叶华谷，等，1993．我国西沙群岛植物区系地理的研究[J]．热带地理，(3)：250-257.]XU BB,LIU N, REN H, et al., 2018. Stress resistance biological characteristics of Scaevola sericea inParacel Islands[J].Guihaia,38(10):1277-1285.[徐贝贝，刘楠，任海，等，2018．西沙群岛草海桐的抗逆生物学特性[J]．广西植物，38(10)：1277-1285.]YU J, 014. Research on anatomical structure and ecological adaptability of dominant plants in PoyangLake wetland[D].Nanchang: Nanchang Univ:13-17.[余静，2014．鄱阳湖湿地优势植物的解剖结构及其生态适应性研究[D]．南昌：南昌大学：13-17]ZHANG SK，HUANG Y, JIAN SG, et al.， 2019. Stress resistance characteristics of Calophylluminophyllum,a tropical beach plant[J].JTrop Subtrop Bot,27(4):391-398.[张世柯，黄耀，简曙光，等，2019．热带滨海植物红厚壳的抗逆生物学特性[J]．热带亚热带植物学报，27(4)：391-398.]ZHANG XY, YANG ZR, ZHANG FL, et al., 2020. Effects of drought stress on leaf anatomical structureof Muskmelon Seedlings[J].JNE Norm Univ (Nat Sci Ed),52(3): 116-123.[张晓艳，杨忠仁，张凤兰,等,2020.干旱胁迫对地梢瓜幼苗叶片解剖结构的影响[J]．东北师大学报(自然科学版),52(3):  
+116-123.]ZHAO CX, HUANG ZC,1981. A Preliminary study of xeromorphism of some important exrophytesgrowing in Tungeli desert[J].JIntegr Plant Biol,(4): 278-283+347-348.[赵翠仙和黄子琛，1981．腾格里沙漠主要旱生植物旱性结构的初步研究[J]．植物学报，(4)： $2 7 8 { - } 2 8 3 { + } 3 4 7 { - } 3 4 8 . ]$ ZHAO QL，MA JH, 2008. The application of principal component analysis in the comprehensiveevaluation of soil fertility of urban green space, taking the campus soil of Henan University as anexample[J].Modern Agr Sci Technol,(11): 28-29,34.[赵庆良，马建华，2008．主成分分析在城市绿地土壤肥力综合评价中的应用—以河南大学校园土壤为例[J]．现代农业科技，(11)：28-29,  
+34.]ZHOU HH, LI WH, 2015. Responses and adaptation of xylem hydraulic conductivity to salt stress inPopulus euphratica[J].Chinese JPlant Ecol,(1): 81-91.[周洪华，李卫红，2015．胡杨木质部水分传导对盐胁迫的响应与适应[J]．植物生态学报，(1)：81-91.]ZHOU WM,LIU N, CAI HY, et al.,2021. Ecophysiological adaptabilities of Hernandia nymphaeifoliato tropical coral islands[J].Guihaia,41(6):897-904.[周婉敏，刘楠，蔡洪月，等，2021．莲叶桐对热带珊瑚岛环境的生理生态适应性[J].广西植物，41(6)：897-904.]ZHOU ZX,LI ZK, CHEN Y, et al., 2016. Effects of reduced chlorophyll content on photoinhibition andphotosynthetic electron transport in rice leaves[J]. Sci Agr Sinica,49(19): 3709-3720.[周振翔，李志康，陈颖，等，2016.叶绿素含量降低对水稻叶片光抑制与光合电子传递的影响[J]．中国农业科学，49(19):3709-3720.]ZHU LQ, ZHAO LJ, LIN DQ, et al., 2010. Comparison on leaf and stem anatomical structures and coldtolerance of five shrub species[J]. Chinese Agr Sci Bull,(20): 267-270.[朱栗琼，招礼军，林大庆，
+
+等，2010.5 种绿化灌木茎叶解剖结构及耐寒性比较[J]．中国农学通报，(20)：267-270.]

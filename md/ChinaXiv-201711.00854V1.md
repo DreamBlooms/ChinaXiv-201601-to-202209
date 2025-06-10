@@ -1,0 +1,181 @@
+饲粮中添加不同植物精油对肉仔鸡生长性能、肠道发育、免疫器官指数及屠宰性能的影响燕磊」　朱正鹏」吕尊周」　安　沙」王正国」呙于明²吕明斌1
+
+（1.新希望六和股份有限公司，北京100102；2.中国农业大学动物科技学院，北京100193）摘要：本试验通过在基础饲粮中添加不同植物精油产品，旨在研究其对肉仔鸡生长性能、肠道发育、免疫器官指数及屠宰性能的影响。选取1日龄罗斯 308 商品肉仔鸡公雏2304 只，随机分为6个组，每个组12个重复，每个重复32只。1组为对照组，饲喂基础饲粮；2组为负对照组，在基础饲粮中添加抗生素（ $2 0 \ \mathrm { m g / k g }$ 维吉尼亚霉素)；3\~6 组在基础饲粮中各添加1种植物精油产品，分别为 $1 0 0 \mathrm { m g / k g }$ 植物精油1（含 $5 \%$ 香芹酚，EO1组）、 $3 0 0 \mathrm { m g / k g }$ 植物精油2（含 $5 \%$ 香芹酚，EO2 组）、 $3 0 0 \mathrm { m g / k g }$ 植物精油3（含 $8 \%$ 香芹酚和百里香酚混合物，EO3 组）以及 $3 0 0 \mathrm { m g / k g }$ 植物精油4（含 $2 \%$ 香芹酚和百里香酚混合物，EO4 组)。试验期 $3 9 \mathrm { ~ d ~ }$ 。结果表明：1）与对照组相比，负对照组以及EO2组肉仔鸡 $2 2 { \sim } 3 1$ 日龄料重比显著降低（ $. P { < } 0 . 0 5 )$ ，分别降低了 $2 . 5 8 \%$ 、 $3 . 5 1 \%$ ；与对照组相比，负对照组肉仔鸡 $_ { 1 \sim 3 8 }$ 日龄平均日增重升高，料重比降低，但差异均不显著（ $( P { > } 0 . 0 5 )$ ；饲粮中添加不同植物精油未显著影响肉仔鸡 $_ { 1 \sim 3 8 }$ 日龄平均日增重、平均日采食量和料重比（ $. P { > } 0 . 0 5$ )。2）与对照组相比，饲粮中添加不同植物精油有提高肉仔鸡 39 日龄十二指肠绒毛高度的趋势（ $P { = } 0 . 0 7 5 \ 3 )$ ，绒毛高度/隐窝深度值也均有所提高（ $P { > } 0 . 0 5$ )。3）各组之间肉仔鸡22 和 39日龄脾脏指数和法氏囊指数均差异不显著（ $. P { > } 0 . 0 5 \ '$ 。各组之间肉仔鸡胴体出成率、胸肌率、腿肌率、翅重率以及腹脂率均差异不显著（ $. P { > } 0 . 0 5 )$ )。由此可见，本试验条件下，饲粮中添加不同植物精油对肉仔鸡生长性能的改善不显著，但可促进十二指肠绒毛发育。
+
+关键词：植物精油；生长性能；屠宰性能；肠道发育；免疫器官；肉仔鸡中图分类号：S831.5
+
+长期以来，抗生素对于降低畜禽死亡、促进生长起到了积极的作用，然而其耐药性、药物残留、食品安全等负面影响已促使多国立法对其禁止。自欧盟立法禁止抗生素作为饲料添加剂在家禽中使用以来，植物精油（plant essentialoils，EO）作为一种新型的饲料添加剂备受关注，成为研究的热点。植物精油是通过蒸馏法从植物中提取出来的油状液体，具有芳香性，易挥发。天然提取的植物精油成分，主要是百里香酚、香芹酚、肉桂醛等，具有广泛的药理学作用，包括杀菌、抗氧化、抗炎等[。已有研究表明，植物精油在改善肉仔鸡生长性能[2]、提高肉仔鸡抗氧化能力[3]、改善胴体品质[4等方面具有积极的作用。由于植物精油产品的稳定性差、动物试验验证数量不具备规模、机理阐述不明确等原因，其应用于生产实践中仍面临着许多挑战[5]。本研究筛选市场上不同类型的植物精油产品进行评估，旨在研究其对肉仔鸡生长性能、肠道发育、免疫器官指数及屠宰性能的影响，以期为植物精油产品在肉仔鸡生产中的应用提供依据。
+
+# 1材料与方法
+
+# 1.1 试验材料
+
+试验选择4种植物精油产品进行评估，植物精油1和2的有效成分均为 $5 \%$ 香芹酚，来自不同厂家；植物精油3和4的有效成分均为香芹酚和百里香酚混合物，2种产品有效含量分别为 $8 \%$ 和 $2 \%$ ，来自不同厂家。
+
+# 1.2 试验动物与分组
+
+选取1日龄罗斯308商品肉仔鸡公雏2304只，随机分为6个组，每个组12个重复，每个重复32只。
+
+# 1.3 试验饲粮与试验设计
+
+1组为对照组(CON 组)，饲喂基础饲粮；2组为负对照组（NC 组)，在基础饲粮中添加抗生素（ $2 0 \ \mathrm { m g / k g }$ 维吉尼亚霉素)；3\~6 组在基础饲粮中分别添加4种植物精油产品，按产品推荐量分别为 $1 0 0 \ \mathrm { m g / k g }$ 植物精油1（含 $5 \%$ 香芹酚，EO1组）、 $3 0 0 ~ \mathrm { m g / k g }$ 植物精油2（含 $5 \%$ 香芹酚，EO2 组）、 $3 0 0 ~ \mathrm { m g / k g }$ 植物精油3（含 $8 \%$ 香芹酚和百里香酚混合物，EO3组）以及 $3 0 0 \mathrm { m g / k g }$ 植物精油4（含 $2 \%$ 香芹酚和百里香酚混合物，EO4 组)。基础饲粮参照育种公司推荐标准及 NRC（1994）标准配制，其组成及营养水平见表1。试验饲粮采用 4阶段饲喂，1\~7日龄饲喂破碎料，其他阶段均为颗粒料。试验期 $3 9 \mathrm { d }$ 。
+
+# 表1基础饲粮组成及营养水平 (风干基础)
+
+Table 1Composition and nutrient levels of the basal diet (air-dry basis) %   
+
+<html><body><table><tr><td rowspan="3">项目Items</td><td colspan="4">含量 Content</td></tr><tr><td>1~7日龄</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>8~21日龄</td><td>22~31日龄</td><td>32~38日龄</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>1 to 7 days of</td><td>8 to 21 days of</td><td>22 to 31 days of</td><td>32 to 38 days of</td></tr><tr><td>原料 Ingredients</td><td>age</td><td>age</td><td>age</td><td>age</td></tr><tr><td>玉米Corn</td><td>48.74</td><td>51.51</td><td>52.63</td><td>52.75</td></tr><tr><td>豆粕 Soybean meal</td><td>30.00</td><td>25.60</td><td>19.50</td><td>14.10</td></tr><tr><td>小麦Wheat</td><td>10.00</td><td>10.00</td><td>12.00</td><td>15.00</td></tr><tr><td>花生粕 Peanut meal</td><td>3.00</td><td>4.00</td><td>4.00</td><td>5.00</td></tr><tr><td>玉米干酒糟及其可溶物 Corn</td><td>2.00</td><td>3.00</td><td>4.00</td><td>4.00</td></tr><tr><td>DDGS 玉米蛋白粉 Cornprotein</td><td></td><td></td><td>2.00</td><td>3.00</td></tr><tr><td>powder</td><td></td><td></td><td></td><td></td></tr><tr><td>豆油 Soybean oil 磷酸氢钙 CaHPO4</td><td>1.26 2.00</td><td>1.22 1.64</td><td>1.66 1.28</td><td>2.37 0.94</td></tr><tr><td>石粉 Limestone</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>1.15</td><td>1.11</td><td>1.06</td><td>1.02</td></tr><tr><td>L-赖氨酸硫酸盐 L-Lys·H2SO4</td><td>0.56</td><td>0.64</td><td>0.68</td><td>0.69</td></tr><tr><td>DL-蛋氨酸DL-Met</td><td>0.33</td><td>0.31</td><td>0.24</td><td>0.19</td></tr><tr><td>L-苏氨酸L-Thr</td><td>0.16</td><td>0.17</td><td>0.15</td><td>0.14</td></tr><tr><td>食盐 NaCl</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td></tr><tr><td>预混料 Premixl)</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td><td></td></tr><tr><td>粗蛋白质CP</td><td>22.00</td><td>21.00</td><td>20.00</td><td>19.00</td></tr><tr><td>代谢能 ME/（MJ/kg）</td><td>11.67</td><td>11.86</td><td>12.28</td><td>12.74</td></tr><tr><td>钙Ca</td><td>1.00</td><td>0.90</td><td>0.80</td><td>0.70</td></tr><tr><td>总磷TP</td><td>0.66</td><td>0.59</td><td>0.53</td><td>0.46</td></tr><tr><td>赖氨酸Lys</td><td>1.36</td><td>1.31</td><td>1.20</td><td>1.09</td></tr><tr><td>苏氨酸 Thr</td><td>0.92</td><td>0.88</td><td>0.81</td><td>0.75</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.99</td><td>0.95</td><td>0.87</td><td>0.80</td></tr></table></body></html>
+
+1 预混料为每千克饲粮提供 The premix provides the following per $\mathrm { k g }$ of diets: $\mathrm { M g \ 1 0 0 \ m g }$ ， $\mathrm { 7 n 7 5 ~ m g }$ Fe $8 0 ~ \mathrm { m g }$ ， $\mathrm { ~ I ~ 0 . 6 5 ~ m g }$ ， $\mathrm { C u } 8 0 \mathrm { m g }$ ，Se $0 . 3 5 \mathrm { m g }$ ，VA 9 000 IU, $\mathrm { V D } _ { 3 } 2 0 0 0 \mathrm { I U }$ ，VE 11 IU，VK $1 . 0 \mathrm { m g }$ ，VB1 1.2mg， $\mathrm { V B } _ { 2 } 5 . 8 ~ \mathrm { m g }$ ，烟酸niacin $6 6 ~ \mathrm { m g }$ ，泛酸 pantothenic acid $1 0 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 2 . 6 ~ \mathrm { m g }$ ，生物素 biotin $0 . 1 0 ~ \mathrm { m g }$ ，叶酸 folic acid $0 . 7 ~ \mathrm { m g }$ ， $\mathbf { V B } _ { 1 2 } 0 . 0 1 2 \mathrm { m g }$ 。
+
+2营养水平均为计算值。Nutrients levels are calculated values.
+
+# 1.4饲养管理
+
+试验鸡采用小栏饲养，自由采食和饮水，每日观察鸡群健康情况与精神状况。采用整舍育雏，暖风炉水暖控温，最初进雏时舍温为 $3 2 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ ，以后每周降低 $2 \ \mathrm { { ^ \circ C } }$ ，直到 $2 6 \mathrm { ~ \textdegree C }$ 为止。正常免疫程序进行免疫。鸡舍内温度、湿度、光照和卫生学指标符合肉仔鸡饲养的卫生要求
+
+(GB/T14925—1994)。
+
+# 1.5 测定指标与方法
+
+# 1.5.1 生长性能
+
+分别在肉仔鸡7、21、31和38日龄时，对整栏试验鸡进行空腹称重并统计采食量，以计算平均日增重（ADG）、平均日采食量（ADFI)、料重比（F/G）、体重（BW）、成活率等指标。
+
+# 1.5.2 肠道形态及免疫器官指数
+
+22 和 39 日龄时，每个组取12只鸡屠宰，每个重复1只。测量十二指肠、空肠和回肠的长度，挤出食糜后各段肠道称重。计算相对肠重和单位肠重。
+
+相对肠重 $( \% ) =$ 肠重 $( \mathbf { g } ) /$ 体重 $\mathbf { \tau } ( \mathbf { g } )$
+
+肠道单位长度重 $( \mathrm { g } / \mathrm { c m } ) =$ 肠重 $( \mathbf { g } ) ,$ /肠长度(cm)。
+
+取十二指肠中段 $1 \ \mathrm { c m }$ ，放入 $4 \%$ 多聚甲醛中固定过夜，石蜡包埋，制作切片，苏木精-伊红（HE）染色，封固。光镜观察拍照，测定十二指肠绒毛高度（VH）及隐窝深度（CD)，并计算绒毛高度/隐窝深度（VH/CD）值。
+
+取脾脏和法氏囊，称重计算免疫器官指数。
+
+免疫器官指数（g/kg） $\mathbf { \Sigma } = \mathbf { \Sigma }$ 免疫器官重量（g）/体重（kg）。
+
+# 1.5.3 屠宰性能
+
+39 日龄时，每个组随机选择12只鸡，每个重复1只。称重后屠宰，进行胴体分割，测定胴体出成率、腿肌率、胸肌率、翅重率、腹脂率等胴体指标。
+
+# 1.6 数据处理
+
+试验数据采用 SPSS17.0统计软件中GLM模型进行分析，所有指标以每个重复为试验单位。若组间差异显著，则用Duncan氏法多重比较进行检验， $P { < } 0 . 0 5$ 为差异显著， $0 . 0 5 \leqslant$ ${ P { < } 0 . 1 0 }$ 为有显著趋势。结果以“平均值±标准差”表示。
+
+2结果
+
+# 2.1植物精油对肉仔鸡生长性能的影响
+
+由表2可知，各组之间肉仔鸡 $1 { \sim } 7$ 日龄ADG、ADFI、F/G以及7日龄体重均差异不显著（ $( P { > } 0 . 0 5 )$ )。与对照组和负对照组相比，EO3组和EO4组肉仔鸡 $\phantom { - } 8 \sim 2 1$ 日龄F/G 显著升高
+
+L $. P { < } 0 . 0 5 \$ )。与对照组相比，负对照组和EO2组肉仔鸡 $2 2 { \sim } 3 1$ 日龄F/G分别显著降低了 $2 . 5 8 \%$ 和 $3 . 5 1 \%$ ( $_ { _ { P < 0 . 0 5 ) } }$ 。各组之间肉仔鸡 $3 2 { \sim } 3 8$ 日龄ADG、ADFI、F/G以及38日龄体重差异不显著 $( P { > } 0 . 0 5 )$ )。从全期（ $( 1 \sim 3 8$ 日龄）来看，与对照组相比，负对照组肉仔鸡ADG升高，F/G 降低，但差异均不显著（ $. P { > } 0 . 0 5 )$ ；饲粮中添加植物精油未显著影响肉仔鸡ADG、ADFI和F/G( $( P { > } 0 . 0 5 )$ ，但除 EO3 组外肉仔鸡生长性能均有一定程度的改善，其中EO2 组效果较佳，与对照组相比，38日龄体重提高了 $2 4 . 4 \ \mathrm { g }$ （ $P { > } 0 . 0 5 \rangle$ )，F/G降低了 $0 . 5 6 \%$ （ $( P { > } 0 . 0 5 )$ ，成活率提高 $1 . 6 \%$ ( $P { > } 0 . 0 5 \$ ）°
+
+# 2.2植物精油对肉仔鸡肠道发育及小肠形态的影响
+
+由表3可知，与对照组相比，负对照组肉仔鸡 22日龄十二指肠以及空肠单位长度重显著降低（ $P { < } 0 . 0 5 )$ ；而与负对照组相比，EO1组、EO2组、EO3 组和EO4 组肉仔鸡 22 日龄空肠单位长度重均显著升高（ $. P { < } 0 . 0 5 ^ { \cdot }$ )。各组间肉仔鸡39日龄各肠段单位长度重以及相对肠重均无显著差异（ $P { > } 0 . 0 5 )$ 。
+
+对照组肉仔鸡 22日龄十二指肠隐窝深度显著高于负对照组、EO2组、EO3 组和 EO4组（ $( P { < } 0 . 0 5 )$ ；与对照组相比，饲粮中添加植物精油有提高肉仔鸡39 日龄十二指肠绒毛高度的趋势（ $P { = } 0 . 0 7 5 \ 3 )$ 。相比于其他各组，对照组肉仔鸡22 和39日龄VH/CD值均较低，但差异不显著（ $. P { > } 0 . 0 5 )$ ）°
+
+# 2.3植物精油对肉仔鸡免疫器官指数的影响
+
+由表4可知，饲粮中添加植物精油对肉仔鸡 22和39 日龄脾脏指数和法氏囊指数均无显著影响（ $P { > } 0 . 0 5 )$ 。
+
+2.4植物精油对肉仔鸡屠宰性能的影响
+
+由表5可知，饲粮中添加植物精油对肉仔鸡胴体出成率、胸肌率、腿肌率、翅重率以及腹脂率均无显著影响（ $. P { > } 0 . 0 5 )$ 0°
+
+# 3讨论
+
+3.1植物精油对肉仔鸡生长性能的影响
+
+研究表明，植物精油对肉仔鸡生长具有促进作用，李晓东等在1日龄商品代爱拔益加（AA）肉仔鸡饲粮中分别添加100 和 $2 0 0 \mathrm { m g / k g }$ 植物精油（香芹酚和百里香酚占 $8 5 \%$ )，到42 日龄时均可以显著促进肉仔鸡的 ADFI，提高 ADG，并可以使F/G 有所降低，但是差异不显著。朱晓磊等[7研究表明，在饲粮中添加百里香精油可提高 $2 2 { \sim } 4 2$ 日龄麻花鸡ADG,降低 F/G。Weber 等[8]研究表明，饲粮中添加 $3 0 0 ~ \mathrm { m g / k g }$ 百里香酚、丁香酚、胡椒碱以及苯甲酸混合物可显著提高不同饲养条件下肉仔鸡的生长性能。本试验条件下，在未添加抗生素的情况下肉仔鸡 F/G 有升高的趋势，而分别添加100 和 $3 0 0 \mathrm { m g / k g }$ 植物精油虽未显著改善肉仔鸡生长性能，但在F/G 和成活率方面优于对照组，这说明植物精油在实际的应用中并不稳定，这同上述研究结果不完全一致，可能与本试验所用精油的剂量及有效成分含量有关，同时还应考虑植物精油的种类及生产工艺的不同。
+
+3.2植物精油对肉仔鸡肠道发育和十二指肠绒毛形态的影响
+
+小肠是家禽消化吸收营养物质的主要场所，小肠长度及重量的变化均可引起小肠对营养物质吸收的改变，从而影响动物的生长性能[9]。关于植物精油对肠道发育的影响鲜有报道。Bravo 等[10]研究表明，植物精油（有效成分为香芹酚、肉桂醛）能够提高肠道绒毛高度，减少肠道维持能量需要量，且能有效地保护肠道黏膜，促进肠道发育，这与Jamroz 等[1研究结果一致，即植物精油的使用增加了肌胃和空肠黏膜层的厚度，更好地促进了胃肠道的发育。而本试验结果表明，添加植物精油（有效成分为香芹酚和百里香酚）对于肉仔鸡 22 和 39日龄的肠道发育并无显著影响，但与对照组相比，负对照组（抗生素组）肉仔鸡 22日龄十二指肠以及空肠单位长度重显著降低，这可能同抗生素的作用机制有关，Sunde 等[l2]总结前人研究结果认为，抗生素的使用降低了肠壁厚度，使肠道易于吸收营养成分。本试验中添加植物精油组与对照组各肠段单位长度重相差不大，这说明本试验中所用植物精油对于肉仔鸡肠道发育促进效果并不理想，可能与精油的有效成分有关，香芹酚与肉桂醛的组合更利于肠道的发育。
+
+小肠绒毛高度和隐窝深度等形态学参数作为衡量小肠吸收功能和机械屏障的重要指标已达到共识。小肠绒毛高度降低和隐窝加深可能导致营养物质吸收功能减弱，从而产生较差的生长性能。Khattak 等[2]研究发现，肉仔鸡饲粮中添加 $3 0 0 ~ \mathrm { g / t }$ 植物精油可提高绒毛高度以及绒毛表面积，这说明提高了营养物质的吸收。但也有研究发现，止痢草、肉桂和胡椒植物提取物混合物对肉仔鸡十二指肠绒毛高度、隐窝深度和绒毛表面积影响均不显著。研究结果不一致可能同植物精油的类型有关。本研究结果表明，饲粮中添加植物精油可显著降低肉仔鸡 22 日龄隐窝深度，同时 22 和 39 日龄VH/CD 值提高，这同毛红霞等[13]在肉仔鸡上的研究结果类似，植物精油有一定的促进绒毛发育作用。
+
+# 3.3植物精油对肉仔鸡免疫器官指数的影响
+
+胸腺、法氏囊和脾脏是禽类的主要免疫器官。免疫器官指数是作为衡量肉仔鸡免疫功能的重要指标[14]。研究表明，百里香精油不仅提高了麻花鸡的生长性能，同时提高了胸腺指数，但脾脏指数降低[15]。本试验条件下，植物精油以及抗生素均对肉仔鸡法氏囊指数以及脾脏指数均无显著影响，启示我们植物精油对于肉仔鸡免疫器官发育的影响还有待深入研究探讨。
+
+# 4结论
+
+本试验条件下，饲粮中添加植物精油对肉仔鸡生长性能的改善不显著，但可促进十二指肠绒毛发育。
+
+# 参考文献：
+
+[1]朱永刚，王磊，崔东安，等.植物精油在畜禽生产中的应用效果研究进展[J].中国畜牧兽医，2016,43(7):1812-1817.
+
+[2] KHATTAK F,A RONCHI,P CASTELLI,et al.Effects of natural blend of essential oil on growth performance,blood biochemistry,cecal morphology,and carcass quality of broiler chickens[J].Poultry Science,2014,93(1):132-137.
+
+[3] 史东辉，陈俊锋，赵连生，等.唇形科植物提取物对肉鸡血清抗氧化功能和鸡肉脂类氧化的影响研究[J].中国畜牧杂志,2013,49(7):63-67.
+
+[4] HONG JC， STEINER T，AUFY A，et al． Effects of supplemental essential oil on growth performance，lipid metabolites and immunity， intestinal characteristics，microbiota and carcass traits in broilers[J].Livestock Science,2012,144(3):253-262.
+
+[5]贾聪慧，陈旻远，杨彩梅，等.植物精油对单胃动物生产性能与健康的调控[J].动物营养学报,2015,27(4):1055-1060.
+
+[6] 李晓东，韩新茹，王成章，等.植物精油对肉仔鸡生产性能、消化率和肠道酶活性的影响[J].江苏农业科学,2010,6:321-324.
+
+[7] 朱晓磊，刘文骁，陈宏.百里香精油对麻花鸡生长性能、血清蛋白和细胞因子的影响[J].中国畜牧兽医,2011,41(10):95-99.
+
+[8] WEBER G M,MICHALCZU K M,HUYGHBAER TG,et al.Efects of a blend of essential oil compounds and benzoic acid on performance of broiler chickens as revealed by a meta-analysis of 4 growth trials in various locations[J].Poultry Science,2012,911(11):2820 -2828.
+
+[9] 常银莲，刘国华，常文环，等.支链氨基酸对肉鸡生长性能及肠道发育的影响[J].动物营养学报,2016,28(1):79-91.
+
+[10] BRAVOD,UTTERBACKP,PARSONSCM.Evaluationofamixture of carvacrol,cinnamaldehyde,and capsicum oleoresin for improving growth performance and metabolizable energy in broiler chicks fed corn and soybean meal[J].Journal of Applied Poultry Research,2011,20:115-120.
+
+[11]JAMROZ D,WILICZKIEWICZ A,WERTELECKI T,et.al.Use of active substances of plant origin in chicken dietsbased on maize and locallygrown cereals[J].British Poultry Science,2005,46:485-493.
+
+[12] SUNDE M L,DAFWANG I,COOK M,et al.Facts about antibiotics in poultry feed stil missing[J].Feedstuffs,1990,62(38):35-39.
+
+[13]毛红霞，武书庚，张海军，等.植物提取精油混合物对肉仔鸡生长性能、肠道菌群和肠黏膜形态的影响[J].动物营养学报，2011,23(3):433-439.
+
+[14]王自力，鲁琳，朱晓宇，等.中药复方对鸡免疫器官指数及IL-2 表达的动态影响[J].中国兽医科学,2007,(6):543-545.
+
+[15]朱晓磊，祁凤华，黄金涛，等.百里香精油对麻花鸡生长性能及免疫器官指数的影响[J].石河子大学学报:自然科学版,2013,31(1):43-47.
+
+Effects of Dietary Different Plant Essential Oils on Growth Performance,Intestinal Development, Immune Organ Indexes and Slaughter Performance of Broilers YANLeil\* ZHU Zhengpeng1 LYU ZunzhoulAN ShalWANG ZhengguolGUO Yuming²LYU Mingbinl (1. New Hope Liuhe Group Co., Ltd. Beijing 1001O2, China; 2. Collge of Animal Science and Technology, China Agricultural University, Beijing 100193, China)
+
+Abstract: This experiment was to study the effects of dietary different plant essential oils on growth performance, intestinal development, immune organ indexes and slaughter performance of broilers.A total of 2 304 one-day-old Ross 308 male broiler chickens were randomly divided into 6 groups with 12 replicates per group and 32 birds per replicate. Chickens in group 1 (control group)were fed a basal diet; chickens in group 2 (negative control group) were fed the basal diet supplemented with antibiotic ( $2 0 \mathrm { m g / k g }$ virginiamycinin);and the others in the groups 3 to 6 were fed the basal diet supplemented with 4 kinds of plant essential oils, including $1 0 0 ~ \mathrm { { m g / k g } }$ plant essential oils 1 (contained $0 . 5 \%$ carvacrol, EO1 group), $3 0 0 \mathrm { m g / k g }$ plant essential oils 2 (contained $0 . 5 \%$ carvacrol, EO2 group), $3 0 0 \mathrm { m g / k g }$ plant essential oils 3 (contained $8 \%$ carvacrol and thymol mixture, EO3 group）and $3 0 0 ~ \mathrm { m g / k g }$ plant essential oils 4 (contained $2 \%$ carvacrol and thymol mixture,EO4 group),respectively. The experiment lasted for 39 days.The results showed as follows: 1) compared with the control group,the ratio of feed to gain (F/G)of broilers at 22 to 31 days of age in negative control group and EO2 group was significantly decreased $( P { < } 0 . 0 5 )$ ,which was decreased by $2 . 5 8 \%$ and $3 . 5 1 \%$ , respectively. Compared with the control group, the average daily gain（ADG） of broilers at 1 to 38 days of age in negative control group was increased （204 $( P { > } 0 . 0 5 )$ ，and the F/G was decreased $( P { > } 0 . 0 5 )$ .Dietary different plant essential oils had no significant effects on average daily feed intake,ADG and F/G of broilers at 1 to 38 days of age （2 $( P { > } 0 . 0 5 )$ . 2）Compared with the control group,dietary different plant essential oils tended to increase the duodenum villi height of broilers at 39 days of age（ $\scriptstyle P = 0 . 0 7 5 \ 3$ ）,and the value of villi height to crypt length ratio was increased ( $\scriptstyle ( P > 0 . 0 5 )$ . 3) There were no significant differences in spleen index and bursa of Fabricius index of broilers at 22 and 39 days of age among all groups （2 $( P { > } 0 . 0 5 )$ . Moreover, there were no significant differences in carcass yield, breast yield,thigh yield, wing yield and abdominal fat yield of broilers among all groups $( P { > } 0 . 0 5 )$ . It is concluded that under this experimental condition,dietay plant essential oil has no effect on growth performance of broilers, but it is beneficial to duodenum villi development.
+
+Key words: plant essential oil；growth performance；slaughter performance； intestinal development; immune organ; broilers
+
+Author， YAN Lei, E-mail: yanlei@newhope.cn
+
+表2植物精油对肉仔鸡生长性能的影响  
+Table 2Effects of plant essential oils on growth performance of broilers   
+
+<html><body><table><tr><td rowspan="2">项目</td><td colspan="6">组别Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>对照CON</td><td>负对照NC</td><td>EO1</td><td>EO2</td><td>E03</td><td>EO4</td></tr><tr><td>Items 1~7 日龄 1 to 7 days of age</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7日龄体重 BWat 7 days of age/g</td><td>201.4±5.5</td><td>202.3±1.9</td><td>203.4±3.3</td><td>201.8±3.7</td><td>203.3±5.6</td><td>203.8±4.2</td><td>0.6615</td></tr><tr><td>平均日增重 ADG/g</td><td>22.1±0.8</td><td>22.3±0.3</td><td>22.5±0.5</td><td>22.2±0.5</td><td>22.4±0.8</td><td>22.5±0.6</td><td>0.618 3</td></tr><tr><td>平均日采食量 ADFI/g</td><td>23.9±0.6</td><td>23.9±0.5</td><td>24.1±0.5</td><td>24.0±0.4</td><td>24.0±0.7</td><td>24.3±0.6</td><td>0.566 4</td></tr><tr><td>料重比F/G</td><td>1.082±0.023</td><td>1.074±0.016</td><td>1.073±0.013</td><td>1.080±0.017</td><td>1.071±0.017</td><td>1.080±0.011</td><td>0.567 2</td></tr><tr><td>成活率 Survival rate/%</td><td>100.0±0.0</td><td>100.0±0.0</td><td>99.7±0.9</td><td>100.0±0.0</td><td>100.0±0.0</td><td>100.0±0</td><td>0.424 8</td></tr><tr><td>8~21日龄 8 to 21 days of age</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>21日龄体重 BW at 21 days of age/g</td><td>1086.6±26.3</td><td>1 078.8±25.2</td><td>1 077.3±17.0</td><td>1 070.1±17.9</td><td>1 074.8±27.2</td><td>1 072.5±11.5</td><td>0.514 7</td></tr><tr><td>平均日增重 ADG/g</td><td>63.2±1.8</td><td>62.6±1.7</td><td>62.4±1.2</td><td>62.0±1.3</td><td>62.3±1.8</td><td>62.0±0.8</td><td>0.338 7</td></tr><tr><td>平均日采食量 ADFIg</td><td>87.7±1.6</td><td>86.7±2.0</td><td>86.9±1.3</td><td>86.5±1.6</td><td>87.4±1.5</td><td>87.1±1.2</td><td>0.494 2</td></tr><tr><td>料重比F/G</td><td>1.387±0.022b</td><td>1.386±0.012b</td><td>1.393±0.016ab</td><td>1.396±0.013ab</td><td>1.404±0.022a</td><td>1.404±0.011a</td><td></td></tr><tr><td>成活率 Survival rate/%</td><td>97.6±2.4</td><td>99.0±1.6</td><td>97.9±2.5</td><td>97.9±2.5</td><td>98.4±2.5</td><td>98.9±2.1</td><td>0.032 4</td></tr><tr><td>22~31 日龄 22 to 31 days of age</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.595 9</td></tr><tr><td>31日龄体重 BWat 31 days of age/g</td><td>2 131.6±61.7</td><td>2 147.8±76.5</td><td>2 143.8±67.4</td><td>2 150.8±77.4</td><td>2 132.1±55.8</td><td>2 144±52.2</td><td>0.969 3</td></tr><tr><td>平均日增重 ADG/g</td><td>104.2±6.4</td><td>106.8±5.6</td><td>106.6±6.2</td><td>108.1±7.1</td><td>105.6±6.0</td><td>107.0±5.1</td><td>0.717 9</td></tr><tr><td>平均日采食量 ADFI/g</td><td>169.1±6.1</td><td>169.0±7.4</td><td>169.6±7.9</td><td>169.4±8.2</td><td>170.2±7.8</td><td>170.1±5.9</td><td>0.997 7</td></tr><tr><td>料重比F/G</td><td>1.626±0.068a</td><td>1.584±0.032bc</td><td>1.592±0.036abc</td><td>1.569±0.046c</td><td>1.614±0.037ab</td><td>1.590±0.026abc</td><td>0.027 5</td></tr><tr><td>成活率 Survival rate/%</td><td>97.0±2.6</td><td>97.0±4.0</td><td>97.9±2.8</td><td>98.4±1.7</td><td>96.4±3.3</td><td>98.6±2.6</td><td>0.395 1</td></tr><tr><td>32~38 日龄 32 to 38 days of age</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>38日龄体重 BW at 38 days of age/g</td><td>2 892.7±110.0</td><td>2 922.3±116.2</td><td>2 894.9±84.0</td><td>2 917.1±99.9</td><td>2 896.6±88.9</td><td>2 902.5±88.1</td><td>0.975 1</td></tr><tr><td>平均日增重 ADG/g</td><td>107.6±8.6</td><td>108.8±6.3</td><td>106.7±5.3</td><td>108.9±6.2</td><td>107.5±7.7</td><td>108.2±7.9</td><td>0.986 4</td></tr></table></body></html>
+
+<html><body><table><tr><td>平均日采食量 ADFI/g</td><td>208.3±10.2</td><td>207.4±7.5</td><td>204.5±4.3</td><td>211.9±9.9</td><td>209.0±9.9</td><td>207.7±8.3</td><td>0.934 6</td></tr><tr><td>料重比F/G</td><td>1.942±0.084</td><td>1.910±0.058</td><td>1.920±0.078</td><td>1.949±0.076</td><td>1.948±0.069</td><td>1.925±0.076</td><td>0.799 2</td></tr><tr><td>成活率 Survival rate/%</td><td>98.8±3.3</td><td>98.9±2.3</td><td>99.2±2.5</td><td>98.8±1.7</td><td>98.2±2.8</td><td>100.0±0</td><td>0.593 9</td></tr><tr><td>1~38 日龄 1 to 38 days of age</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日增重 ADG/g</td><td>74.9±2.9</td><td>75.7±3.1</td><td>75.0±2.2</td><td>75.5±2.6</td><td>75.0±2.3</td><td>75.2±2.3</td><td>0.974 9</td></tr><tr><td>平均日采食量 ADFI/g</td><td>119.6±3.7</td><td>119.1±3.8</td><td>118.4±2.6</td><td>119.9±4.0</td><td>119.9±3.4</td><td>119.6±2.9</td><td>0.995 2</td></tr><tr><td>料重比F/G</td><td>1.597±0.025</td><td>1.574±0.018</td><td>1.580±0.029</td><td>1.588±0.017</td><td>1.599±0.011</td><td>1.591±0.018</td><td>0.214 7</td></tr><tr><td>成活率 Survival rate/%</td><td>93.6±5.1</td><td>94.9±4.9</td><td>94.7±5.1</td><td>95.2±4.7</td><td>93.2±4.9</td><td>97.6±3.5</td><td>0.2720</td></tr></table></body></html>
+
+同行数据肩标小写字母不同表示差异显著（ $P { < } 0 . 0 5$ )。下表同。
+
+In the same row, values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ .Thesameasbelow.
+
+# 表3植物精油对肉仔鸡肠道发育及十二指肠绒毛形态的影响
+
+Table 3Effects of plant essential oils on intestinal development and vilus morphologyof duodenum of broilers   
+
+<html><body><table><tr><td colspan="2">项目</td><td colspan="6">组别Groups</td><td>P值</td></tr><tr><td colspan="2">Items</td><td>对照CON</td><td>负对照NC</td><td>EO1</td><td>EO2</td><td>EO3</td><td>EO4</td><td>P-value</td></tr><tr><td colspan="2">22 日龄 22 days of age</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>单位长度重</td><td>十二指肠 Duodenum</td><td>0.40±0.04ab</td><td>0.35±0.04c</td><td>0.37±0.04bc</td><td>0.37±0.04bc</td><td>0.39±0.03abc</td><td>0.42±0.05a</td><td>0.006 6</td></tr><tr><td>Weight of unit length/(g/cm)</td><td>空肠 Jejunum</td><td>0.24±0.02a</td><td>0.22±0.03b</td><td>0.24±0.02a</td><td>0.25±0.02a</td><td>0.24±0.03a</td><td>0.25±0.02a</td><td>0.022 5</td></tr><tr><td></td><td>回肠Ileum</td><td>0.17±0.02</td><td>0.17±0.03</td><td>0.17±0.01</td><td>0.18±0.02</td><td>0.17±0.02</td><td>0.17±0.02</td><td>0.327 1</td></tr><tr><td>相对肠重</td><td>十二指肠 Duodenum</td><td>0.88±0.10</td><td>0.85±0.10</td><td>0.86±0.13</td><td>0.87±0.11</td><td>0.92±0.13</td><td>0.93±0.17</td><td>0.608 3</td></tr><tr><td>Relative weight of small</td><td>空肠Jejunum</td><td>1.54±0.17</td><td>1.43±0.17</td><td>1.51±0.19</td><td>1.56±0.15</td><td>1.65±0.22</td><td>1.56±0.25</td><td>0.156 4</td></tr><tr><td>intestine/%</td><td>回肠Ileum</td><td>1.03±0.10</td><td>1.03±0.22</td><td>0.97±0.11</td><td>1.07±0.13</td><td>1.10±0.18</td><td>1.02±0.14</td><td>0.441 6</td></tr><tr><td rowspan="6">十二指肠 Duodenum</td><td>绒毛高度 Villus</td><td>1 663.1±251.7</td><td>1 693.8±304.2</td><td>1 613.6±382.0</td><td>1 399.6±245.0</td><td>1 540.9±523.9</td><td>1 632.7±418.8</td><td></td></tr><tr><td> height/um</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.418 7</td></tr><tr><td>隐窝深度 Crypt depth/um</td><td>248.5±46.6a</td><td>194.6±34.4b</td><td>205.8±46.5ab</td><td>177.2±48.4b</td><td>200.1±80.0b</td><td>1 93.9±48.4b</td><td>0.046 6</td></tr><tr><td>绒毛高度/隐窝深度</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Villus height/crypt depth</td><td>6.90±1.59</td><td>8.91±2.07</td><td>8.24±2.72</td><td>8.19±1.41</td><td>8.67±3.66</td><td>8.5±1.72</td><td>0.392 0</td></tr><tr><td>39 日龄 39 days of age</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>十二指肠 Duodenum</td><td>0.43±0.09</td><td>0.43±0.06</td><td>0.49±0.08</td><td>0.44±0.05</td><td>0.44±0.06</td><td>0.44±0.04</td><td>0.127 9</td></tr><tr><td>单位长度重</td><td>空肠 Jejunum</td><td>0.31±0.06</td><td>0.29±0.03</td><td>0.31±0.05</td><td>0.31±0.03</td><td>0.29±0.05</td><td>0.32±0.05</td><td>0.435 6</td></tr><tr><td>Weight of unit length/(g/cm)</td><td>回肠Ileum</td><td>0.24±0.03</td><td>0.25±0.04</td><td>0.24±0.03</td><td>0.24±0.04</td><td>0.23±0.03</td><td>0.25±0.03</td><td>0.409 1</td></tr></table></body></html>
+
+<html><body><table><tr><td>相对肠重</td><td>十二指肠 Duodenum</td><td>0.45±0.08</td><td>0.47±0.06</td><td>0.51±0.09</td><td>0.47±0.08</td><td>0.45±0.09</td><td>0.47±0.07</td><td>0.231 2</td></tr><tr><td>Relative weight of small intestine/%</td><td>空肠 Jejunum</td><td>0.90±0.22</td><td>0.9±0.12</td><td>0.91±0.14</td><td>0.87±0.12</td><td>0.84±0.12</td><td>0.91±0.13</td><td>0.7511</td></tr><tr><td rowspan="4">十二指肠 Duodenum</td><td>回肠 Ileum</td><td>0.69±0.10</td><td>0.72±0.15</td><td>0.71±0.13</td><td>0.69±0.13</td><td>0.66±0.1</td><td>0.71±0.13</td><td>0.843 0</td></tr><tr><td>绒毛高度 Villus height/μm</td><td>1 219.9±291.1</td><td>1 461.7±302.4</td><td>1 528.7±264.4</td><td>1 419.9±312.8</td><td>1 521.6±273.2</td><td>1 328.6±174.9</td><td>0.0753</td></tr><tr><td>隐窝深度 Crypt depth/um</td><td>189.4±55.8</td><td>203.3±66.7</td><td>169.7±53.9</td><td>178.5±66.0</td><td>207.4±57.6</td><td>172.3±53.6</td><td>0.515 0</td></tr><tr><td>绒毛高度/隐窝深度 Villus heigh/crypt depth</td><td>6.84±1.83</td><td>7.69±2.04</td><td>9.74±3.15</td><td>8.75±3.16</td><td>7.91±2.53</td><td>8.52±3.18</td><td>0.210 4</td></tr></table></body></html>
+
+# 表 4植物精油对肉仔鸡免疫器官指数的影响
+
+Table 4Effects of plant essential oils on immune organ indexes of broilers %   
+表5植物精油对肉仔鸡屠宰性能的影响  
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="6">组别Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>对照CON</td><td>负对照NC</td><td>EO1</td><td>EO2</td><td>EO3</td><td>EO4</td></tr><tr><td>22日龄 22 days of age</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>脾脏指数 Spleen index</td><td>0.90±0.30</td><td>0.87±0.30</td><td>0.83±0.20</td><td>0.93±0.31</td><td>0.91±0.17</td><td>0.97±0.19</td><td>0.815 8</td></tr><tr><td>法氏囊指数 Bursa of Fabricius index</td><td>2.08±0.42</td><td>1.87±0.43</td><td>2.03±0.57</td><td>2.11±0.43</td><td>2.10±0.41</td><td>2.22±0.62</td><td>0.634 7</td></tr><tr><td>39 日龄 39 days of age</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>脾脏指数 Spleen index</td><td>1.39±0.33</td><td>1.48±0.42</td><td>1.34±0.30</td><td>1.44±0.43</td><td>1.42±0.42</td><td>1.40±0.31</td><td>0.934 1</td></tr><tr><td>法氏囊指数 Bursa of Fabricius index</td><td>1.07±0.52</td><td>1.12±0.46</td><td>1.19±0.71</td><td>0.94±0.28</td><td>1.04±0.48</td><td>0.97±0.41</td><td>0.718 2</td></tr></table></body></html>
+
+%
+
+Table 5Effects of plant essential oils on slaughter performance of broilers   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="6">组别 Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>对照CON</td><td>负对照NC</td><td>E01</td><td>EO2</td><td>EO3</td><td>EO4</td></tr><tr><td>胴体出成率 Carcass yield</td><td>73.16±2.02</td><td>73.02±2.20</td><td>73.16±2.15</td><td>72.52±1.03</td><td>73.99±1.78</td><td>73.46±1.74</td><td>0.389 7</td></tr><tr><td>胸肌率Breast yield</td><td>21.16±1.04</td><td>20.88±1.39</td><td>21.67±1.70</td><td>20.89±1.02</td><td>21.33±1.52</td><td>21.31±1.17</td><td>0.554 1</td></tr><tr><td>腿肌率Thigh yield</td><td>23.85±0.73</td><td>23.65±0.89</td><td>23.54±1.03</td><td>23.63±0.84</td><td>24.03±0.98</td><td>23.78±1.06</td><td>0.723 5</td></tr><tr><td>翅重率Wing yield</td><td>7.33±0.30</td><td>7.32±0.36</td><td>7.27±0.31</td><td>7.26±0.32</td><td>7.37±0.20</td><td>7.27±0.29</td><td>0.896 1</td></tr><tr><td>腹脂率Abdominal fat yield</td><td>1.38±0.33</td><td>1.57±0.33</td><td>1.52±0.31</td><td>1.51±0.47</td><td>1.31±0.20</td><td>1.41±0.39</td><td>0.290 4</td></tr></table></body></html>

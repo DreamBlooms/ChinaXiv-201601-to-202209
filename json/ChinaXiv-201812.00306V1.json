@@ -1,0 +1,381 @@
+[
+    {
+        "type": "text",
+        "text": "刘明」伍树松」方洛云²郭　丹 贺建华1\\*（1.湖南农业大学动物科学技术学院，长沙 410128；2.北京农学院动物科学技术学院，北京102206；3.北京中农弘科生物技术有限公司，北京102206)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：原花青素是植物中广泛存在的一大类多酚化合物的总称，具有超强的抗氧化能力，是目前国际上公认的清除机体自由基最有效的天然抗氧化剂。已有的体内外试验表明，原花青素在改善机体功能方面具有广阔的应用前景，如能够减少炎症、改善氧化应激、抗癌和调节免疫等。本文就原花青素的化学结构、原料来源、分离提取方法、生物学功能，及其在畜禽生产中的应用现状等进行综述。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：原花青素；生物学功能；抗氧化；免疫；畜禽生产中图分类号：TQ28；S816 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "氧化应激是畜禽生产中所面临的主要问题之一，能引起蛋白质、核酸、脂质等生物大分子物质的结构和生理功能发生改变，导致动物机体代谢紊乱、生长发育受阻和抗病能力减弱，进而降低畜禽生产性能和畜产品品质。因此，有效的抗氧化应激措施对改善动物健康水平，提高畜禽生产效益意义重大。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "原花青素广泛存在于水果、蔬菜、坚果、种子、花和部分植物树皮中，是一类以多羟基黄烷-3-醇（如儿茶素和表儿茶素）为单元的低聚或多聚形式存在的酚类化合物[1]。原花青素的酚羟基结构，特别是邻苯二酚或邻苯三酚中的邻位羟基很容易被氧化成醌类结构，从而消耗氧，使其对超氧阴离子、活性氧、羟自由基等氧自由基具有很强的捕获能力，是一种很好的氧自由基清除剂和脂质过氧化抑制剂，是目前国际上公认的清除机体自由基最有效的天然抗氧化剂[2]。早在1997年，就有试验证明原花青素是比维生素C和维生素E更为有效的氧自由基清除剂，其抗氧化能力是维生素E的50倍、维生素C的20倍[3]。近年来大量研究表明，原花青素不仅是一种有效的抗氧化剂，而且具有调节免疫[4]、抗炎[5]和影响血浆褪黑素水平及下丘脑时钟基因表达等功效，在改善人体和动物健康方面具有非常广阔的应用前景，因此其在营养和医疗保健等领域越来越受到关注。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1原花青素的化学结构和聚合度",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 原花青素的化学结构",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "原花青素是植物中最丰富的多酚化合物之一，属于类黄酮物质。在结构上，原花青素是由不同数量的（+）-儿茶素或（-）-表儿茶素结合而成，如葡萄籽原花青素，其化学结构见图1[7]。较为简单的原花青素是儿茶素、表儿茶素、或儿茶素与表儿茶素形成的二聚体，此外还有多聚体。按聚合度的大小，通常将二聚体至五聚体称为低聚原花青素(oligomericproanthocyanidins,OPC），将五聚体以上的称为高聚原花青素（polymericproanthocyanidins,PPC)。一般而言，原花青素的平均聚合度在3\\~11之间[8]，但通过液相色谱-质谱联用分析发现，苹果酒提取物中原花青素的聚合度可高达17[9]。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/0b8af0b8b33e1cc9187d046c4b54cdb7f3928b6d76c9fe5545a34c45ec4179ff.jpg",
+        "img_caption": [
+            "图1　葡萄籽原花青素的化学结构",
+            "Fig.1The chemical structure of grape seed proanthocyanidins[7] "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2聚合度对原花青素生物活性的影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究表明，富含原花青素的食物或者原花青素单体对心血管疾病和癌症均有较好的预防效果，且作用效果受原花青素在肠道吸收的影响[]。而原花青素的吸收取决于其聚合度的大小，在一些体外研究中发现，只有原花青素二聚体和三聚体能被肠上皮细胞吸收，而平均聚合度为7的原花青素多聚体则无法被吸收[10]。对儿茶素和原花青素的抗氧化性能进行比较研究发现，原花青素的抗氧化性能在油相中随聚合度增加而降低，在水相中随聚合度的增加先增加后下降，三聚体的抗氧化性能最强[11]。此外，原花青素聚合物可被结肠微生物降解为低分子质量的化合物，随后被吸收，例如，原花青素二聚体和表儿茶素能够被降解为酚酸和非酚酸醛芳香族化合物代谢物[12-13]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2原花青素的原料来源及分离提取方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 原花青素的原料来源",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "原花青素是存在于植物中的一大类多酚化合物的总称，其来源广泛，水果、蔬菜、种子、坚果、花和树皮均可作为分离提取原花青素的原料来源。目前研究最多的为葡萄籽原花青素。葡萄籽作为葡萄汁和葡萄酒工业生产的副产品，含 $60 \\% \\sim 7 0 \\%$ 的多酚类物质，其中含有大量的由单体儿茶素或表儿茶素构成的二聚体、三聚体和低聚物形式的原花青素[14-15]。这些葡萄籽原花青素已被证实具有抗氧化、抗诱变、抗炎和抗癌等性能[7,16-19]。此外，松树皮也是提取制备原花青素的优质原料来源。吴杰等[20]研究比较了马尾松、湿地松、华南五针松、黄山松、金钱松和加勒比松等6个不同品种松树皮的活性物质含量，结果发现，不同品种松树皮活性物质含量虽差异显著，但均含有原花青素，其中，马尾松树皮的总多酚、总黄酮和原花青素含量最高，原花青素含量达到了 $3 4 . 8 \\mathrm { m g / k g }$ ，占总多酚含量的 $30 \\%$ 以上。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2原花青素的分离提取方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "原花青素的分离和提取方法有很多，常用的方法包括：有机溶剂萃取法、膜过滤法、色谱法、双水相萃取法、大孔树脂吸附法和高效液相层析法等[21-22]。有机溶剂萃取法常用乙醇、甲醇、丙酮或几种溶剂的混合溶液，该方法效率高，但废液排放对环境污染严重，尤其是甲醇和丙酮有毒，限制了其应用。膜过滤法是以选择性膜进行分离、提纯或浓缩的技术，过程中无需加热，活性物质损失少，然而，随着分离时间的延长，造成膜的污染和堵塞，需要定期进行清洗或多种膜串联使用。双水相萃取法在提取原花青素的同时，对样品有初步纯化的作用，条件温和，活性物质损失少，但此法存在分离时间长、单次分离效率不高等缺点，限制了其工业化应用。色谱法和高效液相层析法分离效率高、选择性好、操作自动化，但仪器成本高，分离成本及日常维护费用贵。大孔树脂吸附法具有选择性好、吸附量大、容易再生及解析速率快和方便操作等优点[23]，因此广泛应用于天然产物的分离。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3原花青素的主要生物学功能",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 抗氧化作用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "原花青素的多种生物学功能均可归因于它的强抗氧化作用，其抗氧化性能主要体现在以下4个方面：1）原花青素可直接清除活性氧及活性氮，也可以增加线粒体膜电位和细胞氧消耗，减少氧自由基生成，直接清除自由基和终止氧化反应[24]。有研究报道，碧萝芷（一种法国沿海松树皮的水提取物)表现出非常高的清除自由基能力，主要原因是其含有高达 $8 5 \\%$ 的原花青素[25]。在已有的大量关于原花青素清除1,1-二苯基苦基苯肼自由基（DPPH·）、2,2-联氮-二(3-乙基-苯并噻唑-6-磺酸)二铵盐阳离子自由基（ABTS+·)、超氧阴离子自由基和羟自由基的研究中，部分研究表明，在原花青素的苯环3号位上引入没食子酸，其清除自由基的能力显著增强，而将3号位糖基化后则降低其清除自由基的能力[1]。原花青素清除自由基的能力与其聚合度密切相关，有研究表明，聚合度达到3时将增加其自由基清除活性，但聚合度进一步增加反而会降低其自由基清除活性[1,25]。2）原花青素可通过螯合金属离子发挥抗氧化作用。研究表明，茶叶和红酒中大部分多酚类物质均能够抑制非血红素铁的吸收[8]。然而，在小鼠模型中发现，茶的摄入并不会影响铁的吸收，除非茶和铁同时摄入[26]。因此，原花青素在体内是否先络合铁，进而抑制芬顿反应，保护肠道抵抗氧化损伤？摄入原花青素是否会对机体内铁储备造成负面影响？以上关于原花青素与铁在体内的互作问题还需要进一步深入研究。3）原花青素还具有增强体内抗氧化酶活性的作用，如提高超氧化物歧化酶、过氧化氢酶、谷胱甘肽过氧化物酶和谷胱甘肽还原酶等酶的活性。秦胜利[27]报道，原花青素显著提高了大鼠脑组织中超氧化物歧化酶和谷胱甘肽过氧化物酶的活性，进而提高了大鼠的抗氧化能力。4）原花青素还能循环再生其他内源性抗氧化剂，如维生素C、谷胱甘肽、辅酶Q（泛醌）和维生素E[28]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2抗癌作用  \n癌症的发生与持续氧化应激导致的慢性炎症有关，因此，具有强抗氧化活性的物质是开发抗癌药物的研究热点。早在1998 年，Joshi[29]就证明了 $2 5 \\mathrm { m g / L }$ 的葡萄籽原花青素能诱导人类乳腺瘤细胞MCF-7、人类肺癌细胞A-427、人类胃腺癌细胞CRL1739 和慢性骨髓白血病细胞K562 的凋亡。  \n最近，Zhu 等[30]研究发现，高梁原花青素具有显著防止HepG2癌细胞扩散和抑制其生长的作用，且对细胞内信号通路分析表明，原花青素上调了磷酸化 ${ \\boldsymbol { 5 } } ^ { \\prime }$ -腺苷酸活化蛋白激酶α,并下调了磷酸化细胞外调节蛋白激酶1/2(extracelllar regulated protein kinases 1/2,ERK1/2)和 p38 丝裂原活化蛋白激酶(p38 mitogen-activated protein kinase,p38 MAPK)的水平。Liu 等[31]同样也报道，马尾松树皮原花青素显著抑制了卵巢癌细胞的生长，且存在剂量依赖性。其潜在机制可能与线粒体膜电位丢失、抗凋亡蛋白 B淋巴细胞瘤-2基因(B-cell lymphoma-2,bcl-2)的下调和含半胱氨酸的天冬氨酸蛋白水解酶 3/9(cysteinyl aspartate specific proteinase3/9,Caspase 3/9)的激活有关，这表明马尾松树皮原花青素通过激活线粒体相关凋亡信号途径触发癌细胞的细胞凋亡。马尾松树皮原花青素还可抑制卵巢癌细胞的迁移和侵袭，显著抑制基质金属蛋白酶-9(matrix metallopeptidase-9,MMP-9)的活性和表达，阻断核因子-kB（NF $\\mathbf { \\sigma } _ { \\kappa \\mathrm { B } }$ ）的活性以及 ERK1/2 和 p38MAPK 的激活[31]。  \n此外，原花青素可以阻止促癌因子诱导的癌前病变，例如，原花青素可以有效阻断亚硝",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "胺的合成并清除硝酸盐，避免亚硝酸铵所导致的组织癌变[32]；原花青素可作为白介素-6(interleukin-6,IL-6)的拮抗剂，避免多种刺激因子诱导产生IL-6的促癌效应[33]。原花青素能够有效抑制体外诱导物二油精和对苯二甲酸的促癌作用[34]，且与在抑制肿瘤发生、发展和转移方面具有重要作用的蛋白激酶C的作用相同[35]。以上研究表明，原花青素能抑制癌症的发生和发展，具有被开发为抗癌药物的潜力。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 免疫调节作用",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "原花青素具有调节动物免疫功能的作用，如可有效预防紫外线辐射引起的免疫抑制。研究表明，在小鼠饲粮中添加原花青素可增加白介素-12(interleukin-12,IL-12)的含量[36]和刺激CD8+效应T细胞的分化[37]，从而抑制紫外线辐射造成的免疫抑制作用。虽然有关原花青素发挥这些作用的机制尚未完全阐明，但根据DNA损伤导致了紫外线诱导的树突状细胞耐受性形成的报道[38]，原花青素对紫外线诱导树突状细胞中DNA的损伤修复可能在其改善紫外线诱导的免疫抑制作用中发挥着重要作用。此外，在复发性结肠炎大鼠模型中，灌胃给予不同剂量的原花青素治疗后，大鼠结肠组织中白介素-1β(interleukin-1β,IL-1β)和 IL-6 的含量显著降低，而白介素-4(interleukin-4,IL-4)和白介素-10(interleukin-10,IL-10)的含量显著升高，这表明，原花青素可降低促炎因子的表达，同时提高抗炎因子的表达[5]。本研究团队近期研究结果表明，原花青素等多酚类物质能动态调节炎症细胞因子网络，从而控制体内炎症水平，调节动物机体免疫功能[39-40]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4原花青素在畜禽生产中的研究与应用",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "畜禽生产尤其是规模化养殖中，动物时刻都受到氧化应激的影响。大量研究显示，外界环境的冷应激、热应激、化学药物、致病菌、饲料养分不均衡、变质饲料和辐射等因素均可诱导畜禽机体产生自由基，引起机体的氧化反应[41-43]。正常情况下，机体具有一定的抗氧化能力，但当机体内氧化反应与抗氧化能力平衡被打破时，会导致脂质过氧化并产生过多的氧自由基，损伤畜禽机体细胞、组织和器官，严重影响畜禽的健康水平、生长性能和畜产品品质。例如，Gao 等[44]研究表明，给肉鸡注射地塞米松将导致肉鸡肌肉脂质过氧化，脂肪酸饱",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "和度显著提高，肉品质下降。原花青素作为一种有效的清除机体自由基天然抗氧化剂，在缓解畜禽氧化应激和提高生产性能方面效果显著。  \n4.1在猪生产中的研究与应用  \n4.1.1在提高抗氧化能力、降低腹泻率方面的研究与应用  \n近几年来关于原花青素在猪生产中的研究与应用已有不少报道，详见表1。赵娇[45]研究发现，饲粮添加 $1 0 0 ~ \\mathrm { { m g / k g } }$ 葡萄籽原花青素显著提高了仔猪血清和肝脏抗氧化能力，缓解了Diquat诱导的氧化应激及损伤，其效果与 $5 0 \\mathrm { m g / k g }$ 维生素E相当；通过进一步分析信号通路发现，葡萄籽原花青素通过抑制细胞线粒体和内质网中的细胞凋亡信号通路显著降低了肝细胞的凋亡率，从而减少了肝脏损伤。郝瑞荣等[46研究也发现，高梁原花青素显著提高了断奶仔猪血清中抗氧化酶活性，增强了仔猪的抗氧化能力，从而减少了腹泻率的发生。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2.1 在改善生长性能方面的研究与应用",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "宋培霞[47]开展了葡萄籽原花青素与抗生素的对比研究，结果发现饲粮添加 $2 5 0 ~ \\mathrm { m g / k g }$ 葡萄籽原花青素可以降低肠黏膜通透性，提高肠黏膜抗氧化能力，缓解断奶应激所致的腹泻，从而显著改善日增重和料重比，提高断奶仔猪的生长性能，且其促生长和防腹泻效果与抗生素相当。Park 等[48]研究发现，正常生理条件下小猪饲粮中添加100 或 $2 0 0 \\mathrm { m g / k g }$ 原花青素均可显著提高小猪的饲料转化效率，并降低血清中肌酸酐的含量，而在脂多糖(lipopolysaccharide,LPS)诱导的保育猪模型中，饲粮中添加 $4 0 0 \\mathrm { m g / k g }$ 的原花青素显著降低了血小板数，并显著抑制了LPS 导致的血液中 $\\mathrm { I L } \\mathrm { - } 1 \\beta$ 、IL-6 和肿瘤坏死因子 $\\mathbf { \\sigma } \\cdot \\mathbf { a }$ （tumor necrosisfactor-α，TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ ）含量的升高，由此可见，饲粮中添加原花青素可提高猪的饲料转化效率并减少炎症的发生。在不同原花青素添加水平对断奶仔猪影响的研究中， $7 0 \\mathrm { m g / k g }$ 的葡萄籽原花青素显著提高了肠道胰蛋白酶、脂肪酶和淀粉酶的活性，有利于营养物质的吸收利用，同时还提高了血液中白细胞数、红细胞数和血红蛋白含量，但对内脏器官指数没有显著影响[49]。此外，还有研究指出葡萄籽原花青素可作为断奶仔猪的免疫调节剂显著改善断奶仔猪的生长性能[50]，但目前还缺乏相关机制研究和后续推广应用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1.3在猪体内的吸收及代谢研究",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "已有研究表明，原花青素（研究主要集中在葡萄籽原花青素上）在提高猪生长性能、预防腹泻、缓解氧化损伤、降低炎症和调节免疫等方面均具有积极作用，由于原花青素纯度的不同,在猪饲粮中有效添加量范围为 $7 0 { \\sim } 4 0 0 ~ \\mathrm { m g / k g ^ { [ 4 7 - 5 0 ] } }$ 。Bittner 等[51|通过给猪口服 $1 0 0 ~ \\mathrm { { m g / k g } }$ BW的原花青素B4（二聚体）后测定 $4 8 \\mathrm { { h } }$ 内尿液和血浆，研究了原花青素在猪体内的吸收和代谢情况，结果发现，尿液和血浆中均检测出了完整分子的原花青素B4，最大血浆浓度为 $2 . 1 3 ~ \\mathrm { n g / m L }$ ，完整分子的尿液排出量为 $0 . 0 0 8 \\%$ ，除了儿茶素和表儿茶素单体，还检测出了甲基化和共轭的单体代谢物。这表明，原花青素二聚体在猪体内可作为完整的分子被吸收，并且在尿液中排泄，其主要降解产物为儿茶素和表儿茶素单体，并进一步代谢为甲基化物和葡萄糖醛酸化合物。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Table 1Recent main researches and applications of proanthocyanidins in pig production ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/c0e81b81e8099e5d6df108ed8d46378a8732c47ddf69693791b787320cdef1fd.jpg",
+        "table_caption": [
+            "表1近年来原花青素在猪生产中的主要研究与应用"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号 No.</td><td>阶段 Stage</td><td>添加量 Added level/(mg/kg)</td><td>来源 Sources</td><td>作用 Effects</td><td>参考文献 References</td></tr><tr><td rowspan=\"2\">1</td><td>28日龄断</td><td>50或100</td><td>葡萄籽</td><td>显著提高了氧化应激下仔猪的抗氧化能力，缓解了</td><td>[45]</td></tr><tr><td>奶仔猪</td><td></td><td></td><td>肝脏的氧化损伤，降低干细胞凋亡率，以100mg/kg</td><td></td></tr><tr><td rowspan=\"3\">2</td><td></td><td></td><td></td><td>为宜</td><td></td></tr><tr><td>28日龄断</td><td>50、100或150</td><td>高梁</td><td>显著降低了仔猪腹泻率，但对日增重、采食量和料</td><td>[46]</td></tr><tr><td>奶仔猪</td><td></td><td></td><td>重比无显著影响；提高了血清免疫球蛋白G、免疫</td><td></td></tr><tr><td rowspan=\"3\"></td><td></td><td></td><td></td><td>球蛋白M、补体3、补体4和白介素-2的表达水平，</td><td></td></tr><tr><td></td><td></td><td></td><td>并增强了超氧化物歧化酶和谷胱甘肽过氧化物酶的</td><td></td></tr><tr><td></td><td></td><td></td><td>活性，降低了丙二醛的含量</td><td></td></tr><tr><td></td><td>28日龄断</td><td>250</td><td>葡萄籽</td><td>提高仔猪日增重，降低料重比和腹泻率，效果与抗</td><td>[47]</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/05e79d8ee3c0389993bb17654d8babdf50f586000982167ba0cfbd371c6def44.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">奶仔猪</td><td colspan=\"3\">生素相当；改善小肠绒毛形态，提高血清中白介素</td></tr><tr><td></td><td></td><td></td><td></td><td>-1β、白介素-2等的表达水平</td><td></td></tr><tr><td rowspan=\"2\">4</td><td>28日龄断</td><td>40、70或100</td><td>葡萄籽</td><td>提高肠道消化酶活性以及试验后3周白细胞和红细</td><td>[49]</td></tr><tr><td>奶仔猪</td><td></td><td></td><td>胞数，以70mg/kg为宜</td><td></td></tr><tr><td rowspan=\"2\">5</td><td>13kg保</td><td>200或400</td><td>葡萄籽</td><td>在脂多糖炎症模型中，400mg/kg原花青素降低了炎</td><td>[48]</td></tr><tr><td>育猪</td><td></td><td></td><td>性细胞因子白介素-1β、白介素-6和肿瘤坏死因子-α</td><td></td></tr><tr><td rowspan=\"2\">6</td><td></td><td></td><td></td><td>的表达，缓解了炎症</td><td></td></tr><tr><td>19 kg保</td><td>100或200</td><td>葡萄籽</td><td>正常生理条件下，100 或 200 mg/kg 原花青素改善了</td><td>[48]</td></tr><tr><td></td><td>育猪</td><td></td><td></td><td>小猪的饲料转化效率</td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2在家禽生产中的研究与应用",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2.1在肉鸡生产中的研究与应用",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "原花青素在家禽生产中的研究主要集中于改善生长性能、调节脂肪代谢、抗氧化和调节免疫等方面。杨国宇等[52]研究证实含葡萄籽原花青素的复方制剂可以缓解肉鸡热应激，改善肉鸡胴体组成、减少体内脂肪沉积。杨金玉[53]研究了葡萄籽原花青素对肉仔鸡的调控作用及其机理，体外结果表明葡萄籽原花青素对肉仔鸡淋巴细胞增殖具有显著的促进作用，在清除自由基和抑制脂质氧化方面有良好的效果；体内试验表明，饲粮添加 $7 . 5 { \\sim } 1 5 . 0 \\ \\mathrm { m g / k g }$ 的葡萄籽原花青素可显著改善肉仔鸡的生长性能和肠绒毛形态，提高T、B淋巴细胞转化率和血液溶菌酶活性，进而提高肉仔鸡的免疫机能，但当葡萄籽原花青素添加量达到 $3 0 . 0 \\mathrm { m g / k g }$ 时反而会对肉仔鸡的血液代谢产生不利影响。除了葡萄籽原花青素，其他植物来源的原花青素提取物在肉鸡上也有少量的应用研究。Park等[54]研究发现,给肉仔鸡分别灌服5、10 和 $2 0 \\mathrm { m g / k g }$ BW 的松树皮原花青素5周后，显著促进了脾细胞、法氏囊细胞和胸腺细胞的增殖，且显著提高了I型辅助T细胞因子（干扰素-γ）的表达，降低了 $\\mathrm { I I }$ 型辅助T细胞因子（IL-6）的表达，进而提高了肉鸡的免疫机能。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2.1 在蛋鸡生产中的研究与应用",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在蛋鸡方面，研究表明饲粮中添加葡萄籽原花青素改善了产蛋后期蛋鸡的产蛋率，增加了蛋壳厚度，提高了蛋黄和血浆中总超氧化物歧化酶的活性，并降低了血浆和肝脏中丙二醛的含量，改善了蛋鸡的抗氧化能力，以 $5 0 \\mathrm { m g / k g }$ 的添加效果最佳，且优于 $2 0 0 ~ \\mathrm { { m g / k g } }$ 抗氧化剂特丁基对苯二酚的效果[5]。张玉[5比较了叔丁基对苯二酚、茶多酚、维生素E、吡咯喹啉醌和葡萄籽原花青素等5种不同抗氧化剂在蛋鸡中的应用效果，结果发现，茶多酚的总抗氧化能力和清除自由基能力最强，葡萄籽原花青素次之，饲粮添加100 或 $2 0 0 \\mathrm { m g / k g }$ 叔丁基对苯二酚和 $4 0 0 \\mathrm { m g / k g }$ 茶多酚对大豆油和菜籽油的自氧化抑制作用最强，添加 $4 0 0 \\mathrm { m g / k g }$ 茶多酚和 $8 5 \\mathrm { m g / k g }$ 维生素E对产蛋后期蛋鸡蛋黄、肝脏和血浆的抗氧化效果最佳。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.3在其他畜禽生产中的研究与应用",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "除了在猪和家禽上，还有少数关于原花青素在反刍动物和兔生产中应用的报道。奶牛（尤其是泌乳早期奶牛）发生酮病时，机体内氧化反应剧烈，血液中丙二醛和一氧化氮等含量显著升高，谷胱甘肽过氧化物酶、超氧化物歧化酶和过氧化氢酶等活性显著下降，机体抗氧化能力大幅度下降，这就需要注意提高早期泌乳奶牛的抗氧化能力，而泌乳早期添加原花青素能显著增强奶牛血浆中抗氧化酶活性，降低氧化代谢产物和酮体的含量，有效地提高奶牛机体的抗氧化能力[57]。但黄云飞等[58]研究却发现，按体重给泌乳早期奶牛灌服 $2 0 { \\sim } 8 0 \\mathrm { m g / ( k g { \\cdot } d ) }$ 葡萄籽原花青素对奶牛的肝功酶（谷草转氨酶、丙氨酸基转移酶与 $\\gamma \\cdot$ 谷氨酰转肽酶）活性、血浆蛋白（白蛋白、总蛋白和球蛋白）含量和肾功能指标（尿酸和尿素氮含量）均无显著影响。牛彩琴等[59]研究报道，给家兔注射 $6 4 \\mathrm { m g / k g }$ BW 的原花青素显著降低了其动脉血压，并具有剂量效应关系，而左旋硝基精氨酸和甲烯蓝能明显削弱原花青素的降压作用。这表明，原花青素降低家兔动脉血压的作用机制可能与内皮释放的一氧化氮有关。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5小结 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "原花青素是目前国际上公认的清除机体自由基最有效的天然抗氧化剂，具有强抗氧化、抗癌、抗辐射和调节免疫等生物学功能，且其具有天然、无残留、无毒性、不产生耐药性等优势，可作为一种新型饲料添加剂，提高猪、家禽和反刍动物的抗氧化能力和免疫机能，起到改善畜禽生产性能、防治腹泻和提高畜产品品质等效果。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献：   \n[1]YAMAKOSHI J,SAITO M,KATAOKA S,et al.Safety evaluation of proanthocyanidin-rich extract from grape seeds[J].Food and Chemical Toxicology,2002,40(5):599-607.   \n[2] 国植,徐莉.原花青素:具有广阔发展前景的植物药[J].国外医药（植物药分 册）,1996,11(5):196-204.   \n[3] BAGCHI D,GARG A,KROHN R L,et al.Oxygen free radical scavenging abilities of vitamins C and E,and a grape seed proanthocyanidin extract in vitro[J].Reseach Communications in Molecular Pathology and Pharmacology,1997,95(2):179-189.   \n[4]SHARMA S D,KATIYAR S K.Dietary grape seed proanthocyanidins inhibit UVB-induced cyclooxygenase-2 expression and other inflammatory mediators in UVB-exposed skin and skin tumors of SKH-1 hairless mice[J].Pharmaceutical Research,2010,27(6):1092-1102.   \n[5]王艳红,葛斌,杨社华,等.葡萄籽原花青素对复发性结肠炎大鼠结肠组织中细胞因子的影 响[J].中国医院学杂志,2015,35(16):1453-1456.   \n[6] RIBAS-LATREA,DEL BASJ M,BASELGA-ESCUDERO L,et al.Dietary proanthocyanidins modulate melatonin levels in plasma and the expression pattern of clock genes in the hypothalamus of rats[J].Molecular Nutrition & Food Research,2015,59(5):865-878.   \n[7] SONG P X,ZHANG R J,WANG X X,et al.Dietary grape-seed procyanidins decreased post-weaning diarrhea by modulating intestinal permeability and suppressing oxidative stress in rats[J].Journal of Agricultural and Food Chemistry,2011,59(11):6227-6232.   \n[8] SANTOS-BUELGA C,SCALBERTA.Proanthocyanidins and tannin-like compounds-nature,occurrence,dietary intake and effects on nutrition and health[J].Journal of the Science of Food and Agricuture,2000,80(7):1094-1117.   \n[9] GUYOT S,DOCO T,SOUQUET J M,et al.Characterization of highly polymerized procyanidinsinciderapple(Malussylvestris var. kermerrien) skin and pulp[J].Phytochemistry,1997,44(2):351-357.   \n[10] DEPREZ S,MILA I,SCALBERT A.Carbon-14 biolabeling of $( + )$ -catechin and proanthocyanidin oligomers in willow tree cuttings[J].Journal of Agricultural and Food Chemistry,1999,47(10):4219-4230.   \n[11] SPRANGER I,SUN B S,MATEUS A M,et al.Chemical characterization and antioxidant activities of oligomeric and polymeric procyanidin fractions from grape seeds[J].Food Chemistry,2008,108(2):519-532.   \n[12] GROENEWOUD G,HUNDT H K L.The microbial metabolism of condensed $( + )$ catechins by rat-caecal microflora[J].Xenobiotica,1986,16(2):99-107.   \n[13] SCHELINE R R.Handbook of mammalian metabolism of plant compounds[M].Boca Raton:CRC Press,1991.   \n[14] PRIEUR C,RIGAUD J,CHEYNIER V,et al.Oligomeric and polymeric procyanidins from grape seeds[J].Phytochemistry,1994,36(3):781-784.   \n[15] SHI J,YU J,POHORLY J E,et al.Polyphenolicsin grape seeds-biochemistry and functionality[J].Journal of Medicinal Food,2003,6(4):291-299.   \n[16] MANTENASK,KATIYARSK.Grapeseedproanthocyanidinsinhibit UV-radiation-induced oxidative stress and activation of MAPK and NF- $\\boldsymbol { \\kappa } \\mathrm { B }$ signaling in human epidermal keratinocytes[J].Free Radical Biology and Medicine,2006,40(9):1603-1614.   \n[17]MITTAL A,ELMETS C A,KATIYAR S K.Dietary feeding of proanthocyanidins from grape seeds prevents photocarcinogenesis in SKH-1 hairless mice:relationship to decreased fat and lipid peroxidation[J].Carcinogenesis,2003,24(8):1379-1388.   \n[18]NANDAKUMAR V,SINGH T,KATIYAR S K.Multi-targeted prevention and therapy of cancer by proanthocyanidins[J].Cancer Letters,2008,269(2):378-387.   \n[19]SHARMA S D,MEERAN S M,KATIYAR S K.Dietary grape seed proanthocyanidins inhibit UVB-induced oxidative stress and activation of mitogen-activated protein kinases and nuclear factor-kB signaling in in vivo SKH-1 hairlessmice[J].Molecular Cancer Therapeutics,2007,6(3):995-1005.   \n[20]吴杰,关阳,刘跃芹,等.不同品种松树皮活性成分及其提取影响因素[J].广州化 工,2013,41(16):68-71.   \n[21]马井喜.葡萄籽中原花青素的提取工艺研究[J].农业与技术,2012,32(9):22.   \n[22]姚新生.天然药物化学[M].北京:人民卫生出版社,1988:253-273.   \n[23]孙芸,谷文英.硫酸-香草醛法测定葡萄籽原花青素含量[J].食品与发酵工 业,2003,29(9):43-46.   \n[24]YILMAZ Y,TOLEDO R T.Health aspects of functional grape seed constituents[J].Trends in Food Science & Technology,2004,15(9):422-433.   \n[25]SHAHAT A A,COS P,DE BRUYNE T,et al.Antiviral and antioxidant activity of flavonoids and proanthocyanidins from Crataegus sinaica[J].Planta Medica,2002,68(9):539-541. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[26] SOUTH P K,HOUSE W A,MILLER D D.Tea consumption does not affect iron absorption in rats unless tea and iron are consumed together[J].Nutrition Research,1997,17(8):1303-1310. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[27]秦胜利.原花青素对大鼠缺血再灌注损伤脑组织中超氧化物歧化酶、谷胱甘肽过氧化物 酶、丙二醛和过氧化脂质水平的影响[J].新乡医学院学报,2016,33(8):662-663,667.   \n2[8]HAGEN T M,INGERSOLL R T,LYKKESFELDT J,et al.(R)- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -lipoic acid-supplemented old rats have improved mitochondrial function,decreased oxidative damage,and increased metabolic rate[J].The FASEB Journal,1999,13(2):411-418.   \n[29]JOSHI S S.Cytotoxicity of a novel grape seed proanthocyanidins exact against elected human cancer cells[R]//Second International Conference on Natural Antioxidative and Disease.Finland:Helsinki,1998:24-27.   \n[30] ZHU Y Y,SHI Z X,YAO Y,et al.Antioxidant and anti-cancer activitiesof proanthocyanidins-rich extracts from three varieties of sorghum (Sorghum bicolor) bran[J].Food and Agricultural Immunology,2017,28(6):1530-1543.   \n[31] LIU J,BAI J,JIANG G Q,et al.Anti-tumor effect of Pinus massoniana bark proanthocyanidins on ovarian cancer through induction of cell apoptosis and inhibition of cell migration[J].PLoS One,2015,10(11):e0142157.   \n[32]吴春,代丽君,聂芋.原花青素对亚硝化反应的抑制作用研究[J].天然产物研究与开 发,2005,17(2):213-216.   \n[33]戴小波,孙万邦.IL-17免疫调节作用的研究进展[J].检验医学与临床,2011,8(6):732-735.   \n[34] KIM H,KIM J Y,SONG H S,et al.Grape seed proanthocyanidin extract inhibits interleukin-17-induced interleukin-6 production via MAPK pathway in human pulmonary epithelial cels[J].Naunyn-Schmiedeberg's Archives of Pharmaeology,2011,383(6):555-562. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[35]陆茵,孙志广,赵万洲,等.葡萄籽原花青素对蛋白激酶C及鸟氨酸脱羧酶活性的影响[J].山东中医药大学学报,2003,27(5):385-388.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[36] SHARMA S D,KATIYAR S K.Dietary grape-seed proanthocyanidin inhibition of ultravioletB-inducedimmunesuppressionisassociatedwithinductionof IL-12[J].Carcinogenesis,2006,27(1):95-102.   \n[37] VAIDM,SINGH T,LI A N,et al.Proanthocyanidinsinhibit UV-induced immunosuppression through IL-12-dependent stimulation of $\\mathrm { C D 8 ^ { + } }$ effector T cells and inactivation of $\\mathrm { C D 4 ^ { + } }$ T cells[J].Cancer Prevention Research,2011,4(2):238-247.   \n[38] VINK A A,MOODYCLIFFE A M,SHREEDHAR V,et al.The inhibitionof antigen-presenting activity of dendritic cells resulting from UV irradiation of murine skin is restored by in vitro photorepair of cyclobutane pyrimidine dimers[J].Proceedings of the National Academy of Science of the United States of America,1997,94(10):5255-5260.   \n[39]WU S S,YANO S S,CHEN J H,et al.Polyphenols from Lonicera caerulea L.berry inhibit lps-induced inflammation through dual modulation of inflammatory and antioxidant mediators[J].Journal of Agricultural and Food Chemistry,2017,65(25):5133-5141.   \n[40]WU SS,YANO S S,HISANAGA A,et al.Polyphenols from Lonicera caerulea L.berry attnuate experimental nonalcoholic steatohepatitis by inhibiting proinflammatory cytokines productions andlipidperoxidation[J].Molecular Nutrition & Food Research,2017,61(4):1600858,doi:10.1002/mnfr.201600858.   \n[41]李权超,何英强,谭终意,等.湿热应激对小鼠脂质过氧化反应的影响[J].解放军预防医学 杂志,1997,15(5):353-355.   \n[42]王勇杰,姚如永,张海平,等.坛紫菜硫酸多糖对 $^ { 6 0 } \\mathrm { C o }$ 辐射引起的小鼠体内氧化应激的作用 研究[J].中国海洋药物,2004,23(6):32-35. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[43] 蒋守群,蒋宗勇.氧化应激对畜禽肉品质的影响研究综述[J].广东饲料,2011,20(10):42-45.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[44] GAO J,LIN H,WANG X J,et al.Vitamin E supplementation alleviates the oxidative stress inducedbydexamethasonetreatmentandimprovesmeatquality inbroiler chickens[J].Poultry Science,2010,89(2):318-327. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[45]赵娇.葡萄籽原花青素缓解氧化应激仔猪肝脏损伤及可能机制研究[D].硕士学位论文.雅安：四川农业大学,2013.  \n[46]郝瑞荣,高俊杰,王伟伟,等.高梁原花青素对断奶仔猪生长性能和免疫力及抗氧化功能的影响[J].中国畜牧杂志,2015,51(13):66-70.  \n[47]宋培霞.葡萄籽花青素对断奶仔猪生长性能和肠道黏膜屏障作用的研究[D].硕士学位论文.北京:中国农业大学,2014.  \n[48]PARK J C,LEE S H,KONG J K,et al.Effect of dietary supplementation of procyanidin ongrowth performance and immune response in pigs[J].Asian-Australasian Journal of AnimalScience,2014,27(1):131-139.  \n[49]解玲娜,茅婷婷,刘畅,等.葡萄籽原花青素对断奶仔猪消化道酶活、内脏相对重量及血细胞参数的影响[J].北京农学院学报,2012,27(4):13-15.  \n[50]MADDOCK K R,CARROLL J A,BERG F P.Evaluation of the potential role of alpha-lipoicacid with regard to health and performance of weanling pigs[J].Journal of Animal &Veterinary Advances,2003,2(10):554-563.  \n[51]BITTNER K,KEMME T,PETERS K,et al.Systemic absorption and metabolism of dietaryprocyanidin B4 in pigs[J].Molecular Nutrition & Food Research,2014,58(12):2261-2273.  \n[52]杨国宇,惠参军,崔平安,等.功能性饲料添加剂复方制剂对肉鸡生产性能和脂肪代谢的影响[J].河南畜牧兽医,2003,24(6):8-9.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[53]杨金玉.葡萄籽原花青素对球虫感染肉仔鸡的调控作用及机理[D].硕士学位论文.北京:中国农业科学院,2015.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[54] PARK I J,CHA S Y,KANG M,et al.Effect of proanthocyanidin-rich extract from Pinus radiata bark on immune responseofspecific-pathogen-freeWhiteLeghorn chickens[J].Poultry Science,2011,90(5):977-982. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[55]张玉,武书庚,王晶,等.葡萄籽原花青素对产蛋后期蛋鸡生产性能和抗氧化能力的影响[J].动物营养学报,2016,28(4):1129-1136.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[56]张玉.不同抗氧化剂的抗氧化特性及蛋鸡日粮应用效果比较研究[D].硕士学位论文.杨陵：西北农林科技大学，2016",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[57]宿孝奇.酮病奶牛氧化应激特征及原花青素对奶牛氧化应激的影响[D].硕士学位论文.南宁：广西大学,2016.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[58]黄云飞,胡俊菁,毕芳芳,等.葡萄籽提取物原花青素对奶牛肝功能和肾功能的影响[J].黑龙江畜牧兽医,2017(17):62-66,70.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[59]牛彩琴,买文丽,刘红,等.原花青素降低家兔动脉血压的机制研究[J].辽宁中医药大学学报,2009(11):203-205.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Research and Application of Proanthocyanidins in Livestock Production LIU Ming1WU ShusonglFANG Luoyun² GUO Dan³HE Jianhual\\*   \n(1. College of Animal Science and Technology, Hunan Agricultural University, Changsha 410128, China; 2. College of Animal Science and Technology, Beijing University of Agriculture, Beijing   \n102206, China; 3. Beijing China-Agri Hongke Bio-Technology Co.,Ltd.,Beijing 102206, China)   \nAbstract: Proanthocyanidins are a class of polyphenolic compounds widely existing in plants. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "They are known for their strong antioxidant activity,and recognized as the most effective natural antioxidants to scavenge free radicals. Numerous in vitro and in vivo studies have demonstrated that proanthocyanidins have potential applications in improving body function, such as reducing inflammation, improving oxidative stress,anti-cancer and regulating immunity. In this paper, the chemical structure,extraction methods,biological function and current application in livestock production of proanthocyanidins were reviewed. Key words: proanthocyanidins; biological function; antioxidant; immune; livestock production ",
+        "page_idx": 17
+    }
+]

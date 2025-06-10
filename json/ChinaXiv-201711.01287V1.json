@@ -1,0 +1,401 @@
+[
+    {
+        "type": "text",
+        "text": "佳木斯66米深空天线指向标校的自动化实现 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张之栋}，韩雷}，蔡博宇}，岳世磊}，王军}，李俊强'，徐钧²，韩金林²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.西安卫星测控中心佳木斯深空站，黑龙江 佳木斯 154002；2.中国科学院国家天文台，北京 100012)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：天线的指向精度是系统的关键指标，影响任务执行的质量。指向改正和标校是提高精度的基本途径。佳木斯66米深空探测系统现有的指向标校工作需要人为制定计划，手动完成大量宇宙天体目标的跟踪扫描，工作期间要不断重复设置目标、操作天线。设计并完成了一套完整的指向标校自动化软件，能够完成标校计划的自动规划和标校观测计划的自动执行，提高了扫描效率，极大地降低了人工操作和干预程度，解放了人力。该系统使标校目标的观测方位和俯仰更加均匀，使结果用于指向改正模型解算时能更好地提高指向精度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：指向标校；动态规划；自动化",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：TP311.5 文献标识码：A 文章编号：1672-7673(2017)04-0436-07",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由于深空目标距离非常远，要求天线必须具有很高的指向精度[1才能确保对目标的准确捕获及跟踪[2]。当指向精度不准，天线无法对准目标，严重时会对任务执行产生重要影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "因为佳木斯66米深空天线是国内最大的可全方位旋转天线，也是首次设计建造，所以指向精度的提高仍处于摸索阶段，目前用于提高天线指向精度的方法主要从硬件和模型修正两方面解决。由于天线系统对方位测角元件超大空心内径及高精度的要求，硬件方面运用光电编码器作为系统的测角元件，选用的方位光栅原件编码精度达到 $3 ^ { \\prime \\prime }$ ，俯仰光电码盘编码精度达到 $1 ^ { \\prime \\prime }$ 。软件方面通过设置天线标校子系统，通过射电源观测法进行角度标校[3]。以大量已精确测量位置的射电源为基准，通过观测得出天线实际指向的方位俯仰与射电源位置的一系列差异数据，经过数据处理得到误差改正模型[4]，从而修正天线指向精度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "66米天线原有标校系统的修正模型建立所用的射电源数量很少，利用十字扫描观测模式对这些射电源进行观测时，整个标校过程中，需要经过人为制定计划、按照计划完成手动跟踪、判断射电源轨迹、位置偏开、扫描、检查文件记录情况等一系列操作，过程繁琐，观测周期长，对人员长时间操作正确率要求高，导致工作效率低下。同时由于人为制定任务规划时，射电源在天空分布不均匀，使得标校结果不理想，导致长期以来66米天线指向精度没有得到很好的提升。因此，一种自动化程度高、扫描效果好的标校软件显得尤为必要。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文设计的指向标校自动化软件主要包括两部分：自动规划及自动扫描。自动规划主要实现了标校计划的自动制定功能，用户可依据要扫描的天区范围、扫描点的散度、扫描策略等，制定标校计划，并通过软件界面，直观地看到扫描点在天区内的覆盖情况。根据需求，对比不同扫描策略制定计划的优劣，选用适当的计划用作实际观测，同时优化切换天线的时间，提高天线的运行效率。自动扫描主要实现了对标校计划的自动执行，软件读取事先制定的扫描计划，并按照时间符合原则，对扫描计划按序执行，自动完成射电源的跟踪、位置偏开、扫描及扫描文件的生成。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1指向标校原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "天线的指向误差被定义为两个参考坐标系之间的偏差，其中一个参考坐标系是指令位置坐标系，另一个参考坐标系是天线实际响应位置坐标系。天线指向标校的目的是测量在整个天区中，这两个参考坐标系之间的偏差，将偏差量添加到天线的方位指令和俯仰指令中[5]。方位和俯仰偏差值 $\\Delta A$ 和$\\Delta E$ 定义如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta A = \\left( A _ { \\mathrm { o b s e r v e d } } - A _ { \\mathrm { c o m m a n d } } \\right) \\cos \\left( E _ { \\mathrm { o b s e r v e d } } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta E = E _ { \\mathrm { o b s e r v e d } } - E _ { \\mathrm { c o m m a n d } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $A _ { \\mathrm { o b s e r v e d } }$ ， $E _ { \\mathrm { o b s e r v e d } }$ 为当天线实际正对射电源时的观测方位角与俯仰角； $A _ { \\mathrm { c o m m a n d } }$ ， $E _ { \\mathrm { c o m m a n d } }$ 为根据天文历表计算得出某一时刻方位和俯仰的理论值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设选取如图1中的6颗射电源，对每个射电源按照图2中的方法扫描观测，得到射电源理论位置与实际位置的方位偏差 $\\Delta A$ 和俯仰偏差 $\\Delta E$ ，将 $\\Delta A$ ， $\\Delta E$ 代人天线指向误差的数学模型[6]：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta A = C _ { \\mathrm { 1 } } - C _ { \\mathrm { 3 } } \\mathrm { c o s } \\left( C _ { \\mathrm { 4 } } \\right) \\mathrm { t a n } E \\mathrm { c o s } A - C _ { \\mathrm { 3 } } \\mathrm { s i n } \\left( C _ { \\mathrm { 4 } } \\right) \\mathrm { t a n } E \\mathrm { s i n } A + C _ { \\mathrm { 5 } } \\mathrm { t a n } E - C _ { \\mathrm { 6 } } \\mathrm { s e c } E \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta E = C _ { 2 } + C _ { 3 } \\cos ( C _ { 4 } ) \\sin A - C _ { 3 } \\sin ( C _ { 4 } ) \\cos A + C _ { 7 } \\cos E + C _ { 8 } \\cot E \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $A$ 为指向测量的方位； $E$ 为指向测量的俯仰； $\\Delta A$ 为方位指向误差； $\\Delta E$ 为俯仰指向误差。通过对一批射电源的指向误差测量数据 $A$ 、 $E$ 、 $\\Delta A$ 和 $\\Delta E$ 值，用最小二乘法解算得到 $C _ { 1 }$ 至 $C _ { 8 }$ 共8个参数。其中， $C _ { 1 }$ 为方位编码器零点误差； $C _ { 2 }$ 为俯仰编码器零点误差； $C _ { 3 }$ 为方位倾斜误差；（ $\\cdot \\pi / 2 \\ – C _ { 4 } \\$ )为方位倾斜方向的方位坐标； $( \\pi / 2 - C _ { 5 }$ )为方位轴与俯仰轴夹角； $C _ { 6 }$ 为电轴指向偏差； $C _ { 7 }$ 为重力变形； $C _ { 8 }$ 为大气折射。最后将8个误差项装填至天线控制单元的软件中，从而将天线指向的系统误差修正到最小。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5ee8e285fb604b7263e8d0b55baf0a7aa16eb2d80553eeac061e50c74f10114f.jpg",
+        "img_caption": [
+            "图1指向标校时，天线在方位和俯仰扫描 射电源示意图 Fig.1When pointing calibration，an example for antenna azimuth and elevation scanning of radio sources "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f7274e3bf32605b13c1e5c90026378753e7acc5473efd5a53b01754942872f0.jpg",
+        "img_caption": [
+            "图2指向标校扫描时，信号强度随位置变化， 表明天线指向的偏离 Fig.2When scanning of pointing calibration，signal intensity changes with position，indicating the deviation of antenna pointing "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2自动规划软件的实现",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 规划原则 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "依据分层抽样原理，为了得到更加准确、更加具有普适性的指向误差参数，在指向标校规划过程中，需要满足以下原则：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)要进行指向精度标校，首先要对全天区进行大面积扫描，尽量覆盖全天区。通过与国家天文台合作，获得了校准源表，可用于观测的射电源数量由原来的9个增加到现在的78个，从而解决了可用于观测的射电源少的问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)进行指向精度标校时，扫描点尽量在全天区均匀分布。(3)要进行指向精度标校，尽量优化切换天线的时间，在最短的时间内实现对尽量多的射电源的跟踪扫描，提高天线完成标校工作的运行效率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2规划算法设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据规划原则，设计了一种基于天区分块的扫描规划算法。将由天线方位俯仰值度量的天区划分为若干等大小的天区单元，尽可能在每个单元内对一颗标校射电源进行一次十字扫描，算法流程如图3。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用户可根据实际情况，设置包括方位下限 $a z _ { \\mathrm { m i n } }$ 、俯仰下限 $e l _ { \\mathrm { { m i n } } }$ 、方位上限 $a z _ { \\operatorname* { m a x } }$ 、俯仰上限 $e l _ { \\mathrm { { m a x } } }$ 、方位区间$a z _ { \\mathrm { d i f f } }$ 、俯仰区间 $e l _ { \\mathrm { d i f f } }$ 、扫描起始时间 $t _ { \\mathrm { s t a r t } }$ 、扫描结束时间 $t _ { \\mathrm { e n d } }$ 在内的规划参数。软件根据用户设置的参数，将天区划分为 $a z _ { \\mathrm { c o u n t } } \\times e l _ { \\mathrm { c o u n t } }$ 个单元，每个单元大小为 $a z _ { \\mathrm { d i f f } } \\times$ $e l _ { \\mathrm { d i f f } }$ 。其中 $a z _ { \\mathrm { c o u n t } }$ 与 $e l _ { \\mathrm { c o u n t } }$ 可表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\na z _ { _ \\mathrm { c o u n t } } = \\frac { a z _ { _ \\mathrm { m a x } } \\cdot a z _ { _ \\mathrm { m i n } } } { a z _ { \\mathrm { d i f f } } } \\mathrm { ~ , ~ }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne l _ { _ \\mathrm { c o u n t } } = \\frac { e l _ { \\mathrm { m a x } } - e l _ { \\mathrm { m i n } } } { e l _ { \\mathrm { d i f f } } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当射电源在某个单元内完成扫描，即认为该单元已完成覆盖，不再进行扫描。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "规划时，首先利用初始化天区单元算法对天区单元进行初始化，将射电源按照其实际位置填入相应天区单元中，并计算相应单元的评价值。初始化完毕后，根据用户的选星规则对每个单元的评价值进行预处理[7]。处理完毕，利用选星算法选择一颗最优射电源，作为此次扫描目标，并写入计划文件。重复以上步骤直到规划结束。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/37f0d423c3edcdb84a29c63877b0b31f7938f4ba4a0191fb4c706d8095f460da.jpg",
+        "img_caption": [
+            "图3规划算法流程图",
+            "Fig.3Diagram for planning algorithm "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 初始化天区单元模块 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "初始化天区单元模块主要功能为：计算天线从当前位置转向源表中每个射电源时，源的方位俯仰角度及指向的时刻，并根据计算的方位俯仰角度，将源的名称、指向时刻、方位俯仰角度填入相应的天区单元，计算该单元的评价值，算法流程如图4。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "模块首先遍历天区单元，对所有未扫描的单元重置评价值。然后从源表中选择1颗射电源，计算天线自当前位置转至该源时，源的方位俯仰角度，及指向源的时刻，根据方位俯仰角度计算对应天区单元。如果该单元尚未规划，则将源的名称、指向时刻、方位俯仰角度填入该天区单元，并按照下式计算评价值grade:",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng r a d e = s y m b o l \\times \\operatorname* { m a x } \\{ \\mid a z _ { \\scriptscriptstyle \\mathscr { W } } - a z _ { \\scriptscriptstyle \\mathscr { W } } \\neq \\mid , \\quad \\mid e l _ { \\scriptscriptstyle \\mathscr { W } } - e l _ { \\scriptscriptstyle \\mathscr { W } } \\mid \\} \\ : ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathit { s y m b o l } = \\left\\{ \\begin{array} { r l } { 1 , } & { a z _ { \\tt d f f i } - a z _ { \\tt d f f i f j } \\geqslant 0 } \\\\ { - \\mathrm { ~ } 1 , } & { a z _ { \\tt d f f i f } - a z _ { \\tt d f f i f j } < 0 } \\end{array} \\right. .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2选星规则预处理模块",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "预处理模块主要功能为：获取用户选择的选星规则，根据所选规则，对所有未扫描单元的评价值进行预处理，算法流程如图5。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "软件预置了3种选星规则，用户可根据实际需要，选择相应规则，完成预处理。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2. 2.3 选星模块 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "选星模块的主要功能为：根据选星规则预处理算法处理过的各天区单元评价值，选择下一颗要跟踪扫描的射电源，直到计划时间结束或所有天区单元完成扫描，结束选星，算法流程如图6。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/553aa2f2fc3f38952df82763e72536f068a77f8c9500297684644cc2169aa9b8.jpg",
+        "img_caption": [
+            "图5选星规则预处理算法流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d16da17dc037acfe8edfd91f5c9ecbbd5816e591a846f1f3e289d264b6fc635b.jpg",
+        "img_caption": [
+            "Fig.5Diagram for preprocessing for star selection ",
+            "图4初始化天区单元算法流程图 Fig.4Diagram for initialization of a skyunit "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/104831108f256d07e95df17641c3c0eeffd8dc1bd320bac6077dc3e4d2b05144.jpg",
+        "img_caption": [
+            "图6选星算法流程图 Fig.6Diagram for star selection algorithm "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在选星过程中，首先遍历天区单元，依据评价值选择下一颗要跟踪扫描的射电源，然后重复上述步骤，直到完成规划。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 实现界面",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图7为指向标校自动化程序界面图，图8为相同观测时段内，手动制定规划与通过新的规划算法得到的选星效果对比。通过对比可以看出，新的规划算法使得需要扫描的校准源在全天区均匀分布。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "深空测控系统天伺馈分系统标校软件 □□  \n设置（S）天线控制（K）！射电源观测(S）！指向标校（2）！数据计算（G） 帮助指向标校目动化 A  \nUTC 2016.15714:31:38 规划设置 选星原则： 退出方位下限： 0.0 方位上限：360.0 方位刻度： 10.0 起：201640 就近原财LST 2016.157 16:12:30 俯仰下限： 7.0 俯仰上限： 70.0 俯仰刻度： 5.0 止：20161020 制定计划天区分布 待扫描： 扫描中：扫描完毕： 扫描异常：10 43205 206 1211420 目24 3118416173 12230 186 42 8334 20440 一44 107104 12650183 30 213215 12582 12354 187 218219 223 227 232234 99 97 11360 197 239 11484 182 89 88扫描状态 状态监视计划时间 星号 计划位置 当前状态 扫描记录文件 A123 楼 跟踪中 501004 2016-005 3C295 。5 2016050 -31.0-6 2016-0805 1613+3412X7 2016-08-0 1821+3942X -49.08 2016-06-5 1902+3159X 9.90 -67.0-9 201606-5 1902+3159X 功率： -56.131 ><+）>^ 10002016-06-05 F2 19023158 2 ACU通讯： 天伺馈状态： 当前频段： S 读取计划12 2016-000 2023153 方位角度：58.070 方位目标：47.079 位现差：0.00  \n13 □ 停止扫描进度270 0 90 180 270 0 905101520253035404550556065707580859095100 电缆位置： 西 北 东 南 西 北 东1",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9497b30844b9eccae4badc23c027f4e771bd5cf2518522ac186166c988a054f2.jpg",
+        "img_caption": [
+            "14卷",
+            "图7程序界面图",
+            "Fig.7Program interface diagram ",
+            "图8选星实际效果对比图.（a）原有模式选星分布图；（b）新模式选星分布图 Fig.8Comparison of distribution of selected radio sources （a）The original distribution of selected sources；（b）the new distribution of auto-selected sources "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3自动化扫描软件的实现",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "依据扫描计划文件，按照时间符合原则[8]，按序对计划中的射电源进行自动跟踪、预判运动轨迹、位置偏开、扫描、文件生成，算法流程如图9。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "软件可以解析自动规划生成的计划文件，或者第三方提供的约定格式的计划文件，然后按照计划中的射电源表，找到计划中晚于当前时刻的第1个观测目标，开始跟踪，到达预定时刻后，自动完成一系列扫描记录等工作，然后寻找下一个观测目标，重复上述步骤直到观测结束。软件会自动跳过过期的观测目标，保证其他观测目标能够按计划完成。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "我们设计并完成了一套完整的指向标校自动化软件，可以实现标校计划的自动规划和标校观测计划的自动执行，丰富和完善了佳木斯66米深空探测系统标校分系统的功能，提升了标校工作的效率和天线的指向精度。指向精度作为深空探测系统的关键指标，对任务执行的质量起至关重要的作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "经过两个月的实际跟踪验证，本文设计的指向标校自动化软件满足设计需求，一方面提升了标校工作效率，工作周期由7天缩减为2\\~3天，扫描效率在原有基础上提高了4倍，标校过程中的人为操作由数百次减少为3次，降低了指向标校工作对操作人员的知识储备需求，操作人员无需了解射电天文相关知识，甚至无需掌握天线指向标校原理，只需学会简单的软件操作即可，大大降低了工作中指向标校具体操作的难度。另一方面，通过新的规划算法得到校准源在全天区的",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab5f6f3936a775630eede8b60c2e38320d5f2850953ef3aa9724c532e386ebb7.jpg",
+        "img_caption": [
+            "图9自动化扫描算法流程图",
+            "Fig.9Automatic scanning algorithm flow-process diagram "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "分布更加均匀，使结果用于指向改正模型解算时能更好地提高指向精度。目前，通过本系统标校后的天线方位俯仰指向精度均在 $2 0 ^ { \\prime \\prime }$ 左右，精度比原来提高了一倍有余。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] 赵彦，张新锋，施浒立.基于四元数的射电望远镜指向误差分析方法［J].机械科学与技术，2009，28(10)：1359-1363.Zhao Yan, Zhang Xinfeng， Shi Huli. Pointing error analysis of a radio telescope using quaternion[J].Mechanical Science and Technology for Aerospace Engineering，2009，28（10）：1359-1363.  \n[2] 吴伟仁，董光亮.深空测控通信系统工程与技术［M].北京：科学出版社，2013.  \n[3] 叶尚辉，李在贵．天线结构设计［M].西安：西安电子科技大学出版社，1985.  \n[4] 肖明，王娜，刘志勇．大气折射对射电望远镜高精度指向的影响［J］．天文研究与技术，2016，13(1) : 44-51.Xiao Ming，Wang Na，Liu Zhiyong. Atmospheric refractions and radio telescope pointingcorrections[J].Astronomical Research & Technology，2016,13（1）：44-51.  \n[5] 鲁尽义.航天测控系统测角分系统［M].西安：中国电子科技集团第三十九研究所，2008.  \n[6] 喻业钊，韩雷，周爽，等.佳木斯 $6 6 \\mathrm { ~ m ~ }$ 射电望远镜指向精度测量及改进［J].天文研究与技术，2016，13(4)：408-415.Yu Yezhao，Han Lei，Zhou Shuang，et al.A study on measurements and improvements ofpointing accuracy of jiamusi $6 6 \\mathrm { m }$ radio telescope［J].Astronomical Research & Technology,2016，13(4):408-415.  \n[7] 何秋会，刘利利，汪翊鹏，等．南京大学 $6 5 ~ \\mathrm { c m }$ 天文望远镜指向精度的修正研究［J]．南京大学学报：自然科学版，2005，41(4)：365-363.He Qiuhui, Liu Lili，Wang Yipeng，et al. Correction of pointing accuracy of NJU-65cm telescope[J]. Journal of Nanjing University: Natural Sciences，2O05，41(4） : 365-363.  \n[8] 和丽娟，鞠德华，何超，等．云南天文台 $1 . 2 \\mathrm { m }$ 望远镜的圆顶自动化控制系统［J].天文研究与技术，2017，14(1)：87-93.He Lijuan，Ju Dehua，He Chao，et al. The dome auto control system of the $1 . 2 \\mathrm { m }$ telescope atYunnan Observatories ［J]. Astronomical Research & Technology，2017，14(1） : 87-93.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Realization of Automatic Pointing Correction and Calibration for 66m Deep-Space Antenna in Jiamusi ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Zhang Zhidong'，Han Lei¹，Cai Boyu’，Yue Shilei1，Wang Jun', Li Junqiang'，Xu Jun²，Han Jinlin² (1.Jiamusi Deep Space Station，Xi'an Satelite Control Center,Jiamusi1540O2,China,Email：zzd_zhang@yeah.net; 2.National Astronomical Observatories，Chinese Academy of Sciences，Beijing 1Oo0l2,China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract:As the key parameter of the atenna system，the pointing accuracy afcts the quality of the task implementation.A basic way of improving accuracy is to do pointing correction and calibration，which needs plenty of work that must be done manually for the $6 6 \\mathrm { m }$ deep space antenna in Jiamusi，including task planning and tracking scan of a large number of celestial objects. The operation of seting various targets and controling the antenna have to be repeated hundreds of times.To increase the eficiency of targets scaning, and to reduce the manual operations a complete set of automation software for pointing calibration has been designed and developed，which makes it possible for automatic programming and execution of calibration observation planning.The practical results show that the distribution of scanning sources can be more uniform, which helps to improve the accuracy of pointing corrections when applied in pointing corrction model. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Key words：Pointing calibration；Dynamic programming；Automation ",
+        "page_idx": 6
+    }
+]

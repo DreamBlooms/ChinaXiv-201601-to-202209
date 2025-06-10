@@ -1,0 +1,481 @@
+[
+    {
+        "type": "text",
+        "text": "多尺度特征深度复用的显著性目标检测算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周之平，樊斌，盖杉，徐温程(南昌航空大学 信息工程学院，南昌 330063)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对传统显著性目标检测方法在检测不同尺度的多个显著性目标方面的不足，提出了一种多尺度特征深度复用的显著性目标检测算法。网络模型由垂直堆叠的双向密集特征聚合模块和水平堆叠的多分辨率语义互补模块组成。首先，双向密集特征聚合模块基于ResNet骨干网络提取不同分辨率语义特征，然后，依次在top-down 和botom-up 两条通路上进行自适应融合，以获取不同层次多尺度表征特征；最后，通过多分辨率语义互补模块对两个相邻层次的多尺度特征进行融合，以消除不同层次上特征之间的相互串扰，来增强预测结果的一致性。在5个基准数据集上进行的实验结果表明，该方法在 $F _ { m a x }$ ， $S _ { m }$ 、MAE最高能达到0.939、0.921、0.028，且检测速率可达74.6fps，与其他对比算法相比有着更好的检测性能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：显著性目标检测；多尺度特征；双向密集特征聚合；多分辨率语义；深度学习 中图分类号：TP389.1 doi:10.19734/j.issn.1001-3695.2022.01.0033 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Deep multiplexing multi-scale features for salient object detection ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhou Zhiping, Fan Bin, Gai Shan, Xu Wencheng (School of Information Engineering,Nanchang Hangkong University,Nanchang 33oo63,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In viewof the shortcomings oftraditionalsalient target detection methods indetecting multiple salienttargetsat different scales.This paper presents asalient object detection algorithm withdeep multiplexing of multi-scale features.The networkmodelconsists of verticallystacked bidirectional dense feature aggegation modulesand horizontallystacked multiresolution semanticcomplementarymodules.First,thebidirectional dense feature aggregation module extracts semantic features ofdiferent resolutions basedontheResNetbackbone network,andthen performs adaptive fusionon thetop-down and bottom-uppathsin turn toobtain multi-scalerepresentation featuresat diferent levels;The multi-resolutionsemantic complementation module fuses the multi-scale features of two adjacent levels to eliminate the mutual crostalk between featuresatdiferentlevelsand enhancetheconsistencyofpredictionresults.The experimentalresults on5benchmark datasets show that the method can achieve the highest $F _ { m a x }$ $S _ { m }$ ,MAE of 0.939,0.921, 0.028,and the detection rate can reach 74.6 fps, which has better detection performance compared with other comparison algorithms . ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:salientobject detection; multi-scale features; bidirectionaldensefeature aggregation; multi-resolutionsemantic: deep learning ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "显著性目标检测(SOD： Salient Object Detection)是计算机视觉领域的一项关键技术，旨在从输入图像中分割出视觉上最为明显的区域。深度学习技术的兴起促进了SOD 技术的大力发展，并将SOD性能提升到一个新的水平。SOD 已被广泛应用于计算机视觉的多个领域，如图像分割[1]、视觉跟踪[2]、图像质量评估[3]、图像检索[4]、边缘检测[5]等。在基于CNN的SOD模型中，不同层次的特征可以表征显著性对象的不同特性。具体来说，低层语义特征有着显著对象的详细信息，但包含大量噪声，而高级语义特征可帮助网络定位显著对象的位置，但缺乏有关对象的详细信息。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "如何从尺度变化的数据中提取更有效的信息，以及怎么使得预测结果与图像中的显著目标在空间上保持一致，仍然是两个悬而未决的问题。近年来所开展的研究工作专注于设计复杂的网络结构，提取具有强辨识能力的多尺度特征或对多尺度特征进行高效地融合，以满足对不同尺度显著性目标检测的要求。Zhang 等人[提出了一个通用的聚合多级卷积特征的框架，它以完全连接的方式组合来自多层的特征。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hou 等人[7]在整体嵌套边缘检测模型(HED)中引入快捷连接，提出了一种跳层结构，该结构具有一系列从高级特征到低级特征的快捷连接。Liu等人[8]通过选择性地聚合上下文信息来构建全局上下文特征，然后将全局上下文和多尺度局部上下文进行归并来提升效果。Wu 等人[9提出了一种新颖的级联部分解码器框架，该框架丢弃了低层特征以降低深度聚合模型的复杂性，并利用生成的相对精确的注意力图来精炼高层特征。Pang等人[0]提出聚合交互模块，通过相互学习的方式有效地利用相邻层的特征和自适应模块，使网络自适应地提取多尺度信息，以更好地处理尺度的变化。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "此外，为了生成更好的显著性映射图，有必要对多层次的特征进行归并。然而，过度集成不同分辨率的特征，不仅会带来大量的计算开销，还会导致有用特征被稀释，进而使算法性能退化。为此，研究学者提出了多种不同的方案以克服这一问题。Feng 等人[1采用每个编码器块和相应的解码器块构建的注意反馈模块来帮助结合多层次特征。Wei等人[12]采用选择性融合策略，通过元素级乘法操作来融合不同层次的特征以抑制冗余信息，避免不同层次特征之间的相互污染。Qin等人[13]提出了一个两层嵌套的U型结构来集成多层次的深层特征。Chen等人[14]将残差学习引入到HED的体系结构中，在自上而下的路径中使用反向注意力来指导残余显著性学习，引导网络能快速而有效地发现缺失的对象部分和缺损细节。陈等人[15]提出结合中心邻域对比度机制和卷积神经网络，为有效提高多尺度特征的表示能力提供了一种强有力的方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述，如何将CNN主干网络中不同层次的特征有效融合至关重要。该文基于UNet网络模型[16]，提出一种多尺度特征深度复用的显著性目标检测模型(DMMF:deepmultiplexingmulti-scale feature)。该模型中设计了双向密集特征聚合模块(BDA: bidirectional dense aggregation module),在top-down和bottom-up两条通路中对主干网抽取的不同分辨率的CNN特征进行重用，并利用残差连接进行特征增强。通过堆叠多个不同尺度的BDA模块来提取具有多种分辨率语义的多层次特征。结合文献[10]的设计理念，设计了多分辨率语义互补模块(MSC:Multi-resolutionsemanticcomplementmodule)，按照级联方式将其植入到UNet网络的bottom-up通路中，以增强模型对显著性目标的预测能力。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 多尺度特征深度复用网络",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "多尺度特征深度复用的显著性目标检测网络如图1所示。该网络以Resnet50作为主干网络，为了使初始特征更加多样化，提出了一个堆叠的双向密集特征聚合模块对主干网络提取的特征进行全分辨率融合，提取语义更为丰富的多尺度特征。对于获取到的多个层次的多尺度特征，采用级联的多分辨率语义互补模块来保留相邻特征节点中的有用信息，逐级还原显著性目标的语义信息和空间信息。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/24a9ad96d60b3ab13e89a19768998428680a9135b77586d2d5a927539e26e7ad.jpg",
+        "img_caption": [
+            "图1 DMMF网络框架图",
+            "Fig.1DMMF network framework diagram "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1双向密集特征聚合模块 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "双向密集特征聚合模块旨在聚合不同分辨率的特征。形式上，给出多尺度列表特征 $L _ { i n } = \\left( \\begin{array} { c c } { { L _ { i n } ^ { l 1 } \\ , } } & { { L _ { i n } ^ { l 2 } \\ , . . . ) } } \\end{array} \\right)$ ，其中 $L _ { i n } ^ { l i }$ 表示 $l ^ { i }$ 层的特征，该算法的目标是找到一个可以有效聚合不同特征并输出新特征列表的变换 $f : L _ { o u t } = f ( L _ { i n } )$ 。传统的FPN[17]以自顶向下的方式聚合多尺度特征,其本质上受到单向信息流的限制。为了解决这个问题，PANet[18]增加了一个额外的自下而上的路径聚合网络，性能提升的同时带来了更多的参数和计算。NAS-FPN[19]使用神经架构搜索来搜索更好的跨尺度特征网络拓扑，但在搜索过程中需要数千个GPU小时，并且发现的网络不规则且难以解释或修改。EfficientDet[20]通过对PANet进行化简构建了BiFPN模块，并通过多次堆叠BiFPN以更有效地获得更具鉴别性的多尺度特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "双向密集特征聚合模块通过双向(自顶向下和自底向上)跨尺度连接路径进行多尺度特征提取，当融合不同分辨率的特征时，由于输入特征具有不同的分辨率，它们通常对输出特征的贡献不均等,该算法通过一个简单的注意力机制为每个输入增加一个额外的权重，让网络学习每个输入特征的重要性。然而，不同于简单的级联操作，该算法通过堆叠不断减小规模的双向密集特征聚合模块来实现更高级别的特征融合，以更少量的参数达到相同甚至更优的效果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "BDA模块的结构如图1所示。以图2的BDA5为例，下标\"5\"表示该模块有5个输入信号，对应于Resnet50网络5个 stage上提取到的基本特征 $a _ { 1 } \\sim a _ { s }$ 。首先， $\\scriptstyle a _ { s }$ 通过上采样与 $a _ { 4 }$ 将进行逐元素线性加权操作以及 $3 \\times 3$ 卷积(含批归一化层、Relu 激活函数层)操作获得 $m _ { 4 }$ ，同理自底向上依次获得$m _ { 3 }$ ， $m _ { 2 }$ 以及 $b _ { \\mathrm { { l } } }$ 。然后， $b _ { 1 }$ 下采样与 $m _ { 2 }$ 、 $\\left| a _ { 2 } \\right.$ 进行逐元素线性加权操作以及 $3 \\times 3$ 卷积(含批归一化层、Relu 激活函数层)获得 $b _ { 2 }$ ，同理自顶向下的依次获得 $b _ { 3 }$ ， $b _ { 4 }$ ， $b _ { 5 }$ 。最后，将 $b _ { 5 }$ 作为 MSC 的输入之一 $\\boldsymbol { c } _ { 5 }$ ，同时 $b _ { \\mathrm { { l } } }$ ， $b _ { 2 }$ ， $b _ { 3 }$ ， $b _ { 4 }$ 作为模块$\\mathrm { \\ B D A } _ { 4 }$ 的输入。与 $\\mathrm { B D A } _ { 5 }$ 类似， $\\mathrm { \\ B D A } _ { 4 }$ 将得到 $b _ { 1 }$ ， $b _ { 2 }$ ， $b _ { 3 }$ ， $b _ { 4 }$ 四个输出， $b _ { 4 }$ 将作为 MSC 的输入之一 $\\mathbf { \\boldsymbol { c } } _ { 4 }$ ，同时 $b _ { 1 }$ ， $b _ { 2 }$ ， $b _ { 3 }$ 作为模块BDA的输入，最终BDA3的三个输出作为MSC的输入 $c _ { 1 }$ ， $\\boldsymbol { c } _ { 2 }$ ， $\\boldsymbol { c } _ { 3 }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7c2924c7d3eca5ab6bbf671c91f601d9dcbc1f83f7975a606278839776d73bc.jpg",
+        "img_caption": [
+            "图2双向密集特征聚合模块",
+            "Fig.2Bidirectional dense aggregation module "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图2中的 $\\mathrm { B D A } _ { 5 }$ 的融合过程如式(1)和(2)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { k } = \\left\\{ \\begin{array} { c l } { 0 } & { k = 1 , 5 } \\\\ { c o n \\nu \\big ( w _ { 1 } \\times a _ { k } + w _ { 2 } \\times u p \\big ( a _ { k + 1 } \\big ) \\big ) } & { 1 < k < 5 } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nb _ { k } = \\left\\{ \\begin{array} { c l } { { c o n \\nu \\big ( w _ { 1 } \\times a _ { k } + w _ { 2 } \\times u p \\big ( m _ { k + 1 } \\big ) \\big ) } } & { { k = 1 } } \\\\ { { c o n \\nu \\big ( w _ { 1 } \\times a _ { k } + w _ { 2 } \\times m _ { k } + w _ { 3 } \\times d o w n \\big ( b _ { k - 1 } \\big ) \\big ) } } & { { 1 < k < 5 } } \\\\ { { c o n \\nu \\big ( w _ { 1 } \\times a _ { k } + w _ { 3 } \\times d o w n \\big ( b _ { k - 1 } \\big ) \\big ) } } & { { k = 5 } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中: $m _ { k }$ ， $k { = } 2 { \\sim } \\mathrm { K }$ 是自上而下路径的中间特征，conv为对特征进行 $3 { \\times } 3$ 卷积，再加上批归一化(Batch Normalization)和Relu 激活函数的一组操作， $w _ { i }$ 为特征融合阶段给每个输入所分配的权重系数， $w _ { i }$ 初始化为(0,1)的随机数，并利用Laplace平滑进行归一化处理: $w _ { i } : = ( w + \\varepsilon ) / \\sum _ { i } ( w + \\varepsilon ) , i = 1 , 2 , 3$ ，其中 $\\scriptstyle { \\varepsilon = 1 \\times 1 0 ^ { - 4 } }$ ，用于避免数值计算的不稳定。网络每次训练后更新 $w _ { i }$ ，使用Relu函数保证其非负，并通过Laplace平滑重新归一化处理。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2多分辨率语义互补模块 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "堆叠的双向密集特征聚合模块用于从骨干网络提取不同层次的有效的多尺度特征，而多分辨率语义互补模块则是让相邻层次的多尺度特征在空间、语义上相互补充，不断增强适合当前分辨率的特征，削弱不合适的特征，进而找到适合当前输入信息的特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自上而下经过 $\\mathrm { B D A } _ { 5 } { \\sim } \\mathrm { B D A } _ { 3 }$ 获得了一组最终地多尺度语义特征 $c _ { 1 }$ ， $\\boldsymbol { c } _ { 2 }$ ， $\\boldsymbol { c } _ { 3 }$ ， $ { c _ { 4 } }$ ， $\\boldsymbol { c } _ { s }$ 分辨率依次为 $3 2 0 \\times 3 2 0$ ，$1 6 0 \\times 1 6 0$ ， $8 0 \\times 8 0$ ， $4 0 \\times 4 0$ ， $2 0 \\times 2 0$ ，这些特征都含有来自不同尺度目标的语义信息，但各个语义成分的重要程度存在差异。如果简单地将这些特征进行线性融合会造成特征之间的相互干扰，弱化那些具有较强鉴别能力的特征，进而影响算法的检测性能。为此，提出多分辨率语义互补模块，以充分挖掘各个粒度特征中的有用信息，形成优势互补。MSC的详细情况如图3。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/073f1154d665eb8ee0c0e28eb59bcf4e10d14596087823402dde8e86f5f70128.jpg",
+        "img_caption": [
+            "图3多分辨率语义互补模块"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Multi-resolution semantic complement module ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MSC 的详可以表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { g } = c o n \\nu ( c o n c a t ( f _ { 1 } , f _ { 2 } ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { 1 } ^ { * } = f _ { 1 } \\oplus f _ { g }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { 2 } ^ { * } = f _ { 2 } \\oplus f _ { g }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { c } = c o n \\nu ( f _ { 1 } ^ { * } , f _ { 2 } ^ { * } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $f _ { 1 }$ ， $f _ { 2 }$ 表示相邻特征，conv 表示带批量归一化层和ReLU激活函数的空洞卷积， $\\oplus$ 为逐元素加法， $\\otimes$ 为逐元素乘法。MSC首先通过concat操作将输入特征进行合并，然后通过rate为1的空洞卷积，同时，进行归一化和relu操作，这样就获取到了融合了两个输入特征的全局语义信息。然后通过逐元素相加将得到的全局语义信息添加回输入特征，来分别对输入特征进行空间和语义上的补强。最后通过逐元素乘法，并加入自适应权重，来有选择的继承两组从空间和语义上得到补强的特征。这样，MSC就实现了让输入特征继承重要特性，同时丢弃更多噪声的目标。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 实验和结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1数据集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "训练数据集：新方法在DUTS-TR上进行网络训练，DUTS-TR是DUTS数据集的一个子集，总共包含10553幅图像。它是目前规模最大和最常用的显著性目标检测训练数据集。为了确保模型的收敛，设置训练的轮次为80，采用SGD优化器，初始学习率为 $1 \\times 1 0 ^ { - 3 }$ ，权重衰减为 $5 \\times 1 0 ^ { - 4 }$ ，其中，动量项系数为0.9。所有实验均在Linux16.04操作系统，GPU(GTXTITAN-XP)，Pytorch1.0.0，cuda9.0环境下完成。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "测试数据集：使用6个常用的基准数据集对提出的方法进行评估，包括：DUT-OMRON[21]，DUTS-TE[22]，HKU-",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "IS[23]，ECSSD[24]，pascal-S[25]。DUT-OMRON 包括 5168幅图像，其中大多数包含一个或两个结构复杂的前景目标。DUTS数据集由DUTS-TR和DUTS-TE两部分组成。因为算法训练时使用了DUTS-TR数据集，为此选择包含5019幅图像的DUTS-TE 进行测试。HKU-IS包含4447幅图像，其中包含多个与图像边界相交的不连续显著对象。ECSSD包含1000幅结构复杂的图像，多数图像包含尺度较大的前景目标。PASCAL-S包含850幅图片，这些图像都有着复杂的前景对象和杂乱的背景。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2评估指标",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了更全面地进行实验评价，该算法选择了F-measure,平均绝对精度(MAE)，S-measure 三个广泛使用的评价指标来对算法的性能进行评价。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "F-measure 是综合Precision 和Recall的力加权调和平均值，定义如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { \\beta } = \\frac { ( 1 + \\beta ^ { 2 } ) \\times \\mathrm { P r } e c i s i o n \\times \\mathrm { R e } c a l l } { \\beta ^ { 2 } \\times \\mathrm { P r } e c i s i o n \\times \\mathrm { R e } c a l l }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\beta ^ { 2 }$ 一般设置为0.3，F-measure越大表示预测结果越准确。该算法选择所有阈值计算出的最大值作为评价结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "平均绝对误差(MAE)是计算预测的显著图与真值图之间的平均绝对误差，计算公式如下所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM A E = \\frac { 1 } { H \\times W } { \\sum } _ { x = 1 } ^ { H } { \\sum } _ { y = 1 } ^ { \\mathrm { w } } | P ( x , y ) - G ( x , y ) |\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中，P代表预测的显著图，G 代表对应的真值图。 $( \\mathrm { H } , \\mathrm { W } )$ 代表图像的大小， $( \\mathbf { x } , \\mathbf { y } )$ 代表像素点的对应坐标。MAE越小表示预测结果越好。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "S-measure 是通过度量目标感知(object-aware) $S _ { o }$ 和区域感知(region-aware) $S _ { r }$ 的结构相似性来评估预测的显著图和真值图之间的结构相似性的评价指标，计算公式如下所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS = \\alpha \\times S _ { o } + ( 1 - \\alpha ) S _ { j }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\alpha$ 通常设置为0.5,S-measure 越大，表示检测的显著图与真值图在空间结构上越相似。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3性能分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在DUTS-TE、DUT-OMRON、HKU-IS、ECSSD和PASCAL5个显著性检测数据集上，使用上述评价指标，将新提出的方法与目前最先进的11种方法进行比较，结果如表1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/0336f1c646cbe0e86df04539f46533d3e20ec7e4b4259dd71ccf9f228558897a.jpg",
+        "table_caption": [
+            "表1不同算法在测试集上 $F _ { \\mathrm { m a x } }$ ， $S _ { m }$ ，MAE指标的对比",
+            "Tab.1 Comparison of $F _ { \\mathrm { m a x } }$ ， $S _ { m }$ ,MAE indicators of different algorithms on the test set "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Approachs</td><td colspan=\"3\">DUTS-TE</td><td colspan=\"3\">DUT-OMRON</td><td colspan=\"3\">HKU-IS</td><td colspan=\"3\">ECSSD</td><td colspan=\"3\">PASCAL_S</td></tr><tr><td>Fmax↑</td><td>Sm↑</td><td>MAE↓</td><td>Fmax↑</td><td>Sm↑</td><td>MAE↓</td><td>Fmax↑</td><td>Sm↑</td><td>MAE↓</td><td>Fmax↑</td><td>Sm↑</td><td>MAE↓</td><td>Fmax↑</td><td>Sm↑</td><td>MAE↓</td></tr><tr><td>MWS[26]</td><td>0.789</td><td>0.792</td><td>0.106</td><td>0.718</td><td>0.751</td><td>0.114</td><td>0.841</td><td>0.820</td><td>0.072</td><td>0.878</td><td>0.866</td><td>0.096</td><td>0.790</td><td>0.746</td><td>0.134</td></tr><tr><td>RAS[14]</td><td>0.831</td><td>0.839</td><td>0.059</td><td>0.787</td><td>0.814</td><td>0.061</td><td>0.913</td><td>0.887</td><td>0.045</td><td>0.921</td><td>0.893</td><td>0.056</td><td>0.838</td><td>0.795</td><td>0.104</td></tr><tr><td>R3Net[27]</td><td>0.833</td><td>0.836</td><td>0.057</td><td>0.795</td><td>0.817</td><td>0.062</td><td>0.915</td><td>0.895</td><td>0.035</td><td>0.934</td><td>0.910</td><td>0.040</td><td>0.846</td><td>0.805</td><td>0.094</td></tr><tr><td>CPD[9]</td><td>0.865</td><td>0.869</td><td>0.046</td><td>0.797</td><td>0.825</td><td>0.056</td><td>0.925</td><td>0.906</td><td>0.034</td><td>0.939</td><td>0.918</td><td>0.037</td><td>0.872</td><td>0.847</td><td>0.072</td></tr><tr><td>AFNet[11]</td><td>0.863</td><td>0.867</td><td>0.043</td><td>0.801</td><td>0.826</td><td>0.057</td><td>0.925</td><td>0.905</td><td>0.036</td><td>0.935</td><td>0.914</td><td>0.042</td><td>0.871</td><td>0.850</td><td>0.071</td></tr><tr><td>PoolNet[28]</td><td>0.880</td><td>0.871</td><td>0.040</td><td>0.808</td><td>0.836</td><td>0.056</td><td>0.932</td><td>0.917</td><td>0.033</td><td>0.944</td><td>0.921</td><td>0.039</td><td>0.865</td><td>0.832</td><td>0.075</td></tr><tr><td>BASNet[30]</td><td>0.872</td><td>0.879</td><td>0.040</td><td>0.803</td><td>0.832</td><td>0.059</td><td>0.930</td><td>0.913</td><td>0.032</td><td>0.945</td><td>0.924</td><td>0.035</td><td>0.879</td><td>0.853</td><td>0.070</td></tr><tr><td>EGNet[29]</td><td>0.890</td><td>0.887</td><td>0.039</td><td>0.815</td><td>0.841</td><td>0.053</td><td>0.935</td><td>0.918</td><td>0.031</td><td>0.947</td><td>0.925</td><td>0.037</td><td>0.878</td><td>0.853</td><td>0.075</td></tr><tr><td>U2Net[13]</td><td>0.873</td><td>0.861</td><td>0.044</td><td>0.823</td><td>0.847</td><td>0.054</td><td>0.935</td><td>0.916</td><td>0.031</td><td>0.951</td><td>0.928</td><td>0.033</td><td>0.859</td><td>0.844</td><td>0.074</td></tr><tr><td>F3Net[12]</td><td>0.891</td><td>0.888</td><td>0.035</td><td>0.813</td><td>0.838</td><td>0.053</td><td>0.937</td><td>0.917</td><td>0.028</td><td>0.945</td><td>0.924</td><td>0.033</td><td>0.872</td><td>0.855</td><td>0.062</td></tr><tr><td>MINet[10]</td><td>0.884</td><td>0.884</td><td>0.037</td><td>0.811</td><td>0.833</td><td>0.055</td><td>0.935</td><td>0.920</td><td>0.028</td><td>0.947</td><td>0.925</td><td>0.033</td><td>0.882</td><td>0.857</td><td>0.064</td></tr><tr><td>DMMF</td><td>0.891</td><td>0.890</td><td>0.034</td><td>0.817</td><td>0.845</td><td>0.052</td><td>0.939</td><td>0.921</td><td>0.028</td><td>0.949</td><td>0.930</td><td>0.031</td><td>0.879</td><td>0.856</td><td>0.065</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由表1可知：提出的方法有着很好的性能，在大多数数据集的比较指标上，表现优于其他显著性检测模型。其中，在HKU-IS 数据集上，该算法表现最好，在3个评价指标上都优于其他方法，其中 $F _ { \\mathrm { m a x } }$ 比U2Net 提高了 0.004， $S _ { m }$ 比U2Net 提高了0.005,MAE比U2Net减小了0.003；在DUTS-TE数据集上，提出的方法的 $F _ { \\mathrm { m a x } }$ 和 $S _ { m }$ 均优于其他方法，只有MAE略低于F3Net；在ECSSD数据集上，提出的方法的MAE和 $S _ { m }$ 均优于其他方法，只有 $F _ { \\mathrm { m a x } }$ 略低于U2Net。因此，综合所有的数据集和评价指标，提出的方法对多个显著目标和尺度变化有着很好的性能体现。此外，在数据集ECSSD上不同方法之间的平均速度(FPS)比",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "较如表2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d72257f1c46eaebeccc24dad4f29be583fd82c539ce93ea26b58b112429d2660.jpg",
+        "table_caption": [
+            "Tab.2Comparison of detection speed index FPS of different algorithms "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>本文</td><td>MWS</td><td>RAS</td><td>R3Net</td><td>CPD</td><td>AFNet</td></tr><tr><td>Size</td><td>320×320</td><td>256×256</td><td>256×256</td><td>224×224</td><td>352×352</td><td>224×224</td></tr><tr><td>FPS</td><td>74.6</td><td>52</td><td>45</td><td>33</td><td>66</td><td>26</td></tr><tr><td></td><td>PoolNet</td><td>BASNet</td><td>EGNet</td><td>U2Net</td><td>F3Net</td><td>MINet</td></tr><tr><td>Size</td><td>300×400</td><td>256×256</td><td>256×256</td><td>320×320</td><td>352×352</td><td>320×320</td></tr><tr><td>FPS</td><td>30</td><td>25</td><td>25</td><td>30</td><td>46</td><td>86</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从表2可以看出，提出的算法的检测速度74.6FPS，仅次于MINet的86FPS，但检测性能优于MINet。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了更直观的说明提出的算法的优势，将11种最先进的检测方法在不同场景下的预测结果可视化，比较结果如图4所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图4中，第1行是小的显著性目标的情况，第2行是大的显著性目标的情况，第34行是包含多个大小不同的显著性目标的情况，第5行是前景、背景对比度较低的情况，第6行是在复杂场景下的情况。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8cfb8c19ae0b666642d0aa0ed03e9b1239f194e4d544663881e08c870ec7ea6a.jpg",
+        "img_caption": [
+            "图4不同算法的可视化对比结果",
+            "Fig.4Visual comparison results of different algorithms "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图4可知，提出的算法在小目标，大目标，具有不同尺度目标，复杂背景等情况下的检测效果和真值图都相差无几。此外，较其他算法，在小目标情况下，可以有效屏蔽背景干扰，检测到小的显著目标；在大目标情况下能更完整的检测除显著性目标，不会出现缺损。在具有不同尺度目标时也能很好的检测到物体的轮廓边缘。在前景、背景对比度低的情况下，能很好的找到目标的完整轮廓。在复杂背景场景下，也能有效的检测到显著目标而不会检测到干扰目标。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4消融分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a）不同BDA模块对算法性能的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了获得更好的多尺度信息，该算法巧妙地堆叠多个BDA模块。为了验证如何堆叠更利于模型预测，在HKU-IS数据集上，对不同堆叠方案进行了测试和比较，结果如表3所示，其中“xn”表示对结构相同的重复堆叠n次。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/af56db40e2cae92f701a4f55e884f3ee115984a754cabddce6209111ac66090f.jpg",
+        "table_caption": [
+            "表3不同堆叠方式对算法性能的影响",
+            "Tab.3Performance comparison of different stacking methods "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>堆叠方式</td><td>Fmax</td><td>MAE</td></tr><tr><td>BDA5</td><td>0.922</td><td>0.036</td></tr><tr><td>BDA5×2</td><td>0.928</td><td>0.033</td></tr><tr><td>BDA5×3</td><td>0.933</td><td>0.031</td></tr><tr><td>BDA5×4</td><td>0.926</td><td>0.034</td></tr><tr><td>BDA5+BDA4+BDA3</td><td>0.939</td><td>0.028</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从表2数据可以看出，重复对BDA5模块堆叠多次时算法性能比使用单个模块要好，这说明多次对多分辨率特征进行融合有助于提升算法性能。但当堆叠次数超过3时，算法性能会下降，因为随着网络模型变深，容易导致梯度消失，从而使得网络更难以训练。而对3个不同构型的BDA模块进行堆叠时，算法性能最优，这反映了对不同分辨率的多层语义特征融合，能防止有用的特征被稀释，从而捕获更具判别性的抽象特征。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b)MSC和BDA组合策略对算法性能的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了验证MSC和BDA两个模块在模型中的有效性，针对不同组合策略，在DUTS-TE数据集上进行测试。使用F-measure、MAE和S-measure3个评价指标来进行性能比较。结果如表4所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/cf781c1a0bbe92c3ecb4c6ca946b32d53e7504736ccd6a2ad4d723ec4d8c5934.jpg",
+        "table_caption": [
+            "表2不同算法的检测速度指标FPS 比较",
+            "表4MSFF算法的消融实验",
+            "Tab.4Ablation experiment of MSFF algorithm "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Baseline</td><td>BDAs</td><td>BDAs*</td><td>MSC</td><td>Fmax</td><td>MAE</td><td>Sm</td></tr><tr><td>√</td><td></td><td></td><td></td><td>0.853</td><td>0.055</td><td>0.842</td></tr><tr><td>√</td><td>√</td><td></td><td></td><td>0.872</td><td>0.046</td><td>0.875</td></tr><tr><td>√</td><td></td><td></td><td>√</td><td>0.878</td><td>0.044</td><td>0.879</td></tr><tr><td>√</td><td></td><td>√</td><td>√</td><td>0.885</td><td>0.038</td><td>0.884</td></tr><tr><td>√</td><td>√</td><td></td><td>√</td><td>0.891</td><td>0.035</td><td>0.890</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中：BaseLine 为原始的U-Net 网络模型，BDAs 为按号 $\\mathrm { \\cdot B D A } _ { 5 } \\mathrm { + B D A } _ { 4 } \\mathrm { + B D A } _ { 3 } ,$ 堆叠的子网络，BDAs\\*表示不进行加权的BDAs，即式1)和2)中所有权重 $w _ { i }$ 取为1。从表3数据可以看出，在Baseline上引入BDAs或MSC模块后算法性能都能获得一定程度的提升。而Baseline $^ +$ BDAs+MSC策略获得的性能最佳，相较于Baseline，模型的 $F _ { \\mathrm { m a x } }$ ，$S _ { m }$ 指标分别提高了0.038和0.048，MAE下降了0.02。这说明堆叠多个BDA和MSC模块能抽取更利于检测任务的抽象特征，引入自适应加权策略融合不同层次的特征可避免特征之间的相互干扰，进而使得预测结果与图像中显著性目标更为一致。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了克服显著性目标检测中多尺度问题，提出一种基于多尺度特征深度复用的显著性目标检测方法。该方法设计了一个双向密集特征聚合模块，对主干网络提取的卷积特征进行多次重用，利用自适应加权融合特征，以消除不同层次特征的相互干扰；设计了多分辨率语义互补模块模块，对分辨率相邻的两组特征进行融合，在空间和语义上进行相互增强。测试结果表明：提出的方法在的 $F _ { \\mathrm { m a x } }$ ， $S _ { m }$ ，MAE分别能达到0.939，0.921，0.028，均优于11种最先进的方法，且能准确地检测到图像中不同尺度的多个目标，有效地处理背景较为复杂的场景。在下一步的研究工作中，将引入多监督的思想和采用新的注意力机制，来更有力的寻找显著目标的轮廓，并使用深度可分离卷积来减少模型的参数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]李锋林，李亮．基于显著性检测的目标图像分割算法 [J]．电子科技, 2017,30(1): 69-71.(Li Fenglin,Li Liang. Target Image Segmentation Algorithm Based on Saliency Detection [J].Electronic Science and Technology,2017,30(1): 69-71)   \n[2]Wang Yong,Wei Xian,Lu Ding,et al.A robust visual tracking method via local feature extraction and saliency detection [J].The Visual Computer,2020,36 (4): 683-700.   \n[3]陈晨．基于视觉感知的图像质量评价方法研究[D]．西安：西安电 子科技大学,2019.   \n[4]Wang Haoxiang,Li Zhihui,Yang Li,et al. Visual saliency guided complex image retrieval [J].Pattern Recognition Letters,2020,130 (2020): 64-72.   \n[5]张艳邦，张芬，张姣姣．基于图像边缘特征的目标检测算法[J]．内 江科技，2021,42(04):47-67.(Zhang Yanbang,Zhang Fen,Zhang Jiaojiao.Target detection algorithm based on image edge features [J]. Neijiang Science and Technology,2021,42 (04): 47-67)   \n[6] Zhang Pingping,Wang Dong,Lu Huchuan,et al.Amulet: Aggregating multi-level convolutional features for salient object detection [C]/ Proc of the IEEE International Conference on Computer Vision. IEEE: MIT Press,2017: 202-211.   \n[7]Hou Qibin,Cheng Mingming,Hu Xiaowei,et al.Deeply supervised salient object detection with short connections [C]// Proc of the IEEE Conference on Computer Vision and Pattrn Recognition.IEEE:MIT Press,2017: 3203-3212.   \n[8]Liu Nian, Han Junwei, Yang Ming-Hsuan.Picanet: Learning pixel-wise contextual attention for saliency detection $[ \\mathrm { C } ] / \\hbar$ Proc of the IEEE Conference on Computer Vision and Pattern Recognition.IEEE:MIT Press,2018:3089-3098.   \n[9]Wu Zhe,Li Su,Huang Qingming. Cascaded partial decoder for fast and accurate salient object detection [C]// Proc of the IEEE Conference on Computer Vision and Pattern Recognition.IEEE: MIT Press,2019:3907- 3916.   \n[10] Pang Youwei, Zhao Xiaoqi, Zhang Lihe,et al.Multi-scale interactive network for salient object detection [C]// Proc of the IEEE Conference on Computer Vision and Pattern Recognition.IEEE:MIT Press,2020: 9413-9422.   \n[11] Feng Mengyang,Lu Huchuan, Ding Errui.Attentive feedback network for boundary-aware salient object detection [Cl// Proc of the IEEE Conference on Computer Vision and Pattern Recognition.IEEE: MIT Press, 2019: 1623-1632.   \n[12] Wei Jun,Wang Shuhui, Huang Qingming.FNet: Fusion,Feedback and Focus for Salient Object Detection [C]//Proc of the AAAI Conference on Artificial Intelligence.Palo Alto,CA:AAAI Presss,2020,:12321- 12328.   \n[13] Qin Xuebin,Zhang Zichen,Huang Chenyang,et al. U2-Net: Going deeper with nested U-structure for salient object detection [J].Pattern Recognition,2020,106:107404.   \n[14] Chen Shuhan,Tan X,Wang Ben,et al.Reverse attention for salient object 检测[J]．模式识别与人工智能，2020,33(06):496-506.(Chen Qin, Zhu Lei, Hou Yunlong,etc.Salient object detection based on depth center neighborhood pyramid structure [J]. Pattern Recognition and Artificial Intelligence,2020,33 (06): 496-506)   \n[16] Ronneberger O,Fischer P,Brox T.U-net: Convolutional networks for biomedical image segmentation [C]// International Conference on Medical image computing and computer-assisted intervention. Berlin: Springer,2015: 234-241.   \n[17] Li TY,Dollar P, Girshick R,et al.Feature pyramid networks forobject detection [C]//Proc of the IEEE Conference on Computer Vision and Pattern Recognition. IEEE: MIT Press,2017: 2117-2125.   \n[18] Mei Yiqun,Fan Yuchen, Zhang Yulun,et al. Pyramid atention networks for image restoration [J].arXiv preprint arXiv: 2004.13824,2020.   \n[19] Ghiasi G,Lin TY,Le Q V. Nas-fpn: Learning scalable feature pyramid architecture for object detection [C]// Proc of the IEEE Conference on Computer Vision and Pattrn Recognition. IEEE: MITPress,2019: 7036- 7045.   \n[20] Tan Mingxing,Pang Ruoming,Le Q V.Efficientdet:Scalable and efficient object detection [C]// Proc of the IEEE Conference on Computer Vision and Pattern Recognition.IEEE:MIT Press,2020:10781-10790.   \n[21] Yang Chuan,Zhang Lihe,Lu Huchuan,et al.Saliency detection via graph-based manifold ranking [C]/ Proc of the IEEE Conference on Computer Vision and Pattern Recognition.IEEE: MIT Press,2013: 3166- 3173.   \n[22] Wang Lijun,Lu Huchuan,Wang Yifan,et al. Learning to detect salient objects with image-level supervision [C]//Proc of the IEEE Conference on Computer Vision and Pattern Recognition.IEEE:MIT Press,2017: 136-145.   \n[23] Li Guanbin, Yu Yizhou. Visual saliency based on multiscale deep features [C]//Proc of the IEEE Conference on Computer Vision and Pattern Recognition. IEEE: MIT Press,2015: 5455-5463.   \n[24] Yan Qiong,Xu Li, Shi Jianping,et al. Hierarchical saliency detection [C]//Proc of the IEEE Conference on Computer Vision and Pattern Recognition. IEEE: MIT Press,2013: 1155-1162.   \n[25] Li Yin,Hou Xiaodi,Koch C,et al.The secrets of salient object segmentation [Cl/ Proc of the IEEE Conference on Computer Vision and Pattern Recognition. IEEE: MIT Press,2014: 280-287.   \n[26] Zeng Yu, Zhuge Y,Lu Huchuan,et al. Multi-source weak supervision for saliency detection [C]// Proc of the IEEE Conference on Computer Vision and Pattern Recognition. IEEE: MIT Press,2019: 6074-6083.   \n[27] Deng Zijun,Hu Xiaowei,Zhu Lei,et al. R3net:Recurrent residual refinement network for saliency detection [C]// Proc of the 27th International Joint Conference on Artificial Intelligence.Palo Alto,CA AAAI Press,2018: 684-690.   \n[28] Liu Jiangjiang,Hou Qibin, Cheng Mingming,et al.A simple poolingbased design for real-time salient object detection [C]//Proc ofthe IEEE Conference on Computer Vision and Patern Recognition. IEEE: MIT Press, 2019: 3917-3926.   \n[29] Zhao Jiaxing,Liu Jiangjiang，Fan Dengping,et al.EGNet:Edge guidance network for salient object detection [C]//Proc of the IEEE/CVF International Conference on Computer Vision.2019: 8779-8788.   \n[30] Qin Xuebin, Zhang Zichen, Huang Chenyang,et al. Basnet: Boundaryaware salient object detection [C]/ Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. IEEE:MIT Press,2019: 7479-748 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

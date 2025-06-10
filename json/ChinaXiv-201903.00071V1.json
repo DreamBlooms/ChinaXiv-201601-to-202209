@@ -1,0 +1,468 @@
+[
+    {
+        "type": "text",
+        "text": "机械臂用电动螺杆直驱永磁同步电机设计与分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae02aef63c45461c58fb33295cfc8de616032dee0bae24d85050c7602589396b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨君子 冯桂宏 张炳义（沈阳工业大学电气工程学院 沈阳 110870）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨君子 女 1991年生，硕士，主要研究方向为永磁电机设计与控制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：液压驱动存在传动效率低、漏油和高温易引发火灾的问题。本文采用永磁同步电动机螺杆直驱取代机械臂用液压驱动环节，将一台挖掘机动臂油缸参数转化为$P _ { \\mathrm { N } } = 2 2 \\mathrm { k W }$ 、 $n _ { \\mathrm { { N } } } = 7 5 0 \\mathrm { { r } / \\mathrm { { m i n } } }$ 的永磁同步电动机参数，分别设计6极36槽和8极48槽电机，同时在Maxwell中进行空载仿真。通过采用转子不均匀气隙对电机气隙磁密波形和齿槽转矩进行优化，并进行负载仿真，得到了一台可用于取代机械臂液压缸的永磁同步电动机。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：液压驱动永磁同步电动机螺杆直驱 转矩优化中图分类号：TM351",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Design and Analysis of Permanent Magnet Synchronous Motor With Electric Screw for Arm ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yang Junzi Feng GuihongZhang Bingyi （ShenyangUniversity of TechnologyShenyang110870 China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/44566cce6335575510c60ee73d60ef06bd6d4f5bb856f1227757325a32e57253.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "冯桂宏女 1963年生，教授，主要从事特种电机及其控制、低速大转矩无齿轮传动技术、电网电能损耗及无功补偿等方面的研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In this paper, the hydraulic drive system is replaced by the direct drive of the permanent magnet synchronous motor with the screw which connected to the rotor, because of the low transmission efficiency, oil spills and most likely a fire when working in high temperature environment.The parameters of an excavator boom cylinder are converted to the parameters as $P _ { \\mathrm { N } } = 2 2 \\mathrm { k W }$ ， $n _ { \\mathrm { N } } = 7 5 0 \\mathrm { r / m i n }$ of the permanent magnet synchronous motor. The 6-pole 36-slot and 8-pole 48-slot motor are designed respectively, the no-load simulations is done in Maxwell at the same time.Air gap magnetic flux and cogging torque are optimized by the way of the use of the uneven air gap, the load simulations is achieved, and a permanent magnet synchronous motor that can be used to replace a hydraulic cylinder is also achieved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Hydraulic drive, permanent magnet synchronous motor, screw drive, torque optimization ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "大型机械设备（如挖掘机、推土机、装载机、平地机等）的主要构件之一就是大型机械臂，因此其驱动性能的好坏将直接影响整个工作装置的稳定性和安全可靠性。现有大型机械臂多采用液压控制系统进行驱动，具有调速范围大，传动装置体积小、质量轻等优点[1-3]，但液压系统驱动工程机械设备机械臂同时存在以下缺点：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1）液压系统通过液压泵驱动，将液压泵的机械能转化为液体压力能后再通过液体压力能来驱动负载，中间存在能量的二次变换导致传动效率低。(2）液压管道接触面处存在不可避免的液压油泄露，会对环境造成污染。(3）液压油性能，尤其是粘滞性受温度影响较大，随着温度升高管道内液压油的粘滞阻力增大，摩擦损耗增大，发热会导致密封橡胶老化过快，从而导致密封失效[4]，同时高温容易引发火灾。(4）再者由于工程机械设备大，液压传动环节较多，液压管道多，结构复杂，在出现故障时，难以准确判断发生故障的位置，大多依靠经验进行判断，维修难度大[5-，对维修人员技术和经验要求较高。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前对大型机械臂驱动系统的研究仅局限于液压系统的优化设计，没有跳出液压驱动系统的圈子，无法彻底避免液压传动系统的固有缺点。只有改变驱动方式才能从根本上解决问题，因此本文提出采用永磁同步电动机螺旋系统直驱机械臂取代液压驱动，如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/200cfa9a6da76bc6b5910bb8518db29a4ad32f48ca8477d598f6c655dffe7366.jpg",
+        "img_caption": [
+            "图1永磁同步电机螺旋直驱结构示意图",
+            "Fig.1Illustration of the structure of the permanent magnet synchronous motor with screw drive "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "电机螺旋传动系统利用螺杆和螺母的相对运动关系，将电机回转运动转变为直线运动，将转矩转换成推力[7]。文献[8]提出了以电动推杆驱动取代液压气缸驱动的柔性关节机械手，并通过计算和仿真得出了采用电动推杆具有更大驱动力和抓取力、动态性能良好等结论。在压力机领域，日本Enomoto公司和德国MullerWeingarten公司成功研发出交流伺服电机驱动的数控电动螺旋压力机[9]，避免了复杂的液压驱动系统。在空气动力领域中，螺杆式压缩机逐渐取代往复式空压机[10]，具有往复式空压机不可比拟的经济性。以上诸多研究和应用均为本文的研究提供了参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 参数转化和丝杠选用",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文以斗容为 $0 . 3 3 \\mathrm { m } ^ { 3 }$ 的单动臂油缸挖掘机为例进行分析转化，其动臂油缸的参数见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/33e83339446d865fb7006582d00a7235d6d09126b1ee146d915cae52ab564208.jpg",
+        "table_caption": [
+            "表1挖掘机动臂油缸参数",
+            "Tab.1Parameters of boom cylinder of the excavator "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>名称</td><td>参数</td></tr><tr><td>活塞杆直径/mm</td><td>65</td></tr><tr><td>缸桶直径/mm</td><td>115</td></tr><tr><td>最大工作行程/mm</td><td>900</td></tr><tr><td>工作油路压力/MPa</td><td>26</td></tr><tr><td>活塞工作速度/(m/s)</td><td>0.25</td></tr><tr><td>动臂提升时间/s</td><td>3.3</td></tr><tr><td>动臂工作时间/s</td><td>6.5</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于差动前进（即活塞的两侧同时进压力相同的油液）的活塞杆，其推力为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF = ( A _ { 1 } - A _ { 2 } ) p { \\times } 1 0 ^ { 6 } = \\frac { \\pi } { 4 } d ^ { 2 } p { \\times } 1 0 ^ { 6 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\scriptstyle A _ { 1 }$ 为活塞无杆侧有效面积， ${ \\mathrm { m } } ^ { 2 }$ . $ { \\mathcal { A } } _ { 2 }$ 为活塞有杆侧有效面积， ${ \\mathrm { m } } ^ { 2 }$ $p$ 为供油压力（工作油压),$\\mathrm { { M P a } }$ ； $d$ 为活塞杆直径， $\\textrm { m }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "可得轴向推力为 $F = 8 6 . 2 7 6 \\mathrm { { k N } }$ ，则输出功率为 $P = F \\nu \\approx 2 2 \\mathrm { k W }$ ，同步电动机额定功率为 $P _ { \\mathrm { { N } } } =$ $F \\nu \\approx 2 2 \\mathrm { k W }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选用导程为 $P _ { \\mathrm { h } } { = } 2 0 \\mathrm { m m }$ 的滚珠丝杠副，由",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu = \\frac { \\varpi } { 2 \\pi } { \\it P _ { \\mathrm { h } } } = \\frac { n } { 6 0 } { \\it P _ { \\mathrm { h } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "得转速 $n = 7 5 0 \\mathrm { r / m i n }$ ，采用电动机丝杠螺杆直联，可得电机的额定转速 $n _ { \\mathrm { N } } { = } 7 5 0 \\mathrm { r / m i n }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据滚珠丝杠设计原理，即",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { \\mathrm { m } } = { \\sqrt [ 3 ] { \\frac { F _ { 1 } ^ { 3 } n _ { 1 } t _ { 1 } + F _ { 2 } ^ { 3 } n _ { 2 } t _ { 2 } + \\cdots + F _ { n } ^ { 3 } n _ { n } t _ { n } } { n _ { 1 } t _ { 1 } + n _ { 2 } t _ { 2 } + \\cdots + n _ { n } t _ { n } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nn _ { \\mathrm { m } } = { \\frac { n _ { 1 } t _ { 1 } + n _ { 2 } t _ { 2 } + \\cdots \\cdot + n _ { n } t _ { n } } { t _ { 1 } + t _ { 2 } + \\cdots \\cdot + t _ { n } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $F _ { 1 }$ ， $F _ { 2 }$ ，…为轴向变化载荷， $\\mathrm { ~ N ~ }$ ; $n _ { 1 }$ ， $n _ { 2 }$ ，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为对应 $F _ { 1 }$ ， $F _ { 2 }$ ，…时的转速， $\\mathrm { { r } / \\mathrm { { m i n } } }$ $t _ { 1 }$ ， $t _ { 2 }$ ，…为对应 $F _ { 1 }$ ， $F _ { 2 }$ ，…时的时间，h。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { \\mathrm { a m } } ^ { \\prime } { = } \\frac { f _ { \\mathrm { w } } F _ { \\mathrm { m } } ( 6 0 n _ { \\mathrm { m } } L _ { \\mathrm { h } } ) ^ { \\frac { 1 } { 3 } } } { 1 0 0 f _ { \\mathrm { a } } f _ { \\mathrm { c } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $f _ { \\mathrm { a } }$ 为精度系数，见表2； $f _ { \\mathrm { c } }$ 为可靠性系数，见表3； $f _ { \\mathrm { w } }$ 为载荷性质系数，见表4； $L _ { \\mathrm { h } }$ 为预期工作寿命，见表5。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2精度系数 $f _ { \\mathrm { a } }$ ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/d3d3b11b72571f117900e7206821c31f0608290af891c6e626098bbd37afc92d.jpg",
+        "table_caption": [
+            "Tab.2 Precision coefficient $f _ { \\mathrm { a } }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>精度等级</td><td>1,2,3</td><td>4,5</td><td>7</td><td>10</td></tr><tr><td>f</td><td>1.0</td><td>0.9</td><td>0.8</td><td>0.7</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表3可靠性系数 $f _ { \\mathrm { c } }$ ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/eae5bbafddb8f93ab8ea2ce2f3823979e18edb8573dd486a501ae7a6dc50c095.jpg",
+        "table_caption": [
+            "Tab.3Reliability factor $f _ { \\mathrm { c } }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>可靠性系数(%)</td><td>90</td><td>95</td><td>96</td><td>97</td><td>98</td><td>99</td></tr><tr><td>fe</td><td>1</td><td>0.62</td><td>0.53</td><td>0.44</td><td>0.33</td><td>0.21</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表4载荷性质系数 $f _ { \\mathrm { w } }$ ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表5预期工作寿命 $L _ { \\mathrm { h } }$ ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/5c9edf365287f9d295e771f10808c6f0be89b13dabdad3ba55a2e79ad26571ec.jpg",
+        "table_caption": [
+            "Tab.4Load property coefficient $f _ { \\mathrm { w } }$ ",
+            "Tab.5Expected working life Lh "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>应用场合</td><td>寿命/h</td></tr><tr><td>普通机械</td><td>5000～10000</td></tr><tr><td>普通机床</td><td>10 000～ 20000</td></tr><tr><td>数控机床</td><td>20 000</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选择合适的系数并代入式（4）可得当量载荷$C _ { \\mathrm { a m } } ^ { \\prime } { = } 3 6 4 . 3 1 4 \\mathrm { k N }$ ，选用 $\\mathrm { H F H } 6 3 \\times 2 0$ 即可满足要求。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f245465b0cb806737b2af65a043aff39e4b1a8fb99b1be9088cf6644dfcea2fe.jpg",
+        "table_caption": [
+            "表6不同极槽配合方案参数比较"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>载荷性质</td><td>无冲击</td><td>轻微冲击</td><td>有冲击或振动</td></tr><tr><td>f</td><td>1.1 ~ 1.2</td><td>1.2 ~ 1.5</td><td>1.5~2</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 电磁设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据额定功率 $P _ { \\mathrm { N } } { = } 2 2 \\mathrm { k W }$ ，额定转速 $n _ { \\mathrm { N } } { = } 7 5 0 \\mathrm { r / m i n }$ 将定子外径定为 $3 1 0 \\mathrm { m m }$ ，在保持气隙长度、空载反电动势和热负荷接近相等的情况下分别设计6极36槽和8极48槽两种不同极槽配合的永磁同步电动机，两台电动机的主要参数见表6。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在Maxwell软件中建立模型，分别进行空载加零激励电流源仿真。空载仿真磁密云图分别如图2a、2b所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分析可知6极36槽电机的最大齿磁密为1.6545T，8 极48槽电机的最大齿磁密为1.5998T，均在永磁同步电动机齿磁密的合理范围内。空载径向气隙磁密波形分别如图3、图4所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/98e3de2524bd7c73bf92b93c22d97e0c79f2f4bf5c4aaf3d9d02963689cd7127.jpg",
+        "table_caption": [
+            "Tab.6Comparison of parameters of different pole-slot scheme "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>极槽配合</td><td>6极36槽</td><td>8极48槽</td></tr><tr><td>定子外径/mm</td><td>310</td><td>310</td></tr><tr><td>定子内径/mm</td><td>195</td><td>205</td></tr><tr><td>铁心长度/mm</td><td>215</td><td>230</td></tr><tr><td>气隙长度/mm</td><td>0.8</td><td>0.8</td></tr><tr><td>永磁体长度/mm</td><td>84</td><td>64</td></tr><tr><td>永磁体宽度/mm</td><td>7</td><td>6</td></tr><tr><td>空载反电动势/V</td><td>203.3</td><td>203.5</td></tr><tr><td>热负荷[A²/(cm·mm)]</td><td>1 003.13</td><td>934.68</td></tr><tr><td>额定转矩/N·m</td><td>278.35</td><td>280.51</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d9a05abef1ff93f1aab6e0f8d56b14f98a9d96dfabfcb5e94c3156f4f48b7b7d.jpg",
+        "img_caption": [
+            "Fig.2No-load magnetic cloud "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图2空载磁密云图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将空载径向气隙磁密进行谐波分析得到各次谐波所占基波的百分比如图5所示，由图5可知，谐波中占主要成分的3次谐波在6极36槽电机中，占基波百分比为 $3 1 . 2 \\%$ ，明显高于4极48槽电机的",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f30acc79fc5d824caaaa2a7e2c858ac75462626f69268e70414e0f41bc470135.jpg",
+        "img_caption": [
+            "图36极36槽电机径向气隙磁密波形(有效值0.7583T)"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d014349b6a974c9a4ffec4c68f23f0b4b110232cf66a8911dec64ccb21227adb.jpg",
+        "img_caption": [
+            "Fig.3Radial air gap magnetic flux of 6-pole 36-slot motol "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ca0c8df1cac2112e68e03422df78691ce19252be5613f34a1b36f23edf16b81.jpg",
+        "img_caption": [
+            "图48极48槽电机径向气隙磁密波形(有效值0.7128T）",
+            "图5各次谐波占基波百分比",
+            "Fig.5The harmonics account for the percentage of the fundamental "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/942f9da4a789409d4e9a59f99b2e9045882dffed37ee903e9ca6c2dc7dd6495c.jpg",
+        "img_caption": [
+            "图66极36槽电机齿槽转矩（14.6713N)"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/22395c6b477cc17a6cda6d8e3a10169f27381970a34ced0a56998a655a354e7f.jpg",
+        "img_caption": [
+            "Fig.6Cogging torque of the 6-pole 36-slot motor (the effective value is 14.671 3N) ",
+            "图78极48槽电机齿槽转矩 (9.7629N)"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b93d6373dd3318c9e4a2717edbfbc31ffd93650a3c16b13a27506bc1820858be.jpg",
+        "img_caption": [
+            "Fig.4Radial air gap magnetic flux of 8-pole 48-slot motol ",
+            "Fig.7Cogging torque of the 8-pole 48-slot motor (the effective value is 0.712 8T) ",
+            "图81.5倍不均匀气隙优化后的各次谐波占基波百分比 Fig.8The harmonics account for the percentage of the fundamental when the uneven of air gap is 1.5 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$2 9 . 0 9 \\%$ 。3次谐波也是引起空载齿槽转矩的主要原因，因此6极36槽电机的齿槽转矩明显高于4极48 槽电机，与齿槽转矩的仿真结果相符，齿槽转矩波形分别如图6、图7所示。6极36槽电机和8极48槽电机的齿槽转矩分别占额定转矩的 $5 . 2 3 \\%$ 和$3 . 4 9 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 优化处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为降低齿槽转矩引起的转矩波动，本文采用转子冲片1.5倍不均匀气隙的方法对径向气隙磁密波形和齿槽转矩进行优化处理。所得空载径向气隙磁密进行谐波分解后如图8所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图8可知，在进行1.5倍不均匀气隙优化后6极36槽电机3次谐波含量同样高于8极48槽电机，但同图5比较，对应两种不同的极槽配合，优化后3次谐波含量较优化前有明显降低，降幅分别为 $3 . 7 1 \\%$ 和 $4 . 3 5 \\%$ 。对应齿槽转矩的变化为6极36槽电机降低到额定转转矩的 $3 . 7 \\%$ ，8极48槽电机降低到额定转矩的 $1 . 8 3 \\%$ ，完全可以达到挖掘机工作时对动臂油缸工作稳定性的要求。为验证永磁同步电动机能在出力方面可以替代液压驱动系统，对采用不均匀气隙后的两台电机进行了负载仿真，在额定电流源作用下，所得额定转矩见表7。分析可知，通过将电流角控制在一定范围内，永磁同步电动机提供的转矩能够满足挖掘机对动臂油缸出力的要求。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表7不同电流角时额定电流下的转矩",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/dac3dad809110cee3ae6e1eb1183cb10212cfac04468cf08d0657ae6b463bb71.jpg",
+        "table_caption": [
+            "Tab.7Torque under rated current with different current angle "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>电流角/(°)</td><td>6 极36槽电机转矩/N</td><td>8 极48槽电机转矩/N</td></tr><tr><td>20</td><td>287.25</td><td>286.54</td></tr><tr><td>22.5</td><td>287.59</td><td>286.01</td></tr><tr><td>25</td><td>287.36</td><td>284.88</td></tr><tr><td>27.5</td><td>286.26</td><td>283.10</td></tr><tr><td>30</td><td>284.51</td><td>280.68</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文对一台斗容为 $0 . 3 3 \\mathrm { m } ^ { 3 }$ 的单动臂油缸液压挖掘机的液压参数进行转化，设计了不同极槽配合的两台永磁同步电动机，同时对电机进行分析和优化，得出如下结论：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1）挖掘机用动臂油缸液压参数可经过合理的计算将轴向推力和运动速度转化为电动螺杆直驱用永磁同步电动机的功率和转速。(2）通过仿真得到不同极槽配合下径向气隙磁密中3次谐波含量不同的结论，所设计的6极36槽电机谐波含量大于8极48槽电机谐波含量。(3）3次谐波含量影响齿槽转矩的大小，3次谐波含量大的电机齿槽转矩大。(4）通过转子冲片设计得到的不均匀气隙可以明显削弱径向气隙磁密中的3次谐波含量，同时减小齿槽转矩。（5）永磁同步电动机螺杆直驱系统可以取代机械臂的液压驱动系统。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用永磁同步电动机螺杆直驱系统代替液压驱动环节，不仅可以避免传动效率低、漏油污染环境、高温易发生火灾的问题，还对大型机械设备机械臂的精准数字控制提供了理论基础，具有重要意义。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] 官忠范．液压传动系统[M]．北京：机械工业出版社，2009.  \n[2] 马先启．现代工程机械液压传动系统：构造、原理与故障排除[M]．北京：国防工业出版社，2011.  \n[3] 陈文赢．液压传动系统在工程机械中的应用研究[J]．中国机械，2015(19)：35-38.Chen Wenying.Research on application of hydraulictransmission system in engineering machinery[J].Machine China,2015(19): 35-38.  \n[4] 冯长征．液压系统橡胶密封失效的原因分析及预防[J]．建筑机械，2000(1)：33-35.Feng Changzheng. Cause analysis and preventionof failure of rubber seal in hydraulic system[J].Construction Machinery,2000(1): 33-35.  \n[5] 周东华，叶银忠．现代故障诊断与容错控制[M].北京：清华大学版社，2000．  \n[6] Zogg D,Shafai E,Geering H P. Fault diagnosisfor heat pump swith parameter identification andclustering[J]. Control Engineering Practice, 2006,14(12): 1435-1444.  \n[7] 濮良贵，纪名刚．机械设计[M]．北京：高等教育出版社，2006.  \n[8] 陈春华，章军，田志伟，等．电动推杆驱动串联双铰链柔性机械手的状态分析[J]．机械制造，2015,53(2):31-33.Chen Chunhua, Zhang Jun, Tian Zhiwei, et al. Stateanalysis of flexible manipulator driven by electricpush rod in series[J]. Machinery,2015, 53(2): 31-33.  \n[9] 李军超．数控电动螺旋压力机控制关键技术研究[D]．武汉：华中科技大学，2008.  \n[10]Chih C L,Chung C Y, Hung C C.A new motordesign for hermetic DC compressor[C]. InternationaConference on Power Electronics and DrivesSystems, Kuala Lumpur, 2005: 581-583.",
+        "page_idx": 4
+    }
+]

@@ -1,0 +1,684 @@
+[
+    {
+        "type": "text",
+        "text": "Higgs self-coupling in the MSSM and NMSSM after the LHC ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Run 1 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lei Wu $^ { 1 }$ \\*， Jin Min Yang $^ { 2 \\dagger }$ ， C.-P. Yuan3‡， Mengchao Zhang $^ { 2 \\ S }$ （204号   \n1 ARC Centre of Excellence for Particle Physics at the Terascale,   \nSchool of Physics, The University of Sydney， NSW 20o6， Australia   \n（204号 $^ 2$ State Key Laboratory of Theoretical Physics,   \nInstitute of Theoretical Physics， Academia Sinica， Beijing 100190, China   \n$^ 3$ Department of Physics and Astronomy,   \nMichigan State University， East Lansing， Michigan 48824， USA   \n(Dated: June 12, 2015) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Measuring the Higgs self-coupling is one of the crucial physics goals at the LHC Run-2 and other future colliders. In this work, we attempt to figure out the size of SUSY effects on the trilinear self-coupling of the 125 GeV Higgs boson in the MSSM and NMSSM after the LHC Run1. Taking account of current experimental constraints,such as the Higgs data, flavor constraints, electroweak precision observables and dark matter detections,we obtain the observations: (1） In the MSSM, he ratio f $\\lambda _ { 3 h } ^ { M S S M } / \\lambda _ { 3 h } ^ { S M }$ hasbenigstrdta only slightly smaller than 1 and minimally reach 97%; (2) In the NMSSM with $\\lambda < 0 . 7$ ,a sizable reduetion of $\\lambda _ { 3 h _ { 2 } } ^ { N M S S M } / \\lambda _ { 3 h _ { 2 } } ^ { S M }$ can oceur adminimaly each $1 0 \\%$ whenth ligts CP-even Higs boson mass $m _ { h _ { 1 } }$ is close to the SM-like Higgs boson $m _ { h _ { 2 } }$ due to the large mixing angle between the singlet and doublet Higgs bosons; (3) In the NMSSM with $\\lambda > 0 . 7$ ，a large enhancement or reductio （20 $h _ { 1 } \\tau ^ { + } \\tau ^ { - }$ coupling. The future colliders, such as the HL-LHC and ILC,will have the capacity to test these large deviations in the NMSSM. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers: ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "With the discovery of the Higgs boson at the LHC [1, 2],much effort has been devoted to study its properties. So far, the measurements of its couplings and quantum numbers are compatible with the standard model (SM) predictions at 1- $2 \\sigma$ level. However, to ultimately understand its nature, we need to fully reconstruct the Higgs potential at the LHC and future $e ^ { + } e ^ { - }$ colliders [3, 4]. The parameters in the Higgs potential determine the relations among the Higgs masses and self-couplings. Measuring these relations is therefore crucial for our understanding of the Higgs nature. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the SM the tree-level Higgs potential is given by ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ^ { ( 0 , S M ) } = - \\mu ^ { 2 } ( \\phi ^ { \\dagger } \\phi ) + \\lambda ( \\phi ^ { \\dagger } \\phi ) ^ { 2 } , \\quad \\phi = \\frac { 1 } { \\sqrt { 2 } } \\left( 0 , v + h \\right) ^ { T }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "which yields the following trilinear and quartic self-couplings ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { h h h } ^ { ( 0 , S M ) } = \\frac { 3 m _ { h } ^ { 2 } } { v } , \\quad \\lambda _ { h h h h } ^ { ( 0 , S M ) } = \\frac { 3 m _ { h } ^ { 2 } } { v ^ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Here $v = ( \\sqrt { 2 } G _ { F } ) ^ { - 1 / 2 } \\simeq 2 4 6$ GeV is the vacuum expectation value of the Higgs field and $m _ { h } \\simeq 1 2 5$ GeV is the Higgs boson mass. Within the SM, the trilinear Higgs coupling receives the dominant correction from the top quark loop, $\\delta \\lambda _ { h h h } ^ { S M } \\simeq m _ { t } ^ { 4 } / ( \\pi ^ { 2 } v ^ { 2 } m _ { h } ^ { 2 } )$ [5], which reduces its tree-level value by about $1 0 \\%$ . Hence,the determination of the Higgs trilinear coupling $\\lambda _ { h h h }$ （20 and quartic coupling $\\lambda _ { h h h h }$ can directly test the relation in Eq. (2) which is obtained from the minimization of the Higgs potential. At the LHC,the only way to measure the Higgs trilinear coupling is through the Higgs pair production， which is dominated by the gluon fusion mechanism and has a small cross section [6]. However, in many new physics models, such as the minimal supersymmetric model (MSSM) and the next-to-minimal supersymmetric model (NMSSM), the Higgs pair production rate can be significantly altered by new particles and Higgs couplings [7]. Among various decay channels of the Higgs pair， the $4 b$ final state has the largest fraction [8], but the rare process $h h  b b \\gamma \\gamma$ is expected to have the most promising sensitivity due to the low backgrounds at the LHC [9]. The recent applications of jet substructure and other techniques to Higgs pair production have been found to improve the sensitivity to the trilinear Higgs couplings in $\\tau ^ { + } \\tau ^ { - }$ and $W ^ { + } W ^ { - }$ final states [10]. On the other hand, the measurement of the Higgs quartic coupling is more challenging due to a much smaller cross section of triple Higgs production at the LHC. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The supersymmetric (SUSY） corrections to the Higgs self-coupling have two kinds of sources: one is the mixing between the Higgs bosons,and the other is radiative quantum effects.For the first kind, the authors in [11] studied the Higgs self-coupling in some simplified SUSY models, while in [12] the Higgs self-couplings in the MSSM and NMSSM (with a decoupled singlet boson) were investigated. Also,in [13] the authors studied the properties of the Higgs bosons in the NMSSM with $\\lambda > 0 . 7$ (called $\\lambda$ -SUSY) and found a sizable enhancement in the Higgs self-coupling. For the second kind of SUSY corrections, the loop corrections to the Higgs self-couplings have been studied using the effective potential [14- 22] or Feynman diagrammatic approach [23-25] in the MSSM and NMSSM. Recently, the leading two-loop SUSY-QCD corrections from the top/stop sector in the MSSM have been performed [26]. Since all these previous studies are limited to some simplified or special cases and the relevant experimental constraints are not fully considered, in this work we give a comprehensive study for the SM-like Higgs self-coupling in the MSSM and NMSSM with both $\\lambda < 0 . 7$ and $\\lambda > 0 . 7$ by considering all the relevant experimental constraints after the LHC Run-1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The existing experimental data, both from low energy precision measurements and high energy direct searches, may have imposed important constraints on the Higgs self-coupling in SUSY models. For example, in the MSSM, the SM-like Higgs self-coupling is sensitive to the pseudo-scalar mass $m _ { A }$ and $\\tan \\beta$ ，which could have been tightly constrained by the LHC direct search of a light non-SM Higgs boson [27-29] as well as from precision $B$ -physics [30]. Furthermore, the measured mass of the SM-like Higgs boson requires rather heavy stops and/or large Higgs-stop trilinear couplings, and the direct searches for the stop pair production have also pushed stop masses above hundreds of GeV in the natural SUSY [31]. Since the Higgs self-couplings are sensitive to stop masses and Higgs-stop trilinear couplings, all these constraints should be taken into account. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The structure of this paper is organized as follows. In Section II, we will briefly describe the Higgs sectors of MSSM and NMSSM. In Section II, we perform a scan over the parameter space of each model and present the numerical results for the trilinear self-coupling of the SM-like Higgs. Finally, we draw our conclusions in Section IV. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "II. HIGGS TRILINEAR SELF-COUPLINGS IN MSSM AND NMSSM ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A. Higgs trilinear self-couplings in the MSSM ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the MSSM there are two doublets of complex scalar fields with opposite hypercharges: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { u } = \\left( \\begin{array} { c } { { H _ { u } ^ { + } } } \\\\ { { H _ { u } ^ { 0 } } } \\end{array} \\right) , \\qquad H _ { d } = \\left( \\begin{array} { c } { { H _ { d } ^ { 0 } } } \\\\ { { H _ { d } ^ { - } } } \\end{array} \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The scalar Higgs potential consists of the $\\boldsymbol { D }$ -terms and $F ^ { ' }$ -terms of the superpotential as well as the soft SUSY-breaking mass terms. Among them， the $D$ -terms determine the quartic Higgs interactions. The full tree-level Higgs potential is given by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { V ^ { ( 0 , M S S M ) } = m _ { 1 } ^ { 2 } | H _ { u } | ^ { 2 } + m _ { 2 } ^ { 2 } | H _ { d } | ^ { 2 } - B _ { \\mu } \\epsilon _ { \\alpha \\beta } ( H _ { u } ^ { \\alpha } H _ { d } ^ { \\beta } + h . c . ) } } \\\\ { { \\displaystyle ~ + \\frac { g ^ { 2 } + g ^ { \\prime 2 } } { 8 } ( | H _ { u } | ^ { 2 } - | H _ { d } | ^ { 2 } ) ^ { 2 } + \\frac { g ^ { 2 } } { 2 } | H _ { u } ^ { \\dagger } H _ { d } | ^ { 2 } ~ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\epsilon _ { \\alpha \\beta }$ is the antisymmetric tensor and $m _ { 1 , 2 } ^ { 2 } = m _ { H _ { u , d } } ^ { 2 } + \\mu ^ { 2 }$ with $m _ { H _ { u , d } }$ and $\\mu$ denoting the soft SUSY-breaking masses and the higgsino mass, respectively. The parameters $m _ { 1 , 2 }$ can be eliminated by the minimization condition of the Higgs potential, while the parameter $B _ { \\mu }$ is traded for the pseudoscalar mass $M _ { A }$ . The quartic Higgs couplings are fixed in terms of the $S U ( 2 ) \\times U ( 1 )$ gauge couplings $g$ and $g ^ { \\prime }$ in the MSSM. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "After the electroweak symmetry breaking, the neutral components of the two Higgs fields $H _ { u , d } ^ { 0 }$ develop vacuum expectation values (vevs) $v _ { u , d }$ and can be decomposed into scalar and pseudoscalar components as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l l l } { { \\mathrm { R e } H _ { d } ^ { 0 } = ( v _ { d } + H c _ { \\alpha } - h s _ { \\alpha } ) / \\sqrt { 2 } , } } & { { \\mathrm { I m } H _ { d } ^ { 0 } = ( G ^ { 0 } c _ { \\beta } - A s _ { \\beta } ) / \\sqrt { 2 } , } } \\\\ { { \\mathrm { R e } H _ { u } ^ { 0 } = ( v _ { u } + H s _ { \\alpha } + h c _ { \\alpha } ) / \\sqrt { 2 } , } } & { { \\mathrm { I m } H _ { u } ^ { 0 } = ( G ^ { 0 } s _ { \\beta } + A c _ { \\beta } ) / \\sqrt { 2 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $h , H$ and $A$ are the neutral physical Higgs bosons and $G ^ { 0 }$ is the would-be Goldstone boson. The vevs are defined as $\\mathit { v _ { u } } = { v s _ { \\beta } }$ and $v _ { d } = v c _ { \\beta }$ with $v \\approx 2 4 6$ GeV (here and in the following we use the notation $c _ { x } \\equiv \\cos x , s _ { x } \\equiv \\sin x ,$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Taking the third derivatives of $V ^ { ( 0 , M S S M ) }$ with respect to the physical Higgs fields yields the trilinear Higgs couplings. In the physical mass eigenstates, the neutral CP-even Higgs trilinear couplings at leading order are given by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l l } { { \\lambda _ { h h h } ^ { ( 0 , M S S M ) } = \\displaystyle \\frac { 3 { \\cal M } _ { Z } ^ { 2 } } { v } c _ { 2 \\alpha } s _ { \\alpha + \\beta } , } } & { { \\lambda _ { H h h } ^ { ( 0 , M S S M ) } = \\displaystyle \\frac { { \\cal M } _ { Z } ^ { 2 } } { v } [ 2 s _ { 2 \\alpha } s _ { \\alpha + \\beta } - c _ { 2 \\alpha } c _ { \\alpha + \\beta } ] , } } \\\\ { { \\lambda _ { H H H } ^ { ( 0 , M S S M ) } = \\displaystyle \\frac { 3 { \\cal M } _ { Z } ^ { 2 } } { v } c _ { 2 \\alpha } c _ { \\alpha + \\beta } , } } & { { \\lambda _ { H H h } ^ { ( 0 , M S S M ) } = \\displaystyle - \\frac { { \\cal M } _ { Z } ^ { 2 } } { v } [ 2 s _ { 2 \\alpha } c _ { \\alpha + \\beta } + c _ { 2 \\alpha } s _ { \\alpha + \\beta } ] . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the MSSM, either the lighter scalar $h$ or the heavier scalar $H$ can be the SM-like Higgs boson. The latter interpretation occurs for low values of $M _ { A }$ (between 100 and 120 GeV) with moderate values of $\\tan \\beta$ (about 10). In this case, $H$ has approximately SM-like properties, while the other four Higgs bosons of the MSSM would be rather light and have a mass of order 10o GeV or even below. A dedicated scan for this region of parameter space has been performed in [32] and it was found that this scenario can be excluded by recasting the LHC search for $H / A \\to \\tau ^ { + } \\tau ^ { - }$ [27]. In addition, the latest ATLAS limits from $H ^ { \\pm }$ searches have also excluded such a possibility [29]. Thus, in this work, we will only study the case that （204号 $h$ is the SM-like Higgs boson in the MSSM. According to Appelquist-Carazzone decoupling theorem, the MSSM must go back to the SM in the decoupling limit. In the tree-level Higgs sector， we can make this limit by setting $m _ { A } \\to \\infty$ ，which gives $\\alpha  \\beta - { \\textstyle { \\frac { \\pi } { 2 } } }$ . Applying this relation to the first identity in Eq. (7) yields ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { h h h } ^ { ( 0 , M S S M ) } \\simeq \\frac { 3 M _ { Z } ^ { 2 } } { v } c _ { 2 \\beta } ^ { 2 } \\simeq \\frac { 3 m _ { h , ( 0 , M S S M ) } ^ { 2 } } { v } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $m _ { h , ( 0 , M S S M ) } \\simeq M _ { Z } c _ { 2 \\beta }$ is the lighter CP-even Higgs mass at tree-level. This demonstrates that the lighter Higgs boson $h$ in the MSSM almost behaves like the SM Higgs boson in the decoupling limit (even when the loop corrections are included) [23, 24]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "B. Higgs trilinear self-couplings in the NMSSM ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "After the discovery of a 125 GeV Higgs boson, the NMSSM 33] seems to be more favored than the MSSM because it can naturally give such a Higgs boson without very heavy topsquarks [34]. More importantly, this model can solve the $\\mu$ -problem: after the singlet field develops a vev $\\langle S \\rangle = v _ { s } / \\sqrt { 2 }$ ， an effective $\\mu$ -term $( \\mu _ { e f f } = \\lambda v _ { s } / \\sqrt { 2 } )$ is dynamically generated. Due to the contribution of the singlet scalar field $S$ , the full tree-level Higgs potential can be written as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ^ { ( 0 , N M S S M ) } = ( | \\lambda S | ^ { 2 } + m _ { H _ { u } } ^ { 2 } ) H _ { u } ^ { \\dagger } H _ { u } + ( | \\lambda S | ^ { 2 } + m _ { H _ { d } } ^ { 2 } ) H _ { d } ^ { \\dagger } H _ { d } + m _ { S } ^ { 2 } | S | ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\kappa$ and $\\lambda$ are dimensionless parameters, and $A _ { \\lambda }$ and $A _ { \\kappa }$ are the corresponding trilinear soft breaking parameters. To clearly show the properties of the Higgs sector, we can expand ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "the neutral scalar fields around the vevs as [33] ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l l } { { \\mathrm { R e } H _ { d } ^ { 0 } = ( v _ { d } - H \\sin \\beta + h \\cos \\beta ) / \\sqrt { 2 } , } } & { { \\mathrm { I m } H _ { d } ^ { 0 } = ( P \\sin \\beta + G ^ { 0 } \\cos \\beta ) / \\sqrt { 2 } , } } \\\\ { { \\mathrm { R e } H _ { u } ^ { 0 } = ( v _ { u } + H \\cos \\beta + h \\sin \\beta ) / \\sqrt { 2 } , } } & { { \\mathrm { I m } H _ { u } ^ { 0 } = ( P \\cos \\beta - G ^ { 0 } \\sin \\beta ) / \\sqrt { 2 } , } } \\\\ { { \\mathrm { R e } S = ( v _ { s } + s ) / \\sqrt { 2 } , } } & { { \\mathrm { I m } S = P _ { S } / \\sqrt { 2 } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Substituting Eq. (11) into Eq. (1O),we obtain the mass matrix squared $M _ { S } ^ { 2 }$ for the neutral CP-even Higgs bosons and the trilinear Higgs self-interactions as ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { \\mathrm { C P - e v e n } } ^ { ( 0 , N M S S M ) } = \\frac { 1 } { 2 } \\left( H , h , s \\right) M _ { S } ^ { 2 } \\left( \\begin{array} { c } { { H } } \\\\ { { h } } \\\\ { { s } } \\end{array} \\right) + \\lambda _ { h _ { \\alpha } h _ { \\beta } h _ { \\gamma } } h _ { \\alpha } h _ { \\beta } h _ { \\gamma } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "with $h _ { \\alpha , \\beta , \\gamma } = H , h , s$ . The tree-level $M _ { S i j } ^ { 2 }$ are given by [35] ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { M _ { \\mathrm { { } } } ^ { 2 } = M _ { A } ^ { 2 } + ( M _ { Z } ^ { 2 } - \\frac 1 2 \\lambda ^ { 2 } v ^ { 2 } ) \\sin ^ { 2 } 2 \\beta , } } \\\\ { { M _ { \\mathrm { { } } } ^ { 2 } = - \\frac 1 2 ( M _ { Z } ^ { 2 } - \\frac 1 2 \\lambda ^ { 2 } v ^ { 2 } ) \\sin 4 \\beta , } } \\\\ { { M _ { S ^ { 1 3 } } ^ { 2 } = - \\sqrt 2 \\lambda v \\mu x \\cot 2 \\beta , } } \\\\ { { M _ { S ^ { 2 } 2 } ^ { 2 } = M _ { Z } ^ { 2 } \\cos ^ { 2 } 2 \\beta + \\frac 1 2 \\lambda ^ { 2 } v ^ { 2 } \\sin ^ { 2 } 2 \\beta , } } \\\\ { { M _ { S ^ { 2 3 } } ^ { 2 } = \\sqrt 2 \\lambda v \\mu ( 1 - x ) , } } \\\\ { { M _ { S ^ { 3 3 } } ^ { 2 } = 4 \\frac { \\kappa ^ { 2 } } { \\lambda ^ { 2 } } \\mu ^ { 2 } + \\frac { \\kappa } { \\lambda } A _ { \\kappa } \\mu + \\frac { \\lambda v ^ { 2 } } { 2 } x - \\frac { \\kappa \\lambda } { 2 } v ^ { 2 } \\sin 2 \\beta , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "with ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { A } ^ { 2 } = \\frac { \\lambda v _ { s } } { \\sin 2 \\beta } \\left( \\sqrt { 2 } A _ { \\lambda } + \\kappa v _ { s } \\right) , \\quad x = \\frac { 1 } { 2 \\mu } ( A _ { \\lambda } + 2 \\frac { \\kappa } { \\lambda } \\mu ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Here,it should be mentioned that the mass parameter $M _ { A }$ in the NMSSM becomes the mass of the heavy pseudoscalar Higgs boson only in the MSSM limit ( $\\lambda , \\kappa \\to 0$ with the ratio $\\kappa / \\lambda$ fixed). In the NMSSM, $M _ { A }$ can be traded by the soft parameter $A _ { \\lambda }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The CP-even Higgs mass eigenstates $h _ { i }$ ( $i = 1 , 2 , 3$ ） can be obtained by diagonalizing $M _ { S } ^ { 2 }$ with a rotation matrix $\\mathcal { O }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { i } = { \\cal O } _ { i \\alpha } h _ { \\alpha } , ( h _ { \\alpha } = H , h , s ) , \\quad \\mathrm { d i a g } ( m _ { h _ { 1 } } ^ { 2 } , m _ { h _ { 2 } } ^ { 2 } , m _ { h _ { 3 } } ^ { 2 } ) = { \\mathcal O } M _ { S } ^ { 2 } { \\mathcal O } ^ { T }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "with $\\mathcal { O } _ { i \\alpha }$ being the elements of the rotation matrix satisfying the sum rules ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { O } _ { 1 \\alpha } ^ { 2 } + \\mathcal { O } _ { 2 \\alpha } ^ { 2 } + \\mathcal { O } _ { 3 \\alpha } ^ { 2 } = 1 .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The mass eigenstates $h _ { i }$ are aligned by the masses $m _ { h _ { 1 } } \\le m _ { h _ { 2 } } \\le m _ { h _ { 3 } }$ . The singlet or nonSM doublet components in a physical Higgs boson $h _ { i }$ is determined by the rotation matrix elements $\\mathcal { O } _ { i ( H , s ) }$ . With Eq. (2O), the corresponding tree-level trilinear Higgs couplings in the mass eigenstates $h _ { i }$ are given by ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { h _ { i } h _ { j } h _ { k } } ^ { ( 0 , N M S S M ) } = \\mathcal { O } _ { i \\alpha } \\mathcal { O } _ { j \\beta } \\mathcal { O } _ { k \\gamma } \\lambda _ { h _ { \\alpha } h _ { \\beta } h _ { \\gamma } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the NMSSM, we take $h _ { 1 }$ or $h _ { 2 }$ as the SM-like Higgs boson when $| \\mathcal { O } _ { ( 1 , 2 ) h } | ^ { 2 } \\geq 0 . 5$ In general, due to the introduction of the singlet $s$ and its couplings to the MSSM Higgs sector, the mass of the SM-like Higgs boson $M _ { S _ { 2 2 } } ^ { 2 }$ Can be lifted by the extra large $\\lambda$ -term at tree level,as shown in Eq. (16). The value of $\\lambda$ at the weak scale is upper bounded by O.7 in order for the NMSSM to remain perturbative up to the GUT scale [33, 35]. Whereas, the case of $\\lambda > 0 . 7$ (dubbed as $\\lambda$ -SUSY model) is still of interest because it can suppress the sensitivity of the Higgs mass with respect to changes of the soft SUSY-breaking masses and keep the fine tuning at a moderate level even for stop masses up to 1 TeV. So, in our study, we consider both $\\lambda < 0 . 7$ and $\\lambda > 0 . 7$ cases: ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "·For $\\lambda < 0 . 7$ ，in addition to the tree-level $\\lambda$ contribution,the mixture of the singlet （204号 $s$ with the MSSM Higgs $h$ and $H$ ，as shown in Eq. (13),in particular with $h$ ， could further modify the SM-like Higgs mass. If $H$ is decoupled, when $M _ { S _ { 2 2 } } ^ { 2 } > M _ { S _ { 3 3 } } ^ { 2 }$ ，the mass eigenvalues for the SM-like Higgs boson $m _ { h _ { 2 } }$ is pushed up by the positive mixing effect afterthediagonalizatiooftheh-s mass matrix.HoweverhenM < Ms， the mass eigenvalues for the SM-like Higgs boson $m _ { h _ { 1 } }$ is pulled down by the negative mixing effect. Without the negative mixing effect， the maximal tree-level SM-like Higgs mass $m _ { h _ { 1 } }$ can only reach to about 110 GeV [36, 37], which needs a sizable loop correction from the stop sector to obtain a 125 GeV Higgs boson like in the MSSM. In this sense, $h _ { 2 }$ being the observed SM-like Higgs boson may be more natural than $h _ { 1 }$ in the NMSSM. So,we choose the next-to-lightest CP-even Higgs boson $h _ { 2 }$ as the SM-like Higgs boson in the following discussions for the NMSSM with $\\lambda < 0 . 7$ . Note that the lightest Higgs boson $h _ { 1 }$ in this case is predominantly singlet-like and its mass can be as light as about 20 GeV in our scanned samples. Consequently, the SM-like Higgs boson （204 $h _ { 2 }$ can decay into a pair of light scalars $h _ { 1 }$ and hence the $\\gamma \\gamma$ and $Z Z ^ { * }$ signal rates are suppressed. In order to be consistent with the LHC Higgs data, the branching ratio of $h _ { 2 }  h _ { 1 } h _ { 1 }$ was found to be less than about 30% [38] and may be tested through $h _ { 1 } h _ { 1 } \\to b b \\mu ^ { + } \\mu ^ { - }$ production channel at the 14 TeV LHC [39]. However, due to our interests in the large mixing region, we only display the results with $m _ { h _ { 1 } } > m _ { h _ { 2 } } / 2$ in the following analysis. We will also decouple the heaviest CP-even Higgs boson $h _ { 3 }$ by requiring $m _ { h _ { 3 } } > 1$ TeV and focus on the singlet-doublet system. On the other hand, as mentioned above, if $h _ { 1 }$ is the SM-like Higgs boson, the value of $\\lambda$ tends to be large in order to maximize the tree-level Higgs mass (so in our study for $\\lambda$ -SUSY with $\\lambda > 0 . 7$ ， we will choose $h _ { 1 }$ as the SM-like Higgs boson). This feature may lead to a sizable change in Higgs self-coupling when doublet-singlet mixing effect is large. We checked this posibio $\\lambda _ { 3 h _ { 1 } } ^ { N M S S M } / \\lambda _ { 3 h } ^ { S M }$ anvaryfrom0.29 to .17 for our samples with $\\lambda < 0 . 7$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For $\\lambda > 0 . 7$ ， we choose the lightest CP even Higgs boson $h _ { 1 }$ as the SM-like Higgs boson. The reason is that for $\\lambda > 0 . 7$ the tree-level Higgs mass will be significantly lifted. If （20 $h _ { 2 }$ is assumed as the SM-like Higgs boson, the large $\\lambda$ -term in $M _ { S _ { 2 2 } } ^ { 2 }$ and the positive doublet-singlet mixing effect can readily make the SM-like Higgs mass $m _ { h _ { 2 } }$ exceed 125 GeV. Thus, such a choice is strongly disfavored by the LHC observed Higgs mass [37] and will not be further studied in our work. If $h _ { 1 }$ is the SM-like Higgs boson, as pointed before, the cancelation between the tree-level $\\lambda$ -term and the negative doublet-singlet mixing effect can easily yield a 125 GeV SM-like Higgs boson. However, $\\lambda$ can not be too large, because the large trilinear and quartic couplings of singlet scalar field $s$ will largely contribute to the scattering amplitude $s s  s s$ . In the high energy limit, the unitarity condition requires $| \\lambda | \\le 3$ and $| \\kappa | \\leq 3$ . Furthermore,if combined with the dark matter relic abundance constraint, the above-mentioned unitarity bound can set a generic upper bound 2O TeV for the heavy Higgs masses [40]. The requirement of perturbativity up to the cut-off scale $\\Lambda$ ,i.e., $\\lambda ( \\Lambda ) \\lesssim 2 \\pi$ and $\\kappa ( \\Lambda ) \\lesssim 2 \\pi$ , will set upper bounds on $\\lambda$ and $\\kappa$ at weak scale. In this study, we assume the new unknown strong dynamics, for restoring the unitary of scattering processes, appears at some scale $\\Lambda$ （204号 above 10 TeV, and require $\\lambda ^ { 2 } + \\kappa ^ { 2 } \\lesssim 4 . 2$ [35, 41]. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Before closing this section，we note that since both Higgs boson masses and Higgs selfinteractions arise from the Higgs potential, one has to adopt the same method to calculate them up to the same order for comparing the self-couplings in SUSY and SM. Although the most accurate evaluation of Higgs mass is up to three-loop level in the MSSM [42], there is no corresponding result for the Higgs self-couplings. Hence, in our study, we derive the Higgs mass and self-couplings by following the effective potential approaches in the MSSM [14] and NMSSM [21], where the explicit dominant one- and two-loop corrections to the effective potential are presented. Then we coded those expressons in our numerical calculation. On the other hand, since the tree-level mixing effects in the Higgs sector are usually dominant over the loop corrections in the NMSSM, we will focus on the doublet-singlet mixing effects for the NMSSM results. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "III. NUMERICAL CALCULATIONS AND RESULTS ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A. Scan over the parameter space ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In our numerical calculations, we take the input parameters of the SM as [43] ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { m _ { t } = 1 7 3 . 5 \\ \\mathrm { G e V } , \\quad m _ { W } = 8 0 . 3 8 5 \\ \\mathrm { G e V } , \\quad m _ { Z } = 9 1 . 1 8 7 6 \\ \\mathrm { G e V } , } \\\\ & { m _ { b } ^ { \\overline { { M S } } } ( m _ { b } ^ { \\overline { { M S } } } ) = 4 . 1 8 \\ \\mathrm { G e V } , \\quad \\alpha _ { s } ( M _ { Z } ) = 0 . 1 1 8 4 , \\quad \\alpha ( m _ { Z } ) ^ { - 1 } = 1 2 8 . 9 6 2 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We use NMSSMTools-4.4.1 [44] to perform a random scan over the parameter space. Note that for any given value of $\\mu { _ { e f f } }$ , the phenomenology of the NMSSM is identical to the MSSM in the limit $\\lambda , \\kappa \\to 0$ with the ratio $\\kappa / \\lambda$ fixed ( $A _ { \\kappa }$ should be negative and satisfy $\\left| A _ { \\kappa } \\right| < 4 \\kappa \\mu / \\lambda$ to guarantee the squared mass of the singlet scalar to be positive) [33]. In our scan for the MSSM, we take $\\lambda = \\kappa = 1 0 ^ { - 7 }$ and $A _ { \\kappa } = - 1 0$ GeV. The validity of such a method has been justified by the authors of the NMSSMTools [44] and our previous calculations [34]. We also numerically checked our MSSM results of $m _ { h }$ by using the codes FeynHiggs [45], SOFTSUSY [46] and SuSpect [47],and found the results to agree with that given by the NMSSMTools within about 1% level when $m _ { h } \\sim 1 2 5$ GeV. So it is feasible to use the package NMSSMTools in the MSSM limit to study the phenomenology of the MSSM. For simplicity, we decouple the sleptons, gauginos and the first two generations of squarks by fixing the corresponding soft mass parameters at 2 TeV. We also set $M _ { Q 3 } = M _ { D 3 } = M _ { U 3 }$ and $A _ { t } = A _ { b }$ for the third generation of squarks. The lower limit of $\\tan \\beta$ in the MSSM is taken as 5,which is inspired by the recent LHC Higgs results [32]. The parameter ranges in our scan are chosen as the following: ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a) For the MSSM, ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { 5 \\le \\tan \\beta \\le 6 0 , \\ 0 . 2 \\ \\mathrm { T e V } \\le \\ M _ { A } \\le 1 \\ \\mathrm { T e V } , \\ | \\mu | \\le 1 \\ \\mathrm { T e V } , } \\\\ & { \\mathrm { ~ 0 . 1 ~ T e V } \\le M _ { Q 3 } \\le 2 . 5 \\ \\mathrm { T e V } , \\ | A _ { t } | \\le 3 M _ { Q 3 } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(b) For the NMSSM with $\\lambda < 0 . 7$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { 0 \\leq \\lambda \\leq 0 . 7 , \\ \\vert \\kappa \\vert \\leq 0 . 7 , \\ 0 . 2 \\ \\mathrm { T e V } \\leq A _ { \\lambda } \\leq 1 \\ \\mathrm { T e V } , } \\\\ & { \\left. A _ { \\kappa } \\right. \\leq 1 \\ \\mathrm { T e V } , \\ 1 \\leq \\tan \\beta \\leq 2 0 , \\ 0 . 1 \\ \\mathrm { T e V } \\leq \\mu \\leq 1 \\ \\mathrm { T e V } , } \\\\ & { 0 . 1 \\ \\mathrm { T e V } \\leq M _ { Q 3 } \\leq 1 \\ \\mathrm { T e V } , \\ \\left. A _ { t } \\right. \\leq 3 M _ { Q 3 } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(c) For the NMSSM with $\\lambda > 0 . 7$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { 0 . 7 < \\lambda \\le 2 , \\ 0 < \\kappa \\le 2 , \\ 0 . 2 \\ \\mathrm { T e V } \\le A _ { \\lambda } \\le 1 \\ \\mathrm { T e V } , } \\\\ & { \\left| A _ { \\kappa } \\right| \\le 1 \\ \\mathrm { T e V } , \\ 1 \\le \\tan \\beta \\le 2 0 , \\ 0 . 1 \\ \\mathrm { T e V } \\le \\mu \\le 1 \\ \\mathrm { T e V } , } \\\\ & { 0 . 1 \\ \\mathrm { T e V } \\le M _ { Q 3 } \\le 1 \\ \\mathrm { T e V } , \\ \\left| A _ { t } \\right| \\le 3 M _ { Q 3 } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In our scan， we consider the following constraints: ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1) We require the SM-like Higgs mass in the range of 123-127 GeV and consider the exclusion limits (at the $9 5 \\%$ confidence level) from LEP, Tevatron and LHC in Higgs searches with HiggsBounds-4.2.0 [48]. We also perform the Higgs data fit by calculating $\\chi ^ { 2 }$ of the Higgs couplings with the public package HiggsSignals-1.3.0 [49] and require our samples to be consistent with Higgs data at $2 \\sigma$ level. We choose the SLHA input choice of HiggsBounds/HiggsSignals， where the effective Higgs couplings are only used to calculate the Higgs production cross section ratios. The Higgs decay branching ratios are taken directly from the corresponding decay blocks in the SLHA file generated by the NMSSMTools. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2) We require one-loop SUSY predictions for $B$ -physics observables to satisfy the $2 \\sigma$ bounds as encoded in NMSSMTools，which include $B  X _ { s } \\gamma$ ， $B _ { s } \\to \\mu ^ { + } \\mu ^ { - }$ ， $B _ { d } $ $X _ { s } \\mu ^ { + } \\mu ^ { - }$ and $B ^ { + } \\to \\tau ^ { + } \\nu$ . Theoretical uncertainties in B-physics observables are taken into account as implemented in NMSSMTools.   \n(3） We require the one-loop SUSY predictions for the precision electroweak observables such as $\\rho _ { l }$ ， $\\sin ^ { 2 } \\theta _ { \\mathrm { e f f } } ^ { l }$ ， $m _ { W }$ and $R _ { b }$ [50] to be within the $2 \\sigma$ ranges of the experimental values.   \n(4) We require the thermal relic density of the lightest neutralino (as the dark matter candidate) is below the $2 \\sigma$ upper bound of the Planck value [51] and the spin-independent neutralino-proton scattering cross section satisfy the direct detection bound from LUX at $9 0 \\%$ confidence level [52].   \n(5）We also consider the theoretical constraints from the stability of the Higgs potential as encoded in the NMSSMTools. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "B. Results for the MSSM ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/ecd6672394a14a43e0d8aac57eff14d183729c7b6cad5cf86a840bd4a1857e41.jpg",
+        "img_caption": [
+            "FIG.1: Excluded region in the tan $\\beta$ versus $M _ { A }$ plane of the MSSM. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Precision measurements of the Higgs boson properties (its mass and couplings to other particles) at the LHC provide relevant constraints on possible weak-scale extensions of the SM. In the usual context of the MSSM, these constraints suggest that all the additional non-SM-like Higgs bosons should be heavy. In Fig.1, we show that in the decoupling limit of the MSSM, the region with $m _ { A } < 3 3 0$ GeV has been excluded by various constraints. Similar result has been recently pointed out in [53]. The lower part of Fig. 1 shows that the value of $\\tan \\beta$ can not be too small due to the requirement of 125-127 GeV Higgs mass in our scan. For a small $\\tan \\beta$ ， heavy stops ( $\\gtrsim$ 10 TeV） or a large mixing parameter $A _ { t }$ （204号 is needed to produce a large positive correction to the Higgs mass，which， however, will easily lead to vacuum instability and large uncertainty in the numerical calculation. So, we focus on $m _ { \\tilde { t } _ { 1 } } < 2 . 5$ TeV region in our calculations. The additional constraints on the MSSM parameters imposed by the Higgs data are obtained by using the HiggsBounds-4.2.0 package. The key algorithm of HiggsBounds can be described in two steps. Firstly, the HiggsBounds uses the expected experimental limits from LEP, Tevatron and LHC to determine which decay channel has the highest statistical sensitivity. Secondly, for this particular channel, the theory prediction is compared to the observed experimental limits to conclude whether this sample is allowed or excluded at $9 5 \\%$ CL.With the HiggsBounds,we find that most of samples (black bullets） with $1 8 0 ~ \\lesssim ~ M _ { A } ~ \\lesssim ~ 3 3 0$ GeV and $5 \\lesssim \\tan \\beta \\lesssim 1 0$ have been excluded. Particularly, the latest CMS result of searching for $H / A \\to \\tau ^ { + } \\tau ^ { - }$ has excluded most parameter space with a low $M _ { A }$ and low to moderate values of $\\tan \\beta$ , as shown in the upper left corner of Fig. 1. We have checked that the current low energy constraints from $B _ { s } \\to \\mu ^ { + } \\mu ^ { - }$ and $B _ { s }  X _ { s } \\gamma$ are weaker than $H / A \\to \\tau ^ { + } \\tau ^ { - }$ for our interested region (low to moderate values of $\\tan \\beta$ ). We note that the supersymmetric loop corrections generally lead to a contribution of the order of a few percent of the SM value. Hence, the suppressons in Higgs signal strengthes $\\mu _ { \\gamma \\gamma }$ and $\\mu _ { V V ^ { * } }$ are mostly governed by the increase of the width of the lightest CP-even Higgs decay into bottom quarks and tau leptons at low values of $m _ { A }$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 suggests that all the additional non-SM-like Higgs bosons should be heavy, with masses larger than about 330 GeV. This is the commonly discussed decoupling limit of the MSSM. However,as discussed in [54], it is also possible to have the MSSM parameter conditions for alignment independent of decoupling, where the lightest CP-even Higgs boson has SM-like tree-level couplings to fermions and gauge bosons, independently of the nonstandard Higgs boson masses. In the alignment region, $\\sin ( \\alpha - \\beta ) \\sim 1$ and the bounds on the heavy Higgs bosons that arise from the measurements of $h  V V$ may be relaxed. Such alignment conditions are associated with very SM-like $h t t$ coupling and tend to be restricted to values of $\\tan \\beta$ of order 10 or larger within the MSSM [54-56]. As will be shown below, for such a large value of $\\tan \\beta$ , the supersymmetric contributions to the SM-like Higgs selfcoupling are found to be small (at a percent level). Hence,even in the alignment condition, we cannot expect a large deviation of the Higgs self-coupling with the SM value. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In Fig. 2 we project the samples surviving all the experimental constraints on the planes of $m _ { A }$ and $m _ { \\tilde { t } _ { 1 } }$ versus tan $\\beta$ The ratio $\\lambda _ { 3 h } ^ { M S S M } / \\lambda _ { 3 h } ^ { S M }$ is always smaller than 1because of the negative MSSM corrections to Higgs self-coupling [23]. From the left panel it can be seen that in most part of the allowed parameter space (the blue triangles),the values of $\\lambda _ { 3 h } ^ { M S S M } / \\lambda _ { 3 h } ^ { S M }$ (we use $3 h$ to denote $h h h$ ）are larger than 0.99.When both $\\tan \\beta$ and $m _ { A }$ （20 become small, $\\lambda _ { 3 h } ^ { M S S M } / \\lambda _ { 3 h } ^ { S M }$ gets smaller， which can minimally reach about 0.97 for our samples. The reasons for $\\lambda _ { 3 h } ^ { M S S M }$ being so close to $\\lambda _ { 3 h } ^ { S M }$ are the followig:(1）Thedominant MSSM contributions to $\\lambda _ { 3 h } ^ { M S S M } / \\lambda _ { 3 h } ^ { S M }$ arefromthestoplopswhile theHiggscouplig with the stops is proportional to $1 / \\sin \\beta$ . So it leads to an overall enhancement factor $1 / \\sin ^ { 3 } \\beta$ （204号 in the corrections when $\\tan \\beta$ is small. However, such a region is obviously not favored by the measured Higgs mass,which needs a large $\\tan \\beta$ to enhance the Higgs mass; (2) A light （204号 $m _ { A }$ causes a large mixing between two CP-even Higgs bosons and can sizably change the Higgs couplings with the SM fermions. But as mentioned before, $m _ { A }$ should be heavier than about 330 GeV to satisfy the experimental constraints in our scan. For the right panel it should be mentioned that since the small values of $\\lambda _ { 3 h } ^ { M S S M } / \\lambda _ { 3 h } ^ { S M }$ occur in the small $\\tan \\beta$ region, heavy stops are usually needed to enhance the Higgs mass through loop corrections. In Fig. 3, we show the MSSM Higgs couplings in comparison with the SM predictions. The ILC(1 TeV,1 ab $^ - 1$ ）sensitivities to the alteration of the couplings [57] are also ploted, where the regions between the bars give too small alterations to be detectable at ILC. The HL-LHC (14 TeV, 3 ab $^ { - 1 }$ ） sensitivities are much worse than ILC and are not shown here. From Fig. 3, we have the following observations: (1) In the MSSM, the Higgs gauge couplings and top-Higgs couplings are respectively changed by the factors sir $\\boldsymbol { \\mathrm { 1 } } ( \\beta - \\alpha )$ and cos $\\alpha / \\sin \\beta$ ， but the ratios $C _ { h V V } ^ { M S S M } / C _ { h V V } ^ { S M }$ and $C _ { h t \\bar { t } } ^ { M S S M } / C _ { h t \\bar { t } } ^ { S M }$ foroursurvivedsamplesareveycloseto unity due to $m _ { A } \\gg m _ { Z }$ . So,even if these couplings can be measured at percent level at ILC, it cannotconstrain the MSSM parameter space with a sall $\\lambda _ { 3 h } ^ { M S S M } / \\lambda _ { 3 h } ^ { S M }$ ； (2) The ratio $C _ { h g g } ^ { M S S M } / C _ { h g g } ^ { S M }$ is alwaysales stops or heavy stops needed by the Higgs mass interferes destructively with the top loop and $C _ { h g g } ^ { M S S M }$ is suppressed while $C _ { h \\gamma \\gamma } ^ { M S S M } / C _ { h \\gamma \\gamma } ^ { S M }$ canbereatertesi contribution with the $W$ loop. Although both couplings only slightly deviate from the SM predictions, the high precision measurements on $C _ { g g , \\gamma \\gamma }$ at the ILC will be able to exclude Some part of the parameter space with $\\lambda _ { 3 h } ^ { M S S M } / \\lambda _ { 3 h } ^ { S M } > 0 . 9 7 7$ ， ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/94ce25bb0607db64324ffc311498f5bf3abb15feb2d2234bfe2ea1ea1b34b3ab.jpg",
+        "img_caption": [
+            "FIG. 2: Scatter plots of the samples surviving all the experimental constraints, projected on the planes of $\\tan \\beta$ versus $m A$ and $m _ { \\tilde { t } _ { 1 } }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/7468f2051b0db11005127b82af6c937db3853cd0d1cf161dfd5798dca69539f3.jpg",
+        "img_caption": [
+            "FIG.3: Same as Fig.2, but showing the Higgs couplings. The ILC (1 TeV,1 ab $^ { - 1 }$ ）sensitivities to the alteration of the couplings [57] are also ploted (the regions between the bars give too small alterations to be detectable at ILC). "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "C. Results for the NMSSM ( $\\lambda < 0 . 7$ ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In Fig. 4, we project the NMSSM ( $\\lambda < 0 . 7$ ） samples allowed by the constraints (1)-(5) on the planes of $\\lambda$ versus $\\kappa$ and $\\kappa$ versus the singlet component $| \\mathcal { O } _ { 2 s } |$ in the SM-like Higgs boson $h _ { 2 }$ . Here we take $2 m _ { h _ { 1 } } > m _ { h _ { 2 } }$ so that $h _ { 2 }$ will not decay into a pair of $h _ { 1 }$ . We can see that when $\\lambda$ and $\\kappa$ approach to zero, $\\tan \\beta$ has to be large in order to enhance the Higgs mass. While in small $\\tan \\beta \\lesssim 1 0$ region, the values of $\\lambda$ for most samples are larger (in magnitude) than $\\kappa$ . Since the singlet component $| { \\mathcal { O } } _ { 2 s } |$ in the SM-like Higgs boson $h _ { 2 }$ can potentially affect the Higgs self-coupling in Eq. (22)，we also show the dependence of $| \\mathcal { O } _ { 2 s } |$ . Since the singlet component $| \\mathcal { O } _ { 2 s } |$ in the SM-like Higgs boson $h _ { 2 }$ can potentially affect the Higgs selfcoupling in Eq. (22),we also show the dependence of $| { \\mathcal { O } } _ { 2 s } |$ on $\\lambda$ and $\\kappa$ for the NMSSM (with （20 $\\lambda < 0 . 7$ ） samples which survive all the experimental constraints. It can be seen that $| { \\mathcal { O } } _ { 2 s } |$ deceases if both $\\lambda$ and $\\kappa$ go to zero. However, if $\\lambda \\gg | { \\boldsymbol { \\kappa } } | \\sim 0$ ， which usually happens for small $\\tan \\beta \\lesssim 1 0$ ， $| { \\mathcal { O } } _ { 2 s } |$ can be sizeable and lead to a large deviation from the SM prediction in triple Higgs boson coupling. For example, for $\\lambda = 0 . 0 1 7$ and $\\kappa = - 0 . 0 0 3 8$ ， $\\mathcal { O } _ { 2 s } \\sim 0 . 2 1 5$ （20 and $\\lambda _ { 3 h _ { 2 } } ^ { N M S S M } / \\lambda _ { 3 h } ^ { S M } \\sim 0 . 7$ Tesostt （204号 $h _ { 3 }$ by requiring ${ { M } _ { h _ { 3 } } } > 1$ TeV, $| \\mathcal { O } _ { 2 s } |$ is proportional to $\\sin \\theta$ ， where the mixing angle $\\theta$ that determines the mixture of the singlet and the SM-like Higgs states can be approximately expressed as $\\tan 2 \\theta \\sim 2 M _ { 2 3 } ^ { 2 } / ( M _ { 2 2 } ^ { 2 } - M _ { 3 3 } ^ { 2 } )$ [35, 37]. Here, $M _ { i j } ^ { 2 }$ are the CP-even Higgs mass matrix elements listed in Eqs. (13-18). In case that $\\lambda$ is not too small, a large $\\theta$ can happen when $M _ { 2 2 } ^ { 2 } - M _ { 3 3 } ^ { 2 } \\sim M _ { 2 3 } ^ { 2 }$ . This leads to a large singlet component in the SM-like Higgs state and hence a sizeable modification of the Higgs trilinear couplings. ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/54e55ed22412ee9289ca11f5b0fd529c4f520de7f7076df249f37fb7325d80ff.jpg",
+        "img_caption": [
+            "FIG. 4: The NMSSM ( $\\lambda < 0 . 7$ ） samples surviving all the experimental constraints, projected on the planes of $\\lambda$ versus $\\kappa$ and the singlet component $| { \\mathcal { O } } _ { 2 s } |$ in the SM-like Higgs boson $h _ { 2 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In Fig.5, wedisplaythe dependenceof $\\lambda _ { 3 h _ { 2 } } ^ { N M S S M } / \\lambda _ { 3 h } ^ { S M }$ versus $\\lambda$ and $\\tan \\beta$ for the NMSSM （ $\\lambda ~ < ~ 0 . 7$ ). As mentioned above,due to the Higgs mass constraint，most of the allowed odeple $\\lambda$ .Furthermore, the atio $\\lambda _ { 3 h _ { 2 } } ^ { N M S S M } / \\lambda _ { 3 h } ^ { S M }$ is not sensitive to the value of $\\tan \\beta$ We also show the dependence f $\\lambda _ { 3 h _ { 2 } } ^ { N M S S M } / \\lambda _ { 3 h } ^ { S M }$ versus the singlet component $| \\mathcal { O } _ { 2 s } |$ in the SM-like Higgs boson $h _ { 2 }$ and the lightest CP-even Higgs mass $m _ { h _ { 1 } }$ for the NMSSM( $\\lambda < 0 . 7 \\$ . Besides,we plot the expected ILC(1 TeV,1 ab $^ - 1$ )and HLLHC(14 TeV, 3 ab $^ - 1$ ） sensitivities to Higgs self-coupling from the direct measurements [57]. We can se that $\\lambda _ { 3 h _ { 2 } } ^ { N M S S M } / \\lambda _ { 3 h } ^ { S M }$ becomessallieg （204号 $| \\mathcal { O } _ { 2 s } |$ and can minimally reach O.1 in the allowed parameter space. Meanwhile, such a large mixing can make the mass of the lightest singlet-dominant CP-even Higgs boson $h _ { 1 }$ close to the 125 GeV SM-like Higgs boson $h _ { 2 }$ ： ",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/c6296cd53e2211ecfdce772b648ab82102c2ec590807c8131db34127f460800b.jpg",
+        "img_caption": [
+            "FIG.5:SameaFig:4btshowingthedepedcef $\\lambda _ { 3 h _ { 2 } } ^ { N M S S M } / \\lambda _ { 3 h } ^ { S M }$ versus $\\lambda$ and the singlet component $| { \\mathcal { O } } _ { 2 s } |$ in $h _ { 2 }$ ，where $m _ { h _ { 2 } } < 2 m _ { h _ { 1 } }$ . The ILC $\\mathrm { ^ { ' } 1 T e V , 1 a b ^ { - 1 } } ,$ ）and HL-LHC(14 TeV,3 ab $^ { - 1 }$ ） sensitivities are also plotted (the region below each horizontal line is detectable). "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In Table I, we present the properties of two CP-even Higgs bosons $h _ { 1 }$ and $h _ { 2 }$ for such a benchmark point at 14 TeV LHC. We can see that the cross sections of the single $h _ { 1 }$ production are close to those of SM-like $h _ { 2 }$ because of the large doublet and singlet mixing components in both $h _ { 1 }$ and $h _ { 2 }$ . However, the branching ratio $h _ { 1 } \\to V V ( V = Z , W \\gamma , g )$ （204号 is greatly suppressed by the increase of the partial width of $h _ { 1 }  b b$ . Thus,the observed production rate of $g g  h _ { 1 }  V V$ is much smaller than that of SM-like $h _ { 2 }$ . We also checked and found that although the cross section of $g g  h _ { 1 }  \\tau ^ { + } \\tau ^ { - }$ can reach 2.06 pb,it is still smaller than the upper bound given by the current LHC searches for $H / A \\to \\tau ^ { + } \\tau ^ { - }$ [28]. Besides,it should be mentioned that the sizable modification of the self-coupling of the SM-like Higgs boson $h _ { 2 }$ always accompanies with the great changes in other Higgs couplings, which can be seen in Fig. 6. So,given the limited sensitivity of measuring the Higgs boson ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "TABLE I: A benchmark point for the NMSSM with $\\lambda < 0 . 7$ ( $h _ { 2 }$ is the SM-like Higgs boson). The cross sections(pb) are calculated for LHC-14 TeV. ",
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/a0c286093d96b5cbc4bf2c36e20c37f64bcf79de36721ca627551ab6c9aa90f2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>入</td><td>K</td><td>tan β</td><td>μ (GeV)</td><td></td><td></td><td>A （Gev)A （GeV）NMSSM/S</td></tr><tr><td>0.16</td><td>0.31</td><td>17.9</td><td>105.3</td><td>1461.9</td><td>-716.2</td><td>0.798</td></tr><tr><td>mh1 (GeV)</td><td>Oggh1</td><td>OVVh1</td><td>OWh1</td><td>OZh1</td><td>Otth1</td><td>Obbh1</td></tr><tr><td>119.56</td><td>25.41</td><td>2.14</td><td>0.85</td><td>0.49</td><td>0.33</td><td>0.54</td></tr><tr><td>Brh1→q</td><td>Brh1→gg</td><td>Brh1→ZZ*</td><td>Brh1→WW*</td><td>Brh1→cc</td><td>Brn1→b6</td><td>Brh1→t+T-</td></tr><tr><td>0.135%</td><td>3.60%</td><td>0.717%</td><td>7.88%</td><td>2.12%</td><td>77.3%</td><td>8.10%</td></tr><tr><td>mh2 (GeV)</td><td>Oggh2</td><td>0VVh2</td><td>0Wh2</td><td>OZh2</td><td>Otth2</td><td>bbh2</td></tr><tr><td>127.30</td><td>24.81</td><td>2.05</td><td>0.71</td><td>0.41</td><td>0.29</td><td>0.14</td></tr><tr><td>Brh2→Y</td><td>Brh2→gg</td><td>Brh2→ZZ*</td><td>Brh2→WW*</td><td>Brh2→cc</td><td>Brn2→bb</td><td>Brh2→T+T-</td></tr><tr><td>0.381%</td><td>8.11%</td><td>3.92%</td><td>34.0%</td><td>4.14%</td><td>44.6%</td><td>4.55%</td></tr></table></body></html>",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "self-couplings, we anticipate that the precision measurement of Higgs couplings to gauge bosons and fermions could test this scenario at the LHC and future colliders prior to the direct detection of triple or quartic Higgs couplings. ",
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce86831c3d7317ff65de9377a6a4112d33bd3573e078ee48381e059861706e6a.jpg",
+        "img_caption": [
+            "FIG.6: Same as Fig.3 but for the NMSSM ( $\\lambda < 0 . 7 )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "In Fig. 6, we show the Higgs couplings in the NMSSM( $\\lambda < 0 . 7 )$ surviving all the experimental constraints. For comparison，we also show the discovery potential of the expected ILC(1 TeV, 1 ab $^ - 1$ ） and HL-LHC(14 TeV, 3 ab $^ { - 1 }$ ）[57]. From this figure,we obtain the following observations: (1） Due to the singlet admixture in the SM-like Higgs boson, both Higgs gauge couplings and top-Higgs coupling can be maximally reduced by about $3 0 \\%$ in the allowed region, which is much larger than in the MSSM. So, the expected measurements of the Higgs gauge couplings at the HL-LHC and ILC can exclude the parameter space with $\\lambda _ { 3 h _ { 2 } } ^ { N M S S M } / \\lambda _ { 3 h } ^ { S M } < 0 . 8 2$ and $\\lambda _ { 3 h _ { 2 } } ^ { N M S S M } / \\lambda _ { 3 h } ^ { S M } < 0 . 9 3$ ,respectively;(2）Withtheicea $C _ { h g g } ^ { N M S S M } / C _ { h g g } ^ { S M }$ and $C _ { h \\gamma \\gamma } ^ { N M S S M } / C _ { h \\gamma \\gamma } ^ { S M }$ are significantly reduced. On the other hand, due to the additional tree-level contribution （20 $( \\sim \\lambda v \\sin 2 \\beta )$ and the positive mixing effect, we find that a stop with mass less than 200 GeV is still allowed by the SM-like Higgs mass constraint in the NMSSM (similar results have beentaineos58etl $C _ { h g g } ^ { N M S S M } / C _ { h g g } ^ { S M }$ becomes larger than one,due to the constructive contribution from the light stop in loop. We also note that en when $\\lambda _ { 3 h _ { 2 } } ^ { N M S S M }$ appraces to $\\lambda _ { 3 h } ^ { S M }$ ， $C _ { h _ { 2 } \\gamma \\gamma } ^ { N M S S M } / C _ { h \\gamma \\gamma } ^ { S M }$ can stil be eahanced by about 8%. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "D. Results for the NMSSM ( $\\lambda > 0 . 7$ ）",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "In Fig.7,we display the dependenceof $\\lambda _ { 3 h _ { 1 } } ^ { N M S S M } / \\lambda _ { 3 h } ^ { S M }$ versus $\\tan \\beta$ and $m _ { h _ { 2 } }$ for the NMSSM ( $\\lambda > 0 . 7$ ). Similar to Fig. 4, the larger $\\lambda$ is, the smaller $\\tan \\beta$ becomes to satisfy threietof $\\lambda _ { 3 h _ { 1 } } ^ { N M S S M } / \\lambda _ { 3 h } ^ { S M }$ canvaryfro-.to9 in our canoetalt and is $- 1 . 0 4$ for $\\lambda = 1 . 5 7$ and $\\kappa = 1 . 1 6$ . Since we require $m _ { h _ { 3 } } > 1$ TeV, for our samples with mh3 > mh1,2, Xh $\\lambda _ { 3 h _ { 1 } } ^ { N M S S M } / \\lambda _ { 3 h } ^ { S M }$ is appoximately propotional to $\\lambda ^ { 2 }$ and becomes large with the increase of $\\lambda$ . In our scan ranges, such a feature could either enhance or suppress the Higgs self-coupling with respect to the SM prediction, and yield potentially large effects in Higgs pair production cross sections [13, 59]. However, in general, the two masses $m _ { h _ { 2 } }$ and $m _ { h _ { 3 } }$ are virtually independent and the mixing patterns are complicated. It is worth mentioning that the value of $\\lambda _ { 3 h _ { 1 } } ^ { N M S S M } / \\lambda _ { 3 h } ^ { S M } \\lesssim 1$ stroglyelsf Higgs boson $h _ { 2 }$ ． To be specific,when $\\kappa$ becomes small (large), $m _ { h _ { 2 } }$ is inclined to be light (heavy). If $m _ { h _ { 2 } }$ is lighter (heavier）than about 40 GeV, $\\lambda _ { 3 h _ { 1 } } ^ { N M S S M } / \\lambda _ { 3 h } ^ { S M }$ is smaller (larger) than unity for most samples. The properties of $h _ { 2 }$ will be discussed in the following. We should mention that the large $\\lambda$ and $\\kappa$ that producethe large deviationof $\\lambda _ { 3 h _ { 1 } } ^ { N M S S M } / \\lambda _ { 3 h } ^ { S M }$ jeopardize the perturbativity up to GUT scale. Thus, the new unknown strong dynamics will appear at some cut-off scale $\\Lambda$ .On the other hand， the constructions of high scale theory by adding vector-like matter can allow for a larger $\\lambda$ value and relax the cutoff scale to high values [60],which is however beyond the scope of our study. ",
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/72a283c8fad89dbaa52632e84caf76a7e48fb3bfc553faea6c3a36efd3f7254f.jpg",
+        "img_caption": [
+            "FIG. 7: The NMSSM ( $\\lambda > 0 . 7 \\$ ） samples surviving all the experimental constraints,showing the dependence f $\\lambda _ { 3 h _ { 1 } } ^ { N M S S M } / \\lambda _ { 3 h } ^ { S M }$ versus $\\tan \\beta$ and $m _ { h _ { 2 } }$ The ILC(1 TeV,1 ab $^ { - 1 }$ ） and HL-LHC(14 TeV, $3 ~ \\mathrm { a b } ^ { - 1 }$ ）sensitivities are also plotted. "
+        ],
+        "img_footnote": [],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "In Fig. 8,we plot the couplings of $h _ { 2 }$ with gauge bosons and $\\tau$ leptons,normalized to the SM values. We can see that the gauge coupling $h _ { 2 } V V$ is always suppressed due to the presence of singlet $( s )$ and non-SM doublet ( $H$ ）components in $h _ { 2 }$ .If $h _ { 2 }$ is singletlike, the ${ h _ { 2 } } \\tau ^ { + } \\tau ^ { - }$ coupling is suppressed as well, while if $h _ { 2 }$ is non-SM doublet-like, ${ h _ { 2 } } \\tau ^ { + } \\tau ^ { - }$ coupling can be enhanced by $\\tan \\beta$ . The detailed mixing patterns of $s$ and $H$ in $h _ { 2 }$ and its couplings have been thoroughly investigated in [59]. We checked that the cross section $g g  h _ { 2 }  \\tau ^ { + } \\tau ^ { - }$ for our samples is at least one order lower than the current direct search bound on the non-SM Higgs bosons [27, 28]. The main reason is that for a heavy Higgs boson $h _ { 2 }$ , the new decay channels, such as $h _ { 2 }  h _ { 1 } h _ { 1 }$ [61], can be opened and the branching ratio of $h _ { 2 }  \\tau ^ { + } \\tau ^ { + }$ will be highly suppressed. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "In Table II, we present the properties of two CP-even Higgs bosons $h _ { 1 }$ and $h _ { 2 }$ for a benchmark point at 8 TeV LHC. We can see that all the SM branching ratios of $h _ { 2 }$ are reduced due to the opened decay mode $h _ { 2 }  h _ { 1 } h _ { 1 }$ ，which can reach $5 3 . 6 \\%$ for $m _ { h _ { 2 } } = 2 8 2 . 0$ （204号 GeV. Such a Higgs-to-Higgs decay will lead to a resonant SM-like di-Higgs bosons production $p p  h _ { 2 }  h _ { 1 } h _ { 1 }$ at the LHC. A resonance feature in the $h _ { 1 } h _ { 1 }$ invariant mass can be served as a smoking gun to search for the heavy Higgs boson $h _ { 2 }$ . With one SM-like Higgs boson $h _ { 1 }$ decaying to two photons and the other decaying to $b$ -quarks, the resonant signal may be observable above the di-Higgs continuum background for $m _ { h _ { 2 } } < 1$ TeV at the HL-LHC [62]. ",
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/3ed2228f44b1f82499f73da0c90bc3c0b60a34ce5adea07bedca5a85e15fc053.jpg",
+        "img_caption": [
+            "FIG.8: The NMSSM( $\\lambda > 0 . 7$ ） samples surviving all the experimental constraints, showing thedependence of the Higgs couplings versus $m _ { h _ { 2 } }$ ："
+        ],
+        "img_footnote": [],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/c71f464fe99abade16ea6d005762b67ec5c3317f94e4a8ea1c7eae3501adb611.jpg",
+        "img_caption": [
+            "FIG. 9: Same as Fig. 8, but showing the couplings of $h _ { 1 }$ . The HL-LHC(14 TeV, 3 ab-1) and ILC(1 TeV,1ab $^ { - 1 }$ ）sensitivities [57] are also plotted. "
+        ],
+        "img_footnote": [],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "TABLE II: A benchmark point for the NMSSM with $\\lambda > 0 . 7$ ( $h _ { 1 }$ is the SM-like Higgs boson). The cross sections (pb) are calculated for LHC-14 TeV. ",
+        "page_idx": 20
+    },
+    {
+        "type": "table",
+        "img_path": "images/d1acd41852a0d83a7381fd2aba58badd8b6653038f8832587d53394b26fed79e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>入</td><td>K</td><td>tan β</td><td>μ (GeV)</td><td>Ax (GeV)</td><td>Ax (GeV)</td><td>xMSSM/SM 入3h2</td></tr><tr><td>1.54</td><td>0.75</td><td>3.06</td><td>474.00</td><td>1035.41</td><td>-644.30</td><td>-0.203</td></tr><tr><td>mh1 (GeV)</td><td>Oggh1</td><td>OVVh1</td><td>0Wh1</td><td>OZh1</td><td>Ttth1</td><td>Obbh1</td></tr><tr><td>126.9</td><td>42.86</td><td>3.42</td><td>1.17</td><td>0.70</td><td>0.52</td><td>0.29</td></tr><tr><td>Brh→</td><td></td><td></td><td>Brh1→ggBrh1→ZZ*Brh1→WW*</td><td>Brh1→cc</td><td>Brh1→bb</td><td>Brh1→t+T-</td></tr><tr><td>0.427%</td><td>9.87%</td><td>4.18%</td><td>36.5%</td><td>4.98%</td><td>39.7%</td><td>4.03%</td></tr><tr><td>mh2 (GeV)</td><td>Oggh2</td><td>OvVh2</td><td>0Wh2</td><td>OZh2</td><td>Otth2</td><td>Obbh2</td></tr><tr><td>282.0</td><td>6.33</td><td>0.90</td><td>0.06</td><td>0.03</td><td>0.03</td><td>0.04</td></tr><tr><td>Brh2→</td><td>Brh2→ggBrh2→ZZ*</td><td></td><td>Brh2→WW*</td><td>Brh2→bb</td><td>Brh2→T+T-</td><td>Brh2→h1h1</td></tr><tr><td>0.000663%</td><td>0.0173%</td><td>14.1%</td><td>32.1%</td><td>0.0996%</td><td>0.012%</td><td>53.6%</td></tr></table></body></html>",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Next, we present in Fig. 9 the couplings of the SM-like $h _ { 1 }$ to weak gauge bosons and tau pair for the NMSSM ( $\\lambda > 0 . 7$ ). To show their correlation with the Higgs self-coupling, we useheedcolrgtttti $| \\lambda _ { 3 h _ { 1 } } ^ { N M S S M } / \\lambda _ { 3 h } ^ { S M } - 1 | > 0 . 3 \\$ It can be seen that the large Higgs self-couplings corrections correspond to the sizable shifts in Higgs couplings with gauge bosons and tau pair. Since the tree-level mass of the SM-like Higgs boson $h _ { 1 }$ could easily exceed 125 GeV, $h _ { 1 }$ is likely to have non-negligible singlet and/or non-SM doublet components, which makes its couplings deviate from the SM predictions. Fromtifeih $C _ { h _ { 1 } V V } ^ { N M S S M } / C _ { h V V } ^ { S M }$ is alway lesthiyicea singlet and/or non-SM doublet components in $h _ { 1 }$ will make the Higgs couplings to weak gauge bosons smaler than the SM predictions. However, as mentioned above, if the nextto-dominant component in $h _ { 1 }$ is the non-SM doublet, the Higgs coupling with the downtype fermions may be enhanced and larger than the SM predictions, such as the ${ h _ { 1 } } \\tau ^ { + } \\tau ^ { - }$ coupling. Therefore, the future measurements of $C _ { h _ { 1 } \\tau ^ { + } \\tau ^ { - } }$ and $C _ { h _ { 1 } V V }$ couplings can give strong constraints on the parameters space of the NMSSM with $\\lambda > 0 . 7$ and set limits on the Higg sef ecouping $C _ { 3 h _ { 1 } } ^ { N M S S M }$ . ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "From the above discussions, we can see that the large deviation of the Higgs self-coupling $\\lambda _ { 3 h _ { 1 } }$ for the NMSSM（ $\\lambda > 0 . 7$ ）is always accompanied by other collider signatures, such as a shift in the Higgs couplings and the production on resonance of the non-SM doublet （204号 $h _ { 2 }$ . At the LHC, the resonant production of $h _ { 2 }$ may be observed through the channels （20 $g g  h _ { 2 }  \\tau ^ { + } \\tau ^ { - } , h _ { 1 } h _ { 1 }$ . However, the sensitivities of these channels strongly depend on the mass of $h _ { 2 }$ and on its singlet and non-SM doublet components. If $h _ { 2 }$ is dominantly singlet, both direct searches wil not be powerful in probing our scenario at the LHC since all the （20 $h _ { 2 }$ couplings to SM particles are greatly reduced. Thus, the precision measurement of the observed 125 GeV Higgs boson couplings will play an unique role in probing this scenario at future colliders. If $h _ { 2 }$ is dominantly doublet (non-SM), and if $m _ { h _ { 1 } } < m _ { h _ { 2 } } < 2 m _ { h _ { 1 } }$ ，the process $g g  h _ { 2 }  \\tau ^ { + } \\tau ^ { - }$ is still greatly suppressed due to the reduction of the coupling $h _ { 2 } t t$ （24号 despite the fact that the coupling ${ h _ { 2 } } \\tau ^ { + } \\tau ^ { - }$ can be maximally enhanced by a factor of 2. On the other hand for $2 m _ { h _ { 1 } } < m _ { h _ { 2 } }$ ， the decay $h _ { 2 }  h _ { 1 } h _ { 1 }$ is open and contributes to the cross section of $p p  h _ { 1 } h _ { 1 }$ .Therefore， besides the Higgs coupling measurements，a resonance feature in the $h _ { 1 } h _ { 1 }$ invariant mass or an excess in the inclusive $h _ { 1 } h _ { 1 }$ production can be used to probe this model at the future LHC. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "IV. CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "We examined the currently allowed values of trilinear self-couplings of the SM-like 125 GeV Higgs boson $( h )$ in the MSSM and NMSSM after the LHC Run-1. Considering all the relevant experimental constraints,such as the Higgs data, the favor constraints, the electroweak precision observables as well as the dark matter detections，we performed a scan over the parameter space of each model and obtained the following observations: ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "· In the MSSM, the Higgs self-coupling is suppressed relative to the SM value. Such a suppression was found to be rather weak and the ratio $\\lambda _ { h h h } ^ { \\mathrm { M S S M } } / \\lambda _ { h h h } ^ { \\mathrm { S M } }$ is above 0.97 due to the tightly constrained parameter space, cf. Figs. 1 and 2; · In the NMSSM with $\\lambda < 0 . 7$ ， we consider the case that the SM-like Higgs boson mass （20 $m _ { h _ { 2 } }$ is less than twice of $m _ { h _ { 1 } }$ ， so that $h _ { 2 }$ will not decay into a pair of $h _ { 1 }$ . We found that the Higsseloungasfdelikelsudtati $\\lambda _ { h h h } ^ { \\mathrm { N M S S M } } / \\lambda _ { h h h } ^ { \\mathrm { S M } }$ can be as low as 0.1 due to the large mixing between singlet and doublet Higgs bosons, cf. Fig. 5. In that case, the coupling of the SM-like Higgs boson $\\left( h _ { 2 } \\right)$ to to $W$ and （204号 $Z$ bosons and top quark pairs are all suppressed as compared to the SM prediction. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, its couplings to loop-induced processes, such as photon pairs or gluon pairs, can be enhanced, cf. Fig. 6. Given the limited sensitivity of measuring the Higgs boson self-couplings, we anticipate that the precision measurement of Higgs couplings to gauge bosons and fermions could test this scenario at the LHC and future colliders prior to the direct detection of triple or quartic Higgs couplings; ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "· In the NMSSM with $\\lambda > 0 . 7$ (also called $\\lambda$ -SUSY)， the Higgs self-coupling can be greatlyppeaie $\\lambda _ { h h h } ^ { \\mathrm { N M S S M } } / \\lambda _ { h h h } ^ { \\mathrm { S M } }$ can vary from -1.1 to 1.9)，cf. Fig. 7, when $h _ { 1 }$ is taken as the SM-like Higgs boson. Its coupling to $W$ and $Z$ bosons are always suppressed as compared to the SM predictions. On the contrary, its couplings to tau pairs can be either enhanced or suppressed relative to the SM value, cf. Fig. 9. When $m _ { h _ { 2 } } > 2 m _ { h _ { 1 } }$ , it is possible to observe a new resonance production in the di-Higgs boson channel at the LHC. While the couplings of $h _ { 2 }$ to $W$ and $Z$ bosons are always suppressed, its coupling to tau pair can deviate largely from the SM value, depending on the mass of $h _ { 2 }$ , cf. Fig. 8. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Since the NMSSM can give rather different values (compared with the SM) for the trilinear self-couplings of the SM-like Higgs boson, the future collider experiments like the high luminosity LHC or ILC can probe NMSSM through measuring the Higgs self-couplings. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement ",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Lei Wu thanks Roman Nevzorov, Ulrich Ellwanger， Archil Kobakhidze and Michael Schmidt for very helpful discussions. This work was partly supported by the Australian Research Council， by the CAS Center for Excellence in Particle Physics (CCEPP)，by the National Natural Science Foundation of China (NNSFC) under grants Nos. 11305049, 11275057,11405047,11275245,10821504 and 11135003,by Specialized Research Fund for the Doctoral Program of Higher Education under Grant No.20134104120002,and by the U.S.National Science Foundation under Grant No. PHY-1417326. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "[3] For recent reviews, see, e.g.， S. Dawson， et al.， arXiv:1310.8361 [hep-ex]; C. Englert, et al., arXiv:1403.7191 [hep-ph].   \n[4] See, e.g.， M. Bicer et al. [TLEP Design Study Working Group Collaboration], JHEP 1401, 164 (2014) [arXiv:1308.6176 [hep-ex]; D. M. Asner et al. arXiv:1310.0763 [hep-ph].   \n[5] S. Kanemura, Y. Okada, E. Senaha and C.-P. Yuan， Phys. Rev. D 70, 115002 (2004) [hep-ph/0408364]. K. G. Chetyrkin and M. F. Zoler, JHEP 1206, 033 (2012) [arXiv:1205.2892 [hep-ph]]; JHEP 1304, 091 (2013) [arXiv:1303.2890 [hep-ph]; A. V. Bednyakov,A. F. Pikelner and V. N. Velizhanin, Nucl. Phys. B 875, 552 (2013) [arXiv:1303.4364].   \n[6] B.A. Kniehl and M. Spira, Z. Phys. C69,77 (1995)[hep-ph/9505225]. S.Dawson, S. Dittmaier and M. Spira, Acta Phys. Polon. B 29, 2875 (1998) [hep-ph/9806304]; S. Dawson, C. Kao, Y.Wang and P. Wiliams,Phys.Rev. D 75, 013007 (2007) [hep-ph/0610284];； D. Y. Shao, C. S. Li, H. T. Li and J. Wang, JHEP 1307,169 (2013) [arXiv:1301.1245 [hep-ph]; J. Grigo, J. Hoff, K. Melnikov and M. Steinhauser, Nucl. Phys. B 875,1(2013) [arXiv:1305.7340 [hepphl]; D. de Florian and J. Mazziteli, Phys.Rev. Lett.111, 201801 (2013) [arXiv:1309.6594 [hep-ph]; L. S. Ling et al., Phys. Rev. D 89,073001 (2014) [arXiv:1401.7754 [hep-ph]; X. Li and M. B. Voloshin, Phys.Rev. D 89, 013012 (2014) [arXiv:1311.5156 [hep-phl]; R. Frederix et al.,Phys. Lett. B 732,142 (2014) [arXiv:1401.7340 [hep-ph]; J. Grigo,K. Melnikov and M. Steinhauser, arXiv:1408.2422 [hep-ph]. S. Dawson, A. Ismail and I. Low, arXiv:1504.05596 [hep-ph].   \n[7] S.Dawson, S. Ditmaier and M. Spira, Phys. Rev. D 58,115012 (1998) [hep-ph/9805244]; T. Plehn，M. Spira and P. M. Zerwas， Nucl. Phys. B 479,46 (1996) [hep-ph/9603205]; S. Dawson, C. Kao and Y. Wang,Phys. Rev. D 77, 113005 (2008) [arXiv:0710.4331 [hepphl}; N. D. Christensen, T. Han and T. Li, Phys. Rev. D 86, 074003 (2012) [arXiv:1206.5816 [hep-ph]]; J. Cao et al.， JHEP 1304,134 (2013) [arXiv:1301.6437 [hep-ph]; N. Liu,L.Wu, P. W. Wu and J. M. Yang, JHEP 1301,161 (2013) [arXiv:1208.3413 [hep-ph]; U. Ellwanger, JHEP 1308,077 (2013) [arXiv:1306.5541 [hep-ph]}； C. Han et al., JHEP 1404,003 (2014) [arXiv:1307.3790 [hep-ph]； J. Liu, X. P. Wang and S. h. Zhu, arXiv:1310.3634 [hep-ph]; B. Bhattacherjee and A. Choudhury, arXiv:1407.6866 [hep-ph]; N. Liu, S. Hu, B. Yang and J. Han，JHEP 1501,008 (2015） [arXiv:1408.4191 [hep-phl]. C. Y. Chen，S. Dawson and I. M. Lewis,Phys. Rev. D 91, 035015 (2015) [arXiv:1410.5488 [hep-ph]]. V. Martin-Lozano, J. M. Moreno and C. B. Park, arXiv:1501.03799 [hep-ph]; [8] D.E. Ferreira de Lima， A. Papaefstathiou and M. Spannowsky， JHEP 1408, 030 (2014) [arXiv:1404.7139 [hep-ph]; D. Wardrope et al., arXiv:1410.2794 [hep-ph].   \n[9] U.Baur, T. Plehn and D.L. Rainwater,Phys. Rev. D 67, 033003 (2003) [hep-ph/0211224]; Phys.Rev.D 69, 053004 (2004) [hep-ph/0310056]; J. Baglio et al., JHEP 1304,151 (2013) [arXiv:1212.5581 [hep-ph].   \n[10] M.J. Dolan, C. Englert and M. Spannowsky， JHEP 1210,112 (2012) [arXiv:1206.5001 [hep-phl}； A. Papaefstathiou, L. L. Yang and J. Zurita, Phys. Rev. D 87, O11301 (2013) [arXiv:1209.1489 [hep-phl]; F. Goertz, A. Papaefstathiou, L.L. Yang and J. Zurita, JHEP 1306,016 (2013) [arXiv:1301.3492 [hep-ph]; M. Gouzevitch et al.， JHEP 1307,148 (2013) [arXiv:1303.6636 [hep-phl]; A. J. Barr,M. J. Dolan, C. Englert and M. Spannowsky, Phys. Lett.B 728,308 (2014) [arXiv:1309.6318 [hep-ph]]；M. J. Dolan，C. Englert，N. Greiner and M. Spannowsky，Phys.Rev.Lett.112，101802 (2014) [arXiv:1310.1084 [hep-phl]; Q.Li，Q. S. Yan and X. Zhao， Phys.Rev. D 89,033015 (2014) [arXiv:1312.3830 [hepph]；P. Maierhofer and A. Papaefstathiou, JHEP 1403,126 (2014) [arXiv:1401.0007 [hepphl]； Q. Li, Z. Li, Q. S. Yan and X. Zhao, arXiv:1503.0761l [hep-ph]； A. Papaefstathiou, arXiv:1504.04621 [hep-ph].   \n[11] A.Efrati and Y. Nir,arXiv:1401.0935 [hep-ph]; V. Barger,L. L. Everett, C.B. Jackson and G. Shaughnessy, Phys. Lett. B 728, 433 (2014) [arXiv:1311.2931 [hep-ph]}； N. Haba, K. Kaneta, Y. Mimura and E. Tsedenbaljir, Phys. Rev. D 89, 015018 (2014) [arXiv:1311.0067 [hep-ph]}; P. Osland and P. N. Pandita, Phys. Rev.D 59, 055013 (1999) [hep-ph/9806351].   \n[12] R. S. Gupta, H. Rzehak and J. D. Wels, Phys. Rev. D 88,055024 (2013) [arXiv:1305.6397 [hep-ph].   \n[13] R. Barbieri et al., Phys. Rev. D 87,115018 (2013) [arXiv:1304.3670 [hep-ph].   \n[14] V. D. Barger, M. S. Berger,A. L. Stange and R. J. N. Philips, Phys. Rev. D 45, 4128 (1992).   \n[15] M. S. Carena, J.R. Espinosa, M. Quiros and C. E. M. Wagner, Phys. Lett. B 355, 209 (1995) [hep-ph/9504316]; M. S. Carena, M. Quiros and C. E. M. Wagner, Nucl. Phys. B 461, 407 (1996) [hep-ph/9508343]; M. S. Carena et al., Nucl. Phys.B 580, 29 (2000) [hep-ph/0001002].   \n[16] J. R. Ellis,G. Ridolf and F. Zwirner, Phys. Lett. B 262, 477 (1991); Phys. Lett. B 257, 83 (1991).   \n[17] R. J. Zhang,Phys. Lett. B 447,89 (199) [hep-ph/9808299]; J. R. Espinosa and R. J. Zhang, JHEP 0003,026 (2000） [hep-ph/9912236]； Nucl. Phys.B 586,3 （2000) [hep-ph/0003246].   \n[18] R. Hempfling and A. H. Hoang, Phys. Lett. B 331, 99 (1994) [hep-ph/9401219]; H. E. Haber and R. Hempfling, Phys. Rev. D 48, 4280 (1993) [hep-ph/9307201].   \n[19] P. N. Pandita, Phys. Lett. B 318, 338 (1993); Z. Phys. C 59, 575 (1993).   \n[20] T. Ellott, S.F. King and P.L. White, Phys.Rev. D 49, 2435 (1994) [hep-ph/9308309].   \n[21] U. Ellwanger and C. Hugonie, Eur. Phys. J. C 25, 297 (2002) [hep-ph/9909260].   \n[22] K. Funakubo and S. Tao, Prog. Theor. Phys. 113,821 (2005) [hep-ph/0409294].   \n[23] W. Holik and S. Penaranda, Eur.Phys. J. C 23,163 (2002) [hep-ph/0108245];   \n[24] A.Dobado, M. J. Herrero,W. Hollik and S.Penaranda,Phys. Rev. D 66, O95016 (2002) [hep-ph/0208014].   \n[25] D.T. Nhung，M. Mühleitner，J. Streicher and K. Walz， JHEP 1311，181 (2013) [arXiv:1306.3926 [hep-ph].   \n[26] M. Brucherseifer,R. Gavin and M. Spira, arXiv:1309.3140 [hep-ph].   \n[27] V. Khachatryan et al. [CMS Collaboration], JHEP 1410,160 (2014) [arXiv:1408.3316 [hepex]].   \n[28] ATLAS Collaboration,ATLAS-CONF-2014-049.   \n[29] ATLAS Collaboration，ATLAS-CONF-2013-090.   \n[30] V. Khachatryan et al. [CMS and LHCb Collaborations], arXiv:1411.4413 [hep-ex].   \n[31] M. Papucci, J. T. Ruderman and A. Weiler, JHEP 1209,035 (2012） [arXiv:1110.6926 [hepphl]； L. J. Hall, D. Pinner and J. T. Ruderman, JHEP 1204,131 (2012) [arXiv:1112.2703 [hep-ph]]； J. Cao et al.， JHEP 1211, 039 (2012) [arXiv:1206.3865 [hep-ph]; C. Han et al., JHEP 1310,216 (2013) [arXiv:1308.5307 [hep-ph]}； C.Han et al., JHEP 1402,049 (2014) [arXiv:1310.4274 [hep-ph]; C. Han, D. Kim, S. Munir and M. Park, arXiv:1502.03734 [hep-ph].   \n[32] A. Arbey， M. Battaglia, A. Djouadi and F. Mahmoudi， JHEP 1209， 107 (2012) [arXiv:1207.1348 [hep-ph]}; Phys.Lett. B 720,153 (2013) [arXiv:1211.4004 [hep-ph].   \n[33] For a review of NMSSM, see, e.g., U. Ellwanger, C. Hugonie and A. M. Teixeira, Phys. Rept. 496,1(2010); M. Maniatis, Int.J. Mod. Phys. A25 (2010) 3505; S.F. King, P. L. White, Phys. Rev. D 52, 4183 (1995).   \n[34] J.Cao et al.，JHEP 1203,086 (2012) [arXiv:1202.5821 [hep-ph]}； JHEP 1210,079 (2012) [arXiv:1207.3698 [hep-ph];   \n[35] D. J. Miller, R. Nevzorov and P. M. Zerwas, Nucl. Phys. B 681, 3 (2004) [hep-ph/0304049]; R. Nevzorov and D. J. Miller, hep-ph/0411275.   \n[36] U. Ellwanger and C. Hugonie, Mod. Phys. Lett. A 22,1581 (2007) [hep-ph/0612133].   \n[37] K.Agashe, Y. Cui and R. Franceschini, JHEP 1302,031 (2013) [arXiv:1209.2115 [hep-ph].   \n[38] J. Cao et al., JHEP 1311,018 (2013) [arXiv:1309.4939 [hep-ph]].   \n[39] D. Curtin, R. Essig and Y. M. Zhong, arXiv:1412.4779 [hep-ph].   \n[40] K. Betre,S.E. Hedri and D. G.E. Walker,arXiv:1407.0395 [hep-ph].   \n[41] J. Cao and J. M. Yang, Phys. Rev. D 78,115001 (2008) [arXiv:0810.0989 [hep-ph].   \n[42] J. L. Feng, P. Kant， S. Profumo and D. Sanford, Phys. Rev.Lett.111， 131802 (2013) [arXiv:1306.2318 [hep-ph]}; P. Kant, R. V. Harlander, L. Mihaila and M. Steinhauser, JHEP 1008，104（2010) [arXiv:1005.5709 [hep-ph]}； R.V.Harlander，P.Kant，L. Mihaila and M.Steinhauser,Phys. Rev. Lett.100,191602 (2008) [arXiv:0803.0672 [hep-ph]; S.P.Martin, Phys. Rev. D 75, 055005 (2007) [hep-ph/0701051].   \n[43] J. Beringer et al. Particle Data Group, Phys. Rev. D 86, O10001 (2012).   \n[44] U.Ellwanger, J. F.Gunion and C. Hugonie, JHEP O502(2005) 006； U. Ellwanger and C. Hugonie, Comput.Phys. Commun.175 (2006) 290; G.Belanger et al., JCAP 0509:001 (2005).   \n[45] S.Heinemeyer，W. Holik and G. Weiglein， Comput.Phys. Commun.124,76 (2000)； Eur. Phys. J. C 9,343 (1999).   \n[46] B.C. Allanach, Comput. Phys. Commun. 143,305 (2002).   \n[47] A.Djouadi， J. L. Kneur and G. Moultaka， Comput.Phys. Commun.176,426 (2007) [hep-ph/0211331].   \n[48] P.Bechtle, et al., Comput.Phys. Commun.182, 2605 (2011); Comput.Phys. Commun. 181, 138 (2010).   \n[49] P.Bechtle et al. Eur.Phys. J. C 74, 2711 (2014) [arXiv:1305.1933 [hep-ph]; Comput. Phys. Commun.181,138 (2010） [arXiv:0811.4169 [hep-ph].   \n[50] J. Cao and J. M. Yang, JHEP 0812,006 (2008) [arXiv:0810.0751 [hep-ph]].   \n[51] P. A. R. Ade et al. [Planck Collaboration],arXiv:1303.5076 [astro-ph.CO].   \n[52] D. S. Akerib et al. [LUX Collaboration], arXiv:1310.8214 [astro-ph.CO].   \n[53] B. Bhattacherjee,A. Chakraborty and A. Choudhury, arXiv:1504.04308 [hep-ph].   \n[54] M. Carena, I. Low, N.R. Shah and C.E. M. Wagner, JHEP 1404, 015 (2014) [arXiv:1310.2248 [hep-ph]]; M. Carena et al., Phys. Rev. D 91, no. 3,035003 (2015) [arXiv:1410.4969 [hep-ph].   \n[55] N. Craig, J. Galloway and S. Thomas,arXiv:1305.2424 [hep-ph].   \n[56] H. E. Haber,arXiv:1401.0152 [hep-ph].   \n[57] S. Dawson et al., arXiv:1310.8361 [hep-ex].   \n[58] T. Gherghetta,B. von Harling,A. D. Medina and M. A. Schmidt, JHEP 1404,180 (2014) [arXiv:1401.8291 [hep-ph]]. S. F. King,M. Muhlleitner and R. Nevzorov, Nucl. Phys. B 860, 207 (2012) [arXiv:1201.2671 [hep-ph]]; J. F.Gunion,Y. Jiang and S.Kraml, Phys. Lett.B 710,454 (2012) [arXiv:1201.0982 [hep-ph]; D.A. Vasquez et al., Phys. Rev. D 86, 035023 (2012) [arXiv:1203.3446 [hep-phl]; U. Ellwanger and C. Hugonie,Adv. High Energy Phys. 2012, 625389 (2012) [arXiv:1203.5048 [hep-phl]; G. G. Ross, K. Schmidt-Hoberg and F. Staub, JHEP 1208,074 (2012） [arXiv:1205.1509 [hep-ph];   \n[59] J. Cao et al., JHEP 1412,026 (2014) [arXiv:1409.8431 [hep-ph].   \n[60] S. Chang, C. Kilic,and R. Mahbubani, Phys.Rev. D71 (2005) 015003,arXiv:hep-ph/0405267 [hep-ph]； A. Birkedal， Z. Chacko， and Y. Nomura， Phys.Rev. D71 (2005） 015006, arXiv:hep-ph/0408329 [hep-ph]； A. Delgado and T. M. Tait， JHEP 0507 (2005） 023, arXiv:hep-ph/0504224 [hep-ph]; T. Gherghetta, B. von Harling,and N. Setzer, JHEP 1107 (2011) 011,arXiv:1104.3171 [hep-ph]; N. Craig, D. Stolarski,and J. Thaler, JHEP 1111 (2011) 145,arXiv:1106.2164 [hep-ph]; C. Csaki, Y. Shirman, and J. Terning, Phys.Rev. D84 (2011) 095011，arXiv:1106.3074 [hep-ph];； E. Hardy， J. March-Russell，and J. Unwin， JHEP 1210 (2012) 072,arXiv:1207.1435 [hep-ph].   \n[61] N.D. Christensen,T. Han, Z. Liu and S. Su, JHEP 1308,019 (2013) [arXiv:1303.2113, arXiv:1303.2113 [hep-ph].   \n[62] V. Barger et al.,Phys. Rev. Lett. 114, no.1,011801 (2015) [arXiv:1408.0003 [hep-ph]. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 27
+    }
+]

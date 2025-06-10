@@ -1,0 +1,372 @@
+[
+    {
+        "type": "text",
+        "text": "塞威氏苹果树台形态特征及梯级变化",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "徐世薇1²，来风兵',²，陈孟禹²³，朱　选4，李红军\\$，陈蜀江},²，黃铁成1,2.6，贾翔1,2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1新疆师范大学地理科学与旅游学院,新疆乌鲁木齐830054；2乌鲁木齐空间遥感应用研究所,新疆乌鲁木齐830054；3苏州科技大学外国语学院,江苏苏州215000；4莫纳什大学,澳大利亚墨尔本3800；5新疆西天山国家级自然保护区,新疆伊宁835000；6北京林业大学,北京 100000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：选择以西天山野果林为例,应用徕卡TSO6无合作目标性全站仪（Reflectorless Total Station）获取野苹果林树台的形态参数数据,定量分析西天山野苹果林树台的三维形态特征和空间分布格局,构建野苹果林树台的DEM(数字高程模型Digital Elevation Model,DEM),对野苹果林树台微地貌景观状况进行研究。结果表明：(1）研究区的野苹果树台的形态比较规则，长宽比为0.6579～1.4310,差异比较小，呈扇形或半圆形。且能够明显看出野苹果树所在的位置(即样地中心)颜色较深,且突出,高程值较大。（2）坡度、底径与野苹果林树台的底面积、表面积、体积、长、宽、高、长宽比都呈现出显著相关性。其中,野苹果林树台的坡度与树台的高和长度之间呈现出明显的线性正相关性， $R ^ { 2 }$ 分别为0.96、0.90;树台的底径与其底面积、表面积、长度呈现出较明显的线性相关，$R ^ { 2 }$ 分别为 $0 . 6 1 , 0 . 4 6 , 0 . 4 7 ,$ 。其研究结果可为合理利用森林植被,水土保持，以及野苹果树根部营养储存量提供一定的理论支持。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键 词：树台；坡度；底径；野苹果；西天山文章编号： $1 0 0 0 - 6 0 6 0 \\vert 2 0 1 9 ) 0 2 - 0 3 0 5 - 0 9 \\vert 0 3 0 5 \\sim 0 3 1 3 )$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "西天山地处中天山西段，伊犁河支流大吉尔格郎河中游南岸，这里还保存着由新疆野苹果、新疆野杏等所组成的野果林、完整的原始雪岭云杉林及山地植被自然垂直带谱。在陡峭的山坡上，加之风力、雨水等的作用，土壤及其内部的养分堆积在野苹果树等乔木下，形成树台。藉此,本文中提出野苹果林树台的概念，即由于野苹果树的生长以及根系迭生而形成的地表起伏，由于多年的风力作用和雨水作用，使大量的能量物质堆积在树体与坡面夹角小的一侧,经过多年累积,最终形成相对于整个树体所在坡面较平坦的一个台面，是一种重要的风积和雨水共同作用的地貌类型。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，在微地貌的研究领域内，国内外学者的研究重点在于灌丛沙堆、乔木沙堆、草丛沙堆、胡杨沙堆、河口堆积、平原微地貌、喀斯特微地貌、盆地边缘微地貌、海岸带微地貌、水下底坡微地貌、泥炭沼泽微地貌等等,且研究比较多,如,HESP P 等[1],TENGBERGA等[2],POOL等[3],武胜利[4],汪小钦等[5],刘冰等[6],陈东等[7],高永等[8],来风兵等[9],张萍等[10],毛东雷等[1]研究了沙堆形态特征及空间格局；NICKLING 等[12],李明琴[13]等,王升忠等[14],杜国云[15]研究了各种微地貌的成因及其形成机制;柏美祥等[16],吴帅虎等[17],谭凤翥等[18],武胜利等[19]研究了不同地形条件下沙堆地貌特征及分布;杜建会[20]等,彭飞等[21]研究了不同演化阶段的特征及空间格局；而对山区森林中的微地貌的研究相对来说就比较少，关于野苹果林树台的研究还未曾发现有学者涉猎，甚至可以说是微乎其微。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "野苹果林树台可以有效减少水土流失，并且同时可以蓄积营养物质，供野苹果树吸收或新根萌生吸收。了解不同坡度、坡向、高度、体积、植被覆盖度等的野苹果林树台的形态特征、空间格局、分布规律、发育过程等，对受创野苹果树根萌更新以及对实生苗的生长都有一定的影响，同时，对合理利用森林植被，水土保持，以及野苹果树根部营养储存量等都有着重大意义。因此，本文选择以西天山野果林为例，应用TS06无反射棱镜全站仪仪器获取野苹果林树台的形态参数数据，定量分析西天山野苹果林树台的三维形态特征和空间分布格局，构建野苹果林树台的DEM，对野苹果林树台微地貌景观状况进行研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究区概况与研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "西天山位于新疆维吾尔自治区伊犁哈萨克自治州直属县巩留县东部，坐落在中天山西部，天山西部林区的中心位置，地理坐标为 $4 3 ^ { \\circ } 0 3 ^ { \\prime } \\sim 4 3 ^ { \\circ } 1 5 ^ { \\prime } \\mathrm { N }$ $8 2 ^ { \\circ } 5 1 ^ { \\prime } \\sim 8 3 ^ { \\circ } 0 6 ^ { \\prime } \\mathrm { E }$ ,南北长 $2 8 ~ \\mathrm { k m }$ ,东西宽 $1 4 ~ \\mathrm { k m }$ ，总面积约 $2 8 0 ~ \\mathrm { k m } ^ { 2 }$ 。年降水量达 $8 0 0 \\sim 1 ~ 0 0 0 ~ \\mathrm { m m }$ ,达到亚热带的降水水平，是新疆降水量最高的地区，被誉为干旱荒漠中的“湿岛”。由于交通不便和林业部门的努力，保护区内保存了我国西部最大的原始针叶林和天山仅存的带状分布的阔叶林，保护区内的森林呈原始状态且大面积分布。由于大部分以山地为主的地形和丰富的降水的影响，保护区内形成了垂直自然景观带。土壤养分丰富，具有较厚的腐殖质，呈黑棕色，质地适中，结构良好，疏松多孔，富含碳酸盐和盐基物质，肥力较高，乔木层以野苹果树、雪岭",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "云杉为主。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在研究区野苹果树丰富且树台典型区域选取了12个样地(图1），样地1、2、3、4、5分布在西天山自然保护区内北部，样地6、7、8、9、10、11、12分布在西天山保护区外、位于保护区西北部。在研究区内所选取的样地均远离河岸，远离道路（此处所说的道路包括羊道等各种经长期踩踏所留下痕迹形成的羊肠小道），所以此处的野苹果树均属于天然野果林。为了准确反映野苹果林树台的形态和分布特征，利用TS06无反射棱镜全站仪对样地内野苹果林树台的轮廓线、台面的边界过渡线以及野苹果树根部附近的特征点等进行测量。为了能够更加精确的反映出微地貌内地面的高程变化,更加形象的描述出野苹果林树台微小的起伏变化，笔者利用麻绳交叉打结的方式模拟迷你式经纬网制成方格网，在12个样地中，样地大小一致，格网整体大小为 $4 \\mathrm { ~ m ~ } { \\times } 4 \\mathrm { ~ m ~ }$ ,每个格网中随机选择小方格网，其大小有所不同。由于所获取的高程数据的精度不同，样地 $1 \\sim 1 0$ 的小格网均设为$4 0 \\ \\mathrm { c m } \\times 4 0 \\ \\mathrm { c m }$ ,样地11～12的高程数据较精细，所以小格网设为 $2 0 \\ \\mathrm { \\ c m } \\times 2 0 \\ \\mathrm { \\ c m }$ 。选取样地的中心（即格网中心)以被测野苹果树底中心为中心，然后测定样地内每个十字交叉的中心点坐标值（X、Y、Z坐标）。利用ArcGIS10.2软件,Kriging插值法对野苹果林树台的微地貌特征点进行插值分析,生成DEM并提取野苹果林树台的长 $( L )$ 、宽$( \\boldsymbol { W } )$ 、高 $( H )$ 、底面积（S）表面积 $( U )$ 、体积 $( V )$ 、坡度 $( P D )$ 、坡向 $( A )$ 、样地树底径 $( D J )$ 等形态参数，并计算书台的长宽比 $( L / W )$ 。本项研究中定义平行等高线的方向为宽度，垂直等高线的方向为长度。树台的长度与宽度比值表示树台整体沿垂直等高线方向的拉伸程度。底面积是指树台本身所在地的二维面面积即占地面积。最后，应用SPSS19.0和Ex-cel2003等软件对野苹果林树台的相关形态参数与微地貌、野苹果树底径等参数之间的相关性进行分析。相关系数主要用于分析2个独立变量间的相关",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d1e02c12a648089b5b1fc8c2e80fc48ca770ea7dea834027de89f7233832fe86.jpg",
+        "img_caption": [
+            "图1研究区概况",
+            "Fig.1 General situation of research area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "关系。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr = { \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } \\left( x _ { i } - { \\bar { x } } \\right) \\left( y _ { i } - { \\bar { y } } \\right) } { \\displaystyle { \\sqrt { \\sum _ { i = 1 } ^ { n } \\left( x _ { i } - { \\bar { x } } \\right) ^ { 2 } } } { \\sqrt { \\sum _ { i = 1 } ^ { n } \\left( y _ { i } - { \\bar { y } } \\right) ^ { 2 } } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $x \\ : , y$ 分别是两个不同的要素（树台的形态参数和野苹果树底径或者坡度); $\\left( \\boldsymbol { x } _ { i } - \\bar { \\boldsymbol { y } } \\right) , \\left( \\boldsymbol { y } _ { i } - \\bar { \\boldsymbol { y } } \\right)$ 为平均值； $r$ 表示两变量的相关性，值在-1到1之间，当$r = 0$ 时两变量不相关，当 $\\boldsymbol { r }$ 值越趋近于-1说明两变量负相关关系越强，反之则正相关关系越强[22-23]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1样地基本参数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/6fd2da3c70fde773e1f9723edf50fcab3482c7bde5a7b1e970ba00546d91915e.jpg",
+        "table_caption": [
+            "Tab.1Information of the sampling plots "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">样地</td><td colspan=\"2\">样地大小</td><td colspan=\"2\">格网大小</td><td rowspan=\"2\">坡度 /</td><td rowspan=\"2\">坡向 /</td><td rowspan=\"2\">样地树底</td><td colspan=\"2\">样地中心点坐标</td></tr><tr><td>编号 长/cm</td><td>宽/cm</td><td>长／cm</td><td>宽/cm</td><td>径/cm 纬度(N)</td><td>经度(E)</td></tr><tr><td>1</td><td>400</td><td>400</td><td>40</td><td>40</td><td>30</td><td>20</td><td>74</td><td>82°52'53.13\"</td><td>43°11'18.75\"</td></tr><tr><td>2</td><td>400</td><td>400</td><td>40</td><td>40</td><td>13</td><td>57</td><td>39</td><td>82°52'59.62\"</td><td>43°11'33.25\"</td></tr><tr><td>3</td><td>400</td><td>400</td><td>40</td><td>40</td><td>38</td><td>354</td><td>100</td><td>82°52'59.42\"</td><td>43°11'33.05\"</td></tr><tr><td>4</td><td>400</td><td>400</td><td>40</td><td>40</td><td>25</td><td>8</td><td>20</td><td>82°53'2.36\"</td><td>43°11'33.37\"</td></tr><tr><td>5</td><td>400</td><td>400</td><td>40</td><td>40</td><td>46</td><td>349</td><td>53</td><td>82°52'53.16\"</td><td>43°11'18.91\"</td></tr><tr><td>6</td><td>400</td><td>400</td><td>40</td><td>40</td><td>29</td><td>40</td><td>34</td><td>82°46'9.5\"</td><td>43°14'3.87\"</td></tr><tr><td>7</td><td>400</td><td>400</td><td>40</td><td>40</td><td>20</td><td>48</td><td>24</td><td>82°46'9.64\"</td><td>43°14'4. 18\"</td></tr><tr><td>8</td><td>400</td><td>400</td><td>40</td><td>40</td><td>12</td><td>35</td><td>14</td><td>82°46'9.79\"</td><td>43°14'4.33\"</td></tr><tr><td>9</td><td>400</td><td>400</td><td>40</td><td>40</td><td>47</td><td>87</td><td>80</td><td>82°46'10.04\"</td><td>43°14'3.28\"</td></tr><tr><td>10</td><td>400</td><td>400</td><td>40</td><td>40</td><td>23</td><td>80</td><td>12</td><td>82°46'10.22\"</td><td>43°14'3.81\"</td></tr><tr><td>11</td><td>400</td><td>400</td><td>20</td><td>20</td><td>34</td><td>322</td><td>27</td><td>82°43'55.46\"</td><td>43°9'18.19\"</td></tr><tr><td>12</td><td>400</td><td>400</td><td>20</td><td>20</td><td>35</td><td>43</td><td>28</td><td>82°43'58.21\"</td><td>43°10'45.92\"</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 野苹果林树台的形态特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1野苹果林树台的形态参数根据实地搜集的高程数据，可以将野苹果林树台形态描述为一个扇形的台状体，综合12个样地情况来看，描绘出的树台形态是基本一致的。台面以下坡度最大，台面以上坡度较陡，台面本身坡度较缓，几乎为平面，有的呈现出微隆起，其台面垂直投影接近于半椭圆形或半圆形，侧面投影（即树台的横截面)近似拱形。且能够明显看出野苹果树所在的位置（即样地中心)颜色较深,且突出，高程值较大,且台面明显平坦,一旦经过树，高程值迅速变小,坡度变大。其形态、横纵剖面具体分别为图2、3、4所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对比野苹果林树台DEM变化分析图（图2）与野苹果林树台坡度分析图(图3)发现，树台以下的地势更加陡峭，坡度变得非常大，这与树台的定义相辅相成。水力、风力、重力及冻融等自然营力和人类活动作用下将土壤、落叶腐殖质等物质从陡峭的山坡上冲下来，在没有树的地方，土壤等物质会继续被带走，而在有树的地方，由于受到树的阻碍,土壤、落叶等物质停在了树的根部，从而经过多年的蓄积形成一个台面，反复作用,常年堆积,从而台面往下就会形成一个比原始的坡更为陡峭的坡，这就是台面以下的陡坡的形成原因。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/25f4d01b4f2be99ee5494f03b656eb2c50ea6bdac0746411d4604321410403b4.jpg",
+        "img_caption": [
+            "图2树台的形态特征",
+            "Fig.2Morphological features of tree platform "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a8943fa50ffa12a6c9e292559148d1277b83a5cfde92cde163c41bf1b3fe9434.jpg",
+        "img_caption": [
+            "图3树台横剖面"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c6e9a6070bd911421f3551c5543b5f67088e79df13906c4b4d81c4ffb94e9d95.jpg",
+        "img_caption": [
+            "Fig.3Tree platform cross section ",
+            "图4树台纵剖面 Fig.4Tree platform profile "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了便于分析野苹果林树台各参数间的相关关系以及更加精确的描述野苹果树台的形态特征，根据国际地理学会地貌调查与制图委员会提议使用的坡度的7级划分方案：平原至微倾平原 $( 0 ^ { \\circ } \\sim 2 ^ { \\circ } )$ 、缓斜坡 $( 2 ^ { \\circ } \\sim 5 ^ { \\circ } )$ 、斜坡 $( 5 ^ { \\circ } \\sim 1 5 ^ { \\circ } )$ 、陡坡 $( 1 5 ^ { \\circ } \\sim 2 5 ^ { \\circ } )$ ）、急坡 ( $2 5 ^ { \\circ } \\ \\sim \\ 3 5 ^ { \\circ }$ ）、急陡坡 $( 3 5 ^ { \\circ } \\sim 5 5 ^ { \\circ } ,$ 、垂直坡$( { \\bf \\nabla } > 5 5 ^ { \\circ } ) ^ { [ 2 4 ] }$ ,由于样本中,野苹果树台所在的山坡坡度的最小值为 $1 1 ^ { \\circ }$ 、最大值为 $4 7 ^ { \\circ }$ ,便将已有的野苹果林树台根据坡度进行分类：斜坡 $( 5 ^ { \\circ } \\sim 1 5 ^ { \\circ } ,$ ）、陡坡（ $1 5 ^ { \\circ } \\sim 2 5 ^ { \\circ } )$ 、急坡( $2 5 ^ { \\circ } \\sim 3 5 ^ { \\circ } )$ 、急陡坡 $( 3 5 ^ { \\circ } \\sim 5 5 ^ { \\circ } )$ ;根据野苹果树的底径将树台分为小底径 $( \\leqslant 1 6$ cm），中等底径( $: 1 6 \\sim 3 5 ~ \\mathrm { c m } ,$ ，大底径( $\\geqslant 3 6 { \\mathrm { ~ c m } }$ 等。统计结果表明，不同坡度、坡向，不同样地树底径大小的树台各形态参数变化范围均较大（表2、表3）。野苹果树台的形态比较规则，长宽比为 $0 . 6 5 7 ~ 9 \\sim$ 1.4310，差异比较小。由于树台受到野苹果树的拦截程度和坡度的共同影响，因此，树台所在处的坡度越高，形成的树台呈现出三角形或椭圆形，坡度越陡，形成的树台呈现出半圆形。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/877d2ac85324623a236400e4816dc5789504a7931c020107fa987bd8a022765c.jpg",
+        "table_caption": [
+            "表2不同底径的野苹果树树台的形态特征",
+            "Tab.2Morphological characteristics of Malus sieversii tree platform with different tree base radius "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>底面积 S/m²</td><td>表面积 U/ m²</td><td>体积 V/m</td><td>底径 DJ/cm</td><td>坡度 PD/°</td><td>长 L/m</td><td>宽 W/m</td><td>高 H/m</td><td>长宽比 L/W</td></tr><tr><td rowspan=\"4\">小底径</td><td>极小值</td><td>14.58</td><td>14.81</td><td>0.73</td><td>12.00</td><td>11.00</td><td>2.00</td><td>2.45</td><td>0.15</td><td>0.68</td></tr><tr><td>极大值</td><td>19.60</td><td>19.91</td><td>1.75</td><td>20.00</td><td>25.00</td><td>2.25</td><td>2.97</td><td>0.30</td><td>0.92</td></tr><tr><td>均值</td><td>17.05</td><td>17.45</td><td>1.28</td><td>14.75</td><td>17.75</td><td>2.10</td><td>2.63</td><td>0.23</td><td>0.80</td></tr><tr><td>标准差</td><td>2.61</td><td>2.53</td><td>0.52</td><td>3.59</td><td>7.27</td><td>0.12</td><td>0.24</td><td>0.07</td><td>0.10</td></tr><tr><td rowspan=\"4\">中等底径</td><td>极小值</td><td>9.19</td><td>10.80</td><td>0.51</td><td>24.00</td><td>13.00</td><td>1.88</td><td>2.25</td><td>0.18</td><td>0.66</td></tr><tr><td>极大值</td><td>18.52</td><td>18.74</td><td>1.59</td><td>39.00</td><td>35.00</td><td>2.67</td><td>2.86</td><td>0.49</td><td>1.19</td></tr><tr><td>均值</td><td>13.73</td><td>14.55</td><td>1.02</td><td>31.25</td><td>24.25</td><td>2.26</td><td>2.60</td><td>0.31</td><td>0.89</td></tr><tr><td>标准差</td><td>4.37</td><td>4.00</td><td>0.50</td><td>6.60</td><td>9.71</td><td>0.34</td><td>0.31</td><td>0.14</td><td>0.24</td></tr><tr><td rowspan=\"4\">大底径</td><td>极小值</td><td>4.90</td><td>5.12</td><td>0.33</td><td>53.00</td><td>30.00</td><td>2.63</td><td>1.99</td><td>0.37</td><td>1.10</td></tr><tr><td>极大值</td><td>9.74</td><td>10.64</td><td>0.62</td><td>100.00</td><td>47.00</td><td>2.85</td><td>2.39</td><td>0.64</td><td>1.43</td></tr><tr><td>均值</td><td>6.95</td><td>7.61</td><td>0.44</td><td>76.75</td><td>40.25</td><td>2.75</td><td>2.16</td><td>0.54</td><td>1.28</td></tr><tr><td>标准差</td><td>2.24</td><td>2.54</td><td>0.13</td><td>19.35</td><td>7.93</td><td>0.10</td><td>0.18</td><td>0.12</td><td>0.15</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e33f5199b03b26d4bd3995cd93aeb04a1a9db0125fa4c412192670a76430f7fe.jpg",
+        "table_caption": [
+            "表3在微地貌类型不同的野苹果林树台的形态特征",
+            "Tab.3Morphological characteristics of Malus sieversi tree platform with different types of microtopography "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>底面积 S/m²</td><td>表面积 U/ m²</td><td>体积 V/ m</td><td>底径 DJ/cm</td><td>坡度 PD/°</td><td>长 L/m</td><td>宽 W/m</td><td>高 H/m</td><td>长宽比 L/W</td></tr><tr><td>斜坡 slope</td><td>极小值</td><td>18.52</td><td>18.74</td><td>1.59</td><td>13.00</td><td>11.00</td><td>1.88</td><td>2.50</td><td>0.15</td><td>0.66</td></tr><tr><td></td><td>极大值</td><td>19.60</td><td>19.91</td><td>1.75</td><td>39.00</td><td>13.00</td><td>2.02</td><td>2.97</td><td>0.18</td><td>0.80</td></tr><tr><td></td><td>均值</td><td>19.04</td><td>19.32</td><td>1.68</td><td>22.00</td><td>12.00</td><td>1.97</td><td>2.78</td><td>0.17</td><td>0.71</td></tr><tr><td></td><td>标准差</td><td>0.54</td><td>0.59</td><td>0.08</td><td>14.73</td><td>1.00</td><td>0.08</td><td>0.25</td><td>0.02</td><td>0.08</td></tr><tr><td>陡坡</td><td>极小值</td><td>14.58</td><td>14.81</td><td>0.73</td><td>12.00</td><td>20.00</td><td>2.11</td><td>2.45</td><td>0.22</td><td>0.74</td></tr><tr><td></td><td>极大值</td><td>16.23</td><td>17.19</td><td>1.29</td><td>24.00</td><td>25.00</td><td>2.25</td><td>2.86</td><td>0.30</td><td>0.92</td></tr><tr><td></td><td>均值</td><td>15.28</td><td>15.93</td><td>0.99</td><td>18.67</td><td>22. 67</td><td>2.16</td><td>2.64</td><td>0.26</td><td>0.83</td></tr><tr><td></td><td>标准差</td><td>0.85</td><td>1.20</td><td>0.28</td><td>6.11</td><td>2.52</td><td>0.08</td><td>0.21</td><td>0.04</td><td>0.09</td></tr><tr><td>急坡</td><td>极小值</td><td>9.19</td><td>10.64</td><td>0.51</td><td>28.00</td><td>29.00</td><td>2.39</td><td>2.25</td><td>0.34</td><td>0.99</td></tr><tr><td></td><td>极大值</td><td>10.98</td><td>11.47</td><td>0.71</td><td>74.00</td><td>35.00</td><td>2.67</td><td>2.42</td><td>0.49</td><td>1.19</td></tr><tr><td></td><td>均值</td><td>9.97</td><td>10.97</td><td>0.61</td><td>45.33</td><td>31.33</td><td>2.56</td><td>2.35</td><td>0.40</td><td>1.09</td></tr><tr><td></td><td>标准差</td><td>0.92</td><td>0.44</td><td>0.10</td><td>25.01</td><td>3.21</td><td>0.15</td><td>0.09</td><td>0.08</td><td>0.10</td></tr><tr><td>急陡坡</td><td>极小值</td><td>4.90</td><td>5.12</td><td>0.33</td><td>53.00</td><td>38.00</td><td>2.71</td><td>1.99</td><td>0.53</td><td>1.22</td></tr><tr><td></td><td>极大值</td><td>7.76</td><td>8.71</td><td>0.41</td><td>100.00</td><td>47.00</td><td>2.85</td><td>2.21</td><td>0.64</td><td>1.43</td></tr><tr><td></td><td>均值</td><td>6.02</td><td>6.60</td><td>0.38</td><td>77.67</td><td>43.67</td><td>2.79</td><td>2.09</td><td>0.59</td><td>1.34</td></tr><tr><td></td><td>标准差</td><td>1.53</td><td>1.88</td><td>0.04</td><td>23.59</td><td>4.93</td><td>0.07</td><td>0.11</td><td>0.06</td><td>0.11</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.2野苹果林树台的形态与野苹果林树植株相关特征关系分析统计结果表明，不同坡向、坡度、不同样地树底径大小的树台各形态参数变化范围比较大。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由相关性分析结果来看，野苹果林树台的坡度与树台的高度和长度之间呈现出明显的线性正相关性， $R ^ { 2 }$ 分别为0.90、0.96;野苹果林树台的坡度与树台的宽度、体积、表面积、底面积呈现较为显著的负相关性， $R ^ { 2 }$ 分别为0.95、0.86、0.97、0.81（图5）。说明树台所在微地貌对树台的形成起到决定性因",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "0700 y=-0.02691+0.013787x (a) 3028 y=1.60262+0.028 16x (b) 642 (c)  \n0.4 2.2  \n0.3 怡 2.0 1  \n0.2 树 1.8 8 y=20.307 75-0.294 3x1.6 6  \n0.1  \n101520253035 4045 50 101520 2530 35 40 4550 1015 20 253035 40 4550坡度/° 坡度/° 坡度/°  \n8164208 2220 y=24.6913-0.418 59x R²=0.97 (d) u/ 1.8 1.5 R²=0.86 y=1.969 66-0.039 18x (e) m 3.0 2.8 y=3.252 38-0.027 37x R²=0.95 (f)2.60.9 怡2.4树0.6 2.2  \n6  \n4 0.3 2.0  \n10 1520 2530 35 40 4550 1015 20 25303540 4550 1015 20 25 30 35 404550坡度/° 坡度/° 坡度/°",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "g.5Correlationanalysisbetween slope with length,width,height,basearea,sufaceareaandvolumeof wildappleplatf素，坡度越大，水土流失的速度越快，树干对水土的拦截程度就体现在高度上，即树台的高度越高、长度越长。当树台的坡度越平缓，水土流失的速度越慢，受到野苹果树的拦截程度越大，堆积物在野苹果树周围形成的树台宽度、体积、表面积和底面积越大。其中，野苹果林树台坡度与树台长度的正相关性最大，地形越陡,越容易受到水土流失的影响，形成的树台越长;野苹果林树台坡度与树台表面积的负相关性最大，坡度越大树台的堆积物很容易被流失，直接影响树台的表面积。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "野苹果树的胸径与树台的宽度、体积、表面积、底面积呈反比，且与树台的表面积和底面积的相关性较为明显， $R ^ { 2 }$ 分别为0.61和0.46。野苹果树的胸径与树台的长度和高度呈正比， $R ^ { 2 }$ 分别为0.47、0.38。而野苹果树的胸径与树台的宽、高、体积之间的相关性并不明显（图6），说明野苹果树的胸径主要控制着树台的落地范围和树台的扩大及发育，野苹果树的胸径越大，其对水土的拦截量在树台的宽度上就会表现出越宽，沉积水土底面积相应会变大，也有利于野苹果树对水土的拦截和堆积。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b5f3784127440ad438001c41139eabd7fb2d159c0f425000dfe6162c812dfae3.jpg",
+        "img_caption": [
+            "图6野苹果树的胸径与树台的长、宽、高、底面积、表面积、体积相关性分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.6Corelationaalysisbetwentreebasediameterwithlength，width,height,basearea,sufaceareaandvolumeoftreeplatfor ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/0c76c7c33bbb2537806d762826d7ccee94aec6de60516d9a8d1489dfbef673ad.jpg",
+        "table_caption": [
+            "表4野苹果林树台形态参数间的相关分析 ",
+            "Tab.4Correlation coeficients between the sampling plot morphological parameters "
+        ],
+        "table_footnote": [
+            "$* *$ .在0.01水平(双侧)上显著相关，\\*在0.05水平(双侧)上显著相关 "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>底面积 S/m</td><td>表面积 U/m²</td><td>体积 V/m</td><td>底径 DJ/cm</td><td>坡度 PD/°</td><td>长 L/m</td><td>宽 W/m</td><td>高 H/m</td><td>长宽比 L/W</td></tr><tr><td>底面积S</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>表面积U</td><td>0.997 **</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>底径DJ</td><td>-0.711 *</td><td>-0.719 *</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>体积V</td><td>0.942 **</td><td>0.933 **</td><td>-0.600</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>坡度PD</td><td>-0.985**</td><td>-0.986 **</td><td>0.651 *</td><td>-0.936 **</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>长L</td><td>-0.979 **</td><td>-0.969 **</td><td>0.709 *</td><td>-0.919 **</td><td>0.961**</td><td>1</td><td></td><td></td><td></td></tr><tr><td>宽W</td><td>0.973 **</td><td>0.975 **</td><td>-0.637 *</td><td>0.966 **</td><td>-0.978 **</td><td>-0.947 **</td><td>1</td><td></td><td></td></tr><tr><td>高H</td><td>-0.970 **</td><td>-0.970 **</td><td>0.688 *</td><td>-0.892 **</td><td>0.984**</td><td>0.962 **</td><td>-0.962 **</td><td>1</td><td></td></tr><tr><td>长宽比L/W</td><td>-0.986 **</td><td>-0.986 **</td><td>0.695 *</td><td>-0.922 **</td><td>0.987 **</td><td>0.985 **</td><td>0.997 **</td><td>0.989**</td><td>1</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1.2野苹果林树台的形态参数间的关系由表4可知，野苹果林样地的树台，总体上各形态参数间相关性较为明显，样地树的底径与树台的高度和长度的相关性较好，表明在树台的形成过程中，样地树底径的大小直接影响到树根部对水土的阻挡程度。树台所在地的坡度与树台本身的高度存在显著正相关关系，其相关系数为0.984。总体来看，可知由于山体坡度大，树台可以储存物质的深度空间就越大，所以，它们之间呈现出显著相关性，",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "野苹果树台的形态主要与树台的发育阶段、水土供给和植物的底径、形态以及微地貌、地势等有关系。武胜利等[4]把灌丛沙堆的发育划分为各形态指标协同变化的增长阶段，以植物动力影响为主、长宽尺度均衡发展、坡度较大的稳定阶段，以及沙堆长度相对缩短、各形态指标关系趋于复杂的风蚀衰退阶段。而野苹果林树台各相关形态参数之间都具有显著相关性，处于各形态指标协同变化的增长阶段。随着野苹果树的生长发育，树台在植株和微地貌的影响下继续堆积水土物质，树台的宽度会变得越来越宽，长度会越来越短，高度也会越来越小，使之向稳定的扇形地形态演化，其保持水土能力将持续变大。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "整体而言野苹果林树台的形态是比较规则的，但其树台本身的宽度及高度变化较大，由于上坡的坡度不一致，使得风力和雨水对树台形成的作用影响程度不同，野苹果树的底径不同其对水土的阻碍力也不同。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）研究区的野苹果树台的形态比较规则，长宽比为 $0 . 6 5 7 9 \\sim 1 . 4 3 1 0$ ,差异比较小,呈扇形或半圆形。且能够明显看出野苹果树所在的位置（即样地中心)颜色较深，且突出，高程值较大。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2）在野苹果林树台的发展发育过程中，野苹果树所在地的坡度及其自身的底径是决定性因素，坡度、底径与野苹果林树台的底面积、表面积、体积、长、宽、高、长宽比都呈现出显著相关性。其中，野苹果林树台的坡度与树台的高和长度之间呈现出明显的线性正相关性， $R ^ { 2 }$ 分别为0.96、0.90；树台的底径与其底面积、表面积、长度呈现出较明显的线性相关， $R ^ { 2 }$ 分别为0.61、0.46、0.47，总体上各形态参数间都有良好的相关性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3）树台分布也比较有规律，山体坡度较大区，野苹果林树台分布较广，且野苹果林树台高度较大，底面积较小;山体坡度较缓区，野苹果林树台分布不,明显,但在缓坡区树台的宽度相对来讲较宽，底面积较大，高度较小。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]HESPP,MCLACHLAN A. Morphology,dynamics,ecology and fauna of Arctotheca populifolia and Gazania rigens nabkha dunes[J]. Journal of Arid Environments,2000,44:155-172.   \n[2]TENGBERG A,CHEN D L.A comparative analysis of nebkhas in central Tunisia and northern Burkina Faso[J].Geomorphology, 1998,22(2) :181 -192.   \n[3]POOL MR,POOL S K,PARVANEHI,et al.Nebkhas of Salvadora persica and their effect on the growth and survival of Prosopis cineraria,Tamarix aphylla,and Capparis decidua trees and shrubs [J].Flora,2013,208(8/9）:502-507.   \n[4］武胜利.新疆和田河流域灌(草)丛沙堆发育机制研究[D].上 海：华东师范大学,2007.［WU Shengli.Study on development mechanism of nebkha in the Basin of Hetian Xinjiang[D].Shanghai:East China Normal University,2007.]   \n[5]汪小钦,王钦敏,励惠国,等.黄河三角洲土地利用/覆盖变化 的微地貌区域分异［J].地理科学,2008,28（4）：513-517. [WANG Xiaoqin,WANG Qinmin,LI Huiguo,et al.Spatial pattern of LUCC in different micro-geomorphic types of Huanghe River delta[J].Scientia Gegraphica Sinica,2008,28(4）:513 -517.]   \n[6]刘冰,赵文智,杨荣.荒漠绿洲过渡带怪柳灌丛沙堆特征及其 空间异质性[J].生态学报,2008,28（4)：1446-1455.[LIU Bing,ZHAO Wenzhi,YANG Rong. Characteristic sand spatial heterogeneity of Tamarix ramosissima nebkha sat desert-oasis ecotone [J].Acta Ecologica Snica,2008,28(4）:1446 -1455.]   \n[7］陈东,张宇清,吴斌,等.毛乌素沙地南缘油蒿(Artemisia ordosica)灌丛沙堆形态特征[J].中国沙漠,2015,35(3）：565-572. [CHEN Dong,ZHANG Yuqing,WU Bin,et al. The morphological characteristics of Artemisia ordosica nebkhas at different evolvement stages in southern margin of the Mu Us Desert[J].Journal of Desert Research,2015,35(3）:565-572.]   \n[8］高永,党晓宏,虞毅,等.乌兰布和沙漠东南缘白沙蒿(Artemisia sphaerocphala)灌丛沙堆形态特征与固沙能力[J].中国沙漠， 2015,35（1）:1-7.[GAO Yong,DANG Xiaohong,YU Yi,et al. Nabkha morphological characteristics and sand fixing capacity of Artemisia sphaerocphala in the southeastern edge of the Ulan Buh Desert[J]. Journal of Desert Research,2015,35(1）:1 -7.]   \n[9］来风兵,孙虎,张展赫,等.塔克拉玛干沙漠和田河西侧胡杨沙 堆的形态特征及空间分布格局[J].中国沙漠,2015,35（2）：   \n284 -293.[LAI Fengbing,SUN Hu,ZHANG Zhanhe,et al. Morphological characteristics and spatial pattern of Populus euphratica nebkhas to the west of the Hotan River in the Taklimakan Desert [J]. Journal of Desert Research,2015,35(2）:284 -293.] [10］张萍,哈斯,岳兴玲,庄燕美.白刺灌丛沙堆形态与沉积特征 [J].干旱区地理,2008,31(6）:926-932.[ZHANGPing,HASI Eerdun,YUE Xingling,et al.Nitaria nebkhas：Morphology and sediments[J].Arid Land Geography,2008,31(6） :926-932.] [11］毛东雷,雷加强,薛杰,等.新疆策勒砾质戈壁沙拐枣（Callgonum)灌丛沙堆形态特征［J].干旱区资源与环境,2015,29 (5）:105-110.[MAO Donglei,LEI Jiaqiang,XUE Jie,et al. Morphological characteristics of Calligonum nebkhas on the surface of gravel Gobi Desert in Cele Xinjiang[J]. Journal of Arid Land Resources and Environment,2015,29(5）:105-110.] [12］NICKLING W G,WOLFE SA. The morphology and orgin of nebkhas region of Mopti,Mali,West Africa[J].Journal of Arid Environments,1994,28(1）:13 -30. [13］李明琴,黄辛果,来楷迪,等.贵州喀斯特微地貌的成因及其对 水土保持影响的研究[J].贵州大学学报（自然科学版）,2008，   \n25（4）:434-437.[LI Mingqin,HUANG Xinguo,LAI Kaidi,et al. Geneses of Karst Microland and maintain of waterand soil in response to Karst Microland[J]. Journal of Guizhou University（Natural Sciences）,2008,25(4） :434 -437.] [14］王升忠,王树生,魏民.泥炭沼泽微地貌特征及其形成的水动 力机制[J].东北师大学报：自然科学版,1997,（2):83－89. [WANG Shengzhong,WANG Shusheng,WEI Min.On features and hydrodynamic mechanism of formingof microland form on peatmire [J]. Journal of Northeast Normal University（Natural Science Edition）,1997,(2) :83-89.] [15］杜国云,李维庆.南京湖山-排山地区小地貌成因类型[J].烟 台师范学院学报：自然科学版,1997，（1）：77－80.［DU Guoyun,LI Weiqing.Genetic types of small geomorphology in the Hushan-Paishanarea,Nanjing[J].Yantai TeachersUniversity Journal(Natural Science）,1997,（1）:77 -80.] [16］柏美祥,罗福忠,李军,等.哈密盆地北缘活动断裂带微地貌 [J].内陆地震,1999，（2）：162－168.［BAI Meixiang,LUO Fuzhong,LI Jun,et al. Microtopography of active fault zone in the northern fringe of Hami Basin[J]. Inland Earthquake,1999,(2）:   \n162 -168.] [17］吴帅虎,程和琴,李九发,等.近期长江口北港冲淤变化与微地 貌特征［J].泥沙研究,2016,（5）：47－53.［WUShuaihu, CHENG Heqin,LI Jiufa,et al. Recent morphological variation and micro-topography features in north channel of the Yangtze Estuary [J].Journal of Sediment Research,2016,（5）:47 -53.]   \n[18］谭凤翥,王雪芹,王海峰,等.怪柳灌丛沙堆及丘间地蚀积分布 随背景植被变化的风洞实验[J].干旱区地理,2018,41（1)： 56 -65.[TAN Fengzhu,WANG Xueqin,WANG Haifeng,et al. Wind tunnel simulation on distribution change of erosion and deposition around nebkhas and interdune under different background vegetation coverage[J].Arid Land Geogrephy,2018,41（1） :56 - 65.]   \n[19］武胜利,李志忠,惠军,等.灌丛沙堆表面压力分布特征的实验 研究[J].干旱区地理,2006,29(6）:790-796.[WU Shengli, LI Zhizhong,HUI Jun,et al.Study on the distribution character of surface pressure of nabkha in wind-tunnel imitative experiment [J].Arid Land Geogrephy,2006,29(6）:790-796.]   \n[20］杜建会,严平,俄有浩.甘肃民勤不同演化阶段白刺灌丛沙堆 分布格局及特征[J].生态学杂志,2007,26（8）：1165-1170. [DU Jianhui,YAN Ping,E Youhao.Distribution pattern and characteristics of sand in different evolution stages in Minqin,Gansu Province[J].Journal of Ecology,2007,26(8）:1165-1170.]   \n[21］彭飞,王涛,刘立超,等.民勤荒漠绿洲过渡带白刺灌丛沙堆演 化阶段及其空间格局[J].中国沙漠,2012,32（3）：593-599. [PENG Fei,WANG Tao,LIU Lichao,et al. Evolution phases and spatial pattern of nebkhas in Minqin Desert oasis ectone[J]. Journal of Desert Research,2012,32(3):593 -599.]   \n[22］周伟,刚成诚,李建龙,等.1982—2010 年中国草地覆盖度的时 空动态及其对气候变化的响应[J].地理学报,2014,69（1)： 15-30.[ZHOU Wei,GANG Chengcheng,LI Jianlong,et al. Spatial-temporal dynamics of grassand coverage and its response to climate change in China during 1982-2010[J].Acta Geographica Sinica,2014,69(1):15-30.]   \n[23]杜加强,高云,贾尔恒·阿哈提,等.近30 年新疆植被生长异 常值时空变化及驱动因子[J].生态学报,2016,36(7)：1915- 1927.[DU Jiaqiang,GAO Yun,JIAERHENG A H T,et al. Spatiotemporal patterns and driving factors of vegetation growth anomalies in Xinjiang over the last three decades[J].Acta Ecologica Sinica, 2016,36(7):1915 -1927.]   \n[24］刘元保,唐克丽.国内外坡度分级和王东沟试验区的坡度组成 [J].水土保持通报,1987,（3）:59-65.[LIU Yuanbao,TANG Keli. On classfication of slope steepness at home and abroad and its composition in Wangdong experiment area of Changwu County, Shaanxi Province[J].Buletin of Soil and Water Conservation, 1987,(3) :59 -65.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Morphological characteristics and its clinal variation of the tree-platform of Malus sieversii ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "XU Shi-wei $^ { 1 , 2 }$ ，LAI Feng-bing1,²，CHEN Meng-yu²³，ZHU Xuan4，LI Hong-jun $\\textdegree$ ， CHENShu-jiang²，HUANGTie-cheng2,6，JAXang (1School of geography and tourism,Xinjiang normal university,Urumqi 830054,Xinjiang,China;   \n2Urumqi Institute of space remote sensing applications,Urumqi 83o054,Xinjiang,China;   \n3School offoreign languages,Suzhou Universityof science and technology,Suzhou 215ooo,Jiangsu,China;   \n4Monash University，Melbourne 38OO,Australia；5Xinjiang West Tianshan National Nature Reserve, Ili 83500o,Xinjiang,China；6Beijing Forestry University,Beijing lOoooO,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Taking the Malus sieversi forest in the western Tianshan Mountains as an example,this paper obtained the morphological parametersof the tre-platforms of the Malus sieversiin the western Tianshan Mountains using the Leica TSO6Reflectorless Total Station,andquantitativelyanalyzedthe three-dimensionalmorphologicalcharacteristics and spatial distribution patern.The DEM（Digital Elevation Model,DEM）of the tre-platformsof the Malus sieversi forest was constructed to study its micro-geomorphic landscape.The result shows as follows:（1）The shape of the Malus sieversiitree-platform inthestudyareais relativelyregulated,andtheaspectratio is intherangebetween 0.6579and1.431O.It issemi-circularor fan-shaped.The position of the Malus sieversi (ie,thecenterof the plot）is displayed being darker and prominent with higher elevation values.（2）The slope,botom diameter and bottom area,surface area，volume,length,width,height and aspect ratio of the Malus sieversi tree-platform are significantly correlated.Among them，the slope,the height and the length showa significant linear positive correlation, with $R ^ { 2 }$ being O.96 and O.9O respectively;the botom diameter and the bottom area,surface area and length show significant linear correlation with $R ^ { 2 }$ being O.61,0.46,and O.47 respectively. The research result can provide useful data to support the rational use of forest vegetation,soil and water conservation,and nutrient storage of wild apple trees. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words: tree-platform； slope；bottom diameter； Malus sieversii； West Tianshan Mountains",
+        "page_idx": 8
+    }
+]

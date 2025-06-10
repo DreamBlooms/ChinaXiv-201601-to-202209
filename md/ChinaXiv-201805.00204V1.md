@@ -1,0 +1,312 @@
+# 多天线主动窃听系统的干扰机优化设计\*
+
+涂小岚1，张广驰‘，万林青¹，崔 苗1，林凡²(1．广东工业大学，信息工程学院，广州 510006;2.广州杰赛科技股份有限公司，广州 510310)
+
+摘要：不同于与传统无线通信物理层安全被动窃听技术，针对物理层主动窃听技术进行了研究，主要用于合法部门监听可疑用户的通信。考虑可疑发射机和合法干扰机具有多天线、可疑接收机和合法窃听者具有单天线的系统模型，在可疑通信链路增益强于窃听链路增益的情况下，通过发射干扰信号，控制可疑用户的通信速率，使合法窃听者能正确解码窃听信息。分别在合法干扰机对合法窃听者有/无干扰的两种情况下，进行最优的干扰信号设计和干扰功率控制，最大化窃听速率。仿真结果表明，在不同的应用场景下合理设置干扰机位置，能有效提高窃听速率，并且所提的干扰机设计方法均取得了比现有的两种基准方法更优的窃听性能。
+
+关键词：主动窃听；干扰信号设计；干扰功率控制；窃听速率性能 中图分类号：TN918.91 doi:10.3969/j.issn.1001-3695.2017.07.0694
+
+# Jammer optimization for multi-antenna proactive eavesdropping systems
+
+Tu Xiaolan1, Zhang Guangchi1, Wan Linqing1, Cui Miaol, Lin Fan² (1.Schlof InformationEngineeringGuangdong UniversityofTechnologyGuangzhou510o6,China);2.GuangzhouGCI Science& Technology Co,Ltd,Guangzhou 510310,China)
+
+Abstract:Diferentwiththepassivewirelesseavesdropping technque in traditional wirelesscommunications,thispaperstudied proactiveeavesdropping technology atthe physicallayer for legitimate eavesdropper to monitorthe communicationbetween suspicious users.Itequippedconsidera multiple-input single-output (MISO)system model where thesuspicious transmiter and legitimate jammer with multi antennas,and equipped thesuspicious receiverand legitimate eavesdropper with single antena, Ifthechanel gainofthesuspicious communicationlink wasstrongerthanthatoftheeavesdroppng link,thelegitimatejammer controls thecommunicationrateofthesuspicioususersviajammingthem,inorderforthelegitimateeavesdroppertocorrectly decodetheeavesdropped information.Considering two cases thatthe jammer couldor cluldn't interferenceonthe legitimate eavesdropper,respectively,itdsignedtheoptimal interferencesignalandpowercontrolforthelegitimatejammertoaximize the eavesdropping rate.Simulationresults show that the proposed interference design method for the jammer in diferent application scenarios has achieved beter eavesdropping performance than the existing two benchmark methods.
+
+Key Words: proactive eavesdropping;jammingsignal design;interference power control; eavesdroppingrate performance
+
+# 0 引言
+
+无线通信技术的迅速发展，在为人们带来便利的同时也带来了隐私、秘密信息泄露的风险。
+
+保障信息的安全传输 $[ 1 ^ { \sim } 3 ]$ ，一直是信息安全[当中的一项重要研究内容。在无线网络中，无线通信利用本身的广播传输特性，一方面能够给授权用户之间提供便利的信息传输通道，但这也容易被不法分子利用，试图发动恶意攻击，意图盗取用户身份信息、密码信息等。上述恶意攻击行为被称为被动窃听攻击。被动窃听者通常只是被动的窃听用户的信息，但是不会主动攻击接收者接受信息。应对此类物理层安全事件的防被动窃听技术有：
+
+a）传统的密码加密技术[2]。传统的加密机制通过有效的技术来加密信息，以确保对窃听的拦截；虽然这项技术在安全通信方面提供了有效的防范方法，但是随着窃听者群体的快速膨胀扩大，增加密钥和管理的复杂度也是传统机制目前需要面临
+
+的巨大挑战。
+
+b)物理层安全方式[4]\~[6]。利用信号传输的信道及噪声特性，通过恶化窃听者信道环境进而提高物理层信息传输的安全性。目前这项安全防护技术，具有广阔的应用前景和应用价值。
+
+通常情况下考虑窃听是非法行为，然而实际上窃听者可以发动主动攻击来增强他们的窃听性能，这被称为主动窃听[7]}-[10]。在特种安全领域，主动窃听是侦查犯罪分子和恐怖分子等可疑用户通信的过程，目的是为了减少犯法行为的发生。政府机构窃听可疑无线通信的行为被认为是合法的。
+
+目前，学术界提出的主要物理层主动窃听技术有两种：a)基于干扰的主动窃听技术[7]。合法窃听者距离可疑传输机较远的情况下，其中全双工的合法窃听者通过发射干扰信号，在实现窃听的同时调整可疑通信速率，目的是为了加强窃听效果。
+
+b)窃听者作为中继转发干扰信号的主动窃听技术。窃听者作为一个中继[8][9]，在窃听信道较好的情况下，放大转发一个有利信号到接收机；相反的情况下，转发一个破坏信号。通过迷惑源发射机，使得窃听者可以顺利解码窃听信息。
+
+然而在文献 $[ 7 \sim 1 0 ]$ 中,仅考虑的是单天线的应用场景，针对实际应用场景，考虑单独增加一个多天线干扰机；在可移动范围内，调整干扰机的发射功率；干扰机距离可疑接收机较近时，系统的窃听性能越强，有效设置干扰机的位置，
+
+![](images/9a1732ace694c714742f8b80a4140cafc8bacd95785eef2c880e9a5426df0092.jpg)  
+图1主动窃听系统模型
+
+能够提高系统的合法窃听性能。因此在文献[7]所提出的基于干扰的主动窃听技术的基础上，考虑在一个多输入单输出(multiple-input single-output，MISO)多天线模型中，增加一个多天线干扰机，通过优化干扰机的发射功率，提高系统的窃听速率；其中窃听者作为窃听方，基于文献[7]对于主动窃听的定义：在衰落信道下，当窃听速率大于可疑通信速率的时候，合法窃听者能够成功解码、窃听可疑通信链路。分别在有自干扰（合法窃听者自身受到干扰机干扰）和无自干扰（由于采用了干扰消除技术，合法窃听者不受干扰机干扰)两种情况下，多天线干扰机根据自适应功率调整方案，发射干扰信号干扰接收机的信号接收。窃听速率越大，表示系统窃听信道状态越强，因此针对提高系统性能，主要集中优化的是合法窃听速率，并且分别利用内点法 $[ 1 1 ^ { \sim } 1 3 ]$ 和拉格朗日优化方法[1,14]优化干扰机的发射功率，最大限度地提高系统合法窃听速率。通过计算机仿真验证，与已有的两种基准干扰策略相比，所提的干扰信号优化方案，取得了更优的窃听速率性能。
+
+符号：粗体小写、大写字母分别表示向量和矩阵， $Z ^ { \mathrm { r } }$ ， $\pmb { Z } ^ { \scriptscriptstyle \mathrm { H } }$ 表示矩阵的转置、共轭转置，trace(Z)表示矩阵的迹。 $\| z \|$ 为矩阵 $z$ 的范数， $\left\| z \right\|$ 为向量 $z$ 的欧几里德范数（2范数）。
+
+# 1 系统模型
+
+考虑在多输入单输出-MISO瑞利衰落信道下的一个合法无线监测场景（图1）；其中合法窃听者负责监控点对点可疑通信链路，在窃听环境弱于通信环境时，干扰机发射干扰信号，干扰可疑用户之间的通信。 $N _ { \mathrm { ~ s ~ } } N _ { \mathrm { ~ } _ { j } }$ 分别为可疑发射机S、干扰机J的天线数；可疑接收机D、合法窃听者E均考虑的是单天线设备; $\pmb { h } _ { \mathrm { s d } }$ ， $\pmb { h } _ { \mathrm { s c } }$ ， $\pmb { h } _ { \mathrm { i d } } .$ ， $\boldsymbol { h } _ { \mathrm { j c } }$ 分别为可疑发射机S到可疑接收机D、可疑发射机S到合法窃听者E、干扰机到可疑接收机D、干扰机到合法窃听者E之间的信道增益，且 $\pmb { h } _ { _ \mathrm { s d } } , \ \pmb { h } _ { _ \mathrm { s } } , \ \pmb { h } _ { _ \mathrm { i d } } , \ \pmb { h } _ { _ \mathrm { j e } }$ 的元素服从复高斯分布，在每一帧的传输过程中均保持不变。
+
+# 1.1无主动窃听时，可疑用户的通信模型
+
+在无主动窃听的情况下，可疑接收机D的接收信号为
+
+$$
+\mathfrak { Y } = \sqrt { P } _ { s } h _ { _ { s d } } w x _ { _ { s } } + n _ { _ { d } }
+$$
+
+其中： $P _ { s }$ 是可疑发射机的发射功率； $\pmb { w } \in { \mathbf { C } } ^ { N _ { s } \times 1 }$ 和 $x _ { \mathrm { { s } } }$ 分别是可疑发射机的加权传输向量、发射信号，且有 $\mathbf { E } { \left[ x _ { \mathrm { { s } } } ^ { 2 } \right] } { = } 1$ ：nd～N(0,σ)为可疑接收机D 产生的高斯白噪声。通过式(1),给定信道下可疑接收机的平均输出信噪比为
+
+$$
+\hat { r } = \frac { P _ { _ s } \big | \pmb { h } _ { _ \mathrm { { s d } } } { \pmb { w } } \big | ^ { 2 } } { \sigma ^ { 2 } }
+$$
+
+其中：发射权向量 $w$ 的设计应使式(2)最大，通过Schwartz不等式，有
+
+$$
+\widehat { r } = \frac { P _ { s } \left| \pmb { h } _ { \mathrm { s d } } \pmb { w } \right| ^ { 2 } } { \sigma ^ { 2 } } = \frac { P _ { s } \left| \left( \pmb { h } _ { \mathrm { s d } } ^ { \mathrm { H } } , \pmb { w } \right) \right| ^ { 2 } } { \sigma ^ { 2 } } \leq \frac { P _ { s } \left\| \pmb { h } _ { \mathrm { s d } } ^ { \mathrm { H } } \right\| ^ { 2 } \left\| \pmb { w } \right\| ^ { 2 } } { \sigma ^ { 2 } }
+$$
+
+其中为 $\left( \boldsymbol { h } _ { \mathrm { s d } } ^ { \mathrm { H } } , \boldsymbol { w } \right)$ 内积运算，当
+
+$$
+w = \frac { { h _ { \mathrm { { s d } } } ^ { \mathrm { { H } } } } } { { \left\| { { h _ { \mathrm { { s d } } } ^ { \mathrm { { H } } } } } \right\| } }
+$$
+
+时，式(3)取等。这也是基于最大比合并发射原理[15]得出的结论，在发射端通过最大比合并原理设计加权值，最大化系统的通信速率。
+
+# 1.2 主动窃听模型
+
+假设合法窃听者E监控可疑发射机S的发射信号。在窃听监控的同时，通过干扰机 $N _ { _ j }$ 根天线发射干扰信号干扰可疑链路之间的通信[16]。干扰功率 $P _ { j } = { \mathrm { t r a c e } } \{ V \}$ ，其中 $\pmb { V } = \mathrm { E } \left\{ \pmb { \nu } \pmb { \nu } ^ { \mathrm { H } } \right\}$ 为干扰信号的自相关矩阵。
+
+合法窃听者E、可疑接收机D的接收信号分别表示为
+
+$$
+y _ { \mathrm { d } } = \sqrt { P } h _ { \mathrm { \it s d } } w x _ { \mathrm { \it s } } + h _ { \mathrm { \it j d } } \nu + n _ { \it d }
+$$
+
+$$
+y _ { \mathrm { { e } } } = \sqrt { P } h _ { s e } w x _ { s } + a h _ { j e } \nu + n _ { e }
+$$
+
+其中： $n _ { \mathrm { { \ell } } _ { e } } \sim \mathrm { N } { \left( 0 , \sigma ^ { 2 } \right) }$ 是合法窃听者 E 产生的高斯白噪声。$0 \leq a \leq 1$ 即为干扰指数，若 $a = 0$ ，窃听者可以完全消除干扰信号给自身带来的影响；若 $a = 1$ ，窃听者本身也会受到干扰信号的影响。在接下来的第2章,也会将两种情况分别进行分析，不同情况下的设计方案也会有所不同。
+
+通过式(5)(6)分别得出可疑接收机D、合法窃听者E的信噪比（signal-to-noise ratio，SNR）为
+
+$$
+\gamma _ { _ d } = \frac { P _ { s } \left| \boldsymbol { h } _ { \mathrm { s d } } \boldsymbol { w } \right| ^ { 2 } } { \left| \boldsymbol { h } _ { \mathrm { j d } } \boldsymbol { \nu } \right| ^ { 2 } + \sigma ^ { 2 } } = \frac { P _ { s } \left| \boldsymbol { h } _ { \mathrm { s d } } ^ { \boldsymbol { \mathsf { \Pi } } } \right| ^ { 2 } } { \left| \boldsymbol { h } _ { \mathrm { j d } } \boldsymbol { \nu } \right| ^ { 2 } + \sigma ^ { 2 } }
+$$
+
+$$
+\gamma _ { _ { e } } = \frac { P _ { s } \left| \pmb { h } _ { \mathrm { s e } } \pmb { w } \right| ^ { 2 } } { a \left| \pmb { h } _ { \mathrm { j e } } \pmb { \nu } \right| ^ { 2 } + \sigma ^ { 2 } } = \frac { P _ { s } \left| \pmb { h } _ { \mathrm { s e } } \frac { \pmb { h } _ { \mathrm { s d } } ^ { \mathrm { H } } } { { \pmb { h } _ { \mathrm { s d } } ^ { \mathrm { H } } } } \right| ^ { 2 } } { a \left| \pmb { h } _ { \mathrm { j d } } \pmb { \nu } \right| ^ { 2 } + \sigma ^ { 2 } }
+$$
+
+# 2 最优干扰设计
+
+根据文献[4]，窃听信道增益大于可疑通信信道增益即|h|≥|hl，这也意味着窃听者的信道增益较强，窃听者可以解码可疑发射机S的发射信号，信息泄露率即窃听速率为接收机的通信速率 $R _ { _ { D } } = \log _ { _ { 2 } } \left( 1 + r _ { _ d } \right)$ 。其他情况下，窃听者不能解码窃听信号，此时的窃听速率为0。因此窃听速率可定义为
+
+$$
+\begin{array} { r } { \mathrm { R } _ { \mathrm { \Pi _ { l e a k } } } = \{ \begin{array} { l l } { R _ { _ D } } & { , \quad  { \mathcal { W } } \mathbb { H } | \pmb { h } _ { \mathrm { s c } } | ^ { 2 } \ge | \pmb { h } _ { \mathrm { s d } } | ^ { 2 } } \\ { 0 } & { , \quad \not \exists \not \{ \pmb { \dag } \mathbb { H } _ { \circ } } \end{array}  } \end{array}
+$$
+
+针对提高整体系统的性能，在有干扰功率约束的情况下，优化干扰信号的自相关矩阵,最大化窃听速率。基于式(9)对主动窃听的定义，最优干扰设计问题可以表述为
+
+$$
+s . t \quad r _ { e } \geq r _ { d }
+$$
+
+$$
+V = V ^ { \mathrm { H } } \mathrel { , } V \geq 0
+$$
+
+$$
+\operatorname { t r a c e } ( V ) \leq Q _ { j }
+$$
+
+式(9b)(9c)(9d)分别为系统的约束条件，式(9c)保证干扰信号的自相关矩阵 $\boldsymbol { \nu }$ 为正定矩阵，式9d)为干扰功率下限，式(9b)即根据文献[7]中对于主动窃听的定义：合法窃听者信道状态强于可疑接收机时，合法窃听者E能成功解码可疑传输信号。整个系统的最终目的是优化干扰发射功率 $P _ { \mathrm { j } }$ ，最大化窃听速率 $r _ { \mathrm { d } }$ u如果 $r _ { \mathrm { d } }$ 较大,代表窃听信道状态更强。
+
+# 2.1无自干扰-基于半定规划的最优干扰信号设计.
+
+假设整个信道状态信息是确定的，合法窃听者E能通过先进的模拟和数字自干扰消除方法而免于干扰信号 $v$ 的影响。在这种情况下，窃听者的目标是优化干扰机传输功率 $P _ { \mathrm { j } }$ ，最大化系统窃听速率 $r _ { \mathrm { d } }$ ，进而提高窃听性能。
+
+基于文献[8]对于主动窃听的定义，在满足约束条件式（9b)h hh h  
+情况下： h h ，问题即可解。其中干扰机采用0 +g  
+自适应功率调整策略：窃听信道增益优于通信信道增益即
+
+|h ≥|hdl，不需要干扰机的干扰也能达到主动窃听的性能，此时不考虑使用干扰机有 $P _ { \mathrm { j } } = 0$ ；其他情况下的窃听判决条件为R, :
+
+$$
+\mathrm { R } _ { \mathrm { r } } \colon \ \operatorname* { m a x } \quad \mathrm { t r a c e } \left( h _ { _ { j d } } h _ { _ { j d } } ^ { \mathrm { H } } V \right)
+$$
+
+$$
+\begin{array} { c } { { s . t \quad V \geq 0 } } \\ { { \mathrm { t r a c e } ( V ) \leq Q _ { j } } } \end{array}
+$$
+
+$Q _ { j }$ 为此时满足判决条件下的最优功率解。根据判决条件 $\mathbf { R } ,$ ,在通信信道增益较强 $\left| \pmb { h } _ { s d } \right| ^ { 2 } > \left| \pmb { h } _ { s e } \right| ^ { 2 }$ 时,若满足 $\frac { \left| h _ { _ { s e } } w \right| ^ { 2 } } { \sigma ^ { 2 } } \geq \frac { \left| h _ { _ { s d } } w \right| ^ { 2 } } { \beta Q _ { _ { j } } + \ \sigma ^ { 2 } }$ ,其中 $\beta = \mathrm { t r a c e } ( \pmb { h } _ { j d } \pmb { h } _ { j d } ^ { \mathrm { H } } )$ 。
+
+根据文献 $[ 1 1 \sim 1 3 ]$ 提供的半定规划（semidefiniteprogramming,SDP）方法，可将 $\mathbf { P } _ { 1 }$ 转变为半定规划问题：
+
+$$
+\mathrm { P _ { \mathrm { 1 } } } : \operatorname* { m i n } { \mathrm { ~ t r a c e } } \left( A V _ { \mathrm { \mathrm { 1 } } } \right)
+$$
+
+$$
+s . t \mathrm { t r a c e } \left( A V _ { \mathrm { _ \mathrm { 1 } } } \right) \geq \sigma ^ { 2 } \left( \frac { h _ { \mathrm { { s d } } } \frac { h _ { \mathrm { { s d } } } ^ { \mathrm { { H } } } } { \left\| h _ { \mathrm { { s d } } } ^ { \mathrm { { H } } } \right\| } } { h _ { \mathrm { { s } } } \frac { h _ { \mathrm { { s d } } } ^ { \mathrm { { H } } } } { \left\| h _ { \mathrm { { s d } } } ^ { \mathrm { { H } } } \right\| } } - 1 \right)
+$$
+
+$$
+\mathrm { t r a c e } \left( V _ { \mathrm { _ 1 } } \right) \geq 0
+$$
+
+$$
+\mathrm { t r a c e } \left( V _ { _ { 1 } } \right) \leq Q _ { _ { j } }
+$$
+
+其中： $A = \pmb { h } _ { \mathrm { j d } } \pmb { h } _ { \mathrm { j d } } ^ { \mathrm { H } } \setminus \pmb { V } _ { \mathrm { 1 } } = \pmb { \nu } _ { \mathrm { i } } \pmb { \nu } _ { \mathrm { 1 } } ^ { \mathrm { H } }$ 。由与约束条件式（14）（15）均满足凸条件，直接利用内点法即可求解出 $\hat { { \sf P } } _ { _ { 1 } }$ 的最优解。根据 SDP方法优化 $\pmb { \nu } _ { _ { 1 } }$ 的自相关矩阵 $V _ { _ { 1 } }$ ，有且仅有最大窃听速率 $\gamma _ { d 1 } ^ { \operatorname* { m a x } }$ ：
+
+$$
+\gamma _ { d 1 } ^ { \mathrm { m a x } } = \frac { P _ { s } \bigg | \pmb { h } _ { \mathrm { s d } } ^ { \ } \bigg | ^ { 2 } } { \pmb { h } _ { \mathrm { j d } } ^ { \ } V _ { \mathrm { \pmb { h } } } ^ { \mathrm { H } } + \sigma ^ { 2 } }
+$$
+
+# 2.2 2.2自干扰条件下的干扰信号设计
+
+|hl<h即窃听信道增益相对较强的时候，不发射干扰信号即 $P _ { \mathrm { j } } = 0$ 。根据式(10)，自干扰情况下需满足的窃听判决条件即为
+
+$$
+\frac { \left| h _ { \mathrm { s c } } \frac { h _ { \mathrm { s d } } ^ { \mathrm { H } } } { h _ { \mathrm { s d } } ^ { \mathrm { H } } } \right| ^ { 2 } } { \left| { h _ { \mathrm { s d } } \frac { h _ { \mathrm { s d } } ^ { \mathrm { H } } } { h _ { \mathrm { s d } } ^ { \mathrm { H } } } } \right| ^ { 2 } } \ge \frac { \beta . Q _ { j } + \sigma ^ { 2 } } { \beta _ { 2 } Q _ { j } + \sigma ^ { 2 } }
+$$
+
+其中： $\beta _ { \mathrm { { l } } } = \mathrm { t r a c e } \left( { h _ { \mathrm { { j e } } } } { h _ { \mathrm { { j e } } } ^ { \mathrm { { H } } } } \right) , \quad \beta _ { \mathrm { { \it 2 } } } = \mathrm { t r a c e } \left( { h _ { \mathrm { { j d } } } } { h _ { \mathrm { { j d } } } ^ { \mathrm { { H } } } } \right) \circ$
+
+为了获得优化问题 $\mathrm { \bf P } _ { 1 }$ 在自干扰情况下的全局最优解，引用文献[11，14]中所提出的拉格朗日方法,对问题 $\mathrm { \bf P } _ { 1 }$ 优化求解。首先，问题 $\mathbf { P } _ { 1 }$ 的拉格朗日原问题如下所示：
+
+$$
+\mathrm { P } _ { { 2 } } : \operatorname* { m i n } \left| h _ { { \mathrm { i d } } } \nu \right| ^ { 2 }
+$$
+
+$$
+s . t \ \frac { \left| h _ { \mathrm { j e } } \nu \right| ^ { 2 } + \sigma ^ { 2 } } { \left| h _ { \mathrm { j d } } \nu \right| ^ { 2 } + \sigma ^ { 2 } } \leq B
+$$
+
+其中： $B = \frac { \left| h _ { \mathrm { s e } } \frac { \displaystyle \overline { { h } } _ { \mathrm { s d } } ^ { \mathrm { H } } } { \displaystyle \overline { { h } } _ { \mathrm { s d } } ^ { \mathrm { H } } } \right| ^ { 2 } } { \left| { h } _ { \mathrm { s d } } \frac { \displaystyle \overline { { h } } _ { \mathrm { s d } } ^ { \mathrm { H } } } { \displaystyle \overline { { h } } _ { \mathrm { s d } } ^ { \mathrm { H } } } \right| ^ { 2 } } \mathrm { ~ . ~ }$
+
+引入拉格朗日对偶变量 $\lambda$ ，有且仅有 $\lambda \geq 0$ 满足
+
+$$
+\operatorname { L } \left( \nu , \lambda \right) = \left| h _ { \mathrm { j d } } \nu \right| ^ { 2 } - \lambda \Big ( B \left( \left| h _ { \mathrm { j d } } \nu \right| ^ { 2 } + \sigma ^ { 2 } \right) - \left( \left| h _ { \mathrm { j e } } \nu \right| ^ { 2 } + \sigma ^ { 2 } \right) \Big ) =
+$$
+
+$$
+\lambda \big ( 1 - B \big ) \sigma ^ { 2 } + \nu \big ( \big ( 1 - \lambda B \big ) \pmb { h } _ { \mathrm { j d } } \pmb { h } _ { \mathrm { j d } } ^ { \mathrm { ~ H ~ } } + \lambda \pmb { h } _ { \mathrm { j e } } \pmb { h } _ { \mathrm { j e } } ^ { \mathrm { ~ H ~ } } \big ) \pmb { \nu } ^ { \mathrm { ~ H ~ } }
+$$
+
+对偶函数为 $\begin{array} { r } { \mathbf { g } _ { 1 } \big ( \lambda \big ) = \operatorname* { m i n } \ \mathrm { L } \big ( \nu , \lambda \big ) } \end{array}$ 0
+
+若 $\big ( 1 - \lambda B \big ) \pmb { h } _ { \mathrm { j d } } \pmb { h } _ { \mathrm { j d } } ^ { \mathrm { ~ H ~ } } + \lambda \pmb { h } _ { \mathrm { j c } } \pmb { h } _ { \mathrm { j c } } ^ { \mathrm { ~ H ~ } } < 0$ ，则有对偶函数 $\mathbf { g } _ { 1 } \big ( \lambda \big )$ 无下界限。因此将其转换为对偶问题 $\oint \cdot$ ：
+
+$$
+\begin{array} { c c } { \psi } & { \operatorname* { m a x } ~ \lambda \big ( 1 - \mathbf { B } \big ) \sigma ^ { 2 } } \end{array}
+$$
+
+$$
+\begin{array} { r l } { s . t } & { { } \left( 1 - \lambda B \right) \pmb { h } _ { \mathrm { j d } } \pmb { h } _ { \mathrm { j d } } ^ { \mathrm { ~ H ~ } } + \lambda \pmb { h } _ { \mathrm { j e } } \pmb { h } _ { \mathrm { j e } } ^ { \mathrm { ~ H ~ } } \geq 0 } \end{array}
+$$
+
+由于问题 $\dot { \boldsymbol { \mathrm { ~ P ~ } } }$ 为凸 SDP 问题,它的最优解可以通过内点法[I]优化方法直接求解。假设 $\lambda ^ { * }$ 为 $\dot { \boldsymbol { \mathrm { ~ P ~ } } }$ 的最优解。
+
+根据文献[10]中对非凸二次约束二次规划（quadraticconstrained quadraticprogramming，QCQP）问题的定义与其中的定义2可知：若有 $\lambda ^ { * }$ 使 $\mathrm { L } \left( \boldsymbol { \nu } , \boldsymbol { \lambda } ^ { * } \right)$ 为凸问题，则有$\lambda ^ { * } f \left( \boldsymbol { v } ^ { * } \right) = 0$ ，其 $f \left( \boldsymbol { \nu } ^ { * } \right) \leq 0$ 。
+
+因此有 $\pmb { \nu } ^ { * } \in \operatorname { m i n L } \left( \pmb { \nu } , \lambda ^ { * } \right)$ 使得
+
+$$
+\lambda ^ { \ast } \left( \left( B - 1 \right) \sigma ^ { 2 } + B \big | \pmb { h } _ { \mathrm { j d } } \nu ^ { \ast } \big | ^ { 2 } - \big | \pmb { h } _ { \mathrm { j c } } \nu ^ { \ast } \big | ^ { 2 } \right) = 0
+$$
+
+由问题 $\dot { \mathsf { P } }$ 可知 $\lambda \neq 0$ ，可得出
+
+$$
+{ \big ( } B - 1 { \big ) } \sigma ^ { 2 } + B \times \operatorname { t r a c e } { \big ( } a a \times V ^ { * } { \big ) } - \operatorname { t r a c e } { \big ( } b b \times V ^ { * } { \big ) } = 0
+$$
+
+经由一系列的等式变换，根据拉格朗日方法，干扰机最优发射功率P=trace(V") $P _ { _ { j } } ^ { ^ { \prime } } = \operatorname { t r a c e } \left( V ^ { ^ { * } } \right) = { \frac { \left( 1 - B \right) \sigma ^ { ^ { 2 } } } { B \times a a - b b } }$ (1-B)σ²，其中：aa=ʰʰ，${ \sf b } { \sf b } = { \pmb h } _ { \mathrm { j c } } { \pmb h } _ { \mathrm { j c } } ^ { \mathrm { ~ H ~ } } , \quad { \pmb V } ^ { * } = { \pmb \nu } ^ { * } { \pmb \nu } ^ { * } \circ$
+
+在自干扰情况下系统最大窃听速率即为
+
+$$
+\gamma _ { d 2 } ^ { \mathrm { m a x } } = \frac { P _ { \mathrm { s } } \bigg | \pmb { h } _ { \mathrm { s d } } ^ { \mathrm { } } \frac { \pmb { h } _ { \mathrm { s d } } ^ { \mathrm { H } } } { \pmb { h } _ { \mathrm { s d } } ^ { \mathrm { H } } } \bigg | ^ { 2 } } { \pmb { h } _ { \mathrm { j d } } V ^ { \dagger } \pmb { h } _ { \mathrm { j d } } ^ { \mathrm { H } } + \sigma ^ { 2 } }
+$$
+
+算法1自干扰/无自干扰情况下自相关矩阵V的优化设计步骤1：判断窃听信道增益与可疑通信信道增益大小关系，如|hl<|hl，则执行步骤3。其他情况，则执行步骤2，分别在无自干扰/有自干扰情况下，优化自相关矩阵 $\mathrm { \Delta V }$ 。
+
+步骤2:
+
+$\textcircled{1}$ 无自干扰（ $a = 0$ ）：由窃听判决条件 $\mathbf { R } _ { \mathrm { r } }$ ，有且仅在满足$\frac { \left| h _ { _ { s e } } w \right| ^ { 2 } } { \sigma ^ { 2 } } \geq \frac { \left| h _ { _ { s d } } w \right| ^ { 2 } } { \beta Q _ { _ j } + \ \sigma ^ { 2 } }$ 时，执行半正定规划方法。根据优化问题 $\mathbf { P } _ { \mathrm { _ l } }$ ，干
+
+扰机最优功率设计为： $P _ { \mathrm { j } } = V _ { \mathrm { _ 1 } }$ 。
+
+$\textcircled{2}$ 自干扰（ $a = 1$ ）：由窃听判决条件 $\mathbf { R } _ { \mathrm { r } }$ ，有且仅在满足  
+$\frac { \left| h _ { \mathrm { s e } } \frac { h _ { \mathrm { s d } } ^ { \mathrm { H } } } { h _ { \mathrm { s d } } ^ { \mathrm { H } } } \right| ^ { 2 } } { \left| { h _ { \mathrm { s d } } \frac { h _ { \mathrm { s d } } ^ { \mathrm { H } } } { h _ { \mathrm { s d } } ^ { \mathrm { H } } } } \right| ^ { 2 } } \ge \frac { \beta . Q _ { j } + \sigma ^ { 2 } } { \beta _ { 2 } Q _ { j } + \sigma ^ { 2 } }$ 时，执行拉格朗日方法。根据优化问题 $\mathbf { P } _ { 2 }$ ，干扰机最优功率设计为： $P _ { \mathrm { j } } = V ^ { * }$ 。  
+由此转至步骤4，求解系统的窃听速率。  
+步骤3：干扰功率 $P _ { \mathrm { j } } = 0$ 。由此转到步骤4,求解系统的窃听速率。
+
+步骤4：系统的窃听速率： $\gamma _ { _ d } = \frac { P _ { \mathrm { s } } \left| \boldsymbol { h } _ { \mathrm { s d } } \boldsymbol { \frac { h _ { \mathrm { s d } } ^ { \mathrm { H } } } { h _ { \mathrm { s d } } ^ { \mathrm { H } } } } \right| ^ { 2 } } { P _ { j } h _ { _ { \mathrm { j d } } } h _ { \mathrm { j d } } ^ { \mathrm { H } } + \sigma ^ { 2 } }$
+
+# 3 仿真结果
+
+在本章中,针对提出具有自干扰、无自干扰情况下的主动窃听方案使用计算机仿真来验证。将所提出的自适应功率调整方案与已有的两种方法进行比对，目前已有的两种基本方法分别是：
+
+a）无干扰机的主动窃听方法。
+
+b）有干扰机-干扰功率设为 $\boldsymbol { \mathrm { Q } } _ { \mathrm { j } }$ ，基于波束成形技术下采用最大比传输（maximumratio transmission）设计干扰机的主动窃听方案。多天线干扰机利用波束成形技术，在发射端对数据先加权再发送，通过形成窄的发射波束，将能量对准目标用户，提高目标用户的解调信噪比。利用MRT最大比合并原理即相同的环境下，利用MISO系统的空间分集，多天线干扰机的加权因子利用最大比合并原理，通过在发射机添加发射权向量处理，发射机加权值： =。将Q,即干扰功率的上限值作为发射功率，使得在接收机获得最大输出信噪比，最大程度的干扰接收机的信息接收。将这两种基本方案与文中所提出的干扰机设计方案进行仿真对比。
+
+在路径损耗模型中，信道增益被建模为： $\pmb { h } _ { i k } = \sqrt { \pmb { \theta } _ { i k } ^ { - } } \pmb { \mu } _ { \mathrm { i k } } ^ { \pmb { \mu } }$ ，其中 $\mathfrak { i } \in \left\{ s , j \right\} , k \in \left\{ d , e \right\} , \quad j$ ${ \pmb { \mathscr { M } } } _ { i k } ^ { \mathbf { L } }$ 是服从独立同分布复高斯随机变量，且均值为0、方差为1； $\big \{ \pmb { { \mu } } _ { i k } ^ { \mathbf { u } } = 1 0 ^ { ( - \sigma / 1 0 ) }$ 为衰落路径,$\sigma = 3 0 . 1 8 + 2 6 \log ( d _ { { \scriptscriptstyle i k } } )$ 为路径衰落指数，其中 $d _ { \scriptscriptstyle i k }$ 为两节点之间的距离。信号噪声功率 $\sigma ^ { 2 }$ 、干扰功率上限值 $\mathrm { ~ Q _ { j } ~ }$ 分别为 $\scriptstyle 1 - 8 0 \mathrm { d B m }$ 和$3 0 \mathrm { d B m }$ 。假设可疑发射机S、合法窃听节点E、可疑接收机D之间的距离固定为 $5 0 0 \mathrm { ~ m ~ }$ ，S、D、E的坐标分别为 $( 0 , 0 )$ m、(500,0)m、(0,500）m。
+
+首先考虑在固定位置上，三种方法的性能对比，干扰机的空间坐标位置假设为（250，250)m。基于瑞利自由空间衰落模型下，考虑在发射功率 $2 0 ~ \mathrm { d B m } { \sim } 3 0 ~ \mathrm { d B m }$ 内，将现有的两种基准方法与本文所提的方法进行对比，对比结果由图2、3所示。
+
+![](images/63d7df687202b7d39f7c5eeaa059a9da848d0fc3d8152dd1d914966c8266f5b4.jpg)  
+图2干扰机位于 $( 2 5 0 , 2 5 0 ) \mathrm { m }$ ，存在自干扰时，窃听速率随发射功率变化的曲线图
+
+![](images/aa73d526fec8fce76d3a5cc0b7086aab7b89368fee2bbccbcbf50198ad997fac.jpg)  
+图3干扰机位于 $( 2 5 0 , 2 5 0 ) \mathrm { m }$ ，无自干扰时，窃听速率随发射功率变化的曲线图
+
+其次考虑发射功率固定为 $2 5 ~ \mathrm { d B m }$ ，干扰机初始位于S、D中间位置标记为q，在水平方向上 $1 0 0 \mathrm { m } { \sim } 9 0 0 \mathrm { m }$ 内，下一点移动位置标记为j。不同位置下，三种方法的性能比对。结果由图4、5所示。
+
+通过图2、3可以看出，窃听速率会随着发射功率 $P _ { \mathrm { s } }$ 的增加而增加。自适应功率调整方法下，在窃听信道增益较强时，有且干扰功率 $P _ { \mathrm { j } } = 0$ 作为可行解，即可满足约束条件（窃听速率大于可疑通信速率）；其他情况下，由满足自干扰、无自干扰的判决条件，干扰机通过自适应功率调整，调整干扰机功率 $P _ { \mathrm { j } }$ ，有干扰功率 $0 \leq P _ { j } \leq Q _ { j }$ 且其平均功率有 $0 \leq P _ { a \nu e } \leq Q _ { j }$ 。而基于MRT最大比合并方法下，因提高了干扰机的发射功率，使得接收机的噪声功率增加，解调信噪比有所降低，所以系统性能要弱于自适应功率调整策略。无干扰机方法中，根据窃听信道增益与可疑通信信道增益大小关系比较，在窃听信道增益较强时，窃听速率为0；在可疑信道增益较强时，窃听速率即为：
+
+hh 因此其平均窃听速率小于 MRT 最大比合并方法。0
+
+![](images/cbf5dcb7bfb8b84482a52321b62f1ab1a410687b08afdd3e17ef26edef461f42.jpg)  
+图4自干扰情况下，干扰机水平方向上，
+
+![](images/7fc5f311b46bcfff14d28b905a74fa9c86d55d98bff4cddf00c39891b58e0675.jpg)  
+$1 0 0 { \sim } 9 0 0 \mathrm { m }$ 范围内，三种方法的窃听性能对比结果  
+图5无自干扰情况下，干扰机水平方向上，$1 0 0 { \sim } 9 0 0 \mathrm { m }$ 范围内，三种方法下窃听性能对比
+
+在图4、5中，由于无干扰机方法只与窃听信道增益、可疑通信信道增益有所关联，在干扰机位置改变的时候，对其系统性能影响不大，所以其变化曲线趋于水平。而干扰机位置距离接收机位置越近，两者之间信道增益（ $\pmb { h } _ { _ { j d } }$ ）越强，接收机干扰功率增强，解调信噪比降低；所以有：干扰机距离接收机越近，窃听速率越强；相反，则越弱。应此对于自适应功率调整方法和最大比合并方法，干扰机位于水平方向上， $1 0 0 { \sim } 9 0 0 \mathrm { ~ m }$ 内，当窃听者靠近可疑接收机：由[0,250]m\~[500,250]m 范围内移动时，窃听速率呈递减趋势。窃听者原理可疑接收机：在$[ 5 0 0 , 2 5 0 ] \mathrm { m } { \sim } [ 1 0 0 0 , 2 5 0 ] \mathrm { m }$ 内时，窃听速率呈递增趋势。因此在实际应用中还需合理设置干扰机的相对位置，以便于获得更好的窃听性能。
+
+综合三种方法比对下，窃听速率的对比结果为： $\boldsymbol { \gamma } _ { \mathrm { d } }$ (无干扰机主动窃听技术 $) < ~ \boldsymbol { \gamma } _ { \mathrm { d } }$ (基于最大比传输的主动窃听技术) $) <$ $\boldsymbol { \gamma } _ { \textrm { d } }$ (自适应功率调整主动窃听技术)。
+
+由此可见文中提出的干扰机设计方法所获得的窃听速率性能是优于现有的两种基准方法的。
+
+# 4 结束语
+
+针对合法窃听技术，分别考虑在有自干扰和无自干扰环境中，合理设置干扰机的相对位置，通过设计最优发射干扰信号，干扰可疑无线链路，改善系统的窃听性能。在不同的应用场景中,干扰机根据功率判断标准，通过自适应功率调整干扰可疑用户之间的通信。仿真可见，干扰机设计方法均取得了比现有的两种基准方法更优的窃听速率性能。
+
+# 参考文献：
+
+[1]Liang Y,Poor H V, Shamai S.Information theoretic security, foundations and trends in communications and information theory [M].[S.1.] $\because$ Now Publishers Inc,2009.   
+[2]Massey JL.An introduction to contemporary cryptology[J].Proceedings of the IEEE,1988,76(5): 533-549.   
+[3]Shannon C E.Communications theory of secrecy systems [J].The Bell System Technical Journal,1949,28 (4): 656-715.   
+[4]Zhang Guangchi,Li Xueyi,Cui Miao,et al. Signal and artificial noise beamforming for secure simultaneous wireless information and power transfermultiple-input multiple-output relaying systems[J]. IET Communications,2016,10(7): 796-804.   
+[5]Zappone A,Lin PH, Jorswieck E.Energy efficiency of confidential multiantenna systems with artificial noise and statistical CSI[J].IEEE Journal of Selected Topics in Signal Processing,2016,10 (8):1462-1477.   
+[6]Goel S,Negi R.Guaranteeing secrecy using artificial noise[J].IEEE Trans Wireless Communication, 2008,7(6): 2180-2189.   
+[7]Xu Jie,Duan Lingjie, Zhang Rui.Proactive eavesdropping via jamming for ratemaximization over rayleigh fading channels [J]. IEEE Wireless Communications letters,2016,5 (1): 80-83.   
+[8]Zheng Yong,Zhang Rui.Active eavesdropping via spoofing relay attack [C]// Proc of IEEE International Conference on Acoustics,Speech and Signal Processing.2016: 2159-2163.   
+[9]Zeng Yong, Zhang Rui. Wireless Information Surveillance via proactive eavesdropping with spoofing relay [J]. IEEE Journal of Selected Topics in Signal Processing,2016,10 (8): 1449-1461.   
+[10] Kapetanovic D, Zheng Gan,Rusek F.Physical layer security for massive MIMO: an overview on passive eaves-dropping and active attacks [J]. IEEE Communication Magzine,2015,53 (6): 21-27.   
+[11] Chi C Y,Li WC,Lin CH. Convex optimization for signal processing and communications from fundamentals to application [M]. [S.1.] : CRC Press, 2017.   
+[12] Huang Jianli,Li Quanzhong,Zhang Qi,eg al. Relay beamforming for amplify-and-forward multi-antenna relay networks with energy harvesting constraint[J]. IEEE Wireless Communication Letters,2014,21(4): 454-458.   
+[13] Li Quanzhong,Zhang Qi,Feng Renhai, eg al. Optimal relay selection and beamforming in MIMO cognitive multirelay networks[J]. IEEE Communications Letters,2013,17(6): 1188-1191.   
+[14] Nguyen D H N,Le L B,Le-Ngoc T. Optimal dynamic point selection for power minimization in multiuser downlink CoMP [J]. IEEE Trans on Wireless Communications,2017,16 (1): 619-633.   
+[15]耿国桐.MIMO系统中最大比发射和天线选择技术研究[D].北京：北 京邮电大学.2005.   
+[16] Liu Qian, Li Ming, Kong Xiangwei, eg al. Disrupting MIMO   
+[17] communication with optimal jamming signal design [J]. IEEE Trans on Wireless Communications,2015,14(10):5313-5325.

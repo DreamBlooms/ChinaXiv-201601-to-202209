@@ -1,0 +1,142 @@
+瘤胃微生物与饲粮脂肪酸间的相互作用马　涛  刁其玉\*（中国农业科学院饲料研究所，农业部饲料生物技术重点实验室，北京100081）
+
+摘要：脂肪酸是反刍动物重要的营养物质。一方面，脂肪酸对于反刍动物瘤胃微生物生长具有抑制作用，尤其是不饱和脂肪酸的抑制作用更明显；另一方面，瘤胃微生物群落能够通过生物氢化作用将不饱和脂肪酸氢化为饱和脂肪酸。本文针对饲粮脂肪酸与瘤胃微生物之间的相互作用进行了综述，涉及的研究方法包 括体外培养法以及动物试验研究，结合分子生物学技术方法，为通过饲粮脂肪调控瘤胃微生物群落或结构提供新思路。
+
+关键词：瘤胃微生物；细菌；原虫；生物氢化；脂肪酸
+
+中图分类号：S823;S826
+
+反刍动物饲粮中脂肪占干物质的比例通常不超过 $5 \%$ ，主要由甘油三酯、半乳糖脂和磷脂组成。粗饲料以及大部分精饲料提供的脂肪酸主要为亚油酸和 $\mathfrak { a } \mathrm { . }$ -亚麻酸，此外油料籽实如亚麻籽、葵花籽和油菜籽等能够提供油酸等不饱和脂肪酸。脂肪主要起到提供能量的作用，此外还能够调控牛奶[1]和肉[2]的脂肪酸组成，但添加脂肪也可能影响采食量和乳脂含量[3]；最新研究表明，饲粮中添加脂肪能够调控瘤胃微生物群落，降低甲烷排放[4]。一般认为，脂肪酸会抑制瘤胃微生物的生长，而瘤胃微生物能够将脂肪酸氢化，该过程涉及多个步骤且受脂肪酸类型和瘤胃环境等因素的影响。
+
+1 脂肪酸对瘤胃微生物的影响
+
+1.1 对瘤胃细菌的影响
+
+收稿日期：2017-11-01  
+基金项目：国家自然科学基金（41705129）；中国农业科学院饲料研究所基本科研业务费专项（1610382017009）；国家肉羊产业技术体系建设专项资金（CARS-38）  
+作者简介：马涛（1987-），男，山东青岛人，博士，从事反刍动物生理营养研究。E-mail:  
+matao@caas.cn  
+\*通信作者：刁其玉，教授，博士生导师，E-mail：diaoqiyu@caas.cn
+
+添加油类对于体外培养的瘤胃纤维降解菌、淀粉分解菌等具有广泛的抑制作用[5]。研究发现软脂酸和硬脂酸仅能够降低栖瘤胃普雷沃氏菌（Prevotella ruminicola）和溶纤维丁酸弧菌（Butyrivibrio fibrisolvens）某些菌株的数量，油酸的抑制效果强于上述2种脂肪酸，前者能够抑制大部分纤维分解菌的生长，但却能促进反刍动物新月单胞菌（Selenomonas ruminantium）和栖瘤胃普雷沃氏菌的生长[]。上述研究结果与Henderson[7]的研究结果一致，即产丙酸菌不受油酸的影响，但瘤胃球菌和溶纤维丁酸弧菌等产乙酸和丁酸菌受油酸以及饱和脂肪酸的抑制作用。低浓度的亚油酸或共轭亚油酸会抑制溶纤维丁酸弧菌A38的生长[]；同样， $5 \mathrm { m g / L }$ 的亚油酸也会抑制其他溶纤维丁酸弧菌属细菌的生长[5]。此外，长链多不饱和脂肪酸如二十碳五烯酸（EPA）、二十二碳六烯酸（DHA）对于溶纤维丁酸弧菌的抑制作用显著强于亚油酸，这可能是由于细菌生长的调整期被拉长[9-10], $\scriptstyle { \mathfrak { a } } .$ 亚麻酸同样会延长痤疮丙酸杆菌（Propionibacteriumacnes）的调整期[5]。与之相反，普雷沃菌属（Prevotella）、巨球菌属（Megasphaera）和月形单胞菌属（Selenomonas）等几乎不受亚油酸和 $\mathfrak { a } \mathrm { . }$ 亚麻酸的影响[5]。与体外培养时直接研究游离脂肪酸的影响不同，体内试验研究的是添加油脂对瘤胃微生物的作用效果，这些研究应用了定量 PCR[4,12]以及16S rDNA 测序[12-13]等技术手段。大部分体内试验得到的脂肪酸对瘤胃微生物的作用效果弱于体外试验，这可能是由于体内试验无法观测到脂肪酸对微生物调整期的影响。添加脂肪会抑制纤维杆菌属（Fibrobacter）和瘤胃球菌属（Ruminococcus）的生长，但对于丁酸弧菌属（Butyrivibrio）和普雷沃菌属的影响结果并不一致，这可能是因为后面2种菌包含的菌种更多，这些菌种不仅具有不同的代谢通路[14]，且对于亚油酸的敏感性也不一致[5]。此外，饲粮精料水平也会影响脂肪的添加效果，包括聚乙酸菌属（Acetitomaculum）、毛螺菌属（Lachnospira）和普雷沃菌属等在不同精料水平饲粮下受添加脂肪的影响结果并不一致[15]。1.2对原虫、产甲烷菌和真菌的影响
+
+研究表明，亚麻籽油能够显著降低瘤胃总原虫丰度[4,16]，且在高精料饲粮条件下的抑制效果更为显著[16-17]，主要抑制了厚毛虫属（Dasytricha）、内毛虫属（Entodinium）和前毛虫属（Epidinium）的生长[17]；但也有研究表明，亚麻籽油对于总原虫丰度无影响[18]。具体到脂肪酸，月桂酸降低原虫数量的作用效果比肉豆蔻酸和硬脂酸更为明显[19]。一般而言，脂肪酸不饱和程度越高，其对于原虫的抑制作用越明显，但具体抑制效果还受动物品种、饲粮类型等因素的影响，因此可能造成了不同试验结果的差异性。针对产甲烷菌的早期研究表明，油酸以及饱和脂肪酸能够降低反刍兽甲烷短杆菌（Methanobrevibacter ruminantium）的丰度[20]，该菌是瘤胃中丰度最高的产甲烷菌。最近研究表明，含有8\~14个碳原子的脂肪酸（来自亚麻籽和椰子油）以及含有 20\~22个碳原子的多不饱和脂肪酸（来自鱼油）对于产甲烷菌丰度和群落变化并无直接影响[4,21]。关于脂肪对真菌的影响作用研究较少，体外培养的 Neocallimastix frontalis 的生长受亚油酸的影响[5]；Boots 等[2]明确发现亚油酸能够抑制Neocallimastix 的生长。
+
+# 1.3对瘤胃微生物的作用机制
+
+脂肪酸对于细菌的作用机制并没有定论，目前有3种解释：1）由于大部分脂质包被在饲粮颗粒上，导致微生物对饲粮的吸附受到影响，在影响纤维分解菌生长的同时，降低了纤维降解率[23]。所以额外添加纤维能够在一定程度上恢复纤维降解率和细菌数量[，但也有研究发现添加脂肪时，附着在固相食糜上的细菌数量增加[24]。2）脂肪与阳离子形成盐，使得细菌缺乏足够的阳离子数量[23]，影响了细菌生长，因此在添加脂肪后再添加钙离子，能够阻止纤维降解率及相关细菌丰度的降低[25]。但该理论并不能解释所有脂肪酸对细菌生长的负面作用，因为不同脂肪酸与阳离子结合的稳定程度不同，如饱和脂肪酸盐的稳定性强于不饱和脂肪酸盐[26]，所以在添加钙离子的情况下，饱和脂肪酸比起不饱和脂肪酸会获取更多的钙离子，从而更进一步抑制细菌的生长。3）脂肪酸对于瘤胃细菌的直接毒性，这可能是由于脂肪酸吸附在细菌细胞壁上后阻碍了营养物质的接收[7]。研究表明，尽管亚油酸会破坏细胞完整性，但在不同菌属之间存在差异，如溶纤维丁酸弧菌对于亚油酸的敏感程度低于亨氏丁酸弧菌(Butyrivibrio hungatei)和 Butyrivibrio proteoclasticus[14]，该结果一方面说明前者细胞膜流动性受脂肪酸的影响更低，另一方面，亚油酸可能影响细菌特定的代谢通路，溶纤维丁酸弧菌通过丁酰辅酶A转移酶产生丁酸，亨氏丁酸弧菌和 Butyrivibrio proteoclasticus 通过丁酸激酶生产丁酸[27]，因此不饱和脂肪酸对于产丁酸菌的毒性可能通过影响产丁酸代谢过程实现[10]。此外，多不饱和脂肪酸还会影响酰基辅酶A和ATP等，具有阻断代谢的作用[28]。脂肪酸抑制原虫生长的机制并不明确，可能是因为其将脂肪酸或氢化产物纳入到细胞膜中，阻碍了营养物质代谢[29]，也可能是因为脂肪酸改变了其趋化作用及底物的获取方式[30]。
+
+# 2.1瘤胃微生物与脂肪酸降解
+
+氢化作用始于微生物对酰基甘油的脂解，释放出游离脂肪酸和甘油，游离脂肪酸仍吸附在饲粮颗粒上，另有部分脂肪酸被吸附在固相食糜上的细菌吸收。该步骤能够脂解大部分不饱和脂肪酸，3种主要的不饱和脂肪酸具有不同的氢化路线，第1步均是在异构酶的作用下，其中1个顺式双键转变成反式双键，形成不同的共轭亚油酸（CLA）异构物，其中反-11CLA 是最主要的异构物，此外还包括双键位置分别在第 7\~15 个碳原子上的共轭亚麻酸（CLnA）[31、第 7\~14 个碳原子上的CLA[26]和第7\~11个碳原子上的反式脂肪酸[32]，这些异构物的形成存在各自的途径及通路[3133]。在大多数情况下，该步反应能够分解超过 $70 \%$ 的油酸、 $80 \%$ 的亚油酸和 $90 \%$ 的 $\mathfrak { a } \mathrm { . }$ 亚麻酸[34]；第2步为还原反应，首先还原顺式双键，其次是反式双键，由于后者的还原较前者慢，因此在瘤胃中积累或进入小肠的反式脂肪酸浓度高于CLA。  
+脂解厌氧弧杆菌（A.lipolyticus）是最主要的甘油三酯降解菌，利用16S rRNA 测序得出其在瘤胃中的丰度约占 $0 . 0 5 \% ^ { [ 3 5 ] }$ ，具有3种编码脂肪酶的基因[36]，这3种酶对月桂酸和肉豆蔻酸具有较强的作用活性，然而饲粮中的脂肪酸主要由软脂酸和硬脂酸组成。某些溶纤维丁酸弧菌菌株能够水解脂酯和半乳糖脂[37]，而其他丁酸弧菌属的细菌具有降解甘油三酯的能力[27]。此外，梭菌属（Clostridium）、丙酸杆菌属（Propionibacterium）、葡萄球菌属（Staphylococcus）和月形单胞菌属等也具有脂解能力[38]。Unni 等[39]分离纯化出了绿脓杆菌（Pseudomonas aeruginosa）菌株的脂肪酶，此外，纯化的假单胞菌属（Pseudomonas）脂肪酶的抗体同样能够抑制脂解厌氧弧杆菌、溶纤维丁酸弧菌、贪婪丙酸杆菌（Propionibacteriumavidum）和痤疮丙酸杆菌的脂解活性，说明瘤胃细菌的脂解酶具有相似的基因特性[40]。Liu 等[41]建立奶牛瘤胃宏基因组文库，发现2种分别对于16个碳和18个碳原子有亲和度的脂肪酸，Liu 等[41]和 Privé等[42]也从牛瘤胃宏基因组中分离出14 种新型的脂肪酶，主要作用于短、中链
+
+脂肪酸酯，但上述研究并未阐明何种细菌能够产生这些脂肪酶。目前关于原虫的脂解研究并不多，由于其能够吞噬具有脂解活性的微生物，因此难以明确评价其脂解活性[43]。
+
+# 2.2瘤胃微生物与生物氢化
+
+#
+
+2.2.1 rr/1 vv5/  
+丁酸弧菌属在氢化过程中起重要作用，其16S rRNA 基因丰度平均占 $3 . 4 \%$ ，包括 $0 . 2 5 \%$ 的溶纤维丁酸弧菌[20]，后者在反刍动物出生2d后即在瘤胃中建立[44]。溶纤维丁酸弧菌的最适pH 为7.0\~7.2，低 pH会抑制其活性[45]，该菌能够将亚油酸还原成油酸而非硬脂酸[46]，其他丁酸弧菌属的细菌能够从亚油酸生成硬脂酸[47]。溶纤维丁酸弧菌的顺-9，反-11CLA还原酶需要在有铁、生育酚对苯二酚和还原型烟酰胺腺嘌呤二核苷酸（NADH）的作用下才能起到催化反应[14]，该酶能够识别共轭双键，且在转录水平上，18个碳原子的不饱和脂肪酸能够促进其表达量。除还原顺-9，反-11CLA外，该菌还能还原反-10，顺-12CLA和顺-9，反-11，顺-15CLnA，但不能还原反-11，顺-15 亚油酸。溶纤维丁酸弧菌并不能利用多不饱和脂肪酸 EPA 和DHA[5]，Butyrivibrio proteoclasticus 则可利用这两者[48]。Paillard 等[27]和 Hussain 等[49]研究发现几十种丁酸弧菌属分离菌在亚油酸代谢中的区别，大部分将亚油酸代谢成异油酸，而在不同菌株的α-亚麻酸代谢中生物氢化途径也存在差异，如丁酸弧菌MDT-5、丁酸弧菌A38和丁酸弧菌 MDT-10 产生反-11，顺-13 CLA、反-11，顺-15 亚油酸或异油酸[9]。  
+除溶纤维丁酸弧菌外，其他从瘤胃或其他部分消化道中分离的细菌也能够将亚油酸异构化为顺-9反-11CLA[39.50]，主要属于梭菌属、假丁酸弧菌属（Pseudobutyrivibrio）、乳酸杆菌属（Lactobacillus）、丙酸杆菌属、双歧杆菌属（Bifidobacterium）、真杆菌属（Eubacterium）、罗斯氏菌属（Roseburia）、肠球菌属（Enterococcus）和小球菌属（Pediococcus）等。其中乳酸杆菌通过水合—脱水过程产生CLA，中间产物为羟基脂肪酸[51；瘤胃白色球菌 F2/6 能够将亚油酸和α-亚麻酸转变为油酸，但其在瘤胃中的相对活性仍未知[26]，与溶纤维丁酸弧菌产生反-11双键不同，瘤胃白色球菌（Rumincoccus albus）F2/6产生的大部分为反-10 油酸[52]；从采食高淀粉谷物饲粮的奶牛瘤胃中分离出的埃氏巨型球菌（Megasphaera elsdenni）YJ-4能够从亚油酸中产生反-10,顺-12CLA，且埃氏巨型球菌 T81菌株同样能够产生此异物;但Maia 等[5]发
+
+现纯化的埃氏巨型球菌 T81不能产生反-10,顺-12CLA，此外，其在瘤胃中的数量经常低于检测限[53]；Wallace 等[54]从羊瘤胃中分离的痤疮丙酸杆菌能够产生反10,顺12CLA，但该菌不能进一步还原CLA[33]，且能使 $\mathfrak { a } \mathrm { . }$ -亚麻酸异构化成为若干种亚麻酸，且同样不能将其进一步还原成亚油酸和油酸[55]。分离纯化的痤疮丙酸杆菌ATCC6919 的亚油酸异构酶，其需要黄素腺嘌呤二核苷酸（FAD）作为辅助因子且对过量底物不敏感[56]。
+
+# 2.2.2 体内试验
+
+除体外培养研究外，向采食高亚油酸饲粮的山羊瘤胃中接种溶纤维丁酸弧菌，发现瘤胃液中亚麻酸和总CLA浓度提高，证明该细菌参与生物氢化作用[57]。从鱼油或海藻中的长链多不饱和脂肪酸能够将亚麻酸还原为硬脂酸，因为 Butyrivibrio proteoclasticus 是唯一研究较多的产硬脂酸菌，所以添加上述物质能够影响该菌丰度。尽管 Abughazaleh 等[58]在通过连续培养体外发现鱼油降低了 Butyrivibrio proteoclasticus 的丰度，但在阉牛[59-60]和泌乳奶牛[53]饲粮中添加鱼油并未影响 Butyrivibrio proteoclasticus 丰度，因此推断该菌在产硬脂酸过程中只起到了很小的作用。与此类似，藻类对生物氢化的抑制作用也与任何丁酸弧菌属的相对丰度变化无关。基于高通量测序技术的研究亦发现，Butyrivibrio proteoclasticus 和丁酸弧菌属丰度并无正相关[61-62]，但上述学者研究发现了生物氢化产物与多种细菌存在相关，如梭菌目（Clostridiales）和瘤胃球菌科（Ruminococcaceae）[63]、韦荣氏球菌科[61]、纤维杆菌属[62]和醋酸杆菌属（Acetobacter）[64]等。但上述研究并未给出定论，首先是因为从细菌的角度而言，生物氢化是脱毒而非营养过程，因此生物氢化菌的丰度可能与其能量底物浓度的相关性更强，而非对其有害的多不饱和脂肪酸浓度；其次，测序方法存在一定的缺陷，如大部分研究并不能明确鉴定出全部的生物氢化菌，或仅测定了DNA浓度，而没从RNA水平上反映饲粮变化对其微生物群落的影响；第三，活性细菌合成酶的过程并不一定和生物氢化反应效率相关，包括瘤胃液 pH等因素均可能也会影响酶活性。原虫的氢化作用尚未明确，原虫能够吞噬细菌，细菌仍能在原虫体内发挥氢化作用[26]；而在只存在原虫时，亚油酸并未消失[65]，去原虫也并未影响瘤胃亚油酸代谢[66]；瘤胃真菌对于亚油酸的生物氢化作用也相当有限[5,26]。
+
+# ；2.3 添加剂调控生物氢化作用
+
+在以往研究中常通过改变脂肪来源来实现生物氢化作用的调控，但这种调控程度非常有限，且不够精细。近年来相关研究集中在对瘤胃微生物群落的直接调控，其原理是基于大部分脂肪为酰基甘油，在生物氢化前需要脂解，因此减缓脂解过程即可有效抑制瘤胃生物氢化作用，目前主要有3种措施：一是使用脂解酶抑制剂。体外研究发现，使用酯酶抑制剂溴化吡啶斯的明能够有效抑制培养基中脂解酶活性，防止亚油酸浓度的降低[67]；使用脂解酶抗体能够抑制脂解厌氧弧杆菌和溶纤维丁酸弧菌等瘤胃产脂解酶细菌的生长[40]。二是分离具有特殊酶活性的菌株，如Fukuda 等分离出了溶纤维丁酸弧菌 MDT-5，其具有较高的亚油酸异构化酶活性且几乎没有CLA还原酶活性，因此该学者提出可将其作为益生菌来控制动物产品中生物氢化的产物；此外 Apas 等[68]发现添加乳酸杆菌属、双歧杆菌属和粪肠球菌属的某些菌种也能够增加羊乳中顺-9，反-11CLA含量。三是使用植物提取物，体外添加植物精油能够降低[6或增加[70]了溶纤维丁酸弧菌的丰度，从而合理解释了瘤胃中生物氢化产物的组成[43]；单宁降低了Butyrivibrio proteoclasticus 并增加了溶纤维丁酸弧菌的丰度[70]，与Vasta等[71]观察到的异油酸的累积相一致；相反，皂素强烈抑制了溶纤维丁酸弧菌的生长[2]，但不影响瘤胃生物氢化作用。
+
+3小结
+
+生物氢化涉及的生化过程以及细菌种类极其复杂，纤维分解菌，尤其是丁酸弧菌属在生物氢化过程中起到重要作用。饲粮中添加脂肪可能通过调节瘤胃微生物菌落组成、调控瘤胃功能，从而影响反刍动物生产性能，但目前来看，研究大多集中在体外试验上，且对于瘤胃微生物和脂肪之间的互作效应并不明确，未来还需要开展大量的体内研究，尤其是需要通过基于组学技术的精细化研究，明确具体起到调控作用的微生物、相关酶代谢机制以及微生物与宿主的相互作用，才能更好地通过脂肪对瘤胃微生物进行调控。
+
+参考文献：
+
+[1] CHILLIARD Y,GLASSER F,FERLAY A,et al.Diet,rumen biohydrogenation and nutritional quality of cow and goat milk fat[J].EuropeanJournal ofLipid Science and Technol0gy,2007,109(8):828-855.
+
+[2] WOOD J D,ENSER M,FISHER A V,et al.Fat deposition,fatty acid composition and meat quality:A review[J].Meat Science,2008,78(4):343-358.   
+[3]RABIEE A R,BREINHILD K,SCOTT W,et al.Efect of fat additions to diets of dairy cattle on milkproduction and components:a meta-analysis and meta-regresson[J].Journal of Dairy Science,2012,95(6):3225-3247.   
+[4]MARTIN C,FERLAY A,MOSONI P,et al.Increasing linseed supply in dairy cow diets based on hayor corn silage:Efect on enteric methane emission,rumen microbial fermentation,and digestion[J].Journal of Dairy Science,2016,99(5):3445-3456.   
+[5] MAIA M R G,CHAUDHARY L C,FIGUERES L,et al.Metabolism of polyunsaturated fatty acids and their toxicity to the microflora of the rumen[J].Antonie van Leeuwenhoek,2007,91(4):303- 314.   
+[6] MACZULAK A E,DEHORITY B A,PALMQUIST D L.Effects of long-chain fatty acids on growth of rumen bacteria[J].Applied and Environmental Microbiology,1981,42(5):856-862.   
+[7]HENDERSON C.The effects of faty acids on pure cultures of rumen bacteria[J].The Journal of Agricultural Science,1973,81(1):107-112.   
+[8] KIM Y J,LIU R H,BOND D R,et al.Effect of linoleic acid concentration on conjugated linoleic acid productionbyButyrivibriofibrisolvensA38[J].Appliedand Environmental Microbiol0gy,2000,66(12):5226-5230.   
+[9]FUKUDA S,NAKANISHI Y,CHIKAYAMA E,et al.Evaluation and characterization of bacterial metabolicdynamicswithanovelprofilingtechnique,real-timemetabolotyping[J].PLoS One,2009,4(3):e4893.   
+[10]MAIA M R G,CHAUDHARY L C,BESTWICK C S,et al.Toxicity of unsaturated fatt acids to the biohydrogenating ruminal bacterium,Butyrivibrio fibrisolvens[J].BMC Microbiology,2010,10:52. [11]VARGAS-BELLO-PEREZ E,CANCINO-PADILLA N,ROMERO J,et al.Quantitative analysis of ruminal bacterial populations involved in lipid metabolism in dairy cows fed diferent vegetable oils[J].Animal,2016,10(11):1821-1828.   
+[12]HUWS S A,KIM E J,CAMERON S J S,et al.Characterization of the rumen lipidome and microbiome of steersfed a diet supplemented with flax and echium oil[J].Microbial Biotechnology,2015,8(2):331-341.   
+[13]LI X Z,PARK B K,SHIN J S,et al.Effects of dietary linseed oil and propionate precursors on ruminal microbial community,composition,and diversityin Yanbian yellowcatle[J].PLoS One,2015,10(5):e0126473.   
+[14] HACKMANN T J,FIRKINSJ L.Electron transportphosphorylation inrumen Butyrivibrios:unprecedented ATP yield forglucose fermentation to butyrate[J].Frontiersin Microbiology,2015,6:622.   
+[15]ZENED A,COMBES S,CAUQUIL L,et al.Microbial ecology of the rumen evaluated by 454 GS FLX pyrosequencing is affected by starch and oil supplementation of diets[J].FEMS Microbiology Ecology,2013,83(2):504-514.   
+[16]YANG S L,BU D P,WANG J Q,et al.Soybean oil and linseed oil supplementation affect profiles of ruminal microorganisms in dairy cows[J].Animal,2009,3(11):1562-1569.   
+[17]UEDA K,FERLAY A,CHABROT J,et al.Effect of linseed oil supplementation on ruminal digestion in dairy cows fed diets with different forage:concentrate ratios[J].Journal of Dairy Science,2003,86(12):3999-4007.   
+[18] BENCHAAR C,ROMERO-PEREZ G A,CHOUINARD P Y,et al.Supplementation of increasing amounts of linseed oil to dairy cows fed total mixed rations:efects on digestion,ruminal fermentation characteristics,protozoal populations,and milk fatty acid composition[J].Journal of Dairy Science,2012,95(8):4578-4590.
+
+[19] HRISTOV A N,CALLAWAY T R,LEE C,et al.Rumen bacterial,archaeal,and fungal diversity of dairy cows in response to ingestion of lauric or myristic acid[J].Journal of Animal Science,2012,90(12):4449-4457.
+
+[20]HENDERSON G,COX F,GANESH S,et al.Rumen microbial community composition varies with diet and host,but a core microbiome is found across a wide geographical range[J].Scientific Reports,2015,5:14567.   
+[21] PATRAA K,YUZ.Effectsofcoconutandfishoilsonruminal methanogenesis,fermentation,and abundance and diversity of microbial populations in vitro[J].Journal of Dairy Science,2013,96(3):1782-1792.   
+[22]BOOTS B,LILLIS L,CLIPSON N,et al.Responses of anaerobic rumen fungal diversity (phylum Neocallimastigomycota) to changes in bovine diet[J].Journal of Applied Microbiol0gy,2013,114(3):626-635.   
+[23] DEVENDRA C,LEWIS D.The interaction between dietary lipids and fibre in the sheep 2.Digestibility studies[J].Animal Science,1974,19(1):67-76.   
+[24] BAUCHART D,LEGAY-CARMIER F,DOREAU M,et al.Lipid metabolism of liquidassociated and solid-adherent bacteria gin rumen contents of dairy cows offered lipid-supplemented diets[J].British Journal of Nutrition,1990,63(3):563-578.   
+[25]PALMQUIST D L,JENKINS T C,JOYNER A E,Jr.Effect of dietary fat and calcium source on insoluble soap formation in the Rumen[J].Journal of Dairy Science,1986,69(4):1020-1025.   
+[26] JENKINS T C,WALLACE R J,MOATE P J,et al.Recent advances in biohydrogenation of unsaturatedfattyacidswithintherumenmicrobialecosystem[J].JournalofAnimal Science,2008,86(2):397-412.   
+[27] PAILLARD D,MCKAIN N,CHAUDHARY L C,et al.Relation between phylogenetic position,lipid metabolism and butyrate production by different Butyrivibrio-like bacteria from the rumen[J].Antonie van Leeuwenhoek,2007,91(4):417-422. [28]FIRKINS JL,YU Z.Ruminant Nutrition Symposium:How to use data on the rumen microbiome to improve our understanding of ruminant nutrition[J].Journal of Animal Science,2015,93(4):1450- 1470.   
+[29]REVENEAU C,RIBEIRO C V D M,EASTRIDGE M L,et al.Interaction of unsaturated fat or coconut oil with monensin in lactating dairy cows fed 12 times daily.I .Fatty acid flow to the omasum and milk fatty acid profile[J].Journal of Dairy Science,2012,95(4):2061-2069.   
+[30]DIAZ H L,KARNATI S K R,LYONS M A,et al.Chemotaxis toward carbohydrates and peptides by mixed ruminal protozoa when fed,fasted,or incubated with polyunsaturated fatty acids[J].Journal of Dairy Science,2014,97(4):2231-2243.   
+[31]HONKANEN A M,LESKINEN H,TOIVONEN V,et al.Metabolism of $ { \boldsymbol { a } }$ linolenic acid during incubations with strained bovine Rumen contents:Products and mechanisms[J].British Journal of Nutrition,2016,115(12):2093-2105.   
+[32]LOOR J J,BANDARA A,HERBEIN J H.Characterization of 18:1 and 18:2 isomers produced during microbial biohydrogenation of unsaturated fatty acids from canola and soya bean oil in the rumen of lactating cows[J].Journal of Animal Physiology and Animal Nutrition,2002,86(11/12):422- 432.   
+[33]MCKAIN N,SHINGFIELD K J,WALLACE R J.Metabolism of conjugated linoleic acids and 18:1 faty acids by ruminal bacteria:products and mechanisms[J].Microbiology,2010,156(2):579-588. [34] ENJALBERT F,TROEGELER-MEYNADIER A.Biosynthesis of trans faty acidsin ruminants[M]//DESTAILLATS F,SEBEDIO J L,DIONISI F,et al.Trans Fatty Acids in Human Nutrition.Bridgwater:The Oily Press,2009:1-31.   
+[35]MINUTI A,PALLADINO A,KHAN M J,et al.Abundance of ruminal bacteria,epithelial gene expression,and systemic biomarkers of metabolism and inflammation are altered during the peripartal period in dairy cows[J].Journal of Dairy Science,2015,98(12):8940-8951. [36]PRIVE F,KADERBHAI N N,GIRDWOOD S,et al.Identification and characterization of three novel lipases belonging to familiesIIand Vfrom Anaerovibrio lipolyticus 5ST[J].PLoS One,2013,8(8):e69076.   
+[37]HAZLEWOOD G,DAWSON R M C.Characteristics of a lipolytic and fatty acid-requiring Butyrivibrio sp. isolated from the ovine rumen[J].Microbiology,1979,112(1):15-27.   
+[38]EDWARDS H D,ANDERSON R C,TAYLOR T M,et al.Interactions between oil substrates and glucose on pure cultures of ruminal lipase-producing bacteria[J].Lipids,2013,48(7):749-755.   
+[39]UNNI K N,PRIJI P,SAJITH S,et al.Pseudomonas aeruginosa strain BUP2,a novel bacterium inhabiting the rumen of Malabari goat,produces an effcient lipase[J].Biologia,2016,71(4):378-387. [40]EDWARDS H D,SHELVER W L,CHOI S,et al.Immunogenic inhibition of prominent ruminal bacteria asa meansto reduce lipolysis and biohydrogenation activityin vitro[J].Food Chemistry,2017,218:372-377.   
+[41] LIU S J,BU D P,WANG J Q,et al.Effect of ruminal pulse dose of polyunsaturated fatty acids on ruminal microbial populations and duodenal flow and milk profiles of faty acids[J].Journal of Dairy Science,2011,94(6):2977-2985.   
+[42]PRIVE F,NEWBOLD C J,KADERBHAI N N,et al.Isolation and characterization of novel lipases/esterasesfromabovine rumenmetagenome[J].AppliedMicrobiology and Biotechnol0gy,2015,99(13):5475-5485.   
+[43]LOURENCO M,RAMOS-MORALES E,WALLACE R J.The role of microbes in rumen lipolysis and biohydrogenation and their manipulation[J].Animal,2010,4(7):1008-1023.   
+[44]REY M,ENJALBERT F,COMBES S,et al.Establishment of ruminal bacterial community in dairy calves from birth to weaning is sequential[J].Journal of Applied Microbiology,2014,116(2):245- 257.
+
+[45] TROEGELER-MEYNADIER A,BRET-BENNIS L,ENJALBERT F.Rates and efficiencies of reactions of ruminal biohydrogenation of linoleic acid according to pH and polyunsaturated fatty acids concentrations[J].Reproduction Nutrition Development,2006,46(6):713-724.
+
+[46] KEPLER C R,HIRONS K P,MCNEILL J J,et al.Intermediates and products of the biohydrogenationoflinoleicacid byButyrivibrio fibrisolvens[J].Journal of Biological Chemistry,1966,241(6):1350-1354.   
+[47]LI D,WANG J,BU D P.Ruminal microbe of biohydrogenation of trans-vaccenic acid to stearic acid in vitro[J].BMC Research Notes,2012,5(1):97.   
+[48] JEYANATHAN J,ESCOBAR M,WALLACE R J,et al.Biohydrogenation of $2 2 { : } 6  { \mathrm { ~ n - 3 } }$ by Butyrivibrio proteoclasticus P18[J].BMC Microbiology,2016,16(1):104.   
+[49] HUSSAIN S K A,SRIVASTAVA A,TYAGI A,et al.Characterization of CLA-producing Butyrivibrio spp.reveals strain-specific variations[J].Biotech,2016,6:90.   
+[50]DEVILLARD E,MCINTOSH F M,DUNCAN S H,et al.Metabolism of linoleic acid by human gutbacteria:differentroutesforbiosynthesisofconjugated linoleicacid[J].Journalof Bacteriol0gy,2007,189(6):2566-2570.   
+[51] OGAWA J,KISHINO S,ANDO A,et al.Production of conjugated fatty acids by lactic acid bacteria[J].Journal of Bioscience and Bioengineering,2005,100(4):355-364.   
+[52] KEMP P,WHITE R W,LANDER D J.The hydrogenation of unsaturated fatty acids by five bacterial isolates from the sheep rumen,including a new species[J].Microbiology,1975,90(1):100-114. [53] SHINGFIELD K J,KAIRENIUS P,AROLA A,et al.Dietary fish oil supplements modify ruminal biohydrogenation,alter the flow of fatty acids at the omasum,and induce changes in the ruminal Butyrivibrio population in lactating cows[J].The Journal of Nutrition,2012,142(8):1437-1448. [54]WALLACE R J,MCKAIN N,SHINGFIELD K J,et al.Isomers of conjugated linoleic acids are synthesized via different mechanismsin ruminal digesta and bacteria[J].Journal of Lipid Research,2007,48(10):2247-2254. [55]MAIA R G,CABRITA A R J,FONSECA A J M,et al.Biohydrogenation of a-linolenic acid by the rumen bacterium Propionibacterim acnes[C]/Proceedings of the 10th INRARowettsymposium on gut microbiology.Clermont-Ferrand:[s.n.],2016.   
+[56]FARMANI J,SAFARI M,ROOHVAND F,et al.Conjugated linoleic acid-producing enzymes:a bioinformatics study[J].European Journal of Lipid Science and Technology,2010,112(10):1088-1100. [57] SHIVANI S,SRIVASTAVA A,SHANDILYA U K,et al.Dietary supplementation of Butyrivibrio fibrisolvens alters fatty acids of milk and rumen fluid in lactating goats[J].Journal of the Science of Food and Agriculture,2016,96(5):1716-1722.   
+[58]ABUGHAZALEH A A,ISHLAK A.Efects of incremental amounts of fish oil on trans fatty acids and Butyrivibrio bacteria in continuous culture fermenters[J].Journal of Animal Physiology and Animal Nutrition,2014,98(2):271-278.   
+[59]KIM E J,HUWS S A,LEE M R F,et al.Fish oil increases the duodenal flow of long chain polyunsaturated fatty acids and trans-1l 18:1 and decreases 18:0 in steers via changes in the rumen bacterial community[J].The Journal of Nutrition,2008,138(5):889-896.   
+[60]HUWS S A,LEE M R F,MUETZEL S M,et al.Forage type and fish oil cause shifts in rumen bacterial diversity[J].FEMS Microbiology Ecology,2010,73(2):396-702.   
+[61]TORAL P G,BELENGUER A,SHINGFIELD K J,et al.Fatty acid composition and bacterial community changes in the rumen fluid of lactating sheep fed sunflower oil plus incremental levels of marine algae[J].Journal of Dairy Science,2012,95(2):794-806.   
+[62]PETRI R M,MAPIYE C,DUGAN M E R,et al.Subcutaneous adipose fatty acid profiles and related rumen bacterial populations of steers fed red clover or grass hay diets containing flax or sunflower-seed[J].PLoS One,2014,9(8):e104167.   
+[63]HUWS S A,KIM E J,LEE M R F,et al.As yet uncultured bacteria phylogenetically classified as Prevotella,Lachnospiraceae incertae sedisand unclassified Bacteroidales,Clostridialesand
+
+Ruminococcaceae may play a predominant role in ruminal biohydrogenation[J].Environmental Microbiology,2011,13(6):1500-1512.
+
+[64]BAINBRIDGE M L,CERSOSIMO L M,WRIGHT A D G,et al.Rumen bacterial communities shift across a lactation in Holstein,Jersey and Holstein $\times$ Jersey dairy cows and correlate to rumen function,bacterial fatty acid composition and production parameters[J].FEMSMicrobiology Ecology,2016,92(5):fiw059.   
+[65]DEVILLARD E,MCINTOSH F M,NEWBOLD C J,et al.Rumen ciliate protozoa contain high concentrations of conjugated linoleic acids and vaccenic acid,yet do not hydrogenate linoleic acid or desaturate stearic acid[J].British Journal of Nutrition,2006,96(4):697-704.   
+[66]YANEZ-RUIZ D R,SCOLLAN N D,MERRY R J,et al.Contribution of rumen protozoa to duodenal flow of nitrogen,conjugated linoleic acid and vaccenic acid in steers fed silages differing in their water-soluble carbohydrate content[J].British Journal of Nutrition,2006,96(5):861-869.   
+[67]SARGOLZEHI M M,NASERIAN A,ASOODEH A,et al.Application of esterase inhibitors:a possible new approach to protect unsaturated fatty acids from ruminal biohydrogenation[J].European Journal of Lipid Science and Technology,2015,117(10):1667-1672.   
+[68]APAS A L,ARENA M E,COLOMBO S,et al.Probiotic administration modifies the milk fatty acid profile,intestinal morphology,and intestinal fatty acid profile of goats[J].Journal of Dairy Science,2015,98(1):47-54.   
+[69]DURMIC Z,MCSWEENEY C S,KEMP G W,et al.Australian plants with potential to inhibit bacteria and processes involved in ruminal biohydrogenation of fatty acids[J].Animal Feed Science and Technology,2008,145(1/2/3/4):271-284.   
+[70]ISHLAK A,GUNAL M,ABUGHAZALEH A A.The effects of cinnamaldehyde,monensin and quebracho condensed tannin on rumen fermentation,biohydrogenation and bacteria in continuous culture system[J].Animal Feed Science and Technology,2015,207:31-40.   
+[71]VASTA V,MAKKAR H P S,MELE M,et al.Ruminal biohydrogenation as afected by tannins   
+in vitro[J].British Journal of Nutrition,2008,102(1):82-92.   
+[72] WALLACE R J,ARTHAUD L,NEWBOLD C J.Influence of Yucca shidigera extract on   
+ruminal ammonia concentrations and ruminal microorganisms[J].Applied and Environmental   
+Microbiology,1994,60(6):1762-1767. Interaction between Ruminal Microbes and Dietary Fatty Acids MA Tao DIAO Qiyu\* ( Key Laboratory of Feed Biotechnology of the Ministry of Agriculture, Feed Research Institute, Chinese Academy of Agricultural Sciences, Beijing 10o081, China)   
+Abstract: Fatty acid is one of key dietary nutrients for ruminants. It inhibits the growth of ruminal   
+microbes,of which unsaturated fatty acids (UFAs) shows strongly negative effect of microbe growth.   
+However, ruminal microbes in turn convert UFAs to saturated fatty acids through biohydrogenation.   
+This review introduced the interactions between dietary faty acids and ruminal microbes,   
+investigation methods including in vitro culture, animal feding method and molecular biochemical   
+methods were reviewed, which allowed people to gain new insights into the manipulation of ruminal   
+microbiota by dietary fat acids.
+
+Key words: ruminal microbes; bacteria; protozoa; biohydrogenation; fatty acid

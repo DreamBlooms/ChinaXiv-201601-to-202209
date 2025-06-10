@@ -1,0 +1,557 @@
+[
+    {
+        "type": "text",
+        "text": "中国农产品品牌评价研究的内容解析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王雪颖　张紫玄　王　昊　邓三鸿  \n(南京大学信息管理学院南京 210023)  \n(江苏省数据工程与知识服务重点实验室(南京大学）南京 210023)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：【目的】通过分析中国农产品品牌评价领域的文献题名总结该领域的研究现状。【方法】对该领域的文献题名进行K-means 聚类，分析每簇研究的重点内容，分别使用因子分析、多维尺度分析和层次聚类分析进一步解析聚类得到的每簇文献的特点。【结果】文献数量总体呈现\"M\"型趋势，文献多采用模糊综合法，从多个评价角度集中探讨评价指标体系、评价模型、影响因素等方面。【局限】仅针对题名进行分析，未涉及关键词与摘要文本。【结论】聚类结果较好地揭示了中国该领域的研究现状，但没有反映出种类农产品、Interband 品牌评估法相关内容。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：农产品品牌评价K-means 聚类层次聚类分析因子分析多维尺度分析",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号：G252",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中国是一个农业大国，农业是国民经济的支柱产业之一，其发展一直受到各级政府的高度重视[]。随着市场经济不断发展、产业结构不断调整，大量农产品实现了产业化并创立品牌。农产品从性质上主要分为区域农产品、企业农产品、种类农产品三类。区域农产品指某个区域的农产品，以县为单位申报，具有鲜明的地域性，可以视作地理标志[2]，比较著名的有新疆农产品[3]、安化黑茶[4]等。企业农产品顾名思义是指企业生产的农产品，如光明乳品、鲁花花生油等。种类农产品指某一种类的农产品，如红富士苹果等。与发达国家、先进地区的农产品品牌相比，中国农产品品牌建设起步晚，有关评价指标体系的研究还比较滞后[5]。在 2016 年\"全球最有价值的品牌\"排行榜中，前100 强的品牌基本来自美国、日本、韩国、欧洲；在2016年\"中国最有价值品牌\"排行榜中，只有茅台、伊利、蒙牛、双汇、洋河、青岛啤酒、张裕等7个农产品品牌上榜。这说明中国的品牌竞争力在国际范围内较弱，并且农产品品牌在国内市场中占的份额较小。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文统计中国农产品品牌评价领域相关文献的年度发文趋势，分析相关政策对研究的影响；对题名分词并去掉停用词，形成文献-术语矩阵(DocumentTerm Matrix，DTM)，使用MATLAB对DTM进行K-means 聚类，分析每簇研究的内容并与综述比较;对每个簇分别进行因子分析、多维尺度分析和层次聚类分析，探讨每簇的重点内容。通过对研究内容的总结、分析，希望可以为今后农产品品牌评价方面的研究提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2相关研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文基于文献分析法讨论目前中国农产品品牌评价的研究现状。相关研究包括两方面：农产品品牌评价领域的研究；相关方法的探讨。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1）在农产品品牌评价领域，根据评价的角度,可以将评价标准分为以下三类：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 评价方法角度。不同的品牌类型有不同的评价方法，在研究企业农产品时，主要采用模糊综合评价法[6-9]和",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Interband 品牌评估法[10-14]。在研究区域农产品和种类农产品时，主要采用模糊综合评价法和灰色层次模型[5,15]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 影响因素角度。影响因素是评价体系的一部分，有些文献着重研究了影响品牌评价的因素，将这些因素构成评价体系，分别打分来确定品牌价值[1,16-17]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{3}$ 评价模型角度。学者提出很多测评模型评价农产品的品牌价值，包括多元回归模型[18]、TOPSIS 模型[19]、结构方程模型[20]、品牌资产十要素模型[21]等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2）对文献进行分析时常采用文献计量学方法[22],分析时首先要进行文献统计，统计的对象为文献或作者具备的某些特征[23]，如标题、关键词、合著者、引文、注释等[24-25]，或者是因对象而产生的某些行为[26],如阅读量、被引情况、被收录情况等[27-28]。本文重点使用文献聚类方法。文献聚类通常针对题名或关键词进行[29]，传统的文献聚类方法主要分为两类：层次聚类[30-31]和划分聚类[32-33]。层次聚类的主要思想是将分析对象按照某种规则聚集为一棵聚类树[34-36]；划分聚类的主要思想是将分析对象划分为多个簇，每个簇中的对象高度相似，并且簇间尽量保持不一致，如K-means算法[37-38]。随着人工智能的兴起，模糊聚类、人工神经网络聚类和演化式聚类法等其他聚类方法也被应用到文献聚类中[39]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3数据和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文的数据来源于 CNKI(中国知网)的中国学术期刊网络出版总库，调查文献的范围为“农产品品牌评价”，检索时间为2016年10月17日。使用检索式“篇名 $\\begin{array} { r } { { \\bf \\Psi } = { \\bf \\Psi } } \\end{array}$ 农产品and篇名 $\\ c =$ 品牌and篇名 $\\ c =$ 评价”，共得到27篇文献，由于文献数目过少不利于后续分析，将检索式调整为\"主题 $\\fallingdotseq$ 农产品and主题 $\\vdots =$ 品牌and主题 $\\dot { \\bf \\Phi } = { \\bf \\Phi }$ 评价”，最终得到360篇文献，但经人工检查发现这些文献有很大一部分与主题关联性较小，故考虑使用中图分类号检索扩大文献范围。前期调研中发现相关文献的分类号主要有F224经济数学方法”、“F323.5农业商品生产及农业劳动生产率”\"F326农业部门经济”三种，因此使用高级检索式 $\\scriptstyle \\cdot _ { \\mathrm { C L C = F } 2 2 4 + \\mathrm { F } 3 2 3 . 5 + \\mathrm { F } 3 2 6 }$ AND ${ \\mathrm { T I } } { = } ^ { \\circ }$ 品牌\\*评价'”，最终得到153篇文献。为了确保检索式覆盖较为全面，将这153篇文献与使用最初检索检索式得到的27篇文献进行比对，发现共有22篇重合，去除重合文献后共得到158篇文献。在这158篇文献中，去除1篇重复投稿的文献，1篇由于来源库不一样被重复收录的文献以及2篇新闻稿，最终得到有效的文献数据154条，以这154篇文献的题名作为原始数据进行具体分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文对所有文献进行数据清洗以去除重复文献及新闻稿等题材不符合要求的文章，利用ICTCLAS 软件对题名进行分词，得到397个词汇；根据哈尔滨工业大学的停词表去除停用词后可获得350个有效词汇，运用这些数据，将文献包含的词汇赋为1，不包含的赋为0,形成一个 $1 5 4 \\times 3 5 0$ 的文献-术语矩阵(Document-TermMatrix,DTM)，再对DTM进行K-means 聚类解析各簇的研究内容。K-means是质心的聚类技术，其聚类效率高，可以有效处理大文本集。接着对聚类得到的7个簇进行因子分析(FactorAnalysis,FA)、多维尺度分析(Multidimensional Scaling Analysis,MSA)和层次聚类(Hierarchical Clustering，HC)，深入探究各簇特点。因子分析是指从变量群中提取共性因子的统计技术，旨在以较少的因子反映原资料的大部分信息[40]。多维尺度分析通过低维空间展示研究对象间的联系，利用平面距离反映研究对象之间的相似程度[41]。层次聚类试图在不同层次对数据集进行划分，从而形成树形的聚类结构[42]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4中国农产品品牌评价研究的特征分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4.1 年度分布的分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对所有文献的年度分布进行分析，如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/794b83f8f9f56e99d62ac02bc8247746f667c15e98c3f854618021a9584a8888.jpg",
+        "img_caption": [
+            "图1中国农产品品牌评价研究的年度发文趋势"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1）该领域的文献数量变化总体呈现\"M\"型趋势。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2）该领域在2001年首次出现相关文献但只有1篇，且2002年-2004年期间无相关文献，表明实际上该领域的研究在这一时期并未完全起步。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3）文献数量自2005年起迅速增加，说明研究热度迅速上升，可能是由于国家重视农业的发展，颁布了一系列相关政策，如\"三农政策\"和\"十一五\"规划，使得学者开始关注农产品品牌的评价。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(4）文献数量在2008 年达到一个小高峰，之后开始缓慢回落，这表明当时研究热度开始减退。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(5）到了2012年，该领域的发文数量出现了一个井喷式的高峰，达到39篇，原因可能为2011年起出台了一系列政策加大对农业的扶持力度。在此之后文献数量快速减少，可能是该研究已经过了热门期，但由于文献数量只统计到2016年10月17日，未来的文献数量变化还有待后续观察。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.2 题名聚类分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文用ICTCLAS①对检索所得的154篇文献的题名进行分词并去除停用词，获得350个有效词汇，运用这些数据，将文献提及的词汇赋为1，未提及的赋为0,形成一个 $1 5 4 \\times 3 5 0$ 的DTM，并使用MATLAB对DTM进行K-means聚类。聚类时由于类数是人为设定的，可能和实际适合的类数并不一致，且初始的聚类中心是随机的，所以虽然聚类得到的类别不变，但是每类的文献数量会随机变化；如果设置的类目数过多，部分类目只有少量文章，不利于展开分析;如果类目数过少，每类的文章数都较多，聚类效果不明显。考虑到本实验数据量以及方便后续分析，将154个题名分为7类，并针对其中一次随机的聚类结果进行分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "K-means聚类情况如图2所示。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/da5cf32eade0167c42b7d5586b79a75045e0ca3709476f653a5e2a7d975133df.jpg",
+        "img_caption": [
+            "图2K-means聚类情况 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/7af2c5e8112eff5963a44338dbd995008992d15e8b29ef2d1c176c28e44c3e72.jpg",
+        "table_caption": [
+            "表1农产品品牌价值研究的题名聚类结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>簇编号</td><td>篇数</td><td>聚类中心词</td></tr><tr><td>C_1</td><td>18</td><td>体系；指标；研究；竞争力；构建</td></tr><tr><td>C2</td><td>27</td><td>竞争力；研究；农产品；模型；企业</td></tr><tr><td>C_3</td><td>8</td><td>例；农产品；城市；分析；关联；灰色</td></tr><tr><td>C_4</td><td>32</td><td>研究；影响；方法；联合；模糊；模式</td></tr><tr><td>C_5</td><td>22</td><td>消费者；研究；延伸；影响；产品；实证</td></tr><tr><td>C_6</td><td>24</td><td>模糊；综合；法；研究；竞争力；农产品</td></tr><tr><td>C_7</td><td>23</td><td>模型；价值；研究；视角；消费者；理论</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1）C_1的主要研究内容为农产品品牌评价指标体系的构建，这些文献基本都使用层次分析法将目标分解为不同层次的多个指标，分别赋予权重以进行定性或定量分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)C2共含27篇文献，约占总体的 $1 7 . 5 \\%$ ，是该领域的一个研究热点。该簇研究了农产品品牌竞争力的评价模型，多数研究从案例出发对企业的品牌竞争力进行评价。C_2与C_1由于使用不同术语\"评价指标体系\"与“评价模型\"而被分为两簇，实际研究内容相近。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)C_3的聚类中心词中出现了“城市\"和\"灰色”,是因为该簇多以城市为案例进行品牌评价分析，聚类词中的“灰色\"除灰色评价外还涉及灰色关联、灰色系统等概念，灰色是指系统具有的层次或结构关系的模糊性、动态变化的随机性、指标数据的不完备或不确定性。该簇大部分文献为区域农产品的实证研究。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过对聚类结果进行分析，得到各簇的聚类中心词，如表1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(4)C_4主要研究了影响品牌评价方法的因素。影响因素是评价体系的一部分，该簇文献着重研究了影响品牌评价的因素，将这些因素构成评价体系，分别打分来确定品牌价值。C_4与农产品品牌评价联系最紧密，但内容相对分散，以影响品牌评价方法的因素为研究内容，特征并不突出。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(5)C_5研究了消费者角度的品牌延伸评价，该簇包含一些以非农产品为评价对象的文献，原因是检索式包含的中图分类号“F224经济数学方法\"无法将研究对象完全限制在农产品领域，但这些文献可以为农产品品牌评价提供借鉴；该簇对品牌评价的研究切入点相对较小，包括部分实证研究。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(6)C_6主要使用模糊综合法对农产品竞争力进行评价，部分文献也构建了层次分析模型,C_6较其他",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "簇而言內容更集中。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(7)C7着重研究了消费者视角的品牌价值模型突出了消费者在品牌价值评价中的地位。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "结合聚类中心词和上述分析对每簇内容进行总结，得到的聚类标签如图3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c7907477ec97100fde60ff720024c513adeb2c545d618f7c2b870a009525430d.jpg",
+        "img_caption": [
+            "图3对K-means聚类结果设定的类标签"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "可以发现，该领域的研究集中在评价指标体系、评价模型、影响因素等方面。与综述中主观总结的研究现状相比，聚类结果存在以下差异：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1）品牌类型。聚类结果未体现出对种类农产品的评价，原因为相关文献的题名往往会涉及种类农产品的具体名称，且由于品牌名称之间差异较大，或题名本身并未包含研究对象，无法通过题名聚为一类,形成聚类标签；此外，由于种类农产品这一概念与区域农产品、企业农产品存在交叉重叠，当某一品牌可以看做区域或企业农产品进行分析时，研究者一般很少选择将其看为种类农产品进行研究。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2）评价方法。Interband品牌评价法是评价企业农产品最常用的方法之一，但聚类结果则未体现这一特点，主要原因是该领域文献在命名时(如《卷烟品牌评价体系实证研究—以G和Z卷烟品牌为例》)未涉及评价所使用的具体方法名称；农产品品牌评价的方法有很多，从聚类结果看，实际使用最多的为模糊综合法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3）评价视角。聚类结果更突出消费者的作用，其中C_5和C_7两簇(共计45篇文献)涉及了消费者角度的品牌评价。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(4）涉及因素。从聚类结果可以看出品牌评价的侧重点更多样化，除了品牌竞争力之外，不少文献涉及品牌延伸、品牌价值等，说明研究者常使用它们替代品牌评价的概念。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(5）文献研究层次。聚类结果体现出农产品品牌评价并不局限于理论，相当一部分研究对构建的模型进行了实践，这对建立一个普适性的农产品品牌评价",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "的模型有一定的参考价值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.3 各簇的内容解析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以术语为案例，文献为变量，将DTM转化为文献-文献矩阵(Document-Document Matrix,DDM)。按照 4.2节的聚类结果，对每个簇分别进行因子分析、多维尺度分析和层次聚类分析，抽取每个簇的重点探讨内容，并将其与上文设定的聚类标签比较、分析，以深入研究各簇特点。多维尺度分析的结果中有两个参数：Stress和RSQ，前者表示信度，后者表示拟合效果。本文所有的Stress值均在0.2左右,RSQ值均在0.8以上,拟合效果较好。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1)C_1的内容解析 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在C_1的因子分析中，将负载临界值设定为0.4,以较好地反映主要成分，另外6类也是如此，结果如表2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/80f88f38bac76865352d287628206758736ce32f0eb3f466135eb7b81008fbe8.jpg",
+        "table_caption": [
+            "表2C_1的因子分析结果(负载值 ${ > } 0 . 4 { \\dot { } }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>1</td><td>2</td><td>3</td></tr><tr><td>K_36</td><td>0.799</td><td></td><td></td></tr><tr><td>K_103</td><td>0.754</td><td></td><td></td></tr><tr><td>K_101</td><td>0.712</td><td></td><td></td></tr><tr><td>K_146</td><td>0.706</td><td></td><td></td></tr><tr><td>K_17</td><td>0.703</td><td></td><td></td></tr><tr><td>K_102</td><td>0.701</td><td></td><td></td></tr><tr><td>K_58</td><td>0.697</td><td></td><td></td></tr><tr><td>K_56</td><td>0.691</td><td></td><td></td></tr><tr><td>K_154</td><td>0.538</td><td></td><td></td></tr><tr><td>K_70</td><td>0.438</td><td></td><td></td></tr><tr><td>K_92</td><td>0.400</td><td>0.716</td><td></td></tr><tr><td>K_122</td><td></td><td>0.700</td><td></td></tr><tr><td>K_79</td><td></td><td>0.610</td><td></td></tr><tr><td>K_39</td><td></td><td>0.590</td><td></td></tr><tr><td>K_60</td><td>0.511</td><td>0.585</td><td></td></tr><tr><td>K_29</td><td></td><td></td><td>0.715</td></tr><tr><td>K_89</td><td></td><td></td><td>0.578</td></tr><tr><td>K_32</td><td></td><td>0.563</td><td>0.574</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 因子1为评价指标体系，研究对象主要为企业农产品、区域农产品，该因子在大多数文献中均有涉及，是主要因子。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 因子2为评价模型的构建，文献基本都结合了具体案例，主要针对区域农产品进行研究。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{3}$ 因子3为评价体系与评价模型的相关内容，比较松散。C1文献的内容大多较为集中，只有3篇分散在2个因子上：K92与K60同时出现在了因子1、2中，K_92在因子1(评价指标体系)上的负载值比因子2(评价模型的构建)低，其题名为《农产品品牌竞争力评价指标体系及评价方法的构建》，该文献研究了评价指标体系以及评价模型的构建，更偏重于构建评价模型(评价方法)；K60题名为《品牌综合评价指标体系及方法》，主要运用因子分析法提出品牌综合评价的指标体系，由于题名同时出现了“评价指标体系\"和\"方法\"，所以在2个因子负载值相对较为均衡，实际上“评价指标体系\"与\"评价模型\"概念上有重叠，只是使用术语不同。负载值最高的文献K36题名为《基于Dirichlet模型的品牌竞争力综合评价指标体系研究》，从品牌的市场表现、品牌的管理能力、品牌的基础能力和宏观环境要素4方面建立了品牌竞争力综合评价指标体系，研究对象为马氏、金地、费列罗三个企业品牌，与因子1的内容高度契合。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "C1的文献主要运用层次分析法，从品牌的不同评价方面提出指标构建评价指标体系。部分文献对已构建的评价指标体系做了实证研究，并采用专家打分法、问卷调查法或访谈的方式，对每个指标赋予一定权重，最终得出该品牌的测算值。半数文献构建模型或采用某种分析方法以辅助测算品牌价值，如Dirichlet模型、KANO 模型、因子分析法等。值得注意的是题名不能完全揭示文章内容，如K_70 题名为《卷烟品牌评价体系实证研究——以G和Z卷烟品牌为例》，使用了评价企业农产品最常用的方法之一的Interband评价法，而题名并未体现这一内容。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "随后对C1进行层次聚类和多维尺度分析，并将文献较为集中的部分记作C1，结果如图4和图5所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/caf83b4ff0f2c1dadf5b4f91d5320890b49c46cfa408a90573a3368576d9b263.jpg",
+        "img_caption": [
+            "图4C_1的层次聚类结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0cf2a624dbfe9db4e53605eecf149f8995f53344fe11111ef907768385d3e956.jpg",
+        "img_caption": [
+            "图5C_1的多维尺度分析结果(Stress=0.21496, $\\operatorname { R S Q } [ - 0 . 8 7 0 1 5 )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "C1包含的文章集中探讨了品牌评价指标体系，2篇在题名中指出了具体模型，4篇是综述性文献，1篇是河北省农产品的品牌评价指标体系研究。总体上看，该簇主要从宏观角度进行具体研究，部分文献结合实例进行定性分析。另外，有2篇文章与聚类中心距离较远，其题名分别为《服装品牌竞争优势评价体系各维度的权重分布设计》和《电信企业服务质量感知的评价指标体系和方法——以重庆市某运营商A品牌为例》，从题名看虽然都提及了“评价指标体系”，但是评价对象分别为服装品牌、运营商品牌，与农产品品牌差距较大。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2）其他簇的内容解析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "前文以C1为例详细分析了因子分析、层次聚类、多维尺度分析结果，受篇幅限制，本小节对其他6簇的分析结果进行总结，不展开详细描述，着重探讨各簇的特点.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 评价角度。农产品品牌的评价主要从品牌竞争力、品牌强度(C_4部分文献的研究重点)、品牌联合(C_4)、品牌延伸(C_5)、品牌价值(C_7)等方面进行，大部分簇(C_1、C_2、C_3、C_6)着重研究了品牌竞争力，说明品牌竞争力是评价的重点，但学者也会使用品牌强度等概念来替代竞争力。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 品牌类型。研究主要针对区域农产品和企业农产品进行，C2着重研究了某省市的农产品品牌和林果、蔬菜、乳制品、食品等行业的企业品牌；C_3主要研究了城市中的一些企业品牌;C_4的研究对象主要为区域农产品品牌;C_2和C_6分别有一篇文献研究了种类农产品。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{3}$ 研究角度。C_1、C_2和C_6侧重于模型使用，模型比较多样化;C_3的文献基本都结合具体案例进行实证;C_4的研究基本为综述性的，部分文献进行实证。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{4}$ 题名。由于C_4主要进行综述性研究，其包含的文献题名都较为概括，未指出使用的方法和评价角度；而C_1、",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "C_2、C_6、C_7所含的文献基本都指明了模型和具体评价对象。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{5}$ 评价方法。C6中包含的文献基本都使用了模糊综合法，这些文献还将该方法与其他模型相结合以辅助分析，如AHP与模糊层次综合分析法结合、灰色模型与模糊层次分析法结合。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{6}$ 离散程度。C3和C_7较为分散，其他几簇都较为集中：C3仅包含8篇文献，数量较少，这些文献探讨了品牌的形成要素、竞争力、名称等多个方面，内容丰富、相距较大;C_7除农产品品牌外还包含建筑企业品牌、国际知名品牌等，使用的模型、评价的角度差距较大，因此内容较为分散；簇C 4集中研究了评价方法的影响、评价的影响因素、品牌的某个方面的评价(例如影响力、满意度、配送模式等)；C_5突出了消费者的地位，评价角度基本为品牌延伸，研究基本围绕消费者对品牌延伸的评价(结合实证)和消费者视角的品牌延伸的影响因素进行；C_6的文献针对品牌竞争力使用模糊综合法评价。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5结语 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文统计了中国农产品品牌评价领域相关文献的年度发文趋势，分析了相关政策、自然灾害等因素对农产品品牌评价研究的影响；使用MATLAB对DTM进行K-means聚类，分析了每簇研究的内容并与综述比较；对每个簇分别进行因子分析、多维尺度分析和层次聚类分析，探讨了每簇的特点。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从分析结果可以看出，中国农产品品牌评价领域的文献数量总体呈现\"M\"型趋势。对题名进行K-means聚类，划分为7类，研究的主要内容分别为：农产品品牌竞争力评价体系的构建、品牌竞争力评价模型、品牌评价的实证研究、影响品牌评价的因素、消费者视角的品牌延伸研究、基于模糊综合法和层次分析模型的品牌评价、消费者视角的品牌价值模型研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "经过分析发现该领域的研究集中在评价指标体系、评价模型、影响因素等方面。与综述中主观总结的研究现状相比，聚类结果存在以下差异：品牌类型方面，聚类结果中未体现出对种类农产品的评价；评价方法方面，聚类结果并未体现出Interband品牌评价法，此外，实际研究中使用最多的方法为模糊综合法;评价视角方面，聚类结果更突出消费者的作用；涉及因素方面，品牌评价的侧重点更多样化，学者经常使用品牌延伸、品牌价值等替代品牌评价的概念；文献研究层次方面，相当一部分研究对品牌评价模型进行实证，这对建立一个普适性的农产品品牌评价的模型有一定的参考价值。同时，对各簇进行多维尺度分析、层次聚类后分别从评价角度、品牌类型、研究角度、题名、评价方法、离散程度解析了每簇特点。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文还存在以下问题：分析仅针对题名进行。这是由于摘要文字较多，对其聚类计算量较大，用短文本替代较为科学。对题名和关键字的对比研究笔者已另行撰文，作为本文的后续研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]宋丽影．农产品区域品牌竞争力评价研究[D]．哈尔滨：东 北林业大学，2013．（SongLiying．Researchon CompetitivenessEvaluationofAgricultural Products Regional Brand [D].Harbin: Northeast Forestry University,   \n2013.) [2]彭代武，李亚林，戴化勇．农产品区域品牌竞争力提升研 究[J].现代商贸工业,2009,21(11):93-94.(Peng Daiwu,Li Yalin,Dai Huayong. Research on Competitiveness Promotion ofAgricultural Products Regional Brand[J]. Modern Business Trade Industry,2009,21(11): 93-94.) [3]万行．新疆特色农产品品牌竞争力评价研究—基于模糊 层次分析法[J]．商，2012(19):212-213．(Wan Xing. ResearchonBrandCompetitivenessEvaluationof Characteristic Agricultural Products in Xinjiang:Based on Fuzzy Analytic Hierarchy Process [J].Business,2012(19):   \n212-213.) [4]杨卉．安化黑茶区域公用品牌价值评估研究[D]．长沙：湖 南大学,2013.(Yang Hui.Evaluation of Area Public Brand Value of Anhua Black Tea [D]. Changsha:Hu'nan University,2013.) [5]蔡靖杰．福建农产品品牌竞争力评价[D].福州：福建农林 大学,2010.(Cai Jingjie.Evaluation on the Competitiveness of Agricultural Products in Fujian [D]. Fuzhou: Fujian Agriculture and Forestry University,2010.) [6]张海燕．基于模糊综合评价模型的区域农产品品牌建设水 平研究[D]．哈尔滨：东北林业大学,2012.(Zhang Haiyan. Study on the Brand Building Level of Regional Agricultural Products Based on Fuzzy Comprehensive Evaluation Model[D].Harbin: Northeast Forestry University,2012.) [7]戴程.我国农产品品牌结构评估模型及影响因子研究— 基于 AHP-模糊综合评价法的实证分析[J]．福建论坛：人 文社会科学版，2014(9):44-49.(Dai Cheng．Study on Evaluation Model and Influencing Factors of Agricultural Product Brand Structure in China:An Empirical Analysis Based on AHP-Fuzzy Comprehensive Evaluation Method[J]. Fujian Tribune:The Humanities& Social Sciences Bimonthly,2014(9): 44-49.)   \n[8]姚春玲．内蒙古农产品区域品牌竞争力提升研究[D]．哈尔 滨：东北林业大学，2015．(Yao Chunling．Study on AdvancingCompetitivenessofRegionalBrandof Agricultural Products in Inner Mongolia [D].Harbin: Northeast Forestry University,2015.)   \n[9]孙书杰．新疆特色农产品品牌竞争力提升研究[J]．进出口 经理人，2016(3). DOI: 10.3969/j.issn.1673-6532.2016.03. 086.(Sun Shujie.Research on the Enhancement of Brand Competitiveness of Characteristic Agricultural Products in Xinjiang[J].World Trade Information of Mechanelectronics, 2016(3).DOI: 10.3969/j.issn.1673-6532.2016.03.086.)   \n[10]蒋婷，程玉海．中国农产品品牌价值评估实证分析——以 伊利、蒙牛、光明三家上市企业为例[J]．中国市场,2015(3): 79-82.(Jiang Ting,Cheng Yuhai. An Empirical Analysis on the Evaluation of Chinese Agricultural Products’Brand Value - A Case Study of Erie,Mengniu and Guangming Listed Companies[J]. China Market,2015(3):79-82.)   \n[11]李帅鹏．河北省农产品品牌价值评价指标体系研究[D].石 家庄：石家庄经济学院，2015.(Li Shuaipeng．Studyon Evaluation Index System of Agricultural Products Brand Value in Hebei Province [D]. Shijiazhuang: Shijiazhuang School of Economics,2015.)   \n[12]王东旭．基于 Interbrand 模型的品牌价值研究[D]．昆明: 云南大学,2015.(Wang Dongxu.Research on Brand Value Based on Interbrand Model [D]. Kunming: Yunnan University, 2015.)   \n[13]郭倩倩，宋敏，周元春，等．基于 Interbrand 模型的山西农 产品地理标志品牌价值评估[J].农业现代化研究，2015, 36(3):450-455.(Guo Qianqian, Song Min, Zhou Yuanchun, et al.Evaluation of Brand Value of Geographical Indications of Shanxi Agricultural Products Based on Interbrand Model [J].Research on Agricultural Modernization,2015,36(3): 450-455.)   \n[14]符国群．Interbrand 品牌评估法评介[J].外国经济与管理, 1999(11):37-41. (Fu Guoqun.Review of Interbrand Brand Evaluation[J].Foreign Economy and Management,1999(11): 37-41.)   \n[15]姚晓红．山东省农产品品牌竞争力评价研究[D]．济南：山 东财经大学,2012.(Yao Xiaohong.Study on Evaluation of Brand Competitiveness of Agricultural Products in Shandong Province[D]. Ji'nan: Shandong University of Finance and Economics, 2012.)   \n[16] 刘婷．影响农产品区域品牌形成的要素评价—以河南省 为例[J]．江苏农业科学,2016,44(8):527-531.(Liu Ting.An Evaluation of the Factors Affecting the Formation of Regional Brand of Agricultural Products - Taking Henan Province as an Example[J]. Journal of Jiangsu Agricultural Sciences,2016,44(8): 527-531.)   \n[17]晋雪梅，刘从九．关于农产品品牌价值评价体系构建及分 析[J]．中国棉花加工，2012(3):33-35.(Jing Xuemei,Liu Congjiu. Construction and Analysisof BrandValue Evaluation System of Agricultural Products[J]. China Cotton Processing,2012(3): 33-35.)   \n[18]王保利，姚延婷．如何评估农产品品牌竞争力[J].统计与 决策，2007(2):47-50.(Wang Baoli,Yao Yanting.How to Evaluate the Competitiveness of Agricultural Products [J]. Statistics and Decision,2007(2):47-50.)   \n[19] 唐海军，郑宗剑，赵娜，等．基于熵权-灰色关联-TOPSIS 的达州特色农产品品牌综合评价[J]．绵阳师范学院学报, 2014,33(1l):16-19.(Tang Haijun, Zheng Zongjian,Zhao Na,et al. Comprehensive Evaluation of Dazhou Characteristic Agricultural Products Brand Based on Entropy WeightGray Relation-TOPSIS[J]. Journal of Mianyang Normal University,2014,33(11): 16-19.)   \n[20]俞燕．新疆特色农产品区域品牌:形成机理、效应及提升对 策研究[D].武汉：华中农业大学,2015.(Yu Yan.Regional Brand of Xinjiang Characteristic Agricultural Products: Mechanism， Effect and Countermeasures [D]. Wuhan: Huazhong Agricultural University,2015.)   \n[21]王月辉，单艳华．基于\"十要素模型\"的嘉和一品公司品牌 资产评估实证研究[C]/中国高等院校市场学研究会 2011 年年会论文集．2011.（Wang Yuehui，Shan Yanhua．An Empirical Study on Brand Equity Evaluation of JiaheYipin Company Based on “Ten Factors Model\"[C]//Proceedings of the 2011 Annual Conference on Chinese Society of Higher Education Market Research. 2011.)   \n[22] 朱少强，邱均平．文献计量与内容分析—文献群中隐含 信息的挖掘[J]．图书情报工作，2005,49(6):19-23.(Zhu Shaoqiang,Qiu Junping. Bibliometrics and Content Analysis - Mining of Implicit Information in Literature Group [J]. Library and Information Service,2005,49(6):19-23.)   \n[23] 许见亮．基于文献计量学的我国档案专业核心期刊分析与 评价[D]．合肥：安徽大学,2007．(Xu Jianliang.Analysis and Evaluation of Core Journals of Archives in China Based on Bibliometrics[D]. Hefei: Anhui University,2007.)   \n[24]陈雯，童李文，林晔．我国产业技术创新战略联盟研究的 文献分析(2007-2012)[J]．现代情报，2013，33(3):103-108. (Chen Wen,Tong Liwen, Lin Ye.Literature Analysis on the Strategic Alliance of Industrial Technology Innovation in China (2007-2012)[J]． Modern Intelligence，2013，33(3): 103-108.)   \n[25] 付伟棠.2005-2014 年我国图书馆法研究的文献分析[J]．现 代情报，2015，35(5):112-116.(Fu Weitang.A Literature Analysis of Library Law Research in China from 2005 to 2014 [J]. Modern Intelligence,2015,35(5): 112-116.)   \n[26] 薛文静，孔岩．基于文献分析的国内图书馆大数据应用研 究述评[J].农业图书情报学刊，2014，26(11):65-69.(Xue Wenjing,Kong Yan.A Review of the Application of Large Data in Domestic Libraries Based on Literature Analysis [J]. Journal of Library and Information Sciences in Agriculture, 2014,26(11): 65-69.)   \n[27] 唐维，田瑞雪．基于文献分析的国内图书馆虚拟化技术研 究述评[J]．图书馆学刊,2013(5):137-140.(Tang Wei,Tian Ruixue.A Review of Domestic Library Virtualization Technology Based on Literature Analysis [J].Journal of Library Science,2013 (5): 137-140.)   \n[28] 杨瑞仙．大数据研究的文献计量分析[J]．情报科学，2015, 33(8):152-156.(Yang Ruixian.Bibliometric Analysis of Large Data Research [J].Information Science,2015,33 (8): 152-156.)   \n[29] 谢锋．基于 GN 算法的文献聚类方法研究[J]．科技传播, 2013(2): 222-223． (Xie Feng.Research on Literature Clustering Method Based on GN Algorithm [J]. Science and Technology Communication,2013 (2): 222-223.)   \n[30] 常进．基于文献聚类的 211 高校图书馆科研产出态势分析 [J]．现代情报，2013，33(2):105-110.(ChangJin．A State-and-Trend Analysis on the Scientific Research Outputs of 211 University Libraries Based on Document Clustering [J]. Modern Information,2013,33 (2): 105-110.)   \n[31]李远明，胡魁菊，祝方林,等．基于文献聚类的高校科研成 果量化分析[J]．现代情报，2011，31(6)：113-117．(Li Yuanming，Hu Kuiju,Zhu Fanglin，et al.Quantitative Analysis of University Scientific Research Results Based on Literature Clustering [J]. Modern Information,2011,31 (6): 113-117.)   \n[32]李桂影，冯耕中．基于文献聚类的国内外数字图书馆研究 的比较分析[J]．大学图书馆学报，2007,25(3):46-52.(Li Guiying，Feng Gengzhong.A Comparative Analysisof Digital Library Research at Home and Abroad Based on Literature Clustering [J]. Journal of Academic Libraries, 2007,25(3): 46-52.)   \n[33] 易明，操玉杰，邓卫华，等．基于文献聚类的国内外知识 传播研究主题分析[J]．情报科学，2014,32(11)：114-119. (Yi Ming, Cao Yujie,Deng Weihua,et al. An Analysis of the Subject of Knowledge Communication at Home and Abroad Based on Literature Clustering [J]. Information Science, 2014,32 (11): 114-119.)   \n[34] Ayech M W, Ziou D. Segmentation of Terahertz Imaging Using K-means Clustering Based on Ranked Set Samplig [J]. Expert Systems with Applications,2015,42(6): 2959-2974.   \n[35]杨震．文献聚类分析及其在金属矿开采技术发展趋势发掘 中的应用研究[D]．西安：西安建筑科技大学，2009.(Yang Zhen.Literature Clustering Analysis and Its Application in the Development of Metal Mining Technology [D]. Xi'an: Xi'an University of Architecture and Technology,2009.)   \n[36] Hassanin M F,Hassan M, Shoeb A.DDBSCAN:Different Densities-Based Spatial Clustering of Applications with Noise[C]//Proceedings of the 2015 International Conference on Control, Instrumentation, Communication and Computational Technologies. 2015.   \n[37] Tran T N,Drab K,Daszykowski M. Revised DBSCAN Algorithm to Cluster Data with Dense Adjacent Clusters[J]. Chemometrics & Intelligent Laboratory Systems，2013, 120(2): 92-96.   \n[38] Celebi ME,Kingravi HA, VelaPA.A Comparative Study of Efficient Initialization Methods for the K-means Clustering Algorithm[J]. Expert Systems with Applications,2013,40(1): 200-210.   \n[39]岳香芬．网络舆情文献聚类分析[J]．科技创业月刊, 2012(6):149-151.(Yue Xiangfen.Network Public Opinion Literature Clustering Analysis [J]. Technology Monthly,2012 (6): 149-151.)   \n[40] 薛薇.统计分析与 SPSS 的应用[M].北京：中国人民大学 出版社,2014.(Xue Wei. Statistical Analysis and Application of SPSS [M]. Beijing: Renmin University of China Press, 2014.)   \n[41]乔治．SPSS 统计分析简明教程[M].北京：电子工业出版 社，2011．(Qiao Zhi． SPSS Statistical Analysis Concise Tutorial [M]. Beijing: Electronic Industry Press,2011.)   \n[42] 张文彤，董伟.SPSS 统计分析高级教程[M].第2版．北京: 高等教育出版社,2013.(Zhang Wentong,Dong Wei.SPSS Statistical Analysis Advanced Course [M].The 2nd Edition. Beijing: Higher Education Press,2013.) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "王雪颖：提出研究思路，采集、清洗和分析数据，起草论文;  \n王雪颖，张紫玄：进行实验;  \n王昊：设计研究方案;",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "邓三鸿：论文最终版本修订。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "利益冲突声明：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "所有作者声明不存在利益冲突关系。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "支撑数据：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "支撑数据由作者自存储,E-mail:mgl614024@smail.nju.edu.cn。  \n[1]王雪颖.K均值结果统计.xlsx.K-means 聚类结果统计表.  \n[2]王雪颖．停词后数据.xlsx.对文献题名去除停用词后得到的数据.  \n[3]王雪颖.文档词矩阵.xlsx.文档-术语矩阵.  \n[4]王雪颖.DDM.xlsx.文献-文献矩阵.[5]王雪颖.k1.sav.簇1的文档-术语矩阵.  \n[6]王雪颖.k2.sav.簇2的文档-术语矩阵.  \n[7]王雪颖.k3.sav.簇3的文档-术语矩阵.  \n[8]王雪颖.k4.sav.簇4的文档-术语矩阵.  \n[9]王雪颖.k5.sav.簇5的文档-术语矩阵.  \n[10]王雪颖.k6.sav.簇6的文档-术语矩阵.  \n[11]王雪颖.k7.sav.簇7的文档-术语矩阵.  \n[12]王雪颖.data.dbf.相关文献的题名.  \n[13]王雪颖.stopword.dbf.停用词表.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "收稿日期:2017-05-17  \n收修改稿日期:2017-06-27",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Evaluating Brands of Agriculture Products: A Literature Review ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Wang XueyingZhang ZixuanWang HaoDeng Sanhong (School of Information Management, Nanjing University, Nanjing 21oo23, China) (Jiangsu Key Laboratory of Data Engineering and Knowledge Service (Nanjing University),Nanjing 21023, China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract: [Objective]This paper analyzes titles of research evaluating brands of agriculture products in China,aiming to summarize the latest developments in this field.[Methods]First,weused the k-means to clustertheretrieved titles. Then,weemployed factoranalysis,multidimensional scaleanalysis,andhierarchicalclustering analysis to examine the data. [Results] We found the total number of articles published each year, as well as research topics,brand types, evaluation methods and perspectives,and impact factors of these studies.[Limitations] We did not examine keywords and abstractsof the selected literature.[Conclusions]The results of clustering reveals the developmentsof related research. However, our study does not discuss types of products and methods of interband evaluations. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "KeyWords: Brand Evaluation of Agricultural ProductsK-means ClusteringHierarchical Cluster Analysis(HCA) Factor Analysis (FA） Multidimensional Scaling ",
+        "page_idx": 8
+    }
+]

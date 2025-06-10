@@ -1,0 +1,391 @@
+[
+    {
+        "type": "text",
+        "text": "一种降低电机附加损耗的槽形优化方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "梁娜鲍晓华",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（合肥工业大学工业节电与电能质量控制省级协同创新中心合肥230009）",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/81a7254ee8d982884f75a73316cdcbd9d77601c7b8d43c226e673243b99cfc81.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "梁娜女．1993年生，硕士研究生，主要方向为电机电磁场有限元分析。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：改变槽形结构作为一种简单易实施的方法被广泛地应用在电机的各项性能优化中。本文探讨了一种以降低电机附加损耗为目的的转子槽形的优化设计，首先分析了转子槽各个尺寸与附加损耗间的变化关系，并对其进行函数拟合得到对应于附加损耗最小值的一组尺寸，再根据电机设计的其他要求对尺寸变量进行迭代调整得到最佳的槽形参数。该研究可以为电机的优化设计提供参考思路。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：附加损耗 槽形优化有限元分析中图分类号：TM315",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A Slot Optimization Method for Reducing Motor's Additional Loss ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Liang Na Bao Xiaohua (School of Electrical Engineering and Automation, Hefei University of Technology Hefei 230009China） ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/6059ce6580beaa59e2a71ba267eb9962f71037f2d2173b2c41323ff3fc15451f.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "鲍晓华男，1972年生，教授，博士生导师，主要研究方向为电机优化设计及电磁场分析。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: As a simple and easy completing method, the changing slot structure is widely used in optimization of motor's performances.The optimization of rotor slot aimed at reducing motor's additional loss was studied in this paper. The relationship between dimensions of rotor slot and additional loss were analyzed in the first step.Then the set of dimensions for the minimum additional loss was obtained by function fitting. The other requirements of motor's designs were also considered in the iterative calculation for the optimum geometry. This study could provide a reference for motor's optimization in engineering practice. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Additional loss, slot optimization, finite element analysis ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "电机的附加损耗是指除了基本铁耗、基本铜耗以及机械损耗外的所有损耗之和。由于产生原因复杂且计算困难，在当前的电机设计过程中很少将附加损耗与电机尺寸直接关联。而实际上，槽形尺寸与电机的附加损耗密切相关。因此，本文将讨论针对于降低电机附加损耗的转子槽形优化设计。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着冲模技术的提高，通过定转子槽形的优化提升电机的性能逐渐成为国内外电机领域的研究热点[1-5]。文献[6]基于时步有限元法的损耗计算模型，分析了定子梨形槽各个尺寸对于电机空载损耗的影响程度，并通过在传统槽型基础上调整定子槽的尺寸，实现了对高效电机损耗的优化；文献[7]利用遗传算法和有限元法结合的方法实现了对圆筒型直线感应电机最大推力槽型的选择与电机整体性能的优化；文献[8]根据变频调速电机的等效数学模型，建立了转子槽形尺寸与趋肤效应之间的对应关系，并提出了增大电机效率最佳转子槽尺寸的计算公式。文献[9]通过对转子分层，建立了多个单层槽高与槽宽的数据组，以转矩电流等电机性能为目标函数设计转子槽尺寸优化流程，最终得到一组满足电机优化条件的转子槽的尺寸。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以降低电机附加损耗为目的的转子槽形优化设计，首先需要分析槽形各个尺寸对附加损耗的影响，然后再根据其对应关系建立起槽形的优化方案与优化流程，最终得到满足条件的最佳槽形。值得注意的是，转子槽形尺寸与电机的转矩、电流等运行性能也密切相关。因此，在槽形优化过程中应综合考虑槽形对电机的各项性能的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 附加损耗的计算方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "电机的附加损耗包括电机各个部件的谐波损耗以及由部分漏磁产生的基波损耗。由于解析法涉及诸多经验系数并且无法考虑趋肤效应等影响，本文利用有限元法计算电机的附加损耗，且文中只考虑定转子铁心及转子导条中的附加损耗。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1定转子铁心中的附加损耗",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于附加损耗中的磁滞损耗相较于涡流损耗数值很小，所以将其忽略不计。根据铁耗计算的两项模型，铁心中总的附加损耗可以表达为[10-11]",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { \\mathrm { c } _ { - } \\mathrm { e x } } = \\sum _ { \\Delta } \\sum _ { 2 } ^ { n } \\frac { k \\sigma } { D h } \\overset { h } { \\underset { 0 } { \\int } } \\big ( E _ { r , n } ^ { 2 } + E _ { \\theta , n } ^ { 2 } \\big ) \\mathrm { d } z\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $n$ 为谐波次数，其中当 $n$ 为1时，代表基波；  \n$h$ 为铁心硅钢片的厚度； $D$ 为密度； $\\sigma$ 为电导率；  \n$E _ { r , n }$ ， $E _ { \\theta , n }$ 分别为 $n$ 次谐波径向和轴向电场强度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$k$ 为修正系数，其表达式如下所示",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk = \\frac { 6 D K _ { e } } { \\sigma ( { \\pi } h ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2转子导条中的附加损耗",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据文献[3]，转子导条中总的涡流损耗可以计算为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { \\mathrm { e d d y \\_ b a r } } = \\sum _ { \\Delta } \\sum _ { 2 } ^ { \\nu } L S _ { \\Delta } J _ { \\Delta \\nu } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $S _ { \\Delta }$ 为导条各单元面积； $J _ { \\Delta _ { \\nu } }$ 为导条各小单元中$\\nu$ 次谐波电流值， $\\nu = 1$ 时， $i _ { \\nu _ { A } }$ 和 $J _ { \\Delta _ { \\nu } }$ 为基波电流。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3转子槽形尺寸对附加损耗的影响 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据上文的分析，电机的附加损耗主要由谐波及漏磁场产生，而转子槽形尺寸的变化将对气隙磁场中的磁导谐波以及转子漏磁均产生影响。由于无法直接解析建立各个槽尺寸与附加损耗间的对应关系，文中通过建立槽尺寸变量的多个电机模型对其结果进行对比分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文中以梨形转子槽为例，分别对不同转子槽口宽度与高度、槽肩高度、转子上下槽宽比、槽高宽比等尺寸变量的电机模型进行了仿真计算。电机的主要参数见表1，转子槽如图1所示，计算结果如图2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/23c3bb6856fcdd93f9b26b0575f270117483580e1a924a0c76a5c7851ea6b4aa.jpg",
+        "table_caption": [
+            "表1电机主要参数",
+            "Tab.1Main specifications of motor "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>电机参数</td><td>数值</td></tr><tr><td>额定功率/kW</td><td>1000</td></tr><tr><td>额定电压/kV</td><td>10</td></tr><tr><td>定子外径/mm</td><td>850</td></tr><tr><td>定子内径/mm</td><td>540</td></tr><tr><td>转子外径/mm</td><td>536</td></tr><tr><td>铁心长度/mm</td><td>580</td></tr><tr><td>定子槽数 (双层绕组)</td><td>60</td></tr><tr><td>转子槽数</td><td>47</td></tr><tr><td>极对数</td><td>2</td></tr><tr><td>硅钢片电导率/(S/m)</td><td>2.2 ×106</td></tr><tr><td>导条电导率/(S/m)</td><td>4.7 ×107</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3dd1e2d425647193f33e30da3744d166236c2ffcddf86335e54d13e69ec93609.jpg",
+        "img_caption": [
+            "图1转子槽形及尺寸变量"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9462aca6843da4de6f82e0598c7a46f08736ec4c1cabf941edda9c4bd98fbd89.jpg",
+        "img_caption": [
+            "Fig.1Rotor slot shape and its geometry dimension variables "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "附加损耗随转子槽口、槽肩高度的变化如图3和图4所示，随转子槽高宽比和转子上下槽宽比的变化如图5和图6所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/bbc8c39e7e98f4801f0447e6c55fab18183e218914cf3567e0b0af037ad5c459.jpg",
+        "img_caption": [
+            "图2附加损耗随转子槽开口的变化曲线",
+            "图3附加损耗随转子槽口高度的变化曲线 Fig.3Additional loss curve along with rotor slot opening height "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分析上图可以得到，电机中总的附加损耗随转子槽开口的增大而减小，随槽口高度的增大而增大。其主要原因与转子漏磁有关。而对比不同的转子槽肩高度、槽高宽比以及上下槽宽比，附加损耗的变化趋势并不明显。因此，本文对各个变量与附加损耗的变化曲线运用拟合函数进行了拟合。其拟合函数如下所示",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3bafe33b6434b81fb59d6c221ef8a6233e8da68e50054e7f4d2f2e5215261985.jpg",
+        "img_caption": [
+            "图4附加损耗随转子槽肩高度的变化曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/59a78513eef093f3ab715c0112bcbdde2fdcb037816db5f26ee2f94339571604.jpg",
+        "img_caption": [
+            "Fig.4Additional loss curve along with rotor shoulder height ",
+            "图5附加损耗随转子槽高宽比的变化曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/944c646135a5dbf51b266ca353c63afff8f697c9a9b24d77f9e2b7c9ed611eb1.jpg",
+        "img_caption": [
+            "Fig.2Additional loss curve along with rotor slot opening ",
+            "Fig.5Additional loss curve along with the depth-width ratic of rotor slot ",
+            "图6附加损耗随转子上下槽宽比的变化曲线",
+            "Fig.6Additional loss curve along with the upper and lower width ratio of rotor slot "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { P _ { \\mathrm { a d } } = 1 1 8 0 3 . 9 b _ { \\mathrm { s } 1 } ^ { - 0 . 1 6 } } } \\\\ { { { } } } \\\\ { { P _ { \\mathrm { u d } } = 1 0 8 0 4 . 7 h _ { \\mathrm { s } 1 } ^ { 0 . 1 3 } } } \\\\ { { { } } } \\\\ { { P _ { \\mathrm { a d } } = 1 2 7 9 1 . 7 - 8 3 3 . 9 h _ { \\mathrm { s } 2 } + 1 2 0 . 1 h _ { \\mathrm { s } 2 } ^ { 2 } } } \\\\ { { { } } } \\\\ { { P _ { \\mathrm { a d } } = 1 3 9 4 1 . 6 - 1 2 6 0 . 7 k _ { 1 } + 1 3 7 . 2 k _ { 1 } ^ { 2 } } } \\\\ { { { } } } \\\\ { { P _ { \\mathrm { a d } } = 6 3 1 4 . 1 + 1 5 6 7 3 . 6 k _ { 2 } - 1 0 1 7 6 . 6 k } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4 优化方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在得到转子槽形尺寸与附加损耗之间的对应关系后，槽形的优化设计步骤归纳如图7所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d01db2f2b843b5a647f037b0c414af5c8ebd8aad9bf143bd153c4eaf0ab9703.jpg",
+        "img_caption": [
+            "图7槽形优化设计流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于拟合函数确定的最佳尺寸对应于附加损耗的最小值，但是其有可能不满足电机设计中的其他性能要求。在电机设计中转子槽形的确定有以下几点要求：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1）转子齿轭部应具有足够的机械强度和刚度。(2）齿轭部的磁密要适当。一般齿部磁密在$1 . 2 5 \\sim 1 . 6 \\mathrm { T }$ 之间，轭部磁密约为 $1 . 0 \\mathrm { T }$ 。(3）导条中的电流密度取值应合适。一般取为$2 . 0 \\times 1 0 ^ { 6 } \\sim 4 . 5 \\times 1 0 ^ { 6 } \\mathrm { { A / m } ^ { 2 } }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "除此之外，以优化电机附加损耗为目标的转子槽优化设计应当基本不改变电机的起动及其他运行性能。根据以上要求，对槽形尺寸进行二次迭代调整，便可得到电机的优化尺寸。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用上述方法，对文中的电机模型进行了优化，其槽尺寸分别为： $b _ { \\mathrm { s 1 } } = 3 . 5 \\mathrm { m m }$ ， $h _ { \\mathrm { s l } } = 1 \\mathrm { m m }$ ， $b _ { \\mathrm { s } 2 } =$ $7 . 9 2 \\mathrm { m m }$ ， $h _ { \\mathrm { s 2 } } = 3 . 5 \\mathrm { m m }$ ， $b _ { \\mathrm { s 3 } } = 6 . 6 \\mathrm { m m }$ ， $h _ { \\mathrm { s 3 } } = 4 2 . 9 \\mathrm { m m }$ 。并将槽形优化前后对应的附加损耗进行了对比，见表2。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2槽形优化前后对应的附加损耗",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/97d93594b6d07f7da536bae2cc7606b968e5624ef6b5eac1133a82bcc4703c21.jpg",
+        "table_caption": [
+            "Tab.2Corresponding additional loss before and after slot optimization "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>电机模型</td><td>定转子铁心/W</td><td>转子导条/W</td><td>总的附加损耗/W</td></tr><tr><td>优化前</td><td>3 065.7</td><td>8 745.4</td><td>11 811.1</td></tr><tr><td>优化后</td><td>3195.0</td><td>6 134.7</td><td>9 329.7</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对比优化前后对应的附加损耗可以发现，优化后定转子铁心中的损耗有所增加，而转子导条的中损耗则明显地降低很多。电机中总的附加损耗相较于优化前降低了 $21 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对优化前后电机的电流及转矩特性也作了对比分析。槽形优化前后的转矩和定子电流曲线如图8和图9所示。由图可以发现，槽形优化后电机的起动转矩稍有降低；而优化后电机的最大转矩有所增大，额定运行时的转矩基本不变。优化前后起动电流和额定运行时电流均基本保持不变。因此，可以确定该种方法的槽形优化基本上不改变电机的其他运行性能。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5061b5b514b80e1b8530bf59808eae768a6a7e9eb99d94af1304327b5e80d676.jpg",
+        "img_caption": [
+            "Fig.7Flow chart of slot optimization design ",
+            "图8槽形优化前后的转矩曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3b1125366ce2abc823f660260058dee8539b72773dbedc22e009cb3217b80a2a.jpg",
+        "img_caption": [
+            "Fig.8Torque-speed curve of motors before and after the ",
+            "图9槽形优化前后的定子电流曲线",
+            "Fig.9Stator current-speed curve of motors before and after the optimization "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5 结论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文以 $1 \\ 0 0 0 \\mathrm { k W }$ 、 $1 0 \\mathrm { k V }$ 的干式潜水电机为例，讨论了以降低电机附加损耗为目的的转子槽形优化方法。其结果表明该种优化方法可以在基本不改变电机其他性能的前提下，实现电机的附加损耗降低，使其数值较优化前下降了 $21 \\%$ 。该种方法的优点在于可以明确各个槽形尺寸变量对附加损耗的影响并快速确定槽的优化尺寸；缺点是其不具有普遍适用性，即目前无法根据电机参数直接确定拟合函数，对于不同型号的电机均需要先进行仿真分析才能确定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] Zhang Dianhai.A new optimal design method of rotor slot of three-phase squirrel cage induction motor for NEMA class D speed-torque characteristic using multi-objective optimization algorithm[J].IEEE Transactions on Magnetics,2012,48(2): 879-882.   \n[2] Gyoeorye Lee.Optimal shape design of rotor slot in squirrel-cage induction motor considering torque characteristic[J]. IEEE Transactions on Magnetics, 2013,49(5): 2197-2200.   \n[3] 辛本雨．降低谐波铜耗的变频调速异步电机转子 槽设计[D]．重庆：重庆大学，2009.   \n[4] 杜肖飞，候砚泽，孙楚，等．航空变频电源下笼 型感应电机矩形转子槽结构优化分析[J]．航空学 报，2015，36(2)：614-624. Du Xiaofei,Hou Yanze, Sun Chu, et al. Optimization analysis of rectangular rotor slot of cage induction motor operating with aero variable frequency power[J]. Acta Aeronautica Et Astronautica Sinica, 2015,36(2): 614-624.   \n[5] 孙跃．笼形感应电机转子槽肩角对电机性能的影 响[J]．电气工程学报，2015，10(8)：68-73. Sun Yue.Influence of rotor slot shoulder angle on the performance of cage induction motors[J]. Journal of Electrical Engineering,2015,10(8): 68-73.   \n[6] 赵海森，刘晓芳，杨亚秋，等．基于时步有限元 分析的超高效电机定子槽型优化设计[J]．中国电 机工程学报，2011，31(33)：115-122. Zhao Haisen,Liu Xiaofang,Yang Yaqiu,et al. Stator slot optimal design of premium motors based on time-stepping finite element method[J]. Proceedings of the CSEE,2011,31(33): 115-122.   \n[7] 康燕琴，上官璇封，肖佳乐．圆筒型直线感应电 机的遗传优化设计[J]．机电工程，2008，25(8)： 72-75. Kang Yanqin,ShangGuang Xuanfeng,Xiao Jiale. Optimization design of tubular linear induction motor based on genetic algorithm[J].Mechanical & Electrical Engineering Magazine, 2008,25(8): 72- 75.   \n[8] 叶剑秋．变频调速电机转子槽形优化设计[J]．微 特电机，1999(3)：30-32. Ye Jianqiu. The optimal design for the rotor slot of induction motor of variable frequency speed regulation[J]. Small & Special Machines,1999(3): 30-32.   \n[9] Williamson Stephen,McClay Catherine I. Optimization of the geometry of closed rotor slots for cage induction motors[J]. IEEE Transactions on Industry Applications.1996, 32(3): 560-568.   \n[10] Hamed Gorginpour,Hashem Oraee.Calculation of core and stray load losses in brushless doubly fed induction generators[J]. IEEE Transaction on Industrial Electronics,2014,61(7): 3167-3176.   \n[11] Katsumi Yamazaki, Noriaki Fukushima.Iron loss model for rotating machines using direct eddy current analysis in electrical steel sheets[J]. IEEE Transactions on Energy Conversion,2010,25(3): 633-641. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

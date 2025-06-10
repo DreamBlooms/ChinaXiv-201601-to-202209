@@ -1,0 +1,679 @@
+[
+    {
+        "type": "text",
+        "text": "Thymidine Kinase 1 (TK1) 重组蛋白的表达、纯化及鉴定",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王云龙¹'²，赵二霞1，李玉林²等（1.郑州大学生命科学学院，河南郑州 450001；2.河南省生物工程技术研究中心，河南 郑州 450001；3.郑州市生物制药重点实验室，河南郑州450001)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(2. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为获得具有免疫原性的TK1重组蛋白。通过构建能够表达TK1蛋白的重组菌BL21-pET32a-TK1,采用大肠杆菌 pET32a表达系统，优化IPTG浓度、诱导温度、诱导时间使BL21-pET32a-TK1重组菌表达目的蛋白的作用条件最佳。表达产物用镍离子亲和层析纯化获得TK1蛋白，并用 SDS-PAGE 和western blot 进行检测。用TK1重组蛋白免疫BALB/c小鼠制备单克隆抗体，检测蛋白免疫原性。实验结果表明：成功构建能够表达TK1蛋白的重组菌BL21-pET32a-TK1，在 $3 7 ^ { \\circ } \\mathrm { C }$ 条件下，IPTG浓度为 $0 . 2 \\mathrm { m M / L }$ 、诱导6h时重组蛋白TK1表达量最高。镍离子亲和层析梯度洗脱在 $8 0 \\mathrm { m M }$ 咪唑条件下TK1蛋白纯度最大，灰度分析为 $87 . 3 \\%$ ，浓缩后蛋白浓度为 $5 . 9 6 \\mathrm { { m g / m l } }$ 。用该蛋白制备杂交瘤共获得10 株稳定分泌TK1抗体的阳性单克隆细胞株，表明TK1重组蛋白具有较好的免疫原性。本实验成功获得可溶性、抗原活性高、免疫原性强的TK1重组蛋白，为肿瘤科学及临床应用研究提供物质支撑。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：重组菌，TK1，表达条件优化，亲和层析，单克隆抗体1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Expression,purification and identification of thymidine kinase 1 recombinant protein ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Yun-long1.2， ZHAO Er-xia1，LI Yu-lin ² et al (SchoolofLife Science,Zhengzhou UniversityHenan Zhengzhou 45oool;Henan Biotechnology Research Center,Henan Zhengzhou 45oool; Zhengzhou Biopharmaceutical Key Laboratory,Henan Zhengzhou 450001) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In order to obtain the TK1 recombinant protein with immunogenicity. The target gene was amplified by PCR， double digested with XhoI / EcoRI restriction endonuclease,linked to the expresson vector pET32a,and then transferred into competent cells to prepare BL21-pET32a-TK1 recombinant strain. The TK1 protein was expressed by IPTG induced BL21-pET32a-TK1 recombinant bacteria and optimized from IPTG concentration, culture temperature and time. The expression level of recombinant protein TK1 was tested by SDS-PAGE,and determined the optimal induction conditions. The expressed product was purified by nickel ion affinity chromatography, used SDS-PAGE to detect the purity of the target protein ,and the antigenicity of the target protein was detected by western blot. Used the obtained TKl recombinant protein to immunize the mice, took the spleen cells of the best immune effect mice to fuse with SP2/0. Screened monoclonal cell lines that secreting specific antibodies stably. And then detected the subtype and specificity of antibody. The experimental results showed that the condition of $3 7 \\ \\mathrm { { ^ \\circ C } }$ ,when the concentration of IPTG was $0 . 2 \\mathrm { m M / L }$ and induced for 6h meanwhile, the recombinant protein expression quantity of TK1 was highest. Under the condition of nickel ion affinity chromatography gradient elution, in $8 0 \\mathrm { m M }$ imidazole,the content of recombinant protein TK1 was the highest purity. It was $8 7 . 3 \\%$ . After concentrating， the protein concentration was $5 . 9 6 \\mathrm { { m g / m l } }$ With indirect ELISA detection ,10 strains of cell that can stable secretion specificity TK1 antibody by hybridoma technology were obtained. this suggests that TK1 recombinant protein have immunogenicity.It can provide the material base for the clinical research of related tumors. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words: recombinant bacteria,thymidine kinase 1,expression,affinity chromatograph, monoclonal antibody ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "胸苷激酶1[1]（thymidinekinase1，TK1）在镁离子（ $\\mathrm { M g ^ { 2 + } }$ ）和 ATP参与的条件下可磷酸化脱氧胸苷为脱氧胸苷一磷酸,是DNA补救合成途径的关键酶。TK1 存在于细胞质中，呈细胞周期依赖性[2-4]。正常成人细胞中TK1含量极低（ ${ \\mathrm { \\Omega } } { < } 2 { \\mathrm { \\ p m o l / L } }$ ），只有细胞过度增殖的情况下TK1浓度才会升高释放至体液，导致血清胸苷激酶1（STK1）水平增加[5]。因此，TK1可作为肿瘤细胞标志物用于乳腺癌、肠胃癌、鼻咽癌、原发性肝癌等不同类型恶性肿瘤的早期检测，评估手术、放化疗等治疗效果及肿瘤复发风险等[6-15]。目前获得 TK1抗原一方面通过多肽段的合成，多肽合成不仅获得的抗原数量有限，而且为了获得较强的免疫原性需要偶联生物大分子，由于无关蛋白的引入也为单抗的筛选带来新问题。另一方面采用pET28a-TK1重组载体原核表达TK1蛋白，pET28a不能很好的实现蛋白的可溶性表达，在变性复性的过程中容易使蛋白失活。为了获得更加优质的TK1蛋白，本实验探索构建重组菌，采用大肠杆菌 pET32a表达系统，通过优化IPTG 浓度、温度、时间使BL21-pET32a-TK1重组菌表达目的蛋白的作用条件最佳、产物经镍离子亲和层析纯化后获得高纯度的TK1蛋白，经动物免疫制备单克隆抗体初步验证TK1重组蛋白的免疫原性和生物活性达到实验要求，为肿瘤科学及临床应用研究提供了物质支撑。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从GenBank搜索人TK1基因序列，由生工生物工程（上海）股份有限公司合成。TK1抗体、表达载体pET32a 购自生工生物工程（上海）股份有限公司，表达菌 BL21、BALB/c小鼠、HRP 标记兔抗鼠-IgG 抗体由河南省生物工程技术研究中心提供，TK1阳/阴性血清取自郑州大学第一附属医院。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/8517686a5af8bf4a715a773a6edb3f976ec066fcb6d7e366db0a8a7cbdd6f500.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Primer name</td><td>Primer sequence (5'-3')</td><td>restriction enzyme</td></tr><tr><td>5'-Primer</td><td>GGAATTCCATATGAGCTGCATTAACCTG CCCA</td><td>EcoRI</td></tr><tr><td>3'-Primer</td><td>CCGCTCGAGTCAGTTGGCAGGGCTGCA</td><td>XhoI</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 主要试剂",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "甲叉双丙烯酰胺、 $\\beta \\cdot$ -巯基乙醇、TEMED 购自 sigma，DNAMarker、ECL发光液购自北京康为世纪生物科技有限公司，IPTG、TaqDNA聚合酶、T4DNA连接酶、限制性内切酶XhoI、EcoRI购自TaKaRa，预染蛋白Marker 购自国药集团化学试剂有限公司，PVDF 膜购自Millipore。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1BL21-pET32a-TK1重组菌的构建 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1)PCR扩增目的基因反应条件： $9 3 ^ { \\circ } \\mathrm { C }$ 预变性5min, $9 3 ^ { \\circ } \\mathrm { C }$ 变性30s, $6 0 ^ { \\circ } \\mathrm { C }$ 复性30s， $7 2 ^ { \\circ } \\mathrm { C }$ 延伸 40s，共30个循环， $7 2 ^ { \\circ } \\mathrm { C }$ 延伸 $5 \\mathrm { m i n }$ 。扩增产物用 $0 . 7 \\%$ 琼脂糖凝胶电泳鉴定后用胶回收试剂盒回收。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）目的基因片段和pET32a表达载体在 $3 7 ^ { \\circ } \\mathrm { C }$ 条件下用 EcoRI、XhoI双酶切2h，鉴定后胶回收，在 $1 6 ^ { \\circ } \\mathrm { C }$ 、T4DNA连接酶条件下过夜反应，转入感受态细胞BL21，挑取阳性单菌落，双酶切鉴定后送生工生物工程（上海）股份有限公司测序。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2重组菌初步诱导 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将鉴定正确的BL21-pET32a-TK1大肠杆菌和转入空质粒的BL21-pET32a大肠杆菌（对照）同时进行诱导，确定是否有TK1蛋白表达以及表达形式。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）分别挑取BL21-pET32a-TK1和BL21-pET32a单菌落，扩大培养至A600 为0.6-0.8。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）取1ml菌液做对照（未诱导），剩余菌液加IPTG至终浓度为1mM，$3 7 ^ { \\circ } \\mathrm { C }$ 、180rpm 震荡培养 4h。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（3）8000rpm、离心5min分别收取菌体和上清，用PB重悬菌体。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（4）超声波破碎菌体、 $1 0 \\ : 0 0 0 \\mathrm { r p m }$ 、离心 $1 0 \\mathrm { { m i n } }$ ，分别收取沉淀和上清。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.3初步诱导后SDS-PAGE检测 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以未诱导的 BL21-pET32a-TK1大肠杆菌菌液、IPTG 诱导的 BL21-pET32a大肠杆菌菌液与IPTG 诱导的 BL21-pET32a-TK1大肠杆菌菌液做对照，对上述收取的样品处理后以 $5 \\%$ 浓缩胶， $1 5 \\%$ 分离胶进行 SDS-PAGE 检测。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.4重组菌诱导表达条件优化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分别从IPTG作用浓度、培养温度、培养时间三个因素对BL21-pET32a-TK1重组菌进行诱导表达，对超声破碎后菌液上清进行SDS-PAGE检测确定最佳表达条件。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1） $3 7 ^ { \\circ } \\mathrm { C }$ 、诱导6h，IPTG 浓度设定 $0 . 1 \\mathrm { m M }$ 、 $0 . 2 \\mathrm { m M }$ 、 $0 . 5 \\mathrm { m M }$ 、1.0mM、$1 . 5 \\mathrm { m M } 5$ 个水平[16]，确定 IPTG 作用浓度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（2）用上述实验确定的最佳IPTG作用浓度、诱导6h，温度设定 $2 5 \\mathrm { { ^ \\circ C } }$ 、$3 0 ^ { \\circ } \\mathrm { C }$ 、 $3 7 ^ { \\circ } \\mathrm { C }$ 、 $4 0 ^ { \\circ } \\mathrm { C } ~ 4$ 个水平，确定培养温度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（3）用上述实验确定的最佳IPTG作用浓度、培养温度，时间设定2h、4h、6h、8h4个水平，确定培养时间。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.5纯化TK1蛋白",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）根据优化后的条件对重组菌进行诱导表达， $8 \\ : 0 0 0 \\mathrm { r p m }$ 、离心5min收集菌体。冰浴条件下超声破碎（400W，工作5s，间歇5s，循环 $1 5 \\mathrm { m i n }$ ），$1 0 \\ : 0 0 0 \\mathrm { r p m }$ 、离心10min 后取上清。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（2）用AKTAprimePlus蛋白纯化仪纯化TK1蛋白，柱压限定小于0.3Mpa。上样前依次用0.5MNaOH(含0.05MEDTA)、超纯水、 $3 \\%$ 硫酸镍、超纯水、PB（0.02M、PH7.8）将镍亲和层析柱[17-19]进行处理。上样流速为$1 \\mathrm { m l / m i n }$ ，上样完成后用0、20、50、80、100、 $2 0 0 \\mathrm { m M }$ 咪唑蛋白洗脱液进行梯度洗脱，收集洗脱样品进行SDS-PAGE 检测，并测其蛋白浓度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.6 Westernblot检测蛋白抗原性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "纯化的 TK1蛋白样品处理后进行 SDS-PAGE 电泳，切下目的条带凝胶，转膜。将PVDF 膜置于封闭液中封闭2h，加入1：4000 稀释的 TK1抗体 $3 7 ^ { \\circ } \\mathrm { C }$ 孵育 2h。加入1：4000 稀释的兔抗鼠-IgG 酶标二抗 $3 7 ^ { \\circ } \\mathrm { C }$ 孵育1h，显色[20]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.7制备多克隆抗体检测蛋白免疫原性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用获得的TK1重组蛋白添加佐剂腹腔免疫6-8周龄的BALB/c雌性小鼠3只，每次 $1 0 0 \\mathrm { { u g / } }$ 只，第三次免疫后用ELISA间接法（每孔包被TK1重组蛋白$1 0 0 \\mathrm { n g }$ ，兔抗鼠-IgG 酶标二抗1：4000 稀释），通过倍比稀释检测小鼠抗体血清效价。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.8筛选阳性单克隆细胞株 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "选用免疫效果最好的小鼠，脾内加强免疫（20ug）后取其脾细胞和 SP2/0细胞融合，通过有限稀释法、克隆化和ELISA检测（同1.3.7）筛选出能稳定分泌抗TK1抗体的阳性单克隆细胞株[21]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.9TK1单抗鉴定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）单抗亚型的鉴定按照鼠单克隆抗体亚型鉴定试剂盒操作说明对上述筛选的阳性单克隆细胞株进行鉴定。（2）特异性检测通过包被Trx蛋白（ $\\lvert 0 0 \\mathrm { n g / }$ 孔）、TK1标准品（ $5 0 \\mathrm { n g / }$ 孔），采用 ELISA间接法（兔抗鼠-IgG 酶标二抗1：4000 稀释）检测10 株单抗的特异性。（3）竞争抑制实验取10 株阳性单克隆细胞株培养上清，各处理三份：样品稀释液稀释、上清与TK1阳性血清混合、上清与TK1阴性血清混合。确定该抗体是否仅与血清中TK1抗原结合。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1BL21-pET32a-TK1重组菌的构建 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "目的基因扩增后经 $0 . 7 \\%$ 琼脂糖凝胶电泳检测在约700bp处有目的条带，与预期结果相符（图1）。重组质粒双酶切鉴定在约700bp 处有目的条带和质粒条带，与预期结果相符（图2）。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/df9aac34a2865d53c70c4e48f10a01a2b2f3797345d93353435123d8ae97265d.jpg",
+        "img_caption": [
+            "图1：目的基因扩增Fig. 1: PCR of purpose gene"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1：DNAMarker；2：TK1目的条带",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1：DNAMarker；2：TK1 fragment",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/19ff7214bea895b50f92e5085759621d799c847d76e433dc09b371a84611b346.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图2：pET32a-TK1质粒双酶切鉴定",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.2:Double digestion recombinant plasmid pET32a-TK1 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1：DNAMarker；2：pET32a-TK1质粒双酶切  \n1：DNA Marker；2：Double digestion of pET32a-TK1 plasmid",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2重组菌初步诱导SDS-PAGE检测 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "SDS-PAGE检测实验结果显示（图3）：在 $3 7 ^ { \\circ } \\mathrm { C }$ 、 $1 . 0 ~ \\mathrm { m M }$ IPTG作用浓度下诱导4h目的蛋白为可溶性表达。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f95b101bf00451b3cd6ea8c47198647eee372d3ea871dca6e4e80fdeee0e4b2.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图3：TK1蛋白初步诱导SDS-PAGE检测",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.3:SDS-PAGE detection of TK1 protein preliminary induced ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1：诱导前 BL21-pET32a-TK1；2：诱导后BL21-pET32a-TK1；3：诱导后BL21-pET32a；4：蛋白 Marker；5：诱导后上清； 6：诱导后菌体；7：超声破碎后离心上清；8：超声破碎后离心沉淀   \n1：Before inductionofBL21-pET32a-TK1；2：After inductionofBL21-pET32a-TK1；3：After inductionofBL21-pET32a；4: ProteinMarker;5:Bacterialiquidcentrifugalsuperatantafterinduction;6:Afterinductionofbacteria;7centrifugalsupeatant after ultrasonication；8：Centrifugal sedimentation after ultrasonication ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3重组菌诱导表达条件优化",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）IPTG作用浓度确定： $3 7 ^ { \\circ } \\mathrm { C }$ 、诱导6h，通过改变IPTG 浓度所得实验结果如图4，灰度分析结果如图5。结果显示IPTG 在 $0 . 2 \\mathrm { m M }$ 之后，增大浓度对蛋白表达量影响不大，确定IPTG诱导浓度为 $0 . 2 \\mathrm { m M }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/41a18af7b1124468e6a32209831a0916cd52eda05de3803d48a8ad8fe54981fd.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图4：IPTG浓度优化SDS-PAGE检测 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.4:SDS-PAGE detection of IPTG concentration optimization ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1：诱导前BL21-pET32a-TK1；2：蛋白Marker；3：IPTG $0 . 1 \\mathrm { m M }$ ；4：IPTG $0 . 2 \\mathrm { m M }$ ；5：IPTG $0 . 5 \\mathrm { m M }$ ；6：IPTG $1 . 0 \\mathrm { m M }$   \n7:IPTG $1 . 5 \\mathrm { m M }$   \n1：Before induction ofBL21-pET32a-TK1；2：Protein Marker；3：IPTG $0 . 1 \\mathrm { m M }$ ；4:IPTG $0 . 2 \\mathrm { m M }$ ；5:IPTG $0 . 5 \\mathrm { m M }$ ·  \n6:IPTG $1 . 0 \\mathrm { m M }$ ；7：IPTG1.5mM",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea429b46cdcdb12d73023b034df7bb435322e732e7a5b7285eef3c99c8514500.jpg",
+        "img_caption": [
+            "图5：不同浓度IPTG灰度分析Fig.5:GrayanalysisofDifferentIPTGconcentration"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）诱导温度确定： $0 . 2 \\mathrm { m M }$ IPTG、诱导6h，通过改变诱导温度所得实验结果如图6，灰度分析结果如图7。结果显示温度在 $3 7 ^ { \\circ } \\mathrm { C }$ 时目的蛋白TK1表达量最高。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ec930603c9f647006cb66fdeeeef60cb796adf1debf909115e6db6ab3a2c606f.jpg",
+        "img_caption": [
+            "图6：诱导温度优化SDS-PAGE检测"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.6: SDS-PAGE detection of induction temperature optimization ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1：诱导前BL21-pET32a-TK1；2：蛋白Marker；3： $2 5 \\mathrm { { ^ \\circ C } }$ ；4： $3 0 ^ { \\circ } \\mathrm { C }$ ；5： $3 7 ^ { \\circ } \\mathrm { C }$ ；6： $4 0 ^ { \\circ } \\mathrm { C }$ Before induction of BL21-pET32a-TK1；2：Protein Marker；3： $2 5 \\mathrm { { ^ \\circ C } }$ ；4： $3 0 ^ { \\circ } \\mathrm { C }$ ；5： $3 7 ^ { \\circ } \\mathrm { C }$ ；6： $4 0 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0509aef0718ee467023dc3b8b7b08599706e89b4497f298dc9710902974188f.jpg",
+        "img_caption": [
+            "图7：不同温度灰度分析Fig.7:GrayanalysisofDifferent induction temperature"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）诱导时间确定： $3 7 ^ { \\circ } \\mathrm { C }$ 、 $0 . 2 \\mathrm { m M }$ IPTG作用浓度下，通过改变诱导时间所得实验结果如图8，灰度分析结果如图9。结果显示诱导6h时目的蛋白TK1表达量最高。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a668b26afb78334d3405e492f5c7f02bf1923d881b0318d8146292ccdce6fdd4.jpg",
+        "img_caption": [
+            "图8：诱导时间优化SDS-PAGE检测"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.8:SDS-PAGE detection of induction time optimization ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1：2h；2：4h；3：6h；4：8h；5：诱导前BL21-pET32a-TK1；6：蛋白Marker;  \n1：2h；2：4h；3：6h；4：8h；5：Before induction of BL21-pET32a-TK1；6：Protein Marker",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/2264776a3837fbfc7d0f4d31c2af28095e0573faaf8ea4b16002a12f691709a3.jpg",
+        "img_caption": [
+            "图9：不同时间灰度分析",
+            "Fig.9:Grayanalysis of Different induction time "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综上：该实验在 $3 7 ^ { \\circ } \\mathrm { C }$ 、IPTG作用浓度为 $0 . 2 \\mathrm { m M }$ 条件下，诱导6h目的蛋白 TK1表达量最高。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4 纯化TK1蛋白",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表达产物经镍离子亲和层析纯化，SDS-PAGE检测在36KDa有明显的蛋白条带，灰度分析纯度为 $87 . 3 \\%$ ，经紫外分光光度计检测浓度为 $2 . 4 8 \\mathrm { m g / m l }$ 。浓缩后蛋白浓度为 $5 . 9 6 \\mathrm { { m g / m l } }$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/8830268322b2e5e7129bf7870fe1ac1590b57cabed7c1d1f736b917489123676.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图10：TK1蛋白亲和纯化",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.10:Affinity purification of TK1 protein ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1：上样；2： $2 0 \\mathrm { m M }$ 咪唑洗脱峰；3： $5 0 \\mathrm { m M }$ 咪唑洗脱峰；4： $8 0 \\mathrm { m M }$ 咪唑洗脱峰；5： $1 0 0 \\mathrm { m M }$ 咪唑洗脱峰;   \n1：upper sample；2： $2 0 \\mathrm { m M }$ imidazole elution peak；3： $5 0 \\mathrm { m M }$ imidazole elution peak；4： $8 0 \\mathrm { m M }$ imidazole elution peak ;   \n5： $\\boldsymbol { 1 0 0 } \\mathrm { m M }$ imidazole elution peak ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/db21f712502d35b9a9b0ddf1b6bef80d60f8f77423233c47b8e6c3518cdd4da7.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图11：纯化后SDS-PAGE检测",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.11: SDS-PAGE detection of After purification ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1：蛋白Marker；2： $8 0 \\mathrm { m M }$ 咪唑洗脱蛋白；3：诱导后BL21-pET32a-TK1  \n1：Protein Marker；2： $8 0 \\mathrm { m M }$ imidazole elution protein；3：After induction of BL21-pET32a-TK1",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.5Westernblot检测蛋白抗原性",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/835bf1c4f879f9072580618b81f6cb0df1909c4e3c578c6d8019bfff8693709b.jpg",
+        "img_caption": [
+            "图12：Western blot检测"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1：蛋白Marker；2：TK1蛋白  \n1：Protein Marker；2：TKl protein  \n2.6制备多克隆抗体检测蛋白免疫原性",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "结果显示（表1）免疫后3只小鼠的抗体血清效价均达到 $1 { : } 1 . 2 8 { \\times } 1 0 ^ { 5 }$ ，且B小鼠免疫效果最好。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/f57ba0d868bea01c1aed5f42fa1aef9d213c75e1aad4bfc434ba75e6e3a53e5f.jpg",
+        "table_caption": [
+            "表1：抗体血清效价检测Table 1：Detection of antibody titer serum"
+        ],
+        "table_footnote": [
+            "注：OD值 $> 0 . 1 0 5$ 为阳性反应 Note: $O D > 0 . 1 0 5$ as positive response "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td></tr><tr><td>A</td><td>2.432</td><td>2.148</td><td>2.187</td><td>1.784</td><td>1.195</td><td>0.640</td><td>0.352</td><td>0.182</td><td>0.125</td><td>0.039</td><td>1.765</td><td>0.973</td></tr><tr><td>B</td><td>2.344</td><td>2.079</td><td>2.032</td><td>1.886</td><td>1.338</td><td>0.811</td><td>0.462</td><td>0.253</td><td>0.134</td><td>0.065</td><td>0.045</td><td>0.038</td></tr><tr><td>C</td><td>2.402</td><td>1.999</td><td>1.805</td><td>1.121</td><td>0.748</td><td>0.378</td><td>0.239</td><td>0.145</td><td>0.101</td><td>0.048</td><td>0.027</td><td>0.020</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.7筛选阳性单克隆细胞株 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "单克隆细胞上清液 $1 { : } 1 . 2 8 { \\times } 1 0 ^ { 5 }$ 稀释后通过ELISA间接法检测（表2），成功筛选出10株阳性单克隆细胞，分别命名为：1D8、1G3、2C10、3B7、3D5、4F9、4G3、5A6、5E3、6D5。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/39f2d3f129e0b4f915e5dafc0e3a6cf1a6a261f49cd7db80fb0031f72d5ce0a7.jpg",
+        "table_caption": [
+            "表2：阳性单克隆细胞株ELISA检测"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td></tr><tr><td>cell lines</td><td>1D8</td><td>1G3</td><td>2C10</td><td>3B7</td><td>3D5</td><td>4F9</td><td>4G3</td><td>5A6</td><td>5E3</td><td>6D5</td><td>+</td><td>-</td></tr><tr><td>OD</td><td>0.306</td><td>0.447</td><td>0.319</td><td>0.405</td><td>0.283</td><td>0.345</td><td>0.371</td><td>0.387</td><td>0.495</td><td>0.222</td><td>1.826</td><td>0.055</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.8TK1单抗鉴定",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "亚型鉴定结果如表3，特异性检测结果如表4，竞争性抑制检测结果如表5，表明所得10株单抗仅与TK1抗原特异性结合，可用于检测方法的建立。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表3：阳性单克隆细胞株亚型鉴定",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/50f0edb4cd9870899c21b3a412641126a9c07f0afb9b2558162019d93dd13c38.jpg",
+        "table_caption": [
+            "Table 2：ELISA detection ofpositive monoclonalcell lines ",
+            "Table 3：Sub-type identification of positive monoclonal cell lines "
+        ],
+        "table_footnote": [
+            "注：+：阳性对照；-：阴性对照； $O D$ 值 $> 0 . 1 0 5$ 为阳性反应 Note: $^ +$ : positive control; - : negative control; $O D > 0 . 1 0 5$ as positive response ",
+            "表4：阳性单克隆细胞株特异性鉴定 Table 4: Specific identification of positive monoclonal cell lines "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td></tr><tr><td>cell lines</td><td>1D8</td><td>1G3</td><td>2C10</td><td>3B7</td><td>3D5</td><td>4F9</td><td>4G3</td><td>5A6</td><td>5E3</td><td>6D5</td></tr><tr><td>Sub-type</td><td>IgG1</td><td>IgG1</td><td>IgG1</td><td>IgG1</td><td>IgG2a</td><td>IgG1</td><td>IgG1</td><td>IgG1</td><td>IgG1</td><td>IgG1</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/e470f4ea013ac08a97ac371f98a1f973f01a65e9bb8c97b78afbe0dc925f0373.jpg",
+        "table_caption": [
+            "表5：竞争性抑制检测结果"
+        ],
+        "table_footnote": [
+            "注： $^ +$ ：阳性反应；-：阴性反应Note: $^ +$ :positive response； - : negative response"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>1D8</td><td>1G3</td><td>2C10</td><td>3B7</td><td>3D5</td><td>4F9</td><td>4G3</td><td>5A6</td><td>5E3</td><td>6D5</td><td>Ab-TK1</td><td></td></tr><tr><td>Trx</td><td>-</td><td></td><td>=</td><td>=</td><td></td><td>1</td><td>=</td><td>=</td><td>=</td><td>=</td><td>1</td><td></td></tr><tr><td>TK1</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td></td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/11db0ee372f0448fda161a625b7753ebd4faa2342722bfd3179b1590246831aa.jpg",
+        "table_caption": [
+            "Table 5: Competitive inhibition test results "
+        ],
+        "table_footnote": [
+            "注：A：稀释后单抗；B：单抗与TK1阳性血清混合液；C：单抗与TK1阴性血清混合液； $^ +$ ：阳性对照；-：阴性对照 Note:A: diluted monoclonal antibody；B: monoclonal antibody and TK1 positive serum mixture；C: monoclonal antibody and TK1 negative serum mixture; $^ +$ : positive response；- : negative response "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>1D8</td><td>1G3</td><td>2C10</td><td>3B7</td><td>3D5</td><td>4F9</td><td>4G3</td><td>5A6</td><td>5E3</td><td>6D5</td><td>+</td><td>1</td></tr><tr><td>A</td><td>0.315</td><td>0.434</td><td>0.322</td><td>0.395</td><td>0.292</td><td>0.331</td><td>0.358</td><td>0.382</td><td>0.459</td><td>0.216</td><td>0.325</td><td>0.043</td></tr><tr><td>B</td><td>0.039</td><td>0.048</td><td>0.045</td><td>0.047</td><td>0.036</td><td>0.039</td><td>0.047</td><td>0.044</td><td>0.042</td><td>0.037</td><td>0.041</td><td>0.039</td></tr><tr><td>C</td><td>0.312</td><td>0.431</td><td>0.325</td><td>0.387</td><td>0.288</td><td>0.336</td><td>0.363</td><td>0.378</td><td>0.447</td><td>0.222</td><td>0.331</td><td>0.040</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "TK1是DNA补救合成途径的关键酶。目前研究认为TK1可作为一种灵敏有效的肿瘤细胞增殖标志物。在近十年里，多个实验室制备了不同的抗TK1抗体用于肿瘤疾病的鉴定和监控，但灵敏度较低[5]。TK1的来源是业内积极研究和亟待解决的热点和难点。获取TK1抗原的方法有培养Raji细胞，从细胞提取物中纯化获得天然TK1蛋白[22]；有分析TK1抗原表位，合成N端23肽（3-25）、C端20肽（206-225）、C端28肽（198-225）等多肽段偶联生物大分子[5]；有利用重组载体pET28a-TK1诱导表达TK1重组蛋白[16]。本实验采用大肠杆菌pET32a表达系统，选用的pET32a表达载体可以实现蛋白的可溶性表达，his标签有利于目的蛋白从杂蛋白中分离纯化。与纯化天然蛋白相比得到的蛋白纯度更高；与合成多肽段偶联生物大分子相比，全蛋白作为抗原免疫动物获得的抗体特异性和灵敏度更高。在本实验方法下可以快速、大量获得优质的TK1蛋白。在肿瘤标志物研究和临床检测试剂的研制上有很好的应用前景。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本实验成功构建能够表达TK1蛋白的重组菌BL21-pET32a-TK1，获得可溶性、抗原活性高、免疫原性强的TK1重组蛋白。为肿瘤科学及临床应用研究提",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "供了物质支撑。",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1] Munch-Petersen B,Cloos L,Jensen HK,et al. Human thymidine kinase 1.Regulation in normal and malignant cells[J].Adv Enzyme Regul, 1995,35(1): 69-89.   \n[2] JKiran Kumar,A.C.Aronsson, G.Pilko,et al.A clinical evaluation of the TK 210 ELISA in sera from breast cancer patients demonstrates high sensitivity and specificity in all stages of disease[J]. Tumour Biol, 2016,37(9): 11937-11945.   \n[3]Fabio Gasparri, Naining Wang, Sven Skog, et al. Thymidine kinase 1 expression defines an activated G1 state of the cell cycle as revealed with site-specific antibodies and ArrayScanTM assays[J]. European Journal of Cell Biol0gy,2009,88(1): 779-785.   \n[4] Ke PY,Yang CC,Tsai IC,et al. Degradation of human thymidine kinase is dependent on serine-13 phosphorylation:involvement of the SCF-mediated pathway[J]. Biochem J, 2003,370(1): 265-273.   \n[5]周际，李劲，斯文·斯库格,等．一种多表位TK1抗体的制备及其在评估肿瘤患者治疗效果中的应用 [P].中国广东，CN102516390A,2012-06-27.   \n[5] Zhou J,Li J, Skog S,et al. Preparation of a multi epitope TKl antibody and its application in evaluating therapeutic effect of tumor patients[p]. Guangdong, China, CN102516390A,2012-06-27.   \n[6] He E,Xu XH,Guan H,et al.Thymidine kinase 1 is a potential marker for prognosis and monitoring the response to treatment of patients with breast,lung,and esophageal cancer and non-Hodgkin's lymphoma[J]. Nucleosides Nucleotides Nucleic Acids,2010,29(1): 4-6.   \n[7] Rausch S，Hennenlotter J， Teepe K，et al. Muscle-invasive bladder cancer is characterized by overexpression of thymidine kinase 1[J]. Urol Oncol, 2015,33(10): 426-426.   \n[8] Gang Chen,Cheng He,Ling Li,et al. Nuclear TK1 expression is an independent prognostic factor for survival in pre-malignant and malignant lesions of the cervix[J]. BMC Cancer,2013,13(1): 249-249. [9] Ying-Ying Du, Qiu-Jun Zhang, Guo-Ping Sun. Expression and clinical significance of cytokeratin-19 and thymidine kinase-1 in advanced gastrointestinal cancer[J]. Chinese Medical Journal, 2016,129（18）: 2168-2172.   \n[10] 朱艳哲，马泰，张从军,等．血清胸苷激酶1在肿瘤患者中的表达及临床意义[J]．安徽医科大学学 报,2015,50(7): 1012-1015.   \n[10] Zhu YZ, Ma T, Zhang CJ,et al. The expresson and clinical significance of serum thymidine kinase 1 in cancer patients[J]. Acta Universitatis Medicinalis Anhui, 2015, 50(7): 1012-1015.   \n[11] 刘秀菊,周际,李远,等．一种新肿瘤生长相关生物标志物胸苷激酶1临床应用进展[J]．中国药理学 与毒理学杂志,2011,25(1):123-126.   \n[11] Liu XJ, Zhou J,Li Y,et al. Progressin clinical application of a new tumor growth related biomarker thymidine kinase 1[J]. Chin J Pharmacol Toxicol, 2011,25(1): 123-126.   \n[12] O'NeillKL, Zhang F,Li H,et al.Thymidine kinase 1—a prognostic and diagnostic indicator inALLand AML patients[J].Leukemia, 2007,21(3): 560-563.   \n[13] Hallek M, Wanders L, Strohmeyer S,et al.Thymidine kinase:a tumor marker with prognostic value for non-Hodgkin's lymphoma and a broad range of potential clinical applications[J].Ann Hematol,1992, 65(1): 1-5.   \n[14] He Q, Zou L,Li H,et al. Concentration of thymidine kinase 1 in serum (S-TK1) is a more sensitive proliferation marker in human solid tumors than its activity[J]. Oncology Reports,2005,14(4): 1013-1019. [15] Wang Y, Jiang X,Dong S,et al. Serum TK1 is a more reliable marker than CEA and AFP for cancer screening in a study of 56,286 people [J]. Cancer Biomark, 2016,16(4): 529-536. [16] 庞丽君,王珊珊,吴云等.胸苷激酶1原核表达载体的构建表达及鉴定[J]．医药论坛杂志,2015,36(8): 6-8.   \n[16] Pang LJ,Wang SS,Wu Y,et al. Construction, expression and identification of Thymidine kinase 1 prokaryotic expression vector[J]. JMedical Forum, 2015,36(8): 6-8.   \n[17] 陈爱春,彭伟,汪生鹏．亲和标签在重组蛋白表达与纯化中的应用[J].中国生物工程杂志,2012, 32(12): 93-103.   \n[17] Chen AC，Peng W,Wang SP.Application of affinity tags in the expression and purification of recombinant proteins[J]. China Biotechnology,2012,32(12): 93-103.   \n[18]任广威．组氨酸标签蛋白纯化介质的合成及其应用研究[D]．浙江杭州：浙江工商大学，食品科学 与生物技术学院,2011.   \n[18] Ren GW. Sythesis and application of his-tagged protein purification medium[D]. Zhejiang hangzhou: Zhejiang Gongshang University,college of food science and biotechnology,2011.   \n[19] Markus S.Birringer,Remo Perozzo,Elvan Kut, et al. High-level expression and purification of human thymidine kinase 1:quaternary structure,stabilityand kinetics [J].Protein Expressionand Purification,2006, 47(1): 506-515.   \n[20] 王云龙，张春艳，邓黎黎，等.EB病毒融合蛋白 Zta-P54 在大肠杆菌中的表达、纯化及鉴定[J]．生 物技术通报,2014,7(1):173-178.   \n[20] Wang YL, Zhang CY,Deng LL,et al. Expression,purification and identification of Zta-P54 fusion protein in escherichia coli of epstein-barr virus[J].Biotechnology Bulletin,2014,7(1): 173-178.   \n[21] 葛新杰.NT-proBNP 单克隆抗体的研制及ELISA 定量检测方法的建立[D].河南郑州：郑州大学, 生命科学学院,2015.   \n[21] GE XJ. Development of monoclonal antibody NT-proBNP and establishment of ELISA quantitative detection method[D]. Henan Zhengzhou: Zhengzhou University, School of Life Science,2015.   \n[22] 赵群莉．血清胸苷激酶单克隆抗体酶促化学发光试剂盒的研制[D]．天津：天津医科大学，免疫学, 2013.   \n[22] ZHAO QL.The development of the kit of the enzyme chemiluminescence detection for serum thymidine kinase with monoclonal antibody[D]. Tianjin: Tianjin Medical University, immunology, 2013. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

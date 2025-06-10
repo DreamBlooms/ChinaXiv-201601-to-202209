@@ -1,0 +1,506 @@
+[
+    {
+        "type": "text",
+        "text": "基于SD模型的黄河流域生态环境与社会经济发展可持续性模拟",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王奕淇1，李国平²(1.长安大学经济与管理学院,陕西 西安710064；2.西安交通大学经济与金融学院,陕西 西安710061)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：要实现黄河流域生态保护和高质量发展，需解决流域生态环境与社会经济发展的可持续问题。运用系统动力学方法，构建社会、经济、资源与环境4个子系统，设计维持现状、优先发展社会、优先发展经济、优先节约资源、优先保护环境以及协同发展6个情景，在对不同情景进行模拟仿真的基础上，探寻实现黄河流域生态环境与社会经济可持续发展的最优方案。结果表明：在协同发展情景中，黄河流域的社会经济得到较快发展，总人口和国内生产总值(GDP)于2030年将分别增长 $1 0 . 9 3 \\%$ 和 $4 9 9 . 0 5 \\%$ ；资源的使用效率得到提高，单位GDP水耗和能耗于2030将分别下降 $78 . 3 1 \\%$ 和 $6 8 . 1 6 \\%$ ；污染物的排放量可有效降低，工业化学需氧量(COD)排放量和工业二氧化硫( $\\mathrm { \\ S O } _ { 2 }$ 排放量于2030将分别下降 $8 0 . 6 4 \\%$ 和 $8 0 . 1 7 \\%$ 。相较于其他情景，协同发展是黄河流域实现生态环境与社会经济可持续发展的最优方案。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：黄河流域；生态环境；社会经济；可持续发展；系统动力学模型文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2019年9月，习近平总书记在郑州主持召开的座谈会上提出了一个重大国家战略：黄河流域生态保护和高质量发展。习总书记强调，黄河流域构成我国重要的生态屏障，是我国重要的经济地带，是打赢脱贫攻坚战的重要区域[1]。2021年3月，“十四五”规划明确提出，扎实推进黄河流域生态保护和高质量发展，健全区域协调发展体制机制。根据《2019年中国水资源公报》和《2020年中国统计年鉴》显示，黄河流域水资源总量为 $7 9 7 . 5 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ，仅占全国水资源总量的 $2 . 7 5 \\%$ ;黄河流域降水量为496.9$\\mathbf { m } \\mathbf { m }$ ,相当于长江流域的 $4 6 . 8 7 \\%$ ;黄河流域人均国内生产总值（GDP)为55470.29元，低于全国水平的$2 7 . 8 0 \\%$ 。同时，根据《2019黄河泥沙公报》显示，近10a来，随着干流河底的不断淤积，小浪底库区最大支流畛水的断面淤积拾高 $6 2 . 9 0 \\mathrm { m }$ ，主要支流大峪河的断面淤积抬高 $5 3 . 8 3 \\mathrm { ~ m ~ }$ 。当前黄河流域存在生态环境脆弱、水资源匮乏、水沙关系失衡等现实问题[2],严重制约了黄河流域的发展质量。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高质量发展是经济的总量与规模增长到一定阶段后新旧动能转换，经济结构得到优化，经济社会协同发展，人民生活水平显著提高[3]。黄河流域的高质量发展应以生态优先为发展理念，在市场起决定性作用和创新驱动下，促进中心城市的集聚，实现区域协调发展，满足人民的美好生活需要[4]。黄河流域的高质量发展应体现生态保护和经济发展相统一的理念，将可持续发展和生态保护作为突破口,实现发展质量的全面提升[5]。“十四五\"规划中也提出，坚持绿水青山就是金山银山理念，实施可持续发展战略，推动经济社会发展全面绿色转型。要实现黄河流域生态保护和高质量发展，需解决流域生态环境与社会经济发展的可持续问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "对于黄河流域发展的可持续问题，现有研究主要集中于流域的综合治理与可持续发展、耦合协调发展关系、发展路径、时空演变和战略设计5个方",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "面。一是黄河流域的综合治理与可持续发展，学者认为应建立市场、社会、文化、生态以及利益协同的现代化治理体系[6-8]。二是黄河流域生态保护与高质量发展的耦合关系，学者在分析生态保护与高质量发展耦合机理的基础上，通过构建耦合协调度模型分析二者的耦合协调关系[9-10]。三是黄河流域发展模式与路径，学者从黄河流域实体经济发展的特征性事实出发，对实现黄河流域可持续利用的路径进行剖析[1I-13]。四是黄河流域可持续发展的时空演变，学者通过构建可持续发展的评价指标体系，对黄河流域可持续发展的时空演变特征进行分析[14-16]。五是黄河流域高质量发展的战略设计,学者提出黄河流域高质量发展的战略内容应包括黄河流域的协同发展、分类发展、创新发展、绿色发展以及开放发展5个维度[3.17-18]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述，现有文献对于黄河流域发展的可持续问题，多是从理论层面对发展的体系构建、路径以及战略设计等内容进行阐释，鲜有学者对黄河流域生态环境与社会经济发展的可持续性进行数值模拟，对于二者可持续发展的实证研究仍然薄弱。鉴于此，本文立足于黄河流域的社会、经济、资源和环境4个子系统，运用系统动力学（Systemdynam-ics,SD)原理，构建基于SD模型的黄河流域多个发展情景，在对模型进行真实性和有效性检验的基础上，通过对设计的不同情景进行模拟仿真，探寻实现黄河流域生态环境与社会经济可持续发展的最优方案。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "黄河是中华民族的母亲河，是我国的第二大河，发源于青藏高原巴颜喀拉山北麓海拔 $4 5 0 0 \\mathrm { ~ m ~ }$ 的约古宗列盆地，流经青海、四川、甘肃、宁夏、内蒙古、山西、陕西、河南、山东9省(区),在山东省垦利县注入渤海。黄河流域各省份2018年底总人口$4 . 2 \\times 1 0 ^ { 8 }$ 人，占全国 $3 0 . 3 \\%$ ;地区生产总值 $2 3 . 9 \\times 1 0 ^ { 1 2 }$ 元，占全国 $2 6 . 5 \\%$ ，在我国经济社会发展和生态安全方面具有十分重要的地位。党和国家对黄河的开发治理极为重视，将黄河流域生态保护和高质量发展上升为重大国家战略。黄河流域的高质量发展既是推动经济高质量发展的内在需要，也是促进区域协调发展的必然要求[19]。对黄河流域生态环境与社会经济发展的可持续性进行模拟，对推动黄河流域生态保护和高质量发展具有一定的现实意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据主要来源于2008—2018年《中国环境统计年鉴》《中国城市统计年鉴》《山西统计年鉴》《内蒙古统计年鉴》《山东统计年鉴》《河南统计年鉴》《四川统计年鉴》《陕西统计年鉴》《甘肃发展年鉴》《青海统计年鉴》《宁夏统计年鉴》，以及黄河流域流经9个省区的政府工作报告和相关统计公报等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2模型构建 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.1系统动力学系统动力学作为一种研究系统反馈结构与动态行为的方法，可用于处理非线性、多层次、多反馈的复杂系统问题[20]。与传统的方法相比，系统动力学可用于复杂系统动态反馈的定性与定量分析[2I],剖析系统发展现状及其演变态势[22]。黄河流域发展涉及社会活动、经济活动以及自然界的复杂关系，社会、经济、资源与环境等各要素之间存在复杂的相互作用，需要采用系统科学的方法从多因素和多层次人手研究社会经济和资源环境的大系统。由于系统动力学可较好反映系统及其内部各要素之间的非线性反馈关系[23],并能够做出合理的中长期政策模拟[24]，目前已被应用于可持续发展研究[25-27]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.2SD模型流程图SD模型的主要变量包括状态变量、速率变量和辅助变量[28]。状态变量描述了系统的当前状态，反映了信息的积累；速率变量可直接改变状态变量，反映状态变量的变化速度；辅助变量是系统中的信息量，由其他变量计算得到。状态变量和速率变量之间的关系体现为系统中的动态变化，如式(1)所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS ( t ) = S _ { \\mathrm { 0 } } + \\overset { t } { \\underset { 0 } { \\mathop { \\left[ \\sum \\right]} F _ { \\mathrm { i n } } ( t ) - \\sum F _ { \\mathrm { o u t } } ( t ) \\mathrm { d } t  } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $S ( t )$ 代表状态变量 $s$ 在 $\\mathbf { \\chi } _ { t }$ 时刻的值; $S _ { 0 }$ 代表 $s$ 的初始值; $F _ { \\mathrm { i n } }$ 和 $F _ { \\mathrm { { o u t } } }$ 分别代表状态变量的输人和输出速率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "结合各子系统相互影响和作用的关系，建立各变量之间的方程式，并利用Vensim软件构建模型的系统流程图(图1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "第三产业增加值增长率第三产业 4 子 O ? <Time>A <水资源限 第二产业增、 增加值 第三产业增加工业治COD 工业废水治1 GDP 制因子> 加值增长率 值增长值 理效果因子 理投资比例 <污染治第 加量<水资源限 工  \n水  \n能源消费 业人口比重 业人口比重 业人口比重 增加值> 排放量> ? 理投资比例Time><Time>↑<Time>生活用水 ? 人净 增长率 <Time>工业用水给增长量 增长率 <Time> <第二产业固废产生量 增加值> ? + 工业固废 氧化硫产生量 工业固废综 <Time> 工业固废? 富生态用水增长量",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.3 SD模型子系统构建",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)社会子系统。该子系统主要研究在一定的经济总量、资源消耗总量和生态环境的条件下，所应维持的合适的社会发展水平。该系统中人的活动所产生的经济价值、资源消耗以及污染排放，对其他3个子系统都具有影响。一旦人口数量增加，则资源需求也随之上升，资源消耗量也会上升；同理，人口数量的增加也会提高污染物的排放量提高，进而加剧生态环境的污染[29]。该系统以人口总量为水平变量，人口净增长为速率变量，其余变量为辅助变量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）经济子系统。该子系统主要研究经济总量和结构对资源和环境的影响关系。根据产业分类的方法，经济子系统应包括三大产业。假设三大产业增加值分别由三大产业增加值增长率决定，同时，不同的产业结构构成不同的资源消耗水平，且经济子系统通过污染治理投人影响流域生态环境治理能力。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3）资源子系统。该子系统主要研究在一定社会经济发展水平下资源的消耗情况，以及资源消耗的变化对社会经济发展产生的影响。系统主要考察水资源和能源的资源消耗，其中水资源消耗包括农业用水量、工业用水量、生活用水量以及生态用水量[30]。资源消耗与经济总量相互影响,经济水平的提高会带动资源消耗总量的上升，也会造成污染排放量的增加，反过来制约经济发展",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(4)环境子系统。该子系统主要研究在一定的社会经济发展水平下环境的可承载情况，以及生态环境变化对社会经济发展产生的影响。该系统直接影响流域环境质量，与人类健康和生态文明密切相关。为探究系统中污染物的动态循环发展关系，考察废水中的化学需氧量(COD)和氨氮，废气中的二氧化硫( $\\mathrm { S O } _ { 2 }$ )和氮氧化物 $( \\mathrm { N O _ { x } }$ )以及工业固体废弃物的产生量、治理量和排放量的变动情况[31],其中污染物治理量受污染治理投资水平影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "社会、经济、资源和环境子系统的主要变量如表1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.4情景设计以资源环境基础理论和可持续发展理论为理论基础，结合习总书记《在黄河流域生态保护和高质量发展座谈会上的讲话》以及国务院批复的《黄河流域综合规划(2012—2030年)》，从4个子系统中选取人口净增长率、就业人口占总人口比重、第一产业增加值增长率、第二产业增加值增长率、第三产业增加值增长率、农业用水增长率、工业用水增长率、生活用水增长率、生态用水增长率、能源消费弹性系数、工业废水治理投资、工业废气治理投资、工业固体废弃物治理投资13个指标作为控制变量，设计6个黄河流域生态环境与社会经济",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1各子系统主要变量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a1de9a70214f97f37d858d319840660415818dd35f9387b729dd46d6f3e7325c.jpg",
+        "table_caption": [
+            "Tab.1 Mainvariablesofeach subsystem "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>子系统</td><td>主要变量</td></tr><tr><td>社会</td><td>总人口、就业人口、第一产业就业人口、第二产业就业人口、第三产业就业人口</td></tr><tr><td>经济</td><td>国内生产总值(GDP)第一产业增加值、第二产业增加值、第三产业增加值</td></tr><tr><td>资源</td><td>总用水量、能源消费总量、农业用水量、工业用水量、生活用水量、生态用水量、单位GDP水耗、单位GDP能耗、水资源限制 因子</td></tr><tr><td>环境</td><td>污染排放量、工业化学需氧量(COD)排放量、工业氨氮排放量、工业二氧化硫(SO)排放量、工业氮氧化物(NO.)排放量、 工业固废排放量、污染治理投资</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "发展的情景进行模拟仿真，探索适宜的发展模式，详见表2。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "情景1：维持现状。在该情景中，黄河流域维持现有的发展现状，借鉴张俊荣等32和Yang等3的研究，令模型中的所有参数保持不变，同时，应用该情景与其他情景进行比较。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "情景2：优先发展社会。该情景强调人口快速增长和就业形势趋好。参考黄河流域流经省区近10a的统计年鉴，并借鉴Song等[29]和杨红娟等[33]的研究，假设人口净增长率和就业人口占总人口比重分别提高 $1 0 \\%$ ○",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "情景3：优先发展经济。该情景强调流域经济增长的重要性，把经济发展放在首位。参考黄河流域流经省区近10a的国民经济和社会发展统计公报，借鉴Sun等[34]和申慧云等[35]的研究，适当放大与经济增长相关的参数,将第一、二、三产业增加值的增长率分别提高 $1 0 \\%$ O",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "情景4：优先节约资源。该情景强调提高水资源和能源使用效率。参考Zhang等[36]和曹祺文等[37]的研究，结合黄河流域流经省区的实际用水情况，假设农业用水增长率、工业用水增长率、生活用水增长率、生态用水增长率以及能源消费弹性系数分别下降 $10 \\%$ ○",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "情景5：优先保护环境。该情景强调加强生态环境保护、控制环境污染和提高环境质量。借鉴Yang等[30和彭昕杰等[38的研究，结合黄河流域流经省区的环保投资情况，假设工业废水治理投资、工业废气治理投资、工业固体废弃物治理投资分别上升 $1 0 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "情景6：协同发展。该情景强调不同政策间的组合效果，在参考Sun等[34]和杨红娟等[33]研究的基础上，综合考虑协调社会经济发展、资源节约和环境保护，将各变量的变动幅度进行相应调整，但调整幅度均小于对特定模式的调整幅度，使系统倾向",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2情景设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/92912a8a8befe7af6475c43499ddb41ca0c2ff9eed119e23d82b0696a84f7c8c.jpg",
+        "table_caption": [
+            "Tab.2 Scenario design "
+        ],
+        "table_footnote": [
+            "注：“-\"表示保持不变。"
+        ],
+        "table_body": "<html><body><table><tr><td>变量</td><td>情景1</td><td>情景2</td><td>情景3</td><td>情景4</td><td>情景5</td><td>情景6</td></tr><tr><td>人口净增长率</td><td>1</td><td>上升10%</td><td>1</td><td>一</td><td>1</td><td>上升5%</td></tr><tr><td>就业人口占总人口比重</td><td>1</td><td>上升10%</td><td>1</td><td>一</td><td></td><td>上升5%</td></tr><tr><td>第一产业增加值增长率</td><td>一</td><td>一</td><td>上升10%</td><td>一</td><td>一</td><td>上升5%</td></tr><tr><td>第二产业增加值增长率</td><td>一</td><td>一</td><td>上升10%</td><td>一</td><td>一</td><td>上升5%</td></tr><tr><td>第三产业增加值增长率</td><td></td><td>一</td><td>上升10%</td><td>一</td><td></td><td>上升5%</td></tr><tr><td>农业用水增长率</td><td>1</td><td>一</td><td>一</td><td>下降10%</td><td></td><td>下降5%</td></tr><tr><td>工业用水增长率</td><td>一</td><td>一</td><td></td><td>下降10%</td><td></td><td>下降5%</td></tr><tr><td>生活用水增长率</td><td>一</td><td>一</td><td>一</td><td>下降10%</td><td></td><td>下降5%</td></tr><tr><td>生态用水增长率</td><td>1</td><td>1</td><td>一</td><td>下降10%</td><td>一</td><td>下降5%</td></tr><tr><td>能源消费弹性系数</td><td>一</td><td>一</td><td></td><td>下降10%</td><td>1</td><td>下降5%</td></tr><tr><td>工业废水治理投资</td><td>1</td><td>一</td><td>一</td><td></td><td>上升10%</td><td></td></tr><tr><td>工业废气治理投资</td><td></td><td></td><td></td><td>一</td><td>上升10%</td><td>上升5%</td></tr><tr><td>工业固体废弃物治理投资</td><td>1 二</td><td>1 二</td><td>1 二</td><td>1 二</td><td>上升10%</td><td>上升5% 上升5%</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "于协同发展[39] ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3实证分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1模型检验 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于SD模型是在一定条件下对现实世界的抽象，为了保证模型仿真结果的质量，在利用Vensim软件运行仿真前需要对模型的真实性和有效性进行检验[40]。为确保SD模型与现实相符，模拟2007—2017年的各变量值，将模拟得到的结果与各变量的历史数据进行比较，可验证模型的真实性和有效性[4I]。选取总人口、GDP、总用水量、能源消费总量、工业COD治理量、工业氨氮治理量、工业 $\\mathrm { S O } _ { 2 }$ 治理量、工业 $\\mathrm { N O _ { x } }$ 治理量、污染治理投资完成9个较具代表性的变量进行检验，检验结果见表3。当相对误差小于 $1 0 \\%$ 时,说明模型模拟效果较好[37]。由表3可知，各变量的相对误差均小于 $1 0 \\%$ ，说明模型运行效果与实际数据之间拟合度较高，可以真实有效的反映实际情况，具有良好的预测效果，可进行模拟仿真。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2仿真结果 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "运用Vensim软件对黄河流域生态环境与社会经济发展可持续性的6个情景进行模拟仿真，得到不同情境中的模拟结果，见表4。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在情景1\"维持现状\"中，2030年黄河流域的总人口和就业人口将分别达到 $4 3 9 2 7 . 0 0 \\times 1 0 ^ { 4 }$ 人和$2 7 2 7 8 . 7 0 \\times 1 0 ^ { 4 }$ 人，较2007年分别增长 $9 . 6 6 \\%$ 和$1 7 . 3 1 \\%$ ；;GDP达到 $3 5 8 8 1 9 . 0 0 { \\times } 1 0 ^ { 8 }$ 元，是2007年的4.85倍；单位GDP水耗和能耗分别为 $4 7 . 1 8 ~ \\mathrm { t } \\cdot ( 1 0 ^ { 4 } \\overrightarrow { \\mathcal { T } } ) ^ { - 1 }$ 和$0 . 5 5 \\mathrm { ~ t ~ } \\cdot \\mathrm { ~ } ( 1 0 ^ { 4 }$ 元）1，较2007年分别下降 $7 0 . 6 5 \\%$ 和$5 7 . 7 2 \\%$ ;工业COD排放量和工业 $\\mathrm { S O } _ { 2 }$ 排放量分别为$4 5 . 5 0 \\times 1 0 ^ { 4 } \\mathrm { ~ t ~ }$ 和 $2 4 0 . 3 1 \\times 1 0 ^ { 4 } \\mathrm { ~ t ~ }$ ，较2007年分别下降$7 1 . 0 4 \\%$ 和 $7 0 . 4 2 \\%$ 。说明在当前中央政府愈发重视生态环境保护和建设、强调生态文明建设的背景下，黄河流域的污染排放量有所改善。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在情景2“优先发展社会\"中，与2007年相比，2030年黄河流域的总人口、就业人口和GDP分别增长 $1 1 . 4 8 \\%$ ） $2 0 . 1 3 \\%$ 和 $4 0 6 . 3 1 \\%$ ，单位GDP水耗和能耗分别下降 $7 0 . 0 0 \\%$ 和 $56 . 3 2 \\%$ ，工业COD排放量和工业 $\\mathrm { S O } _ { 2 }$ 排放量分别下降 $6 9 . 3 7 \\%$ 和 $6 8 . 7 2 \\%$ 。说明在优先发展社会情景中，社会经济的发展速度快于情景1,资源节约程度和污染排放下降速度略低于",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "情景1。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在情景3“优先发展经济”中，与2007年相比，2030年黄河流域的总人口、就业人口和GDP分别增长 $9 . 1 2 \\%$ 、 $1 6 . 3 4 \\%$ 和 $5 3 1 . 2 7 \\%$ ,社会发展速度略低于情景1，而经济发展速度显著快于情景1;单位GDP水耗和能耗分别下降 $7 4 . 7 0 \\%$ 和 $6 5 . 3 1 \\%$ ，资源节约程度优于情景1;工业COD排放量和工业 $\\mathrm { S O } _ { 2 }$ 排放量分别下降 $6 3 . 6 0 \\%$ 和 $6 1 . 9 8 \\%$ ，污染排放下降速度低于情景1。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在情景4\"优先节约资源\"中，与2007年相比，2030年黄河流域的总人口、就业人口和GDP分别增长 $1 0 . 1 7 \\%$ / $1 8 . 2 3 \\%$ 和 $4 4 8 . 5 8 \\%$ ，社会经济发展速度优于情景1；单位GDP水耗和能耗分别下降 $7 6 . 9 7 \\%$ 和 $6 7 . 0 2 \\%$ ，工业COD排放量和工业 $\\mathrm { S O } _ { 2 }$ 排放量分别下降 $7 7 . 5 9 \\%$ 和 $7 4 . 0 9 \\%$ ，资源节约程度和污染排放下降速度均优于情景1。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在情景5“优先保护环境”中，与2007年相比，2030年黄河流域的总人口、就业人口和GDP分别增长 $9 . 6 6 \\%$ ） $1 7 . 3 1 \\%$ 和 $3 9 1 . 0 5 \\%$ ，社会发展速度与情景1一致，经济发展速度略优于情景1;单位GDP水耗和能耗分别下降 $7 2 . 4 7 \\%$ 和 $6 0 . 0 7 \\%$ ，工业COD排放量和工业 $\\mathrm { S O } _ { 2 }$ 排放量分别下降 $8 7 . 6 7 \\%$ 和 $8 5 . 8 3 \\%$ ，资源节约程度和污染排放下降速度均优于情景1。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在情景6“协同发展\"中，与2007年相比，2030年黄河流域的总人口、就业人口和GDP分别增长$0 . 9 3 \\% 1 9 . 6 2 \\% \\cdot 4 9 9 . 0 5 \\%$ ，单位GDP水耗和能耗分别下降 $7 8 . 3 1 \\%$ 和 $6 8 . 1 6 \\%$ ,工业COD排放量和工业$\\mathrm { S O } _ { 2 }$ 排放量分别下降 $8 0 . 6 4 \\%$ 和 $8 0 . 1 7 \\%$ 。说明在协同发展情景中，不论是社会经济的发展速度，还是资源节约程度或是污染排放下降程度，均优于情景1。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3情景选择 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为更直观地展现2007—2030年黄河流域在不同情景中的发展情况，对各子系统在不同情景中的模拟结果进行分析。由图2a\\~b可知，6个情景中总人口和GDP均保持上升的趋势，其中情景2和情景6的总人口增长速度快于其他4个情景，情景3和情景6的经济增长速度快于其他4个情景，说明社会经济的快速发展会在一定程度上使总人口和GDP增加。图 $2 \\mathrm { c } { \\sim } \\mathrm { d }$ 可知，单位GDP水耗和能耗呈现递减的趋势，说明虽然资源的消耗量逐年增加，但资源的使用效率也在持续提高，其中，情景4和情景6的单位GDP水耗和能耗的下降速度也快于其他4个情",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表3SD模型的有效性检验结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/fcc5dffdb8abc932f405a33674e3c5ee8426a9036560565f9de67e39ca6fa467.jpg",
+        "table_caption": [
+            "Tab.3 Effectiveness test results of the SD model "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">年份</td><td colspan=\"3\">总入口</td><td colspan=\"3\">GDP</td><td colspan=\"3\">总用水量</td></tr><tr><td>真实值/10人</td><td></td><td>仿真值/10人相对误差/%</td><td></td><td>真实值/10元 仿真值/10元 相对误差/%</td><td></td><td>真实值/10\"m仿真值/10\"m相对误差/%</td><td></td><td></td></tr><tr><td>2007</td><td>40094.0</td><td>40058.0</td><td>0.09</td><td>73977.1</td><td>73977.1</td><td>0.00</td><td>1192.9</td><td>1189.4</td><td>0.29</td></tr><tr><td>2008</td><td>40280.0</td><td>40094.1</td><td>0.46</td><td>90068.6</td><td>89652.8</td><td>0.46</td><td>1205.7</td><td>1193.2</td><td>1.04</td></tr><tr><td>2009</td><td>40491.0</td><td>40278.5</td><td>0.52</td><td>98618.9</td><td>98084.8</td><td>0.54</td><td>1224.3</td><td>1209.6</td><td>1.20</td></tr><tr><td>2010</td><td>40575.0</td><td>40487.9</td><td>0.21</td><td>117604.9</td><td>117363.0</td><td>0.21</td><td>1235.4</td><td>1225.5</td><td>0.80</td></tr><tr><td>2011</td><td>40664.0</td><td>40573.0</td><td>0.22</td><td>140222.3</td><td>139905.0</td><td>0.23</td><td>1264.4</td><td>1250.4</td><td>1.11</td></tr><tr><td>2012</td><td>40819.0</td><td>40662.2</td><td>0.38</td><td>155817.5</td><td>155221.0</td><td>0.38</td><td>1271.9</td><td>1277.1</td><td>0.41</td></tr><tr><td>2013</td><td>40959.0</td><td>40816.7</td><td>0.35</td><td>170631.2</td><td>170058.0</td><td>0.34</td><td>1269.6</td><td>1268.0</td><td>0.13</td></tr><tr><td>2014</td><td>41129.0</td><td>40955.5</td><td>0.42</td><td>183015.4</td><td>182243.0</td><td>0.42</td><td>1221.1</td><td>1212.7</td><td>0.69</td></tr><tr><td>2015</td><td>41355.0</td><td>41127.5</td><td>0.55</td><td>190796.6</td><td>189768.0</td><td>0.54</td><td>1267.9</td><td>1247.0</td><td>1.65</td></tr><tr><td>2016</td><td>41634.0</td><td>41353.7</td><td>0.67</td><td>204950.4</td><td>203562.0</td><td>0.68</td><td>1275.0</td><td>1250.9</td><td>1.89</td></tr><tr><td>2017</td><td>41839.0</td><td>41630.8</td><td>0.50</td><td>221218.9</td><td>220141.0</td><td>0.49</td><td>1275.2</td><td>1257.3</td><td>1.40</td></tr><tr><td rowspan=\"2\">年份</td><td></td><td>能源消费总量</td><td></td><td></td><td>工业COD治理量</td><td></td><td></td><td>工业氨氮治理量</td><td></td></tr><tr><td>真实值/10t</td><td>仿真值/10\"t</td><td>相对误差/%</td><td>真实值/10\"t</td><td>仿真值/10*t</td><td>相对误差/%</td><td>真实值/10\"t</td><td>仿真值/10* t</td><td>相对误差/%</td></tr><tr><td>2007</td><td>106663.2</td><td>96902.7</td><td>9.15</td><td>435.0</td><td>432.9</td><td>0.48</td><td>15.5</td><td>15.4</td><td>0.65</td></tr><tr><td>2008</td><td>112739.2</td><td>106662.0</td><td>5.39</td><td>468.7</td><td>465.2</td><td>0.75</td><td>18.3</td><td>18.2</td><td>0.55</td></tr><tr><td>2009</td><td>118673.6</td><td>112738.0</td><td>5.00</td><td>464.1</td><td>458.9</td><td>1.12</td><td>19.9</td><td>19.7</td><td>1.01</td></tr><tr><td>2010</td><td>128820.3</td><td>118671.0</td><td>7.88</td><td>476.8</td><td>470.5</td><td>1.32</td><td>31.3</td><td>30.9</td><td>1.28</td></tr><tr><td>2011</td><td>140704.0</td><td>128816.0</td><td>8.45</td><td>582.5</td><td>576.1</td><td>1.10</td><td>34.2</td><td>33.8</td><td>1.17</td></tr><tr><td>2012</td><td>147961.9</td><td>140698.0</td><td>4.91</td><td>655.9</td><td>620.6</td><td>5.38</td><td>41.4</td><td>39.2</td><td>5.31</td></tr><tr><td>2013</td><td>140367.0</td><td>147955.0</td><td>5.41</td><td>581.3</td><td>592.8</td><td>1.98</td><td>39.0</td><td>39.7</td><td>1.79</td></tr><tr><td>2014</td><td>145133.0</td><td>140358.0</td><td>3.29</td><td>579.8</td><td>572.6</td><td>1.24</td><td>34.2</td><td>33.7</td><td>1.46</td></tr><tr><td>2015</td><td>148083.0</td><td>145125.0</td><td>2.00</td><td>517.3</td><td>499.7</td><td>3.40</td><td>36.5</td><td>35.3</td><td>3.29</td></tr><tr><td>2016</td><td>150217.0</td><td>148074.0</td><td>1.43</td><td>419.5</td><td>418.8</td><td>0.17</td><td>43.5</td><td>43.4</td><td>0.23</td></tr><tr><td>2017</td><td>153238.0</td><td>150209.0</td><td>1.98</td><td>395.4</td><td>381.6</td><td>3.49</td><td>42.3</td><td>40.8</td><td>3.55</td></tr><tr><td rowspan=\"2\">年份</td><td></td><td>工业 SO治理量</td><td></td><td></td><td>工业NO治理量</td><td></td><td></td><td>污染治理投资完成</td><td></td></tr><tr><td>真实值/10* t</td><td>仿真值/10*t</td><td>相对误差/%</td><td>真实值/10' t</td><td>仿真值/10\"t</td><td>相对误差/%</td><td>真实值/10元</td><td>仿真值/10元相对误差/%</td><td></td></tr><tr><td>2007</td><td>625.8</td><td>627.2</td><td>0.22</td><td>16.9</td><td>17.0</td><td>0.59</td><td>870.8</td><td>872.9</td><td>0.24</td></tr><tr><td>2008</td><td>858.2</td><td>855.5</td><td>0.31</td><td>15.1</td><td>15.1</td><td>0.00</td><td>1074.4</td><td>1066.9</td><td>0.70</td></tr><tr><td>2009</td><td>1102.1</td><td>1100.5</td><td>0.15</td><td>20.1</td><td>20.1</td><td>0.00</td><td>1201.9</td><td>1196.6</td><td>0.44</td></tr><tr><td>2010</td><td>1237.2</td><td>1235.9</td><td>0.11</td><td>19.8</td><td>19.8</td><td>0.00</td><td>1445.5</td><td>1443.6</td><td>0.13</td></tr><tr><td>2011</td><td>1540.2</td><td>1552.6</td><td>0.81</td><td>34.1</td><td>34.4</td><td>0.88</td><td>1858.5</td><td>1860.7</td><td>0.12</td></tr><tr><td>2012</td><td>1651.2</td><td>1581.0</td><td>4.25</td><td>38.9</td><td>37.3</td><td>4.11</td><td>2281.8</td><td>2181.5</td><td>4.40</td></tr><tr><td>2013</td><td>1822.3</td><td>1818.5</td><td>0.21</td><td>135.4</td><td>135.2</td><td>0.15</td><td>2592.3</td><td>2584.9</td><td>0.29</td></tr><tr><td>2014</td><td>1980.7</td><td>1965.4</td><td>0.77</td><td>189.6</td><td>188.2</td><td>0.74</td><td>2799.9</td><td>2788.3</td><td>0.41</td></tr><tr><td></td><td></td><td></td><td></td><td>263.7</td><td>260.8</td><td></td><td></td><td></td><td></td></tr><tr><td>2015 2016</td><td>2123.6 1101.5</td><td>2100.8 1099.4</td><td>1.07 0.19</td><td>428.7</td><td>428.0</td><td>1.10 0.16</td><td>2483.9 3005.2</td><td>2467.0 2992.4</td><td>0.68</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.43</td></tr><tr><td>2017</td><td>1076.9</td><td>1068.5</td><td>0.78</td><td>438.4</td><td>435.1</td><td>0.75</td><td>3125.4</td><td>3104.0</td><td>0.68</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "景，说明相较于其他情景，情景4和情景6对于资源的节约和资源使用效率的提高表现出较强的动力。由图2e\\~f可知，在6个情景中，污染物排放都呈现递减趋势，说明随着污染治理投入的逐渐增加，污染物排放量会逐渐减少，其中，情景5和情景6的工业COD排放量和工业 $\\mathrm { S O } _ { 2 }$ 排放量下降速度显著快于其他情景，说明这2个情景对于黄河流域生态环境保护和治理的效果更显著。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综合各情景的仿真结果可知，在情景6协同发展的情景中，黄河流域的社会经济得到较快发展，同时有效节约资源和提高资源使用效率，且可降低污染物的排放量。说明协同发展情景同时兼顾了",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表4不同情境中的仿真结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/3e176ef82e9c3f86bbf3572e1f13fa30cdcacbe7e30963e67691d2a4715d4197.jpg",
+        "table_caption": [
+            "Tab.4 Simulation results in different scenarios "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>子系统</td><td>变量</td><td>年份</td><td>情景1</td><td>情景2</td><td>情景3</td><td>情景4</td><td>情景5</td><td>情景6</td></tr><tr><td rowspan=\"8\">社会</td><td rowspan=\"4\">总人口/10人</td><td>2007</td><td>40058.00</td><td>40058.00</td><td>40058.00</td><td>40058.00</td><td>40058.00</td><td>40058.00</td></tr><tr><td>2020</td><td>42207.90</td><td>42710.92</td><td>42007.60</td><td>42407.80</td><td>42207.90</td><td>42623.20</td></tr><tr><td>2030</td><td>43927.00</td><td>44655.78</td><td>43711.29</td><td>44131.90</td><td>43927.00</td><td>44436.48</td></tr><tr><td>增长率/%</td><td>9.66</td><td>11.48</td><td>9.12</td><td>10.17</td><td>9.66</td><td>10.93</td></tr><tr><td rowspan=\"4\">就业人口/ 104人</td><td>2007</td><td>23253.70</td><td>25581.00</td><td>23253.70</td><td>23253.70</td><td>23253.70</td><td>24416.60</td></tr><tr><td>2020</td><td>26168.90</td><td>29340.80</td><td>26015.20</td><td>26362.60</td><td>26168.90</td><td>27552.40</td></tr><tr><td>2030</td><td>27278.70</td><td>30729.34</td><td>27054.29</td><td>27491.86</td><td>27278.70</td><td>29207.84</td></tr><tr><td>增长率/%</td><td>17.31</td><td>20.13</td><td>16.34</td><td>18.23</td><td>17.31</td><td>19.62</td></tr><tr><td rowspan=\"4\">经济</td><td rowspan=\"4\">GDP/10元</td><td>2007</td><td>73977.10</td><td>73977.10</td><td>73977.10</td><td>73977.10</td><td>73977.10</td><td>73977.10</td></tr><tr><td>2020</td><td>240532.00</td><td>258585.00</td><td>346011.00</td><td>282235.00</td><td>242627.00</td><td>325910.00</td></tr><tr><td>2030</td><td>358819.00</td><td>374550.00</td><td>466998.00</td><td>405823.00</td><td>363266.00</td><td>443161.00</td></tr><tr><td>增长率/%</td><td>385.04</td><td>406.31</td><td>531.27</td><td>448.58</td><td>391.05</td><td>499.05</td></tr><tr><td rowspan=\"8\">资源</td><td rowspan=\"4\">单位GDP水 耗/t·(10元)1</td><td>2007</td><td>160.77</td><td>160.77</td><td>160.77</td><td>160.77</td><td>160.77</td><td>160.77</td></tr><tr><td>2020</td><td>56.24</td><td>58.97</td><td>44.72</td><td>41.10</td><td>53.67</td><td>39.49</td></tr><tr><td>2030</td><td>47.18</td><td>48.23</td><td>40.68</td><td>37.03</td><td>44.26</td><td>34.87</td></tr><tr><td>增长率/%</td><td>-70.65</td><td>-70.00</td><td>-74.70</td><td>-76.97</td><td>-72.47</td><td>-78.31</td></tr><tr><td rowspan=\"4\">单位GDP能 耗/t·(10元)1</td><td>2007</td><td>1.31</td><td>1.31</td><td>1.31</td><td>1.31</td><td>1.31</td><td>1.31</td></tr><tr><td>2020</td><td>0.66</td><td>0.70</td><td>0.53</td><td>0.51</td><td>0.62</td><td>0.46</td></tr><tr><td>2030</td><td>0.55</td><td>0.57</td><td>0.45</td><td>0.43</td><td>0.52</td><td>0.42</td></tr><tr><td>增长率/%</td><td>-57.72</td><td>-56.32</td><td>-65.31</td><td>-67.02</td><td>-60.07</td><td>-68.16</td></tr><tr><td rowspan=\"8\">环境</td><td rowspan=\"4\">工业COD排 放量/10*t</td><td>2007</td><td>157.10</td><td>164.95</td><td>164.95</td><td>157.10</td><td>132.68</td><td>150.46</td></tr><tr><td>2020</td><td>81.18</td><td>87.78</td><td>96.30</td><td>72.81</td><td>53.74</td><td>66.39</td></tr><tr><td>2030</td><td>45.50</td><td>50.52</td><td>60.05</td><td>35.21</td><td>16.36</td><td>29.13</td></tr><tr><td>增长率/%</td><td>-71.04</td><td>-69.37</td><td>-63.60</td><td>-77.59</td><td>-87.67</td><td>-80.64</td></tr><tr><td rowspan=\"4\">工业SO排放 量/10*t</td><td>2007</td><td>812.50</td><td>853.09</td><td>853.13</td><td>812.50</td><td>781.37</td><td>837.51</td></tr><tr><td>2020</td><td>349.85</td><td>381.91</td><td>439.83</td><td>319.85</td><td>238.26</td><td>270.29</td></tr><tr><td>2030</td><td>240.31</td><td>266.83</td><td>324.34</td><td>210.52</td><td>110.69</td><td>166.10</td></tr><tr><td>增长率/%</td><td>-70.42</td><td>-68.72</td><td>-61.98</td><td>-74.09</td><td>-85.83</td><td>-80.17</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "社会经济发展和资源环境保护，因此，认为情景6协同发展为黄河流域实现生态环境与社会经济可持续发展的最优方案。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论与建议",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文以黄河流域为研究对象，通过构建SD模型对黄河流域生态环境与社会经济发展的可持续性进行模拟研究。首先构建SD模型的4个子系统，包括社会子系统、经济子系统、资源子系统和环境子系统；其次，设计黄河流域的发展情景，分别为维持现状、优先发展社会、优先发展经济、优先节约资源、优先保护环境以及协同发展6个情景;最后，在模型通过有效性和合理性检验后，对模型进行模拟仿真并对不同情景的模拟结果进行分析比较。结果表明：（1）构建的SD模型具有良好的模拟效果，说明该模型能较好的反映真实情况；（2）协同发展情景为黄河流域兼顾社会经济发展和资源环境保护、实现社会经济与生态环境可持续发展的最优方案，该情景可加快社会与经济的发展，有效节约资源和提高资源的使用效率，同时还可以改善黄河流域的生态环境。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "针对协同发展情景6的模拟结果，提出以下政策建议：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）黄河流域应实现上中下游的协同发展。社会的发展会促进就业人数的增加，人口红利会推进经济的高质量发展，而经济的快速发展会导致资源与环境的压力加剧，使社会经济发展与生态环境保护的矛盾突出。因此，黄河流域上中下游应协同合作，以黄河经济带的建设与发展作为战略目标，遵循主体功能区的差异化开发建设思路，设定并严守资源消耗上限、生态保护红线以及环境质量底线，坚持在发展中保护，在保护中发展，实现黄河流域上中下游社会经济发展和生态保护建设的双赢",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/56ffd1c8fcc57a25cef18fcaaa2027fb87f4895560e40fa8c5e6460c829eb791.jpg",
+        "img_caption": [
+            "图26个情景中的模拟结果",
+            "Fig.2Simulation results in the six scenarios "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）调整产业空间结构，提高资源使用效率。黄河流域作为一个有机整体，其生态环境与社会经济发展的可持续性应着眼于整体进行布局，调整产业空间结构，实现优势互补、合作共赢。根据区域的比较优势，推进流域上中下游的产业调整和产业结构升级，增强区域间的产业互补性和联动性，改善资源需求结构和提高资源使用效率，有效降低污染物的排放，缓解经济发展给资源环境造成的压力。同时，开发和引进新的技术，推广节能高效的技术与产品，推动新兴产业的发展，在追求绿色经济的进程中，实现社会效益、经济效益和环境效益的统一。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3)完善公众的参与监督制度。公众既是环境保护的受益者，也是环境破坏的受害者，应加强公众的主人翁意识，实际参与政策的实施，履行相应的义务。黄河流域生态环境与社会经济发展的可持续性必须依赖公众的力量，有效的公众参与有利于黄河流域的环境执法，降低政策的监督成本，让政策在阳光下实施，同时公众的参与监督制度也是对绩效考核评价制度的补充。黄河流域的生态环境与社会经济发展的可持续性需要人民力量作为支撑，其发展的目的也是为了人民，公众参与制度的完善对强化相关政策的实施效果具有重要意义，也为黄河流域的高质量发展提供了支撑。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]习近平.在黄河流域生态保护和高质量发展座谈会上的讲话 [J].求是,2019(20): 1-5.[Xi Jinping.Speech at the symposium on ecological protection and high-quality development in the Yellow River Basin[J]. Qiu Shi,2019(20): 1-5.]   \n[2]薛澜,杨越,陈玲,等.黄河流域生态保护和高质量发展战略立 法的策略[J].中国人口·资源与环境,2020,30(12):1-7.[Xue Lan,Yang Yue,Chen Ling,et al. Strategy of the legislation of Yellow River Basin ecological protection and high-quality development[J]. China Population Resources and Environment, 2020,30 (12): 1-7.]   \n[3]任保平,张倩.黄河流域高质量发展的战略设计及其支撑体系 构建[J].改革,2019(10): 26-34.[Ren Baoping,Zhang Qian. The strategic and supporting system construction of high-quality development in the Yellow River Basin[J]. Reform,2019(10): 26-34.]   \n[4]安树伟,李瑞鹏.黄河流域高质量发展的内涵与推进方略[J].改 革,2019(1):76-86.[An Shuwei, Li Ruipeng.Intension and promotion strategy of high-quality development in the Yellow River Basin[J]. Reform,2019(1): 76-86.]   \n[5]郭晗.黄河流域高质量发展中的可持续发展与生态环境保护 [J].人文杂志,2020(1):17-21.[Guo Han. Sustainable development and ecological environment protection in high-quality development of the Yellow River Basin[J]. The Journal of Humanities, 2020(1): 17-21.]   \n[6]陆大道,孙东琪.黄河流域的综合治理与可持续发展[J].地理学 报,2019,74(12): 2431-2436.[Lu Dadao,Sun Dongqi. Development and management tasks of the Yellow River Basin: A preliminary understanding and suggestion[J]. Acta Geographica Sinica, 2019,74(12): 2431-2436.]   \n[7]钞小静,周文慧.黄河流域高质量发展的现代化治理体系构建 [J].经济问题,2020(11):1-7.[Chao Xiaojing, Zhou Wenhui.The construction of modernized management system for high-quality development of the Yellow River Basin[J].On Economic Problems,2020(11): 1-7.]   \n[8]郭晗,任保平.黄河流域高质量发展的空间治理:机理诠释与现 实策略[J].改革,2020(4):74-85.[Guo Han,Ren Baoping. Spatial governance of high-quality development in the Yellow River Basin: Mechanism interpretation and practical strategies[J]. Reform, 2020(4): 74-85.]   \n[9]刘琳柯,梁流涛,高攀,等.黄河流域生态保护与高质量发展的 耦合关系及交互响应[J].自然资源学报,2021,36(1):176-195. [Liu Linke,Liang Liutao,Gao Pan,et al. Coupling relationship and interactive response between ecological protection and highquality development in the Yelow River Basin[J]. Journal of Natural Resources,2021,36(1): 176-195.]   \n[10] 任保平,杜宇翔.黄河流域经济增长-产业按照-生态环境的耦 合协同关系[J].中国人口·资源与环境,2021,31(2):119-129. [Ren Baoping,Du Yuxiang.Coupling coordination of economic growth,industrial development and ecology in the Yellow River Basin[J]. China Population,Resources and Environment,2021,31 (2): 119-129.]   \n[11] 赵莺燕,于法稳.黄河流域水资源可持续利用:核心、路径及对 策[J].中国特色社会主义研究,2020(1):52-62.[Zhao Yingyan, Yu Fawen. Sustainable utilization of water resources in the Yellow River Basin: Core,path and countermeasures[J]. Studies on Socialism with Chinese Characteristics,2020(1): 52-62.]   \n[12]师博.黄河流域中心城市高质量发展路径研究[J].人文杂志, 2020(1): 5-9.[Shi Bo. Study on high-quality development path of central cities in the Yellow River Basin[J]. The Journal of Humanities,2020(1): 5-9.]   \n[13] 高煜,许钊.超越流域经济:黄河流域实体经济高质量发展的模 式与路径[J].经济问题,2020(10):1-9,52.[Gao Yu,Xu Zhao. Beyond drainage economics: The model and path for high-quality development of the real economy in the Yelow River Basin[J]. On Economic Problems,2020(10): 1-9,52.]   \n[14] 徐辉,师诺,武玲玲,等.黄河流域高质量发展水平测度及其时 空演变[J]. 资源科学,2020,42(1):115-126.[Xu Hui, Shi Nuo, Wu Lingling,et al.High-quality developmentleveland its spatiotemporal changes in the Yellow River Basin[J].Resources Science,2020,42(1): 115-126.]   \n[15] 李玲蔚,白永平,杨雪获,等.黄河几字湾地区可持续发展的动 态演变及区域差异[J].干旱区地理,2022,45(2):639-649.[Li Lingwei,Bai Yongping, Yang Xuedi, et al. Dynamic evolution and regional differences of sustainable development in Jiziwan of the Yellow River Basin[J]. Arid Land Geography,2022,45(2): 639-649.]   \n[16] 谷昊鑫,秦伟山,赵明明,等.黄河流域旅游经济与生态环境协 调发展时空演变及影响因素探究[J/OL].干旱区地理.[2021-12- 10l. http: //ns.cnki.net/kcms/detail/65.1103.X.20211011.1526.006. html.[Gu Haoxin,Qin Weishan,Zhao Mingming,et al.Spatial and temporal evolution and influencing factors of coordinated development of tourism economy and ecological environment in the Yellow River Basin[J/OL].Arid Land Geography.[2021-12-10]. http: //kns.cnki.net/kcms/detail/65.1103.X.20211011.1526.006.html.   \n[17]金凤君.黄河流域生态保护与高质量发展的协调推进策略[J]. 改革,2019(11): 33-39.[Jin Fengjun.Coordinated promotion strategy of ecological protection and high-quality development in the ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Yellow River Basin[J]. Reform,2019(11): 33-39.]   \n[18] 王金南.黄河流域生态保护和高质量发展战略思考[J].环境保 护,2020,48(1): 18-21.[Wang Jinnan.A primary framework on protection of ecological environment and realization of high-quality development for the Yellw River Basin[J].Environmental Protection,2020,48(1): 18-21.]   \n[19]任保平.黄河流域高质量发展的特殊性及其模式选择[J].人文 杂志,2020(1): 1-4.[Ren Baoping.Particularity and mode selection of high-quality development in the Yellow River Basin[J]. The Journal of Humanities,2020(1): 1-4.]   \n[20] Gain A K, Giupponi C.A dynamic assessment of water scarcity risk in the Lower Brahmaputra River Basin:An integrated approach[J]. Ecological Indicators,2015,48: 120-131.   \n[21] 刘夏,张曼,徐建华,等.基于系统动力学模型的塔里木河流域 水资源承载力研究[J].干旱区地理,2021,44(5):1407-1416. [Liu Xia, Zhang Man, Xu Jianhua, et al. Water resources carrying capacity of Tarim River Basin based on system dynamics model[J]. Arid Land Geography,2021,44(5): 1407-1416.]   \n[22] Gohari A,Eslamian S,Mirchi A,et al. Water transfer as a solution to water shortage: A fix that can Backfire[J]. Journal of Hydrology, 2013,491: 23-39.   \n[23]Sivapalan M. Debates-perspectives on socio-hydrology: Changing water systems and the“tyranny of small problems\": Social-hydrology[J].Water Resources Research,2015,51(6): 4795-4805.   \n[24]Evan G R D, Slobodan P S.Global water resources modeling with an intergrated model of the social-economic-environmental system [J].Advances in Water Resources,2011,34(6): 684-700.   \n[25] 李桂军,李玉龙,贾晓菁,等.北京市水-能源-粮食可持续发展 系统动力学模型构建与仿真[J].管理评论,2016,28(10):11- 26.[Li Guijun,Li Yulong,Jia Xiaojing,et al.Establishment and simulation study of system dynamic model on sustainable development of water-energy-food nexus in Beijing[J]. Management Review,2016,28(10): 11-26.]   \n[26]Mehdi Z, Sai HL, Mehran H, et al. The state-of-the-art system dynamics application in integrated water resources modeling[J]. Journal of Environmental Management,2018,227: 294-304.   \n[27] 牛方曲,孙东琪.资源环境承载力与中国经济发展可持续性模 拟[J].地理学报,2019,74(12):2604-2613.[Niu Fangqu, Sun Dongqi.Modeling the sustainability of China's growth based on the resource and environmental carrying capacity[J].Acta Geo graphica Sinica, 2019,74(12): 2604-2613.]   \n[28]Han TF, Zhang C T, Sun Y,et al. Study on environment-economysociety relationship model of Liaohe River Basin based on multiagent simulation[J]. Ecological Modelling,2017,359:135-145.   \n[29] Song JX,Tang B, Zhang JL,et al. System dynamics simulation for optimal stream flow regulations under consideration of coordinated development of ecology and socio-economy in the Weihe River Basin, China[J]. Ecological Engineering,2018,124: 51-68.   \n[30] Yang Z Y, Song JX, Cheng D D, et al. Comprehensive evaluation and scenario simulation for the water resources carrying capacity in Xi'an City,China[J]. Journal of Environmental Management, 2019,230: 221-233.   \n[31] 周熊勇,许志端,郗永勤.中国节能减排系统动力学模型及政策 优化仿真[J].系统工程理论与实践,2018,38(6):1422-1444. [Zhou Xiongyong,Xu Zhiduan,Xi Yongqin.The system dynamic model and policy optimized simulation of energy conservation and emission reduction in China[J].Systems Engineering:Theory & Practice,2018,38(6): 1422-1444.]   \n[32] 张俊荣,王孜丹,汤铃,等.基于系统动力学的京津冀碳排放交 易政策影响研究[J].中国管理科学,2016,24(3):1-8.[Zhang Junrong,Wang Zidan,Tang Ling,et al.The simulation of carbon emission trading system in Beijing-Tianjin-Hebei region: An analysis based on system dynamics[J]. Chinese Journal of Management Science,2016,24(3): 1-8.]   \n[33] 杨红娟,张成浩.基于系统动力学的云南生态文明建设有效路 径研究[J].中国人口·资源与环境,2019,29(2):16-24.[Yang Hongjuan, Zhang Chenghao.Research on the efective route of ecological civilization construction in Yunnan Province based on system dynamics[J]. China Population,Resources and Environment, 2019,29(2): 16-24.]   \n[34] Sun YH,Liu NN,Shang JX,et al. Sustainable utilization of water resources in China: A system dynamics model[J]. Journal of Cleaner Production,2017,142: 613-625.   \n[35] 申慧云,余杰,张向前,等.福建绿色经济高质量发展\"经济-社 会-环境\"复杂系统研究[J].科技管理研究,2020,40(13):62- 70.[Shen Huiyun, Yu Jie, Zhang Xiangqian,et al. Research on the complex system of“economic-social-environment”for the high quality development of Fujian green economy[J]. Science and Technology Management Research,2020,40(13): 62-70.]   \n[36] Zhang Z,Lu W X, Zhao Y,et al. Development tendency analysis and evaluation of the water ecological carrying capacity in the Siping area of Jilin Province in China based on system dynamics and analytic hierarchy proces[J]. Ecological Modelling,2014,275: 9-21.   \n[37] 曹祺文,鲍超,顾朝林,等.基于水资源约束的中国城镇化SD模 型与模拟[J].地理研究,2019,38(1):167-180.[Cao Qiwen,Bao Chao,Gu Chaolin,et al. China’s urbanization SD modeling and simulation based on water resource constraints[J]. Geographical Research,2019,38(1): 167-180.]   \n[38] 彭昕杰,成金华,方传棣.基于\"三线一单\"的长江经济带经济- 资源-环境协调发展研究[J].中国人口·资源与环境,2021,31 (5): 163-173.[Peng Xinjie,Cheng Jinhua,Fang Chuandi. Coordinated development of economy,resources and environment in the Yangtze River Economic Belt based on“Three Lines and One Or der\"[J].China Population,Resources and Environment,2021,31 (5): 163-173.]   \n[39] 顾明瑞,王帆,王舒鸿.基于系统动力学的中国绿色发展政策仿 真研究[J].中国环境管理,2021,13(3):126-135.[Gu Mingrui, Wang Fan,Wang Shuhong.Simulation of China's green development policy based on system dynamics[J]. Chinese Journal of Environmental Management, 2021,13(3): 126-135.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[40] 柯小玲,郭海湘,龚晓光,等.基于系统动力学的武汉市生态安 全预警仿真研究[J].管理评论,2020,32(4):262-273.[Ke Xiaoling,Guo Haixiang,Gong Xiaoguang,et al.Early warning simula tion of urban ecological security based on system dynamics in Wuhan City[J]. Management Review,2020,32(4): 262-273.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[41] 郭玲玲,武春友,于惊涛,等.中国绿色增长模式的动态仿真分 析[J].系统工程理论与实践,2017,37(8):2119-2130.[Guo Lingling,Wu Chunyou,Yu Jingtao,et al.Dynamic simulation analysis of green growth mode in China[J]. Systems Engineering: Theory & Practice,2017,37(8): 2119-2130.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Sustainable simulation of ecological environment and socio-economic development in the Yellow River Basin based on the SD model ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "WANG Yiqi'， LI Guoping² (1.School of Economics and Management, Chang'an University,Xi'an 71Oo64,Shaanxi, China; 2.School of Economics and Finance,Xi'an Jiaotong University,Xi'an 71oo61,Shaanxi, China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: To realize ecological protection and high-quality development of the Yelow River Basin of China, it is necessary to solve the sustainability issues of ecological environment and socio-economic development.For sustainable development of the Yelow River Basin, most studies explain the system construction, path,and strategic design of the development from a theoretical perspective.Few scholars conduct numerical simulation on the sustainability of ecological environment and socio-economic development of the Yellow River Basin. However, the empirical research on their sustainable development is still weak.Using the method of system dynamics,this study constructs four subsystems of society，economy,resources,and environment and designs six scenarios maintaining the status quo: giving priority to developing society，developing economy，saving resources, protecting the environment,and colaborative development. Moreover, this study explores the best scheme to achieve the sustainable development of ecological environment and socio-economic in the Yellow River Basin based on the simulation of different scenarios.The results reveal the following:First,in the scenario of collaborative development, the total population,employed population,and gross domestic product (GDP)of the Yellow River Basin will increase by $10 . 9 3 \\%$ ， $1 9 . 6 2 \\%$ ，and $4 9 9 . 0 5 \\%$ ，respectively, the water consumption and energy consumption per unit GDP will decrease by $78 . 3 1 \\%$ and $6 8 . 1 6 \\%$ ,respectively,and the industrial chemical oxygen demand (COD） emission and industrial sulfur dioxide $\\left( \\mathrm { S O } _ { 2 } \\right)$ ）emission will decrease by $80 . 6 4 \\%$ and $80 . 1 7 \\%$ ,respectively,in 2030 compared with those in 2007.Second,the total population and GDP maintain an upward trend, wherein the total population growth rates of Scenarios 2 and 6are higher and the economic growth rates of Scenarios 3 and 6are higher than those of the other four scenarios.The water and energy consumption per unit GDP show decreasing trends,andthe decline rates in Scenarios 4 and 6are higher than those in the other four scenarios.Furthermore,polutant emission shows a decreasing trend,wherein the decline rate of industrial COD and $\\mathrm { S O } _ { 2 }$ emissions in Scenarios 5 and 6 are higher than those in the other scenarios.Third, the social economy of the Yellow River Basin has been developed rapidly,the eficiency of resource usage has been improved,and the polutant emission can be effectively reduced in the scenario ofcollaborative development.Therefore,Scenario 6 (colaborative development） is the best way to achieve sustainable development of ecological environment and social economy in the Yellow River Basin compared with the other scenarios. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words:Yellw River Basin； ecological environment; socio-economic； sustainable development; systemdynamics model",
+        "page_idx": 10
+    }
+]

@@ -1,0 +1,464 @@
+[
+    {
+        "type": "text",
+        "text": "See discusions,stats,andauthorprofilesfor this publicationat: http://www.researchgate.net/publication/273514041 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effects of Latitudinally Dependent Solar Wind Speed on Diffusion Coefficients of Cosmic Rays in the Presence of Adiabatic Focusing ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLEin THEASTROPHYSICALJOURNAL $\\cdot \\cdot$ FEBRUARY2015",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Impact Factor:6.28 $\\cdot \\cdot$ DOI:10.1088/0004-637X/800/2/117 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "EFFECTSOFLATITUDINALLYDEPENDENT SOLARWINDSPEED ONDIFFUSION COEFFICIENTSOFCOSMICRAYSINTHE PRESENCE OFADIABATICFOCUSING ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "H.-Q. $\\mathrm { H e } ^ { 1 , 2 , 3 }$ AND R. SCHLICKEISER1 1 Institut fur Theoretische Physik,Lehrstuhl IV: Weltraum- und Astrophysik,Ruhr-Universitat Bochum, D-44780 Bochum, Germany; hqhe $@$ mail.iggcas.ac.cn, rsch@tp4.rub.de 2 Key Laboratoryof Earth and Planetary Physics,Instituteof Geologyand Geophysics, Chinese Academy of Sciences,Beijing 1Ooo29,China 3State KeyLaboratoryofSpaceWeather,ChineseAcademyofSciences,Beijing0190China Received 2014 August22;accepted2014December 26;published 2015February18 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The solar wind is observed to display high speeds in high heliolatitude coronal holes and low speeds near the ecliptic plane.The heliospheric magnetic field associated with the solar wind plays a very important role in the transport and modulation ofcharged energetic particles,including galactic cosmic rays (GCRs)and solar energetic particles (SEPs),in the three-dimensional heliosphere.In previous studies,a constant solar wind speed,which is independent of heliolatitude,was assumed and commonly used in modulation modeling of cosmic rays.In this work,we investigate the realistic latitudinallydependent solar wind speed and utilizethe theoretical models in hyperbolic and piecewise polynomial forms to explore the important effects on the heliospheric magnetic fieldand the diffusion coeffcients (paralel,perpendicular,and drift scale)of cosmic rays in the presence of adiabatic focusing.Comparisons of the diffusion coefficients derived from standard Parker field and modified magnetic fields are presented.Since the structures and properties of diferent solar wind sources (coronal streamer belt,polar coronal hole,and transition region between them) differ from each other in essence,we suggest that thelatitudinally dependent solar wind speed and the corresponding heliospheric magnetic field and diffusion coefficients with adiabatic focusing should be employed in the global modeling studies of GCRs and SEPs in the heliosphere. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words:cosmic rays-diffusion-solar wind-Sun: heliosphere-Sun: magnetic felds-Sun: particle emission ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The discovery of solar wind opened the door for space physics and symbolized the start of the fruitful space exploration age. A large number of authors have contributed to this important subject since then.As a seminal work,Parker(1958）first predicted radial, supersonic solar wind with typical speeds of hundreds of $\\mathrm { k m } \\bar { \\mathrm { s } } ^ { - 1 }$ ，which was soon proven by Mariner 2 and other spacecraft.Through several decades of efforts in the community of space science with spacecraft observations and theoretical investigations,we have achieved a much better understanding of the solar wind,either spatially in the global heliosphere or temporally with the whole solar cycle.It has been widely agreed that fast solar wind with a characteristic velocity of $8 0 \\bar { 0 } \\mathrm { k m s ^ { - 1 } }$ originates from polar coronal holes (e.g., Zirker 1977; McComas et al. 1998a),and generally, slow solar wind with a typical speed of $4 0 0 \\mathrm { k m s ^ { - 1 } }$ is associated with coronal streamer belts near the ecliptic plane (e.g.,Hundhausen 1977; Gosling et al. 1981; McComas et al.1998b). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As we know, the heliospheric magnetic field is “frozen into\" the solar wind and travels along with it to form the Archimedes spirals (Parker 1958). Some properties of the Parker magnetic field model have been supported by observations (e.g.， Smith et al.1986;Forsyth etal.1996),while some deviations of the magnetic field are also known (e.g.， Schwadron & McComas 2005).In the heliosphere, the average magnetic field is not constant with the heliocentric distance,and this spatially varying average magnetic field gives rise to the adiabatic focusing effect of charged energetic particles (e.g., Roelof 1969; Earl 1976; Schlickeiser&Shalchi2OO8;Schlickeiser&Jenko 2010;He & Wan 2012a, 2012b; He & Schlickeiser 2014). The focusing ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "length is defined by ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL ^ { - 1 } ( z ) = - \\frac { 1 } { B ( z ) } \\frac { \\partial B ( z ) } { \\partial z } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $B ( z )$ is the guide magnetic field with direction $z$ The adiabatic focusing effect should be considered when we investigate the diffusion coefficients and transport processes of charged particles,such as galactic cosmic rays(GCRs）and solar energetic particles (SEPs),particularly in the scenario of the inner heliosphere. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The diffusion behavior of charged energetic particles in a large-scale turbulent magnetic field remains one of the fundamental problems of long-standing importance in space physics, astrophysics,and plasma physics.Basically,achievinga better understanding of this problem is essential for studying the modulation of GCRs,the propagation of SEPs,the diffusive shock acceleration,and laboratory plasmas and controlled fusion.In general, the diffusion tensor of charged particles in a turbulent magnetic field can be separated into a symmetric part consisting of parallel diffusion and perpendicular diffusion along and across the mean magnetic field,respectively,and an asymmetric part,i.e.,the drift effect. The parallel diffusion plays an evidently important role in the transport of cosmic rays,so it has been extensively studied (e.g., Jokipii 1966;Bieber et al. 1994; Schlickeiser& Shalchi 2008;He & Qin 2011;He &Wan 2012a).The effect of perpendicular diffusion has also become increasingly well known in the research fields of cosmic rays and SEPs,and it attracts a number of authors (e.g.,Dwyer et al. 1997;Giacalone & Jokipii 1999;He et al.2011; He & Wan 2012b).Recently, He et al.(2O11) found that the perpendicular diffusion plays a very important role in the propagation of ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SEPs,particularly when an observer is not directly connected to the acceleration regions by the interplanetary magnetic field lines.In light of the direct method (He & Wan 2012a,2012b), He&Wan(2O13) theoretically investigated the rigidity dependence of the parallel and perpendicular mean free paths,in an event-to-event view,and basically reproduced the observational results of several typical SEP events including a“counterexample\" presented in previous well-known works (e.g.,Palmer 1982;Bieber et al. 1994). They also reported that when taking a series of SEP events together, the ratio $\\lambda _ { \\perp } / \\lambda _ { \\parallel }$ of the perpendicular to the parallel mean free paths remains in the range 0.001-0.2. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In previous studies,a constant solar wind with a typical speed of $4 0 \\dot { 0 } \\mathrm { k m } \\mathrm { s } ^ { - 1 }$ ,independent of heliolatitude,and the corresponding heliospheric magnetic field were usually used in the theoretical analysisofdiffusion coefficients and the modulation modelingof cosmicrays inthe heliosphere.However,alarge number of spacecraft observations have shown that the realistic solar wind speed varies with the heliolatitude,i.e.,with low velocity near the ecliptic plane,and with high velocity in the polar coronal holes.Therefore,in theoretical investigations of heliospheric magnetic field and transport coefficients, we should take into account the latitudinal dependence of the solar wind speed and its implications for the transport of cosmic rays in the heliosphere,especially in the global modulation modeling. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this work,we focus on the latitudinally dependent solar wind speed and its effects on the heliospheric magnetic field and the transport coefficients (parallel, perpendicular,and drift scale) of charged energetic particles with adiabatic focusing. Specifically,in Section 2,we first present the Ulysses observations of the latitudinally dependent solar wind speed from 1994 September through 1995 July (9/1994-7/1995),known as the solar-minimum fast latitude scan.We also provide theoretical models in hyperbolic and piecewise polynomial forms to mathematize the latitudinally dependent solar wind speed. In Section 3,we investigate the effects and implications of the latitudinally dependent solar wind speed on the heliospheric magnetic field and the transport coefficients of cosmic rays in the presence of adiabatic focusing.A summary of our results will be provided in Section 4. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.LATITUDINALLYDEPENDENTSOLARWINDSPEED:ULYSSESMEASUREMENTSANDTHEORETICALMODELS",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The successful Ulysses mission achieved a number of exciting new findings regarding the high latitude heliosphere during itslegendary life. One of the important findings is the latitudinaldependence of the solarwind speed.Specifically,the solar windis observed to display high speeds in the high heliolatitude coronal holes,low speeds in the coronal streamer belt,and intermediate speeds in the transition regions between the coronal holes and the streamer belt. This complexity was previously simplified with a constant and stable solar wind speed throughout the heliosphere in the studies of SEP transport and GCR modulation.However,on account of the significant difference among the solar wind speeds from different coronal sources, in the realistic investigations we should consider the latitudinal dependence of the solar wind speed. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We observationally investigate the latitudinally dependent solar wind speed measured by the Ulysses spacecraft during the solar-minimum fast latitude scan in the time period 9/1994- 7/1995.In the high heliolatitude regions (both north and south), the solar wind speed is high with a typical value of $8 0 0 \\mathrm { k m s ^ { - 1 } }$ however, in the coronal streamer belt near the ecliptic plane, the solar wind speed is relatively low with average value of about $4 0 0 \\mathrm { k m s ^ { - 1 } }$ . In addition, in the transition regions between the coronal holes and the streamerbelt, the solar wind speed remains in the range $4 0 0 { - } 8 0 0 \\mathrm { k m } \\mathrm { s } ^ { - 1 }$ . Therefore,the variability of the solar wind speed along the heliolatitude is obvious in the global view of heliosphere.Apparently,a constant value independent of heliolatitude,e.g.,the commonly used $4 0 0 \\mathrm { k m s ^ { - 1 } }$ ,is insufficient to describe the realistic characteristics of the solar wind speed throughout the heliosphere.It is necessary to find a more appropriate way to model the latitudinally dependent solar wind speed. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Recently,a hyperbolic model was provided to depict the latitudinal dependence of the solar wind speed (e.g.,Burger &Sello 2O05;Heber & Potgieter 20O6;Miyake & Yanagita 2008). This model can be expressed as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ( \\theta ) = V _ { 0 } \\left( 1 . 5 \\mp 0 . 5 \\operatorname { t a n h } \\left[ 8 . 0 \\left( \\theta - \\frac { \\pi } { 2 } \\pm \\phi \\right) \\right] \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "with $V _ { 0 } = 4 0 0 \\mathrm { k m s ^ { - 1 } }$ and $\\phi ~ = ~ \\alpha + \\beta$ ，where $\\alpha$ is the tilt angle between the rotation and magnetic axes of the Sun,and $\\beta$ in association with $\\alpha$ is used to determine at which polar angle or colatitude $\\mathbf { \\eta } ^ { ( \\theta ) }$ the solar wind speed starts to increase from $4 0 0 \\mathrm { k m s ^ { - 1 } }$ toward $8 0 0 \\mathrm { k m s ^ { - 1 } }$ . We choose $\\alpha = \\pi / 1 2$ and $\\beta = \\pi / 1 2$ in this work.In Equation (2),the top and bottom signs denote the cases of the northern and southern hemispheres of the Sun, respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Alternatively,we provide a piecewise polynomial model to quantify the latitudinally dependent solar wind speed.According to the fact that different solar wind speed categories originate from different heliolatitude regions (coronal streamer belt, polar coronal hole,and transition region between them） with different physical properties,we approximately divide the polar angle orcolatitude $\\mathbf { \\eta } ^ { ( \\theta ) }$ into seven bins,i.e., $[ 0 , 4 0 ^ { \\circ } )$ ， $[ 4 0 ^ { \\circ } , 6 0 ^ { \\circ } )$ $[ 6 0 ^ { \\circ } , 8 0 ^ { \\circ } )$ ， $[ 8 0 ^ { \\circ }$ ， $1 0 0 ^ { \\circ } ]$ 0 $1 0 0 ^ { \\circ }$ ， $1 2 0 ^ { \\circ } ]$ ， $( 1 2 0 ^ { \\circ }$ ， $1 4 0 ^ { \\circ } ]$ ， $( 1 4 0 ^ { \\circ } , 1 8 0 ^ { \\circ } ]$ Within each bin of colatitude $\\theta$ ，we construct a polynomial function to model the variation of the solar wind speed with the colatitude.The piecewise polynomial function can be described as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ( \\theta ) = \\left\\{ \\begin{array} { l l } { 8 0 0 } & { \\theta \\in [ 0 , 4 0 ^ { \\circ } ) } \\\\ { - \\frac { 1 } { 2 } \\theta ^ { 2 } + 4 0 \\theta } & { \\theta \\in [ 4 0 ^ { \\circ } , 6 0 ^ { \\circ } ) } \\\\ { \\frac { 1 } { 2 } \\theta ^ { 2 } - 8 0 \\theta + 3 6 0 0 } & { \\theta \\in [ 6 0 ^ { \\circ } , 8 0 ^ { \\circ } ) } \\\\ { 4 0 0 } & { \\theta \\in [ 8 0 ^ { \\circ } , 1 0 0 ^ { \\circ } ] } \\\\ { \\frac { 1 } { 2 } \\theta ^ { 2 } - 1 0 0 \\theta + 5 4 0 0 } & { \\theta \\in ( 1 0 0 ^ { \\circ } , 1 2 0 ^ { \\circ } ] } \\\\ { - \\frac { 1 } { 2 } \\theta ^ { 2 } + 1 4 0 \\theta - 9 0 0 0 } & { \\theta \\in ( 1 2 0 ^ { \\circ } , 1 4 0 ^ { \\circ } ] } \\\\ { 8 0 0 } & { \\theta \\in ( 1 4 0 ^ { \\circ } , 1 8 0 ^ { \\circ } ] . } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In Figure 1,we compare the fitting results of the two theoretical modelswith theUlysses observations of the latitudinally dependent solar wind speed. The black line indicates the latitudinally dependent solar wind speed measured by the Ulysses spacecraft during the solar-minimum fast latitude scan in the time period 9/1994-7/1995.The red and the blue lines indicate thehyperbolic and the piecewise polynomial models,respectively.As one can see,both the hyperbolic and the piecewise polynomial models ft to the observations very well. Generally, the overall properties of the solar wind speeds originating from different coronal sources have been successfully described.In other words,the solar wind is properly characterized with high speed in the coronal holes,low speed in the streamer belt, and intermediate speed in the transition regions between the coronal holes and the streamer belt. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fec7fd7154ff9075f3a19b4b971c1c47b2480f44f26c6a5f847f4cbddbca3cb6.jpg",
+        "img_caption": [
+            "Figurlaclotllpast i (both north and south),the solar wind speed is high with a typical value of $8 0 0  { \\mathrm { k m } }  { \\mathrm { s } } ^ { - 1 }$ ; in the coronal streamer belt near the ecliptic plane,the solar wind speed is relativelylow with an average value of about $4 0 0 \\mathrm { \\bar { k m } s ^ { - 1 } }$ ; in the transition regions between the coronal holes and the streamer belt,the solar wind speed remains in the range $4 0 0 { - } 8 0 0 \\mathrm { k m } \\mathrm { s } ^ { - 1 }$ .Theredandthebueliesidcateteftigresultsoftetheoreticalodelsinperbolicndpiecewsepoloialfosspctiely toteUlestet very well. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.EFFECTSOFLATITUDINALLYDEPENDENTSOLARWINDSPEED",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The classical spiral model of the heliospheric magnetic field first suggested by Parker(1958) can be described with ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { B } = \\frac { B _ { 0 } } { r ^ { 2 } } \\left( \\hat { \\mathbf { e } } _ { r } - \\frac { \\Omega r \\sin \\theta } { V } \\hat { \\mathbf { e } } _ { \\phi } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $B _ { 0 }$ is a constant chosen to be $3 . 5 4 ~ \\mathrm { { n T } ~ A U ^ { 2 } }$ in this work characterizing the solar magnetic field, $V$ is the solar wind speed witha constant value, $\\Omega$ isthe angular rotationvelocity of the Sun, $r$ is the heliocentric radial distance,and $\\theta$ is the polar angle. The magnetic field magnitude of the standard Parker model can be calculated as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB ( r , \\theta , V ) = \\frac { B _ { 0 } } { r ^ { 2 } } \\sqrt { \\frac { V ^ { 2 } + \\Omega ^ { 2 } r ^ { 2 } \\sin ^ { 2 } \\theta } { V ^ { 2 } } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Aswe know, the global magnetic field in the heliosphere is not constant,and this spatially varying guide magnetic field leads to the so-called adiabatic focusing effect. We can derive the analytical form of the adiabatic focusing length in the standard Parker model as (He & Wan 2012a) ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL ( r , \\theta , V ) = \\frac { r ( V ^ { 2 } + \\Omega ^ { 2 } r ^ { 2 } \\sin ^ { 2 } \\theta ) ^ { 3 / 2 } } { V ( 2 V ^ { 2 } + \\Omega ^ { 2 } r ^ { 2 } \\sin ^ { 2 } \\theta ) } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Taking into account the latitudinally dependent solar wind speed, Schwadron(2002) and Schwadron $\\&$ McComas (2003) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "suggested a three-dimensional heliospheric magnetic field model, written as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\bf B } = \\frac { B _ { 0 } } { r ^ { 2 } } \\left[ \\left( 1 - \\frac { r \\omega _ { \\theta } } { V ^ { 2 } ( \\theta ) } \\frac { d V ( \\theta ) } { d \\theta } \\right) \\hat { \\bf e } _ { r } - \\frac { r \\omega _ { \\theta } } { V ( \\theta ) } \\hat { \\bf e } _ { \\theta } \\right. } } \\\\ { { \\displaystyle ~ - \\left. \\frac { ( \\Omega - \\omega _ { \\phi } ) r \\sin \\theta } { V ( \\theta ) } \\hat { \\bf e } _ { \\phi } \\right] , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\omega _ { \\theta }$ denotes the rate of magnetic footpoint motion between regions of fast and slow solar wind at the Sun, $\\omega _ { \\phi }$ denotes the differential rotation rate of magnetic field line on the Sun, and $V ( \\theta )$ denotes the latitudinally dependent solar wind speed, which can be empirically expressed with Equation (2) or (3). The magnitude of the Schwadron field can be expressed as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { B ( r , \\theta ) = \\frac { B _ { 0 } } { r ^ { 2 } } } \\\\ & { \\quad \\times \\sqrt { \\left( 1 - \\frac { r \\omega _ { \\theta } } { V ^ { 2 } ( \\theta ) } \\frac { d V ( \\theta ) } { d \\theta } \\right) ^ { 2 } + \\left( \\frac { r \\omega _ { \\theta } } { V ( \\theta ) } \\right) ^ { 2 } + \\left( \\frac { \\left( \\Omega - \\omega _ { \\phi } \\right) r \\sin \\theta } { V ( \\theta ) } \\right) ^ { 2 } } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "By assuming that $\\omega _ { \\theta } \\simeq \\Omega / 4$ and $r \\Omega / V ( \\theta ) \\simeq r _ { p }$ , and seting $\\omega _ { \\phi } ~ = ~ 0$ in Equation (7),Burger $\\&$ Sello（2005）obtained a simplified two-dimensional model of the Schwadron field as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { B } = \\frac { B _ { 0 } } { r ^ { 2 } } \\left[ \\left( 1 - \\frac { r _ { p } } { 4 V ( \\theta ) } \\frac { d V ( \\theta ) } { d \\theta } \\right) \\hat { \\mathbf { e } } _ { r } - \\frac { \\boldsymbol { \\Omega } r \\sin \\theta } { V ( \\theta ) } \\hat { \\mathbf { e } } _ { \\phi } \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $r _ { p }$ is a dimensionless constant chosen to be different values characterizing different dependence.In this simplified two-dimensional version,the $B _ { \\theta }$ component is also ignored. For simplification and convenience,as a first result of this paper we adopt the simplified two-dimensional magnetic field model used by Burger $\\&$ Sello(2005) and Miyake & Yanagita (2008). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/57392e667d4373f9f17310052abd2909d266b4a61dd339d13e740497acde03eb.jpg",
+        "img_caption": [
+            "Figur2efeialledoadsdigoaetgatce indicatesdecs of the modified two-dimensional (three-dimensional) field model with the dimensionless constant $r _ { p } = 1 , r _ { p } = 2$ ,and $r _ { p } = 4$ ,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We will consider later a three-dimensional heliospheric magnetic field taking into account the latitudinally dependent solar wind speed.Accordingly, the latitudinally dependent magnitude of the modified two-dimensional heliospheric magnetic field could be obtained as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB ( r , \\theta ) = \\frac { B _ { 0 } } { r ^ { 2 } } \\sqrt { \\left( 1 - \\frac { r _ { p } } { 4 V ( \\theta ) } \\frac { d V ( \\theta ) } { d \\theta } \\right) ^ { 2 } + \\left( \\frac { \\Omega r \\sin \\theta } { V ( \\theta ) } \\right) ^ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We can also derive the latitudinally dependent focusing length of the modified two-dimensional heliospheric magnetic field ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { L ( r , \\theta ) = \\frac { r \\left[ \\Big ( V ( \\theta ) - \\frac { r _ { p } } { 4 } \\frac { d V ( \\theta ) } { d \\theta } \\Big ) ^ { 2 } + \\Omega ^ { 2 } r ^ { 2 } \\sin ^ { 2 } \\theta \\right] \\sqrt { V ^ { 2 } ( \\theta ) + \\Omega ^ { 2 } r ^ { 2 } \\sin ^ { 2 } \\theta / \\left( 1 - \\frac { r _ { p } } { 4 V ( \\theta ) } \\frac { d V ( \\theta ) } { d \\theta } \\right) ^ { 2 } } } { V ( \\theta ) \\left[ 2 \\left( V ( \\theta ) - \\frac { r _ { p } } { 4 } \\frac { d V ( \\theta ) } { d \\theta } \\right) ^ { 2 } + \\Omega ^ { 2 } r ^ { 2 } \\sin ^ { 2 } \\theta \\right] } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Recently,Hitge & Burger(2O1O) used a three-dimensional heliospheric magnetic field to investigate the cosmic ray modulation with a latitude-dependent solar wind speed.For comparison with the simplified two-dimensional model (Equation (9)),we similarly considerasimplified three-dimensionalheliospheric field model,which is based on the fully three-dimensional Schwadron field,as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { B } = \\frac { B _ { 0 } } { r ^ { 2 } } \\left[ \\left( 1 - \\frac { r _ { p } } { 4 V ( \\theta ) } \\frac { d V ( \\theta ) } { d \\theta } \\right) \\hat { \\mathbf { e } } _ { r } - \\frac { r _ { p } } { 4 } \\hat { \\mathbf { e } } _ { \\theta } - \\frac { \\Omega r \\sin \\theta } { V ( \\theta ) } \\hat { \\mathbf { e } } _ { \\phi } \\right] .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We note that in the ecliptic, spacecraft observations have shown a negligible meridional component ofheliospheric magnetic field. In orderto conformto the observations and other models near the ecliptic,we recast the simplified three-dimensional heliospheric magnetic field model (Equation （12)）into the normalized ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "form as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { B } = { \\left\\{ \\begin{array} { l l } { { \\frac { B _ { 0 } } { r ^ { 2 } } } \\left[ \\left( 1 - { \\frac { r _ { p } } { 4 V ( \\theta ) } } { \\frac { d V ( \\theta ) } { d \\theta } } \\right) { \\hat { \\mathbf { e } } } _ { r } - { \\frac { r _ { p } } { 4 } } { \\hat { \\mathbf { e } } } _ { \\theta } - { \\frac { \\boldsymbol { \\Omega } r \\sin \\theta } { V ( \\theta ) } } { \\hat { \\mathbf { e } } } _ { \\phi } \\right] } \\\\ { { \\mathrm { ~ a t ~ h i g h ~ l a t i t u d e s , ~ } } } \\\\ { { \\frac { B _ { 0 } } { r ^ { 2 } } } \\left[ \\left( 1 - { \\frac { r _ { p } } { 4 V ( \\theta ) } } { \\frac { d V ( \\theta ) } { d \\theta } } \\right) { \\hat { \\mathbf { e } } } _ { r } - { \\frac { \\boldsymbol { \\Omega } r \\sin \\theta } { V ( \\theta ) } } { \\hat { \\mathbf { e } } } _ { \\phi } \\right] } \\\\ { { \\mathrm { ~ n e a r ~ t h e ~ e c l i p t i c } } . } \\end{array} \\right. }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For the simplified three-dimensional heliospheric magnetic field at high heliolatitudes,we can also obtain its latitudinally dependent magnitude ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB ( r , \\theta ) = \\frac { B _ { 0 } } { r ^ { 2 } } \\sqrt { \\left( 1 - \\frac { r _ { p } } { 4 V ( \\theta ) } \\frac { d V ( \\theta ) } { d \\theta } \\right) ^ { 2 } + \\left( \\frac { r _ { p } } { 4 } \\right) ^ { 2 } + \\left( \\frac { \\Omega r \\sin \\theta } { V ( \\theta ) } \\right) ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and its latitudinally dependent focusing length ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { L ( r , \\theta ) } \\\\ & { \\quad = \\frac { r \\left[ \\left( 1 - \\frac { r _ { p } } { 4 V ( \\theta ) } \\frac { d V ( \\theta ) } { d \\theta } \\right) ^ { 2 } + \\frac { r _ { p } ^ { 2 } } { 1 6 } + \\frac { \\Omega ^ { 2 } r ^ { 2 } \\sin ^ { 2 } \\theta } { V ^ { 2 } ( \\theta ) } \\right] ^ { 3 / 2 } } { \\left[ 2 \\left( 1 - \\frac { r _ { p } } { 4 V ( \\theta ) } \\frac { d V ( \\theta ) } { d \\theta } \\right) ^ { 2 } + \\frac { r _ { p } ^ { 2 } } { 8 } + \\frac { \\Omega ^ { 2 } r ^ { 2 } \\sin ^ { 2 } \\theta } { V ^ { 2 } ( \\theta ) } \\right] \\left( 1 - \\frac { r _ { p } } { 4 V ( \\theta ) } \\frac { d V ( \\theta ) } { d \\theta } \\right) + \\frac { r _ { p } \\Omega ^ { 2 } r ^ { 2 } \\sin 2 \\theta } { 8 V ^ { 2 } ( \\theta ) } } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We note that the approaches and the main conclusions presented here can be easily extended to the fully three-dimensional version of the Schwadron field model (Equation(7)) and other heliospheric magnetic field models. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the following,we will directly investigate the effects of the latitudinally dependent solar wind speed on the magnetic magnitude and the adiabatic focusing length by comparing the two cases of the standard Parker model and the modified two-dimensional or three-dimensional heliospheric magnetic field mentioned above. Figure 2 presents the magnetic field magnitude at 1 AU as a function of the colatitude $\\theta$ ranging from $0 ^ { \\circ }$ to $1 8 0 ^ { \\circ }$ . The black dotted line indicates the magnetic field magnitude of the standardParkermodel,while theblack dash-dotted,dashed,and solid curves indicate the magnetic magnitudes of the modified two-dimensional field model with the dimensionless constant $r _ { p } = 1$ ， $r _ { p } = 2$ ，and $r _ { p } = 4$ ，respectively,and the blue dash-dotted,dashed,and solid curves indicate the magnetic magnitudes of the modified three-dimensional field model with the dimensionless constant $r _ { p } = 1$ $r _ { p } = 2$ ，and $r _ { p } = 4$ ,respectively.In the figure one can see that there exists a significant difference between the standard Parker field and the modified magnetic fields with latitudinally dependent solar wind speed, especially within the two transition regions between the coronal holes and the streamer belt. This indicates that the effect of the latitudinally dependent solar wind speed on the heliospheric magnetic field magnitude isvery considerable. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/fe3a17c580b1529a955f872b08401bfb0d458af8d816bfd2b35f0ce0543be234.jpg",
+        "img_caption": [
+            "Figurealtoispei blackdoedadecd adiabaticfocusinglengthsofthemodifiedtwo-imensional(thre-dimensional)magneticfieldmodelwiththedimensionlessonstant $r _ { p } = 1 , r _ { p } = 2$ and $r _ { p } = 4$ respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 presents the adiabatic focusing length of the heliospheric magnetic field at1 AU asa function of the colatitude $\\theta$ ranging from $0 ^ { \\circ }$ to $1 8 0 ^ { \\circ }$ . The black dotted curve indicates the adiabatic focusing length of the standard Parker model, while theblackdash-dotted,dashed,and solid curves indicate the adiabatic focusing lengths of the modified two-dimensional magnetic field model with the dimensionless constant $r _ { p } = 1$ ， $r _ { p } = 2$ ，and $r _ { p } = 4$ ,respectively,and the blue dash-dotted, dashed,and solid curves indicate the adiabatic focusing lengths of the modified three-dimensional magnetic field model with the dimensionless constant $r _ { p } = 1$ ， $r _ { p } = 2$ ，and $r _ { p } = 4$ ,respectively. We can see that the latitudinally dependent solar wind speed significantly affects the adiabatic focusing length of the heliospheric magnetic field.We also notice that in the modified two-dimensional magnetic field model, the choice of the value of $r _ { p }$ is not very important.However, in the modified three-dimensional model, the choice of the value of $r _ { p }$ is still important when we consider the adiabatic focusing length in the high heliolatitude regions. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The diffusion tensor, consisting of parallel diffusion,perpendicular diffusion,and drift coefficients,is an essential parameter to study the transport and modulation of charged energetic particles in the turbulent interplanetary and interstellar magnetic field.In what follows,we will investigate the effects of the latitudinally dependent solar wind speed on the diffusion coefficients of cosmic rays in the presence of adiabatic focusing. First,we employ the description of the parallel mean free path of cosmic rays with adiabatic focusing (see He & Schlickeiser 2014,and references therein): ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { \\parallel } = 3 L \\left[ \\coth \\left( \\frac { \\lambda _ { 0 } } { L } \\right) - \\frac { L } { \\lambda _ { 0 } } \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $\\lambda _ { 0 }$ is the parallel mean free path in the absence of adiabatic focusing, $L$ is the adiabatic focusing length of the magnetic field. By combining Equation(16）with Equation (15)，we obtain the parallel mean free path of cosmic rays in the presence of adiabatic focusingwith the effect of the latitudinally dependent solar wind speed. We can also investigate the effects of the latitudinally dependent solar wind speed on the perpendicular mean free path and the drift scale of cosmic rays in the heliosphere.We use an analytical form of the perpendicular mean free path as (e.g.,Burger et al. 20O8; He & Wan 2012b) ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { \\perp } = \\left[ a ^ { 2 } \\frac { q - 1 } { 2 q } \\sqrt { \\pi } \\frac { \\Gamma \\left( \\frac { q } { 2 } + 1 \\right) } { \\Gamma \\left( \\frac { q } { 2 } + \\frac { 1 } { 2 } \\right) } l _ { 2 \\mathrm { D } } \\frac { \\delta B _ { 2 \\mathrm { D } } ^ { 2 } } { B ^ { 2 } } \\right] ^ { \\frac { 2 } { 3 } } ( 3 \\lambda _ { \\parallel } ) ^ { \\frac { 1 } { 3 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $a$ is a constant chosen to be $1 / \\sqrt { 3 } , l _ { 2 \\mathrm { D } }$ and $\\delta B _ { \\mathrm { 2 D } } ^ { 2 }$ are the bendover scale and the variance of the two-dimensional component of the turbulence,respectively.In this work,we employ the slab/two-dimensional composite magnetic turbulence model, in which the turbulence energy in the two-dimensional and slab modes is in the ratio of 8O:2O. We also utilize the typical solar wind conditions at 1 AU: $V _ { 0 } = 4 0 0 \\mathrm { k m s ^ { - 1 } }$ , the turbulence strength $\\delta B / B = 0 . 4$ ,the slab bendover scale $l _ { \\mathrm { s l a b } } = 0 . 0 3$ AU, the two-dimensional bendover scale $l _ { 2 \\mathrm { D } } = 0 . 1 l _ { \\mathrm { s l a b } } = 0 . 0 0 3$ AU, and the inertial range spectral index $q = 5 / 3$ . The so-called classical scattering result of the drift scale of cosmic rays is writtenas (e.g.,Burger&Visser2O1O;Tautz& Shalchi 2012) ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { d } = \\frac { \\lambda _ { \\parallel } ^ { 2 } R _ { L } } { \\lambda _ { \\parallel } ^ { 2 } + R _ { L } ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c3db9d87d2ddf2f7f57e421c8fab800ca405b9f2bde1e4a54edb236f5ad1446a.jpg",
+        "img_caption": [
+            "igure4e panel),and drift scale (bottom panel) of cosmic ray protons with energy of $1 0 0 \\ \\mathrm { M e V }$ at1AU.In each panel,the black dotted curve indicates the corresponding diio coeffcientsassociatedwiththemodifedtwo-dimensional(thre-dimensional)magneticfeldmodelwiththedimensionlessconstant $r _ { p } = 1 , r _ { p } = 2$ ,and $r _ { p } = 4$ respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $R _ { L }$ is the unperturbed Larmor radius of the cosmic ray particle. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 presents the parallel mean free path,perpendicular mean free path,and drift scale of cosmic ray protons with energy of $1 0 0 \\ \\mathrm { M e V }$ at 1 AU,as a function of the colatitude $\\theta$ ，from top to bottom panels,respectively. In each panel,the black dotted curve indicates the corresponding diffusion coefficient associated with the standardParker model,while the blackdash-dotted,dashed,and solidcurves indicate the corresponding diffusion coefficients associated with the modified two-dimensional magnetic field model with the dimensionless constant $r _ { p } = 1$ ， $r _ { p } = 2$ ，and $r _ { p } = 4$ ，respectively,and the blue dash-dotted,dashed,and solid curves indicate the corresponding diffusion coefficients associated with the modified three-dimensional magnetic field model with the dimensionless constant $r _ { p } = 1$ ， $r _ { p } = 2$ ，and $r _ { p } = 4$ ,respectively. From the figure one can see that the diffusion coefficients derived from the standard Parker field gradually change with the colatitude $\\theta$ from $0 ^ { \\circ }$ to $1 8 0 ^ { \\circ }$ .However, the diffusion coefficients derived from the modified heliospheric magnetic fields with the effects of the latitudinally dependent solar wind speed vary more significantly through the colatitude range of $0 ^ { \\circ } - 1 8 0 ^ { \\circ }$ ，especially within the two transition regions between the coronal holes and the streamer belt,where the diffusion coefficients of the modified magnetic fields are much smaller than those of the standard Parker field. This implies that the latitudinally dependent solar wind speed plays a very important role in the diffusion and transport processes of cosmic rays in the global heliosphere. Therefore,when we investigate the transport and modulation of cosmic rays in the global view of the heliosphere,the effects of the latitudinally dependent solar wind speed should be taken into account. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.SUMMARYANDCONCLUSION ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The Ulysses spacecraft has shown that the solar wind speed varies with the heliolatitude,i.e.,high speed in the high heliolatitude coronal holes,low speed in the coronal streamer belt,and intermediate speed in the transition regions between the coronal holes and the streamer belt.Therefore,a constant solar wind speed independent of heliolatitude is oversimple for describing the realistic conditions.It is necessary to theoretically model the latitudinally dependent solar wind speed and systematically investigate its effects on the heliospheric magnetic field and the transport coefficients ofcosmic rays in the presence ofadiabatic focusing.In this work,we present theoretical models in hyperbolic and piecewise polynomial forms to model the latitudinally dependent solar wind speed measured by the Ulysses spacecraft in the time period 9/1994-7/1995.Subsequently,we further investigate the effects of the latitudinally dependent solar wind speed on the heliospheric magnetic field and the diffusion coefficients (parallel,perpendicular,and drift scale) of cosmic rays with adiabatic focusing. We find that the latitudinally dependent solar wind speed has significant influences on the magnitude of the heliospheric magnetic field, especially within the two transition regions between the coronal holes and the streamer belt. In addition,the latitudinally dependent solar wind speed plays a very important role in the diffusion and transport processes of cosmic rays in the presence of adiabatic focusing in the heliosphere,especially within the two transition regions between the coronal holes and the streamer belt. Therefore,we suggest that in the three-dimensional or global heliospheric modeling studies of cosmic rays,the effects of the latitudinally dependent solar wind speed should be taken into account.In the theoretical analysis of cosmic ray diffusion and transport,we should also employ the modified descriptions of the heliospheric magnetic field and the diffusion coefficients of cosmic rays with the effects of the latitudinally dependent solar wind speed. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In most large SEP events,the SEPflux increases are usually observed concurrently by in-ecliptic near-Earth spacecraft and the Ulysses spacecraft at high heliolatitudes (e.g.,McKibben et al.2003; Lario et al. 2003;Dalla et al. 2003；Sanderson et al.2OO3). Some simulation works have been presented to explain this phenomenon (e.g.,He et al.2O11).In the studies of SEP transport and GCR modulation in the future,we will use the modified expressions of the diffusion coefficients (parallel, perpendicular,and drift scale）of charged energetic particles in the presence of adiabatic focusing and with the effects of the latitudinally dependent solar wind speed, provided in the present paper.In addition,we note that the theta component of the modified heliospheric magnetic field structure is azimuthally phase dependent,which means that ithas the potential to create significant asymmetries.In the future work,we will also take into consideration these complications and their effects on the drifts and parallel propagation of charged particles in the heliosphere. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We thank the anonymous referees for their valuable comments.H.-Q.He benefited from a discussion with Horst Fichtner. This work was supported in part by grant Schl 201/ 29-1 of the Deutsche Forschungsgemeinschaft, the National Natural Science Foundation of China under grants 41204130, 41474154,41321003,and 41131066,the National Important Basic Research Project under grant 2O11CB811405, the Chinese Academy of Sciences under grant KZZD-EW-O1-2, the SpecializedResearchFund for StateKeyLaboratories,and the OpenResearch Program from the State KeyLaboratory of Space Weather, Chinese Academy of Sciences.H.-Q.He gratefully acknowledges the support of the International Postdoctoral Exchange Fellowship Program of China under grant 2O130023. We benefited from the solar wind speed data measured by the Ulyssesspacecraft. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Bieber,J.W.,Matthaeus,W.H.,Smith,C.W.,et al.1994,ApJ,420,294   \nBurger,R.A.,Krüiger,T.P.J.,Hitge,M.,& Engelbrecht,N.E.2OO8,ApJ,   \n674, 511   \nBurger,R.A.,& Sello,P.C.2005,AdSpR,35,643   \nBurger,R.A.,&Visser,D.J.2010,ApJ,725,1366   \nDalla,S.,Balogh,A.,Krucker,S.,et al.2003,GeoRL,30,8035   \nDwyer,J.R.,Mason,G.M.,Mazur,J.E.,et al.1997,ApJL,490,L115   \nEarl, J.A. 1976,ApJ,205,900   \nForsyth,R.J.,Balogh,A.,Smith,E.J.,Erdos,G.,&McComas,D.J.1996,JGR,   \n101, 395   \nGiacalone,J.,&Jokipii,J.R.1999,ApJ,520,204   \nGosling,J.T.,Asbridge,J.R.,Bame, S.J.,et al.1981,JGR,86,5438   \nHe,H.-Q.,& Qin,G.2011,ApJ,730,46   \nHe,H.-Q.,Qin,G.,& Zhang,M. 2011,ApJ,734,74   \nHe,H.-Q.,& Schlickeiser,R.2014,ApJ,792,85   \nHe,H.-Q.,&Wan,W.2012a,ApJ,747,38   \nHe,H.-Q.,&Wan,W.2012b,ApJS,203,19   \nHe,H.-Q.,&Wan,W.2013,A&A,557,A57   \nHeber,B.,& Potgieter,M.S.2006,SSRv,127,117   \nHitge,M.,&Burger,R.A.201O,AdSpR,45,18   \nHundhausen,A.J.1977,in Coronal Holes and High Speed Wind Streams,ed.   \nJ.B.Zirker(Boulder,CO:Colorado AssociatedUniv.Press),225   \nJokipii,J.R.1966,ApJ,146,480   \nLario,D.,Roelof,E.C.,Decker,R.B.,& Reisenfeld,D.B.20O3,AdSpR,   \n32,579   \nMcComas,D.J.,Bame, S.J.,Barraclough,B.L., et al.1998a,GeoRL,25,1   \nMcComas,D.J.,Riley,P.,Gosling,J.T.,Balogh,A.,&Forsyth,R.1998b,JGR,   \n103,1955   \nMcKibben,R.B., Connell, J.J.,Lopate,C., et al.2003,AnGeo,21,1217   \nMiyake,S.,&Yanagita, S.2008,ICRC,1,445   \nPalmer,I.D.1982,RvGSP,20,335   \nParker,E.N.1958,ApJ,128,664   \nRoelof,E.C.1969,in Lectures in High Energy Astrophysics,SP-199,ed.H.   \nOgelmann&J.R.Wayland(Washington,DC:NASA),111   \nSanderson，T.R.，Marsden,R.G.，Tranquille,C.，et al．20o3,GeoRL,   \n30, 8036   \nSchlickeiser,R.,& Jenko,F.2010,JPIPh,76,317   \nSchlickeiser,R.,& Shalchi,A.2008,ApJ,686,292   \nSchwadron,N.A. 2002,GeoRL,29,1663   \nSchwadron,N.A.,&McComas,D.J.2003,GeoRL,30,1587   \nSchwadron,N.A.,&McComas,D.J.2005,GeoRL,32,3112   \nSmith,E.J.,Slavin,J.A.,& Thomas,B.T.1986,in The Sun and Heliosphere   \nin ThreeDimensions,ed.R.G.Marsden(Dordrecht:Reidel),267   \nTautz,R.C.,& Shalchi,A.2012,ApJ,744,125   \nZirker,J.B.1977,RvGSP,15,257 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

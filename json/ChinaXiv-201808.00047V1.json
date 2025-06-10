@@ -1,0 +1,440 @@
+[
+    {
+        "type": "text",
+        "text": "基于CapsNet的中国手指语识别",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "郝子煜，阿里甫·库尔班，李晓红，依沙·吾阿提别克(新疆大学 软件学院，乌鲁木齐 830046)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：中国手指语的识别作为中国手语识别中重要的组成部分，使听障者的交流和人机交互更加便捷。传统的手指语识别采用卷积神经网络的方法，模型结构单一，在池化层会丢弃很多信息。Capsule（胶囊）是在神经网络中构建和抽象出的子网络，每个胶囊都专注于一些单独的任务，又能保留图像的空间特征。分析了中国手语中手指语的特征，构建并扩展了手指语图片训练集，试图用CapsNet(胶囊网络)模型解决手指语的识别任务，对比了不同参数下CapsNet的识别率，并与经典的GoogLeNet 卷积网络作对比。实验结果表明，CapsNet在手语识别任务上能达到较好的识别效果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：手语；手指语识别；神经网络；胶囊网络 中图分类号：TP183 doi:10.3969/j.issn.1001-3695.2018.05.0341 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chinese finger language recognition use CapsNet ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hao Ziyu, Alifu.kuerban†,Li Xiaohong, Yisa.watbek (School of Software,University of Urumqi 830o46,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Asan important partof Chinese sign language recognition,therecognitionof Chinese finger language makes the communicationof thedeaf and man-machine interaction more convenient.Traditional finger-language recognition adopts the methodofconvolutionneuralnetwork(CNN),leading tothestructureof the modelissingleandalotof information wille discarded in the pooling layer.Capsules are Kindsofconstructedand Abstract:d subnetworks in neural networks，and meanwhile each Capsule focuses on individual tasks and preserving spatial features ofthe image.Analyzing characteristics of fingerlanguage in Chinese sign language,andconstructing and expandingtrainingsetoffingerlanguage pictures,we tryto solvethe task of finger language recognition byusing CapsNet.Comparing the CapsNet recognition rate under different parameters and comparing with the clasic GoogLeNet convolution network，experimental results show that CapsNet can achieve better recognition effect in the task of sign language recognition. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: sign language; finger language recognition; neural network; capsnet ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "手语作为聋哑人思想交流和人际交往的主要工具，在该群体知识习得、个体发展和社会认知中伴有重要的作用[1。手语是聋哑人通过手和手臂，同时借助头部动作、脸部表情和肢体姿态进行交流的特殊语言。手语识别利用模式识别技术，通过分析手和手臂的动作姿态特征，将序列特征作为分类器的输入进行分类识别任务，最终将手语翻译为文本或声音输出，方便听障人群的日常交流[2]。手语识别也为健全人学习和理解手语提供了便利条件。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "手指语用指式代表字母，按照汉语拼音方案拼成普通话。由于手指语指式少，而且易学易记，可以帮助聋哑学生识记、辨认语音，提高看话能力，加快识字进度，更好地掌握新词。手指语作为中国手语重要组成部分，使中国手语更加完善。通过结合手指语改善了手势语的表达方法，使手势语更加精确和丰富。《汉语手指语字母方案》共规定了30个字母指式，如图1所示。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "顾定倩等人[3认为，用手指语表示特定的手语意义是中国手语中相当普遍的现象。手指语不仅充当某个词素，还经常充当基本词。主要有以下三种形式的手指语：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a)单一字母手势。它是用一个表示声母的手指语来表示一个词的手势，除了“v”这个手指字母没有运用外，其他29个手指语全都作为基本词独立出现过，如手势语“碧绿”和“白”，手势如图2所示。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "b)字母变式手势。这类基本词的构思仍然是使用手指语，但是在使用方式上发生了变异，称之为变式。例如用一、两个变换方向、或附加动作、或置于身体某个部位的手指语表示一个词的手势，如手势语“冯”。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c)字母音节手势。它是用完整表示声韵母音节手指语表示词的手势，如手势语“吴”。“冯”和“吴”的手势如图3所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e4a68d38b17c57fad4cbd02b71977c44b9a04b236e7265a612cd58b80ca519aa.jpg",
+        "img_caption": [
+            "图1中国手指语指式图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/1258a335a46498613bc25c1c1a1c1d744d9ec27c52cd93636c150c167f20214f.jpg",
+        "img_caption": [
+            "图2手语“碧绿”和“白” "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b556f062d175a190a642b7d7e8344214ff8eda4ba74f77f4b7da5ebd74f5998.jpg",
+        "img_caption": [
+            "图3手语“冯”和“吴” "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由此可以看出，手指语是中国手语中必不可少的一部分，不仅可以单独的手语表达，也可以伴随着一、两个手势动作表达手语信息。手指语使手语表达更加准确和丰富，尤其有利于一些生僻字词的表达。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一方面，手语识别可以作为健全人与聋哑人之间的翻译，为聋哑人提供更好的服务；另一方面，作为人体语言理解的一部分，手语识别可作为人机交互的一种手段。综上所述，手指语的识别是手语识别的重要基础和组成部分，对于中国手语的识别具有重大的意义[4]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 CapsNet模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前基于计算机视觉的手语识别方法主要采用卷积神经网络的方法[5]。卷积神经网络在图像分类的任务上有突出的表现。一个完整的卷积网络通常包括输入层、卷积层、池化层、全连接层。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "传统的卷积神经网络都是在LeNet5模型的基础上，用增加网络的层数、改变激活函数等方法改进[]。LeNet5是第一个成功应用于数字识别问题的卷积神经网络，其结构如图4所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ImageMaps Input K G < Output T Convolutions Fully Connected Subsampling ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "卷积神经网络通过结合局部感知区域、共享权值、空间或时间上的池化降采样三大特点来充分利用数据本身包含的局部性特征，并且在一定程度上保证位移的不变性[7。卷积模型的权值共享结构相似于生物神经网络，降低了网络模型的复杂度，减少了权值的数量。因为这种结构特点使其尤其适合大图像数据的机器学习，可以使数量庞大的图像识别问题不断降维，池化结构极大地提高了网络运算的效率。但正是由于这样的池化结构，在对特征图进行抽样时，也会造成丢失一些有效的数据信息。深度学习之父Hinton认为，池化解决的问题是错的，我们应该整理信息而不是丢弃信息，并提出了Capsule 理论[8]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CapsNet由n个子网络（Capsule）构成，每个胶囊都专注于做一些单独的任务，而胶囊本身需要多层网络来实现。其输出的向量包括物体所属类型的概率以及物体的状态信息（如位置、方向、大小、形变、速率、颜色等)。低层Capsule 输出的参数会被转换成高层胶囊对实体状态的预测，如果预测一致，则输出这一层的参数。CapsNet模型如图5所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "可以看出，CapsNet 模型也采用卷积结构提取特征，但PrimaryCaps（Capsule的准备层）可以把数据信息在多通道下分为若干个单元，从而按照每个单元生成保留空间信息的向量，最后输入下一层的Capsule神经元中。这一结构取代了传统卷积网络中的池化层，有效地减少了信息的损失。最后一层与全连接层类似，但每个神经元被改造为Capsule 结构进行分类输出，称为DigitCaps层。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3cbb2f8bffd931251879bfde951d80dd47ea401fa399d96d81c0d992040be192.jpg",
+        "img_caption": [
+            "图4LeNet5 结构",
+            "图5CapsNet模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CapsNet模型用活动向量表示一个实体是否出现以及这个实体的属性。用向量不同维度上的值分别表示不同的属性，然后用整个向量的模表示这个实体出现的概率。为了保证向量的长度，也就是实体出现的概率在0\\~1间，向量通过一个非线性计算进行压缩和标准化，这样向量在高维空间中的方向体现了这个实体的不同属性。采用squashing非线性函数可保证输出向量的长度在0\\~1间。以下是 squashing 函数表达式：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu _ { j } = \\frac { | | s _ { j } | | ^ { 2 } } { 1 + | | s _ { j } | | ^ { 2 } } \\frac { s _ { j } } { | | s _ { j } | | }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\nu$ 为Capsule 的输出向量； $s$ 为上一层Capsule 输出的向量加权和。该非线性函数既保留了输入向量的方向，也将输入向量的长度压缩在[0,1)区间内。向量的输入可分为两个阶段，如下所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns _ { j } = \\sum _ { i } c _ { i j } \\hat { u } _ { j \\vert i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { u } _ { j \\vert i } = W _ { i j } u _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\hat { u } _ { j \\vert i }$ 由较低层的Capsule输出 $u _ { i }$ 与权重矩阵相乘得来； $c _ { i j }$ 是动态路由过程中的耦合系数，如下所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc _ { i j } = \\frac { \\exp { \\left( b _ { i j } \\right) } } { \\sum _ { k } \\exp { \\left( b _ { i k } \\right) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nb _ { _ { i j } } + \\hat { u } _ { _ { j | i } } \\cdot \\nu _ { _ { j } }  b _ { _ { i j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用预测向量 $\\hat { u } _ { j \\vert i }$ 和输出向量 $\\boldsymbol { \\nu } _ { j }$ 的内积来度量向量间的一致性，并更新 $b _ { i j }$ ，利用softmax更新耦合系数，进一步修正下一层Capsule 的输入 $^ { s } j$ ，最后输出新的 $\\boldsymbol { \\nu } _ { j }$ 。通过这种方式不断迭代更新一致性参数。Capsule层级间结构如图6所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/10caa053f65cda907f16b2b90031f62dfceb8fe351361d46916131179637d69e.jpg",
+        "img_caption": [
+            "图6Capsule层级间结构"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "这样通过上述方法不断更新 $c _ { i j }$ ，不需要应用反向传播算法。而且该Routing 算法十分容易收敛，通过3次迭代就会达到不错的收敛效果。但在整个网络中其他卷积参数和Capsule内的Wij权重矩阵依然需要根据损失函数进行更新，通常使用标准的反向传播更新这些参数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 实验准备 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1手指语采集及预处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Kinect是微软发布的深度摄像头9，提供的深度数据和人体骨骼点数据为手势识别的研究开辟了更广阔的空间。通过Kinect中BodyIndex方法可以得到深度图像，把手部图像提取出来[10]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于Kinect的深度值会随距离的增加发生偏差，为达到更好的实验效果，被拍摄的手部位于Kinect正前方 $1 . 2 \\ \\mathrm { m } { \\sim } 1 . 5 \\ \\mathrm { m }$ 的距离，并且分别从手势的正前方、左侧方、右侧方三个角度采集。得到的二值手指语图像将手部置于图像中心，并缩小为44x44的二值图像，以减小实验的运算量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 图像滤波",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "传统的滤波算法有均值滤波、中值滤波、高斯滤波等。均值滤波算法相对简单且易于实现，但会使目标边缘模糊，而且对0值噪声敏感，影响后续处理。高斯滤波处理图像的平滑程度取决于标准差，离中心越近的像素权重越高，平滑效果较好。由于通过Kinect采集的深度图像中噪声多为0值点，即摄像机无法获取深度值的点，使用中值滤波可以有效去除噪声点，又能保护手部边缘信息[1]。所以本文采用中值滤波算法进行去噪。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "中值滤波法是一种非线性平滑技术，它的基本原理是通过使用模板合算子对覆盖区域内所有像素值排序，将这些像素点的中值更新当前像素点的值。本文使用的中值滤波模板大小为3x3。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3扩展数据集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在训练图像识别的深度神经网络时，通过使用大量的训练数据，使网络得到更好的性能，如提高网络的分类准确率、防正过拟合等。获取更多的训练样本的代价很大，在实践中常常是很难达到的，但是通过人为扩展训练数据[12]能够获得类似的效果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文对三个方向的手指语图像采用水平翻转、旋转、添加随机椒盐噪声方法来扩展训练数据集，这些方法可以模拟真实世界的变化，提升模型的准确率和泛化能力[13]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采集中国手指语前10个字母a\\~j的手指语，对数据集全部处理完毕后，共生成6500 张手指语图片，其中随机选取500张作为测试集，数据处理流程如图7所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f2885de59266debfaa6ee1adf7e97f505c3537ccbd815e6858fdc49ddbe8ce8.jpg",
+        "img_caption": [
+            "图7数据集预处理"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 实验 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验硬件环境为：Intel酷睿i5-3230CPU $\\textcircled { \\underline { { a } } } 2 . 6 0 \\ : \\mathrm { G H z }$ 四核CPU，8GB内存，NVIDIAGeForceGT645M2GB显卡。首先输入 $4 4 \\mathrm { x } 4 4$ 图像数据。由于手指语类型较多，手形轮廓较复杂，较大的卷积核可以提取到较多手型边缘特征。本实验以前两层卷积核设置大小为8x8、10x10和13x13，并在不同环境下作为对比实验[14]，第一层卷积步幅为1x1，第二层卷积步幅为 $2 \\mathrm { x } 2$ 反向传播算法迭代20次，动态路由算法共迭代3次。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "首先卷积核大小设置为10x10，对全部图像进行中值滤波处理，在没有添加噪声的条件下进行了实验，达到了较高的识别率。损失函数变化如图8所示。由图可以看出，CapsNet 模型可以很快地拟合数据。在训练到第4500步后，趋于稳定状态。训练效果如图9所示。在该实验条件下，CapsNet 模型在测试集的识别率达到 $9 5 . 8 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/79b369c83ad807d317ba933ae0c294a5ac041860ed1be53a9b32dd7219808f30.jpg",
+        "img_caption": [
+            "图8整体损失变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e2a269026af86b82f38dfa848f6b3ce737b6e92a933cdeba756f3b1120841bef.jpg",
+        "img_caption": [
+            "图9训练效果"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在上述实验的基础上添加随机椒盐噪声后，识别率下降并不明显，证明了此模型拥有较好的鲁棒性。本文分别使用8x8和13x13的卷积核重复实验，实验结果对比如表1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c825d2179efe521a49f67217b648d3603c3dad0796dfcb71ab9bd8bf3dcfe486.jpg",
+        "table_caption": [
+            "表1不同参数下平均识别率对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>8x8</td><td>10x10</td><td>13x13</td></tr><tr><td>无噪声</td><td>92.6%</td><td>95.8%</td><td>95.8%</td></tr><tr><td>有噪声</td><td>91.2%</td><td>94%</td><td>95.4%</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在此基础上，实验分别在测试集上验证每个手指语的准确率，达到了预期效果。由于手指语的采集分别从正前方、左侧方、右侧方三个角度采集，导致手指语 $\\mathbf { g }$ 和i中几个手势相似，所以在测试集上的识别率不太理想，平均识别率分别达到 $84 \\%$ 和 $82 \\%$ ，而手指语j的识别率达到 $100 \\%$ 。单个手指语识别率如图10所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "GoogLeNet 的Inception 结构相比AlexNet 和VGG，增加了网络宽度，拥有更少的参数，保持了网络结构的稀疏性，利用密集矩阵极大的提高了计算性能[15]。Inception $- \\mathbf { V } 4 ^ { [ 1 6 ] }$ 不仅具有Inception 前四个版本的特性，更是结合了ResNet，进一步减小了错误率。由此，在有噪声的条件下，使用Inception-v4 进行实验作为对比。CapsNet与Inception-v4 实验对比如表2所示。从表2可以看出，Inception-v4的平均准确率为 $9 4 . 4 \\%$ 略低于CapsNet。对于单个手指语字母的识别，最高都达到了$100 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fd071ca34bc0436cba7155dfb658de8c75833c79d40c485c3ef652bc8f4f0db7.jpg",
+        "img_caption": [
+            "图10单个手指语准确率"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/2bc8e04ec1ee867b8c8c3ff7aceec7c126a477659337185dd105a428e45129ae.jpg",
+        "table_caption": [
+            "表2CapsNet 与 Inception-4 实验对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>网络结构</td><td>平均准确率</td><td>单个最高准确率</td></tr><tr><td>CapsNet</td><td>95.4%</td><td>100%</td></tr><tr><td>Inception -v4</td><td>94.4%</td><td>100%</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文采用CapsNet模型，使用卷积结构和动态路由更新参数的算法进行静态手指语的识别。实验显示CapsNet模型在手指语识别的任务上达到很好的效果，在添加噪声的条件下最高平均识别率达到 $9 5 . 4 \\%$ ，尤其是在三个角度的手指语会造成部分手指语特征不明显的情况下达到较高的准确率，说明了这种动态路由更新参数和用向量预测目标属性的算法有较好的性能。手语包括了手形、方向、位置、运动轨迹四个特征。手指语只是手形的一部分。在未来的研究工作中，针对动态手语的多个手语特征，使用时空域的算法结合Capsule的优良特性进行完整手语的识别。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]余晓婷，贺荟中．国内手语研究综述[J].中国特殊教育，2009 (4):36-41.(Yu Xiaoting,He Huizhong. A review on domestic sign languagestudy[J].Chinese Journal of SpecialEducation,20o9(4): 36-41.)  \n[2]姚登峰，江铭虎，阿布都克力木·阿布力孜，等．中国手语信息处理述评[J].中文信息学报，2015，29(5):216-228.(Yao Dengfeng，JiangMinghu,Abudoukelimu Abulizi,et al.A survey of Chinese sign languageprocessing [J]. Journal of Chinese Information Processing,2O15,29 (5):216-228. )  \n[3]顾定倩，宋晓华，于缘缘．中国手语基本词（基本动作）类型分析[J].中国特殊教育，2005(2):65-72.(Gu Dingqian，Song Xiaohua，YuYuanyuan. The analysis of Chinese sign language's basic words (basicmovements)[J]. Chinese Journal of Special Education,2Oo5 (2): 65-72.)  \n[4]李勇，高文，姚鸿勋．基于颜色手套的中国手指语字母的动静态识别[J].计算机工程与应用，2002,38(17):55-58.(Li Yong,Gao Wen,YaoHongxun. Chinese sign language finger alphabet recognition based on",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "colorgloves [J].Computer Engineering & Applications,2Oo2,38(17): ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "55-58.)   \n[5]易靖国，程江华，库锡树．视觉手势识别综述[J].计算机科学，2016, 43(s1):103-108.(Yi Jingguo,Cheng Jianghua,Ku Xishu.Review of gestures recognition based on vision [J]. Computer Science,2O16,43 (s1): 103-108.)   \n[6]周飞燕，金林鹏，董军．卷积神经网络研究综述[J].计算机学报，2017, 40(6):1229-1251.(Zhou Feiyan,Jin Linpeng,Dong Jun.Review of convolutional neural network [J]. Chinese Journal of Computers,2017,40 (6):1229-1251.)   \n[7]李旭冬，叶茂，李涛．基于卷积神经网络的目标检测研究综述[J].计 算机应用研究,2017,34(10):2881-2886,2891.(Li Xudong,Ye Mao,Li Tao.Review of object detection based on convolutional neural networks [J]. Application Research of Computers,2017,34(10): 2881-2886,2891.)   \n[8]Sabour S,Frosst N,Hinton G E,et al.Dynamic routing between capsules [C]//Advances in Neural Information Processing Systems. 2017: 3856-3866.   \n[9]刘佳，郑勇，张小瑞，等．基于Kinect的手势跟踪概述[J].计算机应用 研究,2015,32(7):1921-1925.(Liu Jia,Zheng Yong,Zhang Xiaorui,et al. Overview of hand gesture tracking based on Kinect [J].Application Research of Computers,2015,32(7):1921-1925.)   \n[10]邓瑞，周玲玲，应忍冬．基于Kinect 深度信息的手势提取与识别研究 [J].计算机应用研究,2013,30(4):1263-1265.(Deng Rui,Zhou Lingling, Ying Rendong.Gesture extraction and recognition research based on Kinect depth data [J].Application Research of Computers,2O13,30 (4): 1263-1265.)   \n[11]阮秋琦．数字图像处理学[M].北京：电子工业出版社，2007.(Ruan Qiuqi.Digital image processing [M]. Beijing:Electronic Industry Press, 2007.)   \n[12]Krizhevsky A, SutskeverI,Hinton G E,et al. Imagenet classification with deep convolutional neural networks [C]// Advances in Neural Information Processing Systems.2012:1097-1105.   \n[13] Simard PY, Steinkraus DW,Platt J,et al. Best practices for convolutional neural networks applied to visual document analysis [C]// Proc of International Conference on Document Analysis and Recognition.2003: 958-963.   \n[14] Szegedy C,Liu Wei,Jia Yangqing,et al. Going deeper with convolutions [C]// Proc of IEEE Conference on Computer Vision and Pattern Recognition.[S.I.] : IEEE Press,2015:1-9.   \n[15] Canziani A,Paszke A,Culurciello E.An analysis of deep neural network models for practical applications [J/OL].[2O18-03-O7].https://arxiv. org/abs/1605.07678.   \n[16] Szegedy C,Ioffe S,Vanhoucke V,et al. Inception-v4,Inception-ResNet and the impact of residual connections on learning [C]// Proc of the 31st AAAI Conference on Artificial Intelligence.Palo Alto,California: AAAI Press,2017: 4278-4284. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

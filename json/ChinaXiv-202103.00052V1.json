@@ -1,0 +1,378 @@
+[
+    {
+        "type": "text",
+        "text": "基于实测数据的库姆塔格沙漠南北两侧洪积扇降水特征分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "庞菅军123，吴波¹²，孔德庸4，高君亮5(1.中国林业科学研究院荒漠化研究所,北京100091；2.荒漠生态系统与全球变化国家林业和草原局重点实验室,北京100091；3.库姆塔格荒漠生态系统定位研究站,甘肃 敦煌736200;4.韶关学院,广东 韶关512005；5.中国林业科学研究院沙漠林业实验中心,内蒙古 磴口015200)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：利用库姆塔格沙漠南北两侧洪积扇2017年6月至2018年5月的野外实测降水数据，对其降水特征进行了详细的分析,结果表明：(1)受地理位置、地形等的影响,库姆塔格沙漠降水空间分布差异较大。北侧北山洪积扇三垄沙地区的年降水量最小，为 $2 1 . 6 \\ : \\mathrm { m m }$ ;南侧阿尔金山洪积扇降水量自西向东逐渐增多，胡杨沟上游、乌什喀特、赛马沟和多坝沟的年降水量分别为 $7 3 . 0 , 7 5 . 2 , 1 7 6 . 0 \\mathrm { m m }$ 和 $1 3 7 . 4 \\ : \\mathrm { m m }$ ;南侧阿尔金山洪积扇降水量大致自北向南逐渐增多,胡杨沟下游和中游年降水量分别为 $5 8 . 0 \\mathrm { m m }$ 和 $5 6 . 4 \\mathrm { m m }$ ,小于胡杨沟上游。(2）库姆塔格沙漠南北两侧洪积扇的降水主要发生在5一8月，累计降水量占到全年 $90 \\%$ 左右。(3）库姆塔格沙漠南北两侧洪积扇年降水次数介于11\\~26次，数量较少的大降水事件对年总降水量贡献率大。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：库姆塔格沙漠；降水；洪积扇 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "降水是水循环过程的主要环节之一，是地球上各种水体的直接或者间接补给来源，对生态系统结构和功能的维持具有重要作用[1-2]。降水受地理位置、大气环流、天气系统、下垫面条件等因素综合影响，降水时空分布的差异导致了陆地地表过程的分异，同时，其在空间分布上的不均匀与时间变化上的不稳定性又是引起洪、涝、旱灾的直接原因。在干旱地区，水分是干旱生态系统最主要的限制性因子，许多关键的生态过程受水分变化的影响强烈[3-6]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "库姆塔格沙漠是我国八大沙漠中研究基础最为薄弱的一个沙漠。该地区大部分地区人迹罕至，交通不便，2004年以前该地区的研究非常少，该地区的气象、水文等观测资料也很少[7]。近年来，随着我国学者对库姆塔格沙漠综合科学考察的逐渐深入，有关库姆塔格沙漠的形成演化、风沙地貌形成发育过程、区域水系、土壤、动植物等方面开展了大量的调查和研究工作[8-9],为深入认识库姆塔格沙漠形成演化、环境变迁和生态过程奠定了基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "库姆塔格沙漠地表和地下径流来源于山区降水和冰雪融水补给[0]，径流的流量与降水季节分配、降水量和降水强度等密切相关[]。库姆塔格沙漠自然条件非常严酷，受水分、高温以及土壤盐分等因子影响，沙漠内部大部分区域植被稀少，植被主要集中分布在阿奇克谷地、阿尔金山山前洪积扇和西湖湿地3个区域，且各区的物种组成差异显著[12]。库姆塔格沙漠地区共有植物146种,分属30科,92属;该地区植物物种贫乏，生活型简单，主要以灌木、一年生及多年生草本植物为主。降水对库姆塔格沙漠的植被分布及物种组成具有重要影响。降水是库姆塔格沙漠地区景观空间分布格局及动态变化的最主要的自然驱动要素[13]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵勇等[14]分析了库姆塔格沙漠周边6个气象站1961一2004年降水年内分布特征以及年代际的变化趋势。康延臻等[15利用中国自动气象站与CMORPH融合降水量数据集，分析了库姆塔格沙漠及阿尔金山的降水特征。胡钰玲等基于库姆塔格沙漠周边地区20个气象站1960—2014年逐日降水资料，分析了库姆塔格沙漠周边地区极端降水的时空变化特征；基于中国自动气象站与CMORPH融合降水量数据集，分析了库姆塔格沙漠降水和大降水的时空变化特征[]；基于NCEP/NCAR再分析资料和FNL再分析资料，对不同环流型的典型大降水过程进行诊断分析，并运用HYSPLIT后向轨迹模型追踪了其水汽来源[18]。虽然上述研究在一定程度上了揭示了库姆塔格沙漠的降水特征，但是其研究结果或基于研究区外围气象站点或基于融合数据；库姆塔格沙漠阿尔金山和北山的洪积扇地区缺乏实测降水数据，因此，其对该研究区的降水分析精度会大大降低。降水受地形影响非常大，库姆塔格沙漠的阿尔金山和北山的洪积扇地区与相邻的国家气象站点距离较远，下垫面特征差异较大，其降水特征有其独特性。库姆塔格沙漠南侧阿尔金山洪积扇和北侧北山洪积扇不仅是沙漠形成的物源地、山区河流流向盆地的必经之地、区域动植物的重要栖息地，同时作为重要的土地资源，对区域经济发展也具有重要的意义。受严酷自然条件的制约，该地区缺乏系统的实测降水资料。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文基于库姆塔格沙漠南侧阿尔金山洪积扇和北侧北山洪积扇2017年6月至2018年5月的野外实测降水数据，对其降水特征进行详细分析，研究结果可为库姆塔格沙漠地区气候变化、生态环境保护、水文水资源评估以及地貌形成演化等方面研",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "究提供重要参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "库姆塔格沙漠位于塔里木盆地东端，地理坐标为 $3 9 ^ { \\circ } 0 0 ^ { \\prime } { \\sim } 4 0 ^ { \\circ } 4 7 ^ { \\prime } \\mathrm { N } , 9 0 ^ { \\circ } 2 7 ^ { \\prime } { \\sim } 9 4 ^ { \\circ } 4 8 ^ { \\prime } \\mathrm { E }$ ；东西长约280$\\mathrm { k m }$ ，南北宽约 $1 2 0 \\mathrm { k m }$ ，面积约 $2 . 2 8 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ，为中国第六大沙漠(图1)。库姆塔格沙漠发育在阿尔金山和北山之间广阔的冲、洪积扇上，像一把“扫帚\"或“羽毛扇”，有南北向深切沟谷发育，自西向东主要有沙山沟、红沟、山水沟、东沟、西土沟等，其中有2\\~3条有常年流水，其他均为季节性洪水下泄的干沟[9]。库姆塔格沙漠西北部为罗布泊,东部有西湖湿地和疏勒河、党河下游干涸河道，冲、洪积扇上裸露的岩石碎屑风化产物、河流(洪水)冲积物、罗布泊湖相沉积物等都为库姆塔格沙漠的发育提供了丰富的沙源[19]。库姆塔格沙漠深居内陆,远离海洋，湿润气流不易到达，气候极端干旱，是我国最干旱的沙漠之一，沙漠周边地区降水量有的年份甚至不足 $2 0 \\mathrm { m m }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "水分对荒漠生态系统结构和功能具有重要影响，而库姆塔格沙漠南侧阿尔金山洪积扇和北侧北山洪积扇通过影响沙漠水分输人对区域生态环境的演化具有重要作用。因此，本研究以上述两者为研究区，对其降水进行实地观测。根据前期的考察，从区域地貌、植被等状况来看，阿尔金山洪积扇与北侧北山洪积扇以及阿尔金山洪积扇内部均差异较大。笔者推测导致其差异的主要原因是降水。7个降水观测点位置分布及周边下垫面情况如图1和图2所示。考虑到阿尔金山洪积扇南北方向的降水差异，本研究设置了胡杨沟上游-中游-下游降水南北观测断面；考虑到阿尔金山洪积扇东西方向的降水差异，本研究设置了胡杨沟上游-乌什喀特-赛马沟-多坝沟降水东西观测断面。北山洪积扇降水非常少，因此，只布置1个观测点，可与阿尔金山洪积扇降水进行对比。由于本研究区以无人区为主，交通不便，而且大部分地区属于保护区，禁正通行，在降水观测点的选点过程中除了兼顾科学性外，还兼顾了法规许可，因此个别站点的布局并不尽理想。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f27753fa65b5241e5e6011afd8c93e78d9b10775bb7ed56663089211631bf8c2.jpg",
+        "img_caption": [
+            "图1降水观测点分布示意图",
+            "Fig.1 The schematic diagram of precipitation observation points distribution "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "库姆塔格沙漠南侧阿尔金山洪积扇上的6个降水观测点分别位于胡杨沟下游、胡杨沟中游、胡杨沟上游、乌什喀特、赛马沟和多坝沟，海拔分别为$1 9 1 6 , 2 0 9 5 , 2 1 4 8 , 2 2 3 7 , 2 5 8 3 \\mathrm { m }$ 和 $2 4 2 2 \\mathrm { m }$ ;北山洪积扇的1个降水观测点位于三垄沙，海拔为 $1 0 2 3 \\mathrm { ~ m ~ }$ 。降水观测设备为美国HOBOOnset公司RG3-M型自计式翻斗雨量计，其自带1个HOBOPendant（UA-003-64)事件/温度记录仪，由纽扣式锂电池供电，能够完全独立运行。雨量计采集器所配备的内存可存储16000组数据。仪器顶部配备有数据接口，便于下载数据。该雨量计安装高度 $1 . 2 \\mathrm { m }$ 左右，监测分辨率为 $0 . 2 \\mathrm { m m }$ 。如果1次降水中出现的降水间歇时间不足 $6 \\mathrm { { h } }$ 视为1次降水事件，间歇时间大于或等于 $6 \\textup { h }$ 则视为2次降水事件[20]。降水观测时段为2017年6月至2018年5月，数据自动采集，采用北京时间，数据记录间隔为 $1 0 \\mathrm { m i n }$ (需要说明，该雨量计对降雪监测能力相对不足）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1降水月际变化特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图3可知，布设在库姆塔格沙漠南北两侧洪积扇上的三垄沙、胡杨沟下游、胡杨沟中游、胡杨沟上游、乌什喀特、赛马沟和多坝沟7个降水观测点，在整个观测期内累计降水量分别为 $2 1 . 6 , 5 8 . 0 , 5 6 . 4$ $7 3 . 0 , 7 5 . 2 , 1 7 6 . 0 \\mathrm { m m }$ 和 $1 3 7 . 4 \\ \\mathrm { m m }$ 。7个观测点降水月际变化都很明显，降水主要发生在5一8月，累计降水量占到全年 $90 \\%$ 左右。三垄沙的降水量最多的月份为6月，约占全年降水量的 $6 6 . 6 7 \\ \\%$ ;而其他观测点降水量最多的月份为7月，该月降水量大约占全年总降水量的 $4 2 . 5 0 \\% { \\sim } 6 1 . 3 5 \\%$ ○",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/bf76e34d5e04ae76b9c8aa508f44f60cc2e78bcfbd6ff389bd1e9289a8d2fd17.jpg",
+        "img_caption": [
+            "图2降水观测点周边环境照片",
+            "Fig.2 Photos of the surrounding environment of the precipitation observation points "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b427be6aa60d210643679e2ad2f72957a443ad9ad2c88e7d4f239cd980b48d0.jpg",
+        "img_caption": [
+            "图3降水量月际变化 Fig.3Monthly variation of precipitation "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2降水日内变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "三垄沙、胡杨沟上游、胡杨沟中游、胡杨沟下游、乌什喀特、赛马沟观测点的白天(8：00—20：00)降水量大于夜间(20：00至次日8：00），白天降水占比分别达到 $7 8 . 7 0 \\%$ ！ $6 3 . 8 4 \\%$ ！ $7 3 . 7 6 \\%$ ！ $7 6 . 5 5 \\%$ ！$6 5 . 4 3 \\% . 5 8 . 5 2 \\%$ (图4)。而多坝沟白天降水占比为$4 3 . 2 3 \\%$ ,略低于夜间。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1785f8faae162b1b7ea704c0880ab09cf5205735dedc33d3379c455a90148210.jpg",
+        "img_caption": [
+            "图4白天和夜间降水",
+            "Fig.4Day and night precipitation "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "各观测点的主要降水时段也有较大差异（图5)。在库姆塔格沙漠北缘，三垄沙降水主要发生在$6 \\colon 0 0 { \\longrightarrow } 7 \\colon 0 0 \\ . \\ 1 3 \\colon 0 0 \\ . \\ 1 7 \\colon 0 0 { \\longrightarrow } 2 0 \\colon 0 0$ ，占比分别为$1 6 . 6 7 \\% \\cdot 4 1 . 6 7 \\% \\cdot 2 5 . 0 0 \\%$ 。胡杨沟上游降水主要发生在 $8 : 0 0 { \\longrightarrow } 9 : 0 0 , 1 2 : 0 0 , 1 5 : 0 0 { \\longrightarrow } 1 6 : 0 0 , 2 1 : 0 0$ 占比分别为 $2 0 . 2 7 \\% . 8 . 4 9 \\% . 1 7 . 8 1 \\% . 1 0 . 1 4 \\%$ 。胡杨沟中游降水主要发生在 $4 { : } 0 0 , 8 { : } 0 0 { \\ - } 9 { : } 0 0$ 和15:00—18：00，占比分别为 $5 . 6 7 \\%$ 、 $1 9 . 8 6 \\%$ 和 $3 9 . 7 2 \\%$ 。胡杨沟下游降水主要发生在4:00、8:00—9:00、14:00—18：00和23:00，占比分别为 $5 . 1 7 \\% . 1 7 . 9 3 \\% . 5 0 . 0 0 \\%$ 和 $6 . 9 0 \\%$ 。乌什喀特降水主要发生在0:00、5：00、9:00—10:00和13:00—16:00，占比分别为 $5 . 5 9 \\%$ 、$6 . 6 5 \\%$ 、 $1 8 . 6 2 \\%$ 和 $3 3 . 2 4 \\%$ 。赛马沟降水主要发生在6:00—13:00，占比为 $5 7 . 9 5 \\%$ 。多坝沟降水主要发生在 $1 : 0 0 \\ldots 5 : 0 0 { \\mathrm { - } } 8 : 0 0 \\ldots 1 7 : 0 0 \\ldots 2 0 : 0 0 { \\mathrm { - } } 2 1 : 0 0$ ，占比分别为 $7 . 4 2 \\% . 3 0 . 2 8 \\% . 5 . 5 3 \\% . 1 0 . 0 4 \\%$ （20",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3降水事件特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如表1所示，在观测期内，三垄沙地区的降水事件次数最少，仅为11次。多项沟降水事件次数最多，达26次;其次为乌什喀特和胡杨沟上游，降水事件次数分别为23次和22次。胡杨沟中游、下游及赛马沟降水事件均为18次。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8de5ed5fd1d6c777612409e5cf9c332e52bfb3dede02f79d2a14740f6cf48fa7.jpg",
+        "img_caption": [
+            "图5降水日内变化",
+            "Fig.5Daily variation of precipitation "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a2a43675df97bf5701dd82225584fdf8dfbcd4d76130331bede2e0daad65bd8f.jpg",
+        "table_caption": [
+            "表1降水事件持续时间/累计降水量",
+            "Tab.1 The time of duration and cumulative precipitation amount of precipitation events "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">降水事 件次数</td><td colspan=\"3\">降水事件持续时间/min</td><td colspan=\"3\">降水事件累计降水量/mm</td><td colspan=\"3\">降水事件的降水强度/(mm·h-1)</td></tr><tr><td>最小值</td><td>最大值</td><td>平均值</td><td>最小值</td><td>最大值</td><td>平均值</td><td>最小值</td><td>最大值</td><td>平均值</td></tr><tr><td>三垄沙</td><td>11</td><td>10</td><td>470</td><td>148</td><td>0.2</td><td>8.8</td><td>1.96</td><td>0.18</td><td>6.80</td><td>1.49</td></tr><tr><td>胡杨沟上游</td><td>22</td><td>10</td><td>1560</td><td>218</td><td>0.2</td><td>22.4</td><td>3.32</td><td>0.13</td><td>5.04</td><td>1.37</td></tr><tr><td>胡扬沟中游</td><td>18</td><td>10</td><td>1580</td><td>278</td><td>0.2</td><td>22.8</td><td>3.13</td><td>0.16</td><td>2.49</td><td>0.93</td></tr><tr><td>胡扬沟下游</td><td>18</td><td>10</td><td>1450</td><td>221</td><td>0.2</td><td>22.8</td><td>3.22</td><td>0.08</td><td>5.60</td><td>1.35</td></tr><tr><td>乌什喀特</td><td>23</td><td>10</td><td>1550</td><td>221</td><td>0.2</td><td>26.4</td><td>3.40</td><td>0.38</td><td>9.60</td><td>1.58</td></tr><tr><td>赛马沟</td><td>18</td><td>10</td><td>1740</td><td>463</td><td>0.2</td><td>42.6</td><td>9.78</td><td>0.31</td><td>5.59</td><td>1.53</td></tr><tr><td>多坝沟</td><td>26</td><td>10</td><td>1770</td><td>352</td><td>0.2</td><td>30.6</td><td>6.15</td><td>0.17</td><td>4.80</td><td>1.41</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在7个观测站点的单次降水事件中，单次降水持续时长差异比较大，持续时间最短仅约为10min。三垄沙单次降水持续时长最大值为 $4 7 0 ~ \\mathrm { m i n }$ ，其他几个观测点单次降水持续时长最大值介于$1 4 5 0 { \\sim } 1 7 7 0 \\ \\mathrm { m i n }$ 。从降水事件平均持续时长来看，三垄沙最小，仅为 $1 4 8 ~ \\mathrm { m i n }$ ;赛马沟最大，为 $4 6 3 ~ \\mathrm { m i n }$ ;其次为多项沟，为 $3 5 2 \\mathrm { m i n }$ ;其他几个观测点介于 $2 1 8 \\sim$ $2 7 8 ~ \\mathrm { m i n }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在7个观测站点中，单次降水事件的累计降水量的最小值相同，都为 $0 . 2 \\mathrm { m m }$ 。但单次降水事件累计降水量的最大值差异较大，其中赛马沟单次降水量最大值为 $4 2 . 6 ~ \\mathrm { m m }$ ;其次为多坝沟，为 $3 0 . 6 \\mathrm { m m }$ ；三垄沙仅为 $8 . 8 ~ \\mathrm { m m }$ ;其他几个观测点介于 $2 2 . 4 { \\sim } 2 6 . 4$ $\\mathbf { m } \\mathbf { m }$ 。从降水事件平均降水量来看，三垄沙值最小，仅为 $1 . 9 6 ~ \\mathrm { m m }$ ·次-;赛马沟值最大，为 $9 . 7 8 ~ \\mathrm { m m }$ ·次-1;其次为多项沟，为 $6 . 1 5 ~ \\mathrm { m m }$ ·次-1；其余站点介于$3 . 1 3 { \\sim } 3 . 4 0 ~ \\mathrm { m m }$ ·次-1。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在7个观测站中，单次降水事件的降水强度最小值介于 $0 . 0 8 { \\sim } 0 . 3 8 \\mathrm { m m } { \\cdot } \\mathrm { h } ^ { - 1 }$ 。单次降水事件的降水强度最大值差异较大，其中，乌什喀特为 $9 . 6 0 \\ \\mathrm { m m ^ { \\cdot } h ^ { - 1 } }$ ，三垄沙其次，为 $6 . 8 0 \\mathrm { m m } \\cdot \\mathrm { h } ^ { - 1 }$ ;其他几个站点介于2.49\\~$5 . 6 0 \\ \\mathrm { m m ^ { \\cdot } h ^ { - 1 } }$ 。从降水事件的平均降水强度来看，乌什喀特的值最大，为 $1 . 5 8 ~ \\mathrm { m m } \\cdot \\mathrm { h } ^ { - 1 }$ ;赛马沟其次，为$1 . 5 3 \\mathrm { m m ^ { \\cdot } h ^ { - 1 } }$ ;其他几个站点值介于 $0 . 9 3 { \\sim } 1 . 4 9 \\mathrm { m m } { \\cdot } \\mathrm { h } ^ { - 1 } $ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4降水特征的空间变化",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "库姆塔格沙漠南北两侧洪积扇降水特征空间差异性显著。尽管库姆塔格沙漠南北两侧洪积扇降水的月际变化规律相似，但是库姆塔格沙漠南侧洪积扇降水量明显大于北侧；库姆塔格沙漠南侧洪积扇内部降水也呈现出南部大于北部，例如偏南部的胡杨沟上游降水量大于偏北部的中游和下游。库姆塔格沙漠南侧洪积扇降水事件比北侧洪积扇多，且降水事件平均持续时间较长。库姆塔格沙漠南侧洪积扇东部比西部的降水事件多(赛马沟除外），降水事件平均持续时间长。库姆塔格沙漠南侧洪积扇夜间降水比例大于北侧洪积扇，且南侧洪积扇自西向东夜间降水比例逐渐增大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "库姆塔格沙漠南部的阿尔金山山脉以及青藏高原等阻挡了来自印度洋、孟加拉湾的水汽输送，北部的东段天山山脉和阿尔泰山山脉阻挡了北冰洋南下的气流，西部的天山山脉和帕米尔高原阻挡了中亚的暖湿气流，东部虽然地形较为开阔，但是从西北太平洋和南海来的暖湿气流向西北输送过程中沿途被大量截留，到达内陆水汽甚少。因此，库姆塔格沙漠气候干旱,降水稀少[21.9]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "受地理位置、地形等影响，库姆塔格沙漠周边降水也差异较大。地处盆地中央的敦煌，1951—2018年期间的平均年降水量为 $3 9 . 5 2 \\mathrm { m m }$ ,2017年6月至2018年5月累计降水量 $3 1 . 7 5 ~ \\mathrm { m m }$ 。根据本观测，库姆塔格沙漠南侧洪积扇降水量大于敦煌，而敦煌的降水量也略大于沙漠北侧洪积扇。库姆塔格沙漠南侧阿尔金山洪积扇内部降水也呈现出南部大于北部。中国气象局信息中心提供的库姆塔格沙漠周边逐日降水量实测资料表明，库姆塔格沙漠周边若羌、铁干里克、吐鲁番、七角井、哈密、红柳河、安西、冷湖1960一2014年期间的多年平均降水量介于 $1 4 { \\sim } 4 4 . 9 ~ \\mathrm { m m }$ 之间[16]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "胡钰玲等基于中国自动站与CMORPH降水产品融合的逐时降水量网格数据集(1.0版)，发现库姆塔格沙漠南缘阿尔金山存在一条东西向分布的降水量大值带，本文的实测降水结果一定程度上证实了这个观点。库姆塔格沙漠从北向南，海拔高度逐渐增加，地形对气流的热力和动力作用导致降水增加，该变化规律与祁连山[22]、天山[23]等区域的降水变化规律一致。库姆塔格沙漠南部阿尔金山洪积扇上的降水量自西向东逐渐减少，这主要是因为东部区域来自西北太平洋和南海的东南暖湿气流作用程度强。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "库姆塔格沙漠地区降水南一北和东一西方向的降水空间异质性，是导致区域土壤、植被、冲沟等分布差异的重要因素。受区域气候、水分、地形等共同影响，库姆塔格沙漠南缘阿尔金山地区植被从东到西，植物物种逐渐减少，群落结构更加简单，植被类型表现为山前草原化荒漠植被过渡到荒漠植被[24]。从南向北,海拔高度逐渐降低,气候愈为干燥，地表径流减少，植被分布更为稀少。南部山前洪积扇地带海拔较高，分布有耐寒的荒漠草原植被针茅属和亚菊属群落，而山前洪积平原低地则以灌木荒漠植物合头草为主，较低海拔的沙漠边缘地带梭梭为优势群落，北部沙漠腹地，气候干燥，无植被或者有典型的荒漠植被沙刺蓬[24-25] □",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "库姆塔格沙漠地区土壤类型在南北方向上也具有明显的规律性。从南向北，土壤类型依次为：高山寒漠土、寒钙土、冷钙土、栗钙土、棕钙土、灰棕漠土，洪积扇为棕漠土，洪积扇和沙漠过渡地带为风砂土，至沙漠腹地的为沙土;在沙漠边缘和阿奇克谷地过渡区形成棕漠土和半固定风沙土；阿奇克谷地边缘至谷地中央依次为草甸土、盐土;进入北山地区则为棕漠土[9]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "库姆塔格沙漠南部阿尔金山北麓洪积扇地区发育有众多冲沟，其中东部区域由于山体高大有冰川分布，降水较多，受冰雪融水和降水补给量大的影响，冲沟多常年流水;而西部区域山体高度较小，无冰川分布，且降水稀少，因此，冲沟多为时令河和断续性河道，冲沟较浅，流程较短[26]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "中国西北地区降水主要集中在夏季，冬季降水最少[27]。库姆塔格沙漠降水主要发生在夏季,其次为春季，冬季降水最少。与库姆塔格沙漠相邻的疏勒河干流降水量年内分配极不均匀，降水量主要集中于5—8月，占年降水量的 $6 5 \\ \\%$ 以上[28]。库姆塔格沙漠西南侧的青藏高原不仅阻挡了西南暖湿气流，并且在冬季起“冷源\"作用，西风环流在青藏高原西侧分两支在高原边缘环绕而过，形成北脊南槽环流形势，库姆塔格沙漠位于高压脊控制线，盛行下沉气流，因此降水稀少。夏季，来自孟加拉湾的湿润西南气流可以绕过青藏高原与来自南海和西太平洋的东南气流汇合，为沙漠带来降水；而西侧起源于大西洋或地中海并在中亚聚集的湿润气流，虽经翻山越岭所剩无几，但也对夏季库姆塔格沙漠地区的降水起到了加强作用[15]。库姆塔格沙漠的春、夏是植物的生长季，该区域的降水也主要集中分布在该时段内，水热同期，有利于植物生长。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "尽管研究区属于极端干旱区，但从降水事件次数、降水事件持续时长以及降水事件累计降水量来看，库姆塔格沙漠南侧阿尔金山区域的降水事件还是比较多的。单次降水事件的累计降水量差异较大，对于三垄沙、胡杨沟上游、胡杨沟中游、胡杨沟下游、乌什喀特、赛马沟和多坝沟降水量最大的降水事件，其降水量能占到各自年降水量的 $4 0 . 7 4 \\%$ /$3 0 . 6 8 \\%$ 、 $4 0 . 4 3 \\%$ 、 $3 9 . 3 1 \\%$ 、 $3 5 . 1 1 \\%$ 、 $2 4 . 2 0 \\%$ 和$2 2 . 2 7 \\%$ 。由此可见，库姆塔格沙漠南北两侧洪积扇的降水主要依靠数量较少的大降水事件。胡钰玲等[的研究结果表明，库姆塔格沙漠周边地区",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1960一2014年极端降水对年总降水量的贡献约为$2 8 \\%$ ,与本文的研究结果大致一致。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "库姆塔格沙漠南北两侧洪积扇地表砾石覆盖度高，大大减少了降水入渗速率，加之地形坡度比较陡，因此，强降雨天气下，容易形成洪水，而洪水过程是山前洪积扇戈壁景观格局的重要塑造者。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "降水日变化是地球气候系统中大气热力和动力过程对水循环过程综合影响的结果，涉及不同尺度陆-气、海-汽、海-陆和山-谷的相互作用、水汽相变和云雨演变、大气气溶胶和云雨形成相互影响的物理过程[29]。中国东南和东北地区的降水日峰值集中出现在下午，西南地区多在午夜达到降水峰值，长江中下游地区降水多出现在清晨，青藏高原大部分地区是下午和午夜峰值并存，祁连山区夜间降水量大于白天[29-32]。中国自动站与CMORPH降水产品融合的逐时降水量网格数据集(1.0版)分析结果表明，阿尔金山12月、1月、6月和7月逐时降水演变特征以“凌晨型”为主，3—5月和9—11月逐时降水演变以“午后-黄昏型\"为主，2月和8月是2种类型的过渡时期[15]。本研究表明库姆塔格沙漠南北两侧白天降水大于夜间，午后和清晨峰值并存。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在本研究中，冬季(12月至次年2月）气温降低，降水观测设备中收集的雪融化需要一定时间，因此该时段内观测到的降水事件有一定滞后性。库姆塔格沙漠周边国家气象站的降水观测表明，该地区冬季的降水量比例十分小[14]。因此,该误差的存在对于区域降水特征的分析影响较小。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文基于库姆塔格沙漠南侧阿尔金山洪积扇和北侧北山洪积扇2017年6月至2018年5月的野外实测降水数据，填补了库姆塔格沙漠南侧阿尔金山洪积扇和北侧北山洪积扇实测降水数据的空白，为区域水文、地貌和动植物等方面的研究提供了重要的基础数据；分析了其降水的时空分布特征：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）库姆塔格沙漠降水空间异质性较大，南侧阿尔金山洪积扇降水量大于北侧洪积扇三垄沙地区，阿尔金山洪积扇内部降水量呈现出自西向东、自北向南逐渐增多趋势",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）库姆塔格沙漠南北两侧洪积扇的降水主要发生在5—8月，累计降水量能占到全年 $9 0 \\%$ 左右，",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "降水集中时段与植物生长季同期，对区域植被的生  \n长具有重要意义。（3）库姆塔格沙漠南北两侧洪积扇年降水次数  \n介于11\\~26次，数量较少的大降水事件对年总降水  \n量贡献率大。(4）库姆塔格沙漠南北两侧白天降水大于夜间  \n（多坝沟除外)，午后和清晨降水峰值并存。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(Reference)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]黄锡荃,李惠明,金伯欣.水文学[M].北京:高等教育出版社, 2003.[Huang Xiquan,Li Huiming,Jin Boxin. Hydrology[M]. Beijing: Higher Education Press,2003.]   \n[2]孙从建,张子宇,陈伟,等.亚洲中部高山降水稳定同位素空间 分布特征[J].干旱区研究,2019,36(1):19-28.[Sun Congjian, Zhang Ziyu, Chen Wei,et al. Spatial distribution of precipitation stable isotopes in the alpine zones in Central Asia[J].Arid Zone Research,2019,36(1): 19-28.]   \n[3]董喆,贺康宁,王根柱,等.北川河流域降水与NDVI变化特征 及其对径流的影响[J].干旱区研究,2018,35(2):287-295. [Dong Zhe,He Kangning,Wang Genzhu,et al. Variation of precipitation and vegetation NDVI and their efects on streamflow in the Beichuan River Basin[J].Arid Zone Research,2018,35(2): 287-295.]   \n[4]李亚峰,唐立松.中国北方典型荒漠区生长季降水特征和归一 化植被指数的关系[J].干旱区研究,2019,36(5):1229-1237. [Li Yafeng,Tang Lisong. Correlation between precipitation and NDVI in vegetation growing season in a typical desert in North China[J]. Arid Zone Research,2019,36(5): 1229-1237.]   \n[5]孙姗姗,刘新平,魏水莲,等.沙地植物幼苗生长对降水和风速 变化的响应[J].干旱区研究,2019,36(4):870-877.[Sun Shanshan,Liu Xinping,Wei Shuilian,et al.Response of plant seedling growth to the changes in precipitation and wind velocity in Horqin Sandy Land[J]. Arid Zone Research,2019,36(4): 870-877.]   \n[6]王明明,刘新平,何玉惠,等.科尔沁沙质草地生物量积累过程 对降水变化的响应模拟[J].生态学报,2020,40(11):3656- 3665.[Wang Mingming,Liu Xinping, He Yuhui, et al. Simulating the response of biomass accumulation process in semi-arid grassland to changes in precipitation[J].Acta Ecologica Sinica,2020, 40(11): 3656-3665.]   \n[7]董治宝,屈建军,卢琦,等.关于库姆塔格沙漠\"羽毛状\"风沙地 貌的讨论[J].中国沙漠,2008,28(6):1005-1010.[Dong Zhibao, Qu Jianjun,Lu Qi,et al.A discussion on feathery aeolian geomorphology in the Kumtagh Desert[J]. Journal of Desert Research, 2008,28(6): 1005-1010.]   \n[8]董治宝,屈建军,钱广强,等.库姆塔格沙漠风沙地貌区划[J].中 国沙漠,2011,31(4): 805-814.[Dong Zhibao,Qu Jianjun, Qian Guangqiang,et al.Aeolian Geomorphological Regionalization of the Kumtagh Desert[J]. Journal of Desert Research,2011,31(4): 805-814.]   \n[9]库姆塔格沙漠综合科学考察队.库姆塔格沙漠研究[M].北京: 科学出版社,2012.[Team of Comprehensive Scientific Expedition of KumtagDesert.A Studyof theKumtag DeserM]. Beijing: Science Press,2012.]   \n[10] 李文赞.库姆塔格沙漠地区水文与水化学特征[D].北京:北京 师范大学,2010.[Li Wenzan.Hydrological and Hydrochemical Characteristics in the Kumtag Desert[D]. Beijing: Beijing Normal University,2010.]   \n[11] 李永华,王学全,周多良,等.库姆塔格沙漠东南缘季节性河流 (洪沟)水文监测与分析[J].干旱区地理,2018,41(3):435-442. [Li Yonghua,Wang Xuequan, Zhou Duoliang,et al. Monitoring and analysis of hydrology in Duobagou,the southeast margin of Kumtag Desert[J]. Arid Land Geography,2018,41(3): 435-44.]   \n[12] 张天汉,王健铭,夏延国,等.库姆塔格沙漠不同区域种子植物 物种组成与区系特征研究[J].植物科学学报,2016,34(1):78- 88.[Zhang Tianhan,Wang Jianming, Xia Yanguo,et al. Composition of seed plant species and flora features in diffrent areas of the Kumtag Desert of China[J]. Plant Science Journal,2016,34(1): 78-88.]   \n[13] 吴波,李秀梅,苏志珠,等.库姆塔格沙漠地区景观格局与动态 研究[J].中国沙漠,2013,33(1):1-8.[Wu Bo,Li Xiumei,Su Zhizhu, et al.Landscape pattern and dynaimics in the Kumtag Desert Region[J].Journalof Desert Research,2013,3(1):1-8.]   \n[14]赵勇,何清,霍文.库姆塔格沙漠周边气候变化特征分析[J].干 旱气象,2010,28(3): 291-296.[Zhao Yong,He Qing,Huo Wen. Characteristics of climate change around Kumtage Desert[J]. Journal of arid Meteorology,2010,28(3): 291-296.]   \n[15] 康延臻,陈世红,张莹,等.2008—2013年库姆塔格沙漠及阿尔 金山降水特征[J].中国沙漠,2015,35(1):203-210.[Kang Yanzhen, Chen Shihong, Zhang Ying, et al.Precipitation during 2008- 2013 in the Kumtagh Desert and Altun Mountains[J]. Journal of Desert Research,2015,35(1): 203-210.]   \n[16] 胡钰玲,宁贵财,康彩燕,等.库姆塔格沙漠周边地区极端降水 的时空变化特征[J].中国沙漠,2017,37(3):536-545.[Hu Yuling,Ning Guicai,Kang Caiyan,et al. Temporal and spatial variability of the extreme precipitation around the Kumtag Desert[J]. Journal of Desert Research,2017,37(3): 536-545.]   \n[17] 胡钰玲,赵中军,马盼,等.库姆塔格沙漠降水和大降水的时空 变化研究[J].兰州大学学报(自然科学版),2017,53(4):481- 488.[Hu Yuling, Zhao Zhongjun,Ma Pan,et al.A study on the spatial and temporal variations of precipitation and heavy precipitation in the Kumtag Desert[J]. Journal of Lanzhou University: Natural Sciences Edition,2017,53(4): 481-488.]   \n[18] 胡钰玲,赵中军,康彩燕,等.库姆塔格沙漠大降水环流分型及 不同环流型典型天气过程分析[J].兰州大学学报(自然科学 版),2017,53(5): 614-621.[Hu Yuling,Zhao Zhongjun,Kang Caiyan,et al. Circulation classification of heavy rain in the Kumtagh Desert in the typical weather process of different circulation patterns[J].Journal of Lanzhou University: Natural Sciences Editon, 2017, 53(5): 614-621.]   \n[19]Xu Zhiwei,Lu Huayu,Zhao Cunhua,et al.Composition,origin and weathering process of surface sediment in Kumtagh Desert, Northwest China[J].Acta Geographica Sinica,2011,21(6):1062- 1076.   \n[20]Huff F A.Time distribution of rainfall in heavy storms[J].Water Resources Research,1967,3 (4): 1007-1019.   \n[21] 李江风.塔克拉玛干沙漠和周边山区天气气候[M].北京:科学 出版社,2O03.[Li Jiangfeng.Weather and Climate in the Taklimakan Desert and Surrounding Mountains[M]. Beijing: Science Press,2003.]   \n[22] 张剑挥,车克钧,王辉.祁连山典型小流域不同植被类型降水规 律分析[J].湖北农业科学,2010,49(10):2418-2421.[Zhang Jianhui,Che Kejun,Wang Hui.Analysis on precipitation laws of different vegetation types in the typical small watershed of Qilian Mountain Area[J]. Hubei Agricultural Sciences,2010,49(10): 2418- 2421.]   \n[23] 张正勇,何新林,刘琳,等.中国天山山区降水空间分布模拟及 成因分析[J].水科学进展,2015,26(4):500-508.[Zhang Zheng yong,He Xinlin,Liu Lin,et al. Spatial distribution of rainfall simulation and the cause analysis in China's Tianshan Mountains area [J].Advances in Water Science,2015,26(4): 500-508.]   \n[24] 张锦春,王继和,廖空太,等.库姆塔格沙漠植被特征分析[J].西 北植物学报,2008,28(11): 2332-2338.[Zhang Jinchun, Wang Jihe,Liao Kongtai, et al.Analysis of vegetation character in Kumtag Desert[J].Acta Botanica Boreali-Occidentalia Sinica, 2OO8,28(11): 2332-2338.]   \n[25]王继和,袁宏波,张锦春,等.库姆塔格沙漠植物区系组成及地 理成分[J].中国沙漠,2008,28(5):860-867.[Wang Jihe,Yuan Hongbo, Zhang Jinchun, et al. Composition and geographical elements of the flora in Kumtag Desert[J].Journal of Desert Research,2008,28(5): 860-867.]   \n[26] 严平,李文赞,俄有浩,等.库姆塔格沙漠水文调查初步结果[J]. 中国沙漠,2011,31(1):242-246.[Yan Ping,Li Wenzan,E You",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "hao,et al.Preliminary results of hydrological investigation in Kum",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "tagh Desert[J]. Journal of Desert Research,2011,31(1):242- 246.]   \n[27] 商沙沙,廉丽妹,马婷,等.近54a中国西北地区气温和降水的 时空变化特征[J].干旱区研究,2018,35(1):68-76.[Shang Shasha,Lian Lishu,Ma Ting,et al. Spatiotemporal variation of temperature and precipitation in Northwest China in recent 54 years[J]. Arid Zone Research,2018,35(1): 68-76.]   \n[28] 孙栋元,齐广平,鄢继选,等.疏勒河干流降水变化特征[J].干旱 区研究,2020,37(2):291-303.[Sun Dongyuan,Qi Guangping, Yan Jixuan,et al. Research on variation characteristics of precipitation in the mainstream of Shule River[J].Arid Zone Research, 2020,37(2): 291-303.]   \n[29]宇如聪,李建,陈昊明,等.中国大陆降水日变化研究进展[J].气 象学报,2014,72(5): 948-968.[Yu Rucong,Li Jian,Chen Haoming,et al.Progress in studies of the precipitation diurnal variation over contiguous China[J].Acta Meteorologica Sinica, 2014,72(5): 948-968.]   \n[30] 王夫常,宇如聪,陈昊明,等.我国西南部降水日变化特征分析 [J].暴雨灾害,2011,30(2):117-121.[Wang Fuchang,Yu Rucong, Chen Haoming,et al. The characteristics of rainfall diurnal variation over the Southwestern China[J]. Torrential Rain And Disasters,2011,30(2): 117-121.]   \n[31] 雷坤江,假拉,肖天贵.利用FY2E卫星降水资料对西藏地区降 水日变化特征分析[J].成都信息工程学院学报,2016,31(1): 86-93.[Lei Kunjiang,Jia La,Xiao Tiangui.The characteristics of diurnal variations of precipitation analysis in Tibet accord to FY2E precipitation[J].Journal of Chengdu University of Information Technology,2016,31(1): 86-93.]   \n[32] 刘雪梅,张明军,王圣杰,等.2008—2014年祁连山区夏季降水 的日变化特征及其影响因素[J].地理学报,2016,71(5):754- 767.[Liu Xuemei, Zhang Mingjun,Wang Shengjie,et al. Diurnal variation of summer precipitation and its influencing factors of the Qilian Mountains during 2OO8-2014[J].Acta Geographica Sinica, 2016, 71(5): 754-767.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Precipitation characteristics in alluvial fan in the north and south of Kumtag Desert based on measured data ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "PANG Yingjun1,2.3，WU Bo²，KONG Deyonga，GAO Junliang§   \n(1.Instituteof Desertification Studies,ChineseAcademyofForestry,Beijing 1OO91,China;2.Key Laboratoryof   \nDesert Ecosystem and Global Change,State AdministrationofForestry and Grassland,Beijing 10oo91,China;   \n3.Kumtag Desert EcosystemResearch Station,State AdministrationofForestryand Grassand,Dunhuang 736200,   \nGansu, China; 4.Shaoguan University,Shaoguan 512Oo5,Guangdong, China;5.Experimental Centerof Desert Forestry, Chinese Academy of Forestry,Dengkou O152Oo,Inner Mongolia, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This study analyzed the precipitation characteristics in detail using the field precipitation data from June 2017 to May 2018 in alluvial fan in the north and south of Kumtag Desert.The results are as follows: (1) Due to the effect of geographical location,topography,etc.,the spatial distributions of precipitation in Kumtag Desert vary greatly.The minimum annual precipitation in Sanlongsha,Beishan alluvial fan in the north of Kumtag Desert, is $2 1 . \\ 6 \\ \\mathrm { m m }$ . The precipitation in Altun alluvial fan in the south of Kumtag Desert gradually increases from west to east,and the annual precipitation in upper reach of Huyang,Wushikate,Saimagou,and Duobagou ditches is $7 3 . 0 , 7 5 . 2 , 1 7 6 . 0 \\mathrm { m m }$ ,and $1 3 7 . 4 ~ \\mathrm { m m }$ ,respectively. The precipitation in Altun alluvial fan in the south of Kumtag Desert gradually increases from the north to south and the annual precipitation in lower and middle reaches of Huyang ditch is 58.0 and $5 6 . 4 ~ \\mathrm { m m }$ ，respectively,which is lower than that in upper reach of Huyang ditch.(2) The precipitation in alluvial fan in the north and south of Kumtag Desert mainly occurs from May to August and the cumulative precipitation can account for more than $90 \\%$ of full year. (3) The number of precipitation events in aluvial fan in the north and south of Kumtag Desert lies between 1l and 26,and a small number of large precipitation events contributes immensely to the total annual precipitation. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Kumtag Desert; precipitation; alluvial fan ",
+        "page_idx": 9
+    }
+]

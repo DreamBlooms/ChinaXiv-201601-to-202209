@@ -1,0 +1,195 @@
+# 丙氨酰-谷氨酰胺缓解Diquat诱导的断奶仔猪氧化损伤的影响
+
+辛向荣 叶亚玲 游金明\*贺琴 邓宸玺
+
+（江西农业大学，江西省动物营养重点实验室，江西省营养饲料开发工程中心，南昌 330045）
+
+摘要：本研究旨在探讨丙氨酰-谷氨酰胺（Ala-Gln）缓解Diquat 诱导的断奶仔猪氧化损伤的影响。试验采用双因子设计，选取24头健康状况良好、胎次相近的21日龄断奶仔猪，首先随机分成2个组，每组12个重复，每个重复1头猪，2个组分别饲喂基础饲粮和基础饲粮 $+ 0 . 3 \%$ Ala-Gln的试验饲粮。预饲喂7d后，在前期饲喂基础上，将仔猪分成4个组，每组6个重复，每个重复1头猪，分别为基础饲粮组、基础饲粮 $+ 0 . 3 \%$ Ala-Gln 组、基础饲粮应激组、基础饲粮 $+ 0 . 3 \%$ Ala-Gln应激组。通过腹腔注射 $8 ~ \mathrm { m g / k g }$ BW Diquat 模拟仔猪氧化应激，而未应激的组别则注射等量的灭菌生理盐水。试验期 $\mathrm { ~ 7 ~ d ~ }$ 。结果表明：1）仔猪氧化应激状态下，与基础饲粮应激组相比，饲粮中添加 Ala-Gln 显著提高了血清谷氨酰胺（GIn）、谷胱甘肽（GSH）含量和谷胱甘肽过氧化物酶（GSH-Px）、总超氧化物歧化酶（T-SOD）活性以及总抗氧化能力（T-AOC）（ $P { < } 0 . 0 5 \$ )。2）仔猪正常生理状态和氧化应激状态下，与相应基础饲粮组和基础饲粮应激组相比，饲粮中添加Ala-Gln显著提高了空肠GSH $\mathbf { \cdot P x }$ 活性和T-AOC（ $P { < } 0 . 0 5 )$ ，显著降低了丙二醛（MDA）含量中 $_ { , P < 0 . 0 5 ) }$ ；饲粮中添加 Ala-Gln 显著提高了肝脏GSH-Px 活性和 T-AOC（ $_ { . P < 0 . 0 5 } )$ ，显著降低了MDA含量（ $P { < } 0 . 0 5$ )。3）仔猪氧化应激状态下，与基础饲粮应激组相比，饲粮中添加Ala-Gln显著提高了肝脏中谷胱甘肽过氧化物酶4（ $G P x 4$ ）mRNA表达量（ $\scriptstyle \cdot < 0 . 0 5 .$ ，显著降低了超氧化物歧化酶1（SOD1）mRNA表达量（ $\cdot P { < } 0 . 0 5 ^ { \cdot }$ )。由此可知，仔猪正常生理状态和氧化应激状态下，饲粮中添加Ala-Gln 可提高仔猪抗氧化能力，降低 MDA 含量，从而减缓氧化应激对断奶仔猪机体组织的损伤；且在氧化应激状态下效果更为显著。
+
+关键词：氧化应激；Ala-Gln；仔猪；抗氧化能力中图分类号：S828 文献标识码：
+
+动物在正常的生理条件下，机体内氧化和还原水平处于动态平衡中，即自由基不断产生，同时又被及时清除。如果这种稳态被打破，体内自由基将因无法及时分解或转化而出现大量累积。当自由基超过机体抗氧化防御系统的承受能力时，将造成机体氧化损伤，进而造成动物消化系统和免疫系统受损，生产性能下降[I]。在养猪生产中，氧化应激是断奶仔猪常见的生理现象，也是引起养殖经济损失的一个主要因素。研究表明，谷氨酰胺（Gln）是哺乳动物血液中最丰富的一种游离氨基酸，在泌乳21d的母猪乳汁中含量高达1.93 mmol/L[2]。Gln 作为重要的免疫增强因子，可减少氧化应激状态下的氧化损伤。研究发现，饲粮添加Gln 可提高仔猪血浆和空肠组织中游离 Gln、谷胱甘肽（GSH）含量。Gln 可以缓解断奶应激引起的肠道GIn 含量降低及氧化型谷胱甘肽（GSSG）/还原型GSH的比值增加[3]；还可以减少疾病或应激状态下细胞凋亡，主要通过增强抗氧化酶防御作用、热休克蛋白的表达以及诱导细胞自噬来发挥作用[4]。Gln作为小肠细胞的主要能量来源，也可有效促进小肠上皮细胞和淋巴细胞增殖、分化，修复小肠黏膜[5]。但由于Gln 单体水溶性低、热不稳定，且易分解为有毒的焦谷氨酸和氨，因而大大限制了它在畜禽饲粮中的应用。二肽形式的Gln[Gln二肽，如内氨酰-谷氨酰胺（Ala-Gln）]则可克服单体Gln 的缺点，在水溶液、热环境下较稳定，常温下保存2年仍保持稳定，且在水中溶解度约为单体Gln的 4 倍[]。小肠黏膜可吸收Gln二肽，在组织和细胞内快速分解成Gln 而被利用，小肠对Gln 二肽吸收具有不饱和性，且不存在竞争，相比单体Gln具有更大的吸收利用优势。因此GIn二肽作为Gln 的替代物广泛应用于临床医学的全胃肠外营养。然而，目前Gln二肽对断奶仔猪抗氧化能力的影响鲜有报道。因此，本研究拟以 Ala-Gln 为试验材料，探讨 Ala-Gln 对 Diquat 诱导的氧化应激仔猪血清、空肠和肝脏抗氧化指标的影响，旨在为Ala-Gln在仔猪饲粮中的科学应用提供理论依据。
+
+1材料与方法
+
+1.1试验材料本试验所用的Ala-Gln购自上海超强化工有限公司，纯度 ${ \geqslant } 9 9 \%$ 。
+
+# 1.2试验动物与试验设计
+
+试验采用双因子设计，选取24头健康状况良好、胎次相近的21日龄断奶去势小公猪，随机分成2个组,每组12个重复,每个重复1头猪,2个组分别饲喂基础饲粮和基础饲粮 $+ 0 . 3 \%$ Ala-Gln的试验饲粮。预饲喂7d后，在前期饲喂基础上，将仔猪分成4个组，每组6个重复，每个重复1头猪，分别为基础饲粮组、基础饲粮 $+ 0 . 3 \%$ Ala-Gln 组、基础饲粮应激组、基础饲粮 $+ 0 . 3 \%$ Ala-Gln应激组。通过腹腔注射 $8 ~ \mathrm { m g / k g }$ BW Diquat 模拟仔猪氧化应激，未应激组则注射等量的灭菌生理盐水。Diquat 剂量的确定参照徐静等[7]的方法。试验期 $\mathrm { ~ 7 ~ d ~ }$ 。
+
+# 1.3 试验饲粮
+
+试验所用基础饲粮为玉米-豆粕型饲粮，试验饲粮在基础饲粮中添加 $0 . 3 \%$ 的Ala-Gln。饲粮配方参照 NRC（2012)，以真回肠可消化氨基酸为基础进行配制。基础饲粮组成及营养水平见表1。
+
+表1基础饲粮组成及营养水平 (风干基础)  
+Table1Composition and nutrient levels of the basal diet（air-dry basis） %   
+
+<html><body><table><tr><td colspan="2">Table1 CompositionandnudientieveisOlthebasaldiet （air-drybasis） %</td></tr><tr><td>项目Items</td><td>含量Content</td></tr><tr><td colspan="2">原料 Ingredients</td></tr><tr><td>玉米Corn</td><td>30.75</td></tr><tr><td>膨化玉米 Expanded corm</td><td>30.00</td></tr><tr><td>豆粕 Soybean meal</td><td>12.00</td></tr><tr><td>膨化大豆Extruded soybean</td><td>10.00</td></tr><tr><td>进口鱼粉 Import fish meal</td><td>2.00</td></tr><tr><td>乳清粉 Dried whey</td><td>4.00</td></tr><tr><td>玉米蛋白粉Corn protein powder</td><td>6.00</td></tr><tr><td>豆油 Soybean oil</td><td>1.00</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.55</td></tr><tr><td>石粉 Limestone</td><td></td></tr><tr><td>氯化钠 NaCl</td><td>0.68</td></tr><tr><td>L-赖氨酸盐酸盐L-lysine·HCl</td><td>0.17</td></tr><tr><td>DL-蛋氨酸DL-methionine</td><td>0.49</td></tr><tr><td>L-苏氨酸 L-threonine</td><td>0.14</td></tr><tr><td></td><td>0.10</td></tr><tr><td>色氨酸Tryptophan</td><td>0.02</td></tr><tr><td>氯化胆碱 Choline chloride</td><td>0.10</td></tr><tr><td>预混料 Premix</td><td>1.00</td></tr><tr><td>合计Total</td><td>100.00</td></tr><tr><td colspan="2">营养水平 Nutrient levels</td></tr><tr><td>消化能 DE/(MJ/kg)</td><td>14.39</td></tr><tr><td>粗蛋白质CP</td><td>19.43</td></tr><tr><td>钙Ca</td><td>0.80</td></tr><tr><td>总磷TP</td><td>0.65</td></tr><tr><td>有效磷 AP</td><td>0.49</td></tr><tr><td colspan="2">钠Na</td></tr></table></body></html>
+
+<html><body><table><tr><td>赖氨酸Lys 1.35</td></tr><tr><td>蛋氨酸Met 0.48</td></tr><tr><td>蛋氨酸+半胱氨酸Met+Cys 0.79</td></tr><tr><td></td></tr><tr><td>苏氨酸Thr 0.79 色氨酸Trp 0.22</td></tr></table></body></html>
+
+预混料为每千克饲粮提供 The premix provided the following per kilogram of the diet：Fe $1 2 0 ~ \mathrm { m g }$ Cu 7 mg，Mn $2 5 ~ \mathrm { m g }$ ， $Z n 1 3 0 \mathrm { m g }$ ， $\mathrm { ~ I ~ } 0 . 2 \ : \mathrm { m g }$ ，Se $0 . 3 ~ \mathrm { m g }$ ，Co $1 . 5 \mathrm { m g }$ ，VA 4 800 IU, $\mathrm { V D } _ { 3 } 4 8 0 \mathrm { I U }$ ，VE 40 IU, $\mathrm { V K } _ { 3 } 1 . 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 3 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 8 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 3 . 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 4 \ : \mathrm { m g }$ ，泛酸 pantothenic acid$2 5 \mathrm { m g }$ ，尼克酸niacin $3 5 ~ \mathrm { m g }$ ，生物素biotin $1 0 . 1 5 \mathrm { m g }$ ，叶酸 folic acid $1 \mathrm { m g }$ 。
+
+# 1.4饲养管理
+
+试验于江西农业大学江西省动物营养重点实验室动物试验中心保育猪舍进行。舍温控制在$2 3 { \sim } 2 6 \ \mathrm { ~ \textdegree ~ }$ ，相对湿度保持在 $5 5 \% { \sim } 6 5 \%$ ，粉料饲喂，自由采食、饮水。驱虫、去势、防疫注射等管理措施按猪场常规程序执行。
+
+# 1.5 样品采集与处理
+
+于试验期第7天早上，以重复为单位，仔猪空腹前腔静脉采血。静置待凝血后， $3 0 0 0 \mathrm { r / m i n }$ 离心 $1 5 \mathrm { m i n }$ ，分装血清，于 $- 2 0 \mathrm { ~ \textdegree ~ }$ 保存待测。仔猪静脉注射 $5 \%$ 戊巴比妥钠麻醉后，放血、剖开腹腔。迅速分离肝脏、空肠，剔除脂肪和可见结缔组织后，用预冷！ $( 4 ~ \mathrm { ^ { \circ } C }$ ）生理盐水冲洗，迅速取样。肝脏迅速放入液氮，于-70℃保存待测。
+
+将小肠和肠系膜推向左下方，暴露出十二指肠腹膜固定段，在此用线结扎定位空肠头部位，剪断分离肠系膜，取空肠中部 $1 0 \mathrm { c m }$ 左右，用预冷生理盐水轻轻冲净肠内壁，剪取 $2 \mathrm { c m }$ 存于1.5mL 冻存管中，液氮速冻，于-70℃保存待测。
+
+# 1.6测定指标与方法
+
+# 1.6.1血清抗氧化指标
+
+采用南京建成生物工程研究所试剂盒，根据试剂盒说明要求进行检测，分别测定血清Gln、GSH、丙二醛（MDA）含量和谷胱甘肽过氧化物酶（GSH-Px）、过氧化氢酶（CAT）、总超氧化物歧化酶（T-SOD）活性以及总抗氧化能力（T-AOC）。
+
+# 1.6.2 空肠、肝脏抗氧化指标
+
+采用南京将建成生物工程研究所试剂盒，根据试剂盒说明要求进行检测，分别测定空肠、肝脏中GSH、MDA 含量和 GSH-Px、CAT、T-SOD 活性以及T-AOC。
+
+1.6.3肝脏谷胱甘肽过氧化物酶4（ $G P x 4 \AA .$ ）、超氧化物歧化酶1（SOD1）mRNA表达量
+
+# 1.6.3.1总RNA提取与反转录
+
+按试剂盒说明采用Trizol法提取肝脏总RNA。并测定RNA的浓度与纯度，吸光度（OD）260/280在1.8\~2.2之间较为理想。利用 TaKaRa RR047A反转录试剂盒进行反转录，合成第1链cDNA，置于-20℃保存待测。
+
+# 1.6.3.2 GPx4、SOD1mRNA表达量检测
+
+GPx4、SOD1mRNA 引物和探针采用 Primer express2.0 软件设计，并由专门公司合成，引物和探针序列见表2。按下述反应条件在FTC2000(Canada)实时荧光定量PCR仪上进行反应,PCR反应体系为 $5 0 ~ \mu \mathrm { L }$ ： $2 5 ~ \mu \mathrm { L }$ （204号 $2 \times$ Hotstart Fluo-PCR mix， $1 \ \mu \mathrm { L } \times 2$ 上/下游引物， $0 . 5 ~ \mu \mathrm { L }$ Probe (25$\mathsf { p m o l / \mu L } )$ ， $1 ~ \mu \mathrm { L }$ cDNA 模板, $2 1 . 5 ~ \mu \mathrm { L } ~ \mathrm { d H } _ { 2 } \mathrm { O }$ 。荧光定量PCR 扩增条件的设置：94℃4min；94℃4 $2 0 \ \mathrm { s } ; \ 6 0 \ \mathrm { ~ \textdegree ~ } 3 0 \ \mathrm { s }$ 循环40次。以 $\beta$ -肌动蛋白（ $\beta$ -actin）作为内参，采用 $2 ^ { - \Delta \mathrm { C t } }$ 方法计算 $G P x 4$ 、SOD1mRNA 表达量。
+
+表2GPx4、SOD1和 $\beta$ -actin mRNA的引物和探针序列  
+Table 2Primer and probe sequences of GPx4, SOD1 and β-actin mRNA   
+
+<html><body><table><tr><td>目的基因</td><td>登录号</td><td>类型</td><td>序列</td></tr><tr><td>Target gene</td><td rowspan="3">Accession No.</td><td>Type</td><td>Sequence</td></tr><tr><td>谷胱甘肽过</td><td>上游</td><td>5'- CCAGTTTGGGAGGCAGGAG-3'</td></tr><tr><td>氧化物酶4</td><td>下游</td><td>5'- GGACTTTCATCCACTTCCACAG-3'</td></tr><tr><td>GPx4</td><td rowspan="3"></td><td>探针</td><td>5'-TCCCCATTCACACAGATCTTGCTGAAC-3</td></tr><tr><td>超氧化物歧</td><td>上游</td><td>5'-TGGAGACCTGGGCAATGTG-3'</td></tr><tr><td>化酶1</td><td>XM_005657141.1 下游</td><td>5'-CCACCTCTGCCCAAGTCATC-3'</td></tr><tr><td>SOD1</td><td rowspan="4">AF054837.1</td><td>探针</td><td>5'-CATCGAAGATTCTGTGATCGCCCTC-3'</td></tr><tr><td>β-肌动蛋白</td><td>上游</td><td>5'- GGGTATGGGTCAGAAAGATTCC-3'</td></tr><tr><td>β-actin</td><td>下游</td><td>5'- TCTCCATGTCGTCCCAGTTG-3'</td></tr><tr><td></td><td>探针</td><td>5'-CTCAGAGCAAGAGAGGTATCCTGACCCTC-3'</td></tr></table></body></html>
+
+# 1.7 数据统计
+
+采用 SPSS17.0软件对数据进行方差分析，试验指标按因子试验设计进行双因素有效互作方差分析，分析主效应（Ala-Gln 和Diquat）以及两者的交互效应，Duncan 氏法进行多重比较，结
+
+果以“平均值土标准误”形式表示。通过 $2 ^ { - \Delta \mathrm { C t } }$ 方式计算mRNA表达量，结果以“平均值±标准误”形式表示。 $P { < } 0 . 0 5$ 为差异显著。
+
+# 2结果
+
+# 2.1Ala-Gln 对氧化应激断奶仔猪血清抗氧化指标的影响
+
+Ala-Gln 对氧化应激断奶仔猪血清抗氧化指标的影响见表3。由表中数据可知，Diquat 对血清GSH- $\mathbf { \cdot P x }$ 、T-SOD 活性和T-AOC及MDA含量有显著影响（ $P { < } 0 . 0 5 \rangle$ ，但对血清 $\mathrm { G l n }$ 、GSH含量和CAT活性没有影响（ $P { > } 0 . 0 5 )$ ；Ala-Gln 对血清Gln、GSH含量和GSH-Px、T-SOD 活性及T-AOC 有显著影响（ $. P { < } 0 . 0 5 )$ ，但对血清 MDA含量和CAT 活性没有显著影响（ $. P { > } 0 . 0 5 )$ ；Diquat与 Ala-Gln 的交互效应对血清 T-SOD 活性和 T-AOC 有显著影响（ $_ { \cdot } P { < } 0 . 0 1 \$ ，但对血清Gln、GSH、MDA含量和GSH $\mathbf { \cdot P x }$ 、CAT活性没有显著影响（ $_ { . P > 0 . 0 5 ) }$ 。
+
+多重比较发现,Diquat 诱导氧化应激后,仔猪血清GSH含量、T-SOD 活性显著下降( $_ { , P < 0 . 0 5 ) }$ 。仔猪正常生理状态下，饲粮中添加Ala-Gln 显著降低了血清T-SOD 活性（ $. P { < } 0 . 0 5 \$ )，显著提高血清 Gln含量和T-AOC（ $_ { . } P { < } 0 . 0 5 { \ : } )$ ，对血清GSH含量和GSH $\mathbf { \cdot P x }$ 、CAT活性无显著影响（ $_ { . P > 0 . 0 5 ) }$ ；仔猪氧化应激状态下，饲粮中添加 Ala-Gln 显著提高了血清Gln、GSH、MDA 含量以及GSH- $\mathbf { \cdot P x }$ 、T-SOD 活性（ $P { < } 0 . 0 5 )$ 。
+
+表3Ala-Gln对氧化应激断奶仔猪血清抗氧化指标的影响  
+Table 3Efects of Ala-Gln on serum antioxidant indices of weaned piglets challenged with oxidative   
+
+<html><body><table><tr><td colspan="9">stress</td></tr><tr><td>项目</td><td colspan="2">Diquat （-)</td><td colspan="2"></td><td rowspan="2">SEM</td><td colspan="3">P值P-value</td></tr><tr><td></td><td colspan="2">0</td><td colspan="2">Diquat（+) 0.3%</td><td colspan="3"></td></tr><tr><td>Items 谷氨酰胺</td><td></td><td>0.3% Ala-Gln</td><td>0</td><td>Ala-Gln</td><td></td><td>Ala-Gln</td><td>Diquat</td><td>Ala-GlnXDiquat</td></tr><tr><td>Gln/(mmol/L) 谷胱甘肽</td><td>1.87b</td><td>2.20a</td><td>1.93b</td><td>2.25a</td><td>0.055</td><td><0.01</td><td>0.54</td><td>0.96</td></tr><tr><td>GSH/(mg/L) 谷胱甘肽过氧化</td><td>6.53a</td><td>6.92a</td><td>4.65c</td><td>5.46b</td><td>0.222</td><td><0.01</td><td>0.61</td><td>0.10</td></tr><tr><td>物酶 GSH-Px/(U/mL)</td><td>477.44a</td><td>496.24a</td><td>346.45b</td><td>450.92a</td><td>16.892</td><td><0.01</td><td>0.02</td><td>0.07</td></tr><tr><td>过氧化氢酶 CAT/(U/mL)</td><td>4.76</td><td>5.78</td><td>4.23</td><td>4.64</td><td>0.262</td><td>0.16</td><td>0.11</td><td>0.56</td></tr><tr><td>总超氧化物歧化 酶 T-SOD/(U/mL)</td><td>86.07a</td><td>61.86b</td><td>35.64d</td><td>47.51c</td><td>4.393</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>丙二醛 MDA/(nmol/mL)</td><td>2.15</td><td>1.99</td><td>2.45</td><td>2.43</td><td>0.084</td><td>0.57</td><td>0.03</td><td>0.65</td></tr></table></body></html>
+
+<html><body><table><tr><td>2.73b</td><td>3.27a</td><td>2.17℃</td><td>2.78b</td><td>0.107</td><td><0.01</td><td><0.01</td><td><0.01</td></tr></table></body></html>
+
+-表示未应激， $+$ 表示应激，Ala-Gln：丙氨酰-谷氨酰胺。同行数据肩标不同小写字母表示差异显著（ $. P { < } 0 . 0 5 )$ ，相 同或无字母表示差异不显著（ $P { > } 0 . 0 5 \$ 。下表同。   
+- mean no stress, $+$ mean stress,Ala-Gln: anyl-glutamine. In the same row, values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ . The same as below.
+
+# 2.2Ala-Gln 对氧化应激断奶仔猪空肠抗氧化指标的影响
+
+Ala-Gln 对氧化应激断奶仔猪空肠抗氧化指标的影响见表4。由表中数据可知，Diquat 对空肠GSH- $\mathbf { \cdot P x }$ 、CAT、T-SOD 活性和 MDA含量及T-AOC 有显著影响（ $P { < } 0 . 0 5 \rangle$ ；Ala-Gln 对空肠GSH-Px、T-SOD 活性和 MDA 含量及T-AOC 有显著影响（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ，但对空肠CAT活性无显著影响（ $. P { > } 0 . 0 5 )$ ；Diquat与Ala-Gln 的交互效应对空肠MDA含量、GSH- $\mathbf { \cdot P x }$ 活性和 T-AOC 有显著影响 （ $\scriptstyle P < 0 . 0 5 )$ ，但对空肠CAT、T-SOD 活性无显著影响（ $. P { > } 0 . 0 5 \$ ）°
+
+多重比较发现，Diquat诱导氧化应激后，仔猪空肠GSH- $\mathbf { \cdot P x }$ 、T-SOD 活性和 T-AOC 显著下降（ $_ { . } { \cal P } { < } 0 . 0 5 )$ ，空肠MDA含量显著上升（ $P { < } 0 . 0 5 )$ 。仔猪正常生理状态下，饲粮中添加Ala-Gln显著提高了空肠GSH- $\mathbf { \cdot P x }$ 活性和T-AOC（ $. P { < } 0 . 0 5 )$ ，显著降低了空肠MDA含量（ $_ { \cdot P < 0 . 0 5 } )$ ，但对空肠CAT 和T-SOD 活性无显著影响（ ${ ( P { > } 0 . 0 5 ) }$ ；仔猪氧化应激状态下，饲粮中添加 Ala-Gln 显著提高了空肠GSH-Px、T-SOD 活性和T-AOC（ $\scriptstyle P < 0 . 0 5$ )，显著降低了空肠MDA含量（ $_ { ( P < 0 . 0 5 ) }$ 。
+
+表4Ala-Gln对氧化应激断奶仔猪空肠抗氧化指标的影响  
+Table 4Effects of Ala-Gln on jejunal antioxidant indices of weaned piglets challenged with oxidative   
+
+<html><body><table><tr><td colspan="8">stress</td></tr><tr><td rowspan="2">项目</td><td colspan="2"></td><td colspan="2"></td><td rowspan="2">SEM</td><td colspan="3">P值P-value</td></tr><tr><td>Diquat （-) 0</td><td>0.3%</td><td>Diquat（+) 0</td><td>0.3%</td><td></td><td></td><td></td></tr><tr><td>Items</td><td rowspan="2"></td><td rowspan="2">Ala-Gln</td><td rowspan="2"></td><td rowspan="2">Ala-Gln</td><td rowspan="2"></td><td rowspan="2">Ala-Gln</td><td rowspan="2">Diquat</td><td rowspan="2">Ala-Gln XDiquat</td></tr><tr><td>谷胱甘肽过氧化物酶</td></tr><tr><td>GSH-Px/(U/mg prot)</td><td rowspan="2">76.57b</td><td rowspan="2">92.34a</td><td rowspan="2">58.84d</td><td rowspan="2">69.76c</td><td rowspan="2">2.820</td><td rowspan="2"><0.01</td><td rowspan="2"><0.01</td><td rowspan="2">0.02</td></tr><tr><td>过氧化氢酶</td></tr><tr><td></td><td rowspan="2">4.98ab</td><td rowspan="2">5.16a</td><td rowspan="2">4.59b</td><td rowspan="2">4.87ab</td><td rowspan="2">0.085</td><td rowspan="2">0.15</td><td rowspan="2">0.04</td><td rowspan="2">0.77</td></tr><tr><td>CAT/(U/mg prot)</td></tr><tr><td>总超氧化物歧化酶</td><td rowspan="2">408.35ab</td><td rowspan="2">426.05a</td><td rowspan="2">347.22℃</td><td rowspan="2">384.80b</td><td rowspan="2">8.145</td><td rowspan="2">0.01</td><td rowspan="2"><0.01</td><td rowspan="2">0.33</td></tr><tr><td>T-SOD/(U/mg prot)</td></tr><tr><td>丙二醛</td><td rowspan="2">0.80c</td><td rowspan="2">0.71d</td><td rowspan="2">1.20a</td><td rowspan="2">0.93b</td><td rowspan="2">0.012</td><td rowspan="2"><0.01</td><td rowspan="2"><0.01</td><td rowspan="2"><0.01</td></tr><tr><td></td></tr><tr><td>MDA/(nmol/mg prot)</td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td></tr><tr><td>总抗氧化能力</td></tr><tr><td></td><td rowspan="2">3.62b</td><td rowspan="2">4.32a</td><td rowspan="2">2.29c</td><td rowspan="2">3.60b</td><td rowspan="2">0.180</td><td rowspan="2"><0.01</td><td rowspan="2"><0.01</td><td rowspan="2">0.04</td></tr><tr><td>T-AOC/(U/mg prot)</td></tr></table></body></html>
+
+2.3Ala-Gln 对氧化应激断奶仔猪肝脏抗氧化指标的影响
+
+Ala-Gln 对氧化应激断奶仔猪肝脏抗氧化指标的影响见表5。由表中数据可知，Diquat 对肝脏GSH-Px、CAT、T-SOD 活性和 MDA含量及T-AOC 有显著影响（ $P { < } 0 . 0 5 )$ ；Ala-Gln 对肝脏T-SOD、GSH- $\mathbf { \cdot P x }$ 活性和MDA含量及T-AOC 有显著影响（ $\scriptstyle \cdot - 0 . 0 5 .$ ，但对肝脏CAT活性无显著影响（ $_ { . } { P > } 0 . 0 5 )$ ；Diquat与Ala-Gln的交互效应对肝脏MDA含量、GSH- $\mathbf { \cdot P x }$ 活性以及T-AOC有显著影响 ( $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ )，但对肝脏CAT、T-SOD活性无显著影响（ $P { > } 0 . 0 5 )$ 。
+
+多重比较发现，Diquat 诱导氧化应激后，仔猪肝脏GSH-Px、T-SOD 活性和 T-AOC 显著下降（ $P { < } 0 . 0 5 )$ ，肝脏MDA含量显著上升（ $P { < } 0 . 0 5 )$ 。仔猪正常生理状态下，饲粮中添加Ala-Gln显著提高了肝脏GSH- $\mathbf { \cdot P x }$ 活性以及T-AOC（ $. P { < } 0 . 0 5 )$ ，显著降低了MDA含量（ $_ { , P < 0 . 0 5 ) }$ ，但对肝脏CAT、T-SOD活性无显著影响（ $. P { > } 0 . 0 5 \$ )；仔猪氧化应激状态下，饲粮中添加Ala-Gln 显著提高了肝脏GSH-Px、T-SOD 活性及T-AOC（ $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ )，显著降低了肝脏MDA含量（ $_ { , P < 0 . 0 5 ) }$ 。
+
+表5Ala-Gln对氧化应激断奶仔猪肝脏抗氧化指标的影响  
+Table 5Effects of Ala-Gln on liver antioxidant indices of weaned piglets challenged with oxidative   
+
+<html><body><table><tr><td colspan="9">stress</td></tr><tr><td rowspan="3">项目</td><td colspan="6"></td><td rowspan="2">P值 P-value</td></tr><tr><td colspan="2">Diquat （-)</td><td colspan="2">Diquat（+)</td><td colspan="3"></td></tr><tr><td>Items</td><td>0</td><td>0.3% Ala-Gln</td><td>0</td><td>0.3% Ala-Gln</td><td>SEM Ala-Gln</td><td>Diquat</td><td></td><td>Ala-Gln X Diquat</td></tr><tr><td>谷胱甘肽过氧化</td><td rowspan="3">76.57b</td><td rowspan="3">92.34a</td><td rowspan="3">58.84d</td><td rowspan="3">69.75℃</td><td rowspan="3">2.820</td><td rowspan="3"><0.01</td><td rowspan="3"><0.01</td><td rowspan="3">0.02</td></tr><tr><td>物酶</td></tr><tr><td>GSH-Px/(U/mg</td></tr><tr><td>prot) 过氧化氢酶</td><td rowspan="2">4.97ab</td><td rowspan="2">5.16a</td><td rowspan="2">4.59b</td><td rowspan="2">4.87ab</td><td rowspan="2">0.085</td><td rowspan="2">0.14</td><td rowspan="2">0.04</td><td rowspan="2">0.77</td></tr><tr><td>CAT/(U/mg prot)</td></tr><tr><td>总超氧化物歧化</td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td></tr><tr><td>酶</td></tr><tr><td>T-SOD/(U/mg</td><td rowspan="2">408.35ab</td><td rowspan="2">426.04a</td><td rowspan="2">347.22c</td><td rowspan="2">384.79b</td><td rowspan="2">8.145</td><td rowspan="2">0.01</td><td rowspan="2"><0.01</td><td rowspan="2">0.33</td></tr><tr><td>prot)</td></tr><tr><td>丙二醛</td><td rowspan="2">0.80c</td><td rowspan="2">0.71d</td><td rowspan="2">1.20a</td><td rowspan="2">0.92b</td><td rowspan="2">0.012</td><td rowspan="2"><0.01</td><td rowspan="2"></td><td rowspan="2"></td></tr><tr><td>MDA/(nmol/mg</td></tr><tr><td></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"><0.01</td><td rowspan="2"><0.01</td></tr><tr><td>prot)</td></tr><tr><td></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td></tr><tr><td></td></tr><tr><td></td><td></td><td></td><td>2.28c</td><td>3.60b</td><td>0.180</td><td><0.01</td><td></td><td>0.03</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总抗氧化能力</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>4.32a</td><td></td><td></td><td></td><td></td><td><0.01</td><td></td></tr><tr><td></td><td>3.62b</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>T-AOC/(U/mg</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+2.4 Ala-Gln对氧化应激断奶仔猪肝脏 $G P x 4$ 、SOD1mRNA表达量的影响
+
+Ala-Gln对氧化应激断奶仔猪肝脏 $G P x 4$ 、SOD1mRNA表达量的影响见表6。由表中数据可知，Diquat、Ala-Gln及Diquat与Ala-Gln 的交互效应对肝脏 $G P x 4$ 、SOD1mRNA表达量均有显著影响（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ）°
+
+仔猪正常生理状态下，饲粮中添加Ala-Gln 使肝脏 $G P x 4 ~ \mathrm { { m R N A } }$ 表达量提高了 $9 5 . 8 \%$ 中 $( P { < } 0 . 0 5 )$ ；仔猪氧化应激状态下，饲粮中添加Ala-Gln 使肝脏 $G P x 4$ mRNA表达量提高了 $1 6 6 . 7 \%$ $( P { < } 0 . 0 5 )$ 。
+
+Diquat诱导氧化应激后，仔猪肝脏SOD1mRNA表达量显著提高（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ )。仔猪正常生理状态下，饲粮中添加Ala-Gln使肝脏中SOD1mRNA表达量降低了 $5 9 . 4 \%$ ( $_ { . } \mathrm { \rho } _ { > 0 . 0 5 } )$ ；仔猪氧化应激状态下，饲粮中添加Ala-Gln 使肝脏中 SOD1mRNA表达量降低了 $4 0 . 0 \%$ ( $_ { . } { \cal P } { < } 0 . 0 5 )$ 。
+
+表6Ala-Gln对氧化应激断奶仔猪肝脏 $G P x 4$ 、SOD1mRNA表达量的影响
+
+Table 6Effects of Ala-Gln on liver $G P x 4$ ， SOD1 mRNA expressions of weaned piglets challenged   
+
+<html><body><table><tr><td colspan="10">with oxidative stress</td></tr><tr><td rowspan="2">项目 Items</td><td colspan="2">Diquat （-)</td><td colspan="3">Diquat （+)</td><td colspan="3">P值P-value</td></tr><tr><td>0</td><td>0.3% Ala-Gln</td><td>0</td><td>0.3% Ala-Gln</td><td>SEM</td><td>Ala-Gln</td><td>Diquat</td><td>Ala-Gln XDiquat</td></tr><tr><td>谷胱甘肽过氧化 物酶4</td><td>0.024c</td><td>0.047b</td><td>0.030c</td><td>0.080a</td><td>0.005</td><td><0.01</td><td><0.01</td><td><0.01</td></tr><tr><td>GPx4 超氧化物歧化酶</td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td></tr><tr><td>超氧化物歧化酶</td></tr><tr><td></td><td rowspan="2">0.032c</td><td rowspan="2">0.013c</td><td rowspan="2">0.125a</td><td rowspan="2">0.075b</td><td rowspan="2">0.010</td><td rowspan="2"><0.01</td><td rowspan="2"><0.01</td><td rowspan="2">0.03</td></tr><tr><td>1</td></tr><tr><td></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td></tr><tr><td>SOD1</td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1Ala-Gln对氧化应激断奶仔猪血清抗氧化指标的影响
+
+仔猪断奶后，食物从母乳到饲粮的转变，使采食量骤降，不能满足机体对Gln的需求。而Gln 作为重要的抗氧化活性物质，外源性添加Gln，可有效改善仔猪生长性能，保护肠道形态结构，缓解仔猪断奶应激[3.8-12]。作为Gln 的替代产品，Ala-Gln 与Gln 有相似的功能。在应激状态下，机体对Gln的需要量加大，内源性Gln不能满足机体的需求。且断奶后仔猪不能通过母乳获得Gln，断奶仔猪饲粮中添加Gln 或 Ala-Gln 显得尤为重要[13]。动物体内抗氧化系统主要由GSH-Px、超氧化物歧化酶（SOD）、CAT和一些低分子化合物（维生素C、维生素E、GSH等）
+
+组成。其中血清抗氧化酶活性反映了动物机体内的氧化还原状态。饲粮中添加GIn也可有效防止机体由于前体物质不足而造成的GSH合成障碍[14]。
+
+前期的试验研究发现，饲粮中添加 $0 . 3 \%$ Ala-Gln 可显著提高 21\~28日龄仔猪生长性能[15]。本研究发现，仔猪正常生理状态下，饲粮中添加 Ala-Gln 能够显著提高血清Gln 含量，使得机体内 Gln 得到补充，有提高血清GSH含量及GSH-Px、CAT 活性的趋势。这与戴定威等[16]研究结果相似。试验中还发现，血清T-SOD 活性显著降低，这可能是因为机体处于氧化还原平衡状态，并不需要太多抗氧化酶就足够维持自身稳态。同样，张军民等[17研究发现，试验组饲粮中添加$1 . 2 \%$ Gln 提高了35日龄仔猪血清GSH-Px 活性，降低了血清 SOD 活性。而席鹏彬等[18]研究发现，通过向仔猪饲粮中添加GIn 二肽，使断奶后血清 SOD 活性显著提高，这可能是由于添加物质规格和水平不同所导致。通过注射 Diquat 模拟氧化应激状态能够显著降低仔猪血清中GSH-Px、T-SOD 活性，并显著降低血清T-AOC，且血清 MDA 含量显著升高。这正验证了当仔猪遭受持续的氧化应激时，血清GSH-Px、T-SOD 活性的下降是为了调节机体内氧化和还原平衡。研究表明，动物体内抗氧化物酶活性的降低，是因为终产物过氧化氢（ $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ ）的反馈调节作用或超氧阴离子（ $O ^ { 2 - } .$ ）使抗氧化物酶灭活，徐静等[7]研究也发现，通过仔猪腹腔注射Diquat 模拟氧化应激，显著或极显著降低了第7、14、21、28天血清GSH-Px、T-SOD 活性，抑制羟自由基能力，显著提高了血清 MDA含量，在第7、14、21、28天血清CAT 活性有降低趋势， $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 含量有增加趋势。
+
+本试验研究发现，仔猪氧化应激状态下，饲粮中添加 $0 . 3 \%$ 的 Ala-Gln 可显著提高血清Gln、GSH 含量，并能显著提高血清GSH-Px、SOD 活性及T-AOC，血清 MDA含量有降低趋势。仔猪氧化应激状态下，机体为维持氧化和还原的动态平衡，需要提高抗氧化能力。而通过外源添加Ala-Gln 能够提高血清中Gln 含量，GSH-Px 大量合成，同时 SOD 也持续发挥作用，T-AOC 得到显著提高，缓解了氧化应激的强度，从而使仔猪免受应激伤害。
+
+# 3.2Ala-Gln 对氧化应激断奶仔猪空肠、肝脏抗氧化指标的影响
+
+小肠和肝脏作为动物体内最活跃的两大部位，能够为机体提供源源不断的营养素和免疫因子，同时在应激状态下也最容易受到损伤。小肠和肝脏组织中具有完善的抗氧化系统，抗氧化酶的表达和合成机制也非常完善。
+
+仔猪正常生理状态下，饲粮中添加 Ala-Gln 能够显著提高空肠GSH-Px 活性，从而显著提高了T-AOC，空肠 MDA 含量显著下降，空肠 T-SOD 活性也有显著提高，这可能是由于仔猪肠道接触各种应激源，因此需要更强的抗氧化力来维持组织稳态。当仔猪遭受氧化应激时，仔猪的空肠GSH-Px、T-SOD 和CAT 活性显著下降，T-AOC 显著下降，MDA 含量显著提高。而 Ala-Gln添加组的仔猪空肠GSH-Px、T-SOD 活性显著提高，T-AOC 显著提高，MDA 含量显著降低。这表明 Ala-Gln 可以通过提高仔猪空肠抗氧化酶活性，增强抗氧化能力，减缓氧化应激危害。同时，仔猪饲粮中添加 Aln-Gln 也能够显著提高肝脏 GSH-Px 活性和 T-AOC，显著降低 MDA 含量。氧化应激状态使仔猪肝脏GSH-Px、T-SOD 活性显著下降，T-AOC 和 MDA 含量显著上升，CAT 活性显著下降，仔猪肝脏受到应激损伤。大量试验研究也发现，氧化应激能够降低仔猪肝脏 SOD活性，提高MDA 含量[19-21]。当饲粮中添加 Ala-Gln 时，能显著提高氧化应激状态下仔猪肝脏GSH-Px、CAT 和 T-SOD 活性。这可能是由于外源性添加Ala-Gln后血清Gln 含量增加，GSH-Px合成水平增加，保护组织细胞不受氧化损伤，CAT 和T-SOD 能够维持酶活性，正常发挥抗氧化作用。这也表明饲粮中添加Ala-Gln可以提高仔猪肝脏抗氧化能力。
+
+3.3Ala-Gln对氧化应激断奶仔猪肝脏GPx4、SOD1mRNA表达量的影响
+
+GSH-Px 和 SOD作为2种重要的抗氧化酶，在机体遭受持续氧化应激时，能够及时清除堆积自由基，维持氧化与还原动态平衡。 $\mathrm { G P x 4 }$ 是机体内抗氧化酶类GSH-Px家族中的重要成员，在不同组织中发挥重要的抗氧化功能[22]。GPx4 是哺乳动物细胞中唯一能直接还原生物膜上的磷脂氢过氧化物，从而保护生物膜免受氧化应激损伤[23]。有研究表明，在仔猪肝脏中 $G P x 4$ mRNA表达量显著高于其他组织，SODmRNA表达量也相对较高[24]。
+
+本试验研究发现，氧化应激状态断奶仔猪肝脏为维持氧化与抗氧化的动态平衡，提高了GPx4、SOD1mRNA 表达量，使肝脏抗氧化酶活性提高。外源性添加 Ala-Gln 后，正常生理状态下和应激状态下，GPx4 mRNA表达量都显著提高，而 SOD1mRNA 表达量反而显著降低。这与Hiraishi等[25]研究结果一致，说明动物机体内整个抗氧化防御体系存在酶学机制反应，在正常、应激和病理状态下，动物机体的抗氧化能力维持相对恒定。同时Hiraishi等[25]研究表明，细胞在处于氧化应激状态下,SOD mRNA 的表达受超氧阴离子自由基的诱导。当GIn 含量增加， $G S H  – P x$ mRNA 表达量升高，组织内自由基得到及时清除，SOD的作用较少。通过荧光定量PCR结果进一步证实，添加Ala-Gln 可以减少氧化应激产生的自由基，通过提高GSH-Px mRNA 表达量，提高机体抗氧化能力。
+
+4结论
+
+$\textcircled{1}$ 仔猪正常生理状态下，饲粮中添加 Ala-Gln 可显著提高血清GIn 含量和 T-AOC，显著提高空肠和肝脏GSH-Px 活性和T-AOC，显著降低空肠和肝脏MDA含量。
+
+$\textcircled{2}$ 仔猪氧化应激状态下，饲粮中添加Ala-Gln 可显著提高血清、空肠和肝脏的部分抗氧化指标，降低MDA含量，显著提高肝脏 $G P x 4$ mRNA表达量，显著降低 SOD1mRNA表达量。
+
+$\textcircled{3}$ 饲粮中添加Ala-GIn可减缓氧化应激对断奶仔猪机体组织的损伤，且在氧化应激状态下效果更为显著。
+
+# 参考文献
+
+[1] LOSCALZOJ.L-arginineandatherothrombosis[J].The Journal ofNutrition,2004,134(10S):2798S-2800S.  
+[2]蒋小丰,方热军.谷氨酰胺的营养生理功能研究进展[J].中国饲料,2009(11):31-36.  
+[3]王军军,王凤来,印遇龙,等.断奶和谷氨酰胺对仔猪肠道氧化状态与基因表达的影响[C]/中国畜牧兽医学会2008学术年会暨第六届全国畜牧兽医青年科技工作者学术研讨会.广州:中国畜牧兽医学会,2008:16-19.  
+[4]曹婧然,谢颖,李辉,等.谷氨酰胺在氧化应激疾病中的作用及其机制的研究[J].临床误诊误治,2013,26(9):102-104.  
+[5] REEDS P J,BURRIN D G,STOLL B,et al.Intestinal glutamate metabolism[J].The Journal ofNutrition,2000,130(4):978S-982S.  
+[6]桑剑锋,吴文溪.丙氨酰谷氨酰胺二肽的代谢及在肠外营养中的应用[J].肠外与肠内营养,2001,8(1):46-50.  
+[7]徐静,余冰,陈代文.Diquat诱导的生长猪氧化应激持续时间及适宜的应激标识[J].中国农业科学,2008,41(12):4359-4364.  
+[8]黄冠庆,黄晓亮,李嘉嘉.丙氨酰谷氨酰胺对断奶仔猪生长和血清抗氧化能力的影响[J].动物营养学报,2008,20(6):706-711.  
+[9]吕玉玲,周玉香.谷氨酰胺对动物机体免疫和抗氧化作用的研究概况[J].畜牧与饲料科学,2008,29(2):60-62.  
+[10]王学斌,刘凤莲,李东风,等.体内游离谷氨酰胺的抗氧化作用[J].生物物理学报,2004,20(6):429-433.  
+[11]余珊珊.谷氨酰胺二肽调节断奶仔猪生长性能的研究进展[J].畜牧与饲料科学,2011(4):44-46.  
+[12]邹晓庭.谷氨酰胺对断奶仔猪生长、免疫的影响及其机理研究[D].博士学位论文.杭州:浙江大学,2007.  
+[13]邓宸玺.Ala-GIn对断奶仔猪小肠黏膜屏障功能和吸收功能的调控作用[D].硕士学位论文.南昌：江西农业大学,2013.  
+[14]许梓荣,邹晓庭,孙庆宇,等.谷氨酰胺对断奶仔猪肝脏SOD、GSH-Px基因表达的影响[J].中国兽医学报,2008,28(4):461-464.  
+[15]邓宸玺.Ala-Gln对断奶仔猪小肠黏膜屏障功能和吸收功能的调控作用[D].硕士学位论文.南昌:江西农业大学,2013.  
+[16]戴定威,吴圣楣,戚秋芬,等.谷氨酰胺对缺氧复氧损伤人小肠上皮细胞谷胱甘肽的影响[J].中国病理生理杂志,1999,15(2):128-130.  
+[17]张军民,王连递,高振川,等.日粮添加谷氨酰胺对早期断奶仔猪抗氧化能力的影响[J].畜牧兽医学报,2002,33(2):105-109.  
+[18]席鹏彬,林映才,蒋宗勇,等.谷氨酰胺二肽对断奶仔猪生长、免疫、抗氧化力和小肠粘膜形态的影响[J].动物营养学报,2007,19(2):135-141.  
+[19]袁施彬,陈代文.不同氧化应激模式下仔猪血细胞参数变化的比较研究[J].动物营养学报,2008,20(6):617-623.  
+[20]袁施彬,陈代文,余冰,等.氧化应激对断奶仔猪生产性能和养分利用率的影响[J].中国饲料,2007(8):19-22.  
+[21]袁施彬,陈代文.氧化应激对断奶仔猪组织抗氧化酶活性和病理学变化的影响[J].中国兽医学报,2009,29(1):74-78.  
+[22] 刘春旭,李少臣,陈洁,等.硒和蛋白质与大鼠心肌GPX1、GPX4表达及翻译[J].中国地方病防治杂志,2011,26(1):4-6.  
+[23]IMAI H,NAKAGAWA Y.Biological significance of phospholipid hydroperoxide glutathioneperoxidase(PHGPx,GPx4）inmammaliancells[J].FreeRadicalBiologyandMedicine,2003,34(2):145-169.  
+[24]陈伟,杜金芳,崔景香,等.莱芜猪 $G P x 4$ 基因在不同组织中的表达规律研究[J].山东农业大学学报：自然科学版,2011,42(3):433-437.  
+[25]HIRAISHI H,TERANO A,RAZANDI M,et al.Role of celular superoxide dismutase againstreactive oxygen metabolite injury in cultured bovine aortic endothelial cels[J].Journal ofBiological Chemistry,1992,267(21):14812-14817.Effects of Alanyl-Glutamine Alleviate Oxidative Damage Induced by Diquat of Weaned PigletsXIN XiangrongYE Yaling YOU Jinming\*HE Qin DENG Chenxi(Nutrition Feed Development Engineering Center of Jiangxi Province, Key Laboratory of AnimalNutrition in Jiangxi Province, Jiangxi Agricultural University, Nanchang 33oo45, China)  
+Abstract: This experiment was conducted to study the effects of alanyl-glutamine (Ala-Gln) allviate  
+oxidative damage induced by Diquat of weaned piglets.The method of double-factor design is adopted.  
+Twenty four piglets with health condition and similar parity weaned at 21 days of age were randomly  
+divided into 2 groups with 12 replicates in each group and 1 pig in each replicate.Pigs in two groups
+
+were fed control diet and control diet $+ 0 . 3 0 \%$ Ala-Gln, respectively.After 7 days pre feeding,based on the prophase feeding,the 24 piglets were randomly divided into 4 groups with 6 replicates in each group and 1 pig in each replicate. The four groups were basal diet group,basal diet+ $- 0 . 3 \%$ Ala-Gln group, basal diet stress group and basal diet $+ 0 . 3 \%$ Ala-Gln stress group, respectively. Piglet oxidative stress was simulated by intraperitoneal injection of $8 ~ \mathrm { m g / k g }$ BW Diquat, and the unstressed groups were injected with the same volume of sterilized saline. The experiment lasted for 7 days.The results showed as follows: 1） piglets under oxidative stress state, compare with the basal diet stress group, dietary supplemented with Ala-Gln significantly increased the contents of glutamine (Gln), glutathione (GSH) and activities of glutathione peroxidase (GSH-Px), total superoxide dismutase (T-SOD) and total antioxidant capacity (T-AOC) in serum ( $( P { < } 0 . 0 5 )$ . 2) Piglets under normal physiological state and oxidative stress state, compared with corresponding basal diet group and basal diet stress group, dietary supplemented with Ala-Gln significantly increased the GSH- $\mathbf { \cdot P x }$ activity and T-AOC in jejunum （204 $( P { < } 0 . 0 5 )$ ，and significantly decreased the malondialdehyde (MDA） content $( P { < } 0 . 0 5 )$ ； dietary supplemented with Ala-Gln significantly increased the GSH- $\mathbf { \nabla } \cdot \mathrm { P x }$ activity and T-AOC in liver $( P { < } 0 . 0 5 )$ _， and significantly decreased the malondialdehyde (MDA） content $( P { < } 0 . 0 5 )$ .3）Piglets under oxidative stress state, compare with the basal diet stress group, dietary supplemented with Ala-Gln significantly increased the liver glutathione peroxidase 4 $( G P x 4 )$ mRNA expression（ $P { < } 0 . 0 5$ ），and significantly decreased the superoxide dismutase 1 (SOD1) mRNA expression（ $\scriptstyle P < 0 . 0 5 .$ ）.These findings indicate that piglets under normal physiological state and oxidative stress state，diets supplemented with Ala-Gln can improve antioxidant capacity and decrease MDA content of piglets,and to alleviate the organism tissue damage of oxidative stress of weaned piglets, especially under oxidative stress state.
+
+Key words: oxidative stress; Ala-Gln; piglets; antioxidant capacity

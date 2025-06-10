@@ -1,0 +1,199 @@
+张　璐1.2　李　静麦康森」艾庆辉l\* 张春晓」李会涛」袁禹惠²（1.中国海洋大学水产学院，教育部海水养殖重点实验室，青岛 266003；2.通威股份有限公司技术中心，成都610041；3.中国石油大学（华东）化工学院，青岛 266580）
+
+摘要：本研究旨在探讨饲料中不同维生素D含量对鲈鱼幼鱼生长性能和钙磷代谢的影响。以初始体重为（ $2 . 2 6 { \pm } 0 . 0 3$ ）g的鲈鱼幼鱼为试验对象，随机分为6组（每组3个重复，每个重复15尾鱼)，饲喂维生素D含量实测值分别为34.2、219.4、393.8、775.9、1534.1和3 091.2IU/kg 的等氮等能饲料，进行9周的养殖试验。结果表明：1）当饲料中维生素D含量在 $3 4 . 2 { \sim } 3 9 3 . 8 \ \mathrm { I U / k g }$ 时，鲈鱼的增重率随着饲料中维生素D含量的升高显著上升（ $P { < } 0 . 0 5 \mathrm { : }$ ，但是当饲料中维生素D含量高于 $3 9 3 . 8 ~ \mathrm { I U / k g }$ 时，鲈鱼的增重率变化不显著并且出现平台期（ $. P { > } 0 . 0 5$ )。同样，鲈鱼的特定生长率、饲料效率和蛋白质效率均表现出与增重率相似的变化趋势。2）饲料中维生素D含量显著影响了鱼体粗灰分、钙和磷含量，脊椎骨、鳃盖骨和鳞片粗灰分含量以及脊椎骨钙和磷含量（ $. P { < } 0 . 0 5 )$ ，但对鱼体粗蛋白质、粗脂肪和水分含量没有显著影响（ $. P { > } 0 . 0 5 \$ )。3）饲料中维生素D含量对鲈鱼血清碱性磷酸酶活性及羟脯氨酸、钙离子和无机磷含量均有显著影响（ $\scriptstyle P < 0 . 0 5 .$ )。4）饲料中维生素D含量显著影响了鲈鱼肝体指数及肝脏脂肪和维生素D含量（ $. P { < } 0 . 0 5$ )。随着饲料中维生素D含量的升高,肝脏维生素D含量呈现升高的趋势，并在饲料中维生素D含量达到1534.1IU/kg时变化趋于平稳。以增重率为评价指标，采用折线模型分析得出鲈鱼幼鱼获得最大生长时对饲料中维生素D 的需求量为 $4 3 1 . 0 \ \mathrm { I U / k g }$ 。以肝脏维生素D含量为评价指标，采用二次曲线模型分析得出鲈鱼幼鱼获得最大肝脏维生素D沉积量时对饲料中维生素D的需求量为2 444.4 IU/kg 。
+
+关键词：鲈鱼；维生素D；生长；需求；钙磷代谢  
+中图分类号：S963 文献标识码：A文章编号：  
+维生素D最重要的种类为维生素 $\mathrm { \Delta D _ { 2 } [ }$ 又名麦角钙化醇（ergocalciferol)]和维生素 ${ \bf D } _ { 3 }$ （又名胆钙化醇(cholecalciferol）]。麦角钙化醇的先体是来自植物的麦角固醇；胆钙化醇的先体是来自动物的7-脱氢胆固醇，先体经紫外线照射而转变成维生素 ${ \bf D } _ { 2 }$ 和维生素 ${ \bf D } _ { 3 }$ 。维生素 ${ \bf D } _ { 3 }$ 不仅是一种营养成分，也是一种激素原，其本身并没有任何内在的生物学活性，只有首先在肝脏中代谢成 25-羟维生素 $\mathrm { D } _ { 3 } [ 2 5 ( \mathrm { O H } ) \mathrm { D } _ { 3 } ]$ ，然后在肾脏中转化为1α,25-二羟基维生素 $\mathrm { D } _ { 3 } [ 1 { \alpha } , 2 5 ( \mathrm { O H } ) _ { 2 } \mathrm { D } _ { 3 } ]$ 及 24R,25-二羟基维生素 $\mathrm { D } _ { 3 } [ 2 4 \mathrm { R } , 2 5 ( \mathrm { O H } ) _ { 2 } \mathrm { D } _ { 3 } ]$ 后才具有生物活性。维生素D 能够调节体内的钙磷平衡，影响甲状旁腺激素（parathyroid hormone,PTH）对骨骼的作用[。新的研究发现，除调节钙磷平衡外，维生素D可能还在如代谢、细胞增殖与分化、自身免疫、心血管生理功能、神经与肌肉功能及防癌作用等方面发挥重要生理功能[2]。目前，有关鱼类对维生素D 需求量的报道并不多。相关研究认为，虹鳟对维生素D 的需求量为 $1 6 0 0 { \sim } 2 4 0 0 \mathrm { I U } / \mathrm { k g }$ 饲料[3]；斑点叉尾对维生素D的需求量为 $1 0 0 0 \mathrm { I U / k g }$ 饲料[4]或 $2 5 0 \mathrm { I U / k g }$ 饲料[5]，而太平洋鲑和黄条不需要在饲料中额外添加维生素 $\mathbf { D } ^ { [ 6 - 7 ] }$ 。维生素D 缺乏时，在低钙水域中养殖的动物会出现伺偻病、钙平衡紊乱、白肌痉挛和肌纤维结构的改变[8]。维生素D过量时，溪红点鲑表现出生长缓慢、精神不振、体色变暗等症状[]。鲈鱼（Lateolabrax japonicus）属凶猛的肉食性鱼类，其肉质细嫩、味道鲜美，深受人们的喜爱。鲈鱼生长速度快，对盐度和温度的适应范围较广，无需室内越冬，是我国南、北方海水养殖的主要种类之一。目前有关鲈鱼营养学研究已有一些报道，初步确定了鲈鱼的蛋白质以及脂肪的最适需要量[9-12]。杜震宇等[13]研究了不同脂肪源和降脂因子对鲈鱼生长、组织和血液生化指标的影响。近年来，本实验室也在鲈鱼的适宜氮能比[14]、矿物质需
+
+求[15-16]、外源酶添加[17]等营养生理方面做了大量的研究工作。在维生素方面，本实验室研究了维生素C对鲈鱼生长及免疫的影响[18]，但在鲈鱼上关于维生素D的研究还未见报道。本试验以鲈鱼为研究对象，旨在探讨鲈鱼对精制饲料中维生素D的定量需求，同时在此基础之上研究饲料中不同维生素D含量对鲈鱼幼鱼鱼体常规成分、肝脏维生素D含量、血清生理与生化指标以及骨骼矿化和钙、磷含量的影响，以期为鲈鱼人工饲料的开发和利用提供理论依据。
+
+1材料与方法
+
+#
+
+1.1试验饲料制作  
+以酪蛋白和明胶为蛋白质源，豆油和鲱鱼油为脂肪源，糊精为糖源，褐藻酸钠为黏合剂，并添加混合氨基酸模拟鲈鱼鱼体氨基酸模式，配制出精制基础饲料(表1)，在每千克基础饲料中分别添加0、200、400、800、1600 和3200IU维生素 ${ \bf D } _ { 3 }$ ，配制出6种等氮等能的试验饲料，试验饲料中维生素D含量实测值分别为34.2、19.4、393.8、775.9、1534.1和 3 091.2 IU/kg 饲料。  
+各种饲料原料分别粉碎后过80目筛网，然后将各种原料混合均匀，再与水和豆油及鲱鱼油充分混匀，用F-26Ⅱ型双螺杆挤条机（华南理工大学科技实业总厂研制）加工成型，制得的饲料在45℃烘箱中烘至水分含量达到 $9 \% \sim 1 0 \%$ 。烘干的饲料破碎过筛后分别得到2种颗粒大小不同的饲料（ $1 . 5 \ : \mathrm { m m } \times 3 . 0 \ : \mathrm { m m }$ 和 $2 . 5 \ : \mathrm { m m } \times 4 . 0 \ : \mathrm { m m }$ )，将这2种颗粒饲料分别密封进塑料袋储存在-20℃备用。
+
+# 表1基础饲料组成及营养水平(干物质基础)
+
+# Table 1Composition and nutrient levels of the basal diet (DM basis) %
+
+项目Items 含量Content
+
+酪蛋白（不含维生素）Casein(Vitamin free) 36.0
+
+明胶Gelatin 9.0
+
+# ChinaXiv合作期刊
+
+糊精 Dextrin 28.0  
+鲱鱼油 Menhaden fish oil 7.0  
+豆油 Soybean oil 4.0  
+混合氨基酸 Amino acid mixturel) 4.0  
+卵磷脂Lecithin 2.0  
+褐藻酸钠 Sodium alginate 1.0  
+$\mathbf { a }$ 纤维素 $\mathbf { a }$ -cellulose 3.0  
+矿物质预混料 Mineal premix2) 4.0  
+维生素预混料（不含维生素D）Vitamin premix (vitaminD free)3) 2.0  
+合计 Total 100  
+营养水平 Nutrient levels  
+粗蛋白质 Crude protein 43.2  
+粗脂肪 Crude lipid 12.5
+
+1混合氨基酸组成（干物质基础）Composition of amino acid mixture（DMbasis)：天冬氨酸aspartic acid $1 . 2 5 \%$ ，甘氨酸 glycine $0 . 0 2 \%$ ，丙氨酸alanine $0 . 6 7 \%$ ，精氨酸arginine$0 . 7 3 \%$ ，胱氨酸cystine $0 . 0 4 \%$ ，缬氨酸valine $0 . 1 3 \%$ ，蛋氨酸 methionine $0 . 2 9 \%$ 。
+
+2)每千克矿物质预混料含有 Contained the following per $\mathrm { k g }$ of mineral premix: NaF 200mg， KI 80 mg, $\mathrm { C o C l } _ { 2 } { \cdot } 6 \mathrm { H } _ { 2 } \mathrm { O }$ （ $1 \%$ ） $5 0 0 0 \mathrm { m g }$ ， $\mathrm { C u S O _ { 4 } { \cdot } 5 H _ { 2 } O \ 1 0 0 0 \ m g }$ ， $\mathrm { F e S O _ { 4 } { \cdot } H _ { 2 } O \ 8 0 0 0 \ m g }$ ，ZnSO4:H2O 5 000 mg, MnSO4:H2O 6 000 mg, MgSO4:7H2O 120 000 mg, Ca $( \mathrm { H } _ { 2 } \mathrm { P O } _ { 4 } ) _ { 2 } { \cdot } \mathrm { H } _ { 2 } \mathrm { O } 7 5$ 0$0 0 0 \mathrm { m g }$ ， $\mathrm { N a C l ~ 1 ~ 0 0 0 ~ m g }$ ，沸石粉 zoelite $9 4 2 7 0 \mathrm { m g }$ 。
+
+3)维生素预混料为每千克饲料提供 Vitamin premix provided the following per $\mathrm { k g }$ of thediet: $\mathrm { V B } _ { 1 } 2 5 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 4 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 2 0 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 1 \mathrm { m g }$ ， $\mathrm { V K } _ { 3 } 1 0 \mathrm { m g }$ ，肌醇inositol $8 0 0 ~ \mathrm { { m g } }$ 泛酸 pantothenic acid $6 0 ~ \mathrm { m g }$ ，烟酸niacin acid $2 0 0 \mathrm { m g }$ ，叶酸folic acid $2 0 \mathrm { m g }$ ，生物素 biotin$1 . 2 0 \mathrm { m g }$ ，VA $3 2 \mathrm { m g }$ ，VE $1 2 0 \mathrm { m g }$ ， $\mathrm { V C } 2 0 0 0 \mathrm { m g }$ ，氯化胆碱 choline chloride $2 5 0 0 \mathrm { m g }$ ，乙氧基喹啉 ethoxyquin $1 5 0 \mathrm { m g }$ ，小麦粉 wheat middling $1 4 0 1 7 \mathrm { m g }$ 。
+
+# 1.2饲养管理
+
+试验用鲈鱼选用当年同一批海捕鱼苗，于水泥池（ $3 . 0 \ \mathrm { m } { \times } 2 . 0 \ \mathrm { m } { \times } 1 . 5 \ \mathrm { m }$ ）中暂养，以基础饲料饱食投喂，使之逐渐适应试验饲料和养殖环境。暂养结束后，试验鱼饥饿 $2 4 \mathrm { h }$ ，然后称重，挑选出体格健壮、规格一致的鲈鱼[初始体重为‘ $\left( 2 . 2 6 \pm 0 . 0 3 \textrm { g } \right)$ ）]随机分为6组，每组3个重复，以重复为单位放养于室内流水系统 $3 0 0 \mathrm { L }$ 的玻璃纤维桶（水量 $2 5 0 \mathrm { L }$ ）内，放养密度为15尾/桶。每天投喂试验饲料2次（07:00、17:00)，表观饱食投喂。试验 $1 { \sim } 4$ 周投喂颗粒大小为 $1 . 5 ~ \mathrm { m m } { \times } 3 . 0 ~ \mathrm { m m }$ 的饲料， $5 { \sim } 9$ 周投喂颗粒大小为 $2 . 5 ~ \mathrm { m m } { \times } 4 . 0 ~ \mathrm { m m }$ 的饲料。每次投喂前1h吸污，投喂后 $^ \mathrm { ~ 1 ~ h ~ }$ 收集残饵，烘干，称重，每天记录投饲量。如有死鱼，记录数量并称重。试验用海水经沉淀、1级砂滤，持续充气，水流量为 $1 \mathrm { L } / \mathrm { m i n } .$ ，水温为 $2 4 . 0 { \sim } 2 7 . 0 \ \mathrm { ~ \textdegree }$ ，盐度为 $2 8 . 0 \% 0 \sim 2 9 . 5 \%$ ， $\mathsf { p H }$ 在8.0\~8.1之间，溶解氧含量在 $7 \mathrm { m g / L }$ 左右。饲养9周后，将试验鱼饥饿 $2 4 \mathrm { h }$ ，计数，并用丁香酚（1:10000）（上海试剂厂产品）麻醉。从每桶中随机选取3条鲈鱼，用 $1 ~ \mathrm { m L }$ 的无菌注射器从尾静脉取血，待析出血清后保存备用，其余的鱼全部称重并取样。取样后的鱼体保存于-20℃冰箱中，血清保存于-80℃冰箱中。
+
+# 1.3样品分析测定方法
+
+饲料原料、饲料和鱼体常规成分的分析全部采用AOAC（1995）[19]的方法。其中水分含量测定采用105℃烘干恒重法，粗蛋白质含量测定采用半微量凯氏定氮法（总氮 $\times 6 . 2 5$ ），粗脂肪含量测定采用索氏抽提法（乙醚为溶剂），粗灰分含量测定采用马福炉中600℃灼烧12 h称重法。肝脏脂肪含量采用Folch等[20]的方法测定。血清碱性磷酸酶（AKP）活性及羟脯氨酸（Hpro）、钙离子（ $\mathrm { C a } ^ { 2 + }$ ）和无机磷 $( \mathrm { { P } _ { i } }$ ）含量均采用南京建成生物工程研究所生产的试剂盒测定。饲料和肝脏维生素D含量采用高效液相色谱法[21检测。鲈鱼全鱼氨基酸组成样品处理和测定采用Zhang等[22]方法。鱼体和脊椎骨中钙和磷含量用VISTA-MPX型电感耦合等离子发射光谱（ICP-OES）（瓦里安）测定。每份样品均重复测定3次。
+
+# 1.4计算公式
+
+增重率（WGR） $\mathtt { \Pi = 1 0 0 \times }$ （Wt-Wo） /Wo;特定生长率（SGR） $\mathtt { \Pi = 1 0 0 \times }$ （lnWt-lnWo）It;饲料效率（FER） $\mathrm { = } 1 0 0 \mathrm { { \times } } ( W _ { \mathrm { t } } { \times } N _ { \mathrm { t } } \mathrm { - } W _ { 0 } { \times } N _ { O } ) / I _ { \mathrm { d } } \mathrm { [ } ^ { 2 3 } \mathrm { ] } .$ 蛋白质效率（PER） $\mathbf { \tau } = 1 0 0 { \times } ( W _ { \mathrm { t } } { \times } N _ { \mathrm { t } } - W _ { 0 } { \times } N _ { 0 } ) / I _ { \mathrm { p } } ;$ 存活率（SR） ${ \tt \mathrm { = } } 1 0 0 \times N _ { \mathrm { t } } / N _ { \mathrm { 0 } }$ 肝体指数（HSI） $( \% ) \ { = } 1 0 0 { \times } W _ { \mathrm { L } } / W _ { \mathrm { B } } ,$ 0式中： $W _ { 0 }$ 为初始体重； $W _ { \mathrm { t } }$ 为终末体重； $\mathbf { \Psi } _ { t }$ 为试验天数； $N _ { \mathrm { t } }$ 为终末尾数； $N _ { 0 }$ 为初始尾数；$I _ { \mathrm { d } }$ 饲料摄入量(以干重计)； $I _ { \mathrm { p } }$ 粗蛋白质摄入量(以干重计)； $W _ { \underline { { L } } }$ 为肝脏重； $W _ { B }$ 为体重。
+
+# 1.5 数据统计分析
+
+采用 SPSS16.0统计软件对所得数据进行方差和相关性分析。先对数据进行单因素方差分析（one-wayANOVA)，若差异达到显著水平（ $_ { _ { P < 0 . 0 5 } ) }$ ，则采用Tukey's检验进行多重比较。试验数据用平均值±标准误表示。
+
+# 2结果
+
+2.1饲料中不同维生素D含量对鲈鱼生长指标的影响由表 2 可知，饲料中不同维生素D含量对鲈鱼幼鱼的成活率没有产生显著影响（ $P { > } 0 . 0 5 )$ ，但是显著影响了鲈鱼幼鱼的增重率、特定生长率、饲料效率和蛋白质效率（ $P { < } 0 . 0 5$ )。饲料中不添加维生素D组（维生素D含量 $3 4 . 2 ~ \mathrm { I U / k g }$ 组）鲈鱼幼鱼的存活率（ $7 3 . 3 \%$ ）最低，但是与其他各组（ $8 2 . 2 \% { \sim } 9 3 . 3 \%$ ）差异不显著（ $P { > } 0 . 0 5$ )。当饲料中维生素D含量在 $3 4 . 2 { \sim } 3 9 3 . 8 \mathrm { I U / k g }$ 时，鲈鱼幼鱼的增重率随着饲料中维生素D含量的升高显著上升（ $P { < } 0 . 0 5 )$ ，但是当饲料中维生素D含量高于 $3 9 3 . 8 \mathrm { I U / k g }$ 时，鲈鱼幼鱼的增重率变化不显著并且出现平台期（ $. P { > } 0 . 0 5 \ '$ )。同样，鲈鱼幼鱼的特定生长率、饲料效率和蛋白质效率均表现出与增重率相似的变化趋势。饲料中维生素D含量（X）与鲈鱼幼鱼增重率（Y）的关系用折线模型表示为： $Y { = } 6 5 2 . 5 { - } 1 . 2 4 ( 4 3 1 . 0 { - } X )$ ，此时鲈鱼幼鱼对维生素D的需求量为$4 3 1 . 0 \mathrm { I U / k g }$ 饲料 (图1)。
+
+# 表2饲料中不同维生素D含量对鲈鱼幼鱼生长指标的影响
+
+124
+
+Table 2Efects of different dietary vitamin D contents on growth indices of juvenile Japanese seabass   
+
+<html><body><table><tr><td>项目</td><td colspan="6">饲料中维生素D 含量 Dietary vitamin Dcontent/(IU/kg)</td><td colspan="2">方差分析ANOVA</td></tr><tr><td>Items</td><td>34.2</td><td>219.4</td><td>393.8</td><td>775.9</td><td>1 534.1</td><td>3 091.2</td><td>F值 F-value)</td><td>P值 (P-value)</td></tr><tr><td>存活率 SR/%</td><td>73.30±6.67</td><td>82.20±2.22</td><td>93.33±3.85</td><td>88.90±4.44</td><td>88.90±5.88</td><td>84.40±4.44</td><td>2.114</td><td>0.134</td></tr><tr><td>增重率 WGR/%</td><td>91.60±2.51c</td><td>223.00±4.79b</td><td>538.60±4.95a</td><td>566.40±9.59a</td><td>542.00±8.79a</td><td>539.10±5.88a</td><td>983.536</td><td>0.000</td></tr><tr><td>特定生长率 SGR/(%/d)</td><td>1.03 ±0.02c</td><td>1.86±0.02b</td><td>2.94±0.01a</td><td>3.01±00.2a</td><td>2.95±0.02a</td><td>2.94±0.01a</td><td>1748.002</td><td>0.000</td></tr><tr><td>饲料效率 FER</td><td>0.47±0.01c</td><td>0.66±0.02b</td><td>0.86±0.01a</td><td>0.87±0.02a</td><td>0.84±0.01a</td><td>0.87±0.00a</td><td>140.775</td><td>0.000</td></tr><tr><td>蛋白质效率 PER</td><td>1.09±0.02c</td><td>1.53±0.05b</td><td>2.00 ±0.02a</td><td>2.01±0.04a</td><td>1.95±0.02a</td><td>2.01±0.01a</td><td>140.087</td><td>0.000</td></tr></table></body></html>
+
+同行数据肩标无字母或相同字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同字母表示差异显著 $( P { < } 0 . 0 5 )$ 。下表同。
+
+126 In the same row, values with no letter or the same letter superscripts mean no significant diference ( $\mathrm { \langle } P { > } 0 . 0 5 \mathrm { \rangle }$ , while with different letter superscripts mean   
+127 significant difference ( $\scriptstyle \left. { \cal P } < 0 . 0 5 \right.$ ). The same as below.
+
+![](images/f9c2f6a29ca855f8e6a2debaab0c38ce4c9afb659b01361087a81f63a1f83319.jpg)  
+图1饲料中维生素D含量与鲈鱼幼鱼增重率的关系  
+Fig.1Relationship between dietary vitamin D content and WGR of juvenile Japanese seabass
+
+2.2饲料中不同维生素D含量对鲈鱼体成分的影响
+
+由表3可知，饲料中不同维生素D含量显著影响了鲈鱼幼鱼鱼体粗灰分、钙和磷的含量( $P { < } 0 . 0 5 )$ ，但是对粗蛋白质、粗脂肪和水分的含量没有显著影响（ $. P { > } 0 . 0 5 \$ )。随着饲料中维生素D含量的升高，鲈鱼幼鱼鱼体粗灰分的含量呈增加趋势，且维生素D含量最高组（维生素D含量 $3 0 9 1 . 2 \mathrm { I U / k g }$ 组）显著高于维生素D含量 $3 4 . 2 \mathrm { I U / k g }$ 组（ $\scriptstyle P < 0 . 0 5 .$ )。同样，鲈鱼幼鱼鱼体钙和磷的含量与粗灰分含量的变化趋势基本一致，而钙的含量虽然在维生素D含量最高组略低于次高组（维生素D含量1 534.1IU/kg组)，但是并无显著差异（ $( P { > } 0 . 0 5 )$ 。
+
+表3饲料中不同维生素D含量对鲈鱼幼鱼体成分的影响 (湿重基础)  
+Table 3Effects of diferent dietary vitamin Dcontents onbodycompositionofjuvenile Japanese seabass(wet weight bais)   
+
+<html><body><table><tr><td>项目</td><td colspan="6">饲料中维生素 D 含量 Dietary vitamin D content/(IU/kg)</td><td colspan="2">方差分析ANOVA</td></tr><tr><td>Items</td><td>34.2</td><td>219.4</td><td>393.8</td><td>775.9</td><td>1 534.1</td><td>3 091.2</td><td>F值F-value</td><td>P值P-value</td></tr><tr><td>粗蛋白质 Crude protein/%</td><td>14.3±0.1</td><td>14.7±0.5</td><td>14.5±0.5</td><td>14.4±0.5</td><td>14.8±0.3</td><td>14.8±0.2</td><td>0.323</td><td>0.889</td></tr><tr><td>粗脂肪 Crude lipid/%</td><td>5.3±0.3</td><td>5.4±0.2</td><td>5.4±0.2</td><td>5.3±0.2</td><td>5.0±0.3</td><td>6.0±0.2</td><td>1.826</td><td>0.182</td></tr><tr><td>水分 Moisture/%</td><td>77.9±0.5</td><td>77.0±0.5</td><td>77.2±0.2</td><td>77.0±0.9</td><td>76.4±0.8</td><td>76.5±0.6</td><td>0.676</td><td>0.650</td></tr><tr><td>粗灰分 Ash/%</td><td>4.1±0.1c</td><td>4.3±0.1bc</td><td>4.5±0.2abc</td><td>4.5±0.1abc</td><td>4.8±0.0ab</td><td>4.9±0.0a</td><td>6.842</td><td>0.003</td></tr><tr><td>钙Calcium/(mg/g)</td><td>8.09±0.33℃</td><td>8.51±0.33bc</td><td>10.50±0.67ab</td><td>11.23±0.44a</td><td>12.01±0.43a</td><td>11.93±0.27a</td><td>15.653</td><td><0.001</td></tr><tr><td>磷 Phosphorus/(mg/g)</td><td>2.70±0.09c</td><td>2.83±0.13c</td><td>3.43±0.17b</td><td>3.70±0.08ab</td><td>3.96±0.10a</td><td>4.08±0.08a</td><td>27.542</td><td><0.001</td></tr></table></body></html>
+
+2.3饲料中不同维生素D含量对鲈鱼幼鱼血清碱性磷酸酶活性及羟脯氨酸、钙离子和无机磷含量的影响
+
+由表4可知，随着饲料中维生素D 含量的升高，鲈鱼幼鱼血清碱性磷酸酶的活性及钙离子的含量均表现出先上升后下降的趋势，而血清无机磷的含量则表现出持续升高的趋势。血清羟脯氨酸的含量在不添加维生素D组出现最高值，显著高于维生素D 含量为 219.4 和 $7 7 5 . 9 \mathrm { I U / k g }$ 组（ $_ { \cdot P < 0 . 0 5 ) }$ ，但是与其他各组相比无显著差异（ $. P { > } 0 . 0 5 \$ ）
+
+表4饲料中不同维生素D含量对鲈鱼幼鱼血清碱性磷酸酶活性及羟脯氨酸、钙离子和无机磷含量的影响
+
+Table 4Effects of different dietary vitamin D contents on serum AKP activity, and HPro, $\mathrm { C a } ^ { 2 + }$ and Pi contents of juvenile Japanese seabass   
+
+<html><body><table><tr><td>项目</td><td colspan="5">饲料中维生素 D含量 Dietary vitamin D content/(IU/kg)</td><td colspan="3">方差分析 ANOVA</td></tr><tr><td>Items</td><td>34.2</td><td>219.4</td><td>393.8</td><td>775.9</td><td>1 534.1</td><td>3 091.2</td><td>F值F-value</td><td>P值P-value</td></tr><tr><td>碱性磷酸酶 AKP/(金氏单位</td><td>2.49±0.12c</td><td>2.75±0.17bc</td><td>3.31±0.27abc</td><td>3.69±0.12a</td><td>3.91±0.08a</td><td>3.48±0.07ab</td><td>9.309</td><td>0.001</td></tr><tr><td>/dL)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>羟脯氨酸 HPro/(ug/mL)</td><td>23.24±0.72a</td><td>19.15±1.38b</td><td>19.72±0.85ab</td><td>19.08±0.72b</td><td>20.43±1.28ab</td><td>19.89±1.00ab</td><td>3.260</td><td>0.043</td></tr><tr><td>钙离子 Ca²+/(mg/dL)</td><td>9.31±0.36b</td><td>10.74±0.33ab</td><td>10.66±0.30ab</td><td>11.05±0.36ab</td><td>10.82±0.47ab</td><td>12.24±0.16a</td><td>6.447</td><td>0.004</td></tr><tr><td>无机磷 Pi/(mg/dL)</td><td>51.69±1.67b</td><td>54.89±2.37b</td><td>55.15±1.54b</td><td>59.54±1.67ab</td><td>66.96±1.93a</td><td>68.20±1.96a</td><td>13.137</td><td><0.001</td></tr></table></body></html>
+
+2.4饲料中不同维生素D含量对鲈鱼幼鱼脊椎骨、鳃盖骨和鳞片粗灰分以及脊椎骨钙和磷含量的影响
+
+由表5可知，饲料中维生素D含量由34.2升至 $1 5 3 4 . 1 \mathrm { I U / k g }$ 时，鲈鱼幼鱼脊椎骨、鳃盖骨、鳞片粗灰分以及脊椎骨钙含量均表现出显著的升高( $_ { . } { \cdot } { \cdot } { \cdot } { \cdot } _ { } ( { 0 . 0 5 } )$ ，  
+在维生素D 的含量由1534.1IU/kg 降至 $3 \mathrm { 0 9 1 . 2 } \mathrm { I U / k g }$ 时虽略有下降，但是差异并不显著（ $_ { \cdot P > 0 . 0 5 }$ )。脊椎骨磷含量与饲料中维生素D含量正相关，随着饲  
+料中维生素D含量的升高表现出的上升趋势，且维生素D含量为1534.1和 $3 \mathrm { 0 9 1 . 2 \mathrm { I U / k g } }$ 组显著高于维生素D含量为34.2、219.4和 $3 9 3 . 8 \mathrm { I U / k g }$ 组 $P { < } 0 . 0 5 )$ ）表5饲料中不同维生素D含量对鲈鱼幼鱼脊椎骨、鳃盖骨和鳞片粗灰分以及脊椎骨钙和磷含量的影响(干重基础)
+
+able5Etsatstdldo   
+
+<html><body><table><tr><td colspan="8"> juvenile Japanese seabass（DM basis）</td></tr><tr><td>项目</td><td colspan="5">饲料中维生素D含量 Dietary vitamin D content/(IU/kg)</td><td colspan="3">方差分析ANOVA</td></tr><tr><td>Items</td><td>34.2</td><td>219.4</td><td>393.8</td><td>775.9</td><td>1 534.1</td><td>3 091.2</td><td>F值F-value</td><td>P值P-value</td></tr><tr><td>脊椎骨粗灰分 Vertebral ash/(mg/g)</td><td>466.32±3.83b</td><td>480.43±4.73ab</td><td>481.67±4.70ab</td><td>486.63±3.53ab</td><td>494.74±2.78a</td><td>480.47±4.48ab</td><td>4.423</td><td>0.016</td></tr><tr><td>鳃盖骨粗灰分 Operculum ash/(mg/g)</td><td>436.34±2.54d</td><td>443.31±2.61cd457.58±4.26bc</td><td></td><td></td><td>467.62±2.60ab477.35±2.53a</td><td>466.37±5.36ab</td><td>18.069</td><td><0.001</td></tr><tr><td>鳞片粗灰分 Scale ash/(mg/g)</td><td>436.67±5.24c</td><td>438.25±1.86c</td><td>449.21±1.76bc</td><td></td><td>458.26±5.13ab470.71±2.03a</td><td>467.38±3.18a</td><td>22.566</td><td><0.001</td></tr><tr><td>脊椎骨钙 Vertebral calcium/(mg/g)</td><td>173.42±3.21b</td><td>183.35±4.98ab</td><td>193.16±3.38ab</td><td>204.85±3.31a</td><td>206.61±7.64a</td><td>194.17±5.69ab</td><td>5.696</td><td>0.006</td></tr><tr><td>脊椎骨磷 Vertebral phosphorus/(mg/g)</td><td>51.36±2.17c</td><td>53.22±1.76c</td><td>59.26±1.45b</td><td>60.61±2.09ab</td><td>61.25±1.64a</td><td>63.43±2.11a</td><td>6.242</td><td>0.004</td></tr></table></body></html>
+
+2.5饲料中不同维生素D含量对鲈鱼幼鱼肝体指数及肝脏脂肪和维生素D含量的影响
+
+由表6可知，饲料中不同维生素D含量显著影响了鲈鱼幼鱼肝体指数及肝脏脂肪和维生素D含量（ $\scriptstyle P < 0 . 0 5 .$ )。随着饲料中维生素D含量的升高，肝体指数和肝脏脂肪含量呈现下降的趋势，而肝脏维生素D 含量则呈现升高的趋势，并均在饲料中维生素D含量达到 $1 \ 5 3 4 . 1 \ \mathrm { I U / k g }$ 时变化趋于平稳。饲料中维生素D的含量（X）与鲈鱼幼鱼肝脏维生素D含量(Y)的关系用二次曲线模型表示为： $\scriptstyle Y =$ (-9E-07) $X ^ { 2 } + 0 . 0 0 4 4 X + 0 . 8 8 1 \ \epsilon$ 5，此时鲈鱼幼鱼对维生素D的需求量为2444.4IU/kg饲料（图2）。
+
+表6饲料中不同维生素D含量对鲈鱼幼鱼肝体指数及肝脏脂肪和维生素D含量的影响（湿重基础)
+
+159
+
+Table   
+
+<html><body><table><tr><td>项目</td><td colspan="6">饲料中维生素 D 含量 Dietary vitamin D content/(IU/kg)</td><td colspan="2">方差分析ANOVA</td></tr><tr><td>Items</td><td>34.2</td><td>219.4</td><td>393.8</td><td>775.9</td><td>1 534.1</td><td>3 091.2</td><td>F值F-value</td><td>P值P-value</td></tr><tr><td>肝体指数 Hepatosomatic index/%</td><td>2.69±0.03a</td><td>2.26±0.081ab</td><td>2.07±0.11bc</td><td>1.92±0.11bc</td><td>1.75±0.21bc</td><td>1.52±0.10c</td><td>12.027</td><td><0.001</td></tr><tr><td>肝脏脂肪含量Liver lipid content/%</td><td>15.67±0.62a</td><td>14.29±0.37ab</td><td>13.14±0.89ab</td><td>12.99±0.14ab</td><td>12.07±0.89b</td><td>11.49±0.65b</td><td>5.395</td><td>0.008</td></tr><tr><td>肝脏维生素 D 含量 Liver vitamin D content/(IU/g)</td><td>0.68±0.09d</td><td>2.04±0.31cd</td><td>2.90±0.16bc</td><td>3.50±0.17b</td><td>5.54±0.16a</td><td>5.91±0.35a</td><td>50.267</td><td><0.001</td></tr></table></body></html>
+
+![](images/f49298ddc5e270dbf79daacc69204bb0a25eccdee969c75f0f88a2712a35d0fe.jpg)  
+图2饲料维生素D含量与鲈鱼幼鱼肝脏维生素D含量的关系
+
+Fig.2Relationship between dietary vitamin D content and liver vitamin D content of juvenile Japanese
+
+seabass
+
+3讨论本试验探讨了精制基础饲料中不同维生素D含量对鲈鱼幼鱼生长指标、体常规组成、肝脏维生素D含量、血清钙磷代谢相关指标以及骨骼矿化和钙、磷含量的影响。以增重率为评价指标时，通过折线模型可以得到鲈鱼幼鱼对维生素D的需求量为431.0IU/kg 饲料（图1)。这与Lovell等[24]对斑点叉尾的研究结果（500IU/kg饲料）差别不大，但是低于Barmett等β]报道的虹对维生素D的需求量（1600\~2400 IU/kg 饲料）和Andrews 等[4报道的斑点叉尾对维生素D 的需求量（1000IU/kg 饲料)。鲈鱼幼鱼肝脏维生素D含量的变化与增重率的变化趋势相似，都是随着饲料中维生素D含量的升高而上升并在某一阶段达到峰值，然后变化趋于平稳。当以肝脏维生素D含量为评价指标时，我们发现采用二次曲线模型能比折线模型更好的拟合肝脏维生素D含量和饲料维生素D含量之间的关系（ $R ^ { 2 }$ 最大)，因此，采用二次曲线模型可以得到鲈鱼幼鱼对维生素D的需求量为2444.4
+
+IU/kg 饲料(图2)，这与Barmett等[3报道的虹鳟对维生素D 的需求量（1600\~2400 IU/kg 饲料）较为一致。当以肝脏维生素D含量为评价指标时鲈鱼幼鱼对维生素D的需求量要高于以增重率为评价指标时。Woodward[22]指出，当以组织最大累积量为评价指标时，动物对营养素的需求量要比以生长为评价指标时高，这也与本试验结论是一致的。同时，动物对营养物质的需求量与选取的模型也有较大关系，二次曲线模型往往得到比折线模型更高的需求量[26]。在本试验中，通过折线模型拟合肝脏维生素D含量和饲料维生素D含量之间的关系时，得到的鲈鱼幼鱼对维生素D的需求量要比通过二次曲线模型得到的需求量低，但是拟合的精确度却不尽人意。在水产动物营养研究中，有关模型的应用目前尚没有明确、统一的依据，这样显然不利于不同结果间的相互比较。尽快规范不同评价模型的选择依据也是目前水产研究中一个急需解决的问题。不同试验得到的养殖鱼类对维生素D 的需求量不尽相同，这可能还与养殖对象的种类、生长阶段、生理状况、维生素D的添加形式、养殖环境和养殖模式等有关。  
+养殖9周后，饲喂不添加维生素D饲料的鲈鱼的存活率虽然低于其余各组，但未表现出显著差异，并且在养殖后期没有表现出明显的维生素D缺乏症，但是解剖时发现维生素D含量最低组的鲈鱼鳃盖骨脆弱、易碎。与Halver[27]报道的“过量的维生素D会导致养殖鱼类鳃盖脆弱”有所出入，本试验在饲料中维生素D含量最高组并未观察到类似的症状，经过对鳃盖骨粗灰分含量进行分析，发现维生素D含量最低组鳃盖骨粗灰分含量也最低，并显著低于维生素D含量最高组。至于维生素D含量最高组脊椎骨、鳃盖骨中粗灰分含量仍较高，可能与维生素D含量没有达到鲈鱼承受的极限或养殖周期不够长有关。  
+随着饲料中维生素D含量的升高，鲈鱼幼鱼血清碱性磷酸酶活性及钙离子和无机磷含量均逐渐升高，但在维生素D含量到达3091.2IU/kg 时，鲈鱼幼鱼血清碱性磷酸酶活性和钙离子含量停止升
+
+高，且出现略微下降。碱性磷酸酶存在于骨、肝脏和肠道等许多组织中，当骨细胞代谢活跃可见血清碱性磷酸酶活性升高，故在人类医学中碱性磷酸酶活性被用作骨更新指标。维生素 ${ \bf D } _ { 3 }$ 本身虽没有任何内在的生物学活性，但是其在肾脏中的代谢产物 $\bar { 1 } \mathrm { a } , 2 5 ( \mathrm { O H } ) _ { 2 } \mathrm { D } _ { 3 }$ 却是调节骨代谢的主要激素之一[力冲定中方脉系（rII）]。体)试验证明，Iu,J(Un)2D3能判激饭月细胞佰性T加还吸月细胞的生成，从而促进溶骨作用。在体内 $\bar { 1 } \mathrm { a } , 2 5 ( \mathrm { O H } ) _ { 2 } \mathrm { D } _ { 3 }$ 则与PTH协同作用，促进破骨细胞增生，并增强其破骨作用。此外， $\mathrm { 1 a , 2 5 ( O H ) _ { 2 } D _ { 3 } }$ 还刺激成骨细胞分泌胶原等，促进骨的生成，同时 $\mathrm { 1 a , 2 5 ( O H ) _ { 2 } D _ { 3 } }$ 通过增加小肠对钙、磷的吸收，又促进钙化。所以，在钙、磷供应充足时， $\mathrm { 1 a , 2 5 ( O H ) _ { 2 } D _ { 3 } }$ 主要促进成骨；当血液钙含量降低、肠道钙吸收不足时， $\mathrm { 1 0 , 2 5 ( O H ) _ { 2 } D _ { 3 } }$ 主要促进溶骨，使血液钙含量升高。在本试验中，随着饲料中维生素D含量的升高加， $\mathrm { 1 a , 2 5 ( O H ) _ { 2 } D _ { 3 } }$ 的生成量也逐渐上升，因此导致成骨细胞代谢旺盛，骨中生成的碱性磷酸酶部分进入血液导致血清碱性磷酸酶活性也随之升高。但是我们发现，在维生素D含量最高组血清中碱性磷酸酶活性又有下降的趋势，这是因为维生素D对骨细胞的作用是浓度依赖性的，生理剂量对骨细胞有促进作用，高剂量时则会产生毒性起抑制作用。在维生素D含量最高组，鲈鱼幼鱼血清碱性磷酸酶活性的下降可能与成骨细胞逐渐受到抑制有关。周歧存等[28]报道，饲料中适量的维生素D会显著提高皱纹盘鲍软体部的碱性磷酸酶活性，但过高或过低的添加量均会使碱性磷酸酶活性受到抑制。同样。Shiau 等[29]在斑节对虾上也有类似的报道。人类医学大量报道已证明 $\mathrm { 1 a , 2 5 ( O H ) _ { 2 } D _ { 3 } }$ 可以通过提高肠道对钙、磷的吸收和转运以及促进肾小管上皮对钙、磷的重吸收使血液中钙、磷含量增高，本试验中对血清钙离子和无机磷含量的检测结果也与之一致。随着饲料中维生素D 含量的升高，血清钙离子和无机磷含量均呈上升趋势。伴随着血清钙离子和无机磷含量的上升，鲈鱼幼鱼骨骼的矿化能力得到显著的加强，与此相一致的是脊椎骨、鳃盖骨和鳞片中粗灰分含量以及脊椎骨中钙和磷含量均有不同程度的上升。这说明饲料中适量维生素D 对骨骼矿化能力的增强是全身性的，而对全鱼的粗灰分含量分析也说明了这一点，这与Lovell等[24]对斑点叉尾的报道是一致的。骨骼的主要成分是骨盐(钙盐和磷酸盐）和有机基质（I型胶原)，当机体维生素D缺乏时会导致软骨症或骨质疏松症,这都伴随着骨盐以及有机基质不同程度的减少，对血清羟脯氨酸含量的检测证明了这一点。在维生素D含量最低组血清羟脯氨酸的含量最高，这也说明在维生素D含量最低组骨骼有机质的流失情况最为严重。
+
+例外都出现在维生素D含量次高组（即饲料中维生素含量为 $1 5 3 4 . 1 \mathrm { I U / k g }$ 时)，而不是出现在维生素D 含量最高组（即饲料中维生素含量为3091.2IU/kg时)，维生素D含量最高组的数值虽然在统计分析上与次高组没有显著差异，但都有不同程度的降低。人类医学研究表明，大量维生素D 导致骨骼广泛脱钙，骨盐含量显著降低，从而容易导致骨折。在本试验虽未观察到骨折现象，但是维生素D含量最高组的骨盐含量已经开始有一定程度的下降，不过下降程度与维生素D含量最低组比起来相差甚远，结合维生素D含量最低组骨骼有机质的流失情况最为严重这一点，这也说明了为什么鳃盖骨脆弱、易碎的现象出现在维生素D含量最低组而不是维生素D含量最高组。鲈鱼幼鱼肝体指数和肝脏脂肪含量的变化趋势一致，维生素D含量最低组表现出最高的肝体指数（ $2 . 6 9 \%$ ）和肝脏脂肪含量 $( 1 5 . 6 7 \% )$ ，然后随着饲料中维生素D含量的上升而逐渐下降（表6）。George等[30]研究表明虹摄食维生素D缺乏的饲料表现为生长下降和肝脏脂肪含量增加，这与本试验得到的结论是一致的。但是，本试验中发现鲈鱼幼鱼整个鱼体的脂肪含量却是随着饲料中维生素D含量的上升而逐渐上升，在肝脏脂肪含量最高组却表现出最低的鱼体粗脂肪含量（ $5 . 3 \%$ ）。据此推测：鱼体较高的肝脏脂肪含量应该并不是从外界摄入了更多的脂肪或脂肪合成能力升高的结果，而很可能是因为肝脏中维生素D过量累积造成肝脏磷脂合成障碍或载脂蛋白合成障碍导致甘油三酯难以转运出肝，从而在肝脏中大量积累引起病变，与肝脏脂肪含量异常升高相对应的是整个鱼体脂肪含量的下降。
+
+# 4结论
+
+当以增重率为评价指标时，鲈鱼幼鱼对维生素D的需求量为 $4 3 1 . 0 \mathrm { I U / k g }$ 饲料，而当以肝脏维生素D含量为评价指标时，鲈鱼对维生素D的需求量为2444.4IU/kg饲料。
+
+参考文献:
+
+[1] BEATON G H,MCHENRY E W.Nutrition:a comprehensive treatise[M].New York:Academic Press,1964:11-60.
+
+[2] 许友卿,刘永强,刘阳,等.维生素 ${ \bf D } _ { 3 }$ 对鱼类的影响及其机理研究进展[J].饲料工业,2014,35(16):26-30.   
+[3] BARNETT B J,CHO C Y,SLINGER S J.Relative biopotency of dietary ergocalciferol and cholecalciferol and the role of and requirement for vitamin D in rainbow trout (Salmo gairdneri)[J].The Journal of Nutrition,1982,112(11):2011-2019.   
+[4] ANDREWS JW,MURAI T,PAGE JW P.Effects of dietary cholecalciferol and ergocalciferol on catfish[J].Aquaculture,1980,19(1):49-54.   
+[5]BROWN P B.Vitamin D requirement of juvenile channel catfish reared in calcium-free water[D].Ph.D.Thesis.Texas:A&MUniversity,1988.   
+[6] HALVER JE.The vitamins[M]//HALVER JE.Fish nutrition.New York:Academic Press,1972:29-103.   
+[7] SHIMENO S.Yellowtail,Seriola quinqueradiata[M]//WILSON R P.Handbook of nutrient requirements of finfish.Boca Raton,FL:CBC Press,1991:181-191.   
+[8]HALVER J E.The vitamins[M]//HALVER J E.Fish nutrition.2nd ed.New York:Academic Press,1989:31-109.   
+[9] 林利民,胡家财,洪惠馨.鲈鱼人工配合饲料中蛋白质最适含量的研究[J].厦门水产学院学 报,1994,16(1):6-10.   
+[10]高淳仁,刘庆慧,梁亚全,等.鲈鱼幼鱼人工配合饲料中蛋白质、脂肪适宜含量的研究[J].海洋水产研 究,1998,19(1):81-85.   
+[11] 洪惠馨,林利民,陈学豪,等.鲈鱼人工配合饵料中脂肪的适宜含量研究[J].集美大学学报:自然科学 版,1999,4(2):41-44.   
+[12] 潘勇,王福强,刘焕亮.花鲈配合饲料中鱼粉与豆粕适宜比例的研究[J].大连水产学院学 报,2000,15(3):157-163.   
+[13] 杜震宇,刘永坚,郑文晖,等.三种脂肪源和两种降脂因子对鲈生长、体营养成分组成和血清生化指 标的影响[J].水产学报,2002,26(6):542-550.   
+[14] AI Q H,MAI K S,LI H T,et al.Effects of dietary protein to energy ratios on growth and body composition of juvenile Japanese seabass,Lateolabrax japonicus[J].Aquaculture,2004,230(1/2/3/4):507-516.   
+[15] MAI K S,ZHANG L,AI Q H,et al.Dietary lysine requirement of juvenile Japanese seabass,Lateolabrax japonicus[J].Aquaculture,2006,258(1/2/3/4):535-542.   
+[16] ZAHNG C X,MAI K S,AI Q H,et al.Dietary phosphorus requirement of juvenile Japanese seabass,Lateolabrax japonicus[J].Aquaculture,2006,255(1/2/3/4):201-209.   
+[17] AI Q H,MAI K S,ZHANG W B,et al.Effects of exogenous enzymes (phytase,non-starch polysaccharide enzyme） in diets on growth,feed utilization,nitrogen and phosphorus excretion of Japaneseseabass,Lateolabrax japonicus[J].ComparativeBiochemistryand PhysiologyPart A:Molecular & Integrative Physiology,2007,147(2):502-508.   
+[18] AI Q H,MAI K S,ZHANG C X,et al.Effects of dietary vitamin C on growth and immune response of Japanese seabass,Lateolabrax japonicus[J].Aquaculture,2004,242(1/2/3/4):489-500.   
+[19]AOAC.Official methodsof analysisof offcial analytical chemistsinternational[S].16th ed.Arlington,VA:Association of Official Analytical Chemists,1995.   
+[20] FOLCH J,LEES M,SLOANE STANLEY G H.A simple method for the isolation and purification of total lipides from animal tissues[J].Journal of Biological Chemistry,1957,226(1):497-509.   
+[21] HORVLI O,LIE O.Determination of vitamin ${ \bf D } _ { 3 }$ in fish meals by HPLC[J].Fiskeridirektoratets Skrifter,Serie Ernaring,1994,6:163-175.   
+[22] ZHANG L,MAI K S,AI Q H,et al.Use of a compound protein as a replacement for fish meal in diets of
+
+largeyellowcroaker, Pseudosciaena crocea R.[J].Journal ofthe WorldAquaculture
+
+Society,2008,39(1):83-90.   
+[23] HARDY R W,BARROWS F T.Diet formulation and manufacture[M]//HALVER J E,HARDY R W.Fish nutrition.3rd ed.New York:Academic Press,2002:505-600.   
+[24] LOVELL R T,LI Y P.Essentiality of vitamin D in diets of channel catfish (Ictalurus punctatus)[J].Transactions of the American Fisheries Society,1978,107(6):809-811.   
+[25] WOODWARD B.Riboflavin requirement for growth,tissue saturation and maximal flavin-dependent enzyme activity in young rainbow trout (Salmo gairdneri） at two temperatures[J].The Journal of Nutrition,1985,115(1):78-84.   
+[26] BAKER D H.Problems and pitfalls in animal experiments designed to establish dietary requirements for essential nutrients[J].The Journal of Nutrition,1986,116(12):2339-2349.   
+[27] HALVER J E.The vitamins[M]//HALVER JE，HARDY R W.Fish nutrition.3rd ed.New York:Academin Press,2002:62-143.   
+[28] 周歧存,麦康森.皱纹盘鲍维生素D营养需要的研究[J].水产学报,2004,28(2):155-160.   
+[29] SHIAU S Y,HWANG J Y.The dietary requirement of juvenile grass shrimp (Penaeus monodon) for vitamin D[J].Journal of Nutrition,1994,124(12):2445-2450.   
+[30] GEORGE J C,BARNETT B J,CHO C Y,et al.Vitamin ${ \bf D } _ { 3 }$ and muscle function in the rainbow trout[J].Cytobios,1981,31:7-18.   
+Effects of Different Dietary Vitamin D Contents on Growth Performance, Calcium and   
+Phosphorus Metabolism of Juvenile Japanese Seabass (Lateolabrax japonicas)i   
+ZHANG Lu1.2LI Jing1,3MAI Kangsen1AIQinghui1\* ZHANG ChunxiaolLI Huitao1   
+YUAN Yuhui²   
+(1.The Key Laboratory of Mariculture, Education Ministry of China, Fishery College, Ocean   
+University of China, Qingdao 2660O3, China; 2. Technology Center of Tongwei Co., Ltd.,   
+Chengdu 61OO41, China; 3. Center for Bioengineering and Biotechnology, China University of   
+Petroleum (East China), Qingdao 266580, China)
+
+Abstract: A 9-week feeding experiment was conducted to evaluate the effects of diferent dietary vitamin D contents on growth performance,calcium and phosphorus metabolism of juvenile Japanese seabass (Lateolabrax japonicas). Juvenile Japanese seabass with the initial body weight of $( 2 . 2 6 { \pm } 0 . 0 3 )$ ）g as the experimental animal, and were randomly divided into 6 groups with 3 replicates each group and 15 fish per replicate. Fish in the 6 groups were fed six isonitrogenousand isoenergentic diets with the measured contents of vitamin D were 34.2, 219.4, 393.8,775.9,1 534.1 and 3 091.2 IU,respectively. The results showed as follows: 1) weight gain rare (WGR） was significantly increased with increasing dietary vitamin D content from 34.2 to 393.8IU/kg $( P { < } 0 . 0 5 )$ ,and when the dietary vitamin D content more than 393.8 IU/kg,the WGR had no significant change and presented a trend of forgetting $( P { > } 0 . 0 5 )$ ). Special growth rate (SGR), feed efficiency ratio (FER) and protein efficiency ratio (PER) showed a similar tendency to WGR. 2) Dietary vitamin D content significantly influenced the contents of ash,calcium and phosphorus in carcass,ash in vertebra,operculum and scale,and calcium and phosphorus in vertebra of juvenile Japanese seabass $( P { < } 0 . 0 5 )$ ，but had no significant influences on the contents of crude protein,crude lipid and moisture in carcass $( P { > } 0 . 0 5 )$ .3） Serum alkaline phosphatase (AKP) activity,and hydroxyproline (HPro),calcium ion $( \mathbf { C a } ^ { 2 + } )$ and inorganic phosphorus $\mathrm { ( P _ { i } ) }$ contents were all significantly affected by dietary vitamin D content ( $( P { < } 0 . 0 5 )$ 0. 4)Dietary vitamin D content had significant influences on hepatosomatic index,liver lipid and vitamin D contents $( P { < } 0 . 0 5 )$ Liver vitamin D content showed an increased trend with increasing dietary vitamin D content, and
+
+it changed to be steady when dietary vitamin D content up to 1 534.1 IU/kg. Broken-line model analysis with the WGR as the appraising index shows that juvenile Japanese seabass require 431.0 IU/kg diet vitamin D for maximal growth. Base on the quadratic curve model analysis with the liver vitamin D content as the appraising index, juvenile Japanese seabass require 2 444.4 IU/kg diet vitamin D for maximal liver vitamin D deposition.   
+Key words: Japanese seabass（Lateolabrax japonicas） ； vitamin D; growth; requirement; of calcium and phosphorus metabolism

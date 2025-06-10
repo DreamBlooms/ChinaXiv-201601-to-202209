@@ -1,0 +1,221 @@
+# 近39a宁夏旅游气候适宜期及变化分析
+
+官景得1,²， 王咏青}，孙银川2,3， 王素艳2,3（1南京信息工程大学大气科学学院,江苏南京210044;2中国气象局旱区特色农业气象灾害监测预警与风险管理重点实验室,宁夏银川750002；3宁夏回族自治区气候中心,宁夏银川 750002)
+
+摘要：利用宁夏全域5个地市1980—2018年逐日白昼气温、相对湿度、风速、日照时数等气象资料,运用温湿指数、风寒指数、着衣指数和综合舒适指数模型，计算出旅游气候适宜期天数，并对其变化趋势及变化原因进行分析。综合舒适指数模型结果表明：石嘴山、银川、吴忠、中卫4市的旅游气候适宜期较为一致，为3月10日～11月7日，持续时长为 $2 4 3 \mathrm { ~ d ~ }$ 。固原的旅游气候适宜期为3月27 日\~10月29日，持续时长为217d;石嘴山、吴忠、中卫全年旅游适宜天数变化不显著，是由始期、终期适宜天数增加幅度与“凹”面期适宜天数的减少幅度相当所致。银川、固原全年旅游适宜天数显著增加，主要是始期、终期适宜天数增加幅度大于“凹”面期适宜天数的减少幅度所致;各地始期、终期适宜天数显著增加是由气温升高、相对湿度降低和其他要素的差异变化共同作用所致。“凹”面期适宜天数显著减少是由气温升高(高温日数增多）、相对湿度降低和其他要素的差异变化共同作用所致;各地始期、终期、“凹”面期,气温的显著变化对适宜天数显著变化的影响权重最大，达到 $5 0 \%$ 以上，相对湿度、风速、日照时数的影响权重各有差异。
+
+# 关键 词：旅游气候；适宜期；变化趋势；影响权重；宁夏
+
+# 文章编号：
+
+宁夏位于祖国西部，有着十分丰富的旅游资源。古老的黄河文明，神秘的西夏历史，雄浑的大漠风光，以“两山一河、两沙一陵、两堡一城”为代表的旅游景点，体现了深厚的文化底蕴，展示着独特的自然风光,构成了多姿多彩的旅游资源。据统计[],在全国10大类、95种基本类型旅游资源中，宁夏占8大类、46种,被称为“中国旅游微缩盆景”，“塞上江南·神奇宁夏”的旅游品牌日益叫响。2016年7月，习近平总书记视察宁夏时，作出了“宁夏发展全域旅游，路子是对的，要坚持走下去”的重要指示。2016年8月，国家旅游局批准宁夏创建国家全域旅游示范区，成为继海南省之后全国第二个全域旅游示范省份。宁夏回族自治区党委和政府相继出台了关于发展全域旅游多项政策性文件，提出了“全景、全业、全时、全民”的“四全”发展模式，加快推动全域旅游发展。《2018旅游经济运行盘点系列报告：
+
+旅游产业》指出，我国国民旅游需求正从美丽风景向美好生活转变，呈现观光旅游和休闲度假并重的局面，气象条件由“背景”变为旅游“要素”，旅游气候舒适度成为游客选择旅游目的地的重要指标。人体对气象环境的感知即气候舒适度[2]。自 20 世纪中叶开始，国外专家就旅游者与旅游活动相关气候因素进行模型构建并开展研究，先后建立了不舒适指数[3]、风寒指数[4]、温湿指数[5]、着衣指数[6]等模型，评价气候对人体舒适感觉的影响。国内学者对旅游与气候的相关研究始于20世纪80年代，有些专家对气候旅游舒适度相关指数进行研究，构建了综合舒适度指标[7]、气候宜人度评价[8]、气象舒适度指数[9]、旅游适宜度[10]、综合舒适指数[11-14]等计算模型。基于国内外专家学者在旅游气候舒适度评价模式的研究成果，有些专家采用不同指数对我国著名风景区[15-17]、热点旅游地区[18-20]、主要旅游城市[21-23]的旅游气候资源和旅游气候舒适度进行分析评价。
+
+对于宁夏旅游气候资源和旅游气候舒适度相关方面的研究较少，张玉兰等[24]用1970—2000 年气象资料对旅游气候资源及舒适度进行了分析评价。薛晨浩等[25]、孙银川等[26]、马强等[27]分别对银川市、六盘山地区、固原地区的旅游舒适度进行了分析评价。这些研究要么时间较为久远，要么区域较小，研究时间和研究区域不能满足当前宁夏建设全域旅游示范区的现实需求。因此，本文利用1980一2018年39a气象资料，研究宁夏代表地气候适宜期及变化，为宁夏全域旅游规划设计提供科学参考。
+
+# 1 资料和方法
+
+# 1.1 资料
+
+宁夏旅游资源从北到南分布特征鲜明，各有特色。最北部的石嘴山以5A级景区沙湖为中心开展湖泊湿地旅游为主，银川以影视城、西夏王陵等人文旅游为主，吴忠以黄河大峡谷旅游为主，中部的中卫以沙坡头的沙漠旅游为主，最南部的固原以六盘山红色旅游为主。因此，本文选择代表地石嘴山、银川、吴忠、中卫、固原5地对宁夏全域旅游气候适宜期及变化进行分析。
+
+研究所用气象资料采用上述5地1980—2018年逐日小时数据，包括气温、相对湿度、风速、日照时数等要素。在数据处理上借鉴冯新灵等[28]提出的关于恰当使用我国观测规范标准下的气象数据开展旅游气候舒适度评价的观点，将温湿度指数公式中的华氏温度换算为摄氏温度；将气象观测高度 $1 0 \mathrm { ~ m ~ }$ 的风速换算为旅游活动高度 $1 . 5 \mathrm { ~ m ~ }$ 的风速。另外，考虑到户外旅游活动绝大多数是在白天的事实，采用白昼气象数据进行分析，气温、相对湿度、风速为北京时间08时、14时、20时的平均数据，日照时数采用当日观测数据，更加符合旅游活动的客观实际，此为新探索。
+
+# 1.2 方法
+
+1.2.1温湿指数温湿指数是通过温度和湿度的组合反映人体与周围环境的热量交换，是人体对气候感受的第一指标。计算公式为： $T H I = T _ { d } - 0 . 5 5$ $\left( 1 - f \right) \cdot \left( T _ { d } - 5 8 \right) , T _ { d }$ 为华氏温度。将华氏温度换算为摄氏温度，公式为： $T _ { _ { d } } = 1 . 8 T + 3 2$ 。
+
+换算后计算公式：
+
+$T H I = \left( 1 . 8 T + 3 2 \right) - 0 . 5 5 \left( 1 - f \right) \times \left( 1 . 8 T - 2 6 \right)$ (1)式中：THI为温湿指数; $T$ 为气温 $( \operatorname { \mathcal { C } } ) { \ : } ; f$ 为相对湿度$( \% )$ 。
+
+1.2.2风寒指数风寒指数表征的是不同环境下风速与气温、阳光对裸露人体的影响，其物理意义是指皮肤温度为 $3 3 ~ \mathrm { { ^ { \circ } C } }$ 时，体表单位面积的散热量（kJ· $\mathbf { m } ^ { - 2 } \cdot \mathbf { d } ^ { - 1 }$ ),其计算公式如下：
+
+$$
+\begin{array} { l } { W C I = \mathrm { ~ - ~ } ( 1 0 \sqrt { V } + 1 0 . 4 5 - V ) \times ( 3 3 - T ) } \\ { \mathrm { ~ } + 8 . 5 5 \times S } \end{array}
+$$
+
+式中： $\boldsymbol { \mathcal { W } C I }$ 为风寒指数； $T$ 为气温 $( { \mathfrak { C } } ) _ { } \colon V$ 为风速( $\mathbf { m }$ $\mathbf { \nabla } \cdot \mathbf { s } ^ { - 1 }$ ）； $s$ 为日照时数 $\mathrm { ( h \cdot d ^ { - 1 } ) }$ ）。将观测资料中的风速换算为距地面 $1 . 5 \mathrm { ~ m ~ }$ 风速。计算式为： $V = V _ { 0 }$ $\bigg ( \frac { h } { h _ { 0 } } \bigg ) ^ { n }$ 。 $\boldsymbol { \mathbf { \mathit { V } } }$ 为 $1 . 5 \mathrm { ~ m ~ }$ 风速 $( \mathbf { m } \cdot \mathbf { s } ^ { - 1 }$ ） $V _ { 0 }$ 为地面观测$1 0 \mathrm { ~ m ~ }$ 风速 $( \mathbf { m } \cdot \mathbf { s } ^ { - 1 }$ ） $h$ 为 $1 . 5 ~ \mathrm { m } ; h _ { 0 }$ 为 $1 0 \ \mathrm { m } ; n$ 为风速高度变化幂指数,取0.14[29] ○
+
+1.2.3着衣指数着衣指数在考虑了人体通过穿衣来改变气候不舒适的情况，其计算公式如下：
+
+$$
+I C L = \frac { 3 3 - T } { 0 . 1 5 5 H } - \frac { H + a R \mathrm { c o s } \alpha } { ( 0 . 6 2 + 1 9 \sqrt { V } ) \times H }
+$$
+
+式中： $I C L$ 为着衣指数; $T$ 为气温 $( { \mathcal { C } } ) _ { \mathbf { \lambda } } { } _ { ; H }$ 为人体代谢率的 $7 5 \%$ ，取轻活动量下的代谢率 $H = 8 7$ W:$\mathrm { ~ m ~ } ^ { - 2 }$ $a$ 表示人体对太阳辐射的吸收情况,取 $0 . 0 6 { : } R$ 表示垂直于阳光的单位面积土地所接受的太阳辐射； $\alpha$ 是太阳高度角，假设纬度为 $\beta$ ,夏季各地太阳高度角为 $9 0 - \beta + 2 3 ^ { \circ } 2 6 ^ { \prime }$ ,冬季为 $9 0 - \beta - 2 3 ^ { \circ } 2 6 ^ { \prime }$ ，春秋季节太阳位于赤道附近,太阳高度角为 $9 0 - \beta ; V$ 为 $1 . 5 \mathrm { ~ m ~ }$ 风速 $( \mathbf { m } \cdot \mathbf { s } ^ { - 1 }$ ）。
+
+1.2.4旅游气候舒适期计算采用气象学5d滑动平均法，确定宁夏全域5地旅游气候适宜始日、终日分布特征并统计出多年平均适宜天数。连续5d的平均值达到适宜度指标，从达到适宜度指标的当日即为始日;连续5d的平均值达不到适宜度指标，从达不到适宜度指标的当日即为终日；始日和正日之间天数为适宜期。适宜期包括最适宜期。
+
+1.2.5影响权重影响权重是某一个构成要素变化时因变量的响应幅度与全部要素共同作用时因变量的响应幅度的百分比，表示该构成要素在全部构成要素中所占的份额。其计算公式如下：
+
+$$
+C = \frac { k _ { e _ { x } } } { k _ { e } } \times 1 0 0 \%
+$$
+
+# 表1温湿指数(THI)、风寒指数(WCI)、着衣指数( $\cdot \pmb { I C L } )$ 的分级标准
+
+Tab.1THI,WCI,ICL grade standard   
+
+<html><body><table><tr><td colspan="2">THI</td><td colspan="2">WCI</td><td colspan="2">ICL</td><td rowspan="2">分级</td><td rowspan="2">赋值</td></tr><tr><td>分级值</td><td>人体感觉</td><td>分级值</td><td>人体感觉</td><td>分级值</td><td>适宜衣着</td><td>N</td></tr><tr><td><40</td><td>极冷,极不舒适</td><td><-1000</td><td>很冷风</td><td>>2.5</td><td>羽绒或毛皮衣</td><td>极不适宜</td><td>1</td></tr><tr><td>40~45</td><td>寒冷,不舒适</td><td>-1000~ -800</td><td>冷风</td><td>1.8~2.5</td><td>便服加坚实外套</td><td>不适宜</td><td>3</td></tr><tr><td>45~55</td><td>偏冷，较不舒适</td><td>-800~ -600</td><td>稍冷风</td><td>1.5~1.8</td><td>冬季常用服装</td><td>较不适宜</td><td>5</td></tr><tr><td>55~60</td><td>清凉，舒适</td><td>-600~ -300</td><td>凉风</td><td>1.3~1.5</td><td>春秋常用便服</td><td>适宜</td><td>7</td></tr><tr><td>60~65</td><td>凉,非常舒适</td><td>-300~ -200</td><td>舒适风</td><td>0.7~1.3</td><td>衬衫和常用便服</td><td>最适宜</td><td>9</td></tr><tr><td>65~70</td><td>暖,舒适</td><td>-20~ -50</td><td>暖风</td><td>0.5~0.7</td><td>轻便的夏装</td><td>适宜</td><td>7</td></tr><tr><td>70~75</td><td>偏热,较不舒适</td><td>-50~80</td><td>皮感不明显风</td><td>0.3~0.5</td><td>短袖开领衫</td><td>较不适宜</td><td>5</td></tr><tr><td>75~80</td><td>闷热,不舒适</td><td>80~160</td><td>皮肤感热风</td><td>0.1~0.3</td><td>热带单衣</td><td>不适宜</td><td>3</td></tr><tr><td>≥80</td><td>极闷热,极不舒适</td><td>≥160</td><td>皮感不适风</td><td><0.1</td><td>超短裙</td><td>极不适宜</td><td>1</td></tr></table></body></html>
+
+式中： $x$ 代表不同的气象因子； $k _ { e }$ 为各个因子共同作用时因变量的响应幅度，
+
+1.2.6各指数的分级标准旅游气候舒适度各指数模型的分级标准是根据游客在户外活动及心理感受进行评判，本文分级采用国内通用的分级标准[30-31] （表1）。
+
+# 2 结果分析
+
+# 2.1 温湿指数计算结果
+
+从各地多年逐日平均温湿指数看，年变化呈倒“V”型变化。其中,石嘴山、银川、吴忠、中卫4 地的温湿指数较为接近（图1a），旅游气候最适宜期为4月27日 $\sim 5$ 月25日、9月5日\~9月25日，持续时长为 $5 0 ~ \mathrm { d }$ 。适宜期为4月13日\~6月26日、8月15日 $\sim 1 0$ 月10日，持续时长为132d;固原(图1b)的旅游气候最适宜期为5月27日\~6月25日、8月14日\~9月5日，持续时长为 $5 3 \mathrm { ~ d ~ }$ 。适宜期为4月27日～9月24日，持续时长为151d。各地其他时段为较不适宜期及以下等级。
+
+# 2.2风寒指数计算结果
+
+从各地多年逐日平均风寒指数看，年变化呈倒“V”型变化。其中,石嘴山、银川、吴忠、中卫4 地的风寒指数较为接近（图1c），最适宜期为4月30日\~5月24日9月4日 $\sim 1 0$ 月3日，持续时长为$5 5 \mathrm { ~ d ~ }$ 。适宜期为3月8日～11月24日，持续时长为262d;固原(图1d)的旅游气候最适宜期为5月30日\~7月14日、8月5日\~9月1日，持续时长为 $7 8 \mathrm { ~ d ~ }$ 。适宜期为3月25日\~11月6日，持续时长为 $2 2 7 \mathrm { ~ d ~ }$ 。各地其他时段为较不适宜期及以下等级。
+
+# 2.3着衣指数计算结果
+
+从各地多年逐日平均着衣指数看，年变化呈正“V"型变化。石嘴山、银川、吴忠、中卫4 地的风寒指数较为接近（图1e），最适宜期为4月20日 $\sim 6$ 月9日、8月22日 $\sim 1 0$ 月2日，持续时长为 $9 4 \mathrm { ~ d ~ }$ 。适宜期为4月18日 $\sim 6$ 月29日、8月8日 $\sim 1 0$ 月9日，持续时长为136d;固原(图1f的旅游气候最适宜期为5月16日 $\sim 9$ 月16日，持续时长为 $1 2 4 \mathrm { ~ d ~ } _ { \circ }$ 适宜期为4月26日\~9月30日，持续时长为 $1 5 8 { \mathrm { ~ d ~ } }$ 。各地其他时段为较不适宜期及以下等级。
+
+# 2.4 综合舒适指数
+
+由以上分析可见，温湿指数、风寒指数、着衣指数计算结果在适宜期时间分布上有较大差异。从各指数机理上来看，温湿度指数以气温、相对湿度为变量，风寒指数以气温、风速、日照时数为变量，着衣指数以气温、风速、太阳辐射和纬度要素为变量，3种指数中气象要素各有不同，造成了计算结果有所差异。冯新灵等[15]根据我国人体舒适感觉,开展了人体舒适度对比观察与实验，表明了空气温度、湿度、风速和太阳辐射等气象因子是决定人体舒适感觉的气候因子。综合舒适指数[1考虑了温湿指数、风寒指数、着衣指数的模型机理，指数计算中包含了影响旅游气候舒适度的4大决定性气象要素。因此，本文采用该指数进一步深入分析宁夏各地旅游适宜期变化特征，计算方法如下：
+
+$$
+C C I = 0 . \ 6 X _ { \scriptscriptstyle T H I } + 0 . \ 3 X _ { \scriptscriptstyle W C I } + 0 . \ 1 X _ { \scriptscriptstyle I C L }
+$$
+
+式中： $C C I$ 为综合舒适指数， $X _ { \mathit { T H I } } \setminus X _ { \mathit { W C I } } \setminus X _ { \mathit { I C L } }$ 为温湿指 数、风寒指数和着衣指数等级赋值。若 $\scriptstyle { 7 \leqslant C C I }$ 为最 适宜， $. 5 \leqslant C C I < 7$ 为适宜， $3 \leqslant C C I < 5$ 为较不适宜,
+
+$C C I < 3$ 为不适宜。
+
+2.4.1综合舒适指数计算结果从各地多年逐日平均综合舒适指数看，年变化呈正“M”型变化，适宜期计算结果为表2。其中，石嘴山、银川、吴忠、中卫4地的综合舒适指数较为接近（图2a），旅游气候最适宜期为4月14日\~6月22日、8月15日\~10月
+
+10日，持续时长为 $1 2 7 \mathrm { ~ d ~ }$ 。适宜期为3月10日 $\sim 1 1$ 月7日，持续时长为 $2 4 3 \mathrm { ~ d ~ }$ 。固原(图2b)的旅游气候适最宜期为4月27日～9月24日，累计时长为151d。适宜期为3月27日 $\sim 1 0$ 月29日，持续时长为217d。各地其他时段为较不适宜期和不适宜期。
+
+![](images/599088f5428915ff365c832707bda5740f550aa8146beae0353d2d67595a57e8.jpg)  
+图1温湿指数(THI)、风寒指数(WCI）、着衣指数(ICL)计算结果
+
+![](images/f4fa636f4d64be0416554ff87eb2f422ef87b132aac04f3c2c52b4efde8ed172.jpg)  
+Fig.1Calculation results of THI,WCI and ICL   
+图2综合舒适指数计算结果Fig.2Calculation results of CCI
+
+Tab.2Time distribution of the most suitable period,suitable period,less suitable period and unsuitableperiodof tourismclimate   
+
+<html><body><table><tr><td rowspan="3">地区</td><td colspan="3">最宜期</td><td colspan="3">适宜期</td><td colspan="3">较不适宜期</td><td colspan="3">不适宜期</td></tr><tr><td>始日 /月-日</td><td>终日 ／月-日</td><td>天数 /d</td><td>始日 ／月-日</td><td>终日 /月-日</td><td>天数 /d</td><td>始日</td><td>终日 /月-日／月-日</td><td>天数 /d</td><td>始日 /月-日／月-日</td><td>终日</td><td>天数 /d</td></tr><tr><td>石嘴山</td><td>04-13 08-18</td><td>06-20 10-10</td><td>123</td><td>03-10 06-21 10-11</td><td>04-12 08-17 11-06</td><td>119</td><td>02-21 11-07</td><td>03-09 11 -24</td><td>36</td><td>11-25</td><td>02-20</td><td>88</td></tr><tr><td>银川</td><td>04-14 08-14</td><td>06-21 10-10</td><td>127</td><td>03-10 06-22 10-11</td><td>04-13 08-13 11-06</td><td>115</td><td>02-22 11-07</td><td>03-09 11 -22</td><td>33</td><td>11-23</td><td>02-21</td><td>91</td></tr><tr><td>吴忠</td><td>04-13 08-14</td><td>06-20 10-10</td><td>127</td><td>03-10 06-21 10 -11</td><td>04 -12 08-13 11-09</td><td>118</td><td>02-20 11-10</td><td>03-09 11 -25</td><td>35</td><td>11-26</td><td>02-19</td><td>86</td></tr><tr><td>中卫</td><td>04-14 08-13</td><td>06-25 10-09</td><td>131</td><td>03-10 06-26 10-10</td><td>04-13 08-12 11-06</td><td>110</td><td>02-21 11 -07</td><td>03-09 11 -22</td><td>34</td><td>11-23</td><td>02-20</td><td>91</td></tr><tr><td>固原</td><td>04-27</td><td>09-24</td><td>151</td><td>03-27 09-25</td><td>04-26 10-29</td><td>66</td><td>03-09 10-30</td><td>03-26 11 -14</td><td>34</td><td>11 -15</td><td>03-08</td><td>115</td></tr></table></body></html>
+
+2.4.2全年适宜天数变化的原因分析根据图2可以看出，综合舒适指数变化按时间顺序依次为不适宜一较不适宜一适宜一最适宜一适宜一最适宜一适宜一较不适宜一不适宜。全年适宜天数的变化主要与始日、终日、“凹”面区3个关键期的变化有关，为此需要对始日、终日、“凹”面区的适宜天数变化趋势进行分析。以各地始日所在的春季月份作为适宜期始期，以终日所在的秋季月份作为适宜期终期，“凹”面区分布在夏季6～8月，以此作为“凹”面期。固原的“凹”面区仍处于最适宜期，故暂不做分析。
+
+从各阶段适宜天数变化趋势结果(表3)可以看出，石嘴山、吴忠、中卫全年适宜天数变化趋势不显著，未通过检验。其原因主要是各关键期的适宜天数变化不显著，或者是始期、终期适宜天数增加幅度与“凹”面期适宜天数的减少幅度相当所致。银川(图3a)全年适宜天数以 $2 . 5 4 \mathrm { ~ d ~ } \cdot \mathrm { ~ ( ~ } 1 0 \mathrm { ~ a ~ ) ~ } ^ { - 1 }$ 的趋势显著增加。始期、终期(图3b)适宜天数分别以3.62$\mathrm { ~ d ~ } \cdot \mathrm { ~ ( ~ 1 0 ~ a ~ ) ~ } ^ { - 1 } \cdot 1 . 4 2 \mathrm { ~ d ~ } \cdot \mathrm { ~ ( ~ 1 0 ~ a ~ ) ~ } ^ { - 1 }$ 的趋势显著增加。“凹”面期(图3c)适宜天数以 $3 . 3 5 \mathrm { ~ d ~ } \cdot \mathrm { ~ ( ~ } 1 0 \mathrm { ~ a ~ ) ~ } ^ { - 1 }$ 的趋势显著减少。始期、终期的增加幅度大于“凹”面期的减少幅度，致使全年适宜天数增加趋势显著;固原全年适宜天数以 $9 . 3 9 \mathrm { ~ d ~ } \cdot \mathrm { ~ ( ~ } 1 0 \mathrm { ~ a ~ ) ~ } ^ { - 1 }$ 的趋势显著增加。始期、终期适宜天数分别以 $3 . 5 7 \mathrm { ~ d ~ } \cdot \mathrm { ~ ( ~ } 1 0 \mathrm { ~ a ~ ) ~ } ^ { - 1 } .$ $2 . 0 5 \mathrm { ~ d ~ } \cdot \mathrm { ~ ( ~ } 1 0 \mathrm { ~ a ~ ) ~ } ^ { - 1 }$ 的趋势显著增加，增加幅度较大，致使全年适宜天数的显著增加。
+
+2.4.3关键期适宜天数显著变化的原因分析全年适宜天数发生变化是由始期、终期、“凹”面期适宜天数的显著变化所致，各关键期适宜天数显著变化与气象要素的变化有直接关系，为此需要对各关键期内出现适宜天数显著变化的月份其气象要素变化特征进行分析。从表4可以看出，各地始期、终期适宜天数显著增加由气温升高、相对湿度降低和其他要素的差异变化共同作用所致。“凹”面期适宜天数显著减少由气温升高（高温日数显著增多）、相对湿度降低和其他要素的差异变化共同作用所致。银川3月、11月气温显著升高、相对湿度显著降低和风速、日照时数不显著变化共同作用致使始期、终期适宜天数增加。6\~8月气温显著升高（高温日数显著增多）、相对湿度显著降低和风速、日照时数不显著变化共同作用致使“凹”面期适宜天数减少。固原3月、10月气温显著升高、风速显著降低和相对湿度、日照时数不显著变化共同作用致使始期、终期适宜天数增加。
+
+表2旅游气候最适宜期、适宜期、较不适宜期、不适宜期时间分布  
+表3全年、始期、终期、“凹"面期的适宜天数变化趋势  
+Tab.3Change trend of suitable days in the whole year，beginning，end and low period   
+
+<html><body><table><tr><td rowspan="2">地区</td><td colspan="7">变化趋势／d·（10a）-1</td></tr><tr><td>全年</td><td>3月</td><td>6月</td><td>7月</td><td>8月</td><td>10月</td><td>11月</td></tr><tr><td>石嘴山</td><td>-1.51</td><td>1.32</td><td>-1.10 **</td><td>-1.13</td><td>-0.65</td><td>+</td><td>0.00</td></tr><tr><td>银川</td><td>2.54 *</td><td>3.62 **</td><td>-0.68 **</td><td>-1.58 **</td><td>-1.09 **</td><td>+</td><td>1.42 **</td></tr><tr><td>吴忠</td><td>0.94</td><td>3.06 **</td><td>-1.07 **</td><td>-2.61**</td><td>-1.42 **</td><td>+</td><td>1.94 **</td></tr><tr><td>中卫</td><td>1.12</td><td>2.24**</td><td>-0.08</td><td>-1.58 **</td><td>-0.86 **</td><td>+</td><td>0.99</td></tr><tr><td>固原</td><td>9.39 **</td><td>3.57 **</td><td>+</td><td>+</td><td>+</td><td>2.05 **</td><td>+</td></tr></table></body></html>
+
+注： $*$ 为通过 $\alpha = 0 . 0 5$ 的显著性检验; $* *$ 为通过 $\alpha = 0 . 0 1$ 的显著性检验; $^ +$ 表示非适宜天数变化关键期
+
+![](images/179c389a99836db8714765ff28cb57a864cf759feaf8f2eb06eb2139fa79a379.jpg)
+
+2.4.4气象要素对关键期适宜天数显著变化的影响权重各关键期旅游气候适宜天数发生显著变化是由各气象要素的显著变化和不显著变化共同作用所致，因此需要进一步分析关键期适宜天数显著变化时各气象要素的影响权重。从表5可以看出，各地在始期、终期、“凹"面期，气温的显著变化对适宜天数显著变化的影响权重最大,达到 $5 0 \%$ 以上，相对湿度、风速、日照时数的影响权重各有差异。银川始期气温、相对湿度、风速、日照时数的影响权重分别为 $9 4 . 6 9 \% . 4 . 1 3 \% . 0 . 2 8 \% . 0 . 9 0 \%$ ，终期为$5 4 . 5 1 \% . 3 . 9 3 \% . 2 . 5 7 \% . 3 8 . 9 9 \%$ ，“凹”面期平均为 $7 9 . 2 2 \% . 4 . 5 1 \% . 0 . 8 6 \% . 1 5 . 4 1 \%$ 。固原始期气温、相对湿度、风速、日照时数的影响权重分别为$3 4 . 7 9 \% . 2 . 8 7 \% . 3 . 6 3 \% . 8 . 7 1 \%$ ,终期为 $8 9 . 3 4 \%$ 、$1 . 5 5 \% . 7 . 8 2 \% . 1 . 2 9 \%$ 。
+
+Tab.4Change trend of meteorological factors for the change of suitable days in critical period   
+
+<html><body><table><tr><td rowspan="2">地区</td><td rowspan="2">气象要素</td><td colspan="6">变化趋势</td></tr><tr><td>3月</td><td>6月</td><td>7月</td><td>8月</td><td>10月</td><td>11月</td></tr><tr><td>石嘴山</td><td>气温／℃·（10a）-1</td><td>1</td><td>0.35**</td><td>1</td><td>1</td><td>+</td><td>1</td></tr><tr><td rowspan="6"></td><td>高温日数/d·（10a)-1</td><td></td><td>2.61**</td><td></td><td></td><td></td><td></td></tr><tr><td>相对湿度／%·（10a）-1</td><td>1</td><td>-0.01</td><td>1</td><td>1</td><td>+</td><td>1</td></tr><tr><td>风速／m·s-1·(10a)-1</td><td>1</td><td>-0.07 **</td><td>1</td><td>1</td><td>+</td><td>1</td></tr><tr><td>日照时数／h·（10a）-1</td><td>1</td><td>-0.05</td><td>1</td><td>1</td><td>+</td><td>1</td></tr><tr><td>气温／℃·（10a）-1</td><td>1.16 **</td><td>0.70 **</td><td>0.56 **</td><td>0.56 **</td><td>+</td><td>0.45 *</td></tr><tr><td>高温日数／d·（10a）-1</td><td></td><td>1.67 **</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="6">吴忠</td><td>相对湿度／%·（10a）-1</td><td>-0.05 **</td><td>-0.04 **</td><td>-0.03 **</td><td>-0.03 **</td><td>+</td><td>-0.03 **</td></tr><tr><td>风速/m·s-1·(10a)-1</td><td>0.00</td><td>-0.01</td><td>0.00</td><td>0.01</td><td>+</td><td>0.02</td></tr><tr><td>日照时数／h·（10a）-1</td><td>0.01</td><td>0.09</td><td>-0.06</td><td>-0.22 *</td><td>+</td><td>-0.32</td></tr><tr><td>气温／℃·（10a）-1</td><td>1.20 **</td><td>0.97 **</td><td>0.78 **</td><td>0.74**</td><td>+</td><td>0.59 **</td></tr><tr><td>高温日数／d·（10 a)-1</td><td></td><td>3.25**</td><td></td><td></td><td></td><td></td></tr><tr><td>相对湿度／%·（10a）-1</td><td>-0.05**</td><td>-0.06 **</td><td>-0.04**</td><td>-0.04 **</td><td>+</td><td>-0.03 **</td></tr><tr><td rowspan="5">中卫</td><td>风速／m·s-1·(10a)-1</td><td>-0.03</td><td>0.06 *</td><td>0.07 **</td><td>0.06 *</td><td>+</td><td>-0.01</td></tr><tr><td>日照时数／h·（10a）-1</td><td>0.15</td><td>0.12</td><td>-0.03</td><td>-0.27*</td><td>+</td><td>-0.14</td></tr><tr><td>气温／℃·（10a）-1</td><td>0.93 **</td><td>1</td><td>0.53 **</td><td>0.51**</td><td>+</td><td></td></tr><tr><td>高温日数／d·（10a）-1</td><td></td><td>0.82 **</td><td></td><td></td><td></td><td></td></tr><tr><td>相对湿度／%·（10a）-1</td><td>-0.02 *</td><td>1</td><td>-0.02 *</td><td>-0.01*</td><td>+</td><td>1</td></tr><tr><td rowspan="6">固原</td><td>风速/m·s-1·(10a)-1</td><td>0.07**</td><td>1</td><td>0.12 **</td><td>0.12 **</td><td>+</td><td>1</td></tr><tr><td>日照时数／h·（10a）-1</td><td>0.20</td><td>1</td><td>0.16</td><td>-0.05</td><td>+</td><td>1</td></tr><tr><td>气温／℃·（10a）-1</td><td>1.16 **</td><td>+</td><td>+</td><td>+</td><td>0.58**</td><td>+</td></tr><tr><td>相对湿度／%·（10a）-1</td><td>-0.04*</td><td>+</td><td>+</td><td>+</td><td>-0.01</td><td>+</td></tr><tr><td>风速／m·s-1·（10 a)-1</td><td>-0.05 **</td><td>+</td><td>+</td><td>+</td><td>-0.05 **</td><td>+</td></tr><tr><td>日照时数／h·（10a）-1</td><td>0.12</td><td>+</td><td>+</td><td>+</td><td>0.01</td><td>+</td></tr></table></body></html>
+
+注： $^ *$ 为通过 $\alpha = 0 . 0 5$ 的显著性检验; $^ { * * }$ 为通过 $\alpha = 0 . 0 1$ 的显著性检验； $^ +$ 表示非适宜天数变化关键期；-表示各气象要素变化未导致关键期适宜天数显著变化
+
+表4关键期适宜天数显著变化时其气象要素变化趋势  
+表5气象要素对关键期适宜天数显著变化的影响权重  
+Tab.5Influence weight of meteorological factors on significant changes of suitable days in key period   
+
+<html><body><table><tr><td rowspan="2">地区</td><td rowspan="2">气象要素</td><td colspan="6">气象要素变化趋势对旅游气候适宜天数变化趋势的贡献度／%</td></tr><tr><td>3月</td><td>6月</td><td>7月</td><td>8月</td><td>10月</td><td>11月</td></tr><tr><td>石嘴山</td><td>气温</td><td>一</td><td>73.59</td><td>1</td><td>1</td><td>+</td><td>1</td></tr><tr><td rowspan="6">银川</td><td>相对湿度</td><td>1</td><td>1.23</td><td>1</td><td>1</td><td>+</td><td>1</td></tr><tr><td>风速</td><td>1</td><td>15.04</td><td>1</td><td>1</td><td>+</td><td>1</td></tr><tr><td>日照时数</td><td>1</td><td>10.14</td><td>1</td><td>1</td><td>+</td><td>1</td></tr><tr><td>气温</td><td>94.69</td><td>83.10</td><td>86.76</td><td>67.79</td><td>+</td><td>54.51</td></tr><tr><td>相对湿度</td><td>4.13</td><td>5.08</td><td>4.37</td><td>4.09</td><td>+</td><td>3.93</td></tr><tr><td>风速</td><td>0.28</td><td>1.53</td><td>0.14</td><td>0.90</td><td>+</td><td>2.57</td></tr><tr><td rowspan="4">吴忠</td><td>日照时数</td><td>0.90</td><td>10.29</td><td>8.73</td><td>27.22</td><td>+</td><td>38.99</td></tr><tr><td>气温</td><td>83.86</td><td>80.41</td><td>84.78</td><td>66.69</td><td>+</td><td>76.53</td></tr><tr><td>相对湿度</td><td>3.18</td><td>4.94</td><td>4.42</td><td>3.74</td><td>+</td><td>3.65</td></tr><tr><td>风速</td><td>2.18</td><td>4.67</td><td>7.09</td><td>5.24</td><td>+</td><td>1.71</td></tr><tr><td rowspan="4">中卫</td><td>日照时数</td><td>10.78</td><td>9.98</td><td>3.71</td><td>24.33</td><td>+</td><td>18.11</td></tr><tr><td>气温</td><td>76.04</td><td>1</td><td>63.36</td><td>73.39</td><td>+</td><td>1</td></tr><tr><td>相对湿度</td><td>1.99</td><td>1</td><td>1.94</td><td>2.07</td><td>+</td><td></td></tr><tr><td>风速</td><td>5.49</td><td>1</td><td>14.89</td><td>17.25</td><td>+</td><td>1</td></tr><tr><td rowspan="5">固原</td><td>日照时数</td><td>16.48</td><td>1</td><td>19.81</td><td>7.29</td><td>+</td><td>一</td></tr><tr><td>气温</td><td>84.79</td><td>+</td><td>+</td><td>+</td><td>89.34</td><td>+</td></tr><tr><td>相对湿度</td><td>2.87</td><td>+</td><td>+</td><td>+</td><td>1.55</td><td>+</td></tr><tr><td>风速</td><td>3.63</td><td>+</td><td>+</td><td>+</td><td>7.82</td><td>+</td></tr><tr><td>日照时数</td><td>8.71</td><td>+</td><td>+</td><td>+</td><td>1.29</td><td>+</td></tr></table></body></html>
+
+注： $^ +$ 表示非适宜天数变化关键期；-表示各气象要素变化未导致关键期适宜天数显著变化
+
+# 3结论
+
+（1）石嘴山、银川、吴忠、中卫同位于宁夏中北部的卫宁平原和银川平原，地理分布相对集中，气候特征相近，其旅游气候适宜期为3月10日 $\sim 1 1$ 月7日，持续时长为 $2 4 3 \mathrm { ~ d ~ }$ 。固原位于宁夏南部山区，气候特征与其他4地存在着明显的差异性，其旅游气候适宜期为3月27日～10月29日，持续时长为$2 1 7 \mathrm { ~ d ~ }$ Ω
+
+(2）石嘴山、吴忠、中卫全年旅游适宜天数变化不显著，是由始期、终期适宜天数增加幅度与“凹”面期适宜天数的减少幅度相当所致。银川、固原全年旅游适宜天数显著增加，主要是始期、终期适宜天数增加幅度大于“凹”面期适宜天数的减少幅度所致。
+
+(3）各地始期、终期适宜天数显著增加由气温升高、相对湿度降低和其他要素的差异变化共同作用所致。“凹”面期适宜天数显著减少由气温升高（高温日数显著增多）、相对湿度降低和其他要素的差异变化共同作用所致。
+
+（4）各地始期、终期、“凹”面期，气温的显著变化对适宜天数显著变化的影响权重最大，达到 $5 0 \%$ 以上,相对湿度、风速、日照时数的影响权重各有差异。
+
+# 4讨论
+
+（1）风寒指数计算出的旅游气候适宜期天数明显偏多，其原因是否与采用白昼气象要素，特别白昼气温高于日平均气温有关尚需要进一步探讨。
+
+（2）对于暴雨、沙尘暴等灾害性天气的不利因素和雾淞、雪景等气象景观的有利因素没有统筹考虑，有待下一步研究补充。
+
+致谢：在论文撰写、数据分析的过程中，姚宗国、岳勇、孙健、朱晓炜、申欣等专家给予了热心帮助和大力支持，在此深表感谢。
+
+# 参考文献（References）
+
+[1］陶伟.旅游资源类型体系分类评价研究——以宁夏回族自治区为例[J].干旱区地理,2001,24(2)：141-145.[TAOWei.
+
+Study on Ningxia Huizu municipality tourist resource classification and evaluation[J].Arid Land Grography,2001,24（2）:141- 145.]
+
+[2］杨俊,张永恒,席建超.中国避暑旅游基地适宜性综合评价研 究[J].资源科学,2016,38（12）:2210- 2220.[YANG Jun, ZHANG Yongheng,XI Jianchao.The comprehensive evaluation of suitability of summer tourism base in China[J]. Resources Science,2016,38(12）:2210 -2220.]   
+[3]THOM E C.A new concept of cooling degree days[J].Air Condition:Heat & Ventilation,1957,54:73-80.   
+[4]TERJUNG W H.Physiologic climates of the conterminous United States：A bioclimatic classification based on man[J].Annals of the Association of American Geographers,1966,56(1）:141-179.   
+[5]OLIVER JE. Climate and man’s environment: An introduction to applied climatology[M].New York:John Wileyand Sons.Inc, 1973:195 - 206.   
+[6]DE FREITAS C R,Human climates of northern China[J]. Atmospheric Environment（1967）,1979,13（1）:71-77.   
+[7］陆鼎煌,吴章文,张巧琴,等,张家界国家森林公园效益的研究 [J].中南林学院学报,1985,5（2）:160-170.[LU Dinghuang, WU Zhangwen,ZHANG Qiaoqin,et al. Study on the benefit of Zhangjiajie National Forest Park[J].Journal of Central South Forestry University,1985,5（2）:160-170.]   
+[8］钱妙芬,叶梅.旅游气候宜人度评价方法研究[J].成都气象学 院学报,1996,38（2）:128-134.[QIAN Miaofeng,YE Mei.A method in evaluaing the pleasantness of weather for rest[J]. Journal of Chengdu Institute of Meteorology,1996,38（2）:128- 134.]   
+[9］王远飞,沈愈.上海市夏季温湿效应与人体舒适度[J].华东师 范大学学报（自然科学版）,1998,（2）:60-66.［WANG Yuanfei,SHEN Yu.The temperature-humidity effect and human comfort in Shanghaisummer[J].Journal of East China Normal University （Natural Science）,1998,（2）:60-66.]   
+[10］周永明,王锡良,卿光勇.大九寨风景区旅游适宜度分析与预 报[J].四川气象,2007,（2）:18-19.[ZH0U Yongming, WANG Xiliang,QING Guangyong. Analysis and forecastof tourism suitability in Jiuzhai Scenic Area[J]. Journal of Sichuan Meteorology,2007,(2) :18-19.]   
+[11］马丽君,孙根年.中国西部热点城市旅游气候舒适度[J].干旱 区地理,2009,32（5）:791-797.[MA Lijun,SUN Gennian.Evaluation of climate comfort index for tourism hot-spot cities in west China[J].Arid Land Geography,2009,32(5）:791-797.]   
+[12］张秀美,杨前进,何志明,等.山东省旅游气候舒适度分析与区 划[J].测绘科学,2014,39（8）:140－147.[ZHANG Xiumei, YANG Qianjin,HE Zhiming,et al.Analysis and division of tourism climate comfort level in Shandong[J].Science of Surveying and Mapping,2014,39(8）:140-147.]   
+[13］吴磊,何秉宇.干旱区旅游气候资源舒适度分析与评价——以 吐鲁番地区为例[J].安徽农业科学,2015,43（1）：110-113. [WU Lei,HE Bingyu.Evaluation of tourism climate comfort degree
+
+in Turpan[J].Journal of Anhui Agriculrural Sciences,2O15,43 (1):110-113.]
+
+[14］刘海洋，吴月，王乃昂，等.中国沙漠旅游气候舒适度评价[J]. 资源科学,2013,35（4）:831-838.［LIUHaiyang，WU Yue, WANG Nai'ang,et al.Analysis of climate comfort conditions in the desert tourism zone in China[J].Resources Science,2O13,35 (4):831-838.]
+
+[15］冯新灵，罗隆诚，张群芳，等.中国西部著名风景名胜区旅游舒适气候研究与评价[J].干旱区地理，2006，29（4）：598-608.[FENG Xinling,LUO Longcheng，ZHANG Qunfang，et al.Re-search and appraisement on comfortable traveling climate of famoussceneries in west of China[J].Arid Land Geography,2O06,29(4):598-608.]
+
+[16］张莹,马敏劲，王式功,等.中国大陆九大名山风景区旅游气候 舒适度评价［J].气象，2019，39（9）：1221-1226.［ZHANG Yin,MA Minjin,WANG Shigong，et al.Evaluation on tourism climate comfort in nine famous mountain scenic spots in Chinese mainland[J].Meteorological Monthly,2019,39（9）:1221-1226.] [17］黄水林,杨晓兰,汪晓滨,等.庐山冬季雪景旅游气象景观预报 [J].气象,2007,33（11）:34-40.[HUANGShuilin,YANGXiaolan,WANGXiaobin,et al.The forecast of the snow scenery for tour weather service at Lushan Mountain［J].Meteorological Monthly,2007,33（11）:34-40.]
+
+[18］朱宝文，哈承智，时盛博，等.青海海北地区旅游气候舒适度与 客流量关系[J].气象与环境科学，2014，37（1）：83-87.[ZHU Baowen,HA Chengzhi,SHIShengbo,etal.Relationship between tourism climate comfort and passenger traffic in Qinghai Haibei area[J].Meteorological and Environmental Sciences,2O14,37（1）: 83 -87.]
+
+[19］李秀存，雷雪梅.北海旅游活动的适宜气候指标分析[J].广西科学院学报，1998，14（4）:49-51.［LIXiucun，LEIXuemei.A-nalysis of the favourable climate index for tourism activities inBeihai[J].Journal of Guangxi Academy of Sciences,1998,14(4):49 -51.]
+
+[20］李秋，仲桂清.环渤海地区旅游气候资源评价[J].干旱区资源 与环境,2005,19（2）:149-153.［LIQiu,ZHONG Guiqing.Evaluation on climate resource for tourism in the region around Bohai[J]. Journal of Arid Land Resources and Environment,2005, 19(2) :149-153.]
+
+[21］马丽君，孙根年，谢越法，等.50a来东部典型城市旅游气候舒 适度变化分析[J].资源科学，2010,32（10)：1963-1970.[MA Lijun,SUNGennian,XIE Yuefa,et al.A study on variations of the tourism climate comfort degree in five typical cities in eastern China during the last 5O years[J].Resources Science,2O1O,32（10）: 1963 -1970.]
+
+[22」向柳，张玉虎，陈秋华.北京城区旅游气候变化及风险分析 [J].干旱区地理,2016,39（3）:654－661.［XIANGLiu， ZHANGYuhu,CHENQiuhua.Assessment of tourism climate and itsrisk for urban area of Beijing[J].Arid Land Geography,2016, 39(3) :654 -661.]
+
+[23］孔钦钦，葛全胜，席建超，等.中国重点旅游城市气候舒适度及其变化趋势[J].地理研究，2015，34（12）：2238-2246.[KONGQinqin,GEQuansheng,XIJianchao,etal.Thermal comfort and itstrendinkey tourism cities of China[J].Geographical Reaearch,2015,34(12):2238-2246.]
+
+[24］张玉兰，高红贤,马慧萍.宁夏旅游气候资源及舒适度评价[J].陕西气象，2007，（5）：36-38.［ZHANGYulan，GAOHongxian,MA Huiping.Tourism climate resources and comfort e-valuation of Ningxia[J].Journal of Shaanxi Meteorology,2007,(5):36-38.]
+
+[25］薛晨浩，李陇堂，任婕，等.银川市打造"运动休闲之都”的气候适宜性评价[J].宁夏工程技术，2013，12（3）：273-276.［XUEChenhao,LILongtang,RENJie,etal.Climate suitability evaluationfor"sports and leisure capital"in Yinchuan[J].Ningxia Engineer-ing Technology,2013,12(3):273-276.]
+
+[26］孙银川，王素艳，李浩，等.宁夏六盘山区夏季避暑旅游气候舒适度分析[J].干旱气象,2018,36(6)：1035-1042.［SUN Yin-chuan,WANGSuyan，LIHao,etal.Effectanalysisofclimatechange on summer tourism climate comfortableness in LiupanMountainareas of Ningxia[J].Journal of Arid Meteorology,2018,36(6):1035 -1042.]
+
+[27］马强，何云，杨建明，等.固原地区旅游气候舒适度分析[J].陕西气象,2018，（4）：35-38.[MAQiang，HEYun，YANGJian-ming,et al.Analysis of tourist climate comfort in Guyuan area[J].Journal of Shaanxi Meteorology,2018,（4）:35-38.]
+
+[28］冯新灵，陈朝镇，罗隆诚，等.综述计算我国旅游舒适气候的特 吉旺法［J].生态经济,2006,（8）：67-69.［FENG Xinling, CHEN Chaozhen,LUO Longcheng,et al.Terjung method on count of the comfortable climate for tourismin China[J].Cological Economy,2006，(8):67-69.]
+
+[29］徐艳艳，万小平，付长超，等.复杂地形条件下风速插值研究——以吉林省为例[J].云南地理环境研究,2012,24（4）：78-81.[XU Yanyan,WAN Xiaoping,FU Changchao,et al.Sdudyof wind speed interpolation in complex terrain：A case of JilinProvince[J].Yunan Geographic Environment Research,2012,24(4):78 -81.]
+
+[30］罗生洲,巨克英,罗延年,等,1954—2011年西宁旅游气候舒适期时间变化分析[J].冰川冻土，2013，35（5）：1193－1201.[LUO Shengzhou,JU Keying,LUO Yannian,et al.Analysis of thetemporal variation in climatic comfortable period for tourism inXining,1954-2011[J].Journal of Glaciology and Geocryology,2013,35(5):1193-1201.]
+
+[31］李东,杨兆萍，时卉,等.乌鲁木齐市旅游气候与旅游气候舒适度分析[J].干旱区研究,2014，33（3）：404-409.[LIDong，YANGZhaoping,SHI Hui,et al.Tourism climate and its comfort degree inUrumqi[J].Arid ZoneResearch,2014,33（3）:404-409.]
+
+# Suitable period and change of tourism climate in Ningxia in the past 39 years
+
+GUAN Jing-de1.2， WANG Yong-qing1， SUN Yin-chuan23， WANG Su-yan2.3 (1CollegeofAtmospheric Sciences,anjing Universityof Iformation Scienceand Technology,Nanjing1044,Jingsu,China;   
+2KeyLaboratoryforMeteorologicalDisasterMonitoringandEarlyWarningandRisk ManagementofCharacteristicAgriculture in Arid Regions,Yinchuan 750oo2,Ningxia,China;   
+3Ningxia Hui Autonomous Region Climate Center,Yinchuan 75o02,Ningxia,China)
+
+Abstract：Ningxia Province,Chinais rich in tourism resources and israted asone of the46 best tourismdestinations in the world bythe New York Times.Suitable tourism climate isan important factor for tourists to choose tourism destinations.Studyof thesuitable tourism period and thechanges in the Ningxia tourism climate is of great practical significance to provide a scientific reference for the planning and design of Ningxia tourism.Based on the fact that mosttourism activities take place mainlyinthedaytime,thesuitable periodfor tourism climate is calculated on the basisof thedailytemperature,relative humidity,wind speed,sunshine hours,andother meteorologicaldataof five cities in Ningxia from 198O to 2018 by using the $T H I , W C I , I C L$ ,and CCI models.Further,the change trend of suitable period for tourism is analyzed.The results of the CCI model showed that the suitable period for tourism climatein Shizushan,Yinchuan,Wuzhong,and Zhongwei is thesame,namely from March10 to November,lasting for 243 days.The tourism climateof Guyuan is suitable from March 27 to October 29,with a duration of217 days.In Shizuishan,Wuzhong,and Zhongwei,thechanges in the number ofsuitable days for tourism over theentire year are not significant.This is because of the increase in the number of suitabledaysat thebegining and end periods and the decrease in the number of suitable days in the low period.The number of suitable days for Yinchuan and Guyuan increased significantly overthe entire year,mainly because of the greater increase in the number of suitable daysat the beginningand theend of the year than the decrease in suitabledays in the low period.The significant increase in the numberof suitabledaysatthe beginning and theend for each region is due tothecombined ffctof temperature increase,decrease inrelative humidity,and other factors.The significant decrease in the numberof suitable days in the low period is due to the combined effect of temperature increase（e.g.,increased numberof hot days）,decrease inrelative humidity,andotherfactors.Atthebeginning,theend,and inthelowperiod,thesignificant change in air temperature has the greatest effecton the significant change inthe numberof suitable days （the change in the number of suitable days reaching more than $50 \%$ ）and the influence weights of relative humidity, wind speed,and sunshine hours are diffrent.The results indicate that the numberof suitable days for tourism calculated bythe WCImodel is extremelylarge.We need to further explore whether this isbecause of the use of daytime meteorological elements,especially the higher daytime temperature than the daily average temperature.This model does not consider adverse factors such as rainstorms,sandstorms,and other disastrous weather as well as favorable factors such as rime,snow,and other meteorological efects.Therefore,these factors need tobe further studied and supplemented.
+
+Key words:tourism climate；suitable period； change trend； influence weight；Ningxia

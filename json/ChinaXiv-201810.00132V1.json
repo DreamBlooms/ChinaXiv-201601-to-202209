@@ -1,0 +1,576 @@
+[
+    {
+        "type": "text",
+        "text": "中国与“一带一路”沿线国家农产品贸易规模、结构及发展潜力研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李金叶}，谷明娜²（新疆大学经济与管理学院，新疆乌鲁木齐830046)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：农产品贸易是中国与“一带一路”沿线国家经济合作的重点领域之一。通过对中国与“一带一路”沿线国家农产品贸易规模、结构及其发展趋势进行研究,结果表明：中国与“一带一路”沿线国家农产品贸易规模及其增速存在区域间与区域内国家间双重差异性和阶梯性特征，东盟地区是沿线与中国农产品贸易额最高的区域，中亚地区是沿线与中国农产品贸易占比较低但增速较快的区域;改善贸易结构、优化贸易环境是实现沿线国家互动共赢共享发展的迫切要求。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：“一带一路”；农产品贸易；贸易规模；贸易潜力中图分类号：F125.5 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "“一带一路”倡议是国际公认的涉及国家最多、惠及民众最广的国际合作愿景，2005年以来中国与“一带一路\"沿线国家(以下简称“沿线国家”)农产品贸易持续增长，2015年中国与该地区农产品贸易额占中国农产品贸易总量的四分之一，表明中国与沿线国家农产品贸易联系相对紧密。本文对中国与沿线国家的农产品贸易规模、结构及发展趋势进行实证分析，并提出优化合作建议。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "“一带一路”的多重空间内涵和跨尺度特征体现该战略的全球性,亦表现出合作的复杂性[1-2],作为全球贸易便利化支持者，我国正积极参与和推动区域贸易合作进程，打造合作新亮点，致力促进区域经济融合和经贸关系发展。我国与沿线国家的贸易依赖程度加深，但呈现出不对称性，沿线地区出口贸易产生效应较高[3-4],其中农业合作是我国同沿线国家间经贸合作重点之一，亦是学者研究热点，对于中国主要的农产品贸易往来的国家或地区，中国与其的农产品具有互补性,存在一定的贸易潜力，农产品贸易物流体系、产品贸易结构升级是制约农产品贸易的主要因素[5-6],尤其对东盟地区,调整农产品出口贸易结构、完善农产品物流体系、加大科技投入和合理利用关税和非关税壁垒，提高农产品贸易效应的措施[7];但同“一带一路\"沿线国家农产品贸易情况，目前多是从理论上探讨我国与沿线国家农业贸易的现状、特征及合作模式[8-1],而“一带一路”沿线国家众多，且各国经济实力、科技水平、资源禀赋、制度环境参差不齐[11-15],系统地研究中国与其间的农产品贸易发展状态，知晓贸易效应的异同性及其影响因素，了解其发展趋势很有必要，因此本文将在应用统计描述的基础上，通过比较分析研究中国与“一带一路”相关国家农产品贸易规模、贸易结构，并应用引力模型测算中国与“一带一路”相关国家农产品贸易潜力，以期明晰中国与“一带一路”相关国家农产品贸易效应及其发展趋势[16-19] O",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "《愿景与行动》①并没有给出“一带一路”的具体范围和国家清单，仅指出“一带一路”贯穿欧亚非大陆，提出“丝绸之路经济带”重点是中国经中亚、俄罗斯至欧洲；“21世纪海上丝绸之路\"重点是从中国沿海港口过南海到印度洋延伸至欧洲等。本文借鉴上述空间范围界定，并根据世界银行网站对国家区域的分类指标，将研究范围界定为沿线6个区域②,即：中亚5国、俄蒙、中东欧19国、东盟10国、西亚中东21国、南亚8国，共65个国家①。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1“一带一路\"沿线国家范围界定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/a999131f01650cf458cd218fa5aa3371a2a9b79833caea67a275f41f9cf60c5e.jpg",
+        "table_caption": [
+            "Tab.1 Countries in the“Belt and the Road Initiative” area "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>地区</td><td>主要国家名称</td></tr><tr><td>中亚5国</td><td>哈萨克斯坦、乌兹别克斯坦、土库曼斯坦、塔吉克 斯坦、吉尔吉斯斯坦</td></tr><tr><td>俄蒙2国</td><td>俄罗斯、蒙古 波兰、立陶宛、爱沙尼亚、拉脱维亚、捷克、斯洛伐</td></tr><tr><td>中东欧19国</td><td>克、匈牙利、斯洛文尼亚、克罗地亚、波黑、黑山、 塞尔维亚、阿尔巴尼亚、罗马尼亚、保加利亚、马 其顿、乌克兰、白俄罗斯、摩尔多瓦</td></tr><tr><td>东盟10国</td><td>新加坡、马来西亚、印尼、缅甸、泰国、老挝、柬埔 寨、越南、文莱、菲律宾</td></tr><tr><td>西亚中东21国</td><td>伊朗、伊拉克、土耳其、叙利亚、约旦、黎巴嫩、以 色列、巴勒斯坦、沙特、也门、阿曼、阿联酉、卡塔 尔、科威特、巴林、希腊、塞浦路斯、埃及的西奈半 岛、格鲁吉亚、阿塞拜疆、亚美尼亚</td></tr><tr><td>南亚8国</td><td>印度、巴基斯坦、孟加拉、阿富汗、斯里兰卡、马尔 代夫、尼泊尔、不丹</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1中国与“一带一路”沿线国家农产品贸易规模及增速分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中国与“一带一路”沿线国家农产品贸易规模总量持续增长，贸易总额从2005年 $8 9 . 7 0 \\times 1 0 ^ { 8 }$ USD增长到 2015 年的 $4 2 7 . \\ 1 7 \\times \\ 1 0 ^ { 8 }$ USD,年均增速$1 6 . 8 9 \\%$ ；中国与沿线国家农产品贸易占中国农产品贸易总量比例从2005年的 $1 8 . 4 4 \\%$ 增长到2015年的 $2 4 . 4 5 \\%$ 。同时，中国与“一带一路”沿线国家农产品贸易规模及增速呈现出区域间及区域内国家间双重差异性和阶梯性特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 中国与“一带一路”沿线国家农产品贸易规模 比较 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1从6大区域层面比较，贸易规模呈显梯度性东盟与中国的农产品贸易联系最为紧密，2015年东盟与中国农产品贸易额占“一带一路”沿线区域与中国农产品贸易总量的 $7 1 . 9 3 \\%$ ；俄蒙次之，占$8 . 3 5 \\%$ ;然后依次是中东欧（占 $6 . 5 0 \\%$ ）、南亚（占$5 . 9 9 \\%$ ）、西亚中东 $( 5 . 6 6 \\%$ ）、中亚（占 $1 . 5 7 \\%$ ）（图1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在中国农产品贸易前十位的国家中，东盟占6个，即泰国、印尼、马来西亚、越南、菲律宾、新加坡；位居后十的国家中，中东欧国家占7个，即黑山、波黑、马其顿、摩尔多瓦、阿塞拜疆、阿尔巴尼亚、斯洛伐克。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.2从区域内国家层面比较在东盟地区中，泰国与中国农产品贸易量居首位，2015年占沿线国家",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6687c3da8041a5a29994c3648e14d43344e015795b4ea19820903d08795e6be1.jpg",
+        "img_caption": [
+            "图12005—2015 年中国与“一带一路\"沿线区域农产品贸易额"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Totalagricultureof trade between Chinaand regionsof the“BeltandRoad Initiative”area,2005—2015与中国农产品贸易量的 $2 2 . 6 3 \\%$ ，然后依次是印尼L $( 1 6 . 4 2 \\%$ ）越南 $( 1 6 . 0 2 \\%$ ）、马来西亚 $( 1 3 . 9 0 \\%$ ）、菲律宾 $( 6 . 1 9 \\%$ ）、新加坡 $( 3 . 6 2 \\%$ ）缅甸 $( 1 . 2 9 \\% )$ ）、老挝 $( 0 . 3 6 \\%$ ）、文莱 $( 0 . 0 3 \\%$ )。俄蒙地区，俄罗斯与中国农产品贸易量占沿线国家与俄罗斯农产品贸易量的 $8 . 9 7 \\%$ ,蒙古占比 $0 . 4 2 \\%$ 。中东欧地区占比最高的是乌克兰 $( 4 . 7 4 \\%$ ）、波兰 $( 1 . 2 1 \\%$ ），最低的是波黑 $( 0 . 0 1 \\% )$ 和黑山 $( 0 . 0 1 \\% )$ 。南亚地区贸易量最大的是印度 $( 2 . 8 3 \\%$ ),最低的是不丹①。西亚中东地区阿联首占比为 $1 . 6 0 \\%$ ，位列第一，最低的是亚美尼亚 $( 0 . 0 1 \\% )$ ）。哈萨克斯坦以 $0 . 9 5 \\%$ 位列中亚首位，塔吉克斯坦 $( 0 . 0 5 \\% )$ )为中亚最低（详见表2）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表22015年中国与“一带一路”沿线国家贸易额排序表",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/3aeaee0e8dae69e64f916633be5baf4f7a64fc7c593a6715e8daae2c739d7eb4.jpg",
+        "table_caption": [
+            "Tab.2Sorting of agricultural trade between China and relevant countries of the“Belt and Road Initiative\" "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">area,2015</td></tr><tr><td>地区及贸易 占比／%</td><td>国家及贸易额／10USD</td></tr><tr><td>东盟</td><td>泰国(8597.45）印尼(6236.37）、越南(6086.66）、 马来西亚（5280.97）、菲律宾（2349.64）、新加坡 (71.93%）（1374.59）、缅甸（490.66）、老挝（136.14）、文莱 (11.70)</td></tr><tr><td>俄蒙 (8.35%)</td><td>俄罗斯(3407.18）蒙古(159.66) 乌克兰(1801.81）、波兰(459.96）、匈牙利(77.13）、</td></tr><tr><td>中东欧 (6.50%)</td><td>保加利亚(74.50）捷克(70.79）、罗马尼亚(64.08）、 立陶宛（44.59）、斯洛文尼亚（36.38）、白俄罗斯 （34.25）爱沙尼亚(24.19）拉脱维亚（22.63）克罗 地亚（22.57）、斯洛伐克（10.15）、阿尔巴尼亚 (9.27）、摩尔多瓦（8.38）、马其顿（6.24）、波黑 (5.95)黑山(2.97)</td></tr><tr><td>南亚 (5.99%)</td><td>印度（1074.90）、孟加拉（366.94）、斯里兰卡 (313.79），尼泊尔（46.02）、阿富汗（23.59）、马尔代 夫(4.44）不丹(0.61) 阿联酉（606.31）、伊朗（328.75）、沙特阿拉伯</td></tr><tr><td>西亚中东 (5.66%)</td><td>(315.58）、土耳其（282.94）、以色列（234.74）、伊拉 克（116.46）希腊(104.21）、也门（91.99）、黎巴嫩 (71.81）约旦（55.64）、科威特（40.32）、格鲁吉亚 （32.87）、巴林（36.06）、阿曼（31.91）、叙利亚 (26.60）塞浦路斯（18.61）、卡塔尔（14.31）阿塞拜 疆(7.64）、亚美尼亚(4.08)</td></tr><tr><td>中亚 (1.57%)</td><td>哈萨克斯坦(360.78）、吉尔吉斯斯坦（158.76）、乌兹 比克斯坦(99.21）、土库曼斯坦(32.32）塔吉克斯坦 (18.36)</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2中国与\"一带一路”沿线国家农产品贸易增速 比较 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1从区域层面分析东盟、中亚、中东欧地区与中国农产品贸易发展增速高于平均水平;南亚、西亚中东、俄蒙低于平均增速。其中：2005—2015年，与中国农产品贸易额增速最快的是东盟地区，年均增速高达 $2 0 . 0 5 \\%$ ,高出同期中国与“一带一路”沿线国家农产品贸易额 $1 6 . 8 9 \\%$ 年均增速3.16个百分点，东盟地区作为“一带一路”沿线中国农产品贸易的主体区域的地位愈趋明显。其次是中亚地区，增速为 $1 9 . 1 9 \\%$ ,超出平均增速2.3个百分点。年均增速相对较慢的为俄蒙地区，年均增速为 $6 . 6 7 \\%$ （图2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2从国家层面分析东盟有老挝 $( 4 4 . 8 5 \\%$ ）、印尼 $( 3 5 . 6 1 \\%$ ）、越南 $2 8 . 8 1 \\%$ ）泰国 $( 2 1 . 5 9 \\%$ ）、柬埔寨 $( 2 0 . 4 8 \\%$ ）、菲律宾( $1 8 . 5 3 \\%$ )6个国家与中国的农产品贸易超过平均速度②，占该地区国家总数的大多数。中亚有塔吉克斯坦（ $( 2 2 . 7 4 \\%$ ）、吉尔吉斯斯坦 $( 2 1 . 7 5 \\%$ ）、哈萨克斯坦( $1 9 . 7 9 \\%$ )3个国家超过平均增速。中东欧地区，有乌克兰（ $( 3 4 . 8 7 \\%$ ）、匈牙利 $( 1 9 . 7 4 \\%$ ）、波黑 $( 1 7 . 3 1 \\% ) 3$ 个国家超过了平均速度。南亚8国中，不丹（ $( 4 3 . 7 0 \\%$ ）、孟加拉 $( 2 3 . 0 3 \\%$ ）、斯里兰卡 $( 2 6 . 4 9 \\%$ ）3个国家增速超过平均增速。西亚中东地区中仅伊拉克 $( 3 1 . 5 9 \\%$ ）、塞浦路斯( $1 9 . 3 9 \\%$ )2国超过平均速度。俄蒙地区中，蒙古 $( 1 8 . 1 2 \\%$ )略高于平均速度，俄罗斯 $( 6 . 3 6 \\%$ )远低于平均速度(表3）。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6c321a848b1203b20deb202eceaa9dbeeac27e498b2a6499bb9eaa2abcaacdfb.jpg",
+        "img_caption": [
+            "图22005—2015 年沿线区域与中国农产品贸易额年均增速／ $\\%$ ",
+            "Fig.2Annual growth rate of total agriculture trade between China and regions in the“Belt and Road”, $2 0 0 5 \\mathrm { - } 2 0 1 5 \\mathrm { ~ / ~ } \\%$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表32005—2015年中国与沿线国家农产品贸易额年均增速／%",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ad38e491b6a51c6006cfed567e3ca7088027397acae95d8613817b90659ea61c.jpg",
+        "table_caption": [
+            "Tab.3Annual growth rate of total agriculture trade between China and countries in the“Belt and Road Initiative\"area,2005—2015/% "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>年均增速 /%</td><td>主要国家</td></tr><tr><td><0</td><td>阿尔巴尼亚(-5.59）、亚美尼亚(-3.65) 伊朗(0.53）斯洛伐克（0.80）、约旦（1.47）、爱沙</td></tr><tr><td>0~10</td><td>尼亚(1.84）、马其顿(2.29）、科威特(2.77）、罗马 尼亚(2.78）、黑山（3.37）、叙利亚（5.75）、阿曼 (6.29）俄罗斯(6.36）、克罗地亚（7.70）、阿塞拜 疆(7.98）立陶宛(8.50）捷克(9.67）、摩尔多瓦 (9.76）也门(9.85)</td></tr><tr><td>10~17</td><td>（10.28）马尔代夫（10.38）黎巴嫩（10.65）、文莱 （11.16）、白俄罗斯（11.25）、阿联酉（11.60）、希腊 （11.79）、巴林（11.80）、尼泊尔（12.73）、卡塔尔 （12.99）、沙特（13.51）、新加坡（13.62）、印度 （13.75）、保加利亚（13.91）、阿富汗（14.57）、巴基 斯坦(14.64）、乌兹别克斯坦(14.87）、斯洛文尼亚 (14.95）、土耳其(15.25）、以色列（16.04）、格鲁吉 亚(16.46）、土库曼斯坦(16.50)</td></tr><tr><td>17~30</td><td>波黑（17.31）蒙古（18.12）、菲律宾（18.53）、塞浦 路斯（19.39）、匈牙利（19.74）、哈萨克斯坦 (19.79）、缅甸(20.74）、吉尔吉斯斯坦(21.75）、泰 国(21.59）塔吉克斯坦(22.74）、孟加拉(23.03）、 斯里兰卡(26.49)</td></tr><tr><td>30以上</td><td>伊拉克(31.59）、乌克兰(34.87）、印尼（35.61）、不 丹(43.70）、老挝(44.85)</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2中国与“一带一路”沿线国家农产品贸易结构分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "中国与沿线国家贸易结构存在明显的互补性，以产品间贸易①为主，说明中国与沿线国家贸易结构依赖于资源禀赋差异，尚处于较低层面；并且，中国与沿线国家的农产品贸易多停留在劳动密集型及土地密集型产品上，农产品贸易结构有待进一步提高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "中国主要从东盟国家进口果蔬、油脂、腊类商品②,向东盟国家出口加工食品。中国从南亚进口产品以棉花及纤维类为主，向南亚出口以果蔬类为主。中国从西亚中东主要进口植物类产品，向其出口加工食品类产品。中国与中东欧国家进出口主要集中在畜产品、水产品及果蔬类产品，产品类型集中。中国对蒙俄地区出口农产品主要是果蔬类及水产品，蒙俄对中国出口商品则主要集中在油子仁及果实、工业用植物类产品。中国对中亚国家出口主要为果蔬类及水产品，进口主要为棉麻丝类(表4）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4e9dff20e7a2331e5967c710acd4cc269f383b09738f3e1882fed74ad50b5e09.jpg",
+        "table_caption": [
+            "表42015年中国与沿线国家农产品贸易的主要品种Tab.4The main varieties of agricultural trade productsbetween China and countries in the“Belt and RoadInitiative\"area,2015"
+        ],
+        "table_footnote": [
+            "资料来源：2015年世界银行数据，部分数据来自2015年中国海关总署月度数据"
+        ],
+        "table_body": "<html><body><table><tr><td>地区</td><td>进出口</td><td>主要贸易品种</td><td>占比／%</td></tr><tr><td>东盟</td><td>向中国出口</td><td>果蔬类</td><td>36.5</td></tr><tr><td rowspan=\"5\">南亚</td><td></td><td>油脂、腊类</td><td>15.4</td></tr><tr><td>从中国进口</td><td>加工食品类</td><td>45</td></tr><tr><td>向中国出口</td><td>棉花及纤维</td><td>40.7</td></tr><tr><td>从中国进口</td><td>果蔬</td><td>43</td></tr><tr><td>向中国出口</td><td>畜产品</td><td>52</td></tr><tr><td rowspan=\"5\">蒙俄</td><td></td><td>水果</td><td>11</td></tr><tr><td>从中国进口</td><td>畜产品</td><td>24</td></tr><tr><td></td><td>蔬菜类</td><td>16</td></tr><tr><td>向中国出口</td><td>植物产品</td><td>80</td></tr><tr><td>从中国进口</td><td>水产品、果蔬</td><td>47</td></tr><tr><td rowspan=\"2\">西亚中东</td><td>向中国出口</td><td>植物产品</td><td>40</td></tr><tr><td>从中国进口</td><td>果蔬类</td><td>37</td></tr><tr><td rowspan=\"2\">中亚</td><td></td><td>加工食品</td><td>20</td></tr><tr><td>向中国出口</td><td>棉麻丝</td><td>80</td></tr><tr><td></td><td>从中国进口</td><td>果蔬类、活动物</td><td>70</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3中国与“一带一路”沿线国家贸易 潜力测算 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 模型构建 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 建模的基本思想自TINBERGEN（1962）和POYHOMEN（1963)将引力模型运用于国际贸易分析以来，得到了广泛应用，该理论表明，自然地理因素和社会因素对国际贸易都有显著的影响。引力模型在形式上，多采用万有引力模型的对数形式，主要因为在研究经济相互关系中一般采用几何形式而非算数形式，对数形式既可以使万有引力公式线性化，也可以减少数据中的异常点，又可避免数据残差的非正态分布和异方差现象。本文基于引力模型，对中国与“一带一路”沿线国家贸易潜力进行实证分析，以期揭示农产品贸易的发展趋势。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "贸易引力采用以下形式：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\ln F _ { i j } = \\alpha \\mathrm { l n } M _ { i } + \\beta \\mathrm { l n } M _ { j } + \\theta \\mathrm { l n } D _ { i j } + \\gamma \\mathrm { l n } X _ { i j } + \\varepsilon _ { i j }$ (1)式中： $\\boldsymbol { F } _ { i j }$ 表示从出口国 $i$ 国流进进口国 $j$ 国的贸易流量； $M _ { i } \\ 、 M _ { j }$ 代表两个国家的经济总量； $D _ { i j }$ 表示两个国家首都或主要港口之间的地理距离，是解释双边贸易其他变量的集合，包括人口、地区经济组织和国家政策等; $\\alpha \\mathcal { \\beta } _ { \\setminus } \\boldsymbol { \\theta } _ { \\setminus } \\gamma$ 是待估计参数； $\\boldsymbol { \\varepsilon } _ { i j }$ 是随机扰动项。3.1.2模型的构建中国与沿线国家双边农产品贸易引力模型。为了考察经济规模、人口规模、空间距离等对中国与沿线国家农产品贸易的总体影响，采用如下的引力模型：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ln  { \\boldsymbol { F } } _ { i j t } = \\alpha \\ln (  { \\boldsymbol { G } }  { \\boldsymbol { D } }  { \\boldsymbol { P } } _ { i t } \\times  { \\boldsymbol { G } }  { \\boldsymbol { D } }  { \\boldsymbol { P } } _ { j t } ) + \\beta \\ln (  { \\boldsymbol { N } } _ { i t } \\times  { \\boldsymbol { N } } _ { j t } ) +\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma \\mathrm { l n } D _ { i j t } + \\varepsilon _ { i j t }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $i = 1$ 代表中国； $\\mathbf { \\Phi } _ { t } ^ { t }$ 表示时间： $j = 1 , 2 , \\cdots , 6 5$ ，代表“一带一路\"65 个沿线国家。 $\\boldsymbol { F } _ { i j }$ 表示中国与“一带一路\"沿线国家的双边农产品贸易量; $G D P _ { i } \\ 、 G D P _ { j }$ 分别表示中国与沿线65个国家以万美元表示国内生产总值； $N _ { i \\setminus } N _ { j }$ 分别表示中国与沿线国家的人口规模； $D _ { _ { i j } }$ 表示中国与沿线国家首都之间的距离。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "引入政策和制度对双边农产品贸易的影响。“一带一路\"沿线区域中有俄白哈关税同盟 $( U C ) ^ { \\textcircled { 1 } }$ 、上合组织（SOC）、中国一东盟自贸区( $C A F A T )$ 、欧盟$( E U )$ 等经济组织，为了考虑这些经济组织对双边农产品贸易的影响，将是否为上述经济组织成员国作为虚拟变量依次引入模型中，得到式(3）～（6)：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ln  { \\boldsymbol { F } } _ { i j t } = \\alpha \\ln (  { \\boldsymbol { G } }  { \\boldsymbol { D } }  { \\boldsymbol { P } } _ { i t } \\times  { \\boldsymbol { G } }  { \\boldsymbol { D } }  { \\boldsymbol { P } } _ { j t } ) + \\beta \\ln (  { \\boldsymbol { N } } _ { i t } \\times  { \\boldsymbol { N } } _ { j t } ) +\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma \\mathrm { l n } D _ { i j } + \\eta _ { 1 } U C + \\varepsilon _ { i j t }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ln \\boldsymbol { F } _ { i j t } = \\alpha \\mathrm { l n } ( \\ G D P _ { i t } \\times G D P _ { j t } ) \\ + \\beta \\mathrm { l n } ( \\ N _ { i t } \\times N _ { j t } ) \\ +\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma \\mathrm { l n } D _ { i j } + \\eta _ { 1 } U C + \\eta _ { 2 } S O C + \\varepsilon _ { i j t }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ln \\boldsymbol { F } _ { i j t } = \\alpha \\mathrm { l n } ( \\ G D P _ { i t } \\times G D P _ { j t } ) \\ + \\beta \\mathrm { l n } ( \\ N _ { i t } \\times N _ { j t } ) \\ +\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma \\mathrm { l n } D _ { i j } + \\eta _ { 1 } U C + \\eta _ { 2 } S O C + \\eta _ { 3 } C A F A + \\varepsilon _ { i j t }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ln \\boldsymbol { F } _ { i j t } = \\alpha \\ln ( \\ G D \\boldsymbol { P } _ { i t } \\times G D \\boldsymbol { P } _ { j t } ) \\ + \\beta \\ln ( \\ N _ { i t } \\times N _ { j t } ) \\ +\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\gamma \\mathrm { l n } D _ { i j } + \\eta _ { 1 } U C + \\eta _ { 2 } S O C + \\eta _ { 3 } C A F A T + } \\\\ & { } \\\\ & { \\eta _ { 4 } E U + \\pmb { \\varepsilon } _ { i j t } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中：是否为相关经济组织成员设为虚拟项，在对应组织机构项,如果是取1,否则赋值为 $0 ^ { \\textcircled { 2 } }$ 。模型基于面板数据进行分析，本文选取“一带一路\"沿线65个国家2005一2015年的数据进行分析。国家经济规模数据GDP、人口规模数据N、中国与沿线国家农产品贸易量 $F$ 均来自世界银行数据库，中国与各国家首都的距离来自国际预测研究中心③。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 实证结果及分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.1模型结果及分析对面板数据的混合模型、个体效应固定模型、个体随机效应模型的回归结果进行比较，Hausman 检验通过原假设，且混合模型的拟合值不如个体随机模型，因此本文选取个体随机模型进行估计。回归方程(3），是否为俄白哈欧盟国，回归不显著;继续引入虚拟变量是否为上合组成成员时，是否为俄白哈同盟和是否为上合组织成员，都不能通过检验，因此，在回归方程(4）～（5)将是否为俄白哈关税同盟国剔除。中国与“一带一路”沿线国家农产品贸易引力模型的回归结果如表5所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）经济规模、人口规模和距离对中国与沿线国家农产品贸易产生重要影响。方程(2)的回归结果显示，各个变量的符号符合经济原理，而且均在$1 \\%$ 的水平上成立，调整后的 $R ^ { 2 }$ 达到0.636，模型拟合度较好（表5）。中国与沿线国家的经济规模和人口规模对双边农产品贸易具有促进作用。中国与沿线国家GDP规模每提高 $1 \\%$ ,将带动双边农产品贸易额增长 $0 . 3 3 \\%$ ；中国与沿线国家人口国模每增大$1 \\%$ ,将促进双边农产品贸易增长 $0 . 6 0 \\%$ ，可见人口规模的弹性高于经济总量的弹性。但贸易双方距离与双边贸易额呈负相关。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（2）中国一东盟自贸区建立对双边贸易有正效应。CAFAT回归系数为1.24，东盟作为中国最主要的农产品贸易伙伴，双方资源禀赋各具优势，产业结构各有特点，互补性强、合作潜力大，中国一东盟自贸区的建立，更是促进了两个地区贸易发展。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（3）上海经济合作组织有利于促进相关国家农产品贸易的增长。SOC变量回归系数为正值(0.70），上合组织成员为中国、中亚国家（除土库曼斯坦以外)及俄罗斯,在“一带一路\"的倡议下，中亚国家作为中国重点合作对象，双方针对农业展开了多项合作，如2013年底，建立了我国首个口岸农产品“绿色通道”中哈巴克图一巴克特农产品快速通道，使双边农产品贸易较快的发展；借助丝绸之路经济带构建契机，中国与中亚就农业技术、农业机械、农产品加工广泛交流与合作，使得中亚地区同中国的贸易总额年增长率居于前列。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "上合组织对双边贸易促进作用低于中国一东盟自贸区，可能是由于中亚国家同中国的农产品贸易量要远小于东盟国家。此外东盟地区人口近 $6 \\times$ $1 0 ^ { 8 }$ ,而中亚地区人口规模则仅为约 $6 \\times 1 0 ^ { 1 1 }$ ,这是造成中国一东盟自贸区对地区农产品贸易正效应更为显著的原因。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（4）欧盟东扩对中国与“一带一路”沿线国家贸易的促进作用表现得不显著。 $E U$ 回归系数为正值(0.15），欧盟东扩以打通欧亚大陆心脏地带到出海口通道为目标，对中国与其他国家的发展提供了平台,这对中国有益处。不过回归结果显示, $E U$ 变量在统计上不显著，主要原因在于中东欧国家与中国的农产品贸易量在中国与沿线国家贸易总量的比重较少，因此欧盟东扩与中国贸易的逆沿线性得不到证明，正沿线性不明显。我们认为欧洲作为“一带一路\"倡议的最后闭合区域，随着通道的逐步完善，其贸易显示度会逐步增强，",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(5）俄白哈关税同盟（其现在发展为欧亚联盟)阻碍双边农产品贸易的增长。UC变量回归系数为负值(约-0.019），但结果并不显著，关税同盟（欧亚经济联盟)具有排他性，在关税同盟（欧亚经济联盟)成员国间取消关税，实行统一的对外税率和对外贸易政策。这势必会对联盟外国家之间贸易产生负效应，但俄白哈关税同盟的影响力相对比较小。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.2中国与沿线国家贸易发展趋势分析本文运用引力模型进行贸易潜力的估算，用引力模型模拟\"理论”或“自然”状态下的潜在贸易量，然后将实际值与模拟值进行比较，以此来体现中国与沿线国家的贸易效应发展趋势。将实际值与模拟值的比值称为潜力指数 $P$ ,并把农产品贸易潜力分为：潜力巨大型( $\\textstyle P \\leqslant 0 . 8$ ）、潜力开拓型（ $( 0 . 8 < P < 1 . 2 { \\ : }$ ）、潜力再造型 $( P \\geqslant 1 . 2 ) ^ { \\textregistered }$ 。采用方程（5），估算中国与沿线国家农产品贸易潜力。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）从区域层面分析。沿线地区与中国农产品贸易潜力系数都在增长，说明农产品贸易潜力已被较好挖掘。其中，东盟、中亚地区农产品贸易潜力系数变化最大，中亚由2005年的潜力巨大型(0.61)过渡到2015年的潜力再造型（1.61）；东盟由2005年的潜力开拓性(1.2)过渡到2015年潜力再造型(2.2)。比较而言，南亚与中国农产品贸易潜力最大（沿线各地区贸易潜力及其变动见图3）。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/5515de305cd101da73ff2c636631f6d6cf273fc13b565dcbddab9f8e0c084e2e.jpg",
+        "table_caption": [
+            "表5中国与沿线国家农产品贸易引力模型回归结果",
+            "Tab.5Result of Gravity Model regresson agricultural trade between China and countries in the“Belt and Road Initiative\"area "
+        ],
+        "table_footnote": [
+            "注：\\*\\*\\*、\\*\\*、 $*$ 分别表示 $1 \\%$ （204号 $5 \\%$ $10 \\%$ "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">解释变量</td><td colspan=\"5\">被解释变量 lnF</td></tr><tr><td>方程2</td><td>方程3</td><td>方程4***</td><td>方程5</td><td>方程6</td></tr><tr><td>常数C</td><td>-19.747 ***</td><td>-6.980</td><td>-7.823 **</td><td>-22.679 ***</td><td>-0.601***</td></tr><tr><td rowspan=\"2\">Ln(GDP² × GDPj)</td><td>(-10.060)</td><td>(-1.421)</td><td>(-1.580)</td><td>(-11.612)</td><td>(-2.9175)</td></tr><tr><td>0.334***</td><td>0.516***</td><td>0.516***</td><td>0.304***</td><td>0.378***</td></tr><tr><td rowspan=\"2\">Ln(N; × Nj)</td><td>(17.477)</td><td>(26.104)</td><td>(26.632)</td><td>(15.696)</td><td>(15.227)</td></tr><tr><td>0.603***</td><td>0.179 ***</td><td>0.177***</td><td>0.614***</td><td>0.391***</td></tr><tr><td rowspan=\"2\">LnDi</td><td>(15.208)</td><td>(2.529)</td><td>(2.503)</td><td>(15.818)</td><td>(10.755)</td></tr><tr><td>-0.722 ***</td><td>-1.122 ***</td><td>-1.021***</td><td>-0.317***</td><td>-12.660 ***</td></tr><tr><td rowspan=\"2\">SOC</td><td>(-5.158)</td><td>(-2.391)</td><td>(-2.145)</td><td>(-2.137)</td><td>-6.847</td></tr><tr><td>1</td><td>1</td><td>0.729 *</td><td>0.703 ***</td><td>0.897***</td></tr><tr><td rowspan=\"2\">CAFAT</td><td></td><td></td><td>(1.531)</td><td>(3.855)</td><td>(3.627)</td></tr><tr><td>一</td><td>1</td><td>1</td><td>1.241***</td><td>1.227***</td></tr><tr><td rowspan=\"2\">EU</td><td></td><td></td><td></td><td>(5.983)</td><td>(4.670)</td></tr><tr><td>一</td><td>1</td><td>1</td><td>1</td><td>0.148</td></tr><tr><td rowspan=\"2\">UC</td><td></td><td></td><td></td><td></td><td>(-0.747)</td></tr><tr><td>1</td><td>-0.019</td><td>1</td><td>1</td><td></td></tr><tr><td></td><td></td><td>(-0.136)</td><td></td><td></td><td>1</td></tr><tr><td>调整后R</td><td>0.636</td><td>0.588</td><td>0.586</td><td>0.661</td><td>0.624</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/066e0c1d487dce169e67587e21b651c68541a346de517cb1b9d8c9ec21c4dd15.jpg",
+        "img_caption": [
+            "图3中国与沿线区域农产品贸易潜力系数 Fig.3Potential coefficient of agriculture trade between China and regions in the“Belt and Road Initiative\"area "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）从国家层面分析，除少数几个国家与中国农产品贸易处于潜力开拓型之外，沿线大部分国家与中国的农产品贸易处于潜力巨大型或潜力再造型。潜力巨大型多分布在中东欧、西亚中东地区，潜力巨大型22个国家中，中东欧、西亚中东地区分别占7个和6个，且这些国家与中国农产品贸易规模小,增速多小于平均均速。潜力开拓型国家较少，共5个国家，其与中国农产品贸易来往较少。潜力再造型国家在各个区域各有分布，其中处于各区域梯级顶部的国家均为潜力再造型，其与中国农产品贸易规模较大，几乎占到沿线国家与中国农产品贸易额的 $70 \\%$ 以上（中国与沿线国家农产品贸易潜力估算结果及分类见表6）。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/7e133f4413890b6a57dc01b33d018b60daf954f9ce3cace066c18e8413e39d33.jpg",
+        "table_caption": [
+            "表6中国与沿线各国农产品贸易潜力估算结果及分类 Tab.6Potential coefficient of agricultural trade between China and countries in the“Belt and Road Initiative\"area "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>潜力指数 范围</td><td>潜力 类型</td><td>国家名称</td></tr><tr><td rowspan=\"3\">P≤0.8</td><td></td><td>马来西亚、柬埔寨、文莱、伊朗、伊拉克、 土耳其、叙利亚、阿曼、阿富汗、马尔代</td></tr><tr><td>潜力 巨大型</td><td>夫、尼泊尔、不丹、乌兹别克斯坦、塔吉 克斯坦、白俄罗斯、阿塞拜疆、亚美尼</td></tr><tr><td></td><td>亚、摩尔多瓦、斯洛伐克、匈牙利、波黑、</td></tr><tr><td rowspan=\"2\">0.8<P<1.2</td><td>潜力</td><td>罗马尼亚 老挝、孟加拉、土库曼斯坦、马其顿、克</td></tr><tr><td>开拓型</td><td>罗地亚 沙特、以色列、黎巴嫩、约旦、也门、科威</td></tr><tr><td>P≥1.2</td><td>潜力 再造型</td><td>特、巴林、希腊、塞浦路斯、新加坡、泰 国、印尼、越南、菲律宾、印度、巴基斯 坦、斯里兰卡、哈萨克斯坦、吉尔吉斯斯 坦、俄罗斯、蒙古、乌克兰、格鲁吉亚、波 兰、立陶宛、爱沙尼亚、捷克、斯洛文尼 亚、保加利亚</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论及思考",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1 研究结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）中国与沿线国家农产品贸易主要为产业间贸易。区域资源禀赋的差异性和互补性是贸易的基础，其间的农产品贸易多停留在劳动密集型及土地密集型产品上，农产品贸易结构有待进一步提高。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2）贸易伙伴国之间的距离、人口规模、经济规模、政策等是影响中国同沿线国家农产品贸易的重要因素。地理距离对双边双方有显著负效应；人口规模、经济规模、中国一东盟自贸区建立、上合组织建立对双边农产品贸易量呈显著正向关系，此外，中国一东盟自贸区对双边农产品贸易正效应要大于上合组织。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）中国与沿线各地区和国家贸易效应存在差异性。东盟与中国农产品贸易联系最为紧密，在贸易规模优于“一带一路”沿线其他区域。尽管中亚区域与中国农产品贸易额相对较小,但增速最快，与中国农产品贸易潜力系数由2005年0.61上升为1.61,与其他区域相比表现出色。中国与沿线农产品贸易存在区域间及区域内国家间双重梯级差异。每个区域的领头国家均为中国农产品贸易传统优势市场。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（4）中国与沿线各国农产品贸易潜力呈现分化趋势。沿线与中国贸易规模较大、增速较快以及与我国具有传统农产品贸易优势的国家基本属于潜力再造型，各区域梯级顶端的国家均存于潜力再造型；迫切需要农产品贸易结构升级，创造新的农产品潜力。潜力开拓地区与中国尚存潜力空间，但与中国贸易额较小，增速不快，影响也较小。潜力巨大国家尚有较多发展空间，这些地区需要中国重点发展。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2基于研究的思考",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "针对以上研究结果,提出如下思考：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）提升贸易结构层次和水平。中国与沿线国家农产品贸易主要以劳动、土地密集型产品为主，精深加工农产品贸易较少，处于基于资源禀赋比较优势为基础的低层次贸易阶段，贸易附加值低，贸易的自然和市场风险高。而且与我国贸易规模大、增速快的国家大部分已成为贸易潜力在造型，继续寻找促进贸易提升新的增长点，增强农产品贸易的技术含量、提升合作层次成为我国扩大与沿线国家农业合作、提高合作效益的重心。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（2）优化合作的物质基础。地理距离、合作条件是国家间贸易不可逾越的影响因素，如何通过基础条件改善，“缩短”贸易距离，减少物流损失是关键。而我国物流设施相对不完善，必然制约农产品贸易的发展。沿线国家经济相对欠发达，基础设施建设滞后，如，多数中亚国家没有高速公路，甚至一般的公路路况也相对较差，铁路、空路布局更缺完善，这严重阻碍农产品及时运销，妨碍双方农产品贸易发展。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）优化中国与“一带一路”沿线国家农产品贸易制度环境。中国与东盟、与中亚农产品贸易的快速发展，得益于东盟自贸区、上合组织及丝绸之路经济带建设。显然，中国参与国际经济合作机制的程度越高，越有利于我国与合作方的共赢发展，因此利用“一带一路”建设契机，实现我国的开放发展是“一带一路”发展的落脚点和目标。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1］刘卫东.“一带一路\"战略的科学内涵与科学问题[J].地理科 学进展,2015,（5）:538-544．［LIUWeidong.Scientificunderstanding of the Belt and Road Initiative of China and related research theme[J].Progress in Geography,2015,（5）:538-544.]   \n[2］储殷,高远.中国\"一带一路\"战略定位的三个问题[J].国际经 济评论,2015,(2）:90-99.[CHUYin,GAO Yuan.China's Belt and Road Initiative:Three questions to be answered[J].International Economic Review,2015,(2）:90-99.]   \n[3］邹嘉龄,刘春腊.中国与\"一带一路\"沿线国家贸易格局及经济 贡献[J].地理科学进展,2015,（5）：598-605.［ZOU Jialing, LIU Chunla. Spatial patterns and economic effects of China's trade with countries along Belt and Road[J].Progress in Geography, 2015，(5) :598-605.]   \n[4]公丕萍,宋周颖,刘卫东.中国与“一带一路\"沿线国家的商品 贸易格局［J].地理科学进展，2015，（5）：571-580.［GONG Piping,SONG Zhouying，LIU Weidong.Commodity structure of trade between China and countries in the Belt and Road Initiative area[J].Progress in Geography,2015,（5）:571-580.]   \n[5］张海森,谢杰.中国一东欧农产品贸易：基于引力模型实证研 究[J].中国农村经济,2008,（10）:45-53.[ZHANG Haisen, XIE Jie.Agricultural trade between China and Eastern-Europe; With gravity model[J].Chinese Rural Economy,20o8,（10）：45 -53.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[6］汤碧.中国与金砖国家农产品贸易：比较优势与合作潜力[J].",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "农业经济问题，2012，（10）：67-75.［TANGBi.Agricultural products trade between China and the Bric Countries:Comparative and potential for cooperation[J].Issues in Agricultural Economy, 2012,(10):67 -75.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[7］孙大岩,孔繁利.中国—东盟农产品贸易新趋势与对策[J].改 革与战略,2015,（10）：186－190.［SUN Dayan,KONG Fanli. The study on new trends and countermeasures of China-ASEAN agricultural trade[J].Reformation& Strategy,2015,（10）:186- 190.]   \n[8］李富佳,董锁成,原琳娜.“一带一路\"农业战略格局及对策 [J].中国科学院院刊,2016,31（6）:678-688.[LI Fujia, DONG Suocheng,YUAN Lina. Study on agriculture patterns and strategy of the Belt and Road[J].Bulletin of Chinese Academy of Sciences,2016,31(6):678 -688.]   \n[9]张芸,杨光,杨阳.“一带一路\"战略:加强中国与中亚农业合作 的契机[J].国际经济合作,2015，（1）:31-34.[ZHANG Yun, YANG Guang,YANG Yang. The strategy of the Belt and Road ;The opportunity to strength cooperation between China and Central Asia [J].Journal of International Economic Cooperation,2O15,（1）:31 -34.]   \n[10］李豫新,朱新鑫.农业\"走出去\"背景下中国与中亚五国农业合 作前景分析[J].农业经济问题,2010,（9）:42-48.[LIYuxin, ZHU Xinxin.The prospect of agricultural cooperation between China and Central Asia under the background of agriculture[J].Issues in Agricultural Economy,2010,(9）:42-48.]   \n[11］王瑞,王丽萍.我国农产品贸易流量现状与影响因素;基于引 力模型的实证研究［J].国际贸易问题,2012,（4）:39－48. [WANG Rui,WANG Liping. China trade flow statusagricultural product and influence factors:Empirical study base on gravity model[J].Journal of International Trade,2012,(4) :39-48.]   \n[12］孔庆峰,董虹蔚.“一带一路\"国家的贸易便利化水平测算与贸 易潜力研究[J].国际贸易问题,2015,（12）：158－168. [KONG Qingfeng,DONG Hongwei. Trade facilitation and trade potential of countries along the Belt and Road Initiative area[J]. Journal of International Trade,2015,（12）:158-168.]   \n[13］倪沙,王永兴,景维民.中国对“一带一路\"沿线国家直接投资 的引力分析[J].天津财经大学学报,2015，（5）：3-14.［NI Sha,WANG Yongxing,JING Weimin.Analysis of China’s direct investment to countries along“one Belt and one Road”with gravity model[J].Journal of Tianjin University of Finance and Economics,2015,(5): 3-14.]   \n[14］郑蕾,刘志高.中国对\"一带一路\"沿线直接投资空间格局[J]. 地理科学进展,2015,（5）:563-570.[ZHENG Lei,LIU Zhigao. Spatial pattrn of Chinese outward direct investment in the Belt and Road Initiative area[J].Progress in Geography,2015,（5）:563- 570.]   \n[15］范彬彬,罗格平,胡增运,等.中亚土地资源开发与利用分析 [J].干旱区地理,2012,35(6）:929-937.[FAN Binbin,LUO Geping,HU Zengyun,et al.Land resource development and development and utilization in Central Asia[J].AridLand Geography, ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2012,35(6):929-937.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[16］钟钰，赵长和，王立鹤.新时期促进我国农业对外投资的对策研究[J].经济纵横,2016，（5）：94-98.［ZHONGYu,ZHAOChanghe,WANG Lihe.Study on the countermeasures of promotingforeign investment in China'sagriculture in the new era[J].Eco-nomic Review,2016,（5):94-98.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[17］刘海猛，方创琳，任宇飞.丝绸之路经济带中哈国际合作示范区物流业发展与跨境电商平台建设[J].干旱区地理，2016，39(5）:1201-1210.[LIU Haimeng,FANG Chuanglin,REN Yufei.Logistics industry and cross-border electric business of Sino-Ka-zakhstan cooperation demonstration zone in Silk Road Economic",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Belt[J].Arid Land Geography,2016,39(5）:1201-1210.][18］齐胜达，雷军，段祖亮,等.中国丝绸之路经济带区域物流空间差异及其演化研究[J].干旱区地理，2016,39（1）：208-215.[QI Shengda,LEI Jun,DUAN Zuliang,et al. Spatial difference andevolution of regional logistic in Silk-road Economic Belt in China[J].AridLand Geography,2016,39(1）:208-215.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[19］魏晓旭，赵军,魏伟.丝绸之路经济带中国段经济发展时空演化特征[J].干旱区地理，2015，38（6)：1300-1309.［WEIXi-aoxu,ZHAO Jun,WEI Wei. Spatio-temporal evolution characteris-tics of economic development in Silk Road Economic China Belt[J].Arid Land Geography,2015,38(6):1300-1309.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Agricultural trade scale,structure and potential between China and the countries participating in the “ Belt and Road Initiative\" ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "LI Jin-ye¹， GU Ming-na² (School of Economics and Management,Xinjiang University,Urumqi 83oo46,Xinjiang,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract：The agricultural products trade between China and countries participating in the“Belt and Road Initiative”is one of the key fields in the economic cooperation.This paper examines the trade scale,structure and potential between China and countries participating in the“Belt and Road Initiative”using methods includingthe applied statisticsdescription,comparative analysis,andthe gravity model based on the trade statistics bythe World Bank. The result has shown that the efect of agricultural trade presents a staircase-like feature in terms of the regional diffrence.The ASEANregion is the region withthe highest trade volume while the Central Asia is the region of a relative lower volume in the trade ofagricultural products yet with arapid growth.The products involved in the trade were the labor intensive or land intensive ones which require an improvement on the trade structure.The population size,the economic scale,and the economic cooperation organization are the main factors which can influence the agricultural trade between Chinaand the relevantcountries.The geographic distance has significant negative effects on the trade.The positive effect caused by theagricultural products trade in China-ASEAN free trade zone is larger than that happened in the SCO.The trade potentials of agricultural products between China and relevant countries present different trend.The countries which have larger and faster growth rateof trade volume,and have geographical advantages basically belong tothe potential remodeling,and topcountries in every region also belong to the po tentialones.There isan urgent need to createnew potential of agricultural products for China.Itis therational choice to upgrade structure of agricultural trade and optimize the environmentof the trade for achieving win-win situation.From the perspectives of promoting green trade and achieving mutual benefits,this paper analyzed the trade effcts and trend of agricultural products ofcountries along the“Beltand Road Initiative”area.It would behelpful to promote the cooperation and share prosperity between China and relevant countries participating in the“Belt and Road Initiative”. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:Belt and Road Initiative；agricultural products trade；trade scale；trade potential ",
+        "page_idx": 8
+    }
+]

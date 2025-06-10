@@ -1,0 +1,415 @@
+[
+    {
+        "type": "text",
+        "text": "明安图射电频谱日像仪天线相位方向图测量与分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "苏仓1,2,3，王威1,3，颜毅华1,3，杜静1,3（1.中国科学院国家天文台，北京100012；2.中国科学院大学，北京100049;3.中国科学院太阳活动重点实验室，北京100012)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：明安图射电频谱日像仪（Mingantu Ultrawide SpEctral Radioheliograph，MUSER）是新一代具有高时间、高空间、高频率分辨率的太阳专用射电望远镜，采用综合孔径原理成像，所以幅度和相位是决定最后成图质量的关键因素。天线的相位方向图会影响日像仪输出的幅度和相位，根据日像仪的馈源设计和综合孔径原理，针对明安图射电频谱日像仪天线数目多，且为户外环境，根据天文观测须经常测试天线性能的特点，给出了基于相关结果测量日像仪天线相位方向图的方法，该方法可以直接通过日像仪的相关输出结果高效准确地得到天线的相位方向图。对MUSER-I天线的相位方向图进行了测量和分析，同时分析了天线相位方向图对日像仪成像的影响，为得到高质量的太阳图像提供了参考和保障。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：相位方向图；相关；明安图射电频谱日像仪中图分类号：P164 文献标识码：A 文章编号：1672-7673(2016)03-0293-07",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "天线的方向图是表征天线辐射特性与空间角度的图形，如幅度、极化、相位等。通常是以天线的相位中心为球心的一个三维空间图形，在半径为 $\\boldsymbol { r }$ 的足够大球面上，依次逐点测量天线的辐射特性绘制而成。根据测量的物理量不同，可以得到不同的方向图。如测量场强振幅，得到场强方向图；测量功率，得到功率方向图；测量相位，可以得到相位方向图[1]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "天线的相位特性包含许多非常重要的信息，特别是随着相控阵和综合孔径技术的发展，天线相位测量变的越来越重要。天线相位方向图测量的方法同幅度方向图的测量方法类似，所不同的是要测量待测天线在远区球面上辐射场的相位。通常测量原理与一般的相位测量类似，即将待测信号与基准信号比较得出相对相位值，如图 $1 ^ { [ 2 - 3 ] }$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/666e65827395c5f21d1122f8925b596fbcdca9116b5ae96695c6807fa85a3dfa.jpg",
+        "img_caption": [
+            "图1传统相位方向图测试框图",
+            "Fig.1A block diagram of measuring the phase pattern traditionally "
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "但是明安图射电频谱日像仪天线阵位于内蒙古大草原上，为野外环境，并且天线数目众多[4],根据天文观测的需求须经常测试天线的性能，希望能够快速准确地得到天线的相关参数。因此本文给出了一种基于相关测量天线阵天线相位方向图的方法。首先，根据综合孔径原理，推导出阵列天线相位与可见度函数的关系，然后根据明安图射电频谱日像仪的相关设计，给出基于相关结果测量日像仪天线相位方向图的方法。并对MUSER-I天线的相位方向图进行了测量和分析，同时分析了天线相位方向图对日像仪成像的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1明安图射电频谱日像仪简介 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "明安图射电频谱日像仪是一台对太阳进行观测的专用射电望远镜阵列，在厘米-分米波段同时以高时间、高空间、高频率分辨率对太阳成像。明安图射电频谱日像仪在研究瞬间高能现象、日冕磁场和太阳大气结构、太阳耀斑与日冕物质抛射的源区特性等方面发挥重要作用，从而使人类更好地了解日冕大气的动力学过程[5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "明安图射电频谱日像仪建设在距离北京 $4 0 0 \\mathrm { k m }$ 的国家天文台明安图观测站，根据综合孔径原理，由低频阵和高频阵两部分组成。其中低频阵由40面 $4 . 5 \\mathrm { ~ m ~ }$ 的天线组成，观测频率为 $4 0 0 ~ \\mathrm { M H z }$ 到$2 ~ \\mathrm { G H z }$ ；高频阵由60面 $2 . 0 \\mathrm { m }$ 的天线组成，观测频率为 $2 \\ : \\mathrm { G H z }$ 到 $1 5 \\ : \\mathrm { G H z }$ 。所有的100面天线分布在三条螺旋臂上，高低频天线将接收的太阳射电信号通过等长的光纤传送到室内模拟接收机，通过数字接收机的数字化处理到达复相关器件，对所有通道进行复相关计算得到复可见度函数，最后经过成像处理得到太阳图像[6]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "现阶段明安图射电频谱日像仪已经完成高低频阵的建设工作，系统正处于调试和试观测过程中，最新的主要性能指标如表 $1 ^ { [ 7 ] }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/fb9ec9a17db0f6eddc576e64d91c8edae7a80eb2822663bed323cc22b754f99b.jpg",
+        "table_caption": [
+            "表1明安图射电频谱日像仪主要系统指标",
+            "Table1 MUSER Specifications "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>MUSER-I</td><td>MUSER-II</td></tr><tr><td>Frequency range</td><td>400 MHz-2 GHz</td><td>2 GHz-15 GHz</td></tr><tr><td>Number of antennas</td><td>40</td><td>60</td></tr><tr><td>Number of baselines</td><td>780</td><td>1 770</td></tr><tr><td>Antenna size</td><td>4.5m</td><td>2.0m</td></tr><tr><td>Baseline range</td><td>~8 m-~3000 m</td><td>~4 m-~3 000 m</td></tr><tr><td>Polarization</td><td>Dual circular polarization</td><td>Dual circular polarization</td></tr><tr><td>Dynamic range</td><td>≥25 dB</td><td>≥25 dB</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 相位方向图测量",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 测量原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "明安图射电频谱日像仪是采用综合孔径技术成像的干涉仪系统，射电源的亮度分布图像可以通过测量垂直于源平面上的点对之间电场的互相干函数得到。可以从最简单的没有下变频、没有延时补偿的双天线单元接收系统进行分析[8]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设 $s$ 为天线指向射电源的单位方向矢量，两天线的基线距离为 $\\mid b \\mid$ ，其中方向矢量与基线法线方向的夹角为 $\\theta$ ， $V _ { \\mathrm { c o s } } ( 2 \\pi f )$ 为天线接收系统接收的来自方向矢量 $s$ 的频率为 $f$ 的单频信号。由于几何距离不同，射电源辐射的电磁波到达两个天线的时间不一致，产生的时间差为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tau _ { _ \\mathrm { g } } = b \\ \\frac { s } { c } = b { \\sin } \\theta / c ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\boldsymbol { \\mathbf { \\mathit { c } } }$ 为光速，则经过传输链路到达相关器之前的输入信号可以表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { \\mathrm { 1 } } ( t ) = V _ { \\mathrm { 1 } } { \\cos \\left[ 2 \\pi f ( t - \\tau _ { \\mathrm { g } } ) \\right] } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { _ 2 } ( t ) = V _ { _ 2 } \\mathrm { { c o s } } 2 \\pi f t ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $V _ { 1 }$ 、 $V _ { 2 }$ 分别为两路输入信号的电压幅度，且忽略了链路增益。相关器由一个电压乘法串上一个时间平均(积分)器组成。经过相关器后滤掉高频成分分量，最后相关器的输出结果为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\mathrm { c } } = \\frac { \\left[ V _ { \\mathrm { 1 } } V _ { \\mathrm { 2 } } \\cos ( 2 \\pi f \\tau _ { \\mathrm { g } } ) \\right] } { 2 } = \\frac { V _ { \\mathrm { 1 } } V _ { \\mathrm { 2 } } } { 2 } \\cos \\left( 2 \\pi b \\mathrm { s i n } \\theta / \\lambda \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\lambda$ 为观测频率对应的波长。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当射电源处于 $\\theta = { 0 } ^ { \\circ }$ 时，来自射电源的信号同时到达接收天线，从而在其到达相关器时两路信号的相位差为0，相关输出的幅度最大。定义当两路信号到达相关器时相位一致(即输出幅度最大时)信号的来波方向 $\\theta$ 为相位中心，也称为相位参考方向。在实际观测中，天线指向偏离目标源 $\\Delta \\theta$ ，而不是处于相位中心。此时，考虑偏离相位中心 $\\Delta \\theta ( \\Delta \\theta$ 很小)的点源除幅度外的相关输出结果，表达式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\cos { \\left( 2 \\pi f \\tau _ { \\mathrm { g } } \\right) } = \\cos { \\left\\{ 2 \\pi f \\left[ \\frac { b } { c } \\sin ( \\theta _ { 0 } - \\Delta \\theta ) - \\tau _ { \\mathrm { i } } \\right] \\right\\} } \\cong \\cos { \\left[ 2 \\pi f \\left( \\frac { b } { c } \\right) \\sin \\Delta \\theta \\mathrm { c o s } \\theta _ { 0 } \\right] } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在以上计算过程中，忽略了天线方向瓣的影响。工程上，天线接收的信号强度是在天线方向图范围内的积分。假设辐射源的亮度分布为 $I ( \\theta ^ { \\prime } )$ ，天线方向图为 $A ( \\theta )$ ，相位中心方向为 $\\left( \\boldsymbol { \\theta } _ { 0 } \\right)$ ，天线指向为 $\\left( \\theta _ { 0 } + \\Delta \\theta \\right)$ ，则天线接收到的信号强度为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV = \\int _ { \\mathrm { s o u r c e } } A \\left( \\theta _ { 0 } + \\Delta \\theta \\right) I \\left( \\theta ^ { \\prime } \\right) \\mathrm { d } \\theta ^ { \\prime } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $A \\left( \\theta _ { 0 } + \\Delta \\theta \\right)$ 为天线的方向图，包含功率方向图和相位方向图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 测量方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干涉仪的校准和测试，通常采用对天空中的点源进行观测。对基于相关结果测量干涉仪天线相位方向图的方法，步骤如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)将所有天线同时指向校准源，保持 $5 \\mathrm { m i n }$ 并记录此过程中的可见度函数;(2)保持其中一个天线 $A$ 跟踪校准源不变，将其余天线在赤经方向顺时针逐步移开一定角度，保持 $1 \\mathrm { m i n }$ 并记录此过程中的可见度函数;(3)重复(1)过程，然后保持天线 $A$ 跟踪校准源不变，将其余天线在赤经方向逆时针逐步移开一定角度，保持 $1 ~ \\mathrm { m i n }$ 并记录此过程中的可见度函数;(4)重复(1)过程，然后保持天线 $A$ 跟踪校准源不变，将其余天线在赤纬方向上转逐步移开一定角度，保持 $1 ~ \\mathrm { m i n }$ 并记录此过程中的可见度函数；(5)重复(1)过程，然后保持天线 $A$ 跟踪校准源不变，将其余天线在赤纬方向下转逐步移开一定角度，保持 $1 ~ \\mathrm { m i n }$ 并记录此过程中的可见度函数;(6)根据可见度函数计算除 $A$ 外天线的相位变化。该变化即是由于天线指向偏离带来的天线相位的变化，得到各天线在4个方向的相位方向图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于MUSER-I，指向精度和跟踪精度 $\\leqslant 9 ^ { \\prime }$ 。位于赤道上方的同步轨道卫星是非常合适的校准源，根据 MUSER-I的观测频率，风云2G卫星是一个合适的校准源。风云2G卫星是我国的一颗地球静止气象卫星，位于东经 $1 0 4 . 9 ^ { \\circ }$ 赤道的上空，其信标频率为 $1 . 7 0 2 5 \\mathrm { G H z }$ 。由于卫星信号比较强，并且在该频点上干扰信号非常小，所以在测试过程中可以忽略干扰。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2015年10月28日20点，按照上述步骤利用风云2G卫星（时角： ${ 1 2 . { 1 0 } ^ { \\circ } }$ ，赤纬： $- 4 . 8 6 ^ { \\circ }$ )测量了MUSER-I天线的相位方向图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3测量结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过2.2中记录的可见度函数可以计算相位值，如图2和图3。其中图2表示天线指向在赤经方向偏离相位中心 $\\pm 1 ^ { \\circ }$ 时的相位差；图3表示天线指向在赤纬方向偏离相位中心 $\\pm 1 ^ { \\circ }$ 时的相位差。由于太阳的尺度大概为 $3 0 ^ { \\prime }$ ，所以重点分析天线在相位中心 $\\pm 1 ^ { \\circ }$ 范围内的相位方向图。根据图2和图3在",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\pm \\boldsymbol { 1 } ^ { \\circ } \\times \\pm \\boldsymbol { 1 } ^ { \\circ }$ 的范围内，天线的相位与相位中心的相位差基本在 $5 ^ { \\circ }$ 范围内，而在太阳的成像范围 $\\pm 3 0 ^ { \\prime } \\times \\pm$ $3 0 ^ { \\prime }$ 内，天线的相位与相位中心的相位差基本在 $2 ^ { \\circ }$ 范围内。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在测量过程中由于卫星的运动会引起日像仪输出相位的变化，在数据处理过程中根据源的位置变化和UV 变化的关系，算出由于位置变化引起的相位变化，从测量结果中扣除。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于太阳的展源特性，成图主要取决于天线主瓣的幅度方向图和相位方向图的平坦情况，而天线的偏离相对于幅度误差会引起大的相位误差。因此在分析过程中可以忽略幅度误差而重点分析相位误差对成图质量的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "相位误差对图像的影响取决于其对可见度函数的影响。通常基于天线的误差和基于基线的误差是可见度函数测量中最普遍的两种误差，天线相位方向图便属于基于天线的误差[9-10]",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7e72d593b741ab8e27ff8bfcdc69e7599688524c82dcc9857b9a26173a8cc59.jpg",
+        "img_caption": [
+            "图2天线指向在赤经方向偏离相位中 $\\therefore \\Delta \\pm 1 ^ { \\circ }$ 时的相位差 Fig.2Measured phase difference when antenna pointing deviates $\\pm \\ : 1 ^ { \\circ }$ in the right ascension direction "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f9e78c131777ff3077f778bb97519b14a8c791314884948bebdc7de399849cf5.jpg",
+        "img_caption": [
+            "图3天线指向在赤纬方向偏离相位中 $\\therefore \\Delta \\pm 1 ^ { \\circ }$ 时的相位差 Fig.3Measured phase difference when antenna pointing deviates $\\pm \\ : 1 ^ { \\circ }$ in the declination direction "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于明安图射电日像仪考虑简单的位于相位中心单位流量密度的点源，使用 $N$ 个天线的干涉仪观测，在快照模式下可见度函数为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ( u ) = ( 1 + \\varepsilon ) \\delta ( u - u _ { 0 } ) ~ e ^ { - i \\phi } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\boldsymbol { \\varepsilon }$ 为可见度函数中的幅度误差； $\\phi$ 为可见度函数中的相位误差； $u _ { 0 }$ 为干涉仪的基线。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "干涉仪的输出图像可以表示为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI ( l ) = \\int V ( u ) \\ e ^ { i 2 \\pi u l } \\mathrm { d } u \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "因为干涉仪的输出是 $N ( N { - } 1 ) / 2$ 个离散的分量，所以积分可以变为求和计算。对于每个不存在误差的基线，对图像的作用为 $2 \\cos ( 2 \\pi u _ { k } l )$ 。但是对于存在误差的基线，这一分量变为 $2 \\mathrm { c o s } \\left( 2 \\pi u _ { 0 } l \\mathrm { - } \\phi \\right) \\mathrm { \\approx } 2$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\bar { \\mathbf { \\eta } } _ { - } \\cos ( 2 \\pi u _ { 0 } l ) + \\phi \\sin ( 2 \\pi u _ { 0 } l ) \\mathbf { \\eta } ]$ 。因此，干涉仪最终输出的图像可以表示为",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI ( l ) = 2 \\phi \\mathrm { s i n } ( 2 \\pi u _ { 0 } l ) + 2 \\sum _ { k = 1 } ^ { N ( N - 1 ) / 2 } \\mathrm { c o s } ( 2 \\pi u _ { k } l ) \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "此时干涉阵的点扩散函数可以表示为",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB ( l ) = 2 \\sum _ { k = 1 } ^ { N ( N - 1 ) / 2 } \\cos ( 2 \\pi u _ { k } l ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过对输出图像做洁化处理即去卷积，可以得到误差图像：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR ( l ) = I ( l ) - B ( l ) = 2 \\phi \\mathrm { s i n } ( 2 \\pi u _ { 0 } l ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "这一误差图像是一个正弦函数，其幅度为 $2 \\phi$ ，有效值为 ${ \\sqrt { 2 } } \\phi$ ○",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图像的动态范围可以定义为图像中辐射强度最大值与一个无源小区域内的均方根的比值。通过上述公式的推导可以得到：当干涉仪由 $N$ 个天线组成，对应有 $N ( N { - } 1 ) / 2$ 个基线，可得到 $N ( N { - } 1 ) / 2$ 个可见度函数，假定其中的一个基线具有相位误差 $\\phi$ ，此时干涉仪输出的动态范围为",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD = { \\frac { P e a k } { N o i s e } } = { \\frac { N ( N - 1 ) } { { \\sqrt { 2 } } \\phi } } \\approx { \\frac { N ^ { 2 } } { \\sqrt { 2 } \\phi } } \\quad ( N \\gg 1 \\ H \\ / ) \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "现实中误差很少只存在于一个基线上，所以假定所有的基线上存在一个随机的相位误差，并且每个基线上的误差是独立的，则图像的动态范围随着比例因子 $\\sqrt { N ( { N } - 1 ) / 2 }$ 下降，即",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD = { \\frac { N ( N - 1 ) } { \\sqrt { 2 } \\phi \\sqrt { N ( N - 1 ) / 2 } } } = { \\frac { \\sqrt { N ( N - 1 ) } } { \\phi } } \\approx { \\frac { N } { \\phi } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如果相位误差是基于天线的，误差影响与该天线相关的所有基线，所以对图像造成 $N - 1$ 个误差。假设这 $N { - } 1$ 个误差是随机的，则图像的动态范围可以表示为",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD = \\frac { N ( N - 1 ) } { \\sqrt { 2 } \\phi \\sqrt { N - 1 } } = \\frac { N \\sqrt { ( N - 1 ) } } { \\sqrt { 2 } \\phi } \\approx \\sqrt { \\frac { N } { 2 } } \\frac { N } { \\phi } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "同样现实中所有天线有基于天线的相位误差，此时图像的动态范围随着比例因子 $\\sqrt { N }$ 下降，可以表示为",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD = \\frac { 1 } { \\phi } \\sqrt { N ( N - 1 ) / 2 } \\approx \\frac { N } { \\sqrt { 2 \\phi } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "因此，对于日像仪低频阵，天线数目为40面，技术指标要求动态范围 $\\geqslant 2 5 \\mathrm { d B } ( 3 2 0 : 1 )$ ，根据公式计算日像仪的容许相位为 $5 ^ { \\circ }$ 。可见在太阳成像范围内日像仪天线的相位差在 $2 ^ { \\circ }$ 范围内满足要求。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "文中根据日像仪的馈源设计和综合孔径原理，针对明安图射电频谱日像仪天线数目多，且为户外环境，根据天文观测须经常测试天线性能的特点，给出了基于相关结果测量日像仪天线相位方向图的方法，由图2和图3可知明安图射电频谱日像仪天线的相位差满足太阳成像动态范围 $\\geqslant 2 5$ dB 的技术指标要求。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] 毛乃宏，俱新德，等.天线测量手册［M].北京：国防工业出版社，1987：126-165.[2] 魏文元，宫德明，陈必森．天线原理［M].北京：国防工业出版社，1985：295-307.[3] Stutzman W L，Thiele G A.Antenna theory and design，3rd edition ［M].United States of",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "America:Wiley，2012:577-579.   \n[4] 王威，颜毅华，陈志军.CSRH阵列设计研究［J]．天文研究与技术—国家天文台台刊， 2013，10(1):17-21. Wang Wei，Yan Yihua，Chen Zhijun.Array configuration design for CSRH［J].Astronomical Research & Technology———Publications of National Astronomical Observatories of China,2013, 10(1) : 17-21.   \n[5] 王威，窦玉江，颜毅华，等.CSRH灵敏度分析［J].天文研究与技术—国家天文台台刊， 2013，10(1):22-25. Wang Wei，Dou Yujiang，Yan Yihua，et al. Analysis of the sensitivity of the CSRH［J]. Astronomical Research & Technology——Publications of National Astronomical Observatories of China，2013，10(1)：22-25.   \n[6] Yan Y，Zhang J，Wang W. The Chinese Spectral Radioheliograph-CSRH［J].Earth，Moon, and Planets，2009，104(1-4):97-100.   \n[7] Wang Wei，Yan Yihua,Liu Donghao,et al. Calibration and data processing for a Chinese Spectral Radioheliograph in the decimeter wave range [J]. Publications Astronomical Society of Japan, 2013,65:1-5.   \n[8] Taylor G B,Carilli C L,Perley R A. Synthesis imaging in radio astronomy II [C] // Astronomical Society of the Pacific Conference Series.1999：111-124.   \n[9] Thomposn AR，Moran JM.Interferometry and synthesis in radio astronomy[M].United States : a Wiley-Interscience Publication，2001：97-121.   \n[10] Thompson A R，D $'$ Addario L R. Synthesis mapping: proceedings of the NRAO-VLA workshop held at Socorro，New Mexico,June 21-25,1982 [M].Green Bank，WV:National Radio Astronomy Observatory，1982. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Measuring and Analysis of the Phase Pattern of MUSER ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Su Cang $^ { 1 , 2 , 3 }$ ，Wang Wei $^ { 1 , 3 }$ ， Yan Yihua $^ { 1 , 3 }$ ，Du Jing $^ { 1 , 3 }$ (1.National AstronomicalObservatories，ChineseAcademyof Sciences，Beijing0oo1,China；2.Universityof Chinese Academy of Sciences，Beijing 10o049,China，Email：csu@ nao.cas.cn；3.Key Laboratory of Solar Activity, National Astronomical Observatories，Chinese Academy of Sciences，Beijing 10oo12,China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract：The MUSER（Mingantu Ultrawide SpEctral Radioheliograph） isa new generation of solar dedicated radio telescope for imaging the Sun at high time，high spatial and high frequency resolutions simultaneously.It is an aperture-synthesis telescope，so the amplitude and phase are the key factors in the final imaging.The phase pattern is an important factor affecting the array's amplitude and phase.In this paper，allowing for the techniques of MUSER，the method by measuring correlation is adopted to measure phase pattern of feeds for MUSER based on aperture synthesis principle. Since MUSER has numbers of antennas and located in harsh environmentsand according to the demand of astronomical observations，the performance of the antennas should be measured frequently.This method simplifies the process of phase pattern measurement of the interferometric arry and it can obtain accurate results eficiently.The measuring process and analysis of MUSER-Iare presented in detail in thispaper.In addition，to support future scientific observation，the phase pattern’s effect on the image is further studied. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Key words: Phase pattern；Correlation；Mingantu Ultrawide SpEctral Radioheliograph ",
+        "page_idx": 6
+    }
+]

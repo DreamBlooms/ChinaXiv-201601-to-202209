@@ -1,0 +1,607 @@
+[
+    {
+        "type": "text",
+        "text": "RESEARCHARTICLE ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A Unique Human Norovirus Lineage with a Distinct HBGA Binding Interface ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wu Liu1@, Yutao Chen2@, Xi Jiang3,4, Ming Xia³, Yang Yang², Ming Tan3,4\\*, Xuemei Li2\\*, Zihe Rao² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Schoolof Life Sciences,Universityof ScienceandTechnology of China,Hefei,Anhui,China,2 National Laboratoryof Biomacromolecules,Institute of Biophysics,Chinese Academy of Sciences,Beijing,China, 3 Divisionof Infectious Diseases,Cincinnati Children's Hospital Medical Center, Cincinnati,Ohio United States of America,4 UniversityofCincinnati Colege of Medicine,Cincinnati,Ohio,United Statesof America ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: LiuW,Chen Y,Jiang X,Xia M,Yang Y,Tan M,et al. (2015)A Unique Human Norovirus Lineage with a Distinct HBGA Binding Interface.PLoS Pathog 11(7):e1005025.doi:10.1371/journal.ppat.1005025 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received:March12,2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Accepted: June 16,2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Editor: Jacques Le Pendu, University of Nantes INSERM,U892,FRANCE ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Published: July 6, 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Copyright: $\\circledcirc$ 2015 Liu et al.This is an open access article distributed under the terms of the Creative Commons Attribution License,which permits unrestricted use,distribution,and reproduction in any medium,provided the original author and source are credited. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Data Availability Statement: Coordinates and structure factors of the native OIF P protein and the complex with Lea trisaccharide can be found at Accession Numbers of 4RLZ and 4RM0,respectively, in the Protein Data Bank (www.pdb.org). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "These authors contributed equally to this work. \\* Ming.Tan@cchmc.org (MT); lixm@sun5.ibp.ac.cn (XL) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Funding:This work was supported by the National Natural Science Foundation of China (Grant No. 31400639 and 31170702)and the National Basic Research Program (973 Program) (No. 2011CB910304,2011CB915501,and 2014CBA02003) to ZR and XL.This study was also supported by US National Institute of Health (NIH) (RO1Al089634),the US Agriculture and Food Research Initiative Competitive Grants Program of ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Norovirus (NoV) causes epidemic acute gastroenteritis in humans,whereby histo-blood group antigens (HBGAs) play an important role in host susceptibility. Each of the two major genogroups (Gl and Gl) of human NoVs recognizes a unique set of HBGAs through a distinct binding interface that is conserved within a genogroup,indicating a distinct evolutionary path for each genogroup. Here,we characterize a Lewis a $( \\mathsf { L e } ^ { \\mathsf { a } } )$ antigen binding strain (OIF virus) in the Gll.21 genotype that does not share the conserved Gll binding interface, revealing a new evolution lineage with a distinct HBGA binding interface. Sequence alignment showed that the major residues contributing to the new HBGA binding interface are conserved among most members of the Gll.21, as well as a closely related Gll.13 genotype. In addition,we found that glycerol inhibits OIF binding to HBGAs,potentially allowing production of cheap antivirals against human NoVs.Taken together,our results reveal a new evolutionary lineage of NoVs selected by HBGAs,a finding that is important for understanding the diversity and widespread nature of NoVs. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Author Summary ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Human norovirus (huNoV) has diverged into two major lineages (GI and GI) selected by the host histo-blood group antigens (HBGAs). Both lineages further diverge into various sub-lineages (genotypes) that recognize different ABH and Lewis antigens through a common HBGA binding interface shared among strains within each genogroup. In this study, through X-ray crystallography of the P domain of a GI1.21 huNoV (OIF) we identified a unique lineage in GII consisting of GI.13 and GI1.21 genotypes that recognize HBGAs through a binding interface distinct from the GII conventional binding interface. While the mechanism remains unknown, our finding raises an alert on future emergence of new lineages by the same way via developing new receptor binding interfaces, as wellas further divergence of this new lineage into more sub-lineages recognizing different HBGAs, which ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "the USDA NIFA Award (2011-68003-30005),and Cincinnati Children's Hospital Medical Center (T1 and Innovation Fund) to XJand MT.The funders had no role in study design,data collection and analysis, decision to publish,or preparation of the manuscript ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Competing Interests:The authors have declared that no competing interests exist. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "may impact future epidemiology and strategies for disease control and prevention against huNoVs. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Noroviruses (NoVs) are a group of non-enveloped, single stranded,positive-sense RNA viruses that constitute the Norovirus genus in the family Caliciviridae.NoVs are genetically diverse, containing six genogroups (GI to GVI) with over 35 genetic genotypes. NoVs exhibit wide host tropisms causing diseases in various mammalians including human. Human NoVs (huNoVs), consisting of mainly GI and GII NoVs,are the most important viral cause of epidemic acute gastroenteritis in humans [1],claiming over 200,0oo lives each year [2]. NoVs are encapsulated by a protein capsid that is assembled by a single major structural protein, the capsid protein VP1.Each NoV capsid contains 180 copies of VP1,which are organized as a $\\mathrm { T } = 3$ icosahedron [3].VP1 is divided into the N-terminal shell(S)and the C-terminal protruding(P) domain, forming the interior shell and the multiple protrusions of the capsid, respectively [3]. The P domain can be further divided into Pl and P2 subdomains,corresponding to the head as the outermost portion of NoVs,and the leg of the protrusion,respectively. Compared with S and the P1 domain, the P2 domain exhibits the most variable sequences,which are responsible for strain-specific virus-host interactions and immune responses of NoVs. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "HuNoVs interact with histo-blood group antigens (HBGAs) in a strain-specific manner [4, 5]. HBGAs are fucose-containing glycans in specific sequences as determinants of human and animal blood types,including A/B/O,secretor (H),and Lewis (Le) or non-secretor (H negative) types. They are often present as parts of the carbohydrate moiety of cell surface glycoproteins and glycolipids with N- or O-linkage [6]. The biological roles of HBGAs in huNoV infection have been revealed by human volunteer challenge studies [7-9] and outbreak investigations [10,11] of huNoVs,in which an association between the host susceptibility and the HBGA binding patterns of huNoVs has been established. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Despite the recent breakthroughs in culturing huNoVs in BJAB cells [12],the use of huNoV reverse genetics system [13],and the development of an immunocompromised mouse model [14] for huNoV propagation,an effective cell culture system or an animal model for huNoVs remains lacking. As a result,our understanding on huNoV-HBGA interactions relies mainly on data from in vitro studies using various recombinant subviral particles as models of huNoVs. Virus-like particles (VLPs), which are produced by expression full-length VPl via a eukaryotic expression system,share similar structures and functions with the capsid of a native virion,and they have been used extensively as a huNoV surrogate. In addition, smaller P domain complexes that are self-assembled by expression of the huNoV P domain, including the P dimer [15],small P particle [16]and P particles [17,18],are also used for the study of huNoV-HBGA interactions. Knowledge on the structures of the HBGA binding interfaces has been derived mainly from crystal structures of P domain dimers in complex with HBGA oligo saccharides [19-26],by taking advantage of its small size $( { \\sim } 6 9 \\mathrm { k D a } )$ and easy production. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Structural analysis of known HBGA binding interfaces of huNoVs showed that GI and GII huNoVs recognize HBGAs through a conserved, genogroup-specific binding interface (reviewed in [27-29]),suggesting a strong selection of huNoV evolution by human HBGAs. On the other hand, the GI and GI HBGA-binding interfaces are distinct in the locations, structures, residue compositions,and HBGA binding modes [27-29], indicating a long separation of the two genetic lineages. In this study we report a new evolutionary lineage consisting of GII.13 and GII.21 genotypes within GI, which does not share the conventional GII HBGA ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "binding interface (Fig 1),but remains binding ability to HBGAs [5,30]. X-ray crystallography of the GI1.21 OIF virus P domain complexed with a $\\mathrm { L e ^ { a } }$ antigen revealed a new HBGA binding interface that is distinct from the GI conventional binding interface. Sequence alignment further showed that the amino acid composition of the new binding interface of OIF is highly conserved among all members of both GII.21 and a closely related GII.13 genotype. These results indicate that the genetic branch consisting of GII.21 and GII.13 developed along a novel evolutionary path that split from the mainstream lineage of GII NoVs selected by HBGAs. While many questions on the cause and mechanisms behind the emergence of this new lineage remain unanswered,our data point towards a continual occurrence of new lineages, which may significantly impact future epidemiology and prevention strategies against huNoVs. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Crystal structure of the native OlF P domain protein ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The crystal of the native P domain protein belongs to the $\\mathrm { P } 2 _ { 1 }$ space group,with two monomers forming a dimer in an asymmetric unit.The final refined structure of native P domain includes residues 223 to 527, with the exception of a loop region comprising residues $3 4 0 { \\sim } 3 4 2$ due to the lack of recognizable electron density.While the P domain of OIF virus shares only $\\sim 5 0 \\%$ sequence homology with other GII P domains of known crystal structures, it shows an arrangement of overall and secondary structures similar to those huNoV P proteins, including GII.4 VA387 [20],GII.10 Vietnam 026 [23],GII.9 VA207 [21],and GII.12 Hiro [23] with $\\mathbf { \\boldsymbol { C } } \\mathbf { \\boldsymbol { \\alpha } }$ atoms $\\mathrm { r . m . s . d . } = 0 . 8 5 \\mathring { \\mathrm { A } } , 0 . 8 3 \\mathring { \\mathrm { A } } , 0 . 8 2 \\mathring { \\mathrm { A } } ,$ and $0 . 6 2 \\mathring { \\mathrm { A } }$ ,respectively.Like other huNoVs,the OIF P domain has two moieties (Fig 2),with the inner portion or P1 subdomain (residues 223 to 272, and 416 to 527) constituting the leg,and the outer moiety or P2 subdomain (residues 273 to 415) forming the protruding head of the P dimer. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The two monomers of the OIF P dimer are related by a non-crystallographic two-fold axis, which forms the biologically active protrusion of the NoV capsid.The P dimer has a dimension of $5 5 \\mathrm { \\AA } { \\times } 6 4 \\mathrm { \\AA } { \\times } 7 0 \\mathrm { \\AA }$ with an extensively buried interface of $3 { , } 5 0 0 \\mathring { \\mathrm { A } } ^ { 2 }$ between two protomers, including hydrophobic and hydrophilic interacting residues from both P1 and P2 subdomains (Fig 2A). These extensive inter-molecular interactions contribute to the stability of the P dimer.Although the OIF P dimer shares similar global structures with the previously reported P dimers of other huNoVs,significant differences on the top surface are clearly seen, mainly due to the differences in the sequences,lengths,and conformations of several surface loops (Figs 3 and 4) (see below). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Top surface structure of the P dimer ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The P-loop of the OIF P dimer exhibits a unique conformation, taking a ${ \\sim } 9 0 ^ { \\circ }$ flip (Fig 3), which results in its extruding out of the flat surface and approaching the opposite protomer. This leads to greater exposure of the P-loop on the top surface of the P dimer compared to that in other GI huNoVs (Fig 4). As a result, the majority of the S-loop is covered in the OIF virus. Such structural rearrangements destroy the structural integrity of the conventional GII HBGA binding interfaces that are formed mainly by P- and S-loops (Figs 2 and 4). On the other hand, the B- and the T-loops also exhibit unique conformations (Fig 3),approaching to each other in closer proximity with the N-loop (Fig 4A).This special structural feature allows the formation of new HBGA binding interface (see below),formed by the B-,T- and N-loops,a scenario that is absent in all other known GII huNoV structures (Fig 4). The protrusions of the P- and Aloops directed towards the opposite protomer restructure the boundary between two P monomers into a saw tooth-like structure,in contrast to the straight line-like pattern in other GI NoVs (Fig 4, compare G and H).These different surface structures and conformations of OIF ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Genotype/strain Major components of the HBGA binding sitesGII.4 VA387: 338TREDGSTRAHKA 370DTNNDLQ 440GCSGYPNGII.1 Hawaii: 337RNPNNTCRAHDG 370WEESDLD 440LKGGTSDGII.2 SMV: 339RDK..ANRGHDA 378WQTDDLK 440LKGGYGNGII.3 Mexico: 351RNPDSTTRAHEA 382TESDDLD 447PSSGGRSGII.4 Lordsd: 337TRADGSTRAHKA 370DTNNDFE 440GCSGYPNGII.5 MOH: 337RNR..ANRAHDA 372WNTNDVE 438LKGGFGNGII.6 Florid: 340RDV..ATRAHEA 388D.SDDFN 450SAGGYGSGII.7 Leeds: 340RNK..ATRAQEV 375E.SQDFE 439PSSGGHEGII.8 Amster: 340RSSDNATRAHEA 372P.STDFS 437GAGGFTDGII.9 VA207 : 339RGPGDATRAHEA 371TSSNDFE 437GASGHTNGII.10 Erfurt: 347EGDLPANRAHEA 381WETQDVS 435SYSGALTGII.11 SW918: 350RNTDGQTRAHEA 381VESTDFH 446PSSGGVVGII.12 Wortle: 339RDHDNACRAHDA 371WEEDDVH 435LKGGVADGII.13 Fayett: 339DNVNVS.TGEAK 374SITEHVH 443GLQGQDAGII.14 M7: 338RDN..ATRAHDA 370SSSDDFD 436SAGGHTDGII.15 J23: 352GAGQNSNRAHFA 384FDTTDFQ 452FKGGYGEGII.16 Tiffin: 341TGTNPANRAHDA 373WDTEDLL 440LKGGHGDGII.17 CS-E1: 343GSNPNTTRAHEA 374STSTDFQ 440CAGGVSDGII.18 SW101: 360TTRDSAARAHEA 391TESTDIV 457LAGGTAAGII.19 SW170: 351RNNGDTTRSHEA 380STSDDFQ 449SSGGTVAGII.20 Lucken: 338RSPNNSTRAHPF 369VTDVDDL 435GCGGYPNGII.21 OIF: 337NPRASGDEAANS 371QVQGNIA 442VQ GGQPNGII.22 YURI: 346GSQGPANRAHDA 378WENNDIE 441LKGGHGN",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0018ada90274335e2be71e9b58da32643ffc6b00d9139a5da7016ed41a3e3d11.jpg",
+        "img_caption": [
+            "Fig1.Phylogeias)oss).(ftts [52].TeuneeticossfGdotssde.)ict representingeachfthegenotitcusoesiduatHBGidininteaceoseamocidsostutil conventionalHGAndingitefeareindicaditolodeterinfamsTeBaaccssoumbrsoftomaeqsre Y3860()U()4U4c)dale)()( (Leds),158d)4()41(t1(),() (M7),()()()()()5() AB083780.1 (YURI). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.ppat.1005025.g001 ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/31d427081220656f7dc6213047eb957702926cc0f9679363261904e7db38cee6.jpg",
+        "img_caption": [
+            "=ig2.Structures()ndercturesducnt(B)fosofOs.Overalrctureoepaio jreen)of OlFPprotein monomer (left)andits dimeric form (ribbon representation,green and pink)incomplex with $\\mathsf { L e } ^ { \\mathsf { a } }$ trisaccharide (stick representation. ndicatedyo)ghtccturatbdot.(B)trcdt "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "domainsfG7.6dgssandbiae ldenticaesdac theGl.21OFaiseded bluestars.eeostosteoteacedaacfresod indicatetidesaeoti similar residues. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.ppat.1005025.g002 doi:10.1371/journal.ppat.1005025.g003 doi:10.1371/journal.ppat.1005025.g004 ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/82ba1eea60bf089a805712804acd57a643880cfed0f18c1165850a288fdccc82.jpg",
+        "img_caption": [
+            "Fig3.ComparsfeafacofsitefieovsF); brown,VA387 (Gll.4); yellow, VA207 (GI.9); purple, Vietnam026 (VN026, GIl.10); green,Hiro (Gll.12). "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b53f1cdfe7450a040111854e76904028bd509c4d5f85c75dd6746b3a3e763ca.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "P dimer might also contribute to the difference in antigenic and immunological properties of GII.21 compared to other huNoV genotypes. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The HBGA binding interface ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "As shown in previous studies [5,30],the OIF virus that does not share the conventional GII HBGA binding interface only recognizes $\\mathrm { L e ^ { a } }$ antigen.To understand their binding mechanism, we co-crystallized the OIF P domain with $\\mathrm { L e ^ { a } }$ trisaccharide( $\\mathrm { T e } ^ { \\mathrm { a } }$ -tri).ThePdomain-Lea-tri complex was crystallized in $\\mathrm { P } 2 _ { 1 } 2 _ { 1 } 2 _ { 1 }$ space group,with one homodimer in each asymmetric unit. The $\\mathrm { L e ^ { a } }$ -tri is clearly visible in the 2Fo-Fc diference electron density map,with allthree rings of the Lea-tri well fitted into the map (Fig 5A). Two symmetric $\\mathrm { L e } ^ { \\mathrm { a } }$ binding interfaces are identified on the top surface of the P dimer (Fig 5B),each of which is formed by eleven residues from the P2 domain of a single protomer. Specifically,residues W296 from the B-loop, S354 and S357 from the N-loop,N392 and T395 from the T-loop form the depressed region at the bottom of the binding pocket (Fig 5C-5E). We noticed that, although S357 does not interact directly with the $\\mathrm { L e ^ { a } }$ -tri, it forms a strong hydrogen bond (2.6A) with the D297 to stabilize the side chain of the latter, ensuring the structural integrity of the binding pocket (Fig 5E and 5F). The surrounding wall of the binding pocket is built by D294 and Y295 from B-loop,T356 and E358 from N-loop,and N394 from T-loop (Fig 5C-5E). None of these residue compositions are conserved with those of the known GII HBGA binding interfaces that is contributed by residues from P-,S-,and A-loops (Figs 2 and 4).The OIF HBGA binding interface also differs completely from those of the GI huNoVs (Fig 4F).Thus,this OIF binding interface represents a previously unrecognized HBGA binding interface. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The $\\beta$ -Gal bindingsite ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The HBGA binding pocket interacts with $\\mathrm { L e ^ { a } }$ antigen through the $\\beta$ galactose ( ${ \\bf \\ddot { \\boldsymbol { \\beta } } } .$ Gal),one of the two saccharides of the precursor disaccharide,as the major binding saccharide (MaBS). The $\\beta$ -Gal is firmly held inside the binding pocket by nine direct hydrogen bonds formed by the side chains of S354, T356,N392,N394 and T395,in which the side chains of S354 from the bottom and N394 from the wall of the pocket form three strong hydrogen bonds $( 2 . 7 \\mathring \\mathrm { A }$ 0r 2.6 A) with $\\beta$ -Gal (Fig 5E and 5F).It is noteworthy that the side chain of W296 is oriented nearly in parallel with the $\\beta$ -Gal ring,which leads to a hydrophobic interaction/stacking with the latter to further support the interaction between $\\beta$ -Gal and the binding pocket.In addition,the side chains of D294,D297 and E358 form water-bridged hydrogen bonds with $\\beta$ -Gal via a common water molecule,contributing to the binding outcomes between the OIF P domain and the $\\mathrm { L e ^ { a } }$ antigen. Together, these amino acids form the $\\beta$ -Gal binding site that is the major component of the HBGA binding interface of OIF virus. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Le Fuc binding site ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "As a result of the strong interactions between the $\\beta$ -Gal and the binding pocket,the Lewis fucose (Le-Fuc,α-1,4-fucose) is orientated between the walls of N394 and E358. Only a single direct hydrogen bond $( 2 . 7 \\mathring \\mathrm { A } )$ forms between E358 and the Le-Fuc (Fig 5E and 5F) and ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/7608eddbcfd43656e0a1048a56b163178be09aac7781b24647970a07092b2717.jpg",
+        "img_caption": [
+            "Fig5IenfeOdteacicd)iof $\\mathsf { L e } ^ { \\mathsf { a } }$ trisaccharide.The omit map was created using the final structure of OlF P domain without ${ \\mathsf { L e } } ^ { \\mathsf { a } }$ trisaccharide,and the mesh map was contoured at 2.0 sigma(blueoiifbddi (B), Surface representation of the P dimer of OlF virus in complex with $\\mathsf { L e } ^ { \\mathsf { a } }$ trisaccharide (stick representation).(C and D), Close-ups of top (C) and side (D) viewofteeeeprtatscaosofsated "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$\\mathsf { L e } ^ { \\mathsf { a } }$ trisaccharide (stick representation)is also indicated.The individual saccharides of the ${ \\mathsf { L e } } ^ { \\mathsf { a } }$ -trisaccharidearecolored differently: $\\beta$ -Galactose,yellow; α- Fucoseupldeci with the $\\beta$ Galactose(Gal)anda-Fucose(Fuc)(Le-Fuc).Thehydrogenbondsareindicatedbydashedlines.Thewatermoleculeispresentedasdal (E)or a circled W (F). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.ppat.1005025.g005 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "therefore,the Le-Fuc is a minor binding saccharide (MiBS).As a result of the $\\beta$ -Gal/Le-Fucbinding pocket interactions,the N-acetyl- $\\beta$ -glucosamine $( \\beta { \\mathrm { - G l c N A c } } )$ ,the other saccharide of the precursor disaccharide, is pointing away from the surface of the binding interface. No hydrogen bond was observed between $\\beta$ -GlcNAc and the binding interface (Fig 5C-5F). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Validation of the HBGA binding interface ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Wefurther investigated the roles of the eleven residues that form the HBGA binding interface of the OIF virus using single-point mutagenesis (Figs 5 and 6). Compared with the wild type P particle of OIF virus that binds strongly to $\\mathrm { L e } ^ { \\mathrm { a } }$ oligosaccharide,but not other oligosaccharides representing different HBGA types, including precursors (Fig 6A), mutant P particles with a single mutation at one of those amino acids to an alanine lost the binding to $\\mathrm { L e ^ { a } }$ antigen completely (Fig 6C-6L) or nearly completely (Fig 6B). These results confirmed the importance of these residues for the structural and functional integrity of the HBGA binding interface. In addition, except for a slight increase in binding to the A antigen of the E358A mutant, no changes in binding to other HBGA types were observed for these interface mutants. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Glycerol binds the HBGA binding pocket of the OlF P domain ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Analysis of the native OIF P domain structure revealed that a glycerol molecule occupies the HBGA binding pocket, which was clearly visible from the 2Fo-Fc omit map (Fig 7A). Originally, glycerol was part of the protease solution acting as a stabilizer during the cleavage of the GST-P domain fusion protein. The glycerol molecule is held firmly inside the HBGA binding pocket by eight direct hydrogen bonds between the hydroxyl groups of the glycerol and the side chains of N392,N394 and T395 from the T-loop,T356 and the main chain of S357 from the N-loop (Fig 7B and 7C).Interestingly, the glycerol molecule resembles partial structures (C2, C3,and C4 with their hydroxyl groups) of the $\\beta$ -Gal that contributes the vast majority of the interactions with the binding pocket (Compare Fig 5F with Fig 7C),thus explaining the observed interactions. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Glycerol blocks the interaction of OlF P domain with the ${ \\mathsf { L e } } ^ { \\mathsf { a } }$ antigen ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We found that inclusion of glycerol in any process of purification or crystallization would prevent the binding of the Lea antigen to the same binding pocket. The later success in identification of HBGA binding interface (Fig 5) of OIF virus using the P protein without glycerol proved our assumption that glycerol occupies the HBGA binding pocket and blocks further interaction of the binding pocket with the $\\mathrm { L e } ^ { \\mathrm { a } }$ antigen. Co-crystallization followed by structural determination using the P protein in the presence or absence of glycerol confirmed our observation.We then performed ELISA binding assays to test if the monomeric glycerol $( 1 - 1 0 \\% )$ can block binding of polyvalent $\\mathrm { L e ^ { a } }$ -tri-PAA (polyacrylamide) conjugates ( $( 2 \\mu \\mathrm { g / m L } )$ to OIF P particles $( 4 \\mu \\mathrm { g } / \\mathrm { m L } )$ ). We did not observe any detectable blocking effects (Fig 7D), indicating that the free glycerol can block binding of free,monomeric $\\mathrm { L e ^ { a } }$ -tri, but cannot inhibit the binding of polyvalent $\\mathrm { L e ^ { a } }$ -tri molecules to the HBGA binding pocket. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1.0 OD A (WT) 1.0 OD B (D294A) 1.0 O C (Y295A)   \n0.8 0.8 0.8   \n0.6 0.6 0.6   \n0.4 0.4 0.4   \n0.2 0.2 0.2   \n0.0 上 0.0 0.0   \nHBGAS HBGAS HBGASB OD D (W296A) OD E (D297A) OD F (S354A)   \n1.0 1.0 1   \n0.8 0.8 0.8   \n0.6 0.6 0.6   \n0.4 0.4 0.4   \n0.2 0.2 0.2   \nA B GA d02B e (HGA 1 OD G (T356A) 1.0 OD H (S357A) 1.0 OD I (E358A)   \n0.8 0.8 0.8   \n0.6 0.6 0.6   \n0.4 0.4 0.4   \n0.2 0.2 0.2 由   \nHA全   \n1.0OD J (N392A) 1.0 K (N394A) 1.0D L (T395A)   \n0.8 0.8 0.8   \n0.6 0.6 0.6   \n0.4 0.4 0.4   \n0.2 0.2 0.2   \n0.0 B2 0.0 A B 0.0 室   \n(HBGAs) (HBGAs) (HBGAs) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.ppat.1005025.g006 doi:10.1371/journal.ppat.1005025.g007 ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/cde6f69d6300c8356cfc6aca8727efe94143ecce5e069706e4797ae310ebd23b.jpg",
+        "img_caption": [
+            "Fig7. Glycerol binds the HBGA binding interface of OIF virus. (A),(Fo-Fc) omit electron density map of glycerol.The omit map was created and contoured as described in Fig 5A.(Band C),The interacting networks between the side chains of the amino acids ofthe HBGA binding interface of OIF virus with the glycerol molecule.The hydrogen bonds are indicated by dashed lines.Carbon,oxygenand nitrogenatoms are in cyan,red and blue,respectively.(D) Blocking effects of monomeric glycerol $( 0 - 1 0 \\%$ ,X-axis) against the binding (Y-axis) of the polyvalent ${ \\mathsf { L e } } ^ { \\mathsf { a } }$ -tri-PAA (polyacrylamide) conjugates $( 2 \\mu \\ g / \\mathrm { m L } )$ to OIF P particles (4 ug/mL) via ELISA-based blocking assays. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Components: B-loop P-loop N-loop GII.21-0IF: 289 SNPTRDY\\*\\* 336Q-NPRASGDEAANSQ 354 \\*STSEKFT GII.21-Sal: 291 SNPTSDYWD 338 Q-NPRTSGDEAANSH 356 SSTSEKFT GII.13-Fay: 291 VANNGDNWD 338 QDNVNVSTGEAKNAK 357 STTSGKFT GII.13-173: 291 VANSGDNWD 338 QDNVRENTGEAKNAK 357 STTSGKFT GII.17-CSE: 292 ADVDGSHDD 339 QRNVGSNPN-TTRAH 357 STTSSQFV GII.4-387: 291 THIAGS--H 336 Q---TTREDGSTRAH 352 STGSVHFT \\*\\*\\*\\* ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "A-loop \\* \\*\\* T-loop S-loop   \nGII.21-0IF: 373 QGN-IASNQ 392 NGNT---PF 435 VPSVQGG--Q   \nGII.21-Sal: 375 QGD-IASNQ 394 NGNT---PF 437 VPSVQGG--Q   \nGII.13-Fay: 376 ITEHVHPNQ 395 NENT---PF 438 VPCVQGLQGQ   \nGII.13-173: 376 ITEDVRPNQ 395 NENT---PF 438 VPCVQGLQGQ   \nGII.17-CSE: 376 TSTDFQLQQ 395 ESGH---EF 438 VPCA-GG-VS   \nGII.4-387:372 TNNDLQTGQ 391 DGNNHQNEP 434 MPGC-SG-YP \\* \\*\\* ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.ppat.1005025.g008 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Conservation of the HBGA binding pocket of the Gll.13/Gll.21 lineage ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The unique HBGA binding interface of the GII.21 OIF virus prompted us to examine whether this is a common feature of this specific huNoV lineage. Representative P domain sequences of GII.13/21 huNoVs were aligned and compared with those of GI.17, which is genetically closest to the GII.13/21 lineage (Fig 1A),as well as with that of GII.4, which is the most prevalent genotype.We focused on the surface loops that form the OIF HBGA binding pocket (B-,T, and N-loops) and the conventional GI binding interface (P-,S- and A-loops) (Fig 8). We found that most members of the GII.13/21 lineage share the major residues that form the novel HBGA binding pocket, indicating a new evolutionary selection has occurred among members of this genetic lineage.In contrast, GII.17 retained the conventional GII HBGA binding interfaces, indicating that the occurrence of the OIF-like binding pocket in the GI.13/21 lineage was after the evolutionary divergence with the GII.17 genotype. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "GI and GII NoVs constitute the vast majority of huNoVs,and they were shown previously to interact with HBGAs through two distinct, genogroup-specific HBGA binding interfaces [31]. The two HBGA binding interfaces difer in their locations on the top of the protruding dimer, their residue composition as well as their interacting modes with HBGAs,but are highly conserved among genotypes within each of the two genogroups (reviewed in [27-29,31]). It is therefore suggested that GI and GI NoVs must split from their common ancestor a long time ago during evolution into two independent evolutionary lineages,from which the two genogroup specific HBGA binding interfaces evolved individually. It is noteworthy that both binding interfaces recognize most, if not all,of the same repertoire of the polymorphic human HBGAs despite their distinct features,indicating that HBGA is an important selection factor in the evolution of huNoVs. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The presence of the two different HBGA binding interfaces in huNoVs raises the question as to whether such an event may occur again during evolution, especially within the same genogroup. We noted earlier on that a genetic branch that consists of GII.13 and GII.21 genotypes does not share the residue composition of the HBGA binding interface of the mainstream GI NoVs, but maintains HBGA binding function [5,30], suggesting that this GI1.13/21 lineage may interact with HBGAs through an unknown binding interface.By performing X-ray crystallography of the native P domain of the GI.21 OIF virus and its complex with Lea trisaccharide ( $\\mathrm { { \\ L e ^ { a } } }$ -tri), we found that GII.21 huNoVs recognize HBGAs via a previously unrecognized binding interface.The newly identified HBGA binding interface is spatially, structurally,and compositionally distinct from the well-studied conventional GII and GI HBGA binding interface. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The conventional GII HBGA binding interface is formed by three surface loops,i.e. the Pand A-loops from the P2 subdomain and the S-loop from the P1 subdomain. The binding interface is located directly on the boundary between the two P protomers,which makes each binding interface bivalent contributed by residues from both P protomers.In the GII.21 OIF virus, however,the conventional HBGA binding interface has been clearly abolished by the rearrangement of the three loops.Through a 90 degree flip,the P-loop extends to the opposite protomer, covering the vast majority of the S-loop and moving away from the A-loop. Nevertheless, this dramatic structural rearrangement of the OIF P dimer also helps to reconstruct a new HBGA binding interface,formed by other three surface loops, i.e.the B-,N-and Tloops from the P2 subdomain of a single P protomer.We also noted that the binding interface corresponding to that of OIF virus does not exist in the mainstream GII NoVs,because the B-and T-loops are far away from each other in those GII NoVs. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In addition to the location, residue composition,and structure, the two GII HBGA binding interfaces are also different in their binding modes to HBGAs.The general binding modes of huNoVs have recently been summarized [28,29]. GI NoVs bind HBGAs via a Gal (theα- or the $\\beta$ -Gal), while GI NoVs bind via a Fuc (the α-1,2/3/4 Fuc) as the major binding saccharide (MaBS). The OIF virus interacts with the $\\mathrm { L e ^ { a } }$ antigen via the $\\beta$ -Gal as the MaBS,distinct from the convention GI,but similar to the GI binding interfaces.In addition, the OIF- $\\mathrm { \\cdot } \\mathrm { L e } ^ { \\mathrm { a } }$ interaction relies mainly on the $\\beta$ -Gal that contributes 1l out of total 12 hydrogen bonds,including 9 direct ones. The $\\alpha$ -Fuc (Le-Fuc) contributes only one hydrogen bond, while the $\\beta$ -GlcNAc does not participate directly in binding.This “upright\"binding mode is also different from the “flat\" mode observed in the conventional GII binding interfaces,which often includes two saccharides as the minor binding saccharides (MiBS), which usually contribute three or more interacting bonds. Again, the binding mode of OIF virus to HBGA appears to be more similar to that of GI NoV than to GII NoV [28,29]. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Our crystal structures of the HBGA binding interface of OIF virus complexed with $\\mathrm { L e ^ { a } } .$ -tri reveal why OIF virus does not bind H,A,and B antigens. The $\\mathrm { ~ H ~ }$ epitope $( \\alpha \\mathrm { - } 1 , 2 \\mathrm { F u c } )$ and the A/ B epitope $\\left( \\mathsf { \\alpha } \\mathrm { - } \\mathrm { G a l N A c / G a l } \\right)$ are linked to the $2 ^ { \\circ }$ and ${ 3 ^ { \\circ } }$ hydroxyl groups of $\\beta$ -Gal, respectively [29].However,both the $2 ^ { \\circ }$ and ${ \\boldsymbol { 3 } } ^ { \\prime }$ hydroxyl groups of the $\\beta$ -Gal are located at the bottom of the binding pocket (Fig 5). Any addition of an extra saccharide at one of these positions would cause serious steric hindrance,and thus prevent the binding of H,A,and B antigens to the binding pocket of the OIF virus.This binding mode may also explain the absence of changes of the binding specificity through the eleven single residue mutations at the amino acids forming the OIF binding interfaces (Fig 6).This HBGA binding interface and its binding mode appear not to provide much flexibility to different HBGAs.Thus,this scenario of OIF virus differs clearly from observed flexibility of the conventional GI binding interface that is capable to bind more than one HBGA type and that can change binding specificity through a single residue mutation in or around the binding interface [32-36]. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The formation of the new HBGA binding interface in the GII 13/21 lineage also raises questions as to how the conventional GII HBGA binding interface has been abandoned,and how a new interface was formed.The huge structural variation of the conventional GII binding interface in OIF virus may represent the accumulation of multiple gradual changes over time, following the acquisition of the novel binding interface and loss of binding function of the old one and HBGA selection. The movements of the B-,T- and N-loops to form the new HBGA binding interface can be monitored through the huNoVs with known crystal structures (Fig 4). The three loops are far away in GI.1 (Norwalk virus), GII.4 (VA387), GI.9 (VA207), GII.12 (Hiro),but are closer sterically in GII.10 (VietnamO26).Thus,movements of these loops are the structural basis for the formation of the functional HBGA binding interface found in OIF virus,although how such a functional binding interface was created in detail remains to be elucidated. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "How the GII.13/21 lineage with the new HBGA binding interface split from the GII.17 genotype with the conventional one remains unclear. The capsid proteins (VPls) of the GI1.13/ 21 lineage share generally ${ \\sim } 7 5 \\%$ sequence identify with that of the GII.17 NoVs and these differences concentrate in their P domains that shows only ${ \\sim } 6 2 \\%$ sequence identity. This great sequence difference indicates that the two lineages have split from each other for a long time, which makes an attempt to reconstruct their common ancestor dificult. We speculate that the $\\mathrm { G I I . 1 7 P }$ domain must have similar surface topology and loop organization to those of the mainstream GI NoVs due to the fact that the $\\mathrm { G I I . 1 7 N o V }$ retains the conventional binding interface.In contrast, the GI1.21 OIF shows very different surface topology and loop arrangements compared with the other GI NoVs,leading to the formation of the new HBGA binding interface. Unfortunately, the lack of the crystal structures of a GI1.17 P domain prevents our further understanding on the evolutionary scenarios of the separation between the GII.13/ GII.21 lineage and the GI.17 genotype. Thus,future study to solve the structures of a GI1.17 P domain is of significance. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "While the conservation of the conventional GI and GI HBGA binding interfaces indicates that there was selection pressure imposed by HBGAs functioning as attachment factors or receptors,the conservation of the HBGA binding interface of the GII.13/21 lineage (Fig 8) also indicates that new selection pressure of HBGA for the new binding interface has been established.Thus,it is plausible to expect that the conserved binding interface of the GII.13/21 lineage will continue to be maintained, just like the GI and GII binding interfaces. It would be important to show whether different strains of the $\\mathrm { G I I } . 1 3 / 2 1$ lineage can also recognize different HBGAs, just as GI and GII NoVs do.It was noted that Y295 in the binding pocket of GII.21 OIF is replaced by an asparagine (N) in GI1.13 (Fig 8) that is highly conserved among most known GII.13 isolates [37]. It would be of significance to assess how this mutation could affect the HBGA binding profiles of GII.13 NoVs.In addition, N392 is another important residue for the structural and functional integrity of the GI.21 OIF binding interface, which was confirmed by the loss of the binding function through a N392A mutation (Fig 6J). This residue is also conserved among GII.13 NoVs (N395,Fig 8). However, we noted an exception,a GI1.13 isolate called Kashiwa 47 (BAC05515) has an N395D mutation [37] and the recombinant VLPs of this isolate did not bind human saliva samples and tested synthetic HBGAs [38], consistent with our result ofN392A mutation in GII.21 OIF. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Members of the GI.13/21 lineage revealed increased prevalence in the recent years. Surveillance indicates that the GI.13 and GII.21 huNoVs continue to cause outbreaks in the USA (CaliciNet http://www.cdc.gov/norovirus/reporting/calicinet/data.html),Europe (NoroNet, http://www.rivm.nl/dsresource?objectid $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ rivmp:248062&type $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ org&disposition $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ inline), and other countries [37,39,40],indicating that the GI.13/21 lineage is of clinical importance. It was also noted that,after being silent for the past decades, GI.17 NoVs became dominant in southern China in the past winter [41],overwhelmed GII.4 NoVs.Thus,continual surveillance of the epidemiological trends of the GII.13/17/21 lineage will be necessary in the future. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The fact that a new functional carbohydrate binding interface can be created through evolution raises the possibility of zoonotic transmission of NoVs.A new binding interface could recognize different host factors or receptors among human populations or animal species.The currently known host tropisms of different human and animal NoVs may be examples of such possibility. The genetic branch of porcine NoVs, consisting of the GII.11, GII.18 and GI1.19 genotypes may be another example. Since these porcine NoVs share the conventional GIl binding interface, even though they do not infect humans,it would be important to determine what host factor that porcine NoVs may recognize and understand how such molecule(s) interact with the conserved GI binding interface of porcine NoVs. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Another important finding of this study is the strong interaction of the HBGA binding pocket with a glycerol molecule,a fact mirrored by its inhibition of OIF P domain interaction with $\\mathrm { L e ^ { a } }$ antigen. Thus, glycerol, a small,low cost compound, may be a promising antiviral candidate against infection of the GII.13/21 NoVs.The glycerol molecule shares the structure of the $\\beta$ -Gal that is involved in the interaction to the binding pocket.A similar scenario was also observed in a previous study showing that a citrate molecule occupies the binding pocket of a $\\mathrm { G I I . 1 0 N o V }$ (Vietnam026)[42] and importantly,does so with similar binding affinity observed between HBGAs and GII.10 P domains. However,our results showed that the free, monomeric glycerol cannot inhibit the interaction of the OIF P particle with multivalent $\\mathrm { L e } ^ { \\mathrm { a } }$ -tri-PAA conjugates, most likely due to avidity effects.Therefore, further investigations will be necessary to develop polymers that contain multivalent structures of glycerol molecules as antiviral candidates. Most importantly,our study should provide a solid structural basis and a model for future studies. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In summary, we have identified and proved the genetic branch of GI1.13/21 as new evolutionary lineage with a novel binding interface for HBGAs.We have elucidated the structural basis for the abolishment of the conventional GI HBGA binding interface and the development of the new binding site.We also showed that the new HBGA binding interface is conserved among members of the GII.13/21 lineage,indicating that a new selection pressure has been asserted through the interaction with HBGAs. Finally,we have identified glycerol as a potential low-cost compound to become an antiviral candidate for future development.In conclusion,our data provide new insights into the complex interactions between the diverse huNoV and the polymorphic HBGAs. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "MaterialsandMethods ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Protein expression and purification ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "OIF(Operation Iraqi Freedom) virus is a GII.21 huNoV that was isolated from a huNoV outbreak in a US military deployed to Iraq in 2003.The cDNA sequences encoding the P domain of the OIF virus (accession number: AY675554; residues 220 to 527) was cloned into pGEX6P-1 expression vector between the EcoR Iand Xho I sites of the MCS. The OIF P domain was expressed as a GST fusion protein in Escherichia Coli BL 21 (DE 3) upon induction with 0.5 mM Isopropyl $\\beta$ -D-1-Thiogalactopyranoside (IPTG) at $1 6 ^ { \\circ } \\mathrm { C }$ for 18 hours, at an $\\mathrm { \\ O D } _ { 6 0 0 ~ \\mathrm { n m } }$ of 0.6-0.8.The recombinant protein was purified using glutathione-sepharose 4B (GE Healthcare Life Sciences) following the manufacturer's guidelines.The GST-P domain fusion protein was cleaved on the resin by Prescission Protease (GE Healthcare Life Sciences) at $4 ^ { \\circ } \\mathrm { C }$ overnight, and the P proteins were further purified by Resource Qanion ion exchange (GE),using a buffer containing $2 0 ~ \\mathrm { m M }$ HEPES (pH7.5), with $\\mathrm { \\Delta P }$ domain protein eluted at approx. $1 0 0 \\mathrm { m M N a C l }$ ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Crystallization of native P domain protein and its complex with Lea trisaccharide ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The purified native P domain protein was dialyzed against buffer containing $2 0 \\mathrm { m M }$ HEPES (pH 7.5), $1 5 0 \\mathrm { m M N a C l }$ and $5 \\%$ (v/v) glycerol, before it was concentrated to $1 3 \\mathrm { m g / m L }$ for crystallization. Native P domain crystals were grown by hanging-drop vapor diffusion method, with the crystallization droplet containing $1 \\mu \\mathrm { L }$ protein and $1 \\mu \\mathrm { L }$ reservoir solution containing 0.1 MMES $\\mathrm { ( p H } 6 . 5 )$ ,0.25 M $( \\mathrm { N H _ { 4 } } ) _ { 2 } \\mathrm { S O _ { 4 } } ,$ （2 $1 8 \\%$ (w/v) polyethylene glycol (PEG) 3350.The crystals were grown at $1 6 ^ { \\circ } \\mathrm { C }$ and harvested after approx.one week. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "While performing the crystallization experiments,we observed that the presence of glycerol inhibited the co-crystallization of the OIFP domain- $\\mathrm { L e ^ { a } }$ complex. The P protein used for cocrystallization with $\\mathrm { L e ^ { a } }$ -trisaccharide was purified with identical solutions (see above),but in the absence of glycerol. The $\\mathrm { L e ^ { a } }$ trisaccharide $\\mathrm { . \\dot { \\beta } }$ -Gal-(1,3)-( $\\alpha$ -Fuc-(1,4))- GlcNAc] (J&K, China) was dissolved in double distilled water and prepared as $2 0 ~ \\mathrm { m M }$ solution,and then mixed with an equal volume of native $\\mathrm { \\Delta P }$ domain protein ( $\\mathrm { 2 6 \\ m g / m L ) }$ ,and incubated at $4 ^ { \\circ } \\mathrm { C }$ for 1 hour before crystallization.The final reservoir for the growth ofcomplex crystals contained $0 . 2 5 \\mathrm { M }$ （202 $( \\mathrm { N H _ { 4 } } ) _ { 2 } \\mathrm { S O 4 }$ 0 $1 8 \\%$ (w/v) PEG 3350.Micro-seeding technique was used to aid the growth of complex crystal with native crystal seeds 16 hours after the seting of crystallization droplets. OIF P domain- $\\mathrm { \\cdot } \\mathrm { L e } ^ { \\mathrm { a } }$ complex crystals were harvested in three days. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Data collection and processing, structure determination and refinement ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The cryo-protectants of crystals of unliganded P domain and P domain-Lea complex were the corresponding reservoir solutions complemented with $1 5 \\%$ (v/v) PEG 400.Crystals were briefly soaked in the cryo-protectant for 5 seconds before being mounted for diffraction test. The diffraction data for native crystal were collected at the beamline 41U of SPRING8 (Japan) at a wavelength of $1 . 0 0 0 0 \\mathring \\mathrm { A }$ while the $\\mathrm { L e } ^ { \\mathrm { a } }$ complex data were collected at rotating-anode X-ray source MicroMax-007/Satun 944 HG/Varimax HF (Institute of Biophysics, CAS,Beijing) at the wavelength of 1.5418 A. Diffraction data were processed, scaled,and merged using the HKL-20o0 program package [43]. Data collection statistics are summarized in Table 1. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The native crystal structures were solved by molecular replacement method using Phaser of CCP4 suite [44] and the GII.9 NoV VA207 P domain (PDB ID:3PUN) structure as the initial search model. Automatic structure building and refinement were carried out using Phenix program [45] and manual adjustment was done using the program COOT [46] with guidance of (2Fo-Fc)and (Fo-Fc) electron density maps.Water molecules were added at the final round of ",
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/d41a218faeace35e8a7e3ec1fe54835ea44b0ffcb0148c705b85b2ce335a5c5c.jpg",
+        "table_caption": [
+            "Table 1. Statistics of data-collection. "
+        ],
+        "table_footnote": [
+            "a.Values in parentheses correspond to the shell of highest resolution. b. $\\mathsf { R } _ { \\mathsf { m e r g e } } = \\Sigma \\mathsf { i }$ |i-<|>|/∑ili,whereliand $< 1 >$ are the observed and mean intensity of related reflections with common indices h,k,and I. "
+        ],
+        "table_body": "<html><body><table><tr><td>Parameters</td><td>Native Protein</td><td>Complex with Lea-tri</td></tr><tr><td>Space group</td><td>P21</td><td>P212121</td></tr><tr><td>Wavelength (A)</td><td>1.0000</td><td>1.5418</td></tr><tr><td>Resolution (A)a</td><td>50.00-1.19 (1.21-1.19)</td><td>50.00-2.00 (2.07-2.00)</td></tr><tr><td>Cell dimensions (A)</td><td></td><td></td></tr><tr><td>a, b, c (A)</td><td>49.5, 112.7, 59.7</td><td>54.9, 84.2, 124.7</td></tr><tr><td>α, β, γ (°)</td><td>90, 108.5, 90</td><td>90, 90, 90</td></tr><tr><td>No. of Measured reflections</td><td>645932</td><td>216182</td></tr><tr><td>No. of Unique reflections</td><td>187824</td><td>37781</td></tr><tr><td>Completeness (%)a</td><td>94.9 (86.9)</td><td>94.7 (68.4)</td></tr><tr><td>Redundancy a</td><td>3.4 (3.3)</td><td>5.7(2.6)</td></tr><tr><td>/ ()a</td><td>25.2 (4.1)</td><td>17.3 (3.7)</td></tr><tr><td>R merge a, b</td><td>0.056 (0.316)</td><td>0.073 (0.236)</td></tr></table></body></html>",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.ppat.1005025.t001",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "structure optimization at (Fo-Fc) electron density map peaks $( > 2 . 5 \\sigma )$ where they can form stable hydrogen bonding with nearby amino acid residues. The phases and structures of the P domain- $\\mathrm { \\cdot } \\mathrm { L e } ^ { \\mathrm { a } }$ complex were solved using the final refined structure of native P domain protein as model. Structure refinement statistics are summarized in Table 2.The final structure ",
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/10ec18456530b4588a019f5122fdd23027b096e3849ed3b1eb4ee6d6df11283e.jpg",
+        "table_caption": [
+            "Table2. Statistics of structure refinement. "
+        ],
+        "table_footnote": [
+            "a.Rwork = ∑||Fobsl-|Fcall/∑|Fobsl, $\\mathsf { R } _ { \\mathsf { f r e e } } = \\Sigma \\mathsf { T } |$ |Fobsl-lFcall/∑T|F $\\mathsf { o b } ^ { \\mathsf { S } | }$ ,where $\\mathsf { F } _ { \\mathrm { o b s } }$ and $\\mathsf { F } _ { \\mathsf { c a l } }$ are observed and calculated structure factors,respectively. b. $\\mathsf { R } _ { \\mathsf { f r e e } }$ ,Tisa randomly selected test dataset $( 5 \\% )$ of total reflections and was set aside before structure refinement. "
+        ],
+        "table_body": "<html><body><table><tr><td>Parameters</td><td>Native Protein</td><td>Complex with Lea-tri</td></tr><tr><td>No. of reflections in working set</td><td>178343</td><td>35812</td></tr><tr><td>No. of reflections in test set</td><td>9430</td><td>1884</td></tr><tr><td>Rworka</td><td>0.140</td><td>0.171</td></tr><tr><td>Rfreeb</td><td>0.160</td><td>0.209</td></tr><tr><td>Root mean square deviation (RMSD)</td><td></td><td></td></tr><tr><td>Bond lengths (A)</td><td>0.005</td><td>0.007</td></tr><tr><td>Bond angles(°)</td><td>1.131</td><td>1.097</td></tr><tr><td>Average B factors(A²)</td><td></td><td></td></tr><tr><td>Total</td><td>13.8</td><td>21.2</td></tr><tr><td>Protein</td><td>11.6</td><td>20.5</td></tr><tr><td>Ligand</td><td>15.2 (glycerol)</td><td>25.3</td></tr><tr><td>Solvent</td><td>25.0</td><td>26.7</td></tr><tr><td>Ramachandran plot (%)</td><td></td><td></td></tr><tr><td>Favored</td><td>97.7%</td><td>95.9%</td></tr><tr><td>Allowed</td><td>2.3%</td><td>4.1%</td></tr><tr><td>Disallowed</td><td>0.0%</td><td>0.0%</td></tr><tr><td>PDB ID</td><td>4RLZ</td><td>4RM0</td></tr></table></body></html>",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "validation was done with the PROCHECK [47], with no residue found at disallowed region of the Ramachandran plot. Structural analysis was performed using EdPDB [48] and Pymol [49]. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Production of OlF P particles containing single mutations ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Single residue mutations were introduced to the HBGA binding site of the OIF P domain by site-directed mutagenesis using the expression plasmid of the wild type OIF P domain as template. Mutagenesis was carried out using the QuickChange Site-Directed Mutagenesis Kit (Agilent Technology, CA) and corresponding primer pairs containing the mutation sites. After confirmation of mutations,the P proteins were expressed as P particles and purified using an E.coli system (BL21) as described elsewhere [31,50,51]. The GST-P domain fusion proteins were cleaved by thrombin (GE Healthcare Life Sciences) to allow the P proteins to self-assemble into P particles.P particle formation was monitored by gel filtration through a size-exclusion column (Superdex 200,GE Healthcare Life Sciences) powered byan AKTA-FPLC system (model 920,GE Healthcare Life Sciences,Piscataway,NJ) followed by SDS-PAGE electrophoresis.TheP particles showed a molecular weight of $8 3 0 \\mathrm { k D a }$ .None of the mutations in this study afected the formation of P particles,as confirmed byFPLC (data not shown).All mutant P particles can be well detected by the hyperimmune serum against norovirus VLPs that was used in the HBGA binding and blocking assays (below). ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "HBGA binding and blocking assays ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "HBGA assays were carried out as described previously [5]. Briefly,a panel of synthetic oligosaccharides (GlycoTech, Gaithersburg, MD) representing types A, B,H1,H2, H3, $\\mathrm { L e ^ { a } }$ $\\mathrm { L e } ^ { \\mathrm { b } }$ ,Lex, $\\mathrm { L e ^ { \\mathrm { y } } }$ ,sialyl $\\mathrm { L e ^ { a } }$ ,and sialyl $\\mathrm { L e } ^ { \\mathrm { x } }$ as well as the disaccharides representing the type 1 and type 2 precursors of HBGAs at $2 \\mu \\mathrm { g } / \\mathrm { m L }$ were coated on microtiter plates at $4 ^ { \\circ } \\mathrm { C }$ overnight. After blocking with $5 \\%$ (w/v) non-fat milk,the coated oligosaccharides were incubated with the afnity-column purified OIF P particles $( 1 0 \\mathrm { n g / \\mu L } )$ for 60 minutes at $3 7 ^ { \\circ } \\mathrm { C }$ .The bound OIF P particles were detected as described previously,using an in-house hyperimmune rabbit serum against various huNoVs [5,30]. For glycerol blocking assays, the OIF P particles $( 4 \\mu \\mathrm { g / m L } )$ were mixed with the monomeric glycerol $( 1 - 1 0 \\% )$ and incubated with the coated polyvalent $\\mathrm { L e ^ { a } }$ -triPAA (polyacrylamide) conjugates ( $( 2 \\mu \\mathrm { g / m L } )$ . The bound OIF P particles were detected as described above. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Accession numbers ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The cDNA sequences encoding the P domain of the OIF virus has been submitted to GenBank previously with an accesson number of AY675554. Coordinates and structure factors of the native OIFP protein and the complexwith $\\mathrm { L e ^ { a } }$ trisaccharide have beendeposited in theProtein Data Bank (www.pdb.org) with the pdb accession codes of 4RLZ and 4RM0,respectively. The GenBank accession numbers of the sequences that were used in Figs l and 8 were shown in their figure legends. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "We thank the staff of the beamline 41U at the SPING8 in Japan for technical assistance during X-ray difraction data collection. We also thank the Core Facility in the Institute of Biophysics, Chinese Academy of Sciences (CAS) for technical support. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Conceived and designed the experiments: MT ZR XJ XL. Performed the experiments: WL YC MX MT YY. Analyzed the data: WL YC MT. Contributed reagents/materials/analysis tools: MT ZR XJ XL. Wrote the paper: WL YC MT ZR XJ XL. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "References   \n1. Payne DC,Vinje J,SzilagyiPG,Edwards KM,Staat MA,Weinberg GA,etal.Norovirus and medically attended gastroenteritis in U.S.children.The New England journal of medicine.2013;368(12):1121- 30.doi: 10.1056/NEJMsa1206589 PMID:23514289.   \n2. Patel MM,Widdowson MA, Glass Rl, Akazawa K, Vinje J,Parashar UD.Systematic iterature review of role of noroviruses in sporadic gastroenteritis.Emerg Infect Dis.2008;14(8):1224-31.Epub 2008/08/ 06.PMlD: 18680645.doi: 10.3201/eid1408.071114   \n3. Prasad BV,HardyME,DoklandT,BelaJ,Rossmann MG,Estes MK.X-ray crystallographic structure of the Norwalk virus capsid. Science.1999;286(5438):287-90.PMlD:10514371.   \n4. Huang P,Farkas T,Marionneau S,Zhong W,Ruvoen-ClouetN, MorrowAL,etal.Noroviruses Bind to HumanABO,Lewis,and Secretor Histo-Blood Group Antigens: Identification of 4 Distinct Strain-Specific Patterns.J Infect Dis.2003; 188(1):19-31. PMID: 12825167.   \n5. Huang P,Farkas T,Zhong W,Tan M,Thornton S,Morrow AL,et al. Norovirus and histo-blood group antigens: demonstration of a wide spectrum of strain specificities and classification of two major binding groups among multiple binding patterns.JVirol.2005;79(11):6714-22.Epub 2005/05/14.doi: 79/11/ 6714[pi] doi: 10.1128/JVI.79.11.6714-6722.2005 PMID: 15890909; PubMed Central PMCID: PMC1112114.   \n6. Ravn V,Dabelsteen E.Tissue distribution of histo-blood group antigens. Apmis.20oo;108(1):1-28. PMID:10698081   \n7. Frenck R,Bernstein Dl,Xia M, Huang P,Zhong W,ParkerS,etal.Predicting Susceptibilityto Norovirus Gll.4 by Use of a Challenge Model Involving Humans.JInfect Dis.2012; 206(9):1386-93.doi: 10.1093/ infdis/jis514 PMID: 22927452.   \n8. HutsonAM,Atmar RL,Graham DY,Estes MK.Norwalk virus infection and disease isassociated with ABO histo-blood group type.J Infect Dis.2002;185(9):1335-7.PMID:12001052.   \n9. Lindesmith L,Moe C,Marionneau S,Ruvoen N, Jiang X,LindbladL,etal. Human susceptibilityand resistance to Norwalk virus infection. Nat Med. 2003; 9(5):548-53. PMlD: 12692541.   \n10. Tan M,Jin M, Xie H, Duan Z, Jiang X,Fang Z.Outbreak studies of a Gll-3 anda Gll-4 norovirus revealed anassociation between HBGA phenotypes and viral infection. Journal of medical virology. 2008;80(7):1296-301. PMID:18461617.doi: 10.1002/jmv.21200   \n11. Nordgren J,Nitiema LW,Ouermi D,Simpore J,Svensson L. Host genetic factors affect susceptibility to norovirus infections in Burkina Faso.PLoS One.2013; 8(7):e69557.doi:10.1371/journal.pone. 0069557 PMID:23894502;PubMed Central PMCID:PMC3716642.   \n12. Jones MK,Watanabe M, Zhu S,Graves CL, Keyes LR,Grau KR,etal. Enteric bacteria promote human and mouse norovirus infection of B cels.Science.2014; 346(6210):755-9.doi: 10.1126/science. 1257147 PMID: 25378626.   \n13. Katayama K,Murakami K,Sharp TM,Guix S,Oka T,Takai-TodakaR,etal.Plasmid-based human norovirus reverse genetics system produces reporter-tagged progeny virus containing infectious genomic RNA.Proceedings of the National Academy of Sciences of the United States of America.2014; 111 (38):E4043-52.doi: 10.1073/pnas.1415096111 PMID:25192933; PubMed Central PMCID: PMC4183323.   \n14. Taube S,Kolawole AO, Hohne M,Wilkinson JE, Handley SA,Perry JW,etal.Amouse model for human norovirus.mBio.2013; 4(4):e00450-13.doi: 10.1128/mBio.00450-13 PMID: 23860770; PubMed Central PMCID:PMC3735125.   \n15. Tan M,Hegde RS,Jiang X.The P domain of norovirus capsid protein forms dimer and binds to histoblood group antigen receptors.J Virol. 2004;78(12):6233-42.PMID: 15163716.   \n16. Tan M,Fang PA,Xia M,Chachiyo T,Jiang W,Jiang X.Terminal modifications of norovirus Pdomain resulted ina new type of subviral particles,the small Pparticles.Virology.2011;410(2):345-52.Epub 2010/12/28.doi: S0042-6822(10)00735-X [pi] doi: 10.1016/j.virol.2010.11.017 PMID: 21185050; PubMed Central PMCID: PMC3064930.   \n17. Tan M,Fang P,Chachiyo T,Xia M, Huang P,Fang Z,etal.NoroviralPparticle: structure,function and applications in virus-host interaction.Virology.2008;382(1):115-23. PMlD:18926552.doi: 10.1016/j. virol.2008.08.047   \n18. Tan M,Jiang X.The p domain of norovirus capsid protein forms a subviral particle thatbinds to histo blood group antigen receptors.J Virol.2005; 79(22):14017-30.PMID:16254337.   \n19.Bu W,MamedovaA,TanM,XiaM,Jiang X，HegdeRS.Structuralbasis forthereceptorbindingspecificity of Norwalk virus.JVirol.2008; 82(11):5340-7.Epub 2008/04/04.doi: JVl.00135-08 [pi] doi: 10. 1128/JVI.00135-08 PMID: 18385236.   \n20.CaoS,LouZ,TanM,ChenY,LiuY,Zhang Z,etal.Structuralbasis forthe recognitionof bloodgroup trisaccharides by norovirus.JVirol.2007;81(11):5949-57.Epub 2007/03/30.doi: JVI.00219-07[pi] doi: 10.1128/JVI.00219-07PMID:17392366; PubMed Central PMCID: PMC1900264.   \n21. Chen Y,TanM,XiaM,HaoN, Zhang XC, Huang P,etal.Crystalographyofa lewis-binding norovirus, elucidationof strain-specificityto the polymorphic human histo-blood group antigens.PLoS pathogens. 2011;7(7):e1002152.Epub 2011/08/04.doi: 10.1371/journal.ppat.1002152 PPATHOGENS-D-10- 00601 [pij].PMID: 21811409; PubMed Central PMCID: PMC3141052.   \n22. Choi JM, HutsonAM,Estes MK,PrasadBV.Atomic resolutionstructuralcharacterizationof recognition of histo-blood group antigens by Norwalk virus.Proceedings ofthe National Academy of Sciences of the United Statesof America.2008;105(27):9175-80.Epub 2008/07/05.doi: 0803275105 [pi] doi: 10 1073/pnas.0803275105 PMID:18599458.   \n23. Hansman GS,Biertumpfel C,GeorgievI, McLellan JS,Chen L, Zhou T,etal. Crystal Structures of Gll.10 and Gl.12 Norovirus Protruding Domains in Complex with Histo-Blood Group Antigens Reveal Details fora Potential Site of Vulnerability.JVirol.2011; 85(13):6687-701.Epub 2011/04/29.doi: JVI.00246-11[pii]doi:10.1128/JVI.00246-11PMID:21525337.   \n24.Kubota T,Kumagai A,ItoH,Furukawa S,SomeyaY,Takeda N,etal.Structural basis for the recognition of Lewis antigens by genogroup I norovirus.J Virol. 2012; 86(20):11138-50.doi: 10.1128/JVl. 00278-12 PMID:22855491; PubMed Central PMCID: PMC3457155.   \n25.Shanker S, Czako R, Sankaran B, Atmar RL, Estes MK,Prasad BV.Structural analysis of determinants of histo-blood group antigen binding specificity in genogroup Inoroviruses.JVirol.2014; 88(11):6168- 80.doi: 10.1128/JVI.00201-14 PMID: 24648450; PubMed Central PMCID:PMC4093872.   \n26. Hao H,Chen Y, Xia M,Tan M,LiuW, Guan X,etal. Crystal structures of Gl.8 Boxer P dimers in complex with HBGAs,a novel evolutionary path selected by the Lewis epitope.Protein and Cel.2014;in press.   \n27.Tan M,Jiang X. Norovirus gastroenteritis,carbohydrate receptors,and animal models.PLoSpathogens.2010; 6(8):e1000983.Epub 2010/09/25. doi: 10.1371/journal.ppat.1000983 PMID: 20865168; PubMed Central PMCID: PMC2928792.   \n28.Tan M,Jiang X. Norovirus-host interaction: Multi-selections by human histo-blood group antigens. Trends in microbiology.2011;19(8):382-8.Epub 2011/06/28.doi: S0966-842X(11)00108-9 [pi] doi: 10.1016/j.tim.2011.05.007 PMID: 21705222; PubMed Central PMCID: PMC3149758.   \n29. Tan M,Jiang X.Histo-blood group antigens:acommon niche for norovirusand rotavirus.Expert Rev Mol Med. 2014; 16:e5. doi: 10.1017/erm.2014.2 PMID: 24606759.   \n30.Tan M,Zhong W,Song D,Thornton S,Jiang X.E.coli-expressed recombinant norovirus capsid proteins maintain authentic antigenicity and receptor binding capability.Journal of medical virology.2004; 74(4):641-9. PMID: 15484274.   \n31.Tan M, Xia M,Chen Y,BuW, Hegde RS, MelerJ,etal. Conservation of carbohydrate binding interfaces: evidence of human HBGA selection in norovirus evolution.PLoS One.2009;4(4):e5058.Epub 2009/04/02.doi: 10.1371/journal.pone.0005058 PMID:19337380; PubMed Central PMCID: PMC2660415.   \n32. Chen YT,TanM,XiaM, HaoN,Zhang XJC, Huang PW,etal.Crystalography ofa Lewis-Binding Noro virus,Elucidation of Strain-Specificity to the Polymorphic Human Histo-Blood Group Antigens.Plos Pathogens. 2011; 7(7).doi: e100215210.1371/journal.ppat.1002152. PMID:WOS:000293339300040.   \n33.Tan M, Xia M, Cao S, Huang P,Farkas T, Meler J,etal. Elucidation of strain-specific interaction of a GIl-4 norovirus with HBGAreceptors bysite-directed mutagenesis study.Virology.2008;379(2):324 34. doi: 10.1016/j.virol.2008.06.041 PMID: 18692213   \n34.de RougemontA, Ruvoen-ClouetN,Simon B,Estienney M,Elie-Cail C,AhoS,etal. Qualitative and quantitative analysis of the binding of Gll4 norovirus variants onto human blood group antigens. J Virol. 2011;85(9):4057-70.Epub 2011/02/25.doi: JVl.02077-10 [pi]doi: 10.1128/JVi.02077-10 PMID: 21345963;PubMed Central PMCID:PMC3126233.   \n35.LindesmithLC,Donaldson EF,Lobue AD,Cannon JL,Zheng DP,VinjeJ,etal.Mechanisms of Gl.4 norovirus persistence in human populations.PLoS Med.2008; 5(2):e31.PMID:18271619.doi: 10. 1371/journal.pmed.0050031   \n36. Jin M,Tan M, Xia M,Wei C, Huang P,Wang L,etal. Strain-specific interaction of a Gll.10 Norovirus withHBGAs.Virology.2015;476:386-94.doi: 10.1016/j.virol.2014.12.039 PMID:25591173.   \n37.Hoa-Tran TN,NakagomiT,Sano D,Sherchand JB,Pandey BD,Cunlife NA,etal.Molecularepidemiology of noroviruses detected in Nepalese children with acute diarrhea between 2Oo5 and 2011: increase and predominance of minor genotype Gl.13.Infection,genetics and evolution: journal of molecular epidemiologyand evolutionary genetics in infectious diseases.2015;30:27-36.doi: 10. 1016/j.meegid.2014.12.003 PMID: 25497351.   \n38. Shirato H,Ogawa S,Ito H,Sato T,KameyamaA,Narimatsu H,etal.Noroviruses Distinguish between Type 1 and Type 2 Histo-Blood Group Antigens for Binding.J Virol. 2008; 82(21):10756-67.doi: 10. 1128/JVI.00802-08 PMID: 18701592   \n39. Yahiro T, Wangchuk S,Wada T,Dorji C,Matsumoto T, Mynak ML,et al. Norovirus Gll.21 in Children with Diarrhea, Bhutan.Emerg Infect Dis.2015;21(4):732-4.doi: 10.3201/eid2104.141856 PMID: 25811105; PubMed Central PMCID:PMC4378497.   \n40. Bruggink LD,Dunbar NL,MarshallJA.Norovirus genotype diversity associated with gastroenteritis outbreaks in aged-care facilities.Epidemiology and infection.2015:1-5.doi:10.1017/ S095026881500031X PMID:25721658.   \n41.Jing L,LimeiS,LinF,FengY,Yanling M,JiaqianL,etal.Gastroenteritis Outbreaks Caused byNorovirus Gll.17,Guangdong Province,China,2014-2015.Emerging Infectious Disease journal.2015;21 (7). doi: 10.3201/eid2107.150226   \n42. Hansman GS,Shahzad-Ul-Hussan S,McLellan JS,Chuang GY,GeorgievI,Shimoike T,etal. Structural basis for norovirus inhibition and fucose mimicryby citrate.JVirol.2012; 86(1):284-92.doi: 10. 1128/JVI.05909-11 PMID:22031945; PubMed Central PMCID:PMC3255897.   \n43. Otwinowski Z, Minor W.Processing of X-ray diffraction data collected in oscilation mode.Method Enzymol. 1997; 276:307-26. doi: 10.1016/S0076-6879(97)76066-X PMID:WOS:A1997BH42P00020.   \n44. Bailey S.The Ccp4 Suite—Programs for Protein Crystallography. Acta Crystalogr D.1994; 50:760-3. PMID:WOS:A1994PK56800011.   \n45. Adams PD,Grosse-Kunstleve RW,Hung LW,loerger TR, McCoy AJ,Moriarty NW,etal.PHENIX: building new software forautomated crystallographic structure determination.Acta Crystallogr D.2002; 58:1948-54. doi: 10.1107/S0907444902016657 PMID:WOS:000178745000009.   \n46. EmsleyP, Cowtan K.Coot: model-building tools for molecular graphics.Acta Crystallogr D.2004; 60:2126-32. doi: 10.1107/S0907444904019158 PMID:WOS:000225360500002.   \n47. Laskowski RA, MacArthur MW,Moss DS,Thornton JM.PROCHECK: a program to check the stereochemical quality of protein structures.Journal of Applied Crystallography.1993;26(2):283-91.   \n48. Zhang XJ, Matthews BW.EDPDB: a multifunctional toolfor protein structure analysis.Journal of Applied Crystallography.1995;28(5):624-30.   \n49. DeLano WL.The PyMOL molecular graphics system.2002.   \n50. Tan M,Fang P,Chachiyo T, Xia M, Huang P,Fang Z,etal. Noroviral P particle: Structure,function and applications in virus-host interaction.Virology.2008;382:115-23.Epub 2008/10/18.doi: S0042-6822 (08)00579-5 [pii] doi: 10.1016/j.virol.2008.08.047 PMID: 18926552.   \n51. Tan M,Jiang X.The p domain of norovirus capsid protein forms a subviral particle that binds to histoblood group antigen receptors.Journal of Virology.2005;79(22):14017-30.PMID:16254337.   \n52.KronemanA,VegaE,Vennema H,Vinje J,WhitePA,HansmanG,etal.Proposalforaunified norovirus nomenclature and genotyping. Archives of virology.2013;158(10):2059-68.doi:10.1007/s00705- 013-1708-5 PMID:23615870. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    }
+]

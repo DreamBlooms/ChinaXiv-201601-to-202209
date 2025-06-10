@@ -1,0 +1,223 @@
+# 会仙喀斯特湿地3种典型植物叶片碳同位素 $( \ S ^ { 1 3 } \mathrm C )$ 特征及其指示意义
+
+沈育伊1，张德楠²，徐广平2.3，滕秋梅²，周龙武1，黄科朝²，牟芝熠4，孙英杰2\*（1.广西壮族自治区中国科学院广西植物研究所，广西 桂林 541006；2.广西壮族自治区中国科学院广西植物研究所，广西喀斯特植物保育与恢复生态学重点实验室，广西桂林 541006；3．中国地质科学院岩溶地质研究所，自然资源部/广西岩溶动力学重点实验室，广西 桂林 541004;
+
+4.广西师范大学生命科学学院，桂林541004）
+
+摘要：为探讨会仙喀斯特湿地不同生长环境下植物叶片碳（C）、氮（N）、磷（P）、稳定碳同位素 $( \delta ^ { 1 3 } \mathrm { C } )$ 0特征及其生态学指示意义，以挺水植物芦苇、浮水植物水葫芦和沉水植物金鱼藻为研究对象，分析了3种典型不同生活型植物叶片的 $\delta ^ { 1 3 } \mathrm { C }$ 特征及种间和微生境的差异，并基于植物碳同位素与碳酸酐酶显著正相关的二端元模型，估算了植物利用光合作用固定的碳酸氢根离子（ $\mathrm { ~ H C O } _ { 3 } ^ { - }$ ）的碳量。结果表明：3种植物叶片 $\delta ^ { 1 3 } \mathrm { C }$ 的变化范围为 $- 2 8 . 4 7 \% 0 \sim - 2 1 . 6 9 \% 0$ ，平均值为 $- 2 4 . 8 3 \text{‰}$ ，不同生活型植物间 $\delta ^ { 1 3 } \mathrm { C }$ 存在差异，金鱼藻 $>$ 水葫芦 $>$ 芦苇。植物 $\delta ^ { 1 3 } \mathrm { C }$ 值与叶片C、N和 $\mathrm { ~ \bf ~ P ~ }$ 元素含量间呈显著正相关，与C/N、C/P和N/P 呈显著负相关关系，与底泥的有机质、速效氮、总氮、速效磷和总磷含量呈显著正相关。会仙喀斯特湿地3种不同生活型植物叶片N/P 平均值为10.34，表现出植物受N、P共同影响的特征。 $\delta ^ { 1 3 } \mathrm { C }$ 的变化特征，指示了3种水生植物可能通过增加磷利用效率来促进低水分利用率环境下的碳的合成，通过提高植物水分利用效率的策略来代偿较低的氮素利用效率。芦苇光合作用固定 ${ \mathrm { H C O } } _ { 3 } ^ { - }$ 碳量为 $1 5 9 . 6 0 \ \mathrm { t } { \cdot } \mathrm { a } ^ { - 1 } { \cdot } \mathrm { k m } ^ { - 2 }$ ，水葫芦为10.80$\mathrm { t } { \cdot } \mathrm { a } ^ { - 1 } { \cdot } \mathrm { k m } ^ { - 2 }$ ，金鱼藻为 $9 . 2 4 \ : \mathrm { t } { \cdot } \mathrm { a } ^ { - 1 } { \cdot } \mathrm { k m } ^ { - 2 }$ ，平均值为 $5 9 . 8 8 \ \mathrm { t \cdot a ^ { - 1 } \cdot k m ^ { - 2 } }$ 。会仙喀斯特湿地植物的不同生活型、光合作用途径和生长微环境，是影响叶片 $\delta ^ { 1 3 } \mathrm { C }$ 变化的主要因素。
+
+关键词：喀斯特湿地，水生植物，营养元素，稳定碳同位素 $( \delta ^ { 1 3 } \mathbf { C } )$
+
+中图分类号：Q178.1；P897.2 文献标识码：A 文章编号：
+
+# Characteristics and significance of $\mathbf { \delta ^ { 8 } } ^ { 1 3 } \mathbf { C }$ of three typical aquatic plants in Huixian karst wetland, Guilin
+
+SHEN Yuyi1， ZHANG Denan²， XU Guangping2,3， TENG Qiumei²， ZHOU Longwu²,
+
+HUANG Kechao²，MOU Zhiyi4， SUN Yingjie2\*
+
+(1.GuangxiIstituteofBotanyGuangxiZhuangAutonomousRegionandChineseAcademyofSiences,Guilin4o6Guangxi,
+
+收稿日期：2021-01-14
+
+China;2.Guangxi KeyLaboratoryofPlant ConservationandRestorationEcologyin Karst Terrin,Guangxi Instituteof Botany,Guangxi Zhuang Autonomous Regionand Chinese Academy ofSciences,Guilin 541006,Guangxi,China; 3. Key Laboratory of Karst Dynamics, MNR & GZAR, Institute of Karst Geology, CAGS,Guilin,541004, China; 4. College ofLife Sciences, Guangxi Normal University, Guilin 541004, China)
+
+Abstract: In order to understand characteristics and significance of carbon (C), nitrogen (N),phosphorus (P)and stable carbon isotope composition $( \delta ^ { 1 3 } \mathrm { C } )$ in plant leaves of three typical aquatic plants under different growth environment, three life forms aquatic plants including emerging plant (Phragmites australis)，emersion plant (Eichhornia crassipes） and submerged plant (Ceratophyllum demersumin）of the Huixian karst wetland are selected.The diferences of carbon isotope compositions of interspecies and different habitat conditions were studied. The percentage of $\mathrm { H C O } _ { 3 } ^ { \mathrm { ~ - ~ } }$ uptake from water by aquatic photosynthesis was estimated using the double-meta model. The results showed that: (1） the foliar $\delta ^ { 1 3 } \mathrm { C }$ of three diffirent plant life forms ranged from （204号 $- 2 8 . 4 7 \% 0 \sim - 2 1 . 6 9 \% 0$ with an average of $- 2 4 . 8 3 \text{‰}$ .There were significant differences between species,and its the sequence of relative value was Ceratophyllm demersum,Eichhornia crassipes and Phragmites australis. Among the three types of plants,Phragmites australis and Ceratophyllum demersum show the lowest and highest （20 $\delta ^ { 1 3 } \mathrm { C }$ , respectively. (2) For three types of halophytes, $\delta ^ { 1 3 } \mathrm { C }$ showed significantly positive correlations with foliar C, N, and P. The $\delta ^ { 1 3 } \mathrm { C }$ was also positively correlated with the contents of organic mater, available nitrogen, total nitrogen,available phosphorus and total phosphorus of sediment.All types of halophytes showed a negative correlation among $\delta ^ { 1 3 } \mathrm { C }$ ，C/N，N/P,and C/P. The foliar N/P ratio of halophytes was 10.34， indicating a co-limitation by $\mathrm { \Delta N }$ and $\mathrm { \bf ~ P }$ for halophyte growth in the Huixian karst wetlands. These results suggested that three halophytes were adapted to environment through a high water use eficiency at the expense of decreased nitrogen use efficiency,and might improve C sequestration by increasing phosphorus use eficiency in the habitat of low water availability.The value of $\mathrm { H C O } _ { 3 } ^ { \mathrm { ~ - ~ } }$ carbon sequestration by photosynthesis was $1 5 9 . 6 0 \ \mathrm { \ t } { \cdot } \mathbf { a } ^ { - 1 } { \cdot } \mathrm { k m } ^ { - 2 }$ for Phragmites australis, $1 0 . 8 0 \ \mathrm { t } { \cdot } \mathbf { a } ^ { - 1 } { \cdot } \mathbf { k } \mathbf { m } ^ { - 2 }$ for Eichhornia crassipes, $9 . 2 4 \mathrm { t } \cdot \mathrm { a } ^ { - 1 } \cdot \mathrm { k m } ^ { - 2 }$ for Ceratophyllum demersum,with a mean value of $5 9 . 8 8 \ \mathrm { t } { \cdot } \mathrm { a } ^ { - 1 } { \cdot } \mathrm { k m } ^ { - 2 }$ . Different plant life forms,pathways of carbon fixation in photosynthesis and micro-environment were the important factors on affecting plant foliar $\delta ^ { 1 3 } \mathrm { C }$ in the Huixian karst wetland.
+
+Key words: Karst wetland， aquatic macrophytes， nutrient elements， stable carbon isotopic
+
+水生植物是湿地生态系统的重要组成部分，在物质和能量循环中起着关键的作用。在植物生命活动中，叶片作为最为活跃的同化器官之一（蔡庆生，2014），其营养元素特征既能反映植物的生长和代谢特点，又与其生长环境的肥力状况息息相关（黄亮等，2003），关于叶片营养元素的研究常被用于植物营养水平、土壤养分供给状态以及生态系统元素的生物地球化学循环等研究（罗绪强等，2014；段春燕等，2018）。碳（C）是植物生长中重要的元素，水生植物的稳定碳同位素（ $( \delta ^ { 1 3 } \mathrm { C } )$ ，记录了植物生长过程中外界环境的信息变化，可揭示碳的生物地球化学循环过程（Vanetal.，2018）。稳定碳同位素已被广泛应用于研究水生生态系统演变和营养传递规律等方面（Dijkstraetal.，2016；韩琼和王宝利，2017；刘金亮等，2020）。会仙喀斯特湿地与漓江水系构成了“桂林之肾”，对维护漓江大水系体系—“六江四库四湖一湿地"的生态安全意义重大，发挥着重要的生态功能，研究湿地水生植物叶片的稳定碳同位素特征，对深入揭示喀斯特湿地水生植物与环境间的相互关系具有重要指示意义。
+
+近年来，利用稳定碳同位素技术，开展植物个体与环境间关系的研究逐渐增多，如林清和王绍令（2001)对沉水植物龙须眼子菜与环境之间的关系进行了分析，黄亮等（2003）对长江中游若干湖泊水生植物体内碳氮磷及 $\delta ^ { 1 3 } \mathrm { C }$ 的分布进行研究，章程等（2013）研究了桂林会仙水生植物 $\delta ^ { 1 3 } \mathrm { C }$ 特征并对固碳量进行了估算，陈清等（2015）对天津沼泽湿地芦苇叶片 $\delta ^ { 1 3 } \mathrm { C }$ 特征及其环境影响因素进行了研究，以上研究主要集中于碳同位素在各湿地中的应用及其环境指示意义。而植物叶片 $\delta ^ { 1 3 } \mathrm { C }$ 值在不同环境条件下会发生变化，并可能在植物种内和种间呈现差异性（Sprent etal.，1996）。 $\delta ^ { 1 3 } \mathrm { C }$ 与氮（N）、磷（P）元素化学计量学的关系，也可能会因不同物种和不同区域环境而呈现不同（Zhouetal.，2016；Ma etal.，2018）。
+
+随着人类活动的增加，会仙喀斯特湿地水体富营养化、湿地面积缩小等问题突出，影响着湿地生态系统的功能（徐广平等，2019；滕秋梅等，2021）。一般沉水植物的叶子生长在水面之下，而浮水植物和挺水植物的叶子生长在水面之上，因而不同生活型植物生长的微环境有所不同。目前会仙喀斯特湿地不同生活型植物叶片 $\delta ^ { 1 3 } \mathrm { C }$ 值指示的植物水分利用效率（water use efficiency，WUE）与氮磷养分利用效率（nitrogenuse efficiency，NUE；phosphorus use eficiency，PUE）间的权衡关系尚不明确。而且，根据水生植物的 $\delta ^ { 1 3 } \mathrm { C }$ 值，亦可指示水生植物光合作用固定碳酸氢根离子（ ${ \mathrm { H C O } } _ { 3 } ^ { - }$ ）的比例和固碳量。鉴于此，本研究以会仙喀斯特湿地挺水植物芦苇（Phragmites australis）、浮水植物水葫芦（Eichhorniacrassipes）和沉水植物金鱼藻（Ceratophyllumdemersum）为研究对象，探讨不同生长环境下典型水生植物叶片 $\delta ^ { 1 3 } \mathrm { C }$ 特征与微环境间的关系、 $\delta ^ { 1 3 } \mathrm { C }$ 的季节性变化趋势，及其光合作用固定碳酸氢根离子（ $\mathrm { \cdot H C O _ { 3 } } ^ { - }$ ）的比例，旨在为丰富桂林会仙喀斯特湿地生态学和生态系统服务功能等的研究提供基础数据，为广西桂林会仙喀斯特国家湿地公园保护和建设提供科学依据。
+
+# 1研究区概况
+
+会仙喀斯特湿地位于广西桂林市临桂县会仙镇，东至雁山区，西至四塘乡， $2 5 ^ { \circ } 1 ^ { \prime } 3 0 ^ { \prime \prime } { \sim } 2 5 ^ { \circ } 1 1 ^ { \prime } 1 5 ^ { \prime \prime } \mathrm { N } .$ $1 1 0 ^ { \circ } 8 ^ { \prime } 1 5 " \sim 1 1 0 ^ { \circ } 1 8 ^ { \prime } 0 0 ^ { \prime \prime } \mathrm { E }$ ，总面积约为 $1 2 0 \mathrm { k m } ^ { 2 }$ 。气候属亚热带季风气候，年平均气温为 $1 6 . 5 { \sim } 2 0 . 5 \ \mathrm { ^ \circ } \mathrm { C }$ ，年降水量为 $1 ~ 8 9 0 . 4 ~ \mathrm { m m }$ 。土壤以红黄壤和红壤为主，湿地植物种类较多，且生长茂盛，主要建群种有华克拉莎（Cladiumchinense）、长苞香蒲群落（Typha angustata）、金鱼藻等（孙英杰等，2018）。从湿地沿岸到湖心区域分布有挺水植物芦苇、浮水植物水葫芦和沉水植物金鱼藻3种代表性的优势水生植物。湿地试验采样区水环境特征见表1。
+
+表1会仙喀斯特湿地试验区域水环境特征  
+Table1 Hydrochemical characteristics in test area of the Huixian karst wetland   
+
+<html><body><table><tr><td>指标 Index</td><td>均值 Mean value</td><td>范围Range</td></tr><tr><td>pH值</td><td>7.22</td><td>7.13~7.36</td></tr><tr><td>K+ (mg·L-1)</td><td>3.83</td><td>3.58~4.05</td></tr><tr><td>Na+ (mg·L-1)</td><td>0.76</td><td>0.68~0.83</td></tr><tr><td>Ca²+ (mg·L-1)</td><td>62.76</td><td>58.24~70.14</td></tr><tr><td>Mg2+(mg·L-1)</td><td>4.00</td><td>3.88~4.11</td></tr><tr><td>Cl (mg·L-1)</td><td>6.21</td><td>5.99~6.35</td></tr><tr><td>HCO3 (mg·L-1)</td><td>172.01</td><td>168.52~175.19</td></tr><tr><td>NO3 (mg·L-1)</td><td>2.98</td><td>2.35~3.27</td></tr><tr><td>SO4²- (mg·L-1)</td><td>17.39</td><td>16.98~18.06</td></tr></table></body></html>
+
+# 2 材料与方法
+
+# 2.1样地设置和样品的采集
+
+2013年9月，沿水位梯度不同生长环境，在会仙喀斯特湿地从河岸附近到湖心深水区设置采样区，按生活型选取代表性的挺水植物芦苇、浮水植物水葫芦和沉水植物金鱼藻3个不同植物群落，每个群落类型各选择3块 $2 0 \mathrm { m } \times 2 0 \mathrm { m }$ 的样地。在样地中采集生长状况良好、个体大小接近的芦苇，水葫芦和金鱼藻3种植物各10株，将每个植株按东西南北四个方向的健康叶混匀作为一个样品。采集的样品清洗干净后放入无菌密封袋中带回实验室处理。在各样地中，采用直径 $5 \mathrm { c m }$ 的土壤取样器（土钻），随机采集3个湿地底泥沉积物样品混匀为一个样品，装入无菌密封袋后带回实验室。 $\delta ^ { 1 3 } \mathrm { C }$ 同位素季节变化的样品分别于2013年3月（春季）、6月（夏季）、9月（秋季）和12月（冬季）采集。
+
+# 2.2元素含量及 $\delta ^ { 1 3 } \mathbf { C }$ 同位素的分析
+
+土壤样品分析参考孙英杰等（2018）的方法，有机质（OM）采用重铬酸钾氧化法，全氮（TN）通过元素分析仪（德国Vario ELIII）测定，全磷（TP）用浓硫酸-高氯酸消煮，钼锑抗比色法（美国 Agilent8453紫外-可见分光光度计），速效氮（AN）用碱解扩散法，速效磷（AP）用碳酸氢钠浸提，钼锑抗比色法。植物整株生物量的计算，随机采集水生植物，将实测样方面积的生物量，转换为单位面积的生物量 $\left( \mathbf { g } \cdot \mathbf { m } ^ { - 2 } \right)$ （滕秋梅等，2021）。将带回的植物样品洗净后，用自来水冲洗干净，再用去离子水淋洗2-3次，自然晾干， $1 0 5 ^ { \circ } \mathrm { C }$ 杀青 $3 0 \mathrm { { m i n } }$ 后， $5 0 \ \mathrm { ^ \circ C }$ 烘箱至恒重，分别粉碎后过80目尼龙筛，并混合均匀，装入无菌密封袋中备分析用。叶片碳和氮含量的测定：采用无机酸淋洗的方法对叶片无机碳进行清除，然后在德国 ElmentarVarioELII元素分析仪上测定；叶片磷含量的测定：采用 $\mathrm { H N O _ { 3 } } { \cdot } \mathrm { H C l O _ { 4 } }$ 消化，在 ICP-AES（IRIS Intrepid IIXSP）上测定，回收率在 $91 \%$ 以上；叶片钙（Ca）含量的测定：样品经 $\mathrm { H N O _ { 3 } - H F - H C l O _ { 4 } }$ 微波辅助消解后（意大利MileStone ETHOSE 型微波消解仪），利用PE Elan6000 型电感耦合等离子体质谱仪（ICP-MS，Perkin-Elmer，USA）测定。 $\delta ^ { 1 3 } \mathrm { C }$ 同位素采用DELTAplus/XL 型稳定同位素比值质谱计（FinniganMAT公司）进行测定，碳同位素参考PDB 国际标准，测定精度 $\pm 0 . 2 \text{‰}$ 。
+
+# 2.3植物利用 $\mathbf { H C O _ { 3 } } ^ { - }$ 比例的估算
+
+参考吴沿友等（2011）和李瑞等（2015）利用水生植物 $\delta ^ { 1 3 } \mathrm { C }$ 值与碳酸酐酶间的关系建立的二端元模型，来估算植物利用 ${ \mathrm { H C O } } _ { 3 } ^ { - }$ 作为无机碳源进行光合作用大小比例，计算公式如下：
+
+$$
+f B = ~ \left( \delta T { - } \delta A \right) / ~ \left( \delta B { - } \delta A \right)
+$$
+
+式中： $\delta T$ 为试验区水生植物叶片的 $\delta ^ { 1 3 } \mathrm { C }$ 值， $\delta A$ 为基本上不利用 ${ \mathrm { H C O } } _ { 3 } ^ { - }$ 作无机碳源、碳酸酐酶活力极低的植物叶片的 $\delta ^ { 1 3 } \mathrm { C }$ 值； $\delta B$ 为极少利用二氧化碳作碳源而以 ${ \mathrm { H C O } } _ { 3 } ^ { - }$ 为主要无机碳源的 $\delta ^ { 1 3 } \mathrm { C }$ 值； $f B$ 则为植物利用的 ${ \mathrm { H C O } } _ { 3 } ^ { - }$ 占无机碳源比例。
+
+基于试验区水生植物 $\delta ^ { 1 3 } \mathrm { C }$ 值的特征，通过植物碳同位素与碳酸酐酶显著正相关的二端元模型（吴沿友等，2011），结合参考章程等（2013）的估算方法，该研究选择不利用碳酸氢根的悬铃木叶片 $\delta ^ { 1 3 } \mathrm { C } \left( - 3 1 . 5 6 \% \right)$ （20作为无机碳源的 $\delta A$ ，选择3种植物叶片中的最大值 $- 1 9 . 1 9 \text{‰}$ 作为 $\delta B$ 端元，因此， $f B$ 的计算公式修正为： $f$ $B = \left( \delta T \substack { + 3 1 . 5 6 } \right)$ / $_ { - 1 9 . 1 9 + 3 1 . 5 6 }$ ）。通过 $f B$ 和水生植物的固碳量，计算出水生植物通过光合作用固定的 ${ \mathrm { H C O } } _ { 3 } ^ { - }$ 的碳量。
+
+# 2.4数据处理
+
+数据统计在Mcrosoft Excel 2007上进行，采用 SPSS19.0统计软件进行不同植物间元素含量的单因素方差分析。
+
+# 3结果与分析
+
+# 3.1三种典型湿地植物叶片C、N、P、 $\mathbf { C a }$ 与 $\delta ^ { 1 3 } \mathbf { C }$ 含量特征
+
+C、N、P是植物正常生长发育需要的3种重要元素，其含量特征能反映植物的生长特点及其与周围环境间的关系。从表2可以看出，湿地芦苇叶片的碳含量最高，平均为！ $( 3 5 . 5 0 { \pm } 0 . 5 1 ) \ \%$ ，其次是金鱼藻，平均为（ $3 3 . 8 0 { \pm } 0 . 5 1 )$ $0 \%$ ，水葫芦的碳含量最低（ $3 4 . 6 2 \pm 0 . 6 4 ) \ \%$ 。3种植物叶片氮元素含量表现为芦苇 $>$ 水葫芦 $>$ 金鱼藻，其中芦苇叶片最高为（ $3 . 6 4 \pm 0 . 3 0 ) \ \%$ 。叶片磷元素含量则表现为金鱼藻 $>$ 水葫芦 $>$ 芦苇。钙元素含量与碳元素含量表现出类似规律：芦苇 $>$ 金鱼藻 $>$ 水葫芦，芦苇叶片的钙含量达到 $( 2 . 2 4 { \pm } 0 . 1 5 ) \%$ 而水葫芦最小，为（ $0 . 9 4 { \pm } 0 . 0 5$ ） $\%$ 。3种不同生活型植物 $8 ^ { 1 3 } \mathrm { C }$ 含量均值的大小范围在 $- 2 8 . 4 7 \% 0 \sim - 2 1 . 6 9 \% 0$ 平均值为 $- 2 4 . 8 3 \text{‰}$ ，其中金鱼藻的 $\delta ^ { 1 3 } \mathrm { C }$ 值最大，芦苇的 $\delta ^ { 1 3 } \mathrm { C }$ 值最小。除了叶片C之外，叶片N、P、Ca和$\delta ^ { 1 3 } \mathrm { C }$ 含量在不同生活型植物间差异显著（ $P { < } 0 . 0 5$ ）。
+
+表2三种湿地植物叶片C、 $\mathbf { N }$ 、P、 $\mathbf { C a }$ 含量及 $\mathbf { \delta } ^ { \mathbf { 8 } ^ { 1 3 } } \mathbf { C }$ 特征（平均值 $\pm$ 标准误差）  
+Table 2Content of leaf C,N,P and Ca and $\delta ^ { 1 3 } \mathrm { C }$ value of three wetland plants (Mean $\pm \mathrm { S E }$   
+
+<html><body><table><tr><td>指标</td><td>芦苇</td><td>水葫芦</td><td>金鱼藻</td></tr><tr><td>Index</td><td>Phragmites australis</td><td>Eichhornia crassipes</td><td>Ceratophyllum demersum</td></tr><tr><td>C/%</td><td>35.50±0.51a</td><td>33.80±0.51b</td><td>34.62±0.64a</td></tr><tr><td>N/%</td><td>3.64±0.30a</td><td>1.95±0.07b</td><td>1.03±0.04c</td></tr><tr><td>P/%</td><td>0.17±0.02c</td><td>0.33±0.01b</td><td>0.36±0.03a</td></tr><tr><td>C/N</td><td>9.81±0.82c</td><td>17.37±0.85b</td><td>33.76±0.90a</td></tr></table></body></html>
+
+<html><body><table><tr><td>C/P</td><td>215.64±20.22a</td><td>103.14±3.08b</td><td>96.12±6.73c</td></tr><tr><td>N/P</td><td>22.21±3.56a</td><td>5.95±0.44b</td><td>2.85±0.20c</td></tr><tr><td>Ca/%</td><td>2.24±0.15a</td><td>0.94±0.05c</td><td>1.91±0.09b</td></tr><tr><td>813C/%0</td><td>-28.47±0.50c</td><td>-24.32±0.54b</td><td>-21.69± 0.70a</td></tr></table></body></html>
+
+注：同一行不同小写字母表示不同植生活型间差异显著（ $_ { \scriptstyle P < 0 . 0 5 }$ ）。
+
+Note:Diferent lowercase letters in the same row indicate significant diferences between different plant life forms $( P { < } 0 . 0 5 )$
+
+从表3可以看出，挺水植物芦苇叶片 $\delta ^ { 1 3 } \mathrm { C }$ 的季节变化表现为秋季 $>$ 夏季 $>$ 冬季 $>$ 春季，浮水植物水葫芦叶片 $\delta ^ { 1 3 } \mathrm { C }$ 的季节变化为秋季 $>$ 冬季 $>$ 夏季 $>$ 春季，芦苇和水葫芦的 $\delta ^ { 1 3 } \mathrm { C }$ 值在季节间无显著差异（ $P >$ 0.05）。沉水植物金鱼藻叶片 $\delta ^ { 1 3 } \mathrm { C }$ 的季节变化则表现为秋季 $>$ 夏季 $>$ 春季 $>$ 冬季，秋夏季分别与春冬季之间有显著差异（ $\cdot P { < } 0 . 0 5 \$ ）。不同季节植物叶片 $\delta ^ { 1 3 } \mathrm { C }$ 值的大小在不同生活型植物间差异显著，一致表现为金鱼藻 $>$ 水葫芦 $>$ 芦苇。
+
+Table 3 Seasonal change of stable carbon isotope value of three wetland plants (Mean±SE)
+
+表3三种湿地植物叶片 $\delta ^ { 1 3 } \mathbf { C }$ 值的季节性变化   
+
+<html><body><table><tr><td>季节 Season</td><td>芦苇 Phragmitesaustralis</td><td>水葫芦 Eichhornia crassipes</td><td>金鱼藻 Ceratophyllum demersum</td></tr><tr><td>春季 Spring</td><td>-30.24±0.12 Ac</td><td>-27.12±0.14 Ab</td><td>-25.32± 0.62 Ba</td></tr><tr><td>夏季 Summer</td><td>-29.11±0.23 Ac</td><td>-26.15±0.37 Ab</td><td>-22.85± 0.34 Aa</td></tr><tr><td>秋季 Autumn</td><td>-28.47±0.50 Ac</td><td>-24.32±0.54 Ab</td><td>-21.69± 0.70 Aa</td></tr><tr><td>冬季</td><td></td><td></td><td></td></tr><tr><td>Winter</td><td>-29.67±0.15 Ac</td><td>-26.09±0.26 Ab</td><td>-26.05± 0.41 Ba</td></tr></table></body></html>
+
+注：同一列不同大写字母表示不同季节间差异显著（ $_ { P < 0 . 0 5 }$ ），同一行不同小写字母表示不同植物生活型间差异显著$( P { < } 0 . 0 5 )$ ）。
+
+Note:Different capital letter in the same column indicate significant diferences between different seasons $_ { ( P < 0 . 0 5 ) }$ ，differen lowercase lettrs in the same row indicate significant differences between different plant life forms( $_ { ( P < 0 . 0 5 ) }$ ：
+
+表4是与其他地区植物叶片 $\delta ^ { 1 3 } \mathrm { C }$ 值的比较，可以看出，本试验区典型植物的 $\delta ^ { 1 3 } \mathrm { C }$ 值接近于贵州茂兰板寨水生植物（李瑞等，2015）、贵州喀斯特山区植物（杨成等，2007）和江苏盐城滨海盐生植物的 $\delta ^ { 1 3 } \mathrm { C }$ 值。在不同地区，因陆生植物，水生植物和地区环境间的差异，植物叶片 $\delta ^ { 1 3 } \mathrm { C }$ 值的大小范围表现出不同。
+
+Table 4 Comparison between the value of leaf $\delta ^ { 1 3 } \mathrm { C }$ value in the Huixian karst wetland and other areas
+
+表4会仙湿地试验区植物 $\delta ^ { 1 3 } \mathbf { C }$ 值与其他区域植物的比较  
+
+<html><body><table><tr><td>研究区 Study area</td><td>δ1C值范围 813C value range</td><td>平均81C值 Average δ13C value</td><td>数据来源 Datum source</td></tr><tr><td>青康公路河流沉水植物 Submerged plants in Qingkang highway</td><td>-22.07%~-10.92%</td><td>-17.22%</td><td>（林清等，2001)</td></tr><tr><td>西双版纳热带雨林植物 Tropical rain forest plants in Xishuangbanna</td><td>-38.7%~-27.60%</td><td>-33.11%o</td><td>（渠春梅等，2001）</td></tr><tr><td>长江中游湖泊水生植物</td><td>-27.91%~-17.16%</td><td>-22.44%</td><td>（黄亮等，2003）</td></tr><tr><td>Aquatic plants in the middle of the Yangtze River 贵州喀斯特山区植物</td><td>-29.15%~-26.98%</td><td>-28.14%0</td><td>（杨成等，2007）</td></tr><tr><td>Plants in Guizhou karst mountainous area 贵州茂兰板寨水生植物</td><td>-35.45%~-24.62%</td><td>-29.39%0</td><td>（李瑞等，2015）</td></tr><tr><td>Aquatic plants in Banzhai,Maolan,Guizhou</td><td></td><td></td><td></td></tr><tr><td>江苏盐城滨海盐生植物</td><td>-30.20%～-26.70%</td><td>-28.40%</td><td>（夏大娟等，2020）</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="3">Coastal halophytes in Yancheng, Jiangsu</td></tr><tr><td>该试验区</td><td>-28.47%～-21.69%</td><td>-24.83%0</td></tr><tr><td>This test area</td><td></td><td></td></tr></table></body></html>
+
+# 3.2 湿地植物叶片 $\mathrm { \delta ^ { \delta ^ { 1 3 } C } }$ 与C、N、P、C/N、C/P、N/P的关系
+
+对会仙喀斯特湿地不同生活型植物叶片 $\delta ^ { 1 3 } \mathrm { C }$ 与C、N、P、C/N、C/P、N/P的相关性进行分析（表5），结果表明，三种湿地植物叶片的 $\delta ^ { 1 3 } \mathrm { C }$ 值与C、 $\mathrm { ~  ~ N ~ }$ 和P元素含量间呈现显著和极显著正相关关系（ $\cdot < 0 . 0 5$ ，$P { < } 0 . 0 1$ ），相关系数分别为0.563、0.458和0.765。 $\delta ^ { 1 3 } \mathrm { C }$ 与C/N、C/P和N/P间呈现显著和极显著负相关关系（ $\cdot P { < } 0 . 0 5$ ， $P { < } 0 . 0 1$ ），相关系数分别-0.617、 $- 0 . 3 9 5$ 和-0.488。
+
+Tab. 5 The relationship among leaf $\delta ^ { 1 3 } \mathrm { C }$ value and C、N、P、C/N、C/P、N/P of three wetland plants   
+
+<html><body><table><tr><td>养分元素 Nutrient element</td><td>关系式 Relationship</td><td>相关系数（R) Correlation coefficient</td><td>P P-value</td></tr><tr><td>C</td><td>y=122.05+2.36x</td><td>0.563**</td><td>0.012</td></tr><tr><td>N</td><td>y=10.23+0.89x</td><td>0.458*</td><td>0.022</td></tr><tr><td>P</td><td>y=42.16+1.01x</td><td>0.765**</td><td>0.008</td></tr><tr><td>C/N</td><td>y=26.07-1.34x</td><td>-0.617**</td><td>0.004</td></tr><tr><td>C/P</td><td>y=329.87-22.78x</td><td>-0.395*</td><td>0.026</td></tr><tr><td>N/P</td><td>y=25.67-1.59x</td><td>-0.488*</td><td>0.047</td></tr></table></body></html>
+
+注：\*表示相关性达显著水平 $( P { < } 0 . 0 5 )$ ， $^ { * * }$ 表示相关性达极显著水平 $( P { < } 0 . 0 1 )$ 。下同。
+
+Note: \* indicates significant differences $_ { ( P < 0 . 0 5 ) }$ ， $^ { * * }$ indicates extremely significant differences ( $\scriptstyle { \big ( } P < 0 . 0 1 { \big ) }$ .The same below.
+
+从表6看出，会仙喀斯特湿地底泥的养分特征显著影响了3种植物叶片的 $\delta ^ { 1 3 } \mathrm { C }$ 值，简单相关分析结果表明，植物叶片 $\delta ^ { 1 3 } \mathrm { C }$ 值与底泥的有机质、速效氮、总氮、速效磷和总磷含量间呈现显著正相关（ $\cdot P { < } 0 . 0 5$ ，$\scriptstyle P < 0 . 0 1 { \mathrm { ~ , ~ } }$ ）。由于底泥养分元素之间的可能存在共变性和相互影响，进一步采用偏相关方法进行了补充分析，结果表明叶片 $\delta ^ { 1 3 } \mathrm { C }$ 值也与底泥的有机质、速效氮、总氮和总磷含量含量呈显著正相关（ $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ ），与速效磷含量没有显著性相关。
+
+表5三种湿地植物叶片 $\delta ^ { 1 3 } \mathbf { C }$ 与C、N、P、C/N、C/P、N/P的相关性  
+表6三种植物叶片 $\delta ^ { 1 3 } \mathbf { C }$ 与底泥营养元素的简单相关及偏相关分析  
+Table 6Simple and partial correlation analyses of three wetland plants leaf $\delta ^ { 1 3 } \mathrm { C }$ and sediment characters   
+
+<html><body><table><tr><td>相关分析 Correlation</td><td>有机质 Organic matter</td><td>有机质 Organic matter</td><td>速效氮 Available nitrogen</td><td>总氮 Total nitrogen</td><td>速效磷 Available phosphorus</td><td>总磷 Total phosphorus</td></tr><tr><td rowspan="2">简单相关分析 Simple correlation</td><td>相关系数R Correlation coefficient</td><td>0.881**</td><td>0.826**</td><td>0.799*</td><td>0.711**</td><td>0.705**</td></tr><tr><td>差异显著性 Sig. Significant difference</td><td>0.002</td><td>0.000</td><td>0.024</td><td>0.003</td><td>0.006</td></tr><tr><td>偏相关分析 Partial</td><td>相关系数R Correlation coefficient</td><td>0.663*</td><td>0.624*</td><td>0.633*</td><td>0.446</td><td>0.325*</td></tr><tr><td>correlation</td><td>差异显著性 Sig. Significant difference</td><td>0.036</td><td>0.032</td><td>0.029</td><td>0.248</td><td>0.024</td></tr></table></body></html>
+
+# 3.3植物光合作用固定 $\mathbf { H C O _ { 3 } } ^ { - }$ 碳量的估算
+
+表7中，3种水生植物的生物量和固碳量的大小关系依次为芦苇 $>$ 水葫芦 $>$ 金鱼藻，总体上挺水植物芦苇的固碳量比沉水植物金鱼藻固碳量高。金鱼藻利用 ${ \mathrm { H C O } } _ { 3 } ^ { - }$ 作为光合作用碳源的比例最大， $f \mathrm { B }$ 数值为$20 . 1 5 \%$ ，大小关系表现为金鱼藻 $>$ 芦苇 $>$ 水葫芦。芦苇通过光合作用固定的 ${ \mathrm { H C O } } _ { 3 } ^ { - }$ 的碳量最大，为159.60$\mathrm { t } { \cdot } \mathrm { a } ^ { - 1 } { \cdot } \mathrm { k m } ^ { - 2 }$ 。3种水生植物吸收利用 ${ \mathrm { H C O } } _ { 3 } ^ { - }$ 占无机碳源的比例（fB）平均值为 $1 8 . 1 9 \%$ ，由光合作用固定的${ \mathrm { H C O } } _ { 3 } ^ { - }$ 碳量的平均值为 $5 9 . 8 8 \ \mathrm { t } { \cdot } \mathrm { a } ^ { - 1 } { \cdot } \mathrm { k m } ^ { - 2 }$ 。
+
+表7三种植物的 $\mathbf { \mathcal { { f B } } }$ 值及光合作用固定的 $\mathbf { H C O _ { 3 } } ^ { - }$   
+$\left( \mathrm { H C O _ { 3 } } ^ { - } \right)$   
+
+<html><body><table><tr><td colspan="2">Table/ 生物量</td><td>vaiuesandcarbon(HCO3 固碳量</td><td>）sequestrationofthreewetlandplants 占无机碳源比例fB HCO3proportion of</td><td>光合作用固定HCO碳量 Carbon sequestration of</td></tr><tr><td>生活型 Plant life form 芦苇</td><td>Biomass (g:m-1) 3252.36</td><td>Carbon sequestration (g:a-1·m-2) 824.39</td><td>inorganic carbon source (%) 19.36</td><td>HCO3-by photosynthesis (g:a-1·m-2)* 159.60</td></tr><tr><td>Phragmites australis 水葫芦 Eichhornia</td><td>118.71</td><td>71.68</td><td>15.06</td><td>10.80</td></tr><tr><td>crassipes 金鱼藻 Ceratophyllum</td><td>88.46</td><td>45.87</td><td>20.15</td><td>9.24</td></tr><tr><td>demersum 平均值 Mean</td><td>1153.18</td><td>313.98</td><td>18.19</td><td>59.88</td></tr></table></body></html>
+
+说明： $*$ 表示 $( \mathbf { g } \cdot \mathbf { a } ^ { - 1 } \cdot \mathbf { m } ^ { - 2 } )$ ）相当于 $( \mathbf { t } \cdot \mathbf { a } ^ { - 1 } \cdot \mathbf { k } \mathbf { m } ^ { - 2 } ,$ ）Note：\* indicate $( \mathbf { g } \cdot \mathbf { a } ^ { - 1 } \cdot \mathbf { m } ^ { - 2 } .$ ）is roughly the same number of $( \mathbf { t } { \cdot } \mathbf { a } ^ { - 1 } { \cdot } \mathbf { k } \mathbf { m } ^ { - 2 } )$ ：
+
+# 4讨论
+
+# 4.1三种水生植物叶片 $\mathbf { \delta } ^ { \mathbf { \delta } \mathbf { \delta } \mathbf { \delta } ^ { \mathbf { \delta } } \mathbf { \delta } ^ { \mathbf { \delta } } }$ 特征与养分元素含量的关系
+
+在会仙喀斯特湿地该试验区域中，3种典型湿地水生植物叶片碳含量平均值为 $34 . 6 4 \%$ ，低于中国东黄海海岛湿地植物叶片的碳含量（郭超等，2018），也低于其他陆地植物叶片的碳含量（Elser etal.，2000;任书杰等，2012），说明会仙喀斯特湿地这三种代表性水生植物的碳含量相对较低，这与会仙喀斯特湿地外界环境的人为扰动较大有关，这类似于滨海湿地（李征等，2012）。会仙喀斯特湿地植物叶片C/N、C/P平均值低于Elser等（2000）报道的全球植物叶片的平均值（C/N：23.8，C/P：300.9）及中国部分研究区域（任书杰等，2012；郭超等，2018），表明会仙喀斯特湿地水生植物植株单位养分供应的能力较低，这与其特殊的喀斯特生境有关，会仙喀斯特湿地的人为干扰较严重（徐广平等，2019；滕秋梅等，2021），对植被生产力的提高产生了影响。 $\delta ^ { 1 3 } \mathrm { C }$ 值的大小关系表现为沉水植物 $>$ 浮水植物 $>$ 挺水植物，这与贵州茂兰（李瑞等，2015）报道的挺水植物 $>$ 浮水植物 $>$ 沉水植物有所不同，也与草海（张强等，2012）、会仙（章程等，2013）、长江中游（黄亮等，2003）等地报道的沉水植物 $>$ 挺水植物 $>$ 浮水植物略有差异，尤其与会仙（章程等，2013）亦有差异，原因可能是与不同采样区域间存在的异质性有关。吴沿友等（2011）的研究表明，植物叶片 $\delta ^ { 1 3 } \mathrm { C }$ 值具有较大的变异性，也与碳酸酐酶的活力大小有很大关系。可见，由于植物外界生长微环境的不同，对会仙喀斯特湿地植物稳定碳同位素分馏有较大的影响，浮水植物水葫芦在大气$\mathrm { C O } _ { 2 }$ 等碳源不充足时，可能还会利用一部分水体中的 $\mathrm { H C O } _ { 3 } ^ { - }$ ，因此其 $\delta ^ { 1 3 } \mathrm { C }$ 值介于沉水植物金鱼藻和挺水植物芦苇之间。
+
+在会仙喀斯特湿地，3种典型水生植物 $\delta ^ { 1 3 } \mathrm { C }$ 平均值的变化范围在 $- 2 8 . 4 7 \% 0 \sim - 2 1 . 6 9 \% 0$ ，平均值 $- 2 4 . 8 3 \text{‰}$ ，与Keely etal.（1992）报道的水生植物的 $\delta ^ { 1 3 } \mathrm { C }$ 值波动范围为 $- 5 0 \% \mathrm { { o } \sim - 1 1 \% }$ 相符，与长江中游湖泊水生植物的$\delta ^ { 1 3 } \mathrm { C }$ 值（黄亮等，2003）和长江口潮滩芦苇 $\delta ^ { 1 3 } \mathrm { C }$ 的平均值（王伟伟，2011）较为接近，高于王文文（2012）报道的黄河三角洲芦苇 $\delta ^ { 1 3 } \mathrm { C }$ 值 $- 2 7 . 7 \text{‰}$ ，该差异可能主要是由于区域环境条件的不同而引起的。本研究中，沉水植物金鱼藻的 $\delta ^ { 1 3 } \mathrm { C }$ 最高，黄亮等（2003）的研究结果也表明，由于水体中无机碳 $\delta ^ { 1 3 } \mathrm { C }$ 组成较高，使得沉水植物叶子的 $\delta ^ { 1 3 } \mathrm { C }$ 大于挺水植物和浮水植物。因此，会仙喀斯特湿地水生植物的不同生活型和不同植物种间的差异，是导致植物叶片 $\delta ^ { 1 3 } \mathrm { C }$ 值呈现差异性的原因。
+
+类似陆地植物，水生植物中同样分布着 $\mathrm { C } _ { 3 \setminus } \mathrm { C } _ { 4 }$ 和CAM 植物，但 $\mathrm { C } _ { 3 }$ 型水生植物居多（Keeley，1998）。挺水植物可以直接利用大气中的 $\mathrm { C O } _ { 2 }$ 进行光合作用，其 $\delta ^ { 1 3 } \mathrm { C }$ 分布在 $- 3 0 \% \sim - 2 4 \%$ 之间，与 $\mathrm { C } _ { 3 }$ 植物的 $\delta ^ { 1 3 } \mathrm { C }$ 变化范围相重合，相似光合作用途径的水生植物种类还包括浮叶植物和漂浮植物（Keeley，1998）。挺水植物、浮叶植物和漂浮植物的叶片暴露在大气中， $\delta ^ { 1 3 } \mathrm { C }$ 主要受到大气中 $\mathrm { C O } _ { 2 }$ 的影响，这使得这3种类型植物的$\delta ^ { 1 3 } \mathrm { C }$ 变化相对较小（刘金亮等，2020）。相反，沉水植物由于水中 $\mathrm { C O } _ { 2 }$ 供给量的不足，可以利用溶解的 $\mathrm { H C O } _ { 3 }$ 作为碳源，导致其 $\delta ^ { 1 3 } \mathrm { C }$ 值较 $\mathrm { C } _ { 3 }$ 植物偏重（Raven，1972），并且与 $\mathrm { C } _ { 4 }$ 植物的 $\delta ^ { 1 3 } \mathrm { C }$ 变化范围部分有所重叠。在本研究中，沉水植物金鱼藻的碳同位素高于浮水植物水葫芦和挺水植物芦苇，这与其他研究结论相一致（Raven，1972；Madsen&Breinholt，1995），主要原因可能是由于金鱼藻叶片在光合作用中，利用了水体中的 $\mathrm { C O } _ { 2 }$ ， $\mathrm { H C O } _ { 3 } ^ { - }$ 等多个碳源，前人已有的研究也证明 $\mathrm { H C O } _ { 3 } ^ { - }$ 比 $\mathrm { C O } _ { 2 }$ 更能富集 $\delta ^ { 1 3 } \mathrm { C }$ （Mook et al.，1974）。
+
+在本研究中，金鱼藻能够利用溶解在水中的二氧化碳，还可能利用水体中的 ${ \mathrm { H C O } } _ { 3 } ^ { - }$ ，水葫芦主要利用大气中的二氧化碳，选择性的利用一部分水体中的 ${ \mathrm { H C O } } _ { 3 } ^ { - }$ ，而芦苇则主要利用大气中的二氧化碳。由于浮水植物和挺水植物的碳源多为空气中的 $\mathrm { C O } _ { 2 }$ 气体，空气中 $\mathrm { C O } _ { 2 }$ 的碳同位素值在各个季节一般无差异，在各自的光合作用中没产生显著的同位素效应（刘勇丽，2015），因此该研究中的水葫芦和芦苇叶片 $\delta ^ { 1 3 } \mathrm { C }$ 值的季节变化间无显著差异性 $( P { > } 0 . 0 5 )$ 。前人研究表明，在温度较高的夏季和秋季,马来眼子菜（Potamogetonwrightii Morong）、狐尾藻（Myriophyllum verticillatumL.）等沉水植物与金鱼藻相互竞争碳源，引起水体中的碳源不足，碳同位素的分馏受到抑制，金鱼藻从而富集较多 $\delta ^ { 1 3 } \mathrm { C }$ （Maberly&Madsen，1998；刘勇丽，2015），与上述研究结果类似，该研究中沉水植物金鱼藻叶片 $\delta ^ { 1 3 } \mathrm { C }$ 值季节之间有明显的变化，主要在秋夏两季分别与春冬两季之间有显著差异（ $\scriptstyle P < 0 . 0 5$ ），秋季和夏季金鱼藻叶片的 $\delta ^ { 1 3 } \mathrm { C }$ 值较高。
+
+一般 $\mathrm { C } _ { 3 }$ 植物叶片氮含量与叶片 $\mathrm { ~ \bf ~ \delta ~ } ^ { 1 3 } \mathrm { C }$ 值呈正相关（Cernusaketal.，2013），与C/N（长期氮素利用效率）之间存在负相关（Gong et al.，2011），但在外界环境因素干扰下会发生变化（Sheng et al.，2011）。 $\delta ^ { 1 3 } \mathrm { C }$ 随叶片N浓度的增加而增加，原因是植物光合能力随叶片 $\mathrm { ~  ~ N ~ }$ 浓度的增加而增强，由于 $\delta ^ { 1 3 } \mathrm { C }$ 与光合能力呈正比，所以叶片N与 $\delta ^ { 1 3 } \mathrm { C }$ 呈正相关（Zhou etal.，2016；Ma etal.，2018）。马剑英等（2008）研究表明红砂植物叶片P与 $\delta ^ { 1 3 } \mathrm { C }$ 正相关，Zhouetal．（2016）的研究结果表明， $\delta ^ { 1 3 } \mathrm { C }$ 与P存在负相关关系。在本研究中，3种植物叶片 $\delta ^ { 1 3 } \mathrm { C }$ 与N、P含量显著正相关（表4），表明3种植物可能通过采取N、P光合相关型的策略来适应喀斯特湿地的环境。前人研究表明，在土壤养分高的环境中，植物光合速率较快，植物叶片的 $\delta ^ { 1 3 } \mathrm { C }$ 值较大（Domingues etal.，2010），本研究结果也支持此结论，而3种植物叶片的 $\delta ^ { 1 3 } \mathrm { C }$ 相对不是很高，这也说明会仙喀斯特湿地养分相对较贫瘠。3种植物叶片 $\delta ^ { 1 3 } \mathrm { C }$ 值与底泥的有机质、速效氮、总氮、速效磷和总磷含量呈显著正相关，表明底泥营养元素是影响3种植物叶片 $\delta ^ { 1 3 } \mathrm { C }$ 变化的重要因素。由于不同植物对外界环境的适应性不同，因此其 $\delta ^ { 1 3 } \mathrm { C }$ 值与养分元素的相关性存在强弱的差异性（Weietal.，2008）。
+
+# 4.2三种植物叶片叶片 $\mathbf { \delta } ^ { \mathbf { \delta } } \mathbf { \delta } ^ { \mathbf { 1 3 } } \mathbf { C }$ 与C、N、P元素化学计量学的关系
+
+植物 $8 ^ { 1 3 } \mathrm { C }$ 能够反映与植物生长过程相关联的环境变化的信息，对环境变化有一定的指示意义（刘贤赵等，2014）。叶片氮含量可以反映植物碳、氮分配的经济性，碳氮比可以表征植物的长期氮素利用效率（展小云等，2012）。研究表明，基于质量的植物叶片氮含量与叶片 $\delta ^ { 1 3 } \mathrm { C }$ 值间的关系具有不确定性，有报道指出二者呈现显著正相关性（Zhang etal.，2015），也有研究结果表明有弱的负相关性（Hultine＆ Marshall,2000）。本研究结果表明，植物 $\mathrm { \delta ^ { \delta ^ { 1 3 } C } }$ 值与N元素含量间呈显著正相关关系（ $\scriptstyle \left. { \begin{array} { r l } { P < 0 . 0 5 } \end{array} } \right.$ ）。前人研究表明，一般而言，植物对水分与氮素的利用效率存在优化适应策略，植物叶片的 $\delta ^ { 1 3 } \mathrm { C }$ （长期水分利用效率）与叶碳氮比（长期氮素利用效率）之间呈现负相关性，表明拥有较高水分利用效率的植物多采用低氮素利用效率的适应策略（陈清等，2015）。这是由于植物固定单位碳一般需要获取更多氮，如采用低氮素利用效率的适应策略，那暗示植物则必须增大其水分利用效率（WUE）以代偿减少的N利用率（Zhou etal.，2016;Wu etal.，2020）。本研究的结论也支持上述理论，会仙喀斯特湿地3种典型植物的 $\delta ^ { 1 3 } \mathrm { C }$ 与C/N呈极显著负相关（ $\cdot P { < } 0 . 0 1$ ），说明会仙喀斯特湿地在外界人为干扰的影响下，这3种典型湿地植物为了保持其较高的水分利用效率，可能采取了低氮素利用效率的适应策略。
+
+N/P常用来表征植物养分亏缺状况，植物 $\mathrm { N } / \mathrm { P } { < } 1 4$ ，表明植物生长受N限制，植物 $\mathrm { N } / \mathrm { P } { > } 1 6$ ，表明植物生长受P限制（Cermusak etal.，2013；Jia et al.，2018）。该研究结果说明，芦苇N/P为22.21，可能主要受P限制，水葫芦和金鱼藻 $\mathrm { N } / \mathrm { P } { < } 1 4$ ，则可能主要受到N的限制，而这3种湿地植物叶片N/P平均值为10.34，低于全球陆生植物平均值13.8（Elser etal.，2000），说明N、P可能是共同制约植物生长的因素，也表明这3种典型植物的N、P养分亏缺成为植被生态恢复的影响因子。水生植物稳定碳同位素（ $\big \{ \delta ^ { 1 3 } \mathrm { C }$ ）的分馏过程较复杂，水生植物的 $\delta ^ { 1 3 } \mathrm { C }$ 主要与其吸收利用的碳源和水体环境要素等密切相关（刘金亮等，2020）。3种植物叶片 $\delta ^ { 1 3 } \mathrm { C }$ 与N/P含量显著正相关，进一步表明3种植物通过与N、P光合相关的策略来适应外界环境，与C/P成反比，说明3种植物可能主要通过提高P的利用率来促进在低水分利用率环境下的碳的合成，暗示出外界环境压力对不同生长环境下植物的氮、磷的适应策略产生了较大的影响。会仙喀斯特湿地3种典型植物叶片 $\delta ^ { 1 3 } \mathrm { C }$ 特征与C/N、N/P和C/P的相互关系，与滨海盐生植物的响应特征相类似（夏大娟等，2020）。
+
+# 4.3三种植物光合作用固定 $\mathbf { H C O _ { 3 } } ^ { - }$ 碳量的估算
+
+水生植物利用的碳主要源于大气、水体和沉积物的孔隙水中（Milligan etal.，2010），因不同碳源具有不同的碳同位素信息，不同类型的水生植物利用无机碳的方式也不一样（刘金亮等，2020）。水生植物在进行光合作用时，多具有利用 ${ \mathrm { H C O } } _ { 3 } ^ { - }$ 作为碳源的能力（Prins&Elzenga，1989）。水生植物通过碳酸酐酶来利用 ${ \mathrm { H C O } } _ { 3 } ^ { - }$ 进行光合作用，与 $\mathrm { C a } ^ { 2 + }$ 、 ${ \mathrm { H C O } } _ { 3 } ^ { - }$ 、 $\mathfrak { p H }$ 等发生化学反应（陈波等，2014；张陶等，2014)，引起了植物的稳定碳同位素分馏（吴沿友等，2011），通过稳定碳同位素与碳酸酐酶间的关系建立的二端元模型，可以估算水生植物光合作用利用 ${ \mathrm { H C O } } _ { 3 } ^ { - }$ 的比例和固碳量（章程等，2013；李瑞等，2015）。喀斯特地区淡水的pH 值多高于7，溶解的无机碳形式主要以 ${ \mathrm { H C O } } _ { 3 } ^ { - }$ 为主（Madsen，1983）。在本试验区域中，$\mathfrak { p H }$ 值在 $7 . 1 3 \sim 7 . 3 6$ 之间(表1),3种典型水生植物利用 $\mathrm { H C O } _ { 3 } ^ { - }$ 作为光合作用碳源的比例的平均值为 $2 8 . 1 9 \%$ ，低于贵州茂兰(李瑞等，2015)的平均值 $47 . 8 4 \%$ ，也低于章程等(2013)在会仙湿地其他区域计算的 $4 6 . 5 9 \%$ 究其原因，这可能与同一种植物生长在不同的水环境中有不同的 $\delta ^ { 1 3 } \mathrm { C }$ 有关（林清和王绍令，2001），水生植物的 $\delta ^ { 1 3 } \mathrm { C }$ 主要与其吸收利用的碳源和水体环境要素等密切相关（刘金亮等，2020）。
+
+本试验区中，挺水植物芦苇的生物量和固碳量最大，其通过光合作用固定的 ${ \mathrm { H C O } } _ { 3 } ^ { - }$ 的碳量也最大，尽管沉水植物金鱼藻的 $f \mathrm { B }$ 数值最大，但由于其生物量相对不高，固碳量相对较低，因而其光合作用固定的${ \mathrm { H C O } } _ { 3 } ^ { - }$ 的碳量最小，但其仍表现出一定的 ${ \mathrm { H C O } } _ { 3 } ^ { - }$ 固碳量，这从侧面也说明，由于人为对会仙湿地沉水植物金鱼藻等的刈割和破坏，降低了金鱼藻的生物量和 ${ \mathrm { H C O } } _ { 3 } ^ { - }$ 固碳量。3种典型水生植物固定的 ${ \mathrm { H C O } } _ { 3 } ^ { - }$ 碳量的平均值为 $5 9 . 8 8 \ \mathrm { t } { \cdot } \mathbf { a } ^ { - 1 } { \cdot } \mathrm { k m } ^ { - 2 }$ ，低于章程等（2013）在会仙湿地其他区域计算的 $7 6 . 7 4 ~ \mathrm { t } \cdot \mathbf { a } ^ { - 1 } \cdot \mathrm { k m } ^ { - 2 }$ ，高于贵州茂兰（李瑞等，2015）的平均值 $1 9 . 5 2 \mathrm { t } { \cdot } \mathbf { a } ^ { - 1 } { \cdot } \mathrm { k m } ^ { - 2 }$ 。可见喀斯特湿地水生植物通过光合作用，可以将碳酸盐岩风化形成的 ${ \mathrm { H C O } } _ { 3 } ^ { - }$ 转化为有机碳并且储存在植物体内，水生植物通过光合作用表现出一定的碳汇效应（章程等，2013）。同时，本研究也表明，由于受到植被生活型、环境调控等因素的影响，加之植物生长微环境的差异，使不同植物在光合作用中对不同碳源的利用程度有所不同，产生同位素分馏，即使同一种植物在同一大的区域中也会表现出一定的同位素差异。另外，由于会仙喀斯特湿地水体中动物可能会吞食部分水生植物，因而估算的这3种植物 ${ \mathrm { H C O } } _ { 3 } ^ { - }$ 的固碳量可能会偏小。水体环境因素（可溶性无机碳浓度、 $\mathfrak { p H }$ 值、温度和营养盐含量等）、植物自身的生理学特征等对植物叶片 $\delta ^ { 1 3 } \mathrm { C }$ 的影响，需要后续进一步深入的探讨。
+
+# 5结论
+
+会仙喀斯特湿地3种不同生活型水生植物 $\delta ^ { 1 3 } \mathrm { C }$ 值的大小范围在 $- 2 8 . 4 7 \% 0 \sim - 2 1 . 6 9 \% 0$ ，平均值为 $- 2 4 . 8 3 \text{‰}$ ，其中金鱼藻的 $\delta ^ { 1 3 } \mathrm { C }$ 值最大，芦苇的 $\delta ^ { 1 3 } \mathrm { C }$ 值最小。3种湿地植物叶片 $\mathrm { { N / P } }$ 平均值为10.34，表现出3种湿地植物受N、P共同限制的特征。植物 $\delta ^ { 1 3 } \mathrm { C }$ 值与C、N和 $\mathrm { ~ \bf ~ P ~ }$ 元素含量间均呈显著正相关关系（ $\scriptstyle \cdot < 0 . 0 5 .$ ），与C/N、C/P 和 $\mathrm { { N / P } }$ 均呈显著负相关关系（ $\cdot < 0 . 0 5$ ， $P { < } 0 . 0 1$ ），表明3种水生植物可能通过增加磷利用效率来促进低水分利用率环境下的碳的合成，采用提高水分利用效率的策略来代偿减小的氮素利用效率。基于测定的 $\delta ^ { 1 3 } \mathrm { C }$ 值，推测会仙喀斯特湿地中挺水植物芦苇和漂浮植物水葫芦是 $\mathrm { C } _ { 3 }$ 型植物，沉水植物金鱼藻选择拟 $\mathrm { C } _ { 4 }$ 的光合作用途径。会仙喀斯特湿地3种植物的不同生活型、光合作用的途径、水体底泥养分元素含量和生长微环境，共同促使植物同位素特征表现出一定的差异性，3种典型水生植物具有一定的碳汇效应。
+
+参考文献:   
+CAI QS,2014.Plant Physiology[M].Beijing: China agriculture university pres,299-312.[蔡庆生，2014.植物 生理学[M]．北京：中国农业大学出版社，299-312.]   
+CERNUSAK LA, UBIERNA N, WINTER K, et al.， 2013. Environmental and physiological determinants of carbon isotope discrimination in terrestrial plants[J]. New Phytol, 200(4): 950-965.   
+CHEN B, YANG R,LIU ZH, et al.， 2014. Effects of aquatic phototrophs on diurnal hydrochemical and $\delta ^ { 1 3 } \mathrm { C _ { D I C } }$ variations in an epikarst spring and two spring-fed ponds of Laqiao,Maolan,SW China[J]. Geochim, 43(4): 375-385.［陈波，杨睿，刘再华，等，2014．水生光合生物对茂兰拉桥泉及其下游水化学和 $\delta \ { } ^ { 1 3 } \mathrm { C } _ { \mathrm { D I C } }$ 昼夜 变化的影响[J]．地球化学，43(4)：375-385.]   
+CHEN Q, WANG YD, GUO CC,et al.， 2015.Foliar stable carbon isotope ratios of Phragmites australis and the relevant environmental factors in marsh wetlands in Tianjin[J]. Chin JPlan Ecol,39 (1): 1044-1052.[陈清, 王义东，郭长城，等，2015．天津沼泽湿地芦苇叶片的碳稳定同位素比值分布特征及其环境影响因素 [J]．植物生态学报，39（11)：1044-1052.]   
+DIJKSTRA FA, CARRILLO Y,ASPINWALL MJ, et al.， 2016. Waters, nitrogen and phosphorus use efficiencies of four tree species in response to variable water and nutrient supply[J]. Plant and Soil, 406(1-2): 187-199.   
+DOMINGUES TF,MEIR P,FELDPAUSCH TR,et al.，2010.Colimitation of photosynthetic capacity by nitrogen and phosphorus in West Africa woodlands[J]. Plant Cell Environ, 33: 959-980.   
+DUAN C Y, XU G P, SHEN Y Y, et al.，2018. Ecological stoichiometry characteristics of soils in Eucalyptus plantations with diferent ages in North Guangxi[J].For Res Manag, (6):117-124.[段春燕，徐广平，沈育伊, 等，2018．桂北不同林龄桉树人工林土壤生态化学计量特征[J].林业资源管理，(6)：117-124.]   
+ELSER JJ,FAGAN WF,DENNO RF, et al.， 2000. Nutritional constraints in terrestrial and freshwater food webs[J]. Nature, 408(6812): 578-580.   
+GONG XY, CHEN Q,LIN S,et al.， 2011. Tradeoffs between nitrogen and water use effciency in dominant species of the semiarid steppe of Inner Mongolia[J]. Plant Soil, 340: 227-238.   
+GUO C,TUO B, SUT,et al.，2018. Carbon, nitrogen and phosphorus stoichiometry of five common herbaceous species across islands in the Yellow Sea and the East China Sea[J]. Chin JApp Ecol,29(2): 380-388.[郭超，妥 彬，苏田，等．2018．中国东黄海海岛 5 种常见草本的碳氮磷化学计量特征[J]．应用生态学报，29(2)： 380-388.]   
+HAN Q，WANG BL，2017.Mechanisms of stable carbon isotope fractionation by phytoplankton and its environmental applications[J].Chin JEcol,36(5):1436-1443.[韩琼，王宝利，2017．浮游植物稳定碳同位 素分馏机制及环境应用［J]．生态学杂志，36(5)：1436-1443.]   
+HUANG L, WU Y, ZHANG J, et al.， 2003. Distribution of C, N, P and $\delta ^ { 1 3 } \mathrm { C }$ in aquatic plants of some lakes in the Middle Yangtze Valley[J].Acta Geosci Sin,24(6): 515-518.[黄亮，吴莹，张经，等，2003．长江中游若干 湖泊水生植物体内C、N、P及 $\delta ~ ^ { 1 3 } \mathrm { C }$ 分布[J]．地球学报，24(6)：515-518.]   
+HULTINE KR, MARSHALL JD,2000.Altitude trends in conifer leaf morphology and stable carbon isotope composition[J]. Oecologia, 123: 32-40.   
+JIA J,BAI JH, WANG W,etal.， 2018.Changes of biogenic elements in Phragmites australis and Suaeda salsa from salt marshes in Yellow River Delta,China[J]. Chin Geogr Sci,28(3): 411-419.   
+KEELY JE, 1998. CAM photosynthesis in submerged aquatic plants[J]. Bot Rev, 64(2): 121-175.   
+KEELY JE, SADQUIST DR,1992. Carbon: frest water plants[J]. Plant Cell Envi,15: 1021-1035.   
+LI R, YU S, SUN PA, et al.， 2015. Characteristics of $\delta ^ { 1 3 } \mathrm { C }$ in typical aquatic plants and carbon sequestration by plant photosynthesis in the Banzhai catchment,Maolan of Guizhou Province[J]. Carsol Sin,34(1): 9-16.[李 三， 贝川风 付位及儿口「用凹足 恢里旧开LJ」 中国岩溶，34(1)：9-16.]   
+LI Z,HAN L,LIU YH, et al.， 2012.C,Nand P stoichiometric characteristics in leaves of Suaeda salsa during diferent growth phase in coastal wetlands of China[J]. Chin JPlan Ecol,36(10): 1054-1061.[李征，韩琳，刘 玉虹，等，2012．滨海盐地碱蓬不同生长阶段叶片C、N、P 化学计量特征［J]．植物生态学报，36(10)： 1054-1061.]   
+LIN Q, WANG SL,2001. The composition of stable carbon isotope and some influencing factors of submerged plant[J].Acta Ecol Sin,21(5):806-809.[林清，王绍令，2001．沉水植物稳定碳同位素组成及影响因素分 析[J]．生态学报，21(5)：806-809.]   
+LIU JL, XUE B, YAO SC,et al.， 2020. Mechanisms of stable carbon isotope fractionation of aquatic plants and the research advances of application[J].Acta Ecol Sin,40(8): 2533-2544.[刘金亮，薛滨，姚书春，等，2020. 湖泊水生植物稳定碳同位素分馏机制与应用研究进展［J]．生态学报，40(8)：2533-2544.]   
+LIU XZ, ZHANG Y,SU Q, et al.，2014. Research progress in responses of modern terrestrial plant carbon isotope composition to climate change[J].Adv Earth Sci,29(12):1341-1354.[刘贤赵，张勇，宿庆，等，2014．现 代陆生植物碳同位素组成对气候变化的响应研究进展[J]．地球科学进展，29(12)：1341-1354.]   
+LIU YL,2015. On the stable carbon and nitrogen isotope ecology of aquatic macrophytes in Lake Taihu watershed[D].Xiangtan:Xiangtan University.[刘勇丽，2015．太湖流域水生植物稳定碳氮同位素的生态学 研究[D]．湘潭：湘潭大学.]   
+LUO XQ, ZHANG GL,DU XL, et al.，2014. Characteristics of element contents and ecological stoichiometry in leaves of common calcicole species in Maolan karst forest[J]. Ecol Environ Sci,23(7): 1121-1129.[罗绪强, 张桂玲，杜雪莲，等，2014．茂兰喀斯特森林常见钙生植物叶片元素含量及其化学计量学特征［J]．生 态环境学报，23(7)：1121-1129.]   
+MAF,LIANG WY, ZHOU ZN,et al.，2018. Spatial ariation in leaf stable carbon isotope composition of three caragana species in northern China[J]. Forests, 9(6): 297.   
+MA JY, CHEN FH, XIA DS, et al.， 2008. Correlations between leaf $\delta ^ { 1 3 } \mathrm { C }$ and physiological parameters of desert plant Reaumuria soongorica[J].Chin JApp Ecol,19(5):1166-1171.[马剑英，陈发虎，夏敦胜，等，2008．荒 漠植物红砂叶片 $\delta \ ^ { 1 3 } \ C$ 值与生理指标的关系［J]．应用生态学报，19(5)：1166-1171.]   
+MABERLY SC, MADSEN TV, 1998. Affinity for $\mathrm { C O } _ { 2 }$ in relation to the ability of freshwater macrophytes to use $\mathrm { H C O } _ { 3 } ^ { - }$ [J].Funct Ecol, 12(1): 99-106.   
+MADSEN TV,1983. Growth and photosynthetic acclimation by ranu-nculus aqutuatilis L.in response to in orgnic carbon availability[J]. New Phytol, 125(4): 707-715.   
+MADSEN TV,BREINHOLTM,1995.Effects of air contact on growth, inorganic carbon sources，and nitrogen uptake by an amphibious freshwater macrophyte[J]. Plant Physiol, 107(1): 149-154.   
+MILLIGAN HE,PRETZLAW TD, HUMPHRIES MM,2010. Stable isotope diffrentiation of freshwater and terrestrial vascular plants in two subarctic regions[J]. Acoscience,17(3): 265-275.   
+MOOK WG，BOMMERSON JC，STAVERMAN WH，1974. Carbon isotope fraction between dissolved bicarbonate and gaseous carbon dioxide[J]. Earth Planet Sci Lett, 22(2): 169-176.   
+PRINS HBA,ELZENGA JTM,1989. Bicarbonate utilization: function and mechanism[J]. Aquat Bot, 34(1-3): 59-83.   
+QU CM, GAN XG, SU B, et al.， 2001. The characteristics of foliar $\delta ^ { 1 3 } \mathrm { C }$ values of plants and plant water use efficiency indicated by $\delta ^ { 1 3 } \mathrm { C }$ values in two fragmented rainforests in Xishuangbanna, Yunnan[J]. Acta Bota Sin, 43(2):186-192.[渠春梅，韩兴国，苏波，等，2001．云南西双版纳片断化热带雨林植物叶片 $\delta ~ ^ { 1 3 } \mathrm { C }$ 值的特 点及其对水分利用效率的指示[J]．植物学报，43(2)：186-192.]   
+RAVEN JA,1972. Endogenous inorganic carbon sources in plant photosynthesis[J]. New Phytol,71(2): 227-247.   
+REN SJ,YUGR,JIANG CM,et al.,2012. Stoichiometric characteristics of leaf carbon, nitrogen,and phosphorus of 102 dominant species in forest ecosystems along the North-South Transect of East China[J]. Chin JApp Ecol, 23(3):581-586.[任书杰，于贵瑞，姜春明，等，2012．中国东部南北样带森林生态系统 102个优势种叶 片碳氮磷化学计量学统计特征[J]．应用生态学报，23(3)：581-586.]   
+SHENG WP,REN SJ,YUGR,et al.， 2011. Patterns and driving factors of WUE and NUE in natural forest ecosystems along the Northsouth Transect of Eastern China[J]. J Geograph Sci, 21, 651-665.   
+SPRENT JI, GEOGHEGAN IE, WHITTY PW, et al.， 1996. Natural abundance of $^ { 1 5 } \mathrm { N }$ and $^ { 1 3 } \mathrm { C }$ in nodulated legumes and other plants in the cerrado and neighbouring regions of Brazil[J]. Oecol,105(4): 440-446.   
+SUN YJ, XU GP, SHEN YY,et al.，2018. Soil enzyme activities of phragmites australis community area in Huixian karst wetland,Guilin[J].Wetland Science,16(2):196-203.[孙英杰，徐广平，沈育伊，等，2018．桂 林会仙喀斯特湿地芦苇群落区土壤酶活性[J]．湿地科学，16(2)：196-203.]   
+TENG QM, SUN YJ, SHEN YY,et al.,， 2021. Growth and phenotypic plasticity variability of Eichhornia crassipes in response to diffrent eutrophic water in karst wetland[J].JLake Sci,2021,33(1):123-137.[滕秋 梅，孙英杰，沈育伊，等，2021．喀斯特湿地水葫芦（Eichhornia crassipes）生长及表型可塑性特征 对不同富营养化水体的响应[J]．湖泊科学，33(1)：123-137.]   
+VAN H M, CHAKRABORTY A, DAVIES KL, et al.， 2018. The stable isotope composition of organic and inorganic fossils in lake sediment records: Current understanding,challnges,and future directions[J]. Quaternary Sci Rev, 196: 154-176.   
+WANG WW,2011. Nutrient dynamic and stable isotope indicators in tidal flats of the Yangtze Estuary[D]. Shanghai:East China Normal University.［王伟伟，2011．长江口潮滩营养动态与稳定同位素指示研究[D] 上海:华东师范大学.]   
+WANG WW, 2012. Response of $\delta ^ { 1 3 } \mathrm { C }$ values of wetland ecosystem plants to soil salinity in Yellow River Delta[D]. Yantai: Ludong University.[王文文，2012.黄河三角洲湿地生态系统植物 $\delta ~ ^ { 1 3 } \mathrm { C }$ 值对土壤盐分的响应[D]. 烟台：鲁东大学.]   
+WEI L,YAN CL, GUO XY, et al.， 2008. Variation in the $\delta ^ { 1 3 } \mathrm { C }$ of two mangrove plants is correlated with stomatal response to salinity[J]. J Plant Growth Reg, 27, 263-269.   
+WU H,YANG T,LIU X, et al.， 2020. Towards an integrated nutrient management in crop species to improve nitrogen and phosphorus use efficiencies of Chaohu Watershed[J]. J Clean Prod,272,122765.   
+WU YY, XING DK,LIU Y,2011. The characteristics of bicarbonate used by plants[J]. Earth Environ, 39(2): 273-277.[吴沿友，邢德科，刘莹，2011．植物利用碳酸氢根离子的特征分析[J]．地球与环境，39(2)： 273-277.]   
+XIA DJ,LIU QR,LILIANN Z, et al.， 2020. Foliar $\delta ^ { 1 3 } \mathrm { C }$ correlates with elemental stoichiometry in halophytes of coastal wetlands[J].Acta Ecol Sin,40(7):2215-2224．[夏大娟，刘秋蓉，Liliann Zou，等，2020．滨海盐 生植物叶片δ1³ C与主要养分元素化学计量的关系［J]．生态学报，40(7)：2215-2224.]   
+XU GP,LIYQ,SHEN YY, etal.， 2019. Soil organic carbon distribution and components in different plant communities along a water table gradient in the Huixian karst wetland in Guilin[J]. Chin JEnviron Sci, 40(3): 1491-1503.[徐广平，李艳琼，沈育伊，等，2019．桂林会仙喀斯特湿地水位梯度下不同植物群落土壤有 机碳及其组分特征［J]．环境科学，2019，40(3)：1491-1503.]   
+YANG C,LIU CQ, SONG ZL,et al.， 2007. Carbon isotope compositions of plant leaves from kasrst mountainous area,Guizhou,China[J].Earth Environ,35(1):33-38.[杨成，刘丛强，宋照亮，等，2007．贵州喀斯特山区 植物叶片碳同位素组成研究[J]．地球与环境，35(1)：33-38.]   
+ZHAN XY,YU GR,SHENG WP,et al.，2012.Foliar water use efficiency and nitrogen use eficiency of dominant plant species in main forests along the Northsouth Transect of East China[J]. Chin JApp Ecol,23(3): 587-594. [展小云，于贵瑞，盛文萍，等，2012．中国东部南北样带森林优势植物叶片的水分利用效率和氮素利 用效率[J]．应用生态学报，23(3)：587-594.]   
+ZHANG C, XIE YQ, NING LD, et al.， 2013. Characteristics of $\delta ^ { 1 3 } \mathrm { C }$ in typical aquatic plants and carbon sequestration in Huixian karst wetland,Guilin[J].Carsol Sin,32(3): 247-251.[章程，谢运球，宁良丹，等， 2013．桂林会仙岩溶湿地典型水生植物 $\delta ~ ^ { 1 3 } \mathrm { C }$ 特征与固碳量估算[J]．中国岩溶，32(3)：247-251.]   
+ZHANG J, GU L, BAO F, et al.， 2015. Nitrogen control of $^ { 1 3 } \mathrm { C }$ enrichment in heterotrophic organs relative to leaves in a landscape building desert plant species[J]. Biogeosciences,l2, 15-27.   
+ZHANG Q,2012.The stability of carbon sink effect related to carbonate rock dissolution: a case study of the Caohai lake geological carbon sink[J].Acta Geosci Sin,33(6): 947-952.[张强，2012．岩溶地质碳汇的稳定 性一以贵州草海地质碳汇为例[J]．地球学报，33(6)：947-952.]   
+ZHANG T,PU JB,YUAN DX,et al.,2014. Diel variations of hydrochemistry and influencing factors in a surface stream in subtropical karst Area,SWChina[J].Chin JEnviron Sci,35(8):102-109.[张陶，蒲俊兵，袁道先， 等，2014．亚热带典型岩溶区地表溪流水文地球化学昼夜变化及其影响因素研究[J]．环境科学，35(8)： 102-109.]   
+ZHOU YC, CHENG XL,FAN JW, et al.， 2016.Relationships between foliar carbon isotope composition and elements of $\mathrm { C } _ { 3 }$ species in grasslands of Inner Mongolia, China[J]. Plant Ecol, 217(7): 883-897.

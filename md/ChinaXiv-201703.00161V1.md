@@ -1,0 +1,295 @@
+# 深度数据包检测技术研究进展
+
+# 黄昆，谢高岗
+
+摘要 深度数据包检测是数据包处理关键技术之一，即采用特征匹配算法，将每个数据包内容与一组预定义的特征进行匹配。随着网络带宽的迅猛增长以及特征规则日益增多，研究者提出了基于硬件的特征匹配算法，即采用 FPGA、ASIC 和NP 等专用嵌入式硬件来设计与实现特征匹配算法，提高DPI的匹配吞吐量。但是，这些基于硬件的特征匹配算法面临高性能挑战，即如何满足线速数据包内容过滤的时间和空间需求。本文从时间和空间等方面综述了基于硬件的字符串匹配算法和正则表达式匹配算法的研究进展，并展望了未来DPI技术研究。
+
+关键词 网络安全 深度数据包检测 特征匹配 字符串匹配 正则表达式
+
+# 1引言
+
+随着网络技术的迅猛发展和广泛应用，互联网承载着越来越多的应用业务，人们对互联网的依赖性日益增强。近年来，网络蠕虫、僵尸网络和计算机病毒等新型攻击层出不穷，入侵和劫持大量的计算机系统，滥用计算机网络资源，并威胁和破坏互联网基础设施，已经造成重大的经济损失和恶劣的社会影响[1-2]。因此，如何快速检测和阻止这些攻击成为当前网络安全研究的热点问题。
+
+网络入侵检测与防御系统(Network Intrusion Detection/Prevention System,NIDS/NIPS)是网络安全防御的主要手段，即通过实时监测网络流量来检查和阻断网络攻击[1]。NIDS/NIPS已广泛部署于从终端计算机、边缘路由器到核心路由器等网络构件。随着网络攻击日益复杂化和安全漏洞不断发现，在未来五年内，全球NIDS/NIPS市场将从2007年的9.32亿美元增长到 21 亿美元[3]。深度数据包检测(Deep Packet Inspection,DPI)是 NIDS/NIPS 的核心，不仅检查数据包头部信息，而且检查数据包有效载荷(即数据包内容)。深度数据包检测（以下简称 DPI)主要采用特征匹配算法，即将每个数据包内容与一组预定义的特征规则进行匹配[4-5]。DPI采用一组规则描述攻击特征，即每条规则至少包括数据包类型、特征字符串、搜索起始位置、以及匹配后的响应操作等。例如，在 Snort 特征规则集中[]，规则{alert icmp (msg:"DDOS TFNProbe"; content: "1234";)}是描述分布式拒绝服务TFN'探测攻击，即当互联网控制报文协议（Internet ControlMessage Protocol,ICMP）数据包内容包含特征字符串“1234”时，产生告警消息为“DDOSTFNProbe”。DPI是一种数据包内容过滤技术，不仅应用于NIDS/NIPS，而且还应用于应用层数据包分类、对等传输（P2P）流量识别、基于上下文的流量计费等[7-8]。
+
+特征匹配是计算机科学中经典问题之一，广泛应用于信息检索、模式识别和网络安全等领域。特征匹配算法可分为字符串匹配算法和正则表达式匹配算法。字符串匹配算法采用字符串语言来描述简单的特征规则；而正则表达式匹配算法采用正则表达式语言来描述复杂的特征规则。根据匹配方式，特征匹配算法又分为单模式和多模式匹配算法。单模式匹配算法是指一次内容扫描仅匹配一个特征串，例如克努斯-莫里斯-普拉特（Knuth-Morris-Pratt）算法[9]和博耶-摩尔（Boyer-Moore）算法[10]等。当规则集包含 $s$ 个特征串时，单模式匹配算法需要重复匹配 $s$ 次，存在匹配效率低等问题。多模式匹配算法是采用确定型有限自动机(Deterministic Finite Automaton，DFA)来表示一组特征串，一次内容扫描可匹配多个特征串，例如阿霍-克拉斯科（Aho-Corasick）算法[1]、科曼兹-沃尔特（Commentz-Walter）算法[12]以及阿霍-克拉斯科和博耶-摩尔（Aho-Corasick Boyer-Moore）联合算法[13]等。
+
+从1975年开始，过去近30多年的DPI技术研究主要关注基于软件的特征匹配算法，即在单核CPU的软件平台上设计与实现特征匹配的算法，从而提高DPI的匹配速率。但是，随着网络带宽和业务流量的迅猛增长以及特征规则日益增多，基于软件的特征匹配算法存在匹配吞吐量低等问题，难以满足10-40Gbps 线速数据包处理的高性能需求。近年来，研究者提出了多种基于硬件的特征匹配算法[14-18]，即采用专用嵌入式硬件，例如现场可编程门阵列（简称门阵列)、专用集成电路等，设计与实现特征匹配算法，从而提高DPI的匹配吞吐量。例如，基于门阵列的特征匹配算法吞吐量可达10Gbps，支持特征规则集的动态更新，但是存在重编译和重构时间长等缺点；基于专用集成电路的特征匹配算法吞吐量可达 20Gbps，不支持特征规则集的动态更新。这些基于硬件的特征匹配算法面临嵌入式存储器空间受限等挑战，即确定型有限自动机（以下简称确定自动机）存储空间需求大，难以在片上高速存储器中存储和查找整个确定自动机，而需要频繁访问片外低速存储器，导致 DPI 的匹配性能降低。例如，Xilinx Vertex-5 门阵列[19]仅提供约 10Mb 的片上 SRAM²，而当前 Snort 特征规则集对应的确定自动机存储空间开销约为100MB，无法存储在片上SRAM中，难以实现线速数据包处理。TCAM和多核处理器(Multi-Core Processor)等硬件技术的不断发展，为 DPI的性能提升提供了新的机遇与挑战。TCAM 可以在一个时钟周期内查找出与内容匹配的存储索引，提供高速且确定的内容查找，用于加速 DPI的匹配性能；多核处理器是在一块芯片上集成多个CPU核，具有高速灵活的并行计算能力，用于提升DPI的匹配性能。因此，如何设计与实现基于硬件的高性能特征匹配算法成为线速DPI技术研究的热点问题，已吸引越来越多研究者的关注。
+
+本文综述了DPI技术研究进展，特别是基于硬件的特征匹配算法设计与实现。第2节介绍了DPI的高性能挑战，并指出了DPI技术的可伸缩性需求；第3节和第4节分别详细讨论了几种基于硬件的字符串匹配算法和正则表达式匹配算法。最后，第5节总结全文，并展望了未来DPI技术研究的关键问题。
+
+# 2 DPI技术的高性能挑战
+
+DPI是计算密集型操作，主要应用于高速路由器的关键数据路径上，需要检查高速海量数据包，并与成千上万条规则进行特征匹配。近年来，互联网骨干链路带宽从2.5Gbps增至10-40Gbps，以太网接口从10GbE 增至100GbE；新型高质量网络应用，例如流媒体应用PPLive、YouTube，内容发布应用Facebook、Twitter等，产生海量的业务内容和网络流量。为了适应高速海量数据包处理，满足线速数据包处理的时间和空间需求，并提升可伸缩性，DPI技术面临高性能挑战[20]：
+
+1．随着网络攻击、业务行为等日益复杂化，特征规则条数不断增多且特征描述越来越复杂，导致DPI的存储空间开销日益增大。例如，Snort 特征规则条数从2003年的3166增至2009年的15047。Snort特征规则集的确定自动机存储空间需求超过75MB，而门阵列和专用集成电路等嵌入式硬件的片上高速存储器仅约为10Mb，因而特征匹配的整个确定自动机难以存储在片上高速存储器中，需要存储在片外低速存储器，从而限制了DPI的匹配吞吐量。因此，基于硬件的DPI技术迫切要求存储高效特征匹配算法，在片上高速存储器中存储和查找确定自动机，不仅满足特征规则集的可伸缩性需求，而且提高DPI的匹配性能。
+
+2．为了实现未来100Gbps 线速数据包处理，基于硬件的DPI技术要求利用片上高速存储器、硬件并行计算能力等来提高特征匹配的吞吐量。门阵列和专用集成电路等嵌入式硬件通常采用层次化存储器体系结构，即由片上高速存储器和片外低速存储器构成。片上存储器支持快速查找，例如片上SRAM的访问时间为1-2ns，但是其存储空间小；片外存储器的存储空间大，但是其查找速度慢，例如片外DRAM的访问时间为60ns。面向硬件实现的DPI技术面临如何利用片上高速存储器来尽量减少片外低速存储器访问次数，从而实现线速DPI。专用嵌入式硬件虽然支持并行处理，但是存在编程设计复杂、灵活性差和升级成本高等缺点。IntelXeon CPU、Cavium OCTEON和 NividaGPGPU等多核处理器具有强大并行计算能力和灵活可编程等优点，为线速DPI实现带来新的机遇与挑战。线速DPI技术面临如何利用多核处理器平台的并行处理能力，设计与实现时空高效特征匹配算法，从而加速DPI的匹配性能的挑战。
+
+总之，DPI的可伸缩性需求主要体现在存储空间开销和匹配吞吐量等两方面[21]，即减少特征匹配算法的存储空间开销，并提高其匹配速率，从而实现高性能DPI。因此，当前的DPI技术研究主要是从时间和空间等方面来设计与实现基于硬件的特征匹配算法，从而满足DPI的高性能需求。本文是以时空开销为视角，探讨基于硬件的字符串匹配算法和正则表达式算法等研究进展，并展望未来DPI技术研究的关键问题。
+
+# 3 基于硬件的字符串匹配算法
+
+基于硬件的字符串匹配算法可分为：存储高效字符串匹配算法、多字符字符串匹配算法和并行字符串匹配算法。如表1所示，存储高效算法是研究如何通过减少冗余迁移边来压缩确定自动机存储空间开销，例如基于B-FSM5[22]和基于CDFA[23]的阿霍-克拉斯科算法；多
+
+表1基于硬件的字符串匹配算法分类  
+
+<html><body><table><tr><td></td><td>存储高效算法</td><td>多字符算法</td><td>并行算法</td></tr><tr><td>B-FSM</td><td>√</td><td></td><td></td></tr><tr><td>CDFA</td><td>√</td><td></td><td></td></tr><tr><td>JACK-NFA</td><td></td><td>√</td><td></td></tr><tr><td>TDP-DFA</td><td></td><td>√</td><td></td></tr><tr><td>压缩DFA</td><td></td><td>√</td><td></td></tr><tr><td>变步长DFA</td><td></td><td>√</td><td></td></tr><tr><td>比特拆分DFA</td><td></td><td></td><td>√</td></tr><tr><td>首尾分割DFA</td><td></td><td></td><td>√</td></tr><tr><td>并行布隆过滤器</td><td></td><td></td><td>√</td></tr></table></body></html>
+
+字符算法是研究如何通过构建一次处理多个字符的确定自动机来提高其匹配吞吐量，例如基于 JACK-NFA7[24]、基于 TDP-DFA8[25]、基于压缩的确定型有限自动机[2和基于变步长的确定型有限自动机[27的阿霍-克拉斯科算法；并行算法是研究如何通过并行化字符串匹配操作
+
+来加速确定自动机的匹配性能，例如基于比特拆分的确定自动机[28]、基于首尾分割的确定自动机[29]和基于并行布隆过滤器（Bloom Filter）[30]的阿霍-克拉斯科算法。
+
+# 3.1阿霍-克拉斯科算法
+
+阿霍-克拉斯科算法[]是经典的字符串匹配算法，即采用一个确定自动机表示一组特征字符串，称为原始确定自动机。原始确定自动机的构建过程是：
+
+为特征字符串集构建一颗以初始状态0为根节点的特里树(Trie);从特征字符串集中提取所有唯一字符，构建字母表；根据字母表，从特里树的根节点(即初始状态0)开始，逐层为每个状态构建其转移(Goto)函数、失效(Failure)函数和输出(Output)函数，直到叶子节点(即匹配状态)。
+
+转移函数是指当读入字符匹配时，从当前状态迁移到下一个状态；失效函数是指当读入字符不匹配时，从当前状态迁移到某个指定状态；输出函数是指当迁移到匹配状态时，输出所有匹配字符串。
+
+图1给出了字符串集 $\{ h e , s h e , h i s , h e r s \}$ 的原始确定自动机，其中初始状态为0，匹配状态为2、5、7和9。如图1所示，实线表示基本迁移边，即从树深度为 $\pmb { d }$ 的源状态 $i$ 迁移到树深度为 $d + 1$ 的目的状态 $j$ ；虚线表示交叉迁移边，即从树深度为 $\pmb { d }$ 的源状态 $i$ 迁移到树深度为 $\pmb { d } ^ { \prime } \leq \pmb { d }$ 的目的状态 $j$ ；如果目的状态 $j$ 的树深度 $d ^ { \prime }$ 为0，则该交叉迁移边又称为失效迁移边；如果目的状态 $j$ 的树深度 $d ^ { \prime }$ 为1，则该交叉迁移边又称为重启迁移边。如图1所示，在原始确定自动机的状态迁移表中，行首表示源状态，其他表示目的状态；列首表示匹配字符。注意：图1省略了原始确定自动机的失效迁移边。
+
+![](images/f914b3b7e3b49ed1643bb5a4e1314cacfcdd62f2335290d6eed904f80dd82940.jpg)  
+图1.字符串集 $\{ h e , s h e , h i s , h e r s \}$ 的原始确定自动机
+
+原始确定自动机的匹配过程是：设置初始当前状态为0，当读入一个字符时，当前状态迁移到下一个状态，设置下一个状态为当前状态，并依次状态迁移；如果下一个状态为匹配状态，输出所有匹配字符串。例如，在图1中，当读入一个字符串{sohershe}时，从初始状态0开始，原始确定自动机执行状态迁移为 $0 \to 3 \to 0 \to 1 \to 2 \to 8 \to 9 \to 4 \to 5$ ，并输出匹配字符串集
+
+塔克（N.Tuck）等人[31]采用位图压缩和路径压缩等方法，减少阿霍-克拉斯科算法的确定自动机存储空间需求，并增强阿霍-克拉斯科算法的最坏情况性能。由于 ASCII码字母表大小为256，原始确定自动机的每个状态包含256个状态指针，指向每个ASCI码字符对应的下一状态，导致原始确定自动机的存储空间开销很大。如图2所示，位图压缩确定自动机采用1个状态指针NextPtr及其节点位图Node Bitmap、1个失效指针FailurePtr以及1个规则指针RulePtr，而不需要维护256个状态指针。状态指针NextPtr是指向下一状态队列的头指针；节点位图NodeBitmap是表示每个ASCII码字符对应的下一状态是否是初始状态，即0比特表示下一状态是初始状态，1比特表示下一状态不是初始状态；失效指针FailurePtr是指向初始状态的指针；规则指针RulePtr是指向匹配规则队列的头指针。图2给出了位图压缩确定自动机的状态5数据结构。在NodeBitmap中，字符 $\scriptstyle { \boldsymbol { e } }$ 和i对应的比特为0，而字符 $\pmb { h }$ 、 $\textbf { \textit { r } }$ 和 $s$ 对应的比特为1，因而NextPtr指向下一状点队列的头节点1，FailurePtr指向初始状态O，RulePtr指向匹配规则队列{she,he}。
+
+![](images/5e6322fae487de560593b304a998e8893f9d2d28af334d43bac82e6a0286979f.jpg)  
+图2.位图压缩确定自动机的状态节点数据结构
+
+在图2中，当读入一个字符 $r$ 时，由于节点位图NodeBitmap的第 $\boldsymbol { r }$ 位比特为1，状态5计算出NodeBitmap中第 $\boldsymbol { r }$ 位之前的1比特个数为1，则计算出下一状态的存储地址是Next $P t r + 1$ ，并检查该状态的规则指针，输出对应的匹配规则。当读入一个字符i时，由于节点位图Node Bitmap 的第i位比特为1，则计算出下一状态的存储地址是失效指针Failure $P t r$ 指向的初始状态。
+
+# 3.2存储高效字符串匹配算法
+
+确定自动机存储空间是由状态迁移边所构成。研究者提出了存储高效字符串匹配算法，通过减少状态之间的冗余迁移边来减少确定自动机存储空间需求。本节主要介绍基于B-FSM和基于CDFA的阿霍-克拉斯科算法。
+
+# 3.2.1基于B-FSM的阿霍-克拉斯科算法
+
+伦特任(J.van Lunteren)等人[22]提出了一种基于 B-FSM(BART-based Finite State Machine)的阿霍-克拉斯科算法，即采用优先级和通配符状态等方法压缩状态迁移边，并采用BART(Balanced Routing Table，平衡路径表)算法搜索优先级最高的匹配迁移边。图3给出了字符串集 $\{ h e , s h e , h i s , h e r s \}$ 的 B-FSM，其中左图是状态迁移，右图是优先级分别为2、1、和0的迁移边。如图3所示，每条迁移边包含4个字段，即源状态、匹配字符、目的状态和优先级。例如，迁移边 $\{ e : 1  2 : 2 \}$ 表示当匹配字符 $e$ 时，源状态1迁移到目的状态2且优先级为2迁移边 $\{ h : * \to 1 : 1 \}$ 表示当匹配字符 $\pmb { h }$ 时，任意状态迁移到目的状态1且优先级为1；迁移边 $ \ast : \ast  0 : 0 $ 表示当匹配非字母表字符时，任意状态迁移到目的状态0，且优先级为0。
+
+B-FSM 的匹配过程是：当读入一个字符时，从状态迁移表中查找优先级最高的与当前状态和读入字符匹配的迁移边，即从优先级为2的迁移边开始查找，直到优先级为0的迁移边。例如，在图3中，当读入一个字符串{sohershe}时，在B-FSM中查找所有匹配字符串；当读入一个字符 $s$ 时，当前状态为初始状态0，匹配出迁移边 $\{ s : * \to 3 : 1 \}$ ，迁移到下一状态3；当读入下一个字符 $\mathbf { \sigma } _ { \pmb { o } }$ 时，匹配出迁移边 $\left\{ * : * \to 0 : 0 \right\}$ ，迁移到下一状态0；当读入下一个字符 $\pmb { h }$ 时，匹配出迁移边 $\{ h : * \to 1 : 1 \}$ ，迁移到下一状态1；当读入下一个字符 $e$ 时，匹配出迁移边 $\{ e : 1  2 : 2 \}$ ,迁移到下一状态2,输出匹配字符串 $\{ h e \}$ ；当读入下一个字符 $r$ 时，匹配出迁移边 $\lbrace r : 2  8 : 2 \rbrace$ ，迁移到下一状态 8；当读入下一个字符 $s$ 时，匹配出迁移边$\{ s : 8 \to 9 : 2 \}$ ，迁移到下一状态9，输出匹配字符串 $\{ h e r s \}$ ；当读入下一个字符 $\pmb { h }$ 时，匹配出迁移边 $\{ h \colon 9 \to 4 \colon 2 \}$ ，迁移到下一状态 4；当读入下一个字符 $\scriptstyle { \boldsymbol { e } }$ 时，匹配出迁移边$\{ e : 4  5 : 2 \}$ ，迁移到下一状态5，输出匹配字符串 $\{ s h e , h e \}$ 。因此，B-FSM执行状态迁移为 $\{ 0  3  0  1  2  8  9  4  5 \}$ ，并输出匹配字符串集 $\{ h e , h e r s , s h e , h e \}$ 。
+
+![](images/5e2b597e15efe6bef8add5a88af5fdfe9886694a9187fa79f74d93ee1171072e.jpg)  
+图3.字符串集 $\{ h e , s h e , h i s , h e r s \}$ 的B-FSM
+
+# 3.2.2基于CDFA的阿霍-克拉斯科算法
+
+# 缓存
+
+![](images/65e5a671727c6c66075d8646acbb60564e629deec11988d52f5222a75a3717fc.jpg)  
+图4.字符串集{he,she,his,hers}的CDFA
+
+宋天（音译，T.Song）等人[23]提出了一种基于CDFA 的阿霍-克拉斯科算法，即采用缓存器记录额外状态来扩展确定自动机，减少冗余交叉迁移边，并采用下一状态寻址方法来高效存储和查找迁移边。图4给出了字符串集 $\{ h e , s h e , h i s , h e r s \}$ 的CDFA，其中左图是状态迁移，右图是对应的迁移边。与图3的B-FSM相比，图4的CDFA减少了部分交叉迁移边，即迁移到树深度为2的目的状态，而保留其他交叉迁移边；图4中的缓存是用于存储1个额外的当前状态。
+
+CDFA的匹配过程是：设置初始当前状态current_state为0，缓存中额外状态cache_state为初始状态0；当读入一个字符时，从状态迁移表中查找current_state 和cache_state对应的下一状态分别为next_statel和next_state2，如果next_statel存在，则设置current_state为next_statel，并查找初始状态0对应的下一状态next_stateO，设置cache_state 为next_stateO ；如果next_statel不存在且next_state2 存在，则设置current_state 为 next_state2 且 cache_state 为 next_stateO ；如果 next _statel 和next_state2均不存在，设置cache_state为next_stateO而cache_state为0。
+
+例如，在图4中，当读入一个字符串{shishe}时，在CDFA中查找所有匹配字符串；当读入一个字符 $s$ 时，设置current_state 和cache_state 均为O，next_statel和next_state2均为3，则迁移到下一状态3，设置current_state 和cache_state均为3；当读入下一个字符h时，next_statel为4且next_state2为4，则迁移到下一状态4，设置current_state为4,并查找出next_stateO为1，设置cache_state为1；读入下一个字符i时，next_statel不存在且next_state2为6，则设置current_state为6，并查找出next_stateO为0，设置cache_state为0；当读入下一个字符 $s$ 时，next_statel为7且next_state2为3，则迁移到状态7，设置current_state为7，并查找出next_stateO为3，设置cache_state为3，输出匹配字符串集{his}；当读入下一个字符 $\pmb { h }$ 时，next_state1不存在且next_state2为4，则设置current_state为4，并查找出next_stateO为1，设置cache_state为1；当读入下一个字符 $\scriptstyle { \boldsymbol { e } }$ 时，next_statel为5且next_state2为2，则设置current_state为5，并查找出next_stateO为0，设置cache_state为0，输出匹配字符串集 $\{ s h e , h e \}$ 。
+
+# 3.3多字符字符串匹配算法
+
+为了提高字符串匹配算法的吞吐量，研究者提出了多字符字符串匹配算法，包括固定步长和变步长的多字符字符串匹配算法。固定步长是指每次读入相同大小的多个字符来进行确定自动机状态迁移；而变步长是指每次读入不同大小的多个字符来进行确定自动机状态迁移。本节分别介绍固定步长和变步长的阿霍-克拉斯科算法。
+
+# 3.3.1固定步长的多字符阿霍-克拉斯科算法
+
+达马普利卡（S.Dharmapurikar）等人[24提出了一种基于JACK-NFA(Jump-ahead Aho-Corasick NFA)的阿霍-克拉斯科算法，即在确定自动机基础上，通过跳跃固定步长的多个字符来构建一个JACK-NFA，并采用布隆过滤器来存储和查找迁移边。图5给出了字符串集{abcd,cde,bade,bc}的JACK-NFA，其固定步长为2。如图5所示，左图
+
+![](images/83721706a5e416f8302bb6ffe248a5d4da18af3d789a9e5e3dfaeed928844296.jpg)  
+图5.字符串集{abcd,cde,bade,bc}的JACK-NFA
+
+是状态迁移，右图是对应的迁移边；根据匹配字符长度，迁移边可分为3组，并采用布隆过滤器来表示每组迁移边。状态迁移表的每个元素包含4个字段，即 $\mathrm { < }$ 源状态，匹配字符 $\mathrm { > }$ ，目的状态、额外状态和匹配字符串。
+
+JACK-NFA的匹配过程是：设置初始当前状态为0，采用DFA1查找一个读入字符串，采用 DFA2查找一个偏移1个字符的读入字符串，且DFA1和DFA2并行执行；当读入一个字符时，查找状态迁移表对应的布隆过滤器，每个确定自动机的当前状态迁移到下一状态；如果下一个状态为匹配状态，输出所有匹配字符串。例如，在图5中，读入一个字符串{abadeabcdea}，在JACK-NFA中查找所有匹配字符串；设置初始状态0为当前状态，DFA1读入一个字符串{abadeabcdea}，而DFA2读入一个字符串{badeabcdea}；DFA1执行状态迁移为 $0  \{ 1 , 0 \}  \{ 0 , 0 \}  \{ 0 , 0 \}  \{ 7 , 0 \}  \{ 0 , 0 \}  \{ 0 , 0 \}$ ，输出匹配字符串集 $\{ b c \}$ ；DFA2执行状态迁移为 $0  \{ 0 , 0 \}  \{ 5 , 0 \}  \{ 6 , 0 \}  \{ 1 , 0 \}  \{ 2 , 0 , 3 \}  \{ 4 , 0 \}$ ，输出匹配字符串集$\{ b a d e , a b c d , c d e \}$ 。
+
+卢宏斌（音译，Hongbin Lu）等人[25]提出了一种基于TDP-DFA 的阿霍-克拉斯科算法，即通过跳跃相同大小的多个字符来构建一个TDP-DFA，并采用 $\mathrm { B C A M } ^ { \mathrm { 9 } }$ 存储和并行查找迁移边。图6给出了字符串集 $\{ a b c d , c d e , b a d e , b c \}$ 的 TDP-DFA，其固定步长为2。如图6所示,左图是状态迁移，右图是对应的1迁移边；以源状态和匹配字符为搜索关键值，采用BCAM来表示和查找迁移边。状态迁移表的每个元素包含3个字段，即 $\mathrm { \check { < } }$ 源状态，匹配字符 $>$ 、目的状态和匹配标记，其中匹配字符串存储在片外存储器中。
+
+![](images/f97f7680455376254ca0321bccf62277f88b7fceb00a0cae4041844acb4523a6.jpg)
+
+图6.字符串集 $\{ a b c d , c d e , b a d e , b c \}$ 的TDP-DFA
+
+与JACK-NFA相类似，TDP-DFA的匹配过程是：设置初始当前状态为0，采用确定自动机DFA1查找一个读入字符串，采用确定自动机DFA2查找一个偏移1个字符的读入字符串，且DFA1和DFA2是并行执行；当读入一个字符时，查找状态迁移表的 BCAM，每个确定自动机从当前状态迁移到下一状态；如果下一个状态为匹配状态，输出所有的匹配字符串。例如，在图6中，读入一个字符串{abadeabcdea}，在TDP-DFA中查找所有匹配字符串；从初始状态0 开始，DFA1 读入一个字符串{abadeabcdea}，而DFA2读入一个字符串{badeabcdea}；DFA1执行状态迁移为 $0 \to 1 \to 0 \to 0 \to 0 \to 0 \to 0$ ，输出匹配字符串集 $\{ b c \}$ ：DFA2执行状态迁移为 $0 \to 0 \to 3 \to 0 \to 1 \to 2 \to 0$ ，输出匹配字符串集{bade,abcd,cde}。
+
+艾利且瑞（M.Alicherry)等人[26提出了一种基于压缩确定自动机的阿霍-克拉斯科算法，即在原始确定自动机基础上构建一个处理多字符的压缩确定自动机，支持回滚(Rollback)查找和最长输入匹配等操作，并采用TCAM实现迁移边的快速查找。图7给出了字符串集$\{ a b c d , c d e , b a d e , b c \}$ 的压缩确定自动机，其固定步长为2。如图7所示，左图是状态迁移，右图是对应的迁移边；状态迁移表的每个元素包含4个字段，即 $\mathrm { \check { < } }$ 源状态，匹配字符 $>$ 、目的状态、偏移步长和匹配字符串；表中状态迁移边是按照优先级从高到低、从左到右的次序排列，即基本迁移边的优先级最高，重启迁移边的优先级次之，其他拆分迁移边又次之，失效迁移边的优先级最低。
+
+![](images/984198f94221d0c6688954beffea6574805923eeeb47c726beec998fa14f0fbb.jpg)
+
+图7.字符串集{abcd,cde,bade,bc}的压缩确定自动机
+
+压缩确定自动机的匹配过程是：设置初始当前状态为0，当读入一个字符时，查找状态迁移表对应的 TCAM，当前状态迁移到下一状态；如果下一个状态为匹配状态，输出所有匹配字符串。例如，在图7中，读入一个字符串{abadeabcdea}，在压缩确定自动机上查找所有匹配字符串；从初始状态0开始，根据匹配字符的不同步长，压缩确定自动机执行状态迁移为 $0 \to \{ a b { : } 1 \} \to \{ a { : } 5 \} \to \{ d e { : } 6 \} \to \{ a b { : } 1 \} \to \{ c d { : } 2 \} \to \{ e { : } 4 \} \to \{ a { : } 8 \}$ ，其中 $\{ \}$ 表示匹配字符和目的状态，输出匹配字符串集 $\{ b a d e , a b c d , b c , c d e \}$ 。
+
+# 3.3.2变步长的多字符阿霍-克拉斯科算法
+
+华楠（音译，Nan Hua)等人[27提出了一种基于变步长确定自动机的阿霍-克拉斯科算法，即采用风选(Winnowing)算法将特征字符串和读入字符串分割成不同大小的字符子串，构建一个变步长确定自动机，并采用哈希表查找核心迁移边以及采用TCAM查找短迁移边。图8给出了字符串集{power,identical,authenticate,enter,set}的变步长确定自动机，其中左图是将特征字符串分割成子串，右图是状态迁移。如图8所示，采用风选算法将特征字符串分割成3个子串，即头部子串、核心子串和尾部子串，其中核心子串对应的迁移边称为核心迁移边，头部子串和尾部子串对应的迁移边称为短迁移边。在图8的状态迁移中，虚线迁移边是短迁移边，实线迁移边是核心迁移边；短迁移边采用TCAM查找出匹配状态(即虚线节点)。
+
+![](images/f500b94121d8cd27d839b11ce1e80ee1741af08aea61a315a8dc693ca938b410.jpg)  
+图8.字符串集{power,identical,authenticate,enter,set}的变步长确定自动机
+
+# 3.4并行字符串匹配算法
+
+为了实现线速DPI，研究者提出了并行字符串匹配算法，即利用并行化提高确定自动机的匹配速率，压缩确定自动机存储空间需求，从而提高 DPI的匹配吞吐量。本文主要介绍基于专用嵌入式硬件的比特拆分阿霍-克拉斯科算法、基于多核处理器平台的首尾分割阿霍-克拉斯科算法、基于并行布隆过滤器的阿霍-克拉斯科算法。
+
+# 3.4.1比特拆分阿霍-克拉斯科算法
+
+![](images/8203a4b5c618cae1177259c69c151e3c2458e52039816e6c63cbfbefe939619c.jpg)  
+图9.字符串集 $\{ h e , s h e , h i s , h e r s \}$ 的比特拆分确定自动机
+
+谭琳（音译，Lin Tan）等人[28]提出了一种面向嵌入式硬件实现的比特拆分(Bit-Split）阿霍-克拉斯科算法，即将原始确定自动机拆分为一组并行的微型确定自动机，且每个微型确定自动机并行处理每个读入字符的指定比特子串。图9给出了字符串集 $\{ h e , s h e , h i s , h e r s \}$ 的比特拆分确定自动机，其中上图是将原始字母表拆分成微型字母表，即 $\Sigma { \pmb B } _ { 0 1 }$ 和 $\Sigma B _ { 2 3 }$ ，下图是对应的两个微型确定自动机，即 $B _ { 0 1 } D F A$ 和 $B _ { 2 3 } D F A$ 。如图9所示,在原始字母表 $\{ e , h , i , r , s \}$ （204号的比特拆分中，每个8位比特的字符被拆分为4个2位比特子串，从而构建相应的微型字母表。微型字母表 $\Sigma { \pmb B } _ { 0 1 }$ 的每个元组包括第0和1位比特子串及相应的字符子集。例如，第 2个元组包含2位比特子串01和相应的字符子集 $\{ e , i \}$ ；微型字母表 $\Sigma B _ { 2 3 }$ 的每个元组包括第2和3位比特子串及相应的字符子集。
+
+比特拆分确定自动机的匹配过程是：每个读入字符被拆分为一组 $\textbf { \textit { b } }$ 位比特子串，每个子串被分发给相应的微型确定自动机；每个微型确定自动机从初始微型状态 $0 ^ { \prime }$ 开始，并行迁移到下一个状态；对所有下一个微型状态对应的原始状态子集进行求交集运算，输出原始匹配状态及其对应的特征字符串。例如，在图9中，当读入一个字符串 $\{ r h e \}$ 时， $B _ { 0 1 } D F A$ 读入的2位比特子串集为 $\{ 1 0 , 0 0 , 0 1 \}$ ，而 $B _ { 2 3 } D F A$ 读入的2位比特子串集为{10,10,01}； $B _ { 0 1 } D F A$ 执行状态迁移为 $0 ^ { \prime }  1 ^ { \prime }  3 ^ { \prime }  6 ^ { \prime }$ ； $B _ { 2 3 } D F A$ 也执行状态迁移为 $0 ^ { \prime }  1 ^ { \prime }  3 ^ { \prime }  6 ^ { \prime }$ ；由于$B _ { 0 1 } D F A$ 的状态 $0 ^ { \prime }$ 和 $1 ^ { \prime }$ 不是匹配状态，且 $B _ { 2 3 } D F A$ 的状态 $0 ^ { \prime }$ 、 $1 ^ { \prime }$ 和 $3 ^ { \prime }$ 也不是匹配状态，对$B _ { \mathrm { 0 1 } } D F A$ 的状态 $3 ^ { \prime }$ 和 $B _ { 2 3 } D F A$ 的状态 $6 ^ { \prime }$ 进行求交集运算，输出原始匹配状态{2}及其对应的匹配字符串集 $\{ h e \}$ 。
+
+# 3.4.2首尾分割阿霍-克拉斯科算法
+
+杨怡华（音译，Yi-Hua Yang）等人[29]提出了一种基于首尾分割确定自动机的阿霍-克拉斯科算法，即将原始确定自动机分割成1个首部确定自动机和多个并行尾部非确定型有限自动机，并利用多核处理器的多核多线程来实现首尾分割确定自动机。图10给出了字符串集$\{ h e , s h e , h i s , h e r s \}$ 的首尾分割确定自动机，即沿着树深度为2进行分割，其中左图是1个首部确定自动机，右图是3个并行尾部非确定型有限自动机。如图10所示，状态2、6和4是触发状态，即当首部确定
+
+![](images/82451d8798d64b832e3c76f4faf5d102371cc92c94bd5363d05efcd6254233fe.jpg)  
+图10．字符串集 $\{ h e , s h e , h i s , h e r s \}$ 的首尾分割确定自动机
+
+自动机迁移到触发状态时，启动相应的尾部非确定型有限自动机线程进行状态迁移。在多核处理器平台上，首部确定自动机是主线程，尾部非确定型有限自动机是子线程，当主线程启动子线程后，主线程与子线程并行执行。
+
+首尾分割确定自动机的匹配过程是：设置初始当前状态为0，当读入一个字符时，首部确定自动机的当前状态迁移到下一个状态；如果下一状态为触发状态，触发相应的尾部非确定型有限自动机线程，设置触发状态为尾部非确定型有限自动机的当前状态，迁移到相应的下一状态；并设置触发状态为首部确定自动机的当前状态，并依次执行状态迁移；如果首部确定自动机或尾部非确定型有限自动机的下一个状态为匹配状态，输出所有匹配字符串。例如，在图10中，当读入一个字符串{sohershe}时，从初始状态0开始，首部确定自动机执行状态迁移为 $0 \to 3 \to 0 \to 1 \to 2 \to 0 \to 3 \to 4 \to 2$ ，当迁移到状态2或4时，先后启动2次尾部非确定型有限自动机线程分别执行状态迁移为 $2  8  9$ 和 $4  5$ ，并输出匹配字符串集 $\{ h e , s h e , h i s , h e r s \}$ 。
+
+# 3.4.3基于并行布隆过滤器的阿霍-克拉斯科算法
+
+达马普利卡等人[30提出了一种基于并行布隆过滤器的字符串匹配算法，即依据特征字符串长度不同，将特征字符串集分成多个字符串子集，采用布隆过滤器[32来表示每个子集，且多个布隆过滤器是并行查找。图11给出了基于并行布隆过滤器的字符串匹配体系架构，其中每个布隆过滤器表示一组长度相同的特征字符串。
+
+并行布隆过滤器的匹配过程是：读入一个字符串，从串头开始，依次选择多个长度累加的子串，并行查找对应的布隆过滤器，输出所有查找成功的读入字符子串。例如，在图11中，W-2个并行布隆过滤器分别对长度为3,W的读入字符子串进行并行查找。由于布隆过滤器会产生假阳性错误[32],即不属于集合S的元素被误判为属于该集合，基于并行布隆过滤器的字符串匹配算法也会产生假阳性匹配字符串，因而需要查找片外哈希表进行验证。该算法要求高吞吐量的并行存储器访问带宽，存在代价昂贵和可伸缩性差等问题。
+
+![](images/049c695118552ffb2ddc64e3b7e6d7c858d0d8769822d9bd083a8283a39cf11d.jpg)  
+图11．基于并行布隆过滤器的字符串匹配体系架构
+
+# 1 基于硬件的正则表达式匹配算法
+
+随着智能攻击，例如躲避攻击[33]、多态或变型攻击[34-35]等不断涌现，字符串难以准确描述这些攻击的复杂特征，导致字符串匹配算法的检测率降低。由于正则表达式具有丰富和灵活的表达能力[36]，当前的 NIDS/NIPS 已采用正则表达式替代字符串来描述攻击特征，并实现正则表达式匹配算法。
+
+表2基于硬件的正则表达式匹配算法分类  
+
+<html><body><table><tr><td></td><td>迁移边压缩算法</td><td>状态压缩算法</td></tr><tr><td>D²FA10</td><td>√</td><td></td></tr><tr><td>CD²FA11</td><td>√</td><td></td></tr><tr><td>状态融合DFA</td><td></td><td>√</td></tr><tr><td>XFA12</td><td></td><td>√</td></tr></table></body></html>
+
+基于硬件的正则表达式匹配算法可分为：迁移边压缩的正则表达式匹配算法和状态压缩的正则表达式匹配算法。如表2所示，迁移边压缩算法是研究如何通过减少冗余迁移边来压缩确定自动机存储空间开销，例如基于 $\mathrm { D } ^ { 2 } \mathrm { F } \mathrm { A } ^ { [ 3 7 ] }$ 和基于 $\mathrm { C D } ^ { 2 } \mathrm { F A } ^ { [ 3 8 ] }$ 的正则表达式匹配算法；状态压缩算法是研究如何通过减少冗余状态来压缩确定自动机存储空间开销，例如基于状态融合的确定型有限自动机[39]和基于扩展有限自动机[40-411的正则表达式匹配算法。本节分别介绍原始正则表达式匹配算法、迁移边压缩和状态压缩的正则表达式匹配算法。
+
+# 4.1原始正则表达式匹配算法
+
+正则表示式匹配算法的原始确定自动机构建过程分为模式编译和子集构造[37]。与阿霍-克拉斯科算法相类似，模式编译过程是构建一颗从初始状态到匹配状态的有向特里树；子集构造过程是从初始状态开始，为每个状态构建确定性迁移边，即将非确定型有限自动机等价转换为确定型有限自动机。正则表达式具有灵活和丰富的特殊字符，例如" $\cdot _ { + }$ 表示任意一个以上字符，“\*"表示任意多个字符，“」"表示或关系，“."表示单个字符通配符，“？"表示任意一个字符，“{}"表示字符重复，“[]"表示字符子集，“[]"表示非字符子集。图12给出了正则表达式集 $\{ \cdot { * } a b \cdot { * } c , \cdot { * } d e \}$ 的原始确定自动机，其中左图是状态迁移，右图是对应的状态迁移表。如图12所示，在状态迁移表中，列项"\*"表示除字母表 $\{ a , b , c , d , e \}$ 之外的其他字符，用于匹配失效迁移边。
+
+原始确定自动机的匹配过程是：设置初始当前状态为0，当读入一个字符时，当前状态迁移到下一个状态，并设置下一个状态为当前状态，依次执行状态迁移；如果下一个状态为匹配状态，输出所有匹配字符串。例如，在图12中，当读入一个字符串{abadcade}时，从初始状态0开始，原始确定自动机
+
+![](images/ed3a797400ca0ec5f02ae901cbb5db23892b8813f3e3991a558bc0bb8aca2f93.jpg)  
+图12．正则表达式集 $\{ \cdot * a b \cdot * c , \cdot * d e \}$ 的原始确定自动机
+
+执行状态迁移为 $0  1  2  2  6  3  2  6  7$ ，并输出匹配字符串集 $\{ \cdot * a b \cdot * c , \cdot * d e \}$ 。
+
+确定自动机存储空间大小是由状态个数和每个状态的迁移边条数所决定的。对于正则表达式匹配算法，造成确定自动机存储空间需求大的主要原因是：
+
+在迁移边方面，确定自动机存在许多冗余迁移边，包括状态间和状态内的冗余迁移边；  
+在状态方面，由于正则表达式采用许多语义丰富的独特符号，例如“ $\ast ^ { , \ast }$ ，“{}”和“[]"等，确定自动机需要大量的额外状态来记录部分匹配结果，导致其状态空间爆炸。
+
+因此，研究者主要从状态和迁移边等两方面压缩确定自动机存储空间需求。
+
+# 4.2迁移边压缩的正则表达式匹配算法
+
+# 4.2.1基于 $\mathbf { D } ^ { 2 } \mathbf { F A }$ 的正则表达式匹配算法
+
+库玛（S.Kumar）等人[7提出了一种基于 $\mathrm { D } ^ { 2 } \mathrm { F A }$ 的正则表达式匹配算法，即采用一条默认迁移边替代不同状态之间的相同迁移边，而保留不同迁移边，从而减少确定自动机存储空间开销。图13给出了正则表达式集$\{ \cdot * a b \cdot * c , \cdot * d e \}$ 的 $\mathrm { D } ^ { 2 } \mathrm { F A }$ ，其中左图是状态迁移，右图是对应的非默认迁移边。图中，在 $\mathrm { D } ^ { 2 } \mathrm { F A }$ ，虚线表示默认迁
+
+![](images/b2a91c3517edfd6671e97542e33ae277c838bd7dad565f4cee47103bc7a006c2.jpg)  
+图13．正则表达式集 $\{ \cdot * a b \cdot * c , \cdot * d e \}$ 的 $\mathrm { D } ^ { 2 } \mathrm { F A }$
+
+移边，实线表示正常迁移边。例如，当读入一个字符 $\pmb { a }$ 时，当前状态5查找其默认迁移边，迁移到状态4；由于不存在匹配字符 $\pmb { a }$ 的正常迁移边，状态4又查找其默认迁移边，迁移到状态0；状态0查找匹配字符 $\pmb { a }$ 的正常迁移边，最后迁移到状态1。因此，状态5执行状态迁移为 $a : 5 \to \{ 4 , 0 , 1 \}$ 。
+
+$\mathrm { D } ^ { 2 } \mathrm { F A }$ 的匹配过程是：设置初始当前状态为0，当读入每个字符时，当前状态查找其正常迁移边是否匹配成功。如果匹配成功，当前状态迁移到下一个状态，并设置下一个状态为当前状态，继续匹配下一个字符；如果匹配不成功，当前状态查找其默认迁移边，迁移到下一个状态，该状态查找其正常迁移边是否匹配成功；如果匹配成功，该状态迁移到下一个状态，否则，继续查找其默认迁移边，直到其正常迁移边匹配成功。例如，在图13中，当读入一个字符串{abadcade}时，在 $\mathrm { D } ^ { 2 } \mathrm { F A }$ 中查找出所有匹配字符串；从初始状态0开始， $\mathrm { D } ^ { 2 } \mathrm { F A }$ 执行状态迁移为 $0  1  2  2  6  \{ 2 , 3 \}  \{ 2 , 2 \}  6  7$ ，并输出匹配字符串集$\{ \cdot { * } a b \cdot { * } c , \cdot { * } d e \}$ 。由于采用默认迁移边， $D ^ { 2 } \mathrm { F A }$ 虽然可显著减少存储空间开销，但是存在匹配吞吐量低等问题。例如，当读入一个字符串{abadcade}时，图12的原始确定自动机执行8 次状态迁移，而图13的 $\mathrm { D } ^ { 2 } \mathrm { F A }$ 执行10次状态迁移。
+
+# 4.2.2基于 $\mathbf { C D ^ { 2 } F A }$ 的正则表达式匹配算法
+
+库玛等人[38]提出了一种基于$\mathrm { C D } ^ { 2 } \mathrm { F A }$ 的正则表达式匹配算法，即在$\mathrm { D } ^ { 2 } \mathrm { F A }$ 的每个状态上增加下一默认迁移边的部分内容标识，以消耗更多存储空间为代价来提高 $\mathrm { D } ^ { 2 } \mathrm { F A }$ 的匹配吞吐量。图14给出了正则表达式集$\{ \cdot * a b \cdot * c , \cdot * d e \}$ 的 $\mathrm { C D } ^ { 2 } \mathrm { F A }$ ，其中左图是状态迁移，右图是每个状态维护的额外内容标识。如图14所示，在 $\mathrm { C D } ^ { 2 } \mathrm { F A }$ 中，每个状态的内容标识包括2类字段，即
+
+![](images/1d16f076085b9c0016e9986c8e0e2e5c037decdc1d28890d1fb5d2409f3c5f4d.jpg)  
+图14．正则表达式集 $\{ \cdot * a b \cdot * c , \cdot * d e \}$ 的 $\mathrm { C D } ^ { 2 } \mathrm { F A }$
+
+默认迁移边路径上每个状态的匹配字符和根节点。例如，状态5的内容标识为“ $\mathbf { \Pi } _ { - , e , 0 }$ ”，其中“_”表示状态5的空字符，“e”表示状态4的有效字符， ${ ^ { 6 6 } } 0 ^ { \prime \prime }$ 表示默认迁移边路径的根节点0。由于不包含默认迁移边，状态0和2的额外内容标识为自身状态。
+
+与 $\mathrm { D } ^ { 2 } \mathrm { F A }$ 相类似， $\mathrm { C D } ^ { 2 } \mathrm { F A }$ 的匹配过程是：设置初始当前状态为0，当读入每个字符时，当前状态查找其正常迁移边是否匹配成功。如果匹配成功，当前状态迁移到下一个状态，并设置下一个状态为当前状态，继续匹配下一个字符；如果匹配不成功，当前状态利用其额外内容标识，跳跃式查找默认迁移边路径上的下一匹配状态，当前状态直接迁移到该状态，并设置下一个状态为当前状态，依次状态迁移；如果下一状态是匹配状态，输出所有匹配字符串。例如，在图14中，当读入一个字符串{abadcade}时，在 $\mathrm { C D } ^ { 2 } \mathrm { F A }$ 中查找出所有匹配字符串；从初始状态0开始， $\mathrm { C D } ^ { 2 } \mathrm { F A }$ 执行状态迁移为 $0  1  2  2  6  3  2  6  7$ ，并输出匹配字符串集 $\{ \cdot { * } a b \cdot { * } c , \cdot { * } d e \}$ 。因此，与原始确定自动机相比， $\mathrm { C D } ^ { 2 } \mathrm { F A }$ 执行相同次数的状态迁移，但是显著减少其确定自动机存储空间开销。
+
+# 4.3状态压缩的正则表达式匹配算法
+
+# 4.3.1基于状态融合的正则表达式匹配算法
+
+贝奇（M.Becchi）等人[39提出了一种基于状态融合的确定自动机的正则表达式匹配算法，即采用迁移边标记方法来融合多个非等价状态，从而减少确定自动机存储空间开销，并确保其最坏情况匹配性能。图15 给出了正则表达式集 $\{ ( a b c | d e f ) g + 1 \}$ 的状态融合确定自动机。其中左图是原始确定自动机，右图是对应的状态融合的确定自动机。如图15所示，状态融合确定自动机标记迁移边为“."和"/”，则"·0"和"·1"表示当执行状态迁移时，分别设置标记位为0和1；“/0"和"/1"表示当标记位设置为0和1时才执行状态迁移。例如，当状态3和4融合成一个状态3-4时，迁移边“ $\pmb { b } \cdot 0 / 0$ "表示当标记位为0时，执行状态迁移，设置标记位为0；迁移边“ $\boldsymbol { c } / 0$ "表示当标记为0时，执行状态迁移。
+
+状态融合确定自动机的匹配过程是：设置初始当前状态为0，当读入每个字符时，当前状态查找出匹配迁移边，检查该迁移边的标识位来决定是否执行状态迁移，或从当前状态迁移到下一个状态，设置相应的标识位以及下一个状态为当前状态，并依次状态迁移；如果下一个状态为匹配状态，输出所有匹配字符串。例如，在图15中，当读入一个字符串{abcdefg}时，在状态融合确定自动机中查找所有匹配字符串；从初始状态0开始，状态融合确定自动机执行状态迁移为0 $ \{ 1 - 2 \}  \{ 3 - 4 \}  5  \{ 1 - 2 \}  \{ 3 - 4 \}  5 $ 6，并输出匹配字符串集$\{ ( a b c | d e f ) g + 1 \}$ 。
+
+![](images/d79f8cb0bdd39553bf938e37ac11f548a6f5bab52aba33d09d4b98098e17f62d.jpg)  
+图15．正则表达式集 $\{ ( a b c | d e f ) g + 1 \}$ 的状态融合确定自动机
+
+# 4.3.2基于扩展有限自动机的正则表达式匹配算法
+
+史密斯（R.Smith）等人[40-41提出了一种基于扩展有限自动机的正则表达式匹配算法，即在状态上增加辅助变量和简单操作指令，避免确定自动机状态空间爆炸问题，从而减少确定自动机存储空间开销。对于正则表达式，确定自动机状态空间爆炸产生的根本原因是：当多个单独确定自动机合成一个组合确定自动机时，一个单独确定自动机的非歧义状态与其他单独确定自动机的歧义状态进行排列组合，导致组合确定自动机产生大量的额外状态，以记录所有部分匹配结果。扩展有限自动机采用辅助变量替代额外状态来记录部分匹配结果，执行简单操作指令来检查匹配是否成功。在扩展有限自动机中，操作指令主要包括赋值(Set)、重置(Reset)和比较(Compare)等。
+
+![](images/5f30192ec5f0a519e032a74ff35b65fbe663be30202fb88cd3b27b386c001911.jpg)  
+图16．正则表达式集 $\{ \cdot { * \mathbf { } \mathbf { } a b c \cdot ^ { * } d e } , \cdot * f g \cdot * f \pmb { h } \}$ 的扩展有限自动机
+
+图16 给出了正则表达式集 $\{ \cdot { * \mathbf { } } a b c \cdot { * } d e , \cdot { * } f g \cdot { * } f h \}$ 的扩展有限自动机，其中左图是2个单独扩展有限自动机，右图是对应的组合扩展有限自动机（省略了交叉迁移边和失效迁移边)。如图16所示，对于正则表达式 $\left\{ \mathbf { \nabla } \cdot * a b c \cdot * e \right\}$ 的单独扩展有限自动机，在状态3上增加了赋值操作指令 $\pmb { b i t 1 } = 1$ ，表示当迁移到状态3时，设置bit1为1，用于记录已匹配abc；在状态5上增加了比较操作指令 $\mathrm { i f } ( b i t 1 = 1 )$ ，表示当迁移到状态5时，检查bit1是否为1，如果bit1为1，则成功匹配id1，输出匹配正则表达式 $\{ \cdot * a b \cdot * c d \}$ 。相类似地，对于正则表达式$\{ \cdot * f g \cdot * f h \}$ 的单独扩展有限自动机，在状态C上增加了赋值操作指令 $\pmb { b i t } \hat { 2 } = 1$ ，在状态D上增加了比较操作指令 $\mathrm { i f } ( b i t 2 = 1 )$ 。如图16所示，在组合扩展有限自动机的状态 $3 ^ { \prime }$ 和状态 $7 ^ { \prime }$ 上分别增加了bit1和bit2的赋值操作指令，在状态 ${ \boldsymbol { 5 } } ^ { \prime }$ 和 $8 ^ { \prime }$ 上分别增加了bit1和bit2的比较操作指令。因此，当表示 $\{ \cdot { * \mathbf { } } a b c \cdot { * } d e , \cdot { * } f g \cdot { * } f h \}$ 时，组合扩展有限自动机仅需要9个状态和2个辅助比特变量。
+
+扩展有限自动机匹配过程是：设置初始当前状态为0，当读入每个字符时，当前状态查找相应的迁移边，迁移到下一个状态；执行下一状态的操作指令，检查辅助变量是否设置来判断匹配是否成功。例如，在图16中，当读入一个字符串{abcfhde}时，在扩展有限自动机中查找出所有匹配字符串；从初始状态 $0 ^ { \prime }$ 开始，扩展有限自动机执行状态迁移为$0 ^ { \prime }  1 ^ { \prime }  2 ^ { \prime }  3 ^ { \prime }  6 ^ { \prime }  8 ^ { \prime }  4 ^ { \prime }  5 ^ { \prime }$ ，并输出匹配字符串集 $\{ \cdot { * a b c \cdot * d e } \}$ 。
+
+# 5 结论与展望
+
+DPI技术面临高性能挑战，即如何满足高速数据包处理的存储空间需求和吞吐量，提升特征匹配的可伸缩性。本文是从时间和空间开销等方面综述了基于硬件的字符串匹配算法和正则表达式匹配算法，设计与实现时空高效数据包内容过滤。在基于硬件的字符串匹配算法中，本文主要介绍了面向硬件实现的存储高效字符串匹配算法、多字符字符串匹配算法以及并行字符串匹配算法；在基于硬件的正则表达式匹配算法中，本文主要介绍了迁移边压缩和状态压缩的正则表达式匹配算法。由于现代嵌入式硬件具有存储空间受限和并行计算能力强等特点，基于硬件的特征匹配算法研究目标是如何通过压缩确定自动机存储空间需求，在片上高速存储器上存储和查找整个确定自动机，从而实现高吞吐量的特征匹配。
+
+随着100Gbps 高速网络应用的日益普及，未来DPI技术将面临线速数据包处理的可伸缩性挑战，即 DPI在处理速率、特征规则库、能耗和价格等方面的可扩展问题。特别是，高速存储器和多核处理器等硬件技术的日新月异，为可伸缩DPI技术带来新的机遇与挑战。未来DPI技术面临如下关键任务：
+
+1． 基于多核处理器的并行DPI 技术研究。多核处理器，例如 Intel Xeon CPU 和GPGPU集成了成百上千个CPU核，具有强大的并行计算能力。并行DPI技术研究面临如何细粒度并行化特征匹配算法[42]，在多个并行CPU 核上实现特征匹配的数据并行、任务并行和流水线等多粒度并行；同时，进一步研究存储高效特征匹配算法，即在每个CPU 核的高速缓冲器上存储和查找整个确定自动机，从而加速DPI的匹配吞吐量。  
+2． 基于TCAM的高效DPI技术研究。随着高速存储器技术的迅猛发展，TCAM查找速率越来越快、存储空间越来越大，而其能耗和价格却不断降低。基于TCAM的DPI技术可应用于国家骨干网络的高速链路上，实现高速率大容量数据包识别与过滤。由于TCAM能耗与存储空间开销成正比，基于TCAM的高效DPI技术研究需要研究如何压缩确定自动机存储空间开销[43]，即从迁移边和状态等方面综合减少状态迁移表的存储空间需求，从而减少其能耗，提高DPI的匹配性能。  
+3． 面向网络虚拟化的高性能DPI技术研究。GENI和FIND 等下一代互联网研究项目采用网络虚拟化思想，即在一个互联网基础设施的硬件平台上动态运行多个相互隔离的虚拟网络及其应用[44]。支持虚拟化的可编程网络设备是实现网络虚拟化的关键部件，即在一个通用硬件平台上运行多个虚拟网络设备，例如虚拟化可编
+
+程路由器和虚拟NIDS/NIPS。高性能DPI技术研究面临如何在可编程网络设备的计算和存储能力受限条件下动态运行多个并行特征匹配算法，并确保每个特征匹配算法的存储空间需求和吞吐量，从而支持更多虚拟网络设备，提升其可伸缩性。
+
+# 参考文献：
+
+[1] S. Staniford, V. Paxson and N. Weaver, How to own the Internet in your spare time. In: Proceedings of USENIX Security Symposium, 2002.   
+[2] S. Singh, C. Estan and G. Varghese and S. Savage, Automated worm fingerprinting. In: Proceedings of OSDI, 2004.   
+[3] Frost and Sulivan. World intrusion detection and prevention systems markets. 2007.   
+[4] M.Roesch, Snort -lightweight intrusion detection for networks. In: Proceedings of LISA,1999.   
+[5] V. Paxon, Bro: a system for detecting network intruders in real-time. Computer Networks,1999, 31(23-24): 2435-2463   
+[6] Snort-the de facto standard for intrusion detection/prevention. htp://www.snort.org,2009.   
+[7] J.Levandoski，E. Sommer and M. Strait， Application layer packet classifier for Linux. http://17-filter.sourceforge.net/, 2008.   
+[8] S. Sen, O. Spatscheck and D. Wang, Accurate, scalable in-network identification of P2P trafic using application signatures. In: Proceedings of WWW, 2004.   
+[9] D.E.Knuth, J. H. Morris and V. R. Pratt, Fast pattern matching in strings. SIAM Journal on Computing, 1977, 6(2): 323-350.   
+[10] R. S. Boyer and J. S. Moore,A fast string searching algorithm. Communications of the ACM, 1977, 20(10): 762-772.   
+[11] A.V.Aho and M.J. Corasick，Efficient string matching:an aid to bibliographic search. Communications of the ACM,1975,18(6): 333-340.   
+[12]B. Commentz-Walter, A string matching algorithm fast on the average.In: Proceedings of the 6th Colloquium on Automata, Languages and Programming, 1979.   
+[13]C. Coit, S. Staniford and J. McAlerney, Towards faster string matching for intrusion detection. In: Proceedings of DARPA Information Survivability Conference and Exhibition, 2002.   
+[14]R. Sidhu and V. K. Prasanna, Fast regular expression matching using FPGAs. In: Proceedings of IEEE FCCM,2001.   
+[15]C.R. Clark and D.E. Schimmel,Efficient reconfigurable logic circuit for matching complex network intrusion detection patterns. In: Proceedings of IEEE FPL,2003.   
+[16]J. Moscola, J. Lockwood, R. P.Loui and M. Pachos, Implementation of a content-scanning module for an internet firewall. In: Proceedings of IEEE FCCM, 2003.   
+[17]C.R. Clark and D.E. Schimmel, Scalable patern matching on high-speed networks.In: Proceedings of IEEE FCCM, 2004.   
+[18]I. Sourdis and D. Pnevmatikatos,Pre-decoded CAMs for efficient and high-speed NIDS pattern matching.In: Proceedings of IEEE FCCM,2004.   
+[19] Xilinx Vertex-5 family overview. htp://www.xilinx.com,2009.   
+[20] 黄昆，张大方，谢高岗，金军航，一种面向深度数据包检测的紧凑型正则表达式匹配算法．中国 科学：信息科学,2010,40(2):356-370.   
+[21] B.C.Brodie,R.K. Cytron and D.E. Taylor,A scalable architecture for high-throughput regular-expression pattern matching. In: Proceedings of ACM ISCA, 2006.   
+[22] J. van Lunteren, High performance pattern-matching for intrusion detection. In: Proceedings of IEEE INFOCOM, 2006.   
+[23]T. Song, W. Zhang and D. Wang,A memory efficient multiple pattern matching architecture for network security. In: Proceedings of IEEE INFOCOM, 2008.   
+[24]S.Dharmapurikar and J. Lockwood,Fast and scalable patern matching for content filtering. In: Proceedings of ACMANCS,2005.   
+[ɔ]H. Lu,Λ, Zneng,B. Liu,Λ. Znang and Y. Liu,A memory-elcient paranel sring maucming architecture for high-speed intrusion detection. IEEE Journal on Selected Areas in Communication, 2006,34(10): 1793-1804.   
+[26]M. Alicherry, M. Muthuprasanna and V. Kumar, High speed pattern matching for network IDS/IPS. In: Proceedings of IEEE ICNP, 2006   
+[27]N. Hua,H. Song and T. V.Lakshman, Variable-stride multi-patern matching for scalable deep packet inspection. In: Proceedings of IEEE INFOCOM, 2009.   
+[28]L.Tan,B.Brotherton and T. Sherwood,Bit-split string-matching engines for intrusion detection and prevention.ACM Transactions on Architecture and Code Optimization, 2006,3(1): 3-34.   
+[29]Y.E. Yang, V. K. Prasanna and C. Jiang,Head-body partitioned string matching for deep packet inspection with scalable and attack-resilient performance.In: Proceedings of IEEE IPDPS,2010.   
+[30]S. Dharmapurikar, P. Krishnamurthy, T. S. Sproulland J W.Lockwood, Deep packet inspection using parallel bloom filters.IEEE Micro,2004,24(1): 52-61.   
+[31]N. Tuck,T. Sherwood,B. Calder and G. Verghese, Deterministic memory-eficient string matching algorithms for intrusion detection. In: Proceedings of IEEE INFOCOM, 2004.   
+[32]A.Broder and M. Mitzenmacher， Network applications of Bloom filters: a survey. Internet Mathematics,2004,1(4):485-509.   
+[33] M. Vutukuru, H. Balakrishna,and V. Paxson, Efficient and robust TCP stream normalization. In: Proceedings of IEE Symposium on Security and Privacy, 2008.   
+[34]C.Kanich, C. Kreibich,K.Levchenko,B. Enright, G M. Voelker, V. Paxson and S. Savage, Spamalytics: an empirical analysis of spam marketing conversion. Communications of ACM, 2009, 52(9): 99-107.   
+[35] D.Brumley，J. Newsome，D. Song,H. Wang and S. Jha, Towards automatic generation of vulnerability-based signatures.In: Proceedings of IEE Symposium on Security and Privacy, 2006.   
+[36]R. Sommer and V.Paxson, Enhancing byte-level network intrusion detection signatures with context. In: Proceedings of ACM Computer and Communication Security, 2003.   
+[37]S. Kumar, S. Dharmapurikar, F. Yu, P. Crowley and J. Turner, Algorithms to accelerate multiple regular expressions matching for deep packet inspection. In: Proceedings of ACM SIGCOMM, 2006.   
+[38]S. Kumar, J. Turmer and J. Williams,Advanced algorithms for fast and scalable deep packet inspection. In: Proceedings of ACM ANCS,2006.   
+[39]M. Becchi and S. Cadambi, Memory-efficient regular expression search using state merging. In: Proceedings of IEEE INFOCOM, 2007.   
+[40] R. Smith,C. Estan and S. Jha, XFA: faster signature matching with extened automata. In: Proceedings of IEEE Symposium on Security and Privacy, 2008.   
+[41]R. Smith,C.Estan, S.Jha and S. Kong,Deflating the big bang: fast and scalable deep packet inspection with extened finite automat. In: Proceedings of ACM SIGCOMM, 2008.   
+[42]R. Sommer,V. Paxson and N. Weaver,An architecture for exploiting multi-core processors to paralelize network intrusion detection prevention. Concurrency and Computation: Practice and Experience,2009,21:1255-1279.   
+[43]C.R. Meiners, J. Patel,E.Norige,E. Torng and A. Liu,. Fast regular expression matching using small TCAMs for network intrusion detection and prevention systems. In: Proceedings of USENIX Security, 2010.   
+[44]A.Bavier, N. Feamster,M. Huang,L.Peterson and J. Rexford,In VINI veritas: realistic and controlled network experimentations.In: Proceedings of ACM SIGCOMM, 2006.
+
+作者简介：黄昆: 中国科学院计算技术研究所网络技术研究中心，博士后 huangkun09@ict.ac.cn谢高岗： 中国科学院计算技术研究所，网络技术研究中心主任，研究员，博士生导师

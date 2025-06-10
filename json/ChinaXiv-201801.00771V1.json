@@ -1,0 +1,372 @@
+[
+    {
+        "type": "text",
+        "text": "Effects of temperature and water limitation on the germination of Stipagrostis ciliata seeds collected from Sidi Bouzid Governorate in Central Tunisia ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lobna MFAKHFAKHl\\*,NaserAANJUM²,MohamedCHAIEB' ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Department ofLife Sciences,Facultyof Sciences,Universityof Sfax, Sfax 3Ooo,Tunisia; CentreforEnvironmentalandMarineStudiesandDepartmentofChemistry,UniversityofAveiro,Aveiro3810-193,Portugal ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Most ecological studies in North Africa reveal a process of continuous degradation of rangeland ecosystems as a result of overgrazing. This degradation appears across the decreasing of perennial grass diversity. Indeed, the majority of steppe ecosystems are characterized by a low density of perennial grass species at present. This study evaluated the efects of temperature and water limitation on the seed germination of Stipagrostis ciliata (Desf.) de Winter,a perennial grass species. The seeds were collcted from the Bou Hedma Park, Sidi Bouzid Governorate, Central Tunisia. The thermal time and hydrothermal time models were used to describe the seed germination of $S$ .ciliataunderdifferent water potentials and temperatures. The germination response of $S _ { \\cdot }$ ， ciliata seeds in darkness was evaluated over a range of temperatures ( $1 5 ^ { \\circ } \\mathrm { C } ,$ $2 0 ^ { \\circ } \\mathrm { C } ,$ $2 5 ^ { \\circ } \\mathrm { C } ,$ $3 0 ^ { \\circ } \\mathrm { C }$ and $3 5 ^ { \\circ } \\mathrm { C } )$ and across a wide range of osmotic potentials (0.0,-0.2，-0.6, -1.2, $- 1 . 6$ and $- 2 . 0 \\ \\mathrm { M P a }$ ）of the polyethylene glycol $\\left( \\mathrm { P E G } _ { 6 0 0 0 } \\right)$ solutions at each temperature level. Among the tested temperatures, $2 5 ^ { \\circ } \\mathrm { C }$ was found to be the optimal temperature to the germination of $S$ ，ciliata seeds. The final germination percentage $( 7 5 . 2 \\% )$ was obtained with distilled water. The progressive decrease of osmotic potential of the $\\mathrm { P E G } _ { 6 0 0 0 }$ solutions inhibited the seed germination. However, the number of days to first germination was increased with a reduction of osmotic potential. A significant positive relationship was identified between final germination percentage of $S$ ，ciliata seedsand osmotic potential of the $\\mathrm { P E G } _ { 6 0 0 0 }$ solutions, with $R ^ { 2 }$ ranging from 0.5678 to 0.8761. Furthermore, a high degree of congruency between predicted and observed germination time course curves was observed. In general, $S$ . ciliata exhibits a significant adaptation capacity for water limitation and high temperature in arid ecosystems. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Stipagrostis iliata; germination;temperature; waterpotential; hydrothermal model;arid zone;Bou Hedma Park ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Vegetation in arid regions of North Africa is characterized by low biodiversity. The climate change and human activities have been accused for the degradation of arid ecosystems during the last decades (Le Houérou, 1984; Chaieb et al., 1992, 1996; Valencia et al., 2015). Indeed, in addition to overgrazing, among climatic factors, the high temperature,low and irregular rainfall and high potential evaporation, are the top ecosystem disturbance factors in arid regions. In this regard, desertification affects about $40 \\%$ of the terrestrial ecosystems around the world (Reynolds et al., 2OO7). This problem is interestingly ever increasing in North Africa, and especially in Tunisia (Ouled Belgacem et al., 2Oo6). Except for the decreasing of herbaceous species diversity (especially the perennial species), many species of the arid zones (i.e., Cenchrus ciliaris L, Digitaria commutata Schult, and Stipagrostis ciliata (Desf.） de Winter) have been replaced by other chamaephytes species with a very low pasture value (Maestre et al., 2OO6; Mnif and Chaieb, 2010). Meanwhile, for degraded pastures, restoring rangeland quality and reducing wind erosion both require an integrated rehabilitation process. In this context, several researches have been conducted in Tunisia (Aronson et al.， 1993). These studies concerned specially the ecophysiological responses of native species, particularly to drought and water stress (Aronson et al.,1993; Chaieb et al.,1996; Le Houérou, 2O05). Several studies have shown that the species establishment processes may differ in their response to drought, reproductive effort, flowering time, seed dispersal and germination behavior (Gorai et al.， 2OO9). Particularly， the seed germination behavior and seedling establishment in relation to thermal and water stress,are very important to determine the growth and production of plant species. In fact, extremely high temperature and low soil moisture conditions were reported to significantly affect the seed germination in arid and semi-arid regions (Jauffret and Visser, 2003). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "S. ciliata is a perennial $\\mathrm { C } _ { 4 }$ grass that has a wide distribution in the hot and dry regions of the tropical zones (Kellogg, 2OO1). This species can tolerate arid bioclimate and wind erosion. Hence, S. ciliata is a useful grass species for fixing sand in shifting and semi-fixed sandy lands (Daur, 2012). Therefore, it would be interesting to study its ecophysiological germination characteristics and its field ecological requirements. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The present study hypothesized that the seed germination percentage of S. ciliata may increase with increasing temperature between $1 5 ^ { \\circ } \\mathrm { C }$ and $3 5 ^ { \\circ } \\mathrm { C }$ and decreasing water potential. Specifically, the aims of this study were (1) to examine the effect of constant temperature (between $1 5 ^ { \\circ } \\mathrm { C }$ and $3 5 ^ { \\circ } \\mathrm { C } )$ ） on the seed germination of S. ciliata; (2) to analyze the germination response of S. ciliata seeds to a wide range of osmotic potential of the polyethylene glycol $\\left( \\mathrm { P E G } _ { 6 0 0 0 } \\right)$ solutions at each temperature level; and (3) to describe the patterns of seed germination response to incubating temperature regimes in terms of the hydrothermal time parameters. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1Seed collection ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Stipagrostis ciliata is a $\\mathrm { C } _ { 4 }$ plant of the Poaceae family. The geographical distribution of this plant species covers the desert regions of South and North Africa (Mosallam et al., 2OO9). Considering its significant adaptability to hot arid climate and gypsum soil, S. ciliata has been advocated to fix sand in shifting and semi-fixed sandy lands (Daur, 2O12). In this study, the S. ciliata seeds were collected from plants growing in the protected area of Bou Hedma Park ( $3 4 ^ { \\circ } 3 9 ^ { \\prime } \\mathrm { N }$ $9 ^ { \\circ } 4 8 ^ { \\prime } \\mathrm { E } )$ in October 2O12. This park is located in Sidi Bouzid Governorate, Central Tunisia. This area is characterized by a Mediterranean arid and semi-arid climate with an irregular precipitation and a dry summer period. Annual mean temperature varies from $3 . 9 ^ { \\circ } \\mathrm { C }$ in winter to $3 6 . 2 ^ { \\circ } \\mathrm { C }$ in summer and mean annual precipitation is around $1 8 0 \\mathrm { m m }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2Drought and temperature exposure conditions and seed germination tests ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The effect of temperature on the seed germination of S. ciliata was evaluated by incubating seeds in a $9 0 \\mathrm { - m m }$ glass Petri dish with $1 0 ~ \\mathrm { m L }$ of distilled water at constant temperatures of $1 5 ^ { \\circ } \\mathrm { C }$ ， $2 0 ^ { \\circ } \\mathrm { C }$ $2 5 ^ { \\circ } \\mathrm { C }$ $3 0 ^ { \\circ } \\mathrm { C }$ and $3 5 ^ { \\circ } \\mathrm { C }$ ， respectively. The incubation was made for in a dark incubator (LMS Cooled Incubator, LMS Ltd., Kent, UK). The temperature range was set according to the observed temperatures in arid zones of Tunisia, as well as the optimum temperature for the growth of $\\mathrm { C } _ { 4 }$ species (Yamori et al., 2O14). In the arid zones, photosynthesis typically exhibits an optimum temperature range of $1 0 ^ { \\circ } \\mathrm { C } { - } 3 0 ^ { \\circ } \\mathrm { C }$ .Eight replicates of 5O seeds were used for each temperature treatment. Control sets also with eight replicates were maintained separately. The germinated seeds were counted every 2 d during a 2O-d period after exposure. A seed was considered germinated when the emergence of the radicle was $1 . 0 ~ \\mathrm { m m }$ in length (Bewley and Black, 1994). Different concentrations of the Glycol Polyethylene $\\left( \\mathrm { P E G } _ { 6 0 0 0 } \\right)$ solutions were used to expose S. ciliata seeds for studying the effect of water potential on the seed germination. PEG6oo solutions equivalent to the following osmotic potentials were prepared according to the formula developed by Michel and Kaufmann (1973). The obtained water potentials $( 0 . 0 , - 0 . 2 , - 0 . 6 , - 1 . 2 , - 1 . 6$ and $- 2 . 0 \\ \\mathrm { M P a } )$ were verified by an osmometer. The germination tests were conducted at constant temperatures of $1 5 ^ { \\circ } \\mathrm { C }$ $2 0 ^ { \\circ } \\mathrm { C }$ $2 5 ^ { \\circ } \\mathrm { C }$ $3 0 ^ { \\circ } \\mathrm { C }$ and $3 5 ^ { \\circ } \\mathrm { C }$ in dark conditions, respectively. The $\\mathrm { P E G } _ { 6 0 0 0 }$ solution was used in this study because it is non-penetrating and has been reported to form a collidal solution, which had a similar effect on the matrix properties of soil particles. This method provides a good estimate of seed germination behavior in relation to soil moisture under field conditions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The final germination percentage of S. ciliata seeds was calculated as the proportion of final number of germinated seeds in the total seeds at the end of experiment. The cumulative germination percentage is defined as the proportion of accumulated number of germinated seeds in the total seeds by the corresponding number of days. The days to first germination (delay of germination) was determined as the mean time to germination (MTG), following the formula, $\\scriptstyle \\mathbf { M T G } = \\sum ( n _ { i } \\times d ) / N$ (where $n _ { i }$ is the number of seeds germinated at the $i ^ { \\mathrm { t h } }$ day, $d$ is the incubation period (d) and $N$ is the total number of germinated seeds). The germination rate (GR) was estimated using a modified Timson's index of germination velocity, ${ \\mathrm { G R } } { = } \\sum G / t$ ，where $G$ is the percentage of seed germinated after $2 \\mathrm { d }$ intervals, and $t$ is the total time of germination (Khan and Unger, 2Oo1). The maximum value possible for this index was 50. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3Analyses of germination time and temperature-related parameters ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this study, we analyzed the germination time and temperature-related parameters by regressions based on the thermal time and hydrothermal time models to estimate the relationship between temperature and water potential. The thermal time combined the initial germination time courses in water at five temperatures ( $1 5 ^ { \\circ } \\mathrm { C }$ . $2 0 ^ { \\circ } \\mathrm { C }$ ， $2 5 ^ { \\circ } \\mathrm { C }$ . $3 0 ^ { \\circ } \\mathrm { C }$ and $3 5 ^ { \\circ } \\mathrm { C } )$ ). Germination data were analyzed following the thermal time concept (Dahal and Bradford, 1990,1994; Bradford, 2002), as shown in Equation 1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta _ { T } ( g ) \\mathbf { = } ( T - T _ { b } ) t _ { g } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where, $\\theta _ { T }$ is the thermal time ( $^ { \\circ } \\mathrm { C }$ days） to radicle emergence of percentage $g ; T$ is the actual temperature at which the germination test is conducted ${ \\mathrm { ( } } ^ { \\circ } \\mathrm { C } { \\mathrm { ) } }$ · $T _ { b }$ is the constant base (or minimum) temperature at the sub-optimal temperature range ${ \\mathrm { ( } } ^ { \\circ } { \\mathrm { C ) } }$ ; and $t _ { g }$ is the actual time to germination of percentage $g$ . The hydrothermal time model was used to evaluate the germination time courses in water and osmotic solutions at $1 5 ^ { \\circ } \\mathrm { C }$ $2 0 ^ { \\circ } \\mathrm { C }$ $2 5 ^ { \\circ } \\mathrm { C }$ $3 0 ^ { \\circ } \\mathrm { C }$ and $3 5 ^ { \\circ } \\mathrm { C }$ (Gummerson, 1986; Bradford, 1990). This model is similar to the thermal time model, except the base water potential $( \\boldsymbol { \\varPsi _ { b } } )$ values. ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta _ { H } = ( \\psi - \\psi _ { b ( g ) } ) t _ { g } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where, $\\theta _ { H }$ is the hydrotime constant (MPa days); $\\psi$ is the water potential of the imbibition medium; $\\psi _ { b ( g ) }$ is the base value of $\\psi$ just preventing radicle emergence of percentage $g$ ;and $t _ { g }$ is the actual time to germination of percentage $g$ . Furthermore, the $\\psi _ { b ( 5 0 ) }$ in this study is defined as the mean of the base water potential $\\psi _ { b ( g ) }$ of percentage $g$ . Finally, Equations 1 and 2 were combined and the hydrothermal time model was adopted to analyze the seed germination percentages across $T$ and $\\psi$ conditions (Gummerson, 1986; Bradford, 1990, 1995). The hydrothermal time was expressed as Equation 3. ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\theta _ { H T } = ( \\varPsi - \\varPsi _ { b ( g ) } ) t _ { g } ( T - T _ { b } ) t _ { g } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where, $\\theta _ { H T }$ is the hydrothermal time constant $( \\mathbf { M P a } ^ { \\circ } \\mathbf { C }$ days). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4 Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results of the germination experiments were analyzed using SPSS for Windows (version 13.0). Tukey test (Honestly significant differences, HSD) was used to evaluate the least significant range ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "between means. A two-way analysis of variance (ANOVA) was carried out to explain the effects of main factors (temperature and water limitation) and their interaction on the seed germination. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 Effect of temperature on the seed germination of S. ciliata ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The germination responses of S. ciliata seeds to a wide range of temperature treatments are shown in Figure la. It can be seen that temperature regimes significantly affected the seed germination percentage of this species $( P { < } 0 . 0 0 1 )$ . The germination curves were sigmoid at $2 5 ^ { \\circ } \\mathrm { C }$ and $3 0 ^ { \\circ } \\mathrm { C }$ It should be noted that the final germination percentage was higher than $70 \\%$ at $2 5 ^ { \\circ } \\mathrm { C }$ (Table 1). S. ciliata seeds were able to germinate at temperatures of $2 5 ^ { \\circ } \\mathrm { C } - 3 0 ^ { \\circ } \\mathrm { C }$ ， and the optimal temperature was $2 5 ^ { \\circ } \\mathrm { C }$ ， Seed germination was significantly inhibited at temperatures $1 5 ^ { \\circ } \\mathrm { C }$ 。 $2 0 ^ { \\circ } \\mathrm { C }$ and $3 5 ^ { \\circ } \\mathrm { C }$ . with final germination percentages being $1 0 . 2 5 \\%$ ， $3 9 . 0 0 \\%$ and $34 . 7 5 \\%$ , respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5559a385e20b72453da94ae7fbf13b9ed1d19f115ffe5d6005269504abf4d99a.jpg",
+        "img_caption": [
+            "Fig. 1 (a) Cumulative germination percentage of $S _ { \\mathbf { \\alpha } }$ . ciliata seeds during a 2O-d germination period at different temperatures ( $1 5 ^ { \\circ } \\mathrm { C }$ ， $2 0 ^ { \\circ } \\mathrm { C }$ P $2 5 ^ { \\circ } \\mathrm { C }$ ， $3 0 ^ { \\circ } \\mathrm { C }$ and $3 5 ^ { \\circ } \\mathrm { C }$ ） $\\scriptstyle ( n = 8 )$ , and (b) variations of final germination percentage and mean time to germination (MTG) of $S .$ ciliata seeds at different temperatures $( n { = } 8 )$ ). Bars mean standard errors. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To explain the efect of temperature on the seed germination of S. ciliata, we established the relationship between MTG and final germination percentage (Fig. 1b). The MTG varied significantly with temperatures. The high MTG was in correspondence with the low final germination percentage. The temperature $2 5 ^ { \\circ } \\mathrm { C }$ was characterized by the lowest MTG $( 2 . 4 7 { \\pm } 1 . 5 \\$ d), indicating a rapid seed germination and high final germination percentage. Generally speaking, the seed germination percentage decreased significantly at lower ( $1 5 ^ { \\circ } \\mathrm { C }$ and $2 0 ^ { \\circ } \\mathrm { C }$ ）and higher temperatures $( 3 5 ^ { \\circ } \\mathrm { C } )$ · ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2Hydrothermal time analyses ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Germination responses of S. ciliata seeds to temperature were well described by the thermal time, hydrotime and hydrothermal time at both sub-optimal and supra-optimal temperatures (Table 2). ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/7a883bd19769b0ebad0a27438d2a0b6c87a2f9aae4ef106c9b3deff34283021e.jpg",
+        "table_caption": [
+            "Table 1Days to first germination, mean time to germination (MTG) and final germination percentage of Stipagrostis ciliata seeds at different temperatures during a 2O-d germination period "
+        ],
+        "table_footnote": [
+            "Note:MTG,meantimetogermination.Valuesinthesamecolumnwithdierentlowercaseletersweresignificantlyierent $( P { < } 0 . 0 5 )$ atdifferent temperatures. Mean $\\pm \\mathrm { S E }$ "
+        ],
+        "table_body": "<html><body><table><tr><td>Temperature (C)</td><td>Days to first germination (d)</td><td>MTG (d)</td><td>Final germination percentage (%)</td></tr><tr><td>15</td><td>7.10±2.4c</td><td>8.22±2.8b</td><td>10.25±1.5c</td></tr><tr><td>20</td><td>6.50±2.9bc</td><td>4.74±4.0b</td><td>39.00±4.8c</td></tr><tr><td>25</td><td>2.25±0.4a</td><td>2.47±1.5a</td><td>75.20±2.0a</td></tr><tr><td>30</td><td>2.38±0.5a</td><td>4.22±1.7ab</td><td>47.22±5.7ab</td></tr><tr><td>35</td><td>4.00±2.1ab</td><td>7.84±1.9ab</td><td>34.75±1.0℃</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/4bb4f84a4fada58cfff824d3cf01886113623644d0002c883510c7932e72f622.jpg",
+        "table_caption": [
+            "Table 2 Parameters of S. ciliata seed germination at the sub-optimal and supra-optimal temperature ranges based on a hydrothermal time model analysis "
+        ],
+        "table_footnote": [
+            "Note: $T _ { b }$ ,constant base (or minimum) temperature at the sub-optimal temperature range; $\\theta _ { T _ { b } ( 5 0 ) }$ ,constant thermal time for $5 0 \\%$ of seeds to germinate at the sub-optimal temperature range; $\\sigma$ ，standard deviation; $\\sigma T _ { b }$ ，standard deviation of constant base (or minimum) temperature at the sub-optimal temperature range; $T _ { c }$ ,constant ceiling (or maximum) temperature at the supra-optimal temperature range; $\\theta T _ { c ^ { ( 5 0 ) } }$ ,constant thermal time for $5 0 \\%$ of seeds to germinate at the supra-optimal temperature; $\\sigma T _ { c }$ ,standard deviation of constant ceiling (or maximum) temperature at the supra-optimal temperature. "
+        ],
+        "table_body": "<html><body><table><tr><td>Temperature range</td><td>Model parameter</td><td>S.ciliata</td></tr><tr><td rowspan=\"5\">Sub-optimal temperature range (15C-20℃)</td><td>Tb(C)</td><td>12</td></tr><tr><td>0Tb(50) (C days)</td><td>72</td></tr><tr><td>oTb</td><td>0.54</td></tr><tr><td>R²</td><td>0.84</td></tr><tr><td>T (℃)</td><td>43</td></tr><tr><td rowspan=\"4\"></td><td>0Tc(50) (C days)</td><td>44.46</td></tr><tr><td>oT。</td><td>0.06</td></tr><tr><td>R²</td><td>0.72</td></tr><tr><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Responses of S. ciliata seed germination to different temperatures were characterized by three temperatures, namely the ceiling (or maximum), optimum and base (or minimum). The base (or minimum) temperature $( T _ { b } )$ and the ceiling (maximum) temperature $( T _ { c } )$ are the lowest temperature at the sub-optimal temperature range and the highest temperature at the supra-optimal temperature range, respectively, in which a seed is able to germinate. The change trend of final germination percentage with respect to temperature was reflected by the variation in MTG against temperature (Table 1). The final germination percentage exhibited a continuous increase at the sub-optimal temperature range (from $1 5 ^ { \\circ } \\mathrm { C }$ to $2 0 ^ { \\circ } \\mathrm { C }$ ). However, the final germination percentage decreased when the temperature increased from $3 0 ^ { \\circ } \\mathrm { C }$ to $4 0 ^ { \\circ } \\mathrm { C }$ Germination percentages of S. ciliata seeds were strongly correlated at the sub-optimal $( 1 5 ^ { \\circ } \\mathrm { C } - 2 0 ^ { \\circ } \\mathrm { C } )$ and supra-optimal $( 3 0 ^ { \\circ } \\mathrm { C } - 3 5 ^ { \\circ } \\mathrm { C } )$ temperature ranges with $R ^ { 2 } { > } 0 . 7 0$ . However, the ceiling temperature at the supra-optimal temperature range $( T _ { c } )$ was $4 3 ^ { \\circ } \\mathrm { C }$ for S. ciliata seed germination. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The hydrothermal time model was fitted to data for S. ciliata seed germination with high $R ^ { 2 }$ values, indicating a high degree of congruency between predicted and observed germination time course curves. The hydrothermal time constant values were different between the tested temperatures. The $\\psi _ { b ( 5 0 ) }$ values for seeds were highly negative, particularly at lower incubation temperature $( 1 5 ^ { \\circ } \\mathrm { C } )$ . However, the $\\psi _ { b ( 5 0 ) }$ values increased linearly with increasing incubation temperature. In fact, the two-way ANOVA of final germination percentage indicated a significant main effect of water limitation. The interaction of temperature and water potential had a non-significant effect on final germination percentage of $S .$ .ciliata seeds (Table 2). The final germination percentage was higher at $2 5 ^ { \\circ } \\mathrm { C } { - } 3 0 ^ { \\circ } \\mathrm { C }$ ,intermediate at $3 5 ^ { \\circ } \\mathrm { C }$ ,and lower at $1 5 ^ { \\circ } \\mathrm { C } - 2 0 ^ { \\circ } \\mathrm { C }$ ， ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3 Effect of water limitation on the seed germination of S. ciliata ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The kinetics of S. ciliata seed germination under osmotic stress conditions at different temperatures ( $1 5 ^ { \\circ } \\mathrm { C }$ $2 0 ^ { \\circ } \\mathrm { C }$ $2 5 ^ { \\circ } \\mathrm { C }$ $3 0 ^ { \\circ } \\mathrm { C }$ and $3 5 ^ { \\circ } \\mathrm { C }$ ） is presented in Figure 2a. The kinetics of final germination percentage proved the sensitivity of S. ciliata to water limitation. Germination of $S$ ciliata seeds was significantly affected by water limitation $( P { < } 0 . 0 0 1 )$ ，where the highest final germination percentage $( 7 5 . 2 \\% )$ was found in the control germination test $( 0 . 0 \\ \\mathrm { M P a } )$ at optimal temperature $( 2 5 ^ { \\circ } \\mathrm { C } )$ . The decrease of osmotic potential of the $\\mathrm { P E G } _ { 6 0 0 0 }$ solutions resulted in a gradual decrease of final germination percentage (average of $0 . 2 5 \\%$ ),and the decrease of final germination percentage was $2 \\%$ at $- 2 . 0 \\ \\mathrm { M P a }$ and at optimal temperature $2 5 ^ { \\circ } \\mathrm { C }$ . With a reduction of osmotic potential of the $\\mathrm { P E G } _ { 6 0 0 0 }$ solutions, the MTG was significantly ( ${ \\scriptstyle \\stackrel { \\prime } { P } { < } 0 . 0 0 1 }$ ， $F { = } 2 6 8 . 0 6 7 \\$ 1 increased. The germination rate was also decreased as decreasing osmotic potential of the PEG6000 solutions at all tested temperatures (Fig. 2b). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac06feebcd1286cd891bee1a9fc48c969ae8c556223cf05a4a5d09e43e861afe.jpg",
+        "img_caption": [
+            "Fig.2Final germination percentage (a)and germination rate of S. ciliata seeds (b) in the polyethylene glycol (PEG60o0) solutions with diferent osmotic potentials and at different temperatures.Bars mean standard errors. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 shows the cumulative germination percentage of S. ciliata seeds at different temperatures as influenced by different osmotic potentials of the $\\mathrm { P E G } _ { 6 0 0 0 }$ solutions. In the control test $( 0 . 0 \\mathrm { { M P a } ) }$ at different temperatures, in particular at $2 5 ^ { \\circ } \\mathrm { C }$ and $3 0 ^ { \\circ } \\mathrm { C }$ ,the kinetics of cumulative germination percentage showed three phases: latency phase, exponential acceleration phase, and finally the third phase characterized by the end of germination and radicle emergence. The effect of osmotic stress on the seed germination of S. ciliata occurred during these different phases, and it was depended on the osmotic potentials of the $\\mathrm { P E G } _ { 6 0 0 0 }$ solutions (Fig. 3). Linear regression analysis was used to determine the relationship between final germination percentage of S. ciliata seeds and osmotic potential of the $\\mathrm { P E G } _ { 6 0 0 0 }$ solutions (Fig. 4). A strong positive relationship was identified between these two parameters, with $R ^ { 2 }$ ranging fr0m 0.5678 to 0.8761. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1 Effects of temperature and water limitation on the seed germination of S. ciliata ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In arid bioclimate of North Africa, the successful establishment of perennial grass depends on the success of seed germination. In arid zones of Tunisia, understanding the germination capacity of threatened species is significant to get insights into the major cause of restoration in the degraded ecosystems (Ouled Belgacem et al., 2006). The outcomes of the germination tests allowed for knowing more about the seed responses to environmental factors such as high temperature, salinity and water limitation, which characterize the bioclimate of arid zones (Tlig et al., 2008). In the same context, Khan and Unger (2OO1) showed that the successful establishment of perennial grasses under arid condition depends on the optimal temperature for germination. de la Barrera and Castellnos (2Oo7) also reported the significance of temperature in the seed germination of S. ciliata. Results obtained in this study suggested that seed germination of S. ciliata occurs over a temperature range of $2 5 ^ { \\circ } \\mathrm { C } { - } 3 0 ^ { \\circ } \\mathrm { C }$ in darkness. The optimum temperature for the seed germination of S. ciliata is $2 5 ^ { \\circ } \\mathrm { C }$ ，with $7 5 . 2 \\%$ final germination percentage. This behavior may explain the high adaptation of this $\\mathrm { C } _ { 4 }$ species to the ecological conditions in arid environments characterized by relatively high temperatures. Thanos et al. (1995) and Baskin and Baskin (1998) considered this behavior as a typical survival strategy of Mediterranean plants with optimum temperatures ranging from $1 5 ^ { \\circ } \\mathrm { C }$ to $3 0 ^ { \\circ } \\mathrm { C }$ ， They also suggested that the success of germination recorded at elevated temperatures allows the seeds to escape the risks of rapid desiccation of the upper soil horizons during the period of germination, and that higher temperatures, such as $2 5 ^ { \\circ } \\mathrm { C }$ ，are considered to be very favorable to the species of the photosynthetic type $\\mathrm { C } _ { 4 }$ (Niu et al., 2005). These species germinate in dry climate characterized by high temperature and water limitation. An ecological and physiological study conducted on Stipagrostis obtusa and Stipagrostis ciliata concluded that the germination of seeds can be influenced by temperature (Skinner, 1964). The optimal temperature for the germination of S. ciliata seeds was in the range of $2 0 ^ { \\circ } \\mathrm { C } \\mathrm { - } 2 5 ^ { \\circ } \\mathrm { C }$ Decrease in germination potential with heating of seeds was also reported by Skinner (1964). In the same context, previous research on the other Stipagrostis species showed that temperature is an important factor in seed germination in laboratory conditions and in seedling recruitment in field conditions (Ronnenberg et al.， 2008). Stipagrostis bungeana seeds were reported to germinate at a temperature range of $1 0 ^ { \\circ } \\mathrm { C } { - } 3 0 ^ { \\circ } \\mathrm { C }$ ，and it was suggested that these seeds could germinate from spring to autumn in the local environment (Xiao et al., 2013). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/093e3b8c1b193232fbaa5dd115c2e117c66199a499a4b8d5df38570d929c2fbb.jpg",
+        "img_caption": [
+            "Fig.3 Cumulative germination percentage of S. ciliata seeds during a 2O-d germination period at dierent temperatures ( $1 5 ^ { \\circ } \\mathrm { C }$ $2 0 ^ { \\circ } \\mathrm { C }$ $2 5 ^ { \\circ } \\mathrm { C }$ $3 0 ^ { \\circ } \\mathrm { C }$ and $3 5 ^ { \\circ } \\mathrm { C } )$ ） as being influenced by the $\\mathrm { P E G } _ { 6 0 0 0 }$ solutions with different osmotic potentials (from $- 2 . 0$ to ${ 0 . 0 } \\mathrm { M P a }$ ） $( n { = } 8 )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a960790ed651a6040458ae4f54e4bdcb0b6ca0940d62dd91d7c34a2126a2384d.jpg",
+        "img_caption": [
+            "Fig.4Relationship between final germination percentage of S. ciliata seeds and osmotic potential of the PEG6ooo solutionsat different temperatures ( $1 5 ^ { \\circ } \\mathrm { C }$ $2 0 ^ { \\circ } \\mathrm { C }$ $2 5 ^ { \\circ } \\mathrm { C }$ $3 0 ^ { \\circ } \\mathrm { C }$ and $3 5 ^ { \\circ } \\mathrm { C }$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This study also demonstrated that the MTG can be affected by the changes in the temperature regimes. ThelowestMTGwasrecorded at $2 5 ^ { \\circ } \\mathrm { C }$ .At this temperature, the seeds took less time to germinate. Liu et al. (2O13) reported that Stipagrostis pennata seeds may take a longer time to initiate germination at high temperatures, and that the highest MTG can be recorded at low temperatures. This is probably due to the decrease in water absorption associated to a low diffusion of respiratory gas. Changes in the temperature were reported to afect the vital processes of plant species that in turn control seed germination, enzyme activity and membrane permeability (Khan et al., 2O01). Low temperatures were reported to significantly impact the performance of $\\mathrm { C } _ { 4 }$ plant species by negatively affecting the functioning of enzymes involved in the $\\mathrm { C } _ { 4 }$ pathway enzymes (Naidu et al., 2Oo3). Notably, the Sahara-Mediterranean plants have a typical seed germination strategy with optimal temperatures ranging from $1 5 ^ { \\circ } \\mathrm { C }$ to $3 0 ^ { \\circ } \\mathrm { C }$ (Thanos et al., 1995). The highest germination percentage was obtained at optimal temperature $2 5 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Water potential and temperature are considered as two of the important environmental factors regulating grass germination (Chauhan and Johnson, 2Oo8). In arid environment of Central Tunisia, water necessary for germination is available only for short periods during winter. Therefore, a successful establishment of plant species depends not only on the rapid and uniform germination, but also on the ability of the seed to germinate under low water availability (Fischer and Turner, 1978). In the present study, S. ciliata seeds exhibited about $7 5 \\%$ final germination percentage under water limitation conditions; however, the decrease of osmotic potential of the $\\mathrm { P E G } _ { 6 0 0 0 }$ solutions to $- 2 . 0 \\ \\mathrm { M P a }$ completely inhibited the seed germination. The reported high germination capacity of S. ciliata may be strongly related to the better ecological adaptation of this $\\mathrm { C } _ { 4 }$ perennial grass to water limitation. The variation in osmotic potential of the PEG6000 solutions significantly affected the MTG and germination percentage. As it is true also with other plants,water is bound to have important effects on the seed germination (versus temperature). This is because water is an initial factor for seed imbibition and, directly and indirectly, is involved in the subsequent germination-associated metabolic stages under arid bioclimates (De Mendonca Barreto Cavalcante and Perez, 1995). However, imbibition has also been considered as another essential prerequisite of germination, and the surrounding soil water potential and the resistance to movement of water can govern its percentage and extent in the soil-seed system (Evans and Etherington， 199O). It has also been proved that the critical threshold for the germination of S. ciliata seeds is not high as compared to other perennial species (such as Cenchrus ciliaris) growing in arid environment (Emmerich and Hardegree,1991). Earlier, Stipa neaei was reported to require high solution water potentials for its germination, while almost no germination was evidenced below $0 . 5 9 \\mathrm { M P a }$ (Bonvissuto and Busso, 2OO7). In the areas with dry and hot summers, seed germination is mainly triggered by temperature-precipitation interaction (Gutterman, 2OO2). Water availability, rather than temperature is also considered as an important factor driving the germination of Stipagrostis species in Jordan in the field conditions (Hamasha and Hensen, 2009). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2Thermal time and hydrothermal time models ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "S. ciliata seed germination is strongly influenced by temperature and water limitation. Advancement in the radicle emergence under various combinations of temperature and water potential can be described using the thermal time and hydrothermal time models (Gummerson, 1986). Germination behavior of seeds under laboratory conditions can be regulated by the interaction of physiological and environmental factors, which can be proved by the thermal time and hydrothermal time models (Bradford， 1990, 1995). However, the seed dormancy is a reflection of high value of $\\psi _ { b ( g ) }$ threshold of the conditions that break the seed dormancy and shift the $\\psi _ { b ( g ) }$ distribution to higher values (Meyer et al., 2OoO). Subsequently, S. ciliata exhibited a low $\\psi _ { b ( g ) }$ value that may be a condition breaks the seed dormancy and leads to the high $T _ { c }$ value. The $\\psi _ { b ( 5 0 ) }$ increased linearly with increasing incubation temperature. Further, the low $T _ { c }$ values can also be associated with seed dormancy (Bradford and Somasco, 1994). It is clear that plant species might be in dormancy at high temperatures. The consistency of the seed dormancy points towards a close relation of the water potential threshold with the dormancy and germination status (Dutta and Bradford, 1994). Arid zones are usually characterized by a long period of water limitation, high evapotranspiration and low rainfall. Hence, the establishment of perennial grass is an important and rare event in these zones.In the current study, the establishment of S. ciliata would be possible during the years with normal and well-distributed rainfall. It was earlier argued that rainfall exceeding $1 0 ~ \\mathrm { m m }$ is a requirement for the seed germination of S. ciliata (Günster, 1995). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The seeds of S. ciliata can germinate at temperatures ranging from $2 5 ^ { \\circ } \\mathrm { C }$ to $3 0 ^ { \\circ } \\mathrm { C }$ ，with an optimum temperature of $2 5 ^ { \\circ } \\mathrm { C }$ ； whereas, temperature of $1 5 ^ { \\circ } \\mathrm { C }$ can limit the germination. Seed germination of S. ciliata can also be affected by water limitation with a limit of osmotic potential $- 2 . 0 \\ \\mathrm { M P a }$ ， where germination can be completely inhibited. S. ciliata is considered to be tolerant to water limitation, and can also present an adaptive capacity to aridity. Seeds of S.ciliata were able to tolerate high temperatures and water stressful habitats in arid ecosystems. These results would be of an important utility for the ecological restoration of degraded environments in arid zones. The most important result showed that the germination capacity of this species under the environmental constraint factors is sufficiently assured to consider this species for a restoration program and consequently extend its distribution area. This species can especially be introduced for the other regions with arid bioclimates. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This research was supported by the Tunisian Ministry of Scientific Research, especially the arid lands program.   \nWe thank reviewers for their constructive comments on the manuscript. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "AronsonJ, KigelJ,hmidaA.1993.Reproductiveallocationstrategies indesertandMediterranean populationsof aual plants grown with and without water stress. Oecologia, 93(3): 336-342.   \nBaskin CC,Baskin JM.1998.Seeds: Ecology,Biogeography,and Evolution of Dormancy and Germination.San Diego: Academic Press,666.   \nBewley JD,Black M. 1994. Seeds: Physiology of Development and Germination ( $2 ^ { \\mathrm { n d } }$ ed.). New York: Plenum Press, 454.   \nBonvissuto G L, Busso C A.2O07. Germination of grases and shrubs under various water stressand temperatureconditions. International Journal of Experimental Botany, 76: 119-131.   \nBradford K J.1990.A water relations analysis of seed germination rates.Plant Physiology,94(2): 840-849.   \nBradford KJ,SomascoQA.1994.Waterrelationsoflettuceseed thermoinhibition.I.Primingandendosperm effectsonbase water potential. Seed Science Research, 4(1): 1-10.   \nBradfordKJ.1995.Waterrelationsinseed germination.In:KigelJ,Galili GSeedDevelopmentandGermination.NewYork: Marcel Dekker, 351-395.   \nBradfordKJ.20o2.Applications of hydrothermal time toquantifying and modelingseed germination and dormancy.Weed Science,50(2): 248-260.   \nChaiebM,ForetC,LeFloc'hE,etal.1992.Life historystrategiesand waterresourcealocationinfivepasture speciesof the Tunisian arid zone.Arid Soil Research and Rehabilitation, 6(1): 1-10.   \nChaiebM,Henchi B,Boukhris M.1996.Impactofclippingonrotsystems of 3grasses species in Tunisia.Journalof Range Management, 49(4): 336-339.   \nChauhanBS,JohnsonDE.2Oo8.GerminationecologyofSoutherncrabrass (Digitariaciliaris)and Indiacrabrass (Digitaria longiflora): two important weeds of rice in tropics. Weed Science, 56(5): 722-728.   \nDahal P,Bradford KJ.1990.Effects of primingandendosperm integrityonseed germinationrates of tomato genotypes:I. water potential. Seed Science Research,4(2): 71-80.   \nDaur I. 2012.Plant flora in the rangeland of western Saudi Arabia.Pakistan Journal of Botany,44(Suppl.): 23-26.   \ndelaBarreraE,Castellnos AE.2O07.High temperature effctsongasexchange for the invasive buffel grass(Pennisetum ciliare [L.] Link). Weed Biological Management, 7(2): 128-131.   \nDe Mendonca Barrto Cavalceante A,Perez S CJGA.1995.Efect of water stress and salinity on germinationof Leucaena leucocephala seeds. Pesquisa Agropecuaria Brasileira, 30(2): 281-289.(in Portugaise)   \nDuta S,BradfordKJ.1994.Waterelationsof ltuceseedthrmoinhibition.IIEthyleneandendosperm effectsonbasewater potential. Seed Science Research, 4(1): 11-18.   \nEmmerich WE, Hardegre S P.1991. Seed germination inpolyethylene glycolsolution: effects offilter paper exclusion and water vapor loss. Crop Sciences, 31(2): 454-458.   \nEvansCE,Etherington JR.1990.Theeffectof soil water potentialonseed germinationof someBritish plants.New Phytologist, 115(3): 539-548.   \nFischer R A,Turner NC.1978.Plant productivity inthearidand semiarid zones.Anual Review of PlantPhysiology，29: 277-317.   \nGoraiM,TligT,effati.O9.Infuenceofwaterstressnseedgerinationcharacteristicsininvasiveiplotaisrra (Forssk.) Boiss (Brassicaceae) in arid zone of Tunisia. Journal of Phytology, 1(4): 249-254.   \nGummerson RJ.1986.The effectof constant temperatures and osmotic potentials on the germinationof sugarbeet.Journalof Experimental Botany, 37(6): 729-741.   \nGuinster A.1995. Grasscoverdistribution in thecentral Namib—arapid method toassessregionalandlocal rainfall pattens of arid regions? Journal of Arid Environments, 29(1): 107-114.   \nGutterman Y. 2002. Survival Strategies of Annual Desert Plants. New York, NY, USA: Springer,348.   \nHamasha H R,Hensen I. 20o9. Seed germination of four Jordanian Stipa spp: diferences in temperature regimes and seed provenances. Plant Species Biology, 24(2): 127-132.   \nJaufretS, Vissr M.2Oo3.Assigninglife-historytraits toplant speciestobeter qualifyaridland degradationin Presaharian Tunisia. Journal of Arid Environments,55(1): 1-28.   \nKellogg E A. 2001. Evolutionary history of the grasses. Plant Physiology,125(3): 1198-1205.   \nKhan MA,Gul B, Weber DJ.2001. Influence of salinityand temperatureonthe germinationof Kochia scoparia.Wetlands Ecological and Management, 9(6): 483-489.   \nKhan M A, Unger IA. 2001. Aleviation of salinity stressand theresponse to temperature in two seed morphs of Halopyrum mucronatum (Poaceae). Australian Journal of Botany, 49(6): 777-783.   \nLe Houerou HN.1984.Rain use eficiency: aunifying concept in arid-land ecology.Journal of Arid Environments,7(3): 213-247.   \nLe Houérou HN.2O05.Atlasof Climatic Diagrams forthe Isoclimatic Mediterranean Zones.Montpellier: Copymania,220.   \nLiu HL,ZhangLW,YinLK,etal.2013.Efects oftemperature,drystorage,andburialondormancyand germinationofseeds of 13 desert plant species from sand dunes in the Gurbantunggut Desert, Northwest China.Arid Land Research and Management, 27(1): 65-78.   \nMaestreFT, Cortina J, ValejoR.2O6.Are ecosystem composition,structure,and functional statusrelatedtorestoration success? A test from semiarid Mediterranean steppes. Restoration Ecology,14(2): 258-266.   \nMeyer SE, Debaene-GillSB,Alen PS.20o0. Using hydrothermal time concepts to model seed germinationresponseto temperature,dormancy loss,and priming effects in Elymus elymoides.Seed Science Research,10(3): 213-223.   \nMichel BE,Kaufmann MR.1973.Theosmotic potential of polyethylene glycol600.Plant Physiology,51(5): 914-916.   \nMnifL,Chaieb M.2010.Net photosynthesis and leaf waterpotentialofbuffel grass (CenchrusciliarisL.)accessions,growing in the arid zone of Tunisia. Journal of Biological Research,14: 231-238.   \nMosallam HA,MorsyAA,Youssef AM, etal. 2Oo9.Structureof thecommon plant population along Aamain-WadiEl- Natrun Desert Roat. Australian Journal of Basic and Applied Sciences,3(1): 177-193.   \nNaidu $\\mathrm { ~ S ~ L ~ }$ ,Moose S P, Al-Shoaibi A K, et al. 2003.Cold tolerance of $\\mathrm { C } _ { 4 }$ photosynthesis in Miscanthus $\\times$ giganteus: adaptation in amounts and sequence of $\\mathrm { C } _ { 4 }$ photosynthetic enzymes. Plant Physiology, 132(3): 1688-1697.   \nNiu $\\mathrm { ~ s ~ L ~ }$ ，Yuan $Z \\mathrm { ~ Y ~ } _ { \\ l }$ ，Zhang Y F, et al. 20o5. Photosynthetic responses of $\\mathbf { C } _ { 3 }$ and $\\mathrm { C } _ { 4 }$ species to seasonal water variability and competition. Journal of Experimental Botany, 56(421): 2867-2876.   \nOuled Belgacem A,Nefati M,Papanastasis VP,etal.2006.Efects ofseedageandseeding depthon growth of Stipa lagascae R.& Sch. seedlings. Journal of Arid Environments, 65(4): 682-687.   \nReynolds PE,SimpsonJA,ThevathasanNV,etal.207.Efectsoftreecompetitiononcornandsoybean photosythesis, growth,andyield inatemperatetre-basedagroforestryintercroppingsystem insouthernOntarioCanada.Ecological Engineering,29(4): 362-371.   \nRonenberg K,Wesche K,Hensen I.2O08. Germination ecologyof Central Asian Stipa sp:diferences among species,seed provenances,and the importance of field studies.Plant Ecology, 196(2): 269-280.   \nSkinnerTE.1964.PhysiologicalandecologicalstudiesonStipagrostisciliataandS.obtusa.MScThesis.Pretoria: University of Pretoria.   \nThanos CA, Kadis CC,Skarou F.1995.Ecophysiology of germination in the aromatic plants thyme,savory and oregano (Labiatae). Seed Science Research,5(3):161-170.   \nTlig T,Gorai M,Neffati M.o8.Germinationresponsesof Diplotaxis harr totemperatureadsalinitylora-Morpology, Distribution,Functional Ecology of Plants,203(5): 421-428.   \nValenciaE,MaestreFT,LeBagousse-PinguetY,etal.2Ol5.Functionaldiversityenhancestheresistanceofcosytem multifunctionality to aridity in Mediterranean drylands. New Phytologist, 2O6(2): 660-671.   \nXiao WH,Zhou QZ,LiTS,etal.2013.Environmentalfactorscontrolingseed germinationandseedlingrecruitmentof Stipa bungeana on the Loess Plateau of northwestern China.Ecological Research,28(5):801-809.   \nYamori W, Hikosaka K, Way D A. 2O14. Temperature response of photosynthesis in $\\mathbf { C } _ { 3 }$ . $\\mathrm { C } _ { 4 }$ ,and CAM plants: temperature acclimation and temperature adaptation.Photosynthesis Research,119(1-2): 101-117. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

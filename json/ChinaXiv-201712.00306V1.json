@@ -1,0 +1,413 @@
+[
+    {
+        "type": "text",
+        "text": "多源BIM信息融合技术",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘文锋¹　葛　亿¹　周　正¹张树坤²",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.青岛理工大学土木工程学院，青岛266033，2.展视网(北京)科技有限公司，北京100085）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】BIM的超大体量建模、多源信息融合、深度绿色设计是建筑信息模型的前沿性技术。本文提出了轻量化建模、参数化建模、适度建模、分层分块建模,整体合模的 BIM建模方案；多语言混合编程,Qt架构开发 $\\mathrm { B I M } + \\mathrm { V R }$ 虚拟现实设计平台；打通了BIM与VR、3D 打印和三维漫游的数据接口；深度实施了基于BIM的性能分析与模拟。通过超大体量BIM建模、多源BIM信息融合、性能分析与模拟三个方面的BIM前沿研究和实践，快速展示设计内容,正确表达设计意图,优化完善设计方案,辅助业主项目决策,助推绿空之城“绿色、生态、节地、智慧、宜居\"设计目标的实现。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】BIM建模；信息融合；VR平台；3D打印；性能分析与模拟【中图分类号】TU17【文献标识码】A【文章编号】1674－7461(2017)05-0023-06【DOI】10.16670/j.cnki.cn11-5823/tu.2017.05.04",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "工程概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "项目简介",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "绿空之城采用立体建造方法,主体建筑巨柱支撑各楼层板，各楼层板上建造别墅和建筑，形成别墅+商业 $^ +$ 娱乐的空间立体化建筑群,设计为七层二层距离地面13m,二到六层层高均为30m,顶层为开放式屋顶，设置“空中花园”。建筑总高163m。南北向跨度为 $4 5 0 \\mathrm { m }$ ,东西向跨度为 $2 7 0 \\mathrm { m }$ 。占地面积为 $1 2 1 \\ 5 0 0 \\mathrm { m } ^ { 2 }$ ，各种别墅及单体建筑总面积为 $9 7 ~ 8 0 0 \\mathrm { m } ^ { 2 }$ ，如图1所示。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "内部建筑共计246栋，其中有7种不同种类的别墅242栋，1栋商业餐饮楼、1栋健身娱乐楼、1栋幼儿与儿童乐园楼、1栋老年安居楼。底层设置2层立体停车场，最大停车数目可达3392辆，是一座以居住为核心的多功能立体建筑群，内部场景如图2所示。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. 2 工程特点和难点",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "以 $4 5 0 \\mathrm { m }$ （南北向跨度） $\\times 2 7 0 \\mathrm { m }$ （东西向跨度）为设计单元，是普通别墅的2700倍，是一般高层建筑的100多倍，属地块级体量，项目复杂程度高、工作量巨大、结构体系创新要求高、设计施工运维协同难度大。“生态、节地、节能、宜居”的设计理念，需深度实施基于BIM的性能模拟和分析，需深化项目的绿色设计。项目建筑构思独特，设计理念前卫，建筑功能要求复杂，建筑形式表达创新性强，概念设计阶段对项目方案的体验要求高，需虚实体验、虚拟体现、可视化漫游体验，基于BIM的3D打印、VR 虚拟现实、可视化漫游等，挑战性和探索性强。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/44f42a60f9246616c4806a79d4de34cab66e76ac43e418df7a59499df4ff972b.jpg",
+        "img_caption": [
+            "图1 效果图"
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/da8bd84518e37e94cd06d184ce8279eb7b1269ca4d47c91c1318959a28ce451c.jpg",
+        "img_caption": [
+            "图2 内部场景",
+            "图3软件及功能"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "软件 功能 软件 功能Aeyidesk 的维作结 Morteo NBIM-VR 虚拟现实 D 基于Unity3D的自主开发虚拟现 Autodesk 3DMax V 三维建模、渲染、动画制作软件实设计平台，可与BIM无缝交互设计平台 2014MAXVray Svray 与3插max配套，功能强大的渲 2Atdesk V 3D打印建模，快速输出STLCura C 印打印模型切片，导成Gcode打 Autdesk 建筑耗影、热工性能、日照S计平台 Smart+ 漫游制作平台",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "BIM组织与应用环境",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. 1 BIM应用目标",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)超大体量BIM建模：针对超大体量特大跨度的单体建筑，BIM实施建筑几何、物理、性能、过程信息模型的架构、共享、传递、流动、完善[1-2]；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2)多源BIM信息融合：采用Unity3D开发环境，开发 $\\mathrm { B I M \\mathrm { ~ - ~ } + \\mathrm { V R } }$ 虚拟现实设计平台，打通了BIM与VR的数据接口。基于BIM模型，实施可视化漫游、3D打印方案模型、VR虚拟现实与优化设计[3-5]；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3)性能分析与模拟：解决超大体量建筑内部采光、日照、风环境等难以满足规范要求的设计瓶颈问题[6]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 实施方案",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对本项目BIM应用的特点，实施方案为构想项目创意、申请发明专利；超大体量BIM建模；基于BIM建设 $\\mathrm { B I M } + \\mathrm { V R }$ 虚拟现实设计平台、可视化漫游、3D打印实体方案模型、VR虚拟现实；采光、日照、风环境等性能分析与模拟。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4 应用措施",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "项目体量巨大，BIM建模复杂，信息表征、提取、传递、运行难点多，多源BIM信息融合的实施难度大，技术要求高，采取以下BIM应用措施予以解决：1)硬件上采用高性能、高配置、大容量、强功能的计算机;2)建模技术上采用轻量化建模、参数化建模、适度建模、分层分块建模，整体合模的BIM建模方案；3)基于IFC标准、功能插件和转换软件，打通多源BIM信息融合接口，研发 $\\mathrm { B I M } + \\mathrm { V R }$ 虚拟现实设计平台;4)鉴于立体建造后内部光照是瓶颈问题，采用日照与可视度模拟、采光分析、风环境模拟、热工与辐射分析等BIM性能分析与模拟技术，解决项",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目的难点和痛点问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5 软硬件环境",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据项目BIM应用的实际需求，配置了软硬件环境，详见图3、图4。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CPU:i7-6950X CPU:E5-2620@3.0GHz十核 @2.4GHz六核 CPU:E3-1550内存：64G,DDR4 内存： @存8GHzDD464G,DDR4显卡：GTX 显卡：NVIDIA显卡：NVIDIA1080Ti/11G QuadroM4000 QuadrM20硬盘：512G固态 硬盘：512G固 DellPrecision 态+2T机械双曲屏工作站 +2T机械 戴尔T7810工作站态+2T机械 5510移动工作站成型原理： 分辨率：FDM（熔融堆积） 单眼1200\\*1080 分辨率：单眼打印精度： 刷新率： 1200\\*10800.01mm 90fps 刷新率：90fps打印喷头： 追踪位置： 头部跟踪：单喷头/0.4mm 4.5m\\*4.5m 6DOF弘瑞Z500 耗材直径： HTC Vive 追踪精度： Oculus Rift CV1 重量：380g3D打印机 1.75mm 虚拟现实眼镜 0.1度 虚拟现实眼镜",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3BIM应用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "BIM建模 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "项目为超大体量特大跨度的空间立体化的别2墅 $\\dotplus$ 单体的建筑群,模型整体体量大,BIM模型达660MB,模型等级LOD100-LOD200之间。概念设计阶段采用轻量化建模、参数化建模、适度建模、分层分块建模，整体合模的BIM建模方案，完成项目的建筑信息模型，如图5、图6所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$_ { 3 , 2 ^ { \\ell } }$ $\\mathbf { B I M } + 3 \\mathbf { D }$ 打印",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "BIM 模型转为3D 打印 STL 格式,将 STL 文件导人Cura3D软件,进行三维模型\"分区\"逐层的切片,调节好层高、壁厚、顶层底层厚度、温度、速度等一系列参数，将模型生成Gcode数控指令，导入3D打印机，3D打印机读取切片横截面信息并逐层打印，组装部件完成3D打印模型，见图7所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fabf4176a3278b9cc3b0cc80afffd722d159cda32ccc78f1caca2fb74f6a76be.jpg",
+        "img_caption": [
+            "图4硬件配置",
+            "图5模型创建方案"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3 $\\mathbf { B I M + }$ 可视化漫游 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于BIM 模型，创建 SketchUp模型，导入Smart $^ +$ 设计平台，通过材质、配景、天空、光影等编辑，完成镜头、场景设置，制作可视化漫游，如图8所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.4 $\\mathbf { B I M + V R }$ 虚拟现实 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用 $\\mathrm { \\Delta C _ { \\lambda } C + \\Delta D e l p h i \\Omega _ { \\mathrm { { s } } } P H P }$ 多种语言，Qt架构基于互联网的多语言混合虚拟现实技术，基于Unity3D开发环境，开发 $\\mathrm { B I M } + \\mathrm { V R }$ 虚拟现实设计平台，打通了BIM与VR的数据接口。从BIM模型中导出FBX格式的交互文件，Unity导入FBX文件，在BIM$+ \\mathrm { V R }$ 虚拟现实设计平台上，一键导入Revit、Bent-ley、Tekla等BIM模型，基于互联网的多语言混合虚拟现实技术架构如图9,部分 $\\mathrm { B I M } + \\mathrm { V R }$ 部分代码如图10。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/763357dabc33b9dcd78936c54e0853c56a6aa8452fa667291a21c7e2fd86c117.jpg",
+        "img_caption": [
+            "图6绿空之城建筑信息(BIM)模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4826bba49236fe071cf07b6ad91ccfe951c37dccc695ab653ae9cfd313d45418.jpg",
+        "img_caption": [
+            "图73D打印模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4053837a8cb1a35561ba50d9f88e8c0e268271bc9d0e2b99e6b3bb27e326af15.jpg",
+        "img_caption": [
+            "图8 可视化漫游"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b7edc6b7453bfa36d871cca7bd2fbd6a4d3a8a1ff06f036617fb387e7eb6a972.jpg",
+        "img_caption": [
+            "图9基于互联网的多语言混合虚拟现实技术架构",
+            "图10 部分 $\\mathbf { B I M - + V R }$ 部分代码"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "using UnityEngine;   \nusing System. Collections ;   \npublic class ZSWBehaviour:MonoBehaviour,IZSWObject { #region IZSWObject   \npublic void Dispose（）{   \nDestroy(）;   \n一   \n#endregion IZSWObject   \npublic virtual void SetParent(Transform value）{   \ntransform. parent $\\ O =$ value ; 一   \npublic virtual Transform Parent {   \nget   \nreturn transform. parent ;   \n}   \nset   \nSetParent(value）;   \n一   \n一   \npublic virtual Vector3 Position $\\{$   \nget   \nreturn transform. position ;   \n一   \nset   \ntransform. position $\\mathbf { \\tau } = \\mathbf { \\tau }$ value ;   \n一   \n一   \npublic virtual Vector3 LocalPosition $\\{$ get   \nreturn transform.localPosition ;   \n}   \nset   \ntransform. localPosition $\\mathbf { \\tau } = \\mathbf { \\tau }$ value ; ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在BIM-VR虚拟现实设计平台上,赋予模型材质贴图、灯光效果，光、影、电等特效渲染，进行行走范围设计、开关灯设计、开关门窗动作设计、物品拾取设计、移动路径设计等VR交互设计，绿空之城VR效果如图11所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.5 $\\mathbf { B I M + }$ 性能分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "性能分析采用可视度模拟、光环境分析、日照分析、风环境模拟、热环境分析等，合理确定空间划分、环境关系、立面设计、造型体量、构造材料等，为建筑方案设计的优化提供参考依据，为深度实施绿色分析提供重要依据，如图12所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 应用效果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本项目通过超大体量BIM建模、多源BIM信息融合、性能分析与模拟三个方面的BIM研究和实践，快速展示了设计内容，正确表达了设计意图，优化完善了设计方案；研制了BIM与VR的数据结口技术，实现了建筑信息模型与虚拟现实的对接，开发了 $\\mathrm { B I M } + \\mathrm { V R }$ 虚拟现实设计平台；通过BIM与3D打印、三维漫游、虚拟现实、性能模拟与分析的有机结合，直观呈现和反映了建筑实体效果，辅助了业主的项目决策，助推了绿空之城\"绿色、生态、节地、智慧、宜居”的概念设计目标的实现。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/addecf4579b234f0eb7f6bc32c2d853ebe3b274d71c22c14cdceda63dcfc315f.jpg",
+        "img_caption": [
+            "图11绿空之城VR效果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ec86f4d7c428c1bdc2655c38746d1d3c6ac622a1f48b26ee45570efc12d68964.jpg",
+        "img_caption": [
+            "图12 性能模拟分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5总结 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.1 创新点",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1)基于单台计算机工作站，对超大体量特大跨度的建筑实施BIM建模，BIM技术实施难度大;采用轻量化建模、参数化建模、适度建模、分层分块建模，整体合模的BIM建模方案；BIM技术前置，在概念设计阶段应用，发挥独特作用，丰富和发展BIM正向设计模式。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2)Qt架构基于互联网的多语言混合虚拟现实技术,开发 $\\mathrm { B I M } + \\mathrm { V R }$ 虚拟现实设计平台，打通了BIM与VR 的数据接口，一键导入Revit、Bentley、Tekla 等 BIM 模型。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "O（3)基于BIM模型，实施可视化漫游、3D实体打印、VR虚拟现实，性能分析助推绿色设计的深度实现。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "经验教训 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本项目BIM应用取得了一定的成果,在后续过中还将对以下三方面进行深化研究：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1)对于超大体量特大跨度的空间立体化的别墅+单体建筑群，基于云端进行大体量、复杂环境、全寿命情况下BIM建模，信息表征、提取与协同;",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2)基于IFC标准，深化多源BIM信息融合，BIM与物联网技术、云技术、建筑智能化技术等的融合还任重道远；(3)继续完善自主开发 $\\mathrm { B I M \\mathrm { ~ - ~ } + V R }$ 虚拟现实设计平台的功能配置，在实际工程实践中不断优化，使平台更加稳定成熟。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1］杨远丰，许志坚,饶嘉谊，等.广州白云机场二号航站楼及配套设施项目BIM应用技术重点［J].土木建筑工程信息技术，2017，9(2)：1-7.  \n[2］杨震卿，张莉莉，张晓玲，等.BIM技术在超高层建筑工程深化设计中的应用[J].建筑技术,2014，45（2）：115-118.  \n［3］季安康，王海飙.基于BIM的3D打印技术在建筑行业的应用研究［J].科技管理研究，2016，36（24）：184-188.  \n［4］丁烈云，徐捷,覃亚伟.建筑3D打印数字建造技术研究应用综述[J].土木工程与管理学报，2015(3)：1-10.  \n[5］王施施.BIM建筑模型在VR系统中数据转换研究探讨[J].价值工程，2016，35（14)：211-213.  \n[6］刘蕾，鞠明,周文勇，等.基于BIM技术的绿色工程解决方案研究［J].科技进步与对策，2017，34（9）：114-119.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Multi-source BIM Information Fusion Technology ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Liu Wenfeng'，Ge Yil，Zhou Zheng'，Zhang Shukun² . School of Civil Engineering， Qingdao University of Technology， Qingdao 266033， China; 2. Zhanshiwang（Beijing）Technology Co.，Ltd.，Beijing 1Oo085，China ） ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The large volume modeling，multi-source information fusion and deep green design are allthe frontier technologies of BIM.This paper proposes a whole modular BIM modeling method including lightweight modeling，parametric modeling，moderate modeling and hierarchical block modeling.A $\\mathrm { B I M } + \\mathrm { V R }$ design platform was built using Qt frame based on multi-language programming.The data interface is opened and connected between the BIM technologyand other technologies,i.e.VR,3D printing and 3D roaming.The BIM-based performance analysis and simulation is implemented in depth.Allthe frontier BIM researchesand practices on large volume modeling，multi-source information fusion，and performance analysis and simulation，realize the fast exhibition of design content，exact expressions of design intention，optimization and completion of design scheme，and asistance of owner’s project decision making，which assists in achieving the design goals of a \"Green，Eco-friendly，Land - Saving， Intelligent & Livable\" city. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Key Words:BIM Modeling；Information Fusion；VR Platform;3D Printing;Performance Analysis and Simulation ",
+        "page_idx": 5
+    }
+]

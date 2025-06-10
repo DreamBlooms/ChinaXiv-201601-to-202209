@@ -1,0 +1,223 @@
+[
+    {
+        "type": "text",
+        "text": "THE ROLE OF LARGE AMPLITUDE UPSTREAM LOW-FREQUENCY WAVES IN THE GENERATION OF SUPERTHERMAL IONSATAQUASI-PARALLEL COLLISIONLESS SHOCK:CLUSTER OBSERVATIONS ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MINGYU WU1,2.3, YUFEI HAO1, QUANMING LU1,3,CAN HUANG1,FAN GUO4, AND SHUI WANG1 CASKeyabteseee qmlu @ustc.edu.cn 2State KeyLaboratoryofSace Weather,ChineseAcademyofSiencesBijing9China Collaborative Innovation Center of Astronautical Science and Technology,China 4Los Alamos National Laboratory,P.O.Box1663,LosAlamos,NewMexico87545,UA Received2015March27;accepted2015June3;published2015 July14 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The superthermal ions at a quasi-paralelcollsionless shock are considered to be generated during the reformation of the shock.Recently,hybrid simulations of a quasi-parallel shock have shown that during the reformation of a quasi-paralel shock the large-amplitude upstream low-frequency waves can trap the refleted ions at the shock front when they try to move upstream,and then these reflected ions can be accelerated several times to become superthermal ions.In this paper，with the Cluster observations of a quasi-paralel shock event,the relevance betwen the large-amplitude upstream low-frequency waves and the superthermal ions (about several $\\mathrm { k e V }$ ）have ben studied.The observations clearly show that the diferential energy fluxof superthermal ions in the upstream region is modulated bythe upstream low-frequency waves,and the maxima of the differential energy flux are usually located between the peaks of these waves (including the shock front and the peak of the upstream wave just in frontoftheshock front).Thesesuperthermalionsare considered tooriginate fromthe reflected ions atthe shock front,and the modulation is caused due to the trapping of the reflected ions between the upstream waves or the upstream waves and the shock front when these reflected ions tryto travel upstream.It verifies the results from hybrid simulations,where the upstream waves play an important role in the generation of superthermal ions in a quasi-parallel shock. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:acceleration of particles - shock waves ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Collisionless shocks are of great interest in space and astrophysical environmentsbecause theycan effectively convert bulk energy into thermal energy and accelerated particles in the shock transition region (Lee 1983; Zank et al. 2000； Li et al. 2003；Lembége et al. 2004;Guo & Giacalone 2013). According to $\\theta _ { \\mathrm { B n } }$ (the angle between the shock normal and upstream magnetic field)，shocks can be categorized intotwo types:quasi-perpendicularshocks （204号 $( \\theta _ { \\mathrm { B n } } > 4 5 ^ { \\circ } )$ and quasi-parallel shock $( \\theta _ { \\mathrm { B n } } < 4 5 ^ { \\circ } )$ . These two types of shocks have quite different structures (Biskamp & Welter 1972; Quest 1988；Schwartz 2006). The supercritical shocks can reflect part of the incoming ions back upstream.In a quasi-perpendicular shock,these reflected ions just gyrate in the magnetic field around the foot region and then directly return back to then transmit the shock (e.g., Yang et al. 2009). However,in a quasi-parallel shock，the reflected ions can escape far upstream and excite low-frequency waves.As these waves grow to a sufficiently large amplitude,they can interact with the high-speed incoming plasma. Such a process makes the structures of the quasi-parallel shock very complicated (Gosling et al. 1982; Burgess et al. 2005; Lucek et al. 2008). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the upstream region of a quasi-parallel shock， the energetic ions with energies from $1 0 \\mathrm { k e V }$ up to several $1 0 0 \\mathrm { k e V }$ have been detected by many spacecraft (e.g.,Trattner et al.1994; Kis et al. 2004). Steady state diffusive shock acceleration theory is used to explain the high-energy tail of these energetic ions associated with shocks (e.g.，Axford et al.1977;Blandford & Ostriker 1978;Scholer et al.1985). According to the diffusive shock acceleration theory，lowfrequency waves upstream of a quasi-parallel shock can scatter the energetic ions in pitch angle,and these ions can then cross the shock back and forth many times,leading to spatial diffusion of these particles and acceleration at the shock.This process is very slow,but the particles can gain sufficiently high energy.However,such a process only works efficiently for non-thermal particles,which requires that there are plenty of superthermal particles as a source of seed particles.Therefore, some pre-acceleration processes are needed to accelerate the thermal population to the superthermal population (Zank et al. 2001). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Previous simulation results have indicated that the generation of superthermal ions at a quasi-parallel shock is related to the reformation of this shock.The reformation is an inherent property of a quasi-parallel shock (e.g.,Burgess 1989).As the upstream waves convected back to the shock front by the upstream plasma, these waves grow to large amplitudes.When the amplitude of the waves exceeds that of the shock,a new shock front is formed and the reformation process is finished. Such a reformation process of a quasi-parallel shock has also been confirmed by in situ observation (Lefebvre et al. 2009). This reformation is a cyclic and periodical behavior of a quasiparallel shock.With a one-dimensional(1D)hybrid simulation, Scholer & Burgess（1992）pointed out that the generation of the superthermal particles，upstream wave,occurrence of reflected ions,and the shockreformation cannotbe considered separately， but areclosely interconnected. Withhybrid simulations，Lyu & Kan （1990，1993）concluded that the superthermal ions upstream ofa quasi-parallel shock are predominately leakage ions from the downstream，which is regulated by the large-amplitude waves in the shock transition region. In contrast,after performing large-scale 1D hybrid simulations of quasi-parallel shocks,Scholer（199O）showed that most of the superthermal ions do not come from the leakage of downstream ions.They found that the incident thermal ions can be reflected and trapped in the shock transition region,and then these ions can be accelerated to superthermal energies during the period of the trapping. Furthermore, Kucharek& Scholer（1991）found that the main acceleration mechanism from the thermal ions to the superthermal energies are the grad $B$ drift within the coplanarity plane and waveparticle scattering in the shock front. Recently，Su et al. (2012a) investigated the ion dynamic at a supercritical quasiparallel shock and separated the upstream ions into three parts: the directly transmitted,downstream thermalized,and superthermal ions.They found that the superthermal ions are the ions that are reflected at the beginning of a reformation cycle,and still in the upstream region of the new shock front at the end of this reformation cycle.Su et al.(2O12b) further found that the superthermal ions can stay in the region between the old and new shock fronts for a quite long time,and are accelerated every time they are reflected by the new shock front.This mechanism provides a possible way to generate the superthermal ions for the further diffusive acceleration process. Therefore, the generation of the superthermal ions at a quasiparallel shock is closely related to the upstream low-frequency waves. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this paper,by analyzing a quasi-parallel shock event with theobservation of the Cluster Mission,we find that the superthermal ions (about several $\\mathrm { k e V } ^ { \\cdot }$ ）in the upstream region are modulated by the large-amplitude low-frequency waves and the maxima of the flux of the superthermal ions are always located between the peaks of the waves or the shock front and the peak of the waves just in front of the shock front.We propose that the modulation of the superthermal ions by the lowfrequency waves in the upstream region of the quasi-parallel shock can be the results of the trapping of the reflected ions in the upstream waves when these reflected ions go upstream. It implies that the superthermal ions are generated when the reflected ions are trapped by the upstream waves,and then get accelerated. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.OBSERVATIONRESULTS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we present Cluster observations from a quasiparallel shock crossing:21:25-21:40UT on 2002 March 29. We use the magnetic field data with $4 \\mathrm { s }$ resolution from the Fluxgate Magnetometer (FGM;Balogh etal.2OO1).TheFGM data also have a high resolution time series which is $2 2 \\mathrm { H z }$ Plasma data used in this study are taken from the Cluster Ion Spectrometer(CIS）instrument,which measures ions fluxes in the energy range $0 . 0 0 5 { \\scriptstyle - 2 6 \\mathrm { k e V } }$ (Reme et al. 2001). The CIS consists of the Hot Ion Analyzer(HIA）with no species discrimination using a top hat electrostatic analyzer,and the Composition and Distribution Function Analyzer (CODIF) which combines a top hat analyzer with a time-of-flight spectrometer to identify major species.In this event, the dataof ionmoments have the resolutionof $4 \\mathrm { s }$ ，omnidirectional differential energy flux is with $8 \\mathrm { ~ s ~ }$ resolution,and the ion 3D distribution has alow resolution of $1 2 \\mathrm { s }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "On 2002 March 29,the separations of four Cluster spacecraft are about $1 0 0 \\mathrm { k m }$ .These four spacecraft crossed the bow shock from the upstream region to the downstream region around 21:34UT. The locations of the Cluster spacecraft are shown in Figure 1. This crossing occurs at about $( 7 . 1 6 , ~ - 7 . 5 6 , ~ - 8 . 6 5 ) ~ I$ $R _ { E }$ in the Geocentric Solar Ecliptic (GSE） coordinate system.Using the shock timing analysis (Schwartz 2000） the angle $\\theta _ { \\mathrm { B n } }$ between the interplanetary magnetic field and the shock normal is ${ \\sim } 2 8 ^ { \\circ }$ ，so the shock observed by the Cluster mission is a quasi-parallel shock. This shock is supercritical with an Alfven Mach number of the upstream solar wind $M _ { \\mathrm { A } } \\sim 6 . 0$ . In the upstream，the average magnetic field is $| B | \\sim 5 . 5 \\mathrm { n T }$ ； the ion temperature is $T _ { p } \\sim 1 2 0 \\mathrm { e V }$ and the ion density is $n _ { p } \\sim 4 . 5 { \\mathrm { c m } } ^ { - 3 }$ . Therefore, the plasma beta (the ion thermal to magnetic pressure) in the upstream is $\\beta \\sim 3 . 6$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 shows the magnetic field components and ion distributions.From the top to the bottom panels, there are the three components and the intensity of the magnetic field with $4 \\mathrm { s }$ resolution,and spectrograms of the ion energy flux from CIS/CODIF for C1 and C3.All the parameters are in the GSE coordinate system. Because of the small interspacecraft separation，the four spacecraft observed similar ion energy flux and magnetic structures. Around the time 21:34:29UT, there is a sharp jump of $| B |$ which represents the shock front. The time series of $| B |$ indicate that the spacecraft crossed the shock from the upstream region (marked by“U” in the first panel of Figure 2) to the downstream region (marked by“D\" in the first panel of Figure 2).In the energy flux spectra of ions, two distinct ion populations are clearly observed inthe upstream region. The lower energy one (about $0 . 8 \\mathrm { k e V }$ ）is the incoming solar wind. The higher energy one (from 3 to $1 0 \\mathrm { k e V } )$ is the superthermal ions.The superthermal ions are hotter and more tenuous as compared to the incoming solar wind. The observation results of the magnetic field in Figure 2 areshownby solidblack linesfor C1,dashed red lines for C2, solid green lines for C3,and dashed blue lines for C4.There are plenty of ultra-low frequency (ULF） waves in the upstream region of the shock that are observed by all four spacecraft. These ULF waves cannot only be observed in the magnetic field intensity $| B |$ ，but also found in all the three components $B _ { x } , B _ { y }$ ，and $B _ { z }$ . The amplitude of ULF waves is about several nT.In the downstream region there are also some ULF waves. However, the amplitude of theseULF waves in the downstream region is larger than the waves in the upstream region.In Figure 2 we can observe the low-frequency oscillations of $B _ { x }$ ， $B _ { y } , B _ { z }$ ,and $| B |$ with $4 \\mathrm { s }$ resolution data. The broadband higherfrequency magnetic fluctuations can be found in the higherresolution data $( 2 2 \\mathrm { H z } )$ .The frequency spectrum of the intensity of upstream waves is shown in Figure 3.Although these waves have a broadband frequency spectrum, the power of upstream ULF waves has the highest peak at about $2 5 \\mathrm { m H z }$ in the spacecraft frame which are marked by the vertical dashed line. It means that the main period of the upstream ULF waves is about $4 0 \\mathrm { s }$ in the spacecraft frame. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In order to study the relationship between the superthermal ions and the upstream ULF waves,we select ions with the energy $4 . 0 \\mathrm { k e V }$ and then do a comparison between the energy flux of these ions and the intensity of the waves.Figure 4(a) shows the intensity of the magnetic field(dark blue line） and the ion energy flux with the energy $4 . 0 \\mathrm { k e V }$ (black line）which are observed by C1. The particle energy flux is strongly modulated by the upstream ULF waves.The high fluxes of superthermal ions are always located between two adjacent peaks of the upstream waves or the shock front and the nearest peak of the upstream waves,and the low fluxes of superthermal ions are always observed near the peaks of the waves. However, the ion density does not show any obvious variations in the upstream region. It indicates that the variation of superthermal ion flux is not caused by the change of ion density，but due to the waves.The relevance between the superthermal ions and ULF waves can be seen more clearly around thewaveswith the largestamplitude,whicharemarked by streaks.In three light blue streaks,the peaks of the upstream waves are accompanied with the local minima of the particle energy flux.While in six red streaks the peaks of the particle energy flux are accompanied with the local minima of the Waves.We also find an interesting thing that such relevance also roughly exists in the other waves with small amplitude.In Figure 4(a),we should note that there is a small peak of the particle energy flux in the region between the shock front and the nearest peak of upstream wave that is marked by a green streak.It indicated that the modulation also happens near the shock front.In the other energy channels form 3 to $1 0 \\mathrm { k e V }$ such modulation by the upstream waves is also existed. Additionally,we have done a correlation analysis between the magnetic fieldand ion flux during the time interval 21:25:00UT-21:27:00UT where the amplitude of waves is strong enough.The linear Pearson correlation coefficient is $- 0 . 6 1$ ,which means that the magnetic field and ion flux have a good anti-correlation.Furthermore,Figure 4(a) also shows that the level of the particle energy flux with $\\mathrm { \\dot { 4 . 0 } k e V }$ generally tends to decrease away from the shock front. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc864e72411b1424e6a0aed50bac64ef732e6bad26ecf8b596230f44b31a4c0a.jpg",
+        "img_caption": [
+            "Figur trianglesrepresentC1,C2,C3,andC4,respectively.The“D\"represents thedownstreamwhilethe“U\"represents theupstream. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/28b7450f5947f3bf575175fc62f489237d37994fbfc462c4d783c77cb45ae9e0.jpg",
+        "img_caption": [
+            "Figure 2.From the top to the bottom panels,they are the three components and the intensity of the magnetic field with $4 \\mathrm { ~ s ~ }$ resolution,the ion energy flux spectrograms from CIS/CODIF for C1 and C3 with 4 s resolution.All the parameters are in the GSE coordinate system.The “D”represents the downstream while the“U”represents the upstream. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/60357a32a4d74e30b9f9ffcdf94bb3e6a7b28009ae51373f9bbf821a125f1b07.jpg",
+        "img_caption": [
+            "Figure 3.Power spectrum of the upstream waves.The highest peak is marked by the vertical dashed line. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 4(b) shows the ion energy flux spectra in the streak 4 (light blue line,which is obtained during the time interval 21:32:47-21:32:55）and streak 5(red line,which is obtained during the time interval 21:33:23-21:33:31）which are both marked in Figure 4(a). Compared with the spectra in streak 4, there isa higher superthermal ion flux(about several $\\mathrm { k e V }$ ）in streak5.However, the solarwindionsinstreak5arewith the energy about $0 . 4 5 \\mathrm { k e V }$ ，which is quite smaller than that in streak4 (about $0 . 6 { - } 0 . 8 \\mathrm { k e V }$ ).It indicates that the source of the superthermal ions could not be the local incoming solar wind ions.Figure 4(c） shows the ion energy flux spectra along the parallel (red solid line） and antiparallel (red dashed line) directions in streak 5.It can be found that most of solarwind ions move along the magnetic field line but a certain part of superthermal ions move to the opposite direction.We also check the ion energy flux spectra in other streaks and get the similar results.All these features imply that the superthermal ions could be related to the reflected ions by the shock. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/85f823aabe7e86a11ed85ffb901f732ccc60fc633cb734ec04037c729cff050a.jpg",
+        "img_caption": [
+            "Figure 4.(a) Comparison between the ion energy flux in the energy channel $4  { \\mathrm { k e V } }$ (black line) and the intensity of the magnetic field corresponding to the ULF waves (darbue seveaselsst ioeds parallel (red solid line）and antiparallel (red dashed line) directions. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Typical ion distributions shown in Figure 5 can provide more information of the superthermal ions.Figure 4 shows the projections of ion distributions observed by C1 in the $\\nu _ { x } - \\nu _ { y }$ space at the different times,which are marked by streaks $1 { - } 3$ and 5 in Figure 4(a).Because of different resolutions of omnidirectional differential energy flux shown in Figure 4 (about 8 s) and the 3D ion distribution (about 12 s), the other 2 red streaks marked in Figure 4(a)have no suitable 3D ion distributions.In Figure 5,we only show the part of ions with energy greater than $3 \\mathrm { k e V }$ ．All four distributions are highly non-gyrotropic,and most of superthermal ions are concentrated in the area with a negative.In this event,the dominated component of the motional electric field is $E _ { y } \\approx V _ { x } B _ { z }$ 0 $\\mathit { \\Delta } V _ { x }$ is the speed of solar wind,and its value is about $- 3 0 0 \\mathrm { k m s ^ { - 1 } }$ ).This negative $E _ { y }$ can cause the particle acceleration along the $- \\mathtt { y }$ direction when these particles are trapped by the upstream waves or the shock front.So there is one possibility that these superthermal ions can get accelerationby the motional electric field.Furthermore,most of superthermal ions have negative $\\nu _ { x }$ which means these ions can propagate to the shock front from the upstream region. Then these ions can further accelerated in the shock front or the upstream waves via shock drift acceleration (SDA).By this way, these ions can be accelerated to very high energy. Similar results are also observed by C3. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.CONCLUSIONSAND DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Our observation results of one quasi-parallel shock event by Cluster show that the energy flux of superthermal ions in the upstream region is modulated by upstream ULF waves and the maxima of the energy flux are usually located between the peaks of these waves (including the shock front and the nearest peak of the upstream wave).The observed ion distributions suggest that the superthermal ions come from the reflected ions by the shock， and can be accelerated by the motional electric field. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Nowadaysthe shock diffusive acceleration iswidely accepted as the mechanism for generations of the high-energy ions associated with shocks.However,in order for particles to be accelerated by shock diffusive acceleration，their initial energy should exceed a definite threshold (e.g.,Zank et al. 2001).Therefore,a pre-acceleration mechanism that accelerates ions out of thermal populations to superthermal ions is necessary. The generation of the superthermal ions in quasiparallel shocks has been demonstrated in 1D hybrid simulations:a part of the upstream ions are at first reflected by the shock,and they may be trapped between the shock front and the nearest peak of the upstream low-frequency waves,or between the peaks of these waves. These trapped ions are then further accelerated in the shock front or the upstream waves via SDA(see Su et al. 2O12b). The maxima of the superthermal ions flux should be located between the peaks of the upstream waves,or the shock front and the nearest peak of the waves. We should note that in the region near the shock front, the $B _ { z }$ of the upstream low-frequency waves always plays an important role in the trapping process.It is because of this that the superthermal ions flux are also related to $B _ { z }$ .In our event,we also found the peak of ion flux with energy $4 . 0 \\mathrm { k e V }$ is always located in the region with $B _ { z }$ minimum. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/178b94b0591d12556a57b64b952e39c86e246c022f4469a1a63fa99869a12d4d.jpg",
+        "img_caption": [
+            "Figure 5.Projection of ion distributions in thevelocity space measured byCIS/CODIF in unit of phase space density $( \\mathrm { s } ^ { 3 } \\mathrm { k m } ^ { - 6 } )$ observed by C1 at the time (a) 21:26:09UT,(:U(:25Udd:UOlhestrbiofuperlseee $3 \\mathrm { k e V }$ are plotted. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Therefore, the trapping of the reflected ion in the upstream waves plays an important role in the generation of superthermal ions at quasi-parallel shocks.In this way,the reflected ions can be accelerated many times by the motional electric field associated with the upstream waves and the shock front via SDA,which generates the superthermal ions.Our observations ofa quasi-parallel shock event by Cluster clearly show the modulation of the superthermal ions by the upstream waves, and these superthermal ions are associated with the motional electric field in the upstream waves and shock front.Our observations give evidence that the upstream low-frequency waves in a quasi-parallel shock play an important role in the generation of the superthermal ions.These upstream waves trap the reflected ions,which are then accelerated to be superthermal ions by the motional electric feld in the upstream waves or near the shock front,as demonstrated by hybrid simulations of quasi-parallel shocks (e.g.，Scholer 1990；Su et al. 2012b). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "From a theoretical point, the trapped ions in the upstream waves and shock front are accelerated by the associated motional electric field when the upstream waves are convected toward the shock front.As the upstream waves approach to the shock front, the amplitude of the upstream waves grows larger. Atlast, the upstream waves interact with the shock front, and a new shock front is formed.This is reformation process of a quasi-parallel shock. Several works have already pointed out the importance of the reformation for the generation of superthermal ions,and they concluded that the reflected ions by the quasi-parallel shock can gain energy by SDA (e.g., Scholer 1990; Kucharek & Scholer 1991; Su et al. 2012b). Unfortunately the temporal and spatial behavior of magnetic field cannot be well distinguished in our event. So it is very hard to study the reformation process of the quasi-parallel shock.However, our observations demonstrate the importance of the upstream waves in the generation of superthermal ions in a quasi-parallel shock.This is also a critical point of the acceleration of the reflected ions at a reformed quasi-parallel shock，which hasbeen pointed out in previous hybrid simulations (Su et al. 2012b). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Science Foundation of China，grant Nos.41331067，41274144，41174124, 41121003，973 Pr0gram (2013CBA01503，2012CB825602), theSpecializedResearchFund for State KeyLaboratories,and CAS Key Research Program KZZD-EW-01-4. M.W. was supported by the China Postdoctoral Science Foundation,grant No.2014M550344.We thank the FGM，CIS，PEACE,and EFW instrument teams and ESA Cluster Active Archive.All the data of the Cluster Mission can be downloaded from the website of the Cluster Active Archive. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Axford,W.I.,Leer,E.,& Skadron,G.1977,ICRC,11,132   \nBalogh,A.,Carr,C.M.,Acuna,M.H.,et al.2001,AnGp,19,1207   \nBiskamp,D.,&Welter,H.1972,JGR,77,6052   \nBlandford,R.D.,& Ostriker,J.P.1978,ApJ,221,29   \nBurgess,D. 1989,GeoRL,16, 345   \nBurgess,D.,Lueck,E.A.,Scholer,M.,et al.2005,SSRv,118,205   \nGosling,J.,Thomsen,M.,Bame,S.,et al.1982,GeoRL,9,1333   \nGuo,F.,& Giacalone,J.2013,ApJ,773,158   \nKis,A.,Scholer,M.,Klecker,B.,etal.20O4,GeoRL,31,L20801   \nKucharek,H.,& Scholer,M.1991,JGR,96,21195   \nLee,M.A.1983,JGR,88,6109   \nLefebvre,B.,Seki,Y.,Schwartz, S.J.,Mazelle,C.,&Lucek,E.A.2Oo9,JGR,   \n114,A11107   \nLembége,B.,Giacalone,J.,Scholer,M.,et al.2004,SSRv,110,161   \nLi,G.,Zank,G.P.,&Rice,W.K.M.2003,JGR,108,1082   \nLucek,E.A.,Horbury,T.S.,Dandouras,I.,& Réme,H.2OO8,JGR,113,   \nA07S02   \nLyu,L.H.,& Kan,J.R.1990, GeoRL,17,1041   \nLyu,L.H.,& Kan, J.R.1993,JGR,98,18985 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Quest,K.B.1988,JGR,93,9649   \nRéme,H.,Aoustin,C.,Bosqued,J.M.,et al.2001,AnGp,19,1303   \nScholer,M.1985,Geophys.Monogr.Ser.，Vol.35,ed.B.T.Tsurutani& R.G. Stone (Washington,DC:American Geophysical Union),287   \nScholer,M.1990,GeoRL,17,1821   \nScholer,M.,&Burgess,D.1992,JGR,97,8319   \nSchwartz,S.J.2Ooo,in Analysis Methods for Multispacecraft Data,ed. G.Paschmann & P.Daly(Noordwijk,Netherlands:Kluwer),249   \nSchwartz, S.J.2006, SSRv, 124,333   \nSu,Y.,Lu,Q.,Gao,X.,Huang,C.,& Wang, S.2012a,PhPl,19,092108   \nSu, Y.,Lu, Q.,Huang,C.,et al.2012b,JGR,117,A08107   \nTrattner,K.J.,et al.1994,JGR,99,13389   \nYang，Z.W.,Lu,Q.M.,Lembége,B.，& Wang，S.2009,JGR，114, A03111   \nZank,G.P.,Rice,W.K.M.,le Rous,J.A.,Cairns,I.H.,&Webb,G.M.2001, PhPl, 8, 4560   \nZank,G.P.,Rice,W.K.M.,&Wu,C.C.2000,JGR,105,25079 ",
+        "page_idx": 5
+    }
+]

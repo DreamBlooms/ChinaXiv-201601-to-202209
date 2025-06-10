@@ -1,0 +1,327 @@
+[
+    {
+        "type": "text",
+        "text": "垂体后叶加压素对人类社会行为的影响\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吴小燕1,2；封春亮²；徐家华4；何振宏；罗艺；罗跃嘉1,2.3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1深圳大学脑疾病与认知科学研究中心，深圳 518060）（²深圳市情绪与社会认知科学重点实验室，深圳518060）（深圳市神经科学研究院情绪与大脑中心，深圳518060）（4北京师范大学认知神经科学与学习国家重点实验室，北京 100875）（5Division of Neuroscience and Experimental Psychology,School of Biolo gicalSciences,Universityof Manchester,Manchester, United Kingdom）（6Virginia Tech Carilion Research Institute,Virginia Tech, Roanoke, USA)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要垂体后叶加压素(Arginine Vasopressin，AVP)是神经内分泌激素之一，简称加压素。研究发现加压素对人类复杂的社会行为有着重要的调节作用。首先，在家庭关系方面加压素能够促进男性的性行为和父亲行为。其次，在社会评定方面，加压素能诱发男性之间的敌意和女性之间的亲和行为。最后，在社会决策方面加压素能提升男性的自利性的社会决策和促进女性调和人际关系。目前此领域研究存在的问题包括：男女被试比例失衡，当前研究关注男性为主；对于心理疾病的临床治疗有待进一步研究和缺乏对其他变量的控制。未来研究应继续探究加压素对人类的情绪调节、学习等各方面的调节作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词垂体后叶加压素；精氨酸加压素；人类社会行为；性别差异；",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "垂体后叶加压素是由9个氨基酸组成的一种神经内分泌激素，也常被称为精氨酸加压素，本文简称加压素。其结构与催产素(Oxytocin)高度相似，仅有第3个和第8个氨基酸与催产素不同(Aspe-Sanchez,Moreno,Rivera,Rossi,& Ewer,2015)。加压素由下丘脑的室旁核、视上核的神经细胞合成，经视上垂体束和旁室垂体运输至垂体后叶，释放入血液并作用于外周神经系统，部分投射到中枢神经系统从而影响个体的活动(Caldwell,2017)。早期动物研究发现加压素对生物的社会性行为具有重要的调节作用，包括交配、亲子、合群性、攻击性等行为(Caldwell,2017; Goodson& Thompson,2010; Kelly & Goodson, 2014)。在过去的十几年，由于研究手段的进步(intranasal administration，鼻吸法)(Born et al.,2002)，越来越多的研究人员开始关注加压素对人类社会行为的调节作用。通过鼻吸法，加压素能直接越过脑血屏障，作用于中枢神经系统从而影响人的行为(Rutherford et al，2017；Waller et al.，2015；Yang,Ma,Yang,Zhu,&Wang,2018)。早期动物研究发现，加压素水平偏低的个体会表现出一系列社会认知障碍，如健忘症、无法习得趋避行为等(Lim,Bielsky,& Young,2005)，这暗示了人为调节加压素的水平可作为治疗这些社会认知障碍手段的可能性。在人类的研究也有类似的发现，例如首发精神分裂症患者(first-episode schizophrenia patients)的脑脊液中(Cerebrospinal fluid)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "的加压素的浓度要低于健康群体(Geng et al.,2017)，而持续服用加压素能够提高精神分裂症患者的记忆能力(Geng et al.,2017)以及加工情绪刺激的能力(Vadas et al.,2017)。因此，进一步探索加压素对社会功能的影响有助于推动心理疾病的临床治疗，如焦虑症、自闭症、抑郁症等等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因为信息感知和加工，尤其记忆，是个体认识和储存环境的信息的过程，决定了个体的行为活动(Ferguson&Bargh,2004)。所以为了更好地了解加压素对社会行为的影响，我们有必要先了解加压素在认知加工层面的作用。综合当前的研究和发现，我们将从家庭关系、社会互动两个方面来介绍加压素对人类社会行为的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.加压素与认知加工",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1听觉加工与注意",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "早期的一系列的听觉注意实验发现加压素能够影响听觉注意过程。Pietrowsky(1994,1996)等人应用oddball听觉实验范式发现，相比对鼻吸安慰剂（生理盐水)，鼻吸加压素会增大加工新异刺激的 N2 (Dodt et al.，1994)和 P3 波幅(Pietrowsky, Struben,Molle,Fehm,& Bom,1996)。另一项注意警觉实验，被试需要默算右耳所听到的短音次数。研究者发现相比对鼻吸安慰剂，鼻吸加压素增大了颅顶电位(vertex potential)波幅(Fehm-Wolfsdorf,Bachholz,Born,Voigt,&Fehm,1988)。在双耳分听范式中，鼻吸加压素后增大了回应偏离刺激(deviating stimuli)的 N2 波幅(Born,Bothor,Pietrowsky,&Fehm-Wolfsdorf,1987)。以上研究表明了加压素会增大对新异刺激的注意资源投入。另外，一项研究情绪词义加工的研究要求被试判断呈现的单词（包括消极、积极、中性三种语义）是否超过6个字母，研究者发现，相比较中性语义的单词，鼻吸加压素增大了回应情绪语义的 P3 波幅(Naumann，Bartussek,Kaiser,&Fehm-Wolfsdorf,1991)。这些研究共同地表明了加压素能够调节人的认知加工和情绪信息加工过程。为了进一步了解加压素在人们生活中的影响，研究人员开始使用日常生活中常见刺激材料（例如情绪面孔）等，以及设计各种社会互动的范式来研究加压素的调节作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2面孔识别与记忆 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "该研究领域以面孔作为实验材料发现加压素会影响视觉刺激加工过程。在一项面孔识别任务中，研究者先给男性被试呈现一系列面孔图片，而后加入新面孔图片要求被试判断是否“认识”，即先前是否看过。结果发现，相对于中性面孔，服用加压素的个体会把具有强烈情绪的旧面孔（如愤怒、开心）更可能地判断为认识。该研究表明了加压素能够提升个体记忆和熟悉面孔情绪信息的能力。另一项研究采用了内隐社会认知判断任务并要求被试观看一系列的负性情绪面孔（如愤怒、恐惧)。研究发现相比于熟悉面孔（即在任务前给被试呈现过的面孔)，个体在观看陌生面孔时，大脑的左侧颞顶联合区被显著激活；而这种差异在个体服用加压素后消失了，即加压素使得个体观看陌生和熟悉面孔的神经回应不再存在显著差异(Zink et al.,2011)。左侧颞顶联合区与心理理论密切相关(Tsoi,Dungan,Waytz,& Young,2016),在 Zink 的研究中它的激活被认为是个体在推测陌生人心理活动的体现，而加压素减少了这种在观看陌生面孔时推测他人动机的心理过程，使得大脑对陌生面孔的反应更像是对熟悉面孔的反应。这些研究共同表明加压素能促进个体对情绪面孔的加工和记忆。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3社会反馈加工",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "社会反馈(Social Feedback)指的是在社会互动过程中，个体做出某个行为后所得到的他人的反馈；这个反馈结果是完全地或部分地由自己的行为所引起的(Zanesco,Tipura,Posada,Clement,&Pegna,2018)。负性社会反馈指个体在做出某个动作或完成某件事情后，接收到了负性的回应(Achterberg,van Duijvenvoorde,Bakermanskranenburg,& Crone,2016)，例如做出某个动作后遭受到电击。负性社会反馈与各种精神疾病（如抑郁症、自闭症、焦虑症）有着密切关系。这些负性反馈能够诱发个体的消极情绪、应激状态、恐慌等等(Weidenfeld, Itzik,& Ovadia,2015)。为考察加压素能否缓解这种由负性社会反馈所引起的负性反应,Gozzi(2017)等人开展了一个包括正性反馈和负性反馈的实验任务。在实验中，如果被试反应时低于一定的范围将呈现负性反馈刺激，反之亦然。结果发现相比正性反馈，负性反馈诱发了多个脑区激活，包括颞顶联合区（与心理理论有关）、前侧脑岛和辅助运动皮层（与疼痛加工有关)以及右侧梭状回（与视觉情绪识别有关)。然而，个体服用加压素后这些脑区在回应负性反馈的激活程度与回应正性反馈没有显著差异，即加压素能够减弱个体回应社会负性反馈的神经回应(Gozzi,Dashow,Thurm,Swedo,& Zink,2017)。该研究提示了加压素在社交焦虑等心理疾病作为临床治疗手段的可能性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如上所述，研究表明在面孔加工过程中，加压素能促进个体对情绪面孔的记忆和识别，提升对陌生情绪面孔熟悉程度。在社会反馈加工过程中，加压素减弱了个体回应社会负性反馈的神经回应（如负责心理理论、疼痛加工的脑区)，表明加压素有利于降低个体对负性反馈信息的敏感性/唤醒程度。这些研究表明了加压素在社会信息加工过程中有重要的调节作用，这可能会并进一步影响个体在社会互动过程中的表现。因此，在人类社会生活中，加压素会影响人们的哪些行为以及如何影响是近年来科学家们重点关注的问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.加压素与社会行为",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1家庭关系",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "探讨加压素对社会行为的影响首先从家庭关系出发。因为家庭关系是最基础的社会关系之一，家庭也是社会的最基本的组成单位(Bott & Spillius,2014)。研究发现加压素与个体的配偶关系/两性关系、父子关系存在密切关联。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1配偶关系/两性关系",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "早期的动物模型证明加压素能够促进雄性个体的性行为。例如，对草原田鼠注射加压素能够增加雄性个体对异性的亲近(Wins low,Hastings,Carter,Harbaugh,& Insel,1993)。在伶猴属雄性猴子(coppery titi monkey, Callicebus cupreus)中也有类似的发现，例如鼻吸加压素使得猴子更愿意亲近他们的雌性伴侣(Jarcho,Mendoza,Mason,Yang,& Bales,2011)。在人类研究中也发现加压素与男性个体的配偶关系/两性关系有关。在一项基因研究中，研究者发现个体的精氨酸加压素 1a 型受体(Argininevasopresin receptor la，AVPRla)的 RS3 启动子区域重复多态性(RS3 repeat polymorphism)与配偶关系（通过伴侣关系量表（Partner Bonding Scale）测量）显著相关(Walumetal.,2008)，并且这种相关只在男性被试中显著。通过血液测量，Taylor(2010)等人发现男性个体的加压素水平与他们在恋爱中的关系焦虑呈显著正相关(Taylor,Saphirebernstein,& Seeman,2010)。而 Guastela(2011)等人发现通过鼻吸加压素后，男性个体提高了与性爱相关的单词的加工和识别(Guastella，Kenyon，Unkelbach，Alvares，&Hickie,2011)。相比对鼻吸安慰剂（生理盐水)，男性鼻吸加压素后能够更加迅速地识别其伴侣的生气的表情，暗示了加压素可能会促进男性应对配偶的负性情绪(Marshall 2013)。最近一项研究发现，相比于陌生男性面孔，男性个体服用加压素后认为陌生女性面孔更有吸引力(Price etal.,2017)。这些研究共同表明了加压素与男性的配偶关系/两性关系存在密切关联。功能磁共振研究发现男性个体在观看女性面孔时，与奖赏加工有关的脑区被显著激活，例如右侧伏隔核(right nucleus accumbens)和双侧外隔膜(bilateral lateral septum)，这表明加压素调节了奖赏加工系统回应异性面孔；研究者推测这与促进男性个体的求爱/性行为有关(Rillinget al,2017)。除了两性关系，加压素在亲子关系、抚养后代中的调节作用也是研究人员所关心的问题。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.2亲子关系",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "研究者以2岁半以下婴儿的父亲作为研究对象，发现父亲的尿液中的加压素水平与婴儿的年龄呈显著负相关，表明在婴儿出生后的早年期间，加压素与促进父亲身份的转变（从成年男性到父亲）有关(Gray,Parkin,& Samms-Vaughan,2007)。研究者还发现当父亲在观察他们子女的录像带时与社会认知、社会关系形成有关的脑区（额下回和脑岛）激活，并且这些脑区的激活程度与外周加压素水平（取血液样本测量）呈负相关(Atzil，Hendler,Zagoory-Sharon,Winetraub,&Feldman,2012)。此外，通过鼻吸加压素的方式，研究者发现即将成为父亲的个体会更多地注视与婴儿有关的刺激，表明加压素能促进父亲行为(Cohen-Bendahan,Beijers,van Doornen,&De,2015)。然而，另一项研究并没有发现服用加压素能够引起被试回应婴儿刺激的行为和神经层面的变化(Li,Chen，Mascaro，Haroon，&Rilling,2017)。这种结果的差异可能与被试身份有关。该研究以1-2岁的婴儿的父亲为被试，他们在日常生活中与婴儿频繁接触，其照料婴儿的经历和身体激素水平已经发生了变化(Kim et al.，2014)，因此父亲抚育婴儿的时长可能是一个混淆变量。最近的一项研究让未婚男性鼻吸加压素后观看婴儿的情绪面孔。他们发现，相比情绪明确的婴儿面孔，模糊情绪的婴儿面孔会诱发更大的LPP 波幅。这项研究表明加压素会使得男性增加对情绪状态不确定性的婴儿投入更多注意，且可能与保护婴儿的动机有关(Wu,Xu,Luo,&Feng,2018)。有趣的是，研究者发现幼年期受到高质量父爱的个体在服用加压素后在观看痛苦和愉悦事件的录像带时会给出更高的共情评分，即他们更能感受到录像带中人物的情绪状态(Tabak et al.,2015)。这些研究暗示了加压素在亲子关系中的调节作用可能具有跨代性。一方面，加压素能够促进父亲的父爱行为。另一方面，对于幼年期间受到良好父爱的个体，加压素会影响这些个体的社会性发展。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "研究说明，加压素与男性的两性关系和父子关系密切相关，服用加压素对男性的性行为和父亲行为起到促进作用。这些发现与早期动物研究结论较为一致。相比动物研究，人类的生活更加复杂多样。近年来科研人员越来越关注加压素在社会人际互动中的调节作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2社会互动",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.1情绪回应与社会评定",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "该研究要求被试对图片人物进行社会评定，如亲近程度、吸引力等以模拟人们非语言互动的现实情境。研究发现加压素在人际互动的过程中有着重要的调节作用。Thompson(2004，2006)等人发现加压素在情绪回应与社会评定具有调节作用：通过鼻吸加压素，男性个体在观看其他陌生男性面孔刺激时会产生敌意，即产生不友好的面部表情回应（corrugatorresponses，皱眉肌活动增加)，并且降低对这些面孔亲近程度的评分。类似地，在一项关于情绪面孔识别的任务中，鼻吸加压素使得男性被试降低了对陌生男性面孔情绪的识别正确率，然而对女性面孔的情绪识别并没有受到影响。该研究表明加压素使得男性在回应其他男性情绪的过程中缺乏共情，并进一步触发紧张的人际交往(Uzefovsky，Shalev，Israel，Knafo，&Ebstein,2012)。用类似的研究范式，Zink(2010)等人通过功能磁共振技术发现这种负性情绪/敌意的诱发主要是通过加压素调节内侧前额叶皮质与杏仁核的功能连接和激活强度来实现的，即加压素减弱了内侧前额皮层对杏仁核的抑制，使得杏仁核的激活程度更高从而引发更多负性情绪(Tian,Feng,Feng,Gu,& Luo,2015)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在该领域的研究对象中，绝大部分是男性被试，然而也有少数研究将女性被试纳入以考察性别效应。相比于男性个体，女性个体在同样的服药剂量和相同的任务下产生了不一样的反应。例如 Thompson(2006)等人通过记录面部肌电和行为反应，发现鼻吸加压素诱发了男性对其他男性的敌意或不友好的行为回应(如上所述);而女性个体在观看其他女性面孔时，加压素引起了友好的面部表情回应（zygomaticus responses，颧肌活动增加)，并提高了对这些面孔亲近程度的评分，表明加压素诱发了女性对同性别个体的亲社会行为。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "上述研究说明加压素在人类的社会互动过程中具有重要的调节作用。在情绪回应和社会评定方面，尽管证据有限，但已有的研究发现加压素的调节作用具有性别效应。具体来说，加压素与男性之间的敌意知觉以及女性之间的亲和互动有关。这些发现与早期动物研究的结果一致。例如，加压素会增加啮齿类动物雄性个体之间的攻击性行为（如打斗、啃咬、追逐、滚爬等）(Caldwell&AIbers,2004)。而在啮齿类雌性个体的研究却被观察到相反的结果，即加压素减少了防御性攻击行为(Gutzler，Karom，Erwin，& Albers，2010)和母性攻击行为(maternal aggression)(Nephew,Byrnes,& Bridges,2010)。这些发现似乎在基因类型研究也得到了支持，例如(Zai et al.,2012)发现AVPR1b 的 rs35369693 等位基因与儿童的攻击性呈正相关，并且这种相关在男孩中更为显著(Luppino,Moul, Hawes,Brennan,& Dadds,2014)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 社会决策",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "社会决策指的是个体在社会情境中，基于目标、信念、他人意图等所做出的决策行为(Yoder&Decety,2018)。关于加压素与社会决策的发现最先由(Knafo et al.,2008)等人报告，他们发现AVPRla 基因多态性与金钱分配决策有关。在这项研究中，他们对受试者的AVPR1aRS3启动子区重复多态性区分为长臂和短臂的两种类别。在随后独裁者游戏(DictatorGame)2中，他们发现RS3启动子区重复多态性为长臂的个体会倾向于分配更多的钱给他人，并且这些被试自我报告的亲社会程度更高。这项研究表明了加压素基因受体与社会行为有关，但由于相关研究的局限性，我们仍然需要通过其他手段来进一步了解加压素的社会功能。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "近年以来研究者们通过鼻吸法将加压素作为自变量操纵，使我们对加压素影响社会决策有更多的了解。在心理学研究范畴中，研究合作最常用的范式之一即囚徒困境博弈(ThePrisoners Dilemma game)。该实验范式模拟了人们现实生活中的合作与背叛的行为。通过该范式，James(2014)和Feng(2015)等人发现相比于服用生理盐水，服用加压素的男性个体会更倾向和他人进行互利合作（即双方合作能够共同获利)，且纹状体、基底前脑(basal forebrain)、脑岛、杏仁核和海马等脑区的激活程度更高。相反，在这类任务中女性服用加压素后会更加倾向在对方背叛自己后仍然选择与对方合作(Feng,Hackettet al.,2015; Feng et al.,2014)，表明加压素使女性个体更倾向于产生“和解\"人际关系的决策行为。并且在进行这些任务时，她们的纹状体、基底前脑、脑岛、杏仁核和海马等脑区的激活呈下降趋势(Feng,Hackett,et al,2015;Feng et al.,2014)。由于这些脑区在奖赏加工、社会关系形成、唤醒和显著性刺激的探测中有着重要的作用，这些结果表明了加压素加强了男性而非女性个体对合作获利反馈的神经唤醒程度，从而促使当前活动继续进行。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "研究社会竞争的常用范式之一是泰勒侵略范式(The Taylor Aggression Paradigm)4。在该范式中，当被试由于在反应时竞争中因失败而需接受对方施加惩罚时，鼻吸加压素显著增加了男性个体右侧颞上沟的激活,表明了在竞争活动中，加压素加强了心理理论(mentalizing)和过程评估(appraisal processes)相关的脑区（右侧颞上沟）激活，从而使得个体在当前竞争活动中更加投入(Brunnlieb,Muente,Kraemer, Tempelmann,& Heldmann,2013)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "风险决策即做出某项决策后，会概率性地呈现正性或负性的反馈。近两年研究者也发现了加压素会影响社会情境中的风险决策行为。一项关于风险决策的研究发现，鼻吸加压素使得被试减少了风险活动的参与，这被认为是一种处于自我保护的防御性行为(Patel et al.,2015),这表明加压素对提高个体适应环境，增加生存的可能性起到积极作用。Brunnlieb(2016)等人所关注的问题是：加压素对风险性合作的影响。他们设计了新的实验范式（Stag hunt，猎鹿博弈)，该任务中如果双方合作将各自获得最大收益，而在囚徒困境中双方合作获得折中的收益)，发现该范式得到的结果与囚徒困境范式的结果一致，即鼻吸加压素可以增加被试与他人互利合作的概率。在进行这些任务时，加压素减弱了背外侧前额叶激活，并增强了背外侧前额叶对杏仁核的抑制。传统的风险决策研究认为背外侧前额叶是参与风险评估、认知调控的重要脑区(Decety, Jackson, Sommerville,Chaminade,& Meltzoff,2004)，因此该实验表明加压素减弱了这种风险评估的过程，并通过认知调控降低杏仁核对新异刺激加工的回应(Brunnlieb et al，2016)。以上两个研究分别得出的加压素减少和增加个体的风险决策行为的结论，看似相驳，但我们认为这种差异可能是由于实验中反馈性质的不同所造成的。在Patel(2015)等人的研究中，参与风险决策所带来的利与弊涉及到个体人身安全。而在Brunnlieb(2016)等人的研究中，参与风险决策可能得到不同的金钱收益水平。但两者都表明了加压素能够促进个体适应环境，以便尽更大可能获得安全舒适的生存环境。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "上述研究表明，在社会决策方面，鼻吸加压素能够促使男性个体更多投入到与经济利益（自我利益相关）相关的合作活动，相对应的神经唤醒程度也会更高，例如纹状体、基底前脑、脑岛、杏仁核和海马等脑区。而对于女性，加压素促进了寻求和谐的人际关系的行为，而在神经层面相对应的脑区呈减弱趋势，例如纹状体、基底前脑、脑岛、杏仁核和海马等脑区。在风险决策过程中，鼻吸加压素可以使得个体根据当前情形做出有利决策。例如，当决策涉及到人身安全时（例如骑自行车跳跃摔倒)，加压素使得个体会尽可能地避免冒险。而当决策能够带来经济收益时，加压素使得个体会尽可能地参与冒险。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.总结与展望 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综上所述，在社会认知过程中，加压素能够增加大脑对新异刺激的注意，促进个体对情绪面孔的记忆，以及影响对社会负性反馈信息的加工。在有关社会互动的研究中，加压素的效应具有性别差异。具体来说，在男性个体中加压素被发现能够促进父亲行为和性行为，以及引起男性之间的敌意知觉，促使个体更多地做出与自我利益相关的决策。而对于女性，加压素被发现能够提升女性之间的亲和行为，有利于调和人际关系。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "早期的动物研究已证实了加压素能够促进一夫一妻(monogamous)的两性生活和抚养后代行为(biparentalcare)。雄性个体对配偶和幼崽的偏爱(Bamshad,Novak，& Vries，1993；DeVries，Wang，& Ferris，1994; Wang，Liu, Young，& Insel， 2000; Wynne-Edwards& Timonin,2007)，以及对其他雄性个体的攻击性行为均受到加压素的调节(Donaldson& Young,2008)。其中，颇有说服力的证据包括：在雄性的仓鼠的侧脑室注入加压素显著增加了它们照料幼崽的频率(De Vries et al.,1994)；在雄性草原田鼠的侧脑室(intracerebroventricularly)注入加压素会诱发亲近配偶和攻击同性个体的行为(Winslow etal.,1993)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "近年来科研人员在人类身上找到了与动物模型较为一致的发现。一方面，加压素促进男性的两性行为和父亲行为，并且能够引起的男性之间的敌意；我们认为这可能与物种保护后代和守护配偶(mate guarding)的动机和行为有关。这一说法在社会决策领域得到进一步支持：当合作能够获得更多的生存资源时，加压素会促进男性个体参与合作；反之亦然(Feng,Hackett,et al.,2015;Feng etal.,2014)。另一方面，加压素能够促进女性之间亲社会行为(Chenet al.,2016; Feng, Hackett, et al.,，2015; Thompson, George, Walton, Orr& Benson,2006)，这可能与动物模型发现的照料后代行为有关，因为女性通常起到抚养后代的主要角色，亲近其他女性更加有利于抚养后代。但目前有关加压素对女性个体的研究还较少，需要未来研究进一步证实。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "此外，有研究者认为加压素对社会行为的影响很大程度上是由于加压素引起个体焦虑造成的，即焦虑水平是此类研究中的一个混淆变量。在特里尔社会压力测试(Trier Social Stresstest)中，鼻吸加压素能提升个体的唾液皮质醇水平和心率(Ebstein et al.，2009)。同样地，Thompson(2006)的研究也发现鼻吸加压素提升了个体的焦虑状态。因此，上述前人研究的结果则有可能仅仅是由于不同的情形下个体缓解这种焦虑的策略不同而造成的。正如Taylor(2000)的进化理论所述，由于男女的社会角色和家庭地位不同，他们应对焦虑和压力的策略在进化过程中被选择性保留下来。“战争或逃跑\"策略为男性个体应对外部威胁的回应，例如服用加压素后，男性对男性产生敌意知觉(Thompson et al.,2006)和增加了与自我利益有关的社会行为(Brunnlieb et al.,2016;Feng,Hackettet al.,2015)。而女性个体应对外部威胁时会选择与其他女性联盟的策略，有助于避开危险和为后代提供安全的环境。我们发现，先前总结的关于加压素在情绪回应与社会评定以及社会决策研究中的性别差异效应，在一定程度上支持了这一进化理论框架。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "当前这一领域研究还处于初步阶段，尚存在很多亟需解决的问题，具体包括以下几个方面：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "目前绝大部分关于加压素的研究对象均为男性。一方面的原因是早期的动物研究发现加压素主要对雄性个体的社会行为起作用(Young,Murphy Young,& Hammock,2005)；另一方面，因为女性的身体激素水平受到了月经周期的影响(Champagne，Diorio，Sharma，& Meaney,2001)，所以需要将其作为控制变量，而这在实际研究中常常较难操作，未来的研究应尽可能控制和避免混淆变量。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "虽然加压素与众多精神疾病有密切关系,例如精神病学领域的研究者在患有情绪障碍的儿童(Dempster et al.,2007; Malik et al.,2014)以及精神疾病成人患者，例如恐慌性障碍(Kreek,Zhou,& Levran,2011)、精神分裂(Golimbet,Alfimova,Abramova,Kaleda,& Gritsenko,2015)以及孤独症(S.Y.Yanget al.,2017)病人的身上发现他们的病症可能与加压素基因受体 1b 型存在紧密关联。然而，加压素在精神疾病治疗方面的作用仍处于初步探索阶段。当前研究大部分仍以健康人作为研究对象，未来的研究应更多关注精神疾病患者，探索加压素是否能够减轻病人的症状负担。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "加压素对人体的影响还受到其他因素的调节。首先是药物剂量。激素的用量大小会引起不同的调节作用，高低剂量会起到不同的调节效应(Zhuetal.,2010)，未来研究应考虑药物用量的差异。其次，人格特质和个体差异。Feng(2015)等人发现加压素促进合作的效应受到了个体神经质(Neuroticism)的调节(Feng,Demarco, Haroon,& Rilling,2015)。加压素促进共情能力的效应只在幼年期间接受高质量父爱的个体中发现(Tabak etal.,2015)。这些结果表明了加压素的神经药理机制受到个体差异影响，未来研究应该将其考虑在内。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "此领域研究仍处于起步阶段，后续研究应继续探索加压素在人类社会行为的其他各方面的影响，如情绪调节、学习、记忆等各个方面。另外，为提高其生态效度，未来研究可考虑使用超扫描技术(Hyperscanning)来考察加压素在人们现实互动过程中的调节作用，增进我们对加压素的社会功能的了解。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Achterberg,M.,van Duijvenvoorde,A.C.，Bakermanskranenburg,M. J.，& Crone,E.A. (2016). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Control your anger! The neural basis of aggression regulation in response to negative social feedback. Social cognitive and affective neuroscience,11(5), 712-720.   \nAspe-Sanchez, M., Moreno,M., Rivera, M.I.,Rossi, A.,& Ewer, J. (2015). Oxytocin and Vasopressin Receptor Gene Poly morphis ms: Role in social and psychiatric traits. Frontiers in neuroscience, 9,510.   \nAtzil,S.，Hendler,T., Zagoory-Sharon,O.，Winetraub,Y.，& Feldman，R.(2012). Synchrony and specificity in the matermal and the patemal brain: relations to oxytocin and vasopressin. Journal of the American Academy of Child and Adolescent Psychiatry, 51(8), 798-811.   \nBamshad, M., Novak, M. A., & Vries, G. J. (1993). Sex and species differences in the vasopressin innervation of sexually naive and parental prairie voles，microtus ochrogaster and meadow voles, microtus pennsylvanicus.Journal ofneuroendocrinology,5(3), 247-255.   \nBorn,Bothor, Pietro wsky，& Fehm-Wolfsdorf.(1987). Influences of vasopressin and oxytocin on human event-related brain potentials in an attention task. Journal of Psychophysiology, 1(4), 351-360.   \nBorn, Lange,T., Kem, W., McGregor, G. P., Bickel, U.,& Fehm, H. L. (2002). Sniffing neuropeptides: a transnasalapproach to the human brain. Nature neuroscience,5(6), 514.   \nBott,E., & Spillius, E. B. (2014). Family and social network: Roles, norms and external relationships in ordinary urban families: Routledge.   \nBrunnlieb，Muente,T.F.， Kraemer, U.， Tempelmann，C.，& Heldmann，M.(2013). Vasopressin modulates neural responses during human reactive aggression. Social neuroscience, 8(2), 148-164.   \nBrunnlieb,Nave, G., Camerer, C.F., Schosser, S.， Vogt, B., Munte,T.F.，& Heldmann,M. (2016). Vasopressin increases human risky cooperative behavior. Proceedings of the National Academy of Sciences, 113(8),2051.   \nCaldwell. (2017). Oxytocin and vasopressin: powerful regulators of social behavior. The Neuroscientist, 23(5), 517-528.   \nCaldwell,& Albers, H. E. (2004). Efct of photoperiod on vasopressin-induced aggression in syrian hamsters. Hormones and behavior, 46(4), 44-449.   \nChampagne,F., Diorio,J., Sharma, S., & Meaney,M. J. (2001). Naturally occurring variations in maternal behavior in the rat are associated with differences in estrogen-inducible central oxytocin receptors.Proceedings ofthe National Academy of Sciences, 98(22), 12736-12741.   \nChartrand,T.L,& Bargh,J.A.(1999). The chameleon effect: the perception-behavior link and social interaction. Journal ofpersonality and social psychology, 76(6), 893.   \nChen,X., Hackett, P.D., DeMarco,A. C.,，Feng, C., Stair, S., Haroon,E.,... Riling,J. K. (2016). Effects of oxytocin and vasopressin on the neural response to unreciprocated cooperation within brain regions involved in stress and anxiety in men and women. Brain imaging and behavior, 10(2), 581-593.   \nCohen-Bendahan, C. C.， Beijers,R., van Doormen,L. J.,& De,W. C.(2015). Explicit and implicit caregiving interests in expectant fathers: Do endogenous and exogenous oxytocin and vasopressin matter? Infant Behavior and Development, 41,26-37.   \nDe Vries,G., Wang, Z.,& Ferris, C. (1994). The role of septal vasopressn innervation in patermal behavior in prairie voles (Microtus ochrogaster). Proceedings of the National Academy of Sciences,91,400-404.   \nDecety,J., Jackson,P.L., Sommervile,J.A., Chaminade,T.,& Meltzoff,A.N. (2004). The neural bases ofcooperation and competition: an fMRI investigation. Neuroimage,23(2), 744-751.   \nDempster,E.L.,Burcescu,1.,Wigg,K.,Kiss,E.,Baji,1., Gadoros,J... Kovacs,M. (2007). Evidence of an association between the vasopressin V1b receptor gene (AVPR1B) and childhood-onset mood disorders.Archives of general psychiatry, 64(10), 1189-1195.   \nDodt,C.,Pietrowsky,R.,Se wing,A., Zabel,A.,Fehm, H.L.,& Born,J. (1994).Effects ofvasopressin on event-related potential indicators of cognitive stimulus processing in young and old humans . Journal of gerontology, 49(4), M183-M188.   \nDonaldson, Z. R.，& Young,L. J. (2008). Oxytocin, vasopressin, and the neurogenetics of sociality. Science,322(5903)， 900-904.   \nEbstein,R.P.,Israel,S., Lerer,E.，Uzefovsky,F.，Shalev,I., Gritsenko,I.，...Yirmiya,N.(2009). Arginine vasopressin and oxytocin modulate human social behavior. Annals of the New York Academy of Sciences, 1167(1), 87-102.   \nFehm-Wolfsdorf, G., Bachholz, G., Bom,J., Voigt, K.,& Fehm, H. L. (1988). Vasopressin but not oxytocin enhances cortical arousal: an integrative hypothesis on behavioral effects of neurohypophysealhormones. Psychopharmacology, 94(4), 496-500.   \nFeng,C., Demarco,A. C., Haroon, E.,& Riling, J. K. (2015). Neuroticis m modulates the effcts of intranasal vasopressin treatment on the neural response to positive and negative social interactions. Neuropsychologia,73,108-115.   \nFeng,C.，Hackett, P.D., DeMarco,A. C., Chen, X.,Stair, S.，Haroon,E.,... Riling,J. K. (2015). Oxytocin and vasopressin effects on the neural response to social cooperation are modulated by sex in humans. Brain imaging and behavior, 9(4), 754-764.   \nFeng,C.,Li, W.,Tian,T.,Luo,Y., Gu,R, Zhou, C.,& Luo,Y.-j. (2014). Arousal modulates valence effects on both early and late stages of affective picture processing in a passive viewing task. Social neuroscience,9(4), 364-377.   \nFerguson, M.J.,& Bargh, J. A. (2004). How social perception can auto maticaly influence behavior. Trends in cognitive sciences,8(1), 33-39.   \nGeng,C.-H., Wang, C.， Yang, J., Wang, H., Ma,R.-Q., Liu, X.,& Wang, C.-H. (2017). Arginine vasopressin improves the memory deficits in Han Chinese patients with first-episode schizophrenia. Peptides,97,8-15.   \nGolimbet, V.,Alfimova,M., Abramova,L., Kaleda, V., & Gritsenko,I. (2015). Argin ine vasopressinla receptor RS3 promoter microsatelites in schizophrenia: a study of the effect of the“risk\" allele on clinical symptoms and facial affect recognition. Psychiatry research, 225(3), 739- 740.   \nGoodson,J.L., & Thompson,R. R. (2010). Nonapeptide mechanisms of social cognition, behavior and species-specific social systems. Current Opinion in Neurobiology, 20(6), 784-794.   \nGo zzi,M., Dashow, E. M., Thurm, A., Swedo, S.E.,& Zink, C. F. (2017). Effects of oxytocin and vasopressinonpreferentialbrainresponsestonegativesocialfeedback. Neuropsychopharmacology, 42(7), 1409.   \nGray，P.B.， Parkin，J.，& Samms-Vaughan, M. (2Oo7). Hormonal correlates of human paternal interactions: A hospital-based investigation in urban Jamaica. Hormones and Behavior, 52(4), 499-507.   \nGuastell,A. J.，Kenyon,A.R., Unkelbach,C.,Alvares，G. A.，& Hickie,I. B. (2011). Arginine Vasopressinselectivelyenhancesrecognitionof sexual cuesinmale humans. Psychoneuroendocrinology, 36(2), 294-297.   \nGutzler, S. J., Karom, M., Erwin, W.,& Albers, H. (2010). Arginine - vasopressin and the regulation of aggression in female Syrian hamsters (Mesocricetus auratus). European Journal of Neuroscience,31(9), 1655-1663.   \nJarcho,M., Mendoza, S., Mason, W., Yang, X.,& Bales, K. (20l1). Intranasal vasopressn affects pair bonding and peripheral gene expression in male Calicebus cupreus. Genes, Brain and Behavior,10(3), 375-383.   \nKelly，A.M.,& Goodson, J. L. (2014). Hypothalamic oxytocin and vasopressin neurons exert sex-specific effects on pair bonding, gregariousness,and aggression in finches. Proceedings of the National Academy ofSciences, 111(16), 6069-6074.   \nKim,P.,Rigo,P.,Mayes,L. C., Feldman,R., Leckman,J.F.,& Swain,J. E. (2014). Neuralplasticity in fathers of human infants. Social neuroscience, 9(5), 522-535.   \nKnafo,A., Israel, S.,Darvasi, A. Bachner - Melman,R., Uzefovsky,F., Cohen,L.,... Raz, Y.(2008). Individual differences in allocation of funds in the dictator game associated with length of the arginine vasopressin la receptor RS3 pro moter region and corre lation between RS3 length and hippocampal mRNA. Genes, Brain and Behavior, 7(3), 266-275.   \nKreek,M. J., Zhou, Y,& Levran, O. (2011). Functions of arginine vasopressin and its receptois: importance of human molecular genetics studies in bidirectional translational research. Biological psychiatry, 70(6), 502.   \nLi, Chen， Mascaro, Haroon,& Riling. (20l7). Intranasal oxytocin,but not vasopressin,augments neural responses to toddlers in human fathers. Hormones and behavior,93,193-202.   \nLim,M.M.,Bielsky,I.F.,& Young,L.J. (20o5). Neuropeptides and the social brain: potential rodent models of autism. International Journal ofDevelopmental Neuroscience,23(2-3), 235-243.   \nLuppino,D., Moul, C.， Hawes,D. J., Brennan,J.,& Dadds,M.R. (2014). Association between a polymorphis m of the vasopressin 1B receptor gene and aggression in children. Psychiatric genetics,24(5), 185-190.   \nMalik,A. I.,Zai, C.C., Beral,L.,Abu,Z.,Din,F., Nowrouzi, B,.. Beitchman,J.H.(2014).The role of genetic variants in genes regulating the oxytocin-vasopressin neurohumoral system in childhood-onset aggression.Psychiatric genetics, 24(5), 201-210.   \nMarshall (2013). Postraumatic stress disorder and partner-specific social cognition: a pilot study of sex differences in the impact of arginine vasopressin.Biological psychology, 93(2),296-303.   \nNaumann,E.， Bartussek, D., Kaiser, W.,& Fehm-Wolfsdorf, G. (1991). Vasopressin and cognitive processes:two event-related potential studies.Peptides,12(6), 1379-1384.   \nNephew, B. C.， Byrmes,E. M.，& Bridges,R. S. (2010). Vasopressin mediates enhanced offspring protection in multiparous rats. Neuropharmacology, 58(1),102-106.   \nPatel,N.，Grillon,C.，Pavletic，N.，Rosen,D.， Pine,D.S.，& Ernst,M.(2015).Oxytocin and vasopressin modulate risk-taking. Physiology & behavior, 139,254-260.   \nPietrowsky, R., Struben, C., Mole,M.,Fehm, H.L.,& Born,J. (1996). Brain potential changes after intranasal vs. intravenous administration of vasopressin: evidence for a direct nose-brain pathway for peptide effects in humans. Biological psychiatry,39(5), 332-340.   \nPrice,D.， Burris,D.，Cloutier, A.，Tho mpson,C.B.，Rilling,J.K.，& Thompson,R. R.(2017). Dose-dependent and lasting influences of intranasal vasopressin on face processing in men. Frontiers in Endocrinology, 8,220.   \nRiling,J. K.，Li, T.，Chen，X.，Gautam, P.，Haroon,E.，& Thompson，R.R.(2017).Arginine vasopressin effects on subjective judgments and neural responses to same and other-sex faces in men and women. Frontiers in Endocrinology, 8,200.   \nRutherford, H. J., Guo, X. M., Graber, K. M., Hayes,N.J., Pelphrey, K. A.,& Mayes, L. C. (2017). Intranasal oxytocin and the neural correlates of infant face processing in non-parent women. Biological psychology, 129, 45-48.   \nTabak,B. A., Meyer, M.L., Castle,E., Dutcher, J. M., Irwin,M.R., Han,J.H.,... Eisenberger, N. I. (2015). Vasopressin, but not oxytocin, increases empathic concern among individuals who receivedhigherlevelsofpaternalwarmth:Arandomizedcontrolledtrial. Psychoneuroendocrinology,51,253-261.   \nTaylor, S.E., Saphirebernstein,S., & Seeman, T.E. (2010). Are plasma o xytocin in wo men and plasma vasopressin in men biomarkers of distressed pair-bond relationships? Psychological Science, 21(1), 3.   \nThompson,R., Gupta, S., Miller,K., Mills,S.,& Orr, S. (2004). The effects of vasopressin on human facial responses related to social communication. Psychoneuroendocrinology,29(1),35-48.   \nThompson,R.R., George,K., Walton,J. C., Or, S.P.,& Benson,J. (2006). Sex-specific influences of vasopressin on human social communication. Proceedings of the National Academy of Sciences, 103(20), 7889-7894.   \nTian,T.,Feng, X.,Feng, C., Gu,R., & Luo, Y.-J. (2015). When rapid adaptation paradigm is not too rapid: evidence of face-sensitive N170 adaptation effects. Biological psychology, 109,53-60.   \nTsoi, L., Dungan,J.，Waytz, A.,& Young,L. (2016). Distinct neural patterms ofsocial cognition for cooperation versus competition. Neuroimage,137,86-96.   \nUzefovsky,F., Shalev,I., Israel, S., Knafo,A., & Ebstein,R. P. (2012). Vasopressinselectively impairs emotion recognition in men. Psychoneuroendocrinology, 37(4),576-580.   \nVadas,L.,Bloch,B.,Levin,R.,Shalev,I.,Israel,S., Uzefovsky,F.,... Kremer,I. (2017).Sex-speciic effect of intranasal vasopressin, but not oxytocin, on emotional recognition and perception in schizophrenia patients. European Psychiatry,41, S387-S388.   \nWaler, C.,Wittfoth,M.,Frit sche,K., Timm,L.,，Witfoth-Schardt,D.，Rottler,E.，...Gündel,H. (2015). Attachment representation modulates oxytocin effects on the processing of own -child faces in fathers. Psychoneuroendocrinology, 62,27-35.   \nWalum,H.，Westberg,L., Henningsson,S.,Neiderhiser,J.M.，Reiss,D.,Igl,W.，...Eriksson,E. (2008). Genetic variation in the vasopressin receptor la gene (AVPR1A） associates with pair-bonding behavior in humans.Proceedings ofthe National Academy ofSciences,105(37), 14153-14156.   \nWang, Z., Liu, Y., Young,L., & Insel, T. (20o). Hypothalamic vasopressin gene expression increases in both males and females postpartum in a biparental rodent. Journal of neuroendocrinology, 12(2), 111-120.   \nWeidenfeld, J.， Itzik, A.,& Ovadia, H. (2015).Electrical stimulation of the amygdala modifies the negative feedback effect of glucocorticoids on the adrenocortical responses to stress. Neuroimmunomodulation, 22(6),394-399.   \nWinslow, J. T., Hastings,N., Carter, C. S., Harbaugh,C.R.,& Insel, T.R. (1993).A role for central vasopressin in pair bonding in monogamous prairie voles. Nature, 365(6446), 545-548.   \nWu, X.， Xu,P.， Luo, Y.,& Feng, C. (2018). Differential effects of intranasal vasopressin on the processing ofadult and infant cues:an ERP study.Frontiersin Human Neuroscience,12,329.   \nWynne-Edwards,K.E.，& Timonin,M.E. (20o7). Paternal care in rodents: weakening support for hormonal regulation of the transition to behavioral fatherhood in rodent animal models of biparental care.Hormones and behavior,52(1), 114-121.   \nYang,F.-J.,Ma，L.， Yang,J., Zhu, Z.-L.,，& Wang, C.-H. (2O18). Intranasal Vasopressin Relieves Orthopedic Pain After Surgery. Pain Management Nursing,S1524-9042(17),30298-30299   \nYang,S.Y.,Kim, S.A.,Hur, G.M.,Park,M.,Park,J.-E.,& Yoo,H.J. (2017).Replicative genetic association study between functional polymorphis ms in AVPR1A and social behavior scales of autism spectrum disorder in the Korean population. Molecular Autism, 8(1), 44.   \nYoder，K.J.，& Decety，J. (2Ol8). The neuroscience of morality and social decision-making. Psychology, Crime & Law,24(3),279-295.   \nYoung,L. J., Murphy Young,A. Z.,& Hammock, E.A. (20o5). Anatomy and neurochemistry of the pair bond.Journal of Comparative Neurology, 493(1), 51-57.   \nZai, C. C., Muir, K.E., Nowrouzi,B.,Shaikh,S.A., Choi, E.,Beral,L.,... Kennedy,J.L. (2012). Possible genetic association between vasopressin receptor 1B and child aggression. Psychiatry research,200(2-3), 784-788.   \nZanesco,J., Tipura，E., Posada,A., Clement, F.,& Pegna,A. J. (2018). Seeing is believing: Early perceptual brain processes are modified by social feedback. Social Neuroscience,1-11.   \nZhu,X.-r., Zhang,H.-j.,Wu, T.-t., Luo,W.-b.,& Luo,Y.-j. (2010). Emotional conflict occurs at an early stage: Evidence fromthe emotional face-word Stroop task. Neuroscience Letters, 478(1), 1-4.   \nZink,Kempf, L.， Hakimi， S.，Rainey， C.， Stein,J.,& Meyer-Lindenberg,A. (2011). Vasopressin modulates social recognition-related activity in the left temporoparietal junction in humans. Translational psychiatry, 1(4), e3. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The Effects of vasopressin on human social behaviors ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Xiaoyan $\\mathrm { W u } ^ { 1 , 2 }$ ；Chunliang Feng²； Jiahua $\\mathrm { X u } ^ { 4 }$ ； Zhenhong $\\mathrm { H e } ^ { 5 }$ ；Yi Luo6；Yuejia Luo1,2,3 (lCenter of Brain Disorder and Cognitive Sicences, Colege of Psychology and Sociology,Shenzhen University, Shenzhen 518060）（ $^ 2$ Shenzhen Key Laboratory of Affective and Social Co gnitive Science, Shenzhen University, Shenzhen 518060）（³Center for Emotion and Brain, Shenzhen Institute of Neuroscience,Shenzhen 518060) (4College of Information Science and Technology, Beijing Normal University,China 100875）（5Division of Neuroscience andExperimentalPsychology,SchoolofBiological Sciences,UniversityofManchester,Manchester, United Kingdom）（ Virginia Tech Carilion Research Institute, Virginia Tech, Roanoke, USA） ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Abstract Arginine vasopressin (AVP) is one of neuroendocrine hormones which plays an important role in regulating human socialbehaviors.Firstly,studiesabout family bonding revealed that AVP is related to facilitating sexual behaviors and fatherhood in males.Secondly,studies concerning emotion perception or social assessment found that AVP is associated with inter-male aggression and inter-female affiliation.Finally,studies on social decision-makingrevealed that AVP promotes social engagement/cooperation associated with self-interest in males andassociated with restablishing interpersonalrelationship in females.The limitationsofprevious studies include: i) most of evidence on effcts of AVP was based on male subjects;i) the potential clinical application of AVP treatment needs further investigation； i) potentialcontextual or individual variables that modulates or mediates AVP effects needs to be identified.Future studies should also evaluate the modulations of AVP on other aspects in human social behaviors,e.g.，emotion regulation, learning. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Key words arginine vasopressin; human social behaviors; gender differences ",
+        "page_idx": 15
+    }
+]

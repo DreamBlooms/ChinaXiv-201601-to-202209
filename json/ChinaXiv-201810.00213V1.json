@@ -1,0 +1,515 @@
+[
+    {
+        "type": "text",
+        "text": "苏阿皮蒂水电站设计BIM技术研究与应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "徐 威王美哉蔺志刚（黄河勘测规划设计有限公司，郑州450000）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本项目在水电站工程设计中，首次引进法国达索公司的3DEXPERIENCE平台，开展正向协同设计，从可研阶段、初设阶段至施工图阶段，BIM模型逐步细化，并通过集成设计全过程系列 BIM 应用点，基于 ENOVIA 将设计文件成果统一集成在于3DE 平台上，确保设计过程和设计成果的最优性和安全性，提高设计产品的质量，形成连续的可交付的数字工程资产。结合Composer的二次开发，自主研发设计信息管理系统，对BIM模型进行轻量化处理，便于在工程现场对与BIM模型相关联的工地设计文档进行管理，提升水电站工程的项目信息管理水平。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词字：3DEXPERIENCE；协同设计；正向设计；水电站  \n中图分类号： 文献标识码：  \n作者介绍：徐威（1988-)，男，工程师，主要从事水利水电工程设计及信息化应用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1工程概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1项目介绍",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "苏阿皮蒂水电站(地理坐标为北纬 $1 0 ^ { \\circ }$ 25'西经 $1 3 ^ { \\circ } 1 5 \" .$ ）位于几内亚西部孔库雷河河中游，距首都科纳克里 $1 3 5 \\mathrm { k m }$ 。水库总库容74.89亿 $\\mathbf { m } ^ { 3 }$ ，装机容量450MW，年发电量20亿千瓦时，工程等别为I等，工程规模为大（1）型，大坝为碾压混凝土重力坝，最大坝高 $1 2 0 \\mathrm { m }$ ，项目建成后将扭转几内亚国内的能源短缺局面，让几内亚由电力进口国成为电力出口国，工程效果图如图1所示，BIM模型如图2所示，工程现状如图3所示。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/7771ede1a3cbb4ff78a65b1c2af3bb5b2804b2ba483002cecdc2b0c259b6fd73.jpg",
+        "img_caption": [
+            "图1工程效果图"
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/eed2c05cbedd127d7676905a2f05ba407d8dc790579a3be6e8282057366e263c.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/453df13175dc6ca7196e43d743a18c14736a8659d6ebc26b1ec1f69b91376274.jpg",
+        "img_caption": [
+            "图2 3D模型图"
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/21c75e400524b4c51bda4c2d3e395eb5a7f241ab4f8ea0428459852d3878fc96.jpg",
+        "img_caption": [
+            "图3 电站施工现状"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 工程难点",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本工程为国际工程，面临的主要难点如下E:",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）工期紧、任务重。2016年1月与几内亚政府签订融资-设计-采购-施工总承包 $\\mathrm { F + E P C }$ 合同，合同工期只有58个月，与国内同类工程相比短17个月，混凝土月浇筑高峰强度高达20万 $\\mathbf { m } ^ { 3 }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（2）地质条件复杂、需要动态调整设计。覆盖层最大厚度 $4 5 \\mathrm { m }$ ，边坡最大高度$1 5 0 \\mathrm { m }$ ，岩石遇水软化，存在软弱夹层，地质条件复杂，大坝稳定、安全、投资问题突出，需要动态调整设计。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（3）建设环境苛刻、对设计的要求高。合同明确要求采用欧美标准，设计文件的实施须通过YREC（设计团队）、CWE（总包方）、CTEB（分包商）、SECC（中方监理）、TEF（法国咨询）的层层评审；水泥、粉煤灰、钢材等大宗材料、设备及零配件均需从国外进口，采购运输周期至少6个月，存在极大的工期风险。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（4）施工人员理解设计意图能力不足。施工人员有2/3为当地雇员，文化水平低、专业技能差，他们理解设计意图的能力不足。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2BIM组织与应用环境",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1BIM应用目标",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为解决工程面临的难点，项目组决定以3DE平台及自主开发的设计信息管理系统为依托，实现项目设计全阶段的正向实时协同设计，并进一步延伸设计服务产业链，为项目全生命周期提供重要支撑，实现可交付的工程数字化资产，借助“一带一路”的战略平台，助力“中国元素”，“中国技术”“中国标准”、“中国品质”走向国际舞台。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2实施方案",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对本项目的BIM应用特点，从可研阶段、初设阶段至施工图阶段全阶段进行BIM设计，项目实施前，研究制定符合水利水电行业的BIM设计阶段划分标准，当模型的精细程度和设计深度满足变更设计阶段的条件时，程序自动判断并跳入下一设计阶段，在设计周期内，模型不是间断的，是具有连续性的，这样可以提升模型成果的连续应用和使用效率。基于ENOVIA在本地进行项目管理，管理项目的人力资源及设计成果，所有的设计成果均储存于云服务器上确保数据的可追溯性。对于施工现场，采用自主开发的信息管理程序进行现场文档的管理，避免现场设计文档的管理混乱问题，在设计信息的管理上提高标准。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3团队组织",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为确保项目能如期实现，本项目由公司董事长主管、工程院院长主抓、项目经理负责，BIM设计执行团队成员均为各专业设计技术骨干，全程参与该项目的设计工作，同时拥有丰富的BIM理论及实战经验，避免设计团队与BIM团队分离问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4应用措施",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "苏阿皮蒂水电站工程BIM设计的成功实施，在于团队严格执行公司的BIM标准，公司编制了《3DE协同设计规程》、《地理位置及地形建立手册》、《资源库管理手册》、《三维校审流程》、《设计文件版本变更细则》、《三维标注及工程图规范》等BIM标准，针对设计权限的管理、协同设计平台的建设、项目文档管理、不同设计阶段文件版本升级、地形地质建模、二维图纸等做了严格要求，确保项目在全阶段特别是施工图阶段能实现可用于施工的精细化模型、工程量、图纸的同步链接，为项目开展正向设计提供技术准则。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5软硬件环境",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在软件方面，本项目最主要的协同软件为法国达索公司最新3DEXPERIENCE平台，3DE是在CATIAV5的基础上进行拓展，具有更强的专业性 $\\cdot$ 高效性 $\\therefore -$ 可扩展性的先进设计平台，结合其他诸如CATIAV5、CATIAComposer、ANSYS、ABAQUS、VisualStudio等商用软件，通过自主开发的接口程序，实现BIM信息的共享。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在硬件方面，所有BIM工程师配备惠普塔式工作站，中央处理器为 Intel(R)E3-1270,显卡配置为NVIDIAQuadro P2000,内存 $2 { \\times } 1 6 \\mathrm { G }$ DDR4-2400，系统硬盘配置256G固态硬盘。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3BIM应用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1BIM建模 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在可研阶段、初设阶段和施工图阶段全阶段，基于3DEXPERIENCE平台开展规划、地质、水工、厂房、施工、机电、金结、造价等多专业实时正向设计，不同阶段模型精细度和复杂程度在不断深化，到施工图阶段时，整体模型存储空间高达3.2G。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在可研阶段，主要完成坝型、坝线方案的比选工作，采用参数化模型快速建立不同坝线及坝型的大坝外形模型 $\\cdot$ 在初设阶段，确定坝型、坝线方案后，在其对应的外形模型的基础上进行详细加工处理，形成带电气、金结等设备的详细模型，在施工图阶段延续初设阶段的详细模型，实施进一步精细化处理，进行精准坝基开挖设计，混凝土合理分区，电气设备布置，管线等设计，并形成工程量BOM表格，最终生成二维施工图纸，用于施工。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2BIM应用情况 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）基于3DE平台的实时正向协同设计",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "依托3DE平台，可以实现各专业实时在线协同作业；模板、族库2等知识库资源都存在于服务器，保证数据源的唯一性；基于模型全貌的实时获取，能够对设计进度及时把控，基于在线工作用户信息管理，及时了解项目占用人力资源情况，3DE平台的协同设计架构如下图4所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目前BIM应用大多停留在依据CAD的翻模，翻模是BIM发展的一个过程，有它积极的作用，我们在水利水电工程中应用BIM进行正向设计，目的在于发掘BIM真正的价值-4。本项目的正向设计过程主要是：依据三维地勘数据，建立地形地质模型，多专业实时在线协同，建立不同阶段的BIM模型，项目管理层在线进行设计进度把控和设校审，全面掌控动态设计数据，最终实现出图和指导施工，具体设计过程如下图5所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e16aa029bdec8350d15d3e48911ee9aec537cb091ccbce9b478bce27c85c877.jpg",
+        "img_caption": [
+            "图4协同设计构架"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6a6f237d2837713409f9085678a965612eef0a5c81fd1174961b60094887f2a3.jpg",
+        "img_caption": [
+            "图5正向设计流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（2）企业级资源库建设 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "完善并丰富企业级资源库，拓展了常用的土建库，形成标准的GB/IEC机电库，到目前为止总入库零件达20_000多个，标准的参数化模型400多个，实现各专业部之间知识最大化共享，减少重复劳动，提高企业资源利用率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（3）重力坝智能设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将设计规范和公司自有的知识工程结合起来，自主开发重力坝智能设计程序，实现重力坝设计的规范化、智能化，能快速完成重力坝的设计。本程序能让新员工快速上手，将工程师从繁杂的制图中解放出来，更加致力于重力坝本身的创新性设计当中。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（4）复杂坝基开挖优化",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在以往的开挖设计中，在土岩分界面附近，只能按简化的单一坡度进行开挖，若按土层进行开挖，开挖边坡缓、边坡设计保守，若按岩层进行开挖，开挖边坡陡、工程量虽省但边坡不安全5，采用BIM技术，在土岩分界面附近精准开挖，根据现场实际揭露的地质情况，实时动态调整地质模型和开挖设计，既能保证边坡的稳定，又能保证工程量的最优化，具体的坝基开挖方式对比如下图6",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "所示。包括以下几个方面：。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8720c8fc2912ef089c9253a9972e894116ed8c1b193340a9a2e86af146127f0a.jpg",
+        "img_caption": [
+            "图6开挖方式对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1）泄流底孔坝段优化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用BIM模型、CFD计算模型、物理模型进行相互验证，发现流道边墙存在掺气不充分的问题，将会严重影响建筑物的质量安全和使用寿命，通过反复调整模型，直到满足掺气要求，保证设计成果的安全性和可靠性，具体过程优化过程如图7所示。由于结构体型复杂，根据BIM模型、有限元模型、三维配筋模型进行坝体三维配筋设计，实现模型共享，提高设计质量和效率，钢筋出图时间由传统的2个月缩短为1个月，设计文件一次性通过咨询审批。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/77623c856eab7922b713e7d3dab4c3e6b52e56d8a5d52945839ccb4fff5fb73f.jpg",
+        "img_caption": [
+            "图7泄流底孔坝段优化设计"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2）弧形闸门优化设计",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "闸门设备由中国生产制造，运输至几内亚项目现场安装，设计、制造加运输时间长，一旦产品出现问题返厂将延误工期至少6个月，代价巨大。利用资源库，快速组建闸门BIM模型，运用DMU运动仿真，解决闸门运动干涉问题，使闸门在出厂前满足设计要求，保证工期如期实现，具体如图8所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f613cf56e9951be8854fc9cdc51ab63ba13f23c336b0bec0aae3e66a11a9daf.jpg",
+        "img_caption": [
+            "图8弧形闸门优化设计"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3）大型设备吊装工艺模拟",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "水电站转子起吊是机电设备安装具有里程碑意义的环节，转子作为全厂设备最重件（约310t)，其安装前和机组检修时的放置位置的板梁结构需根据设备重量精确计算，一旦位置出现偏差，将导致厂房结构出现破坏，且在转子吊装过程中，跨越体型较大的定子机座，需要提前设定转子的运动轨迹。通过对水电站的转子起吊过程进行可视化模拟，对优化厂房的空间结构，节省工程量，指导业主及施工单位制订转子吊装工艺流程，提高吊装精度，减少误操作，具有重要的意义，吊装模拟过程如图9所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b154e2094b6f62cf875be7747b55768b90025d22ba355a195c0f014a01548e39.jpg",
+        "img_caption": [
+            "图9大型设备吊装工艺模拟"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4）基于BIM的设计信息管理系统开发结合BIM、互联网和先进的图形显示引擎，自主研发设计信息管理系统，将轻量化BIM模型与现场设计文档相关联，实现模型的交互式查询，实时更新、查看任意时刻设计进度、施工进度的轻量化模型，实现设计文件的数字化交付，将设计图文档管理、设代日志、设计变更每周例会等进行管理，逐渐形成可追溯的大数据，提升项目整体设计管理水平，设计信息管理系统界面如图10所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b7700057c90550d9981cb0be0110674179109b2010d85a42e83640f72dc54c5e.jpg",
+        "img_caption": [
+            "图10设计信息管理系统界面及功能"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4应用效果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于3DE平台的协同正向设计，确保了数据源唯一性、方案最优性、实现了设计进度的把控、人力资源的管理。通过本项目的积累，丰富并完善了企业资源库，新增库文件2000余个，库文件总量达2万量级，标准的参数化模型达400多个。开发重力坝智能设计程序，实现重力项设计的规范化、智能化，快速化，设计时间缩短3个月。基于BIM的设计信息管理系统开发，规范了如设计图纸、设计变更、设计通知、计算书等设计信息的管理，提升项目整体管理水平，沟通效率提升 $70 \\%$ 。通过坝基的开挖优化，节省开挖量23.8万 $\\mathbf { m } ^ { 3 }$ ，直接节省投资152.79万美元，减少开挖工期3个月。对坝体及闸门的优化分析计算，节省了设计时间1个月，争取工期4个月，避免工期延误6个月。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5总结 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.1创新点",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）依托3DE平台实现多专业实时、在线、协同、正向设计，确保数据源的唯一性和设计方案的最优性，基于最新设计产品全貌的实时获取，全方位及时把控设计进度，基于在线工作用户信息，及时了解项目占用资源和人力成本消耗实现设计全过程数据管理，开创了数字设计业务全新的工作模式；",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）自主研发重力坝智能设计程序，将设计规范和公司自有知识工程融入其中，实现了水利水电工程设计的智能化、标准化、快速化;",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3)自主开发应用可交付的“基于BIM的设计信息管理系统”，为水利水电工程的BIM应用提供了有利的支撑平台和可借鉴的实践经验。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.2经验教训 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）公司现有的BIM标准体系还存在一些不足的地方，还需要进一步规范标准；",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "三维校审在检测模型的碰撞问题上有很强的优势，但在检查模型的桩号、尺寸、角度等具体设计细节方面没有CAD直观，原因在于CAD校审时有大量的标注信息做参考，如何更方便三维校审是下一步需要继续研究的问题。；",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]_葡志刚，梁春光，陶玉波.凯乐塔水电站BIM技术应用[J].土木建筑工程信息技术，2017，9（402)：3130-35.[2]白硕.水闸BIM族库构建与应用研究[D].华北水利水电大学，2017.[3]_陈宇军，刘玉龙.BIM协同设计的现状和未来[J].建筑设计信息化，  \n2010(04):26-29.[4]龙潜,周宜红.我国水利水电工程中BIM技术应用现状研究[J].价值工程，  \n2018， 37(05):191-192  \n2010, (2): 26-29  \n[5]严事鸿，赵春雷，杨广鹤.BIM技术在土方开挖过程中的应用研究[J].施工技术，2017.46(12):123-125.  \n[6]刘丽华.BIM技术在水利水电工程可视",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "化仿真中的应用[J].黑龙江水利科技，2017， 45(10):125-127.2017, (6): 123-125:[7]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The Research and Application of BIM Technology for the Design of SUAPITI Hydropower StationApplication of BIM Technology in Suapiti Hydropower Station Project ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Xu Wei,Wang Meizhai,Lin Zhigang (Yellow River Engineering Consulting Co.,Ltd., Zhengzhou 45oooo,China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract : In the engineering design of hydropower station,For the first time-； this project introdueed-the 3DEXPERIENCE platform of the Dassault company in French was introduced for the first time_to carry out forward and collaborative design. Through the integration of series of BIM applications in the whole design processFrom the feasibility stage, the initial stage to the construction stage, the BIM model was gradually refined, and, the design documents were integrated on 3DE platform uniformly based on-the series -of BIM applications-which ensures the optimization and security of the design proeess-and-design results, improves the quality of design products,and forms a continuous and deliverable digital engineering asset. In conjunction with the secondary development of Composer, we independently developed and designed the information management system by conducting lightweight processing on the BIM model, so as to facilitate the management of site design documents related to the BIM model on the engineering site and improve the project information management level. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Key words:3DEXPRIENCE; Collaborative design; Forward design; Hydropower station作者介绍：徐威（1988-)，男，1988年生，工程师，男，主要从事水利水电工程设计及信息化应用等。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "，黄河勘测规划设计有限公司，河南郑州金水区金水路109 号，450000，0371-66025634,18236915677（微信同号），290790231 $@$ qq.com",
+        "page_idx": 6
+    }
+]

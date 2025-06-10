@@ -1,0 +1,835 @@
+[
+    {
+        "type": "text",
+        "text": "基于随机投影与集成学习的离群点检测算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "郭一阳la，于炯la,1b†，杜旭升la，曹铭²(1．新疆大学 a.信息科学与工程学院;b.软件学院，乌鲁木齐 830091;2.中国海洋大学 信息科学与工程学院，山东青岛 266100)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对传统基于相似度的离群点检测算法在高维不均衡数据集上效果不够理想的问题，文中提出一种新颖的基于随机投影与集成学习的离群点检测(ensemble learning and random projection-based outlier detection，EROD)框架。算法首先集成多个随机投影方法对高维数据进行降维，提升数据多样性；然后集成多个不同的传统离群点检测器构建异质集成模型，增加算法鲁棒性；最后使用异质模型对降维后的数据进行训练，训练后的模型经过两次优化组合以降低泛化误差，输出最终的对象离群值，离群值高的对象被算法判定为离群点。分别在4个不同领域的高维不均衡真实数据集上进行对比实验，结果表明该算法与传统离群点检测算法和基于集成学习的离群点检测算法相比，在AUC和Precision $@ \\mathrm { n }$ 值上平均提高了 $3 . 6 \\%$ 和 $1 4 . 4 5 \\%$ ，证明EROD算法具有处理高维不均衡数据异常的优势。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：数据挖掘；离群点检测；随机投影；集成学习中图分类号：TP311.1 doi:10.19734/j.issn.1001-3695.2022.02.0053",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Outlier detection algorithm based on random projection and ensemble learning ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Guo Yiyangla, Yu Jiongla, Ibt, Du Xushengla, Cao Ming² (1.a.CollegeofInformationScience&Engineering,b.SchoolofSoftware,Xinjiang University,Urumqi830091,China; 2. Ocean University OfChina,Collge of Information Science& Engineering,Qingdao Shandong 26610o, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Toaddressthe problemthat traditional similarity-basedoutlierdetection algorithms were not efective enough on high-dimensional unbalanced datasets,this paper proposedanovel Ensemble learningand Random projection-based Outlier Detection (EROD) framework.Firstly,the EROD algorithm integrated several random projection methods toreduce the dimensionalityofhigh-dimensionaldata，whichimprovedthedatadiversity.Secondly，itintegratedseveraldifferent traditionaloutlierdetectors tobuildaheterogeneous ensemblemodel,whichincreasedtherobustnessofthealgorithm.Finally the ERODacquiredthefinaloutlier valueof theobjectbyusingthe heterogeneous ensemble model to train the reduceddimensionaldataandbyusing twooptimalcombinationsofthe trained modeltoreduce the total error,andthealgorithm determined the object with highoutlier value as outlier point.The results showed that the algorithm had an average improvement of $3 . 6 \\%$ and $14 . 4 5 \\%$ in AUC and Precision $@ \\mathrm { n }$ value compared with the traditional outlier detection algorithm and theoutlierdetectionalgorithmbasedonensemble learning.Therefore,theERODalgorithmhasthe advantageofhandling the anomalies of high-dimensional unbalanced data. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: data mining; outlier detection; random projection; ensemble learning ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "与正常数据相比，离群点是具有不同特征的数据点，其被定义为：假设某一个数据在数据集中远远地偏离其他绝大多数数据，那么该数据被认知为与其他数据所产生的机制不相同，则它被判定为离群点[1]。之所以删除离群点是数据挖掘中不可或缺的预处理步骤，是因为离群点的存在对数据统计分析的结果有严重的负面影响[2]。因此，为了删除离群点：首先需要对其进行识别，这是离群点检测算法的首要目标。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "离群点检测是一项重要的机器学习任务，它可以在具有许多高风险应用的常规数据对象中检测出异常对象，例如：流量反作弊检测。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "据《2020年中国异常流量报告》，异常流量约占整体的8.6个百分点。作为全球最大的广告流量平台，阿里妈妈(隶属于阿里巴巴集团)拥有超过1000亿美元的商业流量，这代表着其为黑灰产业瞄准的首要对象。从阿里妈妈团队的业务角度分析，流量反作弊检测的核心思想之一是识别欺诈和低质量的异常流量内容，以保护客户和平台的权益。在当前的机器学习领域，流量反作弊检测可能是对算法鲁棒性和解释性要求最高、精确度要求最高、系统规模和时效性要求最高、行业规模最大的业务。因此，流量反作弊检测技术团队必须要有\"铁打\"的营盘，才能够将离群点检测技术与流量反作应用结合得更加紧密。在流量反作弊检测任务中，高维不均衡数据的离群点检测成为国内外相关团队关注的首要焦点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于相似度的离群点检测算法是常见的传统无监督机器学习算法，但该种类离群点检测算法在检测高维数据时由于在距离计算方面面临维度灾难的挑战，使得难以衡量对象在高维空间分布模式上的相似度，进而导致其在检测高维不均衡数据集时，存在检测率低、参数敏感性高等问题。在现实工业界实际环境中，在没有真实的数据标签的情况下，工程师们通常要构建大量的、无监督的异质集成模型，即具有不同超参数的不同算法的集成模型，以便进一步地组合进行研究分析，而不是依靠单个算法。因此，本文提出了一种基于随机投影和集成学习(ensemblelearningand randomprojection-basedoutlierdetection,EROD)的离群点检测算法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了提升传统的离群点检测算法在高维不均衡数据集上的检测正确率，EROD算法应用随机投影对待检测的数据集进行降维，集成传统的离群点检测算法对降维后的数据计算出所有数据对象的离群值，通过对传统的离群点检测算法进行动态分组与优化组合，组合后的离群值作为算法最终判定的离群值。在UCI(UniversityofCalifornia，Irvine)真实数据集上的实验表面，EROD算法与其他离群点检测算法对比，检测率得到了明显的提升。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文的主要贡献总结如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）提出了一种新的无监督离群点检测框架，在数据和模型上进行了异质集成。对随机投影法进行集成以提升数据多样性，集成传统的离群点检测算法以提升模型多样性，通过两个阶段的组合，提升整体框架的检测率。b)针对传统的离群点检测算法在不同的高维不均衡数据集上存在不稳定性，利用集成的特性对传统算法进行均衡处理，使得整体趋于稳定，提升检测率。c）对传统的离群点检测算法进行了全面的参数敏感性分析，预测了整体框架的参数与性能，并对特别的数据集进行了可视化分析论述。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关工作",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从19世纪，研究学者们就已经展开了对离群点检测的科学研究[3]。基于统计与概率的离群点检测方法是一种较早提出的研究方法，这种方法根据统计与概率学原理进行检测离群现象，具有时间复杂度低的优点。其核心思想是：首先，估计出数据集的分布模型；然后，假设其中的数据对象满足该分布模型的分布规律；最后，通过评判数据对象与该分布模型是否一致来检测出数据集中存在的离群点。文献[4]受到统计函数Copula函数的启发，通过利用Copula函数预测每个给定样本的尾部分布概率，以确定其离群程度但是该种方法需要预先准确地计算出分布模型的参数，但如果不能预先准确地估计出该参数，那么将导致该种方法得到的参数估计值与真实值之间存在显著差异，使得离群点检测的准确率大幅度降低。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于基于统计与概率的离群点检测方法的局限性，基于相似度的离群点检测研究方法在二十一世纪初被提出。基于相似度的离群点检测方法针对正常点和离群点在数据集中分布不同的特点，通过度量数据对象之间的相似度(如：距离、密度、角度等)进行检测离群点。在文献[5]中，k最近邻(kNearestNeighbors,kNN)、k最近邻平均数(AveragekNearestNeighbors,Avg-kNN)和k最近邻中位数(MediankNearestNeighbors, $\\mathbf { k }$ -Median)通过计算样本之间的欧式距离来检测离群点，但它们对参数设置非常敏感，且检测高维数据时检测率低。文献[6]中提出了首个基于密度的聚类局部离群因子(LocalOutlierFactor,LOF)检测方法，该技术为每个数据对象分配一个离群因子，解决了把离群值看做二元属性的问题，但无法处理多粒度和超参敏感性问题。Tang等人[7]对LOF进行改进，提出了基于连接的离群因子(Connective-basedOutlierFactor,COF)，该方法通过计算连接距离作为最短路径以估计邻居的局部密度，其关键思想是基于低密度和孤立性之间的区分，但是该方法与LOF相比耗费更多的计算成本。文献[8]一文中提出了基于角度的离群点检测(Angle-Based OutlierDetection,ABOD)方法，通过将加权余弦分值与所有近邻点的方差作为离群分值，该方法的决策边界比较复杂，容易导致过拟合。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从阅读相关文献获知，集成学习的不同的基检测器各自产生独立误差，对多个基检测器进行组合，可以在一定程度上缓解单一基检测器的超参数敏感、训练难度大和拟合效果差等问题[9]。文献[10]一文中提出了特征装袋(featurebagging,FB)离群点检测算法，该方法通过分离原始特征并创建随机的特征子集，并合并多个算法应用于该子集产生相应的离群分数，该算法提高了检测性能，但由于其检测器为同质检测器，这导致了其方法不够多样性；文献[11]文中提出了一种轻量级异常在线检测(lightweight on-line detector ofanomalies,LODA)方法，其通过识别偏离大多数特征的数据进而检测出离群点，该算法有着较低的时间复杂度，但由于单个检测器输出结果不稳定导致其检测率比较低；文献[12]提出孤立森林(isolationforest,IForest)算法，其集成多棵孤立树并记录这些孤立树的路径长度，以此作为计算离群分值的依据，但若是离群点样本占比较高，与该算法所假设的离群点易被孤立的理论基础互相冲突，致使产生不理想的结果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "可以看出，基于集成学习的离群点检测算法可以通过侧重于结合模型的输出结果以生成稳定的集成模型，进而有效检测离群点。这为本文解决上述基于相似度的离群点检测算法局限性提供了思路，即EROD算法。EROD算法利用集成学习的特性对传统算法进行均衡处理，且在组件检测器的选择上的理论基础互相补充，并提高了算法的鲁棒性。同时，EROD算法在数据和模型上进行了异质集成，提升了整体结构的多样性，并通过两个阶段的组合，提升了算法的检测率",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此，与上述离群点检测算法相比，EROD具有鲁棒性更强、检测率更高以及不依赖先前假设的优势。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 本文方法与理论性质",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本节首先给出基于随机投影与集成学习的EROD离群点检测算法的框架与流程，然后介绍集成随机投影法，异质集成模型以及二阶段聚合算法，表1详细列出了本文后面内容所需的部分符号定义。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/62a22b75640ebcb8350c7f7d95049cae483fde5ac4658569d3955c7f95d206db.jpg",
+        "table_caption": [
+            "表1符号定义",
+            "Tab.1Definition of symbols "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>符号</td><td>定义</td></tr><tr><td>m</td><td>组件检测器数量</td></tr><tr><td>A</td><td>随机投影矩阵</td></tr><tr><td>X</td><td>原始数据集</td></tr><tr><td rowspan=\"2\">Yi</td><td>使用m个A对X进行随机投影后生成的m个数据集，</td></tr><tr><td>i=1,2,...,m</td></tr><tr><td>yj</td><td>Yi中第j个数据</td></tr><tr><td>Y</td><td>Yi的集合</td></tr><tr><td>Di</td><td>检测Y的第i个组件检测器</td></tr><tr><td>D</td><td>Di的集合</td></tr><tr><td>Di(yj)</td><td>y在第i个组件检测器上的离群值</td></tr><tr><td>OF</td><td>Yi的离群值矩阵,其组成元素为Di(yj)</td></tr><tr><td>ZOF</td><td>对OF进行归一化处理后的离群值矩阵</td></tr><tr><td>row</td><td>ZOF行数</td></tr><tr><td>outlierScore</td><td>EROD算法最终判定的对象离群值集合</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1EROD 算法整体框架与流程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "EROD算法分为3个步骤实现：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)降维。主要利用随机投影法将高维数据随机投影成  \n低维数据；b）构建组件检测器集成模型。为了增强 EROD 算法的  \n鲁棒性，将不同类别的离群点检测模型进行异质集成；c）二阶段聚合。将异质集成中多个组件检测器随机划  \n分成多个不同的集群，在不同的集群中选取每个集群中的最  \n大值，对多个最大值求均值，该均值作为EROD判定的离群",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "值。EROD算法整体框架与流程如图1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/04f3ce4442a1c7bf2ea7d9c867dba7efee9ca158c5484739eeaeb11d1a6513ec.jpg",
+        "img_caption": [
+            "图1EROD 算法框架与流程",
+            "Fig.1Framework and process forEROD algorithm "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 随机投影集成",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在离群点检测过程中，绝大多数离群点检测算法在高维数据上易受到维度灾难的严重影响[13]。为了解决该问题，JL随机投影法被广泛使用进行消除维度灾难所带来的负面效果。JL随机投影是一种降维算法，它之所以被广泛使用在离群点检测上面，是因为其降维机制可保持两两数据之间的相对距离，对高维数据在欧氏空间上进行低失真的压缩，离群点的信息在压缩过程中得以保留下来。更为重要的是，JL 随机投影法的随机机制可增强集成学习的多样性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "JL 随机投影的目的是近似保距，其理论基础是Johnson-Lindenstrauss 辅助定理[14]。如式(1)所示，JL 随机投影表示一种线性映射关系f： $\\mathbb { R } ^ { d } \\mathrm { \\to R } ^ { k }$ ，即将 $d$ 维数据随机投影为 $k$ 维数据；如式(2)所示，由Johnson-Lindenstrauss辅助定理可知，1≤j≤n， $\\mathfrak { \\varepsilon } \\in ( 0 , 3 )$ ，要以较高的概率 $P$ 满足两两数据对象之间的相对距离保持在 $\\left( 1 - \\varepsilon , 1 + \\varepsilon \\right)$ 内，需将数据对象降维到$k { = } O ( \\log ( n ) / \\varepsilon ^ { 2 } )$ 维。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf \\left( \\boldsymbol { x } _ { i } \\right) = \\boldsymbol { x } _ { i } A , A \\in R ^ { d \\times k }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { P \\Big [ ( 1 - \\varepsilon ) \\big \\| x _ { i } - x _ { j } \\big \\| ^ { 2 } \\leq \\big \\| f \\left( x _ { i } \\right) - f \\left( x _ { j } \\right) \\big \\| ^ { 2 } \\leq ( 1 + \\varepsilon ) \\big \\| x _ { i } - x _ { j } \\big \\| ^ { 2 } \\Big ] \\leq 2 e ^ { - \\varepsilon ^ { 2 } \\frac { k } { 6 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如表2所示，根据文献[15]中的4种广泛使用的随机矩阵 $A$ ，可将 $\\mathrm { \\mathrm { J L } }$ 随机投影划分为4种方法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在4种 $\\mathrm { \\mathrm { J L } }$ 随机投影法中，稀疏随机投影法在时间效率上略优于另外3种随机投影法[16]，故 EROD 算法采用稀疏随机投影法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如式(3)(4)所示，原始数据集 $X$ 的特征空间是由 $n$ 个具有 $d$ 维特征的数据构成；稀疏随机矩阵 $A$ 是 $\\mathbf { \\nabla } _ { m }$ 个不同的稀疏随机投影矩阵，每个稀疏随机投影矩阵 ${ \\bf \\Lambda } \\in \\mathbb { R } ^ { d ^ { \\times _ { k } } }$ ， $Y _ { i }$ 是由稀疏随机矩阵 $A$ 作用在原始数据集 $X$ 上得到的具有 $n$ 个 $k$ 维特征的数据，其中： $0 < k < d$ ， $\\scriptstyle i = 1 , 2$ ，， $m$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX = \\{ x _ { 1 } , x _ { 2 } , x _ { 3 } , \\cdots , x _ { n } \\} \\in R ^ { n \\times d }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { i } = < X , A > \\in R ^ { n \\times k }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "EROD 算法使用JL随机投影法进行集成，其基本过程如下：首先，EROD算法使用稀疏随机投影法生成 $\\mathbf { \\nabla } _ { m }$ 个不同的稀疏随机投影矩阵 $A \\in \\mathbb { R } ^ { d ^ { \\times } k }$ ；然后，利用这 $\\mathbf { \\nabla } _ { m }$ 个稀疏矩阵$A$ 对高维数据集 $X \\in \\mathbb { R } ^ { n ^ { \\times } d }$ 进行投影，得到 $\\mathbf { \\nabla } _ { m }$ 个投影后的数据集 $Y _ { i } \\in \\mathbb { R } ^ { n ^ { \\times } k }$ ，最后，把 $Y _ { i }$ 存入集合 $Y$ 中，输出集合 $Y _ { \\circ }$ （",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2随机投影法说明",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/c274602a5db088961be4bac0c7730b671a3730ddcf55c356cf3cc55e4da03803.jpg",
+        "table_caption": [
+            ""
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Tab.2</td><td colspan=\"4\">Descriptionof therandomprojection</td></tr><tr><td>JL 随机投影法</td><td colspan=\"4\">A或Ai</td></tr><tr><td>高斯随机投影</td><td colspan=\"4\">Ai满足独立标准正态分布</td></tr><tr><td>离散随机投影</td><td colspan=\"4\">Jk Aij √k</td></tr><tr><td>循环随机投影</td><td colspan=\"4\">b b bd-1 b 4= bd-1 √k ： ： bd-k+1 bd-k+2 bd-k+3 其中:bo,b,,bd-满足高斯分布；为d×d 对角矩阵，其对角线元素满足独立伯努利 分布 bd-2</td></tr><tr><td>稀疏随机投影 具体过程如算法1所示。</td><td colspan=\"4\">√k Aij 0 Vk</td></tr><tr><td colspan=\"4\">算法1随机投影集成算法 输入：数据X∈Rn*d，数据集×降维后的维度k。 输出：集合Y。 a）Initialize m Sparse Random Projection matrix A={Ai,</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 异质集成学习",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "EROD离群点检测算法选择kNN检测器、Avg-kNN 检测器、 $\\mathbf { k }$ -Median 检测器、LOF检测器、COF检测器和ABOD检测器作为异质集成学习模型的组件检测器，即 $m { = } 6$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "之所以选择这6种不同的离群点检测算法作为异质集成学习模型中的组件检测器，是因为相同的离群点检测算法产生的相同输出对集成学习的积极影响效果不明显[17]，换句话说，一般情况下，不同的离群点检测算法所构建成的异质集成学习模型会产生明显的积极效果。这是因为不同的组件检测器会促使集成学习在学习过程中产生多样性，可以学习数据的不同特征，进一步提升模型的泛化能力。另外，相似度高的离群点检测算法会产生相似的误差，这会对预测结果带来一定的消极影响[18]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于使用不同的、检出率低的离群点检测算法，虽然保证了一定的多样性，但是模型的预测率将会降低，所以应平衡多样性和检测率之间的关系。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因此，本文使用 kNN 检测器、Avg-kNN 检测器、k-Median检测器、LOF检测器、COF检测器和ABOD检测器这6种具有不同特色且检测率在所有主流的离群点检测算法中较高的离群点检测算法作为异质集成学习模型的组件检测器。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如式(5)所示，异质集成学习模型中每个组件检测器对数据Y计算所获得的分值在此被称为离群因子Outlier_Factor，每个组件组件检测器的输出为 $D ( X ) \\in R ^ { \\mathrm { n } ^ { \\times } 1 }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nO u t / { i e r } _ { - } F a c t o r { = } [ D _ { 1 } ( Y ) , D _ { 2 } ( Y ) , \\cdots , D _ { 6 } ( Y ) ] \\in R ^ { \\mathrm { n } \\times 6 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "异质集成基本过程如下：首先，初始化异质集成模型中的6个组件检测器；其次，利用初始化后的组件检测器检测由算法1输出的数据Y；最后，判定组件检测器的输出值作为数据 $Y$ 的离群值。具体过程如算法2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法2异质集成学习算法输入：集合 $Y { = } \\{ Y _ { 1 } , \\ Y _ { 2 } , Y _ { 3 } , \\cdots , Y _ { m } \\}$ ，集合 $D { = } \\{ D _ { 1 } , D _ { 2 } , D _ { 3 } , \\cdots , D _ { \\mathfrak { m } } \\}$ 。输出：离群值矩阵 $O F$ 。a）for $\\mathfrak { i } { = } 1 { : } \\mathsf { S i z e } ( D )$ dob）Initialize component detector $D _ { i }$ $/ { ^ * }$ 对每个组件检测器进行初始化 $^ { * } /$ c）end ford）for $\\boldsymbol { Y } _ { i }$ in $\\boldsymbol { \\mathsf { \\Sigma } } \\boldsymbol { \\mathsf { Y } }$ do//遍历集合Ye）for $y _ { j }$ in $\\boldsymbol { Y } _ { \\boldsymbol { i } }$ do/／遍历数据集 $\\boldsymbol { Y } _ { i }$ f) $O F { = } D _ { i } ( y _ { j } )$ $/ { ^ * }$ 利用第i个组件检测器检测 $y _ { j }$ ，得到 $y _ { j }$ 的离群值 $D _ { i } ( y _ { j } )$ ，将其作为离群值矩阵OF中的元素 $/ { ^ * }$ g）end forh）end fori）Output(OF）//输出离群值矩阵OF",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法2中全部组件检测器在数据集 $Y _ { i }$ 上输出的离群值矩阵 $O F$ 如式(6)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nO F { = } \\left[ \\begin{array} { c c c c } { { D _ { 1 } \\left( y _ { \\prime } \\right) } } & { { D _ { 2 } \\left( y _ { \\prime } \\right) } } & { { \\cdots } } & { { D _ { 6 } \\left( y _ { \\prime } \\right) } } \\\\ { { D _ { 1 } \\left( y _ { \\prime } \\right) } } & { { D _ { 2 } \\left( y _ { \\prime } \\right) } } & { { \\cdots } } & { { D _ { 6 } \\left( y _ { 2 } \\right) } } \\\\ { { \\vdots } } & { { \\vdots } } & { { \\vdots } } & { { \\vdots } } \\\\ { { D _ { 1 } \\left( y _ { n } \\right) } } & { { D _ { 2 } \\left( y _ { n } \\right) } } & { { \\cdots } } & { { D _ { 6 } \\left( y _ { n } \\right) } } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "离群值矩阵 $O F$ 的物理意义：该矩阵由数据集 $Y _ { i }$ 中全部样本的离群因子所构成，即矩阵中的某个元素代表某个检测器对于某个样本所评估的离群程度[19,20]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4二阶段聚合方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图2所示，偏差与方差之间存在反比关系，即随着集成学习模型复杂程度的增加，偏差下降，方差上升。这是因为复杂程度低的模型在拟合能力上是欠缺的，即组件检测器学习能力不够强，此时偏差主导了泛化误差；反之，则方差主导了泛化误差。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0256a6e7fda5ec4693ef3f45bc7b67a6595cbfa4438c4d5eb6780fd7ee7876e1.jpg",
+        "img_caption": [
+            "图2偏差-方差-泛化误差三者之间的关系",
+            "Fig.2The relationship among Bias-variance-total error "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通常情况下，对组件检测器求均值可以达到降低方差，提高偏差的效果；对组件检测器求最大值则可以达到降低偏差，提高方差的效果。由于单一地使用任何一种组合方式可能会导致所获得的离群分值与真实分值产生较大的误差[2I]。因此，合理的结合均值和最大值两种组件检测器组合方式可以起到平衡偏差与方差的作用，使得泛化误差降到一个合理的范围，提高检测率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于泛化误差可近似看成偏差的平方与方差之间的求和，所以，在第一阶段，对组件检测器求最大值，最大程度降低泛化误差；在第二阶段，对余下的组件检测器求均值，可使得偏差增加的幅度降到最低，进而最大程度降低泛化误差的上升幅度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "二阶段聚合基本过程：首先，对算法2的输出进行归一化处理，使不同离群点检测模型的输出值规范化到同一级量纲；其次，将6个组件检测器随机划分成2个集群，且每个集群中所包含的3个离群点检测模型存在互斥关系；最后，从每个集群中选择最大值作为该集群代表值，对每个集群代表值进行求平均，该均值作为EROD算法最终判定的数据对象离群值。具体过程如算法3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法3二阶段聚合算法",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "输入：离群值矩阵 $O F$ 。  \n输出：EROD算法最终判定的对象离群值。  \na） $Z O F = Z$ -normalization(OF)  \n$/ { ^ * }$ 对OF进行归一化处理(为避免数据表示杂乱，归一化后的数据形式仍采用表1中的数学符号表示) $^ * /$   \nb）row=countRow(ZOF） // 计算矩阵ZOF 行数  \nc）for $\\scriptstyle { j = 1 }$ :rowdo//遍历 $Y _ { 1 } { \\sim } Y _ { 6 }$ 中第 $j$ 个数据  \nd）for $\\scriptstyle { i = 1 : 6 }$ do/／遍历组件检测器  \ne）detector $\\scriptstyle { \\mathsf { S } } = D _ { i } ( y _ { j } )$ （  \n// 将矩阵 ZOF 每行中的离群值存入集合detectors  \n$\\textsf { f }$ ）end for  \ng）group1,group2=randomDivide(detectors）// 划分集群h）max1=Max(group1)  \ni）max2=Max(group2)  \nj）outlierScore $\\ c =$ Average(max1,max2)  \nk）end for  \n1）Output(outlierScore)",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5 时间复杂度分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "设数据的数量和维度分别为 $n$ 和 $d$ 。算法1中，对数据进行预处理，遍历数据进行随机投影，该阶段的时间复杂度为 ${ \\mathrm { O } } ( n )$ ；算法2中，使用组件检测器对数据进行计算，故该阶段的复杂度取决于组件检测器，又COF检测器和ABOD检测器都是Fast 版本，故kNN 检测器、Avg-kNN 检测器、$\\mathbf { k }$ -Median检测器、LOF检测器、COF检测器和ABOD检测器的时间复杂度分别为 $O ( n d )$ 、 $O ( n d )$ 、 $O ( n d )$ 、 ${ \\mathrm { O } } ( n )$ 、 $O ( n ^ { 2 } )$ 和 $O ( n ^ { 2 } )$ ，故该阶段的时间复杂度为 $O ( n ^ { 2 } )$ ；算法3中，该阶段任务是对算法2中的计算结果进行优化组合，该阶段的时间复杂度为 ${ \\mathrm { O } } ( n )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上可得EROD算法的时间复杂度规模为 $O ( n ^ { 2 } )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 实验 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1实验环境 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验的硬件环境是：处理器为Intel(R)Xeon(R)Gold5117 CPU $\\textcircled { \\omega } ~ 2 . 0 0 \\mathrm { G H z } ~ 2 . 0 0 ~ \\mathrm { G H z } ( 2$ 处理器)，显卡为 NvidiaTeslaV100-PCIE-16GB(共3块)，内存(RAM)为256GB。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验的软件环境是：操作系统环境为MicrosoftWindowsServer2016Standard，算法的实现环境为pycharmprofessional、python-3.6.2、tensorflow-1.14。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2数据集",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如表3所示，为了评估本文方法的检测性能，选择了4组均来自UCI数据存储库的具有不同实际应用场景的真实数据集。下面分别对该4组数据集的具体信息进行详细论述：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)Arrhythmia数据集：该原始数据集承载的是心律失常的信息，属于多类分类数据集，共16个类别和279个维度，其作用是区分是否存在心律失常现象。现对该原始数据集进行预处理，删除5个维度，第3、4、5、7、8、9、14、15等一系列小类别被定义为离群，其余类为正常。处理后的数据集总共包含452个样本对象，每个样本包含274个维度，其中有66个样本对象作为离群样本。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b)Mnist数据集：该原始数据集承载的是手写数字的图像信息，包含数字0到9等10个图像类别。现对该原始数据集进行预处理，数字0被定义为正常，其余数字被定义为离群，从原始数据集784个维度中随机选择100个维度作为处理后的样本维度。处理后的数据集总共包含7603个样本对象，每个样本包含100个维度，其中有700个样本对象作为离群样本。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "c)Musk数据集：该原始数据集承载的是麝香分子的信息，其作用是根据分子区分是否为麝香。现对该原始数据集进行预处理，编号j146、j147和252等非麝香类被定义为正常，编号213和211等麝香类被定义为离群，删除其他类别。处理后的数据集总共包含3062个样本对象，每个样本包含166个维度，其中有97个样本对象作为离群样本。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "d)Speech数据集：该数据集承载的是现实世界中语音的信息，其中美国口音占比最大，其作为正常类，其余口音被定位为离群。该数据集总共包含3686个样本对象，每个样本包含400个维度，其中有61个样本对象作为离群样本。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/227a73de54556277bd242c83d7eef45cd73d7cd910e9bd5d4568ee51a28c0c13.jpg",
+        "table_caption": [
+            "表3数据集信息",
+            "Tab.3Details of four datasets "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>数据集</td><td>样本数</td><td>维度</td><td>离群点数</td><td>离群点比例/%</td></tr><tr><td>Arrhythmia</td><td>452</td><td>274</td><td>66</td><td>15</td></tr><tr><td>Mnist</td><td>7603</td><td>100</td><td>700</td><td>9.2</td></tr><tr><td>Musk</td><td>3062</td><td>166</td><td>97</td><td>3.2</td></tr><tr><td>Speech</td><td>3686</td><td>400</td><td>61</td><td>1.65</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3评价指标",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在评估检测性能和指导检测器建模时，评价指标起着不可或缺的作用。由于本文所使用的数据均为不平衡数据集，Accuracy评价指标在数据不平衡时，其衡量结果往往是不具备参考性。在机器学习领域，对该类数据集所使用的评价指标为AUC(AreaUnderCurve)和Precision $@ n$ 。故本文使用这两类评价指标。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "AUC是ROC(Receiver Operating Characteristic)曲线下的面积，其分值越大，则代表算法检测性能越强。计算公式如式(7)所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { A U C } = \\sum _ { \\mathrm { i = 1 } } ^ { n _ { \\ast } } \\sum _ { j = 1 } ^ { n _ { - } } \\frac { \\mathrm { I } \\left[ d \\left( x _ { i } ^ { + } \\right) > d \\left( x _ { j } ^ { - } \\right) \\right] + \\frac { 1 } { 2 } \\mathrm { I } \\left[ d \\left( x _ { i } ^ { + } \\right) = d \\left( x _ { j } ^ { - } \\right) \\right] } { n _ { + } n _ { - } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中， $n _ { + }$ 和 $n$ 分别表示正样本和负样本的数量， $x _ { i }$ 和 $x _ { j }$ 分别表示第 $i$ 个和第 $j$ 个样本， $d$ 表示检测器，I[表示指示函数，该函数参数为真时，值等于1，否则等于0。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Precision $@ n$ 是Precision 指标的特殊情况，该种评价指标是在把离群点阈值设置成指定的 $n$ 个正例时，检测器输出的Precision分值。计算公式如式(8)所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P r e c i s i o n } = { \\frac { T P } { T P + F P } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中，TP(TruePositive)表示离群样本被正确标记为离群样本的数量， $F P _ { \\ l }$ (False Positive)表示正常样本被错误标记为异常样本的数量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4实验设计",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为验证EROD算法将多个组件检测器集成的有效性，将本文方法与 kNN、Avg-kNN、 $\\mathbf { k }$ -Median、LOF、COF和ABOD等6个组件检测器以及FB、LODA和IForest等3个集成学习算法分别进行了对比实验；同时，为保证EROD算法的时效性，EROD算法与较新的同类方法EAOD(ensembleand autoencoder-based outlier detection,EAOD)[22]和 GAN-VAE(generative adversarial network and variational auto-encoder based outlier detection,GAN-VAE)[23]在高维不均衡数据集Mnist上，以AUC值为评估指标，进行了对比实验。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在实验中，EROD算法为了平衡维度灾难和数据多样性带来的影响，JL随机投影将数据维度压缩为原来的三分之二。同时，为了探究EROD算法对其起到决定性参数的敏感程度，对集成学习中每个组件检测器的近邻参数 $k$ 进行了敏感性实验分析，进一步地从其中选择出对EROD算法检测性能影响较为积极的取值参数 $k$ ，并依此建立EROD离群点检测模型。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在实验中，在分析并选择出对EROD算法检测性能影响较为积极的取值参数 $k$ 后，对比算法kNN、Avg-kNN、k-Median、LOF、COF和ABOD的参数 $k$ 与EROD中相对应的组件检测器的参数 $k$ 保持一致；在对比集成学习算法中，FB 算法的基检测器设置为LOF检测器，且与EROD中组件检测器LOF的参数保持一致；LODA算法中参数为自动优化；IForest算法的采样大小参数 $\\psi$ 设置为256和树的数目参数 $t n$ 设置为100；同时，为保证实验的公平性和合理性，设置EAOD中检测器个数与EROD中检测器个数等同。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了确保本实验的结果具有稳定性，现对EROD算法和其对比算法分别执行10次，对该10次产生的结果计算均值作为最终的结果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.5参数敏感性分析与选择",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了使用EROD算法进行离群点检测，本文对集成模型中各个组件检测器中的近邻参数 $k$ 做不同的取值进行对比实验，进一步地从其中选择出对EROD算法检测性能影响较为积极的取值参数k，并建立EROD离群点检测模型。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "近邻参数 $k$ 具体选择策略为：首先，近邻参数 $k$ 取值范围为[10，100]，取值间隔为10；然后，在不同 $k$ 值上，分析组件检测器在Arrhythmia，Mnist，Musk，Speech这4个数据集上的4个AUC分值，对该4个AUC分值取均值；最后，对计算得到的10个AUC均值取最大值，该最值对应的$k$ 值作为组件检测器的近邻参数理想选取值的参考依据。具体过程如算法4所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$k$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "异私组侧命达邻芗双选计果吧输入： $\\boldsymbol { k }$ 值初始值，组件检测器D，数据集Arrhythmia，Mnist，Musk，Speech。输出： $k$ 值参考值。a） $h \\mathrm { = } [ 1 \\theta , 2 \\theta , 3 \\theta , 4 \\theta , 5 \\theta , 6 \\theta , 7 \\theta , 8 \\theta , 9 \\theta , 1 \\theta \\theta ]$ b) $A U C = [ ]$ （204号c） $\\scriptstyle { a v g A U C = [ ] }$ d） $m a x = 0$ （204e) $\\scriptstyle { j = 1 }$ （20f）for i=k[j],i<101,j=j+1 dog）AUC.append(D(i，Arrhythmia))h）AuC.append(D(i，Mnist))i）AUC.append(D(i，Musk))j）Auc.append(D(i，Speech))k）avgAuc.append(Average(AUC))1）end form）k_reference=Max(avgAuc)n）output(k_reference)",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如图3所示，kNN 组件检测器在Arrhythmia，Mnist，Musk，Speech 数据集上：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从 $k { = } 1 0$ 逐次递增到 $k { = } 4 0$ 的过程中，AUC均值处于显著上升趋势；从 $k { = } 4 0$ 逐次递增到 $k { = } 8 0$ 的过程中，AUC 均值涨幅较为微小；从 $k { = } 8 0$ 逐次递增到 $k { = } 9 0$ 的过程中，AUC均值处于不明显下降状态；AUC均值在 $k { = } 9 0$ 和 $k { = } 1 0 0$ 两处相等；当 $k { = } 8 0$ 时，AUC均值达到最大值0.7838。但是，从$k { = } 4 0$ 开始，AUC均值变化不大。因此，kNN组件检测器在$k { = } 4 0$ 时处于最优状态。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如图4所示，Avg-kNN组件检测器在Arrhythmia，Mnist,Musk，Speech 数据集上：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从 $k { = } 1 0$ 逐次递增到 $k { = } 1 0 0$ 的过程中，AUC均值变化趋势为上升状态。其中，从 $k { = } 1 0$ 递增到 $k { = } 5 0$ 的过程中，AUC均值上升幅度较为明显；从 $k { = } 5 0$ 以后，AUC均值上升幅度较小；当 $k { = } 1 0 0$ 时，AUC均值达到最大值0.7840。因此，Avg-kNN组件检测器在 $k { = } 5 0$ 时处于最优状态。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a05360d7eb42f476be0ec8971e53caf5ce265c0a5c083e69f030dc04278f2571.jpg",
+        "img_caption": [
+            "图3 kNN检测器近邻参数敏感性分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a942e05721cb34331976e967e014056789597cd249a4c59831d4e4bbbd1849c8.jpg",
+        "img_caption": [
+            "Fig.3Sensitivity analysis of knn detector's neighbor parameters "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从 $k { = } 1 0$ 逐次递增到 $k { = } 1 0 0$ 的过程中，AUC均值不断上升。当 $k$ 从10增加至60时，AUC上升较为显著；当 $k$ 从60增加至100时，AUC上升较为细微；当 $k { = } 1 0 0$ 时，AUC均值达到最大值0.7821。因此， $\\mathbf { k }$ -Median组件检测器在$k { = } 6 0$ 时处于最优状态。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1be34f21b01346660723674ed40ddaa43e034b8d9c8124774ee9e049a929356a.jpg",
+        "img_caption": [
+            "图4Avg-kNN 检测器近邻参数敏感性分析",
+            "图5 k-Median检测器近邻参数敏感性分析",
+            "Fig.5Sensitivity analysis ofk-Median detector's neighbor parameters如图6所示，LOF 组件检测器在Arrhythmia，Mnist,Musk，Speech 数据集上："
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从 $k { = } 1 0$ 逐次递增到 $k { = } 1 0 0$ 的过程中，AUC均值先上升，后下降，再上升。其中，当 $k$ 从10增加到20时，AUC均值显著上升；当 $k$ 从20增加到80时，AUC均值近似于线性下降；当 $k$ 从80增加到100时，AUC均值激增；当 $k { = } 1 0 0$ 时，AUC均值达到最大值0.7612。从宏观角度观察， $k { = } 1 0 0$ 对应的 AUC 均值明显高于其他 $k$ 值对应的AUC均值。因此，LOF组件检测器在 $k { = } 1 0 0$ 时处于最优状态。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a8c420bb762b1d892974e824492a23124a56ddee6aa413909d54eee9bbfcf8d6.jpg",
+        "img_caption": [
+            "图6 LOF检测器近邻参数敏感性分析",
+            "Fig.6Sensitivityanalysis ofLOFdetector'sneighborparameters如图7所示，COF 组件检测器在 Arrhythmia，Mnist,Musk，Speech 数据集上："
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从 $k { = } 1 0$ 逐次递增到 $k { = } 1 0 0$ 的过程中，AUC均值先上升，后下降，其中，当 $k$ 由10增加到50的过程中，AUC均值处于上升状态；当 $k$ 由50增加到100的过程中，AUC均值处于下降状态；当 $k { = } 5 0$ 时，AUC均值达到峰值0.6397。因此，COF组件检测器在 $k { = } 5 0$ 时处于最优状态。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/5146a9eaabd9742f9a0916faf4e48ead502cce712efc04f7d04607307b87e90b.jpg",
+        "img_caption": [
+            "Fig.4Sensitivity analysis ofAvg-knn detector's neighbor parameters如图5所示，k-Median组件检测器在Arrhythmia，Mnist,Musk，Speech 数据集上：",
+            "图7 COF检测器近邻参数敏感性分析",
+            "Fig.7Sensitivity analysis ofCOF detector's neighbor parameters如图8所示，ABOD组件检测器在Arrhythmia，Mnist,Musk，Speech 数据集上："
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从 $k { = } 1 0$ 逐次递增到 $k { = } 1 0 0$ 的过程中，AUC均值先下降在上升，但是其变化幅度十分细微。其中， $k$ 由10增加到70 时，AUC均值以近似于水平的细微程度缓慢下降； $k$ 由70 增加到100时，AUC均值又以近似于水平的细微程度缓慢上升；当 $k { = } 1 0$ 时，AUC均值达到峰值0.5807。因此，ABOD组件检测器在 $k { = } 1 0$ 时处于最优状态。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上所述，kNN，Avg-kNN，k-Median，LOF，COF,ABOD这6个组件检测器的近邻参数 $k$ 分别取值为40，50,60，100，50，10时，它们的性能处于最优。因此，选取该些近邻参数取值作为EROD算法中各个组件检测器的近邻参数取值。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b86cf22694fc98c4001be674515c86ecc5572e500823256d0ff7593ece21b5f.jpg",
+        "img_caption": [
+            "图8ABOD检测器近邻参数敏感性分析Fig.8Sensitivity analysis of ABOD detector's neighbor parameters"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.6 实验结果与分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表4给出了在4个不同的高维数据集上EROD与kNN、Avg-kNN、 $\\mathbf { k }$ -Median、LOF、COF和ABOD的比较结果，表中加粗的数字代表检测性能最强的两个算法。而且，图9和10分别给出了在不同数据集上各算法的AUC分值和Precision分值的比较。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表5给出了在4个不同的高维数据集上EROD与FB、LODA和IForest等3个集成学习算法的比较结果，表中加粗的数字代表检测性能最强的两个算法。而且，图11和12分别给出了在不同数据集上各算法的AUC分值和Precision分值的比较。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图13给出了EROD与较新的两个同类方法EAOD和GAN-VAE在高维不均衡数据集Mnist上，以AUC 值为评估指标，进行了对比实验。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/da77f35183669e3bb78bc393087d87a8e93b1144584da8f1b81bb3850b995d81.jpg",
+        "img_caption": [
+            "图9 不同算法的AUC分值比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/5817dc4e30be636b4ab8677f0ad0bb465b9a706674b8e1dd11287919ab1e42ad.jpg",
+        "img_caption": [
+            "Fig.9Comparison ofAUC scores of different algorithms ",
+            "Fig.l0Comparison of Precision scores of different algorithms "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表4EROD算法与各组件检测器的比较",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/271d17deb9e81c350742b7114a0545d7499c54ae561482a0251ebd9560579613.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">Tab.4Comparison ofEROD algorithmwith each component detec</td></tr><tr><td>数据集</td><td>方法</td><td>AUC Score</td><td>PrecisionScore</td></tr><tr><td rowspan=\"7\">Arrhythmia</td><td>EROD</td><td>0.7922</td><td>0.4545</td></tr><tr><td>kNN</td><td>0.7809</td><td>0.4191</td></tr><tr><td>Avg-kNN</td><td>0.7787</td><td>0.3994</td></tr><tr><td>k-Median</td><td>0.7804</td><td>0.4032</td></tr><tr><td>LOF</td><td>0.7765</td><td>0.4356</td></tr><tr><td>COF</td><td>0.7829</td><td>0.4468</td></tr><tr><td>ABOD</td><td>0.7544</td><td>0.3636</td></tr><tr><td rowspan=\"7\">Mnist</td><td>EROD</td><td>0.8537</td><td>0.4414</td></tr><tr><td>kNN</td><td>0.8429</td><td>0.4200</td></tr><tr><td>Avg-kNN</td><td>0.8361</td><td>0.4300</td></tr><tr><td>k-Median</td><td>0.8407</td><td>0.4286</td></tr><tr><td>LOF</td><td>0.8161</td><td>0.3914</td></tr><tr><td>COF</td><td>0.7328</td><td>0.3786</td></tr><tr><td>ABOD</td><td>0.7994</td><td>0.3886</td></tr><tr><td rowspan=\"7\">Musk</td><td>EROD</td><td>0.9878</td><td>0.6907</td></tr><tr><td>kNN</td><td>0.9792</td><td></td></tr><tr><td>Avg-kNN</td><td>0.9613</td><td>0.6801</td></tr><tr><td>k-Median</td><td>0.9778</td><td>0.5052 0.6289</td></tr><tr><td>LOF</td><td>0.9733</td><td>0.3402</td></tr><tr><td>COF</td><td>0.5523</td><td>0.1340</td></tr><tr><td>ABOD</td><td>0.0636</td><td></td></tr><tr><td rowspan=\"7\">Speech</td><td>EROD</td><td>0.5615</td><td>0.0412</td></tr><tr><td>kNN</td><td>0.4790</td><td>0.0656</td></tr><tr><td>Avg-kNN</td><td>0.4877</td><td>0.0328 0.0307</td></tr><tr><td>k-Median</td><td>0.4803</td><td>0.0164</td></tr><tr><td>LOF</td><td>0.4787</td><td>0.0169</td></tr><tr><td></td><td></td><td></td></tr><tr><td>COF ABOD</td><td>0.4839 0.6530</td><td>0.0315 0.1603</td></tr><tr><td>1.0</td><td></td><td></td><td></td></tr><tr><td rowspan=\"8\">0.0</td><td rowspan=\"8\"></td><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图11与集成学习算法的AUC分值比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c10370077f4411c7bbfc5e226b4015942daafa8c3d70444b19f3698e3d55c4e.jpg",
+        "img_caption": [
+            "图10 不同算法的Precision分值比较",
+            "Fig.11Comparison ofAUC scores of ensemble learning algorithms ",
+            "图12与集成学习算法的Precision分值比较 ",
+            "Fig.l2Comparison of precision scores of ensemble learning algorithms "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/2148e2ea13fa1d91c88cf28e241073c1a8b6cf82f9a232238aff969e97c9e18c.jpg",
+        "img_caption": [
+            "图13与两个较新的同类算法EAOD和GAN-VAE的AUC分值比较 Fig.13Comparison ofAUC scores with two newer similar algorithmsEAOD and GAN-VAE 表5EROD 算法与其他集成学习算法的比较 Tab.5Comparison of EROD algorithm with other ensemble learning algorithms "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/7ba6bd8dc3b9554aa4b8e5ef88646e62f129f67abc9ac0068e2fe9c86cf6917a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>数据集</td><td>方法</td><td>AUC Score</td><td>Precision Score</td></tr><tr><td rowspan=\"5\">Arrhythmia</td><td>EROD</td><td>0.7922</td><td>0.4545</td></tr><tr><td>FB</td><td>0.7564</td><td>0.3788</td></tr><tr><td>LODA</td><td>0.7271</td><td>0.4091</td></tr><tr><td>IForest</td><td>0.7798</td><td>0.4394</td></tr><tr><td>EROD</td><td>0.8537</td><td>0.4414</td></tr><tr><td rowspan=\"2\">Mnist</td><td>FB</td><td>0.6875</td><td>0.2871</td></tr><tr><td>LODA</td><td>0.6162</td><td>0.2457</td></tr><tr><td rowspan=\"6\">Musk</td><td>IForest</td><td>0.7889</td><td>0.3057</td></tr><tr><td>EROD</td><td>0.9878</td><td>0.6907</td></tr><tr><td>FB</td><td>0.6052</td><td>0.2784</td></tr><tr><td>LODA</td><td>0.9637</td><td>0.6392</td></tr><tr><td>IForest</td><td>0.9763</td><td>0.8763</td></tr><tr><td>EROD</td><td>0.5615</td><td>0.0656</td></tr><tr><td rowspan=\"3\">Speech</td><td>FB</td><td>0.5049</td><td>0.0492</td></tr><tr><td>LODA</td><td>0.4955</td><td>0.0328</td></tr><tr><td>IForest</td><td>0.4605</td><td>0.0328</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对于EROD算法相比较于各组件检测器，可以看出在Arrhythmia、Mnist、Musk上，EROD算法的两个评价指标均优于其他算法：在Arrhythmia上，AUC 和Precision分值相较于检测性能次高的算法分别提升了1.2个百分点和1.7和百分点；在Mnist上，AUC和Precision分值相较于检测性能次高的算法分别提升了1.3个百分点和2.7个百分点；在Musk上，AUC和Precision分值相较于检测性能次高的算法分别提升了0.9个百分点和1.6个百分点。但是，在Speech上，EROD算法的两个评价指标均处于次高状态，这是因为集成框架中大部分组件检测器在该数据集上表现较差导致EROD算法平衡泛化误差的能力有所降低，但EROD的表现优于大部分组件检测器。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对于EROD算法相比较于其他集成学习算法，可以看出在Arrhythmia、Mnist、Speech上，EROD 算法的两个评价指标均优于其他算法：在Arrhythmia上，AUC和Precision分值相较于检测性能次高的算法分别提升了1.2个百分点和3.4个百分点；在Mnist上，AUC和Precision分值相较于检测性能次高的算法分别提升了8.2个百分点和44个百分点；在Speech上，AUC和Precision分值相较于检测性能次高的算法分别提升了11.2个百分点和33.3个百分点。但是，在Musk上，EROD算法在Precision分值上稍逊于IForest算法，但在AUC分值上均优于其他算法，相较于检测性能次高的算法提升了1.2个百分点，这是因为衡量指标在统计学上侧重点不同，导致EROD算法在AUC和Precision分值上一高一低。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对于EROD算法相比较于较新的同类方法EAOD和GAN-VAE，在高维不均衡数据集Mnist上，AUC分值分别提升了 $1 . 0 2 \\%$ 和 $0 . 4 6 \\%$ ，这证明了EROD在解决同种问题上的先进性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在表4和5中，在Speech数据集上，无论是何种算法，在该数据集上分值普遍较低。如图14所示，Speech在2-D可视化图像中，红色菱形表示离群点，其余表示正常点，可以看出这是因为在该数据集中，离群点与正常点高度地混合在一起，隐藏在正常点内部，且在维度分布上未处于尾部位置，导致其在维度分布上与正常点高度相似，使得离群点检测算法无法达到最佳检测性能。只有离群点位于暴露明显的尾部时，离群点检测算法才可精准地捕获与识别。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e3dc55f9e78d6c1054bfca8afe437fd6d793bfce9b9ada2c0ab3fb0491e88a61.jpg",
+        "img_caption": [
+            "图14Speech 数据集 2-D嵌入式可视化图像Fig.l4Speech dataset 2-D embedded visualization image综上所述，通过与各种离群点检测算法在多个高维数据集上的对比实验，验证了EROD算法的有效可行性。"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文提出一种新的离群点检测框架-EROD，算法集成随机投影对高维数据进行降维，同时提升了数据多样性，通过对多个异质离群点检测器进行集成，提升了算法鲁棒性，之后异质集成模型对多个降维后的数据进行训练，并分两次对训练后的模型进行组合，有效降低泛化误差，提升算法检测性能。同时，从理论上分析了算法的参数敏感性，并讨论了集成组件检测器时超参的选择依据。在UCI数据集上实验，以AUC和Precision为评价指标对算法进行评估，与传统的离群点检测算法和基于集成学习的离群点检测算法进行比较，实验结果表明EROD算法具有处理高维不均衡数据异常的优势。同时，考虑到随机投影和异质检测器的集成机制对EROD算法效率的作用，是值得深入探讨的课题。进一步研究将从实验上研究不同的降维方式和检测器对EROD算法的影响以及从理论上分析EROD算法泛化误差临界点和其组件检测器泛化误差临界点的关系。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]Boukerche A,ZhengL,Alfandi O.Outlier detection:Methods,models, and classification [J].ACM Computing Surveys,2020,53 (3):1-37.   \n[2]Najafi M,He L,Philip S Y. Outlier-Robust Multi-Aspect Streaming Tensor Completion and Factorization [C]//Proc of the 28th International Joint Conference on Artificial Intelligen．San Mateo,CA:Morgan Kaufmann Press,2019:3187-3194.   \n[3]Walfish S.A review of statistical outlier methods [J].Pharmaceutical   \n[4]Li Z,Zhao Y,Botta N,et al. COPOD: copula-based outlier detection [C]// Proc of the 2Oth International Conference on Data Mining. Piscataway, NJ: IEEE Press,2020:1118-1123.   \n[5]Aggarwal C C.Outlier analysis [M].2nd ed.Berlin: Springer Press,2017: 1-34.   \n[6]Breunig MM,Kriegel HP,NgRT,etal.LOF: identifying density-based local outliers [C]//Proc of SIGMOD.New York:ACMPress,2000:93- 104.   \n[7]Tang J,Chen Z,Fu A W C,et al.Enhancing effectiveness of outlier detections for low density patterns [C]// Proc of PAKDD.Berlin: Springer Press,2002:535-548.   \n[8]Kriegel HP,Schubert M,Zimek A.Angle-based outlier detection in highdimensional data [C]//Proc of the 14th ACMKnowledge Discovery and Data Mining.New York:ACMPress,2008: 444-452.   \n[9]Chen W,Wang Z, Zhong Y,et al.ADSIM: Network Anomaly Detection via Similarity-aware Heterogeneous Ensemble Learning[C]//Proc of the 17th IFIP/IEEE International Symposium on Integrated Network Management.Piscataway,NJ:IEEE Press,2021: 608-612.   \n[10] Lazarevic A,Kumar V.Feature bagging for outlier detection [C]//Proc of the 11th ACM Knowledge Discovery and Data Mining.New York: ACM Press,2005:157-166.   \n[11] Pevny T.Loda: Lightweight on-line detector of anomalies [J].Machine Learning,2016,102 (2):275-304.   \n[12] Liu FT,Ting K M,Zhou ZH.Isolation Forest [C]//Proc of the 8th International Conference on Data Mining.Piscataway,NJ: IEEE Press, 2008:413-422.   \n[13] Pang G, Cao L,Chen L,et al.Learning representations of ultrahighdimensional data for random distance-based outlier detection [C]// Proc of the 24th ACM Knowledge Discovery and Data Mining.New York: ACMPress,2018:2041-2050.   \n[14] Cohen M B,Jayram T S,Nelson J. Simple analyses of the sparse Johnson-Lindenstrauss transform [C]// Proc of the lst Symposium on Simplicity in Algorithms.Philadelphia,PA: SIAMPress,2018:1-9.   \n[15] Jin R,Kolda TG,Ward R.Faster Johnson-Lindenstrauss transforms via kronecker products [J].Information and Inference:A Journal of the IMA, 2021,10(4): 1533-1562.   \n[16] Venkatasubramanian S,Wang Q.The Johnson-Lindenstrauss transform: an empirical study [C]// Proc of the 13th Workshop on Algorithm Engineering and Experiments.Philadelphia,PA: SIAMPress,2011: 164- 173.   \n[17] Pasillas-Diaz JR,Ratte S.An unsupervised approach for combining scores of outlier detection techniques,based on similarity measures [J]. Electronic notes in theoretical computer science,2016,329:61-77.   \n[18] Aggarwal C C,Sathe S.Outlier ensembles:An introduction [M]. Berlin: Springer Press,2017:35-73.   \n[19]杜旭升，于炯，陈嘉颖，等．一种基于邻域系统密度差异度量的离群 点检测算法[J].计算机应用研究，2020,37(07):1969-1973.(Du Xusheng,Yu Jiong,Chen Jiaying,et al. Outlier detection algorithm based on neighborhood system density difference measurement [J].Application Research of Computers,2020,37(07): 1969-1973.)   \n[20]杜旭升，于炯，叶乐乐，等．基于图上随机游走的离群点检测算法 [J].计算机应用,2020,40(05):1322-1328.(Du Xusheng,Yu Jiong,Ye Lele,et al. Outlier detection algorithm based on graph random walk [J]. Journal of Computer Applications,2020,40 (05):1322-1328.)   \n[21] Aggarwal C C,Sathe S.Theoretical foundations and algorithms for outlier ensembles [J].ACM SIGKDD Explorations Newsletter,2015,17 (1): 24-47.   \n[22]郭一阳，于炯，杜旭升，等．基于自编码器与集成学习的离群点检测 算法[J/OL]．计算机应用．[2022-03-25]．http://kns.cnki. net/kcms/detail/51.1307.tp.20210929.1142.006. html. (Guo Yiyang, Yu Jiong,Du Xusheng，et al.Outlier detection algorithm based on autoencoder and ensemble learning [J/OL].Journal of Computer Applications.[2022-03-25]. http://kns.cnki.net/kcms/detail/51.1307.tp. 20210929.1142.006.html.)   \n[23]金利娜，于炯，杜旭升，等．基于生成对抗网络和变分自编码器的离 群点检测算法 [J].计算机应用研究,2022,39(03):774-779.(Jin Lina, Yu Jiong,Du Xusheng,et al.Generative adversarial network and variational auto-encoder based outlier detection [J].Application Research of Computers,2022,39 (03): 774-779.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

@@ -1,0 +1,467 @@
+[
+    {
+        "type": "text",
+        "text": "硒蛋白X基因沉默和过氧化氢处理对人正常肝脏细胞中硒蛋白基因表达和抗氧化酶活性的影响！",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "汤加勇　赵　华\\*贾　刚　刘光芒 陈小玲 蔡景义 吴彩梅（四川农业大学动物营养研究所，成都611130）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在探讨硒蛋白X(SeIX)基因沉默和过氧化氢( $\\mathbf { \\cdot } \\mathbf { H } _ { 2 } \\mathbf { O } _ { 2 }$ )处理对人正常肝脏细胞（LO2）中硒蛋白基因表达和抗氧化酶活性的影响，为探索 SelX与其他硒蛋白之间的调控关系及 SelX 的功能奠定基础。对本实验室保存的 SelX基因稳定沉默LO2 细胞株（siSelX）和对照细胞株（CK)，利用噻唑兰（MTT）法比较其生长速率；siSeIX 和CK用 $2 0 0 \\ \\mu \\mathrm { m o l / L \\ H _ { 2 } O _ { 2 } }$ 处理 $2 . 5 \\mathrm { ~ h ~ }$ 后，采用荧光定量PCR技术考察25个硒蛋白基因的表达量；同时比较SeIX基因沉默以及 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 处理对LO2 细胞株中谷胱甘肽过氧化物酶（GSH-Px）、超氧化物歧化酶（SOD）活性及总抗氧化能力（T-AOC）的影响。结果显示：1）SeIX 基因沉默显著降低了LO2 细胞株的生长速率（ $P { < } 0 . 0 5 )$ ；2）SelX基因沉默显著上调了Gpx6、Txnrd2、Seli基因的表达量（ $_ { ( P < 0 . 0 5 ) }$ ，显著下调了Dio2、Dio3、Selm、Sepwl 基因的表达量（ $_ { . P < 0 . 0 5 ) }$ ； $\\mathbf { H } _ { 2 } \\mathbf { O } _ { 2 }$ 处理显著上调了Dio1基因的表达量（ $P { < } 0 . 0 5 \\mathrm { { ) } }$ ，显著下调了 $G p x 2$ 基因的表达量（ $P { < } 0 . 0 5 )$ ；SelX 基因沉默后 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 处理显著上调了Gpx6、Txnrd2、Dio1 基因的表达量（ $P { < } 0 . 0 5 )$ ，显著下调了Txnrd3、Dio2、Selm、Sepw1、Selv 基因的表达量（ $P { < } 0 . 0 5 )$ ；3）SelX 基因沉默显著提高了LO2 细胞株GSH- $\\mathbf { \\cdot P x }$ 活性（ $. P { < } 0 . 0 5 \\ '$ )，显著提高了SOD的活性（ $. P { < } 0 . 0 5 \\$ ）；SelX基因沉默后 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 处理显著提高了GSH $\\mathbf { \\nabla \\cdot P X }$ 活性（ $. P { < } 0 . 0 5$ ）。由此可见，SeIX基因沉默降低了LO2细胞株的生长速率，SeIX基因沉默后 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 处理影响部分硒蛋白基因在细胞中的表达量，同时也影响了GSH-Px、SOD 活性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：SelX基因；沉默； $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ ；表达中图分类号：S811.3 文献标识码： 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "硒（Se）是哺乳动物新陈代谢所必需的基本微量元素，在动物的生长、繁殖等方面起着重要作用。Se 在动物体内主要以硒蛋白的形式来发挥其多种生理功能，在人中已分离得到了25 种硒蛋白。很多硒蛋白在动物体内是作为细胞重要的抗氧化防御系统，起着清除氧自由基、保护生物膜完整等功能[2-4]。在动物饲粮中添加一定量的 Se 可以增加体内硒蛋白的表达，从而增强动物机体的免疫及抗氧化功能等[3-4]。到目前还有很多硒蛋白的功能和作用机理不完全清楚，其中就包含硒蛋白 X（SelX)。SeIX也称为硒蛋白R（SelR）和蛋氨酸亚砜还原酶B1（MsrB1)，在动物体内广泛存在，隶属于蛋氨酸亚砜还原酶（Msr）家族，定位于细胞核和细胞质中。Msr是一种氧化还原修复酶，它可修复被氧化的核糖体蛋白使其恢复蛋白质的功能[5]。活性氧（reactive oxygen species,ROS）的大量产生或不完全清除可以使生物机体产生氧化损伤，为了抵抗ROS 的氧化损伤，机体拥有一定的防御体系，其中蛋氨酸亚砜还原酶就是一种修复酶和间接的ROS 清除剂。蛋氨酸是蛋白质中最易被氧化的氨基酸残基之一，它可被过氧化氢（ $\\mathrm { . } \\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ )、羟自由基、次氯酸钠、过氧亚硝酸盐阴离子(ONOO-)等氧化，生成蛋氨酸亚砜（MetO）[6]。同其他Msr一样，SelX可把生成的MetO 还原为蛋氨酸，抵御机体受到氧化损伤，可抑制ONOO-诱导的细胞凋亡[7]。有研究表明，SeIX基因沉默会诱导人晶状体上皮细胞（hLE）ROS 水平的显著增加，从而激活细胞的保护机制[8]；本实验室研究发现，SelX基因沉默可以降低人正常肝脏细胞（human normal hepatocyte，LO2）的活性，增加细胞的凋亡[9]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "硒蛋白是 Se 以硒代半胱氨酸（Sec）的形式存在，且Sec 大多位于蛋白质的活性中心。Sec 由密码子 UGA 编码，而该密码子在普通蛋白质合成中是终止密码子，Sec 的插入依赖于硒蛋白 mRNA自身3'-非编码区（3'-UTR）稳定的茎-环结构序列元件 SECIS（selenocysteine insertion sequence）[2]。由于 SECIS 结构的特殊性，可针对硒蛋白的3'-UTR，利用沉默技术设计引物，使其基因沉默表达，从而探讨其功能。目前已有GPX4[10]、TR1[1]、SelW[12]、Sep15[13]等基因沉默的研究报道。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前已知在人和哺乳动物中有25个硒蛋白基因，很多硒蛋白在维持机体内氧化还原平衡中起着重要作用，但硒蛋白之间是否具有功能互作尚不清楚，SeIX 基因沉默是否会对其他硒蛋白基因表达产生影响也未见报道。前期的研究表明，SeIX 基因在肝脏和肾脏中具有较高的表达[14]。本实验室已通过沉默技术，成功构建了LO2的SeIX基因沉默细胞株（siSelX）和空载稳定转染LO2对照细胞株（CK）[9]。在此，本试验旨在考察 SelX 基因沉默对 LO2 细胞株生长速率及细胞形态的影响；同时比较SelX基因沉默和 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 处理对LO2 细胞株中25个硒蛋白mRNA表达的影响，及其对细胞中谷胱甘肽过氧化物酶（ $\\mathrm { G S H - P x }$ ）、超氧化物歧化酶（SOD）活性和总抗氧化能力（T-AOC）的影响。研究结果可望为探索 SeIX与其他硒蛋白之间可能的调控关系提供线索，为探索 SeIX的生物学功能奠定基础，同时为进一步探讨硒蛋白如何在动物体内发挥 Se的营养功能提供一定的线索。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 主要仪器设备",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "二氧化碳培养箱（Thermo）、生物安全柜（Thermo）、酶标仪（Molecular Devices）、5804R台式高速冷冻离心机（Eppendorf）、MilliQPlus 超级纯水仪（Millipore）、Nanodrop 微量核酸分析仪（Thermo）、7900HT荧光定量PCR仪（ABI）、倒置荧光显微镜（Nikon TS100）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 主要试剂及细胞株",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "主要试剂：DMEM/F12 基础培养基（Gibco）、胎牛血清（Gibco）、TRIzol regent（Invitrogen）均购于 Thermo Fisher 公司；Prime ScriptTM逆转录试剂盒、TaqDNA 聚合酶、SYBR Green Mix 荧光染料均购于大连宝生物工程有限公司；引物由上海生工生物公司合成；GSH-Px 活性测定试剂盒、SOD 活性测定试剂盒和T-AOC测定试剂盒均购于南京建成生物工程研究所。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "细胞株：siSeIX和CK均为本实验室构建并保存。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 siSelX和CK的培养 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将 siSeIX 和CK 分别接种于含 $10 \\%$ 胎牛血清、 $1 \\%$ 青霉素-链霉素和 $6 0 0 ~ \\mu \\mathrm { g / m L }$ 潮霉素B的DMEM/F12培养液中，置于 $3 7 \\mathrm { ~ \\textdegree C }$ 、 $5 \\%$ $\\mathrm { C O } _ { 2 }$ 的培养箱中培养，每2d更换培养液1次，细胞生长密度达到 $90 \\%$ 时用 $0 . 2 5 \\%$ 的胰蛋白酶消化传代。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4siSelX 和CK的生长速度比较",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用血球计数板法将 siSeIX和CK浓度调整在 $1 { \\times } 1 0 ^ { 4 }$ 个 $/ \\mathrm { m L }$ 左右，然后按 $2 0 0 ~ \\mu \\mathrm { L } I$ 孔接种于96孔培养板中，每排边上2孔为不加细胞只加培养液的空白对照孔，剩余10孔为 siSelX和CK细胞株各5孔（ $\\scriptstyle n = 5$ )，其余7排与此相同。加样后，置于 $3 7 \\mathrm { ~ \\textdegree C }$ 、 $5 \\%$ （ $\\mathrm { C O } _ { 2 }$ 的培养箱中培养，每2d更换1次培养液。每间隔 $2 4 \\mathrm { h }$ ，对一排的细胞进行处理，即弃培养液，加入新鲜基础培养基 $1 8 0 \\mu \\mathrm { L } /$ 孔，然后加入噻唑兰（MTT）溶液（ $\\mathrm { \\nabla { \\cdot } \\ m g / m L }$ ） $2 0 \\mu \\mathrm { L } /$ 孔， $3 7 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 培养箱中继续孵育 $^ { 4 \\mathrm { h } }$ 。4h后小心去掉孔内培养液，加入 $1 5 0 ~ \\mu \\mathrm { L } / \\$ 孔的二甲基亚矾（DMSO)，反复吹打，使结晶物充分溶解。将孔内液体吸至另一新的96孔板中，测定其在 $5 7 0 ~ \\mathrm { n m }$ 波长处的吸收值，用空白孔调零，以时间为横轴，吸光度值为纵轴绘制细胞生长曲线。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5siSelX 和 CK在 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 处理前后的形态观察",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将siSeIX和CK分别接种1个6孔培养板，将培养板置于 $3 7 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 、 $5 \\%$ $\\mathrm { C O } _ { 2 }$ 的培养箱中培养，每2d更换1次培养液。当细胞长到 $70 \\%$ 培养板时，在显微镜下观察它们的形态特征；然后分别加入200 μmol/L $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 处理 $2 . 5 \\mathrm { h }$ 后，再观察细胞的形态特征。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6硒蛋白基因表达定量分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用血球计数板法将 siSelX 和CK 浓度调整在 $2 { \\times } 1 0 ^ { 4 }$ 个 $/ \\mathrm { m L }$ ，按照 $0 . 5 \\mathrm { \\ m L } /$ 孔接种24孔培养板，每个细胞系各接种2板。将培养板置于 $3 7 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 、 $5 \\%$ （204号 $\\mathrm { C O } _ { 2 }$ 的培养箱中培养，每2d更换1次培养液。当细胞长到 $90 \\%$ 培养板时，siSeIX 和CK分别加入 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 终浓度为0或 $2 0 0 \\mu \\mathrm { m o l } / \\mathrm { L }$ 的完全培养基处理2.5 h，然后收集细胞[9l：先用预冷的磷酸缓冲盐溶液（PBS）清洗1次后，每孔加入 $2 0 0 { \\mu \\mathrm { L } }$ 的TRIzolregent，将4个孔样品合并为1个样（ $\\scriptstyle { \\dot { n } } = 6$ )。用TRIzol法提取总RNA[14]，通过琼脂糖电泳和核酸测定仪检测其质量，合格后将RNA浓度调整到 $2 0 0 ~ \\mathrm { { n g / \\mu L } }$ ，按照逆转录试剂盒说明书操作将其反转录成cDNA，用于基因定量分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "25 个硒蛋白基因和2个看家基因[β-肌动蛋白( $\\beta$ -actin)、甘油醛-3-磷酸脱氢酶(GAPDH)]序列均从 NCBIGenBank 数据库下载，采用ABIPrimer Express 3.0软件设计定量引物，送上海生工生物公司合成，引物序列详见表1。荧光定量PCR反应体系为 $1 0 ~ \\mu \\mathrm { L }$ ，包含： ${ 5 . 0 ~ \\mu \\mathrm { L } }$ $2 { \\times } \\mathrm { S }$ YBR Green Mix,cDNA0.5μL，上、下游引物混合液 $1 . 5 ~ \\mu \\mathrm { L }$ （ $2 \\mu \\mathrm { m o l / L }$ ， $\\mathrm { H } _ { 2 } \\mathrm { O } 3 . 0 \\mu \\mathrm { L }$ ，每个样重复2次。荧光定量PCR",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（RT-PCR）反应条件为95℃变性 $3 0 ~ \\mathrm { s }$ ，40个循环（95℃5s，60℃34s)，熔解曲线（95℃15s，60℃ 60s，95℃15 s)。定量数据采用△△Ct法计算分析，具体方法为：△Ct值是目标基因和参比基因Ct值的差值（ $\\Delta C t { = } C t ^ { \\mathrm { t a r g e t } } { - } C t ^ { \\mathrm { r e f e r e n c e } } )$ ，以空载CK中目标基因表达量为标准，假定其表达量为1，其 △Ct 值定为 $\\Delta C ^ { \\mathrm { t ^ { R } } }$ ，其他样品中目标基因的 △Ct 值减去 △Ctreference 值的差值即为 △△Ct（△Ctarget-△Ctreference），根据基因 PCR扩增是 $2 ^ { n }$ 扩增的原理，则目标基因的相对表达量为 $2 ^ { - \\Delta \\Delta \\mathrm { C t } }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/3b415c45af2c93e91b6fe6eeecba5f5a7ee0d90fbd88d6cc61d24e9c44d09b44.jpg",
+        "table_caption": [
+            "表1硒蛋白基因PCR引物序列",
+            "Table1Primer sequences used for PCR of selenoprotein genes "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">Tuoler TilerBeqa 1selenoprotengenes</td></tr><tr><td>基因</td><td>登录号</td><td>上游引物</td><td>下游引物</td></tr><tr><td>Genes</td><td>Accession number</td><td>Forward primers (5'-3')</td><td>Reverse primers (5'-3')</td></tr><tr><td> β-actin</td><td>X00351.1</td><td>AGCGCGGCTACAGCTTCA</td><td>TCCTTAATGTCACGCACGATTTC</td></tr><tr><td>GAPDH</td><td>NM_002046.5</td><td>GGCATCCTGGGCTACACTGA</td><td>GGAGTGGGTGTCGCTGTTG</td></tr><tr><td>Gpx1</td><td>BC007865</td><td>GGTCCTGTTGATCCCAGTCTCT</td><td>GCTGACACCCGGCACTTTAT</td></tr><tr><td>Gpx2</td><td>NM_002083.2</td><td>GGGCCGTGCTGATTGAGA</td><td>GAAGTCCCGGGTGGTTGTG</td></tr><tr><td>Gpx3</td><td>NM_002084.3</td><td>CAGACCCCTTTCCTATCACTCAA</td><td>GCCTGGCAGTACACAGAACTGT</td></tr><tr><td>Gpx4</td><td>NM_001039848.1</td><td>TGTGCATCGTCACCAACGT</td><td>AGGTCGACGAGCTGAGTGTAGTT</td></tr><tr><td>Gpx6</td><td>NM_182701.1</td><td>GAGCCCATGAAGGTCCATGATA</td><td>GGGCCCCACCAGAAATTT</td></tr><tr><td>Txnrd1</td><td>NM_003330.2</td><td>AGCCCTGCAAGACTCTCGAA</td><td>TTCTGTCCCAATCATGCTTAACTG</td></tr><tr><td>Txnrd2</td><td>NM_006440.3</td><td>CTGGTGCAGCGGCTCTTC</td><td>TCGTGGGAACATTGTCGTAGTC</td></tr><tr><td>Txnrd3</td><td>NM_001173513.1</td><td>CGGGTGATAGGATTTCATATTCTTG</td><td>CAGCTGCAAATCCTTGGGTAA</td></tr><tr><td>Dio1</td><td>NM_000792.5</td><td>CAGCCACGACAACTGGATACC</td><td>GGACCTTCAAGACGAACCAGAA</td></tr><tr><td>Dio2</td><td>NM_001362.3</td><td>AGGATGCCCCCAATTCCA</td><td>CCACTGTTGTCACCTCCTTCTG</td></tr><tr><td>Dio3</td><td>NM_000793.5</td><td>AGCCAGCACATCCTCGACTAC</td><td>GCTGCCGAAATTGAGAACCA</td></tr><tr><td>Sep15</td><td>NM_004261.3</td><td>TGTTGTTGGCGACTGTGCTT</td><td>TGCATGCCTCCGATGAAAA</td></tr><tr><td>Selh</td><td>AF536829.1</td><td>GTCGTAGGGAGATTTGGGTAGAAG</td><td>TTTGGCCATGTTCCATCATTAA</td></tr><tr><td>Seli</td><td>BK001426.1</td><td>GGCATACTTTGATCCTGACTTTTATG</td><td>GGATGCCCACTACAATCCAAAC</td></tr><tr><td>Selk</td><td>NM_021237.3</td><td>CGTCTCTTTCAGCAGCCAATG</td><td>GGCCGCGATTAGACAAAATG</td></tr><tr><td>Selm</td><td>NM_080430.2</td><td>AAAGGAGGTGAAGGCTTTCGT</td><td>CCCAGGGAGGTGTTTCATCA</td></tr><tr><td>Seln</td><td>NM_206926.1</td><td>TTCCCCGTGGAGATGATGAT</td><td>GTAGTTGGCATTGATGTGATGGA</td></tr><tr><td>Selo</td><td>NM_031454.1</td><td>TCCCCGGCAGCTATCCAT</td><td>GCCCATAAGCGCGAACAG</td></tr><tr><td>Sels</td><td>NM_203472.1</td><td>AAGAAGCCCCAGGAGGAAGA</td><td>TCCCCGCAAAGGCTTTC</td></tr><tr><td>Selt</td><td>NM_016275.3</td><td>TTGAGGAGTACATGCGGGTTATT</td><td>ATATATTGGTTGAGGGAGGTAATTCTCT</td></tr><tr><td>SelX</td><td>AF166124.1</td><td>TCTCCAGCCGCTCGAAGTAT</td><td>GCTGTCGGCGTGAATGGT</td></tr><tr><td>Selv</td><td>NM-182704.1</td><td>GTGACCTACTGTGGCCTCTGAAG</td><td>TGCTGCTCCAGGCTCTTTTT</td></tr><tr><td>Sepp1</td><td>NM_005410.2</td><td>CCATCGCCTCATTACCATCAT</td><td>GTTGCTGATTCTCTGAAAGCTCACT</td></tr><tr><td>Sepw1</td><td>NM_003009.2</td><td>CGGCCGCCTGGACAT</td><td>AATCAACTTCCCGGCTACCA</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.7细胞抗氧化酶活性指标分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "用血球计数板法将siSeIX和CK浓度调整在 $2 { \\times } 1 0 ^ { 4 }$ 个 $/ \\mathrm { m L }$ ，按照 $2 \\mathrm { m L } /$ 孔接种6孔培养板，每个细胞株各接种8板。将培养板置于 $3 7 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 、 $5 \\%$ （20 $\\mathrm { C O } _ { 2 }$ 的培养箱中培养，每2d更换1次培养液。当细胞长到 $90 \\%$ 培养板时,siSeIX和CK分别加入 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 终浓度为0或 $2 0 0 \\mu \\mathrm { m o l / L }$ 的完全培养基处理 $2 . 5 \\mathrm { h }$ 然后收集细胞：用预冷的PBS 清洗2次，然后每孔加入 $1 5 0 ~ \\mu \\mathrm { L }$ 的PBS，采用细胞刮刀收集细胞，将4个孔样品混合为1个样（ $\\scriptstyle { \\mathrm { . } n = 6 }$ )。细胞收集后，用超声波破碎仪破碎细胞释放蛋白质，离心后取上清测定抗氧化剂酶活性，按照试剂盒的操作说明分别测定样品GSH-Px、SOD 活性及T-AOC。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.8 数据处理及分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "数据采用SPSSStatistics13.0统计软件进行统计分析，所有数据均以平均值 $\\cdot \\pm i$ 标准误表示。生长速率采用独立样本t检验分析，硒蛋白基因表达量及酶活性指标分析采用单因素方差分析（one-wayANOVA）比较各组之间的差异显著性，并结合Duncan氏法进行多重比较， $P { < } 0 . 0 5$ 为差异显著水平。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1siSelX 和CK生长速率分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "活细胞线粒体中的琥珀脱氢酶能使外源的MTT还原为难溶性的蓝紫色结晶物并沉积在细胞中，而死细胞无此功能。DMSO能溶解细胞中的紫色结晶物，其在 $5 7 0 \\mathrm { n m }$ 波长处有特异的光吸收峰，该吸光度值可间接反映细胞数量。siSeIX和CK生长速率采用MTT法共连续测定8d，结果见图1。从图1中可以看出，SeX基因沉默后，LO2细胞株在 $5 7 0 \\mathrm { n m }$ 处的吸光度值从第3天开始出现差异，siSeIX组生长速度在第3至7天均显著低于对照组，随着培养时间增加，在第8天时2组在 $5 7 0 \\mathrm { n m }$ 的吸光度值无差异。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/482f7ef9044fd3a84995095d01abefb23cd33287182225b15a38620a04d9ee63.jpg",
+        "img_caption": [
+            "图1siSelX和CK生长速率的分析比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "siSelX：LO2的SelX基因沉默细胞株；CK：对照细胞株。下图或表同。 siSelX: The LO2 cells with SelX knockdown; CK: control cells.The same as below. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2SelX基因沉默及 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 处理对LO2 细胞株形态的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "SelX基因沉默及 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 处理对LO2 细胞株形态的影响结果见图2。从图中可以看出，SeX 基因沉默后对LO2 细胞株的形态没有影响，CK 和 siSelX 在形态上没有明显区别；经 200 μmol/L $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 处理 $2 . 5 \\mathrm { h }$ 后，CK和siSeIX均出现了一定程度形态变圆的变化。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/4378fcf74ac3c77cea1682317da93cba218f29821acfcf5855ec8545ec07d410.jpg",
+        "img_caption": [
+            "Fig.1Comparison of growth rate between siSelX and CK ( $\\scriptstyle ( n = 5 )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "CK- $\\mathbf { \\cdot H } _ { 2 } \\mathbf { O } _ { 2 }$ ： $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 处理对照细胞株； ${ \\mathrm { s i S e l X } } { \\mathrm { - } } \\mathrm { H } _ { 2 } \\mathbf { O } _ { 2 }$ ： $\\mathbf { H } _ { 2 } \\mathbf { O } _ { 2 }$ 处理LO2的SeIX基因沉默细胞株。下图或表同。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "siSelX: $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ challenge the LO2 cells with SelX knockdown; CK: $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ challenge control cells. The ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "same asbelow. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Effects of SelX knockdown and $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ challenge on the morphology of LO2 cells ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3SelX基因沉默及 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 处理对细胞硒蛋白基因表达的影响",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "SelX基因沉默及 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 处理对细胞硒蛋白基因表达的影响结果见图3。从图中可看出，SeIX基因在 siSeIX中mRNA的表达量显著低于对照组（ $. P { < } 0 . 0 5 )$ ，其表达量只有对照组的 $2 6 \\%$ 。在LO2 细胞株中，SelX 基因沉默使Gpx6、Txnrd2和 Seli基因的表达量显著上调（ $( P { < } 0 . 0 5 )$ ，使Dio2、Dio3、Selm和Sepw1基因的表达量显著下调（ $P { < } 0 . 0 5 )$ ； $\\mathbf { H } _ { 2 } \\mathbf { O } _ { 2 }$ 处理显著上调了Dio1基因的表达量（ $P { < } 0 . 0 5 )$ ，显著下调了Gpx2基因的表达量（ $. P { < } 0 . 0 5 )$ ；SelX基因沉默后 $\\mathbf { H } _ { 2 } \\mathbf { O } _ { 2 }$ 处理细胞 $2 . 5 \\mathrm { h }$ ，显著上调了Gpx6、Txnrd2和Dio1基因的表达量（ $\\scriptstyle P < 0 . 0 5$ )，显著下调了Txnrd3、Dio2、Selm、Sepw1和 Selv 基因的表达量（ $( P { < } 0 . 0 5 )$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/86718ef8435f6879e19ad7a9b6e31998fbb08883d94bf733bf1ac482d2293cd5.jpg",
+        "img_caption": [
+            "图2SelX基因沉默和 $\\mathbf { H } _ { 2 } \\mathbf { O } _ { 2 }$ 处理对LO2细胞株形态的影响",
+            "图3SelX基因沉默和 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 处理对LO2细胞硒蛋白基因表达的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "数据柱标不同小写字母表示差异显著（ $P { < } 0 . 0 5 \\$ ）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Data columns with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Effects of SelX knockdown and $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ challenge on selenoprotein gene expression in LO2 cells ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\scriptstyle ( n = 6 )\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4SelX基因沉默及 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 处理对细胞抗氧化酶活性影响",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "SelX基因沉默和 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 处理对LO2 细胞株中GSH-Px、SOD 活性和T-AOC 的影响结果见表2。从表中可看出，SeIX 基因沉默显著提高了LO2 细胞株中GSH-Px 的活性（ $. P { < } 0 . 0 5$ ），提高了 $6 6 . 6 \\%$ 显著提高了SOD 的活性（ $. P { < } 0 . 0 5$ ），提高了 $5 1 . 9 \\%$ ；对T-AOC无显著影响（ $\\cdot P { > } 0 . 0 5$ ）。 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 处理对LO2 细胞株中GSH-Px、SOD 活性和 T-AOC 均无显著影响（ $P { > } 0 . 0 5$ ）。SeIX基因沉默后进行$\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 处理，LO2 细胞株中GSH- $\\mathbf { \\cdot P x }$ 的活性与CK相比，显著提高了1.97倍（ $. P { < } 0 . 0 5 )$ ；SOD活性与CK相比无显著影响（ $\\cdot > 0 . 0 5$ ），但与siSelX相比却显著降低了 $1 9 . 8 \\%$ （ $P { < } 0 . 0 5 \\$ ）；T-AOC的活性与CK及siSelX相比均无显著影响（ $\\cdot P { > } 0 . 0 5$ ）。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/171767982855e997ddc20af9d07b8e84581cabae6a212d983cee9870ffb8a943.jpg",
+        "table_caption": [
+            "表2SelX基因沉默和 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 处理对LO2细胞株GSH $\\mathbf { \\cdot P x }$ 、SOD活性和T-AOC影响 able 2Effects of SelX knockdown and $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ challenge on GSH- $\\cdot \\mathrm { P x }$ , SOD activities and T-AOC in LO2 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">cells (n=6)</td><td colspan=\"3\">U/mg prot</td></tr><tr><td>项目Items</td><td>CK</td><td>siSelX</td><td>CK-H2O2</td><td>siSelX-H2O2</td></tr><tr><td>谷胱甘肽过氧化物酶GSH-Px</td><td>515.23±42.62b</td><td>858.38±124.28a</td><td>530.54±77.14b</td><td>1017.56±104.50a</td></tr><tr><td>超氧化物歧化酶 SOD</td><td>52.95±2.98bc</td><td>80.42±6.63a</td><td>40.67±2.65c</td><td>64.47±3.72b</td></tr><tr><td>总抗氧化能力T-AOC</td><td>5.51±1.81</td><td>4.88±1.03</td><td>2.84±0.14</td><td>3.82±0.54</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "同行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5 )$ ，相同或无字母表示差异不显著（ $( P { > } 0 . 0 5 )$ 0。In the same row, values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，whilewith the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "基因沉默是研究基因功能的重要手段，由于硒蛋白基因 3\"-UTR 在不同基因之间的序列同源性低，因此利用沉默技术针对硒蛋白基因3\"-UTR设计引物对其沉默表达，成为研究硒蛋白基因功能的重要手段[]。本研究在前期成功获得 SelX 基因稳定沉默 LO2 细胞株基础上，进一步探讨 SeIX 基因沉默对细胞中其他硒蛋白基因表达的影响。已知硒蛋白在维护机体正常生长、繁殖、抗氧化等方面起着重要作用。有研究发现硒蛋白基因沉默后影响细胞生长速度，Txnrd1基因沉默后降低 TMCK-1细胞生长速率约 $10 \\%$ 左右[11]；Sep15 基因沉默后显著降低 HCT116 和HT29 细胞生长速率[13]。在本研究中，SeIX基因沉默后显著降低第3\\~7天LO2细胞株的生长速率，但对细胞株的形态没有影响，$\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 处理明显导致CK和siSeIX形态发生改变。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "硒蛋白是一类特殊蛋白，目前在任何哺乳动物中已经鉴定出 25 种硒蛋白[，研究表明，硒蛋白在动物体内起着重要功能。但硒蛋白相互之间是否存在功能互补或相互调控尚不清楚，在此本研究考察了 SelX基因沉默后对其他硒蛋白基因表达的影响,结果表明,SelX 基因沉默上调了Gpx6、Txnrd2和 Seli基因的表达量，下调了Dio2、Dio3、Selm 和 Sepw1基因的表达量。在上调的硒蛋白基因中，Gpx6 基因在机体内主要起抗氧化保护机体的功能[15]；Txnrd2基因主要存在于动物体的肝脏、肾脏以及心脏组织中，其主要功能是依赖还原型烟酰胺腺嘌呤二核苷酸磷酸（NADPH）催化各种氧化还原系统（主要是核糖核苷酸还原酶的DNA 合成、转录因子调节、细胞生长等)，减少氧化的硫氧还蛋白[2]。下调的硒蛋白基因中，Dio2 和 Dio3 基因都隶属于脱碘酶家族，主要功能是参与动物体内甲状腺激素的调节，从而影响物质、能量的代谢[2]；SelX基因沉默后显著降低LO2 细胞株的生长速率，但是否是通过下调Dio2和Dio3基因而起作用尚不清楚;SeIM基因具有硫醇-二硫化物异构酶的活性，可能参与了内质网内二硫键的形成；SelW基因具有抗氧化剂或氧化还原的功能。基因在细胞中通常受到网络状调控，相互之间可能存在功能互作效应，一个基因受抑制，可能其他基因会增加表达，以弥补功能不足。SeIX 基因沉默导致其他硒蛋白基因在LO2 细胞株中上调或下调表达，预示着这些基因与 SelX基因之间可能存在功能互补或相互调控作用，但其调控机理有待进一步研究。肝脏是重要代谢器官，SeIX基因沉默是否影响肝细胞抗氧化损伤尚不清楚。ROS 过量产生是细胞氧化损伤的主要因素，而 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 是 ROS 的主要成分[16]，不同的细胞类型对 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 诱导的氧化应激的敏感性不同，同时还受 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 的浓度和处理时间的影响[12]。本试验考察了LO2 细胞中 SelX 基因沉默后，再进行$\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 氧化应激处理，对其他硒蛋白基因表达的影响。结果显示在 SeIX 基因沉默条件下进行 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 应激处理，导致LO2 细胞株中Gpx6、Txnrd2 和 Diol的表达量上调，Txnrd3、Dio2、Selm、Sepw1 和Selv 的表达量下调。其中Gpx6、Txnrd2、Dio1、Dio2、Selm 和 Sepw1在 SelX 基因沉默或 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 处理中就有显著差异表达，预示着 SelX 基因沉默和 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 对LO2 细胞株的氧化应激损伤可能具有一定的叠加作用；单独 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 应激处理时下调Gpx2表达量，SelX 基因沉默影响 Seli 和Dio3 表达量，但这3个基因在SeIX 基因沉默并伴随 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 应激处理中无显著差异表达（相对CK)，这预示着SeIX基因沉默和 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 对LO2细胞株的氧化损伤可能存在一定互补效应。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "SelX 作为重要的氧化还原酶，在抵御机体受到氧化损伤中起着重要作用[7]。我们前期研究发现，SelX基因沉默后进行 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 处理，显著提高了LO2 细胞株的凋亡率[9]。本研究中发现，SelX 基因沉默或SeIX基因沉默并伴随 $\\mathbf { H } _ { 2 } \\mathbf { O } _ { 2 }$ 处理均显著提高了LO2 细胞株中GSH-Px 和 SOD 的活性，这可能是SeIX 基因沉默后，LO2细胞株的氧化还原功能减弱，反馈性增加了GSH-Px和 SOD 的分泌来维护机体的代谢平衡。 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 单独处理对 LO2 细胞株中 GSH- $\\cdot \\mathrm { P x }$ 和 SOD 的活性没有显著影响，这与 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 处理人脐静脉内皮细胞[17]、HLE细胞[18]和 PC12 细胞[19]，使细胞中GSH-Px和 SOD 活性均显著下降结果不一致，这可能是由于本试验 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 使用浓度较低以及处理时间较短所致。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ SelX基因沉默后显著降低了肝脏LO2细胞株的生长速率。  \n$\\textcircled{2}$ SelX基因沉默及 $\\mathbf { H } _ { 2 } \\mathbf { O } _ { 2 }$ 处理影响了肝脏LO2细胞株中其他硒蛋白基因的表达。  \n$\\textcircled{3}$ SelX基因沉默及 $\\mathbf { H } _ { 2 } \\mathbf { O } _ { 2 }$ 处理影响了肝脏LO2 细胞株GSH-Px、SOD活性。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1] KRYUKOV G V,CASTELLANO S,NOVOSELOV S V,et al.Characterization of mammalian selenoproteomes[J].Science,2003,300(5624):1439-1443.   \n[2]MOGHADASZADEH B,BEGGS A H.Selenoproteins and their impact on human health through diverse physiological pathways[J].Physiology,2006,21(5):307-315.   \n[3]HUANG Z,ROSE A H,HOFFMANN PR.The role of selenium in inflammation and immunity:from molecular mechanisms to therapeutic opportunities[J].Antioxidants & Redox Signaling,2012,16(7):705-743.   \n[4] RAYMAN M P.Selenium and human health[J].The Lancet,2012,379(9822):1256-1268.   \n[5]MARCHETTI M A,PIZARRO G O,SAGHER D,et al.Methionine sulfoxide reductases B1,B2.and B3 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "are present in the human lens and confer oxidative stress resistance to lens cels[J].Investigative Ophthalmology & Visual Science,2005,46(6):2107-2112. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[6] VOGT W.Oxidation of methionyl residues in proteins:tools,targets,and reversal[J].Free Radical Biology and Medicine,1995,18(1):93-105. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[7]JIA Y,LI Y,DU S Q,et al.Involvement of MsrB1 in the regulation of redox balance and inhibition of peroxynitrite-induced apoptosis in human lens epithelial cells[J].Experimental Eye Research,2012,100:7-16. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[8]JIA Y,ZHOU J,LIU H M,et al.Effect of methionine sulfoxide reductase B1 (SelR) gene silencing on peroxynitrite-induced F-actin disruption in human lens epithelial cels[J].Biochemical and Biophysical Research Communications,2014,443(3):876-881. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[9]TANG J Y,CAO L,LI Q,et al.Selenoprotein X gene knockdown aggravated $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ -induced apoptosis in liver LO2 cells[J].Biological Trace Element Research,2016,doi:10.1007/s12011-016-0653-z. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[10]GAUTREY H,NICOL F,SNEDDON A A,et al.A T/C polymorphism in the GPX4 3'UTR affects the selenoprotein expression pattern and cell viability in transfected Caco-2 cells[J].Biochimica et Biophysica Acta: General Subjects,2011,1810(6):284-291. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[11] YOO M H,XU X M,TURANOV A A,et al.A new strategy for assessing selenoprotein function:siRNA knockdown/knock-in targeting the 3'-UTR[J].RNA,2007,13(6):921-929. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[12]HAN Y H,ZHANG Z W,Su J,et al.Effects of chicken selenoprotein W on $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ -induced apoptosis in CHO-K1 cells[J].Biological Trace Element Research,2012,147(1/2/3):395-402. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[13]TSUJI P A,NARANJO-SUAREZ S,CARLSON B A,et al.Deficiency in the $1 5 \\ \\mathrm { k D a }$ selenoprotein inhibits human colon cancer cell growth[J].Nutrients,2O11,3(9):805-817. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[14]ZHAO H,LI K,TANG J Y,et al.Expression of selenoprotein genes is affected by obesity of pigs fed a high-fat diet[J].The Journal of Nutrition,2015,145(7):1394-1401. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[15]PAPPAS A C,ZOIDIS E,SURAI P F,et al.Selenoproteins and maternal nutrition[J].Comparative Biochemistry and Physiology Part B:Biochemistry and Molecular Biology,20o8,151(4):361-372. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[16]SIMON H U,HAJ-YEHIA A,LEVI-SCHAFFER FRole of reactive oxygen species (ROS） in apoptosis induction[J].Apoptosis,2000,5(5):415-418. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[17]丁黎敏,黄小民,张卓一,等.原花青素对过氧化氢损伤内皮细胞 SOD、GSH- $\\mathbf { \\cdot P x }$ 活性的影响[J].中国中医急症，2013,22(5):714-716.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[18]ZHOU Y F,GUO B,YE MJ,et al.Protective effect of rutin against $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ -induced oxidative stress and apoptosis in human lens epithelial cells[J].Current Eye Research,2015:1-10,doi:10.3109/02713683.2015.1082186. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[19]CHEN L,SUNL J,LIU Z N,et al.Protection afforded by quercetin against $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ -induced apoptosis on PC12 celsvia activating PI3K/Akt signal pathway[J].Journal of ReceptorsandSignal Transduction,2016,36(1):98-102. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Effects of Selenoprotein X Knockdown and Hydrogen Peroxide Challenge on Selenoprotein Genes Expression and Antioxidant Enzyme Activities in Human Normal Hepatocyte ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "TANG Jiayong ZHAO Hua\\* JIA Gang LIU Guangmang CHEN Xiaoling CAI Jingyi WU ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Caimei ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(Animal Nutrition Institute, Sichuan Agricultural University, Chengdu 611130, China) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The objective of this experiment was to explore the effects of selenoprotein X（SelX）gene knockdown and hydrogen peroxide $\\mathrm { ( H } _ { 2 } \\mathrm { O } _ { 2 } )$ challenge on selenoprotein genes expression and antioxidant enzyme activities in human normal hepatocyte (LO2),for further study its roles and regulatory relationship with other selenoprotein. The LO2 cells with SelX silenced (siSelX) and the control cells (CK) kept in our lab were used to compare the cell growth rates by methylthiazolyldiphenyl-tetrazolium bromide (MTT) methods. The siSelX and CK were further exposed to $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ for $2 . 5 \\mathrm { ~ h ~ }$ ，and the mRNA levels of selenoprotein genes and activities of GSH-Px, SOD and T-AOC in cells were detected. The results showed as follows: 1） SelX knockdown significantly decreased cell growth rates in LO2 cells $( P { < } 0 . 0 5 )$ . 2) SelX knockdown significantly up-regulated Gpx6， Txnrd2， Seli genesexpression and significantly down-regulated Dio2,Dio3，Selm and Sepwl genes expression $( P { < } 0 . 0 5 )$ ： $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ challenge significantly up-regulated Diol gene expression and down-regulated Gpx2 gene expression ( $( P { < } 0 . 0 5 )$ ； SelX knockdown followed $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ challenge significantly up-regulated Gpx6, Txnrd2, Diol genes expression $( P { < } 0 . 0 5 )$ ，and significantly down-regulated Txnrd3, Dio2， Selm， Sepw1 and Selv genes expression ( $( P { < } 0 . 0 5 )$ .3） SelX knockdown significantly improved the activities of GSH- $\\mathbf { \\cdot P } \\mathbf { x }$ and SOD in LO2 cells $( P { < } 0 . 0 5 )$ . SelX knockdown followed $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ challenge further significantly improved GSH-Px activity $( P { < } 0 . 0 5 )$ In conclusion, SelX knockdown decreases the growth rate of LO2 cels and affects the expression of other selenoprotein genes with $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ challenge,also affects the activities of GSH-Px and SOD. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Key words: selenoprotein $\\mathrm { \\Delta } \\mathrm { X }$ gene; knockdown; $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ ; expression ",
+        "page_idx": 13
+    }
+]

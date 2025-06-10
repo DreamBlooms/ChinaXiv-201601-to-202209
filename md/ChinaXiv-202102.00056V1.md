@@ -1,0 +1,238 @@
+# 2005—2017年拉萨小时降水变化特征
+
+多典洛珠}²，周顺武1，郑丹'，王传辉³，赤曲1,2（1南京信息工程大学,江苏 南京210044；2 西藏自治区气象台,西藏 拉萨850000;3安徽省气象局，安徽 合肥230061)
+
+摘要：利用拉萨站2005—2017年汛期 $( 5 \sim 9$ 月)逐时地面观测资料，分析了拉萨逐年小时降水（降水量、降水频次和降水强度)的变化特征，结合谐波分析方法讨论了小时降水的日循环信号，最后对比了不同时长和等级的小时降水出现频次及其对总降水的贡献。结果表明：(1)拉萨逐年汛期小时降水以“单峰型"结构为主，峰值出现在夜间。(2)拉萨汛期小时降水变化为全日周期,其中盛夏 $7 \sim 8$ 月)期间的日循环信号最强。(3)拉萨汛期降水按持续时间可分为：短历时 $( 1 \sim 3 \mathrm { h } )$ 、中历时 $( 4 \sim 6 \mathrm { h } )$ 和长历时 $( > 6 \mathrm { h } ) _ { } 3$ 种类型，其中短(长)历时降水出现频次最多(少），但其贡献率最小（大),短历时降水的日峰值出现在下午到前半夜，而中历时和长历时降水的日峰值出现在后半夜。(4)各等级小时降水中小雨 $( 3 > r \geqslant 1 )$ 和中雨 $\scriptstyle ( r \geqslant 3 )$ 对降水总量的贡献率明显大于微雨( $\mid 1 > r \geqslant$ 0.1)，随着降水等级的上升，夜雨概率增大。
+
+关键词：小时降水；日变化；谐波分析；降水持续时间；降水等级
+
+# 文章编号：
+
+降水的日变化是气候系统最基本的变化模态之一，它以太阳辐射作为驱动力，受下垫面和地形强迫作用，对地球系统水循环和能量循环以及人类日常生活都有重要影响，基于小时尺度的降水日变化的研究，可以更加准确地理解降水的形成机制和水汽循环区域特征[2-5]。中国大陆不同区域的降水日变化存在明显的差异6；而青藏高原(以下简称高原）、平原和海洋之间的降水日变化也不同；高原中部地区逐时降水量峰值时间提前于其以东四川盆地，它们的日变化表现出从高原中部向外传播的特征[8]。这些研究表明，降水日变化存在明显的地域性差异。
+
+随着遥感和自动化观测程度的提高，越来越多的研究关注中国各地小时降水的变化特征。分析台站逐时降水资料，发现江苏、广东等地逐时降水量日峰值以下午为主[9-10];河南省区域平均逐时降水量峰值出现在早晨和傍晚"；而黑龙江降水频率最大值往往在下午和前半夜"；华南前后汛期的小时降水具有不同的日变化特征，前期呈现“双峰型”特点，后期以"单峰型"为主[13]。随着对小时降水认识的深入，有研究将小时降水按其持续时间和降水等级进行分类，雅安持续时间 $> 6 \mathrm { h }$ 的降水对总降水的贡献率为 $8 0 . 4 \%$ ,主要发生在 $1 7 { : } 0 0 \sim 0 4 { : } 0 0$ （北京时，下同)[14],而塔克拉玛干沙漠腹地持续时间 $1 \sim$ $3 \mathrm { { h } }$ 降水的贡献率达到 $6 1 . 7 6 \%$ ,最大降水量出现在23:00[15]；西安小时降水量 $> 2 \mathrm { m m }$ 的贡献率大1 $( 6 1 . 5 \% )$ ）， ${ \leqslant } 2 \thinspace \mathrm { m m }$ 的贡献率小 $( 3 8 . 5 \%$ )[16]
+
+拉萨地处雅鲁藏布江支流拉萨河中游河谷平原，属于典型的半干旱气候区，有研究指出拉萨一带是高原夜雨中心，也是降水日变化最显著的区域[17-18]。由于观测资料的限制,以往研究拉萨降水的变化基本是以季节尺度和年际尺度为主[19-20],对小时降水的关注度很小，拉萨小时降水日变化的周期是什么？不同类型降水(不同持续时间和等级)的频次和贡献率如何？它们的日循环是否存在差异？这些问题都未涉及。由于拉萨汛期(5～9月)
+
+# 干旱区地理
+
+降水占年降水总量的 $9 0 \%$ 以上[21],本文将围绕上述问题利用拉萨站汛期逐小时地面降水资料，揭示拉萨逐年汛期小时降水（降水量、降水频次以及降水强度)的日变化特征，采用谐波分析方法，定性和定量分析汛期各月降水的日循环（周期、位相和振幅），最后根据降水持续时间和降水等级的分类，揭示拉萨汛期降水的主要结构及不同类型降水事件的逐小时演变规律。
+
+# 1资料与方法
+
+# 1.1资料来源
+
+拉萨站属于国家基本观测站。文中所用的资料为该站2005—2017年逐小时降水量，该数据由西藏自治区气象信息中心提供，已经过严格的质量控制。
+
+在对数据进行分析和处理时，如果小时降水量${ \geqslant } 0 . 1 \ \mathrm { m m }$ ，就认为该小时有降水发生，小时降水量是研究时段内同时刻降水量的累积值；小时降水频次是研究时段内同时刻降水出现的次数；小时降水强度是小时降水量和频次的比值22；降水持续时间是指当某一次降水发生时次后连续 $2 \mathrm { { h } }$ 没有出现降水则定义为一次降水过程的结束，并将该降水过程开始至结束时刻的小时数定义为持续时间[23]；贡献率是指分析时段内不同类型降水的累积量占总降水量的百分比[24]。将每日 $2 4 \mathrm { h }$ 按西藏时区分成4个时段：上午（ $0 8 { : } 0 0 \sim 1 3 { : } 0 0 )$ 、下午（ $1 4 { : } 0 0 \sim 1 9 { : } 0 0 \$ ）、前半夜 $( 2 0 { : } 0 0 \sim 0 1 { : } 0 0 )$ 、后半夜 $( 0 2 { : } 0 0 \sim 0 7 { : } 0 0$ )。
+
+# 1.2谐波分析方法
+
+谐波分析可将基本周期为已知的周期现象分离出来，同时又能通过振幅和位相来加以定量描述，便于各种周期现象的差异分析和比较。利用该方法，分析拉萨逐月平均小时降水量、降水频次、降水强度的日变化特征，其公式如下：
+
+$$
+y ( t ) = y _ { 0 } + \sum _ { k = 1 } ^ { n } A _ { k } \sin ( \omega _ { k } t + \sigma _ { k } ) =
+$$
+
+$$
+y _ { 0 } + \sum _ { k = 1 } ^ { n } ( a _ { k } \cos \omega _ { k } t + b _ { k } \sin \omega _ { k } t )
+$$
+
+式中： $y ( t )$ 表示 $\mathbf { \Phi } _ { t }$ 时刻某要素值; $y _ { 0 }$ 为 $\mathbf { \chi } _ { t }$ 时刻的日平均值；文中 $n$ 取2，分别代表 $2 4 \mathrm { h }$ 和 $1 2 \mathrm { h }$ 的谐波； $A _ { k }$ 为振幅； $\sigma _ { k }$ 为位相； $\scriptstyle { \omega _ { k } = 2 \pi k / N }$ 为圆频率； $N$ 为样本量。另外，分解出来的谐波是否有统计意义需进行显著性检验，本文采用离散功率谱检验方法( $F$ 检验)对各个谐波进行显著性检验[25]
+
+# 2小时降水日变化的基本特征
+
+图1分别给出2005—2017年拉萨汛期小时降水量、降水频次和降水强度的逐年和多年累积值的日变化。由图1a可见，拉萨降水量日变化特征非常明显，降水主要集中在夜间，年平均夜间降量为$4 2 5 . 3 ~ \mathrm { m m }$ ，占日降水总量的 $8 4 \%$ ,其中 $2 3 { : } 0 0 \sim 0 6 { : } 0 0$ 是降水最多的时段，从多年累积曲线看，呈现“单峰型"结构分布，其中05:00出现了最高峰，最低值出现在15:00。从降水频次(图1b)上看，也呈现明显的昼少夜多的分布特征，其中年平均降水频次为293次，一年中 $7 7 \%$ 的降水出现在夜间， $0 { : } 0 0 \sim 0 8 { : } 0 0$ 是频次最多的时段，多年累积日变化曲线为“单峰型”，降水频次最多的时间与降水量的峰值时间相/ 600 400 /200 (a)降水量 200 (b)降水频次 (c)降水强度2017 2015 6050 2017 2015 36 2015 湖 102013 2013 30 20132011 40 30 2011 24 18 20112009 20 2009 12 20092007 10 2007 20072005 2005 2005品品品品品品品品 .00 品名名品名名 .00X X X时间 时间 时间
+
+同，为05:00,降水频次最少的时间是 $1 7 { : } 0 0$ 。值得注意的是，近几年降水量和降水频次有所增多，且峰值出现的时间有向后半夜 $( 0 3 { : } 0 0 \sim 0 7 { : } 0 0 )$ 推迟的趋势。从小时降水强度(图1c)日变化特征来看，多年累积曲线呈现“双峰型"结构，在下午和夜间出现了峰值，这是因为这些年在下午时段出现了短时强降水，但频次较少，出现降水强度大值，比如：图1c中2009年的17：00降水强度出现的极值是一次降水事件（2009年8月19日 $1 7 { : } 0 0 \ 1 0 . 3 \ \mathrm { m m }$ )造成的。根据统计，多年下午( $1 5 { : } 0 0 \sim 1 9 { : } 0 0 \rangle$ 出现的降水频次占总降水频次的 $5 \%$ ,属于小概率事件，因此下午的峰值只能说明拉萨降水强度的异常情况，不能代表平均状况。
+
+综合分析，拉萨降水呈现昼少夜多的分布特征且逐年小时降水量、降水频次和降水强度以“单峰型"结构为主。形成这种结构的原因与高原大气环流和拉萨独有的地形特征有关，高原大气环流具有显著的日变化,它是被太阳辐射日变化所驱动[26],而拉萨位于河谷地带，环绕河谷的山脉海拔较高（约为 $5 0 0 0 { \mathrm { ~ m } } ,$ )，白天由于谷底水体热容量较大，增温幅度明显小于其两侧山坡，近地层大气较稳定，不易产生降水;夜间由于山坡处地表长波辐射冷却比水体大，山坡近地层的冷空气沿坡体下移到谷底时将河谷附近的暖湿气流抬升冷却凝结致雨，从而导致夜雨的发生[17],因此,拉萨降水的"单峰型"正是在这样的天气背景下产生的。
+
+# 3小时降水的谐波分析结果
+
+# 3.1小时降水量的谐波分析结果
+
+为了进一步分析拉萨逐月降水日变化的周期信号及强弱，对拉萨汛期逐月小时降水量进行13a的算术平均，并采用谐波分析方法提取各自的主要波动。表1可以看出，各月日循环的方差贡献率均通过0.01的显著性检验，平均达到 $8 9 . 4 \%$ ,而半日循环的方差贡献率均非常小，平均只有 $5 . 4 \%$ ，说明拉萨小时降水量以全日周期为主。各月中夏季( $( 6 \sim 8$ 月)的方差贡献率明显大于其他月份，其中8月方差贡献率最大，5月最小，从振幅上看，夏季的平均振幅 $\left( 5 . 6 ~ \mathrm { m m } \right)$ 也明显高出整个汛期的平均振幅(4.2$\mathbf { m } \mathbf { m }$ 。
+
+图2给出了逐月小时降水量的原始序列(实线)
+
+# 表1汛期各月平均小时降水量的谐波分析结果
+
+Tab.1 Harmonic analysis results of the average hourly precipitation in each month of the flood season   
+
+<html><body><table><tr><td rowspan="2">月份</td><td colspan="3">第一波(24h周期)</td><td colspan="3">第二波(12h周期)</td></tr><tr><td>S/%</td><td>A/mm</td><td>0</td><td>S1%</td><td>A/mm</td><td>0</td></tr><tr><td>5月</td><td>82*</td><td>1.4</td><td>03:00</td><td>11.5</td><td>0.5</td><td>03:00</td></tr><tr><td>6月</td><td>91.2*</td><td>4.2</td><td>03:00</td><td>4.8</td><td>1</td><td>04:00</td></tr><tr><td>7月</td><td>91.1*</td><td>6.8</td><td>03:00</td><td>5.9</td><td>1.7</td><td>01:00</td></tr><tr><td>8月</td><td>94.5*</td><td>5.9</td><td>02:00</td><td>2</td><td>0.9</td><td>00:00</td></tr><tr><td>9月</td><td>88.1*</td><td>2.5</td><td>03:00</td><td>3</td><td>0.5</td><td>03:00</td></tr></table></body></html>
+
+注：S为方差贡献率，A为振幅， $\sigma$ 为达到第一个峰值的时间，\*表示通过0.01的显著水平
+
+和日循环曲线(虚线)的变化情况。由图可见，各月小时降水量的日变化均呈“单峰型"分布，其中小时降水量最大的月份是7月，峰值达到 $1 5 . 8 ~ \mathrm { m m }$ ，出现在01:00，最小的月份是5月，只有 $3 . 9 ~ \mathrm { m m }$ ，出现在03:00，日循环曲线能较好的拟合各月小时降水量的变化。
+
+# 3.2小时降水频次谐波分析结果
+
+用同样的方法对拉萨汛期逐月小时降水频次进行分析。根据表2所示，全日周期信号占有绝对优势，方差贡献率均通过0.01的显著性检验，平均达到了 $9 6 . 2 \%$ ,其中盛夏( $7 \sim 8$ 月)的方差贡献率最大，两个月均达到 $9 8 . 5 \%$ ，初夏5月的方差贡献率仍然最小，从振幅上看，盛夏期间的平均振幅(3.8次)明显大于整个汛期平均值(2.5次），说明，降水越多的月份小时降水的变化幅度越大。
+
+图3展示了逐月小时降水频次日变化(实线)和日循环曲线(虚线)的拟合情况，可以看出，小时降水频次的“单峰型"结构非常明显，峰值出现的时间逐月呈现超前和滞后的交替变化特点，主要出现在$0 { : } 0 0 \sim 0 5 { : } 0 0$ 之间，第一波也能较好的拟合各月小时降水频次的演变特征，波峰和波谷的走向均较为一致。
+
+# 3.3小时降水强度谐波分析结果
+
+根据小时降水强度的谐波分析结果(表3），各月的方差贡献率总体来看明显低于小时降水量和小时降水频次的方差贡献率，平均为 $5 6 . 6 \%$ ，除7月达到 $7 3 . 4 \%$ 之外，5月和6月均在 $5 0 \%$ 以下，即便如此，各月日循环的方差贡献率仍然能通过0.01的显著性检验，而半日循环的方差贡献率在5月和6月达到了 $1 5 \%$ 以上，其他月份均在 $4 \%$ 以下，说明拉萨小时降水强度的日变化仍然以全日循环信号为主，
+
+![](images/3118d6a9d612e9c2e1a251d356c6644bba129c655d2e8dbf5cb69587c374be2b.jpg)  
+注：图中实线为原始序列的日变化曲线，虚线为谐波分析第一波的合成曲线图2拉萨2005—2017年逐月平均小时降水量的演变及日循环曲线  
+Fig.2Evolution and harmonic analysis of the average monthly precipitation in Lhasa from 2Oo5 to 2017
+
+# 表2汛期各月平均小时降水频次的谐波分析结果
+
+Tab.2Harmonic analysis results of the average hourly precipitation frequency in each month of the flood season   
+
+<html><body><table><tr><td rowspan="2">月份</td><td colspan="3">第一波(24h周期)</td><td colspan="3">第二波(12h周期)</td></tr><tr><td>S1%</td><td>A/次</td><td></td><td>S1%</td><td>A/次</td><td>0</td></tr><tr><td>5月</td><td>91.5*</td><td>1</td><td>03:00</td><td>0.9</td><td>0.1</td><td>03:00</td></tr><tr><td>6月</td><td>96.5*</td><td>2.2</td><td>04:00</td><td>0.3</td><td>0.1</td><td>08:00</td></tr><tr><td>7月</td><td>98.5*</td><td>3.9</td><td>04:00</td><td>0.2</td><td>0.2</td><td>01:00</td></tr><tr><td>8月</td><td>98.5*</td><td>3.7</td><td>04:00</td><td>0.2</td><td>0.1</td><td>10:00</td></tr><tr><td>9月</td><td>95.8*</td><td>1.8</td><td>04:00</td><td>0.1</td><td>0.1</td><td>04:00</td></tr></table></body></html>
+
+注：S为方差贡献率，A为振幅， $\sigma$ 为达到第一个峰值的时间，\*表示通过0.01的显著水平
+
+其中初夏带有半日循环信号但不显著。
+
+图4刻画了拉萨平均逐月小时降水强度的日变化（实线)及第一个谐波拟合曲线（虚线），由图可见，拉萨小时降水强度的日变化波动频繁，其中5月和7月为“单峰型”，峰值分别出现在03:00时和01:00时，其余月份呈现 $1 7 { : } 0 0 \sim 1 8 { : } 0 0$ 和 $0 1 { : } 0 0 \sim 0 4 { : } 0 0$ 的“双峰型"分布，各月中拟合效果最好的是7月份。
+
+总体来看，拉萨近13a逐月小时降水日变化以全日循环信号为主，其中盛夏期间的日循环信号最强，振幅最大。拉萨位于东一西走向为主的山间盆地河谷地带，类似半开口地形，已有研究指出在半开口地形午后积雨云的形成与大气水汽含量的日变化密切相关，水汽达到日最大值的时间早（晚），积雨云形成时间就早（晚）27；梁宏等28分析指出拉萨大气水汽含量的日循环信号在夏季最强，日变化幅度也最大。因此,在拉萨独特地形和大气水汽含量的共同作用下形成了盛夏降水日循环的强信号和稳定结构。
+
+# 4不同持续时间小时降水变化特征
+
+# 4.1不同持续时间降水事件的频次及贡献率
+
+一般情况下，降水持续性是分离稳定性和不稳定性降水的关键因子[29]。由于拉萨近13a持续时间$1 \sim 1 5 \mathrm { ~ h ~ }$ 的降水累积降水量占降水总量的 $9 8 \%$ ，因此，本文主要对持续时间 $1 \sim 1 5 \mathrm { ~ h ~ }$ 的降水进行分析。图5给出拉萨汛期不同持续时间降水出现的频次和降水贡献率，如图所示，降水频次(实线)随着持续时间的增加而下降，特别是持续时间在 $1 \sim 3 \mathrm { ~ h ~ }$ 的频次下降幅度非常大，超过 $^ 3 \mathrm { ~ h ~ }$ 以后下降幅度变小，而贡献率(虚线)的变化则波动较大，随着持续时间的增加先升后降。整体上看持续1h的降水最易出现（406次），持续 $1 5 \mathrm { ~ h ~ }$ 的降水出现次数最少（3
+
+![](images/2e85a9ed9b29c20e103ac13af516ce8f47286052f041bdb023b59715aae2044d.jpg)  
+图3拉萨2005—2017年逐月平均小时降水频次的演变及日循环曲线  
+'ig.3Evolutionand harmonic analysis of the averagemonthly precipitation frequency in Lhasa from 2O05 to 201
+
+# 表3汛期各月平均小时降水强度的谐波分析结果
+
+Tab.3 Harmonic analysis results of the average hourly precipitation intensity in each month of the flood season   
+
+<html><body><table><tr><td rowspan="3">月份</td><td colspan="3">24h周期</td><td colspan="3">12 h周期</td></tr><tr><td>S/%</td><td>A/mm ·h-1</td><td>0</td><td>S/%</td><td>A/mm·h-1</td><td>0</td></tr><tr><td>5月</td><td>46.2*</td><td>0.4</td><td>03:00</td><td>16.4</td><td>0.2</td><td>03:00</td></tr><tr><td>6月</td><td>43.2*</td><td>0.6</td><td>01:00</td><td>19.3</td><td>0.4</td><td>06:00</td></tr><tr><td>7月</td><td>73.4*</td><td>0.6</td><td>01:00</td><td>3.9</td><td>0.1</td><td>12:00</td></tr><tr><td>8月</td><td>55.7*</td><td>0.6</td><td>23:00</td><td>6.7</td><td>0.2</td><td>07:00</td></tr><tr><td>9月</td><td>64.3*</td><td>0.4</td><td>03:00</td><td>1.3</td><td>0.1</td><td>02:00</td></tr></table></body></html>
+
+注：S为方差贡献率，A为振幅， $\sigma$ 为达到第一个峰值的时间，\*表示通过0.01的显著水平
+
+次），贡献率最高的是持续 $^ { 4 \mathrm { h } }$ 的降水（ $( 1 0 . 7 \% )$ ，贡献率最低的是持续 $1 5 \mathrm { h }$ 的降水 $( 1 \% )$ 。
+
+将上述不同持续时间的降水事件归纳为3种类型：短历时 $( 1 \sim 3 \mathrm { h } )$ 、中历时 $( 4 \sim 6 \mathrm { h } )$ 和长历时（ $> 6$ h)[30],发现在3种类型中短历时降水的累积频次最多（803次），而贡献率最低 $( 2 0 . 5 \% )$ )；中历时降水的累积频次和贡献率均次之；长历时降水的累积频次最少(212次），但贡献率为最大 $( 5 1 . 7 \% )$ 。
+
+# 4.2不同持续时间降水事件的日变化特征
+
+进一步分析拉萨不同持续时间降水的日变化。图6给出了2005—2017年拉萨小时降水量和降水频次随降水持续时间变化的剖面图，可以看出不同持续时间的日变化差异明显，从小时降水量来看(图6a),短历时降水的大值区出现在 $1 7 { : } 0 0 \sim 0 { : } 0 0$ 其中持续时间 $2 \mathrm { h }$ 的降水峰值达到了 $5 5 . 1 ~ \mathrm { m m }$ ，出现在18:00时，中历时和长历时降水的大值区则出现在 $0 2 { : } 0 0 \sim 0 6 { : } 0 0$ ,两个时段相差 $6 \mathrm { { h } }$ 左右。从小时降水频次上看(图 $6 \mathrm { b }$ )，短历时降水的频次大值区出现在 $2 1 { : } 0 0 \sim 0 1 { : } 0 0$ ，中历时降水频次的峰值出现在$0 2 { : } 0 0 \sim 0 4 { : } 0 0$ ，长历时降水的峰值则出现在 $0 3 { : } 0 0 \sim$ 06:00，三者呈现"阶梯式"分布。
+
+综上分析，随着降水持续时间的增加，小时降水的峰值时间由下午推迟到了后半夜，其中，短历时降水最易出现在下午到前半夜，而中历时和长历时降水主要集中在后半夜。
+
+# 5 不同等级小时降水变化特征
+
+# 5.1不同等级小时降水频次及贡献率
+
+根据小时降水量的多少将拉萨小时降水划分为3个等级[31]，表4给出了各自的标准、出现频次和贡献率，可以看出近13a的3个等级降水中微雨的频次最多，达到小雨的2倍，中雨的4倍，但是其对降水总量的贡献率最小，相反，小雨和中雨虽然频次少，但是贡献率明显大于微雨，说明，拉萨降水总量主要是由小雨和微雨累积而成的，两者的累积贡
+
+2.1 1.4 2.8 1.8 2.4 1.812 （a)5月 1.2 / / 2420 (b)6月 16 2.0 （c）7月 1.6 ./1.0 1.6 1.2 1.6 1.2 1.4800 12844 1088 128 10880600.0 0.4 0.0 0.6 0.4.00 .00 0 0 .00 4:00 .0 0 0 0 14:00 .0 .00 0 .0 .0 14:00% 2 06: 0 14:0 14: 8 22: 02 06: 0 14: b 02:0 6 8时间 时间 时间2.8 2.0 1.8 1.4.mm/ 2 (d)8月 18160 / m/ 1.5 (e)9月 1.2 /1.6 1.4 1.2 1.01.2 1.2 0.9 0.80 108 0.6 0.60.0 0.6 0.3 0.414:0 .00 1822002060 10 14:00 14: 186 10 14:00时间 时间
+
+![](images/6ff74162f93d1c16aacc86f1aed7882c07ba18198a50e3070b634a686ad1d782.jpg)  
+图4拉萨2005—2017年逐月平均小时降水强度的演变及日循环曲线  
+Fig.4Evolutionand harmonicanalysisof the average monthly precipitation intensityin Lhasa from 2Oo5 to 2017   
+图5拉萨2005—2017年汛期不同降水持续时间出现的累积频次、贡献率  
+Fig.5Cumulative frequency,contribution rate of different precipitation durations during flood season inLhasa from 2005 to 2017
+
+献率达到 $8 4 . 4 \%$ 。微雨虽然最容易出现，但其对降水总量的贡献率最小，而中雨出现频次最少，但贡献率最高。
+
+# 5.2不同等级小时降水的日变化特征
+
+图7展示了汛期不同等级小时降水量的日变化，可以看出，不同等级的降水量的日变化差异明显，微雨的小时降水量出现时间较为分散，呈现“多峰型"特点，峰值出现的时间在 $2 3 { : } 0 0 \sim 0 8 { : } 0 0$ ，小雨的日变化曲线为“单峰型”，峰值出现在05:00左右，降水强度最大的中雨有两个峰值，一般出现在0：00和04:00，结合第2小结中的分析，可以看出小时降水总量的日变化位相与小雨和中雨的日变化位相基本一致，再次说明了拉萨汛期小雨和中雨对降水总量的日变化具有较大的贡献。
+
+图8为不同等级降水事件的降水频次日变化，虽然各等级降水均呈现明显的夜雨特征，但不同强度的降水的出现时间不同，微雨出现的时间为 $2 0 { : } 0 0 \sim$ 次日11:00，小雨和中雨出现时间明显短于微雨，两者的高值区分别出现在 $0 { : } 0 0 \sim 0 8 { : } 0 0$ 之间和 $2 3 { : } 0 0 \sim$ 05:00之间，微雨的夜雨概率(夜雨频次占总频次的比例)为 $7 0 \%$ ，小雨和中雨分别为 $8 0 \%$ 和 $9 0 \%$ ，说明，强降水更容易在夜间出现，这个结论与余忠水在夜雨分析中得出的拉萨夜雨率随着降水量增加而明显增大一致。
+
+总之，拉萨近 $1 3 \mathrm { ~ a ~ }$ 小雨和中雨日变化对降水总量的贡献率明显大于微雨且随着降水等级的上升夜雨概率增大。
+
+# 6结论和讨论
+
+利用拉萨2005—2017年汛期逐小时降水资料分析了逐年汛期小时降水（降水量、降水频次以及降水强度)的日变化特征并讨论了逐月日循环信号的强弱，此外，利用降水持续时间和降水等级分析了不同类型降水事件的频次和贡献率，得出以下主
+
+![](images/792e465718509e94d77e95ce0a45b97ec3b81e1008cc29ecf0ba62d66981ad7a.jpg)  
+注：上方曲线分别为2005—2017年累积降水量和累积降水频次  
+图6拉萨2005—2017年汛期不同持续时间的小时累积降水量和累积降水频次的分布Fig.6Distribution of hourly cumulative precipitation and cumulative precipitation frequency indifferent durations of Lhasa from 2Oo5 to 2007  
+注：上方曲线分别为2005—2017年不同等级降水的累积降水量  
+图7拉萨2005—2017年汛期不同等级降水的小时累积降水量分布
+
+# 表42005—2017年汛期不同等级降水的
+
+# 13a累积频次、贡献率
+
+Tab.4 13 a cumulative frequency and contribution rate of different levels of precipitation in flood season from 2005 to 2017   
+
+<html><body><table><tr><td>降水等级</td><td>分类标准/mm</td><td>累积出现频次/次</td><td>贡献率/%</td></tr><tr><td>微雨</td><td>1>r≥0.1</td><td>2 771</td><td>15.6</td></tr><tr><td>小雨</td><td>3>r≥1</td><td>1206</td><td>34.7</td></tr><tr><td>中雨</td><td>r≥3</td><td>602</td><td>49.7</td></tr></table></body></html>
+
+# 要结论：
+
+（1）拉萨汛期逐年小时降水量、降水频次和降水强度的日变化以“单峰型"为主，前两者峰值一般出现在后半夜，后者峰值出现在前半夜，谷值均出现在下午。
+
+(2）全日循环是各月降水日变化的主要周期信号，方差贡献率均通过了0.01的显著性检验，其中降水频次的平均方差贡献率最高，达到了 $9 6 . 2 \%$ ，在各月中盛夏期间的日循环信号最强，振幅也最大，特别是盛夏降水频次的方差贡献率平均达到$9 8 . 5 \%$ 。
+
+（3）近13a拉萨短历时（ $( 1 \sim 3 \mathrm { h } )$ 降水出现频次最多，贡献率最低，长历时( $\mathit { \Omega } > 6 \mathrm { \ : h }$ 降水出现频次最少，贡献率最高，短历时降水的日峰值出现在下午到前半夜，而中历时和长历时降水的日峰值出现在后半夜。
+
+（4）在拉萨不同等级小时降水中，微雨的降水频次最多，但贡献率最小，中雨的频次最少，但是贡献率最大;微雨的日变化峰值时间较为分散，主要出现在下午到次日上午，小雨和中雨集中在夜间，降水等级越高夜雨概率越大。
+
+F / 180 (b)小雨 自60201798 2015- 282420161284 4842363024181262013  
+2011 金 2011 公有 2011  
+2009- 432 2009- 2009  
+2005 2005 2005  
+00 0 :00 8888 ：00 品品品品品品名 :00时间 时间 时间
+
+Fig.7DistrbutionofhourlycumulativeprecipitationofdiferentlevelsprecipitationdurigfloodseasonfromOO5toOl7inLhasa
+
+310 (a)微雨 有 29603 (b)小雨 有 604020 (c)中雨  
+2017- 2017 2017-  
+2015- 24218151 2015 411086 2015  
+2013- 2013 2013-  
+有 2011 2011 2011  
+2009- 963 2009 2009  
+2007- 2007 42 2007-  
+2005 2005 2005：00 8 :00 1名品884时间 时间 时间
+
+本文利用近13a拉萨小时降水资料，分析了逐年小时降水的日变化特征和逐月周期信号强弱，对比了不同类型(不同持续时间和等级)降水事件的出现频次和贡献率以及它们的日变化差异，获得了拉萨地区小时降水变化特征的一些新的认识，对深入了解高原半干旱地区降水日变化具有一定的参考意义。但限于所用研究资料的年限较短，难以揭示汛期小时降水的长期变化趋势，另外，高原地形复杂，关于拉萨小时降水特征分析的相关结论是否也适用于其他区域需要在今后的工作中进行验证。
+
+# 参考文献(References)
+
+[1] 宇如聪,李建,陈昊明,等.中国大陆降水日变化研究进展[J].气 象学报,2014,72(5): 948-968.[YU Rucong,LI Jian,CHEN Haoming,et al.Progress in studies of the precipitation diurnal variation over contiguous China[J].Acta Meteorologica Sinica,2O14,72 (5): 948-968.]   
+[2] ZHENG YG,GONG Y D,CHEN J.Warm-season diurnal variations of total,stratiform,convective,and extreme hourly precipitation over central and eastern China[J].Advances in Atmospheric Sciences,2019,36(2): 143-159.   
+[3] YUNFF,XIAOP,YUANJ,etal.Climatological characteristics of summer precipitation over East Asia measured by TRMM PR:A review[J].JMeteor Res,2017,31(1),142-159.   
+[4] GANY T,LI N N,LI J.Differences in the rainfall characteristics between Mount Tai and its surrounding areas[J].J Meteor Res, 2019,33(5): 976-988.   
+[5] PAN H,CHEN G X.Diurnal variations of precipitation over north China regulated by the mountain- plains solenoid and boundarylayer inertial oscillation[J].Advances in Atmospheric Sciences, 2019,36(8): 863-884.   
+[6] 宇如聪,李建.中国大陆日降水峰值时间位相的区域特征分析   
+:005 to 2017 in Lhasa [J].气象学报,2016,74(1): 18-30.[YU Rucong,LI Jian.Regional characteristics of diurnal peak phases of precipitation over contiguous China[J].Acta Meteorologica Sinica,2016,74(1):18-30.]   
+[7]胡亮,杨松,李耀东.青藏高原及其下游地区降水厚度季、日变 化的气候特征分析[J].大气科学,2010,34(2):387-398.[HU Liang,YANG Song,LI Yaodong.Diurnal and seasonal climatology of precipitation depth over Tibetan Plateau and its downstream regions[J]. Chinese Journal of Atmospheric Sciences,2010,34(2): 387-398.]   
+[8]白爱娟,刘晓东,刘长海,等.青藏高原与四川盆地夏季降水日 变化的对比分析[J].高原气象,2011,30(4):852-859.[BAI Aijuan,LIU Xiao dong,LIU Changhai,et al. Contrast of diurnal variations of summer precipitation between the Tibetan Plateau and Sichuan Basin[J]. Plateau Meteorology,2011,30(4): 852-859.]   
+[9]费启乐,杨建全,阿不都外力·阿不力克木,等.江苏南部汛期降 水日变化特征分析[J].气象科学,2014,34(6):678-683.[FEI Qili,YANG Jianquan,ABULIKEMU Abuduwaili,et al. Characteristics analysis on diurnal variation of precipitation in flood season of southern Jiangsu[J]. Journal of the Meteorological Sciences,2014, 34(6): 678-683.]   
+[10] 伍红雨,李春梅,刘蔚琴.1961—2014年广东汛期小时强降水 的日变化特征[J].中山大学学报(自然科学版),2018,57(5):10- 18.[WU Hongyu,LI Chunmei,LIU Weiqin. The characteristics of diurnal variations of hourly heavy precipitation in flood seasons in Guangdong during 1961—2014[J]. Acta Scientiarum Naturalium Universitatis Sunyateni,2018,57(5): 10-18.]   
+[11]王新伟,杜明哲,肖瑶.河南省汛期降水的日变化特征[J].干旱 气象,2018,36(3):383-389.[WANG Xinwei,DU Mingzhe,XIAO Yao.Diurnal variations of precipitation in flood season of Henan Province[J]. Journal of Arid Meteorology,2018,36(3): 383-39.]   
+[12] 张洪玲,尹嫦娇,魏磊,等.黑龙江省汛期逐时降水的时空变化 特征分析[J].冰川冻土,2016,38(5):1258-1263.[ZHANG Hongling,YIN Changjiao,WEI Lei, et al. Temporal and spatial variations of hourly precipitation in Heilongjiang Province in the flood season[J].Journal of Glaciology and Geocryology，2O16,38(5): 1258-1263.]   
+[13] 李德帅.基于逐小时资料的华南地区汛期降水时空变化特征及 其成因研究[D].兰州:兰州大学,2016.[LIDeshuai.Research on the spatiotemporal characteristics of hourly precipitation over south China during the warm season and its possible causes[D]. Lanzhou: Lanzhou University,2016.]   
+[14] 周长艳,肖安,高文良.2004—2013年"雨城"雅安的降水日变 化特征分析[J].冰川冻土,2015,37(6):1524-1533.[ZHOU Changyan, XIAO An,GAO Wenliang.Analysis of the diurnal variation features of precipitation in Ya'an as the rainy city,2004— 2013[J].Jourmal of Glaciologyand Geocryology，2015,37(6): 1524-1533. ]   
+[15] 周雪英,贾健,刘国强.1997—2017年塔克拉玛干沙漠腹地降 水特征[J].中国沙漠,2019,39(1):187-194.[ZHOU Xueying, JIA Jian, LIU Guoqiang. Characteristics of precipitation at hinterland of Taklimakan Desert during 1997—2017[J]. Journal of Desert Research,2019,39(1): 187-194.]   
+[16]孙娴,魏娜,王式功,等.西安夏季降水的日变化特征研究[J].冰 川冻土,2013,35(5):1176-1182.[SUN Xian,WEI Na,WANG Shigong,et al. Study of the daily variation of summer precipitation in Xi'an[J]. JournalofGlaciologyandGeocryology2013,35(5): 1176-1182.]   
+[17]余忠水,康世昌,蒋建莹.青藏高原夏季夜雨率空间分布及其变 化特征[J].山地学报,2011,29(5):627-632.[YU Zhongshui, KANG Shichang, JIANG Jianying. Spatial and temporal variations of the night-rain rate during summer over the Tibetan Plateau[J]. Journal of Mountain Science,2011,29(5): 627-632.]   
+[18] 列杰班宗,罗布,王伟.西藏地区气象自动站夏季逐时降水资料 特征分析[J].高原山地气象研究,2012,32(2):77-80.[LIE Jiebanzong,LUO Bu,WANG Wei. Analysis on hourly variation of precipitation in Tibet[J].Plateau and Mountain Meteorology Research,2012,32(2): 77-80.]   
+[19]尼玛吉,杨勇,次珍,等.1981—2010年拉萨市降水特征分析 [J].中国农学通报,2014,30(17): 262-266.[NI Maji,YANG Yong, CI Zhen,et al.Analysis on change characteristics of precipitation in Lhasa from 1981 to 2O10[J]. Chinese Agricultural Science Bulletin,2014,30(17): 262-266.]   
+[20] 罗布,智海,索朗塔杰,等.印度洋偶极子中的西极子对西藏高 原盛夏降水的影响[J].干旱区地理,2020,43(3):909-919. [LUO Bu, ZHI Hai,SUOLangtajie,et al.Interannual variabilityof midsummer precipitation over Tibet Plateau associated with the western pole of Indian Ocean Dipole[J].Arid Land Geography, 2020,43(3): 909-919.]   
+[21] 周顺武,王传辉,杜军,等.青藏高原汛期降水的时空分布特征 [J].气候与环境研究,2011,16(6):723-732.[ZHOU Shunwu, WANG Chuanhui, DU Jun,et al. Characteristics of spatial and temporal distribution of precipitation in flood season over the Tibetan Plateau[J]. Climatic and Environmental Research,2O11,16 (6): 723-732.]   
+[22] 张宏芳,李建科,潘留杰,等.陕西暖季降水的日变化特征及南 北差异[J].干旱区地理,2020,43(4):889-898.[ZHANG Hongfang,LI Jianke,PAN Liujie,et al. Diurnal variation characteristics and north- south differences of precipitation in warm season in Shanxi Province[J]. Arid Land Geography,2020,43(4): 889-898.]   
+[23] 黄秋霞,赵勇,何清,等.伊宁市主汛期降水日变化特征[J].干旱 区研究,2015,32(4):742-747.[HUANG Qiuxia, ZHAO Yong, HE Qing,et al.Daily variations characteristics of rainfallin flood season in Yining City[J]. Arid Zone Research,2015,32(4): 742- 747.]   
+[24] 郑博华,陈胜,吕新生.喀什地区降水(雨雪)的日变化特征[J]. 干旱区地理,2020, $4 3 ( 1 ) : 1 0 8 - 1 1 6$ ：[ZHENG Bohua, CHEN Sheng,LYU Xinsheng.Interdiurnal variation characteristicsof precipitation (rain and snow) in Kashi Prefecture[J].Arid Land Geography,2020,43(1): 108-116.   
+[25]丁裕国,江志红.气象数据时间序列信号处理[M].北京气象出 版社,2002: 32-37.[DING Yuguo,JIANG Zhihong. The signal processing of time series of meteorological data[M].Beijing Meteorological Press,2002: 32-37.]   
+[26] 刘新,王军,吴国雄,等.欧亚地形对夏季南亚大气环流日变化 影响的数值模拟研究[J].大气科学,2007,31(3):389-399.[LIU Xin,WANG Jun,WU Guoxiong,et al.Numerical modeling of the influence of Eurasian orography on the diurnal change of summer atmospheric circulation[J]. Chinese Journal of Atmospheric Sciences,2007,31(3): 389-399.]   
+[27] IWASAKI H, MIKI T. Diurnal variation of convective activity and precipitable water over the“semi-basin": Preliminary study on the mechanism responsible for the evening convective activity maximum[J]JMeteor Soc Japan,2002,80(3): 439-450.   
+[28] 梁宏,刘晶淼,张人禾,等.拉萨河谷大气水汽日变化特征[J].水 科学进展,2010,21(3):335-342.[LIANG Hong,LIU Jingmiao, ZHANG Renhe,et al. Diurnal variations of atmospheric water vapor in Lhasa River valley[J]. Advances in Water Science,2010,21 (3): 335-342.]   
+[29] YU R C, ZHOU T J, XIONG A Y,et al. Diurnal variations of summer precipitation over contiguous China[J]. Geophys Res Lett, 2007,34(1): 223-234.   
+[30] 计晓龙,吴昊旻,黄安宁,等.青藏高原夏季降水日变化特征分 析[J].高原气象,2017,36(5):1188-1200.[JI Xiaolong,WU Haomin,HUANG Anning,etal. Characteristics ofthe precipitation diurnal variation over Qinghai- Tibetan Plateau in summer[J].Plateau Meteorology,2017,36(5): 1188-1200.]   
+[31] 沈志强,卢杰,华敏,等.西藏拉萨达孜夏季降水日变化特征[J]. 山地学报,2016,34(4): 409-414. [SHEN Zhiqiang,LU Jie,HUA Min,et al.Diurnal variation of precipitation in summer in Dazi County of Tibet[J]. Mountain Research,2016,34(4): 409-414.]   
+[32] 余忠水.1955—2007年拉萨市雨季夜雨率变化特征[J].气象, 2011,37(12):584588.UZogsh.Teighrate tions of Lhasa in rainy season during 1955—2007[J]. Meteorological Monthly,2011,37(12): 1584-1588.]
+
+# Characteristics of hourly precipitation in Lhasa during 2oo5—2017
+
+Duodianluozhu'²， ZHOU Shun-wu'， ZHENG Dan'， WANG Chuan-hui³， CHI Qu $\cdot ^ { 1 , 2 }$ （202 (1NanjingUniversityofInformation Science&Technology,Nanjing 21oo44,Jiangsu,China 2Meteorological Observatory of Tibet Autonomous Region,Lhasa 850ooo, Tibet,China; 3Anhui Provincial Meteorological Bureau,Hefei 23oo6l,Anhui,China)
+
+Abstract: Based on the hourly ground observation data of Lhasa station,Tibet,China during flood season (May to September)from 2Oo5 to 2O17,the variation characteristicsof annual hourly precipitation (total,frequency,and intensity of precipitation)at the station are analyzed,discussing thedailycycle signal of hourly precipitation with harmonic analysismethod.The frequency of hourly precipitation and itscontribution to total precipitation are compared finallyfor diferent durationsand grades.Results show that:(1)The diurnal variations of annual hourly precipitation in Lhasa are characterized by a“single peak”distribution,which appears at night.(2)The changes of hourly precipitation inLhasa during the flood season is afull-daycycle,andthedaily cycle signal is the strongest during midsummer (July to August).(3)According to the duration,the flood season in Lhasa can be divided into three types: short duration ( $1 - 3$ h),medium duration ( $4 \mathrm { - } 6$ h),and long duration (>6 h),in which the short (long) durationof precipitation occurs most frequently (les),but itscontributionrate is the smallest (large).Moreover,the dailypeak valueof short-termprecipitation occurs intheafternoon tothe middleof the night,whilethedaily peak value of mid-and long-term precipitation occurs inthe second halfof the night.(4)Thecontribution rateof light rain ( $1 { \leqslant } r { < } 3$ ）and moderate rain ( $r { \geq } 3$ ) to the total precipitation is significantly greater than that of the light rain (O.1≤r< 1).As precipitation levels rise,the probability of night rain increases.
+
+Key words: hourly precipitation；diurnal variation; harmonic analysis；precipitation duration;precipitation level

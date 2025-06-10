@@ -1,0 +1,223 @@
+# 1961—2017年新疆极端暖事件变化特征及其未来情景预估
+
+刘璐，刘普幸，张旺雄，司文洋，乔雪梅(西北师范大学地理与环境科学学院,甘肃 兰州730070)
+
+摘要：研究极端暖事件,对于应对气候变化、制定防灾减灾政策具有重要的理论价值与实际意义。利用1961一2017年中国地面气温日值格点数据集和1961—2050年CMIP6气候模式数据，通过模拟精度验证,筛选出模拟效果较好模式进行多模式集合平均,采用气候倾向率和反距离加权法(IDW)对新疆过去及未来6—9月极端暖事件日数、频率和强度时空变化进行研究。结果表明：过去 $5 7 \mathrm { a }$ ，新疆极端暖事件日数、频率和强度呈增加趋势，倾向率分别为 $0 . 2 \ : \mathrm { d } \cdot \left( 1 0 \mathrm { a } \right) ^ { - 1 } , 0 . 0 2$ 次· $\left( 1 0 \mathrm { a } \right) ^ { - 1 }$ 和 $0 . 0 4 ~ \mathrm { { ^ { q } C } \cdot ( 1 0 a ) ^ { - 1 } }$ ;极端暖事件日数和频率的空间分布具有南疆高于北疆的特征，高发区为南疆西部，而强度则为北高南低的空间分布特征，高值区分布在北疆。未来33a,在SSP245与SSP585情景下,新疆极端暖事件日数、频率和强度均呈显著增加趋势;相对于1961—2017年平均极端暖事件日数分别增加21d和28d,平均极端暖事件频率分别增加1.6次和1.8次，平均极端暖事件强度分别升高 $1 . 2 ^ { \circ } \mathrm { C }$ 和 $1 . 3 ~ \mathrm { { ^ { \circ } C } }$ ，且SSP585情景下增速更显著;极端暖事件日数和频率高发区位于南疆中部,强度高发区仍在北疆;南疆极端暖事件日数、频率和强度增幅均大于北疆。伊朗副热带高压、西太平洋副热带高压位置的变化与土壤湿度变化会影响新疆极端暖事件的强弱。
+
+关键词：极端暖事件；多模式集合；时空变化；情景预估；新疆
+
+在全球变暖背景下，冰冻、暴雪、热浪、暴雨、洪灾等极端气候事件日益频发，给社会经济及生态环境造成了极大损失和破坏[。其中极端暖事件（如高温、热浪、暖昼和暖夜等)最为典型[2]。已有研究表明其对人类健康、社会经济、农业和生态系统都产生了严重的威胁[3-4]。如2003年欧洲经历了近500a来最热的夏季，使得约 $7 { \times } 1 0 ^ { 4 }$ 人因高温而死亡[5];2010年俄罗斯西部遭受了罕见的高温,造成至少$5 . 4 \times 1 0 ^ { 4 }$ 人死亡[6；2013年中国东部遭遇高温事件，造成经济损失高达 $5 9 0 \times 1 0 ^ { 8 }$ 元；2017年中国大部分地区出现持续性高温天气，农作物受灾面积约为$5 8 3 . 6 { \times } 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ ，仅绝收面积就占总受灾面积的 $6 \%$ ，经济损失达 $1 6 1 . 6 \times 1 0 ^ { 4 }$ 元8，其影响引起了世人的广泛关注。
+
+近年来，国内外学者一直在致力于探究极端暖事件的发展趋势及影响因素。自1960年以来，全球大部分地区暖昼和暖夜日数的增加，致使极端暖事件发生频率不断增加9；即使在全球变暖停滞期，极端暖事件仍在持续增加[],其发生的频率在过去的一个世纪中增加2倍[11-13]；自20世纪70年代中期以来，地中海东部极端暖事件季节性发生具有显著变化,每十年延长 $3 { \sim } 1 0 \mathrm { d } ^ { [ 1 4 ] }$ ;同时,希腊一些地区地表温度以 $1 ~ \mathrm { { ^ { \circ } C } \cdot ( 1 0 a ) ^ { - 1 } }$ 的速度增加[15],导致其极端暖事件频繁发生。自20世纪90年代以来，我国夏季增温日趋明显，其中北方最为明显[16],致使其北方极端暖事件相比南方显著增多[17]；而齐月等[18]研究发现近50a我国西北地区平均气温呈上升趋势，极端高温事件显著增加，并且其增温率与极端高温日数变化趋势一致。在成因方面，有学者认为极端暖事件发生与大气环流、海洋表面温度及土壤湿度有关[19-21];西欧的极端暖事件与斯堪的纳维亚半岛和西欧中部的高压异常有关2；北美地区极端暖事件发生频率的年代际变化与热带大西洋和西太平洋先前春季海温异常密切相关[23]；东部型ElNino和中部型ElNino对中国极端暖事件影响不同，东部型ElNino年使得我国东北地区以及长江中下游地区极端暖事件的频率降低，中部型ElNino年使得东北以及长江中下游地区极端暖事件频率增加[24];中部和东部的极端暖事件与 $5 0 0 \ \mathrm { h P a }$ 位势高度场增高有关[25]
+
+综上所述，已有的研究都是对极端暖事件的变化特征及其成因进行研究，而对未来极端暖事件的预估探究甚少。新疆地处亚欧大陆腹地，远离海洋，地形复杂，是气候变化的敏感区和生态脆弱区[26],近几十年来,频繁的极端暖事件对新疆的农业生产、社会经济产生了严重的危害[27]，但未来会如何变化，尚不清楚。因此，本文基于CMIP6提供的多模式模拟结果，通过均方根误差、相对误差和相关系数验证，将模拟效果较好的模式进行多模式集合平均，采用频率、日数、强度3个指标，研究在未来不同共享社会经济路径情景下新疆可能发生的极端暖事件的时空变化特征，以期为新疆极端暖事件监测预警提供理论指导，对提高当地灾害防御能力，减少人民财产损失具有重要的理论和实际意义。
+
+# 研究区概况与方法
+
+# 1.1 研究区概况
+
+新疆地处我国西北边陲，位于 $3 4 ^ { \circ } 2 5 ^ { \prime } { \sim } 4 8 ^ { \circ } 1 0 ^ { \prime } \mathrm { N }$ ，$7 3 ^ { \circ } 4 0 ^ { \prime } { \sim } 9 6 ^ { \circ } 1 8 ^ { \prime } \mathrm { E }$ ，面积 $1 . 6 6 \times 1 0 ^ { 6 } ~ \mathrm { k m } ^ { 2 }$ (图1)。地形三山夹两盆，主要以盆地和山地为主，天山横亘于新疆中部，将新疆分为北疆和南疆两部分。具有典型的温带大陆性气候，年平均气温为 $9 { \sim } 1 2 ~ \mathrm { \% }$ ，年平均降水量为 $1 4 5 ~ \mathrm { m m }$ ,年日照时数为 $2 6 0 0 { \sim } 3 6 0 0 \mathrm { h }$ ,年蒸发量为 $2 0 0 0 { \sim } 4 0 0 0 ~ \mathrm { m m }$ ,夏季南疆比北疆炎热，降水北疆比南疆丰富。河流水系众多，主要补给来源于冰川和多年积雪融水。主要土壤类型为风沙土、棕漠土、棕钙土，主要植被类型为胡杨、柽柳、梭梭等。
+
+# 1.2数据来源
+
+气象数据来源于国家气象数据中心(http://data.$\mathrm { \ c m a . c n / }$ )提供的中国地面气温日值 $0 . 5 ^ { \circ } \times 0 . 5 ^ { \circ }$ 格点数据集(V2.0)；气候模拟数据源于国际耦合模式比较计划第六 阶段（CMIP6,https://esgf-node.llnl.gov/search/cmip6/)提供的2个共享社会经济路径(SSP245和SSP585)情景下的14个全球气候模式的注：底图采用自然资源部标准地图制作,审图号:GS(2019)1822,底图无修改。
+
+![](images/a18759ef92e0ef223c7b4284b263a6fa6085a4bc724e28229c7ba16d02624e91.jpg)  
+图1研究区地理位置示意图  
+Fig.1 Geographic locations of the study area
+
+逐日最高气温，具体模式信息见表1。共享社会经济路径情景用以表示未来社会可能发展与代表性浓度(RCP)矩形组合。SSP245是指SSP2(中度发展)的社会经济情景和基于RCP4.5的能源排放土地利用情景结合起来的情景；SSP585是指SSP5（常规发展)的社会经济情景和基于RCP8.5的能源排放情景结合起来的情景[28]。1961—2017年西太平洋副热带高压环流指数由国家气候中心(https://cmdp.ncc-cma.net/cn/)提供。 $5 0 0 \ \mathrm { h P a }$ 位势高度场数据来自NCEP月再分析资料，分辨率为 $2 . 5 ^ { \circ } \times 2 . 5 ^ { \circ }$ 。土壤湿度数据来自于欧洲中期天气预报中心(ECMWF)ERA5陆面月再分析数据，分辨率为 $0 . 1 ^ { \circ } \times 0 . 1 ^ { \circ }$ O
+
+表114个CMIP6气候模式信息  
+Tab.1 Information of14 CMIP6climate models   
+
+<html><body><table><tr><td>模式名称</td><td>机构及所属国家</td><td>空间分辨率</td></tr><tr><td>AWI-CM-1-1-MR</td><td>AWI,德国</td><td>0.97°x0.93°</td></tr><tr><td>BCC-CSM2-MR</td><td>BBC,中国</td><td>1.13×1.12°</td></tr><tr><td>CanESM5</td><td>CCCma,加拿大</td><td>2.81°x2.79°</td></tr><tr><td>EC-Earth3</td><td>EC-Earth-Cons,欧盟</td><td>0.7°x0.7°</td></tr><tr><td>EC-Earth3-Veg</td><td>EC-Earth-Cons,欧盟</td><td>0.7°x0.7°</td></tr><tr><td>FGOALS-g3</td><td>FGOALS,中国</td><td>2°x2.03°</td></tr><tr><td>GFDL-CM4</td><td>NOAA-GFDL,美国</td><td>1.25°x1°</td></tr><tr><td>GFDL-ESM4</td><td>NOAA-GFDL,美国</td><td>1.25°×1°</td></tr><tr><td>IPSL-CM6A-LR</td><td>IPSL,法国</td><td>2.5°x1.27°</td></tr><tr><td>INM-CM4-8</td><td>INM,俄罗斯</td><td>2°×1.5°</td></tr><tr><td>INM-CM5-0</td><td>INM,俄罗斯</td><td>2°×1.5°</td></tr><tr><td>MPI-ESM1-2-LR</td><td>MPI-M,德国</td><td>1.88x1.87°</td></tr><tr><td>NESM3</td><td>NUIST,中国</td><td>1.88×1.87°</td></tr><tr><td>NorESM2-LM</td><td>NCC,挪威</td><td>2.5°×1.89°</td></tr></table></body></html>
+
+# 1.3研究方法
+
+目前关于气候极值变化研究中，一般采用绝对阈值法或相对阈值法作为极端值的阈值。绝对阈值法未能考虑到不同地区的地形地貌和气候差异[29],只适用于空间分变率比较小的区域[30]。而本文借鉴Hobday等[31关于极端事件中采用相对阀值方法，可以较好的消除地域和季节因素。本文情景预估也遵守了考察气候事件通常以 $3 0 \mathrm { a }$ 变化为标准的要求[32]，即采用气候基准期(1971—2000年)计算得出的日阈值作为1961—2017年和未来时期极端高温日标准，具体定义及公式如下。
+
+日高温阈值：给定某日 $j$ ，在 $j$ 的前5d和后 $5 \mathrm { d }$ 之间以及在其气候基准期 $Y ( 1 9 7 1 - 2 0 0 0$ 年)内， $Y { \times } 1 1$ d范围内最高气温的 $90 \%$ 分位数作为日高温阈值。
+
+$$
+T _ { \mathfrak { g } _ { 0 } } ( j ) = P _ { \mathfrak { g } _ { 0 } } ( X )
+$$
+
+式中： $T _ { 9 0 } ( j )$ 为 $j$ 日阈值温度; $P _ { 9 0 }$ 为 $9 0 \%$ 分位数； $X { = } \{ T$ $( y , d ) | _ { y _ { \mathrm { s } } \leqslant y \leqslant y _ { \mathrm { e } } , j - 5 \leqslant d \leqslant j + 5 | } \} ; y _ { \mathrm { s } } \cdot y _ { \mathrm { e } }$ 为基准期开始年和结束年; $d$ 为 $j$ 日前后 $5 \mathrm { d }$ 。
+
+把当日最高温超过该日的高温阈值，定义为一个极端高温日;把每年6—9月至少连续5d的日最高气温不低于日高温阈值，且间隔期不超过2d,则定义为发生了一次极端暖事件;把每年6一9月极端暖事件发生的次数以及所持续总天数定义为频率与日数。
+
+强度：将极端暖事件发生时日温度与气候基准期内平均温度的差值进行累加平均，用以表示温度的异常状态。
+
+$$
+I _ { \mathrm { m e a n } } = \overline { { T ( t ) - T _ { \mathrm { m } } ( j ) } }
+$$
+
+$$
+T _ { { \scriptscriptstyle m } } ( j ) = \sum _ { y = y _ { \mathrm { s } } } ^ { y _ { \mathrm { e } } } \sum _ { d = j - 5 } ^ { y + 5 } \frac { T ( y , d ) } { 1 1 ( y _ { \mathrm { e } } - y _ { \mathrm { s } } + 1 ) }
+$$
+
+式中： $I _ { \mathrm { m e a n } }$ 为极端暖事件强度； $T$ 为温度； $\mathbf { \chi } _ { t }$ 为高温日${ \mathit { \Omega } } _ { \left. t _ { \mathrm { s } } \leqslant t \leqslant t _ { \mathrm { e } } ; t _ { \mathrm { s } } \right. } ^ { { \mathit { \check { \tau } } } }$ 为极端暖事件开始时间； $t _ { \mathrm { e } }$ 为极端暖事件结束时间); $T _ { \mathrm { m } } ( j )$ 为气候基准期内的平均温度 $, j ( t _ { \mathrm { s } } ) \leqslant$
+
+$j { \leqslant } j ( t _ { \mathrm { e } } ) _ { \mathrm { c } }$ 。
+
+均方根误差：衡量实际高温数据与模拟高温数据之间的偏差。
+
+$$
+\mathrm { R M S E } = \sqrt { \frac { 1 } { N } { \sum _ { i = 1 } ^ { N } ( x _ { i } - x _ { 0 i } ) } ^ { 2 } }
+$$
+
+式中：RMSE为均方根误差； $N$ 为样本数量； $x _ { i }$ 为模拟数据； $x _ { 0 i }$ 为实际数据。
+
+相对误差：模拟高温数据与实际高温数据的绝对误差在实际高温数据中所占百分比
+
+$$
+\mathrm { R E } = \frac { 1 } { N } \sum _ { i = 1 } ^ { N } \left| \frac { ( x _ { i } - x _ { 0 i } ) } { x _ { 0 i } } \times 1 0 0 \% \right|
+$$
+
+式中：RE为相对误差； $N$ 为样本数量； $x _ { i }$ 为模拟数据；  
+$x _ { 0 i }$ 为实际数据。
+
+相关系数：表示实际高温数据与模拟高温数据的相关性。
+
+$$
+\mathit { C o r r } = \frac { \displaystyle \sum _ { i = 1 } ^ { N } ( x _ { i } - x ) ( x _ { 0 i } - \overline { { x _ { 0 } } } ) } { \displaystyle \sqrt { \sum _ { i = 1 } ^ { N } ( x _ { i } - x ) ^ { 2 } } \ \sqrt { \sum _ { i = 1 } ^ { N } ( x _ { 0 i } - \overline { { x _ { 0 } } } ) } ^ { 2 } } 
+$$
+
+式中： $C o r r$ 为相关系数； $N$ 为样本数量； $x _ { i }$ 为模拟数据； $x$ 为模拟数据平均值； $x _ { 0 i }$ 为实际值; $\overline { { x _ { 0 } } }$ 为实际数据平均值。
+
+# 2结果与分析
+
+# 2.1极端暖事件时空变化特征
+
+2.1.1 新疆极端暖事件时间变化1961—2017年新疆极端暖事件的日数呈增长趋势（图 $2 \mathrm { a }$ )，倾向率为$0 . 2 \ \mathrm { d } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 } ( P { \leqslant } 0 . 1 )$ ,年均共发生7d,其中1997年极端暖事件日数高达10.3d,其次是2015年10.1d和2016年的 $9 . 7 \mathrm { d }$ 。新疆极端暖事件频率呈微增加趋势（图2b)，倾向率为0.02次 $( 1 0 \mathrm { a } ) ^ { - 1 } ( P \leqslant 0 . 1 )$ ，年均发生1.2次，1997年发生极端暖事件的频率最多，为
+
+![](images/d1af8b2188d6d2cf5dc0c5dcd4248fb2263cdc3c8ab0b721ffae17a9b14e5d67.jpg)  
+图21961—2017年新疆年均极端暖事件的年际变化   
+Fig.2Annual variation of mean extreme warm events in Xinjiang during 1961-2017
+
+1.69次，其次是2016年和1977年，分别发生1.5次和1.4次。新疆极端暖事件强度与频率变化趋势相似，呈微增加趋势(图2c)，倾向率为 $0 . 0 4 ~ \mathrm { { ^ { \circ } C } } \cdot ( 1 0 \mathrm { { a } } ) ^ { - 1 } ( P \leqslant$ 0.1)，年均极端暖事件强度为 $5 . 4 ^ { \circ } \mathrm { C }$
+
+2.1.2新疆极端暖事件空间变化反距离加权插值法(IDW)是以插值点与样本点之间距离为权重的插值方法，插值点与样本点的距离会影响插值结果，适合样本点分布均匀情况下的插值。因此本文将$0 . 5 ^ { \circ } \times 0 . 5 ^ { \circ }$ 格点数据，按照反距离加权插值(IDW)方法进行插值得到1961—2017年新疆极端暖事件日数、频率和强度空间变化(图3)。
+
+1961—2017年新疆6—9月年平均极端暖事件日数为6\~18d,南疆极端暖事件日数高于北疆，高值区主要位于南疆西部的塔什库尔干塔吉克自治县（图3a)，这与孔锋[33研究极端暖事件持续日数高值区基本吻合。极端暖事件日数以 $- 3 { \sim } 2 \mathrm { d } { \cdot } ( \mathrm { 1 0 a } ) ^ { - 1 }$ 的线性趋势变化， $5 4 \%$ 的区域呈增加趋势，其中塔克拉玛干沙漠和民丰绿洲增加速率最快,为 $1 { \sim } 2 \mathrm { ~ d } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ $( P { \leqslant } 0 . 0 5 )$ （图3d)。1961—2017年新疆极端暖事件的年平均频率为1\~2次(图3b)，高值区与极端暖事件日数空间分布基本一致，频率高于1.8次，其余地区均至少发生1次。极端暖事件频率以 $- 0 . 3 \mathrm { \sim } 0 . 2$ 次· $( 1 0 \mathrm { a } ) ^ { - 1 }$ 的线性趋势变化， $5 2 \%$ 的区域呈增加趋势，南疆民丰绿洲为增加速率最快地区，为0.1\~0.2次·$( 1 0 \mathrm { a } ) ^ { - 1 } ( P \leqslant 0 . 0 5 )$ （图3e)。1961—2017年极端暖事件强度呈现由南向北递增的空间分布态势(图3c，图3f)，高值区主要集中于北疆的古尔班通古特沙漠及其周边绿洲，为 $6 . 3 { \sim } 7 . 5 \mathrm { ~ \textdegree C }$ 。极端暖事件强度以$- 0 . 2 { \sim } 0 . 2 \ \mathrm { { ^ { 9 } C } } { \cdot } ( 1 0 \mathrm { { a } } ) ^ { - 1 }$ 的线性趋势变化， $7 0 \%$ 的区域呈增加趋势，其中于田绿洲、民丰绿洲和且末绿洲增加速率高达 $0 . 2 ^ { \circ } \mathrm { C } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 } ( P \mathrm { \leqslant } 0 . 0 5 )$ （图3f)。
+
+# 2.2新疆极端暖事件影响因素
+
+2.2.1大气环流异常的影响大气环流往往是引起各种天气过程的主导因素[34],因此新疆极端暖事件也必然与大气环流有密切联系。根据新疆6—9月极端暖事件多(少)于多年平均值1.3倍标准差的年份作为极端暖事件异常偏多(少)年标准[35],计算得出极端暖事件日数、频率和强度活动较强年份为1977年、1984年、1997年、2013年、2015年和2016年，极端暖事件活动较弱年份则为1967年、1971年、
+
+![](images/3faec4a1a4bc4b4b2f9a520fc51a69697d393ad922918d02df5255cf1bf71e2f.jpg)  
+图31961—2017年新疆年均极端暖事件空间分布和线性变化趋势
+
+Fig.3Spatialdistributionofmeanextreme warmeventsandthelineartrendofextreme warmeventsinXinjiangduring1961-2017
+
+1976年、1985年、1993年和2009年。从图4a可以看出，近57a间6-9月 $5 0 0 \mathrm { { h P a } }$ 平均位势高度场上，新疆主要被5720\~5840位势米所控制。当极端暖事件活动较强时(图4b)，伊朗副热带高压和西太平洋副热带高压分别东伸北抬和西伸北抬，并且 $5 7 2 0 \sim$ 5840位势米明显北移，高压强度增强，结合距平图可以看出（图4c)，新疆西部上空有一正距平中心，表明控制新疆的高压单体由弱变强，反气旋活动增强，盛行下沉气流，导致该区域的温度升高，极端暖事件活动频繁；当极端暖事件活动较弱时(图4d)，伊朗副热带高压和西太平洋副热带高压分别西退南移和东退南移，此时5720\~5840位势米明显南移，高压强度减弱，结合距平图可以看出(图4e)，在新疆上空为负距平，表明控制新疆的高压单体由强变弱，气旋活动增强，盛行上升气流，极端暖事件活动减弱。综上所述，当伊朗副热带高压和西太平洋副热带高压位置发生变化时，会导致新疆极端暖事件活动强弱变化。
+
+2.2.2土壤湿度对极端暖事件的影响近年来随着陆气相互作用对极端暖事件的影响愈发明显，土壤湿度变化在极端暖事件成因与预测方面越来越被人们所重视[2I]。因此本文将夏季浅层土壤湿度与新疆极端暖事件进行空间相关性分析(图5)。结果表明除新疆东北地区的极端暖事件日数、频率与土壤湿度存在正相关关系外，大部分地区呈负相关关系，相关系数主要在-0.6\~0,其中南疆西部是负相关最显著的区域(图5a，图5b)，其相关系数为-0.6左右 $( P { \leqslant } 0 . 0 5 )$ ,与先前研究结果的极端暖事件日数、频率高值区重合；强度与土壤湿度的相关性空间分布基本自东北向西南递增(图5c)，大部分地区为负相关关系，其中南疆中南部负相关系数达0.5以上( $P { \leqslant }$ 0.05)。综上所述，新疆极端暖事件与土壤湿度大都呈负相关关系，表明随土壤湿度降低，极端暖事件的发生将会更加频繁
+
+# 2.3未来新疆极端暖事件预估分析
+
+在对未来新疆极端暖事件特征变化进行分析前，先对CMIP6提供的14个气候模式的模拟能力进行评估，由于各模式格点数据空间分辨率并不统一，为方便比较，在Matlab中使用线性插值法将各模式数据的空间分辨率统一到 $0 . 5 ^ { \circ } \times 0 . 5 ^ { \circ }$ 网格点上，对高温数据进行提取。利用公式(4)\~(6)，将1961—2014年6—9月新疆地面气温格点数据与CMIP6各模式的模拟结果经过均方根误差、相对误差和相关性公式计算，得到不同模式的计算结果（图6)，其均方根误差、相对误差和相关系数的误差范围分别为(0.6，4.5）（2，20）、（0.4，1)。其中EC-Earth3-Veg、MPI-ESM1-2-LR、INM-CM5-O、Nor-ESM2-LM、CanESM5和EC-Earth3模式模拟的最高温度与国家气象数据中心提供的中国新疆最高温度格点数据更接近。已有研究表明气候模式对当前气候模拟的效果将对未来气候变化预估产生影响，把模拟效果较好的模式进行多模式集合，得到的预估结果将会更加接近实际[3]。因此，本文选择上述6个模式进行多模式集合平均(MME），多模式集合后的均方根误差、相对误差和相关系数的误差范围分别为(0.5，1.1）、（1.8，4.8）、（0.5，1)。新疆地面格点数据与MME计算结果的均方根误差(RMSE)为0.5，而相对误差(RE)和相关系数(Corr)分别为1.7、0.77，多模式集合(MME)模拟结果均在误差范围之内，且通过了显著性检验。
+
+![](images/72a19e2bab70da1f5c85ec51b47faaaa5f79156eff9aed780a81ce13cf54e0ab.jpg)  
+(a) $5 0 0 \mathrm { { h P a } }$ 平均位势高度场  
+图41961—2017年新疆 $5 0 0 \mathrm { { h P a } }$ 位势高度场特征分析  
+Fig.4Analysis ofcharacteristics of $5 0 0 \mathrm { { h P a } }$ height field in Xinjiang during 1961-2017
+
+![](images/8cae8b948385bb467893ae5bd32e7e1d28f50ce0f956d9c79a4925640f80276d.jpg)  
+注：黑色点表示通过0.05信度检验。  
+图5新疆极端暖事件与土壤湿度相关关系  
+Fig.5Correlation between Xinjiang extreme warm events and soilmoisture   
+图61961—2014年新疆地面气温平均最高温与CMIP6各模式平均最高温的均方根误差、相对误差和相关系数Fig.6TheRMSE(a),RE(b)ndCorrc)oftheaverage maximumtemperatureofthesurfaceair temperatureinXinjangandtheaverage maximum temperature of the CMIP6 models during 1961-2014
+
+2.3.1 新疆极端暖事件时间模拟特征从极端暖事件的年际变化来看（图7），无论是在SSP245情景还是SSP585情景下，未来新疆极端暖事件日数、频率和强度都呈增加趋势，相较于1961—2017年各指标增长速率明显加快；整体来看，SSP585情景下增加速率要高于SSP245情景。SSP245情景下，极端暖事件日数表现出波动上升趋势，倾向率为 $9 . 9 \mathrm { ~ d ~ }$ .$( 1 0 \mathrm { a } ) ^ { - 1 } ( P \leqslant 0 . 0 1 )$ ,极端暖事件日数最高可达 $5 8 \mathrm { ~ d ~ }$
+
+5 (a)均方根误差 2016 (b)相对误差 108 (c)相关系数HSSE 3 210 D 日 日 □ E 自 目 □ TR 12 840 N 明 日 A 自 目 A H COT 0.6 4420 E 日 日7 气候模式 7
+
+1080 (2)16878 SSP245 5545 2 SSP245 8 (6.18 SSP245  
+P/ R=0.83 次3.5 ℃ 7  
+60率 度  
+日 40 频2.5 强 6  
+20 y=0.99x+11.43 1.5 y=0R05x+1.92 y-0.015.x+6.380 R=0.75 0.5 52018 2027 2035 2043 2050 2018 2027 2035 2043 2050 2018 2027 2035 2043 2050年份 年份 年份
+
+SSP585情景下也呈类似上升趋势，倾向率为 $1 6 . 1 \mathrm { d }$ ：$( 1 0 \mathrm { a } ) ^ { - 1 } ( P \leqslant 0 . 0 1 )$ ,其极端暖事件日数突破60d,两情景下年均极端暖事件日数分别为 $2 8 \textup d$ 和 $3 5 \mathrm { d }$ 。极端暖事件频率呈现出与日数相同的上升趋势，其倾向率分别为0.5次· $( 1 0 \mathrm { a } ) ^ { - 1 } ( P \leqslant 0 . 0 1 )$ 和0.6次 $\cdot \left( 1 0 \mathrm { a } \right) ^ { - 1 }$ $( P { \leqslant } 0 . 0 1 )$ ，在SSP245和SSP585情景下，年均极端暖事件频率分别为2.8次和3次。强度在SSP245和SSP585情景下，其倾向率分别为 $0 . 1 5 ~ \mathrm { { ^ { \circ } C } } \cdot ( 1 0 \mathrm { { a } } ) ^ { - 1 } ( P \leqslant$ 0.01)和 $0 . 3 \ \mathrm { { ‰ } }$ ,年均极端暖事件强度分别为 $6 . 6 ~ \mathrm { ^ { \circ } C }$ 和 $6 . 7 ~ \mathrm { ^ { \circ } C }$ 。
+
+2.3.2 新疆极端暖事件空间模拟特征 在SSP245情景和SSP585情景下，未来新疆极端暖事件各指标空间显示，SSP585情景下新疆年均极端暖事件的日数高于SSP245情景下日数，南疆年均极端暖事件日数要高于北疆；SSP245情景下，新疆大部分地区极端暖事件日数低于35d,而在SSP585情景下，南疆中部极端暖事件日数高达49d(图8a,图8d)。与极端暖事件日数空间分布相似，两情景下极端暖事件频率主要高发于南疆绿洲，由SSP245情景下的3\~3.5次增加至SSP585情景下3.8次（图8b，图8e)。两种情景下新疆极端暖事件年均强度基本一致，都显现出由南至北的增加趋势，与1961—2017年极端暖事件强度空间分布一致，但强度明显增加，北疆的古尔班通古特沙漠及其周边的绿洲带极端暖事件强度均超过 $7 . 7 ~ \mathrm { ^ { \circ } C }$ 。综上所述，未来新疆极端暖事件高日数和高频率的区域面积将会增加，而强度的空间分布格局基本不变。
+
+![](images/4ae04d01400208d83dc9b8b87a513c2b52b3ff865ddff31d1481e0bba459384a.jpg)  
+图72018—2050年新疆年均极端暖事件的年际变化  
+Fig.7 Annual variation of mean extreme warm events in Xinjiang during 2O18-2050   
+图82018—2050年新疆年均极端暖事件空间分布  
+Fig.8Spatial distribution of mean extreme warm events in Xinjiang during 2O18-2050
+
+新疆未来极端暖事件指标相对于1961—2017年的变化表明，无论在SSP245情景还是SSP585情景下，未来新疆极端暖事件日数都将增加，SSP585情景下极端暖事件日数增加幅度(8\~42d)大于SSP245情景下增加幅度(8\~34d)，南疆中部极端暖事件日数增加最多（图 $9 \mathrm { a }$ ，图9d);极端暖事件频率变化空间分布与日数相似，南疆极端暖事件频率增幅高于北疆，SSP245情景下，南疆大部分地区极端暖事件频率每年增加2次；SSP585情景下，南疆大部分地区极端暖事件频率增加至2.5次（图9b,图9e);新疆极端暖事件强度变化在两种情景下呈现出由北至南增加的空间分布特征(图9c，图9f)，南疆中部极端暖事件强度相对1961—2017年减少 $0 . 3 ~ \mathrm { ^ { \circ } C }$ 而新疆南部增加幅度高达 $3 ^ { \circ } \mathrm { C }$
+
+# 3讨论
+
+本文对新疆过去及未来6—9月极端暖事件日数、频率和强度的时空变化进行了研究，结果表明在过去57a,新疆极端暖事件呈日数延长、频率增加、强度上升趋势，总的变化趋势与前人的研究结果基本一致[3,但在空间分布上存在一定的差异，主要是由于本文采用相对阈值法来定义极端暖事件，强调的是温度变化幅度对于当地生态环境影响，而非背景温度，并且将低温地区发生极端暖事件情况也包含在内，而前人一般采用的是绝对阈值法( $3 3 ~ \mathrm { ^ { \circ } C }$ 或 $3 5 ~ \mathrm { { ^ { \circ } C } }$ )来定义极端暖事件，忽略了温度较低地区也会发生极端暖事件的情况，然而实际上常年温度较低地区的温度虽然没有达到 $3 3 ~ \mathrm { ^ { \circ } C }$ 或$3 5 ~ \mathrm { ^ { \circ } C }$ ,但相对于其平常温度变化幅度也较大，也会发生极端暖事件，影响当地的生态环境，同时已有相关研究表明像南北极这样寒冷地区也会发生极端暖事件,并对其生态系统产生影响[38-39]。在影响因素方面，研究表明极端暖事件发生与大气环流和土壤湿度具有较大联系，当伊朗副热带高压和西太平洋副热带高压分别东伸北抬和西伸北抬时，反气旋活动增强，致使新疆温度升高，极端暖事件活动频繁;同时新疆极端暖事件与土壤湿度主要以负相关关系为主，当土壤湿度较低时，土壤蒸发的水分有所减少，使得土壤向大气中释放潜热通量减少而注：蓝色点表示通过0.05信度检验。
+
+![](images/6a77540896714f1a2b0142b1419266069870cde1dd3a5cd9d802ecd4037d3ba1.jpg)  
+图92018—2050年新疆极端暖事件变化的空间分布  
+Fig.9The spatial distribution of extreme warm events changes in Xinjiang during 2O18-2050
+
+感热通量增加，而增加的感热有利于温度的升高，也会导致极端暖事件发生较为频繁。为了提高人们对于极端暖事件灾害防御能力，本文利用CMIP6提供多模式集合对未来新疆极端暖事件进行预估，结果显示未来两情景下新疆极端暖事件日数、频率和强度将会继续持续增加，增加速率远远高于现在，并且极端暖事件高发区主要位于南疆，这与前人研究结论基本一致[40-41]。由于影响新疆极端暖事件原因众多，本文只是从大气环流和土壤湿度角度来进行分析，没有将这两种影响因素综合在一起分析，在今后研究中将会结合数值模式来探讨新疆极端暖事件成因。其次，尽管本文采用国际上认可的多模式集合平均来对未来极端暖事件进行情景预估，但由于各模式空间的分辨率不统一，多模式集合平均预估的情景仍存在一定的不确定性，今后工作将结合动力降尺度进行研究，以提高极端暖事件预估精确性。
+
+# 4结论
+
+（1）1961—2017年新疆6—9月极端暖事件的日数、频率和强度总体上呈增加趋势，其倾向率分别为 $0 . 2 \ \mathrm { d } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 } ( P \leqslant 0 . 1 ) \ . 0 . 0 2$ 次· $( 1 0 \mathrm { a } ) ^ { - 1 } ( P \leqslant 0 . 1 )$ 和$0 . 0 4 ~ \mathrm { { ^ { circ } C } } \cdot ( 1 0 \mathrm { { a } } ) ^ { - 1 } ( P \mathrm { { \leqslant 0 . 1 } } )$ 。新疆极端暖事件频率、日数空间分布呈现出南高北低的分布特征，其高值区的空间分布基本位于南疆西部，而强度呈现出由南至北递增的空间分布特征，高值区位于北疆绿洲。
+
+（2）SSP245、SSP585情景下，新疆未来极端暖事件的日数、频率和强度整体都呈现出极显著的增加趋势,其倾向率分别为 $9 . 9 \ : \mathrm { d } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 } . 0 . 5$ 次· $\left( 1 0 \mathrm { a } \right) ^ { - 1 }$ 、$0 . 1 5 ^ { \circ } \mathrm { C } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ 和 $1 6 . 1 \ : \mathrm { d } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 } \cdot 0 . 6 \$ 次 $( 1 0 \mathrm { a } ) ^ { - 1 } . 0 . 3 ^ { \circ } \mathrm { C }$ ：$( 1 0 \mathrm { a } ) ^ { - 1 }$ ,均通 $9 5 \%$ 显著性检验，且SSP585情景下各指标增加速率比SSP245情景下快。未来新疆极端暖事件日数、频率和强度的空间分布特征与1961—2017年基本一致，但其高值区范围明显扩大;极端暖事件日数、频率高值区分布于南疆塔克拉玛干沙漠及其周边绿洲带，强度高值区位于北疆绿洲；南疆极端暖事件日数、频率和强度增加幅度大于北疆。
+
+(3）极端暖事件的发生与土壤湿度主要呈负相关关系，而极端暖事件发生的强弱则与伊朗副热带高压和西太平洋副热带高压的位置变化有着密切关系。
+
+# 奓考义默(Keterences):
+
+[1]Easterling DR,Evans JL, Groisman PY,etal. Observed variability and trends in extreme climate events: A brief review[J]. Bulletin of the American Meteorological Society,2000,81(3): 417-426.   
+[2]任国玉,封国林,严中伟.中国极端气候变化观测研究回顾与展 望[J].气候与环境研究,2010,15(4):337-353.[Ren Guoyu, Feng Guolin, Yan Zhongwei.Progresses in observation studies of climate extremes and changes in mainland China[J]. Climatic and Environmental Research,2010,15(4): 337-353.]   
+[3]Li S, WeiF,Wang Z, et al. Spatial heterogeneity and complexity of the impact of extreme climate on vegetation in China[J]. Sustainability,2021,13(10): 5748.   
+[4]Zhu X,Troy T J. Agriculturally relevant climate extremes and their trends in the world's major growing regions[J]. Earth's Future,2018, 6(4): 656-672.   
+[5]Robine JM,Cheung S L K,Roy SL,et al. Death toll exceeded 70000 in Europe during the summer of 2Oo3[J]. Comptes Rendus Biologies,2008,331(2): 171-178.   
+[6]Barriopedro D,Fischer E M,Luterbacher J,etal. The hot summer of 2010: Redrawing the temperature record map of Europe[J]. Science,2011,332(6026): 220-224.   
+[7]Sun Y,Zhang X, Zwiers FW,et al. Rapid increase in the risk of extreme summer heat in Eastern China[J]. Nature Climate Change, 2014, 4(12): 1082-1085.   
+[8]张宇,张良,王素萍,等.2017年夏季全国干旱状况及其影响与 成因[J].干旱气象,2017,35(5): 899-905.[Zhang Yu,Zhang Liang,Wang Suping,et al. Drought events and its influence in summer of 2017 in China[J]. Journal of Arid Meteorology,2017,35(5): 899-905.]   
+[9]Stott PA,Christidis N,OttF,et al.Atribution of extreme weather and climate-related events[J].Wiley Interdisciplinary Reviews Climate Change,2016,7(1): 23-41.   
+[10] Seneviratne S I, Donat M G,Mueller B,etal. No pause in the increase of hot temperature extremes[J]. Nature Climate Change, 2014,4(3): 161-163.   
+[11]Founda D,Papadopoulos K H,Petrakis M,et al.Analysis of mean, maximum and minimum temperature in Athens from 1897- 2001 with emphasis on the last decade: Trends,warm events,and cold events[J]. Global and Planetary Change,2004,44(1-4): 27-38.   
+[12]Founda D.Evolution of the air temperature in Athens and evidence of climatic change: A review[J].Advances in Building Energy Research,2011,5(1): 7-41.   
+[13] Scherrer S C,Fischer EM,Posselt R, et al.Emerging trends in heavy precipitation and hot temperature extremes in Switzerland [J]. Journal of Geophysical Research: Atmospheres,2016,121(6): 2626-2637.   
+[14]Founda D, Varotsos KV,Pierros F,et al. Observed and projected shifts in hot extremes’season in the Eastern Mediterranean[J]. Global and Planetary Change,2019,175: 190-200.   
+[15]Founda D,Pierros F,Petrakis M,et al. Interdecadal variations and trends of the Urban Heat Island in Athens (Greece)and its response to heat waves[J]. Atmospheric Research,2015,161:1-13.   
+[16] 任国玉,徐铭志,初子莹,等.近54a中国地面气温变化[J].气候 与环境研究,2005,10(4):717-727.[Ren Guoyu,Xu Mingzhi, Chu Ziying,et al. Changes of surface air temperature in China during 1951-2OO4[J]. Climatic and Environmental Research,2005, 10(4): 717-727.]   
+[17] 潘晓华.近五十年中国极端温度和降水事件变化规律的研究 [D].北京:中国气象科学研究院,2002.[Pan Xiaohua.Changes in Extreme Temperature Events in China during Recent 5O years [D]. Beijing: Chinese Academy of Meteorological Sciences,2002.]   
+[18] 齐月,陈海燕,房世波,等.1961—2010年西北地区极端气候事 件变化特征[J].干旱气象,2015,33(6):963-969.[QiYue,Chen Haiyan,Fang Shibo,et al. Variation characteristics of extreme climate events in Northwest China during 1961-2O10[J]. Journal of Arid Meteorology,2015,33(6): 963-969.]   
+[19]Pezza A B,Rensch P V, Cai W.Severe heat waves in Southern Australia: Synoptic climatology and large scale connections[J]. Climate Dynamics,2012,38(1): 209-224.   
+[20] Chen X, Zhou T. Relative contributions of external SST forcing and internal atmospheric variability to July-August heat waves over the Yangtze River valley[J]. Climate Dynamics,2018,51(11): 4403- 4419.   
+[21] 陈海山,周晶.土壤湿度年际变化对中国区域极端气候事件模 拟的影响研究ⅡI.敏感性试验分析[J].大气科学,2013,37(1):1- 13.[Chen Haishan, Zhou Jing.Impact of interannual soil moisture anomaly on simulation of extreme climate events in China.Part I: Sensitivity experiment analysis[J]. Chinese Journal of Atmospheric Sciences,2013,37(1): 1-13.]   
+[22]Della-Marta P M,Luterbacher J,Weissenfluh HV,et al.Summer heat waves over Western Europe 1880-2003,their relationship to large- scale forcings and predictability[J]. Climate Dynamics,2007, 29(2): 251-275.   
+[23]Wu Z, Lin H,Li J,etal. Heat wave frequency variability over North America: Two distinct leading modes[J]. Journal of Geophysical Research:Atmospheres,2012,117:D02102.doi:10.1029/ 2011JD016908.   
+[24] 李艳,马百胜,杨宣,等.中国大陆夏季高温热浪事件的特征及 两类EI Nino 事件对其影响[J].兰州大学学报(自然科学版), 2018,54(6): 711-720.[Li Yan,Ma Baisheng,Yang Xuan,et al. Characteristics of summer heat waves in China Mainland and the relationship between Eastern-/Central- Pacific El Nino and heat wave events[J]. Journal of Lanzhou University (Natural Sciences), 2018, 54(6): 711-720.]   
+[25] Freychet N,Tett S, Wang J,etal. Summer heat waves over Eastern China: Dynamical processes and trend attribution[J]. Environmental Research Letters,2017,12(2): 024015.   
+[26] 张杰.新疆区域气候变化评估报告决策者摘要及执行摘要[M]. 北京：气象出版社,2013.[Zhang Jie.Xinjiang Regional Climate Change Assessment Report Summary for Policymakers and Executive Summary[M]. Beijing: China Meteorological Press,2013.]   
+[27] 毛炜峰,陈鹏翔,沈永平.气候变暖背景下 2015年夏季新疆极 端高温过程及其影响[J].冰川冻土,2016,38(2):291-304.[Mao Weiyi, Chen Pengxiang, Shen Yongping. Characteristics and effects of the extreme maximum air temperature in the summer of 2015in Xinjiang underglobal warming[J].Journalof Glaciology and Geocryology,2016,38(2): 291-304.]   
+[28] 张丽霞,陈晓龙,辛晓歌.CMIP6情景模式比较计划(ScenarioMIP)概况与评述[J].气候变化研究进展,2019,15(5):519- 525.Zhang Lixia,Chen Xiaolong,Xin Xiaoge.Shortcommentary on CMIP6 Scenario Model Intercomparison Project (ScenarioMIP) [J]. Climate Change Research,2019,15(5): 519-525.]   
+[29] 殷田园,殷淑燕,李富民.秦岭南北区域夏季极端降水与西太平 洋副热带高压的关系[J].干旱区研究,2019,36(6):1379-1390. [Yin Tianyuan,Yin Shuyan,Li Fumin.Relationship between the summer extreme precipitation in the south and north of the Qinling Mountains and the Western Pacific Subtropical High[J].Arid Zone Research,2019,36(6): 1379-1390.]   
+[30] 李娇,任国玉,战云健.浅谈极端气温事件研究中阈值确定方法 [J].气象科技进展,2013,3(5):36-40.[Li Jiao,Ren Guoyu, Zhan Yunjian. Discussion on threshold determination in defining extreme temperature indices[J].Advances in Meteorological Science and Technology,2013,3(5): 36-40.]   
+[31]HobdaAJ,AlexanderL V,Perkins SE,etal.Ahierarchicalapproach to defining marine heatwaves[J]. Progress in Oceanography, 2016,141(14): 227-238.   
+[32]丁一汇.“暖冬"渐行渐远全球变暖暂时停滞了吗?[J].今日科 苑,2011,15(24):19-22.[Ding Yihui. The warm winter is fading away isglobal warming temporarily stagnant?[J] Modern Science, 2011,15(24): 19-22.]   
+[33]孔锋.1961—2018年中国极端冷暖事件变化及其空间差异特 征[J].水利水电技术,2020,51(9):34-44.[Kong Feng.The change of extreme cold and warm events in China from l961 to 2018 and their spatial differences[J].Water Resources and Hydropower Engineering,2020,51(9): 34-44.]   
+[34] 邵勰,廖要明,柳艳菊,等.2015年全球重大天气气候事件及其 成因[J].气象,2016,42(4): 489-495.[Shao Xie,Liao Yaoming,Liu Yanju,et al.Global major weather and climate events in 2O15 and possible cause[J]. Meteorological Monthly,2016,42(4): 489-495.]   
+[35] 陈颖,邵伟玲,曹萌,等.新疆夏季高温日数的变化特征及其影 响因子[J].干旱区研究,2020,37(1):58-66.[Chen Ying,Shao Weiling,Cao Meng,et al.Variation of summer high temperature days and its affcting factors in Xinjiang[J].Arid Zone Research, 2020,37(1): 58-66.]   
+[36]孙颖,丁一汇.IPCCAR4气候模式对东亚夏季风年代际变化的 模拟性能评估[J].气象学报,2008,66(5):765-780.[Sun Ying, Ding Yihui.Validation of IPCC AR4 climate models in simulating interdecadal change of East Asian summer monsoon[J].Acta Meteorologica Sinica,2008,66(5): 765-780.]   
+[37] 张明.基于多指标、多尺度的中国极端高温事件时空分析[D]. 上海：上海师范大学,2016.[Zhang Ming.A Multi-scale Spatiotemporal Analysis of Extreme High Temperature Events in China Based on Multiple Indices[D]. Shanghai: Shanghai Normal University, 2016.]   
+[38]Robinson SA,Klekociuk A R,King D H,et al.The 2019/2020 summer of Antarctic heatwaves[J].Global Chang Biology,2O20,26 (6): 3178-3180.   
+[39]Dobricic S,Russo S,Pozzoli L,et al. Increasing occurrence of heat waves in the terrestrial Arctic[J]. Environmental Research Letters, 2020,15(2): 024022.   
+[40]Guo X,Huang J,Luo Y,et al. Projection of heat waves over China for eight different global warming targets using 12 CMIP5 models[J]. Theoretical and Applied Climatology,2017,128(3-4): 507-522.   
+[41] 王冀,江志红,丁裕国,等.21世纪中国极端气温指数变化情况 预估[J].资源科学,2008,30(7):1084-1092.[Wang Ji,Jiang Zhihong,Ding Yuguo,et al.Multi-model ensemble prediction of extreme temperature indices in China[J].Resources Science,2008, 30(7):1084-1092.]
+
+# Variation characteristics of extreme warm events from 1961 to 2017 and projection for future scenarios in Xinjiang, China
+
+LIU Lu, LIU Puxing， ZHANG Wangxiong， SI Wenyang， QIAO Xuemei (College of Geographyand Environmental Science,Northwest Normal University,Lanzhou 73O07o,Gansu,China)
+
+Abstract: Studying climate extreme events and extreme warm events provides theoretical and practical value to tackle climate change and formulate disaster reduction and prevention policies.In this article,multimodel averaging was modeled by selecting climate models yielding beter simulation results using simulation accuracy verification based on Chinese daily surface temperature datasets from 1961 to 2017 and CMIP6 climate model data from 1961 to 2050.We used climate tendency rates and inverse distance weight methods to study spatiotemporal changes over time,including frequency and intensity of extreme warm events in Xinjiang from June to September in the past and future.During the last 57 years,the number of days and frequencyand intensity of extreme warm events in Xinjiang were $0 . 2 \mathrm { ~ d } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ ,0.02 times $\cdot \left( 1 0 \mathrm { a } \right) ^ { - 1 }$ ， $0 . 0 4 ^ { \circ } \mathrm { C } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ ,respectively, showing an increased trend.The spatial distribution of days and frequency of extreme warm events were higher in southern Xinjiang than northern regions and the highest incidence area was the west of southern Xinjiang. While the spatial distribution of intensity in extreme warm events was high in the north and low in the south,northern Xinjiang showed the highest intensity area.In the folowing 33 years,the days,frequency,and intensity of extreme warm events were predicted to increase significantly，where the days of extreme warm events wil increase by 21 days and 28 days under SSP245 and SSP585 scenarios,respectively. Compared with average levels from 1961 to 2017,the frequency of extreme warm events will increase by $1 . 6 -$ and $1 . 8 \AA -$ fold and the intensity of extreme warm events will increase by $1 . 2 ~ ^ { \circ } \mathrm { C }$ and $1 . 3 \ ^ { \circ } \mathrm { C }$ . In addition, the increasing trend under SSP585 is more significant. High incidence areas for number of days and frequency of extreme warm events are located in the middle of southern Xinjiang.The high incidence area for intensity of extreme warm events is located in southern Xinjiang.An increase in the number of days,frequency,and intensity of extreme warm events in southern Xinjiang is greater than northern Xinjiang.Finally,changes in the position of Iran subtropical high pressure,western Pacific subtropical high pressure,and changes in soil moisture can influence the severity of extreme warm events in Xinjiang
+
+Keywords: extreme warm events; multi-model ensemble; temporal-spatial change; scenario projections; Xinjiang

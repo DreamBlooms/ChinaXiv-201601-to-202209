@@ -1,0 +1,187 @@
+# 基于UML和CPN的列控系统等级转换建模与分析
+
+宋丽梅，朱爱红
+
+(兰州交通大学 自动化与电气工程学院，兰州 730070)
+
+摘要：针对列控系统的安全性和实时性要求，基于CTCS-3级列控系统需求规范中等级转换场景建立C2级向C3级转换的UML(统一建模语言)模型和有色Petri网(CPN)模型，分析了影响列车安全运行和行车效率的因素，即转换时长和转换成功率，验证了该建模方法的有效性。验证结果表明，UML和CPN模型相结合的方法适合于列控系统需求规范的验证。搭建的等级转换模型能够满足系统实时性要求。在保证切换成功率的前提下，列车运行速度与切换时间成反比，速度越高，切换时间越短；列车速度越高，对系统实时性要求也越高。
+
+关键词：中国列车控制系统；等级转换；统一建模语言；有色Petri网；建模 中图分类号：TP393 doi: 10.3969/j.issn.1001-3695.2017.07.0670
+
+# Modeling and formal analysis of level transition in train control system based on UML and CPN
+
+Song Limei, Zhu Aihong (School ofAutomation & Electrical Engineering,Lanzhou Jiaotong University,Lanzhou 73oo70,China)
+
+Abstract: According tothesecurityandreal-timeperformanceofthetraincontrolsystem,theunified modelinglanguage(UML) andthecoloredPetrinet(CPN)modelofC2toC3 transitionare establishedbasedonthelevel ransitionscenariooftheCTCS3levelcontrolsystemrequirement specification.This paper analyzes the influence factors ofthe saftyof train operationand traficefficiencythatis,thtiespentintetransiionndtesuccssrateofthelveltransition,tispaperverifiesthevalidity of this modeling method.Theresults show thathecombinationofUMLand CPN modelis suitable forthe specificationofthe requirementsof thecontrolsystem.Thehierarchicalconversion modelcan meet thereal-timerequirementsofthe system.In orderto ensurethesuccessrateofswitching,the trainrunning speedis inverselyproportionaltotheswitchingtime,the higher the speed,the shorterthe switchingtime;the higher thetrainspeed,thehigher thereal-time performanceofthe system.
+
+Key Words: Chinese train control system(CTCS); level transition; UML; colored Petri nets(CPN); modeling
+
+# 0 引言
+
+随着我国铁路线路的不断延伸，铁路运行的安全性变得至关重要[1]。作为列控系统重要场景之一的等级转换，要保证列车运行安全，提高行车效率，则需要减少等级转换时间，因此对列控系统等级转换展开深入研究是十分必要的。
+
+早期，国内外学者针对列控系统通信可靠性、ETCS通信链路进行了大量研究[2]。近年来，随着我国铁路的发展，对列控系统的研究逐渐转向形式化建模。国外学者运用混合时间自动机、SDL等方法对CTCS-3级列控系统进行功能安全分析及建模[3-4]；国内学者利用Petri 网(PN)、时间自动机、Timed RAISE等多种形式化建模方法对列控系统运行场景进行研究[5-9],有学者利用UML半形式化建模方法对列控系统等级转换场景进行建模分析[10,12]，也有学者利用形式化建模方法CPN(有色 Petri网)研究列车运行速度对等级转换成功率的影响[13\~15]。在对系统进行建模和验证的过程中，最重要的是要保证系统和模型的一致性。UML定义了一系列图形符号来描述软件系统。这些图形符号有严格的语义和清晰地语法，构成标准使得软件开发的所有相关人员都能用它描述软件系统的各个侧面。主要特点有：具有统一的标准、面向对象、概念明确、建模表示法简洁、独立于过程，图形表达简易多样，可以细致全面的表达系统模型，然而它不具备严格的数学定义，且缺少模型分析以及自动验证工具，而只选择有色Petri网建模，其有模型自动验证工具CPNTools，可以验证与系统某些性能有关的性质，如可达性、有界性、活性、安全性和公平性等，但其但其逻辑表达方式复杂，直接用其建模势必会对模型与系统的一致性带来困难。综上所述，目前研究均未考虑UML与CPN相结合的建模方法对列控控系统等级转换场景建模分析。
+
+本文利用UML和有色Petri网列控系统等级转换场景进行建模研究，首先，通过基于UML的消息顺序图对转换场景中的Train、Driver、Balise以及RBC之间的信息交互过程进行分析，其次，根据UML与Petri网转换规则，建立系统的CPN模型；最后，利用C2转C3的CPN模型，利用MATLAB对模拟10000次等级转换过程所得数据进行处理，得到不同切换时间下的转换成功率以及不同速度下的转换成功率。研究结果阐明了不同的切换时间、不同的运行速度对等级转换成功率的影响，为保证系统的实时性要求提供理论依据，也为提高列车运行效率提供参考。
+
+# 1 C2-C3等级转换过程
+
+随着我国铁路的不断发展，为满足客运需求，需要使CTCS-2级线路适应CTCS-3级列控系统要求，当列车车头离开C2线路后需进入C3级线路时，列车需进行C2/C3级等级转换，转换前车载设备应该检测到GSM-R网络并与其可靠的连接。若发现在C2/C3转换的边界不具备C3控车条件，则列车仍旧以C2 级控车，同时，系统会持续检测是否符合C3级控车条件，当检测符合C3控车条件后，则自动转换为C3级控车。C2向C3级具体转换过程中应答器的布置如图1所示。
+
+![](images/28a7ee1df19841ddf1df85467e4979a959c933a867f78172d0282577570ab794.jpg)  
+图1等级转换场景边界应答器布置
+
+各应答器组具体含义如表1所示。
+
+表1应答器组含义  
+
+<html><body><table><tr><td>应答器组</td><td>含义</td></tr><tr><td>GRE</td><td>至该点时注册GSM-R且可靠连接</td></tr><tr><td>RE</td><td>至该点时注册RBC</td></tr><tr><td>LTA</td><td>至该点时报告位置信息</td></tr><tr><td>LTO</td><td>执行转换</td></tr><tr><td>RT/LTT</td><td>至该点时若不符合转换条件时，则取消转换</td></tr></table></body></html>
+
+C2级向C3级转换分三个部分：
+
+a)与GSM-R、RBC建立通信阶段。转换前，车载设备与GSM-R网络建立可靠连接。当列车到达RE时，呼叫RBC并与其建立连接。
+
+b)数据交换阶段。具体信息交换如表2所示。
+
+c)转换执行阶段。当列车车头运行至转换执行点时，若符合转换条件，则由C2级自动转换到C3级控车。具体流程如图
+
+2所示。
+
+表2RBC与车载设备信息交换  
+
+<html><body><table><tr><td colspan="2">RBC向车载设备</td><td>车载设备向RBC</td></tr><tr><td rowspan="3">呼叫 RBC 成功</td><td>位置报告参数信息</td><td>列车位置信息</td></tr><tr><td>行车许可(MA)</td><td>当前控制等级信息</td></tr><tr><td>国家相关参数信息</td><td>确认信息</td></tr><tr><td rowspan="2">列车到达LTA</td><td>计算MA发送给列车</td><td>准确的进路信息</td></tr><tr><td>等级转换命令</td><td></td></tr></table></body></html>
+
+![](images/6e91d0b01fd5435eefee796e1b9b4c67867f335e0c400ad9ab4f6808c06fc22e.jpg)  
+图2CTCS-2级向CTCS-3级转换流程
+
+# 2 C2向C3等级转换UML模型构建
+
+# 2.1 UML消息顺序图模型
+
+一个消息顺序图(MSC)是一个五元组 $\scriptstyle \mathrm { M S C = ( I , M , s , r , \{ \leqslant i \} }$ 也1)。
+
+a)I代表有限实体集；M代表有限消息集； $\textcircled{2}$ 而s与 $\mathrm { ~ \bf ~ r ~ }$ 代表两个函数集，其中，消息发送用 $\mathbf { s } \in \mathrm { M } \to \mathbf { I }$ 表示，消息接收用 $\mathrm { ~ \bf ~ r ~ }$ $\in \mathbf { M } \to \mathbf { I }$ 表示。 $\mathrm { \ @ i \in I , \leqslant i = \mathrm { \Omega } \{ \mathrm { ? m | m \in M , t o ( m ) = i \} \cup \{ \mathrm { ! m | m \in \partial } } } $ $\mathrm { M , f r o m ( m ) { = } i } \}$ 表示消息发送与接收传递包。
+
+若用一个五元组 $\scriptstyle \mathrm { M S C = ( I , M , s , r , \{ \sqrt { \ S } \} }$ $\mathrm { i } \in \mathrm { I } )$ 描述等级转换信息交互过程，必须满足以下条件：
+
+(a)I包含Driver、RBC、Train、Balise 四个实体集;
+
+$( \mathsf { b } ) \mathsf { M }$ 包含与司机、RBC系统、车载系统以及应答器系统相关消息集;$\mathrm { ( c ) } { \leqslant } \mathrm { i } _ { 0 } { = } \ \{ \mathrm { ( l m , ? m ) } | \mathrm { m } { \in } \mathrm { M } \} .$ $\scriptstyle ( \mathrm { d } ) \leqslant \mathrm { i n s t } \cup \mathrm { i } \in \mathrm { I } ;$ 其中，与Driver、RBC、Train 以及Balise 四系统相关消息集如表3所示。
+
+表3系统相关消息集  
+
+<html><body><table><tr><td>系统</td><td>消息集合</td></tr><tr><td>Train</td><td>MD={RequestConf,Button,DelayButton}</td></tr><tr><td rowspan="2">RBC</td><td>MR={Connect-R,Conf,Parameter,Level,ConfingInfo,Conf-</td></tr><tr><td>D,Route,MA}</td></tr><tr><td rowspan="5">Driver</td><td>MT={Apporach,Info-G,Info-R,Connect-R,</td></tr><tr><td>Conf,Cancel,CancelConf,</td></tr><tr><td>Parameter,Level,ConfingInfo,Notice,Route,MA,</td></tr><tr><td>RequestConf,Button,DelayButton,Execution,Termination,</td></tr><tr><td>Position}</td></tr><tr><td rowspan="2">Balise</td><td>MB={Apporach,Info-G,Info-R,Cancel,Notice,Execution,</td></tr><tr><td>Termination }</td></tr></table></body></html>
+
+将消息集M映射至I的函数用s和r表示，例如$\scriptstyle \mathrm { I T = } _ { 1 }$ (Connect-R)， $\scriptstyle \mathrm { I B = s }$ (Connect-R)，而!m表示的事件是发送消息， $\mathrm { ? m }$ 则表示的事件是接收消息， ${ \leqslant } \mathrm { i }$ 代表事件在发生的局部顺序。建立的MSC模型如图3所示。
+
+图3中的矩形框代表具体信息交互的对象，分别是Driver、RBC、Train、Balise，竖直线代表先后顺序，箭头则表示信息交互。
+
+# 2.2 UML顺序状态图模型
+
+车载设备接收外部消息并作出相应的反映，从而状态发生改变。UML状态图主要用于展示对象所具有的所有可能状态以及某些事件发生时其状态的迁移情况，因此，选用状态图来描述C2向C3级等级转换的状态变换，其状态图模型如图4所示。
+
+![](images/e02c76554947b17c184fd8755d2f43fb214bd2d84e6252c705ea68fa2c9f18d6.jpg)  
+图3C2级向C3级转换的MSC模型
+
+对于图4顺序状态图，将其状态转换为Petri网中的库所，而将其各状态的变化转换为Petri网中的变迁。
+
+![](images/5810149554272a95afb89ca6535f81e56875ce26e5df6c2812e91fc7b6ddbcea.jpg)  
+图4C2向C3 转换的UML状态图
+
+# 3 模型的仿真及验证
+
+# 3.1 有色Petri 网
+
+有色Petri网（ColoredPetriNet，CPN）是一种形式化建模方法，是以数学、系统、图形为一体的描述分析工具[7]。CPN与 Petri 网(PN)的不同在于其完成了对库所变迁网的折叠，使Petri 网模型易于理解。着色Petri网赋予Petri网中的Token不同颜色，以此方式为Token分类，从而实现对PN系统的折叠。
+
+有色Petri网(CPN)定义:CPN是一个多元组集合 $\mathrm { C P N = \{ \sum } $ P，T，A，N，C，G，E，I}，其中各字母含义如表4所示。
+
+本文采用采用自上而下的建模方法，选用CPN建立等级转换的顶层模型和对应的下层模型，此外，利用CPNtools验证工具对所建模型进行仿真，检验模型在逻辑和结构上的错误。
+
+表4CPN元素及其含义  
+
+<html><body><table><tr><td>元素</td><td>含义</td><td>函数表达式</td></tr><tr><td>£</td><td>颜色集</td><td></td></tr><tr><td>P</td><td>库所集合</td><td></td></tr><tr><td>T</td><td>变迁集合</td><td></td></tr><tr><td>A</td><td>弧的集合</td><td>PNTNA=0</td></tr><tr><td>N</td><td>节点函数</td><td>NE[A→PXTUTXP]</td></tr><tr><td>C</td><td>颜色函数</td><td>C∈[P→∑]</td></tr><tr><td>G</td><td>识别函数</td><td>C∈[T→Exprs]</td></tr><tr><td>E</td><td>弧表达式函数</td><td>E∈[A→Exprs]</td></tr><tr><td>I</td><td>初始化函数</td><td>I∈[P→Exprs]</td></tr></table></body></html>
+
+# 3.2 C2级 $\scriptstyle  \mathbf { C } 3$ 级转换的CPN顶层模型
+
+等级转换过程包含两种情况，分别是正常位置的转换、降级转换。本文针对正常位置转换中的CTCS-2 级向C3 级的转换进行建模。本章所有模型均以0.1s作为一个单位时间。
+
+由图2的转换流程图可知，当列车车头到达LTO时，若符合转换条件，将自动由C2级 $\scriptstyle \to \mathbf { C } 3$ 级系统控车。从消息顺序图中提取信息，在建立等级转换整体CPN模型时，仅考虑Driver、Balise、Train及RBC之间的数据交互。根据UML状态图模型到CPN的转换规则，建立相应的CPN顶层模型如图5所示。
+
+模型中托肯Token用{Massage} $@$ Time表示。其中把当前 Train与RBC 之间的信息用 Massage 表示；而对于Token 的时间戳用Time 表示。库所集代表等级转换过程中Train 的状态以及RBC所处的状态，具体含义说明见表5。
+
+![](images/0cbddcbc9cc4e3a85c543485b5621bc3161607206b510218fd6c3f183a91d970.jpg)  
+图5等级转换的CPN顶层模型
+
+表5库所含义说明  
+
+<html><body><table><tr><td>库所名称</td><td>颜色集</td><td>含义说明</td></tr><tr><td>VSC</td><td>S</td><td>车载安全计算机</td></tr><tr><td>C2</td><td>MSG</td><td>C2 级控车模式</td></tr><tr><td>VSCReceiveLinkOrder</td><td>MSG</td><td>车载设备接收接接指令</td></tr><tr><td></td><td></td><td>VersionInfoMatchFailRemainC2MSG信息匹配失败，仍以C2模式控车</td></tr><tr><td>Link Succeed</td><td>MSG</td><td>呼叫 RBC 成功</td></tr><tr><td>RBCReceivePositionInfo</td><td></td><td>MSGRBC接收车载发送的列车位置信息</td></tr><tr><td>VSC Receive MA</td><td>MSG</td><td>车载接收行车许可</td></tr><tr><td>Convert To C3</td><td>MSG</td><td>转换为C3级系统</td></tr></table></body></html>
+
+模型中的五个变迁全为置换变迁，其中VSCConGSM-R模拟了列车经过GSM-R网络连接应答器组至RBC连接应答器组的时间延时。当列车车头压过RE时，呼叫RBC的过程用变迁CallRBC来模拟，连接时间 $\mathrm { { T } { < } 1 0 \mathrm { { s } } }$ ，若 $\mathrm { { T } \geq 1 0 s }$ ，则呼叫失败，列车仍以原来等级运行。另外，置换变迁PositionReport 与ArriveLTA则模拟了RBC与车载设备、列车之间信息交互的过程。置换变迁ArriveLTO则模拟转换为C3级的过程。
+
+各动作过程用变迁集来描述，具体含义如表6所示。
+
+表6变迁含义说明  
+
+<html><body><table><tr><td>变迁名称</td><td>含义说明</td></tr><tr><td>VSCConGSM-R</td><td>车载与GSM-R建立连接</td></tr><tr><td>Call RBC</td><td>呼叫RBC</td></tr><tr><td>Position Report</td><td>RBC向车载设备发送位置报告</td></tr><tr><td>Arrive LTA</td><td>列车到达预告应答器组LTA</td></tr><tr><td>Arrive LTO</td><td>列车到达预告应答器组LTO</td></tr></table></body></html>
+
+从C2向C3级转换的CPN顶层模型中可以看出，变迁VSCConGSM-R、CallRBC、Position Report ArriveLTA、Arrive LTO均为双长方形，且带同名小长方形，这些变迁均带有子页。
+
+# 3.3 C2级 $\scriptstyle  \mathbf { C } 3$ 级转换的CPN子页模型
+
+按照置换变迁发生的顺序，将顶层模型加以细化，可得出各子页模型。限于论文篇幅，这里只给出列车与GSM-R建立链接以及列车向RBC发送位置信息的CPN模型，具体如图6、图7所示。
+
+![](images/c2b441d2ae82c82052a6f2eec57a230e72ebe4c52862493fbff3eee6c5ff98d5.jpg)  
+图6列车与GSM_R建立连接的子页模型
+
+![](images/5307e8f06313fa73a0e003a56e819504bac25ad3cb186a77d45210986f968879.jpg)  
+图7列车向RBC发送位置信息的子页模型
+
+# 4 模型仿真与分析
+
+对“C2级向C3级等级转换的CPN模型”进行10000次转换过程的模拟，利用Matlab对所得数据进行仿真，结果如图8所示。
+
+![](images/614d710b5235b1a6a77ab45069e08a3be546a3d3e05ab24467b787dd2165ab99.jpg)  
+图8不同切换时间下的转换结果
+
+列车转换时间与转换成功概率的关系如表7所示。
+
+表7切换成功概率与时间的关系  
+
+<html><body><table><tr><td>切换成功概率/%</td><td>切换时间/s</td></tr><tr><td>98.0</td><td>102</td></tr><tr><td>99.5</td><td>103</td></tr><tr><td>99.8</td><td>104</td></tr></table></body></html>
+
+因此，在保证切换时间104s的情况下，转换成功率可达到$9 9 . 8 \%$ 以上，符合规范要求。从图8可以看出，列车切换时间主要集中在 $8 4 { \sim } 1 0 2 \mathrm { s } .$ ，假设从预告点(LTA)到转换执行点(LTO)，讨论列车分别以初速度 $2 5 0 \mathrm { k m / h }$ ， $2 4 0 \mathrm { k m / h }$ ， $2 2 0 \mathrm { k m / h }$ 运行时所需转换时间，其结果如图9所示。
+
+![](images/b272a86d6ec4ea512027b020e400eecb8571b4d8d504d5b9e2c308ea2f588e26.jpg)
+
+图9不同速度下的转换结果
+
+由图9可得，列车切换时间与切换成功概率在不同速度下的关系如表8所示。
+
+表8列车切换成功概率与切换时间在不同速度下的关系  
+
+<html><body><table><tr><td rowspan="2">切换成</td><td colspan="3">切换时间</td></tr><tr><td>功概率/% v=250km/h</td><td>v=240km/h</td><td>v=220km/h</td></tr><tr><td>98.0</td><td>102</td><td>106</td><td>113</td></tr><tr><td>99.5</td><td>103</td><td>107</td><td>115</td></tr><tr><td>99.8</td><td>104</td><td>108</td><td>116</td></tr></table></body></html>
+
+# 5 结束语
+
+本文对CTCS-3级列控系统C2/C3级等级转换进行建模研究，采用基于UML和CPN的建模方法，由UML模型入手，再提取相关信息建立CPN模型，运用MATLAB软件对模型运行数据进行仿真，重点研究了不同速度、不同切换时间对转换成功率的影响，得到以下结论：
+
+a)列车以不同速度进行等级转换时，行车速度越高，列车转换时间越短。b）为保证 $9 9 . 8 \%$ 以上的转换成功率，行车速度越高，对列车进行等级转换的实时性要求更高。c）在保证C2模式下，以其顶棚速度 $2 5 0 \mathrm { k m / h }$ 进行转换，转换成功率提高了 $0 . 3 \%$ 。d）利用UML和CPN 结合方法进行建模，并对模型运行数据进行仿真，所得仿真结果符合规范要求，在一定程度上满足系统实时性要求。
+
+# 参考文献：
+
+[1]张友兵，唐涛．基于有色Petri网的CTCS-3 级列控系统RBC切换的建模与形式化分析.铁道学报，2012,34(7):49—55.  
+[2]Trowitzsch J, Zimmermann A. Using UML state machines and petri nets forthe quantitative investigation of ETCS [C]// Proc of InternationalConference on Performance Evaluation Methodolgies and Tools.2Oo6:34.  
+[3]Liu J,Tang T,Zhao L,etal.Functional safety analysis method for CTCSlevel 3 based on hybrid automata $[ \mathrm { C } ] / \AA$ Proc of the 15th InternationalSymposium on Object//Component//Service-Oriented Real-TimeDistributed Computing.Washington DC:IEEE Computer Society,2012:7—12.  
+[4]AlurR,Etessami K, Yannakakis M. Inference of Message Sequence Charts[J].IEEE Trans on Software Engineering,2003,29(7): 623—633.  
+[5]王元鹏，胡晓辉，陈永，等．应答器故障导致CTCS 等级转换的建模与仿真．计算机工程与应用,2016,52(8):234—239.  
+[6]王建．基于随机Petri网的高铁列控系统C2//C3等级转换过程建模及仿真[D]．成都：西南交通大学,2015.  
+[7]梁楠，王海峰．基于SPN的CTCS-3级列控系统RBC实时性能分析[J].铁道学报,2011,33 (2):67-71.  
+[8]康仁伟，王俊峰，吕继东．基于UPPAAL的高铁列控系统等级转换过程建模与验证[J].北京交通大学学报，2012,36(6):63-67.  
+[9]曹源．高速铁路列车运行控制系统的形式建模与验证方法研究[D].北京：北京交通大学,2011.  
+[10]赵晓宇，程瑞军，程雨，等．基于HUML的列控系统形式化建模与参数分析方法[J].铁道学报,2016,38(11):80—87.  
+[11]刘金涛，唐涛，赵林，等．基于UML模型的CTCS-3 级列控系统功能安全分析方法 [J].铁道学报,2013,35(10):59—66.  
+[12]赵林，唐涛，刘金涛，等．基于UML扩展机制的列控系统建模方法研究[J].铁道学报,2012,34(12):64-70.  
+[13]杨柳倩，张友鹏.基于UML和有色Petri 网的RBC切换场景的建模方法研究[J].计算机测量与控制,2012.20(4):1116-1119.  
+[14]徐田华，赵红礼，唐涛．基于有色Petri网的ETCS无线通信可靠性分析[J]．铁道学报,2008,30(1):38-42.  
+[15]江金龙，周献中，孙勇成，等．基于UML和Petri 网的层次建模分析方法[J]．系统仿真学报,2006,18(2):290-293.

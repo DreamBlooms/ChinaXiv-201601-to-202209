@@ -1,0 +1,166 @@
+# $9 \mathrm { \sim } 1 0$ 岁儿童和成人的一致性序列效应
+
+赵鑫1,2贾丽娜周爱保1,2
+
+（1甘肃省行为与心理健康重点实验室，西北师范大学，兰州730070）（²西北师范大学心理学院，兰州730070）（³天津师范大学心理与行为研究院，天津300074）
+
+摘要一致性序列效应是指个体根据前一情境中的冲突信息，灵活适应当前环境的能力。研究选取 $9 \mathrm { \sim } 1 0$ 岁的儿童和 $1 8 { \sim } 2 5$ 岁的成人为被试，采用色-词 Stroop任务和 Stroop与Flanker刺激混合的任务，在控制重复启动的影响后，考察一致性序列效应在不同任务中的年龄差异。结果发现，在不同的任务中，儿童和成人均表现出显著的一致性序列效应，且一致性序列效应的大小不存在显著差异。研究结果表明，冲突适应过程涉及更高级的加工过程， $9 \mathrm { \sim } 1 0$ 岁的儿童已具备类似成人的、更一般化的冲突适应能力。
+
+关键词认知适应；一致性序列效应；色-词 Stroop任务；Flanker任务
+
+分类号B842
+
+# 1引言
+
+执行功能(executive functions,EFs)是一种较高级的认知加工过程，在社会生活中起到重要作用(Cao et al.,2013; Lustig,Hasher,& Tonev,2006; Titz & Karbach,2014)。在不断变化的环境中，执行功能能够有效的调节个体的适应行为，进而实现当前目标(Diamond,2013)。执行功能包括多种不同的子成分，其中干扰控制是指个体通过调节注意力，对不相关的刺激或刺激特征进行抑制，从而做出正确反应的能力(Miyake,Friedman,Emerson,Witzki,&Howerter,2000)。干扰控制的经典研究范式包括色-词 Stroop 任务(MacLeod,1991)和Flanker 任务(Eriksen&Eriksen,1974)，在这两项任务中，当目标刺激和非目标刺激同时出现时，都要求个体对非目标刺激进行抑制，进而对目标刺激做出反应。其中，当非目标刺激与目标刺激涉及相同的反应方式时，为一致试次；当目标刺激和非目标刺激引发不同的反应方式时，则为不一致试次。在不一致试次中，个体需要抑制对非目标(冲突)刺激的注意以及相应的行为反应。目前大量研究均已证明，与不一致试次相比，个体在一致试次下的反应时更快且正确率更 高(Egner & Hirsch,2005; Goldfarb,Aisenberg,& Henik,201; Stins,Polderman, Boomsma,&DeGeus,2007)。因此，研究者将不一致试次和一致试次在反应时和正确率上的差异，定义为一致性效应，并用来衡量干扰控制能力的大小，即干扰控制量。
+
+除通过一致性效应衡量干扰控制外，另一种衡量方法反映了干扰控制能力的灵活性和适应性。在考察抑制控制能力的任务中，快速的跨试次适应能力可以通过一致性序列效应(congruency sequence effects,CSEs)的形式观察到。一致性序列效应，也称冲突适应效应或Gratton效应，最早是由 Gratton等人(1992)通过Flanker任务发现的(Gratton,Coles,&Donchin,1992)，之后不同研究者在其他抑制控制的任务中也发现了一致性序列效应(Kems,2006;Larson,Clawson,Clayson,South,2012; Larson, Kaufman,Perlstein,2009)。一致性序列效应表现为被试在不一致试次之后的一致性效应显著小于一致试次之后的一致性效应(Duthoo et al.,2014b)，即与一致试次之后的不一致试次相比(简称cI试次)，个体在不一致试次之后的不一致试次(iI)中的反应时较快且正确率较高；或者表现为与不一致试次后的一致试次(iC)相比，个体在一致试次之后的一致试次(cC)中的反应时较快且正确率较高；亦或是同时包括上述两种表现形式(Lamers&Roelofs,2011)。
+
+目前对一致性序列效应进行解释的理论至少包括三种(Botvinick,Braver,Barch,Carter,& Cohen,2001; Gratton et al.,1992; Mayr,Awh,&Laury,2003)。第一种理论观点为冲突监测理论(Botvinick etal.,2001)，该理论认为，当干扰信息出现时，前部扣带回皮层(anterior cingulatecortex,ACC)对干扰信号进行检测，并进一步激发背外侧前额皮层(dorsolateral prefrontalcortex,DLPFC)，以加强认知系统自上而下的认知控制，进而对认知资源进行调整。当之前的试次为不一致试次时，相关的大脑皮层区域处于较高的激活状态，导致认知控制水平较高。因此在当前的不一致试次中，认知系统处于积极的准备状态，能够更有效的对冲突进行监测和控制。第二种理论观点为重复-预期的理论解释(Grattonetal.,1992)，按照该理论的解释，在实验中，被试一般会预期连续的两个试次为同一种类型(同为一致试次或同为不一致试次)。在Flanker任务中，不一致试次之后，被试的预期是下一个试次也是不一致试次，因此注意的范围会缩小，并定位于中央的刺激；相反，在一致试次之后，被试会预期下一个试次同为一致试次，因此注意的范围会相应的扩大。根据该理论，这些不同的期望整合在一起，则构成了一致性序列效应。第三种解释是基于低水平重复效应的概念(Mayr etal.,2003)，并结合了特征整合或特征启动的观点(Hommel,Proctor,&Vu,2004)。该理论认为并不存在认知适应的过程，因此也不涉及ACC 或DLPFC 的参与，相反，该理论强调，在标准的 Stroop和Flanker任务中，当刺激出现时，认知系统会将相应的刺激特征与反应特征进行整合并存储在情景记忆中。在下一试次中，当刺激特征出现重复时，会激发认知系统在上一试次中整合的模式，导致反应时较短，出现了适应效应(Nieuwenhuis et al.,2006)。根据特征整合理论，反应时上的差异是由于刺激和反应的同时发生自动引发一个短暂的刺激-反应(S-R)联结。该联结形式表明，当再次激活联结中的某个元素时(S或R)，另一个元素(R或 S)也会被激活或启动。
+
+目前对于一致性序列效应年龄差异的研究，大多数研究均考察的是成人(Duthoo et al.,2014b; Freitas, Bahar, Yang,& Banai, 2007； Funes, Lupianez, Humphreys,2010; Jiménez &Mendez,2013)，而采用标准的干扰控制任务来考察儿童和青少年一致性序列效应的研究则相对较少，并且这些研究发现，一致性序列效应早在5岁时就出现了(Ambrosi,Lemaire,&Blaye,2016;Cragg,2016； Erb,Moher, Song,& Sobel, 2018; Iani, Stella,& Rubichi, 2014;Larson et al.,2012; Nieuwenhuis et al.,2006; Stins et al.,2007)。然而，在上述研究中，CSEs是否由低水平的加工过程(即特征整合解释所提出的)所驱动，一些研究并没有有效控制这种可能性(Ambrosi et al.,2016; Iani et al.,2014; Stins et al.,2007)；另外，一些研究并没有在同一个实验中直接比较不同年龄组之间的差异(Ambrosi et al.,2016; Stins et al.,2007)；还有一些研究并未在所有的干扰控制任务中发现稳定的CSEs，例如，Ambrosi等人(2016)的研究中，在 Stroop 和 Simon任务中发现了CSEs，却没有在Flanker任务中发现CSEs。因此，有研究通过实验设计或事后试次的分离来排除重复启动的影响(Erb etal.,2018;Larson etal.,2012;Nieuwenhuis etal.,2006)。综上，与成人相比，儿童是否具有相同的适应能力以及相同的认知适应模式，仍然需要更多的研究来探讨。
+
+一致性序列效应是以个体的抑制控制能力为基础的。有研究表明，9.6\~11.5岁是抑制能力发展较快的年龄阶段(Brocki&Bohlin,2004)。此外，Zhao 和Jia(2018)的研究采用改版Stroop任务对平均年龄为10.48岁的儿童进行干扰控制能力的训练，结果发现与成人相比，该年龄阶段儿童抑制控制的可塑性更强。据此，9\~10岁可能也是冲突适应能力发展的关键期。此外， $9 \mathrm { \sim } 1 0$ 岁的儿童在干扰控制任务上的行为表现具有可比性(MacLeod,1991;Rueda etal.,2004)，但目前研究结论尚不一致(Larson et al.,2012;Waxer＆Morton,2011)。如 Waxer和Morton(2011)探讨了不同年龄阶段的一致性序列效应，结果发现， $9 \mathrm { \sim } 1 1$ 岁的儿童没有表现出显著的一致性序列效应。Larson等人(2012)选取21名平均年龄为9.7岁的儿童与 26名成年人为被试，利用 Stroop任务探讨了一致性序列效应，结果发现，儿童能够表现出显著的一致性序列效应，且与成人的一致性序列效应差异不显著。研究表明，与认知控制相关的前部扣带回(ACC)皮层发展成熟要到成年早期(Adleman et al.,2002)，前额皮层(PFC)的发展成熟至少要到青少年时期(Luna& Sweeney,2004)。因此， $9 \sim 1 0$ 岁儿童执行抑制控制任务所涉及的大脑结构和功能尚未完全成熟(Luna et al.,2004)，儿童所表现出的与成人相似的行为反应，可能是通过激活其他大脑回路来实现的(Wilk&Morton,2012)。
+
+如前所述，儿童在多大程度上能够表现出与成人类似的灵活适应能力，有待于更深入的评估。因此，本研究选取 $9 \mathrm { \sim } 1 0$ 岁的儿童和 $1 8 { \sim } 2 5$ 岁的成人为被试，探讨一致性序列效应的年龄差异。研究包括两个实验任务，任务1为标准的双选择色-词 Str00p任务，其中只分析反应变化的试次，以控制低水平的加工过程。基于以往的研究(Larsonetal.,2012)，我们可以预测，与成人被试相比，儿童的反应时较慢且错误率较高。然而，我们主要关注的问题是，儿童是否能够表现出与成人类似的一致性序列效应。在任务2中，通过采用 Stroop 试次和Flanker试次混合的实验设计，来进一步排除低水平加工过程的潜在影响。跨任务的CSEs更能够有效说明认知控制的适应过程，因为前一试次与当前试次中涉及的是完全不同的刺激。与单一任务(任务1)相比，Flanker-Stroop 任务的难度相对有所增加，因此对认知控制的要求会提高，个体需要更多的认知资源来完成当前任务。有研究表明，在一定的条件下，在成人被试中发现了跨任务的CSEs(Braemetal.,2014)，而对于儿童，其相关脑区发育尚不完善(Adleman et al.,2002;Luna& Sweeney,2004)。由此我们预测，儿童在跨任务中，可能无法有效的调整认知资源，适应冲突的环境。因此，不同年龄间认知控制能力的差异可能会更显著(Benikos, Johnstone,& Roodenrys, 2013; Kray,Karbach,& Blaye,2012)。
+
+# 2方法
+
+# 2.1被试
+
+33名 $1 8 { \sim } 2 5$ 岁的大学生(19名男生)自愿参加实验，平均年龄20.6岁 $( S D { = } 0 . 3 3 )$ ，34名来自某小学的 $9 \sim 1 0$ 岁儿童(16名男生)参加实验，平均年龄9.5岁 $( S D { = } 0 . 0 9 )$ 。根据之前该小学的标准心理测评结果，所有儿童均不存在精神或神经疾病史。成人被试均签署了知情同意书，儿童被试监护人均签署了知情同意书。所有被试均为汉族、右利手、视力或矫正视力正常，不存在色盲。实验结束后给予被试一定的报酬。
+
+# 2.2 仪器与刺激
+
+实验任务通过E-prime软件编写，刺激呈现在17英寸的电脑显示屏上，被试距显示屏的距离约 $6 0 \mathrm { c m }$ 。Stroop任务(任务1)中的刺激为带有颜色的汉字“红"和“绿”，当汉字“红"的字体颜色为红色时，为一致试次，当汉字“红"的字体颜色为绿色时，为不一致试次；同理，红色写的“绿”为不一致试次，绿色写的“绿”为一致试次。任务2中的刺激既包括任务1中的“红"“绿"汉字，同时还包括箭头Flanker刺激。在Flanker任务中，刺激是由5个箭头组成，当5个箭头同时朝向某个方向时 $\Longrightarrow > > > >$ 或<<<<<)为一致试次，当中间箭头的指向与两侧箭头的方向不同时 $( > > < > )$ 或 $< < > < < )$ ，则为不一致试次。所有任务要求被试用左手食指按键盘上的"F"键，用右手食指按键盘上的"J"键进行反应。
+
+# 2.3 实验设计与程序
+
+采用2（前一试次一致性：一致c，不一致i) $\times 2$ （当前试次一致性：一致C，不一致I)$\times 2$ （年龄组：儿童，成人）的混合设计，其中，前一试次一致性与当前试次一致性为被试内变量，年龄组为被试间变量。整个实验共分两天进行，第一天要求被试完成任务1(色-词Stroop 任务)。为了避免练习效应与疲劳效应，要求被试回去休息后，第二天来完成任务2(Flanker-Stroop 混合任务)。
+
+具体实验流程如下：首先在灰色的屏幕上呈现 ${ 5 0 0 } \mathrm { m s }$ 的黑色注视点“+”，然后是300\~500ms的随机空屏，之后刺激呈现 $1 5 0 0 \mathrm { m s }$ ，被试做出反应后立即消失，刺激之后是1000ms的空屏，接着进入下一试次。任务1中(见图1左)，始终要求被试对字的颜色进行反应，如果字的颜色为红色，则用左手食指按键盘上的“F"键进行反应，如果字的颜色为绿色，则用右手食指按键盘上的"J"键进行反应；任务2中(见图1右)，当出现箭头时，要求被试对中间箭头的方向进行反应，而忽略两侧箭头的方向。如果中间箭头的方向指向左，则用左手食指按键盘上的"F"键进行反应，如果中间箭头的方向指向右，则用右手食指按键盘上的"J"键进行反应。而当出现颜色词时，要求与任务1相同，即对字的颜色进行反应，如果字的颜色为红色，被试按键盘上的"F"键进行反应，如果字的颜色为绿色，被试按键盘上的“J”键进行反应。整个实验要求被试既快又准的进行反应。
+
+实验程序分为1个练习block和4个正式实验block，在练习block中，为了让被试熟悉按键规则和实验过程，练习正确率达到 $8 5 \%$ 后才可以进入正式实验。任务1中练习block共16个试次，包括8个一致试次和8个不一致试次。正式实验每个block有64个试次，包括32个一致试次和32个不一致试次，正式实验共256个试次，所有试次采用伪随机的方式排列。每个block结束后有一个休息时间，休息时间的长短由被试自己控制，整个任务大约持续15分钟。任务2是 Stroop 刺激和Flanker刺激混合的任务，其中练习block 共24个试次，一致试次和不一致试次的比例相同，练习正确率达到 $8 5 \%$ 后进入正式实验。正式实验每个block 包括64个试次，共256个试次。在每个block中，包括4个Stro0p 刺激和4个Flanker刺激。首先呈现任务转换试次，接下来为同一任务内的试次转换，即前四个试次的呈现顺序为 Stroop→Flanker→Stroop $$ Stroop 刺激(简称 SFSS)或 Flanker $$ Stroop $$ Flanker→Flanker刺激(简称FSFF)。之后的试次再次为不同任务的转换，构成了不同任务和相同任务间的转换。采用这种严格转换的目的是强制性的不断更新任务设置，从而将与任务设置相关的影响降低到最小，并加强对不断变化的认知需求的调整(Wilk,Ezekiel,&Morton,2012)。整个任务中，在不同任务转换(跨任务转换)时，Stroop→Flanker 和 Flanker→Stroop 试次组合中均包括相等数量的cC,cI,iC,iI试次。每个block间被试可自主休息，整个任务完成大约需15分钟。
+
+![](images/3bb718083d0c9934c487cca372c9ae5aa9046e74acd0d6742566183eda89ed6f.jpg)  
+图1实验流程图(左：任务1；右：任务2)
+
+# 2.4 数据分析
+
+对于任务1，对反应时和正确率进行重复测量方差分析，其中年龄组(儿童，成人)为被试间因素，前一试次一致性(一致，不一致)和当前试次一致性(一致，不一致)为被试内因素。反应时的分析中，排除反应错误的试次、试次之后反应错误的试次以及重复正确反应的试次对。最后一种排除标准用于控制重复效应，根据该标准，排除了 $3 2 . 2 \%$ 的试次。然而，使用所有数据(包括重复试次)进行的分析与排除试次后的分析结果呈现出相同的模式。数据分析的过程中，主要关注前一试次一致性与当前试次一致性的交互作用，或年龄组 $\times$ 前一试次一致性×当前试次一致性的交互作用。如果上述交互作用显著，接下来则比较一致试次之后(cCvs.cI)和不一致试次之后(iC vs.iI)的一致性效应，并比较cC与iC，cI 和iI试次的反应，
+
+来进一步明确一致性效应减少的来源。
+
+对于任务2，数据采集的过程中，一名成人被试的数据丢失，故排除这个被试的数据。任务2主要关注跨任务转换类型，对反应时和正确率进行年龄组×转换类型(Stroop→Flankelvs. Flanker→Stroop) $| \times \rrangle$ 前一试次一致性 $\mathbf { \nabla } _ { \cdot } \times$ 当前试次一致性的重复测量方差分析。数据分析中，反应时数据排除错误的反应以及试次之后的错误反应。此外，为了直接比较成人和儿童在这两项任务中的冲突适应效应的大小，我们计算了反应时和准确率之间的差异分数。对于反应时数据，差异分数的计算方式为： $( \mathrm { R T _ { c l } - R T _ { c C } } ) - ( \mathrm { R T _ { i l } - R T _ { i C } } )$ (Nieuwenhuis et al., 2006)；正确率差异分数的计算为： $( \mathrm { A C C _ { \mathrm { c C } } - A C C _ { \mathrm { c I } } ) - ( \mathrm { A C C _ { \mathrm { i C } } - A C C _ { \mathrm { i I } } ) } }$ ，差值越大，表明认知适应能力越强。所有分析均以 $< . 0 5$ 的 $p$ 值作为统计显著性的标准，以 $\eta ^ { 2 }$ 作为效应量大小的指标。
+
+# 3 结果
+
+# 3.1 任务1结果
+
+反应时和正确率的分析结果见图2和表1。对反应时进行方差分析的结果表明，年龄组的主效应显著， $F ( 1 , 6 5 ) { = } 3 5 . 2 8 , p { < } 0 . 0 0 1$ $\eta _ { p } { } ^ { 2 } = 0 . 3 5$ ，成人的反应时显著快于儿童；当前试次一致性的主效应显著， $F ( 1 , 6 5 ) { = } 6 4 . 0 5 , p { < } 0 . 0 0 1 , { \eta } _ { p } { = } 0 .$ ，一致条件下的反应时显著快于不一致条件；前一试次一致性与当前试次一致性的交互作用显著，进一步事后分析发现，一致试次之后(cC vs.cI)的一致性效应显著， $F ( 1 , 6 6 ) = 1 3 3 . 4 1 , p { < } 0 . 0 0 1 , \eta _ { p } { < } 0 . 6 7$ ；不一致试次之后(iC vs.iI)的一致性效应也显著， $F ( 1 , 6 6 ) { = } 1 0 . 1 9 , p { = } 0 . 0 0 2 , \eta _ { p } { = } 0 . 1 3$ ，但当前不一致试次的反应快于当前一致试次。cC试次的反应时显著快于iC 试次， $F ( 1 , 6 6 ) { = } 6 2 . 4 1 , p { < } 0 . 0 0 1$ ， $\eta _ { p } { ^ 2 } { = } 0 . 4 9$ ：cI试次的反应时显著慢于iI试次， $F ( 1 , 6 6 ) { = } 6 4 . 8 3 , p { < } 0 . 0 0 1 , \eta _ { p } { = } 0 . 5$ ，表明存在一致性序列效应。然而，成人 $\scriptstyle ( M = 7 7 . 7 2 \mathrm { m s }$ $S D { = } 6 1 . 8 8 \mathrm { \Omega }$ 与儿童 $( M { = } 1 0 9 . 7 8 , S D { = } 8 6 . 7 3 )$ 在CSEs的大小(差异分数）上不存在显著差异， $F ( 1 , 6 5 ) { = } 3 . 0 2 , p { = } 0 . 0 9 , \eta _ { p } { = } 0 . 0 4$
+
+对正确率进行分析发现，年龄组的主效应显著， $F ( 1 , 6 5 ) { = } 3 4 . 4 4 , p { < } 0 . 0 0 1 , \eta _ { p } { ^ { 2 } { = } 0 . 3 5 }$ ，成人的正确率显著高于儿童；前一试次一致性与当前试次一致性的交互作用显著，进一步分析发现，一致试次之后(cCvs.cI)的一致性效应显著， $F ( 1 , 6 6 ) { = } 6 3 . 5 0 , p { < } 0 . 0 0 1 , \eta { _ { p } }$ $\eta _ { p } { } ^ { 2 } \mathrm { = } 0 . 4 9$ ；不一致试次之后(iCvs.iI)的一致性效应不显著， $F ( 1 , 6 6 ) { = } 0 . 5 5 , p { = } 0 . 4 6 , \eta _ { p } { = } 0 . 0 1$ ，同样表明存在CSEs。iI试次的正确率显著高于cI试次， $F ( 1 , 6 6 ) { = } 5 2 . 6 6$ $p { < } 0 . 0 0 1$ ， $\eta _ { p } { ^ 2 } { = } 0 . 4 4$ ；cC 试次与iC试次的正确率不存在显著差异， $F { < } 1$ 。成人 $( M { = } 0 . 0 8 , \ S D { = } 0 . 0 9 )$ 与儿童 $( M { = } 0 . 0 9 , S D { = } 0 . 1 1 )$ 在CSEs的大小(差异分数)上不存在显著差异， $F { < } 1$ 。
+
+![](images/d830af5e3a423c13f89a2300f7575af6e428d77164783cab889eabacf055cdb9.jpg)  
+图2 成人和儿童在前一试次(一致vs.不一致)和当前试次(一致vs.不一致)的平均反应时和标准误(左)；平均正确率和标准误(右)
+
+# 3.2 任务2结果
+
+反应时和正确率的分析结果见图3和表1。从图3上方的图中可以看出，儿童和成人在反应时的数据上表现出相似的模式，即与一致试次之后的一致性效应相比，不一致试次之后的一致性效应略有下降，这可能是由于cC试次的反应时快于iC所导致的。对反应时进行年龄组 $\times$ 任务转换 $\times$ 前一试次一致性 $\mathbf { \nabla } _ { \times }$ 当前试次一致性的方差分析，发现主要关注的前一试次一致性 $\times$ 当前试次一致性的交互作用显著，一致试次之后(cCvs.cI)的一致性效应显著， $F ( 1 ,$ 65)=185.70, $p { < } 0 . 0 0 1$ ， $\eta _ { p } { } ^ { 2 } \mathrm { = } \ 0 . 7 4$ ；不一致试次之后(iCvs.iI)的一致性效应也显著， $F ( 1 _ { : }$ $6 5 ) = 1 2 3 . 7 0 , p { < } 0 . 0 0 1$ $\eta _ { p } { ^ 2 } \mathrm { = } 0 . 6 6$ 。cC 试次的反应时显著快于iC试次， $F ( 1 , 6 5 ) { = } 3 6 . 9 4 , p { < } 0 . 0 0 1$ ，$\eta _ { p } { ^ 2 } { = } 0 . 3 6$ ；然而，iI试次与cI试次的反应时不存在显著差异， $F { < } 1$ 。CSEs 的大小在不同年龄组以及不同转换类型间不存在显著差异，其中，在 Stroop→Flanker 转换中，成人 $\scriptstyle ( M = 3 2 . 0 2 { \mathrm { m s } }$ $S D { = } 5 2 . 4 7 )$ 与儿童 $\scriptstyle ( M = 1 4 . 2 3 \mathrm { m s }$ $S D { = } 7 5 . 2 1$ )差异不显著， $\scriptstyle { p = 0 . 2 7 }$ ；在Flanker $$ Stroop 转换中，成人 $\scriptstyle { M = 2 8 . 3 4 \mathrm { m s } }$ $S D { = } 5 9 . 8 0 \mathrm { \Omega }$ 和儿童 $( M { = } 4 8 . 8 6 \mathrm { m s }$ 0 $S D { = } 9 5 . 1 7 \mathrm { \Omega }$ )不存在显著差异， $\scriptstyle { p = 0 . 3 0 }$ 。其他主效应及其交互作用的具体结果见表1。
+
+表1任务1和任务2的统计分析结果  
+
+<html><body><table><tr><td colspan="4">表1任势1和任势2的统计分析结果</td><td rowspan="2">np²</td></tr><tr><td>任务和因变量</td><td>因素</td><td>F</td><td>P</td></tr><tr><td>任务1</td><td>年龄组</td><td>35.28</td><td><0.001***</td><td>0.35</td></tr><tr><td>反应时(ms)</td><td>前一试次一致性</td><td>0.07</td><td>0.79</td><td>0.00</td></tr><tr><td></td><td>当前试次一致性</td><td>64.05</td><td><0.001***</td><td>0.50</td></tr><tr><td></td><td>前一试次×当前试次</td><td>103.21</td><td><0.001***</td><td>0.61</td></tr><tr><td></td><td>年龄组×前一试次</td><td>0.02</td><td>.89</td><td>0.00</td></tr><tr><td></td><td>年龄组×当前试次</td><td>0.10</td><td>0.75</td><td>0.00</td></tr><tr><td></td><td>年龄组×前一试次×当</td><td>3.02</td><td>0.09</td><td>0.04</td></tr><tr><td>任务1</td><td>前试次 年龄组</td><td>34.44</td><td><0.001***</td><td>0.35</td></tr><tr><td>正确率</td><td>前一试次一致性</td><td>26.06</td><td><0.001***</td><td>0.29</td></tr><tr><td></td><td>当前试次一致性</td><td>26.20</td><td><0.001***</td><td>0.29</td></tr><tr><td></td><td>前一试次×当前试次</td><td>50.37</td><td><0.001***</td><td>0.44</td></tr><tr><td></td><td>年龄组×前一试次</td><td>5.24</td><td>0.03*</td><td>0.08</td></tr><tr><td></td><td>年龄组×当前试次</td><td>0.50</td><td>0.48</td><td>0.01</td></tr><tr><td></td><td>年龄组×前一试次×当</td><td>0.09</td><td>0.77</td><td>0.00</td></tr><tr><td>任务2</td><td>前试次 年龄组</td><td>25.71</td><td><0.001***</td><td>0.29</td></tr><tr><td>反应时(ms)</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>任务转换(TT) 前一试次一致性</td><td>22.04</td><td><0.001***</td><td>0.26</td></tr><tr><td></td><td>当前试次一致性</td><td>15.17</td><td><0.001***</td><td>0.19</td></tr><tr><td></td><td>年龄组×TT</td><td>189.39</td><td><0.001***</td><td>0.75</td></tr><tr><td></td><td>年龄组×前一试次</td><td>0.46</td><td>0.50</td><td>0.01</td></tr><tr><td></td><td></td><td>6.51</td><td>0.01*</td><td>0.09</td></tr><tr><td></td><td>年龄组×当前试次</td><td>1.67</td><td>0.20</td><td>0.03</td></tr><tr><td></td><td>TT×前一试次</td><td>6.50</td><td>0.01*</td><td>0.09</td></tr><tr><td></td><td>TT×当前试次</td><td>64.66</td><td><0.001***</td><td>0.50</td></tr><tr><td></td><td>前一试次×当前试次</td><td>25.58</td><td><0.001***</td><td>0.29</td></tr><tr><td></td><td>年龄组×TT×前一试次</td><td>0.02</td><td>0.89</td><td>0.00</td></tr><tr><td></td><td>年龄组×TT×当前试次 年龄组×前一试次×当</td><td>9.12 0.01</td><td>0.004** 0.91</td><td>0.13 0.00</td></tr><tr><td></td><td>前试次</td><td></td><td></td><td></td></tr><tr><td></td><td>TT×前一试次×当前试 次</td><td>1.38</td><td>0.25</td><td>0.02</td></tr><tr><td>任务2</td><td>年龄组×TT×前一试次× 当前试次</td><td>2.11</td><td>0.15</td><td>0.03</td></tr><tr><td>正确率</td><td>年龄组</td><td>50.14</td><td><0.001***</td><td>0.44</td></tr><tr><td></td><td>任务转换(TT)</td><td>77.27</td><td><0.001***</td><td>0.55</td></tr><tr><td></td><td>前一试次一致性</td><td>0.03</td><td>0.87</td><td>0.00</td></tr><tr><td></td><td>当前试次一致性</td><td>60.54</td><td><0.001***</td><td>0.49</td></tr><tr><td></td><td>TT×前一试次</td><td>0.77</td><td>0.38</td><td>0.01</td></tr><tr><td></td><td>TT×当前试次</td><td>0.18</td><td>0.68</td><td>0.00</td></tr></table></body></html>
+
+<html><body><table><tr><td>TT×前一试次×当前试</td><td>0.28</td><td>0.60</td><td>0.00</td></tr><tr><td>次</td><td></td><td></td><td></td></tr><tr><td>前一试次×当前试次</td><td>13.44</td><td>0.001**</td><td>0.18</td></tr><tr><td>年龄组×前一试次</td><td>0.01</td><td>0.92</td><td>0.00</td></tr><tr><td>年龄组×当前试次</td><td>13.89</td><td><0.001***</td><td>0.18</td></tr><tr><td>年龄组×TT</td><td>18.62</td><td><0.001***</td><td>0.23</td></tr><tr><td>年龄组×TT×前一试次</td><td>1.26</td><td>0.27</td><td>0.02</td></tr><tr><td>年龄组×TT×当前试次 年龄组×前一试次×当</td><td>0.18</td><td>0.68</td><td>0.00</td></tr><tr><td>前试次</td><td>0.99</td><td>0.32</td><td>0.02</td></tr><tr><td>年龄组×TT×前一试次×</td><td>0.21</td><td>0.65</td><td>0.00</td></tr></table></body></html>
+
+注：前一试次 $: =$ 前一试次一致性；当前试次 $\varprojlim 2$ 当前试次一致性；任务1中 $F$ 值对应的自由度为 $( 1 , 6 5 )$ ，任务2为 $( 1 , 6 4 )$ . $^ { * } p < 0 . 0 5$
+
+从图3下方的图中能够看出，儿童和成人在正确率的结果上同样表现出相似的趋势，即与一致试次之后的一致性效应相比，不一致试次之后的一致性效应有减少的趋势。方差分析的结果发现，任务转换的主效应显著， $F ( 1 , 6 4 ) = 7 7 . 2 7$ $p { < } 0 . 0 0 1$ ， $\eta _ { p } { } ^ { 2 } \mathrm { = } 0 . 5 5$ ， Stroop →Flanker转换的正确率显著高于Flanker→Stroop 转换，表明个体对Flanker刺激的反应正确率要高于 Stroop刺激。前一试次一致性与当前试次一致性的交互作用显著，简单效应分析的结果表明，一致试次之后(cCvs.cI)的一致性效应显著， $F ( 1 , 6 5 ) { = } 5 7 . 0 9 , p { < } 0 . 0 0 1 , { \eta _ { p } } ^ { 2 } { = } 0 . 4 7$ ；不一致试次之后(iCvs.iI)的一致性效应也显著， $F ( 1 , 6 5 ) { = } 8 . 9 7 , p { = } 0 . 0 0 4 , \eta _ { p } { = } 0 . 1 2 ,$ 。cC试次的正确率显著高于iC试次， $F ( 1 , 6 5 ) { = } 9 . 7 6$ $\scriptstyle { p = 0 . 0 0 3 }$ $\eta _ { p } { } ^ { 2 } \mathrm { = } 0 . 1 3$ ；iI试次的正确率显著高于cI试次，$F ( 1 , 6 5 ) { = } 6 . 0 4 , p { = } 0 . 0 2 , \eta _ { p } { = } 0 . 0 9$ 。CSEs的大小在不同年龄组以及不同转换类型间不存在显著差异，其中，在 Stroop $$ Flanker 转换中，成人 $( M \mathrm { = } 0 . 0 4 , S D \mathrm { = } 0 . 0 7 )$ 与儿童 $( M { = } 0 . 0 6 , S D { = } 0 . 1 8 )$ 差异不显著， $\scriptstyle p = 0 . 6 1$ ；在Flanker $$ Stroop 转换中，成人 $( M { = } 0 . 0 4 , S D { = } 0 . 1 4 )$ 和儿童 $\scriptstyle ( M = 0 . 0 8$ $S D { = } 0 . 2 1 \rangle$ 不存在显著差异， $\scriptstyle { p = 0 . 3 5 }$ 。
+
+Stroop-->flanker flanker->Stroop 900- 成人 儿童 900- 成人 儿童 850- 850- 800- 800   
+R 点 700 时650- T T T 应600- 当前试次一致性 当前试次一致性   
+反50 中不 反550 中一致 不一致 450- 450- 一致不一致 一致不一致 一致不一致 一致不一致 Stroop-->flanker flanker-->Stroop 成人 儿童 成人 儿童 1.00 1.00 0.95- 中 0.95- HH   
+率0.90- 率0.90   
+0.85- 确0.85-   
+正 0.80 正0.80 0.75- 当前试次一致性 0.75- 当前试次一致性 0.70- 不致 0.70- 中 不致 HH 0.65- 致不一致 一致不一致 0.65- 致不一致 一致不一致 前一试次一致性 前一试次一致性
+
+# 4讨论
+
+在任务1(Stroop 任务)中，两个年龄组表现出相似的行为模式及相似的CSEs差异分数大小，不一致试次之后的一致性效应显著小于一致试次之后的一致性效应。对于反应时数据，一致性效应的减少，是由于与不一致试次之后的一致试次(iC 试次)相比，一致试次之后的一致试次(cC试次)能够诱发更快的反应，同样，与一致试次之后的不一致试次(cI试次)相比，不一致试次之后的不一致试次(iI试次)能够诱发更快的反应。对于正确率的分析，一致性效应的减少是由于两个年龄组在iI试次上的正确率显著高于cI试次。在任务2(Stroop和Flanker刺激混合任务)中，两个年龄组在 Stroop →Flanker 和 Flanker→Stroop 中同样表现出了相似的CSEs行为模式及差异分数量。具体来说，对于反应时数据的分析表明，所有被试在cC试次上的反应时显著快于iC试次，对于正确率数据的分析却发现，cC试次的正确率显著高于iC试次，iI试次的正确率显著高于cI试次。
+
+任务1的结果与之前Larson等人(2012)的研究结果一致，Larson等人(2012)的研究中采用的任务为三色Stroop任务。本研究虽然在整体的反应时和正确率分析中发现了显著的年龄差异，但在两个任务中，儿童与成人均表现出了显著的一致性序列效应。此外，我们将所有涉及反应重复的试次排除在分析之外，从而排除了特征整合或特征启动效应的影响，即排除了特征整合和特征启动对 CSEs 的解释(Hommel,Proctor,&Vu,2004; Nieuwenhuis et al.,2006)。因此，本研究中所观察到的CSEs反映了较高级的认知适应过程，而不是由于反应重复所引起的较低水平的加工过程。
+
+通过实验设计的方式，跨任务转换的任务2排除了简单特征启动的影响。在这种情况下，儿童和成年人再次表现出类似的CSEs,尽管与任务1相比，两组被试在任务2中的平均CSEs差异分数相对较小。这表明，尽管参与冲突适应的大脑结构存在潜在的年龄差异，但实验结果仍提供了儿童认知控制适应的证据，且这种适应性是跨任务的。因此，两个任务通过不同的方式，排除了刺激特征的完全重复，从而否定了基于特征整合或特征启动的解释。本研究结果在很大程度上支持了冲突监测理论，基于冲突监测理论的解释，与cI试次相比，被试在iI试次中的反应时显著较快且正确率较高，这可能由于当被试遇到冲突信息时，会持续对冲突信息进行监测，调整自己的注意资源，从而有利于下一冲突试次的适应。此外，在考察一致性序列的任务中，不可避免的会出现两个连续的一致试次或不一致试次，因此无法排除基于重复-预期的理论解释。神经生理学的研究表明，基于冲突监测理论的适应过程与基于重复-预期理论的适应过程之间存在着神经重叠(Duthoo et al.,2014b)。因此，在适应冲突的过程中，个体对同一类型试次的预期与自上而下的认知控制可能共同起着作用，帮助个体有效的适应冲突环境。
+
+对任务2反应时数据的分析表明，前一试次一致性与当前试次一致性的交互作用不受转换类型(Stroop→Flanker vs.Flanker→Stroop)的影响。然而，从图3(上方)中可以观察到，两种转换类型是存在差异的。具体来说，对于 Stroop→Flanker 转换，CSEs仅仅是由于cC 试次的反应时显著短于iC试次，因此可能反映了注意范围的扩大。相反，对于Flanker→Stroop转换，CSEs既由于cC试次诱发的反应时显著短于iC试次(注意范围的扩大)，同时又是由于iI试次的反应时显著短于cI试次(注意的锁定或集中)引起的。本研究结果与Freitas 等人(2007)实验2的结果一致，Freitas 等人(2007)的研究以大学生为被试，要求被试口头汇报字体的颜色和箭头的方向，以考察跨任务的CSEs。因此，与 Stroop→Flanker 转换相比，Flanker→Stroop 转换中CSEs 的模式更加清晰。
+
+总之，本研究通过操控实验设计和事后分析，排除了低水平重复效应的影响，保证了更为纯净的CSEs。在单任务和双任务条件下，均发现 $9 \mathrm { \sim } 1 0$ 儿童和成人表现出显著的CSEs,这一结果为该年龄阶段儿童认知控制适应能力的发展提供了行为证据。本研究存在的第一个不足之处是，实验中采用了固定的任务顺序。在实验中，所有被试均是首先完成任务1，之后完成任务2，这样的安排是由于我们想要预先确定儿童的CSEs(Larson etal.,2012)，但这样可能会导致在任务2中存在一定的练习效应。其次，之前有研究对 $1 0 { \sim } 1 2$ 岁儿童的反应抑制及干扰控制能力进行了训练(Zhao,Chen,&Maes,2018;Zhao&Jia,2018)，发现与成人相比，儿童抑制控制能力的可塑性较大。因此，未来的研究可以考虑对儿童的冲突适应能力进行训练，以提高儿童处理冲突信息和灵活适应变化环境的能力。最后，虽然 $9 \mathrm { \sim } 1 0$ 儿童大脑区域(如ACC和PFC)的发展相对不成熟，但在行为结果上，几乎达到了成人的水平，这为今后神经生理学的研究提供了证据和支持。Larson等人(2012)利用脑电技术的研究发现，儿童与成人在冲突适应的过程中，表现出相似的 SP波幅(与冲突解决相关的成分)变化。Waxer和Morton(2011)的研究中，利用脑电的溯源分析发现，与cI试次相比，成人和青少年在iI试次上ACC的活动降低，然而并未在儿童身上发现这样的模式。Wilk和 Morton (2012)的研究中，利用功能性磁共振成像技术，考察9岁至32岁个体冲突适应中大脑活动的变化，结果发现，尽管各年龄组的行为表现相似，但年龄较大的被试在前扣带回、前脑岛、外侧前额叶和顶内沟皮层的激活程度更强。因此，未来的研究应利用多种不同的技术，深入考察 $9 \sim$ 10儿童冲突适应过程中是否涉及更广泛的脑区，并进一步明确CSEs本质及其年龄差异。
+
+# 5结论
+
+本研究选取 $9 \mathrm { \sim } 1 0$ 岁的儿童和成人为被试，采用单任务的色-词 Stroop任务及Stroop 刺激和Flanker刺激的混合任务，通过控制重复启动效应的影响，发现 $9 \mathrm { \sim } 1 0$ 岁的儿童在两个任务中表现出与成人类似的一致性序列效应。表明冲突适应过程涉及更高级的加工过程，且$9 \mathrm { \sim } 1 0$ 岁儿童已经具备了一般化的冲突适应能力。
+
+# 参考文献
+
+Adleman,N.E.,enoVaseyC.ite,C..arofsy,SovrG..s,..().velta Study of the Stroop Color-Word Task.Neurolmage,16(1),61-75.   
+Ambrosi,S.,Lmaire,P.,&aye,A.(l6).Dooungdremodulateteirogitiecotroleuetialongruenccto three conflict tasks in 5-to-6 yearolds.Experimental Psychology,63(2),117-126.   
+Benikos,N.,Johstone,S.J&oodens,S.J.(l3).VaryingaskdiultyintheGNogotask:Theetfihbirytrol, arousal,and perceived effortonERPcomponents.International Journal ofPsychophysiology,87(3),262-272.   
+Botvinick,M.M.Braver,T.S.Barch,D.M，Carter,C.S.，&Cohen,J.D.(20ol).Conflictmonitoringandcognitiveontrol. Psychological Review,108(3),624-652.   
+Braem,S.,Abrahamse,E.L.Duthoo,W.,&Notebaert,W.(214).WhatdeternesthespecificityofconfictdaptationAevie, critical analysis and proposed synthesis.Frontiers in Psychology,5,1134.   
+Brocki,K.Chl.().eciefuioidregedto:eioldvetalyetal Neuropsychology,26(2),571-593.   
+Cao,J.,Wang,.HnY.LZag,Y.LiJu.J.iaY().Itefeor-ardid withoutADHD:BehavioralandERPstudy.InternationalJournalofDevelopmental Neuroscience,31(5),42-349.   
+Crag,L.(2O16)hdvelopentofstiulusndsposeiterferenceontrolinidchilodDevelopentalPsyholog() 242-252.   
+Diamond,A. (2013).Executive functions.Annual Review of Psychology,64(1),135-168.   
+Duthoo,W.,Abrahamse,E.L.Braem,S.，&Notebaert，W. (2014a)Going，going，gone?Proactivecontrolpreventsthecongruency sequence efect from rapid decay.Psychological Research,78(4),483-493.   
+Duth,W.,Abrahamse,E.Lraem,S.,Boehler,C.N.,&tebaert,W.(1b).eeterogeneousworldfcongruencyqunce effects: an update.Frontiers inPsychology,5,1001.   
+Egner,T.,&s).aloeadtioalitaiooivetroiroasroge(), 539-547.   
+Erb,C.D.,rJog,Jbel,().achrainealsobleocsdgo to 10-year-olds and adults.Developmental Science,21:e12523.   
+Eriksen,B.A,n,CW74).ctsfseesonenoofartioask.o Psychophysics,16(1),143-149.   
+Freitas,A.LngaiOoetldmntitiorolsts.olocalc 18(12),1040–1043.   
+Funes,M.J.,upiaz,J,&mey,G()aingthgeralityoflictdptatioctJoualfxt Psychology:HumanPerceptionand Performance,36(1),147-161   
+Goldfarb,L.,isenberg,D.,&Henik,A.(2011).Thinkthethought,walkthewalkSocial priingreducestheStroopeffect. Cognition,118(2),193-200.   
+Graton,G.,Coles,M.G.H.,&Donchin,E.(1992).Optimizingtheuseofinformatio:strategiccontrolofactivationofsposes Journal ofExperimentalPsychology:General,121(4),480-506   
+Hommel,B.,rtor.,Vu,K..().tureteatioccoutfetialiotas.sicl Research, 68(1),1-17.   
+IaniC,Stell,&ubic,S.(4).sposebiddptatiotspoecoficti-oealddee fromthe Simon effect.Atention,Perception,&Psychophysics,76(4),234-1241.   
+Jimenez,L.,&nde,.(3).Itisottoexpct:dotigflctdtatiofrepeccisiokJol ofExperimental Psychology: Human Perception and Performance,39(1),271-284.   
+Kerns,J.G.(2O6).AnteriorcingulateandprefrontalcortexactivityinanfMRIstudyofral-to-trialadjustmentsonthesion task.Neuroimage,33(1),399-405.   
+Kray,J.,Kabach,J,ae,A).efluceflusstoevelopetaagsiogiietrodflict adaptation.ActaPsychologica,140(2),119-128.   
+Lamers,M.J.M.,&Roelofs,A.(21).AtentioalcontroladjustmentsiEriksenandtrotaskperfomancecanbeindepedentof response conflict.The Quarterly Journal ofExperimental Psychology,64(6),1056-1081.   
+Larson,M.J,ason,ao,P.E&outh,.().gieotrolndoflictdaptationsiilaritisiidd adults.Developmental Neuropsychology,37(4),343-357.   
+Larson,M.J.Kaufman,D.A.，&Perlstein，W.M.(2009).Neuraltimecourseofconflictadaptatinefectsonthestroop task.Neuropsychologia,47(3),66-670.   
+Luna,B.,arerK.EUban,T.a.,eeyJA.()turatiofgivepresfrolatedto adulthood. Child Development,75(5),1357-1372.   
+Luna,B.,& Sweeney，J.A.(2o04).Theemergenceofcolaborativebrainfunction:fMRIstudiesofthedevelopmentofresponse inhibition.AnnalsoftheNewYorkAcademyofSciences,1021(1),296-309.   
+Lustig,C.,Hasr,L..().istracseteantrocindoicli&ev(4), 619-625.   
+MacLeod,C..(991).Halftueheot:gati.oloicallti().   
+MayrU.u).cattseeie   
+Miyake,A.,riedanN..EesonJWii.Hwerte.,Wager.o)itynddiversityi functionsandtheircontributions tocomplex“frontallobe"tasks:alatentvariablenalysis.CognitivePsychology,4l(1),49-00.   
+Nieuwenhis,is,J.Fosu,Dean,T.oo,D.sE..)oingforrl effects in the flanker task: conflict adaptation orassociative priming? Memory & Cognition,34(6),1260-1272.   
+Rueda,M.R.Fan,J.,McCandlis,B.D,Halparin,J.D.,Gruber,D.B.,Lercari,L.P.,&PosnerM.I.(2O04).Developentof attentional networks in childhood.Neuropsychologia,42(8),1029-1040.   
+Stins,J.F.,Poderman,J.C.TBoomsma,D.，&DeGeus,E.J.C.().Conditionaluracyiresponseinterfereetasks: evidence from the Eriksen flanker taskandthe spatial conflict task.Advances in Cognitive Psychology,3(3),409-417.   
+Titz,C.,&Karbach,J.(014).Workingmemoryandexecutivefunctions:Efectsof ringonacademicachievement.Psyholgical Research,78(6),852-868.   
+Waxer,M.,&rton,JB.(l1).eevelopentoffuture-rientedotrol:AnelctrophsiologicalivestigationNeroage 56(3),1648-1654.   
+Wilk,H.A.,ielF&to.(l)isoatediotojutsioldable task-set maintenance.Neurolmage,59(2),1960-1967.   
+Wilk,H.A.,&orto,J.().eveoptalgsiatesofctivityssiatediomtontsts in control. Neurolmage,63(1),475-484.   
+Zhao,X.,Chen,L，&Maes,J.H.R.(2O18).Trainingandtransferefectsofresponseinhibitiontraininginchildrenandadults. Developmental Science,21: e12511.   
+Zhao,X.,&Jia,L.(o18).Tainingandtransferefectsofinterferencecontroltraininginchildrenandyoungadults.Psychological Research,in press.
+
+# Congruency sequence effects in $\mathbf { 9 } { \sim } \mathbf { 1 0 }$ -year-old children and young adults
+
+# Abstract
+
+ZHAO Xin1,2; JIA Lina³; ZHOU Aibao1,2
+
+(1 KeyLaboratory of Behavioraland Mental Health of Gansu province,Northwest Normal University,Lanzhou 730070,China)(² SchoolofPsychology,Northwest Normal University,Lanzhou 730070,China) (3 Academy of Psychology and Behavior, Tianjin Normal University, Tianjin 300074, China)
+
+Sequential congruency effects (CSEs） or conflict adaptation effects refer to the ability to flexibly and rapidly adapt interference control. The Gratton effect，as demonstrated using a standard Stroop or flanker task,can be explained in at least three ways.The first explanation is the conflict-monitoring account. A second theory is the repetition-expectancy account. A third explanation rests on the notion of low-level repetition effects and has been incorporated in the feature-integration or feature-priming account. Concerning age differences in CSEs, the great majority of studies examined adult populations. The relatively few studies that (also) examined children and adolescents, using one of the standard interference control tasks. Previous studies examining age differences in cognitive control adaptations, as reflected in congruency sequence effects (CSEs） in tasks inducing stimulus or response conflict, did not consistently control for priming confounds. Hence,answering the question whether or not children have an equal ability and pattern of cognitive control adaptations, relative to adults, still requires more research.
+
+The participants were 33 adults with a mean age of 20.6 years and 34 children with a mean age of 9.5 years. The experiment consists of two tasks: Task 1 is a Stroop task; Task 2 consisted of a mix of trials from the Stroop and flanker tasks. The stimuli used for the Stroop task (Task 1) consisted of the Hanzi representing the word“RED” printed in red (congruent trial) or green (incongruent trial)，and the Hanzi representing the word “GREEN"， also printed in red (incongruent trial) or green (congruent trial). These stimuli were also used in Task 2, which also incorporated a flanker task. The stimuli of the flanker task were five arrows that all pointed to the right or left (congruent trials)，or with the middle arrow pointing in one direction and the surrounding arrows in the other (incongruent trials). The experiment was performed on two consecutive days. On the first day, participants performed the Stroop task (Task 1), the next day participants performed the Task 2. An analysis of variance (ANOVA) was used to analyze the RTs
+
+andaccuracy in the two tasks.
+
+For Task 1,of primary interest, the Trial n-1 congruency $\times$ Trial n congruency interaction was significant. Follow-up analyses revealed that the congruency effect was significant after congruent trials (cC vs. cI trials). The congruency effect was also significant after incongruent trials (iC vs. iI trials).Responding on cC trials was faster than on iC trials and responding on cI trials was slower than on il trials,reflecting a clear CSEs.The two groups did not differ in the size of the conflict adaptation effect. The accuracy data, also suggest a clear reduction of the congruency effect in both age groups, which seemed to be mainly caused by more accurate responding on il relative to cI trials.For Task 2,the Trial n-1 congruency $\times$ Trial n congruency interaction revealed that, although the congruency effect was significant both after congruent (cC vs.cI),and incongruent trials (iC vs. il),cC trial pairs were associated with faster responses compared to iC trial pairs. However,RTs on il trials did not differ from those on cI trials.There was no difference between the groups in mean CSE magnitude for both the Stroop $$ Flanker and Flanker $$ Stroop transition trials. The accuracy data suggest a similar pattern.
+
+The strong resemblance between CSEs observed for $9 \sim 1 0$ -year-old children and adult participants under both single- and two-task conditions adds to the behaviral evidence of cognitive control adaptation capacities in children of this age,which seem to reach adult-like levels despite a relative immaturity of brain areas that subserve those capacities in adults. Hence, the observed CSE reflected higher-order, cognitive adaptation rather than the lower-level effects potentially induced by response repetition.
+
+Key words Cognitive adaptation； Congruency sequence effect; Colour-Word Stroop task; Flanker task

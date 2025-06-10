@@ -1,0 +1,520 @@
+[
+    {
+        "type": "text",
+        "text": "语法的进化连续性及进化起源解释",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "殷融 赵嘉 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(潍坊学院教师教育学院，山东 潍坊 261061)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要语法是人类交流系统有别于其他动物的关键特征之一。行为比较研究表明，除人类外的其他灵长目动物也能理解并掌握抽象的顺序排序规则；神经生物学比较研究表明，支持排序处理的神经机制来自人类与其他灵长目动物共同具有的脑区。因此语法所依赖的序列学习能力在人类与其他灵长目动物间具有进化连续性。词汇限制假说、事件感知假说与自我驯化假说分别从不同角度对人类语法的进化起源进行了解释。未来研究需要探讨人工语法任务中所发现的脑神经机制是否是层级结构加工的通用处理器，并进一步澄清语义加工与语法加工的关系。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词语法，序列学习，人工语法，进化连续性，比较研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号B842",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "语法（syntax）指有机体能够将几个较为低级的语言单元(如单词、字母或汉字)按一定规则组成一个新的高级语言单元(短语或句子)的能力(Chomsky,2002;Petersson et al.,2012)，这些组合规则则构成了语法结构（syntactic structures）1。语法使人类语言具有了“开放性”和“创造性”的特征，凭借这一机能，个体可以用有限数量的要素构造出无穷语句；如果缺乏语法，个体依然可以拥有某些简单的语言，但无法表达复杂的概念，更不可能将新异的思想与已掌握的语言符号建立映射关系。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "早在上世纪50年代，乔姆斯基就已经开始关注到人类语法功能的独特性。从2岁左右起，幼儿开始学会将词语组合在一起，1年后他们就可以说出具有复杂语法结构的句子。研究发现，聋哑儿童在3岁后也可以逐渐增加手语表达中每句话的长度。而人类豢养的黑猩猩虽然能表现出将语言符号与具体事物间建立联系的概念表征(conceptual representation)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 在该领域英文文献中，当涉及到“运用语法这种能力”时，常常直接使用“syntax”（语法）一词。为了与英文概念用法保持一致，本文中的“语法”一词指的也是语法机能，而非语言学意义上的“syntacticstructures”（语法结构）或“syntactic rules”（语法规则）。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "能力，但即使经过长达4年的训练，它们也无法学会人类最基础的语法操作—一将两个单词归并（merge）成一个新的意义表达(Terrace et al，1979)。一些研究者看来，语法决定了人类与其他动物在交流系统上的根本区别，在人类进化史上，语法的出现导致人类交流系统发生了根本性变革(Kolodny&Edelman,2018)。那么，这种能力是否真的是人类所独有的?它的进化动因又是什么？在近三十年，对语言进化起源问题的研究进入大爆发阶段，语法机能也受到了该领域研究者的重点关注。本文综合进化心理学针对语法这一主题近几十年的研究成果，梳理该领域两种常见研究范式，阐述语法的进化渐变论观点、相应实证研究以及对语法起源的进化解释，并对今后研究发展态势进行评述。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2语法进化研究领域常见实证研究范式",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对语法的进化研究往往需要综合来自遗传学、认知神经科学、考古学、古人类学以及动物学等学科的研究成果，尽管涉及多个学科及多种研究手段，当心理学在该领域开展研究时，语法性判断任务（grammaticality judgment task）和人工语法任务（artificial grammartask）是两种最常见的实证研究程序，它们分别对应了不同的研究内容与目标。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1语法性判断任务",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "语法性判断任务多用于旨在探索语法加工（syntactic processing）生理基础的实证研究。由于语法的功能主要在于将不同语言单元按规则进行组合，因此，研究者可以在实验任务中要求被试判断呈现的词语序列是否可以构成合乎语法规则的新短语或句子，同时使用相应研究工具进行观察记录。相比无语法关系的词汇序列，当被试对具有语法关系的词汇项目进行判断时，大脑中支持语法加工的脑区会有更显著的激活。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从进化研究的角度看，通过比较不同词语组合条件下被试大脑活动差异，研究者可以分析支持语法加工的神经机制，探明不同加工过程与各脑区间的关系，澄清语法所依赖的认知能力，进而在此基础上推测语言能力的进化动因。另外，该类研究也有利于研究者在明确人类语法功能脑神经机制的前提下，开展与其他灵长目动物的比较研究（comparativestudies)，进而对语法功能的进化轨迹做出解释。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "需要特别强调的是，语言单元的信息组合其实包含语义加工（semantic processing）与语法加工两个过程，语义加工指个体对语言单元进行概念内容上的组合，即形成新的意义表征；语法加工则是指语言单元组合过程中个体对组合规则（即语法）的处理与构建。大量研究发现，语法和语义加工所依赖的神经机制是相互独立的。例如，大脑额颞系统受损的患者依然可以识别单词并进行简单交流，但无法处理语法信息(Tyler etal.,2011)。由于语言材料不可避免的包含语义，这会对“提取”语法加工过程形成干扰。因此，在进行该方向的研究时，研究者有时需要将语法与语义相分离。一种方法是，研究者可以使用语义相同、但语法复杂性（syntactic complexity）不同的句子作为语言材料，这样就可以排除语义和单词数量对语法加工的影响。另一种常见方法是使用无实际语义的伪词（pseudoword)作为实验材料，这样也可以减少语法加工任务中由于语义理解引发的“无关”神经机制(Bemis&Pylkkanen,2011)。例如，Zaccarella 和Friederici (2015a)在研究中将指代名词的伪词与限定词或其他名词组合为最小短语（minimalphrase)，前一种情况可以构成符合语法规则的短语，如“eachflirk”（flirk为代指名词的伪词)，后一种情况构成的短语则不符合语法规则，如“waterflirk”，被试需要判断呈现的实验刺激是否构成合规则短语。通过比较被试对两种不同项目识别时的大脑活动，可以分离出语言加工过程中语法机制的神经基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2人工语法任务",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "语法性判断任务主要用于探索支持语法加工的脑神经基础，在语法的进化研究领域，有时研究者需要进行跨年龄或跨物种比较研究，这种情况下人工语法任务是一种最常用的实证研究程序。在这种研究范式中，参与者首先学习一些在空间或时间维度按预定规则排列的刺激序列，刺激可以是字符、数字、图片、声音或其他刺激。之后在测试阶段中，向被试呈现一些符合或不符合规则的序列，以此检验参与者是否学习到了正确规则。其中，如果被试是婴幼儿或动物，可以通过记录分析被试在看（或听到）到“合规”与“违规”序列时的行为反应及其他生理指标，确认他（它）们是否掌握了序列规则。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在人工语法任务中，刺激序列的规则可分为两类：排序（serialorder）规则与层级结构（hierarchical structure）规则。排序规则指刺激按固定顺序排列，可以是相邻的排序关系，如“刺激A之后必须跟随刺激B\"，“刺激C之前只能是刺激A或刺激B\"；也可以是识别难度更高的不相邻排序关系，如“一串刺激只要第一个是A，不管中间出现什么项目，最后都以B结尾”。层级结构规则则指刺激项目之间包含复杂的嵌套（nested）或递归（recursive）关系，如“A必须在B的前面，2类刺激必须在1类刺激的内部，就像A1A²B²B1\"",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "这种研究范式的依据是，语法的功能在于将不同概念按规则进行组合串联，因此，对多个刺激之间抽象结构关系进行提取、总结与泛化的序列学习（sequence learming）能力，是人类能够掌握语法的重要认知基础。一些研究者认为，语法正是人类在进化过程中序列学习能力同交流系统发生契合（coupling）后的产物(Hecht et al.,2015;Kolodny& Edelman,2018)。研究证明，难度不同的人工语法任务与难度不同的语法加工任务所激活的脑区是相对应的(Wilson,Kikuchi et al.,2015; Zaccarella & Friederici, 2015a,2015b; Zimmerer et al.,2014)；不同年龄段被试所能完成的人工语法任务难度与他们语言发展能力密切相关(Wilson et al.，2020)；而失语症人则无法像正常人一样完成人工语法任务(Cope et al.,2017;Gabay et al.,2015;Hsu et al.,2014;Kerkhoff et al.,2013)。除这些具体结论外，许多学者曾撰文介绍探讨过人工语法范式、序列学习能力与语法机制间的关系，这为使用人工语法范式研究语法提供了实证及逻辑依据（Friederici,2017; Kikuchi et al.,2017;Wilson et al.,2017）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于人工语法任务不依赖于任何具体的语义或语法知识，因此该范式常作为探讨儿童或其他动物是否有能力掌握语法结构的重要手段。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3语法的进化连续性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "人类语言功能的实现需要以多种认知机制为基础，利用现存的其他灵长目动物进行比较研究，分析人类与其他灵长目动物在语言相关认知机制方面的异同点，是探讨人类语言进化动因的重要途径2。近年来累积的研究发现，尽管其他灵长目动物与人类在交流系统复杂程度上存在显著差异，但许多支持交流系统的关键认知“构件”却是人类与其他灵长目动物所共同具有的，例如，其他灵长目动物也具有意向沟通（intentionalcommunication）能力(Townsend et al.，2017)，它们可以基于心理理论（theory of mind）实现语用推理(Tomasello，2018)，并具备概念表征能力(Fitch，2019)。根据进化研究领域的同源性假设，当具有亲缘关系的物种在某些生理或心理特征上呈现一致性时，可以认为这些特征存在于它们共同的祖先(Fitch，2017)。因此，人类祖先早在与其他灵长目动物产生分化前，就已发展出许多构成语言系统的“认知部件”，它们为日后人类语言系统进化提供了基础条件(Fitch,2017,2019; Tomasello& Call,2019)。那么，语法能力是否是人类所特有的?",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1语法进化的渐变论观点",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在很长一段时间内，以乔姆斯基为代表的许多学者对人类语法的进化持一种突变（saltation）论的立场，这种立场可概述为几个假设：1）语法在人类和其他灵长类动物中不具备进化连续性（evolutionarycontinuity)，语法是人类祖先在进化中与其他灵长目动物分化后独自发展出的能力。2）语法是大脑容量扩增所产生的质变结果，因此，语法能力所依赖的认知与神经基础是作为一个整体在发挥作用，它们都是人类所独有的。3）在距今5至10 万年前的进化晚期，由于基因突变智人拥有了构建复杂表达的普遍语法（universalgrammar)，在人类进化史上，不存在一个前语法或原型语法阶段(Chomsky,1965;2002)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "与之相对应，近十几年来越来越多的学者认为人类语法能力的形成是渐进式过程（gradualprocess)，尽管不同学者提出的理论在细节上侧重不同，但其基本立场是一致，且与传统的突变论观点相对立，具体可概述为：1）语法在灵长目动物的进化谱系中具有进化连续性。2）虽然负责复杂语法加工的大脑系统是人类特有的，但支持语法机能的序列学习能力可以追溯到更古老的灵长目动物，只是这种能力在人类身上得到了进一步强化。因此，不同语法结构所依赖的大脑神经网络是相互分离的，其中，支持对更复杂层次结构语法进行加工的脑区出现较晚。3）在人类祖先使用原始语言的阶段，存在较为简单的语法机能。依靠这种能力人类也能进行简单交流，但复杂的交流则是在人类具有层级结构加工能力才后出现的（Jackendoff & Witenberg，2017;Progovac et al.，2018b；Marslen-Wilson &Bozic,2018)。与其他灵长目动物的比较研究为这种渐变论（gradualism）观点提供了证据。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2行为比较研究证据",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.1序列加工能力的比较研究",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如前文所述，语法的功能在于将不同概念按规则进行组合串联，它反映了生物体识别并理解刺激项目间结构规律的序列学习能力，众多理论与实证已证明语法与序列学习能力间的密切相关性。而人工语法任务是检验个体是否掌握序列学习能力的重要研究范式。近十几年来大量研究发现，在人工语法任务实验中，许多灵长目动物可以识别并掌握刺激的排序序列，它们能够将在学习阶段掌握的序列规则泛化到新的刺激序列、新的测试甚至不同感觉通道的任务中，这说明它们理解了预设规则，而不是靠简单的重复记忆完成任务（表1所示)。在这些研究中，动物不但有能力掌握相邻的顺序关系，也可以掌握不相邻项目的顺序关系，而对不相邻刺激规律的提取已经符合某些简单语法关系特征。例如在英语中，谓语有时并不和主语紧连在一起，但主语决定了谓语是否要使用第三人称单数形式。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/0692101489c18b261778b065b4197a8f11e4c94812ac112b0343e4382a073a3c.jpg",
+        "table_caption": [
+            "表1近年来部分以其他灵长目动物为被试的人工语法任务实验"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>研究者</td><td>任务内容</td><td>实验结果</td><td>研究结论</td></tr><tr><td>Reber等人</td><td>首先训练狱猴掌握听觉序列规则，具体规</td><td>在测试阶段，狱猴表现出</td><td></td></tr><tr><td>(2019)</td><td>则内容为：一段音节序列的最初项与最终项是</td><td>了对熟悉模式声音序列的偏好：</td><td>狨猴、恒</td></tr><tr><td></td><td>低音，中间项全部是高音。</td><td>如果它们听到的是与规则模式</td><td>河猴、狒狒和</td></tr><tr><td rowspan=\"4\">Versace等</td><td></td><td>一致的声音序列，它们会更倾</td><td>黑猩猩（与人</td></tr><tr><td></td><td>向于朝向扬声器。</td><td>类亲缘关系依</td></tr><tr><td>以四只绒顶怪柳猴为被试，选择了三类视</td><td>在测试阶段，向狨猴提供</td><td>次从远到近)</td></tr><tr><td>觉刺激：A（三种图形）、B（包含四种图形）</td><td>一些新的刺激序列。研究发现，</td><td>都可以掌握不</td></tr><tr><td rowspan=\"8\">Milne 等人 (2016)</td><td>与X（包含四种图形）组成图形序列，设定规</td><td>有两只狨猴可以明显区分出符</td><td>相邻的排序关</td></tr><tr><td>则为，当出现一组图形时，无论X类图形的数</td><td>合设定规则的刺激序列。</td><td>系，并且与人</td></tr><tr><td>量与位置，A类图形必须在B类图形的左边。</td><td></td><td>类亲缘关系最</td></tr><tr><td>训练两只恒河猴学习具有非相邻排序关系</td><td>当出现违规序列时，恒河</td><td>近的黑猩猩可</td></tr><tr><td>的三音节序列，其中，第1个音节与第3个音</td><td>猴大脑的脑电模式会出现明显</td><td>以做到将之前</td></tr><tr><td>节为配对搭配，中间音节则随意。在后期测试</td><td>的“失配反应”（mismatch</td><td>掌握的规则泛</td></tr><tr><td>阶段，向恒河猴播放符合或不符合规则的刺激</td><td>response)。</td><td></td></tr><tr><td>序列，同时使用ERPs记录它们的脑电信号。</td><td></td><td>化到新的刺激</td></tr><tr><td>Malassis 等</td><td>触摸屏上向狒狒呈现三行三列九个点组成</td><td>当一个序列中第3个点的</td><td>序列中。</td></tr><tr><td>人(2018)</td><td>的矩阵，在学习阶段，矩阵上三个点依次亮起，</td><td>位置与第1个点位置符合序列</td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/ae1be240791863ff6bd40bd98396859faa8928515b013ac0fa60a324242937e2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Sonnweber 等人 (2015)</td><td>每一个点亮起后，狒狒用手触摸，在完成符合 特定规律的序列后，狒狒获得奖励，完成其他</td><td>规律时，狒狒触摸的反应时显 著更快。当增加序列的刺激数</td></tr><tr><td rowspan=\"7\"></td><td>序列则不给奖励。在测试阶段，狒狒依然按亮</td><td>量后，狒狒也具有相同表现。</td></tr><tr><td>点顺序触摸屏幕。</td><td></td></tr><tr><td>学习阶段，在屏幕上向黑猩猩同时呈现两</td><td>在测试阶段，黑猩猩更倾</td></tr><tr><td>个图形序列，每个序列都包含3或4个图形，</td><td>向选择符合预定规则的序列；</td></tr><tr><td>其中一个序列符合预定的规则（最左边与最右</td><td>此外，即便扩展图形数量或引</td></tr><tr><td>边的图形形状一致，颜色无所谓)，一个序列不</td><td>入新的形状，也有一些黑黑猩</td></tr><tr><td>符合，黑猩猩要从中选择其中一个，如果选择</td><td>猩可以完成测试。</td></tr><tr><td></td><td>了符合规则的序列可以得到奖励，之后进行测</td><td></td></tr><tr><td>试。</td><td></td><td></td></tr><tr><td>Ravignani 和</td><td>首先训练黑猩猩掌握图形序列的对称规则</td><td>相比其他规则（如高音-低 其他灵长</td></tr><tr><td></td><td>(如 XYX是合规则的图形序列，而XYY不是)。音-低音)，如果听觉序列规则</td><td>目动物可以同</td></tr><tr><td>Sonnweber 随后，再训练黑猩猩掌握新的听觉序列规则。 (2017)</td><td>也属于对称规则（如高音-低音-</td><td>人类一样将一</td></tr><tr><td></td><td></td><td>高音)，黑猩猩掌握规则的速度 种感觉通道的</td></tr><tr><td>Mueller等</td><td>明显更快。</td><td>序列规则泛化</td></tr><tr><td>以猕猴和人类为被试，使用5种图形和5</td><td>猕猴在两种感觉通道的测</td><td>到其他感觉通</td></tr><tr><td>人(2018) 种声音分别进行了视觉序列加工测试和听觉序</td><td>试中表现出了高度相似的反应</td><td>道，因此，序</td></tr><tr><td></td><td></td><td>模式。而人类被试在视觉序列</td></tr><tr><td></td><td>列加工测试，两种测试中使用的规则一致。</td><td>列加工能力与</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td>与听觉序列的加工任务中也会</td><td>特定感觉通道</td></tr><tr><td></td><td>表现出一致的相关性。</td><td>无关。</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "研究还表明，序列加工能力在灵长目动物的进化谱系中具有明显的进化连续性。例如，Wilson等人(2013)以音节刺激为实验材料进行的研究发现，在人工语法任务中，猕猴对较难识别的违规序列（刺激序列的中间项违规）也能表现出敏感反应，而狨猴则只对较容易识别的违规序列（刺激序列的初始项违规）有敏感反应。也就是说，猕猴对抽象顺序规则的掌握情况要优于狱猴。在灵长目动物进化史上，猕猴与人类的共同祖先出现的时间（2500万年前）要晚于狨猴与人类共同祖先出现的时间（4000万年前)，因此，该结果表明那些与人类亲缘关系较近的灵长目动物具有更高级的排序能力。事实上，与人类亲缘关系最亲近的黑猩猩确实能够掌握更复杂的结构关系(Ravignani&Sonnweber，2017;Sonnweber etal.,2015)。其他研究还曾发现，在简单人工语法任务中，其他灵长目动物能够以与人类被试相接近的速度提取排序关系(Rey et al.，2019)，但当排序关系更复杂时，人类的学习优势则更明显(Malassis et al.,2018;Rey et al.,2019)。研究发现，5个月大的婴儿就已经可以表现出对不相邻顺序规则的理解(Kabdebon&Dehaene-Lambertz,2019)。另外，涉及到层级结构时，过往研究表明除人类外的其他灵长目动物无法掌握这种复杂序列关系(Poletiek etal.,2016; Sonnweber etal.,2015)，虽然近年来也发现了一些相反证据，但这些研究中灵长目动物的学习效率要显著低于人类儿童（Ferrigno et al.,2020; Jiang et al.,2015）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.2实际信息组合能力的比较研究",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "排序加工能力在语法上对应的是限定状态语法（finite-stategrammars)，依靠这种能力个体可以完成一定的信息组合；但人类语言系统还依赖与层级结构加工相对应的超常规语法（supra-regular grammars)。超常规语法包含复杂的嵌套树状结构(ten Cate,2017)，例如当读到“外套已经掉色的父亲抱紧孩子失声痛哭”这个句子时，个体能迅速对句子的嵌套结构进行层级分解：尽管“外套”出现在这个句子开始，但读者都知道“父亲”是这个句子的主语，痛哭的不是“外套”也不是“孩子”而是“父亲”。只有以嵌套结构表征语言时，才能理解这一句子各个部分的关系。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "与该结论相一致，动物学家已经在灰鼻猴(Armold& Zuberbuhler,2008)、狄安娜长尾猴(Candiotti et al.,2012)、狒狒(Clay& Zuberbuhler,2011)、坎氏长尾猴(Schlenker et al.,2016)和黑猩猩(Crockford&Boesch,2005)等几种灵长目动物身上，发现了将叫声进行组合的证据。例如，狒狒发现食物来源后，通过将几种声音进行组合，可以将食物的种类、数量和质量信息传递给其他同伴(Clay et al.，2015)。此外许多研究也都证明，黑猩猩(Frohlich &vanSchaik,2018; Hobaiter et al.,2017)、红毛猩猩(Cartmill& Byrne,2007)以及倭黑猩猩(Genty etal.，2014)等灵长目动物在沟通时会将手势与声音相组合，从而起到消除歧义、高效准确传达信息的作用。不过，这些动物能组合的信息单元数量非常有限，它们最多只能做到将两三种叫声或手势按顺序呈现(Zaccarella&Friederici,2017)。再者，其他灵长目动物也无法做到像人类一样，通过将语言单元进行结构性组合，创造出具有类似主谓宾或修饰关系的复杂语义信息(Frohlich et al.,2019; Zuberbuhler,2020)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "因此，以上研究结论都表明，无论是在实际的信息组合表达还是序列加工能力方面，其他灵长目动物与人类都不存在绝对的进化断层。虽然其他灵长目动物的语言不具备复杂语法，但人类语法能力所依托的序列加工能力源于一种在灵长目动物进化史上已经存在的认知机制，只是在人类进化过程中，由于交流需求、传播知识或其他方面的进化压力，导致这一能力日趋复杂化，并最终产生了具有层级结构的语法。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3神经生物学比较研究证据",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.1序列加工能力神经机制的比较研究",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对人类语法功能脑神经基础的探讨最早来自脑损伤研究，早在19世纪60年代，法国医生布洛卡就曾发现，左侧额下回后部（posterior regions of left inferior frontal gyrus）即布洛卡区(Broca's area)受损的患者会产生运动性失语症，表现为说话不流利、词句缺乏组织性、内容杂乱无章(Wright etal,2012)。在近十几年，通过语法性判断任务与新研究技术的结合，研究者可以更精准地描述语法加工的脑神经基础。例如，Zaccarella，Meyer 等人 (2017)在实验中向被试依次呈现三个单词组成的词语序列，其中，有的序列可以组成介词短语，如“on-the-ship”，有的序列可以组成短句，如“the-ship-sinks”，有的序列则无法进行词义组合，如“stem-mouth-ship”，被试需要判断呈现的序列是否可构成符合语法的语句。研究发现，在前两种情况下，布鲁德曼44区（BA44）和左后颞上沟（leftposteriorsuperiortemporal sulcus）会有更显著的激活。由于实验材料涉及的语义参与度、语法复杂性与任务要求有所差异，因此不同研究所发现的语法脑神经机制也不尽完全一致。但综合大量研究记录目前可以确定，BA44区、左侧颞上回/沟（left superior temporal gyrus /sulcus）以及连接这些脑区的背侧通路（dorsal pathway)，构成了语法加工最基础最核心的神经网络（Chen et al,2019; Friederici,2017; Matchin etal,2017;Wu etal,2019)。从脑神经机制看,其他灵长目动物并没有与人类一致的核心语法脑区，那么这是否意味着它们也不具备掌握语法功能的脑神经基础？",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "近年来神经科学研究显示，在人工语法任务中，对排序任务的处理会激活人类与其他灵长目动物相同的神经过程。Wang 等人（2015）在实验中记录了人类和恒河猴在听到违规声音刺激时的反应。其中，恒河猴大脑中双侧前脑岛（bilateral anterior insula）和腹外侧前额叶皮层（ventrolateralprefrontalcortex）会显著激活，人类大脑中的额下回腹侧/后部（ventral and posterior regions of inferior frontal gyrus）也会显著激活，也就是说，人类与恒河猴的腹侧额叶皮层都参与了排序加工过程。Wilson，Smith 等人 (2015)的研究也发现，在人工语法任务中，恒河猴和人类被试大脑激活区域都集中在额叶皮层的腹侧区域，包括额盖(frontal operculum)和前脑岛(anterior insula)。Kikuchi 等人(2017)以人类和恒河猴为被试进行的研究则发现，当出现违规声音刺激时，人类被试与恒河猴被试会出现相同的神经振荡反应（neural oscillatoryresponses）。其他研究也发现，在人工语法任务中，额叶皮层的参与程度与序列规则的复杂度有关，只有层级结构加工任务会激活人类被试左脑半球的布洛卡区(Friederici et al.,2006; Petersson et al.,2012;Wilson,Kikuchi et al.,2015)。相应的，针对语法神经基础的研究则显示，在语法性判断任务中，被试BA44区、左侧颞上回/沟以及背侧通路等核心语法脑区的激活程度与语法复杂度有关，简单语法加工任务并不一定会激活这些脑区(Bozic et al.， 2015; Progovac et al.,2018a,2018b; Yang et al., 2017)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Wilson 等人(2017）回顾了人类和其他灵长目动物在人工语法任务中的神经生物学比较研究后，提出了一个描述额叶皮层各区域参与处理不同序列关系的模型。研究者认为，额叶皮层的腹侧区域（包括额盖和脑岛）负责处理顺序排序关系，该部分脑区对应了简单语法加工的神经基础(Schell et al.，2017)；而对更复杂层级结构序列的加工处理则需要涉及更多的额叶皮层背侧区域，如BA44区与背外侧前额叶皮层，该部分脑区则对应了复杂语法加工的神经基础。这些来自神经生物学的比较研究证明，处理顺序序列及简单语法加工的大脑神经机制是人类与其他灵长目亲属所共有的。正是由于具备这些脑区，其他灵长目动物才可以在人工语法任务中理解掌握排序关系。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3.2脑结构发育的比较研究",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "婴幼儿某些大脑特征能反映人类早期进化特征。研究发现，其他灵长目动物和人类在序列加工方面的脑神经机制差异可以在人类个体发育中找到对应关系。例如，成人大脑中与语法加工能力紧密相关的布洛卡区在解剖形态上具有左脑偏侧化特征，而Keller 等人(2012)对80多只已死亡的黑猩猩进行脑解剖研究表明，布洛卡区在黑猩猩大脑中的同源区不呈现偏侧化。与之相对应，婴儿在刚出生时大脑布洛卡区不具有左右不均衡性，在童年期时才会逐渐发育出左侧大于右侧的特征(Goucha etal.,2017)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "除布洛卡区外，其他灵长目动物也并不具备像人类一样的背侧通路(Bauernfeind et al,2013；Rilling et al.，2012)。背侧通路由上纵束（superior longitudinal fascicle）和弓状束（arcuate fascicle）组成，它通过白质纤维束(white mater fiber bundles)连接与语言能力密切相关的BA44区、后颞上回/沟和颞中回等脑区，将这些脑区搭建在一起构成“额颞语言网络”（fronto-temporal language network, Chen et al.,2019; Lopez-Barroso et al.,2013）。发展心理学研究显示，人类刚出生时背侧通路连接较弱（尤其是弓状束)，随着年龄增大背侧通路才会逐渐发育成熟(Dubois etal.,2014)。例如，在 Skeide 等人 (2016)对3至10岁儿童以及成人进行的实验中，研究者设定了几种语法复杂程度不同的语句，被试需要判断图片与语句内容是否匹配。研究发现，背侧通路发育成熟情况与被试对复杂句理解的准确性和加工速度显著相关。ten Cate (2017)在综合了成人、幼儿以及其他灵长类动物背侧通路发育状况的研究后指出，灵长目动物背侧通路连接强度存在一个清晰的进化轨迹，而这与语法能力的进化轨迹是一致的，也就是说，背侧通路的进化改变了人类的大脑结构，也改变了语言机能。另外其他研究还曾证明，负责简单顺序加工的脑区（如额盖和脑岛）在人类婴儿期已发育完成，而这些脑区也正是人类与其他灵长目亲属所共有的支持序列加工的神经机制(Friederici, 2020; Perani et al., 2011)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "总之，虽然不同物种之间的大脑结构和认知功能很难建立精确的对应关系，但现有研究表明：从神经机制看，其他灵长目动物的序列加工能力与人类的序列加工能力间呈现渐进式进化的趋势。其中，支持排序处理的神经机制来自人类与其他灵长目动物共同具有的更“古老”脑区，而支持层级结构处理的神经机制则来自人类独有的、在进化中更晚出现的脑区。这符合语法进化的渐变论观点：语法的神经基础源于支持排序加工能力的脑神经系统。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "按照进化学说，生命是连续统一体，任何复杂的生理或心理特征都是经过中间阶段而逐渐形成的。既然如此，为什么人类的语法在动物世界如此鹤立鸡群？许多研究者曾认为，人类语法能力的出现是较短时期内由于基因突变和脑容量增大而突然跨越了某种“认知门槛”后导致的突变结果。来自行为及神经生物学的比较研究则表明，语制并非无迹可寻，产生语法的关键认知因素也并不局限于人类，它源于更早的灵长类祖先。语法进化是一个连续的渐进过程，在人类进化史上，依靠排序加工能力个体也能进行简单交流，只是随着掌握了层级结构加工能力，人类最终拥有了成熟的语法能力。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对该问题的澄清还有另外一层重要理论意义：语法的起源解释需要与语法进化渐变论观点相兼容，当研究者对语法进化进行阐述时，既要考虑到语法能力在人类与其他灵长目动物间的连续性特征，又要说明人类独特语法能力的成因。也就是说，既然简单的序列加工能力是灵长目动物所共有的，那么为什么只有人类能够在此基础上进化出复杂的语法机能？目前有几种假说尝试解答该问题。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4语法的进化起源解释",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.1词汇限制假说",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "词汇限制假说（lexical constraint hypothesis）认为，人类独特语法机能的出现源于词汇量的增长，对于生物来说，如果所拥有的表征信息的符号不断增加，到达一点程度后，所有信息与符号一一对应的表征方式会导致两种限制，一是对这些信息符号的记忆会超出生物体的记忆容量范围，二是对信息符号的学习难度也越来越高。因此，相比继续增加符号数量，将信息符号组合产生新符号是一种更加“经济”的模式(Armold& Zuberbuhler,2006;Nowak et al.，2000)。这种理论强调了“信息量”对语法机制进化施加的压力，即表达内容的扩展会带来结构化的语言。Laland (2017)后来曾提出了一种类似的解释，只是他的观点聚焦于人类语言系统而不仅仅是语法机制。Laland(2017)指出，在人类进化过程中，随着累积的工具、经验和技能越来越丰富，对于个体以及整个人类物种的生存适应来说，后天知识学习都变得越来越重要。而语言作为一种信息交流方式，具有精准、有效且成本低廉的优势，因此，自然选择之所以会选择语言这一心理机制，是因为语言能够使得传授活动更加经济高效。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从词汇限制假说的角度看，其他动物没有进化出复杂语法能力，是因为它们由于在经验技术、社会关系以及生态环境方面的局限，所需要表达及传递的信息量远远小于人类，没有表达信息的压力，动物就不会也不需要进化出像语法一样能大幅提高表达效率的心理机制。而在人类进化过程中，心智、知识以及信息传播能力形成了正向反馈循坏，人类语言所涉及的对象日趋复杂多样，在这种情况下，语法可以保证人类仅仅依靠固有的语言符号就表达出无数的新意义。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "按照词汇限制假说，有机体信息传播的复杂性与句法复杂性呈正相关，人类学研究证实，在那些孤立的小群体部落中，部落成员会使用语法结构更简单的语言，这可能正是由于他们日常生活中传播的信息类型较为单一(Benitezburraco& Kempe,2018)。古人类学研究发现，与同时期的智人相比，尼安德特人的社群规模更小，知识创新速度更慢，而他们也缺乏像智人一样的复杂语言机制(Kochiyama et al.,2018)。不过，这些证据其实可以用相反的理论来解释：很可能信息量的增加只是人类语法进化带来的结果而不是语法的进化动因，目前还没有实证研究能够澄清这一问题。另外，词汇限制假说认为生物的表达系统存在一个特定阈值，一旦需要表达的信息量超过阈值，表达系统就会在自然选择的压力下产生某些变化，但对于这一过程中更深层的细节及演变机制也缺乏相应解释。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.2事件感知假说",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "事件感知假说（event perception hypothesis）是另一种对语法的进化起源进行解释的理论，该假说认为，语法起源于生物体对自然事件进行心理感知和表征的方式，人类理解外部事件时的核心关注点在于“谁对谁做了什么”，在此基础上个体具有将事件分为施动者（行动主体）、受动者（对象）、内容和结果的认知倾向，而这些成分正对应了句法的基本元素，如主语、谓语、宾语、时态和连词等。因此，句法功能是人类事件编码系统与表达系统共同演化的产物，它依赖的是人类特有的认知外部世界的方式(Zuberbuhler，2019)。从这一角度看，人类祖先以复杂方式进行认知分析这一能力出现的时间要早于复杂语言机制出现的时间。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "该假设得到了部分研究的支持，例如，上世纪80年代尼加拉瓜手语学校的真实事例表明，失聪儿童在没有成人介入和指导的情况下，也会在日常互动中逐渐发展出具有完整语法结构的手语，而手语语法中强调的核心要素（例如主谓宾语）与任何其他语言都是相同的(Senghas etal.,2005)。另外，语言学分析表明，全世界各个语种虽然乍看之下差异很大，但具有一些共同的基本特征。乔姆斯基曾形象地指出，如果外星人访问地球会误以为地球人说的是同一种语言，因为所有的语言都是按照同样的规则建构的，没有任何一种语言无法被翻译成其他语言(Chomsky,1965,2010; Hauser etal.,2002)。从事件感知假说的角度考虑，这正是由于人类认知外部世界的方式是共通的，不同语言语法结构的一致性反映了人类心智结构的一致性。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "事件感知假说面临的问题是，它假定了人类能够以有别于其他动物的方式对事件进行心理表征，但这一前提是否成立并无定论。例如，心理理论指个体对他人心理状态进行推测、并据此对他人行为做出因果解释与预测的能力(Tomasello,2018)。研究发现，至少黑猩猩、大猩猩和猩猩等类人猿具有一定程度的心理理论能力，它们能像人类一样想象其他个体会怎样思考和行动(Krupenye et al.,2016)。在实验中如果一只猩猩目睹了另一只猩猩观看实验人员藏匿食物的过程，当它自由行动时会先把那些食物取出来，因为它知道对方一旦自由行动也会去拿它们看到的食物(Hare,2001; Hare et al.,2006)。另外，类人猿还能够理解其他个体的错误信念（false beliefs)，它们能够推测其他个体与现实不一致的观念。在Krupenye等人(2016)的实验中，研究者向三种类人猿（黑猩猩、倭黑猩猩和猩猩）呈现动态景象：演员A假扮的猩猩从背后捉弄了演员B，演员B回头看到A藏到了两个草垛中的一个，之后，B进屋拿棍子还击，A迅速从草垛中跑出去，之后B拿棍子回来。研究人员记录了类人猿被试看到这个画面时眼睛的注视方向，他们发现，接近 $70 \\%$ 的类人猿都会注视A原先躲藏的草垛，也就是说，这些猩猩认为B会用棍子敲击他自己曾看到的A的藏匿位置，而不是A实际藏匿位置。这些研究说明，类人猿在观察外部事件时，能够推测行动者的意图和预期结果，这与人类的认知倾向是一致的。从这一角度出发，事件感知假说很难说明为什么类人猿没有发展出同人类一样的复杂语法。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.3自我驯化假说",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "自我驯化假说（self-domesticationhypothesis）认为，语法的进化动因源于自我驯化。在开展合作及维护社会关系的压力下，人类祖先经历了自我驯化。由于攻击性语言既可以贬低竞争对手，同时也能展示自己的优势（如敏捷头脑)，在人类自我驯化过程中，语言攻击逐渐取代身体攻击，成为一种替代性社会竞争手段，而这一转变又对语言本身施加了反馈及进化需求，导致了语法与复杂语言形式的出现(Thomas&Kirby,2018)。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "研究显示，对于许多失语症患者来说，他们的语言表达能力会严重受损，但依然可以说出应激反应式的咒骂语(Code,2005)。Bergen (2016)研究发现，与其他形式的语言相比，对贬损性语言的加工处理涉及到基底核（basal ganglia）、丘脑（thalamus）和边缘系统（limbicsystem）这些更古老且与抑制侵犯冲动密切相关的脑区，而其他灵长目动物情绪化的叫声也涉及这些脑区(Gruber&Grandjean,2017)，这说明，相对于其他语言素材，贬损性语言及其神经基础在人类进化史上出现的时间要更早。发展心理学研究则显示，儿童自发创造复合词的能力与侮辱取笑其他个体的倾向出现在同一时期(Progovac&Benitez-Burraco,2019)，这为复杂语法起源于对语言攻击的表达需求提供了佐证。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "另外各种语言中最常见的攻击性语言通常涉及最简单的语法形式，即由一个动词和一个名词组成复合词，例如英语“turm-coat”（叛徒）、“kill-joy”（扫兴)，中文“找死”。Progovac和Benitez-Burraco (2019)认为，这种不区分主语与宾语的“动词 $+$ 名词”式混合词体现出了语法的组合创造性特征，同时它也正对应了早期语法形式，现代语言中的语法结构是在这一结构的基础上进一步拓展升级的结果，而幼儿也正是在“动词 $+$ 名词”语法组合的基础上逐渐掌握了其他更复杂的语法形式。因此，攻击性表达常用的结构与早期语法结构是一致的，这同样可以说明语法能力的进化与攻击性语言具有密切关系。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "然而，性资源竞争压力导致男性的攻击性要显著强于女性，如果语法是语言攻击代替身体攻击的结果，那么语法能力的进化史或个体发育史应该会体现出性别差异，但当前没有任何证据支持这一点；此外，自我驯化假说主要强调了早期语法结构产生的进化动因，但它难以说明复杂的层级结构语法到底是如何出现的。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "总之，词汇限制假说、事件感知假说和自我驯化假说从不同的角度论述了语法的进化起源，但三种假说都存在解释力不足的缺陷。在语言进化研究领域，目前还没有一个理论能够完全解答人类语法起源问题，对该问题的解答需要未来研究进一步深入探索。当然，研究者可能不需要过于重视某一因素的作用，实际上并一定是单一因素主导了语法进化。例如自我驯化减少了个体间直接的身体侵犯性，提高了互相学习、交流和合作的频率，进而为更多的知识共享和信息传播创造了有利环境；复杂语言可以让社群成员就人与人之间的关系进行沟通交流，因此对亲密关系与合作同盟形成正向反馈；而多样化的人际互动又使得了人类产生了独特的事件感知倾向。不同时期不同因素的相互作用，才导致人类最终发展出了成熟的语法能力。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5评述与展望 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "人类日常生活与语言紧密相连，很少有人能在清醒时连续一小时不与任何形式的语言发生接触。无论在地球的哪个角落，只要有两个或两个以上的人聚在一起，他们很快就会交谈起来。从祖先掌握语言的那个时刻起，人类的进化便走上了另外一条道路。通过语言，我们可以交换信息、密切合作、共享知识以及传承经验，语言使得人类文明真正进入了大跃进时代，帮助人类塑造了今天的世界。而语法则是人类语言的核心特质之一，本文重点介绍了进化心理学领域聚焦语法的研究，这些成果为研究者理解人类语言系统的运行机制、物种差异及进化过程提供了启示，未来研究必须要面对以下几个重点研究方向。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5.1关注其他灵长目动物与婴儿的层级结构加工能力",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "过往研究表明只有人类才具有复杂的层级结构加工能力，近年来一些研究发现，似乎其他灵长目动物也有可能理解并掌握复杂的层级结构规则。例如，Jiang 等人(2018)实验证明，猕猴具有处理中央对称嵌套结构的能力。在接受了一段时间的训练后，当屏幕上一个六边形先后亮起几个交点时，猕猴可以按照对称嵌套结构以相反的顺序依次按出这几个点。例如当亮起的点是1-3-5-4时，猕猴可以按出4-5-3-1。另外，它们还可以将习得的规则泛化到不同的形状以及不同长度的序列中。Ferrigno等人(2020)以恒河猴、美国儿童、美国成年人和亚马逊土著为被试进行的研究发现，经过训练后四组被试都可以理解嵌套对称结构，他们可以做到将屏幕上呈现的四个括号图形按嵌套对称结构进行排列，如将“[”、“{”、“]”、“}”排成“{［]}”。从进化观的角度看，这些结果进一步巩固了人类与灵长目动物在序列加工能力方面存在进化连续性的结论。当然，由于以上两个实验涉及的动物被试数量较少，因此未来还需要更多研究以不同实验模式对该问题进行验证。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "另外，Winkler等人(2018)以5个月婴儿为被试、以包含中心嵌套规则的语音序列为实验材料（第一个音调与最后一个音调一致，第二个音调与倒数第二个音调一致）进行的实验发现，当出现不匹配的偏差刺激时，被试脑电活动会表现出明显的失配反应，也就是说，5 个月大的婴儿即可分辨出音调序列是否符合嵌套对称规则。这说明，虽然儿童在较晚时才能在语言中习得层级结构关系，但他们在很小时就掌握这一能力了。既然如此，当婴儿开始学习语言时，为什么不能立刻将这一能力迁移到语言交流中？相应的，如果其他灵长目动物也具有层级结构加工能力，是哪些因素限制了该能力在它们交流系统中的运用？对这些问题的解答，可能会为理解人类语言独特进化之处提供重要启示。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5.2澄清语法的脑神经机制与其他运算加工过程的关系",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "首先，已有研究表明，人类语法功能的实现要依赖序列加工能力，是否其他依赖这一能力的加工过程也具有与语法相重合的神经基础？例如，音乐旋律感知由于需要将不同的音调进行组合，因此也被认为依赖结构加工能力，大量研究证明，音乐加工所依赖的脑机制与语法的脑机制存在深层联系。例如，Heard和Lee (2020)进行的神经成像研究表明，音乐韵律（rhythm）加工与语法加工激活的脑区具有重叠性，包括额下回、辅助运动区（supplementarymotor area）、后颞上回和脑岛等。Loui 等人(2009)对脑损伤患者的研究发现，弓状束受损会导致患者对音乐节奏的感知出现缺陷。不过，Cheung 等人 (2018)进行的实验则显示，对三音调序列的加工判断会导致被试右侧额下回更显著的激活。因此，虽然左侧布洛卡区与背侧通路在对韵律的结构层次处理中具有一定作用，但韵律加工的脑机制具有右脑偏侧特征，这与语法加工并不是完全重合的。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "除音乐外，数学运算也涉及层级结构加工。Varley 等人(2005)研究发现，因大脑病变语法能力受损的患者在数学表现上并没有显著缺陷。脑成像研究显示，数学运算主要激活左额中回（left middle frontal gyrus）和下顶叶皮层（inferior parietal cortex），这些脑区位于核心语法网络之外(Friedrich&Friederici,2009;Jeon&Friederici,2016)。另外，支持语法加工的背侧通路与数学运算的关系也并不密切，后者主要涉及连接中央前回（precentralgyrus）和颞顶叶皮层（temporo-parietal cortex）的白质束(Jeon et al.，2019；Moeller et al.,2015)。这些研究表明，支持语法结构处理的脑区与支持数学运算的脑区并不一致。因此，未来研究需要进一步澄清，在语法加工以及人工语法任务中所发现的脑神经机制，是否是层级结构加工的通用处理器？而对该问题的解答，又能说明人类的认知功能及大脑结构经历了怎样的进化轨迹？这是今后研究需要重点讨论的问题。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.3进一步探讨语法与语义加工的可分离性",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "对语法神经基础的研究假定语法加工与语义加工具有可分离性，大量研究发现，在句子理解过程中，如果包含语义信息，会激活包括布鲁德曼45区（BA45）与BA44区在内的整个布洛卡区，而如果使用无实际语义的伪词，则只会激活BA44区，因此BA45区主要支持词义组合，而 BA44 区支持构建语法结构(Goucha & Friederici，2015；Schell et al,2017; Zaccarella&Friederici,2015a)。然而，目前依然有研究者对是否存在独立于语义加工之外的语法脑区存在疑问，例如，Fedorenko 等人(2020)使用了不同的实验范式分析了语义与语法加工的神经基础，其中在实验1与实验3中研究者向被试呈现句子，句子中有一个单词在语义或语法特征上与句子整体不相符；在实验2中向被试先呈现比较句，之后再向被试呈现“句法改变但语义不变”或“句法不变但语义改变”的句子。在三个实验中，并没有发现语法加工会比语义加工更显著激活某些脑区。其他研究也发现过相同结果(Pallieret al.,2011;Rodd etal.,2015)，这说明，语法加工与语义加工机制可能是作为一个整体在运转的。如果二者的关系比目前研究中预设的关系要更加紧密，这就说明对概念表征的意义组合也是语法加工的一部分，那么当研究者对语法功能的进化起源进行解释时，就必须考虑复杂语义的合成机制。因此，未来研究需要关注这一问题，进一步澄清在处理复杂语言单元组合过程中语义加工与语法加工的关系。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.4与基因科学研究成果相结合",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "本文所介绍的实证研究主要以行为研究及认知神经科学研究为主，随着分子遗传学的发展，这些研究成果可以与基因科学相结合，通过将人类与其他动物进行基因对比，进一步澄清语法功能在进化过程中是何时以及如何产生的。人类第一个被发现的语言基因是FOXP2 基因，它是在英国一个被称为“KE家族”的人群中发现的。Ke家族三代人有 24名成员，其中一半人无法自主控制嘴唇和舌头的运动，因此发音和说话极其困难，而且他们也存在阅读理解障碍，无法掌握语法知识。Lai等人(2001)对这些患者进行了基因测序，他们发现患者的7号染色体存在一小段断裂位点，研究者将这个位置上被破坏的基因命名为FOXP2基因，正是因为FOXP2基因突变，导致Ke家族部分成员语言能力不能很好发育。基因测序发现，大量哺乳动物和鸟类都拥有FOXP2基因，但人类FOXP2基因的编码序列不同于其他动物，在该基因上人类与黑猩猩存在两个氨基酸位点的区别 (Enard,2011)。而分子进化分析表明，这两个氨基酸位点的突变大概发生在十万到二十万年前，这恰恰与智人所出现的年代以及科学家推测的人类掌握成熟语言系统的时间相吻合(French& Fisher,2014)。不过让人感到遗憾的是，Atkinson 等人(2018)开展了更广泛的基因组比对后发现，FOXP2基因缺陷会影响言语认知能力，不过人类FOXP2基因的两个突变并不独特，早些年的发现只是样本选择有偏差导致的假象，也就是说，在智人阶段FOXP2基因没有进化。尽管当年的研究结论在部分上已经被推翻了，但它展示了如何将分子遗传学研究与其他比较研究相结合印证，从而对人类语言的进化历程做出描述。因此，将关于基因科学的研究成果与语法进化研究相结合，可以为研究者深入研究语法起源提供关键线索，也可以为澄清该研究领域的诸多分歧提供重要启示。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "另外，本文所介绍的比较研究主要以其他灵长目动物作为实验对象，但近年来研究发现，一些鸟类（如鸣禽、鹦鹉和蜂鸟）的交流机制与人类交流机制存在非常多的相似之处(Jarvis，2019)，这反映了进化的趋同性（analogies）规律，即不同物种在相同进化压力下分别独立进化出了一致的特征。因此，许多人类语言现象反而可能在非灵长目动物中找到对应关系，而继续开展更广泛的物种比较研究，对于研究者了解语法功能的进化动因则具有重要意义。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Arnold,K.，& Zuberbuhler, K. (2Oo6). Language evolution: Semantic combinations in primate calls. Nature,441(7091),303-303.   \nArnold,K.,& Zuberbühler, K. (20o8).Meaningful callcombinations in a non-human primate.Current Biology,18(5),202-203.   \nAtkinson,E.G., Audesse, A.J., Palacios,J.A., Bobo,D.M., Webb,A.E., Ramachandran,S.,& Henn, B. M. (2018). No Evidence for recent selection at FOXP2 among diverse human populations. Cell, 174(6), 1424-1435.   \nBenitezburraco,A.，& Kempe,V. (2018). The emergence of modern languages: has human selfdomestication optimized language transmission? Frontiers in Psychology,9,551.   \nBauernfeind,A.L., Sousa,A. A.d.,Avasthi, T., Dobson, S. D., Raghanti, M.A.,Lewandowski,A. H.,. Sherwood, C.C. (2013). A volumetric comparison of the insular cortex and its subregions in primates.Journal of Human Evolution, 64(4),263-279.   \nBemis,D.K.,& Pylkkanen,L.(2011). Simple composition: a magnetoencephalography investigation into the comprehension of minimal linguistic phrases.Journal of Neuroscience, 31(8), 2801- 2814.   \nBergen, B. K. (2016). What the F: What swearing reveals about our language, our brains, and ourselves.New York: Basic Books.   \nBozic,M., Fonteneau, E.,Su,L.,& Marslen-Wilson, W.D. (2015). Grammatical analysis as a distributed neurobiological function. Human Brain Mapping,36(3),1190-1201. doi:10.1002/hbm.22696   \nCandiotti,A., Zuberbuhler， K.，& Lemasson,A. (2012). Context-related call combinations in female Diana monkeys.Animal Cognition,15(3),327-339.   \nCartmill, E.A.,& Byrne,R.W.(2007). Orangutans modify their gestural signaling according to their audience's comprehension. Current Biology, 17(15),1345-1348.   \nChen,L., Wu,J.,Fu,Y., Kang, H.,& Feng,L. (2O19). Neural substrates of word category information as the basis of syntactic processing. Human Brain Mapping, 40(2),451-464.   \nCheung, V. K.M.，Meyer,L.，Friederici，A.D.，& Koelsch,S.(2018).The right inferior frontal gyrus processes nested non-local dependencies in music. Scientific reports, 8(1),1-12.   \nChomsky, N.(1965). Aspects of the theory of syntax. Cambridge, MA: MIT Press.   \nChomsky,N. (2o02).On nature and language. Cambridge, England: Cambridge University Press.   \nChomsky, N. (2010). Some simple evo devo theses: how true might they be for language? In D. p. V. RK & Y. H (Eds.)， The evolution of human language (Vol. 45-62). Cambridge: Cambridge University Press.   \nClay,Z.,Archbold,J.,& Zuberbuhler,K.(2015).Functional flexibility in wild bonobo vocal behaviour. PeerJ,3, e1124.   \nClay, Z.,& Zuberbuhler, K. (2011). Bonobos extract meaning from callsequences. Plos One, 6(4).   \nCode，C. (2Oo5).First in， last out? The evolution of aphasic lexical speech automatisms to agrammatism and the evolution of human communication. Interaction Studies, 6,311-334.   \nCope,T.E., Wilson,B.，Robson, H., Drinkal,R., Dean,L.，Grube,M.,...Rowe,J.B.(2017). Artificial grammar learning in vascular and progressive non-fluent aphasias. Neuropsychologia,104, 201-213.   \nCrockford,C.,& Boesch,C.(2005). Callcombinations in wild chimpanzees.behaviour，142(4),397- 421.   \nDubois,J., Dehaene-Lambertz,G.,Kulikova,S.,Poupon,C., Huppi,P.S.,& Hertz-Pannier,L.(2014).The early development of brain white matter: A review of imaging studies in fetuses, newborns and infants. Neuroscience, 276,48-71.   \nEnard，W. (2011). FOXP2 and the role of cortico-basal ganglia circuits in speech and language evolution. Current Opinion in Neurobiology,21(3),415-424.   \nFedorenko,E., Blank,I., Siegelman, M.,& Minerof,Z. (202O). Lack of selectivity for syntax relative to word meanings throughout the language network. Cognition, 203,104348.   \nFerrigno,S., Cheyette,S.J.,Piantadosi,S.T.,& Cantlon,J.F.(2O2O).Recursive sequence generation in monkeys, children,U.S.adults,and native Amazonians.Science Advances,6(26),eaaz1002.   \nFitch,W.T. (2017). Empirical approaches to the study of language evolution.Psychonomic Bulletin & Review(21), 1.   \nFitch,W.T. (2019). Animal cognition and the evolution of human language: why we cannot focus solely on communication. Philosophical Transactions of the Royal Society B:Biological Sciences,375,20190046.   \nFrench, C.A.,& Fisher,S.E.(2014).What can mice tell us about Foxp2 function? Current Opinion in Neurobiology,28(28),72-79.   \nFriederici, A. D. (2017). Evolution of the neural language network. Psychonomic Bulletin & Review, 24(1), 41-47.   \nFriederici,A. D. (2020). Hierarchy processing in human neurobiology: how specific is it? Philosophical Transactions of the Royal Society B,375(1789), 20180391.   \nFriederici，A.D.，Bahlmann，J.，Heim，S.，Schubotz，R.I.，& Anwander，A. (2006).The brain differentiates human and non-human grammars: functional localization and structural connectivity. Proceedings of the National Academy of Sciences of the United States of America, 103(7),2458-2463.   \nFriedrich, R.,& Friederici, A. D.(2009). Mathematical logic in the human brain: syntax. Plos One, 4(5).   \nFrohlich，M.， Sievers，C.，Townsend，S.W.，Gruber，T.，& van Schaik，C.P.(2019).Multimodal communication and language origins: integrating gestures and vocalizations. Biological Reviews,94(5), 1809 - 1829.   \nFrohlich, M.,& van Schaik,C.P.(2018).The function of primate multimodal communication. Animal Cognition, 21(5), 619-629.   \nGabay,Y.,Thiessen,E.D.,& Holt,L.L. (2015). Impaired statistical learning in developmental dyslexia. Journal of Speech Language and Heaingr Research, 58(3), 934-945.   \nGenty,E., Clay,Z., Hobaiter, C.,& Zuberbuhler,K.(2O14).Multi-Modal use of a socially directed calin bonobos. Plos One, 9(1),e84738.   \nGoucha,T.,& Friederici, A. D. (2015).The language skeleton after dissecting meaning: a functional segregation within Broca's Area.. Neurolmage,114, 294-302.   \nGoucha,T., Zaccarella,E.,& Friederici, A.D.(2017). A revival of Homo loquens as a builder of labeled structures: Neurocognitive considerations. Neuroscience & Biobehavioral Reviews,81,213- 224.   \nGruber,T.,& Grandjean, D. (2017). A comparative neurological approach to emotional expresions in primate vocalizations. Neuroscience & Biobehavioral Reviews,73,182-190.   \nHare,B. (2001). Can competitive paradigms increase the validity of experiments on primate social cognition? Animal Cognition, 4(3-4), 269-280.   \nHare，B.，Call,J.，& Tomasello，M. (2006). Chimpanzees deceive a human competitor by hiding. Cognition, 101(3),495-514.   \nHauser, M.D., Chomsky,N.,& Fitch,W.(2O02).The faculty of language: what is it,who has it,and how did it evolve.Science, 298,1569-1579.   \nHeard,M.,& Lee, Y.S. (2O2O). Shared neural resources of rhythm and syntax: An ALE meta-analysis. Neuropsychologia,137,107284.   \nHecht,E.E., Gutman,D.A., Khreisheh,N.,Taylor,S.V., Kilner,J.,Faisal,A.A.,...Stout,D. (2015). Acquisition of paleolithic toolmaking abilities involves structural remodeling to inferior frontoparietal regions. Brain Structure & Function,220(4), 2315-2331.   \nHobaiter, C., Byrne,R.W.,& Zuberbuhler, K. (2017). Wild chimpanzees' use of single and combined vocal and gestural signals. Behavioral Ecology & Sociobiology,71(6), 96.   \nHsu,H.J.,Tomblin,J.B.,& Christiansen,M.H. (2014).Impaired statistical learning of non-adjacent dependencies in adolescents with specific language impairment. Frontiers in Psychology, 5(175), 1-10.   \nJackendoff, R.,& Wittenberg, E. (2017). Linear grammar as a possible stepping-stone in the evolution of language. Psychonomic Buletin & Review, 24(1),219-224.   \nJarvis,E.D. (2019). Evolution of vocal learning and spoken language.Science,366(6461),50-54.   \nJeon,H.-A., Kuhl, U.,&Friederici,A.D. (2O19).Mathematical expertise modulates thearchitectureof dorsal and cortico-thalamic white matter tracts.Scientific reports, 9(1).   \nJeon,H.A.,& Friederici， A. D. (2016). What does \"Being an Expert\" mean to the brain? Functional specificity and connectivity in expertise.Cerebral Cortex,27(12),5603-5615.   \nJiang,X.,Long,T.,Cao,W.,Li,J.,Dehaene,S.，& Wang, L. (2O18). Production of supra-regular spatial sequences by macaque monkeys. Current Biology, 28(12),1851-1859.   \nKabdebon，C.，& Dehaene-Lambertz，G. (2019).Symbolic labeling in 5-month-old human infants. Proceedings of the National Academy of Sciences,116(12),5805-5810.   \nKeller,S., Deppe,M.M., Herbin,M.M.,& Gilissen,E. (2012). Variability and asymmetry of the sulcal contours defining Broca's Area homologue in the chimpanzee brain. The Journal of Comparative Neurology, 520(6),1165-1180.   \nKerkhof, A., De Bree, E.， De Klerk, M.，& Wijnen,F. (2013). Non-adjacent dependency learning in infants at familial risk of dyslexia.Journal of Child Language,40(1),11-28.   \nKikuchi,Y.,Adam,A., Wilson,B.，Rhone,A.E., Nourski, K.V.,Gander,P.E.,...Petkov,C.I.(2017). Sequence learning modulates neural responses and oscilatory coupling in human and monkey auditory cortex. Plos Biology,15(4),e2000219.   \nKochiyama,T.,Ogihara,N.,Tanabe, H. C., Kondo,O.,Amano,H., Hasegawa, K.,...Akazawa,T. (2018). Reconstructing the Neanderthal brain using computational anatomy. Scientific reports, 8(1), 6296.   \nKolodny, O.,& Edelman,S.(2018).The evolution of the capacity for language: the ecological context and adaptive value of a process of cognitive hijacking. Philosophical Transactions of the Royal Society B: Biological Sciences,373(1743),20170052.   \nKrupenye,C., Kano,F.， Hirata,S.， Call,J.,& Tomasell,M.(2016). Great apes anticipate that other individuals willact according to false beliefs.Science, 354(6308),110-114.   \nLai,C.S.,Fisher,S.E., Hurst,J.A., Vargha-Khadem,F..,& Monaco,A.P. (2001).A forkhead-domain gene is mutated in a severe speech and language disorder. Nature, 413(6855),519-523.   \nLaland,K.N.(2O17).The origins of language in teaching. Psychonomic Bulletin & Review, 24,225-231.   \nLópez-Barroso,D., Catani, M., Ripollés,P.,DellAcqua,F.,Rodriguez-Fornells,A.,&de Diego-Balaguer, R. (2013).Word learning is mediated by the left arcuate fasciculus. Proceedings of the National Academy of Sciences,110(32),13168-13173.   \nLoui，P.，Alsop,D.C.，& Schlaug,G. (2O09).Tone deafness: a new disconnection syndrome? The Journal of Neuroscience,29(33),10215-10220.   \nMalasis，R.，Rey,A.,& Fagot, J. (2018). Non-adjacent Dependencies Processing in Human and Nonhuman Primates. Cognitive Science, 42(5),1677-1699.   \nMarslen-Wilson，W.D.，& Bozic，M. (2018). Dual neurobiological systems underlying language evolution: infering the ancestral state. Current Opinion in Behavioral Sciences,21,176-181.   \nMatchin, W., Hammerly, C.,& Lau,E.(2017). The role of the IFG and pSTS in syntactic prediction: Evidence from a parametric study of hierarchical structure in fMRl. Cortex,88,106-123.   \nMilne,A.E, Mueller,J.L., Männel, C.,Attaheri, A.,Friederici, A.D.,& Petkov,C.I. (2016). Evolutionary origins of non-adjacent sequence processng in primate brain potentials. Scientific reports, 6(1),36259.   \nMoeller, K.,Willmes, K.,& Klein,E. (2015). A review on functional and structural brain connectivityin numerical cognition. Frontiers in Human Neuroscience, 9,227-227.   \nMueller，J.，Milne，A.，& Männel，C. (2018).Non-adjacent auditory sequence learning across development and primate species. Current Opinion in Behavioral Sciences, 21,112-119.   \nNowak,M. A.，Plotkin,J.B.，& Jansen, V.A.A. (2OoO).The evolution of syntactic communication. Nature,404(6777),495-498.   \nPallier，C.，Devauchelle，A.-D.，& Dehaene，S. (2011). Cortical representation of the constituent structure of sentences.Proceedings of the National Academy of Sciences,108(6),2522-2527.   \nPerani,D.,Saccuman,M. C., Scifo,P.,Anwander,A., Spada,D., Baldoli, C.,& Friederici,A.D.(2011). Corections: Neural language networks at birth. Proceedings of the National Academy of Sciences of the United States of America,108(45),16056-16061.   \nPerani,D.,Saccuman,M.C.,Scifo,P.,Anwander,A.,Spada,D., Baldoli,C,...Friederici,A.D.(2011). Neural language networks at birth. Proceedings of the National Academy of Sciences of the United States of America,108(38),16056-16061.   \nPetersson, K. M., Folia, V.,& Hagoort, P.(2012). What artificial grammar learning reveals about the neurobiology of syntax. Brain & Language,120(2),83-95.   \nPoletiek,F.H.，Fitz,H.，& Bocanegra，B.R. (2016).What a boons can(not) tell us about natural language grammars. Cognition, 151,108-112.   \nProgovac, L.，& Benitez-Burraco,A. (2019). From physical aggression to verbal behavior: Language evolution and self-domestication feedback loop. Frontiers in Psychology, 10,2807.   \nProgovac,L., Rakhlin, N.，Angel, W.,Liddane,R., Tang, L.,& Ofen,N. (2018a). Diversity of grammars and their diverging evolutionary and processing paths: Evidence from functional MRl study of serbian. Frontiers in Psychology, 9(278).   \nProgovac,L.，Rakhlin,N., Angell, W.,Liddane,R., Tang, L.，& Ofen,N. (2018b). Neural correlates of syntax and proto-syntax: Evolutionary Dimension.Frontiers in Psychology, 9(2415).   \nRavignani, A.,& Sonnweber,R. (2017). Chimpanzees process structural isomorphisms acrosssensory modalities. Cognition,161,74-79.   \nReber，S. A.， Slipogor, V.，Oh,J.，Ravignani, A.，Hoeschele,M.， Bugnyar, T.，& Fitch,W.T. (2019). Common marmosets are sensitive to simple dependencies at variable distances in an artificial grammar. Evolution and Human Behavior, 40(2),214-221.   \nRey,A.,Minier,L., Malassis,R., Bogaerts,L.,& Fagot,J. (2019).Regularity extraction across species: Associative learning mechanisms shared by human and non-human primates. Topics in Cognitive Science, 11(3),573-586.   \nRiling，J. K.， Glasser， M.F., Jbabdi, S.,Andersson,J.,& Preuss,T.M.(2012).Continuity,divergence, and the evolution of brain language pathways. Frontiers in Evolutionary Neuroscience,3,11- 11.   \nRodd,J.M.，Vitello，S.，Woollams,A.M.，& Adank，P.(2015).Localising semantic and syntactic processing in spoken and written language comprehension: An Activation Likelihood Estimation meta-analysis. Brain and Language,141,89-102.   \nSchell,M., Zaccarella,E.，& Friederici, A.D.(2O17). Differential cortical contribution of syntax and semantics: An fMRl study on two-word phrasal processng. Cortex, 96,105-120.   \nSchlenker,P.,Chemla,E.,Schel,A.M.,Fuller,J., Gautier,J.,Kuhn,J.,... Keenan,S.(2016).Formal monkey linguistics.Theoretical Linguistics, 42,1-90.   \nSenghas，R.J.， Senghas，A.，& Pyers,J.E.(2OO5).The emergence of Nicaraguan Sign Language: Questions of development,acquisition and evolution. In S.T. Parker,J. Langer,& C. Milbrath (Eds.), Biology and knowledge revisited: From neurogenesis to psychogenesis (pp.287-306). Mahwah, NJ: Erlbaum.   \nSkeide,M. A.，Brauer,J.，& Friederici， A.D.(2016). Brain functional and structural predictors of language performance. Cerebral Cortex,26,2127-2139.   \nSonnweber, R.S.， Ravignani, A.，& Fitch,W.T. (2015). Non-adjacent visual dependency learning in chimpanzees.Animal Cognition,18(3),733-745.   \nten Cate, C. (2017). Assessing the uniqueness of language: Animal grammatical abilities take center stage. Psychonomic Bulletin & Review, 24(1),91-96.   \nTerrace,H. S., Petitt, o. L. A., Sanders,R.J.,& Bever,T.G.(1979). Can an ape create a sentence? Science,206,891-902.   \nThomas，J.，& Kirby，S. (2018). Self domestication and the evolution of language. Biology and Philosophy,33(1),1-30.   \nTomasello,M.(2018). How children come to understand false beliefs: A shared intentionality account. Proceedings of the National Academy of Sciences,115(34),8491-8498.   \nTomasello,M.,& Call,J.(2019). Thirty years of great ape gestures.Animal Cognition,22(4), 461-469.   \nTownsend,S.W., Koski,S.E., Byrne,R.W.,Slocombe, K.E.,Bickel,B.,Boeckle,M.,...Manser,M.B. (2017). Exorcising Grice's ghost: an empirical approach to studying intentional communication in animals. Biological Reviews, 92(3),1427-1433.   \nTyler,L. K., Marslen-Wilson,W.D, Randal,B.,Wright,P.,Devereux,B.J.,Zhuang,J....Stamatakis, E.A. (2O11). Left inferior frontal cortex and syntax: function,structure and behaviour in patients with left hemisphere damage. Brain,134(2), 415-431.   \nVarley，R.， Klessinger， N.， Romanowski，C. A. J.，& Siegal， M. (2005). Agrammatic but numerate. Proceedings of the National Academy of Sciences of the United States of America,102(9), 3519-3524.   \nVersace,E.， Rogge,J. R., Shelton-May,N.,& Ravignani, A. (2019).Positional encoding in cotton-top tamarins (Saguinus oedipus). Animal Cognition, 22,825-838.   \nWang,L.， Uhrig,L., Jarraya,B.,& Dehaene,S.(2O15). Representation of numerical and sequential patterns in macaque and human brains. Current Biology Cb,25(15),1966-1974.   \nWilson，B.，Kikuchi,Y.，Sun，L.，Hunter，D.， Dick,F.，Smith，K.，．..Petkov,C.I. (2015).Auditory sequence processng reveals evolutionarily conserved regions of frontal cortex in macaques and humans. Nature Communications, 6(2), 8901.   \nWilson,B., Marslen-Wilson,W.D.,& Petkov, C.I. (2017). Conserved sequence processing in primate frontal cortex. Trends in Neurosciences, 40(2),72-82.   \nWilson,B., Slater,H., Kikuchi,Y., Milne,A.E., Marslen-Wilson,W.D.,Smith,K.,& Petkov,C.I.(2013). Auditory artificial grammar learning in macaque and marmoset monkeys. Journal of Neuroscience, 33(48),18825-18835.   \nWilson,B., Smith, K.，& Petkov, C.I. (2015). Mixed-complexity artificial grammar learning in humans and macaque monkeys: evaluating learning strategies. European Journal of Neuroscience, ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "41(5),568 - 578. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Wilson,B.,Spierings,M.,Ravignani, A., Mueler,J.L., Mintz,T.H., Wijnen,F,...Rey,A.(202O). Nonadjacent dependency learning in humans and other animals. Topics in Cognitive Science, 12(3),843 - 858.   \nWinkler，M.，Mueler，J.L.，Friederici，A.D.，& Männel，C.(2018).Infant cognition includes the potentially human-unique ability to encode embedding. Science Advances,4(11),eaar8334.   \nWright,P.,Stamatakis,E.A.,& Tyler,L.K.(2012). Diferentiating hemispheric contributions to syntax and semantics in patients with left-hemisphere lesions.The Journal of Neuroscience,32(24), 8149-8157.   \nWu,C.Y.， Zaccarella，E.，& Friederici，A.D. (2O19). Universal neural basis of structure building evidenced by network modulations emerging from Broca's area: The case of Chinese. Hum Brain Mapp,40(6),1705-1717.   \nYang,Y.-H.，Marslen-Wilson,W.D.，& Bozic,M. (2017). Syntactic complexity and frequency in the neurocognitive language system.Journal of Cognitive Neuroscience,29(9),1605-1620.   \nZaccarella,E.,& Friederici,A.D.(2O15a). Merge in the human brain: a sub-region based functional investigation in the left pars opercularis.Frontiers in Psychology,6,1818.   \nZaccarella,E.,& Friederici, A.D.(2015b). Reflections of word processng in the insular cortex: A subregional parcellation based functional assessment. Brain & Language,142,1-7.   \nZaccarella，E.，& Friederici，A.D. (2O17).The neurobiological nature of syntactic hierarchies. Neuroscience & Biobehavioral Reviews,81,205-212.   \nZaccarella,E., Meyer,L., Makuuchi,M.,& Friederici,A.D.(2O17). Building by syntax: The neuralbasis of minimal linguistic structures. Cereb Cortex, 27(1),411-421.   \nZimmerer,V. C., Cowell,P.E.,& Varley,R.A. (2014).Artificial grammar learning in individuals with severe aphasia.Neuropsychologia,53,25-38.   \nZuberbuhler, K.,K.(2019). Evolutionary roads to syntax.Animal Behaviour,151,259-265.   \nZuberbuhler，K. (2O2O). Syntax and compositionality in animal communication. Philosophical Transactions of the Royal Society B,375(1789). ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Evolutionary Continuity and Origin Explanation of Syntax ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "YIN Rong, ZHAO Jia ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(SchoolofTeacherEducation,WeifangUniversity,Weifang26lo6l,China) ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Syntax is an important characteristic of human communication system that distinguishes humans from other animals.Comparative behavioral studies have shown that other primates besides humans can understand serial order rules; Comparative neurobiological studies have shown that the neural mechanisms that support order processing come from brain regions shared by humans and other primates.Therefore sequence learning ability on which syntax depends have evolutionary continuity between humans and other primates.Lexical constraint hypothesis， event perception hypothesisand self-domestication hypothesisexplain the evolutionary origin of human syntax from different perspectives. Future research should clarify whether the neural mechanisms found in artificial grammar tasks are common processors for hierarchical processing in all fields,and further explore the relationship between syntactic processing and semantic processing. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Key words: syntax, sequence learning, artificial grammar, evolutionary continuity, comparative studies ",
+        "page_idx": 21
+    }
+]

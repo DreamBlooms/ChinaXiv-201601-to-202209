@@ -1,0 +1,122 @@
+基础研究
+
+# 电针对急性痛风性关节炎大鼠踝关节髓样细胞表达激发受体表达的影响
+
+张超男，黄学宽,骆 言，蒋 娟,万磊,王 玲重庆医科大学中医药学院，重庆401331
+
+摘要：目的 探讨电针对急性痛风性关节炎(AGA)大鼠受试踝关节滑膜组织髓样细胞表达激发受体(TREM)-1表达的影响。方法将40只SD雄性大鼠随机分为正常组、模型组、西药组、电针组，每组各10只;正常组常规喂养,其余采用尿酸钠溶液注射法建立AGA模型。造模前2d,正常组与模型组按 $2 0 ~ \mathrm { m l / k g }$ 予以生理盐水灌胃，西药组按 $1 \mathrm { m g / k g }$ 予以秋水仙碱溶液灌胃，电针组选取受试侧三阴交、解溪、昆仑，频率 $1 . 5 { \sim } 2 \mathrm { H z }$ ，电压9V，电流强度 $1 { \sim } 3 ~ \mathrm { m A }$ ，疏密波，留针 $2 0 \mathrm { m i n } , 1$ 次/d，连续 $9 \mathrm { d } _ { \circ }$ 分析各组大鼠关节功能障碍，采用ELISA法检测受试踝关节滑膜组织中肿瘤坏死因子TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 、白细胞介素IL-1β的含量，采用免疫组化及Western blot法检测TREM-1表达。结果与正常组比较，模型组大鼠功能障碍指数显著增高( $\scriptstyle { \overrightarrow { P } } < 0 . 0 1 { \mathrm { . } }$ ,TNF-α和IL-1β含量显著增高 $( P { < } 0 . 0 5 )$ ，受试踝关节滑膜组织TREM-1表达明显增加 $_ { ( P < 0 . 0 5 ) }$ ;与模型组比较，西药组和电针组大鼠功能障碍指数显著降低 $( P { < } 0 . 0 1 \$ ,TNF- $\mathbf { \alpha } \cdot \mathbf { \vec { a } }$ 和IL-1β含量显著降低( $P { < } 0 . 0 5 )$ ，受试踝关节滑膜组织TREM-1表达明显降低 $( P { < } 0 . 0 5 )$ ;西药组与电针组比较,均无统计学意义 $( P { > } 0 . 0 5 )$ )。结论 电针治疗AGA的机制可能是通过抑制TREM-1的表达。
+
+关键词：急性痛风性关节炎；电针；髓样细胞表达激发受体1
+
+# Effects of electro-acupuncture on expression of triggering receptor expressed on myeloid cells 1 in ankle joint synovial tissue of acute gouty arthritis rats
+
+ZHANG Chaonan, HUANG Xuekuan,LUO Yan, JIANG Juan, WAN Lei, WANG Ling College of TCM,Chongqing Medical University, Chongqing 401331,China
+
+Abstract: ObjectiveToinvestigatetheefectsofelectro-acupuncture (EA)onthe expresionoftriggeringreceptor expreedon myeloid cell(TREM)1 inankle joint synovial tisseof acute goutyarthritis (AGA)rats. Methods Forty male SDrats were randomlydividedinto4groups: noral,AGA,medicationandEAgroup,10rats ineachgroup.AGAmodel wasestablised by induced monosodiumurate (MSU)method,excepttheoralgroup.TowdaysbeforeAGAmodelwasestablished,oaland AGA groups were lavaged with normal saline $( 2 0 ~ \mathrm { m l / k g } )$ , medication group was lavaged with colchicine solution $( 2 0 \mathrm { m l / k g } )$ ,EA 0 $\mathrm { 1 . 5 - 2 H z , }$ D.-D.wave, 9v, $\mathrm { 1 - 3 \ m A }$ ） was applied to “Sanyinjiao"(SP6),“jiexi"(ST41) and“Kunlun"(BL60) for $2 0 \ \mathrm { m i n } ,$ once daily, continuously for 9 days.Then observed the changes in dysfunction,and the content of TNF-αand IL- $1 \beta$ detectedbyELISA,the expression of TREM-1detectedby immunohistochemistryand western blot.Results Compared tothe normal group,the AGA group of the dysfunction index increased significantly $_ { ( P < 0 . 0 1 ) }$ , the content of TNF-αand IL-1βincreased significantly $_ { ( P < 0 . 0 5 ) }$ the expression of TREM-1 in synovial tissue increased significantly $_ { ( P < 0 . 0 5 ) }$ ; the medication and EA groups compared to the AGA group, the dysfunction index decreased significantly $_ { ( P < 0 . 0 1 ) }$ ， the content of TNF-αand IL-1βdecreased significantly ( $\mathrm { ^ { p } } { < }$ 0.05),the expression of TREM-1 in synovial tissue decreased significantly $( P { < } 0 . 0 5 ) .$ there were not statistically significant between the medication and EA group $( P { > } 0 . 0 5 )$ . Conclusion EA treating AGA may be through down-regulating the expression of TREM-1 in synovial tissue.
+
+Key words: acute gouty arthritis; electro-acupuncture; triggering receptor expressed on myeloid cells1
+
+痛风是由于嘌呤生物合成代谢增加、尿酸产生过多或因尿酸排泄不良而导致的一组异质性疾病。急性痛风性关节炎(acute goutyarthritis,AGA)为痛风的典型表现形式，也是其首发症状，由于尿酸盐结晶(monosodiumurate,MSU)析出、沉淀于关节腔内，导致大量炎性细胞浸润，促使关节出现剧烈疼痛、红肿和功能障碍等炎症反应。以往认为该病在我国较为罕见，但随着人民生活水平的提高，饮食结构也发生显著变化，食物中嘌呤物质含量不断地增高使该病在我国发病也日益增加，给人们带来了极大痛苦及不便。髓样细胞表达激发受体(TREM)-1是近年来新发现的免疫球蛋白超家族成员之一，在炎症放大过程中发挥重要的作用，它的发现是炎症发生机制研究的重要进展。阻断TREM-1不仅有助于自身免疫性关节炎的病理变化，而且对其他炎症性疾病的器官有一定的保护作用[-3],故TREM-1的阻断可能会成为治疗AGA的新靶标。电针用于AGA的治疗已有多年，并取得较好的疗效。有研究表明4,电针对关节炎大鼠有显著的镇痛效果,故能进一步改善AGA的局部症状。本课题采用MSU溶液注射法建立AGA大鼠模型，其病理表现与临床上的AGA患者相似，是由中性粒细胞诱导的炎症。故本课题可通过研究电针对AGA大鼠模型受试踝关节滑膜组织TREM-1表达的影响，以期进一步了解其对AGA的治疗机制。
+
+# 1材料
+
+秋水仙碱片(昆明制药集团股份有限公司，批号：国药准字J20030017），尿酸钠晶体（Sigma），TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 及IL- $\cdot 1 \beta$ ELISA试剂盒(南京建成生物工程研究所）,S-PRabbitHRPKit(DAB)兔Streptavidin-HRP试剂盒（武汉博士德生物科技有限公司)，TREM-1一抗(武汉博士德生物科技有限公司）HM-6805-I型经穴治疗仪（恒明牌 $1 0 . 3 5 { \times } 1 3 \ \mathrm { m m }$ 毫针(华佗牌)等。
+
+# 2方法
+
+# 2.1 分组与治疗
+
+40只SD雄性大鼠，由重庆医科大学实验动物中心提供[生产许可证号：SCXK(渝)2007-0001]，随机分为正常组、模型组、西药组、电针组，每组各10只。
+
+正常组：不造模，按 $2 0 ~ \mathrm { m l / k g }$ 予以生理盐水灌胃，1次/d,连续 $9 \mathrm { ~ d ~ }$ 。模型组：造模，造模前2d开始，按$2 0 ~ \mathrm { m l / k g }$ 予以生理盐水灌胃，1次/d,连续 $9 \mathrm { d } _ { \circ }$ 西药组：造模，造模前2d开始，按 $1 \mathrm { m g / k g }$ 予以秋水仙碱溶液(生理盐水溶解、稀释)灌胃，1次/d,连续 ${ 9 \mathrm { d } } _ { \odot }$ 电针组：造模，造模前2d开始，参照《实验针灸学》取右侧三阴交、解溪、昆仑，毫针直刺，平补平泻，进针后在此3个穴位上接经穴治疗仪，电压9V，电流强度 $1 { \sim } 3 \ \mathrm { m A }$ ,频率为 $1 . 5 \sim$ $2 \ : \mathrm { H z }$ 的疏密波，强度以大鼠局部皮肤肌肉微颤为度，留针 $2 0 \mathrm { m i n } , 1$ 次/d,连续 $9 \mathrm { d } _ { \mathrm { o } }$
+
+# 2.2造模方法
+
+根据文献5加以改进，大鼠腹腔注射 $10 \%$ 水合氯醛溶液麻醉，由大鼠右踝关节后侧，6号注射针针口斜面与胫骨成 $4 5 ^ { \circ }$ 夹角插入跟腱内侧直至踝关节腔，将配制好的 $0 . 2 \ \mathrm { m l \ M S U }$ 溶液(浓度为 $2 . 5 ~ \mathrm { g } / 1 0 0 ~ \mathrm { m l } ,$ 注入关节腔内，以关节囊对侧鼓胀为注入标准。正常组以同样的方法注射同体积生理盐水。实验过程中对动物处置符合中华人民共和国科学技术部2006年颁布的《关于善待实验动物的指导性意见》。
+
+# 2.3功能障碍分析标准
+
+处死前1H对大鼠进行功能障碍分析。0级正常步态行走,0分；I级轻微跛行，受试下肢略弯曲，1分；Ⅱ级中度跛行，受试下肢刚触及地面，2分;Ⅲ级重度跛行，受试下肢离开地面，三足着地行走，3分。
+
+# 2.4受试关节滑膜组织TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 及IL-1β的检测
+
+造模第7天颈椎脱白处死大鼠，以踝关节为中心上下 $0 . 5 \mathrm { c m }$ 处剪断，取下受试关节及周围软组织，快速切取关节滑膜组织，称体重，按1：5比例加生理盐水稀释，$4 ^ { \circ } \mathrm { C }$ 匀浆， $4 0 0 0 \mathrm { r / m i n }$ 离心 $5 \mathrm { m i n }$ ,取上清液,分装于Ep管中,按ELISA试剂盒说明,检测关节滑膜组织中TNF $\mathbf { \nabla } \cdot \mathbf { a }$ 及IL-1β的含量。
+
+2.5受试关节滑膜组织TREM-1的表达检测
+
+2.5.1免疫组化大鼠颈椎脱白处死后，取部分受试关节组织放入 $4 \%$ 多聚甲醛中固定，石蜡包埋、切片。根据免疫组化试剂盒说明书，ABC染色，DBA显色，复染、脱水、透明、封片，以显微镜下细胞胞浆及胞膜内出棕色粒为阳性表达，免疫组化结果采用IHS(immunohistochemical scores)评分。
+
+2.5.2WesternBlot大鼠处死后剪取部分受试踝关节滑膜组织，称重剪碎，按1:5加入 $0 . 9 \%$ Nacl溶液， $4 \mathrm { { ^ circ C } }$ $5 0 0 ~ \mathrm { r / m i n }$ 离心 $5 \mathrm { m i n }$ ，弃上清液，反复3次后再按1：5加入蛋白裂解液， $4 ^ { \circ } \mathrm { C }$ 裂解 $, 4 \mathrm { ~ \textdegree ~ { ~ T ~ } ~ } 1 2 0 0 0 \mathrm { { ~ r / m i n } }$ 离心 $3 0 \mathrm { m i n }$ 取上清液，考斯亮蓝进行蛋白定量，后经灌胶，加样，电泳,转膜，一抗、二抗室温孵育 $2 \mathrm { { h } }$ ，显影，用分子生物学图像分析系统测定灰度值。
+
+# 2.6统计学处理
+
+采用SPSS18.0软件对各组数据进行统计分析，数据以均数 $\trianglerighteq$ 标准差表示，差异分析采用 $\mathbf { \Phi } _ { t }$ 检验， $P { < } 0 . 0 5$ 表示差异具有统计学意义。
+
+# 3结果
+
+# 3.1功能障碍指数分析
+
+与正常组比较，模型组大鼠功能障碍指数显著增高$( P { < } 0 . 0 1 )$ ;与模型组比较，西药组与电针组大鼠功能障碍指数显著降低 $( P { < } 0 . 0 1 )$ ；西药组与电针组比较，无显著差异( $\mathrm { \ P { > } 0 . 0 5 }$ ，图1)。
+
+![](images/cae22d29c104383934bc5305f61543ab1914f258309265ba8e5e3a588088a478.jpg)  
+图1各组大鼠功能障碍指数  
+Fig.1 The dysfunction index of every group $( n { = } 1 0 )$ .usnormal group $^ { * } P { < } 0 . 0 1 .$ ,UsAGA group $^ { \triangle } P { < } 0 . 0 1$ ：
+
+# 3.2 TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 及IL-1β含量
+
+与正常组比较，模型组大鼠受试踝关节滑膜组织中TNF- $\mathfrak { a }$ 及IL-1β含量增高 $( P { < } 0 . 0 5 )$ ;与模型组比较，西药组与电针组大鼠受试踝关节滑膜组织中TNF- $\mathbf { \nabla } \cdot \mathbf { a } _ { } $ 及IL $1 \beta$ 含量明显降低（ $( P { < } 0 . 0 5 )$ ；西药组与电针组无显著差异中 $\mathrm { \ P { > } 0 . 0 5 }$ ，表1)。
+
+# 表1各组大鼠受试踝关节滑膜组织TNF-α及IL-1β含量 4讨论
+
+Tab.1 The content of TNF-αand $\mathrm { I L } { - } 1 \beta$ in ankle joint synovialtissue $( n { = } 1 0 )$ （204号  
+
+<html><body><table><tr><td>Group</td><td>TNF-α (ng/l)</td><td>IL-1β (pg/l)</td></tr><tr><td>Normal</td><td>128.33±6.11</td><td>1065.93±26.70</td></tr><tr><td>AGA</td><td>149.09±6.35*</td><td>1249.00±44.66*</td></tr><tr><td>Medication</td><td>141.41±3.84</td><td>1210.45±12.144</td></tr><tr><td>EA</td><td>139.94±4.60△</td><td>1203.16±22.98</td></tr></table></body></html>
+
+Vs normal group $^ { \ast } P { < } 0 . 0 5$ vs AGA group $^ { \triangle } P { < } 0 . 0 5$
+
+# 3.3TREM-1表达
+
+与正常组相比，模型组TREM-1表达量显著增加$( P { < } 0 . 0 5 )$ ；与模型组相比，西药组与电针组TREM-1表达显著减少( $P { < } 0 . 0 5 )$ ；而西药组与电针组之间无显著差异 $\mathrm { \ P { > } 0 . 0 5 }$ ，表2，图2,3)。
+
+表2免疫组化各组大鼠受试关节滑膜组织TREM-1IHS评分结果 Tab.2 The resultof TREM-1 inankle joint synovial tissue by IHS $_ { ( n = 1 0 ) }$   
+
+<html><body><table><tr><td>Group</td><td>A%</td><td>B</td><td>TREM-1(IHS)</td></tr><tr><td>Normal</td><td>23.50±20.84</td><td>0-1</td><td>1.50±0.97</td></tr><tr><td>AGA</td><td>54.70±12.23*</td><td>2-3</td><td>4.70±2.06*</td></tr><tr><td>Medication</td><td>26.60±19.46</td><td>1-2</td><td>2.70±0.95</td></tr><tr><td>EA</td><td>22.00±20.01△</td><td>1-2</td><td>2.50±0.97△</td></tr></table></body></html>
+
+Vs normal group $^ { \ast } P { < } 0 . 0 5$ Us AGA group $^ { \triangle } P { < } 0 . 0 5$ #
+
+急性痛风性关节炎(AGA)属中医“湿热痹"范畴，常因饮食不节伤及脾胃，脾失健运而湿浊内生，或平素体虚感受湿热之邪，邪气壅于经络，痹阻气血经脉，并滞留于关节筋骨，从而出现关节疼痛、肿大、活动不利等症状。本病属正虚邪实之候，治疗应从脾肾入手，采用补虚泻实法。《针灸甲乙经》云：“足下热痛不能久坐，湿痹不能行，三阴交主之”，三阴交位于脾经，又为足三阴经交会穴，有清热健脾利湿，补益肝肾之功；而解溪、昆仑分别为脾经和膀胱经的经穴，属五输穴，是沟通五脏与六腑表里所在，也是脏腑经络之气流注聚集于体表之所在，针刺解溪、昆仑能激发脾肾脏腑经气传导至疼痛关节,即"气至病所"。且电针的镇痛效果较为明显,能进一步改善AGA的局部症状。
+
+AGA是痛风的一种典型表现形式，也是其首发症状，是由于MSU晶体析出并沉积在骨关节组织，MSU能够诱导滑膜细胞、单核细胞-巨嗜细胞等产生TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 及IL-1β，从而引起关节及其周围组织遭到破坏及引起炎症反应[-10],造成受累关节的肿胀、功能障碍等。本实验研究中，与正常组比较，模型组功能障碍指数显著增加 $( P { < } 0 . 0 1 )$ ,TNF- $\mathbf { \alpha } \cdot \mathbf { a }$ 及 $\mathrm { I L } { - } 1 \beta$ 含量增高( $_ { ( P < 0 . 0 5 ) }$ ，说明MSU注射法能够通过MSU晶体沉淀于关节腔内引起关节炎症及活动障碍而成功制备AGA模型。选择性地抑制IL-1β，能够减轻痛风患者的疼痛及炎症反应"，同样TNF-α的合成减少,能够抑制AGA的关节炎症反应[],从而减轻关节破坏引起的症状。西药组、电针组与模型组比较，功能障碍指数显著降低 $( P { < } 0 . 0 1 )$ ,TNF $\mathbf { \nabla } \cdot \mathbf { a }$ 及IL-1β含量降低( $_ { ( P < 0 . 0 5 ) }$ ，西药与电针治疗可改善AGA的关节炎症及活动功能，从而抑制AGA的病程进展。
+
+![](images/1a18d0054634999056ad94cc9ebce85d893d456738aa377a373a4cc026d48902.jpg)  
+图2免疫组化检测各组大鼠受 试踝关节组织TREM-1的表达 Fig.2 the expression of TREM-1 in ankle joint synovial tissue by immunohistochemistry (Original magnification: $\times 4 0 0 ^ { \cdot }$ ） A: Normal group; B:AGA group; C: Medication group; $D$ EA group.
+
+TREM-1是近期发现的一个细胞表面受体，主要表达于单核细胞和中性粒细胞，在急性和慢性疾病中起着重要作用[12]。TREM-1的结构分为胞外免疫球蛋白区、跨膜区和短胞质尾区，其胞外区可特异性地与其配体或单克隆体结合[13]。目前,TREM-1的配体尚未明确,但已知TREM-1可与其未知配体结合，在外界因子的刺激下，诱导TNF- $\mathfrak { a }$ 等炎症介质的分泌，中性粒细胞的脱粒和吞噬反应等，使炎症部位中性粒细胞和单核细胞的生存时间延长[14]。MSU能够诱导AGA大鼠腹膜中巨噬细胞和中性粒细胞中TREM-1的表达[15],且被激活的TREM-1能够诱导TNF- $\mathbf { \alpha } _ { \mathrm { ~ \mathfrak { ~ a ~ } ~ } }$ 、IL-1β等促炎因子的释放[16],而AGA关节炎症部位周围浸润着大量的巨嗜细胞及中性粒细胞等炎症细胞。本实验研究中，模型组大鼠踝关节组织TREM-1的表达明显高于正常组 $( P { < } 0 . 0 5 )$ 。由此可知，MSU诱导大鼠受试踝关节滑膜组织TREM-1出现高表达，可能通过增强其受试关节炎症的反应，进而促进了AGA大鼠模型的病情进展。TREM-1的表达同时受某些促炎因子及抗炎因子的影响，与其下游信号通路中的炎症细胞因子形成正反馈自分泌调节回路，因此，阻断TREM-1的信号通路可减轻炎症反应。而TREM-1的表达是非感染性炎症的一个重要标志[17],其表达量反映炎症反应的严重程度[18]。本实验研究中，西药组与电针组TREM-1的表达量显著低于模型组( $\scriptstyle { \mathcal { P } } <$ 0.05)，可能是通过西药与电针治疗，降低了AGA大鼠模型踝关节组织TREM-1的表达，从而抑制了TREM-1的下游信号的转导，减轻了踝关节的炎症反应，最终抑制AGA的病情进展。有研究显示,TREM-1可作为类风湿关节炎的治疗新靶点[2，而本实验研究发现TREM-1的表达随着AGA病情改变而改变，故TREM-1亦可作为AGA治疗新靶点，为今后临床治疗AGA提供理论依据。
+
+![](images/315108c15456ec8e69d7275cbb6949b3a75426e0147c381cf3171d3780aecbd8.jpg)  
+图3WB检测各组大鼠受试踝关节组织TREM-1的表达 Fig.3 The expression of trem-1 in ankle joint synovial by WB.1: Normal group;2:AGA group; 3: Medication group; 4: EA group.
+
+本实验研究揭示，西药与电针治疗AGA大鼠模型，能够改善受试关节功能障碍、降低其受试踝关节滑膜组织中的TREM-1的表达量，从而能起到一定的治疗效果。然而，西药组与电针组关节功能障碍指数、踝关节组织TREM-1的表达均无明显差异 $( P { > } 0 . 0 5 )$ ，表明西药与电针对AGA大鼠的疗效无显著差异。通过临床观察发现，长期服用西药会出现恶心、呕吐，严重者出现骨髓抑制、肾功能衰竭甚至死亡等毒副作用，限制了其临床应用。电针治疗AGA,简便廉效，疗效显著，且副作用小，有着西药无可替代的地位。本实验研究揭示电针对AGA大鼠的治疗效果，为今后临床开展电针治疗AGA提供了理论依据，而电针对AGA大鼠的具体治疗机制还需进一步深入研究。
+
+[1」Pierobon D，Bosco MC，Blengio F,et al.Chronic hypoxia reprograms human immature dendritic cels byinducinga proinflammatory phenotype and TREM-1 expression [J].Eur J Immunol,2013,43(4): 949-66.   
+[2]Wai H, Kohsaka H. Blockade of triggering recepressed on myeloid cells-1 asa new therapy of arthritis[J].Nihon Rinsho Meneki Gakkai Kaishi,2012,35(1): 81-6.   
+[3]Murakami Y,Akahoshi T,Aoki N,et al.Intervention of an inflammation amplifier, triggering receptor expressed on myeloid cells1,for treatment of autoimmune arthritis[J].Arthritis Rheum, 2009,60(6): 1615-23.   
+[4]张 皓,王 健,陈新勇,等.电针对佐剂性关节炎大鼠镇痛作用及内啡 肽影响[J].青岛大学医学院学报,2010,46(5):390-2.   
+[5]黄火高,孙运峰,胡 明,等.大鼠急性痛风性关节炎模型的建立及特点 [J].军事医学科学院院刊,2005,29(6): 538-42.   
+[6]石 焱,陈华德.五输穴与十二经脉脉气流注的关系[J].中华中医药学 刊,2007,25(9): 1971-2.   
+[7]孙 菁,周进祝.内科学[M]7版.北京:科学出版社,2003:830-5.   
+[8］黄敬群,孙文娟,王四旺,等.尿酸钠致急性痛风性关节炎模型大鼠与 槲皮素的抗炎作用[J].中国组织工程研究,2012,16(15):2815-9.   
+[9]Sabina EP,Chandel S, Rasool MK.Inhibition of monosodium urate crystal-induced inflammation by withaferin a[J].JPharm Pharm Sci,2008,11(4): 46-55.   
+[10]Mylona EE,Mouktaroudi M,Crisan TO,et al.Enhanced interleukin- $1 \beta$ production of PBMCs from patients with gout after stimulation with Toll-like receptor-2 ligandsand urate crystals[J]. Arthritis Res Ther,2012,14(4): R158.   
+[11]Miguelez R,Palacios I, Navarro F,et al. Anti-inflammatory effect of a PAF receptor antagonist and a new molecule with antiproteinase activity in an experimental model of acute urate crystal arthritis[J]. JLipid Mediat Cell Signal,1996,13(1): 35-49.   
+[12] Kim TH,Choi SJ,Lee YH,et al.Soluble triggering receptor expression on myeloid cells-1 as a new therapeutic molecule in rheumatoid arthritis[J].Med Hypotheses,2012,78(2): 270-2.   
+[13]李慧娟,李 焱,杨敬敬,等.类风湿关节炎患者可溶性髓样细胞表达的 触发因子受体-1的表达及意义[J].中国医药导报,2013,10(26):71-5.   
+[14]Radsak MP, Salih HR,Rammensee HG,et al. Triggering receptor expressed on myeloid cells-1 in neutrophil inflammatory responses: Differential regulation of activation and survival[J].J Immunol, 2004,172(8): 4956-63.   
+[15]Murakami Y,Akahoshi T,Hayashi I,et al.Induction of triggering receptor expressed on myeloid cells 1 in murine resident peritoneal macrophages by monosodium urate monohydrate crystals [J]. Arthritis Rheum,2006,54(2): 455-62.   
+[16]Kuai J, Gregory B,Hill A,etal. TREM-1 expression is increased in the synovium of rheumatoid arthritis patients and induces the expression of pro-inflammatory cytokines[J]. Rheumatol (Oxford), 2009,48(11): 1352-8.   
+[17]Cavaillon JM. Monocyte TREM-1 membrane expression in noninfectious inflammation[J]. Crit Care,2009,13(3): 152.   
+[18] Murakami Y, Kohsaka H. Triggering receptor expressed on myeloid cells-1 as an inflammation amplifier[J].Nihon Rinsho Meneki Gakkai Kaishi. 2009. 32(4): 242-8.
+
+# 参考文献：
+
+(编辑：吴锦雅）

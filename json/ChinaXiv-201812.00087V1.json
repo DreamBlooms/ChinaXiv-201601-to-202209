@@ -1,0 +1,494 @@
+[
+    {
+        "type": "text",
+        "text": "基于模糊SVM模型的入侵检测分类算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "汪生1，金志刚² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．中国北方电子设备研究所，北京 100191；2.天津大学 电气自动化与信息工程学院，天津 300072)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为解决入侵检测分类遇到的训练样本数量少、分类准确率低的问题，提出基于模糊支持向量机的多级分类机制。该分类机制首先训练模糊SVM模型将数据粗分为正常与攻击大类，然后采用DBSCAN算法产生细分模型进行攻击子集的自动聚类，将有关数据细分得到攻击的具体细类。在机制设计中，优化了隶属度函数的计算、设计了数据标准化与归一化等过程，并训练了高效分类器。实验表明，针对网络入侵检测数据中常见的孤立点干扰、噪声多、并且负样本占比多的网络业务数据集，新算法在保持分类准确率高的前提下，分类过程需要的计算时间较短。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：模糊；SVM；入侵检测；分类 中图分类号：TP393 doi:10.19734/j.issn.1001-3695.2018.08.0565 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IDS classification algorithm based on fuzzy SVM models ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wang Sheng1, Jin Zhigang² (1.NorthernInstituteofElectronicEquipmentofChina,Beijing0ol91,China;2.SchoolofElectronic&Information Engineering,Tianjin University,Tianjin 30oO72,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Inorderto solve the problemof smallnumberof training samples and low clasification auracyin intrusion detectionclasification,this paper proposed amulti-level clasification mechanismbasedon fuzzysupport vector machines (FSVM).This clasification mechanismfirstlytrained the fuzzy SVMmodel todividethedata roughly into normal and atack categories,and then used DBSCAN algorithm to generatesubdivision model for automaticclusteringof attack subsets,andthen subdivided the relevantdata into specificclasss of atack.Inthe mechanismdesign,thecalculationof membership function has beenoptimized,theprocess ofdata standardizationand normalizationhasbeendesigned,and the eficient clasifier has been trained.Experiments showthat the new algorithmrequires lesscomputing time inthe processof classification under the premise of high clasification accuracyaiming at the network service data sets with frequent isolated point interference,much noiseand a large proportion of negative samples in the network intrusion detection datasets. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: fuzzy;SVM; IDS;classification ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "日益增长的网络用户数量导致网络安全问题更为突出。根据CNNIC第41次报告：截至2017年底，我国网民数量接近8亿，并且大量用户使用网络金融等高价值应用[1]。面对网络安全攻击带来的数据泄露、网络诈骗、拒绝服务等问题，被动防御和主动探测等网络安全技术成为研究热点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "入侵检测是主动网络安全的重要措施，也是安全防御的关键手段，一般通过对数据包进行分析和鉴别，以采取合适的防御联动措施。由于网络行为日益复杂，需要灵活高效的识别与分类算法对数据进行分析。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "面向网络入侵检测的状态估计与分类可以采用支持向量机(supportingvector machine,SVM)模型[2]。文献[3]提出主成分分析（principal component analysis,PCA）与 SVM机制联合进行入侵检测分类。该方法先通过PCA算法提取网络数据的关键成分，然后利用粒子群算法对SVM参数进行优化训练。算法同样提高了分类与攻击预测的准确性，但由于采用了PCA、粒子群和SVM三类机器学习算法，导致复杂度较高，而且算法实际分类效果与PCA模型中专家经验有关。为提高入侵检测分类的准确性，文献[4]引入双联SVM模型，尽管分类准确率提高，但是计算速度下降较多，并且双联SVM模型导致对于参数选择与优化更加敏感，很难实时自动选择合适的模型参数。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "针对数据噪声问题，有学者引入模糊隶属度降低SVM模型对噪声点的敏感性[5]，但是该模型仅采用模糊处理和单级的SVM模型难以对网络安全数据中占比很低的攻击类数据进行高效多类别分类。为了保持分类的准确率、适应数据的噪声等问题，还有文献采用了其他机器学习模型与算法，主要包括：人工免疫模型[6]、K-均值聚类模型等。另一方面，入侵检测中的多类别模型研究也比较广泛，已有方法主要集中于直接采用多类SVM分类模型对原始数据集分类，如使用偏二叉树多类分类算法的TWSVM模型[7、自适应阈值的多类SVM分类模型[8]、快速多类采样的SVM型等[9]。文献分析表明，支持向量机模型是入侵检测分类研究的主流模型。在基础SVM模型上，面向数据集合自身特征与分类的实际需求，设计合理的参数并融合其他手段可以有效进行入侵检测训练与分类。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "相关研究表明，SVM模型对核函数选择与参数调节非常敏感，这导致在多类分类算法中，SVM的参数优化会随着类别的增加变得更加复杂。对于网络入侵检测来说，一方面训练数据的类别分布不均匀，另一方面正常型样本数量远远超过攻击型样本数量。这导致直接使用原始数据训练单级SVM难以实现模型参数优化，产生的SVM分类器对于攻击型样本类别的分类准确率远低于正常样本分类的准确率。因此，为保证入侵检测多类判别的准确率，论文设计了模糊SVM模型的二分类与多值回归细分类模型相结合的新机制。首先训练模糊SVM对初始数据集进行二分类处理，然后将“攻击性数据”采用DBscan细分类模型进行多类自动聚类判别，得出攻击的具体类别。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 基于SVM的粗细两级模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1模型整体设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "首先对数据包进行预处理，然后通过粗分类器进行判别，分类为“正常型数据”不需要进一步处理。对于“攻击数据”子集，使用细分类器分类为具体的攻击类型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "入侵检测分类模型分为两级：粗分类器对初始数据进行初筛选出感兴趣的数据；细分类器通过训练对初筛属于攻击的数据进行多类细分。如图1所示，预处理时将原始数据复制两份，第一份将正常型数据作为正样本，攻击型数据作为负样本，仅用于模糊SVM的粗分类；剔除正常型数据构造为第二训练集，经训练器训练后，得到适合于入侵检测的二值分类模型参数和回归模型多值分类的参数，然后统一将粗细分类训练参数传递到预测器，进行正式的分级多类判别。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2beb2e167a7e1cadeee60271f899a23bb0cd42cbe38a5fcbb8a1cbe2b3c8556a.jpg",
+        "img_caption": [
+            "图1模型整体流程",
+            "Fig.1Flowchart of Classification "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2构建模糊分类模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "传统SVM模型容易受噪声点和孤立点影响导致分类不稳定，入侵检测的数据集往往噪声多，不能直接使用SVM模型。对数据点增加模糊隶属度属性，通过引入模糊处理可以较好解决数据孤立点与噪声对分类的影响，用隶属度函数将SVM中的惩罚参数模糊化。通过优化训练SVM参数和调整隶属度获得针对入侵检测数据的高效粗分类模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于特征向量为 $\\nu _ { i }$ 标签为 $l _ { i }$ 的样本i,增加函数 $f _ { i }$ 表示其隶属度， $0 < f _ { i } \\leq 1$ ；将SVM的核函数表示为 $\\phi ( \\nu )$ ，扩展后的模糊SVM模型最优分类等价为求解式(1)[10]。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\operatorname* { m i n } \\ \\displaystyle \\frac { 1 } { 2 } \\| w \\| ^ { 2 } + C \\sum _ { i = 1 } ^ { m } f _ { i } \\xi _ { i } } \\\\ { l _ { i } [ w \\cdot \\phi \\big ( \\nu _ { i } \\big ) + b ] - 1 + \\xi _ { i } \\geq 0 } & { \\ i = 1 , 2 , . . . , m } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\xi _ { i }$ 是松弛因子， $c$ 是固定常数，为了达到更好的优化结果可选择较小的 $f _ { i }$ 取值以降低对 $\\xi _ { i }$ 优化结果的影响。采用拉格朗日松弛法将式(1)等价为求解式(2)的极值。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\displaystyle \\operatorname* { m a x } _ { i = 1 } W ( \\alpha ) = \\sum _ { i = 1 } ^ { m } \\alpha _ { i } - \\frac { 1 } { 2 } \\sum _ { i = 1 } ^ { m } \\sum _ { j = 1 } ^ { m } \\alpha _ { i } \\alpha _ { j } l _ { i } l _ { j } K ( \\nu _ { i } , \\nu _ { j } ) } \\\\ { \\displaystyle \\sum _ { i = 1 } ^ { m } l _ { i } \\alpha _ { i } = 0 \\quad } & { 0 \\leq \\alpha _ { i } \\leq f _ { i } \\ast C , \\quad i = 1 , 2 , . . . , m } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对入侵检测数据的基于模糊SVM模型的二分问题转换为通过数据集的训练来优化模糊隶属度函数的问题。下面具体说明通过样本训练来优化隶属度函数，以获得粗分类模型参数的过程。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了获得优化的函数 $f _ { i }$ ，将训练集的标签分正常型和攻击型两个子集，对于正常子集 $l _ { i }$ 置为1，攻击子集 $l _ { i }$ 置为-1。在计算样本i与样本子集中心的距离基础上，计算 $f _ { i }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "正负样本的中心分别记作为 $x _ { + }$ 和 $x _ { . }$ ，对于每个样本i,计算样本与正样本中心和负样本中心的距离。以正样本为例，定义 $d _ { + } = \\operatorname* { m a x } _ { \\{ \\nu _ { i } : l = 1 \\} } \\left\\| \\nu _ { + } - \\nu _ { i } \\right\\|$ ，同样可以计算负样本的d。进一步定义隶属度函数为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { i } = \\left\\{ \\begin{array} { l l } { \\left\\| \\nu _ { + } - \\nu _ { i } \\right\\| / \\left( d _ { + } + \\delta \\right) } & { \\ l _ { i } = 1 } \\\\ { \\left\\| \\nu _ { - } - \\nu _ { i } \\right\\| / \\left( d _ { - } + \\delta \\right) } & { \\ l _ { i } = - 1 } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于全部样本，通过LIBSVM软件对隶属度函数 $f _ { i }$ 进行训练优化，将得到的模型参数应用到1.3小节的分类器中。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3基于DBSCAN的攻击数据多类细分",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DBSCAN(Density-based spatial clustering of applicationwith noise)是一种基于密度的聚类算法[1]。DBSCAN将数据点以密度为依据分为三类，判断依据是点的圆邻域内的数量是否超过MinPts。邻域内点数超过MinPts数目的点称为核心点；在半径Eps内点的数量小于MinPts，但是落在核心点的邻域内的称为边界点；其余被分类为噪声点。该算法的主要步骤如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）建立新簇。对于未检查子集中的对象p，如果p状态是未处理，则检查其邻域。判断邻域中的点数，如果数量不小于MinPts，则建立新簇C，并将其中的所有点加入候选集N;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）更新候选集。对候选集 N 中任一未处理的对象q,检查其邻域，按照邻域点数判断。若至少包含MinPts个对象，则将这些对象加入N；如果q不属于当前任何一个簇，则将q加入C;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c）判断N是否为空。如果非空，则重复步骤b);d）判断是否全部对象已经标记完。如果有剩余对象，返回步骤c。否则，处理结束。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "总之，提出的新分类模型通过综合应用基于模糊SVM的二分类，再对被判别为估计的数据子集应用DBSCAN 算法进行聚类，进一步将攻击数据分成不同类别的子类别，实现对包含孤立点和大量噪声，并且在整体数据集中占比较低的攻击数据的多类自动分类。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 基于模糊SVM的二级入侵检测算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了对已经被粗分为攻击的数据进一步分类，采用一对多的多类分类模型，通过构造预期数量的分类进行训练。对于预测分类器，在预测某网络数据包属于何种攻击时，计算得到该网络数据包属于某类别的概率，然后概率最高所对应的类判断为该网络包所属类别。不同于仅直接使用DBSCAN算法分类，直接分类只应用密度信息分类数量受到数据来源和数据质量的影响[12]。论文设计的二级分类算法由于采用了模糊SVM进行处理，使得噪声点影响大大减少，可以通过DBSCAN算法自动生成聚类，获得稳定的类别数量。对于论文训练使用的数据集KDDCup99来说，可分为四类，因此只需构造四个训练器。训练器基本流程如图2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DBscan算法的伪代码如下： 输入：数据对象集合D，半径Eps，密度阈值MinPts 输出：聚类C DBSCAN（D,Eps,MinPts) begin init $\\scriptstyle \\mathbf { C = } 0$ ；//初始化簇的个数为0 for each unvisited point p in D markpasvisited;//将p标记为已访问 ${ \\bf N } =$ getNeighbours (p, Eps); if sizeOf(N) $\\prec$ MinPts then markp as Noise;//如果满足 sizeOf(N) $\\prec$ MinPts，则将p标记为 噪声 else $C =$ nextcluster;//建立新簇C ExpandCluster (p,N,C,Eps,MinPts); end if end for end ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中关键步骤ExpandCluster的算法伪代码如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ExpandCluster(p,N,C,Eps,MinPts)   \nadd $\\boldsymbol { \\mathsf { p } }$ to clusterC;//首先将核心点加入C   \nfor each point p' in N mark p'as visited; $\\mathbf { N } ^ { \\ast } = { }$ getNeighbours $\\mathbf { \\hat { p } } ^ { \\prime }$ ,Eps);//对N邻域内的所有点进行半径检查 if sizeOf(N') $> =$ MinPts then $\\mathbf { N } = \\mathbf { N } { + } \\mathbf { N } ^ { \\prime }$ ;//如果大于MinPts，就扩展N的数目 end if if p'is not member of any cluster add $\\mathrm { { \\tt p } ^ { \\prime } }$ to cluster C; $/ /$ 将p'加入簇C end if   \nend for   \nend ExpandCluster ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3146dd0e133d140d7711da8b929a10353882a9aac2c0f13799d7fdc0ad422d47.jpg",
+        "img_caption": [
+            "图2训练器基本流程Fig.2Procedure of Trainer",
+            "图3数据预处理流程",
+            "Fig.3The flow chart of data preprocessing "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 实验验证 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1数据预处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "网络入侵检测系统直接收集的原始数据是网络中的二进制数据流，需要进行协议解析与格式转换才能用来分类。首先，使用libpcap 库函数将二进制流解析为IP地址、端口和字符以及十六进制数值等字段。转换后的数据包含离散型字段和连续型字段，离散型字段又分为离散字符型和离散数字型。针对相关字段进行不同形式的预处理，转换为SVM模型可以接受并且噪声与误差少的加工数据。预处理流程包括三个步骤：离散字符型数据处理、数据标准与归一化和数据格式变换。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "开始 离数字型 标准与 数格 结束",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "离散字符型数据处理将字符型数据转化为数值型数据以便于DBSCAN 算法训练时计算距离等运算。数据标与归一化是原始数据的取值范围可能差距过大，导致的“大数吃小数”或者数据处理溢出以及权重不一致等问题。归一化处理消除度量单位对模型训练的影响，使训练结果更依赖于数据本身特征，从而提高聚类模型参数优化与分类预测的准确性。数据格式转换将经过数值化处理和归一化处理的数据进一步转换为LIBSVM支持的格式，以便进行模糊SVM模型的直接输入和训练。LIBSVM格式广泛应用于常用的分类算法，一般采用 {label 1:(value)i 2:(value)2 … i:(value)i·…n:(value)n}格式，其中label是类别标签，序号i是第i个字段的序号，(value)i是第i个字段的数值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "下面采用KDDCup99 数据集进行入侵检测系统的数据预处理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.1字符型数据数值化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "KDDCup99数据集包含42个字段，其中41个是网络数据包特征属性字段，另外一个是该条数据记录的标签。为了避免字符数据不能直接计算距离以及过大过小数据直接应用影响平均值计算和距离计算效果等问题，将数据的字段按照表1的方法进行处理。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/798e655fd668f6256f669e1d4f1f34de40dd47bf7d6d66d30a14d8eef342066f.jpg",
+        "table_caption": [
+            "表1字符类数据数值化处理"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">Table 1 QuantizingofChars</td></tr><tr><td>TCP连接基本 字段类别 特征(9 个)</td><td>TCP连接内容特 标识特征 征(13个)</td><td>连续性数据</td></tr><tr><td>数值化 为整数</td><td>协议类型替换Flag 转换为十进Service 用端口 制值</td><td>保留原数值 号替换</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "例如，对protocol_type字段，其离散数值包括TCP\"UDP\"ICMP等，则'TCP'用11表示,UDP'用12表示,ICMP'用20 表示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.2归一化处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对数值化处理过的数据进一步进行标准化与归一化处理，以同一特征属性为依据将训练集的数据具有同一特征的进行归一化。将带有标签的训练集中某条数据记为 $x _ { i j } , i$ 表示训练集中数据的条数序号， $j$ 表示特征的编号。通过计算特征j的平均值与方差来对数据进行标准化与归一化，计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\overline { { x } } } _ { j } = { \\frac { 1 } { n } } \\sum x _ { i j }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS ^ { 2 } = 1 / n \\sum ( x _ { i } - \\overline { { x } } ) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将数据用同特征的均值与方差来处理为标准数据 $x _ { i j } ^ { \\dot { \\prime } }$ ，",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { x _ { i j } } = \\left\\{ \\begin{array} { c c } { { 0 } } & { { \\overline { { x } } _ { j } = 0 \\Xi \\dot { \\bar { x } } S _ { j } = 0 } } \\\\ { { { \\displaystyle \\frac { x _ { i j } - \\overline { { x } } _ { j } } { S _ { j } } } } } & { { \\qquad \\mathrm { ~ \\# } \\mathrm { } \\mathrm { } \\{ \\mathrm { \\# } \\mathrm { } \\underline { { t } } \\mathrm { \\underline { { t } } } } }  \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "进一步进行归一化处理，数值归一化后的处理结果为",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$x _ { i j } ^ { * }$ ，归一化处理公式如下。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i j } ^ { * } = \\frac { \\dot { x _ { i j } } - x _ { \\operatorname* { m i n } } } { x _ { \\operatorname* { m a x } } - x _ { \\operatorname* { m i n } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.3数据格式转换",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将经过数值化并且归一化的数据集转换为LIBSVM格式，以便进行SVM处理。论文使用的 $\\mathrm { K D D C u p 9 9 }$ 数据集，label分为5种，即NORMAL,DOS,R2L,U2R和PROBING。其中，NORMAL代表正常的、没有攻击性的数据包；DOS代表拒绝服务攻击；R2L代表来自远程主机的未授权访问；U2R代表未授权的本地超级用户特权访问；PROBING代表端口被监视或扫描攻击。为了模型训练和预测分类需要，在数据格式转换时生成两组训练集：第一组将NORMAL数据的Label设置为-1，将其他四种数据的Label设置为0；第二组将NORMAL数据剔除，其余数据保留。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "经过上面的数值化处理、标准化与归一化处理以及数据格式转换就得到了实用数据集。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2实验设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了训练和测试提出的攻击分类算法，搭建数据采集与安全分类实验环境（图4），并通过KDDCUP99数据集驱动模拟攻击软件IDSInformer来产生不同种类的网络攻击数据包，客户端用来产生正常的网络业务数据。为了提高实验效率，通过对KDDCUP99集合均匀采样使用50万条数据的$2 0 \\%$ 来进行训练。也就是说利用正常与攻击行为共10万个训练样本进行模糊 SVM参数优化和DBSCAN 算法的聚类训练。粗细二级分类器训练完成后，对通过搭建的原型实验网络获取的真实业务截包，然后进行预测分类判别。表2是训练集的数据类别分布和搭建的实验网络获取的测试集的类别分布。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了验证论文提出的算法的分类准确率和时间效率，首先仅使用优化训练的DBSCAN分类器与朴素贝叶斯分类器(NB）、支持向量机分类器（SVM）和随机森林分类器（RF)进行分类准确率对比。由图5可知，DBSCAN分类器的准确率最高，可达到 $8 5 \\%$ ，其他分类器的准确率均在 $70 \\%$ 左右。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3d870c49be81d52d17259ccaedb7362c00f2b095f45563955471cf4723697609.jpg",
+        "img_caption": [
+            "图4入侵检测实验环境",
+            "Fig.4Testing Environment of IDS "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在训练时间方面，虽然朴素贝叶斯分类器的训练时间远小于其他三种分类器的训练时间，但是其分类准确率过低，并且对数据噪声过于敏感分类的类型数量不稳定。DBSCAN分类器的训练耗时与随机森林分类器和支持向量机分类器的训练时间相近，具有稳定的分类数量和高分类准确率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于真实网络数据中异常的攻击数据占比很低，噪声明显，直接采用DBSCAN算法的分类效率偏低，而且训练时间过长。因此，进一步实验2中，采用表2所示分布的训练集和测试集，先使用模糊SVM二值分类器作为粗分类器，然后再用DBSCAN分类器对攻击型数据进行细分类，实验结果如表3所示。实验结果表明，模糊SVM-DBSCAN的联合两级分类器的准确率比单独使用一级DBSCAN分类器提高超过 $10 \\%$ ，模型的训练时间只增长了约 $30 \\%$ 。联合应用的粗细二级分类器更适合实际的网络场景进行实际业务数据的及时分类和联动入侵检测的应对措施。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/124df8cacf551dd1d7a141b47d897e90ab04ca5b681dde026125707fceaf096c.jpg",
+        "img_caption": [
+            "图5分类器对比实验",
+            "Fig.5Comparison of classsifiers "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "上述实验使用的是普通配置的电脑，如果将相关算法进行编译优化，并且运行到高配置的专用服务器并多线程执行，预计可以提高训练速度6\\~8倍，因此训练时间会下降到$0 . 2 { \\sim } 0 . 2 5 \\mathrm { ~ s ~ }$ 。进一步，如果将算法迁移到专用加速硬件可以至少提高训练速度一个数量级，也就是训练时间下降到20\\~25ms，该速度完全可以满足IDS系统的工作需要。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8be524df79475352a2ab1e5fbe4b8684b35f20bdc91379ed8c74f20aa1359e7f.jpg",
+        "table_caption": [
+            "Table 2Datasets of training and testing "
+        ],
+        "table_footnote": [
+            "表3分类器效果对比"
+        ],
+        "table_body": "<html><body><table><tr><td>类别</td><td>训练集 测试集</td></tr><tr><td>normal</td><td>20000 30000</td></tr><tr><td>DoS</td><td>4120 6276</td></tr><tr><td>probe</td><td>4000 6462</td></tr><tr><td>r21</td><td>4496 5991</td></tr><tr><td>u2r</td><td>208 1500</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8acdc21a53f396c5507164b6f6aa183cec9b86e62c34cde4b1cdcb454358336e.jpg",
+        "table_caption": [
+            "表2训练集与测试集数据类别",
+            "Table 3Results of classifiers "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>分类器</td><td>分类准确率</td><td>训练时间/s</td></tr><tr><td>模糊 SVM-DBscan 联合</td><td>96%</td><td>1.47</td></tr><tr><td>仅DBscan</td><td>85%</td><td>1.25</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在分析入侵检测与分类模型研究基础上，设计了面向多孤立点噪声数据的粗细联合分类模型，以模糊SVM分类为基础，对粗分为攻击的数据再利用DBSCAN模型进行聚类细分判别。实验结果表明，在训练样本分布不均匀、训练样本较小的情况下，DBSCAN算法比其他多类分类模型的准确率高、训练耗时短。联合模糊SVM与DBSCAN的二级入侵检测算法在保持较快训练速度的前提下实现了高分类准确率，适用于正常型数据和攻击型数据分布不均匀的入侵检测。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]中国互联网络信息中心，第41次《中国互联网络发展状况统计报告》 [EB/OL].[2018-03-15]http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/ hlwtjbg/201803/t20180305_70249.htm.   \n[2]肖敏，韩继军，肖德宝,等．基于聚类的入侵检测研究综述[J].计算 机应用，2008,28(s1):34-38.(Xiao Min,Han Jijun,Xiao Debao,et al.Review of IDS research based on clustering[J]. Journal of Computer Applications,2008,28(s1):34-38)   \n[3]Kotpalliwar M V,Wajgi R.Classification of attacks using support vector machine(SVM）on KDDCUP'99 IDS database [C]//Procof Internatiomal Conference on Communication Systems and Network Technologies.Piscataway,NJ:IEEE Press.2015:1-5.   \n[4]王昊，华继学，范晓诗．基于双联支持向量机的入侵检测技术[J]. 山东大学学报：工学版，2013,43(6):53-56.(Wang Hao,Hua Jixue, Fan Xiaoshi,An Dual-SVM model based IDS scheme[J].Journal of Shandong University:Engineering Edition,2013,43(6):53-56)   \n[5]Liu Jia,Fang Ning,Xie Yongjun,et al. Multi-scale feature-based fuzzy-support vector machine classification using radar range profiles [J].IETRadar SonarNavigation,2015,10(2):370-378.   \n[6] 张玲，白中英，罗守山，等．基于粗糙集和人工免疫的集成入侵检测 模型[J].通信学报,2013,34(9):166-176.(Zhang Ling,Bai Zhongying, Luo Shoushan,et al.Integrated IDS model based on rough set and artificial immunization[J].Journal of Communications,2O13,34(9): 166-176)   \n[7]谢娟英，张兵权，汪万紫．基于双支持向量机的偏二叉树多类分类 算法[J]．南京大学学报：自然科学版，2011,47(4):354-363.(Xie Juanying，Zhang Bingquan，Wang Wanzi，Dual-SVM based partial binarytreeclassificationalgorithm[J].JournalofNanjing University:Natural Science Edition,2011,47(4): 354-363)   \n[8]Wan Shibiao,Mak Manwai,Kung Sunyuan.Adaptive thresholding for multi-label SVM classification with application to protein subcellular localization prediction [C]//Proc of IEEE International Conference on Acoustics.Piscataway,NJ:IEEE Press.2013:3547-3551.   \n[9]Chen Jingnan,Liu Chenlin.Fast multi-class sample reduction for speeding up support vector machines [C]/Proc of IEEE International Workshop on Machine Learning for Signal Processing Piscataway, NJ: IEEE Press,2011: 1-6.   \n[10]Li Shengtun,Chen C C.A regularized monotonic fuzzy support vector machine model for data mining with prior knowledge [J].IEEE Trans on Fuzzy Systems,2015,23(5):1713-1727.   \n[11]王智罡，基于超像素的 SAR 图像海岸线检测算法 [D].大连:大连海 事大学,2O17.(Wang Zhigang.Coastline detection algorithm of SAR image based on superpixel[D].Dalian:Dalian Maritime University, 2017)   \n[12] Zhang Minling,Wu Lei.Lift: multi-label learning with label-specific features[J].IEEE Trans on Pattern Analysis and Machine Intelligence,2015,37(1):107-120. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

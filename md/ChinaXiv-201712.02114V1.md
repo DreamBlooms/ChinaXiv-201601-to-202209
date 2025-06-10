@@ -1,0 +1,93 @@
+# 临床研究
+
+# 3D腹腔镜在复杂性胆囊切除术中的临床应用
+
+曾宁,方驰华,杨 剑,项 楠,祝文,刘 军,陈青山，梁洪玻,黄文杰南方医科大学珠江医院肝胆一科，广东广州 510282
+
+摘要：目的 探讨3D腹腔镜在复杂性胆囊切除术中的临床应用价值。方法 收集我院2014年3月\~2015年3月间复杂性胆囊结石资料,按照所使用的腹腔镜分为2D组和3D组，比较2组患者手术时间、术中出血量、术后并发症、中转开腹机率、术后排气时间及术后住院天数。结果共计纳入89例，其中3D组46例，2D组43例;3D组43例成功完成LC,中转开腹3例，2D组39例成功完成LC，中转开腹4例;3D组和2D组手术时间分别为 $5 0 . 5 { \pm } 1 5 . 2 ~ \mathrm { m L }$ 和 $6 5 . 4 { \pm } 1 8 . 1 \ \mathrm { m i n }$ ,两组比较差异有统计学意义 $( P { < } 0 . 0 5 )$ 53D组和常规组术中失血量分别为 $3 4 . 1 { \pm } 1 3 . 6 ~ \mathrm { m L }$ 和 $4 4 . 5 { \pm } 2 2 . 3 ~ \mathrm { m L }$ ;两组比较差异有统计学意义（ $( P { < } 0 . 0 5 )$ ;两组在中转开腹率、术后排气时间、术后住院天数差异无统计学意义 $( P { > } 0 . 0 5 )$ 。结论3D腹腔镜能提供清晰的三维立体视觉，良好的深度感，可实现精确操作,在复杂性胆囊切除术中有助于缩短手术时间，减少术中出血量，值得在临床手术中推广。
+
+关键词：3D腹腔镜；复杂性胆囊切除；肝胆外科
+
+# Application of three-dimensional laparoscopic cholecystectomy for complicated gallstone disease
+
+ZENG Ning,FANGChiua,YANGJian,XIANGNan,ZHU Wen,LUJun,CHENQingshan,LIANGHongbo,HUANGWenjie FirstDepartmentfepatobiliaryrgery,ujiangHospital,outherndicalersityangzhouin
+
+Abstract: ObjectiveToinvestigatetheclinicalvalueof thre-dimensional (3D)laparoscopiccholecystectomyinthetreatment of complicated galstone disease.MethodsFrom March 2014 to March2015，46patients underwent cholecystectomy for complicated galstone disease under 3D laparoscopy (3D group)and 43 received 2Dlaparoscopic cholecystectomy (2D group). Thesurgicaldata icldingtheoerativetime,intraoperativebloodloss,therateofconversion toopenlaparotomyrovery timeof postoperative bowel motion and hospital stay were compared between the 2 groups.Results Laparoscopic cholecystectomywassucessfullycompleted in 43 patients in 3D groupand in39 patients in 2D group,and therates of conversion to open laparotomy were similar between the two groups $( P { > } 0 . 0 5 )$ . The median operation time was significantly shorter in 3D group than in 2D group $( 5 0 . 5 { \pm } 1 5 . 2 \$ US $6 5 . 4 { \pm } 1 8 . 1 \mathrm { m i r }$ \` $P { < } 0 . 0 5$ ), and the median volume of intraoperative blood loss was significantly smaller in 3D group ( $3 4 . 1 { \pm } 1 3 . 6 \$ Us $4 4 . 5 { \pm } 2 2 . 3 ~ \mathrm { m L }$ ， $P { < } 0 . 0 5$ ). No significant differences were found in the recovery time of postoperative bowel motion and postoperative hospital stays between the two groups $( P { > } 0 . 0 5 )$ . Conclusion 3D laparoscopy, which provides thre-dimensional vision witha good sense ofdepth toalow precisesurgical manipulation,can shorten the operation time and reduce the rate ofconversion to open laparotomy for patients undergoing 3D laparoscopic cholecystectomy for complicated gallstone disease.
+
+Key words: three-dimensional laparoscope; complicated gallstone operation; hepatobiliary surgery
+
+在全球大多数国家，腹腔镜胆囊切除术已成为治疗胆囊良性疾病首选的外科手段[。胆囊结石伴急性发作、伴胆囊萎缩、水肿、三角粘连严重，或胆囊管、胆囊动脉发生变异，这类胆囊结石在临床称之为复杂性胆囊结石[2-3]。复杂性胆囊结石的手术难度大,术中极易造成相关脏器的损伤，是每个肝胆外科医生必须重视的问题[4]。与传统腹腔镜下二维画面比较,3D腹腔镜下诸脏器前后纵深感强，胆囊三角立体显示清楚，我科在国内较早购买了3D腹腔镜设备应用于肝胆外科，取得了良好的社会效益[5-7]。本研究通过比较2组间手术时间、出血量、中转开腹率、通气时间、住院时间的差异，回顾性分析3D腹腔镜与2D腹腔镜对复杂性胆囊切除术的影响，评价3D腹腔镜在复杂性胆囊切除术中的应用价值。经查询，国内外尚未见类似文献报道。
+
+# 1资料和方法
+
+# 1.1研究对象
+
+依据纳人和排除标准，收集2014年3月\~2015年3月我院肝胆外科收治复杂性胆囊患者89例，年龄16\~80岁；其中3D腹腔镜胆囊切除术组(3D组)和2D腹腔镜胆囊切除术组(常规组)。3D组46例(男性28例，女性
+
+18例)，平均年龄 $5 9 { \pm } 1 1$ 岁；常规组43例(男性28例，女性15例)，平均年龄 $5 7 { \pm } 1 2$ 岁。本研究通过我院伦理委员会审批，患者及家属签署知情同意书。
+
+本研究的纳入标准：急性结石性胆囊炎(疼痛时间 $< 7 2 \mathrm { ~ h ~ . B ~ }$ 超、CT提示胆囊结石伴胆囊壁增厚，胆囊壁“双边"征，胆囊肿大，墨菲征阳性，血常规提示白细胞$7 . 1 { \sim } 2 1 . 5 { \times } 1 0 ^ { 9 }$ );萎缩性胆囊炎(B超提示：胆囊壁增厚$> 3 ~ \mathrm { m m }$ ；胆囊直径 $< 5 \mathrm { c m }$ ;胆囊收缩功能下降);胆囊管或胆囊颈部结石（上腹部CT提示胆囊管处结石或胆囊颈部结石嵌顿);术前上腹部手术史;慢性胆囊炎反复发作（右上腹部疼痛两年内超过3次，上腹部B超提示胆囊壁增厚 $> 3 ~ \mathrm { m m } \dot { }$ );存在胆囊三角管道变异者。排除标准：
+
+(1)单纯胆囊结石、胆囊息肉；(2)术前心肺评估不能耐 受手术患者;
+
+# 1.2 术前评估资料
+
+1.2.1两组术前检查主要包括急性结石性胆囊炎、慢性胆囊炎急性发作者术前予禁食水、抗感染治疗，术前查血常规、肝功生化、凝血功能、心肺功能、上腹部增强CT检查。
+
+1.2.2腹腔镜设备3D组采用德国KARLSTORZ公司的3D高清腹腔镜系统,2D组采用日本Olympus的2D高清腹腔镜系统。3D组手术操作时佩戴3D眼镜，手术器械均使用传统腹腔镜器
+
+# 1.3方法
+
+两组均采用"TOO"法4(三管一孔一脏器)显露患者的胆囊三角的解剖，两组均采用"三孔法”胆囊切除术,气腹阈值 $1 3 { \sim } 1 5 \ \mathrm { m m H g }$ 。3D组医生及器械护士佩戴无源偏振眼镜，立体观察腹腔诸脏器。两组均采用胆囊后三角入路，尽量辨清"三管一孔一脏器"关系后离断胆囊管及胆囊动脉，可预防胆管损伤的发生。但复杂性胆囊切除术中，由于胆囊及周围组织炎症水肿、粘连严重，常难以暴露肝总管及胆总管，要明确辨认“三管"关系难以实现。首先在胆囊壶腹部两侧电钩点开浆膜，紧贴胆囊壶腹分离后三角，前后三角交替顺逆行结合，直至完全掏空整个胆囊后三角。临床实践中我们体会胆囊后三角解剖标志清楚而恒定，解剖空间大，且远离肝外胆管，不易损伤血管和肝外胆管。胆囊三角解剖结构难以辨认清楚时，可采用逆行切除法。对于胆囊三角根本无法游离，呈冰冻状，强行分离只会增加胆管损伤的机会，果断中转开腹是明智选择，在开腹手术下采用胆囊部分切除、顺逆相结合、取出结石，缝合胆囊管是降低医源性胆管损伤的有效策略
+
+# 1.4观察指标
+
+手术时间、术中失血量、中转开腹率、手术并发症、术后排气时间、术后住院时间。
+
+# 1.5统计学分析
+
+用SPSS20.0统计学软件进行分析，符合正态分布的计量资料行两独立样本t检验，不符合正态分布的计量资料行Mann-WhitneyU检验,计数资料采用x检验,其中理论频数<5时采用Fisher精确概率检验法，以 $P <$ 0.05为差异有统计学意义。
+
+# 2结果
+
+急性结石性胆囊炎36例、萎缩性胆囊炎8例、胆囊管结石18例、术前上腹部手术使9例、慢性胆囊炎反复发作12例、存在胆囊三角血管变异者6例(双胆囊动脉4例；右肝动脉发出高位胆囊动脉1例；胆囊管后下方的胆囊动脉1例)。3D组43例成功完成LC，中转开腹3例，2D组39例成功完成LC，中转开腹4例，3D组中转开腹几率少于2D组，但不具有统计学意义 $( P { > } 0 . 0 5 )$ ；其中胆囊管与十二指肠形成内瘘1例，Mirizzi综合征ⅡI型1例及慢性胆囊炎反复发作造成胆囊三角致密粘连,呈“冰冻状”，腹腔镜下无法分离。3D组出血量、手术时间均明显少于2D组( $_ { ( P < 0 . 0 5 ) }$ 。两组在术后排气时间、术后住院天数差异无统计学意义（表1 $, P { > } 0 . 0 5 )$ 。4例放置腹腔引流，术后48\~72h拔除引流管。术后穿刺孔感染3例,换药后愈合;无胆管损伤、出血、胆漏、胃肠道损伤、腹腔脓肿等并发症。
+
+表1两组观测指标比较 Tab.1 Comparison of surgical data between the two groups (Mean±SD, $n { = } 8 9 _ { . }$ 0   
+
+<html><body><table><tr><td rowspan="2">Index</td><td colspan="2">Group</td><td rowspan="2">P</td></tr><tr><td>3D (n=46)</td><td>2D (n=43)</td></tr><tr><td>Operation duration (h)</td><td>50.5±15.2</td><td>65.4±18.1</td><td>0.001</td></tr><tr><td>Blood loss during operation (mL)</td><td>34.1±13.6</td><td>44.5±22.3</td><td>0.009</td></tr><tr><td>Postoperative exhaust time (h)</td><td>44.7±12.8</td><td>45.8±13.4</td><td>0.696</td></tr><tr><td>Postoperative hospital stays (d)</td><td>5.1±2.1</td><td>5.3±1.2</td><td>0.518</td></tr><tr><td>Laparotomy conversion (case)</td><td>3 (6%)</td><td>4 (9%)</td><td>0.708</td></tr></table></body></html>
+
+2D组39例成功完成LC，中转开腹4例，其中2例急性胆囊炎胆囊三角解剖不清，术中误伤胆囊动脉后支，导致腹腔镜下止血困难而中转开腹;1例急性结石性胆囊炎，导致胆囊三角粘连致密，解剖不清；1例胆囊管与十二指肠形成内瘘，无法腹腔镜下分离解剖。6例放置腹腔引流，1例术后2d发生胆漏，引流量少，采取保守治疗后治愈，术后 $4 8 { \sim } 1 2 4 \ \mathrm { h }$ 拔除引流管。穿刺孔感染2例，换药后愈合。
+
+减少手术创伤，缩短手术时间；本组2D手术组中，2例急性结石性胆囊炎胆囊三角解剖不清楚，术中误损伤胆囊动脉后支，导致腹腔镜下止血困难而中转开腹。本研究中3D组中转开腹几率低于2D组，由于本组病例数较少，无统计学意义，尚需在今后的研究中进一步增加病例数。
+
+综上所述，3D腹腔镜在复杂性胆囊切除术有助于缩短手术时间、减少手术创伤，值得在临床手术中推广。
+
+# 3讨论
+
+自1989年首例腹腔镜胆囊切除术开展以来，LC已成为治疗有症状的胆囊良性病变的金标准[8。考虑到胆囊切除术是常规手术，如术中造成患者胆管损伤，将会给患者带来灾难性后果，故其严重性特别值得重视。其是复杂性胆囊切除，手术难度大，潜在危险性高。如何减少患者创伤，缩短手术时间，提高手术的安全性和有效性，一直是肝胆外科医生所追求的目标。目前，我国大部分医院使用的是2D腹腔镜系统，与自然直视下视觉比较，2D腹腔镜手术操作中二维图像系统有 $3 5 \%$ ，$100 \%$ 的损失，没有深度感，安全性较差。
+
+早在20世纪90年代，3D技术就被应用于临床。多项研究表明，3D腹腔镜系统可以明显提高手术效率，对于腹腔镜初学者表现更为明显[9-10]。Smith等[用2D及3D腹腔镜系统对比试验，完成相同操作的时间，在3D腹腔镜系统下能加快 $3 5 . 8 \%$ ,错误能减少 $6 2 \%$ ，并认为3D腹腔镜系统能显著提高初学者的腹腔镜手术学习能力[12]。
+
+在国内，3D腹腔镜在泌尿外科较先使用。李汉忠等[13应用3D技术成功完成62例泌尿外科腹腔镜手术，认为3D技术可降低手术难度，手术解剖更精确,缝合操作相对容易，手术时间缩短。陈海金等4应用40例3D腹腔镜在腹腔镜胃癌根治手术，认为3D高清腹腔镜能缩短手术时间；并且，在3D高清视野下能更快地提高外科医生的手术操作能力和手术技巧，明显缩短学习曲线。孟柠等15应用3D腹腔镜系统在胆囊切除手术中，认为可以缩短手术时间，避免了意外损伤，减少手术出血量，有益于患者的术后恢复，也能减轻医师的手术压力和疲劳度。这与本组研究结果相近。
+
+通过本组研究病例得出3D腹腔镜组手术时间、出血量较2D腹腔镜组明显减少 $( P { < } 0 . 0 5 )$ ，考虑到3D腹腔镜下还原了患者体内真实的三维解剖结构，纵深感的存在，特是在复杂性胆囊切除术中，胆囊三角解剖不清，经常遇到各种管道的变异，对要求者术中动作操作更为精准，3D腹腔镜具有这些特点，从而能很好避免副损伤，
+
+# 参考文献：
+
+[1]Keus F,Gooszen HG,van Laarhoven CJ. Open,small-incision,or laparoscopic cholecystectomy for patients with symptomatic cholecystolithiasis.An overview of Cochrane Hepato-Biliary Group reviews[J]. Cochrane Database Syst Rev,2010,20(1): CD008318.   
+[2]蒋能孟,胡邓迪.腹腔镜胆囊切除术中的困难类型分析及手术技巧探 讨[J].浙江创伤外科,2013,18(5):642-3.   
+[3］张效东,周宁新,陈军周,等.达芬奇机器人手术系统行复杂胆囊切除 术三例[J].中华消化外科杂志,2010,9(5):388.   
+[4]方驰华,朱明德.重视腹腔镜胆囊切除术胆管损伤[J].中国微创外科 杂志,2006,22(10): 727-9.   
+[4]Qj W,Hagen M, Kurmann A,et al. Three-dimensional vision enhances task performance independendy of the sursicat method[J]. Surg Endose,2012,26(10): 2961-8.   
+[6]Kong SH,Oh BM,Yoon H,et al.Comparison of two-and threedimensional camera systems in laparoscopic performance:a novel 3D system with one camera[J].Surg Endosc,2010,24(5):1132-43.   
+[7］范应方，项 楠.3D腹腔镜胆囊切除术治疗胆囊结石1例并文献复习 [J].南方医科大学学报,2013,33(12):1856-7.   
+[8]Haribhakti SP,Mistry JH. Techniques of laparoscopic cholecystectomy: Nomenclature and selection[J].J Minim Access Surg, 2015,11(2): 113-8.   
+[9] Storz P, Buess GF,Kunert W,et al.3D HD versus 2D HD: surgical task efficiency in standardised phantom tasks [J].Surg Endosc, 2012,26(5): 1454-60.   
+[10]Jaetschek G, Marberger M. Laparoscopic surgery in urology[J]. Curt Opin Urol,2000,10(4): 351-7.   
+[11]Smith R,Day A,Rockall T, et al. Advanced stereoscopic projection technologysignificantlyimprovesnoviceperformanceof minimally invasive surgical skills [J]. Surg Endosc,2O12,26(6): 1522-7.   
+[12]Kunert W, Storz P, Kirschniak A. For 3D laparoscopy: a step toward advanced surgical navigation: how to get maximum benefit from 3D vision[J]. Surg Endosc,2013,27(2): 696-9.   
+[13]李汉忠,张玉石,张学斌,等.3D腹腔镜系统在泌尿外科手术中的应用 [J].中华泌尿外科杂志,2013,34(5):325-8.   
+[14]陈海金,俞金龙,黄宗海,等.3D高清腹腔镜在腹腔镜胃癌根治术中的 应用[J].南方医科大学学报,2014(4):588-90.   
+[15]孟 柠,梁 霄,毛芝英,等.3D高清腹腔镜系统在胆囊切除手术中的应 用体会[J].中华消化内镜杂志,2014,31(4):216-7.
+
+（编辑：孙昌朋）

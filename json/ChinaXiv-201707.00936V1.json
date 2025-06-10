@@ -1,0 +1,302 @@
+[
+    {
+        "type": "text",
+        "text": "Multi-dimensional potential energy surfaces and non-axial octupole correlations in actinide and transfermium nuclei from relativistic mean field models ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bing-Nan Lu $^ { 1 }$ ， Jie Zhao $^ { 1 }$ , En-Guang Zhao $^ { 1 , 2 }$ ， Shan-Gui Zhou $^ { 1 , 2 }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$^ { 1 }$ State Key Laboratory of Theoretical Physics, Institute of Theoretical Physics, Chinese Academy of Sciences,Beijing 100190, China   \n（204号 $^ 2$ Center of Theoretical Nuclear Physics, National Laboratory of Heavy Ion Accelerator, Lanzhou 730000,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "E-mail: sgzhou@itp.ac.cn (Shan-Gui Zhou) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract.We have developed multi-dimensional constrained covariant density functional theories (MDC-CDFT) for finite nuclei in which the shape degrees of freedom $\\beta _ { \\lambda \\mu }$ with even $\\mu$ ， e.g., $\\beta _ { 2 0 }$ ， $\\beta _ { 2 2 }$ ， $\\beta _ { 3 0 }$ ， $\\beta _ { 3 2 }$ ， $\\beta _ { 4 0 }$ ,etc.,can be described simultaneously. The functional can be one of the following four forms: the meson exchange or point-coupling nucleon interactions combined with the non-linear or density-dependent couplings.For the pp channel,either the BCS approach or the Bogoliubov transformation is implemented. The MDC-CDFTs with the BCS approach for the pairing (in the following labelled as MDC-RMF models with RMF standing for“relativistic mean field\"） have been applied to investigate multi-dimensional potential energy surfaces and the non-axial octupole $Y _ { 3 2 }$ -correlations in $N = 1 5 0$ isotones.In this contribution we present briefly the formalism of MDC-RMF models and some results from these models.The potential energy surfaces with and without triaxial deformations are compared and it is found that the triaxiality plays an important role upon the second fision barriers of actinide nuclei. In the study of $Y _ { 3 2 }$ -correlations in $N = 1 5 0$ isotones,it is found that,for $^ { 2 4 8 } \\mathrm { C f }$ and $^ { 2 5 0 }$ Fm, $\\beta _ { 3 2 } > 0 . 0 3$ and the energy is lowered by the $\\beta _ { 3 2 }$ distortion by more than $3 0 0 \\ \\mathrm { k e V }$ ； while for $^ { 2 4 6 } \\mathrm { C m }$ and $^ { 2 5 2 }$ No, the pocket with respect to $\\beta _ { 3 2 }$ is quite shallow. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The shape of a nucleus can be described by the parametrization of the nuclear surface or the nucleon density distribution [1,2]. One of the mostly used parametrizations is the multipole expansion with coefficients $\\beta _ { \\lambda \\mu }$ 's； see Fig. 1 [3] for a schematic show of some typical nuclear shapes. Many shape degrees of freedom are important not only for the ground states or small amplitude collective motions,but also for large amplitude collective motions such as fission. The readers are referred to Ref.[4l for an overview. Here we simply mention that both the non-axial and the reflection symmetries should be broken in the study of nuclear ground state properties and potential energy surfaces. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We have developed multi-dimensional constrained covariant density functional theories (MDC-CDFT） by breaking the reflection and the axial symmetries simultaneously [3-7]. In these theories, the nuclear shape is assumed to be invariant under the reversion of $x$ and $y$ axes, i.e., the intrinsic symmetry group is $V _ { 4 }$ and all shape degrees of freedom $\\beta _ { \\lambda \\mu }$ with even $\\mu$ ,e.g.， $\\beta _ { 2 0 }$ ， $\\beta _ { 2 2 }$ ， $\\beta _ { 3 0 }$ ， $\\beta _ { 3 2 }$ ， $\\beta _ { 4 0 }$ ， $\\cdot \\cdot \\cdot$ ，are included self-consistently. The covariant density functional can be one of the following four forms: the meson exchange or point-coupling nucleon interactions combined with the non-linear or density-dependent couplings. For the pp channel, either the BCS approach or the Bogoliubov transformation is implemented. The MDC-CDFT with the BCS approach for the pairing is named as MDC-RMF and that with the Bogoliubov transformation as MDC-RHB [4]. In this contribution,we will present the formalism for MDC-RMF models and some results of actinide nuclei. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/74b1ef1d9f90b0c9e3f2924420ef4b52330b70adbdf88f7ce385ba8ec7181749.jpg",
+        "img_caption": [
+            "Figure 1. (Color online) A schematic show of some typical nuclear shapes. From left to right, the lst row: (a) Sphere, (b) Prolate spheroid,(c) Oblate spheroid, (d) Hexadecapole shape, and the second row: (e) Triaxial elipsoid, (f) Reflection symmetric octupole shape,(g) Tetrahedron, (h) Reflection asymmetric octupole shape with very large quadrupole deformation and large hexadecapole deformation. Taken from Ref. [3]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In Section 2, we give the formalism of MDC-RMF models briefly. The results for actinide nuclei are shown and discussed in Section 3.A summary is given in Section 4. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Formalism of MDC-RMF models ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this section, we briefly give the formalism of MDC-RMF models. More details can be found in Ref.[4]. The starting point of a RMF model with the non-linear point coupling interactions is the following Lagrangian [8-16], ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { L } = \\bar { \\psi } \\left( i \\gamma _ { \\mu } \\partial ^ { \\mu } - M _ { B } \\right) \\psi - \\mathcal { L } _ { \\mathrm { l i n } } - \\mathcal { L } _ { \\mathrm { n l } } - \\mathcal { L } _ { \\mathrm { d e r } } - \\mathcal { L } _ { \\mathrm { c o u } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { \\mathcal { L } _ { \\mathrm { l i n } } } } & { { = } } & { { \\displaystyle \\frac { 1 } { 2 } \\alpha _ { S } \\rho _ { S } ^ { 2 } + \\frac { 1 } { 2 } \\alpha _ { V } j _ { V } ^ { 2 } + \\frac { 1 } { 2 } \\alpha _ { T S } \\vec { \\rho } _ { T S } ^ { 2 } + \\frac { 1 } { 2 } \\alpha _ { T V } \\vec { j } _ { T V } ^ { 2 } , } } \\\\ { { } } & { { } } & { { } } \\\\ { { \\mathcal { L } _ { \\mathrm { n l } } } } & { { = } } & { { \\displaystyle \\frac { 1 } { 3 } \\beta _ { S } \\rho _ { S } ^ { 3 } + \\frac { 1 } { 4 } \\gamma _ { S } \\rho _ { S } ^ { 4 } + \\frac { 1 } { 4 } \\gamma _ { V } \\left[ j _ { V } ^ { 2 } \\right] ^ { 2 } , } } \\\\ { { } } & { { } } & { { } } \\\\ { { \\mathcal { L } _ { \\mathrm { d e r } } } } & { { = } } & { { \\displaystyle \\frac { 1 } { 2 } \\delta _ { S } \\left[ \\partial _ { \\nu } \\rho _ { S } \\right] ^ { 2 } + \\frac { 1 } { 2 } \\delta _ { V } \\left[ \\partial _ { \\nu } j _ { V } ^ { \\mu } \\right] ^ { 2 } + \\frac { 1 } { 2 } \\delta _ { T S } \\left[ \\partial _ { \\nu } \\vec { \\rho } _ { T S } \\right] ^ { 2 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l l l } { { } } & { { } } & { { \\displaystyle + \\frac { 1 } { 2 } \\delta _ { T V } \\left[ \\partial _ { \\nu } \\vec { j } _ { T V } \\right] ^ { 2 } , } } \\\\ { { \\mathcal { L } _ { \\mathrm { c o u } } } } & { { = } } & { { \\displaystyle \\frac { 1 } { 4 } F ^ { \\mu \\nu } F _ { \\mu \\nu } + e \\frac { 1 - \\tau _ { 3 } } { 2 } A _ { \\mu } j _ { V } ^ { \\mu } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "are the linear, non-linear,and derivative couplings and the Coulomb part, respectively. $M _ { B }$ is the nucleon mass, $\\alpha _ { S }$ ， $\\alpha _ { V }$ ， $\\alpha _ { T S }$ ， $\\alpha _ { T V }$ ， $\\beta _ { S }$ ， $\\gamma _ { S }$ ， $\\gamma _ { V }$ ， $\\delta _ { S }$ ， $\\delta _ { V }$ ， $\\delta _ { T S }$ ,and $\\delta _ { T V }$ are coupling constants for different channels and $e$ is the electric charge. $\\rho _ { S } , { \\vec { \\rho } } _ { T S } , { \\dot { \\jmath } } _ { V }$ ,and $\\vec { j } _ { T V }$ are the iso-scalar density, iso-vector density, iso-scalar current,and iso-vector current,respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Starting from the above Lagrangian and under several approximations, one can derive the Dirac equation for the nucleons, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { h } \\psi _ { i } = \\left\\{ \\alpha \\cdot { \\bf p } + \\beta [ M _ { B } + S ( { \\bf r } ) ] + V ( { \\bf r } ) \\right\\} \\psi _ { i } = \\epsilon _ { i } \\psi _ { i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where the potentials $V ( \\mathbf { r } )$ and $S ( \\mathbf { r } )$ are calculated from the densities. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "An axially deformed harmonic oscillator (ADHO） basis is adopted for solving the Dirac equation [3-7,17-19]. Note that a RMF model with reflection asymmetry has been developed in a two-center HO basis [20]. The ADHO basis are defined as the eigen solutions of the Schrodinger equation with an ADHO potential, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ - \\frac { \\hbar ^ { 2 } } { 2 M _ { B } } \\nabla ^ { 2 } + \\frac { 1 } { 2 } M _ { B } ( \\omega _ { \\rho } ^ { 2 } \\rho ^ { 2 } + \\omega _ { z } ^ { 2 } z ^ { 2 } ) \\right] \\Phi _ { \\alpha } ( \\mathbf { r } \\sigma ) = E _ { \\alpha } \\Phi _ { \\alpha } ( \\mathbf { r } \\sigma ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\omega _ { z }$ and $\\omega _ { \\rho }$ are the oscillator frequencies along and perpendicular to the $z$ axis, respectively. These basis are also eigen functions of the $z$ component of the angular momentum $j _ { z }$ with eigen values $K = m _ { l } + m _ { s }$ .For any basis state $\\Phi _ { \\alpha } ( \\mathbf { r } \\sigma )$ ，the time reversal state is defined as $\\Phi _ { \\bar { \\alpha } } ( \\mathbf { r } \\sigma ) \\mathbf { \\Psi } = \\mathbf { \\nabla } \\mathcal { T } \\Phi _ { \\alpha } ( \\mathbf { r } \\sigma )$ ，where $\\tau = i \\sigma _ { y } K$ is the time reversal operator and $K$ is the complex conjugation. Apparently we have $K _ { \\bar { \\alpha } } = - K _ { \\alpha }$ and $\\pi _ { \\bar { \\alpha } } = \\pi _ { \\alpha }$ with $\\pi = \\pm 1$ being the parity. These basis form a complete set for expanding any two-component spinors. For a Dirac spinor with four components, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\psi _ { i } ( \\mathbf { r } \\sigma ) = \\left( \\begin{array} { l } { \\sum _ { \\alpha } f _ { i } ^ { \\alpha } \\Phi _ { \\alpha } ( \\mathbf { r } \\sigma ) } \\\\ { \\sum _ { \\alpha } g _ { i } ^ { \\alpha } \\Phi _ { \\alpha } ( \\mathbf { r } \\sigma ) } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where the sum runs over all the possible combination of the quantum numbers $\\alpha \\ =$ $\\{ n _ { z } , n _ { r } , m _ { l } , m _ { s } \\}$ and $f _ { i } ^ { \\alpha }$ and $g _ { i } ^ { \\alpha }$ are the expansion coefficients. In practical calculations,one should truncate the basis in an effective way. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In our model the nucleus is assumed to be symmetric under the $V _ { 4 }$ group,that is,for all the potentials and densities we can do the Fourier series expansion, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( \\rho , \\varphi , z ) = f _ { 0 } ( \\rho , z ) \\frac { 1 } { \\sqrt { 2 \\pi } } + \\sum _ { n = 1 } ^ { \\infty } f _ { n } ( \\rho , z ) \\frac { 1 } { \\sqrt { \\pi } } \\cos ( 2 n \\varphi ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $f _ { 0 } ( \\rho , z )$ and $f _ { n } ( \\rho , z )$ are real functions of $\\rho$ and $z$ . The formalism for calculating the Fourier components of the potentials and densities can be found in Ref. [4]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Either the BCS approach or the Bogoliubov transformation has been implemented in our model to take into account the pairing effcts. For the pairing force, we can use a delta force or a separable finite-range pairing force [21-23]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To obtain a potential energy surface,i.e., the energy of a nucleus as a function of deformation parameters, we make multi-dimensional constraint calculations which are equivalent to adding external potentials during the iteration. A modified linear constraint method was included in our MDC-RMF calculations [3-7]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4cfa3315505bec1303ccb590dcdedf5e209dc14d39d1906324a5d98ce5cf8530.jpg",
+        "img_caption": [
+            "Figure 2. (Color online) Potential energy curve of $^ { 2 4 0 }$ Pu with various self-consistent symmetries imposed. The solid black curve represents the calculated fission path with $V _ { 4 }$ symmetry imposed, the red dashed curve that with the axial symmetry (AS) imposed,the green dotted curve that with the reflection symmetry (RS) imposed,the violet dot-dashed line that with both symmetries (AS & RS) imposed. The empirical inner (outer） barrier height is taken from Ref. [24] and denoted by the grey square (circle). The energy is normalized with respect to the binding energy of the ground state. The parameter set used is PC-PK1. Taken from Ref. [5]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The total energy of a nucleus is obtained by substituting the densities into the expectation value of the Hamiltonian. The center of mass correction $E _ { \\mathrm { c . m } }$ . can be calculated either phenomenologically or microscopically，, depending on the effective interactions. The intrinsic multipole moments are calculated from the vector densities by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { \\lambda \\mu } = \\int d ^ { 3 } \\mathbf { r } \\rho _ { V } ( \\mathbf { r } ) r ^ { \\lambda } Y _ { \\lambda \\mu } ( \\Omega ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $Y _ { \\lambda \\mu } ( \\Omega )$ is the spherical harmonics. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussions ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In Ref. [5]，one- (1-d)，two- (2-d)，and three-dimensional (3-d) constraint calculations were made for the actinide nucleus $^ { 2 4 0 }$ Pu using the MDC-RMF models with the parameter set PCPK1 [25,26]. In Fig. 2 we show the 1-d potential energy curve from an oblate shape with $\\beta _ { 2 0 }$ （20 about $- 0 . 2$ to the fission configuration with $\\beta _ { 2 0 }$ beyond 2.0 which are obtained from calculations with different self-consistent symmetries imposed: The axial (AS) or triaxial (TS） symmetries combined with reflection symmetric (RS) or asymmetric cases. The importance of the triaxial deformation on the inner barrier [27,28] and that of the octupole deformation on the outer barrier are clearly seen: The triaxial deformation reduces the inner barrier height by more than 2 MeV and results in a better agreement with the empirical value [24]; the RA shape is favored beyond the fission isomer and lowers very much the outer fission barrier. Besides these features, it was found for the frst time that the outer barrier is also considerably lowered by about 1 MeV when the triaxial deformation is allowed. In addition,a better reproduction of the empirical barrier height can be seen for the outer barrier. It has been stressed that this feature can only be found when the axial and reflection symmetries are simultaneously broken [5]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6de849dbcb0b1b92deb851ca7a93d015c3b39bedd8181e2167330db1c716bac1.jpg",
+        "img_caption": [
+            "Figure 3. (Color online) Potential energy curves of $^ { 2 3 4 } \\mathrm { U }$ in the second barrier region calculated from MDC-RMF models with the NL3\\* [29,30], NL-Z2 [31], PC-PK1 [25,26], DD-ME2 [32], and DD-PC1 [33] parameter set, respectively. The reflection asymmetric shapes are allowed. The axial and non-axial symmetric results are denoted by black and red curves, respectively. Taken from Ref. [3]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In Ref.[5],it was also examined the parameter dependence of the influence of triaxiality on the second fission barrier and the lowering effect of the triaxiality on the second fission barrier was also observed when parameter sets other than PC-PK1 are used. In Fig. 3 we show the comparison of the potential energy curves of $^ { 2 3 4 }$ U in the second barrier region calculated from the MDC-RMF models with different parameter sets and Lagrangian forms, including mesonexchange ones NL3 $^ *$ [29,30], NL-Z2 [31], DD-ME2 [32], and point-coupling ones PC-PK1 [25,26] and DD-PC1 [33]. The results with and without triaxiality are both presented. From the figure we can see that,although the absolute values of the barriers differ a lot among these results, for allfive parameter sets the second barriers are lowered by the triaxiality. The largest effect is around 1 MeV for NL-Z2 and the smallest one is around 300 keV for DD-PC1. Thus we conclude that the lowering efects of the triaxiality on the second barriers are parameter independent in the RMF models. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The self-consistent three-dimensional constraint calculations are very time-consuming. From the benchmark calculations for $^ { 2 4 0 }$ Pu, we learned many experiences about the important roles played by various shape degrees of freedom in diffrent regions of the deformation space. For example,around the frst fission barrier an actinide nucleus assumes triaxial and reflection symmetric shapes but around the second fission barrier both triaxial and octupole deformations are important [4]. These experiences are used in a systematic study of even-even actinide nuclei and the results were presented in Ref. [4]. Here in Fig. 4 we show the 1-d potential energy curves for even-even actinide nuclei from the fission isomer with $\\beta _ { 2 0 } = 1 . 0$ to the fission configuration with $\\beta _ { 2 0 } = 1 . 7$ calculated from the MDC-RMF model with the parameter set PC",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/abe29d3c3f00d13b9c0a94f77a1c7e534e488236e3b2f5326e273adb20dc3db0.jpg",
+        "img_caption": [
+            "Figure 4.(Color online) Potential energy curves of even-even actinides nuclei in the second barrier regions calculated from the MDC-RMF model with the PC-PK1 parameter set [25,26]. The reflection asymmetric shapes are allowed. The axial and non-axial symmetric results are denoted by solid and dotted curves,respectively. The binding energies are normalized with respect to the ground states. The empirical values are taken from Ref. [24] and denoted by full circles. Taken from Ref. [3]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "PK1 [25,26]. For comparison we present the results with and without the non-axial deformations. The reflection asymmetric shapes are allowed in both calculations. It was known that most of the outer barriers of the actinide nuclei are reflection asymmetric,which is consistent with the observed low-energy asymmetric fision fragments in this region. However, to estimate the fission barrier heights with an even higher accuracy, it is desirable to include also the effects of the non-axial deformations. From these potential energy curves it is clear that the non-axial deformations lower the outer barriers by around O.5 to 1 MeV compared with the axial symmetric results. The empirical values of the fission barriers are also presented in the figure as full circles. Apparently,by including the triaxiality,the agreement between the theory and the experiment is improved. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In Ref. [6] the non-axial reflection-asymmetric $\\beta _ { 3 2 }$ shape in some transfermium nuclei with （20 $N = 1 5 0$ ，namely $^ { 2 4 6 }$ Cm, $^ { 2 4 8 }$ Cf, $2 5 0$ Fm,and $2 5 2$ No were investigated using the MDC-RMF model. In Fig. 5, we show potential energy curves for these $N = 1 5 0$ isotones. For $^ { 2 4 6 }$ Cm, the ground state deformation $\\beta _ { 3 2 } = 0 . 0 2 0$ . The potential energy curve is rather flat around the minimum. We denote the energy difference between the ground state and the point with （204 $\\beta _ { 3 2 } = 0$ by $E _ { \\mathrm { d e p t h } }$ which measures the energy gain with respect to the $\\beta _ { 3 2 }$ distortion. For $^ { 2 4 6 }$ Cm, $E _ { \\mathrm { d e p t h } }$ is only 34 keV. For $^ { 2 4 8 }$ Cf, $2 5 0$ Fm, and $2 5 2$ No, the minima locate at $\\beta _ { 3 2 } = 0 . 0 3 7$ ,0.034, and 0.025, respectively. The corresponding energy gain $E _ { \\mathrm { d e p t h } } = 0 . 3 5 1$ , 0.328,and 0.104 MeV. As is discussed in Ref. [6], the occurrence of the non-axial octupole $\\beta _ { 3 2 }$ correlations is mainly from a pair of neutron orbitals [734]9/2 $( \\nu j _ { 1 5 / 2 } )$ and [622]5/2 $( \\nu g _ { 9 / 2 } )$ which are close to the neutron Fermi surface and a pair of proton orbitals [521]3/2 $( \\pi f _ { 7 / 2 } )$ and [633]7/2 $( \\pi i _ { 1 3 / 2 } )$ which are close to the proton Fermi surface. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/17408a01935d9c58544e6085c3b6c357fed41f59e5d78cc9af531092f4c58354.jpg",
+        "img_caption": [
+            "Figure 5.(Color online） The binding energy $E$ (relative to the ground state） for $N = 1 5 0$ isotones $^ { 2 4 6 } \\mathrm { C m }$ (dashed line), $^ { 2 4 8 }$ Cf (solid line), $2 5 0$ Fm (long-dashed line)，and $2 5 2$ No (dotted line) as a function of the non-axial octupole deformation parameter $\\beta _ { 3 2 }$ . Taken from Ref. [6]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "It may be hard to conclude that these nuclei have static non-axial octupole deformations from these results because the potential energy curve is flat around the minimum and $E _ { \\mathrm { d e p t h } }$ is small [6]. However, the present calculations at least indicate a strong $Y _ { 3 2 }$ -correlation in these nuclei. Both the non-axial octupole parameter $\\beta _ { 3 2 }$ and the energy gain $E _ { \\mathrm { d e p t h } }$ reach maximal values at $^ { 2 4 8 }$ Cf in the four nuclei along the $N = 1 5 0$ isotonic chain. This is consistent with the analysis given in Refs. [34,35] and the experimental observation that in $^ { 2 4 8 }$ Cf, the $2 ^ { - }$ state is the lowest among these nuclei [36]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4. Summary ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In this contribution we present the formalism and some applications of the multi-dimensional constrained relativistic mean field (MDC-RMF） models in which all shape degrees of freedom （20 $\\beta _ { \\lambda \\mu }$ deformations with even $\\mu$ are allowed. The potential energy surfaces (curves) of $2 4 0$ Pu and actinide nuclei with various symmetries are investigated. It is found that besides the octupole deformation, the triaxiality also plays an important role upon the second fission barriers. For most of even-even actinide nuclei, the triaxiality lowers the outer barrier by $0 . 5 \\sim 1$ MeV, accounting for about $1 0 \\sim 2 0 \\%$ of the barrier height. The non-axial reflection-asymmetric $\\beta _ { 3 2 }$ （204 shape in some transfermium nuclei with $N = 1 5 0$ , namely $^ { 2 4 6 }$ Cm, $\\mathrm { ^ { 2 4 8 } C f }$ ， ${ } ^ { 2 5 0 } \\mathrm { F m }$ ，and $2 5 2$ No are studied and rather strong non-axial octupole $Y _ { 3 2 }$ effects have been found in $^ { 2 4 8 }$ Cf and $^ { 2 5 0 } \\mathrm { F m }$ which are both well deformed with large axial-quadrupole deformations, $\\beta _ { 2 0 } \\approx 0 . 3$ .We note that it is crucial to include the reflection asymmetric and non-axial shapes simultaneously for the study of potential energy surfaces and fisson barriers of actinide nuclei and of nuclei in unknown mass regions such as superheavy nuclei. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This work has been supported by Major State Basic Research Development Program of China (Grant No. 2013CB834400)， National Natural Science Foundation of China (Grant Nos. 11121403,11175252,11120101005,11211120152,and 11275248),Knowledge Innovation Project of Chinese Academy of Sciences (Grant Nos. KJCX2- EW-NO1 and KJCX2-YW-N32). The results described in this paper are obtained on the ScGrid of Supercomputing Center, Computer Network Information Center of Chinese Academy of Sciences. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] Bohr A and Mottelson BR 1998 Nuclear Structure Vol I (World Scientific) [2] Ring P and Schuck P1980 The Nuclear Many-Body Problem (Springer-Verlag Berlin, Heidelberg,and New York)   \n[3] Lu B N 2012 Multi-dimensional constrained relativistic mean field theory and the potential energy surfaces and fission barriers of actinide nuclei Ph.D.thesis,Institute of Theoretical Physics,Chinese Academy of Sciences (in Chinese) [4] Lu B N, Zhao J, Zhao E G and Zhou S G 2013(Preprint 1304.2513) [5] Lu B N, Zhao E G and Zhou S G 2012 Phys.Rev. C 85 011301(R)-5 (Preprint 1110.6769) 6] Zhao J,Lu B N, Zhao E G and Zhou S G 2012 Phys. Rev. C 86 057304-4 (Preprint 1209.6567)   \n[7] Lu B N, Zhao J, Zhao EG and Zhou S G 2012 EPJ Web of Conferences 38 O5003,Proceedings of the Int. Conf. on Nuclear Structure and Related Topics (NSRT12),Dubna,Russia, 2-7 July 2012 (Preprint 1303.0621) [8] Serot B D and Walecka JD 1986 Adv. Nucl.Phys.16 1-327 [9] Reinhard PG 1989 Rep.Prog.Phys.52 439-514   \n[10] RingP1996 Prog.Part.Nucl. Phys.37 193-263   \n[11] Vretenar D,Afanasjev A,Lalazissis G and Ring P 2005 Phys.Rep. 409 101-259   \n[12] Meng J, Toki H, Zhou S G,Zhang SQ,Long W Hand Geng L S 2006 Prog. Part. Nucl.Phys.57 470-563 (Preprint nucl-th/0508020)   \n[13] Paar N,Vretenar D and Colo G 2007 Rep.Prog. Phys.7O 691-793   \n[14] Niksic T, Vretenar D and Ring P 2011 Prog. Part.Nucl. Phys. 66 519-548   \n[15] Prassa V,Niksic T,Lalazissis G A and Vretenar D 2012 Phys.Rev. C 86 024317-12   \n[16] Meng J, Peng J,Zhang S Q and Zhao P W 2013 Frontiers of Physics 8 55-79   \n[17] Lu B N, Zhao E G and Zhou S G 2011 Phys. Rev. C 84 014328-10 (Preprint 1104.4638)   \n[18] Gambhir YK,Ring P and Thimet A199O Ann.Phys.198 132-179   \n[19] Ring P,Gambhir Y K and Lalazissis G A 1997 Comput. Phys. Commun. 105 77-97   \n[20] GengL S,Meng Jand TokiH 2007 Chin. Phys.Lett.241865-1868   \n[21] Tian Y,Ma Z and Ring P 2009 Phys.Lett.B 676 44-50   \n[22] Tian Y,Ma Z and Ring P 2009 Phys.Rev.C 80 024313-7   \n[23] Niksic T,Ring P,Vretenar D,Tian Y and Ma Z 201O Phys.Rev. C81 054318-12   \n[24] Capote R, Herman M, Oblozinsky P,Young P, Goriely S, Belgya T,Ignatyuk A,Koning A,Hilaire S,Plujko V, Avrigeanu M, Bersilon O,Chadwick M, Fukahori T,Ge Z,Han Y, Kailas S, Kopecky J, Maslov V, Reffo G,Sin M,Soukhovitskii E and Talou P 2009 Nucl.Data Sheets 110 3107-3214   \n[25] Zhao P W,Li ZP, Yao JM and Meng J2010 Phys.Rev. C 82 054319-14   \n[26] Zhao P W, Song L S,Sun B,Geissel H and Meng J 2012 Phys.Rev. C 86 064324-6   \n[27] Abusara H,Afanasjev A V and Ring P 2010 Phys. Rev. C 82 044303-11   \n[28] Afanasjev A V 2013 Proceedings of Fifth International Conference on Fision and Properties of Neutron-rich Nuclei,November 4-10, 2012,Sanibel Island,USA(Preprint 1303.1206)   \n[29] Lalazisss G A, Konig Jand Ring P 1997 Phys. Rev. C 55 540-543   \n[30] Lalaziss GA, Karatzikos S,Fossion R,Arteaga D P,Afanasjev A Vand Ring P 2009 Phys. Lett. B 671 36-41   \n[31] Bender M,Rutz K,Reinhard PG,Maruhn JA and GreinerW 1999 Phys.Rev.C 60 034304-20   \n[32] Lalazissis G A,Niksic T,Vretenar D and Ring P 2005 Phys.Reu. C 71 024312-10   \n[33] Niksic T,Vretenar D and RingP 2008 Phys.Rev.C 78 034318-19   \n[34] Chen Y S, Sun Y and Gao Z C 2008 Phys. Rev. C 77 061305(R)-5   \n[35] Jolos R V,Malov L A,Shirikova N Yand Sushkov A V2011 J.Phys. G: Nucl. Part.Phys.38 115103   \n[36] Robinson A P, Khoo T L, Ahmad I, Tandel S K,Kondev F G, Nakatsukasa T, Seweryniak D,Asai M, Back B B, Carpenter M P, Chowdhury P, Davids C N, Eeckhaudt S, Greene JP, Greenlees P T, Gros S,Heinz A, Herzberg R D, Janssens R V F, Jones G D, Lauritsen T, Lister C J, Peterson D, Qian J, Tandel U S, Wang X and Zhu S 2008 Phys. Rev. C 78 034308-6 ",
+        "page_idx": 7
+    }
+]

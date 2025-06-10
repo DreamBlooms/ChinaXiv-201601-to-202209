@@ -1,0 +1,602 @@
+[
+    {
+        "type": "text",
+        "text": "REVIEW ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Quantitative proteomics using SILAC: Principles, applications,and developments ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xiulan Chen1, Shasha Wei', Yanlong $J i ^ { 1 , 2 } .$ , Xiaojing Guo1 and Fuquan Yang ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Key Laboratory of Protein and Peptide Pharmaceuticals and Laboratory of Proteomics,Institute of Biophysics,   \nChinese Academy of Sciences, Beijing,P. R. China   \n2 University of Chinese Academy of Sciences, Beijing, P. R. China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received:March17,2015   \nRevised: April 24,2015   \nAccepted:June 8,2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SILAC is based on direct addition of selected stable isotope amino acids into the cell culture medium,allowing superior quantitative analysis of the cellular proteome compared to other labeling methods.The great advantages of SILAC lie in its straight-forward implementation, quantitative accuracy,and reproducibility over chemical labeling or label-free quantification strategies,favoring its adoption for proteomic research. SILAC has been widely applied to characterize the proteomic changes between different biological samples,to investigate dynamic changes of protein PTMs,to distinguish specific interacting proteins in interaction proteomic analysis,and to analyze protein turnover in the proteome-wide scale.The present review summarizes the principles of SILAC technology,its applications in biological research,and the present state of this technology. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MS / Quantitative proteomics / SILAC /Super-SILAC /Technology ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MS-based quantitative proteomics has become a powerful tool in biological research.Since MS is inherently nonquantitative,proteolytic peptides have different mass spectrometric responses due to their various physicochemical properties suchas size,charge,hydrophobicity.Thus,it is infeasible to quantify the relative abundance changes between different experimental samples in the same MS analysis.To solve this problem,the stable isotopes are introduced into the pro teins or peptides,allowing relative quantification of these molecules from different samples in the same MS analysis which will reduce the variability from sample injection and ion suppression by MS instruments in different MS runs. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Based on whether using stable isotope or the method employed for incorporating stable isotopes,MS-based quantitative proteomic methods are subdivided into three classes, namelychemical/enzymatic labeling,metabolic labeling,and label-free.Chemical/enzymatic labeling methods introduce the mass tags to the proteins or peptides,including ICAT [1],iTRAQ[2,3],TMT [4],dimethyl labeling [5,6],and $^ { 1 8 } \\mathrm { O }$ labeling [7],while metabolic labeling methods utilize biological incorporation of stable isotope labels into proteins in living cells, including SILAC [8] and $^ { 1 5 } \\mathrm { N }$ labeling [9]. In comparison,label-free methods conduct comparison without any labeling on the proteins or peptides,but by measuring ion intensity changes in chromatography or counting the number offragment spectra identifying peptides of a given protein (spectrum counting)[10,11].Allofthese MS-based quantification methods have their particular strengths and weaknesses (Table 1),therefore,quantitative method should be chosen according to types of sample and aim of experiments. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SILAC,which was first used in 2002 [8],is a metabolic labeling strategy employed in quantitative proteomics.Here, stable isotope-labeled amino acids are added to the growth medium of living cells,enabling the relative comparison of the cellular proteome of different states.Because only specific amino-acid residues are labeled with stable isotopes and used for quantification,this method has great advantages in quantitative applications over other metabolic labeling approaches such as $^ { 1 5 } \\mathrm { N }$ labeling,which replaces all nitrogen atoms of the proteome.Here,quantification is based on the numbers of nitrogen atoms in the proteins,which greatly complicates data analysis. ",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/ae9c7e5630e138ee2291604505ad4538499f666b8472711d9dbd2b35a66a0507.jpg",
+        "table_caption": [
+            "Table 1. Characteristics and applications of MS-based quantitative methods "
+        ],
+        "table_footnote": [
+            "n.a.,not applicable; $+ ,$ good; $+ + .$ very good; $^ { + + + }$ ,excellent. "
+        ],
+        "table_body": "<html><body><table><tr><td>Quantification methods</td><td>Way to introduce label</td><td>Labeling level</td><td>Sample type</td><td>Number of conditions to be compared</td><td>Quantification accuracy</td><td>Quantitative proteome coverage</td><td>Linear dynamic range</td></tr><tr><td colspan=\"8\">Metabolic labeling</td></tr><tr><td>SILAC</td><td>ex vivo, in vivo</td><td>Protein</td><td>Cells,expand to tissues or model organisms</td><td>Up to 5</td><td>+++</td><td>++</td><td>1-2 log</td></tr><tr><td>15N</td><td>ex vivo,in vivo</td><td>Protein</td><td>Cells</td><td>2</td><td>+++</td><td>++</td><td>1-2 log</td></tr><tr><td colspan=\"8\">Chemical labeling</td></tr><tr><td>ICAT</td><td>in vitro</td><td>Protein</td><td>Applicable to any sample (cells,animal,or</td><td></td><td>++</td><td>++</td><td>2 log</td></tr><tr><td>iTRAQ</td><td>in vitro</td><td></td><td>human tissue samples)</td><td>up to 4or 8</td><td></td><td></td><td></td></tr><tr><td>TMT</td><td>in vitro</td><td>Peptide Peptide</td><td></td><td>up to6or 10 ++</td><td>++</td><td>++ ++</td><td>2 log 2 log</td></tr><tr><td>Dimethyl</td><td>in vitro</td><td>Peptide</td><td></td><td>2-3</td><td>++</td><td>++</td><td>2 log</td></tr><tr><td colspan=\"8\">labeling Enzymatic lebeling</td></tr><tr><td>180 labeling</td><td>in vitro</td><td>Peptide</td><td>Applicable to any sample</td><td>2</td><td>++</td><td>++</td><td>1-2 log</td></tr><tr><td colspan=\"8\">Label free</td></tr><tr><td>lon intensity</td><td>n.a.</td><td>n.a.</td><td>Applicable to any sample</td><td>No limit</td><td>+</td><td>+++</td><td>2-3 log</td></tr><tr><td>Spectrum counting</td><td>n.a.</td><td>n.a.</td><td>(cells, tissue samples)</td><td>No limit</td><td>+</td><td>+++</td><td>2-3 log</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SILAC is reported to be the most accurate quantitative MS method [11,12]. The basis of this is that differentially treated samples can be combined at thelevel of intact cells orprotein,namelyat the very first step of the experimental workflow,and can be processed together to minimize experimental error or bias.However,a study shown that iTRAQ outperforms the method of SILAC in the number of protein identifications and analysis time [13].A recent comparison of SILAC and dimethyl labeling shows that the two methods have comparable accuracy and quantitative dynamic range, but SILAC outweights dimethyl labeling in reproducibility [14].From this pointof view,SILAC is particularly suitable for studies with extensive sample processing,such as subcellular fractionation,affinity purification of protein complex or enrichment of peptides with PTMs [14,15]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "One of the few disadvantages of SILAC is the limited number of cellular states that can be compared, because of the limited labeling combinations available when using heavy labeled amino acids.However,the combination of several SILAC experiments with the same experimental state has allowed for investigation of nine-point dynamic signaling pathways [16]. More detailed information for this approach is provided in the section“Use of SILAC for multiplexed comparison.”The advantage of chemical labeling over SILAC is that it can be used to analyze a wide range of samples,includ ing cells,tissues,and body fluids.However, the development of spike-in SILAC [17] and super-SILAC [18] extends the application of SILAC to tissues and body fluids as well. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Atpresent,SILAC is accepted as the best method available for quantitative proteomics in terms of easy implemen tation,quantitative reliability,and robustness [19,2O]. This review providesan overview of the SILAC technology,includ ingits principle,development,and application in biological research. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Principles of SILAC ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1Description of the SILAC method ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The principle of SILAC is based on metabolically incorporating stable isotope labeled amino acids,such as $^ { 1 3 } \\mathrm { C }$ or $^ { 1 5 } \\mathrm { N }$ -labeled arginine or lysine,into the entire proteome during protein metabolism,specifically during the process of cell culturing.In SILAC,two populations of cells are grown in two different culture media,with the\"light\"medium containing amino acid(s) with the natural isotope,and the\"heavy\"medium containing stable isotope labeled amino acid(s).After a sufficient number of cell divisions,at least five cycles in mammalian cells [21], theoretically all the pro teins from the cells cultured in heavy medium contain amino acids in the heavy state.However, the number of cell divisions required for complete labeling depends on the rate of protein synthesis,degradation,and turnover, therefore the labeling efficiency should be carefully tested prior to quantification.After complete labeling (at least $5 9 5 \\%$ labeling efficiency),the cell populations are experimentally manipulated and then equal amounts of labeled and unlabeled cells or protein extracts are mixed.The samples are then digested into peptides.Finally,the digested peptides are analyzed with LC-MS/MS.The quantification of SILAC is based on testing the ratio of introduced isotope-labeled peptides to unlabeled peptides. Thus,the signal intensities from light and heavy samples allow for quantitative comparison of their relative abundances in the mixture. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Choice of SILAC amino acids ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ideally, the SILAC amino acids should be amino acids essential for the survival of culture cells,which ensures the only source of the particular amino acid is from the culture medium.Leucine [8,22],lysine [23],and methionine [24] are essential amino acids that have been used in SILAC. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Though arginine is not an essential amino acid,it has been shown to be essential for many cultured cell lines [25] and has been used successfully in SILAC labeling [26-28], despite the occurrence of metabolic conversion of arginine to proline.Tyrosine is another nonessential amino acid that has been used in SILAC.Heavy-labeled tyrosine was used to identify the substrates of tyrosine kinase [29] and to investigate the dynamics of tyrosine phosphorylation of proteins [30]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the earlier SILAC studies,deuterium $( ^ { 2 } \\mathrm { H } )$ -labeled leucine [8,22] was selected as the labeled amino acid.However,a chromatographic shift during the reverse phase chromatography for the deuterium-labeled peptides compro mised the accuracy of quantification [31-33]. Later, $^ { 1 3 } \\mathrm { C }$ or $^ { 1 5 } \\mathrm { N }$ labeled amino acids were used, because these SILAC peptide pairs coelute duringLC-MS/MS analysis.Now,more and more researchers use a combination of $^ { 1 3 } \\mathrm { C }$ and $^ { 1 5 } \\mathrm { N }$ -labeled arginine and lysine as labeled amino acids,since trypsin,the commonly used proteolytic enzyme in proteomics workflow, specifically cleaves at the carboxyl-termini of lysine and argi nine residues [34]. Therefore,the combinations of trypsin digestion and SILAC labeling with lysine and arginine allows for quantitation of all tryptic peptides of a protein (except for the protein C terminus),ultimately resulting in improved coverage of overall proteomic quantification. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3Metabolic conversion of arginine and proline in cell lines ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Though arginine is commonly used in SILAC,metabolic conversion of arginine to proline via the arginase pathway has been observed in a number of cell types,such as Hela [26], HEK293T[35],and embryonic stem cells [36]. Such conversion has an impact on the accuracy of overall quantitation as mentioned above.The arginine-to-proline conversion usually occurs when heavy arginine is provided in the cell culture medium in excess,which complicates the quantitation of proline-containing peptides. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Different approaches have been developed to prevent or correct arginine-to-proline conversion.Awidelyused solution isto empirically determine the optimal arginine concentration to minimize its conversion to proline [37].However, the reverse metabolic conversion of proline to arginine can also occur in low-arginine medium [37].An alternative method to prevent the arginine-proline conversion is to supplement SILAC medium with unlabeled proline [35,36].Another described method is to replace $^ { 1 2 } \\mathrm { C } ^ { 1 4 } \\mathrm { N }$ arginine with $^ { 1 2 } \\mathrm { C } ^ { 1 5 } \\mathrm { N }$ arginine in the“light”medium,which allows the amount of converted proline to be normalized by quantifying the monoisotopic peak in the mass spectra [38]. Furthermore, several bioinformatics approaches have been developed to correct the SILAC ratios of proline-containing peptides [39,40] ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4Use of SILAC for multiplexed comparison ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Most SILAC experiments compare two different cellular states.With three isotopically distinct forms of arginine and lysine available,however,comparison of three cell populations in a single experiment is now possible with the 3-plex SILAC [27,41].With the combination of different isotopic forms of arginine and lysine,SILAC can be used to compare up to five different cellular states ina single experiment (Table 2).5-plex SILAC experiments can be performed with five isotopically distinct forms of arginine [42].However,only the arginine-containing peptides are quantifiable,which underestimates the quantification efficiency of proteome.Now, 5-plex SILAC experiments can be carried out by combining two 3-plex SILAC experiments with the same experimental state [28,43,44] (Fig.1). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5 SILAC workflow ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The SILAC workflow comprises two principle phases,i.e.an adaptation phase and an experimental phase (Fig.2). SILAC use dialyzed serum to grow the cells to avoid free amino acids that are present in the serum,however, some cell lines may not grow well in dialyzed media because of the loss of lowmolecular-weight growth factors [45]. Supplemented with a small percentage of normal serum or purified growth factors in the growth media will potentially solve the problem [45,46] Thus,cell lines should be tested before a SILAC-labeling experiment in the adaptation phase.During the adaptation phase,cells are grown in the unlabeled and labeled media until the heavy amino acids are fully incorporated into the cellular proteins.When the cells have been cultured for the duration of atleast five cell divisions,asmall fraction of the heavy cell population is harvested,lysed and proteins are digested into peptides.The degree of incorporated SILAC amino acids is then evaluated by LC-MS/MS.The AUC of the MS peaks for the heavy and remaining light peptide pairs is used to evaluate the degree of labeling (Fig. 2A).To overcome the problem of incomplete incorporation of isotopic amino acids,several approaches have been developed either by dataset normalization with bioinformatic tools [47] or by SILAC label-swap replication experiment [48,49]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ece697d0a2ce87735f18f0e863c8807b6e7f344b3f694da3920dc7eaef0405be.jpg",
+        "table_caption": [
+            "Table 2. Recommended amino acids for SILAC experiments "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Sample 1</td><td></td><td>Sample 2</td><td>Sample 3</td><td>Sample 4</td><td>Sample 5</td></tr><tr><td>2 Plex</td><td>12C/14N light amino acids (KO/RO)</td><td>13C6,15N2-lysine+ 13C6,15N4- arginine</td><td></td><td></td><td></td></tr><tr><td>3 Plex</td><td>12c/14N light amino acids (KO/RO)</td><td>(K8/R10) D4-lysine/13C6- arginine (K4/R6)</td><td>13C6,15N2-lysine+ 13C6，15N4- arginine (K8/R10)</td><td></td><td></td></tr><tr><td>4 Plex</td><td>12C/14N light amino acids (KO/RO)</td><td>D4-lysine/13C6- arginine (K4/R6)</td><td>13C6,15N2-lysine+ 13C6,15N4- arginine (K8/R10)</td><td>13C6,15N2,Dg-lysine+ 13C6,15N4 D7-arginine (K17/R17)</td><td></td></tr><tr><td></td><td>12C6,14N4-arginine (RO)</td><td>15 N4-Arginine (R4)</td><td>13 C6-Arginine (R6)</td><td>13C6,15N4-arginine (R10)</td><td>13C6,15N4, D7-arginine (R17)</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "During the experimental phase (Fig.2B),and after the full incorporation of heavy amino acids has been confirmed, the two cell populations are subjected to different treatments according to the aim of the study,and then combined equally prior to subsequent optional subcellular organelle purification,cell lysis,protein extraction,and protein digestion.Then samples are analyzed withLC-MS/MS to identifyandquantify the ratios of heavy peptides to light peptides.Most laboratories use the Orbitrap-based mass spectrometers such as linear ion-trap Orbitrap (LTQ-OrbitrapVelos)[50] or quadrupole Or bitrap (Q-Exactive) [51,52] to perform the SILAC MSanalysis. The advantages of these instruments are their high resolving power,high mass accuracy,high dynamic range,and high sequencing speed. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "After obtaining high-quality MS data,the identification and quantification of peptides/proteins is accomplished via database search software,such as the commercial software Proteome discovery or freely available software tools such as MaxQuant [53,54], Census [40], Trans-proteomic pipeline (TPP)[55],and pQuant [56].MaxQuant is a computational proteomic platform that provides a complete data analysis workflow from raw MS fles to output tables,which contain detailed information about identified proteins (peptides)and relative changes in abundance [54].MaxQuant is by far the most popular software for the analysis of SILAC data,as it was first developed for such analysis.Inaddition to SILAC data,now label-free quantification and most standard labeling techniques such as iTRAQ,TMT,and dimethyl labeling are supported in MaxQuant.Besides MaxQuant,other quantitative software tools also have specificity and features (Table 3),for example,Census [39,57] and pQuant [56] can handle the data generated from $^ { 1 5 } \\mathrm { N }$ labeling,which is not included in MaxQuant analysis.TPP can support not only the CID (collision-induced dissociation) type of MS/MS data but also the ETD (electron transfer dissociation) type of MS/MS data [55].pQuant improves quantification by minimizing the in terference of coeluting ions of similar $m / z$ values [56]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Finally,annotation databases such as GO [58], KEGG [59], STRING [60],or bioinformatic tools such as GoMiner [61], cytoscape [62],DAVID [63] are applied to transfer the proteomic protein list into meaningful results and biological insights [64]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Applications of SlLAC ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1Expression proteomics ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The most popular application of SILAC is to characterize global changes in protein expression between different biological samples,so called expression proteomics [65,66]. The SILAC technique has been successfully applied to compare protein expression changes during cell differentiation,such ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b1ba3e2190d7fe30f044fb2b1ebe3fefa408cd121b44f8a35e6c4b0b285d39d.jpg",
+        "img_caption": [
+            "Figure 1.5-plex SILAC profiling with two 3-plex SILAC experiments.5-plex SILAC experiments can be carried out by combining two 3-plex SILAC experiments of one identical experimental state. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/682f764206523a575e1bd923697e331ca8a569bf2ece614d3ef5c8fbf7bee20a.jpg",
+        "img_caption": [
+            "A Adaptation phase "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Bexperimental phase ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e158a1e15a02652fa824c192f9d61f87822f920bddf48ae1c69ebcd5a5f33a8b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure2.Workflow for quantitative proteomic experiments using SILAC.The SILAC experiment consists of two phases:an adaptation phase (A) and an experimental phase (B). (A)During the adaptation phase,cells are grown in light and heavy SILAC media for several cell divisions until full incorporation of the heavy amino acids in the growing cells.The degree of SlLAC amino acids incorporation can be evaluated by MS analysis.Depending on the study design,a triple strategy using light,medium,and heavy labeling can be used.(B) During the experimental phase,after the full incorporation of SlLAC amino acids was confirmed,the cells populations are experimentally manipulated.Subsequently, the cells populations or protein lysates are mixed depending on the study. For sub-proteome analysis,cells populations are combined for organelle prefractionation;and for expression proteomics,interaction proteomics or PTMomics,the extracted protein lysates are mixed.After digestion of the SILAClabeled proteins into peptides,peptides are then analyzed with LC-MS/MS.The identification and quantification of peptides is accomplished with quantitation software such as MaxQuant.In case of investigating protein-protein interaction,protein complexes are immuno-precipitated from the mixture of SILAC-labeled cell lysates.For PTMomics analysis,SILAC labeling peptides are subject to a fractionation and an enrichment step to improve identification of PTM-peptides.Figure 2B courtesy of Prof.G.Giamas [217],adapted with slight modifications. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/ae832797a17ba35c37a943b112599c8d5a10798704da55652ad87b8ce4228636.jpg",
+        "table_caption": [
+            "Table 3.Features of different quantitative proteomics software tools "
+        ],
+        "table_footnote": [
+            "ETD,electrontransferdissociation;CI,collsion-induceddissociation;HCD,igherenergycollsionaldssociation "
+        ],
+        "table_body": "<html><body><table><tr><td>Software</td><td>Types</td><td>Supported quantitative data types</td><td>Features</td><td>References</td></tr><tr><td>Proteome discovery</td><td>Commercial software from Thermo Fisher</td><td>SILAC, iTRAQ, TMT, dimethyl labeling, label-free</td><td>Integrates all different steps in quantitative proteomics experiment into a single automated workflow. It supports multiple database search algorithms (SEQUEST,Z-Core,</td><td>Proteome discoverer user guide</td></tr><tr><td>MaxQuant</td><td>Freely available</td><td>SILAC, iTRAQ, TMT, dimethyl labeling,</td><td>analyses. The most popular software for the analysis of SILAC data</td><td>[53,54]</td></tr><tr><td>Census</td><td>Freely available</td><td>label-free SILAC, iTRAQ, label-free, TMT,18O labeling,15N</td><td>Support low-resolution MS data</td><td>[39,57]</td></tr><tr><td>TPP</td><td>Freely</td><td>labeling SILAC, iTRAQ, ICAT</td><td>Support both CID and ETD type of</td><td>[55]</td></tr><tr><td>pQuant</td><td>available Freely</td><td>SILAC,15N labeling</td><td>MS/MS data Minimizing the interference of</td><td>[56]</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "as muscle cell differentiation [8,46] and adipocyte differentiation[35],or after application of differentbiological treatments [67-69],to gain novel insights into the role of differential pro teins in specific biological processes. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The greatest advantage of SILAC over other chemical labeling methods is that metabolically labeled cell populations can be combined early before the subsequent subproteome fractionation or enrichment of PTM-modified peptides,thus it is suitable for comparing protein expression in the subcellular organelles or particular cell compartments. One of the interesting applications of SILAC is the study of the secretome[7O],which is the sum of all proteins released into the extracellular environment by a specific cell or cell type [71] Secreted proteins,including cytokines,interleukins,growth factors,hormones,and others,all function as key messengers to coordinate body homeostasis [7O].Cancer cells also secrete proteins or protein fragments into body fluids suchas blood or urine,and these peptides can be used as biomarkers [72]. SILAC was previously applied for comparisons of secreted proteins in different cancer cells,such as gastric epithelial cells [73], pancreatic cancer cells [74],esophageal squamous cell carcinoma cells [75],malignant glioblastoma cell lines [76],and colorectal cancer cells with different metastatic capacity [77].Though these studies provided a list of secreted proteins,they did not include any information about their secretion rates,differential secretion between cancers cells and other normal cancer cell types,a fact that limits the use of these secreted proteins in clinical diagnostics. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Other interesting targets are membrane proteins,as they are prime candidates for potential biomarkers,especially in cancer diagnostics,but also as drug targets.In one study, ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "SILAC was combined with a membrane purification tech nique to find differentially expressed membrane proteins between normal and malignant breast cancer cells [78].In other studies,this combination was applied to compare proteins of cancer cells with different metastatic capabilities [79-81]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "SILAC was also applied to identify differentially expressed proteins in organelles,such as nucleus [82,83],nucleolus [28,84]or $\\beta$ -cellinsulin secretory granules [85].Our laboratory focuses on the study of mitochondrial function,an essential organelle that plays important roles in cell life and death [86]. Previously,our lab investigated the changes of mitochondrial protein expression in pancreatic $\\mathrm { I N S } { \\cdot } 1 \\beta$ cells in response to chronic hyperglycemia stimulation,and presented insightful new details on the effect of glucotoxicity on $\\beta$ -cell mitochondria [87].Recently,we used SILAC to compare the expression of mitochondrial protein in the ovarian cancer cell line OVCAR8 and its doxorubicin-resistant cell line NCI/ADR_RES, and found that122 mitochondrial proteins displayed signifi cant changes in the NCI/ADR_RES cells.A subsequent functional study using RNA interference (RNAi) technology verified that the mitochondrial protein TOP1MT is involved in doxorubicin resistance in NCI/ADR_RES cells.Besides mitochondrial protein expression,mitochondrial morphology, localization,and function were also found to be changed in NCI/ADR_RES cells relative to OVCAR8.Together, these data indicate that mitochondria present a potential therapeutic target to overcome doxorubicin resistance in ovarian cancer cells [88]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "SILAC was also applied to identify the genuine components in cellular compartment that cannot be isolated in their pure form,such as lipid rafts [22].After two populations of cells were SILAC-labeled, the heavy amino acid-labeled population was kept untreated,while the light amino acidlabeled population was treated with cholesterol-disrupting drugs to break up lipid rafts.Subsequently,the untreated and treated cells were combined and the low-density detergentresistant fraction was isolated.The genuine components in the lipid raft exhibited specific quantitative changes,while the ratios of the nonspecific proteins showed little change between the two samples. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In conclusion,the combination of SILAC with different purification techniques has provided valuable information about the role of“subproteomes\"in the cell. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2Dynamic changes of protein PTMs ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "PTMs are known to play crucial roles in the regulation of protein function.PTMs can directly affect protein structure, localization,activity,and interactions with other proteins [89] Many PTMs act as regulatory switches for various signaling pathways.Therefore,characterization of these modifications and their dynamic changes can provide valuable information for deciphering the mechanism of a specific signal transduction pathway. The tremendous progress of MS technology in the past decade made it possible to finally profile PTMs at a whole-proteome scale. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Protein phosphorylation,one of the most widespread and important protein PTMs in the cells,playsa key role in almost all aspects of cellular activity/function,such as signal transduction,differentiation,proliferation,and metabolism [90]. It is estimated that approximately one-thirds of all proteins in eukaryotic cells are phosphorylated at any given time [91,92]. Traditionally, $^ { 3 2 } \\mathrm { P }$ -labeling was coupled to 1D- and 2D-gels or Western blotting with phosphosite-specific antibodies to quantify the relative changes in protein phosphorylation,however,this method was not suitable for the identification of novel phosphoproteins.Moreover, this method cannot identify the precise localization of a phosphorylation site.However,this information is very important for cell studies,because different phosphosites in the same protein could be differentially regulated in different signaling pathways.In addition to the detection of phosphorylation sites,quantitative studies of the dynamic changes of phosphorylation events are also important for understanding cell signaling pathways.In this regard,it is critically important to quantify the relative abundance of signaling molecules and their phosphorylation sites.SILAC coupled with MS allows for accurate，global, and site-specific quantitation of protein phosphorylation in the whole proteome [41,43,93].Recent development of proteomic technologies,including phosphopeptide enrichment techniques,high-accuracy MS technology,and the associated bioinformatics tools enable quantification of $> 3 0 \\ 0 0 0$ phosphorylation sites in a single-cell type [16]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For large-scale phosphoproteomic analysis,enrichment of phosphopeptides is indispensable becauseof thelowabundance and low ionization efficiency of phosphopeptides.Be cause of this fact, the signal intensities of phosphopeptides are easily suppressed by the abundant,nonphosphorylated peptide ions [94]. Several techniques have been developed and optimized for enrichment of phosphoproteins [95] and phosphopeptides [96]. The most popular techniques to-date are affinity chromatography-based phosphopeptide enrichment technologies suchas IMAC[97,98]and titanium dioxide $\\left( \\mathrm { T i O } _ { 2 } \\right)$ [99,100]. Combined with peptide fractionation techniques such as SCX [43,101] or hydrophilic interaction liquid chromatography[102,103], these phosphopeptide enrichmentmethodsallowfor the identificationof several thousand serine/threonine phosphorylation sites.For instance,Gruhlerand coworkers used SILAC and IMAC for phosphopeptide enrichment to quantifyphosphorylation changes of proteins in G-protein-coupled receptor signaling pathways in response to pheromone signals in yeast [1o4]. Similar strategies have been successfully used in other proteomic studies [1o5,106]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Thanks to its high affnity and selectivity,enrichment of phosphopeptides with $\\mathrm { T i O } _ { 2 }$ has been widely used for investigating dynamic signaling pathways.More recently, Humphrey and coworkers used this technique to analyze dynamic changes in protein phosphorylation in adipocytes, following exposure to insulin and identified 37 248 phos phorylation sites,making it the largest phosphoproteome reported for a single cell type to date [16]. This strategy has also been used efficiently to study the dynamics of the EGF signaling pathway [27,43,44] as well as DNA damage re sponse [1o7],to elucidate cellular events underlying the human embryonic stem cell differentiation [93],to compare the phosphorylation levels upon EGF stimulation and EGF combined with different kinase inhibitors [1o8],to investigate the phosphoproteome changes following knockdown of a specific phosphatase by RNA interference in the Drosophila cells [109]or by overexpression of a dominant mutant PIK3CA in breast epithelial cells [110]. Together, these global and dynamic phosphoproteome analyses have opened new perspec tives in studying complex biological signaling networks. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "However,the low occurrence of tyrosine phosphorylation compared to serine/threonine phosphorylation makes it difficult to be identified.Immunoprecipitation withahigh-affinity anti-phosphotyrosine antibody helps to improve the coverage of tyrosine phosphorylation sites [27,111-113]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In addition,significant progress has been made in the global and dynamic analysis of other PTMs,including acetylation [114-116],glycosylation [117-119],ubiquitination [120-122],methylation [24,123,124],and palmitoylation[125]. Several studies even investigated the cross-talk of several PTMs at the global level [126-129],suggesting an interplay among PTMs in the regulation of cell activities [130]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3Interaction proteomics (interactomics) ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Most proteins in cells do not function alone,but perform particular cellular activities through interacting with other specific proteins,or through forming protein complexes. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Protein-protein interactions (PPIs) play key regulatory roles in various physiological processes,such as signal transduc tion,cell growth and proliferation，DNA replication,transcription and translation,and metabolism [131].Therefore, identification of PPIs ata global level will provide important insights into the regulation of cellular processes.In the past,genetic methods such as the yeast two-hybrid (Y2H) were used for comprehensive investigation of PPIs.However, such techniques suffer from high rates of false-positive and false-negative signals,mainly because the assay is performed under nonphysiological conditions [132].Witha considerable progress of MS technology,as well as the development of tag ging methods such as tandemaffinity purification[133],it has recently been possible to reveal a proteome-wide PPI network in yeast [134,135]. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Though affinity purification coupled with MS has become one of the most effective approaches to study PPIs [136] the selectivity,and specificity of the method is compromised by the nonspecific binding of proteins to the antibodies or carrier beads [137,138].However,in combination with quan titative proteomic strategy such as ICAT[139,140] or SILAC [141],specifically interacting proteins can be efficiently distinguished from nonspecific background proteins.The abundance of specific interaction partners purified from the bait sample is significantly higher than the one from the control sample,resulting in quantified ratios much higher than1.In contrast, the abundance of nonspecific background proteins should be comparable from both the bait and the control sample,resulting in their ratios being close to 1 (Fig. 3). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To investigate the exogenous PPIs,the bait protein is expressed in the cells following transient transfection with an expression vector, the protein complexes are then pulldowned with tag-specific antibody.To discriminate the specific interactors,a SILAC-based method called I-DIRT (iso topic differentiation of interactions as random or targeted) was used (Fig.3A). In I-DIRT technique[142],cells containing affinity-tagged proteins are grown in light medium and wildtype cells are grown in heavy medium.Protein complexes are then immunoaffinity-purified from the equal-mass mixture of the light and heavy cell lysates.Then,the protein complexesare eluted,digested,andanalyzed withLC-MS/MS.In MS,specific interacting partners recognized as having only or predominantly light isotopic peaks,while nonspecific interaction partners have SILAC ratios close to 1.This strategy has been successfully applied for the analysis of the interactome of the adaptor protein Odin involved in the growth factor signalingpathway[143]and integrin-linkedkinase[144],for determining the insulin-dependent interactions of proteins with GLUT4 [145].Finally,SILAC has also been applied to define membrane protein complexes in yeast [146]. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "When combined with RNAi, SILAC can also be applied to detect endogenous PPIs (Fig.3B).After metabolic labeling of cells using the SILAC method, the protein of interest is knocked down by RNAi in either light or heavy sample.The cell lysates are then incubated with an immobilized antibody against the protein of interest. Subsequently,the precipitated proteins are combined,eluted,digested,and finally analyzed by MS.The target protein and its partners are expected to be moreabundantin theuntreatedcellsrelative to knockdown cells.In contrast, contamination proteins would be present in similar amounts in both untreated and knockdown cells, thus specific interactors and contaminations can be clearly discriminated. This method was termed QUICK (quantitative immunoprecipitation combined with knockdown) [147]. QUICK assesses interactions between untagged endogenous proteinsat their normal cellular levels,and it can therefore identify protein-protein interactions with very high confidence.Selbachandcoworkersusedthismethodfirsttoiden tify interaction partners of $\\beta$ -catenin and Cbl [147].Ithas also beenapplied successfully in multiple myeloma cells for identification of interacting partners of 14-3-3§ [148] and Stat3 [149],but also to investigate the role of BAG3 in human [150] and to study the molecular functions of Drosophila ISWI, an ATP-hydrolyzing motor present in different chromatin remodeling complexes [151]. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In addition,SILAC can be used to identify the components of inducible protein complexes that are formed upon activa tion of signaling pathways (Fig.3C).Blagoev and coworkers first used SILAC to investigate the EGFR pathway in HeLa cells,by identifying specific interactors of the SH2 domain presentin the signalingadapter protein Grb2,following EGF stimulation [141].Also,three-plex SILAC was applied to determine stimulus-specific interactions between proteins of the wnt pathway [152]. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In cells,the interactions between proteins is usually not permanent and static (stable PPIs),but mostly transient (dynamic PPIs).In the original PAM (purification after mixing)- SILAC procedure,purification of protein complexes was carried out after mixing the light and heavy cell lysates,and heavy-light exchange of dynamic interaction partners in the protein complexes can occur during incubation.Thus,the ratios in relative abundance of these dynamic interactors were similar to those background proteins,which made it difficult to effectively distinguish the specific but dynamic interactors from background proteins based on their SILAC ratios [153].The MAP (mixingafter purification)-SILAC approach [154,155] solves this problem by mixing the purified samples after purification.Ithas been applied successfully in the identification of the dynamic interactors in 26S proteasome complexes [155],COP9 signalosome complexes [156],and TBP transcription complexes [157]. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Besides protein-protein interactions,the SILAC approach has been applied to the study of protein-bait interactions using different molecular baits,such as peptides [48,158,159], DNA [160,161],RNA [162,163],small molecules,or drugs [164,165]. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4Protein turnover ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Conventional proteomics compares the difference in protein expression between two or more different states or conditions.However,it doesnot provide information about the dynamics of protein expression,as the protein abundance is determined by the balance between protein synthesis and degradation.Therefore,protein turnover creates anadditional dimension for proteomic studies [166].Earlier studies of pro tein turnover relied on detecting the incorporation of radiolabeled amino acids into newly translated proteins and either analyzed bulk protein turnover,or else turnover of individual proteins [167]. The development of pulsed SILAC (pSILAC), allows the determination of the turnover rates of large numbers of proteins in a single experiment [168-172]. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/c89de3e89fcbb852a7a5accbd0f265b7e9d12f3dc35325d1aa6149be15eacfc7.jpg",
+        "img_caption": [
+            "Figure3.Quantitativeinteractionproteomicswith SIAC.SILAC-basedquantitativeproteomicscanbeusedtoidentifythespecificaly interactionproteinsininvestigating(A)exogenousPPls,(B)endogenousPPlsor(CinduciblePPls.（A)Toivestigatetheexgeous proteincomplex,wild-typecelsorcellsexpressedafinit-tagedproteinsregrowninlghtoravymedium.Tenproteinmplexes areimmunoafiity-puriedfromthemxtureoftheligtandheaycellysates.(B)Tostudyanendogenousproteincomplex,troten finterestis knockeddownbyNAiincelsgrown inlightorheavymedium.Thenproteincomplexsareimmuno-precipitatedwiththe interestedantibodyfromthmixtureoftheligandhaycellysates.(C)IthecaseofinduciblePPlspoteincomplexesaredcedby specificstimulationincelsgroninlightoreavymedium,andthenimmuno-afinitypurifiedfromtemixtureoftheligtandavycel lysates.Aftergetingtheproteincomplexes,proteinsweredigestedintopeptidesandanalyzedwithLC-MS/.Thespecificinteactors ornonspecificbackgroundproteinscanbedistinguishedbytheirSILACratios.However,thesePAMmethdsthatmixlightandheaycel lysatesbeforecolPcannotdistinguishthespecificbutdynamicinteractors.Thisproblemcanbesolvedbymixingpurifiedsamplesafter colP (MAP methods).Figure 3 courtesy of Prof.S.E.Ong [19],adapted with modifications. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "pSILAC is a recently developed modified version of the SILAC approach.In pSILAC,cells are first cultured in medium with the normal light(L) amino acids.Then,cells are transferred to culture medium containing middle (M) or heavy (H) labeled amino acids for a certain period of time. From this point time on,cells are pulse-labeled since all newly synthesized proteins incorporate either the Hor the Mamino acids.Subsequently,samples are combined and analyzed together. The abundance ratio of $\\mathrm { H } / \\mathrm { M }$ reflects changes in protein production. pSILAC has been employed to study the global protein turnover in yeast [166] and in the nucleus of cultured cells [169]. pSILAC was also used for global analysisof the dynamic expression ofMHC in human cancer cells [168],protein translation [170,173],protein degradation [171],PTMs [174],and also for investigating the impact of chemical inhibitors on protein synthesis [175].Furthermore, pSILAC was applied to assess the dynamics of secreted protein during osteoblast differentiation[176] and macrophage activation [177].In a comprehensive study，Boisvert and coworkers combined pulse-labeling and subcellular organelle purification strategy to characterize the expression,localization,synthesis,degradation,and turnover rates of human proteins in different subcellular organelles,and provided a system-wide overview of the dynamics of cultured human cells [172]. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Another important application of pSILAC is to quantify protein expression changes induced by miRNAs [178-181], which are small noncoding RNAs that regulate gene ex pression.To investigate the impact of overexpression or knockdown of miRNA on the protein translation,Selbach and coworkers first applied pSILAC to investigate the impact of five human miRNAs on protein synthesis.After in duction of miRNA expression,cells were pulse-labeled with isotope-labeled amino acids,which were incorporated into all newly synthesized proteins.Subsequent MS analysis allowed detecting changes in protein production [178]. Recently, Kaller and coworkers investigated the targets of miR-34a, itself a transcriptional target of the p53 tumor suppressor protein [181].In summary，pSILAC combined with MSbased proteomics isa powerful strategy to find the targets of miRNAs and to provide more information about the function of miRNAs. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4 Developments of SILAC ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Though the SILAC method was originally developed for labeling mammalian cell lines,it has been expanded to almost all types of model organisms from bacteria to mammalian [182],including bacteria Escherichia coli[183,184] and Bacillus subtilis [185,186],yeast[104,187,188], single-celled protozoan Trypanosoma brucei[189],higher plantmodel Arabidopsis thaliana [190],Drosophila melanogaster [191,192],Caenorhabditis elegans [193,194],Zebrafish Danio rerio [195,196],as well as mouse [197]. Though these model organisms can be metabolically labeled with SILAC methods,the ways to incorporate isotopic labels into organisms are quite different: mammalian and Arabidopsis thaliana cells incorporate stable isotopic amino acids by supplementing them in the growth media,while unicellular organism such as bacteria and yeast are typically auxotrophic for specific amino acids, ensuring that all of these amino acids are replaced by their counterpart labeled amino acids.However, complex organismssuchasDrosophilamelanogaster,Caenorhabditis elegans, Zebrafish,and mouse incorporate stable labeling by feeding with SILAC-labeled Escherichia coli or yeast,or a customed SILAC diet [198]. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The SILAC mouse model has become a powerful tool for systematic analysis of disease model mice [199] as well as knockout mice [200,201], thereby improving our understanding of the protein functions in vivo and advancing our knowledge of pathogenic processes. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "One of the shortcomings of SILAC is the fact that it cannot be applied to the study of tissues or body fluids,which greatly limits its clinical application.However,the development of spike-in SILAC[17]and super-SILAC[18] partially solved the problem.During spike-in SILAC,the cells are SILAC-labeled, and the proteins extracted from the SILAC cells are spiked into different experimental samples,which are then processed and analyzed together.In the MS analysis,the spike-in SILAC sample is the heavy population,with the light popula tionbeing the real sample.Here,SILAC samplesare served asinternal references,to which the experimental samples are compared.Since the internal standard is identical, the relative quantification between different samples is feasible and the fold changes between different samples are the“ratio of ratios”[17].Ishihama and coworkers first applied these cell culture-derived reference standards for mouse-brain quan titative proteomics [202].Therefore,this strategy is now becoming increasingly popular for SILAC experiments.For instance,Pan and coworkers compared the changes in proteome changes between mouse primary hepatocytes and a mouse liver cell line by SILAC labeling the Hepal-6 cell line [203].A similar strategy was applied to compare in vivo the mitochondrial proteome between brown and white fatcells by using the SILAC-labeled mitochondrial proteins as internal references [204].Combined with phosphoproteomic analysis, spike-in SILAC was also applied to investigate the in vivo signaling pathway.For instance,Monetti and coworkers used the SILAC-labeled liver Hepal-6cells as an internal standard to analyze the quantitative phosphoproteome of mouse liver in response to insulin,and provided detailed in vivo phos phorylation information for liver tissue [205]. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Though spike-in SILAC allows quantification of samples from tissues or body fluids,it introduces added variability to the analysis.Moreover,the internal standard used in the spike-in method,either cell lines or proteins,does not always contain all the proteins that are present in the analytical sample.The development of a so-called super-SILAC method [206] solved this problem, at least partially. During super-SILAC,a SILAC standard is generated bylabeling more than two cell lines that are representative of the experimental sample (a super-set of cell lines)[18] or a labeled model organism [2o7].Geiger and coworkers first used this technique for quantitative analysis of breast cancer tissue,with the SILAC-labeled protein mix from five different cell lines, all of which were derived from the same tissue [18]. Recently, this method was applied to the quantification ofthe proteomic differences between synaptic and nonsynaptic mitochondria in the mouse brain [2o8]. Combined with different protein PTM enrichment techniques,super-SILAC has been applied to compare the levels of phosphorylation [2o9] and glycosylation [119,210] in disease,thus providing insights into the regulation of signaling pathway during pathogenesis. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Super-SILAC has tremendous potential in clinical application. It has been used to distinguish histological subtypes of cancers,namely by comparing their protein expression patterns and identifying significant differences [211]. Forinstance,Deeb and coworkers investigated two histo logically indistinguishable subtypes of diffuse large B-cell lymphoma (DLBCL),namely activated B-cell-like (ABC) and germinal-center B-cell-like (GCB) subtypes.They developed a super-SILAC mix,which is constructed by combining cell lysates from B-cell lymphoma celllines.The super-SILAC mix was then combined with cell lysates from ABC-DLBCL and ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "GCB-DLBCL cell lines,and analyzed via MS.PCAof the data obtained by super-SILAC allowed the classification of two cancer subtypes [211].Furthermore,super-SILAC combined with N-glycoproteome technology allowed even better differentiation of those two cancer types [210]. Super-SILAC has also been applied to differentiate two major histological sub types of non-small cell lung cancer,namely adenocarcinoma and squamous cell carcinoma [212] or to study the study a progression model of breast cancer [213]. In summary, superSILAC combined with MS analysis can be used in the clinic as a reliable and rapid way to diagnose cancer subtypes.Future applications of super-SILAC in clinical samples will improve our understanding of disease,and hold the promise for dis covering new biomarkers for diagnosis of disease [2o6,214]. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "SILAC-based proteomics is still under development. Recently,a protein quantification method called NeuCode (neutron encoding) was developed by integrating the SILAC and isobaric tagging methods for multiplexed proteome quantification by high-resolution MS [215,216]. The application of NeuCode SILAC labeling in yeast cells allowed the monitoring of time-resolved responses of five signaling mutants in a single 18-plex experiment [216].This new strategy will expand the scale of comparative proteome analysis,allowing for its application in addressing important questions in the fields of biology. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "SILAC is a simple,robust,and powerful approach in MSbased quantitative proteomics.Compared with other chem ical labeling or label-free quantitative proteomic techniques, SILAC has the advantage of quantitative accuracy and repro ducibility.SILAC coupled with LC-MS/MS has been widely applied to characterize protein changes between different samples,to investigate the dynamics of protein PTMs in response to stimuli, to distinguish specific interacting proteins in the protein-protein interaction networks,and to analyze cellular protein turnover in the proteome-wide scale.The development of spike-in SILAC and super-SILAC technology allows the application of SILAC technology in the clinic.In conclusion,SILAC has become an important tool in functional proteomics research to answer important questions in diverseareasofbiomedical research. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Theauthorswouldlike to thank themembersofourlab for critical reading of this manuscript.This study was supported by the National Basic Research Program of China (973) (grant no. 2014CBA02003,2012CB966803).We also thank Dr.T.Tu and Dr.T.Juelich for linguistic assistance during the preparation of thismanuscript.We apologize to the scientistswho made contributions to thefield,but have not been cited due to spacelimita tions.The authors haveno otherrelevant affiliations orfinancial involvementwith any organization or entity with a financial in terestin orfinancial conflictwiththe subjectmatterormaterials discussed in themanuscript apart from those disclosed. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The authors have declared no conflict ofinterest.   \n6 ； References [1] Han,D.K.,Eng,J.,Zhou, H.,Aebersold,R., Quantitative profiling of differentiation-induced microsomal proteins using isotope-coded affinity tags and mass spectrometry.Nat. Biotechnol. 2001,19,946-951. [2] Ross,P. L.,，Huang,Y.N.,Marchese,J.N.,Williamson,B. et al.,Multiplexed protein quantitation in Saccharomyces cerevisiae using amine-reactive isobaric tagging reagents. Mol. Cell Proteomics 2004,3,1154-1169. [3] Choe,L.,D'Ascenzo,M., Relkin,N.R.,Pappin,D.et al.,8-plex quantitation of changes in cerebrospinal fluid protein expression in subjects undergoing intravenous immunoglobulin treatment for Alzheimer's disease. Proteomics 2007,7, 3651-3660. [4] Thompson,A.,Schafer,J., Kuhn,K., Kienle,S.et al.Tandem mass tags:a novel quantification strategy for comparative analysis of complex protein mixtures by MS/MS. Anal.Chem.2003,75,1895-1904. [5] Hsu,J. L., Huang, S.Y., Chow,N. H., Chen,S. H., Stableisotope dimethyllabeling for quantitative proteomics.Anal. Chem.2003,75,6843-6852. [6] Boersema,P.J.,Raijmakers,R., Lemeer, S.,Mohammed, S.,Heck,A. J.,Multiplex peptide stable isotope dimethyl labeling for quantitative proteomics.Nat. Protoc. 2009,4, 484-494. [7] Miyagi, M.,Rao,K.C.,Proteolytic 18O-labeling strategies for quantitative proteomics. Mass Spectrom. Rev.2007,26, 121-136. [8] Ong, S.E., Blagoev, B., Kratchmarova,I., Kristensen, D.B. et al., Stable isotope labeling by amino acids in cell culture, SILAC,as a simple and accurate approach to expression proteomics.Mol. Cell Proteomics 2002,1,376-386. [9] Krijgsveld,J.，Keting，R.F.，Mahmoudi,T.,Johansen,J. et al.,Metabolic labeling of C.elegans and D.melanogaster for quantitative proteomics. Nat. Biotechnol.2003,21,927- 931.   \n[10] Neilson,K.A.,Ali, N.A., Muralidharan,S., Mirzaei, M.et al., Less label, more free: approaches in label-free quantitative mass spectrometry. Proteomics 2011,11, 535-553.   \n[11] Bantschef,M., Schirle,M., Sweetman,G., Rick,J., Kuster, B, Quantitative mass spectrometry in proteomics: a critical review.Anal. Bioanal. Chem.2007,389,1017-1031.   \n[12] Zhang,G., Fenyo,D.,Neubert, T.A., Evaluation of the variation in sample preparation for comparative proteomics using stable isotope labeling by amino acids in cell culture. J. Proteome Res.2009,8,1285-1292.   \n[13] Putz, S.M., Boehm,A.M.,Stiewe,T., Sickmann,A.,iTRAQ analysis of a cell culture model for malignant transformation,including comparison with 2D-PAGE and SILAC.J. Proteome Res.2012,11,2140-2153.   \n[14] Lau, H.T.,Suh, H.W.,Golkowski,M., Ong,S.E., Comparing SILAC-and stable isotope dimethyl-labeling approaches for quantitative proteomics.J.Proteome Res.2014,13,4164- 4174.   \n[15] Li, Z.,Adams,R. M., Chourey, K., Hurst, G. B. et al., Systematic comparison of label-free,metabolic labeling,and isobaric chemical labeling for quantitative proteomics on LTQ Orbitrap Velos.J. Proteome Res.2012,11,1582-1590.   \n[16] Humphrey,S.J.，Yang，G.，Yang，P.，Fazakerley，D.J. et al.，Dynamic adipocyte phosphoproteome reveals that Akt directly regulates mTORC2.Cell Metab.2013，17, 1009-1020.   \n[17] Geiger,T.,Wisniewski,J.R., Cox,J., Zanivan,S.et al., Use of stable isotope labeling by amino acids in cell culture as a spike-in standard in quantitative proteomics. Nat. Protoc. 2011,6, 147-157.   \n[18] Geiger,T., Cox,J.,Ostasiewicz, P.,Wisniewski,J. R., Mann, M., Super-SILAC mix for quantitative proteomics of human tumor tissue.Nat. Methods 2010,7,383-385.   \n[19] Ong,S.E., The expanding field of SILAC.Anal. Bioanal. Chem.2012,404,967-976.   \n[20] Mann,M.,Fifteen years of stable isotope labeling by amino acids in cell culture (SILAC).Methods Mol. Biol.2014,1188, 1-7.   \n[21] Mann,M.，Functional and quantitative proteomics using SILAC. Nat. Rev. Mol. Cell Biol.2006,7,952-958.   \n[22] Foster, L.J.,De Hoog,C.L.,Mann,M.,Unbiased quantitative proteomics of lipid rafts reveals high specificity for signaling factors.Proc.Natl. Acad. Sci. USA 2003,100, 5813-5818.   \n[23] Everley，P.A.，Krijgsveld,J.，Zetter，B.R.，Gygi，S.P., Quantitative cancer proteomics: stable isotope labeling with amino acids in cell culture (SILAC)as a tool for prostate cancer research．Mol.Cell Proteomics 2004，3, 729-735.   \n[24] Ong,S.E., Mitler, G., Mann,M.,Identifying and quantifying in vivo methylation sites by heavy methyl SILAC.Nat. Methods 2004,1,119-126.   \n[25] Wheatley, D.N.,Scott,L., Lamb,J.,Smith,S., Single amino acid (arginine) restriction: growth and death of cultured HeLa and human diploid fibroblasts. Cell Physiol. Biochem. 2000,10,37-55.   \n[26] Ong,S.E., Kratchmarova,I., Mann,M.,Properties of 13Csubstituted arginine in stable isotope labeling by amino acids in cell culture (SILAC).J.Proteome Res.2003,2,173- 181.   \n[27] Blagoev,B.,Ong,S.E., Kratchmarova,l., Mann,M.,Temporal analysis of phosphotyrosine-dependent signaling networks by quantitative proteomics. Nat. Biotechnol. 2004, 22, 1139-1145.   \n[28] Andersen,J.S.，Lam,Y.W.,Leung，A. K.，Ong，S.E. et al.，Nucleolar proteome dynamics. Nature 2005,433, 77-83.   \n[29] Ibarrola,N.,Molina,H.,Iwahori,A.，Pandey,A.,A novel proteomic approach for specific identification of tyrosine kinase substrates using [13C] tyrosine.J.Biol. Chem. 2004, 279, 15805-15813.   \n[30] Tzouros,M.,Golling,S.,Avila,D.,Lamerz,J.et al.,Development of a 5-plex SILAC method tuned for the quantitation of tyrosine phosphorylation dynamics.Mol.Cell Proteomics 2013,12, 3339-3349.   \n[31] Zhang,R., Sioma, C. S.,Wang,S., Regnier,F.E., Fractionation of isotopically labeled peptides in quantitative proteomics.Anal. Chem.2001,73,5142-5149.   \n[32] Zhang,R., Regnier,F.E.,Minimizing resolution of isotopically coded peptides in comparative proteomics.J. Proteome Res.2002,1,139-147.   \n[33] Julka,S., Regnier,F., Quantification in proteomics through stable isotope coding: a review. J. Proteome Res.2004,3, 350-363.   \n[34] Olsen,J.V.,Ong,S.E.,Mann,M., Trypsin cleaves exclusively C-terminal to arginine and lysine residues.Mol. Cell Proteomics 2004,3, 608-614.   \n[35] Lossner，C.，Warnken，U.，Pscherer，A.，Schnolzer，M., Preventing arginine-to-proline conversion in a cell-lineindependent manner during cell cultivation under stable isotope labeling by amino acids in cellculture (SILAC) conditions. Anal. Biochem.2011,412,123-125.   \n[36] Bendall, S.C., Hughes,C.,Stewart,M.H., Doble,B.et al., Prevention of amino acid conversion in SILAC experiments with embryonic stem cells.Mol.Cell Proteomics 2008，7, 1587-1597.   \n[37] Ong,S.E.,Mann,M.,A practical recipe for stable isotope labeling by amino acids in cel culture (SILAC). Nat.Protoc. 2006,1,2650-2660.   \n[38] Van Hoof,D.,Pinkse,M.W.,Oostwaard,D.W., Mummery, C.L.et al.，An experimental correction for arginine-toproline conversion artifacts in SILAC-based quantitative proteomics.Nat. Methods 2007,4,677-678.   \n[39] Park,S.K., Venable,J.D., Xu,T., Yates,J. R. 3rd.,A quantitative analysis software tool for mass spectrometry-based proteomics.Nat. Methods 2008,5,319-322.   \n[40] Park, S. K., Liao,L., Kim,J.Y.,Yates,J.R.3rd.,A computational approach to correct arginine-to-proline conversion in quantitative proteomics. Nat. Methods 2009，6, 184-185.   \n[41] Kratchmarova,I., Blagoev, B.,Haack-Sorensen,M., Kassem, M.,Mann,M.,Mechanism of divergent growth factor effects in mesenchymal stem cell diffrentiation.Science 2005,308,1472-1477.   \n[42] Molina,H., Yang,Y.,Ruch,T., Kim,J.W.et al.，Temporal profiling of the adipocyte proteome during diferentiation using a five-plex SILAC based strategy. J. Proteome Res. 2009,8,48-58.   \n[43] Olsen,J.V., Blagoev,B.,Gnad,F.,Macek, B.et al.,Global, in vivo,and site-specific phosphorylation dynamics in signaling networks.Cell2006,127,635-648.   \n[44] Dengjel,J.,Akimov,V., Olsen,J.V., Bunkenborg,J.et al., Quantitative proteomic assessment of very early cellular signaling events.Nat. Biotechnol.2007,25,566-568.   \n[45] Gehrmann,M.L., Hathout,Y., Fenselau,C.,Evaluation of metabolic labeling for comparative proteomics in breast cancer cells.J.Proteome Res.2004,3,1063-1068.   \n[46] Cui,Z., Chen,X.,Lu,B., Park,S. K.et al., Preliminary quantitative profile of differential protein expression between rat L6 myoblasts and myotubes by stable isotope labeling with amino acids in cell culture.Proteomics 2009,9, 1274-1292.   \n[47] Pasculescu,A., Schoof,E.M., Creixell,P.,Zheng,Y.et al., CoreFlow:a computational platform for integration,analysis and modeling of complex biological data.J.Proteomics 2014, 100, 167-173.   \n[48] Schulze,W.X.,Mann,M.,A novel proteomic screen for peptide-protein interactions.J. Biol. Chem.2004，279, 10756-10764.   \n[49] Park,S.S.,Wu,W.W.,Zhou,Y.,Shen,R.F.et al.,Effective correction of experimental errors in quantitative proteomics using stable isotope labeling by amino acids in cell culture (SILAC).J. Proteomics 2012,75,3720-3732.   \n[50] Olsen,J.V., Schwartz, J.C., Griep-Raming,J.,Nielsen,M. L.et al., A dual pressure linear ion trap Orbitrap instrument with very high sequencing speed.Mol. Cell Proteomics 2009,8,2759-2769.   \n[51] Michalski,A., Damoc, E., Hauschild,J.P., Lange,O.et al., Mass spectrometry-based proteomics using Q Exactive, a high-performance benchtop quadrupole Orbitrap mass spectrometer. Mol. Cell Proteomics 2011,10, M111.011015.   \n[52] Kelstrup,C.D.,Young,C.,Lavalle,R.,Nielsen,M.L.,Olsen, J.V., Optimized fast and sensitive acquisition methods for shotgun proteomics on a quadrupole orbitrap mass spectrometer.J.Proteome Res.2012,11,3487-3497.   \n[53] Cox,J., Mann, M., MaxQuant enables high peptide identification rates,individualized p.p.b.-range mass accuracies and proteome-wide protein quantification. Nat. Biotechnol. 2008,26, 1367-1372.   \n[54] Tyanova,S.,Mann,M.,Cox,J.,MaxQuant for in-depth analysis of large SILAC datasets.Methods Mol. Biol.2014,1188, 351-364.   \n[55] Keller,A.,Shteynberg,D., Software pipeline and data analysis for MS/MS proteomics: the trans-proteomic pipeline. Methods Mol. Biol.2010,694,169-189.   \n[56] Liu,C.,Song, C.Q., Yuan,Z.F.,Fu,Y.et al.,pQuant improves quantitation by keeping out interfering signals and evaluating the accuracy of calculated ratios.Anal. Chem.2014, 86, 5286-5294.   \n[57] Park,S. K., Yates,J. R.3rd., Census for proteome quantification.Curr.Protoc.Bioinformatics 2010,Chapter13,Unit 13, 12, 1-11.   \n[58] Ashburner,M.,Ball,C.A.,Blake,J.A.,Botstein,D.et al., Gene ontology: tool for the unification of biology.The Gene Ontology Consortium.Nat. Genet. 2000,25,25-29.   \n[59] Kanehisa, M., Goto,S., Kawashima,S., Okuno,Y., Hattori, M.,The KEGG resource for deciphering the genome. Nucleic Acids Res.2004,32,D277-D280.   \n[60] Jensen,L.J.,Kuhn,M.,Stark,M.,Chaffron,S.et al.,STRING 8-a global view on proteins and their functional interactions in 630 organisms. Nucleic Acids Res.2009,37, D412- D416.   \n[61] Zeeberg,B.R.，Feng,W.,Wang,G.,Wang,M.D.et al., GoMiner:a resource for biological interpretation of genomic and proteomic data. Genome Biol. 2003,4, R28.   \n[62] Shannon,P.,Markiel,A., Ozier,O., Baliga,N. S.et al., Cytoscape:a software environment for integrated models of biomolecular interaction networks.Genome Res.2003,13, 2498-2504.   \n[63] Huang da,W., Sherman,B.T., Lempicki, R.A., Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources. Nat. Protoc.2009,4,44-57.   \n[64] Kumar，C.，Mann,M.，Bioinformatics analysis of mass spectrometry-based proteomics data sets. FEBS Lett.2009, 583,1703-1712.   \n[65] Cox,J.,Mann,M., Quantitative,high-resolution proteomics fordata-driven systems biology. Annu. Rev. Biochem.2011, 80,273-299.   \n[66] Roepstorff,P.,Mass spectrometry based proteomics, background,status and future needs.Protein Cel 2012,3, 641- 647.   \n[67] Dong,X., Xiong,L., Jiang,X., Wang,Y., Quantitative proteomic analysis reveals the perturbation of multiple cellular pathways in jurkat-T cells induced by doxorubicin.J. Proteome Res.2010,9,5943-5951.   \n[68] Xiong,L., Wang,Y.,Quantitative proteomic analysis reveals the perturbation of multiple cellular pathways in HL-60 cells induced by arsenite treatment.J. Proteome Res. 2010,9, 1129-1137.   \n[69] Zhang,F.,Dai,X.,Wang,Y., 5-Aza $\\cdot 2 ^ { \\prime }$ -deoxycytidine induced growth inhibition of leukemia cells through modulating endogenous cholesterol biosynthesis.Mol. Cell Proteomics 2012,11, M111.016915.   \n[70] Meissner,F., Scheltema,R.A., Mollenkopf, H.J.,Mann,M., Direct proteomic quantification of the secretome of activated immune cells. Science 2013,340,475-478.   \n[71] Hanash,S.,Taguchi,A.,The grand challenge to decipher the cancer proteome.Nat. Rev. Cancer 2010,10,652-660.   \n[72] Hanash,S.M., Pitteri, S.J., Faca,V.M., Mining the plasma proteome for cancer biomarkers.Nature 2008,452, 571- 579.   \n[73] Marimuthu,A., Subbannayya, Y., Sahasrabuddhe,N. A., Balakrishnan,L.et al., SILAC-based quantitative proteomic analysis of gastric cancer secretome.Proteomics Clin.Appl. 2013,7,355-366.   \n[74] Gronborg,M., Kristiansen,T.Z.,Iwahori,A.,Chang,R.etal., Biomarker discovery from pancreatic cancer secretome using a differential proteomic approach.Mol.Cell Proteomics 2006,5,157-171.   \n[75] Kashyap,M. K., Harsha, H.C., Renuse,S., Pawar, H.et al., SILAC-based quantitative proteomic approach to identify potential biomarkers from the esophageal squamous cell carcinoma secretome. Cancer Biol. Ther.2010,10,796-810.   \n[76] Formolo,C.A.,Williams,R.,Gordish-Dressman,H.,MacDonald,T.J.etal.,Secretome signature of invasive glioblastoma multiforme.J.Proteome Res.2011,10,3149-3159.   \n[77] Barderas,R., Mendes,M.,Torres,S., Bartolome,R.A.et al., In-depth characterization of the secretome of colorectal cancer metastatic cells identifies key proteins in cell adhesion,migration,and invasion.Mol.Cell Proteomics 2013, 12, 1602-1620.   \n[78] Liang,X., Zhao,J., Hajivandi, M.,Wu,R.et al., Quantification of membrane and membrane-bound proteins in normal and malignant breast cancer cells isolated from the same patient with primary breast carcinoma.J.Proteome Res.2006,5,2632-2641.   \n[79] Lund,R.,Leth-Larsen,R.,Jensen,O.N., Ditzel,H.J.,Efficient isolation and quantitative proteomic analysis of cancer cell plasma membrane proteins foridentification of metastasisassociated cell surface markers.J.Proteome Res.2009,8, 3078-3090.   \n[80] Leth-Larsen,R.,Lund,R.,Hansen,H.V.,Laenkholm,A.V. et al.,Metastasis-related plasma membrane proteins of human breast cancer cells identified by comparative quantitative mass spectrometry. Mol.Cell Proteomics 2009,8, 1436-1449.   \n[81] Luque-Garcia,J.L.,Martinez-Torrecuadrada,J.L., Epifano, C., Canamero,M.et al., Differential protein expression on the cell surface of colorectal cancer cells associated to tumor metastasis.Proteomics 2010,10,940-952.   \n[82] Hwang,S.I., Lundgren, D. H., Mayya,V., Rezaul, K.et al., Systematic characterization of nuclear proteome during apoptosis: a quantitative proteomic study by differential extraction and stable isotope labeling.Mol. Cell Proteomics 2006,5, 1131-1145.   \n[83] Ma,D.J.,Li,S.J., Wang,L. S., Dai,J.et al.,Temporal and spatial profiling of nuclei-associated proteins upon TNFalpha/NF-kappaB signaling.Cell Res.2009,19,651-664.   \n[84] Emmott,E.,Wise,H.,Loucaides,E.M.，Matthews,D.A. et al. Quantitative proteomics using SILAC coupled to LCMS/MS reveals changes in the nucleolar proteome in influenza A virus-infected cells.J.Proteome Res.2010，9, 5335-5345.   \n[85] Schvartz,D.,Coute,Y.,Brunner,Y.,Wollheim,C.B.,Sanchez, J.C.,Modulation of neuronal pentraxin 1 expression in rat pancreatic beta-cells submitted to chronic glucotoxic stress.Mol. Cell Proteomics 2012,11,244-254.   \n[86] Chen,X., Li,J., Hou,J., Xie,Z., Yang,F, Mammalian mitochondrial proteomics: insights into mitochondrial functions and mitochondria-related diseases.Expert Rev.Proteomics 2010,7,333-345.   \n[87] Chen,X., Cui,Z., Wei,S., Hou,J.et al., Chronic high glucose induced INS-1beta cell mitochondrial dysfunction:a comparative mitochondrial proteome with SILAC.Proteomics 2013,13,3030-3039.   \n[88] Chen,X.,Wei,S.,Ma,Y., Lu,J.et al., Quantitative proteomics analysis identifies mitochondria as therapeutic targets of multidrug-resistance in ovarian cancer.Theranostics 2014,4, 1164-1175.   \n[89] Mann，M.，Jensen,O.N.， Proteomic analysis of posttranslational modifications.Nat. Biotechnol.20o3,21,255- 261.   \n[90] Macek,B.,Mann,M., Olsen,J.V.,Global and site-specific quantitative phosphoproteomics: principles and applications.Annu.Rev. Pharmacol.Toxicol.2009,49,199-221.   \n[91] Mann,M.,Ong,S.E,Gronborg,M.,Steen,H.etal.,Analysis of protein phosphorylation using mass spectrometry: deciphering the phosphoproteome.Trends Biotechnol.2002, 20,261-268.   \n[92] Ubersax,J.A., Ferrell,J.E.,Jr., Mechanisms of specificity in protein phosphorylation. Nat. Rev. Mol. Cell Biol. 2007, 8, 530-541.   \n[93] Rigbolt,K.T.,Prokhorova,T. A.,Akimov, V., Henningsen, J.et al., System-wide temporal characterization of the proteome and phosphoproteome of human embryonic stem cell differentiation. Sci. Signal. 2011,4,rs3. [94] Thingholm,T.E.,Jensen,O.N.,Larsen,M.R.，Analytical strategies for phosphoproteomics.Proteomics 2009,9, 1451-1468.   \n[95] Guerrera,I. C.,Predic-Atkinson,J., Kleiner,O., Soskic,V., Godovac-Zimmermann,J.,Enrichment of phosphoproteins for proteomic analysis using immobilized Fe(Il)-affinity adsorption chromatography. J.Proteome Res.2005,4,1545- 1553.   \n[96] Beltran,L., Cutillas,P. R., Advances in phosphopeptide enrichment techniques for phosphoproteomics.Amino Acids 2012,43,1009-1024. [97] Ficarro,S.B.，McCleland,M.L., Stukenberg,P. T.,Burke, D.J.et al.,Phosphoproteome analysis by mass spectrometry and its application to Saccharomyces cerevisiae. Nat. Biotechnol.2002,20,301-305.   \n[98] Thingholm,T.E., Jensen,O.N., Enrichment and characterization of phosphopeptides by immobilized metal affinity chromatography (IMAC) and mass spectrometry.Methods Mol. Biol. 2009,527,47-56, xi. [99] Larsen,M.R.,Thingholm,T.E.,Jensen,O.N., Roepstorff, P.,Jorgensen,T.J.,Highly selective enrichment of phosphorylated peptides from peptide mixtures using titanium dioxide microcolumns. Mol. Cell Proteomics 2005,4,873- 886.   \n[100] Wu,J.，Shakey,Q.，Liu,W.， Schuller,A.，Follettie,M.T., Global profiling of phosphopeptides by titania affinity enrichment.J.Prote0me Res.2007,6,4684-4689.   \n[101] Villen,J., Beausoleil, S.A., Gerber,S.A., Gygi,S.P.,Largescale phosphorylation analysis of mouse liver. Proc. Natl. Acad.Sci. USA 2007,104,1488-1493.   \n[102] McNulty,D.E.,Annan,R.S., Hydrophilic interaction chromatography reduces the complexity of the phosphoproteome and improves global phosphopeptide isolation and detection.Mol. Cell Proteomics 2008,7,971-980.   \n[103] Zarei, M.,Sprenger,A., Metzger,F.,Gretzmeier,C.,Dengjel, J., Comparison of ERLIC-TiO2,HILIC-TiO2,and SCX-TiO2 for global phosphoproteomics approaches.J.Proteome Res. 2011,10,3474-3483.   \n[104] Gruhler,A.,Olsen,J.V.，Mohammed,S.，Mortensen，P. et al., Quantitative phosphoproteomics applied to the yeast pheromone signaling pathway. Mol. Cell Proteomics 2005, 4,310-327.   \n[105] Chen,C.,Wu,D., Zhang,L., Zhao,Y.,Guo,L.,Comparative phosphoproteomics studies of macrophage response to bacterial virulence effectors.J.Proteomics 2012,77,251- 261.   \n[106] Schreiber,T. B.,Mausbacher,N., Soroka,J., Wandinger,S. K.et al.,Global analysis of phosphoproteome regulation by the Ser/Thr phosphatase Ppt1 in Saccharomyces cerevisiae. J. Prote0me Res.2012,11,2397-2408.   \n[107] Bennetzen,M. V.,Larsen,D.H.，Bunkenborg,J.，Bartek, J.et al.，Site-specific phosphorylation dynamics of the nuclear proteome during the DNA damage response. Mol. Cell Proteomics 2010,9,1314-1323.   \n[108] Pan,C.,Olsen,J.V.,Daub,H.，Mann,M.,Global effects of kinase inhibitors on signaling networks revealed by quantitative phosphoproteomics.Mol. Cell.Proteomics 2009,8,2796-2808.   \n[109] Hilger,M., Bonaldi,T.,Gnad,F.,Mann,M., Systems-wide analysis of a phosphatase knock-down by quantitative proteomics and phosphoproteomics.Mol.Cell.Proteomics 2009,8,1908-1920.   \n[110] Wu,X.,Renuse,S., Sahasrabuddhe,N.A., Zahari,M. S. et al.Activation of diverse signalling pathways by oncogenic PlK3CA mutations.Nat. Commun.2014,5,4961.   \n[111] Rush,J., Moritz,A., Lee, K.A., Guo,A.et al.,Immunoaffinity profiling of tyrosine phosphorylation in cancer cells.Nat. Biotechnol.2005,23,94-101.   \n[112] Rikova,K., Guo,A., Zeng,Q.,Possemato,A.et al., Global survey of phosphotyrosine signaling identifies oncogenic kinases in lung cancer. Cel/ 2007,131,1190-1203.   \n[113] Zhang,G.,Neubert,T.A., Comparison of three quantitative phosphoproteomic strategies to study receptor tyrosine kinase signaling.J.Proteome Res.2011,10,5454-5462.   \n[114] Choudhary,C.,， Kumar, C.,Gnad,F.，Nielsen,M.L.et al., Lysine acetylation targets protein complexes and coregulates major cellular functions. Science 20o9,325,834- 840.   \n[115] Bennetzen,M.V., Larsen,D.H.,Dinant, C.,Watanabe,S. et al., Acetylation dynamics of human nuclear proteins during the ionizing radiation-induced DNA damage response. Cell Cycle 2013,12,1688-1695.   \n[116] Wu, Q., Xu,W.,Cao,L.,Li,X.et al.,SAHA treatment reveals the link between histone lysine acetylation and proteome in nonsmall cell lung cancer A549 Cells.J.Proteome Res. 2013,12,4064-4073.   \n[117] Wang,Z.，Pandey,A., Hart, G.W., Dynamic interplay between O-linked N-acetylglucosaminylation and glycogen synthase kinase-3-dependent phosphorylation. Mol. Cell. Proteomics 2007,6,1365-1379.   \n[118] Ostasiewicz,P., Zielinska,D.F.,Mann,M.,Wisniewski,J. R.，Proteome，phosphoproteome,and N-glycoproteome are quantitatively preserved in formalin-fixed paraffinembedded tissue and analyzable by high-resolution mass spectrometry. J.Proteome Res.2010,9,3688-3700.   \n[119] Boersema,P. J.，Geiger,T.,Wisniewski,J.R.，Mann,M., Quantification of the N-glycosylated secretome by superSILAC during breast cancer progression and in human blood samples.Mol. Cell Proteomics 2013,12,158-171.   \n[120] Meierhofer,D.,Wang,X.,Huang,L., Kaiser,P.,Quantitative analysis of global ubiquitination in HeLa cells by mass spectrometry.J.Proteome Res.2008,7,4566-4576.   \n[121] Xu,P.,Duong, D.M., Seyfried, N.T., Cheng,D.et al., Quantitative proteomics reveals the function of unconventional ubiquitin chains in proteasomal degradation. Cell 2009, 137, 133-145.   \n[122]Akimov,V.，Rigbolt，K.T.，Nielsen，M.M.，Blagoev,B., Characterization of ubiquitination dependent dynamics in growth factor receptor signaling by quantitative proteomics.Mol. Biosyst. 2011,7,3223-3233.   \n[123] Zee,B.M.,Levin,R.S.， Xu,B.,LeRoy,G.et al.,In vivo residue-specific histone methylation dynamics.J. Biol. Chem.2009,285,3341-3350.   \n[124] Cao,X.J.,Zee,B.M.,Garcia,B.A., Heavy methyl-SILAC labeling coupled with liquid chromatography and highresolution mass spectrometry to study the dynamics of site-specific histone methylation.Methods Mol. Biol.2013, 977, 299-313.   \n[125] Martin,B.R.,Wang,C.,Adibekian,A.,Tully,S.E.,Cravatt, B. F, Global profiling of dynamic protein palmitoylation.Nat. Methods 2012,9,84-89.   \n[126] Bonenfant, D.,Towbin,H., Coulot,M., Schindler,P.et al., Analysis of dynamic changes in post-translational modifications of human histones during cell cycle by mass spectrometry.Mol. Cell.Proteomics 2007,6,1917-1932.   \n[127] Cuomo,A., Moretti,S.,Minucci,S.,Bonaldi,T., SLAC-based proteomic analysis to dissect the \"histone modification signature\"of human breast cancer cells.Amino Acids 2010, 41,387-399.   \n[128]Guan,X.，Rastogi,N.,Parthun,M.R.,Freitas,M.A.,Discovery of histone modification crosstalk networks by stable isotope labeling of amino acids in cell culture mass spectrometry (SILAC MS). Mol. Cell. Proteomics 2013,12, 2048-2059.   \n[129] Zhong,J.,Martinez,M.,Sengupta,S.,Lee,A.et al., Quantitative phosphoproteomics reveals crosstalk between phosphorylation and O-GlcNAc in the DNA damage response pathway. Proteomics 2015,15,591-607.   \n[130] Roux，P.P.，Thibault，P.， The coming ofageof phosphoproteomics-from large data sets to inference of protein functions.Mol.Cell.Proteomics 2013，12,3453- 3464.   \n[131] Ngounou Wetie,A.G., Sokolowska,I.,Woods,A.G., Roy, U. et al. Investigation of stable and transient protein-protein interactions: past, present,and future.Proteomics 2012,13, 538-557.   \n[132] Vermeulen,M., Hubner,N.C.,Mann,M., High confidence determination of specific protein-protein interactions using quantitative mass spectrometry. Curr. Opin. Biotechnol. 2008, 19,331-337.   \n[133] Burckstummer,T.,Bennett, K.L., Preradovic,A., Schutze,G. et al.,An efficient tandem affinity purification procedure for interaction proteomics in mammalian cells.Nat.Methods 2006,3,1013-1019.   \n[134] Uetz，P.，Giot,L., Cagney，G.，Mansfield，T.A.et al., A comprehensive analysis of protein-protein interactionsin Saccharomyces cerevisiae.Nature 20o0，403, 623-627.   \n[135] Ho,Y,Gruhler,A., Heilbut,A.,Bader,G.D.etal,Systematic identification of protein complexes in Saccharomyces cerevisiae by mass spectrometry. Nature 2002,415,180-183.   \n[136] Paul,F E., Hosp,F., Selbach,M.,Analyzing protein-protein interactions by quantitative mass spectrometry.Methods 2011,54,387-395.   \n[137] Trinkle-Mulcahy,L., Boulon,S., Lam,Y.W., Urcia,R.et al., ldentifying specific protein interaction partners using quantitative mass spectrometry and bead proteomes.J.Cell Biol. 2008,183,223-239.   \n[138] Budayeva, H.G., Cristea,I. M.,A mass spectrometry view of stable and transient protein interactions.Adv. Exp. Med. Biol. 2014,806,263-282.   \n[139] Ranish,J.A.,Yi, E.C., Leslie,D.M., Purvine,S.O.et al., The study of macromolecular complexes by quantitative proteomics. Nat. Genet. 2003,33,349-355.   \n[140] Oda,Y.,Owa,T.,Sato,T.,Boucher,B.et al., Quantitative chemical proteomics for identifying candidate drug targets. Anal. Chem.2003,75,2159-2165.   \n[141] Blagoev,B., Kratchmarova,l.,Ong,S.E.,Nielsen,M.et al,A proteomics strategy to elucidate functional protein-protein interactions applied to EGF signaling.Nat. Biotechnol.2003, 21,315-318.   \n[142] Tackett,A.J.,DeGrasse,J.A., Sekedat, M. D., Oeffinger,M. et al.,l-DIRT,a general method for distinguishing between specific and nonspecific protein interactions.J.Proteome Res. 2005,4,1752-1756.   \n[143] Zhong,J., Chaerkady,R.,Kandasamy, K.,Gucek,M.et al., The interactome of a PTB domain-containing adapter protein,Odin,revealed by SILAC. J. Proteomics 2010,74,294- 303.   \n[144] Dobreva,I.,Fielding,A.,Foster,L.J.,Dedhar,S.,Mapping the integrin-linked kinase interactome using SILAC.J. Proteome Res.2008,7,1740-1749.   \n[145] Foster,L.J.，Rudich,A.,Talior,I.,Patel,N.et al, Insulindependent interactions of proteins with GLUT4 revealed through stable isotope labeling by amino acids in cell culture (SILAC). J. Proteome Res.2006,5,64-75.   \n[146] Oeljeklaus,S., Schummer,A., Suppanz,I.,Warscheid,B., SILAC labeling of yeast for the study of membrane protein complexes.Methods Mol.Biol.2014,1188,23-46.   \n[147] Selbach,M.，Mann,M.,Protein interaction screening by quantitative immunoprecipitation combined with knockdown (QUICK). Nat. Methods 2006,3,981-983.   \n[148]Ge,F.,Li,W.L,Bi,L.J.,Tao,S.C.et al., ldentification of novel 14-3-3zeta interacting proteins by quantitative immunoprecipitation combined with knockdown (QUiCK).J. Proteome Res.2010,9,5848-5858.   \n[149] Zheng,P.,Zhong, Q., Xiong,Q.,Yang,M.et al., QUICK identification and SPR validation of signal transducers and activators of transcription 3 (Stat3) interacting proteins.J. Proteomics 2012,75,1055-1066.   \n[150] Chen,Y.,Yang,L.N.,Cheng,L.,Tu,S.et al., Bcl2-associated athanogene 3 interactome analysis reveals a new role in modulating proteasome activity. Mol. Cell. Proteomics 2013,12, 2804-2819.   \n[151] Bonaldi,T., Straub,T., Cox,J.,Kumar, C.et al., Combined use of RNAi and quantitative proteomics to study gene function in Drosophila.Mol. Cell2008,31,762-772.   \n[152] Hilger,M.,Mann,M.,Triple SILAC to determine stimulus specific interactions in the Wnt pathway.J. Proteome Res. 2011, 11, 982-994.   \n[153] Wang,X., Huang,L., Defining dynamic protein interactions using SILAC-based quantitative mass spectrometry. Methods Mol. Biol.2014,1188,191-205.   \n[154] Kito,K.，Kawaguchi,N.,Okada, S.,Ito,T.,Discrimination between stable and dynamic components of protein complexes by means of quantitative proteomics. Proteomics 2008,8,2366-2370.   \n[155] Wang,X., Huang,L.,Identifying dynamic interactors of protein complexes by quantitative mass spectrometry.Mol. Cell. Proteomics 2008,7,46-57.   \n[156] Fang,L.,Wang,X., Yamoah,K., Chen,P. L.et al., Characterization of the human COP9 signalosome complex using affinity purification and mass spectrometry.J.Proteome Res.2008,7,4914-4925.   \n[157] Mousson,F, Kolkman,A., Pijnappel, W.W.,Timmers,H.T. Heck,A.J., Quantitative proteomics reveals regulation of dynamic components within TATA-binding protein (TBP) transcription complexes.Mol. Cell.Proteomics 2008，7, 845-852.   \n[158] Christofk, H.R., Vander Heiden,M.G.,Wu,N.,Asara,J. M., Cantley,L.C., Pyruvate kinase M2 is a phosphotyrosinebinding protein. Nature 2008,452,181-186.   \n[159] Hanke, S., Mann,M.,The phosphotyrosine interactome of the insulin receptor family and its substrates IRS-1 and IRS2. Mol. Cell. Proteomics 2009,8,519-534.   \n[160] Mitler,G., Butter,F,Mann,M.,A SILAC-based DNA protein interaction screen that identifies candidate binding proteins to functional DNA elements.Genome Res.2009,19,284- 293.   \n[161]Viturawong,T.,Meissner,F.,Butter,F.,Mann,M.,A DNAcentric protein interaction map of ultraconserved elements reveals contribution of transcription factor binding hubs to conservation.Cell Rep.2013,5,531-545.   \n[162]Butter,F.,Scheibe,M.,Morl,M.,Mann,M.,Unbiased RNAprotein interaction screen by quantitative proteomics.Proc. Natl.Acad.Sci. USA 2009,106,10626-10631.   \n[163] Tsai, B.P.,Wang,X., Huang,L., Waterman,M.L., Quantitative profiling of in vivo-assembled RNA-protein complexes using a novel integrated proteomic approach.Mol. Cell. Proteomics 2011,10, M110.007385.   \n[164] Ong,S.E.,Schenone,M.,Margolin,A.A.,Li,X.et al., Identifying the proteins to which small-molecule probes and drugs bind in cells.Proc.Natl. Acad. Sci. USA 2009,106, 4617-4622.   \n[165] Ong,S.E.,Li,X., Schenone,M., Schreiber,S.L., Carr, S.A., Identifying cellular targets of small-molecule probes and drugs with biochemical enrichment and SILAC.Methods Mol. Biol. 2012,803,129-140.   \n[166] Pratt,J.M.,Petty,J., Riba-Garcia,I., Robertson, D.H.et al., Dynamics of protein turnover,a missing dimension in proteomics.Mol. Cell. Proteomics 2002,1,579-591.   \n[167] Garlick,P.J.,Millward,D.J.,Anappraisal of techniques for the determination of protein turnover in vivo. Biochem.J. 1972, 129, 1P.   \n[168] Milner,E.,Barnea,E.,Beer,I.，Admon,A.,The turnover kinetics of major histocompatibility complex peptides of human cancer cells. Mol. Cell. Proteomics 2006，5, 357-365.   \n[169]Lam,Y.W.,Lamond,A.I.,Mann,M.,Andersen,J.S.,Analysis of nucleolar protein dynamics reveals the nuclear degradation of ribosomal proteins. Curr. Biol.2007,17,749-760.   \n[170] Schwanhausser,B., Gossen,M., Dittmar,G., Selbach,M., Global analysis of cellular protein translation by pulsed SILAC. Proteomics 2009,9,205-209.   \n[171] Doherty,M. K., Hammond, D.E., Clague,M.J., Gaskell,S. J., Beynon,R.J., Turnover of the human proteome: determination of protein intracellular stability by dynamic SILAC. J. Proteome Res.2009,8,104-112.   \n[172] Boisvert,F.M.,Ahmad,Y.,Gierlinski, M.,Charriere,F et al., A quantitative spatial proteomics analysis of proteome turnover in human cells.Mol.Cell.Proteomics 2011，11, M111.011429.   \n[173] Zhang，L.，Zhao，H.，Blagg，B.S.，Dobrowsky，R.T., C-terminal heat shock protein 90 inhibitor decreases hyperglycemia-induced oxidative stress and improves mitochondrial bioenergetics in sensory neurons. J. Proteome Res. 2012,11,2581-2593.   \n[174] Zee,B.M.,Levin,R.S., Dimaggio,P.A., Garcia,B.A.,Global turnover of histone post-translational modifications and variants in human cells. Epigenetics Chromatin. 2010，3, 22.   \n[175]Huo,Y., ladevaia,V.,Yao,Z.,Kelly,I.et al.,Stable isotopelabelling analysis of the impact of inhibition of the mammalian target of rapamycin on protein synthesis. Biochem. J. 2012,444,141-151.   \n[176] Kristensen,L.P.,Chen,L., Nielsen, M.O.,Qanie,D.W.et al., Temporal profiling and pulsed SILAC labeling identify novel secreted proteins during ex vivo osteoblast diferentiation of human stromal stem cells. Mol.Cell.Proteomics 2012, 11,989-1007.   \n[177] Eichelbaum,K.，Krijgsveld,J.，Rapid temporal dynamics of transcription，protein synthesis,and secretion during macrophage activation.Mol.Cell. Proteomics 2014，13, 792-810.   \n[178] Selbach,M., Schwanhausser,B.，Thierfelder,N.,Fang,Z. et al. Widespread changes in protein synthesis induced by microRNAs. Nature 2008,455,58-63.   \n[179] Baek,D.,Villen,J.,Shin,C.,Camargo,F. D.et al.,The impact of microRNAs on protein output. Nature 2008,455, 64-71.   \n[180] Ebner,O.A.,Selbach,M., Whole cell proteome regulation by microRNAs captured in a pulsed SILAC mass spectrometry approach.Methods Mol. Biol.2011,725,315-331.   \n[181] Kaller, M.,Lifers, S.T., Oeljeklaus, S., Kuhlmann,K. et al., Genome-wide characterization of miR-34a induced changes in protein and mRNA expression by a combined pulsed SILAC and microarray analysis.Mol. Cell.Proteomics 2011, 10, M111.010462.   \n[182] Kirchner,M.，Selbach,M.，In vivo quantitative proteome profiling: planning and evaluation of SILAC experiments. Methods Mol. Biol.2012,893,175-199.   \n[183] Veenstra,T. D.,Martinovic, S.,Anderson,G.A.,Pasa-Tolic, L., Smith,R.D., Proteome analysis using selective incorporation of isotopically labeled amino acids.J.Am.Soc.Mass Spectrom.2000,11,78-82.   \n[184] Martinovic,S., Veenstra,T. D.,Anderson,G.A.,Pasa-Tolic, L., Smith,R. D., Selective incorporation of isotopically labeled amino acids for identification of intact proteins on a proteome-wide level.J.Mass Spectrom.2002,37,99-107.   \n[185] Dreisbach,A., Otto,A., Becher, D., Hammer,E.et al., Monitoring of changes in the membrane proteome during stationary phase adaptation of Bacillus subtilis using in vivo labeling techniques.Proteomics 2008,8,2062-2076.   \n[186] Soufi,B., Kumar, C., Gnad,F.,Mann,M.et al., Stable isotope labeling by amino acids in cell culture (SILAC)applied to quantitative proteomics of Bacillus subtilis.J.Proteome Res. 2010,9,3638-3646.   \n[187] Jiang, H., English,A.M., Quantitative analysis of the yeast proteome by incorporation of isotopically labeled leucine. J. Proteome Res.2002,1,345-350.   \n[188] de Godoy，L.M.，Olsen，J.V.,Cox,J.，Nielsen，M．L. et al., Comprehensive mass-spectrometry-based proteome quantification of haploid versus diploid yeast. Nature 2008, 455, 1251-1254.   \n[189] Butter,F.,Bucerius,F.,Michel,M., Cicova,Z.et al., Comparative proteomics of two life cycle stages of stable isotopelabeled Trypanosoma brucei reveals novel components of the parasite's host adaptation machinery. Mol. Cell. Proteomics 2013, 12, 172-179.   \n[190]Gruhler，A.，Schulze,W.X.，Matthiesen，R.，Mann，M., Jensen，O.N.，Stable isotope labeling of Arabidopsis thaliana cells and quantitative proteomics by mass spectrometry. Mol. Cel. Proteomics 2005,4,1697-1709.   \n[191] Sury,M.D.,Chen,J.X,Selbach,M.,The SILAC fly allows for accurate protein quantification in vivo.Mol. Cell Proteomics 2010,9,2173-2183.   \n[192] Chang,Y.C.,Tang, H.W., Liang,S.Y.,Pu,T. H.et al., Evaluation of Drosophila metabolic labeling strategies for in vivo quantitative proteomic analyses with applications to early pupa formation and amino acid starvation.J.Pro teome Res.2013,12,2138-2150.   \n[193] Fredens,J., Engholm-Keller, K., Giessing,A.,Pultz, D.et al., Quantitative proteomics by amino acid labeling in C.elegans. Nat.Methods 2011,8,845-847.   \n[194] Larance,M., Bailly,A.P.,Pourkarimi, E., Hay,R.T.et al., Stable-isotope labeling with amino acids in nematodes. Nat. Methods 2011,8,849-851.   \n[195] Westman-Brinkmalm,A.,Abramsson,A.,Pannee,J., Gang, C.et al., SILAC zebrafish for quantitative analysis of protein turnover and tissue regeneration. J. Proteomics 2011,75, 425-434.   \n[196] Konzer,A.，Ruhs,A.，Braun,H.,Jungblut,B.et al.， Stable isotope labeling in zebrafish allows in vivo monitoring of cardiac morphogenesis.Mol. Cell.Proteomics 2013,12, 1502-1512.   \n[197] Kruger,M.,Moser,M.,Ussar,S.,Thievessen,l. et al.,SILAC mouse for quantitative proteomics uncovers kindlin-3 as an essential factor for red blood cell function.Cell 20o8，134, 353-364.   \n[198] Gouw,J.W.,Krijgsveld,J.,Heck,A.J.,Quantitative proteomics by metabolic labeling of model organisms.Mol. Cell. Proteomics 2010,9,11-24.   \n[199]Rayavarapu,S.,Coley,W.,Cakir,E.,Jahnke,V.et al.,Identification of disease specific pathways using in vivo SILAC proteomics in dystrophin deficient mdx mouse.Mol.Cell. Proteomics 2013,12,1061-1073.   \n[200]Huang,T.C.,Sahasrabuddhe,N.A.，Kim,M.S.,Getnet, D.et al., Regulation of lipid metabolism by Dicer revealed through SILAC mice.J.Proteome Res.2012,11,2193-2205.   \n[201] Konzer,A.,Ruhs,A.,Braun,T.,Kruger,M.,Global protein quantification of mouse heart tissue based on the SILAC mouse.MethodsMol.Biol.2013,1005,39-52.   \n[202] Ishihama,Y., Sato,T.,Tabata,T.,Miyamoto,N.et al., Quantitative mouse brain proteomics using culture-derived isotope tags as internal standards.Nat. Biotechnol.2o05,23, 617-621.   \n[203]Pan,C.，Kumar,C.,Bohl,S.,Klingmueller,U.,Mann,M., Comparative proteomic phenotyping of cell lines and primary cells to assess preservation of cell type-specific functions.Mol. Cell.Proteomics 2009,8,443-450.   \n[204]Forner,F.,Kumar,C.,Luber,C.A.,Fromme,T.et al.,Proteome differences between brown and white fat mitochondriareveal specialized metabolic functions.Cell Metab. 2009,10,324-335.   \n[205]Moneti,M.,Nagaraj,N.,Sharma, K.,Mann,M.,Large-scale phosphosite quantification in tissues by a spike-in SILAC method. Nat. Methods 2011,8,655-658.   \n[206] Shenoy,A.,Geiger,T.,Super-SILAC: current trends and future perspectives.Expert Rev.Proteomics 2015,12,13-19.   \n[207]Geiger,T.,Velic,A.,Macek,B.,Lundberg,E.et al., Initial quantitative proteomic map of 28 mouse tissues using the SILAC mouse.Mol.Cell.Proteomics 2013,12, 1709-1722.   \n[208] Stauch,K.L., Purnell,P. R.，Fox,H. S.,Quantitative proteomics of synaptic and nonsynaptic mitochondria:insights forsynaptic mitochondrial vulnerability.J. Proteome Res. 2014,13,2620-2636.   \n[209]Schweppe,D.K.，Rigas,J.R.,Gerber,S.A.,Quantitative phosphoproteomic profiling of human non-small cell lung cancer tumors.J.Proteomics 2013,91,286-296.   \n[210]Deeb,S.J.,Cox,J.,Schmidt-Supprian,M.,Mann,M.,Nlinked glycosylation enrichment for in-depth cell surface proteomics of diffuse large B-cell lymphoma subtypes.Mol. Cell.Proteomics 2014,13,240-251.   \n[211] Deeb,S.J.,D'Souza,R.C., Cox,J., Schmidt-Supprian,M., Mann,M.,Super-SILAC allows classification of diffuse large B-cell lymphoma subtypes by their protein expression profiles.Mol. Cell.Proteomics 2012,11,77-89.   \n[212] Zhang,W.,Wei,Y.,Ignatchenko,V.,Li,L.et al.,Proteomic profiles of human lung adeno and squamous cell carcinoma using super-SILAC and label-free quantification approaches.Proteomics 2014,14,795-803.   \n[213]Lund,R.R.,Terp,M.G.,Laenkholm,A.V.,Jensen,O.N. et al.,Quantitative proteomics of primary tumors with varying metastatic capabilities using stable isotope-labeled proteins of multiple histogenic origins.Proteomics 2012，12, 2139-2148.   \n[214] Dittmar,G.,Selbach,M., SILAC for biomarker discovery. Proteomics Clin.Appl.2015,9,301-306.   \n[215]Hebert，A.S.，Merrill，A.E.，Bailey，D．J.，Still，A. J.et al.，Neutron-encoded mass signatures for multiplexed proteome quantification.Nat.Methods 2013，10, 332-334.   \n[216]Merrill,A.E., Hebert,A.S.,MacGilvray,M.E.,Rose,C.M. et al.,NeuCode labels for relative protein quantification. Mol.Cell. Proteomics 2014,13,2503-2512.   \n[217] Zhang,H., Xu,Y.,Papanastasopoulos,P., Stebbing,J.,Giamas,G., Broader implications of SILAC-based proteomics for dissecting signaling dynamics in cancer. Expert Rev. Proteomics 2014,11,713-731. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    }
+]

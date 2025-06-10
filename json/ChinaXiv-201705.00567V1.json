@@ -1,0 +1,314 @@
+[
+    {
+        "type": "text",
+        "text": "Alloyed nanoparticle-embedded alumina nanocermet film: A new attempt to improve the thermotolerance ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "C.J. Tua,b,J.H. Gaob, S. Huia,b, D. Loua, H.L. Zhangb,L.Y. Liangb, A.P. Jinc, Y.S. Zoua,\\*, H.T. Cao b,\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "acolftealseiteeeooesied   \nJiangsu 210094,China   \nbDivisionofunctioalaterialsdnoevices,ingbostituteofaterialchologydEgineeingCesecadeyc   \nNingbo 315201,China   \nSchoolof Chemistry and Chemical Engineering,Wuhan Textile University,Wuhan,Hubei 40o73,China   \nKeywords:   \nSilver nanoparticles   \nNanocermet   \nResonance absorption   \nBimetallic alloy   \nThermal stability ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This paper focuses on the enhancement of thermal stability of $\\mathsf { A g } _ { - } \\mathsf { A l } _ { 2 } \\mathsf { O } _ { 3 }$ nanocermet flms by means of alloying of Ag nanoparticles with Alelement.The optical analysis demonstrated the AgAlembedded $\\mathsf { A l } _ { 2 } \\mathsf { O } _ { 3 }$ （20 cermet films(namely,AgAl- ${ \\bf \\nabla } \\cdot { \\bf A l } _ { 2 } { \\bf O } _ { 3 }$ ）possess excellent thermal tolerance even at $5 0 0 ^ { \\circ } { \\mathrm { C } }$ for $2 6 0 \\mathrm { h }$ under nitrogen ambient.The evolution of microstructural and chemical properties of $\\mathsf { A l _ { 2 } O _ { 3 } } / \\mathsf { A g A l - A l _ { 2 } O _ { 3 } } / \\mathsf { A l _ { 2 } O _ { 3 } }$ stack layers during theannealing processwas comprehensively investigated,inorder to graspthe thermal stability mechanism.It is believed that the enhanced thermal stability was ascribed to the formation of fresh alumina as capping layer riveted on the Ag nanoparticles surfaces,which acted as the pinning points to prevent silver element from migrating so as to maintain the expected optical properties. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "showing desirable light absorption and great potential for solar energy conversion. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Silver nanoparticles have attracted considerable interests because of absorption resonance (also donated as plasmon resonance）phenomenon[1-3].This resonance is attributed to the inherent oscillation of free-like electrons on nanoparticle or cluster surfaces excited by the electromagnetic light wave,resulting in wavelength-selective photon absorption and resonantMie scattering[4].Due to the unique optical properties,silver nanoparticles embedded in a ceramic matrix (e.g. ${ \\sf A l } _ { 2 } { \\sf O } _ { 3 }$ or $\\mathrm { S i O } _ { 2 }$ ）areutilized to construct nanocermet absorbing layers for solar thermal applications.In general, the optical properties of the nanocermets are closely related to the shape,size and size distribution of the metallicparticles,and the interaction between the dielectric matrix and metallic spheres as well [5,6].In the last decade,various Agbased nanocermet system including $\\mathsf { A g } _ { - } \\mathsf { A l } _ { 2 } \\mathsf { O } _ { 3 }$ [7], ${ \\mathsf { A g } } { - } { \\mathsf { T i O } } _ { 2 }$ [8], $\\mathsf { A g - S i _ { 3 } N _ { 4 } }$ [9], ${ \\sf A g - S i O } _ { 2 }$ [10], $\\mathsf { A g - B i } _ { 2 } \\mathsf { O } _ { 3 }$ [11] etc. has been developed, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The microstructual and chemical compositional stability of Agbased nanocermet must be closely concerned,so as to maintain its performance at high temperatures.Unfortunately,however,as a metal with low melting temperature (about $9 6 0 ^ { \\circ } \\mathsf { C } )$ ,Ag nanoparticlesare easily subjected to agglomeration and outwards diffusion when workingat elevated temperatures,which would limit their high-temperature applications [12-16].Barshilia et al.[7] have clearlypointed out that Ag- ${ \\bf \\cdot A l } _ { 2 } { \\bf O } _ { 3 }$ coatings have dramaticdegradation at higher temperatures $( > 4 0 0 ^ { \\circ } { \\mathsf { C } } )$ due to the defragmentation of the Ag nanoparticles in the dielectric matrix. For the ${ \\tt A g - A l _ { 2 } O _ { 3 } }$ nanocermet,the key issue is to ensure their high temperature thermal stability. Since ${ \\sf A l } _ { 2 } { \\sf O } _ { 3 }$ exhibits excellent stability at high temperatures,the thermal stability of the nanocermet mainly depends on the thermal tolerance of $\\mathsf { A g }$ nanoparticles.Xiao et al. [12]believed that the agglomeration of Ag nanoparticles was favorable to improving the thermal resistance of $A g \\mathrm { - } A l _ { 2 } O _ { 3 }$ nanocermets due to the low surface free energy of the agglomerates.However, simply increasing the size of the $\\mathsf { A g }$ nanoparticles would become invalid eventually after long-term annealing,so it is not an appropriate solution. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/86d9f5faef08d8d9cafe79050a6f746643e0a62550dc3309aee204549d5c8fd3.jpg",
+        "img_caption": [
+            "Fig.1.Schematic diagram of the sandwich structure for thermal stability investigations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Alloying is an effective solution to improve the thermal stability of Ag nanoparticles [13-15]. It was suggested that AgAl alloy films showed high thermal tolerance even at $6 0 0 ^ { \\circ } \\mathsf C$ [15-17]. The reasons are either the appearance of stablealloyphase of $\\mathsf { A g } _ { 2 } \\mathsf { A l }$ during annealing or the oxidation of Al to passivate grain-boundaries and surfaces of the film[16,17].In our previous work[18],we attempted to use AgAl bimetallic alloy nanoparticles to fabricate AgAl- ${ \\bf \\nabla } \\cdot { \\bf A l } _ { 2 } { \\bf O } _ { 3 }$ nanocermet,featuring good thermal tolerance annealed at $5 0 0 ^ { \\circ } \\mathsf C$ for $1 3 0 \\mathrm { h }$ .Furthermore,the constructed solarabsorbers based on AgAl- ${ \\bf \\nabla } \\cdot { \\bf A l } _ { 2 } { \\bf O } _ { 3 }$ absorbing layers exhibited highabsorptance $( \\alpha = 9 4 . 2 \\% )$ andlow thermal emittance ( $\\begin{array} { r } { \\langle \\varepsilon = 1 5 \\% \\rangle } \\end{array}$ afterannealedat $4 5 0 ^ { \\circ } \\mathsf C$ for $7 0 \\mathrm { h }$ in $\\mathsf { N } _ { 2 }$ .However,both the time evolution processes of bimetallicalloy nanoparticles and the thermal stability mechanism haven't been clarified yet.In this paper,we presented a detailed study on the evolution of the optical properties,microstructure and chemical composition of the AgAl- ${ \\bf \\cdot A l } _ { 2 } { \\bf O } _ { 3 }$ films during the annealing processes.The thermal stability mechanism was also discussed. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Experimental detailsand characterization ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ag- or AgAl- ${ \\bf A l } _ { 2 } { \\bf O } _ { 3 }$ thin films were deposited onto(1 O O) silicon, porous carbon grids or quartz by a magnetron sputtering system (Jsputter8ooo,manufactured by ULVACCo.,Ltd.) at room temperature.Highly pure $\\mathsf { A g }$ (purity $\\mathbf { \\eta } = 9 9 . 9 9 \\%$ )，Al(purity $\\mathbf { \\eta } = 9 9 . 9 9 \\%$ and ${ \\sf A l } _ { 2 } { \\sf O } _ { 3 }$ targets (purity $= 9 9 . 9 9 \\%$ )were used as the sputtering sources. The Ag and ${ \\sf A l } _ { 2 } { \\sf O } _ { 3 }$ targets were operated by two RF power supplies while a DC power wasused to sputter the Al target.The substrates were ultrasonically cleaned by using alcohol and acetone in an ultrasonic agitator before loading them into the vacuum chamber. Prior to the deposition process,the chamber was pumped down to a base pressure of $2 \\times 1 0 ^ { - 4 } \\mathsf { P a }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To eliminate the influence of the environment and substrates,a sandwich structure was utilized,which is consisted of a bottom layer $( \\mathsf { A l } _ { 2 } \\mathsf { O } _ { 3 }$ ，around $1 7 \\mathrm { n m }$ ),amiddle selective absorbing layer (Ag- or AgAl- ${ \\bf \\nabla } \\cdot { \\bf A l } _ { 2 } { \\bf O } _ { 3 }$ ,around $5 0 \\mathrm { n m }$ ),andatoplayer $( \\mathsf { A l } _ { 2 } \\mathsf { O } _ { 3 }$ ,around $1 1 \\mathrm { n m } \\cdot$ ),as seen in Fig.1.The films were deposited at a pressure of $0 . 2 2 \\mathrm { P a }$ in Ar plasma.The detail processing conditions are listed in Table 1. In order to make the films homogeneous and uniform, the substrate was rotated at a speed of $2 0 \\mathrm { r p m }$ .In addition,for investigating the influence of the additive Al on the surface morphology，single ${ \\mathsf { A g } } – { \\mathsf { A l } } _ { 2 } { \\mathsf { O } } _ { 3 }$ and $\\mathsf { A g A l - A l _ { 2 } O _ { 3 } }$ absorbing layers were directly deposited on silicon for $5 5 \\mathrm { { m i n } }$ or porous carbon grids for 5 min,respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Tocharacterize the thermal stability,the $A g \\mathrm { - } A l _ { 2 } O _ { 3 }$ and AgAl${ \\sf A l } _ { 2 } { \\sf O } _ { 3 }$ samples with a sandwich structure were first pretreated in turn at 200 and $3 0 0 ^ { \\circ } \\mathsf C$ in air for $^ { 2 \\mathrm { h } }$ ,then they were annealed at $5 0 0 ^ { \\circ } \\mathsf C$ in anitrogen atmosphere with different durations. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The topography of the ${ \\mathsf { A g } } – { \\mathsf { A l } } _ { 2 } { \\mathsf { O } } _ { 3 }$ or AgAl- ${ \\bf \\nabla } \\cdot { \\bf A l } _ { 2 } { \\bf O } _ { 3 }$ single layer was performed using atomic force microscopy (AFM,Dimesion-3100 Scanning Probe Microscope）operating in a tapping mode with the scan size of $5 \\mu \\mathrm { m } \\times 5 \\mu \\mathrm { m }$ .The diameters of the nanoparticles showed in the AFMimages were estimated by the height value.To observe the nanoscale particles,transmission electron microscopy (TEM) images were recorded using TF2O instrument at an accelerating voltage of $2 0 0 \\mathrm { k V }$ on the porous carbon grids.The optical absorption spectra of the sandwich samples were measured with a Lambda 950 UV-vis-NIR spectrophotometer in the Wavelength range of3oo-25o0 nm.Furthermore,Scanning electron microscopy (SEM) analysis Was carried on a SEM-S48oO instrument operating at $5 \\mathrm { k V }$ to characterize the surface micrographs of the sandwich structure.The phase structure of thin films was examined using a D8 Discover type $\\mathsf { X }$ -raydiffraction(XRD) ata glancingangle of $0 . 5 ^ { \\circ }$ with $\\mathsf { C u K } _ { \\alpha }$ radiation ( $\\lambda = 0 . 1 5 4 0 6$ ).X-ray photoelectron spectroscopy(XPS,AXISUTLTRADLD)analysiswas carried out byuse of Al $\\mathrm { K } _ { \\alpha }$ X-ray $( 1 4 8 6 . 6 \\mathrm { e V } )$ to determine the chemical compositions of the sandwiched films. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1.Optical properties ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 displays the evolution of the absorption spectra of the ${ \\mathsf { A g } } – { \\mathsf { A l } } _ { 2 } { \\mathsf { O } } _ { 3 }$ and $\\mathsf { A g A l - A l _ { 2 } O _ { 3 } }$ thin films on quartz under different annealing conditions.The sandwich structure was shown in Fig.1.The absorption $A ( \\lambda )$ of the samples was calculated following $A ( \\lambda ) { = } 1 - ( R ( \\lambda ) { + } T ( \\lambda ) )$ from the measured reflectance $R ( \\lambda )$ and transmittance $T ( \\lambda )$ spectraat the wavelength $\\lambda$ ranging from 300 to $2 5 0 0 \\mathrm { n m }$ .Measurements of the reflectivity and transmitivity were doneatanangle of $8 ^ { \\circ }$ and $0 ^ { \\circ }$ with respect to the normal,respectively.It can be observed that there isa broad absorption peak located at $3 8 7 \\mathrm { n m }$ for the as-deposited $\\mathsf { A g } _ { - } \\mathsf { A l } _ { 2 } \\mathsf { O } _ { 3 }$ thin films,which is due to the resonance absorption of $\\mathsf { A g }$ nanoparticles.In comparison,however,the absorption peak of as-fabricated AgAl- ${ \\bf \\cdot A l } _ { 2 } { \\bf O } _ { 3 }$ thinfilms exhibitsa slight blue shift from $3 8 7 \\mathrm { n m }$ to $3 7 8 \\mathrm { n m }$ and theabsorbance increases from $6 6 . 5 \\%$ to $78 . 3 \\%$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/833150f7b7df1f625d4b4c03352ef2f65b00b0640d60d782e79294190a8d4a1f.jpg",
+        "img_caption": [
+            "Fig.2.The absorption spectra of ${ \\mathsf { A g } } – { \\mathsf { A l } } _ { 2 } { \\mathsf { O } } _ { 3 }$ (a) and AgAl- ${ \\bf \\nabla } \\cdot { \\bf A l } _ { 2 } { \\bf O } _ { 3 }$ (b) samples during annealing. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/cfea079167e980d5f6c9e1b2d8226812cce5d4bbbfca8d8ed88065d5e0e24cd7.jpg",
+        "table_caption": [
+            "Table 1 The detail deposition parameters for ${ \\tt A g - A l _ { 2 } O _ { 3 } }$ and AgAl- ${ \\sf A l } _ { 2 } { \\sf O } _ { 3 }$ samples. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Layers</td><td>AlO3 target (W)</td><td>Ag target (W)</td><td>Al target (W)</td><td>Sputtering time (min)</td><td>RF bias (W)</td></tr><tr><td>Al2O3 top layer</td><td>115</td><td>0</td><td>0</td><td>20</td><td>10</td></tr><tr><td>Ag- or AgAl-AlzO3 absorbing layer</td><td>115</td><td>9</td><td>0or8</td><td>55</td><td>0</td></tr><tr><td>Al2 O3 bottom layer</td><td>115</td><td>0</td><td>0</td><td>30</td><td>10</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "After pretreated in turn at 2Oo and $3 0 0 ^ { \\circ } \\mathsf C$ in air for $^ { 2 \\mathrm { h } }$ ，the absorption peak position of the ${ \\mathsf { A g } } – { \\mathsf { A l } } _ { 2 } { \\mathsf { O } } _ { 3 }$ sample shifts from $3 8 7 \\mathrm { n m }$ to $3 7 6 \\mathrm { n m }$ .Simultaneously,theabsorbancereduces from $6 6 . 5 \\%$ to $6 4 . 8 \\%$ (Fig.2a), in accordance with the previous report [19,20]. However,for the AgAl- ${ \\bf \\cdot A l } _ { 2 } { \\bf O } _ { 3 }$ case,a red-shift of the absorptionpeak from 378 to $3 8 6 \\mathrm { n m }$ together withanabsorbance decreasing from $7 8 . 3 \\%$ to $7 6 . 2 \\%$ canbe observed,as shown in Fig.2b Thentheabsorption peaks of the both samples displaya red-shift to $4 0 0 \\mathrm { n m }$ and a decrease in absorbance after annealing at $5 0 0 ^ { \\circ } \\mathsf C$ in ${ \\sf N } _ { 2 }$ for $1 0 \\mathrm { h }$ .Thisred-shift of silverabsorption peak hasalso been observed by Yeshchenko et al.[21].With further extending the annealing time $( @ 5 0 0 ^ { \\circ } \\mathsf C )$ ,a sharp decrease in absorbance,especiallyat $\\lambda > 4 5 0 \\mathrm { n m }$ ,as well as a slight peak position blue-shift are observed for the ${ \\mathsf { A g } } – { \\mathsf { A l } } _ { 2 } { \\mathsf { O } } _ { 3 }$ specimen.The resonance absorption peak position of $\\mathsf { A g } _ { - } \\mathsf { A l } _ { 2 } \\mathsf { O } _ { 3 }$ thin films shifted substantially during the annealing processes,indicating that $\\mathsf { A g }$ nanoparticles in the alumina matrixwere fairlyunstable.However,for the AgAl- ${ \\bf \\cdot A l } _ { 2 } { \\bf O } _ { 3 }$ sample,the absorbance and the peak position keep almost constant even after prolonging the annealing time to $2 6 0 \\mathrm { h }$ ,suggesting that AgAl- ${ \\bf \\cdot A l } _ { 2 } { \\bf O } _ { 3 }$ thin film possesses excellent thermal stability at $5 0 0 ^ { \\circ } \\mathsf { C } .$ （20 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.Microstructure and chemical composition ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Generally,the thermal tolerance capacity of the nanoparticles is closely coupled with their morphological evolution [22]. Fig.3a-d illustrates the AFM surface morphologies of the as-deposited ${ \\mathsf { A g } } – { \\mathsf { A l } } _ { 2 } { \\mathsf { O } } _ { 3 }$ and $\\mathsf { A g A l - A l _ { 2 } O _ { 3 } }$ thin films and their corresponding particle-size distribution histograms.Both the samples were directly deposited on Si substrate with a single layer structure. The nanoscale particles in the as-deposited samples,prepared on porous carbon grids for $5 \\mathrm { { m i n } }$ ,were further observed by TEM(see Fig.3e and f), indicating that lots of silver nanoparticles are small withadiameterbelow $2 0 \\mathrm { n m }$ .It can be found that Ag nanoparticles are randomly dispersed in the ceramic matrix with a wide range of particle size distribution. Compared to the ${ \\mathsf { A g } } – { \\mathsf { A l } } _ { 2 } { \\mathsf { O } } _ { 3 }$ thin film shown in Fig.3a, the statistical population of metal nanoparticles in the $\\mathsf { A g A l - A l _ { 2 } O _ { 3 } }$ thin film(Fig.3b,eand f) increased,indicating that the addition of Al can allow the easier nucleation and growth of nanoparticles. On one hand, $\\mathsf { A g }$ andAl possess the similar FaceCenter Cubic(FCC) structure with almost the same lattice constant (0.408[23] and O.405 [24],respectively);on the other,Al element is easily dissolved in Ag[25],so it is reasonably believed that the AgAl alloyed nanoparticles are easily formed and the nucleation of the AgAl nanoparticles features a heterogeneous nucleation mode. Furthermore,the average size of the AgAl nanoparticles decreases to some extent,ranging from 46 to $3 3 \\mathrm { n m }$ (Fig.3c and d). According to the-above observations,one can conclude that the alloyed AgAl nanoparticleswithrelativelysmallerdiameter havea higher dispersed density within the host matrix. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SEMimages are exhibited in order to make the morphology evolution clearer.The samples are also with a sandwich structure (as shown in Fig.1),which were firstly pretreated in turn at 2oo and $3 0 0 ^ { \\circ } \\mathsf C$ inair for $^ { 2 \\mathrm { h } }$ and then annealed at $5 0 0 ^ { \\circ } \\mathsf C$ in ${ \\sf N } _ { 2 }$ for $1 0 \\mathrm { h }$ .The inset graphs show the high-resolution images of the corresponding samples.Fig.4a-c shows the SEM images of the as-deposited and annealed Ag- ${ \\bf \\nabla } \\cdot { \\bf A l } _ { 2 } { \\bf O } _ { 3 }$ samples.The size distribution of $\\mathsf { A g }$ nanoparticles is given in Fig.5a-c.When $\\mathsf { A g } _ { - } \\mathsf { A l } _ { 2 } \\mathsf { O } _ { 3 }$ specimen was pretreated in turn at 200 and $3 0 0 ^ { \\circ } \\mathsf C$ in air for $^ { 2 \\mathrm { h } }$ ,relatively small changes in the morphology features can be observed as compared to the asdeposited one.In particular,the average particle size of the former case is about $1 7 4 \\mathrm { n m }$ (Fig.5b).After annealing at $5 0 0 ^ { \\circ } \\mathsf C$ in ${ \\sf N } _ { 2 }$ for $1 0 \\mathrm { h }$ ,however,the average particle size is sharply increased to be about $9 7 0 \\mathrm { n m }$ (Fig.5c).These results confirmed that $\\mathsf { A g }$ particles areeasily subjected to diffusion and agglomeration via Ostwald ripening process during the annealing process,resulting in considerable particle size growth as expected.The prominent change in their microstructure was the agglomeration of nanoparticles,in order to decrease the system free energy[26].This continuous size increasing led to the absorption peak blue-shift firstly and red-shift afterward,as presentedin Fig.2a.The blue-shifthappened in the pretreatment process was ascribed to the intrinsic size effect [27]. Asthe particle size exceeded a certain threshold $( > 5 0 \\mathrm { n m } )$ ,however,the external size effect would result in the red-shift of the peak position (seen in Fig.2a) [28,29]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.4d-f and Fig.5d-f show the SEM images and the corresponding size distribution of nanoparticles in the AgAl- ${ \\bf \\nabla } \\cdot { \\bf A l } _ { 2 } { \\bf O } _ { 3 }$ samples before and after annealing,respectively.The average particle size of the as-deposited and pretreated sample is $4 9 . 6 \\mathrm { n m }$ and $1 0 3 \\mathrm { n m }$ (seeFig.5dand e),respectively.Afterannealingat the $5 0 0 ^ { \\circ } \\mathsf C$ for $1 0 \\mathrm { h }$ ,the surface morphology does not change apparently as compared with the pretreated one.For example,the average particle size after $5 0 0 ^ { \\circ } \\mathsf C$ annealing slightly increases to be $1 3 7 \\mathrm { n m }$ (Fig. 5f). The above SEMimages confirm that the thermal agglomeration was dramaticallyalleviated in the AgAl- ${ \\bf \\nabla } \\cdot { \\bf A l } _ { 2 } { \\bf O } _ { 3 }$ samples. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A detailed evolution of the phase structure in the nanocermet samples was characterized by XRD measurements.Fig.6 shows the XRD pattern profiles of the $\\mathsf { A g } _ { - } \\mathsf { A l } _ { 2 } \\mathsf { O } _ { 3 }$ and ${ \\mathsf { A g A l - A l } } _ { 2 } { \\mathsf { O } } _ { 3 }$ samples,which are the same as shown in Fig.2.The diffraction peaks corresponding to (111),(22 O) and (20O) Ag planes (the PDF $\\# 6 5 -$ 2871）can be observed,showing a typical FCC-type structure.It can be seen that the diffraction peaks of both the as-deposited samples are very broad with low intensity,indicating that the metallic nanoparticlesare finelydispersed in the amorphous $\\mathsf { A l } _ { 2 } \\mathsf { O } _ { 3 }$ matrix[3O]. The particle size is calculated to be about $2 . 5 \\mathrm { - } 4 \\mathrm { n m }$ by using the Debye-Scherer approximation,consistent with the results obtained from TEM(see Fig.3e and f).After the samples are pretreated in turn at 2Oo and $3 0 0 ^ { \\circ } \\mathsf C$ in air for $^ { 2 \\mathrm { h } }$ ,both the samples show inconspicuous changes,e.g,the particle size is increased slightly to be about $3 . 5 \\mathrm { - } 5 \\mathrm { n m }$ in diameter.For the ${ \\mathsf { A g } } – { \\mathsf { A l } } _ { 2 } { \\mathsf { O } } _ { 3 }$ sample afterannealingat $5 0 0 ^ { \\circ } \\mathsf C$ in $\\mathsf { N } _ { 2 }$ ambient for $2 \\mathrm { h }$ (Fig. 6a), the intensity of(111) diffraction peak increasesapparently as a result of the grain growth(grain size about $6 0 \\mathrm { n m }$ ).However,the intensity of the peak at $3 8 . 1 ^ { \\circ }$ begins to decrease monotonically with extending the annealing time.Only one weak peak of(111) plane can be observed afterannealingat $5 0 0 ^ { \\circ } \\mathsf C$ for $6 2 \\mathrm { h }$ .The time evolution of diffraction peak suggests that the volume fraction of Agis gradually reduced, which in turn is stemmed from the outwards diffusionand even evaporation of the Ag elements [12,31,32]. The loss of Ag would aggravate the optical degradationof the ${ \\mathsf { A g } } – { \\mathsf { A l } } _ { 2 } { \\mathsf { O } } _ { 3 }$ films during the long-time annealing,as shown in Fig.2a.For the AgAl- ${ \\bf \\cal A l } _ { 2 } { \\bf O } _ { 3 }$ sample(Fig.6b), the XRD patterns become sharper after annealingat $5 0 0 ^ { \\circ } \\mathsf C$ for $^ { 2 \\mathrm { h } }$ .With prolonging the duration, the intensity of the diffraction peaks tends to be constant even after annealing for $1 6 0 \\mathrm { h }$ .The peaks of(111),(200) and(22O)planes are all clear to see.It should be pointed out that there is no detectable diffraction peak of $\\mathsf { A l } _ { 2 } \\mathsf { O } _ { 3 }$ ，meaning that the ${ \\sf A l } _ { 2 } { \\sf O } _ { 3 }$ is amorphous during the annealing process.The phase structure stability confirms again that the thermal stability of Ag nanoparticles isstrengthened by addition of Al,in line with the absorption spectra. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ed9f8acc0db4f921cc077527481168a8d3ceee0210671e4e6a889769731a3121.jpg",
+        "img_caption": [
+            "Fig.3.AFM topographic images of single-layer Ag $\\left. \\cdot \\mathsf { A l } _ { 2 } \\mathsf { O } _ { 3 } \\right.$ (a) and AgAl- ${ \\bf \\cdot A l } _ { 2 } { \\bf O } _ { 3 }$ (b)thin films deposited on Si substrate,and the corresponding histograms of the nanoparticles (c)(d)and TEM images (e) (f). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.7 shows the element distribution profile of Ag,Al and O in the AgAl- ${ \\bf \\cdot A l } _ { 2 } { \\bf O } _ { 3 }$ sample before and after annealing at $5 0 0 ^ { \\circ } \\mathsf C$ in ${ \\sf N } _ { 2 }$ The annealed sample was pretreated in turn at 2oO and $3 0 0 ^ { \\circ } \\mathsf C$ in air for $^ { 2 \\mathrm { h } }$ 、After data acquisition at the topmost surface,the XPS measurements were recorded after each step with Ar plasma etching for45 s.Compared with the as-deposited case,the distribution profile of $\\mathsf { A g }$ in the annealed sample does not show any obvious changes,although a certain amount of Agdistribution is detected on the top face of the sandwich structure.This phenomenon has also been observed by Xiao et al. [12]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/66e3c7da7305a6f66b09fc56b16fbe3f5293d0eea6840a6922bc34ff1d98430e.jpg",
+        "img_caption": [
+            "Fig.4. SEMimages of as-deposited and annealed samples at different annealing conditions (a) Ag ${ \\bf \\cal A l } _ { 2 } { \\bf O } _ { 3 }$ ,as-deposited; (b) Ag- ${ \\bf { A l } } _ { 2 } { \\bf { O } } _ { 3 }$ $3 0 0 ^ { \\circ } \\mathsf C$ in air for 2 h; (c) $\\mathsf { A g } _ { - } \\mathsf { A l } _ { 2 } \\mathsf { O } _ { 3 }$ $5 0 0 ^ { \\circ } \\mathsf C$ .i $\\mathsf { N } _ { 2 }$ for $1 0 \\mathrm { h }$ (d)AgAl- ${ \\bf \\nabla } \\cdot { \\bf A l } _ { 2 } { \\bf O } _ { 3 }$ ,as-deposited; (e) ${ \\mathsf { A g A l - A l } } _ { 2 } { \\mathsf { O } } _ { 3 }$ $3 0 0 ^ { \\circ } \\mathsf C$ in air for $2 \\mathrm { h }$ ：(f)AgAl- ${ \\bf \\nabla } \\cdot { \\bf A } \\ l _ { 2 } { \\bf O } _ { 3 }$ $5 0 0 ^ { \\circ } \\mathsf C$ in $\\mathsf { N } _ { 2 }$ for $1 0 \\mathrm { h }$ .The inset graphs show the high-resolution images of the corresponding samples. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/aa1e4ef66246c39db6f63f8361f9f1b7019256aa3fc6826298b47608a9a544e8.jpg",
+        "img_caption": [
+            "Fig.5.The average size distribution of $\\mathsf { A g }$ nanoparticles: (a) ${ \\sf A g } { \\mathrm { - } } { \\sf A l } _ { 2 } { \\sf O } _ { 3 }$ ,as-deposited; (b) $\\mathsf { A g } _ { - } \\mathsf { A l } _ { 2 } \\mathsf { O } _ { 3 }$ = $3 0 0 ^ { \\circ } { \\mathsf C }$ in air for $2 \\mathrm { h }$ ：(c) $\\mathsf { A g } _ { - } \\mathsf { A l } _ { 2 } \\mathsf { O } _ { 3 }$ = $5 0 0 ^ { \\circ } { \\mathsf { C } }$ in $\\mathsf { N } _ { 2 }$ for $1 0 \\mathrm { h }$ ：(d)AgAl- ${ \\bf \\nabla } \\cdot { \\bf A l } _ { 2 } { \\bf O } _ { 3 }$ as-deposited; (e) ${ \\mathsf { A g A l - A l } } _ { 2 } { \\mathsf { O } } _ { 3 }$ $3 0 0 ^ { \\circ } \\mathsf C$ in air for $^ { 2 \\mathrm { h } }$ (f)AgAl- ${ \\sf A l } _ { 2 } { \\sf O } _ { 3 }$ = $5 0 0 ^ { \\circ } \\mathsf C$ in $\\mathsf { N } _ { 2 }$ for $1 0 \\mathrm { h }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e0f60b85cff6ad537c66369ec9f3460c9308006b882070f5473635c4ff98055.jpg",
+        "img_caption": [
+            "Fig. 6.The evolution of XRD diffraction patterns of Ag- ${ \\bf \\nabla } \\cdot { \\bf A l } _ { 2 } { \\bf O } _ { 3 }$ (a) and AgAl- ${ \\bf \\cdot A l } _ { 2 } { \\bf O } _ { 3 }$ (b) samples during annealing. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Further investigation on the chemical state of Al was performed to explore the effect of the Al additive on improving the thermal stability of the AgAl- ${ \\bf \\cdot A l } _ { 2 } { \\bf O } _ { 3 }$ nanocermet.Fig.8 displays the binding energies for the Al $2 p$ core level peaks of the $\\mathsf { A g A l - A l _ { 2 } O _ { 3 } }$ samples before and after annealing,corresponding to the Fig.7a and b,respectively.The XPS measurement was recorded after each etching step(315 s).In the as-deposited sample(see Fig.8a), two Al $2 p$ core level peaks centered at $7 3 . 3 \\mathrm { e V }$ and $7 5 . 6 \\mathrm { e V }$ were observed. It is known that the binding energies of Al $2 p$ core level peak are in a range of $7 2 . 4 \\mathrm { - } 7 3 . 1 \\mathrm { e V }$ for the metallic Al and in a range of $7 5 . 9 \\substack { - 7 6 . 6 \\mathrm { e V } }$ for the oxidized state [33], respectively.Thus, the Al $2 p$ peak at $7 3 . 3 \\mathrm { e V }$ and $7 5 . 6 \\mathsf { e V }$ is presumably from metallic Al and oxidized Al,respectively,indicating that the metallic Al is present in theas-deposited AgAl- ${ \\bf \\cdot A l } _ { 2 } { \\bf O } _ { 3 }$ specimen.The metallic $\\mathsf { A l } / \\mathsf { A g }$ atomic ratio was calculated to be about $1 8 \\%$ .But nevertheless,only Al 2p core level peak foralumina is observed in the annealed sample (shown in Fig.8b),implying that the metallic Al is oxidized during the annealing process.This behavior is consistent with the previous study on oxidation-driven restructuring of Au-Cu bimetallic nanoparticles embedded in $\\mathrm { S i O } _ { 2 }$ [34]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/fd825347d83782d5df6b664e109d06b0c3a7275fa5c3caf1e5e016729752a709.jpg",
+        "img_caption": [
+            "Fig.7.The distribution profile of Ag,Al and O element in the AgAl ${ \\bf \\nabla } \\cdot { \\bf A l } _ { 2 } { \\bf O } _ { 3 }$ sample before (a) and after annealing at $5 0 0 ^ { \\circ } { \\mathsf { C } }$ in ${ \\sf N } _ { 2 }$ (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c7d141f61b9344339c4b7031796e379a3e35b83c34414ae78f77d298e995899.jpg",
+        "img_caption": [
+            "Fig.8.The binding energies for the Al $2 p$ core level peaks of the AgAl ${ \\bf \\cdot A l } _ { 2 } { \\bf O } _ { 3 }$ film before (a) and after annealing at $5 0 0 ^ { \\circ } { \\mathsf { C } }$ ${ \\sf N } _ { 2 }$ (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Based upon the above discussion,thermal induced diffusion of Ag element during annealing was the main reason to account for the optical propertydegradation.Thus,the improved thermal stability of AgAl- ${ \\bf \\cal A l } _ { 2 } { \\bf O } _ { 3 }$ thin film was associated with the effective delay on Ag diffusion.Itwas confirmed by the XPS analysis thatthe oxidation of the metallic Al played an important role in inhibiting $\\mathsf { A g }$ migration.Firstly,Al was dissolved in $\\mathsf { A g }$ particles to form AgAl alloy nanoparticles.Secondly,the solute Al in the alloy nanoparticles diffused outward preferentiallyand then got oxidized near the particle surface during pretreatment in air,which is analogous to the restructuring behavior ofotheralloy nanoparticles driven by oxidation[34,35].The freshly generated alumina,regarded as the armor layer covering the alloy nanoparticles,raised the diffusion barrier to inhibit the migration of the Ag element so as to sustain the optical signals [18]. It should be pointed out that the alloying process was not fully completed,in other words,there were some unalloyed pure Ag particles within the host matrix,which was evidenced by the obvious growth of small particles in the insert to Fig.4e and f. Froma global perspective,the present of Ag agglomerates in the AgAl- ${ \\bf \\nabla } \\cdot { \\bf A l } _ { 2 } { \\bf O } _ { 3 }$ nanocermet cannot be ruled out,but these agglomerates were isolated among the armor layer-capped particles,so the microstructure changes were reduced as marginally as possible, which leads to the superior thermal stability. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this work,we comprehensively investigated the thermal stability of Ag or AgAl nanoparticle embedded alumina matrix.The $\\mathsf { A g A l - A l _ { 2 } O _ { 3 } }$ films exhibited appreciable thermal stability evenafter annealingat $5 0 0 ^ { \\circ } \\mathsf C$ for $2 6 0 \\mathrm { h }$ .The detailed studies of surface micrograph and crystalline structure of the $\\mathsf { A g A l - A l _ { 2 } O _ { 3 } }$ film throughout the whole annealing processes were performed,in order to find out the thermal stability origin.The diffusion,agglomeration and evaporation of the $\\mathsf { A g }$ nanoparticles observed in $\\mathsf { A g } _ { - } \\mathsf { A l } _ { 2 } \\mathsf { O } _ { 3 }$ films during annealing,were significantly suppressed in the AgAl- ${ \\bf \\cdot A l } _ { 2 } { \\bf O } _ { 3 }$ case.It was proposed that the metallic Al diffused out of AgAl alloy nanoparticles after the low-temperature pretreatment in air, and got oxidized on the interfacial sites between the particles and the alumina matrix.The freshly generated alumina,acting as an armor layer on the alloy nanoparticles,was pinned against the matrix and could prevent Ag element from long-distance diffusion.These investigations are beneficial for deeply understanding the effects of the Al additive on improving the thermal stability of ${ \\mathsf { A g } } – { \\mathsf { A l } } _ { 2 } { \\mathsf { O } } _ { 3 }$ films,which would offer a brand new idea for designing high-temperature-endurable nanocermet materials for solar thermal applications. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We acknowledge the financial support from the National Natural Science Foundation of China (Grant No.51302277 and 51102187),the Applied Research Funds for Public Welfare Project of Zhejiang Province (Grant No.2014C31148),the Ningbo Natural Science Foundation(Grant No.2013A610073) and the Project funded by China Postdoctoral Science Foundation (Grant No. 2013M541808). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] M. Jasiorski, K. Luszczyk, A. Baszczuk,Morphology and absorption properties control of silver nanoparticles deposited on two types of sol-gel sphercal silica substrates,J. Alloys Compd.588 (2014) 70-74.   \n[2]K.Kadziola,I.Piwonski,A. Kisielewska,D.Szczukocki,B.Krawczki,J.Sielski,The photoactivity of titanium dioxide coatings with silver nanoparticles prepared by sol-gel and reactive magneton sputtering methodes-comparative studies, Appl. Surf. Sci. 288 (2014) 503-512.   \n[3] T.Gao,B.P.Jelle, A. Gustavsen, Core-shell-typed Ag@SiO2 nanoparticles as solar selective coating materials,J. Nanopart. Res.15 (2013) 1-9.   \n[4] W.M. Ye,W.W. Zhao, H.Z.Li, Z. Jie, S.J. Guo,P.Shi, Theoretical study of the local surface plasmon resonance properties of silver nanosphere clusters,Plasmonics 8 (2013)1351-1360.   \n[5] K.L. Kelly, E. Coronado, L.L. Zhao, G.C. Schatz, The optical properties of metal nanoparticles: the influence of size,shape,and dielectric environment,J.Phys. Chem.B 107 (2003) 668-677.   \n[6] U. Kreibig, L. Genzel, Optical absorption of small metallic particles, Surf. Sci. 156(1985)678-700.   \n[7] H.C. Barshilia, P. Kumar, K.S. Rajam, A. Biswas, Structure and optical properties of Ag- $\\mathbf { \\nabla } \\cdot \\mathsf { A l } _ { 2 } \\mathsf { O } _ { 3 }$ nanocermet solar selective coatings prepared using unbalance dmagnetron sputtering, Sol. Energy Mater. Sol. Cells 95 (2011) 1707-1715.   \n[8] S. Sen, S. Mahanty, S. Roy, O. Heintz, S. Bourgeois, D. Chaumont, Investigation on sol-gel synthesized Ag-doped $\\mathrm { T i O } _ { 2 }$ cermet thin films,Thin Solid Films 474 (2005) 245-249.   \n[9] H.C. Barshilia, A. Tanwer, J. Siju, D.B. Mahadik, A.V. Rao, Design of Ag-Si3N4 nanocermet coatings for photothermal conversion applications, Nanosci. Nanotechnol.Lett. 4(2012) 41-47.   \n10] S.K.Mandal,R.K.Roy,A.K.Pal,Effect of particle shape distribution on the surface plasmon resonance of Ag ${ \\mathrm { . } } { \\mathrm { S i O } } _ { 2 }$ nanocomposite thin films,J.Phys.D: Appl.Phys. 36(2003)261-265.   \n11] P. Zhou, Y.Y. Hai, H.J. Jian, J. Li,T. Han, Y.W. Song, J.Z. Rong, X.Z. Yu, Y.C. Liang, Concentration and size dependence of optical properties of Ag; ${ \\bf \\ B i } _ { 2 } { \\bf O } _ { 3 }$ composite films by using the co-sputtering method, Thin Solid Films 455 (2004) 605-608.   \n12] X.X.Xiao,G.Xu,B.Xiong,D.Chen,L.Miao,The film thickness dependentthermal stability of Ag- $\\mathbf { \\nabla } \\cdot \\mathsf { A l } _ { 2 } \\mathsf { O } _ { 3 }$ thin filmsas high-temperature solar selective absorbers, J. Nanopart. Res. 14(2012) 746.   \n[13]K. Sugawara,Y. Minamide,M. Kawamura, Y. Abe,K. Sasaki, Agglomeration behaviour of Ag films suppressed by alloying with some elements, Vacuum 83 (2009)610-613.   \n[14] R. Sachan, S. Yadavali, N. Shirato,H. Krishna, V. Ramos, G.Duscher, S.J. Pennycook,A.K.Gangopadhyay,H. Garcia,R.Kalyanaraman,Self-organized bimetallic Ag-Co nanoparticles with tunable localized surface plasmons showing high environmental stability and sensitivity, Nanotechnology 23 (2012) 275604.   \n[15] G.Yang,J.B.Sun,J. Zhou,Dielectric properties of aluminum silver alloy thin film in optical frequency range,J. Appl. Phys. 109 (2011) 123105.   \n[16] E.Misra,T.L. Alford,Efect of alloying and cladding on the failure of silver metallization under hightemperature and current stressing, Appl. Phys. Lett. 87 (2005)172111.   \n[17]K. Sugawara, M. Kawamura, K. Abe,K. Sasaki, Comparison of the agglomeration behavior of Ag(Al) films and Ag(Au) films, Microelectron. Eng. 84 (2007) 2476-2480.   \n[18] J.H. Gao, C.J. Tu, L.Y. Liang, H.L. Zhang, F. Zhuge,L. Wu, H.T. Cao, K. Yu, Silver nanoparticles with armor layer embedded in the alumina matrix to form nanocermet thin films with sound thermal stability,ACS Appl.Mater.Interfaces 6 (2014) 11550-11557.   \n[19] A. Pan, Z.P. Yang, H.G. Zheng, F.X. Liu, Y.C. Zhu, X.B. Su, Z.J. Ding, Changeable position of SPR peak of Ag nanoparticles embedded in mesoporous $\\mathrm { S i O } _ { 2 }$ glass byannealing treatment, Appl. Surf. Sci. 205 (2003) 323-328.   \n[20] G. De,M. Gusso,L. Tapfer,Annealing behavior of silver, copper,and silvercopper nanoclusters in a silica matrix synthesized by the sol-gel technique, J. Appl. Phys.80(1995) 6734-6739.   \n[21] O.A. Yeshchenko,I.M. Dmitruk, A.A. Alexeenko, A.V. Kotko, J. Verdal, A.O. Pinchuk, Size and temperature effects on the surface plasmon resonance in silver nanoparticles, Plasmonics 7 (2012) 685-694.   \n[22] Z.Y. Zhang, T.M. Nenoff, K. Leung, S.R. Ferreira, J.Y. Huang, D.T. Berry, P.P. Provencio, R. Stumpf, Room-temperature synthesis of Ag-Ni and Pd-Ni alloy nanoparticles,J.Phys. Chem. C114(2010) 14309-14318.   \n[23] A. Pal,S. Shah,S. Devi, Synthesis of Au-Ag alloy nanoparticles in aqueous polymer solution, Colloids Surf.A: Physicochem. Eng. Aspects 302(2007) 51-57.   \n[24] A.J. McAlister, The Ag-Al (silver-aluminum) system, Bull. Alloy Phase Diag. 8 (1987) 526-533.   \n[25] N.Z. Zarkevich, D.D. Johnson, Predicted hcp Ag-Al metastable phase diagram, equilibrium ground states,and precipitate structure, Phys. Rev. B 67 (2003) 064104.   \n[26] S. Duhan, S. Devi, M. Srivastava, Characterization of nanocrystalline ${ \\sf A g } / { \\sf S i O } _ { 2 }$ nanocomposites and synthesis by wet chemical method, Ind.J. Pure Appl. Phys. 48 (2010) 271-275.   \n[27]U. Kreibig,M. Vollmer,Theoretical consideration Optical Properties of Metal Cluster,vol. 25,Springer,New York, 1995,pp. 13-201.   \n[28] A. Pinchuk, U. Kreibig, Interface decay channel of particle surface Plasmon resonance,New J.Phys.5 (2003) 151.   \n[29] S. Berciaud,L. Cognet, P.Tamarat, B. Lounis, Observation of intrinsic size effects in the optical response of individual gold nanoparticles,Nano Lett. 5 (2005) 515-518.   \n[30] S.R. Bhattacharyya, D. Datta, I. Shyjumon, B.M. Smirnov, T.K. Chini, D. Ghose, R. Hippler, Growth and melting of silicon supported silver nanocluster films,J. Phys. D: Appl. Phys. 42(2009) 035306.   \n[31] O.A. Yeshchenko,L.M. Dmitruk, A.A. Alexeenko, A.V. Kotko, Surface plasmon asa probe for melting of silver nanoparticles,Nanotechnology 21 (2010) 045203.   \n[32]R.C. Adochite, D. Munteanu, M. Torrell, L. Cunha, E. Alves,N.P. Barradas,A. Cavaleiro, J.P.Riviere,E.L. Bourhis,D.Eyidi,F.Vaz,The influence ofannealing treatments on the properties of Ag $\\mathrm { \\cdot T i O } _ { 2 }$ nanocomposite films prepared by magnetron sputtering, Appl. Surf. Sci. 258 (2012) 4028-4034.   \n[33] B. Vincent Crist, Handbook of Monochromatic XPS Spectra, The Elements and Native Oxides,Wiley,New York,1999.   \n[34] G. De, G. Mattei, P. Mazzoldi, C. Sada, G. Battaglin,A. Quaranta, Au-Cu alloy nanocluster doped $\\mathsf { S i O } _ { 2 }$ film by sol-gel processing, Chem. Mater. 12 (2000) 2157-2160.   \n[35] F. Tao, M.E. Grass, Y.W. Zhang, D.R. Butcher, J.R. Renzas, Z. Liu, J.Y. Chung, B.S. Mun,M. Salmeron, G.A. Somorjai, Reaction-driven restructuring of Rh-Pd and Pt-Pd core-shell nanoparticles, Science 322 (2008) 932-934. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

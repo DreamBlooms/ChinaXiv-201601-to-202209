@@ -1,0 +1,136 @@
+# 骨形成蛋白9对人膀胱癌BIU-87细胞增殖和迁移的影响
+
+苟理尧，刘梦瑶，夏菁，万群，孙恃雷，唐敏，张彦\*（重庆医科大学检验医学院临床检验诊断学教育部重点实验室，重庆400016）
+
+[摘要］目的人骨形成蛋白9（Bone Morphogenetic Protein 9,BMP9）对人膀胱癌BIU-87细胞增殖和迁移的影响。方法使用过表达BMP9 基因的腺病毒（AdBMP9）感染BIU-87细胞，采用定量PCR检测BMP9mRNA的表达，Western-blot检测BMP9蛋白及BMP9下游相关信号通路蛋白的表达；MTT及集落形成试验检测BIU-87细胞增殖能力；划痕愈合试验及TranswelITM小室迁移试验检测BIU-87细胞迁移能力。结果感染AdBMP9后，BIU-87细胞中BMP9的mRNA水平和蛋白水平均显著增加；过表达BMP9后，BIU-87细胞的体外增殖和迁移能力明显增加；Westerm-blot结果显示BMP9可明显激活AKT信号通路。结论高表达BMP9可能通过激活AKT信号通路促进人膀胱癌BIU-87细胞的增殖和迁移。
+
+[关键词］膀胱癌；骨形成蛋白9（BMP9)；BIU-87细胞；细胞增殖；细胞迁移
+
+# The effects of bone morphogenetic protein 9(BMP9) on the proliferation and migration of human bladder cancer BIU-87 cells
+
+[Abstract] Objective To investigate the effects of bone morphogenetic protein 9 (BMP9) on the proliferation and migration of human bladder cancer BIU-87 cells. Methods BIU-87 cells were infected with BMP9 recombinant adenovirus(AdBMP9); The mRNA levels of BMP9 were detected by Q-PCR; The BMP9 protein and its downstream associated signaling pathway protein levels were detected by Western-blot; The MTT and colony formation assay were used to test the proliferation of BIU-87 cells; The wound healing and TranswellTM chamber assay were taken to evaluate the migration of BIU-87 cells.Results The expression of
+
+BMP9 in BIU-87 cells was highly increased after AdBMP9 infection; Forced expression of BMP9 promotes both the proliferation and migration of BIU-87 cells; Western-blot results showed that BMP9 overexpression also increased AKT phosphorylation. Conclusion High levels of BMP9 may promote the proliferation and migration of bladder cancer BIU-87 cells by activating the AKT signaling pathway. [Key words] Bladder cancer; BMP9; BIU-87 cells； Cell proliferation; Cel migration;
+
+膀胱癌是男性泌尿生殖系统最常见的恶性肿瘤[。我国膀胱癌患者死亡率呈逐年上升趋势，高复发、高转移率及人口老龄化可能是其高死亡率的重要原因[2-3]。因此，探究膀胱癌发生发展的分子机制，对膀胱癌的治疗及预后有重要作用。本课题组在对LeeBladder数据库中256例膀胱黏膜标本（其中正常黏膜68例，表浅膀胱癌黏膜126例，浸润性膀胱癌黏膜62例）的基因序列分析比对时，发现膀胱癌细胞中骨形成蛋白9（BoneMorphogenetic Protein9,BMP9）的表达水平明显高于正常膀胱黏膜细胞 $\scriptstyle ( { \mathrm { P } } = 0 . 0 0 7$ )，提示BMP9可能参与了膀胱癌的发生发展过程。BMPs属于转化生长因子β（transforming growth factor beta，TGF- β）超家族，有研究表明，其在大多数肿瘤中均有异常表达[4]。BMP9又称生长分化因子2（Growth differentiation factor2，GDF2）,是BMP 家族的一员，参与骨形成、胚胎发育、肿瘤发生等多种生物学功能。本课题组前期研究证实BMP9可以抑制乳腺癌细胞的增殖与迁移[5],HerreraB等证实BMP9可以促进肝细胞癌细胞的增殖。同样作为BMP家族的成员，BMP2与BMP7被证实可以促进膀胱癌细胞的增殖[7]，而BMP9在膀胱癌中的作用鲜有报道。本课题使用腺病毒感染的方法，在较低恶性程度的膀胱癌BIU-87细胞中过表达BMP9，以此观察BMP9对膀胱癌细胞增殖及迁移能力的影响。
+
+# 1材料和方法
+
+1.1 材料
+
+人膀胱癌细胞BIU-87由重庆医科大学检验医学院保存，腺病毒Ad-BMP9 和Ad-GFP为本实验室保存；引物由金斯瑞生物科技有限公司合成；DMEM高糖培养基购于HyClone公司；胎牛血清购自赛默飞世尔公司；MTT试剂购于TaKaRa 公司；TranswellTM小室购于MERCKMillipore 生物公司；TRIzol 购于 Invitrogen 公司；逆转录及PCR 相关试剂购于TaKaRa公司；Westermblot及蛋白质提取相关试剂均购自上海碧云天生物技术公司；鼠抗人$\beta$ -actin单抗购自SantaCruz公司；兔抗人BMP9多克隆抗体购自Abcam公司；兔抗人 $\beta$ -catenin单抗购自CST公司；HRP标记山羊抗兔（鼠）IgG 购自中杉金桥公司。
+
+# 1.2 方法
+
+1.2.1细胞培养膀胱癌BIU-87细胞用 DMEM 高糖培养基（含100mL/LFBS、1000IU/mL青霉素、 $1 0 0 \mathrm { m g / m L }$ 链霉素）在 $3 7 ^ { \circ } \mathrm { C }$ 、 $5 0 \mathrm { m L / L }$ 二氧化碳的孵箱中静置培养。每2d用胰酶消化传代。
+
+1.2.2重组膀胱癌 BIU-87细胞的构建待细胞融合度达 $70 \% { \sim } 8 0 \%$ 时，分别使用相同滴度的腺病毒Ad-BMP9和Ad-GFP转染BIU-87细胞。6\~8小时后，换成不含血清和双抗的DMEM培养基。换液24h后，使用荧光显微镜检测细胞绿色荧光蛋白的表达情况。换液 $3 6 { \sim } 4 8 \mathrm { h }$ 后，使用TRIzol法提取RNA做逆转录及PCR分析； $4 8 { \sim } 7 2 \mathrm { h }$ 后，收集细胞并提取总蛋白做Westernblot 分析。
+
+1.2.2实时定量PCR 检测 BMP9 过表达Trizol法分别提取各组细胞RNA，取 $0 . 1 5 \mu \mathrm { g }$ 逆转录成cDNA，进行Q-PCR分析。 $\beta$ -actin正向引物为 $5 ^ { \prime }$ -GATGACCCAGATCATGTTTGAG-3',反向引物为5'-AGGGCATACCCCTCGTAGAT-3';BMP9的正向引物为5'-CTGCCCTTCTTTG-TTGTCTT-3'，反向引物为 $5 ^ { \prime }$ -CCTTACACTCGTAGGCTTCATA-3'。以 $\beta$ -actin作为内参对照。1.2.3Western blot检测 BMP9 蛋白过表达收集各组细胞后，使用蛋白裂解液 $4 ^ { \circ } \mathrm { C }$ 裂解$3 0 \mathrm { m i n }$ ， $4 ^ { \circ } \mathrm { C }$ 高速离心 $1 5 \mathrm { m i n }$ ，提取细胞总蛋白并定量。取 $5 0 \mu \ g$ 已加入上样缓冲液及煮沸变性的蛋白，在 $1 2 0 \mathrm { V }$ 电泳分离， $2 1 0 \mathrm { m A }$ 转移蛋白至PVDF 膜；转膜后用 $5 0 \mathrm { g / L }$ 的脱脂奶粉$3 7 ^ { \circ } \mathrm { C }$ 封闭 $6 0 \mathrm { { m i n } }$ ；加兔抗人BMP9 mAb（1：5000)，小鼠抗人 $\beta$ -actin mAb( $1 : 1 0 0 0 )$ ， $4 ^ { \circ } \mathrm { C }$ 过夜；洗膜 $1 0 \mathrm { m i n } \times 3$ 次，分别加入辣根过氧化物酶标记的山羊抗兔IgG 或辣根过氧化物酶标记的山羊抗鼠 $\mathrm { I g G } ( \mathrm { \Omega } 1 : 5 0 0 0 )$ ， $3 7 ^ { \circ } \mathrm { C }$ 孵育 $^ { \textrm { 1 h } }$ ；使用 $1 \times \mathrm { T B S T }$ 洗膜 $1 0 \mathrm { m i n } \times 3$ 次，ECL显影，最后用Quantity One4.6.2 软件，以 $\beta$ -actin 为内参对照对各组条带进行分析。
+
+1.2.4MTT 法检测 BIU-87细胞增殖情况取对数生长期 BIU-87细胞，调整细胞密度为$3 { \times } 1 0 ^ { 4 }$ 个 $/ \mathrm { m L }$ ，接种于96孔板中，每组设5个平行孔。使用AdBMP9和AdGFP分别转染BIU-87细胞6-8h后，换含 $1 0 \mathrm { m L / L }$ 小牛血清的DMEM培养基继续培养；分别于培养0h、24h、48h、72h 时，每孔加入 $1 0 \mu \mathrm { L } 5 \mathrm { m g / m L M T } ]$ T溶液， $3 7 ^ { \circ } \mathrm { C }$ 、 $5 0 \mathrm { m L / L }$ CO2 继续培养 $^ { 4 \mathrm { h } }$ ；吸尽孔中培养基，加入 $\mathrm { D M S O 1 5 0 \mu L }$ /孔，摇床混匀 $1 0 \mathrm { m i n }$ ，检测 $4 9 2 \mathrm { n m }$ 波长的吸光度(A）值。
+
+1.2.5集落生成实验使用重组腺病毒 AdBMP9 和AdGFP 分别转染 BIU-87细胞6-8h 后，换成不含血清和抗生素的DMEM培养基。继续培养24h后，胰酶消化并收集细胞。按 $1 \times 1 0 ^ { 3 } /$ 孔的密度接种于6孔板。培养8天后，使用多聚甲醛固定细胞并用结晶紫染液使细胞着色，观察集落生成情况。
+
+1.2.6划痕愈合试验按 $5 { \times } 1 0 ^ { 4 }$ 个/孔的密度将BIU-87细胞接种于6孔板，待细胞融合度达$80 \%$ 时，分别加入腺病毒AdBMP9和AdGFP 转染BIU-87细胞， $6 { - } 8 \mathrm { h }$ 后换液。24h后吸尽培养基，使用小枪头十字交叉划痕，PBS 洗涤2次，加入不含血清和抗生素的DMEM 培养基继续培养，分别于培养0和12h时，拍照观察同一位置划痕愈合情况，并计算平均划痕愈合率。
+
+1.2.7TranswelITM小室试验用重组腺病毒 AdBMP9 和AdGFP 分别转染 BIU-87细胞 6-8h后，换成不含血清和抗生素的DMEM培养基。继续培养24h后，胰酶消化并收集细胞，使用无血清无抗生素的DMEM培养基制成细胞密度为为 $1 \times 1 0 ^ { 5 }$ 个 $/ \mathrm { m L }$ 的单细胞悬液。小室上室加 $2 0 0 \mu \mathrm { L }$ 细胞悬液，下室加 $6 0 0 \mu \mathrm { L }$ 含 $1 0 0 ~ \mathrm { { m L / L } }$ 胎牛血清的DMEM培养基。培养24h后，取出小室，用棉签擦去小室上层未穿膜的细胞。使用多聚甲醛固定细胞并用结晶紫染液使细胞着色，显微镜下观察并计数穿膜细胞数。
+
+1.2.8每组实验均重复至少3次，采用GraphPad Prism5统计软件进行统计学分析，组间比较采用student-t统计分析， $\mathrm { P } { < } 0 . 0 5$ 表示差异有统计学意义。
+
+# 2 结果
+
+# 2.1 BMP9在正常膀胱黏膜与膀胱癌中的表达差异
+
+对Oncomine肿瘤相关基因数据库（www.oncomine.org）中的膀胱癌子数据库LeeBladder中256例膀胱黏膜标本（其中正常黏膜68例，表浅膀胱癌黏膜126例，浸润性膀胱癌黏膜62例）做基因比对分析发现，BMP9基因在膀胱癌细胞中的表达水平（包括浸润型膀胱癌细胞和基底型膀胱癌细胞）高于正常膀胱细胞（ $\scriptstyle \mathrm { P = } 0 . 0 0 7$ ，图1)，提示BMP9可能参与膀胱癌的发生发展过程。
+
+![](images/07870288a66308ec39b40e8d50edb5f164310bf29ff077bf44ed191a50f8c89c.jpg)
+
+BMP9 基因在256例膀胱黏膜标本中的表达差异。1：正常膀胱黏膜2：表浅型膀胱癌3：浸润型膀胱癌。 $^ { \mathrm { a } } P { < } 0 . 0 5$ （group 1 vs. group 2 or 3）。
+
+图1BMP9在正常膀胱黏膜与膀胱癌中的差异表达
+
+# 2.2 BIU-87细胞成功过表达BMP9
+
+RT-PCR结果显示，与空白组和AdGFP组相比，过表达BMP9组膀胱癌细胞 BIU-87细胞的BMP9的mRNA水平明显升高（ $\scriptstyle \cdot \mathrm { P } < 0 . 0 5$ ，图2A）。Western blot结果显示，过表达BMP9组BMP9蛋白表达水平也明显高于空白组和AdGFP组（ $\scriptstyle \mathbf { P < 0 . 0 5 }$ ，图2B)，说明AdBMP9过表达系统在膀胱癌BIU-87细胞中成功构建。
+
+![](images/802a1de2f67e594eea5b9c2add024b79b91e249b7f0cb96fcbcb9ef7674c3d3f.jpg)  
+图2重组BIU-87细胞的构建
+
+A：RT-PCR 检测 BIU-87 细胞中 BMP9 mRNA 的表达；B：Westerm blot 法检测 BMP9 蛋白的表达。Blank：空白对照组；AdGFP：绿色荧光素对照组；AdBMP9：过表达BMP9组。$^ { \mathrm { a } } P { < } 0 . 0 5$ (AdBMP9 vs.Blank or AdGFP)。
+
+# 2.3 过表达BMP9促进膀胱癌BIU-87细胞增殖
+
+集落形成实验显示，与空白组和AdGFP组相比，过表达BMP9组膀胱癌BIU-87细胞集落形成能力明显增加（ $\scriptstyle \mathbf { P < } 0 . 0 5$ ，图3A)，且过表达BMP9组BIU-87细胞形成的单个集落大小也大于对照组和空白组。MTT试验结果显示，从第48小时开始，过表达BMP9的BIU-87细胞吸光度值明显高于对照组和空白组（ $\scriptstyle \cdot \mathrm { P } < 0 . 0 5$ ，图3B)，提示BMP9可以促进膀胱癌BIU-87细胞的增殖。
+
+2.4过表达BMP9促进膀胱癌BIU-87细胞的迁移
+
+划痕愈合实验显示，过表达BMP9的BIU-87细胞12小时划痕愈合率较空白组和AdGFP对照组有较大提高（ $\scriptstyle \cdot \mathrm { P } < 0 . 0 5$ ，图4A）。Transwell小室实验显示，与空白组和AdGFP组相比，过表达BMP9 组BIU-87细胞穿膜细胞数明显较（ $\mathrm { \cdot } \mathrm { P } { < } 0 . 0 5$ ，图4B)，提示BMP9可以促进膀胱癌BIU-87细胞的横向和纵向迁移能力。
+
+![](images/15a5d10a3f26cc64c171d2d0433ad3afe10daec0641c59e9698ae0b4345807bf.jpg)
+
+A：集落形成试验检测膀胱癌BIU-87细胞的增殖。B：MTT法检测膀胱癌BIU-87细胞的增殖。Blank：空白对照组；AdGFP：绿色荧光素对照组；AdBMP9：过表达BMP9 组。 $^ { \mathrm { a } } P { < } 0 . 0 5$ （AdBMP9 vs.Blank orAdGFP）。
+
+![](images/1d12bcc1d0f8a1ef11a55604baae465a55486def1637c2dc63aa7966e34d9af1.jpg)  
+图3BMP9促进膀胱癌BIU-87细胞的增殖
+
+A：划痕愈合试验检测膀胱癌BIU-87细胞的横向迁移能力；B：Transwell迁移试验检测膀胱癌 BIU-87细胞的纵向迁移能力。Blank：空白对照组；AdGFP：绿色荧光素对照组;AdBMP9：过表达BMP9组。 $^ { \mathrm { a } } P { < } 0 . 0 5$ (AdBMP9 vs.Blank or AdGFP)。
+
+图4BMP9促进膀胱癌BIU-87细胞的迁移
+
+# 2.5 BMP9活化AKT信号通路
+
+有文献报道AKT信号通路的激活是膀胱癌发生发展的重要因素，于是本研究用Western-blot检测AKT蛋白的表达和激活。如图5所示，与空白组和AdGFP组相比，过表达BMP9后，膀胱癌BIU-87细胞的总AKT蛋白表达量没有明显
+
+变化，但磷酸化AKT蛋白的水平显著提高‘ $( \mathbf { P } { < } 0 . 0 5$ ，图5)，提示BMP9可能通过激活AKT信号通路促进膀胱癌BIU-87细胞的增殖和迁移。
+
+![](images/a0983cad5823fee123b9ba21db57f2db8465dd1aba5c791e91e38242528b6f46.jpg)
+
+Western-blot检测AKT蛋白的表达和激活。Blank：空白对照组；AdGFP：绿色荧光素对照组；AdBMP9：过表达BMP9 组。 $^ { \mathrm { a } } P { < } 0 . 0 5$ (AdBMP9 vs.Blank or AdGFP)。
+
+图5BMP9激活BIU-87细胞的AKT信号通路
+
+# 3 总结
+
+作为泌尿系统最常见的恶性肿瘤，膀胱癌的治疗手段以手术切除原发病灶以及术后化疗为主。但由于膀胱癌发病隐匿，新发现的膀胱癌往往已经伴有肌层浸润甚至远处转移[8-10]。有研究资料显示，2014 年，美国74690 例新发膀胱癌患者中有15580 例患者因膀胱癌死亡[I]。高远处转移率及复发率是造成膀胱癌高致死率的主要原因[12-13], $50 \%$ 的肌层浸润性膀胱癌患者在确诊后3年内发生转移和死亡[14]。因此，对膀胱癌的生长及转移机制的研究尤为重要。
+
+本课题通过对数据库中膀胱癌细胞与正常膀胱黏膜细胞做基因序列比对，发现BMP9在膀胱癌细胞中有高表达（ $\scriptstyle \cdot \mathbf { P } = 0 . 0 0 7 .$ )，提示BMP9可能参与了膀胱癌细胞的生长转移等生物学活动。由于数据库结果显示BMP9在膀胱癌细胞中的表达水平并无明显差异，为研究BMP9在膀胱癌细胞中可能存在的促进作用，我们使用重组腺病毒AdBMP9转染分化程度较高的膀胱癌BIU-87细胞，研究BMP9对BIU-87细胞生物学活动的影响。首先使用实时RT-PCR和Western blot分别检测过表达BMP9后膀胱癌细胞中BMP9基因与蛋白水平的变化，结果显示，过达BMP9 组与对照组相比，BMP9的mRNA与蛋白水平都有明显上升，证实BMP9在膀胱癌BIU-87细胞中成功过表达；MTT试验与集落形成试验结果显示，过表达BMP9后，BIU-87细胞的增殖能力明显上升；划痕愈合试验与Transwell试验表明,过表达BMP9可以促进BIU-87细胞的横向和纵向迁移能力。
+
+已有文献报道，AKT信号通路在促进膀胱癌细胞的增殖和迁移中发挥重要作用[15-17]，而在膀胱癌 BIU-87 细胞中过表达BMP9 后，AKT 的磷酸化明显高于对照组，提示BMP9可能通过活化AKT信号通路促进膀胱癌细胞的增殖迁移。在后续研究中，我们将进一步探讨BMP9促进膀胱癌细胞增殖迁移的机制。近年来发现某些非编码RNA在肿瘤细胞的发生发展过程中起到关键作用，一些miRNAs(如 miRNA-100[18-19],miRNA-214[20-21]等)和 LncRNAs(如 Lnc-n336928[22],ANRIL[23]，UCA1[24]等)被证实可以调节膀胱癌细胞增殖与侵袭的过程，并且活化的AKT信号通路对膀胱癌细胞增殖侵袭的促进作用，往往都需要miRNAs与LncRNAs 的参与[25-27]，所以在后续实验中，我们将重点研究BMP9 与上述非编码RNA之间的关系，以进一步地研究BMP9促进膀胱癌细胞增殖迁移的机制。
+
+BMP9对膀胱癌促进作用的发现，可以为临床上膀胱癌的治疗和诊断提供新的思路。理论上，膀胱癌病人血清中高浓度的BMP9可能预示着该病人的膀胱癌细胞有着更高的增殖转移能力，而病灶局部使用抗BMP9的药物可能对膀胱癌细胞有抑制作用，以上猜想将在后续试验中进行验证。
+
+综上，本课题通过在膀胱癌BIU-87细胞中过表达BMP9，证实BMP9可以促进BIU-87细胞的增殖与迁移，且该促进作用可能是通过活化AKT信号通路实现的。
+
+# 参考文献
+
+[1] Siegel R L,Miller K D, Jemal A. Cancer statistics,2O16[J]. Ca A Cancer Journal fol Clinicians,2016, 66(1):7.   
+[2]韩苏军，张思维，陈万青,等．中国膀胱癌发病现状及流行趋势分析[J]．癌症进展, 2013， 11(1) :89-95. Han SJ, Zhang SW, Chen WQ, et al. Analysis of the status and trends of bladder cancer incidence in China[J]. Oncology Progress, 2013,11(1):89-95.   
+[3] 韩苏军，张思维，陈万青,等．中国膀胱癌死亡现状及流行趋势分析[J]．现代泌尿外科 杂志,2013,18(3):228-232. Han SJ, Zhang SW, Chen WQ, et al. Analysis of the status quo and trends: mortality in patients with bladder cancer in China[J], Journal of Modern Urology, 2013,18(3):228-232.   
+[4] Alarmo E L, Kallioniemi A. Bone morphogenetic proteins in breast cancer: dual role in tumourigenesis?[J]. Endocrine-related cancer, 2010, 17(2):R123.   
+[5] Wang K,Feng H, Ren W,et al. BMP9 inhibits the proliferation and invasiveness of breast cancer cells MDA-MB-231[J]. Journal of Cancer Research & Clinical Oncology, 2011, 137(11):1687-1696.   
+[6] Herrera B, Garcia-Alvaro M, Cruz S, et al. BMP9 is a proliferative and survival factor for human hepatocellular carcinoma cells[J]. Plos One,2013,8(7):e69535.   
+[7] Kuzaka B,Janiak M, Wlodarski K H, et al. Expression of bone morphogenetic protein-2 and -7 in urinary bladder cancer predicts time to tumor recurrence[J]. Archives of Medical Science,2015,11(2):378-384.   
+[8] Soloway M S. Editorial comment on: EAU guidelines on non-muscle-invasive urothelial carcinoma of the bladder[J]. European Urology, 2008, 54(2):313.   
+[9] van Rhijn B W, Burger M Y. Recurrence and progression of disease in non-muscle-invasive bladder cancer: from epidemiology to treatment strategy[J]. European Urology, 2009, 56(3):430.   
+[10] Yeung C, Dinh T,Lee J. The health economics of bladder cancer: an updated review of the published literature[J]. Pharmacoeconomics,2014,32(11):1093-1104.   
+[11] Siegel R,Ma J, Zou Z, et al. Cancer statistics,2014.[J]. Ca A Cancer Journal for Clinicians, 2014, 64(1):9.   
+[12] Xue M, Xu L I, Wenjing W U, et al. Upregulation of long non-coding RNA urothelial carcinoma associated 1 by CCAAT/enhancer binding protein α contributes to bladder cancer cell growth and reduced apoptosis[J]. Oncology Reports, 2014, 31(5):1993-2000.   
+[13] Jacobs B L,Lee C T,Montie JE. Bladder Cancer in 2010: How Far have We Come?[J]. Ca A Cancer Journal for Clinicians, 2010, 60(4):244-272.   
+[14] 葛仙伟，黄后宝．膀胱癌相关分子生物学研究现状[J]．承德医学院学报,2017, 34(4):329-332. Ge XW, Huang HB. Current status of molecular biology in bladder cancer[J]. Journal of Chengde Medical College, 2017, 34(4):329-332.   
+[15] Wu W, Zhang S, Li X, et al. Ets-2 Regulates Cell Apoptosis via the Akt Pathway, through the Regulation of Urothelial Cancer Associated 1,a Long Non-Coding RNA, in Bladder Cancer Cells[J]. Plos One,2013,8(9):e73920-e73920.   
+[16] Chen W,Luo K,Ke Z,et al. TBK1 Promote Bladder Cancer Cell Proliferation and Migration via Akt Signaling[J]. Journal of Cancer,2017, 8(10):1892-1899.   
+[17] Chen Z. B7-H3 Promotes the Migration and Invasion of Human Bladder Cancer Cells via the PI3K/Akt/STAT3 Signaling Pathway[J]. Journal of Cancer, 2017, 8(5):816-824.   
+[18] 马明，金国江，付立业．上调 microRNA-100 对结肠癌 HT-29 细胞增殖和侵袭的影响 [J]．现代肿瘤医学,2016,24(7):1031-1033. Ma M, Jin GJ,Fu LY. The effect of up -regulating microRNA -100 in colon cancer HT -29 cells on prolifera-tion and apoptosis[J]. Journal of Modern Oncology, 2016, 24(7):1031-1033.   
+[19] Xu C， Zeng Q，Xu W,et al. miRNA-10O Inhibits Human Bladder Urothelial Carcinogenesis by Directly Targeting mTOR[J]. Molecular Cancer Therapeutics,2013,
+
+12(2):207.
+
+[20] Wang J, Zhang X, Wang L, et al. Downregulation of urinary cell - free microRNA - 214 as a diagnostic and prognostic biomarker in bladder cancer[J]. Journal of Surgical Oncology, 2015, 111(8):992.   
+[21] Xing J Z, Hua Y, Cheng W Z, et al. Dysregulation of miR-15a and miR-214 in human pancreatic cancer[J]. Journal of Hematology & Oncology, 2010,3(1):46.   
+[22] Tao C, Wu C, Hu H. AB266. Expression of long noncoding RNA IncRNA-n336928 is correlated with tumor stage and grade and overall survival in bladder cancer[J]. Biochemical & Biophysical Research Communications, 2015, 468(4):666-670.   
+[23] Zhu H, Li X, Song Y, et al. Long non-coding RNA ANRIL is up-regulated in bladder cancer and regulates bladder cancer cell proliferation and apoptosis through the intrinsic pathway.[J]. Biochem Biophys Res Commun, 2015, 467(2):223-228.   
+[24] Wang Y, Chen W, Yang C, et al. Long non-coding RNA UCA1a(CUDR) promotes proliferation and tumorigenesis, of bladder cancer[J]. International Journal of Oncology, 2012, 41(1):276.   
+[25] Liang Z, Wang X, Xu X, et al. MicroRNA-608 inhibits proliferation of bladder cancer via AKT/FOXO3a signaling pathway[J]. Molecular Cancer,2017,16(1):96.   
+[26] Li Y, Shan Z,Liu C, et al. MicroRNA-294 Promotes Cellular Proliferation and Motility through the PI3K/AKT and JAK/STAT Pathways by Upregulation of NRAS in Bladder Cancer[J]. Biochemistry Biokhimiia, 2017, 82(4):474.   
+[27] Wu W, Zhang S, Li X, et al. Ets-2 Regulates Cell Apoptosis via the Akt Pathway, through the Regulation of Urothelial Cancer Associated 1,a Long Non-Coding RNA, in Bladder Cancer Cells[J]. Plos One,2013,8(9):e73920-e73920.

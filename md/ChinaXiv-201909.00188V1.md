@@ -1,0 +1,252 @@
+# 基于聚类的星系光谱分析
+
+张茜，张健楠，赵永恒(1.中国科学院光学天文重点实验室（国家天文台），北京100101;2.中国科学院大学，北京100049)
+
+摘要：各类大型巡天项目产生了海量天文数据，因此需要研究适用于大规模数据的光谱自动处理方法。传统的基于谱线检测或BPT图的星系光谱分类方法难以直接应用于星系光谱自动分类 pipeline，相比之下基于机器学习的光谱自动分析更适用于海量天文数据的分类研究。本文提出了一种基于双层聚类的星系光谱分析方法。第一层采用 $\mathrm { ~ k ~ }$ 均值聚类算法将星系光谱聚为吸收线星系和发射线星系，第二层使用CLARA（ClusteringLARgeApplications）聚类算法将发射线星系聚为5簇。对LAMOSTDR5的星系数据进行实验，其结果表明：（1）第一层 $\mathbf { k }$ 均值聚类能够成功将星系光谱分为吸收线星系和发射线星系，聚类簇与基于谱线检测的分类结果基本一致。（2）第二层CLARA聚类结果能够在BPT图中反映出不同的星系类型。（3）光谱聚类结果与颜色星等图分类存在预期的相关性。（4）k均值聚类和CLARA聚类能够适用于大规模数据自动分析处理，聚类结果能够很好地反映出星系的物理性质和演化过程，簇心数据可以为光谱自动分类pipeline 提供模板。
+
+关键词：LAMOST; 聚类；星系光谱分类；大样本光谱分析;
+
+中图分类号：P157.1 文献标识码：A 文章编号：
+
+# 0引言
+
+星系光谱分类对于研究星系的形成与演化具有重要意义。传统星系分类方法包括：基于形态学的哈勃分类法，根据星系外形将星系分为椭圆星系、旋涡星系、棒旋星系和不规则星系；基于颜色的分类法，Strateva[分析 SDSS 数据时发现颜色星等图服从双峰分布，蓝色星系和红色星系各有峰值，双峰之间为绿谷；以及基于光谱的 Baldwin,Phillips,Terjevich(BPT)诊断图的分类方法，经过多年的改进形成了基于线强比诊断图的分类方法，目前常用经验分割线有Kauffmann 提出的用于识别纯恒星形成星系（Star-Forming，简称 SF）的分割线[3],Kewley 等人提出的用于识别纯活动星系核星系（AGN）的分割线[4，以及Kewleyl5]和CidFernandes[分别提出的用于区分 LINER（Low-Ionization Nuclear Emission-Line Region）星系和 Seyfert2星系的分割线。
+
+大型巡天项目的实施为天文领域提供了海量光谱数据，例如2dF、6dF、RAVE、SDSS、LAMOST、GAIA等，其中LAMOSTDR5发布星系光谱多达15万余条，必须研究光谱自动分类技术用于大规模光谱数据的分类研究。传统的基于谱线检测或BPT图的星系光谱分类方法需要进行星族成分合成，由于此过程复杂且耗时，不适用于海量光谱数据的处理，无法直接用于光谱自动分类pipeline，相比之下，基于机器学习的光谱自动分类方法更适用于海量天文数据的分析研究。目前有许多机器学习方法成功应用于天体分类的案例，包括监督型和无监督型分类方法。无监督型的分类方法有主成分分析（PCA）法，它广泛运用于星系光谱的识别与分类中，例如SLOAN巡天项目中的光谱处理系统就是利用星系光谱主成分进行星系光谱的识别[，另外 Almeida8成功将k均值方法应用于星系光谱分类中，分类结果
+
+40 能很好地体现星系演化过程。监督型分类方法有许多，例如文[9]使用基于Fisher 判别分析  
+41 的有监督特征提取方法对类星体和正常星系分类，文[10]使用支持向量机方法对活动天体和  
+42 非活动天体分类，文[11]使用决策树方法对星系形态学分类。
+
+聚类属于无监督型方法，具有算法简单、收敛速度快和准确率高的特点。聚类主要依赖于数据特征进行自动分类，过程独立且受主观因素影响小，相较于监督型方法，不需要提供已有标签数据进行训练，同时聚类结果中数量较少的簇有助于发现稀有天体。本文针对LAMOSTDR5中星系光谱数据，设计了双层聚类方法对星系光谱进行聚类分析。本文结构如下：第1节为双层聚类方法介绍，第2节介绍了星系光谱聚类实验，包括预处理方法、实验步骤和参数选择等，第3节对实验结果进行分析，从聚类结果是否有效和是否具有物理性质两方面分析，将聚类实验结果与基于谱线检测、BPT图和颜色星等图的分类结果进行比较，第4节为结论。
+
+# 51 1双层聚类方法
+
+针对星系光谱特点和不同聚类算法的特点，本文提出了双层聚类方法对星系光谱进行聚类分析。第一层采用k均值聚类算法[12将星系光谱分为吸收线星系和发射线星系，k均值聚类算法简单，能够快速收敛，对于大数据处理具有伸缩性，适用于大规模星系光谱处理。第二层采用CLARA 聚类算法[13]将发射线星系聚为5个子类，CLARA算法简单，对噪声不敏感，适用于大规模数据。
+
+# $1 . 1 \mathrm { ~ k ~ }$ 均值聚类算法
+
+k 均值（k-means）聚类算法的核心内容就是将数量为 $n$ 的样本划分为 $k$ 类，并且每个样本点到聚类中心的距离平方和最小。
+
+k-means算法基本步骤如下：
+
+输入： $n$ 个样本和聚类个数 $k$ 。
+
+输出：将样本划分为 $k$ 类。
+
+（1）从 $n$ 个样本中选取 $k$ 个初始点作为初始聚类中心;
+
+（2）计算每个样本点与聚类中心的距离，将样本划分到距离它最近的聚类中心所属的类；
+
+（3）重新计算每一类中所有样本点的平均值作为新的聚类中心，并计算每个样本点到它所在类的聚类中心的距离平方和 $D$
+
+（4）判断聚类中心和 $D$ 是否改变，若改变，更新聚类中心后重复2、3步，否则聚类结束。
+
+影响聚类效果的因素有很多， $k$ 值的选取、初始聚类中心的选取方法以及距离测度方法都会影响聚类效果。 $k$ 值的选取方法包括凭经验选取和按密度选取。挑选初始聚类中心常用的方法有四种。一是随机选取 $k$ 个样本作为初始聚类中心；二是随机采用样本空间中 $1 0 \%$ 的数据做预聚类，预聚类的初始聚类中心也是随机挑选的；三是根据样本的取值范围均匀的随机选取 $k$ 个聚类中心；四是考虑权重的k-means $^ { + + }$ 方法，随机选取第一个聚类中心后，计算所有点到此聚类中心的距离，将距离作为权重来选择下一个聚类中心，目的是使距离大的点被选中的概率更大一些，然后重复选取 $k$ 个聚类中心。距离度量方法有：欧氏距离、曼哈顿距离、余弦距离和相关距离等。
+
+本文聚类实验中，在考虑到光谱的特点并对比多种距离后选取相关距离作为距离度量方法，相关距离为 $d = 1 - \rho$ ，其中 $\rho$ 为相关系数，用于判断随机变量×与Y的相关程度，其表达式为：
+
+$$
+\rho = { \frac { \operatorname { c o v } ( X , Y ) } { { \sqrt { D ( X ) } } { \sqrt { D ( Y ) } } } } = { \frac { E ( ( X - E ( X ) ) ( Y - E ( Y ) ) ) } { { \sqrt { D ( X ) } } { \sqrt { D ( Y ) } } } }
+$$
+
+$\rho$ 取值范围为[-1,1]，绝对值越大，表明 $\mathsf { x }$ 与Y的相关度越高。
+
+# 1.2CLARA聚类算法
+
+K-means 聚类算法对噪声敏感度高， $\mathbf { k }$ 中心点（ $\mathrm { ~  ~ \cdot ~ } _ { \bf k }$ -medoids）[14]聚类是对 $\mathbf { k }$ -means 的改进,k-means算法更新聚类中心是求取类内平均值，而 $\mathbf { k }$ -medoids将每个点代替聚类中心，降低离群点对聚类结果的影响。
+
+$\mathbf { k }$ -medoids算法基本步骤如下：
+
+输入： $n$ 个样本和聚类个数 $k$ 。
+
+输出：将样本划分为 $k$ 类。
+
+（1）从 $n$ 个样本中选取 $k$ 个初始点作为初始聚类中心;
+
+（2）计算所有样本点到聚类中心的距离，将样本划分到距离最近的聚类中心所在的类;
+
+（3）随机选择一个非聚类中心点，计算此点代替原聚类中心的总代价，重复此步骤直到所有非聚类中心点都被判断过；
+
+（4）判断每个非聚类中心点代替原中心点的总代价，若有小于0的，从中挑选出总代价最小的一个所对应的非聚类中心点，将此点作为新的聚类中心;
+
+（5）重复（3）、（4）步骤，直到聚类中心点不变，聚类结束。
+
+判断能否用新的非聚类中心点 $O h$ 代替原聚类中心点 $o i$ ，对于每一个非中心点 $o j$ 都要满足如下规则：无论 $o j$ 原来属于 $O i$ 类还是另一个 $O m$ 类，当 $O h$ 替换 $o i$ 后， $O j$ 会分配给距离它最近的类，可以是 $o i$ 或 $O m$ ，也可以是新的类 $O h$ 。
+
+新的非聚类中心点 $O h$ 代替原聚类中心点 $o i$ 的总代价是所有非中心点对象产生的代价之和。计算公式如下：
+
+$$
+T C _ { i h } = \sum _ { j = 1 } ^ { n } C _ { j i h }
+$$
+
+其中，Cjih 表示 $O j$ 在 $o i$ 被 $O h$ 代替后产生的代价，即 $o j$ 到原聚类中心的距离与 $o j$ 到新聚类中心的距离之差。若总代价为负， $o i$ 能被 $O h$ 替换，若总代价为正，则说明原聚类中心 $o i$ 不需要变化。
+
+由于 $\mathbf { k }$ -medoids聚类算法需要穷举类内点以达到寻找最优解的目的，此方法只适用于小规模数据。CLARA（Clustering Large Applications）是对 $\mathbf { k }$ -medoids聚类算法的改进，用抽样样本代表全部数据计算聚类中心，能够应用于大规模数据聚类。
+
+CLARA算法基本步骤如下：
+
+输入： $n$ 个样本，聚类个数 $k$ ，抽样次数 $\mathbf { \nabla } _ { m }$ 。
+
+输出：将样本划分为 $k$ 类。
+
+（1）重复 $\mathbf { \nabla } _ { m }$ 次从全部样本中抽取（ $\ 4 0 + 2 k )$ ）个样本，每次重复执行（2）～（4）步骤;  
+（2）对此样本集使用 $\mathbf { k }$ -medoids聚类，选出 $k$ 个聚类中心;
+
+（3）计算全部样本中每个非聚类中心点到聚类中心的距离，将其划分到距离最近的聚类中心所在的类;
+
+116 （4）计算（3）步中的总代价，若小于当前值，则此聚类中心作为最佳聚类中心应用于  
+117 全部样本，否则返回步骤（1），开始下一循环。
+
+# 2星系光谱聚类实验
+
+# 2.1数据预处理
+
+本文采用的数据是从LAMOSTDR5的153093条星系光谱中随机选取的30000条光谱。
+
+因为缺少相应的测光设备，LAMOST采用相对流量定标，即选择质量较好的F型矮星作为标准星，得到仪器的响应曲线，但是这些标准星的红化可能导致连续谱的不确定性，因此，需要对光谱进行重定标。本文采用SLOAN的 $\mathbf { u , g , r , i , z }$ 波段的 fiber星等，在一定程度上校正LAMOST的连续谱。
+
+重定标之后对光谱进行退红移处理，将其移至静止波长后，对光谱进行重采样，采样波长区间为3600-9000A，采样间隔为 $1 \mathring \mathrm { A }$ 。
+
+为避免噪声、环境等因素的影响，需要对光谱进行流量标准化，本文采用 $S _ { u n i t }$ 标准化方法。假设 $x$ 是一条光谱，记为 $\boldsymbol { x } = ( x _ { 1 } , x _ { 2 } , \cdots , x _ { n } ) ^ { T }$ ，它是 $\mathbf { n }$ 维欧氏空间中的一个向量，流量标准化方法为[9]：
+
+$$
+y = x / \sqrt { \sum _ { i = 1 } ^ { n } x _ { i } ^ { 2 } }
+$$
+
+在去除无法进行重定标和红移为坏值的光谱后，剩余27272条星系光谱用于聚类实验。
+
+# 2.2聚类实验
+
+使用 $\mathbf { k }$ -means 聚类算法和CLARA聚类算法对LAMOSTDR5中星系光谱进行聚类。实验分为两层，第一层用 $\mathbf { k }$ -means将星系光谱分为吸收线星系和发射线星系，第二层用CLARA将发射线星系光谱细分类。
+
+第一层，使用 $\mathbf { k }$ -means聚类算法，将预处理后的27272条星系光谱分为发射线星系和吸收线星系。以年老恒星为主的早型星系的光谱以吸收线为主，发射线很弱甚至无法被探测到，相对年轻的晚型星系中有一部分与早型星系相似，发射线很弱，更晚型的星系中吸收线逐渐失去主导地位，发射线越来越明显。为使发射线和吸收线特征更为突出，将光谱去除连续谱。这里采用中值滤波方法拟合连续谱，用光谱流量减去连续谱得到谱线信息，对谱线信息进行聚类。
+
+考虑到还有同时具有发射线和恒星成分的一类星系，选取 $\mathbf { k }$ 值为3，用 $\mathbf { k }$ -means $^ { + + }$ 方法获取初始聚类中心，使用相关距离作为距离度量方法。
+
+第二层，使用CLARA聚类算法，将第一层聚类得到的发射线星系再进行细分类。连续谱可以反映出一部分发射线星系的特征，因此这一层聚类不需要去除连续谱。选取r波段信噪比大于5的共12689条星系光谱。为避免天光线的影响，用中值滤波法去噪，滤波窗口宽度为5。考虑到一部分样本仅在波长为 $3 6 0 0 { - } 7 9 0 0 { \mathring \mathrm { A } }$ 有流量值，且CLARA聚类算法依赖于样本点，所以选择3600-7900A范围内的光谱进行实验。
+
+抽样次数为100，使用相关距离作为距离度量方法。为选取较优的k值，画出SSE（簇内误差平方和）随 $\mathbf { k }$ 值变化曲线，依据肘部法则，在 $\mathrm { k } { = } 5$ 时观察到明显肘型，因此选取 $\mathbf { k } { = } 5$ 。
+
+![](images/d219e9e80e4cc564811a01158310a16802a81ee346c13d4f8fdd34e74faba963.jpg)  
+图1SSE随k值变化图  
+Fig.1 The graph of SSE changingwithkvalue.
+
+# 3星系光谱聚类结果分析
+
+# 3.1第一层聚类结果分析
+
+k-means 聚类算法将 27272条星系光谱分为三簇cluster1，cluster2，cluster3，通过每一簇的聚类中心（图2）可以看出其星系类型。发射线星系光谱以发射线为主，clusterl 发射线明显，为恒星成分很弱的强发射线星系，吸收线星系光谱吸收线占主导地位，发射线很弱甚至无法被探测到，由此看出cluster2 属于吸收线星系，cluster3 发射线弱，为有恒星成分的弱发射线星系。
+
+![](images/4d0af9b86490daec8290b66c8f282630f498a9ca71503a79584f338c98c276b4.jpg)  
+图2 第一层聚类的聚类中心。左、中、右图分别为clusterl、cluster2和cluster3 的聚类中心
+
+Fig.2Theclusteingcentesoftefster.Teusteigcnterofusterlcusteradustearesowonteleft,dledig
+
+为探究聚类的稳定性，将k-means聚类方法应用于不同信噪比子集，分别从27272条星系光谱中取r波段信噪比大于5、10、15、20的四个子集，分别包含 23465、15593、9120、5166条光谱数据。将 $\mathbf { k }$ -means用于每个子集，得到的聚类中心见图3，图3中四行图分别为r波段信噪比大于5、10、15、20的四个子集的聚类中心，为了便于比较将得到的聚类中心分别按发射线星系、吸收线星系和弱发射线星系排列，三列分别为cluster1、cluster2和cluster3簇的聚类中心，mem表示此类所含样本个数，由不同子集的聚类中心都能反映出发射线星系、吸收线星系和弱发射线星系可以看出，k-means 聚类算法能够稳定聚类出这三种星系。
+
+![](images/c815fdccdb45a878caee7987bea768aa987dc61fa1e7a6b083e3dbfac0014b81.jpg)  
+图3不同信噪比子集的聚类中心。四行由上至下分别为 $\mathrm { ~  ~ { ~ r ~ } ~ }$ 波段信噪比大于5、10、15、20 的四个子集的聚类中心，三列分别为每个子集的三个聚类中心，其中mem 表示此类所含光谱数。
+
+Fig.3TheclusteringcentersofdiferentSNRsubsets.Thefourrowsfromtoptobottomaretheclustercentersof thefoursubsetswith r-bandSNRgreaterthan5,O,5,ndOandthteeolumsaretheteecusterentersfeachsubset,herememidicateste numberofdatain thecluster.
+
+计算每一条光谱与每个聚类中心的距离，第i个簇clusteri的每一个样本与第j个聚类中心centerj的距离统计图见图4，其中三列图分别为三个簇中每一个样本与聚类中心的距离统计图，不同颜色代表不同信噪比数据集。整体来看，clusteri与其本身的聚类中心距离相较于其他聚类中心更近。由图4中左列可以看出簇cluster1与center1的距离靠近0，与另两个聚类中心距离远，明显的三个峰表明第一个簇与另两个簇区分度明显。簇cluster2 和cluster3 在同一信噪比子集下，距离其本身的聚类中心距离更近，如图中第二列cluster2 在信噪比大于0时（红色），距离center1-3的统计图峰值分别为1、0.65、0.8。虽然簇cluster2和cluster3与其类内聚类中心的距离分布没有接近0，但是从不同信噪比子集下的距离分布可以看出，随着信噪比的提高，簇cluster2和cluster3与其类内聚类中心的距离越来越靠近0，如cluster2-center2 图中，随着信噪比的提高，峰值从0.65 降至0.4。
+
+每个样本与聚类中心相关距离分布也代表着类内距离分布，类内光谱的叠加得到的聚类中心信噪比提高，与相对信噪比较低的样本数据的相关性达不到1，所以cluster2-cneter2 和cluster3-center3的距离分布没有接近0。从这个分布情况也可以看出cluster2和cluster3 的类内分布不够紧致。
+
+clusterl-centerl cluster2-center1 cluster3-centerl   
+Kouanba SNR,> 15 □S Aouanbay SNR,/> SNR_r>10 g 一 SNR_r>10 SNR_r>10 SNR_r>15 SNR_r>15 SNR_r>15 SNR_r>20 SNR_r>20 SNR_r>20 5 0 0.0 0.2 0.4 0.6 0.8 00.0 0.2 0.4 0.6 0.8 00.0 0.2 0.4 0.6 0.8 distance distance distance clusterl-center2 cluster2-center2 cluster3-center2   
+国 聘 ouanbay SNR_r>5 SNR_r>10 SNR_r>15 SNR_r>20 00.0 0.2 0.4 0.6 0.8 0 0.0 0.2 0.4 0.6 0.8 00.0 0.2 0.4 0.6 0.8 distance distance distance clusterl-center3 cluster2-center3 cluster3-center3   
+uanbal SNR_r>0 中 ouonba SNR_r>0 SNR_r>5 一 SNR_r>5 SNR_r>10 SNR_r>10 SNR_r>15 □ SNR_r>15 SNR_r>20 □ SNR_r>20 00.0 0.2 0.4 0.6 0.8 0 0.0 0.2 0.4 0.6 0.8 00.0 0.2 0.4 0.6 0.8 distance distance distance
+
+Fig.4Thedistancestaisticalgraphoftecustersandteustercentersoftefstlaer.Thefgurshowsthedistancestatistisofeach sampleofthe-tusterclusteriandthej-thustercntercenterj,andtecolorsepresentdierentsignal-to-oseatiodatasets.
+
+将此聚类结果与传统分类方法的结果进行比较。传统区分吸收线星系和发射线星系，常使用 $S / N _ { \lambda } \geq 3$ 作为判断依据，这里 $S / N _ { \lambda }$ 为谱线 $\lambda$ 的信噪比。文[3-4]筛选发射线星系对 $H \alpha$ 、$H \beta$ 、[OIII]λ5007 和 $[ N I I ] \lambda 6 5 8 5$ 四条谱线都采用 $S / N _ { \lambda } \geq 3$ 的筛选条件，但Cid Fernandes[]等人发现，对四条谱线都进行筛选会使一些弱发射线星系被忽略，所以本文只对 $H \alpha$ 进行筛选。
+
+聚类结果中cluster1和cluster3为发射线星系，cluster2为吸收线星系，与用 $H \alpha$ 分类的结果进行比较（表1），聚类结果与用 $H \alpha$ 分类的结果一致的数目在聚类每一类中的占比分别为： $9 7 . 7 9 \%$ 、 $8 0 . 8 0 \%$ 、 $8 4 . 5 2 \%$ 。对于全部数据， $\mathbf { k }$ -means聚类结果中有 $8 9 . 0 \%$ 的星系与 $H \alpha$ 分类结果一致。
+
+Tab.1 The comparison of the number between $\mathbf { k }$ -means and Hα detection
+
+表1k-means聚类结果与 $H \alpha$ 筛选结果数目比较  
+
+<html><body><table><tr><td>数目 (类内百分比)</td><td>Hα筛选为发射线星系</td><td>Hα筛选为吸收线星系</td><td>总计</td></tr><tr><td>clusterl（发射线星系）</td><td>12109 (97.79%)</td><td>274(2.21%)</td><td>12383</td></tr><tr><td>cluster2（吸收线星系）</td><td>2169(19.20%)</td><td>9126 (80.80%)</td><td>11295</td></tr><tr><td>cluster3（发射线星系）</td><td>3038(84.52%)</td><td>556(15.47%)</td><td>3594</td></tr><tr><td>总计</td><td>17316</td><td>9956</td><td>27272</td></tr></table></body></html>
+
+每个簇的光谱的颜色星等图见图5，黄色散点为全部光谱样本分布，黑色散点为每一簇中光谱的分布。颜色星等图服从双峰分布，两端分布为红色和蓝色部分，过渡区为绿谷，可以明显看出发射线星系clusterl分布在蓝色区域，吸收线星系cluster2分布在红色区域，具有弱发射线的cluster3分布在绿谷，这符合早型星系大多为红色，晚型星系大多为蓝色的基本规律。
+
+![](images/5498e26d0efb272ffb629701536dbdd2ff8910f44dca21298c37df0a577e8268.jpg)  
+图5 第一层聚类结果的颜色星等图。左、中、右图分别为cluster1、cluster2 和cluster3 的的颜色星等图，其中黄色散点为全部光谱样本，黑色散点分别为每一类光谱样本  
+Fig.5Plots of $u { - } g$ VS. $g - r$ of the first layer of clustering.The plots of $u { - } g$ VS. $g { - } r$ of cluster1,cluster2 and cluster3 are shown on the left,middleandright.Theyelloscatterpointsisteholespctralsamplesandteblacksaterpontsistespectrumofeachclas
+
+由实验结果可以看出 $\mathbf { k }$ -means聚类算法可以快速高效地将星系光谱聚类为吸收线星系和发射线星系，对于大规模数据， $\mathbf { k }$ -means聚类也能快速收敛，聚类结果能够体现出星系的物理性质，与传统分类结果基本一致，因此k-means 聚类方法对星系分类是可行的，聚类中心可以为星系自动分类pipeline 提供模板，与基于谱线分析得到的高信噪比模板，此模板抗噪性更强。
+
+# 3.2第二层聚类结果分析
+
+用CLARA聚类将第一层聚类中的发射线星系分为emi1-emi5五个子类，其数目及类型见表2，其聚类中心是类内的一条光谱（图6第一列）。
+
+表2第二层聚类结果  
+Tab.2 The result of second layer clustering   
+
+<html><body><table><tr><td>类名称</td><td>数目</td><td>星系类型</td></tr><tr><td>emil</td><td>2600</td><td>SF、composite、AGN</td></tr><tr><td>emi2</td><td>2018</td><td>SF</td></tr><tr><td>emi3</td><td>3576</td><td>SF、composite、AGN</td></tr><tr><td>emi4</td><td>1751</td><td>SF</td></tr><tr><td>emi5</td><td>2744</td><td>composite、AGN</td></tr></table></body></html>
+
+与第一层聚类相同，计算每一条光谱与每个聚类中心的距离，得到第i个簇clusteri的每一个样本与第j个聚类中心centerj的距离统计图，结果表明每个簇到其聚类中心最近，接近于0，到其他聚类中心相对较远，每个簇对五个聚类中心的距离统计图都有五个明显峰值，可以表明类间区分度明显。
+
+聚类结果与BPT图分类相比较，用BPT分类法求每一类中每条光谱的类型。BPT图分类方法基于线强比，需要测量Hα、Hβ、[OIII]λ5007和 $[ N I I ] \lambda 6 5 8 5$ 四条谱线的线强。普遍认为星系光谱是由多种恒星光谱组合而成，首先用星族分析软件STARLIGHT拟合星系光谱中的恒星成分，之后用原星系光谱减去拟合谱，得到包含发射线、噪声和低频背景成分的光谱，然后用窗口宽度为201的中值滤波去除低频背景成分，最后分别使用单高斯拟合来拟合 $H \beta$ 和 $[ O I I I ] \lambda 5 0 0 7$ 线，用多高斯拟合来拟合[NII]6548、 $H \alpha$ 、[NII]6585三条谱线，利用公式（4）计算线强，其中 $\lambda _ { 1 }$ 和 $\lambda _ { 2 }$ 为谱线对应波长的两端点， $F _ { I } ( \lambda )$ 为观测流量， $F _ { C } ( \lambda )$ （204号为连续谱。
+
+$$
+I n t e n s i t y = \int _ { \lambda _ { 1 } } ^ { \lambda _ { 2 } } { ( F _ { I } ( \lambda ) - F _ { C } ( \lambda ) ) d \lambda }
+$$
+
+由于星族成分合成过程对光谱质量要求较高和部分发射线太弱导致无法高斯拟合等问题，仅有8122条发射线星系光谱用BPT方法求得其类型，emil-emi5五类对应BPT分类结果见表3。将每一类结果在BPT图中表示（图6中列），其中背景密度图是所有发射线星系的 BPT图分布，红色散点是每一类中所有光谱在BPT图中对应的点。
+
+表3第二层聚类结果与BPT图分类法的比较结果  
+Tab.3 The comparison between second layer clustering results and BPT classification method   
+
+<html><body><table><tr><td>数目(类内百分比)</td><td>SF</td><td>composite</td><td>LINER</td><td>Seyfert2</td><td>总计</td></tr><tr><td>emi1</td><td>789(53.86%)</td><td>406(27.71%)</td><td>60(4.09%)</td><td>210(14.33%)</td><td>1465</td></tr><tr><td>emi2</td><td>1297(84.00%)</td><td>177(11.46%)</td><td>55(0.97%)</td><td>15(3.56%)</td><td>1544</td></tr><tr><td>emi3</td><td>1587(68.38%)</td><td>485(20.90%)</td><td>71(3.06%)</td><td>178(7.67%)</td><td>2321</td></tr><tr><td>emi4</td><td>1386(84.31%)</td><td>127(7.73%)</td><td>8(0.49%)</td><td>123(7.48%)</td><td>1644</td></tr><tr><td>emi5</td><td>443(38.58%)</td><td>396(34.49%)</td><td>106(9.23%)</td><td>203(17.68%)</td><td>1148</td></tr></table></body></html>
+
+图6 第二列BPT图中，红色的经验分割线为Kauffmann[3等人提出的纯恒星形成星系分割线，简称K03（公式5），此线以下为恒星形成星系。蓝色分割线为Kewley[4等人提出的纯活动星系核分割线,简称 K01（公式6），此线以上为活动星系核，混合型星系位于 K03与K01分割线之间。绿色分割线为Cid Fernandes[等人提出的用于区分 Seyfert2和LINER的分割线,简称CF10（公式7），此线以上为 Seyfert2星系，以下为LINER 星系。
+
+$$
+\log _ { 1 0 } ( [ O I I I ] / H \beta ) = 0 . 6 1 / [ \log _ { 1 0 } ( [ N I I I ] / H \alpha ) - 0 . 0 5 ] + 1 . 3
+$$
+
+$$
+\log _ { 1 0 } ( [ O I I I ] / H \beta ) = 0 . 6 1 / [ \log _ { 1 0 } ( [ N I I I ] / H \alpha ) - 0 . 4 7 ] + 1 . 1 9
+$$
+
+$$
+\log _ { 1 0 } ( [ O I I I ] / H \beta ) = 0 . 0 1 * \log _ { 1 0 } ( [ N I I I ] / H \alpha ) + 0 . 4 8
+$$
+
+从聚类结果的BPT图和表3中各类星系的数量可以看出emi1大部分分布在K01分割线之下，包括恒星形成星系和混合型星系；emi2大部分在K03分割线之下，有 $8 4 . 0 0 \%$ 光谱为恒星形成星系；emi3与第一类相似，大部分为恒星形成星系，包含少量AGN星系；emi4位于K03分割线之下，有 $8 4 . 3 1 \%$ 的光谱为恒星形成星系，不同于第二类,emi4的[OII]λ5007与Hβ的线强比偏大，对应聚类中心光谱，emi4相较emi2发射线更强，连续谱更平缓，吸收线成分更弱；emi5中有 $6 1 . 4 2 \%$ 的星系为复合型星系和 AGN星系，与emi2和emi4这两类恒星形成星系相比，emi5 的聚类中心光谱的恒星成分占主导地位，发射线很弱，而emi2和emi4的聚类中心中发射线很强，占主导地位。整体来看恒星成分越少，发射线越强，星系在BPT图中分布越偏向于恒星形成星系，这符合恒星形成星系的特点，这类星系具有大量恒星形成区，能够观测到来自中央区域的强窄发射线，这在emi2和emi4的聚类中心光谱中也有所体现。
+
+将聚类结果的颜色星等图画出（图6第三列），黄色散点是包括吸收线星系在内的所有星系光谱对应的颜色星等图，黑色散点是第二层聚类中每一类对应的颜色星等图。从emi2
+
+![](images/ac454e69981b34c73a4f7c69409d06a0bfb9da187721ff97977eb6d15ff1e656.jpg)  
+图6第二层聚类的聚类中心、BPT图和颜色星等图。左、中、右列分别为聚类中心、BPT图和颜色星等图，1-5 行分别为 emil-emi5类。BPT图中黑色背景密度图为全部发射线星系样本分布，红色散点分别为每一类的光谱样本，颜色星等图中黄色散点为全部光谱样本，黑色散点分别为每一类光谱样本
+
+Fig.6 The clustering centers , $u { - } g$ Vs. $g - r$ plots and BPT diagram of the second layer of clustering.The left,middle,right column are clustering centers,BPT diagram and u-g Vs. $g _ { - } r$ plots,and lines 1-5 are emil-emi5.In the PBTdiagram,the black background density map showste sample distributionofallemissionline galaxies,andthered scatterpoints issample distributionofemil-emi5.Inthe $u$ g vs. g-r plots,the yellow scater points is the whole spectral samples and the black scater points is the spectrumof each class
+
+和emi4 可以看出 SF更偏向于蓝色，且发射线越强颜色越蓝，emil和emi3 属于绿谷，emi5更偏向于红色，这与目前提出的 AGN 星系更可能为早型星系的观点[12]一致。同时，从emi2、emi4到emil、emi3最后到emi5，随着AGN数量的增加，在颜色星等图上反映出从蓝色到红色的变化过程，这与 Schiawinski[13提出的AGN活动抑制了恒星的形成，因此它可能是星系颜色穿越绿谷的原因这一观点一致。
+
+BPT 图分类方法步骤复杂，对光谱质量要求高，实验第二层中发射线星系能全部被CLARA 算法划分，而BPT图只能分类出其中的一大部分，由此可以看出CLARA算法的优越性。CLARA算法对光谱质量要求低，不需要拟合恒星成分，方法简单有效，针对大规模星系光谱能够快速有效分类，适用于大规模数据自动分析处理，同时分类结果能够很好地反映出星系的演化过程。
+
+# 4.结论
+
+针对LAMOSTDR5星系光谱数据，使用k-means 聚类算法成功将星系光谱分为吸收线星系和发射线星系，与基于谱线检测的分类结果基本一致。 $\mathbf { k }$ -means 聚类算法简单高效，适用于大规模星系光谱自动分析处理，聚类结果能够良好地反映出星系的性质，与传统分类结果基本一致，因此聚类方法对星系分类是可行的，聚类中心能够为星系光谱自动分类提供三种类型模板，相较于基于谱线分析得到的高信噪比模板，聚类中心作为模板抗噪性更强。
+
+使用CLARA聚类算法将发射线星系细分类，结果与BPT 图分类和颜色星等图分类结果存在预期的相关性，能够反映出星系的演化过程。CLARA聚类算法对光谱质量要求较低，不需要拟合恒星成分，方法简单有效，能够直接依据谱线特征实现自动聚类，适用于大规模数据自动分析处理，能够为光谱自动分类pipeline 提供模板。
+
+致谢郭守敬望远镜（大天区面积多目标光纤光谱望远镜，LAMOST）是中国科学院建设的国家重大科学项目。该项目由国家发展和改革委员会提供资金。LAMOST由中国科学院国家天文台运营和管理。感谢审稿人提出的问题与意见，与作者进行多次深入分析与讨论，使文章内容更为严谨。
+
+# 参考文献：
+
+[1]StratevaI,IezicZ,G.R.Knapp,etal.ColorseparatioofgalaxytypesinthesoadigitalskysureyimagingdataJ].e Astronomical Journal, 2001,122: 1861-1874 [2]J.A.Baldwin,.M.Phillips,R.erevich.Clasificationparametersfortemsson-lnespectraofextragalacticobject[J]. Publications of The Astronomical Society of The Pacific,1981,93:5-19 [3] Kauffmann G,Heckman T M,White DM,et al. Stellar masses and star formation histories for ${ { 1 0 } ^ { 5 } }$ galaxies form the Sloan Digital Sky Survey [J].Mon.Not.R.Astron. Soc.,2003,341: 33-53 [4]KewleyLJ,opita,therandS,etal.eoreticalmodelingofstabustgalaies[J].estronoicalJoual, 556:121-140 [5] KewleyLJ,GrovesB.Kauffmann G.Thehostgalaxiesandclasificationofactive galactic nuclei[J].Mon.Not.R.Astron. Soc.,2006,372: 961-976 [6]FermandesRC,StasinskaG,Schlickmann MS,etal.Altermative diagnosticandthe‘forgoten’populationof weak line galaxies in the SDSS [J].Mon.Not.R.Astron. Soc.,2010,403:1036-1053 [7]BoltonAS,SchlegelDJ,AubourgE,etal.Spectralclasificationandredshift measurementforthe SDSS-Ibaryon oscillation spectroscopic survey[J].The Astronomical Journal,2012,144:144-164 [8]AlmeidaJS,AgueriJALMunoz-TunonC,etalAutomaticunsupervisedclasificationofallsoandigitalskysuveydata release 7 galaxy spectra [J]. The Astronomical Journal,201o,714: 478-504 [9] 李乡儒，胡占义，赵永恒．基于 Fisher 判别分析的有监督特征提取和星系光谱分类［J]．光谱学与光谱分析，2007, 27(9):1891-1901 [10] 覃冬梅，胡占义，赵永恒.基于支撑向量机的天体光谱自动分类方法［J].光谱学与光谱分析,2004,24(4):507-511 [11]Gauci A,Adami KZ,AbelaJ.Machine learing forgalaxymorphologyclassification[J].Mon.Not.R.Astron.Soc.2010, 000:1-8 [12]Mac J.Some methods forclasificationandanalysisofmultivariatebservationsC].Proceedingsof5thBerkeleySyposium on Mathematics,Statistics and Probability,Berkeley,1997:281-296 [13] 赵国富，曲国庆．聚类分析中CLARA 算法的分析与实现[J].山东理工大学学报(自然科学版)，2006(02):45-48 [14]Huang Z.Extensions totheK-meansalgorithmforclustering largedatasetswithcategorical values[J].Data Miningand Knowledge Discovery,1998,2(3): 283-304
+
+# Spectral Classification of Galaxies Based on Clustering Analysis
+
+2.University of Chinese Academy of Sciences,Beijing 1Ooo49,China,Email:jnzhang@bao.ac.cn)
+
+Abstract:Various large-scale sky survey plans release massive astronomical data. It is necessary to study the spectral automatic processing methods for large-scale data. It is difficult to apply the traditional galaxy spectral classification methods based on spectral line measurement or BPT diagram to automatic galaxy spectra classification pipeline directly. In contrast, machine learning method is more suitable for the classification and analysis of massive astronomical data. This paper proposes a galaxy spectral analysis method based on double hierarchical clustering. The first layer uses K-means clustering method to classfy galaxy spectra into absorption line galaxies and emission line galaxies； the second layer uses Clustering Large Applications clustering algorithm to gather emission line galaxies into five subtypes. We experiment with galaxy spectral data from LAMOST DR5 and analyze the result in detail by spectral line detection, BPT diagram and color magnitude map.The experimental results show that: (1） The first layer K-means clustering can classfy Galaxy spectra into absorption line galaxies and emission line galaxies successful，which are consistent with the classification results based on spectral line detection. (2) The results of CLARA cluster in the second layer can reflect different galaxy types in BPT diagram. (3) There is an expected correlation between spectral clustering results and color 55 magnitude classification.(4） The two-layers clustering can be applied to large-scale data 56 automatic analysis and processing.The clustering results can reflect the physical properties and 57 evolution process of the galaxies.And the cluster centers can provide templates for automatic 58 spectral classification pipeline.
+
+359 Key words:LAMOST; Clustering; Galaxy spectra classification; Large scale spectral   
+360 analyze

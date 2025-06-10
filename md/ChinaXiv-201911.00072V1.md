@@ -1,0 +1,129 @@
+# 基于FPGA的多轴步进电机控制系统
+
+王刚1.2，林佳本2，郭晶晶²，张鑫伟²，佟立越1.2，白阳1.2，陈垂裕1.2
+
+（1.中国科学院大学，北京100049；2.中国科学院 国家天文台 中国科学院太阳活动重点实验室，北京100101）
+
+摘要：观测技术及仪器的进步是推动太阳物理研究的重要手段，步进电机是各类观测仪器精密结构调整部件中经常采用的驱动源，步进电机控制系统的性能直接影响太阳望远镜的数据精度和时间分辨率。介绍了一套怀柔太阳观测基地自主研制的多轴步进电机控制系统。该系统以FPGA为核心控制器，利用中断处理机制及输入/输出寄存器产生多路TTL方波信号，结合驱动器实现多轴步进电机控制；通过周期信号化简处理算法缩短电机调整时间；以霍尔器件作为位置传感器实现系统闭环控制，通过对霍尔信号的软、硬件滤波处理，提高信号识别准确率；设计了板载存储电路，实时保存系统关键参数，大幅提高系统整体的可靠性。同时，该系统设计了丰富的I0接口、通讯接口，提高系统的可集成性。目前该系统已在多台太阳望远镜中投入使用。
+
+关键词：太阳观测望远镜；多轴步进电机控制；中断处理机制；闭环控制；存储电路中图分类号：TP23 文献标识码：A 文章编号：
+
+# 1引言
+
+观测是太阳物理研究中最为重要的技术手段之一，自1612年伽利略（GalileoGalilei）开始使用望远镜观测太阳黑子至今，每一次太阳观测仪器或技术的革新都极大地推动了太阳物理学研究的进展[1]。怀柔太阳观测基地（Huairou Solar Observation Station）是中国科学院国家天文台的重要观测基地之一。自1984年建站至今30余年，怀柔基地在太阳磁场与速度场的观测研究领域已跻身世界前列[2][3][4]。期间太阳磁场望远镜以及多通道太阳望远镜[5]的研制成功，极大地推进了国内外实测太阳物理事业的发展。
+
+太阳望远镜主体主要由光学系统、机械结构以及电子学系统三部分组成。为保证望远镜的高质量运行，怀柔太阳观测基地技术团队结合现有的先进技术，对望远镜进行了全面的升级改造[6][7]。本文所介绍的多轴步进电机控制系统，是望远镜电子学系统中的重要组成部分。以怀柔多通道太阳望远镜为例，仪器内部采用了17个步进电机作为驱动源，对滤光器以及偏振分析器中可移动光学器件的空间位置进行精确调整，以实现对不同波长磁敏感线偏振态的测量。步进电机控制系统的准确性、稳定性以及控制效率直接影响太阳磁场观测数据的精度以和时间分辨率。
+
+怀柔基地早期所采用的步进电机控制架构以计算机为控制核心，集成数字I/O卡生成控制信号，结合电机驱动器实现对步进电机的精确控制[8]。这种设计方式的不足之处在于：1、系统整体复杂性较高；2、系统可移植性较弱。为解决上述问题，怀柔基地研制出第二代滤光器电机控制系统，该系统使用嵌入式设计理念，大幅度减少对计算机的依赖性。但由于系统采用控制、驱动一体化集成设计，电路专用性较强，无法满足对不同类型步进电机的通用控制。为弥补上述两类控制系统存在的不足，本文在已有的研究基础上，提出了一种新的控制策略。即以嵌入式系统（FPGA）作为控制核心，配合计算机和通用型驱动器实现对多轴步进电机的控制。系统的设计要求是，在保证太阳望远镜观测过程中对多路步进电机所有控制功能需求的前提下，降低控制系统的复杂度，提高系统的可移植性、稳定性以及扩展性。
+
+科学基金面上项目(No．11773040)
+
+者简介：王刚(1992-)，男，吉林白山人，博士。研究方向：运动控制，偏振光学仪器研制
+
+# 2 系统硬件设计
+
+本文所介绍的多轴步进电机控制系统整体结构采分离式设计（图1)，主要包括上位机、控制器以及驱动器三个模块。分离模块化设计方式可有效降低系统的耦合度，提高系统的可移植性以及故障排查效率，其中的电机控制器是本系统主要的硬件设计部分。
+
+![](images/98e7f0697fa797dc13a7a7ea42c9ecb68c1512d3ed01b3dc294b099a34e2c727.jpg)  
+图1系统结构示意图  
+Figure 1 System structure diagram
+
+# 2.1基于FPGA的片上系统构建
+
+使用Altera公司生产的CyclonIVE型FPGA作为片上系统构建平台，该芯片拥有15408个逻辑单元、504Kb的嵌入式存储器以及343个用户IO接口。丰富的逻辑资源及接口数量为多路电机控制提供了硬件保障。选用NIOSII/e软核作为系统的嵌入式微处理器，该处理器为哈佛结构，最高工作频率为100MHz/s，数据总线与地址总线采用分离式设计。可在占用较少逻辑资源的前提下实现最优性能。除处理器外，根据具体使用需求添加了其他知识产权核（Intellectual Property core，IP)，以构建完整的片上系统。IP核信息与功能如表1所示。
+
+# 表1片上系统IP核信息表
+
+Figure1 System-on-chip IP core information table   
+
+<html><body><table><tr><td>IP核信息</td><td>功能描述</td></tr><tr><td>SDRAM Controller</td><td>与外挂内存芯片SDRAM进行通信</td></tr><tr><td>EPCS Controller</td><td>与EPCS芯片进行通信，程序固化，避免掉电丢失</td></tr><tr><td>Interval Timer</td><td>内部定时器，本系统中用于控制TTL方波信号频率</td></tr><tr><td>PIO</td><td>控制管脚输出电平，用于TTL方波信号的生成</td></tr><tr><td>UART</td><td>通信芯片驱动，采用RS232协议实现与上位机的信息交互</td></tr></table></body></html>
+
+# 2.2板级硬件电路设计
+
+片上系统构建属于集成电路设计范畴，即将最终的设计结果集成至芯片内部。由于其能力有一定的限制，需设计外围支持电路，用以实现信号电平转换以及配置信息存储。本系统中设计的支持电路从功能上可划分为以下几个部分：
+
+1）串口通信电路：采用标准的 RS232串口电路与PC 机实现控制指令及状态数据的信息交互；  
+2）控制信号放大电路：由于FPGA管脚输出信号为3.3VTTL电平，电压值与驱动器不匹配，选用74HC245芯片对控制信号进行放大处理。  
+3）数据存储电路：使用铁电存储器 FM25L256 实现多路步进电机位置实时存储功能，存储器采用I2C总线协议与片上系统进行连接，通信速率可达 $1 0 \mathrm { M / s }$ ，且不存在读写次数上限问题，正常工作环境中的数据保存时间为十年。  
+4）信号识别电路：使用上拉电阻的设计方式对霍尔传感器产生的的跳变信号进行增强处理，使得片上系统中的PIO核可以准确识别沿跳，进入到中断处理程序段。
+
+# 2.3控制器硬件集成
+
+对设计完成的步进电机控制器硬件电路进行装配集成（图2)。控制器包括48 路信号输出端口、20路中断信号输入端口以及8路自定义扩展口。最高可实现14路步进电机同步控制。
+
+![](images/5141c0591edddc026f1e7a7a49a0f58ac4718b7e44c5f02c70434ed9a4f2d9f3.jpg)  
+图2步进电机控制器  
+Figure 2 Stepper motor controller
+
+# 3系统软件设计
+
+为了降低系统对PC机的依赖性，提高系统可移植性。本文在嵌入式软件系统设计中完成了包括外部信号识别、控制信号生成、数据存储、位置信息反馈以及路径优化算法的所有功能。这种设计方式可以降低PC端软件设计的复杂度，且有利于望远镜自主观测控制总系统的设计。由于嵌入式软件系统内容较多，本文仅对关键功能部分进行介绍。
+
+# 3.1电机控制信号生成
+
+单路步进电机所需控制信号包括：公共信号（高电平有效）、方向信号，脱机信号（低电平有效）以及脉冲信号（上跳沿有效)。利用NIOSII软核的内部定时器中断处理机制，等间隔改变I/O寄存器状态值，产生空比为百分之五十的TTL脉冲电平信号。利用NIOSII对I/O寄存器状态值进行修改，生成其他三路控制信号。
+
+![](images/03dbda3b29e12e11e9329a2a9935e1468e1410b8577fe2e8677f9933f988b1de.jpg)  
+图3电机信号生成模块软件流程  
+Figure 3Motor signal generation module software flow
+
+电机控制信号软件模块如图3所示。首先对自定义的内部指令进行解码。解码信息包括电机号、旋转速度值、运动方向以及旋转步数值。根据电机号信息使能对应步进电机的公共端信号、拉低脱机信号、并设置方向信号电平值。然后根据旋转速度信息对定时器周期寄存器初始值进行设定。寄存器初值与步进电机旋转速度关系式如下：
+
+$$
+\Omega = { \frac { 2 \pi } { D } } \Pi _ { 2 \mathrm { n } } ^ { C L K }
+$$
+
+式1
+
+其中 $\Omega$ （rad/s）为步进电机旋转角频率， $D$ (步/圈)为电机驱动器细分值，CLK为系统工作频率（ $\mathrm { 1 0 0 M H z } \cdot$ )，n为寄存器初始设定值。完成周期设定后开启定时器，待产生中断信号后进入中断函数体，对脉冲信号端口寄存器状态值进行取反操作，从而产生周期性 TTL脉冲信号。在波带整移过程中，对超过旋转波片光学周期（ $9 0 ^ { \circ }$ ）部分进行取余操作，优化了电机转动控制，减少步数、提高执行效率。
+
+# 3.2位置信息存储
+
+为提高嵌入式系统的集成度，本文在硬件设计部分加入了外置存储芯片，用于保存步进电机位置信息。存储芯片选用型号为FM25L256 型铁电存储器，支持SPI总线通信协议，存储器阵列为 ${ 8 } \mathrm { b i t } { * 2 } 3 7 6 8$ 共 256Kbit。在软件设计中编写对应芯片驱动模块，以实现数据的读写操作。驱动指令由8位操作代码、16位地址码以及数据构成。设计时需申请临时数据存储空间，用于存放读出或写入的数据。为方便其他函数的调用，将该驱动代码部分封装为独立的模块，并留出相应的数据接口及操作模式接口。当步进电机位置变动时，对其变动后的新位置进行存储。控制器断电重启时，自动读取断电前保存的位置信息。除此之外，还可根据不同项目需求对其他配置信息进行存储，例如滤光器控制中的线心位置信息存储以及定天境轴系控制中的恒动、快动以及慢动速度值的存储。
+
+# 3.3位置信号识别
+
+为实现步进电机的闭环控制，通过霍尔感器标识绝对位置（亦称机械零位)，修正电机旋转过程中产生的位置误差。霍尔传感器本质是一种磁场传感器，当受控机械结构上的磁块运动至识别范围时，霍尔信号管脚会产生由高到低的电平跳变信号。利用NIOSII的外部中断机制识别该跳变信号，进而反馈至步进电机控制过程。为了提高信号识别的准确性，在软件中添加了滤波代码，消除短时强磁场或电源电压波动所产生的干扰信号。
+
+# 4 实验结果
+
+为验证本设计的功能完备性、稳定性以及控制精度，应用该控制系统完成了多通道太阳磁场望远镜滤光器波带控制系统（17路电机）的设计及升级工作，并对系统更换后的设备进行了相关测试验证。图4为多通道望远镜观测波段线心位置标定测量数据，图中横坐标为滤光器定标位置相对偏移量（埃)，纵轴为探测器接收光强值。从图中可以看出，测量曲线光强变化平滑，未出现单级波片（电机）控制失效情况；测量曲线与太阳谱线吻合度较高，已实现波带整移（多通道同步控制）功能。图5为不同波段太阳磁场测量结果，说明电机控制系统达到了太阳观测系统所需的控制精度。目前系统运行稳定，并已承担相关科研观测工作。
+
+![](images/dcdd324b34dea960cf9d925daf89e66de6276816a229d17badbd2232a6841725.jpg)  
+图4（左）5173埃、（中）5250埃、（右）5247埃线心标定结果
+
+![](images/75e90127ba71a18d4e8f88b08177cd8224323ad712637081957e429dbf4bd68e.jpg)  
+Figure 4Line center position   
+图5（左）5173埃、（中）5250埃、（右）5247磁场测量数据  
+Figure 5 Solar magnetic field measurement data
+
+# 5 结论
+
+采用可编程逻辑器件，结合IP软核以及片上处理系统设计概念，实现了多轴步进电机控制系统设计。在研究过程中解决了信号识别不准确、数据掉电存储以及通信过程数据丢失等问题，目前所研制的控制器单板可实现对12路步进电机闭环控制，且可以多块控制器并联使用，缩减控制系统的整体体积。已使用该系统实现了怀柔观测基地多通道太阳望远镜滤光器波带控制系统设计（17路步进电机)，新疆温泉县磁场望远镜滤光器波带控制系统设计以及北京师范大学太阳塔定天境轴系控制系统的设计。
+
+致谢：系统的设计、调试过程得到国家天文台怀柔观测基地张洋、王丙祥、汪国萍等同事的大力支持，在此深表感谢。本系统研制过程中使用了国家天文台所级公共服务中心高精度电子学系统研制测试平台相关设备。
+
+# Multi-axis stepper motor control system based on FPGA
+
+WANG Gang12,LINJa-ben2,GUO Jng-jing2,ZHANG Xin-wei2,TngL-yuel2,BAY2, CHEN Chui-yu1,2
+
+(1University ofChinese Academyof Sciences,Beijing lOoo49,China;
+
+2Key LaboratoryofSolarActivityNational AstronomicalObservatoriesofChineseAcademy of Sciences,
+
+Beijing l0010l,China)
+
+Abstract: Observation is the main technical method of solar physics research. Stepper motor is often used as the driving source of precision structure adjustment in various observation instruments. Stepper motor control system is an important part of the electronic system of solar observation telescope. This paper introduces a multi-axis stepper motor control system independently developed by Huairou Solar Observation Base. The system uses FPGA as the core controller, uses the interrupt processing mechanism and input/output registers to generate multiple TTL square wave signals,and combines the driver to realize multi-axis stepper motor control. The Hall device is used as the position sensor to realize the closed-loop control of the system. In the design,the Hall signal is filtered to improve the signal recognition accuracy. The MFC class library is used to complete the human-computer interaction interface design，and the serial communication protocol is used to realize the information interaction between the computer and the controler.In addition,external storage circuits have been added to the basic functions to improve the overall reliability of the system.
+
+Key words: observation instruments; multi-axis stepper motor control; the interrupt processing mechanism; closed-loop control; external storage circuits.
+
+# 参考文献：
+
+[1]LIUYu,CHENYao,DENG Yuan-yong ect Recentresearch progressof solarphysics in China[J].Chinese ScienceBulletin,2019,64(19): 2011-2024.刘睿,陈耀,邓元勇等.中国太阳物理学研究进展[J].科学通报,2019.64(19):2011-2024.  
+[2]Su,J.T.i,Yen,ra,TGIagigeationoqua-eicdistubacesApldesieasingihtnthe polar region of the solar corona,2014,ApJ,790,150.  
+[3]Zhang,HQ.Yang,S.B.,Xu,H.Q,Gao,Y.Yang,XrogressinheicitytudyinsolarphyicsinCina,2,Cn,ll,59(36),3561.  
+[4]Zhang,M.,Low,B.C.: Magneticenergystorageinthetwoyromagnetictypesofsolarprominences,O04,ApJ,600,1043.  
+[5]AiGuoxiang，Hu Yuefeng．On principle of solar magnetic field telescope[J]．Acta AstronomicaSinica，1986， $2 7 ( 2 ) : 1 7 3 \mathrm { ~ - ~ } 1 8 0$ 艾国祥，胡岳风．太阳磁场望远镜的提出和工作原理[J].天文学报，1986，27(2):173－ 180.  
+[6]LinJiaben,Deng Yuanyong,Hu Keliang:Real-time correlation tracking image processing system[J].AstronomicalResearch& Technology.2016 4:345-354.林佳本，邓元勇，胡柯良，艾国祥：实时相关跟踪图像处理系统,天文研究与技术.2016 4:345-354.  
+[7]Lin Jiabenl,ShenYangbinl,Zhu Xiaoming.Designof thean Automatic Observation System forFull-Disk SolarMagnetograms in the HSoS[J]．Astronomical Research & Technology，2013.10(4).林佳本，沈洋斌，朱晓明等.怀柔太阳观测基地全日面磁场自动化观测系统[J].天文研究与技术,2013.10(4).  
+[8] XIAO Jiang,HU Ke-liang，DENG Yuan-yong.The Design of Muti-passand Control System for Telescope Based on USBProtocol[J]．Astronomical Research & Technology,2007,4(4).肖江，胡可良，邓元勇.基于USB协议的多波带控制系统设计[J].天文研究与技术，2007,4（4）。

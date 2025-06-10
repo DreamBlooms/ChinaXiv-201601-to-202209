@@ -1,0 +1,512 @@
+[
+    {
+        "type": "text",
+        "text": "Clones or no clones: genetic structure of riparian Populus euphratica forests in Central Asia ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Katja. KRAMP1\\*， ThomasSCHMITT1,2，Petra LANG³， Michael JESCHKE³， PhilippSCHAFER³, Dustin KULANEK1, ZHANG Ximing4, YU Ruide4.5, Frank M THOMAS3",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Senckenberg German Entomological Institute,Eberswalder StraBe 90,Muncheberg 15374,Germany;   \nDepartmentofZoologyacultyNaturalSciencesI,IstituteofiologyMartinLutherUnversityHale-Witenberg,Halle (Saale) 06099, Germany;   \n3FacultyofRegionalandEnvironmentalSciences,UniversityofTrier,CampusI,BehringstraBe21,Trier54296,Geany; 4 Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences,Urumqi 830011,China;   \n5 Sino-German Joint Research Center for the Management of Ecosystemsand Environmental Changes in AridLands (MEECAL) Urumqi 830011, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Many riparian (Tugai) forests growing along rivers in arid and hyper-arid regions of Central Asia are dominated by the Euphrates poplar (Populus eupbratica). Besides generative reproduction,which is only possible upon flooding events and at a distance to the groundwater of less than $2 \\textrm { m }$ ，this phreatophytic tree species also reproduces vegetatively by forming clones that can cover land surface areas of several hectares. Along a gradient of groundwater distances, we investigated whether the fraction of clones in $P .$ eupbratica stands (1) increases with increasing distance to the water table; (2) is higher if supplied with water via river cut-offs;and (3) approaches $100 \\%$ at a short distance to the groundwater,but at high salt concentrations in the upper soil layers, which would prevent germination and establishment of seedlings. AFLP (Amplified Fragment Length Polymorphism) analyses were conducted on leaf samples taken from mature $P .$ eupbratica trees growing at the fringes of the Taklimakan Desert in stands with different distances $( 2 \\mathrm { - } 1 2 \\mathrm { m } )$ to the groundwater at two plots at the middle and the lower reaches of the Tarim River and in a stand close to Ebinur Lake, Xinjiang, China. Genetic diversity was large among plots， but considerably smaler within plots. We found the highest genetic diversity (caused by regeneration from seeds)at plots that have a short distance to the groundwater or are supplied with additional water. There was no significant relationship between groundwater distance and clonal fraction. Al investigated trees at the saline Ebinur Lake site belonged to one single clone. Our results demonstrate that the genetic pattern of this widespread species is not easily predictable even over small distances as it is a result of a complex interplay of stand history and dispersal of propagules (pollen,seeds,and vegetative diaspores) by wind and water. In conservation and restoration schemes, P. eupbratica stands with a high genetic diversity and stands that grow at short distances to the water table and are regularly subjected to flooding (which favors generative over clonal reproduction) should be prioritized. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: clonality; floodplain forest; ground water; phreatophyte; population genetics; rejuvenation; salinity ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Every natural population,except for those that consist of one single clone,contains genetic differences among their individuals.This also applies to most tree populations of forests.The genetic structures of those populations are produced by dispersal of pollen and seeds and thus are largely influenced by the mobility of these propagules. Besides generative reproduction, many tree species， however， also produce vegetative offspring. Vegetative reproduction of woody species,including alien and invasive taxa,can be found in forests and woodlands of Europe, South Africa,Asia, Australia,and North and South America,and plays an important role in the establishment and spread of populations (Ducci and Santi,1997; Cremer, 2O03; Douhovnikoff et al.,2005;Lorenzo et al.,2010; Milton and Dean,201O; Vonlanthen et al.,2010; Thomas et al., 2012).This reproductive strategy is particularly advantageous at sites with a harsh climate (Reisch et al.， 2OO7；Eusemann et al.，2O13)，under unpredictable environmental conditions (Karrenberg et al.，2O02） or after disturbance (Bellingham and Sparrow, 2OOO). At such sites, vegetative reproduction is often more efficient and successful than generative recruitment because clones have a higher chance to establish due to the constant supply with resources from the mother plant (Crawford, 2008). Among woody species, the creosote bush (Larrea tridentata) of the Mojave Desert in southwestern North America is known for its capability to form clones that reach a diameter of up to $2 2 \\mathrm { ~ m ~ }$ and an estimated age of almost $1 2 \\times 1 0 ^ { 3 }$ years(Vasek,1980).In some cases,natural tree stands are even dominated by clonal structures. One of the most prominent examples for clonal tree colonies is the \"Pando\" clone of Populus tremuloides in western North America (Mock et al.,2Oo8）with an area of $4 3 \\ \\mathrm { h m } ^ { 2 }$ and an estimated age of $8 0 \\times 1 0 ^ { 3 }$ years. In general, vegetative reproduction is widely distributed in Populus (poplar) and Salix (willow） species of the willow family (Salicaceae) (Karrenberg et al.,2OO2; Reisch et al., 2007; Stamati et al., 2007； Slavov et al.，2010; Eusemann et al., 2O13; Tiedemann and Rood, 2015). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "One of the habitat types favoring vegetative reproduction strategies is riparian forests along rivers in Central Asia. These forests are located in an extreme environment in close proximity to deserts and are often additionally subjected to high unpredictability of water supply，which depends on the amount of melting water from ice and snow in the adjoining high mountain ranges (Thomas et al.， 2Ooo). Hence,in these ecosystems,vegetative growth and the development of large stands of clonal trees provides distinct advantages for the establishment, distribution and interspecific competition of such species.Monospecific forests of Euphrates poplar (Populus euphratica and Populus diversifolia） along the Tarim River at the northern fringes of the Taklimakan Desert and close to the shore of Ebinur Lake in the arid northwestern part of China, forming extensive stands along the river banks and lake shores,constitute an ideal study system to analyze the genetic structuring and to address questions of clonal growth and gene flow in and among different stands of these trees. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The studied species $P .$ euphratica is a broad-leaved deciduous tree with a wide distribution in Central and Western Asia (Fang et al.，2O15). In northwestern China, where it has its most extensive distribution, it is the predominant tree species of riparian (Tugai) forests along streams at the fringes of the Taklimakan Desert in southwestern Xinjiang (Wang et al.,1996). It also Occurs near the shores of Ebinur Lake located in the southwestern part of the Junggar Basin in northeastern Xinjiang (Yu,2Oo8). According to the current United Nations Educational, Scientific and Cultural Organization (UNESCO） definition based on the ratio of average annual precipitation (P) to evapotranspiration (ET), the climate of these regions is hyper-arid $( { \\mathrm { P } } / { \\mathrm { E T } } { < } 0 . 0 3 \\$ fringes of the Taklimakan Desert; Xia et al.,1993; Thomas et al., 2OOO), or arid ${ 0 . 0 3 { \\le } \\mathrm { P } / \\mathrm { E T } { < } 0 . 2 0 }$ Ebinur Lake region； Yu,2Oo8).Under these climatic conditions, $P .$ euphratica is an obligate phreatophyte,which-for survival and growth-relies on permanent access to the groundwater (Thomas，2014).Thus，the $P .$ euphratica-dominated Tugai forests in the arid and hyper-arid regions of Central Asia are unique riparian ecosystems that-due to a particular combination of climatic，geologic,hydrologic,and edaphic factors-hardly exist in other parts of the world. Deeper knowledge into the genetic structure of the forest stands and the rejuvenation capabilities of the trees is a decisive prerequisite for conserving these forests，which not only provide important ecosystem services to the local and regional population (Lang et al., 2O15), but also constitute a refuge for threatened animal species (Hai et al.,2Oo6; Qiao et al., 2Oo6). According to a previous study，these forests exhibit a large genetic diversity，but only small genetic differentiation among populations across distances of 9 degrees of latitude and 23 degrees of longitude in northwestern China (Wang et al., 2011). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Populus euphratica forests establish when the water content of the surface soil, after an inundation by river or lake water,is high enough to allow germination of seeds and rapid formation of shoots and,most importantly,root systems.Generally,this happens after summer floods along river banks or lake shores with low salt concentrations (Thevs et al.,2Oo8a). Upon continuous desiccation of the upper soil layers, the roots are forced to rapidly grow deeper into the soil to gain access to the groundwater or its capillary fringe to ensure survival and growth (Thevs et al., 2Oo8b). Once being established,the trees can tolerate lowering of the groundwater level to a certain extent. Such a lowering of the water table might be caused by (1) changes in the course of the river (Thevs et al., 2Oo8a); (2) withdrawal of large amounts of water from the river or the groundwater for irrigation of extensive agricultural fields,as is the case along the middle and lower reaches of the Tarim River at the northern and eastern fringe of the Taklimakan Desert in southwestern Xinjiang (Feng et al., 2Oo5); or (3) sand accumulation upon wind-borne sand drift (Xia et al., 1993). During the latter process, tree crowns of $P .$ euphratica reach distances of up to $2 5 \\mathrm { m }$ from the water table (Gries et al., 2003). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "If a site is not flooded and the distance to the water table is larger than $2 \\mathrm { ~ m ~ }$ ，no generative regeneration is possible because (1) seeds barely germinate on unflooded soils (Cao et al., 2012), and (2)the groundwater distance is too large to be bridged by the roots of the sedlings (Thevs et al., 2008a). Germination of $P .$ euphratica is also hampered by increased salt concentrations of the substrate (Yiliminuer et al.,2O15). Under such conditions,only vegetative regeneration is feasible by the formation of \"suckers\". These are shoots emerging from horizontally running underground shoot sections that are connected to the mother plant; this is a common feature of Populus species (Jenik,1994). Such shoots are initiated in soil depths down to $0 . 6 \\mathrm { ~ m ~ }$ and reach distances of up to $4 0 . 0 \\mathrm { ~ m ~ }$ from the parent tree (Wiehle et al., 2Oo9). As a result of vegetative regeneration, large clones covering areas up to $1 2 1 \\ \\mathrm { h m } ^ { 2 }$ are formed (Vonlanthen et al.,2O1O).However, the trees' capability to regenerate vegetatively through suckers also decreases with increasing distance to the water table and is limited to a maximum groundwater distance of $8 \\mathrm { ~ m ~ }$ (Zerbe and Thevs, 2011). Therefore, $P .$ euphratica stands growing at a large distance to the groundwater often are relatively old and sparse, whereas dense poplar stands containing a large fraction of young trees are only found at sites with a relatively small distance to the water table or to the riverbed (Thomas et al., 2017). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Some studies on the genetic structure and clonal growth of riparian $P .$ euphratica forests and their relationship to the groundwater level have already been conducted in arid Northwest China. However, these studies were constricted to individual regions along the Tarim River (Eusemann et al.,2013; Petzold et al.,2O13; Ling et al.,2O15) and covered-if at all-a gradient of groundwater distances of up to $5 \\mathrm { m }$ only.Moreover, the age of the investigated trees has not been determined in these studies. Accordingly， Eusemann et al. (2Ol3） pointed out that more extensive work is needed to provide evidence for relationships between clonality and the dynamics of the river and the groundwater. Thus, in our present study, we investigated the genetic structure of each three $P .$ （204号 euphratica stands with known tree ages and different distances to the water table at the middle and the lower reaches of the Tarim River (with a distance of $3 6 0 \\mathrm { k m }$ between these two plots） in southwestern Xinjiang and compared it to the genetic structure of a $P .$ euphratica stand growing under saline conditions,but close to the groundwater at Ebinur Lake in the western part of northeastern Xinjiang (with a distance of $4 4 0 { \\mathrm { - } } 4 6 0 \\ { \\mathrm { k m } }$ to the plots at the Tarim River). The settings at the two Tarim River plots further allow assessing the impact of the actual and ancient river courses and the wind systems influencing gene flow among stands. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In accordance with the life history of $P .$ euphratica stands forming the riparian forests along rivers and lakes in arid regions of Central Asia, we formulate the following research hypotheses: (1） the fraction of clones in a given stand increases with increasing distance to the water table along a gradient from a distance to the groundwater at which generative regeneration is stil possible after flooding $( 2 . 0 \\mathrm { m } )$ to a groundwater distance that exceeds the limit of both generative and vegetative regeneration $( 1 2 . 0 \\mathrm { ~ m } )$ . However, in pondering the effects of the groundwater distance on the extent of clonality, we have to consider that the course of the Tarim River and the water flow through its cut-offs exhibited dynamic changes in the past (Thevs et al., 2Oo8a; Yu et al.,2016). Therefore,we also hypothesize that (2) in stands with intermediate distances to the water table $( 5 . 0 { - } 8 . 0 \\mathrm { ~ m } )$ ，the fraction of clones is larger in those stands that are additionally supplied with water via river cut-offs. This additional water supply should have promoted the spread of clonal structures upon a subsequent rise of the water table. Further, we expect that (3) clonal growth of $P .$ euphratica predominates in a forest on a previous lake shore (Ebinur Lake) with a relatively short distance to the groundwater ( $( 1 . 5 { - } 3 . 0 ~ \\mathrm { m } )$ because this forest has not been subjected to inundation for several decades and exhibits high salt concentrations in the upper soil layers.These high salt concentrations are due to a shrinking water body of the lake upon withdrawal of large amounts of water for irrigation of agricultural fields (Yu, 2008). Consequently,reproduction from seeds should not have been possble under those conditions for a longer period of time and the formation of new shoots should have been feasible only through vegetative recruitment. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1Study sites and sampling ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The study was conducted within the framework of the joint Sino-German project \"Sustainable Management of River Oases along the Tarim River (SuMaRiO)\" (2011-2016) at the middle reaches(Y, near to the village of Yingbazar） and the lower reaches (A,close to the village of Arghan) of the Tarim River,which runs along the northern and eastern fringe of the Tarim Basin in the southwestern part of the Xinjiang Uygur Autonomous Region, China (Table 1). ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/925d78787f0e9b0327959b486a1df7dc69b6e44800a221bf566c909bb1efff5a.jpg",
+        "table_caption": [
+            "Table1Location,distance to the groundwater,and variables of stand structure and tree morphology of the Populus euphratica stands at the study plots of Yingbazar(Y),Arghan (A) and Ebinur Lake "
+        ],
+        "table_footnote": [
+            "Note:AMT,aualmeantemperature;MAP,meananualprecipitation;DBH,diameteratbreastheightEWsuplyith\"ecological water\"inmostyearssinceOlo.Values tatsharethesamelowercaseleterdonotdiferignificatlyamongplotsatagivensite (only oneplotaEbiurLake).eaE.,evetal.a);,Grtereal.(4);shaetal.6);,u(8);, Yingbazar,in 2012 for Arghan,and in 2015 for Ebinur. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>Y1</td><td>Y2</td><td>Y3</td><td>A1</td><td>A2</td><td>A3</td><td>Ebinur Lake</td></tr><tr><td>Latitude</td><td>41°13.576'N</td><td>41°17.546'N</td><td>41°18.711'N</td><td>40°08.795'N</td><td>40°08.067'N</td><td>40°08.267'N</td><td>44°37.024'N</td></tr><tr><td>Longitude</td><td>84°19.611E</td><td>84°18.263'E</td><td>84°23.012'E</td><td>88°20.922'E</td><td>8821.862'E</td><td>88°20.858'E</td><td>83°33.883'E</td></tr><tr><td>Elevation (m)</td><td>930</td><td>931</td><td>929</td><td>829</td><td>829</td><td>830</td><td>280</td></tr><tr><td>AMT (C)</td><td>10.61</td><td>10.61</td><td>10.61</td><td>11.7²</td><td>11.7²</td><td>11.7²</td><td>6.84</td></tr><tr><td>MAP (mm)</td><td>431</td><td>431</td><td>431</td><td>153</td><td>153</td><td>153</td><td>1034</td></tr><tr><td>Potential annual evaporation (mm)</td><td>> 25001</td><td>>25001</td><td>>25001</td><td>2500-30003</td><td>2500-30003</td><td>2500-30003</td><td>16624</td></tr><tr><td>Groundwater distance (m)</td><td>2.0</td><td>7.5</td><td>12.0</td><td>5.2+EW</td><td>4.8</td><td>6.6</td><td>1.4-2.7</td></tr><tr><td> Numbroftre ger</td><td>467</td><td>378</td><td>67</td><td>166</td><td>257</td><td>59</td><td>185</td></tr><tr><td>Number pf tres</td><td>4</td><td>20</td><td>19</td><td>43</td><td>30</td><td>26</td><td>21</td></tr><tr><td>Age of sampled trees (a)</td><td>53.5±8.3a</td><td>80.3±6.4a</td><td>126.1±20.3a</td><td>43.0±3.6a</td><td>77.5±5.8b</td><td>75.8±8.6b</td><td>~ 1124</td></tr><tr><td>Height of (m)mpled</td><td>16.5±0.9a</td><td>9.1±0.2a</td><td>6.9±0.4b</td><td>8.5±0.2a</td><td>7.3±0.3b</td><td>6.0±0.2℃</td><td>5.7±0.2</td></tr><tr><td>DBHof (m)pled</td><td>0.27±0.02b</td><td>0.28±0.01b</td><td>0.62±0.03a</td><td>0.31±0.02a</td><td>0.28±0.01a</td><td>0.33±0.02a</td><td>0.30±0.03</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "At each site,three $P$ 、euphratica stands (plots）were selected that differed in their distance to the groundwater or in water supply, which decreased from plot 1 to plot 3 at each site. In Arghan, two (Al and A2) out of the three stands exhibited approximately the same distance to the water table $( 5 ~ \\mathrm { m } )$ , but in contrast to stand A2, stand A1 is being supplied with additional \"ecological water\" in almost every year since 2Ooo for conservation and restoration of the poplar forests (Xu et al.,20o6) through a nearby river cut-off, which,from time to time,may have also carried water in the years before. We assume that this water supply results in a temporary rise of the water table on plot A1. Under natural conditions,annual flooding at both plots generally occurs in late summer or autumn, that is, in the time of seed maturity (end of June through beginning of October; Wang et al.,1996). During the recent years and up to present, the study plots at both plots (Y and A） are uninfluenced by human activities or are influenced to a negligible extent as they are located in the protected Tarim Huyanglin Nature Reserve (Y1) or are too remote from settements to be used for wood harvest or livestock grazing to a larger degree (Y2, Y3,and A1-A3). The location of all study plots and their distances to each other are provided in Figures S1-S3 of the Appendix. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Each plot comprised a circular area with a radius of $5 0 \\mathrm { ~ m ~ }$ around a central $P$ ，euphratica tree (resulting in an area of $7 8 5 4 ~ \\mathrm { m } ^ { 2 }$ per plot) and displayed a homogeneous stand structure.The distance to the groundwater was determined in spring (2O12 in Yingbazar,and 2O13 in Arghan) with a hand-driven soil auger (Edelman Sand; Eijkelkamp Soil & Water，Giesbeek，The Netherlands） at four (A1-A3) or seven spots (Y1);or with a drill hammer (Cobra mk1； Stitz GmbH, Gehrden, Germany),coupled to a hydraulic rod drawer (SZ-13A; Stitz GmbH),at one spot of plot Y2. In plot Y3,the distance to the water table was explored at one spot by a commercial company using the rotary drilling technique. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The perimeter of each sampled tree was measured with a tape measure to calculate the diameter at breast height (DBH).The height of the trees was measured with an ultrasonic hypsometer (Vertex IV, Haglof Co., Langsele, Sweden). Tree age was determined from stem increment cores or,in the case of some additionally selected trees (to increase the sample size),on the basis of the relationship between tree age and DBH according to Wang et al. (1996) and Thomas et al. (2017). No soil analyses were conducted for those two plots, but the influence on seed germination and vegetative reproduction by sodium and chloride in the upper soil is assumed to be low due to periodic flooding,which washes the salt out of the soil (plot Y1),or due to large distances of the soil surface to the capillary fringe（ $( > 4 \\mathrm { ~ m ~ }$ ；plots Y2 and Y3 and all plots in Arghan)，which prevents capillary flow of dissolved minerals from the groundwater to the upper soil layers. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In addition to the study plots along the Tarim River,a fenced study plot in Ebinur Lake region with an area of $1 0 { , } 0 0 0 \\mathrm { m } ^ { 2 }$ that had been used within the framework of a research project on forest development $\\mathrm { ( Y u } , 2 0 0 8 )$ was integrated in our study (Table 1 and Fig. S3 of the Appendix). On this plot, the water table was $1 . 4 { - } 2 . 7 \\mathrm { ~ m ~ }$ below the soil surface and the soil was characterized by high concentrations of sodium( $( 1 2 . 1 \\%$ at the soil surface) and chloride( $\\mathrm { 3 9 0 ~ m g / k g }$ at a soil depth of $1 0 \\ \\mathrm { c m } { \\mathrm { , } }$ ）aswellasahigh $\\mathrm { p H }$ value (8.6 at $1 0 \\ \\mathrm { c m }$ of soil depth) (Yu,2Oo8).Measurements of tree perimeter and height were carried out as described above.The average tree age of the stand was derived from Yu (2008). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Leaves from approximately 20-40 trees per plot (Table 1) were sampled in early summer 2013 and late summer 2O14 in Arghan,late summer 2O14 in Yingbazar,and June 2O15 in Ebinur (at plot Y1, however,only 4 trees were sampled because the access to this plot was restricted for safety reasons upon administrational directive). From each tree, 2O leaves were sampled from the sun-exposed periphery of the crown. The leaves were air-dried and transported to the University of Trier (for analyses of nutrient concentrations in sub-samples） and afterwards to the Senckenberg German Entomological Institute for further processing and genetic analyses. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 DNA extraction ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Up to $3 0 ~ \\mathrm { m g }$ of dried leaf material were pulverized with the TissueLyser LT (Qiagen, Hilden, Germany). Genomic DNA from the Arghan stands was extracted with the DNeasy Plant Mini Kit (Qiagen) and DNA from Ebinur and Yingbazar with the innuPREP Plant DNA Kit (Analytik Jena AG,Jena, Germany),using the OPT Lysis buffer. The extractions followed the manufacturer's instructions with the folowing minor modifications: to decrease possible inhibitor concentrations, purified DNA was eluted first with ${ 5 0 } ~ \\mu \\mathrm { L }$ and,in a second step,with $1 0 0 ~ \\mu \\mathrm { L }$ elution buffer (in a separate tube). The $1 0 0 \\mu \\mathrm { L }$ elution was used for further analyses. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3Amplified Fragment Length Polymorphism (AFLP) analysis ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The AFLP technique has been successfully employed to determine the clonal diversity and genetic structure of different plant species growing in harsh environments (de Wite et al., 2012). AFLP was made with fluorescence-labelled primers (6-FAM and HEX; Biomers, Ulm, Germany) and followed Vos et al. (1995). For each sample, genomic DNA concentration was determined with the QuantiFluor dsDNA System (Promega,Fitchburg,WI, USA） and standardized to 20 $\\mathrm { n g / \\mu L }$ . For digestion, $1 0 0 ~ \\mathrm { n g }$ of genomic DNA were used. The initial restriction-ligation step was performed for $1 6 \\mathrm { ~ h ~ }$ at $2 1 ^ { \\circ } \\mathrm { C }$ using a thermocycler (Labnet, Edison, NJ, USA). Genomic DNA was digested simultaneously with restriction enzymes EcoRI and MseI. Double-stranded EcoRI and MseI adapters were ligated to the sticky ends of the fragments. In the following two-step amplification, pre-selective primers with one selective base (EcoRI primer E,MseI primer M) and selective primers with two additional selective bases (EcoRI primer $_ { \\mathrm { E } + 3 }$ ,MseI primer $\\mathbf { M } { + } 3$ )were used.For the selective amplification,we used fluorescence-labelld primer combinations (Table S1 of the Appendix). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "AFLP analyses for the three Arghan stands were performed on a GE Healthcare 96-capillary-sequencer (MegaBACE 1OO0) to separate fragments together with the internal size standard ET550-235 R (MegaBACE; GE Healthcare,Munich, Germany).The ramets from Ebinur Lake and Yingbazar were analyzed on a 373oXL DNA analyzer (Applied Biosystems,Waltham, MA,USA) together with the internal size standard 40oHD (Applied Biosystems). Raw data were aligned with GENEMAPPER 5 (Applied Biosystems). All electropherograms were re-examined visually in order to check for possible misinterpretations of the automated GENEMAPPER analysis. Fragments were scored as present when the appropriate peak height exceeded the standard parameter-setting thresholds (blue: 6O；green: 6O). In the final binary matrix，the presence of a band was scored as '1',whereas the absence of a band was scored as ‘O'. The resulting matrix was used for all further statistical analyses. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To check the reproducibility of the AFLP amplification and to estimate the error rate,we amplified and analyzed twice the eleven randomly selected samples.The error rate was calculated as the number of differences between the duplicated samples divided by the total number of fragments per profile (Bonin et al., 2004). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4 Identification of possible clones ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In order to distinguish clones from closely related siblings and to calculate a threshold of similarity above which two AFLP profiles were considered to belong to one clone,we used the method of Douhovnikoff and Dodd (2Oo3).We calculated the Jaccard similarity between the 11 individuals analyzed twice and used for the estimation of the error rate; these were considered as \"clones\".As siblings,we randomly chose 25 individuals from Arghan and Yingbazar stands and determined the pairwise Jaccard indices in both cases.The threshold was calculated with the following formula: $T { = } ( \\mathrm { S D _ { c l o n e s } { \\times } m e a n _ { s i b s } { + } S D _ { s i b s } { \\times } m e a n _ { c l o n e s } } ) /$ $\\left( \\mathrm { S D _ { s i b s } + S D _ { c l o n e s } } \\right)$ (with $T =$ threshold, $S _ { \\mathrm { { D = } } }$ standard deviation，and sibs $\\ c =$ siblings）(Schleuning et al.，2O11).Hence，all pairsof individuals with Jaccard similarity equal or higher than $T$ were assumed to be clones, all others not. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5 Statistical analyses ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Within-stand genetic diversity was assessed using the percentage of polymorphic loci $( \\% \\mathrm { P _ { p o p } } )$ Shannon diversity index $( H ^ { \\prime } )$ based on all AFLP fragments of the dataset (Legendre and Legendre, 1998)and Nei's gene diversity $( H _ { \\mathrm { N } } )$ (Nei, 1973). $H ^ { \\prime }$ was calculated with the software POPGENE 1.32 (Yeh and Boyle, 1997). $H _ { \\mathrm { N } }$ and the percentage of polymorphic loci were calculated for each stand with the R script AFLPDAT (Ehrich, 2O06).The same script was used to calculate frequency down-weighted marker values $( D W )$ （Schonswetter and Tribsch，2005）with modifications given in Winkler et al. (2010). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The number of private and fixed private fragments (if present) per stand was extracted from the binary matrix. Private fragments are confined to a single stand. Fixed private fragments appear in every individual of a stand (Huck et al.,2Oo9; Kramp et al., 2009). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "An analysis of molecular variance (AMOVA) (Excoffier et al., 1992) was conducted with the program ARLEQUIN 3.5.1.3 (Excofier and Lischer, 2010). AMOVA values were calculated for the entire dataset and also for different genetic groups，in order to compare levels of among-stands differentiation between these groups. Significance levels of variance components were computed by a non-parametric permutation approach with 10,OoO replicates. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To examine similarities among and within stands, we subjected a matrix of pair-wise genetic distances among individuals of all populations to subsequent Principal Coordinates Analysis (PCoA). This analysis was performed using the Excel Add-in GENALEX 6.5b5 (Peakal and Smouse,2012). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "From the binary matrix of the AFLP profiles, Nei's pair-wise genetic distances after Lynch and Milligan (1994） among all stands were calculated and relationships between them were constructed by applying the Neighbor Joining analysis (Saitou and Nei,1987) using the software FAMD 1.31 (Schluter and Harris,2006). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To study the underlying genetic structure in more detail, we used the multilocus assignment method of Pritchard et al.(2O00) as implemented in the software STRUCTURE 2.3.4 (Hubisz et al.，2009). The program assumes that all individuals come from one or multiple unknown populations,each of them characterized by a set of alele frequencies at each locus.To perform inference,the method uses the Markov Chain Monte Carlo (MCMC) approach. STRUCTURE attempts to assign individuals to populations on the basis of their genotypes, while simultaneously estimating population allele frequencies (Pritchard et al.,2OoO). In our analysis, values of $K$ (i.e., assumed genetic cluster) ranged from one to the number of the studied stands (i.e.,seven).We used 10 replicates for every $K$ with a length of burn-in period of 1Oo,OOO and a number of MCMC replicates after burn-in of 500.000. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1 Stand structure and tree morphology ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "According to our expectations,the stand density (number of trees per hectare) was higher and the average age of the sampled trees was lower on the plots with the shortest groundwater distance or conveyance of ecological water than on the plots with the largest groundwater distance at the study plots of Yingbazar and Arghan (Table 1； in Yingbazar site， statistically significant differences in tree age among the plots most probably were prevented by the small number of sampled trees on plot Y1). At both plots,the stems were shortest on the plots with the largest distance to the water table in Yingbazar and Arghan,and were also relatively short at the study site of Ebinur Lake. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2Population genetic parameters and structures ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The two selective AFLP primer combinations amplified a total of 269 fragments ranging from 63 to 357 bp; 119 (i.e., $4 4 . 2 \\% )$ ）of which were polymorphic fragments.Only well-defined and polymorphic fragments were selected for later clone detection (following the method of Douhovnikoff and Dodd (2Oo3)). The technical error rate caused by scoring and labelling of the AFLP fragments was $2 . 6 6 \\%$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The analyzed stands of $P$ .euphratica showed varying levels of genetic diversity(Table 2).The average number of polymorphic loci $( \\# p o l )$ was 1O7 in Arghan and 51 in Yingbazar site. The individuals from Ebinur Lake all showed an identical AFLP profile.The average gene diversity $( H _ { \\mathrm { N } } )$ was 0.115 $\\left( \\pm 0 . 0 0 6 6 \\right)$ ， and the average $H ^ { \\prime }$ index was 0.134 $( \\pm 0 . 0 7 9 )$ . The highest diversity was detected for Arghan site. The $D W$ values showed very strong differences among the plots, ranging from 15.2 in Yingbazar to 137.1 in Arghan. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "PCoA based on genetic distances (Huff et al.,1993) assigned the three Arghan plots to three distinct genetic groups (coord 1: $2 4 . 9 \\%$ , coord 2: $2 1 . 1 \\%$ ; Fig.la).However, the three Yingbazar stands were genetically more mixed and showed no clear demarcations,but one of the individuals from plot Y2 was quite different from all the other trees analyzed from Yingbazar (coord 1: $3 1 . 3 \\%$ ,coord 2: $8 . 2 \\%$ ; Fig. 1b). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/7797e78ad232a95cd3050ee02f23f17c98a1208cd1a8d3cee8f6bb28460bfa9b.jpg",
+        "table_caption": [
+            "Table 2Population codes,number of trees $( N )$ , number of polymorphic loci $( \\# \\ : p o l )$ , Nei's gene diversity $( H _ { \\mathrm { N } } )$ Shannon index $( H ^ { \\prime } )$ ，frequency-down-weighted marker values $( D W )$ and number of (fixed) private fragments for the seven analyzed plots of $P$ ，euphratica "
+        ],
+        "table_footnote": [
+            "Note:A1,AlandA3 indicate Arghan stands.Y1,Y2and Y3 indicate Yingbazar stands.SD,standard deviation. "
+        ],
+        "table_body": "<html><body><table><tr><td>Population code</td><td>N</td><td>#pol</td><td>HN</td><td>H</td><td>DW</td><td>Private fragment</td></tr><tr><td>A1</td><td>42</td><td>107.0</td><td>0.174</td><td>0.229</td><td>137.4</td><td>1</td></tr><tr><td>A2</td><td>30</td><td>112.0</td><td>0.198</td><td>0.214</td><td>124.4</td><td>0</td></tr><tr><td>A3</td><td>26</td><td>103.0</td><td>0.186</td><td>0.217</td><td>149.6</td><td>1(1)</td></tr><tr><td>Mean A</td><td></td><td>107.0</td><td>0.186</td><td>0.220</td><td>137.1</td><td></td></tr><tr><td>SD</td><td></td><td>3.7</td><td>0.010</td><td>0.006</td><td>10.3</td><td></td></tr><tr><td>Ebinur Lake</td><td>21</td><td>0.0</td><td>0.046</td><td>0.102</td><td>50.1</td><td>0</td></tr><tr><td>Y1</td><td>4</td><td>95.0</td><td>0.090</td><td>0.061</td><td>4.1</td><td>1</td></tr><tr><td>Y2</td><td>20</td><td>14.0</td><td>0.021</td><td>0.019</td><td>20.6</td><td>0</td></tr><tr><td>Y3</td><td>19</td><td>44.0</td><td>0.094</td><td>0.096</td><td>21.1</td><td>0</td></tr><tr><td>Mean Y</td><td></td><td>51.0</td><td>0.068</td><td>0.059</td><td>15.2</td><td></td></tr><tr><td>SD</td><td></td><td>33.4</td><td>0.033</td><td>0.032</td><td>7.9</td><td></td></tr><tr><td>Mean total</td><td></td><td>68.0</td><td>0.115</td><td>0.134</td><td>72.5</td><td></td></tr><tr><td>SD total</td><td></td><td>44.0</td><td>0.066</td><td>0.079</td><td>57.8</td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/6ae95257d87655506025c5f52304e502c59684aead957ba165668ee3e3e5b161.jpg",
+        "img_caption": [
+            "Fig.1Associations among the individuals of the three Arghan (a) and three Yingbazar (b) stands of Populus euphratica revealed by Principal Coordinate Analysis (PCoA）performed on genetic distances calculated from AFLP data. Coord 1 and Coord 2 represent the first and second principal coordinates,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A more detailed genetic structuring was revealed by the model-based Bayesian cluster analysis performed with STRUCTURE (Figs. 2a and b). The Evanno et al. (2O05) method,implemented in the online program STRUCTURE HARVESTER (Earl and von Holdt, 2O12),obtained the best resolution for $K { = } 7$ (Figs. 2c and d), representing seven genetic groups found within all sampled individuals. Regarding the stands, Arghan 1 (A1） showed a rather mixed pattern including two genetic groups, one of them being partly reflected also in some individuals from Arghan 2 (A2) stand.Another noteworthy result was pointed out for Yingbazar 1(Y1） stand,which entirely shared the same genetic cluster with Yingbazar 3(Y3). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "An AMOVA test applied to the three stands from both Arghan and Yingbazar plots revealed similar levels of variation among and within stands.For Arghan,calculating the total variation gained $3 5 . 0 \\%$ of variation among stands and $6 5 . 0 \\%$ within stands. For the three Yingbazar stands, the variation was $3 5 . 7 \\%$ among stands and $6 4 . 3 \\%$ within stands. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3Detection of clones within stands ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For the detection of clones,119 well-defined fragments were selected (Douhovnikoff and Dodd, 2003). Within the randomly chosen \"siblings\", pairwise similarity values were generated,ranging from 0.717 to 0.988 with a mean of O.864 and a standard deviation of 0.086.Within the \"clones\", pairwise similarity values were generated,ranging from O.978 to 1.0oo with a mean of O.991 and a standard deviation of O.oo8. Hence, some pair-wise similarities among siblings were greater than pair-wise similarities among some of the clones.We established our boundary between clones and no-clones so that the tails of the standardized distributions were equal (see Materials and methods).This yielded a similarity threshold of O.979.Based on this threshold,one $( 9 . 1 \\% )$ clonal pairwise similarity value was lower than this threshold and two sibling pairwise similarity values $( 8 . 0 \\% )$ were above this threshold (Fig. 3). ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/41ca5faf252ccce6185d50a83687d861a6e4b5bc02adbb50bc712e4ee98e3aa3.jpg",
+        "img_caption": [
+            "Fig.2Genetic clustering analyses of $P$ ，euphratica genotypes.Results obtained from STRUCTURE analysis displaying the genetic groups found within all sampled stands.(a) geographic distribution of the $P$ ，euphratica stands analyzed in this study,including the individual afiliations to the seven genetic groups;(b）Neighbor Joining Treebased on Nei's pair-wise genetic distances; (c) result from STRUCTURE HARVESTER,displaying values of $K$ (i.e.,assumed genetic cluster) $^ { 1 = 7 }$ being the best; (d) STRUCTURE bar plot of $K { = } 7$ A1,A2, and A3 indicate Arghan stands.Y1,Y2,and Y3 indicate Yingbazar stands.Ebi,Ebinur Lake stand. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Out of the 13,2O3 pairwise similarity values generated from the 163 individuals tested,we detected possible pairs of clones,using our similarity threshold criterion.Two pairs were found in A1,5 in A3,21O in Ebinur Lake (all pairwise similaritie $\\mathrm { s } { = } 1 . 0 0 0 \\$ ）and154 in Y2;no signals for clones were obtained for A2 as well as Y1 and Y3 (Fig. S4 of the Appendix). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1Genetic structure and gene flow among stands ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "AFLP analysis detected a generally low genetic diversity within stands，especially when compared to other studies on plants performed with this technique (Schonswetter and Tribsch, 2005;Kramp et al.,2OO9). Thus,the genetic diversity and differentiation detected by our AFLP analysis differ strongly from the ones obtained by microsatelites (Wang et al.,2O11; Eusemann et al., 2013),in which the authors observed a high genetic diversity within stands. Furthermore, microsatellites revealed no genetic differentiation among stands, while AFLP detected gene pools of most of the stands analyzed in our study. Although,in principle, both methods are suitable for efficiently identifying polymorphisms (Miah et al.,2013),AFLP in this case might be the more appropriate marker system to reveal the genetic patterns across $P$ ，euphratica stands along systems of river oases in northwestern China as it sensitively reflects the spatial distribution of the P.euphratica trees and stands. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/500330e74be7930be65a13c1b0e1f0c816397f6d6bc0d7311ad51464d7b4db60.jpg",
+        "img_caption": [
+            "Fig.3Frequency histograms of pairwise Jaccard similarities for the $1 1 \\ P$ 、euphratica individuals that were analyzedtwiceand defined as \"clones\"(red bars）and 25randomlychosen individuals treatedas \"siblings\" (blue bars)to identify the similarity threshold $( T )$ for distinguishing siblings and clones "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Hence,gene flow among different stands of $P$ . euphratica growing at the same regional site might not be as high as previously assumed (Wang et al.， 2O11; Eusemann et al., 2013). In consequence, even stands separated by only some few kilometers can have their own genetic make-up,so that inter-stand gene exchange apparently is rare. Nevertheless,rare events of gene flow among local stands can occur. On the basis of STRUCTURE and PCoA,this is obvious from the existence of one 117-year-old tree growing in the A2 stand, which could represent an offspring between one parental individual from either A1 or A3 and one parental individual from A2. This demonstrates successful pollen dispersal from either A1 or A3 to A2 and germination of the resulting seed at a time when the distance to the groundwater and to a water-carrying part of the river was much shorter.Pollen can be easily transferred among the stands of a given site at the Tarim River as days with strong winds are frequent in the Tarim floodplain; those winds come not only from the northeast but also from the northwest and can even intensify into dust storms, especially in the eastern part of the Tarim Basin (Hai et al.,2OO6). Another possibility could be a possible hybrid between $P$ ，euphratica and $P _ { \\cdot }$ ：prinosa,a species also distributed at the upper reaches of the Tarim River. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Some few additional trees of the Al and A2 stands show varying amounts of the respective other gene pool and hence underline the successful reproduction of such inter-stand mixed individuals in their respective stands. One tree has signals of gene flow from A3 to A1 in the PCoA analysis,but the signal is weak.Apparently,this inter-stand gene flow is not sufficiently large to level out the stand-specific genetic make-up in most cases. Exceptions might be Y1 and Y3,which showed no stand-specific genetic make-up, neither for the STRUCTURE nor for the PCoA analysis, in which trees from both stands appear genetically and completely mixed. The genetic similarity of the stands Y1 and Y3 could be due either to a constant gene flow between them or to the comparable small sampling size (four individuals) obtained from Y1.A possible reason for this mixture might be the transport of diaspores through river cut-offs that had interconnected the plots in former decades. Such a water-driven translocation of propagules may have also been the cause of the establishment of two Y2 ramets with an age of 6O and 8O years that, in most probability,represents one separate clone,but is genetically similar to the Y1 and Y3 individuals.Remainders of cut-offs are still visible,but are now dry at least since 2O11, possibly due to changes in the local water management (including withdrawal of water for the irigation of agricultural fields； Yimit et al.， 2OO6). Altogether，our study demonstrates that the genetic structure of $P _ { \\cdot }$ .euphratica stands can exhibit a complex pattern as a combined result of polln-mediated gene flow and clonal reproduction.A similar phenomenon has been observed in stands of $P _ { \\cdot }$ 、trichocarpa in northwestern North America. There，sub-populations have been identified within a relatively small stand in spite of extensive pollen-mediated gene flow; this finding was explained by assuming different seedling cohorts produced by relatively few mothers (Slavov et al., 2010). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.2Clonality of stands and their distance to the groundwater ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Our findings of strong superiority of generative over vegetative reproduction in the stands Al and Y1 with high groundwater table or additional water supply support our first hypothesis and the statements by Thevs et al. (2Oo8b) that generative reproduction of $P$ .euphratica depends on flood events and on a short distance to the groundwater. However, the low percentage of vegetatively reproducing individuals detected in A3 and Y3 is contrary to our expectation of a straightforward increase in the share of vegetative reproduction with an increase in the distance to the groundwater. This result parallels findings obtained from other Salicaceae species (Salix herbacea Salix lanata,and Salix lapponum), which showed that even under the harshest conditions along an environmental gradient， sexual reproduction still prevails over clonal growth despite of the species' high capacity for vegetative recruitment (Stamati et al., 2Oo7). On the other hand, our data support the assumption by Wiehle et al. (2OO9) that a rather large distance to the water table reduces the fitness of clonally growing individuals, hence selecting in favor of generatively grown trees.Likewise, clones of creosotebush (Larrea tridentata) in the Mojave Desert of southwestern North America were larger and more common on substrate with beneficial soil water conditions, but rare and less dense at drier sites with a temporarily variable soil water regime (McAuliffe et al.,2007).At our study plots A3 and Y3 with a large distance to the groundwater, the small fraction of clones may be caused by a higher mortality of ramets due to increased hydraulic resistance along the paths of water flow from the groundwater to the tree crowns (Gries et al., 2003；Thomas et al.，2Oo8) or due to asymmetric competition for water among the ramets (Callaghan et al., 1992). Unexpectedly,most of the trees of Y2,a stand with an intermediate groundwater distance across the investigated gradient at that site, apparently belonged to a single clone well differentiated from Y1 and Y3.In spite of the relatively large distance to the groundwater $( 7 . 5 ~ \\mathrm { m } )$ ， the Y2 stand exhibited a high tree density and a large fraction of young trees ( $46 \\%$ of all trees on that plot belonged to the age class of O-2O years; Thomas et al., 2017). This indicates that the water table had decreased within a relatively short period of time. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "With regard to the stands growing at intermediate groundwater distances, the picture obtained by our results is more differentiated than had been expected. According to general theory,our second hypothesis predicted a strong favoring of vegetative growth at intermediate distances to the groundwater because successful establishment of trees from germinating seeds is litle likely under such conditions, but access to the groundwater is easy for well-established trees and water supply sufficiently secures that the risk of die-offs is rather limited for interconnected clones. However,our data follow this assumption only for Y2,but not for A2.The Tarim River is a highly dynamic system changing within decades considerably (Thevs et al.， 2Oo8a; Yu et al., 2016)and the use of its water for irrigation purposes has increased tremendously over the past few decades (Feng et al.,2005; Xu et al.,2006). Thus, most likely, the water table on plot A2 was still high when most of this stand was established, but dropped considerably during the subsequent decades. This is even more plausible when taking into consideration that the stands in Arghan,located at the lower reaches of the Tarim River (as opposed to Yingbazar at the middle reaches),are much more affected by the increasing consumption of water for irrigation of arable fields (Peng et al.,2O14). However, we also must not underestimate the influence of stochasticity in these extreme habitats so that occasional groundwater fluctuations and erratic inundations might be responsible for the structure of the stands in Arghan.It should be noted that the stands at plots with an intermediate groundwater depth have to be handled as a heterogeneous group with potentially large differences in their genetic stand structure. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "According to our third hypothesis,our assumption of a clear favoring of clonal growth on salty soils with a groundwater depth (in parts, ${ < } 2 ~ \\mathrm { m } )$ ） that otherwise is well suitable for generative reproduction (Wang et al.，1996) is strongly supported by our finding of the highest extent of clonality in EbinurLake. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Our findings may have important consequences for the future conservation planning,and genetic analyses should be included for an optimization. As safeguarding genetic diversity is crucially important, the ecologically best secured stands at places with high groundwater level and frequent inundations should be given the highest conservation priority. These stands seem to be mostly composed of trees resulting from generative reproduction and, thus,are the result of genetic intermixture and hence uniqueness. Flooding events have already been proven successful in initiating the restoration of riparian forests at the lower reaches of the Tarim River. In the case of intermediate groundwater levels,genetic analyses are pivotal for the selection of the most relevant stands as only the ones representing genetically diverse stands with a high percentage of trees resulting from sexual reproduction may withstand further reduction in water supply, even if the shortage is just temporary. In case of stands at places with a large distance to the groundwater and unlikely inundation events,a clear focus has to be given to genetically diverse stands as stands mostly composed of clones might have a very poor survival perspective. For these reasons, we also recommend adapting the regional water management to safeguard the genetically most relevant stands. Against the background of limited water resources in the entire region, however, the supply with water for conservation purposes should concentrate on plots that have a short distance to the groundwater and can be flooded at least once a year to ensure the long-term survival of genetically diverse riparian poplar forests. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The study was funded by the German Federal Ministry of Education and Research (O1LLO918K).We thank Tobias WOMMELSDORF(Department of Geobotany, Universityof Trier,Germany）for his contribution to leaf sampling at the study plots of Yingbazar and Arghan. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Aishan T,HalikU,BetzF,etal.2O16.Modeling height-diameterrelationshipforPopuluseuphraticainthe Tarimriparian forest ecosystem,Northwest China. Journal of Forestry Research,27(4): 889-900.   \nBelinghamPJ,SparrowAD.2Ooo.Resprouting asalife historystrategy inwoodyplantcommunities.Oikos,89(2):409-416.   \nBonin A,BellemainE,BronkenEidesenP,etal.24.Howtotackandassessgenotyping errors inpopulationgneicsstudies. Molecular Ecology,13(11): 3261-3273.   \nCallghan TV,Carlsson BA,JnsdótirIS,etal.1992.Clonal plantsandenvironmental change:introductiontothe proceedings and summary. Oikos,63(3): 341-347.   \nCaoDC,LiJW,HuangZY,etal.2012.ReproductivecharacteristicsofaPopulus euphratica populatioand prospectsforits restoration in China.PLoS ONE,7(7):e39121.   \nCrawfordRMM.2O08.Plants atthe Margin:EcologicalLimitsand Climate Change.Cambridge:Cambridge University Press, 153-155.   \nCremer K W.2Oo3.Introduced willows can become invasive pests in Australia. Biodiversity,4(4):17-24.   \nDe WiteLC,ArmbrusterGFJ,GiellL,etal.2O12.AFLPmarkersreveal highclonal diversityand extreme longevity n four key arctic-alpine species.Molecular Ecology,21(5):1081-1097.   \nDouhovnikoffV,DoddRS.2Oo3.Intra-clonalvariationandasimilaritythresholdforidentificationofclones:applicationto Salix exigua using AFLP molecular markers.Theoretical and Applied Genetics,106(7): 1307-1315.   \nDouhovnikoffV,McBrideJR,DoddRS.2Oo5.Salixexiguaclonal growthand population dynamics inrelationtodisturbance regime variation. Ecology,86(2): 446-452. Canadian Journal of Forest Research,27(12):1998-2004.   \nEarl D A,vonHoldt BM. 2012.STRUCTURE HARVESTER: a website and program for visualizing STRUCTURE output and implementing the Evanno method.Conservation Genetics Resources,4(2): 359-361.   \nEhrich D.2006.AFLPdat: acollection of R functions forconvenient handlingof AFLPdata. Molecular Ecology Notes,6(3): 603-604.   \nEusemann P,PetzoldA,Thevs N,etal.20l3.Growth paternsand genetic structureof Populus euphraticaOliv.(Salicaceae) forests in NW China-implications forconservation and management.Forest Ecology and Management,297:27-36.   \nEvanno G,Regnaut S,Goudet J.2Oo5.Detecting the numberof clustersof individuals using the software STRUCTURE:a simulation study. Molecular Ecology,14(8):2611-2620.   \nExcoffier L,Smouse PE,Quatro JM.1992.Analysis of molecular variance inferred from metric distances among DNA haplotypes: application to human mitochondrial DNA restriction data. Genetics,131(2): 479-491.   \nExcofier L,Lischer HEL. 2010.Arlequin suite ver 3.5: anew series of programs to perform population genetics analyses under Linux and Windows.Molecular Ecology Resources,10(3): 564-567.   \nFangCF， ZhaoSD， SkvortsovAK. 2015.FloraofChina:Salicaceae. [2018-01-20]. http://www.efloras.org/florataxon.aspx ?flora_id $\\scriptstyle 1 = 2$ &taxon_id=200005667.   \nFeng Q,Liu W,SiJH,etal.2Oo5.Environmental efectsof waterresource development anduse inthe Tarim Riverbasinof northwestern China. Environmental Geology,48(2): 202-210.   \nGartnerP,Forster M,KurbanA,etal.2O14.Objectbasedchange detectionof Central Asian Tugai vegetation withvery high spatialresolution satelite imagery.International Jouralof Applied Earth Observationand Geoinformation,31:110-121.   \nGries D,ZengF,Foetzki A,et al.20o3.Growth and water relations of TamarixramosissimaandPopuluseuphraticaon Taklamakan desert dunes in relation todepth to apermanent water table.Plant,Celland Environment,26(5):725-736.   \nHai Y,WaiL,Hoppe T,etal.2Oo6.Half acenturyofenvironmentalchangeintheTarimRiverValley-Anoutlineofcauseand remedies.In: Hoppe T,Kleinschmit B,RobertsB,etal.WatershedandFloodplain Management alongthe TarimRiverin China's Arid Northwest.Aachen: Shaker,39-76.   \nHubiszM J,Falush DStephens M,etal.2009.Inferring weak population structure with the asistance of sample group information.Molecular Ecology Resources,9(5):1322-1332.   \nHuck S,BudelB,KadereitJW,etal.2o9.Range-widephylogeographyof theEuropeantemperate-montaneherbaceous plant Meum athamanticum Jacq.: evidence for periglacial persistence.Journal of Biogeography,36(8): 1588-1599.   \nHuff D R,PeakallR,Smouse PE.1993.RAPD variation within and among natural populations of outcrossing bualograss [Buchloe dactyloides (Nutt.) Engelm.].Theoretical and Applied Genetics,86(8): 927-934.   \nJenik J.1994.Clonal growth in woody plants: a review.Folia Geobotanica,29(2): 291-306.   \nKarrenberg S,EdwardsPJ,KollmannJ.2Oo2.The lifehistoryofSaicaceaelivingin theactivezoneoffloodplains.Freshwater Biology,47(4): 733-748.   \nKramp K,Huck S,NiketicM,et al.2O09.Multipleglacial refugiaandcomplex postglacialrange shiftsof theobligatory woodland plant Polygonatum verticilltum (Convallariaceae).Plant Biology,11(3): 392-404.   \nLang P,JeschkeM,WommelsdorfT,etal.20l5.Woodharvestbypollardingexertslong-termeffectsonPopuluseuphratica stands in riparian forests at the Tarim River,NWChina.Forest Ecology and Management,353: 87-96.   \nLegendre P,Legendre L.1998.Numerical Ecology. Amsterdam: Elsevier, 853.   \nLing HB,Zhang P,XuHL,etal.2O15.How toregenerateand protect desertriparianPopulus euphratica forest inaridareas. Scientific Reports,5: 15418.   \nLorenzoP,GonzalezL,ReigosaMJ.20l0.ThegenusAcaciaas invader:thecharacteristiccaseof Acaciadealbata link in Europe.Annals of Forest Science,67(1): 101.   \nLynch M,Miligan B G.1994. Analysis of population genetic structure with RAPD markers.Molecular Ecology,3(2): 91-99.   \nMcAuliffe JR,Hamerlynck EP,Eppes M C.2007.Landscape dynamics fostering the development and persistenceof long-lived creosotebush (Larrea tridentata)clones inthe Mojave Desert.Journalof Arid Environments,69(1): 96-126.   \nMiah G,RafiiMY,IsmailMR,etal.2013.Areviewofmicrosatelite markersandtheirapplications inricebreeding programs to improve blast disease resistance.International Journal of Molecular Sciences,14(11): 22499-22528.   \nMilton SJ,Dean WR J.20l0.Plant invasions inarid areas: special problems and solutions: a South African perspective. Biological Invasions,12(12): 3935-3948. Molecular Ecology,17(22): 4827-4844.   \nNeiM.1973.Analysis of gene diversity in subdivided populations.Proceedings of the National Academyof Sciences of the United States of America,70(12): 3321-3323.   \nPeakallR,SmousePE.2O1.GenAlEx6.5: geneticanalysis inExcel.Population genetic software forteachingandresearch-an update.Bioinformatics,28(19): 2537-2539.   \nPeng SH,Chen X,QianJ,etal.2O14.Spatial patternof Populus euphraticaforestchange asaffected bywaterconveyancein the lower Tarim River.Forests,5(1): 134-152.   \nPetzold A,PfeiferT,JansenF,etal.2O13.Sexratiosandclonal growth indioeciousPopulus euphraticaOliv.,Xinjiang Province,Western China. Trees,27(3): 729-744.   \nPritchard JK,Stephens M,Donnelly P.2Ooo.Inferenceof population structure using multilocus genotype data.Genetics, 155(2): 945-959.   \nQiaoJF,YangWK,GaoXY.2Oo6.Natural dietandfood habitatuseof theTarimreddeer,Cervus elaphus yarkandensis.In: Hoppe T,Kleinschmit B,Roberts B,et al.Watershed andFloodplain Management along the TarimRiver in China's Arid Northwest. Aachen: Shaker,147-152.   \nReisch C,Schurm S,PoschlodP.2oo7.Spatial geneticstructureand clonal diversity inanalpinepopulationof Salixherbacea (Salicaceae). Annals of Botany, 99(4): 647-651.   \nSchleuning M,BeckerT,VadiloGP,etal.2011.Riverdynamicsshapeclonaldiversityand genetic structureof anAmazonan understorey herb.Journal of Ecology, 99(2): 373-382.   \nSchluterPM,Harrs SA.2Oo6.Analysisof multilocus fingerprintingdata sets containing missingdata. MolecularEcology Resources,6(2): 569-572.   \nSchonsweterP,TribschA.2Oo5.Vicarianceanddispersal inthealpineperennial Bupleurum stelltumL.(Apiaceae).Taxon, 54(3): 725-732.   \nSlavov G T,Leonardi S,Adams WT,et al.2010.Populationsubstructure in continuous and fragmented standsof Populus trichocarpa.Heredity,105(4): 348-357.   \nStamati K,HollingsworthPM,RuselJOo7.Patersofcloaldiversityinthreespeciesofsub-arcticwillow(Salix lnata, Salix lapponum and Salix herbacea).Plant Systematics and Evolution,269(1-2):75-88.   \nThevs N,ZerbeS,PeperJ,etal.2Oo8a.VegetationandvegetationdynamicsintheTarimRiverfloodplainofcontinental-arid Xinjiang,NW China. Phytocoenologia,38(1-2): 65-84.   \nThevs N,Zerbe,hitler,etal.ob.Structure,reproductionandflood-induceddyamicsofriparianTugaifoestsat the Tarim River in Xinjiang,NWChina.Forestry:An International Journal of Forest Research,81(1): 45-57.   \nThomasFM,ArndtSK,BruelheideH,etal.2Ooo.Ecologicalbasisforaustainable managementoftheidigenous vegetation in a Central-Asian desert: presentation and first results.Journal of Applied Botany,74(5-6): 212-219.   \nThomasFM,FotzkiA,GriesD,etal.2O08.Regulationofthe waterstatusinthreecooccurringphreatophytesat theouthe fringe of the Taklamakan Desert. Journal of Plant Ecology,1(4): 227-235.   \nThomas FM.2014.Ecologyof phreatophytes.In: Luitge U,Beyschlag W,Cushman J.Progressin Botany.Berlin Heidelberg: Springer,335-375.   \nThomas FM,Jeschke M,Zhang X M,et al.2O17.Stand structure and productivityof Populus euphraticaalong a gradientof groundwater distances at the Tarim River (NW China).Journal of Plant Ecology,1O(5): 753-764.   \nThomas L K,Tole L, ZiegenhagenB,etal.2012.Are vegetativereproduction capacities thecauseof widespread invasionof Eurasian Salicaceae in Patagonian river landscapes? PLoS ONE,7(12): e50652.   \nTiedemanRB,Rood SB.2015.Flood flowatenuation diminishescotonwoodcolonization sites:anexperimentaltestalong the Boise River, USA. Ecohydrology,8(5): 825-837.   \nVasek FC.1980.Creosote bush:long-lived clones in the Mojave Desert.American Jourmal of Botany,67(2): 246-255.   \nVonlanthen B,Zhang XM,Bruelheide H.2010.Clonal structure and genetic diversityof threedesert phreatophytes.American Journal of Botany,97(2): 234-242.   \nVos P,Hogers R,Bleker M,etal.1995.AFLP: anew technique forDNA fingerprinting.Nucleic Acids Research,23(21): 4407-4414.   \nWang J,Li ZJ,GuoQH,etal.2011.Genetic variation withinandbetweepopulationsofadesertpoplar(Populuseuphratica) revealed by SSR markers.Annals of Forest Science,68(6): 1143-1149.   \nWang S J,Chen BH,LiHQ.1996.Euphrates PoplarForest.Beijing: ChinaEnvironmental Science Pres,17-95.(inChinese)   \nWiehle M,EusemannP,ThevsN,etal.Oo9.Rootsuckering paterns inPopuluseuphratica (Euphratespoplar,Salicaceae). Trees,23(5): 991-1001.   \nWinklerM,Tribsch A,PaunO,etal.20l0.Pleistocene distributionrange shiftswereaccompanied by breding system divergence within Hornungia alpina (Brassicaceae)in the Alps.Molecular Phylogenetics andEvolution,54(2):571-582.   \nXia X,LiC,ZhouX,etal.1993.DesertificationandControlofBlownSandDisastersin Xinjiang.Beijing:SciencePress,7-14. (in Chinese)   \nXuH,Ye M,NayupA,etal.2Oo6.The stateof ecologicaldegradationandrehabilitationalongthelowerreachesof theTarim River.In: Hoppe T,Kleinschmit B,Roberts B,etal.WatershedandFloodplain Managementalong the TarimRiver in China's Arid Northwest. Aachen: Shaker,327-335.   \nYehFC,Boyle TJB.1997.Population genetic analysis ofco-dominant and dominant markersand quantitative traits.Belgian Journal of Botany,129:157.   \nYiliminuer,MaimaitiA,TaxiZ,etal.2O15.SeedgerminationcharacteristicsofPopulus euphraticafromdiferentprovenances under NaCl stress.Journal of Northwest Forestry University,3O(6):88-94.(in Chinese)   \nYimit H,He,Halik W,etal.2O6.WaterresourcedevelopmentanditsenvironmentaleffectsintheTarimRiverfloodplain. In: Hoppe T,KleinschmitB,RobertsB,etal.WatershedandFloodplainManagementalongtheTarimRiverin Chia'sArid Northwest. Aachen: Shaker, 91-107.   \nYuGA,Dise M,Huang HQ.2Ol6.River network evolutionand fluvial processresponses tohuman activityinahyper-arid environment - Case of the Tarim River in Northwest China.CATENA,147: 96-109.   \nYuR D.2O08.Forest development along the formerriver Aqikesuin the AibiHu national nature reserve inP.R.China.Ph.D. Dissertation.Berlin:Technische Universitat Berlin.   \nZerbe S,Thevs N.2Ol1.RestoringCentral Asianfloodplain ecosystems asnaturalcapitalandcultural heritage inacontinental desert environment.In:Hong SK,KimJE,WuJG,etal.LandscapeEcology inAsianCultures.Tokyo: Springer,277-297. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Appendix ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/86c768c225e4dd3e8cae355312c6ad79ceb424d6c0af2a7b3ad3fdcbdb919f4e.jpg",
+        "img_caption": [
+            "Fig.S1Yingbazar study site with the three study plots Y1,Y2,and Y3.The current Tarim River course can be sen at the lower part of the picture; at the upper part of the picture,old cut-ofs between the study plots Y2 and Y3 are visible.These were once filed with water;but after 1950/1960,the water of the Tarim River was over-exploited due to the large increase in number and size of cotton farms (these farms are scatered throughout theentire study site)resulting in a drying-upof these cut-offs (Thevs et al.,2O08b);thus,the water course between the study plots Y2 and Y3 disappeared. "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/f045b9a1362b68aa2238b365ce4eba90591dd5fe744eb820bf12bd5de363733d.jpg",
+        "img_caption": [
+            "Fig.S2Arghan study site with the three study plots A1,A2and A3.The picture shows thedesert-like character of this site.The Tarim-River (displayedon the right side of the picture)and the cut-off above plot Al are filled with waterduring ecological waterdiversiononly(Al is not inundated during ecological water diversion,but the groundwater level rises).Plots A2 and A3 do not benefit from ecological water diversion as they are too far away from the river and the cut-offs. "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/604880f318ba9e07e20774b0c0641ce05895fb54c2195a4cf2e504a4f0d27f64.jpg",
+        "img_caption": [
+            "Fig.S3Ebinur study site close to Ebinur Lake (visible on the upper left side of the picture) "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "Table S1Adapter,primer,and fluorescent primer combinations used for the AFLP analysisof Populus euphratica "
+        ],
+        "table_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(c）",
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/13a11851068ce3aa54741609a86c9e0818d91d7734778b4cbe4a8604c4e8078b.jpg",
+        "img_caption": [
+            "Fig. S4List of possible clone pairs. The Jaccard similarity indices ${ > } 0 . 9 7 9$ are marked in red.Possible clone pairs are listed for the Arghan (a),Ebinur(b),and Yingbazar(c） stands.The thre-digit number is the identification of the individual Populus euphratica ramets sampled. "
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Ebi003Ebi016 Ebi 027 Ebi031Ebi034Ebi 038 Ebi 050 Ebi053 Ebi 085 Ebi109 Ebi 112 Ebi 115 Ebi 124Ebi 131 Ebi 137 Ebi 140 Ebi_158 Ebi 160 Ebi 186 Ebi 187   \nEbi_001 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000   \nEbi_003 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000   \nEbi 016 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000   \nEbi_027 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000   \nEbi_031 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000   \nEbi_034 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000   \nEbi_038 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000   \nEbi_050 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000   \nEbi_053 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000   \nEbi085 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000   \nEbi 109 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000   \nEbi_112 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000   \nEbi 115 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000   \nEbi_124 1.000 1.000 1.000 1.000 1.000 1.000 1.000   \nEbi_131 1.000 1.000 1.000 1.000 1.000 1.000   \nEbi_137 1.000 1.000 1.000 1.000 1.000   \nEbi 140 1.000 1.000 1.000 1.000   \nEbi158 1.000 1.000 1.000   \nEbi_160 1.000 1.000   \nEbi_186 1.000 ",
+        "page_idx": 16
+    }
+]

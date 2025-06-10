@@ -1,0 +1,323 @@
+[
+    {
+        "type": "text",
+        "text": "A S-Layer Protein of Bacillus anthracis as a Building Block for Functional Protein Arrays by In Vitro Self-Assembly ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xu-Ying Wang, Dian-Bing Wang,\\* Zhi-Ping Zhang, Li-Jun Bi, Ji-Bin Zhang, Wei Ding, and Xian-En Zhang\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "S-layer proteins create a cel-surface layer architecture in both bacteria and archaea. Because S-layer proteins self-assemble into a native-like S-layer crystalline structure in vitro, they are attractive building blocks in nanotechnology. Here, the potential use of the S-layer protein EAl from Bacillus anthracis in constructing a functional nanostructure is investigated, and apply this nanostructure in a proof-of-principle study for serological diagnosis of anthrax. EAl is genetically fused with methyl parathion hydrolase (MPH),to degrade methyl parathion and provide a label for signal amplification. EAl not only serves as a nanocarrier, but also as a specific antigen to capture anthrax-specific antibodies. As results, purified EAl-MPH forms a single layer of crystalline nanostructure through self-assembly. Our chimeric nanocatalyst greatly improves enzymatic stability of MPH. When applied to the detection of anthraxspecific antibodies in serum samples, the detection of our EAl-MPH nanostructure is nearly 300 times more sensitive than that of the unassembled complex. Together, it is shown that it is possible to build a functional and highly sensitive nanosensor based on S-layer protein. In conclusion, our present study should serve as a model for the development of other multifunctional nanomaterials using S-layer proteins. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In biological systems,a large number of nanostructures. including fibers,tubes,rings,cages,and viruses have been identified.These nanoarchitectures are formed through spontaneous self-assembly of biomolecules such as nucleic acids. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "lipids, peptides,and proteins.Because these biomolecules selfassemble into uniform and ultrasmall units,they have been used in a wide range of applications in nanotechnology,where theyare of great interest for developing nanoreactors,matrix scaffolds, nanocarriers,and other functional nanomaterials.[1] ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The cell-surface layer (S-layer) is a self-assembled protein architecture that forms the outermost surface of some bacteria and archaea.The S-layer is composed of a single protein or glycoprotein,with a molecular mass ranging from 40 to $2 3 0 ~ \\mathrm { k D }$ depending on its bacterial origin.[2] In different species, the S-layer consists of regular 2D crystalline arrays,exhibiting either an oblique (p1,p2),square (p4),or hexagonal (p3,p6) lattice symmetry.[3l Previous studies have shown that S-layer proteins canself-assemble intoanative-like S-layer crystalline structure on solid surfaces and interfaces.[4] This self-assembling property of S-layer proteins might serve as prerequisite for their application in synthetic biology, biomimetics, and nanotechnology.[5] It was reported previously that S-layers can improve the performance of certain electrodes,DNA microarrays,microchips, and cellular micropatterning.6] Because of the high densities of their nanosized pores and the presence of chemical groups on their surface,S-layers were also reported to be useful for ultrafiltration as well as for the synthesis of inorganic nanocrystals.[7] Besides,specific proteins such as streptavidin,enzymes,and antibodies can be linked with S-layer proteins to construct versatile nanostructures with multiple functions.[8] During the last three decades,the knowledge of the defined crystal structures and the assembling process of S-layers has grown rapidly, it is now feasible to design novel S-layer-based lattices using computational design.[9] These reported studies have shown great interests on S-layerproteins for their self-assemblyability,as well as related physicochemical properties.However,many intrinsic biological characteristics of S-layer proteins were neglected,which will to some degree restrict applications of S-layer proteins in nanotechnology. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The S-layer protein of Bacillus anthracis EA1 is the most active avirulent antigen in both serological and cellular reactions,with 861 amino acids and a signal peptide of 29 amino acids at the N-terminal.[10l This protein can induce anti-anthrax immune responses.In the process of infection, specific antibodies are produced in the host,conferring protection against $B .$ anthracis[11] Thus, it was previously suggested that it can be used to test for specific humoral and cell-mediated anti-anthrax immune responses.[12] ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The aim of this study is to develop an S-layer-enzyme conjugate for high sensitive detection of anthrax antibodies. The enzyme we used is methyl parathion hydrolase (MPH), which was isolated from Pseudomonas sp. WBC-3,[13] and shows good catalytic activity.[14] In particular,it is a monomer in solution and its 3D structure is known.Because of these features, MPH is recommended as a new analytical enzyme.[15] ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study,we demonstrated successfully thatEA1 selfassembled into an S-layerlattice structure invitro,and constructed an EA1-based 2D nanostructure containing MPH, which was arranged in an orderly fashion,allowing for the degradation of methyl parathion and the detection of anthrax antibodies.This nanostructure obviously enhances stability of enzymatic activity.This nanocatalyst possesses high detection sensitivity, which is comparable to existing methods,[16] and can be used as a model for other immunoassays.Here, weestablished a proof-of-principlethat S-layer-based nanomaterials can be endowed with new functions by combining the self-assembly ability of S-layer proteins with their intrinsic biological characteristics. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Results and Discussions ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1. Construction of $\\mathsf { E A } _ { 3 0 }$ MPH,and $\\mathsf E \\mathsf { A } \\mathsf { \\mathbf 1 } _ { 3 0 }$ -MPH",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "EA1 with a signal peptide of 29 amino acids truncation at N-terminal $( \\mathrm { E A } 1 _ { 3 0 } )$ and its fusion protein with MPH （20 $\\left( \\mathrm { E A l } _ { 3 0 } { - } \\mathbf { M P H } \\right)$ ）were investigated for their expressions in Escherichia coli M15 by sodium dodecyl sulfate-polyacrylamide gel electrophoresis(SDS-PAGE) analysis.As shown in Figure S (Supporting Information), $\\mathbf { E A } 1 _ { 3 0 } \\mathbf { - M P H }$ $\\mathrm { E A } 1 _ { 3 0 }$ ,and MPH were overexpressed as soluble forms in $E$ coli M15, and these proteins were obtained byHis-Tagaffinitypurification (Figure S, Supporting Information). The molecular mass of purified proteins were $1 2 4 ~ \\mathrm { { k D a } }$ ， $9 0 ~ \\mathrm { k D a }$ ,and $3 4 ~ \\mathrm { k D a }$ for $\\mathbf { E A } 1 _ { 3 0 } \\mathbf { - M P H }$ ， $\\mathrm { E A } 1 _ { 3 0 }$ and MPH,respectively,as shown by gel electrophoresis (Figure S, Supporting Information). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Recrystallization of $\\mathtt { E A 1 } _ { 3 0 }$ and $\\mathsf { E A } _ { 3 0 }$ -MPHInVitro ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To test whether the truncated form $\\mathrm { E A } 1 _ { 3 0 }$ possesses selfassembly properties in aqueous solution,we employed TEM analysis.The purified proteinswere dialyzed inassembly buffer at either $2 5 ^ { \\circ } \\mathrm { C }$ or $4 ^ { \\circ } \\mathrm { C }$ for 5or $1 2 \\mathrm { h }$ .Subsequently, the dialyzed proteinswere placed ona TEM grid according to standard EM procedure (see Experimental Section).We found that these truncated proteins recrystallized under these conditions.When incubated at $4 ^ { \\circ } \\mathrm { C }$ for 12 h, $\\mathrm { E A } 1 _ { 3 0 }$ proteins formed the most regular 2D crystalline arrays (data not shown). $\\mathrm { E A } 1 _ { 3 0 }$ proteins selfassembled into regular monomolecular layer (Figure 1a,b,e), with the unit cells displaying the following parameters: $a =$ 73 A, $b = 8 3 \\textrm { \\AA }$ ， $\\gamma = 1 1 2 ^ { \\circ }$ .As shown in Figure 1,the sheet displayed a nanostructure of p1 symmetry,which was identical to the previously reported structure of a natural S-layer in B. anthracis.[17] To identify which region within EA1 is essential for its self-assembly,we truncated either 229 aa or 429 aa from both N-terminus and C-terminus,which were named as $\\mathrm { E A 1 } _ { \\mathrm { N } - 2 3 0 } .$ $\\mathrm { E A 1 _ { N - 4 3 0 } }$ and $\\mathrm { E A 1 } _ { \\mathrm { C } \\cdot 2 3 0 }$ $\\mathtt { E A l } _ { \\mathrm { C } - 4 3 0 }$ . We found that only $\\mathrm { E A 1 _ { N - 2 3 0 } }$ maintained the ability of self-assembly into monolayers in solutions.However,this sheet had no clearand regular lattice structure (data not shown).These results indicated that deletion of these amino acids disrupted the self-assembly property of EA1.Therefore,only the truncated $\\mathrm { E A } 1 _ { 3 0 }$ was chosen as a carrier for subsequent experiments. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Next,we combined MPH with $\\mathrm { E A } 1 _ { 3 0 }$ and tested if the self-assembly process still occurred.As shown in Figure 1f,g.,j, $\\mathrm { E A 1 } _ { 3 0 } \\mathrm { - M P H }$ also formed a highly order monolayer,which showed the same p1 symmetry as $\\mathrm { E A } 1 _ { 3 0 }$ alone with slightly altered unit cell parameters $\\left( a = 6 2 \\mathrm { \\AA } , b = 7 1 \\mathrm { \\AA } , \\gamma = 1 3 5 ^ { \\circ } \\right)$ ！ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.MPH Activity and Stability of Recombinant Protein $\\mathtt { E A 1 } _ { 3 0 }$ -MPH ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The activity of recombinant MPH either alone or in complex with $\\mathrm { E A } 1 _ { 3 0 }$ 1 $\\mathbf { \\langle E A 1 _ { 3 0 } - M P H }$ ）was determined in both assembly buffer and control buffer.The control buffer was used to keep proteins in monomeric state and acted as an ideal buffer for enzymatic reactions. In the assembly buffer, $\\mathrm { E A } 1 _ { 3 0 }$ and $\\mathrm { E A 1 } _ { 3 0 } { \\mathrm { - M P H } }$ proteins formed a monomolecular nanostructure with regular crystal lattices.As shown in Figure 2, $\\mathrm { E A 1 } _ { 3 0 } \\mathrm { - M P H }$ exhibited similar MPH activity as monomeric MPH,both of which were diluted in the control buffer. Together, these results showed that fusion with EA1 had no significant impact on MPH activity of MPH. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9743c0c7adb007974b0736c659ddc74b761b0c52ff1aec5903ce7bee03c82f9c.jpg",
+        "img_caption": [
+            "Figure1. Transmission electron microscopy (TEM) analysis of self-assembled S-layers of $\\mathsf { E A 1 } _ { 3 0 }$ and $\\mathsf { E A 1 } _ { 3 0 } - \\mathsf { M P H }$ a,f),respective S-layer sheets of $\\mathsf { E A 1 } _ { 3 0 }$ and $\\mathsf { E A 1 } _ { 3 0 } - \\mathsf { M P H }$ ；b,g),enlarged S-layer sheetsof $\\mathsf { E A 1 } _ { 3 0 }$ and $\\mathsf { E A 1 } _ { 3 0 } - \\mathsf { M P H } ; \\mathsf { c } , \\mathsf { h }$ ),fast Fourier transforms of b,g);d,i),spot masks for maps c,h) obtainedbyFsturietrafoagfe;)afroertdiealgulaructu of $\\mathsf { E A 1 } _ { 3 0 }$ and the altered regular structure of the S-layer sheet of $\\mathsf { E A 1 } _ { 3 0 } \\mathrm { - } \\mathsf { M P H }$ ,respectively.Scale bars:a,f) $5 0 0 ~ \\mathsf { n m }$ ,b,g) $5 0 ~ \\mathsf { n m }$ ,and e,j) $1 0 \\ : \\mathsf { n m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Next,we compared the activities of $\\mathrm { E A } 1 _ { 3 0 } { \\mathrm { - M P H } }$ and MPH in the assembly and control buffers using a colorimetric assay.Our results showed that in the assembly buffer,both $\\mathrm { E A 1 } _ { 3 0 } \\mathrm { - M P H }$ and MPH displayed slightly decreased enzyme activityrelative to controlbuffer.Presumably, thiswas due to the different concentrations of $\\mathrm { C a } ^ { 2 + }$ and the difference in pH value between these two buffers. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To investigate the effect of storage temperature on the enzymatic activity of $\\mathrm { E A } 1 _ { 3 0 } { \\mathrm { - M P H } }$ and MPH, the proteins were stored at $4 ^ { \\circ } \\mathrm { C }$ and at $3 7 ^ { \\circ } \\mathrm { C } .$ ,respectively,in the absence of preservatives.The enzymatic activity of MPH in control buffer at time-point zero was defined as $1 0 0 \\%$ . At $4 \\ ^ { \\circ } \\mathrm { C } ,$ the assembled $\\mathbf { E A } 1 _ { 3 0 } \\mathrm { - M P H }$ maintained $70 \\%$ enzymatic activity over the course of $4 5 \\mathrm { ~ d ~ }$ ，while the activities of monomeric $\\mathrm { E A 1 } _ { 3 0 } \\mathrm { - M P H }$ and MPH were significantly decreased over the same time span (below $2 0 \\%$ ,see Figure 3a).At $3 7 \\ { ^ { \\circ } } \\mathrm { C } .$ the assembled $\\mathrm { E A 1 } _ { 3 0 } \\mathrm { - M P H }$ form displayed a slow reduction in activity, reaching approximately $2 5 \\%$ of starting activity. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1fa4d5f43024073e2f72065508ab2cb7e44295647faf2e2d234cb88bc081f224.jpg",
+        "img_caption": [
+            "Figure 2.The methyl parathion hydrolase activity of $\\mathsf { E A 1 } _ { 3 0 } - \\mathsf { M P H }$ and MPH.Assembly buffer: $1 0 \\times 1 0 ^ { - 3 } \\mathrm { ~ M ~ C a C l } _ { 2 }$ $0 . 5 \\times 1 0 ^ { - 3 } ~ { \\textmu }$ tris-HCl, ${ \\mathsf { p H } } 9 . 0$ ；control buffer: $0 . 5 \\times 1 0 ^ { - 3 } ~ \\mathrm { m }$ tris-HCl, $\\mathsf { p H 7 } . 0$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/22facedcd7ef04cb17f2c78292114b648b10b6fa83a5ed621a9f4c2958a3fcea.jpg",
+        "img_caption": [
+            "Figure 3.Enzyme stability analysis.The enzyme stability of $\\mathsf { E A 1 } _ { 3 0 } - \\mathsf { M P H }$ and MPH at a) $4 ^ { \\circ } C$ and b) $3 7 ^ { \\circ } \\mathsf C .$ Assembly buffer: $1 0 \\times 1 0 ^ { - 3 }$ M $\\mathsf { C a C l } _ { 2 }$ $0 . 5 \\times 1 0 ^ { - 3 }$ M tris-HCl,pH 9.O;control buffer: $0 . 5 \\times 1 0 ^ { - 3 }$ M tris-HCl, $\\mathsf { p H } ~ 7 . 0$ .The enzyme activity of MPH in control buffer at O day was defined as $1 0 0 \\%$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In contrast,the activities of monomeric $\\mathrm { E A 1 } _ { 3 0 } \\mathrm { - M P H }$ and MPH were reduced to below $1 0 \\%$ after only $2 \\mathrm { d }$ of storage (green and purple bars in Figure 3).Importantly, $\\mathrm { E A } 1 _ { 3 0 }$ greatly increased the long-term stability ofMPHupon assembly (red bar in Figure 3),relative to MPH alone in assembly buffer (blue bar in Figure 3), presumably because the rate of degradation of MPH molecules was greatly reduced upon incorporation into the EA1 layer.In comparison, the monomeric proteins lost $9 0 \\%$ of their enzymatic activity after $3 \\mathrm { d }$ of storage at $3 7 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Insummary，in addition tothe improved self-assembly,the enzyme stability of MPH was greatly increased by fusion to EA1. These results suggest that in theory,any enzymatic moiety can be incorporated into such a nanostructure in order to improve its overall activity as well as long-term stability. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4. $\\mathtt { E A 1 } _ { 3 0 }$ -MPH-Based Nanostructure for the Detection of Anthrax ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7cf9d62e5d29c76c8ffae983ce0fe2ff621e11508d0c0883ed5ba566f224f336.jpg",
+        "img_caption": [
+            "Figure 4.Schematic illustration of the detection of anthrax antibodies with monomeric a) $\\mathsf { E A 1 } _ { 3 0 } - \\mathsf { M P H }$ and b) self-assembled $\\mathsf { E A 1 } _ { 3 0 } - \\mathsf { M P H }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Since we showed that MPH activity is retained uponassembly in EA1 layer,we next wanted to test whether this nanostructure couldbeusedto detect clinicallyrelevant biomaterial at improved sensitivity.Figure 4 shows the detection of anthrax antibodies with $\\mathbf { E A } 1 _ { 3 0 } \\mathrm { - M P H }$ .In this protocol, goat anti-mouse antibodies were immobilized on magnetic particles to capture murine antibodies.Among these antibodies, the anti-EA1 antibodies were recognized by both monomeric $\\mathrm { E A 1 } _ { 3 0 } \\mathrm { - M P H }$ and self-assembled $\\mathbf { E A } 1 _ { 3 0 } \\mathrm { - M P H }$ .After washing and mixing with methyl parathion,which is the substrate of MPH, the anti-EA1 antibodies were detected by determining the absorption at $4 0 5 ~ \\mathrm { n m }$ or by color changes. In this work,mouse samples were used for proof-of-principle testing.However,the self-assembled $\\mathrm { E A } 1 _ { 3 0 } { - } \\mathrm { M P H }$ is also applicable for the detection of human and the other $B .$ anthracis infected animals such as sheep,cattle,as long as the magnetic particles are conjugated with the appropriate secondary antibodies. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As shown inFigure 5a,monomeric $\\mathrm { E A 1 } _ { 3 0 } \\mathrm { - M P H }$ detected purified antibodies at concentrations as low as $2 5 ~ \\mathrm { { n g } ~ \\mathrm { { m L ^ { - 1 } } } }$ within $^ \\textrm { \\scriptsize 1 h }$ ,while the self-assembled $\\mathrm { E A 1 } _ { 3 0 } \\mathrm { - M P H }$ displayed a detection limit of about $0 . 1 ~ \\mathrm { { n g } ~ \\mathrm { { m L ^ { - 1 } } } }$ .These data indicated that $\\mathrm { E A 1 } _ { 3 0 } \\mathrm { - M P H }$ present in a crystalline structure improved the detection sensitivity by more than 250 times.As shown in Figure 5b,these changes were observed even without the use of any additional methods,other than by visual observation. Crucially, our $\\mathrm { E A 1 } _ { 3 0 } \\mathrm { - M P H }$ S-layer displayed both superior sensitivity over monomeric $\\mathrm { E A 1 } _ { 3 0 } { \\mathrm { - M P H } }$ ,aswellashigh signal specificity,indicating that the S-layer also prevented interference of other molecules present in complex biological specimen such as blood serum.As showed in Figure 5c,d, the detection limit of antibodies by the self-assembled $\\mathbf { E A } 1 _ { 3 0 } \\mathrm { - M P H }$ in the serum sample was still $0 . 1 \\ \\mathrm { n g \\ m L ^ { - 1 } }$ 业 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Bindings of $\\mathrm { E A 1 } _ { 3 0 } \\mathrm { - M P H }$ sheet to antibodies conjugated magnetic particles were observed under transmission electron microscopy.As shown in Figure 6,when $\\mathrm { E A 1 } _ { 3 0 } \\mathrm { - M P H }$ was assembled into a nanomembrane,a large piece of this sheet was captured by the conjugates of magnetic particles and antibodies. Thus,the resulting ratio of signal (MPH) to conjugates was drastically increased in the case of nanomembrane when compared with the ratio achieved by monomeric $\\mathrm { E A 1 } _ { 3 0 } \\mathrm { - M P H }$ forms. The ensuing amplification greatly improved the sensitivity of this assay.Also, the formation of the nanomembrane creates a microenvironment,which increases the probability of interaction between anthrax antibody and $\\mathrm { E A 1 } _ { 3 0 } { \\mathrm { - M P H } }$ ,thus allowing for higher rates of signal generation. Together, these results convincinglyshow that the $\\mathrm { E A } 1 _ { 3 0 } { \\mathrm { - M P H } }$ nanolayer displays a far higher detection sensitivity than monomeric $\\mathbf { E A } 1 _ { 3 0 } \\mathrm { - M P H }$ In summary, our novel nanostructure based on $\\mathrm { E A 1 } _ { 3 0 } \\mathrm { - M P H }$ units should greatly facilitate the diagnosis of anthrax on the basis of anthrax antibodies in serum samples,particularly because of its vastly superior sensitivity and specificity of detection.Importantly,our assay allows for fast and simple visual assessment,without the need for specialized equipment or refrigeration,making it ideally suited for use under field conditions. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the future,a combination of our nanomaterial presented here with portable biosensors should allow for the development of a vast array of applications for the detection of biological agents and diagnosis of infectious disease both in the clinic and the field. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e464967ff289097fbfe208857ef4ac74b9c6f122a2e9f45a6b18559db4cd0e03.jpg",
+        "img_caption": [
+            "Figure 5.Detection of anti-EA1 antibodies using monomeric $\\mathsf { E A 1 } _ { 3 0 } - \\mathsf { M P H }$ and self-assembled $\\mathsf { E A 1 } _ { 3 0 } - \\mathsf { M P H }$ .a) The purified antibodies were detected usingaBioTekenzymestandardinstrument (SynrgyH).b)Representativesamplesreshown.c)Reactionsinserumsamplesweremeasured usingaspectrometerdRepresentativesamplesareshown.Eachtestwasrepeatedatlastheetimes.M3pageantibodiesereusedaste negative control.The dashed line presents the cut-off value of O.2 and a signal to noise ratio $( S / N )$ of $^ { \\ge 2 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/baf2a09a98e4df9bea72422bf7a02a936b0d220c33a45190260e303aa8c048e6.jpg",
+        "img_caption": [
+            "Figure 6.TEM images of the immunocomplexes of self-assembled $\\mathsf { E A 1 } _ { 3 0 } - \\mathsf { M P H }$ and antibodies/anti-anthrax antibodies modified magnetic particles.Scale bars: $1 ~ { \\mu \\mathrm { m } }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3. Conclusion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Our work presented here demonstrated that the S-layer protein EA1 can self-assemble into 2D crystalline arrays in vitro,similar to the natural structure of S-layer in B.anthracis.Based on this observation，we developed a chimeric S-layer formed following the self-assembly of the fusion protein $\\mathbf { E A } 1 _ { 3 0 } \\mathrm { - M P H }$ .The nanosized chimeric S-layer significantly improved the stability of MPH activity.We used this S-layer for detecting anthrax-specific antibodies in the serum samples of mice.Because of the high densities of capturing molecules and signal molecules, the nanostructure rapidly captured anthrax-specific antibodies from serum samples,with a detection limit of $0 . 1 \\ \\mathrm { \\ n g \\ m L ^ { - 1 } }$ by visual observations with a detection sensitivity 2oO-3oo times higher than that for monomeric recombinant protein $\\mathbf { E A } 1 _ { 3 0 } \\mathbf { - M P H }$ .Therefore,the EA1-based nanomaterial constructed in this study might be of use as a potential and efficient tool for both enhancement of enzymatic stability and early serological diagnosis of anthrax disease.In conclusion, our study further supports the notion that bionanomaterials can be endowed with broad applications by coupling the intrinsic biological functions of biomolecules with their nanostructures. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.Experimental Section ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Plasmid,Strains,and Reagents:E.coli strain $D H 5 \\alpha$ was used for cloning and E.coli M15 was used for protein expression. Plasmid pQE3o (Qiagen,Germany) was used to insert genes and transformed into either E.coli $\\mathsf { D H 5 } \\alpha$ for cloning or E.coli M15 forprotein expression.Triton X-1oo,1-ethyl-3-[3-dimethylamino propyl]carbodiimide(EDC)， $N$ -hydroxysulfosuccinimide(sulfoNHS)，2-(N-morpholino) ethanesulfonic acid (MES)，and bovine serum albumin (BSA) were obtained from Sigma (USA).BCA Protein Assay Kit was purchased from Thermo (USA)．Restriction enzymes,DNA polymerase,and T4 ligase for plasmid construction were purchased from Takara (TaKaRa,Dalian,China).Parathion methyl was obtained from Amresco (USA).Goat anti-mouse IgG was purchased from Boster (BA1o38,Wuhan,China).Carboxylated superparamagnetic iron oxide particles of $3 0 0 ~ \\mathsf { n m }$ diameterwere purchased from Ademtech (Pessac，France).All other reagents used were ofanalytical grade. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Construction of Recombinant Plasmids $p Q E _ { 3 0 }  – E A \\boldsymbol { 1 } _ { 3 0 } – M P H$ Because of limited restriction sites in plasmids,we first constructed pQE3O-MPH,and then inserted eag (encoding EA1 protein)gene at the N-terminus of MPH.To construct pQE3O-MPH, the gene coding MPH was cloned from pET5a-MPHs using the primersequences: $5 ^ { \\prime }$ -ATATCTGCAGGCCGCACCGCAGGTG $3 ^ { \\prime }$ and $5 ^ { \\prime }$ -GTGAAGCTTTTACTTGGGGTTGACGAC-3'.The conditions for PCR were as follows: $9 4 ^ { \\circ } \\mathsf C$ for 5 min; $9 4 ^ { \\circ } \\mathsf C$ for 30 s, $6 0 ~ ^ { \\circ } \\mathsf { C }$ for $3 0 ~ \\mathsf { s }$ and $7 2 ^ { \\circ } \\mathsf { C }$ for1 min for 35 cycles;and lastly $7 2 ^ { \\circ } \\mathsf { C }$ for $1 0 \\mathrm { \\ m i n }$ .The PCR products were inserted into plasmid pQE3O after digestion with $P s t \\mid$ and Hind Ill,and the plasmid for recombinant protein expression was transformed into E.coli $\\mathsf { D H } 5 \\alpha .$ The DNA sequence encoding the truncated form of EA1 missing 29 amino acidsat its N-terminus was amplified by PCR from a previously reported construct[18] (extension step of 160 s for 35 cycles) with primers as below: $5 ^ { \\prime }$ -TGTAGGATCCGCAGGTAAATCATTC-3'and $5 ^ { \\prime }$ -GCCGAGCTCTAGATTTGGGTTATTA $3 ^ { \\prime }$ .The PCR products were digested with BamHi and Sacl,and then inserted into plasmid named pQE3o-MPH. Lastly,the recombinant plasmids $\\mathsf { p Q E 3 0 - E A 1 } _ { 3 0 } - \\mathsf { M P H }$ were transformed into E.coli $\\mathsf { D H } 5 \\alpha$ and $E .$ coli M15 for further study. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Proteins Purificationand Characterization:E.coliM15/pQE30- $\\mathsf { E A 1 } _ { 3 0 } - \\mathsf { M P H }$ ，E.coli $\\mathsf { M } 1 5 / \\mathsf { p Q E } 3 0 { - } \\mathsf { E A } 1 _ { 3 0 }$ and $E .$ coli M15/pQE30- MPH were grown by shaking at 18O rpm at $3 7 ^ { \\circ } \\mathsf C$ in Luria-Bertani medium (LB broth: $1 0 \\ \\mathrm { g } \\ \\mathsf { L } ^ { - 1 }$ peptone, $5 \\mathrm { ~ g ~ L ~ } ^ { - 1 }$ yeast extract, $1 0 \\ \\mathsf { g } \\ \\mathsf { L } ^ { - 1 }$ NaCl,pH 7.O) supplemented with ampicilin $( 1 0 0 ~ \\mu \\textrm { g } \\mathsf { m L } ^ { - 1 } )$ and kanamycin $( 5 0 ~ \\mu \\textrm { g } \\mathsf { m } \\mathsf { L } ^ { - 1 } )$ to an ${ 0 } 0 _ { 6 0 0 \\ \\mathrm { n m } }$ of 0.6.Cells were then induced with $1 \\times 1 0 ^ { - 3 } \\mathrm { ~ } _ { \\mathrm { ~ M ~ } }$ isopropyl $\\beta$ D-1-thiogalactopyranoside (IPTG) for over $5 \\ h$ at $2 8 ^ { \\circ } \\mathsf { C }$ .The cells were harvested by centrifugation at 60oo rpm at $4 ^ { \\circ } \\mathsf C$ for $1 0 \\mathrm { \\ m i n }$ .The cellswere resuspended in buffer $( 2 0 \\times 1 0 ^ { - 3 } ~ \\mathrm { m }$ tris-HCl, $0 . 5 ~ \\mathsf { m }$ NaCl, $1 0 \\times 1 0 ^ { - 3 } \\mathrm { ~ m ~ }$ imidazole,pH 7.9) containing $2 \\mathrm { ~ } \\mathsf { m }$ guanidine hydrochloride.After $3 0 ~ \\mathrm { m i n }$ of ultrasonication,the cells were centrifugated at $1 0 \\ 0 0 0$ rpmat $4 ^ { \\circ } C$ for $3 0 ~ \\mathrm { m i n }$ .The recombinant proteins in the supernatant were purified using His Trap HP column (Novagen,USA),by stepwise application of binding buffer $( 2 0 \\times 1 0 ^ { - 3 } ~ \\mathrm { m }$ tris-HCl, $0 . 5 \\mathrm { ~ m ~ }$ NaCl, $1 0 \\times 1 0 ^ { - 3 } \\mathrm { ~ m ~ }$ imidazole, $2 \\mathsf { \\Omega } _ { M }$ guanidine hydrochloride,pH 7.9),washing buffer $( 2 0 \\times 1 0 ^ { - 3 } ~ \\mathrm { m }$ tris-HCl, $0 . 5 \\mathrm { ~ m ~ }$ NaCl, $4 0 \\times 1 0 ^ { - 3 } \\mathrm { ~ m ~ }$ imidazole, $2 \\mathfrak { m }$ guanidine hydrochloride,pH 7.9) and elution buffer （20 $( 2 0 \\times 1 0 ^ { - 3 } ~ \\mathrm { m }$ tris-HCl,O.5 m NaCl, $2 5 0 \\times 1 0 ^ { - 3 } \\mathrm { ~ m ~ }$ imidazole, $2 \\mathrm { ~ } _ { \\mathsf { ~ M ~ } }$ guanidine hydrochloride, $\\mathsf { p } \\mathsf { H } \\ 7 . 9 )$ .The purified proteins were dialyzed overnightat $4 ^ { \\circ } \\mathsf C$ against a buffer containing $5 0 \\times 1 0 ^ { - 3 }$ M trisHCl, $5 0 \\times 1 0 ^ { - 3 } \\mathrm { ~ M ~ N a C l ~ p H ~ } 7 . 9$ ,followed by $1 0 \\%$ SDS-PAGE analysis The concentrations of purified proteins were determined by BCA Protein Assay Kit (Thermo Fisher Scientific,America) using bovine serum albumin asa standard. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Self-Assemblyof $E A \\boldsymbol { 1 } _ { 3 0 }$ and $E A \\boldsymbol { 1 } _ { 3 0 }$ -MPH In Vitroand Transmission Electron Microscopy Analysis:To investigate whether $\\mathsf { E A 1 } _ { 3 0 }$ and $\\mathsf { E A 1 } _ { 3 0 } \\mathrm { - } \\mathsf { M P H }$ can be self-assembled in vitro or not,the purified proteins were diluted into $3 0 { - } 1 0 0 \\ \\mu \\mathrm { g } \\ \\mathsf { m L } ^ { - 1 }$ of assembly buffer $( 1 0 \\times 1 0 ^ { - 3 } \\mathrm { ~ M ~ C a C l } _ { 2 }$ ， $0 . 5 \\times 1 0 ^ { - 3 } ~ \\mathrm { m }$ tris-HCl, $\\mathsf { p } \\mathsf { H } \\ 9 . 0$ )andwere incubated at $2 5 ^ { \\circ } \\mathsf { C }$ or $4 ^ { \\circ } \\mathsf C$ for $5 { - } 1 2 ~ \\mathsf { h }$ .The self-assembly samples were then analyzed by electron microscopy.A droplet of self-assembly sample containing $3 0 - 5 0 ~ { \\mu \\mathrm { g } } ~ \\mathsf { m L } ^ { - 1 }$ protein was placed onto a carbon-coated copper TEM grid for5 min,and excess solution was removed with filter paper.The sample on TEM grids was stained with $2 \\%$ phosphotungstic acid for $3 \\min$ ,and the excess solution was removed with filter paper.The grids were examined with a FEl Tecnai G2 2O TWiN electron microscope operating at $2 0 0 ~ \\mathsf { k V }$ after they were thoroughly air-dried. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 1a,f show the S-layer sheets obtained from selfassembly of $\\mathsf E \\mathsf { A } \\mathsfit { 1 } _ { 3 0 }$ and $\\mathsf { E A } 1 _ { 3 0 } - \\mathsf { M P H }$ ，respectively.The enlarged TEM images of selected S-layer sheets were served as raw data (Figure 1b,g) to subject to Fourier transform processing.The raw datawere transformed to Fourier space (Figure 1c,h) and then the filter FFT-maps (Figure 1d,i) (Here,FFT denotes fast Fourier Transform).The FFT maps were inverted back to the real maps (Figure 1e,j) by using DigitalMicrograph (Gatan Company).The differences between $\\mathsf E \\mathsf E \\mathsf E _ { 3 0 }$ and $\\mathsf { E A 1 } _ { 3 0 } \\mathrm { - } \\mathsf { M P H }$ in the distribution of diffraction spots in the Fourier maps clearly illustrate their different regularstructures. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DeterminationofMethylParathionHydrolaseActivity:Purified recombinant proteins $\\mathsf { E A 1 } _ { 3 0 } - \\mathsf { M P H / M P H }$ were dialyzed in assembly buffer $( 1 0 \\times 1 0 ^ { - 3 } \\mathrm { ~ } \\mathsf { M } \\mathrm { ~ C a C l } _ { 2 }$ P $0 . 5 \\times 1 0 ^ { - 3 } ~ \\mathrm { m }$ tris-HCl, $\\mathsf { p H } 9 . 0 \\bigr \\mathrm { \\cdot }$ and control buffer $( 0 . 5 \\times 1 0 ^ { - 3 }$ M tris-HCl,pH 7.0) for $2 4 ~ \\mathsf { h }$ .Samples were stored at $4 ^ { \\circ } \\mathsf C$ and $3 7 ^ { \\circ } \\mathsf C$ at a concentration of $0 . 2 \\mathrm { - } 1 \\times 1 0 ^ { - 6 } ~ \\mathrm { m }$ ,and theirMPH activity measured at regular intervals.For this procedure, $0 . 1 2 5 \\times 1 0 ^ { - 3 } \\mathrm { ~ m ~ }$ parathion methyl was dissolved in $2 0 \\times 1 0 ^ { - 3 } \\mathrm { ~ m ~ }$ phosphatebuffer $\\left( \\mathsf { p H 7 . 0 } \\right)$ and then used as the reaction substrate. In each test, $5 ~ \\mu \\ L$ protein samples were incubated with $2 0 0 ~ \\mu \\iota$ reaction buffer in 96-well plates (Jet Biofil,China) for $5 - 1 5 \\ \\mathsf { m i n }$ at room temperature to produce yellow nitrophenol,which has a specific absorption wavelength of $4 0 5 \\ \\mathsf { n m }$ .Then,the activity of MPH was determined by detecting the optical density at $4 0 5 ~ \\mathsf { n m }$ （204 $( 0 \\mathsf { D } _ { 4 0 5 \\mathrm { ~ } \\mathsf { n m } } )$ using a BioTek enzyme standard instrument (Synergy H1,BioTek, USA). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Conjugationof Goat Anti-MouselgG to Magnetic Particles:The goat anti-mouse lgG (Boster BA1O38,Wuhan,China) was conjugated to magnetic iron oxide particles (Ademtech,Pessac,France) by chemical cross-linking. In brief, $3 0 \\ \\mathsf { m g } \\ \\mathsf { m L } ^ { - 1 }$ carboxylated magnetic particles of $5 0 ~ \\mu \\ L$ were incubated with 1-ethyl-3-[3-dimethylaminopropyl] carbodiimide (EDC) and $N$ -hydroxysulfosuccinimide in MES-buffered saline $\\left( \\mathsf { p } \\mathsf { H } \\ 4 . 7 \\right)$ at room temperature for $2 \\ h$ to form an amine-reactive sulfo-NHS ester.The above solution was then added $3 0 ~ \\mu \\iota$ goat anti-mouse lgG of $1 0 \\ \\mathrm { m g \\ m L ^ { - 1 } }$ was added to the above solution for $2 \\ h$ in $3 7 ^ { \\circ } \\mathsf C$ to produce amide bonds between the particles and the lgG.The residual active coupling sites on the particles were blocked with $5 \\%$ BSAat $3 7 ^ { \\circ } \\mathsf C$ for $2 \\ h$ 业 Finally,the conjugates were washed three times and were stored in 0.01MPBS at $4 ^ { \\circ } C$ until further analysis. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Detection of Anthrax-Specific Antibodies by Self-Assembled $E A \\boldsymbol { 1 } _ { 3 0 } - M \\boldsymbol { P } \\boldsymbol { H }$ ：Six-week-old $\\mathtt { B A L B / c }$ mice were injected subcutaneously with $1 0 ^ { 5 }$ vegetative cells of $B _ { \\cdot }$ 、anthracisA16 for three times at2 week intervals before boosting by injection of a double dose. The antibodies in these mouse sera were purified by caprylic acidammonium sulfate precipitation of ascites,and were then quantified by BCA Protein Assay Kit (Thermo Fisher Scientific,USA). Bothantibodies and serum from mouse were used as samples for detection.First,a series of concentrations of antibodies as well as serum both diluted in PBS plus $1 \\%$ BSA was incubated with the conjugates of goat anti-mouse lgG and magnetic particles at $3 7 ^ { \\circ } \\mathsf C$ for $2 0 ~ \\mathrm { { m i n } }$ .After three washes with PBS containing $0 . 1 \\%$ Tween 20 (PBST) and magnetic separations,the precipitates were incubated with assembled and unassembled $\\mathsf { E A 1 } _ { 3 0 } \\mathrm { - } \\mathsf { M P H }$ 0 $3 0 - 5 0 \\ \\mu \\mathrm { g } \\ \\mathsf { m L } ^ { - 1 } )$ （20 for $2 0 \\mathrm { \\ m i n }$ at $3 7 ^ { \\circ } \\mathsf C .$ 、After the reaction was completed,the complexes were washed three times with sodium tetraborate solution $\\left( \\mathsf { p } \\mathsf { H } \\ 9 . 5 \\right)$ to eliminate nonspecifically bound material. Finally,the absorbance of all supernatants was measured at $4 0 5 ~ \\mathsf { n m }$ usinga Biotek enzyme standard instrument (Synergy H1,BioTek,USA) by ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "full papers ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "incubation with $0 . 2 5 \\times 1 0 ^ { - 3 } ~ \\mathrm { m }$ parathion methyl of $1 0 0 ~ \\mu \\iota$ at $3 7 ^ { \\circ } \\mathsf C$ and magnetic separation. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information isavailable from the Wiley Online Library orfromtheauthor. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "X.Y.W.and D.B.W. contributed equally to this work.This work wasfinancially supported by Natural Science Foundationof China(No.31000454)and the National High Technology ResearchandDevelopmentProgram(\"863\"Program)of Chind (Nos.2011AA02A114，2012AA022206,Dian-Bing Wang).X.-E.Z. was supportedbythe Chinese Academyof Sciences.The authors are thankful to Dr.Bo Tian andDr.Ding Gao for technicalassistance. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Bioelectron.2013,40,32; c) M.M.Picher,S. Kupcu,C.J. Huang, J.Dostalek,D.Pum,U.B.Sleytr,P.Ertl,Lab Chip.2013,13,1780; d) M.Rothbauer,S.Kupcu,D.Sticker,U.B.Sleytr,P. Ertl,ACS Nano 2013,7,8020.   \n[7] a) B.Schuster,D. Pum,M.Sára,O.Braha,H.Bayley,U.B.Sleytr, Langmuir 2001,17,499；b) W.Shenton,D.Pum,U.B.Sleytr, S.Mann，Nature 1997，389,585；c)J.Liu,Y.Mao，E.Lan, D.R.Banatao,G.J.Forse,J.Lu,H.O.Blom,T.O.Yeates,B. Dunn, J.P. Chang,J.Am. Chem.Soc.2008,130,16908.   \n[8] a) D.Moll,C.Huber,B.Schlegel,D.Pum,U.B.Sleytr,M.Sara, Proc.Natl.Acad.Sci.USA 2002，99，14646；b)M．Duval, C.J.Lewis,J.F.Nomellini,M.S.Horwitz,J.Smit,L.A.Cavacini, Antimicrob.Agents Chemother.2011，55,5547；c) C.Schaffer, R．Novotny，S．Kupcu，S．Zayni，A．Scheberl，J．Friedmann, U.B.Sleytr,P.Messner,Small 2007,3,1549.   \n[9] a)C.Horejs，H．Gollner，D.Pum，U．B.Sleytr，H．Peterlik, A．Jungbauer，R．Tscheliessnig，ACS Nano 2011，5，2288; b）E.Baranova，R．Fronzes，A．Garcia-Pino，N．Van Gerven, D.Papapostolou,G.Pehau-Arnaudet，E.Pardon，J.Steyaert, S.Howorka,H.Remaut,Nature 2012,487,119；c)F.Baneyx, J.F.Matthaei, Curr. Opin. Biotechnol.2014,28,39.   \n[10] S.Mesnage,E.Tosi-Couture,M.Mock,P. Gounon,A.Fouet,Mol. Microbiol.1997,23,1147.   \n[11] S.S.Makam,J.J. Kingston,M.S.Harischandra,H.V.Batra,Mol. Immunol.2014,59,91.   \n[12]E.Shlyakhov,Y.Shoenfeld,B.Gilburd,E.Rubinstein,Clin.Microbiol.Infect.2004,10,421.   \n[13]Y.L.Chen,X.E.Zhang,H. Liu,Y.S.Wang,X.M.Xia,Acta Microbiol. Sin.2002,42,490.   \n[14] L.L. Liu,Y.F. Zhou,Z.P. Zhang,H. Liu,X.E. Zhang,Microbiology 2004,31,77.   \n[15] W.Yang,Y.F. Zhou,H.P. Dai,L.J. Bi,Z.P. Zhang,X. H. Zhang, Y.Leng,X.E. Zhang,Anal.Bioanal.Chem.20o8,390,2133.   \n[16] C．P.Quinn，V.A.Semenova，C.M.Elie,S.Romero-Steiner, C.Greene,H.Li,K.Stamey，E.Steward-Clark，D.S.Schmidt, E.Mothershed,J.Pruckler,S.Schwartz,R.F.Benson,L.O.Helsel, P.F.Holder,S.E.Johnson,M.Kellum,T.Messmer,W.L.Thacker, L.Besser，B．D．Plikaytis，T.H．Taylor Jr.，A．E．Freeman, K.J.Wallace,P.Dull,J.Sejvar,E.Bruce,R.Moreno,A.Schuchat, J. R. Lingappa,S.K.Martin,J.Walls,M. Bronsdon,G.M. Carlone, M．Bajani-Ari，D.A.Ashford，D.S.Stephens，B．A.Perkins, Emerging Infect. Dis.2002,8,1103.   \n[17] E.Couture-Tosi,H.Delacroix,T. Mignot,S.Mesnage,M.Chami, A.Fouet,G.Mosser,J. Bacteriol.2002,184,6448.   \n[18] D.B.Wang,R.Yang,Z.P. Zhang,L.J.Bi,X.Y.You,H.P.Wei, Y.F. Zhou,Z.Yu,X.E. Zhang,PloS One 2009,4,e7810. ",
+        "page_idx": 6
+    }
+]

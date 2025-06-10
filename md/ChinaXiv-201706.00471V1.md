@@ -1,0 +1,176 @@
+# DOI: 10.5846/stxb201604220755
+
+李兰晖,丁明军,黄齐,时光训,郑林.亚热带湖滨沙地典型下垫面土壤水分变化.生态学报,2017,37(11):3892-3901.LiLH,DngaGgLEsfeatoeaglsueidefrbroicaleidedlsChina.Acta Ecologica Sinica,2017,37(11) :3892-3901.
+
+# 亚热带湖滨沙地典型下垫面土壤水分变化
+
+李兰晖1,²,丁明军1,\*，黄齐³,时光训¹，郑林1
+
+1鄱阳湖湿地与流域研究教育部重点实验室,地理与环境学院(江西师范大学)，南昌330022  
+2中国科学院地理科学与资源研究所陆地表层格局与模拟院重点实验室，北京100101  
+3江西省山江湖开发治理委员会办公室，南昌330046
+
+摘要：亚热带湖滨沙化作为南方荒漠化的一种典型类型,阐明沙化土壤水分变化规律对该地区植被恢复与重建具有重要指示意义。研究于2013年2月至2014年2月对鄱阳湖多宝湖滨沙地的土壤水分动态进行了监测,分析了不同覆被条件下沙地土壤水分在年内及极端气候条件下的动态特征。结果如下： $\textcircled{1}$ 湖滨沙地土壤水分在梅雨和伏旱时期差异显著。在梅雨期及其前后,土壤水分主要受降水控制,各下垫面土壤平均含水量相对较高 $\mathrm { ^ { ' } { > } 0 . 0 6 3 \ c m ^ { 3 } / c m ^ { 3 } } .$ ),且差异较小;而在伏旱及其后期,覆盖条件的差异起关键作用,湿地松样地的土壤平均含水量均低于 $0 . 0 3 5 ~ \mathrm { c m } ^ { 3 } / \mathrm { c m } ^ { 3 }$ 。 $\textcircled{2}$ 持续高温干旱天气下，浅层 $1 0 \mathrm { { c m } }$ 土壤含水量迅速降低,之后维持在极低水平( $< 0 . 0 1 \ \mathrm { c m } ^ { 3 } / \mathrm { c m } ^ { 3 }$ );随着深度增加,不同样地土壤含水量差异将会增强。 $\textcircled{3}$ 在多雨季节,17年生湿地松能有效增加土壤表层的持水能力;在干旱季节,湿地松对降水的截留及吸附作用强烈地影响土壤水分的补给量及补偿深度,当降水强度较低时,17年生湿地松样地的浅层土壤水分难以获得补给。因此,在亚热带沙地进行湿地松种植时,应增大初植密度,并且对于植株过高的湿地松林,也应采取适当措施降低其密度,以抵御愈加频发的极端干旱事件带来的风险,促使沙化地区发生持续的正向演替。
+
+关键词：土壤水分;荒漠化;植被恢复；伏旱;鄱阳湖
+
+# Effects of vegetation coverage on soil moisture: Evidence from subtropical lakeside sandy lands in South China
+
+LI Lanhui1,2，DING Mingjun1'\*,HUANG Qi³, SHI Guangxun1， ZHENG Lin'
+
+1KeyLaboratorofoyagLkeedndWatershdResecMnistrofducatiodholofegadEontJgol University，Nanchang 330022，China   
+2KeyLaboratoofdufceediatistuteofacecdNuleousehedefec， Beijing 100101， Chin@   
+3 Mountain-River-Lake Development Commitee of Jiangxi Province；Nanchang 330046,China
+
+Abstract：Lakeside desertification is acommon typeof deserification in South China.Soil moisture dynamicsof lakeside sandyland haveimportant implications forregional vegetationrestorationand reconstruction.Using soil moisturedata from theDuobao Sand Hilsof Poyang Lakerecorded from February 2013 to February 2014，we investigated soil moisture dynamicsunderdiferent vegetation coverageand extreme weather conditions.We found that（1）soil moisture levelsof lakeside sandyland intherainyseason were significantly different from the levels in the drought season.Soil moisture, mainly affected by precipitation，was maintained at a higher level ( $\mathrm { ~ ` > 0 . 0 6 3 ~ c m ^ { 3 } / c m ^ { 3 } }$ ）and was less sensitive to the type of underlying surfaceintherainyseason.However，different typesof vegetationcoveraffectedsoil moisture diffrently.Soil moisture in the presence of Pinus elliottii was relatively low ( $\cdot { < } 0 . 0 3 5 ~ \mathrm { c m } ^ { 3 } / \mathrm { c m } ^ { 3 }$ ）during the drought period.（2）Under high temperaturesand droughtconditions，shalow-soil moistureof desertified lands droppedrapidlyat first，thenremained exceptionally low $( < 0 . 0 1 ~ \mathrm { c m } ^ { 3 } / \mathrm { c m } ^ { 3 }$ ).With the increase in soil depth，the differences in soil moisture among soils with Pinus ellotti，Vitex trifoliaLin.，orbaresandylandsbecame moresignificant.（3）17-year-oldPinus eliotiieffectively increased the water-holding capacity of the soil surface during therainyseason.However，due to water absorption and obstructionofrainfall，Pinus ellotiiafectedgroundwaterrechargeduring thedroughtperiodintermsoftheamountof water and soil depth.Therefore，theshallow-soil waterofa17-year-oldPinusellotii standisdifficult torecharge when precipitationintensityislow.Basedonourfindings，wesuggesttoincreasingtheinitialplantingdensityofPinusellitti thendecreasing mature Pinus eliotii density insubtropical sandyland in South China to neutralize theeffectsof more frequent extreme droughts and to induce continuous positive succession in desertified areas. >
+
+Key Words: soil moisture；desertification；vegetation recovery ； summer drought；Poyang Lake
+
+土壤水分作为沙化地区主要的生态限制因子,是沙化地区植被系统组成、格局和过程的重要驱动力[1]并深刻地影响着土壤有机质的矿化、生物固氮、植物根系对养分和水分的吸收等化学或生物过程[2]。植被又是影响沙化土壤水分的重要因素,不同植被类型对陆地水循环具有重要的调节作用[3],甚至在特定植被生长状态和气象条件下,植被覆盖的差异可能成为沙化土壤水分动态变化的关键因子[4-6]。降水到达地面后,可以进入土壤形成土壤水,或沿坡面形成地表径流,由于沙化土壤对水分的保持能力低,使得降水难以得到有效利用[7;同时,由于人们对土壤水资源承载能力认识不足,以及在植被恢复过程中措施不合理等人为因素,导致林下普遍出现干旱化现象[8]。因此,对沙化土地土壤水分的时空分异及动态规律进行研究,能够为当地退化生态系统的修复与重建提供科学依据。然而,由于气候条件、土壤特征、植被状况的差异,导致不同沙化地区土壤水分的动态变化具有明显的地域分异特征[9-10],目前关于沙化土地的土壤水分动态监测多集中于北方荒漠、半荒漠地区,而有关南方沙化土地的土壤水分研究则比较缺乏[1]。
+
+随着全球气候变化,极端气候事件发生的频率不断增加[12],将对许多地区的土壤水分状况产生重要影响,尤其是在土壤持水能力较弱的沙化区。越来越多研究表明,全球气温的持续上升和区域性干旱胁迫程度增强导致许多地区的森林死亡速率增加以及死亡风险上升[13-15]。区域性干旱一直是国内外长期存在并受到普遍关注的现象[16]。中国南方地区虽然年降水量较大,但受到降水年内分布不均、土壤调蓄能力有限和人类活动等多重因素的影响,存在着严重的季节性干旱等问题[17]。频发的气候异常事件也会导致季节性干旱的频率增加和强度上升[18-19],进而引起植物间的水分竞争加剧以及植物根系吸收土壤水分的深度发生改变[20]。因此,研究极端气候条件下亚热带沙化地区不同下垫面土壤水分特征,对于区域生态防治和植被恢复具有重要意义。鄱阳湖湖滨沙化作为亚热带土地沙化的典型代表,对当地农户生计和经济发展造成严重影响。流沙不仅威胁到当地居民的生活和生产,也影响着鄱阳湖的泄洪和航道的通畅等。该区沙化防治与生态恢复正受到越来越多的学者关注。但已有研究主要集中在沙地的形成机制[21-23],对该沙化地区生态修复的限制因子研究仍然不足。
+
+本研究通过对鄱阳湖湖滨沙化地区典型下垫面土壤水分连续监测和分析,以阐明覆被条件对土壤水分特征的影响,探讨土壤水分特征对沙化防治和植被恢复的指示意义,为理解区域尺度土壤水分的时空分异特征提供基础数据，同时也为亚热带土地沙化的治理提供参考。
+
+# 1材料与方法
+
+研究区位于江西省都昌县多宝沙山 ( $2 9 ^ { \circ } 2 1 ^ { \prime } 2 2 ^ { \prime \prime } .$ —29°27'18"N, $1 1 6 ^ { \circ } 0 3 ^ { \prime } 0 0 ^ { \prime \prime }$ —116°7'42"E），紧邻鄱阳湖（图1)。气候属于典型的亚热带湿润季风区,年均温 $1 7 . 5 \mathrm { ^ { \circ } C }$ ,多年平均降水量 $1 3 1 0 \mathrm { m m }$ 。当地沙山物种以单叶蔓荆（Vitex trifolia Linn.var.simplicifolia Cham）、狗牙根（Cynodon dactylon（Linn.）Pers.）最为常见,近年来,该
+
+http://www.ecologica.cn
+
+地区一直在开展以湿地松(Pinus eliotii)为主要物种的植树造林工程。在夏季暴雨期间,流水的侵蚀形成密集的相互平行排列的切沟,冬、春两季湖底裸露,受风力作用,沙层向山顶吹扬[23],使该地区土壤沙化区域平行于湖岸线分布,从湖滨到山顶,可大致分为湖滨沙地、中部沙地、内侧沙地和沙地—耕地过渡带[24]。
+
+本研究选择沙化程度最严重的湖滨沙地作为试验地，各样地几乎平行于湖岸线分布（相距湖岸线 150—$2 0 0 \mathrm { m } \dot { }$ ),样地植被及土壤质地见图1和表1。在四种下垫面差异显著的样地内均埋设土壤温度、水分定位监测系统（ECH2O sensors（Decagon Devices））。具体设置标准为：将水分探头水平插人 $1 0 \ldots 3 0 \mathrm { c m }$ 和 $7 0 \mathrm { c m }$ 土层深处，并在 $1 0 \mathrm { { c m } }$ 土层处设置温度探头。土壤温度、水分记录的时间间隔均为1h,监测时间为2013年2月至2014年2月。同期 $1 . 5 \mathrm { m }$ 气温、降水量、太阳辐射量、风速等每小时数据,由设置在试验区的WatchDog 2000 系列气象站(图1D 正北 $1 0 \mathrm { m }$ 处)观测获得。千烟洲地区气温、降水量和土壤含水量( $2 0 \mathrm { c m }$ 深度)等数据由千烟洲站提供,为了与千烟洲红壤对比,本文计算了研究区 $1 0 \mathrm { { c m } }$ 和 $3 0 \mathrm { c m }$ 处土壤水分的平均值。研究中还采用世界粮农组织(FAO)1998 年推荐的修正Penman-Monteith 方程估算鄱阳湖湖滨沙化地区的参考蒸散发[25]。土壤水分状况受到降雨强度和频率、植被覆盖等因素的直接影响[5.26],为进一步阐述降雨事件与湖滨沙地土壤水分的关系,选取了17年生湿地松和裸沙地样地土壤水分作对比分析,为保持可比性,均选择当次降雨事件完全结束后开始统计。
+
+![](images/0fb34a951dc3f3e848207174a88b96da0caf6e1565fc20628cee5e59daa2026b.jpg)  
+图1研究区概况(A为5年生湿地松、B为17年生湿地松、C为蔓荆子、D为裸沙地)  
+Fig.1Locat）lo）eflC）l(D)）
+
+表1观测样地植被及土壤特征  
+Table1Types of vegetation and soil texture,bulk density of the tested soil profile in study area   
+
+<html><body><table><tr><td rowspan="2">样地 Sample plot</td><td rowspan="2">样地植被 Types of vegetation</td><td colspan="3">粒径 Soil texture/%</td><td rowspan="2">土壤容重 Bulk density/(g/cm³)</td></tr><tr><td><0.1 mm</td><td>0.1—0.5mm</td><td>0.5—2.5mm</td></tr><tr><td>A</td><td>5年生湿地松5-year-old Pinus elliotii</td><td>1.09</td><td>74.94</td><td>23.97</td><td>1.43</td></tr><tr><td>B</td><td>17年生湿地松 17-year-old Pinus eliotii</td><td>4.93</td><td>66.59</td><td>28.48</td><td>1.43</td></tr><tr><td>C</td><td>蔓荆子Vitex trifolina Linn.</td><td>3.74</td><td>67.83</td><td>28.43</td><td>1.50</td></tr><tr><td>D</td><td>裸沙地 Bare sandy land</td><td>3.62</td><td>62.38</td><td>34.00</td><td>1.42</td></tr></table></body></html>
+
+ECH2O EC-5土壤水分探测器能有效监测沙化地区的土壤水动态特征[27]。为进一步提高数据精度,本文按照 Decagon Devices 网站(htp://www.decagon.com）发布的校正方法对四种下垫面的土壤含水量进行校正。考虑到裸沙地表层 $1 0 \mathrm { { c m } }$ 处和各样地30—70cm处的土壤质地等差异较小,故在校正中不作区分。为保证校正实验的可靠性，剔除实验中土壤干重与对应的容重差异较大的个别样本，总样本量为133个，其中蔓荆子、5年生湿地松和17年生湿地松的样本量均为31个,裸沙地的样本量为40个,并采用三次多项式拟合获得最佳的拟合效果[27],如图2所示,最后对仪器获取的土壤含水量数据进行了校正。
+
+![](images/f73a3ef1a703a6c6e3da66689634ad2b57afbc7d0d33a49fd2ccf0ccb8f87c28.jpg)  
+图2不同下垫面 $\mathbf { 1 0 c m }$ 土层土壤水分校正  
+Fig.2Soil moisture calibration under different underlying surfaces at 1Ocm in lakeside sandy land
+
+# 2结果
+
+2.1鄱阳湖湖滨沙地土壤水分年内变化特征
+
+鄱阳湖湖滨沙地不同下垫面土壤体积含水量(下称含水量)低且年内变化差异显著(图3)。从研究期的均值来看,不同下垫面土壤平均含水量（含 $1 0 \mathrm { c m } \ 、 3 0 \mathrm { c m } \ 、 7 0 \mathrm { c m } )$ 大小顺序依次为：裸沙地、蔓荆子、17 年生湿地松和5年生湿地松,其数值依次为 $0 . 0 6 3 \mathrm { ~ . 0 . 0 5 5 ~ . 0 . 0 5 ~ c m ^ { 3 } / c m ^ { 3 } }$ 和 $0 . 0 4 8 ~ \mathrm { c m } ^ { 3 } / \mathrm { c m } ^ { 3 }$ 。从年内的变化过程来看，高值区主要分布于上半年,而下半年普遍偏低（图3）。在2013年2月至6月期间，累计降水量超过 $1 0 0 0 \mathrm { m m }$ ,明显高于同期潜在蒸散发量(图4),并且降水事件间隔短,17年生湿地松、裸沙地、蔓荆子和5年生湿地松的土壤含水量平均值(含 $1 0 \mathrm { c m } \ 、 3 0 \mathrm { c m } \ 、 7 0 \mathrm { c m } )$ 分别为 $0 . 0 7 5 \ , 0 . 0 6 9 \ , 0 . 0 6 6 \ \mathrm { c m } ^ { 3 } / \mathrm { c m } ^ { 3 }$ 和 $0 . 0 6 3 \mathrm { \ c m } ^ { 3 } / \mathrm { c m } ^ { 3 }$ 。在2013年8月一次年2月期间，累计降水量仅为 $3 2 7 . 8 \mathrm { { m m } }$ ,明显低于同期潜在蒸散发量,其中次年2月份降水量占该时期总量的 $4 2 . 2 8 \%$ ,裸沙地、蔓荆子、5年生湿地松、17年生湿地松的土壤水分平均值分别为 $0 . 0 5 8 \ 、 0 . 0 4 6 \ 、 0 . 0 3 5$ $\mathrm { c m } ^ { 3 } / \mathrm { c m } ^ { 3 }$ 和 $0 . 0 2 8 ~ \mathrm { c m } ^ { 3 } / \mathrm { c m } ^ { 3 }$ ,并且不同下垫面的土壤水分差异大于上半年。
+
+不同覆被条件下各个土层水分差异明显,且在上半年和下半年呈现不同的特征(图3)。结合单因子方差统计（One-way ANOVA)分析发现(表2)：不同覆被条件下的各土层土壤含水量在降水量偏少的下半年差异显著;而在降水量偏多的上半年,仅 $1 0 \mathrm { { c m } }$ 和 $7 0 \mathrm { c m }$ 土层呈现显著差异。在垂直方向上,相对于 $3 0 \mathrm { c m }$ 和 $7 0 \mathrm { { c m } }$ 土层,不同覆被下 $1 0 \mathrm { { c m } }$ 土层的土壤含水量差异更为显著。
+
+![](images/bc4d2bb74118d6a5db86cec4ed6b59733d39b8d3ef6036fcf1c53ccc004efc16.jpg)  
+图3不同下垫面沙地土壤水分的年内变化特征  
+Fig.3Variations of soil moisture content（SWC）under different underlying surfaces
+
+表2不同下垫面沙地土壤含水量的单因子方差分析  
+Table 2One-way ANOVY of soil moisture content （SWC） under different underlying surface  
+
+<html><body><table><tr><td rowspan="3">时段 Study period</td><td colspan="8"></td></tr><tr><td colspan="2">平均值 Mean</td><td colspan="2">10cm</td><td colspan="2">30cm</td><td colspan="2">70cm</td></tr><tr><td>F</td><td>P</td><td>F</td><td>P</td><td>F</td><td>P</td><td>F</td><td>P</td></tr><tr><td>2013-02—2014-02</td><td>1.62</td><td>0.198</td><td>2.35</td><td>0.085</td><td>2.76</td><td>0.052</td><td>2.38</td><td>0.082</td></tr><tr><td>2013-02—2013-07</td><td>1.75</td><td>0.19</td><td>4.89</td><td>0.01</td><td>1.52</td><td>0.239</td><td>6.39</td><td>0.003</td></tr><tr><td>2013-08-2014-02</td><td>6.58</td><td>0.002</td><td>9.47</td><td><0.001</td><td>5.47</td><td>0.005</td><td>4.6</td><td>0.011</td></tr></table></body></html>
+
+除受降水影响外,高温天气也是导致土壤水分存在明显差异的重要原因。在7—10月， $1 0 \mathrm { { c m } }$ 深处土壤温度均超过 $2 0 \%$ ,尤其是8月份,超过 $3 0 \%$ （图4)。高温晴朗天气下,地表蒸发及植被蒸腾作用均相应增强，从而使得植被区的蒸散作用大于非植被区。这也导致了有植被覆盖的沙化区域,在降水偏少的下半年土壤含水量明显低于裸沙地，尤其是覆盖度相对较大的湿地松林。
+
+由此可见,研究区上半年土壤水分主要受降水事件的控制,植被的影响次之；而在下半年,植被因子作用增强，不同覆被条件下土壤水分的差异高于上半年。
+
+# 2.2极端高温干旱下的湖滨沙地土壤水分变化特征
+
+2013年夏季主要经历了4次高温天气过程,其中,第3次高温天气过程(7月22日至8月21日)强度最
+
+rrlinrrirrrnirerliineiiiien 3030 隆在散发 4035 厂 $\twoheadleftarrow$ 5年生湿地松  
+喜/ 250 Dereetetgte 30  
+200 有票王 25  
+5010 50 二 二 自 2015 10  
+0 M 5  
+20-0330 2200335 4001311 2005555 90-5100 22-0137 80-5100 20-5130 2031130 20-4402 2015322 22-5135 40-5330 2005555 94-5350 2205117 80-5155 2005135 201130 40-1111 2031131 20-0001 20-4402时间Time
+
+强、范围最广[19]。从图5可以看出,持续高温干旱天气下,不同覆盖条件和不同深度土壤水分均表现出明显差异。沙化土地浅层土壤含水量降低速度,随着距离降水事件的时间增加呈现先快后慢,然后维持在极低水平。表层 $1 0 \mathrm { { c m } }$ 土壤的含水量在降水事件后的一个星期快速下降;8 月 $2$ 号之后,各覆被类型下的土壤含水量均低于 $0 . 0 2 ~ \mathrm { c m } ^ { 3 } / \mathrm { c m } ^ { 3 }$ ,随着高温天气持续,土壤含水量均降低到 $0 . 0 1 ~ \mathrm { c m } ^ { 3 } / \mathrm { c m } ^ { 3 }$ 以下,这与冯起等学者在新建厚田沙地的研究结果较为一致[9]。值得一提的是,8月22至26号的降水量总和为 $9 . 8 \mathrm { m m }$ ,其中最大日降水量为 $3 . 7 \mathrm { m m }$ ,17 年生湿地松和5年生湿地松样地的土壤水分未发生明显改变。土层 $3 0 \mathrm { c m }$ 和 $7 0 \mathrm { c m }$ 深度的土壤含水量受植被覆盖条件的控制,其中5年生湿地松和17年生湿地松样地的土壤含水量明显低于裸沙地和蔓荆子地。相对于裸沙地和蔓荆子地,在干旱早期,湿地松样地 $3 0 \mathrm { c m }$ 以下土层含水量下降幅度更强烈;当表层土壤水分处于低水平时,湿地松根系吸收更深土层的土壤水分,导致 $7 0 \mathrm { c m }$ 深度土壤保持较低的含水量。此外,由于5年生湿地松栽植密度大,相对于较为稀疏的17年生湿地松来说,其林下土壤含水量更低,说明其消耗的土壤水分也更多。
+
+# 2.3不同季节不同强度降雨事件结束后的土壤水分对比
+
+17 年生湿地松和裸沙地样地土壤含水量对不同季节和不同强度降水事件的响应存在明显差异。春季由于降水量大和降水频率高,在降水事件发生后的72 小时之内（图6A、B),17 年生湿地松样地表层 $1 0 \mathrm { { c m } }$ 土壤含水量均明显高于30cm土层,且随着距离降水事件时间的延长,两土层水分差值仍明显高于裸沙地,说明湿地松林能通过增加地表枯枝落叶层的厚度 $( 0 . 5 \mathrm { - } 1 . 5 \mathrm { c m } ^ { \cdot }$ )和表层有机质,有效地增加土壤的持水能力。夏季中期,强降水事件 $\left( 3 1 . 5 \mathrm { m m } \right)$ 后（图6C），强烈的蒸发导致表层 $1 0 \mathrm { { c m } }$ 处的土壤含水量迅速降低,且均明显低于$3 0 \mathrm { c m }$ 土层;受到湿地松蒸腾作用,其林下土壤水分低于裸沙地。夏末秋初,低强度降水事件后(最后一天日降水量分别为 $3 . 7 \mathrm { m m }$ 和 $6 . 9 \mathrm { m m } \mathrm { \dot { \Omega } } ,$ )（图6D、E），裸沙地表层 $1 0 \mathrm { { c m } }$ 处土壤水分得到一定的补给,但17 年生湿地松样地土壤水分未发生明显变化;并且两种类型样地在 $3 0 \mathrm { c m }$ 和 $7 0 \mathrm { c m }$ 深处土壤水分均未得到补给。但当多日持续降水量超过 $2 5 \mathrm { { \dot { m } m } }$ 时（图6F）,裸沙地0一 ${ \cdot } 7 0 \mathrm { c m }$ 范围内的土壤水分含量受到明显的补给,17年生湿地松样地仅在 $3 0 \mathrm { c m }$ 处的土壤水分受到少量的补给。
+
+由此可见,在鄱阳湖湖滨沙地,湿地松的种植不仅直接影响着土壤水分的消耗量,而且关系到降水对土壤水分的补给。在多雨季节,湿地松能有效增加表层的持水能力;在较为干旱季节,且降水强度较低时,湿地松对降水的截留及吸附直接影响土壤水分的补给量和补给深度。
+
+# 3讨论
+
+.1鄱阳湖湖滨沙地与其他类型土壤含水特征的对比为更好地理解鄱阳湖湖滨沙地土壤含水量特征,文中将该区沙化土地含水特征与其它类型土壤进行了对
+
+![](images/11e450d0d214fd676beca1bf3230d9ad0b0016d2433082c4db9eeff799a3cee3.jpg)  
+图57月20日至9月5日沙地土壤含水量和温度变化
+
+Fig.5Variations of soil moisture content （SWC）and soil temperature from July 20 to September 5，2013
+
+比分析。相对于南方典型红壤来说，虽然2013年2月至2014年2月研究区降水量比千烟洲地区同期多$2 2 0 \mathrm { m m }$ ,但湖滨沙地土壤年平均含水量明显低于千烟洲地区的红壤,为1/7—1/8 倍,其中在降水丰富的上半年为1/4—1/5倍,在下半年为1/9—1/11倍(图7)。相对于西南地区低植被覆盖的喀斯特土壤,湖滨沙地土壤平均含水量也较低,大致为1/3—1/4倍[28-29]。与周边类似地区——福建滨海沙地相比,土壤平均含水量和变化特征均较为接近[30]。但与北方沙漠化地区相比,鄱阳湖沙地的土壤含水量总体较高[31];由于南北气候的差异,在春季,鄱阳湖湖滨沙地土壤水分高于北方荒漠化土地,但在长江中下游地区出现极端高温干旱天气的条件下,在夏秋季节可能相反[32]。因此,亚热带沙地植被恢复与重建在借鉴红壤地区、喀斯特地区以及北方沙漠化地区等成功经验时,也需要根据当地的土壤水分状况制定合理的对策。
+
+![](images/ffe8507d5bc5fab24b71746a2879774ed5bdf42344d8c3a12ae4096eb3a3f2a2.jpg)  
+图6不同季节不同强度降雨事件的土壤水分差异 $( \mathrm { A } , \mathrm { B } _ { \mathcal { A } } , \mathrm { C } , \mathrm { D } , \mathrm { E } _ { \circ } , \mathrm { F }$ 代表本次降雨最后一天的日期(总降水量,持续降水日数)分别为4月5日（ $2 9 . 4 \mathrm { m m }$ ,6d)、4月29日( $4 1 . 2 \mathrm { m m }$ ,4d)、7月21日 $( 3 1 . 5 \mathrm { m m } , 1 \mathrm { d } ) \ Q$ 月26日（ $9 . 8 \mathrm { m m }$ ,5d)、9月10日( $6 . 9 \mathrm { m m }$ ,1d)、9月28日( $2 5 . 9 \mathrm { m m }$ ,6d)；1、2分别为17年生湿地松、裸沙地) 1
+
+Fig.6Responefslosturetet（ifallitesityieretsoA,,CD,E,enoeeateofyof rainfall（total rainfall,sustained days of rainfall）on April 5,( $2 9 . 4 ~ \mathrm { m m }$ ,6 days），April 29 ( $4 1 . 2 \ \mathrm { m m }$ ,4 d),July 21（31.5 mm,1d)，Aug.26（ $9 . 8 ~ \mathrm { m m }$ ，5d)，Sept.10 ( $6 . 9 ~ \mathrm { m m } , ( 1 ~ \mathrm { { d } ) }$ ，September 28 （ $2 5 . 9 \ \mathrm { m m }$ ，6 d），respectively.1，2 denote 17-year-old Pinus elliotii，bare sandyland，respectively /人
+
+# 3.2 亚热带湖滨沙地植被恢复对策探讨
+
+沙地植被恢复与重建是减轻风沙危害的重要手段和有效的途径[31」。在这个过程中,往往会通过增加树种的初植密度来实现迅速覆盖地表的目的。然而，已有研究表明，土壤含水量随着栽植密度增加而降低，并且随着林龄的增加,其需水量也不断增加,导致水分竞争愈加剧烈,容易引起土壤水分供需矛盾加剧[33-34],从而抑制了固沙植物的生长,当超过植物水分胁迫的阈值,最终导致植被死亡[14],影响植被生态系统的稳定性和可持续发展。由图3和图5可知,在伏旱时期,密度较大的5年生湿地松样地土壤含水量低于其他类型样地。从图5和图6可发现,由于林冠及林下的凋落物的截留与吸附,降低穿透雨量,减少水分向土壤输人[32.35],导致低强度的降水事件无法对盖度较大的湿地松林下土壤水分进行有效补给。由于湿地松根系向下生长较当地原生物种深,如狗牙根和蔓荆子等,在极端高温干旱的天气下,湿地松林下的原生物种可能因水分亏缺而枯萎,从而导致生物多样性降低。以土壤温湿度监测点为中心的 $5 \mathrm { m } \times 5 \mathrm { m }$ 样方调查结果发现,17年生湿地松林下植被比5年生湿地松更为单一，但5年生湿地松林下也存在枯萎的狗牙根和蔓荆子等草本和灌丛。
+
+目前,该地区采用本地育种、选择2年生湿地松苗木、将种植日期提前的种植方式[1],有效提高了成活率[36]（图1A）。但在湿地松种植及后期管理中,须适当控制植株密度。考虑到研究区的土壤水分特征和几十年的湿地松种植历史,建议以当地已有最大的湿地松夏季正午树影直径为参考,植株间距不低于这个参考值，
+
+![](images/2de83529eb7d7ba0c3e5e4079a0d0c6f39ebe77bd1f39612f24bc6bd74b06420.jpg)  
+图7鄱阳湖湖滨沙地与千烟洲红壤的土壤水分对比及其对应的降水量
+
+Fig.7Dierenceofsoilmoisturecontent（SWC）betwenlakesidesandylandinPoyangLakeandkrasnozem inQianyanzhouandthei concurrent rainfall
+
+并兼顾蔓荆子等原生植被;对于已有的低龄湿地松林,也须合理降低植株密度,以避免越来越频发的极端干旱事件引发的水分短缺而导致生物多样性减少等不利影响,逐步改善群落结构,促使沙化地区发生持续的正向演替。 11
+
+# 4结论
+
+(1)亚热带湖滨沙地土壤水分在梅雨期和伏旱期差异显著。降水充沛的上半年,各覆被条件下的土壤平均含水量较高,均高于 $0 . 0 6 3 ~ \mathrm { c m } ^ { 3 } / \mathrm { c m } ^ { 3 }$ ,且差异不明显;而降水量少的下半年,各覆被类型之间土壤含水量均存在极显著差异,其中,湿地松样地的土壤平均含水量均低于 $0 . 0 3 5 ~ \mathrm { c m } ^ { 3 } / \mathrm { c m } ^ { 3 }$ 。在梅雨期及前后,土壤水分主要受降水事件的控制,植被的影响次之;而在伏旱及其后期,覆被条件的差异起关键作用。
+
+(2)高温干旱天气下,沙化土地浅层土壤含水量降低速度随着距离降水事件的时间先快后慢,之后维持在极低水平 $\mathrm { ^ { ' } } { < } 0 . 0 1 \mathrm { c m } ^ { 3 } / \mathrm { c m } ^ { 3 }$ ; $3 0 \mathrm { c m }$ 和 $7 0 \mathrm { c m }$ 深度的土壤含水量变化受覆被条件的控制,且相对于较为稀疏的17 年生湿地松来说,栽植密度大的5年生湿地松林下土壤含水量更低。
+
+(3)在多雨季节,17年生湿地松能有效增加土壤表层的持水能力;在干旱季节且降水强度较低时,湿地松对降水的截留和吸附强烈地制约土壤水分的补给量及补偿深度。在未来亚热带沙化土地的植被恢复与重建过程中,需增大初植密度,并且对于密度过高的湿地松林,也应采取适当措施降低其密度,以实现沙化地区植被的可持续发展。
+
+致谢：千烟洲站提供气象数据和土壤湿度观测数据,龙进等测定土壤粒径数据,特此致谢。
+
+# 参考文献（References）：
+
+[1] 李新荣，张志山，黄磊，王新平.我国沙区人工植被系统生态-水文过程和互馈机理研究评述.科学通报，2013,58(5/6)：397-410.  
+[2] 俞洁辉，刘新圣，罗天祥，张林.念青唐古拉山北麓草甸海拔分布上限土壤温湿度的季节变化.地理学报，2012,67（9)：1246-1254.  
+[3] 郭忠升，邵明安.半干旱区人工林地土壤入渗过程分析.土壤学报，2009，46(5)：953-958.  
+[4] 莫保儒，蔡国军，杨磊，芦娟，王子婷，党宏忠，王多锋，戚建莉.半干旱黄土区成熟柠条林地土壤水分利用及平衡特征.生态学报，2013，33(13):4011-4020.  
+[5] WangS,FuaGZJosofloseifetlovetifallvetsigeatoarea of the Loess Plateau,China. CATENA,2013，101:122-128.  
+[6] 徐飞，赖晓明，朱青，廖凯华.太湖流域丘陵区两种土地利用类型土壤水分分布控制因素.生态学报，2016,36(3)：592-599.  
+[7] AndryH,Yaaot,ieoaouaHteeetodcduciityfdliclsdlaffected by temperature water quality.Journal of Hydrology，2009,373（1)：177-183.  
+[8] 宁婷，郭忠升.半干旱黄土丘陵区擢荒坡地土壤水分循环特征.生态学报，2015，35(15)：5168-5174.  
+[9] 冯起，程国栋.我国沙地水分分布状况及其意义.土壤学报，1999，36(2)：225-236. ?  
+[10] 周宏飞，肖祖炎，姚海娇,李莉，李原理.古尔班通古特沙漠树枝状沙丘土壤水分时空变异特征.水科学进展,2013，24（6)：71-777.  
+[11] 李兰晖，丁明军，郑林，廖凯涛．鄱阳湖沙化地区不同下垫面土壤水分动态.水土保持通报，2014，34(2)：213-217.  
+[12] PachauriRK,AllnMR,BarosVR,BroomeJ,CramerW,ChristR,ChurchJA,CarkeL,DaheQ,DasguptaP,DubashNK,EdenhferO,ElgizouliI,eC,Forstr，,Frstein,ugleste，oeEchevei，agateS，HgeG，HniagK,Jimenez CisnerozB,KatsovV,LeeH,MchKJ,arotzkJ,MastrandreaMD,eyerLinxJ,MulugettY，O'BrieK,Opper,Pereira JJ,Pichs-MadrugaR,PlatnerGK,PrerHO,PowerSB,PrestonB,RavindranathNHReisingerA,RiahiK,usticucci M,ScholesR,SeybothK,konaYtavisR,StockerF,chakertP,vanVuurenD,vanYpserlJP.ateChange2O4Sthsiseport.ContributionofWorkingGrousI，IandIItohefthAssessentReportofteItergovementalPaneloClimateChange.CabridgeCambridge University ，2014.  
+[13] AllenCD，MacaladyAK，Chenchou H,Bachelet D，McDowell N，Vennetier M,Kitzberger T,Rigling A，Breshears D D,Hogg E H T,Gonzalez P,FenshamR,ZhangZ,CastroJ,DemidovaN,LimJH,lardG,RuingSW,SemerciA,CobbN.Aglobaloverviewofdroughtand heat-induced tree ortalityreveals g climate change risks for forests.Forest Ecology and Management，2010,259(4）: 660-684.  
+[14] Anderegg WR,FlintA，HuangCY,FlintL，BerryJA,DavisFW，SperryJS,FieldCB.Tree mortalitypredictedfromdroughtinducedvascular damage.Nature Geoscience，2015，8(5）：367-371.  
+[15] AndereggWRL,KleinBartletSackL，PeleginiAFA，ChoatB,JnsenS.eta-aalysisevealstathdralictratsexplispeciesatsghuctroralitriofaldeofeftiac2016,113(18):5024-5029.  
+[16] ShefieldJ，WoodEF,Roderick ML.Litlechangeinglobal droughtoverthe past60years.Nature，2012,491（7424):435-438.  
+[17] 杨艳昭，张伟科，封志明，杨格格，杨玲.干旱条件下南方红壤丘陵地区水分平衡.农业工程学报，2013，29(12)：110-119.  
+[18] 彭京备，张庆云，布和朝鲁.2006年川渝地区高温干旱特征及其成因分析.气候与环境研究，2007，12（3)：464-474.  
+[19] 唐恬，金荣花，彭相瑜，牛若芸.2013年夏季我国南方区域性高温天气的极端性分析.气象，2014,40(10)：1207-1215.  
+[20] YangB，WenXF,SunXM.SeasoalratiosindepthofwateruptakeforasubtropcalconiferousplantationsubjectedtodroughtinanEastAsian monsoon region. Agricultural and Forest Meteorology，2015，201: 218-228.  
+[21] 韩志勇，李徐生，张兆干，陈英勇，杨达源，弋双文，鹿化煜.鄱阳湖湖滨沙山垄状地形的成因.地理学报，2010,65（3)：331-338.  
+[22] 丁明军，郑林，聂勇．鄱阳湖沙山地区沙化土地特征及成因分析.水土保持通报，2010，30(2)：159-163.  
+[23] 朱震达，崔书红.中国南方的土地荒漠化问题.中国沙漠，1996，16(4)：331-337.  
+[24] 胡启武，尧波，郑林，李晓峰，丁明军，曹昀.鄱阳湖沙山土壤养分特征与植被恢复方向探讨.土壤通报，2012，43（3）：651-655.  
+[25] LiuCM,ZanXaCpdalgietiotasatsiiiyetecalcs(1960——2007). Journal of Geographical Sciences，2012,22(1）：3-14.  
+[26] 王月，李程，李爱德，杨自辉，张清涛，梁晓健，邱国玉.白刺沙堆退化与土壤水分的关系.生态学报，2015，35(5)：1407-1421.  
+[27] Wu B,Han HY,He J, Zhang JH, Cui LQ,Jia Z Y, Yang WB.Field-specific calibration and evaluation of $\mathrm { E C H } _ { 2 } \mathrm { 0 }$ EC-5 sensor for sandy soils.Soil Science Society of America Journal,2014，78(1） : 70-78.  
+[28] 徐慧芳，宋同清，黄国勤，彭晚霞，曾馥平，杜虎，李莎莎.喀斯特峰丛洼地区坡地不同土地利用方式下土壤水分的时空变异特征.生态学报，2014，35(18)：5311-5319  
+[29] Chen H S, Zhang V，Wang KL，Fu W.Soil moisture dynamics under diferent landuseson karst hillslope in northwest Guangxi，China.Environ 1105-1111  
+[30］吴锡麟.福建海岸带木麻黄防护林水分生态的初步研究[D]．福州：福建农林大学,2002：19-23.  
+[31] 李新荣，张志山，谭会娟，高艳红，刘立超，王新平.我国北方风沙危害区生态重建与恢复：腾格里沙漠土壤水分与植被承载力的探讨.中国科学：生命科学 ：257-266.  
+[32] 于晓娜，李恩贵，黄永梅，李小雁.毛乌素沙地油蒿(Artemisi ordosica)群落土壤水分动态特征.中国沙漠，2015，35(3)：674-682.  
+[33] 安慧，安钰.毛乌素沙地南缘沙柳灌丛土壤水分及水量平衡.应用生态学报，2011，22（9)：2247-2252.  
+[34] 贾海坤，刘颖慧，徐霞，王昆，高琼.皇甫川流域柠条林地水分动态模拟——坡度、坡向、植被密度与土壤水分的关系.植物生态学报，2005，29(6): 910-917.  
+[35] 张志山，张景光，刘立超，王新平，李新荣.沙漠人工植被降水截留特征研究.冰川冻土，2005，27（5）：761-766.  
+[36] 张聘.鄱阳湖区沙化土地湿地松恢复试验及示范研究[D].南昌：江西师范大学，2011：20-21.

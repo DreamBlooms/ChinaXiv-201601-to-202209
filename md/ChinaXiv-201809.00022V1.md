@@ -1,0 +1,234 @@
+# 樟子松人工固沙林冠幅一胸径模型 1
+
+韩艳刚'，雷泽勇¹，赵国军²，周晏平',徐畅}(1．辽宁工程技术大学环境科学与工程学院,辽宁 阜新123000；2．辽宁省固沙造林研究所,辽宁 阜新 123000)
+
+摘要：基于章古台地区22 块樟子松（Pinus sylvestris var．mongolica）人工纯林标准地的702 棵樟子松立木数据,构建了樟子松固沙林冠幅—胸径关系的基础模型、广义模型及基于混合效应的基础模型和广义模型;比较了随机选择样本木、选择平均胸径树、选胸径较小树和选胸径较大树4种方案,计算混合模型随机参数时的混合模型预测精度;最后分析了不同林木因子和林分变量对冠幅一胸径关系的影响。模型评价指标包括决定系数 $\scriptstyle ( R ^ { 2 } )$ 、平均绝对误差（MAE)以及均方根误差(RMSE)。结果表明：枝下高(HCB）、相对植距 $( R S )$ 和林龄(A)对冠幅一胸径关系影响最为显著;混合模型拟合精度(基础混合模型 $R ^ { 2 }$ 、MAE 和RMSE分别是： $\cdot 0 . 7 0 3 \ 0 . 0 . 3 8 6 \ 6$ 和0.5154;广义混合模型 $R ^ { 2 }$ 、MAE 和RMSE为:0.7051、0.3822和0.5136)高于最小二乘法回归(OLS)模型(基础模型 $R ^ { 2 }$ 、MAE和RMSE分别为： $; 0 . 5 8 7 \ 5 \ . 0 . 4 6 9 \ 6 \ . 0 . 6 0 7 \ 5 \$ 广义模型 $R ^ { 2 }$ 、MAE和RMSE分别为:0.6618、0.4155和0.5500）。基础混合模型和广义混合模型差异较小(2 模型 $R ^ { 2 }$ 、MAE 和RMSE 均相差 $1 \%$ 左右）。冠幅随HCB 和 $A$ 的增大而减小,随RS的增大而增大。进行冠幅预测时,推荐使用基础混合模型并从每块标准地选择2棵平均木冠幅计算其随机参数，或使用方法较为简单的OLS广义模型预测单木冠幅大小。
+
+关键词：樟子松；人工固沙林；冠幅—胸径；混合效应；基础模型；广义模型
+
+冠幅是预测树冠表面积、树木生物量、林分郁闭及树冠形状的重要变量[H]，是林分模型的重要参数[2],可用于计算某些植被的防风固沙效应指标（侧影面积)[3],其结构是种群地上部分生命活动最活跃、影响环境最激烈的部分[4]。定量认知树木冠幅对林分的密度控制、生态效益和生产能力的最优化管理具有重要意义[5]。但是,冠幅的调查成本较高且费时费力，于是建立能够准确预测冠幅生长变化的模型便十分必要。
+
+目前常用的冠幅预测模型中，一种是只含有胸径1个自变量的简单模型，另一种是由胸径和其他能够反映林木和林分间差异的林木因子和林分变量构成的广义模型。有学者认为，仅含胸径1个预测变量的模型既可以满足需要，还具有预测变量少的应用优势[6-7]。也有研究表明：冠幅大小受林分密度、立地条件、森林类型和管理措施等因素的影响[8-9],简单的冠幅—胸径回归模型在用于总体平均水平预测时可能效果较好，但应用于个体预测时，在大密度林分中会出现预测值偏大，在稀疏林分中预测值偏小的问题[1],因而,需使用能够表示林木差异和林分效应的广义模型进行预测[-9,11] 。
+
+近年来，混合效应模型在处理重复测量数据和纵向数据方面的优势被不断发掘[12],该类模型即可描述冠幅和胸径关系在不同林分间的差异，还具有变量选择自由以及拟合与预测精度高等优点，在林业建模领域应用广泛[13-14]。目前国内外已有一些关于混合效应冠幅预测模型的报道，但是各树种间存在差异。Sharma 等[8-9]以欧洲云杉（Piceaabies）、欧洲山毛榉（Fagussylvatica）和欧洲赤松(Pinussylvestris）为研究对象，建立了样地水平混合模型，确定了3个树种冠幅模型中的树木因子和林分变量，并分析了所加变量对冠幅预测的影响；也有学者通过使用2水平（立地与样地)非线性混合模型,建立了杉木（Cunninghamialanceolata）单木冠幅预测模型[2,15];Fu 等[16]以山西地区的华北落叶松(Larixprincipis-rupprechtii)为研究对象,发现含有哑变量的2水平(地域与样地)非线性混合模型可以对不同地域和样地中的华北落叶松冠幅进行预测。总体看来，国内利用混合模型预测冠幅的报道还比较少，且多为混合模型与传统模型预测精度的比较，关于此类混合模型在不同抽样方案条件下预测精度比较的报道还较少。
+
+樟子松（Pinussylvestrisvar．mongolica）具有耐旱、耐寒、耐贫瘠、躯干通直、生长快、防风固沙能力强等优点。自20世纪50年代被成功引种到辽宁省章古台以来，樟子松在中国“三北”地区得到了大面积的推广，现已成为中国北方干旱半干旱地区造林的主要树种[17]。据研究,由于水热条件的差异,辽宁省章古台地区的沙地樟子松与天然分布区（呼伦贝尔沙地)的沙地樟子松在林分结构和生长特性方面存在较大差异[18],因此,在经营管理方面也不同于天然分布区。然而，沙地樟子松经营管理方面的文献非常匮乏，据笔者了解，目前樟子松人工林冠幅一胸径模型以及基于混合效应模型两者关系的报道还寥寥无几。鉴于此，本文以章古台沙地樟子松人工林为研究对象，以期建立适合该地区樟子松的冠幅预测模型，确定使用混合模型预测冠幅时最优抽样方案，为沙地樟子松人工林的合理经营提供理论基础。
+
+# 1 材料与方法
+
+# 1.1 研究区概况
+
+研究区位于科尔沁沙地东南缘的辽宁省彰武县章古台地区( $4 2 ^ { \circ } \ 3 9 ^ { \prime } \ \sim \ 4 2 ^ { \circ } \ 4 3 ^ { \prime } \ \mathrm { N }$ ， $1 2 2 ^ { \circ } 2 3 ^ { \prime }$ \~$1 2 2 ^ { \circ } 3 3 ^ { \prime } \mathrm { E } \ '$ ，海拔高度为（ $2 2 5 \pm 5$ ） $\mathrm { ~ m ~ }$ 。该地区地处中温带，大陆性季风气候,年均降水量 $5 0 0 ~ \mathrm { m m }$ 左右，年蒸发量平均在 $1 6 0 0 ~ \mathrm { { m m } }$ 左右。土壤主要类型为生草风沙土和流动风沙土。具有流动沙丘、半固定沙丘、固定沙丘和平缓沙地等地貌类型。代表性植物有中华委陵菜（Potentillaanserina）、中华隐子草（Cleistogeneschinensis）、小白蒿（Artemisia frigi-da）野古草（Arundinellaanomala）山杏（Armeniacasibirica）兴安胡枝子（Lespedezadaurica）盐蒿（Arte-misia halodendron）大果榆（Ulmusmacrocarpa）黄柳（Salixgordejevii）和蒺藜梗（Agriophyllum squarro-sum)等[17-19]。研究区营建樟子松人工林前为固定半固定沙地。
+
+# 1. 2 数据来源
+
+在充分踏查基础上选择合适的标准地，标准地的选择要满足3个原则：首先，要尽可能覆盖樟子松固沙林不同的林分年龄（由于幼林林木冠幅较小，容易测量，因此本研究在建立模型时未包含幼龄林);其次，要覆盖该地区不同的立地条件;第三，标准地间的距离不少于 $5 0 \mathrm { ~ m ~ }$ ,避免紧靠道边、农田，排除混交林。22块樟子松人工纯林临时标准地满足以上条件，每块标准地的规格为 $2 0 \mathrm { ~ m ~ } \times 2 0 \mathrm { ~ m ~ }$ 。标准地的林分年龄涵盖 $2 0 \sim 6 0 \mathrm { ~ a ~ }$ 年龄段，包括了樟子松中龄林及以后的各个阶段[20]。立地覆盖了平坦沙地及各个坡向的坡上、坡中和坡下。于2016年4月对所选标准地内的立木进行了每木检尺，测量过程中，使用精度为 $0 . \mathrm { ~ 1 ~ m ~ }$ 的红外线测树仪（快特能RD1000)测量树高 $( H )$ 和第一活枝下高(HCB）；使用胸径尺测量树木的带皮胸高围长，用以计算胸径(DBH);使用卷尺测量树木的东西冠幅（ $C W _ { \mathrm { E W } }$ )和南北冠幅( $C W _ { \mathrm { N S } }$ )，取两者的平均值作为树木冠幅$( C W )$ 值；通过查阅造林单位的造林记录确定林分的年龄 $( A )$ 。从调查数据中选择胸径在 $5 . 0 \ \mathrm { c m }$ 以上、生长正常且未受到明显损害的树木，用于模型构建。本次研究共采用了702棵樟子松调查数据，将该数据随机分为2部分，一部分是由17块标准地的501棵樟子松组成的建模数据，另一部分是由5块标准地的201棵樟子松组成的检验数据。
+
+# 1.3 研究方法
+
+1.3.1基础模型及广义模型的确定确定基础模型时，选择12个常用的冠幅一胸径模型(表1)分别进行拟合(最小二乘法，OLS)与检验，选择评价指标决定系数 $( R ^ { 2 } )$ 较大,平均绝对误差(MAE)和均方根误差(RMSE)较小的模型作为基础模型。3个指标的计算公式分别为：
+
+$$
+\begin{array} { r } { \boldsymbol { R } ^ { 2 } = 1 - \underset { i = 1 } { \overset { m } { \sum } } \underset { j = 1 } { \overset { n _ { i } } { \sum } } ( C \boldsymbol { W } _ { i j } - C \hat { \boldsymbol { W } } _ { i j } ) ^ { 2 } \bigg / \underset { i = 1 } { \overset { m } { \sum } } \underset { j = 1 } { \overset { n _ { i } } { \sum } } ( C \boldsymbol { W } _ { i j } - \overline { { C \boldsymbol { W } } } _ { i j } ) ^ { 2 } } \end{array}
+$$
+
+$$
+\mathrm { M A E } = \frac { 1 } { n } \sum _ { i = 1 } ^ { m } \sum _ { j = 1 } ^ { n _ { i } } \left| \ C W _ { i j } - C \ \hat { W } _ { i j } \ \right|
+$$
+
+$$
+\mathrm { R M S E } = \sqrt { \frac { 1 } { n } { \sum _ { i = 1 } ^ { m } } { \sum _ { j = 1 } ^ { n _ { i } } } \big ( C W _ { i j } - C \hat { W } _ { i j } \big ) ^ { 2 } }
+$$
+
+式中： $n$ 为样本树木总数量; $m$ 为标准地个数; $n _ { i }$ 为第 $i$ 块标准地内樟子松样本株数, $i = 1 , 2 , \cdots , m$ $C W _ { i j }$ 和 $C \hat { W } _ { i j }$ 分别为第 $i$ 个标准地第 $j$ 棵树木冠幅测量值和预测值 $\mathrm { ( m ) }$ ; $C { W } _ { i j }$ 为冠幅测量值的平均值 $\mathbf { \tau } ( \mathbf { m } )$ 。
+
+在确定基础模型后，为使模型能够反映冠幅一胸径关系随林木和林分的变化，采用再参数化的方法向模型中加入树木因子和林分变量以构建广义模型[2,13]。在参考文献[1,8-9,21]基础上,选择描述林木因子差异和林分特征的变量进行测试。林木因子： $H , \mathrm { H C B }$ 、树高和胸径比值（HDR）、冠长（CL，树高与第一活枝下高之差），冠长率（CR，冠长与树高比值)；林分变量：优势木平均高（TH)、株数密度$( N )$ 、每公顷断面积（BA）、相对植距〔RS，用公式(4)计算」、平方平均胸径（QMD）、算术平均胸径（AMD），林龄（A）。其中TH用每块标准地内选择4～5棵胸径最大树木的树高平均值表示，用以代替立地质量(15-16]。树木因子及林分变量的基本情况见表2。
+
+Tab.1 Candidate models for canopy-DBH relationship   
+
+<html><body><table><tr><td>模型</td><td>表达式</td><td>形式</td><td>模型</td><td>表达式</td><td>形式</td></tr><tr><td>M1</td><td>CW=β+βDBH+ε</td><td>线性</td><td>M7</td><td>CW = exp(βo +βDBH) +ε</td><td>Growth</td></tr><tr><td>M2</td><td>CW =βo +βDBH + βDBH² +ε</td><td>二次项</td><td>M8</td><td>CW=1/(βo +βDBH） +ε</td><td>Hossfeld</td></tr><tr><td>M3</td><td>CW=β0DBHβ1 +ε</td><td>幂函数</td><td>M9</td><td>CW=[DBH/(βo +βDBH)}²+ε</td><td>Hossfeld 1</td></tr><tr><td>M4</td><td>CW = βo β1 DBH +ε</td><td>复合</td><td>M10</td><td>CW=βo[1-exp(-β,DBH)]+ε</td><td>Mitscherlich</td></tr><tr><td>M5</td><td>CW = β0 exp(β DBH） +ε</td><td>指数</td><td>M11</td><td>CW=βoexp[-βiexp(-βDBH)]</td><td>Gompertz</td></tr><tr><td>M6</td><td>CW=βo +βlnDBH+ε</td><td>对数</td><td>M12</td><td>CW=βo/[1 +βexp(-βDBH)]+ε</td><td>Logistic</td></tr></table></body></html>
+
+注 $: \beta _ { 0 } \sqrt { \beta _ { 1 } }$ 和 $\beta _ { 2 }$ 为模型参数， $\varepsilon$ 为误差项。
+
+表1冠幅一胸径关系候选模型   
+表2樟子松调查林分基本情况统计  
+Tab.2Basic information of the investigated forest stand of Pinus sylvestris var.mongolica   
+
+<html><body><table><tr><td rowspan="2">变量</td><td colspan="4">建模数据n= 501</td><td colspan="4">检验数据n=201</td></tr><tr><td>均值</td><td>标准差</td><td>极小值</td><td>极大值</td><td>均值</td><td>标准差</td><td>极小值</td><td>极大值</td></tr><tr><td>冠幅/m</td><td>3.6</td><td>0.9</td><td>1.2</td><td>7.9</td><td>3.2</td><td>1.1</td><td>0.6</td><td>5.9</td></tr><tr><td>胸径/cm</td><td>16</td><td>4.4</td><td>6.4</td><td>29.1</td><td>14.5</td><td>4</td><td>6.7</td><td>27.1</td></tr><tr><td>树高/m</td><td>9.4</td><td>2.3</td><td>3.9</td><td>16.1</td><td>9.9</td><td>1.8</td><td>6</td><td>15.5</td></tr><tr><td>枝下高/m</td><td>4.0</td><td>1.6</td><td>1.1</td><td>9.2</td><td>4.7</td><td>1.8</td><td>1.3</td><td>9.7</td></tr><tr><td>高径比</td><td>0.59</td><td>0.12</td><td>0.24</td><td>1. 07</td><td>0.7</td><td>0.2</td><td>0.41</td><td>1.22</td></tr><tr><td>冠长/m</td><td>5.3</td><td>1.5</td><td>0.8</td><td>9.6</td><td>5.2</td><td>1.5</td><td>2</td><td>9.6</td></tr><tr><td>冠长率</td><td>0.58</td><td>0.1</td><td>0.25</td><td>0.82</td><td>0.5</td><td>0.1</td><td>0.23</td><td>0.82</td></tr><tr><td>优势木平均高/m</td><td>10.7</td><td>2.1</td><td>7.33</td><td>13.61</td><td>11</td><td>2.1</td><td>8.2</td><td>13.2</td></tr><tr><td>株数密度/（株·hm-²)</td><td>740</td><td>387</td><td>300</td><td>1 675</td><td>1 180</td><td>1 042</td><td>400</td><td>2 975</td></tr><tr><td>每公顷断面积/m</td><td>16.09</td><td>3.91</td><td>10.04</td><td>22.29</td><td>19</td><td>8</td><td>14.28</td><td>33.34</td></tr><tr><td>相对植距</td><td>0.38</td><td>0.09</td><td>0.25</td><td>0.56</td><td>0.3</td><td>0.1</td><td>0.16</td><td>0.4</td></tr><tr><td>平均胸径/cm</td><td>17.8</td><td>3.7</td><td>11.5</td><td>23.9</td><td>16.9</td><td>3.7</td><td>13</td><td>22.4</td></tr><tr><td>算术平均胸径/cm</td><td>17.6</td><td>3.7</td><td>11.2</td><td>23.7</td><td>16.6</td><td>3.9</td><td>12.7</td><td>22.2</td></tr><tr><td>林龄/a</td><td>36.5</td><td>12.2</td><td>25</td><td>56</td><td>38.4</td><td>12.7</td><td>25</td><td>56</td></tr></table></body></html>
+
+$$
+R S = \frac { \sqrt { 1 0 ~ 0 0 0 / N } } { T H }
+$$
+
+式中： $R S$ 为相对植距; $N$ 为林分密度（株· $\mathbf { h } \mathbf { m } ^ { - 2 }$ ）；  
+TH为优势木平均高 $\mathrm { ( m ) }$ 。
+
+1.3.2非线性混合效应模型本研究建立的冠幅混合模型是基于标准地效应的单水平非线性混合效
+
+应模型,其一般形式为[1,12]：
+
+$$
+y _ { i } = f \left( \beta , \ u _ { i } , \ x _ { i } \right) + \varepsilon _ { i }
+$$
+
+式中： $y _ { i }$ 为 $\left( n _ { i } \times 1 \right)$ 维冠幅测量值组成的因变量向量： $\mathbf { \nabla } _ { x _ { i } }$ 为自变量（广义模型中含有林木因子和林分变量） $\cdot f$ 为包括自变量与参数的函数形式； $\beta$ 为 $( p \times$ 1)维固定效应参数向量; $u _ { i }$ 为 $( q \times 1 )$ 维随机效应参数向量， $u _ { i } \sim N \left( 0 , D \right) ; p$ 和 $q$ 分别为固定效应参数和随机效应参数的个数; $\ \varepsilon _ { i }$ 为误差向量， $\varepsilon _ { i } \sim N$ (0，$R _ { i } ) { : } D$ 为 $( q \times q )$ 维随机效应方差-协方差矩阵; $R _ { i }$ 为 $( n _ { i } \times n _ { i } )$ 维标准地内方差－协方差结构。
+
+在基础模型上建立混合效应模型需要确定模型中的参数效应、标准地内方差－协方差结构( $( R _ { i } )$ 和随机效应参数矩阵 $( D )$ [22]。确定参数效应时,对所有的混合效应参数组合进行拟合，选择所有拟合结果中赤池信息量准则（AIC）、贝叶斯信息准则（BIC)和负2倍对数似然函数值 $\left( \begin{array} { l l } { - 2 L L } \end{array} \right)$ 最小的组合形式，同时使用似然比检验 $( L R T )$ 来避免过度参数化。在确定 $R _ { i }$ 时需要同时考虑观测数据的异方差性和自相关性，本文数据未涉及到自相关性，且在分析过程中未发现明显异方差性（图1），因此用$R _ { i } = \sigma ^ { 2 } I n _ { i }$ 描述标准地内方差－协方差结构。且最终模型中只有1个随机效应参数，因此，其随机效应方差－协方差结构为D=σ²。
+
+1.3.3模型拟合与检验所有的数据处理均在R软件中完成。混合效应模型参数估计使用R软件nlme 程序包中极大似然估计实现(12]。此外,使用最小二乘法拟合所得模型简称为OLS模型。
+
+混合模型可进行总体平均水平（MPA，即随机参数设为0)预测和具体标准地水平（MPS)预测，其进行MPA预测时与OLS模型相同。进行MPS时，需使用最优线性无偏估计（EBLUP)计算该标准地随机参数值，其表达式为[2,22]：
+
+$$
+\hat { \boldsymbol { u } } _ { i } = \hat { D } \hat { \boldsymbol { Z } } _ { i } ^ { T } ( \hat { \boldsymbol { Z } } _ { i } \hat { D } \hat { \boldsymbol { Z } } _ { i } ^ { T } + \hat { \boldsymbol { R } } _ { i } ) \ ^ { - 1 } \hat { \boldsymbol { e } } _ { i }
+$$
+
+式中： $\hat { \boldsymbol { u } } _ { i }$ 为随机效应参数的最优无偏估计值; $\hat { D }$ 为随机效应参数的方差-协方差矩阵； $\hat { R } _ { i }$ 为标准地内方差－协方差结构矩阵； $\hat { Z }$ 为随机效应参数设计（偏导数)矩阵； $\hat { Z } _ { i } ^ { T }$ 为 $\hat { Z } _ { i }$ 的转置矩阵; $\hat { \boldsymbol { e } } _ { i }$ 为观测值减去用固定效应参数计算的预测值。
+
+由于混合模型的预测精度受计算随机参数所用的抽样方案影响，笔者设计了随机选择1\~8棵样本木、选1\~8棵平均胸径木( $1 2 . 7 \sim 2 4 . 0 ~ \mathrm { c m }$ ）、选 $1 \sim$ 8 棵较小胸径木 $( 6 . 7 \sim 2 1 . 3 ~ \mathrm { c m } )$ 和1\~8棵较大胸径木 $( 1 5 . 3 \sim 2 7 . 1 ~ \mathrm { c m } ) 4$ 种抽样方案。
+
+为了表示模型的拟合精度，在模型拟合时评价指标除 AIC、BIC 和－2LL 外，还包括 $R ^ { 2 }$ 、MAE和RMSE，模型的预测检验指标采用MAE和RMSE。
+
+# 2 结果与分析
+
+# 2.1 基础模型
+
+选择的12个基础模型在描述冠幅一胸径关系时，模型的评价指标相差较小（表3）。其中，二次项函数（M2）、幂函数（M3）和单分子式（M10）的拟合效果与预测效果都较其他模型略好,3个模型的拟合与检验指标十分相近，其中M3常作为冠幅预测模型，且可以描述冠幅与胸径之间的异速生长关系[8-9],因此选择M3 为基础模型,其表达式为：
+
+$$
+C W _ { i j } = \beta _ { 0 } \mathrm { D B H } _ { i j } ^ { \beta _ { 1 } } + \pmb { \varepsilon } _ { i j }
+$$
+
+式中： $C { W _ { i j } }$ 和 $\mathrm { D B H } _ { i j }$ 分别为第 $i$ 块标准地内第 $j$ 棵树的冠幅 $\mathrm { ( m ) }$ 和胸径值 $\left( \mathrm { c m } \right) { : \beta _ { 0 } }$ 和 $\beta _ { 1 }$ 为模型参数; $\varepsilon _ { i j }$ 为模型误差。
+
+为使模型能够反映冠幅和胸径关系在不同林木和林分中的差异，同时避免因加入变量过多而产生多重共线性和增加调查成本，通过计算比较（因情况较多而未列出），最终选择了与樟子松冠幅相关程度高且对模型影响大的枝下高（HCB）相对植距$( R S )$ 和林龄 $( A )$ 加入模型中，其表达式为：
+
+$$
+C W _ { i j } = \left( \beta _ { 0 } + \beta _ { 1 } \mathrm { H C B } _ { i j } + \beta _ { 2 } R S _ { i } + \beta _ { 3 } A _ { i } \right) \mathrm { D H B } _ { i j } ^ { \beta _ { 4 } } \varepsilon _ { i j }
+$$
+
+式中： $\beta _ { 0 } - \beta _ { 4 }$ 为模型参数; $\mathrm { H C B } _ { i j }$ 为第 $\mathbf { \chi } _ { i }$ 块标准地内第 $j$ 棵树的枝下高 ${ \bf \Xi } ( { \bf \Lambda } _ { \bf m } ) { \bf \Lambda } _ { \bf { ; } } R S _ { { \bf { ; } } }$ 为第 $\mathbf { \chi } _ { i }$ 块标准地的相对植距； $A _ { i }$ 为第 $i$ 块标准地的林龄（a）。
+
+模型的拟合结果（表4）表明，广义OLS模型
+
+表3候选模型拟合及检验结果  
+Tab.3Results of the fitting and test of the candidate models   
+
+<html><body><table><tr><td rowspan="2">模型</td><td colspan="3">参数</td><td colspan="3">建模数据</td><td colspan="2">检验数据</td></tr><tr><td>β</td><td>β1</td><td>β</td><td>MAE</td><td>RMSE</td><td>R²</td><td>MAE</td><td>RMSE</td></tr><tr><td>M1</td><td>1.024 3</td><td>0.163 0</td><td></td><td>0.471 4</td><td>0.607 7</td><td>0.587 2</td><td>0.620 3</td><td>0.743 5</td></tr><tr><td>M2</td><td>0.824 7</td><td>0.188 6</td><td>-0.0008</td><td>0.470 4</td><td>0.607 3</td><td>0.587 6</td><td>0.617 0</td><td>0.738 5</td></tr><tr><td>M3</td><td>0.504 3</td><td>0.715 0</td><td></td><td>0.469 6</td><td>0.607 5</td><td>0.587 5</td><td>0.614 9</td><td>0.7363</td></tr><tr><td>M4</td><td>1.827 9</td><td>1.042 8</td><td></td><td>0.482 3</td><td>0.616 9</td><td>0.574 6</td><td>0.643 1</td><td>0.774 9</td></tr><tr><td>M5</td><td>1.827 9</td><td>0.041 9</td><td></td><td>0.4823</td><td>0.616 9</td><td>0.574 6</td><td>0.643 0</td><td>0.774 8</td></tr><tr><td>M6</td><td>-3.152 8</td><td>2.483 4</td><td></td><td>0.4710</td><td>0.6177</td><td>0.573 5</td><td>0.613 9</td><td>0.733 9</td></tr><tr><td>M7</td><td>0.603 2</td><td>0.041 9</td><td></td><td>0.482 3</td><td>0.616 9</td><td>0.574 6</td><td>0.643 0</td><td>0.774 9</td></tr><tr><td>M8</td><td>0.442 3</td><td>-0.0100</td><td></td><td>0.500 4</td><td>0.636 2</td><td>0.547 5</td><td>0.6760</td><td>0.818 7</td></tr><tr><td>M9</td><td>2.957 2</td><td>0.333 5</td><td></td><td>0.469 9</td><td>0.614 9</td><td>0.577 3</td><td>0.604 2</td><td>0.723 7</td></tr><tr><td>M10</td><td>8.237 5</td><td>0.0371</td><td></td><td>0.469 2</td><td>0.610 2</td><td>0.583 8</td><td>0.604 7</td><td>0.725 2</td></tr><tr><td>M11</td><td>8.664 7</td><td>2.020 6</td><td>0.053 0</td><td>0.470 9</td><td>0.6077</td><td>0.587 2</td><td>0.617 2</td><td>0.739 7</td></tr><tr><td>M12</td><td>7. 102 7</td><td>4.383 2</td><td>0.0955</td><td>0.471 5</td><td>0.6082</td><td>0.586 5</td><td>0.617 5</td><td>0.740 4</td></tr></table></body></html>
+
+# 表4不同冠幅一胸径模型拟合结果及统计指标
+
+Tab.4Fitting results and statistic indexes of different canopy-DBH models   
+
+<html><body><table><tr><td>变量</td><td>模型(7)</td><td>模型(8)</td><td>模型(9)</td><td>模型(10)</td></tr><tr><td>β</td><td>0.504 3</td><td>0.342 7</td><td>0.309 5</td><td>0.3234</td></tr><tr><td>β1</td><td>0.715 0</td><td>-0.0077</td><td>0.888 2</td><td>-0.006 9</td></tr><tr><td>β</td><td></td><td>0.131 0</td><td></td><td>0.121 9</td></tr><tr><td>β</td><td></td><td>-0.001 2</td><td></td><td>-0.0013</td></tr><tr><td>β4</td><td></td><td>0.882 3</td><td></td><td>0.910 2</td></tr><tr><td></td><td></td><td></td><td>0.0010</td><td>0.000 2</td></tr><tr><td>g²</td><td>0.3705</td><td>0.305 6</td><td>0.274 4</td><td>0.2709</td></tr><tr><td>AIC</td><td>928.31</td><td>834.78</td><td>828.55</td><td>806.97</td></tr><tr><td>BIC</td><td>940.96</td><td>860.07</td><td>845.42</td><td>836.49</td></tr><tr><td>-2 LL</td><td>922.31</td><td>822.78</td><td>820.55</td><td>792.97</td></tr><tr><td>R²</td><td>0.587 5</td><td>0.661 8</td><td>0.7030</td><td>0.7051</td></tr><tr><td>MAE</td><td>0.469 6</td><td>0.415 5</td><td>0.386 6</td><td>0.382 2</td></tr><tr><td>RMSE</td><td>0.607 5</td><td>0.550 0</td><td>0.515 4</td><td>0.513 6</td></tr></table></body></html>
+
+（8)的AIC、BIC、-2LL、MAE和RMSE较基础OLS模型（7）分别降低了 $1 0 . 0 8 \% . 8 . 6 0 \% \ . 1 0 . 7 9 \%$ 、$1 1 . 5 1 \%$ 和9. $4 6 \%$ ， $R ^ { 2 }$ 升高了 $1 2 . 6 5 \%$ 。对2个模型进行方差分析后发现,2个模型之间存在极显著差异 $F = 3 6 . 3 4 , P < 0 . 0 0 1$ ），可见模型(8)较模型（7)更适合用于冠幅预测。
+
+# 2.2 混合效应模型
+
+以不同的组合形式向模型(7）和模型(8）中加入随机效应参数，发现2个模型均为 $\beta _ { 0 }$ 中含有标准地效应的随机参数时，模型的拟合效果最好，2个混合模型表达式分别为：
+
+$$
+C W _ { i j } = \left( \beta _ { 0 } + u _ { i } \right) \mathrm { D B H } _ { i j } ^ { \beta _ { 1 } } + \varepsilon _ { i j }
+$$
+
+$$
+C W _ { i j } = ( \beta _ { 0 } + u _ { i } + \beta _ { 1 } { \mathrm { H C B } } _ { i j } + \beta _ { 2 } R S _ { i } +
+$$
+
+$$
+\beta _ { 3 } A _ { i } ) \mathrm { D B H } _ { i j } ^ { \beta _ { 4 } } + \varepsilon _ { i j }
+$$
+
+式中： $u _ { i }$ 为随机参数,其他变量含义同上文。
+
+混合模型在拟合过程中都未出现明显的异方差性（图1），因此不考虑进行异方差处理。模型(7）\~（10)的拟合结果表明(表4），含有混合模型的拟合精度明显高于OLS模型，广义模型的拟合效果要好于采用相同拟合方法的基础模型。对模型(9)和模型(10)进行似然比检验，发现模型(10）的拟合优度显著优于模型（9）( $: \mathrm { L R T } = 2 7 . 5 8 , P < 0$ 0001）。相较于模型(9），模型(10)的 $R ^ { 2 }$ 升高了0.$30 \%$ ,MAE和RMSE分别降低了 $1 . 1 4 \%$ 和 $0 . 3 5 \%$ 。基于模型(9)和模型(10)的混合效应，画出2个模型在不同林分中的冠幅一胸径曲线与观测值散点分布组合图(图2），其中模型(10)中的枝下高变量以每块标准地中枝下高平均值代替[9]。如图2所示,2个模型拟合的冠幅一胸径关系曲线均穿过冠幅一胸径的散点分布区域，多数集中于中心区域，少量靠近较边缘区域。说明混合模型具有较高的精度，可以很好地模拟不同樟子松林分中冠幅一胸径的关系。
+
+# 2.3模型预测与抽样对比
+
+由模型预测精度和抽样方案关系可知（图3）：4种抽样方案中，选择平均木时模型预测精度最高，且MAE和RMSE都随样本木数量的增加而出现减小趋势。对于广义混合模型，其预测精度整体变化较小,且MAE 和RMSE 略低于基础混合模型。对于基础混合模型：选择2棵平均木时，其MAE和RMSE分别较其MPA预测降低了 $2 8 . 1 \%$ 和 $2 0 . 9 \%$ ，之后随样本木数量增加降低速度较小;用同样的方法发现其余3种方案中样本木数量大于4棵时，MAE和RMSE的降低速度变缓。此外，本研究中模型(9)采用随机选择、选小树和选大树3种方案时，其MPS预测效果不如模型(8)和模型（10）的MPA预测。
+
+![](images/28008d18ef85bced18e2c6255fef679cabbaa6e480a38e95d681a5c334ef9fd7.jpg)  
+图1冠幅混合效应模型残差分布  
+Fig.1Residual distribution of canopy mixed effect models
+
+![](images/759eb2c262d882b423b3c0fcb32f1646f59f1942f914e3acc9c8bf224ed8d6a1.jpg)  
+Fig.2Comparison between the canopy-DBH observed values and the sample-plot fited curves
+
+![](images/b2fc5a994909e6d361389b80dd051fc330408707698f855f7aeaaff3ace952e8.jpg)  
+图2冠幅一胸径观测值与不同标准地拟合曲线对照  
+注：M9 和M10分别表示模型(9)和(10)的MPA预测。  
+图3模型预测精度与样本木数量关系
+
+![](images/00122ffcaa69b56db8da3e92c3adcc8113de028f909450b849e85306ff2dff14.jpg)  
+Fig.3Relationship between the prediction accuracy and the number of sampling tree   
+图4不同条件下冠幅一胸径曲线模拟  
+Fig.4Canopy-DBH simulation curves under different conditions
+
+# 2.4樟子松人工林冠幅模拟
+
+使用模型(10)的MPA预测功能对不同林分和个体的樟子松冠幅进行模拟，模拟分析DBH之外的某个增加变量（HCB、RS 和A)对冠幅预测的影响时，除目标变量外，其余增加变量均采用调查数据的平均值代替。由图4可知，在使用模型(10)进行冠幅预测时，加入模型中的林分变量和林木因子，对冠幅预测的影响与其参数估计值的符号存在着明显的对应关系，冠幅随着HCB的增大而明显减小;冠幅与RS的关系与HCB相反，表现为冠幅随RS的增大而增大；从樟子松由中龄林到过熟林的生长变化过程来看，冠幅随 $A$ 的增加而呈减小趋势。
+
+# 3讨论
+
+# 3.1 冠幅模型比较
+
+本研究以章古台地区中龄林到过熟林中不同立地和不同密度的樟子松人工纯林为例，从12个常用冠幅一胸径中选出了拟合与检验效果较好的幂函数形式作为基础模型，并从多个树木因子和林分变量中筛选出了枝下高（HCB）、相对植距（RS）和林龄(A)作为模型的增加变量。在幂函数模型基础上，检验了增加预测变量和建立混合效应模型对模型精度的影响，结果表明，建立混合效应模型和广义模型都可以提高模型的精度，2种方法结合后的广义混合模型(10)的精度最高，但与含有胸径单个自变量的简单混合模型(9)之间差异不大。
+
+通过比较不同模型在预测检验时的MAE和RMSE，发现混合模型MPS预测精度高于相应OLS模型预测。模型(10)的预测精度略高于模型(9），但两者差异不大，类似的情况也出现在了一些树高一胸径模型的研究中[13,23],这可能是由于模型中的随机参数已经能够反映不同林分和树木间的差异[23],此时加入树木因子和林分变量虽可提高模型的精度[23]但可能作用不大[24]。混合模型的 MPA预测与OLS模型预测相似，其精度主要受自变量影响。由于广义模型中的林木因子和林分变量能够反映林木和林分的差异，因而其精度较简单，模型精度高。
+
+研究表明，不同树种适用于不同的抽样设计方法[25]。本研究从设计的4种抽样方案中发现,广义混合模型和基础模型的精度都随样本木数量的增加而升高，且使用平均木时模型的预测精度最高。2个混合模型在使用2棵平均木计算随机参数时，预测精度MAE和RMSE的降低速率较快，增加平均木的数量可以提高模型精度，但是变化速率较慢，且需增加调查成本。因此，推荐使用2棵平均木计算混合模型随机参数值。
+
+林分结构与立地差异较小时，基础OLS模型可以实现相似林分的准确预测[]。林分间差异较大时，混合模型和广义OLS模型都能够反映林分和树木差异对冠幅的影响。若无平均木冠幅测量值作为先验信息，利用其他方案选择较少样本木计算基础混合模型的随机参数值，会导致其预测精度低于广义模型，且广义混合模型MPA、MPS及广义OLS模型间差异较小，此时使用广义OLS模型(8)进行冠幅预测更为简便且精度较高，类似结果也出现在了G6mez-Garcia 等[26]研究中。
+
+# 3.2冠幅与树木因子及林分变量关系
+
+本研究所加变量（HCB、RS和 $A$ )均与樟子松冠幅存在极显著相关性。其中，HCB是反映树冠衰退和树高生长动态的重要因子之一，对于喜光树种樟子松来说，树高的生长会导致下层枝叶接受光照较少而死亡，这种现象在密度大的林分中更明显;当树冠发生衰退时，树木活力下降，一般下层枝条先死亡,此时 HCB 升高,且常出现冠幅减小(27]。因此,常使用HCB作为冠幅的预测变量，且冠幅常随HCB 升高而变小。对于林分来说, $R S$ 是一个描述林分密度的综合指标，可能是该指标在计算时包含了描述林分竞争的 $N$ 和代表立地质量的TH,本文在将 $T H , N$ 和BA加入模型中时，其效果均没有加入RS 时好。在林分中， $R S$ 的增大意味着树木可占有的相对生长空间增大[28],有利于树冠横向生长，导致冠幅随RS 的增大而增大。除HCB 和RS之外,还加入了A来表示林分特征。在造林资料保存完整的单位中，人工纯林的林龄是最易获取的林分指标,根据林龄不仅可以对树高、胸径和冠幅进行预测,还可以整体把握林分动态[29-30]。由于林龄与其他多个因子(特别是TH)之间存在较强的相关性，因而常在建立广义模型时被舍去[31],但本文结果表明,在含有树木因子HCB 和林分变量RS 的模型中,加入林龄，对模型精度的提高要高于其他变量,故将林龄作为冠幅预测变量之一。对于树木来说,冠幅的生长通常是一个随着年龄增长而增大的过程。本文在检验林龄的影响时，结果却是冠幅在中龄林到过熟林的过程中会逐渐减小,这可能是由于樟子松的冠幅生长主要集中于幼龄林和中龄林阶段,35 a左右会出现提早衰弱[20],使樟子松人工林在中龄林之后整体表现出冠幅随林龄增大而减小的现象。但是关于冠幅随着林龄增长而减小的内在原因，还需进一步的研究验证。
+
+# 4结论
+
+本文通过选择合理的沙地樟子松人工林标准地进行调查，利用调查数据构建了章古台地区的樟子松人工林冠幅预测模型，得出了如下结论：
+
+（1）幂函数模型可以较好地描述章古台樟子松人工林的冠幅一胸径关系，适合作为预测冠幅的基础模型。(2）混合效应模型和广义模型可提高冠幅模型精度，但是广义混合模型、基础混合模型及广义OLS模型三者在用于冠幅预测时差异不大，故推荐使用所需变量少的基础混合模型或方法简便的广义OLS模型进行冠幅预测。对于基础混合模型，建议每块标准地中选择2棵平均木计算随机参数值。（3）所考虑的树木因子和林分变量中，枝下高、相对植距和林龄对冠幅预测模型中的影响最大，可以显著提高模型精度，而且冠幅一胸径曲线与这些变量之间的关系可以通过广义模型模拟实现
+
+# 参考文献（References）：
+
+[1]Yang Y,Huang S.Allometric modelling of crown width for white spruce by fixed-and mixed-effects models[J].Forestry Chronicle, 2017,93(2):138-147.   
+[2] 符利勇，孙华.基于混合效应模型的杉木单木冠幅预测模型 [J].林业科学,2013,49(8）:65-74.[Fu Liyong,SunHua.Individual crown diameter prediction for Cuninghamia lanceolata forests based on mixed effects models[J].Scientia Silvae Sinicae, 2013,49(8) :65-74.]   
+[3] 刘江，徐先英，丁爱强，等.荒漠灌木侧影面积的数字化测定及 应用[J].干旱区研究,2017,34(5）:1070-1076.[Liu Jiang, Xu Xianying,Ding Aiqiang,et al.Application of digitized measurement in upwind project area of desert shrubs[J].Arid Zone Research,2017,34(5):1070-1076.]   
+[4] 赵维俊,刘贤德，金铭，等.祁连山青海云杉林群落结构特征分 析[J].干旱区研究，2012，29（4）:615-620.[ZhaoWeijun，Liu Xiande,Jin Ming,et al.Analysis on community structure of picea crassifolia forests in the Qilian Mountains[J].Arid Zone Research,2012,29(4):615-620.]   
+[5] Pretzsch H,BiberP,Uhl E,et al. Crown size and growing space requirement of common tree species in urban centres,parks,and forests[J].Urban Forestry andUrban Greening,2015,14(3）:466 - 479.   
+[6] Bechtold W A.Crown-diameter prediction models for 87 species of stand-grown trees in the Eastern United States[J].Southern Journal of Applied Forestry,2003,27(4) :269-278.   
+[7]Gill S J,Biging G S,Murphy E C.Modeling conifer tree crown radius and estimating canopy cover[J].Forest Ecology and Management,2000,126(3):405 -416.   
+[8]Sharma RP,Vacek Z,Vacek S.Individual tree crown width models for Norway spruce and European beech in Czech Republic[J]. Forest Ecology and Management,2016,366:208-220.   
+[9]Sharma R P,Bilek L,Vacek Z,et al. Modelling crown width-diameter relationship for Scots pine in the central Europe[J].Trees, 2017:1-15   
+[10]Thorpe HC,Astrup R,Trowbridge A,et al.Competition and tree crowns:A neighborhood analysis of three boreal tree species[J]. Forest Ecology and Management,2010,259(8）:1 586-1596.   
+[11] Crecentecampo F,Alvarezgonzález JG,Castedodorado F,et al. Development of crown profile models for Pinus pinaster Ait.and Pinus sylvestrisL.in northwestern Spain[J].Forestry,2013,86(4）:481 - 491.   
+[12]Pinheiro JC,Bates D M.Mixed-Effects Models in S and S-PLUS [M].New York:Springer-Verlag,2000:271-395.   
+[13］臧颢,雷相东,张会儒,等.红松树高—胸径的非线性混合效应 模型研究[J].北京林业大学学报,2016,38(6):8-16.[Zang Hao,Lei Xiangdong,Zhang Huiru,etal. Nonlinear mixed-effects height-diameter model of Pinus koraiensis[J].Journal of Beijing Forestry University,2016,38(6）:8-16.]   
+[14]姜立春,李凤日.混合效应模型在林业建模中的应用[M].北 京：科学出版社,2014:1-20.[Jiang Lichun,Li Fengri.Application of Mixed Efects Model in Forestry Modeling[M].Beijing:Science Press,2014:1 - 20.]   
+[15]Fu L Y,Sun H,Sharma RP,et al.Nonlinear mixed-effects crown width models for individual trees of Chinese fir（Cunninghamia lanceolata）in South-Central China[J].Forest Ecology and Management,2013,302(6):210 -220.   
+[16]Fu L Y,Sharma RP,Hao K J,et al.A generalized interregional nonlinear mixed-effcts crown width model for Prince Rupprecht larch in Northern China[J].ForestEcologyand Management, 2017,389:364-373.   
+[17］朱教君,曾德慧,康宏樟,等.沙地樟子松人工林衰退机制 〔M].北京:中国林业出版社,2005:10-40.[Zhu Jiaojun,Zeng Dehui,Kang Hongzhang,et al.Declineof Pinus sylvestris var.mongolica Plantations on Sandy Land[M].Beijing:China Forestry Publishing House,2005:10-40.]   
+[18] Zhu JJ,Fan Z P,Zeng D H,et al. Comparison of stand structure and growth between artificial and natural forests of Pinus sylvestiris, var. mongolica,on sandy land[J]. Journal of Forest Research, 2003,14(2):103 -111.   
+[19]雷泽勇,周晏平,赵国军,等.竞争对辽宁西北部樟子松人工固 沙林树高生长的影响[J].干旱区研究,2018,35（1)：961- 966.[Lei Zeyong,Zhou Yanping,Zhao Guojun,et al. Effects of competition on tree height growth of sand fixation plantations of $P i$ nus sylvestris var. mongolica in Northwest Liaoning Province[J]. Arid Zone Research,2018,35（1）:961 -966.]   
+[20］焦树仁.辽宁省章古台樟子松固沙林提早衰弱的原因与防治 措施[J].林业科学,2001,37(2）:131-138.[Jiao Shuren.Report on the causes of the early decline of Pinus slyvestris var.mongolica shelterbelt and its preventative and control measures in Zhanggutai of Liaoning Province[J].Scientia Silvae Sinicae,2001, 37(2) :131-138.]   
+[21]Xu H,Sun YJ,Wang XJ,et al.Linear mixed-effects models to describe individual tree crown width for China-fir in Fujian Province, Southeast China[J].PloS One,2015,10(4）:e0122257   
+[22]Fang Z,Bailey RL.Nonlinear mixed effects modeling for slash pine dominant height growth following intensive silvicultural treatments[J].Forest Science,2001,47(3）:287-300   
+[23]Huang S,Douglasp W,Yang Y,et al. Assessing the impacts of species composition,top height and density on individual tree height prediction of quaking aspen in boreal mixedwoods[J].Forest Ecology and Management,2009,258(7):1 235-1 247.   
+[24]Temesgen HT,Monleon VJM,Hann D W H.Analysis and comparison of nonlinear tree height prediction strategies for Douglas-fir forests[J].Canadian Journal of Forest Research,2OO8,38（38）： 553-565.   
+[25]Sharma RP,Breidenbach J.Modeling height-diameter relationships for Norway spruce,Scots pine,and downy birch using Norwegian national forest inventory data[J].Forest Science and Technology, 2015，11(1):44-53.   
+[26]G6mez-Garcia E,Fonseca TF,Crecente-Campo F,et al.Height-diameter models for maritime pine in Portugal:A comparison of basic,generalized and mixed-effects models[J].Forest-Biogeosciences and Forestry,2015,9:72-78.   
+[27]Power H,LeMay V,Berninger F,et al.Differences in crown characteristics between black（Picea mariana）and white spruce（Picea glauca)[J].Canadian Journal ofForest Research,2012,42（9）： 1 733 -1 743.   
+[28]Zhao D,Michael K,Brucee B.Development and applications of the relative spacing model for loblolly pine plantations[J].Forest Ecology and Management,2010,259(10):1 922-1 929.   
+[29]董晨,吴保国,韩焱云，等.基于修正函数的杉木人工林单木冠 幅预测模型[J].东北林业大学学报,2015，43（5）：49－53. [Dong Chen,Wu Baoguo,Han Yanyun,et al.An individual crownwidth model for Chinese fir plantation based on modified function [J].Journal of Northeast Forestry University,2015,43（5）:49- 53.]   
+[30]Ishii H,Mcdowell N.Age-related development of crown structure in coastal Douglas-fir trees[J].Forest Ecology and Management, 2002,169(3):257 -270.   
+[31]Uzoh FC C,Oliver WW.Individual tree diameter increment model for managed even-aged stands of ponderosa pine throughout the western United States using a multilevel linear mixed effects model [J].Forest Ecology and Management,2008,256(3）:438-445.
+
+# Canopy-DBH Models Forsand-fixing Plantation of Pinus sylvestris var. mongolica
+
+HAN Yan-gang'，LEI Ze-yong'， ZHAO Guo-jun²， ZHOU Yan-ping'， XU Chang'(1.CollegeofEnironmentalienceandEngineeing,ioingTehicalUivesityuin3o,iaoning,ia;2.Liaoning Provincelnstitutefor Sand-fixation and Aforestation Research,Fuxin123ooo,Liaoning,China）
+
+Abstract:In this study,thedataconsisted of 7O2 individuals of Pinus sylvestris var.mongolicain 22 temporary sample plots of pure plantation in Zhanggutai of Liaoning Province,northeast China,were used to develop thecanopy-DBH models,i.e.the basic model（fited byordinary least squares（OLS））,generalized model（fitted by OLS）,nonlinear mixed-efect basic model andnonlinear effct-mixed generalized model.The goodness-of-fits and prediction accuracy of the four models were compared.For the efect-mixed model,four sampling strategies,i.e., random sampling,large-DBH tree sampling,small-DBH tree sampling and medium-DBH tree sampling,were designed to calculate the random parameters.The efects of individual factor and stand level variableson the canopyDBH relationship were simulated.Model evaluation indices included the determination coefficient $\cdot R ^ { 2 }$ ）,mean absolute error（MAE）and root mean square error（RMSE).Results showed that the height to live crown base（HCB）, relative spacing index $( R S )$ and stand age（A）were the dominant factors in $C W$ -DBH models. The goodness-of-fits of effect-mixed $C W$ -DBH models（ $R ^ { 2 }$ ,MAE and RMSE）were O.703 0,0.3866 and 0.515 4,and those of effectmixed generalized model were O.7051,0.3822 andO.5136,respectively,which were better than those of the OLS models.However,the difference in goodness-of-fit between the effect-mixed basicand generalized models was not significant （below $1 \%$ ). Canopy decreased with the increase of $A$ and height of HCB,but increased with the increase of $R S$ ：
+
+Key Words:Pinus sylvestris var.mongolica；sand-fixing plantation；canopy-DBH;efect-mixed basic model；generalized model

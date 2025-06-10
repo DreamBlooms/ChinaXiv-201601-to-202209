@@ -1,0 +1,327 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "辣椒素对P-糖蛋白和细胞旁途径转运透过的作用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "梁倩莹},段炼²,庄志钰,赵博欣1,刘 媛,王胜奇',杨富恒},刘思佳',李国锋i  \n1南方医科大学南方医院,广东广州510515;2广州医科大学第二附属医院，广东广州 510260;3广东药学院附  \n属第一医院，广东广州510080",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的通过研究P-糖蛋白(P-gp)底物罗丹明123(R123)在空肠、回肠和结肠转运时辣椒素的作用,探究辣椒素对肠粘膜上P-gp功能的影响。方法 使用体外扩散池法技术,分别取SD雄性大鼠的空肠、回肠和结肠肠段标本,计算各肠段中吸收方向(mucosato serosa,M-S)和分泌方向(serosato mucosa,S-M)R123的表观渗透速率(Papp)。用荧光分光光度计测定R123和荧光素钠(CF)在接收室中的浓度。结果在辣椒素作用下,R123经空肠粘膜透过时，吸收方向与空白组相比显著增高，分泌方向显著降低,但其在回肠及结肠M-S组及S-M组表观渗透系数Papp与空白组相比均没有显著性差异。CF经空肠粘膜透过时，M-S组及S-M组Papp与空白组相比均显著增高;经回肠和结肠粘膜透过与空白组相比没有显著性差异。结论辣椒素影响P-gp底物R123和旁细胞转运药物CF经肠粘膜透过的作用具有肠段差异性,对R123和CF的影响仅存在于空肠,表明辣椒素是一种较弱的P-gp抑制剂和粘膜通道改善剂。可能与P-gp和紧密连接在肠粘膜上的逐渐变化的分布有关。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：辣椒素；P-糖蛋白；罗丹明123；肠粘膜；细胞旁通道",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effect of capsaicin on intestinal permeation of P-glycoprotein substrate rhodamine 123 and fluorescein sodium in rats ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIANG Qianying,ALn,AGquan,Boxin,an,NGhngqi’,Gheng,ia, NanfangHospitalouthernedicaliesityangzou015inahcondflatedoitalofangodical Uniersityu;fdsofdogceicalsiyu ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective To investigate theroleof capsaicin inregulating permeation of P-gpsubstrate rhodamine123 (R123) acrossthe jejunum,ileumandcolonmembranesofrats.Methods The permeabilityofR123orfluoresceinsodium (CF)across the jejunum,ileum and colonmembranes of male SDrats was evaluatedusing a Ussngchamber.The concentrationof R123 or CF in the receptor was determined using fluorospectrophotometry to calculate the apparent permeability coeficient (Papp). Results Compared with theblank control group,capsaicin increased the permeabilityof R23acrossjejunal membrane in the mucosal-to-serosal (M-S)directionanddecreaseditspermeabilityintheserosal-tomucosal (S-M)direction,butproducedno obvious effecton R123 transport across the ileum or colon membranes.Capsaicin caused a regional increase in the permeabilityof CF across the jejunal membranes compared with thecontrol group,butCF transport acrossthe ileum and colonmembranes was not afected. Conclusion Capsaicin can affect the transport of R123 and CF across rat jejunal membranes，andthisefect isshowsanobvious intestinesegment-related diference probablybecauseof thediferent distribution ofP-gpor tight junction in the intestines.This finding suggests thatcapsaicin isa weak P-gp inhibitorand an improver of mucous membrane channels. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: capsaicin; P-glycoprotein; rhodamine 123; intestinal membranes; paracellular pathwa ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "P-糖蛋白(P-gp)是限制药物从血液循环进入脑和从肠腔进人上皮细胞的重要转运蛋白，故联合使用P-gp抑制剂可以增加药物经肠道吸收。Hamilton等[2]首次发现维拉帕米、环孢菌素A(CsA)能与化疗药物竞争性结合P-gp,逆转大肠癌耐药性(MDR),但其心肾毒性及免疫抑制作用明显，限制了临床应用。近年来，一些植物化学和本草纲目中的药物,也发现具有抑制P-gp功能的作用[3-4],如本派丙烷和姜黄，与合成的抑制剂相比它们具有更低的毒性。我们经常食用的辣椒中所含的主要成分辣椒素(CAP),也表现出对P-gp功能的抑制作用[5]。有研究者通过体外结肠癌Caco-2细胞实验发现,辣椒素能够抑制P-gp对地高辛的外排作用。由于众多实验结果均是采用细胞研究获得，然而由于细胞的一些形态学和生理学的局限性,并且P-gp在肠道中的分布是不均匀的，因此采用细胞无法预测药物对不同肠区段粘膜上P-gp的影响，所以我们采用Ussingchamber法分别研究了辣椒素对空肠、回肠和结肠粘膜上P-gp功能的影响，并用荧光素钠(CF)作为旁细胞途径药物转运方式的标志物进行检测[]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 材料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1试剂 辣椒素(批号:048K5058V),Hepes(批号：016K54331），Trizmabase（批号：103K5411），罗丹明123(批号：046K3688）、荧光素钠(批号：047K0676)均购于Sigma-Aldrich公司(St.Louis,MO,USA)。甲醇和乙晴为HPLC级别，购买自德国莫克公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.2仪器荧光分光光度仪(美国Waters公司，型号为474);P13110S电子天平，德国Sartorins生产； $7 ~ \\mathrm { m l }$ Ussingchamber装置(美国Harvard公司)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.3 动物SD大鼠,雄性,体质量 $2 5 0 { \\pm } 2 0 \\ \\mathrm { g }$ ，购于南方医科大学实验动物中心，合格证号：SCXK粤2006-0015。动物实验的方法符合南方医科大学实验动物伦理委员会的有关规定和要求。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1药物溶液配制",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1.1 Hepes-Tris 缓冲液的配制 取Hepes $\\textup { 6 g }$ 溶于$8 0 0 \\mathrm { m l }$ 蒸馏水中,使之完全溶解。通入混合气体 $9 5 \\%$ （204号 $\\mathrm { O } _ { 2 }$ $5 \\% \\mathrm { C O } _ { 2 } ) 1 0 \\ \\mathrm { m i n }$ 后，加入 $1 . 8 \\ \\mathrm { m l } \\ \\mathrm { K C l } ( 3 \\ \\mathrm { m o l } \\cdot \\mathrm { L } ^ { - 1 } ) \\ldots 1 . 8 \\ \\mathrm { m l }$ $\\mathrm { C a C l _ { 2 } ( 1 \\ m o l \\cdot L ^ { - 1 } }$ ） $\\mathrm { , 0 . 8 ~ m l ~ M g S O 4 ( 1 ~ m o l \\cdot L ^ { - 1 } ) ~ . 8 . 1 8 ~ g }$ $\\mathrm { { N a C l } }$ ，完全溶解后用TrisRONGYE( $1 \\ \\mathrm { m o l \\cdot L ^ { - 1 } }$ 调节pH至7.4,再加入 $5 \\mathrm { m l }$ 葡萄糖溶液( $\\mathrm { 1 \\ m o l { \\cdot } L ^ { - 1 } }$ )，用蒸馏水稀释至 $1 0 0 0 \\mathrm { m l }$ ，混匀即得。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1.2实验溶液配制分别将辣椒素与R123或CF溶解在 $\\mathrm { p H } 7 . 4$ 的 $\\mathrm { O _ { 2 } / C O _ { 2 } }$ 气体饱和的Hepes-Tris缓冲液中，这种Hepes-Tris溶液每天制备，实验用辣椒素质量浓度为 $6 0 \\mathrm { m g } { \\cdot } \\mathrm { L } ^ { - 1 }$ ,R123或CF最终质量浓度均为 $4 \\mathrm { m g \\cdot L ^ { - 1 } }$ 。1.2.2 体外Ussingchamber实验 SD大鼠禁食 $1 6 { \\sim } 1 8 \\mathrm { ~ h ~ }$ $3 \\%$ 戊巴比妥钠( $1 2 ~ \\mathrm { m l \\cdot k g ^ { - 1 } }$ 腹腔注射麻醉，延腹中线将腹部切开，取出空肠、回肠和结肠。分别用生理盐水清洗干净，置入冰浴的Hepes-Tris缓冲液中通混合气$( 9 5 \\% \\mathbf { O } _ { 2 } { : } 5 \\% \\mathbf { C } \\mathbf { O } _ { 2 } )$ 培养。剪取空肠适量，于冰浴板上迅速剥离浆膜侧的浆膜层,将肠粘膜固定于扩散池上，回肠及结肠的操作方法与空肠相同。在扩散室加入 $7 ~ \\mathrm { m l }$ R123或CF与CAP的混合液，接收室加入 $7 ~ \\mathrm { m l }$ Hepes-Tris缓冲液(均预热至 $3 7 . 5 ~ \\mathrm { { ^ { \\circ } C } }$ ； $3 7 . 5 ~ \\mathrm { \\textdegree C }$ 保温，并通入混合气体。分别于 $1 5 . 3 0 . 4 5 . 6 0 . 7 5 . 9 0$ 和 $1 2 0 \\mathrm { m i n }$ 在接收室取样 $0 . 5 ~ \\mathrm { m l }$ ，并同时补充相同体积相同温度的Hepes-Tris缓冲液。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3定量方法的建立",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3.1R123和CF的测定方法学考察R123的激发波长为 $4 8 5 ~ \\mathrm { n m }$ ,发射波长为 $5 3 5 ~ \\mathrm { n m }$ ，可在此波长下测定R123的荧光强度，空白无干扰，其荧光图谱如图1。R123在 $( 1 5 . 6 2 5 { \\sim } 5 0 0 ) \\mu \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ ，荧光强度对浓度进行回归，标准曲线回归方程为： $\\mathrm { Y = 1 } . 0 4 3 5 \\mathrm { X } \\mathrm { - } 1 . 0 9 8 9 .$ ${ \\bf R } ^ { 2 } = { \\bf \\Phi }$ 0.9982，Y为吸光度，X为浓度。回收率和日内精密度分别为 $9 8 . 9 \\%$ 和 $1 . 9 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d30c13b4afd48c936f421afcfc08aeecc168cadbaf6a21101b5dbdc45084995f.jpg",
+        "img_caption": [
+            "图1罗丹明123的荧光分光光度图Fig.1 Fluorescence chromatograms of rhodamine 123.1:250ng·ml; 2: $1 2 5 \\mathrm { n g { \\cdot } m l ^ { - 1 } }$ ；3: $6 2 . 5 \\mathrm { n g } { \\cdot } \\mathrm { m l } ^ { - 1 }$ 4 $\\therefore 3 1 . 2 5 \\mathrm { n g } \\cdot \\mathrm { m l } ^ { - 1 }$ ，"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CF的激发波长为 $4 8 0 \\ \\mathrm { n m }$ ,发射波长为 $5 2 0 ~ \\mathrm { n m }$ ，可在此波长下测定CF的荧光强度，空白无干扰，其荧光图谱如图2。CF在 $( 7 . 8 1 2 5 { \\sim } 5 0 0 ) \\mu \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ ，荧光强度对浓度进行回归，标准曲线回归方程为： $\\mathrm { Y = 0 } . 6 3 9 \\mathrm { X + 0 } . 0 6 8 , \\mathrm { R } ^ { 2 } =$ 0.999，Y为吸光度，X为浓度。回收率和日内精密度分别为 $9 7 . 8 \\%$ 和 $2 . 7 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2ac4d132e0e8f4993321b8627609f63ffa647e77db718a3dd7a5c5242db962f8.jpg",
+        "img_caption": [
+            "图2荧光素钠的荧光分光光度图Fig.2 Fluorescence chromatograms of fluorescein sodium. 1:$2 5 0 \\mathrm { n g } { \\cdot } \\mathrm { m l } ^ { - 1 }$ 2: $1 2 5 \\mathrm { n g } { \\cdot } \\mathrm { m l } ^ { - 1 }$ 3 $\\sharp \\colon 6 2 . 5 \\mathrm { n g } \\cdot \\mathrm { m l } ^ { - 1 }$ ： $4 { : 3 1 . 2 5 \\mathrm { n g } { \\cdot } \\mathrm { m l } ^ { - 1 } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3.2结果处理分别对大鼠空肠、回肠和结肠做体外UssingChamber实验，荧光分光光度仪检测透过药物含量，得到给定时间浆膜侧(吸收方向)药物浓度Ctn1和粘膜侧(分泌方向)药物浓度 $\\mathbf { C } \\mathbf { t n } 2$ ，用下列公式计算累计透过量(Qtn,单位： $\\mu \\mathrm { g }$ ：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\scriptstyle \\mathrm { Q t n = 7 C t n + } \\sum _ { i = 1 } ^ { n - 1 } 0 . 5 C t ( n - 1 )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "0.5和7表示取样体积和加入药液量 $( \\mathrm { m l } )$ ， $\\mathrm { C t n }$ 表示给定时间点接收室药物浓度。另一方面，表观渗透系数(Papp，单位： $\\mathrm { c m } { \\cdot } \\mathrm { s } ^ { \\cdot 1 } ,$ 作为评价药物经粘膜透过能力的重要指标，其计算公式为：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Papp $\\vDash$ (dQ/dt) $| \\times |$ (1/ACo) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中dQ/dt表示稳态时时间-累计透过量线性回归所得斜率，A为有效渗透面积( $\\cdot 1 . 7 8 \\mathrm { c m } ^ { 2 }$ ）， $\\mathrm { \\bf C } _ { 0 }$ 为扩散室加入的初始药物浓度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3统计学分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "计量资料统计结果用均数 $\\cdot \\pm$ 标准差表示。所有实验数据均采用SPSS13.0统计软件进行显著性检验，各组中分泌方向累计透过率与吸收方向累计透过率的比较用重复测量数据的方差分析；各组间不同方向，不同分组的Papp比较用析因设计资料的方差分析。显著性标准为 $P { < } 0 . 0 5$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1辣椒素对R123体外经肠粘膜透过的影响 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "考察辣椒素与R123对空肠、回肠和结肠粘膜透过吸收方向(M-S)和分泌方向(S-M)的经时透过变化(图3\\~5)。计算得到capsaicin组R123的M-S及S-M方向的表观渗透系数 $\\mathrm { P a p p } ( \\times 1 0 ^ { - 6 } \\mathrm { c m } { \\cdot } \\mathrm { s } ^ { - 1 } )$ ,与control组对比,表明R123对空肠粘膜吸收方向和分泌方向的透过均受到辣椒素的影响。但对R123经回肠和结肠粘膜吸收方向和分泌方向的透过均未受到辣椒素的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4cdde2ad705825d8cea73b615edb6feb05b394cc435677a4ff821ce87ef32eb2.jpg",
+        "img_caption": [
+            "图3空肠中辣椒素对罗丹明123的Papp影响 Fig.3 Effect of capsaicin on Papp of rhodaminel23 in the jejunum membranes. $^ { * } P { < } 0 . 0 5$ us control group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/70c3f46edd9cd833edf15a46b3ff7fe2e8dc44908205d65f5fceb1ead960ccdc.jpg",
+        "img_caption": [
+            "图4回肠中辣椒素对罗丹明123的Papp影响 Fig.4Effect of capsaicin on Papp of rhodaminel23 in the ileum membranes. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/786ee08889e1e1aa16948b77c9644098114ade70735ca43483313332bb8b4e83.jpg",
+        "img_caption": [
+            "图5结肠中辣椒素对罗丹明123的Papp影响 Fig.5 Effect of different concentrations of capsaicin on Papp of rhodamine 123 in the colon membranes. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2辣椒素对CF体外经肠粘膜透过的影响 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "考察辣椒素与CF同时进行肠粘膜透过时，对CF经空肠、回肠和结肠粘膜M-S方向和S-M方向透过的表观渗透系数Papp影响见图6。计算得到capsaicin组R123和CF的M-S及S-M方向的表观渗透系数Papp$\\left( \\times 1 0 ^ { - 6 } \\thinspace \\mathrm { c m } { \\cdot } \\mathrm { s } ^ { - 1 } \\right)$ ,与空白组对比，CF经空肠粘膜吸收方向和分泌方向的透过均受到辣椒素的影响。然而，辣椒素对CF在经回肠和结肠粘膜透过过程中并未出现影响(图7,8）。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9d9bad7925d48d062088f9eda7b73b983990baa5975a6b0773c5bad7177bb116.jpg",
+        "img_caption": [
+            "图6空肠中辣椒素对荧光素钠的Papp影响 Fig.6 Effect of capsaicin on Papp of CF in the jejunum membranes. $^ { * } P { < } 0 . 0 5$ Us control group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6cbe0ff1b61274e37834539658b268779d3fb4e78c6dcddec6f9ab3f8d9bef8d.jpg",
+        "img_caption": [
+            "图7回肠中辣椒素对荧光素钠的Papp影响 Fig.7 Effect of capsaicin on Papp of CF in the ileum membranes. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/635f03a0535bfbb04d81cdcb2e2fdcb32002185e03fdcbbecea2e3e3f38580f8.jpg",
+        "img_caption": [
+            "图8结肠中辣椒素对荧光素钠的Papp影响 Fig.8 Effect of capsaicin on Papp of CF in the colon membranes. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "P-gp作为一种能量依赖性药物外排泵,大部分位于肠细胞顶侧膜，能将粘膜端的药物泵出到肠腔，即如文中所述的分泌方向，从而降低药物的吸收，这是导致人体药物耐药的重要原因[8-9]。R123是P-gp经典底物,因其具有荧光特性[,检测方便，现在国际上用于评价P-gp功能活性研究。有研究表明，P-gp及其相应基因Mdr1在肠道内的分布，其表达量沿肠腔从空肠到结肠逐渐升高[1],这与前期UssingChamber实验中证实R123在小肠中转运以分泌为主结果相符，因此选择R123作为研究辣椒素对P-gp经肠透过影响的指示药物。CF与R123转运机制不同，通过旁细胞途径透过肠粘膜，广泛用作旁细胞途径药物转运方式标志物应用于实验中，具有可见光范围的荧光。用CF作为对照，更能完善实验内容,辅证实验结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目前UssingChamber扩散池法被认为是研究底物透膜转运行为的标准方法，应用UssingChamber模型获得药物的Papp与人口服吸收分数之间存在良好相关性[13],具有模拟为肠道环境的特点,操作简单,成本较低，易于推广，作为生物药剂学研究的新方法，近年在国外应用较多，特别为肠段的分段定位研究提供有效研究手段。由于药物吸收是从肠腔先透过至粘膜层的上皮细胞，而后再到固有层，固有层存在很多微血管和淋巴细胞，药物在此能被吸收如血液循环，导致很小的一部分透过粘膜肌层。因此，需要分离除去肠粘膜上的肌层组织，这是UssingChamber实验法的难点及技术关键。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在亚洲,辣椒是一种广为使用的调味品，尤其在东南亚地区，辣椒素在食谱中占据很大比重，辣椒在血浆中含量可达到 $8 { \\sim } 2 5 \\ \\mathrm { \\mu m o l / L } ^ { [ 1 4 ] }$ 。因此,体内辣椒素可能通过影响肠道内P-gp功能，而对同服的某些P-gp底物药物(如环孢素等)在肠道内透过吸收产生影响，尤其是对于治疗窗较窄,易受P-gp外排严重影响的药物[15-16]实验使用体外UssingChamber技术考察辣椒素对R123经空肠、回肠和结肠粘膜吸收(M-S)方向和分泌(S-M)方向的影响，发现经空肠粘膜透过时，R123的M-S方向与空白组相比显著增高，S-M方向显著降低，表明R123经空肠粘膜M-S方向和S-M方向的透过均受到辣椒素的影响，而回肠及结肠粘膜透过时，M-S组及S-M组表观渗透系数Papp与空白组相比均没有显著性差异，说明辣椒素在空肠透过时抑制了P-gp的功能，改变了R123经空肠粘膜的透过性。而辣椒素在回肠和结肠对R123的透过没有影响，这可能跟P-gp及其相应基因Mdr1在肠道内的分布表达量沿肠腔从空肠到结肠逐渐升高有关[11],因此对于空肠粘膜上的P-gp蛋白影响更剧烈,而对于回肠及结肠粘膜上的P-gp可能需要更高浓度的辣椒素才能够发挥作用。同时，为了辅证旁细胞途径是否影响药物转运，选用CF作为标志物进行检测。经空肠粘膜透过时，M-S组及S-M组分别与空白组相比，均具有显著性差异；经回肠和结肠粘膜透过与空白组相比没有显著性差异，提示辣椒素仅对空肠粘膜上旁细胞通路有影响，却并没有改变回肠和结肠肠粘膜上紧密连接的状态。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "有研究表明，P-gp表达量沿肠腔从空肠到结肠逐渐升高[1],而辣椒素仅在空肠中显示出对R123透过的影响，暗示辣椒素可能是一种较弱的P-gp抑制剂。肠道中紧密连接也呈现相似的表达情况，辣椒素对于CF的透过增强作用同样只存在于空肠，表明辣椒素对药物吸收主要部位一一空肠具有粘膜改善作用。因而,喜爱食用辣椒的患者在使用P-gp底物类药物和经旁细胞通道转运吸收药物时，其体内药物吸收情况值得关注。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "有关辣椒素对肠粘膜上P-gp影响的体内In situ大鼠实验正在进行中。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究结果表明，辣椒素抑制P-gp功能从而影响P-gp底物R123经肠粘膜透过的作用具有肠段差异性，对R123和CF的影响仅仅存在于空肠，而在回肠和结肠却影响很小,这可能与P-gp和紧密连接在肠粘膜上的分布是从空肠到结肠逐渐变化的分布有关。实验结果与传统意义上服药要忌辛忌辣有矛盾。本实验思路能为后续研究ABC外排转运体提供指导，而且能为临床用药提供更可靠的理论依据。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Lin JH, Yamazaki M.Role of P-Glycoprotein in pharmacokinetics [J].Clin Pharmacokinet,2003,42(1): 59-98.   \n[2]Hamilton G,Cosentini EP,Teleky B,etal. The multidrug-resistance modifiers verapamil,cyclosporine A and tamoxifen induce an intracellular acidification in colon carcinoma cell lines in vitro[J]. AnticancerRes,1994,13(6A):2059-63.   \n[3]Anuchapreeda S,Leechanachai P, Smith MM,et al.Modulation of P-glycoprotein expression and function by curcumin in multidrugresistant human KB cells [J].Biochem Pharmacol,2002,64(4): 573-82.   \n[4]Bhardwaj RK,Glaeser H,Becquemont L,et al.Piperine,a major constituent of black pepper,inhibits human P-glycoprotein and CYP3A4[J].JPharmacol Exp Ther,2002, 302(2): 645-50.   \n[5]Nabekura TK,S.Kitagawa,effects of dietary chemopreventive phytochemicals on p-glycoprotein function[J].Biochem Biophys Res Commun,2005,327(3): 866-70.   \n[6] Shah,D.A systematic evaluation of solubility enhancing excipients to enable the Generation of permeability data for poorly soluble compounds in caco-2 model[J].Drug Metab Lett，2014.[in printed]. 2014.   \n[7]Takenaka T,Harada N,Kuze J,et al.Human small intestinal epithelial cells differentiated from adult intestinal stem cells as a novel system for predicting oral drug absorption in humans [J]. Drug Metab Dispos,2014,42(11):1947-54.   \n[8] Takano MY,T. Murakami, expression and function of efflux drug transporters in the intestine[J].Pharmacol Ther,2OO6,1O9(1/2): 137-61.   \n[9］马秉亮.吴玉林,刘国卿,P-gp及对抗P-gp介导多药耐药的研究现状 [J].中国临床药理学与治疗学,2006,(1):14-21.   \n[10]谢君红,潘 旭,付晓陆,等.HPLC荧光法同时测定辣椒粉中的3种罗 丹明色素[J].食品与发酵科技,2014,50(4):64-6.   \n[11]Maclean C,Moenning U,Reichel A,et al. Closing the gaps:a full scan of the intestinal expression of p-glycoprotein,breast cancer resistance protein,and multidrug resistance-associated protein 2 in male and female rats[J].Drug Metab Dispos,2008,36(7):1249-54.   \n[12]孙亚彬,李国锋,唐中昆,等.甘草与甘遂的配伍对大鼠肠黏膜P-gp的 影响[J].药学学报,2010(4):510-6.   \n[13]Lennernäs H.Animal data: the contributions of the Ussing Chamber and perfusion systems to predicting human oral drug delivery in vivo [J].Adv Drug Deliv Rev,2007,59(11): 1103-20.   \n[14]Rumsfield JA,West DP. Topical capsaicin in dermatologic and peripheral pain disorders[J].DICP,1991,25(4): 381-7.   \n[15]王非,黄显.环孢素与伊曲康唑血药浓度相互作用研究[J].海峡药 学,2011,(3): 12-4.   \n[16]胡晓波,谭蓉.影响CYP450和P-gp活性的抗菌药物联合用药探讨 [J].抗感染药学,2012,(4):257-60. (编辑：黄开颜) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

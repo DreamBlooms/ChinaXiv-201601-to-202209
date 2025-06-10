@@ -1,0 +1,205 @@
+DOI:10.13930/j.cnki.cjea.161051
+
+古君，牛文全，吕望，李元，梁博惠，郭丽丽．灌水下限与毛管埋深对温室番茄生长的影响[J]．中国生态农业学报,2017, 25(5):698-707   
+Gu J,Niu WQLyu W,LiYLiangBH,GuoLL.Effectsofiigationthresholdandlteraldepthontomatogrowthingreen house[J]. Chinese Journal of Eco-Agriculture,2017, 25(5): 698-707
+
+# 灌水下限与毛管埋深对温室番茄生长的影响
+
+古君¹，牛文全1,2\*，吕望²，李元¹，梁博惠²，郭丽丽西北农林科技大学水土保持研究所杨凌712100;2.西北农林科技大学水利与建筑工程学院杨凌712100)
+
+摘要：为探明番茄根系生长与水分分布之间的互反馈机制，通过日光温室地下滴灌试验，设置了4种毛管埋深 $( 0 ~ \mathrm { c m }$ 、 $1 0 \ \mathrm { c m }$ 、 $2 0 ~ \mathrm { c m }$ 和 $3 0 ~ \mathrm { c m } \dot { } \quad$ 和3种灌水下限(保持土壤含水量为 $50 \%$ 、 $60 \%$ 和 $7 5 \%$ 田间持水量)，研究了不同灌水下限与毛管埋深对番茄根系生长及干物质分配的影响。研究结果表明，轻度、中轻度水分亏缺(灌水下限为 $7 5 \%$ 和 $60 \%$ 田间持水量)时，毛管埋深对番茄耗水量有显著影响， $1 0 { \sim } 2 0 ~ \mathrm { c m }$ 毛管埋深提高番茄耗水量。毛管埋深增加会减少 $0 { \sim } 2 0 ~ \mathrm { c m }$ 土层根系分布，促进 $2 0 { \sim } 6 0 ~ \mathrm { c m }$ 土层根系生长；毛管埋深对 $0 { \sim } 1 0 ~ \mathrm { c m }$ 、 $2 0 { \sim } 3 0 ~ \mathrm { c m }$ 、$3 0 { \sim } 4 0 ~ \mathrm { c m }$ 土层根系生长影响显著，对 $5 0 { \sim } 6 0 ~ \mathrm { c m }$ 土层根系生长无显著影响。灌水下限对细根 $( d { < } 1 ~ \mathrm { m m } )$ 、粗根 $( d { > } 1$ mm)的根长与根表面积影响显著，毛管埋深对细根的根长与根表面积有显著影响；轻度水分亏缺及 $2 0 \ \mathrm { c m }$ 毛管埋深有利于细根根长和根表面积生长，减少粗根比例。本研究结果表明，轻度水分亏缺及毛管埋深为 $2 0 \ \mathrm { c m }$ 更有利于全株干物质积累，灌水下限为 $7 5 \%$ 田间持水量能够增加根系干物质分配比例，而 $2 0 \ \mathrm { c m }$ 毛管埋深则能促进干物质向茎叶转移且减少根系千物质的分配比例。
+
+关键词：地下滴灌；毛管埋深；灌水下限；根系分布；干物质分配；番茄中图分类号：S275 文献标识码：A 文章编号:1671-3990(2017)05-0698-10
+
+# Effects of irrigation threshold and lateral depth on tomato growth in greenhouse
+
+GU Jun1, NIU Wenquan1,2\*,LYU Wang², LI Yuan1, LIANG Bohui², GUO Lili² (1.InstituteofSoilandWaterConservation,NrthwestA&FUnversityYangling710,China;2.ColegeofWaterResorcead Architectural Engineering,Northwest A&F University, Yangling 71210o,China)
+
+Abstract:Soilwateriscriticalforcropgrowth,yieldandwateruseeficiency.Inordertostudymutualresponsivemechanismbetween rootgrowthanddrntgatiomtods (e,eficitadltalgai)onoilwateristributioootistrbutiodyatr distributionintomato,testofsbsufacedripigationwasconuctedinaunlitgeeouseinazhaiViliage,Dazhaiow,an gling CityShaaiProvie.estudyasdesignedasa-factorexperment—lteraldeth(Dandgationteshld(.elateral depth was divided into 4levels( $\operatorname { \mathrm { ~  ~ \mathscr ~ { ~ O ~ } ~ } c m }$ $1 0 \mathrm { c m }$ $2 0 \mathrm { c m }$ and $3 0 \ \mathrm { c m }$ ）below the surface of ridges and the irrigation threshold set at $50 \%$ $60 \%$ and $7 5 \%$ of field capacity.Each treatment was repeated 3 times.The results showed that lateral depth had a significant effect on water consumption of tomato under mild water deficit $7 5 \%$ offield capacity) and moderate-mild water deficit( $60 \%$ of field capacity) conditions,while lateral depth of $1 0 { - } 2 0 ~ \mathrm { c m }$ was much better for root water uptake than other treatments.Increase in lateral depth reduced the distribution of roots in the $0 { - } 2 0 ~ \mathrm { c m }$ soil layer, but promoted the growth of roots in the $2 0 { \mathrm { - } } 6 0 ~ { \mathrm { c m } }$ soil layer. Lateral depth had a significant effect on root growth in the $0 { - } 1 0 ~ \mathrm { c m }$ ， $2 0 { - } 3 0 ~ \mathrm { c m }$ and $3 0 { \ - } 4 0 ~ \mathrm { c m }$ soil layers,but had no significant effect on root growth in the $5 0 { \mathrm { - } } 6 0 ~ { \mathrm { c m } }$ soil layer. Root length and root surface area of fine roots (with diameter less than $1 \mathrm { m m }$ ） and coarse roots (diameter greater than $1 ~ \mathrm { m m }$ ）of tomato weresignificantlyafectedbyirrigationthreshold.However,lateraldepthonlyhadasignificantlyeectonroot length and root surface area of fine roots.Then mild water deficit and lateral depth of $2 0 \mathrm { c m }$ favored root length and surface area growth of fine roots,but reduced the growth of coarse roots.Mild water deficit and lateral depth of $2 0 \ \mathrm { c m }$ better favored total dry matter accumulation,while the $7 5 \%$ of field capacity treatment increased root dry matter allocation.Then lateral depth of $2 0 \mathrm { c m }$ promoted dry matter acumultionoftemsandleaves,butrducedthedistributionratioofrootdrymater.Fortheobservedresponses,informationonhow rootdistributionnddrymaterallcationintomatoadaptedtodiferentigationmethodsprovidedausefulguideforfeldproduction practices and possible indicator mechanisms for high quality/yield.
+
+Keywords:Subsurfacedripirigation;Lateraldepth;Irigationthreshold;Rootdistribution;Drymaterdistribution;Tomato
+
+根系具有吸收土壤水分与养分的功能，同时起固定与支撑植株的作用，是作物最活跃的吸收器官。作物对水分、养分吸收能力以及产量的形成与根系生长关系密切，同时土壤水分能够影响到植株根系的形态、分布及植株的根冠比[1-2]。前人研究表明，根系分布与土壤水分存在一定的互反馈关系[3],高土壤水分能够抑制根系的生长，降低根系活力，引起根系提前衰亡[4]；而水分亏缺在一定程度上促进了根系向下生长，但引起初、次生根量下降，无法满足植株需水要求[5]。水分供给不仅在于多少，还取决于其在土壤剖面的分布状况。水分集中分布于表层土壤会造成根系呈宽浅型分布[6]，不利于根系对深层土壤水分及养分的吸收利用；深层土壤水分过多，根系虽在向水特性的驱使下向下生长，但根系消耗干物质量会增加，不利于产量的形成[7]。因此,田间土壤水分分布状态与含量的研究对作物生长及产量的形成具有重要意义。
+
+地下滴灌是通过埋于地下的毛管将水分直接输送至作物根区的一种精准灌溉方式，该灌溉方式能够有效降低地表无效蒸发并提高植株水分利用效率，是一种高效节水的灌溉新技术。毛管埋深(供水深度)是影响地下滴灌土壤水分运移与分布的重要因素之一，适宜的毛管埋深能够营造出根区适宜的水、肥、气、热环境[8]，显著影响植株根系形态与分布，合理分配干物质，达到最优根冠比，提高植株水分利用效率[9]。刘玉春等[10-11]试验发现，毛管埋深能显著影响番茄(Lycopersicon esculentum Miller)最大根长密度出现的深度，随毛管埋深的增加，深层根系比例也随之增加，但蕃茄干物质质量与吸氮量却随毛管增加呈减少趋势。Patel等[l2研究表明，沙壤土条件下 $1 0 ~ \mathrm { c m }$ 毛管埋深时充分灌溉是最优的灌溉方式，能够获取最大收益比。Machado等[13对番茄研究表明，在一定灌水下，毛管埋深对根系根长密度无显著影响，但根系会在毛管所在位置聚集。对不同毛管埋深及多种水分灌溉条件下土壤水分变化与作物根系生长发育互反馈机制进行深入研究有助于地下滴灌系统的精确设计与水分管理。
+
+自前毛管埋深对番茄的研究侧重于对产量与水分效率的影响[14-15]，且多是针对某单项机理进行研究，对番茄根系分布以及干物质分配影响的研究相对不足。本研究通过设置3种不同灌水下限及毛管埋深，探讨了两因素对水分分布、消耗、根系垂直分布与干物质分配的影响，旨在探明根系分布与水分分布之间的互反馈机制，为日光温室番茄的水分管理提供有力的理论依据。
+
+# 1材料与方法
+
+# 1.1试验地点及供试材料
+
+试验于2015年10月8日至2016年4月19日在陕西杨凌大寨乡日光大棚内进行，试验地位于$1 0 8 ^ { \circ } 0 2 ^ { \prime } \mathrm { E }$ ， $3 4 ^ { \circ } 0 2 ^ { \prime } \mathrm { N }$ ，海拔高度 $5 0 6 \mathrm { ~ m ~ }$ ，年平均温度约为 $1 6 . 1 ~ \mathrm { { ^ circ C } }$ ，年日照时数 $2 ~ 1 6 4 . 8 \mathrm { ~ h ~ }$ ，无霜期 $2 1 0 \mathrm { d }$ ，属暖温带半湿润大陆性季风气候。试验大棚长 $1 0 8 \mathrm { ~ m ~ }$ 宽 $8 \mathrm { m }$ ，覆盖半无滴聚乙烯棚膜。试验用土为杨凌楼土，土壤容重 $1 . 3 9 \ \mathrm { g } { \cdot } \mathrm { c m } ^ { - 3 }$ ，质量含水率为 $23 . 6 3 \%$ 孔隙度为 $45 . 8 3 \%$ 。壤中砂砾 $( 0 . 0 2 { \sim } 2 \ \mathrm { \ m m } )$ 占 $2 5 . 4 \%$ 粉粒 $( 0 . 0 0 2 { \sim } 0 . 0 2 \ \mathrm { m m } )$ 占 $44 . 1 \%$ ，黏粒 $( \leqslant 0 . 0 0 2 \mathrm { m m }$ 占$30 . 5 \text{‰}$
+
+番茄品种为‘海地'，幼苗于10月2日进行移栽，定植后各小区灌水 $3 0 \ \mathrm { m m }$ ，以保证幼苗存活。试验小区长 $5 . 5 \mathrm { ~ m ~ }$ 、宽 ${ \mathrm { ~ 1 ~ m ~ } }$ ，相邻小区间操作行宽 $5 0 ~ \mathrm { c m }$ 以防小区间水分相互渗透。每小区定植番茄幼苗28株，采用双行种植，番茄株距 $0 . 4 \mathrm { ~ m ~ }$ ，行距 $0 . 5 ~ \mathrm { m } _ { \circ }$ 定植后覆膜。每个小区中间铺设1条滴灌带，距蕃茄植株 $2 5 \ \mathrm { c m }$ ，滴头间距为 $0 . 3 \mathrm { ~ m ~ }$ ，滴头流量 $2 . 8 ~ \mathrm { L } { \cdot } \mathrm { h } ^ { - 1 }$ 同时在小区中间距毛管 $5 \mathrm { c m }$ 处安装1根长度为 $1 \mathrm { m }$ 的水分监测管，采用FieldTDR200探测仪以测量小区的水分状况。全生育期内各处理的其他农艺技术
+
+及施肥管理措施均一致。
+
+# 1.2 试验设计
+
+试验设3个灌水下限：田间持水率的 $50 \%$ （重度水分亏缺， $\mathrm { I } _ { 5 0 } \dot { }$ 、田间持水率的 $60 \%$ (中轻度水分亏缺，$\mathrm { I } _ { 6 0 } \mathrm { ) }$ 、田间持水率的 $7 5 \%$ （轻度水分亏缺， $\begin{array} { r } { \mathrm { I } _ { 7 5 } \dot { } } \end{array}$ )，灌水上限统一设定为田间持水量的 $90 \text{‰}$ 。毛管埋深(D)设4个水平，分别为 $0 \ \mathrm { c m ( D _ { 0 } ) }$ 、 $1 0 \ \mathrm { c m ( D _ { 1 0 } ) }$ 、 $2 0 \ \mathrm { c m } ( \mathrm { D } _ { 2 0 } )$ 和 $3 0 \mathrm { \ c m } ( \mathrm { D } _ { 3 0 } )$ 。试验采用全面试验设计，共12个处理，每个处理重复3次，共36个试验小区。全生育期内各小区计划湿润层深度为 $4 0 ~ \mathrm { c m }$ ，当土壤含水率达到设定值时，即对该小区进行灌水，灌水量通过水表记录。由于在实际操作过程中，很难控制灌水下限，故各处理均设 $12 \%$ 范围值(占田间持水率的百分比)。灌水量计算公式为:
+
+$$
+M { = } s { \times } r { \times } p { \times } h { \times } \theta _ { f } { \times } ( q _ { 1 } { - } q _ { 2 } ) / \eta
+$$
+
+式中： $M$ 为灌水量, $\mathbf { m } ^ { 3 } ; s$ 为计划湿润层面积，取 $5 . 5 ~ \mathrm { m } ^ { 2 }$ $\boldsymbol { r }$ 为土壤容重，取 $1 . 3 9 \mathrm { g } { \cdot } \mathrm { c m } ^ { - 3 } ;$ $p$ 为湿润比，取 $100 \%$ $h$ 为湿润层深度，取 $0 . 4 ~ \mathrm { c m }$ · $\theta _ { f }$ 为田间持水量(体积含水率)， $9 \%$ $\cdot \ q _ { 1 } , \ q _ { 2 }$ 为灌水上限、土壤下限(以相对田间持水率的百分比表示), $\% ; \eta$ 为水分利用效率，地下滴灌取0.95。
+
+全生育期内，各小区次灌水定额、总灌水量见表 $1 _ { \circ }$
+
+表1各处理番茄生育期内灌水定额、总灌水量  
+TablelIrigationwaterquota,totalirigationwateringrowthperodoftomatoofdiferentiigationtresholdsandlateraldepths   
+
+<html><body><table><tr><td>灌水下限 Irrigation threshold</td><td colspan="4">150</td><td colspan="4">160</td><td colspan="4">175</td></tr><tr><td>毛管埋深Lateral depth</td><td>Do</td><td>D10</td><td>D20</td><td>D30</td><td>D0</td><td>D10</td><td>D20</td><td>D30</td><td>D0</td><td>D10</td><td>D20</td><td>D30</td></tr><tr><td>灌水定额 Irrigation water quota (mm)</td><td>55.32</td><td>55.32</td><td>55.32</td><td>55.32</td><td>41.49</td><td>41.49</td><td>41.49</td><td>41.49</td><td>20.74</td><td>20.74</td><td>20.74</td><td>20.74</td></tr><tr><td>总灌水量 Total irrigation water (mm)</td><td>138.18</td><td>138.13</td><td>138.13</td><td>138.13</td><td>207.27</td><td>193.45</td><td>221.09</td><td>207.27</td><td>255.85</td><td>269.46</td><td>283.51</td><td>262.77</td></tr></table></body></html>
+
+I50、I60、 $\mathrm { I } _ { 7 5 }$ 分别表示灌水下限为田间持水量的 $50 \%$ 、 $60 \%$ 、 $7 5 \%$ $\mathrm { ~ D } _ { 0 }$ 、 $\begin{array} { r } { \mathbf { D } _ { 1 0 } . } \end{array}$ ， $\mathbf { D } _ { 2 0 }$ 、 $\mathbf { D } _ { 3 0 }$ 分别表示毛管埋深 $0 ~ \mathrm { { c m } , ~ 1 0 ~ \mathrm { { c m } , ~ 2 0 ~ \mathrm { { c m } , ~ 3 0 \mathrm { { c m } _ { \circ } ~ \mathrm { { I } _ { 5 0 , 0 } } } } } }$ 160, $\mathrm { I } _ { 7 5 }$ mean irrigation thresholds of $50 \%$ $60 \%$ $7 5 \%$ of field capacity. $\mathrm { \Delta D _ { 0 } }$ $\mathbf { D } _ { 1 0 }$ $\mathbf { D } _ { 2 0 }$ $\mathrm { D } _ { 3 0 }$ mean that the depths of lateral are $0 \mathrm { c m }$ $1 0 \ \mathrm { c m }$ $2 0 ~ \mathrm { c m }$ $3 0 ~ \mathrm { c m }$ respectively.
+
+# 1.3 测定项目及方法
+
+# 1.3.1 土壤水分测定
+
+采用FieldTDR200探测仪测量土壤水分，每隔$1 0 \ \mathrm { c m }$ 采集1个数据，最大深度为 $9 0 ~ \mathrm { c m }$ 。全生育期每5d测定1次，栽种前、收获后各测1次，灌前各小区加密测量2次。
+
+# 1.3.2 番茄耗水量
+
+根据试验场地条件(无地下水和降水补给)，番茄耗水量计算公式为：
+
+$$
+W { = } I { + } W _ { t - 1 } { - } W _ { t }
+$$
+
+式中：W为番茄耗水量，mm; $I$ 为灌水量, $\mathrm { m m }$ ：， $\boldsymbol { W } _ { t - 1 }$ 和 $\boldsymbol { W } _ { t }$ 分别为测定前期与末期 $\scriptstyle 0 \sim 6 0 \ { \mathrm { c m } }$ 土壤蓄水量, $\mathrm { m m } _ { \circ }$
+
+# 1.3.3 根系指标测定
+
+成熟末期每个小区随机选取3株蕃茄，除去地上部分，采用直径为 $6 ~ \mathrm { c m }$ 根钻紧贴主根进行取根，每隔$1 0 \mathrm { c m }$ 取样1次，取样至 $6 0 \mathrm { c m }$ 深。采集到的样品用水浸泡使其松散后再用缓慢水流冲洗并过 $0 . 5 \ \mathrm { m m }$ 筛获得根样。根样用EPSONPerfectionV700扫描仪进行扫描，扫出的图像用WinRHIZOPro软件分析，得到根长数据。各土层根长密度 $\vdots =$ 各土层总根长/根钻取土体积。
+
+# 1.3.4 番茄植株各器官干重占比
+
+至成熟期，每小区随机选取3株长势一致的番茄植株。采样完成后立即进行根、茎、叶果分离，然后将样品放入烘箱中于 $1 0 5 ^ { \circ } \mathrm { C }$ 杀青 $1 5 ~ \mathrm { m i n }$ ，随后
+
+# 调至 $7 0 \ \mathrm { ^ { \circ } C }$ 烘干至恒重。烘干待冷却后，用精度$_ { \textrm { 0 . 0 1 ~ g } }$ 天平测定各器官干重，并计算各植株器官干重占比。
+
+# 1.4 数据处理
+
+试验数据用 Microsoft Excel 软件进行整理,用SPSS22.0统计软件Duncan's新复极差法进行显著性检验和交互作用方差分析，用Origin9.0软件作图。
+
+# 2 结果与分析
+
+2.1 不同灌水下限与毛管埋深对土壤水分变化的影响
+
+图1分别为成熟期一次灌水周期内灌水 $2 4 \mathrm { h }$ 后与下一次灌水前土壤水分分布情况。地表滴灌与地下滴灌由于灌水深度的不同，导致水分在土壤剖面分布有较大差异。由图1可知，不同深度土壤含水率总体随毛管埋深深度的增加呈先增大后减小趋势。 $0 \mathrm { c m }$ 、 $1 0 \ \mathrm { c m }$ 、 $2 0 \ \mathrm { c m }$ 、 $3 0 \ \mathrm { c m }$ 埋深最大土壤含水率出现位置分别为 $0 { \sim } 1 0 ~ \mathrm { c m }$ 、 $1 0 { \sim } 2 0 ~ \mathrm { c m }$ 、 $2 0 { \sim } 3 0 ~ \mathrm { c m }$ /$3 0 { \sim } 4 0 ~ \mathrm { c m }$ 土层范围，说明毛管埋深增加会使土壤最大含水率出现位置呈下移现象。至下一次灌水前，各处理在 $6 0 ~ \mathrm { c m }$ 以下土层的土壤水分变化较小，幅度为 $0 . 5 2 \% { \sim } 1 . 7 2 \% _ { \circ }$ $\mathrm { I } _ { 5 0 }$ 与 $\mathrm { I } _ { 6 0 }$ 处理 $0 { \sim } 6 0 ~ \mathrm { c m }$ 土层内土壤平均含水率为 $1 8 . 0 3 \% . 2 0 . 4 3 \%$ ，较 $\mathrm { I } _ { 7 5 }$ 处理分别减少 $12 . 9 4 \%$ 、 $23 . 1 9 \%$ ，经方差分析表明各灌水处理平均含水率达到显著性差异 $( P { < } 0 . 0 5 )$ 。同一灌水处理下，各埋深土壤含水率在 $0 \mathrm { c m }$ 、 $2 0 \ \mathrm { c m }$ 、 $3 0 \mathrm { c m }$ 、 $4 0 \ \mathrm { c m }$ 深度差异较大，分别为 $0 . 8 6 \% { \sim } 4 . 9 4 \%$ 、 $0 . 6 2 \% { \sim } 5 . 2 9 \%$ /$0 . 9 4 \% { \sim } 5 . 7 5 \%$ 和 $0 . 1 2 \% { \sim } 4 . 7 5 \%$ ，而 $1 0 ~ \mathrm { c m }$ 、 $5 0 ~ \mathrm { c m }$ ，
+
+$6 0 ~ \mathrm { c m }$ 深度各埋深差异均低于 $3 . 5 0 \%$ 。由此可知，不同水分亏缺程度是影响平均含水率的主要因素，毛管埋深对地表及 $2 0 { \sim } 4 0 ~ \mathrm { c m }$ 土层含水率影响较大，对$5 0 { \sim } 6 0 ~ \mathrm { c m }$ 土层含水率影响较小。
+
+![](images/e3b36033a529e565607c3a435de953929ac517aced3ee18ae867d1eb5840d4a6.jpg)  
+图1不同灌水下限和毛管埋深下灌水 $\mathbf { 2 4 \ h }$ 后 $( \mathbf { a } , \mathbf { b } , \mathbf { c } )$ 和下一次灌水前(d,e,f)土壤水分分布特征 Fig.1Soilwaterdistrbutioncharacteristicsafter24oursofiigation(a,b,c)andeforenextiigation(d,e,f)undeeret irrigation thresholds and lateral depths 150、 $\mathrm { I } _ { 6 0 }$ ， $\mathrm { I } _ { 7 5 }$ 分别表示灌水下限为田间持水量的 $50 \%$ 、 $60 \%$ 、 $7 5 \%$ $\mathrm { ~ D } _ { 0 }$ 、 $\begin{array} { r } { { \bf D } _ { 1 0 } . } \end{array}$ ： $\mathrm { ~ D } _ { 2 0 } .$ ， $\mathbf { D } _ { 3 0 }$ 分别表示毛管埋深 $0 \mathrm { c m }$ 、 $1 0 \ \mathrm { c m }$ 、 $2 0 \ \mathrm { c m }$ 、30cm。 $\mathrm { I } _ { 5 0 }$ [60, $\mathrm { I } _ { 7 5 }$ mean irrigation thresholds of $50 \%$ $60 \%$ $7 5 \%$ of field capacity,respectively. $\mathrm { \Delta D _ { 0 } }$ $\mathbf { D } _ { 1 0 }$ $\mathbf { D } _ { 2 0 }$ $\mathrm { ~ D ~ } _ { 3 0 }$ mean the depths of lateral of $0 \mathrm { c m }$ $1 0 \ \mathrm { c m }$ $2 0 ~ \mathrm { c m }$ ， $3 0 ~ \mathrm { c m }$ ,respectively.
+
+一次灌水周期内， $0 { \sim } 6 0 ~ \mathrm { c m }$ 土层内番茄耗水量随灌水下限增加呈显著增加趋势(表2), $\mathrm { I } _ { 5 0 }$ 、 $\mathrm { I } _ { 6 0 }$ 处理番茄耗水量是 $\mathrm { I } _ { 7 5 }$ 处理的2.02倍、2.72倍。 $\mathrm { ~ I _ { 6 0 } ~ }$ 与 $\mathrm { I } _ { 7 5 }$ 时,$0 { \sim } 6 0 \ \mathrm { c m }$ 土层内番茄耗水量随毛管埋深增加呈先增加后减小趋势。 $\mathrm { I } _ { 7 5 }$ 的 $1 0 \ \mathrm { c m }$ 、 $2 0 ~ \mathrm { c m }$ 耗水量与 $0 \ \mathrm { c m }$ $3 0 \mathrm { c m }$ 埋深差异显著， $\mathrm { ~ I _ { 6 0 } ~ }$ 的 $2 0 \mathrm { c m }$ 埋深耗水量较 $0 \mathrm { c m }$ $1 0 \mathrm { c m } , 3 0 \mathrm { c m }$ 埋深处理增加 $1 3 . 5 5 \% , 6 . 2 0 \% , 3 . 2 4 \%$ ，且与 $0 \mathrm { c m }$ 埋深处理耗水量达到显著性差异。 $\mathrm { ~ I } _ { 5 0 }$ 处理下，毛管埋深对 $0 { \sim } 6 0 ~ \mathrm { c m }$ 土层内番茄耗水量无显著影响，$1 0 \ \mathrm { c m }$ 、 $2 0 ~ \mathrm { c m }$ 埋深处理耗水量较 $3 0 ~ \mathrm { c m }$ 埋深分别增加 $12 . 9 4 \%$ 、 $12 . 3 0 \%$ 。由此可知，番茄耗水量主要受灌水下限影响，在轻度与中轻度水分亏缺时，$1 0 { \sim } 2 0 ~ \mathrm { c m }$ 毛管埋深提高蕃茄耗水量。
+
+# 2.2不同灌水下限与毛管埋深下番茄根长密度在土壤剖面的分布
+
+图2表示不同灌水下限下毛管埋深对根长密度的影响。从图2可知，番茄根长密度随土壤深度增加总体呈减小趋势，番茄根系主要集中在 $0 { \sim } 3 0 ~ \mathrm { c m }$ 土层。不同灌溉处理下 $0 { \sim } 3 0 ~ \mathrm { c m }$ 土层深度内根长密度占总根长密度的比例为 $7 2 . 3 5 \% { \sim } 9 0 . 2 3 \%$ ，各灌水处理下， $0 { \sim } 2 0 ~ \mathrm { c m }$ 土层根长密度随毛管埋深增加而减小，与 $0 \mathrm { c m }$ 埋深相比，埋深为 $2 0 \ \mathrm { c m }$ 1 $3 0 \ \mathrm { c m }$ 处理平
+
+表2不同灌水下限与毛管埋深下番茄在 $\mathbf { 0 { \sim } 6 0 ~ c m }$ 土层耗水量  
+Table 2Water consumption of tomato in $_ { 0 - 6 0 \ \mathrm { c m } }$ soil layerunder different irrigation thresholds and lateral depths   
+
+<html><body><table><tr><td>Irrigai水 Threshld</td><td colspan="4">150</td><td colspan="4">160</td><td colspan="4">175</td></tr><tr><td>毛管埋深Lateral depth</td><td>D0</td><td>D10</td><td>D20</td><td>D30</td><td>D0</td><td>D10</td><td>D20</td><td>D30</td><td>D0</td><td>D10</td><td>D20</td><td>D30</td></tr><tr><td>耗水量 Water consumption (mm)</td><td>53.26a</td><td>56.64a</td><td>56.32a</td><td>50.15a</td><td>37.62b</td><td>40.82ab</td><td>43.52a</td><td>42.11a</td><td>19.63b</td><td>20.70a</td><td>21.71b</td><td>19.11b</td></tr></table></body></html>
+
+150、 $\mathrm { I } _ { 6 0 }$ 、 $\mathrm { I } _ { 7 5 }$ 分别表示灌水下限为田间持水量的 $50 \%$ 、 $60 \%$ 、 $7 5 \%$ $\mathrm { ~ D _ { 0 } } .$ ， $\mathbf { D } _ { 1 0 }$ 、 $\mathrm { ~ D } _ { 2 0 } .$ 、 $\mathrm { ~ D ~ } _ { 3 0 }$ 分别表示毛管埋深 $0 ~ \mathrm { c m } , ~ 1 0 ~ \mathrm { c m } , ~ 2 0 ~ \mathrm { c m } , ~ 3 0 \mathrm { c m } _ { \circ }$ 表中不同小写字母表示相同灌水下限下不同毛管埋深间差异达显著水平 $( P { < } 0 . 0 5 )$ 。 $\mathrm { ~ I ~ } _ { 5 0 }$ $\mathrm { I } _ { 6 0 }$ $\mathrm { I } _ { 7 5 }$ mean irrigation thresholds of $50 \%$ = $60 \%$ = $7 5 \%$ of fieldcapacity, respectively. $\mathrm { \Delta D _ { 0 } }$ $\mathbf { D } _ { 1 0 }$ $\mathrm { ~ D } _ { 2 0 }$ $\mathbf { D } _ { 3 0 }$ mean the depths of lateral of $0 \ \mathrm { c m }$ ， $1 0 \ \mathrm { c m }$ $2 0 ~ \mathrm { c m }$ $3 0 ~ \mathrm { c m }$ ,respectively. Different lowercase letters mean sig-nificant differences among different lateral depths under the same irrigation threshold $( P < 0 . 0 5 )$ ）
+
+![](images/6d3e8fe07267755a7f0d235947362dfb5fd2c83b60648c7e88d08e8e6314c4f7.jpg)  
+根长密度 Root length density $\left( \mathrm { c m } \cdot \mathrm { c m } ^ { - 3 } \right)$   
+图2不同灌水下限与毛管埋深对根长密度的影响  
+ig.2Effects of irrigation threshold and lateral depth on root length densit
+
+I50、 ${ \mathrm { I } } _ { 6 0 } .$ ： $\mathrm { I } _ { 7 5 }$ 分别表示灌水下限为田间持水量的 $50 \%$ 、 $60 \%$ 、 $7 5 \%$ $\mathrm { ~ D } _ { 0 }$ 、 $\mathbf { D } _ { 1 0 }$ 、 $\mathrm { ~ D } _ { 2 0 } .$ 、 $\mathrm { ~ D ~ } _ { 3 0 }$ 分别表示毛管埋深 $0 \mathrm { c m }$ 、 $1 0 \ \mathrm { c m }$ 、 $2 0 \ \mathrm { c m }$ 、 $3 0 \mathrm { c m } _ { \mathrm { c } }$ 表中不同小写字母表示同一土壤深度不同毛管埋深间差异达显著水平 $( P { < } 0 . 0 5 )$ 。 $\mathrm { I } _ { 5 0 }$ ， $\mathrm { I } _ { 6 0 }$ $\mathrm { I } _ { 7 5 }$ mean irrigation thresholds of $50 \%$ ， $60 \%$ ， $7 5 \%$ of fieldcapacity, respectively. $\mathrm { \Delta D _ { 0 } }$ $\mathbf { D } _ { 1 0 }$ $\mathrm { ~ D } _ { 2 0 }$ $\mathbf { D } _ { 3 0 }$ mean the depths of lateral of $0 \ \mathrm { c m }$ ， $1 0 \ \mathrm { c m }$ $2 0 ~ \mathrm { c m }$ $3 0 ~ \mathrm { c m }$ ,respectively. Different lowercase letters mean sig-nificant differences among different irrigation lateral depths for the same soil depth $( P < 0 . 0 5$ ）
+
+均根长密度所占比分别降低 $1 4 . 8 1 \%$ 、 $1 8 . 0 9 \%$ ，埋深为 $1 0 \ \mathrm { c m }$ 处理降低 $7 . 2 6 \text{‰}$ 在 $2 0 { \sim } 6 0 ~ \mathrm { c m }$ 土壤深度范围内，番茄根长密度占比随毛管埋深增加而增加，与 $3 0 \ \mathrm { c m }$ 埋深相比, $0 \mathrm { c m }$ 、 $1 0 \ \mathrm { c m }$ 埋深平均根长密度减幅严重，分别达 $3 5 . 2 1 \%$ 、 $2 1 . 2 2 \%$ ，而 $2 0 \ \mathrm { c m }$ 埋深仅减小 $6 . 4 2 \text{‰}$ 由此可见，随毛管埋深增加会导致表层根系分布减小，促进根系向下生长，同时根系在毛管埋深位置有集中分布。
+
+不同毛管埋深造成根系在土壤剖面分布的差异。各灌水处理下， $0 { \sim } 1 0 ~ \mathrm { c m }$ 、 $3 0 { \sim } 4 0 ~ \mathrm { c m }$ 土层内毛管埋深对番茄根长密度有显著性影响， $0 { \sim } 1 0 ~ \mathrm { c m }$ 土层根长密度随毛管埋深增加而显著降低， $0 \ \mathrm { c m }$ 埋深根长密度与 $2 0 ~ \mathrm { c m }$ 、 $3 0 ~ \mathrm { c m }$ 埋深处理达到显著性差异;$3 0 { \sim } 4 0 ~ \mathrm { c m }$ 土层内, $\mathrm { ~ \textit ~ { ~ I ~ } ~ } _ { 5 0 } , \mathrm { ~ \textit ~ { ~ I ~ } ~ } _ { 7 5 }$ 处理下 $2 0 \ \mathrm { c m }$ 、 $3 0 \ \mathrm { c m }$ 埋深番茄根长密度显著高于 $0 \mathrm { c m }$ 和 $1 0 \ \mathrm { c m }$ 埋深处理，埋深 $0 \ \mathrm { c m }$ 处理根长密度与 $1 0 \ \mathrm { c m }$ 埋深无显著性差异;$\mathrm { { I } } _ { 6 0 }$ 下 $3 0 ~ \mathrm { c m }$ 埋深较其他埋深能显著增加根长密度，$0 \mathrm { c m }$ 、 $1 0 \mathrm { c m }$ 与 $2 0 \ \mathrm { c m }$ 埋深番茄根长密度无差异。在$1 0 { \sim } 2 0 ~ \mathrm { c m }$ 土层内，除 $\mathrm { I } _ { 7 5 }$ 处理外， $1 0 \ \mathrm { c m }$ 、 $2 0 ~ \mathrm { c m }$ 埋深较 $0 \mathrm { c m }$ 与 $3 0 \ \mathrm { c m }$ 埋深处理能显著提高蕃茄根长密度，$1 0 \ \mathrm { c m }$ 埋深根长密度与 $2 0 \ \mathrm { c m }$ 埋深无显著性差异。在$2 0 { \sim } 3 0 ~ \mathrm { c m }$ 土层内, $\begin{array} { r l } { \mathrm { I } _ { 5 0 } , } & { { } \mathrm { I } _ { 7 5 } } \end{array}$ 处理下毛管埋深对番茄根长密度有显著影响，而在 $\mathrm { I } _ { 6 0 }$ 处理下无显著差异。各灌水条件下毛管埋深为 $2 0 ~ \mathrm { c m }$ 处理的根长密度最大，且与 $0 \ \mathrm { c m }$ 埋深处理在 $4 0 { \sim } 5 0 ~ \mathrm { c m }$ 土层内达到显著性差异; $\mathrm { I } _ { 5 0 }$ 、 $\mathrm { ~ I _ { 6 0 } ~ }$ 处理下 $2 0 \ \mathrm { c m }$ 埋深的根长密度显著高于其他埋深处理, $\mathrm { I } _ { 7 5 }$ 处理下 $2 0 \mathrm { c m } , 3 0 \mathrm { c m }$ 埋深番茄根长密度显著高于 $0 \mathrm { c m }$ 、 $1 0 \ \mathrm { c m }$ ，而 $0 \mathrm { c m }$ 与 $1 0 \ \mathrm { c m }$ 埋深番茄根长密度无显著差异。在土层 $5 0 { \sim } 6 0 ~ \mathrm { c m }$ 内, $0 \mathrm { c m }$ $3 0 \ \mathrm { c m }$ 埋深根长密度低于埋深为 $1 0 \ \mathrm { c m }$ 、 $2 0 ~ \mathrm { c m }$ 处理毛管埋深对蕃茄根长密度无显著性影响。由此可知，根长密度最大值随毛管埋深增加总体呈下移现象;$0 { \sim } 1 0 ~ \mathrm { c m }$ 、 $2 0 { \sim } 3 0 ~ \mathrm { c m }$ 、 $3 0 { \sim } 4 0 ~ \mathrm { c m }$ 土层范围内毛管理深造成水分差异使根系生长受到显著影响，而$5 0 { \sim } 6 0 ~ \mathrm { c m }$ 土层水分对根系生长影响较弱。
+
+# 2.3 不同灌水下限与毛管埋深对不同直径根系的影响
+
+表3为各处理不同直径根系的特征参数。由表3可知，不同直径根长随灌水下限增加均呈先增加后减小趋势。 $\mathrm { ~ I _ { 6 0 } , ~ I _ { 7 5 } }$ 处理 $d { < } 1 \ \mathrm { m m }$ 根长较 $\mathrm { I } _ { 5 0 }$ 分别增加$1 6 . 6 0 \%$ 、 $1 0 . 3 0 \%$ ， $\mathrm { I } _ { 7 5 }$ 处理能显著增加 $d { < } 1 \ \mathrm { m m }$ 根长比例，分别较 $\mathrm { ~ \textit ~ { ~ I ~ } ~ } _ { 5 0 } \mathrm { ~ \textit ~ { ~ I ~ } ~ } _ { 6 0 }$ 处理提高 $4 . 6 8 \%$ 、 $3 . 1 9 \text{‰}$ ： $\mathrm { ~ I _ { 6 0 } ~ }$ 处理$d { \mathord { > } } 1 { \mathrm { ~ m m } }$ 根长较灌水 $\mathrm { I } _ { 5 0 \setminus } \mathrm { I } _ { 7 5 }$ 显著增加 $3 3 . 1 5 \%$ 1 $7 3 . 2 7 \%$ 同时能提高 $d { \mathord { > } } 1 \ \mathrm { m m }$ 比例, $\mathrm { ~ I _ { 5 0 } , ~ I _ { 7 5 } }$ 较其降低 $1 1 . 1 3 \%$ /$3 6 . 0 0 \% _ { \textmd { c } }$ 。说明轻度水分胁迫促进细根生长，减少粗根比例，而中轻度水分胁迫表现相反。 $d { \mathord { > } } 1 { \mathrm { m m } }$ 根长随毛管埋深增加呈先增加后减小趋势，而 $d { < } 1 \ \mathrm { m m }$ 根长随毛管埋深增加总体呈先减小后增加趋势。与其余埋深比较, $2 0 \mathrm { c m }$ 埋深提高 $d { < } 1 \ \mathrm { m m }$ 根长比例，降低 $d { \mathord { > } } 1 { \mathrm { ~ m m } }$ 根长比例。
+
+对 $d { < } 1 ~ \mathrm { m m }$ 根，根表面积随灌水下限增加呈显著增加趋势， $2 0 \ \mathrm { c m }$ 埋深根表面积较其余处理显著增加。 $d { > } 1 \ \mathrm { m m }$ 时, $\mathrm { ~ I _ { 6 0 } ~ }$ 处理根表面积达最大值，除 $\mathrm { I } _ { 5 0 }$ 外，其余处理 $1 0 { \sim } 2 0 ~ \mathrm { c m }$ 埋深的根表面积低于 $0 \mathrm { c m }$ /$3 0 \ \mathrm { c m }$ 毛管埋深。与 $\mathrm { \Delta I _ { 5 0 } }$ 、 $\mathrm { ~ I _ { 6 0 } ~ }$ 处理相比， $\mathrm { I } _ { 7 5 }$ 处理提高$d { < } 1 ~ \mathrm { m m }$ 的根表面积比例，减小 $d { > } 1 \ \mathrm { m m }$ 的根表面积比例，而 $\mathrm { ~ I _ { 6 0 } ~ }$ 根径为 $d { > } 1 \ \mathrm { m m }$ 的根表面积比例最大。与 $0 ~ \mathrm { c m }$ 、 $1 0 \ \mathrm { c m }$ 、 $3 0 ~ \mathrm { c m }$ 埋深相比, $2 0 ~ \mathrm { c m }$ 埋深增加$d { < } 1 ~ \mathrm { m m }$ 的根表面比例分别为 $1 0 . 6 5 \%$ 、 $4 . 8 9 \%$ 和$12 . 5 1 \%$ ，减少 $d { > } 1 \ \mathrm { m m }$ 根表面比例为 $2 1 . 9 1 \% . 1 0 . 0 7 \%$ 和 $2 5 . 7 5 \%$ ，说明 $2 0 \mathrm { c m }$ 毛管埋深有利于细根系生长发育，减少粗根系。
+
+方差分析表明，灌水下限与毛管埋深对 $d { < } 1 \ \mathrm { m m }$ 根长、根表面积的影响达极显著水平，且灌水下限作用大于毛管埋深作用。灌水下限对 $d { \mathord { > } } 1 \ \mathrm { m m }$ 根长、根表面积的影响也达极显著水平，而毛管埋深对 $d { > } 1 \ \mathrm { \ m m }$ 根长与根表面积的影响均不显著，两者交互作用对不同直径根长与根表面积影响极显著。说明水分胁迫是影响根系生长的主要影响因素，毛管埋深主要是影响细根系生长。综上所述，灌水下限对细根、粗根的根长和根表面积均有显著影响，毛管埋深仅对细根生长产生影响。轻度水分亏缺和 $2 0 \ \mathrm { c m }$ 毛管埋深有利于细根系根长与根表面积生长，减少粗根系比例。
+
+表3不同灌水下限与毛管埋深番茄不同直径 $( d )$ 根系的根长与根表面积ects of irrigation threshold and lateral depth on the length and surface area of tomato different d  
+
+<html><body><table><tr><td rowspan="2">灌水下限 Irrigation threshold</td><td rowspan="2">毛管埋深 Lateral depth</td><td colspan="2">根长 Root length (cm)</td><td colspan="2">根表面积 Root surface area (cm²)</td></tr><tr><td>d<1 mm</td><td>d>1 mm</td><td>d<1 mm</td><td>d>1 mm</td></tr><tr><td>150</td><td>D0</td><td>360.77±2.68d</td><td>35.07±3.84ef</td><td>36.43±3.18e</td><td>24.17±5.52cd</td></tr><tr><td></td><td>D10</td><td>384.26±17.98cd</td><td>44.09±3.64cde</td><td>40.43±5.36de</td><td>27.02±4.11bcd</td></tr><tr><td></td><td>D20</td><td>409.26±11.15bc</td><td>42.86±9.77de</td><td>46.38±4.69cd</td><td>25.83±5.93cd</td></tr><tr><td></td><td>D30</td><td>348.53±9.00d</td><td>48.72±2.21bcd</td><td>35.80±2.97e</td><td>23.78±4.15cd</td></tr><tr><td>160</td><td>D0</td><td>414.15±14.57bc</td><td>56.90±7.32ab</td><td>46.13±6.39cd</td><td>36.44±6.58ab</td></tr><tr><td></td><td>D10</td><td>476.49±35.24a</td><td>60.44±7.24a</td><td>54.47±2.50bc</td><td>32.98±2.01abcd</td></tr><tr><td></td><td>D20</td><td>454.71±21.89a</td><td>56.47±5.30ab</td><td>58.88±3.45ab</td><td>33.63±4.68abc</td></tr><tr><td></td><td>D30</td><td>406.93±32.74bc</td><td>53.52±1.01abc</td><td>47.85±7.55cd</td><td>38.16±8.89a</td></tr><tr><td>175</td><td>D0</td><td>405.03±29.92bc</td><td>34.29±1.75ef</td><td>51.94±2.24bc</td><td>28.73±5.94abcd</td></tr><tr><td></td><td>D10</td><td>410.13±20.90bc</td><td>34.03±1.56ef</td><td>58.13±3.31ab</td><td>25.19±4.45cd</td></tr><tr><td></td><td>D20</td><td>437.82±21.17ab</td><td>26.23±9.98f</td><td>63.71±3.56a</td><td>22.41±3.42d</td></tr><tr><td></td><td>D30</td><td>404.67±21.82bc</td><td>36.66±3.74ef</td><td>48.72±5.28cd</td><td>31.30±6.13abcd</td></tr><tr><td colspan="6">F值 F value</td></tr><tr><td colspan="2">毛管埋深 Lateral depth (D)</td><td>1.73**</td><td>9.80NS</td><td>14.69**</td><td>0.825NS</td></tr><tr><td colspan="2">灌水下限 Irrigation threshold (I)</td><td>54.94**</td><td>24.62**</td><td>40.80**</td><td>11.84**</td></tr><tr><td colspan="2">D×I</td><td>11.55**</td><td>7.98**</td><td>11.60**</td><td>2.80**</td></tr></table></body></html>
+
+$\mathrm { I } _ { 5 0 \setminus } \ \mathrm { I } _ { 6 0 \setminus } \ \mathrm { I } _ { 7 5 }$ 分别表示灌水下限为田间持水量的 $50 \%$ 、 $60 \%$ 、 $7 5 \%$ $\mathrm { ~ D } _ { 0 }$ 、 $\mathbf { D } _ { 1 0 }$ 、 $\mathrm { D } _ { 2 0 } .$ ： $\mathbf { D } _ { 3 0 }$ 分别表示毛管埋深 $0 ~ { \mathrm { c m } } , ~ 1 0 ~ { \mathrm { c m } } , ~ 2 0 ~ { \mathrm { c m } } , ~ 3 0 { \mathrm { c m } } _ { \circ }$ 表中不同小写字母表示同一灌水下限下不同毛管埋深间差异达显著水平 $( P { < } 0 . 0 5 )$ 。NS和 $^ *$ $^ { * * }$ 分别表示差异不显著和在 $5 \%$ 、 $1 \%$ 水平显著。 $\mathrm { I } _ { 5 0 }$ $\mathrm { I } _ { 6 0 }$ 5 $\mathrm { I } _ { 7 5 }$ mean irrigation thresholds of $50 \%$ $60 \%$ 5 $7 5 \%$ of field capacity,respectively. $\mathrm { \Delta D _ { 0 } }$ $\mathrm { ~ D _ { 1 0 } ~ }$ 5 $\mathbf { D } _ { 2 0 }$ $\mathbf { D } _ { 3 0 }$ mean the depths of lateral of $0 \mathrm { c m }$ $1 0 \ \mathrm { c m }$ $2 0 ~ \mathrm { c m }$ ， $3 0 ~ \mathrm { c m }$ ,respectively.Diferentlowercaseletters mean significant diferencesamongdiferentlateraldepthsunderthesameirigation threshold $( P < 0 . 0 5 ) \$ ).NSand $^ *$ $^ { * * }$ mean not significant difference and significant differences at $5 \%$ $1 \%$ levels,respectively.
+
+# 2.4不同灌水下限与毛管埋深对番茄干物质的影响
+
+表4为成熟期不同水分亏缺下毛管埋深对番茄干物质分配的影响。由表4可知， $2 0 \ \mathrm { c m }$ 埋深处理全株干重显著高于其他处理， $0 \ \mathrm { c m }$ 埋深与 $3 0 \ \mathrm { c m }$ 埋深的全株干重无显著差异。同等埋深下，番茄全株干重随灌水下限增加呈显著增加趋势。说明 $2 0 \ \mathrm { c m }$ 毛管埋深下，与实施轻度水分亏缺灌溉(灌水下限为$\mathrm { I } _ { 7 5 } )$ 时有利于番茄干物质积累。
+
+方差分析表明，灌水下限对番茄根、茎叶、果干重影响极显著。 $\mathrm { ~ I _ { 6 0 } ~ }$ 处理的根平均干重高于灌水下限 $\mathrm { I } _ { 5 0 }$ 与 $\mathrm { I } _ { 7 5 }$ ，较 $\mathrm { I } _ { 5 0 } , \mathrm { I } _ { 7 5 }$ 增加 $3 6 . 0 1 \%$ / $1 3 . 3 0 \%$ ；茎叶、果干重随灌水下限增加而增加， $\begin{array} { r l } { \mathrm { I } _ { 6 0 } , } & { { } \mathrm { I } _ { 7 5 } } \end{array}$ 处理茎叶、果干重显著高于 $\mathrm { I } _ { 5 0 }$ 处理， $\mathrm { I } _ { 6 0 }$ 茎叶重与 $\mathrm { I } _ { 7 5 }$ 无显著差异， $_ { 0 \mathrm { c m } , 2 0 \mathrm { c m } }$ 埋深时 $\mathrm { ~ I _ { 6 0 } ~ }$ 果干重显著低于 $\mathrm { I } _ { 7 5 }$ 处理。毛管埋深对番茄根、果干重影响不显著，对茎叶干重的影响达极显著水平。 $\mathrm { I } _ { 7 5 }$ 时，各器官干重随毛管埋深增加呈先增加后减小趋势， $2 0 \ \mathrm { c m }$ 埋深根干重占干物质总重比例最低，茎叶干重占干物质总重比例较大。 $\mathrm { ~ I _ { 6 0 } ~ }$ 处理下, $2 0 \ \mathrm { c m }$ 埋深茎叶、果干重及茎叶干重占干物质总重比例高于其余处理，而果干重占干物质总重比例最低但较其余处理差异较小；埋深 $3 0 \ \mathrm { c m }$ 根干重所占比例最大，较 $0 \ \mathrm { c m }$ 、 $1 0 \ \mathrm { c m }$ 与 $2 0 ~ \mathrm { c m }$ 埋深分别增加 $1 6 . 0 1 \%$ ！ $5 . 8 4 \%$ ！ $7 . 5 5 \% _ { \textmd c }$ $\mathrm { I } _ { 5 0 }$ 处理下 $1 0 \ \mathrm { c m }$ 埋深根、果干重占干物质总重比例最高。与 $1 0 \ \mathrm { c m }$ /$3 0 ~ \mathrm { c m }$ 埋深处理相比, $0 \ \mathrm { c m }$ 、 $2 0 ~ \mathrm { c m }$ 埋深根干重与叶干重占干物质总重比例较低，而茎叶干重占比较高。灌水下限与毛管埋深交互作用对全株干重、茎叶干重与果干重显著影响，对根干重及根冠比影响不显著。
+
+根冠比是反映植物根系与地上部分生长协调性的重要指标。在各水分处理下， $\mathrm { I } _ { 6 0 }$ 的根冠比显著高于$\mathrm { \Delta I _ { 5 0 } }$ 处理。而 $\mathrm { I } _ { 7 5 }$ 处理下，各毛管埋深平均根冠比与 $\mathrm { I } _ { 5 0 \setminus }$ $\mathrm { ~ I _ { 6 0 } ~ }$ 并无显著差异。毛管埋深对蕃茄根冠比无显著性影响， $2 0 \ \mathrm { c m }$ 毛管埋深处理番茄根冠比低于其余毛管埋深处理， $\mathrm { I } _ { 5 0 }$ 和 $\mathrm { I } _ { 6 0 }$ 处理下， $1 0 \mathrm { c m }$ 、 $3 0 \ \mathrm { c m }$ 毛管埋深根冠比高于其余埋深下的根冠比。综上所述，轻度水分亏缺有利于干物质向根系运移，而 $2 0 \ \mathrm { c m }$ 毛管埋深能减小干物质向根系运移，促进干物质在茎叶上积累。
+
+表4不同灌水下限和毛管埋深对番茄干物质分配的影响Table 4Effects of irrigation threshold and lateral depth on dry matter distribution of tomato  
+
+<html><body><table><tr><td>灌水下限 Irrigation threshold</td><td>毛管埋深 Lateral depth</td><td>全株干重 Totght (ry)</td><td>根干重 Root dry weigt</td><td>茎叶干重 Stem and lea dtry</td><td>果干重 Fruit dry eigt</td><td>根冠比 Root/shoot</td></tr><tr><td>I50</td><td>D0</td><td>184.82±4.17g</td><td>6.19±1.03c</td><td>86.30±5.20de</td><td>92.43±12.50g</td><td>0.066 9a</td></tr><tr><td rowspan="7">160</td><td>D10</td><td>205.49±0.86f</td><td>7.25±0.87bc</td><td>87.72±0.01de</td><td>110.52±2.24def</td><td>0.076 3a</td></tr><tr><td>D20</td><td>206.83±2.42f</td><td>7.08±0.62bc</td><td>94.35±1.80cde</td><td>105.40±6.75efg</td><td>0.069 8a</td></tr><tr><td>D30</td><td>186.11±7.91g</td><td>6.54±0.96c</td><td>80.03±6.95e</td><td>99.54±4.61fg</td><td>0.075 5a</td></tr><tr><td>D0</td><td>224.29±4.61e</td><td>8.34±0.59abc</td><td>101.42±5.27bcd</td><td>114.73±11.37cdef</td><td>0.076 0a</td></tr><tr><td>D10</td><td>240.29±15.12cd</td><td>9.35±0.30ab</td><td>109.01±15.42abc</td><td>121.94±3.28bcde</td><td>0.079 0a</td></tr><tr><td>D20</td><td>251.36±7.08b</td><td>9.18±2.32ab</td><td>122.20±4.76a</td><td>126.36±3.18bcd</td><td>0.069 9a</td></tr><tr><td>D30</td><td>233.78±3.56de</td><td>9.93±0.28a</td><td>104.06±3.29bc</td><td>119.80±4.94bcde</td><td>0.087 1a</td></tr><tr><td rowspan="5">175</td><td>D0</td><td>251.36±11.97bc</td><td>7.86±0.71abc</td><td>107.15±12.68abc</td><td>136.35±14.10ab</td><td>0.068 3a</td></tr><tr><td>D10</td><td>248.79±1.68bcd</td><td>8.28±0.68abc</td><td>111.43±2.41ab</td><td>129.08±16.13abc</td><td>0.069 2a</td></tr><tr><td>D20</td><td>274.53±0.86a</td><td>8.42±0.93abc</td><td>121.05±1.79a</td><td>145.07±4.47a</td><td>0.065 0a</td></tr><tr><td>D30</td><td>251.88±1.77bc</td><td>7.92±1.11abc</td><td>109.33±2.88abc</td><td>134.64±8.72ab</td><td>0.067 5a</td></tr><tr><td colspan="6">F值F-value</td></tr><tr><td colspan="2">毛管埋深 Lateral depth (D)</td><td>17.54*</td><td>0.72NS</td><td>6.409**</td><td>2.47NS</td><td>0.98NS</td></tr><tr><td colspan="2">灌水下限 Irrigation threshold (I)</td><td>171.13**</td><td>12.47**</td><td>32.49**</td><td>44.49**</td><td>2.31NS</td></tr><tr><td colspan="2">D×I</td><td>36.88**</td><td>2.538NS</td><td>7.762**</td><td>9.938**</td><td>0.861NS</td></tr></table></body></html>
+
+I50、I60、 $\mathrm { I } _ { 7 5 }$ 分别表示灌水下限为田间持水量的 $50 \%$ 、 $60 \%$ 、 $7 5 \%$ $\mathrm { D } _ { 0 } .$ $\mathrm { \Delta D _ { 1 0 } } .$ $\mathbf { D } _ { 2 0 }$ 人 $\mathbf { D } _ { 3 0 }$ 分别表示毛管埋深0cm、10cm、20cm、30cm。表中不同小写字母表示不同处理间差异达显著水平 $( P { < } 0 . 0 5 )$ 。NS和 $*$ ， $^ { * * }$ 分别表示差异不显著和在 $5 \%$ 、 $1 \%$ 水平显著。I50,I60, $\mathrm { I } _ { 7 5 }$ mean irrigationthresholds of $50 \%$ $60 \%$ $7 5 \%$ of field capacity,respectively. $\mathrm { \Delta D _ { 0 } }$ $\mathbf { D } _ { 1 0 }$ $\mathrm { ~ D } _ { 2 0 }$ $\mathrm { ~ D ~ } _ { 3 0 }$ mean the depths of lateral of $0 \ \mathrm { c m }$ $1 0 \ \mathrm { c m }$ $2 0 ~ \mathrm { c m }$ $3 0 ~ \mathrm { c m }$ ,respectively.Different lowercase letters mean significant differences among different treatments $( P < 0 . 0 5 ^ { \cdot }$ ). NS and \*, $^ { * * }$ mean not significant difference and sig-nificant differences at $5 \%$ $1 \%$ levels,respectively.
+
+# 3讨论
+
+本研究得出轻度与中轻度水分亏缺时 $1 0 { \sim } 2 0 ~ \mathrm { c m }$ 毛管埋深更有利于蕃茄对土壤水分的吸收利用。其原因可能是适度水分亏缺可增加深层土壤根系量，提高根系活力与深层土壤贮水的吸收利用量[16]，再
+
+http://www.ecoagri.ac.cn
+
+加上番茄根系主要集中分布于地下 $3 0 ~ \mathrm { c m }$ 范围内，这与 $1 0 { \sim } 2 0 ~ \mathrm { c m }$ 埋深形成湿润体的位置大小密切相关，两者相匹配能使根系生长处于最佳环境，更利于根系对土壤剖面水分吸收利用[17]。
+
+前人研究表明，深层土壤水分可诱导根系向下深扎，致使表土层根系分布相对减少[18]。本研究表明，随地下滴灌毛管埋深的增加，土壤最大含水率出现位置呈下移趋势，导致深土层根系分布增加和表土层根系分布相对较少，且在毛管埋深所在的位置尤为显著。各层土壤含水量与根系分布存在正相关关系[19]，因此土壤含水量的差异必然影响根系分布的数量。本试验毛管埋深对 $0 { \sim } 1 0 \ \mathrm { c m }$ ！ $2 0 { \sim } 3 0 ~ \mathrm { c m }$ /$3 0 { \sim } 4 0 ~ \mathrm { c m }$ 土层根长密度有显著性影响，而对 $5 0 { \sim } 6 0 ~ \mathrm { c m }$ 土层深度内根系影响相对较弱。这可能是由于随毛管埋深的增加，运移至表层和深层土壤水分含量差异较大[12]，毛管埋深浅会使表层水分含量高，由于根系生长具有向水性，造成根系集中分布于表层土壤；而毛管埋深较深会使深层水分增加，促使表层根系减少而深土层根系分布增加[20]，从而对表层及深层土壤根系生长影响程度大。当达到一定土层深度时，超出根系集中分布范围，对深层贮存水分消耗强度较小，因此对根系生长影响程度也较小[21]。
+
+细根(直径小于 $1 \mathrm { m m }$ 根系)是作物主要的吸水根其数量与分布影响作物对水分的吸收利用，是引起产量差异的原因之一[3]。前人研究表明，灌水量对番茄细根系生长的影响达到显著水平，灌水过少不利于细根根系生长[22]。本研究结果同样也表明，不同灌溉下限引起灌水量差异对不同直径根长与根表面积的影响达到显著水平，重度水分亏缺会抑制不同直径根系的生长。有研究表明，透气性好的土壤会使一级侧根根系长度和根系平均直径减小，细根量显著增加[23]。本试验研究还表明, $2 0 \ \mathrm { c m }$ 毛管埋深有利于细根系生长，减少粗根系生长比例。这可能是由于 $2 0 \ \mathrm { c m }$ 埋深能形成适宜的水、肥、气、热生长环境，使土壤保持良好的透气性，能及时补充根系活动所需的氧气，进而促进细根生长，提高细根表面积与吸收面积。
+
+土壤水分能够影响到植株各部分干物质的分配比例，控制在最佳的根冠比范围内是实现水分高效利用与提高产量的基础[24]。前人对番茄、小麦等作物研究表明，适度水分亏缺能促进番茄植株干物质积累，利于根系干物质积累[25-26]。本试验表明，在中轻度水分亏缺条件下有利于番茄干物质积累并促进干物质向根系的转移。本试验还发现，毛管埋深为
+
+$2 0 \ \mathrm { c m }$ 能够促进干物质积累，并提高叶片干重在总干重中所占的比例，但减少了根系的干物质分配比例。可能是由于 $2 0 \ \mathrm { c m }$ 毛管埋深导致湿润体总体下移，减小了表土层土壤水分的无效蒸发，提高了植株的光合作用[27]。同时 $2 0 \ \mathrm { c m }$ 毛管埋深还能够减少表层土壤根系的分布，降低植株对土壤干旱和根化学信号的敏感性，这会减少干物质量向根系的过度分配，促进植株地上部分的生长[28]。
+
+本研究通过温室滴灌试验研究了不同灌水方式对土壤水分、土壤根系生长及干物质分配的影响，对温室番茄的水分管理具有重要的指导意义。由于本试验在温室大棚内进行，对于更为复杂的田间试验条件下，需进一步研究关注。
+
+# 4结论
+
+1)毛管埋深增加会使土壤最大含水率出现位置呈下移现象，对地表及 $2 0 { \sim } 4 0 ~ \mathrm { c m }$ 土层含水率影响较大，对 $5 0 { \sim } 6 0 ~ \mathrm { c m }$ 土层含水率影响较小。轻度、中轻度水分亏缺时，毛管埋深对番茄耗水量有显著影响$1 0 { \sim } 2 0 ~ \mathrm { c m }$ 毛管埋深提高蕃茄耗水量。
+
+2)毛管埋深增加会减少 $0 { \sim } 2 0 ~ \mathrm { c m }$ 土层根系分布,促进 $2 0 { \sim } 6 0 ~ \mathrm { c m }$ 土层根系生长，且在毛管埋深位置有集中分布的特征。毛管埋深对 $0 { \sim } 1 0 ~ \mathrm { c m }$ 、 $2 0 { \sim } 3 0 ~ \mathrm { c m }$ /$3 0 { \sim } 4 0 ~ \mathrm { c m }$ 土层根系生长显著影响，对 $5 0 { \sim } 6 0 ~ \mathrm { c m }$ 土层根系生长无显著影响。
+
+3)灌水下限对细根、粗根的根长和根表面积均有显著影响，毛管埋深对细根生长影响显著。灌水下限为 $7 5 \%$ 田间持水量和 $2 0 \ \mathrm { c m }$ 毛管埋深有利于细根根长和根表面积生长，减少粗根系比例。
+
+4)灌水下限为 $7 5 \%$ 田间持水量及毛管埋深为 $2 0 \ \mathrm { c m }$ 更有利于全株干物质积累，灌水下限为 $7 5 \%$ 田间持水量能够增加根系干物质分配比例， $2 0 ~ \mathrm { c m }$ 毛管埋深能促进干物质向叶片转移且减少根系干物质的分配比例。
+
+# 参考文献References
+
+[1]方怡向，赵成义，串志强，等．膜下滴灌条件下水分对棉花 根系分布特征的影响[J]．水土持学报,2007,21(5):96-100 Fang Y X,Zhao C Y,Chuan ZQ,et al.Root distribution characteristics of cotton in different drip irrigation amounts irrigation under mulched[J].Journal of Soil and Water Conservation,2007,21(5):96-100   
+[2]毛娟，陈佰鸿，曹建东，等．不同滴灌方式对荒漠区‘赤霞 珠'葡萄根系分布的影响[J]．应用生态学报，2013，24(11): 3084-3090 Mao J,Chen BH,Cao JD,etal.Effects of different drip irrigation modes on root distribution of wine grape‘Cabernet Sauvignon’in desert area of Northwest China[J].Chinese   
+[4] 张伟，李鲁华，吕新．不同灌水量对滴灌春小麦根系时空 分布、水分利用率及产量的影响[J]．西北农业学报，2016, 25(3): 361-371 Zhang W,LiL H,Lü X.Effects of drip irrigation amount on root spatial and temporal distribution, water use efficiency andyieldinspringwheat[J].ActaAgriculturae Boreali-occidentalis Sinica,2016,25(3): 361-371   
+[5] 谢小清，章建新，段丽娜，等．滴灌量对冬小麦根系时空分布 及水分利用效率的影响[J]．麦类作物学报，2015，35(7): 971-979 Xie X Q, Zhang JX,Duan L N,et al. Effect of drip irrigation amount on temporal spatial distribution of root and water use efficiency of winter wheat[J]. Journal of Triticeae Crops, 2015,35(7): 971-979   
+[6] Machado R M A, Oliveira MD R G. Tomato root distribution, yield and fruit quality under different subsurface drip irrigation regimes and depths[J].Irrigation Science,20o5,24(1):15-24   
+[7] 刘战东，刘祖贵，俞建河，等．地下水埋深对玉米生长发育 及水分利用的影响[J]．排灌机械工程学报，2014，32(7): 617-624 Liu Z D,Liu Z G,Yu JH, et al. Effects of groundwater depth on maize growth and water use efficiency[J]. Journal of Drainage and Irrigation Machinery Engineering,2014,32(7):617-624   
+[8] 任杰，王振华，温新明，等．毛管埋深对地下滴灌线源入渗土 壤水分运移影响研究[J]．灌溉排水学报,2008,27(5):80-82 RenJ,Wang ZH,WenXM,etal.Effectsof capillarydepth on soil water transport under line source permeation of SDI[J]. Journal of Irrigation and Drainage, 20o8,27(5): 80-82   
+[9]吕谋超，冯俊杰，翟国亮．地下滴灌夏玉米的初步试验研 究[J]．农业工程学报,2003,19(1):67-71 Lü M C,Feng JJ, Zhai G L. Preliminary test of soil water influence on root system and yield of summer corn in subsurface drip irrigation[J]. Transactions of the CSAE,2003,19(1): 67-71   
+[10]刘玉春，李久生．毛管埋深和层状质地对番茄滴灌水氮利 用效率的影响[J]．农业工程学报,2009,25(6):7-12 Liu Y C,Li JS.Effects of lateral depth and layered-textural soils on water and nitrogen use efficiency of drip irrigated tomato[J]. Transactions of the CSAE,2009,25(6): 7-12   
+[11]刘玉春，李久生．毛管埋深和土壤层状质地对地下滴灌番 茄根区水氮动态和根系分布的影响[J]．水利学报，2009, 40(7): 782-790 Liu Y C,Li J S. Effects of lateral depth and layered-textural soils on water and nitrate dynamics and root distribution for drip fertigated tomato[J]. Journal of Hydraulic Enginering, 2009,40(7): 782-790   
+[12] Patel N, Rajput T B S.Effect of drip tape placement depth and irrigation level on yield of potato[J].Agricultural Water Management,2007,88(1/3): 209-223   
+[13]Machado R MA,Rosärio MD,Oliveira G,et al. Tomato root 茄产量及品质的影响[J]．中国生态农业学报，2016,24(12): 1663-1673 Lü W,Niu W Q,Gu J,et al.Effects of moistube depth and density on tomato yield and quality in solar greenhouse[J]. Chinese Journal of Eco-Agriculture,2016,24(12): 1663-1673   
+[15]徐杰，李从锋，孟庆锋，等．苗期不同滴灌方式对东北春玉 米产量和水分利用效率的影响[J]．作物学报，2015，41(8): 1279-1286 Xu J,Li C F，Meng Q F，et al. Effects of different drip-irrigation modes at the seedling stage on yield and water-use eficiency of spring maize in northeast China[J]. Acta Agronomica Sinica,2015,41(8): 1279-1286   
+[16] 薛丽华，段俊杰，王志敏，等．不同水分条件对冬小麦根系 时空分布、土壤水利用和产量的影响[J]．生态学报，2010, 30(19): 5296-5305 XueL H,DuanJJ,Wang Z M,et al.Effects of different irrigation regimes on spatial-temporal distribution of roots, soil water use and yield in winter wheat[J].Acta Ecologica Sinica, 2010,30(19): 5296-5305   
+[17]张妙仙．滴灌土壤湿润体与作物根系优化匹配研究[J]．中 国生态农业学报,2005,13(1):104-107 Zhang M X. Optimum matching between soil infiltration body and crop root system under trickle irrigation[J]. Chinese Journal of Eco-Agriculture,2005,13(1): 104-107   
+[18]任三学，赵花荣，霍治国，等．有限供水对夏玉米根系生长 及底熵利用影响的研究[J]．水土保持学报，2004，18(2): 161-165 Ren S X, Zhao HR,Huo Z G,et al. Study on effect limited water supply on growth of roots and soil moisture use of summer corn[J]. Journal of Soil and Water Conservation, 2004,18(2): 161-165   
+[19] 杨再强，邱译萱，刘朝霞，等．土壤水分胁迫对设施番茄根 系及地上部生长的影响[J]．生态学报,2016,36(3):748-757 Yang ZQ,Qiu Y X,Liu Z X,et al.The effects of soil moisture stress on the growth of root and above-ground parts of greenhouse tomato crops[J]. Acta Ecologica Sinica, 2016, 36(3): 748-757   
+[20]齐广平，张恩和．膜下滴灌条件下不同灌溉量对番茄根系 分布和产量的影响[J]．中国沙漠,2009,29(3):463-467 Qi G P,Zhang E H. Effect of drip irrigation quota on root distribution and yield of tomato under film mulch[J]. Journal of Desert Research,2009,29(3): 463-467   
+[21]李东伟，李明思，刘东，等．膜下滴灌土壤湿润范围对棉花 根层土壤水热环境和根系耗水的影响[J]．应用生态学报, 2015,26(8): 2437-2444 Li D W,Li M S,Liu D, et al. Effects of soil weting pattrn on the soil water-thermal environment and cotton root water consumption under mulched drip irrigation[J]. Chinese Journal of Applied Ecology,2015,26(8): 2437-2444   
+[22]刘世全，曹红霞，张建青，等．不同水氮供应对小南瓜根系 生长、产量和水氮利用效率的影响[J]．中国农业科学,2014, 47(7): 1362-1371 Liu SQ,Cao HX,ZhangJQ,et al.Effects of differentwater and nitrogen supplies on root growth,yield and water and nitrogen use efficiency of small pumpkin[J].Scientia Agricultura Sinica,2014,47(7):1362-1371   
+[23]肖元松，彭福田，张亚飞，等．增氧栽培对桃幼树根系构型 及氮素代谢的影响[J]．中国农业科学，2014，47(10): 1995-2002 XiaoYS,PengFT,ZhangYF,etal.Effects of aeration cultivation on root architecture and nitrogen metabolism of young peach trees[J]. Scientia Agricultura Sinica,2014, 47(10):1995-2002   
+[24]王艳哲，刘秀位，孙宏勇，等．水氮调控对冬小麦根冠比和 水分利用效率的影响研究[J]．中国生态农业学报，2013, 21(3):282-289 WangYZ,Liu XW,SunHY,etal.Effects ofwater and nitrogen on root/shoot ratio and water use efficiency of winter wheat[J]. Chinese Journal of Eco-Agriculture,2013,21(3): 282-289   
+[25]齐红岩，李天来，张洁，等．亏缺灌溉对番茄蔗糖代谢和干 物质分配及果实品质的影响[J]．中国农业科学,2004,37(7): 1045-1049 QiHY,LiTL,ZhangJ,et al.Effects of irrigation on sucrose metabolism,dry matter distribution and fruit quality of tomato under water deficit[J]. Scientia Agricultura Sinica,2004, 37(7):1045-1049   
+[26]郭安红，魏虹，李凤民，等．土壤水分亏缺对春小麦根系干 物质累积和分配的影响[J].生态学报,1999,19(2):179-184 Guo A H,Wei H,LiF M,et al.The effect of soil water deficiency on the accumulation and allocation of root biomass of spring wheat[J]. Acta Ecologica Sinica 1999,19(2): 179-184   
+[27]罗洪海，张宏芝，杜伟明，等．膜下滴灌下土壤深层水分对 棉花根系生理及叶片光合特性的调节效应[J].应用生态学 报,2009,20(6):1337-1345 Luo H H,Zhang H Z,Du W M,et al.Regulation effect of water storage in deeper soil layers on root physiological characteristics and leaf photosynthetic traits of cotton with drip irrigation under mulch[J].Chinese Journal of Applied Ecology,2009,20(6):1337-1345   
+[28]李凤民，郭安红，雒梅，等．土壤深层供水对冬小麦干物质 生产的影响[J].应用生态学报，1997,8(6):575-579 LiFM,Guo AH,Luo M,et al.Effect of water supply from deep soil on dry matter production of winter wheat[J].Chinese Journalof Applied Ecology,1997,8(6):575-579

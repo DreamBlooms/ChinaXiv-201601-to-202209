@@ -1,0 +1,209 @@
+[
+    {
+        "type": "text",
+        "text": "面向高速铁路的宽带无线通信系统",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周一青 周恩 田霖 石晶林",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 随着我国高速铁路和宽带无线通信技术的发展，在高铁环境下提供宽带无线通信的需求日益强烈。目前高铁采用的窄带 GSM-R（Global System for Mobile Communications on Railways）只能提供 200kbps 以下的数据传输速率，无法满足未来高铁展开视频监控、旅客多媒体等新业务的需求。必须发展面向高铁优化的宽带无线通信系统，才能为高铁的运营、控制，为旅客提供稳定，可靠，高质量的宽带无线通信服务。本文针对高铁高速移动、位置可预期等特点，分析了面向高铁的宽带无线通信系统在网络架构、资源管理和物理层空口等核心技术上面临的挑战，并提出了解决问题的思路。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词高速铁路；宽带无线；网络架构；资源管理；物理层空口",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "背景介绍 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，高速铁路在全球得到了迅猛的发展。相对其他交通工具，高速铁路具有运载能力大、运行速度快、运输效率高等特点，同时也符合绿色环保的全球发展趋势，在世界各国得到了越来越广泛的重视和应用。继日本和欧洲大规模修建高速铁路之后，2009年美国提出在10个地区兴建10条高速铁路的计划，预计总投资130亿美元，未来这些铁路将成为美国内陆交通的走廊。2009 年底，全球最快的高速铁路，时速达350公里的武广高速铁路在我国投入运行。根据《中国铁路中长期发展规划》，到2020年，我国将建成具有“四纵四横”的高速铁路客运网",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/d7fa0676d3f8307fc0bf2a05da5c20f6d2ab02c1158e9a644e244128fb8bd434.jpg",
+        "img_caption": [
+            "图1．全球最快的武广高铁"
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "络，总里程1.3万公里。其中時速250公里的线路有 5000公里，時速350公里的线路有8000公里。我国高速铁路的迅速发展，带动了建筑、制造、材料、旅游等一大批产业的发展。作为我国未来最主要的公共交通手段，高铁将成为国民经济的大动脉。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在高铁这样一个庞大的综合系统中，每个部分都离不开通信，特别是无线通信。在铁路客运专线系统中，其三大核心技术包括机车组、列控和公务工程。作为列车与运营管理机构之间唯一的通信手段，无线通信技术是列控系统的关键技术，担负着提高运营效率、保障行车安全及乘客生命安全的重要使命。高铁中的无线通信系统必须具备高可靠性、体系完整等特点，以保证指挥列车运行的各种调度指令信息快速、准确地传递，也为设备维护、运营管理及旅客通信提供各种完善的服务。我国铁路系统自1950年代开始，就采用无线电进行铁路机车的调度通信。当时的通信系统很简单，是点对点单工模拟无线通信系统，能够满足基本公务需求，如列车调度、应急抢险、行车维修等。到 80 年代初期，利用对讲机或车载/固定电台，组成了无线电调度指挥系统。90年代，开始使用模拟集群系统，除了调度之外，还能进一步提供专网用户之间以及专网与公网用户之间的通信。但模拟通信技术的频谱利用率低、同频干扰严重，不利于新业务的展开。因此，2000 年以后，随着数字通信技术的发展，模拟集群系统逐渐发展成为数字集群通信系统。现有的能提供调度通信服务的数字专用移动通信系统包括欧洲的TETRA系统、摩托罗拉的iDEN系统、以色列的FHMA系统以及欧洲的GSM-R系统等。目前我国高铁利用窄带GSM-R系统，可以基本满足列车传统的运营和控制需求。但由于GSM-R只能提供几十k的传输速率，难以进一步支持如列车自动控制、视频监控、集装箱动态管理等先进的业务，更无法满足日益强烈的旅客的宽带多媒体业务需求。目前我国高铁在宽带无线通信上发展水平明显落后于其他国家。例如我国高铁极少能够提供宽带无线数据服务，而NTTBP（NTTBroadband Platform）已于2006年8月在日本筑波 Express 提供商业化无线数据服务，法国高铁 TGVLine EST 在 2007 年12 月以卫星技术对列车上乘客提供网络服务，日本新干线则在2009 年3月以WLAN无线上网技术提供列车上乘客数据服务。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "现在，通信已经成为社会不可或缺的功能，宽带无线通信更是现在的E社会进步到未来U社会²必不可少的技术。自20世纪80年代以来，由于科技的高速发展和人们生活水平的快速提高，移动通信技术取得了突飞猛进的发展。最开始的第一、二代移动蜂窝通信系统提供了方便的随时随地的无线语音服务。90 年代，随着互联网的出现，人们对无线数据通信的需求日益增强，因此第三代（3G：third generation）系统开始引入包括数据通信在内的移动多媒体服务。然而人们已经不满足于速率上限为2Mbps的3G，为此已经发展了被称为第“3.9代”的LTE（Long Term Evolution）系统，可提供高达300Mbps 的传输速率。而未来的第4代IMT-A（InternationalMobile Telecommunications-Advanced）系统目标是提供跟有线通信系统可比拟的，高达1Gbps 的高速通信。发展宽带无线通信技术对提高国家科技水平，促进经济发展，提高人民生活水平具有重要的意义。我国从3G开始，积极参与了移动通信技术的发展与标准化，提出了具有自主知识产权的国际标准TD-SCDMA（TimeDivision-Synchronous Code Division Multiple Access），并在基础上进一步发展为 3.9G 的国际标准TDD-LTE。而当前正在进行标准化的第4代宽带无线IMT-A系统更成为我国未来十年重点发展的科技项目。从目前全球3G网络运营情况看，高速数据业务已成为发展最为迅速的增值业务。流媒体、手机网络游戏、在线音乐、大容量下载等高速数据业务是3G业务的发展趋势。可以预见，随着高铁成为我国人民出行的主要交通工具，人们将对高铁上的宽带无线通信提出越来越高的需求。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "国际上发达国家已经为高铁宽带无线通信提出了一些解决方案。日本采用的是泄露电缆技术，能够提供稳定可靠的 2Mbps 传输速率，但其覆盖范围小，造价昂贵，安装要求高。法国采用的是卫星通信技术，其速率在1Mbps以下，而且易受干扰，费用高。另外澳洲采用的是WiMAX（Worldwide Interoperability for Microwave Access）技术，能在 $9 0 \\mathrm { k m / h }$ 的速度下提供6Mbps的速率，但尚处于初级阶段。可见，现有方案存在造价高，带宽有限，延时大等各种问题，并不能很好地满足高速铁路的宽带无线通信需要，究其根本原因是现有的无线通信系统都是针对低速环境（低于 $1 5 \\mathrm { k m / h }$ ）进行优化，一旦到了高速移动的环境，系统性能将急剧下降。从长远看，面向高铁宽带无线通信的需求，我们必须针对其高速移动，运行线路固定等特点，设计优化的宽带无线通信系统，为高铁的运营、控制，为旅客提供稳定，可靠，高质量的无线通信服务。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 高速铁路宽带无线通信现状",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "高速铁路等特殊场景下的高速数据通信一直是研究的热点问题之一。高速车载场景无线宽带通信的关键是车载到地面的无线传输对高数据传输速率和高移动性的支持。乌赫利尔兹（Uhlirz）在1994 年就提出了基于GSM 蜂窝移动通信系统的高速列车通信系统概念[1],GSM-R于2000年底被我国铁道部确定为铁路场景移动通信的解决方案之一，并发展成为覆盖全铁路干线的专用无线调度指挥通信系统。但GSM窄带通信系统不能满足宽带业务的需求。我国GSM-R通信系统的频率带宽仅有4MHz，传输速率成为制约GSM-R 提供宽带数据业务的主要因素之一。2004 年太田（Ohta）等采用 5GHZ 的无线局域网技术为高速移动列车中的用户提供移动无线接入业务[2]，但是漫游式的网络切换缺乏对高速移动性的支持。此外，克内泽尔（Knoerzer）等建立了高速铁路列车场景下的无线信道模型，证明了正交频分复用（OFDM，orthogonal frequency division multiplexing）是一种潜在可行的技术方案[3]。格瑞沃（Greve）等为实现为快速移动用户提供宽带业务，提出了一种网络结构FAMOUS[4]，将列车宽带无线互联网应用系统划分为接入网和汇聚网两部分，基于WiMAX标准和产品，设计了一种旅客列车宽带接入的快速网络恢复算法，增强了WiMAX技术对旅客列车接入的高速移动性支持。2005年2月英国 NomadDigital 公司开发的游牧数字铁路（NDR：NomadDigitalRail）系统可以为车载和地面之间提供最高达32Mbit/s 的双向宽带数据传输速率，稳定数据传输速率可保持在6Mbit/s，能够支持旅客的大文件传输和在线的视音频等娱乐服务[5]。基于 NDR 的优异性能，蜂窝移动运营商 T-Mobile 公司在伦敦——布赖顿的14 辆列车上安装配置NDR系统，为旅客提供商业化的宽带WiFi热点服务。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在我国，目前还主要是采用GSM-R蜂窝移动通信系统进行列车的调度和控制等。在大多数场景，列车上的用户还主要是通过自己的手机直接接入车外的基站，利用蜂窝移动运营商提供的2G和3G网络，实现必要的语音通信。数据业务开展还处于初步阶段，主要困难是传输速率和传输质量等问题。为了解决高速列车上的宽带数据业务问题，我国也开始有企业提出一些解决方案。例如中铁亿品传媒有限公司推出了列车数字电视系统，为旅客提供在线的无线连接和交互式的视频信息服务，这也是被铁道部正式认可的铁路旅客信息服务系统。总体来讲，在高速铁路等地面超高速移动环境下的宽带移动通信还处于发展的初期，尚未有一个高效可靠，性能优化的方案。其核心技术，如网络架构，资源管理和物理层技术等，还有很多问题需要探讨和解决。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 高速铁路宽带无线通信的挑战",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1宽带系统网络架构",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "高速铁路宽带无线通信通常有两种架构：单链接和双链接。在单链接架构中，基站和乘客的便携式终端直接通信。在这种通信方式下，客户的便携终端必须要处理多普勒频移问题，而且无线信号需要穿过车厢外壁，带来很大的传输损耗。在双链接架构中，车载移动通信分两步完成：一步是外部网络和车载",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/62bf7295553803968d6a25daf3466ca839eb5e9dc5d6ec9b84e77722b5c22466.jpg",
+        "img_caption": [
+            "图2.智能天线跟踪"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基站的通信；另一步是用户便携式终端和车载基站的通信。此时车载基站可以采用复杂的算法或者硬件电路解决信道衰落问题和多普勒频移问题，乘客的终端设备就可以尽量简单。高速车载场景无线宽带通信的关键是车载到地面的无线传输对高数据传输速率和高移动性的支持。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "我们认为，针对高速铁路应用场景，应采用带状网络进行覆盖。其中一个可行的技术就是智能阵列天线跟踪技术。天线阵列可自动调整方向，将建在高铁旁的接入点阵列天线的最强信号方向与列车上的接入点阵列天线的最强方向始终保持对接，从而可以提供很大的天线增益，构成很长的带型覆盖范围，减少该种专用接入设备的部署数量和切换次数，提供高质量高容量的高速无线接入。同时，为了避免用户的信号穿过车厢外壁造成的很大衰落，应采用基于异构协同的两层网络架构：第一层采用本文提出的物理层和媒体接入控制层协议，实现高速移动场景下的长距离高速通信；第二层是高速移动车体内部的通信，如高铁中用户",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "和相对静止的通信接入点（AP：AccessPoint）间的短程高速接入通信。为了解决长距离通信和短程高速接入通信间的速率和容量不匹配等问题，可采用多个接收节点来获得空间分集增益以提高长距离高速通信的传输性能；还要研究这种异构协同场景的组网技术关键问题，包括相应的节点选择、资源分配、功率分配等；同时也应从理论上分析异构协同通信理论性能。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d6f8b4a026874aeeb4245b1563af846dc8d8175afa1751a5d237bc28e9bccf6.jpg",
+        "img_caption": [
+            "图3.带状覆盖"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2新型媒体接入控制层无线资源管理算法研究",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "现有宽带无线通信系统中有多个媒体接入控制（MAC）层的重要机制不能有效应用到高铁环境。首先是随机接入控制和小区切换算法。由于其处理时延长，在超高速移动时，操作前后信道已经发生了很大的变化，使得根据操作前信道信息进行的处理已完全不能满足操作后信道的要求，造成随机接入控制和小区切换的失败，极大地降低了用户的体验和系统的性能。其次，现有MAC层的调度算法，大都基于准确的信道信息。在超高速移动时，一是准确的信道信息不易获得，二是由于处理时延，获得的信道信息已经不能准确反映信号传输时的信道状况。这样，传统的调度算法在超高速环境下使用，性能必然大幅下降。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因此，在MAC层资源管理方面，高铁宽带无线通信系统应侧重于快速可靠的随机接入控制算法和小区切换算法的研究，重点解决超高速移动场景下区分业务服务质量的随机接入算法、碰撞解决机制、无缝切换机制以及具有宏分集的切换算法，并给出切换触发、判决以及执行的具体设计方案。特别是有必要引入信道预测技术以降低实际系统中反馈误差对传输性能的影响，提高系统鲁棒性[6-7]。在此基础上，研究针对反馈误差的调度机制和抵消反馈误差引起的多用户干扰机制，进一步降低反馈误差的影响；同时，需要研究特定无线信道中的反馈机制，以有效利用反馈信道资源，降低反馈开销和反馈误差，提高系统性能。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3超高速移动宽带无线系统物理层空口技术",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "高铁的高速移动导致了信道快速衰落，为可靠的通信带来了极大的挑战。长久以来，人们对快速衰落及频率选择性信道下的无线通信系统进行了大量的研究。针对难以得到高速移动信道估计的问题，在快速衰落信道系统的研究中建立鲁棒的信道估计算法成为热点[8]。此外，不需要信道信息的非相关技术，如非相关编码调制，非相关多入多出（MIMO，Multiple",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Input and Multiple Output）[9]等，也是超高速移动下物理层的热选技术。另外一方面，现有的宽带无线系统多采用基于正交频分复用的空口，其抗多径干扰的特性在宽带系统中十分重要。但是正交频分复用对同步的要求很高，包括时域同步和频域同步。有了准确的时域同步，正交频分复用系统才能避免符号间干扰(ISI：inter-symbol interference)；在频域，正交频分复用对频率的偏差很敏感，频率偏差的来源包括发送接收端的载波偏差和快速移动带来的多普勒频移，会造成正交频分复用系统子载波间的干扰（ICI：Inter-carrier Interference orInter-channel Interference)，影响系统的性能[1o]。另外，也可采取子载波间干扰抵消的方法来克服频率偏差带来的影响[1]。子载波间干扰会造成误码率平底（error floor)，限制正交频分复用的性能。因此，正交频分复用系统中对超高速移动导致的子载波间干扰的分析和设计抗子载波间干扰机制一直是研究重点。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分析上述研究内容可见，针对超高速移动宽带无线系统的物理层空口技术研究传统上普遍集中于物理层本身的性能，极少考虑到物理层对其他层，特别是MAC 算法的影响。但事实上物理层空口技术的选择对MAC层算法有重大影响。如小区切换机制，在基于正交频分复用或码分复用（CDMA，Code Division Multiple Access）的系统里面是完全不同的。在对高铁宽带无线通信系统的研究中，为了在超高速移动下提供可靠的宽带无线通信，物理层空口技术的设计不光要保证本层的可靠通信，也要综合考虑对上层算法的影响。根据这个思路，从系统整体性能出发，我们提出了基于互补码的码分复用的正交频分复用空口技术（Complementary coded OFDM:CC-OFDM)。一方面正交频分复用在宽带无线通信中的优势已在实际系统，包括为中低速移动设计的LTE 宽带移动通信系统中得到了证实。LTE 被认为是将来最有潜力的宽带无线系统，然而它并非为超高速移动而设计。在设计超高速移动宽带无线通信系统的时候，有必要考虑其和现有宽带无线通信系统的兼容性，以简化用户移动端的设计，降低移动端设备的复杂度和费用，从而有利用于推动超高速移动宽带无线通信系统的发展。另一方面，码分复用允许系统进行小区软切换，带来宏分集效应，能够大幅改善超高速移动时小区切换的性能。此外，从互补码的研究可以知道，由于互补码的理想相关特性，基于互补码的码分复用具有抗多址接入干扰的特性，性能优于基于正交沃尔什（Walsh）码的码分复用系统。引入基于互补码的码分复用，在物理层可以利用互补码理想的相关特性，抵消部分频域子载波间干扰，在MAC层，则可采用基于互补码的随机接入来降低拥塞。因此，CC-OFDM是一个适合超高速移动宽带无线通信的有效方案。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "目前关于码分复用和正交频分复用结合空口技术的研究主要是基于正交沃尔什码的VSF-OFDM和BR-OFDM方案[12]。由于一直以来宽带无线通信主要关注中低速下的系统性能，现有研究大多数是在慢衰落的信道下展开。对于CC-OFDM在快速衰落下的性能研究还远远不够。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4总结 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "总体而言，高铁的高速移动带来了越区切换、多普勒频移、无线信道快速变换等一系列技术难题。为了设计适合高铁环境的宽带无线通信系统，首先要从网络层提出适用于地面超高速移动环境的线性异构协同网络架构；同时针对超高速移动的特点，在MAC层无线资源管理方面，特别是对随机接入、小区切换和资源分配等核心机制给出解决方案，并从系统整体性能出发，综合考虑MAC层的要求，在物理层应用新型的接入多址技术，以便更好地满足高铁高速移动的特殊场景需求。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] Uhlirz Markus，1994，Concept of a GSM-based communication system for high-speed trains, Proceeding of IEEE $\\mathcal { 4 } \\mathcal { 4 } ^ { t h }$ Vehicular Technology Conference, Sweden, pages: 1130-1134.   \n[2] Ohta Gen-ichiro，Kamada Fumitaka, Teramura Nobuyasu，Hojo Hiroshi， 2O04，5GHz WLAN verification for Public mobile Applications-Internet newspaper on train and advanced ambulance car. First IEEE Consumer Communications and Network Conference, pages: 569-574.   \n[3] Knoerzer.S.,J.Maurer,S.Vogeler, K.-D.Kammeyer,W. Wiesbeck,2Oo5,Channel Model for a High-Speed Train OFDM Communication Link Supporting High Data Rates,Proceeding of the ${ 5 ^ { t h } }$ （20 international Conference on ITSTelecommunications 2oo5,France,pages: 333-336.   \n[4] Greve F. De,Lannoo B., Peters L.，et al.， 2005,FAMOUS: network architecture for delivering multimedia services to fast moving users,Wireless Personal Communications, Vol. 33.No.3, pages: 281-304   \n[5] http://www.uknomad.com/   \n[6] Shirani-Mehr Hooman,Liu Daniel N., Caire Giuseppe,2Oo8,Channel State Prediction Fedback and Scheduling for a Multiuser MIMO-OFDM Downlink,Proceedings of 42th Asilomar Conference on Signals,Systems,and Computers,pages: 136-140.   \n[7] Min Changkee, Chang Namseok, Cha Jongsub,and Kang Joonhyuk, 2007, MIMO-OFDM Downlink Channel Prediction for IEEE802.16e Systems Using Kalman Filter,Wireless Communications & Networking Conference,Hong Kong, pages: 942-946.   \n[8] Ricklin N.and Zeidler J.，2Oo8,Data-aided joint estimation of carrier frequency offset and frequency-selective time-varying channel,Proceeding of IEEE ICC,pp.5098 - 5102.   \n[9] Gao Feifei, Cui Tao,Nallanathan A.,and Tellambura C.,2Oo8,Maximum likelihood detection for differential unitary space-time modulation with carrier frequency offset, IEEE Trans. Commun., Vol. 56, pp. 1881-1891.   \n[10] Fang K.，Rugini L.，andLeus G.，2Oo08,Low-Complexity Block Turbo Equalization for OFDM Systems in Time-Varying Channels,IEEE Trans. Signal Processng,Vol.56,pp.5555-5566.   \n[11] Idris A., Dimyati K.,and Yusof S.K.S.,2Oo08,Interference Self-Cancellation Schemes for Space Time Frequency Block Codes MIMO-OFDM system,IJCSNS International Journal of Computer Science and Network Security, Vol.8 No.9,pp.139-148.   \n[12]Zhou Y.，Wang J.，and Sawahashi M.，2Oo5，Downlink transmission of broadband OFCDM systems---Part I: Hybrid Detection,IEEE Trans. Commun., vol. COM-53, no.4, pp.718-729. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "作者简介：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "周一青： 中国科学院计算技术研究所无线通信技术研究中心研究员zhouyiqing @ict.ac.cn周恩: 中国科学院计算技术研究所无线通信技术研究中心 助理研究员田霖: 中国科学院计算技术研究所无线通信技术研究中心 助理研究员石晶林： 中国科学院计算技术研究所无线通信技术研究中心 研究员",
+        "page_idx": 5
+    }
+]

@@ -1,0 +1,373 @@
+[
+    {
+        "type": "text",
+        "text": "Sandwich-structured graphite-metallic silicon@C nanocomposites for Li-ion batteries ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zixu Suna, Guangjin Wangb, Tingwei Caia, Hangjun Yinga,Wei-Qiang Hana,c,\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a Ningbo Institute of Materials Technology $\\boldsymbol { \\varepsilon }$ Engineering,Chinese Academy of Sciences,Ningbo 315201,People's Republic of China bCollegeofChemistryandMaterialsScience,Hubei Engineering UniversityXiaogan432oo,People'sRepublicfCina CSchoolof Materials cienceand Engineering,Zhejiang University,Hangzhou 310027,People's Republicof China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLEINFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nMetallic silicon   \nhigh electronic conductivity   \nlithium-ion battery   \ncarbon coating   \nsandwich-structured ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this work,we synthesize a sandwich-structured graphite-metallic silicon $@ C$ $\\scriptstyle ( \\mathbf { M S - G } @ C )$ composite, which shows good electrochemical performance compared to metallic silicon or graphite-metalic silicon.The improved electrochemical performance may be ascribed to the sandwich structure of the composite with the carbon coating on metallic Si and to the metallic Si particles with high electronic conductivity according to the results of four probe tester measurement and a density functional theory study.When evaluated as an anode material for LIBs,the low cost Ms $G @ C$ anodes Exhibit $8 3 0 \\mathrm { m A h g ^ { - 1 } }$ at 0.5 C, $6 5 0 \\mathrm { m A h g } ^ { - 1 }$ at 1 C,and $2 5 1 . 2 \\mathrm { m A h g ^ { - 1 } }$ at ${ } _ { 5 C , }$ respectively,and after 1oo cycles with an average capacity loss of only $0 . 0 2 \\%$ per cycle at $0 . 5 { \\mathsf { C } } .$ .The synthetic method presented in this paper is provided a facile and low-cost strategy for the large-scale production of silicon-based material as an anode in LIBs. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Secondary Li-ion batteries are promising energy storage sources for many aspects of applications,such as portable electronic devices,electric vehicles (EVs)，and stationary grid storage[1-3].To meet the increasing energy density requirements of the EVs,many materials with high energy density,high power density and long cycle life are extensively studied [3-5].Among those materials,Silicon-based materials are promising candidates to substitute currently commercialized graphite anodes due to their safety, natural abundance,relatively low discharge potential $( < 0 . 5 \\mathsf { V } )$ ,and high theoretical specific capacity of $4 2 0 0 \\mathrm { m A h g ^ { - 1 4 } }$ which is 1O times higher than that of graphite $( 3 7 2 \\mathrm { m A h g ^ { - 1 } }$ [6-8]. However,Si suffers from huge volume expansion/contraction $( > 3 0 0 \\% )$ during lithiation and delithiation processes,leading to the pulverization and electrical disconnection of Si particles,unstable solid electrolyte interface (SEI) film formation and thus poor cycle life of the electrode [9].Furthermore,poor electronic conductivity of Si results in inferior rate performance and severe capacity fade, whereas lithium ions remain irreversibly trapped into the Si electrodes [10]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In order to solve the above issues,several approaches have been proposed,including using:（1）new binders to prevent silicon particles falling off from the current collector[11-13];(2) carbon coating[14-17];(3） inactive composite materials as a buffer to cushion the volume change and enhance electronic conductivity [18-23];(4) nanoscale size of the Si particles [24-26]; (5) porous structure [27-31]; (6) new electrolyte additive [32];(7) capacitylimited cycling[33];(8) artificial SEI film [34].For example,Chang et al.reported a novel multilayered Si nanoparticle/Reduced Graphene Oxide(RGO) architecture[19].This composite showed excellent electrochemical performance with high reversible specific capacity,superior capacity retention during cycling. Kim et al.synthesized Si nanoparticles with various particle sizes using reverse micellesat high pressure and temperature[24].They found that Si particles with $1 0 \\mathrm { n m }$ in size exhibited lower Coulombic efficiencythan thatof $2 0 \\mathrm { n m }$ in size.Cui etal.showed a hierarchical pomegranate structured silicon anode,resulting in high Coulombic efficiency and volumetric capacity [31]．However, the rate performance and cycle performance of $\\mathrm { S i } /$ carbon composites were still unsatisfied due to the intrinsic poor electronic conductivity of Si,and should be further improved for commercialization. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Due to its high electronic conductivity and low cost,metallic Si (MS）has been used to prepare silicon-based electrode [35]. However,in their fabrication processes,strong corrosive HF as etching agent, ${ \\mathrm { H N O } } _ { 3 }$ and $\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }$ were inevitably used,the yield of porous silicon in this article was only $30 \\%$ ,the particle size of the silicon wasabout $1 \\mu \\mathrm { m }$ ,which couldbe brokenandpeel off from the current collector due to $\\mathrm { L i } ^ { + }$ insertion intoanddeinsertion from Si electrodes，leading to rapid capacity decay，and most importantly,the lithium storage property using metallic silicon is still not satisfactory and can't meet the requirements for the practical application.In this work,we develop an efficient approach to synthesize a sandwich-structured graphite-metallic silicon $@ { \\mathsf { C } }$ $\\left( \\mathsf { M S - G @ C } \\right)$ composite via high-energy ball-milling of graphite and metallic silicon (MS),and then coating with carbon layers using sucrose as carbon source.Benefited from the trace elements in MS matrix,it has relatively high electronic conductivity which can improve rate performance of silicon-based electrode. When evaluated as an anode material for LIBs,the low cost MS$G @ C$ anode exhibits a high specific capacity of $8 3 0 \\mathrm { m A h g ^ { - 1 } }$ at 0.5 C, $6 5 0 \\mathrm { m A h g ^ { - 1 } }$ at 1 C,and $2 5 1 . 2 \\mathrm { m A h g ^ { - 1 } }$ at 5C respectively. Moreover, it shows an outstanding capacity retention capability with an average capacity loss of only $0 . 0 2 \\%$ per cycle at $0 . 5 { \\mathsf { C } } .$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Experimental details ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Synthesis ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The ${ \\mathrm { M S - } } G @ C$ composite was synthesized using high energy mechanical ball milling（HEMB） followed by sucrose pyrolysis based carbon coating.First,bulk MS using ethanol as dispersing agent was milled using HEMB at the speed of $3 5 0 \\mathrm { r p m }$ for $7 0 \\mathrm { h }$ Then,the milled MS mixed with graphite with a weight ratio of 25:35 was milled for another $^ { 2 \\mathrm { h } }$ at the speed of 200 rpm. $0 . 3 { \\mathrm { g } }$ of sucrose was dissolved in $1 0 \\mathrm { m L }$ of deionized water to form a homogeneous solution. $0 . 7 { \\mathrm { g } }$ of MS-G was added the solution and stirred to dry, then, the mixture was thermally treated at $7 0 0 ^ { \\circ } \\mathsf C$ for $6 \\mathrm { h }$ under high purity argon atmosphere with a ramping rate of $5 ^ { \\circ } { \\mathsf { C } } \\operatorname* { m i n } ^ { - 1 }$ and an Ar flow rate of $1 5 0 \\mathrm { m L } \\mathrm { m i n } ^ { - 1 }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Characterization ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In order to identify the content of MS in the composite,thermal gravimetric analysis (TGA)has been performed for MS and the composite under air in a TGA machine (Pyris Diamond) employing at a heating rate of $1 0 ^ { \\circ } { \\mathsf { C } } \\operatorname* { m i n } ^ { - 1 }$ .The composite was determined by X-ray diffraction (XRD）which was carried out using an AXS D8 Advance Diffractometer in the range of $2 \\Theta = 1 0 - 9 0 ^ { \\circ }$ .The content of the trace elements in the MS matrix was determined by X-ray fluorescence spectrometry (XRF). The microstructure and morphology of the composite were characterized using a Hitachi S4800 field emission scanning electron microscope (SEM) and a FEI Tecnai G2 F2O transmission-electron microscopy（TEM）at an acceleratingvoltage of $2 0 0 \\mathrm { k V }$ The BET specific surfaceareawas analyzed using ${ \\sf N } _ { 2 }$ absorption using an ASAP $2 0 2 0 \\mathbf { M }$ Raman measurements were carried out at room temperature using a Renishaw invia Reflex spectrometer equipped with micro-optics. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.Electrochemistry test ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Toevaluate the electrochemical performance,the electrodes were fabricated using the mixture made up of $8 0 \\mathrm { w t \\% }$ active material, $10 \\mathrm { w t \\% }$ acetylene black and $10 \\mathrm { w t \\% }$ carboxymethyl cellulose (CMC).Lithium metal was used as the counter and reference electrode.The electrolyte was composed of a $1 \\mathrm { m o l } \\mathrm { L } ^ { - 1 }$ $\\mathrm { L i P F } _ { 6 }$ solution in fluoroethylenecarbonate(FEC)， dimethyl carbonate(DMC)and ethyl methyl carbonate(EMC) in 1:1:1 $( \\mathsf { v } / \\mathsf { \\Lambda }$ $\\mathbf { v } / \\mathbf { v } )$ ratio.2o32Coin cellswere assembled ina glove box filled with high-purity argon.The charge-discharge measurement of the cells was conducted on a LAND CT2ooo battery test system in a voltage range of $0 . 0 1 \\mathrm { - } 1 . 5 \\mathrm { V }$ (vs $\\mathrm { L i ^ { + } / L i }$ .The cyclic voltammetry experiments were carried out on a CHi66O Electrochemical Workstation (Shanghai Chenhua） in the potential window from O.01 to $1 . 5 \\mathrm { V }$ (vs. $\\mathrm { L i ^ { + } / L i } )$ at a scan rate of $0 . 0 5 \\mathrm { m V s } ^ { - 1 }$ .EIS was carried out using a Solartron 147OE Electrochemical Interface (Solartron Analytical, UK） electrochemical workstation at $2 5 ^ { \\circ } \\mathsf { C }$ with the frequency rangingfrom1MHz to $0 . 0 1 \\mathrm { H z }$ and AC signal of $1 0 \\mathrm { m V }$ inamplitude as the perturbation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.S1 shows schematic illusion of the formation of the composite.The TGA curves obtained from the samples are shown in Fig.1a and Fig.S3.From the curves of the as-prepared MS,MS-G, andMS- $G @ C$ composites,we can calculate that the weight of MS in the MS-G,and ${ \\mathrm { M S - } } G @ C$ composites is about $71 \\%$ $3 6 \\%$ ,respectively. Fig.1b presents the XRD patterns of the milled MS,the milled MSG,and MS- $G @ C$ Asseenin Fig.1b,the diffraction peaks from Si are very strong and can be assigned as the face-centered-cubic (fcc) Si phase.No peaks from metals can be found because the metals in silicon matrix are within trace level.There are no obvious differences between MS-G and the ${ \\mathrm { M S - } } G @ C .$ 、Fig.S2 shows the nitrogen adsorption-desorption isotherms of the ${ \\mathrm { M S - } } G @ C$ composite analyzed by the Barrett-Joyner-Halenda(BJH) method,and the Brunauer-Emmett-Teller(BET） specific surface area of the ${ \\mathrm { M S - } } G @ C$ composite is $6 9 . 6 \\mathrm { { m } } ^ { 2 } \\mathrm { { g } } ^ { - 1 }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Raman spectroscopy is employed to identify the detailed structures of the MS and MS- $G @ C$ composites (Fig.2).As shown in Fig.2,the peaks at 1350 and $1 5 8 0 \\mathrm { c m } ^ { - 1 }$ correspond to the D and G bands of carbon materials,respectively.The ratio of the intensities between the D and G bands,which represents the defect quantity for the MS- $G @ C$ composite,is 1.2.In Fig.2,MS nanoparticles show a peak at $5 1 5 { \\mathrm { c m } } ^ { - 1 }$ ,while the ${ \\mathrm { M S - } } G @ C$ composites show a lower intensity.X-Ray Fluorescence (XRF) is conducted to determine the content of the trace elements in MS matrix,as shown in Table 1. The elements in MS matrix are mainly Cu and Fe with the mass percentage of $0 . 4 4 1 \\%$ and $0 . 4 3 2 \\%$ ，respectively,and also other elements,Mn,Cr,V,etal.The electronic conductivityof MS could beimproved by the doping effect of those trace metal elements in MS matrix.Four probe tester result confirmed that the electronic conductivity of MS is $8 . 8 9 \\times 1 0 ^ { - 5 } \\mathsf { S c m } ^ { - 1 }$ ，which is much higher than intrinsic Si $( 4 . 3 2 \\times 1 0 ^ { - 6 } \\mathrm { S c m } ^ { - 1 } )$ ）and that in the reported literature [36].It is anticipated that the enhanced electronic conductivity can improve the rate performance of silicon-based anodes. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/881315dd31c206310521e879e471395c7a176ee0d68c21cc45c3428f70096db9.jpg",
+        "img_caption": [
+            "Fig.1.(a) TGA curves of MS nanoparticlesand the MS- $G @ C$ composite.(b)X-ray diffraction patterns of the milled MS,the milled MS-G and Ms- $\\cdot G @ C$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/910cf38b1db6293c40205dac99e2305838152886bf1675318f82d854a558b888.jpg",
+        "img_caption": [
+            "Fig.2.Raman spectra of MS and the MS- $\\mathbf { \\mathcal { G Q } } \\mathbf { \\mathcal { Q } } \\mathbf { \\mathcal { C } }$ composite. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.3a shows the photograph of the bulk MS.From the photograph,we can see that the MS has some metallic luster due to some trace metal elements in MS matrix,and then leads to the improvement of the electrochemical performance of the siliconbased anode materials.The uniform particle-size distribution of the milled MS is confirmed by SEM(Fig.3b),which shows that the size ofMS particles isaround $1 5 0 \\mathrm { n m }$ in diameter.After the carbon coating,as shown in Fig.3c and 3d, the particles of the ${ \\mathrm { M S - } } G @ C$ composite are aggregated together,and the size of ${ \\mathrm { M S - } } G @ C$ particles is larger than those of MS nanoparticles.Fig.4 shows the TEM images of the as-obtained MS-G@C composite.From the HRTEM image in Fig.4b,the lattice fringe is about $0 . 3 1 \\mathrm { n m }$ = corresponding to the d spacing values of(111）plane of cubic Si. The electron diffraction pattern comprises several bright concentric rings (Fig.4c)，indicating that these Si nanoparticles are polycrystalline. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Asconfirmed by XRF measurements,Fe and Cu are the two majorimpurities in the MS matrix,with impurity concentrations of around $0 . 4 3 2 \\%$ and $0 . 4 4 1 \\%$ ，respectively. From the result of the Four-probe tester measurement,the electronic conductivity of silicon is increased.For exploring the origin of enhanced electronic conductivity,a density functional theory study is carried out. Combined with the previous literature[37],an adjacent position in Si bulk is simultaneously replaced by Fe and Cu atoms.After relaxed,a serious structural distortion is found in this modified crystal structure,as shown in Fig.S4b.And then,Feand Cu atom are jointly used for substituting the Si atomat the tetrahedral sites of Si bulk,as show in Fig.5a.The calculation results show the relaxed structure of this modified crystal structure is similar with thepure Si bulk (Fig.S4a).On the basisof the relaxed modified crystal structure(Fig.5a)and Si bulk,their electronic structures are calculated and presented in Fig.5b.It is observed that Si bulk exhibits a semiconductive characteristic with a band gap of $0 . 6 0 2 \\mathrm { e V }$ ，which is in agreement with the previous calculation results [37].After substituted,the electronic structure of the modified crystal structure is changed into metallic characteristics. This change is beneficial for charge transfer between electrode materials and current collector. Theoretical calculations together with structural analyses declare that the reason for the enhanced activity may be ascribed to the modified crystal structure by the local atomic structure modulations. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.6 shows the first charge-discharge curves and cycle life performance of MS,MS-G,and MS- $G @ C$ between 0.01 and $1 . 5 \\mathrm { V }$ at a current density of $2 0 0 \\mathrm { m A g } ^ { - 1 }$ .As shown in Fig.6a-c,the first charge has a long plateau around $0 . 1 \\mathrm { V }$ ,which corresponds to the lithiation of pure crystalline Si,and the charge plateau of Si after carbon coatingapparently decrease,which demonstrates that the carbon coating is conducive to reduce the impedance.The first charge capacities of MS,MS-G,and MS- $G @ C$ composite are 2195.8, 1068.3,and $1 0 4 0 \\mathrm { m A h g ^ { - 1 } }$ (Fig.6a-c),respectively. The ${ \\mathrm { M S - } } G @ C$ composite shows best capacity retention capability after 8O cycles (Fig.6d) compared to the others,which could be attributed to the carbon coating because it could minimize the direct contact between the Si and electrolyte and promote the formation of a stable SEI layer on the surface of the Si anode.Fig.S5 shows the Coulombic efficiencies for MS,MS-G and MS-G@C.The reason for the low Coulombic efficiency in the first cycle of MS is huge volume expansion/contraction $( > 3 0 0 \\% )$ ,leading to the pulverization and electrical disconnection of Si particles and unstable solid electrolyte interface film formation.As forMS-Gand MS- $G @ C$ electrodes, apart from the above side reactions,lithium ions remain irreversibly trapped into the carbon materials,which results in the low Coulombic efficiency in the first cycle.It has been reported that bare Si particles undergoing Li alloying and dealloying reactions are continually exposed to the electrolyte due to the recurrent generation of new active surfaces that are previously passivated by stable surface films,accelerating capacity fade [28,38-40]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.7a displays the cyclic voltammogram(CV） profiles of the ${ \\mathrm { M S - } } G @ C$ composite in a potential window of 0.01-1.5 V (vs. $\\mathrm { L i ^ { + } / L i } )$ （204号 at a scanning rate of $0 . 0 5 \\mathrm { m V s } ^ { - 1 }$ for the first 4 cycles.In the first half-cycle,a broad cathodic peakat around $0 . 8 \\mathrm { V }$ could be ascribed to the formation of a SEI film and the decomposition of electrolyte. This peak disappearsunder the subsequent cycles meaning that no new SEI film forms under subsequent process.Another cathodic peak appearsat around $0 . 2 5 \\mathrm { V }$ and becomes very large below $0 . 1 \\mathrm { V }$ which could be attributed to the reaction of between $\\mathrm { L i ^ { + } }$ and Si to form $\\mathrm { L i } _ { \\mathrm { x } } \\mathrm { S i }$ alloys,as described in Eq.(1): ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S i } + \\mathrm { x L i ^ { + } + x e ^ { - } { \\longleftrightarrow } L i _ { x } S i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "After the first cycle,there are two much broader cathodic peaks at around $_ { 0 . 0 5 \\mathrm { V } }$ and $0 . 2 5 \\mathrm { V }$ ，which could correspond to the lithiation of amorphous Si.In the first anodic process,two broader anodic peaksat O.38 and $0 . 5 \\mathrm { V }$ correspond to the extraction of ${ \\mathrm { L i } } ^ { + }$ from $\\mathrm { L i } _ { \\mathrm { x } } \\mathrm { S i }$ alloys,as described in Eq.(2): ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/726b4d0f1668e86cdd17ff3298f5fc812d8ec25fd71e388883c7e5257ae1da78.jpg",
+        "table_caption": [
+            "Table 1 The content of the trace element of MS. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Element</td><td>Cu</td><td>Fe</td><td>Mn</td><td>Cr</td><td>V</td><td>Co</td><td>Mg</td><td>P</td><td>Zr</td><td>Mo</td><td>S</td><td>K</td></tr><tr><td>Content (mass%)</td><td>0.441</td><td>0.432</td><td>0.095</td><td>0.074</td><td>0.025</td><td>0.018</td><td>0.015</td><td>0.015</td><td>0.008</td><td>0.007</td><td>0.006</td><td>0.004</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d429f0a384440a7bcf08d25ba362aa1e23fa8714bd121b991f578ee48915c669.jpg",
+        "img_caption": [
+            "Fig.3.(a)the photograph ofbulk MS,SEM microscopy imageof(b)the miled MS,(c)the milled MS-G,(d) MS-G@C. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0366e4a8c74170945c654d25935e60847f9af724bae896e18ecf5b4b46d464f8.jpg",
+        "img_caption": [
+            "Fig.4.(a)TEMimageofobtainedMS-G@C,(b)Hig-resolutionTEMimage,(c)selectedareaElectronDifractionSpectroscopy(SAED) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { \\ L i _ { x } S i {  } S i + x L i ^ { + } + x e ^ { - } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The intensity of the anodic peak increases after the first cycle indicating improvement of Li extraction kinetics.CV behavior presents remarkablyrepeatable shapes after the first cycle demonstrating high reversibility of the charge/discharge process, which is consistent with the cycle capability of the composite.As shown in the CV measurements (Fig.S6), the electrodes composed of the milled MS,and the milled MS-G composites show severe capacity fading and loss of kinetics with cycling,demonstrating the deterioration of the composite structures upon repeated lithium ion insertion and extraction. The rate capability of the ${ \\mathsf { M S - G @ C } }$ composite anode is presented in Fig.7b.The ${ \\mathrm { M S - } } G @ C$ composite could deliver a high specific capacity of around $8 3 0 \\mathrm { m A h g } ^ { - 1 }$ $6 5 0 \\mathrm { m A h g } ^ { - 1 }$ ,and $2 5 1 . 2 \\mathrm { m A h g } ^ { - 1 }$ at a current density of O.5,1,and 5 Crespectively.Moreover,it exhibitsa superior capacity retention capabilitywithanaverage capacity loss of only $0 . 0 2 \\%$ per cycle at ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "0.5Cafter 1OO cycles,which is much better than the reported silicon-based anodes [41]. Fig.7c shows charge/discharge profiles of the ${ \\mathrm { M S - } } G @ C$ electrode at different current densities.With increasing the charge/discharge current density，the charge potential decreases and the discharge potential increases due to kinetic effects of the material,rendering higher over potential. Finally,Fig.7d compares the rate performance of the ${ \\mathrm { M S - } } G @ C$ composite in this work with those of reported silicon-based electrodes for lithium-ion storage including (graphene-wrapped silver-porous silicon composite [28],silicon nanoparticles inserted into graphene sheets [42],core-shell Si-N-doped C composite [43], double-walled silicon nanotube composite [44],3D porous $\\mathsf { S i N P } /$ conductive polymer hydrogel composite [45]，multilayered Si nanoparticles/reduced graphene oxide hybrid [46]，Si-based multicomponent [47]).It is obvious that the rate capability of the MS- $G @ C$ composite is better than those of the silicon-based electrodes reported [41,48].The improved cycling stability and rate capability of the MS-G@C composite are attributed to the synergistic effect of some trace metal elements in MS matrix and the carbon coating. The main contribution of the trace metal elements in MS matrix is to improve the intrinsic electrical conductivity ofSiandto facilitatefastintercalation of ${ \\mathrm { L i } } ^ { + }$ into Si to improve the rate performance at high current densities,whereas the main contribution of the carbon coating also can increase the electrical conductivity of Si and protect the electrode from the direct contact with electrolyte，preventing the formation of unstable SEI film on the surface of MS particles and leading to enhanced cycle life of the batteries.In addition,the carbon coating can also buffer the substantial volume change of MS particles caused by lithium ion insertion/extraction as well as prevent the MS nanoparticles aggregation,ensuring the structural integrity of the electrode.The EISof the MS- $G @ C$ electrode is measured to find the reason for the good rate capability and the improved cycling performance of silicon-based anodes (Fig.8).The frequency range isset between $1 \\mathrm { M H z }$ and $0 . 0 1 \\mathrm { H z }$ ,and EIS is carried out on the sample afterbeingcharged to $1 . 5 \\mathrm { V }$ at $0 . 0 5 { \\mathsf C }$ in the $1 ^ { \\mathrm { t h } } , 2 ^ { \\mathrm { t h } } , 5 ^ { \\mathrm { t h } } , 2 0 ^ { \\mathrm { t h } }$ and $5 0 ^ { \\mathrm { { t h } } }$ cycle，respectively.From Fig.8，we can see that the Nyquist plots showa depressed semicircle at high frequencyand a straight line at low frequency. The diameter of the depressed semicircle corresponds to the resistance of the SEI and the chargetransfer process,while the straight line represents the diffusion of lithium ion in the ${ \\mathrm { M S - } } G @ C$ electrode.It can be seen that there is evena slight decrease in charge-transfer resistance after 50 charge-discharge cycles,indicating a robust structure of the as-prepared electrodes and the good reaction kinetics,which is consistent with the good cycling stability of the ${ \\mathrm { M S - } } G @ C$ composite.As shown in the EIS measurements (Fig.S7),a distinct increase in the resistance is observed for the milled MS and the milled MS-G composites,demonstrating the deterioration of the composite structures upon repeated lithium ion insertion and extraction.Fig.S8 shows the equivalent electrical circuit of the electrodes. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6330b7f2f0ebb594a63393059a20303fc3146a741f553a98671b0683af36126.jpg",
+        "img_caption": [
+            "Fig Cu co-doped silicon. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/68b874d35d37804ab0618b271cd94587ac555e415ece87d9dc35827951357190.jpg",
+        "img_caption": [
+            "Fig.6.Charge/discharge profiles of(a) MS,(b) MS-G,(c) MS $G @ C$ in the first cycle. (d) Cycling performance of MS,MS-G and MS- $G @ C$ at a current of $0 . 0 5 C$ (based on the weightof the total electrode, $1 { \\mathsf { C } } = 2 0 0 0 { \\mathsf { m A g } } ^ { - 1 }$ ,the theoretical specific capacities of MS,MS-G are over $2 0 0 0 \\mathrm { m A h g ^ { - 1 } }$ .To ensure the same current density of the three electrodes and be convenient calculation,in this paper we set $1 { \\mathsf { C } } = 2 0 0 0 { \\mathsf { m A g } } ^ { - 1 } .$ 0.The coating thickness and coating density of the electrode are $2 2 \\mu \\mathrm { m }$ and $0 . 7 \\mathrm { m g } \\mathrm { c m } ^ { - 2 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/708fef75d1c9739a6d200af664f048aed2b435b1a1999873d4720e48a527b43c.jpg",
+        "img_caption": [
+            "Fig.7. (a)Cyclic voltammogram of the1st to 4th cycle of the as-prepared MS- $G @ C$ composite between 0.01 to $1 . 5 \\mathrm { V }$ (vs. $\\mathrm { L i ^ { + } / L i } )$ at a scanning rate of $0 . 0 5 \\mathrm { m V s ^ { - 1 } }$ (b) Cycling performanceof ${ \\mathrm { M S - } } G @ C$ at various current densities,cycled between O.01 and $1 . 5 \\mathrm { V }$ VS $\\mathrm { L i ^ { + } / L i } .$ (c) Charge/discharge profiles of the MS- $G @ C$ electrodeat different current densities.(d) Comparison of the rate capacity of the Ms- $G @ C$ composite with silicon-based materials (based on the weight of Si). "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This demonstrates that the combined action of carbon coating, nanostructure and the high electronic conductivity of MS could significantly promote electron transport and lithium ion diffusion, and thus exhibit good electrochemical performance.In order to understand the effect of cycling on the morphology of the MS- $G @ C$ composite,the half cells are disassembled ina charged state after 50cycles for SEM analysis.Fig.9 shows that no obvious morphology changes can be observed after 5O cycles,and no cracks could be observed on the composite.However,in contrast to Fig.9a,the average diameter of the composite appears a little increase because of the formation of SEl film and the volume expansion.Fig. S9 shows Cross-secotion images of the MS-G@C anodes before and after 1Oo cycles at a current density of $5 0 \\mathrm { m A g ^ { - 1 } }$ .With over $300 \\%$ volume expansion due to Li-Si alloying, Si can agglomerate.Eventually the MS- $G @ C$ composite does not degrade because of overall structural stability.Therefore，the concrete structure of the ${ \\mathrm { M S - } } G @ C$ composite can accommodate the volume change of Si, demonstrating the good rate capability and cyclability. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8ce42cbe125f942267192e01ed479fae04ba758b43003c7dbfa10797863aa9e5.jpg",
+        "img_caption": [
+            "Fig.8.Nyquist plots of the electrodes of the MS- $G @ C$ after1,2,5,20 and 50 chargedischarge cycles at $_ { 0 . 0 5 C }$ ,obtained after charging to $1 . 5 \\mathrm { V }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The excellent electrochemical performance of the MS-G@C composite could be attributed to the following factors.（1）The nanostructured particles can effectively decrease the transport/ diffusion length of electronsand lithium ions,provide high contact area between the active material and electrolyte,and alleviate the large strain of Si caused by lithium ion insertion/extraction.(2) MS hasrelatively high electronic conductivity,resulting ina good rate capability.(3) The graphite network and the outside carbon coating layer not only can improve the electrical conductivity of the composite and accommodate the mechanical stresses/strains caused by ${ \\mathrm { L i } ^ { + } }$ insertion/extraction,but also can maintain a stable SEI layer by protecting the electrode from the direct contact with electrolyte.Thus,theadvanced structural design providesa highly conductive network and prevents Si pulverization during cycling, resulting in superior electrochemical performance. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/45cb7f037a9075d895296f8565a31434d2a0bd19a589eb419702cb36f3875298.jpg",
+        "img_caption": [
+            "Fig.9.SEM microscopy images of the MS- $G @ C$ composite before(a)and after (b) 5O charge-discharge cycles. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In summary, the ${ \\mathrm { M S - } } G @ C$ composite is prepared by a ballmilling process and further modified by carbon layers.The obtained sandwich-structured MS- $G @ C$ composite exhibits a high reversible capacity $( 8 3 0 \\mathrm { m A h g ^ { - 1 } }$ at O.5C)，a remarkable rate capability (a reversible capability of 65O and $2 5 1 . 2 \\mathrm { m A h g } ^ { - 1 }$ at 1 and 5C,respectively)，and a superior cycling stability(a high reversible capacity of $1 7 0 0 \\mathrm { m A h g ^ { - 1 } }$ after100 cycles at $_ { 0 . 5 C }$ with only $0 . 0 2 \\%$ capacity decay per cycle).The improved electrochemical performances could benefit from the advanced structural design,which provides a highly conductive network and prevents Si pulverization during cycling.The preparation strategy of the composite is straight forward and the rawmaterials areabundant and low cost.On the basis of these results,itis believed that the composite has a potential for use as a promising anode material for Li-ion batteries. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This work was financially supported by the“Strategic Priority Research Program”of the Chinese Project Academy of Science (Grant no.XDA09010201), the National Natural Science Foundation of China (Grant no.51371186),the National Nature Science Foundation of China(Grant no.21303236),Ningbo 3315 International Team of Advanced Energy Storage Materials,Zhejiang Province Key Science and Technology Innovation Team (Grant no.2O13TD16)，Ningbo Natural Science Foundation (Grant no. 2014A610046). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Appendix A.Supplementary data ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Supplementary data associated with this article can be found，in the online version，at http://dx.doi.org/10.1016/j. electacta.2016.01.067. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]V. Etacheri,R.Marom,R. Elazari, G.Salitra,D.Aurbach, Challenges in the development of advanced Li-ion batteries:a review, Energy & Environmental Science 4 (2011) 3243.   \n[2] M.N. Obrovac, V.L. Chevrier, Alloy Negative Electrodes for Li-Ion Batteries, Chemical reviews 114 (2014) 11444-11502.   \n[3] Z.Sun, C. Cao,W.-Q. Han, A scalable formation of nano-SnO2 anode derived from tin metal-organic frameworks for lithium-ion battery, RSC Advances 5 (2015) 72825-72829.   \n[4] M. Moradi, Z.Li,J. Qi,W. Xing, K. Xiang, Y.-M. Chiang, A.M. Belcher, Improving the Capacity of Sodium Ion Battery Using a Virus-Templated Nanostructured Composite Cathode,Nano Letters 15 (2015) 2917-2921.   \n[5] X.Li,J. Liang, K. Zhang,Z. Hou, W. Zhang, Y. Zhu, Y. Qian, Amorphous S-rich S1- xSex/C $\\mathrm { \\Phi } _ { \\mathrm { { . } } } \\mathrm { \\Phi } _ { \\mathrm { { . } } } \\mathrm { \\Phi } _ { \\mathrm { { . } } } \\mathrm { \\Phi } _ { \\mathrm { { . } } } \\mathrm { \\Phi } _ { \\mathrm { { . } } }$ .1) composites promise better lithium-sulfur batteries in a carbonate-based electrolyte, Energy Environ. Sci. (2015).   \n[6] J.-I. Lee, Y. Ko,M. Shin, H.-K. Song, N.-S. Choi, M.G. Kim,S. Park,Highperformance silicon-based multicomponent battery anodes produced via synergistic coupling of multifunctional coating layers, Energy Environ. Sci. 8 (2015) 2075-2084.   \n[7] T. Kennedy, M. Bezuidenhout, K. Palaniappan, K. Stokes,M. Brandon, K.M. Ryan,Nanowire Heterostructures Comprising Germanium Stems and Silicon BranchesasHigh-Capacity Li-Ion Anodeswith Tunable Rate Capability,ACS Nano 9 (2015) 7456-7465.   \n[8] Y. Xu, Y. Zhu, F. Han, C.Luo, C.Wang,3D Si/C Fiber Paper Electrodes Fabricated Usinga Combined Electrospray/Electrospinning Technique for Li-Ion Batteries, Advanced Energy Materials (2015) $5 ~ \\mathrm { { n } / \\partial \\mathrm { { a } - \\mathrm { { n } / \\partial a } } }$ ，   \n[9] R. Yi, J. Zai, F. Dai, M.L. Gordin, D. Wang, Dual conductive network-enabled graphene/Si-C composite anode with high areal capacity for lithium-ion batteries,Nano Energy 6 (2014) 211-218.   \n[10] X. Xiao,W. Zhou, Y. Kim,I. Ryu,M. Gu, C.Wang,G. Liu, Z. Liu, H. Gao,Regulated Breathing Effectof Silicon Negative Electrode for Dramatically Enhanced Performance of Li-Ion Battery, Advanced Functional Materials 25 (2015) 1426- 1433.   \n[11] J. Bae, S.-H. Cha, J. Park, A new polymeric binder for silicon-carbon nanotube composites in lithium ion battery, Macromolecular Research 21 (2013) 826- 831.   \n[12] X. Feng, J. Yang, X. Yu,J. Wang, Y. Nuli, Low-cost SiO-based anode using green binders for lithium ion batteries, Journal of Solid State Electrochemistry 17 (2013) 2461-2469.   \n[13] j. Guo, C. Wang, A polymer scaffold binder structure for high capacity silicon anode of lithium-ion battery, Chemical communications 46(2010) 1428-1430.   \n[14] Y. Hwa, W.-S. Kim, S.-H. Hong, H.-J. Sohn, High capacity and rate capability of core-shell structured nano-Si/C anode for Li-ion batteries,Electrochimica Acta 71(2012) 201-205.   \n[15] N. Lin,J. Zhou, L. Wang, Y. Zhu, Y. Qian, Polyaniline-assisted synthesis of Si@C/ RGO as anode material for rechargeable lithium-ion batteries,ACS applied materials & interfaces 7 (2015) 409-414.   \n[16] J. Liu,N.Li,M.D. Goodman, H.G. Zhang,E.S. Epstein, B.Huang, Z. Pan,J. Kim,J.H. Choi, X. Huang, J. Liu, K.J. Hsia, S.J. Dillon, P.V. Braun, Mechanically and Chemically Robust Sandwich-Structured C@Si@C Nanotube Array Li-Ion Battery Anodes,ACS Nano 9 (2015) 1985-1994.   \n[17] H.-C. Tao,L.-Z. Fan, X. Qu, Facile synthesis of ordered porous Si@C nanorods as anode materials for Li-ion batteries, Electrochimica Acta 71 (2012) 194-200.   \n[18] M. Au,Y. He,Y. Zhao, H. Ghassemi, R.S.Yassar, B. Garcia-Diaz,T.Adams, Silicon and silicon-copper composite nanorods for anodes of Li-ion rechargeable batteries, Journal of Power Sources 196 (2011) 9640-9647.   \n[19] J. Chang, X. Huang, G. Zhou, S. Cui, P.B. Hallac,J. Jiang, P.T. Hurley, J. Chen, Multilayered Si nanoparticle/reduced graphene oxide hybrid as a highperformance lithium-ion battery anode, Advanced materials 26 (2014) 758- 764.   \n[20] L. David, S. Bernard, C. Gervais, P. Miele, G. Singh, Facile Synthesis and High Rate Capability of Silicon Carbonitride/Boron Nitride Composite with a SheetLike Morphology, The Journal of Physical Chemistry C (2015) 150127010052003.   \n[21] F.H. Du, B. Li, W. Fu, Y.J. Xiong, K.X. Wang, J.S. Chen, Surface binding of polypyrrole on porous silicon hollow nanospheres for Li-ion battery anodes with high structure stability, Advanced materials 26 (2014) 6145-6150.   \n[22] H. Guan, X. Wang, S. Chen, Y. Bando, D. Golberg, Coaxial Cu-Si@C array electrodes for high-performance lithium ion batteries, Chemical communications 47 (2011） 12098-12100.   \n[23] M.T.McDowell,S.Woo Lee, C.Wang, Y. Cui, The effect of metallic coatings and crystallinity on the volume expansion of silicon during electrochemical lithiation/delithiation, Nano Energy 1 (2012) 401-410.   \n[24] H. Kim, M. Seo,M.H. Park,J. Cho, A critical size of silicon nano-anodes for lithium rechargeable batteries,Angewandte Chemie 49 (2010) 2146-2149.   \n[25] B.Wang, X.Li, B.Luo,L. Hao,M. Zhou, X. Zhang, Z. Fan, L. Zhi, Approaching the Downsizing Limit of Silicon for Surface-Controlled Lithium Storage, Advanced materials 27 (2015) 1526-1532.   \n[26] B. Wang, X. Li, T. Qiu, B. Luo, J. Ning, J. Li, X. Zhang, M. Liang, L. Zhi, High volumetric capacity silicon-based lithium battery anodes by nanoscale system engineering, Nano letters 13 (2013) 5578-5584.   \n[27]B.M.Bang,J.-I.Lee,H. Kim,J. Cho,S.Park, High-Performance Macroporous Bulk Silicon Anodes Synthesized by Template-Free Chemical Etching,Advanced Energy Materials 2(2012) 878-883.   \n[28]F.-H.Du, K.-X.Wang,W.Fu,P.-F. Gao,J.-F.Wang,J. Yang,J.-S. Chen,A graphenewrapped silver-porous silicon composite with enhanced electrochemical performance for lithium-ion batteries, Journal of Materials Chemistry A 1 (2013) 13648.   \n[29]M. Ge,J. Rong,X.Fang, C. Zhou,Porous doped silicon nanowires for lithium ion batteryanodewith long cycle life,Nano letters12 (2012)2318-2323.   \n[30] S.R. Gowda,V.Pushparaj, S.Herle, G. Girishkumar,J.G. Gordon,H. Gullapali, X. Zhan, P.M. Ajayan, A.L. Reddy, Three-dimensionally engineered porous silicon electrodes for Li ion batteries,Nano letters 12 (2012) 6060-6065.   \n[31] N. Liu, Z.Lu,J. Zhao, M.T. McDowel, H.W. Lee,W. Zhao, Y. Cui, A pomegranateinspired nanoscale design for large-volume-change lithium battery anodes, Nature nanotechnology 9(2014) 187-192.   \n[32]V. Etacheri, O. Haik, Y. Goffer, G.A. Roberts,I.C. Stefan,R. Fasching,D.Aurbach, Effect of fluoroethylene carbonate (FEC) on the performance and surface chemistry of Si-nanowire Li-ion battery anodes,Langmuir: the ACS journal of surfaces and colloids 28 (2012) 965-976.   \n[33]V. Chakrapani,F. Rusli,M.A. Filler, P.A. Kohl, Silicon nanowire anode: Improved battery life with capacity-limited cycling,Journal of Power Sources 2O5 (2012) 433-438.   \n[34] F.-S.Li, Y.-S.Wu, J. Chou,M. Winter, N.-L.Wu, A Mechanically Robust and Highly Ion-Conductive Polymer-Blend Coating for High-Power and Long-Life Lithium-lon Battery Anodes, Advanced materials 27 (2015) 130-137.   \n[35]M.Y. Ge,Y.H.Lu,P.Ercius,J.P.Rong, X.Fang,M.Mecklenburg, C.W. Zhou,LargeScale Fabrication,3D Tomography,and Lithium-Ion Battery Application of Porous Silicon, Nano letters 14 (2014) 261-268.   \n[36] P. Zhang,L. Wang, J. Xie,L. Su, C.-a. Ma, Micro/nano-complex-structure SiOxPANI-Ag composites with homogeneously-embedded Si nanocrystals and nanopores as high-performance anodes for lithium ion batteries, Journal of Materials Chemistry A2 (2014) 3776.   \n[37] M. Ge,Y. Lu, P.Ercius,J. Rong,X. Fang, M. Mecklenburg, C. Zhou, Large-Scale Fabrication, 3D Tomography,and Lithium-Ion Battery Application of Porous Silicon, Nano Letters 14 (2014) 261-268.   \n[38] J. Chen,L. Yang,S. Rousidan,S.Fang,Z. Zhang, S.Hirano,Facile fabrication of Si mesoporous nanowires for high-capacity and long-life lithium storage, Nanoscale5(2013)10623-10628.   \n[39]I. Choi, M.J. Lee, S.M. Oh,J.J. Kim,Fading mechanisms of carbon-coated and disproportionated Si/SiOx negative electrode $( { \\mathrm { S i } } / { \\mathrm { S i O x } } / { \\mathrm { C } } )$ in Li-ion secondary batteries: Dynamics and component analysis by TEM, Electrochimica Acta 85 (2012) 369-376.   \n[40]S.Kim, C.Hwang,S.Y.Park,S.-J.Ko,H.Park,W.C. Choi,J.B.Kim,D.S.Kim,S.Park, J.Y.Kim,H.-K.Song,High-yield synthesis of single-crystal silicon nanoparticles as anode materials of lithium ion batteries via photosensitizer-assisted laser pyrolysis,J. Mater. Chem.A2 (2014) 18070-18075.   \n[41] M. Su, Z. Wang, H. Guo, X. Li, S. Huang,W. Xiao, L. Gan, Enhancement of the Cyclability of a Si/Graphite@Graphene composite as anode for Lithium-ion batteries,Electrochimica Acta 116 (2014) 230-236.   \n[42] X. Zhou,Y.-X. Yin,L.-J.Wan, Y.-G. Guo,Facile synthesis of silicon nanoparticles inserted into graphene sheets as improved anode materials for lithium-ion batteries, Chemical Communications 48 (2012) 2198.   \n[43] J. Tu,L.Hu, S. Jiao,J. Hou, H. Zhu, Core-shell Si-N-doped C assembled via an oxidative template for lithium-ion anodes,Physical Chemistry Chemical Physics 15 (2013)18549.   \n[44]H. Wu, G. Chan,J.W. Choi, I. Ryu, Y. Yao,M.T. McDowell S.W. Lee,A. Jackson,Y. Yang,L. Hu, Y. Cui, Stable cycling of double-walled silicon nanotube battery anodes through solid?electrolyte interphase control, Nature Nanotechnology 7 (2012) 310-315.   \n[45]H. Wu, G.Yu,L. Pan,N. Liu,M.T. McDowel, Z. Bao, Y. Cui, Stable Li-ion battery anodes by in-situ polymerization of conducting hydrogel to conformally coat silicon nanoparticles, Nature Communications (2013) 4.   \n[46] J. Chang, X. Huang, G. Zhou, S. Cui, PB. Hallac,J. Jiang, P.T. Hurley, J. Chen, Multilayered Si Nanoparticle/Reduced Graphene Oxide Hybrid asa HighPerformance Lithium-Ion Battery Anode, Advanced Materials 26 (2014) 758- 764.   \n[47] J.-I. Lee,N.-S. Choi, S. Park, Highly stable Si-based multicomponent anodes for practical use in lithium-ion batteries, Energy & Environmental Science 5 (2012) 7878.   \n[48]M.-Q. Li, M.-Z. Qu, X.-Y. He, Z.-L. Yu, Effects of electrolytes on the electrochemical performance of Si/graphite/disordered carbon composite anode for lithium-ion batteries,Electrochimica Acta 54(20o9) 4506-4513. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

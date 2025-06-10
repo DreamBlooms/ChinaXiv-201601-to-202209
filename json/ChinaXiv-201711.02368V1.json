@@ -1,0 +1,515 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.13930/j.cnki.cjea.160848 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘星，邱慧珍，张文明，张春红，朱静，马兴，程万莉。甘肃中部沿黄灌区马铃薯连作对土壤化学和生物学性质的影响[J]. 中国生态农业学报,2017,25(4):581-593   \nLiu X,QiuHZ,Zhang WM,ZhangCH,ZhuJ,Ma X,Cheng WL.Eectofcontinuous potato monoculture onsoilchemical and biological properties inYellow River Irrgation Area incentral Gansu Province[J].Chinese JournalofEco-Agriculture, 2017,25(4): 581-593 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "甘肃中部沿黄灌区马铃薯连作对土壤化学和生物学性质的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘星12，邱慧珍1\\*，张文明¹，张春红¹，朱静¹，马兴¹，程万莉}",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．甘肃农业大学资源与环境学院/甘肃省干旱生境作物学重点实验室 兰州730070;",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2．河南科技学院资源与环境学院新乡453003)",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：甘肃中部沿黄灌区是全国重要的加工型马铃薯和种薯生产基地，但集约化种植带来的连作障碍问题已严重影响到产业的健康发展。设置不同连作年限(0\\~5年)马铃薯种植处理，通过田间试验评估连作对土壤化学和生物学性质的影响，探讨马铃薯连作的土壤障碍因子。结果表明：土壤有机碳含量随连作年限延长逐渐降低，而碱解氮和速效钾含量以及电导率与之相反；连作显著增加土壤速效磷含量，但对全氮含量、碳氮比和pH无明显影响。长期连作(3\\~5年)较非连作(0年)土壤平均酶活性显著降低 $3 3 . 0 7 \\% { \\sim } 6 1 . 7 8 \\%$ ，脲酶、蔗糖酶和脱氢酶活性亦随连作年限延长逐渐降低。长期连作降低土壤微生物生物量碳含量，土壤基础呼吸量和FDA水解活性与连作年限呈极显著负相关。Biolog ECO分析显示，长期连作显著降低土壤微生物总活性和功能多样性，Shannon多样性指数较非连作降低 $1 1 . 7 5 \\% { \\sim } 1 3 . 6 5 \\%$ 。碳源利用图谱分析表明，连作明显改变土壤微生物群落结构，碳水化合物是区分不同连作年限土壤微生物群落结构差异的最敏感碳源类型；长期连作显著降低土壤微生物对碳水化合物类、氨基酸类、羧酸类和胺类碳源的相对利用率，且土壤微生物对单一碳源的利用呈现集中化的趋势。线性逐步回归分析和通径分析表明，土壤微生物群落结构、微生物生物量碳、全氮和脱氢酶对块茎产量有显著影响，以微生物群落结构贡献最大，微生物生物量碳次之。土壤微生物因子变化可能是导致甘肃中部沿黄灌区马铃薯连作障碍发生的重要原因。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：马铃薯；连作；土壤化学性质；生物学性质中图分类号:S154.1;S154.4;S154.36 文献标识码：A 文章编号:1671-3990(2017)04-0581-13",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effect of continuous potato monoculture on soil chemical and biological properties in Yellow River Irrigation Area in central Gansu Province ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIU Xing1,2, QIU Huizhen1\\*\\*, ZHANG Wenming], ZHANG Chunhong1 ZHU Jing1,MA Xing1,CHENG Wanli1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Collge ofResouresandEnvironmental Sciences,GansuAgriculturalUniversity/GansuProvincialKeyLabof AridlandCrop ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Science,Lanzhou7300,China;2.ColegeofResourcesandEnvironmental Sciences,HenanInstituteofScienceandTechology Xinxiang 453003, China) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Theirrigation area along theYellow River incentral Gansu Provinceis an important growing region of processing potato and seed potato in China. Continuous potato monoculture (CPM) stemming from intensivecultivation has severely ffected the healthydevelopmentof local potato industry.Itis necesarytoincreaseourunderstandingabout thebarrier associated with CPM.Tothat,a long-term field experiment wasconducted,which contained5 potato cropping treatments corresponding tocontinuous potatocroppngfor1-5years,with maize-potatorotationcroppingas thecontrol.Inthestudy,we focused on how the soil chemical and biological properties changed in CPMsystem,and which soil variables contributed principally to the bariers of CPM. The study showed that contrary to alkaline hydrolyzable nitrogen, $\\mathrm { N H _ { 4 } O A c }$ extractable potassium and electrical conductivity,soil organic carbon content gradually decreased with increasing yearsof CPM.Also compared with the control, CPM significantly increased soil ${ \\mathrm { N a H C O } } _ { 3 }$ extractable phosphorus content. However, there were no significant changes in total nitrogen, C/N ratio and $\\mathfrak { p H }$ . Compared with the control, long-term CPM (over 3-5 years) decreased mean soil enzyme activity by $3 3 . 0 7 \\% - 6 1 . 7 8 \\%$ . The activities of urease, sucrose and dehydrogenase decreased with increasing years of CPM.Long-term CPM decreased the content of soil microbial biomasscarbon,while both soil basal respiration and FDA hydrolysis activity exhibited highly significant linear negative corelation with the numberofyear ofCPM.Resultsof BiologECO assessment indicated that long-term CPM significantly decreasedtotalactivityand function diversityof soil microbes,where Shannon diversity index for long-term CPM decreased by $1 1 . 7 5 \\% - 1 3 . 6 5 \\%$ compared with the control.Principal componentanalysisofcarbonutilization profileof soil microbes showed thatlong-term CPMclearlychanged the structure of soil microbialcommunitycompared withthecontrol.Among the6 groups ofcarbon sourcesubstrates,carbohydrates type was most sensitive to the changes in soil microbial communities in CPM system.Long-term CPM significantly decreased the relativeutilization ratioof selectedcarbon source substrates for soil microbes，including carbohydrates,amino acids, carboxylicacids andamines.For 31 sole-carbon source substrates,theutilization patern of soil microbes under long-term CPM was more centralized than under the controlorshort-term CPM.Linear modelsof stepwiseregressonanalysis and path analysis confirmed thatatotalof4soil variables(soilmicrobialcommunitystructure,soilmicrobialbiomasscarbon,total nitrogenanddehydrogenase)significantlyaffected tuber yieldunder CPMsystem,andthat soil microbial community structure contributed most,followed bysoil microbialbiomass carbon.Theresultsofthe study suggestedthatsoil microbialvariables were the main causes of the barriers of CPM system in the Yellow River Irrigation Area in central Gansu Province. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Potato; Continuous monoculture; Soil chemical property; Biological property ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "甘肃中部沿黄灌区是全国重要的加工型马铃薯(Solanum tuberosum)生产基地和种薯繁殖基地，但集约化生产和订单农业经营模式带来的连作障碍问题已严重影响到产业的健康发展。阐明连作障碍形成机制并寻求有效的防控措施已成为当地马铃薯生产环节亟需解决的课题。早前学者从植株生长发育和生理生态响应角度来解析马铃薯连作障碍机理，并指出植株源端生产性能降低和库源关系失衡是导致连作马铃薯块茎产量下降的重要生理机制[1-2]。健康的土壤环境是作物高产高效的基础，尽管不同作物连作障碍机理可能存在差别，但主要源自土壤[3]。长期连作导致土壤颓败发生，并对植株生长发育和经济产量形成产生负反馈调节[4-5]。究竟这种负反馈调节由哪些土壤障碍因子触发，不同研究者仍然存在争议。部分学者从土壤理化层面开展研究[6-10]，认为马铃薯连作导致土壤养分亏缺、土壤酸化或次生盐渍化等。也有学者从土壤酶角度开展研究[11]，指出马铃薯连作影响土壤中相关酶类的活性，而这将影响土壤生态功能发挥。健康高效的微生物区系是土壤质量的重要保证，有学者认为马铃薯连作导致土壤微生物多样性降低，群落结构改变，土传病害泛滥，带来块茎产量降低[12-20]。还有学者从自毒/化感作用角度探讨马铃薯连作障碍机理[21-25]。尽管上述研究的背景存在气候环境、施肥状况和供试品种以及土壤质地等方面的差异，但马铃薯连作障碍的发生应该受到多种土壤因子驱动。因此，评估连作土壤环境变化特征是探索马铃薯连作障碍机理的前提。目前，关于连作土壤障碍因子的研究更多地集中在设施蔬菜、大田经济作物、中药材和园艺花卉上，在马铃薯上研究相对较少，在甘肃省中部沿黄灌区这一马铃薯优势产区更是鲜有报道。本研究依托田间定位试验，试图从连续的时间尺度上来探讨土壤化学和生物学性质对马铃薯连作的响应，评估可能的连作土壤障碍因子，旨在为明确马铃薯连作障碍机理以及探索连作土壤障碍因子的消减技术提供依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验区概况 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "田间试验设置在地处甘肃中部沿黄灌区的白银市景泰县条山农场 $( 3 7 ^ { \\circ } 1 2 ^ { \\prime } 2 5 ^ { \\prime \\prime } \\mathrm { N }$ ， $1 0 4 ^ { \\circ } 1 ^ { \\prime } 1 6 ^ { \\prime \\prime } \\mathrm { E } \\rangle$ ，海拔约 $1 5 0 0 \\mathrm { ~ m ~ }$ ，属温带大陆性干旱气候，年平均气温$9 . 1 ~ \\mathrm { { ^ { \\circ } C } }$ ，无霜期141d左右。年平均降水量 $1 8 5 . 6 ~ \\mathrm { m m }$ 年平均蒸发量 $1 ~ 7 2 2 . 8 ~ \\mathrm { m m } _ { \\circ }$ 年平均日照时数 $2 7 1 3 \\mathrm { h }$ 光热资源丰富，日照百分率 $62 \\%$ ，太阳年平均辐射量$6 1 8 . 1 ~ \\mathrm { k J } { \\cdot } \\mathrm { m } ^ { - 2 }$ ，年 $\\scriptstyle \\geqslant 0 \\ ^ { \\circ } \\mathrm { C }$ 活动积温 $3 6 1 4 . 8 \\mathrm { ~ \\textdegree C }$ ， $\\geqslant 1 0 \\ { } ^ { \\circ } { \\mathrm { C } }$ 有效积温 $3 0 3 8 ^ { \\circ } \\mathrm { C }$ ，是我国除青藏高原外光热资源最为丰富的地区之一。供试土壤为灰钙土，质地为砂壤。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选择前茬为制种玉米、地势平坦整齐且土壤肥力均匀的地块，于2005年开始随机划区种植马铃薯而该地块其余部分继续种植制种玉米，此后逐年增加新的马铃薯种植小区，这样在同一地块上形成不同连作年限的马铃薯种植处理，得以同时采集连续时间尺度下的连作马铃薯植株和土壤样品[2]。当年种植马铃薯的小区即为连作0年处理，连续种植两年马铃薯的小区为连作1年处理，依次类推。田间定位试验开始前供试小区耕层土壤基础理化性质为：有机质 $1 0 . 2 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ，全氮 $0 . 5 5 ~ \\mathrm { g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ ，碱解氮 $7 6 . 5 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ ，速效磷 $9 . 6 \\ \\mathrm { \\ m g ^ { \\cdot } k g ^ { - 1 } }$ ，速效钾 $1 9 2 . 2 ~ \\mathrm { \\ m g ^ { . } k g ^ { - 1 } }$ ， $\\mathsf { p H }$ 为8.43(水土比为 $5 : 1$ )。2014年选择连作0年处理(未连作，前茬为制种玉米，用RP表示)和连作1\\~5年处理(分别用CP1-CP5表示)进行田间试验，每个处理4次重复，小区面积为 $5 . 4 ~ \\mathrm { m } { \\times } 1 0 ~ \\mathrm { m } _ { \\circ }$ 采用统一的马铃薯栽培种植模式和施肥量，宽垄双行覆膜种植，在播种前一天切种薯，并用浓度为 $1 . 5 \\%$ 的高锰酸钾溶液消毒，垄宽和行距分别为 $1 . 3 5 \\mathrm { ~ m ~ }$ 和 $0 . 7 0 \\mathrm { ~ m ~ }$ ，株距为$0 . 2 0 \\mathrm { m }$ ，种植密度约为 $7 . 5 { \\times } 1 0 ^ { 4 }$ 株 $\\cdot \\mathrm { h m } ^ { - 2 }$ 。年化肥施用量为 $2 1 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ， $1 5 0 \\mathrm { k g } ( \\mathrm { P } _ { 2 } \\mathrm { O } _ { 5 } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ， $3 0 0 \\mathrm { k g } ( \\mathrm { K } _ { 2 } \\mathrm { O } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 化肥分别用养分含量为15-15-15的复合肥、含 $\\mathrm { ~  ~ N ~ }$ $46 \\%$ 的尿素和含 $K _ { 2 } O 5 1 \\%$ 的硫酸钾，无有机肥施用。播种和施肥均采用机械化一次进行，人工覆膜。化肥在播种时全部基施，无追肥，其余栽培、灌溉和田间管理措施均按农场统一方法进行，且各处理保持一致。当年4月30日播种，9月8日收获。供试材料为当地主栽的加工型马铃薯品种‘大西洋'，由条山农场提供。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 样品采集与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤样品采集在2014年马铃薯收获时进行，采用五点取样法，在垄上马铃薯行间靠近植株根系处进行，采样深度 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 。新鲜土样混合均匀后等分两份，一份置于室内风干，分别研磨通过 $0 . 2 5 ~ \\mathrm { \\ m m }$ 和 $1 \\mathrm { m m }$ 筛，测定土壤化学性质；另一份快速研磨通过 $1 \\mathrm { m m }$ 筛，置于 $4 \\mathrm { { ^ \\circ C } }$ 冰箱中，测定土壤生化性质。马铃薯收获时采集植株样品进行考种，而后分根、茎、叶和块茎4个部分在 $1 0 5 ^ { \\circ } \\mathrm { C }$ 下杀青 $3 0 ~ \\mathrm { { m i n } }$ ， $8 0 ~ \\mathrm { ^ { \\circ } C }$ 烘干至恒重，称量生物量，并对每个小区实测记产。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "有机碳、全氮、碱解氮、速效磷和速效钾等土壤理化性质测定参考文献[26]，电导率和 $\\mathsf { p H }$ 测定在$5 : 1$ 的水土比条件下进行。土壤蔗糖酶、脲酶、碱性磷酸酶和多酚氧化酶活性采用风干土样测定，脱氢酶和荧光素二乙酸酯(FDA)水解活性采用新鲜土样测定，测定结果全部以干基计算。土壤酶活性测定参考李振高等[27]的方法，并根据Zhang等[28]的方法计算如下：土壤平均酶活性 $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ （蔗糖酶 $\\times$ 脲酶 $\\times$ 碱性磷酸酶 $\\mathrm { . } \\times$ 多酚氧化酶 $\\vdots \\times$ 脱氢酶)115。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "FDA水解活性参考Adam 和Duncan[29]的方法。土壤基础呼吸量参考Giovannini 等[30]的方法，暗培养进行。微生物生物量碳测定采用氯仿熏蒸法，$0 . 5 \\mathrm { \\ m o l { \\cdot } L ^ { - 1 } \\ K _ { 2 } S O _ { 4 } }$ 溶液浸提，重铬酸钾消化， $\\mathrm { F e S O _ { 4 } }$ 滴定[31]。微生物熵 $( \\% ) =$ 微生物生物量碳/土壤有机碳[32]，微生物代谢熵 $( \\% ) =$ 土壤基础呼吸量/微生物生物量碳[33]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤微生物功能多样性测定采用BiologECO方法，96孔微生态板包括31种单一碳源，分别为氨基酸类(6种)、碳水化合物类(10 种)、羧酸类(7种)、胺类(2种)、酚酸类(2种)、聚合物类(4种)，及1个空白对照，均重复3次。土壤预处理和测定过程参见早前报道[34]。平均颜色变化率 $( \\mathrm { A W C D } ) = ( C _ { i } – R ) / n$ 其中 $C _ { i }$ 为第 $i$ 个非对照孔的吸光值， $R$ 为对照孔的吸光值， $n$ 为培养基碳源种类数，当 $C _ { i } – R$ 计算为负值时直接按0处理。功能多样性指数和碳源相对利用率的计算参见邹春娇等[35]的报道，以不同连作年限处理下6类碳源AWCD值中最大的值为 $100 \\%$ ，其余AWCD值与最大值的比值即为相对利用率，同时将每一种碳源的利用率与31种碳源的总利用率的比值定为每一种碳源的相对利用率，采用 $^ { 1 6 8 \\mathrm { ~ h ~ } }$ 时的吸光值进行计算。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 数据处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验数据计算和图表绘制在MicrosoftExcel2007软件上进行，使用SPSS21.0软件进行处理间差异显著性检验(One-way, $P { < } 0 . 0 5$ )。微生物群落结构采用主成分分析方法。采用线性逐步回归分析和通径分析方法评估不同土壤因子对块茎产量的影响及其相对贡献。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1不同连作年限马铃薯土壤化学性质的变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "不同连作年限土壤化学性质测定结果如表1所示。CP1-CP3处理有机碳含量与RP无显著差异，而CP4和CP5处理分别显著下降 $1 5 . 6 8 \\%$ 和 $1 1 . 4 7 \\text{‰}$ 连作土壤全氮含量与非连作均无显著差异。与RP相比，CP1处理碳氮比显著增加，CP2处理显著降低$2 2 . 6 9 \\%$ ，CP3-CP5处理无显著变化.CP1、CP2和CP4处理土壤碱解氮含量与RP无显著差异，CP3和CP5分别显著增加 $5 5 . 5 2 \\%$ 和 $84 . 0 4 \\text{‰}$ ，与RP比较，连作处理土壤速效磷含量显著增加 $4 9 . 0 0 \\% { \\sim } 9 3 . 1 2 \\%$ CP1和CP3处理土壤速效钾含量与RP无显著差异，其余处理则显著增加 $3 0 . 5 2 \\% { \\sim } 6 0 . 0 6 \\%$ 。连作处理土壤电导率比非连作均不同程度增加，且CP2、CP3和CP5达显著水平，增幅分别为 $5 5 . 7 4 \\%$ 1 $5 7 . 2 8 \\%$ 和 $5 1 . 2 2 \\text{‰}$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CP1-CP4处理土壤 $\\mathfrak { p H }$ 较RP显著下降，而CP5处理无显著变化。线性相关分析表明，土壤有机碳含量与连作年限极显著负相关，而速效氮、速效钾含量及电导率与连作年限显著或极显著正相关。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 不同连作年限马铃薯土壤酶活性的变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "不同连作年限土壤的酶活性测定结果如表2所示。连作处理土壤脲酶活性较RP有不同幅度下降，仅CP4处理达显著水平。连作处理蔗糖酶活性较RP显著下降 $3 1 . 7 2 \\% { \\sim } 7 5 . 1 9 \\%$ ，碱性磷酸酶和多酚氧化酶活性无显著差异。连作处理脱氢酶活性较RP有不同幅度下降，仅CP4处理显著下降 $8 3 . 5 3 \\%$ ，综合计算表明，CP1和CP2处理土壤平均酶活性与RP无显著差异,CP3-CP5处理显著下降 $3 3 . 0 7 \\% { \\sim } 6 1 . 7 8 \\%$ ，脲酶、蔗糖酶、脱氢酶和土壤平均酶活性与连作年限均显著或极显著地线性负相关。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/155bbb8b128303e7e63cacdf88d1360b47cec5272746a5c78c56169bcd7d05dd.jpg",
+        "table_caption": [
+            "表1马铃薯连作年限对土壤化学性质的影响 Table1Effect of continuous potato monoculture on soil chemical properties "
+        ],
+        "table_footnote": [
+            "RP 为连作0年(未连作),CP1-CP5为连作1\\~5年处理。同列不同小写字母表示各连作年限处理间 $5 \\%$ 差异显著水平。RP,CP1,CP2,CP3,CP4andCP5arertssatoedaielilsimean significant differences at $5 \\%$ level by Duncan's test. YCPM: year of continuous potato monoculture."
+        ],
+        "table_body": "<html><body><table><tr><td>处理 Treatment</td><td>有机碳 Organic C (g·kg-1)</td><td>全氮 Total N (g·kg-1)</td><td>碳氮比 C/N ratio</td><td>碱解氮 Available N (mg·kg-1)</td><td>速效磷 Available P (mg·kg-1)</td><td>速效钾 Available K (mg·kg-1)</td><td>电导率 EC (uS·cm-1)</td><td>pH</td></tr><tr><td>RP</td><td>5.93±0.49ab</td><td>0.76±0.16abc</td><td>8.02±1.21b</td><td>68.80±19.81b</td><td>6.98±1.00d</td><td>175.30±4.56d</td><td>161.65±5.96b</td><td>8.68±0.05a</td></tr><tr><td>CP1</td><td>6.07±0.57a</td><td>0.62±0.07bc</td><td>9.79±0.36a</td><td>74.24±7.19b</td><td>12.22±1.88ab</td><td>164.93±42.45cd</td><td>191.65±41.63ab</td><td>8.57±0.04b</td></tr><tr><td>CP2</td><td>5.49±0.24bc</td><td>0.89±0.09a</td><td>6.20±0.73c</td><td>69.28±19.13b</td><td>12.66±0.83a</td><td>239.99±55.20ab</td><td>251.75±26.49a</td><td>8.48±0.05bc</td></tr><tr><td>CP3</td><td>5.81±0.16ab</td><td>0.80±0.24ab</td><td>7.62±1.69bc</td><td>107.00±28.43a</td><td>13.48±0.38a</td><td>200.03±31.56bcd</td><td>254.25±44.06a</td><td>8.41±0.10c</td></tr><tr><td>CP4</td><td>5.00±0.18c</td><td>0.58±0.05c</td><td>8.61±0.74ab</td><td>65.19±12.91b</td><td>10.40±0.95c</td><td>228.81±43.19abc</td><td>218.18±63.83ab</td><td>8.55±0.04b</td></tr><tr><td>CP5</td><td>5.25±0.13c</td><td>0.61±0.02bc</td><td>8.61±0.40ab</td><td>126.62±27.67a</td><td>10.92±0.83bc</td><td>280.55±19.36a</td><td>244.45±47.65a</td><td>8.69±0.10a</td></tr><tr><td colspan=\"9\">线性相关分析 Linear correlation analysis (n=24)</td></tr><tr><td>连作年限</td><td>r=-0.635 9</td><td>r=-0.281 1</td><td>r=0.030 0</td><td>r=0.499 3</td><td>r=0.3173</td><td>r=0.650 8</td><td>r=0.483 2</td><td>r=-0.031 6</td></tr><tr><td>YCPM</td><td>P=0.000 8</td><td>P=0.183 5</td><td>P=0.891 9</td><td>P=0.013 0</td><td>P=0.130 7</td><td>P=0.000 6</td><td>P=0.016 8</td><td>P=0.883 3</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/399886e3dca236d3edeceb771f3c78f41304cdb65b5841517e76c07e6716e545.jpg",
+        "table_caption": [
+            "表2马铃薯连作年限对土壤酶活性的影响 Table 2Effect of continuous potato monoculture on soil enzyme activities "
+        ],
+        "table_footnote": [
+            "RP 为连作0年(未连作),CP1-CP5为连作1\\~5年处理。同列不同小写字母表示各连作年限处理间 $5 \\%$ 差异显著水平。RP,CP1,CP2,CP3,CP4indCP5aretreaetsftisotatooe,darsspielytassnean significant differences at $5 \\%$ level by Duncan's test. YCPM: year of continuous potato monoculture."
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理 Treatment</td><td rowspan=\"2\">脲酶 Urease [μg(NH4-N)·g-1·h-1]</td><td rowspan=\"2\">蔗糖酶 Sucrose [ug(glucose)-g-1-h-1]</td><td rowspan=\"2\">碱性磷酸酶 Alkaline phosphatase [ug(phenol)·g-1·h-1]</td><td rowspan=\"2\">多酚氧化酶 Polyphenol oxidase [μg(purpurogallin)·g-'·h-1]</td><td rowspan=\"2\">脱氢酶 Dehydrogenase [ug(TPF)·g-1·h-1]</td><td rowspan=\"2\">平均 Mean</td></tr><tr><td></td></tr><tr><td>RP</td><td>12.04±2.30a</td><td>460.29±66.56a</td><td>54.44±12.78a</td><td>106.23±12.80a</td><td>0.085±0.032a</td><td>19.05±2.42a</td></tr><tr><td>CP1</td><td>9.16±1.23ab</td><td>314.00±88.99b</td><td>39.99±28.08a</td><td>93.44±9.19a</td><td>0.069±0.054ab</td><td>14.13±5.11ab</td></tr><tr><td>CP2</td><td>7.80±2.28ab</td><td>204.28±67.91cd</td><td>35.66±9.72a</td><td>108.64±12.39a</td><td>0.100±0.067a</td><td>13.93±3.51ab</td></tr><tr><td>CP3</td><td>9.97±5.84ab</td><td>266.72±60.93bc</td><td>35.08±21.55a</td><td>110.12±32.17a</td><td>0.042±0.035ab</td><td>12.75±4.64b</td></tr><tr><td>CP4</td><td>4.83±2.46b</td><td>114.18±53.96d</td><td>30.17±9.02a</td><td>100.49±16.96a</td><td>0.014±0.003b</td><td>7.28±1.55c</td></tr><tr><td>CP5</td><td>8.35±2.93ab</td><td>193.57±25.96cd</td><td>33.93±13.36a</td><td>115.68±13.81a</td><td>0.019±0.005ab</td><td>12.27±1.61bc</td></tr><tr><td colspan=\"7\">线性相关分析 Linear correlation analysis (n=24)</td></tr><tr><td>连作年限</td><td>r=-0.405 5</td><td>r=-0.744 5</td><td>r=-0.385 2</td><td>r=0.200 0</td><td>r=-0.413 6</td><td>r=-0.595 0</td></tr><tr><td>YCPM</td><td>P=0.049 3</td><td>P<0.000 1</td><td>P=0.0631</td><td>P=0.348 6</td><td>P=0.044 5</td><td>P=0.002 2</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 不同连作年限马铃薯土壤微生物活性的变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同连作年限土壤微生物活性测定结果如表3所示。CP1、CP2和CP5处理微生物生物量碳含量较RP无显著变化，而CP3和CP4处理分别显著下降 $2 8 . 6 3 \\%$ 和 $2 4 . 8 5 \\%$ ；与CP1相比，CP2-CP5处理土壤微生物生物量碳含量显著降低 $2 3 . 5 5 \\% { \\sim } 3 8 . 2 9 \\% _ { 0 }$ 相似的变化趋势也表现在土壤基础呼吸量和FDA水解活性上，连作处理与非连作无显著差异，但CP2-CP5处理较CP1出现大幅降低，且除CP3处理外均达到差异显著水平。连作处理土壤微生物熵和微生物代谢熵较非连作相比均无显著差异。土壤微生物生物量碳、基础呼吸量和FDA水解活性与连作年限",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "均极显著负相关。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4 不同连作年限马铃薯土壤微生物功能多样性的变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图1可知，在整个培养周期内，CP1和CP2处理较RP无明显差异，而CP3-CP5处理显著下降，至培养第 $^ { 1 6 8 \\mathrm { ~ h ~ } }$ ，CP3-CP5处理平均颜色变化率较RP显著降低 $5 0 . 2 3 \\% { \\sim } 5 6 . 8 0 \\%$ ，功能多样性指数的计算结果如表4所示，除Pielou均匀度指数和丰富度指数外，CP3-CP5 处理 Shannon多样性指数、Simpson优势度指数和McIntosh指数均显著低于RP。马铃薯长期连作显著降低土壤微生物总活性和微生物功能多样性。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c8ab3f3801bad0ecc0e73059b2bfe4f04541532f18ad9effccac1fedc1f209a2.jpg",
+        "table_caption": [
+            "表3马铃薯连作年限对土壤微生物活性的影响 ┌able3 Effect of continuous potato monoculture on soil microbial activitie "
+        ],
+        "table_footnote": [
+            "RP为连作0年(未连作),CP1-CP5为连作1\\~5年处理。同列不同小写字母表示各连作年限处理间 $5 \\%$ 差异显著水平。RP,CP1,CP2,CP3,CP4andCP5aretretsosatouefo,darssieltoassimean significant differences at $5 \\%$ level by Duncan's test.YCPM: year of continuous potato monoculture."
+        ],
+        "table_body": "<html><body><table><tr><td>Treatent</td><td>微生物a物量碳(MBC (mg·kg-1)</td><td>±o基a呼(SR) [μg(CO2-C)·g-1-d-1]</td><td>M微生oi total carbon (%)</td><td>微生物代谢熵 (%)</td><td>英光二乙活性 [μg(FDA)·g-1·h-)]</td></tr><tr><td>RP</td><td>107.69±12.01ab</td><td>10.02±2.13ab</td><td>1.84±0.38ab</td><td>9.47±2.64a</td><td>96.41±21.69ab</td></tr><tr><td>CP1</td><td>124.55±23.59a</td><td>12.46±5.17a</td><td>2.08±0.53a</td><td>9.90±3.01a</td><td>104.66±36.46a</td></tr><tr><td>CP2</td><td>95.22±14.78bc</td><td>7.73±1.55b</td><td>1.74±0.28ab</td><td>8.43±2.86a</td><td>59.83±17.72b</td></tr><tr><td>CP3</td><td>76.86±13.16c</td><td>8.56±3.72ab</td><td>1.32±0.21b</td><td>11.83±7.18a</td><td>66.81±32.36ab</td></tr><tr><td>CP4</td><td>80.93±18.57c</td><td>5.70±0.78b</td><td>1.62±0.37ab</td><td>7.28±1.75a</td><td>57.16±21.46b</td></tr><tr><td>CP5</td><td>83.87±13.08bc</td><td>6.43±1.53b</td><td>1.60±0.26ab</td><td>7.90±2.79a</td><td>58.36±20.01b</td></tr><tr><td colspan=\"6\">线性相关分析 Linear correlation analysis (n=24)</td></tr><tr><td>连作年限</td><td>r=-0.596 3</td><td>r=-0.540 2</td><td>r=-0.380 4</td><td>r=-0.166 1</td><td>r=-0.538 1</td></tr><tr><td>YCPM</td><td>P=0.0021</td><td>P=0.0064</td><td>P=0.0667</td><td>P=0.438 2</td><td>P=0.006 7</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/db99ed27aff35bad3ab663754b5492c4b7f4beab2fa74ca45cd6422f0886a5da.jpg",
+        "img_caption": [
+            "图1马铃薯连作年限对土壤微生物平均颜色变化率的影响",
+            "Fig.1Effect of continuous potato monoculture on AWCD of soil microbial community RP 为连作0年(未连作),CP1-CP5为连作1\\~5年处理。RP, CP1,CP2,CP3,CP4 and CP5 are treatments of continuous potato monoculture for 0,1,2,3,4 and 5 years,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于BiologEco测定的微生物对碳源底物利用结果，通过主成分分析评估马铃薯连作对土壤微生物群落结构的影响(图2)。在31个因子中共提取 7个主成分，其中第1主成分和第2主成分分别解释整体方差变异的 $4 8 . 2 6 \\%$ 和 $9 . 5 8 \\%$ ，而其余各主成分的贡献率相对较小。在PC1轴上,RP和CP1处理、CP2处理以及CP3-CP5处理3组供试土壤样品出现明显的分异，表明三者对碳源利用能力存在较大差别，显示马铃薯长期连作已经改变土壤微生物群落结构。31种单一碳源的利用情况与PC1的相关分析表明，共有8种碳源的利用程度与PC1存在高度线性正相关关系 $( r { > } 0 . 8 , \\ P { < } 0 . 0 1 )$ ，其中7种属于碳水化合物，1种属于氨基酸类化合物(表5)，暗示土壤微生物群落结构的改变可能与不同连作年限下以碳水化合物为主要碳源利用类型的微生物的差异有关。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "微生物对6大类碳源的相对利用率计算结果如图3所示。马铃薯长期连作显著降低土壤微生物对碳水化合物类、氨基酸类、羧酸类和胺类碳源的相对利用率，且以碳水化合物类的降幅最大，CP3-CP5处理较RP显著降低约 $5 4 . 3 9 \\% { \\sim } 6 7 . 3 6 \\%$ 由表6可知，相对利用率较低的碳源 $( < 2 . 5 \\% )$ 在RP处理下是10种在CP1-CP5处理下分别是10种、11种、15种、16种和16种；相对利用率处于中等水平的碳源 $( 2 . 5 \\% \\sim$ $5 . 0 \\%$ )在RP处理下是17种，在CP1-CP5处理下分别是15种、12种、9种、8种和8种；而相对利用率较高的碳源 $( > 5 . 0 \\% )$ 在RP处理下是4种，在CP1-CP5处理下分别是6种、8种、7种、7种和7种。碳源低利用率预示着微生物对其利用能力的衰退，高利用率表明微生物对其利用需求较高。就31种单一碳源而言，随着马铃薯连作年限延长，土壤微生物对碳源的利用表现出从分散化到集中化的趋势。在CP3-CP5处理下，土壤微生物更多地是利用L-天冬酰胺酸、丙酮酸甲酯、D-苹果酸、4-羟基苯甲酸、吐温40和吐温80等碳源。统计分析表明， $\\beta$ -甲基-D-葡萄糖苷、D-纤维二糖、L-苏氨酸和D-葡萄胺酸等碳源的相对利用率与连作年限均呈现显著或极显著线性负相关关系，而丙酮酸甲酯和吐温80则与连作年限存在显著或极显著线性正相关关系。尽管4-羟基苯甲酸、吐温40、D-苹果酸、D-半乳糖酸 $- \\gamma$ -内酯和L-天冬酰胺酸等碳源的相对利用率整体上也表现出随连作年限延长而增加的趋势，但线性相关测试未达到统计显著水平。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/fe75d41c6d40d4bb9e5863559a280ba798587f718f3f4df61e3321e36d9c1e3b.jpg",
+        "table_caption": [
+            "表4马铃薯连作年限对土壤微生物功能多样性的影响able 4Effect of continuous potato monoculture on function diversity of soil microbial con"
+        ],
+        "table_footnote": [
+            "RP 为连作0年(未连作),CP1-CP5为连作1\\~5年处理。同列不同小写字母表示各连作年限处理间 $5 \\%$ 差异显著水平。RP,CP1,CP2,CP3,CP4andCP5aretretsoaef,darieltoassimean significant differences at $5 \\%$ level by Duncan's test. YCPM: year of continuous potato monoculture."
+        ],
+        "table_body": "<html><body><table><tr><td>处理 Treatment</td><td>Shannon多样性指数 Shannon-wiener index</td><td>Simpson优势度指数 Simpson index</td><td>Pielou均匀度指数 Pielou index</td><td>McIntosh 指数 McIntosh index</td><td>丰富度指数 Richness index</td></tr><tr><td>RP</td><td>3.15±0.14a</td><td>0.955±0.011a</td><td>0.876±0.017b</td><td>6.11±0.83a</td><td>29.50±0.79a</td></tr><tr><td>CP1</td><td>3.15±0.16a</td><td>0.952±0.009a</td><td>0.878±0.076b</td><td>6.08±0.92a</td><td>28.92±1.89a</td></tr><tr><td>CP2</td><td>3.04±0.06a</td><td>0.946±0.003a</td><td>0.929±0.041ab</td><td>5.85±0.40a</td><td>27.09±1.62ab</td></tr><tr><td>CP3</td><td>2.72±0.12b</td><td>0.919±0.011b</td><td>0.858±0.025b</td><td>4.29±0.35b</td><td>25.92±1.81b</td></tr><tr><td>CP4</td><td>2.78±0.23b</td><td>0.919±0.025b</td><td>0.984±0.067a</td><td>4.31±0.60b</td><td>26.00±2.29b</td></tr><tr><td>CP5</td><td>2.77±0.09b</td><td>0.920±0.009b</td><td>0.873±0.101b</td><td>4.02±0.51b</td><td>28.42±1.42ab</td></tr><tr><td colspan=\"6\">线性相关分析 Linear correlation analysis (n=24)</td></tr><tr><td>连作年限</td><td>r=-0.737 6</td><td>r=-0.746 5</td><td>r=0.165 2</td><td>r=-0.792 4</td><td>r=-0.368 8</td></tr><tr><td>YCPM</td><td>P<0.000 1</td><td>P<0.000 1</td><td>P=0.440 7</td><td>P<0.000 1</td><td>P=0.076 2</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d1bf67d800d1a95e1034e0148ab6a21492e9a480a6ac8b58ae9c483854515c2d.jpg",
+        "img_caption": [
+            "图2马铃薯连作年限对土壤微生物区系结构的影响 Fig.2Effect of continuous potato monoculture on structure of soil microbial community RP 为连作0年(未连作),CP1-CP5为连作1\\~5年处理。RP, CP1,CP2,CP3,CP4 and CP5 are treatments of continuous potato monoculture for O,1,2,3,4and5 years,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5 回归分析和通径分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以块茎产量作因变量，以土壤因子作自变量，采用线性逐步回归分析方法，探讨不同土壤因子对块茎产量的影响。结果显示主成分因子1、微生物生物量碳、全氮和脱氢酶对块茎产量具有显著影响，且均表现为明显的正效应，而其余土壤因子均未达到统计显著水平 $( P { > } 0 . 0 5 )$ 。回归方程如下： $y =$ $1 3 . 1 8 8 \\ 2 \\substack { + 3 . 0 6 1 }$ （204号 $1 x _ { 1 } + 0 . 0 9 3 \\ 8 x _ { 2 } + 6 . 5 8 6 \\ 5 x _ { 3 } + 2 2 . 4 7 2 \\ 1 x _ { 4 }$ 1 $_ { ( r = 0 . 9 6 1 \\ 1 }$ ， $P { = } 0 . 0 2 2 \\ 6$ ， $n { = } 2 4$ )，其中 $y$ 表示块茎产量，$x _ { 1 }$ 表示主成分因子1, $x _ { 2 }$ 表示微生物生物量碳， $x _ { 3 }$ 表示全氮， $x _ { 4 }$ 表示脱氢酶。结合线性相关分析，计算得到上述4个土壤因子对块茎产量的通径系数，结果如表7所示。主成分因子1的直接通径系数为0.5536,远高于其他3个因子，显示其对块茎产量的直接影响作用最大。微生物生物量碳对块茎产量的影响作用次之，其直接通径系数为0.3821，并且微生物生物量碳可通过主成分因子1在较大程度上来间接影响块茎产量(间接通径系数为0.3364)。全氮和脱氢酶的直接通径系数分别为0.1975和0.1875，表明二者对块茎产量的直接影响作用相对较小，但脱氢酶通过主成分因子1对块茎产量的间接影响作用要高于其直接影响作用(间接通径系数为0.2163)。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/75eff75e6dcca456b36eaff7677ca95dd894c65d6e3bd91e2677527bc87c30a5.jpg",
+        "table_caption": [
+            "表5微生物对碳源的利用情况与PC1的相关分析",
+            "Table5 Correlation analysis between utilization pattern of sole-carbon source substrates and PC1 "
+        ],
+        "table_footnote": [
+            "-\"表中相关系数 $_ { < 0 . 8 }$ 或 $> - 0 . 8 _ { \\circ }$ \\*， $P < 0 . 0 5$ $^ { * * }$ $P < 0 . 0 1$ .When symbol“-”was given in the table,the correlation coefficient was $< 0 . 8$ or $> - 0 . 8$ "
+        ],
+        "table_body": "<html><body><table><tr><td>碳源类型 Carbon type</td><td>Su源名称me</td><td></td><td>碳源类</td><td>Sub源名称e</td><td></td></tr><tr><td rowspan=\"7\">碳水化合物类 Carbohydrates</td><td>β-甲基-D-葡萄糖苷 β-methyl-D-glucoside</td><td>0.874 6**</td><td rowspan=\"7\">羧酸类 Carboxylic acids</td><td>丙酮酸甲酯 Pyruvic acid methyl ester</td><td></td></tr><tr><td>D-半乳糖酸-γ-内酯 D-galactonic acid-γ-lactone</td><td>0.843 6**</td><td>D-半乳糖醛酸 D-galacturonica cid</td><td></td></tr><tr><td>D-木糖</td><td></td><td>γ-羟基丁酸</td><td></td></tr><tr><td>D-xylose i-赤藻糖醇</td><td></td><td>γ-hydroxybutyric acid D-葡萄胺酸</td><td></td></tr><tr><td>i-erythritol D-甘露糖</td><td>0.883 9**</td><td>D-glucosaminica cid 衣康酸</td><td></td></tr><tr><td>D-mannose N-乙酰基-D-葡萄糖胺</td><td>0.8643**</td><td>Itaconic acid α-丁酮酸</td><td></td></tr><tr><td>N-acetyl-D-glucosamine D-纤维二糖 0.8864** D-cellobiose</td><td>聚合物类</td><td>α-ketobutyric acid D-苹果酸 D-malic acid</td><td></td></tr><tr><td rowspan=\"5\">氨基酸类 Amino acids</td><td>葡萄糖-1-磷酸盐 Glucose-1-phosphate</td><td>0.8133**</td><td>Polymers</td><td>吐温40</td><td></td></tr><tr><td>α-D-乳糖 α-D-lactose</td><td></td><td rowspan=\"4\"></td><td>Tween 40 吐温80</td><td></td></tr><tr><td>D,L-α-甘油</td><td></td><td>Tween 80 α-环式糊精</td><td></td></tr><tr><td>D,L-α-glycerol phosphate L-精氨酸</td><td>0.8184**</td><td>α-cyclodextrin</td><td></td></tr><tr><td>L-arginine</td><td>胺类</td><td>肝糖 Glycogen 苯乙胺</td><td></td></tr><tr><td rowspan=\"5\">Glycyl-L-glutamica cid</td><td>L-天冬酰胺酸 L-asparagine</td><td></td><td rowspan=\"5\">Amines</td><td>Phenyl ethylamine</td><td></td></tr><tr><td>L-苯基丙氨酸</td><td></td><td>腐胺</td><td></td></tr><tr><td>L-phenylalanine</td><td></td><td>Putrescine</td><td></td></tr><tr><td>L-丝氨酸 L-serine</td><td>酚酸类 Phenolic 0.8131**</td><td>2-羟基苯甲酸 2-hydroxybutyric acid</td><td></td></tr><tr><td>L-苏氨酸 L-threonine 甘氨酸-L-谷氨酸</td><td>compounds</td><td>4-羟基苯甲酸 4-hydroxybutyric acid</td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/94676cffc14c3b2039a1d4591999d24d53b2c0773e6f825ca412e2a2b73d77d7.jpg",
+        "img_caption": [
+            "图3不同马铃薯连作年限下土壤微生物对6类碳源的相对利用率Fig.3Relativeutilization ratios ofsix groups ofcarbonsourcesbysoil microorganismsundercontinuous potato monocultureRP为连作0年(未连作),CP1-CP5为连作1\\~5年处理。CH:碳水化合物类;AA:氨基酸类;CA:羧酸类;AM:胺类;PC:酚酸类;PO:聚合物类。RPCP1,CP2,CP3,CP4andC5aretreatmentsofoiuouspotatomonculturefor0,1,2,3,4and5yearsrespctivelyCH: carbohydrates; AA: amino acids; CA: carboxylic acids; AM: amines; PC: phenolic compounds; PO: polymers."
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3 结论和讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1马铃薯连作对土壤化学性质的影响有机碳是维持土壤可持续生产力的关键因素且有机碳库与土壤质量和作物生产力有密切关系。本研究表明，马铃薯长期连作降低土壤有机碳含量，随着连作年限延长，土壤有机碳含量呈逐渐降低趋势，相似结果也被早前学者报道[36-37]。长期连作能",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/6442c6e20bff393c00d185bb4ec74171ecf35a0da731af2759fbab1bb36eea96.jpg",
+        "table_caption": [
+            "表6不同马铃薯连作年限下土壤微生物对单一碳源的相对利用率比较Table6Comparisononrelativeutilizationratiosofsole-carbon sources substrates bysoilmicrorganisms undercontiuous potatomonoculture"
+        ],
+        "table_footnote": [
+            "RP 为连作0年(未连作),CP1-CP5为连作1\\~5年处理。LCA:单一碳源的相对利用率与连作年限间的线性相关分析 $\\scriptstyle ( n = 2 4 )$ 。RP, CP1, CP2CP3,CP4dto,dsllyear of continuous potato monoculture and the relative utilization ratio of sole-carbon source substrate $\\scriptstyle ( n = 2 4 )$ ："
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"9\">honocdrure</td></tr><tr><td rowspan=\"2\">碳源种类 Carbon type</td><td rowspan=\"2\">碳源名称 Substrate name</td><td colspan=\"2\">相对利用率</td><td colspan=\"3\">Relative utilization ratio (%)</td><td colspan=\"2\">线性相关分析 LCA</td></tr><tr><td>RP</td><td>CP1</td><td>CP2</td><td>CP3</td><td>CP4</td><td>CP5</td><td>r P</td></tr><tr><td>碳水化合物类 Carbohydrates</td><td>β-甲基-D-葡萄糖苷 β-methyl-D-glucoside</td><td>3.44</td><td>3.19</td><td>4.91</td><td>1.19</td><td>2.35</td><td>1.04</td><td>-0.5051 0.011 8</td></tr><tr><td rowspan=\"15\">氨基酸类 Amino acids</td><td>D-半乳糖酸-γ-内酯 D-galactonic acid-γ-lactone</td><td>2.73</td><td>3.36</td><td>5.71 3.41</td><td>2.98</td><td>0.47</td><td>-0.3851</td><td>0.0631</td></tr><tr><td>D-木糖 D-xylose</td><td>3.31</td><td>2.59 2.73</td><td>0.53</td><td>2.18</td><td>1.72</td><td>-0.2651</td><td>0.210 6</td></tr><tr><td>i-赤藻糖醇i-erythritol</td><td>1.25</td><td>0.87 1.14</td><td>1.56</td><td>0.34</td><td>0.91</td><td>-0.1061</td><td>0.6219</td></tr><tr><td>D-甘露糖 D-mannose</td><td>5.49</td><td>5.28 6.89</td><td>4.59</td><td>5.30</td><td>7.14</td><td>0.122 3</td><td>0.569 0</td></tr><tr><td>N-乙酰基-D-葡萄糖胺 N-acetyl-D-glucosamine</td><td>4.93</td><td>4.31</td><td>5.76</td><td>3.29</td><td>0.64</td><td>3.20 -0.326 8</td><td>0.119 1</td></tr><tr><td>D-纤维二糖 D-cellobiose</td><td>4.52</td><td>5.30</td><td>6.49</td><td>4.15</td><td>3.92</td><td>3.24 -0.419 6</td><td>0.0413</td></tr><tr><td>葡萄糖-1-磷酸盐 Glucose-1-phosphate</td><td>2.27</td><td>2.65</td><td>3.33</td><td>1.02</td><td>1.46 1.40</td><td>-0.370 8</td><td>0.074 4</td></tr><tr><td>α-D-乳糖 α-D-lactose</td><td>2.65</td><td>2.37</td><td>1.97</td><td>0.70</td><td>2.80</td><td>2.09 -0.096 6</td><td>0.653 5</td></tr><tr><td>D,L-α-甘油 D,L-α-glycerol phosphate</td><td>1.40</td><td>1.48</td><td>1.42</td><td>1.29</td><td>1.10 0.96</td><td>-0.199 2</td><td>0.3507</td></tr><tr><td>L-精氨酸 L-arginine</td><td>5.36</td><td>4.08</td><td>3.30</td><td>5.05</td><td>4.01</td><td>2.46</td><td>-0.285 5 0.176 2</td></tr><tr><td>L-天冬酰胺酸L-asparagine L-苯基丙氨酸 L-phenylalanine</td><td>6.94</td><td>5.49</td><td>6.47</td><td>11.81</td><td>12.29</td><td>8.31</td><td>0.387 6</td><td>0.061 3</td></tr><tr><td>L-丝氨酸L-serine</td><td>1.23</td><td>1.95</td><td>0.91</td><td>0.74</td><td>1.84</td><td>1.06</td><td>-0.089 8</td><td>0.676 6</td></tr><tr><td>L-苏氨酸 L-threonine</td><td>4.33</td><td>3.81</td><td>5.22</td><td>3.91</td><td>5.68</td><td>4.30</td><td>0.113 0</td><td>0.599 1</td></tr><tr><td>甘氨酸-L-谷氨酸 Glycyl-L-glutamica cid</td><td>1.03</td><td>1.96</td><td>0.78</td><td>0.50</td><td>0.66</td><td>0.51</td><td>-0.5262</td><td>0.008 3</td></tr><tr><td></td><td>2.65</td><td>2.56</td><td>3.44</td><td>3.89</td><td>3.70</td><td>3.23</td><td>0.2784</td><td>0.187 7</td></tr><tr><td>羧酸类 Carboxylic acids</td><td>丙酮酸甲酯 Pyruvic acid methyl ester</td><td>3.98</td><td>4.66</td><td>4.25 6.52</td><td>5.17</td><td>7.03</td><td>0.508 6</td><td>0.011 2</td></tr><tr><td>D-半乳糖醛酸 D-galacturonica cid</td><td></td><td>4.29 5.35</td><td>6.03</td><td>4.26</td><td>4.62</td><td>4.27</td><td>-0.075 0</td><td>0.727 3</td></tr><tr><td>γ-羟基丁酸γ-hydroxybutyric acid</td><td>0.61</td><td>0.48</td><td>0.52</td><td>0.76</td><td>0.64</td><td>0.36</td><td>-0.064 6</td><td>0.764 4</td></tr><tr><td>D-葡萄胺酸 D-glucosaminica cid</td><td>4.09</td><td>2.17</td><td>2.97</td><td>1.76</td><td>1.70</td><td>1.52</td><td>-0.488 6</td><td>0.015 4</td></tr><tr><td>衣康酸 Itaconic acid</td><td>2.45</td><td>2.05</td><td>1.50</td><td>2.44</td><td>1.20</td><td>2.27</td><td>-0.117 1</td><td>0.585 7</td></tr><tr><td>α-丁酮酸 α-ketobutyric acid</td><td>0.49</td><td>0.52</td><td>0.45</td><td>0.11</td><td>0.36</td><td>0.22</td><td>-0.293 7</td><td>0.163 6</td></tr><tr><td>胺类</td><td>D-苹果酸 D-malic acid</td><td>5.37</td><td>4.42 4.60</td><td>7.58</td><td>5.88</td><td>6.96</td><td>0.279 5</td><td>0.185 9</td></tr><tr><td></td><td>苯乙胺 Phenyl ethylamine</td><td>2.91</td><td>3.03 0.15</td><td>0.70</td><td>0.52</td><td>2.40</td><td>-0.258 2</td><td>0.2231</td></tr><tr><td>Amines</td><td>腐胺 Putrescine</td><td>2.46</td><td>3.18</td><td>3.02 3.96</td><td>2.47</td><td>4.16</td><td>0.2402</td><td>0.258 2</td></tr><tr><td>酚酸类</td><td>2-羟基苯甲酸 2-hydroxybutyric acid</td><td>0.07</td><td>1.11</td><td>0.05 0.10</td><td>0.34</td><td>0.89</td><td>0.092 7</td><td>0.666 7</td></tr><tr><td>Phenolic compounds</td><td>4-羟基苯甲酸 4-hydroxybutyric acid</td><td>4.82</td><td>5.18</td><td>3.15 7.38</td><td>5.30</td><td>8.28</td><td>0.317 0</td><td>0.1313</td></tr><tr><td>聚合物类 Polymers</td><td>吐温 40 Tween 40</td><td>4.12</td><td>4.91</td><td>4.17</td><td>6.04</td><td>5.30 5.84</td><td>0.311 9</td><td>0.138 0</td></tr><tr><td></td><td>吐温80 Tween 80</td><td>4.11</td><td>5.23 5.21</td><td>6.45</td><td>7.92</td><td>6.13</td><td>0.542 8</td><td>0.0061</td></tr><tr><td>α-环式糊精α-cyclodextrin</td><td></td><td>2.61 2.65</td><td>2.52</td><td>1.61</td><td>2.07</td><td>4.27</td><td>0.168 9</td><td>0.430 2</td></tr><tr><td>肝糖Glycogen</td><td>4.09</td><td>3.80</td><td>1.33</td><td>2.66</td><td>1.42</td><td>3.38</td><td>-0.2181</td><td>0.306 0</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/366931533596471c9f71653caf24138eef24ddb4e878e8a8405f4631533e6a7f.jpg",
+        "table_caption": [
+            "表7土壤性质与块茎产量的通径分析 Table 7Path analysis between soil properties and tuber yield of potato "
+        ],
+        "table_footnote": [
+            "PC1: principal component factor1; MBC: microbial biomass carbon;TN: total nitrogen;DE:dehydrogenase "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">土壤性状 Soil property</td><td rowspan=\"2\">直接通径系数 Direct path coefficient</td><td colspan=\"5\">间接通径系数 Indirect path coefficient</td></tr><tr><td>主成分因子1 PC1</td><td>微生物生物量碳 MBC</td><td>全氮 TN</td><td>脱氢酶 DA</td><td>合计</td></tr><tr><td>主成分因子1PC1</td><td>0.5563</td><td></td><td>0.231 2</td><td>0.013 0</td><td>0.0731</td><td>Sum 0.317 3</td></tr><tr><td>微生物生物量碳</td><td>0.3821</td><td>0.3364</td><td></td><td>0.0018</td><td>0.0169</td><td>0.3551</td></tr><tr><td>MBC 全氮TN</td><td>0.197 5</td><td>0.0367</td><td>0.003 4</td><td></td><td>0.069 0</td><td>0.109 1</td></tr><tr><td>脱氢酶DE</td><td>0.187 5</td><td>0.216 3</td><td>0.034 3</td><td>0.072 2</td><td></td><td>0.322 8</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecoagri.ac.cn ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "够导致土壤有机质中稳定性结构减少，而易分解结构增加，有机质结构趋于简单化，易被分解，碳含量降低[38]。棉花长期连作导致 $0 { \\sim } 4 0 ~ \\mathrm { c m }$ 深度内土壤有机碳的活性指数显著增加，但难降解指数则显著降低[39]。团聚体的物理保护是土壤有机碳重要的稳定机制，长期连作可能是通过改变土壤中不同粒级团聚体的比例及其碳含量进而降低有机碳的稳定性[40]。长期耕种和缺乏有机投入，使得土壤有机碳库输入少、输出多，这也会导致连作土壤有机碳含量降低[41]。也有学者报道了长期连作下土壤有机碳含量高于非连作或短期连作的现象[42-43]，但作物产量依然随连作而降低。沈宝云等[44]研究显示，即使大量施用普通有机肥或生物有机肥，连作马铃薯块茎产量同样会大幅下降。尽管本研究中土壤有机碳含量和块茎产量存在着显著正相关关系，然而逐步回归分析显示前者对后者并无显著影响。有研究推测，相比较于土壤有机碳含量，土壤有机碳质量可能与连作障碍的关系更为密切[43]，但目前仍然缺乏直接证据。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "田间试验结果表明，马铃薯长期连作增加土壤碱解氮、速效磷、速效钾含量和电导率，且除速效磷外，均与连作年限有显著或极显著线性正相关关系。马铃薯连作条件下植株生长发育变差，对养分消耗减少，伴随常年化肥施用，使得土壤养分输入多、输出少，逐渐累积[45]，引起电导率上升。与早前报道相比[46]，本研究未发现土壤 pH 随连作出现规律性变化，可能与供试土壤性质差异有关。农作物由于其自身营养特性的原因对于土壤养分并非均衡性吸收，有学者据此认为长此以往所带来的土壤养分亏缺、比例失调或不平衡会导致连作障碍发生[47-49],但本试验结果并不支持该论断。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2马铃薯连作对土壤酶活性的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "马铃薯连作导致土壤脲酶、蔗糖酶和脱氢酶活性降低，且后两者与连作年限显著或极显著线性负相关。整体来看，连作土壤平均酶活性较非连作显著下降。土壤酶来源于动植物残体分解、微生物生产和根系分泌物，故而土壤有机质、微生物代谢强度和作物长势是影响土壤酶活性的主要因子[50]。通常来看，有机质含量高的土壤同样具有高水平的酶活性[51]，土壤有机质含量的增加能促进有机质或矿质胶体与酶分子之间复合体的形成[52]。本研究结果也证明土壤有机质含量与脲酶、碱性磷酸酶、蔗糖酶和脱氢酶活性均显著或极显著正相关，马铃薯连作土壤有机碳含量降低应是酶活性下降的重要原因。此外，长期连作土壤微生物生物量碳含量、土壤基础呼吸量、FDA水解活性和AWCD降低，土壤微生物代谢受到抑制，这将使得土壤微生物对酶的生产量减少[53]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "脱氢酶活性表征土壤氧化还原状况并与微生物的氧化能力关联。本研究证明脱氢酶活性与土壤基础呼吸量、FDA水解活性和AWCD均显著或极显著正相关。土壤脱氢酶活性和块茎产量随连作双双下降，并且前者对后者的影响作用达到统计显著水平，而通径分析则表明这种影响作用更多地是借由土壤微生物群落结构作为桥梁来间接实现。多酚氧化酶能酶促一、二及三元酚氧化为醌，在土壤芳香族有机化合物转化为腐殖质组分的过程中起重要作用。酚酸是常见的化感/自毒物质，有学者认为多酚氧化酶活性降低能够导致土壤中酚酸类化合物积累，带来潜在的自毒效应并改变土壤微生物群落结构[54-56]。但本研究中土壤多酚氧化酶活性并未因马铃薯连作而出现显著变化。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3马铃薯连作对土壤微生物功能多样性和碳源利用的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究结果表明，马铃薯长期连作显著降低土壤微生物活性和微生物功能多样性，土壤微生物群落结构随连作明显改变。张雪艳等[57]研究表明，温室黄瓜(Cucumissativus)连作显著降低土壤微生物对碳水化合物类、羧酸类、聚合物类、氨基酸类和胺类碳源的利用强度。岳冰冰等[58]指出，烤烟(Nicotianatabacum)轮作与连作相比，土壤微生物对碳源的利用强度除胺类以外均有显著提高。李玉娣等[59]也证明，大棚蔬菜种植土壤微生物对碳水化合物类和氨基酸类碳源的利用随连作年限出现巨大分异。马铃薯长期连作下土壤微生物对碳水化合物类、氨基酸类、羧酸类和胺类碳源的相对利用率均有显著降低，其中又以碳水化合物类碳源的平均降幅最大，而微生物群落结构变化特别是以碳水化合物为碳源的微生物群落改变应是直接原因，碳水化合物是区分不同连作年限处理微生物群落结构差异的最敏感碳源。碳水化合物是自然界中存在最多、具有广谱化学结构和生物功能的有机化合物，是微生物利用最广的碳源，在微生物分解代谢中占有重要地位。基于高通量测序发现，马铃薯长期连作显著降低土壤细菌群落的结构多样性和丰富度[19]，这直接导致微生物对碳水化合物类碳源相对利用率的快速下降。马玲等[6发现，土壤微生物对碳水化合物的相对利用率随着马铃薯连作年限延长而显著下降，但其他类碳源则变化不明显，并认为代谢功能强弱可能与微生物主要类群组成有关，功能的变化由特定微生物类群决定。微生物对单一碳源利用与PC1的相关分析显示，微平板上所包含的10种碳水化合物类碳源其中有7种的利用强度与PC1高度正相关$( r { > } 0 . 8 , P { < } 0 . 0 1 )$ ，这间接证实了上述报道。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "根系分泌物是根际微生物利用碳源的主要来源。有研究指出[21-22]，马铃薯连作较非连作根系分泌物组分变化明显，糖类所占比例降低，而有机酸类比例增加。但本研究中长期连作土壤微生物对氨基酸类、羧酸类和酚酸类碳源的相对利用率较非连作反而显著降低，这可能一方面与微平板内碳源种类的选择有关，另一方面也与连作土壤微生物数量减少有关。31种单一碳源相对利用率的分级显示，长期连作改变土壤微生物对碳源的利用模式，使之更为集中地利用少数几种碳源底物，这与早前学者对连作黄瓜的报道一致[35]。长期连作土壤微生物对L-天冬酰胺酸、丙酮酸甲酯、D-苹果酸、4-羟基苯甲酸、吐温40和吐温80等碳源的相对利用率较高，其中前4种均属于有机酸。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.4土壤微生物因子与马铃薯连作障碍的关系",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "线性逐步回归分析显示，PC1和微生物生物量碳显著影响块茎产量，通径分析表明，前者的直接贡献远高于后者。PC1和微生物生物量碳实质是表征土壤微生物群落结构和微生物数量两个概念。本研究条件下，微生物群落结构是影响连作马铃薯生产力最重要的土壤因子。马铃薯连作显著影响土壤微生物群落结构，相似的结果也在其他作物上得到证明[36,45,61-66]。长期连作导致甘肃中部沿黄灌区马铃薯干腐病、立枯病和黄萎病等土传病害泛滥，降低块茎产量。基于PCR-DGGE、Real-time PCR以及高通量测序等方法研究发现，土壤中Rhizoctoniasolani、Verticilliumdahliae、Fusariumsp.等士传致病菌随马铃薯连作大量积累[14-20]。马铃薯长期连作导致土壤从抑病型向导病型转变，而微生物群落结构的变化是主要原因[14.67]。土传病害的抑制在一定程度上是土壤微生物群体的作用，当微生物群落结构越丰富、多样性越高时，作物对抗病原菌的综合能力就越强。长期连作破坏土壤微生物群落结构，微生物种间互作呈现无序和弱化状态[14,65]，有益微生物或具有潜在生防能力的微生物丰度降低[68]，对土传致病菌的竞争能力下降。有学者直接指出，连作土壤中土传致病菌的积累是以有益微生物的减少作为代价[68-69]。但导致连作土壤微生物群落结构出现这种定向性变化的深层次机理尚不明确，推测可能与根系分泌物有关。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "根系分泌物是土壤-微生物-植物体系重要的调节者。根系分泌物影响土壤微生物群落结构，而微生物自身也能够直接作用于根系分泌物或者通过影响植物生长发育来改变根系分泌物的组成和种类。不同于早前学者的传统理解，已有报道指出[5,56]，连作障碍的发生更多地是与根系分泌物对土壤微生物群落的改变有关，而非根系分泌物对植株直接的自毒作用。对连作花生的研究表明[5]，根系分泌物对土壤微生物的影响具有选择性，表现为增加Fusariumoxysporum等致病菌的相对丰度，而抑制PGPRs和菌根真菌等有益菌的相对丰度。张文明等[21研究发现，轮作和连作马铃薯根系分泌物都可促进立枯病病原菌Rhizoctoniasolani的生长，但后者的促进作用更为显著。因此，在本研究的基础上明确连作马铃薯根系分泌物和土壤微生物群落结构之间的关系将是未来厘清甘肃中部沿黄灌区马铃薯连作障碍机理和形成高效连作土壤障碍因子消减技术的关键点。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献References",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1] 沈宝云，刘星，王蒂，等．甘肃省中部沿黄灌区连作对马铃 薯植株生理生态特性的影响[J]．中国生态农业学报，2013, 21(6): 689-699 Shen B Y,Liu X,Wang D,et al．Effects of continuous cropping on potato eco-physiological characteristics in the Yellow River irrigation area of the central Gansu Province[J]. Chinese Journal of Eco-Agriculture,2013,21(6): 689-699   \n[2]刘星，张书乐，刘国锋，等．连作对甘肃中部沿黄灌区马铃 薯干物质积累和分配的影响[J]．作物学报，2014，40(7): 1274-1285 Liu X,Zhang S L,Liu G F,et al.Effects of continuous cropping on dry matter accumulation and distribution of potato plants in the Yellow River irrigation areas of middle Gansu Province[J].Acta Agronomica Sinica,2014,40(7): 1274-1285   \n[3]李天来，杨丽娟．作物连作障碍的克服—难解的问题[J] 中国农业科学,2016,49(5):916-918 Li TL,Yang L J. Overcoming continuous cropping obstacles 一The different problem[J].Scientia Agricultura Sinica, 2016,49(5): 916-918   \n[4]Huang L F,SongL X,Xia XJ,et al.Plant-soil feedbacks and soilsickness:Frommechanismstoapplicationin agriculture[J].Journal of Chemical Ecology，2013,39(2): 232-242   \n[5]Li XG, Ding C F,Hua K,et al.Soil sickness of peanuts is attributable to modifications in soil microbes induced by peanut root exudates rather than to direct allelopathy[J]. Soil Biology and Biochemistry,2014,78(11):149-159   \n[6]王娟，刘补成．马铃薯连作年限对土壤氮磷钾及微量元素 的影响[J]．甘肃农业科技,2014,(1):20-22 Wang J,Liu B C.Effect of continuous potato cropping on soil nutrients[J].Gansu agricultural Science and Technology,2014,   \n[7] 陈杰，郭天文，谭雪莲，等．马铃薯连作地健康株与病 株根区土壤微生态特性比较[J]．作物学报，2013，39(11): 2055-2064 Chen J，Guo T W,Tan X L，et al.Comparison of microecological characterization in rhizosphere soil between healthy and diseased plants in continuous cropping potato fields[J].Acta Agronomica Sinica, 2013,39(11): 2055-2064   \n[8] 孙权，陈茹，宋乃平，等．宁南黄土丘陵区马铃薯连作土壤 养分、酶活性和微生物区系的演变[J]．水土保持学报,2010, 24(6): 208-212 Sun Q,Chen R，Song N P,et al. Change trends of soil nutrients,enzyme activities,and microbial composition in continuous potato cropping system in semi-arid and cool hilly area of Ningxia[J]. Journal of Soil and Water Conservation, 2010,24(6): 208-212   \n[9] 徐雪风，回振龙，李自龙，等．马铃薯连作障碍与土壤环境 因子变化相关研究[J]．干旱地区农业研究，2015，33(4): 16-23 Xu X F, Hui Z L,Li Z L,et al. Relationship between potato continuouscropping obstacle and soil environmental factors[J]. Agricultural Research in the Arid Areas,2015, 33(4): 16-23   \n[10]吴丹丹，刘星，邱慧珍，等．马铃薯连作对土壤盐分积累及 离子组成的影响[J]．甘肃农业大学学报,2015,50(2):40-45 Wu D D,Liu X, Qiu H Z, et al. Effects of continuous potato cropping on salt accumulation and ion composition in soil[J]. Journal of Gansu Agricultural University,2015,50(2): 40-45   \n[11]白艳茹，马建华，樊明寿．马铃薯连作对土壤酶活性的影 响[J]．作物杂志,2010,(3):34-36 Bai Y R,Ma JH,Fan M S.Effect of potato continuous cropping on activities of soil enzymes[J]. Crops,2010,(3): 34-36   \n[12] Larkin R P.Characterization of soil microbial communities underdifferent potato cropping systems by microbial population dynamics，substrate utilization,and fatty acid profiles[J]. Soil Biology and Biochemistry,2003，35(11): 1451-1466   \n[13]李继平，李敏权，惠娜娜，等．马铃薯连作田土壤中主要病 原真菌的种群动态变化规律[J]．草业学报，2013，22(4): 147-152 Li JP, Li MQ,Hui N N, et al. Population dynamics of main fungal pathogens in soil of continuously cropped potato[J]. Acta Prataculturae Sinica,2013,22(4):147-152   \n[14] Lu L H,Yin S X,Liu X,et al. Fungal networks in yield-invigorating and -debilitating soils induced by prolonged potato monoculture[J]. Soil Biology and Biochemistry,2013, 65(10): 186-194   \n[15]孟品品，刘星，邱慧珍，等．连作马铃薯根际土壤真菌种群 结构及其生物效应[J]．应用生态学报，2012，23(11): 3079-3086 Meng PP, Liu X,Qiu H Z, et al. Fungal population structure and its biological effect in rhizosphere soil of continuously cropped potato[J]. Chinese Journal of Applied Ecology, 2012, 23(11): 3079-3086   \n[16]牛秀群，李金花，张俊莲，等．甘肃省干旱灌区连作马铃署 根际土壤中镰刀菌的变化[J]．草业学报，2011，20(4): 236-243 Niu X Q, Li JH, Zhang JL, et al. Changes of Fusarium in rhizosphere soil under potato continuous cropping systems in arid-irrigated area of Gansu Province[J].Acta Prataculturae Sinica,2011,20(4): 236-243   \n[17] 李瑞琴，刘星，邱慧珍，等．发生马铃薯立枯病土壤中立枯 丝核菌的荧光定量 PCR 快速检测[J]．草业学报，2013, 22(5): 136-144 Li R Q,Liu X, Qiu H Z, et al. Rapid detection of Rhizoctonia in rhizosphere soil of potato using real-time quantitative PCR[J]. Acta Prataculturae Sinica,2013,22(5): 136-144   \n[18]李瑞琴，刘星，邱慧珍，等．连作马铃薯根际干腐病优势病 原菌荧光定量PCR 快速检测及在根际的动态变化[J]．草业 学报,2013,22(6): 239-248 Li R Q,Liu X,Qiu H Z,et al. Changes in the dominant pathogens causing Fusarium dry rot of potato in rhizospheric soil under continuous potato cropping systems based on real-time quantitative PCR[J]. Acta Prataculturae Sinica,2013, 22(6): 239-248   \n[19] Liu X,Zhang JL,Gu T Y,et al. Microbial community diversities and taxa abundances in soils along a seven-year gradient of potato monoculture using high throughput pyrosequencing approach[J].PLoS One,2014,9(1): e86610   \n[20]刘星，邱慧珍，王蒂，等．甘肃省中部沿黄灌区轮作和连作 马铃薯根际土壤真菌群落的结构性差异评估[J].生态学报, 2015,35(12): 3938-3948 Liu X,Qiu H Z,Wang D,et al. Evaluation on fungal community structure of rhizosphere soils of potato under rotation and continuous cropping systems in Yellow River Irrigation Areas of Middle Gansu Province[J]. Acta Ecologica Sinica,2015,35(12): 3938-3948   \n[21]张文明，邱慧珍，张春红，等．连作马铃薯不同生育期根系 分泌物的成分检测及其自毒效应[J]．中国生态农业学报, 2015,23(2): 215-224 Zhang W M, Qiu H Z, Zhang C H, et al.Identification and autotoxicity of root exudates of continuous cropping potato at different growth stages[J]. Chinese Journal of EcoAgriculture,2015,23(2): 215-224   \n[22]张文明，邱慧珍，张春红，等．马铃薯根系分泌物成分鉴别 及其对立枯丝核菌的影响[J]．应用生态学报，2015，26(3): 859-866 Zhang W M,Qiu H Z,Zhang C H,et al.Identification of chemicals in root exudates of potato and their effects on Rhizoctonia solani[J]. Chinese Journal of Applied Ecology, 2015,26(3): 859-866   \n[23]杨桂丽，马琨，卢斐，等．马铃薯连作栽培对土壤化感物质 及微生物群落的影响[J]．生态与农村环境学报,2015,31(5): 711-717 Yang G L, Ma K,Lu F,et al. Effect of continuous cropping of potato on allelochemicals and soil microbial community[J]. Journal of Ecology and Rural Environment,2015,31(5): 711-717   \n[24]沈宝云，李朝周，余斌，等．甘肃沿黄灌区连作马铃薯根区 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[26]鲍士旦．土壤农化分析[M]．第3版．北京：中国农业出版 社,2008 Bao S D.Soil and Agricultural Chemistry Analysis[M].3rd ed. Beijing:China Agricultural Press,2008 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[27]李振高，骆永明，滕应．土壤与环境微生物研究法[M]．北 京：科学出版社,2008 Li ZG, Luo Y M,Teng Y. Methodology for Soil and Environmental Microorganisms[M]. Beijing:Science Press, 2008   \n[28] Zhang Y, Tan Q L,Hu C X,et al. Differences in responses of soil microbial properties and trifoliate orange seedling to biochar derived from three feedstocks[J].Journal of Soils and Sediments,2015,15(3): 541-551   \n[29] Adam G, Duncan H.Development of a sensitive and rapid method for the measurement of total microbial activity using fluorescein diacetate (FDA） in a range of soils[J]. Soil Biology and Biochemistry,2001,33(7/8): 943-951   \n[30]Giovannini C,Garcia-Mina JM,Ciavatta C,et al.Effect of organic-complexed superphosphates on microbial biomass and microbial activity of soil[J].Biology and Fertility of Soils, 2013,49(4):395-401   \n[31]Jin HM,Sun OJ,Liu JF.Changes in soil microbial biomass and community structure with addition of contrasting types of plant litter in a semiarid grassland ecosystem[J]. Journal of Plant Ecology,2010,3(3): 209-217   \n[32] Rutigliano F A,Romano M,Marzaioli R,et al.Effect of biochar addition on soil microbial community in a wheat crop[J]. European Journal of Soil Biology,2014,60:9-15   \n[33]Insam H,Mitchell C C,Dormaar JF.Relationship of soil microbial biomass and activity with fertilization practice and crop yield of three ultisols[J]. Soil Biology and Biochemistry, 1991,23(5): 459-464   \n[34]程万莉，刘星，高怡安，等．有机肥替代部分化肥对马铃薯 根际土壤微生物群落功能多样性的影响[J].土壤通报, 2015,46(6): 1459-1465 Cheng WL,Liu X,Gao Y A,et al.Effects of chemical fertilizerpartially replacedwith organic fertilizeron finctinnal diversitv nf micrnhial communitv in notatn ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[35]邹春娇，齐明芳，马建，等.Biolog-ECO 解析黄瓜连作营养",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "community structure and diversity in cucumber continuous cropping nutrition medium by Biolog-ECO[J]. Scientia Agricultura Sinica,2016,49(5): 942-951   \n[36] Savario C F, Hoy JW. Microbial communities in sugarcane field soils with and without a sugarcane cropping history[J]. Plant and Soil,2011,341(1/2): 63-73   \n[37] Yang Y S,Liu C J,Kutsch W,et al. Impact of continuous chinese fir monoculture on soil[J]. Pedosphere,2004,14(1): 117-124   \n[38] 张福韬，乔云发，苗淑杰，等．长期玉米连作下黑土各组分 有机质化学结构特征[J]．中国农业科学，2016，49(10): 1913-1924 Zhang F T,Qiao Y F,Miao S J,et al.Chemical structure characteristics of all fractionations in mollisol organic matter under long-term continuous maize cropping[J]. Scientia Agricultura Sinica,2016,49(10):1913-1924   \n[39]黄金花，刘军，杨志兰，等．秸秆还田下长期连作棉田土壤 有机碳活性组分的变化特征[J]．生态环境学报,2015,24(3): 387-395 Huang JH, Liu J, Yang Z L,et al. Changes of cotton straw incorporation on soil organic carbon activity matter of long-term continuous cropping cotton field[J]. Ecology and Environmental Sciences,2015,24(3): 387-395   \n[40]张家春，刘盈盈，贺红早，等．土壤团聚体与有机碳固定关 系研究进展[J]．福建农业学报,2016,31(3):319-325 Zhang JC,Liu Y Y,He H Z,et al. Research advances on mechanismoforganiccarbonsequestrationinsoil aggregates[J]. Fujian Journal of Agricultural Sciences, 2016, 31(3): 319-325   \n[41] Acosta-Martinez V,Burow G, Zobeck T M,et al.Soil microbial communities and function in alternative systems to continuous cotton[J]. Soil Science Society of America Journal, 2008, 74(4): 1181-1192   \n[42] Chen F L,Zheng H,Zhang K,et al. Non-linear impacts of Eucalyptus plantation stand age on soil microbial metabolic diversity[J]. Journal of Soils and Sediments,2013,13(5): 887-894   \n[43] Yao H Y, Jiao X D,Wu F Z. Effects of continuous cucumber cropping and alternative rotations under protected cultivation on soil microbial community diversity[J]. Plant and Soil, 2006,284(1/2): 195-203   \n[44] 沈宝云，余斌，王文，等．腐植酸铵、有机肥、微生物肥配 施在克服甘肃干旱地区马铃薯连作障碍上的应用研究[J]. 中国土壤与肥料,2011,(2):68-70 Shen B Y, Yu B,Wang W,et al. Study on the application of humic ammonia,organic fertilizer,microbial fertilizer to eliminate continuous cropping obstacles of potato in the arid regions of Gansu[J].Soil and Fertilizer Sciences in China, 2011,(2): 68-70   \n[45] Nayyar A,Hamel C,Lafond G, et al. Soil microbial quality associated with yield reduction in continuous-pea[J].Applied Soil Ecol0gy,2009,43(1): 115-121 及微生物量的影响[J]．土壤学报,2016,53(2):533-542 Kang Y L, Jing F,Sun W Q,et al. Effects of continuous croppingofprocessing tomatoonphysical-chemical properties of and microbial biomass in the soil[J].Acta Pedologica Sinica,2016,53(2): 533-542   \n[47] Nie L X,Peng S B,Bouman B A M,et al. Alleviating soil sickness caused by aerobic monocropping: responses of aerobic rice to nutrient supply[J]. Field Crops Research, 2008, 107(2): 129-136   \n[48] Yu JQ,Shou S Y,Qian Y R,et al. Autotoxic potential of cucurbit crops[J]. Plant and Soil,2000,223(1/2):149-153   \n[49]Huang H C,Chou C H,Erickson R S.Soil sickness and its control[J].Allelopathy Journal, 2006,18(1): 1-21   \n[50]万忠梅，吴景贵．土壤酶活性影响因子研究进展[J]．西北 农林科技大学学报：自然科学版,2005,33(6):87-92 Wan Z M,Wu JG. Study progress on factors affecting soil enzyme activity[J].Journal of Northwest Sci-Tech University of Agriculture and Forestry:Natural Science Edition,2005, 33(6): 87-92   \n[51] Yang C L, Sun TH, He W X, et al. Single and joint effects of pesticidesand mercury on soil urease[J]．Journal of Environmental Sciences,2007,19(2): 210-216   \n[52] Chang E H,Chung R S,Tsai Y H. Effect of different application rates of organic fertilizer on soil enzyme activity and microbial population[J]. Soil Science and Plant Nutrition, 2007,53(2): 132-140   \n[53] McCarty G W, Shogren D R,Bremner J M.Regulation of urease production in soil by microbial assimilation of nitrogen[J]. Biology and Fertility of Soils,1992，12(4): 261-264   \n[54]LiPD,Dai C C,Wang X X,et al. Variation of soil enzyme activities and microbial community structure in peanut monocropping system in subtropical China[J]. African Journal of Agricultural Research,2012,7(12): 1870-1879   \n[55] Zhou X G, Yu G B,Wu F Z. Effects of intercropping cucumber with onion or garlic on soil enzyme activities, microbial communities and cucumber yield[J]. European Journal of Soil Biology,2011,47(5): 279-287   \n[56] Zhou X,Yu G,Wu F. Soil phenolics in a continuously mono-cropped cucumber (Cucumis sativus L.） system and their effects on cucumber seedling growth and soil microbial communities[J]. European Journal of Soil Science,2012, 63(3): 332-340   \n[57] 张雪艳，田蕾，吴萍，等.30年不同设施条件和栽培方式下 土壤养分和微生物群落功能多样性的变化[J]．植物营养与 肥料学报,2015,21(6):1581-1589 Zhang X Y, Tian L,Wu P, et al. Changes of soil nutrients and microbial community diversity in responses to different growth environments and cultivation practices in 30 years[J]. Journal of Plant Nutrition and Fertilizer,2015,21(6): 1581-1589   \n[581 岳冰冰 李鑫张会慧 等 连作对黑龙江烤烟十壤微牛物 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Yue B B,Li X, Zhang HH,et al. Soil microbial diversity and community structure under continuous tobacco cropping[J]. Soils,2013,45(1): 116-119   \n[59]李玉娣，谷洁，付青霞，等．陕西云阳蔬菜大棚土壤养分及 微生物群落功能多样性研究[J]．农业环境科学学报，2014, 33(4): 765-771 LiY D,Gu J,Fu Q X,et al. Effects of planting years on soil nutrients and microbial functional diversity in vegetable plastic tunnel in Yunyang，Shaanxi,China[J]. Journal of Agro-Environment Science,2014,33(4): 765-771   \n[60]马玲，马琨，杨桂丽，等．马铃薯连作栽培对土壤微生物多 样性的影响[J]．中国生态农业学报,2015,23(5):589-596 Ma L,Ma K,Yang G L,et al.Effects of continuous potato cropping on the diversity of soil microorganisms[J].Chinese Journal of Eco-Agriculture,2015,23(5): 589-596   \n[61]Li C G, Li X M,Kong W D,et al. Effect of monoculture soybean on soil microbial community in the Northeast China[J]. Plant and Soil,2010,330(1/2): 423-433   \n[62] Zhou X G,Gao D M,Liu J,et al. Changes in rhizosphere soil microbial communities in a continuously monocropped cucumber (Cucumis sativus L.） system[J]. European Journal of Soil Biology,2014, 60: 1-8   \n[63] Zhang W,Long X Q,Huo X D,et al. 16S rRNA-based PCR-DGGE analysis of actinomycete communities in fields with continuous cotton cropping in Xinjiang， China[J]. Microbial Ecology,2013, 66(2): 385-393   \n[64] Chen M N,Li X, Yang QL,et al. Dynamic succession of soil bacterial community during continuous cropping of peanut (Arachis hypogaea L.)[J]. PLoS One,2014,9(7): e101355   \n[65] Chen M N，Li X,Yang Q L，et al． Soil eukaryotic microorganism succession as affected by continuous cropping of peanut-pathogenic and beneficial fungi were selected[J]. PLoS One,2012,7(7): e40659   \n[66] Song A P, Zhao S,Chen S S,et al. The abundance and diversity of soil fungi in continuouslymonocropped chrysanthemum[J]. The Scientific World Journal,2013: 632920   \n[67] 张瑞福，沈其荣．抑病型土壤的微生物区系特征及调控[J]. 南京农业大学学报,2012,35(5):125-132 Zhang R F, Shen QR.Characterization of the microbial flora and management to induce the disease suppressive soil[J]. Journal of Nanjing Agricultural University， 2012，35(5): 125-132   \n[68] Li X G, Ding C F, Zhang T L,et al. Fungal pathogen accumulation at the expense of plant-beneficial fungi as a consequence of consecutive peanut monoculturing[J]. Soil Biology and Biochemistry,2014,72: 11-18   \n[69] Xiong W, Zhao Q Y, Zhao J,et al. Different continuous cropping spans significantly affect microbial community membership and structure in a vanilla-grown soil as revealed by deep pyrosequencing[J]. Microbial Ecology,2015,70(1): 209-218 ",
+        "page_idx": 12
+    }
+]

@@ -1,0 +1,198 @@
+# Brain Functional Specialization is Enhanced among Tai Chi
+
+# Chuan Practitioners
+
+Li-Zhen CHEN1², Xinru YUAN3, Yuanchao ZHANG³, Shu ZHANG1,², Liye ZOU4,
+
+Lin YANG56, Yu-Kai CHANG7, Qixin XIA', Yiqun WANG1 & Gao-Xia WEIl\*
+
+Key Laboratory of Mental Health, Institute of Psychology, Chinese Academy of Sciences,Beijing 100101,
+
+China;
+
+2 Department of Psychology,University ofChinese Academy of Sciences,Beijing 1Oo049,China;
+
+3 Key Laboratory for NeuroInformation of Ministry of Education, School of Life Science and Technology,
+
+University of Electronic Science and Technology of China, Chengdu 61oo54, China;
+
+4 Exerciseand Mental Health Laboratory,Schoolof Psychology,Shenzhen University,Shenzhen 518061,China;
+
+5 Department of Cancer Epidemiology and Prevention Research,Alberta Health Services,Calgary,AB T2S 3C3,
+
+Canada;
+
+6 Departments of Oncology and Community Health Sciences, Cumming School of Medicine, University of
+
+Calgary, Calgary, AB T2N 4Z6, Canada;
+
+7 DepartmentofPhysical Education,National Taiwan Normal University,Taipei,Taiwan 106,RepublicofChina.
+
+Li-Zhen CHEN: writing—original draft preparation, visualization;
+
+Xinru YUAN: data analysis;
+
+Yuanchao ZHANG: methodology, data analysis, data curation;
+
+Shu ZHANG, Yiqun WANG, Qixin XIA: Conducting experiment and administration;   
+Liye ZOU,Lin YANG, Yu-Kai CHANG: draft revision and editing   
+Gao-Xia WEI: project investigator, conceptualization, methodology, data analysis, data curation, draft revision and editing, supervision, project administration.
+
+# Abstract
+
+Objective: To investigate the efect of long-term Tai Chi Chuan (TCC) practice on practitioners’brain functional specialization compare with the TCC novices.
+
+Methods:22 TCC practitioners( $5 2 . 4 \pm 6 . 8$ years;7 males; educated years: $1 2 . 1 8 \pm 3 . 0 3$ years)and 18 healthy controls 0 $5 4 . 8 \pm 6 . 8$ years; 8 males; education years:l $1 . 7 8 \pm 2 . 9 0$ years) matched by age,sex,and education were enrolled Participants underwent functional magnetic resonance imaging (fMRl) scanning and cognitive test to measure the diferences in functionalspecializationandcognitive function.Functional specialization was evaluated byvoxel-mirrored homotopic connectivity (VMHC) method.
+
+Results: Lower middle frontal gyrus (MFG)VMHC in TCC practitioners compared to controls.ForTCC practitioners,the longer tey practice,the lower their VMHC in precentral and precuneus.TCC practitioners showed better cognition performance.
+
+Limitations:Relatively small sample size.
+
+Conclusions: Changed VMHC indicated that TCC practice could enhance functional specialization in the middle frontal cortex of practitioners, which may be associated with higher-order cognitive ability.
+
+Keywords: Tai Chi Chuan; Magnetic Resonance Imaging; Frontal Cortex; Cognitive Function
+
+# 1.Introduction
+
+Increasing amount of evidence indicates that mind-body exercises (e.g., Yoga, Tai Chi Chuan (TCC),and certain Health-Qigong forms) are not only efficient relaxation skills promoting good health [1], but can also act as alternative treatments for symptomatic management in individuals with a number of medical conditions [2-4]. TCC is a typical form of mind-body exercise originating in ancient China, which involves meditation, mental concentration, musculoskeletal stretching, and diaphragmatic breathing with choreographed movements [5, 6]. Given increasing evidences demonstrate its beneficial effect on behavioral performance,it has been accepted for symptomatic management of some chronic diseases. For instance,a recent study by Wang et al. [7] observed that 12-month TCC intervention resulted in similar or greater improvement in disease specific symptoms in patients with fibromyalgia compared to those engaging in the same dose of aerobic exercise. Some evidence also indicates that TCC practice can regulate emotion and relieve the symptoms of mood disorders [8,9]. Additionally, a number of behavioral studies demonstrated that TCC can improve cognitive function (e.g. executive function, reaction time)[10,11]. To better understand the neural mechanisms underlying such improvements, magnetic resonance imaging (MRI) studies were performed on TCC practitioners. These studies reported that experienced TCC practitioners exhibited greater cortical thickness [11] and larger brain volumes,relative to healthy controls [12,13]. Functional MRI (fMRI) studies indicated that long-term TCC practice optimizes functional connectivity (FC) in brain regions which play key roles in cognitive-motor integration in adults [14- 17]. These findings indicate that TCC practice may reshape brain function and could be associated with cognitive improvements.
+
+Brain functional specialization emphasizes hemispheric processing, which allows the expanded human brain to minimize between-hemisphere connectivity and distribute domain-specific processing functions [18]. The improvement in functional specialization between hemispheres may enhance the efficiency of cognitive processing. Currently, there is no direct evidence supporting the effect of extensive TCC training on functional specialization. The potential role of functional specialization between the two hemispheres in the effect of TCC practice on cognition remains largely unknown. Voxel-mirrored homotopic connectivity (VMHC),a method which quantifies the resting-state FC
+
+betwen each voxel in one hemisphere and its corresponding voxel in the opposite hemisphere, can be used to evaluate the functional specialization between the two hemispheres [19]. VMHC was commonly used to investigate the functional homotopic connectivity in cortical regions, including areas involved in visual, motor,somatosensory,and higher order association functions in healthy individuals [19,2O]. Additionally, this analysis was also applied to investigate the aberrant interhemispheric FC in patients with neuropsychiatric disorders, such as schizophrenia, major depressive disorder,and panic disorder [21-23]. Therefore, VMHC can be an effective approach for the evaluation of functional specialization induced by TCC practice.
+
+In the present study, we employed fMRI to investigate functional homotopy induced by TCC practice,and to examine the neurobiological implications of altered FC.We adopted a cross-sectional design to investigate the differences in functional specialization (by measuring VMHC) and the differences in behavioral performance (by assessing cognitive task performance) between TCC practitioners and healthy controls. It was hypothesized that TCC induces changes in VMHC in brain regions responsible for higher-order information processing (prefrontal cortex), due to its demand for complex movements. Such changes would provide a neural mechanism for the cognitive outcomes induced by mind-body exercise from a functional specialization perspective.
+
+# 2. Methodology (Design/Approach)
+
+# 2.1 Participants
+
+Twenty-two TCC practitioners (median age, $5 2 . 4 \pm 6 . 8$ years; 7 males) and eighteen healthy controls ( $5 4 . 8 \pm 6 . 8$ years; 8 males) matched by sex, age, and education were enrolled in this study. TCC practitioners were recruited from local TCC activity centers. On average, participants had $1 4 \pm 8$ （20 years of TCC experience. The practice frequency (number of practice sessions per week) and the duration of each session were used to calculate the total hours of TCC practice per week, which served as an index of the intensity of TCC practice.TCC styles mainly included Yang,Wu, Sun,and modified Chen. The length of formal TCC practice ranged from 30 to 90 minutes per session, with the majority of TCC practitioners $( 8 5 \% )$ attending daily sessions.Healthy controls were recruited from the local community and had no previous experience of regular physical activity and mind-body exercise (e.g.,
+
+TCC,Qigong, and Yoga). Each participant received financial compensation for their time. All participants met the following criteria: (1) right-handed; (2) not claustrophobic; (3) no metal implants in the body; (4) no mental or neurological disorder; and (5) no history of alcohol or substance abuse. Writen informed consent was obtained from all participants before the experiment. This study was approved by the Institutional Review Board and followed the ethical standards described in the Declaration of Helsinki throughout the study. Before scanning, all participants completed screening forms of the MRI center to exclude any participant ineligible for fMRI.
+
+# 2.2Behavioral Assessment
+
+Attention Network Test (ANT) was originally developed by Fan et al. [24] to quantify different dimensions of atention,including alerting,orienting,and executive attention. This test has been widely used to investigate multiple atentional dimensions across different populations with good reliability and validity [25]. Due to time limitations,10 participants from each group (a total of 20 participants), matched by age, sex, and years of education, completed ANT before undergoing fMRI scanning in this study, in order to measure executive attention.
+
+The presentation of stimuli and the collection of behavioral data were performed using E-prime Software 2.0. One target stimulus and four flanker stimuli as a stimulus sequence were presented in a horizontal row. The target stimulus was an arrow pointing either to the left or to the right and two flanker stimuli were arrows or neutral stripes which flanked the target on each side.The task involved three conditions: congruent, incongruent,and neutral. In the congruent condition,all arrow stimuli pointed in the same direction. In the incongruent condition, the target arrow pointed in the direction opposite to flanker arrows. In the neutral target condition,allfour flanker stimuli were stripes. A fixation cross was presented in the middle of the screen, with the stimulus sequence presented at a visual angle of 1.1 degrees above or below it. Before a stimulus sequence was presented, the location and timing were cued in four different ways: (1) an asterisk was presented at the location of the fixation cross, providing the location information of target stimulus; (2) two asterisks appeared 500 ms before target onset at the fixed location of 1.1 degrees of visual angle above and below the center of the screen, providing information about the timing of the target stimulus; (3)an asterisk was presented at the future location of the target stimulus 1.1 degrees of visual angle above or below the center of the screen, providing both the timing and the location information of stimulus sequence; and (4) no cue was given, such that participants could not obtain any timing or location information regarding the upcoming stimulus sequence.
+
+A complete ANT consists of one practice block with 24 trials and three test blocks with $9 6 \times 3$ trials.The test takes approximately 25 minutes to complete.A short break was provided between the blocks. In each trial, a fixation cross was presented in the middle of the screen from 400 to $1 6 0 0 ~ \mathrm { { m s } }$ followed by a cue presented for $1 0 0 ~ \mathrm { { m s } }$ and a central fixation for $4 0 0 ~ \mathrm { { m s } }$ .The stimuli sequence was then presented for $1 7 0 0 \mathrm { m s }$ . If a response was given within $1 7 0 0 \mathrm { m s }$ , the presented time was shorter. Finally, a fixation cross was presented again. Participants were instructed to respond as fast and as accurately as possible to the target stimulus.When the target arrow pointed to the left, participants were asked to left-click with their left thumb.If the arrow pointed to the right, participants were asked to right-click with their right thumb.The reaction time and accuracy were recorded in each trial. The final score of executive attention equals the average reaction time in incongruent flanker conditions minus the average reaction time in congruent flanker conditions.
+
+In addition to ANT, all participants were administrated the Number Cancellation Test (NCT) [26].This test was developed to measure selective attention and consists of one practice sheet and four test sheets (Cronbach $\mathfrak { a } = 0 . 9 4$ , Test-Retest Reliability $= 0 . 9 0$ ). Each sheet contains 200 single digits with symbols below or above them. Forty-four of these digits were targets, while the rest of them were non-targets. Targets were digits“9” with two symbols below,above, or on either side, except those right behind digit “5." Participants were asked to cross out targets as quickly as possible. Only 1 min was permitted for each sheet. Between two sheets, they were provided a 10 to $2 0 ~ \mathrm { s }$ break. The NCT score was calculated using the following formula:
+
+NCT score $\ c =$ hits number - false alarms number $\times$ 44/156.
+
+# 2.3 MRI Data Acquisition
+
+Brain images were acquired using a 3T Trio Tim Siemens scanner with a 12-channel head matrix coil.Participants were instructed to keep their eyes closed, remain relaxed,stationary,and awake during the resting scans. Using an echo planar imaging sequence ( $\mathrm { T R } = 2 0 0 0 \mathrm { m s }$ $\mathrm { T E } = 3 0 ~ \mathrm { m s }$ ， $\mathrm { F A } =$ $9 0 ^ { \circ }$ ，slice thickness $= 3 . 0 \mathrm { m m }$ ,field of view $= 2 0 0 \times 2 0 0 \mathrm { m m } ^ { 2 }$ ,voxel size $= 3 . 4 \times 3 . 4 \times 4 . 0 \mathrm { m m }$ ,243 volumes with 33 axial slices were obtained from each participant. For better registration and overlay of brain activity, high-resolution structural images were also acquired through three-dimensional magnetization prepared rapid gradient echo (3D MPRAGE) sequence ( $\mathrm { T R } = 2 5 3 0 \mathrm { m s }$ ， $\mathrm { T E } = 3 . 3 9 \mathrm { m s }$ $\mathrm { F A } = 7 ^ { \circ }$ , slice thickness $= 1 . 3 3 \mathrm { m m }$ ,voxel size $= 1 . 3 3 \times 1 . 0 \times 1 . 3 3 \mathrm { m m } )$ ：
+
+# 2.4 Image Preprocessing
+
+The preprocessing of fMRI data was conducted using a MATLAB toolbox Data Processing Assistant for Resting-State fMRI (DPARSF) [27], which is based on functions in Statistical Parametric Mapping (SPM) and Resting-State fMRI Data Analysis Toolkit (REST). To ensure the steady-state of longitudinal magnetization, the first 10 images of each participant's scan were removed. Slice timing and realignment were then conducted to correct for temporal differences and head motion. Next, T1-weighted images were co-registered to the mean functional volumes and segmented into gray mater,white matter,and cerebrospinal fluid. Subsequently,the 24 head-motion parameters (6 head-motion parameters of current time point, 6 head-motion parameters of previous time point, and 12 corresponding squared items), white matter signal, cerebrospinal fluid signal, and the global signal were regressed from functional volumes which were then spatially normalized to the Montreal Neurological Institute (MNI) space and resampled to $3 \mathrm { m m } \times 3 \mathrm { m m } \times 3$ mm resolution. Furthermore, linear detrending and temporal bandpass filtering $( 0 . 0 1 - 0 . 0 8 \mathrm { H z } )$ were performed to reduce the efects of low-frequency drift and high-frequency physiological noise. Finally, functional volumes were registered to a study-specific and symmetric MNI template which was automatically generated by DPARSF based on data from all study participants and smoothed $\mathrm { ( F W H M = 4 \ m m }$ to improve the space symmetry of each voxel between two hemispheres, increasing the validity of VMHC calculations.
+
+# 2.5VMHC Analysis
+
+VMHC analysis was performed using DPARSF.To minimize the efects of differences between the two hemispheres, a symmetric brain template of left-right hemisphere was generated. Next, the homotopic functional connectivity was computed as the Pearson correlation between the residual time series of every pair of symmetrical interhemispheric voxels. Pearson correlation coefficients were then transformed into Fisher's z score to improve normality. The final $z$ -maps were referred to as VMHC maps and were used for further statistical analyses.
+
+# 2.6 Statistical Analysis
+
+In behavioral studies,chi-squared tests and two-sample t-tests (two-tailed) were used to compare the demographic and behavioral differences,respectively,between TCC practitioners and healthy controls using SPSS 19.0 software. Group diferences in age, education,and behavioral parameters between TCC practitioners and healthy controls were tested by two-sample t-tests. Chi-square test was used to determine the difference in sex between the two groups
+
+On the neuroimaging level, considering age, sex,and education as covariates,a two-sample t-test was performed on VMHC maps using SPM8 to detect the differences in homotopic connectivity between TCC practitioners and healthy controls. The statistical significance level for group differences in VMHC was corrected with family-wise error approach $( p < 0 . 0 5 )$ to account for multiple comparisons. Furthermore, we calculated the Pearson's correlation coeficients between VMHC values and TCC behavioral results in TCC group to investigate the association between interhemispheric functional connectivity and TCC-induced higher order cognitive function.
+
+# 3.Results
+
+# 3.1 Demographic and Behavioral Data
+
+The demographic characteristics and behavioral data of participants are described in Table 1. There were no significant differences in sex $( \chi ^ { 2 } = 0 . 6 7 3 , p = 0 . 5 1 7 )$ ,age(t $\mathrm { ~ ( ~ } 3 8 ) = 1 . 1 4 9$ $p = 0 . 2 5 8 )$ ,or education level ( $\mathrm { ~ t ~ } ( 3 8 ) = 2 0 . 4 3 5 , p = 0 . 6 6 6 )$ between the TCC and control groups.Relative to the control group,TCC participants showed marginally better performance in NCT (t $( 1 8 ) = 1 . 9 5 1 , p =$ 0.067). However, no significant group differences were detected both in reaction time (t $( 1 8 ) = - 1 . 2 2 7$ 0 $p = 0 . 2 3 6 )$ ,and accuracy of ANT(t $( 1 8 ) = 1 . 4 7 2$ $p = 0 . 1 5 8 )$ 1
+
+# 3.2Functional Brain Imaging Results
+
+VMHC values in the TCC group were significantly lower than those in the control group in the middle frontal gyrus (MFG, MNI coordinates $\mathbf { x } = \pm 4 4$ $\mathsf { y } = 4 1$ ， $z = 1 3$ $p < 0 . 0 0 1$ , corrected for family wise error; Figure 1). Correlation analyses demonstrated no significant relationship between VMHC values in the MFG and TCC experience ( $\mathrm { \Delta r } = 0 . 2 6 4$ $p = 0 . 2 7 4 \AA$ ）or cognitive task scores (ANT reaction time, $\mathbf { r } = - 0 . 3 6 6$ $\begin{array} { r } { p = 0 . 4 1 9 } \end{array}$ ; ANT accuracy, $\mathbf { r } = - 0 . 1 4 3$ $p = 0 . 7 5 9$ ; NCT scores: $\mathrm { r } = 0 . 2 4 8 , p = 0 . 5 9 2 )$ Furthermore, we evaluated the correlation between TCC experience and VMHC values in all brain regions, which demonstrated a significant negative correlation between the total training hours of TCC practice and VMHC values in the precentral cortex (MNI coordinates $\mathbf { x } = \pm 3 1$ ， $\mathrm { y } = - 2 3$ ， $z = 6 9$ $\mathbf { r } =$ -0.983; $p = 0 . 0 0 0$ ; Figures 2A and 2B) and in the precuneus (MNI coordinates $\begin{array} { r } { \mathbf { x } = \pm 1 8 , \mathbf { y } = - 8 1 , \mathbf { z } = } \end{array}$ 42; $\mathbf { r } = - 0 . 8 0 7$ $p = 0 . 0 0 0$ ; Figures 2C and 2D).
+
+# 4. Discussion
+
+In this study we utilized the cross-sectional designs to examine if TCC exercise can induce a change in functional homotopy,and to elucidate the relevant biological basis of altered brain function. To the best of our knowledge,it is the first study to utilize VMHC analysis method to explore regional specific difference of functional homotopy between TCC experts and controls. We observed decreased VMHC values in MFG in TCC group and significant negative relationship between total TCC time and VMHC in precuneus and precentral. These findings indicate that the possibility of local plasticity in functional specialization of brain as function of extensive training.
+
+Left-right asymmetry is a key feature of the human brain structure and function [28]. A largestever analysis ofcerebral cortical asymmetry found that regional asymmetries in cortical thickness and/or surface area are extensively present in the inferior frontal gyrus, transverse temporal gyrus, parahippocampal gyrus,and entorhinal cortex of healthy individuals [29]. Gotts et al. [30] also pointed out that two distinct forms of functional specialization were present in the left versus the right cerebral hemisphere.The left hemisphere tends to interact more exclusively with itself,while the cortical regions of the right hemisphere involved in visuospatial and atentional processing tend to interact in a more integrative fashion with both hemispheres.The widespread lateralization across species may suggest an evolutionary advantage associated with the specialization of the hemispheres [31]. An earlier study developing the VMHC approach found that homotopic regions in the prefrontal cortex (particularly those in the ventrolateral and dorsolateral regions responsible for attention, cognition, and language) exhibited lower coherence [19]. This finding indicates that functional specialization, especially in the higher-order cerebral cortex, is closely associated with human cognition.
+
+The most interesting finding in our study is the detection of decreased VMHC in MFG. The prefrontal lobe is generally considered to be the high-order cognitive and executive center which integrates the information from internal sources and the external environment [32,33]. As a part of the prefrontal lobe, MFG plays an important role in complex information processing related to goaldirected cognition [34]. Several studies demonstrated that the alteration in functional activity in the MFG is associated with improved cognitive performance, which can be induced by extensive TCC training. A six-week TCC intervention elicited increased spontaneous activation in the right MFG which was associated with improved cognitive performance. Additionally, there was a significant correlation between amplitude of low frequency fluctuations (ALFF) changes in the right MFG and changes in executive function among participants who were involved in a six-week intervention including Tai Chi exercise [35]. The functional difference in MFG between TCC experts and controls possibly suggest greater functional plasticity in MFG. Decreased VMHC in MFG suggests that functional specialization of MFG may reflect enhanced utilization of the functional cortex, which resulted in better cognitive ability among TCC practitioners in this study.
+
+Decreased VMHC in precuneus was associated with TCC experience. As a component of the default-mode network (DMN), precuneus functions as the brain region processing emotional information and multiple higher-order cognitive functions [36,37], such as attention shifting, memory retrieval,and spatial coordination [38]. Increasing evidence demonstrates that meditation practice can induce structural and functional changes in the precuneus [39, 40]. A recent TCC study demonstrated that TCC experts had decreased fractional ALFF in DMN,compared to healthy controls [17], which directly supports the perception that the precuneus brain region can be altered by meditative training. Importantly, a number of studies confirmed that meditative exercise can change the precuneus asymmetry [41, 42]. The decreased VMHC in precuneus provided further evidence that TCC is likely to alter the inter-hemispheric functional integration in the precuneus.
+
+In addition to the precuneus,precentral sulcus is another brain region which exhibits significant association with TCC experience.Located in the primary motor cortex, precentral sulcus is responsible for observation and execution of motor tasks 43]. A study reported that the lateralization of sensorimotor networks (including precentral gyrus) decreases with aging [44],suggesting that aging may lead to decreased hemispheric specialization.Fujiyama et al. [45] found that aging adults show bilateral recruitment of primary motor cortex while younger adults show a suppression of the ipsilateral motor cortex during motor tasks. It is plausible that TCC practice enhances lateral function in the sensorimotor cortex to protect against aging,thereby improving the capability of motor-related information processing. Luders et al. [46, 47] suggested that long-term meditation practitioners may have younger brains. Since TCC shares a number of mental components with meditation (such as concentration and relaxation), these findings may help us beter understand the neural mechanism underlying the beneficial effect of TCC practice on motor ability.
+
+One limitation of the current study is the relatively small sample size.In particular, the sample size in behavioral testing involved only half of the participants. This may partly explain why significant correlation between VMHC in MFG and cognitive performance was not observed in the cross-sectional study. Therefore, future studies with large sample population are needed to confirm the role of functional homotopy in the precuneus and precentral sulcus.
+
+To sum up, decreased VMHC in the MFG in TCC participants suggesting that extensive TCC practice may strengthen functional specialization in the MFG. The findings extend our previous knowledge by suggesting functional homotopy as a biomarker of plasticity induced by mind-body exercise. Additionally,although the association between decreased VMHC and cognitive performance was not observed in this study, higher cognitive performance in TCC group provides insights for further investigations aiming to examine the biological relevance of enhanced functional specialization with respect to mind-body practice from a cognitive perspective.
+
+# ACKNOWLEDGEMENTS
+
+We thank Prof. Xi-Nian Zuo and Prof. Yang Hu for their suggestions in the drafting of the manuscript. This work was supported by the Key Laboratory of Mental Health and Key Laboratory of Behavioral Science, Institute of Psychology, Chinese Academy of Sciences， by the Scientific Foundation of Institute of Psychology, Chinese Academy of Sciences [grant number Y9CX402008], and the National Natural Science Foundation of China [grant number 31671163].
+
+# References
+
+1. Wei, G.X.,et al., Tai Chi Chuan modulates heart rate variability during abdominal breathing in elderly adults. Psych J,2016. 5(1): p. 69-77.doi:10.1002/pchj.105.   
+2. Hoffmannsmith, K.A., et al., The Effect of Tai Chi in Reducing Anxiety in an Ambulatory Population. Journal of Complementary & Integrative Medicine, 20o9.6(1)   
+3. Zou,L., et al., A Review Study on the Beneficial Effects of Baduanjin. J Altern Complement Med, 2018. 24(4): p.324-335.doi:10.1089/acm.2017.0241.   
+4. Zou,L., et al., Effects of Mind-Body Exercises for Mood and Functional Capabilities in Patients with Stroke: An Analytical Review of Randomized Controlled Trials. Int J Environ Res Public Health, 2018. 15(4).doi:10.3390/ijerph15040721.   
+5. Chang, Y.K., et al., Tai Ji Quan, the brain, and cognition in older adults. Journal of Sport & Health Science,2014. 3(1): p. 36-42   
+6. Zou,L., et al., The Effects of Tai Chi on Lower Limb Proprioception in Adults Aged Over 55: A Systematic Review and Meta-Analysis. Arch Phys Med Rehabil, 2018.doi:10.1016/j.apmr.2018.07.425.   
+7. Wang, C., et al., Effect of tai chi versus aerobic exercise for fibromyalgia: comparative effectiveness randomized controlled trial. BMJ, 2018.360: p. k851.doi:10.1136/bmj.k851.   
+8. Kong, J., et al., Treating Depression With Tai Chi: State of the Art and Future Perspectives. Front Psychiatry,2019. 10: p. 237.doi:10.3389/fpsyt.2019.00237.   
+9. Field,T.,et al., Tai chi/yoga reduces prenatal depression, anxiety and sleep disturbances. Complement Ther Clin Pract,2013.19(1): p. 6-10.doi:10.1016/j.ctcp.2012.10.001.   
+10. Fong,D.Y., et al., The benefits of endurance exercise and Tai Chi Chuan for the taskswitching aspect of executive function in older adults: an ERP study. Frontiers in Aging Neuroscience, 2014. 6(295): p. 295   
+11. Wei, G.X., et al., Can Taichi reshape the brain? A brain morphometry study. PLoS One, 2013.8(4): p. e61038.doi:10.1371/journal.pone.0061038.   
+12. Mortimer, J.A., et al., Changes in Brain Volume and Cognition in a Randomized Trial of Exercise and Social Interaction in a Community-Based Sample of Non-Demented Chinese Elders. Journal of Alzheimers Disease,2012. 30(4): p.757-766.doi:10.3233/jad-2012- 120079.   
+13. Tao, J., et al., Tai Chi Chuan and Baduanjin Increase Grey Mater Volume in Older Adults: A Brain Imaging Study. JAlzheimers Dis,2017. 60(2): p.389-400.doi:10.3233/JAD-170477.   
+14. Tao,J., et al., Tai Chi Chuan and Baduanjin practice modulates functional connectivity of the cognitive control network in older adults. Scientific Reports,2017.7: p. 41581   
+15. Tao, J., et al., Tai Chi Chuan and Baduanjin Mind-Body Training Changes Resting-State Low-Frequency Fluctuations in the Frontal Lobe of Oider Adults: A Resting-State fMRI Study. Frontiers in Human Neuroscience,2017.11   
+16. Wei, G.X., et al., Tai Chi Chuan optimizes the functional organization of the intrinsic human brain architecture in older adults. Front Aging Neurosci, 2014. 6: p. 74.doi:10.3389/fnagi.2014.00074.   
+17. Wei, G.X.,et al.,Mind-Body Practice Changes Fractional Amplitude ofLow Frequency Fluctuations inIntrinsic Control Networks. Front Psychol,2017.8: p. 1049.doi:10.3389/fpsyg.2017.01049.   
+18. Wang,D., R.L. Buckner, and H. Liu, Functional specialization in the human brain estimated by intrinsic hemispheric interaction. JNeurosci, 2014. 34(37): p. 12341- 52.doi:10.1523/jneurosci.0787-14.2014.   
+19. Zuo, X.N., et al., Growing together and growing apart: regional and sex differences in the lifespan developmental trajectories of functional homotopy. JNeurosci,2010.30(45): p. 15034-43.doi:10.1523/JNEUROSC1.2612-10.2010.   
+20. Ruddy, K.L., A. Leemans, and R.G. Carson, Transcallosal connectivity of the human cortical motor network. Brain Struct Funct, 2017. 222(3): p.1243-1252.doi:10.1007/s00429-016- 1274-1.   
+21. Chang, X., et al., Distinct inter-hemispheric dysconnectivity in schizophrenia patients with and without auditory verbal hallucinations. Sci Rep,2015. 5: p. 11218.doi:10.1038/srep11218.   
+22. Hermesdorf, M.,et al.,Major depressive disorder: Findings of reduced homotopic connectivity and investigation of underlying structural mechanisms. Hum Brain Mapp,2016. 37(3): p. 1209-17.doi:10.1002/hbm.23097.   
+23. Lai, C.H.and Y.T. Wu, The alterations in inter-hemispheric functional coordination of patients with panic disorder: the findings in the posterior sub-network of default mode network. J Affect Disord,2014. 166: p. 279-84.doi:10.1016/j.jad.2014.05.022.   
+24. Fan, J., et al., Testing the efciency and independence of attentional networks. Journal of Cognitive Neuroscience, 2002.14(3): p. 340-347   
+25. Ishigami, Y., et al.,The Atention Network Test-Interaction (ANT-I): reliability and validity in healthy older adults. Exp Brain Res,2016. 234(3): p. 815-27.doi:10.1007/s00221-015- 4493-4.   
+26. Dong, Q. and C. Lin, D, Psychological Development Characteristics of Teenagers in China: A General Report.2011.   
+27. Chao-Gan, Y.and Z. Yu-Feng, DPARSF: A MATLAB Toolbox for "Pipeline" Data Analysis of Resting-State fMRI. Front Syst Neurosci, 2010. 4: p.13.doi:10.3389/fnsys.2010.00013.   
+28. Gomez-Robles,A., et al., The heritability of chimpanzee and human brain asymmetry. Proc Biol Sci, 2016. 283(1845).doi:10.1098/rspb.2016.1319.   
+29. Kong,X.Z., et al., Mapping cortical brain asymmetry in 17,141 healthy individuals worldwide via the ENIGMA Consortium. Proc Natl Acad Sci U S A, 2018. 115(22): p. E5154-E5163.doi:10.1073/pnas.1718418115.   
+30. Gotts, S.J., et al., Two distinct forms of functional lateralization in the human brain. Proceedings of the National Academy of Sciences, 2013. 110(36): p. E3435- E3444.doi:10.1073/pnas.1302581110.   
+31. Halpern, M.E., etal., Lateralization of the Vertebrate Brain: Taking the Side of Model Systems. Journal of Neuroscience,2005. 25(45): p. 10351-10357   
+32. Weinstein, A.M., et al., The association between aerobic fitness and executive function is mediated by prefrontal cortex volume. Brain Behavior & Immunity, 2012. 26(5): p. 811-819   
+33. Zhao,L., et al., Altered interhemispheric functional connectivity in remitted bipolar disorder: A Resting State fMRI Study. Sci Rep,2017. 7(1): p. 4698.doi:10.1038/s41598-017-04937-6.   
+34. Wager, T.D.and E.E. Smith, Neuroimaging studies of working memory. Cognitive Affective & Behavioral Neuroscience, 2003.3(4): p. 255-274   
+35. Yin, S., et al.,Intervention-induced enhancement in intrinsic brain activity in healthy older adults. Sci Rep,2014. 4: p. 7309.doi:10.1038/srep07309.   
+36. Liu,Y., et al.,Decreased Resting-State Interhemispheric Functional Connectivity Correlated with Neurocognitive Deficits in Drug-Naive First-Episode Adolescent-Onset Schizophrenia. Int JNeuropsychopharmacol,2018. 21(1): p. 33-41.doi:10.1093/ijnp/pyx095.   
+37. Raichle, M.E., et al., A default mode of brain function. Proc Natl Acad Sci U S A,2001. 98(2): p. 676-682   
+38. Yang,Z., et al., Connectivity trajectory across lifespan differentiates the precuneus from the default network. Neuroimage, 2014. 89(1): p. 45-56   
+39. Acevedo,B.P., S. Pospos,and H.Lavretsky, The Neural Mechanisms of Meditative Practices: Novel Approaches for Healthy Aging. Curr Behav Neurosci Rep,2016. 3(4): p. 328-339.doi:10.1007/s40473-016-0098-x.   
+40. Ataria,Y., Y. Dor-Ziderman,and A. Berkovich-Ohana, How does it feel to lack a sense of boundaries? A case study ofa long-term mindfulness meditator. Conscious Cogn,2015.37: p. 133-47.doi:10.1016/j.concog.2015.09.002.   
+41. Grant, J.A., et al., Cortical thickness, mental absorption and meditative practice: possible implications for disorders of attention. Biol Psychol, 2013. 92(2): p.275- 81.doi:10.1016/j.biopsycho.2012.09.007.   
+42. Kurth, F., et al., Shifting brain asymmetry: the link between meditation and structural lateralization. Soc Cogn Affect Neurosci, 2015.10(1): p.55-61.doi:10.1093/scan/nsu029.   
+43. Hari,R., et al., Activation of Human Primary Motor Cortex during Action Observation: A Neuromagnetic Study. Proceedings of the National Academy of Sciences of the United States of America, 1998.95(25): p. 15061-5   
+44. Agcaoglu, O., et al.,Lateralization of resting state networks and relationship to age and gender. Neuroimage,2015.104: p. 310-25.doi:10.1016/j.neuroimage.2014.09.001.   
+45. Fujiyama, H., et al., Age-related differences in corticospinal excitability and inhibition during coordination of upper and lower limbs. Neurobiology of Aging,2012. 33(7): p. 1484.e1- 1484.e14   
+46. Luders, E., Exploring age-related brain degeneration in meditation practitioners. Ann N Y Acad Sci, 2014.1307: p. 82-8.doi:10.1111/nyas.12217.   
+47. Luders,E., N. Cherbuin,and C. Gaser, Estimating brain age using high-resolution pattern recognition: Younger brains in long-term meditation practitioners. Neuroimage,2016.134: p. 508-513.doi:10.1016/j.neuroimage.2016.04.007. Figure Legends   
+Fig.1 Differences in VMHC values between TCC experts and control participants in experiment 1. Blue areas indicate decreased VMHC values in MFG in TCC experts. The color bar represents the significance of group analysis.
+
+Fig. 2 The correlation between the duration of TCC practice and VMHC values of all voxels on the global level. (A) Location of the precentral. (B) The relationship between total training hours in TCC experts and their VMHC values in precentral cortex. (C) Location of the precuneus. (D) The relationship between total training hours in TCC experts and their VMHC values in precuneus.
+
+# Figures
+
+![](images/2f7a6fb8ca7f1a96ff3ef15670d71f1bc328929dd671cefd666599f1e7384d31.jpg)  
+Figure 1
+
+![](images/c6afcc28f36c57d038681cdc26e19334530e000ffba2552513e081a7fd69cba2.jpg)  
+Figure 2
+
+Table1.Demographic characteristics and behavioral data of participants   
+
+<html><body><table><tr><td>Characteristic</td><td>TCC</td><td>Control</td><td>Statistic</td><td>P value (two-tailed)</td></tr><tr><td>Age (years)</td><td>52.36 ± 6.88</td><td>54.83 ± 6.77</td><td>t (38)= 1.149</td><td>0.258</td></tr><tr><td>Education (years)</td><td>12.18 ± 3.03</td><td>11.78 ± 2.90</td><td>t(38)= 20.435</td><td>0.666</td></tr><tr><td>Sex (male/female)</td><td>7/15</td><td>8/10</td><td>x²= 0.673</td><td>0.517</td></tr><tr><td>NCT</td><td>25.09 ± 3.53</td><td>21.68 ± 4.25</td><td>t (18)= 1.951</td><td>0.067</td></tr><tr><td>ANT (RT1,ms)</td><td>98.50 ± 31.74</td><td>123.01 ± 54.63</td><td>t(18)= -1.227</td><td>0.236</td></tr><tr><td>ANT (AC2)</td><td>0.9948±0.0060</td><td>0.9899±0.0086</td><td>t(18)=1.472</td><td>0.158</td></tr></table></body></html>
+
+1RT= Reaction Time; ² AC $\ c =$ Accuracy

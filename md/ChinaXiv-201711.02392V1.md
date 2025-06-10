@@ -1,0 +1,309 @@
+DOI:10.13930/j.cnki.cjea.160933
+
+赵东妮，王艳华，任传友，马熙达，徐一丹，陈伟．3种水稻趋势产量拟合方法的比较分析[J]．中国生态农业学报，2017,25(3): 345-355  
+Zhao DN, Wang YH,RenCY,Ma X D,XuYD,Chen W. Comparative analysis ofthreefiting methods ofrice trend yield[J].Chinese Journal of Eco-Agriculture,2017,25(3): 345-355
+
+# 3种水稻趋势产量拟合方法的比较分析
+
+赵东妮，王艳华\*\*，任传友，马熙达,徐一丹，陈伟
+
+(沈阳农业大学农学院 沈阳 110866)
+
+摘要：正确评估气象条件对粮食产量的影响必须以准确的气象产量为前提，因此，探求长时间序列粮食趋势产量提取分离方法对于更好地指导未来作物生产有重要意义。本文应用辽宁省9个地区17个站点62年的水稻历史产量数据，以相近地区农业生产力技术发展水平应具有一致性、产量序列的趋势应反映国家惠农政策对粮食增产的促进作用、相近地区热量条件变化的一致性可引起气象产量具有同升同降的特点等为评判标准，分析评价了应用HP滤波法、指数平滑法以及Logistic方法分离水稻的趋势产量、气象产量序列的合理性。研究结果表明:1)Logistic方法、HP滤波法以及指数平滑法所拟合出的趋势产量序列与辽宁省平均趋势产量序列一致，3种方法均能较好地反映辽宁省生产力发展水平的区域一致性特点；其中，沈阳、铁岭、鞍山、辽阳、丹东和锦州6个地区的趋势产量序列与辽宁省平均趋势产量序列间的一致性相关系数达0.908以上，表现为一致性极好；2)HP 滤波法拟合出的趋势产量序列能较真实地反映由于生产力和国家政策变化所带来的实际产量的变化趋势，指数平滑法次之，而Logistic方法提取的趋势产量变化趋势反映社会发展实际的能力最差；3)不同趋势产量分离方法得到的气象产量区域平均值序列具有相似的年际及年代际变化特征，三者之间无显著区别 $( P { > } 0 . 0 5 )$ ;HP 滤波法分离得到的气象产量吻合气候特征的能力最强，指数平滑法次之,Logistic方法最差。综合分析，辽宁省水稻趋势产量的提取以应用HP 滤波法最优，指数平滑法次之，而Logistic方法不适合辽宁省水稻趋势产量的提取。研究结果可为作物趋势产量拟合提供方法借鉴。
+
+关键词：水稻；趋势产量；气象产量;HP滤波法;Logistic 法；指数平滑法中图分类号：S16 文献标识码：A 文章编号:1671-3990(2017)03-0345-11
+
+# Comparative analysis of three fitting methods of rice trend yield
+
+ZHAO Dongni, WANG Yanhua\*\*, REN Chuanyou, MA Xida, XU Yidan, CHEN Wei (College of Agronomy, Shenyang Agricultural University, Shenyang l1o866, China)
+
+Abstract:Itisaprerequisite tohaveaccurate meteorological dataforcorrect assessmentof theefectsof meteorological factors on grainyield.Assuch,itis importantto explorerational methds tofittrend yieldsofcrops to guide futurerop productioneforts.Inthisstudy,62yearsofhistoricaldataonriceyieldfroml7sites in9regionsinLiaoning Province were usedtoationalize theseparationof thetrendyieldofriceinrelation tometeorologicalfactors.Theseparated trendyields with three fiting methods—HPfilter method,exponentialsmoothing methodandlogistic method,werecomparedanddiscused. Therationalityof theabove three methods wereevaluatedbasedon the followingpreconditions:1）the agricultural productivityand technological development in similarregions wasconsistent,2)the yield series change reflected promoting effects ofstatefavorable policiesoncropyield,and 3)uniformityof theregionswith similar heatconditioncaused same changes in crop yield.Theresults showed that:1)thetrend yield series fited bythe threemethods wereconsistent with the averagetrend yield series ofLiaoning Province,suggesting that the three methods properlyreflectedthe regional consistency of development.Resultsanalysis indicated good consistencies of trend yieldsof Shenyang,Tieling,Anshan,Liaoyang, Dandong,Jinzhou with thatofLiaoningProvince,andcoeficientsofcorelationfortheregionswasas highas0.91.2)The trend yieldseries fited byHPflter methodtrulyreflected theactual trendyield affctedbythechangesinthelevelsof national productivityand national policy.Thissuggested thatthegoodnessoffitfortheHPfilter method withactual trend yield was the best,followed bythe exponential smoothing method.Theextractionof the trend yieldalsobasicallyreflected actual social development,whereas the goodnessofitfor thelogistic methodhadthe worst performance.3)Averageregional meteorologicalyieldseriesobtainedwithdifferentmethodshadsimilarinter-annualandinter-dcadalvariationcharacteristics, with no significant difference among the methods $( P > 0 . 0 5 )$ ).Compared with the two other methods,the meteorological yield series obtainedbytheHPfilter method matched wellwith climatic variations,followed bythe exponentialsmoothing method. Inconclusion,amongthe thre methodsoffiting,the HPfilter method was the bestforfiting thetrend yieldof ricein Liaoning Province,folowed bytheexponential smoothing method and then the Logistic method(which was actually not suitable for fiting thetrend yieldof riceinLiaoning Province).Theresearchresultsprovidedtheneededreference fortrend yield trend fit analysis.
+
+Keywords: Rice;Trend yield; Meteorological yield;HPfilter method;Logistic method; Exponentialsmoothing method
+
+农业技术进步已显著提高了作物生产系统的生产力，但当今和未来气候变化仍严重威胁着作物生产力的稳定性和粮食安全[1]。作物最终产量的形成除了与品种、熟期、栽培管理措施有关外，还受气象条件的制约。近百年来，地球气候正经历着一次以全球变暖为主要特征的显著变化[2]。科学评估气象条件对粮食产量的影响，因地制宜地制定针对气候变化的粮食生产适应性策略，对保障粮食生产的稳定和安全具有重要意义[3-4]。一般把作物产量分解为趋势产量、气象产量和随机误差3部分。趋势产量是反映历史时期生产力发展水平的长周期产量分量，也被称为技术产量；气象产量是受气象要素为主的短周期变化因子(农业气象灾害为主)影响的波动产量分量。正确评估气象条件对粮食产量的影响必须以准确的气象产量的获得为前提，因此，探求长时间序列作物趋势产量提取分离方法对于更好地指导未来作物生产有着重要意义。
+
+目前，较为常用的作物趋势产量提取方法有滑动平均法、Logistic拟合法、HP滤波法和指数平滑法等。姜会飞等5和史印山等采用5a滑动平均法对趋势产量进行模拟；廉毅等7和马雅丽等8用3a滑动平均法模拟趋势产量；房世波9采用3a滑动平均、5a滑动平均、二次曲线3种方法模拟趋势产量；王媛等[10通过建立反映气候要素与作物单产关系的函数表达式来估计气候产量；廉丽姝[11]和郝立生等[12]通过构建Logistic 函数模拟趋势产量；尹东等[13]采用三次指数平滑法模拟趋势产量；王桂芝等[14]采用HP滤波法进行长时间序列的趋势产量拟合。
+
+前人研究发现，滑动平均法容易将受气候条件影响的产量信息与受技术影响的产量信息相混淆，导致部分气候产量信息丢失，且在分析长时间序列中得到的趋势产量波动较大，致使最终获得的气象产量与当前社会发展的长期趋势不符[15]。二次曲线拟合方法一般通过标准特征值分析算法实现，由于该方法在估算过程中的自相关函数矩阵过大，从而造成拟合结果与实际结果间的均方误差较大，使得模拟结果失真[16]。而通过建立气候要素与作物单产关系函数来估计气候产量的方法仅适用于农作物产量对气候变化比较敏感的地区，在区域选择上具有较强的局限性[10]
+
+指数平滑法、Logistic方法和HP滤波法在趋势产量的提取中得到了广泛应用，但这3种方法的比较分析仍鲜见报道。为了探寻“哪种方法最能有效且较准确地提取趋势产量从而分离气象产量"这一问题，本文以辽宁省地区水稻62年的长时间序列产量数据为例，分别采用Logistic方法、HP滤波法和指数平滑法提取趋势产量，分析评价3种方法分离的趋势产量和气象产量的合理性，探寻最适的趋势产量提取方法，以提高气象产量分离的准确性和合理性。
+
+# 1数据来源
+
+选用1949—2010年辽宁省17个县级站点的水稻年单产产量数据，数据来源于中华人民共和国农业部种植业管理司(http://www.zzys.moa.gov.cn)，包括以下9个地区的17县级站点数据：沈阳的4个县级站点(法库县、康平县、辽中县和新民县)、铁岭的
+
+3个县级站点(昌图县、开原县和铁岭县)、盘锦的2个县级站点(大洼县和盘山县)、鞍山的2个县级站点(海城县和台安县)、辽阳的1个县级站点(辽阳)、锦州的2个县级站点(北镇和黑山)、丹东的1个站点(丹东)朝阳的1个站点(朝阳)和大连的1个站点(大连)。为使分析结果和表述方式更加清楚，在后文的结果与分析中，本文将17个县级站点的水稻单产产量数据按照行政区划分为9个地区，将每个地区所包含的县级水稻单产产量数据进行平均处理，最终得到的数据作为该地区的单产产量。
+
+源数据中有两处异常数据点，分别出现在1994年铁岭县站点(水稻单产产量为 $6 6 2 0 2 . 5 \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 } .$ 和1995年辽阳灯塔县站点(水稻单产产量为 $2 ~ 1 9 1 . 5 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 } )$ 。为了方便分析和表述，在后文的分析过程中，分别将异常数据点前后两个值的均值作为该异常数据点的值。为了不影响分析过程的准确性，源数据中达到连续8a以上的缺测数据段(朝阳县级站点1990—2001年的水稻单产产量数据点，大连县级站点1949—1964年水稻单产产量数据点和辽阳灯塔县级站点 1949—1957年水稻单产产量数据点)不参与后文的分析与运算。
+
+# 2 研究方法
+
+社会因素和自然因素影响着水稻的产量。在水稻产量的长期时间序列中，社会因素主要表现为农业技术的进步、生产资料的投入、惠农政策的实施、农药施肥灌溉方法的改进等在科技方面带来的生产力水平的大幅度提升，使水稻产量不断增加。由此引起的水稻产量变化称之为水稻的趋势产量。而自然因素主要指由于自然条件的改变给作物带来的产量变化，而气象因素是自然因素中最主要的因素，称由于气象因素带来的产量变化为气象产量。除社会因素和自然因素以外，由其他因素导致的产量变化称为随机产量。即：作物的实际产量可分为3部分，分别为趋势产量、气象产量和随机产量，表达式如下:
+
+$$
+g _ { t } = y _ { t } + y _ { w } + \varepsilon
+$$
+
+式中： $g _ { t }$ 为实际产量, $y _ { t }$ 为趋势产量, $y _ { w }$ 为气象产量，$\boldsymbol { \varepsilon }$ 为随机产量。因随机产量对实际产量的影响无法用某种函数形式表现出来，且其权值较小，一般可忽略不计，即实际产量可看作趋势产量和气象产量的和，即：
+
+$$
+g _ { t } = y _ { t } + y _ { w }
+$$
+
+假设：粮食实际产量的时间序列为 $\{ g ( t ) \}$ $\scriptstyle ( t = 1$ ，
+
+2,.., $n$ ， $n$ 为样本量)，在以下3种趋势产量拟合方法中，记： $g _ { t }$ 为水稻实际产量； $y _ { t }$ 为水稻趋势产量;$y _ { t 1 }$ 、 $y _ { t 2 }$ 、 $y _ { t 3 }$ 分别为采用Logistic方法、HP滤波法和指数平滑法拟合的趋势产量序列。为了将水稻的趋势产量序列从实际产量中分离出来，本文分别采用以下3种方法对趋势产量进行拟合。
+
+# 2.1 趋势产量拟合方法
+
+# 2.1.1 Logistic曲线拟合
+
+比利时数学家Verhulst将Malthus人口模型方程进一步改进，得到今天被广泛应用的Logistic方程。Logistic增长模型又称自我抑制性方程，该方程能较好地捕捉时间序列增长的长期趋势。本文通过利用Logistic增长模型原理，对辽宁省水稻单产产量历史数据资料构建以下Logistic累计分布曲线方程[17]:
+
+$$
+g _ { t } = \frac { K } { 1 + \mathrm { e } ^ { a - r t } }
+$$
+
+式中： $K$ 、 $\mathbf { \Delta } _ { a }$ 、 $\boldsymbol { r }$ 为Logistic累计分布曲线方程的3个未知参数，估算方法如下：
+
+首先采用四点法估算方程中的未知参数 $K$ ，令其为 $K _ { 1 }$ ，则：
+
+$$
+K _ { 1 } = \frac { N _ { 1 } N _ { 4 } ( N _ { 2 } + N _ { 3 } ) - N _ { 2 } N _ { 3 } ( N _ { 1 } + N _ { 4 } ) } { N _ { 1 } N _ { 4 } - N _ { 2 } N _ { 3 } }
+$$
+
+式中: $( t _ { 1 } , N _ { 1 } ) , ~ ( t _ { 4 } , N _ { 4 } )$ 分别为实际产量序列的始点、终点， $( t _ { 2 } , N _ { 2 } )$ 、 $( t _ { 3 } , N _ { 3 } )$ 则为序列中间的两点。根据所得 $K$ 值对其余两个未知参数 $a , \ r$ 进行估算，将方程(3)转换形式得到如下方程：
+
+$$
+\ln \left( { \frac { K _ { 1 } - g _ { t } } { g _ { t } } } \right) = a - r t
+$$
+
+令 $G ( t ) = \ln \frac { K _ { 1 } - g _ { t } } { g _ { t } }$ 得到 $G ( t )$ 关于时间 $t$ 的一次函数:
+
+$$
+G ( t ) = a - r t
+$$
+
+利用最小二乘法原理确定其余两个参数 $a , r$ 的参数值 $a _ { 1 } , r _ { 1 }$ ，即可获得水稻趋势产量序列的拟合值$y _ { t 1 }$ ：
+
+$$
+y _ { t 1 } = \frac { K _ { 1 } } { 1 + \mathrm { e } ^ { a _ { 1 } - r _ { 1 } t } }
+$$
+
+# 2.1.2 HP 滤波法
+
+HP滤波法是一种时间序列在状态空间的分解方法，其假设时间序列由两部分构成，即：长期趋势成分和短期波动成分。HP滤波法可被认为是一个高通滤波器(high-pass filter)，能将周期在8a以下的高频成分分离出来[18]。
+
+因此，基于以上原理，采用HP滤波法可实现趋势产量和气象产量的分离。水稻单产产量的时间序列可分为在长时间尺度上的平稳变化项和短时间尺度上的波动项[14]。该方法使得产量序列在长时间尺度上的平稳变化项与水稻实际单产产量序列间偏差的平方和达到最小。若在水稻实际产量序列 $g _ { t }$ 中,长期趋势成分(趋势产量)和短期波动成分(气象产量)分别为 $y _ { t }$ 、 $y _ { w }$ ，将 $y _ { t }$ 定义为以下最小化问题的解，即:
+
+$$
+\operatorname* { m i n } \left\{ \sum _ { t = 1 } ^ { n } { \bigl ( } g _ { t } - y _ { t } { \bigr ) } ^ { 2 } + \lambda \sum _ { t = 1 } ^ { n } \Bigl [ { \bigl ( } y _ { t + 1 } - y _ { t } { \bigr ) } - { \bigl ( } y _ { t } - y _ { t - 1 } { \bigr ) } ^ { 2 } \Bigr ] \right\}
+$$
+
+对式 $( 8 ) g _ { 1 } \setminus g _ { 2 } \setminus \cdots \setminus g _ { n }$ 进行一阶求导，并令导数为0，可得：
+
+$$
+\begin{array} { r l } & { \left\{ y _ { 1 } : c _ { 1 } = \lambda \big ( y _ { 1 } - 2 y _ { 2 } + y _ { 3 } \big ) \right. } \\ & { \left. y _ { 2 } : c _ { 2 } = \lambda \big ( - 2 y _ { 1 } + 5 y _ { 2 } - 4 y _ { 3 } + y _ { 4 } \big ) \right. } \\ & { \left. \right\} : } \\ & { \left. \right\} y _ { t } : c _ { t } = \lambda \big ( y _ { t - 2 } - 4 y _ { t - 1 } + 6 y _ { t } - 4 y _ { t + 1 } + y _ { t + 2 } \big ) \right. } \\ & { \left. \right\} : } \\ & { \left. \left. y _ { n - 1 } : c _ { n - 1 } = \lambda \big ( y _ { n - 3 } - 4 y _ { n - 2 } + 5 y _ { n - 1 } - 2 y _ { n } \big ) \right. } \\ & { \left. y _ { n } : c _ { n } = \lambda \big ( y _ { n - 2 } - 2 y _ { n - 1 } + y _ { n } \big ) \right. } \end{array}
+$$
+
+用矩阵形式表示为：
+
+$$
+c = \lambda F y _ { t }
+$$
+
+式中： $F$ 为如下系数矩阵:
+
+$$
+F = { \left[ \begin{array} { l l l l l l l l } { 1 } & { - 2 } & { 1 } & { 0 } & { \cdots } & & & { 0 } \\ { - 2 } & { 5 } & { - 4 } & { 1 } & { 0 } & { \cdots } & & { 0 } \\ { 1 } & { - 4 } & { 6 } & { - 4 } & { 1 } & { 0 } & { \cdots } & { 0 } \\ { 0 } & { 1 } & { - 4 } & { 6 } & { - 4 } & { 1 } & { 0 } & { \cdots } & { 0 } \\ { \cdots } & & & & & & { } \\ { 0 } & { \cdots } & { 0 } & { 1 } & { - 4 } & { 6 } & { 4 } & { 1 } & { 0 } \\ { 0 } & { \cdots } & { 0 } & { 1 } & { - 4 } & { 6 } & { 4 } & { 1 } \\ { 0 } & { \cdots } & { 0 } & { 1 } & { - 4 } & { 5 } & { - 2 } \\ { 0 } & { \cdots } & & & & { 0 } & { 1 } & { - 2 } & { 1 } \end{array} \right] }
+$$
+
+从上述公式得到 $g _ { t } - y _ { t } = \lambda F y _ { t }$ ，整理得 $y _ { t } =$ $\left( \lambda F + I \right) ^ { - 1 } g _ { t }$ ，该式表明参数 $\lambda$ 的选取直接影响 HP滤波法的结果：当 $\lambda = 0$ 时,HP滤波法提取出的趋势产量序列为实际单产产量序列 $\left\{ { { g } _ { t } } \right\}$ ；随着 $\lambda$ 值的不断增大，趋势会越来越平滑，最终估计出的趋势不断接近于直线。因本研究中的数据为年度数据，根据以往的研究经验，参数 $\lambda$ 的参照值应选取100。最终得到HP滤波法提取趋势产量序列的表达式为：
+
+$$
+y _ { t 2 } = \left( 1 0 0 F + I \right) ^ { - 1 } g _ { t }
+$$
+
+式中： $F$ 为系数矩阵； $I$ 为单位阵。本文中采用 HP
+
+滤波法对趋势产量序列进行拟合的过程是通过Eviews软件实现的。
+
+# 2.1.3 指数平滑法
+
+指数平滑方法是基于移动平均法而提出的一种时间序列分析预测法。该方法根据“厚近薄远"原则，对全部历史数据序列赋予不同权重，用不断修匀后的数据来估算预测模型中的时变参数[19]。其原理是任一期的指数平滑值都是本期实际观察值与前一期指数平滑值的加权平均。该方法的优点在于可以通过对历史数据序列进行逐层的平滑计算而消除数据序列中异常数据对序列的整体影响，从而拟合出序列的主要变化趋势，进而预测序列的未来变化趋势。
+
+由于水稻产量受社会因素和自然因素的影响，表现出非线性变化，适用于三次指数平滑法，但因该方法的指数平滑模型中的参数固定，当时间序列变化较大时，预测模型的精度会受到很大影响，且难以确定平滑初值，因此本文采用动态三次指数平滑模型提取时间序列的趋势项。其动态三次指数平滑法的预测模型如式(13):
+
+$$
+F _ { t + m } = a _ { t } + b _ { t } m + \frac { 1 } { 2 } c _ { t } m ^ { 2 }
+$$
+
+式中： $\mathbf { \nabla } _ { m }$ 代表预测期数； $a _ { t }$ 、 $b _ { t }$ 、 $\boldsymbol { c } _ { t }$ 为模型参数。
+
+$$
+a _ { t } = 3 S _ { t } ^ { ( 1 ) } - 3 S _ { t } ^ { ( 2 ) } + S _ { t } ^ { ( 3 ) }
+$$
+
+$$
+b _ { t } = \frac { \alpha } { 2 \left( 1 - \alpha \right) } \overset { } { \left[ \right]} \left( 6 - 5 \alpha \right) S _ { t } ^ { ( 1 ) } - \left( 1 0 - 8 \alpha \right) S _ { t } ^ { ( 2 ) } + \left( 4 - 3 \alpha \right) S _ { t } ^ { ( 3 ) } 
+$$
+
+$$
+c _ { t } = \frac { \alpha ^ { 2 } } { \left( 1 - \alpha \right) ^ { 2 } } ( S _ { t } ^ { ( 1 ) } - 2 S _ { t } ^ { ( 2 ) } + S _ { t } ^ { ( 3 ) } )
+$$
+
+式中： $\alpha$ 为静态平滑参数，且 $0 < \alpha < 1$ ； ${ S } _ { t } ^ { ( 1 ) }$ 、 ${ S _ { t } } ^ { ( 2 ) }$ 、${ S _ { t } } ^ { ( 3 ) }$ 分别为单指数平滑值、双指数平滑值和三次指数平滑值，即：
+
+$$
+\left\{ \begin{array} { l l } { S _ { t } ^ { ( 1 ) } = \alpha y _ { t } + \alpha ( 1 - \alpha ) S _ { t - 1 } ^ { ( 1 ) } } \\ { S _ { t } ^ { ( 2 ) } = \alpha S _ { t } ^ { ( 1 ) } + \alpha ( 1 - \alpha ) S _ { t - 1 } ^ { ( 2 ) } } \\ { S _ { t } ^ { ( 3 ) } = \alpha S _ { t } ^ { ( 2 ) } + \alpha ( 1 - \alpha ) S _ { t - 1 } ^ { ( 3 ) } } \end{array} \right.
+$$
+
+为了使预测模型更加精准，本研究采用动态三次指数平滑模型，方法如下：
+
+首先将式(17)展开，可得到：
+
+$$
+\begin{array}{c} \begin{array} { r l } & { \{ S _ { t } ^ { ( 1 ) } = \displaystyle \sum _ { i = 1 } ^ { t } \alpha ( 1 - \alpha ) ^ { t - i } y _ { t } + ( 1 - \alpha ) ^ { t } S _ { 0 } ^ { ( 1 ) } \qquad } \\ & { \{ S _ { t } ^ { ( 2 ) } = \displaystyle \sum _ { i = 1 } ^ { t } \alpha ( 1 - \alpha ) ^ { t - i } S _ { t } ^ { ( 1 ) } + ( 1 - \alpha ) ^ { t } S _ { 0 } ^ { ( 2 ) } \qquad } \\ & { \{ S _ { t } ^ { ( 3 ) } = \displaystyle \sum _ { i = 1 } ^ { t } \alpha ( 1 - \alpha ) ^ { t - i } S _ { t } ^ { ( 2 ) } + ( 1 - \alpha ) ^ { t } S _ { 0 } ^ { ( 3 ) } \qquad } \end{array}    \end{array}
+$$
+
+其中，方程系数 $\sum _ { i = 1 } ^ { t } \alpha ( 1 - \alpha ) ^ { t - i } = 1 - ( 1 - \alpha ) ^ { t } \neq 1$ ，所以$\varphi _ { t } = { \frac { \alpha } { 1 - ( 1 - \alpha ) ^ { t } } }$ 若 $t > 1$ ，则 $0 < \varphi _ { t } < 1$ ；若 $t = 1$ ，则 $\operatorname* { l i m } _ { t  1 } \varphi _ { t } = 1$ ；将 $\varphi _ { t } = \frac { \alpha } { 1 - \left( 1 - \alpha \right) ^ { t } }$ 代入式(18)中得到动态三次指数平滑预测模型，即：
+
+$$
+\left\{ \begin{array} { l l } { S _ { t } ^ { ( 1 ) } = \varphi _ { t } y _ { t } + ( 1 - \varphi _ { t } ) S _ { t - 1 } ^ { ( 1 ) } } \\ { S _ { t } ^ { ( 2 ) } = \varphi _ { t } S _ { t } ^ { ( 1 ) } + ( 1 - \varphi _ { t } ) S _ { t - 1 } ^ { ( 2 ) } } \\ { S _ { t } ^ { ( 3 ) } = \varphi _ { t } S _ { t } ^ { ( 2 ) } + ( 1 - \varphi _ { t } ) S _ { t - 1 } ^ { ( 3 ) } } \end{array} \right.
+$$
+
+将式(19)中的3个方程进行递推，可得到：
+
+$$
+\left\{ \begin{array} { l l } { \displaystyle S _ { t } ^ { ( 1 ) } = \sum _ { i = 1 } ^ { t } [ \varphi _ { i } \prod _ { j = i + 1 } ^ { t } ( 1 - \varphi _ { j } ) ] y _ { i } } \\ { \displaystyle S _ { t } ^ { ( 2 ) } = \sum _ { i = 1 } ^ { t } [ \varphi _ { i } \prod _ { j = i + 1 } ^ { t } ( 1 - \varphi _ { j } ) ] S _ { t } ^ { ( 1 ) } } \\ { \displaystyle S _ { t } ^ { ( 3 ) } = \sum _ { i = 1 } ^ { t } [ \varphi _ { i } \prod _ { j = i + 1 } ^ { t } ( 1 - \varphi _ { j } ) ] S _ { t } ^ { ( 2 ) } } \end{array} \right.
+$$
+
+设 $\prod _ { j = i + 1 } ^ { t } ( 1 - \varphi _ { j } ) = 1$ ，则 $\sum _ { i = 1 } ^ { t } [ \varphi _ { i } \prod _ { j = i + 1 } ^ { t } ( 1 - \varphi _ { j } ) ] = 1$ ，即权重之和为 $1 _ { \circ }$ 因此通过将 $t$ 的时间函数 $\varphi _ { t }$ 作为动态平滑参数以及将 ${ S _ { t } } ^ { ( 1 ) } = { S _ { t } } ^ { ( 2 ) } = { S _ { t } } ^ { ( 3 ) } = y _ { t }$ 作为初始值,构建动态三次指数平滑模型。
+
+最终的预测模型函数为：
+
+$$
+y _ { t 3 } = F _ { t + m } = a _ { t } + b _ { t } m + { \frac { 1 } { 2 } } c _ { t } m ^ { 2 }
+$$
+
+其中, $a _ { t }$ 、 $b _ { t }$ 、 $c _ { t }$ 模型参数分别为：
+
+$$
+\left\{ \begin{array} { l l } { \displaystyle a _ { t } = 3 S _ { t } ^ { ( 1 ) } - 3 S _ { t } ^ { ( 2 ) } + S _ { t } ^ { ( 3 ) } } \\ { \displaystyle b _ { t } = \frac { \varphi _ { t } } { 2 ( 1 - \varphi _ { t } ) } \Big [ ( 6 - 5 \varphi _ { t } ) S _ { t } ^ { ( 1 ) } - ( 1 0 - 8 \varphi _ { t } ) S _ { t } ^ { ( 2 ) } + ( 4 - 3 \varphi _ { t } ) S _ { t } ^ { ( 3 ) } \Big ] } \\ { \displaystyle c _ { t } = \frac { \varphi _ { t } ^ { 2 } } { \big ( 1 - \varphi _ { t } \big ) ^ { 2 } } \Big ( S _ { t } ^ { ( 1 ) } - 2 S _ { t } ^ { ( 2 ) } + S _ { t } ^ { ( 3 ) } \Big ) } \end{array} \right.
+$$
+
+基于以上原理，结合 SPSS 软件构建指数平滑预测模型，从而通过水稻实际产量序列拟合出水稻趋势产量序列yr。
+
+# 2.2 一致性统计分析方法
+
+采用一致性相关系数(concordancecorrelationcoefficient, $r _ { \mathrm { c } } ^ { } ,$ 度量3种趋势产量提取方法所拟合出的趋势产量的一致性。记 $x$ 、 $y$ 为要进行一致性等级评价的两个时间序列，且样本量均为 $n$ ，一致性相关系数表示为[20]：
+
+$$
+r _ { c } = \frac { 2 S _ { x y } } { { S _ { x } } ^ { 2 } + { S _ { y } } ^ { 2 } + ( \overline { { x } } - \overline { { y } } ) ^ { 2 } }
+$$
+
+式中： $\overline { { x } }$ 、 $\overline { { y } }$ 、 $S _ { x }$ 、 $S _ { y }$ 分别为 $x$ 、 $y$ 两个时间序列的均值和标准差； $S _ { x y }$ 为 $x$ 、 $y$ 两个时间序列的协方差。
+
+一致性相关系数 $r _ { c }$ 的取值范围在-1和1之间。当 $r _ { c } = 1$ 时，理论上认为两组序列结果正向完全一致;当 $r _ { c } = - 1$ 时，则认为两组序列结果负向完全一致；当一致性相关系数具有显著性统计学意义时，可结合 $r _ { \mathrm { c } }$ 的大小进行一致性程度的评价，评价标准见表1。
+
+表1采用不同方法拟合趋势产量序列的一致性评价等级Table 1 Consistency evaluation levels of the trend yield seriesfittedbydifferentmethods  
+
+<html><body><table><tr><td>一致性相关系数(rc)范围 Range of concordance correlation coefficient (rc)</td><td>评价等级 Evaluation level</td></tr><tr><td>r>0.85</td><td>一致性极好 Excellent consistency</td></tr><tr><td>0.85≥rc≥0.50</td><td>一致性较好</td></tr><tr><td>r<0.50</td><td>Good consistency 一致性差 Poor consistency</td></tr></table></body></html>
+
+# 3结果与分析
+
+# 3.1水稻趋势产量拟合结果分析
+
+Logistic、HP滤波以及指数平滑3种方法的趋势产量拟合结果表明，1949—2010年9个地区的水稻趋势产量皆呈显著增加趋势 $( P { < } 0 . 0 1 )$ (图1-3),62 a间的气候倾向率为 $0 . 4 5 3 { \sim } 1 . 7 2 9 \ \mathrm { \ t { \cdot } h m } ^ { - 2 } { \cdot } ( 1 0 \mathrm { a } ) ^ { - 1 }$ ，与国家粮食总产量的增长趋势基本一致，主要得益于品种的更新、化肥施用量的增加、耕作方式的改变和惠农政策的实施等。
+
+以3种方法求算的趋势产量求取站点平均，再求取17个站点的平均值为辽宁省平均趋势产量序列。本文所选区域在辽宁省内，除朝阳受西风带下沉气流影响偏干旱、辽东受海洋影响海洋性气候特点较突出外，其他地区的气候特征基本一致，不同地区间水稻的趋势产量应具有一致性，且将不同方法求取的趋势产量再求平均能最大限度地降低趋势产量模拟的随机性，因此，采用多方法多站点平均的趋势产量能够代表辽宁省平均的趋势产量序列。一致性分析结果表明，在Logistic方法、HP 滤波法和指数平滑法中，9个地区的趋势产量序列与辽宁省平均趋势产量序列间均表现为一致性较好，其中，沈阳、铁岭、鞍山、辽阳、丹东和锦州6个地区的趋势产量序列与辽宁省平均趋势产量序列间的一致性相关系数达0.908以上，表现为一致性极好(表2)。
+
+![](images/913ce5400a5e16c38c5501aee3daa57123492d09ab58270fb78f55ec4f4beeae.jpg)  
+图1采用Logistic方法拟合的1949—2010年辽宁省各地区水稻趋势产量序列与实际产量序列的比较 Fig.1Comparisonof thetrendyieldseriesfitedbyLogistic methodand theactualyieldseriesfrom1949 to2010indiferent regions of Liaoning Province 图中实线和虚线分别代表水稻实际产量序列和拟合的趋势产量。The solid and dotted lines represent theactual and fited yiel riesofrice,respectively.
+
+![](images/a85b0f6d29acb5e69f1d7aecaa39a7f9c106da4f0038bff4036977ee663ae928.jpg)  
+图2采用HP滤波方法拟合的1949—2010年辽宁省各地区水稻趋势产量序列与水稻实际产量序列的比较 Fig.2ComparisonofthetrendyieldseriesfitedbyHPfiltermethodandtheactualyieldseriesfroml949 to2O10indifferent regions of Liaoning Province 图中实线和虚线分别代表水稻实际产量和拟合的趋势产量。The solid anddotted lines represent the actual andfiting yield series of rice,respectively.
+
+由此可见，Logistic方法、HP滤波法以及指数平滑法所拟合出的趋势产量序列与辽宁省平均趋势产量序列一致，3种方法均可用于趋势产量的提取。
+
+3.2水稻趋势产量与社会发展实际趋势相符合状况分析趋势产量除了受品种更新、化肥施用量增加、耕作方式改变等影响外，惠农政策的实施也能在短时间内极大地解放生产力，使得趋势产量快速增长。王桂芝等[21]对全国1961—2012年粮食单产年度数据的趋势加以分析，结果表明全国粮食单产产量保持持续增长的趋势，但各个阶段粮食增产的速率存在差异。由于受到生产力水平的限制，1961—1977年粮食单产增长速度较慢；1978—1990 年期间，受“家庭联产承包责任制"等惠农政策的实施以及农业生产力提高的影响，我国的粮食单产增长迅速；而在1991年后，种植技术不断发展进步，粮食处于稳步增长状态。换言之，相比于国家改革开放前后两个时间阶段，1978—1990年期间的全国粮食增长速率最大，且在此期间的增长曲线斜率也最大。
+
+![](images/c94a1533d35af68f148400ce52b0e81d4e2de2d45f756118b9f42bb36b235030.jpg)  
+图3采用指数平滑法拟合的1949—2010年辽宁省各地区水稻趋势产量序列与水稻实际产量序列的比较 Fig.3Comparisonofthetrend yieldseries fitedbyexponentialsmoothing methodandtheactualyieldseriesfroml949 to 2010 in different regions of Liaoning Province 图中实线和虚线分别代表水稻实际产量和拟合的趋势产量。The solid and dottedlines representhe actual and fiting yield series of rice,respectively.
+
+表2不同方法拟合出的各地区水稻趋势产量序列与辽宁省平均趋势产量序列间的一致性相关系数TableCoefficientsofconcordacecorelationbetwnthetrendyieldseriesofrice fittdbydifferentmethods ineachrgionandthe average trend yield series of Liaoning Province  
+
+<html><body><table><tr><td>方法 Method</td><td>沈阳 Shenyang</td><td>铁岭 Tieling</td><td>盘锦 Panjin</td><td>鞍山 Anshan</td><td>辽阳 Liaoyang</td><td>丹东 Dandong</td><td>锦州 Jinzhou</td><td>朝阳 Chaoyang</td><td>大连 Dalian</td></tr><tr><td>Logistic方法 Logistic method</td><td>0.971</td><td>0.968</td><td>0.764</td><td>0.953</td><td>0.952</td><td>0.918</td><td>0.920</td><td>0.646</td><td>0.756</td></tr><tr><td>HP 滤波法 HP filter method</td><td>0.976</td><td>0.917</td><td>0.789</td><td>0.957</td><td>0.930</td><td>0.924</td><td>0.939</td><td>0.674</td><td>0.669</td></tr><tr><td>指数平滑法 Exponential smoothing method</td><td>0.973</td><td>0.920</td><td>0.765</td><td>0.934</td><td>0.921</td><td>0.908</td><td>0.924</td><td>0.648</td><td>0.636</td></tr></table></body></html>
+
+尽管3种方法拟合出的9个研究区内的水稻趋势产量都表现为不同程度的增长趋势，与王桂芝等[21]研究的全国粮食增长趋势一致，但在不同时间段内水稻产量的增长速率则差别明显。趋势产量是社会进步因素的综合反映，趋势产量模拟曲线应该符合社会技术各发展阶段的实际[9]。为明确以上3种趋势产量提取方法的优劣，将3种方法提取出的趋势产量按1949—1977年、1978—1990年和1991— 2010年共3个时间段分段求取其增长速率(表3)。将3个时段内趋势产量增长速率进行比较发现,Logistic方法拟合出的趋势产量序列仅在铁岭地区表现为1978—1990年时间段的增长速率最大。对于HP滤波法，大部分研究区(沈阳、铁岭、盘锦、鞍山、锦州和朝阳6个地区)的趋势产量序列曲线在 1978—1990年期间的增长速率均达到最大；而指数平滑法拟合的趋势产量序列在1978—1990年期间的增长速率达最大的地区个数为5个(沈阳、铁岭、盘锦、鞍山和锦州)。在20世纪80年代中后期，随着改革开放的深入，乡镇企业兴起，比较效益的低下使得较早开放的沿海地区农民种粮的积极性下降，导致粮食产量出现一定程度的下滑现象，大连和丹东在20世纪80年代中后期水稻单产的下滑皆与此有关，趋势产量的负增长状态与该时期特定的社会发展状况关系密切。Logistic提取的大连和丹东地区的趋势产量在1978—1990年时间段的增产速率皆为正值，不仅与当地水稻产量的实际趋势无法对应，也无法体现当时社会发展的实际状况，而HP滤波法和指数平滑法提取的趋势产量则与该时期社会发展的实际相符，基本体现了1978—1990年时间段的后半段由于种粮积极性下降导致的粮食生产呈下滑状态的实
+
+表3采用3种不同方法在不同地区不同时间段内水稻趋势产量序列的增长速率Growth rates of the rice trend yield series obtained by three methods indifferent regions and  
+
+<html><body><table><tr><td rowspan="2">方法 Method</td><td rowspan="2">地区 Region</td><td colspan="3">趋势产量增长速率 Growth rate of trend yield (kg:hm-2.a-1)</td><td rowspan="2">1978—1990年增长速率最大 Growth rate reached the maximum during the period from1978 to 1990</td></tr><tr><td>1949-1977年 From 1949 to 1977</td><td>1978—1990 年 From 1978 to 1990</td><td>1991—2010 年 From 1991 to 2010</td></tr><tr><td rowspan="9">Logistic 法 Letitid</td><td>沈阳 Shenyang</td><td>89.17</td><td>145.58</td><td>171.52</td><td></td></tr><tr><td>铁岭Tieling</td><td>114.48</td><td>155.09</td><td>109.47</td><td>√</td></tr><tr><td>盘锦Panjin</td><td>212.01</td><td>155.09</td><td>38.67</td><td></td></tr><tr><td>鞍山 Anshan</td><td>100.40</td><td>152.11</td><td>158.36</td><td></td></tr><tr><td>辽阳Liaoyang</td><td>76.17</td><td>103.67</td><td>120.88</td><td></td></tr><tr><td>丹东 Dandong</td><td>138.78</td><td>69.58</td><td>20.30</td><td></td></tr><tr><td>锦州Jinzhou</td><td>82.05</td><td>158.57</td><td>204.94</td><td></td></tr><tr><td>朝阳 Chaoyang</td><td>49.45</td><td>93.60</td><td>154.71</td><td></td></tr><tr><td>大连Dalian</td><td>67.07</td><td>50.66</td><td>33.18</td><td></td></tr><tr><td rowspan="10">HP 滤波法 HPfiter</td><td>沈阳 Shenyang</td><td>88.19</td><td>159.46</td><td>122.11</td><td>√</td></tr><tr><td>铁岭Tieling</td><td>91.55</td><td>143.41</td><td>113.63</td><td>√</td></tr><tr><td>盘锦Panjin</td><td>136.15</td><td>236.45</td><td>-5.69</td><td>√</td></tr><tr><td>鞍山 Anshan</td><td>86.14</td><td>178.06</td><td>135.44</td><td>√</td></tr><tr><td>辽阳Liaoyang 丹东 Dandong</td><td>88.27</td><td>46.27</td><td>140.37</td><td></td></tr><tr><td>锦州 Jinzhou</td><td>137.22</td><td>-34.91</td><td>74.66</td><td>√</td></tr><tr><td></td><td>71.98</td><td>201.64</td><td>124.25</td><td></td></tr><tr><td>朝阳Chaoyang</td><td>33.45</td><td>145.16</td><td>145.14</td><td>√</td></tr><tr><td>大连Dalian</td><td>21.78</td><td>-65.46</td><td>117.76</td><td></td></tr><tr><td>沈阳Shenyang</td><td>105.45</td><td>161.64</td><td>121.01</td><td>√</td></tr><tr><td rowspan="8">sxmoothtial method</td><td>铁岭Tieling</td><td>123.76</td><td>138.91</td><td>133.44</td><td>√</td></tr><tr><td>盘锦Panjin</td><td>120.38</td><td>248.27</td><td>25.87</td><td>√</td></tr><tr><td>鞍山 Anshan</td><td>78.83</td><td>201.94</td><td>103.68</td><td>√</td></tr><tr><td>辽阳Liaoyang</td><td>84.79</td><td>23.40</td><td>135.98</td><td></td></tr><tr><td>丹东 Dandong</td><td>113.88</td><td>-51.76</td><td>88.81</td><td></td></tr><tr><td>锦州 Jinzhou</td><td>73.03</td><td>224.10</td><td>131.56</td><td>√</td></tr><tr><td>朝阳 Chaoyang</td><td>42.56</td><td>112.01</td><td>175.38</td><td></td></tr><tr><td>大连Dalian</td><td>6.81</td><td>-138.31</td><td>130.63</td><td></td></tr></table></body></html>
+
+表中"√"代表该地区在1978—1990年期间水稻增产速率达到最大，即该地区的水稻趋势产量拟合结果与水稻实际产量发展趋势相吻合。Inthetable,symbol“representsthegowthateofftedtredyieldreacedthemaxiumontheregioninteperiodof1978to99hiccoincides with the trend of the actual rice production.
+
+际情况。
+
+因此，从拟合的趋势产量序列与惠农政策的实施和社会发展的实际符合情况来看，HP滤波法拟合出的趋势产量序列与实际情况最为吻合，能较真实地反映改革开放前后由于生产力和国家政策变化所带来的实际产量的变化趋势；其次为指数平滑法，其拟合的趋势产量也基本反映了社会发展的实际状况；而Logistic方法拟合的趋势产量变化趋势反映社会发展实际的能力最差。
+
+综上所述，得到以下两个结论：1)Logistic方法、HP滤波法和指数平滑法的一致性均较好，基本能体现出辽宁省趋势产量的变化情况；2)相比于Logistic方法和指数平滑法，HP滤波法拟合出的趋势产量更能反映出国家重大政策对粮食产量的影响，换言之，HP滤波法更能抓住趋势产量实际变化情况的特征，且拟合效果更佳。
+
+# 3.3分离的气象产量序列区域一致性分析
+
+气象产量为受气象要素短周期变化影响而引起的波动产量分量，从实际产量序列中去除掉趋势产量即为气象产量。当区域范围内气候特征基本相同时，水稻的气象产量具有基本相似的变化特征[22]。辽宁省水稻生育期内大部分时间有水层存在，因此水分对产量的影响可以忽略，气象产量年际间的波动主要由温度的年际变化所决定。从气候特征来看，朝阳地区与辽宁其他地区相比，在农作物生长季期间温度偏高，因此在评价气象产量全区一致性分析时剔除掉朝阳地区。另外，本文分别对Logistic 方法、HP滤波法和指数平滑法得到的不同研究区域的气象产量序列以相似系数作为类和类之间相似程度的一个度量指标，采用SPSS软件中的快速聚类，结果表明，3种趋势产量拟合方法得到的气象产量聚类结果相同，朝阳地区独自为一类，朝阳以外的其他地区为一类，这也从另一个侧面说明在进行全区一致性分析时剔除掉朝阳地区的合理性。
+
+标准差为随机变量离散程度的度量指标。以某年不同区域间的气象产量构成样本，由于气象要素变化特征相似，合理的趋势产量分离方法所得到的气象产量也具有同升(增产)或同降(减产)的特点，即一致性较好，表现为样本标准差较小，而不合理的趋势产量分离方法所得区域气象产量样本的标准差较大。图4为采用3种趋势产量拟合方法得到的除朝阳地区以外所有研究区域气象产量的平均值及标准差序列。由图4可见，不同趋势产量分离方法得到的气象产量区域平均值序列具有相似的年际及年代际变化特征，成对检验结果表明，三者之间无显著区别 $( P { > } 0 . 0 5 )$ 。但是，HP滤波法分离得到的气象产量样本标准差序列(图 4b)显著地小于Logistic方法(图4a)和指数平滑法(图4c) $( P { < } 0 . 0 5 )$ ，3种方法分离的气象产量序列标准差从小到大依次为HP滤波法 $\cdot <$ 指数平滑法<Logistic方法。表明HP 滤波法分离得到的各地区气象产量全区同升(增产)或同降(减产)的特征更明显，指数平滑法次之，Logistic方法最差。从研究区域间气象产量序列反映气象要素年际及年代际变化特征上看，HP滤波法分离得到的气象产量序列更合理。
+
+# 4讨论与结论
+
+# 4.1讨论
+
+我国辽宁稻区水稻在生育期大部分时间内有水层存在，水分不是制约水稻产量的因素之一，制约水稻产量的主要气象要素为热量条件。首先，辽宁省各地区农业生产力水平相当，农业技术的进步在全省基本同步[23]，因此，趋势产量应具有很好的一致性，合适的趋势产量拟合方法应能体现趋势产量全区一致性的特点；其次，辽宁省位于我国东北地区南部，大量研究表明，该区的热量条件表现出明显的全区域一致性变化特征[24-25]，受热量条件年际变化的制约，不同地区(县)气象产量也应表现出同升同降的特点(本文以全部站点气象产量的区域标准差作为衡量该特点的度量指标)，若标准差越小，则气象产量同升同降的特征越明显，越能体现热量条件全区一致性的变化特征；第三，惠农政策的实施能够极大地解放生产力，合适的趋势产量拟合方法应能体现惠农政策对粮食增产的促进作用。在本文所分析的3种方法中,Logistic、HP滤波和指数平滑方法皆能很好地体现区域生产力发展水平的一致性，且三者之间无明显区别，但无论是从体现热量条件区域变化的一致性来看，还是从体现惠农政策对粮食增产的促进作用方面来看，都是HP滤波方法拟合的趋势产量和分离得到的气象产量更合理。因此，本研究认为HP滤波法拟合的趋势产量更合理这一结论具有很高的可信度。国内外HP滤波方法拟合粮食趋势产量也得到大量应用[26-28]，但该方法是否具有普适性还有待于在更多地区更多作物上进一步证实。
+
+![](images/a104f8a8afe55f33aa295b8e06a46d0efea85e3585d30fd42fe9f127dcaaa3e9.jpg)  
+图4采用Logistic方法(a)、HP滤波法(b)和指数平滑法(c)分离得到的水稻气象产量区域平均值及标准差序列 (图中短线为 $\pm \mathbf { 1 }$ 倍标准差) Fig.4Regional average values and standard deviationsequences ofmeteorological yields ofrice fited byLogistic method(a) HP filter method (b) and exponential smoothing method (c) (short line is $\pm 1$ Std. Dev)
+
+# 4.2结论
+
+本研究以辽宁省9个地区17个站点62年的水稻历史产量数据为基础，分析评价了HP滤波法、指数平滑法以及Logistic方法分离水稻的趋势产量气象产量序列的合理性，得出如下结论：
+
+1)一致性分析结果表明，在Logistic方法、HP滤波法和指数平滑法中，9个地区的趋势产量与辽宁省平均趋势产量序列均表现为一致性较好，其中，沈阳、铁岭、鞍山、辽阳、丹东和锦州6个地区的趋势产量序列与辽宁省平均趋势产量序列间的一致性相关系数达0.908以上，表现为一致性极好。可见，Logistic方法、HP滤波法以及指数平滑法所拟合出的趋势产量序列与辽宁省平均趋势产量序列一致。
+
+2)从趋势产量的拟合结果与惠农政策的实施和社会发展的实际符合情况来看，HP滤波法拟合出的趋势产量序列与实际情况吻合最好，能较真实地反映改革开放前后由于生产力和国家政策变化所带来的实际产量的变化趋势；其次为指数平滑法，其拟合的趋势产量序列也基本反映了社会发展的实际状况；而Logistic方法拟合的趋势产量变化趋势反映社会发展实际的能力最差。
+
+3)不同趋势产量分离方法得到的气象产量区域平均值序列具有相似的年际及年代际变化特征，三者之间无显著区别 $( P { > } 0 . 0 5 )$ 。HP滤波法分离得到的气象产量吻合气候特征的能力最强，指数平滑法次
+
+之,Logistic方法最差。
+
+综合上述分析结果，本文认为辽宁省水稻趋势产量的拟合以应用HP滤波法最优，指数平滑法次之，而Logistic方法由于无法真实地反映社会发展的实际状况且分离得到的气象产量区域一致性较差等原因，不适合于辽宁省水稻趋势产量的拟合。
+
+参考文献 References   
+[1] 林而达，吴绍洪，戴晓苏，等．气候变化影响的最新认知[J]. 气候变化研究进展,2007,3(3):125-131 Lin E D,Wu S H,Dai X S,et al.Updated understanding of climate change impacts[J]. Advances in Climate Change Research,2007,3(3): 125-131   
+[2] 陈素英，张喜英，邵立威，等．农业技术和气候变化对农作 物产量和蒸散量的影响[J]．中国生态农业学报,2011,19(5): 1039-1047 Chen S Y, Zhang X Y, Shao L W,et al. Effects of climate changeand agricultural technologyimprovementon evapotranspiration and crop yield[J]. Chinese Journal of EcoAgriculture,2011,19(5): 1039-1047   
+[3]戴彤，王靖，赫迪，等.1961—2010 年气候变化对西南冬小 麦潜在和雨养产量影响的模拟分析[J]．中国生态农业学报, 2016,24(3): 293-305 Dai T,Wang J,He D,et al.Impact simulation of climate change on potential and rainfed yields of winter wheat in Southwest China from 1961 to 2010[J].Chinese Journal of Eco-Agriculture,2016,24(3): 293-305   
+[4] 孙宏勇，刘昌明，王振华，等．太行山前平原近 40 年降水 的变化趋势及其对作物生产的影响[J]．中国生态农业学报, 2007,15(6): 18-21 Sun H Y, Liu C M, Wang Z H,et al. Changing trend of precipitation and its effects on crop productivity in the piedment of Taihang Mountain[J]. Chinese Journal of Eco-Agriculture,2007,15(6): 18-21   
+[5] 姜会飞，廖树华，丁谊，等．基于马尔柯夫过程和概率分布 特征的粮食产量预测[J]．中国农业气象，2006，27(4): 269-272 Jiang HF,Liao SH,Ding Y,et al. Grain crop yield prediction based on Markov Model and probability distribution character of stochastic series[J]. Chinese Journal of Agrometeorology, 2006,27(4): 269-272   
+[6] 史印山，王玉珍，池俊成，等．河北平原气候变化对冬小麦 产量的影响[J]．中国生态农业学报,2008,16(6):1444-1447 Shi Y S,Wang Y Z, Chi JC,et al. Impact of climate change on winter wheat production in the Hebei Plain[J]. Chinese Journal of Eco-Agriculture,2008,16(6): 1444-1447   
+[7] 廉毅，高枞亭，沈柏竹，等．吉林省气候变化及其对粮食生 产的影响[J]．气候变化研究进展,2007,3(1):46-49 Lian Y,Gao Z T, Shen B Z,et al. Climate change and its impacts on grain production in Jilin Province[J].Advances in Climate Change Research,2007,3(1): 46-49   
+[8]马雅丽，王志伟，栾青，等．玉米产量与生态气候因子的关 系[J]．中国农业气象,2009,30(4):565-568 Agrometeorology,zUuy,3U(4): ɔo5-508 [9]房世波．分离趋势产量和气候产量的方法探讨[J]．自然灾 害学报,2011,20(6): 13-18 Fang S B.Exploration of method for discrimination between trend crop yield and climatic fluctuant yield[J]. Journal of Natural Disasters,2011,20(6):13-18   
+[10]王媛，方修琦，徐锁．气候变化背景下“气候产量"计算方 法的探讨[J]．自然资源学报,2004,19(4):531-536 Wang Y,Fang X Q,Xu T.A method for calculating the climatic yield of grain under climate change[J]. Journal of Natural Resources,2004,19(4): 531-536   
+[11]廉丽姝．山东省气候变化及农业自然灾害对粮食产量的影 响[J]．气象科技,2005,33(1):73-76 Lian L S.Impact of climate change and natural disasters on grain yields in Shandong Province in past 4O years[J]. Meteorological Science and Technology,20o5,33(1): 73-76   
+[12]郝立生，吴雁，王荣英．海河低平原春季气候变化对冬小 麦产量的影响[J].气象与减灾研究,2007,30(4):20-24 Hao L S,Wu Y, Wang R Y.Impact of spring climate change on wheat yield in lower Haihe Plain[J]. Meteorology and Disaster Reduction Research,2007,30(4): 20-24   
+[13]尹东，柯晓新，费晓玲．甘肃省夏粮气候产量变化特征的 因子分析[J]．中国农业气象,2000,21(3):11-14 Yin D,Ke X X,Fei X L.Factorial analysis on the variation features of climatic yield of summer crops in Gansu Province[J] Chinese Journal of Agrometeorology, 2000,21(3): 11-14   
+[14]王桂芝，陆金帅，陈克，等．基于 HP 滤波的气候产量分 离方法探讨[J]．中国农业气象,2014,35(2):195-199 Wang G Z,Lu J S,Chen K Y, et al. Exploration of method in separating climatic output based on HP filter[J]. Chinese Journal of Agrometeorology, 2014,35(2): 195-199   
+[15]徐敏,高苹.基于HP 滤波法对气象产量预报模型的改进[C]// 中国气象学会.第33届中国气象学会年会S14提升气象科 技创新能力，保障农业丰产增效论文集．西安：中国学术 期刊电子出版社,2016:4-5 Xu M,Gao P. Improvement of meteorological yield forecast model based on HP filtering[C]//Chinese Meteorological Society. The 33rd Annual Meeting of China Meteorological Society S14 Enhance the Innovation Ability of Meteorological Science and Technology to Ensure the High Yield and Efficiency of Agriculture. Xi'an: China Academic Journal Electronic Publishing House,2016:4-5   
+[16] 杨忠根，姜桂祥，陈红亮．二次曲线拟合算法的统计性能 分析与改进[J]．上海海运学院学报,2003,24(1):46-51 Yang Z G, Jiang G X,Chen H L.Statistical performance analysis and improvement of conic fitting algorithm[J]. Journal of Shanghai Maritime University,2003,24(1): 46-51   
+[17]殷祚云.Logistic 曲线拟合方法研究[J]．数理统计与管理, 2002,21(1):41-46 Yin Z Y. Study on the fiting methods of Logistic curve[J]. Application of Statistics and Management,2002,21(1): 41-46   
+[18]汤铎铎．三种频率选择滤波及其在中国的应用[J]．数量经 济技术经济研究,2007,24(9):144-156 Tang D D.Three frequency selective filters and their applications in China[J]. The Journal of Quantitative &   
+[19]冯金巧，杨兆升，张林，等．一种自适应指数平滑动态预测 模型[J]．吉林大学学报：工学版,2007,37(6):1284-1287 Feng J Q,Yang Z S,Zhang L,et al. Adaptive exponential smoothing model for dynamic prediction[J]. Journal of Jilin University: Engineering and Technology Edition,20o7,37(6): 1284-1287   
+[20]刘玉秀，徐建平．定量检测指标的一致性统计分析方法[J]. 临床检验杂志,1998,16(6):379-381 Liu Y X,Xu JP.Concordance statistic analysis method for quantitative detection index[J]. Chinese Journal of Clinical Laboratory Science,1998,16(6): 379-381   
+[21] 王桂芝，胡慧，陈纪波，等．基于 BP滤波的Fourier 模型在 粮食产量预测中的应用[J]．中国农业气象，2015，36(4): 472-478 Wang G Z,Hu H,Chen JB,et al.Application of Fourier model based on BPFilterin crops yield prediction[J]. Chinese Journal of Agrometeorology,2015,36(4): 472-478   
+[22]王保，黄思先，孙卫国．气候变化对长江中下游地区水稻 产量的影响[J]．湖北农业科学,2014,53(1):43-51 Wang B, Huang S X, Sun W G. Effects of climate change on rice yield of the middle and lower reaches region of the Yangtze River[J].Hubei Agricultrual Sciences,2014,53(1): 43-51   
+[23]孙雯．气候变暖对中国水稻生产的影响[D]．南京：南京农 业大学,2011:77-81 SunW. Global warming impactson productionand photosynthetic thermal productivity of rice in China[D]. Nanjing: Nanjing Agricultural University,2011: 77-81   
+[24]陆金帅．气候因子变化对我国粮食产量的影响及关系研 究[D]．南京：南京信息工程大学,2014:19-20 Lu J S.Research on the relationship of climatic factors and grain yield in China[D]. Nanjing:Nanjing University of Information Science & Technology,2014:19-20   
+[25]牛浩，陈盛伟．山东省玉米气象产量分离方法的多重比较 分析[J]．山东农业科学,2015,47(8):95-99 Niu H,Chen S W. Multiple comparative analyses of separation methods for meteorological yield of corn in Shandong Province[J]. Shandong Agricultural Sciences,2015, 47(8): 95-99   
+[26]尹朝静，李谷成，葛静芳．粮食安全：气候变化与粮食生产 率增长- 基于 HP 滤波和序列 DEA 方法的实证分析[J]. 资源科学,2016,38(4):665-675 Yin C J,Li G C, Ge JF. Food security, climate change and grain productivity growth based on HP filter and sequential DEA methods[J]. Resources Science,2016,38(4): 665-675   
+[27]王筠菲．气候变化对水稻生产和效率的影响评价—以江 苏省为例[D]．南京：南京农业大学,2012:13-18 Wang Y F. The evaluation of impacts of climate change on rice production and efficiency - A case study of Jiangsu Province[D]. Nanjing: Nanjing Agricultural University, 2012: 13-18   
+[28]郭梁，Wilkes A，于海英，等．中国主要农作物产量波动影 响因素分析[J]．植物分类与资源学报,2013,35(4):513-521 Guo L，Wilkes A，Yu H Y,et al． Analysis of factors influencing yield variability of major crops in China[J].Plant Diversity and Resources,2013,35(4): 513-521

@@ -1,0 +1,269 @@
+[
+    {
+        "type": "text",
+        "text": "Probing Light Higgsinos in Natural SUSY from Monojet Signals at the LHC ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chengcheng Han $^ { 1 , 2 }$ ，Archil Kobakhidze $^ 3$ ， Ning Liu $^ { 1 , 3 }$ .   \nAldo Saavedra $^ 3$ ，Lei Wu $^ 3$ ，and Jin Min Yang²   \n$^ { 1 }$ Physics Department, Henan Normal University， Xinxiang 4530o7, China   \n2 State Key Laboratory of Theoretical Physics,   \nInstitute of Theoretical Physics， Academia Sinica, Beijing 100190, China   \n（20 $^ 3$ ARC Centre of Excellence for Particle Physics at the Terascale,   \nSchool of Physics， The University of Sydney， NSW 20o6, Australia   \n(Dated: February 14, 2014) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We investigate a strategy to search for light， nearly degenerate higgsinos within the natural MSSM at the LHC. We demonstrate that the higgsino mass range $\\mu$ in $1 0 0 - 1 5 0$ GeV,which is preferred by the naturalness,can be probed at $2 \\sigma$ significance through the monojet search at 14 TeV HL-LHC with 3000 fb $^ { - 1 }$ luminosity. The proposed method can also probe certain region in the parameter space for the lightest neutralino with a high higgsino purity, that cannot be reached by planned direct detection experiments at XENON-1T(2017). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers: ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "One of the key theoretical motivations for low-energy supersymmetry (SUSY） is that it provides a framework for a light Higgs boson without invoking unnatural fine-tuning of theory parameters. However,recent discovery of a Standard Model (SM) Higgs-like particle with the mass around 125 GeV [1, 2], in conjunction with non-observation of supersymmetric particles,have largely excluded the most studied parameter range within the minimal supersymmetric Standard Model (MSSM), for which the naturalness criterion is satisfied. If the observed resonance is to be identified with the lightest CP-even Higgs boson of MSSM, heavy multi-TeV stops and/or large Higgs-stop trilinear soft-breaking coupling are required to achieve sufcient enhancement of the predicted Higgs mass [3,4]. Furthermore,null results on gluino searches at the LHC so far have pushed the lower limit on gluino mass above the TeV scale [5]. All these significantly jeopardize the naturalness of MSSM with a standard sparticle spectrum. Therefore, it is imperative to consider the possibly hidden parameters space where the theory maintains naturalness, and look for other strategies for verifying such natural SUSY models at the LHC [6]. In this work, we investigate the possibility of monojet signals induced by light higgsinos at 14 TeV high-luminosity LHC(HL-LHC) as a probe of natural SUSY. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The justification for light, nearly degenerate higgsinos within the natural MSSM comes from the following consideration. In the MSSM, the minimization of the tree-level Higgs potential leads to the relation [7]: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { M _ { Z } ^ { 2 } } { 2 } = - \\mu ^ { 2 } + \\frac { m _ { H _ { d } } ^ { 2 } - m _ { H _ { u } } ^ { 2 } \\tan ^ { 2 } \\beta } { \\tan ^ { 2 } \\beta - 1 } \\simeq - \\mu ^ { 2 } - m _ { H _ { u } } ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $m _ { H _ { d } } ^ { 2 }$ and $m _ { H _ { u } } ^ { 2 }$ represent the weak scalesoft SUSYbreaking masses fte Higgs felds, and $\\mu$ is the higgsino mass parameter. A moderate/large $\\tan \\beta \\gtrsim 1 0$ is assumed in the last approximate equation. In order to avoid large fine-tuning in Eq.(1), $\\mu$ and $m _ { H _ { u } }$ must be of the order of $\\sim 1 0 0 \\mathrm { ~ - ~ } 2 0 0$ GeV，which implies light higgsinos. At the same time,the electroweak gaugino mass parameters $M _ { 1 , 2 }$ are preferred to be of the similar order as the heavy gluino mass parameter $M _ { 3 }$ and large Higgs-stop trilinear coupling $A _ { t }$ is needed [8]. Hence, generically we have $\\mu \\ll M _ { 1 , 2 }$ and the mass splittings between the lightest chargino and the lightest two neutralinos at leading order are determined by [13] ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { m _ { \\tilde { \\chi } _ { 1 } ^ { \\pm } } - m _ { \\tilde { \\chi } _ { 1 } ^ { 0 } } = { \\displaystyle \\frac { { \\cal M } _ { W } ^ { 2 } } { 2 { \\cal M } _ { 2 } } } \\left( 1 - \\sin 2 \\beta - \\displaystyle \\frac { 2 \\mu } { { \\cal M } _ { 2 } } \\right) } } \\\\ { { { } } } \\\\ { { { } \\displaystyle ~ + \\displaystyle \\frac { { \\cal M } _ { W } ^ { 2 } } { 2 { \\cal M } _ { 1 } } \\tan ^ { 2 } \\theta _ { W } ( 1 + \\sin 2 \\beta ) , } } \\\\ { { { } } } \\\\ { { m _ { \\tilde { \\chi } _ { 2 } ^ { 0 } } - m _ { \\tilde { \\chi } _ { 1 } ^ { 0 } } = { \\displaystyle \\frac { { \\cal M } _ { W } ^ { 2 } } { 2 { \\cal M } _ { 2 } } } \\left( 1 - \\sin 2 \\beta + \\displaystyle \\frac { 2 \\mu } { { \\cal M } _ { 2 } } \\right) } } \\\\ { { { } } } \\\\ { { { } \\displaystyle ~ + \\displaystyle \\frac { { \\cal M } _ { W } ^ { 2 } } { 2 { \\cal M } _ { 1 } } \\tan ^ { 2 } \\theta _ { W } ( 1 - \\sin 2 \\beta ) . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This in turn implies that light electroweak gauginos in the natural MSSM are nearly degenerate higgsino-like states with a mass differences of about $3 - 1 0$ GeV (for $M _ { 1 } = M _ { 2 } \\sim 0 . 5 - 2$ （20 TeV).Therefore,a direct search for light higgsinos may serve as a sensitive probe of the natural MSSM. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For such light higgsinos the electroweak production rates for $Z  \\tilde { \\chi } _ { 1 } ^ { 0 } \\tilde { \\chi } _ { 1 } ^ { 0 }$ and $Z  \\tilde { \\chi } _ { 2 } ^ { 0 } \\tilde { \\chi } _ { 2 } ^ { 0 }$ （204 are suppressed, while the production rates for $Z / \\gamma ^ { * } \\to \\tilde { \\chi } _ { 1 } ^ { + } \\tilde { \\chi } _ { 1 } ^ { - }$ ， $Z  \\tilde { \\chi } _ { 1 } ^ { 0 } \\tilde { \\chi } _ { 2 } ^ { 0 }$ ， $W ^ { \\pm } \\to \\tilde { \\chi } _ { 1 } ^ { \\pm } \\tilde { \\chi } _ { 1 } ^ { 0 }$ and （20 $W ^ { \\pm } \\to \\tilde { \\chi } _ { 1 } ^ { \\pm } \\tilde { \\chi } _ { 2 } ^ { 0 }$ are expected to be reasonably large, reaching pb-level at the LHC. However, since the light higgsinos are nearly degenerate, the products of their subsequent decays, （20 $\\tilde { \\chi } _ { 1 } ^ { \\pm }  W ^ { \\pm * } \\tilde { \\chi } _ { 1 } ^ { 0 }$ and $\\tilde { \\chi } _ { 2 } ^ { 0 }  Z ^ { * } \\tilde { \\chi } _ { 1 } ^ { 0 }$ ， will carry small energies and, hence, the currently adopted search strategy for electroweak gauginos through their direct pair production is not applicable to this case[9,10]. Recently, a new search channel based on the wino pair production with a same-sign diboson plus missing transverse energy $( { \\not { E } } _ { T } )$ final state has been proposed for the 14 TeV LHC in [11]. Also,it has been pointed out that for $( m _ { \\tilde { \\chi } _ { 1 } ^ { \\pm } } - m _ { \\tilde { \\chi } _ { 1 } ^ { 0 } } ) \\lesssim 1$ GeV the wino may have a long life-time and such long-lived charged particle is already excluded by the LHC data [12]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/dc51d0e79df262ab9b970f9ffa19ee608b38833680f281c08318cad0a66ac1d1.jpg",
+        "img_caption": [
+            "FIG. 1: Feynman diagrams depicting monojet production in the natural MSSM at the LHC. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "II. CALCULATIONS AND DISCUSSIONS ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We study the detection of the light higgsinos via monojet searches at the LHC in the following processes (see Fig. 1 for the corresponding Feynman diagrams ): ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\np p  \\tilde { \\chi } _ { 1 } ^ { \\pm } \\tilde { \\chi } _ { 1 } ^ { \\mp } j , \\tilde { \\chi } _ { 1 } ^ { 0 } \\tilde { \\chi } _ { 2 } ^ { 0 } j , \\tilde { \\chi } _ { 1 } ^ { \\pm } \\tilde { \\chi } _ { 1 , 2 } ^ { 0 } j .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In these processes a hard jet radiated from initial partons recoils against the invisible missing transverse energy from soft decay productes and this can be used as a handle to tag the higgsino pair production. Because of the small mass splitting ( $\\Delta m \\sim 3 - 1 0$ GeV）between （20 $\\tilde { \\chi } _ { 1 } ^ { \\pm } , \\tilde { \\chi } _ { 2 } ^ { 0 }$ and $\\tilde { \\chi } _ { 1 } ^ { 0 }$ , all three channels $( j \\tilde { \\chi } _ { 1 } ^ { + } \\tilde { \\chi } _ { 1 } ^ { - } , j \\tilde { \\chi } _ { 1 } ^ { 0 } \\tilde { \\chi } _ { 2 } ^ { 0 }$ and $j \\tilde { \\chi } _ { 1 } ^ { \\pm } \\tilde { \\chi } _ { 1 , 2 } ^ { 0 }$ ） share the same topology in the detector. As a result, the monojet production rates within the natural MSSM are greatly enhanced. In addition，when $\\mu \\ll M _ { 1 , 2 }$ ， these processes are largely insensitive to other SUSY parameters but higgsino mass $\\mu$ . Therefore,we do not consider the production of stops and gluino in this paper, which contribute to the fine-tuning in more complicated and model-dependent way [8]. The current constraints on the mass limits of stop and gluino in natural SUSY have been discussed in [14,15]. The sleptons and first two generation squarks are irrelevant for our analysis and we assume them to be heavy. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Since the monojets have a distinctive topology of events with a singly high $p _ { T }$ hadronic jets and large missing $\\not { E } _ { T }$ , their relevance to the search for the pair production of weaklyinteracting particles have been exploited at the LHC [20]. The SM backgrounds to the above monojet signature are dominated by the following four processes: (i) $p p \\to Z ( \\to \\nu \\bar { \\nu } ) + j$ ， which is the main irreducible background with the same topology as our signals; (ii) $p p $ （204 $W ( \\to \\ell \\nu ) + j$ ， this process fakes the signal only when the charged lepton is outside the acceptance of the detector or close to the jet; (iii) $p p \\to W ( \\to \\tau \\nu ) + j$ , this process may fake the signal since a secondary jet from hadronic tau decays tend to localize on the side of $\\not { E } _ { T }$ (iv) $p p  t t$ , this process may resemble the signal, but also contains extra jets and leptons. This allows to highly suppress $t t$ background by applying a b-jet, lepton and light jet veto. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For the QCD background, the misreconstruction of the energy of a jet in the calorimeters can cause an ordinary di-jet event with large missng energy to mimic the signal. An estimation of the QCD background based on the full detector simulation can be found in [16]. By fitting the jet energy response function (JERF）using the method in [17], the authors of [18] found that the multijet background in the supersymmetric monojets analysis at 14 TeV LHC can be reduced to a negligible level by requiring a large $\\not { E } _ { T }$ cut，such as $\\notin _ { T } > 2 0 0$ GeV . Since other dominant backgrounds have $\\notin _ { T } > 2 0 0$ GeV, we set $\\notin _ { T } > 5 0 0$ （204号 GeV as in [19]，where the cuts for the monojet events are optimized for 14 TeV LHC, thus we can safely neglect the QCD background in our calculation (The pile-up effects at 14 TeV HL-LHC have not been considered in the work,due to lack of the exact detector configurations.). The diboson backgrounds and single top background are not considered in our calculations due to their small cross sections compared to other backgrounds. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/fe90d55cec3bb873eaf34588b0e12c400a3abb878b07def76575ddcd6555b863.jpg",
+        "img_caption": [
+            "FIG. 2: The parton-level cross section of monojet signals at 14 TeV LHC. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the calculations we assume $M _ { 1 } = M _ { 2 } = 1$ TeV and use the Suspect [21] and SUSY-HIT [22] to calculate masses, couplings and branching ratios of the relevant sparticles. The parton level signal and background events are generated with MadGraph5 [23]. We perform parton shower and fast detector simulations with PYTHlA [24] and Delphes [25]. We cluster jets using the anti- $k _ { t }$ algorithm with a cone radius $\\Delta R = 0 . 7$ [26]. In order to obtain reasonable statistics,a generator level event filter was applied which imposed a parton-level cut of $p _ { T } > 1 2 0$ GeV on the first leading jet for signals and $W / Z + j$ backgrounds. It should be noted that the jet veto cuts can significantly affect the QCD corrections to the backgrounds [27]. To include the QCD effects,we generate parton-level events of $Z / W + j$ with up to two jets that are matched to the parton shower using the MLM-scheme with merging scale （204号 $Q = 6 0$ GeV [28]. Due to the $t \\bar { t }$ events containing a large number of jets,we need not generate the events with the extra hard partons, which will be strongly rejected by the jets veto [19]. Although the additional jet may come from the decays of $\\tilde { \\chi } _ { 1 } ^ { \\pm }$ or $\\tilde { \\chi } _ { 2 } ^ { 0 }$ , they are too soft to pass our strict $p _ { T }$ cut on the leading jet adopted in the following analysis. So there is no need to generate the higgsinos pairs without additional parton in the final state. Besides, our signal simulation is exclusively based on Eq.(4) so that double counting will not arise in our calculation. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Prrrrriir）snri 人 jW(M) （Prrarenin） natt 10-1 jw(3)  \n102 jW（ we）) jw(cve)-μ=100GeV μ=100GeVμ=200GeV -μ=200GeV证 5 5 5  \n104 55 10 厂 L！臨 J mnnri心 ： i.  \n1 L 疏語L 1  \n106 \"1  \nLE L 山 14 L L 上 1 L 1  \n100 200 300 400 500 600 700 800 900 1000 100 200 300 400 500 600 700 800 900 1000p.[j,](GeV/c) ET (GeV)",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In Fig.2, we display the cross section of $p p  \\tilde { \\chi } _ { 1 } ^ { \\pm } \\tilde { \\chi } _ { 1 } ^ { \\mp } j , \\tilde { \\chi } _ { 1 } ^ { 0 } \\tilde { \\chi } _ { 2 } ^ { 0 } j , \\tilde { \\chi } _ { 1 } ^ { \\pm } \\tilde { \\chi } _ { 1 , 2 } ^ { 0 } j$ as a function of higgsino mass $\\mu$ after requiring the parton-level cut $p _ { T } ( j _ { 1 } ) > 1 2 0$ GeV at 14 TeV LHC. Since （204 $u g$ initial states have large parton distribution function, the largest contribution to the cross section of our signals comes from $\\tilde { \\chi } _ { 1 } ^ { + } \\tilde { \\chi } _ { 1 } ^ { 0 } j$ . The degenerate spectrum of $\\tilde { \\chi } _ { 1 } ^ { \\pm }$ and $\\tilde { \\chi } _ { 1 , 2 } ^ { 0 }$ implies that signals with the same initial states have approximately same cross sections. Therefore, the total production rate is amplified and can reach nearly pb-level. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In Fig.3 we show the normalized distributions of a reconstructed leading jet $p _ { T } ( j _ { 1 } )$ and $\\not { E } _ { T }$ of the signals and backgrounds. From the upper panel one can see that for $p _ { T } ( j _ { 1 } ) > 2 0 0$ （20 GeV the signals have harder $p _ { T } ( j _ { 1 } )$ spectrum than the backgrounds. The greater value of $\\mu$ corresponds to an increase in the average $p _ { T }$ of the jet. The difference in peaks of the signals ( $\\sim ~ 1 2 0$ GeV）and $t t$ background $\\mathrm { ~  ~ \\omega ~ } _ { \\ast } \\sim m _ { t } / 2$ ）is caused by the parton-level cut $p _ { T } ( j _ { 1 } ) > 1 2 0$ GeV. From the lower panel one observes that the signals have the larger $\\not { E } _ { T }$ than the backgrounds. Thus, a hard cut on $\\not { E } _ { T }$ will be effective to reduce the backgrounds. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "According to the above analysis, events are selected to satisfy the following criteria of monojet searches [20], and the cuts for $\\not { E } _ { T }$ and $p _ { T } ( j _ { 1 } )$ are optimized for 14 TeV LHC [19]: (i) We require large missing transverse energy $\\notin _ { T } > 5 0 0$ GeV; $( i i )$ The leading jet is required to have $p _ { T } ( j _ { 1 } ) > 5 0 0$ GeV and $| \\eta _ { j _ { 1 } } | < 2$ ; events with more than two jets with $p _ { T }$ above 30 GeV ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/3347abb16040218e9d26e24cb2597b51afe72ee38767226dd1f5e63752a65af1.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>cut</td><td></td><td></td><td>Z(vD)+ j |W(lve)+ j W(Tvr)+ j</td><td>tt</td><td></td><td>Signal (μ = 100 GeV) Signal (μ = 200 GeV)</td></tr><tr><td>pr(ji)>500GeV</td><td>69322</td><td>241740</td><td>119078</td><td>210943</td><td>1242</td><td>415</td></tr><tr><td>ET>500GeV</td><td>26304</td><td>28209</td><td>16513</td><td>2786</td><td>950</td><td>335</td></tr><tr><td>veto on pr(j2) > 100,pr(j3)> 30</td><td>16988</td><td>12194</td><td>7577</td><td>306</td><td>602</td><td>223</td></tr><tr><td>veto on e,μ,T</td><td>16557</td><td>3963</td><td>3088</td><td>102</td><td>597</td><td>220</td></tr><tr><td>veto on b-jets</td><td>16303</td><td>3867</td><td>3046</td><td>56</td><td>576</td><td>214</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "TABLE I: Cut flow of the signal events for $\\mu = 1 0 0 , 2 0 0$ GeV at 14 TeV LHC with $\\mathcal { L } = 1 0 0 \\mathrm { { f b } ^ { - 1 } }$ The cross section of $t t$ is normalized to the approximately next-to-next-to-leading order value （204 $\\sigma _ { t \\bar { t } } = 9 2 0$ pb [30]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "in the region $| \\eta | < 4 . 5$ are rejected; $( i i i )$ We veto the second leading jet with $p _ { T } ( j _ { 2 } ) > 1 0 0$ GeV and $| \\eta _ { j _ { 2 } } | < 2$ ; $( i v )$ A veto on events with an identified lepton $( \\ell = e , \\mu , \\tau )$ or $b$ -jet is imposed to reduce the background of $W + j$ and $t t$ .We use the $b$ -jet tagging efficiency parametrisation given in [29] and include a misidentification $1 0 \\%$ and $1 \\%$ for $c$ -jets and light jets respectively. We also assume the $\\tau$ tagging efficiency is $4 0 \\%$ and include the mis-tags of QCD jets by using Delphes. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In Table I, the resulting cut-flow for signal and background events is presented, for a centre-of-mass energy of 14 TeV and an integrated luminosity of $1 0 0 ~ \\mathrm { { f b ^ { - 1 } } }$ . After the cuts （204号 $P _ { T } ( j _ { 1 } ) > 5 0 0$ GeV and $\\notin _ { T } > 5 0 0$ GeV, the $Z + j$ and $W + j$ backgrounds are reduced by $\\mathcal { O } ( 1 0 ^ { - 4 } )$ , while the signals only by $\\mathcal { O } ( 1 0 ^ { - 2 } )$ . The lepton and light jet veto will suppress $W j$ （204号 backgrounds by extra two orders. For $t t$ background, we have not included the hadronic channels due to its large jet multiplicity and small $\\not { E } _ { T }$ . We impose the third jet veto as the requirement of the ATLAS collaboration [20], which is not used in the paper [19]. We also checked that our results are consistent with those obtained in Ref. [31] by setting the same values of cuts and collider energy. The $Z ( \\nu \\bar { \\nu } )$ process is still the dominant background after all cuts. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In Fig.4 we display the dependence of the signal significance $S / \\sqrt { B }$ on the higgsino mass $\\mu$ at 14 TeV HL-LHC for various luminosities, $\\mathcal { L } \\ : = \\ : 3 0 0 0 \\ : \\mathrm { f b ^ { - 1 } }$ .The overall background $B$ including the systematic errors is calculated through the formula $\\begin{array} { r } { B = \\sum _ { i } B _ { i } + } \\end{array}$ $\\begin{array} { r } { \\sum _ { i } ( 0 . 0 1 B _ { i } ) ^ { 2 } , ( i = Z + j , t t , \\mathrm { W } ( \\to \\ell \\nu _ { \\ell } ) + \\mathrm { j } , \\mathrm { W } ( \\to \\tau \\nu _ { \\tau } ) + \\mathrm { j } ) , } \\end{array}$ where we assume the systematic error to be $1 \\%$ . With an increase of $\\mu$ the significance drops fast due to the reduction in the signal cross sections. At $\\mathcal { L } = 3 0 0 0 ~ \\mathrm { f b ^ { - 1 } }$ ， the range $\\mu \\sim 1 0 0 - 1 5 0$ GeV, favored by the naturalness,can be probed at $2 \\sigma$ significance. However, it should be mentioned that, since the realistic detector performances of the HL-LHC are still not available, we can expect our analysis can be improved by optimizing signal extraction strategies and better understanding of the backgrounds uncertainties through the dedicated analysis of the experimental collaborations at HL-LHC. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/bfcf6c797b23c1e4b2028ddf7d0dde7aaf6e0565efe20f640467e07e6ac2bb33.jpg",
+        "img_caption": [
+            "FIG.4: The dependence of significance on the higgsino mass $\\mu$ at 14 TeV HL-LHC with $\\mathscr { L } = 3 0 0 0$ （204fb $^ { - 1 }$ ："
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c9dda2b68969a2604d4459c0dcdfe991115f875a0d2195e3f1d59fb6f0f31a0.jpg",
+        "img_caption": [
+            "FIG.5:Scatter plot of samples survived the constraints from (1)-(6) in the text. The horizontal lines show the 90% C.L. bound from XENON100 [44]， future sensitivities at LUX [45] and XENON1T [46], respectively. The vertical dashed line is the sensitivity of monojet signals at $2 \\sigma$ significance at 14 TeV LHC with $\\mathcal { L } = 3 0 0 0 \\ \\mathrm { f b ^ { - 1 } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "As a complementary searches for the light higgsinos, we also investigate the probing ability of the dark matter direct detections. We computed the dark matter observables by using the package MicrOmega [32] and scan the following parameter space: $1 0 0 \\ { \\mathrm { G e V } } \\leq \\mu \\leq 2 0 0 \\ { \\mathrm { G e V } }$ ， 0.6 TeV $\\le m _ { \\tilde { Q } _ { L 3 } }$ ， $\\begin{array} { r } { m _ { \\tilde { t } _ { R } } ~ = ~ \\ m _ { \\tilde { b } _ { R } } ~ \\le ~ 2 } \\end{array}$ TeV, $- 3 \\mathrm { T e V } \\le A _ { t } = A _ { b } \\le 3 \\mathrm { T e V }$ ， $1 \\le \\tan \\beta \\le 6 0$ ， （204号 $1 \\mathrm { T e V } \\le M _ { 1 } , M _ { 2 } \\le 2 \\mathrm { T }$ TeV. Other irrelevant mass parameters are taken as 2 TeV. The above parameters are further constrained by: (1） Measurements of $B  X _ { s } \\gamma$ and $B _ { s } \\to \\mu ^ { + } \\mu ^ { - }$ processes at $2 \\sigma$ level [33]; (2) Higgs mass in the range 123-127 GeV [34]; (3) LHC searches for $H / A \\to \\tau ^ { + } \\tau ^ { - }$ [35]; (4) Direct search results of stop/sbottom pair productions at the LHC [15]; (5) LEP data [37] and (6) Electroweak precision measurements [36]. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We note that, in the natural MSSM, the thermal relic density of the light higgsinolike neutralino dark matter is typically low due to the large annihilation rate in the early universe. This makes the standard thermally produced WIMP dark matter inadequate in the natural MSSM. In order to provide the required relic density, several alternative ways have been proposed [38-40], such as choosing the axion-higgsino admixture as the dark matter [41].Inthisasethespindepedentneutrlio-protosateringosctio $\\sigma _ { p } ^ { S I }$ must be re-scaled by a factor $\\Omega _ { \\tilde { \\chi } _ { 1 } ^ { 0 } } h ^ { 2 } / \\Omega _ { P L } h ^ { 2 }$ [41]，where $\\Omega _ { P L } h ^ { 2 }$ is the relic density measured by Planck satelite [42]. However,it should be mentioned that, if the naturalness requirement is relaxed, the heavy higgsino-like neutralino with a mass about 1 TeV can solely produce the correct relic density in the MSSM [43]. Of course, all these analyses are performed by assuming a standard $\\Lambda$ CDM model. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The results for the spin-independent higgsino-proton scattering cross section are shown in Fig.5 and compared with the current limits from XENON-100, LUX [44, 45] and future reach projections of XENON-1T [46]. We also present the $2 \\sigma$ probing sensitivity of the higgsino mass $\\mu$ by our proposed monojet strategy at the LHC with $L = 3 0 0 0 ~ \\mathrm { f b ^ { - 1 } }$ . From Fig. 5 we can see that even with the scale factor $\\Omega _ { \\tilde { \\chi } _ { 1 } ^ { 0 } } h ^ { 2 } / \\Omega _ { P L } h ^ { 2 }$ ， most of the samples can be probed by the XENON-1T(2017). Only those samples corresponding to a neutralino with a high higgsino purity can not be covered by the XENON-1T(2017). In this case, our proposed monojet searches may be used to probe such a light higgsino-dominant neutralino with mass up to $\\sim 1 5 0$ GeV at 14 TeV LHC for $L = 3 0 0 0 ~ \\mathrm { f b ^ { - 1 } }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "III. CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we studied a strategy for searching light， nearly degenerate higgsinos in the natural MSSM. Our results showed that for $\\mathcal { L } = 3 0 0 0 ~ \\mathrm { f b ^ { - 1 } }$ , the higgsino mass range $\\mu \\sim 1 0 0 - 1 5 0$ GeV favored by the naturalness may be probed at $2 \\sigma$ significance through the monojet searches at 14 TeV LHC. Also,this method can probe certain area in the parameter space for the lightest neutralino with a high higgsino purity, that cannot be reached by planned direct detection experiments at XENON-1T(2017). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the Australian Research Council, by the National Natural Science Foundation of China (NNSFC) under grants No. 11275245,10821504,11135003 and 11305049, by Specialized Research Fund for the Doctoral Program of Higher Education under Grant No.20134104120002 and by the Startup Foundation for Doctors of Henan Normal University under contract No. 11112. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1] G. Aad et al.(ATLAS Collaboration), Phys.Lett. B710, 49 (2012).   \n[2] S. Chatrachyan et al.(CMS Collaboration), Phys. Lett.B710, 26 (2012).   \n[3] M. S. Carena and H. E. Haber, Prog. Part. Nucl. Phys. 50 (2003) 63.   \n[4] A.Arbey, et al., Phys. Lett. B 708,162 (2012); M. Carena, et al., JHEP 1203,014 (2012); J. Cao et al., JHEP 1210,079 (2012); JHEP 1203,086 (2012); Phys.Lett.B 710,665 (2012);   \n[5] ATLAS Collaboration， ATLAS-CONF-2013-054; ATLAS-CONF-2013-061; CMS Collaboration，SUS-CONF-2013-007; SUS-CONF-2013-004.   \n[6] C.Brust，A. Katz, S. Lawrence and R. Sundrum, JHEP 1203,103 (2012). M. Papucci, J. T. Ruderman and A. Weiler, JHEP 1209, 035 (2012). L. J. Hall, D. Pinner and J. T. Ruderman, JHEP 1204,131 (2012); J. L. Feng and D. Sanford, Phys. Rev. D 86, 055015 (2012): H. Baer, et al.,Phys.Rev. Lett.109,161802 (2012).   \n[7] R. Arnowitt and P. Nath, Phys. Rev.D 46,3981 (1992).   \n[8] S.P. Martin, Phys.Rev. D 79,095019 (2009); J. E. Younkin and S.P. Martin, Phys. Rev. D 85 (2012) 055028; S. Akula and P. Nath, Phys.Rev. D 87,115022 (2013); I. Gogoladze, F..Nasir and Q. .Shafi, Int. J. Mod. Phys. A 28, 1350046 (2013).   \n[9] J.F. Gunion and S. Mrenna, Phys. Rev. D 62, 015002 (2000).   \n[10] S. Gori, S. Jung and L. -T. Wang, arXiv:1307.5952 [hep-ph].   \n[11] H. Baer, et al., Phys. Rev. Lett.110,151801 (2013).   \n[12] N. -E. Bomark, et al., arXiv:1310.2788 [hep-ph].   \n[13] G. F. Giudice and A. Pomarol, Phys. Lett. B 372, 253 (1996)   \n[14] J. Cao, et al., JHEP 1211,039 (2012); M.L. Graesser and J. Shelton, Phys. Rev. Lett.111, 121802 (2013)； O. Buchmuellr and J. Marrouche,arXiv:1304.2185 [hep-ph]； G. D. Kribs, A. Martin and A. Menon, Phys.Rev. D 88, 035025 (2013)； K. Kowalska and E. M. Sessolo, Phys. Rev. D 88, 075001 (2013).   \n[15] C. Han, K. -i. Hikasa, L. Wu, J. M. Yang and Y. Zhang, JHEP 1310, 216 (2013).   \n[16] G.Aad et al. [The ATLAS Collaboration], Expected Performance of the ATLAS ExperimentDetector, Trigger and Physics, arXiv:0901.0512 [hep-ex].   \n[17] A. J. Barr and C. Gwenlan, The race for supersymmetry: using mT2 for discovery, Phys. Rev. D80 (2009） 074007 [arXiv:0907.2713 [hep-ph].   \n[18] B.C.Allanach, S.Grab and H. E. Haber,JHEP 1101,138 (2011) [Erratum-ibid.1107,087 (2011)] [Erratum-ibid. 1109, 027 (2011)] [arXiv:1010.4261 [hep-ph].   \n[19] M. Drees, M. Hanussek and J. S. Kim, Phys. Rev. D 86, 035024 (2012).   \n[20] ATLAS-CONF-2012-147; CMS PAS EXO-12-048;   \n[21] A. Djouadi, J. -L. Kneur and G. Moultaka, Comput. Phys. Commun. 176, 426 (2007).   \n[22] A. Djouadi, M. M. Muhleitner and M. Spira, Acta Phys. Polon. B 38, 635 (2007).   \n[23] J. Alwall et al., JHEP 1106,128 (2011).   \n[24] T. Sjostrand, S. Mrenna and P. Z. Skands, JHEP 0605, 026 (2006).   \n[25] J. de Favereau, et al., arXiv:1307.6346 [hep-ex].   \n[26] M. Cacciari, G. P. Salam and G. Soyez, JHEP 0804, O63 (2008).   \n[27] A.Denner， S. Dittmaier，T. Kasprzik and A. Mck， Eur. Phys. J. C 73， 2297 (2013) [arXiv:1211.5078 [hep-ph].   \n[28] F. Caravaglios, et al., Nucl. Phys. B 539, 215 (1999).   \n[29] CMS Collaboration, b-Jet Identification in the CMS Experiment, CMS-PAS-BTV-11-004.   \n[30] N. Kidonakis Phys. Rev. D84, 011504(2011).   \n[31] B. Bhattacherjee, D. Choudhury, K. Harigaya, S. Matsumoto and M. M. Nojiri, JHEP 1304, ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "031 (2013). [32] G. Belanger et al., Comput. Phys. Commun. 182, 842 (2011). [33] F.Mahmoudi， Comput.Phys. Commun.180,1579 (2009)； Comput.Phys. Commun. 178, 745 (2008). [34] S.Heinemeyer,W. Hollik and G.Weiglein， Comput.Phys. Commun.124,76 (2000)； Eur. Phys. J. C 9, 343 (1999). [35] CMS Collaboration, CMS PAS HIG-12-050. [36] J. Cao and J. M. Yang, JHEP 0812, 006 (2008). [37] P. Bechtle et al., Comput. Phys. Commun. 182, 2605 (2011); Comput. Phys. Commun. 181, 138 (2010). [38] B. S. Acharya, G. Kane and E. Kuflik, arXiv:1006.3272 [hep-ph]. [39] T.Moroi and L. Randall, Nucl. Phys.B 570, 455 (2000); G. Gelmini and P. Gondolo, Phys. Rev. D 74, O23510 (2006); B. Acharya, K. Bobkov, G. Kane, P. Kumar and J. Shao, Phys. Rev.D 76,126010 (2007); Phys.Rev. D 78, 065038 (2008). [40] K-Y. Choi, J. E. Kim, H. M. Lee and O. Seto, Phys. Rev. D 77,123501 (2008). [41] H.Baer,A. Lessa, S. Rajagopalan and W. Sreethawong, JCAP 1106 (2011) 031 H. Baer, A. Lessa and W. Sreethawong, JCAP 1201 (2012) 036. [42] P. A. R. Ade et al. [Planck Collaboration], arXiv:1303.5076 [astro-ph.CO]. [43] U.Chattopadhyay and D.P. Roy, Phys. Rev.D 68,033010 (2003) [hep-ph/0304108]; U. Chattopadhyay, D. Choudhury, M. Drees, P. Konar and D. P. Roy, Phys. Lett. B 632, 114 (2006) [hep-ph/0508098]. [44] XENON100 Collaboration, E. Aprile et al., Phys. Rev.Lett.109 (2012) 181301. [45] LUX Collaboration,D.Akerib et al., Nucl.Instrum.Meth. A704 (2013) 111-126. [46] XENON1T Collaboration,E. Aprile,et al., arXiv:1206.6288. ",
+        "page_idx": 11
+    }
+]

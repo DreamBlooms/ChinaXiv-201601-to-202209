@@ -1,0 +1,453 @@
+[
+    {
+        "type": "text",
+        "text": "Attention-Dependent Early Cortical Suppression Contributes to Crowding ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Juan Chen,1 Yingchen He,1 Ziyun Zhu,1 OTiangang Zhou,4 Yujia Peng,1 Xilin Zhang,1 and Fang Fangl,2.3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Departetlbatcstcaitfe MGoveiiib Biophysics, Chinese Academy of Sciences,Beijing 10o1ol,P.R.China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Crowdingtentiatdltyfoargetihpeseeearbfkbqsatialsdisode ofobjectrcogdsalawaesspiteitsace,tealsfowineillcrHeree event-relatedpotetaladfepermetstmeasreteorticalteractietweteargetdfankerinmaubjectWefou thatthemagiudfteoingefectasoselyssociatedithearlysuppessvecoicaliteractionecoticalsuppsss reflectediterlistevetrelatedpotetalpont(),crgatedinV,ndingalin,utotor corticalareasrgglytialtioadialrlianfestaoftuppesoedinsprodtd converging evidence thatatention-dependent V1suppresioncontributes tocrowdingataveryearlystageofvisualprocessing. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:attention; crowding; event-related potential; fMRI; primary visual cortex ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "When a target is presented with nearby flankers in the peripheral visual field,it becomes harder to identify,whichis referred to as crowding. Crowding is a form of inhibitory interaction that is ubiquitous in spatial vision,and it has been reported to occur with various kinds of stimuli and tasks (Levi, 2oo8; Whitney and Levi, 2011). Studying crowding can advance our understanding of conscious vision and object recognition throughout the visual field. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Despite the significance of crowding,its mechanisms are still unclear.Based on psychophysical findings,various theories have been proposed to explain crowding at multiple levels. Some theories attribute crowding to early visual cortical interaction. They propose that crowding occurs when the target and flanker overlap within the same neural unit (Flom et al.,1963; Levi et al.,1985; Pelli,2Oo8） or are represented by different populations of neurons with long-range horizontal connections (Levi,2oo8). These theories suggest that crowding influences the representation of the target in early visual processing stages. On the other hand, attention theories argue that crowding could be ascribed to coarse resolution of spatial attention (He et al.,1996) or unfocussed spatial attention (Strasburger,20o5).The effect of crowding on the target representation is in late processing stages. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To date,very few neurophysiological studies have attempted to investigate the neural mechanisms of crowding(Fang and He, 2008;Bi et al.,2009; Freeman et al.,201l; Anderson et al., 2012; Millin et al.,2013).A major obstacle is the difficulty in isolating neural signals induced by the target from thoseby flankers.This is because cortical areas responding to the peripheral target and flankers are hard to separate,especially with current brain imaging techniques. Several fMRI studies (Freeman et al.,2O1l; Anderson et al.,20l2; Millin et al.,2013） showed that crowding attenuated BOLD signals in early visual cortex,as early as in V1. However,because of the low temporal resolution of fMRI,it is unclear whether the attenuation originates in V1 or reflects topdown feedback from higher cortical areas.Moreover,no existing literature,except a conference presentation by Tjan et al. (2012) has investigated an important diagnostic criterion for crowding, the radial-tangential anisotropy. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We performed event-related potential (ERP) and fMRI exper iments to address these issues.In these experiments,we circumvented the isolation difficulty with novel experimental designs.In the ERP experiments,we examined whether the inhibitory interaction (or cortical suppression） between the target and flankers could be reflected in the C1 component. This would clarify the bottom-up versus top-down issue because C1 is the earliest ERP component and is thought to be generated mainlyby feedforward neuronal responsesin V1(Clark andHillyard,1996).The fMRI experiments were designed to complement and corroborate the ERP experiments.We examined how the cortical suppression was reflected in BOLD signals in V1-V4,lateral occipital area (LO),and intraparietal sulcus (IPS).To explore how attention contributes to crowding,we also compared the conditions when subjects paid or did not pay attention to the stimuli in all these experiments. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Materialsand Methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Subjects.There were 20 subjects(14 male) in Experiment1,20(12 male) in Experiment 2,10 (4 male) in Experiment 3,and 10 (6 male) in Experiment 4.All subjects were right-handed and reported normal or corrected-to-normal vision.Ages ranged from 18 to 27 years.They gave written,informed consent in accordance with the procedures and protocols approved by the human subjects review committee of Peking University. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Stimuli.All the targets and flankers were circular sinusoidal gratings (diameter: $2 . 3 6 ^ { \\circ }$ ; spatial frequency:2.54 cycles/°;Michelson contrast: 1; mean luminance: $6 1 . 4 7 \\ \\mathrm { c d } / \\mathrm { m } ^ { 2 }$ ).The background luminance was also $6 1 . 4 7 \\mathrm { c d } / \\mathrm { m } ^ { 2 }$ . In all experiments,the target was centered at $8 ^ { \\circ }$ eccentricity in the upper left visual quadrant.We presented the stimuli in the upper visual field,rather than the lower visual field.This is because:(1) crowding is stronger in the upper visual field than in the lower visual field (He et al.,1996);and (2) it is easier to separate Cl and the following positive P1 component with upper visual field stimuli,as the C1 induced by stimuli in the upper visual field has a negative polarity,whereas the C1 induced by stimuli in the lower visual field has a positive polarity(Clark et al.,1994).The orientation of the target was $4 5 \\pm \\theta ^ { \\circ }$ ,eitherleft orright tilted.0 was predetermined by a psychophysical test (see below). The orientations of the flankers were independently and randomly selected from $0 ^ { \\circ }$ to $1 8 0 ^ { \\circ }$ for each trial.Subjects were asked to maintain fixation on a black dot at the center of the display throughout the experiments. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In Experiment 1,there were five stimuli: target only (T),target with nearby flankers (Near $\\underline { { \\mathrm { T } } } { + } \\underline { { \\mathrm { F } } }$ ),targetwith far flankers $( \\mathrm { F a r \\_ T + F } )$ ,nearby flankers only (Near_F),and far flankers only(Far_F) (see Fig.lA).The flankers were positioned in the radial direction with respect to fixation. The center-to-center distance between the flankers and the target was $2 . 4 8 ^ { \\circ }$ in the Near $\\boldsymbol { - } ^ { \\mathrm { T + F } }$ stimulus and $5 . 0 7 ^ { \\circ }$ in the Far $_ - \\mathrm { T + F }$ stimulus. Experiment 2 also had five stimuli: target only(T),target with flankers positioned radially $( \\mathrm { R a d \\_ T + F } )$ ,target with flankers positioned tangentially $\\left( \\mathrm { T a n \\_ T + F } \\right)$ ,radial flankers only (Rad_F),and tangential flankers only(Tan_F) (see Fig.1B).In both the $\\mathrm { R a d \\_ T + F }$ and the Tan_T $^ { \\cdot } { + } \\mathrm { F }$ stimuli,the center-to-center distance between the flankers and the target was $2 . 3 6 ^ { \\circ }$ .In Experiments 3 and 4,the stimuli were identical to those in Experiments 1 and 2,respectively,except T was not used. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "θ was the orientation discrimination threshold ( $7 5 \\%$ correct) for the targetin the Far $\\_ \\mathrm { T + F }$ stimulus (Experiments 1and 3)and the Tan $\\underline { { \\boldsymbol { \\cdot } } } \\underline { { \\boldsymbol { \\mathrm { T } } } } { + } \\mathrm { \\boldsymbol { F } }$ stimulus (Experiments 2 and 4).To measure the threshold,a stimulus （20 $\\mathrm { ( F a r \\mathrm { _ { - } T + F } }$ or $\\mathrm { T a n \\_ T + F ) }$ was presented for $2 5 0 ~ \\mathrm { m s }$ .The orientation of the targetwas either $4 5 + \\theta ^ { \\circ }$ or $4 5 - \\theta ^ { \\circ }$ . Subjectswere asked to judge the orientation of the target relative to $4 5 ^ { \\circ }$ (clockwise or counterclockwise). The $\\theta$ varied trial by trial and was controlled by the QUEST staircase (Watson and Pelli, 1983). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ERP experiments.The procedures of Experiments 1and 2 were identical,except that different stimuli were used.Visual stimuli were displayed on a ViewSonic color graphic monitor (refresh rate: $6 0 ~ \\mathrm { H z } ;$ resolution: $1 0 2 4 \\times 7 6 8$ ; size: 22 inches) with a gray background ata viewing distance of $7 3 \\mathrm { c m }$ .A chin rest was used to stabilize subjects'head position. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Each trial began with one of the five stimuli (T,Near ${ } _ { - } \\mathrm { T } { + } \\mathrm { F } _ { : }$ Far $\\underline { { \\cdot } } \\ : \\mathrm { T } { + } \\mathrm { F } ;$ Near_F,and Far_FinExperimentland T, $\\mathrm { R a d \\_ T + F } _ { : }$ Tan_T $\\mathrm { \\cdot + F }$ ,Rad_F, and Tan_Fin Experiment2)presented in the upper-left visual quadrant for $2 5 0 ~ \\mathrm { m s }$ .Then,after a $4 5 0 { - } 6 5 0 ~ \\mathrm { m s }$ blank interval,a grating whose orientation slightly deviated from the vertical was presented for 1O0 ms in the lower-right visual quadrant.Two low-contrast dashed circles,one at the same location as the target in the first stimulus and the other at the same location as the grating in the second stimulus,were always presented on the screen to indicate the positions of the target and the second grating,respectively (see Fig.1C). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Both Experiments 1 and 2 consisted of two sessions: the attended session and the unattended session.In these two sessions,subjects viewed the same stimuli but performed different tasks.In the attended session, subjects were instructed to pay attention to the upper left visual quadrant,respond to the first stimulus,and ignore the second stimulus.If the stimulus contained a target,subjects needed to press one of two buttons to indicate the orientation of the target relative to $4 5 ^ { \\circ }$ (clockwise or counterclockwise).If the stimulus contained only the flankers,subjects pressed a button randomly.In the unattended session,subjects were instructed to pay attention to the lower right visual quadrant,ignore the first stimulus,and respond to the orientation of the second stimulus relative to the vertical (left or right).The two sessions were performed on different days and were counterbalanced across subjects.In each session, there were20 blocks of1o0 trials,with20 trials for each of the five stimuli. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Scalp EEG was recorded from $6 4 ~ \\mathrm { A g / A g C l }$ electrodes positioned according to the extended international 10-20 EEG system.Vertical electrooculogram was recorded from an electrode placed above the right eye. Horizontal EOG was recorded froman electrode placed atthe outer canthus oftheleft eye.Electrode impedance was kept ${ < } 5 \\mathrm { k } \\Omega$ .EEG was amplified with a gain of $5 0 0 \\mathrm { K }$ bandpass filteredat $0 . 0 5 { \\mathrm { - } } 1 0 0 \\mathrm { H z } .$ and digitized at a sampling rate of $1 0 0 0 \\mathrm { H z }$ .The signals on these electrodes were referenced online to the nose and were rereferenced offline to the average of the two mastoids. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Offline data analysis focused on the EEG signals induced by the first stimulus,using Brain Vision Analyzer (Brain Products).EEG data were first low-pass filtered at $3 0 \\mathrm { H z }$ and then epoched starting at $1 0 0 \\mathrm { { m s } }$ before stimulus onset and ending at 2oo ms after stimulus onset.Each epoch was corrected for baseline over the $1 0 0 ~ \\mathrm { { m s } }$ prestimulus interval.The epochs contaminated by eye blinks,eye movements,or muscle potentials exceeding $\\pm 5 0 \\mu \\mathrm { V }$ atany electrode were excluded from analysis.Remaining epochs were selectively averaged according to the stimulus conditions.To select electrodes for the C1 amplitude and latency analysis,grand averaged ERPs were made by averaging across subjects and stimulus conditions but separately for the two sessions.Five electrodes with the largest Cl amplitudes were chosen for further analysis.To quantify the C1 amplitude and latency for each stimulus and each subject, the waveforms at these five electrodes were first averaged to obtaina mean waveform.The mean amplitude of the 1l sampling points around the C1 peak of the mean waveform was defined as the C1 amplitude.The C1 latency was the peak latency of the mean waveform. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Estimation of the dipole sources was performed using the BESA algorithm,as described by Clark et al.(1994).The C1 component was modeled on the grand-averaged waveforms elicited by all five stimuli.The waveforminthe $3 ~ \\mathrm { m s }$ interval around the peak amplitude (between 76 and $7 8 \\mathrm { m s }$ in Experiment1,77 and 79 ms in Experiment 2) was simulated with one dipole with free location and orientation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$f M R I$ experiments.Experiment 3 used an event-related design and had two sessions: the attended session and the unattended session.Each session consisted of eight functional runs of 128 continuous trials (2 s for each trial).In these two sessions,subjects viewed the same stimuli but performed different tasks.In the attended session,each run began with a $1 2 \\ s$ fixation period and ended with a $1 4 ~ s$ fixation period,thus lasting $2 8 2 s .$ The order of the three types of trials(blank,far,and nearby)in each run was balanced using M-sequence (Buracas and Boynton,2oo2). Specifically,a four condition M-sequence was adopted,with one condition for far trials,one condition for nearby trials,and two conditions for blank trials,such that subjects would not feel time-pressed to perform the task. For each of the far and nearby conditions,there were 32 trials in each run and 256 trials $( 3 2 \\times 8 )$ in total.Ina far trial, the Fai $_ - \\mathrm { T + F }$ and Near_F stimuli were presented successively in a random order,each for $0 . 2 5 s .$ In a nearbytrial, theNear $\\_ \\mathrm { T + F }$ and Far_F stimuli were presented in the same way (see Fig. 4A).In the following $1 . 5 ~ \\mathrm { s } ,$ subjects performed the same orientation discrimination task with the target as that in the ERP experiments.Ina blank trial,only the fixation point was presented for $2 s$ In the unattended session,subjects were asked to ignore the stimuli and detect a brief luminance change at the fixation point.A dashed circle at the location of the target was always presented on the screen to indicate the position of the target.The procedure of Experiment 4 was identical to thatofExperiment3,butdifferent stimuli $\\mathrm { ( R a d \\_ T + F }$ ，Tan_T $+ \\mathrm { F }$ Rad_F, andTan_F)wereused.Inaradialtrial, theRad_T $\\mathrm { + F }$ and Tan_F stimuli were presented.In a tangential trial, the Tan_T $^ { \\cdot } { + } \\mathrm { F }$ and Rad_F stimuli were presented (see Fig. 6A). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Retinotopic visual areas(V1,V2,V3,and V4) were defined by a standard phase-encoded method developed by Sereno et al.(1995) and Engel et al.(1997),in which subjects viewed rotating wedge and expanding ring stimuli that created travelingwaves of neural activity in visual cortex.Forboth Experiments 3 and 4,a block-design run was used to localize the ROIs in V1-V4,LO cortex LO,and IPS,corresponding to the area covered by the four flankers and the target.The run consisted of 1212-s stimulus blocks,interleaved with 1212-s blank intervals.Ina given stimulus block,subjects passively viewed images of colorful natural scenes,which had the same shape,size,and location as the target and flankers (see Figs.4C and 6C).The images appeared at a rateof $8 \\ : \\mathrm { H z }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6a3f3d43de98152acadfc5d8bc8832c8b5a07d2479c4039a6fdff75633f3df41.jpg",
+        "img_caption": [
+            "flankers.Black dotrepresents thefixationpoint.Thestimuliwere presented in the upperleft visual quadrant. $B ,$ Stimuli in Experiment2.Tan,Tangential; Rad,radial.C,Protocol of Experiments1 and session.D,Psychophysical result for Experiment1.E,Psychophysical result for Experiment 2. $^ { * * } p < 0 . 0 1$ ,statistically significant difference between stimulus conditions. $^ { * * * } p < 0 . 0 0 1$ ,statistically significant difference between stimulus conditions.Error bars indicate 1 SEM across subjects. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MRI data were collected usinga 3T Siemens Trio scanner with a 12- channel phase-array coil.In the scanner,the stimuli were back-projected viaa video projector (refresh rate: $6 0 \\mathrm { { H z } }$ spatial resolution: $1 0 2 4 \\times 7 6 8$ ） onto a translucent screen placed inside the scanner bore.Subjects viewed the stimuli through a mirror located above their eyes.The viewing distance was $8 3 ~ \\mathrm { c m }$ .BOLD signals were measured with an echo-planar imaging sequence (TE: $3 0 ~ \\mathrm { m s }$ ；TR: $2 \\ s _ { ; }$ FOV: $1 9 2 \\times 1 9 2 ~ \\mathrm { m m } ^ { 2 }$ ; matrix: $6 4 \\times 6 4$ ; flip angle: 90; slice thickness: $3 \\mathrm { m m }$ ; gap: $0 \\mathrm { m m }$ ; number of slices: 33,slice orientation:axial).The fMRI slices covered the occipital lobe, most of the parietallobe,and partofthe temporallobe.Ahigh-resolution 3D structural dataset (3D MPRAGE; $1 \\times \\bar { 1 } \\times 1 \\mathrm { m m } ^ { 3 }$ resolution） was collected in the same session before the functional runs.For both Experiments 3 and 4,subjects underwent three sessions: the retinotopic mapping session,the attended session,and the unattended session. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The anatomical volume for each subject in the retinotopic mapping session was transformed into the AC-PC space and then inflated using BrainVoyager QX(Brain Innovation).Functional volumes in all sessions for each subject were preprocessed,including 3D motion correction, linear trend removal,and high-pass $( 0 . 0 1 5 \\mathrm { H z } )$ filtering using BrainVoyager QX.The images were then aligned to the anatomical volume in the retinotopic mapping session.A GLM procedure was used for selecting ROIs.TheROIsinV1-V4,LO,and IPSwere definedas areas that responded more strongly to the natural scene images than to a blank screen $\\bar { ( p < 1 0 ^ { - 4 } }$ ,uncorrected). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Event-related BOLD signals were calculated separately for each subject, following the method used by Kourtzi and Kanwisher (2oo0).For each event-related run,the time course of the MR signal intensity was first extracted by averaging the data from all the voxels within the predefined ROI. The average event-related time course was then calculated for each type of trial. Specifically,in each run,we averaged the signal intensity across the trials for each trial type at each of 9 corresponding time points (volumes） starting from the stimulus onset.These eventrelated time courses of the signal intensities were then converted to time courses of percentage signal change for each type of trial by subtracting the corresponding value for the blank trials and then being divided by that value.The resulting time course for each type of trial was then averaged across runs for each subject and then across subjects.In the psychophysical,ERP,and fMRI data analyses,Bonferroni correction was applied with $t$ tests involving multiple comparisons. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Experiment1: C1 suppression and the target-flanker distance It is well known that the crowding zone extends to approximately half the target eccentricity (Bouma,1970,1973). Thatis,crowding is significantly stronger when the target is presented with nearby flankers than with far flankers.If the cortical suppression between the target and flankers contributes to crowding,we predict a stronger suppression in the nearby condition relative to the far condition.We conducted the first ERP experiment to test this. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Five stimuli (Fig.lA） were used,including target only(T), targetwith nearby flankers $( \\mathrm { N e a r \\_ T + F } )$ ,target with far flankers $( \\mathrm { F a r \\_ T + F } )$ ,nearby flankers only (Near_F),and far flankers only (Far_F).The target was centered at $8 ^ { \\circ }$ eccentricity in the upper left visual quadrant,and its orientation was ${ \\sim } 4 5 ^ { \\circ }$ .The orientations of the flankers were randomly selected for each trial.In a given trial,one of the five stimuli was presented for $2 5 0 \\mathrm { m s }$ .Then, after a 450-650 ms blank interval,a grating was presented for 100 ms in the lower-right visual quadrant. The orientation of the grating slightly deviated from the vertical (Fig. 1C). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Experiment 1 consisted of two sessions: the attended session and the unattended session.In these two sessions,subjects viewed the same stimuli but performed different tasks.In the attended session, subjects always paid attention to the upper left visual quadrant and responded to the first stimulus.If the stimulus contained a target, subjects pressed one of two buttons to indicate the orientation of the targetrelative to $4 5 ^ { \\circ }$ (clockwise or counterclockwise).If the stimulus contained the flankers only, subjects pressed a button randomly.In the unattended session,subjects always paid attention to the lower rightvisual quadrant and judged the orientation of the second stim ulus relative to the vertical (left or right). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/787092d865dfe9e8dfb1ae68842f92d2f9584fe2bbc20cea64ff884f1e535f71.jpg",
+        "img_caption": [
+            "voltage distribution.C,ERPsaveraged overthe fiveelectrodesand allsubjects foreach stimulus condition. $\\pmb { D } ,$ Suppression indices when the target was presented with the nearby or far flankers.E, s $^ { * } p < 0 . 0 5 ,$ statisticallysignificant diffrence between stimulus conditions. $^ { * * } p < 0 . 0 1$ ,Statisticallysignificant difference between stimulus conditions. Error bars indicate 1 SEM across subjects. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the attended session,subjects'response accuracies with the T,Far $_ - \\mathrm { T } + \\mathrm { F } ,$ andNear $_ - \\mathrm { T } + \\mathrm { F }$ stimuli were $8 1 \\%$ 0 $7 9 \\%$ and $6 9 \\%$ respectively (Fig. $1 D$ ).Performance differences were significant between the $\\mathrm { N e a r \\_ T + F }$ and $\\mathrm { \\Delta T }$ stimuli ( $\\dot { \\iota } _ { ( 1 9 ) } = 7 . 3 2$ $p < 0 . 0 0 1$ ） and between the $\\mathrm { N e a r \\_ T + F }$ and Far_T $\\cdot + \\mathrm { F }$ stimuli ( $\\dot { \\iota } _ { ( 1 9 ) } = 7 . 0 4$ $p < 0 . 0 0 1$ ),demonstrating that the presentation of the nearby flankers led to evident crowding and that the crowding effect was modulated by the target-flanker distance. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We focused ERP data analysis on the C1 component evoked by the first stimulus because C1 is the earliest ERP component (onsetlatency $5 0 { - } 5 5 \\mathrm { m s }$ )andisknownto reflect thefeedforward response of neurons in V1 (Clark and Hillyard,1996; Martinez et al.,1999; Pourtois et al.,2004; Bao et al., 2010). Figure 2A shows its topographies averaged over all the five stimuli in the attended and unattended sessions.Dipole modeling confirmed that the intracranial source of the C1 component was located in V1 (Fig. 2B; Table 1). Consistent with previous studies (Clark et al.,1994; Bao et al.,201O),left posterior electrodes,including P1,P3,PO3, PO7,and O1,had the largest C1 amplitudes.Figure 2C shows the averaged waveforms across the five electrodes.The C1 component was visible between 50 and $9 0 ~ \\mathrm { m } s$ after stimulus onset and had a peak latency of ${ \\sim } 7 7$ ms.Statistical analyses were based on the mean Cl amplitudes and latencies across these five electrodes. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The target and flankers were represented by three relatively separate neuronal populations in the lower bank of the right calcarinesulcuswhereV1islocated.Theelectricalcurrentsfrom the populations were conducted through the brain and were summated on the scalp,generating the C1 component we observed here.Fu etal.(2OiO) observed that,when two stimuli were presented in the leftand right visual fields,respectively (assuming little interaction between them),the Cl amplitude evoked by the simultaneous presentation of the two stimuli was equal to the sum of the C1 amplitudes evoked by presenting the stimuli separately.Similar to previous neurophysiological(Moran and Desimone，1985;Miller et al.,1993;Luck et al.,1997）and fMRI studies (Kastner et al.,1998),we defined a suppression index between the target and flankers as $( \\mathbf { C l } _ { \\mathrm { T } } + \\mathbf { C l } _ { \\mathrm { F } } ) - \\mathbf { C l } _ { \\mathrm { T + F } }$ for the nearbyand far conditions. $\\mathrm { C l } _ { \\mathrm { T } }$ and $\\mathrm { C l } _ { \\mathrm { F } }$ were the C1 amplitudes evokedbythe target(T) andflankers(Near_ForFar_F),respectively. $\\mathrm { C l } _ { \\mathrm { T + F } }$ was the Cl amplitude evoked by presenting the target and flankers simultaneously $\\mathrm { ( N e a r \\_ T + F }$ or $\\mathrm { F a r \\_ T + F ) }$ .If there is mutual suppression between the simultaneously presented target and flankers, the absolute value of $\\mathrm { C l } _ { \\mathrm { T + F } }$ should be less than that of $\\mathrm { C l } _ { \\mathrm { T } } + \\mathrm { C l } _ { \\mathrm { F } }$ .Because the stimuli were presented in the upper visual field and the C1 components had a negative polarity, the suppression index should be ${ < } 0$ .The more negative (lower) the index,the stronger the suppression. The suppression indices in Experiment 1 were either around ${ \\sim } 0$ or negative (Fig. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ba274ac076e983a4917273dbac39b42f40f5a8481aba9888c53644b45236e36a.jpg",
+        "table_caption": [
+            "Table 1.Information on a single dipole that best accounted for the variance in the C1 scalp voltage distribution "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Session</td><td>Talairach coordinates</td><td>Percentage of variance accounted</td></tr><tr><td>Experiment 1</td><td>Attended</td><td>10.0,-83.0,1.0</td><td>92.3</td></tr><tr><td></td><td>Unattended</td><td>13.8,-90.1,2.7</td><td>90.1</td></tr><tr><td>Experiment 2</td><td>Attended</td><td>14.0,-81.0, 11.0</td><td>94.7</td></tr><tr><td></td><td>Unattended</td><td>15.0,—81.0,13.0</td><td>93.0</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$2 D$ ).In the attended session,the suppression index for the nearby condition was significantly lower than that for the far condition $\\dot { \\langle t _ { ( 1 9 ) } = 2 . 6 5 }$ $\\begin{array} { r }  p < 0 . 0 5 \\ \\end{array}$ ).However, there was no significant difference between the two conditions in the unatended sesson $( t _ { ( 1 9 ) } =$ 0.33, $p \\ = \\ 0 . 7 5$ ).The suppression indices were submitted to a repeated-measures ANOVAwith attention status (attended and unattended)and distance(far and nearby) as within-subject factors. We found a significant interaction between attention status and distance $( F _ { ( 1 , 1 9 ) } = 4 . 3 7$ 0 $p < 0 . 0 5$ ).These findings demonstrate that, parallel to the behavioral crowding effect, suppresson can be modulated by target-flanker distance.Moreover,spatial attention played a significant role in the manifestation of this suppression. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We further explored the link between the C1 suppression and the perceived crowding (rather than the physical stimuli).We first ranked the strength of crowding (i.e.,the response accuracy difference between the $\\mathrm { N e a r \\_ T + F }$ and $\\mathrm { F a r \\_ T + F }$ stimuli) in 20 EEG blocks of the attended session for each subject.Then, these 20 blocks were split into two groups:10 blocks with the largest differences in the strong crowding group and the remaining blocks in the weak crowding group.For the strong and weak crowding groups,the mean accuracy differences were $2 0 . 1 \\ \\pm$ $1 . 6 1 \\%$ and $- 0 . 2 0 \\pm 1 . 4 6 \\%$ ,respectively. Subjects viewed almost identical stimuli in the two groups (because the orientations of the flankers and target were randomized).The difference in the strength of crowding could then be attributed to the fluctuation of perceptual processing. Suppression indices were calculated for both groups. Only in the strong crowding group,the C1 suppression was found to be modulated by the target-flanker distance (strong crowding group: $t _ { ( 1 9 ) } = 3 . 0 9$ ， $p < 0 . 0 1$ ; weak crowding group: $t _ { ( 1 9 ) } = 1 . 4 4 , p = 0 . 1 7$ ;Figure 2E).The suppression indices were submitted to a repeated-measures ANOVA with crowding strength(strong and weak）and distance (far and nearby）as within-subject factors.We found a significant interaction between crowding strength and distance $( F _ { ( 1 , 1 9 ) } = 5 . 8 8 , p < 0 . 0 5 )$ 1 These results suggest a close relationship between the Cl suppression and the perceived crowding. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We also examined the effect of attention on C1 amplitude and latency. Paired $t$ tests showed that there was no significant difference between the attended and unattended sessions for all five stimuli. This result showed that,although attention could modulate the interaction between the target and flankers,its effect on C1amplitude and latency was very weak. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Experiment 2: C1 suppression and the radial-tangential anisotropy The radial-tangential anisotropy,which refers to the phenomenon that radially positioned flankers can induce a stronger crowding effect than tangentially positioned ones,is considereda diagnostic criterion of crowding (Whitney and Levi,2O11).In the second ERP experiment, we examined whether the C1 suppression was also related to the radial-tangential anisotropy.If this were the case,the C1 suppression with radially positioned flankers should be stronger than that with tangentially positioned ones.This experiment also had five stimuli: target only(T),target with flankers positioned radially $( \\mathrm { R a d \\_ T + F } )$ ，target with flankers positioned tangentially $( \\mathrm { T a n \\_ T + F } )$ ,radial flankers only (Rad_F),and tangential flankers only(Tan_F) (Fig.1B).The procedure and data analysis were similar to those used in the first ERP experiment. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the attended session, subjects' response accuracies with the T,Tan_ $\\mathrm { _ { - } T + F }$ ，and $\\mathrm { R a d \\_ T + F }$ stimuli were $8 5 \\%$ ， $8 1 . 9 \\%$ ，and $7 1 . 2 \\%$ ,respectively (Fig.1E). The performance differences between the stimulus conditions were significant, demonstrating that the presentation of flankers led to crowding $( \\mathrm { T a n \\_ T + F }$ vs T: $t _ { ( 1 9 ) } = 3 . 7 2 , p < 0 . 0 1$ ; Rad_T $\\mathrm { \\cdot + F }$ Vs T: $t _ { ( 1 9 ) } = 8 . 7 6 , p < 0 . 0 0 1$ and that the radial-tangential anisotropy was evident $\\mathrm { ( R a d \\_ T + F }$ VS Tan $\\mathrm { _ { - } T + F }$ $t _ { ( 1 9 ) } = 8 . 0 8$ $p < 0 . 0 0 1$ ） ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 3A shows C1 topographies averaged over all the five stimuli in the unattended and attended sessions.The Cl component had a peak latency of ${ \\sim } 7 8 \\mathrm { m s }$ .CP1,CPZ,P1,P3,and Pz had the largest C1 amplitudes.Dipole modeling confirmed that the intracranial source of the C1 component was located in V1 (Fig. 3B; Table1).Computed from the Cl amplitudes shown in Figure 3C, the suppression indices were negative (Fig.3D). In the attended session,the suppression index for the radial condition was significantly lower than that for the tangential condition $( t _ { ( 1 9 ) } =$ 2.55, $\\begin{array} { r }  p < 0 . 0 5 \\ \\end{array}$ ),suggesting a stronger suppression with the radial flankers than with the tangential flankers,which is consistent with our prediction.However,in the unattended session,there was no significant difference between the two conditions $( t _ { ( 1 9 ) } =$ 0.29, $p = 0 . 7 8 \\$ ).The suppression indices were submitted to a repeated-measures ANOVA with attention status (attended and unattended)and orientation(radial and tangential) aswithinsubjectfactors.We foundasignificantinteractionbetweenattention status and orientation $( F _ { ( 1 , 1 9 ) } = 5 . 6 6 , p < 0 . 0 5 )$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Similar to Experiment 1,20 EEG blocks were split into two groups: the strong radial-tangential anisotropy group and the weak radial-tangential anisotropy group.For the two groups, the mean response accuracy differences between the $\\mathrm { R a d \\_ T + F }$ and Tan_ $\\mathrm { _ { T + F } }$ stimuli (i.e.,the magnitude of the radial-tangential anisotropy） were $2 0 . 5 \\pm 1 . 3 2 \\%$ and $0 . 8 5 \\pm 1 . 3 5 \\%$ ,respectively. Only in the strong anisotropy group, the suppression index for the radial condition was significantlylower than that for the tangential group (strong group: $t _ { ( 1 9 ) } = 2 . 9 7 , p < 0 . 0 1$ ; weak group: $t _ { ( 1 9 ) } = 1 . 3 8$ $p = 0 . 1 8$ ; Figure 3E).The suppression indices were submitted to a repeated-measures ANOVA with anisotropy strength (strong and weak) and orientation (radial and tangential)aswithin-subject factors.We founda significant interaction between anisotropy strength and orientation $( F _ { ( 1 , 1 9 ) } = 4 . 4 9 , p <$ 0.05).Attention also had little effect on C1 amplitude and latency for all the five stimuli in this experiment.Overall, these results suggest that the C1 suppression closely mirrors the radial-tangential anisotropy of crowding. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Experiment 3: cortical suppressionand the target-flanker distance ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Although the C1 suppresson found in the ERP experiments suggests an early V1 contribution to crowding, the role of intermediate and high cortical areas in crowding is still unclear.Parallel to the ERP experiments,two event-related fMRI experiments were designed to investigate the relationships between cortical suppression in different visual areas and the target-flanker distance(Experiment 3）as well as the radial-tangential anisotropy (Experiment 4). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Because the target and flankers were small and were presented in periphery,it is difficult to use fMRI to separate their cortical representations and directly measure the effect of crowding on the representation of the target.We modified the paradigm developed by Kastner et al.(1998) and Beck and Kastner (2005) to solve this problem.Experiment 3 had two trial types (conditions):far and nearby trials.In a far trial,the Far $\\mathrm { _ { - } T + F }$ and Near_F stimuli were presented successively in a random order, each for $0 . 2 5 s .$ Inanearby trial, theNear_ $\\mathrm { _ { - } T + F }$ and Far_Fstimuli were presented in the same way (Fig.4A).Integrated over time, the physical stimulations in each location of the target and flankers were identical in the two conditions.However,relative to the far condition,subjects should experience a stronger crowding effect in the nearby condition because the target was presented with the nearby flankers.Subjects underwent two sessions: the attended session and the unattended session.In the attended session,subjects performed the same orientationdiscrimination taskwith the target as that in the ERP experiments.As predicted,their performance was better in the far condition $( 7 2 . 1 \\% )$ than in the nearby condition $\\left( 6 1 . 7 \\% \\right)$ $( t _ { ( 9 ) } ~ = ~ 4 . 1 3$ ， $p < 0 . 0 1$ ,Fig.4B).In the unattended session,subjects were asked to ignore the stimuli and detect a brief luminance change at the fixation point. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2ed2abde71a7e4cfc48028c19e24729f24341b2e054834cd1e3bb12e15ec4ba9.jpg",
+        "img_caption": [
+            "Fie subjects.Posterior electrodes,including CP1,CPZ,P1,P3,and $\\mathsf { P } z$ (within the black elipse), had the largest C1 amplitudes. $B _ { i }$ Locations of a single dipole that best accounted for the varianceintheC1scalpvoltagedistribution.C,ERPsaveragedoverthefiveelectrodesandallsubjectsforeachstimuluscondition. $\\pmb { D } ,$ Suppression indices when the target was presented wi and the other half exhibiteda weakeffect. $^ { * } p < 0 . 0 5 .$ ,statistically significant difference betweenstimulus conditions $^ { * * } p < 0 . 0 1$ ,statisticallysignificant difference betweenstimulus conditions.Error bars indicate 1 SEM across subjects. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ROIs were defined as cortical areas representing the locations of the target and flankers (Fig.4C) in V1,V2,V3,V4, LO,and IPS.We analyzed BOLD signals in these ROIs in the nearbyand far conditions (Fig.5A).Any signal difference between the two conditions might be largely theresult of different levels of cortical suppression between the target and flankers,rather than the physical stimuli per se (Beck and Kastner, 20o5).We defined a suppression index as $\\mathrm { ( B O L D _ { F a r }  – B O L D _ { N e a r } ) } /$ $\\mathrm { ( B O L D _ { F a r } + B O L D _ { N e a r } ) }$ ，where $\\mathrm { \\Delta B O L D _ { F a r } }$ and $\\mathrm { B O L D } _ { \\mathrm { N e a r } }$ are the peak amplitudes of BOLD signals in the far and nearby conditions,respectively. If the mutual sup pression between the target and flankers in the nearby condition is stronger than that in the far condition, $\\mathrm { B O L D } _ { \\mathrm { F a r } }$ should be larger than $\\mathrm { B O L D } _ { \\mathrm { N e a r } }$ .Thus,the suppression index should be above zero; the larger the index, the stronger the suppression.We found that, in the attended session,the suppression indices were significantly larger than zero in V1 $\\mathit { \\check { t } } _ { ( 9 ) } = 6 . 5 8 , p < 0 . 0 0 1$ ，V2 $\\mathit { \\Pi } _ { ( t _ { ( 9 ) } } ^ { ' } = 4 . 5 8 , p <$ 0.01),and V4 ( $\\dot { \\iota } _ { ( 9 ) } = 3 . 5 8$ $\\textstyle p < 0 . 0 5 )$ (Fig.5B).V1 had the largest index, which was significantly larger than those in LO $( t _ { ( 9 ) } = 3 . 8 0$ 0 $\\begin{array} { r } { p < 0 . 0 5 \\} } \\end{array}$ ）and IPS $\\mathit { \\check { t } } _ { ( 9 ) } = 3 . 7 0$ ， $\\begin{array} { r } { p < 0 . 0 5 , } \\end{array}$ ). In the unattended session,no area showed a significantly positive index(all $t _ { ( 9 ) } <$ 1.23, $p > 0 . 2 5 2 ,$ (Fig.5C).Forall theROIs,we also performed a repeated-measuresANOVAof the peak amplitudeswith attention status (attended and unattended) and distance (far and nearby)as within-subject factors.OnlyV1 exhibited a significant interaction between attention status and distance $( F _ { ( 1 , 9 ) } = 2 0 . 0 2 \\$ ， $\\begin{array} { r }  p < 0 . 0 1 \\ \\end{array}$ ),which is generallyinline with the $t$ test results. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/039d2498a28df48da6f15df2227cfb80ad86a50aed7b010a4c3ad0911ef3c2db.jpg",
+        "img_caption": [
+            "Figure4.DesignandpsychophysicalresultforExperiment3.A,Design.Thetargetwaspresentedeitherwithfarflankers (top) orwithnearbyflankers (bottom).Subjectsperformedanorientationdiscriminationtaskwiththetargetintheattendedseionor detectedaluminancechangeofthefixationpointintheunatendedsesion.B,Psychophysicalesultforthefarandnearbytrials. C,Asample image for ROllocalization. $^ { \\ast \\ast } p < 0 . 0 1$ ,statistically significant difference between the tangentialand radialtrials.Error bars indicate 1 SEM across subjects. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8de306d1eef3f8cafa99295b98dfe963833735adcd7c9498d7b92d4a5c47fcff.jpg",
+        "img_caption": [
+            "Figure.flsultsfoxprintAEetelatedsialsveradcrosbetfortdearbtrialsinedsio $B ,$ Suppression indices in teattendedsession $^ { * } p < 0 . 0 5$ ,suppression index issignificantlyabove zero. $^ { * * } p < 0 . 0 1$ ,suppression index is significantlyabove zero $^ { \\ast \\ast \\ast } p < 0 . 0 0 1$ ,suppression index is significantlybove zero.C,Suppression indices in the unattended session. $\\pmb { D } ,$ Suppesiotot exhibiteda weak effect. $\\ast \\ast _ { p } < 0 . 0 1$ ,statistically significant difference between the two indices in V1.Erorbars indicate 1 SEM across subjects. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Because the cortical suppression in V1,V2,and V4 could be modulated by the target-flanker distance,similar to the ERP experiments,we further investigated the association between the suppression in these areas and the perceived crowding.We first ranked the strength of crowding (i.e.,the response accuracy difference between the nearby and far conditions） in eight fMRI runs for each subject.Then,these eight runs were split into two groups: four runs with the largest differences in the strong crowding group and the remaining runs in the weak crowding group.For the strong and weak crowding groups,the mean accuracy differences were $1 7 . 1 3 \\pm 2 . 6 6 \\%$ and $3 . 6 8 \\pm 2 . 5 0 \\%$ ,respectively. Suppression indices were calculated for both groups in V1,V2,and V4. Only in V1,the suppression index for the strong crowding group was significantly larger than that for the weak crowding group $\\mathit { \\Omega } _ { ( t _ { ( 9 ) } } ^ { ' } = 4 . 8 6 1$ ， $p < 0 . 0 1 \\AA$ ）(Fig. $5 D$ ).For the three ROIs,we also performed a repeated-measures ANOVA of the peak amplitudes with crowding strength (strong and weak) and distance (far and nearby) as withinsubject factors.OnlyV1 exhibited a significant interaction between crowding strength and distance $( F _ { ( 1 , 9 ) } = 7 . 0 3 , p < 0 . 0 5 )$ ). These results demonstrate that the cortical suppresson in V1 was closely associated with the magnitude of the crowding effect. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Experiment 4: cortical suppression and the radial-tangential anisotropy ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The design of Experiment 4 was identical to Experiment 3,except with different stimuli $\\mathrm { ( R a d \\_ T + F }$ ，Tan $\\_ \\mathrm { T + F }$ ，Rad_F，and Tan_F).Experiment 4 had two trial types (conditions): radial and tangential trials.Ina radial trial, the $\\mathrm { R a d \\_ T + F }$ and Tan_Fstimuli were presented.In a tangential trial, the Tan $\\mathrm { - } \\mathrm { T } { + } \\mathrm { F }$ and Rad_F stimuli were presented (Fig. 6A). Integrated over time,the physical stimulations in each location of the target and flankers were identical in the two conditions. Consistent with the radial-tangential anisotropy prediction,subjects'performance with the orientation discrimination task to the target was better in the tangential condition $( 7 2 . 6 \\% )$ ）than in the radial condition $( 6 2 . 9 \\% )$ 1 $\\dot { \\mathbf { \\rho } } _ { t _ { ( 9 ) } } = 4 . 1 7$ 0 $p < 0 . 0 1$ ; Fig. 6B). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ROIs were cortical areas representing the locations of the target and flankers in V1-V4, LO,and IPS (Fig. 6C).A suppression index was defined as $\\mathrm { ( B O L D _ { T a n } \\mathrm { - B O L D _ { R a d } ) / ( B O L D _ { T a n } \\mathrm { + B O L D _ { R a d } ) } } }$ ,where $\\mathrm { B O L D } _ { \\mathrm { T a n } }$ and $\\mathrm { \\Delta B O L D _ { R a d } }$ are the peak amplitudes of BOLD signals in the tangential and radial conditions,respectively (Fig.7A). If the mutual suppression between the target and flankers in the radial condition is stronger than that in the tangential condition, $\\mathrm { B O L D } _ { \\mathrm { T a n } }$ should be larger than $\\mathrm { B O L D } _ { \\mathrm { r a d } }$ Thus,the suppression index should be above zero; the larger the index, the stronger the suppression.We found that, in the attended session,V1had the largest index and only the index in V1was significantlylarger than zero $( \\mathrm { V } 1 ; t _ { ( 9 ) } = 4 . 5 8 , p < 0 . 0 1$ ; Fig. 7B). In the unattended session,no area showed a significantly positive index (all $t _ { ( 9 ) } < 1 . 2 2$ 0 $p > 0 . 2 5 )$ (Fig.7C).For all the ROIs,we also performedarepeated-measuresANOVAof the peak amplitudes with attention status (attended and unattended) and orientation (radial and tangential) as within-subject factors.V1 and V2 exhibited a significant interaction between attention status and orientation (both $F _ { ( 1 , 9 ) } > 8 . 4 6$ ， $\\begin{array} { r }  p < 0 . 0 5 \\ \\end{array}$ ) which is generally in line with the $t$ test results. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Similar to Experiment 3,we ranked the strength of the radial-tangential anisotropy (i.e.,the response accuracy difference between the radial and tangential conditions） in eight fMRI runs for each subject, then split these eight runs into the strong anisotropy group and the weak anisotropy group,with four runs in each group.For the strong and weak anisotropy groups,the mean accuracy differences were $1 7 . 1 3 \\pm 1 . 9 5 \\%$ and $2 . 2 4 \\pm 2 . 7 5 \\%$ ,respectively. Suppresson indices were calculated for both groups in V1.The suppression index for the strong anisotropy group was significantly larger than that for the weak ansiotropy group $( t _ { ( 9 ) } = 3 . 0 6 , p < 0 . 0 5$ ） (Fig. $7 D$ ).We also performed a repeated-measures ANOVA of the peak amplitudes with crowding strength (strong and weak) and orientation (radial and tangential) as within-subject factors.V1 exhibited a significant interaction between crowding strength and orientation $( F _ { ( 1 , 9 ) } = 1 6 . 2 2 , p < 0 . 0 1 )$ ).These results demonstrate a tight coupling between the cortical suppression in Vl and the radialtangential anisotropy of crowding ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d349f2a7f4c2c63b9f6be4efa45a5e6816eafdc92c71a7026522725d4fa863d4.jpg",
+        "img_caption": [
+            "Figure 6。Design and psychophysical result for Experiment 4.A,Design.The target was presented eitherwith tangential flankers(top)orwith radialflankers(bottom).Subjects performedanorientationdiscriminationtask withthe targetin the atendedsessionordetectedaluminancechangeofthefixationpointintheunattendedsesion.B,Psychophysicalresultforthe tangential and radial trials.C,A sample image for ROl localization. $^ { * * } p < 0 . 0 1$ ,statistically significant diference between the tangential and radial trials. Error bars indicate 1 SEM across subjects. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "With a combination of ERP and fMRI approaches,we demonstrated that the orientation crowding effect was closely associated with the inhibitory interaction between the target and flankers,as manifested in the suppression of the C1 component and the V1 BOLD signal.Furthermore,the suppression was largely dependent on spatial attention. These results strongly suggest that attention-dependent V1 suppression contributes to crowding at a very early stage of visual processing. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Our findings are of unique significance to understanding the neural mechanisms of crowding.First, we provide the first piece of neurophysiological evidence regarding the temporal evolution of crowding，which goes significantly beyond previous fMRI studies (Fang and He,2008; Bi et al.,2009; Freeman et al.,2011; Anderson et al.,2012; Millin et al.,2013). The very short peak latency $( 7 7 - 7 8 \\mathrm { m s } )$ of the Cl component unequivocally supports that crowding originates in early visual cortex,as early as V1. Second,we not only show that the early cortical suppression is associated with the target-flanker distance and the radial-tangential anisotropy but also demonstrate a close link between the suppression and the perceived crowding.Third,our evidence is strong and converging.The fMRI observation that V1 is the only area with the suppression tightly tied to the strength of the perceived crowding supports that the crowding-related BOLD signal in V1isunlikely feedback fromhigher cortical areas,consistent with the ERP findings. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Inaveryrecent fMRI study,Millin etal.(2O13) manipulated the target-flanker distance to modulate the strength of crowding. They found that crowding induced BOLD signal suppression in V1,even when subjects were performing a fixation task and did not pay attention to the stimuli.However,we failed to find such suppression in the unattended session of Experiment 3.Our and their experiments are different in many aspects,including stimulus, experimental design,and data analysis.Their stimuli were presented closer to fixation and longer than ours,which could induce stronger BOLD signals.The block design used by them is more effective to detect BOLD signal changes than the event-related design we used here. Taking into account all these evidence,we suggest that the crowding-induced cortical suppression could be modulated by attention,rather than completely depends on attention. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "What is the nature of the cortical suppression? One possibility is that the suppression occurs when both the flankers and target fall into a large receptive field of a neuron.However,if this is the case,we should have observed consistent and reliable suppression in V4,LO,and IPS (rather than V1) because the receptive fields of neurons in these areas are large enough to accommodate the target and flankers (Smith etal.,2oo1; Dumoulin and Wandell, 2008).A second possibility is that the suppressive interaction occurs through long-range horizontal connections between different populations of neurons that respond to the flankers and target. Stettler et al.(2oO2） showed that the horizontal connections cover portions of Vl representing regions of visual space up to eight times larger than classical receptive fields.Given that the receptive field of neurons in Vl at $8 ^ { \\circ }$ eccentricity is ${ \\sim } 0 . 7 ^ { \\circ }$ (Smith et al.,2ool),the spatial extent influenced by the horizontal connections from these neurons is up to $5 . 6 ^ { \\circ } \\left( 0 . 7 ^ { \\circ } \\times 8 \\right)$ ,which is large enough to cover two gratings $( 2 \\times 2 . 3 6 ^ { \\circ } )$ in the current study. The possible involvement of the horizontal connections suggests that crowding is unavoidable because of the intrinsic structure of the peripheral visual system.In some cases, the long-range horizontal connections could help detect contours (Li et al.,2006), but in other cases,they might exert deleterious influence on feature extraction and consequently lead to crowding. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/7fcb611d991008d1f9e31100fa6711de22eb7a751ba644a41ee3e3a180b6b261.jpg",
+        "img_caption": [
+            "session. $^ { * * } p < 0 . 0 1$ ss exhibitedastrongbehavioralcrowding effect(radialvstangential),andtheotherhalfexhibitedaweak ffect $^ { * } p < 0 . 0 5$ ,statistically significant diference between the two indices in V1.Errorbars indicate 1 SEM across subjects. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Unlike a recent study that proposed the preattentive early cortical interaction explanation for crowding (Milin etal.,2013), our study emphasizes the importance of spatial attention in crowding.This is in line witha psychophysical study demonstrating that collinear facilitation by flankers was significant only when the flankers were attended to (Freeman etal.,2ool).Attentional modulation in visual cortex is usually thought to be implemented through feedback from the frontoparietal attentional network and manifested in the intermediate and late stages of neuronal responses (Corbetta and Shulman,2oo2).Although fMRI studies have shown that spatial attention can modulate BOLD signals in V1(Gandhi et al.,1999; Liu et al., 2005),a large body of neurophysiological evidence supports the view that the earliest signals in V1 and the C1 component are not affected by spatial attention (Clark and Hillyard,1996; Martinez etal.,1999; Ding et al.,2013; but see also Kelly et al.,2008). Consistent with the neurophysiological findings,we also failed to find attentional modulation of the amplitude and latency of the C1 components evoked by the target and flankers themselves.However,our observation that attention can modulate the suppressive interaction between the target and flankers as earlyas 77 ms after stimulus onset is intriguing.Feedback mechanisms time-locked to stimulus onset cannot readily explain this finding. Gilbert etal.(2000) and Li et al.(2oo4) showed that attention can modulate contextual influences through the horizontal connections in Vl and that the modulation started from the very beginning ( $\\mathrm { \\sim } 7 0 \\mathrm { m s } )$ of the time course of V1 neuronal responses.These findings are in line with our results. In our study,subjects were instructed to pay attention to the stimuli throughout the whole attended session. We speculate that sustained spatial attention might alter the functional status of the horizontal connections in the session,leading to cortical suppression at a very early processing stage. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Our fMRI experiments showed that only the cortical suppression in V1 (but not other ROIs)was associated with both the target-flanker distance and the radial-tangential anisotropy. This is consistent with a recent computational model proposed by Nandy and Tjan (2012),which shows that crowding is caused by saccade-confounded image statistics encoded in lateral connections between V1 hypercolumns.The model can explain most of the important characteristics of crowding,including the Bouma's law,the inward-outward asymmetry of the crowding zone, and the radial-tangential anisotropy.However,we should not preclude the possibility that crowding occurs at multiple levels in the visual system.For example,Louie etal.(2oo7)demonstrated a holistic crowding between high-level face representations, suggesting that face-selective areas (e.g.,fusiform face area） might play a role in this kind of crowding (Louie et al., 2007).In the future,it would be important to investigate whether our conclusion can be generalized to other conditions and stimuli. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Anderson EJ,Dakin SC,Schwarzkopf DS,Rees G,Greenwood JA (2012) The neural correlates of crowding-induced changes in appearance. Curr Biol 22:1199-1206. CrossRef Medline   \nBao M,Yang L,Rios C,HeB,Engel SA (201O) Perceptual learning increases the strength of the earliest signals in visual cortex.JNeurosci 30:15080- 15084. CrossRef Medline   \nBeck DM,Kastner S (2oo5） Stimulus context modulates competition in human extrastriate cortex.Nat Neurosci 8:1110-11l6.CrossRef Medline   \nBi T,Cai P,Zhou T,Fang F (2009） The effect of crowding on orientationselective adaptation in human early visual cortex.J Vis 9:1-10.CrossRef Medline   \nBouma H(197o） Interaction effects in parafoveal letter recognition.Nature 226:177-178. CrossRef Medline   \nBouma H（1973）Visual interference in the parafoveal recognition of initial and final letters of words.Vision Res 13:767-782.CrossRef Medline   \nBuracas GT,Boynton GM (2002）Efficient design of event-related fMRI experiments using M-Sequences.Neuroimage l6:801-813.CrossRef Medline   \nClark VP,Hillyard SA(1996） Spatial selective attention affects early extrastriate but not striate components of the visual evoked potential.J Cogn Neurosci 8:387-402. CrossRef Medline   \nClark VP,Fan S,Hillyard SA(1994）Identification of early visual evoked potential generators by retinotopic and topographic analyses.Hum Brain Mapp 2:170-187.CrossRef   \nCorbetta M,Shulman GL (2oo2） Control of goal-directed and stimulus-driven attention in the brain.NatRev Neurosci 3:201-215.CrossRef Medline   \nDing Y,Martinez A, Qu Z,Hillyard SA (2013)Earliest stages of visual cortical processing are not modified by attentional load.Hum Brain Mapp   \nDumoulin SO,Wandell BA (20o8） Population receptive field estimates in human visual cortex. Neuroimage 39:647-660.CrossRef Medline   \nEngel SA,Glover GH,Wandell BA （1997） Retinotopic organization in human visual cortex and the spatial precision of functional MRI.Cereb Cortex 7:181-192. CrossRef Medline   \nFang F,He S (2o08） Crowding alters the spatial distribution of attention modulation in human primary visual cortex.JVis 8:1-9.CrossRef Medline   \nFlom MC,Weymouth FW,Kahneman D(1963）Visual resolution and contour interaction.J Opt Soc Am 53:1026-1032. CrossRef Medline   \nFreeman E,Sagi D,DriverJ(2oo1）Lateral interactions between targets and flankers in low-level vision depend on attention to the flankers.Nat Neurosci 4:1032-1036.CrossRef Medline   \nFreeman J,Donner TH,Heeger DJ (20l1） Inter-area correlations in the ventral visual pathway reflect feature integration.J Vis 11:1-23. CrossRef Medline   \nFu S,Fedota JR,Greenwood PM, Parasuraman R (20l0） Dissociation of visual Cl and P1 components as a function of attentional load: an eventrelated potential study.Biol Psychol 85:171-178.CrossRef Medline   \nGandhi SP,Heeger DJ,Boynton GM (1999） Spatial attention affects brain activity in human primary visual cortex.Proc Natl Acad Sci U SA96: 3314-3319.CrossRef Medline   \nGilbert C,Ito M,Kapadia M,Westheimer G (20oo） Interactions between attention,context and learning in primary visual cortex.Vision Res 40: 1217-1226. CrossRef Medline   \nHe S,Cavanagh P,IntriligatorJ（1996）Attentional resolution and the locus of visual awareness.Nature 383:334-337. CrossRef Medline   \nKastner S,DeWeerd P,DesimoneR,UngerleiderLG(1998）Mechanisms of directed attention in the human extrastriate cortex as revealed by functional MRI. Science 282:108-111. CrossRef Medline   \nKelly SP,Gomez-Ramirez M,Foxe JJI (2oo8） Spatial attention modulates initial afferent activity in human primary visual cortex. Cereb Cortex 18:2629-2636.CrossRef Medline   \nKourtzi Z,Kanwisher N (2ooo） Cortical regions involved in perceiving object shape.JNeurosci20:3310-3318.Medline   \nLeviDM (2oo8） Crowding—an essential bottleneck for object recognition: a mini-review.Vision Res 48:635-654.CrossRefMedline   \nLevi DM,Klein SA,Aitsebaomo AP(1985）Vernier acuity,crowding and cortical magnification.Vision Res 25:963-977.CrossRef Medline   \nLiW,Piech V,Gilbert C (2o04）Perceptuallearningand top-down influences in primary visual cortex.Nat Neurosci 7:651-657.CrossRefMedline   \nLi W,Piech V,Gilbert CD (2006） Contour saliency in primary visual cortex. Neuron 50:951-962.CrossRef Medline   \nLiu T,PestilliF,Carrasco M (2oo5） Transient attention enhances perceptual performance and fMRI response in human visual cortex.Neuron 45:469- 477.CrossRefMedline   \nLouie EG,Bresser DW,Whitney D (2007） Holistic crowding: selective interference between configural representations of faces in crowded scenes. JVis 7:1-11. CrossRef Medline   \nLuck SJ,ChelazziL,Hillyard SA,Desimone R (1997） Neural mechanisms of spatial selective attention in areas V1,V2,and V4 of macaque visual cortex. J Neurophysiol 77:24-42.Medline   \nMartinez A,Anllo-Vento L, Sereno MI, Frank LR,Buxton RB,Dubowitz DJ, Wong EC,Hinrichs H,Heinze HJ,Hillyard SA(1999） Involvement of striate and extrastriate visual cortical areas in spatial attention.Nat Neurosci 2:364-369.CrossRef Medline   \nMiller EK,Gochin PM,Gross CG (1993） Suppression of visual responses of neurons in inferior temporal cortex of the awake macaque by addition of a second stimulus.Brain Res 6l6:25-29.CrossRef Medline   \nMilin R,Arman AC,Chung STL,Tjan BS (2013） Visual crowding in V1. Cereb Cortex 7:1-9.CrossRef Medline   \nMoran J, Desimone R（1985） Selective atention gates visual processing in the extrastriate cortex.Science 229:782-784.CrossRef Medline   \nNandy AS,Tjan BS (2012） Saccade-confounded image statistics explain visual crowding. Nat Neurosci 15:463-469. CrossRef Medline   \nPeli DG (2oo8）Crowding:a cortical constraint on object recognition. Curr Opin Neurobiol 18:445-451. CrossRef Medline   \nPourtois G,Grandjean D, Sander D,Vuilleumier P (2004） Electrophysiological correlates of rapid spatial orienting towards fearful faces.Cereb Cortex14:619-633.CrossRef Medline   \nSereno MI, Dale AM,Reppas JB,Kwong KK,Beliveau JW,Brady TJ,Rosen BR,Tootell RB (1995） Borders of multiple visual areas in humans revealed by functional magnetic resonance imaging. Science 268:889-893. CrossRefMedline   \nSmith AT,Singh KD,Williams AL, Greenlee MW (2001）Estimating receptive field size from fMRI data in human striate and extrastriate visual cortex.Cereb Cortex11:1182-1190.CrossRef Medline   \nStettler DD,Das A,Bennett J,Gilbert CD (20o2）Lateral connectivity and contextual interactions in macaque primary visual cortex. Neuron 36: 739-750. CrossRef Medline   \nStrasburger H (2005） Unfocussed spatial attention underlies the crowding effect in indirect form vision.JVis 5:1024-1037.CrossRef Medline   \nTjan BS,Kwon M,Millin R,Bao P (2012） Crowding modulates activity in V1.JVis 12:598. CrossRef   \nWatson AB,Pelli DG(1983）Quest: a Bayesian adaptive psychometric method.Percept Psychophys 33:113-120.CrossRef Medline   \nWhitney D,Levi DM (2o11） Visual crowding: a fundamental limit on conscious perception and object recognition.Trends Cogn Sci 15:160-168. CrossRef Medline ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

@@ -1,0 +1,409 @@
+[
+    {
+        "type": "text",
+        "text": "Responses of Amygdalus pedunculata Pall. in the sandy and loamy soils to water stress ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PEI Yanwu1.2, HUANG Laiming1,2.3, SHAO Ming'an1.2.3, ZHANG Yinglong ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Key LaboratoryofEcosystems Network Observationand Modeling,Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences,Beijing 1Oo1O1,China;   \n2Colege of NaturalResources and Environment,State KeyLaboratoryof Soil ErosionandDrylandFarming onthe Loess Plateau,Northwest A&F University,Yangling 712100,China;   \n3Collge of Resources and Environment, University of Chinese Academy of Sciences,Beijing 10o049,China;   \n4 Shenmu Ecological Association, Shenmu 719399,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Amygdalus pedunculata Pall is a major species that is widely planted in afforested soils with different textures in the transitional zone between Mu Us Desert and Loess Plateau, China. However, the responses of $\\mathcal { A }$ ，pedunculata to increasing intensity of water stress in different textural soils are not clear. Here,we conducted a soil column experiment to evaluate the effects of different textures (sandy and loamy) on water consumption， water use effciency (WUE)， biomass accumulation and ecological adaptability of $\\mathcal { A }$ pedunculata under increasing water stress,i.e, $90 \\%$ （20 $( \\pm 5 \\% )$ FC (field capacity), $7 5 \\%$ （204号 $( \\pm 5 \\% )$ FC, $60 \\%$ （20 $( \\pm 5 \\% )$ FC, $45 \\%$ （20 $( \\pm 5 \\% )$ FC and $30 \\%$ （20 $( \\pm 5 \\% )$ FC in 2018. $\\mathcal { A }$ : pedunculata grown in the sandy soil with the lowest ( $30 \\%$ FC）and highest（ $90 \\%$ FC）water contents had respectively $2 1 . 3 \\% { - 3 7 . 0 \\% }$ and $4 . 4 \\% - 2 0 . 4 \\%$ less transpiration than those with other water treatments $45 \\% - 7 5 \\%$ FC). In contrast, $\\mathcal { A }$ pedunculata transpiration in the loamy soil decreased with decreasing water content. The magnitude of decrease in transpiration increased with increasing level of water deficit $45 \\%$ and $30 \\%$ FC).Mean daily and cumulative transpirations of the plant were significantly lower in the sandy soil than in the loamy soil under good water condition ( $90 \\%$ FC),but the reverse was noted under water deficit treatments ( $45 \\%$ and $30 \\%$ FC). Plant height, stem diameter and total biomass initially increased with decreasing water content from $90 \\%$ to $7 5 \\%$ FC and then declined under severe water deficit conditions ( $45 \\%$ and $30 \\%$ FC)in the sandy soil. However, these plant parameters decreased with decreasing water content in the loamy soil. WUE in the sandy soil was $7 . 8 \\% - 1 2 . 3 \\%$ higher than that in the loamy soil,which initially increased with decreasing water content from $90 \\%$ to $7 5 \\%$ FC and then declined under water deficit conditions ( $45 \\%$ and $30 \\%$ FC).The study showed that plant transpiration， biomass production and WUE responded diferentially to increasing intensity of water stress in the sandy and loamy soils. The contrasting responses of $\\mathcal { A }$ pedunculata to water stress in different textural soils can guide future revegetation programs in the northern region of Chinese Loess Plateau by considering plant adaptability to varying soil and water conditions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: soil texture; water consumption; biomass production; water use efficiency; Loess Plateau ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Loess Plateau is a typical region for the ecological fragility in China with severe soil erosion and water scarcity (Huang and Shao,2O19). Soil erosion and water scarcity are driven by: (1) the high erodibility of loess soils; (2) limited and unevenly distributed precipitation; and (3) frequent and intensive human disturbances. The Grain for Green Program was implemented in this region in the 199Os in order to improve the ecosystem service and function. Since then, large areas of sloping farmlands have been converted into forestlands and grassands.This has resulted in a significant increase in vegetation cover, which in turn improved the ecological environment on the Loess Plateau (Sun et al.，2O15). However,severe soil water deficit has occurred in the restored grasslands and forestlands.This is as a result of dual effect of natural and anthropogenic factors on the ecosystem，e.g.， low precipitation， high evapotranspiration and unreasonable revegetation. Dry soil layers have been developed on the Chinese Loess Plateau (Chen et al.,2008; Wang et al.， 2O18)， thuscausing vegetation degradation and declining ecological services/functions (Shao et al.,2O18; Huang and Shao, 2O19). Moreover,extreme dry weather condition has become more frequent in recent years due to global warming (Bui and Maloney, 2018),which further threatened the sustainability of vegetation restoration on the Loess Plateau. Recent studies show that vegetation restoration on the Loess Plateau is approaching sustainable water resource limit (Feng et al., 2016; Wang et al.,2018; Huang and Shao,2019). Given the increasing water shortage on the Loess Plateau, it is projected that plant growth and productivity will be adversely limited by water stress. Therefore,a beter understanding of the response of typical vegetation to water stress is important for future vegetation restoration and ecological construction. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Studies have shown differential responses of plants to water stress either among different plant species (Blackman et al.,201O; Liberati et al.,2018) or during different growth stages of the same plant (Kpoghomou et al.， 2010; Ma et al.， 2017; Swain et al.，2017;Bozorov et al.,2018). Blackman et al. (2O1O) examined the decline of leaf water potential,leaf hydraulic conductance and midday transpiration in four temperate woody species under drought stress and subsequent recovery after re-watering condition. Result showed that the level of drought tolerance varied significantly among the four species and was strongly correlated with leaf hydraulic vulnerability. Kpoghomou et al. (2O10) investigated the sensitivity of soybean (Glycine max L.） to drought stress during different growth stages (vegetative，flowering and pod-filling） and found that reproductive stage was more sensitive to drought than vegetative stage. The response of plants to water stress is controlled by complex regulatory events that are mediated by abscisic acid signal, ion transport and transcription factors,all contributing to a molecular network that enables plants to adapt and survive (Swain et al.,2O17; Fu et al., 2O18; Zhang et al., 2018). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In addition, the patterns of response and mechanisms of adaptation of plants to water stress are shown to change with the intensity and duration of water stres. For instance, mild water stress can improve water use efficiency (WUE) (Liu et al., 2O13） and induce the reprogramming of transcriptional regulation (Nelissen et al.,2Oo8). In contrast, moderate and severe water stresses can inhibit plant physiological activities (Landi et al., 2O17).By investigating the response of crop yield to water stress,researchers found that the cause and extent of grain yield loss vary with the timing of water shortage， growth stage and water stress intensity. Water stress during vegetative stage affects grain yield mainly by reducing crop density and kernel number (Dolferus et al.,2O11). However, drought during grain-filing stage can reduce kernel weight by reducing grain-filling duration (Gooding et al., 2O03). Despite these results, there still remains much to learn about the regulation of plant response to drought due to site-specific and species-specific differences. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The response of plants to water stress has also been extensively studied in the Loess Plateau region, where water shortage severely affects crop production and vegetation restoration. Studies show that different traits of plants differently perform under drought conditions (Wu et al.,2011a). Yan et al. (2O16) found that stomatal conductance of maize (Zea mays L.) was most sensitive in mild drought condition,and carbon accumulation was more sensitive than other parameters (net photosynthesis rate,stomatal conductance and transpiration rate) in moderate drought condition. It was further noted in the study that plant height and stem had the highest response to severe drought condition.Different species (i.e.,herbs,shrubs and trees） also exhibit different survival strategies under water stres (Xu et al.,2011; Fang et al.,2O16; Yan et al.,2017). Ma et al. (2011) found that different varieties of Panicum virgatum L. had different WUE and morphological characteristics under the same level of drought condition. This was apparently associated with the level of ploidy and aridity of the habitat used (Ma et al., 2O11). Transpiration characteristics of different plants are significantly different under drought conditions,as transpiration rate of broad-leaved plants is more susceptible to drought stress compared with coniferous plants (Zhang et al.,20O8; Jiao et al.,2016). Although there is huge repository of studies on the response of different plant species to water stress, little is known about the response of plants to water stress in different textual soils. Studies show that soils on the Loess Plateau significantly differ in texture and water condition, especially along south-north or east-west transects of the plateau (Tian et al.,1987; Zhang, 2O02; Huang et al.,2019).A better understanding of the response of typical plants to water stress in different textural soils is the basis for rational allocation of vegetation and efficient use of water resources on the Loess Plateau. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Amygdalus pedunculata Pall. belongs to the family Rosaceae，which is widely used in vegetation restoration in the transitional zone between Mu Us Desert and Loess Plateau due to its cold and drought tolerance, deep root system and adaptability to a wide range of soil type and water condition (Lu et al., 2O18a, b; Huang et al.,2019; Huang and Shao,2O19). In recent years, local government has promoted the use of A. pedunculata for desertification control in the northern region of Loess Plateau, where there is high heterogeneities in soil and water conditions. In spite of the extensive planting and spread of $A$ . pedunculata for preventing desertification in the transitional zone between Mu Us Desert (mainly sandy soils） and Loess Plateau (mainly loamy soils),it remains unclear in terms of how the plant responds to water stress in soils with different textures. We hypothesize that the responses of water use, biomass production and WUE of $A$ . pedunculata to water stress are affected by soil texture.To test this hypothesis,a soil column experiment was conducted for two different textural soils (sandy soil and loamy soil) and five levels of water treatment ( $90 \\%$ （2 $( \\pm 5 \\% )$ FC (field capacity), $7 5 \\%$ $( \\pm 5 \\% )$ FC, $60 \\%$ （2 $( \\pm 5 \\% )$ FC, $45 \\%$ （204号 $( \\pm 5 \\% )$ FC and $3 0 \\% ( \\pm 5 \\% ) \\mathrm { F C } )$ in four replications at the Shenmu Erosion and Environment Research Station on the northern Loess Plateau, China.The objective of the study was to: (1) determine and compare transpiration water use,biomass production and WUE of $A$ pedunculata under different soil and water conditions；and (2） evaluate the adaptability of the plant for successful ecological construction on the Loess Plateau where there is a high degree of heterogeneity in soil and water conditions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The experiment was conducted at the Shenmu Erosion and Environment Research Station （204号 $( 3 8 ^ { \\circ } 4 6 ^ { \\prime } - 3 8 ^ { \\circ } 5 1 ^ { \\prime } \\mathrm { N }$ ， $1 1 0 ^ { \\circ } 2 1 ^ { \\prime } { - } 1 1 0 ^ { \\circ } 2 3 ^ { \\prime } \\mathrm { E } )$ in Shaanxi Province, China.The study area is part of the wind-water erosion crisscross region on the Loess Plateau. Annual mean temperature is $8 . 4 ^ { \\circ } \\mathrm { C }$ and mean annual precipitation is $4 3 7 ~ \\mathrm { m m }$ with $70 \\%$ precipitation occurring during June-September summer months. The lowest and highest temperatures generally occur in January and July, respectively. The main soil types are Calcaric Regosols, Eutric Regosols, Calcaric Arenosols and Calcaric Fluvisols according to Word Reference Base for Soil References; or Halustepts and Haplocalcids according to Keys to Soil Taxonomy (Mao et al.,2O18), which have developed on loess deposits with a low fertility and loose structure.The main soil textural classes include sand, loamy sand and sandy loam,respectively representing $13 \\%$ ， $17 \\%$ and $70 \\%$ of soils in the region. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Over the past several decades, vegetation in the catchment has been widely restored to control severe soil erosion and degradation.The typical plants used in vegetation restoration in the region include purple alfalfa (Medicago sativa L.), korshinsk peashrub (Caragana korshinskii Kom.) and apricot trees (Prunus armeniaca L.). The abandoned croplands in the catchment are generally covered by natural vegetation such as bunge needlegrass (Stipa bungeana Trin.） and dahurica bush clover (Lespedeza dahurica (Laxm.) Schindl.). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 Experimental design and treatments ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The soil column (PVC, $1 . 2 \\mathrm { m }$ high and $2 5 . 0 \\mathrm { c m }$ in diameter) experiment designed for two textural soils(sandy soil and loamy soil) and five levels of water treatment ( $90 \\%$ （204号 $( \\pm 5 \\% )$ FC, $7 5 \\%$ $( \\pm 5 \\% )$ FC, $60 \\%$ （204号 $( \\pm 5 \\% )$ FC, $45 \\%$ （20 $( \\pm 5 \\% )$ FC and $30 \\%$ （20 $( \\pm 5 \\% )$ FC) was carried out from April to October in 2018.Each treatment had four replicates,giving a total of 4O columns (2 textural soils $\\times 5$ water contents $\\times 4$ replicates). The sandy and loamy soils in the experiment were collected in the Liudaogou catchment. The undisturbed soil samples collected by stainless steel cutting rings were used for measuring soil bulk density (BD)， saturated hydraulic conductivity $( K _ { \\mathrm { s } } )$ and FC. Composite disturbed soil samples were air-dried, ground and passed through $0 . 1 5 { - } 2 . 0 0 ~ \\mathrm { m m }$ nylon sieves for measuring $\\mathsf { p H }$ ，particle size distribution (PSD)，soil organic carbon (SOC)，total nitrogen (TN) and total phosphorus (TP). Soil tests referenced from the Methods for Soil Physical and Chemical Analysis (ISSCAS,1978). The measured basic soil properties are listed in Table 1. The soil samples were air-dried and sieved $( < 2 ~ \\mathrm { m m } )$ to remove stones and roots before filling into the column. Vermiculite was added to the surface soil to limit evaporation and the bottom of each soil column was sealed to prevent water losses.A tube ( $2 ~ \\mathrm { m m }$ in diameter） inserted from the surface to somewhere mid-way through the soil column was used for irigating the soil to prevent crusting of the column soils.A. pedunculata seedlings of similar heights $( 4 5 - 5 0 ~ \\mathrm { c m } )$ and stem diameters ( $\\left( 9 { - } 1 1 \\ \\mathrm { m m } \\right)$ were transplanted into the columns in April 2O17 and fixed to the third strain in each column. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d9b08f866112fc5c669c1803fb110109549dca8b6630216b44d4a56f280b5efc.jpg",
+        "table_caption": [
+            "Table1 Soil physical and chemical properties in the study area "
+        ],
+        "table_footnote": [
+            "Note:BD,bulk density; $K _ { s }$ ，saturated hydraulic conductivity;FC,field capacity;PSD,particle size distribution;SOC,soil organic carbon; TN, total nitrogen; TP, total phosphorus. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Soil type</td><td rowspan=\"2\">BD (g/cm³)</td><td rowspan=\"2\">Ks (10℃,cm/h)</td><td rowspan=\"2\">FC (g/g)</td><td colspan=\"3\">PSD (%)</td><td rowspan=\"2\">SOC (g/kg)</td><td rowspan=\"2\">TN (g/kg)</td><td rowspan=\"2\">SOC/ TN</td><td rowspan=\"2\">TP (g/kg)</td><td rowspan=\"2\">TN/TP</td></tr><tr><td>Clay</td><td>Silt</td><td>Sand</td></tr><tr><td>Sandy soil</td><td>1.65</td><td>13.44</td><td>0.15</td><td>5.15</td><td>31.28</td><td>63.58</td><td>2.07</td><td>1.32</td><td>1.57</td><td>1.38</td><td>0.96</td></tr><tr><td>Loamy soil</td><td>1.36</td><td>8.23</td><td>0.27</td><td>13.88</td><td>51.13</td><td>34.99</td><td>3.49</td><td>1.54</td><td>2.27</td><td>1.67</td><td>0.74</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The sandy soil was labelled A and the loamy soil was labeled B in the study. Five levels of water treatment were selected because the range of average soil water content in wet years in the study area was $4 7 \\% - 6 0 \\%$ of FC and that in dry years was $3 2 \\% 4 7 \\%$ of FC.Water treatments were abbreviated as $\\mathbf { W } _ { 1 }$ 0 $90 \\%$ $( \\pm 5 \\% )$ FC), $\\mathbf { W } _ { 2 }$ ( $7 5 \\%$ （ $( \\pm 5 \\% )$ FC), ${ \\bf W } _ { 3 }$ (60 $( \\pm 5 \\% )$ FC), $\\mathrm { \\Delta W _ { 4 } }$ ( $45 \\%$ （204号 $( \\pm 5 \\% )$ FC）and $\\mathrm { w } _ { 5 }$ 0 $30 \\%$ $( \\pm 5 \\% )$ FC).The corresponding gravimetric water contents were 0.125-0.139,0.102-0.117, 0.080-0.095,0.058-0.073 and $0 . 0 3 6 { \\mathrm { - } } 0 . 0 5 1 ~ \\mathrm { g / g }$ for the sandy soil and 0.229-0.256,0.189-0.216, 0.149-0.176, 0.108-0.135 and $0 . 0 6 7 { - } 0 . 0 9 4 ~ \\mathrm { g / g }$ for the loamy soil, respectively. The permanent wilting point of $A$ . pedunculata grown in the sandy and loamy soils was $1 5 . 8 \\%$ and $2 2 . 8 \\%$ FC (less than the lowest water treatment of $30 \\%$ FC),respectively (Pei et al., 2018). Thus, $A$ : pedunculata can survive under the lowest water treatment ( $30 \\%$ FC). The values of BD in the sandy and loamy soils were 1.65 and $1 . 3 6 ~ \\mathrm { g } / \\mathrm { c m } ^ { 3 }$ ，respectively. The initial water contents in the loamy and sandy soils used in the experiment were O.O6O and $0 . 0 3 4 ~ \\mathrm { g / g } ,$ respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The amount of water added to the columns was calculated by subtracting the weight of fresh plant, the vermiculite cover on the soil surface and irrigation tube from the total weight of the column and dividing that by the dry weight of sandy or loamy soil. To avoid destroying $A$ pedunculata seedlings，we used the heterokinetic growth formula to estimate the aboveground plant biomass.The aboveground plant dry weight $( B _ { \\mathrm { a } } , \\mathrm { g } )$ was allometrically estimated from the stem diameter $( D )$ and height $( H )$ (Feng et al.,1999): ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ln ( B _ { \\mathrm { a } } ) { = } \\mathrm { a } { \\times } \\ln ( D ^ { 2 } H ) { + } \\mathrm { b } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where a and b are O.94 and 1.45 in the experiment, respectively;and $H$ and $D$ are the observed values of plant height (cm) and stem diameter $( \\mathrm { m m } )$ using measuring tape and vernier calipers, respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The biomass (fresh weight obtained from estimated $H$ and $D$ ）of the aboveground part of $A$ pedunculata increased by about $1 0 \\ \\mathrm { g }$ per day.As such, the $H$ and $D$ were measured once a week. The soil columns were weighed after $2 { \\ - } 4 \\mathrm { d }$ .Water was added to the columns until the upper limit of the water content reached in each treatment. The water content of the upper limit represented the mean value during the observed period. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 Data collection ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Water consumption by transpiration was calculated by the water balance method using the difference between two weights of soil column before and after water addition. The daily transpiration rate was calculated as the average water consumption over a period of $2 { - } 4 \\mathrm { ~ d ~ }$ The aboveground biomass of $A$ .pedunculata increased by $9 . 2 \\ \\mathrm { g }$ per day on average in the peak growth season (from June to August in 2O18),which was much lower than the average daily water consumption $( 1 3 9 . 0 \\ \\mathrm { g } )$ . Thus,changes in A. pedunculata biomass was ignored as the weight changed little during the $3 { - } 5 \\mathrm { d }$ period relative to the change in water content. Mi et al.(2O16) also ignored the change in $C .$ .korshinskii biomass over a period of $2 { \\ - } 4 \\mathrm { ~ d ~ }$ in their column experiment. Free pan water evaporation was measured using plastic bucket with internal diameter of $2 5 \\ \\mathrm { c m }$ and height of $3 0 \\ \\mathrm { c m }$ ,filled with water to represent the same environmental conditions during the experiment. The experiment was carried out during the growing season of A. pedunculata, lasting from April to October in 2018. $H$ and $D$ were measured once a month.At the end of the experiment, the stems and leaves of the plants were collected and the columns were dissected to collect plant roots. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4 Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "One-way analysis of variance (ANOVAs） was used to examine the significant differences in water content, transpiration，plant growth and biomass among different treatments. The least significant difference (LSD) test was done if the difference was found to be significant. The data were analyzed in SPSS v16.O software (Inter-national Business Machines Corporation (IBM), USA). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3Results and discussion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Soil water content ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The ranges and average values of soil water content for each water treatment in the experiment are shown in Table 2. There were significant differences in average soil water content among different water treatments in both sandy and loamy soils $( P { < } 0 . 0 5 )$ . Result showed that average soil water content was significantly higher in the loamy soil than in the sandy soil for the same water treatment $( P { < } 0 . 0 5 )$ . This was attributed to the differences in FC of the investigated soil types (Table 1).The coefficient of variation for soil water content as a function of time for each treatment was less than O.14 and the mean standard error was O.O2. The average soil water contents were controlled and maintained at desired values by weighing the columns and adding water every $2 { - } 4 \\mathrm { d }$ during the experiment. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 Water consumption ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Dynamic changes in daily transpiration of A. pedunculata under different water treatments in the sandy and loamy soils are shown in Figure 1. The values of daily and cumulative transpiration under different treatments were compared in ANOVAs (at $9 5 \\%$ confidence interval). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Daily transpiration consistently increased with increasing soil water content from $30 \\%$ to $7 5 \\%$ FC (i.e., $\\mathrm { A W } _ { 5 ^ { - } } \\mathrm { A W } _ { 2 }$ ， $\\mathbf { B } \\mathbf { W } _ { 5 ^ { - } } \\mathbf { B } \\mathbf { W } _ { 2 }$ ）and then decreased under $90 \\%$ FC (i.e., $\\mathbf { A W } _ { 1 }$ and $\\mathbf { B W } _ { 1 } \\mathbf { \\Phi } _ { }$ ）inboth sandy and loamy soils (Fig. 1; Table 3). Plants grown in soils with water contents of $90 \\%$ FC and $30 \\%$ FC( $\\mathbf { A W } _ { 5 }$ and $\\mathbf { B W } _ { 5 } ,$ had $2 2 . 5 \\% - 4 1 . 8 \\%$ and $5 . 3 \\% - 7 4 . 3 \\%$ less transpiration than soils treated with $7 5 \\%$ FC( $\\mathbf { A } \\mathbf { W } _ { 2 }$ and $\\mathbf { B W } _ { 2 } \\mathbf { \\Psi } ,$ ).Our results showed that plant transpiration was higher under intermediate water condition ( $7 5 \\%$ FC) irrespective of soil texture. This is in agreement with the findings by Taghvaeian et al. (2O14) in a study of plant response to water stress in terms of transpiration. The decline of plant transpiration in soils under well-watered and severe-drought conditions relative to that under moderate water deficit was attributed to the difference in the activity of transpiration for regulating stomatal response (Kiani et al.,2Oo7; Mathobo et al., 2017). Significant differences were observed in mean daily transpiration for treatments with water contents less than $7 5 \\%$ FC either in the sandy $( \\mathsf { A W } _ { 3 }$ ， $\\mathrm { A W } _ { 4 }$ and $\\mathbf { A W } _ { 5 }$ ）ortheloamy $( \\mathbf { B } \\mathbf { W } _ { 3 }$ ， $\\mathbf { B W _ { 4 } }$ （204号 and $\\mathbf { B W } _ { 5 } ,$ ） soil (Table 3).However, daily transpiration did not significantly differ between $\\mathbf { A } \\mathbf { W } _ { 2 }$ （204号 and $\\mathbf { A W } _ { 3 }$ in the sandy soil and among $\\mathbf { B W } _ { 1 }$ $\\mathbf { B W } _ { 2 }$ and $\\mathbf { B W } _ { 3 }$ in the loamy soil. Maintaining similar daily transpiration under the higher soil water condition was reasonable,even though the soil water content significantly differed. This is because various physiological indices (e.g., transpiration rate, photosynthetic rate and plant height) decrease until soil water content falls below a threshold value (Wu et al., 2O1la, b). In addition, the threshold values not only vary in different plants but also in the same plant grown in different textural soils (Pei et al.,2019). Mean daily transpiration of plants in the sandy soil was significantly lower than that of plants in the loamy soil under well-watered condition ( $90 \\%$ FC)(Table 3).In contrast,higher mean daily transpiration was observed for plants in the sandy soil than in the loamy soil under water deficit conditions( $45 \\%$ and $30 \\%$ FC)(Table 3). There was no significant difference in mean daily transpiration between the sandy and loamy soils with $7 5 \\%$ and $60 \\%$ FC(Table 3). The maximum mean daily transpiration of $A$ . pedunculata in the sandy soil $( 0 . 1 9 6 \\mathrm { k g } )$ was lower than that in the loamy soil $( 0 . 2 1 0 ~ \\mathrm { k g } )$ under $7 5 \\%$ FC $( \\mathsf { A W } _ { 2 }$ and $\\mathbf { B W } _ { 2 } \\mathbf { \\Psi } ,$ ).However，the minimum mean daily transpiration of $A$ ：pedunculata in the sandy soil $( 0 . 1 1 4 ~ \\mathrm { k g } )$ was much higher than that in the loamy soil $( 0 . 0 5 4 \\mathrm { k g } )$ under $30 \\%$ FC( $\\mathbf { A W } _ { 5 }$ and $\\mathbf { B W } _ { 5 }$ ）(Table 3). Similar trends were observed for cumulative transpirations in the sandy and loamy soils under different water treatments (Table 3). Thus, $A$ . pedunculata in the sandy soil is more tolerant to drought than that in the loamy soil, but it grows better under well-watered condition in the loamy soil than in the sandy soil. The results suggest that $A$ . pedunculata has differential responses to water stress in terms of transpiration under different textural soils.This could be related with variations in water hydraulic conductivity in the sandy and loamy soils under different water treatments (Li et al., 2OO2; Zarebanadkouki et al., 2015) that in turn affected A. pedunculata root water uptake,WUE and plant transpiration. Mi et al. (2O16) also found that changes in hydraulic conductivity of soils due to the addition of rock fragments resulted in fluctuations in plant transpiration. In addition, differences between the sandy and loamy soils in terms of nutrient content and the related stoichiometric ratios (Table 1) may also affect plant growth and transpiration (Duong et al., 2O12; Alberti et al., 2015). ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/df27cd0bba7834e9dc9c7d591eaf034356cbaa8e5d3ef7eda997a98f89f1225c.jpg",
+        "table_caption": [
+            "Table 2Soil water contents under different textural soils and water treatments "
+        ],
+        "table_footnote": [
+            "Note:A and B represent the sandy and loamy soils,respectively; $\\mathbf { W } _ { 1 }$ $\\mathbf { W } _ { 2 }$ $\\mathbf { W } _ { 3 }$ $\\mathrm { \\overline { { W } } _ { 4 } }$ and $\\mathrm { w } _ { 5 }$ denote the five levels of water treatment, which are respectively $90 \\%$ （204号 $( \\pm 5 \\% )$ FC (field capacity), $7 5 \\%$ （20 $( \\pm 5 \\% )$ FC, $60 \\%$ （204号 $( \\pm 5 \\% )$ FC, $45 \\%$ $( \\pm 5 \\% )$ FC and $30 \\%$ （204号 $( \\pm 5 \\% )$ FC. "
+        ],
+        "table_body": "<html><body><table><tr><td>Soil type</td><td>Water treatment</td><td>Range of soil water content (g/g)</td><td>Average soil water content (g/g)</td></tr><tr><td>Sandy soil</td><td>AW1</td><td>0.125-0.139</td><td>0.132</td></tr><tr><td rowspan=\"10\"></td><td>AW2</td><td>0.102-0.117</td><td>0.110</td></tr><tr><td>AW3</td><td>0.080-0.095</td><td>0.088</td></tr><tr><td>AW4</td><td>0.058-0.073</td><td>0.066</td></tr><tr><td>AW5</td><td>0.036-0.051</td><td>0.044</td></tr><tr><td>Loamy soil BW1</td><td>0.229-0.256</td><td>0.243</td></tr><tr><td>BW2</td><td>0.189-0.216</td><td>0.203</td></tr><tr><td>BW3</td><td>0.149-0.176</td><td>0.162</td></tr><tr><td>BW4</td><td>0.108-0.135</td><td>0.122</td></tr><tr><td>BW5</td><td>0.067-0.094</td><td>0.081</td></tr><tr><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b2f6f3e611e9e50f47885fb1bd39e1200426443ee208f93aedea02a636d4fcb.jpg",
+        "img_caption": [
+            "Fig.1Daily evaporation (a) and transpiration (b and c) from May to September in 2O18.Aand B represent the sandy soil and loamy soil,respectively. $\\mathbf { W } _ { 1 }$ ， $\\mathbf { W } _ { 2 }$ ， $\\mathrm { W } _ { 3 }$ $\\mathrm { \\overline { { W } } } _ { 4 }$ and $\\mathrm { w } _ { 5 }$ denote the five levels of water treatment,which are respectively $90 \\%$ （204号 $( \\pm 5 \\% )$ FC (field capacity), $7 5 \\%$ （204号 $( \\pm 5 \\% )$ FC, $60 \\%$ （204号 $( \\pm 5 \\% )$ FC, $45 \\%$ （204号 $( \\pm 5 \\% )$ FC and $30 \\%$ （204号 $( \\pm 5 \\% )$ FC. $\\mathsf { A W } _ { \\mu }$ and $\\mathbf { B W } _ { \\mu }$ respectively represent mean daily transpiration of the sandy soil and loamy soil under diferent water treatments.The abbreviations are the same as in Figures 2-4.Bars represent standard errors. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3 $\\pmb { H }$ and $\\pmb { D }$ ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Dynamicchangesin $H$ and $D$ of $A$ .pedunculata underdifferent water treatments in the sandy and loamy soils are shown in Figure 2. A. pedunculata in the sandy and loamy soils showed different growth trends with increasing intensity of water stress (Fig. 2). In the sandy soil, plants grown under $60 \\%$ FC and $45 \\%$ FC( $\\mathbf { \\nabla } _ { \\mathbf { A } } \\mathbf { W } _ { 3 }$ and $\\mathrm { A W } _ { 4 }$ ）weretallerandhadlarger $D$ values than those under other water treatments $( \\mathsf { A W } _ { 1 }$ ， $\\mathbf { A } \\mathbf { W } _ { 2 }$ and $\\mathsf { A W } _ { 5 }$ ).In the loamy soil, however, $H$ and $D$ decreased with decreasing water content. The discrepancy in $H$ and $D$ among different water treatments increased at the end of growing season in both sandy and loamy soils (Fig. 2). Thus, $A$ pedunculata grows better under moderate water deficit ( $60 \\%$ FC)in the sandy soil or under well-watered condition （ $90 \\%$ FC) in the loamy soil. The cause of this discrepancy is,however, not completely understood. This is partly due to the difficulty in separating the effects of interrelated factors, such as physical impedance to root growth， soil gas exchange，water availability and nutrient uptake under different soil and water conditions. In addition, $A$ pedunculata grew under well-watered condition may require more nutrients for growth. This may also explained that why A. pedunculata grew better either under moderate water deficit in the infertile sandy soil or under well-water condition in the fertile loamy soil. Thus,balancing water and nutrient supply is critical to $A$ :pedunculata in different soil textures.Further study is needed to investigate the relative impacts of all such factors on the variations in plant growth under different water conditions in the sandy and loamy soils. Significant differences in $H$ and $D$ were observed among $\\mathbf { A } \\mathbf { W } _ { 1 }$ ， $\\mathbf { A } \\mathbf { W } _ { 2 }$ and $\\boldsymbol { \\mathrm { A W } } _ { 3 }$ treatments in the sandy soil and among $\\mathbf { B W } _ { 1 }$ ， $\\mathbf { B W } _ { 2 }$ and $\\mathbf { B W } _ { 3 }$ treatments in the loamy soil at the end of growing season (Table 4). However, $H$ and $D$ did not significantly differ between $\\mathrm { A W } _ { 4 }$ and $\\mathsf { A W } _ { 5 }$ in the sandy soil and between $\\mathrm { \\Delta B W _ { 4 } }$ and $\\mathbf { B W } _ { 5 }$ in the loamy soil (Table 4). Our results suggested that A. pedunculata grown in the sandy soil was more adaptable to water stress than that in the loamy soil (Table 1). This further confirmed that $A$ ： pedunculata was highly tolerant to drought and can be used for desertification control (Lu et al., ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/1a55a80d9fd5c665d3d05d0f52ae5c592745fc570a55b830fef8ec6db8bd9305.jpg",
+        "table_caption": [
+            "Table 3Mean daily and cumulative transpirations under different textural soils and water treatments "
+        ],
+        "table_footnote": [
+            "Note:A and B represent the sandy soil and loamy soil,respectively. $\\mathbf { W } _ { 1 }$ $\\mathbf { W } _ { 2 }$ $\\mathbf { W } _ { 3 }$ $\\mathrm { \\overline { { W } } } _ { 4 }$ and ${ \\sf W } _ { 5 }$ denote the five levels of water treatment, which are respectively $9 0 \\%$ （204号 $( \\pm 5 \\% )$ FC (field capacity), $7 5 \\%$ $( \\pm 5 \\% )$ FC, $60 \\%$ （ $( \\pm 5 \\% )$ FC, $45 \\%$ （20 $( \\pm 5 \\% )$ FC and $30 \\%$ （204号 $( \\pm 5 \\% )$ FC.Different lowercase lettrs within the same column indicate significant differences among different treatments at $P { < } 0 . 0 5$ level.Mean $\\pm \\mathrm { S E }$ "
+        ],
+        "table_body": "<html><body><table><tr><td>Soil type</td><td>Water treatment</td><td>Mean daily transpiration (kg)</td><td>Cumulative transpiration (kg)</td></tr><tr><td>Sandy soil</td><td>AW1</td><td>0.152±0.020a</td><td>16.66±0.513a</td></tr><tr><td rowspan=\"9\"></td><td>AW2</td><td>0.195±0.039b</td><td>21.78±1.157b</td></tr><tr><td>AW3</td><td>0.196±0.021b</td><td>21.76±0.873bcd</td></tr><tr><td>AW4</td><td>0.179±0.040c</td><td>19.52±0.752cd</td></tr><tr><td>AW5</td><td>0.114±0.021e</td><td>12.08±0.664f</td></tr><tr><td>Mean</td><td>0.147</td><td>18.36</td></tr><tr><td>BW1</td><td>0.199±0.027b</td><td>21.04±0.996b</td></tr><tr><td>BW2</td><td>0.210±0.036b</td><td>22.36±0.574bc</td></tr><tr><td>BW3</td><td>0.192±0.024b</td><td>20.20±0.637d</td></tr><tr><td>BW4</td><td>0.090±0.016d</td><td>9.16±0.344e</td></tr><tr><td></td><td>BW5</td><td>0.054±0.014f</td><td>5.50±0.218g</td></tr><tr><td></td><td>Mean</td><td>0.132</td><td>15.65</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d96538ddfad4a8f7a68cf997261a34d203188497c9fee27b3e6153264dad90dd.jpg",
+        "img_caption": [
+            "Fig.2Plant height(a and b) and stem diameter(c and d) of $A$ .pedunculata fromMayto September in 2018 under different textural soils and water treatments.Bars represent standard errors. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2018a, b). Consequently, there is recently an increased planting of A. pedunculata for controlling desertification in the Mu Us Desert in the northern region of the Loess Plateau (Wang et al., 2018; Huang et al., 2019). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "At the end of the growing season, $H$ and $D$ were significantly lower in the sandy soil than in the loamy soil under well-watered condition（ $90 \\%$ FC)(Table 4).In contrast, there were higher $H$ and $D$ in the sandy soil than in the loamy soil under moderate water deficit ( $60 \\%$ FC) (Table 4). There was no significant difference in $H$ and $D$ between the sandy and loamy soils under $45 \\%$ and $30 \\%$ FC (Table 4). The maximum $H$ $( 7 3 . 5 \\mathrm { c m } )$ in the sandy soil under $60 \\%$ FC $( \\mathsf { A W } _ { 3 } )$ was much lower than that in the loamy soil $( 8 9 . 6 \\mathrm { c m } )$ under $90 \\%$ FC $( \\mathsf { B W } _ { 1 } )$ . Also, the minimum $H$ （204号 $( 4 6 . 3 \\mathrm { c m } )$ （204 in the sandy soil under $90 \\%$ FC $( \\mathsf { A W } _ { 1 } )$ was lower than that in the loamy soil $( 5 7 . 1 \\mathrm { c m } )$ under $60 \\%$ FC $\\left( \\mathrm { B W } _ { 5 } \\right)$ (Table 4). Similar trends were observed for $D$ in the sandy and loamy soils under different water treatments (Table 4). The results showed that soil texture might have greater impacts on A. pedunculata growth than water stress.Tramontini et al. (2O13) also noted that soil texture influenced the growth response of grape-berry under different levels of water stress. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/c464fd73acdb70e9578ace2562a1a517444990c778d73b92392e65fda0927a97.jpg",
+        "table_caption": [
+            "Table 4Plant height $( H )$ and stem diameter $( D )$ under different textural soils and water treatments at the end of the growing season "
+        ],
+        "table_footnote": [
+            "Note:A and B represent the sandy soil and loamy soil, respectively. $\\mathbf { W } _ { 1 }$ $\\mathbf { W } _ { 2 }$ $\\mathbf { W } _ { 3 }$ $\\mathrm { \\Delta W _ { 4 } }$ and ${ \\sf W } _ { 5 }$ denote the five levels of water treatment, which are respectively $9 0 \\%$ （204号 $( \\pm 5 \\% )$ FC (field capacity), $7 5 \\%$ $( \\pm 5 \\% )$ FC, $60 \\%$ （ $( \\pm 5 \\% )$ FC, $45 \\%$ （204号 $( \\pm 5 \\% )$ FC and $30 \\%$ （204号 $( \\pm 5 \\% )$ FC.Different lowercase letters within the same column indicate significant difference among diferent treatments at $P { < } 0 . 0 5$ level. Mean±SE. "
+        ],
+        "table_body": "<html><body><table><tr><td>Soil type</td><td>Water treatment</td><td>H (cm)</td><td>D (mm)</td></tr><tr><td>Sandy soil</td><td>AW1</td><td>46.3±3.5a</td><td>9.25±0.62a</td></tr><tr><td rowspan=\"7\"></td><td>AW2</td><td>61.2±4.7b</td><td>10.78±0.38a</td></tr><tr><td>AW3</td><td>73.5±5.2°</td><td>12.94±0.51b</td></tr><tr><td>AW4</td><td>66.2±5.1b</td><td>12.30±0.47b</td></tr><tr><td>AW5</td><td>58.5±4.3b</td><td>9.35±0.21a</td></tr><tr><td>BW1</td><td>89.6±7.8d</td><td>14.87±0.98</td></tr><tr><td>BW2</td><td>74.5±6.7℃</td><td>11.62±0.67ab</td></tr><tr><td>BW3</td><td>50.5±4.8a</td><td>10.62±0.43b</td></tr><tr><td></td><td>BW4</td><td>57.8±3.2ab</td><td>8.42±0.23a</td></tr><tr><td></td><td>BW5</td><td>57.1±2.8ab</td><td>8.35±0.20a</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.4 Biomass accumulation ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Aboveground, belowground and total biomasses of $A$ :pedunculata at the end of growing season under different water conditions in the sandy and loamy soils are shown in Figure 3.A. pedunculata in the sandy and loamy soils had different patterns of biomass accumulation and partitioning with increasing intensity of water stress (Fig. 3). In the sandy soil, the highest aboveground, belowground and total biomasses were observed under $60 \\%$ FC $( \\mathsf { A W } _ { 3 } )$ ， $7 5 \\%$ FC $( \\mathsf { A W } _ { 2 } )$ and $60 \\%$ FC $( \\mathsf { A W } _ { 3 } )$ ，respectively. The lowest total and component (aboveground or belowground) biomasses in the sandy soil occurred under $90 \\%$ FC(AWi） water treatment.In the loamy soil, however, the highest aboveground, belowground and total biomasses were observed under $90 \\%$ FC $( \\mathsf { B W } _ { 1 } )$ ， $7 5 \\%$ FC $\\left( \\mathbf { B } \\mathbf { W } _ { 2 } \\right)$ and $7 5 \\%$ FC $( \\mathsf { B W } _ { 2 } )$ ，respectively. The lowest total and component biomasses in the loamy soil occurred under $30 \\%$ FC $( \\mathrm { B W } _ { 5 } )$ (Fig.3).This further confirmed that $A$ ：pedunculata grew better under moderate water deficit $( 6 0 \\% - 7 5 \\%$ FC)in the sandy soil or under well-watered condition ( $7 5 \\% - 9 0 \\%$ FC) in the loamy soil. Zhou et al. (2016) and Qin et al. (2O16) also found that moderate drought stress in the sandy soil could improve plant growth and increase crop yield. Inhibition of plant growth due to water stress,however, has generally been observed in the loamy and clay soils (Quick et al.,1992; Liu et al.,2013; Verslues, 2017).Significant differences were observed between $60 \\%$ FC $( \\mathsf { A W } _ { 3 } )$ and $90 \\%$ FC $( \\mathsf { A W } _ { 1 } )$ （204 treatments in terms of aboveground,belowground and total biomasses in the sandy soil and between $7 5 \\%$ FC $( \\mathsf { B W } _ { 2 } )$ and $30 \\%$ FC $( \\mathrm { B W } _ { 5 } )$ treatments in the loamy soil at the end of growing season (Fig.3). However, aboveground,belowground and total biomasses did not significantly differ between $\\mathrm { \\ A W _ { 4 } }$ and $\\mathbf { A W } _ { 5 }$ in the sandy soil and between $\\mathrm { \\Delta B W _ { 4 } }$ and $\\mathbf { B W } _ { 5 }$ in the loamy soil (Table 4). Our results suggested that $A$ ：pedunculata grown in the loamy soil needed more water to support growth than that grown in the sandy soil. This has significant implications for vegetation restoration on the Loess Plateau. Considering the variations in A. pedunculata growth in the sandy and loamy soils with increasing water stress intensity, it is recommended to plant $A$ pedunculata in the sandy soil with relatively low water content in the arid region or in the loamy soil with relatively high water content in the semi-humid region on the Loess Plateau. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The total biomass in the sandy soil was significantly lower than that in the loamy soil under well-watered condition ( $90 \\%$ FC; Fig.3). In contrast, higher biomass was observed in the sandy soil than in the loamy soil under moderate water deficit ( $60 \\%$ FC；Fig. 3). There were no significant differences in biomass accumulation between the sandy sand loamy soils under $7 5 \\%$ $45 \\%$ and $30 \\%$ FC (Fig.3). The maximum aboveground biomass in the sandy soil under $60 \\%$ FC $( \\mathsf { A W } _ { 3 } )$ was lower than that in the loamy soil $( 3 0 . 5 5 \\ \\mathrm { g } )$ under $90 \\%$ FC $( \\mathsf { B W } _ { 1 } )$ .However, the minimum aboveground biomass $( 1 3 . 0 7 \\ \\mathrm { g } )$ in the sandy soil under $90 \\%$ FC $( \\mathsf { A W } _ { 1 } )$ was higher than that in the loamy soil $( 8 . 2 2 ~ \\mathrm { g } )$ under $30 \\%$ FC $( \\mathrm { B W } _ { 5 } )$ (Fig. 3). Similar trends were observed for changes in belowground and total biomass in the sandy and loamy soils under different water conditions (Fig. 3). Our results demonstrated that both soil texture and water stress affected $A$ ： pedunculata growth and biomass accumulation. However, the relative degree of impact of texture and water content on plant growth varied with water treatments. This is in agreement with the findings of Roncucci et al. (2015） and $\\mathrm { w } _ { \\mathrm { u } }$ et al.(2O1la),who found that differences in plant growth were mainly caused by soil texture under wel-watered condition and by water content under high level of water stress. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/6b675868d9a1ca120a7d316556f302a67b3a7e70b13af04a9a5e3165d52bc171.jpg",
+        "img_caption": [
+            "Fig.3Aboveground (a)and belowground (b） biomasses,total biomass (c）and root to shoot ratio(d) of $A$ pedunculata under different textural soils and water treatments. Diferent lowercase lettrs represent significant differences among different water treatments within the same soil texture at $P { < } 0 . 0 5$ level. Bars represent standard errors. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.5 WUE ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "As an important factor,WUE determines plant yield especially in drought environments (Blum, 2009; Jin et al., 2O19). In this study,WUE was calculated as the ratio of total biomass produced (sum of aboveground and belowground biomasses） to consumed water (transpiration). WUE under different water conditions in the sandy and loamy soils is shown in Figure 4.A. pedunculata in the sandy and loamy soils showed similar increase in WUE with increasing intensity of water stress. It initially increased with decreasing water content from $90 \\%$ to $7 5 \\%$ FC and then decreased under $45 \\%$ and $30 \\%$ FC in both sandy and loamy soils.The mean WUE under different water conditions was higher in the sandy ( $\\left( 1 . 9 7 ~ \\mathrm { g } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { m m } ) \\right)$ soil than in the loamy（1.74 $\\mathbf { g } / ( \\mathbf { m } ^ { 2 } { \\cdot } \\mathbf { m m } ) )$ soil (Fig. 4). This indicated that WUE of the plant increased under moderate water stress (e.g., $\\boldsymbol { \\mathrm { A W } } _ { 3 }$ and $\\mathbf { B W } _ { 3 } \\mathbf { \\dot { \\Phi } }$ ),but decreased under severe water deficit (e.g., $\\mathsf { A W } _ { 5 }$ and $\\mathbf { B W } _ { 5 } \\mathbf { \\dot { \\Psi } }$ ). This is in agreement with previous studies of WUE under different water conditions, irrespective of the vegetation type (Lei et al.,2018; Korup et al.,2018). Katerji and Mastrorilli (2009) studied WUE for six irrigated crops in different textural soils and showed that plants grown in the loamy soil had a higher WUE than those grown in the clay soil. The observed discrepancy in WUE in different textural soils was atributed to the differences in soil properties (e.g., porosity, hydraulic conductivity and nutrients） that afect plant growth and transpiration (Tramontini et al., 2013). Significant differences were observed in WUE among $90 \\%$ FC $( \\mathsf { A W } _ { 1 } )$ ， $7 5 \\%$ FC $( \\mathsf { A W } _ { 2 } )$ and $60 \\%$ （204号 FC $( \\mathsf { A W } _ { 3 } )$ treatments in the sandy soil and among $90 \\%$ FC $( \\mathsf { B W } _ { 1 } )$ ， $60 \\%$ FC $( \\mathsf { B W } _ { 3 } )$ and $30 \\%$ FC $( \\mathrm { B W } _ { 5 } )$ treatments in the loamy soil (Fig.4).However,WUE did not differ significantly between $90 \\%$ FC $( \\mathsf { A W } _ { 1 } )$ and $30 \\%$ FC $( \\mathsf { A W } _ { 5 } )$ treatments in the sandy soil and between $90 \\%$ FC $( \\mathsf { B W } _ { 1 } )$ and $45 \\%$ FC (BW4) treatments in the loamy soil (Fig. 4). Our results suggested that continuous higher water supply or sustained water deficit can significantly decrease WUE, providing a vital guide on water management during vegetation restoration on the Loess Plateau. Studies at both plot and regional scales showed that a certain threshold of soil moisture existed for WUE. Lu and Zhuang (2010) noted that WUE increased with decreasing soil moisture under moderate drought condition, whereas it decreased with decreasing soil moisture under severe drought condition. Therefore, consideration of site condition and plant water demand is critical to improve WUE on the Loess Plateau. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In the sandy soil, WUE was significantly higher than that in the loamy soil under higher water stresses ( $60 \\%$ ， $45 \\%$ and $30 \\%$ FC)(Fig.4).In contrast, there were no significant differences in WUE between the sandy and loamy soils under $90 \\%$ and $7 5 \\%$ FC (Fig. 4). The maximum WUE in the sandy soil under $60 \\%$ FC $( \\mathsf { A W } _ { 3 } )$ was higher than that in the loamy soil $( 2 . 3 5 ~ \\mathrm { g } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { m m } ) )$ （204号 under $7 5 \\%$ FC $( \\mathsf { B W } _ { 2 } )$ . In contrast, the minimum WUE $( 1 . 2 9 ~ \\mathrm { g } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { m m } ) )$ in the sandy soil under $30 \\%$ FC $( \\mathsf { A W } _ { 5 } )$ was comparable to that in the loamy soil $( 1 . 0 8 ~ \\mathrm { g } / ( \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { m m } ) )$ under $30 \\%$ FC $\\left( \\mathrm { B W } _ { 5 } \\right)$ (Fig. 4). Although the response of WUE to water stress has been extensively studied in the past several decades (Katerji and Mastrorilli,2OO9; Mi et al., 2016),the effect of soil texture on WUE under different water conditions is rarely examined. Our study showed that $A$ pedunculata grown in the sandy and loamy soils had different WUEs under the same water treatment. This suggested that both water conditions and soil texture should be considered when planting $A$ . pedunculata on the Loess Plateau. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/9a64f6fe6dc4f18bda450855d8cd85b5506c4b9e90d489439e4eac89b5e048ca.jpg",
+        "img_caption": [
+            "Fig.4Water use efficiency (WUE) of A. pedunculata under different textural soils and water treatments. Different lowercase lettrs indicate significant diferences among diferent water treatments within the same soil texture at $P { < } 0 . 0 5$ level. The horizontal dashed line represents mean WUE under different water treatments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Studies on the response of plant growth to environmental conditions have largely focused on a single plant or environmental stress. For example, Mi et al. (2O16) used Caragana microphylla to study the role of rock fragments in WUE and water consumption，but the effects of rock fragments on plant characteristics can be species-specific. Qin et al. (2Ol6) studied the growth strategies of different types of Ulmus pumila and Robinia pseudoacacia under water stress conditions on the Loess Plateau,but failed to consider the effect of soil texture.Different plants (including trees, grasses and crops) respond differentially to different soil texture and water stress conditions because of different growth characteristics and water/nutrient demands.Further comprehensive studies are therefore needed to supplement existing information on the response of plant species to soil texture and water stress,and the applicability of the results of this study to other plant species. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.6 Implications ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In the northern region of the Loess Plateau,especially in the arid and semi-arid zones,efficient use of water resources is critical for sustainable plant growth. Plant water use strategy is controlled by many factors,including soil properties,water condition and functional plant root 0 $\\mathrm { \\Delta Y u }$ et al.,2O15; Tang et al.,2O18). The effect of soil texture and water conditions on the growth of A. pedunculata was analyzed in this study.The aim was to provide scientific basis for rational revegetation of the arid/semi-arid regions of the Loess Plateau with the high soil and water heterogeneity. Our study showed that there was differential response of $A$ .pedunculatatowater stress in different textural soils. Based on measured transpiration, biomass accumulation and WUE,A. pedunculata was adaptable to sandy soil conditions with a relatively low water content $( 3 0 \\mathrm { - } 6 0 \\%$ FC) or to loamy soil conditions with a high water content ( $56 0 \\%$ FC). This suggested that A. pedunculata grown in the sandy soil was more tolerant to water stress, while that grown in the loamy soil had greater water consumption and higher water demand. Tramontini et al. (2013) argued that soil properties such as texture (as non-negligible factors）were important for plant growth, especially in drought conditions. Su et al. (2O15) also showed that soil texture was critical for biomass accumulation in managed vegetation in arid and semi-arid regions. Soil texture was the key factor that controlled plant transpiration, growth, WUE and their response to water stress. This was crucial for rational vegetation and improved WUE on the Loess Plateau, especially in the water-wind erosion crisscross region with high soil water heterogeneity. With respect to planting A. pedunculata on the Loess Plateau, the recommended condition for sustainable growth and high WUE is either arid sandy soil or moist loamy soil. The column used in the study, however, may inhibit root growth due to limited space.Field verification of the experimental data is thus required before extrapolation of the results to the natural environment. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4 Conclusions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "A column experiment was used to investigate the effects of soil texture (sandy and loamy) under different water conditions on the water consumption，WUE and biomass accumulation of $A$ pedunculata in the transitional zone between Mu Us Desert and Loess Plateau, China. The plant transpiration, biomass production and WUE responded differentially to increasing intensity of water stress in the sandy and loamy soils.A. pedunculata grown in the loamy soil required more water to support growth than that grown in the sandy soil. Thus,it is recommended to plant $A$ ： pedunculata in the arid sandy soil or moist loamy soil. Balancing water and nutrient supply is also critical to A. pedunculata growth in different soil textures. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This study was funded bythe National Natural Science Foundation of China (41601221),the Ministryof Science and Technology of China (2016YFCO501605),the Second Tibetan Plateau Scientific Expedition and Research Program (2019QZKK0306)，the Strategic Priority Research Program of Chinese Academy of Sciences (XDA23070202),the Youth Innovation Promotion Association of Chinese Academy of Sciences (2019052), the Bingwei Outstanding Young Talent Project from the Institute of Geographical Sciences and Natural Resources Research, Chinese Academy of Sciences (2017RC203),and the Scientific Research Program from State Key Laboratory of Soil Erosion and Dryland Farming on the Loess Plateau,Institute of Soil and Water Conservation, Chinese Academy of Sciences & Ministry of Water Resoures (A314021402-1602，A314021402-2010).We thank Dr.WU Yuanzhi and Mr.LI Ronglei for their help during the experiment. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Alberti G,Vicca S,InglimaI,etal.2O15.SoilC:Nstoichiometrycontrolscarbonsinkpartitioningbetweeabove-groudtree biomass and soil organic matter in high fertility forests.iForest-Biogeosciences and Forestry,8(2):195-206.   \nBlackman CJ,BrodribbTJ,Jordan GJ.2O10.Leaf hydraulicsanddrought stres:response,recoveryandsurvivorshipinfour woody temperate plant species.Plant, Celland Environment, 32(11):1584-1595.   \nBlum A.2009.Efective useof water (EUW)and not water-use eficiency(WUE)is the targetofcropyieldimprovement under drought stress.Field Crops Research,112(2-3):119-123.   \nBozorov TA,Usmanov R M,Yang HL,et al.2O18.Efectof waterdeficiencyonrelationshipsbetween metabolism, physiology,iomass and yieldofupland coton (Gossypium hirsutumL.).Journal of Arid Land,10(3): 441-456.   \nBui H,Maloney,E D.2018.Changes in Madden-Julianoscilltion precipitationand wind variance under global warming. Geophysical Research Letters,45(14): 7148-7155.   \nChen H S,Shao MA,LiYY.2008.Soil desication in the Loess Plateau of China.Geoderma,143(1-2): 91-100.   \nDolferus R,JiX,RichardsR.2011.Abiotic stress andcontrolof grain numberincereals.Plant Science,181(4):331-341.   \nDuong T,Penfold C,Marschner P.2O12.Amendingsoilsof diferenttexture with six compost types: impact onsoil nutrient availability,plant growth and nutrient uptake.Plant and Soil,354(1-2):197-209.   \nFang SM,ZhaoCY,Jian SQ.2016.Canopytranspirationof Pinus tabulaeformis plantation forest inthe LoessPlateauregion of China. Environmental Earth Sciences,75(5): 376-385.   \nFengXM,FuBJ,PiaoSL,etal.216.Revegetationin China'slosplateauisapproachingsustainablewaterresoureliits. Nature Climate Change,6(11):1019-1022.   \nFeng Z,Wang X,WuG.1999.The Biomassand Productivityof the Forestry Ecosystem in China.Beijing:Scientific Publishing,18-39.(in Chinese)   \nFu YL,Ma HL,Chen SY,etal.2O18.Control of proline acumulation under droughtviaa novel pathwaycomprising the histone methylase CAU1 and the transcription factor ANACo55.Journal of Experimental Botany,69(3):579-588.   \nGoodingMJ,EllsRHShewryPR,etal.2O.Efectsofrestrictedwateravailabilityandincreasedtemperatureonegain filling, drying and quality of winter wheat.Journal of Cereal Science,37(3): 295-309.   \nHuang LM,Shao MA.2019.Advances and perspectives on soil waterresearch in China's Loess Plateau.Earth-Science Reviews,199:102962.   \nHuangLM,ShaoMA,PeiYW,etal.2O19.Reviewonbiologicalcharacteristicsandabiotic stresstolerance mechanisms and applications of Amygdalus pedunculata. Soils,51(2): 217-223. (in Chinese)   \nISSCAS (Instituteof Soil Science,Chinese Academyof Sciences).1978.Methods forSoilPhysical and Chemical Analysis. Shanghai: Shanghai Science and Technology Press,55-150.(in Chinese)   \nJiao L,Lu N,SunG,etal.2016.Biophysical controlsoncanopytranspiration ina black locust (Robinia pseudoacacia) plantation on the semi-arid Loess Plateau,China. Ecohydrology,9(6): 1O68-1081.   \nJin S S,Wang YK,Wang X,et al.2O19.Effectof pruning intensityonsoil moistureand wateruseeficiency in jujube (Ziziphus jujubeMill.)plantationsin the hillyLoessPlateauregion,China.JournalofAridLand,(3): 446-460.   \nKaterji N,MastrorilliM.2O09.Theeffectofsoil textureonte wateruseeficiencyof irigated crops:resultsofmulti-ear experiment carried out in the Mediterranean region.European Journal of Agronomy,3O(2): 95-100.   \nKiani SP,GrieuP,MauryP,etal.2OO7.Geneticvariabilityforphysiological traitsunderdroughtconditionsanddiferential expressionofwaterstres-ssciated genes insunflower (Helianthus annusL.).Theoreticaland Applied Genetics,14(2): 193-207.   \nKorup K,LaerkePE,Baadsgaard H,et al.2O18.Biomassproduction and wateruseefficiencyinperennial grasses duringand after drought stress.Global Climate Bioenergy,10(1): 12-27.   \nKpoghomouBK,SapraVT,BeylCA.2O10.Sensitivitytodrought stress of threesoybeancultivars duringdiferent growth stages.Journal of Agronomy and Crop Science,164(2):104-109.   \nLandi S,HausmanJF,GueieroG,etal.20l7.Poaceae v.abioticstres: focusodroughtandsalt stress,recentisightsand perspectives. Frontiers in Plant Science,8(8): 1214-1223.   \nLei ZY,HanJM,YiXP,etal.2Ol8.Coordinatedvariationbetweenveinsand stomataincotonand itsrelationshipwith water-use eficiency under drought stress.Photosynthetica,56(4): 1326-1335.   \nLiY,WallachR,CohenY.2O02.Theroleof soil hydraulicconductivityonthespatialand temporal variationofroot water uptake in drip-irrigated corn.Plant and Soil,243(2):131-142.   \nLiberati D,DedatoG,Guidoloti G,etal.2O18.Linking photosythetic performaneswiththechanges incoverdegreeofthree Mediterranean shrubs under climate manipulation. Oikos,127(11):1633-1645.   \nLiu X,FanYY,LongJX,etal.20l3.Efectsofsoilwaterand nitrogenavailabilityonphotosynthesisand wateruseeciency of Robinia pseudoacacia seedlings.Journal of Environmental Sciences,25(3): 585-595.   \nLu XL，Zhuang QL.2O10.Evaluating evapotranspiration andwater-use ficiencyof terrestrial ecosystems inthe conterminous United States using MODIS and AmeriFlux data.Remote Sensing of Environment,114(9):1924-1939.   \nMa J,LiR Q,Wang HG,etal.2O17.Transcriptomicsanalyses reveal wheat responses todrought stressduring reproductive stages under field conditions.Frontiers in Plant Science,8: 592-605.   \nMa YQ,AnY,ShuiJF,et al.2011.Adaptability evaluationof switchgrass(Panicumvirgatum L)cultivarson the Loess Plateau of China. Plant Science,181(6): 638-643.   \nMao N,Huang LM,ShaoMA.2O18.Vertical distributionof soilorganicand inorganiccarbon under different vegetation covers n two toposequences of Liudaogou watershed on the Loess Plateau,China.Journalof Soil and Water Conservation, 73: 479-491. (in Chinese)   \nMathoboR,Marais D,Steyn JM.2017.Theefectof drought stresson yield,leaf gaseous exchange and chlorophyll fluorescence of dry beans (Phaseolus vulgaris L.). Agricultural Water Management,18O: 118-125.   \nMiMX,ShaoMA,LiuBX.2O16.Efectofrock fragments contenton water consumption,biomassand water-useeficiency of plants under different water conditions.Ecological Engineering,94:574-582.   \nNelissenH,Sun X,RymenB,etal.2O18.Thereduction inmaize leaf growthundermilddroughtafectsthe transitionbetween cell divisionandcellexpansionand cannotberestored by elevated gibberelicacid levels.Plant Biotechnology Journal, 16(2): 615-627.   \nPeiYW,HuangLM,JiaXX,etal.2018.Efectsofdroughtstressonthepysiologicalandecologicalcharacteristicsof Amygdalus pedunculataPall.and Salix psammophila seedlings in soils with different textureon the LoessPlateau.Journalof Soil and Water Conservation,32(5): 237-242.(in Chinese)   \nPeiY W,Huang L M,Jia X X,et al.2019.Soil wateravailabilityand itsinfluencingfactors insoilsunder two typesof shrubberies typical of the Loess Plateau.Acta Pedologica Sinica, 56(3): 627-637.(in Chinese)   \nQin J,Xi WM,Alexander R,et al.2O16.Effectsofforest plantation typeson leaf traitsof Ulmus pumila and Robinia pseudoacacia on the Loess Plateau, China. Ecological Engineering,97: 416-425.   \nQuick WP,Chaves MM,Wendler R,etal.1992.The efectof water stress on photosyntheticcarbon metabolism in four species grown under field conditions.Plant,Cell and Environment,15(1): 25-35.   \nRoncucciN,NicoletaN,Bonari E,etal.2O15.Influenceof soil textureand crop managementon the productivityof miscanthus in the Mediterranean. Global Change Biology Bioenergy,7(5): 998-1008.   \nShao MA,Wang YQ,XiaYH,etal.2O18.Soildroughtand watercarryingcapacityforvegetation inthecritical zoneof the Loess Plateau: a review. Vadose Zone Journal,17(1): 1-8.   \nSuYZ,WangJQ,Yang R,etal.2Ol5.Soil texturecontrolsvegetation biomass andorganiccarbonstorage in arid desert grassland in the middle of Hexi Corridor region in northwest china. Soil Research,53(4): 366-376.   \nSun WY,SongXY,MuXM,etal.2Ol5.Spatiotemporal vegetationcover variationsassciatedwithclimatechangeand ecological restoration in the loess plateau. Agricultural and Forest Meteorology,209-210(1):87-99.   \nSwain P,Raman A,Singh SP,etal.2O17.BredingdroughttolerantriceforshallowrainfedecosystemofeasternIndia.Field Crops Research,209: 168-178.   \nTaghvaeian S,Chavez JL,Bausch WC,et al.2O14.Minimizing instrumentationrequirement for estimating crop water stress index and transpiration of maize. Irrigation Science,32(1): 53-65.   \nTang Y K,Xu W,Chen YM,et al.2O18.Wateruse strategies fortwo dominant tre species in pure and mixed plantations of the semiarid Chinese Loess Plateau.Ecohydrology,11(4): e1943.   \nTian G,Huang Y,Ying S.987.The soilphysical properties with relation tothe loessgenesis inthe loessregion.Memoirof NISWC,Academic Sinica,1: 1-12.(in Chinese)   \nTramontini S,van Leuwen C,Domec J,et al.2Ol3.Impactof soil textureand water availabilityon thehydrauliccontrolof plant and grape-berry development.Plant and Soil, 368(1-2): 215-230.   \nVerslues PE.2O17.Time togrow:factors that control plant growth during mild tomoderate drought stressPlant,Celland Environment, 40(2): 177-179.   \nWang S,FuBJ,Chen HB,etal.2O18.Regional developmentboundaryofChina's LoessPlateau:Water limitand land shortage.Land Use Policy,74: 130-136.   \nWang W,WangHL,XiaoXZ,etalO19.Wildalmond(AmygdaluspedunculataPall)aspotentialnutritionalresourceforthe future:studiesonits chemicalcompositionand nutritionalvalue.JournalofFood Measurementand Characterization,13(l): 250-258.   \nWangYQ,ShaoMA,ZhuYJ,etal.ol8.Anewindextoquantifydriedsoillayers inwater-limitedecosystems:Acasestudy on the Chinese Loess Plateau.Geoderma,322:1-11.   \nWu YZ,Huang MA,WaringtonDN.2O1la. Growth and transpirationof maizeand winterwheat inresponse towaterdeficits in pots and plots.Environmental and Experimental Botany,71(1):65-71.   \nWu YZ,Huang MB,WarringtonD.20l1b.Responsesof diferentphysiological indices for maize (Zea mays）tosoil water availability.Pedosphere,21(5):639-649.   \nXu B C,Xu WZ,Huang J,et al.2Ol1.Biomass allcation,relative competitive abilityand water useeficiencyof two dominant species in semiarid Loess Plateau under water stress.Plant Science,181(6): 644-651.   \nYan WM, Zhong YQ,Shangguan ZP.2016.Evaluation of physiological traits of summer maize under drought stres.Acta Agriculturae Scandinavica,66(2):133-140.   \nYan WM,ZhongYQ,Shangguan ZP.2017.Rapid responseof thecarbon balancestrategy in Robinia pseudoacacia and Amorpha fruticosa to recurrent drought.Environmental and Experimental Botany,138: 46-56.   \nYuMZ,ZhangLL,Xu XX,etal.2Ol5.Impactof land-usechanges onsoilhydraulic propertiesof calcaric regosols onthe Loess Plateau,NW China.Journal of Plant Nutrition and Soil Science,178(3): 486-498.   \nZarebanadkoukiM,AhmedMA,CarminatiA.2Ol5.Hydraulicconductivityof theroot-soil interfaceoflupininsndysoil after drying and rewetting.Plant and Soil, 398(1): 1-14.   \nZhang X.2OO2.Studyonthecompositionofsoil particlesand texture zoningoftheLoessPlateau.Journalof Soiland Water Conservation,3:11-13.(in Chinese)   \nZhang XB,LeiL,LaiJS,et al.2018.Efectsof drought stress and waterrecoveryon physiologicalresponses and gene expression in maize seedlings.Biomed Central Plant Biology,18(1): 68-79.   \nZhangWQ,WangYQ,HeKN,etal.2O08.Factorsaffecting transpirationofPinus tabulaeformis inasemi-aridregionof the Loess Plateau.Frontiers of Forestry in China,3(2):194-199. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

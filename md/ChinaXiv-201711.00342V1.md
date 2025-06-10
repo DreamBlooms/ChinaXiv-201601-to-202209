@@ -1,0 +1,201 @@
+重组鹅 $\beta$ -防御素7蛋白的原核表达及其生物学特性分析高梦莹 徐倩倩 张婷婷 陈玉秋 赵文钧 齐甜铭 马得莹\*（东北农业大学动物科学技术学院，哈尔滨150030）
+
+摘要：为探讨鹅 $\beta \mathrm { . }$ -防御素7（AvBD7）的生物学特性，将鹅AvBD7基因亚克隆到大肠杆菌原核表达载体 pProEXHTa的EcoRI和XhoI双酶切位点上，构建重组表达质粒pProEX-AvBD7，将重组质粒转化到大肠杆菌Rosetta 感受态细胞中，用异丙基-β-D-硫代半乳糖苷(IPTG）对其菌液进行诱导表达。经 N-三(羟甲基)甲基甘氨酸十二烷基硫酸钠聚丙烯酰胺凝胶电泳（Tricine-SDS-PAGE）分析，该重组蛋白大小在 $1 0 { \sim } 1 5 \mathrm { k u }$ ，与预期大小结果一致。重组鹅 AvBD7蛋白纯化后，通过菌落计数的方法测定其体外抗大肠杆菌、鸡白痢沙门氏菌、金黄色葡萄球菌、四联球菌、枯草芽孢杆菌等抑菌活性，盐离子浓度对其抗菌活性的影响及其对鸡红细胞的溶血活性。结果显示，重组鹅 AvBD7蛋白对所测定的5种细菌均有抗菌活性，且其抑菌活性随蛋白浓度的增加而增强。高浓度盐离子（150 mmol/L）显著抑制重组鹅AvBD7蛋白的抗菌活性（ $P { < } 0 . 0 5$ )。重组鹅 AvBD7蛋白对鸡红细胞没有溶血活性（ $P { > } 0 . 0 5 )$ 。由此可见，重组鹅 AvBD7蛋白具有广谱抗菌活性，高浓度盐离子显著降低其抗菌活性，且该重组蛋白不具有溶血活性。
+
+关键词：鹅 $\beta \mathrm { . }$ -防御素7；重组蛋白；抗菌活性中图分类号：S811.3 文献标识码： 文章编号：
+
+自抗生素被广泛应用于养殖业以来，其对维持畜禽健康、提高生产性能方面发挥了巨大作用。然而随着抗生素在养殖业中大量使用，抗生素所产生的副作用越来越受到生产者和消费者的关注。迫切需要一种既有效又环保的新方法或新产品来控制畜禽疾病，改善畜禽产品品质。防御素为参与机体最初防御活动的小分子多肽，是一类极为重要的内源性抗菌肽[1-4],其主要分子特征为含有由6个半胱氨酸残基组成的3个二硫键。大量研究表明，禽 $\beta$ -防御素（ $\beta$ -defensins，AvBD）具有广谱抗菌活性，且无论是重组表达、天然存在或是人工合成的，均对细菌、真菌、螺旋体、囊膜病毒(如艾滋病)等具有很强的杀伤活性[1-2.5-7]，在机体的先天性免疫及获得性免疫中发挥重要作用。然而，天然抗菌肽分子量小，在机体内含量极少，分离提纯困难，故天然产量非常有限。化学合成难以实现其分子结构的正确构象，因此，利用基因工程技术生产防御素具有现实意义[8]。目前，已从鹅体内分离出 AvBD1\~AvBD7、AvBD9、AvBD10、AvBD12 和 AvBD16共 11 个防御素[9-1]。其中，鹅 AvBD7 包括完整的开放阅读框（ORF)，它的cDNA由 201个碱基组成，编码 66个氨基酸。本研究在前期研究的基础上，采用组氨酸（His）标签蛋白原核表达系统，将鹅 AvBD7基因亚克隆到pProEX HTa上，构建重组表达质粒，用异丙基-β-D-硫代半乳糖苷（IPTG）进行诱导，实现鹅 AvBD7重组蛋白在大肠杆菌中的高效表达。并在体外测定鹅 AvBD7重组蛋白的抗菌活性及理化活性，为进一步开展鹅防御素的研究与应用提供理论依据。
+
+1材料与方法
+
+# 1.1 试验材料
+
+# 1.1.1 菌株及质粒
+
+重组质粒 pMD18-T-AvBD7[9]、pMD18-T-Simple Vector、表达载体 pProEXHTa及表达菌株大肠杆菌（Escherichia coli）Rosetta、枯草芽孢杆菌（Bacillus subtilis）ATCC 9193、金黄色葡萄球（Staphyloccocus aureus）ATCC 29213、四联球菌（Micrococcus tetragenus）ATCC2835、鸡白痢沙门氏菌（Salmonella pullorum）C79-11-S11、大肠杆菌 BL21均由本实验室保存。
+
+# 1.1.2 主要试剂
+
+ExTaq DNA聚合酶、限制性内切酶EcoRI和XhoI、T4DNA连接酶、Marker、IPTG购自日本TaKaRa公司；凝胶回收试剂盒购自美国OMEGA公司；蛋白纯化复性试剂盒购自Novagen公司；所使用的试剂均为分析纯。
+
+# 1.2 试验方法
+
+# 1.2.1 原核表达重组质粒的构建
+
+根据pProEXHTa和重组质粒pMD18-T-AvBD7酶切位点设计1对鹅 $\boldsymbol { A \nu B D 7 }$ 特异性表达引物 P1: 5' GAATTCATGCAGCACGTCTTCCCTAG $3 ^ { \prime }$ P2: 5'
+
+CTCGAGTCAGTGCCTCCACCCCCTC $3 ^ { \prime }$ 。其中P1的5'端含有 EcoRI酶切位点，P2的5端含有 XhoI酶切位点，以重组质粒pMD18-T-AvBD7为模板，用表达引物进行PCR扩增。PCR扩增体系 $( 2 5 ~ \mu \mathrm { L } )$ :Premix TaqTM（Ex TaqTM Version 2.0 plus dye） $1 2 . 5 ~ \mu \mathrm { L }$ ，重组质粒pMD18-T-AvBD7 $0 . 5 ~ \mu \mathrm { L }$ ，上下游引物各 $1 ~ \mu \mathrm { L }$ ，用灭菌双蒸水补足 $2 5 ~ \mu \mathrm { L }$ 。PCR 扩增程序如下： $9 4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 预变性 $5 \mathrm { m i n }$ ; $9 4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 30 s，58 $\mathrm { { ^ \circ C } }$ 30 s，72℃ 30s为一个循环，进行 25个循环;$7 2 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 延伸 $1 0 \mathrm { m i n }$ ；最后 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 保温 $1 0 \mathrm { m i n }$ 。
+
+将扩增产物用EcoRI和XhoI双酶切后克隆到原核表达载体pProEXHTa上，构建重组表达质粒pProEX-AvBD7，利用质粒PCR 和双酶切方法筛选阳性克隆。PCR 扩增体系 $( 2 5 \mu \mathrm { L } )$ Premix TaqTM(Ex TaqTM Version 2.0 plus dye) $1 2 . 5 ~ \mu \mathrm { L }$ ，重组表达质粒 pProEX-AvBD7 $0 . 5 ~ \mu \mathrm { L }$ 上下游引物各 $1 \mu \mathrm { L }$ ，用灭菌双蒸水补足 $2 5 \mu \mathrm { L }$ 。PCR扩增程序同前。酶切体系（ $1 0 \mu \mathrm { L } \dot { }$ ：重组表达质粒 pProEX-AvBD7 $3 \mu \mathrm { L }$ ， $\mathrm { \ d d H } _ { 2 } \mathrm { O }$ 5 μL, EcoRI $0 . 5 ~ \mu \mathrm { L }$ , XhoI $0 . 5 ~ \mu \mathrm { L }$ ， $1 0 { \times } \mathrm { H }$ Buffer $1 \mu \mathrm { L }$ ，$3 7 ^ { \circ } \mathrm { C }$ 水浴中反应 $2 \mathrm { h }$ 进行双酶切鉴定。将阳性质粒送北京六合华大基因科技股份有限公司测序。
+
+# 1.2.2 重组鹅AvBD7蛋白的表达及纯化
+
+将重组表达质粒pProEX-AvBD7转化到表达感受态细胞大肠杆菌Rosetta中，挑取单个菌落在含有氨苄的LB 液体培养基中37℃振荡培养，待吸光度（OD） $_ { 6 0 0 \mathrm { n m } }$ 值达到0.6\~0.8时，留取1mL 菌液作为对照，将终浓度为 $0 . 6 \mathrm { m m o l / L }$ 的 IPTG 加到剩余菌液中，进行蛋白的诱导表达，分别在诱导2、4、6h各留取 $1 ~ \mathrm { m L }$ 菌样。按照 Novagen 公司的蛋白纯化复性试剂盒说明书进行包涵体的纯化、复性和透析，并测定重组蛋白浓度。留取 $1 \mathrm { m L }$ 超声波破碎离心的上清液和少量沉淀，将沉淀用 $1 0 0 ~ \mu \mathrm { L }$ 磷酸盐缓冲液（PBS）（ $\mathrm { p H } 7 . 4$ ）重新悬起。将诱导前对照菌样、诱导后菌样、上清液、沉淀样和纯化后的蛋白进行N-三(羟甲基)甲基甘氨酸十二烷基硫酸钠聚丙烯酰胺凝胶电泳（Tricine-SDS-PAGE）分析，用薄层扫描仪观察结果。
+
+# 1.2.3 重组鹅AvBD7蛋白抗菌活性的测定
+
+采取菌落计数法测定重组鹅 AvBD7蛋白的抗菌活性。将纯化后的重组鹅 AvBD7蛋白与His 标签蛋白，用 $\mathrm { p H } 7 . 4$ 的无菌PBS 稀释，使其终浓度分别为 50、100、250、 $5 0 0 ~ \mu \mathrm { g / m L }$ 各取 $2 5 0 ~ \mu \mathrm { L }$ 加入无菌管中。将1.1.1所述各株细菌培养至对数生长期，然后用相应的液体培养基将细菌稀释到 $2 { \times } 1 0 ^ { 6 }$ CFU/mL，分别向各管中加入 $1 0 ~ \mu \mathrm { L }$ 稀释后的细菌培养物，设PBS为阴性对照，每组设置3个平行。 $3 7 ^ { \circ } \mathrm { C }$ 振荡孵育 $^ { 4 \mathrm { h } }$ 后，每个稀释度各取 $1 0 0 ~ \mu \mathrm { L }$ 接种在相应的LB平板上， $3 7 ^ { \circ } \mathrm { C }$ 培养过夜，观察并记录每个营养琼脂平板上的菌落数量。3个相同稀释度的营养平板的菌落数平均值作为该稀释度样品的菌落数。按接种量和稀释倍数计算每管原液中的细菌量，绘制细菌存活率和重组蛋白浓度关系图。
+
+细菌的存活率 $( \% ) =$ （鹅AvBD7重组蛋白存活细菌数/阴性对照存活细菌数） $\times 1 0 0$ 。
+
+1.2.4不同盐离子浓度对重组鹅AvBD7蛋白抗菌活性影响
+
+选取大肠杆菌（革兰氏阴性菌， $G ^ { - }$ ）和四联球菌（革兰氏阳性菌， $\mathbf { G } ^ { + }$ ）为检测菌，用PBS 调整氯化钠（NaCl）浓度，使其浓度分别为0、50、100、150 mmol/L。然后将重组蛋白分别用上述不同浓度的 NaC1溶液稀释至终浓度为 $2 5 0 ~ \mu \mathrm { g / m L }$ ，各取 $2 5 0 \mu \mathrm { l }$ 分别加入无菌离心管中，同时设相应NaCl浓度的溶液为阴性对照，分别向各管加入细菌培养物 $1 0 ~ \mu \mathrm { L }$ 每组设3个平行， $3 7 ^ { \circ } \mathrm { C }$ 振荡孵育4h，具体操作方法同1.2.3。
+
+1.2.5 重组鹅AvBD7蛋白对鸡红细胞溶血活性的测定
+
+新采集的抗凝无特定病原(SPF)鸡血红细胞用无菌PBS( $\mathrm { p H } 7 . 4 )$ 清洗并稀释为 $2 \% \sim 3 \%$ 重组鹅 AvBD7融合蛋白用PBS 稀释为100、250、 $5 0 0 ~ \mu \mathrm { g / m L }$ 。取 $2 0 ~ \mu \mathrm { L }$ 蛋白分别加入无菌离心管中， $0 . 2 \%$ Triton X-100 作为阳性对照，PBS 作为阴性对照。分别向每管加入 $1 8 0 ~ \mu \mathrm { L }$ 稀释的红细胞。每组设3个平行对照， $3 7 ^ { \circ } \mathrm { C }$ 孵育 $^ { \textrm { 1 h } }$ ， $1 ~ 0 0 0 ~ \mathrm { g / m i n }$ 离心 $1 0 ~ \mathrm { m i n }$ 后取上清，用微量紫外分光光度计测 $\mathrm { O D } _ { 5 6 0 \mathrm { n m } }$ 值。每个样品做3个重复，取平均值。
+
+溶血活性（%）=[（OD $\check { \Xi } \check { \Xi }$ ODPBs）/（ODTriton-ODPBs） $\mathrm { ] } { \times } \mathrm { 1 0 0 }$ 。
+
+# 1.2.6 统计分析
+
+数据采用SPSS18.0软件进行方差分析，所有数据均以平均值 $\pm$ 标准误表示。
+
+# 2结果与分析
+
+# 2.1 重组鹅AvBD7蛋白的表达和纯化
+
+以重组质粒 pMD18-T-AvBD7为模板进行PCR 扩增，构建表达用重组质粒pMD18-T-S-AvBD7。将表达用重组质粒及表达载体pProEXHTa分别进行EcoRI和XhoI双酶切，回收目的片段，将其转化到大肠杆菌Rosetta 感受态中，构建重组表达质粒并进行双酶切和 PCR 鉴定及测序。电泳结果表明，酶切产物大小与质粒PCR扩增得到的条带大小一致（ $1 5 7 \mathrm { b p } .$ )，如图1所示。重组质粒测序结果表明将编码鹅AvBD7成熟蛋白基因成功插入原核表达载体的目的位点。Tricine-SDS-PAGE 结果显示，诱导后与诱导前的菌体蛋白相比，有一条明显的蛋白条带，大小在 $1 0 { \sim } 1 5 \mathrm { k u }$ 且诱导2、4、6h的蛋白表达量随时间增加而变大。将诱导后的菌液经超声波破碎后，分别取上清和沉淀 Tricine-SDS-PAGE 分析，可见大部分重组蛋白在沉淀中，表明重组蛋白于大肠杆菌中以包涵体的形式存在。采用 Novagen 蛋白质纯化复性试剂盒对重组蛋白进行纯化。对纯化后的蛋白进行 Tricine-SDS-PAGE 分析，观察结果显示可见 $1 0 { \sim } 1 5 \mathrm { k u }$ 大小的蛋白带，与预期蛋白相符，如图2所示。获得的重组鹅AvBD7融合蛋白采用微量紫外分光光度仪测得的浓度为 $2 2 0 0 \mu \mathrm { g / m L }$
+
+![](images/e5acfdb5a78cf5845ebd5219c8976b11896ba627ee08475c6573b4ad607d4fbb.jpg)
+
+C：质粒 pProEXHTa-AvBD7PCR产物；D：质粒 pProEXHTa-AvBD7 双酶切产物；M:100 bp ladder DNA marker。
+
+C: plasmid pProEX HTa-AvBD7 PCR product; D: product of plasmid pProEX HTa-AvBD7 restriction enzyme digestion; M:1OO bp ladder DNA marker.
+
+![](images/c73e063bb86606483d24a7f6c06be628b2f2a37537667583300ca6097591284b.jpg)  
+图1重组质粒pProEX-AvBD7的双酶切及PCR产物的鉴定
+
+1：上清：2：包涵体：3：无IPTG诱导：4\~6：IPTG 诱导2、4、6h后融合蛋白表达；
+
+7：纯化蛋白；M：蛋白质 Marker $( \mathrm { k u } )$ 。 1: supernatant; 2: inclusion body; 3: without IPTG induction;4 to 6: fusion protein expression on 2, 4 and $6 \mathrm { { h } }$ after induction with IPTG; 7: purified protein; M: protein marker (ku).
+
+Fig.2Expression and purification of recombinant goose AvBD7 protein
+
+2.2 重组鹅AvBD7蛋白抗菌活性的测定
+
+采用菌落计数法测定重组鹅 AvBD7蛋白对5种菌的抗菌活性。由图3可知，与对照相比，重组鹅AvBD7蛋白对所测定的细菌具有显著抑菌作用（ $. P { < } 0 . 0 5 )$ 。且随着蛋白浓度的增加，抗菌活性增加。重组鹅 AvBD7蛋白对四联球菌的抗菌活性最强，在蛋白浓度为 50\~500$\mu \mathrm { g / m L }$ 时都有极显著作用 $( P { < } 0 . 0 1 \$ )。对金黄色葡萄球菌抗菌活性较强，在蛋白浓度为100\~500$\mu \mathrm { g / m L }$ 时具有显著或极显著的抗菌作用（ $( P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1 \dot { . }$ ，对大肠杆菌、鸡白痢沙门氏菌和枯草芽孢杆菌抗菌活性较低，只有在蛋白浓度为 $2 5 0 { \sim } 5 0 0 \mu \mathrm { g / m L }$ 时，才有显著或极显著抗菌作用（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1 \ \cdot$ ）
+
+![](images/fd9db169293db9407051043aa7aa6760edd3a446c1eb44ecec1b351566d35f65.jpg)  
+图2重组鹅AvBD7蛋白的表达与纯化  
+图3重组鹅AvBD7蛋白和His 标签蛋白的抗菌活性
+
+\*表示差异显著（ $P { < } 0 . 0 5 )$ ，\*\*表示差异极显著（ $\cdot P { < } 0 . 0 1 )$ 。下图同。
+
+\* mean significant difference ( $\scriptstyle \cdot < 0 . 0 5 ,$ ，\*\* mean extremely significant difference $( P { < } 0 . 0 1 )$ The same as below.
+
+Fig.3Antimicrobial activity of recombinant goose AvBD7 protein and His tag protein
+
+# 2.3不同盐离子浓度对重组鹅AvBD7蛋白抗菌活性的影响
+
+采用菌落计数法测定重组鹅AvBD7蛋白在不同盐离子浓度下的抗菌活性。由图4可知，无论是以革兰氏阳性菌（四链球菌）还是革兰氏阴性菌（大肠杆菌）为检测菌，当重组鹅AvBD7蛋白浓度为 $2 5 0 ~ \mu \mathrm { g / m L }$ 时，随着盐离子浓度的升高，细菌存活率上升，即抗菌活性下降。当盐浓度达到 $1 0 0 \mathrm { m m o l / L }$ 时，重组鹅AvBD7蛋白对大肠杆菌的抗菌活性与对照（盐浓度为0mmol/L）相比显著下降（ $( P { < } 0 . 0 5 )$ ，当盐浓度达到 $1 5 0 \mathrm { m m o l / L }$ 时，重组鹅AvBD7蛋白对四联球菌的抗菌活性与对照（盐浓度为 $0 \mathrm { m m o l / L }$ ）相比显著下降（ $P { < } 0 . 0 5 )$ 。
+
+![](images/6121fb40d0cbbd11d89096aedd93516bd61c93d4bde1e44953baf672d5b1c92c.jpg)  
+图4NaCl浓度对重组鹅AvBD7蛋白抗菌活性的影响
+
+Fig.4Effects of NaCl concentration on the antimicrobial activity of recombinant goose AVBD7
+
+protein
+
+2.4重组鹅AvBD7蛋白对鸡红细胞溶血活性的测定
+
+本试验以不同浓度的重组鹅AvBD7蛋白作为检测对象，结果如图5所示。不同浓度（100、250、 $5 0 0 ~ \mathrm { \mu g / m L }$ ）的重组鹅AvBD7蛋白对鸡血红细胞的溶血活性极低，与PBS阴性对照相比，差异不显著（ $. P { > } 0 . 0 5$ ），表明该重组蛋白不具有溶血活性。
+
+![](images/fae9a709dcd1209a9edaf05db55c3becbd296e14cf69cb4df0657d26152bad0a.jpg)  
+图5重组鹅AvBD7蛋白的溶血活性  
+Fig.5Hemolysis activity of recombinant goose AvBD7 protein
+
+3讨论
+
+在过去的20 多年中，有关鸡、鸭、火鸡、企鹅和驼鸟等 AvBD 的研究有了突破性进展。但是，对鹅抗菌肽的报道相对较少。大量研究表明，禽防御素对革兰氏阳性菌和革兰氏阴性菌具有广谱抗菌活性，在体外，对真菌同样有杀伤作用[12-13]。然而天然抗菌肽在机体内含量极少，分离提纯困难，化学合成难以实现其分子结构的正确构象，所以通过基因工程技术获得防御素。由于抗菌肽分子小，易被蛋白酶降解，对宿主菌大肠杆菌有很强的杀伤力，不能在大肠杆菌中直接表达，以融合蛋白形式表达可解决问题。
+
+目前为止，谷胱甘肽硫转移酶(GST)融合表达与His 融合表达系统是原核表达最常用的2 种表达系统。至今，已经有很多防御素通过GST融合表达系统大量表达，并且获得良好效果[6-7,10.14-17]。但是由于GST 的分子量相对于防御素很大，对其活性会产生影响，因此本试验采用His融合表达系统表达重组鹅AvBD7蛋白。经Tricine-SDS-PAGE 分析，大部分蛋白存在于包涵体中，由于目的蛋白形成包涵体后不具有生物活性，进一步用 Novagen 公司的Protein RefoldingKit 试剂盒对包涵体进行复性，最后得到具有活性的重组蛋白。经抗菌活性测定，该重组蛋白对大肠杆菌、鸡白痢沙门氏菌、金黄色葡萄球菌、四联球菌、枯草芽孢杆菌均有显著抑菌作用，本研究结果与前人研究结果一致[1,18-19]，表明禽 AvBD 具有广谱抗菌活性。另有研究表明，不同种类防御素的抑菌种类有所不同。例如，鸡AvBD1与AvBD2对白色念球菌、大肠杆菌、肠炎沙门氏菌等有抑制作用，而重组鸡 AvBD6 对沙门氏菌的抗菌活性则较弱[20-21；企鹅 AvBD103a 和 AvBD103b 则对枯草芽胞杆菌、烟曲霉菌和白色葡萄球菌有抑制作用[22]；鸭 AvBD10 对多杀性巴氏杆菌、金黄色葡萄球菌等有抑制作用[23]。为探究His 标签对重组蛋白抗菌活性的影响，李妍妍[24测定了His 标签蛋白对本试验所用5种菌的抗菌活性，结果表明，His标签蛋白不具有抗菌活性，说明该重组蛋白抗菌活性不受His 标签蛋白的影响。本研究进一步证实其结果。多种抗菌活性研究表明,AvBD在高盐条件下即失去抗菌活性[25]。这与前人报道一致[26-30]，本研究结果显示，高浓度盐离子（150mmol/L）显著抑制重组鹅 AvBD7蛋白对革兰氏阴性菌和革兰氏阳性菌的抗菌活性。不仅是NaCI 浓度对蛋白活性有影响，其他离子浓度或者没有特定的离子也会对蛋白的抗菌活性产生影响[31]。这可能是因为高浓度离子破坏细菌外膜的阴离子和抗菌肽正电荷的相互作用而影响防御素的抗菌活性[26]。为了更深一步研究鹅防御素的性质，我们对该重组蛋白进行溶血活性的试验，表明即使在最高浓度（ $5 0 0 ~ \mu \mathrm { g / m L }$ ）时溶血活性非常低，这与禽源防御素和人源防御素溶血活性结果相一致[27-28]。上述表明，至今未发现防御素对动物细胞具有毒性。可能是由于动物细胞表面存在较高水平的胆固醇以及缺少带负电荷的磷脂，使其抑制了抗菌肽与之发生作用[32-33]。以上研究结果为日后AvBD 重组蛋白作为一种高效的肽类抗生素和禽类饲料添加剂等应用的可能性提供了理论基础。
+
+# 4结论
+
+本研究应用原核表达载体 pProEXHTa成功表达了重组鹅 AvBD7蛋白，其大小在10\~15ku，且表达的重组蛋白以包涵体的形式存在。该重组蛋白对枯草芽孢杆菌、金黄色葡萄球、四联球菌、鸡白痢沙门氏菌、大肠杆菌均有抗菌活性。在150mmol/L 高浓度盐离子下，重组蛋白对大肠杆菌和四联球菌的抗菌活性显著降低。此外，该重组蛋白对鸡红细胞的溶血活性极低。
+
+# 参考文献：
+
+[1]李妍妍,徐杨,张婷婷,等.鸽 ${ \mathfrak { \beta } }$ -防御素1 基因的克隆及其生物学作用鉴定[J].微生物学通报,2014,41(4):636-645.
+
+[2] BRUNE K,LEFFELL M S,SPITZNAGEL J K.Microbicidal activity of peroxidaseless chicken heterophile leukocytes[J].Infection and Immunity,1972,5(3):283-287.
+
+[3]BUCK C B,DAY P M,THOMPSON C D,et al.Human $\mathfrak { a }$ -defensins block papillomavirus infection[J].Proceedings of the National Academy of Sciences of the United States of America,2006,103(5):1516-1521.
+
+[4] SUGIARTO H,YU $\mathrm { ~ \bf ~ P ~ }$ L.Identification of three novel ostricacins:an update on the phylogeneticperspectiveof $\beta$ -defensins[J].InternationalJournalofAntimicrobial Agents,2006,27(3):229-235.
+
+[5]周财源,葡利娟,韩宗玺,等.鹅 $\beta \mathrm { . }$ -防御素基因克隆与生物学特性的初步分析[J].畜牧兽医学报,2011,42(8):1193-1200.
+
+[6]MA D,LIAO W,WANG R,et al.Two novel duck antibacterial peptides,avian beta-defensins 9 and 10,with antimicrobial activity[J].Journal of Microbiology and Biotechnology,2009,19(11):1447-1455.
+
+[7]MA D Y,WANG R Q,LIAO W Y,et al.Identification and characterization of a novel Antibacterial peptide,avian $\beta$ -defensin 2 from ducks[J].The Journal of Microbiology,2009,47(5):610-618.
+
+[8]冯兴军,王建华,单安山.抗菌肽基因工程研究及其表达策略[J].中国生物工程杂志,2006,26(3):63-67.
+
+[9]徐倩倩.鹅源新城疫病毒感染对鹅免疫功能作用的分子机制[D].硕士学位论文.哈尔滨:东北农业大学,2015.
+
+[10]MA D Y,ZHOU C Y,ZHANG M Y,et al.Functional analysis and induction of four novel goose (Anser cygnoides) avian $\beta$ -defensinsin responsetosalmonella enteritidis infection[J].Comparative Immunology,Microbiology and Infectious Diseases,2012,35(2):197-207.
+
+[11] MA D Y,ZHANG M Y,ZHANG K X,et al.Identification of three novel avian beta-defensins from gooseandtheirsignificance in thepathogenesisof Salmonella[J].Molecular Immunology,2013,56(4):521-529.
+
+[12] LEHRER R I,GANZ T.Defensinsofvertebrate animals[J].Current Opinion in
+
+Immunology,2002,14(1):96-102.
+
+[13]VAN DIJK A,VELDHUIZEN E J A,HAAGSMAN H P.Avian defensins[J].Veterinary Immunology and Immunopathology,2008,124(1):1-18.
+
+[14]MA D Y,LIN L J,ZHANG K X,et al.Discovery and characterization of Coturnix chinensis avian $\beta \mathrm { . }$ -defensin 10,with broad antibacterial activity[J].Journalof Peptide Science,2012,18(4):224-232.
+
+[15] MA D Y,LIN L J,ZHANG K X,et al.Three novel Anas platyrhynchos avian $\beta$ -defensins,upregulatedbyduckhepatitisvirus,withantibacterialandantiviral activities[J].Molecular Immunology,2011,49(1/2):84-96.
+
+[16]MA D Y,LIU S W,HAN Z X,et al.Expression and characterization of recombinant gallinacin-9 andgallinacin-8 in Escherichiacoli[J].ProteinExpressionand Purification,2008,58(2):284-291.
+
+[17]WANG R Q,MA D Y,LIN L J,et al.Identification and characterization of an avian $\beta$ -defensinorthologue,avian $\beta$ -defensin9,fromquails[J].Applied Microbiologyand Biotechnology,2010,87(4):1395-1405.
+
+[18]辛胜男,张可心,张名岳,等.鸽 $\beta$ -防御素 5 基因克隆及其抗菌活性[J].生物工程学报，2012,28(11):1294-1305.
+
+[19]SOMAN S S,ARATHY D S,SREEKUMAR E.Discovery of Anas platyrhynchos avian $\beta$ -defensin 2 (Apl_AvBD2） with antibacterial and chemotactic functions[J].Molecular Immunol0gy,2009,46(10):2029-2038.
+
+[20]韩宗玺,廖文艳,王瑞琴,等.重组鸡 $\beta$ -防御素6基因的表达和生物学特性的研究[J].中国预防兽医学报，2009,31(6):476-480.
+
+[21]EVANS E W,BEACH G G,WUNDERLICH J,et al.Isolation of antimicrobial peptides from avian heterophils[J].Journal of Leukocyte Biology,1994,56(5):661-665.
+
+[22]THOUZEAU C,LE M Y,FROGET G,et al.Spheniscins,avian $\beta$ -defensins in preserved stomach contents of the king penguin,Aptenodytes patagonicus[J].The Journal of Biological Chemistry,2003,278(51):51053-51058.
+
+[23]廖文艳,马得莹,刘胜旺,等.鸭 $\beta$ -防御素9基因的克隆、组织分布及其原核表达[J].中国农业科学,2009,42(4):1406-1412.
+
+[24] 李妍妍.四个新的鸽 $\beta$ -防御素抗新城疫病毒作用机制的初步研究[D].硕士学位论文.哈尔滨：东北农业大学，2014.
+
+[25]DIAMOND G,KAISER V,RHODES J,et al.Transcriptional regulation of $\beta$ -defensin gene expression in tracheal epithelial cells[J].Infection and Immunity,2Ooo,68(1):113-119.
+
+[26] BALS R,GOLDMAN M J,WILSON J M.Mouse $\beta$ -defensin 1 isa salt-sensitive antimicrobial peptide present in epithelia of the lung and urogenital tract[J].Infection and Immunity,1998,66(3):1225-1232.
+
+[27]MILONA P,TOWNES C L,BEVAN R M,et al.The chicken host peptides,gallinacins 4,7,and 9 have antimicrobial activity against Salmonella serovars[J].Biochemical and Biophysical Research Communications,2007,356(1):169-174.
+
+[28] VELDHUIZEN EJ A,RIJNDERS M,CLAASSENE A,et al.Porcine $\beta$ defensin 2 displays broadantimicrobialactivityagainstpathogenicintestinalbacteria[J].Molecular Immunol0gy,2008,45(2):386-394.
+
+[29]PORTER E M,VAN DAM E,VALORE E V,et al.Broad-spectrum antimicrobial activity of human intestinal defensin 5[J].Infection and Immunity,1997,65(6):2396-2401.
+
+[30]ZUCHT H D,GRABOWSKY J,SCHRADER M,et al.Human beta-defensin-1:a urinary peptide present in variant molecular forms and its putative functional implication[J].European Journal of Medical Research,1998,3(7):315-323.
+
+[31]TOMITA T,HITOMI S,NAGASE T,et al.Effect of ions on antibacterial activity of human beta defensin 2[J].Microbiology and Immunology,2000,44(9):749-754.
+
+[32]MATSUZAKI K,SUGISHITA K,FUJII N,et al.Molecular basis for membrane selectivity of an antimicrobial peptide,magainin 2[J].Biochemistry,1995,34(10):3423-3429.
+
+[33]ISHITSUKA Y,PHAM D S,WARING A J,et al.Insertion selectivity of antimicrobial peptide protegrin-1 into lipid monolayers:effect of head group electrostaticsand tail group packing[J].Biochimica et Biophysica Acta (BBA)-Biomembranes,2006,1758(9):1450-1460.
+
+# Recombinant Expression and Biological Property Analysis of Goose Avian $\mathfrak { \textbf { \beta } }$ -Defensin 7
+
+# Protein
+
+GAO Mengying XU Qingqing ZHANG Tingting CHEN Yuqiu ZHAO Wenjun QI Tianming MA Deying\*
+
+(Collge of Animal Science and Technology,Northeast Agricultural University, Harbin 150030,
+
+China)
+
+Abstract: The objective of the study was to investigate the biological property of goose avian $\beta$ -defensin (AvBD) 7. The gene of AvBD7 was cloned into EcoRI and XhoI sites of pProEX HTa vector to construct recombinant plasmid pProEX-AvBD7. The recombinant plasmid was transformed into Escherichia coli Rosetta and the bacteria wasinducedwith isopropy- $\beta$ -D-thiogalactoside（IPTG）.It was analyzed by tricine sodium dodecyl sulfate polyacrylamide gel electrophoresis（Tricine-SDS-PAGE） that the recombinant protein size was 10 to $1 5 \mathrm { \ k u }$ ，which was the same as the expected size.Antimicrobial activity of the recombinant fusion protein against Escherichia coli, Salmonella pullorum， Staphylococcusaureus, Micrococcus tetragenus and Bacillus subtilis was measured in vitro. In addition,the effect of ionic strength on the antibacterial activity and hemolytic activity of the recombinant fusion protein were investigated. The results showed that the recombinant goose AvBD7 protein exhibited significant antimicrobial activity against the five bacteria investigated,and antibacterial activity enhanced with the increasing of protein concentration. The antibacterial activity of recombinant goose AvBD7 protein was decreased at high salt concentration（150 mmol/L） $( P { < } 0 . 0 5 )$ . In addition, recombinant goose AvBD7 protein showed litle hemolytic activity against chicken erythrocytes $( P { > } 0 . 0 5 )$ .In conclusion，recombinant goose AvBD7 protein exhibits extensive antimicrobial activity. High salt concentration significantly decreased its antibacterial activity. In addition, the recombinant goose AvBD7 protein showed little hemolytic activity.
+
+Key words: goose $\beta$ -defensin 7; recombinant protein; antimicrobial activity

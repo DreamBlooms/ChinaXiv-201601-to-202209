@@ -1,0 +1,150 @@
+# 干旱胁迫环境下的胡杨叶片气孔变化
+
+夏振华1,²，陈亚宁²，朱成刚²，周莹莹1,²，陈晓林²（1．新疆师范大学地理科学与旅游学院,新疆 乌鲁木齐830054;2．中国科学院新疆生态与地理研究所/荒漠与绿洲生态国家重点实验室,新疆 乌鲁木齐830011)
+
+摘要：研究胡杨叶片气孔特征有助于解读干旱胁迫环境下的水分利用特征和抗旱机理。本文选取塔里木河下游英苏、阿拉干、依干布及麻3个典型断面,以胡杨为研究对象,探讨不同干旱胁迫梯度下胡杨叶片气孔密度与气孔长度的变化规律，分析胡杨雌、雄株在干旱胁迫下的响应差异。结果显示： $\textcircled{1}$ 胡杨叶片气孔密度随干旱胁迫程度的增加呈上升趋势，而叶片气孔长度随干旱胁迫程度的加大呈减小趋势； $\textcircled{2}$ 干旱胁迫环境下，胡杨雌、雄株叶片的气孔密度和气孔长度的变化率存在一定差异,表现为在干旱胁迫环境下,胡杨雄株的叶片下表皮气孔密度增长率较小，而胡杨雌株叶片的下表皮气孔长度负增长率显著大于雄性的下表皮； $\textcircled{3}$ 胡杨叶片气孔密度和长度的变化反映胡杨雌、雄株的抗干旱能力,从胡杨叶片的气孔密度与气孔长度的变化结果显示,在干旱胁迫环境下,胡杨雄株的保水能力和耐受能力强于雌株。
+
+关键词：胡杨；雌株；雄株；干旱胁迫；气孔密度；气孔长度；塔里木河下游
+
+植物主要通过叶片气孔与外界环境进行气体与水分的交换，叶片气孔的大小与密度直接影响叶片与外部环境间的气体交换量，进而影响植物的光合作用、呼吸作用与蒸腾作用[1-3]。气孔对植物生境的变化具有较强的敏感性，其形状、密度、大小等特征随温度、光照、 $\mathrm { C O } _ { 2 }$ 浓度以及降水等环境因子的改变而发生变化[4]。因此大多采用植物叶片气孔参数(密度、大小、导度)来反应植物体对环境变化的响应。气孔导度( $\mathbf { C } _ { \mathrm { s } }$ )能直接快速地的影响植物的呼吸及蒸腾作用，随着相对湿度、气温和叶水势等因素的改变，气孔的开张程度发生变化，进而控制进入叶片 $\mathrm { C O } _ { 2 }$ 与散失水分的量，抵御干旱胁迫。这种适应方式可分为两种：即前馈式反应和反馈式反应，前馈式反应是由于水汽压亏缺而引起的气孔关闭，阻止水势下降;反馈式反应是由于土壤干旱引起树木水势下降,导致气孔关闭,减缓叶片失水[5-6]。气孔导度变化抵御干旱胁迫是一种快速的应激反应，而气孔密度和气孔长度的变化相对于气孔导度要慢很多，但其变化是一种长期性机制，能使植物适应一定的干旱胁迫，进而生存下来。叶片气孔对外界环境变化的响应大致可分为两种模式，一种是对变化环境的快速反应模式，即对外界短时间的环境变化作出快速的反应，随着光照与温度等条件的变化，植物通过开合叶片气孔达到控制进出叶片气体与水分的量；另一种则是对外界环境变化长期适应的结果，气孔长度、气孔密度的改变是对外界环境长期适应的结果,短时间的环境变化对其影响不大[7-8]。这也是一种植物体适应外界环境变化的响应机制。气孔密度和气孔长度是表征气孔特征的两个重要参数，相关研究表明二者呈显著的负相关关系[4.9 -10] ○
+
+干旱胁迫是植物体在生长发育过程中受到的最常见的环境胁迫之一，对植物体的伤害较大，不仅影响植物的生长发育，当干旱胁迫严重时，甚至会导致个体死亡。塔里木河下游降水稀少，多年平均降水量在 $1 7 . 4 \sim 4 2 . 0 ~ \mathrm { m m } ^ { [ 1 1 ] }$ ,是我国最干旱的一隅。由于河道长期断流，塔里木河下游的胡杨种群主要靠地下水维系其生存，伴随着地下水位的不断下降，干旱胁迫严重,生境十分恶劣[12]。胡杨种群要在如此极端干旱的生境中存活，叶片气孔作为气体与水分的重要通道，其生态功能就显得尤为重要。干旱胁迫下植物叶片气孔的自身调节是控制水分散失，抵御干旱的重要生理机制之一。
+
+胡杨(Populuseuphratica）是我国西北干旱区塔里木河流域荒漠生态系统中唯一的乔木物种，也是该地区生态系统的优势建群种(13]。胡杨有较强的抗逆能力，能在极端干旱胁迫、盐碱化严重、多风沙等较恶劣的环境下生存,在塔里木河下游沙漠化防治和绿洲生态安全保护中有不可代替的作用[14]近年来，对塔里木河下游胡杨研究较多，有对胡杨光化学效率的研究[15]、对胡杨蒸腾耗水规律的研究[16、对胡杨气体交换特性的研究以及对胡杨种群结构与分布格局的研究[17]等。虽然,干旱胁迫下对胡杨叶片气孔特征有过相关研究，但对胡杨叶片气孔特征对干旱环境响应的雌、雄株差异的研究还鲜见报道。胡杨叶片气孔密度与气孔长度随干旱胁迫程度的增加是否发生改变？这种改变是否存在雌、雄株的差异性？研究胡杨雌、雄株叶片气孔特征的差异对胡杨进行更有针对性的保育、种群恢复以及塔里木河流域生态环境的保护均有重要意义。
+
+# 1 研究区概况
+
+研究区位于塔里木河下游，地处我国最大的沙漠塔克拉玛干沙漠与库鲁克沙漠之间，这里被形象的称为“绿色走廊”（图1）。正是由于“绿色走廊”的存在才阻止了塔克拉玛干沙漠与库鲁克沙漠的合并,对本地区的交通、军事、生态环境具有战略意义[18]。区内胡杨林大多沿塔里木河河道分布,且随距河距离的增加，种群密度呈减小趋势。塔里木河下游气候类型属于典型的温带大陆性极端干旱气候,全年降水稀少,年平均降水量不足 $5 0 ~ \mathrm { m m } ^ { \left[ 1 9 \right] }$ ，全年干燥且多风，使得本地区蒸发强烈，蒸发量大于$2 ~ 5 0 0 \mathrm { m m }$ ,年太阳辐射为 $5 6 9 2 \sim 6 3 6 0 \mathrm { M J } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ，全年日照时数为 $2 \ 7 8 0 \sim 2 \ 9 8 0 \ \mathrm { h }$ ，日平均气温 $1 3 \sim 1 7$ C[20]。1972年大西海子水库建成,将塔里木河河水引入水库，自此向下的 $3 2 1 ~ \mathrm { k m }$ 河道常年处于断流状态，又因本地区降雨量极低，无地表径流补给河道，使地下水位大幅下降，随距河距离的增加，地下水位降低显著，3个断面平均地下水位由距河 $5 0 \mathrm { ~ m ~ }$ 处的 $5 . 1 3 \mathrm { ~ m ~ }$ 增加到距河 $5 0 0 \mathrm { ~ m ~ }$ 处的 $7 . 7 5 \mathrm { ~ m ~ }$ 。主要依赖地下水生长的旱生植物胡杨等大面积死亡，进一步加剧了土地荒漠化。
+
+![](images/7b9bc630697dca66503ef51bd3d025232c03d5bd90bf53d3d83f8ec88b48e825.jpg)  
+图1研究区示意图  
+Fig.1 Overview of the study area
+
+# 2研究方法
+
+# 2.1 野外取样
+
+2017年8月在塔里木河下游,纵向上沿塔里木河河道依次选取英苏、阿拉干、依干布及麻3个取样断面，横向上根据胡杨种群生境水分条件随距河距离增加、地下水埋深增大、干旱胁迫加重的梯度变化规律，在河道两侧距离河道 $5 0 \mathrm { ~ m ~ }$ 及 $5 0 0 \mathrm { ~ m ~ }$ 的样点进行采样。
+
+地下水埋深随距河距离的变化如表1所示。每个采样点均选取胸径相近( $1 5 \sim 4 0 ~ \mathrm { c m } ,$ 的雌、雄胡杨各3株，选取没有损伤、没有虫害、完好的叶片混合样10片。处理后放入FAA固定液( $3 8 \%$ 甲醛:冰醋酸:$70 \%$ 酒精 $= 5 \colon 5 \colon 9 0 \ \cdot$ )中保存，带回实验室。
+
+# 2.2 室内测定
+
+气孔密度(SD)与气孔长度(SL)通过扫描电镜进行测定。具体步骤： $\textcircled{1}$ 叶片样品从固定液中取出，依次放入浓度为 $5 0 \% . 7 0 \% . 8 5 \% . 9 5 \%$ 和 $100 \%$ 的乙醇对样品进行脱水处理，每次脱水时间为10$\mathrm { m i n }$ 。 $\textcircled{2}$ 将一次脱水后的样品用叔丁醇进行二次脱水2遍后，放入冻干机冻干 $1 2 \ \mathrm { h } ; \textcircled { 3 }$ 将脱水干燥的叶片根据叶脉判断出叶片的上下表皮后贴片，使用离子溅射仪ION SPUTTERE－1045（HITACHI，日本)对分好上下表皮的叶片进行镀金处理，用SU-PRA55VP场发射扫描电镜(ZEISS,德国)进行观察拍照，并用配套软件测量。
+
+表1各样点不同距河距离的地下水埋深  
+Tab.1 Groundwater depths in the places with different distances away from the river channel   
+
+<html><body><table><tr><td rowspan="2">样地</td><td colspan="2">地下水埋深</td></tr><tr><td>距河距离(50 m)</td><td>距河距离(500 m)</td></tr><tr><td>英苏</td><td>4.06</td><td>6.35</td></tr><tr><td>阿拉干</td><td>5.28</td><td>7.56</td></tr><tr><td>依干布及麻</td><td>6.06</td><td>8.34</td></tr></table></body></html>
+
+气孔密度与气孔长度的测量方法：在100倍的放大倍率下画一个边长为 $5 0 0 ~ { \mu \mathrm { m } }$ 的正方形,计算正方形内的气孔数 SD（个 $\cdot \mathrm { m m } ^ { - 2 }$ ） $\mathbf { \sigma } = \mathbf { \sigma }$ 正方形内的气孔数 $\times 4$ 。在250倍的放大倍率下选10个气孔进行长度的测量。所有叶片气孔长度与叶片气孔密度的数据放入Excel软件中进行分析与处理，算出不同样地、不同距河距离、胡杨雌、雄株叶片的气孔长度与密度的平均值。
+
+# 3 结果与分析
+
+# 3.1不同干旱胁迫下的胡杨叶片气孔密度变化
+
+不同干旱胁迫下塔里木河下游胡杨叶片气孔密度变化如图2所示，胡杨叶片气孔密度变化范围为$5 6 \sim 1 5 2$ 个· $\mathrm { m m } ^ { - 2 }$ ,平均气孔密度为91个· $\mathrm { m m } ^ { - 2 }$ ;下表皮平均气孔密度为102个· $\mathrm { m m } ^ { - 2 }$ ;上表皮平均密度为80个· $\mathrm { m m } ^ { - 2 }$ ;距河 $5 0 \mathrm { ~ m ~ }$ 平均气孔密度为79个 $\cdot \mathrm { m m } ^ { - 2 }$ ,距河 $5 0 0 \mathrm { ~ m ~ }$ 平均气孔密度为102 个·$\mathrm { m m } ^ { - 2 }$ 。随距河距离的增大,地下水位降低,干旱胁迫程度增大。
+
+由图2a可以看出，胡杨叶片下表皮气孔密度在两个干旱胁迫梯度下随干旱胁迫程度的增加而增加，上表皮气孔密度变化规律与其一致。说明气孔密度与距河距离呈正比，与地下水埋深呈正比，气孔密度与距河距离在( $\textstyle P < 0 . 0 1 { \dot { } }$ )水平上显著相关；从图2b可以看出，胡杨叶片气孔密度在相同干旱胁迫下其下表皮气孔密度均大于上表皮，符合荒漠区植物叶片气孔密度下多上少的分布规律。
+
+# 3.2不同干旱胁迫下的胡杨叶片气孔长度变化
+
+不同干旱胁迫下塔里木河下游胡杨叶片气孔长度的变化如图3所示，胡杨叶片气孔长度变化范围为 $2 3 . 2 6 \sim 2 8 . 9 3 ~ \mu \mathrm { m }$ ,平均气孔长度 $2 5 . 8 1 ~ \mu \mathrm { m }$ ；下表皮平均气孔长度为 $2 5 . 0 3 ~ { \mu \mathrm { m } }$ ,上表皮平均气孔长度为 $2 6 . 5 8 ~ \mu \mathrm { m }$ ;距河 $5 0 \mathrm { ~ m ~ }$ 平均气孔长度为26.86$\mu \mathrm { m }$ ,距河 $5 0 0 \mathrm { ~ m ~ }$ 平均气孔长度为 $2 4 . 7 6 ~ \mu \mathrm { m }$ 。
+
+由图3a可见，胡杨叶片上、下表皮气孔长度在两个干旱胁迫梯度下均符合随干旱胁迫程度增大而减小的变化规律，说明气孔长度与距河距离呈反比，与地下水埋深呈反比，气孔长度与距河距离在( $P <$
+
+![](images/dc50574a12f59eef5f0857306fe7f1d63c066b323a0f49dfc244826b21753dea.jpg)  
+Fig.2Change of stomatal density in leaves of Populus euphratica under different drought stress
+
+![](images/0896fe082e46d0cc60b3ac178c03343527a19531a03d4ba9eac96aa81370a603.jpg)  
+图2不同干旱胁迫下的胡杨叶片气孔密度的变化  
+图3不同干旱胁迫下胡杨叶片气孔长度的变化  
+Fig.3Change of stomatal length in leaves of Populus euphratica under different drought stress
+
+![](images/a1d439a022de47ea0722fd339090a5aef3af63235479bddaeb2ed349bec00ef1.jpg)  
+图4胡杨雌雄株的气孔密度和长度变化的差异
+
+Fig.4Diffrencesof stomatal densityand stomatal length inleaves between differentsexes of Populuseuphratica
+
+0.01)水平上呈显著负相关;从图3b可以看出，胡杨叶片气孔长度在相同干旱胁迫下其上表皮气孔长度均大于下表皮。
+
+# 3.3干旱胁迫下胡杨雌、雄株的叶片气孔变化
+
+在干旱胁迫环境下，胡杨雌、雄株有着不同抗旱特点和避害机制。分析结果显示，随着干旱胁迫程度的增加，胡杨雌、雄株叶片下表皮气孔密度均大于上表皮，且随干旱胁迫程度的增加，上、下表皮气孔密度呈现增加趋势（图4)。由图4可见，随着地下水埋深和干旱胁迫程度的增加,胡杨雌、雄株叶片上表皮气孔长度均大于下表皮，且随干旱胁迫程度的增加，胡杨雌、雄株上、下表皮气孔长度呈现减小趋势。但雌株下表皮气孔长度下降幅度大于雄性，雌、雄性上表皮变化幅度差异不明显。
+
+由干旱胁迫环境下胡杨雌、雄株叶片上、下表皮气孔密度变化分析可见（表2），随着地下水位埋深和干旱胁迫程度的增加，雌、雄株叶片上、下表皮气孔密度均呈上升趋势，但增长率有所不同，雄性下表皮气孔密度增长率最小为 $1 3 \%$ ,雌、雄上表皮及雌性下表皮气孔密度增长率均在 $30 \%$ 以上，远超雄性下表皮气孔密度。
+
+# 表2胡杨雌、雄株叶片气孔密度变化
+
+Tab.2Change of stomatal density in different sexes ofPopulus euphratica   
+表3胡杨雌、雄株叶片气孔长度变化状况  
+
+<html><body><table><tr><td rowspan="3"></td><td colspan="5">气孔密度</td></tr><tr><td>下表皮/(个·mm-²)</td><td></td><td></td><td>增长率上表皮/（个·mm-2</td><td>增长率 /%</td></tr><tr><td>50m</td><td>500m</td><td>/%</td><td>50m</td><td>500m</td></tr><tr><td>雌性</td><td>89</td><td>116</td><td>30</td><td>66</td><td>88 32</td></tr><tr><td>雄性</td><td>94</td><td>106</td><td>13</td><td>66</td><td>97 47</td></tr></table></body></html>
+
+Tab.3Change of stomatal length in leaves of different sexesofPopuluseuphratica   
+
+<html><body><table><tr><td rowspan="3"></td><td colspan="6">气孔长度</td></tr><tr><td colspan="2">下表皮/μm</td><td rowspan="2">增长率 /%</td><td colspan="2">上表皮/μm</td><td rowspan="2">增长率 /%</td></tr><tr><td>50m</td><td>500 m</td><td>50m</td><td>500 m</td></tr><tr><td>雌性</td><td>27.51</td><td>23.26</td><td>-15</td><td>28.93</td><td>26.93</td><td>-7</td></tr><tr><td>雄性</td><td>25.32</td><td>24.04</td><td>-5</td><td>25.67</td><td>24.08</td><td>-3</td></tr></table></body></html>
+
+分析干旱胁迫环境下胡杨雌雄株叶片上、下表皮气孔长度变化可见表3，随着地下水位埋深和干旱胁迫程度的增加，雌、雄株叶片上、下表皮气孔长度均呈下降趋势，下降程度各不相同，雌、雄株叶片上表皮及雄性叶片下表皮下降率均小于 $10 \%$ ,雌性下表皮下降率达 $1 5 \%$ ,是其他叶片的2～5倍。
+
+# 4讨论
+
+在塔里木河下游极端干旱环境下，水分胁迫是影响以胡杨为主体的荒漠河岸林植物生长发育的最重要的环境胁迫因子，在长期的干旱胁迫环境下，塔里木河下游胡杨形成了其特有的避害机制和抗旱策略，并且，随着地下水埋深的增大和干旱胁迫程度的增加,胡杨气孔密度出现显著增加趋势[(2I-22]。产生这一变化的原因可能是干旱胁迫抑制了叶片的生长，使叶面积变小，从而导致单位面积内的气孔数量增加，气孔密度增大。随着干旱胁迫增加,气孔密度增加的植物还有冬小麦（Triticum aestivum）[23）、绢毛委陵菜（Potentilla sericea）〔24）、德国补血草（Limoni-um tataricum）[25]春小麦(Triticum aestivum）[26]等,说明干旱胁迫程度增大，使得叶片气孔密度增大，这一响应机制在多个物种存在。上、下表皮气孔密度对比显示，下表皮气孔密度大于上表皮，符合荒漠区植物叶片气孔密度下多上少的分布规律。由于干旱区降水稀少，土壤、空气等环境中水分条件差且辐射强，对叶片造成的损伤十分严重，阳光直射在上表皮，而下表皮由于上表皮阻止部分阳光照射，相对辐射较小。气孔分布下多上少可以减少植物的蒸腾作用，这也是植物减少水分散失对干旱环境的一种适应。
+
+同时，研究还发现塔里木河下游胡杨叶片的气孔长度随地下水位埋深加大和干旱胁迫程度的增加而减小的趋势。导致这一现象的原因可能是干旱胁迫致使叶片生长被抑制，使得气孔长度减小，气孔对环境的适应呈现出小而密的特征。同样，随着干旱胁迫程度的加剧，气孔长度减小的干旱区植物还有砂生槐（Sophora moorcroftiana）[27]、银沙槐（Ammo-dendronargenteum）{28]等。说明气孔长度随干旱胁迫增加而减小的响应机制在干旱区植物中较为常见。吴建慧等[29]研究显示,气孔长度随干旱胁迫程度的增强而减小，而气孔密度则表现出随干旱程度的增强而显著增加，而蒸腾速率随着胁迫程度的增强而显著降低，这是因为在干旱胁迫增强时，植物通过增大气孔密度和降低气孔长度来降低蒸腾速率，以提升自身的抗旱能力。从植物抗旱性的角度来看，一般拥有较强抗旱性的植物其气孔具有小且密度大的特点[30]。这是因为气孔对水分条件变化反应敏感，植物可以通过调节气孔的开合控制进出叶片气体与水分的量，气孔密度增大能增强控制气体与水分的进出能力，气孔长度变小可以减少水分的散失。
+
+调查分析结果显示，塔里木河下游胡杨雄、雌株的抗胁迫能力有着显著差别。比较气孔密度变化率可见，胡杨雌株的叶片气孔密度变化率在 $30 \%$ 以上，而胡杨雄株的变化率仅为 $1 3 \%$ 。说明在干旱胁迫加重的情况下，雌株反应更加灵敏。但是在距河$5 0 \mathrm { ~ m ~ }$ 处雄株叶片气孔密度明显大于雌株，说明在同等干旱的环境中雄株的耐受性更强。随着干旱胁迫的增加，雌、雄株叶片气孔密度达到同一水平，雄株变化较平缓，说明雄株本身被干旱环境影响较小，在干旱环境下更稳定。气孔长度变化率方面雌株大于雄株，在距河 $5 0 \mathrm { ~ m ~ }$ 的地下水埋深较浅处，受干旱胁迫较弱，雌株上下表皮气孔长度均大于雄株，说明在同等的干旱环境中雄株气孔长度较小，散失的水分较少，抵御干旱的能力更强。气孔密度与气孔长度的变化均显示在干旱胁迫环境下胡杨雄株的保水能力、耐受能力均强于雌株。这与干旱胁迫较强，距河距离较远的生境下胡杨雄株数目远大于雌株的规律吻合。这一结果为塔里木河下游胡杨种群的恢复与退化，胡杨林生态系统的修复提供了一个重要信息。
+
+# 5结论
+
+通过分析干旱胁迫环境下塔里木河下游英苏、阿拉干、依干布及麻3个断面胡杨雌、雄株叶片的气孔变化，得到如下初步结果：
+
+（1）塔里木河下游胡杨叶片下表皮气孔密度大  
+于上表皮；上表皮气孔长度大于下表皮。（2）塔里木河下游胡杨叶片气孔密度随干旱胁  
+迫程度的增大呈增大趋势，而气孔长度则随着干旱  
+胁迫程度的增大而减小。(3）胡杨雄株耐受干旱胁迫的程度强于雌株。
+
+# 参考文献(References）:
+
+[1]Taylor S H,Franks PJ,Hulme SP,et al.Photosynthetic pathway and ecological adaptation explain stomatal trait diversity amongst grasses[J].New Phytologist,2012,193(2）:387-396.   
+[2]Franks PJ,Beerling D J.Maximum leaf conductance driven by $\mathrm { C O } _ { 2 }$ （204 effects on stomatal size and density over geologic time[J].Proceedings of the National Academy of Sciences of the United States of America,2009,106(25):10 343-10 347.   
+[3]张肖，吕瑞恒，梁继业，等.胡杨生殖构件空间分布特征及其养 分动态分析[J].干旱区研究,2017,34（1）：95-103.[Zhang Xiao,Lv Ruiheng,Liang Jiye,et al. Spatial distribution of reproductive shoots and dynamic change of nutrient contents of Populus euphratica[J].Arid Zone Research,2017,34(1）:95-103.]   
+[4]任昱,卢琦,吴波，等.白刺叶片气孔特征对人工模拟降雨的响 应[J].生态学报，2014，34（21）:6101-6106.［RenYu，Lu Qi,Wu Bo,et al.response of leaf of Nitraria tangutorum Bobr stomata characteristics to artificial simulation of rainfall[J].Acta Ecologica Sinica,2014,34(21):6 101-6 106.]   
+[5] 司建华,常宗强,苏永红，等.胡杨叶片气孔导度特征及其对环 境因子的响应[J].西北植物学报，2008,28（1）：125-130.［Si Jianhua,Chang Zongqiang,Su Yonghong,et al. Stomatal conductance characteristics of Populus euphratica leaves and response to environmental factors in the extreme arid region[J].Acta Botanica Boreali-Occidentalia Sinica,2008,28(1）:125-130.]   
+[6] 蒋高明.植物生理生态学[M].北京：高等教育出版社，2004： 93-95.[Jiang Gaoming.Plant Ecophysiological Ecology[M]. Beijing:Higher Education Press,2004:93-95.]   
+[7]Casson S A,Hetherington A M.Environmental regulation of stomatal development[J].Current Opinion in Plant Biology,2010,13 (1):90-95.   
+[8]Haworth M,Elliott-Kingston C,McElwain JC.Stomatal control as a driverofplantevolution[J].JournalofExperimental Botany, 2011,62(8) :2 419-2 423.   
+[9]Hetherington A M,WoodwardF I. The role of stomata in sensing and driving environmental change[J].Nature,2003,424(6 951）: 901-908.   
+[10]Franks P J,Drake PL,Beerling D J.Plasticity in maximum stomatal conductance constrained by negative correlation between stomatal size anddensity:An analysisusing Eucalyptus globulus[J]. Plant,Cell & Environment,2009,32（12）:1737-1 748.   
+[11］周洪华,陈亚宁,李卫红.新疆铁干里克绿洲水文过程对土壤 盐渍化的影响[J].地理学报,2008,63（7）:714－724.[Zhou Honghua,Chen Yaning,Li Weihong.Effect of oasis hydrological processes on soil salinization of Tikanlik oasis in the lower Tarim River[J]. Acta Geographica Sinica,2008,63（7） :714 -724.]   
+[12］陈亚宁,李卫红,陈亚鹏,等.荒漠河岸林建群植物的水分利用 过程分析[J].干旱区研究,2018,35（1）:130-136.[Chen Yaning,Li Weihong,Chen Yapeng,et al. Water use process of constructive plants in desert riparian forest[J].Arid Zone Research, 2018,35(1) :130 -136. ]   
+[13］朱成刚,李卫红,陈亚鹏,等.克隆水分整合有助胡杨无性系幼 株在极端干旱生境下保持更高生存优势[J].应用生态学报, 2017,28(5）:1 448-1 454.[Zhu Chenggang,Li Weihong,Chen Yapeng,et al. Clonal water integration contributes to more survival advantages for Populus euphratica young ramets in the hyper-arid habitat[J].Chinese Journal of Applied Ecology,2017,28（5）： 1 448 -1 454.]   
+[14］陈亚宁,李卫红,陈亚鹏,等.新疆塔里木河下游断流河道输水 与生态恢复研究[J].生态学报,2007,27(2）：538-545.[Chen Yaning,Li Weihong,Chen Yapeng,et al. Water conveyance in dried-up river way and ecological restoration in the lower reaches of Tarim River,China[J].Acta Ecologica Sinica,2007,27(2）:538 -545.]   
+[15]朱成刚,陈亚宁,李卫红,等.干旱胁迫对胡杨 PS Ⅱ光化学效 率和激能耗散的影响[J].植物学报,2011,46(4）:413-424. [Zhu Chenggang，Chen Yaning,Li Weihong，et al. Effect of drought stress on photochemical efficiency and dissipation of excited energy in photosystem II of Populus euphratica[J]. Chinese Bulletin of Botany,2011,46(4） :413-424.]   
+[16］何斌,陈亚宁,李卫红,等.塔里木河下游地区胡杨蒸腾耗水规 律及其对生态输水的响应[J].资源科学,2009,31(9）：1 545 -1 552.[He Bin,Chen Yaning,Li Weihong,et al.Analysis of the variation of transpiration of Popular euphratica and its response to ecological water suppy at the lower reaches of Tarim River[J]. Resources Science,2009,31(9) :1 545-15 52.]   
+[17］白元,徐海量,涂文霞,等.塔里木河干流胡杨种群结构与分布 格局研究[J].西北植物学报,2013,33(6):1216-1 223.[Bai Yuan,Xu Hailiang,Tu Wenxia,et al.Population structure and spatial distribution of the Populus euphratica in the mainstream of the Tarim River[J].Acta Botanica Boreali-Occidentalia Sinica,2013, 33(6) :1 216 -1 223.]   
+[18］陈亚宁,陈亚鹏,李卫红,等.塔里木河下游胡杨脯氨酸累积对 地下水位变化的响应[J].科学通报,2003,48（9）:958-961. [Chen Yaning,Chen Yapeng,Li Weihong,etal.Proline accumulation of Populus euphratica in the lower reaches of Tarim River for groundwater level[J]. Chinese Science Bulletin,2003,48(9）:958 -961.]   
+[19］周莹莹,陈亚宁,朱成刚,等.塔里木河下游胡杨（Populus euphratica)种群结构[J].中国沙漠,2018,38（2）:1-9.［Zhou Yingying,Chen Yaning,Zhu Chenggang,et al.Population structure characteristics of Population euphratia in the lower reaches of Tarim River[J]. Journal of Desert Research,2018,38(2）:1-9.]   
+[20］朱成刚,李卫红,马建新,等.极端干旱生境下胡杨克隆水分整 合特征及其生态意义[J].植物科学学报,2017,35（3）：344- 353.[Zhu Chenggang,Li Weihong,Ma Jianxin,et al. Clonal water integration characteristics and ecological significance of Populus euphratica Oliv.in hyper arid habitats[J].Plant Science Journal, 2017,35(3) :344 -353. ]   
+[21］王瑞丽,于贵瑞,何念鹏,等.气孔特征与叶片功能性状之间关 联性沿海拔梯度的变化规律——以长白山为例[J].生态学 报,2016,36(8）:2 175-2 184.[Wang Ruili,Yu Guirui,He Nianpeng,et al.Altitudinal variation in the covariation of stomatal traits with leaf functional traits in Changbai Mountain[J].Acta Ecologica Sinica,2016,36(8):2 175 -2 184.]   
+[22］王日照,陈亚鹏,陈亚宁,等.地下水埋深对胡杨(Populus euphratica)叶片形态结构和水力导度的影响[J].中国沙漠,2016, 36(5）:1 302-1 309.[Wang Rizhao,Chen Yapeng,Chen Yaning,et al.Effects of groundwater level on morphological,anatomical structure and leaf hydraulic conductance of Populuseuphratica [J].Journal of Desert Research,2016,36(5）:1 302-1 309.]   
+[23］高冠龙,张小由,常宗强,等.植物气孔导度的环境响应模拟及 其尺度扩展[J].生态学报,2016,36(6):1 491-1500.[Gao Guanlong,Zhang Xiaoyou,Chang Zongqiang,et al.Environmental response simulation and the up-scaling of plant stomatal conductance[J].Acta Ecologica Sinica,2016,36(6):1 491-1 500.]   
+[24］郭瑶,吴建慧.水分胁迫对绢毛委陵菜气孔特征的影响[J].吉 林农业科技学院学报,2015,24（4）:13-16.[Guo Yao,Wu Jianhui.Effect of water stress on stomatal characteristics of leaves ofPotentilla sericea[J]. Journal of Jilin Agricultural Science and Technology University,2015,24(4）:13-16.]   
+[25］胡妍妍,白利娟,张婷,等.干旱胁迫对德国补血草气孔特征及 生理特性的影响[J].湖北农业科学,2015,54（20）：5066- 5 069.[Hu Yanyan,Bai Lijuan,Zhang Ting,et al.Effect of drought stress on stomatal and physiological characteristics of Limonium tataricum[J].Hubei Agricultural Sciences,2015,54（20）： 5 066 -5 069.]   
+[26］杨惠敏,王根轩.干旱和 $\mathrm { C O } _ { 2 }$ 浓度升高对干旱区春小麦气孔密 度及分布的影响[J].植物生态学报,2001,25（3）:312－316. [Yang Huimin,Wang Genxuan.Leaf stomatal densities and distribution in Triticum Aestivum under drought and $\mathrm { C O } _ { 2 }$ enrichment [J]. Chinese Journal of Plant Ecology,2001,25(3）:312-316.]   
+[27］姚卫杰,张艳福,丹曲,等.砂生槐叶片气孔特性对干旱和低温 胁迫的响应[J].贵州农业科学,2015,43（9）:23－29.[Yao Weijie,Zhang Yanfu,Dan Qu,etal.Stomatal featureof Sohora moorcroftiana leaf under drought and cold stress[J].Guizhou Agricultural Sciences,2015,43(9):23-29.]   
+[28］徐萍,李进,吕海英,等.干旱胁迫下水杨酸对银沙槐子叶表皮 气孔开度的影响[J].植物生理学报,2014,50(4）:510-518.
+
+[XuPing,Li Jin,Lv Haiying,et al.Effect of salicylic acid on stomata aperture of epidermis in Ammodendron argenteum cotyled under drought stress[J].Plant Physiology Journal,2014,50(4）:510 -518.]
+
+[29]吴建慧，郭瑶，崔艳桃.水分胁迫对绢毛委陵菜叶绿体超微结构及光合生理因子的影响[J].草业科学，2012，29（3）：434-439.[Wu Jianhui,Guo Yao,Cui Yantao.Effects of water stress on
+
+ultrastructure and photosynthetic physiological factors of Potentilla sericea[J].Pratacultural Science,2012,29(3）:434-439.] [30]李中华，刘进平，谷海磊，等.干旱胁迫对植物气孔特性影响研 究进展[J].亚热带植物科学，2016，45（2）：195-200.［Li Zhonghua,Liu Jinping,Gu Hailei,et al.Review on the effects of drought stress on plant stomatal characteristics[J].Subtropical Plant Science,2016,45(2):195-200.]
+
+# Stomatal Change in Leaves of Population euphratica under Drought Stress
+
+XIA Zhen-hual2，CHENYa-ning²，ZHU Cheng－gang²，ZHOU ying-ying12，CHEN xiao-lin² (1.College of Geography and Tourism,Xinjiang Normal University,Urumqi 83oo54,Xinjiang,China; 2.State KeyLaboratoryof DesertandOasis Ecology,Xinjiang Instituteof Ecologyand Geography,ChineseAcademy ofSciences,Urumqi 830011,Xinjiang,China)
+
+Abstract：The study on stomatal characteristics of Populus euphratica leaves is helpful to understand the characteristicsof wateruse and drought resistance mechanism under drought stress.In this paper,three typical profiles of P.euphratica,i.e.Yengisu,Aragan,Yikanbujima,were selected from the lower reaches of the Tarim River.The variation of stomatal density and stomatal length in leaves of $P$ . euphratica under different drought stress gradients was investigated,and the response diference between staminiferousand female plants under drought stress was analyzed.Result are as follows: $\textcircled{1}$ The stomatal density of $P$ . euphratica leaves was increased but the leaf stomatal length was decreased with the increase of drought stress； $\textcircled{2}$ Under drought stress,there were some differences in leaf stomatal density and stomatal length between staminiferous and female $P$ .euphratica plants,which showed that the growth rate of stomatal density in leaf epidermis of staminiferous $P$ . euphratica plant was low under drought stress.The stomatal length of lower epidermis of female $P$ . euphratica plant was significantly longer than that of male; $\textcircled{3}$ The change of stomatal density and length of $P$ .euphratica leaves reflected that the drought resistance of diferent sexes was different,and the water retention and drought resistance of staminiferous plant of $P$ . euphratica were higher than those of female plant.
+
+Key Words:Populus euphratica;stomatal density ;stomatal length； lower reaches； Tarim River

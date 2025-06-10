@@ -1,0 +1,238 @@
+# 祁连山南麓夏季不同降水云系雨滴谱特征及其Z-R关系
+
+张玉欣1²，韩辉邦12，郭世钰1²，田建兵1²，唐文婷1.2(1.青海省气象灾害防御技术中心,青海 西宁810001；2.青海省防灾减灾重点实验室,青海 西宁 810001)
+
+摘要：利用2019年8—9月激光雨滴谱仪观测数据,对祁连山南麓夏季不同降水云系(层状云和对流云)雨滴微物理特征、雨滴谱分布、粒子下落速度及Z-R关系进行分析。结果表明：(1）祁连山南麓夏季对流云降水雨滴各微物理参量均大于层状云降水，山区对流云发展不同阶段对雨强及雨滴微物理参量的影响较大;(2)Gamma分布更加接近祁连山区夏季实际雨滴谱分布,但M-P分布和Gamma分布均会造成雨滴数浓度的高估；（3）不同尺度雨滴粒子下落速度不同，对流云降水粒子落速范围略大于相同尺度上的层状云降水,传统粒子下落速度拟合在祁连山区存在明显的低估现象；(4)祁连山南麓夏季层状云降水Z-R关系为 ${ \cal Z } { = } 4 4 5 R ^ { 1 . 5 0 }$ ，对流云降水Z-R关系为 ${ \cal Z } { = } 4 2 7 R ^ { 1 . 8 8 }$ ，使用传统的雷达估测降水方法会造成该地区降水的低估。
+
+关键词：雨滴谱；对流云降水；层状云降水；微物理特征；祁连山
+
+雨滴是云中微物理、动力学过程及其他综合因子相互作用的结果,是降水过程的真实反映[1]。雨滴谱是指单位体积内、一定粒径范围内雨滴粒子数浓度随尺度的变化趋势，可以反映云中成雨过程、云动力学和微物理学之间的相互制约关系，雨滴谱的分析研究是目前云微物理研究的重要内容[3]，对进一步了解自然降水的物理过程、成云致雨机制、评估人工增雨条件、检验作业效果及提高雷达定量估测降水精度等均有着重要的意义和价值[4-5]。
+
+雨滴谱分布研究历史悠久，Marshall等[于1948年对加拿大渥太华地区的平均雨滴谱分布进行了详细测量，是目前已知最早关于雨滴谱的研究。中国从20世纪60年代开始相关雨滴谱研究工作，经历了传统试纸色斑法[7-8]、光电、声电测量[9-10]到激光测量[11-13]的转变。目前,激光雨滴谱仪已成为国内外雨滴谱研究的重要手段，其观测数据已被广泛应用于雨滴谱研究中。
+
+祁连山位于青藏高原东北边缘，横跨甘肃、青海省，全长约 $1 0 0 0 { \mathrm { k m } }$ ,平均海拔在 $4 0 0 0 \mathrm { ~ m ~ }$ 以上[14]，具有显著的高山增水效应，是西北干旱区重要的内陆"水塔”[15-16]。受西风带、南亚季风和高原偏南季风和东亚季风活动的共同影响，对大气环流活动依赖性较大[17]。张强等[18]研究表明，祁连山大气水汽含量分布呈现西北向东南逐渐增加的趋势，同时其水汽含量与地理分布有较好的对应关系。李岩瑛等研究祁连山降水和地形关系时发现小雨日数与海拔呈现线性相关，中雨以上与地理位置和坡度相关。史晋森等2研究发现，夏季祁连山北坡雨滴平均粒径对流云最大，层状云最小，降雨强度和雨滴粒子数密度变化趋势一致。受高原山区特殊地形影响，祁连山水汽及降水分布具有高原地形云特征，对祁连山降水的研究将有助于掌握该地区降水形成演变规律，对有效开发山区云水资源提供数据支撑。本文利用2019年8—9月祁连山南麓3部激光雨滴谱仪观测资料，分析不同云系降水雨滴谱微物理特征及Z-R关系，揭示山区降水雨滴谱特征。
+
+# 1资料和方法
+
+# 1.1设备介绍
+
+德国OTT公司研制的Parsivel激光雨滴谱仪以激光观测为基础，通过降水粒子下降时对激光带的遮挡来计算和测量降水粒子的尺寸和速度，可实现对降水类型、降水粒子数密度、降水强度和累积降水量等实施监测[21]。仪器可识别毛毛雨、小雨、雨、雨加雪、雪、米雪、冻雨及冰雹8种降水类型[22]。仪器共有32个尺度通道和32个速度通道，粒子尺度范围 $0 . 2 { \sim } 2 5 ~ \mathrm { m m }$ ,速度范围为 $0 . 2 { \sim } 2 0 \ \mathrm { m } { \cdot } \mathrm { s } ^ { - 1 }$ ,采样面积$5 4 ~ \mathrm { c m } ^ { 2 }$ ，采样时间 $6 0 ~ \mathrm { s } ^ { [ 2 3 ] }$ C
+
+# 1.2数据处理
+
+由于受重力影响，雨滴在下落过程中多呈椭球形分布，而雨滴谱仪只能测量水平方向上的雨滴尺度，即椭球形雨滴的长轴直径，会造成雨滴测量值偏大，因此，采用Battaglia等[22]的方法，对雨滴进行形变修正。公式如下：
+
+$$
+D = \left\{ \begin{array} { c } { D _ { \mathrm { p a r } } , \qquad \quad \ \left( D _ { \mathrm { p a r } } \leqslant 1 . 0 \mathrm { m m } \right) } \\ { \left( 1 . 0 7 5 - 0 . 0 7 5 \mathrm { D } _ { \mathrm { p a r } } \right) D _ { \mathrm { p a r } } , \quad \left( 1 . 0 0 \mathrm { m m } < D _ { \mathrm { p a r } } < 5 . 0 0 \mathrm { m m } \right) } \\ { 0 . 7 D _ { \mathrm { p a r } } , \qquad \quad \ \left( D _ { \mathrm { p a r } } > 5 . 0 0 \mathrm { m m } \right) } \end{array} \right.
+$$
+
+式中： $D$ 为修正后的雨滴等效球形直径( $\bf \Pi _ { \mathrm { m m } } )$ ; $D _ { \mathrm { p a r } }$ 为雨滴谱仪测得的雨滴直径 $\left( { \bf m } \mathbf { m } \right)$ ）
+
+Parsivel观测数据为采样时间内经过采样面积的雨滴个数，因此，雨滴数浓度 $N ( \mathrm { m } ^ { - 3 } \cdot \mathrm { m m } ^ { - 1 } )$ 计算如下：
+
+$$
+N \big ( D _ { i } \big ) = \sum _ { j = 1 } ^ { 3 2 } \frac { n _ { i j } } { A \cdot \Delta t \cdot V _ { j } \cdot \Delta D _ { i } }
+$$
+
+式中： $n _ { i j }$ 为直径位于第 $i$ 个尺度区间,下落速度位于第 $j$ 个速度区间的雨滴数； $A$ 为仪器采样面积，即54$\mathrm { c m } ^ { 2 } ; \Delta t$ 为采样时间 $\mathrm { ( s ) }$ ，即 $6 0 \mathrm { ~ s } ; D _ { _ i }$ 和 $\Delta D _ { _ i }$ 为第 $i$ 个尺度区间的中心直径( $( \mathbf { m } \mathbf { m } )$ )和该区间的尺度间隔$\left( \mathrm { m m } \right)$ ； $V _ { j }$ 为第 $j$ 个速度区间的中心速度 $\left( \mathbf { m } { \cdot } \mathbf { s } ^ { - 1 } \right)$ 。
+
+雨强 $R \mathrm { ( m m \cdot h ^ { - 1 } ) }$ 、雨水含量 $W ( \mathrm { m g } \cdot \mathrm { m } ^ { - 3 } ) ,$ 及雷达反射率因子 $Z ( \mathrm { m m } ^ { 6 } { \cdot } \mathrm { m } ^ { - 3 } )$ 计算公式如下：
+
+$$
+R = \frac { \pi } { 6 } \sum _ { i = 1 } ^ { 3 2 } N ( D _ { i } ) D _ { i } ^ { 3 } V ( D _ { i } )
+$$
+
+$$
+W { = } \frac { \pi } { 6 } \rho \sum _ { i { = 1 } } ^ { 3 2 } N ( D _ { i } ) D _ { i } ^ { 3 }
+$$
+
+$$
+Z = \sum _ { i = 1 } ^ { 3 2 } N ( D _ { i } ^ { } ) D _ { i } ^ { 6 }
+$$
+
+式中： $V$ 为下落速度 $( \mathbf { m } \cdot \mathbf { s } ^ { - 1 } ) ; \rho$ 为水的密度 $( \mathbf { g } \cdot \mathrm { c m } ^ { - 3 } )$ 。
+
+雷达反射率因子 $Z$ 通常用dBZ表示， $\scriptstyle \mathrm { d B } Z =$ $1 0 \mathrm { l g } Z$ 。
+
+Gamma分布函数[24]为：
+
+$$
+N ( D ) = N _ { 0 } D ^ { \mu } \exp \left( - \lambda D \right)
+$$
+
+M-P分布函数为：
+
+$$
+N ( D ) = N _ { 0 } \exp { ( - \lambda D ) }
+$$
+
+式中： $N _ { 0 }$ 是截距参数 $\left( \mathrm { \ m } ^ { - 3 } { \cdot } \mathrm { m m } ^ { - \mu - 1 } \right.$ ） ${ \bf \nabla } \cdot \mu ^ { \mathrm { \Gamma } }$ 是形状因子;$\lambda$ 是斜率参数 $( \mathbf { m m } ^ { - 1 } )$ )。采用阶矩法对Gamma分布参数进行拟合，拟合时引入雨滴谱阶距 $M _ { n }$ 其下标为第$n$ 个阶矩，Gamma分布的参数( ${ \cal N } _ { 0 } , \mu , \lambda )$ 可用观测值的2、4、6阶距估算[24-25],计算公式如下：
+
+$$
+M _ { n } = \int _ { 0 } ^ { \infty } D ^ { n } N ( D ) \mathrm { d } D = N _ { 0 } { \frac { \Gamma ( \mu + n + 1 ) } { \Lambda ^ { \mu + n + 1 } } }
+$$
+
+式中： $\Gamma ( x )$ 为完整的Gamma函数，因此，质量加权平均直径 $D _ { m } ( \mathbf { m } \mathbf { m } )$ 可表示为：
+
+$$
+D _ { _ m } = { \frac { M _ { _ 4 } } { M _ { _ 3 } } }
+$$
+
+广义截距参数 $N _ { w } ( \mathrm { m m } ^ { - 1 } \cdot \mathrm { m } ^ { - 3 } )$ 为：
+
+$$
+N _ { _ w } = \frac { 4 ^ { 4 } } { \pi \rho _ { _ w } } \Biggl ( \frac { 1 0 ^ { 3 } W } { D _ { _ m } ^ { 4 } } \Biggr )
+$$
+
+式中： $\rho _ { _ w } \left( 1 . 0 \mathrm { g } \cdot \mathrm { c m } ^ { - 3 } \right)$ )为水的密度； $W$ 为雨水含量。
+
+# 1.3 观测点概况
+
+本文所用3部激光雨滴谱仪分别布设在位于祁连山南麓的青海省门源县和祁连县(图1)。其中，2部位于门源县老龙湾（海拔 $3 1 1 4 \mathrm { ~ m ~ }$ ， $1 0 1 ^ { \circ } 4 4 ^ { \prime } \mathrm { E }$ $3 7 ^ { \circ } 2 4 ^ { \prime } \mathrm { N } )$ 和讨拉(海拔 $2 9 1 0 \mathrm { m } , 1 0 2 ^ { \circ } 0 0 ^ { \prime } \mathrm { E } , 3 7 ^ { \circ } 2 0 ^ { \prime } \mathrm { N } )$ ，1部位于祁连县大拉洞（海拔 $2 9 5 7 \mathrm { ~ m ~ }$ ， $1 0 0 ^ { \circ } 1 8 ^ { \prime } \mathrm { E }$ ，$3 8 ^ { \circ } 1 1 ^ { \prime } \mathrm { N } )$ 。观测时间为2019-08-01—09-30。对雨滴谱观测时数据进行初步筛选，剔除观测中出现的直径 $> 6 \mathrm { m m }$ 的雨滴、雨强 $< 0 . 1 \ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ 、雨滴数少于10个及降水持续时间小于 $3 0 \mathrm { m i n }$ 的数据。
+
+# 1.4降水类型划分
+
+不同类型降水的雨滴谱分布差异较大，利用Chen等[26的分类方法，以雨滴谱数据为基础对降水类型进行划分，具体观测时间及样本概况如表1所示。整个观测期，层状云降水样本数多于对流云降水样本数。
+
+祁连山南麓3个站点层状云降水和对流云降水雨强频率及其对总降水量的累计贡献率如图2所示，分布频率随降水强度的增加呈现减小趋势，层状云降水在雨强 $< 5 ~ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ 时，老龙湾站降水发生频率最大，雨强 $> 5 \ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ 时，讨拉站降水发生频率最大。整个雨强范围内，降水对总降水量贡献率从大到小为：大拉洞站 $>$ 讨拉站 $>$ 老龙湾站。对流云降水在整个雨强范围内，发生频率从大到小为：老
+
+![](images/7990e991d4ba762d7e5cfbb8901b7c91e95765d59fa00d0ee6b6979a5ab3b91d.jpg)  
+图1研究站点分布示意图  
+Fig.1Distribution of research sites
+
+# 表1观测样本概况
+
+Tab.1 The general features of raindrop spectrum samples   
+
+<html><body><table><tr><td>站点</td><td>样本数总数(1 min)</td><td>层状云样本数(占比)</td><td>对流云样本数(占比)</td></tr><tr><td>老龙湾</td><td>1275</td><td>811(63.6%)</td><td>464(36.4%)</td></tr><tr><td>讨拉</td><td>7523</td><td>5284(70.2%)</td><td>2239(29.8%)</td></tr><tr><td>大拉洞</td><td>4562</td><td>3885(85.2%)</td><td>677(14.8%)</td></tr><tr><td>总和</td><td>13360</td><td>9980(74.7%)</td><td>3380(25.3%)</td></tr></table></body></html>
+
+龙湾站 $>$ 大拉洞站 $>$ 讨拉站，降水对总降水量贡献率从大到小为：讨拉站 $>$ 大拉洞站 $>$ 老龙湾站。
+
+# 2结果与讨论
+
+# 2.1雨滴微物理参量分布特征
+
+雨滴微物理参量能较好的反映出降水的基本特征，图3为观测站点不同云系降水粒子微物理参量统计特征值。祁连山水汽含量分布呈现西北向东南逐渐增加的趋势[18],大拉洞水汽条件相对较好。山区降水特征与海拔高度有较好相关性[19-20],但研究区3个站点海拔高度差异较小，降水特征差异主要受地理分布影响。从均值统计特征可以看出，对流云降水各微物理参量均大于层状云降水，这也与国内其他学者的研究结果相似[2.27-28]。但就不同站点而言，讨拉站位置更靠近山区，多数情况下处于该地区对流云发展初始阶段，讨拉站对流云降水R小于层状云降水， $N D$ 及W也较层状云小；老龙湾站位置处于对流云发展初始阶段，但相比讨拉站靠西，因此，老龙湾站对流云降水 $R$ 略高于层状云降水，其他微物理参量略大于层状云降水，但ND小于层状云降水；大拉洞站在大多数情况下处于对流云发展旺盛阶段，因此，大拉洞站对流云 $R$ 及其他微物理参量大于层状云降水。由此可见，对于山区对流云降水过程，对流云发展不同阶段对 $R$ 及雨滴微物理参量的影响较大。
+
+层状云降水过程经过老龙湾站时通常为降水发展旺盛阶段，而经过讨拉站时降水基本趋于结束，因此，老龙湾站雨强及其他雨滴微物理参量均大于讨拉站。祁连县大拉洞站因与其他两站相距较远，基本不属于同一天气过程，因此不具备注：R为雨强 $\mathrm { \langle m m \cdot h ^ { - 1 } }$ ） $N D$ 为数浓度 $\left( \mathrm { m } ^ { - 3 } \cdot \mathrm { m m } ^ { - 1 } \right)$ ） $D$ 为平均直径 $\left( { \mathrm { m m } } \right)$ ） $D _ { m }$ 为均方根直径 $( \mathrm { m m } )$ ： $D _ { \mathrm { m a x } }$ 为最大直径即谱宽 $( \mathrm { m m } )$ ;W为雨水含量 $\left( \operatorname* { m g } \cdot \mathbf { m } ^ { - 3 } \right)$ ： $C$ 表示对流云降水;S表示层状云降水。
+
+![](images/a3e92f29d63b437f2a8d17f906b0e25642715de587fafd60cfa7458c1ed01204.jpg)  
+图23站不同云系雨强频率及其对总降水量的累计贡献
+
+![](images/711c864fe832ac092c1d80691c15b617f243881d68d5dc86e6ec066270c34314.jpg)  
+Fig.2 Frequency distributions and cumulative contributions to total rainfall of precipitat   
+图3不同云系降水粒子微物理参量统计特征
+
+Fig.3The values of microphysical parameters for raindrop spectra at different rainfall events
+
+可比性。
+
+# 2.2平均雨滴谱分布特征
+
+由图4可知，不同云系降水实际雨滴谱分布存在明显差异，层状云降水谱宽较窄，最大值（讨拉站)为 $4 . 5 \mathrm { m m }$ ,最小值(老龙湾站)仅 $3 . 2 \mathrm { m m }$ ,峰值雨滴数浓度最大值(老龙湾站)为 $2 1 9 0 \mathrm { m } ^ { - 3 } { \cdot } \mathrm { m m } ^ { - 1 }$ ，最小值(讨拉站)为 $1 3 5 5 ~ \mathrm { m } ^ { - 3 } \cdot \mathrm { m m } ^ { - 1 }$ ,对流云降水谱宽较宽，最大值(讨拉站)达 $5 . 2 ~ \mathrm { m m }$ ,最小值(大拉洞站)为 $3 . 2 ~ \mathrm { m m }$ ,峰值雨滴数浓度最大值(大拉洞站)达$3 1 3 8 \mathrm { ~ m } ^ { - 3 } { \cdot } \mathrm { m m } ^ { - 1 }$ ,最小值(讨拉站)为 $1 3 0 6 \mathrm { m } ^ { - 3 } { \cdot } \mathrm { m m } ^ { - 1 }$ 。
+
+M-P分布和Gamma分布是目前描述雨滴谱分布的主要解析函数，广泛应用于降水探测及数值模式参数化方案中。对研究区观测站点不同降水云系平均雨滴谱进行分布拟合发现，Gamma分布和M-P分布均会高估雨滴数浓度，相比M-P分布，Gamma分布与实际雨滴谱分布曲线吻合程度较好，更加接近实际雨滴谱分布。表2给出了不同降水云系M-P分布和Gamma分布拟合的各参数值，M-P分布和Gamma分布对祁连山区层状云降水和对流云降水的拟合均较好，相关系数达0.8以上。M-P分布对层状云降水的拟合性稍好于Gamma分布，相关系数达$0 . 8 9$ 。M-P分布的截距参数 $N _ { 0 }$ 明显高于Gamma
+
+![](images/c1647d53b654a8a9e4832c9a51f604f85155971cc7fa693f5ba21367cee0f153.jpg)  
+图4不同云系降水雨滴谱分布  
+Fig.4Fitted and measured raindrop size distribution at different rainfall events
+
+表2M-P分布和Gamma分布拟合参数及相关系数  
+Tab.2 The mean spectrum parameters of Gamma and M-P distribution fiting and correlation coeffici   
+
+<html><body><table><tr><td rowspan="2">分类</td><td colspan="3">M-P分布</td><td colspan="4">Gamma分布</td></tr><tr><td>N</td><td>入</td><td>1</td><td>N。</td><td>入</td><td></td><td>1</td></tr><tr><td>S</td><td>514.73</td><td>2.94</td><td>0.98</td><td>385.06</td><td>7.61</td><td>-2.49</td><td>0.98</td></tr><tr><td>C</td><td>514.72</td><td>2.31</td><td>0.89</td><td>365.79</td><td>7.50</td><td>-2.76</td><td>0.88</td></tr></table></body></html>
+
+注：S为层状云降水， $\boldsymbol { C }$ 为对流云降水。
+
+分布。
+
+斜率参数入可直接反映雨滴谱拟合曲线的倾斜程度，表示雨滴粒子浓度随直径增大而减小的速率,入越大，曲线越陡，谱宽较窄。在祁连山区，无论是M-P分布还是Gamma分布，层状云系降水斜率参数入均大于对流云系降水，这也与层状云系降水谱宽较窄、对流云系降水谱宽较宽相吻合。层状云和对流云降水中，M-P分布的 $\lambda$ 明显小于Gamma分布，这与M-P分布的截距参数 $N _ { 0 }$ 明显高于Gamma分布有关。
+
+Gamma分布因引入形状因子 $\mathbf { \nabla } \cdot \mu$ ，能够较好地反映实际雨滴谱拟合线弯曲特性，当 $\mu { > } 0$ 时曲线向上弯曲， $\scriptstyle \mu < 0$ 则向下弯曲。已有的研究指出， $\scriptstyle \mu < 0$ 主要针对小雨滴较多、谱宽较宽的山地云降水，而 $\textstyle { \dot { \mu } } > 0$ 主要是雷暴云降水，层状云降水 $\mathscr { \mu }$ 多变，但基本为正值[29-30]。祁连山区层状云降水和对流云降水的形状因子均小于0，分别为-2.49和-2.76，说明该地区降水以小雨滴降水为主。
+
+# 2.3雨滴速度谱分布
+
+降水粒子的下落速度对于降水的形成具有重要作用，不同大小、相态和形状的降水粒子，下落速度的不同会导致碰并现象，并出现粒子内部电荷重新分配等现象。由图5可知，各尺度雨滴都对应于一个落速范围,且对流云降水中的落速范围略大于相同尺度上的层状云降水，说明雨滴的落速不仅受到尺度的影响，还与其他很多因素有关。层状云降水粒子的下落速度集中在 $0 . 5 { \sim } 1 . 5 ~ \mathrm { m } { \cdot } \mathrm { s } ^ { - 1 }$ 之间，对流云降水粒子的下落速度集中在 $0 . 5 { \sim } 2 . 5 \ \mathrm { m } { \cdot } \mathrm { s } ^ { - 1 }$ 之间。
+
+图5中黑色实线为Atlas等[31测量得出的标准情况下雨滴下落末速拟合曲线，代表标准情况下海平面高度雨滴的下落末速度，曲线对应的空气密度为 $1 . 2 3 \mathrm { ~ k g } \cdot \mathrm { m } ^ { - 3 }$ ,本文所用祁连山观测站点海拔均在$3 0 0 0 \mathrm { ~ m ~ }$ 左右，与标准拟合曲线相差较大，考虑到空气密度对雨滴下落速度的影响，结合雨滴谱观测期间同一站点自动气象站观测数据，老龙湾站海拔$3 1 1 4 \mathrm { ~ m ~ }$ ,平均空气密度为 $0 . 8 4 \mathrm { ~ k g } \cdot \mathrm { m } ^ { - 3 }$ ,讨拉站海拔
+
+![](images/eda3d5d1c196f8877abd32157f541f22678b9412cc49597905863230a1e63616.jpg)  
+图5雨滴数随直径和下落速度的分布  
+Fig.5The number of raindrops as a function of the drop diameter and falling velocity
+
+$2 9 1 0 \mathrm { m }$ ,平均空气密度为 $0 . 8 7 \mathrm { k g } { \cdot } \mathrm { m } ^ { - 3 }$ ,大拉洞站海拔$2 9 5 7 \mathrm { ~ m ~ }$ ,平均空气密度为 $0 . 8 8 \mathrm { ~ k g } \cdot \mathrm { m } ^ { - 3 }$ 。采用文献[31]中给出的订正因子，即：
+
+$$
+V = \left( 9 . 6 5 - 1 0 . 3 \mathrm { e } ^ { - 0 . 6 D } \right) \left( \frac { \rho _ { 0 } } { \rho } \right)
+$$
+
+式中： $V$ 为下落速度 $\left( \mathbf { m } \cdot \mathbf { s } ^ { - 1 } \right) ; D$ 为修正后的雨滴等效球形直径( $( \mathrm { m m } )$ ; $\rho _ { \mathrm { 0 } }$ 是海平面空气密度 $( \mathbf { g } \cdot \mathbf { c m } ^ { - 3 } ) ; \rho$ 是不同观测站点空气密度平均值 $\left( \mathbf { g } \cdot \mathbf { c m } ^ { - 3 } \right)$ ，由观测站点自动站所测气压计算得出。整个观测期间，标准拟合曲线会造成对粒子下落速度的低估，订正后的曲线更接近于实际观测值，说明祁连山区较低的空气密度是造成观测速度高于其下落速度的主要原因。同时，雨滴下落速度受雨滴碰并、空气垂直运动、湍流等多种因素影响，具体原因还需要进一步分析。
+
+# 2.4Z-R关系分析
+
+降水强度 $R$ 与雷达反射率因子Z的关系是雷达定量估测降水的基础，但Z-R关系的不确定性也是影响雷达定量估测降水精度的主要原因。降水强度 $R$ 与雷达反射率因子 $Z$ 之间存在幂指数关系，即${ \cal Z } { = } a R ^ { b }$ ,其中 $a$ 为关系系数， $b$ 为指数，随地区、季节、不同降水类型以及雨滴谱类型不同， $\mathbf { \omega } _ { a , b }$ 值有较大变化。雷达回波强度和降水强度的大小与雨滴谱分布有密切关系，不同降水类型的Z-R关系也不尽相同。
+
+祁连山区3个观测站不同类型降水Z-R关系拟合如图6所示，各参数如表3所示，层状云降水系数$\mathbf { \Omega } _ { a }$ 在202\~616之间,平均值为445,指数 $b$ 在1.40\~1.80之间，平均值为1.50。对流云降水系数 $a$ 在263\~777之间，平均值为427，指数 $b$ 在1.21\~1.49之间。整体而言，祁连山区层状云降水 $Z { \cdot } R$ 关系为 ${ \cal Z } { = } 4 4 5 R ^ { 1 . 5 0 }$ 对流云降水Z-R关系为 ${ \cal Z } { = } 4 2 7 R ^ { 1 . 8 8 }$ ,相比目前气象业务中所使用的新一代天气雷达定量估测降水的传统公式 $\scriptstyle ( Z = 3 0 0 R ^ { 1 . 4 }$ ），关系系数 $\boldsymbol { a }$ 和指数 $b$ 均低于祁连山区，因此，使用传统的雷达估测方法会造成该地区降水的低估。
+
+对比国内其他相关研究发现，受不同天气背景和地形等因素影响，全国不同地区Z-R关系差异较大。高原地区降水强度较大时系数 $a$ 明显较高，基本在400以上，平原地区基本在100\~200之间，系数$b$ 差异不大，基本在1.4左右。山东地区系数 $a$ 和 $b$ 均较小。因此，提高雷达定量估测降水精度需综合考虑降水类型、地理位置、海拔高度等情况，传统公式不具有普适性。
+
+# 3结论
+
+利用2019-08-01—09-30布设于祁连山南麓的
+
+![](images/fd153c001fd294de03a26d25963b1c55002f58627d451c856b8d5e8d4cc3c566.jpg)  
+图6不同降水类型Z-R关系  
+Fig.6Scatter plotsand fitting curvesof Z-R relation
+
+# 表3不同云系降水Z-R系数 $\textbf { \em a }$ 和指数 $\textbf { \textit { b } }$
+
+Tab.3 The coefficient a and the index $\textbf { \textit { b } }$ in the Z-Rrelation   
+
+<html><body><table><tr><td rowspan="2">观测站点</td><td colspan="2">Z=aRb</td><td rowspan="2">降水类型</td><td rowspan="2">文献来源</td></tr><tr><td>a</td><td>b</td></tr><tr><td>祁连山南麓</td><td>445</td><td>1.50</td><td>层状云</td><td>本研究</td></tr><tr><td></td><td>427</td><td>1.88</td><td>对流云</td><td></td></tr><tr><td>黄河上游</td><td>461</td><td>1.06</td><td>积云</td><td>[7]</td></tr><tr><td>北京</td><td>170</td><td>1.13</td><td>层状云</td><td>[9]</td></tr><tr><td rowspan="3">沈阳</td><td>544</td><td>1.31</td><td>对流云</td><td></td></tr><tr><td>108.9</td><td>1.41</td><td>层状云</td><td>[12]</td></tr><tr><td>136.6</td><td>1.43</td><td>积层混合云</td><td></td></tr><tr><td rowspan="4">哈尔滨</td><td>149.2</td><td>1.46</td><td>积雨云</td><td></td></tr><tr><td>189.8</td><td>1.37</td><td>层状云</td><td></td></tr><tr><td>192.6</td><td>1.38</td><td>积层混合云</td><td></td></tr><tr><td>227.1</td><td>1.45</td><td>积雨云</td><td></td></tr><tr><td>北京 山东</td><td>674.91</td><td>1.39</td><td>强降水</td><td>[13]</td></tr><tr><td rowspan="3"></td><td>27.678</td><td>0.396</td><td>层状云</td><td>[27]</td></tr><tr><td>24.586</td><td>0.871</td><td>积雨云</td><td></td></tr><tr><td>25.330</td><td>0.866</td><td>积层混合云</td><td></td></tr><tr><td rowspan="2">山西</td><td>160</td><td>1.32</td><td>层状云</td><td>[28]</td></tr><tr><td>273</td><td>1.26</td><td>对流云</td><td></td></tr></table></body></html>
+
+三部激光雨滴谱仪观测资料，分析山区层状云降水和对流云降水雨滴微物理特征、平均雨滴谱分布、下落速度及Z-R关系，结论如下：
+
+（1）祁连山区对流云降水雨滴微物理参量均大于层状云降水，对于山区对流云降水过程，对流云发展不同阶段对雨强及雨滴微物理参量的影响较大。
+
+(2）不同降水云系雨滴谱分布存在明显差异，层状云降水谱宽较窄，对流云降水谱宽较宽。M-P和Gamma分布对祁连山南麓层状云和对流云降水的拟合性较好，但均存在雨滴数浓度高估现象，与M-P分布相比，Gamma分布与实际雨滴谱分布曲线整体吻合程度较好，更加接近山区实际雨滴谱分布。
+
+(3）祁连山区不同尺度雨滴粒子下落速度不同，对流云降水粒子落速范围略大于相同尺度上的层状云降水，传统粒子下落速度拟合在祁连山南麓存在明显的低估现象。利用观测站点空气密度订正后效果较好，研究区观测点较低的空气密度是造成观测速度高于其下落速度的主要原因。
+
+（4）祁连山南麓层状云降水 $Z \ – R$ 关系为 $Z =$ $4 4 5 R ^ { 1 . 5 0 }$ ，对流云降水Z-R关系为 ${ \cal Z } { = } 4 2 7 R ^ { 1 . 8 8 }$ ,使用传统的雷达估测方法会造成该地区降水的低估。
+
+参考文献(References): [1]朱亚乔,刘元波.地面雨滴谱观测技术及特征研究进展[J].地球 科学进展,2013,28(6): 685-694.[Zhu Yaqiao,Liu Yuanbo.Advances in measurement techniques and statistics features of surface raindrop size distribution[J].Advances inEarth Science,   
+2013,28(6): 685-694.] [2]房彬,郭学良,肖辉.辽宁地区不同降水云系雨滴谱参数及其特 征量研究[J].大气科学,2016,40(6):1154-1164.[Fang Bin, Guo Xueliang,Xiao Hui.A study on characteristics of spectral parameters and characteristic variables of raindrop size distribution for different cloud systems in Liaoning Province[J]. Chinese Journal of Atmospheric Sciences,2016,40(6): 1154-1164.] [3]胡子浩,濮江平,濮云涛,等.南海一次海洋性对流云降水雨滴 谱特征分析[J].热带气象学报,2014,30(1):181-188.[Hu Zihao,Pu Jiangping,Pu Yuntao,et al. Analysis on raindrop size distribution characteristics of maritime convective clound rain in South China Sea[J].Jonrnal of Tropical Meteorology,2014,30(1):   
+181-188.] [4]李洋,张晋广,袁健,等.雨滴谱仪和天气雷达观测的反射率因 子对比分析[J]. 气象与环境学报,2017,3(5):91-96.[Li Yang, Zhang Jinguang,Yuan Jian,et al. Comparative analysis of reflectivity factors measured with raindrop spectrometer and weather radar [J]. Journal of Meteorology and Environment,2017,33(5): 91-96.] [5]陈聪,银燕,陈宝君.黄山不同高度雨滴谱的演变特征[J].大气 科学学报,2015,38(3):388-395.[Chen Cong,Yin Yan, Chen Baojun.Raindrop size distribution at different altitudes in Mt. Huang[J].Transactions of Atmospheric Sciences，2015,38(3):   
+388-395.] [6]Marshall JS,Palmer W M.The distribution of rain drops with size [J]. Journal of Applied Meteorology,1948,5: 165-166. [7]李娟,游来光,胡志晋,等.黄河上游玛曲地区雨滴谱特征的观 测研究[J].高原气象,2006,25(5): 942-949.[Li Juan,You Laiguang,Hu Zhijin,et al.Analysis on raindrop-size ristrbution charactertics of Maqu Region in upper reach of Yellow River[J].Plateau Meteorology,2006,25(5): 942-949.] [8]戴铁丕,戴宁宁,周乐照.实际雨滴谱微波辐射与衰减特征[J]. 大气科学学报,1999,22(1):103-109.[Dai Tiepei,DaiNingning Zhou Lezhao.Microwave radiation and atenuation features ofprecippitation based on observed rainfall spectral data[J]. Transactions of Atmospheric Sciences,1999,22(1): 103-109.] [9]刘红燕,雷恒池.基于地面雨滴谱资料分析层状云和对流云降 水的特征[J].大气科学,2006,30(4):693-702.[Li Hongyan, Lei Hengchi.Characteristics of rain from stratiform versus convective cloud based on the surface raindrop data[J]. Chinese Journal of Atmospheric Sciences,2006,30(4): 693-702.]   
+[10] 陈宝君,李子华,刘吉成,等.三类降水云雨滴谱分布模式[J].气 象学报,1998,56(4):506-512.[Chen Baojun,Li Zihua,Liu Jicheng,et al. Model of raindrop size distribution in three types of precipitation[J].Acta Meteorology Sinica,1998,56(4): 506-512.]   
+[11] 胡子浩,濮江平,濮云涛,等.南海一次海洋性对流云降水雨滴 谱特征分析[J].热带气象学报,2014,30(1):181-188.[Hu Zihao,Pu Jiangping,Pu Yuntao,et al.Analysis on ranindrop size distribution characteristics of maritime convective cloud rain in South China Sea[J]. Jonrnal of Troplcal Meteorology,2014,30(1): 181-188.]   
+[12] 冯雷,陈宝君.利用PMS 的GBPP-100 型雨滴谱仪观测资料确 定 Z-R关系[J].气象科学,2009,29(2):192-198.[Feng Lei, Chen Baojun.The radar reflectivity-rainrate relationships as inferred from ground-based raindrop spectra observed by GBPP-100 probe [J]. Journal of the Meteorological Sciences,2009,29(2): 192-198.]   
+[13]徐文静,苏德斌,王辉,等.北京一次强降水过程雨滴谱特征[J]. 大气与环境光学学报,2017,12(1):8-14.[Xu Wenjing,Su Debing,Wang Hui,et al. Characteristics of raindrop size distributions in a heavy rainfall in Beijing[J]. Journal of Atmospheric and Environmental Optics,2017,12(1): 8-14.]   
+[14] 张强,孙昭萱,陈丽华,等.祁连山空中云水资源开发利用研究 综述[J].干旱区地理,2009,32(3):381-390.[Zhang Qiang,Sun Shaoxuan,Chen Lihua,et al. Reviews on studies of exploitation and utilization of clound-water resource in the Qilian Mountain region[J]. Arid Land Geography,2009,32(3): 381-390.]   
+[15] 张强,俞亚勋,张杰,等.祁连山与河西内陆河流域绿洲的大气 水循环特征研究[J].冰川冻土,2008,30(6):907-913.[Zhang Qiang,Yu Yaxun,Zhang Jie,et al.Characteristics of water cycle in the Qilian Mountains and the Oases in Hexi inland river basins [J]. Journal of Glaciology and Geocryology,2008,30(6): 907-913.]   
+[16] 马瑞,赵锦梅.东祁连山河谷高寒草地植被群落特征及其与土 壤性状的关系[J].干旱区研究,2020,37(2):374-381.[Ma Rui Zhao Jinmei. Relationship between the grassland and soil conditions in the Eastern Qilian Mountains[J].Arid Zone Research, 2020,37(2): 374-381.]   
+[17] 张良,张强,冯建英,等.祁连山地区大气水循环研究(II):水循 环过程分析[J].冰川冻土,2014,36(5):1092-1100.[Zhang Liang, Zhang Qiang,Feng Jianying,et al.A study of atmospheric water cycle over the Qilian Mountains(I):Analysis of hydrological cycle[J].Journal of Glaciology and Geocryology，2014,36(5): 1092-1100.]   
+[18]张强,张杰,孙国武,等.祁连山山区空中水汽分布特征研究[J]. 气象学报,2007,65(4): 633-643.[Zhang Qiang,Zhang Jie,Sun Guowu,et al.Research on atmospheric water-vapor distribution over Qilianshan Mountains[J].Acta Meteorology Sinica, 2007,65 (4): 633-643.]   
+[19] 李岩瑛,张强,许霞,等.祁连山及周边地区降水与地形的关系 [J].冰川冻土,2010,32(1):52-61.[Li Yanyin,Zhang Qiang,Xu Xia,et al. Relationship between precipitation and terrain over the Qilian Mountains and their ambient areas[J]. Journal of Glaciology and Geocryology,2010,32(1): 52-61.]   
+[20] 史晋森,张武,陈添宇,等.2006年夏季祁连山北坡雨滴谱特征 [J].兰州大学学报(自然科学版),2008,44(4):60-66.[Shi Jinsen,Zhang Wu,Chen Tianyu,et al. Raindrop- size distribution characteristics of the northern face of Qilian Mountains in the summer of 2O06[J]. Journal of Lanzhou University (Natural Sciences Edition),2008,44(4): 60-66.]   
+[21] 濮江平,赵国强,蔡定军,等.Parsivel(R)激光降水粒子谱仪及其 在气象领域的应用[J].气象与环境科学,2007,30(2):3-8.[Pu Jiangping, Zhao Guoqiang, Cai Dingjun, et al. Parsivel(R) precipitation particle spectrometer and application in meteorological realm[J]. Meteorological and Environmental Sciences,2Oo7,30(2): 3-8.]   
+[22] Battaglia A,Rustemeier E,Tokay A,et al.Parsivel snow observations: A critical assessment[J]. Journal of Atmospheric & Oceanic Technology,2010,27(2):344.   
+[23] 李力,姜有山,蔡凝昊,等.Parsivel降水粒子谱仪与观测站雨量 计的对比分析[J].气象,2018,44(3): 434-441.[LiLi,Jiang Youshan, Cai Ninghao,et al. Contrastive analysisof parsivel precipitation particle spectrometer data and pluviometer data[J]. Meteorological Monthly,2018,44(3): 434-441.]   
+[24]Ulbrich, Carlton W,Atlas David. Rainfal microphysics and radar properties: Analysis methods for drop size spectra[J]. Journal of Applied Meteorology,1998,37(9): 912-923.   
+[25]Zhang Guifu, Vivekanandan J, Brandes E A,et al. The shapeslope relation in observed gamma raindrop size distributions: Statistical error or useful information[J]. Journal of Atmospheric and Oceanic Technology,2003,20(8): 1106-1119.   
+[26] Chen Baojun, Yang Jun,Pu Jiangping.Statistical characteristics of raindrop size distribution in the Meiyu season observed in eastern China[J]. Journal of the Meteorological Society of Japan.Ser II, 2013,91(2): 215-227.   
+[27] 周黎明,王俊,龚佃利,等.山东三类降水云雨滴谱分布特征的 观测研究[J].大气科学学报,2014,37(2):216-222.[Zhou Liming,Wang Jun,Gong Dianli,etal.A study on the distribution of raindrop size in three types of precipitation in Shandong Province [J].Transactions of Atmospheric Sciences,2014,37(2): 216-222.]   
+[28] 杨俊梅,王星星,封秋娟,等.山西汾阳地区层状云和对流云降 水雨滴谱特征[J].干旱气象,2017,35(3):439-445.[Yang Junmei, Wang Xingxing,Feng Qunjuan,et al. Raindrop size distribution of stratiform and convective cloud precipitation in Fenyang of Shanxi Province[J]. Journal of Arid Meteorology,2017,35(3): 439-445.]   
+[29] 胡子浩,濮江平,张欢,等.庐山地区层状云和对流云降水特征 对比分析[J].气象与环境科学,2013,36(4):43-49.[Hu Zihu, Pu Jiangping, Zhang Huan,et al. Characteristics comparison analysis of stratiform cloud and convective cloud precipitation in Lushan[J]. Meteorological and Environmental Sciences,2013,36 (4): 43-49.]
+
+[30]Ulbrich C W.Natural variation in the analytical form of the raindrop size distribution[J]. Journal of Applied Meteorology,1983,22 (10): 1764-1775.
+
+[31]Atlas D,SrivastavaRC,SekhonRS.Dopplerradar characteristics of precipitation at vertical incidence[J]. Reviews of Geophysics, 1973,11(1): 1-35.
+
+# Statistical characteristics of raindrop size distribution and its Z-R relationship for different precipitation clouds in summer in the Qilian Mountains
+
+ZHANG Yuxin12，HAN Huibang'2，GUO Shiyu'2，TIAN Jianbingh²，TANG Wentin'2 (1.Meteorological Disaster Prevention Technology Center in Qinghai Province,Xining 810001,Qinghai, China; 2. Key Laboratory for Disaster Prevention and Mitigation in Qinghai Province,Xining 810o1,Qinghai, China)
+
+Abstract: The microphysical characteristics,raindrop spectrum distribution,particle falling velocity,and $Z \mathrm { - } R$ relationship of the precipitation particle spectrum in different precipitation cloud systems (stratiform cloud and convective cloud) in the southern foothold of Qilian Mountains were analyzed using laser raindrop spectrometer observation data from August to September of 2019.The results show that the microphysical parameters of convective cloud precipitation in summer in the Qilian Mountains were allarger than those of stratiform cloud precipitation,and the different stages of convective cloud development had a substantial influence on the rain intensity and microphysical parameters ofraindrops.The actual raindrop distribution in summer was most similar to a Gamma distribution in Qilian Mountain,but both an M-P distribution and Gamma distribution led to the overestimation ofraindrop concentration.The falling velocities of raindrops at different scales were diffrent,and atthe same scale,the range of particle velocities in convective cloud precipitation was slightly larger than that in stratiform cloud precipitation.The fiting curves of traditional particle velocities were underestimated.The $Z { \cdot } R$ relationship of summer stratiform cloud precipitation in the Qilian Mountain was $Z { = } 4 4 5 R ^ { 1 . 5 0 }$ and that of convective cloud precipitation was $Z ^ { = } 4 2 7 R ^ { 1 . 8 8 }$ .The traditional radar precipitation estimation method underestimated precipitation in this area.
+
+Keywords: raindrop size distribution；convective precipitation； stratiform precipitation； microphysical characteristics; Qilian Mountains

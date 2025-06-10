@@ -1,0 +1,170 @@
+# DOI:10.5846/stxb201702030209
+
+卜云,靳亚丽,李必成,杨斯琦,尹文英.上海大金山岛原尾虫的物种多样性及生态特征.生态学报,2018,38(6);2195-2203. BuY,JinY,gSeidocalsrotuaosiactaE 2018,38(6) :2195-2203.
+
+# 上海大金山岛原尾虫的物种多样性及生态特征
+
+卜　云1,2，\*，靳亚丽}，李必成¹，杨斯琦}，尹文英
+
+1上海科技馆上海自然博物馆自然史研究中心，上海200041  
+2中国科学院上海生命科学研究院植物生理生态研究所，上海200032
+
+摘要：原尾虫是土壤动物的重要类群之一,然而目前对其物种多样性及生态特征的了解仍然十分有限,岛屿生态系统中原尾虫的研究尤为欠缺。为深入探讨原尾虫的栖息地选择、空间分布、种群密度、繁殖策略及其与土壤真菌的相互作用等生态特征,于2015 年秋季在大金山岛竹林、乔木林和灌木林等3种不同的植被中进行了定量采样研究。结果表明,大金山岛共发现8种原尾虫,隶属2科4属,这些物种在上海市陆域植被中均有分布,且均为东洋界种类;大金山岛秋季原尾虫的总密度为竹林（696头/$\mathbf { m } ^ { 2 }$ ） $>$ 乔木林(479头 $/ \mathrm { m } ^ { 2 }$ ） $>$ 灌木林(213头 $/ \mathrm { m } ^ { 2 }$ );竹林中原尾虫的 Shannon-Wiener多样性指数显著高于灌木林( $P { < } 0 . 0 5 )$ ，而不同植被类型中原尾虫的 Pielou均匀度、Simpson 优势度和Margalef 丰富度等指数无显著差异;大金山岛的原尾虫在土壤中为隔离分布,具有在适宜的微生境中集中分布的特点;发现原尾虫在野外受到病原真菌感染的直接证据;通过对原尾虫的性比和幼虫比的分析,发现其繁殖可能采取介于 $\mathbf { k }$ 对策和r对策之间的生态策略。
+
+关键词：土壤动物;种群密度;土壤真菌;空间分布;生态策略;岛屿
+
+# Biodiversity and ecological traits of Protura on Dajinshan Island in Shanghai, China
+
+BU Yun1,2,\*， JIN Yali1，LI Bicheng¹，Yang Siqi’，YIN Wenying²
+
+1NaturalHistoryesearchCenter，hanghaiNaturalHistoryuse，hanghaiSience&TechnologyMuseuhanghaiina   
+2Instituteoftdoiscales，edece
+
+Abstract:Proturaisagroupof important soilanimals；however，knowledgeontheirdiversityand ecological traitsremains insuficient，especiallintheislandecosystem.Inorder toinvestigateanddiscuss thehabitatselection，spatialdistribution, population density，andreproduction strategyof Protura，aswellas the interaction between proturan and soil fungus，the species diversity in threevegetation types，including bamboo forest，arboreal forest，andshrubberyon Dajinshan Island werequantitativelystudiedduring autumn 2O15.Theresults indicate that eight species ofProtura,belonging totwofamilies andfour genera，werefound in Dajinshan Island.Allspeciesalsooccurred inthe vegetationoftheland areaof Shanghai, andall belong totheOrientalrealm.Thetotal densityof Protura in Dajinshan Island folowstheorder:bamboo forest（696 individuals/m²） >arboreal forest （479 individuals/ $\mathbf { \dot { m } } ^ { 2 }$ ）>shrubbery（213 individuals/ $\mathbf { \dot { m } } ^ { 2 }$ ). The Shannon-Wiener index of proturan in bamboo forest was significantly higher than in shrubbery ( $P { < } 0 . 0 5$ ），while the Pielou index，Simpson index and Margalef indexdidnotdiferbetweenvegetation types.Theproturansareisolatedanddistributed inthesoilofDajinshan Island,and theyareusuallyconcentrated in feasible microhabitats.Infection bysoil pathogenic fungi inproturan in nature was observedand isillustratedforthefirsttime.Tosomeextent，thesexratioof proturaninnaturereflects their reproduction status.Protura probably take an ecological strategy between $\mathbf { k } \cdot$ and $\mathbf { r - }$ strategies.
+
+Key Words: soil animal； population density；soil fungus； spatial distribution； ecological strategy； island
+
+原尾虫是一类体型微小的土壤动物 $( 0 . 5 { - } 2 . 0 \mathrm { m m } )$ ），隶属于节肢动物门Arthropoda、六足总纲Hexapoda、原尾纲Protura[1-2],除南北极外,在全球各大气候带、各种植被类型腐殖质丰富的土壤中均有发现[1,3],具有十分重要的生态学和进化生物学研究意义[2]。然而,由于原尾虫种类鉴定困难,实验室内难以饲养,在土壤动物生态学的研究中,原尾虫通常仅作为土壤动物的组成类群进行整体讨论[4-5]。 ）
+
+截至目前,国内仅有少量专门针对原尾虫的生态学研究,包括对上海东佘山[6],浙江天目山[]云南省[8]、河南伏牛山[9]以及甘肃省中南部[10]等地区的研究,但多集中于陆地森林生态系统,内容局限于区系特征、群落结构和物种多样性等方面。国外主要是对不同类型的陆地生态系统中原尾虫群落结构的研究,包括草地[1]、阔叶林[12]、针叶林[13]、林缘地[14]、城市绿地[15]等类型,其他的研究涉及人为干扰或自然灾害扰动下的原尾虫群落结构[16]、酸雨的影响[17]、季节动态[18]、栖息地的隔离等[19]。上述研究大多将原尾虫进行整体考虑,极少对原尾虫在物种水平上进行分析探讨,原尾虫不同物种的生态学特征尚不明了。因此,亟需加强原尾虫生态学方面的研究,以便进一步揭示原尾虫在土壤生态系统中的生态功能[20]。
+
+大金山岛是上海市金山三岛海洋生态保护区中最大的岛屿，其自然植被良好，土壤尚未受到人为活动的污染[21],是开展岛屿生态系统中土壤动物多样性研究的理想样地[22]。但目前该岛的原尾虫仅有零星的种类记录[1]。岛屿上原尾虫的物种多样性、种群结构和种群密度如何？尚未见相关报道。
+
+为探讨岛屿生态系统中原尾虫的物种多样性,以及岛屿生态系统中原尾虫对于栖息地的选择、种群密度、空间分布以及与土壤真菌的相互作用等生态特征,本研究以上海大金山岛作为研究样地,开展岛屿生态系统原尾虫的物种多样性及生态特征的研究，有助于进 $=$ 步认识微小土壤动物在岛屿土壤生态系统中发挥的生态功能,为岛屿生态系统生物多样性的保护提供一定的理论基础。
+
+# 1研究区域概况
+
+大金山岛地处上海市金山区附近的杭州湾中,地理坐标为 $3 0 ^ { \circ } 4 1 ^ { \prime } 4 2 ^ { \prime \prime } \mathrm { N } , 1 2 1 ^ { \circ } 2 4 ^ { \prime } 2 5 ^ { \prime \prime } \mathrm { E }$ ,是金山三岛海洋生态自然保护区的核心区,处于中亚热带北缘。大金山岛距金山嘴海岸约 $6 . 6 \mathrm { k m }$ ，长约 $9 6 3 \mathrm { m }$ ,最宽处 $4 3 7 \mathrm { m }$ ,面积$0 . 3 \mathrm { k m } ^ { 2 }$ ,最高处海拔为 $1 0 5 . 3 \mathrm { m }$ ,年平均温度 $1 5 . 8 ^ { \circ } \mathrm { C }$ ,土壤类型为褐色山地黄壤,降水充沛,四周被水域包围,属海洋性气候,温和湿润,四季分明。大金山岛属无人岛,岛上植被生长茂盛,自然植被良好,是上海地区野生植物资源最丰富的地方[23],有被子植物197种,其中36种在上海地区仅在该岛分布。由于受人为干扰少,岛上植被进入自然的次生演替过程。岛上代表性植被类型有：以毛竹属（Phyllostachys）为主的竹林;以野桐属（Mallotus）、青冈属（Cyclobalanopsis）、润楠属（Machilus）、樟属（Cinnamomum）、朴属（Celtis）、花椒属（Zanthoxylum）黄檀属（Dalbergia）等为主的乔木林;以卫矛属（Euonymus）、大青属（Clerodendrum）、算盘子属（Glochidion）、柃属（Eurya)等为主的灌木林[24]。
+
+# 2材料与方法
+
+# 2.1样品采集
+
+2015 年9月,对大金山岛自然植被中的土壤进行采样调查。根据岛屿上植被片断分布的特点,采用随机布点法进行样点设置。对竹林、乔木林和灌木林3种植被下的土壤分别进行采样,每个样地设置10个重复样点,共计30个样点,采用土壤定量采样器进行采样,为了获得足够的原尾虫标本进行统计分析,每个样点采集$1 5 \mathrm { c m } \times 1 5 \mathrm { c m } \times 1 5 \mathrm { c m }$ 土样。实验室内采用Tullgren干漏斗法分离原尾虫,具体为40W 灯泡连续烘烤48h,至土壤完全干燥,分离到的土壤动物混合样品收集在 $9 5 \%$ 乙醇溶液中。在体视显微镜下分拣出所有样品中的原
+
+http ://www.ecologica.cn
+
+尾虫,对获得的所有原尾虫标本,采用Holyer封固液封片,相差显微镜下参考《中国动物志：原尾纲》[1]等专著和相关文献进行分类鉴定,所有标本鉴定到物种水平,并统计各物种总体数量、雌雄性别和幼虫比例等。
+
+# 2.2 数据分析
+
+根据以下公式分别计算不同植被中原尾虫的种群多样性指数、均匀度、优势度和丰富度等[25]。
+
+（1）Shannon-Wiener 多样性指数( $H ^ { \prime } ) : H ^ { \prime } = - \sum n _ { i } / { N } \mathrm { l n } ( n _ { i } / { N } )$ 。式中， $n _ { i }$ 为第 $i$ 个类群的个体数；N为群落中所有类群的总个体数。
+
+（2）Pielou均匀度指数 $( J s )$ ： $J s = H ^ { \prime } / \mathrm { l n } S$ 。式中， $s$ 为类群数。（3）Simpson优势度指数 $( C )$ ： $\boldsymbol { C } = \sum \boldsymbol { P } _ { i } ^ { \ 2 }$ 。式中， $P _ { i } = n _ { i } / N$ 。（4）Margalef丰富度指数 $( D )$ ： $D = ~ (  { S } - 1 ) ~ / \mathrm { l n }  { N _ { \circ } }$ （204号
+
+采用Excel2007进行图表绘制和计算，SPSS18.0进行方差分析。
+
+# 3结果和分析
+
+# 3.1原尾虫的物种多样性
+
+本研究对大金山岛3种代表性植被类型下原尾虫进行系统调查研究，在 $3 0$ 个样点中，有28个样点获得原尾虫标本,共计286头,经鉴定共有8种原尾虫(表1),隶属2科4属。从区系组成来看,岛上原尾虫均为东洋区种类,其中天目山巴蚖、梅坞格蚖、东方古蚖、毛萼肯蚖在华东地区广泛分布,而九毛古蚖和上海古蚖为稀有种类。
+
+表1大金山岛原尾虫的种群密度  
+Table1The population density of Protura of Dajinshan Island   
+
+<html><body><table><tr><td rowspan="2">分类 Classification</td><td rowspan="2">种类 species</td><td colspan="4">竹林 ZL</td><td colspan="3">灌木林GML</td></tr><tr><td>个体数密度(头/m）（%）多度</td><td>个体数 密度(头/m²）（%)</td><td></td><td>多度</td><td></td><td>个体数 密度(头/m)（%)</td><td>多度</td></tr><tr><td>檗蚖科 Berberentulidae</td><td>毛萼肯蚖 Kenyentulus ciliciocalyci</td><td>5 25 (3.55)</td><td>++ 40</td><td>198 (41.24)</td><td>+++</td><td>6</td><td>27 (12.50)</td><td>+++</td></tr><tr><td></td><td>天目山巴蚖 Baculentulus tianmushanensis</td><td>54 (7.8)</td><td>15</td><td>74 (15.46)</td><td>+++</td><td>9</td><td>40 (18.75)</td><td>+++</td></tr><tr><td></td><td>梅坞格蚖 Gracilentulus meijiawensis</td><td>44 (6.38)</td><td>8</td><td>40 (8.25)</td><td>++</td><td>16</td><td>71 (33.33)</td><td>+++</td></tr><tr><td>古蚖科 Eosentomidae</td><td>东方古蚖 Eosentomon orientalis</td><td>252 (36.17)</td><td>0</td><td>0</td><td></td><td>4</td><td>18 (8.33)</td><td>++</td></tr><tr><td></td><td>普通古mne</td><td>232 (33.33)</td><td>+++ 29</td><td>143 (29.90)</td><td>+++</td><td>11</td><td>49 (22.92)</td><td>+++</td></tr><tr><td>短身古蚖</td><td></td><td>74 (10.64)</td><td>+++</td><td>20 (4.12)</td><td></td><td></td><td>0</td><td></td></tr><tr><td>Eosentomon brevicorpusculum</td><td></td><td>15 (2.13)</td><td>++</td><td></td><td>5 (1.03)</td><td>++</td><td>0</td><td></td></tr><tr><td>上海古蚖</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>++</td></tr><tr><td>Eosentomon shanghaiense 合计</td><td></td><td>0 696 (100)</td><td></td><td></td><td>0 479 (100)</td><td></td><td>9 (4.17) 213(100)</td><td></td></tr></table></body></html>
+
+3.2不同植被类型中原尾虫的多样性比较
+
+在大金山岛秋季竹林中有7种原尾虫,其中普通古蚖、东方古蚖和短身古蚖为优势种,三者占总数的$8 0 . 1 4 \%$ ;乔木林中有6种原尾虫,毛萼肯蚖、天目山巴蚖和普通古蚖为优势种,合计占总数的 $8 6 . 6 0 \%$ ;灌木林中有6种原尾虫,毛萼肯蚖、天目山巴蚖、梅坞格蚖和普通古蚖为优势种,合计占总数的 $8 7 . 5 0 \%$ 。九毛古蚖和上海古蚖为稀有种,前者仅在竹林和乔木林中少量分布,后者仅在灌木林中出现。
+
+三种植被中,竹林中原尾虫的 Shannon-Wiener多样性指数显著高于灌木林( $\scriptstyle ( P < 0 . 0 5 )$ ,而 Pielou 均匀度、Simpson 优势度指数和Margalef丰富度指数无显著差异（图1）。
+
+![](images/249be042387bafefb180c80ddfb47b49e1003cb1e5ed8a4efb7321a1a042dfaf.jpg)  
+图1大金山岛秋季不同植被中原尾虫的多样性指数(平均值±标准误)
+
+# 3.3 原尾虫种群密度和空间分布
+
+大金山岛秋季竹林、乔木林、灌木林的原尾虫种群总密度分别为696、479、213 头 $/ \mathrm { m } ^ { 2 }$ ,灌木林中的密度低于前两种植被(表1),但平均密度无显著差异。从各个样点来看,原尾虫在不同样点中的密度相差较大,个别样点如 ZL-1、ZL-7、QML-2 中的原尾虫总密度分别可达 2933、1022 和 2222 头 $/ \mathrm { m } ^ { 2 }$ ,表明原尾虫在自然条件下并非均匀分布（图2）。各种类的空间分布方面， $6 0 \%$ 的样点仅有1—2种原尾虫分布，而个别样点有5一6种原尾虫分布,如 ZL-7、ZL-8、ZL-9、QML-2 等样点(图3）。
+
+![](images/0b7f458bcb44e568b5f86b108b1a8a64aee3df0892812f0e5e10820b67d738f0.jpg)  
+Fig.1Diversity indices of Prorura from different vegetation in autum of Dajinshan Isaland ( $\mathrm { M e a n \pm S E }$ ）上标字母不同表示差异显著( $P { = } 0 . 0 5$ ）,ZL:竹林 bamboo forest;QML:乔木林 arboreal forest;GML:灌木林 shrubbel  
+图2大金山岛各采样点原尾虫的密度  
+Fig.2Densities of Protura in each sample point of Dajinshan Island
+
+70 图 毛萼肯蚖Kenyentulusciliciocalyci 60 国 天目山巴蚖Baculentulus tianmushanensis senpipt 50 H □□ 梅Griletuusejiaesis 40 □ 普通古蚖Eosentomoncommune □ 短身古蚖Eosentomon brevicorpusculum 30 √ 九毛古蚖 Eosentomon novemchaetum ： √ 上海古蚖Eosentomonshanghaiense 20 10 8 超 N = H 品 国 H 强 □ 國 国 E 国 网 国 圖歸歸歸區 H -TZ ！ 1 9-TZ L-TZ 8-TZ 6-TZ I-TNO 7-TNO -T1X D-T1X S-TNO 9-TWO L-TNO 8-TNO 6-TNO I-TNO 7-TNI £-TNO 0-N1A S-TNO 9-TNO L-TNO 8-TNO 6-1WO OI-INO Z 样点编号 Number of samples
+
+# 3.4原尾虫的性比和幼虫比
+
+通过对大金山岛6种原尾虫的性比和幼虫比进行分析(表2,图4）,发现原尾虫的性比和幼虫比因种类而不同,尤其是毛萼肯蚖的成虫全部为雌性,而短身古蚖个体全部是成虫,没有发现幼虫。
+
+表2大金山岛原尾虫的性比和幼虫比  
+Table 2Sex ratios and larva proportions of Protura species of Dajinshan Island   
+
+<html><body><table><tr><td>种类 Species</td><td>总个体数 Individuals</td><td>雌虫数量 雄虫数量 Number of Number of males</td><td>幼虫数量 Number of</td><td>性比(雌:雄) Sex ratio (female :male)</td><td>幼虫比/% Percentage</td></tr><tr><td>毛萼肯蚖Kenyentulus ciliciocalyci</td><td>51</td><td>females 48 0</td><td>juveniles 3</td><td>100:0</td><td>of larvae 5.88</td></tr><tr><td>天目山巴蚖 Baculentulus tianmushanensis</td><td>36 16</td><td>8</td><td>12</td><td>100:50</td><td>33.33</td></tr><tr><td>梅坞格蚖 Gracilentulus meijiawensis</td><td>32 12</td><td>11</td><td>9</td><td>100:92</td><td>28.13</td></tr><tr><td>东方古蚖 Eosentomon orientalis</td><td>55 13</td><td>20</td><td>22</td><td>100:153</td><td>40.00</td></tr><tr><td>普通古蚖 Eosentomon commune</td><td>88 36</td><td>25</td><td>27</td><td>100:69</td><td>30.68</td></tr><tr><td>短身古蚖 Eosentomon brevicorpusculum</td><td>19 14</td><td>5</td><td>0</td><td>100:34</td><td>1</td></tr></table></body></html>
+
+# 3.5 原尾虫与土壤病原真菌
+
+本研究在大金山岛观察到自然条件下原尾虫受到真菌感染的现象,在2只普通古蚖 Eosentomon commune血体腔内发现大量的真菌孢子(图5),这是目前首次记录到野外原尾虫受到真菌感染的直接证据,目前看来在自然生长状态下的侵染率较低 $0 . 0 2 \%$ ）。
+
+# 4讨论
+
+# 4.1大金山岛原尾虫的物种多样性
+
+大金山岛的原尾虫之前仅有3个物种的记录[1],本研究发现该岛6个新记录种,目前该岛共记录9种原尾虫,其中古蚖科的种类占总数的 $6 0 \%$ 以上,为优势类群,此外九毛古蚖、上海古蚖等稀有种类的分布,均表明该岛生态环境保护良好。从种类组成来看,大金山岛的9种原尾虫在上海市陆域植被中均有分布,这与大金山岛在地理历史上作为与金山区陆地相连的山脉有关。与陆地上其他的山脉相比,大金山岛的总体面积虽然很小,但按照单位面积的物种数来计算,大金山岛的原尾虫物种多样性较高,例如在东佘山有25种[26],天目山有27种[27],六盘山有15种[28],清凉峰有10种[29],贺兰山仅有3种[30]。
+
+http://www.ecologica.cn
+
+# 4.2原尾虫对栖息地的选择
+
+本研究对3种植被中原尾虫的物种多样性进行比较分析，发现竹林和乔木林中原尾虫的总密度高于灌木林,且竹林中原尾虫的Shannon-Wiener多样性指数显著高于灌木林( $P { < } 0 . 0 5 )$ 。按照物种组成来看，天目山巴蚖在竹林和乔木林中是优势种类,普通古蚖在3种植被中均为优势种类,观察标本发现这两个物种的体型粗壮,表皮较厚,其适应性较强，甚至在上海市的城市绿地和绿化带中也可以生存；东方古蚖和短身古蚖更加趋向于在竹林中生存,其体型相对纤弱;毛萼肯蚖趋向于选择乔木林和灌木林，该种体型最小且最为纤弱（0.5—$0 . 6 \mathrm { m m } \dot { } ,$ )。由此可见，不同种类的原尾虫选择不同的栖息环境。
+
+研究表明，原尾虫倾向于栖息在树木的根部土壤中,推测这与树木根部有大量菌根真菌有关[5-6]。此外，人为活动的干扰对于原尾虫的物种多样性和种群结构影响巨大，在我国南方，自然林区中古蚖的种类和数
+
+70 60 成虫 npiipu 50 幼虫 40 30 2010 ： 克 工 0 rrrsrter stts hites o rrengrre
+
+![](images/7d5d55130d77eca4bfe19b5ab31c70976f8086b9fc4aa54b1d8a178ee70b207f.jpg)  
+图4大金山岛秋季原尾虫的成虫与幼虫的个体数 Fig.4Comparisons of adults and larvae number of Protura in autumn of Dajinshan Island   
+图5大金山岛受到真菌感染的普通古蚖Eosentomoncommune  
+Fig.5Eosentomon commune infected by pathogenic fungus from Dajinshan Island
+
+A.普通古蚖整体,显示受感染后血体腔内的大量孢子the bodyof Eosentomoncommune，showsthe numerous spores in haemocoele;B.感染部位 局部放大 magnification of infection position
+
+量较多,人为干扰较大的林区中巴蚖和格蚖的种类数量较高[1]。在对上海东佘山50年来原尾虫物种多样性的长期监测发现,20世纪60年代,东佘山分布有25 种原尾虫,随着东佘山的开发,古蚖目、华蚖目等优势类群逐渐消失,至本世纪初只能发现5种,逐渐演变为檗蚖科的种类,50 年来东佘山上 $8 0 \%$ 的原尾虫种类已经消失[25」。对上海市市区绿地土壤中原尾虫的调查发现,公园绿地的竹林、乔木林有一定数量的原尾虫,但种类和数量较少,天目巴蚖、东方古蚖是上海城市土壤中的常见种类,推测这些物种对人为干扰有较强的耐受性。此外,发现个别原尾虫种类对人为干扰有很强的耐受性,如中国异蚖 Anisentomon chinensis,可在崇明岛桔园、上海焦化厂外绿化带等干扰强度大或受到污染的土壤中生存。
+
+# 4.3 原尾虫的种群密度和空间分布
+
+研究表明,原尾虫具有隔离分布的特点,在自然环境中的种群密度受到土壤微生境的影响,并非均匀分布[1]。本研究发现,竹林和乔木林中原尾虫的总密度高于灌木林,这可能与竹林和乔木林中腐殖质层较厚、土壤真菌较为丰富有关。从单个样点中原尾虫种类分布来看,种类最多的样点有5—6种原尾虫分布,7个样点有 3—4种原尾虫分布,其余样点仅有1—2种原尾虫。本研究中 ZL-1和QML-2两个样点的密度分别为2933头/ $' _ { \mathrm { { m } } ^ { 2 } }$ 和2222头 $/ \mathrm { m } ^ { 2 }$ ,显著高于其他样点（图2）,这可能是原尾虫在适宜的微生境下集中分布所导致。此外,在六盘山、西藏和俄罗斯远东地区的阔叶林中也发现了同样的现象,上述地区个别样点中原尾虫的密度初步统计可达15000—18000头 $\mathbf { \langle { m } ^ { 2 } }$ ,从采样点的生境来看,这些样点的土壤中可见大量的真菌菌丝。因此，推测原尾虫在自然环境中的分布与土壤微生境中可利用的土壤真菌的密度有关。适宜的微生境下原尾虫可以大量密集的存在,而腐殖质丰富、真菌菌丝生长良好、较为潮湿是这种微生境的共同特点。/
+
+大金山岛秋季不同植被中原尾虫的总密度为213一696 头 $/ \mathrm { m } ^ { 2 }$ ,高于上海城市土壤中原尾虫的总体密度38-340头 $\cdot / \mathrm { m } ^ { 2 [ 4 - 5 ] }$ ,而相比之下,上海市东佘山20 世纪60 年代的原尾虫密度最高可达6489 头 $/ \mathrm { m } ^ { 2 [ 6 ] }$ ,说明东佘山在当时的自然环境良好。国外学者统计发现,欧洲各类森林土壤中原尾虫的密度为 2200—18000 头/（20 $\mathbf { m } ^ { 2 [ 3 1 ] }$ ,而 Krauss 和Funke[32]在德国云杉幼苗林地发现原尾虫的密度甚至高达91400 头 $/ \mathrm { m } ^ { 2 }$ ,推测与幼苗根部2菌根真菌的大量富集有关。
+
+# 4.4原尾虫与土壤真菌的相互作用
+
+Strum[33]最早观察到原尾虫吸食乔木下菌根真菌和土壤真菌的汁液。在实验室饲养原尾虫的过程中,我们也观察到天目山巴蚖 Baculentulus tianmushanensis 的幼虫和微小蚖 Acerentomon microrhinus 的成虫取食土壤真菌菌丝的情况(图6),从肠道的蠕动以及肠道内容物可以证实,原尾虫能够以真菌菌丝内的汁液、菌丝体或其孢子为食。Mizushima[34]的研究发现,在实验室饲养条件下,日本蚖Nipponentomon nippon 对于真菌无明显的选择性,可取食尖孢镰刀菌Fusarium oxysporum、腐皮镰刀菌F.solani,西洋参锈腐病菌Cylindrocarpondestructans 等3种病原真菌,以及1种拟盘多毛孢菌属Pestalotiopsis 的腐生真菌,并且可以直接取食浆糊状的面包酵母。Malmstrom 和 Person[35]通过间接的树木环剥的研究表明,在针叶林中原尾虫可能取食菌根真菌Ectomycorrhizal,而土壤跳虫Collembola更加倾向于取食腐生真菌。
+
+![](images/b83f66c44584a093b56dbd287f62f0a532a7c2a67f27766f0282ec1ccfe9ae35.jpg)  
+图6原尾虫取食土壤真菌菌丝  
+Fig.6Protura feeding on the soil fungous mycelia
+
+A.天目山巴蚖Baculentulus tanmushanensis的幼虫取食真菌thefedingofBaculentulustianmushanensislarvaeobserved;B微小Acerentomon microrhinus 的成虫取食真菌 the feeding of Acerentomon microrhinus adults observed
+
+本研究发现原尾虫在自然环境中受到土壤病原真菌低频率的感染，表明自然条件下原尾虫自身能有效抵抗病原真菌。而实验室饲养时,原尾虫容易受到病原真菌的侵染而致死,Kurihara 等[36]在实验室饲养的一种巴蚖Baculentulus densus 体内分离到了病原真菌冠状耳霉 Conidiobolus coronatus,推测在实验室饲养条件下病原真菌的感染是导致原尾虫大量死亡的主要原因。
+
+# 4.5原尾虫的性比、繁殖和生态策略
+
+关于原尾虫的性比尚未见文献报道。在长期调查研究中发现,原尾虫的一些种类如新康蚖属Neocondellum、肯蚖属 Kenyentulus 在自然生长状态下雄性个体比例极低,甚至无雄性个体,推测这些原尾虫可能如同一些土壤跳虫如白符姚Folsomia candida一样,营孤雌生殖[37]。本研究对大金山岛原尾虫的性比进行分析,结果发现各物种雌雄比例因种类而不同。毛萼肯蚖的成虫全部为雌性,推测该种可能营孤雌生殖。天目山巴蚖和短身古蚖的雌性比例高于雄性。梅坞格蚖和普通古蚖雌雄比例相当。东方古蚖雄性比雌性多 $5 0 \%$ 。
+
+原尾虫的繁殖季节因种类而不同,有一年四季均可繁殖的“广殖型(euryplastic)”种类,也有一年只有一个繁殖季节的"狭殖型(stenoplastic)”种类[38]。本研究首次对原尾虫在自然植被中的幼虫比例进行分析,发现毛萼肯蚖和短身古蚖在秋季的幼虫比例很低,甚至没有幼虫,表明该两种的繁殖期不在秋季。天目山巴蚖、梅坞格蚖、东方古蚖和普通古蚖的幼体比例介于 $2 8 \% - 4 0 \%$ 之间。从幼虫在繁殖期间所占比例来看，原尾虫与跳虫在繁殖期产生大量幼体的情况不同,可能采取介于 $\mathbf { k }$ 和 $\mathrm { ~ \bf ~ r ~ }$ 对策之间的生态策略，这与尹文英等的推测一致。当然,仅从雌雄比例和幼虫占比推测原尾虫的繁殖时期存在一定不足,本研究基于现有数据进行初步的尝试，今后需要通过更加密集的取样进行深入探讨。
+
+由于原尾虫体型微小且生活隐秘,难以在野外直接观察等原因,对于原尾虫的繁殖行为仍然是知之甚少，有学者推测原尾虫采取与跳虫等其他土壤动物类似的间接的精子传递方式进行繁殖[39,但目前尚无直接的证据。但是,从原尾虫雌雄两性结构复杂且差异显著的外生殖器来看[1],原尾虫采用雌雄交配的体内受精方式也不无可能。Ewing[40]在文章中叙述曾观察到大和蚖Yamatentomon barberi 的交配行为,但未提供直接证据。总之,原尾虫的繁殖生物学有待进一步深人研究,这需要原尾虫在实验室内饲养和观察技术的进一步改进[41]。
+
+# 5结论
+
+通过对上海市大金山岛原尾虫的群落多样性及生态学特征进行分析探讨,本文得出以下几点结论：
+
+(1)大金山岛发现的8种原尾虫在上海市陆域植被中均有分布,且均为东洋界种类;古蚖科是优势类群;(2)大金山岛秋季竹林中原尾虫的 Shannon-Wiener 多样性显著高于灌木林( $P { < } 0 . 0 5 \mathrm { ~ , ~ }$ ;(3)大金山岛原尾虫在土壤中的分布与土壤中的微生境密切相关;（4)自然条件下原尾虫取食各种土壤真菌,但同时会受到病原真菌低频率的感染;(5)原尾虫的性比和幼虫比可以在一定程度上反映其繁殖状况,原尾虫可能采取介于 $\mathbf { k }$ 对策和 $\mathrm { ~ \bf ~ r ~ }$ 对策之间的生态策略。
+
+致谢：本研究得到上海市海洋局、上海市金山区海洋海塘管理所的支持,感谢杨刚、巢移、耿龙对野外采样的帮助。
+
+# 参考文献（References）:
+
+［1］尹文英.中国动物志：节肢动物门;原尾纲.北京：科学出版社，1999：1-510.  
+［2」卜云，高艳，栾云霞，尹文英.低等六足动物系统学研究进展.生命科学，2012，24（2)：130-138.  
+[3]Szeptycki A.The present knowledge of Protura.Fragmenta Faunistica，1997,40(28）：307-311.  
+[4］靳士科，王娟娟，朱莎，张琪，黎翔，郑文静，由文辉.上海市不同类型城市森林中小型土壤动物群落结构特征.应用生态学报，2016，27(7):2363-2371.  
+[5］高艳，卜云，栾云霞，杨毅明，柯欣.城市新规划地土壤动物群落组成和多样性:以上海市世博会会址为例.生物多样性，2007，15（2)：
+
+207-214.[6］尹文英，任秉孚，金根桃，郭培福.上海东佘山竹林土壤中原尾虫区系和生态调查.生态学报，1981,1（2):126-135.[7] 尹文英，赵立军.天目山自然保护区原尾虫区系及其变动规律的调查研究.昆虫学研究集刊，1988，4：169-176.[8] 张骏，谢荣栋，尹文英.云南省原尾虫多样性的研究.动物学研究，1996，17(2)：139-146.[9] 傅荣恕，谢荣栋，尹文英.河南伏牛山自然保护区原尾虫群落结构的研究.动物学研究，1999,20(5)：352-354.[10] 张超，宁应之，马正学.甘肃中南部原尾虫物种多样性及区系分析.动物学杂志，2014，49（5)：754-759.[11] Raw F.The abundance and distribution of Protura in grassand.Journal of Animal Ecology，1956,25(1)：15-21.[12] BogdanovicAieasoaldasofProturaioakforestiKrageac（rbia)rageacJoalofiee,7-8[13] SzeptyckiA，SterzyhskaM.Proturaofsuboceanicandsubcotinental（Peucedano-PinetumandLeucobryo-Pinetu）pineforestsinPolandFragmenta Faunistica，1995,38（12）：209-222.[14]RusekJ，ReithoferD,hmidS，TruaC，WeberJ，WildeU.Colembola，roturaandPauroodainariparianforest-esicfresteotoe./TajovskyK,Sagek,ils.trbtiostsllgintralErope.eskéBdjovce:caeofoftCzech Republic,2007:133-139.[15]ChristianE，Szeptycki A.Distribution of Protura along anurban gradient in Vienna.Pedobiologia，2004,48(5/6):445-452.[16] SterzyhskaM，OrlOSrubovchJEetofhrologicdisturbaneregimesonProturavarabilityinaiverfdplainAalesZlogiiFennici,2012,49(5/6):309-320.[17] HagvarS.EfetsoflimingandartificialacidrainonCollmbolaandProturaincoiferousforestPedobiologia，984,27(5）:341-354.[18] Walker GL，RustRW.Seasonal distributionofProtura inthre Delawareforest.Entomological News，1975,86(9/10):187-198.[19] ImdadateG.HabiatgtioterourasisuaoflcalSsteatidEoutryach97，[20] Pass G,SzucsichNU.10OyearsofresearchontheProtura:manysecretstillretainedSoilOrganisms，2011,83(3):309-334.[21] 程芳，程金平，桑恒春，于金莲，席磊，皮帅帅.大金山岛土壤重金属污染评价及相关性分析.环境科学，2013，34（3)：1062-1066.[22] 靳亚丽，李必成，耿龙，卜云.上海大金山岛不同植被类型下土壤动物群落多样性.生物多样性,2017,25(3)：304-311.[23] 达良俊，杨永川，陈燕萍．上海大金山岛的自然植物群落多样性.中国城市林业，2004，2（3）：22-25.[24] 杨永川，达良俊，秦祥堃.上海大金山岛种子植物区系的研究.武汉植物学研究，2002，20(6)：433-437.[25] 孙儒泳.动物生态学原理(第三版).北京;北京师范大学出版社，2001：1-636.[26] 卜云，高艳，栾云霞，尹文英.以上海市东余山为例看原尾虫多样性变化及其保护的迫切性/第九届生物多样性保护与持续利用研讨会论文摘要集.厦门：厦门大学，国家海洋局第三海洋研究所，2010：85-86.[27] 卜云，尹文英.原尾纲//尹文英，周文豹，石福明.天目山动物志.杭州：浙江大学出版社,2014：1-35.[28] 卜云，尹文英.中国西北六盘山区原尾虫研究.动物分类学报，2010，35（2)：278-286.[29] 卜云，尹文英.原尾纲//王义平，童彩亮.浙江清凉峰昆虫.北京：中国林业出版社，2014：27-29.[30] 卜云，苏云，尹文英.中国西北贺兰山区原尾虫首记(六足总纲，原尾纲).动物分类学报,2011,36(3）：803-807.[31] JanetschekH.Protura（Beintastler)//HelmckeJG,StarckD,WermuthH,eds.Handbuchder Zologie.Berlin；deGruyter，970:1-73.[32] KrauBJ,Funke W.Extraordinaryhighdensityof Proturaina windfallarea ofyoung spruce plants.Pedobiologia，1999,43：44-46.[33] SturmH.DieNahrungderProturen，BeobachtungenanAcerentoondoderoiSilvundEosentomontransitoriuBerlDieNaturwissshaften,1959, 46(2) : 90-91.[34] MizushimaH.FeedingpreferenceamongfourfungalspeciesbyNiponentomonnipon（ProturaNipponentomidae）．JapaneseJournalofEntomology，2004,7(2): 69-71.35]MalmtTssofaaduaepfll(2) : 279-285.[36 KuriharaY，MachidaR，FukuiM，OkudaT，HarayamaS.Entomopathogenicfungiisolatedfromlaborator-rearedBaculentulusdensus（Acerentomidae，Protura）.Edaphologia，2006,80：25-28.[37]Hopkin,SP.Biology of Springtails（Insecta: Collmbola).New York: Oxford University Press，1997:1-330.[38] TuxenSLEcldoaftrlroura（sta)udotocadont77（）4.[39] Schaler F.Indirect sperm transfer bysoil arthropods.Annual Review of Entomology，1971,16：407-446.[40] Ewing HE.TheProtura of North America.Annalsof the Entomological Societyof America，1940,33(3):495-551.[41]MachidaR,TakahashiI.Rearing technique for proturans（Hexapoda:Protura).Pedobiologia,2O04,48（3）：227-229.

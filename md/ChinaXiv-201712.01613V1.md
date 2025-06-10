@@ -1,0 +1,315 @@
+# 基于标签与关系网络的用户聚类推荐研究
+
+# 熊回香 蒋武轩
+
+(华中师范大学信息管理学院武汉 430079)
+
+摘要：【目的】利用用户标签及关系网络，为用户推荐潜在的相似用户。【方法】通过探究社会化标注系统中标签、关系网络所表征的用户长短期兴趣特征，综合用户标签及关注关系，利用多维尺度法构建用户聚类模型，根据用户聚类结果进行相似用户推荐，并以“微博"为例对模型进行实证。【结果】实验结果表明，基于标签和关系网络的用户聚类模型能够有效地结合用户长短期兴趣特征，挖掘潜在相似用户，聚类及推荐效果较好。【局限】样本数据集具有局限性，不能完全涵盖用户兴趣领域，仅从一个领域验证了模型的准确性与有效性。【结论】通过对用户标签及关系网络挖掘用户长短期兴趣，构建的基于用户静态标签与动态关系网络的用户推荐模型，对个性化用户推荐效果有较好的提升。
+
+关键词:社会化标注标签关系网络用户聚类多维尺度分析分类号：TP181
+
+# 1引言
+
+社会化标注又叫协同标注、大众分类等，是指由网络用户自发地定义一组标签描述某类信息，并选用高频标签作为该类信息类名的一种网络信息分类方法[1]。随着信息技术的快速发展，国内外出现了大批允许用户自行创建标签的社会化标注系统，如YouTube、微博等[2]。但由于用户创建标签时的随意性产生的问题，如标签歧义、模糊、冗余等，降低了内容标引和检索的有效性[3]。因此，如何提高社会化标注系统信息推荐的准确性，解决用户获取信息困难成为研究和关注的重点[4]。目前，主流的解决方式是利用聚类算法根据用户信息对用户进行相似度计算，实现用户聚类，再根据用户聚类结果在同簇用户之间进行信息推荐[5]，即用户聚类结果是社会化标注系统信息推荐的依据。
+
+(1）社会化标注系统的推荐研究主要集中于根据用户“标签-资源"关系对相似用户进行发现，极少将用户关系网络考虑其中，如易明等[和王向前等[通过VSM将标签表示成Web资源向量的形式，进而计算标签间的相似度，利用DBSCAN实现标签的聚类;Gemmell等[8-9同样使用VSM构建标签与Web 资源间的标注关系，利用层次聚类获取标签的聚类结果并将其应用到标签的个性化推荐中。
+
+(2）在社会化标注领域中多维尺度分析(MDS)方法在国内主要应用于通过科学图谱以发现词间关系，还未将其应用到相似度计算中，如卢小宾等[1]借助MDS和聚类可视化分析方法构建科学图谱，对社会化标签研究领域中的热点词汇进行识别，揭示这些热点关键词之间的亲疏远近关系；柴彦[11]通过SPSS软件的聚类分析以及多维尺度分析，研究关键词之间的内在联系，探究知识管理领域中的研究热点。国外已经将MDS应用于相似度计算领域，如Masnick等[12]利用 MDS创建职业相似性的空间表示，用于衡量学生对职业的态度，以鼓励学生从事科研领域的相关工作。
+
+因此，本文提出将标签和关系网络两者结合以挖掘潜在相似用户，并运用MDS方法对表征用户长期静态兴趣的标签和用户短期动态兴趣的关系网络进行矩阵降维以计算相似度，通过聚类寻找出兴趣和关注相似度最高的用户群体，从而实现用户的个性化推荐。同时由于用户的兴趣随着时间不断变化，不同时间用户兴趣也会有所不同，但标签的变化周期较长，具有一定的稳定性，而关系网络变化周期短，具有动态性。模型通过不断更新用户的关注变化信息以修正推荐结果，有效地解决了推荐系统的数据稀疏性，但无法兼顾用户长短期兴趣及推荐准确性等问题。经过实证研究后发现将用户关注加人到用户聚类指标中，不仅大大增强了用户聚类的准确度，而且能够揭示标签的语义关联。
+
+# 2模型描述及数据预处理
+
+本文选取国内社会标注网站的微博数据作为实证研究的对象，微博是一种通过关注机制分享简短实时信息的广播式的社交网络平台[13]。微博用户关系的形成是在现实有联系的基础上加以个人兴趣为导向的自组织拓扑体系。对用户进行个性化推荐的核心和关键就是挖掘用户个人兴趣和偏好，为了能够准确地挖掘微博中存在的不同兴趣用户群体，可以通过构建完善的用户兴趣发现模型，在计算出用户间兴趣相似度的基础上进行聚类，在聚类簇群的基础上对用户进行精准的个性化推荐。
+
+# 2.1用户聚类模型总体框架
+
+微博是以用户兴趣和关注关系为导向的用户关系结构和组织方式，本文整合这两种因素，在传统基于静态标签构建用户兴趣模型的基础上将用户动态关注关系这一指标引人其中并构建用户推荐模型，模型包含两个子模型：用户标签模型与用户关注模型。从而计算出稳定的相似用户群体进行聚类，提高了用户个性化推荐的效率和准确率，如图1所示。
+
+![](images/a709e45bd8a634c4c565c5a3d5bbec4458137551fedfa3a4092f87118977d99d.jpg)  
+图1用户聚类模型框架
+
+模型自动从微博中收集用户相关信息存入数据库中，对用户标签信息、关注信息进行信息提取，并依据模型进行数据预处理，分别生成用户标签共现矩阵及用户关注对象共现矩阵，根据共现矩阵分别计算基于标签和关注关系的用户间距离矩阵，再通过MDS 降维将用户标签及关注关系的复杂距离整合形成二维数据，进而对用户进行聚类，实现用户推荐。同时，在较短周期内不断更新用户关注信息，不断修正用户聚类结果。这样聚类得到的结果才能够更加准确地反映当前的现实状况。
+
+# 2.2 实验数据
+
+(1）数据获取
+
+实证数据来自新浪微博用户数据，笔者于2016年11月5日利用Python 爬虫从微博选取一名用户(http://weibo.c0m/u/3660593213?from $\ R =$ myfollow_all)开始逐步扩散抓取用户信息，共抓取1075名微博用户，其中共有341名用户编辑了1905个标签，表1显示了部分用户数据。数据集中的字段分别为：用户ID、用户昵称、微博数、关注数、粉丝数、标签、关注列表。
+
+表1部分微博用户数据  
+
+<html><body><table><tr><td>用户ID</td><td>用户昵称</td><td>微博数</td><td>关注数</td><td>粉丝数</td><td>标签</td><td>关注列表</td></tr><tr><td>3694919990</td><td>各国美食学起来YOU</td><td>102 390</td><td>118</td><td>986 725</td><td>新闻趣事,...微博奇葩</td><td>1857414070,..</td></tr><tr><td>5590998575</td><td>不懂老兮</td><td>806</td><td>41</td><td>532 314</td><td>外貌协会，...星座运势</td><td>3725773862,..</td></tr><tr><td>3323442082</td><td>视觉酱</td><td>100 402</td><td>238</td><td>2 478 436</td><td>教育就业,...时尚</td><td>3193150774,..</td></tr><tr><td>2155768741</td><td>贵州旅游广播</td><td>3 667</td><td>248</td><td>316 615</td><td>FM972,..快乐</td><td>2760471402,..</td></tr><tr><td>3524931687</td><td>走走客云南旅游</td><td>271</td><td>137</td><td>60</td><td>云南旅游，..自驾旅游</td><td>3273935392，..</td></tr><tr><td>1990226474</td><td>昆宣发布</td><td>28 722</td><td>1023</td><td>621 450</td><td>春城艺术，..春城人物</td><td>1266286555，...</td></tr><tr><td>3175953062</td><td>萌萌萌熊</td><td>55</td><td>9</td><td>759</td><td>时尚,..星座命理</td><td>1642909335,...</td></tr><tr><td></td><td>：</td><td></td><td>：</td><td>：</td><td></td><td></td></tr></table></body></html>
+
+# (2)数据预处理
+
+$\textcircled{1}$ 删除不完整数据
+
+由于用户数据是通过爬虫自动抓取的，因此存在一些抓取不完整的现象，如用户缺少关注列表等。去除不完整记录后共有1039名用户，其中共有332名用户编辑了1871个标签。
+
+# $\textcircled{2}$ 中文分词
+
+标签编辑的随意性使得标签的规范性存在一定问题，为了更加确认单词的意思以加强它对兴趣的表征意义，需要对某些用户标签进行中文分词。本文利用R语言基于ICTCLAS中文分词系统对经过步骤 $\textcircled{1}$ 处理的标签进行分词。
+
+该系统在中文分词中准确度较高，具有新词识别、添加新词等功能。能够自动识别新词，用户也可以根据需要添加新词，以提高分词的准确性，例如对“科幻电影”、“爱情电影"等继续分词将干扰后续计算的词定义为新词，使其不再进一步拆分，提高了样本分词准确性。经过分词总共可以得到1500个分词，词频总数为3510，部分结果如表2所示。
+
+表2标签分词词频统计  
+
+<html><body><table><tr><td>标签</td><td>旅游</td><td>美食</td><td>时尚</td><td>生活</td><td>新闻</td><td>后</td><td>电影</td><td>音乐</td><td>笑</td><td>…</td></tr><tr><td>词频</td><td>57</td><td>48</td><td>40</td><td>38</td><td>34</td><td>31</td><td>31</td><td>29</td><td>28</td><td>：</td></tr><tr><td>权重w/%</td><td>1.6239</td><td>1.3675</td><td>1.1396</td><td>1.0826</td><td>0.9687</td><td>0.8832</td><td>0.8832</td><td>0.8262</td><td>0.7977</td><td>…</td></tr></table></body></html>
+
+$\textcircled{3}$ 去停用词
+
+经过分词后的标签中有一部分是没有意义的，如阿、座、一定、后、有、笑等。这些停用词对研究的关系不大，通过停用词表予以去除。利用R语言进行停用词去除，共得到1281个分词，词频总数为2801，部分结果如表3所示。
+
+表3标签去停用词词频统计  
+
+<html><body><table><tr><td>标签</td><td>旅游</td><td>美食</td><td>时尚</td><td>生活</td><td>新闻</td><td>电影</td><td>音乐</td><td>娱乐</td><td>搞笑</td><td>…</td></tr><tr><td>词频</td><td>57</td><td>48</td><td>40</td><td>38</td><td>34</td><td>31</td><td>29</td><td>27</td><td>26</td><td>：</td></tr><tr><td>权重w/%</td><td>2.035</td><td>1.7137</td><td>1.4281</td><td>1.3567</td><td>1.2139</td><td>1.1067</td><td>1.0353</td><td>0.9639</td><td>0.9282</td><td>…</td></tr></table></body></html>
+
+$\textcircled{4}$ 语义映射
+
+经过以上处理后的部分标签还存在标签语义问题，如旅游和旅行、信息与资讯等，本文根据《同义词词林》，利用R语言计算标签间的语义相似度，以达到标签规范化的目的，提升其后分析的准确性，部分结果如表4所示。
+
+表4标签语义映射词频统计  
+
+<html><body><table><tr><td>标签</td><td>旅游</td><td>美食</td><td>搞笑</td><td>音乐</td><td>时尚</td><td>生活</td><td>新闻</td><td>电影</td><td>娱乐</td><td></td></tr><tr><td>词频</td><td>80</td><td>48</td><td>48</td><td>42</td><td>40</td><td>38</td><td>34</td><td>31</td><td>27</td><td>：</td></tr><tr><td>权重w/%</td><td>2.8633</td><td>1.718</td><td>1.718</td><td>1.5032</td><td>1.4316</td><td>1.3601</td><td>1.2527</td><td>1.1095</td><td>0.9664</td><td>…</td></tr></table></body></html>
+
+# 3基于用户标签及关注的推荐模型
+
+# 3.1 用户标签模型
+
+首先根据用户标签信息，将用户标签转换成向量并形成用户标签矩阵，根据两个用户的标签分词后相同的词语越多，则两个用户样本距离越近的原理，通过距离计算得到基于标签的用户间的距离，为后续研究做准备。
+
+(1）向量表示
+
+选取预处理后标签词频大于2的标签(共387个)作为标签集L，对用户分词后的标签进行向量化表示。数据集D中共332名用户分别将分词后的标签与L中的标签进行匹配，若存在即记为1，不存在则为0，构建矩阵，部分数据如表5所示。第一列为用户，每名用户以"U+ID"的形式加以区分；第一行为用户标签。
+
+表5用户标签矩阵  
+
+<html><body><table><tr><td>用户</td><td>旅游</td><td>美食</td><td>搞笑</td><td>音乐</td><td>时尚</td><td>生活</td><td>新闻</td><td>电影</td><td>娱乐</td><td>…</td></tr><tr><td>U5107361689</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>：</td></tr><tr><td>U1662055430</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>：</td></tr><tr><td>：</td><td>：</td><td></td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td></tr><tr><td>U1654603903</td><td>1</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>1</td><td>：</td></tr><tr><td>U1692712653</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>：</td></tr><tr><td>U1651891204</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>：</td></tr><tr><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td></tr><tr><td>U3524931687</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td><td>：</td></tr><tr><td>U2040810221</td><td>1</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>1</td><td>0</td><td>0</td><td>：</td></tr><tr><td>U1215144691</td><td>1</td><td>1</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>：</td></tr><tr><td>U2684123023</td><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td></td></tr><tr><td>…</td><td>…</td><td>…</td><td></td><td></td><td>…</td><td></td><td>…</td><td>…</td><td></td><td>： …</td></tr></table></body></html>
+
+(2）用户间距离矩阵
+
+对表5中的矩阵做用户间距离的计算[14]，设用户向量为:
+
+$$
+x _ { i } = ( \delta _ { i } ( 1 , l ) , \delta _ { i } ( 2 , l ) , \cdots , \delta _ { i } ( m , l ) ) ^ { T } , i = 1 , 2 , \cdots N
+$$
+
+其中， $N$ 为样本用户数量， $m$ 为标签集 $L$ 中标签,l表示第 $\mathbf { \nabla } _ { m }$ 个标签下的值。
+
+$$
+\delta _ { i } ( m , l ) = \left\{ { 1 , \ \nVDash _ { \vec { \mathscr { M } } } { \vec { \pi } } { \vec { \pi } } { \vec { \jmath } } \atop { \vec { \mathscr { M } } , \ \vec { \pi } \cdot \vec { \jmath } \cdot \vec { \jmath } \vec { \Psi } } } \right.
+$$
+
+设有两个用户 $x _ { i }$ 和 $x _ { j } ,$ 若 $\delta _ { i } ( m , l ) = \delta _ { j } ( m , l ) = 1$ ，则称这两个用户在第 $\mathbf { \nabla } _ { m }$ 个标签上1-1配对；若$\delta _ { i } ( m , l ) = \delta _ { j } ( m , l ) = 0$ ，则称这两个用户在第 $\mathbf { \nabla } _ { m }$ 个标签上0-0 配对；若 $\delta _ { i } ( m , l ) \neq \delta _ { j } ( m , l )$ ，则称这两个用户在第 $\mathbf { \nabla } _ { m }$ 个标签上不配对。记 $n _ { 1 }$ 为 $x _ { i }$ 和 $x _ { j }$ 在 $\mathbf { \nabla } _ { m }$ 个标签中1-1配对总数, $n _ { 0 }$ 为 $x _ { i }$ 和 $x _ { j }$ 在 $m$ 个标签中0-0配对总数,$n _ { 2 }$ 为不配对总数，则有： $n _ { 0 } + n _ { 1 } + n _ { 2 } = m$ ，用户 $x _ { i }$ 和 $x _ { j }$ 之间的距离定义为：
+
+$$
+d _ { i j } = \frac { n _ { 2 } } { n _ { 1 } + n _ { 2 } }
+$$
+
+根据公式(3)利用R语言求得所有用户间的距离，部分数据如表6所示。
+
+通过表6可以看出不同用户间的距离有所不同，$d _ { i j }$ 值越大说明两用户间距离越大，两者标签相似度越低；相反， $d _ { i j }$ 值越小说明两用户间距离越小，两者标签相似程度越高。但标签仅仅能代表用户相对静态的特征，不能及时表征用户的动态兴趣，因此本文提出在此基础上构建用户关注模型。
+
+# 3.2 用户关注模型
+
+首先根据用户关注信息，选取少量用户探究用户之间的关注关系，进而将用户关注转换成向量并形成用户关注矩阵，根据两个用户相同的关注用户越多，则两个用户样本距离越近的原理，通过距离计算得到基于标签的用户间的距离，为后续研究做准备。
+
+表6基于标签的用户间距离矩阵  
+
+<html><body><table><tr><td>dii</td><td>U1</td><td>：</td><td>U80</td><td>…</td><td>U160</td><td>U161</td><td>…</td><td>U240</td><td>…</td><td>U332</td></tr><tr><td>U1</td><td>0</td><td>：</td><td>0.875</td><td>：</td><td>0.777778</td><td>0.818182</td><td>：</td><td>0.9375</td><td>：</td><td>0.909091</td></tr><tr><td>U2</td><td>0.9</td><td>：</td><td>0.9</td><td>：</td><td>0.666667</td><td>0.5</td><td>：</td><td>0.75</td><td>：</td><td>0.75</td></tr><tr><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td></td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td></tr><tr><td>U80</td><td>0.875</td><td>：</td><td>0</td><td>：</td><td>0.777778</td><td>0.818182</td><td>：</td><td>0.9375</td><td>：</td><td>0.8</td></tr><tr><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td></tr><tr><td>U160</td><td>0.777778</td><td>：</td><td>0.777778</td><td>：</td><td>0</td><td>0.5</td><td>：</td><td>0.888889</td><td>：</td><td>0.75</td></tr><tr><td>U161</td><td>0.818182</td><td>：</td><td>0.818182</td><td>：</td><td>0.5</td><td>0</td><td>：</td><td>0.8</td><td>：</td><td>0.833333</td></tr><tr><td>：</td><td>：</td><td>：</td><td></td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td></tr><tr><td>U240</td><td>0.9375</td><td>：</td><td>0.9375</td><td>：</td><td>0.888889</td><td>0.8</td><td>：</td><td>0</td><td>：</td><td>0.777778</td></tr><tr><td>：</td><td></td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td></td><td>：</td><td>：</td><td>：</td></tr><tr><td>U332</td><td>0.909091</td><td>…</td><td>0.8</td><td>…</td><td>0.75</td><td>0.833333</td><td>…</td><td>0.777778</td><td>…</td><td>0</td></tr></table></body></html>
+
+# (1）用户共同关注关系挖掘
+
+为了探究用户之间的关注是否存在关系，从全部332名用户数据中随机选取15名样本用户的关注列表，15名用户关注数据如表7所示。
+
+表715名用户关注列表  
+
+<html><body><table><tr><td>用户</td><td>关注列表</td></tr><tr><td>U3694919990</td><td>5186027114,5182575519...</td></tr><tr><td>U3948635268</td><td>1642630543,5982981128...</td></tr><tr><td>U3323442082</td><td>5186027114,3440325930...</td></tr><tr><td>U2155768741</td><td>3766659924,3752852352...</td></tr><tr><td>U3524931687</td><td>2997829562,5611200000...</td></tr><tr><td>U1990226474</td><td>5878659096,5768117490...</td></tr><tr><td>U1108476625</td><td>5991719510,2781627392...</td></tr><tr><td>U3175953062</td><td>2705706381,3003417253...</td></tr><tr><td>U2912473701</td><td>5357651574,2415848337...</td></tr><tr><td>U1288915263</td><td>3937348351,1289945134..</td></tr><tr><td>U2029728883</td><td>5785953533,3174322363...</td></tr><tr><td>U5177961014</td><td>5796731205,1999607273...</td></tr><tr><td>U2206498342</td><td>2703907413,5465835912...</td></tr><tr><td>U3101945993</td><td>5980283108,5980023345..</td></tr><tr><td>U5721022666</td><td>5581785513,2850809427..</td></tr></table></body></html>
+
+每名用户只要关注一个其他用户，则与该用户构成关注关系，15名用户共关注2188名用户，即得到2188个关注关系。通过Gephi软件对用户间的关系进行挖掘[15]，以证明基于用户关注关系聚类的可行性,如图2所示。
+
+图2中每个用户群的中心点代表不同的中心用户，发散的点代表其关注的用户，可以看出许多中心用户关注的用户有较大的重合部分，即不同用户群之间的连线表明两个中心用户间有共同关注的对象，正是由于不同用户间存在共同关注的对象，因此用户节点数为1929，即15名用户共同关注了259名其他用户，同时颜色越相近的用户群则中心用户间共同关注的用户越多。根据对15名样本用户关系的验证，可以得出全部用户之间存在非常密切的关注联系，这对全部用户的关注关系进行聚类有重要的意义。
+
+![](images/83878799a172054ecde466ca12751295a1b7b88b57d672730633642ceb1c73eb.jpg)  
+图2用户关注图
+
+(2）向量表示
+
+将数据集D中共332名用户的关注列表进行整理，共有关注26958个，删除重复关注5155个，剩余关注21803个。将21803个关注ID作为关注集F，分别将每名用户的关注列表与F中的关注进行匹配，若存在即记为1，不存在则为0，构建矩阵。共332行用户行，21803列关注列，部分数据如表8所示。
+
+表8用户关注矩阵  
+
+<html><body><table><tr><td>用户</td><td>F5186027114</td><td>…</td><td>F5608272697</td><td>F3756087501</td><td>…</td><td>F2803301701</td><td>F2516014697</td><td></td></tr><tr><td>U1846588483</td><td>1</td><td>：</td><td>0</td><td>0</td><td>：</td><td>0</td><td>0</td><td>：</td></tr><tr><td>U2542011901</td><td>1</td><td>：</td><td>0</td><td>0</td><td>：</td><td>0</td><td>0</td><td>：</td></tr><tr><td>：</td><td></td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td></td></tr><tr><td>U1692712653</td><td>1</td><td>：</td><td>0</td><td>0</td><td>：</td><td>0</td><td>1</td><td>：</td></tr><tr><td>U1644572034</td><td>1</td><td>：</td><td>0</td><td>0</td><td>：</td><td>0</td><td>0</td><td>：</td></tr><tr><td>U1781457455</td><td>0</td><td>：</td><td>0</td><td>0</td><td>：</td><td>0</td><td>0</td><td>：</td></tr><tr><td>：</td><td></td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td></td></tr><tr><td>U5107361689</td><td>0</td><td>：</td><td>0</td><td>0</td><td>：</td><td>0</td><td>0</td><td>：</td></tr><tr><td>U2542011901</td><td>1</td><td>：</td><td>0</td><td>0</td><td>：</td><td>0</td><td>0</td><td>：</td></tr><tr><td>U2834863492</td><td>0</td><td>：</td><td>1</td><td>1</td><td>：</td><td>1</td><td>1</td><td>…</td></tr><tr><td></td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td></tr><tr><td>U3524931687</td><td>0</td><td>：</td><td>1</td><td>1</td><td>：</td><td>1</td><td>0</td><td>…</td></tr><tr><td>U1203156407</td><td>0</td><td>：</td><td>0</td><td>1</td><td>：</td><td>0</td><td>0</td><td>：</td></tr><tr><td>…</td><td>…</td><td>…</td><td>…</td><td>…</td><td></td><td>…</td><td></td><td>…</td></tr></table></body></html>
+
+(3）用户间距离矩阵采用与标签距离计算同样的算法计算用户间距离，得到基于关注关系的用户间距离矩阵，部分数据如表9所示。
+
+表9基于关注关系的用户间距离矩阵  
+
+<html><body><table><tr><td>dii</td><td>U1</td><td>：</td><td>U80</td><td></td><td>U160</td><td>U161</td><td></td><td>U240</td><td>：</td><td>U332</td></tr><tr><td>U1</td><td>0</td><td></td><td>0.963350</td><td>…</td><td>0.988636</td><td></td><td></td><td>0.970149</td><td>：</td><td>0.991701</td></tr><tr><td>U2</td><td>0.994350</td><td></td><td>0.992753</td><td>…</td><td>1</td><td>0.993827</td><td>…</td><td>1</td><td></td><td>1</td></tr><tr><td></td><td></td><td></td><td></td><td>…</td><td>…</td><td></td><td>：</td><td></td><td>：</td><td></td></tr><tr><td>U80</td><td>0.963350</td><td>：</td><td>0</td><td>：</td><td>0.994680</td><td>0.994186</td><td>：</td><td>0.991525</td><td>：</td><td>0.997076</td></tr><tr><td>：</td><td></td><td></td><td></td><td>…</td><td>：</td><td>：</td><td>…</td><td>：</td><td>…</td><td>：</td></tr><tr><td>U160</td><td>0.988636</td><td>：</td><td>0.994680</td><td></td><td>0</td><td>0.995762</td><td></td><td>0.992187</td><td></td><td>0.987012</td></tr><tr><td>U161</td><td>0.987654</td><td>：</td><td>0.994186</td><td>：</td><td>0.995762</td><td>0</td><td></td><td>0.996491</td><td></td><td>0.989664</td></tr><tr><td></td><td>：</td><td>：</td><td></td><td>：</td><td></td><td>：</td><td>：</td><td>：</td><td>：</td><td>：</td></tr><tr><td>U240</td><td>0.970149</td><td>：</td><td>0.991525</td><td></td><td>0.992187</td><td>0.996491</td><td></td><td>0</td><td></td><td>0.992882</td></tr><tr><td>：</td><td>：</td><td></td><td></td><td>：</td><td>：</td><td>…</td><td>：</td><td>：</td><td>：</td><td>：</td></tr><tr><td>U332</td><td>0.991701</td><td></td><td>0.997076</td><td>：</td><td>0.987012</td><td>0.989664</td><td>…</td><td>0.992882</td><td>：</td><td>0</td></tr></table></body></html>
+
+根据表9, $d _ { i j }$ 越大说明两用户间关注的相似度越低， $d _ { i j }$ 越小说明两用户间关注的相似度越高。同时可以看到距离矩阵中有一部分值是1，这是因为关注集F中21803个关注ID相对于用户最多200的关注过于庞大，造成数据的稀疏性。由此可以发现若仅根据用户关注对用户进行聚类实现个性化推荐还是有一定的缺陷的。
+
+# 3.3 综合用户聚类模型
+
+将用户标签静态性与用户关注的动态性进行综合聚类。利用多维尺度分析法对多维度的用户标签与用
+
+户关注进行降维后，再通过K-means方法进行用户聚类，实现用户的个性化推荐。
+
+# (1）向量表示
+
+多维尺度分析法(MDS)[16-17]是一种将多变量的多维大型数据压缩到低维空间的方法，通过低维空间的点表示变量间的潜在规律性联系，且通过平面间的距离反映样本间的相似度。MDS具有很多优点，包括[10]:样本数据可以不受任何事先分布假设的约束；能够处理不同类型的数据；能够将多变量多维数据压缩到低
+
+维空间等。
+
+本文根据用户标签及关注关系的向量矩阵，分别对其进行MDS降维处理，将维数差别巨大的标签矩阵(332行 $\times 3 8 7$ 列)与关注矩阵(332行 $\times 2 1 8 0 7$ 列信息整合到二维空间中，用户的标签MDS和关注MDS代表用户在向量空间中的维度，其值为用户在向量空间中的坐标，部分结果如表10所示。
+
+表10基于标签及用户关注 MDS 降维数据  
+
+<html><body><table><tr><td>用户</td><td>标签MDS</td><td>关注MDS</td></tr><tr><td>U2612101423</td><td>0.049094493</td><td>-0.034319904</td></tr><tr><td>U1846588483</td><td>0.014763293</td><td>-0.011171253</td></tr><tr><td>U1306794125</td><td>0.055376563</td><td>-0.034743694</td></tr><tr><td>U5179732445</td><td>0.50130544</td><td>-0.036149048</td></tr><tr><td>U5761248787</td><td>0.50130544</td><td>-0.004671656</td></tr><tr><td>U1665102492</td><td>0.04820318</td><td>-0.033469629</td></tr><tr><td>U2647197351</td><td>0.033225349</td><td>-0.046390183</td></tr><tr><td>U5961019705</td><td>0.034749234</td><td>-0.03427661</td></tr><tr><td>U1781457455</td><td>0.043747374</td><td>-0.034271488</td></tr><tr><td>U5107361689</td><td>-0.055230674</td><td>0.114665726</td></tr><tr><td>U2542011901</td><td>0.046136223</td><td>-0.000205833</td></tr><tr><td>U2871542364</td><td>0.058303826</td><td>-0.042518174</td></tr><tr><td>U2834863492</td><td>0.05151389</td><td>0.004734437</td></tr><tr><td>U2624882007</td><td>-0.081583674</td><td>-0.027694683</td></tr><tr><td>U1692712653</td><td>-0.08441402</td><td>-0.004928777</td></tr><tr><td>U1644572034</td><td>0.052114494</td><td>0.095748648</td></tr><tr><td>U1651891204</td><td>-0.139576002</td><td>-0.029852541</td></tr><tr><td>U2094215167</td><td>0.050809285</td><td>0.003524086</td></tr><tr><td>U3524931687</td><td>-0.10443334</td><td>-0.023421971</td></tr><tr><td>：</td><td>：</td><td>：</td></tr></table></body></html>
+
+(2）用户聚类
+
+K-means算法是一种典型的适合于大样本的Q型聚类分析方法[14]，通过计算数据集中点与点之间的距离或相似度进行聚类，且类中心采用类中值的均值计算而成[18]
+
+聚类算法如下：
+
+$\textcircled{1}$ 确定初始类中心点。随机选择 $k$ 个元素作为 $k$ 个类的中心点。$\textcircled{2}$ 初始类。将表5和表8中基于标签和用户关注MDS降维数据结合，计算每个点到类中心的距离，将每个点聚类到离该点最近的类中去，得到 $k$ 个粗分类。$\textcircled{3}$ 更新类中心。计算各个粗分类中所有点的坐标平均值，并将这个平均值作为新的聚类中心。$\textcircled{4}$ 重复执行步骤 $\textcircled{2}$ 、步骤 $\textcircled{3}$ ，直到聚类中心不再进行大范围移动。
+
+K-means聚类作为凝聚式的聚类方法，需要人为定义其初始类中心点的个数，由于样本数据共有332名有效用户，为不失一般性，模型为每位用户推荐10名左右的用户，因此以初始类中心 $k { = } 3 0$ 为例进行聚类，聚类结果如图3所示。
+
+图3中不同形状的点表示不同的用户簇群。米字型代表簇中心所在的位置，簇中心为该簇中所有用户坐标的平均值，该中心点即代表该簇，用以表征该簇中的所有用户。可以看到，每一个簇中心周围都聚集着该簇中的点，且较为紧密，与其他簇中心有较为明显的距离，这说明聚类效果较好。但仍需通过聚类指标对聚类效果进行衡量，表11为综合聚类结果的指标。
+
+![](images/08521ec85600f39bfa3bcb157d4b8891efae43073b4fd48e56fceb4887dfe532.jpg)  
+图3综合聚类结果图
+
+表11综合聚类 $k { = } 3 0$ 指标结果  
+
+<html><body><table><tr><td>指标</td><td>值</td></tr><tr><td>TOT.Withinss 簇群内距离平方总和</td><td>0.1385733</td></tr><tr><td>Betweenss 簇群间距离平方总和</td><td>7.615879</td></tr></table></body></html>
+
+如表11所示，簇群内距离平方总和(TOT.Withinss)指标表示所有簇用户距离其簇中心点距离平方的和，该指标用以衡量聚类结果的凝聚度，该值越小说明该类用户越紧凑，聚类效果越好；簇群间聚类平方总和(Betweenss)指标表示不同簇群间簇中心距离的平方和，该指标用以衡量聚类的分离度，该值越大说明将类与类之间分离越明显，聚类效果越好。
+
+# 4模型效果分析
+
+# 4.1 模型有效性评价
+
+# (1）评价指标
+
+由于聚类分析是一种无监督的分析方法[18]，因此对聚类后的结构进行有效性度量是非常必要的。聚类有效性的度量一般基于对簇内和簇间两个方面进行衡量，好的聚类效果为具有最小的簇内距离和最大的簇间距离，即具有最小的簇内凝聚度和最大的簇间分离度[7]。
+
+当前提出的有效性函数大多是基于凝聚度和分离度的组合进行改进。Xie-Beni提出使用 $V _ { X B }$ 函数对聚类有效性进行测量[19-20]，如公式(4)所示。
+
+$$
+V _ { X B } = \frac { \displaystyle \sum _ { i = 1 } ^ { c } \sum _ { j = 1 } ^ { n } u _ { i j } ^ { m } \left\| \nu _ { i } - x _ { j } \right\| ^ { 2 } } { { n \cdot \operatorname* { m i n } \left\| \nu _ { i } - \nu _ { j } \right\| ^ { 2 } } }
+$$
+
+其中, $V _ { X B }$ 表示凝聚度和分离度的比例, $V _ { X B }$ 越小说明聚类效果越好; ${ \frac { 1 } { n } } { \sum _ { i = 1 } ^ { c } } { \sum _ { j = 1 } ^ { n } } u _ { i j } ^ { m } \left| \right| { { \nu _ { i } } - { x _ { j } } \left\| ^ { 2 } \right.} $ 为度量凝聚度,其值越小该类越紧凑； $\operatorname* { m i n } \| \nu _ { i } - \nu _ { j } \| ^ { 2 }$ 为度量分离度,其值越大，分离度越大，则类与类之间分离得越好。
+
+本文将上述函数简化，如公式(5)所示。
+
+$$
+V _ { T B } = \frac { T O T . W i t h i n s s ( k ) } { B e t w e e n s s ( k ) }
+$$
+
+其中, $k$ 表示聚类数，Tot.Withnss $( k )$ 表示在聚类数为 $k$ 下，簇内距离平方和总量，用以度量凝聚度;Betweenss表示在聚类数 $k$ 下，簇间聚类平方和总量，用以度量分离度， $V _ { T B }$ 值越小，则聚类效果越好。
+
+# (2）有效性分析
+
+为了方便描述，将本文提出的基于标签与关注关系综合聚类方法简写为 $\mathrm { ~ L ~ } _ { - } \mathrm { F } _ { - } \mathrm { C }$ ；将基于标签的聚类方法简写成 $\mathrm { ~ L ~ } _ { - } \mathrm { ~ C ~ }$ ；将基于关注聚类的方法简写成 $\mathrm { ~ F _ { - } C ~ } _ { }$ 门使用本文提出的 $V _ { X B }$ 函数的简化函数 $V _ { T B }$ 函数。分别预设聚类个数，这里设定各方法聚类个数均为 $k { = } 3$ 、$k { = } 6$ 、 $k { = } 9$ 、 $k { = } 1 2$ 、 $k { = } 1 5$ 、 $k { = } 1 8$ 、 $k { = } 2 1$ 、 $k { = } 2 4$ 、 $k { = } 2 7$ /$k { = } 3 0$ ，根据标签距离矩阵、关注距离矩阵及综合MDS矩阵分别经过聚类并计算得到图4。
+
+![](images/e691c25630aa5177d964dd4e9316546ab9d19250cc1d6c4440b73967f9201bd0.jpg)  
+图4 L_F_C、F_C和 $\mathrm { ~ L ~ } _ { - } \mathrm { C }$ 方法 $V _ { T B }$ 值对比
+
+从图4可以看出本文提出的基于标签及关注关系综合聚类 $( \mathrm { L } \mathrm { ~ } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm { } \mathrm \mathrm { } \mathrm { } \mathrm { } \mathrm \mathrm { } \mathrm { } \mathrm { } \mathrm \mathrm { } \mathrm { } \mathrm \mathrm { } \mathrm { } \mathrm \mathrm  \mathrm { } \mathrm \mathrm { } \mathrm { } \mathrm \mathrm { } \mathrm \mathrm { } \mathrm \mathrm { } \mathrm { } \mathrm \mathrm { } \mathrm \mathrm  \mathrm \mathrm { } \mathrm \mathrm { } \mathrm \mathrm { } \mathrm \mathrm { } \mathrm \mathrm { \mathrm } \mathrm \mathrm  \mathrm \mathrm { } \mathrm \mathrm { } \mathrm \mathrm \mathrm { } \mathrm \mathrm \mathrm { } \mathrm \mathrm \mathrm  \mathrm \mathrm { } \mathrm \mathrm \mathrm { } \mathrm \mathrm \mathrm { \mathrm \mathrm \mathrm } \mathrm  \mathrm \mathrm \mathrm { } \mathrm \mathrm \mathrm \mathrm { \mathrm \mathrm } \mathrm \mathrm  \mathrm \mathrm \mathrm { } \mathrm \mathrm \mathrm \mathrm \mathrm { \mathrm \mathrm } \mathrm \mathrm  \mathrm \mathrm \mathrm \mathrm { } \mathrm \mathrm \mathrm \mathrm \mathrm \mathrm  \mathrm \mathrm \mathrm \mathrm \mathrm { } \mathrm \mathrm \mathrm \mathrm \mathrm \mathrm  \mathrm \mathrm \mathrm \mathrm \mathrm \mathrm \mathrm \mathrm { \mathrm \mathrm } \mathrm \mathrm \mathrm \mathrm \mathrm  \mathrm \mathrm \mathrm \mathrm \mathrm { } \mathrm \mathrm $ 在 $V _ { T B }$ 指标上远远优于单独基于标签聚类方法 $( \mathrm { L } \_ { \mathrm { C } } )$ 和基于关注关系聚类方法(F_C)。表明本文所提出的基于标签及关注关系聚类的方法能够获取较好的聚类结果。主要原因在于LF_C方法将用户静态标签及用户动态关注关系考虑其中，大大增加
+
+了聚类的准确性及有效性。
+
+# 4.2 实证结果分析
+
+本文随机选取用户M对模型进行实证。用户 M数据如表12所示。
+
+设置聚类数 $k { = } 3 0$ 对样本332名用户数据进行聚类，聚类结果如表13所示。
+
+表12用户M数据  
+
+<html><body><table><tr><td>用户ID</td><td>用户昵称</td><td>标签</td><td>关注列表</td></tr><tr><td>2132089917</td><td>陈秋实和他的朋友们</td><td>语录，新闻，美剧，运动,80后，传媒，写作，处女座</td><td>1803526210,1854768217,..</td></tr></table></body></html>
+
+表13模型聚类结果  
+
+<html><body><table><tr><td>用户ID</td><td>用户昵称</td><td>标签</td><td>关注列表</td></tr><tr><td>2132089917</td><td>陈秋实和他的朋友们</td><td>语录，新闻，美剧，运动,80后，传媒，写作，处女座</td><td>1803526210,1854768217,...</td></tr><tr><td>1448466905</td><td>非要马甲线</td><td>下厨房，营养学，健身，爱，天蝎，美食，旅游</td><td>1690832323,1238296465，...</td></tr><tr><td>1592611830</td><td>演员李健</td><td>天蝎座</td><td>1870958692, 5941080382,...</td></tr><tr><td>2307134004</td><td>STAGExx</td><td>时尚，美食，音乐，电影，旅游</td><td>1813787671,1812640242,..</td></tr><tr><td>3173913704</td><td>葡萄 sasa 定制店</td><td>旅游，时尚</td><td>5646244946, 3944457562,...</td></tr><tr><td>1254995044</td><td>山外有</td><td>电脑，宅，书，纪录片，摄影，西南交通大学，四川大学</td><td>64230524,3208535250..</td></tr></table></body></html>
+
+通过对用户 M(陈秋实和他的朋友们)背景进行了解，可以发现该用户昵称叫陈秋实，是《我是演说家》亚军，从事过演员助理、配音员、记者、电视编导、电视主持人、舞台剧、影视剧演员等多种职业，目前就职于北京隆安律师事务所，主要执业方向为影视娱乐、传媒、互联网领域的法律业务。
+
+因此，用户M对影视、传媒、互联网等行业应较为关注，从表12可以发现虽然该用户在标签中并未明确标注"娱乐”、“互联网"等词语，但对用户M的推荐主要是娱乐、互联网领域的用户，可以从“演员季健”“STAGExx"等用户的标签中发现。同时从演员李健的标签中也可以看出，演员李健标签只有“天蝎座”，但其身份为一名演员，模型通过关注关系发现该用户的潜在特征，将其推荐给用户 $\mathbf { \delta M }$ 。
+
+同时，经过对用户M关注列表的分析，该用户在最近关注了“享骑出行"等出行旅游类微博，因此模型也将基于关注关系为用户M进行推荐。根据推荐结果可以发现，虽然用户M在标签中并未有"旅游"等词语但在其推荐用户中可以看到“非要马甲线”、“STAGExx”、“葡萄 sasa定制店"三名用户的标签中都含有“旅游"标签，说明这三者都是对旅游出行具有长期兴趣的用户，模型对用户M关注关系的更新发现他们与用户M关系，进而进行推荐。
+
+综上所述，本文所提出的模型综合用户M标签表征的长期兴趣与关注表征的短期兴趣能够较好地将符合用户M特征的其他用户作为被推荐对象，推荐给用户 $\mathrm { ~ \bf ~ M ~ }$ 。但是，由于样本信息不完全，主要集中在娱乐领域，因此，在被推荐用户中法律领域的用户并未出现。经过上述分析有理由相信，在数据量更为充分的情况下，模型将能更精确地综合用户长短期兴趣，推荐更为准确的相似用户。
+
+# 5结语
+
+本文将用户作为个性化推荐的对象，提出基于用户静态标签与动态关系网络的用户推荐模型。通过用户标签及用户关系网络挖掘用户长短期兴趣特征，开创性地利用MDS降维的方式将用户多维信息全部包含进模型中，并使用聚类分析的方法发现潜在相似用户，提高了用户聚类的准确性与全面性及用户推荐的有效性。并且，本文将提出的模型应用于真实数据集，证明了模型的准确性及推荐的有效性。
+
+但本文为了更加清晰地描述模型，并未从多个角度进行数据的采集，样本数据集具有局限性，不能完全涵盖用户所有兴趣领域，仅从一个领域验证了模型的准确性与有效性。今后的研究方向将扩大数据的覆盖面，从多个领域节点出发收集数据，通过实证结果继续完善模型的相关算法，以进一步提高模型的可行性和有效性，促使模型从理论走向实践。
+
+# 参考文献：
+
+[1]熊回香，王学东．大众分类体系中标签概念空间的构建研 究[J]．情报学报，2012,31(9):984-992.(Xiong Huixiang, Wang Xuedong. Research on Tag Concept Space Construction in Folksonom System[J]. Journal of the China Society for Scientific and Technical Information,2012,31(9):984-992.)   
+[2]熊回香，杨雪萍．社会化标注系统中的个性化信息推荐研 究[J].情报学报，2016,35(5):549-560.(Xiong Huixiang, Yang Xueping.Personalized Information Recommendation Research Based on Combined Condition in Folksonomies[J]. Journal of the China Society for Scientific and Technical Information,2016,35(5): 549-560.)   
+[3]Arekar T，Sonar M R S,Uke N J.A Surveyon Recommendation System[J].IOSR Journal of Computer Engineering,2015,5(1):1-4.   
+[4]Adomavicius G,Tuzhilin A. Toward the Next Generation of Recommender Systems:A Survey of the State-of-the-Art and Possible Extensions[J]. IEEE Transactions on Knowledge & Data Engineering,2005,17(6): 734-749.   
+[5]何晓林．基于用户兴趣学习的个性化信息服务模型研究 [D].北京：北京交通大学,2008.(He Xiaolin.Research on Personalized Information Service Model Based on User Interest Study[D].Beijing: Beijing Jiaotong University,2008.)   
+[6]易明，操玉杰，沈劲枝，等．社会化标签系统中基于密度 聚类的 Web 用户兴趣建模方法[J].情报学报,2011,30(1): 37-43.(Yi Ming,Cao Yujie,Shen Jinzhi,et al.An Approach to Web User Interest Modeling Based on Density-based Clustering Algorithm in the Social Tag System[J]. Journal of the China Society for Scientific and Technical Information, 2012,30(1):37-43.)   
+[7]王向前，李慧宗．基于资源内容聚类的社会化标签聚类方 法[J].情报杂志,2016,35(11):141-145.(Wang Xiangqian, Li Huizong.A Method of Tag Clustering Based on Resource Contents[J]. Journal of Intelligence,2016,35(11): 141-145.)   
+[8]Shepitsen A,Gemmell J,Mobasher B,et al.Personalized RecommendationinSocialTaggingSystemsUsing Hierarchical Clustering[C]//Proceedings of the 20o8 ACM Conference on Recommender Systems,2008:259-266.   
+[9]Gemmell J,Shepitsen A,Mobasher B,et al.Personalizing Navigation in FolksonomiesUsing HierarchicalTag Clustering[C]/Proceedings of International Conference on Data Warehousing and Knowledge Discovery. Springer Berlin Heidelberg,2008:196-205.   
+[10]卢小宾，孟玺，张进．基于词共现的社会化标签研究热点 可视化分析[J]．情报学报，2012，31(2)：204-212.(Lu Xiaobin, Meng Xi, Zhang Jin. Visualization of Hot Topics in Social Tagging Based on Co-words Analysis Method[J]. Journal of the China Society for Scientific and Technical Information,2012,31(2):204-212.)   
+[11]柴彦．基于共词聚类分析方法的知识管理国内研究述评 [J].情报科学,2015,33(4):149-153.(Chai Yan.Review of Knowledge Management Based on Co-Word Clustering Analysis[J]. Information Science,2015,33(4): 149-153.)   
+[12] Masnick A M,Valenti S S,Cox B D,et al．A Multidimensional Scaling Analysis of Students’ Attitudes about Science Careers[J]. International Journal of Science Education,2010,32(5): 653-667.   
+[13]黄红霞，章成志．中文微博用户标签的调查分析——以新 浪微博为例[J]．现代图书情报技术，2012(10):49-54. (Huang Hongxia, Zhang Chengzhi. Investigation and Analysis of Chinese Microblog UserTags-Using Sina Weibo as Example [J]. New Technology of Library and Information Service,2012(10):49-54.)   
+[14]薛毅,陈立萍.统计建模与R软件[M].第1版.北京：清 华大学出版社，2007.(Xue Yi,Chen Liping.Statistical Modeling and R Software[M]. The 1st Edition. Beijing: Tsinghua University Press,2007.)   
+[15] Cherven K.Network Graph Analysis and Visualization with Gephi[M].Packt Publishing,2013.   
+[16] 郭婷，郑颖．数据挖掘在国内图书情报领域的应用现状分 析——基于文献计量分析和共词分析[J].情报科学，2015, 33(10):91-98.(Guo Ting，Zheng Ying.Research on the Application of Data Mining in the Field of Library and Information Science in China—Based on Bibliometric Analysis and Co-word Analysis[J]. Information Science, 2015,33(10): 91-98.)   
+[17]Wikipedia.Multidimensional Scaling[EB/OL].[2016-11-01]. https://en.wikipedia.org/wiki/Multidimensional_scaling.   
+[18]Harrington P.机器学习实战[M]．曲亚东，李锐，王斌等 译．第1版．北京：人民邮电出版社，2013:184-185. (Harrington P.Machine Learning in Action[M]. Translated by Qu Yadong,Li Rui, Wang Bin,et al. The lst Edition.Beijing:
+
+Posts & Telecom Press,2013:184-185.)
+
+[19]张宇献，刘通，董晓，等．基于改进划分系数的模糊聚类 有效性函数[J].沈阳工业大学学报，2014，36(4)：431-435. (Zhang Yuxian，Liu Tong，Dong Xiao，et al．Validity Function for Fuzzy Clustering Based on Improved Partition Coefficient[J]. Journal of Shenyang University of Technology, 2014,36(4):431-435.)   
+[20]朱连江，马炳先，赵学泉．基于轮廓系数的聚类有效性分 析[J].计算机应用,2010,30(S2):139-141.(Zhu Lianjiang, Ma Bingxian, Zhao Xuequan. Clustering Validity Analysis Based on Silhouette Coefficient[J].Journal of Computer Applications,2010,30(S2):139-141.)
+
+# 作者贡献声明：
+
+熊回香：提出研究方向和方法，论文撰写指导，论文修订;  
+蒋武轩：数据获取，数据分析，论文撰写，论文修订。
+
+# 利益冲突声明：
+
+所有作者声明不存在利益冲突关系。
+
+# 支撑数据：
+
+支撑数据由作者自存储,E-mail:412370630@qq.com。[1]熊回香，蒋武轩.实验数据及数据预处理数据.xlsx.微博实验数据.
+
+[2]熊回香，蒋武轩.实验数据及数据预处理数据.xlsx.分词词频结果数据.  
+[3]熊回香，蒋武轩.实验数据及数据预处理数据.xlsx.去停用词词频结果数据.  
+[4]熊回香，蒋武轩.实验数据及数据预处理数据.xlsx.标签语义映射词频数据.  
+[5]熊回香，蒋武轩.用户标签处理过程数据.xlsx.用户标签矩阵.[6]熊回香，蒋武轩．用户标签处理过程数据.xlsx.基于用户标签的用户间距离矩阵，  
+[7]熊回香，蒋武轩．用户关注关系处理过程数据.xlsx.15名样本用户关注列表.  
+[8]熊回香，蒋武轩．用户关注关系处理过程数据.xlsx.用户关注矩阵.  
+[9]熊回香，蒋武轩．用户关注关系处理过程数据.xlsx.基于关注关系的用户间距离矩阵.  
+[10]熊回香，蒋武轩.综合用户聚类过程数据及验证用户M数据.xlsx.基于标签及用户关注MDS降维数据，  
+[11]熊回香，蒋武轩.综合用户聚类过程数据及验证用户M数据.xlsx.综合聚类结果.  
+[12]熊回香，蒋武轩.综合用户聚类过程数据及验证用户M数据.xlsx.模型评价.  
+[13]熊回香，蒋武轩.综合用户聚类过程数据及验证用户M数据.xlsx.用户M推荐结果.
+
+收稿日期:2017-04-07   
+收修改稿日期:2017-05-15
+
+# Clustering and Recommending Users Based on Tags and Relation Network
+
+Xiong HuixiangJiang Wuxuan (School of Information Management, Central China Normal University, Wuhan 430079, China)
+
+Abstract: [Objective] This paper proposes a new model to recommend potential similar users with the helpof social tags and relation network.[Methods]First,we explored characteristics of the users’short orlong-term interests based on the social tagging system.Then,we built a user-clustering model using multidimensional scaling method with he tags and relationshipdata.Finally,werecommended similar users based on the clustering results.The proposed model was examined with Weibo data.[Results] Wefound that the new model could efectively combine the characteristics of the user'sinterests,and then identify the potential similar ones.[Limitations]The sample data does not include everything on user interests.Thus,we only examined the efectiveness of the proposed model with limited data. [Conclusions] The user recommendation model based on static tagsand dynamic relational network could improve the personalized recommendation services.
+
+Keywords: Social TaggingTag Relation NetworkUser-clusterMultidimensional Scaling Analysis

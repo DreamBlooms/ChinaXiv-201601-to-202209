@@ -1,0 +1,571 @@
+[
+    {
+        "type": "text",
+        "text": "Projection of hydrothermal condition in Central Asia under four SSP-RCP scenarios ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YAO Linlin1,2.3, ZHOU Hongfei1,2\\*, YAN Yingjie1,2.3,LI Lanhai1.3,4,5.6, SU Yuan1,2.3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1State Key Laboratoryof Desertand Oasis Ecology，Xinjiang Instituteof Ecologyand Geography,Chinese Academyof Sciences, Urumqi 830011,China;   \n2 Fukang National Field Scientific Observation and Research Station for Desert Ecosystems,Chinese Academy of Sciences, Fukang 831505,China;   \n3 University of Chinese Academy of Sciences, Beijing 10049,China;   \n4 Il Station for Watershed Ecosystem Research, Chinese Academy of Sciences, Xinyuan 835800, China;   \n5CAS Research Center for Ecology and Environment of Central Asia,Urumqi 830oi1, China;   \n6 Xinjiang Key Laboratory of Water Cycle and Utilization in Arid Zone,Urumqi 830oi1, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Hydrothermal condition is mismatched in arid and semi-arid regions,particularly in Central Asia (includingKazakhstan，Kyrgyzstan， Tajkistan，Uzbekistan， andTurkmenistan)， resultingmany environmental limitations.In this study,we projected hydrothermal condition in Central Asia based on bias-corrected multi-model ensembles (MMEs) from the Coupled Model Intercomparison Project Phase 6 (CMIP6) under four Shared Socioeconomic Pathway and Representative Concentration Pathway (SSP-RCP) scenarios (SSP126(SSP1-RCP2.6)， SSP245 (SSP2-RCP4.5)， SSP460 (SSP4-RCP6.0)，and SSP585 (SSP5-RCP8.5)) during 2015-2100.The bias correction and spatial disaggregation, water-thermal product index,and sensitivityanalysis wereused in this study.The results showed that the hydrothermal condition is mismatched in the central and southern deserts,whereas the region of Pamir Mountains and Tianshan Mountains as well as the northern plains of Kazakhstan showed a matched hydrothermal condition. Compared with the historical period,the matched degree of hydrothermal condition improves during 2046-2075,but degenerates during 2015-2044 and 2076-2100. The change of hydrothermal condition is sensitive to precipitation in the northern regions and the maximum temperatures in the southern regions. The result suggests that the optimal scenario in Central Asia is SSP126 scenario,while SSP585 scenario brings further hydrothermal contradictions. This study provides scientific information for the development and sustainable utilization of hydrothermal resources in arid and semi-arid regions under climate change. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:hydrothermal condition； water-thermal product index； bias correction and spatial disaggregation; SSP-RCP scenarios;Central Asia ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation:YAOLinlin,ZHOU Hongfei,YANYingjie,LILanhai,SUYuan.2O22.Projectionof hydrothermalcondition in CentralAsiauderfourSS-RCPscenarios.JoualofAridLand,14(5):521-536.htps:/doorg/100/s43-020094-9 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hydrothermal condition is a comprehensive climate indicator. It is affected by multiple climate variables, including precipitation, temperature, and evapotranspiration, and plays a significant role in evaluating regional climate change (Weltzin et al., 2OO3; McCain and Colwel, 2O11; Wu et al., 2011; Konapala et al.,2O2O). Hydrothermal condition is characterized by contradiction in arid and semi-arid regions, particularly in Central Asia (Wang et al.,2O1O; Li and Ma, 2018; Luo et al., ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2019; Yu et al., 2O2O). In the last century, the pronounced hydrothermal contradiction,a mismatch between water and thermal resources， was triggered by phased warming and highly variable precipitation, which were not synchronized in intensity and magnitude (McCain and Colwell, 2011; Lacombe et al., 2012; Luo et al.,2019; Konapala et al., 2020), bringing negative impact on agricultural yield and water utilization structure and leading to desertification (Zhan et al., 2018; Li et al.,2O2O; Schierhorn et al.， 2O20). Increasingly noticeable hydrothermal contradictions will occur in the future,and the increasing stress brought by population growth and consequential agricultural demands will boost these contradictions (Lioubimtseva and Henebry, 2OO9; Wu et al., 2011;Li et al., 2O2O). Consequently, identifying the consistency between potential changes in hydrothermal resources has received extensive attention. However, previous studies have not been able to account for the comprehensive connection between hydrothermal resources or to project the potential changes in future periods (Wang et al.，2010; Zhan et al.， 2O18; Yu et al.,2020). Therefore, it is necessary to project hydrothermal condition on spatial-temporal scales and to minimize the possible negative effects of climate change in Central Asia. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Many comprehensive indices are used to assess hydrothermal condition,and they are divided into three types: a direct hydrothermal index，a comprehensive index based on potential evapotranspiration (PET),and a comprehensive index based on temperature and water balance (Meng et al.， 2O04). The first type overlooks a comprehensive understanding of water consumption, with examples including Winkler index, Selianinov hydrothermal coeficient, and De Martonne aridity index (Martonne,1926; Seljaninov,1966; Meng et al., 2004; Cardoso et al., 2019). PET is considered as the natural consumption in the second type,with the indices based on drought (Mondal et al.， 2021)，humidity (Vicente-Serrano et al.，201O)，the Palmer drought severity index (Alley, 1984),and so on. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "With the comprehensive examination of water balance and thermal properties， new hydrothermal indices have evolved from basic indices. For example,according to the relationship among temperature, precipitation, PET,and soil water balance,Ni and Zhang (1997) developed water-thermal product index ( $\\boldsymbol { k }$ index） to assess the matched and mismatched hydrothermal condition. Relative to other indices, $k$ index considers more reasonable and comprehensive hydrothermal condition and has special ecological significance. It has been validated in the research of the connection between climate and large-scale vegetation patterns in China (Ni and Zhang，1997；Li et al.，2O18). It can be seen that the application of $k$ index is feasible in large-scale regions with spatial differences.Thus,it was chosen as a basic index to assess the regional hydrothermal condition. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Global Circulation Models (GCMs) have made excellent advances stemming from the Coupled Model Intercomparison Project (CMIP). Together with their simulations, they are regarded as effective tools for climate change evaluation (Eyring et al.， 2016). The Coupled Model Intercomparison Project Phase 6 (CMIP6) has an upgraded physical algorithm that avoids overestimating precipitation and equates reliable data sources for climate projection (Gidden et al.，2019；Rivera and Arnould,2O2O).The basis scenarios in CMIP6 are designed as a combination of Shared Socioeconomic Pathways and Representative Concentration Pathways (SSP-RCP) scenarios,and are expected to produce more reliable projections (Gidden et al., 2019). Varied SSP-RCP scenarios indicate a gradual increase in the emission level of greenhouse gases and radiative forcing. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This study illustrates hydrothermal condition in typical arid and semi-arid regions in future periods. First, bias correction and spatial disaggregation (BCSD) method was used to correct the simulated bias of climate variables (e.g.， precipitation， temperature，maximum temperature (Tmax),minimum temperature (Tmin),and PET) from the selected GCMs. Second, $k$ index was adopted to assess hydrothermal condition in Central Asia from 2O15 to 2100.Additionally, sensitivity analysis was applied to identify the sensitivity of hydrothermal condition to climate variables. The results provide fundamental data and theoretical support for future development strategies in Central Asia with an integrated index for regional climate analysis. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Central Asia $( 3 5 ^ { \\circ } 0 9 ^ { \\prime } 3 5 ^ { \\prime \\prime } - 5 5 ^ { \\circ } 2 6 ^ { \\prime } 3 3 ^ { \\prime \\prime } \\mathrm { N }$ ， $4 6 ^ { \\circ } 2 9 ^ { \\prime } 5 7 \" - 8 7 ^ { \\circ } 2 0 ^ { \\prime } 2 5 \" \\mathrm { E } )$ is located in the center of Eurasia, with a total area of about $3 . 9 7 \\times 1 0 ^ { 7 } \\ \\mathrm { k m } ^ { 2 }$ ，including five countries: Kazakhstan，Kyrgyzstan, Tajikistan, Uzbekistan, and Turkmenistan (Fig.1).Most regions of Central Asia have continental characteristics,with excess evapotranspiration as well as extreme changes in daily temperature, annual temperature,and seasonal precipitation. The region is divided into the northern plains (Kazakhskiy Melkosopochnik,Ustyurt Plateau,and West Siberian Plain),the eastern plateaus (Tianshan Mountains, Pamir Mountains,and Altay Mountains), the western lowlands (Turan Plain and Caspian Depression),and the southern deserts (Karakum Desert and Kyzylkum Desert). The major rivers in Central Asia (Ertix River, Amu Darya River, and Syr Darya River) originate from the eastern mountains and flow westward into the Aral Sea.The land use paterns in Central Asia are limited by continental climate and fragile ecosystems. Sparse vegetation， grassands，and croplands cover $4 6 . 0 9 \\%$ ， $2 4 . 2 6 \\%$ ，and $2 0 . 4 3 \\%$ of the total land area,respectively (Jiang et al., 2022). Central Asia enjoys greater feasibility in spatial analysis of hydrothermal condition and contradiction because of its complex and diversified natural landscapes. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0efaf70a24f90b7ec41b47d558989c36c2625c857366feac42868f4e969090be.jpg",
+        "img_caption": [
+            "Fig.1Overview of the study area.Note that this map is based on the standard map (No.GS (2O16)1666)of the Map Service System (http://zdt.ch.mnr.gov.cn/) marked by the Ministry of Natural Resources of the People's Republic of China,and the base map has not been modified. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Climate data ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Datasets used in this study consisted of historical reference data and GCMs simulations. Historical reference data were obtained from the Climate Resource Unit (CRU） TS4.04 (https://data.ceda.ac.uk/badc/cru/),including PET,precipitation,temperature, Tmax，and Tmin during 1975-2014,with $0 . 5 ^ { \\circ } { \\times } 0 . 5 ^ { \\circ }$ spatial resolution.Existing studies have recognized the validity of the dataset for climatic analysis in Central Asia (Mannig et al.,2O13; Wu et al.,2O13; Harris et al.，2014; Guo et al.，2021). GCMs obtained from CMIP6 (https://esgf-node.lnl.gov/search/ cmip6/） under four SSP-RCP scenarios (SSP126 (SSP1-RCP2.6)， SSP245 (SSP2-RCP4.5), SSP460 (SSP4-RCP6.0)，and SSP585 (SSP5-RCP8.5)） included monthly downwelling and upwelling radiations, precipitation, temperature, Tmax, Tmin, near-surface wind speed (NWS) at a height of $1 0 \\mathrm { ~ m ~ }$ ，and humidity during the historical period (1975-2O14) and the future period (2015-21OO). In consideration of the availability of all climate variables under four SSP-RCP scenarios， weutilized five GCMs， including CanESM5， IPSL-CM6A-LR， MIROC6, MRI-ESM2-O,and FGOALS-g3， to assess hydrothermal condition. The bilinear interpolation method was used to unify GCMs simulations into the same spatial resolution. In addition, considering the uncertainty of GCMs simulations,we also calculated the multi-model ensembles (MMEs) in this study (Weiland et al.,2012; Guo et al., 2021). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 Data analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 Taylor diagram and Taylorskill score ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Taylor diagram and Taylor skill score (TSS) are effective tools to assess the simulation level of GCMs (Taylor, 20O1; Guo et al., 2O21). Taylor diagram was chosen to examine the differences in performance of climatic reproducibility between individual GCMs and MMEs in Central Asia. It integrates three evaluation metrics:Pearson correlation coefficient $( r )$ ，standard deviation (SD),and mean square error (MSE). On Taylor diagram, the closer the distance between the model and reference,the higher the simulation capability. TSS has been widely used to assess the suitability of a selected model in a given study area. It can be calculated as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { T S S } = \\frac { 4 \\times \\left( 1 + r \\right) ^ { 2 } } { \\left( \\frac { \\mathrm { S D } _ { \\mathrm { h i s t } } } { \\mathrm { S D } _ { \\mathrm { o b s } } } + \\frac { \\mathrm { S D } _ { \\mathrm { o b s } } } { \\mathrm { S D } _ { \\mathrm { h i s t } } } \\right) ^ { 2 } \\times \\left( 1 + r _ { 0 } \\right) ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where TSS is the Taylor skill score; $r$ is the Pearson correlation coefficient; $\\mathrm { \\ S D _ { h i s t } }$ is the standard deviation of historical GCMs simulations; $\\mathrm { S D } _ { \\mathrm { o b s } }$ is the standard deviation of historical reference data; and $r _ { 0 }$ is the ideal correlation coefficient,which is usually O.999.The higher the TSS,the better the simulation capability. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 Bias correction and spatial disaggregation ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The process of bias correction is a prerequisite step to enhance the reliability of GCMs simulations (Christensen et al., 2008； Sun et al.， 2019). BCSD is a completed pre-processing method for GCMs simulations by integrating bias correction and non-parametric transformation of downscaling (Wood et al.,2002,2004; Christensen et al.,2008). Compared to other bias correction methods，such as the Delta method,change factor method,and linear scaling(Teutschbein and Seibert,2O12),BCSD corrects the inherent and random bias in the simulated mean and variance. It also corrects the intensity distribution by establishing the cumulative distribution function and transfer function between the historical reference data and GCMs simulations.BCSD is superior to the quantile-mapping method, which is a fundamental requirement in climate analysis (Chernozhukov et al.，2O17). Therefore，BCSD was chosen as a basis method to correct the simulated bias in the historical period (1975-2014) and future period (2015-2100). The MMEs, rather than individual GCMs, were applied to handle the uncertainty of GCMs simulations. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "BCSD was used to correct the simulated bias in precipitation, temperature,and PET, which are the basic variable for the hydrothermal index.It also corrects the bias in an indirect hydrothermal index,such as Tmin or Tmax.Other related variables were transformed into PET based on the Penman-Monteith equation and were used to complete the bias correction. The main process of bias correction includes the following four steps. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Firstly,the bilinear interpolation method was used to unify GCMs simulations to the same spatial resolution before calculating the MMEs ( $( 0 . 5 ^ { \\circ } \\times 0 . 5 ^ { \\circ }$ spatial resolution) (Su et al., 2021; Zeng et al., 2021). Secondly, the simulated trend was extracted from the raw MMEs with the moving average method and then the trend was retained. New simulations with no trends were generated. Thirdly, the new simulations in the second step were corrected by the following equations: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { \\mathrm { b c - h M M E } } = \\mathrm { C D F } ^ { - 1 } ( \\mathrm { C D F } ( F _ { \\mathrm { h M M E } } | \\mu _ { \\mathrm { h M M E } } , \\sigma _ { \\mathrm { \\ n M M E } } ^ { 2 } ) , \\mu _ { \\mathrm { o b s } } , \\sigma _ { \\mathrm { \\ o b s } } ^ { 2 } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { F _ { \\mathrm { b c \\mathrm { - } f M M E } } = \\mathrm { C D F } ^ { - 1 } ( \\mathrm { C D F } ( F _ { \\mathrm { f M M E } } | \\mu _ { \\mathrm { h M M E } } , \\sigma _ { \\mathrm { \\ h M M E } } ^ { 2 } ) , \\mu _ { \\mathrm { o b s } } , \\sigma _ { \\mathrm { \\ o b s } } ^ { 2 } ) \\ : , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $F _ { \\mathrm { b c \\mathrm { - } h M M E } }$ is the historical MMEs after bias correction from 1975 to 2014; $F _ { \\mathrm { b c - f M M E } }$ is the future MMEs after bias correction from 2O15 to 21OO; CDF is the cumulative distribution function; $F _ { \\mathrm { h M M E } }$ is the historical simulations,which was obtained in the second step; $F _ { \\mathrm { f M M E } }$ is the future simulations, which was also obtained in the second step; $\\mu _ { \\mathrm { h M M E } }$ and $\\mu _ { \\mathrm { o b s } }$ are the location parameter of fiting Gaussan distribution based on the historical simulations and historical reference data, respectively; and $\\sigma _ { \\mathrm { \\ h M M E } } ^ { 2 }$ and $\\sigma _ { \\mathrm { \\Phi _ { \\mathrm { 0 b s } } } } ^ { 2 }$ are the variance of fitting Gaussian distribution based on the historical simulations and historical reference data,respectively. Based on the monthly scale,we constructed the transfer function for each spatial grid and climate variable (precipitation, temperature,Tmax, Tmin,and PET). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Lastly，the trend was added to the bias correction results and fitting outliers of cumulative distribution function was fixed by extrapolation method. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.3Evaluation indices of bias correction We chose six indices to evaluate the results of bias correction,and the detail description, equation, and optimum value of those indices are shown in Table 1 (Seo and Ok,2O13; Ji et al., 2020). ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/39cafc09cc46d1f71b33ad946370b082cdd9a63c2a11d6c28a6b1b6013f7a589.jpg",
+        "table_caption": [
+            "Table 1 Evaluation indices of bias correction "
+        ],
+        "table_footnote": [
+            "Note:iindicates the year; $j$ indicates the spatial grid; $n$ is the total number of year; $m$ is the total number of spatial grid; $\\mathbf { M M E _ { \\mathrm { { h i s t } } } }$ is the historical multi-model ensembles (MMEs); $\\overline { { \\mathrm { M M E } } } _ { \\mathrm { h i s t } }$ is the mean value of historical MMEs; $\\mathrm { \\ o b s _ { h i s t } }$ is the historical reference data,and $\\overline { { \\mathrm { o b s } } } _ { \\mathrm { h i s t } }$ is the mean value of the historical reference data. "
+        ],
+        "table_body": "<html><body><table><tr><td>Index</td><td>Description</td><td>Equation</td><td>Optimum value</td></tr><tr><td>Bias</td><td>Bias between the historical MMEsand reference data</td><td>∑MMEhis, - obsist.i Bias= n</td><td>0.0</td></tr><tr><td>Relative bias (RB)</td><td>The ratio of bias to historical reference data</td><td>RB Bias obshist</td><td>0.0</td></tr><tr><td>Time correlation (TC)</td><td>Time correlation between the historical MMEs and reference data</td><td>C(MMEhist,i-MMEhist)）×∑(obs hist -obshist) TC i=1 (MME nis,i -MMEnist)² -obshist) (obShist,i</td><td>1.0</td></tr><tr><td>Spatial correlation (SC)</td><td>Spatial correlation between the historical MMEs and reference data</td><td>(MMEnist,j-MEnist)X j=1 j=1 SC m ; -MMEhist)²× j=1 j=1 ∑(MME hist.j</td><td>(obs hist,j-obshist) 1.0 ∑(obshis.j-obshit）²2</td></tr><tr><td>Normalized standard deviation (NSTD） reference data</td><td>Normalized standard deviation between the historical MMEs and NSTD</td><td>(MMEhist,i-MMEhist,i)2</td><td>0.8-1.2</td></tr><tr><td></td><td></td><td>∑(obhist,i-bhist,i)²</td><td></td></tr><tr><td>Mean absolute error (MAE)</td><td>Mean absolute error of the historical MMEs MAE=</td><td>n [MMEhist,i-obsist. ]</td><td>0.0</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.4Water-thermal product index $k$ index) ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "According to the positive correlation and principle of hydrothermal balance, $\\mathrm { N i }$ and Zhang (1997) developed a regional climate indicator named water-thermal product index ( $k$ index) to denote the regional hydrothermal condition and contradiction. The equations are as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk = \\mathrm { T } \\times \\mathrm { W D } \\div 1 0 0 \\mathrm { \\Omega } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { W D = P - P E T } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P E T } = \\frac { 0 . 4 0 8 \\Delta \\left( R _ { n } - G \\right) + R \\frac { 9 0 0 } { \\mathrm { T } + 2 7 3 } ( E _ { s } - E _ { a } ) } { \\Delta + R \\left( 1 + 0 . 3 4 u _ { 2 } \\right) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $k$ is the water-thermal product index( ${ } ^ { \\mathrm { { \\circ } } } \\mathrm { { C } } { \\cdot } \\mathrm { { m m } } )$ ： $\\mathrm { \\Delta T }$ is the temperature ${ \\mathrm { ( } } ^ { \\circ } { \\mathrm { C ) } }$ ; WD is the water deficit $( \\mathrm { m m } )$ ，indicating the difference between precipitation $( \\mathrm { P } ; \\mathrm { m m } )$ and PET $( \\mathrm { m m } )$ ； $R _ { n }$ is net surface radiation $( \\mathbf { M J } / ( \\mathbf { m } ^ { 2 } { \\cdot } \\mathbf { d } ) )$ · $G$ is the soil heat flux $( \\mathbf { M J } / ( \\mathbf { m ^ { 2 } { \\cdot } d } ) ) ;$ $R$ is the psychrometric constant; $E _ { s }$ is the saturated water vapor pressure $( \\mathrm { k P a } )$ ·， $E _ { a }$ is the actual water vapor pressure $( \\mathrm { { k P a } ) } ; \\Delta$ is the slope of the saturated vapor pressure curve; and $u _ { 2 }$ is the wind speed $\\mathrm { { ( m / s ) } }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The same sign between water deficit and temperature means the matched hydrothermal condition, while the contrary sign between them implies the mismatched condition. The recent studies suggested that $k$ index is well applied in the agricultural planning and vegetation classification (Ni and Zhang, 1997; Li et al., 2018). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this study, we divided the monthly scales into spring (from March to May),summer(from June to August),autumn (from September to November),and winter (from December to February) to assess the seasonal discrepancies in hydrothermal condition. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.5 Sensitivity analysis ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The sensitivity coefficient $( S )$ was chosen as an analysis method to reveal the sensitivity of $k$ index to the climate variables (precipitation, temperature,Tmin,and Tmax) (Beven,1979).The equation is as follows: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { \\nu } = \\mathrm { l i m } _ { \\Delta \\nu  0 } { ( \\frac { \\Delta k / k } { \\Delta \\nu / \\nu } ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $S _ { \\nu }$ is the sensitivity coefficient of $k$ index to climate variables $\\nu$ and $\\Delta k$ and $\\Delta \\nu$ are the variation of $k$ and $\\nu ,$ respectively. A positive value of $S _ { \\nu }$ indicates the consistent change between $k$ index and climate variable,while a negative value of $S _ { \\nu }$ implies the inconsistent change between $k$ index and climate variable.The higher the absolute value of $S _ { \\nu }$ ,the greater the sensitivity. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1Evaluation of simulation performance ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The result showed that the spatial pattern of each climate variable can be captured by the five GCMs with distinctions in simulation performance. FGOALS-g3 had the smallest spatial bias in precipitation simulation, ranging from $- 2 . 6 6$ to $1 . 0 7 ~ \\mathrm { { m m } / d }$ ，and RB was 0.40.IPSL-CM6A-LR achieved better reproducibility in temperature simulation,with RB of $- 0 . 0 4$ .MRI-ESM2-0 had a better performance for PET simulation, with RB of O.04.Moreover, the simulation performance of different GCMs in the same region was diferent (Figs. 2-4).For example, CanESM5 overestimated precipitation in the northern Central Asia and underestimated that in the region of Pamir and Tianshan mountains; the overestimated precipitation and temperature were presented in IMIROC6 and MRI-ESM2-0.Furthermore，the comparison between the raw MMEs and individual GCMs showed that RB of precipitation was lower in MMEs,with the mean value of 0.39.The mean RB of temperature and PET in MMEs was O.18 and $- 0 . 0 5$ ，respectively. In addition,the selected models had better simulation performance in Central Asia,as evidenced by ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/10fec0191879347140137d99e8f18726b026e8f56fa9456b095cc9e842815966.jpg",
+        "img_caption": [
+            "Fig.2Spatial distribution of relative bias (RB)of precipitation based on five Global Circulation Models (GCMs)(CanESM5 (a)， IPSL-CM6A-LR (b)，MIROC6 (c)，MRI-ESM2-0 (d)，and FGOALS-g3(e)）and multi-model ensembles (MMEs,f)in Central Asiaduring 1975-2O14.Note that this map is based on the standard map (No.GS (2016)1666)of the Map Service System (htp:/bzdt.ch.mnr.gov.cn/) marked by the Ministry of Natural Resources of the People's Republic of China,and the base map has not been modified. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f7b4f5fa8f12feba71330f7fcea8270b025331207a7515ffc01ec5b7c125e76d.jpg",
+        "img_caption": [
+            "Fig.3Spatial distribution of RB of temperature based on five GCMs (CanESM5 (a), IPSL-CM6A-LR (b), MIROC6(c),MRI-ESM2-0 (d),andFGOALS-g3 (e))and MMEs (f) in Central Asia during 1975-2014.Note that this map is based on the standard map (No.GS(2016)1666)of the Map Service System (tp:/bzdt. ch.mnr.gov.cn/) marked by the Ministry of Natural Resources of the People's Republic of China,and the base map has not been modified. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/587f1fd3eaef37bb7ce4a934d357ce3cb7227a993d8912d0a9e58fd4b375e1bc.jpg",
+        "img_caption": [
+            "Fig.4Spatial distribution of RBof potential evapotranspiration (PET) based on five GCMs (CanESM5(a), IPSL-CM6A-LR (b), MIROC6 (c), MRI-ESM2-0 (d),and FGOALS $\\mathbf { g } 3$ (e)) and MMEs (f) in Central Asia during 1975-2014.Note that this map is based on the standard map (No.GS (2016) 1666)of the Map Service System (http://bzdt.ch.mnr.gov.cn/) marked by the Ministryof Natural Resources of thePeople's Republic of China,and the base map has not been modified. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Taylor diagram (Fig. 5). In particular, the MMEs had a relatively high ranking and large TSS value,which showed that the approach was reliable for the analysis of climate change. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Overall,the MMEs are superior in the climatological analysis compared with individual GCMs because their combination of individual output uncertainty generally minimizes spatial-temporal bias of multiple meteorological variables, despite accompanied with dipped edges in single or several-element simulations. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 Evaluation of bias correction ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The statistical evaluation of bias correction is shown in Table 2. Smaller bias and RB in each corrected climate variable (precipitation，temperature，PET,Tmax，Tmin） indicated better performance of BCSD. According to Table 2,for the five climatic variables,time correlation (TC) and spatial correlation (SC） have been significantly increased after correction. The increased correlation between historical reference data and simulations in MMEs improved the accuracy of spatial-temporal analysis. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 6 revealed the comparison of interannual relative bias before and after correction. The interannual relative bias of precipitation after correction was closer to the optimum value than the raw precipitation with decreased spatial anomalies，demonstrating that BCSD improved the simulation performance for precipitation and minimized interannual bias for PET and temperature. Although a slight increase in corrected MAE was found in temperature, the MMEs corrected by ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e2ac9e3c78c918598c422a54547856e4ceeb5ab3b99e25a7954fdda3547cee84.jpg",
+        "img_caption": [
+            "Fig.5Taylor diagram of precipitation (a),temperature (b),and PET(c) in Central Asia during 1975-2014. The green lines represent the reference of mean square error. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/5c53f04cfd668fee411d6774ed156f3caf6cbcc8409d64bb184e5b782783e490.jpg",
+        "table_caption": [
+            "Table 2Statistical evaluationof bias correction for climate variables "
+        ],
+        "table_footnote": [
+            "Note:PET,potential evapotranspiration;Tmax,maximum temperature;Tmin,minimum temperature;BC,beforecorrection; AC,after correction. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Index</td><td colspan=\"2\">Precipitation</td><td colspan=\"2\">Temperature</td><td colspan=\"2\">PET</td><td colspan=\"2\">Tmax</td><td colspan=\"2\">Tmin</td></tr><tr><td>BC</td><td>AC</td><td>BC</td><td>AC</td><td>BC</td><td>AC</td><td>BC</td><td>AC</td><td>BC</td><td>AC</td></tr><tr><td>Bias</td><td>0.27</td><td>0.01</td><td>1.20</td><td>0.08</td><td>-0.37</td><td>0.01</td><td>0.44</td><td>0.00</td><td>1.00</td><td>0.04</td></tr><tr><td>RB</td><td>0.39</td><td>0.01</td><td>0.18</td><td>0.01</td><td>-0.15</td><td>0.00</td><td>0.03</td><td>0.00</td><td>0.63</td><td>0.02</td></tr><tr><td>TC</td><td>0.36</td><td>0.66</td><td>0.96</td><td>0.96</td><td>0.96</td><td>0.97</td><td>0.97</td><td>0.97</td><td>0.97</td><td>0.96</td></tr><tr><td>SC</td><td>0.62</td><td>0.63</td><td>0.88</td><td>0.96</td><td>0.85</td><td>0.91</td><td>0.91</td><td>0.96</td><td>0.88</td><td>0.96</td></tr><tr><td>NSTD</td><td>0.86</td><td>0.98</td><td>1.09</td><td>1.00</td><td>1.28</td><td>1.01</td><td>1.15</td><td>1.01</td><td>1.10</td><td>1.01</td></tr><tr><td>MAE</td><td>0.47</td><td>0.39</td><td>2.97</td><td>3.15</td><td>0.74</td><td>0.41</td><td>2.99</td><td>2.32</td><td>2.87</td><td>2.03</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "BCSD were generally close to the references for the whole period and region,and were reliable for projecting hydrothermal condition. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3Projected temporal variation of $k$ index at annual and seasonal scales ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Temporal variation of $k$ index at annual and seasonal scales was projected during the periods of 2015-2045 (near-term)，2046-2075 (mid-term)，and 2076-2100 (late-term） under different SSP-RCP scenarios (Fig.7). Under SSP126 scenario, winter had the best hydrothermal condition during 2015-2045,with a maximum $k$ index of $- 1 . 5 7 ^ { \\circ } \\mathrm { C } . \\mathrm { m m }$ ，followed by spring and autumn, with $k$ index being $- 2 1 . 7 9 ^ { \\circ } \\mathrm { C } . \\mathrm { m m }$ and $- 2 0 . 2 9 ^ { \\circ } \\mathbf { C } { \\cdot } \\mathbf { m m }$ ，respectively. The severe imbalanced hydrothermal condition appeared in summer, with a minimum $k$ index of $- 1 4 0 . 4 9 ^ { \\circ } \\mathrm { C } . \\mathrm { m m }$ . The declining trend of $k$ index was found at annual and seasonal scales. During 2O15-2045, $k$ index was lower than that in the reference period, indicating that Central Asia may experience the worst hydrothermal contradiction. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/40b8c67d9093d0656d806d2c651755781e95558509d74f86d8c71b17a04b95fa.jpg",
+        "img_caption": [
+            "Fig.6Annual RB of precipitation (a),temperature (b),PET(c)，maximum temperature (Tmax,d)，and minimum temperature (Tmin,e) before and after correction in Central Asia during 1975-2014 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/d00de27fc85646aca6511b37b40d1a423f446d1273754f140835cc5e5f9786d1.jpg",
+        "img_caption": [
+            "Fig.7Temporal variation of water-thermal product index ( $k$ index） at annual (a)and seasonal (b-e） scales during diferent periods. The boxes represent the range from the lower quantile (Q25)to the upper quantile (Q75). The black horizontal lines represent the means.The upper and lower whiskers extent to the maximum and minimum value within the 1.5 interquartile range of the upper and lower quartile,respectively. SSP126, SSP1-RCP2.6； SSP245， SSP2-RCP4.5； SSP460，SSP4-RCP6.0；SSP585，SSP5-RCP8.5.SSP，Shared Socioeconomic Pathway; RCP, Representative Concentration Pathway. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.4Projected spatial distribution of $\\pmb { k }$ index at annual and seasonal scales ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In order to project spatial distribution of $k$ index at annual and seasonal scales under differeni ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "SSP-RCP scenarios from 2015 to 2100, we selected SSP126 scenario (the minimum emission level) as the baseline scenario and used the distribution of $k$ index under SSP126 scenario as the spatial benchmark (Fig.8).Moreover, the difference value of $k$ index between other scenarios (SSP245, SSP460,and SSP585) and the baseline scenario (SSP126) was calculated as shown in Figure 9. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "According to Figure 9,we can distinguish the optimal and ordinary scenarios.The optimal scenario indicated $k$ index under other scenarios was greater than that under the baseline scenario, while the ordinary scenario showed $k$ index under other scenarios was less than that under the baseline scenario.In the baseline scenario,the projected $k$ index at annual scale ranged from $- 2 6 3 . 8 1 ^ { \\circ } \\mathrm { C } . \\mathrm { m m }$ to $4 3 . 8 1 ^ { \\circ } \\mathrm { C \\cdot m m }$ ， showing an explicit decreasing trend from southeast to northwest. Higher precipitation,lower temperature,and limited evaporation engendered the relatively high $k$ index，accounting for $4 . 6 \\%$ of the total area,mostly in the region of Pamir and Tianshan mountains; while the negative $k$ index was located in the southern deserts. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The projected spatial distribution of $k$ index was determined by different seasons and scenarios. In terms of seasonality, $k$ index in winter tended to decline from southwest to northeast,which was opposite to the spatial pattern of other seasons.Moreover, the variation under SSP-RCP scenarios indicated a slightly increased spatial standard deviation of $k$ index in spring,summer, and autumn. Furthermore,hydrothermal condition also represented seasonal difference in the same region. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Figures 8 and 9 revealed that, from the perspective of different scenarios, SSP126 scenario was the optimal scenario in Central Asia; SSP245 was regarded as the optimal scenario in the western Caspian Depression; and SSP46O and SSP585 were the optimal scenario in the eastern plateaus and Altay Mountains.From the perspective of seasonality, SSP245 was the optimal scenario in the rainfed farming areas of northern Kazakhstan in summer; SSP46O was the optimal scenario in the Caspian Depresson in autumn; and SSP585 was the optimal scenario in the eastern plateau region, Caspian Depression, and Ustyurt Plateau in winter. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/a1242450bd7b0996e50a5e3ecbe612b0fda2baa45f9da5c13a1f5295a9c5f526.jpg",
+        "img_caption": [
+            "Fig.8Projected spatial distribution of $k$ index at annual (a) and seasonal (b-e) scales under SSP126 scenario in Central Asia during 2015-2100.Note that this map is based on the standard map (No.GS (2016)1666) of the Map Service System (http://zdt.ch.mnr.gov.cn/) marked by the Ministry of Natural Resources of the People's Republic of China,and the base map has not been modified. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.5Sensitivity analysis of $\\pmb { k }$ index to climate variables ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Figure 1O showed the sensitivity analysis results of $k$ index to the four climate variables under different SSP-RCP scenarios.The dominant climate variable and its sensitivity were diferent in temporal scales and scenarios.The results indicated that Tmin had litle effect on the variation of $k$ index (except in winter),whereas $k$ index was most sensitive to Tmax in summer and autumn. Spatially, the change of $k$ index was generally sensitive to precipitation in the northern regions, while it was sensitive to Tmax in the southern regions.The sensitive ratio of precipitation increased from $3 6 . 2 4 \\%$ under SSP126 scenario to $6 3 . 6 \\%$ under SSP585 scenario,and the ratio of Tmax decreased from $5 7 . 8 2 \\%$ under SSP126 scenario to $2 8 . 1 9 \\%$ under SSP585 scenario. The sensitivity analysis at seasonal scales suggested that the increasing temperatures and decreasing precipitation were the main reasons for the declining hvdrothermal condition.Under ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/6988d514d3283def02a7f3e2777fb85f9582ddb67442a54d0e6c946f2f758611.jpg",
+        "img_caption": [
+            "Fig.9Projected spatial distribution of the difference value of $k$ index at annual (al-a3) and seasonal (b1-e3) scales under SSP245,SSP460,and SSP585 scenarios in Central Asia during 2015-2100.(b1-b3),spring;(cl-c3), summer; (d1-d3),autumn; (e1-e3), winter. Note that this map is based on the standard map (No. GS (2016)1666) of the Map Service System (http://zdt.ch.mnr.gov.cn/） marked by the Ministryof Natural Resources of the People's Republic of China,and the base map has not been modified. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "SSP126 scenario,regardless of the spatial difference, the declining hydrothermal condition led to a more pronounced hydrothermal contradiction in Central Asia. The projected increase in Tmin ranged from $0 . 0 4 ^ { \\circ } \\mathrm { C } . \\mathrm { m m } / 1 0 \\mathrm { a }$ to $0 . 3 0 ^ { \\circ } \\mathrm { C } \\cdot \\mathrm { m m } / 1 0 \\mathrm { a }$ ，which was more significant than Tmax and temperature.By contrast, the increase in temperature and precipitation was more notable in the scenarios with high emission level. In addition, the underlying mechanism of the change of hydrothermal condition in the eastern mountains was more complex than that in the rest of Central Asia. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4 Discussion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.1Application and prospect of hydrothermal condition and $\\pmb { k }$ index ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Drought is often chosen as a breakpoint in analyzing mismatched hydrothermal condition. Based on drought indices,Wang et al. (2O21) discovered that severe drought is projected in the southern deserts of Central Asia, but its severity is lower than that in the region of Pamir and Tianshan mountains. Deng et al. (2O2O) also found a similar pattern for drought prediction in Central Asia. Severe droughts mainly occur in imbalanced regions,whereas regions with relatively balanced conditions are more vulnerable to the adverse effects of drought.The spatial distribution between the drought degree and $k$ index is similar due to the inherent consistency in hydrothermal condition.Drought indices focus on the disaster strength,but $k$ index is more concerned with regional hydrothermal contradictions.Further research is needed to compare the ability of the two indices to detect hydrothermal condition in different regions. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/384640e6e26706064ccf0ff5cad61ab46c7ef127574c4bd46b25320286c2ce57.jpg",
+        "img_caption": [
+            "Fig.10Spatial distribution of dominant climate variable at annual (al-a4) and seasonal (bl-e4)scales under SSP126,SSP245,SSP460,and SSP585 scenarios in Central Asia during 2015-2100.(b1-b4),spring; (c1-c4), summer; (d1-d4),autumn; (e1-e4), winter. Note that this map is based on the standard map (No.GS (2016)1666) of the Map Service System (http://zdt.ch.mnr.gov.cn/） marked by the Ministryof Natural Resources of the People's Republic of China,and the base map has not been modified. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Hydrothermal condition has widespread impacts on vegetation changes at a large scale. Previous studies showed that stronger drought triggers vegetation degradation in many regions (Horion et al.， 2016; Xu et al., 2016; Dubovyk et al.，2019； Yuan et al.， 2022).Based on multiyear observation data, a study conducted by Ni and Zhang (1997） showed a positive correlation between the net primary production of vegetation and $k$ index from taiga to rain forest and from temperate desert to deciduous forest. For drought, $k$ index is a valid tool to assess the comprehensive hydrothermal states,including balanced and imbalanced conditions. In agriculture and livestock industry, $k$ index may have a threshold due to the optimum matching condition, the optimum thermal properties under available water resources,or the optimum moisture under excessive thermal resources.Therefore,according to the threshold, we can divide the $k$ index into different levels,and the projection of hydrothermal condition will be improved. Li et al. (2O18) attempted to construct a mathematical model between $k$ index and net primary productivity, but did not get a reliable result. Further, in areas with higher complexity, such as mountains and plateaus, hydrothermal condition is influenced by elevation and terrain (Geng et al., 2017; Wang et al., 2022). Future studies need to quantify the influences of terrain by refining the spatial resolution in the mountain regions to meet requirements for three-dimensional spatial ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "analysis (Ahmed et al., 2013; Ge et al., 2021). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.2 Relationships between hydrothermal condition and agriculture ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "We can divide Central Asia into regions with relatively balanced and unbalanced hydrothermal condition based on $k$ index, corresponding to rainfed and irrigation agriculture (Kienzler et al., 2012; Jiang et al., 2O19).For example, irrigation agriculture in Uzbekistan and Turkmenistan is dominated by unbalanced hydrothermal condition.In contrast, rainfed agriculture and livestock industry in the northern Kazakhstan are the result of balanced hydrothermal condition. It is suggested that the balanced hydrothermal condition has a positive effect on agricultural development. As a part of climate, hydrothermal condition is a limiting but decisive variable for agriculture，indicating only the resistance from the natural environment. Some conscious interventions, such as irigation, mitigate the negative impacts of the unbalanced hydrothermal condition on agriculture (Zhang et al.， 2015；Fang et al.， 2019). Furthermore，improved agricultural technology and hydraulic engineering reduce resource restrictions, but the impact degree is different for water and thermal resources (Reshmidevi et al., 2Oo9; Bannayan et al., 2010; Carli et al., 2O14). An increase in thermal resources in the future period may create a development opportunity for agriculture in the Syr Darya River and Amu Darya Rvier. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.3Projected optimal scenario in Central Asia ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "According to the results of this study,on the longtime scale,hydrothermal condition is decreased under SSP585. Moreover, the unsustainable high emission scenario with a regional superiority exerts more hydrothermal pressure on the vulnerable ecosystems and agriculture (Abd-Elmabod et al.，202O； Li et al.， 202O). In addition， sensitivity analysis suggests that overestimated temperatures may lead to a severe hydrothermal contradiction in Central Asia. The underestimated precipitation has a similar effect on hydrothermal condition under a low emission scenario. The projection of GCMs suggests that reducing the uncertainty of the model is still a primary concern for researchers (Guo et al.,2021). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In this study, we projected hydrothermal condition and analyzed the spatial-temporal variations of $k$ index at annual and seasonal scales in Central Asia under different SSP-RCP scenarios during 2015-2100. In terms of temporal variation，compared with the historical period， projected hydrothermal condition is improved from 2046 to 2075 and decreased from 2015 to 2044 and from 2076 to 21Oo0.In terms of spatial distribution,the hydrothermal condition is matched in the region of Pamir and Tianshan mountains as well as the northern plains of Kazakhstan,and it is mismatched in the central and southern deserts. Moreover, the projected hydrothermal condition is superior in spring and winter than in autumn and summer. The sensitivity analysis suggests that hydrothermal condition in the northern regions is generally affected by precipitation,while hydrothermal condition in the southern regions is influenced by Tmax.Further research is needed to explore the specific driving mechanisms and the impact of changes in hydrothermal condition. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This research was supported by the Strategic Priority Research Program of Chinese Academy of Sciences, Pan-Third Pole Environment Study fora Green Silk Road (Pan-TPE)of China (XDA2004030202)and Shanghai Cooperation and the Organization Science and Technology Partnership of China (2O21E01019). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abd-Elmabod SK,Munoz-Rojas M,JordanA,et al.2O20.Climate change impacts onagricultural suitabilityand yield reduction in a Mediterranean region. Geoderma,374:114453,doi: 10.1016/j.geoderma.2020.114453. Ahmed KF,Wang GLSilander J,et al.2Ol3.Statistical downscalingand biascorrectionofclimate modeloutputs for climate change impact assessment in the U.S.northeast. Global and Planetary Change,1OO:320-332. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Climatology,23(7): 1100-1109.   \nBanayan M,Sanjani S,Alizadeh A,et al.2O10.Association between climate indices,aridity index,and rainfed crop yield in northeast of Iran.Field Crops Research,118(2): 1O5-114.   \nBeven K.1979.A sensitivity analysis of the Penman-Monteith actual evapotranspiration estimates.Journal of Hydrology,44(3-4): 169-190.   \nCardoso A S,Alonso J,Rodrigues A S,et al.2O19.Agro-ecological teroir units in the North West Iberian Peninsula wine regions.Applied Geography,107: 51-62.   \nCarli C,YuldashevF,KhalikovD,etal.2014.Effectofdiferentirrigationregimesonyield,wateruse efficiencyand quality of potato (Solanum tuberosum L.)in the lowlands of Tashkent, Uzbekistan: Afield and modeling perspective. Field Crops Research,163: 90-99.   \nChernozhukovV,Galichon A,Halin M,etal.2O17. Monge-kantorovich depth,quantiles,ranks and signs.The Aals of Statistics,45(1): 223-256.   \nChristensen JH,Boberg F, ChristensenOB,et al.2O08.On the need forbias corrctionof regional climatechange projections of temperature and precipitation. Geophysical Research Letters,35(20): 6.   \nDeng HY,Yin YH,Han X.2O20.Vulnerabilityof vegetationactivitiestodrought in Central Asia.Environmental Research Letters,15(8): 12.   \nDubovyk O,Ghazaryan G, Gonzalez J,et al.2019.Drought hazard in Kazakhstan in 2000-2016: a remote sensing perspective. Environmental Monitoring and Assessment,191(8): 1-17.   \nEyring V,Bony S,Meehl G A,et al.2016.Overview of the Coupled Model Intercomparison Project Phase 6(CMIP6) experimental design and organization. Geoscientific Model Development, 9(5): 1937-1958.   \nFang W,Huang S,Huang Q,et al.2019.Probabilistic assessment of remote sensing-based terrestrial vegetation vulnerability to drought stressof the LoessPlateau in China.Remote Sensing of Environment,232:11290,doi: 10.1016/j.rse.2019.11290.   \nGeF, Zhu SP,Luo HL,etal.2O21.Future changes in precipitation extremes over Southeast Asia: insights from CMIP6 multi-model ensemble. Environmental Research Letters,16(2): 024013,doi: 10.1088/1748-9326/abd7ad.   \nGeng H,Pan B,Huang B,et al.2O17.Thespatial distribution of precipitation and topographyin the Qilian Shan Mountains, northeastern Tibetan Plateau. Geomorphology, 297: 43-54.   \nGidden MJ,Riahi K,Smith SJ,et al.2019.Global emissions pathways under diferent socioeconomic scenarios foruse in CMIP6:a dataset of harmonized emissions trajectories through the end of the century.Geoscientific Model Development,12(4): 1443-1475.   \nGuo H,Bao A M, Chen T, et al. 2021.Assessment of CMIP6 in simulating precipitation over arid Central Asia. Atmospheric Research,252: 105451,doi: 10.1016/j.atmosres.2021.105451.   \nHarris I,Jones PD,Osborn TJ,et al.2014. Updated high-resolution grids of monthly climatic observations -the CRU TS3.10 Dataset. International Journal of Climatology,34(3): 623-642.   \nHorionS,Prishchepov A V,Verbesselt J,et al.2O16.Revealing turning points in ecosystem functioningover the Northern Eurasian agricultural frontier. Global Change Biology,22(8): 2801-2817.   \nJi X,LiY,Luo X,et al.2020.Evaluation of biascorrction methods for APHRODITEdata to improve hydrologic simulation in alarge Himalayanbasin. Atmospheric Research,242:104964,doi: 10.1016/j.atmosres.2020.104964.   \nJiang LL,Jiapaer G,BaoAM,etal.2019.Monitoring the long-term desertification process and assessing therelative roles of its drivers in Central Asia.Ecological Indicators,1O4:195-208.   \nJiangLL,BaoAM,Japaer G,etal.222.Monitoring landdegradationandassessing itsdrivers tosupportsustainable development goal15.3 in Central Asia.Scienceof the Total Environment,807:150868,doi:10.1016/j.scitotenv. 2021.150868.   \nKienzler K M,Lamers JPA,McDonald A,et al.2012.Conservation agriculture in Central Asia-What do we know and where do we go from here?Field Crops Research,132: 95-105.   \nKonapala G, MishraAK, Wada Y,etal.2O2O.Climate change willafect global wateravailability through compounding changes in seasonal precipitation and evaporation. Nature Communications,11(1): 3044,doi: 10.1038/s41467-020-16 757-w.   \nLacombe G Hoanh C T,Smakhtin V.2012.Multi-year variability orunidirectional trends? Mapping long-term precipitation and temperature changes in continental Southeast Asia using PRECIS regional climate model. Climatic Change,113:285-299.   \nLi J,FeiL,LiS,et al.2O20.Developmentof \"water-suitable\"agriculture basedona statistical analysisof factors 140986.   \nLi M X,Ma Z G. 2018.Decadal changes in summer precipitation over arid northwest China and associated atmospheric circulations. International Journal of Climatology,38(12): 4496-4508.   \nLi W,LiC,Liu X,etal.2018.Analysisof spatial-temporalvariation inNPPbasedonhydrothermalconditions in the Lancang-Mekong River Basin from 2000 to 2014.Environmental Monitoring and Assssment,190(6):321,doi: 10.1007/s10661-018-6690-7.   \nLi Z,Fang G, Chen Y,et al. 2020.Agricultural water demands in Central Asia under 1.5 degrees Cand 2.0 degrees C global warming.Agricultural Water Management, 231: 106020,doi: 10.1016/j.agwat.2020.106020.   \nLioubimtseva E,Henebry G M.2009.Climate and environmental change in arid Central Asia: Impacts,vulnerability, and adaptations. Journal of Arid Environments,73(11): 963-977.   \nLuo M,LiuT,MengFH,et al.019.Spatiotemporal characteristics of future changes in precipitationand temperature in Central Asia.International Journal of Climatology, 39(3):1571-1588.   \nMannig B,Muller M,Starke E,et al.2O13.Dynamical downscaling of climate change in Central Asia. Global and Planetary Change,11O: 26-39.   \nMartonne E D.1926.A new ciimatological function: the aridity index.La Méteorologie,2: 449-458. (in French)   \nMcCain C M, Colwell R K.2011. Assssing the threat to montane biodiversity from discordant shifts in temperature and precipitation in a changing climate. Ecology Letters,14(12): 1236-1245.   \nMeng M,NiJ, Zhang Z G.2O04. Aridity index andits applications in geo-ecological study.Acta Phytoecologica Sinica, 28:853-861.(in Chinese)   \nMondal S K,Huang J, Wang Y,et al.2O21. Doubling of the population exposed to drought over South Asia: CMIP6 multi-model-based analysis.Scienceof the Total Environment,771:145186,doi:10.1016/j.scitotenv.2021.145186.   \nNi J，Zhang X S.1997.Estimation of water and thermal product index and its application to the study of vegetation-climate interaction in China.Acta Botanica Sinica,12: 1147-1159. (in Chinese)   \nReshmievi T V,Eldho TI,Jana R.2O09.A GIS-integrated fuzzy rule-based inference system for landsuitability evaluation in agricultural watersheds. Agricultural Systems,101(1-2): 101-109.   \nRivera JA,Arnould G.2O20.Evaluation of the ability of CMIP6 models to simulate precipitation over Southwestern South America: Climatic featuresand long-term trends (1901-2014).Atmospheric Research,241:104953,doi: 10.1016/j.atmosres.2020.104953.   \nSchierhorn F,Hofmann M,Adrian I,etal.2O20.Spatially varying impacts of climate change on wheat and barley yields in Kazakhstan.Journal of Arid Environments,178:104164,doi: 10.1016/j.jaridenv.2020.104164.   \nSeljaninov G T.1966.Agroclimatic Map of the World.Leningrad: Hydrometeoizdat Publishing House.   \nSeo K H,Ok J. 2013.Assessing future changes in the East Asian summer monsoon using CMIP3 models: results from the best model ensemble. Journal of Climate,26(5): 1807-1817.   \nSu B,Huang J, Mondal S K,et al.2O21.Insight from CMIP6 SSP-RCP scenarios for future drought characteristics in China. Atmospheric Research,250: 105375,doi: 10.1016/j.atmosres.2020.105375.   \nSunFY,Mejia A,Zeng P,etal.2019.Projecting meteorological,hydrologicaland agricultural droughts for the Yangtze River basin. Science of the Total Environment, 696: 134076,doi: 10.1016/j.scitotenv.2019.134076.   \nTaylor K E.20o1. Summarizing multiple aspects of model performance in a single diagram.Journal of Geophysical Research-Atmospheres,106(D7): 7183-7192.   \nTeutschbein C,Seibert J.2O1. Bias correction of regional climate model simulations for hydrologicalclimate-change impact studies: Review and evaluation of different methods. Journal of Hydrology, 456:12-29.   \nVicente-Serrano SM,Begueria S,Lopez-Moreno JI. 20l0.Amultiscalar drought index sensitiveto global warming: the standardized precipitation evapotranspiration index. Journal of Climate, 23(7): 1696-1718.   \nWang H,Zang F, ZhaoC,et al.2022.A GWR downscaling method toreconstruct high-resolution precipitationdataset based on GSMaP-Gauge data: A case study in the Qilian Mountains，Northwest China. Science of the Total Environment, 810:1522066,doi: 10.1016/j.scitotenv.2021.152066.   \nWang JS,ChenFH,JinLY,etal.2Ol0.Characteristicsofthedry/wet trendoveraridcentral Asia overthepast100 years. Climate Research, 41: 51-59.   \nWang T,Tu X,Singh VP,et al.2O21. Global data assssment and analysis of drought characteristics based on CMIP6. Journal of Hydrology, 596:126091,doi:10.1016/j.jhydrol.2021.126091.   \nWeilandFCS,vanBeek LPH,Weerts A H,et al.2012.Extracting information from an ensembleof GCMs toreliably assess future global runoff change. Journal of Hydrology, 412: 66-75.   \nWeltzi JF,Loik ME,Schwinning S,et al.2O03.Assessing theresponseof terrestrial ecosystems topotentialchanges in precipitation.Bioscience,53(10): 941-952.   \nWood A W,MaurerEP,KumarA,etal.2Oo2.Long-rangeexperimental hydrologic forecasting fortheeastern United States.Journal of Geophysical Research-Atmospheres,107(D20):15,doi: 10.1029/2001jd000659.   \nWood AW,LeungLR,Sridhar V,etal.2O04.Hydrologic implications of dynamical and statistical approaches to downscaling climate model outputs.Climatic Change,62(1-3):189-216.   \nWu H,Huang A,He Q,etal.2Ol3.Projectionof the spatial and temporal variation characteristics of precipitationover Central Asia of 10 CMIP5 models in the next 50 years.Arid Land Geography,36(4): 669-679. (in Chinese)   \nWu ZT,DijkstraP,KochGW,etal.2Ol1.Responsesof terrestrial ecosystems totemperatureand precipitationchange: a meta-analysis of experimental manipulation. Global Change Biology,17(2): 927-942.   \nXu Hj,Wang XP, Zhang X X.2016.Decreased vegetation growth in response to summer drought in Central Asia from 2000 to 2012. International Journal of Applied Earth Observation and Geoinformation,52:390-402.   \nYu Y, Chen X,Disse M,et al.2O20.Climate change in Central Asia: Sino-German cooperative research findings. Science Bulletin,65(9):689-692.   \nYuanY,BaoA,JiangP,etal.O22.Probabilisticssessmentofvegeationulerabilitytoroughtstress inCtralAia. Journal of Environmental Management, 310:114504,doi: 10.1016/j.jenvman.2022.114504.   \nZeng P,Sun F,LiuY,et al.2O21.Mapping future droughtsunder global warming across China:A combined multi-timescale meteorological drought index and SOM-Kmeans approach.Weather and Climate Extremes，31: 100304,doi: 10.1016/j.wace.2021.100304.   \nZhan YJ,Ren G Y,Yang S.2018.Change in precipitation over the Asian continent from 1901-2016 based on a new multi-source dataset. Climate Research,76(1): 41-57.   \nZhang J,SuY,WuJ,etal.2O15.GISbased landsuitabilityassessment for tobacco production using AHPand fuzzyset in Shandong province of China.Computers and Electronics in Agriculture,114: 202-211. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    }
+]

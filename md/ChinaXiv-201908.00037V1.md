@@ -1,0 +1,191 @@
+# 基于认知机制的有条件自动驾驶接管中的人因问题
+
+马舒 章薇 史金磊 杨振（浙江理工大学心理学系，杭州310018)
+
+摘要自动驾驶能在很大程度上缓解现代交通问题并提升驾驶舒适度。有条件自动驾驶下，驾驶员可执行非驾驶相关任务但需要在系统无法处理的状况下接管车辆。在这一关键过程中，驾驶员需要进行注意转换并获得情境意识以成功接管。已有研究表明，接管请求、非驾驶相关任务、驾驶情景及驾驶员因素是影响接管过程重要因素。未来可从认知机制角度研究各因素对接管过程产生的影响，以及探究接管过程中各因素之间可能存在的交互作用。
+
+关键词自动驾驶；接管过程；注意；情境意识
+
+# 1引言
+
+作为近些年来交通领域的研究热点，自动驾驶能在很大程度上提升驾驶安全，缓解交通事故、燃料排放及道路拥堵等现代化交通问题(Kyriakidis,Happee,&DeWinter,2015;Meng& Spence,2015;Wan&Wu,2018)，同时还能提升驾驶舒适度并减少环境带来的影响(Petermeijer,Doubek,&DeWinter,2017)。美国汽车工程师协会(Society of Automotive Engineers,SAE)将自动驾驶阶段分为以下六个等级：L0 等级-手动驾驶，L1等级-辅助驾驶，L2等级-部分自动驾驶，L3等级-有条件自动驾驶，L4 等级-高度自动驾驶和 L5 等级-完全自动驾驶(SAE International,2016)。
+
+在实现完全自动驾驶之前，有条件自动驾驶有望最先在接下来的十年内引入公路，引领未来的交通方式发生巨大的变革(Bazilinskyy,Petermeijer,PetrovychDodou,& De Winter,2018;Begg,2015)。有条件自动驾驶(Conditional AutomatedDriving,CAD)即L3自动驾驶，是指在一定的驾驶条件下，自动系统负责车辆的横向和纵向操作，驾驶员无需监控前方道路。但由于技术的限制，当出现自动驾驶系统失灵或遇到无法处理的交通状况时，驾驶员需要人为控制车辆以保证驾驶安全，这项需要唤醒驾驶员认知和行为控制的过程称为接管(Take-over)(SAE,2014)。一方面，自动驾驶系统替代人类进行绝大部分的驾驶操作，允许驾驶员脱离紧张的驾驶状态，做一些如玩手机、打电话、阅读等非驾驶相关的任务(Nondriving RelatedTasks)；另一方面，在面临危险情景时，分心状态下的驾驶员由于缺乏情境意识(Situation Awareness)，可能无法在相对较短的时间内将注意力转移到驾驶任务中，从而导致接管失败。
+
+因此，作为有条件自动驾驶车辆安全运行的关键环节，接管过程是自动驾驶人因工效学研究的重点。当出现危险情景时，接管请求系统能提前探测并通过相应设备向驾驶员提供情景相关的信息，而正在执行非驾驶相关任务的分心驾驶员需要迅速做出接管反应，其中，预警系统、非驾驶相关任务、驾驶情景以及驾驶员等因素共同影响接管过程。本文从驾驶员注意和情境意识的认知机制角度分析影响驾驶员接管过程的以上因素，旨在更好地理解接管过程中人、机器和环境之间的交互作用。
+
+# 2接管过程中的注意与情境意识问题
+
+作为接管过程的主要参与者，驾驶员负责及时响应自动系统的接管请求，是有条件自动驾驶系统安全运行的重要保障。理解接管过程中驾驶员的认知机制，有利于探究各因素对驾驶员接管过程的影响。
+
+在手动驾驶过程中，驾驶员的驾驶活动主要经历信息感知，判断决策和动作执行三个阶段(Wang,2001)。在自动驾驶过程中，驾驶员的接管活动也分为类似的几个阶段，如图1所示。以接管请求为分界点，在接管请求发生前，自动系统控制车辆，驾驶员将大部分注意集中在非驾驶相关任务上；在接管请求发生后，驾驶员首先将注意转换到驾驶任务中，随后获得情境意识，进行决策及驾驶操作，直至完全控制车辆(Ito,Takata,& Oosawa,2016)。
+
+![](images/b05400cd2d3fd2aed99e2a6a71d5cbc4aa6fc70c1f8742f875921ff3c27b2bf2.jpg)  
+图1接管过程（资料来源：Ito etal.,2016)
+
+自动驾驶过程中，驾驶员的注意和情境意识状态和在手动驾驶中不同。手动驾驶中的驾驶员会将大部分注意保持在前方道路上；而一旦从驾驶任务中解放，自动驾驶过程中，驾驶员则大多会将注意集中在非驾驶相关任务上，接管请求发出时，他们需要迅速在非驾驶相关任务和驾驶任务之间进行注意转换。其次，手动驾驶中，驾驶员的视线大多保持在道路前方，能实时获得情境意识，即使执行分心任务，驾驶员也能感知当前的危险程度并采取相应的自我调整行为以避免事故的发生(周荣刚，2014)；但在自动驾驶过程中，驾驶员的视线往往会脱离驾驶情景，以更多的时间和投入程度做非驾驶相关任务，从而造成情境意识不同程度的损害，不利于接管的进行。因此，注意和情境意识是接管过程中的重要认知机制，厘清在这关键的过程中,驾驶员注意的转换和分配以及情境意识的获得情况，有利于理解系统和外界环境因素是如何通过影响驾驶员的认知机制从而对接管绩效产生影响的。
+
+# 2.1接管过程与注意
+
+Wickens的多资源理论模型被广泛应用于双任务和分心研究中。多资源模型分"阶段(stages)”、“编码(codes)"和"通道(modalities)"三个维度，其中，通道维度描述注意力通道，包括听觉和视觉(威肯斯，霍兰兹，班伯里，帕拉休拉曼，2014;Wickens，2008)。对不同通道感官信息的加工使用不同的认知资源。由于人的认知资源有限，当不同任务占用相同的资源通道时可能会损害任务绩效。例如同时占用听觉或视觉通道的任务会引起注意资源的竞争，而注意资源的分配效果在任务分别占用视听通道的情况下会更佳。
+
+在自动系统控制车辆时，驾驶员的注意大部分集中在非驾驶任务上，当系统发出接管请求时，正在执行非驾驶相关任务的驾驶员需要迅速将注意切换到驾驶情景中(Ito et al.,2016; Zeeb,Buchner,& Schrauf,2015)。在这个关键的时间点，驾驶任务主要占用视觉通道，非驾驶相关任务和接管请求则分别占用视听触等通道，因而驾驶员的注意资源被不同程度地分配到不同的感官信息中，当两者或两者以上同时占用相同通道时，就可能会出现注意资源的竞争(Scott＆Gray,2008)，并影响接管过程。如当接管请求和驾驶任务都占用视觉通道时，资源竞争就可能会使驾驶员的接管绩效受到损害。
+
+# 2.2接管过程与情境意识
+
+情境意识被定义为"意识到周围发生的事情并能理解信息对你现在和将来来说意味着什么”(Endsley,1995)。Endsley (1995)将情境意识分为以下连续的三个水平：Level1-感知环境中的信息，Level2-将感知到的信息整合成连贯的含义，Level3-推测该含义对未来的意义。
+
+在自动驾驶接管过程中，驾驶员情境意识的获得也经历以上三个连续的水平。情境意识的建立对自动驾驶接管过程尤为重要(Lu,Coster,&DeWinter,2017)。但由于自动系统替代了绝大部分的驾驶任务，驾驶员的情境意识往往会受到不同程度的损害。较低的情境意识可能会导致：(1)驾驶员无法完成接管而发生碰撞等交通事故；或(2)即使成功接管，接管绩效也会下降，具体表现为驾驶员接管反应时间过长，最小 ttc、道路偏移量等接管质量下降(Wan etal.,2018；Zeeb,Buchner,&Schrauf,2016)。情境意识的损害一方面来自自动驾驶本身：自动驾驶等级越高，驾驶员对驾驶任务的参与度越低，因而获得的情境意识也就越低(Endsley,1995;Gugerty,1997)。另一方面，非驾驶相关任务占用驾驶员的认知资源，不利于驾驶员情境意识的获得(De Winter, Happee,Martens,& Stanton,2014)。
+
+# 3接管过程中的接管请求
+
+作为有效的高级驾驶辅助系统(Advanced Driving Assistant System,ADAS),预警系统负责及时提供危险情景相关的信息，是帮助驾驶员进行注意转换和获得情境意识的重要途径。接管请求的有效性是接管过程研究中的关键，受到接管请求的通道及内容和前置时间的共同影响。
+
+# 3.1接管请求的通道及内容
+
+接管请求主要占用人类的视觉，听觉，触觉三大通道。研究表明，视觉、听觉、触觉以及多模态的接管请求均能有效地提供情景相关的信息，引起驾驶员的注意，提升驾驶员的情境意识，从而辅助他们成功接管(Menget al.,2015;Petermeijer, Bazilinskyy,Bengler,& De Winter, 2O17; Politis,Brewster,& Pollick,2015; Wan & Wu, 2017)。
+
+# 3.1.1视觉接管请求
+
+在驾驶过程中，司机 $90 \%$ 的信息来自人类的视觉系统(Summala,Lamble,&Laakso,1998)，因而视觉预警的最大优势在于能在短时间内提供大量的视觉信息，帮助驾驶员迅速检测到周围环境中的危险(Wege,Will,&Victor,2013)。在自动驾驶过程中，常见的视觉预警方式是在中控仪表盘上呈现接管请求的相关信息，如当前车辆状态和危险的方位、距离等(Bazilinskyy etal.,2018;Eriksson,Banks,&Stanton,2017;Zeeb etal.,2016)。请求发出时，驾驶员不得不在驾驶情景和仪表盘之间切换视线，这导致了接管反应时间的增加。而平视显示技术(Headup display,HUD)避免了这一弊端，该显示方式将预警信息直接叠加在真实场景中，既能减少视线转换的时间，又能帮助驾驶员迅速建立情境意识(Langlois& Soualmi,2016)。Lorenz,Kerschbaum,& Schumann (2014)发现在HUD上呈现不同颜色的 AR接管请求信息会影响驾驶员的接管质量。另外，人们对不同的HUD信息呈现形式有不同的偏好程度，在挡风玻璃上呈现"请接管"文字比呈现预警灯光更受欢迎（Bazilinskyy&DeWinter,2015)。以上大多占用驾驶员中央视野的接管请求会对驾驶员会造成一定程度的视觉负荷，外围显示器(AmbientDisplays)则可以利用驾驶员的周边视野来传达接管情景相关的信息，从而减少中央视野的注意时间和负荷(Bazilinskyyetal,2018)，如利用安装在方向盘上的LED闪动光带来设置接管请求不仅可以加快接管反应时，还能提升驾驶员的情境意识并辅助驾驶员进行恰当的决策(Borojeni,Chuang,Heuten,&Boll,2016)。此外，在各类显示器上设计恰当的视觉人机交互界面则有助于提升信息传达的可理解性和有效性(Naujoks,Forster,Wiedemann,&Neukum,2017)，如手握方向盘的图标设计形象地传达了车辆正处于待接管状态，而不同的图标颜色和动态的时间进度条可用于表示接管的紧急度(Eriksson et al.,2017; Naujoks et al.,2017)。然而，单一的视觉预警存在较多缺陷。驾驶员对界面的关注可能会与对驾驶任务的执行竞争视觉资源(Scott etal.,2008)，从而损害驾驶绩效；另外，当非驾驶相关任务与视觉预警占用同一通道时，也可能会由于视觉资源的竞争而引起驾驶员对预警信息的忽视(Bazilinskyy et al., 2018)。
+
+# 3.1.2听觉接管请求
+
+不同于视觉预警，听觉预警的优势在于其全方位性，且不需要占用人们的视觉资源，驾驶员可以快速地将注意力集中在危险物体或道路上，因而广泛地运用于驾驶预警中(Bazilinskyy et al.，2O15；Forster, Naujoks,Neukum,& Huestegge,2017)。语音、自然音和听标等都能较好地利用听觉通道传达驾驶预警信息。常见的自然音如"哗哗"“滴答"声等，不仅可以有效地起到提醒驾驶员和提升接管绩效的作用，还能通过改变其呈现频率来传达不同的情景紧急性(Bazilinskyy et al.,2018)。Bazilinskyy 等人(2015)比较了人们对四种不同的自然提示接管音的偏爱程度，发现连续的两次"哔哗"声最受用户的偏爱。Korber,Gold,Lechner 和Bengler(2016)也在接管研究中证实了“哗哗"声这种自然音的有效性。而相比之下，语音能传达更多的信息，对接管质量的提升有重要的意义(Politis etal.,2015)。总的来说，女性语音比男性语音更受人们的青睐(Bazilinskyy etal.,2015)，陈述句比疑问句的接管语音被认为更适合用于传达情景的紧急性(Bazilinskyy&De Winter,2017)，但这种偏好还受到语音的语气和内容影响，人们认为由男性语音传达带有如"马上"等直接命令口吻的语句更能表达紧急性，而女性则更适合传达带有如“请"等建议性口吻的语音内容(Bazilinskyyetal.,2017)。不过，由于语言文化和时间成本的限制，语音请求本身会造成驾驶分心。而作为一种能在短暂时间内传达具体事件或对象特征的声音信息，听标(AuditoryIcons)的易识别性常优于其他的声音信号且造成的驾驶分心程度较低(Belz,Robinson,&Casali,1999)。驾驶中的听标一般设置为与碰撞、轮胎打滑等危险事件相关联的声音，此类声音更易于理解，且相比其他声音信息，更能有效地缩短驾驶员反应时，减少碰撞的发生(Beattie,Baillie,&Halvey,2015;Belz et al.,1999)。另外，将以上具有不同优势的声音信息混合的预警效果可能更佳，如 Forster 等人(2017)发现相比只呈现"自然音”，“自然音 $+$ 语音"混合的听觉接管请求下，驾驶员的接管绩效更佳，主观有用性评分也更高。不过，听觉预警并不在所有的情况下都有效。听觉通道的容量有限，听觉预警信息会被环境中的其他声音所干扰；其次，听觉预警信息和同通道的非驾驶相关任务也可能会引起资源竞争，造成驾驶员漏听或无法完整地接收到全部信息，从而影响接管过程。
+
+# 3.1.3触觉接管请求
+
+触觉预警将信号直接作用于人的皮肤上，被外界干扰的可能性较低，同时也不会增加驾驶员的听觉和视觉负荷(Prewett,ElliotWalvoord,& Coovert,2012)。虽然在接管过程中的应用较少，但触觉接管请求(Tactile Take-overRequest)已被证明能有效地帮助分心的驾驶员将视觉注意重新定位于前方(Petermeijer,De Winter,&Bengler,2016)，提升驾驶员的情境意识(Telpaz,Rhindress,Zelman,& Tsimhoni,
+
+2015)，并能在紧急情景下有效地提升驾驶员的接管绩效(Wan etal.,2017)。驾驶过程中，传达触觉刺激的振动器通常被安装在驾驶座椅、方向盘、安全带及驾驶员的腰带上(Petermeijer et al.，2016; Petermeijer, Doubek et al., 2017； Scott et al.,2008;Wan etal.,2018)，需要充分利用振动刺激的振幅、频率、时间和位置以最大限度地提升触觉预警的有效性(Petermeijer et al.,2016)。Petermeijer, Hornberger,Ganotis,DeWinter,&Bengler(2017)发现加大振动器之间的距离有利于促进驾驶员分辨振动刺激的方位；振动器同时激活的数量则影响驾驶员的主观体验，同时激活的振动器数量越多，驾驶员对振动模式的满意度越高。另外，振动刺激的呈现顺序也会影响驾驶员的接管绩效。Wan等人(2017)发现当振动刺激呈现的顺序为"后背-后背-座椅-座椅"时，驾驶员的接管反应相比在其他顺序下更快。具有方向性的振动刺激也被证实可辅助驾驶员迅速反应，且具有空间定位的功能(Menget al.,2015)，Petermeijer,Cieler,&DeWinter (2017)将具有方向性的振动信息进一步分类，发现相比动态(座椅左右交替振动)振动模式下，驾驶员的反应速度在静态(振动只出现在座椅左边或右边)的振动模式下更快。尽管触觉请求对支持接管过程的认知加工和反应选择较有潜力，但单一的触觉预警方式仍然有不可避免的缺陷。对振动刺激的感知强度会受到驾驶员穿衣厚度的限制(Mengetal.，2015)，颠簸道路也会增加信息被忽视的可能性。此外，虽然改变触觉振动的频率可用于传达情境的不同紧急性，但过于频繁的振动则会让驾驶员产生厌烦情绪，且相近时间内发出振动会使得信息的可理解性降低(Petermeijer etal.,2016)。
+
+# 3.1.4多模态接管请求
+
+正因单通道的接管请求各自存在局限，越来越多的研究者提出了多模态的接管请求方式。多模态接管请求(Multimodal Take-overRequest)，即将两种及两种以上的通道组合预警，已被证实能在单位时间内传达更多的信息、预警有效性优于单一通道(Bazilinskyy et al.，2018；Politiset al.，2015)，且更受人们的青睐(Petermeijer,Bazilinskyy etal.,2017)。从认知资源角度出发，与驾驶任务占用同一通道的信息会引起资源竞争，而不同通道之间的优势互补能进一步提升接管请求的有效性。听觉预警不需要占用人们的视觉资源，从而减少了与驾驶任务的视觉资源竞争，而视觉预警反过来能将易被环境干扰的声音信息通过可视化的界面呈现。另外，常见的非驾驶相关任务占用人们的视觉和听觉通道，利用使用较少的触觉通道则能通过振动的形式对分心中的驾驶员起到很好的预警作用，而视听通道辅助作用反过来也能降低触觉信息被忽略的风险。但是，究竟哪种组合的多模态接管请求最有效，以及多模态接管请求的适用情景尚未明确。如 Petermeijer,Bazilinskyy等人(2017)研究发现在接管任务为换道任务时，听-触觉混合的接管请求下，驾驶员的接管反应比单触觉接管请求下更迅速；Politis等人(2015)发现三种通道结合请求的有效性优于单一视觉或听觉请求，并且尤其适用于紧急情景。
+
+利用视听触通道的接管请求类型多样，单一通道和多模态接管请求都能在一定程度上帮助驾驶员进行注意转换，获得情境意识。单通道的接管请求具有一定的局限性，多模态的接管请求虽能利用各通道的优势互补，但其增加驾驶员认知负荷的风险更高；其次，自动驾驶接管是人机环境交互作用的动态复杂过程，不同通道接管请求的有效性可能会随驾驶环境的变化而变化，难易程度不同的接管任务下所需要的最佳接管请求通道也可能不尽相同；另外，各通道接管请求的有效性也可能会随驾驶员自身因素和正在执行的非驾驶任务而发生改变。
+
+# 3.2接管请求的前置时间
+
+除接管请求占用的通道外，请求发布的时间点即前置时间也是影响接管请求有效性的重要因素。前置时间通常根据碰撞时间(Time-to-collision,TTC)来设定，碰撞时间指在一定的轨迹下，驾驶车辆的当前速度快于前车或障碍物而发生碰撞所需要的时间(Kiefer,Flannagan,&Jerome,2006)，接管请求的前置时间即为车辆发生碰撞前所提前预警的时间。
+
+大量研究证明危险场景下，接管请求的前置时间对接管过程有重要影响。从接管绩效来看，不同的前置时间影响驾驶员的接管反应时和接管质量。Mok等人(2015)发现，虽然大部分的驾驶员能在5s 的前置时间下成功接管，但8s下驾驶员的接管绩效更佳。Gold,Dambock,Lorenz 和 Bengler (2013)则发现相比7s，驾驶员在5s情况下的接管反应时更短，但接管质量更差。Wan等人(2018)则表示10s以上的前置时间才能保证驾驶员有最佳的接管绩效。从认知机制来看，接管前置时间越长，驾驶员获得的情境意识水平越高。Vlakveld,van Nes,de Bruin,Vissers 和 vanderKroft (2018)发现在前置时间为6s下，驾驶员获得的情境意识水平高于 4s 下；Samuel,Borowsky, Zilberstein 和 Fisher (2016)对比了 4s，6s，8s和12s前置时间下驾驶员情境意识的获得情况，发现前置时间至少为8s时，驾
+
+驶员才能获得完整的情境意识。
+
+综上可见，有关接管过程中的前置时间研究结果并不一致，主要有以下几个原因：首先，研究中的接管情景各不相同，如Gold等人(2013)研究中的接管情景为高速公路上出现前方两车发生碰撞的交通事故，Wan 等人(2018)研究中则设置了高速公路上六种不同的危险场景(包括交通碰撞事故、前车忽然停止或出现障碍物等)，而Vlakveld 等人(2018)采用的情景则为城市、乡村和高速路上出现的八种不同的危险事件，不同复杂度和紧急性的情景会影响驾驶员情境意识的获得以及对情景的加工，因而驾驶员所需要的接管时间也存在差异；其次，研究所使用的非驾驶相关任务也不统一，如Vlakveld 等人(2018)研究中采用日常的玩游戏任务，而Gold 等人(2013)研究中则采用标准化的视觉搜索任务(SuRT)，由于非驾驶任务会不同程度地占用驾驶员的认知负荷，认知负荷越大，保持相同水平的接管绩效和获得同等水平的情境意识所需要的前置时间越长。因此，在有关自动驾驶人因研究中，接管请求的前置时间设置必须充分考虑当前的接管情景和非驾驶相关任务的影响。
+
+# 4接管过程中的接管情景
+
+与手动驾驶不同的是，在自动驾驶操纵车辆的过程中，驾驶员将注意集中在了非驾驶相关任务上而非周围的驾驶情景和车辆状态，其情境意识因此不断降低。当系统发出接管请求时，驾驶员对情境意识的感知随即开始(Ito etal.,2016)，对当前情景的不同理解程度会影响驾驶员的接管绩效。
+
+接管情景的复杂性影响驾驶员情境意识的获得(Radlmayr,Gold,Lorenz,Farid,&Bengler,2014)，相较于复杂情景，简单情景更易于驾驶员迅速理解并获得完整的情境意识。在有条件自动驾驶过程中，接管情景包括接管任务相关情景和任务外的驾驶场景。常见的接管任务相关情景有前车忽然停下、前方道路维修、出现障碍物以及交通标记线的消失等(Petermeijer,Doubek et al.,2017;Wan et al.,2017),在这些情景下，驾驶员需要做出刹车或换道等接管反应。Petermeijer,Doubek 等人(2017)模拟了六种不同类型的接管任务情景，但并未发现它们对接管绩效的影响存在差异，这也许是由于研究中的前置时间较长(均大于10s)使得驾驶员有足够的时间理解每个情景并做出恰当的反应。此外，交通密度是与接管任务间接关联的场景因素，通常用单位距离内的车辆数来表示。研究表明高交通密度会延长驾驶员的接管反应时，降低驾驶员的接管质量(Gold,Korber,Lechner,&Bengler,2016;Radlmayr etal.,2014)，这可能是因为相比于周围没有车辆的场景，高交通密度的场景更复杂，驾驶员需要感知、监控更多的周围车辆，并将这些车辆考虑到驾驶决策中(Korber etal.,2016)。另外，Radlmayr 等人(2014)发现当驾驶员的接管任务为换道时，周围车辆所在的位置也是影响情景复杂性和紧急性的重要因素。
+
+大部分自动驾驶接管研究中，都是在一种或几种固定接管任务下探究其他因素对接管绩效的影响，较少得到在不同类型的接管任务上存在差异的结果，这可能是考虑到自动驾驶首先会在高速公路上实现，大部分的研究均以高速为背景，而相比其他道路，高速路上的事件类型较为单一，接管任务类型本身不会对接管过程产生太大影响。另外，当前任务外驾驶场景的研究也大多局限于交通密度，而没有对场景中的其他因素进行探究，主要是因为驾驶场景由各种复杂的因素构成，对场景的划分存在一定的困难。
+
+# 5接管过程中的非驾驶相关任务
+
+随着自动驾驶等级的上升，驾驶员可自由支配的时间也越多，因而会以不同的投入程度做听音乐、打电话、打游戏、睡觉等非驾驶相关任务(Gold etal.,2016;Jamson,Merat,Carsten,&Lai,2013)。大部分研究表明，在自动驾驶下执行非驾驶相关任务会损害驾驶员的绩效。这可能是因为非驾驶相关任务占用了驾驶员的注意资源，造成了不同程度的认知负荷(Bueno etal.,2016)并可能与驾驶活动存在资源竞争，从而影响接管时间和质量。另外，非驾驶任务会造成驾驶员情境意识的降低(DeWinter etal.,2014)，因而在系统发出接管请求时，驾驶员不得不快速获得情境意识以保证安全接管。
+
+不同类型的非驾驶相关任务对接管绩效的损害程度存在差异，并且这些差异的结果也不一致。如Gold,Berisha 和Bengler (2015)发现认知类非驾驶相关任务对驾驶员的接管绩效的损害弱于视觉和运动类任务。Radlmayr等人(2014)却得出认知任务和视觉任务对接管绩效的损害程度相似的结果。非驾驶相关任务的工作负荷可能是造成其损害程度不同的内在机制，如 Zeeb 等人(2016)发现不同视觉认知负荷的非驾驶任务会损害接管绩效，但这种损害作用只体现在接管质量上而非接管反应时上，这可能是因为接管质量更受视觉认知加工的影响，而接管反应时在此实验中则更取决于条件反射性动作的快慢。此外，非驾驶相关任务占用的注意资源也可能是重要的原因。Wan等人(2018)发现在监控自动驾驶时，驾驶员的接管反应时要少于阅读、打字、看视频和玩游戏等其它任务。这可能是因为相比其他占用视听及认知资源的任务来说，监控任务占用较少的注意资源，使得驾驶员几乎不需要进行注意的转换，因而反应更快。
+
+但非驾驶相关任务对接管过程并不只存在负面影响。在其他自动驾驶接管研究中，研究者们却发现单纯地监视自动系统比看视频和阅读任务会产生更多的困倦感(Miller et al.,2015)，虽然该困倦感并未损害接管绩效，但Neubauer,Matthews和 Saxby(2012)却发现相比无任务下，执行非驾驶相关任务能带来更好的接管绩效。这可能是因为执行非驾驶相关活动存在"参与"效应，能协助司机在自动驾驶时保持警觉，促进驾驶员更加迅速地反应(Miller etal.,2015)。另外也有研究发现年轻驾驶员在执行一定数量的非驾驶相关任务时能来回切换注意，从而使得注意处于更加灵活的状态，促进接管反应(Clark,McLaughlin,Williams,&Feng,2017)。
+
+因此，非驾驶相关任务对接管绩效的影响尚未形成定论。一方面，非驾驶相关任务的类型不同，标准化的非驾驶任务如n-back任务能较好地得到实验控制但生态效度较低，而生态效度高的非驾驶任务如打游戏、阅读等任务并未进行严格控制，任务之间存在较大差异；另一方面，非驾驶相关任务对接管绩效的影响还会受到驾驶员自身能力的限制，不同类型的驾驶员受非驾驶相关任务的影响程度不同，对接管的反应速度和操作策略也会有所差异。此外，非驾驶相关任务的本身特征如工作负荷等级也许是影响其结果不一致的另一重要因素，如存在某个工作负荷等级使得低于该等级的非驾驶相关任务会对接管过程起到激活作用，而高于该等级的非驾驶相关任务则会损害接管绩效。
+
+# 6接管过程中的驾驶员因素
+
+接管是人和环境以及人和系统之间的交互作用过程，而作为有条件自动驾驶接管过程中的响应者，驾驶员在接管过程中起着关键作用，因而探究驾驶员自身因素对接管过程的影响具有重要意义。
+
+年龄和驾驶经验是影响接管过程的重要因素。随着年龄的增加，驾驶员的信息处理速度、任务转换能力、注意分配能力、危险感知能力和反应速度都会有所下降(Korber etal.,2016)。从接管绩效方面看，年长驾驶员的平均接管反应时比年轻司机至少多1.2s (Korber etal.,2016)，且接管后的驾驶速度低于年轻驾驶员(Clark etal.,2017)。从主观评估上看，年长的驾驶员对有条件自动系统的满意程度高于年轻的驾驶员(Gold,Korber,Hohenberger,Lechner,& Bengler,2015)。这也许是因为随着年龄的增加，驾驶员认知和行为反应能力下降，在心理和行为层面上更加需要自动驾驶的辅助。另外，驾驶经验也会影响接管过程，有经验的驾驶员能更好地预测需要接管的危险情景，更快地获得情境意识(Wright,SamuelBorowsky, Zilberstein,& Fisher,2016)。
+
+此外，驾驶员对自动驾驶的态度如信任也是影响接管的重要因素。信任会影响人们对自动驾驶的使用，而对系统过度信任或缺乏信任都不利于自动驾驶的接管。过度信任会造成人们对自动系统的滥用，而信任缺乏则有碍自动驾驶的推广和使用(Choi&Ji,2015;Parasuraman&Riley,1997)。不过，接管过程反过来也会影响信任，接管体验和有效的接管请求都能提升驾驶员对有条件自动系统的信任度(Gold,Korber, et al.,2O15;Korber,Prasch,& Bengler, 2O18；Wintersberger, VonSawitzky, Frison,& Riener, 2017)。
+
+相比较其他影响接管过程的因素，驾驶员自身因素在有条件自动驾驶过程中的研究相对缺乏，可能是因为自动驾驶系统分担了很大一部分的安全驾驶责任，驾驶员自身因素往往会被忽略。此外，驾驶员因素可能会被视为个体差异而多被考虑为额外变量。但以上从驾驶员的生理特征和态度层面的研究证实了驾驶员因素对接管过程的影响，因此，在整个自动驾驶过程尤其是接管过程中，驾驶员因素是不可忽略的重要部分。
+
+# 7总结与展望
+
+本文从有条件自动驾驶接管过程中驾驶员的相关认知机制出发，讨论影响接管绩效的各因素，包括接管请求，非驾驶相关任务，接管情景以及驾驶员因素，探讨分析了各因素对接管过程的影响及因素间的交互作用。
+
+# 7.1不同因素影响接管过程的认知机制
+
+注意和情境意识是影响接管过程的两大重要认知机制。现有影响因素的研究多基于驾驶行为绩效，较少有研究从认知机制角度探究各因素对接管过程的影响，而认知机制往往能解释行为背后的原因，因此，各因素影响接管过程的内在认知机制亟待进一步探究。 (1)已有研究表明有效的接管请求能促进驾驶员进行注意转换，迅速获得情境意识，但这一结果主要从良好的接管绩效上推论而来(Langlois etal.,2016)。从认知原理出发，探究驾驶员注意转换和获得情境意识所需要的时间能为前置时间的设置提供依据，探究不同通道对驾驶员注意和情境意识的影响作用能为接管请求界面的人性化设计提供参考； (2)非驾驶相关任务会占用驾驶员的注意资源，但这种占用对接管过程起到的作用是促进(Gold et al.,2016)或是抑制(Milleretal.，2015)尚未形成定论，厘清驾驶员在接管请求前后的注意资源分配情况，有助于探寻非驾驶相关任务对接管过程影响存在差异的内在原因；(3)情景的复杂性是影响接管绩效的重要因素，Radlmayr等人(2014)和Gold等人(2016)已从交通密度维度探究不同复杂度的情景对接管绩效的影响，但交通密度及其他情景因素是否对驾驶员的注意和情境意识获得存在影响有待验证； (4)驾驶员在整个接管过程中起着关键作用，Korber等人(2016)和Wright等人(2016)证实了驾驶员的因素如年龄和驾驶经验会对接管绩效产生影响，而从人的认知能力出发，探究个体的注意分配能力、反应速度等内在因素对接管绩效的影响能更好地理解接管过程中的个体差异。
+
+# 7.2接管过程中各因素的交互作用
+
+接管请求，非驾驶相关任务，接管情景和驾驶员共同影响自动驾驶的接管过程，某个因素对接管过程的影响往往还会受到其他因素的影响，因此，接管过程中的交互作用值得深入探究。作为驾驶预警，接管请求能及时地提醒分心状态下的驾驶员。虽然已有大量研究证明通过设计接管请求能提升驾驶员的接管绩效，但由于接管过程的复杂性，前人大多基于单一的接管情景及特定的非驾驶相关任务来探究接管请求形式和前置时间的有效性，如 Petermeijer,Bazilinskyy 等人(2017)在接管任务为换道任务、非驾驶任务为视觉搜索任务的情况下得出接管请求有效性的结论，但由于限制条件较多，使得研究结果的推广有限。因此，接管请求类型在不同驾驶情景下的适用性有待进一步探究。此外，非驾驶相关任务和接管请求也可能会对接管过程产生交互影响，如当非驾驶相关任务和接管请求占用相同通道时，会引起注意资源的竞争，未来可探究占用驾驶员同一通道下的两因素对接管绩效及其他生理指标的影响，并为潜在资源竞争问题提供解决方案。另外，现有研究大多只从安全性角度考虑接管请求的有效性，除了安全性以外，驾驶员对接管请求的舒适度、满意度和接受度等主观态度也应是接管请求设计中需要考虑的重要部分，并且驾驶员对接管请求的主观态度还可能受接管情景复杂性等其他因素的交互影响。接管是一个人与机器和环境相互作用的过程，其中的人机交互和人环境交互效应仍有广泛的探索空间。
+
+# 7.3驾驶员的个体差异对接管过程的影响
+
+驾驶员是有条件自动驾驶接管过程中的主要参与者，但关于驾驶员个体差异对接管过程影响的实证研究较为缺乏。现有少量研究者已从年龄、驾驶经验等方面对驾驶员因素进行了初步探究(Korber et al.,2016;Wright et al.,2016)，其他潜在驾驶员因素对自动驾驶接管过程的影响有待进一步验证，例如，手动驾驶中的驾驶员因素可能也会影响自动驾驶接管过程，Wiedemann 等人(2018)就发现血液中的酒精浓度越高，驾驶员的接管绩效越差。此外，虽然驾驶员信任与自动驾驶本身技术密切相关，但当前如何权衡驾驶员信任不足和过度信任以推进有条件自动驾驶的运行是亟待解决的问题，前人有关信任的研究多基于问卷调查(Kyriakidis etal.,2015)，也有研究者如Wintersberger等人(2017)通过模拟驾驶研究影响自动驾驶信任缺乏的因素，而未来也可将信任作为驾驶员因素来探讨不同的信任程度对接管过程的影响。
+
+# 参考文献
+
+克里斯托弗D·威肯斯，贾斯廷G·霍兰兹，西蒙·班伯里，雷杰·帕拉休拉曼.(2014)．工程心理 学与人的作业 (张侃 主译).北京：机械工业出版社.   
+周荣刚.(2014).驾驶中移动电话的使用:基于自我调整行为的研究视角.心理科学进展,22(8), 1328-1337.   
+Bazilinskyy，P.，& De Winter, J. C. F. (2O15). Auditory interfaces in automated driving: an international survey.Peer J Computer Science, 1,e13.   
+Bazilinskyy, P.,& De Winter, J. C.F. (2O17). Analyzing crowdsourced ratings of speech-based take-over requests for automated driving. Applied Ergonomics, 64, 56-64.   
+Bazilinsky, P.,Petermeijer, S. M.,Petrovych, V., Dodou, D.,& De Winter, J. C.F. (2O18). Takeover requests in highly automated driving: a crowdsourcing survey on auditory, vibrotactile,and visual displays.Transportation Research Part F:Trafc Psychology and Behaviour, 56,82-98.   
+Beattie，D.，Baillie,L.,& Halvey，M. (2O15).A comparison of artificial driving sounds for automated vehicles. In Proceedings of the 2O15 ACM International Joint Conference on Pervasive and Ubiquitous Computing (pp. 451-462). New York, NY, USA: Association Computing Machinery.   
+Begg,D. (2014). A 205O vision for London: what are the implications of driverless transport. Retrieved from https://trid.trb.org/view/1319762.   
+Belz, S. M., Robinson, G. S.,& Casali, J. G. (1999). A new class of auditory warning signals for complex systems: auditory icons. Human Factors: The Journal of the Human Factors and Ergonomics Society, 41(4), 608-618.   
+Borojeni, S. S., Chuang,L., Heuten, W.,& Boll, S. (2016). Assisting drivers with ambient takeover requests in highly automated driving. In P. Green, S.Boll, G. Burnett, J. Gabbard, & S. Osswald (Eds.), Proceedings of the 8th International Conference on Automotive User Interfaces and Interactive Vehicular Applications (pp. 237-244). New York, NY, USA: Assoc Computing Machinery.   
+Bueno,M., Dogan, E., Selem, F. H., Monaceli, E., Boverie, S.，& Guillaume,A. (2016). How different mental workload levels affect the take-over control after automated driving. In 2016 IEEE 19th International Conference on Intelligent Transportation Systems (ITSC) (pp.2040-2045). New York,NY, USA: IEEE.   
+Choi, J. K.,& Ji, Y. G. (2015). Investigating the importance of trust on adopting an autonomous vehicle. International Journal of Human-Computer Interaction, 31(1O), 692-702.   
+Clark,H.，McLaughlin, A. C.，Williams,B.，& Feng,J. (2017). Performance in takeover and characteristics of non-driving related tasks during highly automated driving in younger and older drivers. Proceedings of the Human Factors and Ergonomics Society 6lst Annual Meeting (pp. 37-41). Santa Monica, CA: Human Factors and Ergonomics Society.   
+De Winter, J. C.F., Happee,R., Martens, M. H., & Stanton, N.A. (2014). Effects of adaptive cruise control and highly automated driving on workload and situation awareness: a review of the empirical evidence. Transportation Research Part $F$ : Traffic Psychology and Behaviour, 27, 196-217.   
+Endsley, M. (1995). Toward a theory of situation awareness in dynamic systems. Human Factors, 37(1), 32-64.   
+Eriksson, A., Banks, V. A., & Stanton, N. A (2O17). Transition to manual: comparing simulator with on-road control transitions. Accident Analysis & Prevention, 102,227-234.   
+Forster, Y., Naujoks,F., Neukum,A.，& Huestegge,L. (2017). Driver compliance to take-over requests with different auditory outputs in conditional automation. Accident Analysis & Prevention, 109,18-28.   
+Gold, C.,Berisha,I.,& Bengler, K.(2O15). Utilization of drivetime-performing non-driving related tasks while driving highly automated. Proceedings of the Human Factors and Ergonomics Society 59th Annual Meeting (pp. 1666-167O). Santa Monica, CA: Human Factors and Ergonomics Society.   
+Gold, C.,Dambock,D., Lorenz,L.,& Bengler, K. (2O13).“Take over!" how long does it take to get the driver back into the loop? Proceedings of the Human Factors and Ergonomics Society 57th Annual Meeting (pp. 1938-1942). Santa Monica, CA: Human Factors and Ergonomics Society.   
+Gold, C., Korber, M., Hohenberger, C., Lechner, D.,& Bengler, K. (2O15). Trust in automation— before and after the experience of take-over scenarios in a highly automated vehicle. In T. Ahram, W. Karwowski,& D. Schmorrow (Eds.), In Procedia Manufacturing 6th International Conference on Applied Human Factors and Ergonomics (AHFE) and the Affiliated Conferences (Vol. 3, pp. 3025-3032). Amsterdam: Elsevier.   
+Gold, C., Korber, M.,Lechner,D.,& Bengler, K. (2016). Taking over control from highly automated vehicles in complex traffic situations: the role of traffic density. Human Factors, 58(4), 642-652.   
+Gugerty,L.J. (1997). Situation awareness during driving: explicit and implicit knowledge in dynamic spatial memory. Journal of Experimental Psychology Applied, 3(1), 42-66.   
+Ito, T., Takata, A., & Oosawa, K. (2O16). Time required for take-over from automated to manual driving(No.2016-01-0158). SAE Technical PaperSeries. Retrievedfrom http://papers.sae.org/2016-01-0158.   
+Jamson,A. H.,Merat, N., Carsten, O. M.,& Lai, F. C. (2013). Behavioural changes in drivers experiencing highly-automated vehicle control invarying traic conditions. Transportation Research Part C: Emerging Technologies,30, 116-125.   
+Kiefer,R.J., Flannagan, C.A.,& Jerome, C.J. (20o6). Time-to-collision judgments under realistic driving conditions. Human Factors: The Journal of the Human Factors and Ergonomics Society, 48(2),334-345.   
+Korber, M., Gold, C.,Lechner, D.,& Bengler, K.(2O16). The influence of age on the take-over of vehicle control in highly automated driving. Transportation Research Part $F$ : Traffic Psychology & Behaviour, 39, 19-32.   
+Korber, M., Prasch, L.,& Bengler, K. (2O18). Why do I have to drive now? post hoc explanations of takeover requests. Human factors, 60(3), 305-323.   
+Kyriakidis, M., Happee, R.,& De Winter, J. C. F. (2015). Public opinion on automated driving: results of an international questionnaire among 5Ooo respondents. Transportation Research Part F: Trafic Psychology and Behaviour; 32, 127-140.   
+Langlois, S.,& Soualmi, B. (2016). Augmented reality versus classical HUD to take over from automated driving: an aid to smooth reactions and to anticipate maneuvers. In Proceedings of the 2O16 IEEE 19th International Conference on Intelligent Transportation Systems (ITSC) (pp.1571-1578). New York, NY: IEEE.   
+Lorenz,L., Kerschbaum,P.,& Schumann, J. (2O14). Designing take-over scenarios for automated driving: how does augmented reality support the driver to get back into the loop? In Proceedings of the Human Factors and Ergonomics Society 58th Annual Meeting (pp. 1681-1685). Santa Monica, CA: Human Factors and Ergonomics Society.   
+Lu, Z.,Coster, X.,& De Winter, J. C.F. (2017). How much time do drivers need to obtain situation awareness? a laboratory-based study of automated driving. Applied Ergonomics, 60, 293-304.   
+Meng,F.,& Spence, C. (2015). Tactile warning signals for in-vehicle systems. Accident Analysis & Prevention,75, 333-346.   
+Miller,D., Sun,A., Johns,M.,Ive,H., Sirkin, D., Aich, S.,& Ju,W. (2O15). Distraction becomes engagement in automated driving. In Proceedings of the Human Factors and Ergonomics Society Annual Meeting (pp. 1676-168O). Santa Monica, CA: Human Factors and Ergonomics Society.   
+Mok,B. K.J., Johns,M.,Lee,K.J., Miller,D., Sirkin,D.,Ive,P.,&Ju,W.(2015).Emergency, automation off: unstructured transition timing for distracted drivers of automated vehicles. In 2015 IEEE Conference on Intelligent Transportation Systems (ITSC) (pp. 2458-2464). New York,NY: IEEE.   
+Naujoks, F., Forster, Y, Wiedemann, K. and Neukum,A. (2O17).A human-machine interface for cooperative highly automated driving. N.A. Stanton, S. Landry, G. DiBucchianico,& A. Valicelli (Eds.), Advances in Human Aspects of Transportation: Vol. 484: Advanced in Intelligent System and Computing (pp.585-595). Cham, Switzerland: Springer.   
+Neubauer, C., Matthews,G.,& Saxby,D.(2O12). The effects of cell phone use and automation on driver performance and subjective state in simulated driving. In Proceedings of the Human Factors and Ergonomics Society Annual Meeting(pp. 1987-1991). Santa Monica, CA: Human Factors and Ergonomics.   
+Parasuraman, R.,& Riley, V.(1997). Humans and automation: use, misuse,disuse,abuse. Human Factors: The Journal of the Human Factors and Ergonomics Society, 39(2),230-253.   
+Petermeijer, S. M., Bazilinskyy,P., Bengler, K.,& De Winter, J. C. F. (2017). Take-over again: investigating multimodal and directional tors to get the driver back into the loop. Applied Ergonomics, 62, 204-215.   
+Petermeijer, S. M., Cieler, S.,& De Winter, J. C.F. (2017). Comparing spatially static and dynamic vibrotactile take-over requests in the driver seat. Accident Analysis & Prevention, 99, 218-227.   
+Petermeijer, S. M.,De Winter, J. C.F.,& Bengler, K. J. (2016). Vibrotactile displays: a survey with a view on highly automated driving. IEEE Transactions on Intelligent Transportation Systems, 17(4), 897-907.   
+Petermeijer, S.M.,Doubek,F.,& De Winter, J. C.F. (2017). Driver response times to auditory, visual,and tactile take-over requests: a simulator study with 1O1participants. In A. Basu, W. Pedrycz, & X. Zabuli (Eds.), Proceedings of the IEEE International Conference on Systems, Man,and Cybernetics (SMC) (pp.1505-1510). Banff, Canada: IEEE.   
+Petermeijer, S.M.,Hornberger, P., Ganotis,I., De Winter, J. C.F.,& Bengler, K.J. (2017). The design of a vibrotactile seat for conveying take-over requests in automated driving. In N. A. Stanton (Eds.), Advances in Intelligent Systems and Computing (pp. 618-630). Cham, Switzerland: Springer.   
+Politis,I., Brewster, S.,& Polick,F. (2O15). Language-based multimodal displays for the handover of control in autonomous cars. In Proceedings of the 7th International Conference on Automotive User Interfaces and Interactive Vehicular Applications (pp.3-1O). New York, NY, USA: ACM.   
+Prewett， M. S., Elliott, L.R.，Walvoord,A.G.,& Coovert, M.D. (2012).A meta-analysis of vibrotactile and visual information displays for improving task performance.IEEE Transactions on Systems, Man and Cybernetic Part C: Applications and Reviews, 42(1), 123-132.   
+Radlmayr, J., Gold, C.,Lorenz,L., Farid, M.,& Bengler, K. (2O14). How traffic situations and nondriving related tasks affect the take-over quality in highly automated driving. In Proceedings of the Human Factors and Ergonomics Society 58th Annual Meeting (pp. 2063-2067). Santa Monica, CA: Human Factors and Ergonomics.   
+SAE International. (2016). Taxonomy and definitions for terms related to driving automation systems for on-road motor vehicles(Standard No. J3016). Retrieved from https://saemobilus.sae.org/content/j3016_201609.   
+Samuel, S.， Borowsky,A., Zilberstein, S.,& Fisher, D.L. (2016).Minimum time to situation awareness in scenarios involving transfer of control from an automated driving suite. Transportation Research Record: Journal of the Transportation Research Board, 2602(1), 115-120.   
+Scott, J.， Gray, R. (2Oo8).A comparison of tactile, visual, and auditory warnings for rear end collsion prevention in simulated driving. Human Factors, 50(2),264-275.   
+Summala, H., Lamble, D., Laakso, M. (1998). Driving experience and perception of the lead car's breaking when looking at in-car targets. Accident Analysis & Prevention, 30(4), 401-407.   
+Telpaz, A., Rhindress,B., Zelman, I.,& Tsimhoni, O. (2O15). Haptic seat for automated driving: preparing the driver to take control effectively. In Proceedings of the 7th International Conference on Automotive User Interfaces and Interactive Vehicular ApplicationsAutomotive UI '15 (pp. 23-30). Nottingham, UK: ACM.   
+Vlakveld, W., van Nes,N., de Bruin,J., Vissers,L.,& van der Kroft,M. (2018). Situation awareness increases when drivers have more time to take over the wheel in a Level 3 automated car: a simulator study. Transportation Research Part F: Traffic Psychology and Behaviour, 58, 917-929.   
+Wan, J. Y.,& Wu, C. X. (2017). The efects of vibration patterns of take-over request and nondriving tasks on taking-over control of automated vehicles. International Journal of Human-Computer Interaction,34(11), 987-998.   
+Wan, J. Y.,& Wu, C. X. (2018). The effects of lead time of take-over request and non-driving tasks on taking-over control of automated vehicles. IEEE Transactions on Human-Machine Systems, 48,582-591.   
+Wang, W. H. (2O01). Driving behavior shaping model in road traffic system. Journal of Beijing Institute of Technology,10(3): 331-336.   
+Wege,C., Will, S.,& Victor, T. (2013). Eye movement and brake reactions to real world brakecapacity forward collision warnings-a naturalistic driving study. Accident Analysis & Prevention, 58(3),259-270.   
+Wickens, C. D. (2008). Multiple resources and mental workload. Human Factors: The Journal of the Human Factors and Ergonomics Society, 50(3), 449-455.   
+Wiedemann, K., Naujoks,F, Worle, J., Kenntner-Mabiala,R., Kaussner, Y., Neukum, A.(2018). Effect of different alcohol levels on take-over performance in conditionally automated driving. Accident Analysis & Prevention, 115, 89-97.   
+Wintersberger, P., von Sawitzky,T., Frison,A. K.,& Riener, A. (2O17). Traffic augmentation as a means to increase trust in automated driving systems. In Proceedings of the 12th Biannual Conference on Italian SIGCHI Chapter: Towards the Mediterranean (p. 17). New York, NY: Association for Computing Machinery.   
+Wright,T.J., Samuel, S., Borowsky,A., Zilberstein, S.,& Fisher,D.L. (2016).Experienced drivers are quicker to achieve situation awareness than inexperienced drivers in situations of transfer of control within a level 3 autonomous environment. In Proceedings of the Human Factors and Ergonomics Society 60th Annual Meeting (pp. 270-273). Santa Monica, CA: Human Factors and Ergonomics Society.   
+Zeeb,K., Buchner,A.,& Schrauf, M. (2015). What determines the take-over time? an integrated model approach of driver take-over after automated driving.Accident Analysis & Prevention, 78, 212-221.   
+Zeeb,K., Buchner, A., & Schrauf,M. (2O16). Is take-over time allthat maters? the impact of visual-cognitive load on driver take-over quality after conditionally automated driving. Accident Analysis & Prevention, 92, 230-239.
+
+# The human factors of the take-over process in conditional automated driving based on cognitive mechanism
+
+MAShu; ZHANGWei; SHI Jinlei;YANGZhen
+
+（Psychology Department, Zhejiang Sci-Tech University, Hangzhou 31OO18, China） Abstract: Automated driving can largely reduce modern traffic problems and improve driving comfort. During conditional automated driving (Level 3), drivers are allowed to engage in non-driving related tasks but need to take over the vehicle timely once the system reached its limitation. In this critical process, drivers have to shift their attention and acquire situational awareness in order to take over successfully. Existing studies have shown that take-over requests, non-driving related tasks, driving situations and driver-related factors were all critical factors in the take-over process.In the future, we can investigate the cognitive mechanism of the influence of various factors on the takeover process and explore possible interactions between these factors.
+
+Keywords: automated driving; take-over process; attention; situation awareness

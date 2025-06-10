@@ -1,0 +1,209 @@
+# 基于改进VNet太阳暗条检测方法
+
+辛泽寰，尚振宏（昆明理工大学信息工程与自动化学院，云南昆明650500）
+
+摘要：太阳暗条作为太阳大气磁场的示踪，其精准检测对研究太阳磁场有着极其重要的意义。针对现有暗条检测的方法存在检测精度不高，弱小暗条错检、漏检等问题，本文为此提出一种基于改进VNet网络的太阳暗条检测方法。首先，使用大熊湖天文台Hα全日面图像并结合磁图制作了太阳暗条数据集；其次，在VNet网络下采样部分采用inception模块融合不同尺度特征图特征，同时加入注意力机制来增强特征图中暗条部分的语义信息；最后在上采样部分引入深度监督模块，更多地保留太阳暗条细节特征。为验证算法性能，本文采用191幅Hα全日面图像数据集，其中包含暗条共3372条。算法在测试数据集上平均准确率达到0.9883，F1值达到0.8385。实验结果证明，该方法可以有效识别Hα全日面图中暗条。
+
+关键词：暗条检测；太阳暗条数据集；VNet；Inception；深度监督；注意力机制中图分类号：TP391.4 文献标识码：A 文章编号：
+
+# 0引言
+
+太阳暗条是在日冕中由低温高密度的等离子体组成，在日面中心呈现出丝状结构1]。暗条的尺度、活动状态各不相同，不同的暗条最终会消失或者爆发。暗条爆发与太阳耀斑、日冕物质抛射、磁风暴等事件有非常密切的关系，强烈的暗条爆发活动所发射的等离子体在几天后将抵达地球，影响地球磁层，严重时会导致通信设备受损，造成通信中断、航空运输导航失效等灾难[2]。此外，暗条通常出现在光球磁场极性反转线的上方，因此对暗条进行研究有助于探究太阳磁场的变化过程。作为相关研究的基础和前提，对暗条准确地检测具有重要的科学意义。
+
+根据光学厚的暗条物质会吸收大量光球背景辐射但发射出很少这一特征，在Hα波段观测到的太阳暗条会比周围背景更暗。在此基础上，大量学者对自动检测太阳暗条方法展开了一系列研究，具体可以分为如下三类：（一）基于阈值检测方法。譬如，Gao等[34采用全局阈值和区域增长算法来自动检测暗条；Fuller和Aboudarham等[5-7]在Gao的研究基础上采用局部阈值代替全局阈值改善全日面图像具有临边昏暗和亮度不均匀这一问题； $\boldsymbol { \mathrm { Q u } } ^ { [ 8 ] }$ 利用Canny算子进行暗条边缘检测后，利用形态学腐蚀膨胀法检测出暗条。此类方法计算复杂度较低，只需关注暗条图像特征，不需要人工标注数据集，但是将图像中噪声点和较暗背景容易误识别为暗条，检测结果精确率较低。（二）基于机器学习方法。譬如，Zharkova等[9,10]利用人工神经网络检测暗条，通过一个预先定义大小窗口逐个像素点来检测暗条，对不同背景中的暗条，训练后的神经网络能够正确识别出。此类方法可以有效克服对图像归一化过程的高度依赖性，利用先验信息设定合适的特征提取器，特征提取效率高，模型训练速度快，但是模型泛化性较差，一些复杂形态结构的暗条不能有效地自适应建模，对弱小暗条不敏感，检测结果存在弱小暗条断裂和漏检问题。（三）基于深度学习方法。深度学习方法可以更好地学习图像特征，在天文图像处理方面取得很大成功，已引起广大学者关注[1-12]。譬如，Salasa[3采用MaskR-CNN用于检测暗条，数据集采用印度尼西亚航空航天研究所拍摄的 $\mathrm { H } \alpha$ 波段全日面图像，使用ResNet-101和特征金字塔网络作为骨干网络，利用训练好模型进行太阳暗条检测；Zhu[14采用基于UNet深度学习网络识别太阳暗条，数据集采用大熊湖天文台拍摄的Hα波段全日面图像，同时在UNet网络的下采样部分加入Dropout层，在上采样部分用线性插值代替反卷积，改进后的UNet网络用于太阳暗条检测。此类方法相比机器学习方法，无需人工设计特征提取器，可以根据标签自动学习暗条的特征及细节信息，总体算法的泛化性和鲁棒性较高。但是此类方法存在标签不准确的问题，标签中存在太阳黑子及噪声点，干扰网络提取暗条特征，导致训练模型不精准。UNet网络在下采样过程中提取特征能力不够，会丢失暗条细节特征，在上采样过程中，只对网络最终输出结果进行调整，中间特征图没有得到充分训练，检测结果存在弱小暗条断裂，甚至漏掉、背景被误识别为暗条等问题。
+
+针对当前暗条检测存在的问题，为了让网络能够学习到更准确的暗条特征，本文首次结合太阳磁图，对数据集中太阳暗条进行手工标注。在训练网络前对图像进行亮度归一化、去噪等预处理。采用VNet[15网络，该网络具有较强抗干扰能力，可以有效抑制背景对检测结果的影响。为了充分提取暗条细节特征，对VNet网络进行改进，改进后的网络能更精确地检测出弱小暗条。本文主要工作是：（1）结合太阳磁图制作了太阳暗条数据集"，相对已有的暗条数据集，该数据集制作时，根据同一时刻太阳磁图的磁场分布结构，剔除了黑子和噪声，保留了弱小暗条，暗条标签更精确；（2）在网络下采样部分采用Inception模块[16]，用于提取不同尺度特征图的特征；引入注意力机制[17]，抑制背景图像中干扰特征的影响；在上采样部分引入深度监督模块[18]，将不同深度特征图进行融合，提高了检测结果的准确率。最后通过实验证明，所提方法能对太阳暗条实现较高精度的检测。
+
+# 1太阳暗条数据集
+
+# 1.1 数据预处理
+
+暗条数据集取自美国大熊湖天文台的Hα全日面图像，其观测设备位于地球，由于太阳与地球之间距离变化，温度、湿度、风速等原因，导致其拍摄到的图像并不是在图像正中，同时地面仪器还会受到光线、大气抖动等复杂因素影响，从而造成拍摄全日面图中有噪声干扰、亮度不均匀等问题。此类情况出现，将会在一定程度上影响网络检测结果准确率和召回率。针对这些问题，首先使用霍夫圆检测法和最小二乘拟合法来获得太阳中心和半径，计算图像中心点坐标和太阳圆心坐标，将太阳圆心平移到图像中心点，当两种方法相差5个像素时，人工进行调整，得到太阳轮廓，并将轮廓外像素设置为灰色，避免干扰网络训练；其次利用全变分模型去除背景干扰噪声；最后通过增强图像对比度来突出暗条特征，通过剪切去除图像中极值像素点，剩余部分像素按比例重新分配分布。预处理后图像如图1所示，可以看出经过预处理操作后图1(b)中暗条特征更加明显。
+
+![](images/435b9abd60c864b0f8a2c3f71ef00525a92d37ae2fc1e6f6b9f22bb4590bebcb.jpg)  
+图1 (a)原始图像；(b)预处理后图像 Fig.1(a) original image; (b) processed image
+
+# 1.2 制作数据集
+
+数据是深度学习的血液，基于深度学习的暗条图像分割算法需要从标注好数据中学习暗条特征信息，从而不断调节网络中每一层参数，标注数据有偏差会导致训练模型难以收敛，检测结果不精准，其结果甚至不会超过传统阈值分割法。目前公开的太阳暗条数据集来自中国科学院国家天文台[14]，该数据集取自美国大熊湖天文台的 $\mathrm { H } \alpha$ 全日面图像，但其暗条数据集标注方法是根据暗条亮度特征，采用图像阈值分割处理方法，导致图像中太阳黑子和小噪声点也会被标注出来，同时也会漏掉弱小暗条，致使网络提取到错误特征信息，造成暗条漏检和背景误识别。图2为中国科学院国家天文台数据集中普遍存在一些问题。图2(a)，红色框处是全日面图中太阳黑子，图2(b)红色框处是对应标签中太阳黑子，图2(c)红色框处是全日面图中弱小暗条，黄色框处是噪声点，图 2(d)红色框处是对应标签中漏掉的弱小暗条，黄色框处是噪声黑点。为了提高训练准确率进而提升模型准确率，本文制作并公开了太阳暗条数据集，该数据集包括两个部分： $\mathrm { H } \alpha$ 全日面图像和暗条二值标签图。Hα全日面图像取自美国大熊湖天文台2010一2020 年拍摄的Hα波段的全日面图像。
+
+![](images/001b1d14d48e297cc0da7221ddfbb07c1292240d26c69d72bf0d98e83a2ee1b7.jpg)  
+图2国家天文台数据集[14]。(a)和(c)Hα全日面图像；(b)和(d)太阳暗条标签图 Fig.2National astronomical observatory database[14]. (a) and (c) Hα full-disk solar image; (b) and (d)
+
+ground-truth image
+
+暗条与磁场有着密切的关系，暗条存在于太阳磁场极性反转线的上方，极性反转线是指径向磁场在光球上正负磁场的分界线[19]。另外，太阳黑子位于单一极性区域，而非极性反转线上。利用该特征，根据同一时刻美国国立太阳天文台全球日震观测网(Global OscillationNetwork Group,GONG)观测的太阳磁图中正负磁极的位置，即图3(b)中黑白相交的位置，结合暗条的亮度和纹理特征，同时利用磁图排除黑子对暗条检测结果的干扰，采用Labelme标注工具对暗条进行描点标注。图3(a)为全日面图像；图3(b)为全日面太阳磁图；图3(c)为暗条标签图。图3(b)中红色线条为标注的磁中性线，可发现与图3(a)红色框对应图3(b)中的位置，并无正负磁场出现，因此在制作标签时，该位置不存在暗条。本文数据集包含191幅全日面$\mathrm { H } \alpha$ 图像，包含各类形态暗条3372个，由于2013—2014年暗条数量较多并且具有不同的尺度，其包含的暗条特征较为完整，因此训练集图像取自2013—2014年的全日面图像共146幅。测试集图像取自其余年份的全日面图像共45幅。
+
+![](images/c0113de7286d1ad734ce48e825e9f1823cb820e1807be80fd5fcc37006d2f2b7.jpg)  
+图3暗条数据集和磁图。(a)全日面 $\mathrm { H } \alpha$ 图像；(b)全日面太阳磁图；(c)太阳暗条标签图 Fig.3Solar filaments database and magnetograms image. (a) ful-isk Hα solar image; (b) full-disk solar magnetograms image; (c) ground-truth image
+
+# 2 方法原理
+
+Fausto Milletari等[15]提出VNet网络用于医学图像的分割，由于太阳暗条和医学图像都具有制作标签成本高、数据训练样本比较少的特点，而VNet网络只需要少量的训练样本就可以训练出模型，并且VNet网络在上采样和下采样过程中加入残差结构，解决了深层网络的梯度消失的问题。此外VNet网络抗干扰能力较强，可以有效抑制背景对暗条检测结果的影响，因此本文采用改进原有VNet网络来检测太阳暗条。
+
+VNet网络由下采样部分和上采样部分构成，VNet网络结构如图4所示。下采样部分主要功能是提取图像特征，包含5个卷积单元，每个卷积单元由卷积层、池化层和激活函数组成，卷积采用 $5 \times 5 \times 5$ 的卷积核进行卷积，padding大小为2，stride为1。池化层可以减少训练过程中的参数，减少内存占用率，提高训练速度。激活函数采用PReLU[20函数。卷积块中还加入了残差学习结构，有效缓解梯度消失的问题。下采样部分和上采样部分中间为级联。级联是将下采样过程中的特征图与上采样反卷积后的特征图进行融合，再进行卷积操作，这样可以有效防止下采样过程中特征丢失，保留在下采样部分的目标位置信息以及图像的边缘特征。
+
+![](images/ca2cb096ca508fbc656daef340df1da0d0f1b9ad7bc47efa581fd2906177b264.jpg)  
+Fig.4Structure of VNet algorithm
+
+# 2.1 改进的VNet网络
+
+原始的VNet网络能够很好抑制图片背景的干扰，但是暗条大小尺度不一，弱小暗条的特征难以提取，容易造成细节信息丢失、暗条断裂等问题，针对这些问题，本文提出一种基于改进VNet网络的暗条检测算法。网络整体分为下采样部分和上采样部分，改进VNet网络如图5所示。本文保留了VNet网络基本结构，图像输入后，首先经过Inception模块学习到不同尺度特征图特征，并融合输入下一层，提升网络性能，并在上采样的第二个和第三个卷积单元中加入注意力机制，更好地利用上下文信息，增强特征图中暗条部分的语义信息，提升网络对重要信息特征的学习能力。在上采样部分引入深度监督模块，充分提取太阳暗条特征，改进后网络模型能够充分提取太阳暗条特征，提高了太阳暗条检测精度。
+
+![](images/3826e333513a753f2b7077e6937d4aead58231269017be24ddebc7a7a07736c8.jpg)  
+Fig.5Structure of improved VNet algorithm
+
+# 2.2 Inception模块
+
+太阳暗条尺度信息存在较大差异，选择合适尺寸卷积核比较困难，大尺度太阳暗条长度可达100个像素，信息分布更具有全局性，采用大尺寸卷积核提取特征比较全面，小尺度太阳暗条长度约10个像素，信息分布比较局部，适合较小卷积核。为了提取更多太阳暗条有效特征同时减少参数量，图像输入后首先经过Inception模块[14]，通过增加卷积单元个数，对较大的卷积核先用 $1 \times 1$ 的卷积核进行降维操作，使输入图像在不同尺度上进行融合，提取不同尺度特征，同时提高了网络计算资源利用率，提升网络性能，克服数据样本较少带来训练过拟合的问题。Inception模块如图6所示。在同一层级上运行多个尺寸的滤波器，使用4个大小不同滤波器，分别是 $1 \times 1$ ， $1 \times 1$ ， $3 \times 3$ ， $5 \times 5$ 大小的卷积核，在 $3 \times 3$ 和 $1 5 \times 5$ 的卷积层前添加$1 \times 1$ 卷积核，调整输入通道数量，减少参数量。在 $1 \times 1$ 的卷积层前加入 $3 \times 3$ 最大池化层用来提升网络训练速度，同时提高所提取特征的鲁棒性。最后，将不同卷积核所获得的太阳暗条特征图进行融合，进一步提高网络泛化能力。
+
+![](images/077ed51f4077d4b4baccd5c129aea463089f5476260433c05c218e0a410ec853.jpg)  
+图5改进VNet算法结构图  
+图6Inception 结构  
+Fig. 6Structure of Inception
+
+# 2.3 注意力机制
+
+下采样过程中对图像不断卷积提取图像特征，造成了暗条边缘及细节信息丢失，虽然VNet网络采用了跨连接融合特征图保留了一些信息，但是不同空间位置所包含信息的重要程度不一样，图像中不同位置应该具有不同权重，本文在下采样特征提取过程中加入空间注意力机制[17]，达到增强暗条特征同时抑制无用背景信息。
+
+图像经过下采样过程中第二个卷积单元得到特征图，如图7所示，首先对其分别使用最大值和平均值全局池化操作，最大值池化操作可以突出暗条特征，平均值池化操作可以获取全局信息，将两种池化后特征图按通道拼接后进行 $1 \times 1$ 卷积并添加非线性成分，然后通过sigmoid激活函数计算得出空间注意力权重的空间矩阵，sigmoid函数可以避免特征在传递过程中过于稀疏及权重系数过大。经过sigmoid函数得到权重系数与输入特征图相乘得到新特征图。空间注意力机制可表示为：
+
+$$
+M _ { c } \left( F \right) = \sigma \big ( M L P \big ( A u g P o o l ( F ) \big ) + M L P \big ( M a x P o o l ( F ) \big ) \big )
+$$
+
+其中， $M _ { c } \left( F \right)$ 为生成空间注意力图；c表示特征图通道数； $M L P$ 表示多层感知器；$\sigma$ 表示sigmoid 激活函数； $A u g P o o l ( \mathrm { { F } ) }$ 和 $M a x P o o l ( F )$ 分别表示对特征图平均值全局池化和最大值全局池化。
+
+注意力机制可以让网络提取特征更加专注暗条特征，抑制背景噪声等异常特征信息，精准检测出弱小暗条，提高暗条检测精度。
+
+![](images/38e2bb6acf4a03f74b0ed8a4f01fc642a0e12aaf3ed59e80542d3002ad8ea537.jpg)  
+图7空间注意力结构
+
+# 2.4 深度监督
+
+Lee等[18]提出一种深度监督网络(Deeply-supervised nets,DNS)。深度监督能够对前面层的训练起到监督作用，从而保证整个网络训练效果。本文采取深度监督方法调整每一层特征图参数，保证输出层和隐藏层都能尽量学到该层尽可能多的细节特征，从而保证更上层网络能够使用更加精确的特征图进行训练。
+
+![](images/6e204b07e89f439b9cc360f1580cd9141a3a1bf02633d0380ed461ab5de8d86e.jpg)  
+Fig.7Structure of Spatial attention   
+图8深度监督模块  
+Fig.8Deep supervision module
+
+深度监督模块如图8所示。每个上采样过程中有一个额外的分支操作，该分支操作是将不同尺度特征图通过上采样放大将图像恢复到原始图像大小，分别是map1，map2，map3,map4，再将4个阶段的map进行融合。通过对不同尺度特征图进行监督，不同尺度特征图都能学到最准确的特征，提高网络检测准确率。
+
+# 3实验过程及结果分析
+
+# 3.1 训练细节
+
+所有实验均在Windows10系统下进行，其中深度学习框架为Keras,硬件环境：CPU为IntelCore i7-7800X 3.50GHz CPU，显卡为GTXTitanXGPU，内存32G。数据集采用自己制作暗条数据集，并且对数据集进行预处理操作。本文选取了太阳暗条数据集共146对预处理图像和暗条标签作为数据集。在训练阶段batch_size ${ \boldsymbol { \mathbf { \mathit { \sigma } } } } = 2 { \boldsymbol { \mathbf { \mathit { \sigma } } } }$ ，每轮迭代300步；计划训练epochs为200轮；采用早停法控制训练过程，若函数在10个epoch内模型损失没有下降则停止训练；学习率初始值0.0001，学习率衰减策略为若3个epoch里loss没有下降，则学习率减半；最终在151轮训练停止。从图9可以看出，训练随着轮次增加，损失值不断下降，然后曲线呈现微小波动最后趋于水平。
+
+![](images/092409447aa6850e2884e0269aac8c86210e04033fdd3bf75e6734033b22516e.jpg)  
+图9损失率曲线图Fig.9loss image
+
+在选择优化器时，在训练过程中会产生大量参数，导致计算量增加。本文采用Adam优化器[21来训练网络。该算法优点在于可以在训练过程中可以为不同的参数计算不同自适应学习率，有利于网络优化，适用于包含大规模参数的问题，并且对内存需求较小。
+
+# 3.2 数据增强
+
+在深度学习中，训练集样本较少是造成过拟合的主要原因之一。由于太阳暗条图像人工标注成本很高，数据集较少，因此本文在训练同时利用keras中ImageDataGenerator图片生成器对训练图像进行旋转、垂直翻转、平移等操作来扩充数据。146组图像经数据增强后生成26648个训练样本，提高了模型泛化能力和鲁棒性。
+
+# 3.3 损失函数
+
+在太阳暗条检测中，太阳暗条仅占整个 $\cdot \mathrm { H } \alpha$ 全日面图像约 $5 \%$ 区域，在训练过程中容易导致损失函数陷入局部最小值，导致检测结果偏向背景，漏检弱小暗条，为了有效解决前景和背景像素体严重失衡情况，损失函数采用基于Dice系数最大化目标函数[15]来优化模型，其公
+
+式定义如下：
+
+$$
+D i c e ( P , G ) = 1 - \frac { 2 \times N ( \Delta _ { P } \cap \Delta _ { G } ) + S m o o t h } { N ( \Delta _ { P } ) + N ( \Delta _ { G } ) + S m o o t h }
+$$
+
+其中，P和G分别表示暗条预测结果和暗条标签； $N ( \Delta _ { { \scriptscriptstyle P } } )$ 和 $N ( \Delta _ { \mathrm { c } } )$ 表示预测结果和标签区域中像素个数； $\mathrm { S m o o t h { = } 0 . 0 0 1 }$ ，防止分母为0。Dice数值越小，检测结果精度越高。
+
+# 3.4 评价指标
+
+判断暗条检测方法的性能需要有效评价指标，本文将暗条检测结果与暗条标签相比，有4种检测结果，分别是真阳性(True Positive,TP)表示检测正确暗条像素点，假阳性(FalsePositive,FP)表示检测错误暗条像素点，真阴性(True Negative,TN)表示检测正确背景点，假阴性(False Negative,FN)表示检测错误背景点。如表1所示。
+
+Table 1Four results of segmentation   
+
+<html><body><table><tr><td>检测对象</td><td>检测正确像素</td><td>检测错误像素</td></tr><tr><td>暗条像素点</td><td>真阳性(TP)</td><td>假阳性(FP)</td></tr><tr><td>背景像素点</td><td>真阴性(TN)</td><td>假阴性(FN)</td></tr></table></body></html>
+
+通过表1检测结果可以计算出准确率(Acc)、召回率(Recall)、精确率(Precision)3个衡量方法性能的指标。准确率是分类正确像素点占整个图像像素点总和的比例；召回率是检测正确的暗条像素点占真实暗条像素点总和的比例；精确率是检测正确的暗条像素点占检测暗条像素点总和的比例；F1值是对精准率和召回率的整体评价，介于0\~1之间。本文计算方法如表2所示。
+
+表1全日面图像4种检测结果  
+表2暗条检测方法性能评估指标  
+Table 2Performance evaluation index of vessel segmentation algorithms   
+
+<html><body><table><tr><td>Assessment index</td><td>Formula</td></tr><tr><td>ACC</td><td>TP+TN/(TP+TN+FP+FN)</td></tr><tr><td>Recall</td><td>TP/(TP + FN)</td></tr><tr><td>Precision</td><td>TP/(TP +FP)</td></tr><tr><td>F1-score</td><td>2×Precisionx Recall/(Precision+Recall)</td></tr></table></body></html>
+
+# 3.5 实验结果
+
+# 3.5.1算法改进前后对比
+
+为了说明本文提出VNet网络在下采样部分采用inception模块同时加入注意力机制，在上采样部分引入深度监督模块具有一定的优势，本文将改进前后的VNet网络在测试集上进行测试，采用人工标注暗条标签图和检测结果进行比较。表3列出了原始VNet网络，加入Inception模块后的Inception-VNet网络，加入注意力机制后的Attention-VNet网络，以及本文最终改进后VNet网络进行比较。根据每种网络检测的结果与标签计算出准确率。由于暗条占全日面图像的比重约为 $5 \%$ ，导致检测结果准确率较高，为了更好衡量检测结果，采用召回率、精准率、F1值评价指标。从表3可以看出，原始VNet网络准确率为0.9661,F1值为0.8168，说明原始VNet网络检测的结果可以较好地检测出特征明显的暗条，但是针对弱小暗条，仍然会出现漏检问题。加入Inception模块和注意力机制及深度监督模块后的VNet网络，准确率达到0.9883，F1值达到0.8385。F1值有明显提高，可见改进后VNet网络在下采样过程中可将弱小暗条信息充分提取，提高检测结果准确率。
+
+表3基于VNet网络不同算法性能指标比较  
+Table 3Performance comparison of different algorithms base on VNet networks   
+
+<html><body><table><tr><td>Algorithm</td><td>Acc</td><td>Recall</td><td>Precision</td><td>F1 Score</td></tr><tr><td>VNet</td><td>0.9661</td><td>0.8805</td><td>0.7617</td><td>0.8168</td></tr><tr><td>Inception-VNet</td><td>0.9660</td><td>0.8912</td><td>0.7628</td><td>0.8220</td></tr><tr><td>Attention-VNet</td><td>0.9753</td><td>0.8941</td><td>0.7713</td><td>0.8282</td></tr><tr><td>Ours</td><td>0.9883</td><td>0.8998</td><td>0.7851</td><td>0.8385</td></tr></table></body></html>
+
+图10选取了图像中包含弱小暗条的局部区域并放大2.5倍，本文算法对弱小暗条检测效果与暗条标签及原始VNet网络检测结果进行对比。图中红色框处是全日面图像中的弱小暗条，图10(e)-(h)分别是图10(a)-(d)放大2.5倍后的局部区域。我们可以直观地看出，原始VNet网络检测结果克服了背景干扰，但是对弱小暗条检测准确性不高，存在漏检现象。改进后算法在下采样部分引入Inception模块和注意力机制，提升网络性能，提取到更多暗条特征；在上采样部分引入深度监督模型，将检测结果与每层特征图融合，保留了细节特征，使得网络同时兼顾语义信息和细节特征，尽可能地保留弱小暗条连续性，能够抵抗背景干扰，取得更加精准检测结果。
+
+![](images/d44910f19c6c4684893195c68dc0f7b5c40a0f5ef332623bb6cd94428309b08b.jpg)  
+图10暗条检测结果。(a)全日面图；(b)暗条标签图；(c)VNet检测结果；(d)本文检测结果;(e)\~(f)第一行对应图放大2.5倍结果
+
+Fig.10Filaments of segmentation results.(a) full-disk Hα solar image; (b) ground-truth image; (c) VNet segmentation result; (d) Our segmentation result; (e)\~(f)2.5 the first row corresponds to the picture enlarged by 2.5 times
+
+# 3.5.2不同算法评估指标对比
+
+为了进一步证明本文所提算法在太阳暗条图像上的检测性能，使用上述评价指标将本文所提算法与Zhu等[14]提出基于UNet暗条检测方法(UNet)，以及在该方法的基础上，为捕获到暗条更多细节融入了Resent密集跳跃连接(Resent-UNet)。表4列出了不同方法对太阳暗条检测结果。UNet网络检测的准确率达到0.9587，F1值达到0.7834，但其受图像中亮度较低背景区域和噪声影响严重，导致检测结果错误率较大，算法检测出不属于暗条的部分，抗噪声能力较弱。Resent-UNet将每个融合模块通过密集跳跃连接的方式进行特征融合，使网络能捕获到暗条更多细节特征，提升检测性能，准确率达到0.9598，F1值也达到0.7947，但其精确率较低，说明网络过于敏感，会将一些亮度较暗的背景部分误识别为太阳暗条。本文方法暗条检测平均准确率高达0.9883，F1值达到0.8385，高于UNet和Resnet-UNet网络平均准确率，评价F1值也达到了较高水平，因此本文方法更具有优势。
+
+表4暗条检测方法性能评估指标  
+Table4Performance evaluation index of vessel segmentation algorithms   
+
+<html><body><table><tr><td>Algorithm</td><td>Acc</td><td>Recall</td><td>Precision</td><td>F1 Score</td></tr><tr><td>UNet[141</td><td>0.9587</td><td>0.8503</td><td>0.7262</td><td>0.7834</td></tr><tr><td>Resnet-UNet</td><td>0.9598</td><td>0.8584</td><td>0.7398</td><td>0.7947</td></tr><tr><td>VNet</td><td>0.9661</td><td>0.8805</td><td>0.7617</td><td>0.8168</td></tr><tr><td>ours</td><td>0.9883</td><td>0.8998</td><td>0.7851</td><td>0.8385</td></tr></table></body></html>
+
+为了更直观地展示本文方法实验效果，对太阳暗条图像，在同等条件下将本文算法与上述暗条检测算法在测试集上进行主观测评。其实验结果如图11所示。
+
+从图11可以看出，图11(a)中红色框处是全日面图像中弱小暗条，图11(b)是标签图，图11(c)是传统方法检测结果，可以看出弱小暗条可以被检测到一部分，但是由于背景干扰，传统阈值分割很难将背景噪声点剔除，严重影响检测结果。图11(d)是UNet网络检测结果，可以看出检测结果背景噪声点干扰较少，但是弱小暗条会漏检。图11(e)是resent-UNet检测结果，可以看出加入残差结构后，网络提取特征能力得到加强，相比原始UNet网络可以检测到更多弱小暗条，但是背景对比度较低的区域仍然存在漏检现象。图11(f)是本文检测结果，使用改进后VNet网络，可以有效完成太阳暗条检测任务，获得较好的性能指标，具有较高的稳定性和抗干扰能力。从图11(f)可以看出在背景较为复杂的暗条图像检测任务中，对弱小暗条仍可以具有较好检测效果，具有一定算法先进性。
+
+![](images/47512330515387b189d82292b75b075b5b8051e7b82059e65658100984b68678.jpg)  
+图11不同算法检测结果。(a)全日面 $\mathrm { H } \alpha$ 图像；(b)太阳暗条标签图；(c)传统方法检测结果；(d)UNet检测结果；(e)resent-UNet检测结果；(f)本文检测结果
+
+Fig.11Segmentation results of different algorithms.(a) ful-isk Hα solar image;(b)ground-truth image; (c) the segmentation result using traditional image processing; (d) the segmentation result using UNet image processng; (e) the segmentation result using resent-UNet image processing; (f)our segmentation result
+
+# 4结论
+
+本文在太阳暗条检测研究中，针对国家天文台数据集标签中存在太阳黑子和噪声干扰及遗漏弱小暗条的问题，结合太阳磁图剔除了图像中黑子和噪声干扰，制作了太阳暗条数据集，使网络能学习到精确的暗条信息；针对暗条检测中存在背景干扰，弱小暗条丢失等问题，本文采用了VNet网络并进行改进，引入Inception模块，得到暗条不同尺度信息，更好地利用网络内部计算资源，提取到更多图像特征；引入注意力机制，达到增强暗条特征同时抑制无用背景信息；在上采样部分引入深度监督模块，使不同尺度特征图都能学到最准确的特征，提高太阳暗条检测准确率。根据暗条检测评价指标可知，采用本文方法的检测结果有明显提升。在后续研究中，存在数据集图像较少的问题，因此，本文未来工作方向是研究如何用少量图像训练出高效检测模型。
+
+# Solar filament recognition based on improved VNet
+
+Xin Ze-huan, Shang Zhen-hong (FacultyofIformationEngineringandAutomation,Kunming UnversityofSienceandTechology,Kunming6oo,hina)
+
+Abstract: The Solar filaments is a common solar activity，and the efficient and accurate detection of the solar filaments is of great significance to the study of the solar magnetic field. Due to the fact that the ful-plane image has the characteristics of dimming,uneven brightness,and the inaccuracy of the labeled data set, the result of dark strip segmentation is not accurate, weak and small filaments are missed,and darker background parts are falsely detected as filaments And other issues. Therefore,a method for detecting solar filaments based on improved VNet network is proposed.First, the solar dark stripe data set was made by combining the solar magnetic map; secondly,the inception module was used to fuse the features of different scale feature maps in the down-sampling part of the VNet network,and the attention mechanism was added to enhance the semantic information of the dark stripe part of the feature map; Finally,a deep supervision module is introduced in the up-sampling part to retain more detailed features of the sun filaments. In order to verify the performance of the algorithm, we use a data set of 191 full-disk solar images, which contains a total of 3372 filaments. The average accuracy of the algorithm on the test data set is 0.9883,the F1 value is O.8385. The experimental results prove that this method can efectively identify the filaments in the full-disk solar images.
+
+Key words: Filaments detection; Filaments dataset; VNet; Inception; Attention mechanism; )eep supervision
+
+# 参考文献：
+
+[1]JoselynJA,McitoshP.Disappearingsolarfilaments:usefulpredictorof geomageticactivityJ].JouralofGeosical Research Space Physics.1981, 86(A6): 4555-4564.   
+[2] 陈华东，赵世清，李琼英，等.2003年8月太阳活动区AR0442内的暗条爆发及其相关现象的研究 [J].天文研究与技术.2004,1(4): 259-267. Chen Huadong,ZhaoShiqing,Li Qiongying,etal.Thestudyofilamenteruptionanditsrelativephenomenawithinthesolaractie region AR0442 [J]. Astronomical Research & Technology.2004,1(4): 259-267.   
+[3]GaoJ,GaoJ,ZhouM,etal.Athresholdandregiogrowingombinedmethodforfiamentdisapparancereadetectioinsolar images [C]// John Hopkins University.2001.   
+[4] Gao J,WangH,ZhouM.Developmentofanutomaticfilamentdisappearancedetectionsytem[J].SolarPhysics.O5(): 93-103.   
+[5]FulerN,boudarhamJ.Automaticetectioofsolarfiamentsersus manualdigiizatioCIteationalConerceon Knowledge-Basedand Inteligent InformationandEngineering Systems.Springer,Berlin,Heidelberg,2O4: 467-475.   
+[6]FuerN,boudaaJentleD.FntecogodiageeangoudoHspctroelogams[J].olic 2005,227(1): 61-73.   
+[7]ShihFY,KowalskiAJ.AutomaticextractionoflamentsinHaolarimages[J].SolarPhysics,,18(-2):9-22.   
+[8]Qu,teo 119-135.   
+[9]ZharkovaVheiVatecogioiolaagsihraleoktcheJ].olaris,o(-) 137-148.   
+[10]ZharkovaVShetiinV.Aeral-etwrkteciqueforcogitionoffilaments insolariagesC/IteatioalCoference on Knowledge-BasedandIntelligent InformationandEngineeringSystems.Springer,Berlin,Heidelberg,2Oo3:148-154.   
+[11] 朱健，杨云飞，苏江涛，等．基于深度学习的太阳活动区检测与跟踪方法研究[J].天文研究与技术，2020,17(2):191-200. ZhuJian,Yang Yunfei,Su Jiangtao,et al.A detection andtracking method foractive regions based ondeep learing [J]. Astronomical Research and Technology,2020,17(2): 191-200.   
+[12]崔顺，许允飞，苏丽颖，等．基于卷积神经网络的全天空地基云图分类研究[J].天文研究与技术，2019,16(2):225-235. Cui Shun,XuunfeiSuLing,etal.Classificatioofallsyameradatabsedononvoluioalneuraletwork[J].Astronoical Research and Technology,2019,16(2): 225-235.   
+[13]SalasaRP,ArymurthyAM.SolarfilamentdetectionusingMaskR-CNN[C]//2O19 IntermationalWorkshoponBigDataand Information Security (IWBIS).New York: IEEE,2O19: 67-71.   
+[14] Zhu G,LinG,WangD,etal.SolarFilament Recognition BasedonDeepLearning[J].SolarPhysics,2O19,94(9):17.   
+[15]MiletariF,vabNdiS.-net:fullvolutioalraletwoksfometricicaliagesgmentatio/ fourth international conference on 3D vision (3DV).New York: IEEE,2016: 565-571.   
+[16SzegedyCLiuW,JiaYetal.Gingeeperithcovolutios[C//roceedingsoftheEEoferenceocomputesiod pattern recognition.2015: 1-9.   
+[17]OktayOSchlemperJ,FolgocLL,etal.Atentionu-net: learming where tolook for thepancreas[J].arXivpreprint arXiv:1804.03999,2018.   
+[18]LeeCY,XieS,GallagherP,etal.Deeply-supervisednets[C//Artificial intelligence andstatistics.20l5:6-570.   
+[19]XueZ,YanX,YangL,etal.Aolarfiaentdiscoctedbyageticrecoection[J].Atrono&Astroics,6: A121.   
+[20]HeK,ZangX,RenS,etal.Delvingdpitoectifiers:urpassnguma-levelpeformancoimageetclasiicatio/ Proceedings of the IEEE international conference on computer vision.2015:1026-1034.   
+[21] Kingma DP,BaJ.Adam: amethod for stochastic optimization [J].arXiv preprint arXiv:1412.6980,2014. \*基金项目：国家自然科学基金(12063002，11873027)资助.   
+收稿日期： $2 0 2 1 - ^ { * * } - ^ { * * * }$ ；修订日期： $2 0 2 1 ^ { \ast \ast } - ^ { \ast ; }$ 关   
+作者简介：辛泽寰，男，硕士。研究方向：计算机视觉与图像处理。E-mail：xinzehuan@126.com。   
+通信作者：尚振宏，男，副教授，博士。研究方向：计算机视觉与图像处理。E-mail：shangzhenhong@126.com。

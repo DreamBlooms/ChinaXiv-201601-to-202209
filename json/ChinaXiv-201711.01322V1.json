@@ -1,0 +1,638 @@
+[
+    {
+        "type": "text",
+        "text": "金牛T星在慢引力收缩阶段抛射物质和引力收缩作用下质量和半径的演化时标及其对自转角速度变化的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李林森",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(东北师范大学物理学院，吉林 长春130024)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：研究了带有引力能源和抛射物质的引力收缩星如金牛T星处于慢引力收缩阶段后，在抛射物质和引力收缩联合作用下对质量和半径的改变及其对自转角速度变化产生的影响。给出了质量和半径随时间演变的联立微分方程组及其解。利用解计算了金牛T星的质量和半径的演化时标以及对自转角速度变化产生的影响。给出数值结果，并讨论了理论和数值结果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：金牛T星；慢引力收缩和抛射物质；质量和半径的演化时标；自转角速度演变中图分类号：P142.6 文献标识码：A 文章编号：1672-7673(2017)02-0150-07",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "恒星形成后首先进入星际云快速引力收缩阶段，当星际云的内部压力渐渐增大时处于准流体静力平衡，星际云由快引力收缩阶段进入慢引力收缩阶段。处于慢引力收缩阶段的恒星发生不规则光度并抛射大量物质，其中金牛T星就是处于慢引力收缩阶段抛射物质的恒星。在快引力收缩阶段以引力收缩为主导，质量损失可不考虑，因此自转加速加快。当进入慢引力收缩阶段因出现抛射物质时质量损失为主导而引力收缩次之，因此自转角速度开始减慢[1]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "对于金牛T型星抛射物质损失质量可参见文[2-10]。文[2]给出了较详细的研究，但星体在引力收缩和抛射物质作用下，质量损失和半径的演化时标及其对自转角速度变化的影响并没有给出，特别由前两种因素作用下，质量损失和半径收缩对金牛T型星的自转角速度的影响没有论述。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "当星体进行引力收缩时半径缩小，这使自转角速度加快，而当质量流失时，自转角速度变慢。金牛T星的自转角速度变化是在引力收缩半径缩小和抛射物质使质量减少这两种因素联合作用下产生的。文[11-16]讨论了有关金牛T星的自转变化，但较少同半径的变化相联系。本文在上述几方面做了进一步研究。金牛T星是每个恒星诞生后早期演化必经的过程，对于本文研究的典型金牛T星具有其它金牛类型星的普遍性质和意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1处于慢引力收缩阶段金牛T型星的物理模型的基本假定",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1)金牛T星的能源只靠引力收缩产生的引力能源，尚无核能源，是一颗带有引力能源模型的星，故星的质量辐射可以略去。所以有",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 - \\beta = P _ { \\mathrm { { R } } } / P = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "其中， $P _ { \\mathrm { ~ R ~ } }$ 为辐射压力； $P$ 为总压力。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（2)星的质量损失来自某种物理机制产生的物质抛射，主要抛射氢粒子。假定抛射物质的速度 $\\mathbf { \\sigma } _ { v }$ 视为常量，而抛射的氢粒子的密度也视为常量。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(3)星的半径改变主要来自引力收缩产生的变化，其次也与抛射物质的质量动能有关。但金牛T星抛射物质的最外面包层是膨胀的，而内层半径 $R$ 因引力收缩而缩小。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(4)金牛T星的辐射能量(热光度)主要靠自身引力收缩释放的引力收缩能和抛射物质带走的动能之差。(5)根据文[17]收缩星在引力收缩阶段垂直于H-R图演化(Hayashi轨迹)，即演化路线近似垂直于H-R图上的横坐标（有效温度 $T _ { \\mathrm { e } }$ )，故在收缩时可把星的表面温度 $T _ { \\mathrm { e } }$ 近似视为常量，也不随时间变化。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(6)由于收缩星在引力收缩阶段只靠对流传送能量(对流星)，对于对流星其多方指数取 $n = 1 . 5$ ，$\\gamma = 5 / 3$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2决定金牛T星的质量和半径的演化方程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "处于慢引力收缩抛射物质的金牛T 星由于抛射物质损失质量，质量损失率可由下式确定[2]：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } m } { \\mathrm { d } t } = - \\ 4 \\pi R ^ { 2 } N _ { \\mathrm { H } } V _ { 0 } m _ { \\mathrm { H } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $R$ 为半径； $V _ { 0 }$ 为在表面处物质的抛射速度，它可由观测的轮廓给出； $N _ { \\mathrm { H } }$ 为氢粒子的数密度;$m _ { \\mathrm { H } }$ 为氢原子的质量。按前2条假定， $V _ { 0 \\setminus } \\mathrm { ~ \\ r ~ { ~ N _ { H } ~ } ~ }$ 和 $m _ { \\mathrm { H } }$ 为常量，而 $m$ 和 $R$ 为时间变量。这是 $m , \\ R$ 的第1个演化方程式。再确定 $m , \\ R$ 的第2个演化方程式。根据星的构造理论[18-19]，星的势能 $E ^ { \\prime }$ 可写成：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE ^ { \\prime } = - \\beta \\frac { \\gamma - \\frac { 4 } { 3 } } { \\gamma - 1 } \\varOmega \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中, $\\varOmega = - \\frac { 3 } { 5 - n } G \\frac { m ^ { 2 } } { R }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { \\mathrm { { G } } } = - E ^ { \\prime } = \\frac { \\gamma - 4 / 3 } { \\gamma - 1 } \\beta \\varOmega = - \\frac { \\gamma - 4 / 3 } { \\gamma - 1 } \\beta \\left( \\frac { 3 } { 5 - n } \\right) G \\frac { m ^ { 2 } } { R } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据第1节第(1)和第(6)条假定， $\\beta = 1 , n = 1 . 5 , \\gamma = 5 / 3$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "所以：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { \\mathrm { G } } = - \\ \\frac { 3 } { 7 } \\ G \\ \\frac { m ^ { 2 } } { R } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因为星收缩时只能引起半径的改变，不影响质量改变，所以收缩能随时间的变率为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { \\mathrm { d } E _ { \\mathrm { G } } } { \\mathrm { d } t } } = { \\frac { 3 } { 7 } } G { \\frac { m ^ { 2 } } { R ^ { 2 } } } { \\frac { \\mathrm { d } R } { \\mathrm { d } t } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { \\mathrm { { K } } } = { \\frac { 1 } { 2 } } m V _ { 0 } { } ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "所以带走的动能的变率为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } E _ { \\mathrm { k } } } { \\mathrm { d } t } = \\frac { 1 } { 2 } \\ { V _ { 0 } } ^ { 2 } \\frac { \\mathrm { d } m } { \\mathrm { d } t } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "按第1节第(4)条假定,收缩星(金牛 $\\mathrm { \\Delta T }$ 星)的辐射能量 $E _ { \\mathrm { { R } } }$ 是引力收缩能 $E _ { \\mathrm { G } }$ 和抛射物质带走的动能 $E _ { \\mathrm { { K } } }$ 两者之差，即 $E _ { \\mathrm { { R } } } = E _ { \\mathrm { { G } } } - E _ { \\mathrm { { K } } }$ ，因此 ${ \\frac { \\mathrm { d } E _ { \\mathrm { R } } } { \\mathrm { d } t } } = { \\frac { \\mathrm { d } E _ { \\mathrm { G } } } { \\mathrm { d } t } } - { \\frac { \\mathrm { d } E _ { \\mathrm { K } } } { \\mathrm { d } t } }$ （ 但辐射能变率 $\\frac { \\mathrm { d } E _ { \\mathrm { R } } } { \\mathrm { d } t }$ 等于光度 $T$ ，故光度 $T$ 等于引力收缩能减去抛射物质带走的动能：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中，热光度 $L$ 可写成：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { \\mathrm { d } E _ { \\mathrm { G } } } { \\mathrm { d } t } } - { \\frac { \\mathrm { d } E _ { \\mathrm { K } } } { \\mathrm { d } t } } = L .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL = 4 \\pi R ^ { 2 } \\sigma { T _ { \\mathrm { e } } } ^ { 4 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\sigma$ 为 Stefan 常数； $T _ { \\mathrm { e } }$ 为星表面有效温度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将(3）、(5)和(7)式代入(6)式中，即得确定 $m , \\ R$ 的第2个演化方程式：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 3 } { 7 } G \\frac { m ^ { 2 } } { R ^ { 2 } } \\frac { \\mathrm { d } R } { \\mathrm { d } t } - \\frac { 1 } { 2 } { V _ { \\mathrm { 0 } } } ^ { 2 } \\frac { \\mathrm { d } m } { \\mathrm { d } t } = 4 \\pi R ^ { 2 } \\sigma { T _ { \\mathrm { e } } } ^ { 4 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据第1节第(5)条假定，收缩星在H-R图上的演化路径近似垂直于横坐标(有效温 $T _ { \\mathrm { e } }$ )，故在(8)式右端的 $T _ { \\mathrm { e } }$ 可近似视为常量，又根据第(2)条假设，抛射物质速度 $V$ 也可视为常量。所以(1)式和(8)式组成的质量 $\\mathbf { \\nabla } _ { m }$ 、半径 $R$ 随时间演变的微分方程组是",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } m } { \\mathrm { d } t } = - \\ 4 \\pi R ^ { 2 } N _ { \\mathrm { H } } V _ { \\mathrm { 0 } } m _ { \\mathrm { H } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 3 } { 7 } \\frac { G m ^ { 2 } } { R ^ { 2 } } \\frac { \\mathrm { d } R } { \\mathrm { d } t } - \\frac { 1 } { 2 } { V _ { 0 } } ^ { 2 } \\frac { \\mathrm { d } m } { \\mathrm { d } t } = 4 \\pi R ^ { 2 } \\sigma { T _ { \\mathrm { e } } } ^ { 4 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "再将第1式代入第2式后得金牛 $\\mathrm { \\Delta T }$ 星在引力收缩和抛射物质作用下质量和半径随时间的演化方程组：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } m } { \\mathrm { d } t } = - \\ 4 \\pi R ^ { 2 } N _ { \\mathrm { H } } m _ { \\mathrm { H } } V _ { 0 } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } R } { \\mathrm { d } t } = \\frac { 1 4 \\pi R ^ { 4 } } { 3 G m ^ { 2 } } \\left( N _ { \\mathrm { H } } m _ { \\mathrm { H } } { V _ { 0 } } ^ { 3 } + 2 \\sigma { T _ { \\mathrm { e } } } ^ { 4 } \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3质量和半径的演化时标(质量和半径同时间的演化关系）",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "演化方程组(9)\\~（10)是可积的，可推出质量和半径的演化时标，要求得质量 $\\mathbf { \\nabla } _ { m }$ 和半径 $R$ 随时间变化规律和数值需要进行积分求解。给出用可积求解法所得到的质量和半径的演化时标。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由(9)式和(10)式消去时间 $\\mathrm { d } t$ 后，首先可得质量和半径在演化过程的关系式：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "变数分离后积分：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\frac { m } { R } \\right) ^ { 2 } \\frac { \\mathrm { d } R } { \\mathrm { d } m } = \\frac { 7 } { 6 G } \\left( \\frac { 2 \\sigma { T _ { \\mathrm { e } } } ^ { 4 } } { N _ { \\mathrm { H } } m _ { \\mathrm { H } } V _ { 0 } } + { V _ { 0 } } ^ { 2 } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { R _ { 0 } } ^ { R } \\frac { \\mathrm { d } R } { R ^ { 2 } } = K _ { 1 } \\int _ { m _ { 0 } } ^ { m } \\frac { \\mathrm { d } m } { m ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "结果有",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR = m / ( K _ { 1 } + K _ { 2 } m ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中，",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK _ { \\mathrm { 1 } } ~ { = } \\frac { 7 } { 6 G } \\left( \\frac { 2 \\sigma { T _ { \\mathrm { e } } } ^ { 4 } } { N _ { \\mathrm { H } } m _ { \\mathrm { H } } V _ { \\mathrm { 0 } } } + { V _ { \\mathrm { 0 } } } ^ { 2 } \\right) { = } ~ \\mathrm { \\stackrel { \\scriptscriptstyle { \\ s u r } } { \\scriptscriptstyle \\mathrm { H } } } ^ { \\prime }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(11)\\~（12)式是质量和半径演化过程的关系式。首先求解质量的演化时标，将(11)式的 $R$ 代入(1)式右端，有",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } m } { \\mathrm { d } t } = - \\ 4 \\pi \\left( \\frac { m } { K _ { 1 } \\ + K _ { 2 } m } \\right) ^ { 2 } N _ { \\mathrm { H } } m _ { \\mathrm { H } } \\mathrm { V } _ { \\mathrm { 0 } } = - \\ K _ { 3 } \\Biggl ( \\frac { m } { K _ { 1 } \\ + K _ { 2 } m } \\Biggr ) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- K _ { 3 } \\mathrm { d } t = \\left( \\frac { K _ { 1 } + K _ { 2 } m } { m } \\right) ^ { 2 } \\mathrm { d } m = \\frac { K _ { 1 } ^ { \\ 2 } + \\ 2 K _ { 1 } K _ { 2 } m + K _ { 2 } ^ { \\ 2 } m ^ { 2 } } { m ^ { 2 } } \\mathrm { d } m \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "积分后可得： $- K _ { 3 } ( t - t _ { 0 } ) = - K _ { 1 } ^ { ~ 2 } \\bigg ( \\frac { 1 } { m } - \\frac { 1 } { m _ { 0 } } \\bigg ) + 2 K _ { 1 } K _ { 1 } \\ln \\bigg ( \\frac { m } { m _ { 0 } } \\bigg ) + { K _ { 2 } } ^ { 2 } \\big ( m - m _ { 0 } \\big )$ 取 $t _ { 0 } = 0$ 时质量的演化时标式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK _ { 3 } t = ( m _ { 0 } - m ) \\left[ { K _ { 2 } } ^ { 2 } + \\frac { { K _ { 1 } } ^ { 2 } } { m m _ { 0 } } \\right] + 2 K _ { 1 } K _ { 2 } \\mathrm { l n } \\left( \\frac { m _ { 0 } } { m } \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "再求解半径的演化时标，积分(10)式，令：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK _ { 4 } = { \\frac { 1 4 \\pi } { 3 G } } \\ ( \\ N _ { \\mathrm { H } } m _ { \\mathrm { H } } { V _ { 0 } } ^ { 3 } + 2 \\sigma T _ { \\mathrm { e } } ^ { 4 } ) = { \\frac { \\mathrm { x t . } } { \\mathrm { H } ^ { 3 } } } { \\frac { \\mathrm { x t . } } { \\mathrm { x } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "则有",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "再将(12)式的 $\\mathbf { \\nabla } _ { m }$ 代入上式后有",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { \\mathrm { d } R } { \\mathrm { d } t } } = K _ { 4 } { \\frac { R ^ { 4 } } { m ^ { 2 } } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } R } { \\mathrm { d } t } = K _ { 4 } \\frac { ( 1 - K _ { 2 } R ) ^ { 2 } R ^ { 4 } } { { K _ { 1 } } ^ { 2 } R ^ { 2 } } = K _ { \\mathrm { s } } ( 1 - K _ { 2 } R ) ^ { 2 } R ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "积分得 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK _ { \\mathrm { s } } \\int _ { 0 } ^ { t } \\mathrm { d } t = \\int _ { R _ { 0 } } ^ { R } \\frac { \\mathrm { d } R } { ( 1 - K _ { 2 } R ) ^ { 2 } R ^ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "右端积分式可用分解有理分式为部分分式的积分法积分，则有",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK _ { s } t = \\int _ { R _ { 0 } } ^ { R } \\frac { \\mathrm { d } R } { R ^ { 2 } } + \\int _ { R _ { 0 } } ^ { R } \\frac { 2 K _ { 2 } \\mathrm { d } R } { R } + \\int _ { R _ { 0 } } ^ { R } \\frac { { K _ { 2 } } ^ { 2 } \\mathrm { d } R } { \\left( 1 - K _ { 2 } R \\right) ^ { 2 } } + \\int _ { R _ { 0 } } ^ { R } \\frac { 2 K _ { 2 } \\mathrm { d } R } { 1 - K _ { 2 } R } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "所以半径演变的时标为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK _ { s } t = ( \\frac { 1 } { R _ { 0 } } - \\frac { 1 } { R } ) \\ + \\frac { { K _ { 2 } } ^ { 2 } ( R _ { 0 } - R ) } { \\left( 1 - K _ { 2 } R \\right) \\left( 1 - K _ { 2 } R _ { 0 } \\right) } + 2 K _ { 2 } \\mathrm { l n } \\frac { \\left( 1 - K _ { 2 } R _ { 0 } \\right) R } { \\left( 1 - K _ { 2 } R \\right) R _ { 0 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中，",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK _ { 5 } = K _ { 4 } / K _ { 1 } ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4质量损失率和半径收缩率对自转角速度变化的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当星体引力收缩时半径缩小，自转角速度加快，而当质量流失时自转角速度变慢。金牛T星的自转角速度变化是在引力收缩半径缩小和抛射物质使质量减少两种因素联合作用下产生的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当星体抛射物质时除损失质量外，还要损失角动量，损失的角动量是由抛射物质带走的动量。所以金牛T星抛射物质时损失的角动量应该等于被抛射物质带走的角动量。设金牛T星的自转角速度为 $\\omega$ ，回转半径为 $K _ { \\mathrm { s } } R$ ，而 $K _ { \\mathrm { d } } R$ 是抛射物质 $\\mathrm { d } m$ 的回转半径。如果抛射物质是各向同性（球对称），按角动量守恒有[20]",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { d } ( K _ { \\mathrm { s } } R ^ { 2 } m \\omega ) = K _ { \\mathrm { d } } R ^ { 2 } \\omega \\mathrm { d } m \\ . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "写成角动量和质量损失率的形式：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "微分后有",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } ( K _ { \\mathrm { s } } R ^ { 2 } m \\omega ) } { \\mathrm { d } t } = K _ { \\mathrm { d } } R ^ { 2 } \\omega \\frac { \\mathrm { d } m } { \\mathrm { d } t } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\frac { K _ { \\mathrm { s } } - K _ { \\mathrm { d } } } { K _ { \\mathrm { s } } } ) \\frac { 1 } { m } \\frac { \\mathrm { d } m } { \\mathrm { d } t } + \\frac { 2 } { R } \\frac { \\mathrm { d } R } { \\mathrm { d } t } + \\frac { 1 } { \\omega } \\frac { \\mathrm { d } \\omega } { \\mathrm { d } t } = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $K _ { \\mathrm { s } }$ 对于不同多方模型星的指数 $n$ 有不同值，当恒星进入主序星时 $K _ { \\mathrm { s } }$ 值很小，一般取 $K _ { \\mathrm { s } } = 0 . 1$ ，但在主序前阶段，如金牛 $\\mathrm { \\Delta T }$ 星的 $K _ { \\mathrm { s } }$ 值比1较大。根据文「20]对于多方指数 $n = 1 . 5$ （本文所取的值为第2节第(6)条)所对应的 $K _ { \\mathrm { s } }$ 值，查表可知 $K _ { \\mathrm { s } } = 1 / 5 = 0 . 2$ 。由于抛射物质各向同性，所以取 $K _ { \\mathrm { d } } = 2 / 3$ 。故由上式可得角速度相对变化率为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { \\omega } / \\omega = \\frac { 7 } { 3 } \\frac { \\dot { m } } { m } - 2 \\frac { \\dot { R } } { R } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如果考虑 $\\scriptstyle t = 0$ 时目前的角速度相对变化率，可写成：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { \\omega } \\left( 0 \\right) / \\omega ( 0 ) = \\frac { 7 } { 3 } \\frac { \\dot { m } ( 0 ) } { m ( 0 ) } - 2 \\frac { \\dot { R } ( 0 ) } { R ( 0 ) } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\omega ( 0 )$ 、 $m ( 0 )$ 和 $R ( 0 )$ 皆为目前 ${ \\bf \\chi } _ { t = 0 } ^ { } \\mathrm { { , } }$ 的角速度、质量和半径，而 $\\dot { \\omega } ( 0 )$ 、 $\\dot { m } ( 0 )$ 和 $\\dot { R } \\left( 0 \\right)$ 是目前( $\\mathit { \\check { \\Psi } } _ { t } = 0 \\mathit { \\check { \\Psi } } _ { , }$ 的角速度变化率、质量损失率和半径收缩率。如果考虑角速度长期变化，积分(21-1)式有",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { \\mathrm { d } } { \\mathrm { d } t } } \\left( \\mathrm { l n } \\omega \\right) = { \\frac { 7 } { 3 } } { \\frac { \\mathrm { d } } { \\mathrm { d } t } } \\left( \\mathrm { l n } m \\right) - 2 { \\frac { \\mathrm { d } } { \\mathrm { d } t } } \\left( \\mathrm { l n } R \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ln \\left( \\frac { \\omega } { \\omega _ { 0 } } \\right) = \\ln \\left( \\frac { m } { m _ { 0 } } \\right) ^ { 7 / 3 } - \\ln \\left( \\frac { R } { R _ { 0 } } \\right) ^ { 2 } = \\ln \\left( \\frac { m } { m _ { 0 } } \\right) ^ { 7 / 3 } \\left( \\frac { R _ { 0 } } { R } \\right) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\therefore \\omega / \\omega _ { 0 } = \\left( \\frac { m } { m _ { 0 } } \\right) ^ { 7 / 3 } \\left( \\frac { R _ { 0 } } { R } \\right) ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\omega = \\omega _ { 0 } \\ \\left( m / m _ { 0 } \\right) ^ { 7 / 3 } \\left( R _ { 0 } / R \\right) ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\omega _ { 0 } , \\ m _ { 0 }$ 和 $R _ { 0 }$ 为 $\\scriptstyle t = 0$ 时的初始值。 $m$ 和 $R$ 随时间 $\\mathbf { \\chi } _ { t }$ 变化，由 $( 9 ) \\sim ( 1 0 )$ 式确定或由(15)和（18)式确定，故角速度 $\\omega$ 也是时间 $\\mathbf { \\chi } _ { t }$ 的函数，随时间变化。如果将(11)式的 $R$ 代入(22)式后可得角速 $\\omega$ 随星的质量变化而变化，即",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\omega = \\omega _ { 0 } \\bigg ( \\frac { m } { m _ { 0 } } \\bigg ) ^ { \\frac { 1 } { 3 } } \\bigg ( \\frac { K _ { 1 } + K _ { 2 } m } { k _ { 1 } + K _ { 2 } m _ { 0 } } \\bigg ) ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5理论结果对金牛T星(TTauri)长期演变的数值计算",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用前节所得的理论结果对金牛 $\\mathrm { \\Delta T }$ 星的质量、半径和自转角速度随时间的演变做一数值计算。先用文[2]给出金牛 $\\mathrm { \\Delta T }$ 星的各项物理参数：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { 0 } = 0 . 6 0 m _ { \\Theta } = 1 . \\ 1 9 3 \\ 4 \\times \\ 1 0 ^ { 3 3 } \\mathrm { g } \\ , \\ R _ { 0 } = 4 . 5 6 R _ { \\Theta } = 3 . 1 7 3 7 \\times \\ 1 0 ^ { 1 1 } \\mathrm { c m } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$T _ { \\mathrm { e } } ( { \\mathrm { \\Delta K } } ) { = } 4 ~ 1 0 0 ^ { \\mathrm { { \\circ } } } \\mathrm { { K } }$ ， $N _ { \\mathrm { H } } = 1 . 1 5 \\times 1 0 ^ { 1 0 }$ 个原子/ $\\mathrm { ^ { \\prime } c m } ^ { 3 }$ ， $V _ { \\mathrm { 0 } } { = } 2 2 5 \\ \\mathrm { k m / s }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "按物理量数据",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$M _ { \\mathrm { H } } = 1 . 6 7 3 ~ 5 \\times 1 0 ^ { - 2 4 } { \\mathrm { g } } , ~ \\sigma = 5 . 6 6 9 ~ 5 \\times 1 0 ^ { - 5 } { \\mathrm { e r g / c m } } ^ { 2 } ~ { \\mathrm { d e g } } ^ { 4 } { \\mathrm { s } }$ ， $G = 6 . 6 7 \\times 1 0 ^ { - 8 }$ （cgs制）将这些数据代入（13）、（14）、（16）、（17)式得",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$K _ { \\scriptscriptstyle 1 } = 1 . 2 8 5 8 0 \\times 1 0 ^ { 2 4 }$ （cgs制）， $K _ { \\scriptscriptstyle 2 } = - 1 . 0 8 8 7 5 \\times 1 0 ^ { - 9 }$ （cgs制）， $K _ { 3 } = 5 . 4 4 1 4 \\times 1 0 ^ { - 6 }$ （cgs制），（204号 $K _ { \\scriptscriptstyle 4 } = 7 . 0 9 0 7 0 \\times 1 0 ^ { 1 8 }$ （cgs制）， $K _ { 5 } = 4 . 1 7 5 6 0 \\times 1 0 ^ { - 3 0 }$ （cgs制）",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据以上数据和对常数 $K$ 计算的数值，可按理论式子推算金牛 $\\mathrm { ~ T ~ }$ 星在不同阶段演化时标对应的质量、半径和自转角速度长期演变的数值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "首先给出5个阶段质量损失的演变数值，即 $m { = } 0 . 9 9 9 9 9 9 9 9 9 9 m _ { 0 }$ 、 $0 . 9 9 9 9 9 9 0 m _ { 0 }$ 、 $0 . 9 9 9 9 9 9 9 0 0 m _ { 0 }$ 、$0 . 9 9 9 9 9 9 0 0 0 m _ { 0 }$ 和 $0 . 9 9 9 9 9 9 0 0 0 0 m _ { 0 }$ ，（ $m _ { 0 }$ 是现在的质量)以及 $K _ { 1 }$ 和 $K _ { 2 }$ 的数值代入(11)式可得5个演化阶段的半径演化数值。再将5个演化阶段的质量和半径的演变值以及初始值 $m _ { 0 }$ 和 $R _ { 0 }$ 代入(22)式得5个演化阶段的自转角速度 $\\omega$ 的演变值。最后再将初始质量 $m _ { 0 }$ 和5个演化阶段的质量损失数值以及$K _ { 1 }$ 、 $K _ { 2 }$ 和 $K _ { 3 }$ 的数值代入（15)式，即算出质量、半径和自转角速度在5个演化阶段对应的演化时标的数值，计算结果见表1。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/2349233d753405b1dd7c3b45ee91445e5b93246fcdb1c266a38fdd9f1da50cdb.jpg",
+        "table_caption": [
+            "表1在慢引力收缩阶段金牛T星的质量、半径、自转角速度随年龄的演化 Table 1In the step of the slow gravitational contraction the evolution of mass , radius and rotational angular velocity of T Tauri with age "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>m/mo</td><td>R/R0</td><td>ω/ω</td><td>t(yr)</td></tr><tr><td>0. 999 999 999</td><td>-0. 279 479 5</td><td>12. 806 25</td><td>3.250 2 × 104</td></tr><tr><td>0. 999 999 990</td><td>-0. 279 479 8</td><td>12. 806 23</td><td>3.260 2 × 10</td></tr><tr><td>0.999 999 900</td><td>-0. 279 482 2</td><td>12.806 22</td><td>3.2610×106</td></tr><tr><td>0.999 999 000</td><td>-0. 279 506 2</td><td>12. 800 17</td><td>3.2609 ×10</td></tr><tr><td>0.999 990 000</td><td>-0.279 746 87</td><td>12. 777 89</td><td>3.2611× 108</td></tr><tr><td>质量逐次减少</td><td>半径收缩逐次加大</td><td>自转角速度逐次减慢</td><td>时标</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）恒星诞生后开始进入快引力收缩阶段。在此阶段引力收缩占主导地位，质量损失可以不计，自转加快。当抛射物质时进入慢引力收缩阶段。此时质量损失占主导地位，引力收缩占次要地位，自转角速度渐慢。本文研究金牛T星演化快引力收缩终止，开始进入慢引力收缩阶段以后的演化进程。表1给出的数值是从快引力收缩开始时间 $\\scriptstyle t = 0$ 到慢引力收缩开始时间 $t = 3 . 2 5 0 2 \\times 1 0 ^ { 4 }$ 年以后到 $\\mathbf { \\nabla } _ { t } =$ $3 . 2 6 \\times 1 0 ^ { 8 }$ 的5个阶段演化的数值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）质量 $\\mathbf { \\nabla } _ { m }$ 和半径 $R$ 联立演化方程组的建立是在表面有效温度 $T _ { \\mathrm { e } }$ 和抛射物质速度 $V$ 为常量的情况下推出的。表面有效温度视为常量是根据第1节第(5)条，假设收缩星没进入主序前垂直于H-R图的横坐标(光谱型坐标上的有效温度)的路径而演化(Hayashi 演化轨迹)[17]，但这只是近似垂直，只限于没进入主序前期的演化阶段。当收缩星快要进入主序时演化路线向左弯曲而不垂直于H-R 图的光谱型横坐标，在此阶段 $T _ { \\mathrm { e } }$ 为常量就不适用。此外，金牛T星抛射物质速度 $V$ 视为不变。在慢引力收缩阶段，金牛T星的质量损失主要来自抛射物质，因能源只靠引力收缩能而尚无核能，故光子辐射(质量辐射)造成的质量损失也可不考虑。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）表中给出的数值理论上是合理的。第1行的数值表示金牛T星快引力收缩阶段终止，进入慢引力收缩阶段开始时间 $t = 3 . 2 5 \\times 1 0 ^ { 4 }$ 年的演化质量、半径和开始减慢速度的数值。第1列表示因抛射物质质量逐年减少；第2列表示半径逐年收缩尺度加大(负号表示半径收缩)；第3列表示自转角速度逐年减慢；第4列表示质量和半径的演化时标。根据文[12]对28颗金牛T星自转的观测，自转角速度的数值下降，但下降较少。本文表中自转角速度减速的变化值在5个阶段也很少，这说明和观测一致。表1的时标即质量从 $0 . 9 9 9 9 9 9 9 9 9 9 9 \\cdots$ 开始的演化时标也是半径从 $- 0 . 2 7 9 4 7 9 5 R _ { 0 }$ 开始的演化时标。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "7结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文研究的金牛T星是其它类型的金牛类星的典型星，它代表大多数金牛类型星的普遍性质。在慢引力收缩阶段，因抛射物质使质量逐渐减少，引力收缩使半径逐渐收缩增大尺度，自转角速度逐渐减慢。这些变化是理论和计算的结果，有待观测证实。但目前尚未观测到金牛T星的自转角速度加快的事实，正如前节讨论，根据文[17]对28颗金牛T星自转的观测，自转角速度在减慢。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] 戴文赛.天体演化研究的进展［J].科学通报，1973(4)：145-152.   \n[2] Kuhi L V. Mass loss from T Tauri stars [J]. The Astrophysical Journal,1964，140(4）:1409- 1433.   \n[3] Kuhi L V，Forbes IE. The effect of mass loss on a contracting star[J]. The Astrophysical Journal，1970，159：871-878.   \n[4] Cuperman S,Sternlieb A，Mestel L.Effect of mass loss by stellar winds on the pre-main sequence stage of stellar evolution [J].Monthly Notices of the Royal Astronomical Society，1974，167 (1):183-188.   \n[5] Decampli W M. T Tauri winds[J]. The Astrophysical Journal,1981，244(1）:124-146.   \n[6] Cohen M,Bieging JH, Schwartg PR. VLA observation of mass loss from T Tauri stars [J]. The Astrophysical Journal，1982，253(2) : 707-715.   \n[7] Cohen M.The case for anisotropic mass loss from T Tauri stars [J].Publications of the Astronomical Society of the Pacific，1982，94(558) : 266-270.   \n[8] MundtR.Mass loss in T Tauri stars-observational studies of the cool parts of their stellar winds and expanding shells [J]. The Astrophysical Journal,1985，280(2）:749-770.   \n[9] Armirtage P J,Clarke C J. The ejection of T Tauri stars from molecular clouds and the fate of circum stellar discs [J]. Monthly Notices of the Royal Astronomical Society，1977，285（3）: 540-546.   \n[10] Grankin K N. T Tarui stars: physical parameters an evolutionary status [J]. Astronomy Letters, 2016，42(5): 314-328.   \n[11] King A R，Regev O. Spin rates and mass loss in accreting T-Tauri stars [J]. Monthly Notices of the Royal Astronomical Society，1994，268(4） :L69-L73.   \n[12] Bouvier J，Bertout C，Benz W，et al.Rotation in T Tauri stars.I-obsevations and immedia analysis [J].Astronomy and Astrophysics，1986，165（1-2）:110-119.   \n[13] Herbst W,Booth JF,Chugainov PF,et al.The rotation period and inclination angle of T Tauri [J].The Astrophysical Journal，1986,310(15）:L71-L75.   \n[14] Bouvier T，Cabrit S，Fernandez M，et al.Coyotes-I-the photometric variability and rotational evolution of T-Tauri stars [J]. Astronomy and Astrophysics，1993，272(1）：176-206.   \n[15] Gameiro JF，Lago M T V T.Rotational velocities for T Tauri stars with strong emisson lines [J].Monthly Notices of the Royal Astronomical Society，1993，265(2）:359-364.   \n[16] Ghosh P.Rotation of T Tauri stars:accretion discs and stellar dynamos [J]. Monthly Notices of the Royal Astronomical Society，1995，272(4） : 763-771.   \n[17] Hayashi M.Pre-main sequence stage of stars [J].Publications of the Astronomical Society of Japan，1965，17(2): 177.   \n[18] Emden R. The internal constitution of the stars [M]. Cambridge：Cambridge University Press, 1926.   \n[19] Chandrasekhar S.An introduction to the study of stellar structure [M].New York：Dover Publications，1957.   \n[20] Schatzman E.The early stages of stellar evolution [C]//Proceedings of the XXVIIIth Course of the International School of Physics“Enrico Fermi”.1963, $1 9 2 - 1 9 3 + 2 0 5$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Evolutional Time Scale of Mass and Radius of T Tauri and Its Influence on the Rotation under the Action of the Ejected Material and Gravitational Contraction in the Step of the Slow Gravitational Contraction ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Li Linsen (School of Physics，Northeast Normal University，Changchun 130024,China,Email：dbsd-ls@163.com） ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract：The mass loss and radius contraction of T Tauri star under the role of the ejected material and gravitational contraction in the step ofthe slow gravitational contraction are studied.The evolutional equations determining the variation of mass and radius with time are established.The evolutional time scales of mass and radius are given.The influences of mass lossand radius contraction on the variation of the rotational angular velocity are given too.As example,the numerical effcts of mass lossand radius contraction on the rotational relative angular velocityare estimated in Table.In addition the obtained resultsare discussed and concluded. Key words:TTauri star； Slow gravitational contraction and ejected material；Evolution scales of mass and radius ； Change of rotational angular velocity ",
+        "page_idx": 6
+    }
+]

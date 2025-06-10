@@ -1,0 +1,253 @@
+# 基于最大偏差相似性准则的BP神经网络短期电力负荷预测算法
+
+罗育辉1，蔡延光1，戚远航²，黄何列1(1．广东工业大学 自动化学院，广州 510006;2．电子科技大学中山学院，广东 中山 528402)
+
+摘要：针对企业电力负荷随机性强、稳定性低、预测精度不理想等问题，提出了一种基于最大偏差相似性准则的 BP神经网络短期电力负荷预测算法。首先对最大偏差相似性准则算法进行修改，并提出使用预测日的负荷特征向量与最大偏差相似性准则算法聚类之后的类中心负荷特征的距离来确定预测日的相似日类别；然后将聚类后的相似日类别负荷数据作为BP网络的训练数据，输出预测日起始的连续三天96整点负荷值。实验表明，该方法提出的短期电力负荷预测方法在精度和网络训练时间上都有较大的提升，具有较高的有效性和实用性。
+
+关键词：需求响应；电力负荷预测；BP神经网络；最大偏差相似性准则；聚类算法中图分类号：TP301.6 doi:10.3969/j.issn.1001-3695.2018.05.0293
+
+# Short-term power load forecasting algorithm based on maximum deviation similarity criterion BP neural network.
+
+Luo Yuhui1, Cai Yanguangl†,Qi Yuanhang²,Huang Heliel (1.SchoolofAutomationGuangdongUniversityofechnology,Guangzhou510o6,China;2.UniversityofElectroniccience &Technology of China, Zhongshan Institute, Zhongshan Guangdong 528402, China)
+
+Abstract:This paper proposedA BP neural network short-term power load forecasting algorithm based on maximum deviationsimilarity criterion tosolve theproblemof strong randomnesslow stabilityandpoor predictionaccuracyThis method first modified the maximumdeviationsimilaritycriterion algorithm,and proposedtouse theloadfeature vectorof the forecastdayandthedistaneof thecenterloadcharacteristicafterclusteringtodeterminethe similardayclassofthe forecast day.Then,itusedthe similardailyclassloaddata afterclusteringasthe trainingdata ofBPnetwork,andoutput theloadof threeconsecutive days for96 points.The experiment shows thatthe short-term power load forecasting method proposed by this paper has great improvementin precision and network training time,and has high efectiveness and practicability.
+
+Key words:Demand Response;Power load forecasting；BP neural network；maximum deviation similarity criterion; clustering algorithm
+
+# 0 引言
+
+电力需求侧管理是指企业、用户通过搭建电能精细化管理系统来管理自己企业的用电情况。企业通过电能精细化管理系统进行设备改造、整体优化等技术措施，改善自身用电情况，从而达到节能减排、降低成本的效果[1,2]。需求响应[3\~8]（demandresponse,DR)是用电环节与其他各环节实现协调发展的关键手段，其中面向需求响应的电力负荷预测是电力需求侧管理的核心内容，是保障电网稳定、实现节能减排的重要手段。短期电力负荷预测是指预测未来一天或几天的整点电力负荷值，电力负荷的准确预测对电网的经济性与安全性具有重要的意义，高精度、速度快的预测方法是目前电力负荷研究的热点问题。目前，我国正在许多城市正在进行了电力需求侧管理综合改革，其中电力负荷曲线的聚类分析与精确的电力负荷预测是需求侧管理的重要技术支持，其目的在于帮助电网公司、电能服务商掌握用户的用电特性以实施需求侧管理方案，提高效益。
+
+目前，短期电力负荷预测的方法主要分为传统预测方法和人工智能算法两类。传统预测方法包括灰色预测法、线性回归法等；以人工智能算法为依据的预测方法主要包括有神经网络法[9]、支持向量机[10]、模糊系统[11]等。电力负荷预测一直都是国内外学者们研究的热点问题，经过国内外众多学者多年的研究，在电力负荷预测这一领域提出了许多优秀的预测方法，如分形外推法、基于概率密度的支持向量机回归法等[12-26]。由于影响企业电力负荷的因素复杂繁多，并且影响因素间具有极大的复杂性与不确定性，而单一的预测模型往往存在着一定的局限性，使用单一模型的预测精度往往不能达到精度的要求。因此，在实际应用中为了提高预测精度，往往需要对影响电力负荷的众多因素进行考虑，提取主要的、有效的影响因素作为特征，降低输入的维数，利用组合模型对电力负荷进行预测。例如，文献[27]提出一种基于BP-RBF的级联神经网络对电力负荷进行预测，将非负荷因素作为前级BP网络的输入量，输出为预测日的峰谷负荷，即利用BP网络大致给出预测日的负荷水平，利用预测日的负荷水平来选择预测日的相似类型，从而确定将何类负荷数据作为输入量输入到RBF神经网络，通过这样的级联神经网络对未来一日24整点的电力负荷预测，取得了较好的预测效果。文献[28]使用小波分解模糊灰色聚类对天气因素进行聚类，以预测日的天气因素通过聚类确定预测日的相似日类型，将同类型的负荷数据作为输入量输入到神经网络对负荷进行预测，效果有所改善。文献[29]在预测之前，对电力负荷的历史数据进行系统聚类。将历史负荷数据按照两两数据之间的距离进行聚类，使用合并类的方式将类别分为三类，时候使用同类数据作为神经网络的输入进行负荷预测，使得负荷预测的精度有所提高。但是，许多学者只使用预测日的峰谷负荷来描述预测日的大致负荷水平，忽略了企业本身的用电特性与规律，其难以准确描述预测日的负荷水平，而且后级的RBF网络输入数据规模也较大。
+
+因此，基于我们之前研究工作，并针对以上所述问题，本文提出了一种基于最大偏差相似性准则的BP神经网络（maximum deviation similarity criterion bp neural network,MDSCBPNN）进行短期电力负荷预测。首先，MDSCBPNN利用MDSC算法对负荷曲线进行聚类，将形态相似且负荷差值在一定区间内的负荷曲线聚为一类，获取较为稳定的负荷数据曲线，降低负荷的不稳定性。进一步，MDSCBPNN 利用预测日近100天负荷数据的平均负荷，最大负荷，最低负荷与日用电量作为训练数据输入BP网络，获取预测日的平均负荷，最大负荷，最低负荷与日用电量，作为预测日的大致负荷水平，由预测日的平均负荷，最大负荷，最低负荷与日用电量构成预测日负荷特征向量 $\boldsymbol { V } _ { \circ }$ 然后，在预测日的相似日的选择上，本文使用预测日的负荷特征向量 $V$ 与聚类后的类中心负荷特征的距离最小值来判断预测日的相似类别，这样可以较为准确地确定预测日的相似日类别。最后，使用聚类后较为平稳的相似日负荷数据作为BP神经网络的训练数据，能够获得较为精确的预测日96整点电力负荷曲线。实验结果表明，本文提出的方法在短期电力负荷预测中得到的预测结果精度较高，神经网络训练速度快，性能优异，具有较高的实用性和合理性。
+
+# 1 最大偏差相似性准则BP神经网络模型
+
+# 1.1最大偏差相似性准则算法
+
+MDSC算法在对电力负荷数据进行聚类的时候是按照负荷数据的形态相似性，按照最大偏差相似性准则对负荷曲线进行聚类。这样对电力负荷曲线进行聚类时存在着同类负荷曲线负荷数值差异太大、最大偏差相似性准则并没有考虑负荷中某一两个点可能出现跳跃峰值的缺陷，所以本文针对电力负荷数据聚类这一实际应用，对MDSC算法作以下修改，加入偏差限制区间并用原始的负荷数据进行聚类，确保准确反映企业用户的用电特性和需求响应潜力。
+
+MDSC算法的具体内容如下：
+
+设有 $n$ 个 $\mathbf { \nabla } m$ 维的电力负荷数据，第 $i$ 个电力负荷数据为$\boldsymbol { x } _ { i } { = } ( x _ { i 1 } , x _ { i 2 } , { \ldots } { } , x _ { i m } )$ ，其中 $X _ { i k }$ 为第 $i$ 个负荷数据第 $k$ 个时间点的负荷值， $\scriptstyle i = 1 , 2 , \ldots , n$ ， $k { = } 1 , 2 , . . . , m$ 。
+
+a）设 $s _ { i j k }$ 为 $x _ { i }$ 与 $x _ { j }$ 对应时间点的绝对差值， $i , j { = } 1 , 2 , . . . , n$ $k { = } 1 , 2 , . . . , m$ ，其计算公式如下：
+
+$$
+\mathbf { \sigma } _ { S _ { i j k } } = \mid x _ { i k } - x _ { j k } \mid
+$$
+
+b）设满足 $s _ { i j k } \leq \gamma$ 的 $s _ { i j k }$ 个数为 $n _ { i j }$ ，称 $n _ { i j }$ 为 $x _ { i }$ 与 $x _ { j }$ 的相似时点数；设连续满足 $\gamma < s _ { i j k } < \delta$ 的 $s _ { i j k }$ 最大个数为 $m _ { i j }$ ，称 $m _ { i j }$ 是 $x _ { i }$ 与 $x _ { j }$ 的最大连续偏离时点数， $i , j { = } 1 , 2 , . . . , n$ ， $k { = } 1 , 2 , . . . , m$ 。其中，2 $( 0 { \leq } \gamma { \leq } 1 ) ^ { \cdot }$ )为预设常数，称最大偏差，它是衡量两个对应时间点负荷值相似性的阀值；δ为最大偏离点允许偏差；当 $s _ { i j k } \leq \gamma$ 时，则认为 $x _ { i k }$ 和 $x _ { j k }$ 相似，否则不相似；若 $s _ { i j k } > \delta$ ，则认为两曲线不相似； $m _ { i j }$ 的具体表达式如下:
+
+$$
+\begin{array} { r } { m _ { i j } = \mathsf { m a x } \{ \ s | \exists \ k _ { 0 } , 1 \leqslant k _ { 0 } \leqslant m , \gamma < s _ { i j k _ { 0 } } \ < \delta , } \\ { \gamma < s _ { i j ( k _ { 0 } + 1 ) } < \delta , . . . \gamma < s _ { i j ( k _ { 0 } + s - 1 ) } \ < \delta \} } \end{array}
+$$
+
+本文中为了将电力负荷数据中不平稳降到最低，》取值为0.10，8取值为0.25。
+
+以负荷数据 $x _ { i }$ 为对比中心，计算 $x _ { j }$ 与 $x _ { i }$ 之间的 $n _ { i j }$ 和 $m _ { i j }$ $i , j { = } 1 , 2 , . . . , n$ ，如果 $n _ { i j }$ 和 $m _ { i j }$ 同时满足下列两个条件：
+
+(a） $n _ { i j } { \ge } n _ { 0 }$ 。其中 $\scriptstyle n _ { 0 } = [ a \times m ]$ ， $\alpha \ : ( 0 { \leq } \alpha { \leq } 1 )$ 为预设常数说，称为相似度；
+
+(b） $m _ { i j } { \le } m _ { 0 }$ 。其中 $m _ { 0 } = [ \beta \times m ]$ ， $\beta$ $( 0 { \leq } \beta { \leq } 1 - \alpha )$ 为预设常数，称为连续偏离度，简称偏离度。
+
+称条件(a)(b)为最大偏差相似性准则。则称负荷数据 $x _ { j }$ 与$x _ { i }$ 相似，也认为所有与 $x _ { i }$ 相似的 $x _ { j }$ 都是相似曲线。
+
+本文中为了使得形态相似、偏离度较低的曲线聚为一类，$\scriptstyle a$ 取值为0.80， $\beta$ 取值为 $0 . 2 0$ 0
+
+c）对于一切 $i , j { = } 1 , 2 , . . . , n$ ，且 $i { < } = j$ ，以 $x _ { i }$ 为对比中心，把$n _ { i j } , ~ m _ { i j }$ 分别与 $n _ { 0 } , \ m _ { 0 }$ 比较，将所有满足最大偏差相似性准则的$x _ { j }$ 分到 $S ( x _ { i } )$ 中，即令 ${ \cal { S } } ( x _ { i } ) { = } S ( x _ { i } ) \cup \{ x _ { j } \}$ ，并将 $x _ { j }$ 从原始负荷数据集合U中除去，其中 $S ( x _ { i } )$ 为与 $x _ { i }$ 相似的曲线集合，并按（4)
+
+式计算 $D ( x _ { i } )$ 。
+
+$$
+D \big ( x _ { i } \big ) = \sum _ { x _ { j } \in S \left( x _ { i } \right) } \ d \left( x _ { i } , x _ { j } \right)
+$$
+
+若 $x _ { i }$ 为令 $D ( x _ { i } )$ 取得最小值的负荷曲线，则 $x _ { i }$ 为 $S ( x _ { i } )$ 类的类中心。其中 $d \big ( x _ { i } , x _ { j } \big )$ 的计算公式为
+
+$$
+d ( x _ { i } , x _ { j } ) = \mid x _ { i } - x _ { j } \mid = \sqrt { \sum _ { k = 1 } ^ { m } s _ { i j k } ^ { 2 } }
+$$
+
+其中： $i , j { = } 1 , 2 , . . . , n ,$ 0
+
+# 1.2 BP神经网络
+
+采用三层BP神经网络模型，即输入层、隐含层、输出层。使用BP网络对预测日的平均负荷 $\nu _ { 1 }$ ，最大负荷 $\nu _ { 2 }$ ，最小负荷$\mathbf { \sigma } _ { \nu 3 }$ 和日用电量 $\nu _ { 4 }$ 进行预测，获取预测日的负荷水平特征向量 $\boldsymbol { V } _ { \circ }$ 因为电力负荷的影响因素非常复杂且具有不确定性，距离预测日越远的电力负荷数据往往不能反映近期的用电特性，故利用预测日往前100天的历史负荷数据作为训练数据，输出预测日的负荷水平特征向量 $V .$ 0
+
+本文中所有BP神经网络隐含层的神经元个数按照式（5）确定。
+
+$$
+H = { \sqrt { M + N } } + a
+$$
+
+其中： $H$ 为隐含层的神经元个数； $M$ 为输入层的神经元个数； $N$ 为输出层的神经元的个数； $\mathbf { \Delta } _ { a }$ 为[0,10]的常数。隐含层的神经元传递函数为
+
+$$
+g \left( x \right) = \frac { 1 } { 1 + e ^ { - x } }
+$$
+
+由预测日的平均负荷 $\nu _ { 1 }$ ，最大负荷 $\mathbf { \sigma } _ { \nu 2 }$ ，最小负荷 $\nu _ { 3 }$ 和日用电量 $\mathbf { \sigma } _ { \nu _ { 4 } }$ 构建预测日负荷水平特征向量 $V$
+
+$$
+V = [ \nu _ { 1 } , \nu _ { 2 } , \nu _ { 3 } , \nu _ { 4 } ] ^ { T }
+$$
+
+第 $i$ 类负荷曲线 $S ( x _ { i } )$ 的类中心为 $x _ { i }$ ，其平均负荷为 $\nu x _ { i 1 }$ ，最大负荷为 $\nu x _ { i 2 }$ ，最小负荷为 $\nu x _ { i 3 }$ ，日用电量为 $\nu x _ { i 4 }$ ；则预测日负荷水平特征向量 $V$ 与历史各类别曲线的类中心 $x _ { i }$ 的距离由式（8）给出。
+
+$$
+d \left( x _ { i } , V \right) = \frac { 1 } { 4 } \sum _ { j = 1 } ^ { 4 } \omega _ { j } \left( \nu x _ { i j } - \nu _ { j } \right) \mathsf { P }
+$$
+
+其中 $\omega _ { j }$ 为权重系数。
+
+本文中 $\omega _ { j }$ 的取值为： $\omega _ { \mathrm { i } } { = } 0 . 3$ ， $\omega _ { 2 } { = } 0 . 3$ ， $\omega _ { 3 } { = } 0 . 3$ ， ${ \omega } _ { 4 } \mathrm { { = } } 0 . 1$ 。
+
+预测日的负荷曲线类别由使得式（8）取最小值的负荷曲线 $x _ { i }$ 的类别 $Z$ 决定，即
+
+$$
+Z = \operatorname* { m i n } \{ i \mid d \left( x _ { i } , V \right) \}
+$$
+
+其中： $\scriptstyle i = 1 , 2 , 3 \ldots , k$ ；为历史负荷曲线的所有类别数； $Z$ 为使得$d ( x _ { i } , V )$ 最小的负荷曲线 $x _ { i }$ 类别序号。
+
+# 1.3基于最大偏差相似性准则BP神经网络的预测流程
+
+使用BP网络对负荷数据进行负荷预测之前，需要对负荷数据进行归一化，使用式（10）对负荷数据进行归一化：
+
+$$
+x _ { i k } = { \frac { x _ { i k } - x _ { \operatorname* { m i n } } } { x _ { \operatorname* { m a x } } - x _ { \operatorname* { m i n } } } }
+$$
+
+其中： $x _ { i k }$ 为第 $i$ 天负荷曲线的第 $k$ 个时刻的负荷值，xmax，Xmin分别为电力负荷数据的最大值和最小值；这样可使得负荷数据落在[0,1]内，加快神经网络的收敛。
+
+基于MDSC-BP神经网络模型的预测流程步骤如下：
+
+a)对所有负荷曲线 $\boldsymbol { x } _ { i } { = } ( x _ { i 1 } , x _ { i 2 } , { \ldots } { } , x _ { i m } )$ ， $\scriptstyle i = 1 , 2 , \ldots , n$ ，由式（1）（2）计算两负荷曲线 $x _ { i }$ ， $x _ { j }$ ， $j { = } 1 , 2 , . . . , n$ ， $j \neq i$ 间的相似度 $n _ { i j }$ 和偏离度 $m _ { i j }$ ，并由最大偏差相似性准则判断 $x _ { i }$ ， $x _ { j }$ 是否为同一类，直至遍历所有负荷曲线 $\boldsymbol { x } _ { i } { = } ( x _ { i 1 } , x _ { i 2 } , { \ldots } { } , x _ { i m } )$ ， $\scriptstyle i = 1 , 2 , \ldots , n$ ，获得聚类结果 $R$ ，类别数量为 $r _ { \odot }$
+
+b)由式（3）（4）计算类别 $S ( x _ { i } )$ ， $\scriptstyle i = 1 , 2 , \ldots , r$ 的 $D ( x _ { i } )$ ，并求的使 $D ( x _ { i } )$ 最小的类中心 $x _ { i }$ 。
+
+c)初始化BP 网络。
+
+d)将历史负荷由式（10）进行归一化。
+
+e)将预测日前100天的负荷数据的平均负荷 $\mathbf { \Psi } _ { \nu 1 }$ ，最大负荷$\mathbf { \sigma } _ { \nu _ { 2 } }$ ，最小负荷 $\nu _ { 3 }$ 和日用电量 $\nu _ { 4 }$ 作为输入数据，输出得到预测日的负荷水平特征向量 $V$ 。
+
+f)对步骤a)b)中获取的所有类别 $S ( x _ { i } )$ 与其对应的类中心 $x _ { i }$ $\scriptstyle i = 1 , 2 , \ldots , r$ ，由式（8）计算预测日负荷水平特征向量 $V$ 与各类别曲线的类中心 $x _ { i }$ 的距离 $d \left( { { \boldsymbol { x } } _ { i } } , V \right)$ 。
+
+g)由式（9）判断预测日的相似类别 $Z _ { \circ }$
+
+h)将第 $Z$ 类的负荷数据作为训练数据输入BP神经网络，计算网络输出误差ε。
+
+i)若BP网络输出误差ε满足精度要求，则转步骤j)；否则转到步骤h)。
+
+j)使用训练好的BP网络进行负荷预测，输出预测日的96整点负荷值。
+
+# 2 实验与分析
+
+本文以某企业2016年1月1日至2017年5月15日的历史电力负荷数据作为训练样本，利用本文所提方法对企业2017年5月16日至2017年5月18日三天的电力负荷曲线进行预测。本文中的电力负荷数据曲线为从00:00开始到23:45，每隔15分钟采样一次，计算该时刻的瞬时负荷值，故一天的电力负荷曲线由96个整点负荷值组成。
+
+# 2.1聚类结果与分析
+
+首先，用MDSC算法对某企业2016年1月1日至2017年5月15日共501天的历史电力负荷数据进行聚类。使用MDSC算法对历史电力负荷数据进行聚类后，总共将历史负荷数据划分为130类，其中前16类的聚类结果如表1所示。由表1可以看出：前6类负荷数据共365天，占了历史负荷数据近 $7 2 \%$ 的比例，所占比例较大，能较好反映出企业的用电规律；第7类至第130类中每一类的负荷数据非常之少，且大部分都是各自为一类（第16类开始到第130类全是每天各自为一类），因此，可将第7类到第130类的负荷数据视为偏离日数据。其中，前6类负荷聚类图如图1所示。值得注意的是，在图1 $( f )$ 中，负荷的数值几乎全部为零，这是因为第6类的负荷数据为企业休息日时的数据，即第6类数据的日期是企业的休息日或是节假日。
+
+进一步。使用BP神经网络获取预测日的负荷水平特征向量 $V$ ，将预测日前近100天平均负荷、最大负荷、最小负荷和日用电量作为BP网络的输入数据，输出预测日的负荷水平特征向量 $V _ { \odot }$ 。由前述的聚类分析可知第7类到第130类的负荷数据为偏离日数据，故本文在计算距离 $d ( x _ { i } , V )$ 时只计算预测日的负荷水平特征向量 $V$ 与前6类的负荷类中心的距离，并由式（9）确定使得 $d ( x _ { i } , V )$ 最小的负荷曲线类别Z，Z 即为预测日的相似类别。预测日的负荷水平特征向量 $V$ 与前6类的负荷中心的距离计算结果如表2所示。由表2可知预测日的特征向量与第1类的类中心的距离 $d ( x _ { i } , V )$ 最小，故选择第1类负荷数据为BP神经网络训练数据输入量。
+
+表2V与各类中心距离  
+
+<html><body><table><tr><td>2</td><td>2016-09-20</td><td>74</td><td>10</td><td>2017-02-07</td><td>2</td></tr><tr><td>3</td><td>2016-04-18</td><td>25</td><td>11</td><td>2016-08-31</td><td>2</td></tr><tr><td>4</td><td>2017-02-23</td><td>25</td><td>12</td><td>2016-03-26</td><td>2</td></tr><tr><td>5</td><td>2016-02-24</td><td>10</td><td>13</td><td>2017-09-22</td><td>2</td></tr><tr><td>6</td><td>2017-01-27</td><td>9</td><td>14</td><td>2016-09-26</td><td>2</td></tr><tr><td>7</td><td>2016-08-18</td><td>4</td><td>15</td><td>2016-03-20</td><td>2</td></tr><tr><td>8</td><td>2017-03-20</td><td>3</td><td>16</td><td>2016-01-01</td><td>1</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="2">d(x,V)</td><td colspan="3">预测日</td></tr><tr><td>2017-05-16</td><td>2017-05-17</td><td>2017-05-18</td></tr><tr><td>X</td><td>0.0160</td><td>0.0147</td><td>0.0383</td></tr><tr><td>x2</td><td>0.0252</td><td>0.0352</td><td>0.0444</td></tr><tr><td>X3</td><td>0.0207</td><td>0.0151</td><td>0.0557</td></tr><tr><td>X4</td><td>0.0320</td><td>0.0387</td><td>0.0396</td></tr><tr><td>X5</td><td>0.0470</td><td>0.0555</td><td>0.0516</td></tr><tr><td>X6</td><td>0.02302</td><td>0.2364</td><td>0.2139</td></tr></table></body></html>
+
+![](images/224344ff1c139b9be532b09a3c97e96fa0fb1c6ab1a86bf51fbb0c6bf62170cb.jpg)  
+图1MDSC电力负荷聚类分析图
+
+# 2.2 预测结果分析
+
+本文采用MDSC-BP神经网络模型对某企业2017年5月
+
+16日至2017年5月18日三天的96个整点负荷值进行预测，预测结果如图2所示，对比结果如图3和表3所示。其中，本
+
+文在对预测结果进行分析的时候，采用的误差指标对实验数据进行评价。在实验结果分析中，统计电力负荷曲线中各个对应时刻点的误差，其中误差的计算公式为
+
+$$
+e = \frac { | \hat { y } _ { i k } - y _ { i k } | } { y _ { i k } }
+$$
+
+其中： $\hat { y } _ { i k }$ 为第i $\scriptstyle ( i = 1 , 2 , 3$ ）天第 $k$ $\Bumpeq ( k { = } 1 , 2 , 3 , . . . , 9 6$ ）个时刻的电力负荷预测值， $y _ { i k }$ 为 $i$ 天第 $k$ 个时刻的电力负荷真实值。并以最大误差 $e _ { \mathrm { m a x } }$ ，最小误差 $e _ { \mathrm { m i n } }$ 和平均误差 $e _ { \mathrm { a v } }$ 做为评价精度高低的指标。其中 $e _ { \mathrm { m a x } }$ ， $e _ { \mathrm { m i n } }$ 和 $e _ { \mathrm { a v } }$ 的计算公式为
+
+$$
+\begin{array} { c } { { e _ { \mathrm { m a x } } = { \bf m } { \bf a } \times \left( { e _ { i } } \right) } } \\ { { e _ { \mathrm { m i n } } = { \bf m } { \bf i } { \bf n } \left( e _ { i } \right) } } \\ { { e _ { a \nu } = { \displaystyle \frac { 1 } { 9 6 } \sum _ { i = 1 } ^ { 9 6 } } e _ { i } } } \end{array}
+$$
+
+其中 $\scriptstyle i = 1 , 2 , 3 \ldots 9 6$
+
+从图2的负荷曲线预测结果可以看出，利用本文提出的MDSC-BP神经网络得到负荷预测值更加与真实值更加吻合，本文方法的预测值在负荷的变化趋势上与真实值的变化趋势更加相近，没有如单一的BP神经网络预测那样出现过高的尖峰或者过低的谷峰，预测曲线更加平稳，贴近真实值。从图3的负荷预测误差图中可以看出，本文方法的预测结果误差均在$10 \%$ 左右，且位于 $10 \%$ 以下的数据点居多，误差平稳，没有如单一BP那样出现过高的尖峰；在每一个负荷点的预测精度上，几乎所有点的误差都有较大的提升，其中最大误差降低了近$70 \%$ ，平均误差有近一倍的降低，而除了第一天的最小误差较高之外，其余天数的负荷曲线的最低误差达到了0，即存在负荷值完全相同的点；在表3负荷预测结果对比中可以看出本文提出的模型在各点负荷值的最大误差、平均误差、最小误差上均有较好的提升，平均误差有近一倍的降低，且各个点误差较低、平稳。本文的模型在神经网络的训练速度上有了将近一倍的提升，使得预测速度更快、效率更高。结合图1\~3可以得出结论，在进行电力负荷预测之前，对负荷数据进行聚类分析，将形态相似且数值相差不大的数据聚为一类之后，可以降低负荷的不稳定性，使得负荷曲线呈现出其规律，聚类后的负荷数据稳定。利用聚类后稳定的电力负荷数据作为神经网络的训练数据，对负荷进行预测，可以获得更加精确的效果，并且可以使得神经网络的训练时间，预测速度更快，效率更高。
+
+本文在进行电力负荷预测之前采用MDSC算法对电力负荷曲线进行聚类，将原本不稳定、无规律的负荷数据按照其企业本身的用电特性区分开，聚类后的负荷数据在形态相似以及负荷数值上稳定，可以使得BP神经网络的负荷预测结果更加精确，不会因为负荷的不稳定与尖峰值导致预测值的过大或过小，出现尖峰与低谷，偏离实际值过远。
+
+表3负荷预测结果对比  
+
+<html><body><table><tr><td>预测日</td><td>统计项目</td><td>MDSC-BP</td><td>BP</td></tr><tr><td rowspan="3">第一天</td><td>平均误差/%</td><td>6.24</td><td>13.68</td></tr><tr><td>最大误差/%</td><td>18.29</td><td>80.93</td></tr><tr><td>最小误差/%</td><td>0.26</td><td>0.19</td></tr><tr><td rowspan="3">第二天</td><td>平均误差/%</td><td>6.33</td><td>11.31</td></tr><tr><td>最大误差/%</td><td>16.50</td><td>92.16</td></tr><tr><td>最小误差/%</td><td>0.00</td><td>0.13</td></tr><tr><td rowspan="3">第三天</td><td>平均误差/%</td><td>5.78</td><td>12.06</td></tr><tr><td>最大误差/%</td><td>15.81</td><td>92.65</td></tr><tr><td>最小误差/%</td><td>0.00</td><td>0.25</td></tr><tr><td></td><td>训练时间/s</td><td>257.21</td><td>453.18</td></tr></table></body></html>
+
+![](images/26c2c26a60423e9fb15908a6b71e3d4ea86304029563187fe50d3e653135ece0.jpg)  
+(b)第2天负荷预测结果
+
+![](images/8373d29019dce9b99b9be3ab16bc15a2a3c4a9f4dfe33331a812194970ff0f62.jpg)
+
+![](images/142104107ecb8f25c60f1f938719e83188b6fb7644f9609ae644774a69586fd3.jpg)  
+图2负荷曲线预测结果
+
+![](images/82c9b33e60c4d560951154e88036ae3a3af1cbab1a0c483c09f02213e0c28fde.jpg)  
+(a)第1天负荷预测误差图
+
+![](images/b3e865e39f9fd6a674e3c583ce34a7c13f27fce921f20db2af392d0cf7ecc0f1.jpg)  
+(b)第2天负荷预测误差图  
+(c)第3天负荷预测误差图  
+图3负荷预测误差图
+
+# 3 结束语
+
+本文提出的基于MDSC-BP神经网络模型的短期日负荷预测方法。首先用MDSC算法针对历史点负荷数据进行聚类分析，使得形态相似且负荷数据偏差在一定范围内的数据归为一类，这样既能够反映企业的用电特性又使得同类数据中的负荷不平稳性降低，使得负荷平稳，不会出现不规律的尖峰与谷峰。进一步将预测日近100天负荷数据的平均负荷、最大负荷、最低负荷与日用电量作为训练数据输入BP网络，获取预测日的平均负荷、最大负荷、最低负荷与日用电量作为预测日的大致负荷水平，由预测日的平均负荷、最大负荷、最低负荷与日用电量构成预测日负荷特征向量V；然后由 $V$ 与聚类后的负荷类中心的距离来判断预测日的负荷相似类别是第几类，即距离最小的那一类即为预测日的负荷相似类别。最后将预测日相似类别的负荷数据作为BP网络的训练数据，获得预测日起三天的96整点电力负荷曲线。从实验分析结果中可以看出，使用本文方法对本文对某企业的三天短期日负荷曲线进行预测，每一个时间点的预测误差都有较大的降低，最大误差降低近 $70 \%$ ，平均误差降低近一倍，且神经网络的训练时间更短，比单一神经网络的训练提升近一倍，使得效率更高，预测更快。实验结果表明，本文提出的方法具有更高的精度和更短的网络训练时间，具有较强的实用性与合理性。
+
+# 参考文献：
+
+[1] 黄何列，蔡延光，蔡颢，等．基于最大偏差相似性准则的交通流聚类算 法[J/OL].计算机应用研究，2018,35(8）.(2017-07-21）[2018-04-25]. http://kns.cnki.net/kcms/detail/51.1196.TP.20170721.1352.046.html. (Huang Helie,Cai Yanguang,Cai Hao,et al. Traffic flow clustering algorithm based on maximum [J/OL]. Application Research of Computers, 2018，35(8）．(2017-07-21）[2018-04-25].http://kns.cnki. net/kcms/detail/51.1196.TP.20170721.1352.046. html.)   
+[2] 闫华光，陈宋宋，钟鸣，等．电力需求侧能效管理与需求响应系统的研 究与设计 [J].电网技术，2015，39(1):42-47.(Run Huaguang，Chen Songsong, Zhong Ming,et al. Research and design of power demand side energy efficiency management and demand response system [J]. Power System Technology,2015,39(1): 42-47.)   
+[3]田世明，王蓓蓓，张晶．智能电网条件下的需求响应关键技术[J]．中 国电机工程学报,2014,34 (22):3576-3589.(Tian Shiming,Wang Beibei, Zhang Jing.Key technology of demand response under the condition of smart grid [J].Proceedings of the CSEE,2014,34 (22): 3576-3589.)   
+[4]杨旭英，周明，李庚银．智能电网下需求响应机理分析与建模综述[J]. 电网技术,2016,40 (1):20-226. (Yang Xuying,Zhou Ming,Li Gengying. Overview of demand response mechanism analysis and modeling in Smart Grid [J].Power System Technology,2016,40(1): 220-226.)   
+[5]王蓓蓓．面向智能电网的用户需求响应特性和能力研究综述[J]．中国 电机工程学报,2014,34 (2): 3654-3663.(Wang Beibei.Review of user demand response characteristics and capabilities for smart grid [J]. Proceedings of the CSEE,2014,34 (22): 3654-3663.)   
+[6]盛万兴，史常凯，孙军平，等．智能用电中自动需求响应的特征及研究 框架[J]．电力系统自动化，2013,37(23):1-7.(ShengWanxing，Shi Changkai, Sun Junping,et al.Characteristics and research framework of automatic demand response in smart electricity consumption[J]. Automation of Electric Power Systems,2013,37 (23): 1-7.)   
+[7] 张禹森，孔祥玉，孙博伟，等．基于电力需求响应的多时间尺度家庭能 量管理优化策略[J].电网技术，2018(6):1811-1819.(Zhang Yuseng,
+
+Kong Xiangyu,Sun Jiwei,et al. Multi time scale family energy management optimization strategy based on power demand response [J]. Power System Technology,2018(6):1811-1819.)
+
+[8] 雷敏，魏务卿，曾进辉，等．考虑需求响应的负荷控制对供电可靠性影 响分析[J].电力系统自动化，2018，42(10):53-59.(Lei Ming，Wei WuQing,Zeng Jinhui,et al. Influence of load control on reliability of power supply considering demand response [J].Automation of Electric Power Systems,2018,42 (10): 53-59. )   
+[9] 张智晟，于道林．考虑需求响应综合影响因素的 RBF-NN 短期负荷预 测模型[J]．中国电机工程学报,2018,38 (6):1631-1638,1899. (Zhang Zhisheng，Yu Daolin.RBF-NN short-term load forecastingmodel considering the comprehensiveinfluence factors of demand response[J] Proceedings of the CSEE,2018,38(6):1631-1638,1899.)   
+[10]万强，王清亮，王睿豪，等．基于支持向量机的某地区电网短期电力负 荷预测[J]．电网与清洁能源,2016,32(12):14-20.(Wan Qiang，Wang Qingliang，Wang Ruihao,et al. Short term load forecasting based on support vector machine for a regional power grid [J]. Power System and Clean Energy,2016,32(12): 14-20.)   
+[11] Song KB,Baek Y S,Hong DH, et al.Short-term load forecasting for the holidays using fuzzy linear regression method [J]. IEEE Trans on Power Systems,2005,20 (1): 96-101.   
+[12] Liu Y,Zhai MY,LuLP,et al. An improved method for short-term power load forecasting based on fractal extrapolation [J].Applied Mechanics & Materials,2012,229:1077-1080.   
+[13] He Yaoyao,Liu Rui,Li Haiyan,etal. Short-term power load probability density forecasting method using kernel-based support vector quantile regressionand Copula theory[J].AppliedEnergy,2017,185(1): 254-266.   
+[14] Short M,Crosbie T,Dawood M,et al.Load forecasting and dispatch optimisation for decentralised co-generation plant with dual energy storage [J].Applied Energy,2017,186 (3):304-320.   
+[15] Dahl M, Brun A,Andresen G B. Using ensemble weather predictions in district heating operation and load forecasting[J].Applied Energy,2017, 193 (1): 455-465.   
+[16] Lusis P,Khalilpour KR,Andrew L,et al. Short-term residential load forecasting:Impact of calendar effectsand forecast granularity[J].Applied Energy,2017,205: 654-669.   
+[17]Liu Yang，Wang Wei,Ghadimi N.Electricity load forecasting by an improved forecast engine for building level consumers [J].Energy,2017, 139: 18-30.   
+[18]Vogler-Finck PJC,Bacher P,etal.Online short-term forecast of greenhouse heat load using a weather forecast service [J]. Applied Energy, 2017, 205: 1298-1310.   
+[19] Qiu Xueheng,Suganthan PN,Amaratunga G AJ.Ensemble incremental learning Random Vector Functional Link network for short-term electric load forecasting[J].Knowledge-Based Systems,2018,145:182-196.   
+[20]Broowski S,Bielecki A,Filocha M.Ahybridsystemfor forecastig24h power load profile for Polish electric grid [J].Applied Soft Computing
+
+2017,58:527-539.
+
+[21] Zhang Xiaobo,Wang Jianzhou,Zhang Kequan.Short-term electric load forecasting based on singular spectrum analysis and support vector machine optimized by Cuckoo search algorithm [J].Electric Power Systems Research,2017,146:270-285.   
+[22] Yaslan Y,Bican B.Empirical mode decomposition based denoising method with support vector regression for time series prediction:a case study for electricity load forecasting [J].Measurement,2017,103: 52-61.   
+[23] Panda SK,Jagadev AK,Mohanty SN.Forecasting methods in electric power sector [J].International Journal of Energy Optimization and Engineering,2018,7(1): 1-21.   
+[24]Kuster C,Rezgui Y,Mourshed M.Electrical load forecasting models:a critical systematic review [J]. Sustainable Cities and Society, 2O17,35: 257-270.   
+[25]Shepero M，Van Der Meer D，Munkhammar J，et al.Residential probabilistic load forecasting:A method using Gaussian process designed for electric load data [J].Applied Energy,2018,218:159-172.   
+[26] Fan Guofeng,Peng Liling,Hong Weichiang. Short term load forecasting based on phase space reconstruction algorithm and bi-square kernel regression model [J].Applied Energy,2018,224:13-33.
+
+[27]陈刚，周杰，张雪君，等.基于BP与RBF级联神经网络的日负荷预测 [J]．电网技术，2009,33(12):101-105.(Chen Gang，Zhou Jie,Zhang Xuejun,et al.Daily load forecasting based on BP and RBF cascaded neural network [J].Power System Technology,2009,33 (12): 101-105.)
+
+[28]张平，潘学萍，薛文超.基于小波分解模糊灰色聚类和 BP神经网络的 短期负荷预测[J].电力自动化设备，2012，32(11)： $1 2 1 - 1 2 5 + 1 4 1$ (Zhang Ping,Pan Xueping,Xue Wenchao.Short term load forecasting based on wavelet decomposition, fuzzy grey clustering and BP neural network [J].Electric Power Automation Equipment,2012,32 (11): $1 2 1 - 1 2 5 + 1 4 1 .$ ）
+
+[29]白杨，赵冠，窦金延，等．基于并行膜计算的短期电力负荷组合预测 [J]．电力系统保护与控制，2017,45(7):35-42.(Bai Yang,Zhao Guan, Dou Jingyan,et al. Short term load forecasting based on parallel membrane computing [J]. Power System Protection and Control,2O17，45(7): 35-42. )

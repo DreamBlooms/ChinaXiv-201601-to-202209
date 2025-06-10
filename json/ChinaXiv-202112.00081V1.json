@@ -1,0 +1,489 @@
+[
+    {
+        "type": "text",
+        "text": "乌鲁木齐冬季焚风天气过程大气扩散条件特征分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵克明¹，李娜¹，李霞²，孙鸣婧¹，施俊杰¹，安大维1，蒲洁，郑博华4",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.新疆气象台,新疆 乌鲁木齐830002；2.中国气象局乌鲁木齐沙漠气象研究所,新疆 乌鲁木齐830002;3.乌鲁木齐市气象局,新疆 乌鲁木齐830002；4.新疆维吾尔自治区人工影响天气办公室,新疆 乌鲁木齐830002摘要：利用逐时地面气象数据、探空秒级数据及风廓线雷达数据分析了2013—2017年乌鲁木齐低空焚风演变时边界层和近地层气象扩散条件的变化特征。结果表明：(1)乌鲁木齐大气扩散条件总体呈现夏季最有利，冬季最差(最大混合层厚度 $0 . 4 4 \\times 1 0 ^ { 3 } \\mathrm { m } .$ 通风系数 $1 . 5 2 { \\times } 1 0 ^ { 3 } \\ \\mathrm { m } ^ { 2 } \\cdot \\mathrm { s } ^ { - 1 }$ 、逆温层厚度 $7 6 8 \\mathrm { ~ m ~ }$ 、逆温层温差 $4 . 8 2 ^ { \\circ } \\mathrm { C }$ 、静稳指数6.36)，且冬季12月与1月极不利于污染物扩散。(2）冬季低空焚风演变的5个阶段，大气混合层厚度、通风系数呈减小一增大特征，焚风强盛期混合层厚度最低 $( 0 . 3 0 \\times 1 0 ^ { 3 } \\mathrm { ~ m } )$ 、通风系数最小（ $\\left( 0 . 6 2 { \\times } 1 0 ^ { 3 } \\ \\mathrm { m } ^ { 2 } \\cdot \\mathrm { s } ^ { - 1 } \\right)$ ；逆温层厚度及强度、静稳指数变化趋势为增大一减小特征，强盛期逆温最强 $( 1 0 . 9 ^ { \\circ } \\mathrm { C } )$ 、逆温层厚度 $( 0 . 9 9 \\times 1 0 ^ { 3 } \\mathrm { m } )$ 、静稳指数最大(9.7)。(3）低空焚风过程的发展期和强盛期各站气压减小，高海拔站点气温升高、风速增大，风层以下低海拔区域气温降低、风速减小，说明焚风使得焚风层以下区域的大气更加稳定，不利于污染物扩散。（4）总体上焚风致使水平扩散能力和垂直交换能力减弱，大气易凝结，结束后扩散条件重建。业务中可利用焚风发展趋势预判边界层扩散条件及地面气象要素的演变，为乌鲁木齐城市群空气污染预报和污染治理提供参考依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：低空焚风；边界层扩散条件；气象要素；乌鲁木齐文章编号： $1 0 0 0 - 6 0 6 0 { \\left( 2 0 2 1 \\right) } 0 6 - 1 5 3 4 - 1 1 { \\left( 1 5 3 4 \\sim 1 5 4 4 \\right) }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "乌鲁木齐是新疆的首府，全疆政治、经济、文化的中心，是中国连接中亚地区乃至欧洲的陆路交通枢纽，也是中国向西开放、开展对外经济文化交流的重要窗口。随着我国一带一路合作倡议的提出，乌鲁木齐作为新亚欧大陆桥中国段的西桥头堡，在中国西部乃至中亚经济发展中的地位和作用日益增强。然而这样一座重要的边城,虽然经济多年来一直相对落后，但是当地百姓却早已饱受大气污染带来的困扰。1999年乌鲁木齐与太原、北京位列全国十大污染城市前三名[1]。近20a来，尽管历经几次大规模污染治理2，但是近些年的卫星探测[3-4和地面监测数据5依然表明：乌鲁木齐至今还是全国污染最为严重的城市之一[6]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "乌鲁木齐大气污染严重的原因有多方面，除了人为污染物过量排放以外，与乌鲁木齐的复杂地形以及深受地形影响的气象条件密切相关。乌鲁木齐地处天山北麓、准噶尔盆地南缘。辖区地势起伏悬殊，山地面积广大。南部、东北部高，中部、北部低。最高点天山博格达峰顶，海拔 $5 4 4 5 \\mathrm { ~ m ~ }$ ；最低处在青格达湖的大渠南侧，海拔 $4 9 0 . 6 \\mathrm { ~ m ~ }$ 。两地水平距离仅 $7 5 ~ \\mathrm { k m }$ ,高差却达 $4 9 5 4 \\mathrm { ~ m ~ }$ 。乌鲁木齐市区位于中天山北麓的冲积平原上，东、西、南三面环山，海拔介于 $5 8 0 { \\sim } 9 2 0 ~ \\mathrm { m }$ ,平均海拔 $8 0 0 \\mathrm { ~ m ~ }$ ,大体为开口朝北的“喇叭口\"地形。市区同时处在北天山西段与东段的结合部一一中天山峡谷的北端，全国著名的风口达坂城则位于峡谷的中部,峡谷南端连接着陆地上海拔最低点一一吐鲁番盆地。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "冬季在静稳天气情形下，乌鲁木齐容易频发严重的大气污染事件[7]。同时，静稳天气下起源于中天山峡谷的低空型焚风在乌鲁木齐也频繁发生[8-10]。20世纪80一90年代新疆老一辈的气象工作者如张家宝等[10] 、孟齐辉等[1I-12]发现,当萨彦岭至蒙古一带海平面气压高于中亚一新疆伊犁地区、天山山脉南坡气压高于北坡的情形下，往往在中天山峡谷到其北端出现风力强劲的山口风。这股东南来向的山口风(当地称为东南大风)一年四季都可以袭扰乌鲁木齐市区，不仅持续时间多变，且风力大多在7\\~8级，平均最大风力为11级，瞬间也有超过 $4 0 \\mathrm { m } \\cdot \\mathrm { s } ^ { - 1 }$ 的记录。大风期间，乌鲁木齐相对湿度骤降、气温突升，天空格外晴朗，表现为明显的焚风属性。过去认为冬季这股大风一般只发生在乌鲁木齐逆温层之上，市区近地层风速仍然很小或无风。原因解释为准噶尔盆地冬季上空存在一个厚约 $1 5 0 0 \\mathrm { ~ m ~ }$ 的强大逆温层,东南大风的下沉气流难于破坏它[10-11]。李霞等[7-9]将能够在市区地面着陆的焚风称为接地型焚风，将只出现在市区上空的焚风称为低空型风。在欧洲阿尔卑斯山地区,将这种发生在中高层的焚风称为三明治焚风[13-14]。李霞等[8]研究进一步揭示乌鲁木齐低空型焚风一年中出现日数高达128.5d,且冬季出现日数最多，为 $4 7 . 0 \\mathrm { d } ( 5 2 . 2 \\% ) , 1$ 月日数和频率最高，分别为 $1 7 . 5 \\mathrm { ~ d } , 5 6 . 5 \\%$ 。低空型焚风的出现不仅增加了乌鲁木齐上空的逆温层厚度、强度和大气稳定度，且在近地层与准噶尔盆地的谷风或冷湖形成辐合(也称为微型焚风锋面)，导致污染物在市区聚集、重污染事件频繁发生[7-9]。因此，低空型风对乌鲁木齐城市群重污染事件的形成起了关键性作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "然而，预报员们在日常的空气质量预报业务中经常发现：低空型焚风也是一个天气过程，在它发生发展的不同阶段，乌鲁木齐上空的边界层结构和气象要素都在发生着变化，因此不同时段的大气水平扩散能力和垂直交换能力会有所不同，空气质量随之也会产生波动。但是至今，围绕着低空型焚风不同阶段大气扩散能力的研究却很少。因此，本文利用乌鲁木齐2013—2017年冬季风廓线雷达探测数据、常规气象数据展开研究，对乌鲁木齐低空型焚风天气过程进行识别，划分为焚风过程前、发展期、强盛期、衰退期、过程后5个阶段，分析焚风天气不同阶段边界层扩散条件、地面气象要素的时空演变特征，以期为乌鲁木齐城市群空气污染预报和污染治理提供参考依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1数据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "气象数据包括2013—2017年乌鲁木齐高空数据和地面数据。高空数据为乌鲁木齐气象站的秒级探空数据(时间分辨率 $1 2 \\mathrm { { h } }$ ,垂直分辨率 $5 0 ~ \\mathrm { m }$ 和CFL-03型风廓线雷达数据（时间分辨率 $6 \\mathrm { m i n }$ ,垂直分辨率 $6 0 ~ \\mathrm { m }$ )，前者是经过新疆气象信息中心审核后的入库数据。风廓线雷达数据能够较为准确地反映天气过程的演变，且能够较为精细地刻画夏季短时强降水天气过程中高低空气流的变化特点[15]地面气象要素选用相应时段乌鲁木齐(图1a)研究",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/79a8d94e4310f5a11c053573f9a0aeea793e66707259593ef2374301151ded35.jpg",
+        "img_caption": [
+            "图1乌鲁木齐及研究区地面气象站示意图",
+            "Fig.1 Map of Urumqi City and sketch map of the ground weather stations in the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "区域(主城区)12个地面自动站(图1b)逐时观测资料，依据其地理位置分为城北（安宁渠，海拔565m）、城南(乌拉泊、红雁池，海拔在 $1 0 0 0 { \\sim } 1 0 7 5 \\ \\mathrm { m }$ 之间）、城中心(经济区、黑山头、高新区、新医路、卡子湾，海拔在 $7 0 0 { \\sim } 8 5 0 \\mathrm { m }$ 之间）城西(八钢、雷达站，海拔在 $6 6 0 { \\sim } 9 1 5 \\mathrm { ~ m }$ 之间）城东南(乌鲁木齐、水磨沟，海拔在 $9 2 0 { \\sim } 9 4 0 \\mathrm { m }$ 之间)等区域。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2低空型焚风个例选取和时段划分方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "低空型风天气过程遴选标准：从风廓线图上以人工判断识别(图2)，当乌鲁木齐上空，一般在$4 2 0 0 \\mathrm { ~ m ~ }$ 以下，出现了风向维持在 $1 0 1 . 2 5 ^ { \\circ } { \\sim } 2 2 5 . 0 0 ^ { \\circ }$ 、风速 $8 \\mathrm { m } \\cdot \\mathrm { s } ^ { - 1 }$ 以上、持续 $1 8 \\mathrm { { h } }$ 以上一股气流的天气现象时，就称之为低空型焚风，如2014年12月11日$0 5 { : } 0 0$ 开始，风向风速达标准并持续至23：00，共19$\\mathbf { h }$ ，记录为一次焚风天气过程。2次低空型焚风过程相隔 $1 2 \\mathrm { h }$ 以上，则记录为2次过程，否则记录为一次完整的焚风过程。以持续时间 $^ { 1 8 \\mathrm { ~ h ~ } }$ 作为焚风天气过程基准，这是考虑到 $1 8 \\mathrm { ~ h ~ }$ 为全天的3/4，如此低空型焚风对乌鲁木齐全大边界层内扩散条件的影响时间和强度比较明显。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2013—2017年冬季451d之中，剔除雷达故障46d,有效观测日数共计 $4 0 5 \\mathrm { ~ d ~ }$ 。405d当中共计出现了100次低空型焚风过程，这其中最短持续时间为 $1 9 \\mathrm { h }$ ,最长时间长达 $1 9 0 \\mathrm { h }$ ,平均持续时间为 $5 9 \\mathrm { h }$ ，即2d以上。100次过程的持续时间频率为：小于",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$2 4 \\mathrm { ~ h ~ }$ 的过程频率为 $1 4 . 0 \\%$ · $4 8 \\mathrm { ~ h ~ }$ 以内的累计频率达$3 6 . 0 \\%$ ， $7 2 \\mathrm { { h } }$ 的焚风天气过程累计频率则达 $7 3 . 0 \\%$ ，由此说明低空型风天气过程普遍在3d以内。为了能够突出低空型焚风不同阶段的气象条件变化特点，本文从2013—2017年的冬季月份(12、1、2月）低空型风过程中再次筛选风持续时数 $\\geqslant 7 2 \\mathrm { { h } }$ 的个例，一共14例。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Bonner根据最大风速及风速垂直切变强度将北美地区低空急流分成3个等级[，即当气流最大速度超过 $1 2 \\mathrm { m } \\cdot \\mathrm { s } ^ { - 1 }$ 且同时沿垂直向上方向达到最近的一个风速极小值或 $3 ~ \\mathrm { k m }$ 高度(以较低者为准)时风速下降不少于 $6 \\mathrm { m } \\cdot \\mathrm { s } ^ { - 1 }$ ,将这种高速气流定义为1级急流，而将最大风速(风速切变)分别为 $1 6 \\mathrm { m } \\cdot \\mathrm { s } ^ { - 1 }$ （ $\\left. 8 \\mathrm { m } \\cdot \\mathrm { s } ^ { - 1 } \\right.$ ） $\\ 、 2 0 \\mathrm { m } { \\cdot } \\mathrm { s } ^ { - 1 } \\bigl ( 1 0 \\mathrm { m } { \\cdot } \\mathrm { s } ^ { - 1 } \\bigr )$ 的气流带定义为2级、3级急流。本文沿用最大风速划分，即将每次低空型焚风天气过程按照风气流的最大风速划分。对于每一次低空型焚风天气过程，将焚风出现前 $2 4 \\mathrm { h }$ 划分为焚风过程前；当焚风出现后，把风最大风速 $\\leq 8 \\ \\mathrm { m } \\cdot \\mathrm { s } ^ { - 1 }$ 的阶段定义为风发展期；将焚风最大风速 ${ > } 8 \\ \\mathrm { m } { \\cdot } \\mathrm { s } ^ { - 1 }$ 的阶段定义为焚风强盛期;焚风最大风速下降到 $8 \\mathrm { m } \\cdot \\mathrm { s } ^ { - 1 }$ 以下，直到结束期定义为焚风衰退期；焚风结束后的 $2 4 \\mathrm { h }$ 称为焚风过程后。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3边界层气象参数的计算方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "边界层大气扩散条件中混合层厚度、逆温参数、通风系数、静稳指数的计算方法分别参照文献[17]、文献[18]、文献［19]和文献[20]予以计算。最终将不同阶段的边界层大气扩散再次求数学平均。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6d0d32df787d7d556eb5250b04ec9b927ceb21bfe52460899e7d0d997b0465d5.jpg",
+        "img_caption": [
+            "图22014年12月11日低空型焚风演变过程划分图",
+            "Fig.2Schematic diagram of evolution process of low-altitude foehn "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1）最大混合层厚度计算方案：本文选择干绝热法[17]（Holzworth)计算逐日最大混合层厚度（themaximummixingdepth，MMD），该方法是利用08:00的探空温度廓线和地面日最高气温确定当日最大混合层厚度，具体做法：从地面气温数据中找出每日09:00—18:00时段的最大值；然后在温度-高度图上，从每日地面最高气温所在点沿干绝热线上升，与当日08:00的探空温度廓线相交，所得交点距地面的高度即日最大混合层厚度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（2）边界层通风系数计算方法[19]公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { v e n t } } = \\int _ { 0 } ^ { \\mathrm { M M D } } U ( z ) \\mathrm { d } z\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中：vent为通风系数 $\\left( \\mathbf { m } ^ { 2 } { \\cdot } \\mathbf { s } ^ { - 1 } \\right)$ ;MMD为最大混合层厚度 $\\mathrm { ( m ) }$ $U ( z )$ 为距离地面高度 $z$ 处的水平风速 $\\left( \\mathbf { m } \\right)$ O",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3）逆温参数计算方法[18]： $T _ { \\mathrm { t t } }$ 为逆温层顶部温度 $( \\% ) , T _ { \\mathrm { t b } }$ 为逆温层底部温度 $( \\mathrm { ^ \\circ C } )$ ，则逆温层温差 $\\mathbf { \\sigma } : = \\mathbf { \\sigma }$ $T _ { \\mathrm { t t } } { - } T _ { \\mathrm { t b } }$ ;逆温层厚度 $\\mathrm { \\ddot { \\varepsilon } = }$ 逆温层顶部高度-逆温层底部高度；逆温强度 $\\scriptstyle =$ 逆温层温差/逆温层厚度 $\\mathrm { \\dot { \\times } } 1 0 0$ □",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(4）静稳指数计算方法[20],利用探空和近地面逐小时气温数据，根据(1八(2)方法计算逐日最大混合层高度和通风系数，结合每日降水量，得出静稳天气指数。某日某站的静稳天气指数( $\\mathrm { \\Delta A S I _ { T S } }$ 计算方法如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { A S I } _ { \\mathrm { { T s } } } = \\frac { \\lambda e \\left[ 1 - \\delta ( r ) \\right] \\left[ \\frac { 1 } { Z _ { \\mathrm { { P B L } } } - Z _ { 0 } } \\int _ { z _ { 0 } } ^ { z _ { \\mathrm { { p a } } } } U ( z ) \\mathrm { d } z \\right] ^ { - 1 / 4 } } { Z _ { \\mathrm { { P B L } } } - Z _ { 0 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\lambda$ 为尺度参数，为了确保静稳指数最终为无量纲物理量，取常数 $1 0 ^ { 3 } ~ \\mathrm { s } ; \\delta$ 取决于降水量大小，$\\delta \\ L = { \\left\\{ \\begin{array} { l l } { 1 , } & { r \\geqslant 1 } \\\\ { 0 , } & { r < 1 } \\end{array} \\right. }$ ,其中 $r$ 为日降水量( $\\bf \\Pi _ { \\mathrm { m m } } ^ { \\prime } ,$ ; $Z _ { \\mathrm { P B L } }$ 为边界层内最大混合层厚度处高度 $\\left( \\mathrm { m } \\right)$ ,计算方法同MMD; $\\boldsymbol { Z } _ { 0 }$ 为地面高度 $\\left( \\mathbf { m } \\right)$ ,一般取值\"0”; $\\left[ \\frac { 1 } { Z _ { \\mathrm { \\tiny { P B L } } } - Z _ { 0 } } \\int _ { Z _ { 0 } } ^ { Z _ { \\mathrm { \\tiny { P B L } } } } U ( z ) \\mathrm { d } z \\right]$ 为边界层平均风速 $\\left( \\mathbf { m } { \\cdot } \\mathbf { s } ^ { - 1 } \\right)$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1乌鲁木齐大气扩散条件的总体特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于2013一2017年的大气扩散条件（包括MMD、逆温、通风系数、静稳指数)，本文分析了这些边界层参数的月、季变化特征。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 月变化特征2013—2017年，乌鲁木齐MMD平均值为 $1 . 5 7 \\times 1 0 ^ { 3 } \\mathrm { ~ m ~ }$ ，月均值呈单周期变化型（图3a)，即冬季1月最低 $( 0 . 3 7 \\times 1 0 ^ { 3 } \\mathrm { m } )$ ,之后逐步增加，在夏季7月达到最高值 $( 2 . 7 2 \\times 1 0 ^ { 3 } \\mathrm { m } )$ ，随后再次逐步下降。其中7月MMD是1月的7倍多，这与使用其他资料得到的MMD趋势一致[21]。乌鲁木齐春季的3—4月与秋末冬初的10—11月是MMD发生显著突变的阶段，这与乌鲁木齐全年空气质量发生急剧变",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bd0197a4bef8ca6e5b55b50d79d9baa578b9bb3237681f360e6fc6b6346d4c83.jpg",
+        "img_caption": [
+            "注：MMD为最大混合层厚度。下同。",
+            "图32013—2017年乌鲁木齐边界层气象参数的月变化分布",
+            "Fig.3Monthlychange distributions of meteorological parameters of boundary layer in Urumqi City from 2013 to 2017 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化阶段有很好的对应关系[22]。国内几个城市中，兰州MMD分布规律与乌鲁木齐类似，但其最低值出现在冬季12月，且比乌鲁木齐1月MMD还要偏高$3 0 0 \\mathrm { ~ m ~ }$ 左右[17],由此可见乌鲁木齐MMD在全国都较低。乌鲁木齐通风系数年均值为 $8 . 7 5 { \\times } 1 0 ^ { 3 } \\ \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { s } ^ { - 1 }$ ，月均值变化特征和MMD相仿(图3b)，也呈现单周期变化特点，即冬季1月最低 $( 1 . 1 0 { \\times } 1 0 ^ { 3 } \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { s } ^ { - 1 } )$ ，但是最高值出现在春季5月( $1 8 . 7 9 { \\times } 1 0 ^ { 3 } \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { s } ^ { - 1 } )$ ,后者是前者的17倍。春季5月最高与边界层风速增加密切相关，新疆5月综合型天气频发，风速较大。逆温层厚度月变化也呈现单峰单谷型变化特征，即冬季1月逆温层厚度最大( $8 0 8 ~ \\mathrm { m } ,$ ，夏季6月为浅薄（ $( 1 1 3 \\mathrm { m } )$ ，全年逆温层厚度为 $3 7 3 \\mathrm { ~ m ~ }$ 。逆温层温差月变化和逆温厚度趋势一致，冬季1月最大( $( 5 . 4 ^ { \\circ } \\mathrm { C } )$ ，夏季6月最小 $( 0 . 2 ~ \\mathrm { ^ { \\circ } C } )$ ,逆温层温差年平均为 $1 . 9 ~ \\mathrm { { ^ { \\circ } C } }$ （图3c）。静稳指数年均值为2.7，月均值变化和逆温参数特征相似（图3d)，即冬季12月最大(7.0)，夏季6月最小(0.6)，这与北京、银川等北方地区的最大最小静稳指数相当，但济南、哈尔滨、郑州明显要比乌鲁木齐高2.0\\~3.0,相反西安、太原要低 $2 . 0 { \\sim } 3 . 0 ^ { [ 1 7 ] }$ ○",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.2季节变化特征从乌鲁木齐4种边界层参数的季节变化(图4)来看，MMD的四季排序为：夏季$( 2 . 6 1 \\times 1 0 ^ { 3 } \\mathrm { m } ) >$ 春季 $( 1 . 9 5 { \\times } 1 0 ^ { 3 } ~ \\mathrm { m } ) >$ 秋季 $( 1 . 3 0 \\times 1 0 ^ { 3 }$ $\\mathbf { m } ) >$ 冬季 $( 0 . 4 4 \\times 1 0 ^ { 3 } \\mathrm { m } )$ （图 $\\mathrm { 4 a ) }$ )，这种季节变化与湍流强弱的季节变化基本趋于一致[23]。其他城市如上海、重庆、成都的MMD同样也是冬季最小，夏季最高,北京、成都在春季的MMD最高[24-27]。通风系数的四季排序为：夏季 $\\left( 1 4 . 4 9 \\times 1 0 ^ { 3 } \\ \\mathrm { m } ^ { 2 } \\cdot \\mathrm { s } ^ { - 1 } \\right) >$ 春季中 $\\ : 1 2 . 4 0 { \\times } 1 0 ^ { 3 } \\mathrm { \\ m } ^ { 2 } { \\cdot } \\mathrm { s } ^ { - 1 } ) > \\ :$ 秋季 $\\left( 6 . 6 1 \\times 1 0 ^ { 3 } \\mathrm { ~ m } ^ { 2 } \\cdot \\mathrm { s } ^ { - 1 } \\right) >$ 冬季$( 1 . 5 2 { \\times } 1 0 ^ { 3 } \\ \\mathrm { m } ^ { 2 } \\cdot \\mathrm { s } ^ { - 1 } )$ (图4b)。这与兰州市四季通风系数趋势一致，但兰州市冬季要偏小 $5 0 . 0 \\%$ 左右[28]，说明乌鲁木齐冬季传输效率好于兰州市。逆温层厚度(图略)的四季排序为：冬季 $( 7 6 8 ~ \\mathrm { m } ) >$ 秋季(339$\\mathbf { m } ) >$ 春季 $( 2 3 5 ~ \\mathrm { m } ) >$ 夏季( $\\mathrm { ~ \\ ' ~ } 1 5 1 \\mathrm { ~ m ~ }$ )。逆温层温差的四季排序为：冬季 $\\left( 4 . 8 2 ~ \\mathrm { ^ { q } C } \\right) >$ 秋季 $\\ : ( 1 . 4 4 ^ { \\circ } \\mathrm { C } ) > \\ :$ 春季$( 1 . 0 1 ^ { \\circ } \\mathrm { C } ) >$ 夏季 $( 0 . 4 8 ~ \\mathrm { \\textdegree C } )$ 图 $^ { 4 \\mathrm { { c } } }$ )。静稳指数的四季排序为：冬季 $( 6 . 3 6 ~ \\mathrm { ^ { \\circ } C } ) >$ 秋季 $( 2 . 4 2 { \\mathrm { ~ ‰ ~ } } )$ 春季（204号 $\\left( 1 . 5 0 ^ { \\circ } \\mathrm { C } \\right) >$ 夏季 $( 0 . 6 5 ^ { \\circ } \\mathrm { C } )$ (图4d)。呼和浩特、银川、济南、北京等城市的静稳指数都为冬季最大[20],静稳程度与乌鲁木齐相当，同样夏季最小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述，乌鲁木齐大气扩散条件总体呈现冬季最差，夏季最好，且冬季12月与1月扩散条件最不利于污染物扩散。这与国内部分北方城市呈现的现象一致[20.29]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2冬季低空型焚风天气不同阶段边界层扩散条件的对比分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "针对14例冬季低空型风天气演变5个阶段(过程前、发展期、强盛期、衰退期、过程后)的大气扩散条件(MMD、逆温状况、通风系数、静稳指数），分析其演变特征。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0553c3b79b2436dee3549311c9220a5351ef69abfa11cce80c00d57ee83775fe.jpg",
+        "img_caption": [
+            "图42013—2017年乌鲁木齐边界层气象参数的季节变化分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Seasonalvariation distributionofmeteorological parametersofboundarylayer in Urumqi City from2O13to 2017 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.1MMD特征MMD是影响污染物尤其 $\\mathrm { P M } _ { 2 . 5 }$ 浓度的敏感参数，较低的MMD意味着水汽和污染物等在垂直方向能够有效扩散的高度低，导致近地层污染物浓度升高[23]。在乌鲁木齐冬季低空型风天气过程演变的5个阶段中，MMD呈现先减小后增大的特征：低空型风过程前MMD为 $5 3 1 \\mathrm { ~ m ~ }$ ，随着低空风的发展MMD逐渐减小，发展期MMD为$0 . 3 9 \\times 1 0 ^ { 3 } \\mathrm { ~ m ~ }$ ,强盛期降至最低为 $0 . 3 0 { \\times } 1 0 ^ { 3 } \\mathrm { ~ m }$ ，当低空焚风衰退期MMD又逐渐增大至 $0 . 3 4 \\times 1 0 ^ { 3 } \\mathrm { ~ m ~ }$ ,低空风过程后MMD再度上升为至 $0 . 5 2 \\times 1 0 ^ { 3 } \\mathrm { ~ m ~ }$ （图5a）。纵观14次低空型风天气过程，可以发现低空型风强盛期与静稳天气对应，则焚风天气过程前和过程后往往与冷空气人侵后阶段对应，这意味着边界层逆温或者在建立、或者即将被打破阶段，因此MMD才得以发展[7-9]。如此意味着焚风天气在强盛期之前阶段大气污染状况是逐步加重的过程，",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.2通风系数图5a显示了冬季低空型焚风状态过程中通风系数的平均分布情况。低空型焚风未发生时通风系数为 $1 . 6 6 { \\times } 1 0 ^ { 3 } \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { s } ^ { - 1 }$ ，随着低空焚风的发生发展，通风系数逐渐减小，发展期为 $1 . 3 3 \\times 1 0 ^ { 3 }$ $\\mathbf { m } ^ { 2 } { \\cdot } \\mathbf { s } ^ { - 1 }$ ,强盛期继续降低至 $0 . 6 2 { \\times } 1 0 ^ { 3 } \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { s } ^ { - 1 }$ ,直至衰退期降至最低 $0 . 6 4 \\times 1 0 ^ { 3 } \\mathrm { m } ^ { 2 } \\cdot \\mathrm { s } ^ { - 1 }$ ,焚风完全结束后，通风系数快速上升至 $1 . 3 2 { \\times } 1 0 ^ { 3 } \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { s } ^ { - 1 }$ ,由此说明低空焚风在发展阶段，乌鲁木齐上空大气的水平传输扩散能力是逐步减弱的过程，强盛期通风扩散条件最差，空气污染随之就加重。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.3逆温层高层气温高于低层气温时称之为逆温，逆温的物理特征是下冷上暖、气体状态稳定，对上下对流有抑制作用，不利于大气污染物的扩散[14]。图5b显示了乌鲁木齐冬季低空型焚风发生时逆温层温差的变化特征与MMD有着负相位的变化特征。低空焚风发生前，平均逆温层温差为$4 . 7 ~ \\mathrm { ^ { \\circ } C }$ ，说明乌鲁木齐在冬天时普遍存在逆温层结构。在有逆温的条件下，逆温层对空气中烟尘和其他污染物的垂直输送、湍流交换有着强烈的抑制作用，造成大量水汽和气溶胶聚集在逆温层下，形成污染天气，因此乌鲁木齐的冬季也是雾(霾)多发时期[8]。随着低空型焚风的发展,逆温层温差逐渐增大，在低空风发展期平均逆温层温差加强至$7 . 2 ^ { \\circ } \\mathrm { C }$ ，低空焚风强盛时期平均逆温得到有效发展，迅速增强至 $1 0 . 9 ^ { \\circ } \\mathrm { { C } }$ ，低空焚风的逐渐衰退逆温层温差降落至 $8 . 7 ~ \\mathrm { ^ { \\circ } C }$ ，当低空焚风结束时有冷空气的侵入，逆温被破坏，由前期的平均逆温层温差 $7 . 2 \\mathrm { { ^ \\circ C } }$ 降落至 $4 . 6 ~ \\mathrm { { ^ { \\circ } C } }$ 。低空焚风的发生使得逆温层温差加大，边界层更加趋于稳定，不利于污染物的扩散。由此可见，在冬季低空型风过程发展期、强盛期、衰退期3个阶段中，逆温层的温差都高于1月逆温层温差月均值 $( 5 . 4 ^ { \\circ } \\mathrm { C } )$ ,意味着风出现期间边界层结构更加稳定。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "低空型风发生时，逆温层厚度的演变特征与逆温层温差相同(图5b)。在低空焚风发展时逆温层厚度增厚，强盛期发展至峰值，随着焚风衰退逆温层厚度降低。具体特征为：低空焚风出现前，乌鲁木齐冬季逆温层厚度为 $0 . 5 7 \\times 1 0 ^ { 3 } \\mathrm { ~ m ~ }$ ,发展时增至$0 . 7 7 \\times 1 0 ^ { 3 } \\mathrm { ~ m ~ }$ ,强盛时期扩展至 $0 . 9 9 \\times 1 0 ^ { 3 } \\mathrm { ~ m ~ }$ ,衰减时低空热力条件减弱，当低空风结束后逆温层厚度比发生前更低，降落至 $0 . 5 3 \\times 1 0 ^ { 3 } \\mathrm { m }$ 。可见，低空型风的发生有利于逆温层的发展和加强。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "冬季低空焚风对于逆温梯度也有一定的影响。逆温层温度变化率在低空型焚风衰退时期最强，每 $1 0 0 \\mathrm { m }$ 温度增幅较大。由低空焚风发展前的$1 . 0 4 ~ \\mathrm { { ^ { \\circ } C } \\cdot ( 1 0 0 m ) ^ { - 1 } }$ 增强至 $1 . 2 2 ~ \\mathrm { { ^ circ C } \\cdot ( 1 0 0 m ) ^ { - 1 } }$ ,强盛期逆",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a)MMD和通风系数 (b)逆温层厚度和逆温层温差 (c)静稳指数MMD 逆温层度 21986  \n0.45 通风系数  \n0.40  \n0.35  \n8.30 0.0有 我好X X演变阶段 演变阶段 演变阶段",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ig.5Variationcharacteristicsofvarious boundarylayerdifusionconditionsduring theevolutionoflow-altitude foehn in wir ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "温层的厚度增长幅度较大，逆温梯度增强至$1 . 2 9 ~ \\mathrm { ^ { \\circ } C } \\cdot ( 1 0 0 \\mathrm { m } ) ^ { - 1 }$ ,最后在衰退期最强，达 $1 . 4 8 \\ \\mathrm { { ^ circ C } }$ ·$( 1 0 0 \\mathrm { m } ) ^ { - 1 }$ ，低空焚风结束后由于逆温层厚度降落明显,逆温梯度略有减弱,为 $1 . 3 2 ~ \\mathrm { { ^ { \\circ } C \\cdot ( 1 0 0 m ) ^ { - 1 } } }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3静稳指数",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "冬季低空型风发生时，静稳指数在不同阶段的演变特征与逆温层温差相同。低空焚风逐渐发展的过程中静稳指数增大，在强盛期发展至峰值，衰退时开始减弱。具体特征为：冬季低空焚风出现前，乌鲁木齐平均静稳指数为5.9,发展期上升至7.9，强盛期达峰值9.7，衰减期减小至9.0，直至结束时恢复至前期6.5(图5c)。可见低空型风在发展期、强盛期及衰退期，大气静稳指数都高于1月平均值，足以说明焚风促使大气结构转为静稳状态，污染物的水平、垂直扩散能力减弱，在强盛期扩散能力最弱。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "综上所述，乌鲁木齐冬季低空型焚风发生发展过程中会造成混合层高度降低、通风系数减小，逆温层温差和逆温层厚度、静稳指数加强，致使大气水平扩散能力和垂直交换能力减弱，即低空型焚风大气边界层扩散条件减弱，造成空气污染加重，尤其是在强盛期，扩散条件数值达到极值(谷值或峰值），意味着扩散条件最差。焚风结束后扩散条件重建，恢复前期的扩散能力。冬季在开展乌鲁木齐空气质量预报中，可以通过对低空型焚风发展趋势的预测来进行空气质量预报的预判。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4冬季焚风天气过程不同阶段地面要素演变特征",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "冬季乌鲁木齐低空型焚风的影响范围具有一定的区域特点[7-8]。本文通过针对14例低空型风演变过程中5个阶段的气象要素进行了统计，并分析不同海拔高度的代表站气象要素的时空演变特点。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4.1海平面气压乌鲁木齐地面自动站中仅卡子湾、乌拉泊、经济区、雷达站、黑山头、乌鲁木齐6站有海平面气压观测数据。在低空型焚风发生前，乌鲁木齐辖区的海平面气压为 $1 0 4 0 . 7 { \\sim } 1 0 4 2 . 7 \\ \\mathrm { h P a }$ ,城南黑山头海平面气压最低 $1 0 4 0 . 7 \\mathrm { { h P a } }$ ,卡子湾气压最大（ $1 0 4 2 . 7 \\mathrm { { h P a } } ,$ ；当低空风开始发展时，各站出现 $0 . 1 { \\sim } 0 . 5 \\ \\mathrm { h P a }$ 的加压;风强盛期时各站快速减压，城南乌拉泊减压幅度最大 $4 . 9 \\mathrm { { h P a } }$ ,成为气压低值中心，城中心黑山头减压幅度最小为 $2 . 6 \\mathrm { { h P a } }$ ,其余站点减压 $\\geqslant 3 . 3 \\mathrm { h P a }$ ;低空焚风衰退期，各站依旧减压,但减压幅度明显减小,下降幅度在 $0 . 8 { \\sim } 1 . 1 \\ \\mathrm { h P a }$ 低空焚风结束后，各站气压继续缓慢下降，下降幅度在 $0 . 4 { \\sim } 0 . 6 \\mathrm { h P a }$ 。低空焚风的发展造成地面各站减压，强盛期减压最为剧烈，衰退期减压缓慢，焚风结束以后气压达到最低值。出现减压现象的原因为：低空风在辖区沉降变暖造成低压[15]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4.2气温特征分析低空型焚风发生前，乌鲁木齐辖区气温为 $- 8 . 7 \\mathrm { { \\sim } } 1 3 . 3 \\mathrm { { \\ s } }$ （图6a），低空风发展时，除了乌拉泊、红雁池两站气温升高（分别为$0 . 4 ^ { \\circ } \\mathrm { C } \\mathrm { } , 0 . 3 ^ { \\circ } \\mathrm { C } \\mathrm { ) }$ 外，其余站点气温都降低，降温幅度为$0 . 2 { \\sim } 0 . 5 ^ { \\circ } \\mathrm { \\stackrel { . } C }$ (图6b);低空风发展强盛时，城南乌拉泊、红雁池两站继续升温，乌拉泊升温 $2 . 4 ~ \\mathrm { ^ { \\circ } C }$ 、红雁池升温 $0 . 8 ~ \\mathrm { { ^ circ C } }$ ,这与两站海拔相关，根据之前研究分析，焚风底高的平均高度在 $1 8 0 \\mathrm { m }$ 左右[30],这两站位于焚风层底，受风影响，气温升高，其余站点继续降温且降温幅度有所加大 $0 . 3 { \\sim } 0 . 8 \\mathrm { ~ \\% }$ ,城东南乌鲁木齐降温最为明显(图6c);低空风逐渐衰退时，城南乌拉泊、红雁池继续小幅度增温 $0 . 3 ~ \\mathrm { ^ { \\circ } C }$ ,其余站点转为小幅度升温 $0 . 1 { \\sim } 0 . 3 \\ \\mathrm { ^ { \\circ } C }$ (图6d);低空焚风结束后，各站气温继续缓升，增温幅度城南最小,其余增温 $0 . 6 { \\sim } 0 . 7 ^ { \\circ } \\mathrm { C }$ （图6e)。低空焚风发生时，对城南乌拉泊、红雁池两站为升温作用，其余站点为降温作用，强盛期降温作用明显，低空焚风对乌鲁木齐的气温影响比较明显(图6f)，并且近地层的气温降低有利于逆温的建立增强，符合前文分析的低空风发生时逆温加强。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4.3风速变化特征风不仅对污染物进行水平输送，而且还具有稀释冲淡的作用[],风速越大，污染物的浓度越低。乌鲁木齐辖区在低空焚风还未发展时（图 $7 \\mathrm { a }$ ),平均风在 $0 . 5 { \\sim } 2 . 2 \\ \\mathrm { m } { \\cdot } \\mathrm { s } ^ { - 1 }$ ,风力1\\~2级，乌拉泊、红雁池、八钢、乌鲁木齐4站风速略大， $1 . 6 \\sim$ $2 . 2 \\ \\mathrm { m \\cdot s ^ { - 1 } }$ ，总体辖区风速较小，有利于污染物的累积。随着低空焚风的开始发展(图7b)，高海拔的城南乌拉泊、红雁池站和城西八钢站风速增大 $0 . 2 \\mathrm { m } { \\cdot } \\mathrm { s } ^ { - 1 }$ 左右，城北风速未发生明显变化，低海拔的城西和城东南风速略有减小；低空风发展至强盛期（图7c)，除城东南的乌鲁木齐、水磨沟站和城中心的黑山头、经济区、卡子湾站风速减小外，其他站风速都有增加，尤其是城南乌拉泊、红雁池、八钢3站风速增加显著，分别增加 $2 . 8 \\mathrm { m ^ { * } s ^ { - 1 } , 1 . 3 \\mathrm { m ^ { * } s ^ { - 1 } , 0 . 4 \\mathrm { m ^ { * } s ^ { - 1 } } } }$ ；衰退期(图7d)各站近地层风速变化不大，红雁池站减",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/eed33efbfb0994d2605d129b1b6d26c48417e2c7e1f34b2ff9cb69d212970aae.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.6Changecharacteristicsof temperatureandchange trendsofrepresentativestations duringthe evolutionoflow-level foehn ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/6aa1a9cc618eb26688826199334aac9af67d4b5c633f5fb1001c8c12dd3f6809.jpg",
+        "img_caption": [
+            "图6低空风演变阶段中气温变化特征及代表站气温变化趋势 ",
+            "图7低空风演变阶段风速变化特征及代表站风速变化趋势",
+            "Fig.7Characteristics of wind speed variation and the variation trend of representative stations during the evolution of low-altitude foehn "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "弱相对明显 $( 0 . 1 \\ \\mathrm { m \\cdot s ^ { - 1 } } )$ ,乌鲁木齐站风速继续减小$0 . 0 4 ~ \\mathrm { { m \\cdot s } ^ { - 1 } }$ ;焚风结束后(图7e)乌拉泊、红雁池站风速回落。分析发现(图7f)，低空风发生发展对乌拉泊、红雁池等位于高海拔站点影响较大，造成风速增大，低海拔站点(尤其是乌鲁木齐)风速不增反减，由 $1 . 6 \\ \\mathrm { m \\cdot s ^ { - 1 } }$ 减弱至 $1 . 4 ~ \\mathrm { m \\cdot s ^ { - 1 } }$ ，由此可见,在焚风发生过程中高海拔地点水平稀释扩散能力增加，而低海拔的市区水平扩散能力进一步削弱。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文利用2013—2017年逐时地面气象数据、探空秒级数据及风廓线雷达数据判识乌鲁木齐低空型焚风及其演变特征。通过对乌鲁木齐4个大气扩散条件月、季节统计分析，特征表明乌鲁木齐的大气扩散能力冬季较差、尤其是1月和12月，且处于全国偏后位置。此项研究，可增加读者对乌鲁木齐区域冬季大气扩散能力和大气污染水平的认识。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对14个典型焚风过程进行统计分析和特征研究，发现风发生发展致使边界层水平扩散能力和垂直交换能力减弱，尤其强盛期，扩散要素达谷值或峰值，扩散条件最差。这与文中提到的不同阶段各要素变化都不一致相呼应，为清晰判断焚风各阶段对大气扩散条件及地面气象要素的影响至关重要，也为乌鲁木齐城市群空气污染预报和污染治理提供了参考依据。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（1）乌鲁木齐4种大气扩散条件季节和月变化表现为：MMD和通风系数为夏季最大 $( 2 . 6 1 \\times 1 0 ^ { 3 } \\mathrm { m }$ 、$1 4 . 4 9 \\times 1 0 ^ { 3 } \\ \\mathrm { m } ^ { 2 } \\cdot \\mathrm { s } ^ { - 1 } )$ ,冬季最小 $( 0 . 4 4 \\times 1 0 ^ { 3 } \\mathrm { ~ m ~ } , 1 . 5 2 \\times 1 0 ^ { 3 }$ $\\mathbf { m } ^ { 2 } { \\cdot } \\mathbf { s } ^ { - 1 } )$ ;逆温层厚度、逆温层温差、静稳指数都表现为冬季最大（ $7 6 8 \\mathrm { ~ m ~ } , 4 . 8 2 \\mathrm { ~ \\textdegree C ~ } , 6 . 3 6 )$ ，夏季最小（分别为 $1 5 1 \\ \\mathrm { m } \\ 、 0 . 4 8 \\ \\mathrm { ‰ }$ ；MMD和通风系数为冬季1月最低 $( 0 . 3 7 { \\times } 1 0 ^ { 3 } \\mathrm { m } \\mathrm { , } 1 . 1 0 { \\times } 1 0 ^ { 3 } \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { s } ^ { - 1 } )$ ，MMD夏季7月最高 $( 2 . 7 2 \\times 1 0 ^ { 3 } \\mathrm { m } )$ ，通风系数春季5月最高( $1 8 . 7 9 \\times$ $1 0 ^ { 3 } ~ \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { s } ^ { - 1 } )$ ;逆温层厚度、逆温层温差最大值出现在冬季1月（ $8 0 8 \\mathrm { ~ m ~ } . 5 . 4 \\mathrm { ~ \\textdegree C }$ ),静稳指数最大值出现在冬季12月（7.0），最小都出现在夏季6月（ $1 1 3 \\mathrm { ~ m ~ }$ 、$0 . 2 ^ { \\circ } \\mathrm { C } , 0 . 6 )$ 。总体特征呈现冬季最差，夏季最好，且冬季12月与1月扩散条件不利于污染物扩散。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2）低空风发生发展的5个阶段中大气MMD、通风系数呈减小一增大特征，风强盛期MMD降至最低 $0 . 3 0 { \\times } 1 0 ^ { 3 } \\mathrm { m }$ 通风系数达到最小 $0 . 6 2 \\times$ $1 0 ^ { 3 } \\mathrm { m ^ { 2 } { \\cdot } s ^ { - 1 } }$ ;逆温层厚度及强度、静稳指数变化趋势为增大一减小特征,强盛期逆温最强 $1 0 . 9 ~ \\mathrm { ^ { \\circ } C }$ 、厚度垂直扩展至 $0 . 9 9 \\times 1 0 ^ { 3 } \\mathrm { ~ m ~ }$ ,静稳指数最大9.7,风发生发展致使边界层水平扩散能力和垂直交换能力减弱，尤其强盛期，扩散要素达谷值或峰值,扩散条件最差。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(3）低空风过程的发展期和强盛期造成各站气压减小，高海拔站点气温升高、风速增大，焚风层以下低海拔区域气温降低、风速减小，尤其是强盛期更为明显，说明焚风使得焚风层以下区域的大气更加稳定，不利于污染物扩散，这比之前研究的乌鲁木齐单站要素变化更能说明焚风的发生发展及其影响。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]李新琪,海热提·涂尔逊.乌鲁木齐市大气环境容载力及污染防 治对策研究[J].干旱区资源与环境,2001,15(3):17-24.[Li Xinqi,Tuerxun Haireti. Studies on the air environmental bearing capacities and the countermeasures of air pollution prevention and control in Urumqi[J]. Journal of Arid Land Resources and Environoment,2001,15(3): 17-24.] [2]李霞,郭宇宏,卢新玉,等.乌鲁木齐市大气污染治理成效的综 合评估分析[J].中国环境科学,2016,36(1):307-313.[Li Xia, Guo Yuhong,Lu Xinyu,et al. Evaluation and analysis on the effects of air pollution control in Urumqi[J].China Environmental Science,2016,36(1): 307-313.] [3]张亮林,潘竟虎,张大弘.基于MODIS数据的中国气溶胶光学 厚度时空分布特征[J].环境科学学报,2018,38(11):4431-   \n4439. [Zhang Lianglin,Pan Jinghu, Zhang Dahong.Spatio-temporal distribution characteristics of aerosol optical depths in China based on MODIS data[J]. Acta Scientiae Circumstantiae,2018, 38 (11): 4431-4439.] [4]赵仕伟,高晓清.利用MODIS C6数据分析中国西北地区气溶 胶光学厚度时空变化特征[J].环境科学,2017,38(7):2637-   \n2646.[Zhao Shiwei, Gao Xiaoqing.Analysis of spatio-temporaldistribution and variation characteristics of aerosol optical depth over the northwest of China by MODIS C6 product[J]. Environmental Science,2017,38(7): 2637-2646.] [5]Zhang Q,Zheng Y,Tong D,et al.Drivers of improved PM $2 . 5$ air quality in China from 2013 to 2017[J].Proceedings of the National Academy of Sciences,2019,116(49): 201907956,doi: 10.1073/ pnas.1907956116. [6]刘清,杨永春,刘海洋.中国366个城市空气污染综合程度的时 空演变特征分析[J].干旱区地理,2020,43(3):820-830.[Liu Qing,Yang Yongchun,Liu Haiyang. Spatiotemporal evolution characteristics of air pollution degree in 366 cities of China[J].Arid Land Geography,2020,43(3): 820-830.] [7]LiX,Xia X,Wang L,et al. The role of foehn in the formation of heavy air pollution events in Urumqi,China[J]. Journal of Geophysical Research Atmospheres,2015,120(11): 5371-5384. [8]李霞.峡口城市乌鲁木齐冬季重污染的机理研究[D].北京：中 国科学院大学,2013.[Li Xia.The research on formation mechanism of the severe air pollution in the gap town Urumqi in winter [D]. Bejing: University of Chinese Academy of Sciences,2013.]   \n[9]Li X,Xia X, Zhong S,et al. Shallow foehn on the northern leeside of Tianshan Mountains and its influence on atmospheric boundary layer over Urumqi, China: A climatological study[J].Atmospheric Research,2020,240: 104940,doi: 10.1016/j.atm0sres.2020.104940.   \n[10] 张家宝,苏启元,孙沈清,等.新疆短期天气预报指导手册[M]. 乌鲁木齐:新疆人民出版社,1986:319-214.[Zhang Jiabao,Su Qiyuan,Sun Shenqing,et al. Xinjiang short-term weather forecast guide[M]. Urumqi: Xinjiang People’s Publishing House,1986: 319-214.]   \n[11]孟齐辉.天山地形对乌鲁木齐东南大风的再认识[J].新疆气象, 1996,19(3): 5-9.[Meng Qihui. Recognition of the topography of Tianshan Mountains to the southeast gale of Urumqi[J]. Bimonthly of Xinjiang Meteorology,1996,19(3): 5-9.]   \n[12] 孟齐辉,吕斌,刁平.乌鲁木齐地区东南大风分布规律的研究 [J].新疆气象,1995,18(1): 6-10.[Meng Qihui,Lu Bin,Diao Ping. Research on the distribution law of southeast gale in Urumqi area [J]. Bimonthly of Xinjiang Meteorology,1995,18(1): 6-10.]   \n[13]Vergeiner J,Mayr G. Case study of the MAP-IOP“sandwich” foehn on $1 8 ^ { \\mathrm { t h } }$ October 1999[J]. MAP Newsl,2000,13: 36-37.   \n[14]Vergeiner J. South foehn studies and a new foehn classification scheme in the Wipp and Inn valley[D].Austria: Universityof Innsbruck,2004.   \n[15] 李霞,王磊,任泉.乌鲁木齐风廓线雷达探测能力评估[J].沙漠 与绿洲气象,2016,10(1): 9-18.[Li Xia,Wang Lei,Ren Quan. Estimation of the detection ability of CFL-O3 wind profile radar in Urumqi[J]. Desert and Oasis Meteorology,2016,10(1): 9-18.]   \n[16]Bonner W.Climatology of the low level jet[J]. Monthly Weather Review,1968,96(12): 833-850.   \n[17]王式功,姜大膀,杨德保,等.兰州市区最大混合层厚度变化特 征分析[J].高原气象,2000,19(3):363-369.[Wang Shigong,Jiang Dabang,Yang Debao,et al.A study on characteristics of change of maximum mixing depths in Lanzhou[J]. Plateau Meteorology,2000,19(3):363-369.]   \n[18] 刘增强,郑玉萍,李景林,等.乌鲁木齐市低空大气逆温特征分 析[J].干旱区地理,2007,30(3):351-356.[Liu Zengqiang, Zheng Yuping,Li Jinglin,et al. Temperature inversion characteristics of low-air atmosphere of Urumqi City[J].Arid Land Geography,2007, 30(3): 351-356.]   \n[19] 王德宣,刘洋,徐宁.长春市大气 $\\mathrm { S O } _ { 2 }$ 时空分布与气象条件分析 [J].地理科学,1995,15(3):289-294.[Wang Dexuan,Liu Yang, Xu Ning.Atmospheric sulphur dioxide content change with time and place and analysis of meteorological condition in Changchun [J]. ScientiaGeographcaSinica1995,15(3):289-294.]   \n[20]Feng J, Quan JN,Liao H,et al.An air stagnation index to qualify extreme haze events in northern China[J].Journal of the Atmospheric Sciences,2018,75(10): 3489-3505.   \n[21] 李振杰,金莉莉,何清,等.乌鲁木齐大气混合层厚度和稳定度 与大气污染的关系[J].干旱区地理,2019,42(3):478-491.[Li Zhenjie,Jin Lili,He Qing,et al.Characteristics of atmospheric mixing layer height and atmospheric stability in Urumqi region and their relationship with the atmospheric polution[J].Arid Land Geography,2019,42(3): 478-491.]   \n[22] 赵克明,李霞,杨静.乌鲁木齐大气最大混合层厚度变化的环境 响应[J].干旱区研究,2011,28(3):509-513.[Zhao Keming,Li Xia,Yang Jing. Envirenmental response to variation of the atmospheric maximum mixing depth in Urumqi[J].Arid Zone Research,2011,28(3):509-513.]   \n[23] 廖国莲.大气混合层厚度的计算方法及影响因子[J].中山大学 研究生学刊,2005,26(4): 66-73.[Liao Guolian. Calculation methods and influence factors of the thickness of atmospheric mixed layer[J]. Journal of the Graduates Sun Yat-Sen University (Natural Sciences、Medicine),2005,26(4): 66-73.]   \n[24]程水源,张宝宁,李现丽.用清晨探空曲线确定混合层高度的研 究[J].环境科学丛刊,1992(3):78-82.[Cheng Shuiyuan, Zhang Baoning,Li Xianli.Research on the determination of the height of the mixed layer with the early morning sounding curve[J].Environmental Science Series,1992(3): 78-82.]   \n[25] 杨勇杰,谈建国,郑有飞,等.上海市近15a大气稳定度和混合 层厚度的研究[J].气象科学,2006,26(5):536-541.[Yang Yongjie,Tan Jianguo,Zheng Youfei,et al. Study on the atmospheric stabilities and the thickness of atmospheric mixed layer during recent 15 years in Shanghai[J]. Scientia Meteorologica Sinica, 2006,26(5): 536-541.]   \n[26] 叶堤,王飞,陈德蓉.重庆市多年大气混合层厚度变化特征及其 对空气质量的影响分析[J].气象与环境学报,2008,24(4):41- 44.[Ye Di,Wang Fei, Chen Derong.Multi-yearly changes of atmospheric mixed layer thickness and its effect on air quality above Chongqing[J]. Journal of Meteorology and Environment, 2008,24 (4): 41-44.]   \n[27] 孟庆珍,冯艺.成都大气混合层厚度的计算和分析[J].成都信息 工程学院学报,1996(增刊1):73-81.[Meng Qingzhen,Feng Yi. Calculation and analysis of the thickness of the mixed atmosphere in Chengdu[J]. Journal of Chengdu Institute of Meteorology,1996 (Suppl. 1): 73-81.]   \n[28] 李博,王颖,张稼轩,等.河谷城市通风系数研究[J].环境科学研 究,2018,31(8): 1382-1388.[Li Bo,Wang Ying, Zhang Jiaxuan, et al.Ventilation coeficient in river valley terrain[J].Research of Environmental Sciences,2018,31(8): 1382-1388.]   \n[29] 胡琳,张侠,苏静,等,陕西省霾天气变化特征及气候成因分析 [J],干旱区地理,2019,42(4): 707-714.[Hu Lin, Zhang Xia, Su Jing,et al.Variation characteristicsof haze weather and its climatic causes in Shaanxi Province[J].Arid Land Geography,2019,42 (4): 707-714.]   \n[30] 赵克明.风对乌鲁木齐冬季大气污染的影响探析[D].兰州: 兰州大学,2016.[Zhao Keming. Studies on the influence of foehn on air polution over Urumqi in winter[D].Lanzhou: Lanzhou University,2016.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Characteristic analysis of atmospheric diffusion conditions of winter foehn weather process in Urumqi City ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ZHAO Keming'，LI Na'，LI Xia’， SUN Mingjing'， SHI Junjie', AN Dawei'， PU Jie³， ZHENG Bohua4 (1.XinjiangMeteorologicalbsevatoryUruiO,Xiang,ina;2.Isituteofserteteoology,inateolcal Administration,Urumqi 830o2,Xinjiang,China；3.Urumqi Meteorological Bureau,Urumqi 83oo2,Xinjiang,China; 4.Weather Modification Ofice of Xinjiang Uygur Autonomous Region, Urumqi 83ooo2,Xinjiang, China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: On the basis of hourly surface meteorological data,radiosonde second-level data,and wind profile radar data collcted from 2013 to 2017,the low-level foehn wind and its evolution characteristics in Urumqi City, Xinjiang, China, were identified.According to various calculation parameters and methods in the boundary layer, including mixed layer thickness,inversion layer thickness,ventilation coefficient,and static stability index,the variation of the boundary-layer diffsion conditions in Urumqi City during the evolution of low-level foehn wind were analyzed.The results demonstrated that the atmospheric diffusion conditions in Urumqi City have been most favorable in summer and worst in winter (maximum thickness of the mixed layer- ${ = } 0 . 4 4 \\times 1 0 ^ { 3 } \\ \\mathrm { r }$ n; ventilation coefficient $= 1 . 5 2 \\times 1 0 ^ { 3 } \\ \\mathrm { m } ^ { 2 } \\cdot \\mathrm { s } ^ { - 1 }$ ； inversion layer thicknes $\\mathrm { s } { = } 7 6 8 \\mathrm { ~ m ~ }$ ； temperature difference of the inversion layer= $4 . 8 2 ^ { \\circ } \\mathrm { C }$ ；static stability index $_ { : = 6 . 3 6 }$ ),and December and January were extremely unfavorable in terms of pollutant diffusion.In the five stages of low-level foehn evolution,the thickness of the atmospheric mixing layer and the ventilation coefficient first increased and then decreased,and the value has been the lowest in the vigorous period of foehn development.The thickness,strength,and static stability index ofthe inversion layer were opposite,and the maximum value occurred in the vigorous period. The air pressure at each station also decreased during the development and the prosperous period of the foehn weather process. The temperature and wind speed of the high-altitude station at the bottom of the foehn increased,whereas thoseof the low-altitude station decreased, indicating that the foehn made the lower atmosphere more stable and was not conducive to the diffusion of pollutants. Generaly,horizontal diffusion capacity and vertical exchange capacity are weakened by foehn,and the atmosphere is easy to condense.For future operations,the foehn development trend can be used to predict difusion conditions,providing a reference for the air pollution forecast and the control of urban agglomeration in Urumqi City. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words: low-altitude foehn; boundary layer diffusion conditions；meteorological elements; Urumqi City ",
+        "page_idx": 10
+    }
+]

@@ -1,0 +1,114 @@
+周健 $^ { 1 , 2 }$ 熊霞²\* 李建中」 邓百川² 黄鹏飞」印遇龙1,2\*(1.湖南师范大学生命科学学院，动物营养与人体健康实验室，长沙410006；2.中国科学院亚热带农业生态研究所，中国科学院亚热带农业生态过程重点实验室，长沙 410125)
+
+摘要：乳源生物活性肽（MDBPs）是指乳汁中存在的参与机体多种代谢途径和生理环节，具有特殊氨基酸排列和空间结构的相对较短的小分子肽段。近年的研究发现MDBPs能影响动物肠道黏膜营养物质吸收、减缓肠道氧化应激、改善肠道微生态环境以及提高肠道免疫力。本文将围绕MDBPs对动物肠道功能的影响及作用机制进行综述。
+
+关键词：乳源生物活性肽；动物肠道；作用机制；氧化应激；肠道免疫中图分类号：S852.21 文献标识码：A 文章编号：
+
+蛋白质是维持机体生命活动所必需的营养物质，其在肠道最终被消化为氨基酸或小肽被吸收。研究表明，小肽能在肠道转运载体协助下直接被完整的吸收，具有吸收速度快、载体不易饱和、耗能低且效率高的特点，而且以小肽形式供给氨基酸可以避免游离氨基酸因竞争结合位点而造成的抑制效应，促进蛋白质饲料的吸收及转化[1]。因此，小肽营养功能及其作用机制受到动物营养及医学领域的广泛关注。
+
+生物活性肽是具有多种理化性质并能对多种代谢途径和生理环节起积极作用的，具有特殊氨基酸排列及空间结构的相对较短的（如2\~9个氨基酸序列）小分子肽段。生物活性肽常见的结构共性是具有疏水性氨基酸残基，但不包括脯氨酸、赖氨酸或精氨酸构成的组合[2]。对于幼小动物来说，母乳是其获得营养供给和部分免疫能力的重要来源。乳源生物活性肽（milk-derived bioactivepeptides，MDBPs）主要是通过蛋白酶水解乳汁中的乳清蛋白和酪蛋白(casein，CN)或者微生物发酵乳制品制备得到的小分子量肽段[3]。研究报道MDBPs具有多种生理功能，包括促进肠道对矿物元素吸收利用、调节免疫、抗血栓、抗高血压、具有类吗啡活性和抗菌活性等[2-4]。
+
+近年来研究表明，MDBPs能够促进肠道上皮细胞对营养物质的吸收，改善仔猪因断奶或炎症性肠炎（inflammatorybowel disease，IBD）引起的氧化应激，抑制各种有害致病菌来改善肠道微生态环境，促进巨噬细胞和淋巴细胞增殖和功能发挥来加强肠道免疫屏障功能[1-5]。本文将围绕MDBPs对动物肠道功能的影响与作用机制进行综述。
+
+1MDBPs在肠道的转运和吸收
+
+肠道是营养物质消化吸收的主要场所，其褶皱状黏膜以及绒毛大大增加了与消化物的接触面积。饲粮中的蛋白质进入肠道后会被水解成小肽以及游离氨基酸形式，氨基酸的转运是由特定的氨基酸转运载体介导，小肽吸收主要依赖于高容量且低亲和性的肽转运载体(peptide transporter，PEPT)及其同类型的肽转运受体，它们具有广泛的底物耐受性，能够转运结构密切相关的化合物以及药物[5]。肠道对小肽的吸收主要依赖于 PEPT 家族（主要有PEPT1 和 PEPT2）[6]，MDBPs的吸收与小肽吸收相似。Vij等[7]的研究表明Caco-2 细胞可表达 PEPT1类似的受体，参与对酪蛋白水解物中小肽 VLPVPQK 的运输。PEPT1 在小肠中主要是十二指肠、空肠和回肠上有大量表达，正常情况下结肠无表达[7-8]。PEPT1 在小肠高度分化的细胞（如绒毛顶端）表达而在低分化的细胞（如隐窝)中无表达。
+
+PEPT1在小肽的吸收中起主要作用，Daniel等的研究表明PEPT1mRNA或蛋白质的表达都受到 miRNA-92b 的调控，它能通过抑制PEPT1表达来抑制肠道上皮细胞对细菌来源小肽诱导下的促炎症应答。STE20 相关脯氨酸/丙氨酸丰富激酶(STE20-related proline/alanine-rich kinase，SPAK)是肾小管离子运输和血压的关键调节器，Warsi等[0]研究发现它能够调控PEPT1和PEPT2 在肠道的表达。而氧化应激相关的激酶氧化应激反应蛋白1(oxidative-stress-responsive kinase 1，OSR1)能够通过降低细胞膜载体蛋白丰度来下调PEPT1和PEPT2的表达，进而影响肠道吸收，造成肠道功能障碍[1]。小分子肽段通过载体进行完整的转运吸收，是MDBPs 保持其生物活性并发挥生物学功能的基础。
+
+# 2MDBPs对肠道功能的影响及作用机制
+
+# 2.1对肠道营养物质吸收的影响
+
+碳水化合物是动物机体能量供给的主要来源，研究表明MDBPs能够促进胰岛素分泌，加速血糖进入肝脏，降低动物餐后血糖量，从而促进肽链延伸与蛋白质合成。 $\beta$ -酪蛋白第60\~70位保守的氨基酸序列Tyr-Pro-Phe-Pro-Gly-Pro-Ile-Pro-Asn-Ser-Leu 具有阿片 肽活性，是 ${ \mathfrak { \beta } } \qquad $ 酪啡肽0 $\mathrm { \Delta \ B }$ casomorphins, $\beta$ CMs)的前体,其酶促水解产物 $\beta$ -CM-7 氨基酸序列为 Tyr-Pro-Phe-Pro-Gly-Pro-Ile。有研究表明 $\beta$ -CM-7可以下调肠道葡萄糖转运载体（GLUT）的基因表达，降低钠离子-钾离子-ATP
+
+酶（Na+-K+-ATPase）的活性，抑制胰高血糖素分泌并且促进胰岛素分泌，增加细胞对葡萄糖的消耗来降低血糖量[12-13]。Zoghbi等[14]报道 $\beta$ CM-7 能够通过神经通路和激活阿片肽受体强烈刺激肠道黏蛋白的分泌。然而，Zhang 等[15]报道 $\beta$ -CM-7 能通过影响促血管生成素II（AngII）和转化生长因子1（TGF- $\beta 1$ ）的分泌，在一定程度上抑制高葡萄糖诱导下的近端肾小管上皮间质转化，而不是通过阿片肽受体。此外，还有研究报道 $\beta$ CM-5 氨基酸序列为Tyr-Pro-Phe-Pro-Gly，能够影响肠道消化和物质转运速率[16]。 $\beta$ -CMs 有-Phe-Pro-Tyr-NH2的保守结构可以抵抗酶促降解，维持稳定的生物活性。上述研究表明， $\beta$ CMs 能够影响肠道上皮细胞对糖的吸收、营养物质转运并促进消化酶分泌及相关基因表达。  
+微量元素吸收对动物机体相关蛋白质的合成、能量代谢以及酶作用的发挥具有重要意义。酪蛋白磷酸肽（caseinophosphopeptides，CPPs）具有较好的矿物元素结合能力且能够增加钙、铁、锌、铜和猛等微量元素的肠道吸收以及生物利用率，大多数CPPs具有共同的结构，比如含有-Ser(P)-Ser(P)-Ser(P)-Glu(E)-Glu(E)-序列结构[17]，这些氨基酸序列结构使 MDBPs 具有在肠道 pH环境下结合钙、磷以及其他微量元素的能力。磷酸肽具有成簇的-Ser(P)-Ser(P)-Ser(P)-Glu(E)-Glu(E)-序列结构，并有带负电荷的侧链，尤其是这些氨基酸的磷酸基团，能够为微量元素提供结合位点。Garcia-Nebot 等[18l发现CPPs 能够促进铁和锌在Caco-2 细胞内的生物利用率，之后他们还比较了α-CN和 $\beta$ -CN 水解得到的CPPs与铁的螯合能力，发现在 $1 2 . 5 \mu \mathrm { m o l } / \mathrm { L }$ 浓度下 $\beta$ -CPPs与铁的螯合能力比 $\mathfrak { a }$ -CPPs 强[19]。Boutrou 等[20]报道，用肠道刷状缘囊泡消化不同状态下的 $\beta$ -CN(1-25)螯合物后发现矿物元素和CPPs 的结合能够抑制肽酶和磷酸酶的作用。李垚等[211考察了小肽螯合多种微量元素后对仔猪发育的影响，发现小肽螯合多种微量元素后能够提高微量元素的利用率，改善仔猪的生产性能。在饲粮中以小肽螯合物形式供给微量元素能够显著改善动物机体相关元素缺乏的症状[22]。2.2缓解肠道氧化应激
+
+肠道的氧化还原状态平衡对肠道功能以及各种肠道微生物生存具有重要意义。肠道维持氧化还原稳态主要靠谷胱甘肽与其过氧化物酶（GSH/GSSG）、硫氧还蛋白的氧化还原（Trx/TrxSS）以及半胱氨酸的氧化还原（Cys/Cyss）。活性氧（reactive oxygen species，ROS）是正常的细胞代谢活动的副产物，过量的ROS 会导致DNA 损伤、脂质过氧化、蛋白质结构破坏、线粒体功能破坏并诱发细胞凋亡。超氧化物歧化酶（SOD）、谷胱甘肽过氧化物酶和过氧化氢酶（CAT）等参与保护细胞免受ROS 的破坏性影响[23]。动物受到断奶应激、炎症性肠病等影响容易引起肠道氧化应激，造成肠道功能障碍[24]，断奶应激会导致丙二醛（MDA）、一氧化氮（NO）和过氧化氢（ $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ ）的浓度显著上升，而超氧化物歧化酶活性却显著下降，与抗氧化相关的基因表达下调，与ROS 产生相关的基因表达增加[25]。IBD 是由于肠道黏膜巨噬细胞与中性粒细胞释放过量的 ROS 和自由基，维持动物机体氧化还原稳态的关键酶（如超氧化物歧化酶）活性受到抑制而引起的[26]。
+
+研究表明，乳清蛋白和酪蛋白的酶促水解产物都具有良好的抗氧化活性，能够有效清除 ROS以及自由基，防止脂质发生过氧化[27-32]。Zhang 等[27]研究认为乳清蛋白水解产物的疏水性是其具有抗氧化能力以及抵抗抗氧化损伤的原因。MDBPs末端的疏水性残基，非常容易与不饱和脂肪酸相互结合，从而抑制脂质的过氧化[28]。Cheison 等[29]研究乳清蛋白水解产物时发现芳香环氨基酸的含量与抗氧化能力呈正相关，其含量越多抗氧化能力越强。酪蛋白水解产物能够抑制脂肪氧化合成酶的活性，进而防止脂肪过氧化，从酪蛋白中分离出的小肽，相对谷胱甘肽和肌肽来说，具有更强的清除二苯基苦基肼(DPPH)、过氧化氢自由基以及超氧阴离子的能力[30]。此外， $\beta$ -CM-7 和 $\beta$ -CM-5等 β-CMs 能够显著提高肠道黏膜抗氧化酶的活性，缓解氧化应激引起的肠道上皮细胞损伤[3-4,12.31]。通常 MDBPs组成中含有较多的组氨酸（His）、酪氨酸（Tyr）以及半胱氨酸（Cys），或末端含有苯丙氨酸（Phe）、缬氨酸（Val）、异亮氨酸（Ile）以及亮氨酸（Leu）时会具有更强的小肽抗氧化活性[32]。MDBPs 对于仔猪断奶状态下肠道氧化应激状态的缓解具有重要的意义，目前，MDBPs 缓解肠道氧化应激具体的分子机制还有待进一步探索。
+
+# 2.3对肠道微生态环境的影响
+
+微生物与哺乳动物存在高度协同进化关系，机体免疫系统在寄居的微生物群落稳态方面扮演着重要角色，有效保证二者之间的互利互惠的关系，与此同时微生物也促进了机体免疫系统的成熟[33]。肠道共生菌群能够促进肠道黏膜免疫屏障的发展和成熟，而肠道有害微生物的清除以及有害病菌的清除依赖于潘氏细胞分泌的抗菌性防御素（如猪的 $\beta$ 防御素[34])。研究发现断奶会引起仔猪肠道大肠杆菌等有害菌群浓度上升，乳酸菌等有益菌浓度显著下降[35]。肠道微生态环境失衡，往往会导致猪消化不良或腹泻，诱导 IBD 的发生[36]，产肠毒素型大肠杆菌（ETEC）大量增殖。研究发现 ETEC能够影响紧密连接蛋白及其编码基因的表达，从而导致肠道上皮细胞损伤[37]。进一步研究表明ETEC 能够降低肠道上皮IPEC-J2 细胞的跨膜电阻并激活Caspase-3，诱发细胞凋亡[38-39]。
+
+MDBPs能够有效地抑制革兰氏阴性（ ${ \bf G } ^ { - } \dot { { \bf \theta } }$ ）菌和革兰氏阳性菌 $( \mathbf { G } ^ { + } )$ 的活性，尤其对肠道食源性有害病菌具有很强的抑制能力。研究表明，从乳铁蛋白水解分离的抗菌小肽含有较多的Cys 和丙氨酸（Ala)，对革兰氏细菌（包括G-和 $\mathbf { G } ^ { + }$ ）具有明显的抑制效果[40]。而酪蛋白水解分离的抗菌小肽含有较多的脯氨酸（Pro)，对金黄色葡萄球菌和大肠杆菌有较好的抑制作用[41]。大多数乳铁蛋白来源的抗菌肽由 50 个以下的氨基酸构成，含有较多疏水性氨基酸和碱性氨基酸[42]。如果肽段中含有较多的Cys 或两端是 Ala，则能有效增强肽段对致病菌的抑制能力。此外，MDBPs 的2级结构也会影响到抗菌能力， $\beta$ -层状结构相对于 $\mathfrak { a }$ 螺旋结构对革兰氏细菌( $\mathbf { \bar { G } } ^ { - }$ 和 $\mathbf { G } ^ { + }$ )具有更强的抑制能力[43]。Yoon 等[44]在饲粮中添加人工合成的抗菌肽 AMP-P5 后发现其能够提高断奶仔猪的生长性能，并且能够显著促进肠道对营养物质的吸收和降低腹泻率。Jiang 等[45]研究表明，在饲粮中补充甘氨酸（Gly）-谷氨酰胺（GIn）可以缓解大肠杆菌脂多糖（LPS）引起的早期断奶仔猪的生长抑制和免疫功能障碍。
+
+MDBPs 抑制微生物的作用机制主要是破坏靶细胞细胞膜。Reddy 等[46]研究发现，抗菌肽可以通过螺旋聚集模式形成孔状通道，利用其疏水性表面与膜磷脂酰基侧链相互作用形成水相孔洞，然后不断招募更多的抗菌肽来稳定并增大孔洞，最终导致靶细胞内容物泄漏。然而，只有大小合适、螺旋角度恰好且具有双亲性质的抗菌肽才能采用螺旋聚集模式，大多数抗菌肽采用的是环孔模式[47]，即多个抗菌肽先与细胞膜平行相对的招募聚集，达到一定阈值浓度后，插入膜内形成环状孔洞，靶细胞会随着抗菌肽浓度和孔洞数目增加而崩解。此外，抗菌肽还能够通过抑制DNA 和 RNA 的合成、抑制蛋白质和酶的合成及活性、抑制 $\mathrm { { N a ^ { + } { - } K ^ { + } } . }$ -ATPase 的活性来影响能量供应，或通过抑制微生物细胞壁形成等各种方式杀灭微生物。乳源抗菌肽在改善肠道微生物环境方面的具体调控机制尚不明确，有待进一步的研究探索。
+
+# 2.4对肠道免疫功能的影响
+
+肠道不仅是营养物质消化吸收的场所，也是机体最大的免疫器官。当抗原进入肠道屏障后，肠  
+道免疫细胞会对其进行吞噬并触发机体免疫防御机制。淋巴细胞是动物机体主动免疫系统的主要组  
+成部分，在肠道黏膜免疫屏障中也具有重要地位。哺乳动物机体中T淋巴细胞亚群比例的协调对于  
+机体免疫功能具有重要的作用。肠道固有层淋巴细胞的增殖分化则会影响到肠道免疫耐受和应答。MDBPs能够调控淋巴细胞增殖、促进巨噬细胞的吞噬及下调某些淋巴因子的产生，从而调控  
+幼小动物免疫系统发育[3]。从 $\kappa .$ 酪蛋白酶解分离得到的乳源酪蛋白巨肽（caseino-glycomacropeptide,  
+CGMP）能够调节T淋巴细胞亚群平衡，维持肠道免疫功能稳定，还能够调节肠道微生态环境，间  
+接提高肠道免疫能力[48-49]。Zhou 等[50]研究报道，MDBPs 的Gln-Glu-Pro-Val-Leu(QEPVL)序列在体
+
+内外都能显著提高淋巴球活性，还能够增加淋巴细胞增殖率和抗菌肽浓度。QEPVL 还可以通过调节体内一氧化氮的释放和细胞因子白介素-4（IL-4）、白介素-10（IL-10）、干扰素-γ（IFN-γ）和肿瘤坏死因子（TNF-α）的产生，从而抑制LPS 诱导的炎症。而 β-酪蛋白水解得到的 MDBPs 能够促进巨噬细胞的吞噬，并改善相关的炎症反应[1]。此外， $\beta$ -CM-7具有阿片肽活性，能够上调肠道淋巴细胞相关基因的表达，提高肠道黏膜屏障能力[34.4]。很多具有阿片肽活性和免疫调理活性的MDBPs 能够激活相关信号通路及受体，增强细胞因子浓度，激活免疫相关酶，进而促进免疫细胞增殖分化，提高动物机体免疫能力[3-4]。
+
+3小结
+
+综上所述，MDBPs可以促进肠道营养物质吸收，缓解断奶或肠炎引发的氧化应激，抑制肠道有害致病菌，改善肠道微生态环境，促进肠道免疫细胞增殖和增强巨噬细胞的吞噬作用。深入开展MDBPs对肠道健康的影响机制研究不仅对动物营养及生产具有重要意义，还能够为人类肠道健康提供有力的参考依据。相对于化学药物，MDBPs天然且无副作用，对人类肠道疾病以及心血管疾病的治疗具有广阔的应用前景。目前，对MDBPs 的研究还有待深入开展，应该结合分子生物学，利用组学技术及现代显微技术对MDBPs的结构和详细的作用机制进行分析探讨。
+
+# 参考文献：
+
+[1] GILBERT E R,WONG E A,WEBB K E,Jr.Board-invited review:peptide absorption and utilization:implications for animal nutrition and health[J].Journal of Animal Science,2008,86(9):2135-2155.   
+[2] KITTS D D,WEILER K.Bioactive proteins and peptides from food sources.Applications of bioprocesses used in isolation and recovery[J].Current Pharmaceutical Design,2003,9(16):1309-1323. [3]KORHONEN H,PIHLANTO A.Bioactive peptides:production and functionality[J].International Dairy Journal,2006,16(9):945-960.   
+[4]NAGPAL R,BEHARE P,RANA R,et al.Bioactive peptides derived from milk proteins and their health beneficial potentials:an update[J].Food & Function,2O11,2(1):18-27.   
+[5] SPANIER B.Transcriptional and functional regulation of the intestinal peptide transporter PEPT1[J].The Journal of Physiology,2014,592(5):871-879. [6]贺光祖,谭碧娥,肖昊,等.肠道小肽吸收利用机制及其营养功能[J].动物营养学 报,2015,27(4):1047-1054.   
+[7]VIJ R,REDDI S,KAPILA S,et al.Transepithelial transport of milk derived bioactive peptide VLPVPQK[J].Food Chemistry,2016,190:681-688.   
+[8]DALMASSO G,THI THU NGUYEN H,YAN Y T,et al.MicroRNA-92b regulates expression of the oligopeptide transporter PepT1 in intestinal epithelial cels[J].American Journal of Physiology Gastrointestinal & Liver Physiology,2011,300(1):G52-G59.   
+[9]DANIEL H,KOTTRA G.The proton oligopeptide cotransporter family SLC15 in physiology and pharmacology[J].Pflugers Archiv,2004,447(5):610-618.   
+[10]WARSI J,DONG L,ELVIRA B,et al.SPAK dependent regulation of peptide transporters PEPT1 and PEPT2[J].Kidney & Blood Pressure Research,2014,39(4):388-398.   
+[11]WARSI J,ELVIRA B,BISSINGER R,et al.Downregulation of peptide transporters PEPT1 and PEPT2byoxidativestressresponsivekinaseOSR1[J].Kidney&BloodPressure Research,2014,39(6):591-599.   
+[12]HAN D N,ZHANG D H,WANG L P,et al.Protective effect of $\beta$ casomorphin-7 on cardiomyopathy of streptozotocin-induceddiabeticratsviainhibitionofhyperglycemiaandoxidative stress[J].Peptides,2013,44:120-126.   
+[13]YIN H,MIAO J F,ZHANG Y S.Protective effect of $\beta$ casomorphin-7 on type 1 diabetes rats induced with streptozotocin[J].Peptides,2010,31(9):1725-1729.   
+[14]ZOGHBI S,TROMPETTE A,CLAUSTRE J,et al. $\beta$ casomorphin-7 regulates the secretion and expression of gastrointestinal mucins through a $\mu$ opioid pathway[J].American Journal of Physiology Gastrointestinal and Liver Physiology,2006,290(6):G1105-G1113.   
+[15]ZHANG W,SONG S X,LIU F,et al.Beta-casomorphin-7 prevents epithelial-mesenchymal transdifferentiation of NRK-52E cellsat high glucose level:involvement of Ang Il -TGF- ${ \bf \beta } \cdot { \bf \{ \beta \} } $ （202 pathway[J].Peptides,2015,70:37-44.   
+[16]DALZIEL J E,SPENCER N J,DUNSTAN K E,et al.An in vitro rat model of colonic motility to determine the effect of （20 $\beta$ casomorphin-5 on propagating contractions[J].Food &
+
+runcuon,2014,5(11):2/08-2/ /4.
+
+[17]TIDONA F,CRISCIONE A,GUASTELLA A,et al.Bioactive peptides in dairy products[J].Italian Journal of Animal Science,2009,8(3):315-340.   
+[18]GARCIA-NEBOT M J,BARBERA R,ALEGRIA A.Iron and zinc bioavailability in Caco-2 cells:influence of caseinophosphopeptides[J].Food Chemistry,2013,138(2/3):1298-1303.   
+[19]GARCIA-NEBOT MJ,ALEGRIA A,BARBERA R,et al.Effect of caseinophosphopeptides from ${ \bf { q } } _ { \mathrm { { s } } }$ ， and $\beta$ caseinonironbioavailabilityinHuH7 cels[J].Journal ofAgriculturalandFood Chemistry,2015,63(30):6757-6763.   
+[20]BOUTROU R,COIRRE E,JARDIN J,et al.Phosphorylation and coordination bond of mineral inhibit the hydrolysisofthe $\beta$ casein(1-25） peptide by intestinal brush-bordermembrane enzymes[J].Journal of Agricultural and Food Chemistry,2010,58(13):7955-7961.   
+[21] 李垚,李玲,苏全,等.小肽螯合铜、铁、锰、锌、硒对仔猪生长性能及代谢影响[J].东北农业大学 学报,2016,47(2):46-53.   
+[22] MEJARE M,BULOW L.Metal-binding proteinsand peptidesin bioremediationand phytoremediation of heavy metals[J].Trends in Biotechnology,2001,19(2):67-73.   
+[23]BHATTACHARYYA A,CHATTOPADHYAY R,MITRA S,et al.Oxidative stres:an essential factor in the pathogenesis of gastrointestinal mucosal diseases[J].Physiological Reviews,2014,94(2):329-354. [24]CAI X,CHEN X L,WANG X C,et al.Pre-protective effect of lipoic acid on injury induced by $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ in IPEC-J2 cells[J].Molecular and Cellular Biochemistry,2013,378(1/2):73-81.   
+[25]ZHU L H,ZHAO K L,CHEN X L,et al.Impact of weaning and an antioxidant blend on intestinal barrier function and antioxidant status in pigs[J].Journal of Animal Science,2012,90(8):2581-2589. [26]WEBER C.IBD:lactococcus lactis allviates oxidative stress and colitis in mice[J].Nature Reviews Gastroenterology & Hepatology,2015,12(8):429.   
+[27]ZHANG Q X,JIN M M,ZHANG L,et al.Hydrophobicity of whey protein hydrolysates enhances the protective effect against oxidative damage on PC 12 cells[J].Journal of Dairy Research,2015,82(1):1-7. [28]RIVAL S G,FORNAROLI S,BOERIU C G,et al.Caseins and casein hydrolysates.1.Lipoxygenase inhibitory properties[J].Journal of Agricultural and Food Chemistry,2001,49(1):287-294.
+
+[29]CHEISON S C,WANG Z,XU S Y.Preparation of whey protein hydrolysates using a single-and two-stage enzymaticmembrane reactor and theirimmunologicalandantioxidant properties:characterization bymultivariatedata analysis[J].Journal ofAgriculturalandFood Chemistry,2007,55(10):3896-3904.
+
+[30]SILVA S V,MALCATA F X.Caseins as source of bioactive peptides[J].International Dairy Journal,2005,15(1):1-15.   
+[31] BHAT Z F,KUMAR S,BHAT H FBioactive peptides of animal origin:a review[J].Journal of Food Science and Technology,2015,52(9):5377-5392.   
+[32]PENA-RAMOS E A,XIONG Y L,ARTEAGA G E.Fractionation and characterisation for antioxidant activity ofhydrolysed wheyprotein[J].Journal of the Science of Foodand Agriculture,2004,84(14):1908-1918.   
+[33]HOOPER L V,LITTMAN D R,MACPHERSON A J.Interactions between the microbiota and the immune system[J].Science,2012,336(6086):1268-1273.   
+[34]CHOI M K,LE M T,NGUYEN D T,et al.Genome-level identification,gene expresson,and comparative analysis of porcine B-defensin genes[J].BMC Genetics,2O12,13(1):98.   
+[35]MATHEW A G,SUTTON A L,SCHEIDT A B,et al.Efect of galactan on selected microbial populations and $\mathrm { \ p H }$ and volatile fatty acids in the ileum of the weanling pig[J].Journal of Animal Science,1993,71(6):1503-1509.   
+[36]KERMAN D H,DESHPANDE A R.Gut microbiota and inflammatory bowel disease:the role of antibiotics in disease management[J].Postgraduate Medicine,2014,126(4):7-19.   
+[37]MUKIZA C N,DUBREUIL JD.Escherichia coli heat-stable toxin b impairs intestinal epithelial barrier function by altering tight junction proteins[J].Infection and Immunity,2013,81(8):2819-2827. [38]ROSELLI M,FINAMORE A,BRITTI M S,et al.The novel porcine Lactobacillus sobrius strain protects intestinal cels from enterotoxigenic Escherichia coli K88 infection and prevents membrane barrier damage[J].The Journal of Nutrition,2007,137(12):2709-2716.   
+[39]JOHNSON A M,KAUSHIK R S,ROTELLA N J,et al.Enterotoxigenic Escherichia coli modulates host intestinal cell membrane asymmetry and metabolic activity[J].Infection and
+
+Immunity,2009,77(1):341-347.
+
+[40]Otvos L,Jr.The Short proline-rich antibacterial peptide family[J].Celllar and Molecular Life Sciences,2002,59(7):1138-1150.   
+[41]GOBBETTI M,MINERVINI F,RIZZELLO C G.Angiotensin I -converting-enzyme-inhibitory and antimicrobial bioactive peptides[J].International Journal of Dairy Technology,2004,57(2/3):173-188. [42]RYDLO T,MILTZ J,MOR A.Eukaryotic antimicrobial peptides:promises and premises in food safety[J].Journal of Food Science,2006,71(9):R125-R135.   
+[43] ZHOUN,TIELEMANP,VOGEL H J.Moleculardynamicssimulationsofbovine lactoferricin:turning a helix into a sheet[J].Biometals,2004,17(3):217-223.   
+[44]YOON J H,INGALE S L,KIM J S,et al.Effects of dietary supplementation with antimicrobial peptide-P5 on growth performance,apparent total tract digestibility,faecal and intestinal microflora and intestinalmorphologyofweanlingpigs[J].JournaloftheScienceofFoodand Agriculture,2013,93(3):587-592.   
+[45]JIANG Z Y,SUN L H,LIN Y C.et al.Effects of dietary glycyl-glutamine on growth performance,small intestinal integrity,and immune responses of weaning piglets challenged with lipopolysaccharide[J].Journal of Animal Science,2009,87(12):4050-4056.   
+[46] REDDY K V R,YEDERY R D,ARANHA C.Antimicrobial peptides:premisesand promises[J].International Journal of Antimicrobial Agents,2004,24(6):536-547.   
+[47]HUANG H W.Free energies of molecular bound states in lipid bilayers:lethal concentrations of antimicrobial peptides[J].Biophysical Journal,2009,96(8):3263-3272.   
+[48] OWENS B M J,SIMMONSA.Intestinal stromal cellsin mucosal immunityand homeostasis[J].Mucosal Immunology,2013,6(2):224-234.   
+[49]GAUTHIER S F,POULIOT Y,SAINT-SAUVEUR D.Immunomodulatory peptides obtained by the enzymatic hydrolysis of whey proteins[J].International Dairy Journal,2006,16(11):1315-1323.   
+[50]ZHOU J H,MA L L,XU H H,et al.Immunomodulating effects of casein-derived peptides QEPVL and QEPV on lymphocytes in vitro and in vivo[J].Food & Function,2014,5(9):2061-2069. Mechanisms and Effects of Milk-Derived Bioactive Peptides on Intestinal Functions ZHOU Jian1.2 XIONG Xia1.2\*LI Jianzhong1DENG Baichuan²HUANG Pengfei1YIN Yulong1,2\* (1. Laboratory of Animal Nutrition and Human Health, Collge of Life Sciences, Hunan Normal University, Changsha 410006, China; 2. Key Laboratory of Agro-Ecological Processes in Subtropical Region, Institute of Subtropical Agriculture, Chinese Academy of Sciences, Changsha 410125, China)   
+Abstract: Milk-Derived bioactive peptides （MDBPs）,smallpeptides exist in milk,function on a variety   
+of metabolic pathways and physiological process. Studies in recent years found that MDBPs could be able   
+to promote the intestinal absorption,slow down the intestinal oxidative stress symptoms,improve the   
+intestinal microbial environment and enhance the intestinal immunity. This review summarized the   
+mechanisms and the effects of MDBPs on intestinal functions.   
+Key words: milk-derived bioactive peptides; animal gut; mechanism; oxidative stress; intestinal immunity

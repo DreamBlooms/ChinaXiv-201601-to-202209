@@ -1,0 +1,110 @@
+# 内源 $\mathrm { C D } 1 3 3 ^ { + }$ 细胞示踪小鼠模型的制备和鉴定
+
+韩明 罗玉萍\*(南昌大学生命科学学院 南昌 330031)
+
+【摘要】本研究旨在制备可追踪CD133 阳性神经干细胞分化谱系的小鼠模型。将两种C57B16 背景的转基因小鼠 CD133-Cre-ERT2 和 Rosa26-CAG-LSL-ZsGreen 杂交，获得CD133-CreER;CAG-ZsGreen小鼠模型。免疫组化和激光扫描共焦成像分析表明，经Tamoxifen作用后，该杂交小鼠在侧脑室SVZ区、第三脑室和第四脑室的室管膜区域均表达绿色荧光蛋白ZsGreen，且这些区域的绿色荧光与 $\mathrm { C D } 1 3 3 ^ { + }$ 红色荧光重合。在室管膜区 $\mathrm { C D } 1 3 3 ^ { + }$ 是静息态神经干细胞的标志,因此,通过分析CD133-CreER;CAG-ZsGreen小鼠中的 ZsGreen阳性细胞可追踪神经干细胞的细胞分化谱系。本研究成功制备了内源 $\mathrm { C D } 1 3 3 ^ { + }$ 细胞示踪小鼠模型，为探讨大脑中 $\mathrm { C D } 1 3 3 ^ { + }$ 神经干细胞的激活、增殖、迁移和分化提供了帮助。
+
+关键词：CD133；神经干细胞；转基因小鼠
+
+Establishment and identification of endogenous CD $1 3 3 ^ { + }$ cell tracer mouse model
+
+【Abstract】 Objective: To establish a mouse model that can trace the diferentiation of CD133 positive neural stem cells， the CDl33-Cre-ERT2 transgenic mice were mated with Rosa26-CAG-LSL-ZsGreen transgenic mice to produce CD133-CreER;CAG-ZsGreen double transgenic in C57Bl6 mice.The immunohistochemistry and laser scanning confocal imaging analysis showed that Tamoxifen-Inducible Cre/loxP recombination,as depicted by green cells, existed in lateral ventricle SVZ,the ventricular zone of third ventricle and the fourth ventricle in adult mice,and the green fluorescence overlaps with $\mathrm { C D } 1 3 3 ^ { + }$ red fluorescence in these regions. $\mathrm { C D } 1 3 3 ^ { + }$ is the sign of the resting nerve stem cell in the ventricle membrane, so we can trace the cell differentiation lineages of neural stem cells by analyzing ZsGreen positive cells in CD133-CreER;CAG-ZsGreen mice. The mouse model for in vivo lineage tracing of endogenous $\mathrm { C D } 1 3 3 ^ { + }$ cell was established successfully，which will be helpful to explore the activation, proliferation, migration and differentiation of $\mathrm { C D } 1 3 3 ^ { + }$ neural stem cells in the brain.
+
+【Key words】: CD133; Neural stem cells; Transgenic mouse
+
+神经干细胞（neural stemcells，NSCs）是具有自我更新和多向分化潜能的细胞，在一定的条件下能够分化成神经元（neurons）、星形胶质细胞（astrocytes）和少突胶质细胞（oligodendrocytes）[1]。成体神经干细胞增殖、迁移、分化、产生成熟的神经元并整合到大脑已有的神经环路中，这一神经发生现象贯穿哺乳动物整个生命过程。成体神经发生的异常与癫痫、中风及神经退行性疾病的发生和发展密切相关[2-4]。目前，人们已经公认，成体神经发生主要存在于前脑两个神经发生区域：侧脑室的室管膜下区（subventricular zone of thelateral ventricles,SVZ）和海马齿状回颗粒下区（(subgranular zone of the dentate gyrus,SGZ）[5-6]。有趣的是，脑内的非神经发生区(non-neurogenic regions）在脑损伤条件下也能诱导神经元的产生[7-8]，这一发现预示了脑损伤后，在非神经发生区新的神经元可能参与损伤脑的修复。因此，建立示踪神经干细胞小鼠模型可观察在生理和病理条件下成体神经发生现象。
+
+CD133，也称为Prominin-1，是一个分子量为 $1 2 0 \mathrm { { k D a } }$ ，由865个氨基酸组成的5次跨膜糖蛋白[9]。CD133是多种干/祖细胞的表面标志之一，并且在细胞生长、发育和肿瘤生物学等方面都有作用。近期的研究表明，CD133蛋白在神经干细胞中均有表达。Coskun 等利用遗传谱系示踪方法证实，SVZ中的 $\mathrm { C D } 1 3 3 ^ { + }$ 细胞可以分化产生新的神经元并迁移到嗅球，并认为 $\mathrm { C D } 1 3 3 ^ { + }$ 细胞与GFAP+型细胞相比能更普遍地代表静息状态下的成体神经干细胞[10]。Beckervordersandforth 等采用流式细胞分选术从小鼠 SVZ区分选了CD133和GFAP双阳的细胞，该细胞具有自我更新和多向分化潜能[I]。Codega 等则认为CD133 和GFAP 双阳的细胞是静息状态的成体神经干细胞[12]。Luo 等证明了在哺乳动物大脑第四脑室的室管膜下区存在静息态的 $\mathrm { C D } 1 3 3 ^ { + } \mathrm { N S C s } ^ { [ 1 3 ] }$ 。因此，本实验利用遗传学方法制备可追踪CD133阳性神经干细胞分化谱系的小鼠模型，通过该小鼠模型可以观察成体小鼠大脑中 $\mathrm { C D } 1 3 3 ^ { + } \mathrm { N S C s }$ 的分布与迁移情况，为脑损伤和神经退行性疾病的研究提供帮助。
+
+# 1材料和方法
+
+# 1.1 实验动物
+
+C57B16野生型小鼠以及同背景的转基因小鼠CD133-Cre-ERT2小鼠和Rosa26-CAG-LSL-ZsGreen小鼠在同济大学医学院实验动物中心 SPF 级动物房饲养，雌雄鼠以2:1的比例进行合笼并标记。
+
+# 1.2 实验材料
+
+他莫昔芬（Sigma），肝素钠（Sigma），叠氮化钠（索莱宝），水合氯醛（KAYON)，PFA（索莱宝），DAPI免疫荧光染色液（索莱宝），OCT，KAPAMouse Genotyping Kit（KAPAbiosystems），鼠抗 CD133（eBioscience），Alexa Fluor 594、Alexa Fluor 488（Invitrogen）
+
+# 1.3 小鼠基因组DNA的提取
+
+使用KAPAMouse Genotyping Kit 试剂盒进行小鼠基因组DNA 提取。剪取待鉴定小鼠鼠尾（约2毫米)，放入1.5ul 离心管中，向其中依次加入PCR-grade water( $8 8 \mathrm { u l }$ ， $1 0 \times$ KAPAExpress Extract Buffer（10ul)，1U/ul KAPA Express Extract Enzyme （2ul)，共 $\mathsf { 1 0 0 u l }$ 反应体系，震荡混匀并稍离心；将反应管置于水浴锅中， $7 5 \mathrm { ^ \circ C }$ ，10分钟；随后 $9 5 \mathrm { ^ \circ C }$ ，5分钟；震荡并高速离心，将含有DNA的上清转移到一个新的离心管中。
+
+# 1.4PCR 鉴定小鼠基因型
+
+CD133-Cre-ERT2小鼠所用引物序列为Common-F： $5 ^ { \circ }$ -CAGGCTGTTAGCTTGGGTTC-3'，Wild type-R: $5 ^ { \circ }$ -TGC TGA TTG CCT TCT GTC TG- ${ } \cdot 3 ^ { \circ }$ ，Mutant-R: $5 ^ { \circ }$ -AGG CAA ATTTTG GTG TACGG-3’，两对引物共用上游引物；Rosa26-CAG-LSL-ZsGreen 小鼠所用引物序列为Wild type-F: $5 ^ { \circ }$ -AAG GGA GCT GCA GTG GAG TA-3'，wild type-R: $5 ^ { \circ }$ -CCG AAA ATCTGT GGG AAG TC- $. 3 ^ { \circ }$ ; mutant-F: $5 ^ { \circ }$ -GGC ATT AAA GCA GCG TAT CC- $. 3 ^ { \circ }$ ，mutant-R: $5 ^ { \circ }$ -AACCAG AAG TGG CAC CTG AC-3'。
+
+在 $2 5 \mathrm { u l }$ 体系中加入： $2 \times \mathrm { K A P A }$ Fast (HotStart） Genotyping Mix $1 2 . 5 \mathrm { u l }$ ，上游引物（10umol/L） $1 . 2 5 \mathrm { u l }$ ，下游引物（10umol/L） $1 . 2 5 \mathrm { u l }$ ，DNA 模板 1ul, $\mathrm { \ d d H } _ { 2 } \mathrm { O } 9 \mathrm { u l }$ 。扩增条件为： $9 5 ^ { \circ } \mathrm { C }$ 预变性3分钟，循环参数为 $9 5 \mathrm { ^ \circ C }$ 15 s, $6 0 ^ { \circ } \mathrm { C }$ $1 5 \mathrm { ~ s ~ }$ ， $7 2 ^ { \circ } \mathrm { C }$ 15 s，35个循环后 $7 2 ^ { \circ } \mathrm { C }$ 延伸 $1 \mathrm { m i n }$ 。PCR产物用 $2 \%$ 琼脂糖凝胶电泳检测 $( 1 2 0 \mathrm { V } , 2 0 \mathrm { m i n } )$
+
+# 1.5 $\mathrm { C D } 1 3 3 ^ { + } ;$ 细胞示踪小鼠模型的制备
+
+将CD133-Cre-ERT2 和 Rosa26-CAG-LSL-ZsGreen 纯合雌雄小鼠于晚18:00 合笼，次日晨8:00 查栓，母鼠阴道出现阴栓之日记为受孕当天，即E0（Embryonic day0)；仔鼠出生当天记为 PO (Postnatal day O)；杂交仔鼠即为可以追踪 CD133 阳性神经干细胞增殖和分化谱
+
+系的 CD133-CreER;CAG-ZsGreen 小鼠模型。
+
+# 1.6免疫荧光组织化学染色
+
+小鼠用 $10 \%$ 的水合氯醛（ $\mathrm { | 4 g / u l }$ ）腹腔注射麻醉后，暴露心脏，用 $2 5 \mathrm { m l } 4 \mathrm { { \bar { C } } }$ 预冷的PBS（PH7.4）灌注小鼠（包含 $1 0 \mathrm { U / m l }$ 的肝素)，观察到肝脏变白后，换用 $2 5 \mathrm { m l } 4 \mathrm { { \bar { C } } }$ 预冷的PFA$4 \%$ ）继续灌流固定。断头取脑，将剥离出来的脑浸泡在 $4 \%$ 的PFA（PH7.4）中固定， $4 ^ { \circ } \mathrm { C }$ 中摇晃18-24小时，经蔗糖溶液梯度脱水，样品OCT包埋、冰冻处理，冷冻切片机（Leica）进行水平面冷冻切片，片厚 $1 0 ~ \mu \mathrm { { m } }$ ，裱于防脱载玻片上，将载玻片置于暗盒中，1XPBS 清洗3次以去除OCT，免疫染色封闭液室温封闭1h；添加鼠抗CD133（1:500)， $4 ^ { \circ } \mathrm { C }$ 孵育过夜;$1 \times \mathrm { P B S }$ 清洗3次，二抗AlexaFluor 594、Alexa Fluor 488（1：1000）室温避光孵育1h；1$\mathsf { \times P B S }$ 洗3次，DAPI（1:1000）室温下避光孵育 $4 0 \mathrm { { m i n } }$ ； $1 \times \mathrm { P B S }$ 清洗3次，滴加防淬灭剂封片，激光共聚焦显微镜（Leica）观察照相。
+
+# 2结果与分析
+
+# 2.1亲代小鼠的基因型鉴定
+
+$\mathrm { C D } 1 3 3 ^ { + }$ 细胞示踪小鼠为两种转基因鼠的杂交后代，所以需保证亲代小鼠为基因型纯合品系。采用PCR方式鉴定小鼠基因型，CD133-Cre-ERT2纯合小鼠电泳的目的条带在320bp（图1A），其野生型条带为 580bp（图1B)；Rosa26-CAG-LSL-ZsGreen 纯合小鼠目的条带在199bp（图1C)。结果显示：我们成功鉴定了亲代小鼠的基因型，将纯合的小鼠合笼杂交，后代可用于后续实验。
+
+![](images/1ae7e290b21259a48634fd87747ad61bd9f8c1faeed88186269a5392645108a8.jpg)  
+图1CD133-Cre-ERT2和Rosa26-CAG-LSL-ZsGreen转基因小鼠的PCR鉴定结果
+
+A-B：CD133-Cre-ERT2转基因小鼠PCR鉴定结果   
+C：Rosa26-CAG-LSL-ZsGreen 转基因小鼠PCR 鉴定结果   
+Fig.2 PCR genotyping for CD133-Cre-ERT2 and Rosa26-CAG-LSL-ZsGreen transgenic mice   
+A-B: The PCR genotyping for CD133-Cre-ERT2 transgenic mice   
+C: The PCR genotyping for Rosa26-CAG-LSL-ZsGreen transgenic mice
+
+# 2.2 $\mathrm { C D } 1 3 3 ^ { + } ;$ 细胞示踪小鼠模型的制备
+
+将经PCR技术鉴定的CD133-Cre-ERT2纯合小鼠和Rosa26-CAG-LSL-ZsGreen纯合小鼠作为亲本制备 $\mathrm { C D } 1 3 3 ^ { + }$ 细胞示踪小鼠模型。在CD133-Cre-ERT2纯合小鼠中，Cre-ERT2融合蛋白序列置换了CD133（Prom1）基因启动子下游的编码序列，该小鼠的CD133阳性细胞中产生的Cre-ERT2融合蛋白不能切除基因组中位于两个loxP之间的序列，但是经Tamoxifen 激活后可切除两个loxP之间的序列；在Rosa26-CAG-LSL-ZsGreen小鼠中插入了CAG-loxP-STOP-loxP-ZsGreen序列，由于在绿色荧光蛋白ZsGreen 编码序列的上游具有“STOP”序列，因此该小鼠不能产生绿色荧光蛋白 ZsGreen。上述两个转基因小鼠交配后能够获得用于追踪 $\mathrm { C D } 1 3 3 ^ { + }$ 神经干细胞分化谱系的小鼠（CD133-CreER;CAG-ZsGreen 小鼠）。该小鼠在 $\mathrm { C D } 1 3 3 ^ { + }$ 细胞表达Cre-ER融合蛋白，在Tamoxifen的激活下，Cre 酶切除小鼠CAG-loxP-STOP-loxP-ZsGreen 序列中位于两个loxP之间的“STOP”序列，“STOP”序列切除后绿色荧光蛋白ZsGreen在CAG启动子的启动下表达。因此Tamoxifen作用后，CD133-CreER;CAG-ZsGreen 小鼠中的CD133 阳性细胞及由CD133 阳性神经干细胞分化产生的各种神经细胞（神经元、星形胶质细胞、少突胶质细胞）及处于不同分化阶段的细胞均表达绿色荧光蛋白 ZsGreen（图2)。将 CD133-Cre-ERT2和Rosa26-CAG-LSL-ZsGreen 纯合小鼠合笼，杂交仔鼠即为可以追踪CD133阳性神经干细胞增殖和分化谱系的CD133-CreER;CAG-ZsGreen 小鼠模型（图2）。
+
+![](images/ec6366b96b6c405318cf8bb35d2adacb8a85f7c4c6b943d165416a08600b555a.jpg)  
+图2CD133阳性细胞示踪小鼠制备示意图Fig.2 Schematic diagram of transgenic mice for tracing CD $1 3 3 ^ { + }$ cell
+
+# 2.3 CD133-CreER;CAG-ZsGreen小鼠的免疫组化鉴定
+
+经Tamoxifen作用后，CD133-CreER;CAG-ZsGreen小鼠中的CD133阳性神经干细胞及由 CD133 阳性神经干细胞分化产生的各种神经细胞均表达绿色荧光蛋白ZsGreen，免疫组化染色结果显示， $\mathrm { C D } 1 3 3 ^ { + }$ 细胞示踪小鼠在侧脑室SVZ区（图3A)，第三脑室（图3B）和第四脑室（图3C）的室管膜区域均表达绿色荧光蛋白ZsGreen，且在这些区域绿色荧光蛋白ZsGreen 基因与 $\mathrm { C D } 1 3 3 ^ { + }$ 基因共表达（图3）。因此，通过分析CD133-CreER;CAG-ZsGreen小鼠中的ZsGreen 阳性细胞可追踪 $\mathrm { C D } 1 3 3 ^ { + }$ 神经干细胞的激活、增殖、迁移和分化谱系。
+
+![](images/8bbe07d833a59c31e311f17df1906b9fccf54ba33712e4f8f5a1964c78574706.jpg)  
+图3免疫组化染色显示ZsGreen和 $\mathrm { C D } 1 3 3 ^ { + }$ 神经干细胞在小鼠室管膜区的分布（蓝色为DAPI，绿色为ZsGreen，红色为CD133）
+
+Fig.3 The immunochemistry staining show the distribution of ZsGreen and CD133+ NSCs in the mouse brain（blue:DAPI，green:ZsGreen，rad: CD133）
+
+A：示踪小鼠大脑侧脑室免疫组化染色结果， B：示踪小鼠大脑第三脑室免疫组化染色结果. C：示踪小鼠大脑第四脑室免疫组化染色结果.
+
+A: The immunochemistry staining for lateral ventricle.   
+B: The immunochemistry staining for third ventricle.   
+C: The immunochemistry staining for fourth ventricle.
+
+3讨论
+
+侧脑室的室管膜下区是目前公认的成体神经发生的区域之一。目前的研究表明，侧脑室的室管膜区CD133阳性的细胞具有成体神经干细胞的特性[10-13]，这些成体神经干细胞通过吻侧迁移流(rostral migratorystream,RMS)迁移至嗅球，分化成为嗅球的中间神经元[14,15]。除SVZ 区域外，在第三脑室、第四脑室及脊髓中央管的室管膜区都存在CD133 阳性的细胞。因此，制备在体内追踪CD133 阳性的成体神经干细胞及其分化谱系的示踪小鼠，能够追踪室管膜区神经发生过程。我们选择了CD133-CreER和CAG-ZsGreen纯合小鼠来制备示踪小鼠。在CD133-CreER;CAG-ZsGreen 杂合小鼠中，CD133 阳性细胞及由CD133 阳性神经干细胞分化产生的各种神经细胞（神经元、星形胶质细胞、少突胶质细胞）及处于不同分化阶段的细胞均表达绿色荧光蛋白ZsGreen。因此，通过分析CD133-CreER;CAG-ZsGreen 小鼠中的ZsGreen 阳性细胞，可追踪 $\mathrm { C D } 1 3 3 ^ { + }$ 神经干细胞的激活、增殖、迁移和分化谱系。
+
+我们的实验结果显示，在示踪小鼠的侧脑室SVZ区、第三脑室和第四脑室的室管膜区域均表达绿色荧光蛋白ZsGreen，且在这些区域绿色荧光蛋白ZsGreen 基因与 $\mathrm { C D } 1 3 3 ^ { + }$ 基因共表达。表明我们成功制备了内源 $\mathrm { C D } 1 3 3 ^ { + }$ 细胞示踪小鼠模型。利用该示踪小鼠，通过原位捕获-单细胞测序分析，可以获得CD133阳性细胞、由CD133阳性神经干细胞分化产生的各种神经细胞及处于不同分化阶段的细胞的表达谱，进而研究神经发生的机制；将示踪小鼠模型与疾病模型小鼠相结合，还可以探究疾病小鼠模型中 $\mathrm { C D } 1 3 3 ^ { + }$ 神经干细胞的神经修复机制。总之，该示踪小鼠对于神经系统的发育、生理性稳态的维持和神经损伤修复的研究都有帮助。
+
+基金项目:国家自然科学基金(31660324)，江西省自然科学基金重大项目(2015ACB20008)\*通讯作者:罗玉萍电话:13761197735，E-mail:luoyuping $@$ 163.com
+
+# 参考文献
+
+[1] Mckay R D. McKay，R. Stem cells in the central nervous system. Science. 1997, 276(5309):66-71.   
+[2]Yun S, Reynolds RP, Masiulis I, Eisch AJ. Re-evaluating the link between neuropsychiatric disorders and dysregulated adult neurogenesis. Nat Med. 2016, 22(11):1239-1247.   
+[3]Walter C, Murphy BL,Pun RY, Spieles-Engemann AL, Danzer SC.Pilocarpine-induced seizures cause selective time-dependent changes to adult-generated hippocampal dentate granule cells. JNeurosci. 2007, 27(28):7541-7552.   
+[4]Unger MS,Marschallinger J, Kaindl J, Hofling C, Rossner S, Heneka MT, Van der Linden A, Aigner L. Early Changes in Hippocampal Neurogenesis in Transgenic Mouse Models for Alzheimer's Disease. Mol Neurobiol. 2016, 53(8):5796-5806.   
+[5]Ming GL, Song H. Adult neurogenesis in the mammalian brain: Significant answers and significant questions. Neuron 2011, 70(4): 687-702.   
+[6]Fuentealba LC, Obernier K, Alvarez-Buylla A. Adult neural stem Cells bridge their niche. Cell Stem Cell 2012, 10(6): 698-708.   
+[7] Gage FH. Mammalian neural stem cells. Science 2000; 287(5457): 1433-1438.   
+[8]Arvidsson A, Collin T, Kirik D, Kokaia Z, Lindvall O. Neu-ronal replacement from endogenous precursors in the adult brain after stroke. Nat Med 2002; 8(9): 963-970.   
+[9]Shmelkov S V, St C R,Lyden D, et al. AC133/CD133/Prominin-1.[J]. International Journal of Biochemistry & Cell Biology,2005, 37(37):715-719.   
+[10] .Coskun V, Wu H, Blanchi B,et al. From the Cover: $\mathrm { C D } 1 3 3 +$ neural stem cells in the ependyma of mammalian postnatal forebrain[J]. Proceedings of the National Academy of Sciences of the United States of America, 2008,105(3):1026-1031.   
+[11] Beckervordersandforth R, Tripathi P,Ninkovic J, Bayam E,Lepier A, Stempfhuber B, KirchhoffF, Hirrlinger J, Haslinger A,Lie DC, Beckers J, Yoder B, Irmler M, Götz M. In vivo fate mapping and expression analysis reveals molecular hallmarks of prospectively isolated adult neural stem cells. Cell Stem Cell. 2010 7(6):744-758.   
+[12] Codega P, Silva-Vargas V, Paul A, Maldonado-Soto AR, Deleo AM, Pastrana E, Doetsch F. Prospective identification and purification of quiescent adult neural stem cells from their in vivo niche. Neuron. 2014 82(3):545-559.   
+[13] Luo Y, Coskun V, Liang A, et al. Single-Cell Transcriptome Analyses Reveal Signals to Activate Dormant Neural Stem Cells[J]. Cell, 2015,161(5):1175-1186.   
+[14] Hsieh J. Orchestrating transcriptional control of adult neurogenesis. Genes Dev. 2012, 26(10):1010-1021.   
+[15] Bonaguidi MA,Wheeler MA, Shapiro JS, Stadel RP, Sun GJ et al. In vivo clonal analysis reveals self-renewing and multipotent adult neural stem cell characteristics. Cell 2011, 145(7):1142-1155.

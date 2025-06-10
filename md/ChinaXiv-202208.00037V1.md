@@ -1,0 +1,161 @@
+# 黑老虎內生真菌及根际土壤真菌的群落结构与生态功能分
+
+# 析
+
+刘涛1，马楠²，金吉芬³，彭志军1，李兴忠1，汪得凯²（1.贵州省果树科学研究所，贵阳 550006；2.浙江理工大学生命科学与医药学院，杭州310018；3.贵州省农作物品种资源研究所，贵阳550006)
+
+摘要：为探讨黑老虎（Kadsuracoccinea）根际土壤和组织内生真菌菌群的组成及其生态功能，该文采用ITS高通量测序技术对成熟黑老虎内生真菌（根、茎和叶）及根际土壤真菌群落结构、多样性和生态功能进行了分析。结果表明：（1）12个样品共获得2241个可操作分类单元（OTU），涉及10个门、41个纲、95个目、212个科、367个属，内生真菌和根际土壤真菌OTU数分别为1453、386、536和258，其中共有的OTU为18个。在门水平上，黑老虎内生真菌及根际土壤真菌优势群落均为子囊菌门和担子菌门，其中子囊菌门在叶片和茎中占比分别高达 $9 6 . 9 9 \%$ 和 $9 5 . 3 7 \%$ ；在属水平上，根际土壤真菌中腐生真菌被孢霉属占比较高（ $1 3 . 5 \%$ ），而叶片和茎秆等生长旺盛的组织中，子囊菌门未分类属和痂囊腔菌属占比较高。（2） $\mathfrak { a }$ 多样性分析表明，黑老虎根际土壤真菌群落的丰度和多样性明显高于内生真菌；茎中内生真菌丰度显著高于根和叶，而根、茎和叶组织间内生真菌多样性差异不显著。PCoA结果显示，叶片和茎秆的真菌群落结构相似性更高。（3）利用FUNGuild数据库对黑老虎内生真菌及根际土壤真菌群落进行功能预测分析，结果发现黑老虎根际土壤真菌和内生真菌含有大量的未分类菌群。功能已分类菌群中，病理寄生型功能群在生长旺盛的组织中占比较高。研究结果为黑老虎优异功能菌的筛选和发掘提供了理论依据。
+
+关键词：黑老虎，高通量测序，ITS，内生真菌，根际真菌，多样性，FUNGuild中图分类号：Q945.8 文献标识码：A
+
+# Composition and ecological function of the endophytic and rhizosphere soil fungi in Kadsura coccinea
+
+LIU Tao1, MA Nan², JIN Jifen³, PENG Zhijun1,LI Xinzhongl,WAN Dekai2\*   
+(1. Citrus Fruit Research Institute in Guizhou Province, Guiyang 55010o, China; 2. College of Life Sciences and Medicine, Zhejiang Sci-Tech University,Hangzhou 310o18, China; 3.   
+Institute of Grop Germplasm Resources Guizhou Academy of Agricultultural Sciences, Guiyang 550100, China)
+
+Abstract: To investigate rhizosphere soil and endophytic fungal community composition, diversity,and ecological functions in Kadsura coccinea, the endophytic fungal community from roots,stems,leaves,and rhizosphere soils of mature $K .$ coccinea were analyzed based on highthroughput sequencing technology. The results were as follows:(1) A total of 2 24l operational taxonomic units (OTUs) were obtained from 12 samples at $9 7 \%$ of sequence homology level. The
+
+OTUs of endophytic and rhizosphere fungi were 1 453, 386,536 and 258,respectively,of which 18 OTUs were in common. There belong to 10 phyla, 41 classes, 95 orders,212 families,and 367 genera,respectively. The dominant fungal communities at the phylum level in the endophytic and rhizosphere soil of $K .$ coccinea are Ascomycetes and Basidiomycetes. Among them,Ascomycota accounted for $9 6 . 9 9 \%$ and $9 5 . 3 7 \%$ of the endophytic fungal community in leaves and stems, respectively.At the genus level, the saprophytic fungi Mortierella accounted for a relatively high proportion $( 1 3 . 5 \% )$ in the rhizosphere soil, in contrast, pathogenic fungi such as Ascomycota and Mortierella were mainly found in vigorously growing tissues (leaves and stems). (2) Alpha diversity analysis showed that the richness and diversity of the fungal community in the rhizosphere soil of $K .$ coccinea were significantly higher than those in endophytic fungi. Although the abundance of endophytic fungi in stems was significantly higher than that in roots and leaves, the differences in endophytic fungal diversity among roots, stems and leaves were not significant. The principal component analysis (PCoA) revealed that the fungal community structures of leaves and stems were more similar, and those of roots and rhizosphere soils were more similar. (3) The function of endophytic fungal communities in different tissues and rhizosphere of $K .$ coccinea was predicted and analyzed by using FUNGuild platform. The results showed that the rhizosphere soil fungi and endophytic fungi contained a large number of unclassified fungi. Among the functionally classified fungi， the pathotroph functional group has a higher proportion in the vigorously growing tissues. This study provides a theoretical basis for the screening and exploring of active functional fungi in K. coccinea.
+
+Key words: Kadsura coccinea, high throughput sequencing, ITS,endophytic fungi, rhizosphere fungi, diversity, FUNGuild
+
+黑老虎（Kadsuracoccinea），别名冷饭团、臭饭团、布福娜等，是木兰科南五味子属植物（林祁等，2007），主要分布于我国湖南、贵州、云南、福建、广西、四川、江西等地(曾建飞，1996)，以根、茎入药，具有行气活血、消肿止痛等功效（Wang et al.,2012）。现代药理学研究显示，黑老虎提取物还具有抗抗氧化、抗衰老、抗病毒、保肝护肝及抗癌等功能（Sun et al.,2009；Zhao et al.,2014；Zhao et al.,2021）。黑老虎果实富含木脂素、氨基酸、花青素等微量元素（舒永志等，2012；赵林峰等，2019），近年来已作为一种新兴水果逐渐为人们所熟知，在贵州黔东南、湖南通道及湖北恩施等地作为脱贫致富产业得以推广（刘涛等，2009；高渐飞等，2022）。
+
+植物内生菌分布于植物组织表面或器官内部，与寄主植物长期依存并协同进化（Rodriguez et al.,2009；Porras-Alfaro&Bayman,2009）。植物内生真菌可以促进植物的生长发育、抵御非生物胁迫、增加宿主的抗病性，部分药用植物内生真菌可产生与寄主类似的次生代谢物，广泛应用于医学、农学、工业及生物技术等领域（Khan etal.,2012；Liu etal.,2018；Juri etal.,2020）。目前药用植物内生菌研究较多，如杜仲（杨娟等，2019）、重楼（王艳等，2019）、掌叶大黄（Chen etal.,2021）、黄精（樊锐锋等，2021）等。研究表明，五味子科植物中含有丰富的内生真菌，已分离的内生菌具有抗氧化（赵玥等，2015）、拮抗植物病原菌（潘争艳等，2007；张誉荠等，2021）和抑制病原菌（张誉荠等，2020）、抑制肿瘤细胞生长（Song et al.,2021）等功能。从五味子科植物中也陆续分离了一些能够产生木质素类或转化宿主主要次生代谢物黑五味子酸的内生真菌（Wang et al,2017；毛瑞华等，2019；Qin etal.,2019,2020）。此外，五味子科植物长期种植，会导致土壤菌群的变化。江林春等（2020）用高通量测序，分析了未种植华中五味子（CK）与种植3年（Y3）、6年（Y6）后根际土壤化学性质和真菌群落变化规律，发现华中五味子种植
+
+6年后，根际土壤养分状况和土壤真菌群落发生了明显改变。上述研究结果为五味子属植物内生真菌及根际真菌的研究提供了重要信息，但对黑老虎内生真菌和根际真菌的研究报道还很少。
+
+鉴于黑老虎内生真菌和根际真菌的研究现状，本研究采用Illumina高通量测序方法，以多年生成熟的黑老虎为研究对象，通过分析黑老虎内生真菌及根际土壤真菌的真菌群落组成、多样性和功能预测，探讨以下问题：（1）黑老虎植株内生真菌和根际土壤真菌的群落组成差异和优势菌群。（2）探讨黑老虎内生真菌和根际真菌功能差异及形成原因。为黑老虎内生真菌和根际真菌菌群的发掘和代谢活性产物的进一步研究提供了基础。
+
+# 1材料与方法
+
+# 1.1样品处理
+
+黑老虎根际土、根、茎和叶采自贵州省果树科学研究所试验基地，品种资源编号为GZ1，已种植5年以上。2021年11月份，黑老虎果实采后，选取长势一致、发育良好的成熟黑老虎根、茎和叶，每3株混合作为1个处理，重复3次。根部带土，置于冷链箱内，迅速带回实验室，将根部土壤抖落，留存无法抖落的为根际土壤，将根际土壤收集于无菌PE管中，根样品标记为RT1、RT2、RT3，茎样品标记为ST1、ST2和ST3，叶样品标记为LF1、LF2和LF3，根际土样品标记为Rh1、Rh2和Rh3。根和根际土样品的制备参照王艳等（2019）描述的方法，将黑老虎根、茎及叶用流动的自来水冲去表面多余的根际土后，分别置于 $7 5 \%$ 乙醇中处理 $2 \mathrm { m i n }$ ，再用 $5 \%$ 次氯酸处理 $3 \mathrm { m i n }$ ，最后用无菌水清洗3次，最终获得表面无菌的黑老虎根、茎和叶样品，由于黑老虎肉质叶片难以提取DNA，将表面灭菌的叶片放入无菌小网袋中，置于变色硅胶中干燥 $2 4 \mathrm { ~ h ~ }$ ，然后置于液氮中速冻用于后续DNA提取。
+
+# 1.2ITS文库构建及高通量测序
+
+根、茎和叶组织样品经液氮研磨后，用植物基因组DNA试剂盒(天根生化科技有限公司，货号：DP305)提取总DNA,根际土样品用液氮研磨后提取土壤微生物DNA，所用试剂盒为FastDNA SPINKit for Soil 试剂盒（MP Biomedicals，LLC，Ail，Ohio，货号：116560200)，提取步骤按照试剂盒说明书进行。ITS扩增子采用通用引物fITS7/ITS4（ITS2区）进行PCR扩增，所用引物序列为fITS7（ ${ \boldsymbol { 5 } } ^ { \prime }$ -GTGARTCATCGARTCTTTG ${ \cdot } 3 ^ { \prime }$ ）， $\mathrm { I T S 4 } ( 5 ^ { \prime } -$ TCCTCCGCTTATTGATATGC-3'，PCR产物经 $2 \%$ 琼脂糖凝胶电泳检测，扩增体系为25μL，含 $2 \times$ PhantaMaxmastermix（南京诺唯赞生物科技股份有限公司，货号：P515-01）$1 2 . 5 ~ \mu \mathrm { L }$ ，正向引物fITS7（ $. 1 \ \mu \mathrm { m o l } \cdot \mathrm { L } ^ { - 1 }$ ）和反向引物ITS4（ $\mathrm { \cdot 1 ~ \mu m o l { \cdot } L ^ { - 1 } }$ ）各 $2 . 5 ~ \mu \mathrm { L }$ ，模板DNA$5 0 ~ \mathrm { n g }$ 。PCR所用程序： $9 5 ~ ^ { \circ } \mathrm { C }$ 预变性 $5 \mathrm { m i n }$ ； $9 5 ~ ^ { \circ } \mathrm { C }$ 变性 $3 0 ~ \mathrm { s }$ ， $5 0 ~ ^ { \circ } \mathrm { C }$ 退火 $3 0 ~ \mathrm { s }$ ， $7 2 ^ { \circ } \mathrm { C }$ 延伸40s，30个循环；最后 $7 2 ^ { \circ } \mathrm { C }$ 延伸 $7 \mathrm { m i n }$ 。PCR产物经 $2 \%$ 琼脂糖凝胶电泳确证，PCR产物回收纯化后，利用Ilumina Mi Seq PE300平台上机测序(杭州联川生物科技公司，杭州)。
+
+# 1.3数据处理和分析
+
+测序获得的原始数据去除接头序列后，使用FLASHV1.2.7软件进行拼接，然后利用Trimmomatic V0.33过滤低质量的测序碱基，利用Vsearch(V2.3.4)软件过滤掉嵌合的reads获得高质量的数据后，用UPARSE软(http://drive5.com/uparse/）在 $9 7 \%$ 的相似水平下聚类生成OUT并进行注释。利用QIIME2软件进行α多样性和β多样性分析（Bolyen etal.,2019）。方差分析和多重比较采用SPSS 26.0软件进行。绘图用R（V3.5.2）软件完成。内生真菌的生态功能利用FUNGuild平台进行分析（Nguyen etal.,2016）。
+
+# 2结果与分析
+
+# 2.1黑老虎内生真菌和根际土壤真菌群落测序数据统计
+
+来自黑老虎3个不同组织及根际土共计12个样品进行ITS高通量测序，共测得1023 870对reads，原始下机数据进行双端拼接、质量控制、嵌合体过滤后，进行高质量数据统计，共获得988991对有效reads，样品有效reads为 $7 8 3 0 2 { \sim } 8 4 1 3 5$ ，每个样品平均82415对reads，有效数据 $9 4 . 7 9 \% \sim 9 8 . 4 \%$ 之间，Q20全部 $9 8 . 9 8 \%$ 以上（表1）。读长分布在 $1 \sim 5 0 0$ bp之间，其中 $2 0 1 { \sim } 3 0 0 \mathrm { b p }$ 读长的片段分布最多，占片段数目总量的 $90 . 6 \%$ 。显示测序质量评价各项指标均符合ITS测序要求。内生真菌及根际土样本的稀释曲线均表现为先急剧上升，然后随着测序条数的增加曲线趋于平缓，文库的覆盖度均在 $9 9 . 9 \%$ 以上（图1），表明各样品物种测序量趋于饱和，测序结果可以充分覆盖样品的物种。另外，从样品稀释曲线看，根际土壤真菌丰度远大于内生真菌，提示根际土壤真菌多样性可能比内生真菌更高。
+
+表1黑老虎内生真菌和根际土壤真菌ITS测序数据统计  
+Tablel Data statistics of fungal communities in endophytic and rhizosphere soil of Kadsura   
+
+<html><body><table><tr><td colspan="9">coccinea</td></tr><tr><td>样品</td><td>初始读长 数日（对</td><td>初始碱基数 有效读长 (x10 bps</td><td>lgs</td><td>有效碱基数 (xl0d bayes</td><td>有效率</td><td></td><td></td><td>GC含量 GC content</td></tr><tr><td>RT1</td><td>86 728</td><td>43.36</td><td>84 013</td><td>23.35</td><td>96.87</td><td>99.36</td><td>97.72</td><td>50.35</td></tr><tr><td>RT2</td><td>86 424</td><td>43.21</td><td>81920</td><td>22.88</td><td>94.79</td><td>98.98</td><td>96.68</td><td>51.27</td></tr><tr><td>RT3</td><td>85142</td><td>42.57</td><td>81160</td><td>22.26</td><td>95.32</td><td>99.19</td><td>97.23</td><td>53.81</td></tr><tr><td>ST1</td><td>86 050</td><td>43.02</td><td>83 920</td><td>21.31</td><td>97.52</td><td>99.58</td><td>98.42</td><td>56.32</td></tr><tr><td>ST2</td><td>86 902</td><td>43.45</td><td>84 135</td><td>22.58</td><td>96.82</td><td>99.45</td><td>98.08</td><td>58.69</td></tr><tr><td>ST3</td><td>80 213</td><td>40.11</td><td>78 302</td><td>19.85</td><td>97.62</td><td>99.57</td><td>98.46</td><td>54.10</td></tr><tr><td>LF1</td><td>84 543</td><td>42.27</td><td>82 684</td><td>20.70</td><td>97.80</td><td>99.58</td><td>98.50</td><td>58.47</td></tr><tr><td>LF2</td><td>86 048</td><td>43.02</td><td>83 669</td><td>21.51</td><td>97.24</td><td>99.22</td><td>97.31</td><td>57.77</td></tr><tr><td>LF3</td><td>84 659</td><td>42.33</td><td>83 307</td><td>20.60</td><td>98.40</td><td>99.72</td><td>98.90</td><td>57.10</td></tr><tr><td>Rh1</td><td>85 770</td><td>42.88</td><td>81 509</td><td>22.53</td><td>95.03</td><td>99.23</td><td>97.54</td><td>54.99</td></tr><tr><td>Rh2</td><td>87 420</td><td>43.71</td><td>83 813</td><td>22.46</td><td>95.87</td><td>99.47</td><td>98.23</td><td>54.18</td></tr><tr><td>Rh3</td><td>83 971</td><td>41.99</td><td>80 559</td><td>22.52</td><td>95.94</td><td>99.12</td><td>97.29</td><td>53.39</td></tr></table></body></html>
+
+![](images/73571316e27d5818fdbea6a1b4111d2604fee3b99970ba3470431899a15d5e09.jpg)  
+图1各样品中真菌稀释曲线  
+Fig.1 Rarefaction curves of fungi in samples
+
+# 2.2黑老虎内生真菌和根际土壤真菌群落OTU分析
+
+经过分析和聚类，12个样品共得到2241个OTU，其中根际土壤样品中检测到1453个OTU，根、茎和叶三个组织样品分别检测到386、536和258个OTU。通过Vemn图分析发现，根际土壤真菌和内生真菌群落中共有的OUT数量为18个，其中，根际土壤中拥有较多独立的OTU，为1192个，而根、茎和叶组织中独立的OTU数分别为151、383和112个。根际和根中共有的OUT数量为192个，根际与茎、叶共有OTU分别为65和52个，根、茎和叶三个组织共有OTU为40个（图2）。结果表明，尽管所检测的OTU数量较多，但根际土壤和各组织间共有的OUT只18个，仅占比 $0 . 8 \%$ ，根际土壤真菌、组织内生真菌中形成了相对独立的真菌群落。根际土壤与根共有的OUT占比相对较高（ $8 . 8 \%$ ），提示黑老虎根长期生活在土壤中，可能与根际富集的真菌形成一定的互作关系，真菌群落之间产生相互影响。
+
+![](images/8dae3a00811db71c7f22ae3ecc84cad8f0bf29911c1b006f915199dd41f83a15.jpg)  
+图2黑老虎内生真菌和根际土壤真菌群落OTU分布的韦恩图
+
+Fig.2 Venn diagram of OTUs derived from fungal community of endophytic and rhizosphere soil in Kadsura coccinea
+
+# 2.3黑老虎内生真菌和根际真菌的群落结构组成
+
+进一步将OTU的代表序列在门和属水平上进行群落组成分析。在门水平上，根际真菌和内生真菌的优势群落均为子囊菌门（Ascomycota）和担菌门（Basidiomycota），子囊菌门占绝对优势，根际土和根中占比57.26和 $5 8 . 7 6 \%$ ，而叶片和茎中占比分别高达 $9 6 . 9 9 \%$ 和$9 5 . 3 7 \%$ 。此外，根中优势菌门还有担子菌门（Basidiomycota）和球囊菌门（Glomeromycota），分别占比 $2 1 . 0 3 \%$ 和 $1 7 . 9 6 \%$ ，球囊菌门在茎、叶组织和根际土壤中分别只占 $0 . 0 4 4 \%$ 、 $0 . 0 0 4 \%$ 和 $0 . 6 7 \%$ 。接合菌门（Zygomycota）在根际土壤中占 $1 3 . 8 4 \%$ ，在其他植物组织中占 $0 . 0 3 \% { \sim } 1 . 3 1 \%$ （图3：A）。未分类的OTU根际土壤中占 $1 3 . 6 6 \%$ ，植物组织中占比 $0 . 1 9 \% { \sim } 0 . 9 3 \%$ 。
+
+在属水平上，黑老虎内生真菌和根际真菌主要分布于367个属，其中，根际真菌相对含量前5的有未分类属真菌（Fungi_unclassified， $1 3 . 7 \%$ ）、被孢霉属（Mortierella，$1 3 . 5 \%$ ）、介球菌属（Plectosphaerella， $6 . 0 \%$ ）、葡萄球菌属（Subulicystidium， $4 . 5 \%$ ）和新丛赤壳属（Neonectria， $4 . 3 \%$ ）。而在根中，占比前5的属有蜡壳耳门未分类属（Sebacinales_unclassified， $1 9 . 7 \%$ ）、外瓶霉属（Exophiala， $1 5 . 2 \%$ ）、球囊菌门未分类属（Glomeromycota_unclassified， $12 . 1 \%$ ）、刺盾炱目未分类属（Chaetothyriales_unclassified， $8 . 8 \%$ ）和镰刀菌属（Fusarium， $8 . 0 \%$ ）；茎秆中，占比前5的属为子囊菌门未分类属（Ascomycota_unclassified， $1 7 . 7 \%$ ）、格孢腔菌目未分类属（Pleosporales_unclassified， $1 6 . 3 \%$ ）、痂囊腔菌科未分类属（Elsinoaceae_unclassified，
+
+$1 1 . 8 \%$ ）、横断孢属（Strelitziana， $9 . 1 \%$ ）和Trichomeriaceae未分类属（Trichomeriaceae_unclassified， $8 . 6 \%$ ）；叶片中痂囊腔菌属（Elsinoe， $2 1 . 5 \%$ ）、球腔菌属（Mycosphaerella， $1 8 . 2 \%$ ）、球座菌属（Guignardia， $1 4 . 2 \%$ ）、间座壳属（Diaporthe，$6 . 9 \%$ ）、瓶霉菌属（Phialophora， $5 . 4 \%$ ）相对含量位于前5。结果表明黑老虎根内生真菌及根际真菌群落存在组织特异性，黑老虎根际真菌和内生真菌分别有特异的属，根际真菌和内生真菌菌群结构存在多样性（图3：B）。对黑老虎根际真菌和内生真菌测序所得的OTU结果在属水平上进行分类及相对丰度信息绘制热图（heatmap）进行分析，对根际真菌和内生真菌在门和属水平上前30的物种进行聚类分析，在门水平上，茎和叶可以聚为一类（图4：A）。在属水平上，根际与根样品聚为一类，而茎和叶样品聚为一类（图4：B）。结果显示黑老虎根样品和根际土样品的真菌群落结构更相似，根际土壤真菌和根内生真菌群落之间可能存在相互影响，而茎秆和叶片内生真菌群落来源相近或可能存在相互作用。
+
+![](images/dc875fa519020af6c1babb11fb3883b917792c68bfaf2e8d7ddc805a62035425.jpg)  
+图3黑老虎内生真菌和根际土壤真菌群落在门（A）和属（B）水平上的分布Fig. 3 Distribution of fungal community of endophytic and rhizosphere soil in Kadsura coccineaat phylum(A) and genus(B) levels
+
+![](images/afa17663f50f88e1919f2844bb0335bed68e80a00a06b12b09f9a656d77beea7.jpg)  
+图4黑老虎内生真菌及根际真菌在门（A）和属（B）水平上的群落结构分布热图Fig. 4 Heatmap of endophytic and rhizosphere soil fungus community composition in Kadsuracoccinea at phylum(A) and genus $\mathbf { \left( B \right) }$ levels
+
+# 2.4黑老虎内生真菌和根际真菌群落的多样性分析
+
+对黑老虎内生真菌和根际真菌群落进行群落丰度（Chao1指数和ACE 指数）和群落多样性比较分析（Shannon指数和 Simpson指数）。发现黑老虎根际真菌群落丰度和多样性显著高于内生真菌，与内生真菌相比，根际真菌群落的ACE 指数、Chao1指数和 Shannon指数均显著高于内生真菌（ $_ { \cdot \textcircled { P } < 0 . 0 5 }$ ）。根与叶和茎的ACE指数及Chao1指数无显著差异（ $. P { > } 0 . 0 5$ ），而茎与叶的ACE指数及Chao1指数有显著差异（ $\scriptstyle \cdot - 0 . 0 5 .$ ）(表2)。ACE指数及Chaol指数反应物种丰度，Shannon指数和 Simpson 指数主要反映物种的多样性，结果显示根际土壤真菌的丰度和多样性高于内生真菌，茎秆内生真菌的丰度显著高于叶片，根、茎和叶各组织间的多样性差异不显著。
+
+Table 2 Alpha diversity of fungal community of endophytic and rhizosphere soil in Kadsura   
+coccinea   
+
+<html><body><table><tr><td>样品 Sample</td><td>香农指数 Shannon index</td><td>辛普森指数 Simpson index</td><td>Chao1指数 Chao1index</td><td>ACE指数 ACEindex</td></tr><tr><td>叶LF</td><td>4.65±0.52b</td><td>0.91±0.04ab</td><td>113.38±44.82c</td><td>113.61±44.95c</td></tr><tr><td>根RT</td><td>4.63±1.09b</td><td>0.91±0.06ab</td><td>180.25±37.02bc</td><td>181.42±36.75bc</td></tr><tr><td>茎ST</td><td>4.78±0.50b</td><td>0.90±0.02b</td><td>221.45±46.9b</td><td>222.37±47.43b</td></tr><tr><td>根际土Rh</td><td>7.12±0.1 a</td><td>0.98±0.001a</td><td>675.17±42.98a</td><td>678.75±41.81a</td></tr></table></body></html>
+
+注：表中不同小写字母表示多重比较Duncan检验在0.05水平上存在显著差异。 Note:Different lowercases indicate that there are significant differences in Duncan’ test at O.O5 level.
+
+为了分析黑老虎根际真菌群落和内生真菌群落之间的物种差异性，利用主坐标分析PCoA（Principal Coordinates Analysis）分析了黑老虎内生真菌和根际真菌的结构情况，基于非加权距离矩阵（unweightedunifrac），结果显示，第一主轴解释了OTU水平真菌群落结构变化的 $3 2 . 4 4 \%$ ，第二主轴解释了OTU水平真菌群落结构变化的 $1 6 . 1 1 \%$ ，两个主轴合计解释了 $4 8 . 5 5 \%$ 真菌群落结构变化（图5）。PCoA分析结果显示在根际土壤和3种组织中，不同组织样品间明显分开，叶片样品与茎样品相对聚集，而叶片样品与茎样品真菌群落相似度较高，可能来自相同的起源。虽然根和根际土壤长期接触，但从主坐标分析来看，根内生菌与根际土壤真菌的距离仍然较远，表明两者真菌菌群来源并不相同。
+
+![](images/2131275df7495754d65263cc9fd4fcd38d7699928fbdd719b22e096e6e84c928.jpg)  
+图5 黑老虎内生真菌和根际土壤真菌群落结构基于非加权距离矩阵的主坐标（PCoA）分析 Fig.5 PCoA analysis of fungal community composition endophytic and rhizosphere soil in Kadsura coccinea based on unweighted unifrac distance matrix
+
+# 2.5黑老虎内生真菌及根际真菌群落的FUNGuild功能类群预测
+
+利用FUNGuild数据库对黑老虎内生真菌及根际真菌群落进行功能预测分析，结果发现，未分类菌落（unassigned）在根际、根、茎中占比较高，分别为 $31 . 5 \%$ 、 $3 7 . 3 \%$ 和$3 5 . 8 \%$ 。而病理寄生型（pathotroph）功能群在黑老虎组织和根际土壤中所占比例次序为叶（ $6 2 . 9 \%$ ） $>$ 茎（ $3 7 . 5 \%$ ） $>$ 根际（ $1 6 . 7 \%$ ） $>$ 根（ $9 . 2 \%$ ），表明病理寄生型功能群在生长旺盛的组织中占比较高。根际土壤中，其他营养类型如腐生型（saprotroph， $1 0 . 2 \%$ ）、病理寄生-腐生-共生型（pathotroph-saprotroph-symbiotrop， $12 . 7 \%$ ）、腐生-共生型（saprotroph-symbiotroph， $1 3 . 9 \%$ ）在根际土中占比超过 $10 \%$ ，而根中超过 $10 \%$ 的功能菌群有腐生-共生型（saprotroph-symbiotroph， $1 7 . 8 \%$ ）和病理寄生-腐生型（pathotroph-saprotroph，$1 7 . 2 \%$ ），茎和叶中超过 $10 \%$ 的功能菌群分别为共生型（symbiotroph， $1 3 . 7 \%$ ）和病理寄生-共生型（pathotroph-symbiotroph， $10 . 7 \%$ ）（图6：A）。
+
+对各样品中超过 $1 \%$ 的菌群进进行了详细的物种生态功能预测分类，除未分类菌落（unassigned）占一定比例外，黑老虎内生真菌和根际真菌已鉴定出的主要生态功能菌为是植物病原菌（plant pathogen），在根际土壤、根、茎叶叶中占比分别为 $1 5 . 4 \%$ 、 $9 . 1 \%$ 、$3 7 . 5 \%$ 和 $6 2 . 9 \%$ （图6：B）。在超过 $10 \%$ 的生态功能菌群中，根际土壤真菌为内生菌-枯枝腐生物-土壤腐生菌-未定义腐生菌（endophyte-litter saprotroph-soil saprotroph-undefinedsaprotroph， $1 3 . 6 \%$ ），根中为动物病原体-真菌寄生虫-未定义腐生菌（animalpathogen-fungal parasite-undefined saprotroph， $1 7 . 1 \%$ ）和丛枝菌根（arbuscular mycorrhizal， $1 7 \%$ ）两种，茎和叶中无其他类型的功能菌群占比超过 $10 \%$ 。
+
+![](images/adb746e5205b55cae638c6b30ce8f811c00d7cc5071d7e187c8a3bc51d6213d2.jpg)
+
+A.营养型分类；B.Guild详细分类。   
+A.Trophic mode;B.Guide detailed classification. 图6黑老虎内生真菌及根际真菌群落FUNGuild真菌功能分类 Fig. 6 FUNGuild classification of endophytic and rhizosphere fungal communities in Kadsura
+
+# 3讨论与结论
+
+在漫长的自然进化中，真菌与其宿主植物形成复杂的相互作用关系，真菌对植物的生长发育、抵御病原菌和外部非生物胁迫发挥重要作用，同时部分内生真菌也可以产生与宿主相同的次生代谢产物。由于传统分离技术难以获得不可培养的内生真菌，限制了内生真菌的进一步发掘。本研究利用高通量测序技术对黑老虎内生真菌和根际土壤真菌的群落组成和多样性进行了研究，发现了大量未分类的OTU，其一，表明与传统分离培养方法相比，利用高通量测序技术可以发现更多的内生真菌；其二，表明黑老虎内生真菌和根际土壤真菌中存在大量为分类的真菌群落，可能受限于真菌数据库限制，无法对这些真菌群落进行功能分类；其三，很多未被发掘的真菌群落可能难以进行人工分离培养，需要通过改良分离培养技术进一步发掘内生真菌。
+
+研究表明，内生真菌的组成和结构受种属、环境、组织等因素影响（Fuchs et al.,2017）。从真菌群落结构组成结果看，黑老虎根际土、根、茎和叶中真菌群落结构存在较大差异。在门水平上，黑老虎内生真菌及根际真菌的优势群落均为子囊菌门和担子菌门，但子囊菌门在叶片和茎秆中占比超过 $90 \%$ ，在已经发现的植物内生真菌中，优势菌门多为子囊菌门，子囊菌门在不同组织中占比不同，可能与种属特异性有关。在属水平上，根际土壤真菌群落中被孢霉属占比较高（ $1 3 . 5 \%$ ），被孢霉属为腐生真菌，在秸秆分解和土壤养分转化中发挥重要作用（宁琪等，2022）。子囊菌门未分类属和痂囊腔菌属主要为植物致病菌，在叶片和茎秆等生长旺盛的组织中占比较高。通过聚类热图分析，黑老虎根样品和根际土样品真菌群落结构更相似，而茎和叶样品的真菌群落结构相近。由于土壤蕴含着丰富的微生物多样性，根与土壤长期直接接触，土壤真菌与根内生真菌相互影响，可能是造成真菌群落结构更为相近的原因（Ren etal.,2019）。而叶片和茎秆与土壤接触较少，且发育来源更为相似，可能是两者内生真菌结构更为类似的原因。
+
+对黑老虎内生真菌和根际土壤真菌群落进行多样性分析，发现内生真菌和根际真菌群落存在丰富的多样性，其中，根际真菌群落的丰度和多样性显著高于个组织的内生真菌，研究结果与很多药用植物的根际真菌和组织内生真菌类似，王艳等（2019）研究发现，重楼根际及内生真菌多样性的关系为根际土 $>$ 根茎 $>$ 根。周婕等（2019）研究发现紫茎泽兰根、茎、鲜叶、腐叶之间内生真菌群落组成差异明显,具有组织特异性，根际土壤与根内生真菌群落组成存在一定程度的相似。
+
+黑老虎是传统中药材，根、茎等药用部位富含木脂素类、三萜类、花色苷等众多药用成分（舒永志等，2012），果实中富含酚酸、黄酮、氨基酸（Yangetal.,2020）。从黑老虎中分离的内生真菌报道较少，而从五味子科药材中分离到一些具有抗氧化、拮抗植物病原菌、转化次级代谢物等功能的内生菌，从已报道的五味子科中分离的内生菌看，主要有二形伞形属（Umbelopsis）和青霉属（Penicillium）真菌等（Wang et al.,2017;毛瑞华等，2019；Qin et al.,2019；Song et al.,2021），这几个真菌属在本研究中的组织中均有检出，表明黑老虎与五味子同科植物中的内生真菌群落具有一定程度的相似性，可以借鉴五味子科内生真菌信息，发掘黑老虎中与次生代谢有关的内生真菌。
+
+FUNGuild功能预测结果显示，叶中未知功能群占比相对较少，根际土壤、根和茎中未知真菌菌群较多，表明黑老虎根际和根、茎组织中有大量未知的功能菌群，有待进一步发掘。黑老虎根际和组织中，病理寄生型（pathotroph）功能群较高，可能是因为黑老虎为常绿植物，叶片和茎常年接触外界空气，此外茎和叶组织中营养物质含量较高，可能是造成病理寄生型真菌占比较高的原因，与文献报道的茎和叶组织病理寄生型功能群较高一致（谯利军等，2018）。根际土壤中，腐生型（Saprotroph， $10 . 2 \%$ ）、病理寄生-腐生-共生型（pathotroph-saprotroph-symbiotrop， $12 . 7 \%$ ）、腐生-共生型（saprotroph-symbiotroph,$1 3 . 9 \%$ ）这3种类型功能菌群超过 $10 \%$ ，腐生型功能菌群占比较高可能是因为根际土壤中腐生真菌的种类繁多，根际中存在腐生型功能菌群的机会更多（宁琪等，2021）。腐生真菌可以产生一系列水解酶和氧化酶，有助于碳水化合物的分解，与有机物分解和养分循环相关密切（梁元存等，2003）。而根中超过 $10 \%$ 的功能菌群有腐生-共生型（saprotroph-symbiotroph， $1 7 . 8 \%$ ）和病理寄生-腐生型（pathotroph-saprotroph， $1 7 . 2 \%$ ）2种，可能是由于根与土壤长期密切接触，腐生真菌进入根内成为内生真菌的机会更多（周婕等，2019）。茎和叶中的优势功能类群分布不同，可能是由于植物内生真菌在不同组织中发挥不同功能。随着真菌功能的进一步发掘，黑老虎内生真菌和根际真菌的功能将会进一步明确。
+
+# 参考文献：
+
+BOLYENE,RIDEOUT JR,DILLON MR, et al., 2019.Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2[J]. Nat Biotechnol,37(8): 852-857.   
+CHEN DW, JIA YL，HOU QZ, et al.，2021. Analysis of endophyte diversity of Rheum palmatum from different production areas in Gansu province of China and the association with secondary metabolite[J]. Microorganisms, 9(5): 978.   
+FAN RF, WANG RF, DU YQ, et al., 2021. Community composition and ecological function of rhizosphere fungi and medicinal parts endophytic fungi in Polygonatum sibiricum[J]. Guihaia,41(5):799-807.[樊锐锋，王若凡，杜艳秋，等，2021．黄精根际及药用部位 内生真菌群落组成和生态功能分析[J]．广西植物，41（5）：799-807．]   
+FUCHS B, KRISCHKE M, MUELLER MJ,et al.， 2017. Plant age and seasonal timing determine endophyte growth and alkaloid biosynthesis[J]. Fungal Ecol, 29:52-58.   
+GAO JF, ZHOU W,LIU N, 2022.Differential analysis of phenolic acids from different parts of Kadsura coccinea[J/OL]. J Chin Med Mat, 2022(2): 351-358.doi:10.13863/j.issn1001- 4454.2022.02.017.[高渐飞，周玮，刘妮，2022．黑老虎不同部位酚酸类成分差异分析 [J/OL]．中药材，2022（2）:351-358.doi:10.13863/j.issn1001-4454.2022.02.017.]   
+JIANG LC， WEI JM， BAI SS,et al.， 2020. Characteristics of rhizosphere soil fungi community of Schisandra Sphenanthera Rehd. Et Wils[J]. J Yan'an Univ (Nat Sci Ed), 39(4):15-20.[江林春，韦洁敏，白尚尚，等，2020．华中五味子根际土壤真菌群落特 征研究[J]．延安大学学报（自然科学版），39(4)：15-20．]   
+JURIC S, SOPKO SK, KROL-KILINSKA Z, et al., 2020. The enhancement of plant secondary metabolites content in Lactuca sativa L. by encapsulated bioactive agents[J]. Sci Rep, 10(1):3737.   
+KHAN AL，HAMAYUN M, KANG SM, et al.，2012. Endophytic fungal association via gibberellins and indole acetic acid can improve plant growth under abiotic stress: an example of Paecilomyces formosus LHL10[J]. BMC Microbiol, 12: 3.   
+LIANG YC,LIU YR, WANG YJ, et al., 2003. Pathogenicity differentiation of Phytophthora parasitica and the disease resistance difference of tobacco against black shank[J].Acta Phytophy Sin,30(2):143-147.[梁元存，刘延荣，王玉军，等，2003．[烟草黑胫病菌致 病性分化和烟草品种的抗病性差异[J]．植物保护学报，30（2）：143-147.]   
+LIN Q，YANG ZR，2007.A preliminary revision of taxonomic system of Schisandra (Schisandraceae)[J].Bull Bot Res,27(1):6-15.[林祁，杨志荣，2007.五味子属(五味子 科)分类系统的初步修订[J]．植物研究，27（1）：6-15.]   
+LIU 1,WEI Q,W U ΛB, et al., zuuy. Kesearcn staus ana deveiopment and uullzauon prospect of wild fruit species Kadsura coccinea (Lem.) A.C.Smith[J]. J Anhui Agric Sci, 37(23):10971-10972.[刘涛，韦茜，吴小波，等，2009．野生水果黑老虎的研究现状及 开发利用前景[J]．安徽农业科学，37（23）：10971-10972.]   
+LIU YB, YANG YP, TASNEEM S,et al., 2018. Lignans from Tujia ethnomedicine Heilaohu: chemical characterization and evaluation of their cytotoxicity and antioxidant activities[J]. Molecules, 23(9):2147.   
+MAO RH, DOU Z,2019. Chemical constituents of the fermentation broth of the endophytic fungi from fibrous roots of the Schisandra glaucescens Diels[J]. World Latest Med Inform (Electronic Version),19(76):221-222.[毛瑞华，窦智，2019．金山五味子须根部位内生 真菌 FR-1次生代谢产物研究[J]．世界最新医学信息文摘，19（76）：221-222.]   
+NGUYEN NH, SONG ZW,BSTES ST, et al.,2016. FUNGuild: an open annotation tool for parsing fungal community datasets by ecological guild[J]. Fungal Ecol, 20:241-248.   
+NING Q, CHEN L,LI F, et al.,2022. Effects of Mortierella on nutrient availability and straw decomposition in soil[J].Acta Pedol Sin,59(1):206-217.[宁琪，陈林，李芳，等， 2022．被孢霉对土壤养分有效性和秸秆降解的影响[J]．土壤学报，59（1）：206- 217.]   
+PAN ZY, FU JF, ZHOU RJ, et al., 2007. Preliminary study of soil fungi in Schisandra chinensis garden and screening antagonism strains[J]. J Jilin Agric Univ,29(6): 636-639.[潘争艳，傅 俊范，周如军，等，2007．五味子园根际真菌多样性初探及拮抗菌株筛选[J].吉林农 业大学学报，29（6）：636-639.]   
+PORRAS-ALFARO A, BAYMAN P, 2011. Hidden fungi, emergent properties: endophytes and microbiomes[J]. Ann Rev Phytopathol, 49(1):291-315.   
+QIAO LJ, ZHOU SX, WEN TC, et al., 2018. Diversity of endophytic fungi from Nothapodytes pittosporoides in Guizhou Province[J].Mycosystema,37(1):43-51.[谯利军，周思旋，文 庭池，等，2018．贵州马比木内生真菌的多样性研究[J]．菌物学报，37（1）：43- 51.]   
+QIN D，SHEN WY,GAO TC， et al.， 2020. Kadanguslactones A-E， further oxygenated terpenoids from Kadsura angustifolia fermented by a symbiotic endophytic fungus, Penicillium ochrochloron SWUKD4.1850[J]. Phytochemistry,174:112335.   
+QIN D, SHEN WY, WANG JQ, et al., 2019. Enhanced production of unusual triterpenoids from Kadsura angustifolia fermented by a symbiont endophytic fungus， Penicillium sp. SWUKD4.1850[J]. Phytochemistry,158: 56-66.   
+REN F, DONG W, YAN DH, 2019. Organs, cultivars, soil, and fruit properties affect structure of endophytic mycobiota of Pinggu peach trees[J]. Microorganisms, 7(9): 322.   
+RODRIGUEZ RJ, WHITE JF,AENOLD AE,et al., 2009. Fungal endophytes: diversity and functional roles[J]. New Phytol, 182:314-330.   
+SHU YZ, CHENG L, CHO JC, et al., 2012. Chemical constituents in roots and vine stems of Kadsura coccinea[J]. Chin Trad Herbal Drugs,43(3):428-431.[舒永志，成亮，曹濬喆， 等，2012．黑老虎的化学成分研究[J]．中草药，43（3）：28-431.]   
+SONG HC, QIN D,LIU HY, et al., 2021. Resorcylic acid lactones produced by an endophytic Penicillium ochrochloron strain from Kadsura angustifolia[J]. Planta Med, 87(3):225-235.   
+SUN J, YAO J, HUANG SX, 2009. Antioxidant activity of polyphenol and anthocyanin extracts from fruits of Kadsura coccinea (Lem.) A.C. Smith[J]. Food Chem, 117(2): 276-281.   
+WANG L, QIN D, ZHANG K, et al., 2017. Metabolites from the co-culture of nigranoic acid and Umbelopsis dimorpha SWUKD3.1410， an endophytic fungus from Kadsura angustifolia[J]. Nat Prod Res,31(12):1414-1421.   
+WANG N, LI ZL, SONG DD, et al., 2012. Five new 3,4-seco-lanostane-type triterpenoids with antiproliferative activity in human leukemia cells isolated from the roots of Kadsura coccinea[J]. Planta Med, 78(15):1661-1666.   
+WANG Y, CHANG F, CHENG HY, et al., 2019. Fungal diversity and differential analysis of fungi community composition in Paris polyphylla var. chinensis rhizosphere and endophytic[J].Chin Trad Herbal Drugs,50(5):1232-1237.[王艳，常帆，程虎印，等， 2019．重楼根际及药用部位内生真菌多样性与群落结构差异分析[J]．中草药，50 （5）：1232-1237.]   
+YANG J, DONG CB, ZHANG ZY, et al., 2019. Analyses on fungal community composition of Eucommia ulmoides rhizosphere soil in different areas[J]. Mycosystema, 38(3): 327-340. [杨娟，董醇波，张芝元，等，2019．不同产地杜仲根际土真菌群落结构的差异性分 析[J]．菌物学报，38（3）：327-340.]   
+YANG YP, HUSSAIN N, ZHANG L，et al.， 2020. Kadsura coccinea: a rich source of structurally diverse and biologically important compounds[J]. Chin Herb Med, 12(3): 214- 223.   
+ZENG JF,1996. Southern Schisandra [M]// Flora Reipublicae Polularis Sinicae. Beijing: Science Press:23.[曾建飞，1996.南五味子属[M]//中国植物志．北京：科学出版社： 23.]   
+ZHANG YQ,WEN XS,WANG YM, et al.， 2020. Isolation and identification of endophytic fungi from Schisandra chinensis seeds and bacteriostasis study[J]. Chin Med Mat, 43(5): 1087-1091.[张誉荠，文湘穗，王雨濛，等，2020．种子内生真菌的分离鉴定及抑菌性 研究[J]．中药材，43（5）：1087-1091．]   
+ZHANG YQ, XU YH, WEN XS, et al., 2021. Response surface methodology for optimizing fermentation process of the endophytic fungus Purpureocillium lilacinum WG9 preventing Schisandra chinensis brown spot disease[J]. Mycosystema, 40(6): 1561-1574.[张誉荠，许 永华，文湘穗，等，2021．响应面法优化北五味子褐斑病内生生防真菌淡紫拟青霉 WG9发酵工艺及发酵产物稳定性研究[J]．菌物学报，40（6）：1561-1574.]   
+ZHAO LF, LIANG ZH, 2019. The research advance on gardening of Kadsura coccinea fruit[J]. Mod Horticul,3(6):109-110.[赵林峰，梁忠厚，2019.黑老虎在居室园艺中的应用探究 进展[J]．现代园艺，93（6）：109-110．]   
+ZHAO QJ, SONG Y, CHEN HS, et al., 2014. Cytotoxic dibenzocyclooctadiene lignans from Kadsura coccinea[J].Arch Pharm Res,37(11): 1375-1379.   
+ZHAO TM, MA C, ZHU G, 2021. Chemical composition and biological activities of essential oils from the leaves, S stems, and roots of Kadsura coccinea[J]. Molecules, 26(20):6259.   
+ZHAO Y, QIN Y, LI N, et al., 2015. Screening and identification of endophytic fungi from Schisandra chinensis with antioxidant activity[J]. Chin Pharm, 26(31): 4384-4388.[赵玥, 秦源，李娜，等.具有抗氧化活性的北五味子内生真菌的筛选及鉴定[J]．中国药房， 2015，26（31）: 4384-4388.]   
+ZHOU J, MIAO YF,FANG K, et al., 2019. Diversity of the endophytic and rhizosphere soil fungi of Ageratina Adenophora[J].Ecol Sci,38(5):1-7.[周婕，苗一方，方楷，等.紫茎泽兰内 生真菌及其根际土壤真菌的多样性研究[J]．生态科学，38（5）：1-7.]

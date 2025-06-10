@@ -1,0 +1,172 @@
+# Is Big Data Analytics Beyond the Reach of Small Companies?
+
+Yang Cao ', Wenfei Fan 1.2, Tengfei Yuan 1UniversityofEdinburgh,Edinburgh,UK 2 Beihang University,Beijing,China
+
+# ARTICLEINFO
+
+# ABSTRACT
+
+Article History: Received21July2017 Accepted28July2017
+
+# Keywords:
+
+Bigdata analytics Bounded evaluation Data-driven approximation Constrained resources
+
+Big data analytics is often prohibitively costly. It is typically conducted by parallel processing with a cluster of machines,and is considered a privilege of big companies that can afford the resources. This position paper argues that big data analytics is accessible to small companies with constrained resources.As an evidence,we present BEAS,a framework for querying big relations with constrained resources,based on bounded evaluation and data-driven approximation.
+
+DOI: 10.11925/infotech.2096-3467.2017.0723
+
+# 1Introduction
+
+Big dataanalytics is expensive.Textbooks tell us that a computation problem is tractable if there exists a polynomial-time algorithm for it, i.e., its cost can be expressed as a polynomial in the size $n$ of the input[1]. However, it is no longer the case when it comes to big data.When $n$ is big,algorithms in $O ( n ^ { 2 } )$ or even $O ( n )$ time may take too long to be practical. Indeed, assuming the largest Solid State Drives (SSD) with $1 2 \mathrm { G B / s }$ for read[2],a linear scan of a dataset of 15TB takes more than 20 minutes. It easily takes hours to join tables with milions oftuples[3].In other words, many computation problems that are typically considered tractable may become infeasible in the context of big data.
+
+One might be tempted to think that paralelcomputation could solve the problem,by adding more processors when needed.However,smallbusinesses often have constrained resources and cannot afford large-scale paralelcomputation.
+
+Is big data analytics a privilege of big companies?Is it beyond the reach of small companies that canonly afford constrained resources?
+
+We argue that big data analytics is possble under constrained resources.As an example,we consider relational query answering. Given an SQL query $\boldsymbol { \mathcal { Q } }$ and a relational database $D$ ,it is to compute the answers $Q ( D )$ to $\boldsymbol { \mathcal { Q } }$ in $D$ .Relational data accounts for the majority of data in industry. Moreover, it is nontrivial to compute $Q ( D )$ . Indeed, it is NP-complete to decide whether a given tuple $t$ is in $Q ( D )$ when $\boldsymbol { \mathcal { Q } }$ is a simple SPC query (selection, projection and Cartesian product),and is PSPACE-complete when $\boldsymbol { \mathcal { Q } }$ is in relational algebra, both subsumed by SQL.
+
+We propose BEAS,a new query evaluation paradigm to answer SQL queries under constrained resources.The idea is to make big data small,i.e.,to reduce queries on big data to computation on smalldata.Underlying BEAS are two principled approaches: (1)） bounded evaluation that computes exact answers by acessng abounded amount of data when possiblel-8],and(2)adata-driven approximation scheme that answers queries for which exact answers arebeyond reach under bounded resources,and offers a deterministic accuracy bound[9].
+
+As proof of concept,we have developed a prototype system[10] and evaluated it with call-detailed-record (CDR) queries at Huawei. We find that bounded evaluation improves the performance of CDR queries by orders of magnitudel], and is able to reduce big datasets from PB $( 1 0 ^ { 1 5 } )$ to GB $( 1 0 ^ { 9 } )$ in many cases.
+
+Below we give a brief introduction to bounded evaluation (Section 2),folowed by data-driven approximation scheme (Section 3). Putting these together, we present BEAS,our resource-bounded query evaluation framework (Section 4).
+
+# 2 Bounded Evaluation
+
+Given a query $\boldsymbol { \mathcal { Q } }$ posed on a big dataset $D$ ，bounded evaluation[7] aims to compute $Q ( D )$ by accessing only a bounded subset $D _ { \mathcal { Q } }$ of $D$ that includes necessary information for answering $\boldsymbol { \mathcal { Q } }$ in $D$ ,instead of the entire $D$ . To identify $D _ { Q } ,$ it makes use of an access schema $\pmb { A }$ ，which is a set of access constraints,i.e.,a combination of simple cardinality constraints and their associated indices.
+
+Under access schema $A .$ query $\boldsymbol { \mathcal { Q } }$ is boundedly evaluable if for all datasets $D$ that conform to $\pmb { A }$ ,there exists a fraction $D _ { Q } \subseteq D$ such that
+
+$\circ Q ( D _ { Q } ) = Q ( D ) , i . e . , D _ { Q }$ suffices for computing exact answers $Q ( D )$ ; and   
+othe time for identifying $D _ { \mathcal { Q } }$ and hence the size $| D _ { \mathcal { Q } } |$ of $D _ { Q }$ are determined by $\boldsymbol { \mathcal { Q } }$ and $\pmb { A }$ only. That is, the cost of   
+computing $Q ( D _ { Q } )$ is independent of $| D |$
+
+Intuitively, $Q ( D )$ can be computed by accessing $D _ { \mathcal { Q } }$ .We identify $D _ { \mathcal { Q } }$ by reasoning about the cardinality constraints in $A ,$ ,and fetch it by using the indices in $\pmb { A }$
+
+Example1:Consider a database schema $\pmb { R } _ { 0 }$ consisting of three relations:
+
+(a) person(pid, city), stating that pid lives in city,   
+(b) friend(pid, fid),saying that fid is a friend of pid, and   
+(c) poi(address,type, city, price), for the type,price and city of points of interest.
+
+An example access schema $\pmb { A }$ consists of the following two access constraints:
+
+${ } ^ { \circ } \varphi _ { 1 }$ : friend(pid $$ fid, 5000), ${ } ^ { \circ } \varphi _ { 2 }$ : person(pid $$ city, 1).
+
+Here $\varphi _ { 1 }$ is a constraint imposed by Facebook[12]: a limit of 50o0 friends per person; and $\varphi _ { 2 }$ states that each person lives in at most one city. An index is built for $\varphi _ { 1 }$ such that given a pid, it returns all fids of pid from friend, i.e., $\varphi _ { 1 }$ includes the cardinality constraint (5ooo fids for each pid) and the index; similarly for $\varphi _ { 2 }$
+
+Consider a query $Q _ { 1 }$ to find the cities where my friends live,which is taken from Graph Search of Facebook[13]. Written in SQL, $Q _ { 1 }$ can be expressed as:
+
+select p.city   
+from friend as f, person as p   
+where f.pid ${ \bf \omega } = { p _ { 0 } }$ and f.fid ${ \bf \Psi } = { \bf \Psi } _ { \sf { J } }$ .pid,   
+where $p _ { 0 }$ indicates “me". When an instance $D _ { 0 }$ of $\pmb { R } _ { 0 }$ is “big",e.g.,Facebook has billions of users and trillions of
+
+# 2 数据分析与知识发现
+
+friend links[12], it is costly to compute $Q _ { 1 } ( D _ { 0 } )$
+
+However, we can do better since $Q _ { 1 }$ is boundedly evaluable under $\pmb { A } \mathrm { : }$ (a) we first identify and fetch at most 5000 fids for person $p _ { 0 }$ from relation friend by using the index for $\varphi 1$ , and (b) for each fid fetched, we get her city by fetching 1 tuple from relation person via the index for $\varphi _ { 2 }$ . In total we fetch a set $D _ { \mathcal { Q } }$ of 10,000 tuples, instead of trillions; it sufices to compute $Q _ { 1 } ( D _ { 0 } )$ by using $D _ { Q }$ only[4].
+
+The notion of access schema was proposed $\mathrm { i n } ^ { [ 8 ] }$ ，and the foundation of bounded evaluation was established in[5,7]. The theory of bounded evaluation was first evaluated using SPC queriesl6] and then extended to relational alge$\mathrm { \ b r a ( R A ) ^ { [ 4 ] } }$ . A challenge is that it is undecidable to decide whether an SQL query is boundedly evaluable under an access schema $\pmb { A } ^ { [ 7 ] }$ . To cope with this, an effective syntax $\angle$ was developed for boundedly evaluable RA queries[4]. That is, $\angle$ is a class of RA queries such that under $\pmb { A }$
+
+(a) an RA query $\boldsymbol { \mathcal { Q } }$ is boundedly evaluable if and only if it is equivalent to a query $\boldsymbol { Q ^ { \prime } }$ in $\angle$ ; and (b) it takes PTIME (polynomial time) in the size $| { \cal Q } |$ of $\boldsymbol { \mathcal { Q } }$ and size $| { \cal { A } } |$ of $A$ to check whether $\boldsymbol { Q ^ { \prime } }$ is in $\angle$ ,reducing the problem to syntactic checking.
+
+That is, $\angle$ identifies the core subclass of boundedly evaluable RA queries, without sacrificing their expressive power. This is analogous to the studyofsafe relationalcalculus queries,which is alsoundecidablel14].Based on theeffective syntax, we can efficiently check whether a query $\boldsymbol { \mathcal { Q } }$ is boundedly evaluable,and if so, generate a query plan to answer $\boldsymbol { \mathcal { Q } }$ by accessing a bounded fraction $D _ { \mathcal { Q } }$ of $D ^ { [ 4 ] }$
+
+It has been shown thatbounded evaluation can be readilybuilt on topof commercial DBMS (database management systems)such as MySQL and PostgreSQL. It extends the DBMS with an immediate capability of querying big relations under constrained resources[4]. A prototype system was developed in[10l. We find that about $7 7 \%$ of SPC queries[6] and $67 \%$ of SQL queries[4] are boundedly evaluable. Better yet, more than $90 \%$ of the CDR queries at Huawei are boundedly evaluable.
+
+# 3 Data Driven Approximation
+
+For queries $\boldsymbol { \mathcal { Q } }$ that are not boundedly evaluable,can we evaluate $\boldsymbol { \mathcal { Q } }$ against a big dataset $D$ under constrained resources? We answer the question in the affirmative.
+
+We propose a data-driven scheme for approximate query answering. It is parameterized with a resource ratio $\alpha \in$   
+（204 $( 0 , 1 )$ , indicating that our available resources can only access an $a$ -fraction of big dataset $D$ .Given $\alpha , D$ and a query $\boldsymbol { \mathcal { Q } }$ （204号   
+over $D$ ,it identifies $D _ { Q } \subseteq D$ , and computes $Q ( D _ { Q } )$ and an accuracy bound $\eta \in ( 0 , 1 ]$ such that (1) $| D _ { \mathcal { Q } } | \leq \alpha | D |$ ,where $| D _ { Q } |$ is measured in its number of tuples; and (2) accuracy $( Q ( D _ { Q } ) , Q , D ) \geq \eta .$ Intuitively, it computes approximate answers $Q ( D _ { Q } )$ by accessing at most $\alpha | D |$ tuples in the entire process. Thus it   
+can scale with $D$ when $D$ grows big by setting $ { \boldsymbol { a } }$ small. Moreover, $Q ( D _ { Q } )$ assure a deterministic accuracy bound $\eta$ ： (a) for each approximate answer $s \in Q ( D _ { Q } )$ ,there exists an exact answer $\scriptstyle t \in Q ( D )$ that is $\eta$ -close to $s$ ,i.e., $s$ is within   
+distance $\eta$ of $t ;$ and (b) for each exact answer $\scriptstyle t \in Q ( D )$ , there exists an approximate answer $s \in Q ( D _ { Q } )$ that is $\eta$ -close to $t$ ： That is, $Q ( D _ { Q } )$ includes only“relevant” answers,and “covers” all exact answers. It finds sensible answers in users’   
+interest, and suffices for exploratory queries, e.g.,real-time problem diagnosis on logs[15]. The objective is ambitious. As observed in[16l, approximate query answering is chalenging. Previous approaches
+
+often adopt an one-size-fit-all synopsis $D _ { c }$ and computes $\mathcal { Q } ( D _ { c } )$ for all queries $\boldsymbol { \mathcal { Q } }$ posed on $D$ . The approaches“substantially limit the types ofqueries theycan execute[5],and often focus onaggregate queries (max,min,avg,sum,count). Moreover,they make various assumptions on future queries,i.e.,workloads,query predicates or QCS,i.e.,‘the frequency of columns used for grouping and filtering does not change over time". Worse still,they provide either no accuracy guarantee at all,or probabilistic error rates for aggregate queries only.Such eror rates do nottellus how“good” each approximate answer is.
+
+Nonetheless,data-driven approximation is feasible under access schema.
+
+Example 2: Continuing with Example 1, consider query $Q _ { 2 }$ to find me hotels that cost at most \$95 per night and are in a city where one of my friends lives:
+
+selecth.address,h.price from poi as h, friend as f, person as p
+
+where f.pid ${ \bf \omega } = { p _ { 0 } }$ and f.fid $\mathbf { \Psi } = \mathbf { \Psi }$ p.pidand p.city $\ O =$ h.city and h.type $\ O =$ "hotel"and h.price $\leq 9 5$
+
+We can compute $Q _ { 2 } ( D _ { 0 } )$ in a big dataset $D _ { 0 }$ of trillions of tuples given a small $ { \alpha }$ ,e.g., $1 0 ^ { - 4 }$ ,i.e.,when our available resources can afford to access at most $1 0 ^ { - 4 } * | D _ { 0 } |$ tuples. This is doable by using an access schema $\pmb { A } _ { 0 }$ , which includes $\varphi _ { 1 }$ and $\varphi _ { 2 }$ of Example 1 and in addition, the following extended access constraints:
+
+${ } ^ { \circ } \psi _ { 1 }$ : poi({type, city} $$ {price,address}, $1 , ( e _ { p } ^ { I } , e _ { a } ^ { I } ) )$ $^ \circ \psi _ { m } \colon \mathrm { p o i } ( \{ \mathrm { t y p e } , \mathrm { c i t y } \} \to \{ \mathrm { p r i c e } , \mathrm { a d d r e s s } \} , 2 ^ { m } , ( e _ { p } ^ { m } , e _ { a } ^ { m } ) ) , \mathrm { w h e r e } m = \left\lceil \log _ { 2 } M \right\rceil .$
+
+Here $M$ is the maximum number of distinct poi tuples in $D _ { 0 }$ grouped by (type, city). We build an index for each $\psi _ { i }$ in $\pmb { A } _ { 0 }$ such that for $i \in [ 1 , m ]$ , given any (type, city)-value $( c _ { t } , c _ { c } )$ , we can retrieve a set $T$ of at most $2 ^ { i } ($ (price,address) values from $D _ { 0 }$ by using the index for $\psi _ { i }$ ; moreover, or each poi tuple $( c _ { \ a } ^ { \prime } , c _ { t } , c _ { c } , c _ { \ p } ^ { \prime } )$ in $D _ { 0 }$ ,there exists $( c _ { p } , c _ { a } ) \in T$ such that the (price, address)-value $( c _ { \ p } ^ { \prime } , \ c _ { \ a } ^ { \prime } )$ differs from $( c _ { p } , c _ { a } )$ by distance at most $( e _ { p } ^ { i } , e _ { a } ^ { i } )$ . That is, $T$ represents (price, address) values that correspond to $( c _ { t } , ~ c _ { c } )$ with at most $2 ^ { i }$ tuples，subject to distances $( e _ { p } ^ { i } , ~ e _ { a } ^ { i } )$ . Intuitively, the indices give a hierarchical representation of relation poi with different resolutions $i \in [ 1 , m ]$ . The higher the resolution $i$ is, the smaller the distance $( e _ { p } ^ { i } , e _ { a } ^ { i } )$ is,and the more accurate the index for $\psi _ { i }$ represents $D _ { 0 }$ ：
+
+Assume $\alpha | D _ { 0 } | > 1 0 0 0 0$ ,as in Facebook dataset $D _ { 0 }$ .Then under $\pmb { A } _ { 0 }$ ，we can find hotels by accessing at most $\left. a \vert D _ { 0 } \right.$ tuples as follows: (a) fetch a set $T _ { 1 }$ of fid's with $p _ { 0 }$ by accessing at most 5ooo friend tuples using $\varphi _ { 1 }$ ; (b) for each fid in $T _ { 1 }$ fetch 1 associated city with $\varphi _ { 2 }$ , yielding a set $T _ { 2 }$ of at most 5ooO city values; (c) for each city $c$ in $T _ { 2 }$ ,fetch at most $2 ^ { k _ { a } }$ （204号 (price,address) pairs corresponding to ("hotel", $c$ by using $\psi _ { k _ { \alpha } } ,$ where $k _ { \alpha } = \left\lfloor \log _ { 2 } ( \alpha \mid D _ { 0 } \mid - 1 0 0 0 0 ) \right\rfloor$ ; and (d) return a set $S$ of those (price, address) values with price at most $( 9 5 + e _ { p } ^ { k _ { a } } )$ , as approximate answers to $Q _ { 2 }$ in $D _ { 0 }$ . The process accesses at most $5 0 0 0 + 5 0 0 0 + 2 ^ { k _ { a } } \leq \alpha | D _ { 0 } |$ tuples in total.
+
+The set $S$ of answers is accurate: (1) for each hotel $h _ { 0 } ( c _ { p } , c _ { a } )$ in the exact answers $Q ( D _ { 0 } )$ ,there exists $( c _ { \ p } ^ { \prime } , c _ { \ a } ^ { \prime } )$ in $S$ that are within $e _ { p } ^ { k _ { a } }$ and $e _ { a } ^ { k _ { a } }$ of $c _ { p }$ and $c _ { a }$ ,respectively; and (2) for each hotel $h ^ { \prime } ( c _ { \textit { p } , } ^ { \prime } c _ { \textit { a } } ^ { \prime } )$ in $S .$ , its price $\boldsymbol { c ^ { \prime } } _ { p }$ exceeds 95 by at most $e _ { p } ^ { k _ { a } }$ ，e.g， $e _ { a } ^ { k _ { a } } = 4$ and $\scriptstyle { c ^ { \prime } } _ { p } = 9 9$ ,and $\boldsymbol { c ^ { \prime } } _ { a }$ is the address of hotel $h ^ { \prime }$ . Moreover, the larger $ { \boldsymbol { a } }$ is, the smaller $e _ { p } ^ { k _ { a } }$ and $e _ { a } ^ { k _ { a } }$ are, and the more accurate $S$ is.
+
+It has been shown[9] that for any dataset $D$ ,there exists such an access schema $\pmb { A }$ such that $D$ conforms to $\pmb { A }$ and for any resource ratio $\alpha \in ( 0 , 1 ]$ and SQL queries $\boldsymbol { \mathcal { Q } }$ over $D$ ， aggregate or not, there exists a dataset $D _ { Q } \subseteq D$ identified by reasoning about $\pmb { A }$ and a deterministic accuracy bound $\eta$ such that $| D _ { Q } | \leq \alpha | D |$ and accuracy $( Q ( D _ { Q } ) , Q , D ) \geq \eta .$ Moreover, the larger $\alpha$ is, the higher $\eta$ is.
+
+As opposed to previous approximate query answering approaches,the data-driven approximation scheme is able to answer SQL queries $\boldsymbol { \mathcal { Q } }$ that are(1) unpredictable,i.e.,without assuming any prior knowledge about $\boldsymbol { \mathcal { Q } }$ ,(2) and generic, aggregate or not, with (3) deterministic accuracy $\eta$ in terms of both relevance and coverage.
+
+We find that the approximation scheme computes approximate answers to SQL queries,aggregate or not, with accuracy $\eta \geq 0 . 8 2$ for SQL queries, even when $\mathfrak { a }$ is as small as $5 . 5 \times 1 0 ^ { - 4 [ 9 ] }$ . That is, it reduces $D$ of PB size to $D _ { \mathcal { Q } }$ of 550GB.
+
+# 4 AResource Bounded Query Evaluation Framework
+
+We are now ready to present BEAS (Boundedly EvAluable Sql),a resource-bounded framework for querying big relations.Fora big dataset $D$ in an application,BEAS takes a resource ratio $a \in ( 0 , 1 ]$ as a parameter, and discovers an access schema $A .$ Given an SQL query $\boldsymbol { \mathcal { Q } }$ posed on $D$ ,BEAS works as follows:
+
+(1） it checks whether $\boldsymbol { \mathcal { Q } }$ is boundedly evaluable under $A ,$ i.e., exact answers $Q ( D )$ can be computed by accessing $D _ { Q } \subseteq D$ such that $| D _ { Q } |$ is independent of $| D |$ ：， (2) if so, it computes $Q ( D )$ by accessing a bounded fraction $D _ { \mathcal { Q } }$ of $D$ (3） otherwise, BEAS identifies $D _ { \mathcal { Q } }$ with $| D _ { Q } | \leq \alpha | D |$ ，and computes $Q ( D _ { Q } )$ with a deterministic accuracy bound $\eta$ based on data-driven approximation.
+
+That is, under the resource constraint $ { \alpha }$ ,BEAS computes exact answers $Q ( D )$ when possible,and approximate answers $Q ( D _ { Q } )$ otherwise with accuracy $\eta$
+
+As opposed to conventional DBMS, BEAS is unique in its ability to (1) comply with resource ratio $\alpha$ ,i.e., it can scale with arbitrarily large datasets $D$ by adjusting $a$ based on available resources,(2) decide whether $\boldsymbol { \mathcal { Q } }$ isboundedly evaluable,(3) answer unpredictable and generic SQL queries,aggregate or not, with deterministic accuracy $\eta$ ,and (4) be plugged into commercial DBMS and provide the DBMS with an immediate capacity to query big relations under constrained resources.
+
+In light of these,BEAS is promising for providing smallcompanies with thecapability of big data analytics and hence,to benefit from big data services.Itcan also help big companies such as Huawei to reduce the cost and improve efficiency1.Moreover,paralel processing is otasilver buletforbigdata analytics. Indeed,one might expectaparalelalgorithm tohavetheparalel scalability,i.e.,thealgorithm wouldrun faster givenmore processors. However,few algorithms in the literature have this performance guarante. Worse yet,some computation problems are not parallel scalable,i.e.,there exist no algorithms forthem such that their running timecanbe substantially reduced byadng processors, no mater how many processors are used17-18]. For such computation problems,bounded evaluation and data-driven approximation offer a feasible solution.
+
+The idea ofresource-bounded query answering is notlimited to relations.It has been shown that bounded evaluation improves the performance of graph pattern matching via subgraph isomorphism,an intractable problem1 that is widely used in social media marketing[19-20]and knowledge base expansion[21, by4 orders of magnitude on averagel2l. For personalized social search via subgraph isomorphism, data-driven approximation retains $100 \%$ accuracy (i.e., $\eta = 1$ ） when $ { \boldsymbol { a } }$ is as small as $1 . 5 * 1 0 ^ { - 6 [ 2 3 ] }$ , ie., when processig graphs $G$ of 1PB,theyaccessonlGBofdata,i,ducing $G$ from PB to GB while retaining high accuracy!
+
+# Reference
+
+[1] Papadimitriou, C.H.: Computational Complexity.Addison-Wesley (1994).   
+[2] ITProNewsee:amsngeals’lgsteveathtp:/poous/25/msu-reveals-agesevea-b (2016).   
+[3] StackOverfoL:Igtwasieabltp:/tacoefoctis/o/sj-twaiable.   
+[4] Cao,Y.,Fan,W:Antivetafoudedrelatiolque.I().htp:/blpocosgd/F6.   
+[5] Cao,Y.,Fan,W,Gerts,F.,Lu,P.:Bounded queryrewritingusingviews.In:PODS(2016).DOI:10.1145/2902251.2902294.   
+[6] Cao,Y.,Fan,W.,Wo,T.,Yu,W.: Boundedconjunctivequeries.PDB(214).htp://blp.org/recjourals/pvld/CaoFWY14.   
+[7] Fan,W.,Geerts,F,Cao,.Deng,T.: Queryingbigdatabyaccessingaldata.In:OD(5).DOI:10.1145/7457542471.   
+[8] Fan,W.,Gerts,F.,Libkin,L.: Onscale independenceforqueryingbigdata.In:PODS(204).DOI:10.45/2594538.2594551.   
+[9] Cao,Y.Fan,Wataitoiddos)9794().tp:/   
+[10]Cao,Y,Fan,W,ang,Y,YuanT,LiY,Chen,LYBEAS:BoudedevauatioofSQLueries.I:OD,pp67(17). http://dblp.org/rec/conf/sigmod/CaoFWYLC17.   
+[1]Univesib:aaltdvaeetitp:/dcukaa in-data-science (2017).   
+[12]Grujic,gaoi-iicovLolctigdalygdatafretFacbokgesti (2014).   
+[13]Facebook: Introducing Graph Search. https://en-gb.facebook.com/about/graphsearch (2013).   
+[14]Abitebol,,ull,au,VFdatiosoftabsAsoWeey().tp:/baiia.fr/icel.   
+[15]AgaralfariaHdn,aQitdddddspo very large data.In: EuroSys.2013. http:/linkdb.org/.   
+[16]Chauurig,BKadla,S.Aproxmateuerrocessg:NserbetI:D.-19().:14/ 3035918.3056097.   
+[17]FanWa,Xteaasiilt).:/   
+[18]Xie,C.Cen,RanHngCenHorC:Tietfuseforistributedga-paraeoptatioIP 194-204 (2015).   
+[19]Fan,Wa,,uuJsi))4.   
+[20]FanYuJgogsasI)   
+[21]Fan,W.,Wu,Y.,Xu,J.: Functional dependencies for graphs.In: SIGMOD(2016).DOI:10.1145/2882903.2915232.   
+[22] Cao,Y.,Fan,W,Huang,R.:Makingpaternqueriesboundediniggraphs.In:ICDE(2015).DOI:10.1109/ICDE.2015.7113281.   
+[23]Fan,W.,Wang,X,WuY.: Queryingiggraphs withiboundedresources.In:SIGMOD(214).DOI:10.145/258855610513.
+
+# Author Information and Contributions
+
+![](images/9aaa96a7348b088783405a79c28675c8a5fca2b79b67f89feff01747afba64fc.jpg)
+
+YangCaoisapost-doctoralresearch fellowinLFCS,theSchoolofInformatics,UniversityofEdinburgh,UK.Hereceivedhis Ph.Dfrom the UniversityofEdinburgh in2016,supervisedbyProf. WenfeiFan.Hereceived hisB.S.fromBeihang University. He is the ecipientof Best Paper Award for SIGMOD2017,a Microsoft Asia ResearchFellowship,and earlier awards including National No.1ofCUMCMand first prizeof MCM.His currentresearch interests include querying bigdata and graph pattern matching.
+
+Yang Cao (yang.cao@ed.ac.uk,corresponding author)designed the research framework and carried out the system.
+
+ProfessorWenfeiFanistheChairofWebData ManagementintheSchoolofInformatics,UniversityofEdinburgh,UK,thedirectorofHuawei-Edinburgh JointResearchLab,thechiefscientistofBeijingAdvanced InnovationCenterforBigDataand Brain Computing,andthedirectoroftheInternationalResearchCenteronBigDataBeihangUniversityChina.HeisaFellowofthe Royal SocietyofEdinburgh,UK,aFellowofthe ACM,a National Professorof theo-TalentProgramandaYangtzeRiver Scholar,China.HereceivedhisPh.D.fromtheUniversityofPennsylvania,andhisMSandBSfromPeking University.Heisa recipientofthebertoO.MendelnTest-of-TmeAwardofACOD215and20ERCAdvancedFelowshipin25,theRogeredm Award n2008(UK),theOutstaingversasYungShlarAwardin(China),theCareerAwardinl(USA)ndseveralstaer Awards(SIGMOD7,B,CD0ndomputeetoksi02).Hsetresearchterestsicdedtabased systes,rttataaitataiosde and Web services.
+
+WenfeiFan(wenfei@inf.ed.ac.uk)proposed theresearch problems,designed theresearch framework and wrote the manuscript.
+
+TengfeiYuanisafirstyearPh.D.studentiLFCS,theScholofformatics,UniversityfEdinburgh,supervisedbyProf.Wenfei Fan.He received his B.Eng.from Shandong University.Heiscurently workingon the developmentofBEAS,asystem for bounded evaluation of SQL queries.   
+Tengfei Yuan (tengfei.yuan@ed.ac.uk) implemented system and carried out the tests.
+
+![](images/0dcf96f5cc77808b6b513e0a6ae49f8328d4f9e9e083bb4a779c0f72a5de714a.jpg)

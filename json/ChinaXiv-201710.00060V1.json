@@ -1,0 +1,431 @@
+[
+    {
+        "type": "text",
+        "text": "局部端前掠对跨音悬臂静子气动性能影响研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "鹿哈男 李秋实 潘天宇(北京航空航天大学能源与动力工程学院，北京100191)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：探究了局部端前掠对跨音悬臂静子气动性能的影响。一方面，局部端前掠可以减小悬臂静子轮毂端吸力面上跨音区的峰值马赫数，减小激波损失；另一方面，局部端前掠可以减小悬臂静子轮毂端的峰值负荷，使得负荷沿弦长方向重新分布，减小泄漏损失。同时，把局部端前掠技术应用于一台工业用多级轴流压气机中的跨音悬臂静子，在保持总压比和稳定工作范围的前提下使得多级压气机绝热效率提高近 $0 . 8 5 \\%$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：局部端掠；悬臂静子；激波损失；泄漏损失；多级轴流压气机中图分类号： V235.11 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Study on the forward end sweep on the aerodynamic performance of ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "transonic cantilevered stators ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LUHa-NanLIQiu-Shi PAN Tian-Yu (School of Energy and Power Engineering,Beihang University,Beijing lOo191, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The paper investigates the eect of forward end sweep on the aerodynamic performance of cantilevered stators. On one aspect, forward end sweep reduces both the peak Ma and the size of high-Ma region on the blade suction side,thus decreasing the shock loss near the hub.On the other aspect, it also reduces the peak load,leads to load redistribution in the chordwise direction and decreases the leakage loss.At the same time,the forward end sweep is applied to the transonic cantilevered stators in an industrial multistage axial-flow compressor. An improvement of adiabatic effciency is achieved by approximately $0 . 9 \\%$ ,while the total pressure ratio is maintained. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: forward end sweep; cantilevered stator; shock loss; leakage loss; multistage compressor ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，为了进一步提高叶轮机械压缩系统的性能，压气机设计负荷逐步提高并接近极限，使得压气机内部流动愈发复杂。静子作为多级轴流压气机中的重要部件，在强逆压梯度下工作，其内部流动的好坏不仅决定了静子内部流动损失的大小，还将会对下游转子内部流动产生重要影响。因此，合理优化静子内部流动、整体提高其气动性能对综合提高整台多级压气机的性能意义重大。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在过去的30多年里，三维(3-D)叶片造型技术被广泛应用于带冠静子的气动设计中[1,2]。学者们通过数值和实验研究了弯和掠造型设计对于带冠静子气动性能的影响规律及作用机理[3-6]。对于弯造型设计，端壁处正弯可以降低端壁损失，但是会增加叶中部分的损失，综合来看可以降低静子的总体气动损失。对于掠造型设计，Friedrichs 等[7]通过实验发现了带有前缘后掠的静子叶片相比于传统静子，在轮毂区域具有更好的气动性能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "同时，随着当今对压气机减重的需求越来越高，不同于带冠静子，整体叶盘和悬臂静子组合结构被广泛应用于小型航空发动机的压气机中。由于压气机负荷的不断提升，悬臂静子通道内跨音区和激波、轮毂端泄漏等流动现象所产生的气动损失严重影响悬臂静子的整体性能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高负荷跨音悬臂静子内部流场与常规带冠静子存在很大不同，激波损失以及泄漏损失成为了造成悬臂静子气动损失不可忽视的因素。针对这一问题，Lange等[8]通过设计弯造型的悬臂静子来减小由泄漏流动产生的气动损失，并通过一台4级低速轴流压气机进行了验证。国内Luo 等[9]和Wang 等[10]也针对弯造型设计对悬臂静子内部流场的影响进行了详细研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，公开文献中对于悬臂静子的研究多集中",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "收稿日期：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：国家自然科学基金资助项目(No.51636001)；博士后基金资助项目(No.2017M610742)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作者简介：鹿哈男(1987-），男，博士生，主要从事叶轮机优化设计方法研究。通信作者：潘天宇，博士后，Email:pantianyu@buaa.edu.cn",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "于弯造型设计对悬臂静子内部流动以及气动性能的影响研究，然而，掠造型设计在跨音转子中有效控制激波损失[11,12]的应用为该设计在跨音悬臂静子中的应用提供了参考，本文试图在跨音悬臂静子靠近轮毂端采用局部端前掠造型设计，通过数值模拟探究该设计对悬臂静子内激波损失、泄漏损失以及静子总体气动性能的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究对象",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1原型悬臂静子",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文研究对象如图1所示，S1表示所要研究的悬臂静子，在悬臂静子轮毂区域，静子叶片与轮毂壁面之间存在间隙。在计算模型中，为了模拟悬臂静子真实的进气条件，整个计算模型还考虑了悬臂静子上游的进口导叶以及转子叶片，该1.5级压气机以及悬臂静子的几何参数如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/46012d40dacf758e385500bafab55c23745e3bac4120bdf0307ab11c902c45ac.jpg",
+        "img_caption": [
+            "图11.5级跨声速轴流压气机示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1压气机几何参数",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/f836a9d56219dacf2e5b3916fdff65962c44be09cd59b85640cd0496355c83ba.jpg",
+        "table_caption": [
+            "Table 1 Geometric parameters of the compressor "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>设计参数</td><td>数值</td></tr><tr><td>流量系数</td><td>0.37</td></tr><tr><td>级负荷</td><td>0.35</td></tr><tr><td>进口Ma数</td><td>0.5</td></tr><tr><td>进口轮毂比</td><td>0.52</td></tr><tr><td>S1叶片数</td><td>30</td></tr><tr><td>S1 叶尖间隙(mm)</td><td>0.25</td></tr><tr><td>S1稠度</td><td>1.56</td></tr><tr><td>S1展弦比</td><td>1.43</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 端掠悬臂静子",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文掠造型定义为基元叶型沿弦长方向的移动，当基元叶型沿弦长方向向上游移动时，定义为前掠，反之则为后掠。图2给出了由原型静子产生端前掠造型的示意图，端前掠静子是通过改变原型静子积叠线的曲率获得的，在原型静子的积叠线上均匀分布7个控制点，每个控制点沿基元叶型弦长方向的移动都会产生掠造型的效果。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9c3b20674477b15a04bc0e56eb64c276b5f9004e091d1d97b2540f0392e767e4.jpg",
+        "img_caption": [
+            "Fig.1 Schematic of the 1.5-stage transonic axial-flow compressor ",
+            "图2原型静子与掠静子的子午面视图",
+            "Fig.2Meridional view of the baseline and swept stators "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了使掠造型设计能够在跨音悬臂静子中产生明显的气动效果，便于研究掠造型对悬臂静子内部流动的影响规律，本文在对悬臂静子进行局部端前掠造型时采用了优化设计，目的是增强端掠作用效果，便于更加清晰地认识局部端前掠造型设计对跨音悬臂静子内部流动以及气动损失的作用规律。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2数值方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文的数值计算采用NUMECA公司的商用CFD软件FINE/TURBO，N-S方程求解采用FINE模块，空间离散采用中心差分格式，时间推进采用四阶Runge-Kutta法迭代求解，计算过程中采用多重网格技术和局部时间步加速收敛。湍流模型采用Spalart-Allmaras模型，工质选择理想气体。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "计算过程中仅对单通道进行模拟计算，压气机进口给定标准大气条件（总压101325Pa，总温288.15K)和轴向进气方向，在出口边界处，给定静压条件。同时，计算模型中的固体壁面均采用绝热无滑移条件。叶片通道内的网格采用O4H型拓扑结构，包围叶片的区域采用O型网格，其他区域则采用H型网格，如图3所示。悬臂静子叶尖间隙区域采用蝶形网格结构来提高正交性，为确保间隙内部流场模拟的准确性，间隙内部沿径向方向选择大约17个网格节点。同时，在整个计算域内，对壁面处进行适当的加密处理，保证第一层网格节点满足$y ^ { + } < 5$ (如图4所示)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2de917fb36cea7bc89c41ccd6e42d9b09bce654add489ab281ba0e261d5f9bb0.jpg",
+        "img_caption": [
+            "图3悬臂静子的计算网格"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac0c02cb6563c45026497c5e34d63dcf33a2550f46d25ce87a34c38f90aabfbd.jpg",
+        "img_caption": [
+            "Fig.3 Computational mesh of the investigated cantilevered stator ",
+            "图4计算域中的 $y ^ { + }$ 值分布",
+            "图6验证算例数值与实验结果对比",
+            "Fig.6 Comparisons between the CFD results and the experimental data in validation case "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了检验本文采用的数值计算方法及工具的可靠性，但是由于缺少所研究的悬臂静子的实验数据，采用另外一台1.5级轴流压气机的实验结果来检验数值工具，如图5所示。该1.5级轴流压气机是一个3.5级轴流压气机实验台的前1.5级，实验数据取自该3.5级轴流压气机[13]，在实际计算中，把取自于实验的静子S1出口压力径向分布赋给1.5级轴流压气机作为出口边界条件。数值结果与实验数据的对比如图6所示，比较可知，数值计算结果与实验数据吻合较好，说明所采用的数值方法和工具具有可靠性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "H ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6c621d2dc76d8ab1c9a9c7cc61f628a5817da2238aa063375c43f73b5e08faa7.jpg",
+        "img_caption": [
+            "Fig. 4 The value of the $y ^ { + }$ in the computational domain ",
+            "图51.5级轴流压气机示意图",
+            "Fig.5 Schematic of the 1.5-stage axial-flow compressor "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3结果与讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1局部端前掠对激波损失的影响 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图7给出了原型悬臂静子与局部端掠悬臂静子靠近吸力面的Ma数分布云图。在原型悬臂静子靠近轮毂位置的吸力面角区(区域A)，能够明显观察到跨音区域的存在，当对原型悬臂静子采用局部端前掠技术之后，可以看到，靠近轮毂位置吸力面角区内跨音区域的面积有所减小。同时，吸力面上的峰值Ma数明显降低(原型1.33，改型1.21)，静子内流动的激波损失就会相应降低。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/65c66ca389cc60316a69fc944dc70c722b799722db0dc5eb22d0b93c18f6f0a6.jpg",
+        "img_caption": [
+            "图7叶片吸力面Ma数云图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由此可知，局部端前掠可以通过减小跨音悬臂静子吸力面上跨音区域的面积以及相应的峰值Ma数来降低激波损失，进而提高悬臂静子的气动性能。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2局部端前掠对泄漏损失的影响 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "区别于带冠静子，悬臂静子叶片与轮毂壁面之间存在一定间隙，这就使得靠近轮毂壁面的泄漏流动成为悬臂静子总气动损失的另一大来源。图8给出了原型悬臂静子和局部端前掠悬臂静子靠近轮毂区域沿弦长方向的负荷分布对比结果，负荷系数定义如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\psi = ( { \\boldsymbol { p } } _ { p _ { s } } - { \\boldsymbol { p } } _ { s s } ) / { \\mathop { P } _ { i n } } ^ { * }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2dd301b906495192234781c207ace2de2d255b30f93bf18e18c19f70c7e3562f.jpg",
+        "img_caption": [
+            "图8原型静子与局部端前掠静子靠近轮毂区域沿弦长方向的负荷分布",
+            "Fig. 8 Load distributions of the baseline and forward end swept stators near the hub "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $P _ { p s }$ 和 $P _ { s s }$ 分别表示叶片压力面和吸力面上的压力， $\\mathbb { P } _ { \\widehat { \\mathbb { I } } \\widehat { \\mathbb { I } } } ^ { * }$ 表示静子叶片进口总压。由负荷分布对比结果可以看出，局部端前掠可以使得靠近轮毂区域的负荷进行重新分布，降低悬臂静子靠近轮毂区域的负荷峰值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图9给出了原型悬臂静子和局部端前掠悬臂静子叶片通道截面上的熵云图对比结果，可以看到，由于局部端前掠降低了静子靠近轮毂区域的峰值负荷，使得悬臂静子泄漏流减弱，一方面减小了泄漏损失，另一方面缓解了轮毂壁面附近的堵塞。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/606c1ad1dfb003ab5a7b705da381fc34ac88ca519eeb1d438988bb98f1514225.jpg",
+        "img_caption": [
+            "Fig.7 Contours ofMa number near the blade suction surface ",
+            "图9原型静子与局部端前掠静子叶片通道截面的熵云图对比",
+            "Fig.9 Entropy contours on the cross planes of the baseline stator and the forward end swept stator "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上，局部端掠可以通过降低悬臂静子靠近轮毂区域的峰值负荷，减小泄漏流，进而降低泄漏损失，提高悬臂静子气动性能。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3局部端前掠在多级轴流压气机中的应用",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "鉴于局部端前掠能够有效降低悬臂静子靠近轮毂端的激波损失以及泄漏损失，有助于提高悬臂静子的整体气动性能，把局部端前掠技术应用于一台工业用多级轴流压气机的跨音速悬臂静子气动设计中，目的是提高整台多级轴流压气机的绝热效率。具体的，把局部端前掠应用于该多级轴流压气机的前四级跨音悬臂静子，原型静子与改型静子如图10所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e0d016d2c5f501a969f7faa78b3f83936be5d32419767314e54441c98cb0ea3e.jpg",
+        "img_caption": [
+            "图10多级压气机中前四级原型悬臂静子与局部端前掠悬臂静子示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "S3 and S4) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图 11给出了原型悬臂静子与局部端前掠悬臂静子的气动损失对比结果，气动损失定义如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\omega = ( { P _ { i n } ^ { ' } - P _ { o u t } ^ { ' } } ) / ( { P _ { i n } ^ { ' } - p _ { i n } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\mathbb { F } _ { \\mathrm { i n } } ^ { \\mathrm { s } }$ 和 $\\tilde { P } _ { \\tilde { v } ; \\tilde { v } } ^ { * }$ 分别表示静子进、出口的总压， $\\mathbf { P } _ { \\mathrm { i n } }$ 表示进口静压。由对比结果可以看出，采用局部端前掠技术之后，多级轴流压气机中前四级悬臂静子气动损失明显降低，计算结果再次证明局部端前掠技术可以有效降低跨音悬臂静子的气动损失。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图12对比了原型压气机与静子加入局部端前掠后的改型压气机的气动性能，在整个工作范围内，改型压气机的气动性能较原型压气机有显著提升，绝热效率提高近 $0 . 8 5 \\%$ 。同时，在产生相同总压比的前提下，改型压气机的绝热效率都明显高于原型压气机。计算结果表明局部端前掠技术能够有效降低跨音悬臂静子的气动损失，显著提高其气动性能，进而提高整台多级轴流压气机的气动性能。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/03530192e93e9f1fb013f5f4e30ef75ee673505d2d07a31b7fdda50f7bd2ebeb.jpg",
+        "img_caption": [
+            "图11原型悬臂静子与局部端前掠悬臂静子的气动损失对比结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/020b85009b9799a416b970ee342c686cd4d23d36eeb58154675dda32f4ac1f5f.jpg",
+        "img_caption": [
+            "Fig.10 Schematic of the baseline stators and forward end swept stators in four stator rows of the multistage compressor (S1, S2, ",
+            "Fig.11 Comparison of the aerodynamic loss between the baseline stator and forward end swept stator ",
+            "图12原型压气机与改型压气机的气动性能对比结果 Fig.12 Performance maps of the baseline and modified compressors "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本论文以跨音悬臂静子为研究对象，在靠近轮毂端采用局部端前掠造型设计，探究该端掠设计对悬臂静子激波损失以及泄漏损失的影响，并把该技术应用于一台多级轴流压气机中跨音悬臂静子的气动设计，可以得到如下结论：(1）局部端前掠可以通过有效减小跨音悬臂静子吸力面上跨音区域的面积，并且降低相应的峰值 Ma数来降低激波损失，进而提高悬臂静子气动性能。(2）局部端前掠可以有效降低悬臂静子靠近轮毂区域的峰值负荷，改变负荷分布，减小泄漏流，进而降低泄漏损失，提高悬臂静子的气动性能。(3）把局部端前掠技术应用于一台多级轴流压气机中跨音悬臂静子的气动设计，使得跨音悬臂静子气动损失显著降低，改型后的多级轴流压气机气动性能显著提高，说明局部端前掠技术对于提高多级轴流压气机的气动性能具有重大潜力。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] Gallimore SJ,Bolger JJ, Cumpsty N A,et al.The Use of Sweep and Dihedral in Multistage Axial flow Compressor Blading-Part I:University Research and Methods Development [J].ASME Journal of Turbomachinery, 2002,124(4): 521-532. [2] Gallimore S J，Bolger J J,Cumpsty N A et al. The Use of Sweep and Dihedral in Multistage Axial Flow CompressorBlading-Part II: Low and High Speed Designs and TestVerification [J] ASMEJournal of Turbomachinery,2002,124(4):533-541. [3] Sasaki T,Breugelmans F. Comparison of Sweep and Dihedral Effects on Compressor Cascade Performance [J]. ASME Journalof Turbomachinery, 1998,120(3): 454-463. [4]Breugelmans F A H,Carels Y,Demuth,M.Influence of Dihedral on the Secondary Flow in a Two-Dimensional Compressor Cascade [J].ASME Journal of Engineering for Gas ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Turbines and Power, 1984,106(3): 578-584.   \n[5] Gümmer V, Wenger U, Kau H-P. Using Sweep and Dihedral to Control Three-Dimensional Flow in Transonic Stators of Axial Compressors[J].ASME Journal of Turbomachinery, 2001,123(1): 40-48.   \n[6] Weingold H D,Neubert R J,Behlke R F,et al. Bowed Stators: An Example of CFD Applied to Improve Multistage Compressor Efficiency [J]. ASME Journal of Turbomachinery, 1997, 119(2): 161-168.   \n[7] Friedrichs J, Baumgarten S,Kosyna G, et al.Effect of Stator Design on Stator Boundary Layer Flow in a Highly Loaded Single-Stage Axial-Flow Low-Speed Compressor [J]. ASME Journal of Turbomachinery,2001,123(3): 483-489.   \n[8] Lange M, Vogeler K,Mailach R,et al. An Experimental Verification of a New Design for Cantilevered Stators with Large Hub Clearances [R]. ASME Paper No. GT2012-68344, 2012.   \n[9] LUO Ju,HU Jun,WANG Zhiqiang,et al. Experimental Study of Effects of Bowed Blade on the Flow Field in a CantileveredStatorPassage[R]. ASMEPaperNo. GT2014-25766,2014.   \n[10] WANG Songtao,DU Xin,WANG Zhongqi. Study on the Effects of End-Bend Cantilevered Stator in a 2-Stage Axial Compressor [J].Journal of Thermal Science，2009,18(2): 119-125.   \n[11] Wadia A R, Szucs P N,Crall D W. Inner Workings of Aerodynamic Sweep [J]. ASME Journal of Turbomachinery, 1998,120(4): 671-682.   \n[12] Hah C,Puterbaugh S L,Wadia A R.Control of Shock Structure and Secondary Flow Field Inside Transonic Compressor Rotors through Aerodynamic Sweep [R]. ASME Paper No.98-GT-561,1998.   \n[13] WANG Zhuo. Numerical Study of a 3.5-Stage Axial Compressor at On-and Off-Design Conditions [J]. Journal of Aerospace Power, 2007,22(9): 1444-1454. ",
+        "page_idx": 5
+    }
+]

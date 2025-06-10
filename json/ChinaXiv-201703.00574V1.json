@@ -1,0 +1,190 @@
+[
+    {
+        "type": "text",
+        "text": "Electron irradiation-induced defects in Mo-diluted FeCrNi austenitic alloy during void swelling incubation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "B Y Wang1,EYLu1, C X Zhang1, Q $\\mathbf { X } \\mathbf { u } ^ { 2 }$ ,S XJin1,P Zhang1,X Z Cao1, \\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Key Laboratory of Nuclear Radiation and Nuclear Energy Technology, Institute of High Energy Physics, CAS,Beijing,100049, China ² Research Reactor Institute, Kyoto University, Kumatori-cho, Osaka 590-0494, Japan ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "E-mail: caoxzh @ihep.ac.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract. The microstructural features and the effect of Mo addition in FeCrNi austenitic alloy during incubation period were investigated using positron annihilation technique and microVickers Hardness. The electron irradiation,which could induce vacancy defects in material, was performed at room temperature up to the dose of $1 . 7 { \\times } 1 0 ^ { - 4 }$ and $5 { \\times } 1 0 ^ { - 4 }$ dpa,respectively. The defect concentration was estimated about $1 0 ^ { - 4 } – 1 0 ^ { - 7 }$ though the standard trapping model. The added Mo atoms could trap vacancies to form Mo-vacancy complexes, which may restrain the migration and growth of vacancy defects during electron irradiation. In addition， the microstructural evolution during electron radiation resulted in hardening,while the added Mo might improve the hardening property of the alloy. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Austenitic stainless steels are usually used as the structural material of nuclear reactors.Irradiation damage, such as void swelling and hardening, caused by prolonged energetic particle irradiation may affect the safety of nuclear reactors [1-2]. A transient stage or incubation period,which could determine the duration of the nuclear system,exists before steady void swelling occurs. Several theoretical and experimental analyses have been performed on the microstructural evolution during this period [3-6].It is difficult to characterize the micro defects in this period by TEM for the reason that the defect size is usually lower than the resolution limit of TEM.Positron Annihilation Technique (PAT) is a suitable method to detect smal-sized defects.It is well known that the defect structures of the incubation period relate with the iradiation temperature and dose.No microvoids would be found for the irradiation temperature above $4 7 3 \\mathrm { K }$ with the dose of $1 0 ^ { - 3 }$ dpa in neutron irradiated Ti-modified 316 SS [7-8]. Meanwhile,the alloy elements may also affect the defect structures during the incubation period [1-2,9-1O].As reported,undersize impurity atoms (P,Si) interacted with interstitial atoms,while oversized impurities（Ti，Nb） would interact with vacancies under irradiation in austenitic alloy[2]. These minor elements might induce the formation of stacking fault tetrahedral and precipitates, which could prevent the void growth [1,9]. The added Mo could trap impurity atoms and reduce the number of dislocation loops under irradiation [10].Additionally,Mo addition affect the formation of precipitates and crystal texture then enhance the mechanical properties and corrosion behaviour in different alloys [11-14].As we known,the added Mo is the essential atom in FeCrNi austenitic stainless steel.This work was focus on the interaction of Mo addition with vacancy defects during incubation period. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this study,FeCrNi and Mo-diluted model alloys were used to avoid the effect of other impurity elements.Electron irradiation was performed to generate vacancy defects.PATs,including Positron annihilation lifetime spectroscopy (PALS),Doppler broadening spectroscopy (DBS） and coincidence Doppler broadening (CDB)，were used to investigate the microstructural evolution under electron irradiation and the effect of Mo addition on microstructures.Irradiation hardening was characterizd by micro-Vickers Hardness. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Experimental details ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FeCrNi alloy ( $1 7 \\mathrm { w t } \\%$ Cr, $12 \\mathrm { w t } \\%$ Ni, the balance Fe) and Mo-diluted alloy $( 1 7 \\mathrm { w t } \\%$ Cr, $12 \\mathrm { w t } \\%$ Ni, $2 . 2 \\mathrm { w t } \\%$ Mo,the balance Fe） were made from a series of high purity metals $( { \\ge } 4 \\mathrm { N } )$ by arc melting process at General Research Institute for Nonferrous Metals. Specimens with the size of $1 0 { \\times } 1 0 { \\times } 0 . 3$ $\\mathrm { m m } ^ { 3 }$ were electron-chemical polished to have a mirror like surface,and then annealed at $1 3 2 3 \\mathrm { ~ K ~ }$ for 2 h in vacuum (about $1 { \\times } 1 0 ^ { - 4 } \\mathrm { P a } ,$ ） ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Electron irradiation was performed by an electron linear accelerator of Research Reactor Institute, Kyoto University with an acceleration voltage of $8 \\ \\mathrm { M e V }$ at less than $3 7 3 \\mathrm { ~ K ~ }$ . The damage rate was about ${ 8 { \\times } 1 0 ^ { - 8 } } \\mathrm { d p a / s }$ and the irradiation dose was $1 . 7 { \\times } 1 0 ^ { - 4 }$ dpa and $5 { \\times } 1 0 ^ { - 4 }$ dpa, respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PATs were performed to characterize the microstructural evolution of irradiated alloy at room temperature.PALS were carried out by a conventional fast-slow spectrometer with a time resolution of 197 ps (FWHM). A $^ { 2 2 } \\mathrm { { N a } }$ positron source with the activity of $5 0 ~ \\mu \\mathrm { C i }$ (2009） was used. In order to reduce the statistical error, each spectrum accumulated about $2 { \\times } 1 0 ^ { 6 }$ coincidence events within $2 \\mathrm { h }$ .The spectra were decomposed into two components ( $\\scriptstyle \\mathbf { \\bar { \\tau } } _ { 1 }$ and $\\tau _ { 2 }$ ）by LT9 after subtracting the source component and background. DBS were performed with a high purity germanium detector. The S parameter was defined as the ratio counts in the central energy region $( 5 1 1 { \\pm } 0 . 7 6 \\ \\mathrm { k e V } )$ to the total counts of the spectrum ( $( 5 1 1 \\pm 7 . 6 6 \\ \\mathrm { k e V } )$ . CDB were performed to identify the chemical elements with two high purity germanium detectors placed $1 8 0 ^ { \\mathrm { o } }$ [15-16]. Each CDB spectrum was accumulated $1 \\times 1 0 ^ { 7 }$ counts to reduce the statistical error. Additionally, micro-Vickers Hardness was performed by a conventional apparatus with a load of $1 0 \\ \\mathrm { g F }$ for $1 0 ~ \\mathrm { s }$ in each measurement. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/caadee4bffaf67a8d60dfabe2a7eb5a745ae1b86fd0440affc39d58d74d816e4.jpg",
+        "img_caption": [
+            "Figure 1.Dose dependence of the positron annihilationlifetimeforelectron irradiated FeCrNi model alloy. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b63aafcd5d6e741af12ad91650d1bf6bda87b3b6454d3ab1c5363cc238f3fd23.jpg",
+        "img_caption": [
+            "Figure 2. The positron annihilation lifetime for electronirradiatedMo-diluted alloy with different irradiation dose. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Figures 1 and 2 plot the dose dependence of the positron annihilation lifetime for electron irradiated FeCrNi and Mo-diluted alloy，respectively. $\\tau _ { 1 }$ ， $\\tau _ { 2 }$ and $\\tau _ { \\mathrm { m } }$ denote the short, long and mean positron lifetimes，respectively. Wang et al. had reported that the positron lifetime of well annealed Fe15Cr30Ni model alloy was $1 1 0 { \\pm } 3$ ps [17]. Meanwhile, the positron lifetime of matrix and monovacancy in AISI 316L was about 1O8 and175 ps [18], respectively. Dashed line of Matrix and $\\mathbf { V } _ { 1 }$ denote the calculated positron lifetimes of the matrix and the mono-vacancy in pure Ni, which was similar with the experimental result in AISI 316L.The mean lifetimes for both unirradiated alloys are about 105 ps,as shown in Figures 1 and 2.In Figure 1,the long lifetime at low iradiation dose is 171 $\\pm 5 . 1$ ps,which is accord with the calculated mono-vacancy value $\\mathrm { ( V _ { 1 } ) }$ . The result of higher irradiation dose is $1 8 9 { \\pm } 5 . 1 \\ \\$ ps,which is larger than $\\mathbf { V } _ { 1 }$ but smaller than $\\mathbf { V } _ { 2 }$ . These results indicate that certain amount of small-size vacancy defects generated under electron irradiation. The increment of $\\mathrm { I } _ { 2 }$ for both alloys indicates much more vacancy defects generated with elevated irradiation dose. However, $\\mathrm { I } _ { 2 }$ in Mo-diluted alloy are slightly lower than that in FeCrNi alloy at the same irradiation condition. The added Mo might suppress the generation of vacancy defects during electron irradiation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7abd69e55618216f9590c5aebeb3fcfaa5945d396513469a4be3fc491b7cde9c.jpg",
+        "img_caption": [
+            "Figure 3 shows the S parameters of both alloys iradiated with different dose. The values of unirradiated allys were attributed to the positron annihilated in matrix. The S parameters for both model alloys increased obviously with increasing irradiation dose, which means the increment of the defect concentration. According to the standard trapping model (STM) [19], the concentration of mono-vacancies can be estimated as: "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { V } = { \\frac { \\lambda _ { f } ( { \\sf S } - { \\sf S } _ { f } ) } { \\mu _ { V } ( { \\sf S } _ { V } - { \\sf S } ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\lambda _ { f }$ is the annihilation rate in the defect free state; $\\mu _ { V }$ is the specific positron trapping rate into mono-vacancies.Because of the lattice structure and defects information is similar with pure Ni. Thus, the constant of $\\mathrm { N i }$ were chosen for our estimation $( \\lambda _ { f } = 9 . 1 \\times 1 0 ^ { 9 } ~ \\mathrm { s ^ { - 1 } }$ · $\\mu _ { V } { = } 2 . 2 \\times 1 0 ^ { 1 5 } \\ \\mathrm { s ^ { - 1 } }$ [20]); $S _ { f }$ and $\\mathsf { S } _ { V }$ are the S parameters characteristic of the positron annihilation from matrix and mono-vacancy-trapped state, respectively. $\\mathbf { S } _ { f } = 0 . 4 3 5$ and 0.437 for $\\mathrm { F e C r N i }$ and Mo-diluted alloy,respectively. As reported, $\\mathsf { S } _ { V }$ in pure $\\mathrm { N i }$ is equal to the saturated S value of cold rolled specimen (more than $10 \\%$ )[21]. The saturated S value in plastic deformed $\\mathrm { F e 1 7 C r 1 4 . 5 N i }$ alloy has been identified about $0 . 4 5 5 { \\scriptstyle \\pm 0 . 0 0 1 }$ at room temperature. Thus, $\\operatorname { S } _ { V } = 0 . 4 5 5$ was chosen in the calculation. The defect concentration was calculated about $1 0 ^ { - 7 }$ for both alloys at lower irradiation dose,while $1 0 ^ { - 4 }$ for FeCrNi alloy and $1 0 ^ { - 6 }$ for Mo-diluted alloy at elevated irradiation dose. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Usually,point defects might be trapped by solute atoms because of the attribution of the solid solution effect [22].Meanwhile,the oversized solute might reduce the migration of vacancies due to the high binding energy between the oversized atoms and vacancies [16]. In the present study, the added Mo,as oversized solute, existed in the aloy as solid solution state.The addition of Mo would trap vacancies and restrain the vacancy migration and growth. Therefore， swelling might be suppressed for the solid solution effect in Mo-diluted alloy. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/54944b98a01934e8718982f38600474625763f74fbf5582e4c3124f8d372a4cc.jpg",
+        "img_caption": [
+            "Figure 4. Ratio curves of CDB spectra in as-irradiated model alloy. (a) Normalized to the momentum distribution of as-annealed FeCrNi. (b） Comparison of two alloys at high irradiation dose. mois the electron rest mass and $c$ is the speed of light. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CDB spectra could identify the chemical composition of the positron trapping site by measuring the momentum distribution of the electron annihilated with positron [15-16,23-24].As shown in Figure 4, the CDB ratio curves of irradiated specimens were normalized to the momentum distribution of FeCrNi alloy. One peak within the momentum region of $8 \\times 1 0 ^ { - 3 } m o c < | P _ { L } | < 1 8 \\times 1 0 ^ { - 3 } m o c$ is observed in Figure 4 (b). The solute Mo atoms might trap vacancies to form Mo-vacancy complexes, which might change the chemical composition around vacancy sites compared to $\\mathrm { F e C r N i }$ Part of incident positrons, trapped by vacancies,annihilated with the characteristic core electron of Mo atoms.The efect of Movacancy complexes induced the generation of the peak at high-momentum region. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6c1c0cf0e930e6bd093034e9fe3308e17ba5a5f3e51bd126fee76c1fb1909b2.jpg",
+        "img_caption": [
+            "Figure 5.Dose dependence of micro-Vickers Hardness plot for different model alloys. (a) the value of micro-hardness,(b) $\\Delta \\mathrm { H } / \\mathrm { H }$ parameters for both alloys with different radiation dose. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The hardness usually related with the microstructural features.The micro defects，such as dislocation loop,vacancy cluster or micro void and precipitates could induce hardening in materials [23,25-26]. The micro-Vickers hardness value indicates that a significant difference exists between the two alloys,as shown in Figure 5.The increment of hardness for both alloys attribute to the vacancy defects induced by electron irradiation. $\\Delta \\mathrm { H } / \\mathrm { H } { = } ( \\mathrm { H } _ { \\mathrm { i r r a } } { - } \\mathrm { H } _ { \\mathrm { u n i r r a } } ) / \\mathrm { H } _ { \\mathrm { u n i r r a } } .$ ,increase linearly for both alloys,as shown in Figure 5 (b). The slope of FeCrNi is larger than that of the Mo-diluted alloy. Irradiation hardening could be suppressed because of the Mo addition, which is consistent with the defect concentration. Additionally,the hardness value of Mo-diluted alloy was larger than that of the FeCrNi alloy at the same irradiation condition,as shown in Figure 5 (a). The solution strength induced by the added Mo atoms might be the main reason for this phenomenon [27-28]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PATs were performed to characterize the microstructural evolution in electron irradiated FeCrNi and Mo-diluted alloy as a function of dose dependence. The hardening process related with defect concentration was characterized by micro-Vickers Hardness. Certain amount of small-sized vacancies generated in the material after electron irradiation.The defect concentration was estimated about $1 0 ^ { - 4 }$ for FeCrNi alloy and $1 0 ^ { - 6 }$ for Mo-diluted alloy at elevated irradiation dose, while $1 0 ^ { - 7 }$ for both alloys at lower dose. The diluted Mo could trap vacancy defects to form Mo-vacancy complexes and restrain the migration and growth of vacancy defects during electron irradiation. Hardening process was suppressed because of the Mo addition. Swelling would be suppressed in Mo-diluted FeCrNi austenitic alloy under irradiation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This work is supported by the National Natural Science foundation of China 91226103 and 91026006. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1] Yoshiie T， Sato K，Cao X，Xu Q，Horiki M，Troev TD 2012 J. Nucl. Mater. 429 185-189   \n[2] Druzhkov AP，PerminovD A，Davletshin A E 2009 J. Nucl. Mater.384 56-60   \n[3] GarnerF A 1984 J.Nucl. Mater.122 459-471 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[4] Okita T，Kamada T， Sekimura N 2000 J. Nucl. Mater.283 220-223 [5] Okita T， Sato T， Sekimura N，Garner FA，Greenwood L R 2002 J. Nucl. Mater.307 322-326 [6] Brailsford A D， Bullough R 1982 Cc/Eng Tech Appl Sci. 22-22 [7] Yoshiie T， Cao X Z， Xu Q， Sato K， Troev TD 2009 Phys Status Solidi C.6 2333-2335 [8] Yoshiie T， Cao X Z， Sato K，Miyawaki K， Xu Q 2011 J. Nucl. Mater.417 968-971 [9] Horiki M， Yoshiie T，Huang S S， Sato K，Cao X Z， Xu Q， Troev TD 2013 J. Nucl. Mater.   \n442 S813-S816 [10] Shigenaka N，Hashimoto T，Fuse M1993 J. Nucl. Mater. 207 46-52 [11] LaSalvia JC,Kim D K，Meyers MA 1996 Mat Sci Eng a-Struct. 206 71-80 [12] Pardo A，Merino MC，Coy AE，Viejo F， Arrabal R，Matykina E 2008 Corros Sci. 50 780-   \n794 [13] Shi F，Qi Y，Liu CM 2011 J Mater Sci Technol.27 1125-1130 [14] Chun YB，Hwang S K，Kim MH， Kwun S I， Chae S W 2001 J. Nucl. Mater. 295 31-41 [15] Nagai Y，Takadate K，Tang Z， Ohkubo H， Sunaga H， Takizawa H，Hasegawa M 2003 Phys. Rev. B.67 [16] AsokaKumar P，Alatalo M，Ghosh VJ，Kruseman AC，Nielsen B，Lynn KG 1996 Phys Rev Lett. 77 2097-2100 [17] Wang T M，Wang B Y， Zhang S H, Doyama M 1992 Physica Status Solidi a-Applied Research.134 127-132 [18] Holzwarth U，Barbieri A，Hansen-Ilzhofer S， Schaaff P，Haaks M 2O01 Appl Phys a-Mater.   \n73 467-475 [19] Druzhkov AP， Perminov D A， Arbuzov V L 2013 J. Nucl. Mater. 434 198-202 [20] Druzhkov A P，Perminov D A， Pecherkina NL 2OO8 Philos Mag.88 959-976 [21] Druzhkov A P，Arbuzov V L，Perminov D A 2012 J. Nucl. Mater.421 58-63 [22] Katoh Y，Kohyama A 1995 Nucl Instrum Meth B.102 12-18 [23] Nagai Y， Takadate K， Tang Z， Ohkubo H， Sunaga H， Takizawa H，Hasegawa M 2011 International Workshop on Positron Studies of Defects (Psd O8).265 [24] Hasegawa M， Nagai Y， Tang Z 2OO4 32nd Course of the International School of Solid State Physics: Radiation Effects in Solids. July 19-28 P23 [25] Matsuoka H，Yamasaki T， Zheng YJ，Mitamura T， Terasawa M，Fukami T 2OO7 Mat Sci Eng a-Struct. 449 790-793 [26] Liu X B，WangR S， Jiang J，Wu YC， Zhang CH， Ren A， Xu CL，Qian WJ2014 J. Nucl. Mater. 451 249-254 [27] Tahir MI1977 Pak. J. Sci.Res. 29 39-45 [28] Franke O，DurstK，Goken M2009 J Mater Res.241127-1134 ",
+        "page_idx": 4
+    }
+]

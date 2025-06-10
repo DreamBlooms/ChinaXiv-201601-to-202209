@@ -1,0 +1,114 @@
+# 临床研究
+
+# Mir-106b表达与食管鳞状细胞癌的关系
+
+肖长艳'，郭子健³，曹 磊²,丁晓文²,刘 强',王小春²  
+1中国医学科学院放射医学研究所辐射损伤效应室,天津 300192；2北京市化工职业病防治院放射防护部,北京  
+100093；广西中医药大学第一附属医院介入治疗室，广西 南宁530023
+
+摘要：目的 研究微小RNA106b(mir-106b)在食管鳞状细胞癌组织中的表达情况，并进一步分析其与肿瘤的临床病理学特征及预后的相关性。方法 收集200例2001\~2007年中国医学科学院接收的食管鳞状细胞癌患者手术切除获得的肿瘤组织和相对应的癌旁组织,采用qRT-PCR方法检测 $\operatorname* { m i r } { - 1 0 6 } { }$ 在组织中的相对表达水平,并通过northern blot进一步验证其表达情况。应用统计学方法分析mir-106b表达量与肿瘤临床病理学特征及预后的相关性。结果 相对于癌旁组织,食管鳞状细胞癌肿瘤组织中mir-106b的表达水平显著升高,统计学数据显示,mir-106b的表达量与淋巴结转移、肿瘤分期及吸烟有相关性 $( P { < } 0 . 0 5 )$ 。并且，$\mathrm { m i r  – 1 0 6 b }$ 表达水平较低的患者的生存率(60个月)显著高于 $\operatorname* { m i r } { - 1 0 6 } { }$ 表达水平较高的患者(37个月， $P { = } 0 . 0 2 4 \cdot$ 。另外， $\operatorname { C o x }$ 回归分析显示， $\mathrm { m i r  – l 0 6 b }$ 的表达量、区域淋巴结转移及吸烟均为是食管鳞状细胞癌患者独立预后因子 $( P { < } 0 . 0 5 )$ 。结论 $\mathrm { m i r  – 1 0 6 b }$ 在食管鳞状细胞癌患者肿瘤组织中高表达，且与淋巴结转移及预后不良密切相关,可用作ESCC的诊断及预后生物标志物。
+
+关键词：mir-106b;过表达；预后；食管鳞状细胞癌
+
+# Expression of mir-106b in esophageal squamous cell carcinoma
+
+XIAO Changyan',GUO Zijian,CAO Lei²,DING Xiaowen²,LIU Qiang',WANG Xiaochun²   
+ChamberofRadiationDamageEfectnstituteofRadiationMedicineChineseAcademyofMedicalSiences&PekingUniodical College，Tianiaepamntiationetiojcalpaioalsesertidt HospitalBeiaepmntofteriolastfledialofgiesiye Medicine,Nanning 530023,China
+
+Abstract: Objective To investigate the expresionof mir-106b in esophageal squamous cellcarcinoma (ESCC)tissueand analyzeitscorrelation withtheclinicopathologic features of ESCC.Methods Atotalof2freshsurgicalspecimensof ESCC and adjacent tisses collected between 2001 and 2007 wereexamined for expressions of mir-106b using real-time PCR (RT-PCR). Northern blot analysis for mir-106b was performed in 4 pairs of samples to confirm the RT-PCR results.The relationship between mir-106b expresionand clinicopathological features and prognosisof the patients were analyzed. ResultsMir-106b was expressedat significantly higher levels in ESCC tisues than in the pairedadjacent tisues. Overexpression of mir-106b was associated with lymph node metastasis, stage of TNM clasification and smoking $_ { ( P < 0 . 0 5 ) }$ The survivalrateofpatients withlowmir-106b expression was higher than thatof patients withhigh mir-106b expresion (60 vs 37 months, $\scriptstyle P = 0 . 0 2 4$ ). Cox regression analysis indicated that the expression of mir-106b,lymph node metastasis and smoking were independent prognostic factors for ESCC $_ { ( P < 0 . 0 5 ) }$ . Conclusion Mir-106b is overexpressed in ESCC tumors, and its overexpression is strongly assciated with lymph node metastasisand a poor prognosis.Mir-106b expresion is an independent prognostic factor for ESCCand can serve asa biomarker for diagnosis and prognostic evaluation of ESCC. Key words: mir-106b; overexpression; prognosis; esophageal squamous cel carcinoma
+
+食管癌是一种常见的恶性肿瘤，其发病率居于恶性肿瘤的第7位,死亡率居于第6位[-2]。食管癌包括两种主要的组织学亚型：食管鳞状细胞癌(ESCC)和食管腺癌(EAC)3]。在亚洲及我国， $90 \%$ 的食管癌为ESCC亚型，是胃肠道极具侵袭性且预后不良的肿瘤之一[4]。尽管临床治疗治疗已取得极大进展，但由于延误诊断和高复发率,ESCC患者的5年生存率仍然很低( $( < 3 0 \%$ [1]。术后复发和转移是ESCC患者死亡的主要原因。导致术后复发、侵袭和转移的主要原因包括原癌基因的激活、失活的抑癌基因和下调或多种蛋白质的异常表达[5]。因此，有效的ESCC早期及预后诊断标志物是目前临床预防和治疗食管癌的迫切需求。
+
+肿瘤细胞中microRNA的表达与癌旁正常细胞存在显著差异，并且，与microRNA表达序列标签(EST)分类相比,microRNA表达谱可以更好的分类低分化肿瘤6，因此，越来越多的研究报道了肿瘤组织中microRNA的异常表达。通过研究编码microRNA的基因可能定位的扩增子的最小区域、杂合性丢失(LOH)或断点集群区域，可探索microRNA在肿瘤中可能发挥的作用。癌基因microRNA的扩增或高表达可以抑制或清除microR-NA靶向的肿瘤抑制基因的表达,最后导致癌变[。鉴于microRNA的以上特点，可将其用作肿瘤诊断及监测的有效生物标志物。先前研究发现，mir-106b是mir106b-25家族成员之一，在喉癌[8]结直肠癌[9]、胃癌[10]肝癌[]、神经胶质瘤[12]、肾癌[13]乳腺癌[14]及头颈部鳞癌[15]等多种肿瘤组织中高表达，具有调控肿瘤细胞增殖、侵袭、迁移、转化等重要功能。如Yau等[研究发现，mir-106b通过促进肿瘤细胞上皮间质转化(EMT)的发生,参与肿瘤的侵袭和转移。同时,戴芳等[17通过对食管鳞癌KYSE150细胞的研究证明， $\mathrm { m i r  – 1 0 6 b }$ 能够促进ESCC细胞的增殖、迁移、侵袭和上皮间质的转化，并通过微阵列法发现其表达在ESCC组织中明显上调。但目前对mir-106与ESCC关系的研究甚少，为了进一步探讨其在ESCC中的作用,本课题组首次通过qRT-PCR和northernblot等技术对大样本量ESCC标本做了更深入的研究。
+
+# 1材料和方法
+
+# 1.1 材料
+
+新鲜组织标本来自2001\~2007年中国医学科学院接收的食管鳞状细胞癌患者手术切除获得的肿瘤组织及癌旁组织。原发瘤组织及癌旁组织来源于同一病人，组织由经验丰富的病理学家分离，并迅速储藏于 $- 8 0 \mathrm { { ^ { \circ } C } }$ 。所有患者在手术前未经过任何治疗，无其他病史，并且签署了样本收集的知情同意书。患者肿瘤组织及癌旁组织样本的使用已获得PUMC/CAMS伦理道德规范委员会批准(No.12-097/631)。
+
+# 1.2 方法
+
+1.2.1总RNA的提取 (1)组织标本处理：从 $- 8 0 \mathrm { { ^ { \circ } C } }$ 冰箱中取出ESCC癌组织及相对应癌旁组织，在冰上融化，剪取黄豆粒大小组织块于 $1 . 5 ~ \mathrm { m L }$ 离心管中。每管组织中加入 $1 ~ \mathrm { m L }$ RNAisoplus,然后用电动研磨器研磨至匀浆；(2)RNA提取和鉴定：将上述获取的组织匀浆按照Stratagene公司的RNA提取试剂盒说明书提供的操作步骤，提取食管鳞状细胞癌组织及癌旁组织中的总RNA。RNA的定量由BeckmanCoulter公司的DUVR800UV/Vis分光光度计(Beckman Coulter,Fullerton,CA)检测吸光度(A)值，要求 $A _ { 2 6 0 } / A _ { 2 8 0 }$ 在 $1 . 8 { \sim } 2 . 0$ 之间，然后立即进行逆转录或储存于 $- 8 0 \mathrm { { ^ { \circ } C } }$ 冰箱。
+
+1.2.2逆转录聚合酶链式反应(RT-PCR）Taq酶miR-NA分析(ABIPRISM)利用茎环法来检测 $\operatorname* { m i r } { - 1 0 6 } { }$ 的表达。对于逆转录(RT)反应,每个反应体系中加入 $1 0 \mathrm { n g }$ 总RNA,与逆转录引物混合。逆转录条件为： $1 6 ^ { \circ } \mathrm { C } 3 0 \mathrm { m i n }$ $4 2 \mathrm { ~ } \mathrm { ^ { \circ } C } \ 3 0 \operatorname* { m i n } , 8 5 \mathrm { ~ } \mathrm { ^ { \circ } C } \ 5 \operatorname* { m i n }$ ，,最终维持 $4 \mathrm { { ^ { \circ } C } }$ 。取 $1 . 5 ~ \mu \mathrm { L }$ 逆转录所得的cDNA,加入 $2 ~ \mu \mathrm { L }$ Taq酶引物，使用ABI7500实时定量PCR系统，进行聚合酶链反应(PCR)。PCR反应参数为： $9 5 \mathrm { ~ \textcircled { C } ~ 1 0 ~ m i n }$ ,接着40cycles( $9 5 ~ \mathrm { { ^ { \circ } C } }$ $1 5 \mathrm { ~ s ~ }$ $\mathrm { ; , 6 0 ~ } \mathrm { { \mathcal { C } } , 3 0 ~ } \mathrm { { s } ; 7 2 , 3 0 ~ } \mathrm { { s } ) }$ 。对实时定量PCR的结果进行分析，以miRNA相对于定量循环 $( \mathbf { C q } )$ 值的表达量表示。Mir-106b的逆转录及PCR引物购自ABIPRISM公司。相对表达量 $= 2 ^ { - \Delta \Delta \mathrm { C t } }$ ,-△△Ct=(Ct 目的基因-Ct内参基因）实验组"（Ct目的基因-Ct内参基因）对照组[18],内参基因为RNU6B。
+
+1.2.3microRNAnorthernblot总RNA样本经过变性聚丙烯酚胺凝胶电泳分离，随后凝胶上的RNA分子被转移到膜上(PerkinElmer)，接下来，使用Ambion公司的UltraHyb-Oligo缓冲液杂交。采用 $\mathrm { T } _ { 4 }$ 激酶(Invitrogen公司)末端标记的，能够与成熟的mir-106b结合的寡聚核苷酸作为探针。 $4 2 \ \mathrm { { ^ \circ C } }$ 杂交过夜，接着，在 $4 2 ~ \mathrm { ^ { \circ } C }$ ，使用$0 . 1 { \times } \mathrm { S S P E }$ 和 $0 . 1 \%$ SDS洗膜两次，每次 $1 5 \mathrm { m i n }$ 。将膜放置于储存磷光质屏(GEHealthcare) $8 \mathrm { ~ h ~ }$ ，使用台风9410多模式成像仪(GEHealthcare)成像。保存图像，并使用图像处理软件PS6裁剪。
+
+1.2.4统计学分析ESCC临床病理参数采用AJCC癌症分期手册第6版。运用SPSS16.0统计软件，对肿瘤组织和相应癌旁组织mir-106b表达量的差异及相关病理参数间的差异进行评估。经验证各组数据不符合正态分布。因此，对两个独立样本和多个样本的评估采用Mann-Whitney检验及Kruskal-Wallis检验。生存曲线按照Kaplan-Meier方法计算。采用多因素COX回归比例风险模型分析mir-106b表达量及相关临床病理参数的相对风险度。计量数据采用平均值 $\stackrel { \cdot } { \_ }$ 标准差表示，定义肿瘤组织中mir-106b表达量小于平均值为低表达，大于等于平均值为高表达。且规定 $P { < } 0 . 0 5$ 时差异有统计学意义。
+
+# 2结果
+
+# 2.1食管鳞状细胞癌中mir-106b的表达量
+
+通过RT-qPCR技术，以RNU6B为内参，检测200例食管鳞状细胞癌患者肿瘤组织及癌旁组织中mir-106b的表达水平。结果表明，相对于癌旁组织，食管鳞状细胞癌患者肿瘤组织mir-106b的表达水平显著升高。RT-qPCR产物的琼脂糖凝胶电泳结果同样证实了这一结论(图1A，B)。
+
+为了进一步证实上述结论，以5SrRNA为内参，通过northernblot检测4对RT-qPCR产物中mir-106b的表达，同样发现，相对于癌旁组织，食管鳞状细胞癌肿瘤组织中mir-106b的表达水平升高(图1C)。
+
+![](images/7f40f6473253707fe074ab0aad85f4655e3d3ff8d626a6c737f71258807b3f04.jpg)  
+图1ART-qPCR表达结果 Fig.1 Analysisof mir-106b in 4 pairs of tumor(T) and non-tumorousadjacent (N)tissues.A:RT-qPCR results;B: Electrophoresis of RT-qPCR products; C: Northern blotting of mir-106b.
+
+2.2食管鳞状细胞癌中mir-106b的表达情况与临床病 理特征的关系
+
+2.2.1Mann-Whitney分析相对于癌旁组织,食管鳞状细胞癌患者肿瘤组织中mir-106b的表达量达与吸烟、淋巴结转移及年龄显著相关( $P$ 均 $< 0 . 0 5 0$ ，差异具有统计学意义(表1)。
+
+2.2.2Kruskal-Wallis分析食管鳞状细胞癌患者肿瘤组织mir-106b的表达量与临床分期显著相关 $\scriptstyle ( P = 0 . 0 0 5 )$ 。但与T分期及肿瘤分化程度的相关性不显著( $P$ 均>0.05)。2.2.3KaplanMwier生存分析为了验证 $\operatorname* { m i r } { - 1 0 6 } { }$ 的表达与不良预后的关系，应用KaplanMeier法计算食管鳞状细胞癌患者的生存率。患者肿瘤组织中mir-106b表达不同，造成患者生存率的显著差异。mir-106b表达水平较低患者的生存率(60个月)高于mir-106b表达水平较高的患者(37个月） $\scriptstyle P = 0 . 0 2 4$ ，图2）。
+
+$2 . 2 . 4 \mathrm { \ C o x }$ 回归分析多因素COX比例风险模型方程分析结果显示各变量的相对危险度(RR)值分别为4.375、3.273、及3.125，提示mir-106b表达量、吸烟及淋巴结转移对食管鳞状细胞癌患者死亡的影响呈递减形式，且mir-106b表达量( $_ { \scriptstyle P = 0 . 0 1 7 , }$ ）、吸烟（ $_ { \scriptstyle P = 0 . 0 1 9 }$ 、淋巴结转移 $\scriptstyle \left( P = 0 . 0 2 1 \right)$ )是影响食管鳞状细胞癌病人生存年限的独立预后因素(表2)。然而，肿瘤分期与食管鳞状细胞癌生存年限的关系没有统计学的意义。
+
+# 3讨论
+
+Mir-106b是mir-106b-25基因簇之一，定位于人类染色体7q22，可结合靶mRNA的3非翻译区，从而通过诱导mRNA的降解或抑制翻译来调节基因表达[19]。Mir-106b与mir-17家族中的mir-106a具有高度同源性,mir-106a作为抑癌基因在ESCC中低表达[20],而mir-106b的表达情况和作用与其恰好相反。MicroRNAs测序研究表明，mir-106b在多种肿瘤中高表达，是与肿瘤生长、细胞生存和新血管生成相关的癌基因[0]。因此，近年来mir-106b受到了人们的广泛关注。
+
+目前，大量研究表明mir-106b在多种肿瘤中表达水平升高。Liu等[12研究发现,mir-106b-5p在胶质瘤细胞中过表达，可以显著促进癌细胞的增殖和抑制凋亡。机制研究发现，mir-106b-5p通过作用于靶基因RBL1和RBL2促进癌细胞增殖，而通过下调靶基因caspase-8实现癌细胞凋亡功能的抑制。Ying等在喉癌中发现mir-106b高表达，并通过抑制抑癌基因RUNX3和Rb促进喉癌细胞的增殖和侵袭。去细胞尿液中的mir-106b表达量与膀胱癌患者的肿瘤分期相关[21。同样,mir-106b表达量在肾癌组织和细胞系中均显著升高，并且相关性分析表明其表达水平只与肾癌的组织类型相关，在肾透明细胞癌中的表达水平显著高于其他组织类型，提示mir-106b表达量对肾癌病理分型以及预后判断有重要作用[22]。另外,mir-106b在结直肠癌[]、胃癌[10]、肝癌[11]、乳腺癌[14]及头颈部鳞癌[15]等多种肿瘤组织中普遍高表达，而且发现血浆中mir-106b的表达量与肿瘤患者的预后相关，如mir-106b表达量越高，前列腺癌患者的癌症复发风险就越大[23]，骨肉瘤患者预后及全身转移的危险性也越大[24]
+
+已有大量研究证明，mir-106b还参与了肿瘤发生发展过程中的多个重要信号通路。例如，在转化生长因子β(TGF-β)通路中,mir-106b通过下调p2125]或上调EMT23]相关信号通路,促使肿瘤细胞脱离TGF-β诱导的生长抑制作用，参与肿瘤细胞的增殖、迁移、侵袭、凋亡和细胞周期等过程。Poliseno等[26]发现mir-106b属于insulin/IGF通路，通过下调PTEN的表达影响细胞周期和肿瘤细胞微环境。在胃癌中,mir-106b通过调控PTEN促进癌细胞的迁移和浸润[27]。Smith等[28]发现mir-106b在乳腺癌中通过Smad7激活TGF-β信号通路并促进ETM发生。近期，戴芳等[研究发现mir-106b同样在ESCC中高表达，并且能够促进KYSE150细胞的增殖、侵袭、迁移和EMT的发生。基于以上研究，本研究通过扩大样本量，分析200例食管鳞状细胞癌样品，以探究mir-106b的表达量与患者临床病理学特征的关系。统计学分析显示，mir-106b的过表达量与ESCC淋巴结转移、临床分期及年龄呈显著相关性，与先前研究结果具有一致性。
+
+表 $1 \ \mathrm { m i r } { - } 1 0 6 \mathrm { b }$ 表达量与ESCC患者临床病理学特征的关系 [ab.1 Expression of mir-106b and clinicopathologic features in ESCC patients   
+
+<html><body><table><tr><td rowspan="2">Clinicopathologic features</td><td rowspan="2">Number of cases</td><td colspan="2">Expression of mir-106b</td><td rowspan="2">P</td></tr><tr><td>Low expression</td><td>High expression</td></tr><tr><td>Sample size</td><td>200</td><td>91 (45.5%)</td><td>109 (54.5%)</td><td></td></tr><tr><td>Age (years)</td><td></td><td></td><td></td><td rowspan="3">0.001*</td></tr><tr><td>≥60</td><td>124 (62.0%)</td><td>45 (36.3%)</td><td>79 (63.7%)</td></tr><tr><td><60</td><td>76 (38.0%)</td><td>46 (60.5%)</td><td>30 (39.5%)</td></tr><tr><td>T-stage</td><td></td><td></td><td></td><td rowspan="4">0.090*</td></tr><tr><td>T1</td><td>60 (30.0%)</td><td>27 (45.0%)</td><td>33 (55.0%)</td></tr><tr><td>T2</td><td>69 (34.5%)</td><td>38 (55.1%)</td><td>33 (47.8%)</td></tr><tr><td>T3</td><td>71 (35.5%)</td><td>26 (33.6%)</td><td>45 (63.4%)</td></tr><tr><td>N-stage</td><td></td><td></td><td></td><td rowspan="3">0.000*</td></tr><tr><td>N0</td><td>95 (47.5%)</td><td>65 (68.4%)</td><td>30 (31.6%)</td></tr><tr><td>N1</td><td>105 (52.5%)</td><td>26 (24.8%)</td><td>79 (75.2%)</td></tr><tr><td>Grade of tumor differentiation</td><td></td><td></td><td></td><td rowspan="5"></td></tr><tr><td>G1</td><td>70 (35.0%)</td><td>31 (44.3%)</td><td>39 (55.7%)</td></tr><tr><td>G2</td><td>62 (31.0%)</td><td>31 (50.0%)</td><td>31 (50.0%)</td></tr><tr><td>G3</td><td>68 (34.0%)</td><td>29 (42.6%)</td><td>39 (57.4%)</td></tr><tr><td>Clinical stages</td><td></td><td></td><td></td></tr><tr><td>I</td><td>44 (22.0%)</td><td>30 (68.2%)</td><td>14 (31.8%)</td><td rowspan="4">0.005*</td></tr><tr><td>II</td><td>40 (20.0%)</td><td>18 (45.0%)</td><td>22 (55.0%)</td></tr><tr><td>Ⅲ</td><td>52 (26.0%)</td><td>21 (40.4%)</td><td>31 (59.6%)</td></tr><tr><td>IV</td><td>64 (32.0%)</td><td>22 (34.4%)</td><td>42 (65.6%)</td></tr></table></body></html>
+
+†Mann-Whitney,\*Kruskal-Wallis.
+
+![](images/556bd1c1913294a0d9fc7971c9a1c94a9136743c00c56c7b24ae6943da51a2c8.jpg)  
+图2KaplanMeier法计算食管鳞癌患者生存率结果 Fig.2Kaplan-Meier analysis of the survival rate of ESCC patients with different mir-106 expressions.
+
+表2食管鳞状细胞癌多因素COX比例风险模型回归分析   
+Tab.2 Multivariate regressionanalysis using Cox proportional-hazards model in ESCC patients   
+
+<html><body><table><tr><td>Variable</td><td>Relative risk</td><td>95% confidence interval</td><td>P</td></tr><tr><td>N-stage</td><td>3.125</td><td>1.102-4.267</td><td>0.021</td></tr><tr><td>Clinical stages</td><td>0.752</td><td>0.220-2.535</td><td>0.578</td></tr><tr><td>Smoking</td><td>3.273</td><td>1.143-4.162</td><td>0.019</td></tr><tr><td>Expression of mir-106b</td><td>4.375</td><td>1.045-4.218</td><td>0.017</td></tr></table></body></html>
+
+综上所述,本研究通过扩大样本量，进一步确定mir-106b在ESCC患者肿瘤组织中高表达，而且首次发现mir-106b表达量与ESCC淋巴结转移、吸烟及预后不良显著相关，以及mir-106b的表达量是食管鳞状细胞癌患者的独立预后因子。所以，通过结合前期研究成果，mir-106b有望被用作ESCC的新型诊断与预后标记物，以及未来个性化介入治疗的靶标分子。然而，目前对mir-106b与ESCC关系的研究甚少，要想将其应用于临床还需大量的后续研究。
+
+# 参考文献：
+
+[1]Enziner PC,Mayer RJ.Esophagel Cancer[J].N Engl JMed,2003, 349(23): 2241-52.   
+[2]Kamangar F, Dores GM,Anderson WF. Patterns of cancer incidence, mortality,and prevalence across five continents:defining priorities to reduce cancer disparities in different geographic regions of the world[J]. Clin Oncol,2006,24(14): 2137-50.   
+[3]Rustgi AK,El-Serag HB.Esophageal carcinoma[J]. N Engl J Med, 2014,371(26): 2499-509.   
+[4]Song Y,LiL,Ou Y,et al. Identification of genomic alterations in oesophageal squamous cell cancer[J]. Nature,2014,509(7498): 91-5.   
+[5]Li S, Su H, Zhao D,et al. Plasma miRNA-506 as a prognostic biomarker for esophageal squamous cell carcinoma[J].Med Sci Monit,2016,22: 2195-201.   
+[6]Lu J,Getz G,Miska EA,et al. MicroRNA expression profiles classify human cancers[J]. Nature,2005,435(743): 834-8.   
+[7] Calin G,Liu C, Sevignani C,et al. MicroRNA profiling reveals distinct signatures in B cell chronic lymphocytic leukemias[J].Proc Natl Acad Sci USA,2004,101(32): 11755-60.   
+[8] Xu Y, Wang K, Gao W,et al. MicroRNA-106b regulates the tumor suppressor RUNX3 in laryngeal carcinoma cells [J].FEBS Lett, 2013,587(19): 3166-74.   
+[9]Wang X,Lang F,Liu X,et al. In situ hybridization analysis of the expression of miR-1O6b in colonic cancer[J]. Int J Clin Exp Pathol, 2015, 8(1): 786-92.   
+[10]Li F.Liu J,Li S.MicorRNA 106b\~25 cluster and gastric cancer[J]. Surg Oncol,2013,22(2): e7-10.   
+[11]Li Y, Tan W,Neo W,et al. Role of the miR-106b-25 microRNA cluster in hepatocellular carcinoma[J].Cancer Sci,2Oo9,100(7): 1234-42.   
+[12] Liu F, Gong J, Huang W,et al. MicroRNA-106b-5p boosts glioma tumorigensis by targeting multiple tumor suppressor genes [J]. Oncogene,2014,33(40): 4813-22.   
+[13] Slaby O,Jancovicova J,Lakomy R,et al. Expression of miRNA106b in conventional renal cell carcinoma is a potential marker for prediction of early metastasis after nephrectomy[J].J Exp Clin Cancer Res,2010,29:90.   
+[14] Zhou Y, Hu Y,Yang M,et al. The miR-106b\~25 cluster promotes bypass of doxorubicin-induced senescence and increase in motility and invasion by targeting the E-cadherin transcriptional activator EP300[J]. Cell Death Differ,2014,21(3): 462-74.   
+[15]Hui AB,Lenarduzi M, Krushel T,et al.Comprehensive MicroRNA profiling for head and neck squamous cell carcinomas [J]. Clin Cancer Res,2010,16(4): 1129-39.   
+[16]Yau W, Lam C,Ng L,et al. Over-expression of miR-106b promotes cell migration and metastasis in hepatocellular carcinoma by activating epithelial-mesenchymal transition process[J]. PLoS One, 2013, 8(3): e57882.   
+[17]戴 芳,刘 涛,郑树涛,等.MiR-106b 对食管癌KYSE150细胞的生长 及细胞上皮间质转化的影响[J].新疆医科大学学报,2015,38(12): 1466-70.   
+[18]Schmittgen TD,Lee EJ,Jiang J. High-throughput real-time PCR [J].Methods Mol Biol, 2008,429: 89-98.   
+[19]Maher R. Genomics and epigenomics of renal cell carcinoma[J]. Semin Cancer Biol,2013,23(1): 10-7.   
+[20]袁 嘉,敏 毛,伟敏罗,等.miRNA一106a表达水平对食管鳞癌患者 预后的影响[J].中华肿瘤杂志,2013,35(8):590-4.   
+[21] Zhou X, Zhang X, Yang Y, et al. Urinary cell-free microRNA-106b asa novel biomarker for detection of bladder cancer[J].Med Oncol,2014,31(10): 197.   
+[22]陶令之,李一帆,金 露,等.MicroRNA-106b在肾细胞癌中的表达及 临床意义[J].临床泌尿外科杂志,2015,30(10):888-92.   
+[23]Hudson S,Yi M, Esposito D,et al. MicroRNA-106b-25 cluster expression is associated with early disease recurrence and targets caspase-7 and focal adhesion in human prostate cancer[J]. Oncogene,2013,32(35): 4139-47.   
+[24]ArabiL,GsponerR,SmidaJ,etal. Upregulationof the mR-17-92 cluster and itstwo paraloga in osteosarcoma-reasonsand consequences[J]. Genes Cancer,2014,5(1/2): 56-63.   
+[25] Zhao Z,Bai J, Zhou Q,et al. TSA suppresses miR-106b-93-25 cluster expression through downregulation of MYC and inhibits proliferation and induces apoptosis in human EMC[J]. PLoS One, 2012, 7(9): e45133.   
+[26]Poliseno L,Salmena L,Ricardi L,et al. Identification of the miR-106b\~25 microRNA cluster as a proto-oncogenic PTENtargeting intron that cooperates with its host gene MCM7 in transformation[J]. Sci Signal,2010,3(117): ra29.   
+[27] Yang S,Yang H,Chen X,et al.MicroRNA-106b in cancerassociated fibroblasts from gastric cancer promotes cell migration and invasion by targeting PTEN[J].FEBS Lett,2014,588(13): 2162-9.   
+[28] Smith L,Iwanaga R,Drasin J,et al. The miR-1O6b-25 cluster targets Smad7,activates TGF- $\cdot \beta$ signaling,and induces EMT and tumor initiating cell characteristics downstream of Six1 in human breast cancer[J]. Oncogene, 2012,31(50): 5162-71.
+
+(编辑：经媛)

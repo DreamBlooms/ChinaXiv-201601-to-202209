@@ -1,0 +1,571 @@
+[
+    {
+        "type": "text",
+        "text": "基于权重的Apriori算法在文本统计特征提取方法中的应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李昌兵庞崇鹏李美平(重庆邮电大学经济管理学院重庆 400065)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：【目的】解决在海量客户评论信息中抽取产品特征时噪声大的问题。【方法】运用TF-IDF 和方差选择的统计方法在众多初步提取出来的特征中进行选择，设置阈值后将各自提取出来的特征取交进行过滤，得到产品特征集合，根据基于矩阵和权重改进的 Apriori 算法产生频繁项集，设定不同阈值得到最优特征集合，实现对用户评论中产品特征的自动提取。【结果】以手机评论文本为例，从中抽取手机类的产品特征，根据人工标注的183个特征和算法识别出来的特征，查准率P为 $7 2 . 4 4 \\%$ ，查全率R为 $7 7 . 5 9 \\%$ ，综合值F为 $7 4 . 9 3 \\%$ 。【局限】查准率偏低，存在人工标注特征错误的情况。【结论】实验结果表明，在用统计方法和改进后的Apriori算法进行特征提取时可以提高各性能指标。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词:特征提取Apriori算法TF-IDF方差选择 分类号：G350 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着互联网的普及，网络产品评论数量飞速增长，很多企业已经在逐渐将重心转移到数据领域。通过人工处理方式从这些产品评论文本信息中获取有用的信息越来越困难。因此，借助一定技术手段实现这一过程变得尤为重要。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "产品特征包括产品属性以及构成产品的各个方面，可使用户方便快速地了解到产品的特点。如功能、屏幕、图片、价格等手机类产品特征。现如今，许多国内外学者在特征挖掘的研究中已经取得了一些成果。Zhuang等[1]采用人工或半自动的方式对电影中文评论领域进行产品特征提取研究。Kobayashi等[2]提出利用产品、产品特征和观点词之间的共现模式的半自动化方法提取产品特征和观点词。娄德成等[3]利用半自动方式进行人工定义，从而抽取出产品评论信息。Hu等[4抽取出现频率大的名词及名词短语作为候选产品特征，通过压缩剪枝和冗余剪枝策略对提取的频繁商品特征进行筛选，再使用关联规则挖掘识别频繁产品特征。此方法使得各性能指标有了较大提升。Popescu等[5将产品特征看作是产品的一部分，使用候选产品特征和领域特征之间的共现提取商品特征，并使用点互信息PMI(Pointwise Mutual Information)表示关联程度，最终按关联程度大小选择商品特征。该方法提高了产品特征提取的准确率，但召回率有所下降。随着关联规则算法Apriori与FP在数据挖掘和机器学习领域不断被应用，旨在挖掘出事物项之间的内在联系，这两种算法也被应用于特征频繁项集挖掘，并且取得了理想的效果。然而采用传统的Apriori算法进行特征提取也存在一些不足：杜思奇等先利用Apriori 算法产生频繁集再用TF-IDF阈值进行过滤,准确率得到了较大提升，但是使用Apriori算法初步产生频繁项集会带来许多的非产品信息，特别是在评论语料大的情况下，导致性能指标有所下降。王永等[7]利用FP增长算法产生频繁项集，根据独立支持度、频繁项名词非特征规则及PMI阈值过滤技术对候选产品特征进行筛选。文中在用FP算法时采用最小支持度$1 \\%$ 进行实验，支持度设置的越小，查全率也就会越高，但是在产生的频繁项集中噪声也就相应越大，在后续的工作中也会带来较大干扰。路永和等[8综合分析特征提取方法并对传统特征提取流程和方法进行改进，利用特征池进行特征词预选，再引入遗传算法对候选特征词分组编码并提取最佳特征向量。在特征预选阶段采用特征选择方法CHI和IG，通过比较去重形成特征池。但是这样会造成一个问题就是重复的特征大部分是重要的特征，两种方法提取出的结果中未重复的特征大部分为非重要特征，再取则会将那些不重要的特征集合进一步扩大。这些方法虽然在一定程度上使得特征提取方法的各性能指标有所提升，但是在评论语料足够多的情况下不利于噪声的清除，中文产品评论领域特征提取的挖掘性能也有待进一步提高。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "鉴于此，本文在特征预选阶段采用了特征选择方法方差分析与TF-IDF方法进行取交操作形成候选特征集合，然后采用基于矩阵和权重的改进Apriori算法进行频繁项集挖掘，此改进算法可避免数据库的重复扫描，使得时间和空间的耗费显著减少，同时能有效的挖掘出更有价值的事件。为了验证该方法的有效性本文以手机类产品评论为例进行特征抽取。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2产品特征提取流程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在现有的许多产品特征提取方法上，产品特征一般提取流程如图1所示。与前人研究相比较，本文为降低噪声数据的比例，在对特征预抽取方法上进行改进，在特征预抽取阶段采用基于方差分析与TF-IDF[9]方法进行特征预选择，分别筛选出排名前1000的特征集合进行交操作。制定名词非特征规则，建立相应名词集合进一步筛选产品特征；利用基于矩阵和权重的改进 Apriori算法[1o]，设定最优阈值，形成最终的产品特征集合。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/dcafccd84bef6406fe46b7be5b520092167570c284219d803eabc2435422ae3e.jpg",
+        "img_caption": [
+            "图1基于统计和权重的产品特征提取流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1）应用Python工具的jieba分词包对原始评论语料进行分词和词性标注。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2）根据jieba分词工具所使用的词语标记符号，其中与名词相关的子集标记符号有 $\\{ / \\mathrm { n } , / \\mathrm { n r } , / \\mathrm { n s } , / \\mathrm { n t } , / \\mathrm { n z } ,$ $\\langle { \\mathrm { n l } } , \\langle { \\mathrm { n g } } \\rangle$ ，再根据这些标记符号所代表的含义和语法特点，本文选取 $\\{ / \\mathrm { n } \\}$ 作为抽取规则。使用计算机程序对每一条评论进行抽取。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3）采用方差选择法和TF-IDF对初步抽取出来的特征进行预选择，再分别选取排名前1000的特征；将两种方法抽取出的特征取交集得到产品特征集合 $I _ { 0 }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(4)建立常见中文频繁项名词却非产品特征的集  \n合，并从中文语义及语法角度过滤 $I _ { 0 } ,$ 形成特征集合 $I _ { I ^ { ( } }$ □(5）常见的频繁项名词却非产品特征主要划定为  \n以下情况。$\\textcircled{1}$ 常见商品的品牌。例如“诺基亚”、“三星”、“西门子”  \n等名词。$\\textcircled{2}$ 一些常见的口语化名词。例如“机子”、“情况”、“卖  \n点”、“优缺点\"等。$\\textcircled{3}$ 与产品无关的称呼类名词，例如“朋友”、“同事”、“男",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "子”等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{4}$ 计算机程序识别出来的少量错误名词，例如\"高端”“聊天”、“海量”等。$\\textcircled{5}$ 常见的集合类名词，例如\"群组”、“大家\"等。(6)采用基于矩阵和权重的改进Apriori算法设置最优阈值提取最终特征集合。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3方法设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在本文方法中，为了在特征预抽取阶段避免特征维度过高而导致噪声数据带来的影响，而选取方差分析与TF-IDF这两种方法进行候选特征提取。方差分析适用于特征值都为离散型的变量，符合本文构建的数据结构DataDframe。同时对于用于机器学习的数据来说，方差大才有意义，包含的信息量也就越大，并且通过实验结果也可以看出，方差越大的特征提取效果越优。而TF-IDF算法则是通过加权判定特征项对于评论语料的重要性，旨在过滤常用词。比如在“手机”，“国产\"和“功能\"出现频次相同情况下，明显“功能\"更为重要。并且在前人研究中此算法在特征提取领域中也表现出了较好的挖掘性能。同时，针对TF-IDF算法对文章不同位置的词语一视同仁这个不足之处，在本文中，评论文本多为短文本，所以将TF-IDF用于短文本特征挖掘也是行之有效的。实验结果显示该方法特征提取效果也较为明显。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在进行以上两种方法取交过滤后，本文同时也引入一种在特征提取领域研究者尚未采用的基于矩阵与权重的改进Apriori算法。此改进算法主要是基于事物项的权重而提出的，跟传统Apriori算法相比，避免了数据库的重复扫描，并且能够有效挖掘出潜在且更有价值的事件。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1结合方差分析与TF-IDF算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文对特征选择方法PMI、TF-IDF、TF-IWF和方差分析4种方法进行实验对比分析，选取其中效果较好的 TF-IDF与方差分析两种方法进行本文产品特征预抽取。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1）方差选择法：将评论语料和特征转成字典形式，利用key值构建数据结构DataDframe，评论语料为行索引值，特征为列索引值。行索引集合为 $\\{ T _ { 1 } , \\ T _ { 2 }$ $T _ { 3 } , \\cdots , T _ { \\mathrm { m } } \\}$ ，列索引值为 $\\{ A _ { 1 } , A _ { 2 } , A _ { 3 } , \\cdots , A _ { n } \\} $ 。其中 $m$ 为产品评论语料数量， $n$ 为特征数量。用0-1填充DataDframe,1代表特征 $\\textstyle { A _ { n } }$ 在相应评论语料 $T _ { m }$ 里面,0代表特征 $\\textstyle { A _ { n } }$ 不在相应评论语料 $T _ { m }$ 里面，再对每一列的特征求方差。数据结构DataDframe形式如表1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/c455e3e545857b27648980f2477c2c933d9887d4d0248c6a0a4acfab5aa26fc5.jpg",
+        "table_caption": [
+            "表1数据结构DataDframe"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>A</td><td>A</td><td>A</td><td>：</td><td>An</td></tr><tr><td>T1</td><td>0</td><td>0</td><td>1</td><td>：</td><td>1</td></tr><tr><td>T2</td><td>0</td><td>1</td><td>0</td><td></td><td>0</td></tr><tr><td>T</td><td>1</td><td>1</td><td>0</td><td>…</td><td>1</td></tr><tr><td></td><td></td><td>：</td><td>：</td><td></td><td></td></tr><tr><td>Tm</td><td>1</td><td>1</td><td>1</td><td>0</td><td>0</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)TF-IDF 选择法：用以评估字词对于一个文件集或一个语料库中的其中一份文件的重要程度。在一份给定的文件里，词频(TermFrequency,TF)指的是某一个给定的词语在该文件中出现的次数。这个数字通常会被归一化，以防止它偏向长的文件。逆向文件频率(Inverse Document Frequency,IDF)是一个词语普遍重要性的度量。某一特定词语的IDF，可以由总文件数目除以包含该词语之文件的数目，再将得到的结果取对数得到。某一特定文件内的高词语频率，以及该词语在整个文件集合中的低文件频率，可以产生出高权重的TF-IDF。因此,TF-IDF倾向于过滤掉常见的词语，保留重要的词语。TF-IDF的计算如公式(1)-公式(3)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT F _ { i , j } = \\frac { n _ { i , j } } { \\sum _ { k } n _ { k , j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $n _ { i , j }$ 是该词在评论语料 $d _ { j }$ 中的出现次数;而分母则是在评论语料中所有字词的出现次数之和。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI D F _ { i } = \\log \\frac { \\left| D \\right| } { \\left| \\left\\{ j : t _ { i } \\in d _ { j } \\right\\} \\right| }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $| D |$ 是语料库中的评论总条数;$\\left| \\left\\{ j : t _ { i } \\in d _ { j } \\right\\} \\right|$ 是包含词语的文件数目，如果该词语不在语料库中，就会导致被除数为零，因此一般情况下使用 $1 + \\left| \\left\\{ j : t _ { i } \\in d _ { j } \\right\\} \\right|$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT F - I D F = T F _ { i , j } \\times I D F _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于以上两种方法，本文在特征预抽取阶段结合方差分析与TF-IDF分别进行特征抽取，然后取出维度为1000 的特征进行取交操作形成产品特征集 $I _ { 0 \\circ }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 基于矩阵与权重的改进Apriori算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文将基于矩阵与权重的改进Apriori算法应用到文本挖掘领域，通过实验结果分析，该算法使得本",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "文特征抽取效果得到了较大提升。算法设计如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用评论语料和特征集合 $I _ { I }$ 构建0-1矩阵M: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM = \\left\\{ \\begin{array} { c c c c } { a _ { 1 1 } } & { a _ { 1 2 } } & { \\cdots } & { a _ { 1 n } } \\\\ { a _ { 2 1 } } & { a _ { 2 2 } } & { \\cdots } & { a _ { 2 n } } \\\\ { \\vdots } & { \\vdots } & { \\vdots } & { \\vdots } \\\\ { a _ { m 1 } } & { a _ { m 2 } } & { \\cdots } & { a _ { m n } } \\end{array} \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中，ai＝{ $a _ { i j } = \\left\\{ { \\begin{array} { l } { 1 , a _ { i j } \\in T _ { i } } \\\\ { 0 , a _ { i j } \\notin T _ { i } } \\end{array} } \\right.$ [0aT;T表示第i条评论;i1,2,$m ; j = 1 , 2 , 3 , \\ \\cdots , n ; I = \\{ I _ { 1 } , \\ I _ { 2 } , \\ I _ { 3 } , \\ \\cdots , I _ { N } \\}$ 表示 $N$ 个特征集合。 $I _ { j }$ 在事务数据库中出现的概率为 $p ( I _ { j } )$ ，计算如公式(4)所示， $I _ { j }$ 的权重记为 $w ( I _ { j } )$ ，与 $p ( I _ { j } )$ 有关， $w ( I _ { j } )$ 的计算如公式(4)公式(5)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\np ( I _ { j } ) = l / m\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw ( I _ { j } ) = 1 / p ( I _ { j } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\mathbf { \\xi } _ { l }$ 表示 $I _ { j }$ 在事务集中出现的次数，即上述矩阵中第 $j$ 列中1的个数, $m$ 是评论语料的总条数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "事务 $T _ { k }$ 指数据集中的第 $k$ 条评论，其权重指该评论中所包含的特征项的平均权重，记为 $w t ( T _ { k } )$ ，即对 $a _ { i j } = 1$ 的所有$w ( I _ { j } )$ 求平均值，其中 $j = 1 , 2 , 3 , \\cdots , n$ ，计算如公式(6)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw t ( T _ { k } ) = \\sum _ { j = 1 } ^ { I _ { j } \\in T _ { k } } w ( I _ { j } ) / \\big | T _ { k } \\big |\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\left| T _ { k } \\right|$ 表示评论 $T _ { k }$ 中包含的特征项的个数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "项的权重支持度记为wsupport，权重支持度表示包含特征项的事务权重占所有事务权重的比例，再根据特征项的权重支持度，设定合理阈值形成最优特征集合，计算如公式(7)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw s u p p o r t \\mathrm { ( S ) } = \\sum _ { k = 1 } ^ { S \\subseteq T _ { k } } w t ( T _ { k } ) / \\sum _ { k = 1 } ^ { m } w t ( T _ { k } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $s$ 表示事务数据库中的任意特征项。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于矩阵和权重的改进Apriori算法步骤如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 扫描事务数据库，构建0-1事务矩阵，并根据事务矩阵计算出每个特征项和事务的权重，即 $w ( I _ { j } )$ ， $w t ( T _ { k } )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 根据事务矩阵得到候选1-项集 $\\boldsymbol { C } _ { 1 }$ ，计算 $\\boldsymbol { C } _ { 1 }$ 中每个特征项的权重支持度wsuppor $( S )$ ，找出满足最小支持度的频繁1-项集 $L _ { 1 }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于矩阵和权重的改进Apriori算法流程图如图2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/77461ca48a484c1eb58491582ff6df5538c62d3009f3391175c8c7e4a36d6bcf.jpg",
+        "img_caption": [
+            "图2基于矩阵和权重的改进Apriori算法流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3 性能评估指标 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文采用查准率 $P$ 、查全率 $R$ 和综合值 $F$ -score这三个评估指标分别来度量性能的某个方面和对性能的整体评估。具体计算方法如公式(8)-公式(10)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP { = } \\frac { A } { A + B }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR = { \\frac { A } { A + C } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF { \\ – s c o r e } { = } \\frac { 2 R P } { R + P }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中,A,B,C含义如表2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f73bccbcc3bae2822de4f85c50d7d689b938f26d1e673d7ff0a2fbd240bd603b.jpg",
+        "table_caption": [
+            "表2各变量含义"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>产品特征数</td><td>算法识别出来的 正确特征数</td><td>算法识别出来的 错误特征数</td></tr><tr><td>挖掘出的特征数</td><td>A</td><td>B</td></tr><tr><td>没有挖掘出的特征数</td><td>C</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4实验结果及性能评估 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1 实验数据 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文数据集采用数据堂提供的手机评论语料①,选取其中800条评论进行实验。通过人工标注的方法共得到上述评论语料中的手机产品特征183个，产品特征集合如表3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/dd84be365ee7155197d456bead90ac2a03f33a1a0240441b7db6d3528cd6a686.jpg",
+        "table_caption": [
+            "表3手机产品特征"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>产品名称</td><td>参数</td><td>人工标注特征集合</td><td>人工标注特征数量</td></tr><tr><td rowspan=\"5\">手机</td><td>外观设计</td><td>外键，外屏，彩屏，机身，磨砂，键盘，外观，内屏，方向键，外观设计，颜色，手感， 外壳，体积，重量，快捷键，金属，质感，机型，外形，面积，按键，数字键，导航键, 造型，功能键，机体，材质，图案，拨号键，外表，数字键盘，红外接口，尺寸，按钮,</td><td>37</td></tr><tr><td>屏幕</td><td>外盖，机壳 分辨率，色彩，屏保，画面，屏幕，清晰度，亮度，屏幕显示，显示屏，触摸屏，画质， 动画，透明度</td><td>13</td></tr><tr><td>基本功能</td><td>功能，短信，通话记录，计算器，记事本，程序，联系人，手写，信息，电话，短消息, 彩信，闹钟，日程表，手写输入，语音，软件，收音机，防火墙，通话质量，电话簿， 录音，电话号码，号码，输入法，语音拨号，键盘输入，通话，闹铃，通讯录，应用</td><td>39</td></tr><tr><td>摄像功能</td><td>程序，时钟，背光灯，录音器，背景灯，手电筒，备忘录，收件箱,SIM卡 像素，摄像头，彩灯，图片，闪光灯，照片，象素，镜头，图像，照相机，摄像机</td><td>11</td></tr><tr><td>娱乐功能</td><td>多媒体，影音，媒体播放器，游戏，音频，播放器</td><td>6</td></tr><tr><td rowspan=\"5\"></td><td>数据功能</td><td>蓝牙，红外线</td><td>2</td></tr><tr><td>手机附件</td><td>耳机，手写笔，扩音器，耳塞，内存卡，存储卡，数据线，充电器，防尘盖，传输线</td><td>10</td></tr><tr><td>美化</td><td>壁纸，界面，背景，菜单，饱和度，主题</td><td>6</td></tr><tr><td>性能</td><td>信号，响应速度，速度，识别率，待机时间，续航，性能，处理速度，关机，操作速度， 网络，待机，反应速度，开机，传输速度，速率，反应时间，智能，输入速度</td><td>19</td></tr><tr><td>声音</td><td>铃音，铃声，音量，提示音，声音，和弦，和弦铃声，音质，音乐，听筒，扬声器，音效, 短信铃声，关机闹钟</td><td>14</td></tr><tr><td rowspan=\"2\"></td><td>硬件配置</td><td>容量，内置，空间，储存量，内存，处理器，电池，硬件，外置，存储量，存储容量, 均衡器，电池容量，储存，内存容量，电池电量，存储空间，储存卡</td><td>18</td></tr><tr><td>性价比</td><td>性价比，价格，价位，价钱，价值，零售价</td><td></td></tr><tr><td rowspan=\"2\"></td><td></td><td></td><td>6</td></tr><tr><td>售后反馈</td><td>质量，客服</td><td>2</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2 实验结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1）产品特征提取结果 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据公式(7)计算出各特征项的权重支持度，并提取出排在前10的手机特征项，如表4所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/49767a80f6bdc048f761d035f4a6a11af4f1056b4fe09a931ebb97c2b3df488d.jpg",
+        "table_caption": [
+            "表4手机产品特征提取结果 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>排名</td><td>属性</td><td>wsupport</td></tr><tr><td>1</td><td>功能</td><td>0.3337</td></tr><tr><td>2</td><td>屏幕</td><td>0.2628</td></tr><tr><td>3</td><td>效果</td><td>0.2348</td></tr><tr><td>4</td><td>铃声</td><td>0.2324</td></tr><tr><td>5</td><td>外观</td><td>0.2057</td></tr><tr><td>6</td><td>电话</td><td>0.2054</td></tr><tr><td>7</td><td>短信</td><td>0.1887</td></tr><tr><td>8</td><td>待机</td><td>0.1772</td></tr><tr><td>9</td><td>声音</td><td>0.1719</td></tr><tr><td>10</td><td>电池</td><td>0.1685</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对wsupport设置不同的阈值，性能变化如图3所示，相应的性能指标值如表5所示",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表5可以看出，wsupport 阈值为0.013时，挖掘结果综合性能最优，即查准率达到 $7 2 . 4 4 \\%$ ，查全率达到 $7 7 . 5 9 \\%$ ，综合值达到 $7 4 . 9 3 \\%$ O",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6feb9a318936c9da1290493fc4af9a9812e64f88758ad7cc7e248c28e2db2cae.jpg",
+        "img_caption": [
+            "图3不同阈值下的性能变化情况"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/0baac0a874bb60716d71c25ee7fbe6a3def11472c93d50491dd4d160e74bb1bb.jpg",
+        "table_caption": [
+            "表5手机评论挖掘性能"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项的权重支持度</td><td>P(查准率)</td><td>R(查全率)</td><td>F(综合值)</td></tr><tr><td>0.01</td><td>71.35%</td><td>77.60%</td><td>74.34%</td></tr><tr><td>0.012</td><td>72.08%</td><td>77.59%</td><td>74.73%</td></tr><tr><td>0.013</td><td>72.44%</td><td>77.59%</td><td>74.93%</td></tr><tr><td>0.0135</td><td>72.30%</td><td>77.05%</td><td>74.60%</td></tr><tr><td>0.014</td><td>72.68%</td><td>77.04%</td><td>74.80%</td></tr><tr><td>0.015</td><td>73.01%</td><td>75.41%</td><td>74.19%</td></tr><tr><td>0.016</td><td>72.82%</td><td>73.22%</td><td>73.02%</td></tr><tr><td>0.018</td><td>73.71%</td><td>70.49%</td><td>72.06%</td></tr><tr><td>0.02</td><td>74.09%</td><td>67.21%</td><td>70.48%</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2）实验结果对比分析 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "文献[7]采用FP增长算法产生候选特征集，利用基于网络搜索引擎的PMI算法进行最优特征提取；文献[11]人工定义了产品属性概念模型，依据此模型对中文产品特征进行提取；文献[13]结合汉语中名词性短语的表达特点，在传统Apriori算法基础上进行名词短语扩充，实现产品特征的自动提取。以上三种方法的挖掘性能都有一定提升。将本文方法分别与文献[7],文献[11]，文献[13]进行比较，结果如表6所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e92d9cb8bebd4667e231087d036ec3d75e1478445b4d12a9e53635d185f2b759.jpg",
+        "table_caption": [
+            "表6针对手机评论的产品特征挖掘结果比较1"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>性能指标</td><td>本文方法</td><td>文献[7] 的方法</td><td>文献[11] 的方法</td><td>文献[13] 的方法</td></tr><tr><td>查准率</td><td>72.44%</td><td>70.8%</td><td>70.72%</td><td>62.8%</td></tr><tr><td>查全率</td><td>77.59%</td><td>73.3%</td><td>68.35%</td><td>81.8%</td></tr><tr><td>综合值</td><td>74.93%</td><td>72%</td><td>69.51%</td><td>71.05%</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过表6可知，本文方法查准率均优于文献[7]、文献[11]和文献[13]；查全率优于文献[7]和文献[11],但低于文献[13]，由于文献[13]针对的是英文评论，没有绝对的可比性，但是本文挖掘性能更优；从综合性能来看，本文综合评价指标均优于其他文献。通过第一组对比实验可知，利用统计方法和机器学习算法进行产品特征挖掘更有效。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于文献[12]和文献[4]的方法在中文产品特征提取领域具有一定代表性，因此再将本文方法与其进行实验结果对比，结果如表7所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/0c59fa4cf577403b0a1054a691b58f1bb2e6df7ecba586397aeff0516ee5b146.jpg",
+        "table_caption": [
+            "表7针对手机评论的产品特征挖掘结果比较2"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>性能指标</td><td>本文方法</td><td>文献[12]的方法</td><td>文献[4]的方法</td></tr><tr><td>查准率</td><td>72.44%</td><td>63.3%</td><td>71.8%</td></tr><tr><td>查全率</td><td>77.59%</td><td>68.9%</td><td>76.1%</td></tr><tr><td>综合值</td><td>74.93%</td><td>66%</td><td>73.88%</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第二组对比实验中，本文方法的各个性能指标均优于文献[12]和文献[4]的实验结果。因此本文在保证一定查全率的情况下仍得到了较好的查准率，再次表明了本文方法在特征提取领域的有效性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5结语 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文基于方差选择和 TF-IDF 算法对产品特征进行预抽取；制定名词非特征规则对候选特征进行进一步过滤；采用基于矩阵和权重的改进Apriori算法对产品特征进行最优特征挖掘。实验结果表明，与其他特征提取方法相比较，在人工标注的特征较多的情况下，本文方法仍能保持较高的准确率和查全率，说明本文方法是有效的。有效的产品特征是用户做出购买决策的有效参数，也是生产商和销售商改进商品和服务的关键指标，更是在许多商业活动中对产品推荐起到了理想的作用。今后也将结合更多机器学习算法对评论文本中的情感倾向性进行相关研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Zhuang L,Jing F,Zhu X Y. Movie Review Mining and Summarization[C]//Proceedingsofthe15thACM International Conference on Information and Knowledge Management,Arlington，Virginia，USA.New York:ACM, 2006: 43-50.   \n[2]Kobayashi N, Inui K,Matsumoto Y,et al. Collecting EvaluativeExpressionsforOpinionExtraction[C]// Proceedings of the 1st International Joint Conference on Natural Language Processing. Berlin, Heidelberg: SpringerVerlag,2004:596-605.   \n[3]娄德成，姚天昉．汉语句子语义极性分析和观点抽取方法 的研究[J]．计算机应用，2006，26(11）：2622-2625.(Lou Decheng，Yao Tianfang.Semantic Polarity Analysis and Opinion Mining on Chinese Review Sentences[J]. Journal of Computer Applications,2006,26(11): 2622-2625.)   \n[4]Hu M, Liu B.Mining Opinion Features in Customer Reviews [C]//Proceedings of the 19th National Conference on Artificial Intelligence.2004.   \n[5]Popescu A M,Etzioni O.Extracting Product Features and Opinions From Reviews [C]//Proceedings of the conference on Human Language Technology and Empirical Methods in Natural Language Processing. 2005.   \n[6]杜思奇，李红莲，吕学强．汉语组块分析在产品特征提取 中的应用研究[J]．现代图书情报技术，2015(9):26-30.(Du Siqi，Li Honglian,Lv Xueqiang. Application of Chinese Chunk Analysis in Product Feature Extraction [J].New Technology of Library and Information Service,2015(9): 26-30.)   \n[7]王永，张勤，杨晓洁．中文网络评论中产品特征提取方法 研究[J]．现代图书情报技术,2013(12):70-73.(Wang Yong, Zhang Qin, Yang Xiaojie. Study on the Extraction of Product Features in Chinese Network Reviews [J]. New Technology ofLibrary and Information Service,2013(12):70-73.)   \n[8]路永和，梁明辉．遗传算法在改进文本特征提取方法中的 应用[J].现代图书情报技术，2014(4):48-57.(Lu Yonghe, Liang Minghui. Application of Genetic Algorithmsin Improving Text Feature Extraction Method [J].New Technology of Library and Information Service,2014 (4): 48-57.)   \n[9] 张建娥．基于 TFIDF 和词语关联度的中文关键词提取方法 [J]．情报科学，2012，30(10):1542-1544，1555．(Zhang Jian'e.Chinese Keyword Extraction Method Based on TFIDF and Word Relevance Degree [J].Information Science,2012, 30(10): 1542-1544,1555.)   \n[10]边根庆，王月．一种基于矩阵和权重改进的 Apriori 算法 [J]．微电子学与计算机，2017，34(1):136-140.(Bian Genqing，Wang Yue.A Apriori Algorithm Based on Matrix and Weight Improvement [J]. Microelectronics and Computer, 2017,34 (1): 136-140.)   \n[11]Shi B,ChangK.Mining Chinese Reviews[C]//Proceedings of the 6th IEEE lnrternational Conference on Data Mining. 2006.   \n[12]李实，叶强，李一军，等．中文网络客户评论的产品特征 挖掘方法研究[J]．管理科学学报,2009,12(2):142-152.(Li Shi,Ye Qiang,Li Yijun,et al.Research on Product Feature Mining Method of Chinese Network Customer Review [J]. Chinese Journal of Management Science,2009,12 (2):142-152.)   \n[13]李实，叶强，李一军，等．挖掘中文网络客户评论的产品 特征及情感倾向[J]．计算机应用研究，2010，27(8): 3016-3019.(Li Shi, Ye Qiang,Li Yijun,et al. Characteristics and Emotional Tendency of Excavating Chinese Network Customer Reviews [J].Application Research of Computers, 2010,27 (8): 3016-3019.) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "李昌兵：提出研究方向及研究思路，修改论文;  \n庞崇鹏：论文撰写，实验研究及结果对比分析;  \n李美平：英文摘要撰写。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "利益冲突声明：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "所有作者声明不存在利益冲突关系。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "支撑数据：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "支撑数据由作者自存储,E-mail:Pang_Aaron@163.com。  \n[1]李昌兵，庞崇鹏.1原始数据集.txt.将评论语料合并后的数据.[2]李昌兵，庞崇鹏.2分词与词性标注.txt.利用python的 jieba模块进行分词结果.  \n[3]李昌兵，庞崇鹏.3去重后特征.txt.将初步提取出来的特征进行去重.  \n[4]李昌兵，庞崇鹏.4取交结果.txt.利用方差分析与TFIDF方法进行结果取交.  \n[5]李昌兵，庞崇鹏．5删除非产品特征规则词结果.txt.在第四步中删除非产品特征规则词.  \n[6]李昌兵，庞崇鹏.6改进Apriori算法提取最优结果.txt.将第五步的特征利用Apriori算法进行最后过滤得到的结果.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "收稿日期:2017-04-24  \n收修改稿日期:2017-06-20",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Extracting Product Features with Weight-based Apriori Algorithm ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Li Changbing Pang Chongpeng Li Meiping (School of EconomicsandManagement,Chongqing UniversityofPostsandTelecommunications,Chongqing 40o65,China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract: [Objective] This paper aims to reduce the noises while extracting product features from customer comments. [Methods] Weused the TF-IDFand variance selection methods to extracted the needed data.Then，we set the thresholds to filter the extracted words and obtain the product feature set.Third,we generated frequent item sets with the Apriori algorithm.Finall,we defined various thresholds toobtain theoptimal sets,which automatically extracted product features from user comments. [Results] We examined the effectivenessof the proposed method with comment textsonmobile phone products.Comparing theautomatically extracted characteristics with the manually identified characteristics,we found that the precision P value was $7 2 . 4 4 \\%$ , the recall R value was $7 7 . 5 9 \\%$ ,and the comprehensive F value reached $7 4 . 9 3 \\%$ . [Limitations] The precision needs to be improved and there might be some human errors involving the manualy identified terms.[Conclusions]The Apriori algorithmcould helpus extract product features effectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Feature ExtractionApriori Algorithm TF-IDFVariance Selection ",
+        "page_idx": 6
+    }
+]

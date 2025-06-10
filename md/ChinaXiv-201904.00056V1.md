@@ -1,0 +1,317 @@
+# 移动环境下基于情境感知的个性化影视推荐算法研究
+
+罗国前la，刘志勇1,1b∗，张琳²，张家鑫la，何卓桁la，张欣la(1．东北师范大学a.信息科学与技术学院；b.教育部数字化学习支撑技术工程研究中心，长春 130117;2.吉林大学 软件学院，长春 130012)
+
+摘要：针对在移动环境下使用传统推荐算法进行个性化影视推荐时存在的准确度不高的问题，提出了一种基于情境感知的矩阵分解算法。该算法在基本矩阵分解算法的基础上，通过融入全局偏置和情境偏置来进行未知评分预测。该算法的优势在于，一方面，使用矩阵分解的方式使得矩阵的规模远远小于原始评分矩阵；另一方面，该算法充分融入了情境要素对评分的影响，使得预测评分更加精准。通过在LDOS-CoMoDa数据集上进行实验，结果表明，该算法在准确度上优于基于用户的协同过滤算法、基本矩阵分解算法和Baseline 预测算法。
+
+关键词：影视推荐；矩阵分解；情境感知 中图分类号：TP311.1 doi:10.19734/j.issn.1001-3695.2018.11.0814
+
+# Research on personalized film recommendation algorithm based on context-aware in mobile environment
+
+Luo Guoqianla, Liu Zhiyongla, 1b+,, Zhang Lin², Zhang Jiaxinla, He Zhuohengla, Zhang Xin1a (1.a.SchoolofInformationScience&Technology,b.DigitalLearningEngineeringResearch CenterofChinaEducational Ministry,NortheastNormal UniversityChangchun30l17,China;2.SchoolofSoftware,JilinUniversityChangchun 130012, China)
+
+Abstract:Aiming at the problem of low accuracy in theuse of traditional recommendation algorithm in mobile environment,a matrix factorization algorithm based on context-aware was proposed.Based onthe basic matrix factorization algorithm,the algorithm performed unknown score predictionbyincorporating global bias and context bias.The advantage of this algorithmis that,ontheone hand,the matrix factorization was usedto make the scaleofthe matrix much smaller thantheoriginalscoring matrix;ontheotherhand,thealgorithmfulyintegratedthe influenceofthesituationalelementson the score,making the prediction score more accurate.Experimentson the LDOS-CoMoDa dataset show that the proposed algorithmoutperforms theuser-basedcollaborative filteringalgorithm,thebasic matrix factorizationalgorithmand Baseline prediction algorithm.
+
+Key words: movie recommendation; matrix factorization; context-aware
+
+# 0 引言
+
+移动互联网时代的到来以及智能手机和平板电脑等移动终端设备的普及，使得越来越多的用户使用移动设备体验观影服务。据《中国电影观众观影行为调研报告2014—2015》显示，在非影院观影渠道中，有近 $57 . 3 \%$ 的用户使用移动设备观看影视节目，可见移动观影这种方式受到越来越多人的青睐。与此同时，移动互联网的信息过载问题日趋严重，而个性化推荐是解决此类问题的一种有效方法。它根据用户自身的特点和需求，将有价值的信息主动地推荐给用户[1]。但是在移动环境下，个性化推荐具有很强的情境敏感性，用户情境的不同，使得用户的需求和兴趣也有所不同，在观影方面尤为突出。例如，具有冒险精神的人可能喜欢警匪片或探险片，男性比较偏好战争片和动作片，而女性可能对爱情片和家庭片更感兴趣；当用户在重大节日，如春节时，可能更愿意观看贺岁类或喜剧类的影视节目。如果像以往的个性化推荐一样，仅仅考虑用户和被推荐的影视节目两个维度是远远不够的，还需要充分考虑情境因素。移动环境下基于情境感知的个性化影视推荐可以实时地为用户推荐符合用户当前情境的影视信息，从而更好地满足用户的个性化观影需求，为用户提供更精准的服务[2]。
+
+个性化推荐服务与情境因素相融合受到了学者的普遍关注。针对不同的应用领域，涌现出了不同的研究成果。在移动环境下个性化阅读推荐领域，曾子明等人[3]通过在传统的协同过滤算法中融入了情境条件熵，提出了一种基于情境感知的移动阅读个性化信息推荐模型，从而为特定环境下的读者提供个性化阅读服务；在移动电子资源推荐领域，田雪筠[4]将情境因素引入到个性化推荐系统中，提出了基于情境和基于内容相结合的推荐算法，利用用户的历史情境信息和偏好信息为特定环境下的用户提供个性化电子资源服务；在个
+
+收稿日期：2018-11-16；修回日期：2018-12-24 基金项目：吉林省教育厅“十三五”科学技术研究规划项目（202118628)；吉林省教育厅新工科研究与实践项目 （131003229)
+
+作者简介：罗国前（193-），男，山西大同人，硕士研究生，主要研究方向为教育数据挖掘、推荐系统；刘志勇（1978-)，男（通信作者），吉林长春人，副教授，硕导，博士，主要研究方向为教育数据挖掘、语义网 $( \mathrm { l z y 6 0 0 @ { \underline { { { a } } } } q q . c o m } )$ ；张琳（1978-)，女，吉林长春人，助理研究员，硕士，主要研究方向为数字化学习、软件工程；张家鑫（192-)），男，吉林长春人，硕士研究生，主要研究方向为教育数据挖掘；何卓桁（1994-），男，四川攀枝花人，硕士研究生，主要研究方向为教育数据挖掘；张欣（1993-），女，吉林蛟河人，硕士研究生，主要研究方向为教育数据挖掘。
+
+性化健康服务领域，Kim等人[5]在协同过滤过程中利用情境模型来提取用户偏好缺失值，将情境感知与协同过滤相结合，应用于个性化健康服务系统中；在移动数字图书馆资源个性化推荐领域，洪亮等人[结合移动数字图书馆的资源布局及推送特征，设计了一种基于情境感知的个性化资源推荐方式，为移动数字图书馆资源推荐提供了一种新的思路。
+
+综上所述，为了保证移动环境下个性化推荐的质量，需要充分考虑情境因素。然而上述学者的研究大部分是基于邻域的协同过滤推荐方法，该方法主要考虑用户一项目评分矩阵。众所周知，在实际场景中，用户一项目评分矩阵可能会非常稀疏，为了提取更有用的信息，本文采用矩阵分解的方式来进行降维处理。同时，基于邻域的协同过滤推荐方法更多的是一种基于统计的方法，并没有学习的过程。而矩阵分解的方法具有较好的理论基础，是一种基于机器学习的方法，它通过优化一个设定的目标函数来建立最优的模型[7]。
+
+为此，本文提出了基于情境感知的矩阵分解CAMF(context-awarematrixfactorization)算法，主要针对个性化影视领域中的情境感知进行探讨。相比于基于用户的协同过滤算法和基本矩阵分解算法，具备了情境感知的能力，从而为用户提供符合当前情境的影视信息。本文详细介绍了CAMF算法，并采用LDOS-CoMoDa数据集与基于用户的协同过滤算法、基本矩阵分解算法和Baseline预测算法进行实验对比分析，结果显示CAMF算法具有更高的准确性。
+
+# 1 相关工作
+
+# 1.1情境和情境感知
+
+关于情境，目前比较公认和广泛使用的定义是Dey[8提出的：情境是描述实体在某个场景中的信息组合，实体可以是用户也可以是与应用程序交互相关联的对象。本文认为移动环境下用户的观影情境是指影响用户当前观影需求的信息组合，包括时间信息、地理位置信息、天气信息等。
+
+情境感知的概念最早由Schilit等人[9]于1994年提出。他认为情境感知是指软件能够根据当前所在的情境来调整自身的状态。目前人们普遍接受的是Dey[10]对于情境感知的定义，他认为情境感知是指利用情境信息为用户提供相关信息或服务的过程。在移动环境下针对用户观影的情境感知就是根据用户当前的情境信息来为用户提供更好的观影信息和服务。
+
+# 1.2情境要素
+
+针对不同的应用领域或者系统，考虑的情境要素也有所不同。比如，在移动电子资源推荐系统中，情境要素主要考虑设备信息、位置信息、网络状况、时间信息和用户偏好[4];在自适应学习系统中，情境要素主要考虑物理情境、用户情境和学习情境[1；在搜索引擎系统中，情境要素主要考虑搜索意图、地理位置、时间和设备信息等。
+
+针对影视领域进行个性化推荐时，李晟[12]按照情境信息的状态维度，把用户观影情境分为静态情境和动态情境。其中，静态情境包括年龄、性别、职业、性格等；动态情境包括时间、地点、天气、心情、伴侣等。
+
+Kosir 等人[13]为了探究个性化推荐与情境的关系时，建立了一个包含情境要素的有关影视方面的数据集LDOS-CoMoDa，该数据集包含了time（时间）、daytype（日期）、season（季节）、location（地点）、weather（天气）、social（伴侣）、endEmo（观影后情绪）、mood（心情）、dominantEmo（主要情绪）、physical（身体状况）、decision（观影决定）和interaction（观影次数）共12个情境要素。
+
+本文借鉴李晟的思想，同时融合LDOS-CoMoDa数据集的部分情境要素，将移动观影情境要素分为静态信息和动态信息。其中，静态信息是指用户长期累积沉淀的不易发生变化的自身特性，包括年龄、性别、职业、学历以及性格；动态信息是指用户自身或周围环境动态变化的特性，包括时间、地点、天气、日期、伴侣、心情、身体状况、观后情绪、观影决定以及观影次数。初步拟定了15个情境要素，如表1所示。
+
+表1移动观影情境要素分类  
+Table 1Classification of context elements in mobile movie watching   
+
+<html><body><table><tr><td>年龄</td><td>1-18岁、19-40岁、41-60岁、60岁以上</td></tr><tr><td>性别 静态</td><td>男、女</td></tr><tr><td>职业 信息</td><td>学生、教师、商人等</td></tr><tr><td>学历</td><td>小学、初中、高中、本科等</td></tr><tr><td>性格</td><td>开朗、内敛、稳重等</td></tr><tr><td>时间</td><td>早上、下午、晚上等</td></tr><tr><td>地点</td><td>在家、公司、朋友家等</td></tr><tr><td>天气</td><td>晴天、阴天、雨天、雪天、大风等</td></tr><tr><td>日期 情境</td><td>工作日、周末、节假日</td></tr><tr><td>伴侣 要素</td><td>自己、家人、朋友等</td></tr><tr><td>心情</td><td>开心、平静、悲伤等</td></tr><tr><td>动态 身体</td><td>健康、生病</td></tr><tr><td>信息状况 观后</td><td></td></tr><tr><td>情绪</td><td>悲伤、平静、兴奋等</td></tr><tr><td>观影</td><td>自己选择、别人推荐</td></tr><tr><td>决定</td><td></td></tr><tr><td>观影</td><td>第一次、大于一次</td></tr><tr><td>次数</td><td></td></tr></table></body></html>
+
+# 1.3基于用户的协同过滤算法
+
+基于用户的协同过滤算法是应用最广泛最成功的协同过滤推荐算法中的一种。它的主要思想是通过用户对项目的评分来获得相似用户，然后根据相似用户可能具有相似的兴趣偏好来进行推荐。因此，基于用户的协同过滤算法主要分为两步：a)根据用户对项目的评分计算用户之间的相似度，相似度的度量方法有很多种，包括余弦相似度和皮尔逊相关系数等，本文采用的是皮尔逊相关系数；b)根据第一步计算的用户相似度为当前用户寻找最近邻，并根据最近邻预测当前用户对未评分项目的评分，然后根据预测评分向用户进行推荐。
+
+# 1.4基本矩阵分解算法
+
+基本矩阵分解的基本思想是将用户-项目评分矩阵R分解为两个低维的用户潜在特征矩阵 $\mathrm { ~ \bf ~ P ~ }$ 和项目潜在特征矩阵Q,使得P和Q的乘积近似拟合 $\mathbb { R } ^ { [ 1 4 ] }$ ，即
+
+$$
+\begin{array} { r } { { \mathrm {  { ~ \cal { R } ~ } } } \approx Q ^ { T } { \cal { P } } = \left[ \begin{array} { l } { q _ { 1 } ^ { T } } \\ { q _ { 2 } ^ { T } } \\ { \dots } \\ { q _ { M } ^ { T } } \end{array} \right] \left( \begin{array} { l } { p _ { 1 } , p _ { 2 } , . . . , p _ { N } } \end{array} \right) } \end{array}
+$$
+
+其中： ${ \bf R } ^ { \mathrm { m \times n } } \in { \bf R } ^ { \mathrm { \ m \times n } }$ 表示用户一项目评分矩阵； $ { \mathrm { ~  ~ { ~ \cal ~ P ~ } ~ } } \in  { \mathrm { ~  ~ \omega ~ } }  { \mathrm { ~  ~ { ~ \cal ~ m } ~ } } ^ { \times } \mathrm { d }$ mxd表示用户的潜在特征矩阵； ${ \textsc { Q } } \in { \mathbb R } ^ { { \ n } \times { \mathrm { d } } }$ 表示项目的潜在特征矩阵；$\mathsf { p } _ { u }$ 表示用户 $\mathrm { ~  ~ u ~ }$ 的潜在特征向量； $q _ { i }$ 表示项目i的潜在特征向量； ${ \bf d } \ll \mathrm { m i n } ( { \bf m , n } )$ 表示特征向量维度。使用 $p _ { u }$ 和 $q _ { i }$ 的内积来预测用户 $\mathrm { ~  ~ u ~ }$ 对项目i的评分，即
+
+$$
+\hat { r } _ { u i } = q _ { i } ^ { T } p _ { u }
+$$
+
+为了找到式（2）中的特征向量 $\mathsf { p } _ { u }$ 、 $q _ { i }$ ，矩阵分解算法需要定义一个目标函数以求得最小平方差，即
+
+$$
+\operatorname* { m i n } _ { p ^ { * } , q ^ { * } } \sum _ { ( u , i ) \in K } \frac { 1 } { 2 } \big ( r _ { u i } - q _ { i } ^ { T } p _ { u } \big ) ^ { 2 } + \frac { 1 } { 2 } \lambda \big ( q _ { i } ^ { \ 2 } + { p _ { u } } ^ { \ 2 } \big )
+$$
+
+其中：K为已有评分记录的（u，i）对集合； $r _ { u i }$ 为用户 $\mathrm { ~  ~ u ~ }$ 对项目i的真实评分， $\lambda ( { q _ { i } } ^ { 2 } + { p _ { u } } ^ { 2 }$ 为防止过拟合的正则化项； $\lambda$ 为正则化系数。为了获得上述目标函数的最优解，可以应用随机梯度下降（stochastic gradient descent,SGD）法[15]来进行求解。
+
+# 1.5Baseline 预测算法
+
+Baseline预测算法认为用户对项目的评分受到用户或项目本身特性的影响[16]，比如，对于随意的用户来说，他的评分普遍高于平均评分；而对于严格的用户来说，他的评分普遍较低。同理，对于项目来说，以影视项目为例，质量高的影视项目评分普遍较高，而质量差的影视项目评分普遍较低。本文将这些独立于用户或项目的影响因素称为全局偏置。Baseline融入全局偏置的评分预测模型为
+
+$$
+\hat { r } _ { u i } = \mu + \ b _ { u } + \ b _ { i }
+$$
+
+其中： $\hat { r } _ { u i }$ 表示用户 $\mathrm { ~  ~ u ~ }$ 对项目i的预测评分；“表示训练集的全局平均值； $b _ { u }$ 表示用户 $\mathrm { ~  ~ u ~ }$ 的偏置项，即独立于用户本身的影响； $b _ { i }$ 表示项目i的偏置项，即独立于项目本身的影响。
+
+为了求解 $b _ { u }$ 和 $b _ { i }$ ，同样采用设定一个目标函数L，利用随机梯度下降法[15]求解最优值。L为
+
+$$
+\mathrm { L } = \operatorname* { m i n } \sum _ { ( \mathrm { u , i } ) \in \mathrm { K } } { \frac { 1 } { 2 } } ( \mathrm { r _ { \mathrm { u i } } } - \gamma \mu - b _ { i } - b _ { u } ) ^ { 2 } + { \frac { 1 } { 2 } } \lambda \bigl ( b _ { i } ^ { 2 } + b _ { u } ^ { 2 } \bigr )
+$$
+
+# 2 CAMF算法
+
+# 2.1评分预测模型
+
+基本矩阵分解算法通过学习用户和项目的潜在特征向量进行预测。其中，项目的潜在特征向量代表了项目的每个特性的程度，用户的潜在特征向量代表了用户对项目每个特性的喜好程度，两个向量的内积表示用户对该项目的喜好程度。
+
+由上节Baseline预测算法可知，用户的评分易受到用户或项目本身特性这些全局偏置的影响，因此，本文首先在用户对项目的喜好程度(即基本矩阵分解算法)的基础上融入全局偏置，记为 $b _ { u i }$ 。
+
+$$
+b _ { u i } = b _ { u } + b _ { i }
+$$
+
+其中：参数 $b _ { u }$ 和 $b _ { i }$ 的含义与Baseline 预测算法中的一致。
+
+然而在实际生活中，尤其是移动环境下，用户的评分具有一定的情境敏感性。比如，用户的心情和观影后的体验会影响用户对影视节目的评分。为了融入情境要素对评分的影响，Baltrunas等人[I7]在其提出的CAMF-CC评分预测模型中设定每个情境要素对同一类别的项目评分具有相同的影响。
+
+本文借鉴BaltrunasL的思想，将情境要素对某一类别的项目的影响称为情境偏置，记为 $\mathbf { b } _ { \mathrm { c } }$ 。并继续将其融入到基本矩阵分解算法中。
+
+$$
+\mathsf { b } _ { \mathrm { c } } = \sum _ { \mathrm { j } = 1 } ^ { \mathrm { k } } \mathsf { b } \left( \mathrm { t } \right) _ { \mathrm { c } _ { j } }
+$$
+
+其中：t为项目所属类别； $\mathbf { c } _ { \mathrm { j } }$ 为情境要素，共包含 $\mathbf { k }$ 个； $ { b } ( \mathbf { t } ) _ { \mathrm { c _ { j } } }$   
+表示情境要素 $\mathbf { c } _ { \mathrm { j } }$ 对t类别影视项目的影响。
+
+融入全局偏置和情境偏置的CAMF评分预测模型如下：
+
+$$
+\hat { r } _ { u \dot { c } _ { 1 } \cdots c _ { k } } = q _ { i } ^ { T } p _ { u } + b _ { u i } + \mathbf { b } _ { \mathrm { c } } = q _ { i } ^ { T } p _ { u } + b _ { i } + b _ { u } + \sum _ { \mathrm { j } = 1 } ^ { \mathrm { k } } \mathbf { b } ( \mathbf { t } ) _ { \mathrm { c } _ { \mathrm { j } } }
+$$
+
+$\hat { r } _ { u i c _ { 1 } \cdots c _ { k } }$ 表示用户 $\mathrm { ~  ~ u ~ }$ 在情境要素c1,c2...,ck下对影视项目i的预测评分。
+
+例如，要预测用户useri对影视节目moviei的评分，假设useri对moviei的喜好程度 $q _ { i } ^ { T } p _ { u }$ 为2.5分，moviei的口碑比其他影视节目低0.5分，即 $b _ { i } = - 0 . 5$ ；另一方面useri是个打分比较随意的用户，一般偏向于给影视节目打高0.3分，即$b _ { u } = 0 . 3$ ，同时，useri在当前情境下对该类影视节目的评分偏向于打高0.2分，即 $\mathbf { b } _ { \mathrm { c } } = 0 . 2$ ，那么useri对moviei的预测打分为 $2 . 5 - 0 . 5 + 0 . 3 + 0 . 2 = 2 . 5$ 分。
+
+# 2.2训练模型
+
+评分预测模型的目标是使预测评分尽可能接近真实值。为了训练模型，设定如下目标函数：
+
+$$
+\begin{array} { c } { { { \displaystyle { \cal L } = \operatorname* { m i n } \sum _ { ( u , i ) \in { \cal K } } \frac { 1 } { 2 } ( r _ { u i } - q _ { i } ^ { T } p _ { u } - b _ { i } - b _ { u } - \sum _ { j = 1 } ^ { k } b ( t ) _ { c _ { j } } ) ^ { 2 } + } } } \\ { { { \displaystyle { \frac { 1 } { 2 } \lambda \biggl ( q _ { i } { } ^ { 2 } + { p _ { u } } ^ { 2 } + { b _ { i } } ^ { 2 } + { b _ { u } } ^ { 2 } + \sum _ { j = 1 } ^ { k } b ( t ) _ { c _ { j } } { } ^ { 2 } \biggr ) } } } } \end{array}
+$$
+
+其中： ${ \bf r } _ { \mathrm { u i } }$ 为训练集中的实际评分；K为已有评分记录的（u，i）对集合， $\lambda \Biggl ( q _ { i } ^ { ~ 2 } + { p _ { u } } ^ { 2 } + { b _ { i } } ^ { 2 } + { b _ { u } } ^ { 2 } + \sum _ { \mathrm { j } = 1 } ^ { \mathrm { k } } \mathrm { b ( t ) _ { c _ { j } } } ^ { 2 } \Biggr )$ 为正则化项； $\lambda$ 为正则化系数，通过调整 $\lambda$ 可以防止训练集数据过度拟合。其他参数的含义与基本矩阵分解算法和上节评分预测模型中的参数一致。
+
+为了优化目标函数L，可以利用随机梯度下降法[15]进行优化训练。对于训练集的每一个评分 $r _ { u i }$ ，按照目标函数L的负梯度方向，不断迭代优化参数 $q _ { i } , p _ { u } , b _ { i } , b _ { u }$ ， $\left. \mathbf { b } ( \mathbf { t } ) _ { \mathrm { c _ { j } } } \right]$ ，最终取得最优解。计算公式如下所示，其中：式（10）为误差公式，式（11） $\sim$ （15）为负梯度方向计算公式（通过求偏导数的方式），式（16）～（20）为参数迭代更新公式。
+
+$$
+\mathbf { e } _ { \mathrm { u i } } = \mathbf { r } _ { \mathrm { u i } } - \hat { r } _ { u \mathrm { i } c _ { 1 } \cdots c _ { k } } = \mathbf { r } _ { \mathrm { u i } } - q _ { i } ^ { T } p _ { u } - b _ { i } - b _ { u } - \sum _ { \mathrm { j } = 1 } ^ { \mathrm { k } } \mathbf { b ( t ) } _ { \mathrm { c _ { j } } }
+$$
+
+$$
+- \frac { \widehat { \alpha } \mathbf { L } } { \widehat { \alpha } q _ { i } } { = } \mathbf { e } _ { \mathrm { u i } } p _ { u } - \lambda q _ { i }
+$$
+
+$$
+- \frac { \hat { \sigma } \mathrm { L } } { \hat { \sigma } p _ { u } } { = } \mathbf { e } _ { \mathrm { u i } } q _ { i } - \lambda p _ { u }
+$$
+
+$$
+- \frac { \partial \mathbf { L } } { \partial b _ { i } } = \mathbf { e } _ { \mathrm { u i } } - \lambda b _ { i }
+$$
+
+$$
+- \frac { \hat { \alpha } \mathrm { L } } { \hat { \sigma } b _ { u } } = \mathbf { e } _ { \mathrm { u i } } - \lambda b _ { u }
+$$
+
+$$
+- \frac { \partial \mathrm { L } } { \partial \mathbf { b } ( \mathbf { \boldsymbol { t } } ) _ { \mathrm { c } _ { \mathrm { j } } } } { = } \mathbf { e } _ { \mathrm { u i } } - \lambda \mathbf { b } ( \mathbf { \boldsymbol { t } } ) _ { \mathrm { c } _ { \mathrm { j } } }
+$$
+
+$$
+q _ { i } = q _ { i } + \gamma \{ - \frac { \hat { \alpha } \mathrm { L } } { \hat { \alpha } q _ { i } } \} = q _ { i } + \gamma \{ \mathrm { e } _ { \mathrm { u i } } p _ { u } - \lambda q _ { i } \}
+$$
+
+$$
+p _ { u } = p _ { u } + \gamma \left( - { \frac { \hat { \alpha } \mathbf { L } } { \hat { \sigma } p _ { u } } } \right) = p _ { u } + \gamma \left( \mathbf { e } _ { \mathrm { u i } } q _ { i } - \lambda p _ { u } \right)
+$$
+
+$$
+b _ { i } = b _ { i } + \gamma \left( - { \frac { \hat { \partial } \mathbf { L } } { \hat { \partial } b _ { i } } } \right) = b _ { i } + \gamma \left( \mathbf { e } _ { \mathrm { u i } } - \lambda b _ { i } \right)
+$$
+
+$$
+b _ { u } = b _ { u } + \gamma \left( - \frac { \hat { \alpha } \mathbf { L } } { \hat { \alpha } b _ { u } } \right) = b _ { u } + \gamma \left( \mathbf { e } _ { \mathrm { u i } } - \lambda b _ { u } \right)
+$$
+
+$$
+\mathbf { b } { \left( \mathbf { t } \right) } _ { \mathrm { c } _ { \mathrm { j } } } = \Re { \left( \mathbf { t } \right) } _ { \mathrm { c } _ { \mathrm { j } } } + \gamma \left( - { \frac { \widehat { \alpha } \mathbf { L } } { \widehat { \alpha } \mathbf { b } { \left( \mathbf { t } \right) } _ { \mathrm { c } _ { \mathrm { j } } } } } \right) = \mathbf { b } { \left( \mathbf { t } \right) } _ { \mathrm { c } _ { \mathrm { j } } } + 7 \gamma { \left( \mathbf { e } _ { \mathrm { u i } } - \lambda \mathbf { b } { \left( \mathbf { t } \right) } _ { \mathrm { c } _ { \mathrm { j } } } \right) }
+$$
+
+其中： $\boldsymbol { \gamma }$ 为学习率也是梯度下降的步长，通过实验不断优化调整。
+
+# 2.3算法流程及流程图
+
+本节给出CAMF算法计算目标用户 $\mathrm { ~  ~ u ~ }$ 对项目i的评分预测函数的流程及流程图。
+
+输入：用户一项目评分矩阵R，学习率 $\gamma$ ，正则化系数 $\lambda$ 迭代次数 $\mathfrak { n }$ 和特征向量维度d。
+
+开始:
+
+a）将数据分为训练集，测试集，验证集。
+
+设置相关参数的初始值。用户潜在特征矩阵P和项目潜在特征矩阵Q用和 sqr(d)成正比的随机数进行填充，b 和b初始成全0的向量，t类别项目下的 $ { b } ( \mathbf { t } ) _ { \mathrm { c _ { j } } }$ 初始成全0的contextValueNum(情境变量 $c _ { j }$ 的取值个数)维向量。
+
+b)迭代。
+
+对于训练集中的每组评分记录 ${ \bf r } _ { \mathrm { u i } }$ ：(a)根据式(11)～(15)计算负梯度下降方向，(b）根据式(16)\~(20)更新参数。计算验证集平均绝对误差MAE(详见3.2)，直到MAE收敛或达到迭代次数 $\mathfrak { n }$ 。
+
+输出：目标用户 $\mathrm { ~  ~ u ~ }$ 对项目i的评分预测函数参数。
+
+结束。
+
+其流程如图1所示。
+
+![](images/7244f959ac20c35628c302f378935a1f6df57e3f70a8f5983332667c6b46ea2c.jpg)  
+图1CAMF 算法流程  
+Fig.1Flow chart of CAMF algorithm
+
+# 2.4 时间复杂度分析
+
+基于用户的协同过滤算法的时间开销主要在相似度计算中，若用户的数量为 $\mathfrak { n }$ ，项目的数量为 $\mathrm { ~ m ~ }$ ，则时间复杂度为${ \mathrm { O } } ( { \mathrm { n } } ^ { 2 } )$ 。对于基本矩阵分解算法，如果有 $\mathbf { k }$ 条评分记录，特征向量维度为f，迭代s次，则时间复杂度为 $\mathrm { { O } ( k ^ { * } f ^ { * } s ) }$ 。对于Baseline预测算法，时间复杂度为 $\mathrm { O ( k ^ { * } s ) }$ 。而对于CAMF算法，如果考虑的情境要素为c个，则时间复杂度为$\mathrm { O ( k ^ { * } ( f + c ) ^ { * } s ) }$ 。
+
+由上可知，CAMF算法和基本矩阵分解算法在时间复杂度上相差不大，Baseline预测算法的时间复杂度小于以上两种算法。而如果 $\sqrt { \mathbf { k } ^ { * } ( \mathbf { f } + \mathbf { c } ) ^ { * } \mathbf { s } } > \mathbf { n }$ ，则CAMF算法的时间复杂度高于基于用户的协同过滤算法。在一般情况下，矩阵分解算法的时间复杂度要稍微高于基于用户的协同过滤算法，因为矩阵分解算法需要多次迭代。但总体上，这两种算法在时间复杂度上没有质的差别[7]。
+
+# 3 实验与分析
+
+本章主要针对本文提出的CAMF算法与基于用户的协同过滤算法、基本矩阵分解算法和Baseline预测算法进行实验对比分析，以验证该算法的有效性。接下来，本文首先介绍实验用到的数据集、实验环境和评估方法，然后设计实验并对结果进行对比分析。
+
+# 3.1数据集及实验环境
+
+LDOS-CoMoDa是一个电影评分数据集，它具有开源和包含丰富的情境要素的优点，从而被研究情境感知的学者广泛使用。因此，本文选用该数据集进行实验。该数据集包含了121个用户对1232部电影的2296条评分记录，评分的取值是 $1 \sim 5$ 。该数据集的详细参数如表2所示。LDOS-CoMoDa数据集共包含30个变量,其中,time、daytype、location、weather、social、mood、endEmo、physical、decision和 interaction 属于情境要素中的动态信息；age 和 sex 属于情境要素中的静态信息。因此，实验考虑以上12个情境要素。这些要素的取值都为正整数，如果缺失的话，它的值被设置为-1。为了处理方便，实验对数据做以下处理：a)将具体的年龄值划分为1\~18 岁、19\~40 岁、41\~60 岁和60 岁以上四段；b)将年龄缺失值用均值进行填充，其他要素缺失值用该要素取值的众数（出现频率最高的值）进行填充。以上情境要素的描述如表3所示。
+
+实验环境为：Windows 10 操作系统，8GB 内存，Intel(R)Core(TM) i7-3770 CPU $3 . 4 0 \ : \mathrm { G H z }$ ，实验程序使用Python3 语言开发。
+
+Table 2 Description of LDOS-comoda movie score data set   
+
+<html><body><table><tr><td></td><td>评分范围 评分总数</td><td>用户数</td><td>项目数</td><td>变量总数用户属性</td><td></td><td>稀疏度</td></tr><tr><td>[1~5]</td><td>2296</td><td>121</td><td>1232</td><td>30</td><td>4</td><td>98.45%</td></tr></table></body></html>
+
+\*稀疏度：评分矩阵中未评分数与总数的比值
+
+表2LDOS-CoMoDa电影评分数据集描述  
+表3情境要素描述  
+Table 3Description of context elements   
+
+<html><body><table><tr><td>情境变量</td><td>取值</td><td>描述</td></tr><tr><td>time</td><td>Morning(1),Afternoon(2),Evening(3),Night(4)</td><td>时间</td></tr><tr><td>daytype</td><td>Working day(1),Weekend(2),Holiday(3)</td><td>日期</td></tr><tr><td>locatin</td><td>Home(1),Public place(2),Friend's house(3)</td><td>地点</td></tr><tr><td rowspan="2">weather</td><td>Sunny/clear(1),Rainy(2),Stormy(3),</td><td>天气</td></tr><tr><td>Snowy(4), Cloudy(5)</td><td></td></tr><tr><td rowspan="3">social</td><td>Alone(1),My partner(2),Friends(3),</td><td></td></tr><tr><td>Colleagues(4),Parents(5),Public(6),</td><td>伴侣</td></tr><tr><td>My family(7)</td><td></td></tr><tr><td>mood</td><td>Positive(1), Neutral(2),Negative(3)</td><td>心情</td></tr><tr><td>endEmo</td><td>Sad(1),Happy(2), Scared(3), Surprised(4), Angry(5),Disgusted(6),Neutral(7)</td><td>观后情绪</td></tr><tr><td>physical</td><td>Healthy(1),Il(2)</td><td>身体状况</td></tr><tr><td>decision</td><td>User's choice(1), Given by other(2)</td><td>观影决定</td></tr><tr><td>interaction</td><td>First(1),n-th(2)</td><td>观影次数</td></tr><tr><td>age</td><td>1-18(1),19-40(2),41-60(3),60 以上(4)</td><td>年龄</td></tr><tr><td>sex</td><td>Male(1), Female(2)</td><td>性别</td></tr></table></body></html>
+
+# 3.2评估方法
+
+实验采用平均绝对偏差MAE（meanabsoluteerror）作为推荐算法准确度的评估方法。MAE通过计算用户的预测评分和实际评分的偏差来衡量算法的准确性，MAE值越小，准确度越高，推荐质量越高。MAE的计算公式为
+
+$$
+\mathrm { M A E } = { \frac { \sum _ { i = 1 } ^ { N } { \left| { P _ { i } - R _ { i } } \right| } } { N } }
+$$
+
+其中： $\mathrm { ~ N ~ }$ 为测试集大小； $P _ { i }$ 为用户预测评分； $R _ { i }$ 为用户实际评分。
+
+# 3.3 实验结果与分析
+
+为了使测试结果更加精确，本文采用十折交叉验证的方法来进行实验。在进行基于用户的协同过滤算法实验时，将LDOS-CoMoDa数据集分为10份，轮流将其中1份作为测试集，9份作为训练集进行实验。而在进行基本矩阵分解算法、Baseline预测算法和CAMF算法实验时，将数据集分为10份，轮流将其中1份作为测试集，1份作为验证集，8份作为训练集进行实验，最后取10次结果的均值作为最终结果。
+
+# 3.3.1基于用户的协同过滤算法实验
+
+实验中设定近邻数量k的取值为[5，50]，采用区间渐进的方法，间隔为5，通过调整 $\mathbf { k }$ 值来观察实验结果，如图2所示。可以看出，MAE均值在 $0 . 9 6 { \sim } 0 . 9 8$ 间波动，当 $\scriptstyle \mathbf { k } = 3 0$ 时，MAE均值取得最小值，为0.959818，此时推荐的效果最优。
+
+![](images/6308d552ac898590d47a2b37c24afffa768972ebde52e78e596c952e9948e5d9.jpg)  
+图2基于用户的协同过滤方法MAE均值
+
+3.3.2基本矩阵分解算法实验
+
+实验中设定预测函数中的正则化系数 $\lambda$ 和学习率 $\gamma$ 的取值同为[0.01，0.05]，同样采用区间渐进的方法，间隔为0.01，通过调整 $\lambda$ 和 $\gamma$ 来获得不同的实验结果，设置迭代次数为100次，特征向量维度为10，实验结果如图3所示。可以看出，MAE均值在 $1 . 9 4 { \sim } 2 . 0 4$ 间波动，当正则化系数 $\scriptstyle \lambda = 0 . 0 3$ 且学习率 $\gamma = 0 . 0 1$ 时，MAE均值取得最小值，为1.95012，此时推荐的效果最优。
+
+![](images/f95af689aa51563a49245378bbc0c8222f22e32d10d65fb74fc2a9de23d75c06.jpg)  
+Fig.2User-based collaborative filtering method MAE mean   
+图3基本矩阵分解算法不同 $\boldsymbol { \gamma }$ ， $\lambda$ 实验结果  
+Fig.3Experimental results of different basic matrix factorization algorithms for $\gamma$ and $\lambda$   
+图6MAE均值对比  
+Fig.6MAE mean comparison
+
+# 3.3.3Baseline预测算法实验
+
+实验参数设置与基本矩阵分解算法实验一致，实验结果
+
+如图4所示。可以看出，MAE均值在 $0 . 8 { \sim } 0 . 8 4$ 间波动，当正则化系数 $\lambda = 0 . 0 3$ 且学习率 $\gamma = 0 . 0 4$ 时，MAE 均值取得最小值，为0.806097，此时推荐的效果最优。
+
+![](images/a47126c141d3adbf19118c03397f730f1c56d0a978b45318731610edeed54faf.jpg)  
+图4Baseline 预测算法不同 $y , \lambda$ 实验结果  
+Fig.4Experimental results of different Baseline prediction algorithms for $\boldsymbol { \gamma }$ and $\lambda$
+
+# 3.3.4CAMF算法实验
+
+# 3.3.5结果对比分析
+
+通过以上实验，得到了基于用户的协同过滤算法、基本矩阵分解算法、Baseline预测算法和CAMF算法的运行结果，现将以上实验的最优值和平均值汇总到图6中。可以看出，在最优值方面，基于用户的协同过滤算法在最近邻 $\mathbf { k } = 3 0$ 时，取得最优MAE均值0.959818，基本矩阵分解算法在正则化系数 $\lambda = 0 . 0 3$ 且学习率 $\gamma = 0 . 0 1$ 时，取得最优 MAE 均值1.950 12，Baseline 预测算法在 $\lambda = 0 . 0 3$ 且 $\gamma = 0 . 0 4$ 时，取得最优MAE均值0.806 097，而CAMF 算法在 $\lambda = 0 . 0 4$ 且 $\gamma =$ 0.01时，取得最优MAE均值0.746469，相比以上三种算法最优MAE均值分别下降了近 $2 2 . 2 2 \%$ 、 $6 1 . 7 2 \%$ 和 $7 . 4 \%$ ；在平均值方面，基于用户的协同过滤算法平均MAE均值为0.964228，基本矩阵分解算法平均MAE均值为1.967378，Baseline预测算法平均MAE均值为0.816832，而CAMF算法平均MAE均值为0.773913，相比以上三种算法平均MAE均值分别下降了近 $1 9 . 7 4 \%$ 、 $6 0 . 6 6 \%$ 和 $5 . 2 5 \%$ 。说明该算法具有更高的准确性，推荐的效果更优。
+
+2.5  
+215 1 山山  
+0.50最优值 平均值基于用户的协同过滤算法■基本矩阵分解算法■Baseline预测算法■CAMF算法
+
+# 4 结束语
+
+本文提出了一种基于情境感知的矩阵分解CAMF 算法，通过在基本矩阵分解算法的基础上融入全局偏置和情境偏置来改善在移动环境下使用传统推荐算法进行个性化影视推荐时存在的准确度不高的问题。该算法一方面通过矩阵分解的方式降低了评分矩阵的维度，另一方面充分融入了情境要素对用户评分的影响，使得预测评分更加精准，推荐的效果更优。最后，通过实验与基于用户的协同过滤算法、基本矩阵分解算法和Baseline预测算法进行比较，该算法的MAE值平均分别降低了近 $1 9 . 7 \%$ 、 $60 . 7 \%$ 和 $5 . 3 \%$ ，从而验证了该算法的有效性。本文的研究不足之处在于赋予所有的情境要素相同的权重，忽略了不同的情境要素对于推荐结果影响力的不同，在后续研究中进一步解决该问题。
+
+# 参考文献：
+
+[1] 洪亮，冉从敬，吴志强．移动环境下基于共同兴趣的情境感知信息 推荐研究[J].情报理论与实践,2014,37(11):124-128.(Hong Liang, Zhai Congjing，Wu Zhiqiang.Research on situational perception information recommendation based on common interest in mobile environment [J]. Information Theory & Practice,2014，37(11):   
+124-128.) [2]郭顺利，李秀霞．基于情境感知的移动图书馆用户信息需求模型构 建[J].情报理论与实践,2014,37(8):64-68.(Guo Shunli,Li Xiuxia. Construction of user information demand model for mobile library based on context awareness [J].Information Theory & Practice,2014,   
+37(8): 64-68.) [3]曾子明，陈贝贝．移动环境下基于情境感知的个性化阅读推荐研究 [J]．情报理论与实践，2015,38(12):31-36.(Zeng Ziming，Chen Beibei.Research on personalized reading recommendation based on situational perception in mobile environment [J]. Information Theory & Practice,2015,38(12):31-36.) [4]田雪筠．基于情境感知的移动电子资源推荐技术研究[J].情报理 论与实践，2015，38(5):86-89.(Tian Xuewei．Researchon recommendation technology of mobile electronic resources based on context awareness [J].Information Theory& Practice,2015,38(5):   
+86-89.) [5]Kim J,Lee D,Chung K Y. Item recommendation based on context-aware model for personalized $\mathrm { ~  ~ u ~ }$ -healthcareservice[J]. Multimedia Tools & Applications,2014,71 (2): 855-872. [6]洪亮，钱晨，樊星．移动数字图书馆资源的情境感知个性化推荐方 法研究[J].现代图书情报技术,2016,32(7):110-119.(Hong Liang, QianChen， FanXing.Research onsituationalperception personalization recommendation method of mobile digital library resources [J].Modern Library and Information Technology,2016,32 (7): 110-119.)   
+[7]项亮．推荐系统实践[M]．北京：人民邮电出版社，2012.(Xiang Liang. Recommended system practice [M]. Beijing:People's Posts and Telecommunications Press,2012.）   
+[8]Dey A K. Providing architectural support for building context-aware applications [J].Phd Thesis Georgia Institute of Technology,2000,25 (2): 106-111.   
+[9]Schilit B,Adams N,Want R. Context-aware computing applications [C]// Proc of Workshop on Mobile Computing Systems & Applications. 1994: 85-90.   
+[10] Dey A K. Understanding and using context personal and ubiquitous computing journal [J].Personal & Ubiquitous Computing,2oo1,5(1): 4-7.   
+[11]蒋艳荣，李卫华，杨劲涛．上下文感知驱动的自适应个性化学习及 交互[J].智能系统学报,2014(1):60-68.(Jiang Yanrong,LiWeihua, Yang Jintao.Context-aware-driven adaptive personalized learning and interaction [J]. Journal of Intelligent Systems,2014(1): 60-68.)   
+[12]李晟．基于情境感知的个性化电影推荐[D].北京：北京邮电大学, 2012.(Li Wei. Personalized film recommendation based on context perception[D]. Beijing:BeijingUniversity of Postsand Telecommunications,2012.）   
+[13] Kosir A,Odic A,Kunaver M,et al.Database for contextual personalization [J].Elektrotehniski Vestnik/Electrotechnical Review, 2011,78 (5): 270-274.   
+[14] 余永红，高阳，王皓，等．融合用户社会地位和矩阵分解的推荐算法 [J]．计算机研究与发展，2018,55(1):113-124.(Yu Yonghong,Gao Yang,Wang Wei,et al. Recommendation algorithm for integrating user social status and matrix decomposition [J]. Journal of Computer Research and Development, 2018,55(1): 113-124.）   
+[15] Salakhutdinov R,Mnih A.Bayesian probabilistic matrix factorization using Markov chain Monte Carlo [C]//Proc of International Conference on Machine Learning.[S.L] :ACM Press,2008: 880-887.   
+[16]王建芳，张朋飞，刘永利．基于改进带偏置概率矩阵分解算法的研 究[J].计算机应用研究，2017,34（5):1397-1400.（Wang Jianfang, Zhang Pengfei,Liu Yongli. Research on decomposition algorithm based on improved band offset probability matrix [J].Journal of Computer Applications,2017,34(5):1397-1400.)   
+[17] Baltrunas L,Ludwig B,Ricci F. Matrix factorization techniques for context aware recommendation [C]// Proc of ACM Conference on Recommender Systems.2011.

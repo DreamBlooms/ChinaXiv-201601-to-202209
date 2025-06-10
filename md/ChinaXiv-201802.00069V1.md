@@ -1,0 +1,116 @@
+# 叶片扩压器对离心压气机整机性能影响的实验及数值研究
+
+王志恒 张鲲羽 王宏亮 席光（西安交通大学能源与动力工程学院，西安710049）
+
+摘 要：以一高压比离心压气机级为研究对象，设计制造了三种不同的扩压器，采用实验和数值方法研究了扩压器进口安装角和叶片型线对级性能的影响。结果表明，扩压器进口安装角减小时，性能曲线向小流量区移动，最高效率和压比降低。采用低稠度机翼形扩压器时，级工况范围稍有扩展，但效率和压比显著降低。流场分析显示，进口安装角减小时，扩压器凸面流动分离区扩大，堵塞流道且增大损失。采用低稠度机翼形扩压器时，扩压器内更容易产生大尺度分离涡。
+
+关键词：叶片扩压器；进口安装角；型线；性能中图分类号：0354.2 文献标识码：A
+
+# Experimental and Numerical Investigations on Effects of Vaned Diffuser on Performance of Centrifugal Compressor
+
+WANG Zhi-HengZHANG Kun-Yu WANG Hong-LiangXI Guang School of Energy and Power Engineering,Xi'an Jiaotong University,Xi'an 71oo49,China)
+
+Abstract:Three vaned difusers fora high-pressure-ratio centrifugal compresor are designed,and the effects of inlet blade angleand blade profile of diffser on the stage performance are investigated bythe experiment and numerical simulations.The results show that,the decrease of inlet blade angle makes the performance curve move towardsthe low flow rate side,and the litle drops of the peak stage eficiency and pressure ratio can be detected. The low-solidity airfoil difuser can enlarge the operating range of stage,but decreases the stage efficiency and pressureratio remarkably.The further flowanalysis show that,decreasing the inlet bladeangle leads to the spread of flow separation zone,the blockage offlow channels and the increase of losses.The large-scale flow separation is more likely to generate when the low-solidity airfoil diffuser is adopted.
+
+Key words: vaned diffuser; inlet blade angle; blade profile; performance
+
+# 0引言
+
+叶片扩压器是高压比离心压气机的重要部件，扩压器结构对离心压气机的气动性能有比较大的影响。近年来，国内外学者对叶片扩压器气动和结构参数都进行了相当多的实验和数值研究[1-5]。相关研究均表明，叶片扩压器进口安装角和叶型是影响压气机级性能的重要参数。
+
+本文采用实验方法研究了在高压比离心压气机中扩压器进口安装角对级性能的影响，并探讨了将平面叶栅吹风实验所获得的翼型厚度分布直接应用于环形叶栅时的性能。并进行数值计算，对流场进行对比分析。
+
+# 1叶片扩压器设计方法
+
+为了研究叶片扩压器进口安装角和叶型的影响，本文对高压比离心压气机叶片扩压器采用了3种不同的设计方案，设计参数如表1所示。其中，扩压器I和扩压器II叶片厚度沿百分比子午弦长的分布相同（如图1），而进口安装角不同，其沿子午弦长的分布如图2所示。扩压器III是采用单圆弧中弧线设计和NACA65翼型厚度分布来造型。图3展示了三种扩压器的实物。
+
+表1所研究的3种不同叶片扩压器设计参数  
+Table 1 Design parameters of three investigated vaned diffuser   
+
+<html><body><table><tr><td>扩压 器</td><td>进口 半径 (mm)</td><td>出口 半径 (mm)</td><td>进口 安装 角（°）</td><td>出口 安装 角（°）</td><td>叶 片 数</td><td>叶栅 稠度</td></tr><tr><td>编号 I</td><td rowspan="4">110</td><td rowspan="4">166</td><td>15.8</td><td rowspan="4"></td><td rowspan="2">21</td><td>3.63</td></tr><tr><td>II</td><td>25</td><td>3.57</td></tr><tr><td></td><td>13</td><td>9</td></tr><tr><td>III</td><td></td><td>1. 96</td></tr></table></body></html>
+
+![](images/c879552089a6d0918eb8f271bf49de5c21fe18600c720d57738d00508b84cabf.jpg)  
+图1扩压器叶片厚度分布
+
+![](images/7beb1884a1c82e70dab2c96866f3b8eeb2913aedea288746e6a92a92626d54d0.jpg)  
+Fig.1 Blade thickness distribution of diffuser   
+图2不同的扩压器安装角分布
+
+![](images/b3fdb7dd87a387ae69a619d39ae347981a8db8d12f90bb0c42390ea0a365efe5.jpg)  
+Fig.2 Blade angle distribution of diffuser   
+图3扩压器实物图  
+Fig. 3 Diffuser pictures
+
+# 2整机性能实验
+
+为了比较不同叶片扩压器下的离心压气机性能，在西安交通大学气动实验室高速离心压气机实验台上进行了离心压气机整机气动性能测试。实验采用同一叶轮分别匹配三种扩压器进行。实验转速由 $2 5 0 0 0 \mathrm { r p m }$ 至 $4 5 0 0 0 \mathrm { r p m }$ ，测定了四个转速下匹配不同扩压器的整机性能。匹配扩压器I和II的级性能曲线如图4所示。
+
+![](images/a7918e72737038ebbf4e7d07e2ff7c0c9abd4a2d96dce96e421f6d02a8a5e697.jpg)  
+图4匹配扩压器I与扩压器II的级性能曲线 Fig.4 Comparison of performance curves of stages with Diffuser I and Diffuser II
+
+扩压器进口安装角减小时，整机性能曲线向小流量方向偏移，但近失速点向小流量区的扩展幅度小于堵塞流量的减小，因此其稳定工况范围缩小。同时，整机最高效率和压比均有所下降。随着转速的升高，性能曲线向小流量区扩展的幅度增大。在不同转速下，最高效率下降程度接近，无明显差异，而压比的下降程度则随着转速的升高而增大。因此，扩压器进口安装角对工况范围具有很强的调节作用，且对整机性能有较大影响。
+
+图5给出匹配扩压器II和扩压器III的级测试性能。匹配两种扩压器的压气机具有近似相同的近失速边界。在匹配扩压器II的级性能曲线上，效率和压比快速上升至较高水平。在大部分流量范围内，匹配扩压器II的压气机级效率和压比更高。这说明按照传统的单圆弧中弧线叠加NACA叶型厚度分布的设计难以保证良好的气动性能。这主要是因为，NACA叶型的厚度分布是在平面叶栅吹风实验下获得的，在叶片扩压器设计中直接采用该叶型形成环形叶栅，流动条件和通道扩压度均发生了显著的变化，流动特征也随之变化，这在下文的数值流动分析中可以得到论证。
+
+![](images/a5ce8be693526c7159792b36b774876ae884d8696c83f4b7ac5d128076aaabbf.jpg)  
+图5匹配扩压器II与扩压器III的级性能曲线 Fig.5 Comparison of performance curves of stages with Diffuser II and Diffuser III
+
+# 3数值模拟流场分析
+
+为全面考虑扩压器对其上下游部件内流动的影响，采用整机数值模拟方法研究扩压器结构对级性能的影响。计算域包含离心叶轮、叶片扩压器和蜗壳。数值模拟采用NUMECA软件进行，采用中心差分格式求解三维时均N-S方程组。湍流模型采用 $\operatorname { S - A }$ 一方程湍流模型。图6显示了匹配扩压器I的整机计算网格。
+
+图6整机计算模型及网格划分  
+![](images/2191fe0b4d6b333ea1ce0808aed37ad596fdcefd8e61198e63b8614ebef40c20.jpg)  
+Fig.6 Computational domain and mesh
+
+# 3.2扩压器进口安装角对流场的影响
+
+选取质量流量 $Q _ { \mathrm { i n } } \mathrm { = } 1 . ~ 1 5 ~ \mathrm { ~ k g / s }$ 的工况点，分析在同一流量下不同扩压器的性能。另外同时选取扩压器II在 $Q _ { \mathrm { { h } } } \mathrm { { = } } 1 . ~ 1 5 ~ \mathrm { {  k g / s } }$ 和 $\mathrm { \Delta } Q _ { \mathrm { { n } } } { = } 1 . 0 5 \mathrm { k g / s }$ 下的流场进行对比，以进一步分析扩压器II在不同流量时的流动状况和阐明性能曲线在扩压器进口安装角减小时向小流量区移动的本质。
+
+图7绘出了扩压器I和II在不同工况下 $5 0 \%$ 叶高截面的流线分布。对比图(a)与图(b)，同一流量下，扩压器I中流动平稳，在凸面尾部形成一个很小的涡，气流在该处产生分离；而在扩压器II中，该涡明显扩大，占据了相当一部分流道。这使得扩压器II中有效通流面积减小，不仅降低了扩压度，还使气体部分能量在漩涡中耗散。这说明，扩压器进口安装角减小，气流进入扩压器的冲角减小，使凹面侧气流进一步压紧，而凸面流动分离范围则有所扩大。从图(b)、图(c)中可以看出，在扩压器II中，随着流量的减小，凸面侧流动分离范围显著减小。这说明，随着流量减小，扩压器的进气冲角增大，抑制了凸面侧的流动分离。
+
+# 3.1数值模拟方法
+
+![](images/32ed090cef75e5988678fe59d6ccafa63cd5f2f58fd184da7b8e0936360feee7.jpg)
+
+Fig.7 Streamline distribution at $5 0 \%$ spans of Diffuser I and Diffuser II at different operating points
+
+图8给出不同工况下 $5 0 \%$ 叶高截面扩压器I与扩压器II叶片表面静压分布。当 $Q _ { \mathrm { { n } } } \mathrm { { = } } 1 . 1 5 \mathrm { { k g / s } }$ 时，相比于扩压器I，扩压器II中流动状况很差，其叶片表面静压大幅下降。在扩压器II中，凸面侧出现流动分离，该侧气流的能量很大一部分在漩涡中转化为内能，凹面侧虽然无分离，但由于流道内有效通流面积减小，该侧气流扩压不够，大量能量仍以动能形式存在。整体来说，在该工况下，扩压器II并未将气流的动能有效转化为压力能。流量减小后，扩压器II中流动显著改善，扩压能力恢复至较高水平。
+
+![](images/9adf7cb2e1df9fe2f0b22156fa98f5f0a3ce94a7acc63fd908cfda9ce60bbb9b.jpg)  
+图8不同工况下 $5 0 \%$ 叶高截面扩压器I与扩压器II叶片表面静压分布Fig.8 blade static pressure distribution at $5 0 \%$ spansof Diffuser I and Diffuser II at different operatingpoints
+
+# 3.2低稠度机翼形叶栅对流场的影响
+
+扩压器II和III的内流动的差别主要来自于叶片型线和叶片数的不同。图9展示了 $\mathrm { \Delta \mathcal { Q } _ { \mathrm { n } } = 1 . 0 5 k g / s }$ 时扩压器II和III在 $5 0 \%$ 叶高截面的马赫数分布。
+
+![](images/95901ecfa0c1c176f3a01ac31193f6e83a75525becea79c851ac66a6e4f199ca.jpg)  
+图7不同工况下 $5 0 \%$ 叶高截面扩压器I与扩压器II的流线分布  
+图9 $\mathrm { ? } \ Q \mathrm { { n } = 1 . 0 5 \mathrm { { k g / s } } }$ 时 $5 0 \%$ 叶高截面扩压器II与扩压器III的马赫数分布
+
+Fig.9 Mach number distribution at $5 0 \%$ spans of Diffuser II and Diffuser III at $\mathrm { \Delta \ Q n = 1 . 0 5 k g / s }$
+
+从图中可以看出，扩压器III由于叶片数较少，其流道较宽，且通流面积变化剧烈。在整个叶道内，马赫数分布沿周向很不均匀，进口处在凹面侧堆积了大量高速气体，而凸面侧尾部形成一个很大的低马赫数区。
+
+图10给出了 $\theta _ { \mathrm { { n } } } \mathrm { { = } } 1 . 0 5 \mathrm { { k g / s } }$ 时扩压器II和III沿流向在若干等半径面上的熵分布。其半径分别为$\mathrm { R = 1 1 0 . 5 m m }$ 、 $1 1 8 . 5 \mathrm { { m m } }$ 、 $1 5 2 \mathrm { m m }$ 和 $1 8 5 . 5 \mathrm { m m }$ 。在扩压器II中，各截面上熵分布都比较均匀，在整个流道内其流动平稳，未产生较大的分离，在叶片出口后的截面上，其熵值基本处于 $7 0 { - } 1 0 0 \mathrm { ~ J / \left( k g \cdot K \right) }$ 范围内。而在扩压器III 的各截面上，沿周向和展向其熵分布都不均匀，且最大熵值较高，流动损失较大。在叶片出口后的截面上，其熵值仍处于约70-150$\mathrm { J / ( k g \cdot K ) }$ 范围内，同样分布很不均匀。
+
+![](images/de70745ff2a60d9f37ebe10bf4ddcd482257ae03e3c0405a8bceedb3b6ce9855.jpg)  
+图10 $\mathrm { \it { 4 0 1 - 1 . 0 5 \mathrm { k g / s } } }$ 时沿流向各等半径面上扩压器II与扩压器III的熵分布
+
+Fig.10 Entropy distribution at different equal-radius sections at $\mathrm { \Delta \ Q n = 1 . 0 5 k g / s }$
+
+# 4结论
+
+（1）实验研究表明，扩压器叶片进口安装角减小时，级性能曲线向小流量方向移动，级的最高效率和压比稍有下降，工况范围变窄。采用低稠度机翼形扩压器时，级的工况范围稍有扩展，级效率和压比显著下降，说明叶片扩压器设计直接套用平面叶栅吹风实验得到的叶型数据难以保证良好的气动性能。
+
+（2）同一流量下，叶片扩压器进口安装角减小使叶片扩压器进气冲角减小，气流在凸面侧分离区扩大，部分能量在漩涡中耗散。同时，漩涡的存在使有效通流面积减小，导致凹面侧气体也无法有效扩压。
+
+（3）低稠度机翼形扩压器由于叶片数较少，且叶片角与厚度分布不够合理，对气流方向角的控制较差，使扩压器凸面侧气流可能出现大面积流动分离，在各个方向上物理量分布都很不均匀，流动损失增大。这些都极大地降低了级性能。
+
+# 参考文献
+
+[1]Deniz S,Greitzer E M, Cumpsty N A.Effect of Inlet Flow Field Conditions on the Performance of Centrifugal Compressor Diffusers:Part 2--- Straight Channel Diffuser [J].Journal of Turbomachinery.2000,122(1): 11-21.   
+[2]Oh J S,Agrawal G L.Numerical Investigation of Low Solidity Vaned Diffuser pPerformance in a High-Pressure Centrifugal Compressor: Part I - Influence of Vaned Solidity [R].ASME Paper GT2007-27260,2007.   
+[3]席光，周莉，丁海萍等.叶片扩压器进口角度对于离心压 缩机性能影响的数值与实验研究[J].工程热物理学 报.2004，27(1):61-64. XI Guang, ZHOU Li, DING Haiping,et al. Numerical and Experimental Study of the Effects of the Stagger Angles of Vaned Diffuser on the Performance of Centrifugal Compressors [J]. Journal of Engineering Thermophysics. 2006,27(1): 61-64.   
+[4]Kim H W,Park JI,Ryn S H,et al. The Performance Evaluation with Diffuser Geometry Variations of the Centrifugal Compressors in a Marine Engine (70MW) Turbocharger [J]. Journal of Engineering for Gas Turbines and Power.2009,131(1): 1-7.   
+[5]Xi G,Wang Z H, Zhang C M,et al. Aerodynamic Optimization Design of Vaned Diffuser for the $1 0 0 \mathrm { k W }$ Mircoturbine's Centrifugal Compressor [R].ASME Paper GT2008-50440,2008.

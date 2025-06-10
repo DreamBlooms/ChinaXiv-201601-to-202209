@@ -1,0 +1,346 @@
+# DOI:10.5846/stxb201704190706
+
+黄祥童,尹航,黄启健,崔凯峰,赵莹,金慧,刘启斌,段红军.极小种群野生植物对开蕨种群结构特征和群落物种多样性.生态学报,2018,38（7)：2481-2492.  
+HuangXT,inauKJiuHcestifulaticeditseiextremely small populationof protectedPhylitis scolopendrium .Acta Ecologica Sinica,2018,38(7):2481-2492.
+
+# 极小种群野生植物对开蕨种群结构特征和群落物种多样性
+
+黄祥童}，\*,尹航}，黄启健²，崔凯峰'，赵莹'，金慧¹，刘启斌³，段红军³
+
+1长白山科学研究院,长白山生物群落与生物多样性吉林省联合重点实验室,安图133613  
+2 吉林省长白山保护开发区管理委员会，长白山池北区133613  
+3 吉林省抚松县林业局，白山134506
+
+摘要：以国家Ⅱ级保护极小种群野生植物——对开蕨（Phylitis scolopendrium)为研究对象,分析了在海拔729、 $1 0 0 8 \mathrm { m }$ 群落内,其种群大小、分布频度和密度,个体形态特征指标及其在种群内、种群间差异,苗高分布规律、相对苗高组替代年龄级结构,分布格局和群落各层次的物种多样性，群落的相似性。结果表明;对开蕨在自然分布区内为偶见种，呈斑块状分布。在 $4 0 0 \mathrm { m } ^ { 2 }$ 内，海拔$1 0 0 8 \mathrm { m }$ 处(01群落)种群密度为31株,样地分布频度为 $4 3 . 7 5 \%$ ,最大密度15 株 $^ { \prime } 2 5 \mathrm { m } ^ { 2 }$ ;海拔 $7 2 9 \mathrm { m }$ 处(02 群落)种群密度为91株,样地分布频度为 $9 3 . 7 5 \%$ ,最大密度30 株/ $2 5 \mathrm { m } ^ { 2 }$ 。通过对其自然苗高,叶片数量,有孢子囊叶片数量,最大叶片长、宽值,最小叶片长、宽值,冠径,叶片厚度7个形态指标的分析显示,种群内变异较大,随着植株高度(年龄)的增加,其变异系数均随之减小而趋于稳定;种群间在自然苗高,最大叶片长度和宽度,成熟孢子叶片数量,冠径,叶片厚度上达到极显著差异( $P { < } 0 . 0 1 \$ 。其苗高分布呈现双峰型,01种群波谷出现在15.1—20.0cm 处;02 种群波谷出现在 $1 0 . 1 { - } 1 5 . 0 \mathrm { c m }$ 处,两群落均显示有一次较大的更新过程,同时01种群在 $4 0 . 1 { - } 4 5 . 0 \mathrm { c m }$ 出现间断。年龄级分析得出,01种群划分为5个龄级,近于正态分布;02 种群划分为4个龄级,为倒J型分布;两种群分别处于中龄期和幼龄期,没有出现衰退型年龄结构。格局分析得出,对开蕨种群均为聚集分布。两群落的乔木、灌木、草本层的 Shannon-Wiener指数、Pielou均匀度指数、Marglef 丰富度指数、生态优势度和种间相遇机率较低(与地带顶级植被相比)而且分布不均;对开蕨在两群落的草本层中重要值较低,仅为伴生种。两群落相似性分析显示,乔木、灌木、草本层的相似度指数分别为 $6 6 . 6 7 \% . 6 9 . 2 3 \%$ 和 $3 8 . 4 6 \%$ ,草本层差异较大。
+
+关键词：长白山;对开蕨;种群结构;分布格局;物种多样性
+
+# Characteristics of population structure and community species diversity of an extremely small population of protected Phyllitis scolopendrium
+
+HUANG Xiangtong1,\*，YIN Hang'，HUANG Qijian²，CUI Kaifeng',ZHAO Ying'，JIN Hui’，LIU Qibin³.DUAN Hongjun³
+
+1Jlirocbostef   
+2Changbai MountainProtectionandDevelopment ManagementCommiteeof Jilin Province,Chibei District133613,China   
+3Fusong County Forestry Bureau of Jilin Province， Baishan 134506，China
+
+Abstract:For Phylitis scolopendrium，asecond-classnationalprotected wild plant with extremelysmall populations，which isdistributed inanarrowregionof the Changbai Mountains，weanalyzedthe population size，distribution frequencyand density,individualfeatures，andthevariationof interaland exteral populationsat79and1O08mabovesealevel（asl).
+
+The plant height，substituteage structure，distributionpatern，community biodiversity，and similarityof various layers were also described. Results showed that $P$ ，scolopendrium was a typical occasional species，which showed a patchy distribution pattern.At $7 2 9 \mathrm { m }$ asl,the population density was the highest ( $9 1 \ \mathrm { p e r } \ 4 0 0 \mathrm { m } ^ { 2 }$ ），with a distribution frequency of $9 3 . 7 5 \%$ and highest density of $3 0 / 2 5 \mathrm { m } ^ { 2 }$ . At $1 0 0 8 \mathrm { m }$ asl,the population density was only $3 1 \ \mathrm { p e r } \ 4 0 0 \mathrm { m } ^ { 2 }$ ，with a distribution frequency of $4 3 . 7 5 \%$ and highest density of $1 5 / 2 5 \mathrm { m } ^ { 2 }$ . Based on the analyses of morphological features，including plant height，leaf number，sporangium leaf number，maximum leaf length and width，minimum leaf length and width，canopy width，andleaf thickness，wefoundthatthe morphologicalfeaturesoftheinteralpopulationshowed the highestvariation, indicating adecreasing trend with increasing height/age.Additionaly，variations in plant height，mature sporangium leaf number，maximum leaf length and width，canopy width，and leaf thickness all showed significant diferences ( $\scriptstyle { \overrightarrow { P } } < 0 . 0 1$ ）， indicating thatthetwo populations were from diferent species types.Plant height showed a doublepeak pattern.Trough value of type O1 population occurred at $1 5 . 1 { - } 2 0 . 0 \mathrm { c m }$ ，whereas the trough value of the type O2 population occurred at 10.1—15.Ocm.There wasa significant update process in both types，and a break of the type O1 populationat 40.1一 $4 5 . 0 \mathrm { c m }$ .We analyzed the age structure of type Ol and O2 populations and found that there were five age clases of the type O1 population，which showed a normal distribution pattern，whereas the typeO2 population had four age classes，which showedan inverted Jdistribution patern.Type Ol andO2 populations were at juvenileand middleagestages，with no trend of senescence.Based on the spatial pattern analysis，we found that $P$ . scolopendrium showed a negative binomial distribution patern.The diversityindices，including Shannon-Wiener，Pielou，and Margalef，showed thatthe similarity index of tree, shrub，and herb layersinthetwo types was low，indicatingalowbiodiversitystatus compared with the local climax community.Phylitis scolopendrium was considered a companion species because oflower importance value in type Ol and 02 communities.Similarityanalyses showed that plants in treeand shrub layers were the most similar，folowed by the herb layer with values of $6 6 . 6 7 \%$ ， $6 9 . 2 3 \%$ ，and $3 8 . 4 6 \%$ respectively，indicating that the herb layer had the most variation.
+
+Key Words:Changbai Mountains;Phylitis scolopendrium;population structure;distribution pattrn;species diversity
+
+种群是构成群落的基本单位,是物种存在与适应、遗传和进化的基本单位,也是联系个体、群落和生态系统之间的纽带[1]。近代,由于环境急剧变化和特殊生境的消失,使许多种群来不及产生新的变异去适应而出现了低于最小存活种群界线的野生植物,它们濒临灭绝危险,最需要优先保护[2]。在珍稀濒危植物和重点保护植物管理的实践中,我国云南省于2005 年向国家林业局提交了《云南省特有野生动植物极小种群保护工程项目建议书》,首次提出了极小种群的概念。极小种群野生植物包括分布地域狭窄或间断、长期受到外界因素干扰而呈现种群退化和数量持续减少、种群及个体数量都极少，已经低于稳定存活界限的最小可存活种群而随时濒临灭绝的野生植物种类[3」。其最小存活种群是指该物种以一定概率存活一定时间所需的最少个体数[4]。极小种群概念第一次从种群角度,作为野生植物生物多样性保护与拯救的重要内容而逐步被接受和认可[5],而国际上亦对此类研究的关注度逐渐在增加[6]。其本质是基于种群管理条件下物种维持和延续。强调对种群数量、规模、结构特征和动态的调节与管理[7],以期实现种群稳定发展和物种长期保存之目标。
+
+研究极小种群结构及特征不仅可以了解种群现状,而且有助于评估生存状况和分析未来的发展动态。种群大小是IUCN 评估物种濒危等级5个指标中最重要的指标[8],它包括种群数量和种群规模,种群数量是决定种群遗传与分化的内在遗传物质基础。种群规模是个体数量的体现形式。极小种群个体形态在异质生境中的不同发育阶段和配置状态,造成个体占据环境空间能力差异,优势个体递进扩散和劣势个体退化及死亡，因而对极小种群空间分布格局产生实质性影响[9-11]。极小种群的年龄结构不仅反映种群个体的组合与配置，也反映了种群数量动态及未来的发展趋势[12]。群落物种多样性以种群为基础,包括物种丰富度和均匀度。均匀度对极小种群的空间结构和分布产生实质性影响。因此,系统测算极小种群植物的种群参数,分析种群的结构特征[13]和群落的物种多样性,对揭示极小种群野生植物长期生存潜力[14]和种群维持机制[15]有重要
+
+意义。
+
+对开蕨（Phylitis scolopendrium)是长白山区分布的国家Ⅱ级重点保护植物[16]。数量稀少,分布地域狭窄或间断。中国仅一属一种[17],是我国新记录种[18]。自1980 年在中国发现以来，一些学者先后对其组织结构、形态解剖[1-21] 、配子体发育机理和孢子育苗及引种栽培技术[2-26]、组织培养和孢子体诱导技术[27-29]以及对光、空气湿度和栽培基质的生理适应性[30-39]等方面进行了研究。黄祥童等[40]通过野外调查,研究了对开蕨群落种间联结性和群落稳定性。而从极小种群角度分析对开蕨种群结构特征及群落物种多样性方面未见报道。为此,急需运用种群生态学原理和方法,开展对开蕨现状调查和分析,获得其种群数量、种群规模、种群结构特征、群落物种多样性信息,为分析种群生存现状,建立极小种群濒危程度评价体系[41],探讨致濒机理,提出有效的保护措施提供依据。
+
+# 1研究方法
+
+# 1.1 研究区域概况
+
+研究地点位于吉林省临江市,地处长白山西南麓的鸭绿江北岸,地理坐标为： $1 2 6 ^ { \circ } 1 1 ^ { \prime } \mathrm { - } 1 2 7 ^ { \circ } 3 5 ^ { \prime } \mathrm { E }$ ，$4 1 ^ { \circ } 2 7 ^ { \prime }$ 一 $4 2 ^ { \circ } 0 4 ^ { \prime } \mathrm { N }$ 。属中温带大陆性季风气候。年均气温 $4 . 7 \% , 7$ 月均温 $2 2 . 3 ^ { \circ } \mathrm { C } , 1 ^ { \circ }$ 月均温 $- 1 7 . 3 \mathrm { { ^ circ C } }$ ,气温年较差 $3 9 . 6 ^ { \circ } \mathrm { C } \mathrm { ~ , } \gtrless 1 0 ^ { \circ } \mathrm { C }$ 活动积温 $2 7 5 9 . 7 \mathrm { { ^ { \circ } C } }$ ,日照百分率 $5 1 \%$ ;年均降水量856.5mm,6-9月降水量占全年的 $7 0 . 6 \%$ ，年均蒸发量 $1 0 3 3 . 4 \mathrm { { m m } }$ ,相对湿度 $71 \%$ ,年最大水汽压 $3 2 . 7 \mathrm { P a }$ ,年均大雾6.6d。
+
+# 1.2样地设置与调查
+
+在临江市花山镇四道洋岔(01样地,海拔 $1 0 0 8 \mathrm { m }$ )和五道沟(02样地，海拔 $7 2 9 \mathrm { m }$ ），仅发现两片对开蕨原始群落,均位于西北坡。01样地位于 $1 2 6 ^ { \circ } 5 6 ^ { \prime } 0 3 . 4 9 ^ { \prime \prime } \mathrm { E } , 4 1 ^ { \circ } 5 3 ^ { \prime } 2 3 . 5 4 ^ { \prime \prime } \mathrm { N }$ ，坡度 $2 8 ^ { \circ }$ ,树种组成(断面积)为2硕桦(Betula costata)2榆(Ulmus spp.)1胡桃楸（Juglans mandshurica)1紫椴(Tilia amurensis）1水榆花楸（Sorbusalnifolia)1色木槭(Acer mono) $^ +$ 花楸（Sorbus pohuashanensis）-槭( $A$ ，spp.）,林分郁闭度0.78;02样地位于 $1 2 7 ^ { \circ }$ $0 9 ^ { \prime } 2 9 . 9 ^ { \prime \prime } \mathrm { E }$ $4 1 ^ { \circ } 4 3 ^ { \prime } 0 7 . 1 6 ^ { \prime \prime } \mathrm { N }$ ,坡度 $5 6 ^ { \circ }$ ,树种组成(断面积)为4硕桦2紫椴2色木槭 $+$ 榆-槭,林分郁闭度0.72。调查中沿等高线,按南北向设置 $2 0 \mathrm { m } \times 2 0 \mathrm { m }$ 的样地,再用相邻格子法区划成16 个 $5 \mathrm { m } { \times } 5 \mathrm { m }$ 的小样方。以 $5 \mathrm { m } \times$ $5 \mathrm { m }$ 的小样方为单元,按乔木、灌木和草本层分别调查。乔木层主要调查种类,胸径,树高,冠径,相对坐标。灌木和草本分别在每一单元的4个象限中心位置设置4个 $2 \mathrm { m } \times 2 \mathrm { m }$ 的小样方,调查植物名称,株高,冠径,多度。同时,测量单元内所有对开蕨个体的自然苗高、叶片数量、叶片长度、叶片宽度、孢子囊叶片数、叶片厚度等指标。 A
+
+# 1.3对开蕨种群大小、分布频度、密度及主要形态特征指标
+
+$4 0 0 \mathrm { m } ^ { 2 }$ 分布区01样地有31株，样地分布频度为 $4 3 . 7 5 \%$ ,最大密度15株/ $2 5 \mathrm { m } ^ { 2 }$ ;02样地有91株,样地分布频度为 $9 3 . 7 5 \%$ ,最大密度30 株 $/ 2 5 \mathrm { ~ m } ^ { 2 }$ 。对开蕨形态特征指标见表1。
+
+表1对开蕨种群形态特征指标  
+Table1Morphological characteristics index of Phyllitis scolopendrium population   
+
+<html><body><table><tr><td>群落号 Plot No.</td><td>株数</td><td>苗高 Plant</td><td colspan="2">叶片数量 Leaf number</td><td colspan="2">最大叶片 Max. leaf</td><td colspan="2">最小叶片 Min. leaf</td><td colspan="2">有孢子囊叶片数量 Sporangium leaf number</td><td colspan="2">冠径 Crown diameter</td><td rowspan="2">叶片厚度</td><td rowspan="2">Leaf thickness/ mm</td></tr><tr><td></td><td>Number</td><td>height/cm</td><td>健康 Health</td><td>不健康 Unhealthy</td><td>长度 Length/</td><td>宽度 Width/ cm</td><td>长度 Length/</td><td>宽度 Width/</td><td>孢子成熟 Maturity</td><td>孢子未成熟 Immaturate</td><td>东西向</td><td>南北向 E-W/cm S-N/cm</td><td></td></tr><tr><td>01</td><td>31</td><td>19.64</td><td>7.19</td><td>1.58</td><td>30.94</td><td></td><td>5.22</td><td>14.24</td><td>3.48</td><td>4.68</td><td>0.55</td><td>37.17</td><td>34.24</td><td>0.0328</td></tr><tr><td>02</td><td>91</td><td>11.15</td><td>6.18</td><td>1.13</td><td>17.75</td><td>3.78</td><td></td><td>11.07</td><td>2.54</td><td>2.23</td><td>0.28</td><td>19.79</td><td>19.55</td><td>0.0249</td></tr></table></body></html>
+
+# 1.4 数据分析
+
+1.4.1对开蕨种群内、种群间形态差异分析形态特征是植物一切外部性状的综合,是植物适应环境变异最直接的表现,是反映植物生存状态的主要
+
+特征要素之一。计算两个对开蕨种群内个体间7个形态特征指标的变异系数,可反映出种群内部个体变异程度,通过 $\mathbf { \chi } _ { t }$ 检验来比较两个对开蕨种群间异同特点。
+
+# 1.4.2对开蕨种群苗高与年龄结构分析
+
+种群年龄结构对了解种群历史,分析预测种群动态具有重要意义。蕨类植物年龄结构研究较少,林红梅[42]采用残基叶柄轮数对粗茎鳞毛蕨（Dryopteris crassirhizoma）年龄与相关地上性状进行了多元回归。由于对开蕨为常绿植物,休眠期叶片不脱落,其个体年龄无法从外观确定。毋庸置疑的是其年龄与相对高度呈正相关。因此，以个体相对高度级替代年龄级进行分析。 2
+
+# 1.4.3对开蕨种群分布格局
+
+种群分布格局与种群本身的特性有关,同时也受生境条件或种群间效应的直接影响。因此,种群空间分布格局是其生物学特性对环境条件长期适应和选择的结果[9],是种群生存状态的表现指标[1]。对开蕨自然状态下为斑块状分布,为验证对开蕨种群分布格局,计算两种群的负二项参数 $( K )$ 、扩散系数（C）Morisita扩散型指数（Iδ）、丛生指标 $( I )$ 、平均拥挤度 $( M )$ 、聚块性指标( $( P _ { i } )$ 、Cassie 指标 $( C A )$ 等7种指标[43]。
+
+负二项参数 $( K )$ ：
+
+$$
+K = \left( \hat { x } \right) ^ { 2 } / \big ( s ^ { 2 } - \hat { x } \big )
+$$
+
+扩散系数 $( C )$ ：
+
+$$
+C = \sum _ { i = 1 } ^ { n } { \left( { x _ { i } - \bar { x } } \right) ^ { 2 } / \bar { x } ( n - 1 ) } = s ^ { 2 } / \bar { x } 2 ^ { \zeta } \ggg r ^ { 2 }
+$$
+
+Morisita扩散型指数 $( I \delta )$ ：
+
+丛生指标 $( I )$ ：
+
+平均拥挤度 $( M )$ ：
+
+聚块性指标 $( P _ { i } )$ ：
+
+Cassie 指标（CA）：
+
+式中： $s ^ { 2 }$ 为物种株数分布的方差; $\vec { x }$ 为分布株数的平均值; $x _ { i }$ 为第 $i$ 样方的株数; $X$ 为物种总株数; $n$ 为样方的数量。
+
+# 1.4.4群落物种多样性分析
+
+以物种重要值 $( I v )$ 为基础,分别计算乔木层,灌木层,草本层的 Shannon-Wiener 指数、Pielou 均匀度指数、Marglef 丰富度指数、生态优势度 $( \lambda )$ 和种间相遇机率(PIE）。
+
+Shannon-Wiener指数：
+
+$$
+H ^ { \prime } = - \sum _ { i = 1 } ^ { n } I _ { v i } \mathrm { l n } I _ { v i }
+$$
+
+Pielou指数：
+
+$$
+E = H ^ { \prime } / \mathrm { l n } ( S )
+$$
+
+Marglef丰富度指数 $( R )$ ： $R = ( S - 1 ) / \log _ { 2 } ^ { S }$
+
+生态优势度（λ）：
+
+$$
+\lambda = ( \sum _ { i = 1 } ^ { n } n _ { i } ( n - 1 _ { i } ) { \big ) } / ( N ( n - 1 ) )
+$$
+
+$$
+{ \mathrm { P I E } } = \sum _ { i = 1 } ^ { n } \left( { \frac { n _ { i } } { N } } \right) \left( { \frac { N - n _ { i } } { N - 1 } } \right)
+$$
+
+1.4.5群落的相似性分析
+
+采用群落相似度指数、相异性系数、群落共有度进行分析。
+
+相似度指数：
+
+$$
+C S = 2 C / ( a + b )
+$$
+
+相异性系数：
+
+$$
+C D = 1 \mathrm { ~ - ~ } 2 C / ( a + b )
+$$
+
+群落共有度：
+
+$$
+C P = C / ( a + b - C )
+$$
+
+式中：S为样地中的物种数目； $n _ { i }$ 为第 $i$ 个种的个体数； $N$ 为样地所有种的个体数。 $C$ 为群落 $A$ 和 $B$ 共有的种
+
+类数; $\boldsymbol { a }$ 为群落 $A$ 的物种数; $b$ 为群落 $B$ 的物种数。
+
+# 2结果与分析
+
+2.1对开蕨种群内、种群间形态特征差异
+
+# 2.1.1对开蕨种群内形态特征差异
+
+对开蕨种群形态特征指标的变异系数结果见表2。
+
+Table 2The CV of morphological characters within populations   
+
+<html><body><table><tr><td rowspan="2">种群变异系数 Population variation coefficient</td><td rowspan="2">苗高 Plant height/cm</td><td colspan="2">叶片数量 Leaf number</td><td colspan="2">最大叶片 Max. leaf</td><td colspan="2">最小叶片 Min. leaf</td><td colspan="2">有孢子囊叶片数量 Sporangium leaf number</td><td colspan="2">冠径 Crown diameter</td><td rowspan="2">叶片厚度 Leaf thickns/</td></tr><tr><td></td><td></td><td>长度 Length/ cm</td><td>宽度 Width/ cm</td><td>长度 Length/ cm</td><td>宽度 Width/ cm</td><td>孢子成热</td><td>孢子未成熟东西向</td><td></td><td>南北向</td></tr><tr><td>01种群 01 Population</td><td>0.5590</td><td>0.4115</td><td>1.2839</td><td>0.4340</td><td>0.2772</td><td>0.7219</td><td>0.5214</td><td>0.7778</td><td>1.5501</td><td>0.4899</td><td>0.5575</td><td>0.3855</td></tr><tr><td>02种群 02 Population</td><td>0.8285</td><td>0.5866</td><td>1.2761</td><td>0.7766</td><td>0.4380</td><td>1.0405</td><td>0.6335</td><td>1.5418</td><td>2.4687</td><td>0.7240</td><td>0.7283</td><td>0.3549</td></tr></table></body></html>
+
+结果表明：两种群7类形态特征指标在种群内的差异从大到小依次均为：有孢子囊叶片数 $>$ 叶片数量 $>$ 最小叶片长宽 $\mathrm { > }$ 冠径 $>$ 最大叶片长宽 $>$ 自然苗高>叶片厚度;02 种群比01种群形态特征指标的变异幅度大，除叶片厚度指标外,其余6类指标均高于01群落。随着植株高度(年龄)的增加,其6类形态特征指标变异系数均随之减小。由上不难看出:孢子叶是植株趋向成熟的标志,幼龄期由于处于生长旺盛阶段,其孢子囊叶片数、长和宽值,变异较大;随着植株的逐渐成熟,变异减小而趋于稳定。
+
+# 2.1.2对开蕨种群间形态差异
+
+对开蕨种群间形态特征指标显著性检验和方差分析结果见表3。
+
+表2对开蕨种群内形态特征指标的变异系数  
+表3单因素方差分析及和 $\mathbf { \Psi } _ { t }$ 检验 $\stackrel { \prime } { \cdot } \angle 0 . 0 1$ ）  
+Table 3 t-test and single factor variance analysis   
+
+<html><body><table><tr><td rowspan="3">检验指标 Standard of analysis</td><td rowspan="3">苗高</td><td colspan="2">叶片数量 Leaf number</td><td colspan="2">最大叶片 Max. leaf</td><td colspan="2">最小叶片 Min. leaf</td><td colspan="2">有孢子囊叶片数量 Sporangium leaf number</td><td colspan="2">冠径 Crown diameter</td><td rowspan="3">叶片厚度 Leaf thikms/</td></tr><tr><td colspan="2"></td><td rowspan="2">长度</td><td rowspan="2">宽度</td><td rowspan="2">长度</td><td rowspan="2">宽度</td><td rowspan="2">孢子成塾</td><td rowspan="2">孢子未成熟</td><td rowspan="2">东西向</td><td rowspan="2"></td></tr><tr><td></td><td>cm</td></tr><tr><td rowspan="2">方差分析</td><td>12.502</td><td>1.614</td><td>1.227</td><td>16.336</td><td>14.780</td><td>1.447</td><td>5.337</td><td>8.450</td><td>2.271</td><td>20.291</td><td>13.813</td><td>10.108</td></tr><tr><td>0.0007 **</td><td>0.2082</td><td></td><td>0.27190.0001**0.0003 **</td><td></td><td>0.2330</td><td>0.0239 *</td><td>0.0049 **</td><td>0.1363</td><td>0.0000 **0.0004 **</td><td></td><td>0.0022 **</td></tr><tr><td>t检验</td><td>3.5359</td><td>1.2704</td><td>1.0612</td><td>4.0418</td><td>3.8444</td><td>1.2031</td><td>2.3102</td><td>2.9068</td><td>1.5071</td><td>4.5045</td><td>3.7165</td><td>3.0099</td></tr><tr><td>t-test</td><td>0.0007 **</td><td>0.2082</td><td>0.2935</td><td>0.0001** 0.0003 **</td><td></td><td>0.2330</td><td>0.0239 *</td><td>0.0049 **</td><td>0.1363</td><td>0.0000 **0.0004**</td><td></td><td>0.0042 **</td></tr></table></body></html>
+
+注：\*为差异显著，\*\*为差异极显著
+
+结果表明：叶片数量、孢子未成熟叶片数、最小叶片长3项指标差异不显著;最小叶片宽差异显著( $P <$ 0.05);苗高、最大叶片长和宽、孢子成熟叶片数、冠径、叶片厚度达到差异极显著( $P { < } 0 . 0 1 \ \cdot$ 。
+
+# 2.2对开蕨种群苗高与年龄结构分析
+
+将对开蕨植株的相对高度以 $1 0 \mathrm { { c m } }$ 进行分组,分别与株数绘图,见图1。依次划分为0—10.0、10.1—20.0、$2 0 . 1 - 3 0 . 0 \ . 3 0 . 1 - 4 0 . 0 \ . 4 0 . 1 - 5 0 . 0 \mathrm { c m } \ 5 \$ 个等级并标记为:幼龄期、中龄期、壮龄期、老龄期和衰退期。图1显示：01种群的中、壮龄植株比例累计高达 $6 4 . 5 2 \%$ ,而幼龄植株比例和老龄植株比例仅占 $1 6 . 1 3 \%$ 。02 种群的幼龄植株最多，已经占到 $6 2 . 5 \%$ ,远远高于其他各时期。从图1可还以看出：海拔 $1 0 0 8 \mathrm { m }$ 的01种群苗龄可划分为5个级别,龄级株数分布近于正态；而海拔 $7 2 9 \mathrm { m }$ 的02种群苗龄仅划分为4个级别，龄级株数分布为倒J型。说明01种群处于中、壮龄期,较为成熟和稳定;02种群还处于幼龄期发展阶段。两群落对开蕨种群均没有出现衰退型年龄结构。
+
+![](images/ddb59ad15cbda009cf8b772c86990c2ba72241e7cae19f8aec0d97fee32b9ea9.jpg)  
+图1对开蕨种群年龄结构
+
+![](images/ebdf69590be895d72bfba5fe65b5816dfc9d622becba9f6de85b6315a5d8a8de.jpg)  
+Fig.1Age composition of Phyllitis scolopendrium populations   
+图2对开蕨种群苗高分布  
+Fig.2Height distribution of Phyllitis scolopendrium populations
+
+为进一步分析对开蕨种群的幼苗更新规律,再将相对苗高以5cm分组与株数绘图（图2）。图2显示：两对开蕨种群株数分布均呈双峰型。海拔 $1 0 0 8 \mathrm { m }$ 的01种群波谷出现在15.1— $2 0 . 0 \mathrm { c m }$ 处;海拔 $7 2 9 \mathrm { m }$ 的02 种群波谷出现在 $1 0 . 1 { - } 1 5 . 0 \mathrm { c m }$ 处。反映出对开蕨更新具有周期性特点。另外,01种群株数波动性较大,尤其在40.1— $4 5 . 0 \mathrm { c m }$ 处出现间断。
+
+# 2.3对开蕨种群分布格局及卡方检验
+
+以每一单元4个 $2 \mathrm { m } { \times } 2 \mathrm { m }$ 的草本调查记录数据为基础,按目的物种在小样方内出现的株数,对7种经典分析方法计算出对开蕨种群的空间分布格局指标,结果见表4。
+
+表4对开蕨种群空间分布型  
+Table 4Individual spatial pattern of Phyllitis scolopendrium populations   
+
+<html><body><table><tr><td rowspan="2">群落号 Plot No.</td><td rowspan="2">平均拥挤度 聚块指标 Congregation</td><td rowspan="2">扩散系数 Dispersal idies</td><td rowspan="2">扩散性指数</td><td rowspan="2">丛生指标 Cesps(D)</td><td rowspan="2">Cassie指标 indices (CA)</td><td rowspan="2">负二项参数 Negative parbinocr a )</td><td rowspan="2"></td><td colspan="2">卡方检验</td></tr><tr><td>x²</td><td>X6.05</td><td>Coisio</td></tr><tr><td>01 8.4516</td><td>4.3621</td><td>8.0151</td><td>4.5075</td><td>7.0151</td><td>3.6207</td><td>0.2762</td><td>0.0236</td><td>7.8100</td><td>差异不显著,接受原假设， 即：符合负二项分布</td></tr><tr><td>02 14.5055</td><td>2.5504</td><td>10.4725</td><td>2.5788</td><td>9.4725</td><td>1.6655</td><td>0.6004</td><td>2.7151</td><td>9.4900</td><td>差异不显著,接受原假设， 即：符合负二项分布</td></tr></table></body></html>
+
+表4可见,两群落均显示 $X ^ { 2 } < X _ { 0 . 0 5 } ^ { 2 }$ ,差异不显著,反映出现实对开蕨的聚集分布程度较高。
+
+负二项参数 $K$ 值与种群密度无关, $K$ 值越小,聚集度越大。只有 $K$ 值达到8以上则种群趋于随机分布。平均拥挤度 $( M )$ 反映了在各种群中每个个体的平均拥挤程度,数值越高,拥挤程度越大。聚块性指标 $( P _ { i } )$ 反映了聚集块状程度。扩散系数 $( C )$ 和 Morisita扩散型指数 $( I \delta )$ 反映种群个体在空间散布的非随机程度 $( P _ { i } , \boldsymbol { C } ,$ $I \delta$ 等，数值 ${ \bf \mu } = 1 { \bf \Lambda }$ 时为随机分布，数值 $_ { > 1 }$ 时为聚集分布）。丛生指标 $( I )$ 反映种群丛生性程度( $I { = } 0$ 时为随机分布； $I { > } 0$ 时为聚集分布)等。虽然不同的指标反映结果略有差异,但7个指标均显示了对开蕨种群为聚集分布,表现出一致性。该结论与蕨类植物的生长习性相吻合。以蕨类植物孢子有性繁殖为显著特征,从入侵、定居、繁衍、扩大种群,是一个种群系统的演化过程。另外,对开蕨分布格局随尺度变化的关系还需做点格局分析,以便从多尺度上描述对开蕨分布状况,为对开蕨最小存活种群数量提供参考。
+
+本次调查的对开蕨在自然分布区内种群个体数量较少,其现存种群规模是否能够维持种群生存,还需通过种群生存力分析[445]加以研究。
+
+# 2.4群落物种多样性
+
+两个群落不同层次物种多样性结果见表5。
+
+Table5Species diversity of Phyllitis scolopendrium communities   
+
+<html><body><table><tr><td>群落号</td><td>L层次lass</td><td>Shannon- Wiener ier</td><td>Pielou指数 Pielou indices (E)</td><td>物种丰富度 Species</td><td>Marglef指数 Margef iehness</td><td>生态优势度 Ecmingical</td><td>种间相遇机率 Intersgefie</td></tr><tr><td rowspan="3">01</td><td>乔木</td><td>indices (H) 2.0696</td><td>0.8631</td><td>(S) 10</td><td>(R) 2.6016</td><td>(λ） 0.1363</td><td>PIE) 0.8637</td></tr><tr><td>灌木</td><td>2.2818</td><td>0.9183</td><td>12</td><td>2.9726</td><td>0.2047</td><td>0.8819</td></tr><tr><td>草本</td><td>2.4344</td><td>0.7563</td><td>25</td><td>5.1681</td><td>0.2789</td><td>0.7211</td></tr><tr><td rowspan="3">02</td><td>乔木</td><td>2.1389</td><td>0.9289</td><td>10</td><td>2.7093</td><td>0.1429</td><td>0.8571</td></tr><tr><td>灌木</td><td>1.9626</td><td>0.7437</td><td>14</td><td>3.4144</td><td>0.2350</td><td>0.7650</td></tr><tr><td>草本</td><td>2.1936</td><td>0.6656</td><td>27</td><td>5.4681</td><td>0.1537</td><td>0.8463</td></tr></table></body></html>
+
+表5显示;两个群落的物种丰富度和Marglef丰富度指数规律极为接近,按乔木层、灌木层、草本层顺序均为金字塔型,说明各层物种分配比例基本合理。同理,Shannon-Wiener 指数,01群落为金字塔型;02群落为哑铃型，说明01群落较02群落稳定。均匀度Pielou指数,01群落为纺锤型,02群落为倒金字塔型。说明01群落的乔木不如02群落分布均匀;而02群落的灌木、草本分布均不如01群落分布均匀。生态优势度入,01群落为金字塔型,02群落为纺锤型。说明02群落的草本层还有待于调整、充实和发展。种间相遇机率,01群落为倒金字塔形,02群落为哑铃型,说明01群落的草本层种间相遇机率不及同群落的乔木和灌木层,02 群落灌木层种类间，其隔离障碍导致种间相遇机率低,不及01群落。
+
+# 2.4.1 乔木层物种多样性
+
+为便于比较两个群落乔木层多样性指标的异同,分别对01群落和02群落的乔木绘制分布散点图，见图3、图4。从图3、图4看出,01群落的乔木树种有10种,共39株;02群落有10种,共91株,且02群落的乔木较01群落分布更加均匀。对两个群落的乔木重要值按从大到小顺序排序,结果见表6。
+
+表5对开蕨群落物种多样性  
+表6对开蕨群落乔木层树种重要值   
+Table6 The importance value of trees for Phyllitis scolopendrium communities   
+
+<html><body><table><tr><td colspan="3">01群落/01Community</td><td colspan="3">02群落/02Community</td></tr><tr><td>物种名称</td><td>Nber</td><td></td><td>物种名称</td><td>Ner</td><td></td></tr><tr><td>裂叶榆 Ulmus laciniata</td><td>9</td><td>0.2114</td><td>硕桦 Betula costata</td><td>5</td><td>0.2080</td></tr><tr><td>色木槭 Acer mono</td><td>10</td><td>0.1954</td><td>千金榆 Carpinus cordata</td><td>26</td><td>0.1712</td></tr><tr><td>硕桦 Betula costata</td><td>4</td><td>0.1618</td><td>裂叶榆 Ulmus laciniata</td><td>14</td><td>0.1343</td></tr><tr><td>紫椴 Tilia amurensis</td><td>3</td><td>0.0979</td><td>紫椴Tilia amurensis</td><td>8</td><td>0.1224</td></tr><tr><td>水榆花楸 Sorbus alnifolia</td><td>3</td><td>0.0932</td><td>色木槭 Acer mono</td><td>4</td><td>0.1065</td></tr><tr><td>胡桃楸 Juglans mandshurica</td><td>2</td><td>0.0828</td><td>小楷槭A.komarovii</td><td>13</td><td>0.0798</td></tr><tr><td>东北槭A.mandshuricum</td><td>4</td><td>0.0749</td><td>青楷槭A.tegmentosum</td><td>7</td><td>0.0644</td></tr><tr><td>花楸树S.pohuashanensis</td><td>2</td><td>0.0546</td><td>暴马丁香 Syringa reticulata var. amurensis</td><td>5</td><td>0.0498</td></tr><tr><td>暴马丁香 Syringa reticulata var. amurensis</td><td>1</td><td>0.0146</td><td>东北槭 A.mandshuricum</td><td>5</td><td>0.0402</td></tr><tr><td>紫花槭A.pseudo-sieboldianum</td><td>1</td><td>0.0134</td><td>紫花槭A.pseudo-sieboldianum</td><td>4</td><td>0.0234</td></tr><tr><td>合计Total</td><td>39</td><td></td><td></td><td>91</td><td></td></tr></table></body></html>
+
+![](images/6411f2620c64d2ab1b2d0036e00a86d22740770bc1b7cfb2cb7033659c22c569.jpg)  
+图301群落乔木分布  
+Fig.3Trees distribution of 01 community
+
+![](images/61c7693dbf11a2aae237fd1bce9c88f8065e2961b83db6fee7675ec50126b2fd.jpg)  
+图402 群落乔木分布  
+Fig.4Trees distribution of 02 community
+
+表6显示:01群落中裂叶榆、色木槭、硕桦是该群落的优势种;02群落中硕桦、千金榆、裂叶榆、紫椴、色木槭为优势种。但其重要值都没有超过0.3,反映出乔木层优势种并不突出。总体而言,两个群落乔木层的多样性指标差异较小,说明对开蕨在临江分布的林型、林相基本类似,均为次生阔叶林。
+
+# 2.4.2灌木层物种多样性
+
+两群落灌木层物种数量及重要值排序见表7。表7看出:01群落共有灌木12种127株,以凤城卫矛、黄花忍冬、狗枣猕猴桃、东北山梅花株数较多、重要值较大。02群落共有灌木14 种166株,以东北山梅花、软枣猕猴桃、凤城卫矛的重要值较高。两群落重要值较高的共有物种均为东北山梅花、凤城卫矛,且株数较大，分别占灌木株数的 $3 3 . 0 7 \%$ 和 $6 2 . 6 5 \%$ 。
+
+表7对开蕨群落灌木层物种重要值  
+Table 7The importance value of species in shrub layer for Phylitis scolopendrium communities   
+
+<html><body><table><tr><td></td><td>01群落／01 Community</td><td></td><td></td><td colspan="3">02群落/02Community</td></tr><tr><td colspan="2">物种名称 Plants name</td><td>株数 Number</td><td>重要值 Importance value</td><td>物种名称 Plants name</td><td>株数 Number</td><td>重要值 Importance value</td></tr><tr><td colspan="2">凤城卫矛 Euonymus maximowiczianus</td><td>19</td><td>0.2939</td><td>东北山梅花Philadelphus schrenkii</td><td>71</td><td>0.3160</td></tr><tr><td colspan="2">黄花忍冬 Lonicera chrysantha</td><td>42</td><td>0.2922</td><td>软枣猕猴桃 Actinidia arguta</td><td>4</td><td>0.2821</td></tr><tr><td colspan="2">狗枣猕猴桃Actinidia kolomikta</td><td>23</td><td>0.1700</td><td>凤城卫矛 Euonymus maximowiczianus</td><td>33</td><td>0.1142</td></tr><tr><td colspan="2">东北山梅花Philadelphus schrenkii</td><td>23</td><td>0.1520</td><td>刺五加 Acanthopanax senticosus</td><td>12</td><td>0.0632</td></tr><tr><td colspan="2">李叶溲疏Deutzia hamata</td><td>13</td><td>0.1001</td><td>五味子 Schisandra chinensis</td><td>7</td><td>0.0412</td></tr><tr><td colspan="2">毛榛 Corylus mandshurica</td><td>5</td><td>0.0697</td><td>东北溲疏 Deutzia parviflora var.amurensis</td><td>8</td><td>0.0349</td></tr><tr><td colspan="2">刺五加 Acanthopanax senticosus</td><td>3</td><td>0.0437</td><td>瓜木Alangium platanifolium</td><td>11</td><td>0.0302</td></tr></table></body></html>
+
+http ://www.ecologica.cn
+
+续表  
+
+<html><body><table><tr><td colspan="3">01 群落／01 Community</td><td colspan="3">02 群落／02 Community</td></tr><tr><td>物种名称 Plants name</td><td>株数 Number</td><td>重要值 Importance value</td><td>物种名称 Plants name</td><td>株数 Number</td><td>重要值 Importance value</td></tr><tr><td>毛接骨木 Sambucus williamsii var.miquelii</td><td>1</td><td>0.0337</td><td>暴马丁香 Syringa reticulata var.amurensis</td><td>5</td><td>0.0277</td></tr><tr><td>五味子 Schisandra chinensis</td><td>3</td><td>0.0276</td><td>李叶溲疏 D.hamata</td><td>6</td><td>0.0261</td></tr><tr><td>长白茶藨Ribeskomarovii</td><td>4</td><td>0.0224</td><td>长白茶蔗 Ribes homarovii</td><td>2</td><td>0.0233</td></tr><tr><td>东北茶藨R.mandshuricum</td><td>1</td><td>0.0176</td><td>东北茶藨 R.mandshuricum</td><td>3</td><td>0.0187</td></tr><tr><td>鸡树条 Viburnum opulus var.calvescens</td><td>1</td><td>0.0118</td><td>少花瘤枝卫矛E.verrucosus var.pauciflorus</td><td>1</td><td>0.0105</td></tr><tr><td rowspan="3"></td><td rowspan="3"></td><td></td><td>毛榛 Corylus mandshurica</td><td>2</td><td>0.0078</td></tr><tr><td></td><td>狗枣猕猴桃Actinidia kolomikta</td><td>1</td><td>0.0041</td></tr><tr><td>127</td><td></td><td>166</td><td></td></tr></table></body></html>
+
+# 2.4.3草本层物种多样性
+
+01 群落草本植物有25 种;02群落有草本植物27种。重要值排序较大的前15 种见表8。
+
+Table8The Importance valueof the top15species in herbaceous layerforPhylitisscolopendriumcommunities   
+
+<html><body><table><tr><td colspan="3">01群落/01Community</td><td colspan="3">02群落/02 Community</td></tr><tr><td>物种名称</td><td>株数</td><td>重要值 Importance</td><td>物种名称</td><td>株数</td><td>重要值 Importance</td></tr><tr><td>Plants name</td><td>Number</td><td>value</td><td>Plants name</td><td>Number</td><td>value</td></tr><tr><td>粗茎鳞毛蕨 Dryopteris crassirhizoma</td><td>49</td><td>0.2549</td><td>粗茎鳞毛蕨Dryopteriscrassirhizoma</td><td>191</td><td>0.3835</td></tr><tr><td>三叉耳蕨 Polystichum tripteron</td><td>1235</td><td>0.2042</td><td>三叉耳蕨 Polystichum tripteron</td><td>500</td><td>0.1678</td></tr><tr><td>尖齿凤丫蕨 Coniogramme ffinis</td><td>140</td><td>0.0881</td><td>荨麻叶龙头草 Meehania urticifolia</td><td>223</td><td>0.0740</td></tr><tr><td>香车叶草Galium odoratum</td><td>402</td><td>0.0628</td><td>对开蕨 Phylltis scolopendrium</td><td>91</td><td>0.0636</td></tr><tr><td>大叶芹Pimpinella brachycarpa</td><td>49</td><td>0.0600</td><td>木贼 Equisetum hyemale</td><td>95</td><td>0.0471</td></tr><tr><td>水金凤Impatiens noli-tangere</td><td>58</td><td>0.0540</td><td>毛金腰Chrysosplenium pilosum</td><td>213</td><td>0.0437</td></tr><tr><td>珠芽艾麻 Laportea bulbifera</td><td>119</td><td>0.0497</td><td>东北南星 Arisaema amurense</td><td>166</td><td>0.0432</td></tr><tr><td>对开蕨Phyllitisscolopendrium</td><td>3</td><td>0.0398</td><td>山茄子 Brachybotrys paridiformis</td><td>55</td><td>0.0257</td></tr><tr><td>荨麻叶龙头草 Meehaniaurticifolia</td><td>120</td><td>0.0391</td><td>山荷叶 Astilboides tabularis</td><td>17</td><td>0.0257</td></tr><tr><td>大叶蟹甲草Parasenecio firmus</td><td>14</td><td>0.0263</td><td>掌叶铁线蕨 Adiantum pedatum</td><td>50</td><td>0.0236</td></tr><tr><td>布朗耳蕨 Polystichum braunii</td><td>1</td><td>0.0232</td><td>假升麻 Aruncus sylvester</td><td>7</td><td>0.0181</td></tr><tr><td>毛金腰 Chrysosplenium pilosum</td><td>103</td><td>0.0148</td><td>类叶升麻 Actaea asiatica</td><td>5</td><td>0.0131</td></tr><tr><td>蔓假繁缕Pseudostellaria davidii</td><td>42</td><td>0.0134</td><td>白花碎米荠Cardamine leucantha</td><td>11</td><td>0.0117</td></tr><tr><td>东北南星 Arisaema amurense</td><td>44</td><td>0.0128</td><td>东北蛾眉蕨 Lunathyrium pycnosorum</td><td>3</td><td>0.0115</td></tr><tr><td>乌苏里黄芩 Scutellaria pekinensis var.ussuriensis</td><td>52</td><td>0.0124</td><td>透骨草Phryma leptostachya subsp.asiatica</td><td>4</td><td>0.0088</td></tr></table></body></html>
+
+表8可见,两群落重要值大于0.15 的物种均为粗茎鳞毛蕨、三叉耳蕨。说明粗茎鳞毛蕨、三叉耳蕨是草本层的优势种。而目的物种对开蕨分别暂居第8位和第4位,说明对开蕨在分布区仅为伴生种,而在整个长白山区域只为偶见种。
+
+# 2.5群落的相似性分析
+
+计算两个群落各层次相似度指数、相异性系数和群落共有度,相似性结果见表9。
+
+表8对开蕨群落草本层物种重要值(前15种)  
+表9群落的相似性分析结果/ $\%$   
+Table 9Results about similarity measure of communities   
+
+<html><body><table><tr><td>群落相似度指数 Community similarity indices</td><td>乔木 Tree</td><td>灌木 Shrub</td><td>草本 Herb</td></tr><tr><td>相似度指数 Similarity indices</td><td>0.6667</td><td>0.6923</td><td>0.3846</td></tr><tr><td>相异性系数Dissimilarity indices</td><td>0.3333</td><td>0.3077</td><td>0.6154</td></tr><tr><td>群落共有度Co-possession</td><td>50.0000</td><td>52.9412</td><td>23.8095</td></tr></table></body></html>
+
+从表9得知;两群落的乔木、灌木相似度指数均在 $6 6 . 6 7 \%$ 以上,尤其是灌木层相似度指数高达 $6 9 . 2 3 \%$ ;而草本层相似度指数仅为 $3 8 . 4 6 \%$ 。从群落共有度上看,乔木层为 $5 0 \%$ ,灌木层 $5 2 . 9 4 \%$ ,草本层仅占 $2 3 . 8 1 \%$ ，说明两个群落的乔木、灌木层物种多样性相似性较高,而草本层植物相似性较低。
+
+# 3讨论
+
+# 3.1对开蕨种群年龄间断与波动
+
+种群年龄结构在很大程度上反映了种群与环境间的相互关系以及它们在群落中的作用和地位。特别提出的是01种群株数波动性较大,尤其苗高在 $4 0 . 1 - 4 5 . 0 \mathrm { c m }$ 处(相当于衰退期)出现间断点。年龄间断点的出现对种群的持续发展极其不利,说明此处对开蕨没有更新苗出现或由于采挖、环境改变导致死亡。其年龄间断原因尚待推敲,降水不足可能是影响成熟孢子萌发的重要原因。但可以初步明确的是;只有在孢子萌发期和精卵结合期的7—8月间,降水充足,气温适宜时,对开蕨的孢子才会大量萌发产生原叶体,进而受精形成孢子体。 \~y
+
+# 3.2对开蕨的种群现状评估
+
+对开蕨为铁角蕨科多年生常绿蕨类植物。记载[17]间断分布于吉林省长白山区长白朝鲜族自治县、集安市、临江市、抚松县、桦甸市等5个县市级分布点。目前,通过走访和调查得知仅存于长白山西南坡,集中产于临江市(花山镇)、集安市(阳岔乡）、长白县(宝泉山乡)等市县,数量极其稀少。常小面积斑块状生于山地落叶阔叶林下。喜生岩石风化的酸性壤土中,要求较高的空气湿度。根据IUCN 红色名录濒危等级标准（3.1版）,推断该种群的分布区、占有面积、亚种群数目及成熟个体数方面持续衰退;推算过去10年或者三个世代内，其减少原因可能还未终止或被认识可逆,种群数至少减少 $5 0 \%$ ;目前,种群分割严重，已知只有5个分布点,甚至可能更少。因此,评定为濒危级别。
+
+# 3.3对开蕨种群的濒危因素
+
+极小种群野生植物的主要受威胁因素包括环境变化[46]、自身遗传限制[47]以及生物相互作用[48]等方面。对开蕨繁殖生物学研究显示,相对湿度和温度是对开蕨孢子繁殖的关键。两个世代过程中,尤其是湿度在对开蕨原叶体受精作用和孢子体转化及生长中起到了决定性作用[29]。原叶体世代,孢子萌发最适宜的条件是温度25- $3 0 \mathrm { { ^ { \circ } C } }$ ,空气湿度 $9 5 . 0 \%$ ;原叶体转化成孢子体时,在相对湿度 $9 5 . 0 \%$ 时,转化率可以达到 $8 7 . 6 \%$ 。孢子体生长期间,空气湿度在 $7 5 . 0 \%$ 以上时,植株生长快,叶面积大,萌发叶数多,叶片平展而光亮[39]。在生物间相互作用方面,对开蕨与大多数植物种类关联不显著或显著关联的种类极少,种间联结关系较为松散趋向于相互独立[40]。因而只能靠本身密集的种群数量占据空间优势。另外,对开蕨分布狭窄又呈斑块状分布,导致种群间遗传基因交流障碍。人为采挖严重。上述是导致濒危重要因素。
+
+# 3.4对开蕨种群的就地保护
+
+通过分析对开蕨种群结构特征和群落的物种多样性,探索这种依附于森林群落而存在的物种能否随着群落的演替而维持其种群的自我繁衍,有重要现实意义。黄祥童等[40]通过分析群落稳定性得出群落总体均不稳定。联结性分析得出对开蕨种群与乔木、灌木的联结性低于与草本的联结性;对开蕨仅与三叉耳蕨达到极显著正联结,与粗茎鳞毛蕨为显著正联结。因此,该种群的就地保护必须以强调森林群落的稳定性为前提,以建立正联结的物种对,控制负联结物种对为促进措施。目前,该物种分布于保护区外,尚无保护措施。建议切实加强就地保护,在分布区建立保护小区（点）[49],积极开展人工促进天然更新实验;在天然分布区外,选择立地条件相似的自然或半自然生境中建立人工种群的近地保护示范小区[50],尤其是在建立人工种群、增加种群数量的同时,强调保护基地和原生境气候、地形、土壤、水文、生物等立地因子的相似性,保持自然生境对新建种群的支撑和压力[51];禁止人为采挖;积极开展对开蕨的孢子繁殖及组培扩繁工作,以便在现存种群内通过人工增加个体数量扩大种群规模或增加某一特定群团组,以改善种群结构达到增强回归[52];制定对开蕨回归与保育引种指标评价体系[53],确保回归成功而恢复种群。
+
+http://www.ecologica.cn
+
+# 参考文献（References）：
+
+[1]Harper JL.Population Biology of Plants.Caldwell:The Blackburn Press,2010:1-20.  
+[2]孙卫邦,韩春艳.论极小种群野生植物的研究及科学保护.生物多样性,2015,23(3):426-429.  
+[3]RenH,ZagHF,LuHX,uQFWngJJiaSG,OWldlaspeiesierelyalpulatiosqeiand reintroduction in China.AMBIO,2012,41(8):913-917.  
+[4]RedJc-CEDelatioofvbeopuatiosizetlog,tfrendetiCoeaioolg（）：867-870.  
+[5］国家林业局.全国极小种群野生植物拯救保护工程规划(2011-2015).北京:国家林业局,2011.  
+[6]Meek MH,WellsC,Tomalty KM,AshanderJ,ColeEM,GilleDA,PutmanBJ,RoseJP,Savoca MS,YamaneL,HullJ,RogsDIRosenblumEBSogrenJF,SwaisgodRR,MayBFearoffilureinonseratio:eproblemandpotentialsolutiostoaidoseatioofextremely small populations.Biological Conservation,2015,184;209-217.  
+[7]杨文忠,向振勇,张珊珊,康洪梅,史富强.极小种群野生植物的概念及其对我国野生植物保护的影响.生物多样性,2015,23(3)：419-425.8BalleJErSsfdseASptbKIUCN,2004.  
+[9] 李先琨,苏宗明,向悟生,宁世江,唐润琴,欧祖兰,李瑞棠.濒危植物元宝山冷杉种群结构与分布格局.生态学报,2002,2（12)：2246-2253.[10］闫淑君,洪伟,吴承祯,毕晓丽,蓝斌.武夷山天然米赭林优势种群结构与分布格局.热带亚热带植物学报,2002,10(1):15-21.[11] 赵成章,任珩.退化草地阿尔泰针茅种群个体空间格局及关联性.生态学报,2012,32（22）:6946-6954。  
+[12] UmekiK,LiEHjTissedulatioprgatprctu-spetcredasfaturalfrstsidnorthern Japan.Ecological Informatics,2008,3(3）:218-227.  
+[13］减润国,董鸣,李俊清,陈小勇,曾宋君,江明喜,李镇清,黄继红.典型极小种群野生植物保护与恢复技术研究.生态学报,2016,36(22)：7130-7135.  
+[14]Hedrick P W.A standardized genetic diferentiation measure.Evolution,20o5,59(8):1633-1638.  
+[5]Aguilarsoleantuciesetiiltiafragetavhioeanalysis.Ecology Letters,2006,9(8）:968-980.  
+[16］中华人民共和国国务院.国家重点保护野生植物名录(第一批）.植物杂志,1999,（5）:4-11.  
+[17] 傅立国.中国珍稀濒危植物.上海：上海教育出版社,1989:1-3.  
+[18] 钱家驹.对开蕨属首次在我国发现.植物分类学报,1980,18(4):482-483.  
+[19] 谷安根,刘仪娴.对开蕨属导管的发现.植物学报.1987,29(4):377-378,465-465.  
+[20] 谷安根,汪矛.对开蕨属次生维管组织的发现.植物研究,1989,9(4):87-90.  
+[21］王立军,张友民,钟岩.东北对开蕨的解剖研究.吉林农业大学学报,1996,18（S)：1-2.  
+[22］刘保东,包文美,敖志文.中国产对开蕨配子体发育的研究.植物研究,1991,11(2):93-100.  
+[23］刘保东.对开蕨孢子育苗.植物杂志,1993,（3）:27-27.  
+[24］田洪,王殿芝,赵占英,张宝国.东北对开蕨的栽培.人参研究,1997,（2):16-17.  
+[25]李彬.东北对开蕨人工栽培技术.中国林副特产,2013,（3）:63-64.  
+[26] 岳晓晶,岳桦.对开蕨在哈尔滨地区的繁殖技术研究.黑龙江农业科学,2010,（7):81-83.  
+[27] 顾德峰,李东升,王蕾,齐广勋,赵和祥,董然.东亚对开蕨离体快繁的研究.园艺学报,2008,35(9):1373-1376.  
+[28]顾德峰,王蕾,赵和祥,董然.东北对开蕨的组织培养.植物生理学通讯,2008,44(5):957-958.  
+[29] 王阳,董然,顾德峰,刘美彤.东北对开蕨孢子体诱导技术的研究.北方园艺,2014,（19)：93-98.  
+[30] 岳晓晶.对开蕨光适应能力及繁殖技术研究[D].哈尔滨;东北林业大学,2010.  
+[31] 岳桦,岳晓晶.对开蕨对遮荫处理的响应.园艺学报,2010,37(9)：1517-1522.  
+[32] 孙笑丛.对开蕨在干旱胁迫下形态生理及哈尔滨露地生境生长发育节律特征[D].哈尔滨：东北林业大学,2011.  
+[33] 岳桦,吴妍,姜丽颖.不同栽培基质对对开蕨的影响.黑龙江农业科学,2011,(2):66-68.  
+[34] 岳桦,孙笑丛.PEG 渗透胁迫对对开蕨生理特性影响.北方园艺,2011,(1)：91-94.  
+[35] 吴妍.不同栽培基质及营养液对对开蕨的影响[D].哈尔滨：东北林业大学,2011.  
+[36］赵超,董然,顾德峰,严海燕,黄祥童.对开蕨组培苗幼苗适宜栽培基质的筛选研究.北方园艺,2014,（19)：103-107.  
+[37］赵超,董然,顾德峰,黄祥童,严海燕,包文慧,潘兰慧.对开蕨组培苗适宜栽培基质的筛选.西北农林科技大学学报：自然科学版,2015,43(4).185-190 196-196  
+[38] 赵超,刘晓嘉,才燕,黄祥童,顾德峰，董然,严海燕.空气湿度对对开蕨组培苗光合特性的影响.东北林业大学学报,2014,42（9)111-115.  
+[39] 赵超,董然,顾德峰,严海燕,冯倩倩.不同空气湿度对对开蕨组培苗生长状况的影响.北方园艺,2014,（8)：24-25.  
+[40] 黄祥童,王绍先,黄炳军,尹航,崔凯峰，赵伟,范宇光,顾德峰.珍稀植物对开蕨与其伴生物种的联结性及群落稳定性.生态学报,2015,35(1):80-90.  
+[41] 国政,臧润国.中国极小种群野生植物濒危程度评价指标体系.林业科学,2013,49(6)：10-17.  
+[42] 林红梅.粗茎鳞毛蕨种群年龄结构与空间分布格局研究[D].长春：吉林农业大学,2005.  
+[43] 代力民,谷会岩,邵国凡,王庆礼.中国长白山阔叶红松林.沈阳;辽宁科技出版社,2004;263-265.  
+[44] 彭少麟,汪殿蓓,李勤奋.植物种群生存力分析研究进展.生态学报,2002,22(12)：2175-2185.  
+[45] FrankhamR,saJrookBetisiseatioageentvisedodtifoh/ulesdspopulation viability analyses.Biological Conservation,2014,170:56-63.  
+[46]UranDeloartuiseerFcoptdphysiological fluids.Colloids and Surfaces B:Biointerfaces.2016,137:39-49.  
+[47]Breshars,c-owellodardKLKEartesSMyerCroK.Fabsoptiofeeptedfalpwoody plant water status most during drought.Ecology,2Oo8,89(1):41-47.  
+[48]AnderSJsZgFhrLuaerasiptloatctotctranscriptionbyRNApolymeraseIpositivelyandnegatively.JournalofBiological Chemistry,2011,286(21):1886-1824.  
+[49] Maunder M.Plant reintroduction:an overview.Biodiversity & Conservation.1992.1(1）:51-61.  
+[50] 许再富,郭辉军.极小种群野生植物的近地保护.植物分类与资源学报,2014,36（4);533-536.  
+[51] VolisS,BlecrQuasisiidgetwxitdisiseatiooflantsiesitdoseatio,9（）：2441- 2454.  
+5]Falllsiaedgd.  
+[53] IUCN/SSC.Guidelines for reintroductionsand other conservation translocations.Version .0.Gland，Switzerland：IUCN Species SurvivalCommission,2013.

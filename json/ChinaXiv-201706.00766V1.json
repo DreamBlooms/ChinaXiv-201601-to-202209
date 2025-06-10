@@ -1,0 +1,333 @@
+[
+    {
+        "type": "text",
+        "text": "Observation of Inception of Sheet Cavitation from Free Nuclei ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wakana TSURU1, Takafumi KONISHI1, Satoshi WATANABE², Shin-ichi TSUDA² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Graduate School of Engineering,Kyushu University, Japan   \n2.Department of Mechanical Engineering,Kyushu University, Japan ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\copyright$ Science Press and Institute of Engineering Thermophysics, CAS and Springer-Verlag Berlin Heidelberg 2017 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Prediction of inception of sheet cavitation on solid wals has been recognized to be very dificult, since it is significantly aected by the boundary layer flow characteristics,the population offree nuclei,the nuclei held in the wallroughness,the amount of dissolved air in liquid and soon. It has not suficiently been made clear how the inception is affctedby the conditions of water qualities and background flow characteristics.In this study, high speed observation of inception of sheet cavity from free nuclei is conducted for a two-dimensional convergent-divergent nozzle flow, where the sheet cavity forms just downstream of the nozzle throat.The efects of the amount of dissolved air and the free stream velocity on the inception process of sheet cavitation is examined.In addition,the bubble nuclei density,which is wellknown to be important factorfor cavitation inception,is passivelycontrolled bythe filterinstalled in the tunnel.From theobservations,itisconfirmed that the nuclei number density significantly afects the formation of sheet cavity rather than the other two parameters.In conditions with large nuclei number density,the sheet cavity does not form,and bubbly cavitation appears instead.In the case with small nuclei number density,the sheet cavity forms from a single flowing nucleus and develops streamwisely and spanwisely.In the conditions with medium nuclei number density,the sheet cavity also forms but is shorter/narrower streamwisely/spanwisely,due to interaction of other nuclei flowing near the formed sheet cavity. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Cavitation inception, Sheet cavity,Nuclei distribution, Dissolved air ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cavitation is a phase change phenomenon from liquid to gas phases due to the hydrodynamically reduced pressure below its saturated vapor pressure level [1]. It is well known that, in addition to the low pressure condition. the inception of cavitation requires the bubble nuclei from which the vapor bubbles explode as well as the sufficient time which allows the nuclei to grow. The former one，the nuclei distribution，is dependent on the flow system such as liquid (water） quality including the amount of dissolved air, trapped air in the roughness element of solid surface,and so on.The latter is well affected by the flow characteristics,especially boundary layer flow if the cavitation near solid surfaces is focused on.The cavitation inception near solid surfaces has been studiedby many researchers (for example [2-4]).However,about the inception of sheet cavitation, there is still a review article published [5],and it seems to be a common understanding that there exist many scenario for the inception of sheet cavitation but none of which is the typical one,which probably dependsupon the flow characteristics and the water quality as we stated before. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this study, high speed observation of inception of sheet cavity from free nuclei is conducted for a twodimensional convergent-divergent nozzle flow, where the sheet cavity forms just downstream of the nozzle throat. Theeffects ofthe amount of dissolved airandthe free stream velocity on the inception process of sheet cavitation is examined.In addition, the bubble nuclei density, which is well known to be the important factor for cavitation inception,is passively controlled by the filter installed in the tunnel. By using the image analysis of flowing nuclei, the nuclei density distribution is obtained. Then the inception process of sheet cavitation is discussed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/b47b4c48830f87a933bff2c61c5d336ee52c3b298f1e7975a7b3e38db71f261a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">Nomenclature</td></tr><tr><td>h</td><td>height of nozzle throat</td><td>0</td><td>cavitation number</td></tr><tr><td>p</td><td>pressure (Pa)</td><td>Subscripts</td><td></td></tr><tr><td>Pv</td><td>saturation pressure (Pa)</td><td>l</td><td>liquid phase</td></tr><tr><td>U</td><td>velocity (m/s)</td><td>th</td><td>nozzle throat</td></tr><tr><td>Greek letters</td><td></td><td>UP</td><td>nozzle inlet</td></tr><tr><td>p</td><td>density (kg/m³)</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experimental Procedure ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experimental apparatus ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 shows our small cavitation tunnel used for this study,which consists ofan upstream tank,a test section,two circulating pumps operated in parallel and a turbine flow meter.There are two lines split after the turbine flow meter; the flow in the one line directly returns to the tank via the flow control valve,while the flow in the other does via the air removal tank with wounded polypropylene cartridge filter, whose nominal pore diameter is $1 \\mu \\mathrm { m }$ .The upstream tank is connected to the atmosphere via a vacuum pump at the top so that the system pressure can be adjusted to the desired pressure. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 shows schematic view of the test section.The test section has a rectangular cross-section with a height of $2 0 ~ \\mathrm { m m }$ and a width of $2 0 ~ \\mathrm { m m }$ ，and the convergentdivergent nozzle is installed which consists of a top straight wall and a bottom inclined wall with the divergent angle of 8.4 degrees. The nozzle throat height is 10 mm,and the length of throat portion is $3 \\mathrm { m m }$ .Sheet cavityinitiates slightly downstream of the nozzle throat and develops along the bottom nozzle wall. All walls are made of acrylic resin,which enables us to set cameras and lightings from all directions.A pressure transducer is installed at UP of the top wall to measure the working pressure $p _ { \\mathrm { U P } }$ of the flow. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experimental procedure ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the experiment, the working pressure is gradually decreased from non-cavitation condition,and the cavitation inception from flowing nuclei is observed from top and side by two high-speed cameras. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For the top view, the nozzle throat region indicated by area enclosed by dotted lines in Fig.2 is recorded with a back lighting method by Vision Research,Phantom V310 with an exposure time of $1 \\mu \\mathrm { s }$ .The spatial resolution is set to be $1 2 8 0 \\times 4 0 0$ pixels, resulting in the actual resolution of $1 6 \\mu \\mathrm { m / p i x e l }$ .From the recorded movie, the diameter of each bubble nucleus is measured by an image analysis describedlater.On theotherhand,for the sideview, the region indicated by area enclosed by dashed lines in Fig. 2 is recorded with a back lighting method by Vision Research, Phantom V4.3 with an exposure time of $1 0 ~ \\mu \\mathrm { s }$ （2 The spatial resolution is $6 0 8 \\times 1 5 2$ pixels,which corresponds to the actual resolution of $1 2 \\ \\mu \\mathrm { m }$ pixel. These two observations are made simultaneously with the frame rate of 6259 fps,which enables us to trace the motion and growth of each nucleus. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this experiment, the area averaged velocity at nozzle throat is set to be $U _ { \\mathrm { t h } } = 1 0$ or $4 \\mathrm { m / s }$ . Corresponding Reynolds number based on the nozzle throat velocity $U _ { \\mathrm { t h } }$ and the nozzle height $h$ is roughly $1 0 ^ { 5 }$ and $2 \\times 1 0 ^ { 4 }$ respectively. Before the experiment,the amount of dissolved air in water is roughly controlled by deaeration, and Dissolved Oxygen(DO) in water is measured before and after the experiment.In some conditions of DO and $U _ { \\mathrm { t h } }$ ，the downstream line is switched to those with or without air removal filter, in order to see the effects of bubble nuclei distribution on the inception of sheet cavity By using the pressure at UP, $p _ { \\mathrm { U P } }$ ，and $U _ { \\mathrm { t h } } ,$ the cavitation numberis defined as ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/45f29b0d36a33239236815bc7039f66ebb22da6f07f5fc7304ebfe03b22f942f.jpg",
+        "img_caption": [
+            "Fig.1Experimental apparatus. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/360879d266078209f96500a0adae259f378fc35997d4b87faa3ccc9ee3b96141.jpg",
+        "img_caption": [
+            "Fig.2 Test section and recorded area with high speed cameras. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma = \\frac { p _ { U P } - p _ { \\nu } } { \\rho _ { l } U _ { t h } ^ { 2 } / 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $p _ { \\mathrm { v } }$ is a saturated vapor pressure. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Image processing ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To measure the diameter of bubble nuclei, the image analysis is carried out in the way shown in Fig.3.The images from the recorded movie in top view $\\textcircled{0}$ are used. To observe only the nozzle throat region, the other area is masked as shown in $\\textcircled{1}$ ．All recorded images,about 3,000 frames with the time duration of O.5s,are averaged to construct the background image $\\textcircled{2}$ .Then,the background image is subtracted from all original image to obtain the images $\\textcircled{3}$ which contain only the information ofbubble nuclei.Edge detection is carried out with some threshold value $\\textcircled{4}$ and the enclosed area is filled with white nuclei $\\textcircled{5}$ . Finally, the bubble nuclei located on the boundaries are removed $\\textcircled{6}$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "From the above-obtained images,we calculate the projected area of bubble nuclei by counting the pixels occupied by the bubble image.Then, the radius of each bubble nucleus is converted from the projected area under the assumption of spherical bubble nuclei.When the sufficient amount of the bubble nuclei data is obtained, we can calculate the nuclei density distribution against the assumed reference volume of $3 \\ \\mathrm { m m \\ ( l e n g t h ) } \\times 2 0 \\ \\mathrm { m m }$ (width) $\\times \\ 1 0 \\ \\mathrm { m m }$ (depth). It should be noted that the measured radius of nuclei is larger in some extent than the upstream one due to the flow acceleration from upstream to the measured location. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results and Discussion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Characteristics of nuclei densitydistributions ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 shows the number density distribution function of bubble nuclei in cases without using the air removal filter. The cavitation number is set to be around the inception point of sheet cavity. Three different DO conditions,high $\\mathrm { ( D O = 8 ^ { - 9 } \\ m g / L }$ ,almost saturated at the atmospheric pressure),medium $\\mathrm { ( D O = 4 ^ { - 5 } \\ m g / L }$ ，partially degassed) and low $\\mathrm { ( D O } = 1 { - } 2 \\ \\mathrm { m g / L }$ ,well degassed) conditions,are examined. The nozzle throat velocity is basically set to be $U _ { \\mathrm { t h } } = 1 0 ~ \\mathrm { m / s }$ but for low DO condition, the velocity condition of $U _ { \\mathrm { t h } } = 4 ~ \\mathrm { m / s }$ is also examined. In terms of dissolution of gas in liquid, the relation between the dimensional working pressure and the saturated pressure determined by Henry's law is important. Only in the low DO condition with high nozzle throat velocity (plotted by reverse triangle in the figure), the dissolved airis under-saturated,while in the other three conditions over-saturated.Actually,as can be seen in the figure, the number of bubble nuclei is so small in the low DO condition with high nozzle throat velocity. The number of bubble nuclei is apparently insufficient to obtain the reliable nuclei number density function; longer recording duration is necessary to do so.On the other hand, the number density of bubble nuclei islarger overall bubble radius regime for the other three cases and it is the largest for the high DO condition $\\mathrm { ( D O = 8 . 4 \\ m g / L ) }$ ).In this condition, the over-saturation (working pressure minus Henry's pressure) is the largest,which results in the largest number density of bubble nuclei. The exponent of the number density distribution to the radius of nuclei is roughly -2.1 to -2.8,which is consistent to the published data (for example,[1]). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/78611ec9dc5b437223e40c676312f4fbc3cb832fba2f36b7f79081484e595780.jpg",
+        "img_caption": [
+            "Fig.3Procedure of image processing for measurement of radius of bubble nuclei "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 5 shows the number density distribution functionofbubble nuclei in caseswiththe airremoval filter used.The number density distribution of bubble nuclei is similar to the previous one in the under-saturated condition,that is the low DO condition with higher nozzle throat velocity $U _ { \\mathrm { t h } } = 1 0 ~ \\mathrm { m / s }$ .On the other hand,it is noticed that the number density distributions for three over-saturated conditions coincidently agree well with each other. The exponent of the number density distribution to the radius of nuclei is roughly to -1.8.It is believed that,by the air removal filter, large bubbles can be removedbut smaller oneswhose diameterislessthan the order of $1 ~ { \\mu \\mathrm { m } }$ (pore diameter of the filter） can pass through the filter (or possibly generated by the filter itself).In over-saturated conditions,those tiny bubbles might be able to grow by the mass diffusion of the dissolved air through the surface of nuclei, which could be the reason for the coincidence of the nuclei density distribution. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 6 shows the number density of bubble nuclei, that is the number of nuclei in unit volume,plotted against cavitation number $\\sigma _ { \\cdot }$ 、It is seen that the data can be separated roughly into three groups,depending upon the nuclei density distribution; the large nuclei density condition which corresponds only to unfiltered condition with high DO (open square),the small nuclei density conditions which correspond to the filtered/unfiltered conditions of low DO with high nozzle throat velocity $U _ { \\mathrm { t h } } = 1 0 ~ \\mathrm { m / s }$ (closed and open reverse triangles） and the medium nuclei density conditions which correspond to the other conditions,in which the nuclei density distributionfunctions coincide with each other as has been seen in Figs.4 and 5.Since the plotted range of cavitation number is the range of the inception of sheet cavity ex cept for filtered condition with high DO as described later, the nuclei density seems to be the primary factor for the inception of sheet cavitation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Inception behavior of sheet cavity ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 7 shows the typical images of bubble nuclei behavior for(a) non-filtered and(b） filtered conditions with high DO $\\mathrm { ( = 8 . 4 ~ m g / L ) }$ ).In the non-filtered condition, there can be seen so many bubble nuclei. The sheet cavity is not at all formed, and the bubbly cavitation appears instead.On the other hand,in the filtered condition shown in Fig.7 (b),there can be seen apparently a few nuclei.A nucleus travels the distance of $1 . 6 ~ \\mathrm { m m }$ between ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$0 ~ \\mathrm { m s }$ to $0 . 1 6 ~ \\mathrm { { m s } }$ along the wall,and its size is approximately doubled.Then the nucleus attaches to the wall downstream of the throat,and forms finger-like sheet cavity at $9 . 7 ~ \\mathrm { m s }$ .It splits and grows in streamwise and spanwise directions. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Uh=10 m/s ---- DO=8.4 mg/L,σ=0.90 --o-- DO=4.0 mg/L,σ=0.84 1013 ---- DO=1.6 mg/L,σ=0.76 Drging gr ginnniniip gtg Uth=4 m/s 1012 --△--DO=1.4 mg/L,σ=0.84 （u/） 1011 口CH nrnrrrreer 1010 108 8 4 V W 中 □ □ 107 106 105 104 10-4 10-3 Radius of bubble nucleus (m) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Ut=10 m/s,filtered -DO=8.4 mg/L,σ=0.85 DO=4.3 mg/L,σ=0.85 1013 DO=1.6 mg/L,σ=0.77 Drgrh gr niinnrnsirrgir Uth=4 m/s,filtered 1012 DO=1.4 mg/L,σ=0.84 u/） 1011 nrere 1010 108 nrgeet 107 106 105 104 10-4 10-3 Radius of bubble nucleus (m) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Uth=10 m/s Uth=10 m/s,filtered ----DO=8.4 mg/L DO=8.4mg/L --0-- DO=4.0 mg/L DO=4.3 mg/L ----DO=1.6 mg/L DO=1.6 mg/L U=4 m/s Uth=4 m/s,filtered -△--DO=1.4 mg/L DO=1.4 mg/L   \n101 4   \n10-2 V   \n10-3   \n10-4 0.70 0.75 0.80 0.85 0.90 0.95 Cavitation number σ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 8 shows the inception process of sheet cavitation for the filtered middle DO condition $\\mathrm { ( D O = 4 . 3 ~ m g / L ) }$ with the nozzle throat velocity of $U _ { \\mathrm { t h } } = 1 0 ~ \\mathrm { m / s }$ .The inception process in this middle DO case is basically similar to that for the filtered high DO condition shown in Fig. 7(a).A few flowing nuclei is observed in those two conditions,and the sheet cavity starts to form from a single nucleus.It is observed that the sheet cavity grows but its extent is limited in both the streamwise and spanwise directions.When the other nuclei pass over the sheet cavity, a part of the sheet cavity is torn off as shown in Fig. 8 (b).Although the DO conditions are different, the processes of sheet cavity inception are similar when the number density distributions of nuclei are similar,and the growth of the sheet cavity is limited by the interaction of .flowing nuclei. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 9 shows the typical pictures of inception of sheet cavitation for the non-filtered low DO conditions with the nozzle throat velocity of (a) $U _ { \\mathrm { t h } } = 1 0 ~ \\mathrm { m / s }$ and (b) $U _ { \\mathrm { t h } } = 4 ~ \\mathrm { m / s }$ .In both cases, the sheet cavity is seen to form from a single flowing nucleus. In the case with $U _ { \\mathrm { t h } } = 1 0$ $\\mathbf { m } / \\mathbf { s } .$ ，anucleus travels the distance of $1 . 8 ~ \\mathrm { m m }$ along the wall in a time duration of $0 . 1 6 ~ \\mathrm { m s }$ .It grows faster compared with the high DO condition as has been shown in Fig.7 (b). After the nucleus attaches to the wall, fingerlike sheet cavity grows more widely in streamwise and spanwise directions than the high middle DO conditions, probably due to less number of flowing nuclei. In the case with $U _ { \\mathrm { t h } } = 4 ~ \\mathrm { m / s }$ ,aspherical nucleus travels the distance of $2 . 8 ~ \\mathrm { m m }$ along the wall in a time duration of 0.64 ms.It grows more rapidly than that observed for $U _ { \\mathrm { t h } } = 1 0$ $\\mathrm { m / s }$ ，which seems to be simply because the residence time of the bubble nucleus in low pressure region is longer for the lower velocity case.The tail of the nucleus attaches to the wall,and the sheet cavity forms. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It has been observed that the moving velocity of bubblenucleiisalittle bitfaster thanthenozzle throatvelocity $U _ { \\mathrm { t h } }$ which seems to indicate that there exists a slip velocity between the bubble nuclei and the surround liquid,even though the bubble nuclei are small. For more meaningful discussion about the slip velocity, it is neces sary to specify the local velocity of liquid phase,which remains in our future study. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2ef92920d6120977e4df30a9479aeccab9c8b4e2af9d9444c783bd87f8e8b363.jpg",
+        "img_caption": [
+            "Fig.7Comparison of bubble nuclei behaviors in high DO condition ( $U _ { \\mathrm { t h } } = 1 0 \\mathrm { m / s }$ ， $\\mathrm { D O } = 8 . 4 \\ \\mathrm { m g / L }$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/cadc5b5794bdee198227a96f2a63eb5d5960ed7a3deca2bba386b0986480b823.jpg",
+        "img_caption": [
+            "Fig.8Sheet cavitation inception in filtered middle DO condition ( $\\mathrm { \\mathit { U } _ { t h } } = 1 0 \\ : \\mathrm { m } / \\mathrm { s }$ $\\sigma = 0 . 8 6$ ， $\\mathrm { D O } = 4 . 3 \\ \\mathrm { m g / L }$ ， "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9a68f3c29ea5906406c97c30a1a183b9ab3882b6ce29c14292e09a9a82caa839.jpg",
+        "img_caption": [
+            "Fig.9Effect of nozzle throat velocity on inception of sheet cavitation (Low DO condition) "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this study,visual observations of inception of sheet cavitation are carried out fora two-dimensional convergent-divergent nozzle flow. The effects of the amount of dissolved air, the nuclei number density,and the flow velocity is investigated.It is found that the nuclei number density is the primary factor for the inception of sheet cavity from free nuclei. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In large nuclei number density condition, the sheet cavity does not form and the bubbly cavitation appears instead.Many bubble nuclei interact with each other, which prevents the formation of sheet cavity from each nucleus.On the other hand in the low nuclei number density condition, the sheet cavity starts to form from a single nucleus and it grows both streamwisely and span wisely. In the middle nuclei number density condition the sheet cavity starts to form from a single nucleus regardless of the amount of dissolved air. Its extent in streamwise and spanwise directions is limited due to the interaction with other flowing nucleus,perhaps depending upon the local/instantaneous bubble nuclei distribution. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The authors would like to thank to our student, Mr. Akifumi Fukumizu, for his extensive participation to experimental works in this study. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Brennen,C.E.:Cavitation and Bubble Dynamics,Oxford University Press, Oxford (2005).   \n[2]Kodama, Y., Take, N., Tamiya, S.and Kato, H.: Study on Cavitation Inception (lst Report), Japanese Journal of the Society of Naval Architects of Japan,vol.144,pp.78-87, (1978).   \n[3]Kodama, Y., Take, N., Tamiya, S.and Kato, H.: Study on Cavitation Inception (2nd Report),Japanese Journal of the Society of Naval Architects of Japan，vol.144, pp.93-100,(1978).   \n[4]Arakeri,V.H.and Acosta,A.J.:Cavitation Inception Ob-servations on Axisymmetric Bodies at Supercritical Reyn-olds Numbers,”Journal of Ship Research,vol.20, no. 1,pp.40-50 (1976).   \n[5]Rijsbergen, M.: A Review of Sheet Cavitation Inception Mechanisms,Proceedings of ISROMAC2016,No.356, (2016). ",
+        "page_idx": 5
+    }
+]

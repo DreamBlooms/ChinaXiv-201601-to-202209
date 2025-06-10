@@ -1,0 +1,38 @@
+# T-Area-Marker for Scientific Images
+
+CHEN Guang& GUO Chunfang Email: 2471955877@qq.com
+
+[Key Words] area marker, t-area-marker, tAreaMarker, medical images,dermatopathology [Abstract] Labeled images are one of the most important means of scientific communication and education. However， traditional markers (arrows， lines) are point markers; do not include information about how large the feature is. We designed an efficient marker system for labeling scientific images (electron or light microscopy, CT, MRl，ultrasonography, camera pictures,etc), called the“T Area Marker, (TAM)". The basic TAM marker looks like a “T"，composed of a line segment and a small tick on one end; it defines an imagined circle that stands on the tickless end and the diameter of the circle is equal to the length of the line segment.Thus the TAM can define an exact area rather than a single point; and the imagined circle does not break the continuity of the image (unlike traditional visible circles,rectangles,etc). A TAM with N ticks $( \mathsf { N } { \geqslant } 1 )$ means the diameter equals to N times the length of TAM.A TAM may also have a tail and/or several tail branches to define translation of the imagined circle， thus define complicated areas. tAreaMarker.py is free software that combines the drawing and reading of TAMs,although in most cases TAMs are easily interpreted without computer assistance.
+
+# [Main Text]
+
+Labeled images are one of the most important means of scientific communication and education. However,traditional markers are often not sufficient. For example in Fig.1，Tomer et al.1 used arrows and lines as point markers,but they do not include information about how large the feature is. In contrast, the rectangle in Fig.1 surrounds target area breaks the continuity of the image.
+
+![](images/9486c6b5136ac1fb9deecf670dcba5b74b6be459a1a91dcfb81970cb60b0df2b.jpg)  
+Fig.1 An example of traditional markers used to label a scientific image¹.Interpretation of these labels is sometimes challenging.
+
+![](images/a32aeb4decde18e2537ede91ef2693fd812363fb08e3ce51a5876a47d6e5dc9e.jpg)  
+Fig.2 Explanations of T Area Markers (TAM)
+
+To facilitate more accurate labeling of images, we designed the “T Area Marker, (TAM)" (Fig. 2) and the corresponding software “tAreaMarker.py".Fig.2A is the basic TAM; it looks like the letter “T" or a nail composed of a “shaft" and a “tick" on one end.The meaning of this marker is shown in Fig.2B; the TAM defines the round gray region on the tickless end of the TAM and its diameter equal to the length of the shaft.
+
+When the area is very smal, the marker is also very short (Fig.2C).In order to make the marker more visible,a “tail" might be added to the marker (Fig.2D).This tail is just an elongation of the shaft and thus is called a “tail stem". Because the letter identifying the marker is always on the opposite side from the target area,it is easy to distinguish between the“tail stem" and the "shaft".
+
+The tail can also be bent to form a “tail branch"(Fig.2E).The“tail branch" should be separated from the “tick"by“tail stem". One of the applications of “tail branch"is to keep labels from obstructing key areas of the image.
+
+For large objects,a TAM marker might have two or more ticks (Fig.2F); this means that the diameter of the target region is two or more times the length of the shaft.Such markers might also have a tail (Fig. 2G).
+
+A marker might have no tick (Fig.3C); such marker may have two meanings: one target area is a boundary of no depth; two target area extends infinitely in the direction (downward in Fig.3C).
+
+A TAM can also be used to mark complex regions that are not round (Fig.2H).The marker near the letter $\prime \prime ^ { \prime \prime }$ has one “tail branch" pointing upward (not point at its letter), such “tail branch" means that the target area is bigger than the TAM-defined round area; it extends in the upward direction (the direction pointed by the “tail branch").The marker next toit in the upward direction has two“tail branches", respectively pointing to upward and downward, but has no letter; this means that it is a “consequent marker" to continually mark the complex area.The next marker at the top has one “tail branch" pointing to downward,but has no letter; this means that it is the ending marker of the consequent markers.
+
+Sometimes one or more of the “consequent markers" might have no tail (Fig. 2l),but the starting marker and the ending marker must have “tail branch". Fig. 2J shows the TAMs for a Jshaped area. Sometimes there might be only “consequent marker" without starting marker and ending marker (Fig.3A, Fig. 3B), and it must have a letter.
+
+Fig.3shows our software tAreaMarker 1.5 （ tAreaMarker15.zip, https://sourceforge.net/projects/tareamarker/files/) for drawing and reading TAMs, and examples of the TAM in a histological image of the skin.Fig. 3C has onlya shaft, without a tick or tail; here it means that its target area extends infinitely in the direction (downward in this case). Fig. 3 E, F show that when the area has a clear boundary, the basic TAM without a tail would be enough; and thus the TAMs in most applications might be very brief. Fig.3G shows software aided reading a 3- tick-TAM: roll the mouse wheel to set $^ { \prime \prime } { \sf N }$ times" to 3; drag with right-mouse-key from the tickless end to the ticked end of the TAM and a temporary circle willappear to show the target area of the TAM.It is easy to exactly match the mouse cursor to the line, because tAreaMarker.py also allows moving the mouse cursor with the four arrow keys on key board pixel by pixel. The temporary circle will be hidden or shown when the key $^ { \prime \prime } { \mathsf { C t r } } | ^ { \prime \prime }$ is pressed, and will be deleted when right-click anywhere.The same process can also draw new TAMs (details in supplementary materials).
+
+![](images/06ffcd914e23a4e15b8ebf9fb95f0e14cff248a333cda78b572fedcd5b95b58f.jpg)  
+Fig.3 An example of the use of TAMs to label a histological image of the skin. A: stratum corneum, B: epidermis, C: dermis,D: hair follicle,E: hair follicle,F: sebaceous gland and hair follicle，G: sebaceous gland, H: sweat gland, I: sweat duct, J: infiltrating inflammatory cells
+
+# [References]
+
+1. Tomer, R., Khairy, K., Amat, F.& Keler, P.J. Quantitative high-speed imaging of entire developing embryos with simultaneous multiview light-sheet microscopy. Nat. Methods 9,755-763 (2012).

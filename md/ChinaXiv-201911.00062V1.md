@@ -1,0 +1,242 @@
+# 秦岭南北区域夏季极端降水与西太平洋副热带高压的关系
+
+殷田园，殷淑燕，李富民（陕西师范大学地理科学与旅游学院，陕西 西安710119)
+
+摘要：利用1960—2016年秦岭南北地区47个站点的逐日降水数据与同期西太平洋副热带高压的面积指数、强度指数、西伸脊点、脊线位置数据,统计分析了秦岭南北地区夏季极端降水指数与副高指数的相关关系。结果表明： $\textcircled{1}$ 从整体上看,各极端降水指数与面积指数、强度指数总体成正相关;与西伸脊点总体上成负相关,但会出现一些异常年份和负相关年份;而各极端降水指数与脊线位置的关系呈现正负相关交替的现象。年代际分析和M-K检验表明,副高指数、极端降水指数在20 世纪80 年代发生了增强、增大的突变。 $\textcircled{2}$ 把秦岭南北划分为4个区域后，无论时间上还是空间上，当面积指数、强度指数偏大,脊线位置偏南，西伸脊点偏西,秦岭以北、秦岭以南和汉水流域中部趋于干旱,汉水流域东西部和巴巫谷地极端降水偏多;反之,相反。这样的极端降水格局应是秦岭等山脉对副高在气候上的响应结果。 $\textcircled{3}$ 秦岭南北地区夏季极端降水偏多年与面积指数偏大、强度指数偏强、脊线位置偏南、西伸脊点偏西相联系,反之,相反。副高西伸可能是秦岭南北地区极端降水增大的重要原因之一。
+
+关键词：夏季；极端降水；副热带高压指数；秦岭南北
+
+IPCC 第五次报告[指出,气候的变暖是毋庸置疑的事实。基于大气观测，1983一2012年北半球的温度是一千多年来最温暖的30a（中等信度）。在全球变暖的背景下，全球多数区域极端降水呈现增加趋势，但并未像极端气温一样具有全球一致性[2-3]。南太平洋、中美洲、加勒比海地区及东南亚的年极端降水量占年总降水量的比例增大[4-5],大陆中高纬度地区降水增加较多，非洲等地区降水则呈减少趋势[6]。与全球极端降水变化特征相似的是,我国的极端降水也呈现一定的区域性[7]。翟盘茂和潘晓华[的研究指出，中国极端降水事件存在明显的区域性和时间性，华北极端降水呈减少趋势，西北、西南及华南等地均呈增加趋势。极端降水对经济、生活、生产等影响巨大，所以，极端降水的研究需要积极的探索，这有助于预防和控制极端降水所造成的严重危害。已有的研究中，主要是针对不同区域极端降水的时空分布特征、强度、频数、成因、集中期、集中度以及极端降水对生态系统等的影响[3.9-20]。其中,在成因分析中,关于西太平洋副热带高压(简称副高)对极端降水影响的研究较少，副高是影响我国气候的重要环流系统。2018年副高异常偏北，副高强度异常偏强，西伸脊点异常偏西，副高西段脊线位置达到了 $4 0 ^ { \circ } \mathrm { N }$ 附近,较常年同期偏北10个纬度（约 $1 ~ 0 0 0 ~ \mathrm { k m }$ )。这不仅造成陕西关中地区、重庆东部、福建北部、广西北部及新疆南部盆地等的异常持续高温，最高可达 $4 0 \ \mathrm { { ^ circ C } }$ 以上，而且造成黑龙江南部、河南中部和东部、陕西东南部、甘肃陇中及四川盆地西部多地出现分散性暴雨( $5 0 \sim$ $9 0 ~ \mathrm { m m }$ )，甘肃临夏、康乐大暴雨( $1 3 7 \ \mathrm { m m }$ ），还会影响台风的走向,从而影响我国的受灾区域[21-22]。因此，研究副高对我国极端降水的影响具有重要的意义。
+
+秦岭是横贯我国中部的东西走向山脉，地形地貌和生态环境复杂多样，加之还是南亚、东亚季风共同影响的边缘区[23]，是我国暖温带和亚热带、湿润与半湿润气候的分界线，是我国重要的地理分界线，因此是全球气候变化研究的重要区域之一(24-27]且近年来，秦岭南北的突发性强降水事件、连续性干旱事件不断增加[3.28]。而夏季是秦岭南北地区产生降水与极端降水的主要时期，因此缩小尺度，研究秦岭南北地区的夏季极端降水，这有助于放大和发现规律，避免年尺度上由于平均而掩盖了特征
+
+暴雨雨团一般出现在中尺度辐合线或中尺度气旋性环流偏向暖湿气流一侧[29],而全球变暖背景下秦岭的气候分界作用明显，秦岭以北趋于干旱，秦岭以南比较湿润[30],因此,秦岭南北对于副高的响应有所差异。本文将秦岭南北夏季极端降水与同期副高联系起来，试探析两者之间的关系以及秦岭南北地区由于秦岭山脉的分水岭作用，从而对副高响应产生的差异之处。
+
+# 数据来源与研究方法
+
+研究区域的选取依据前人[31-33]的研究成果,选取分布在秦岭南北区域的47个站点，将研究区域划分为4个子区域：秦岭以北、秦岭南坡、汉水流域、巴巫谷地。研究区内具体站点的分布状况如图1所示。1960—2016年47个站点逐日降水数据来源于中国气象科学数据共享服务网（http：//www.cdc.
+
+cma.gov.cn）。根据中国气象局业务标准，每日降水量的观测时间是前日20：00至当日20：00共 $2 4 \mathrm { ~ h ~ }$ ，如1960年2月14日长武站的降水值为 $2 . 8 ~ \mathrm { m m }$ ，是指1960年2月13日20：00至2月14日20：00期间观测到的降水量为 $2 . 8 \ \mathrm { m m }$ 。季节划分采用气象学标准，夏季指6、7、8月。1960—2016年逐月夏季副高面积、强度、西伸脊点、脊线位置指数数据来源于国家气候中心气候系统监测一诊断一预测一评估网(http://cmdp.ncc-cma.net/cn/index.htm）。4个指标取值说明如下：（a）面积指数： $1 0 ^ { \circ } \mathrm { N }$ 以北 $1 1 0 ^ { \circ } \sim$ $1 8 0 ^ { \circ } \mathrm { E }$ 范围内,平均位势高度大于588dagpm 网格点数。（b)强度指数：对平均位势高度大于588dagpm 网格点的位势高度值与587dagpm之差进行累计（即588为1，589为2），累计值为副高的强度指数。(c)脊线位置：取 $1 1 0 ^ { \circ } \sim 1 5 0 ^ { \circ } \mathrm { E }$ 范围内副高脊线位置与9条经线交点的纬度的平均值为副高的脊线位置。（d)西伸脊点：取 $9 0 ^ { \circ } \sim 1 8 0 ^ { \circ } \mathrm { E }$ 范围内588dagpm等值线最西位置所在的经度定义为副高的西脊点。
+
+![](images/7812ef2194dd4bb679b4fd1347883c2a50920f109d7d8ceb7265bff7701407a1.jpg)  
+图1研究区域及气象站点分布  
+Fig.1The study area and the distribution of meteorological stations
+
+目前，极端降水的定义有2种，即绝对阈值法和百分位阈值法。前者是指确定一个具体的降水量为阈值，当某天降水量超过这个阈值时，就认为这一天发生了极端降水事件。通常，我国将日降水量大于$5 0 ~ \mathrm { m m }$ 的降水事件称为暴雨，日降水量大于 $2 5 \ \mathrm { m m }$ 的降水事件则称为大雨[8.34-35]。但是,这种绝对阈值法未能考虑到研究区地形地貌、地理位置和气候的差异，尤其在大区域不具有一致性。国际上通常使用百分位阈值法，采用某个百分位值作为极端阈值，当超过阈值时则属于极值，被认为发生了极端降水事件[33]
+
+考虑到秦岭南北地区地形复杂，气候多样,研究区域面积广阔，本文采用百分位阈值法。引用翟盘茂和潘晓华[8] $9 9 \%$ 极端降水阈值的定义。具体方法是：筛选出某个站点1960—2016年逐年日降水量大于 $1 \ \mathrm { m m }$ 的降水值，将日降水量按升序排列，定义第99个百分位值的降水量为极端降水阈值。当某站某日降水量大于该站阈值时，就发生1次极端降水事件,该日则是一个极端降水日。计算出极端降水后，挑选出其中6一8月份数值，得到夏季极端降水。
+
+参考江秀芳等[36]和任国玉等[37]提出的极端降水指数，即从世界气象组织（WMO）气候学委员会（CCL）及气候变率和可预报性研究计划（CCLIV-AR)推荐的50种极端气候指数中，选取关于极端降水的5个气候指数(表1），计算得出夏季(6一8月）极端降水指数。
+
+表1极端降水气候指数  
+Tab.1 Climate indices related to extreme precipitation   
+
+<html><body><table><tr><td>指数名称</td><td>单位</td><td>代码</td><td>定义</td></tr><tr><td>暴雨日数</td><td>d</td><td>R50</td><td>日降水量(PRCP)≥50 mm 的 日数</td></tr><tr><td>极强降水量</td><td>mm</td><td>R99P</td><td>日降水量>第99百分位值的 总降水量</td></tr><tr><td>降水强度</td><td>mm·d-1</td><td>SDII</td><td>总降水量与降水日数（日降 水量≥1mm)</td></tr><tr><td>1d最大降水量</td><td>mm</td><td>Rx1day</td><td>每月最大1d降水量</td></tr><tr><td>5d最大降水量</td><td>mm</td><td>Rx5day</td><td>每月连续5d最大降水量</td></tr></table></body></html>
+
+首先选取极端降水指标，分析研究区域夏季极端降水与同期副高指数的空间相关性以及夏季每个月份极端降水与副高指数之间关系的变化。其次，将研究区域逐年夏季极端降水指标与各副高指数距平后进行逐年对比，分析两者在年代际上的变化特征。接着，将研究区1960一2016年夏季极端降水量数据进行标准化处理，并定义正负一个标准差为夏季极端降水异常年，得出降水偏小、偏大和正常年份，比较这3种极端降水情况下副高指数的特征。最后，对极端降水指数和副高指数进行M-K检验，分析两者的突变特征，以期得出两者在时间上的关系。
+
+# 2 空间特征
+
+由于极端降水指标相对较多，受篇幅限制，无法逐一展示各个极端指标与副高的相关变化。通过构建极端指数相关矩阵，发现R50具有很好的代表性，R50与其他极端降水指标均高度相关（ $\boldsymbol { P } <$ 0.001），其中与R99P、Rx5day 和 SDII的相关性大于0.85。因此，R50可作为典型指标，较好地反映多数
+
+极端降水指标变化特征。
+
+将副高指数标准化处理之后，以一个正负标准差为上下限，得到副高异常偏大年和偏小年。为了更清楚的表现极端降水与副高指数的空间关系，将副高异常偏大年的R50 减去偏小年，绘制副高异常时极端降水分布图（图2）。当面积指数、强度指数异常偏大时，秦岭以北和秦岭南部趋于干旱，巴巫谷地极端降水偏多，汉水流域中部趋于十旱，东西部极端降水偏多；当脊线位置偏北时，秦岭以北和秦岭以南极端降水偏多，巴巫谷地趋于干旱，汉水流域中部极端降水偏多，东西部趋于干旱；当西伸脊点偏东时，汉水流域中部极端降水显著增多，其东西部和巴巫谷地趋于干旱。综上，当面积指数、强度指数偏大，脊线位置偏南，西伸脊点偏西，秦岭以北、秦岭南部和汉水流域中部趋于干旱，汉水流域东西部和巴巫谷地极端降水偏多；反之，则相反。
+
+这样的极端降水分布格局与秦岭南北区域的地形有较好的对应性。当面积指数、强度指数偏大，脊线位置偏南，西伸脊点偏西时，极端降水主要集中在四川盆地、巫山谷地、淮河上游和江汉平原西北部，当跨过米仓山一大巴山时，秦岭南麓、大巴山北麓则转为干旱，继续跨过秦岭时，秦岭以北地区进一步干旱。因此发现,秦岭、伏牛山、米仓山、大巴山对气流有较强的阻隔作用，使得极端降水在山脉两侧展现南北分异，从南到北逐渐递减。而当面积指数、强度指数偏小，脊线位置偏北，西伸脊点偏东时（图均略），极端降水格局则完全相反。
+
+由于秦岭南北地区夏季每个月份极端降水差别大，故逐月分析副高异常时极端降水空间变化。当面积指数、强度指数偏大，西伸脊点偏西时，6、7月极端降水带基本一致，均位于汉水流域中部和巴巫谷地，8月极端降水带出现北移，最北到达秦岭以北东部。当脊线位置北移时（图3），6、7月极端降水亦无明显变化，均位于秦岭以北、秦岭以南东部和汉水流域的东北部，8月时，极端降水带北移，完全退出汉水流域。
+
+# 3时间变化
+
+# 3.1夏季极端降水与副高指数的逐年变化对比
+
+1960—2016年，夏季6—8月平均副高在整体上呈现逐年增强趋势。面积指数平均值为22.91，以每年0.15的速度呈增大趋势;强度指数平均值为
+
+![](images/ceeb9bf0fc90afb0299081eaacf4f23917ff5b860d9a4e8c22f71da77ff1b6ee.jpg)  
+图2副高异常年份夏季极端降水的分布特征
+
+Fig.2Distribution of summer extreme precipitation in the abnormal years with western pacific subtropical high
+
+![](images/52dda53b1af9daa7b5037bbc41468105b75c6e002afe91114cf461f3ac639c75.jpg)  
+图3脊线位置偏北时7、8月极端降水分布特征  
+Fig.3DistributionofextremeprecipitationinJulyandAugustintheabnormalyearswhentheridgelinewaslocatedtothenort
+
+43.33，以每年0.41的速度呈增强趋势;西伸脊点平均位于 $1 1 9 . 7 4 ^ { \circ } \mathrm { E }$ ,以每年0.13个经度的速度向西偏移;脊线位置平均位于 $2 4 . 6 0 ^ { \circ } \mathrm { N }$ ，以每年0.01个纬度的速度略微向北偏移。强度指数的增大趋势最为明显( $\textstyle P < 0 . 0 5 )$ ，脊线位置几乎无变化。1960—2016年，秦岭南北地区夏季6—8月R50均值为1.51d,历年几乎无变化。SDII均值为 $1 4 . 9 7 \ \mathrm { m m } \ \cdot$ $\textrm { d } ^ { - 1 }$ ,Rxlday均值为 $7 3 . \ 0 5 \ \mathrm { \ m m }$ ,Rx5day均值为$1 1 5 . 7 8 \ \mathrm { m m }$ ,分别以每年 $0 . 0 3 \ \mathrm { m m } \cdot \mathrm { d } ^ { - 1 }$ ） $\phantom { + } 0 . 0 8 \ \mathrm { m m }$ 、$0 . 0 8 \mathrm { ~ m m }$ 的速度呈缓慢增加趋势。R99P均值为$5 7 . 4 4 ~ \mathrm { m m }$ ，以 $0 . 2 2 \ \mathrm { m m } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ 的速度呈现增加趋势。秦岭南北区域的R50与面积指数、强度指数的变化基本一致，R50与面积指数、强度指数(图略）总体成正相关，在1993—2000年出现异常，即面积指数和强度指数陡然上升或者下降，R50无明显变化；从划分的区域来看，当面积指数、强度指数偏小时，秦岭以北的R50相较其他区域偏大，巴巫谷地的R50较小，秦岭南坡和汉水流域则处于过渡地带，反之，R50的分布格局相反。图4a中，R50和西伸脊点整体负相关，但在1993—2000 年成正相关;从划分的区域来看，当脊线位置偏北时，秦岭以北的R50偏大，巴巫谷地的R50偏小，秦岭南坡和汉水流域的R50介于中间，反之，相反。图4b是关于R50与脊线位置比较，1970年前两者呈正相关，其余年份成负相关；从划分的区域来看，当西伸脊点偏东时，秦岭以北的R50偏大，巴巫谷地的R50偏小，秦岭南坡和汉水流域则介于中间，反之，相反。
+
+关于R99P与面积指数、强度指数（图略）的对比，1968一1974年，面积指数、强度指数增大，但R99P并无明显变化；1986—2000年，R99P与面积指数、强度指数成负相关，其余年份均成正相关。关于R99P与西伸脊点（图略）的对比，1986年前，R99P与西伸脊点成负相关，1986—1991年西伸脊点无变化，但R99P异常减小，1992—2004两者成正相关，2004年后成负相关。从R99P与脊线位置（图5)的关系看，两者正负相关交替，1978年以前，两者成正相关;1978—1986年，脊线位置略微南移，R99P增大，两者负相关，1986年后，两者仍然为负相关。划分后各区域的R99P对副高指数的响应与R50对副高指数的响应一致，不再赘述。
+
+SDII与面积指数、强度指数（图略)对比，总体成正相关，但1993一2002年，SDII与面积指数、强度指数成负相关，而1968一1974年面积指数、强度指数增大，但SDII并无明显变化。SDII与西伸脊点在1991年前成负相关，1992—2001年成正相关，之后两者仍成负相关。关于SDII与脊线位置（图略），1970年前出现异常，脊线位置明显南移，但SDII并无明显变化；之后的年份呈现正负相关交替。划分注：以上指数均为距平后的5a滑动平均值。
+
+![](images/536e679f7612ed4046c113c4a968f42f4f7ea0dd7230e94fd8ab8a8049e65503.jpg)  
+注：以上指数均为距平后的5a滑动平均值。  
+Fig.4Relationship between R5O and west ridge point and ridge line of western pacific subtropical high indices
+
+![](images/7a59d6c967fb0d951e260448ab57d45b6089a4f8eb69d0f9c9538f7cfd0babea.jpg)  
+图4R50与副高西伸脊点、脊线位置的关系  
+图5R99P与脊线位置的关系  
+Fig.5Relationship between R99P and ridge line indices
+
+![](images/d18d488b5ebab6215ae944244c5264ce6963a231efd1d7679bf89cc8985670e6.jpg)  
+注：以上指数均为距平后的5a滑动平均值。  
+图6Rx1day与西伸脊点的关系  
+Fig.6Relationship between Rxlday and west ridge point indices
+
+后各区域的SDII对副高指数的响应与上述极端降水指数对副高指数的响应一致，不再赘述，
+
+Rx1day与面积指数、强度指数（图略)的对比，与R99P一致，总体成正相关，也出现1968一1974年的异常和1986—2000 年的负相关。Rx1day 与西伸脊点的对比（图6），1990一1994年出现异常，即西伸脊点基本无变化，但Rx1day却异常增大。除此异常之外，两者成负相关。关于Rx1day与脊线位置的对比（图略），1970年前，脊线位置明显南移，但Rx1day并无明显变化，此异常与SDII一致。之后的年份出现正负相关交替。划分后各区域的Rx1day对副高指数的响应与上述极端降水指数对副高指数的响应一致，不再赘述。
+
+Rx5day和面积指数、强度指数、西伸脊点、脊线位置的趋势对比与Rx1day一致，不再赘述。划分后各区域的Rx5day对副高指数的响应与上述极端降水指数对副高指数的响应一致，不再赘述。
+
+综上分析， $\textcircled{1}$ 各极端降水指数与面积指数、强度指数总体成正相关，但会出现一些异常年份和负相关年份。例如1968一1974年面积指数、强度指数增大，R99P、SDII、Rx1day、Rx5day无变化。不同的极端降水指数出现异常的年份是不同的，且差别较大；成负相关的年份也是不同的。 $\textcircled{2}$ 各极端降水指数与西伸脊点总体成负相关，但也存在异常年份和正相关年份，且异常年份和正相关年份的时长是不同的。 $\textcircled{3}$ 各极端降水指数与脊线位置的关系出现正负相关交替的现象。 $\textcircled{4}$ 各子区域的极端降水指数对副高指数的响应不同。当面积指数、强度指数偏大，脊线位置偏南，西伸脊点偏西时，相较其他区域，秦岭以北的极端降水偏小，巴巫谷地偏大，秦岭南坡和汉水流域则处于过渡地带。
+
+# 3.2夏季极端降水与副高指数的年代际变化
+
+表2给出了1960—2016年夏季副高各指数和秦岭南北极端降水指数不同年代的距平情况。在20世纪60年代，面积指数、强度指数、西伸脊点均小于平均值,脊线位置趋于正常，各极端降水指数均小于平均值，且SDII、Rx1day、Rx5day小于一个负的标准差，整体来看副高略偏西，极端降水偏少。20世纪70年代，面积指数、强度指数均小于一个负的标准差，西伸脊点大于一个正的标准差，脊线位置趋于正常，各极端降水指数均小于平均值，且R99P、R50、SDII小于一个负的标准差，整体副高偏弱、偏东,极端降水偏少。20世纪80 年代,面积指数、强度指数小于平均值，西伸脊点大于平均值，脊线位置则小于一个负的标准差，各极端降水指数大于平均值，且R99P、R50、Rx1day、Rx5day大于一个正的标准差,整体副高偏南,极端降水偏大。20 世纪90 年代，面积指数、强度指数大于一个正的标准差，西伸脊点小于一个负的标准差，脊线位置趋于正常，SDII、R50 趋于正常值，R99P、Rx5day小于一个负的标准差，整体副高偏强、偏西，极端降水略偏少。21世纪00年代，面积指数、强度指数大于平均值，西伸脊点略偏西，脊线位置趋于正常，各极端降水大于平均值，且R50、SDII、Rx5day大于一个正的标准差，副高略偏强、偏西，极端降水偏大。21世纪10 年代（由于本文数据仅到2016年，因此10年代是指2010一2016年），西伸脊点继续偏西，脊线位置大于一个正的标准差，R50、Rx5day 趋于正常值,R99P、SDII、Rx1day大于平均值,整体副高偏北、略偏西,极端降水略偏大。
+
+# 3.3 突变性分析
+
+对1960—2016年副高指数进行M-K检验。由图 $7 a \sim 7 d$ 可知，面积指数在1980年左右发生了增大的突变;强度指数在1985年左右发生了增强的突变；脊线位置的UF与UB曲线在0.05阈值线内存在两个交点，但UF曲线并未超过0.05阈值线，因此副高脊线指数虽在1990年后出现增加趋势，但并未发生突变;西伸脊点在1981年出现了减少的突变。以上分析表明，面积指数、强度指数、西伸脊点均在20世纪80 年初发生了突变，即副高在80 年代
+
+表2不同年代副高指数和秦岭南北夏季极端降水指数的距平值  
+Tab.2The anomalies of western pacific subtropical high indices and the indices of summer extreme precipitation in the north and south of the Qinling Mountains in different decades   
+
+<html><body><table><tr><td>指数距平</td><td>20 世纪60年代</td><td>20 世纪70年代</td><td>20 世纪80年代</td><td>20 世纪90年代</td><td>21世纪00年代</td><td>21 世纪10年代</td><td>标准差</td></tr><tr><td>脊线位置</td><td>0.14</td><td>0.14</td><td>-1.73</td><td>0.01</td><td>0.24</td><td>1.20</td><td>0.87</td></tr><tr><td>副高面积</td><td>-1.80</td><td>-6.10</td><td>-1.10</td><td>5.16</td><td>3.26</td><td>0.59</td><td>3.64</td></tr><tr><td>副高强度</td><td>-6.30</td><td>-16.06</td><td>-2.00</td><td>14. 07</td><td>6.54</td><td>3.75</td><td>9.63</td></tr><tr><td>西伸脊点</td><td>-1.47</td><td>7.80</td><td>2.93</td><td>-4.77</td><td>-1.34</td><td>-3.14</td><td>4.20</td></tr><tr><td>R99P</td><td>-5.95</td><td>-7.91</td><td>9.56</td><td>-7.59</td><td>6.31</td><td>5.57</td><td>7.28</td></tr><tr><td>R50</td><td>-0.14</td><td>-0.16</td><td>0.24</td><td>-0.05</td><td>0.17</td><td>-0.05</td><td>0.15</td></tr><tr><td>SDII</td><td>-0.78</td><td>-0.60</td><td>0.15</td><td>0.16</td><td>0.63</td><td>0.43</td><td>0.51</td></tr><tr><td>Rx5day</td><td>-5.09</td><td>-0.28</td><td>5.59</td><td>-5.31</td><td>5.08</td><td>0.00</td><td>4.31</td></tr><tr><td>Rx1day</td><td>-3.92</td><td>-0.24</td><td>3.46</td><td>-2.03</td><td>1.82</td><td>0.91</td><td>2.44</td></tr></table></body></html>
+
+注：黑体为大于一个正标准差或小于一个负标准差的数值。
+
+![](images/68a3d3282ff8b23fe16b32293811b7890209167578647c1f26058e75e219ff2e.jpg)  
+图71960—2016 年夏季副高指数及秦岭南北地区极端降水指数的M-K检验  
+Fig.7M-Ktestof the indices of western pacific subtropical high and summer extreme precipitation indices in the south and north of the Qinling Mountains during 196O -2016
+
+初出现增强趋势。
+
+对秦岭南北地区夏季极端降水指数进行突变性检验的结果，如图7。由图 $\mathrm { 7 e } \sim \mathrm { 7 i }$ 可知，在0.05值线内R50的 $U F$ 与 $U B$ 曲线有5个交点，但 $U F$ 曲线始终未超过0.05 阈值线，说明R50十分不稳定;R99P在1974—1984年的增加趋势中，于1978年出现增大的突变;SDII在1978、1986年发生了增大的突变;Rx1day 在1960—1963 年的增加趋势中，于1961年发生了增大的突变，在1974—1984年的增加趋势中，于1975年发生了增大的突变;Rx5day并没有出现突变现象。以上分析表明，所有极端降水指数都呈现增加趋势，SDII的增加幅度最大;其次R99P、SDII、Rx1day均在20世纪80 年代前后发生了增大的突变，表明秦岭南北地区的极端降水在80年代前后发生了增大的突变。
+
+# 4夏季极端降水异常年份的副高变化
+
+将极端降水数据标准化处理之后，以一个正负标准差为上下限，得到极端降水偏大年9a（1980、1981、1982、1989、2000、2005、2007、2010、2016 年）,偏小年6a（1974、1985、1986、1993、2001、2015年)和正常年 $4 2 \mathrm { ~ a ~ }$ 。然后观察极端降水偏多、偏少和正常年份的副高指数变化情况（图8）。
+
+6月初，东亚高空西风急流出现第二次北跳[38],西伸脊点在北进西伸至台湾海峡等区,随之,季风雨带也由华南跳到江淮流域,即江淮梅雨期。统计表明，在极端降水偏多年的6月（图8a），面积指数偏大，强度指数偏强，脊线位置位于 $2 0 . 3 3 ^ { \circ } \mathrm { N }$ 西伸脊点位于 $1 1 0 . 5 6 ^ { \circ } \mathrm { E }$ ;正常年份的6月，脊线位置位于 $2 0 . 5 5 ^ { \circ } \mathrm { N }$ ,西伸脊点位于 $1 1 9 . 1 7 ^ { \circ } \mathrm { E }$ ;在极端降水偏少年的6月，面积指数、强度指数都最小，脊线位置位于 $2 1 . 1 7 ^ { \circ } \mathrm { N }$ ,西伸脊点位于 $1 2 4 . 1 7 ^ { \circ } \mathrm { E }$ 。极端降水偏多年的6月副高位置明显偏西，极端降水偏少年的6月副高位置偏东偏北，即副高的显著西伸更多的影响到秦岭南北地区，使得秦岭南北地区位于冷暖气流汇聚地区之内，从而产生更多的降水。
+
+在极端降水偏多年的7月（图8b），面积指数、强度指数仍然偏大，脊线位置位于 $2 5 . 3 3 ^ { \circ } \mathrm { N }$ ,西伸脊点位于 $1 1 8 . 3 3 ^ { \circ } \mathrm { N }$ ;正常年份的7月，脊线位置位于$2 5 . 3 6 ^ { \circ } \mathrm { N }$ ,西伸脊点位于 $1 2 0 . 9 5 ^ { \circ } \mathrm { E }$ ;在极端降水偏少年的7月，面积指数、强度指数最小，脊线位置位于$2 5 . 6 7 ^ { \circ } \mathrm { N }$ ,西伸脊点位于 $1 2 6 ^ { \circ } \mathrm { E }$ 。相较极端降水偏多年的6月，极端降水偏多年7月的副高东退北推，与正常年份7月的副高相比偏西，此时季风雨带也进一步推到秦岭南北地区。相较极端降水偏少年的6月，极端降水偏少年的7月仍然出现东退北推，较正常年份的7月副高位置偏东。
+
+在极端降水偏多年的8月（图8c），强度指数仍然最大，但面积指数略小于正常年份，脊线位置位于$2 7 . 1 1 ^ { \circ } \mathrm { N }$ ,西伸脊点位于 $1 2 0 . 1 1 ^ { \circ } \mathrm { E }$ ;正常年份的8月，脊线位置位于 $2 8 . 2 1 ^ { \circ } \mathrm { N }$ ,西伸脊点位于 $1 1 7 . 9 3 ^ { \circ }$ E；极端降水偏少年的8月，面积指数、强度指数依然最小,脊线位置位于 $2 6 . \ 1 7 ^ { \circ } \ \mathrm { N }$ ,西伸脊点位于$1 3 2 . 5 0 ^ { \circ } \mathrm { E }$ 。极端降水偏多年的8月较7月继续东退北推,较正常年的8月偏东偏南。与极端降水偏少年的7月相比,8月副高继续东退北推，较正常年的8月，副高位置偏南偏东程度严重。其次，极端降水偏多年7、8月副高脊线位置之间的差值小于正常年份7、8月，意味着极端降水偏多年副高在偏南位置停留的时间更长，雨带也在偏南的位置停留的时间更长，因此，带来更多地降水。
+
+计算出极端降水偏多年夏季面积指数的平均值为25.70，强度指数为52.74，较之偏少年份的17.17、31.56明显偏大。说明面积指数和强度指数
+
+偏大年 偏小年 正常年  
+140 (a)6月 140 (b)7月 140 (c)8月  
+120 120  
+100 100 100  
+860 8060 8060  
+40 40 4020  
+20 200 0 0茶  
+脊线位置 面积指数 强度指数 西伸脊点 脊线位置 面积指数 强度指数 西伸脊点 脊线位置 面积指 强度指数 西伸脊点
+
+Fig.8Characteristicsof wester pacificsubtropicalhigh indices intheyears with higher,normaland lowersummerextreme precipitation in the south and north of the Qinling Mountains
+
+与极端降水成正相关。极端降水偏多年夏季脊线位置平均位于 $2 4 . 2 6 ^ { \circ } \mathrm { N }$ ,相较于偏少年的 $2 4 . 3 3 ^ { \circ } \mathrm { N }$ 略偏南。极端降水偏多年夏季西伸脊点平均位于$1 1 6 . 3 3 ^ { \circ } \mathrm { E }$ ,相较于偏少年的 $1 2 7 . 5 6 ^ { \circ } \mathrm { E }$ 更偏西。说明副高脊线位置、西伸脊点与秦岭南北地区夏季的极端降水成负相关。由上述数据得出，秦岭南北地区夏季极端降水偏多年与面积指数偏大、强度指数偏强、脊线位置偏南、西伸脊点偏西相联系；反之，极端降水偏少年与面积指数偏小、强度指数偏弱、脊线位置偏北、西伸脊点偏东相联系。但是，极端降水偏多年与偏少年的脊线位置差值很小，也就是说，脊线位置对于秦岭南北地区夏季极端降水的影响并不是很大。俞亚勋等[39]认为， $4 2 \sim 4 9$ 候西太副高在北进过程中即使已经2次大幅度东撤，但仍存在短期西伸。翟颖佳等[40]的统计表明,过去50a华北8月多、少雨的副高差主要在西脊点的位置：多（少）雨月西脊点常在 $1 2 5 ^ { \circ } \mathrm { E }$ 以西( $1 3 0 ^ { \circ } \mathrm { E }$ 以东）。而夏季西北区东北部的降水环流常同华北区。据此推测，副高西伸可能是秦岭南北地区极端降水增大的重要原因之一。
+
+# 5结论
+
+（1）空间上，当面积指数、强度指数偏大，脊线位置偏南，西伸脊点偏西，秦岭以北、秦岭以南和汉水流域中部趋于干旱，汉水流域东西部和巴巫谷地极端降水偏多;反之，相反。其次发现秦岭、伏牛山、米仓山、大巴山对气流有较强的阻隔作用,使得极端降水在山脉两侧展现南北分异：当面积指数、强度指数偏大，脊线位置偏南，西伸脊点偏西时，极端降水主要集中在巴巫谷地，当跨过米仓山一大巴山时，汉水流域和秦岭南坡则转为干旱，继续跨过秦岭时，秦岭以北地区进一步干旱;反之，相反。随着时间的推进，脊线北移，夏季秦岭南北地区极端降水带北移。8月份副高对极端降水的影响更大。
+
+（2）时间上，各极端降水指数与面积指数、强度指数总体成正相关，与西伸脊点总体上成负相关，但会出现一些异常年份和负相关年份。而各极端降水指数与脊线位置的关系出现正负相关交替的现象。从划分的区域来看，各区域的极端降水指数对副高指数的响应不同：当面积指数、强度指数偏大，脊线位置偏南，西伸脊点偏西时，相较其他区域秦岭以北的极端降水偏小，巴巫谷地偏大，秦岭南坡和汉水流域则处于过渡地带;反之，相反。年代际上，20世纪60 年代副高略偏西，极端降水偏少;70年代，整体副高偏弱、偏东，极端降水略偏少;80年代，整体副高偏南，极端降水偏大;90年代，整体副高偏强、偏西，极端降水略偏少;21世纪00年代，副高略偏强、偏西，极端降水偏大;21世纪10年代整体副高偏北、略偏西，极端降水略偏大。对于1960—2016 年夏季副高指数和同期秦岭南北地区极端降水指数进行突变检验，结果表明副高指数、极端降水指数在80 年代发生了增强、增大的突变，这与副高和极端降水指数在年代际上的变化相呼应。
+
+（3）秦岭南北地区夏季极端降水偏多年与面积指数(25.70)偏大、强度指数(52.74）偏强、脊线位置 $( 2 4 . 2 6 ^ { \circ } \mathrm { N } )$ 偏南、西伸脊点（ $1 1 6 . 3 3 ^ { \circ } \mathrm { E }$ )偏西相联系，反之，极端降水偏少年与面积指数（17.17）偏小、强度指数(31.56)偏弱、脊线位置( $( 2 4 . 3 3 ^ { \circ } \mathrm { N } )$ 偏北、西伸脊点( $. 1 2 7 . 5 6 ^ { \circ } \mathrm { E }$ )偏东相联系。相较副高脊线位置，副高西伸可能是秦岭南北地区极端降水增大的重要原因之一。
+
+综上，当秦岭南北作为一个整体时，秦岭南北地区夏季极端降水偏多与面积指数、强度指数偏大，脊线位置偏南，西伸脊点偏西相联系;反之，相反。把秦岭南北划分为4个子区域后，无论时间上还是空间上，当面积指数、强度指数偏大，脊线位置偏南，西伸脊点偏西时，巴巫谷地极端降水偏多，秦岭以北偏少，秦岭南坡和汉水流域则处于过渡区域;反之，相反。秦岭南北的4个区域形成这样的极端降水格局与秦岭山脉、米仓山、大巴山等对气流的阻隔作用有关。
+
+最后，极端降水与副高之间的关系仍然不算特别明朗，极端降水的影响因素复杂，副高只是环流因素的一方面，还包括夏季风[41-42]、ENSO 事件[43-44]、太阳活动[45]等。且降水不像温度,具有全球一致性，下垫面对降水的影响要大于温度，因此，局部地区的降水因素，尤其是特殊地形地区，例如秦岭南北、青藏高原等，应继续深入研究。
+
+# 参考文献(References）:
+
+[1]IPCC.Climate Change 2013:The Physical Science Basis:The Summary for Policymakers of the Working Group I Contribution to the Fifth Assessment Report[R].Cambridge:Cambridge University Press,2013.   
+[2] Donat MG,AlexanderLV,YangH,etal.Global land-based data
+
+sets for monitoring climatic extremes[J].Bulletin of the American Meteorological Society,2013,94(7） :997-1006.
+
+[3]李双双,杨赛霓,刘宪锋.1960—2013 年秦岭—淮河南北极端 降水时空变化特征及其影响因素[J].地理科学进展，2015，34 (3）:354-363.[Li Shuangshuang,Yang Saini,Liu Xianfeng. Spatiotemporal variability of extreme precipitation in north and south of the Qinling-Huaihe region and influencing factors during 1960-2013[J].Progress in Geography,2015,34（3）:354- 363.]
+
+[4]Haylock MR,Peterson TC,AlvesL M,et al.Trends in total and extreme south American rainfall in 196O -2OO1 and links with sea surface temperature[J].Journal of Climate,2005,19(8）:1 490 - 1 512.
+
+[5] Goswami B N,Venugopal V,Sengupta D,et al.Increasing trend of extreme rain events over India in a warming environment[J].Science,2006,314:1 442-1 445.
+
+[6] IPCC.Climate Change 2OO1:The Science of Climate Change.Contribution ofWorking GroupIto the Third AssessmentReport of the Intergovernmental Panel on Climate Change[R].Cambridge:Cambridge University Press,2001:1-785.
+
+[7]严中伟,杨赤.近几十年中国极端气候变化格局[J].气候与环 境研究,2000,5（3）:267-272.[Yan Zhongwei,Yang Chi.Geographic patterns of extreme climate changes in China during 1951 -1997[J].Climatic and Environmental Research,2OOo,5（3）： 267 - 272. ]
+
+[8]翟盘茂,潘晓华.中国北方近50 年温度和降水极端事件变化 [J].地理学报,2003,58（增刊1）：1-10.［ZhaiPanmao,Pan Xiaohua. Change in extreme temperature and precipitation over Northern China during the second half of the 2Oth century[J].Ac ta Geographica Sinica,2003,58（Suppl.1）:1-10.]
+
+[9]杨金虎,江志红,王鹏祥,等.中国西北极端降水事件年内非均匀性特征分析[J].中国沙漠,2008,28（1）：178-184.[YangJinhu,Jiang Zhihong,WangPengxiang,et al.Analysis on inner-an-nual inhomogeneity characteristic of extreme precipitation events o-ver Northwest China[J].Journal of Desert Research,2O08,28(1):178-184.]
+
+[10）王志福，钱永甫.中国极端降水事件的频数和强度特征[J].水 科学进展,2009,20（1）:1-9.[Wang Zhifu,Qian Yongfu.Fre quency and intensity of extreme precipitation events in China[J]. Advances in Water Science,2009,20(1）:1-9.]
+
+[11]陈晓燕.中国北方极端降水事件特征及成因研究[D].兰州： 兰州大学,2O12.［Chen Xiaoyan.Studies on the Characteristics and Formative Causes of Extreme Precipitation Events in the Northern China[D].Lanzhou:Lanzhou University,2012.]
+
+[12]慈晖，张强，张江辉，等.1961—2010年新疆极端降水过程时空 特征[J].地理研究,2014，33（10)：1881-1891.[Ci Hui， Zhang Qiang,Zhang Jianghui,et al. Spatiotemporal variations of ex treme precipitation events within Xinjiang during 1961-2010[J]. Geographical Research,2014，33（10）:1 881-1 891.]
+
+[13]高涛，谢立安.近50年来中国极端降水趋势与物理成因研究综述[J].地球科学进展,2014,29（5）：577-589.[Gao Tao,Xie Li'an.Study on progress of the trends and physical causes ofextreme precipitation in China during the last 5O years[J].Ad-vances in Earth Science,2014,29(5）:577-589.]
+
+[14〕任正果，张明军，王圣杰,等.1961—2011年中国南方地区极端降水事件变化[J].地理学报，2014，69（5）：640-649.［RenZhengguo,Zhang Mingjun,Wang Shengjie,et al.Changes in pre-cipitation extremes in south China during 1961-2011[J].ActaGeographicaSinica,2014,69(5) :640-649.]
+
+[15」袁文德，郑江坤，董奎.1962—2012年西南地区极端降水事件的时空变化特征[J].资源科学，2014，36（4）：766-772.[Yuan Wende,Zheng Jiangkun,Dong Kui. Spatial and temporalvariation in extreme precipitation events in Southwestern Chinaduring1962-2012[J].Resources Science,2014,36（4）:766-772.]
+
+[16]张彬,朱建军，刘华民,等.极端降水和极端干旱事件对草原生态系统的影响[J].植物生态学报，2014，38(9)：1008-1018.[Zhang Bin,Zhu Jianjun,Liu Huamin,et al.Effects of extremerainfall and drought events on grassland ecosystems[J].ChineseJournal ofPlantEcology,2014,38(9）:1008-1018.]
+
+[17]张冰，刘宣飞，郑广芬，等.宁夏夏季极端降水日数的变化规律 及其成因[J].大气科学学报,2018,41（2）：176-185.[Zhang Bing,Liu Xuanfei,Zheng Guangfen,et al.Variation of the days of extreme precipitation in Ningxia in summer and its causes[J]. Transactions of Atmospheric Sciences,2018,41(2）:176-185.] [18]冯克鹏，田军仓，沈晖.近半个世纪河套地区极端降水事件的 气候特征[J].干旱区研究,2017,34(6）:1230-1239.[Feng Kepeng,Tian Juncang,Shen Hui.Climatic characteristics of extreme precipitation events in Hetao in recent half a century[J]. Arid Zone Research,2017,34(6):1 230-1 239.]
+
+[19］王炳钦，江源，董满宇，等.1961—2010 年北方半干旱区极端降 水时空变化[J].干旱区研究,2016,33（5）：913-920.[Wang Bingqin,Jiang Yuan,Dong Manyu,et al.Spatiotemporal variations ofextreme precipitation in the semiarid region in north China during the period of 1961-2010[J].Arid Zone Research,2016,33 (5):913 -920.]
+
+[20]靳俊芳，殷淑燕，庞奖励.近60a来汉江上游极端降水变化研究——以安康地区为例[J].干旱区研究，2014，31(6)：1061-1067.[Jin Junfang,Yin Shuyan,Pang Jiangli.Extreme precipi-tation in the upper reach of Hanjiang River in recent 6O years：Acase study of Ankang region[J].Arid Zone Research,2014,31(6):1061-1067.]
+
+[21]黄彬.登陆数偏多 登陆点偏北总体影响利大于 气象专家 解读今年影响我国台风特点[EB/OL].http://www.cma.gov. cn/2011xzt/2018zt/20180420/2018072301/201808/t20180822_ 476433.html,2018-08-22.[Huang Bin.The times of landings are more than before.The landing point is more north.The benefits outweigh the disadvantages in overall impact.Meteorologists interpret the characteristics of typhoons affecting China this year.[EB/ OL].http://www.cma.gov.cn/2011xzt/2018zt/20180420/2018
+
+072301/201808/t20180822_476433.html,2018 -08 -22.] [22]贾静淅.“摩羯”直奔浙江沿海，将成今年第3个登陆华东的台 风——今年台风何以偏爱江浙沪？〔EB/OL].htp://www. cma.gov.cn/2011xwzx/2011xqxxw/2011xqxyw/201808/t201808 11_475742.html,2018-08-11.[Jia Jingxi.“Capricorn”went straight to the coast of Zhejiang and will become the third typhoon to land in east China this year:Why are the landing places of typhoon more in Jiangsu,Zhejiang and Shanghai this year?[EB/ OL].http://www.cma.gov.cn/2011xwzx/2011xqxxw/2011 xqxyw/201808/t20180811_475742.html,2018-08 -11.]
+
+[23]宋佃星，延军平，马莉.近50年来秦岭南北气候分异研究[J]. 干旱区研究,2011,28（3）:492-498.[SongDianxing,Yan Junping,Ma Li. Study on climatic differentiation in the south and north Qinling Mountains in recent 5O years[J].Arid Zone Research, 2011,28(3):492-498.]
+
+[24]竺可桢.中国的亚热带[J].科学通报，1958（17）：524－528.[ZhuKezhen.Subtropical zone in China[J].Chinese Science Bul-letin,1958（17）:524-528.]
+
+[25]中国科学院《中国自然地理》委员会.中国自然地理：总论[M].北京：科学出版社,1985.［China Natural Geography Com-mittee of the Chinese Academy of Sciences.China Natural Geogra-phy:General[M].Beijing:Science Press,1985.]
+
+[26]杨勤业，郑度，吴绍洪.关于中国的亚热带[J].亚热带资源与 环境学报,2006,1(3）:1-10.[YangQinye,ZhengDu,Wu Shaohong.On subtropical zone of China[J].Journal of Subtropical Resources and Environment,2006,1(3）:1-10.]
+
+[27」康慕谊，朱源.秦岭山地生态分界线的论证[J].生态学报， 2007，27(7）:2774-2784.[KangMuyi，Zhu Yuan.Discussion and analysis on the geo-ecological boundary in Qinling Range[J]. ActaEcologica Sinica,2007,27(7):2774-2 784.]
+
+[28]刘畅.陕西省秦岭南北气候的差异性及其变化[D].兰州：兰 州大学,2O16.[Liu Chang.Climate Change and Its Difference between Southern and Northern Qinling in Shaanxi Province［D]. Lanzhou:Lanzhou University,2016.]
+
+[29]侯瑞钦，景华，张迎新，等. $0 5 \cdot 7 \cdot 2 3$ 河北暴雨中尺度分析 [J].气象,2006,32（7）:88-94,130.[Hou Ruiqin,Jing Hua, Zhang Yingxin,et al.A mesoscale analysis of a heavy rainfall event in Hebeion 23 July 2005[J].Meteorological Monthly,2006,32 (7):88-94,130.]
+
+[30]延军平，郑宇.秦岭南北地区环境变化响应比较研究[J].地理 研究,2001,20(5）:576-582.[Yan Junping,Zheng Yu.A comparative study on environmental change response over the northern and the southern regions of the Qinling Mountains[J].Geographical Research,2001,20(5):576-582.]
+
+[31]周旗，卞娟娟，郑景云.秦岭南北1951—2009 年的气温与热量资源变化[J].地理学报，2011，66（9）：1211-1218.［ZhouQi,Bian Juanjuan,Zheng Jingyun.Variation of air temperature andthermal resources in the northern and southern regions of the Qin-ling Mountains from 1951 to 2009[J].Acta Geographica Sinica,2011,66(9):1 211-1 218.]
+
+[32]蒋冲,王飞,刘焱序，等.秦岭南北风速时空变化及突变特征分 析[J].地理科学,2013,33（2）:244-250.[Jiang Chong,Wang Fei,Liu Yanxu,et al. Spatial-temporal variation and mutation of wind speed in the northern and southern regions of the Qinling Mountains[J].Scientia Geographica Sinica,2013,33（2）:244- 250.]
+
+[33］李菲.1962—2011年秦岭南北极端降水事件的时空变化特征 及原因分析[D].兰州：西北师范大学,2014.［LiFei.Spatialtemporal Changes and the Causes of Extreme Precipitation Events to the North and South of Qinling Mountain during 1962-2011 [D].Lanzhou: Northwest Normal University,2014.]   
+[34］叶香,陆维松,张天宇,等.近46a重庆汛期极端降水量异常特 征[J].大气科学学报,2008,31（5）:646-654.[Ye Xiang,Lu Weisong,Zhang Tianyu,et al.Anomaly characteristicsof extreme precipitation over Chongqing in flood season during 1961 - 2006 [J].Transactions of Atmospheric Sciences,2008,31（5）:646 - 654.]   
+[35］杨萍.近四十年中国极端温度和极端降水事件的群发性研究 [D].兰州:兰州大学,2009.[Yang Ping.Research of Group-occurring Extreme Temperature and Precipitation Events during 1960 - 2005[J].Lanzhou:Lanzhou University,2009.]   
+[36]江秀芳,李丽平,周立波.极端降水特性分析研究进展[J].气象 与减灾研究,2012,35（2）：1-6.[Jiang Xiufang,LiLiping,Zhou Libo.The research progress of the extreme precipitation[J].Meteorology and Disaster Reduction Research,2012,35(2):1-6.]   
+[37]任国玉,封国林,严中伟.中国极端气候变化观测研究回顾与 展望[J].气候与环境研究,2010,15（4）：337－353.［Ren Guoyu,Feng Guolin,Yan Zhongwei.Progresses in observation studies of climate extremes and changes in mainland China[J]. Climatic and Environmental Research,2010,15(4） :337-353.]   
+[38］李崇银,王作台,林士哲,等.东亚夏季风活动与东亚高空西风 急流位置北跳关系的研究[J].大气科学,2004,28（5）:641- 658.[Li Chongyin,Wang Zuotai,Lin Shizhe,etal. The relationship between east Asian summer monsoon activity and northward iump of the upper westerly jet location[J].Chinese Journal of Atmospheric Sciences,2004,28(5）:641 -658.]   
+[39］俞亚勋,王式功,钱正安,等.夏半年西太副高位置与东亚季风 雨带（区)的气候联系[J].高原气象,2013,32（5）：1510- 1 525.[Yu Yaxun,Wang Shigong,Qian Zheng'an,et al. Climatic linkages between SHWP position and EASM rainy-belts and areas in east partof China in summer half year[J].Plateau Meteorology, 2013,32(5):1 510-1 525.]   
+[40］翟颖佳,李耀辉,施春华.近50 年华北区8月降水异常的时空 特征及其成因分析[J].高原气象,2013,32（3)：787－797. [Zhai Yingjia,Li Yaohui,Shi Chunhua.Temporal and spatial characteristics of August precipitation in north China and its causes in last 50 years[J].Plateau Meteorology,2013,32(3):787-797.]   
+[41］郑丽娜,张子涵,王旭,等.东亚夏季风异常与黄淮地区夏季降 水的关系[J].气象科技,2019,47（1）:62-69.[Zheng Lina, Zhang Zihan,Wang Xu,et al.Relationship between east Asian
+
+summer monsoon anomaly and summer precipitation in Huanghuai region[J].Meteorological Science and Technology,2O19,47（1）: 62 -69.]
+
+[42］张庆云，陶诗言.夏季东亚热带和副热带季风与中国东部汛期 降水[J].应用气象学报,1998,9（增刊1）：17-23.［Zhang Qingyun,Tao Shiyan.Tropical and subtropical monsoon over east Asianand its influence on therainfall over Eastern China in summer[J].Journal of Applied Meteorological Science,1998,9（Suppl.1) :17 -23.]
+
+[43」金祖辉，陶诗言.ENSO循环与中国东部地区夏季和冬季降水关系的研究[J].大气科学，1999，23（6）：663-672.［Jin Zu-hui,Tao Shiyan.A study on the relationshipsbetween ENSO cycleand rainfalls during summer and winter in Eastern China[J].Chi-nese Journal of Atmospheric Sciences,1999,23(6):663-672.][44」陈丽娟，袁媛，杨明珠，等.海温异常对东亚夏季风影响机理的研究进展[J].应用气象学报，2013，24（5）：521-532.［ChenLijuan,Yuan Yuan，Yang Mingzhu,et al.A review ofphysicalmechanisms of the global SSTA impact on EASM[J]. Journal ofApplied Meteorological Science,2013,24(5）:521-532.]
+
+[45]张蓓蓓，王朋，张辉，等.近63a安康地区降水与太阳黑子活动 的相关性分析[J].干旱区研究，2018，35（6)：1336-1343. [Zhang Beibei,Wang Peng,Zhang Hui,et al.Correlation between sunspot activity and precipitation in the Ankang region in recent 63 years[J].Arid Zone Research,2018,35(6):1 336-1 343.]
+
+# Relationship between the Summer Extreme Precipitation in the South and North of the Qinling Mountains and the Western Pacific Subtropical High
+
+YIN Tian-yuan，YIN Shu-yan，LI Fu-min (School of Geography and Tourism，Shaanxi Normal University,Xi'an 71o119,Shaanxi,China)
+
+Abstract：The relationship between the summer extreme precipitation in the north and south of the Qinling Mountains and the western pacific subtropical high was analyzed based onthe daily precipitation data from 47 stations in the north and south of the Qinling Mountains and thedata of area,intensity，west ridge point and ridge line index of western pacific subtropical high from 196O to 2O16.The results showed that : $\textcircled{1}$ On the whole，the extreme precipitation indices were positively correlated with the area and intensity of western pacific subtropical high；they were negatively correlated with the west ridge point，but some abnormal years and negatively-correlated years appeared.The positive and negative corelations between the extreme precipitation indices and the ridge line occurred alternatively.Decadalanalysis and M-K test revealed thata mutation increaseof the western subtropical high indices and the extreme precipitation indices occurred in the 1980s; $\textcircled{2}$ After the north and south of the Qinling Mountains were divided into four regions，no matter temporallyor spatially，drought occurred in the regions to he northand tothe south of the Qinling Mountainsandthecentral Hanshui River Basin，butthe frequencyof extreme precipitation increased in the east and west parts of the Hanshui River Basin and the Bawu Valey when the area and intensity indices were larger,the ridge line index was more southward,and the west ridge point index was more westward.On the contrary，it was opposite. Such extreme precipitation paterns should bethe result of response of the Qinling Mountains to the subtropical $\mathrm { { h i g h } ; \textcircled { 3 } }$ The increase of summer extreme precipitation in the north and south of the Qinling Mountains in some years was related to the higher area index，intensity index，southward ridge line and westward ridge point.On the contrary，it was opposite.The westward pacific subtropical high may be one of the important reasons for the increase of extreme precipitation in the north and south of the Qinling Mountains.
+
+Key words：summer；extreme precipitation；western pacific subtropical high index；north and south of the Qinling Mountains

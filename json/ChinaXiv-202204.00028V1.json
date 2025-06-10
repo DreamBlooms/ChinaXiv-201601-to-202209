@@ -1,0 +1,729 @@
+[
+    {
+        "type": "text",
+        "text": "考虑题目选项信息的非参数认知诊断计算机自适应测验",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孙小坚 1,2,3 郭磊3.4",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(西南大学数学与统计学院，重庆 400715)(西南大学基础教育研究中心，重庆 400715)(中国基础教育质量监测协同创新中心西南大学分中心，重庆 400715)(4西南大学心理学部，重庆 400715)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要选择题中的作答选项能提供额外诊断信息，为充分利用选项信息，研究提出认知诊断计算机自适应测验（CD-CAT）中两种处理选择题选项信息的非参数选题策略和变长终止规则。模拟研究的结果发现：（1）定长条件下两种非参数选题策略的分类准确性整体要高于参数选题策略;(2)两种非参数选题策略较参数选题策略具有更加均衡的题库使用情况；(3)非参数选题策略在两种新的变长终止规则下具有更高的分类准确率；（4）两种非参数选题策略均适用于选择题CD-CAT情境，使用者可任选其一进行测验分析。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词认知诊断计算机自适应测验，题目选项信息，非参数选题策略，变长终止规则",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "认知诊断评估（cognitive diagnostic assessment,CDA）是对个体的知识、技能以及认知加工过程进行诊断分类的一种方法。其可以提供个体在各知识内容上的具体掌握情况，故可知晓个体学习过程中的优势与不足（辛涛 等,2015)，这一方面有利于解释个体在某些测验上表现欠佳的原因，同时还有利于教师进行后续的补救教学（e.g.,Gao etal.,2021)，因此受到众多研究者的重视。CDA中对个体进行分类的方法主要有参数方法和非参数方法（郭磊，周文杰,2021)，参数方法主要使用认知诊断模型（cognitive diagnostic model,CDM）估计题目参数和个体属性掌握情况，其中，一般性CDM有广义DINA 模型（generalized deterministicinputs,noisy“and”gate,GDINA; de la Torre,2011）等，简化模型则有DINA 模型等。非参数方法主要有聚类分析法（郭磊 等,2018；康春花 等,2015;Chiu etal.,2009）、距离判别法（康春花等,2019；罗照盛 等,2015;Chiu etal.,2018）以及机器学习法（汪文义 等,2016;Liu&Cheng,2018）。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "当前CDA 的一个重要研究领域是认知诊断计算机化自适应测验（cognitivediagnosticcomputerized adaptive testing,CD-CAT; Chang,2015,Cheng,2009)。相较于纸笔测验，CD-CAT能够以更少的题目获得更加准确的诊断结果，并且其提供的题目测量特性与个体知识掌握水平大体相当，因而可较好地激发个体的作答动机（陈平 等,2011；孙小坚 等,2019; Sun et al.,2021)，最终实现对个体的准确测量。CD-CAT 包含5个重要组成部分：题库、测验模型、选题策略、知识状态估计方法以及终止规则。其中选题策略受到大量关注(郭磊 等,2016);常见的选题策略有基于作答分布和基于后验分布的策略（Zheng&Chang,2016)，前者包括KL 信息（Kullback-Leibler information, Xu et al.,2003）、GDI （G-DINA model discriminationindex,Kaplan et al.,2015）等；后者包括 SHE（Shannon entropy, Xu et al.,2003）等。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以上选题策略属于参数策略，参数选题策略的优势在于可以准确获得个体在各属性掌握模式（attribute master pattrn,AMP）上的掌握概率，同时也可以获得较高的分类准确性。而其潜在不足在于由于需知晓题库中的题目参数，要求事先进行预测试，如此，若样本量不够大，则题目参数的精度难以保障，同时还存在题库被提前泄漏的风险。对此，研究者提出了非参数 CD-CAT（何明霜,2021；张淑君,2019; Chang et al.,2019; Chiu& Chang,2021)。非参数 CD-CAT只需获得题库中各测验题目所考察的属性，无需进行预测试，因而降低了题库提前泄漏的风险，且无需考虑题目参数估计偏差带来的影响（Chang etal.,2019)。模拟研究的结果表明，当预测试样本较小时，非参数选题策略下的模式匹配率（pattern matched rate,PMR)要优于参数选题策略的 PMR（Chang et al.,2019; Chiu& Chang,2021; Yang et al.,2020）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "终止规则作为CD-CAT 的另外一个重要成分，受关注程度远低于选题策略，且大部分CD-CAT研究使用定长终止规则，对变长CD-CAT 的研究较少（郭磊 等,2015）。但相较于定长CD-CAT，变长CD-CAT 在测验效率、能力估计的收敛情况和估计精度等方面均更加优异，更能体现自适应测验的特点和优势（郭磊 等,2015)。对此，Hsu 等（2013）基于具有最大和次大后验概率的两个AMPs之间的比值提出一种变长终止规则；郭磊等（2015）提出了六种变长终止规则，其进一步将此六种规则分成基于绝对标准、基于相对标准以及结合绝对和相对标准的混合终止规则；上述终止规则适用于参数CD-CAT，难以拓展至非参数CD-CAT 情境。张淑君（2019）则在非参数CD-CAT 情境下提出两种变长终止规则（D1和D3)，并通过模拟和实证研究对两种规则的表现进行了探究，结果表明D3 规则的PMR 要明显高于D1规则的PMR。值得注意的是，一方面，当前关于非参数终止规则的研究依旧非常少;另一方面，张淑君（2019）提出的D3 终止规则思路在于每次估计个体的AMP 时，最小非参数距离（如汉明距离）只能对应一个AMP，但三次估计的AMPs之间可能各不相同，如此可能增加估计误差。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当前无论是参数还是非参数CD-CAT，绝大多数研究的主流题型是选择题（multiple-choice,MC)，且对个体的作答反应进行分析时重点关注个体是否正确作答测验题目，而较少关注干扰项信息，忽视了干扰项所能提供的额外诊断信息，导致对MC 题目的使用效率过低（郭磊，周文杰,2021；刘拓,2016;de la Torre,2009)。对此，Yigit 等（2019）基于选择题DINA 模型（MC-DINA; de la Torre,2009）提出了同时考虑所有选项的 JSD（Jensen-Shannondivergence）选题策略，研究结果表明JSD 策略下的PMR较不考虑干扰项信息的GDI具有更高的PMR。但JSD 选题策略属于参数策略，意味着题目参数估计偏差和题库泄露风险问题依然存在。考虑到非参数诊断方法无需或只需少量预测试样本即可获得较高的 PMR（Chang et al.,2019;Chiu& Chang,2021)，且当前尚未有研究探讨非参数方法如何在 CD-CAT 中利用干扰项信息以提升对个体的诊断精度。基于此，本研究一方面提出两种CD-CAT中融合干扰项信息的非参数选题策略，同时，为更好地实现CD-CAT 的自适应特点，提出两种适用于考虑题目选项信息的CD-CAT（记为mcCD-CAT）的非参数变长终止规则。研究将通过模拟研究分别对二种非参数选题策略和变长终止规则的性能进行系统探讨，以进一步丰富 CD-CAT研究。文章的结构如下：首先介绍可处理选项信息的认知诊断方法，其次阐述非参数 mcCD-CAT及其变长终止规则，之后通过两个模拟研究探讨非参数mcCD-CAT 和终止规则的性能，最后对结果进行讨论与展望。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2处理选项信息的认知诊断方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目前研究者提出了参数和非参数的认知诊断方法以处理考虑题目选项信息的认知诊断测验，下面对此二者进行介绍。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1MC-DINA模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究者提出了选择题CDMs以处理选项信息，如MC-DINA 模型、SICM模型（scalingindividuals and classifying misconceptions model, Bradshaw & Templin,2014）和结构化 MC-DINA 模型（Ozaki,2015）等。其中 SICM模型将个体的潜在特质看作是连续变量，而各干扰项则是关于知识内容的错误概念，这与常规的CDA存在差异，故研究不考虑该模型。考虑到 MC-DINA 模型简单易懂，参数的解释性也更加通俗易懂，且具有不错的诊断效果，故研究将介绍该模型。MC-DINA模型的作答反应函数为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { P _ { j h } \\left( \\pmb { \\alpha } _ { i } \\right) = P \\left( X _ { i j } = h | \\pmb { \\alpha } _ { i } \\right) = P \\left( X _ { i j } = h | \\lg _ { i j } = g \\right) \\triangleq P _ { j } \\left( h | g \\right) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { g _ { i j } = \\underset { h } { \\arg \\operatorname* { m a x } } \\left\\{ \\pmb { \\alpha } _ { i } ^ { T } \\pmb { q } _ { j h } | \\pmb { \\alpha } _ { i } ^ { T } \\pmb { q } _ { j h } = \\pmb { q } _ { j h } ^ { T } \\pmb { q } _ { j h } \\right\\} , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\pmb { a } _ { i }$ 表示个体 $i$ 的 AMP; $j$ 表示题目， $h$ 表示选项， $h = 1 , \\cdots , H _ { j }$ ， $H _ { j }$ 表示题目 $j$ 的选项个数； $g _ { i j }$ 表示个体 $i$ 在题目 $j$ 上所属的组别， $\\pmb q _ { j h }$ 表示题目 $j$ 中第 $h$ 个选项的 $q$ 向量，${ \\pmb a } _ { i } ^ { T } { \\pmb q } _ { j h }$ 表示 $\\pmb { a } _ { i }$ 和 $\\pmb q _ { j h }$ 的内积，上标 $T$ 表示转置； $g _ { i j } = 0 , 1 , \\cdots , H _ { j } ^ { * }$ ，其中， $\\boldsymbol { H } _ { j } ^ { * }$ 表示题目 $j$ 中选项元素不全为0的选项个数，当个体 $i$ 的AMP与题目 $j$ 的所有选项均无法匹配时， $g _ { i j } = 0$ 。$P _ { j } \\left( h \\mid g \\right)$ 则表示属于组别 $g$ 中的个体在题目 $j$ 上选择第 $h$ 个选项的概率。为保证模型可被识别，通常限定 $\\sum _ { h = 1 } ^ { H _ { j } } P _ { j } \\left( h \\mid g \\right)$ ，即组别 $g$ 中的个体在题目 $j$ 上选择各选项的概率总和等于1。不同于DINA 模型，MC-DINA 模型的参数是选项的选择概率 $P _ { j } \\left( h \\mid g \\right)$ 本身。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过相应的参数估计方法如EM算法（dela Torre,2009）、MCMC 算法（Ozaki,2015）和 VB 算法（Variational Bayesian; Yamaguchi,2020）即可得到 MC-DINA 模型的参数和个体的 AMP 估计值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2MC汉明距离法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "郭磊和周文杰（2021）提出了基于选项层面的非参数诊断分类方法，其使用汉明距离计算观测作答和题目各选项的理想作答间的距离总和，距离总和最小的 AMP 将作为个体的AMP。在此基础上，他们提出了简单MC 汉明距离、加权MC 汉明距离以及惩罚 MC 汉明距离三种非参数方法，其中后两者是简单MC 汉明距离的拓展。其模拟研究发现，简单 MC汉明距离下的PMR 要优于另外二者，故此处将介绍简单MC 汉明距离，其表达式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH D D m c \\big ( { \\mathbf { X } } _ { i } , { \\pmb { \\eta } } _ { i } \\big ) = \\sum _ { j = 1 } ^ { J } \\sum _ { h = 1 } ^ { H _ { j } } \\big | X _ { i j h } - { \\pmb { \\eta } } _ { i j h } \\big | ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\eta _ { i j h } = \\left[ \\prod _ { k = 1 } ^ { K _ { j } ^ { * } } \\left( 2 - 2 ^ { \\left( \\alpha _ { i k } - { q _ { j h k } } \\right) } \\right) \\right] \\times \\left[ 1 - \\prod _ { k = 1 } ^ { K _ { j } ^ { * } } ( 1 - \\alpha _ { i k } ) \\right] , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $X _ { i j h }$ 和 $\\eta _ { _ { i j h } }$ 分别表示个体 $i$ 在题目 $j$ 第 $h$ 个选项上的实际作答和理想作答，二者取值均为0或1，表示个体是否选择该选项； $\\boldsymbol { K } _ { j } ^ { * }$ 表示题目 $j$ 所考察的属性个数； $\\eta _ { i j h }$ 表示理想作答。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3考虑题目选项信息的CD-CAT",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目前关于mcCD-CAT 的研究比较少，Yigit 等（2019）在MC-DINA 模型的基础上提出了参数JSD 策略。研究首先对 JSD 策略进行介绍，然后再介绍本研究提出的两种适用于mcCD-CAT 的非参数策略。非参数CD-CAT将基于作答反应与各AMPs之间的非参数距离（如汉明距离）对个体进行分类并且选择后续的测验题目（Chang etal,2019;Chiu&Chang2021)，因而计算作答反应和所有AMPs 间的距离是非参数CD-CAT（包括mcCD-CAT）的核心和基础。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1基于JSD的mcCD-CAT ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Yigit等（2019）以MC-DINA 模型为基础，提出了可以考虑所有选项信息的JSD 策略，JSD 策略是一种基于作答反应后验分布的选题策略，通过相应的转换，其与 SHE 策略等价。JSD 策略的计算公式为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { J S D _ { j } = S ( { \\bf P } _ { j } \\times { \\pmb \\pi } ^ { T } ) - \\displaystyle \\sum _ { l } \\pi _ { l } S ( { \\bf P } _ { j l } ) } } \\\\ { { \\displaystyle ~ = S \\Bigg [ \\sum _ { l } P ( X _ { j } = h \\mid { \\bf a } _ { l } ) \\pi \\big ( { \\bf a } _ { l } \\big ) \\Bigg ] - \\sum _ { l } \\pi ( { \\bf a } _ { l } ) S ( { \\bf P } _ { j l } ) } } \\\\ { { \\displaystyle ~ = - \\sum _ { h } P ( X _ { j } = h ) \\log P ( X _ { j } = h ) - \\sum _ { l } \\pi ( { \\bf a } _ { l } ) S ( P ( X _ { j } = h \\mid { \\bf a } _ { l } ) } } \\end{array} ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中 ${ \\bf { P } } _ { j }$ 为 $H _ { j } \\times 2 ^ { K }$ 的概率矩阵，表示所有AMPs选择各个选项的概率； ${ \\bf { P } } _ { j l }$ 为 $H _ { _ j } { \\times } 1$ 的向量，表示第 $l$ 种 AMP 在题目 $j$ 上选择各个选项的概率； $\\pmb { \\pi }$ 为 $2 ^ { K } \\times 1$ 的向量，表示各AMP的后验概率； $\\mathrm { s } ( \\cdot )$ 表示香农熵： $S \\left( x \\right) = E \\left[ - \\log x \\right]$ ； $P ( X _ { j } = h )$ 表示个体选择题目 $j$ 第 $h$ 个选项的边际概率。候选题目集中具有最大JSD 值的题目将提供给个体作答。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2基于MC汉明距离的mcCD-CAT ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "郭磊和周文杰（2021）提出的 $\\eta _ { _ { i j h } }$ 是对Ozaki（2015）文章所提指标的修正，该值的计算过程要求个体 $i$ 对题目 $j$ 所考察属性的掌握情况与选项 $h$ 的缩减 $q$ 向量（即 $\\underbrace { \\left\\{ 1 , \\cdots , 1 \\right\\} } _ { K _ { j } ^ { * } }$ ， $\\boldsymbol { K } _ { j } ^ { * }$ 为正确选项所考察的属性个数）完全匹配，其计算过于严苛。例如，假设题目 $j$ 考察三个属性，其在四个选项上的缩减 $q$ 向量分别为{1,1,1}、{1,0,1}、{1,0,0}和 $\\{ 0 , 0 , 0 \\}$ ，此时，基于郭磊和周文杰（2021）的 $\\eta _ { _ { i j h } }$ 计算方法，缩减 AMPs分别为{1,1,0}和{1,0,0}的个体在该题目上的理想作答向量分别为{0,0,0,1}和 $\\{ 0 , 0 , 1 , 0 \\}$ 。但理论上，AMP 为{1,1,0}的个体由于未掌握第3个属性，所以其选择第1和2个选项的概率较小，而第4个选项未考察任何属性，故该个体也不大可能选择该选项，第3个选项考察了第一个属性，而该个体也掌握了第一个属性，故理想状态下，第3个选项是其理想作答（dela Torre,2009)。对此，本研究将对上述 $\\eta _ { i j h }$ 的计算方法进行完善，使其更好地适应测验情境。由于个体所属组别 $g _ { i j }$ 和 $\\boldsymbol { H } _ { j } ^ { * }$ 之间存在对应关系，而 $\\boldsymbol { H } _ { j } ^ { * }$ 是对不同选项的 $q _ { j h }$ 向量的表征，由此可得 $g _ { i j }$ 也是对 $q _ { j h }$ 的表征，而 $\\eta _ { _ { i j h } }$ 同样是对 $q _ { j h }$ 的表征，因此 $g _ { i j }$ 和 $\\eta _ { _ { i j h } }$ 之间有内在关系。此时，将 $\\eta _ { _ { i j h } }$ 定义为：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\eta _ { i j h } = \\biggl \\{ \\begin{array} { l l } { { 1 \\nmid \\nmid \\nmid \\nmid g _ { i j } = h } } \\\\ { { 0 \\qquad \\nmid \\nmid \\nmid } } \\end{array} \\biggr .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中， $g _ { i j }$ 表示个体所属的组别，其值可由公式（1）计算得到。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于修改的 $\\eta _ { _ { i j h } }$ 重新考虑上面的例子：先用公式（1）计算缩减 AMPs分别为{1,1,0}和{1,0,0}的个体在题目 $j$ 中的组别，此时，二者的 $g _ { i j }$ 均为3；再基于公式（3)，得到二者的 $\\eta _ { _ { i j h } }$ 均为{0,0,1,0}；最后代入公式（2）计算其HDDmc 值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于 MC 汉明距离的mcCD-CAT 实施流程为：（1）初始化测验题库，明确各测验题目及选项所考察的属性；（2）从题库中随机选择一个测验题目给个体作答，记录个体的作答反应；（3）计算个体当前作答反应向量和所有 AMPs间的距离（HDDmc)；（4）基于HDDmc值对所有 AMPs 进行升序排序，并确定顺序为前两位的 AMPs（分别记为 $\\hat { \\pmb { a } } _ { 1 s t }$ 和 $\\hat { \\pmb { a } } _ { 2 n d }$ ），其对应的距离分别记为 $d _ { 1 s t }$ 和 $d _ { 2 n d }$ ;（5)从测验题库中筛选出能够区分 $\\hat { \\pmb { a } } _ { 1 s t }$ 和 $\\hat { \\pmb { a } } _ { 2 n d }$ 的题目集 $s$ 即 $s$ 中的题目满足 $\\pmb { \\eta } _ { j , \\hat { \\alpha } _ { 1 s t } } \\neq \\pmb { \\eta } _ { j , \\hat { \\alpha } _ { 2 n d } }$ ，若题目集 $s$ 为非空集合，则转至步骤（7)，反之则转至步骤（6)；(6）用 $\\hat { \\pmb { a } } _ { m ^ { t h } } \\left( { \\cal m } \\geq 3 \\right)$ 替换 $\\hat { \\pmb { a } } _ { 2 n d }$ ，并筛选出候选题目集合 $S$ ：当 $s$ 为空集时，用 $\\mathbf { \\nabla } _ { m }$ （20$= m + 1$ 更新 $\\mathbf { \\nabla } _ { m }$ 值，并重复步骤(6)，直到 $s$ 为非空集合；（7）从题目集 $S$ 中随机抽取一个题目给个体作答，记录其作答反应；（8）重复步骤（3）到（7)，直到满足终止规则；（9)将 $d _ { 1 s t }$ 所对应的 AMP 作为个体最终的估计值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由以上流程可知，mcCD-CAT 实施流程和Chang 等（2019）提出的非参数CD-CAT 实施流程大体相同，不同之处在于Chang等（2019）使用了Xu等（2016）提出的初始题选择策略，而 mcCD-CAT 则无需该步骤，其原因在于mcCD-CAT将题目所有选项纳入考虑，而各选项中的 $q$ 向量可以较好地体现Xu等（2016）中的初始题选择策略，因此，在测验长度较长的情况下，mcCD-CAT自身已经蕴含了Xu等（2016）的初始题选择策略，故不需要重复进行初始题的选择，预实验研究和后面的模拟研究一均证明了这点。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3基于Jaccard距离的mcCD-CAT ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Jaccard 相似度（Jaccard similarity;Jaccard,1912）最初应用于植物学领域，用于测量两个不同区域A和B的植物种类间的相似程度，后被广泛应用于信息检索、数据挖掘和机器学习等领域（Kosub,2019)；何明霜（2021）将其应用于多级计分的CD-CAT，本研究将其拓展至mcCD-CAT 情境。Jaccard 相似度的计算方法为（Jaccard,1912)：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ a c = \\frac { \\left| A \\cap B \\right| } { \\left| A \\cup B \\right| } { = } \\frac { n _ { A B } } { n _ { A } + n _ { B } + n _ { A B } }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "其中， $n _ { \\scriptscriptstyle A }$ 和 $n _ { B }$ 分别表示区域A和B中独有的物种数量，而 $n _ { _ { A B } }$ 则表示两个区域共有的物种数量。Jac取值范围为[0,1]，0和1分别表示完全不一致和完全一致。本研究将其用于计算观察作答反应和理想作答反应之间的相似度，并基于相似度值来对个体进行诊断分类，为使Jac 值与HDDmc 有相同形式，研究使用1-Jac表示相似度（也称 Jaccard 距离)：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathit { J D D m c } \\left( X _ { i } , \\eta _ { i } \\right) = 1 - \\frac { \\left| X _ { i } \\cap \\eta _ { i } \\right| } { \\left| X _ { i } \\cup \\eta _ { i } \\right| } = 1 - \\frac { \\sum _ { j = 1 } ^ { J } \\sum _ { h = 1 } ^ { H _ { j } } I \\left( X _ { i j h } = \\eta _ { i j h } \\right) } { \\sum _ { j = 1 } ^ { J } H _ { j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\pmb { X } _ { i } = \\left\\{ \\pmb { X } _ { i 1 } , \\cdots \\pmb { X } _ { i j } , \\cdots , \\pmb { X } _ { i J } \\right\\}$ 和 $\\pmb { \\eta } _ { i } = \\{ \\pmb { \\eta } _ { i 1 } , \\cdots \\pmb { \\eta } _ { i j } , \\cdots , \\pmb { \\eta } _ { i J } \\}$ 分别表示个体 $i$ 的实际和理想作答反应模式， $X _ { _ { i j } } \\ ( \\pmb { \\eta } _ { i j } )$ 表示个体 $i$ 在题目 $j$ 上的实际（理想）作答模式，是长度为 $H _ { j }$ 的二分向量，如 $X _ { i j } = \\{ 0 , 1 , 0 , 0 \\}$ 表示个体选择了第 2个选项。 $J$ 表示个体作答的题目数量，$I ( \\cdot )$ 为指示函数，表示括号内的表达式是否成立，成立为1，反之为0。文中JDDmc 的计算过程与何明霜（2021）的计算过程之间的主要差异在于理想作答模式的计算，本文中的理想作答模式的计算见公式（3)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "需注意的是，由于事先并不清楚个体的AMP，故无法直接获得 $\\pmb { \\eta } _ { i }$ ，此时，将依次计算所有可能的 AMPs 在这些题目上的理想反应 $\\pmb { \\eta } _ { l }$ ， $l = 1 , \\cdots , 2 ^ { \\scriptscriptstyle K }$ ，并计算 $\\pmb { \\eta } _ { l }$ 和 $X _ { i }$ 之间的 JDD值，个体最终的 AMP 具有最小的 JDD 值，若最小 JDD 值对应多个AMPs，则从中随机选择一个。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "基于JDDmc 的mcCD-CAT实施流程和基于HDDmc 的 mcCD-CAT实施流程基本相同，不同之处在于步骤（3)，此时使用Jaccard距离计算公式来计算个体实际作答反应向量和所有 AMPs 间的非参数距离。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4终止规则 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CD-CAT的终止规则分为定长和变长两类。当测验为定长时，其终止规则为预先设定的题目长度，这在非参数和参数CD-CAT中均适用；当测验为变长时，张淑君（2019）在非参数CD-CAT 中提出D1和D3 两种终止规则，其思路是每次估计个体 AMP 时，最小距离（如HDDmc）是否对应唯一的AMP。D1规则下，个体作答某题目后，当最小HDDmc 只对应一个 AMP时，结束测验；D3 规则下，每次估计个体 AMP 时，要求具有最小HDDmc 只对应唯一的AMP，且这种一一对应关系需连续出现3次才能结束测验。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究基于限制性 MHRM算法（cMHRM;Liu etal.,2020）和基于距离比的思路提出两种适用于非参数CD-CAT 的变长终止规则（分别记为MR 和DR 规则)，以丰富此方面的研究。Liu 等（2020）使用cMHRM算法估计CDM，该算法需计算前后两次迭代的所有参数估计值间的差值 $\\pmb { \\delta }$ ，并取最大差值 $m a x ( \\delta )$ ，将每次迭代的max(8)组成向量$\\pmb { \\mathscr { \\varDelta } } = \\left\\{ m a x \\bigl ( \\delta ^ { 1 } \\bigr ) , \\cdots , m a x \\bigl ( \\delta ^ { t } \\bigr ) \\right\\}$ ，当 $\\_$ 中连续四个 max(8)均小于预设标准时，算法结束。本研究将借鉴该思想：当连续四次所估计的AMPs均相同时，测验终止，并将该AMP作为个体最终的 AMP。第二种变长终止规则是计算 $d _ { 1 s t }$ 和 $d _ { 2 n d }$ 之间的比值，该方法的思想在因子分析中抽取单个因子时经常被使用。本研究通过计算 $d _ { 2 n d } / d _ { 1 s t } > C R$ （CR为预设值）来终止测验，并记 $d _ { 1 s t }$ 所对应的AMP为个体最终的 AMP。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4研究一：定长mcCD-CAT下两种非参选题策略的性能",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1研究目的",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在固定测验长度条件下，探讨两种考虑干扰项信息的非参数选题策略在不同实验条件中的性能，并将其与参数选题策略（JSD）进行比较。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2研究设计",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2.1自变量",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "研究的自变量有6个，分别为属性个数、Q矩阵结构、题目质量、属性分布形态、测验长度和选题策略。具体而言，（1）属性个数分别为4和6个，4和6个属性在以往研究中比较常见（如孙小坚 等 2019,2021;Sun etal.,2021)。（2）Q矩阵的结构有两种，分别为简单结构和复杂结构（郭磊 等,2015)，其中简单结构下，题目的正确选项考察各属性的概率为$20 \\%$ ，且正确选项至少考察一个属性；复杂结构下，题目正确选项考察各属性的概率则为 $50 \\%$ 号错误选项的 $\\mathsf { q }$ 向量则为正确选项的子集，且选项之间具有包含关系（dela Torre,2009）。（3）题目质量有三个水平，分别为高、低和混合质量，题目质量将通过 $1 - P _ { j } \\left( h | g \\right)$ 给予表征,三种质量分别服从以下均匀分布（Sun etal.,2020)：U(.05,.25)、U(.25,.45)和 U(.05,.45)，剩余选项平均分配 $1 - P _ { j } \\left( h \\mid g \\right)$ 值，以保证 $\\sum _ { h = 1 } ^ { H _ { j } } P _ { j } \\left( h \\mid g \\right) = 1$ 。（4）属性分布形态有两种，分别为多元正态阈值模型和均匀分布（e.g.，郭磊，周文杰,2021; Chang et al.,2019; Chiu&Chang,2021)。（5）测验长度有三个水平，由于涉及不同属性个数，故研究针对属性个数进行测验长度的设定，三种测验长度分别为 $2 K , ~ 3 K$ 和 $4 K$ ，其中 $K$ 表示属性个数。（6）选题策略有三个水平，分别为HDDmc、JDDmc 和JSD。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2.2控制变量",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "研究的控制变量主要有测验模型、题库大小、选项数量、正式测试的人数。研究将用 MC-DINA 模型生成作答数据（Yigit etal.,2019)，选择该模型的原因在于，首先，可处理题目选项信息的饱和CDM非常少，相关研究也不成熟，且参数难以解释和估计；其次，当前绝大多数CD-CAT的研究采用简化模型如（DINA）进行分析，只有极少量研究使用饱和模型；最后，相关的实证研究亦采用DINA 模型进行CD-CAT 分析（e.g.,Liuet al.,2013)。题库方面则固定题库中的题目数量为480（孙小坚 等,2021)。选项个数固定为4个，这在实际测验中较为常见。正式测试的人数则固定为 500人（Chang etal.,2019)。此外，参考以往研究（e.g.,Chang et al.,2019; Chiu & Chang,2021; Yang et al.,2020），使用 JSD时，先基于预测试进行参数校准，此时校准的样本量固定为 $4 0 K$ ，其中 $K$ 为属性个数；校准完毕后，将基于校准的题目参数选择最佳的侯选题目。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "研究总共有2（属性个数） $\\times 2$ （Q矩阵结构） $\\times 3$ （题目质量） $\\times 2$ （属性分布形态） $\\times$ 3（测验长度） $\\times 3$ （选题策略） $= 2 1 6$ 种实验条件，其中选题策略为被试内变量，其它则为被试间变量。为减少抽样误差，各实验条件重复30次。所有程序用R软件实现。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.3评价指标",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "评价指标有两类，一类用于评价诊断分类的准确性，用PMR体现，其值在0和1之间，值越大则分类越准确；另一类则用于评价题库使用情况，包括测验整体曝光率 $\\chi ^ { 2 }$ ，测验重叠率（TOR）、曝光不足率（UIR）和过度曝光率（OIR)，四者越小越好（陈平 等,2011；孙小坚等,2021)。以上指标的计算公式为：",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP M R = \\frac { 1 } { R } \\sum _ { r = 1 } ^ { R } \\Bigg [ \\sum _ { i = 1 } ^ { N } I \\left( \\hat { \\pmb { a } } _ { i } = \\pmb { a } _ { i } \\right) \\Bigg / N \\Bigg ] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\chi ^ { 2 } = \\frac { 1 } { R } { \\sum } _ { r = 1 } ^ { R } \\biggl [ { \\sum } _ { j = 1 } ^ { N _ { i t e m } } \\Bigl ( \\exp { \\textstyle \\mathstrut _ { j } } - J / N _ { i t e m } \\Bigr ) ^ { 2 } \\Bigl / \\bigl ( J / N _ { i t e m } \\Bigr ) \\biggr ] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\exp } _ { j } = { N } _ { j } ^ { a } \\Big / N ,\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT O R = \\frac { 1 } { R } \\frac { \\sum _ { r = 1 } ^ { R } \\Bigl [ \\sum _ { j = 1 } ^ { N _ { i t e m } } N _ { j } ^ { a } \\times \\bigl ( N _ { j } ^ { a } - 1 \\bigr ) \\Bigr ] } { J \\times N \\times \\bigl ( N - 1 \\bigr ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { U I R = \\displaystyle \\frac { 1 } { R } \\sum _ { r = 1 } ^ { R } \\Bigl [ \\sum \\bigl ( \\exp _ { j } < . 0 2 \\bigr ) \\Bigl / N _ { i t e m } \\Bigr ] , } } \\\\ { { { } } } \\\\ { { O I R = \\displaystyle \\frac { 1 } { R } \\sum _ { r = 1 } ^ { R } \\Bigl [ \\sum \\bigl ( \\exp _ { j } > . 2 \\bigr ) \\Bigl / N _ { i t e m } \\Bigr ] , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "其中， $R$ 为重复次数， $\\hat { \\pmb { a } } _ { i }$ 和 $\\pmb { a } _ { i }$ 分别表示估计和真实的 AMP； ${ N } _ { j } ^ { a }$ 则为题目 $j$ 被使用的次数。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae0aab5fb0f3898b64e0988a4ab5c67a03e9238b3f8a123cfe9ebe6631f0cb71.jpg",
+        "img_caption": [
+            "图1四个属性下各条件的分类准确性"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "注：2-4K表示测验长度为属性个数的2-4 倍；HDDmc 为基于MC 汉明距离的选题策略，JDDmc 为基于Jaccard距离的选题策略，JSD为 基于JSD 的选题策略，下同。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.4研究结果",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.4.1HDDmc和JDDmc的分类准确性整体优于JSD ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "图1呈现了四个属性下三种选题策略在不同实验条件下的PMRs。整体而言，两种非参数策略（HDDmc 和 JDDmc）的估计准确性在所有条件下基本相同，并且二者在绝大多数条件下的PMRs要高于JSD 方法。具体而言,在题目质量为高和混合条件下,HDDmc 和 JDDmc的PMRs 整体要高于JSD方法，并且随着测验长度的增加，HDDmc 和JDDmc 与 JSD 间的PMR 差异不断增大。在简单Q矩阵和低题目质量条件下，JSD与HDDmc 和 JDDmc之间的差异比较小，在部分条件下 JSD 的 PMR 略微高于HDDmc 和 JDDmc；但在复杂Q矩阵条件下，HDDmc 和 JDDmc 的PMR要明显高于JSD方法，只在两个条件（混合题目质量下测验长度为2K和3K）下的PMR与JSD 相同或相近。此外，题目质量和测验长度对三种选题策略具有积极影响，题目质量越高、测验长度越长，则三种策略的PMR 越高。另外，非参数方法在复杂Q矩阵下的PMRs整体高于简单Q矩阵的结果。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/fed252d9366cdcde720db6d00f006429a90e3cc8bc91ceac6ef218f506210f56.jpg",
+        "img_caption": [
+            "图2六个属性下各条件的分类准确性"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "六个属性下三种选题策略在不同实验条件下的PMRs如图2所示。简单Q矩阵条件下，HDDmc 和JDDmc 在三个条件下的 PMRs 高于 JSD，而在剩余6个条件下的PMRs则低于JSD，特别是在混合题目质量下，二者与JSD在PMRs上存在比较大的差异。复杂Q矩阵条件下，HDDmc 和JDDmc 的PMRs则在大多数条件下高于JSD 策略，只在混合题目质量和2K 个题目长度下的 PMR小于JSD。当题目质量较低时，HDDmc 和 JDDmc 的PMR 明显高于JSD 方法，且在4K时差异达到最大。与四个属性时的结果相同，题目质量和测验长度对所有选题策略具有正向影响，题目质量越高、测验长度越长，则三种选题策略的PMRs 越高。另外，属性分布形态对选题策略几乎没有影响。",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/26fa2acfcf0d44a41d92faeea18d68fb4259b8084518d8dec30aa48bc6ed71c5.jpg",
+        "table_caption": [
+            "表1四个属性时三种策略的题库使用情况(多元正态阈值分布)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">题目</td><td rowspan=\"2\">测验</td><td rowspan=\"2\">诊断</td><td colspan=\"4\">简单Q矩阵</td><td colspan=\"5\">复杂Q矩阵</td></tr><tr><td>x²</td><td>TOR</td><td>UIR</td><td>OIR</td><td>x²</td><td>TOR</td><td></td><td>UIR</td><td>OIR</td></tr><tr><td>质量 高</td><td>长度 2K</td><td>方法 HDDmc</td><td>1.343</td><td>.018</td><td>.663</td><td>.000</td><td>1.214</td><td></td><td>.017</td><td>.663</td><td>.000</td></tr><tr><td></td><td></td><td>JDDmc</td><td>1.325</td><td>.017</td><td>.667</td><td>.000</td><td>1.210</td><td></td><td>.017</td><td>.659</td><td>.000</td></tr><tr><td></td><td></td><td>JSD</td><td>148.184</td><td>.324</td><td>.931</td><td>.022</td><td></td><td>102.493</td><td>.229</td><td>.899</td><td>.022</td></tr><tr><td></td><td>3K</td><td>HDDmc</td><td>1.620</td><td>.026</td><td>.277</td><td>.000</td><td></td><td>1.432</td><td>.026</td><td>.265</td><td>.000</td></tr><tr><td></td><td></td><td> JDDmc</td><td>1.638</td><td>.026</td><td>.281</td><td>.000</td><td></td><td>1.431</td><td>.026</td><td>.259</td><td>.000</td></tr><tr><td></td><td></td><td>JSD</td><td>171.692</td><td>.381</td><td>.905</td><td>.045</td><td></td><td>121.801</td><td>.277</td><td>.869</td><td>.043</td></tr><tr><td></td><td>4K</td><td>HDDmc</td><td>1.932</td><td>.035</td><td>.096</td><td>.000</td><td></td><td>1.659</td><td>.035</td><td>.078</td><td>.000</td></tr><tr><td></td><td></td><td> JDDmc</td><td>1.932</td><td>.035</td><td>.093</td><td>.000</td><td></td><td>1.660</td><td>.035</td><td>.077</td><td>.000</td></tr><tr><td></td><td></td><td>JSD</td><td>187.661</td><td>.423</td><td>.875</td><td>.059</td><td></td><td>133.228</td><td>.310</td><td>.839</td><td>.060</td></tr><tr><td>低</td><td>2K</td><td>HDDmc</td><td>1.236</td><td>.017</td><td>.669</td><td>.000</td><td></td><td>1.167</td><td>.017</td><td>.666</td><td>.000</td></tr><tr><td></td><td></td><td> JDDmc</td><td>1.216</td><td>.017</td><td>.660</td><td>.000</td><td></td><td>1.135</td><td>.017</td><td>.668</td><td>.000</td></tr><tr><td></td><td></td><td>JSD</td><td>187.023</td><td>.405</td><td>.934</td><td>.023</td><td></td><td>139.115</td><td>.305</td><td>.909</td><td>.023</td></tr><tr><td></td><td>3K</td><td>HDDmc</td><td>1.392</td><td>.026</td><td>.256</td><td>.000</td><td></td><td>1.273</td><td>.026</td><td>.242</td><td>.000</td></tr><tr><td></td><td></td><td> JDDmc</td><td>1.413</td><td>.026</td><td>.256</td><td>.000</td><td></td><td>1.250</td><td>.026</td><td>.239</td><td>.000</td></tr><tr><td></td><td></td><td>JSD</td><td>194.582</td><td>.429</td><td>.902</td><td>.039</td><td></td><td>152.600</td><td>.342</td><td>.873</td><td>.043</td></tr><tr><td></td><td>4K</td><td>HDDmc</td><td>1.581</td><td>.035</td><td>.064</td><td>.000</td><td></td><td>1.418</td><td>.034</td><td>.064</td><td>.000</td></tr><tr><td></td><td></td><td>JDDmc</td><td>1.581</td><td>.035</td><td>.065</td><td>.000</td><td></td><td>1.425</td><td>.034</td><td>.065</td><td>.000</td></tr><tr><td>混合</td><td></td><td>JSD</td><td>199.925</td><td>.449</td><td>.872</td><td>.050</td><td></td><td>165.428</td><td>.377</td><td>.840</td><td>.053</td></tr><tr><td></td><td>2K</td><td>HDDmc</td><td>1.260</td><td>.017</td><td>.664</td><td>.000</td><td></td><td>1.169</td><td>.017</td><td>.665</td><td>.000</td></tr><tr><td></td><td></td><td>JDDmc</td><td>1.292</td><td>.017</td><td>.663</td><td></td><td></td><td>1.143</td><td>.017</td><td>.662</td><td>.000</td></tr><tr><td></td><td></td><td>JSD</td><td>173.083</td><td>.376</td><td>.938</td><td>.000</td><td></td><td>142.062</td><td>.311</td><td>.918</td><td>.021</td></tr><tr><td></td><td>3K</td><td>HDDmc</td><td>1.509</td><td>.026</td><td>.264</td><td>.028</td><td></td><td>1.343</td><td>.026</td><td>.249</td><td>.000</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>.000</td><td></td><td></td><td></td><td>.255</td><td></td></tr><tr><td></td><td></td><td> JDDmc</td><td>1.537</td><td>.026</td><td>.268</td><td>.000</td><td></td><td>1.378</td><td>.026 .385</td><td>.898</td><td>.000</td></tr><tr><td></td><td>4K</td><td>JSD</td><td>191.497</td><td>.423</td><td>.901</td><td>.035</td><td></td><td>173.288</td><td></td><td></td><td>.037</td></tr><tr><td></td><td></td><td>HDDmc</td><td>1.737</td><td>.035</td><td>.082</td><td>.000</td><td></td><td>1.546</td><td>.035</td><td>.072</td><td>.000</td></tr><tr><td></td><td></td><td> JDDmc</td><td>1.763</td><td>.035</td><td>.083</td><td>.000</td><td>1.589</td><td></td><td>.035</td><td>.071</td><td>.000</td></tr><tr><td></td><td></td><td>JSD</td><td>192.640</td><td>.434</td><td>.868</td><td>.051</td><td>181.812</td><td></td><td>.411</td><td>.867</td><td>.052</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.4.2HDDmc和JDDmc的题库使用情况较JSD更加均衡",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "由于六个属性下的各选题策略的题库使用情况和四个属性时的题库使用情况大体相同，故不在正文当中呈现，感兴趣的读者可向作者索要。表1呈现了四个属性时三种选题策略在多元正态阈值分布下的题库使用情况，总体而言，HDDmc 和 JDDmc 二者在题库使用方面较 JSD 策略更加均衡；HDDmc 和 JDDmc 的题库使用情况基本相同。具体而言，x2 方面，HDDmc 和JDDmc 的 x2分别在 $1 . 1 6 7 \\sim 1 . 9 3 2$ 和 $1 . 1 3 5 \\sim 1 . 9 3 2$ 之间，而 JSD 则在 $1 0 2 . 4 9 3 \\sim$ 199.925之间，JSD 的整体曝光率远大于HDDmc 和 JDDmc 二者。测验重叠率（TOR）方面，HDDmc 和JDDmc 的TOR 远小于JSD 的方法，二者的 TOR 范围均为 $. 0 1 7 \\sim . 0 3 5$ ，而JSD的TOR范围在 $. 2 2 9 \\sim . 4 4 9$ ，说明HDDmc 和JDDmc 在为每个个体选择题目时并没有固定地选择某些共同题目，而是尽可能地从题库中选择不同的测验题目给个体作答。在曝光不足率（UIR）和过度曝光率（OIR）方面，HDDmc 和 JDDmc 同样表现的要比JSD 策略更好，二者的 UIR和OIR 均小于 JSD 方法，特别是UIR，JSD 策略的UIR均在.80以上，说明使用JSD 策略时，题库中存在大量曝光不足的题目。JSD的OIR 值虽然比较小（在.10 以下），但HDDmc 和 JDDmc 的OIR 均等于0，说明这两种非参数选题策略不存在过度曝光的题目，而 JSD 则存在部分过度曝光的题目。三种选题策略在均匀分布下的题库使用情况与多元正态阈值分布下的相同，故不再呈现具体结果：HDDmc 和 JDDmc 的题库使用情况明显好于JSD，二者在整体曝光率、测验重叠率、曝光不足率和过度曝光率上的值明显小于 JSD。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5研究二：变长mcCD-CAT下两种非参选题策略的性能",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5.1研究目的",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "探讨 HDDmc 和JDDmc 在两种新的非参数变长终止规则中的表现情况，并将其与现有的非参数变长终止规则进行比较。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5.2研究设计",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5.2.1自变量",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "研究二的自变量个数有6个，其中属性个数、 $\\boldsymbol { Q }$ 矩阵结构、题目质量和属性分布形态四个自变量的设定与研究一相同。剩余两个自变量为终止规则和选题策略，终止规则有四个水平，分别为张淑君（2019）提出的D1和D3 规则，以及本研究中的MR 和DR 规则。选题策略方面，由于参数终止规则无法与非参数选题策略匹配，故未考虑参数选题策略（JSD)，而重点关注HDDmc 和JDDmc二者在不同终止规则下的表现。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5.2.2控制变量",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "研究二中的控制变量和题库与研究一相同，测试人数的真实AMPs重新生成。由于 DR规则需预先设定CR值，基于预实验的结果，将四个和六个属性下的CR值分别设为1.3 和1.25 时，HDDmc 和 JDDmc 可获得较好的结果，故本研究使用这两个值。测验长度的上限设置为30题（郭磊 等,2015,2016)。此外，为防止测验未测量所有属性而导致提前终止的情况，研究使用Xu等（2016）的初始题目选择程序以保证每个个体在每个属性上均提供了相应的作答信息。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "研究总共有2（属性个数） $\\times 2$ （Q矩阵结构） $\\times 3$ （题目质量） $\\times 2$ （属性分布形态） $\\times$ 4（终止规则） $\\times 2$ （选题策略） $= 1 9 2$ 种实验条件，其中终止规则和选题策略为被试内变量，其它则为被试间变量。各条件重复30次。所有程序用R软件实现。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.3评价指标",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "研究的评价指标同样分为准确性指标和题目使用情况，其中准确性指标为 PMR，而题目使用情况的指标则为平均测验长度 $( M )$ 、最小测验长度（Min）、最大测验长度（Max）、UIR 和OIR（郭磊 等,2016；孙小坚 等,2021）。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.4研究结果",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "表 2 和表3分别呈现了多元正态阈值分布下，HDDmc 和 JDDmc 在四个和六个属性的表现情况，整体而言，HDDmc 和JDDmc 在MR 和DR 两种终止规则下的分类准确性较D1和 D3 高，但测验长度更长；同时二者在曝光不足率上的表现优于D1和D3。下面分别对两个表格进行阐述。表2呈现了HDDmc 和 JDDmc 在四个属性和多元正态阈值分布条件下的分类准确性（PMR）以及题库使用情况。MR和DR 规则下，HDDmc 和 JDDmc 的PMRs 范围为 $. 4 4 1 \\sim . 7 7 5$ （ $\\ M = . 6 5 9 ,$ )；二者在D1和D3 规则下的PMRs则为 $2 8 8 \\sim . 7 0 3$ 0 $\\scriptstyle \\cdot M = . 4 7 5 ,$ ）°测验长度的使用方面，HDDmc 和 JDDmc 在MR 和DR 规则下的平均测验长度、最小测验长度以及最大测验长度三者均要大于D1和D3 规则卜的使用情况。HDDmc 和JDDmc 在D1和 D3 上的平均、最小和最大题目长度的范围分别为 $5 . 2 8 9 \\sim 8 . 3 1 9 . 5 . 0 \\sim 7 . 0$ 和 $8 . 6 6 7 \\sim 1 4 . 9 0$ 而二者在MR 和DR 规则下的平均、最小和最大题目长度则分别为 $9 . 2 7 4 \\sim 2 0 . 8 3 8 \\sim 5 . 0 \\sim 7 . 0$ 和 $2 5 . 0 3 3 \\sim 3 0 . 0 \\$ 。题目曝光率方面,HDDmc 和JDDmc 在MR和DR 规则下曝光不足率(UIR)明显小于二者在D1和D3 规则下的UIR,MR 和DR 规则下的UIR 为 $. 0 0 3 \\sim . 6 6 1 ( M = . 3 4 5 )$ ，而 D1和D3 规则下的UIR 则为 $6 0 8 \\sim . 8 4 9$ ( $M = . 7 3 7 ;$ ，说明HDDmc 和 JDDmc 在D1 和D3规则下存在大量曝光不足的题目，而MR 和DR规则下曝光不足的题目则较少；此外，所有终止规则下的过度曝光率（OIR）均为0，说明两种非参数选题策略在不同终止规则下均不存在过度曝光的题目。均匀分布下的分类结果和题库使用情况与多元正态阈值分布下的相同，将不再呈现。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/87725ab08fae9f850932e6dffe50a524eef276693c8309e617001f6261ffa0b6.jpg",
+        "table_caption": [
+            "表2四个属性时两种非参方法的分类结果及题库使用情况(多元正态阈值分布)"
+        ],
+        "table_footnote": [
+            "注：MR表示基于限制性MHRM算法的终止规则，DR表示基于距离比的终止规则；“表示OIR均为0。"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">终</td><td colspan=\"5\">简单Q矩阵a</td><td colspan=\"5\">复杂Q矩阵“</td></tr><tr><td>题目 质量</td><td>止 规</td><td>诊断 方法</td><td>M</td><td>Min</td><td>Max</td><td>UIR</td><td>PMR</td><td>M</td><td>Min</td><td>Max</td><td>UIR</td><td>PMR</td></tr><tr><td>高</td><td>则 MR</td><td>HDDmc</td><td>9.274</td><td>7</td><td>25.033</td><td>.520</td><td>.712</td><td>9.369</td><td>7</td><td>26.333</td><td>.661</td><td>.775</td></tr><tr><td></td><td></td><td> JDDmc</td><td>9.300</td><td>7</td><td>25.367</td><td>.511</td><td>.710</td><td>9.402</td><td>7</td><td>25.600</td><td>.659</td><td>.768</td></tr><tr><td></td><td>DR</td><td>HDDmc</td><td>13.785</td><td>5</td><td>30.000</td><td>.134</td><td>.724</td><td>11.767</td><td>5</td><td>30.000</td><td>.473</td><td>.738</td></tr><tr><td></td><td></td><td>JDDmc</td><td>14.876</td><td>5</td><td>30.000</td><td>.086</td><td>.745</td><td>12.853</td><td>5</td><td>30.000</td><td>.363</td><td>.752</td></tr><tr><td></td><td>D1</td><td>HDDmc</td><td>5.308</td><td>5</td><td>8.733</td><td>.849</td><td>.496</td><td>5.289</td><td>5</td><td>9.400</td><td>.751</td><td>.514</td></tr><tr><td></td><td></td><td>JDDmc</td><td>5.303</td><td>5</td><td>8.667</td><td>.846</td><td>.490</td><td>5.293</td><td>5</td><td>9.200</td><td>.752</td><td>.508</td></tr><tr><td></td><td>D3</td><td>HDDmc</td><td>7.939</td><td>7</td><td>12.833</td><td>.650</td><td>.648</td><td>7.914</td><td>7</td><td>13.433</td><td>.728</td><td>.703</td></tr><tr><td></td><td></td><td>JDDmc</td><td>7.964</td><td>7</td><td>12.900</td><td>.651</td><td>.651</td><td>7.920</td><td>7</td><td>13.600</td><td>.726</td><td>.702</td></tr><tr><td>低</td><td>MR</td><td>HDDmc</td><td>10.204</td><td>7</td><td>28.667</td><td>.414</td><td>.450</td><td>10.482</td><td>7</td><td>29.167</td><td>.577</td><td>.509</td></tr><tr><td></td><td></td><td> JDDmc</td><td>10.199</td><td>7</td><td>28.367</td><td>.415</td><td>.441</td><td>10.460</td><td>7</td><td>29.133</td><td>.582</td><td>.514</td></tr><tr><td></td><td>DR</td><td>HDDmc</td><td>19.536</td><td>5</td><td>30.000</td><td>.009</td><td>.629</td><td>17.237</td><td>5</td><td>30.000</td><td>.097</td><td>.648</td></tr><tr><td></td><td></td><td>JDDmc</td><td>20.838</td><td>5</td><td>30.000</td><td>.003</td><td>.641</td><td>18.545</td><td>5</td><td>30.000</td><td>.068</td><td>.663</td></tr><tr><td></td><td>D1</td><td>HDDmc</td><td>5.431</td><td>5</td><td>9.333</td><td>.839</td><td>.288</td><td>5.430</td><td>5</td><td>10.300</td><td>.750</td><td>.303</td></tr><tr><td></td><td></td><td> JDDmc</td><td>5.423</td><td>5</td><td>9.333</td><td>.841</td><td>.293</td><td>5.418</td><td>5</td><td>10.367</td><td>.751</td><td>.310</td></tr><tr><td></td><td>D3</td><td>HDDmc</td><td>8.308</td><td>7</td><td>13.833</td><td>.612</td><td>.396</td><td>8.319</td><td>7</td><td>14.900</td><td>.716</td><td>.445</td></tr><tr><td>混合</td><td></td><td> JDDmc</td><td>8.315</td><td>7</td><td>13.800</td><td>.608</td><td>.397</td><td>8.303</td><td>7</td><td>14.733</td><td>.719</td><td>.434</td></tr><tr><td></td><td>MR</td><td>HDDmc</td><td>9.762</td><td>7</td><td>26.400</td><td>.463</td><td>.591</td><td>9.961</td><td>7</td><td>27.233</td><td>.620</td><td>.666</td></tr><tr><td></td><td></td><td> JDDmc</td><td>9.765</td><td>7</td><td>25.867</td><td>.466</td><td>.595</td><td>9.915</td><td>7</td><td>27.733</td><td>.619</td><td>.665</td></tr><tr><td></td><td>DR</td><td>HDDmc</td><td>16.321</td><td>5</td><td>30.000</td><td>.042</td><td>.720</td><td>13.902</td><td>5</td><td>30.000</td><td>.277</td><td>.711</td></tr><tr><td></td><td></td><td> JDDmc</td><td>17.570</td><td>5</td><td>30.000</td><td>.027</td><td>.729</td><td>15.141</td><td>5</td><td>30.000</td><td>.192</td><td>.724</td></tr><tr><td></td><td>D1</td><td>HDDmc</td><td>5.368</td><td>5</td><td>8.833</td><td>.839</td><td>.379</td><td>5.364</td><td>5</td><td>10.033</td><td>.750</td><td>.416</td></tr><tr><td></td><td></td><td>JDDmc</td><td>5.368</td><td>5</td><td>9.000</td><td>.845</td><td>.391</td><td>5.352</td><td>5</td><td>9.700</td><td>.750</td><td>.418</td></tr><tr><td>D3</td><td></td><td>HDDmc</td><td>8.138</td><td>7</td><td>13.200</td><td>.633</td><td>.521</td><td>8.135</td><td>7</td><td>14.467</td><td>.722</td><td>.585</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td> JDDmc</td><td>8.131</td><td>7</td><td>13.233</td><td>.629</td><td>.530</td><td>8.125</td><td>7</td><td>13.867</td><td>.723</td><td>.589</td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "表3呈现了HDDmc 和JDDmc 在六个属性和多元正态阈值分布条件下的分类准确性（PMR）以及题库使用情况。MR 和 DR 规则下，HDDmc 和 JDDmc 的 PMRs 范围为.273\\~ .639( $M = . 4 7 1 )$ ；二者在D1和D3 规则下的 PMRs 则为 $. 1 4 1 \\sim . 5 1 1$ ( $M = . 2 9 6 \\rangle$ 。测验长度的使用方面，HDDmc 和 JDDmc 在D1和D3上的平均、最小和最大题目长度的范围分别为 $7 . 2 8 7 \\sim 1 0 . 4 0 4$ 、 $7 . 0 \\sim 9 . 0 \\$ 和 $1 1 . 1 6 7 \\sim 1 8 . 3 6 7$ ；而二者在MR和DR 规则下的平均、最小和最大题目长度则分别为 $1 1 . 5 7 1 \\sim 2 1 . 6 7 9 , 7 . 0 \\sim 9 . 0$ 和 $2 8 . 9 6 7 \\sim 3 0 . 0 \\$ 。题目曝光率方面，HDDmc和 JDDmc 在 MR 和DR 规则下的 UIR为 $0 3 6 \\sim . 8 1 1$ ( $\\ M = . 4 1 2 \\cdot$ ，而D1和D3 规则下的UIR则为 $. 4 8 2 \\sim . 9 0 2$ （ $M = . 7 1 1 \\cdot$ )。此外，所有终止规则下的过度曝光率（OIR）均非常小，说明两种非参数选题策略在不同终止规则下均难以产生过度曝光的题目。均匀分布下的分类结果和题库使用情况与多元正态阈值分布下的相同，故不再呈现。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/aabb14530146fd83d86fe4c84f21df6721daa7d0c3b68e5394cf40d25ae77e3e.jpg",
+        "table_caption": [
+            "表3六个属性时两种非参方法的分类结果及题库使用情况(多元正态阈值分布)"
+        ],
+        "table_footnote": [
+            "注：“表示简单 $\\varrho$ 矩阵结构下的OIR均为0；表示复杂Q矩阵结构下的OIR均为.008。"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">终</td><td colspan=\"5\">简单Q矩阵a</td><td colspan=\"5\">复杂Q矩阵b</td></tr><tr><td>题目 质量</td><td>止 规</td><td>诊断 方法</td><td>M</td><td>Min</td><td>Max</td><td>UIR</td><td>PMR</td><td>M</td><td>Min</td><td>Max</td><td>UIR</td><td>PMR</td></tr><tr><td>高</td><td>则 MR</td><td>HDDmc</td><td>11.814</td><td>9</td><td>29.067</td><td>.381</td><td>.536</td><td>12.226</td><td>9</td><td>29.000</td><td>.755</td><td>.636</td></tr><tr><td></td><td></td><td> JDDmc</td><td>11.845</td><td>9</td><td>28.967</td><td>.380</td><td>.529</td><td>12.218</td><td>9</td><td>29.400</td><td>.755</td><td>.639</td></tr><tr><td></td><td>DR</td><td>HDDmc</td><td>12.628</td><td>7</td><td>30.000</td><td>.351</td><td>.485</td><td>11.571</td><td>7</td><td>30.000</td><td>.811</td><td>.491</td></tr><tr><td></td><td></td><td> JDDmc</td><td>16.169</td><td>7</td><td>30.000</td><td>.113</td><td>.603</td><td>14.532</td><td>7</td><td>30.000</td><td>.508</td><td>.611</td></tr><tr><td></td><td>D1</td><td>HDDmc</td><td>7.320</td><td>7</td><td>11.167</td><td>.574</td><td>.319</td><td>7.295</td><td>7</td><td>11.900</td><td>.902</td><td>.339</td></tr><tr><td></td><td></td><td> JDDmc</td><td>7.317</td><td>7</td><td>11.300</td><td>.576</td><td>.316</td><td>7.287</td><td>7</td><td>11.700</td><td>.902</td><td>.341</td></tr><tr><td></td><td>D3</td><td>HDDmc</td><td>9.988</td><td>9</td><td>15.767</td><td>.493</td><td>.440</td><td>10.015</td><td>9</td><td>17.533</td><td>.884</td><td>.511</td></tr><tr><td></td><td></td><td> JDDmc</td><td>9.984</td><td>9</td><td>15.600</td><td>.496</td><td>.442</td><td>9.992</td><td>9</td><td>16.533</td><td>.886</td><td>.510</td></tr><tr><td>低</td><td>MR</td><td>HDDmc</td><td>12.946</td><td>9</td><td>29.900</td><td>.307</td><td>.273</td><td>13.599</td><td>9</td><td>30.000</td><td>.611</td><td>.364</td></tr><tr><td></td><td></td><td>JDDmc</td><td>12.934</td><td>9</td><td>29.867</td><td>.308</td><td>.274</td><td>13.463</td><td>9</td><td>30.000</td><td>.631</td><td>.357</td></tr><tr><td></td><td>DR</td><td>HDDmc</td><td>16.994</td><td>7</td><td>30.000</td><td>.098</td><td>.353</td><td>15.286</td><td>7</td><td>30.000</td><td>.431</td><td>.374</td></tr><tr><td></td><td></td><td>JDDmc</td><td>21.679</td><td>7</td><td>30.000</td><td>.014</td><td>.457</td><td>19.653</td><td>7</td><td>30.000</td><td>.134</td><td>.508</td></tr><tr><td></td><td>D1</td><td>HDDmc</td><td>7.428</td><td>7</td><td>12.000</td><td>.572</td><td>.141</td><td>7.434</td><td>7</td><td>12.900</td><td>.902</td><td>.162</td></tr><tr><td></td><td></td><td> JDDmc</td><td>7.436</td><td>7</td><td>11.800</td><td>.569</td><td>.146</td><td>7.427</td><td>7</td><td>12.967</td><td>.902</td><td>.165</td></tr><tr><td></td><td>D3</td><td>HDDmc</td><td>10.332</td><td>9</td><td>16.533</td><td>.484</td><td>.210</td><td>10.396</td><td>9</td><td>17.833</td><td>.877</td><td>.265</td></tr><tr><td></td><td></td><td> JDDmc</td><td>10.352</td><td>9</td><td>16.867</td><td>.482</td><td>.213</td><td>10.404</td><td>9</td><td>18.367</td><td>.877</td><td>.263</td></tr><tr><td>混合</td><td>MR</td><td>HDDmc</td><td>12.468</td><td>9</td><td>29.633</td><td>.335</td><td>.400</td><td>12.834</td><td>9</td><td>29.833</td><td>.696</td><td>.516</td></tr><tr><td></td><td></td><td> JDDmc</td><td>12.438</td><td>9</td><td>29.633</td><td>.337</td><td>.389</td><td>12.954</td><td>9</td><td>29.967</td><td>.683</td><td>.522</td></tr><tr><td></td><td>DR</td><td>HDDmc</td><td>14.683</td><td>7</td><td>30.000</td><td>.204</td><td>.423</td><td>12.770</td><td>7</td><td>30.000</td><td>.704</td><td>.433</td></tr><tr><td></td><td></td><td> JDDmc</td><td>19.093</td><td>7</td><td>30.000</td><td>.036</td><td>.559</td><td>16.560</td><td>7</td><td>30.000</td><td>.308</td><td>.577</td></tr><tr><td></td><td>D1</td><td>HDDmc</td><td>7.385</td><td>7</td><td>11.533</td><td>.570</td><td>.212</td><td>7.376</td><td>7</td><td>12.733</td><td>.902</td><td>.244</td></tr><tr><td></td><td></td><td> JDDmc</td><td>7.390</td><td>7</td><td>11.533</td><td>.573</td><td>.210</td><td>7.367</td><td>7</td><td>12.933</td><td>.902</td><td>.250</td></tr><tr><td>D3</td><td></td><td></td><td></td><td></td><td>16.233</td><td>.486</td><td>.314</td><td></td><td></td><td>17.533</td><td></td><td></td></tr><tr><td></td><td></td><td>HDDmc</td><td>10.202</td><td>9</td><td></td><td></td><td></td><td>10.198</td><td>9</td><td></td><td>.880</td><td>.392</td></tr><tr><td></td><td></td><td> JDDmc</td><td>10.179</td><td>9</td><td>16.500</td><td>.488</td><td>.309</td><td>10.234</td><td>9</td><td>17.800</td><td>.880</td><td>.393</td></tr></table></body></html>",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "6讨论与结论",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "6.1研究讨论",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "当前大部分CD-CAT的研究常忽略干扰项的诊断信息，造成资源的浪费，对此Yigit等",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "（2019）基于MC-DINA模型提出了综合使用题目所有选项信息的参数选题策略，并取得理想结果。但参数方法面临计算复杂、前提假设严苛以及需较大样本量等不足（郭磊 等,2018;康春花等,2015;Chiu etal.,2018)。基于此，本研究提出了两种适用于mcCD-CAT 的非参数选题策略（HDDmc 和JDDmc)，并且还提出两种变长CD-CAT 情境下的终止规则。通过两个模拟研究系统地探讨了二者在mcCD-CAT 中的表现情况。结果发现，定长实验条件下，非参数选题策略HDDmc 和 JDDmc 可以获得较参数选题策略更加准确的分类结果，并且其题库使用情况明显好于参数选题策略。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "6.1.1控制简单Q矩阵和混合题目质量条件下，属性个数对非参数选题策略有消极影响",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "模拟研究一的结果显示，四个属性时，HDDmc 和 JDDmc 在简单Q矩阵和混合题目质量下的分类准确性整体要优于JSD 方法,但在六个属性时,JSD的分类准确性则高于HDDmc和 JDDmc，特别是测验长度为2K和3K时。该结果产生的可能原因是四个属性时，HDDmc和 JDDmc 倾向于选择特定的题目集，而六个属性时，二者所选择的题目集范围更广泛。当候选题目集范围较为广泛时，由于是从题目集中随机选择一个题目，故导致非参数选题策略可能无法获得最佳的测验题目，从而产生较低的分类准确性；而参数选题策略则可以计算各个题目的 JSD，再确定性地从题目集中选择具有最大JSD 值的题目。这也许可以从题库使用情况对其进行论证：HDDmc 和 JDDmc 在四和六个属性下的整体曝光率、测验重叠率和过度曝光率三个方面的差异比较小，但曝光不足率方面，二者在四和六个属性上的差异则比较大，说明 HDDmc 和 JDDmc 在四个属性下存在大量曝光不足的题目，这一定程度上反向说明该条件下HDDmc 和JDDmc 倾向于选择特定的某些题目集。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "6.1.2MR和DR规则在平衡准确性和题库使用间的表现较D1和D3规则稍差",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "模拟研究二的结果显示，研究提出的两种新的非参数终止规则可以获得较D1和D3 更高的分类准确性，但其代价则是需要更多的测验题目，特别是DR规则，其所需的题目数明显多于其它三种规则，该规则下的平均测验长度均在10.0以上。当然，这也跟研究的设定有关，MR 规则下，个体需连续获得四个完全一致性的AMP 值时测验方能结束，而 DR 规则下，第二小和最小的距离之间的比值需在1.3或1.25时，测验才能结束，这些设定相对于D1和D3而言，更加严苛，因而其需要更多的测验题目，进而导致更高的分类准确性。这是CAT 情境中一直面临的利益权衡问题（陈平 等,2011；郭磊 等,2015；毛秀珍，辛涛,2013;孙小坚 等,2021)。事实上，MR 和 DR 规则下分类准确性的高低和题库使用情况之间的利益权衡可通过研究设置给予实现，当研究目的在于尽可能获得准确分类结果时，可增加 MR规则下连续一致性AMP 值的次数和增大DR规则中的CR值；反之，则可以适当减少。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "6.1.3Q矩阵复杂程度对分类准确性有正向影响",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "两个模拟研究的结果还显示，相对于简单Q矩阵，三种选题方法在复杂Q矩阵下的分类准确性更高。其原因可能在于简单Q矩阵情境下，题库中大部分题目只测量了一个属性（本研究中四和六个属性时各有317和 252个题目)，这些题目的干扰项没有提供任何额外信息，因此简单Q矩阵中的题目提供的选项信息有限。而复杂Q矩阵下，只测量一个属性的题目比例则比较少（本研究中四和六个属性下分别仅有 $2 6 . 2 5 \\%$ 和 $9 . 7 9 \\%$ 的比例)，剩余题目的干扰项均能提供诊断信息，因此在复杂Q矩阵下可得到更高的分类准确性。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "6.1.4HDDmc和JDDmc不依赖于预测试的样本量",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "基于两个模拟研究的分析过程可以发现，在正式测试之前，需进行预测试以获得题目参数的估计值，从而为后续的正式测试提供题目参数信息。而前人研究发现，预测试的样本量会影响参数选题策略的估计准确性，预测试样本量越大，则参数选题策略的估计准确性也越高（Huang,2018; Sun et al.,2020)。其原因在于样本量较小时，参数估计的误差将比较大，而参数选题策略直接将误差较大的题目参数估计值作为正式测试中的真值，从而影响个体AMP 的估计准确性。如此，可以预期，较小的预测试样本量将影响JSD 的分类结果。反观HDDmc 和JDDmc，二者不需要进行预测试，因而预测试的样本量大小不会对其产生影响，该结果与以往关于非参数诊断方法的研究结果相同（e.g.，康春花 等,2019；罗照盛 等,2015)。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "6.1.5研究不足与展望",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "本研究丰富了关于mcCD-CAT的研究。当然，后续研究还可从以下几个方面进行深入探究：（1） $\\boldsymbol { Q }$ 矩阵方面，MC-DINA 模型要求干扰项的 $q$ 向量必须是正确选项的子集，但实际的测验编制过程中，干扰项的q向量不属于正确选项的子集同样有可能发生（郭磊，周文杰,2021)，因此后续研究可对此进行探讨。（2）研究只考虑了个体在各选项上的作答情况，其他信息如作答时间等变量同样可以提供额外的诊断信息，后续研究可尝试将时间信息给予考虑。（3）研究为模拟研究，各方面可以进行严格控制，而实际测验情境将会更加复杂，因此，非参数方法在实证研究中的效果如何需要进一步验证。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "6.2研究结论",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "基于两个模拟研究的结果，研究得到以下结论：（1）两种非参数选题策略均适用于mcCD-CAT 情境，二者均获得较高的分类准确性，因此，使用者可以任选其一；（2）两种非参数方法具有较为均匀的题库使用情况，一定程度上保证了题库的安全性；（3）两种非参数终止规则适用于变长mcCD-CAT 情境，可依据测验目的灵活地平衡准确性和题库使用情况;当测验追求精度时，MR 规则的连续相等次数可设置为五次及以上，而DR规则下的CR 值则可以设置为1.5及以上；反之，则可以降低MR 规则中的次数和DR规则中的CR 值。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Bradshaw, L.,& Templin,J. (2014).Combining item response theory and diagnostic clasification models: A psychometric model for scaling ability and diagnosing misconceptions. Psychometrika,79(3),403-425.   \nChang,H. H. (2015). Psychometrics behind computerized adaptive testing. Psychometrika, 80(1),1-20.   \nChang,Y.P.,Chiu,C.Y.,& Tsai,R. C.(2019). Nonparametric CAT for CD in educational setings with small samples. Applied Psychological Measurement, 43(7),543-561.   \nChen, P.,Li,Z.,& Xin,T.(2011).Anote on the uniformityof item bank usage incognitive diagnostic computerized adaptive testing. Studies of Psychology and Behavior,9(2),125-132.   \n[陈平,李珍，辛涛.(2011).认知诊断计算机化自适应测验的题库使用均匀性初探．心理与行为研究,9(2), 125-132.]   \nCheng,Y. (2009). When cognitive diagnosis meets computerized adaptive testing: CD-CAT.Psychometrika,74(4), 619-632.   \nChiu, C. Y.,& Chang, Y. P. (2021). Advances in CD-CAT: The general nonparametric item selection method. Psychometrika,86(4),1039-1057.   \nChiu, C.Y.,Douglas,J.A.,& Li, X.D. (2009). Cluster analysis for cognitive diagnosis: Theory and applications. Psychometrika, 74(4),633-665.   \nChiu, C. Y., Sun,Y.,& Bian, Y. H. (2018). Cognitive diagnosis for small educational programs: The general nonparametric classification method. Psychometrika, 83(2),355-375.   \nde la Torre,J.(20o9).A cognitive diagnosis model for cognitively based multiple-choice options.Applied Psychological Measurement, 33(3),163-183.   \nde la Torre,J. (2011). The generalized DINA model framework.Psychometrika,76,179-199.   \nGao,Y.,Zhai, X., Cui, Y., Xin,T.,& Bulut,O. (2021).Re-validating a learing progression of buoyancy for middle school students: A longitudinal study. Research in Science Education.Advance online publication. https://doi.0rg/10.1007/s11165-021-10021-x.   \nGuo,L., Yang,J.,& Song,N. Q. (2018). Application of spectral clustering algorithm under various attribute hierarchical structures for cognitive diagnostic assessment. Journal ofPsychological Science,41(3),735-742.   \n[郭磊，杨静，宋乃庆.(2018).谱聚类算法在不同属性层级结构诊断评估中的应用．心理科学,41(3),735- 742.]   \nGuo,L., Zheng, C., Bian, Y. (2015).Exposure control methodsand termination rules in variable-length cognitive diagnostic computerized adaptive testing. Acta Psychologica Sinica,47(1),129-140.   \n[郭磊，郑蝉金，边玉芳.(2015).变长CD-CAT 中的曝光控制与终止规则．心理学报,47(1),129-140.]   \nGuo,L.,Zheng,C.,Bian,Y.,Song,N.,& Xia,L.(2016). New item selection methods incognitive diagnostic computerized adaptive testing: Combining item discrimination indices.Acta Psychologica Sinica,48(7), 903- 914.   \n[郭磊，郑蝉金，边玉芳，宋乃庆，夏凌翔.(2016).认知诊断计算机化自适应测验中新的选题策略：结合项目 区分度指标．心理学报,48(7),903-914.]   \nGuo,L.,& Zhou,W.(2021). Nonparametric methods for cognitive diagnosis to multiple-choice test items.Acta Psychologica Sinica, 53(9),1032-1043.   \n[郭磊，周文杰.(2021).基于选项层面的认知诊断非参数方法．心理学报,53(9),1032-1043.]   \nHe,M.(2021). Research on nonparametriccognitive diagnosis methodand item selection strategy ofnonparametric CD-CAT (Unpublished master's thesis). Sichuan Normal University, Chengdu, Sichuan.   \n[何明霜.(2021).非参数认知诊断方法与非参数 CD-CAT 选题策略研究(硕士毕业论文)，四川师范大学，四 川成都.]   \nHsu, C.L.,Wang, W. C.,& Chen,S.Y. (2013). Variable-length computerized adaptive testing based on cognitive diagnosis models. Applied Psychological Measurement, 37(7),563-582.   \nHuang,H.Y. (2018).Effcts of itemcalibration errors on computerized adaptive testing under cognitive diagnosis models. Journal of Classification, 35(3), 437-465.   \nJaccard,P.(1912). The distribution of the flora in the alpine zone.New Phytologist,11,37-50.   \nKang, C.H.,Ren,P.,& Zeng,P.F. (20l5). Nonparametric cognitive diagnosis: Acluster diagnostic method based on grade response items. Acta Psychologica Sinica, 47(8),1077-1088.   \n[康春花，任平，曾平飞.(2015).非参数认知诊断方法：多级评分的聚类分析．心理学报,47(8),1077-1088.]   \nKang, C. H. Yang, Y. K.，& Zeng,P.F. (2019). Approach to cognitive diagnosis: The Manhattan distance discriminating method. Journal of Psychological Science, 42(2), 455-462.   \n[康春花，杨亚坤，曾平飞.(2019).一种混合计分的非参数认知诊断方法：曼哈顿距离判别法．心理科学, 42(2), 455-462.]   \nKaplan，M.，de la Torre,J.，& Barrada,J.R. (2015).New item selection methods for cognitive diagnosis computerized adaptive testing. Applied Psychological Measurement, 39(3),167-188.   \nKosub,S. (20l9).A note on the triangle inequality for the Jaccard distance.Pattern Recognition Letters,120,36- 38.   \nLiu, C.,& Cheng, Y. (2018). Anapplicationof the support vector machine for attribute-by-attribute classification in cognitive diagnosis. Applied Psychological Measurement, 42(1),58-72.   \nLiu,C. W.,Andersson, B.,& Skrondal,A.(2020). Aconstrained Metropolis-Hastings Robbins-Monro algorithm for Q matrix estimation in DINA models. Psychometrika, 85(2), 322-357.   \nLiu, H.Y.,You,X.F., Wang, W.Y., Ding, S.L.,& Chang, H. H. (2013). The development of computerized adaptive testing with cognitive diagnosis foran Englishachievement test in China.Journal ofClassification,30(2),152- 172.   \nLiu,T. (2016). Using distractor information in computerized adaptive testing (Unpublished doctoral dissertation). Beijing Normal University, Beijing.   \n[刘拓.(2016).干扰项信息在计算机化自适应测验中的利用(博士学位论文).北京师范大学，北京.]   \nLuo, Z., Li, Y., Yu, X., Gao, C., & Peng, Y. (2015). A simple cognitive diagnosis method based on $\\boldsymbol { \\mathcal { Q } }$ matrix theory. Acta Psychologica Sinica,47(2),264-272.   \n[罗照盛，李喻骏，喻晓锋，高椿雷，彭亚风.(2015).一种基于Q矩阵理论朴素的认知诊断方法．心理学报， 47(2), 264–272.]   \nMao, X. Z.,& Xin,T. (013).Acomparison of item selection methods for controlling exposure rate in cognitive diagnostic computerized adaptive testing. Acta Psychologica Sinica,45(6), 694-703.   \n[毛秀珍，辛涛.(2013).认知诊断 CAT 中项目曝光控制方法的比较．心理学报,45(6),694-703.]   \nOzaki,K. (2015). DINA models for multiple-choice items with few parameters: Considering incorrct answers. Applied Psychological Measurement, 39(6), 431-447.   \nSun, X.,Andersson, B., & Xin, T. (2O21). Anew method to balance measurement accuracy and atribute coverage in cognitive diagnostic computerized adaptive testing.Applied Psychological Measurement,45(7-8),463-476.   \nSun, X.,Liu,Y., Xin,T.,& Song,N.(202O).The impactof item calibration eror on variable-length cognitive diagnostic computerized adaptive testing.Frontiers in Psychology，141(11)，Article e575141. https:// 10.3389/fpsyg.2020.575141   \nSun,X.,Mao,X.,Song,N.,& Xin,T. (2021).New methods for item exposure control incognitive diagnostic computerized adaptive testing.Journal of Psychological Science,44(1),205-213.   \n[孙小坚，毛秀珍，宋乃庆，辛涛.(2021).定长CD-CAT中两种新的题目曝光控制方法．心理科学,44(1),205- 213.]   \nSun, X.,Wang,Y., Zhang,S.,& Xin,T.(019). New methods to balance atribute coverage for cognitive diagnostic computerized adaptive testing.Journal of Psychological Science, 42(5),1236-1244.   \n[孙小坚，王钰彤，张世夷，辛涛.(2019).认知诊断计算机自适应测验中平衡属性收敛的新方法．心理科学, 42(5), 1236-1244.]   \nWang, W. Y., Ding,S.L., Song,L. H., Kuang,Z.,& Cao,H.Y. (2016). Application of neural networks and support vector machines to cognitive diagnosis.Journal of Psychological Science, 39(4),777-782.   \n[汪文义，丁树良，宋丽红，邝铮，曹慧媛.(2016).神经网络和支持向量机在认知诊断中的应用．心理科学， 39(4), 777-782.]   \nXin,T.,Le,M.,& Guo,Y.,& Jiang, Y. (2015). The approach to establishing achievement standard: The learning progressions based on cognition diagnostic.Journal of Educational Studies,5,72-79.   \n[辛涛，乐美玲，郭艳芳，姜宇.(2015).学业质量标准的建立途径：基于认知诊断的学习进阶方法．教育学报， 5, 72-79.]   \nXu,X.L.,Chang,H.H.,&Douglas,J.(2Oo3).A simulationstudytocompare CATstrategies forcognitivediagnosis. Paper presented at the Paper presented at the annual meeting ofNational Council on Measurement in Education, Montreal, Canada.   \nXu,G., Wang, C.,& Shang,Z.(2016).On initial item selection in cognitive diagnostic computerized adaptive testing. British Journal of Mathematical and Statistical Psychology,69,291-315.   \nYamaguchi,K.(2020). Variational Bayesian inference for the multiple-choiceDINAmodel. Behaviormetrika,47(1), 159-187.   \nYang,J.,Chang,H.H.，Tao,J.,& Shi,N.(202O). Stratified item selection methods in cognitive diagnosis computerized adaptive testing. Applied Psychological Measurement, 44(5),346-361.   \nYigit,H.D.Sorrel,M.A.,&de la Torre,J. (2019). Computerizedadaptive testing forcognitively based multiplechoice data. Applied Psychological Measurement, 43(5),388-401.   \nZhang,S.(2019).Applying npCD-CAT based on MDD to the field of number and algebra (Unpublished master's thesis). Zhejiang Normal University, Jinhua, Zhejiang.   \n[张淑君.(2019)．基于MDD 的npCD-CAT研究及其在数与代数领域的应用(硕士毕业论文)，浙江师范大学, 浙江金华.]   \nZheng,C.J.,& Chang,H.H. (2016).High-effciency response distribution-based item selection algorithms for shortlength cognitive diagnostic computerized adaptive testing. Applied Psychological Measurement, 40(8), 608- 624. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Nonparametric cognitive diagnostic computerized adaptive testing using distractor information ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "SUN Xiao $^ { 1 , 2 , 3 }$ ,GUOLei $^ { 3 , 4 }$ （20 (School ofMathematics and Statistics,Southwest University,Chongqing 40o715,China) ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "21 ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(2Basic Education Research Centre,Southwest University,Chongqing 40o715,China) 1 $^ { 3 }$ SouthwestUnivesityanchCollborativeIovationCnterofsssmentfrBsicducatinQualityongingna) (4Faculty ofPsychology,Southwest University,Chongqing 400715,China) ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Most existing cognitive diagnostic computerized adaptive testing (CD-CAT） item selection methods ignore the diagnostic information that distractors provide for multiple-choice (MC) items. Consequently, some useful information is missed and resources are wasted.To overcome this,Yigit et al. (2019) proposed the Jensen-Shannon divergence (JSD) strategy to select items with the MCDINA model (de la Torre, 20o9). However, the JSD strategy needs large samples to obtain reliable estimates of the item parameters before the formal test, and this could compromise the items in the bank. By contrast, the nonparametric method does not require any parameter calibration before the formal test and can be used in small educational programs. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "The current study proposes two nonparametric item selection methods (i.e., HDDmc and JDDmc) for CD-CAT with MC items as well as two termination rules (i.e., MR and DR,) for variable-length CD-CAT with MC items.Two simulation studies were conducted to examine the performance of these nonparametric item selection methods and termination rules. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "The first study examined the performance of the HDDmc and JDDmc with fixed-length CDCAT.In this study, six factors were manipulated: the number of attributes ( $\\mathrm { K } = 4$ vs. 6), the structure of the Q-matrix (simple vs. complex), the quality of the item bank (high vs. low vs. mixed), the distribution of the atribute profile (multivariate normal threshold model vs.discrete uniform distribution), the test length (two vs. three vs.four times of K),and the item selection methods (HDDmc vs. JDDmc vs. JSD). Of these, item selection method was the within-group variable, and the rest were between-group variables. The results showed that: (1） the HDDmc and JDDmc produced higher atribute pattern matched ratios (PMRs) than the JSD method for most conditions; (2) the HDDmc and JDDmc produced similar PMRs for allconditions; (3) the HDDmc and JDDmc produced more even distributions of item exposure than the JSD method. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "The second simulation study investigated the performance of the MR and DR with variablelength CD-CAT. Six factors were also manipulated in this study: the settings for the number of attributes,the structure of the Q-matrix,the quality of the item bank,and the distribution of the attribute profile were the same as in the first study; the other two factors were termination rules (MR, DR, D1,and D3) and item selection methods (HDDmc and JDDmc). Again, the first four were between-group variables, while termination rules and item selection methods were within-group variables. The results showed that: (1) the HDDmc and JDDmc yielded higher PMRs for MR and DR rules than for the D1 and D3 rules; (2) the HDDmc and JDDmc yielded longer test lengths for MR and DR rules than for the D1 and D3 rules, especially for the JDD rule. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "In sum, both nonparametric item selection methods and the two new termination rules proved appropriate for CD-CAT with MC items, which means they can be used to balance the trade-off between measurement accuracy and item exposure rate. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Key words cognitive diagnostic computerized adaptive testing, multiple-choice items, nonparametric item selection method, termination rule ",
+        "page_idx": 21
+    }
+]

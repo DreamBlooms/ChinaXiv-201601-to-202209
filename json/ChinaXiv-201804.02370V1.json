@@ -1,0 +1,596 @@
+[
+    {
+        "type": "text",
+        "text": "基于树型结构网格矢量量化的点云渲染算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "石祖旭1，曾安1，Vincent Ricordel²，Nicolas Normand²(1．广东工业大学 计算机学院 计算机系，广州 511400;2．南特大学 LS2N实验室，法国 南特 44306)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对 3D模型海量点云数据存在的空间冗余问题，提出一种基于TSLVQ(treestructure lattcevector quantization)的静态点云有损渲染算法。算法旨在利用层级嵌套网格的集合，解决渲染低效的问题。首先对整个点云进行包围盒封装，多层量化，把数个较小尺度的截断包围盒嵌入到一个较高尺度的截断包围盒单元中，每一步量化过程采用八叉树方法将包围盒分割为8个最佳尺寸的空或非空小包围盒，最后在最高深度的层级里，用包围盒来代替整个小包围盒中全部的点。同时，算法可自行设定八叉树的深度，从而任意控制编码的复杂度和精度，满足渲染的实时性要求。实验结果表明，与现有的网格有损压缩算法相比，提出的算法能在保证模型重建精度的基础上，具有较好的空间分解优势，实现实时渲染效果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：向量量化；树型结构网格编码矢量量化；有损压缩；3D点云 中图分类号：TP391.41 doi:10.3969/j.issn.1001-3695.2018.01.0114 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Efficient representation of static point cloud by using TSLVQ ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Shi Zuxul, Zeng An1, Vincent Ricordel², Nicolas Normand² (1.CollegeofComputerGuangdong UniversityofTechnology,Guangzhou514oo,China2.LS2NLab,UniversitydeNantes, Nantes 44306,France) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Concerning the problems that inpointcloud withalotof temporal redundancy,thispaper presentedanovel lossy compressionapproachbasedon tree-Structure Lattce VectorQuantization forstatic pointcloud.The proposed approachutilizes thehierarchicalpackingofembedtruncatedlatices,whichcansolvetheproblemofrepresentationinefficiency.Firstlyenclose thepointcloud withacube,thenthepointcloudis truncated,embedsmaler-scalecubes intothebigger-scalecube,themultistage procedureofquantization,in everylevel,this method dividedthecube to8 sub-cutes or voxels as empty ornon-empty subspace.Finallyin the predefined max level,usethecube torepresent alltheother points in thesamecube.Furthermore,it allw for predefining max level tocontrolcodingcomplexityandcoding precisionto met thereal-timerenderingrequirement. Experimental resultsshow thattheoctree decomposition hasobvious advantages in3Dobjectreal-time representation comparing with the existing gridding lossy compression, guaranteeing 3D model reconstruction precision. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Vector Quantization; TSLVQ; lossy compression; 3D point cloud ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，三维激光扫描技术，在3D视频、虚拟旅游、数字城市和多媒体领域有很广泛的应用。传感器，如微软的Kinect，立体摄像头系统或高速高分辨率激光等，通过扫描能生成大量高帧率数据。然而，产生的海量点云中包含较多的冗余数据，给存储、传输及后续的数据处理带来了极大不便，尤其在以图片内容为主要特征的互联网上更为突出，因此提出高效压缩方案变得很有必要。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "对于高维度的数据集，目前的研究主要集中在基于概率的压缩[1\\~9]、基于曲率的压缩[10]和基于网格的压缩[11\\~15]。Kalaiah和Varshney提出了基于聚类层级主成分分析（principlecomponentanalysis,PCA）的统计集合渲染方法。Hornung等人[8]设计了一种概率八叉树的表示和相关剪枝策略，解决了存储消耗和置信度阈值问题。赵尔平等人[9]提出邻点差值渐进压缩和基于裁剪重叠区域进行冗余处理的R树空间索引方法。裴书玉等人[10提出一种基于自适应分层的文物点云压缩算法。Weir等人[1将点云划分为若干个小包围盒，用每个小包围盒中最靠近中心的点来代替整个小包围盒中全部的点。Martin等人[2]采用均匀网格法的思想，把点云投影到相应的网格平面中，从投影到同一个网格的点里选择一个中值点来代替这个网格，并删除其余点，实现点云精简。但如果点分布不均衡，该方法容易产生大量空栅格。孟娜[13]采用非均匀网格法，利用八叉树原理[14] 对网格进行细分，在点数量较多的区域空间划分较为细致，反之则较粗糙。Chen 等人[15]提出一种通过减少三角形从而达到减少数据点的方法，其基本思想是先对点云进行三角化，然后对临近三角面片的法矢量进行比较。对较为平坦的区域，在矢量加权算法的基础上使用较少的大三角面片代替较多小三角面片，实现点云精简。由于三角网格法需要对点云进行三角化处理，对于大规模散乱点云而言效率较低，因此该方法在实际应用中受到一定限制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "同时，基于光谱理论的压缩[16:17]也成为近来一个流行的研究方向。Taubin等人[6将信号处理的知识引入三维模型，其主要步骤是用快速傅里叶变换将空域转为到频域上。由任意拓扑结构的网络顶点邻接矩阵及其顶点，得到网格Laplacian矩阵的定义及由特征向量构成的R\"空间的正交基底，特征向量相对应的特征值即为频率，网格表面较为光顺的区域即为低频信号，噪声对应到频域上是高频信号。该算法运用 $\\lambda | \\mu$ 方法，通过增加一个负收缩因子将拉普拉斯平滑引起的收缩再放大回去。王向阳等人[17]提出了一种基于小波变换的有损图像压缩算法。该算法首先利用小波变换对图像进行分解，然后根据各子图像特点对小波系数进行相应的向量量化编码。Ochotta 和 Saupe[18]提出3D 模型分块和表面碎片变换的概念，从而将2D小波技术应用于3D数据压缩。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "鉴于当前算法的执行效率问题，本文结合TSLVQ提出一种适应不同分辨率，复杂度和精确度需求的可通用的，可拓展的，有损的点云流压缩方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 算法原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.13D点云的八叉树表示",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一棵八叉树是一个有预定义深度的树型结构，每个分支节点代表一个在3D空间中的确定的立方体，也叫体素。初始情况下，采用某种分层方式将三维空间划分为若干个体素，例如，采用深度优先遍历方式构造一棵八叉树，3D点云所有点被封装在根节点中，形成包围盒，再循环执行该过程，直到达到设定的深度为止，子节点中可以包含/不包含点云中的点。3D点云中的所有节点最终被映射到叶节点上。图1展示了不同深度等级下的八叉树分解过程，其中属于同一体素的点被涂以相同颜色。每个体素包含一个或若干个点。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2dccf38aa2c6c4c11a9a569abdf24d7eb63406f37f8a241b83f29343aa1b7299.jpg",
+        "img_caption": [
+            "(a) Original point cloud "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d4618910a313ba2864ffef4301f5f75ac37b729617d4bf2a19722d9c57c1d01e.jpg",
+        "img_caption": [
+            "(b) Depth 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/54f5a6ac7c940472fb75ef8a7d8f78c206f7e4c8f05aeb8cef5109953c976d2e.jpg",
+        "img_caption": [
+            "(c) Depth 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图13D模型在两个不同深度等级上八叉树分解19]",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2矢量量化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "矢量量化VQ（vectorquantization）是信号处理中典型的量化技术，矢量是由若干个标量数据组成的，矢量量化把矢量空间分成若干个小区域。每个小区域寻找一个代表矢量，量化时落入小区域的矢量就由这个代表矢量代替。实际上对每一个量化矢量（码字)，利用其在码书中分配的索引号进行存储或传输，从而达到数据压缩的目的。图像的相邻数据项都是相关的，故而可以将其应用于图像压缩。图像编码如图所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/58c5d1a1daaa975af30b0da868a1a812776ba60a92d96f68a29f8a088ac73156.jpg",
+        "img_caption": [
+            "图2.基于VQ的编码"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "输入和码本匹配的编码过程需要大量计算，解码只需查码书。一个维度为 $\\mathrm { \\Delta k }$ ，容量为L的VQ函数定义为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathsf { Q } \\colon R ^ { k } \\to \\mathsf { D } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { x } \\to \\mathbf { Q } ( \\mathbf { x } ) = y _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathsf { D } = \\{ \\mathrm { y } _ { \\mathrm { i } } \\in \\mathrm { R } ^ { \\mathrm { k } } / \\mathrm { i } = 1 , 2 , \\cdots , \\mathrm { L } \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $x$ 是输入向量， $Q$ 是量化函数， $D$ 是码书。编码采用“最近邻原则”，其计算公式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { i } = \\left\\{ x \\in R ^ { k } / Q ( x ) = y _ { i } , i f d ( x , y _ { i } ) \\leq d \\bigl ( x , y _ { j } \\bigr ) , \\forall j \\neq i \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $C _ { i }$ 是Voronoi区域， ${ \\bf d } ( { \\bf x } , y _ { i } )$ 表示输入向量和代表矢量的欧氏距离。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3结构化矢量量化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "结构化矢量量化（latticevectorquantization，LVQ）将lattice点集的子集作为VQ的输出点，通过网格编码将纯矢量量化扩展成具有更大码书尺寸的矢量量化器，因此相比VQ具有更好的性能。LVQ不仅利用了矢量量化器，因此相比VQ具有更好的性能。LVQ不仅利用了量化信号间的空间相关性，而且它也利用了其时间相关性，同时根据受约束的率失真理论和不受约束率失真理论，该方法原理上可以任意逼近率失真下限。码字是Voronoi区域（包围盒）的中心点。包围盒的空间嵌入决定了它的属性。不像LBG-based(Linde，Buzo，Gray算法)方法[22\\~25]，LVQ 中的编码与矢量坐标相关。因此，它仅仅依赖于近似和尺度缩放操作，编码非常方便[23.24]。具体步骤如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）根据不同的维度，选择最合适的包围盒。与包围盒相关联的快速量化算法[26]主要采用 $Z ^ { k }$ ， $D _ { k }$ ， ${ { E } _ { 8 } }$ ， $\\boldsymbol { A } _ { 1 6 }$ [27]等筛选标准。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）码书尺度的选择。c）源数据标准化。在源数据集被标准化后，就可以使用快速量化算法[26]。标准化操作是指将输入向量投影到截断的网格内。量化前需要进行一系列缩放操作。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d）检索包围盒码书。由于码书的尺寸非常大，对码字进行索引是复杂度很高的计算过程。标签化的目的是为了在计算复杂度和转换码书容量上折中。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "文献[24]指出并不是所有的包围盒都有最佳空间嵌入。此外，量化的效率和量化区域大小和被选中的多面体形状有关，该多面体表示Voronoi区域。理论上，体积相同时，球形区域的最大粒状误差最小，球形量化区域的平均粒状误差最小。被选中的最佳包围盒具有独特的空间特性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在三维空间中有三类包围盒：正方体包围盒 $( \\pmb { Z _ { 3 } } )$ ，菱形十二面体（ $\\mathrm { \\Delta D _ { 3 } }$ ）和截断八面体 ${ ( \\mathtt { D 3 } ^ { * } }$ )。图3表示了一个由六边形嵌入的2D包围盒。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/27d2531839c25a9d4b10c0176f615daaa9119a22d7f8622c2c2489d364cce5b8.jpg",
+        "img_caption": [
+            "图3子最佳嵌入-六边形包围盒[27]"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "逆量化过程包括解码接收到的索引，找到对应的包围盒中心点，并再次标准化。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4树结构矢量量化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "树结构矢量量化（tree structurevectorquantization,TSVQ）是一个多种量化方法的集合，其中的量化过程通过决策树量化[22]。该方法的优点在于运用简化版的子码书和自适应的结构简化计算。点云数据模型是一系列点，点的属性包含颜色、坐标和区域表面法向量等，如图4所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/198a5d53358baae977a7ba1c0dbafb058fc355664e250cb91a1ad01fcdfc7f07.jpg",
+        "img_caption": [
+            "图4在点云中的点集合[8]"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 树型结构网格矢量量化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用嵌入式截取网格的分层包围结构，本文提出了基于树",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "型结构的网格矢量量化（tree structure lattice vectorquantization,TSLVQ）[28]的点云渲染算法。该算法采用八叉树分割方法，在连续的层级包围盒之间设置缩放因子。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于树型结构网格矢量量化的点云渲染算法步骤如下[27]：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a）源向量被投放到一个截断包围盒;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b）为了得到一个更好的量化，另一个较低尺度的截断包围盒被嵌入到正方体区域（Voronoi区域）中，该区域是统一尺度的输入向量；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c）以上步骤循环执行。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "处理统一尺度的输入向量比处理不同尺度的多个包围盒要简单很多。对应本文算法的编码流程如图5所示",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SLvO[TsLvsv ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中x是输入向量，第一个T代表平移三维空间原点到3D物体的中心， $\\mathrm { \\ y _ { i } }$ 是第i层的输出向量，F是初始缩放因子，b表示后续缩放因子。 ${ \\bf b } = 2$ 的层级如图6所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/97be7ddc84f37fa7dce884ced7732d42074ee101731c46456a8db32bd6931f66.jpg",
+        "img_caption": [
+            "图6层级集合对应于包围盒"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/39fc94f206c6d3712d9cb13028bf015720b3cacb558fa3111053bc7d0f1f3eba.jpg",
+        "img_caption": [
+            "图5tTSLVQ的原理",
+            "图5第二个T代表 $2 \\mathrm { x } 2 \\mathrm { x } 2$ 到 $3 \\mathrm { x } 3 \\mathrm { x } 3$ 坐标变换过程，如图7所示",
+            "图7．坐标平移变换 ",
+            "图7展示了缩放后的点的三维坐标与"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "center $\\because [ 0 . 5 , 0 . 5 , 0 . 5 ]$ 求和之后的平移过程，图5中的F用于映射每一个输入向量 $\\mathbf { \\sigma } _ { \\mathbf { X } }$ 到第一个截断包围盒，其计算公式为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { F } = { \\frac { b \\times \\rho } { L _ { 2 m a x } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\rho$ 是对应的填充半径， $\\mathrm { L } _ { \\mathrm { 2 m a x } }$ 为 $\\scriptstyle { \\mathrm { ~ } } x$ 的最大的球体半径。所有的输入向量被投射到一个超球体中，这个球体的半径等于 $\\boldsymbol { \\mathbf { b } } \\times \\boldsymbol { \\mathbf { \\rho } } _ { \\mathbf { \\rho } }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在这个标准化的空间里，缩放因子b用于映射每个转换的向量到另一个层级截断包围盒。在渲染算法中， $\\mathrm { ~ i ~ } ^ { \\mathrm { t h } }$ 层这个截断包围盒的输出向量是 $\\mathrm { \\ y _ { i } }$ 。与 $\\mathrm { ~ x ~ }$ 有关的输出向量的最终结果计算公式为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { y } } = { \\frac { 1 } { F } } \\times \\sum _ { i } { \\frac { y _ { i } - C e n t e r } { b ^ { i - 1 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在每一层，相同的快速量化算法被运用。基于树型结构网格矢量量化的点云渲染算法伪代码如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/60749622c62ecd71246807e06ee674405dcb9565860519cff65dda70392ac8e0.jpg",
+        "table_caption": [
+            "算法1基于树型结构网格矢量量化的点云渲染算法"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>轴入</td><td>3D点云模型D</td></tr><tr><td>轴出</td><td>压缩渲染点云G</td></tr><tr><td>1:</td><td>function PRoCEss(D, level, final)</td></tr><tr><td>2:</td><td>initial parameters</td></tr><tr><td>3</td><td>D ← D - mean(D)</td></tr><tr><td>4</td><td>L2max: radius of the sphere of root</td></tr><tr><td>5:</td><td>F←xP Lgmax</td></tr><tr><td>6:</td><td>for all x such that x ∈ Dt do</td></tr><tr><td>7:</td><td>Dt =I*F</td></tr><tr><td>8:</td><td>end for</td></tr><tr><td>9:</td><td>while level < final do</td></tr><tr><td>10:</td><td>Dt+1 =RENDER(Dt, level,b, final)</td></tr><tr><td>11:</td><td>Dt = Dt+1</td></tr><tr><td>12:</td><td>level t level + 1</td></tr><tr><td>13:</td><td>end while</td></tr><tr><td>14:</td><td>end function</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0fef45cdf3005647a189c2bed2430319a0dfd2772ad6534e4e0897d3ba0414e2.jpg",
+        "table_caption": [
+            "算法2点云分解中间过程"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>轴入3D点云当前层Dg</td><td></td></tr><tr><td>轴出</td><td>3D点云下一层D4+1</td></tr><tr><td>1:</td><td>function RENDER(Dt, level,b,final)</td></tr><tr><td>2:</td><td>Center ← [0.5,0.5,0.5]</td></tr><tr><td>3:</td><td>for all x such that x ∈ Dt do</td></tr><tr><td>4</td><td>Dt=x*b</td></tr><tr><td>5</td><td>D1 =D +Center</td></tr><tr><td>6:</td><td>Yt = Quantization(Dt)</td></tr><tr><td>7:</td><td>indert = codeBook(Yt)</td></tr><tr><td>8:</td><td>Yt = reverseCodeBook(indert)</td></tr><tr><td>9:</td><td>y = ↓ ×∑, y-gsnter</td></tr><tr><td>10:</td><td>plot cube Gt in the center of y</td></tr><tr><td>11:</td><td>Dt+1 = (Dt -Yi) × b)</td></tr><tr><td>12:</td><td>end for</td></tr><tr><td>13:</td><td>return Dt+1</td></tr><tr><td>14:</td><td>end function</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法2中Quantization $( D _ { I } )$ 为量化函数，codeBook(Yi)码字在码书中的索引查询函数，reverseCodeBook(indexi)索引在码书中的码字查询函数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 实验结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了客观地评估本文算法的有效性，在两个标准的公开点云库（MITCSAIL图像库[3的石狮和斯坦福大学图像学实验室[的中国龙）、3D模型太阳花和3D潜艇（通过三维重建软件photoscan从100多张二维图片上分别构建的图像库）上进行实验验证。实验运行的硬件环境为IntelCorei5/双核四线程2.50GHzCPU，内存为8GB，软件平台为MatlabR2017a。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在点云数据精简评价中大多数采用目视的方式，也有部分通过计算Rate-Distortion曲线来评价。本文采用体积变化比率和渲染时间开销来评价算法的性能。在试验中，本文算法采用基于八叉树结构的空间分割，设置缩放因子 $\\scriptstyle \\mathrm { b = 2 }$ 。同时，与文献[29]分割点云所在空间4次后的结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图 $9 ^ { \\sim } 1 2$ 分别展示了本文算法和文献[29]在石狮、中国龙、太阳花和潜艇数据集上处理的第一层、第二层和第三层的点云所在空间分割结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "假设在本文算法和文献[28]提出的实验方案中，每一次都完全分割，则分别构成了完全八叉树和完全27叉树。表1中显示了两棵完全树在不同层级上的包围盒数量。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5c0c1b2732d276ca60e6f327d9b0f42386d9417f0b246f9fcb0572ddd6770988.jpg",
+        "table_caption": [
+            "表1完全27叉树和完全八叉树对比分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>深度/节点数</td><td>八叉树</td><td>27叉树</td></tr><tr><td>0</td><td>1</td><td>1</td></tr><tr><td>1</td><td>8</td><td>27</td></tr><tr><td>2</td><td>64</td><td>729</td></tr><tr><td>3</td><td>512</td><td>19683</td></tr><tr><td>4</td><td>4096</td><td>531441</td></tr><tr><td>5</td><td>32768</td><td>143448907</td></tr><tr><td>6</td><td>262144</td><td></td></tr><tr><td>7</td><td>2097152</td><td></td></tr><tr><td>8</td><td>16777216</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "就真实渲染效果而言，同一层次的包围盒数量大有迥异，包围盒数量越多，图像清晰度越高，但渲染时间复杂度也越高，只有在包围盒数量相当的情况下不同算法性能比较才有意义。比如八叉树的第6层和27叉树的第4层的压缩率对比如表2所示。图13分别展示了本文算法和文献[28]在4个数据集上处理的包围盒数量对比曲线。具体的包围盒数量和体积变换比率如表3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于文献[28]，运用式(5)计算体积变化比率。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname { O V } = \\operatorname { c o u n t } * ( ( 1 / 3 ) ^ { d e p t h } ) ^ { 3 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中：count是在depth层次上的节点/包围盒的数量，（204号 $( 3 ^ { \\mathrm { { d e p t h } } }$ ）表示完全27叉树的节点/包围盒数量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于本文算法，应用式(6)计算体积变换比率， $\\displaystyle { ( 2 ^ { \\mathrm { d e p t h } } ) }$ ）3表示完全八叉树的节点/包围盒数量。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 \\mathrm { V } = \\mathrm { c o u n t } * \\left( \\left( { \\frac { 1 } { 2 } } \\right) ^ { d e p t h } \\right) ^ { 3 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图13和表3中包围盒数量反映了每次分割时绘制立方体的时间成本，可以看出本文算法的优势在于其快速收敛性。体积变换比率表示数据相对于标准完全树网格的扭曲程度。图14和表3反映了本文算法的数据相对扭曲程度较低，精确度较好。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4c36344bf397d6f9134974b8c682f49887f88b1d9ea734c3424af7a343ce08b0.jpg",
+        "img_caption": [
+            "图83D模型2种不同分割方案上的分解"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/880f2025421e04b31044a33273236c6c78faaf0d29d452b230e79c847e989be3.jpg",
+        "table_caption": [
+            "表24个数据集上两种分割方案对应层上的压缩率对比分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">数据集(点数量)</td><td colspan=\"2\">本文算法第6层</td><td colspan=\"2\">文献[28]第4层</td></tr><tr><td>节点数量</td><td>压缩率</td><td>节点数量</td><td>压缩率</td></tr><tr><td>石狮(309153)</td><td>4049</td><td>1.306%</td><td>6370</td><td>2.060%</td></tr><tr><td>中国龙(44329)</td><td>1745</td><td>3.936%</td><td>2639</td><td>5.953%</td></tr><tr><td>太阳花(50826)</td><td>2681</td><td>5.275%</td><td>4281</td><td>8.423%</td></tr><tr><td>潜艇(360822)</td><td>4208</td><td>1.166%</td><td>6792</td><td>1.882%</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a264dc7f5909caed147072cc414de77a0f6803848ff71c33d368baf7b894c6de.jpg",
+        "table_caption": [
+            "表34个数据集上两个分割方案的分解对比分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">(点数量) 数据集 （L2max，x的最大球体半径）</td><td>(309153) 石狮</td><td>(44329) 中国龙</td><td>(50826) 太阳花</td><td>(360822) 潜艇</td></tr><tr><td colspan=\"3\"></td><td>(196.1343)</td><td>(0.1472)</td><td>(9.7326)</td><td>(14.2494)</td></tr><tr><td rowspan=\"7\">文献[28]</td><td>层次1</td><td>节点数量 体积变化比率</td><td>8 0.2963</td><td>9 0.3333</td><td>15</td><td>10</td></tr><tr><td></td><td>节点数量</td><td>77</td><td>51</td><td>0.5556 68</td><td>0.3704 79</td></tr><tr><td>层次2</td><td>体积变化比率</td><td>0.1056</td><td>0.0700</td><td>0.0933</td><td>0.1084</td></tr><tr><td></td><td>节点数量</td><td>722</td><td>390</td><td>507</td><td>711</td></tr><tr><td>层次3</td><td>体积变化比率</td><td>0.0367</td><td>0.0198</td><td>0.0258</td><td>0.0361</td></tr><tr><td></td><td>节点数量</td><td>6370</td><td>2639</td><td>4281</td><td>6792</td></tr><tr><td>层次4</td><td>体积变化比率</td><td>0.0120</td><td>0.0005</td><td>0.0081</td><td>0.0128</td></tr><tr><td rowspan=\"10\">本文算法</td><td>层次1</td><td>节点数量</td><td>8</td><td>8</td><td>7</td><td>8</td></tr><tr><td></td><td>体积变化比率</td><td>1.0</td><td>1. 0</td><td>0.8750</td><td>1. 0</td></tr><tr><td>层次2</td><td>节点数量</td><td>16</td><td>16</td><td>18</td><td>18</td></tr><tr><td>体积变化比率</td><td>0.25</td><td>0.25</td><td></td><td>0.2813</td><td>0.2813</td></tr><tr><td>层次3</td><td>节点数量</td><td>59</td><td>43</td><td>51</td><td>61</td></tr><tr><td></td><td>体积变化比率</td><td>0.1152</td><td>0.0840</td><td>0. 0996</td><td>0. 1191</td></tr><tr><td>层次4</td><td>节点数量</td><td>232</td><td>151</td><td>185</td><td>230</td></tr><tr><td></td><td>体积变化比率</td><td>0. 0566</td><td>0.0369</td><td>0.0452</td><td>0.0562</td></tr><tr><td>节点数量</td><td></td><td>1012</td><td>521</td><td>691</td><td>1002</td></tr><tr><td>层次5</td><td>体积变化比率</td><td>0.0309</td><td>0.0159</td><td>0. 0211</td><td>0.0306</td></tr><tr><td>层次6</td><td>节点数量 体积变化比率</td><td>4039 0.0154</td><td>1745 0.0067</td><td>268 0.0102</td><td>4208 0.0161</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4ace76f8d5d5d1588263f8a54cda98bd44425b94fd535f1cd2974fac30325f67.jpg",
+        "img_caption": [
+            "图93个不同深度上文本与文献[28]分解3D石狮"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/327e9977388a70ec303638583f68b87febeca5a656c3764337147cdba85716a9.jpg",
+        "img_caption": [
+            "图103个不同深度上文本与文献[28]分解3D中国龙"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1de962eab47973a1c6d9ba8a8c5a140ecbdbc1a336186e22150a82eae0a706a2.jpg",
+        "img_caption": [
+            "图113个不同深度上文本与文献[28]分解3D太阳花"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/bab6cc41a0fc108db023b5dc3a498d7a7d62676220b3ffa4a3829516f0ea8b38.jpg",
+        "img_caption": [
+            "图123个不同深度上文本与文献[28]分解3D潜艇"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/cbf76d14103c381ee53c5151812817d8c96e3eaa2ff69f09b06f7fb2015e76bd.jpg",
+        "img_caption": [
+            "图134个数据集中两个方案在每层的节点数量对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/4773705bfe4727057fba50b8dc337ad2d25e54ceb2c2f61738cd658d618384f5.jpg",
+        "img_caption": [
+            "图144个数据集中两个方案的体积变化比率对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文提出了一个基于树型结构网格矢量量化的点云渲染算法。算法基于TSLVQ，用八叉树进行编码，支持在线实时压缩渲染。与现有算法相对比，本文算法在4个数据集上均表现出优越性和适用性，能适应不同分辨率，复杂度和精确度需要，具有通用性和可拓展性。这对点云数据的存储、三维重建和增强现实具有明显的工程意义。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "未来的工作将集中于动态点云的高效渲染上，以及如何综合时间成本和数据扭曲双重标准，自适应动态选择某种剖分方案以便最佳模拟原始静态点云的形状。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Jensen F V,Nielsen TD.Bayesian networks and decision graphs [M].New York: Springer, 2007.   \n[2]Wainwright MJ,Jordan MI. Graphical models,exponential families,and variational inference [M].[S.1.]:Now Publishers Inc.,2008.   \n[3]Koller D,Friedman N.Probabilistic graphical models:principles and techniques-adaptive computation and machine learning [M]. Cambridge: MIT Press,2009.   \n[4]Edwards D. Introduction to graphical modelling [M]. New York: Springer, 2000.   \n[5]Bang-Jensen J,Gutin G Z.Digraphs: theory,algorithms and applications [M].[S.1.] : Springer Publishing Company, 2008.   \n[6]Kalaiah A,Varshney A. Statistical geometry representation for efficient transmission and rendering [M].New York:ACMPress,2005.   \n[7]Willsky A S.Multiresolution Markov models for signal and image processing [J].Proceedings of the IEEE,2002,90(8):1396-1458.   \n[8]Hornung A,Wurm K M,Bennewitz M,et al.OctoMap:an efficient probabilistic 3D mapping framework based on octrees [J].Autonomous Robots,2013,34(3):189-206.   \n[9]赵尔平，刘炜，党红恩．海量3D点云数据压缩与空间索引技术[J].计 算机应用,2018,38(1):146-151.(Zhao Erping,Liu Wei,Dang Hong'en. Data compression and spatial indexing technology for massive 3D point cloud.Journal of Computer Applications,2018,38(1): 146-151.)   \n[10]裴书玉，杜宁，王莉，等．基于自适应分层的文物点云数据压缩算法 [J].计算机应用研究,2018,35(12).htp://www.arocmag.com/article/02- 2018-12-062. html. (Pei Shuyu,Du Ning, Wang Li, et al. Adaptive slicingbased compression algorithm with cultural relics point clouds.Application Research ofComputers,2018,35 (12).[2017-12-08].)   \n[11] WeirDJ,Milroy MJ,Bradley C,et al. Reverse engineering physical models employing wrap - around B-spline surfaces and quadrics [J]. Journal of Engineering Manufacture,1996,210 (22): 147-157.   \n[12] Martin R R,Stroud IA,Marshall A D.Data reduction for reverse engineering. RECCAD,Deliverable Document 1 COPERNICUS project, No 1068 (1997): 111.   \n[13]孟娜．基于激光扫描点云的数据处理技术研究[D].济南：山东大学, 2009. (Meng Na.Point cloud data process based on laser scanning[D]. Jinan: Shandong University,2009.   \n[14]王平江，黄雪梅．曲面激光密集测量三维数据的三角片逼近方法 [J]. 图学学报,1998 (1):17-27.(Wang Pingjiang,Huang Xuemei. Triangular slice approximation for3d data with laser intensity measurement [J]. Journal of Graphics,1988 (1): 17-27.)   \n[15] Chen Y H,Ng C T,Wang Y Z.Generation of an STL file from 3d measurement data with user-controlled data reduction [J]. International Journal of Advanced Manufacturing Technology,1999,15 (2):127-131.   \n[16] Taubin G, Zhang T, Golub G. Optimal surface smoothing as filter design [C]// Proc of European Conference on Computer Vision. [S.1.] $\\vdots$ SpringerVerlag,1996: 283-292.   \n[17]王向阳，杨红颖，高存臣．基于小波变换的有损图像压缩算法研究[J]. 计算机工程与应用，2001,37(15):82-84.（Wang Xiangyang,Yang Hongying，Gao Cunchen. The image compression based on wavelet transform [J]. Journal of Computer Engineering and Applications,2001,37 (15): 82-84. )   \n[18] Ochotta T, Saupe D.Compression of point-based 3D models by shapeadaptive wavelet coding of multi-height fields $[ \\mathrm { C } ] / \\AA$ Proc of Eurographics Conference on Point-based Graphics.[S.1.] : Eurographics Association, 2004: 103-112.   \n[19] Kammerl J, Blodow N,Rusu R B,et al. Real-time compression of point cloud streams [C]//Proc of IEEE International Conference on Robotics and Automation.2012:778-785.   \n[20]Berger T.Rate-distortion theory [M].[S.l.]:Prentice-Hall,1971.   \n[21] Shannon C E A.A mathematical theory of communication [J].ACM SIGMOBILE Mobile Computing & Communications Review,2001,5(1): 3-55.   \n[22] Gersho A,Gray R M.Vector quantization and signal compression [J]. Springer International,1992,159(1): 407-485.   \n[23] Ricordel V.Etude d'un schéma de quantification vectorielle algebrique et arborescente.Application ä la compression de séquences d'images numériques [J].Ref,1996.   \n[24] Conway JH,Sloane NJA.Sphere Packing,Lattices and Groups [J]. American Mathematical Monthly,1993,96 (6).   \n[25]LindeY,Buzo A,Gray RM.An Algorithm for Vector Quantizer Design [J]. IEEETrans on Commun,1980,28(1):84-95   \n[26] Conway J, Sloane N.Fast quantizing and decoding and algorithms for lattice quantizers and codes [J].IEEE Trans on Inf.Theory,1982,28(2):227-232.   \n[27] Ricordel V,Labit C.Vector Quantization by Packing of Embedded Truncated Lattices [M]. OAI,2010.   \n[28]Ricordel V,Labit C.Tree-structured lattice vector quantization [C]//Proc of European Signal Processing Conference.1996:1-4.   \n[29]TorralbaA,MurphyKP,Freeman TW.TheMIT-CSAIL database of objects and scenes [DB]. (2009) http://people. csail. mit. edu/tmertens/textransfer/data/.   \n[30] Levoy,Marc,et al. The Stanford 3D scanning repository [EB/OL].(2005). http://www-graphics.stanford.edu/data/3dscanrep. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,645 @@
+[
+    {
+        "type": "text",
+        "text": "Immunity Innate Lymphoid Cells Control Early Colonization Resistance against Intestinal Pathogens through ID2-Dependent Regulation of the Microbiota ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Graphical Abstract ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Authors ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f79204a2fba6c316e40f2e1a749ca4a94f10ee0438a132e22862c54fa2dba4a.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xiaohuan Guo, Yong Liang.,, Barbara L. Kee, Yang-Xin Fu ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Correspondence ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "guoxiaohuan@biomed.tsinghua.edu.cn (X.G.), yfu@uchicago.edu (Y.-X.F.) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In Brief ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Group 3 innate lymphoid cells (ILC3s) are important for protection from gut pathogen infection. Fu and colleagues show that ID2-dependent ILC3s produce IL-22 and limit early colonization of pathogen through homeostasis of the microbiota. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Highlights ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ID2 is essential to mediate colonization resistance against   \nC. rodentium   \nContinued expression of ID2 is required for the homeostasis   \nof ILC3s   \nID2-E2A interaction regulates ILC3s producing IL-22 through   \nthe AhR and IL-23R pathway   \nIL-22 from ILC3s controls colonization resistance through   \nregulating themicrobiota ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Innate Lymphoid Cells Control Early Colonization Resistance against Intestinal Pathogens through ID2-Dependent Regulation of the Microbiota ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Xiaohuan Guo,1,2\\* Yong Liang,1,3 Yuan Zhang,1 Anna Lasorela,4 Barbara L. Kee,1 and Yang-Xin Fu1.3,\\*   \n1Departmentof Pathologyand Committee on Immunology,The Universityof Chicago,Chicago,IL60637,USA   \n2Tsinghua University School of Medicine,Beijing 100084, China   \n3lnstituteofBioisdTUversityfagjointGoufmunoterapyKeyaboratorfectiadnityittf   \nBiophysics,Chinese Academyof Sciences,15 Datun Road,Chaoyang District,Beijing 100101,China   \n4InstituteforCancerGenetics,DepartmentsofeurologandPathologyColumbiaUiversityedicalCenterNewYork,A   \n\\*Correspondence: guoxiaohuan@biomed.tsinghua.edu.cn (X.G.), yfu@uchicago.edu (Y.-X.F.)   \nhttp://dx.doi.org/10.1016/j.immuni.2015.03.012 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SUMMARY ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Microbiota-mediated effects on the host immune response facilitate colonization resistance against pathogens.However, itis unclearwhetherand how the host immune response can regulate the microbiota to mediate colonization resistance. ID2，an essential transcriptional regulator for the development of innate lymphoid cell (ILC) progenitors,remains highly expressed in differentiated ILCs with unknown function. Using conditionally deficient mice inwhich ID2is deletedfrom differentiated ILC3s,we observed that these mutant mice exhibited greatly impaired gut colonization resistance against Citrobacter rodentium.Utilizing gnotobiotic hosts, we showed that the ID2-dependent early colonization resistance was mediated by interleukin-22 (IL22) regulation of the microbiota. In addition to regulating development, ID2 maintained homeostasis of ILC3s and controlled IL-22 production through an aryl hydrocarbon receptor (AhR) and IL-23 receptor pathway. Thus,ILC3s can mediate immune surveillance，which constantly maintains a proper microbiota，to facilitate early colonization resistance through an ID2-dependent regulation of IL-22. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Colonization resistance against pathogens is dependent on direct inhibition by the host microbiota (van der Waaij et al., 1971).The microbiota can also regulate the host immune response to mediate indirect colonization resistance against pathogens (Buffie and Pamer, 2013). In contrast, various host genetic factors,including immune factors，also contribute to the varying levels of individual susceptibility to pathogen infections (Chapman and Hill,2012; Wlodarska et al., 2014). However, it is unclear whether and how such host genetic factors contribute to colonization resistance against pathogens through shaping the microbiota.Citrobacter rodentium (C.rodentium) is anatural mouse intestinal pathogen that mimics human Enterohaemorrhagic Escherichia coli (E.coli) and Enteropathogenic E. coli,which cause severe diarrhea (Crim et al., 2014; Ochoa et al.，20o8).Both innate and adaptive immune components, including interleukin-22 (IL-22)-producing innate lymphoid cells (ILCs), $\\mathsf { C D 4 ^ { + } }$ T cells,B cells,and C. rodentium-specific antibodies,are essential for controlling and eradicating the infection (Bry and Brenner, 2004; Bry et al., 2006; Guo et al., 2014; Zheng et al.，20o8).Gut flora has been shown to be important in protection against infection. C3H/HeOuJ mice suffer $100 \\%$ mortalityafter C.rodentium-induced colitis (Vallanceetal.,2003), whereas microbiota transfer from C57BL/6 mice leads to a complete rescue of C3H/HeOuJ mice from death (Ghosh etal.,2011). IL-22 is induced by IL-23 through the IL-23 receptor (IL-23R)- STAT3 pathway in the early phase of infection and is essential for host defense against C. rodentium infection (Guo et al., 2014; Zheng et al., 2008). The major function of IL-22 is to promote mucosal epithelial cell survival and proliferation and to trigger the secretion of antimicrobial peptides,such as Reglllγ (Pickert et al.,2oo9). Previous studies have also shown that exogenous Regllly can partially rescue IL-22-deficient mice from death (Zheng et al.,20o8). Interestingly, in vitro assays suggest that Regllly can only kill some Gram-positive bacteria,but not the Gram-negative bacteria C. rodentium (Cash etal.,20o6).Therefore，it is still unknown how IL-22-induced Regllγ controls C.rodentium infection.Multiple studies have also shown that IL-22 can shape the gut microflora,which contributes to protection orexacerbation of inflammatory bowel disease or infections (Behnsen et al., 2014; Qiu etal., 2013; Zelante et al., 2013). However,it is not known whether IL-22 shapes the microbiota to mediate earlycolonization resistanceagainst C.rodentium. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Group 3 ILCs (ILC3s) are the major producer of IL-22 in the naive gut (Guo et al., 2014; Qiu et al.，2012). ILCs are newly defined immune cells that protect the host from various infections and include group 1 ILCs (ILC1s)，group 2 ILCs (ILC2s), and ${ \\mathsf { R O R } } \\gamma \\mathbf { t } ^ { + }$ ILC3s (including $\\mathsf { C D 4 ^ { + } }$ lymphoid tissue-inducer [LTi] cells，natural cytotoxicity receptor $( N C R ) ^ { - }$ ILC3s，and ${ \\mathsf { N C R } } ^ { + }$ ILC3s) (Spits et al.， 2013). To date， the developmental and functional program of ILC3s is known to involve transcription factors, such as RORγt (Eberl and Littman，2003;Eberl et al., 2004), AhR (Kiss et al., 2011; Lee et al., 2012; Qiu et al., 2012), and STAT3 (Guo et al., 2014). Recent data suggest that ${ \\mathsf { N C R } } ^ { + }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ILC3s (NKp46+RORγt+ ILCs) might originate from $N C R ^ { - }$ ILC3s (Rankin et al., 2013; Vonarbourg et al., 2010). IL-7R signaling is critical for the survival of ILC3s,but it also maintains RORγt expression in mature ${ \\mathsf { N C R } } ^ { + }$ ILC3s (Schmutz et al., 2009; Vonarbourg et al., 2010). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "E proteins belong to the bHLH transcription factor family, which contains a basic DNA-binding regionand a helix-loop-helix (HLH) dimerization domain. They can form homodimers or heterodimers with other HLH proteins and function as transcription activators or repressors.Inhibitor of DNA-binding (ID) proteins are HLH proteins that lack a basic region and can prevent E proteins from binding to DNA.Both E and ID proteins play important roles in lymphoid cell development (Kee，20o9). In particular, ID2 is thought to be required for the development of the ILC precursor given that $\\displaystyle I d { 2 ^ { - / - } }$ mice lack all the currently known ILCs, including groups $_ { 1 - 3 }$ (Boos et al.， 2007； Hoyler et al.，2012). ID2 is continuously and highly expressed in all ILCs, including differentiated ILCs (Hoyler et al.,2012). However, the function of ID2 in these well-differentiated ILCs is still unclear, given that $I d { 2 ^ { - } } ^ { \\prime - }$ mice lack ILCs from the earliest identifiable stage.In this study，we used conditional deletion of Id2 after RORγt expression in the ILC3 lineage to demonstrate that continuous ID2 expression is required for the homeostasisand function of ILC3s.Using this system，we showed that ILC3s areessential for regulating themicrobiotato mediate earlycolonization resistance against intestinal pathogens. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ID2Is Continuously Expressed in Intestinal ILCs ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Totest whether ID2 can function in differentiated ILCs,we first analyzed ID2 expression in different ILC populations with $I d 2 ^ { \\mathsf { G F P / + } }$ mice. As previously reported (Cherrier et al.,2012; Hoyleret al.，2012)，ID2 was expressed in differentiated ILCs, including natural killer (NK) cells, ILC1s, ILC2s,and ILC3s (Figure S1A). ID2 was not homogeneously expressed in the different subsets of ILC3s. ${ \\mathsf { N C R } } ^ { + }$ ILC3s expressed higher concentrations of ID2 than did LTi cells and ${ \\mathsf { N C R } } ^ { - }$ ILC3s (Figure S1B). Because ${ \\mathsf { N C R } } ^ { + }$ ILC3s could be differentiated from $N C R ^ { - }$ ILC3s (Rankin et al., 2013; Vonarbourg et al., 2010), our findings raise the possibility that ID2 might continue to play a role in the development and function of ILC3s after their formation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To study the requirements for ID2 in the homeostasis and function of differentiated ILC3s，we crossed $1 d 2 ^ { \\mathsf { f l / f l } }$ mice with Rorccre transgenic mice to achieve specific deletion of Id2 after RORγt expression in ILC3s $( R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } } )$ . Because RORγt is transiently expressed at high levels at the double-positive stage of T cell development, $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ mice lack ID2 expression not only in RORγt+ ILC3s but also in most $\\alpha \\beta$ T cells (Figure S1C). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ID2IsEssential forEarlyColonizationResistanceand ProtectionagainstC.rodentiumInfection ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Previous studies have shown that ILC3s are essential for host protection against C. rodentium infection (Guo et al., 2014; Qiu etal.,2012).We next investigated the importance of ID2for ILC3 function in this infection model.After receiving high doses of C.rodentium infection, $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ mice rapidly lost body weightand diedaroundday10,whereasno weight loss or death was observed in their littermate control $1 d 2 ^ { \\mathsf { f l / f l } }$ mice (Figures 1A and 1B).Consistent with the increased morbidity and mortality，bacterial titers were $1 0 \\times - 1 0 0 \\times$ higher in the feces of $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ mice than in the feces of $I d { 2 } ^ { \\mathsf { f l / \\mathsf { f } } \\mathsf { I } }$ mice at post-infection day 5 (Figure 1C).Systemic dissemination of C.rodentium in $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ mice,as evidenced by increased bacterial titers in the blood, liver,and spleen,was also observed (Figures 1D and 1E). The $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ mice also exhibited severe diarrhea, inflammation,and colon pathology upon C.rodentium challenge (data not shownand Figure 1F). Collectively, these data demonstrate that continued ID2 expression in RORγt+ cells is required for host defense against C.rodentium infection. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Because disease signs,including diarrhea and loss of body weight,appeared in ID2-deficient mice before post-infection day 5,we hypothesized thatan ID2-dependent mechanism influenced the intestinal environmentto limit earlycolonization even before the innate response was initiated.To test our hypothesis,we challenged both $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ and $1 d 2 ^ { \\mathsf { f l / f l } }$ littermate mice with a low dose of C. rodentium to determine whether $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ mice weremore readilycolonized.Interestingly,therewas significantly more colonization of C.rodentium in the $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ mice in the first few days,even as early as post-infection day 1, than in the $1 d 2 ^ { \\mathsf { f l / f l } }$ mice (Figure 1G). Moreover, C. rodentium could be detected in the whole intestine of Rorc $: ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / \\mathsf { f l } } }$ mice even at post-infection day 1，whereas it was detected only in the cecum of $1 d 2 ^ { \\mathsf { f l / f l } }$ mice (Figure S1D). Similar to mice infected with a high dose, Rorc $^ { \\mathrm { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ mice infected with a low dose of C. rodentium had severe diarrhea,rapidly lost bodyweight,and died around day 10,whereas $1 d 2 ^ { \\mathsf { f l / f l } }$ mice were not affected (Figures 1H and 1l). Together,our data indicate that ID2 is essential in ${ \\mathsf { R O R r t } } ^ { + }$ cells for host defense against a mucosal bacterial pathogen and is required formaintenance of earlycolonization resistance. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Given that it takesafew days foraneffective innate immune response to controlapathogen,the impaired early colonization resistance against C.rodentium suggested thatthe Rorcreldalf/fl mice had a pre-existing defect.Previous studies have shown that either increased inflammation orareduced mucus layer could result in increased colonization of an intestinal pathogen (Bergstrom et al.，2010; Wlodarska et al.， 2011). However, colonic mRNA analysis showed that there was no increased expression of pro-inflammatorycytokines or reduction of mucin n $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ mice(Figures S1E and S1F). Moreover, H&E and PAS (periodic acid-Schiff) staining showed that there were no obvious alterations of histopathology，mucus layers,or goblet cells (Figure S1G).Together， these data suggest that the increased C.rodentium colonization in our ID2-deficient mice wasunlikely to be due to changed colonic inflammation or mucus environment. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The ID2-Dependent Microbiota Controls Colonization ResistanceagainstC. rodentium Infection ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The host microbiota has been recognized as a direct mediator for colonization resistance against pathogens (Buffie and Pamer,2013).To test whether ID2 regulates early C.rodentium colonization through the microbiota,we first treated both $1 d { 2 } ^ { \\mathsf { f l / \\mathsf { f l } } }$ and $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ mice with antibiotics for 1 week and then infected these mice with a low dose of C.rodentium after 1 day of rest.As shown in Figure 2A,fecal C. rodentium titers in control-treated $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ mice were much higher than in $I d { \\boldsymbol { 2 } } ^ { \\mathsf { f l / f l } }$ mice at days 1and3after infection.However,bacterial titers were increased in both the $I d { \\boldsymbol { 2 } } ^ { \\mathsf { f l / f l } }$ and $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ mice after antibiotic treatment during the first few days after infection (Figure 2A). In addition，both $1 d 2 ^ { \\mathsf { f l / f l } }$ and $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ antibiotictreated mice rapidly lost more body weight than did untreated mice (Figure 2B).However, only a little systemic dissemination of C.rodentium was observed in the blood and liver of $I d { \\boldsymbol { 2 } } ^ { \\mathsf { f l / f l } }$ antibiotic-treated mice,despite high pathogen titers in the feces (Figures 2A,S2A,and S2B). Together, these results suggest that the microbiota is critical for early colonization resistance against C.rodentium but that it hasa limited effect on systemic dissemination of the pathogen. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ca7029b16713b80bf8d8ed815f909a51669cc4552b017664014524e719ff2f4.jpg",
+        "img_caption": [
+            "Figure 1.ID2 Is Essential for Mediating Colonization Resistance and Protection against C.rodentium Infection (A-F)7-week-old Rorc $^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / \\mathsf { f l } } }$ (knockout [KO]) mice $( \\mathsf { n } = 5 )$ and their wild-type (WT) $I d { \\boldsymbol { 2 } } ^ { \\mathsf { f l / f l } }$ littermates $( \\mathsf { n } = 5 )$ were orally inoculated with a high dose $( 2 \\times 1 0 ^ { 9 } \\mathsf { C F U } )$ （204号 ofC.rodentium.Body-weightchange(A)andsurvivalrates(B)areshown.FecalandbloodC.rodentiumtitersatpost-infectionday5 $\\mathtt { C }$ and D,respectively) and Crodentiumiosdioateifteoditlii tologicalanalysis of representative colons from WTand KO miceat post-infection day8.Scale bars represent $1 0 0 ~ { \\mu \\mathrm { m } }$ (G-l) 7-week-old KO mice $( \\mathsf { n } = 5 )$ and their WT littermates $( \\mathsf { n } = 5 )$ were orally inoculated with a low dose $( 5 \\times 1 0 ^ { 6 } \\mathsf { C F U }$ of C.rodentium.(G)Fecal C.rodentium titers at the indicated post-infection day are shown.Body-weight change $( \\mathsf { H } )$ and survival rates (l) are shown. Each dot represents one individual mouse (C-Eand G).Error bars represent the SEM. ${ ^ \\star } _ { \\mathsf { p } } < 0 . 0 5$ = $^ { \\star \\star } \\mathsf { p } < 0 . 0 1$ $^ { \\star \\star \\star } \\mathsf { p } < 0 . 0 0 1$ (Student's t test); nd, nondetectable. Data are representative of three (A-Dand G-l) or two (E and F)independent experiments.See also Figure S1. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Our data led us to hypothesize that ID2 controls the microbiota to maintain colonization resistance.To test this hypothesis，we reconstituted gnotobiotic C57BL/6 mice with cecal content from $I d { \\boldsymbol { 2 } } ^ { \\mathsf { f l / f l } }$ or $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ mice by oral inoculation.One day later, the reconstituted mice were challenged with a low dose of C. rodentium.As shown in Figure 2D，germ-free mice that did not receive a microbiota transplantation exhibited very high fecal C.rodentium titers even at day 1,whereas mice reconstituted with the $I d { 2 } ^ { \\mathsf { f l / f l } }$ microbiota showed markedly reduced C.rodentium titers. Importantly，germ-free mice inoculated with Rorccreld2if/fl cecal content showed higher C.rodentium titers than did $1 d 2 ^ { \\mathsf { f l / f l } }$ mice (Figure 2D). These data demonstrate that the ID2-dependent microbiota controls colonization resistance against C. rodentium. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6521f9ac00ab77d885b7dbb764db4176e1a240f55303cbd29406ec9e13aa34b3.jpg",
+        "img_caption": [
+            "igure 2.The ID2-Dependent Microbiota Mediates Colonization Resistance against C.rodentium Infection (A-C)7-week-old Rorc $^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ (KO) mice and their $I d { \\boldsymbol { 2 } } ^ { \\mathsf { f l / f l } }$ (WT) littermates were treated with either antibiotics $( \\mathsf { n } = 5 )$ or a control $( \\mathsf { n } = 3 )$ in drinking water for1 week. One day later,WT and KO mice were orally inoculated with $5 \\times 1 0 ^ { 6 }$ CFU of C.rodentium.Fecal C.rodentium titers at the indicated post-infection day (A),bodyweight change (B),and survival rates (C)are shown.Data are representative of two independent experiments. (D-F)Ger-frF6eD)Fbmice(andFwerolodwihemobotafroetrOieatemiceofcal material. One day later,these mice were orally inoculated with $5 \\times 1 0 ^ { 6 }$ CFU (D) or $\\mathsf { 1 } \\times \\mathsf { 1 0 ^ { 7 } }$ CFU (E and F)of C.rodentium,and fecal C.rodentium titers were examinedtaedinfetidEieodataedtdepedet Eachdotrepresentsoneindividualmouse(A,D,andE).Thedashedlineindicatesthelimitofdetection.ErorbarsrepresenttheSEM. $\\mathsf { ^ { \\star } p } < 0 . 0 5$ $^ { \\star \\star } \\mathsf { p } < 0 . 0 1$ ： $^ { \\star \\star \\star } \\mathsf { p } < 0 . 0 0 1$ ; ns,no significant difference (Student's t test). See also Figure S2. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The microbiota can also indirectly mediate colonization resistance through regulation of host immune response (Buffie and Pamer， 2013). Reconstitution of the microbiota in germfree mice will induce the host immune response,which might result in increased indirect colonization resistance against C.rodentium.We examined whether the different microbiota from $1 d 2 ^ { \\mathsf { f l / f l } }$ and $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ mice induce different host immune responses of germ-free mice.As shown in Figure S2C,reconstitution of $1 d 2 ^ { \\mathsf { f l / f l } }$ and $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ microflora in germ-free mice induced similar amounts of expression of pro-inflammatory cytokines and antimicrobial proteins.Together, these data indicate that early colonization resistance mediated by the ID2-dependent microbiota might not be through the regulation of host immune response. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$L t b r ^ { - / - }$ mice have multiple defects in innate and adaptive immune responses, including reduced IL-22 and antibody production,which are both essential for host protection against C. rodentium infection (Kang et al., 2002; Spahn et al., 2004; Tumanov et al., 2011; Wang et al., 2010). To further determine whether the ID2-dependent microbiota can directly mediate colonization resistance，we used $L t b r ^ { - / - }$ germ-free mice asrecipients.As observed in the C57BL/6 germ-free recipient mice，the $L t b r ^ { - / - }$ germ-free mice repopulated with the $I d { \\boldsymbol { 2 } } ^ { \\mathsf { f l / f l } }$ microbiota showed reduced C. rodentium colonization, whereas the $L t b r ^ { - / - }$ mice repopulated with the Rorccreld2fl/fl microbiota showed more C. rodentium colonization (Figure 2E). Moreover， transplantation of the $I d { 2 } ^ { \\mathsf { f l / \\mathsf { f l } } }$ microbiota improved the survival of $L t b r ^ { - / - }$ mice after C. rodentium challenge, whereas $L t b r ^ { - / - }$ germ-free mice transferred with $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ cecal content showed a mortality rate similar to that of the untreated $L t b r ^ { - / - }$ germ-free mice (Figure 2F). All together, these data indicate that the microbiota mediates colonization resistance，which is dependent on continued expression of ID2 in ${ \\mathsf { R O R } } \\gamma \\mathbf { t } ^ { + }$ cells. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To further understand how the ID2-dependent microbiota regulates pathogen colonization,we examined the microbiome bypyrosequencing with bacterial 16S rRNA genes.Analysis of 16S rRNA genes revealed that although there were no obvious differences in the bacterial diversity and compositions at the phyla level between $I d { \\boldsymbol { 2 } } ^ { \\mathsf { f l / f l } }$ and $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ mice (Figures S2D and S2E),we observed that several operational taxonomic units were over- and underrepresented in $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ mice (Figure S2F).Furthermore，qPCR with primers specific to different bacteria demonstrated that segmented filamentous bacteria (SFBs) were overgrown in $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ mice (Figure S2G); these bacteria have been shown to induce the development of T helper 17 (Th17) cells and be regulated by ILC3s (lvanov et al.，2009; Qiu et al.，2013).All together,our data suggest that ID2 in ${ \\mathsf { R O R } } \\gamma \\mathbf { t } ^ { + }$ cells regulates the intestinal microbiota. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(A) Rorc $^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ (KO) mice and their $1 d 2 ^ { \\mathsf { f l / f l } }$ (WT) littermates were infected with $2 \\times 1 0 ^ { 9 }$ CFUof C.rodentium.The mRNA expression of antimicrobial proteins IL-22,Reglllγ,and Reglllβ in the colon of naive mice or mice on day 5 post-infection was measured by real-time PCR.Data are representative of two independent experiments ( $n = 3 - 5$ per group;mean $\\pm$ SEM). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1c7963b1f256f702c0bdddd396041f5d755101e2d1de909d8d94f68cd02e11c.jpg",
+        "img_caption": [
+            "Figure3. ID2Mediates Colonization ResistanceagainstC.rodentiumthroughIL-22- DependentRegulationof theMicrobiota "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(B and C) WT micewere injected intraperitoneally with either anti-IL-22 antibody (8E11.9, $1 0 0 \\mu \\ g$ per mouse per week, ${ \\mathsf n } = 5 )$ ormouse IgG control （204号 $( \\mathsf { n } = 5 )$ at 3,4,or 5 weeks old.Two weeks later, 7-week-old WT and KO mice were orally infected with a low dose $( 5 \\times 1 0 ^ { 6 }$ CFU) of C.rodentium. Fecal C.rodentium titers at the indicated postinfection day (B) and survival rates (C) are shown. The dashed line indicates the limit of detection. Data are representative of two independent experiments. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(D and E) Germ-free (GF) WT B6 mice (D) or GF $L t b r ^ { - / - }$ mice (E) were colonized with the microbiota from WT mice treated with eitheranti-IL-22 or mouse lgG by gavage of cecal material. One day later, these mice were orally inoculated with a low dose $( 5 \\times 1 0 ^ { 6 } \\mathsf { C F U }$ in D and $1 \\times 1 0 ^ { 7 }$ CFU in E) of C.rodentium,and fecal C.rodentium titerswere examinedatthe indicated post-infectionday.Data arerepresentative of two (D) or three (E) independent experiments. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Each dot represents one individual mouse (B,D, and E).Error bars represent the SEM. $^ { \\star } \\mathsf { p } < 0 . 0 5$ $^ { \\star \\star } \\mathsf { p } < 0 . 0 1$ · $^ { \\star \\star \\star } | \\mathsf { p } < 0 . 0 0 1$ ； ns,no significant difference (Student's t test)；nd,nondetectable.See also Figure S3. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "to mediate early colonization resistance, we treated $1 d 2 ^ { \\mathsf { f l / f l } }$ mice with anti-lL-22 neutralization antibody at weaning and challenged them with C. rodentium when they were 7 weeks old. Similar to theRorc $^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ mice, $1 d 2 ^ { \\mathsf { f l / f l } }$ mice treated with anti-IL-22 showed increased fecal ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ID2Mediates Colonization Resistance against C.rodentium through IL-22-Dependent Regulation of theMicrobiota ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "IL-22,mainly produced by ${ \\mathsf { R O R } } \\gamma \\mathrm { t } ^ { + }$ cells,not only is required for protectionagainst pathogen infection butalso regulates the homeostasis of microflora in the intestine (Qiu et al.,2013;Qiu et al., 2012).We testedwhether ID2mediatescolonization resistance through IL-22-dependent regulation of the microbiota. Id2df/fl and $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ mice were infected with C. rodentium，and the expression of $I I 2 2 \\ m { \\mathsf { R N A } }$ and mRNA encoding two IL-22- dependent antimicrobial proteins (Regllγ and Regllβ)was examined in both naiveand infected colon tissues.As shown in Figure 3A,compared with $1 d 2 ^ { \\mathsf { f l / f l } }$ mice, $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ mice showed significant reductionof Ii22,Reg3g,and Reg3bmRNA in both naive and infected states，indicating that continued ID2 expression in ${ \\mathsf { R O R } } \\gamma \\mathrm { t } ^ { + }$ cells is essential for IL-22 production inthe intestine.To testwhether IL-22 regulates the microbiota ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "C.rodentiumamountsand decreased survival (Figures 3Band 3C)，indicating that blocking IL-22 function early in life destroys colonization resistance in adulthood.To further determine whether early colonization resistance ismediated by the IL-22- dependent microbiota,but not the C.rodentium-induced immune response, we treated $1 d 2 ^ { \\mathsf { f l / f l } }$ mice with anti-IL-22 antibody 7 days before or at the same day of infection.As shown in FiguresS3A-S3C,although onlyearlyanti-IL-22 treatment resulted in increased colonization of C.rodentium in feces,both anti-lL22-treated groups revealed increased C.rodentium colonyforming units (CFU) in blood,spleen,and liver.Our earlier data in this study showed that the antibiotic-treated microbiota dramaticallyreduced early colonizationresistanceagainst C.rodentium,but not systemic dissemination (Figures S3A and S3B).Thus,our data indicate that IL-22 not only mediates colonization resistance against intestinal pathogen through regulation of microbiota but also controls the systemic dissemination (B) RORγt+ ILC3s and T helper cells were purified by flow cytometric sorting from intestinal LPLs of $R o r c ^ { \\mathsf { G F P / + } }$ mice.The mRNA expression of IL-22 was measured by real-time PCR.Dataare representative of two independent experiments (mean $\\pm$ SEMof triplicate samples of real-time PCR). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f600a3269b408ea6b64fd84a4e2ffeec66e4954bcfbed9014a240fad0dd9d29f.jpg",
+        "img_caption": [
+            "Figure 4. IL-22-ProducingILCsMediate ColonizationResistanceagainst C.rodentium (A)IL-22 expression in $\\mathtt { C D 3 } ^ { - }$ and $\\mathtt { C D 3 } ^ { + }$ cells was analyzed by intracellularcytokine staining. Intestinal LPLs were isolated from the colons of naive $1 d 2 ^ { \\mathsf { f l / \\uparrow } }$ （204号 (WT)or Rorc $^ \\mathrm { c r e } _ { I d 2 } \\mathrm { f l / \\uparrow }$ (KO) mice,stimulated with IL-23 $( 2 5 \\mathsf { n g } / \\mathsf { m l } )$ for $4 h r$ ,and gated in Thy1+lymphocytes. Dataare representativeofat leastfive independent experiments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(C and D) $R a g 1 ^ { - / - }$ mice were injected intraperitoneally with either anti-CD90 antibody (30H12, $1 0 0 \\mu \\ g$ per mouse each time) or rat IgG control at days -10 and -5 before infection for depletion of ILCs $( \\mathsf { n } = 5 )$ Ten days later,mice were orally infected with $1 \\times 1 0 ^ { 7 }$ CFU of C.rodentium.Fecal C.rodentium titersat the indicated post-infection day (C)and survival rates (D) areshown.Data are representative of two independentexperiments.Eachdotrepresentsone individual mouse (C). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(E and F) KO mice were injected with innate cells atweaning.Four weeks later,WT and KO mice wereorallyinfected with $5 \\ \\times \\ 1 0 ^ { 6 }$ CFUof C.rodentium.Fecal C.rodentium titers at the indicated post-infection day $\\left( \\mathsf { E } \\right)$ and survival rates (F) are shown.The dashed line indicates the limit of detection.Dataare representative of two independent experiments. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Error bars represent the SEM. $\\mathsf { ^ { \\star } p } < 0 . 0 5$ $^ { \\star \\star } \\mathsf { p } < 0 . 0 1$   \n$^ { \\star \\star \\star } | _ { \\mathsf { p } } < 0 . 0 0 1$ (Student's t test). See also Figure S4. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "C.rodentium (Figures 3D and 3E).Collectively，our results suggest that ID2 mediates colonization resistance against C.rodentium through IL-22-dependent regulation of the microbiota. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "IL-22-Producing ILCs Are NecessaryandSufficientto Mediate Colonization Resistance against C.rodentium ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Although IL-22 can be produced by both ILC3s and T cells，we observed that ILC3s were the main producer of IL-22 in the naive state (Figures 4A and 4B) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "of pathogen，which is less microbiota dependent.Consistent with this, $R o r c ^ { \\mathsf { c r e } } S t a t 3 ^ { \\mathsf { f l / f l } }$ mice，which lack IL-22 production from ${ \\mathsf { R O R } } \\gamma \\mathbf { t } ^ { + }$ cells，also exhibited impaired early colonization resistance (Figure S3D).To further test the requirement for IL-22 to maintain a protective microbiota，we transplanted germ-free C57BL/6 and $L t b r ^ { - / - }$ mice with microflora from the anti-lL-22-treated or control mice and challenged them with C.rodentium.As observed with germ-free mice repopulated with the microbiota from $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ mice，the microbiota from anti-IL-22-treated mice failed to prevent colonization by and that innate IL-22 production was markedly reduced in ID2- deficient mice (Figure 4A).This IL-22 expression profile suggests that ILC3s might be responsible for colonization resistance.To test our hypothesis,we depleted ILCs with anti-CD90 antibody in Rag1 $^ { - / - }$ mice1 week before infection. Compared with control mice， ILC-depleted $R a g 1 ^ { - / - }$ mice showed increased early C.rodentium colonization (Figure 4C) and a decreased lifespan afterinfection (Figure 4D). Furthermore,innate cells from the intestine of $R a g 1 ^ { - / - }$ micewere isolated and transferred into $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ mice at weaning. Consistent with our hypothesis, innate cells restored the expression of IL-22 and colonization resistance against C. rodentium in $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ mice and completely rescued the $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ mice from death (Figures 4E,4F,and S4A).Together, these results demonstrate that IL22-producing ILCs mediate earlycolonization resistanceagainst an intestinal pathogen. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Continued Expression of ID2Is Required forILC3 Developmentand Maintenance ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Because ID2 expression in ILC3s is essential for IL-22-dependent regulation of the microbiota against pathogen colonization, we next determined how ID2 regulates IL-22 production by ILC3s and whether ID2 regulates ILC3 homeostasis or functionality. ID2 is required for the development of all ILC precursors; thus，first we tested whether ID2 is still important for further development of ILC3s. $1 d 2 ^ { \\mathsf { f l / f l } }$ and $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ mice were crossed with Rorc $\\mathsf { G F P / + }$ mice,and ILC3s were examined in the intestinal lamina propria leukocytes (LPLs)． RORγt-expressing ILC3s were dramatically reduced in both the large and small intestines in Rorc ${ \\mathsf { G F P } } { ' } { + } { \\mathsf { } } { \\mathsf { } } { R o r c } ^ { \\mathsf { c r e } } { I d 2 } ^ { { \\mathsf { f l } } / { \\mathsf { f l } } }$ mice,and the remaining ILC3s were mostly $\\mathsf { C D 4 ^ { + } }$ LTi cells and ${ \\mathsf { N C R } } ^ { - }$ ILC3s (Figures 5A-5C, S5A,and S5B).Previous studies have shown that ${ \\mathsf { N C R } } ^ { + }$ ILC3s can develop from $N C R ^ { - }$ ILC3s and that IL-7R signaling is required for this further development,as well as for the survival and proliferation of ILCs (Schmutz et al.，2009; Vonarbourg et al.,2010).We found that ID2-deficient ILC3s had diminished $1 6 - 7 \\mathsf { R } \\mathsf { a }$ expression at both the protein and mRNA levels (Figures 5D and 5E). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To further determine the role of ID2 in ILC3 maintenance,we sorted both wild-type (WT) and $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ ILC3s from ${ \\mathsf { C D } } 4 5 . 1 ^ { + }$ C57BL/6 and $\\mathsf { C D 4 5 . 2 ^ { + } } R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ mice and injected them into $R a g 2 ^ { - / - } I I 2 r g ^ { - / - }$ mice at a 1:1 ratio.The gut LPLs wereisolated 4 weeks later，and flow cytometric analysis revealed that WT ILC3s were 4-fold more abundant than $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ cells (Figure S5C). Moreover，we found that ID2-deficient ILC3s exhibited increased apoptosis and reduced Bcl-2 expression，which isconsidered an important antiapoptotic protein (data not shown and Figure S5D). Given that ID2is required for the development of all ILCs and that early developmental defectsmightalso resultin dramaticreduction ofadult ILC3s (Cherrieretal.,2012),we further isolated the fetal liver cells to examine whether ID2 is required for the development rather than the maintenance of ILC3s.As shown in Figures 5Fand 5G,there was no reduction of fetal LTi cells in the liver of $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ mice. However, similar to adult ILC3s,ID2-deficient fetal ILC3s also exhibited reduced expression of $1 1 - 7 \\mathsf { R } \\mathsf {  { a } }$ (Figures 5H and 5l).Together，our results clearly demonstrate that ID2 expression continues to be required in ILC3s after expression of RORγt for proper expression of IL-7Rα and ILC3 maintenance. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ID2Regulates IL-22 Production by ILC3s through the IL-23R Pathway ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Multiple transcription factors,such as RORγt, AhR,and GATA-3, regulate ILC3 development and function (Qiu et al.,2012; Serafini et al.,2014).To further test whether ID2 also regulates the function of ILC3s，we isolated both $1 d 2 ^ { \\mathsf { f l / f l } }$ and $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ LPLs from the intestine and examined IL-22 production. Interestingly,the residual ID2-deficient ILC3s were unable to produce ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "IL-22 after IL-23 stimulation (Figures 6A and 6B).This was also confirmed by the observation that IL-22 production in LTi cells and ${ \\mathsf { N C R } } ^ { - }$ ILC3s sorted from Rorc $\\therefore \\mathsf { G F P } / + \\mathsf { } { R o r c ^ { \\mathsf { c r e } } } { I d 2 ^ { \\mathsf { f l } / \\mathsf { f l } } }$ mice was markedly lower than that in Rc $r c ^ { \\mathsf { G F P / + } } I d 2 ^ { \\mathsf { f l / f l } }$ ILC3s (Figures 6C and S6A).Together, these data suggest that ID2 also plays an essential role in regulating the function of ILC3s. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Previous studies have shown that IL-23 can interact with IL-23R and activate STAT3. ${ \\mathsf { R O R r t } }$ ,AhR,and STAT3 can bind to l/22 and directly promote IL-22 production (Guo et al., 2014; Qiu et al.,2012).To determine how ID2 regulates ILC3s producing IL-22,we first examined the expression of these transcription factors and cytokine receptor.LTi cells and $N C \\mathsf { R } ^ { - }$ ILC3swere purified from both $R o r c ^ { \\mathsf { G F P / + } }$ and $R o r c ^ { \\mathsf { G F P / + } } R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / \\dagger } }$ mice. Consistent with a previous study (Zhang et al.,2014), ID2-deficient LTi cells showed increased RORγt expression.The expression of AhR was reduced in both ID2-deficient resting LTi cells and $N C R ^ { - }$ ILC3s,but not IL-23-activated LTi cells. Interestingly, the expression of IL-23R and STAT3 was reduced in both ID2-deficient LTi cellsand $N C R ^ { - }$ ILC3s (Figures 6D and S6A). Moreover, ID2-deficient fetal liver LTi cells also showed signifi cant reduction of IL-22 and IL-23R (Figure S6B)， suggesting that early ID2 regulation of IL-22 might be through the IL-23RSTAT3 pathway. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ID proteins are transcription factors that inhibit the function of the E protein transcription factors by preventing them from binding to DNA.Previous studies have shown that ID2 regulates the development of NK and LTi cells through suppression of E2A,also known as TCF3 (Boos et al., 2007).To test whether ID2 also regulates IL-22 production through suppressionof E2A,we infected EL4cells with retrovirus expressing either ID2orE47(one E protein encodedby E2A,also knownas Tcf3)and examined IL-22 production.Because RORγt is the master regulator for IL-22 production, we also infected the EL4 cells with or without RORγt-expressing retrovirus.As shown in Figures 6Eand 6F,compared to the control group (with empty MigR retrovirus)，EL4cells infected with ID2 retrovirus produced more IL-22,whereas the E47 group showed reduced IL-22 production with or without RORγt expression. Moreover，increased expression of ID2also caused increased IL-23R and STAT3 expression in EL4 cells,whereas overexpression of E47 inhibited IL-23R expression.Together,our data indicate that E2A might regulate IL-22 production through suppression of the IL-23R pathway and that ID2 promotes IL-22 production through suppression of E2A activity. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Next we wanted to determine how E2A inhibits IL-22 production.Previous studies have shown that AhR-deficient ILC3s, similar to ID2-deficient ILC3s,show reduced $1 6 - 7 \\mathsf { R } \\mathsf { a }$ and IL-23R expression (Qiu et al.,2012).In addition,AhR is a memberof the bHLH transcription factor family.Although there was a slight reduction of AhR expression in ID2-deficient ILC3s，we also considered the possibility that E2A could interactwith AhR to prevent its transcriptional activityand thus result in a reduction of IL22 in ID2-deficient ILC3s.Indeed, using EL4 cells expressing the double-FLAG-epitope-tagged (DFTC) AhR with or without E47, we detected an interactionbetween AhRand E2Aby coimmunoprecipitation (Figure 6G).Furthermore,a chromatin immunoprecipitation (ChlP) assay revealed that E2A could suppress AhR binding to /22 in EL4 cell lines (Figure 6H).Together, these data suggest that E2A might regulate IL-22 production by directly binding to AhR and preventing its transcription activity at //22. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/6d7f52c5f4e8976ee66edf4ebb95f34318d53a1de7637f37ac369a4866465fcd.jpg",
+        "img_caption": [
+            "'igure 5. Continued Expression of ID2 Is Required for Further Development and Maintenance of ILC3s ",
+            "(A andD)SmallintestialLPLs were isolatedfrom4-weekodRor $\\mathsf { G F P / + } _ { I d 2 } \\mathsf { ^ { n / \\mu } }$ (WT) and Rorc $\\mathsf { G F P / + } _ { R o r c } \\mathsf { c r e } _ { I d 2 } \\mathsf { f l / \\uparrow \\uparrow }$ (KO) mice and gated in live $\\mathsf { C D 9 0 ^ { + } C D 3 ^ { - } }$ ILCs. (A) Diferentpoulatisfsaldmetmbrstidsaerceaofelite expressiotatapriertst markersareas follows: $\\mathsf { N C R ^ { + } }$ ILC3s, $\\mathsf { N k p 4 6 ^ { + } C D 4 ^ { - } R O R \\gamma t ^ { + } }$ ILCs; LTi cells, $\\mathsf { N k p 4 6 ^ { - } C D 4 ^ { + } R O R \\gamma t ^ { + } }$ ILCs; ${ \\mathsf { N C R } } ^ { - }$ ILC3s,Nkp46 CD4 RORγt+ ILCs;NK cells, $\\mathsf { N k p 4 6 ^ { + } R O R \\gamma t ^ { - } }$ ILCs;and ILC2s,RORγt Nkp46- ILCs. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(B and C) The percentage of different ILC3s in the $\\mathsf { C D 9 0 ^ { + } C D 3 ^ { - } }$ ILCs and the absolute numbers of ${ \\mathsf { R O R } } \\gamma \\mathrm { t } ^ { + }$ ILC3s in the small intestine of $I d { \\boldsymbol { 2 } } ^ { \\mathsf { f l / f l } }$ (WT)and $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ (KO) mice are shown.Each dot represents oneindividual mouse.Dataare poled from twoindependent experiments (mean $\\pm$ SEM). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "E) Smallintestinal LPLs were isolated from 4-week-old $R o r c ^ { \\mathsf { G F P / + } } I d 2 ^ { \\mathsf { f l / f l } }$ (WT)and F $\\mathfrak { z o r c } ^ { \\mathtt { G F P / + } } R o r c ^ { \\mathtt { c r e } } I d 2 ^ { \\mathfrak { f l / \\uparrow } }$ (KO) mice. LTi cells and ${ \\mathsf { N C R } } ^ { - }$ ILC3s were purified b! lowcytometritinexpressifseasudyaltiCatareeprestatieftepedtxprtsn $\\pm S E M$ əf triplicate samples of real-time PCR). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(FadGai isolated from $R o r c ^ { \\mathsf { G F P / G F P } }$ $I d { \\boldsymbol { 2 } } ^ { \\mathsf { f l / f l } }$ and Rorc $^ \\mathrm { c r e } _ { I d 2 } \\mathrm { f } 1 / \\uparrow 1$ fetuses and gated in $\\mathsf { L i n ^ { - } C D } 4 5 ^ { + } \\mathsf { c } .$ KitIL-RαICs.Numbersaacenttoouiedareasindicateteper centage ofcels in each gate.Dataare representativeoffour independent experiments.(G)The percentage of LTicels $( \\alpha 4 \\beta 7 ^ { + } \\mathsf { R O R } \\gamma \\mathsf { t } ^ { + } )$ in the Lin-CD45+c-Kit+IL$7 \\mathsf { R } \\mathsf { \\alpha } ^ { + }$ cellsfrom (F)isshown.Eachdotrepresentsone individualmouse.Dataarepooled fromfourindependent experiments(mean $\\pm$ SEM). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(legend continued on next page) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Host sequential responses from innate and adaptive immune cells are essential for late-stage colonization resistance and clearance of pathogens.Here,ourstudydemonstrates that the microbiotais importantforearlycolonizationresistanceahead of innate and adaptive responses.Fecal microbiota transplantation has been successfully used in some patients with Clostridium difficile infection (Austin et al.,2014). However,because the stability of the gut microbiota is dependent on many host and environmental factors (Lozupone etal.,2012),it remains unclear howa stable healthymicrobial community should be introduced toprevent recurrent infection.Our results further demonstrate thatbaseline IL-22 production by ILC3s can regulate gut microbial homeostasis to promote colonization resistance against pathogens.Therefore,innate immunitycontributes tocolonization resistance not only by rapidly responding after invasion but also by maintaining the proper microbiota to limit colonization before invasion.Our study suggests that a combination of microbiota transplantation and immune molecule treatment might restore a stable microbial community to prevent intestinal pathogen colonization. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Commensals have been shown to utilize several different mechanisms to directlymediate colonization resistanceagainst pathogens，including competing for niches and nutrients, altering host environmental conditions (for example,pH)，producing bacteriocins，and affecting pathogen virulence by ${ \\sf O } _ { 2 }$ consumption and production of specific metabolites such as the short-chain fattyacid (Kamada etal.,2013).Previousstudies haveshown that E.coli can directlycompetewith C.rodentium for nutritional resources and help the host to clear the pathogen (Kamada et al.,2012).Repopulation of SFBs partially protects Jackson B6 mice from C. rodentium infection (lvanov et al., 2009).However,we detected very few E.coli in the mice housed in our specific-pathogen-free facility，and the SFB level was greatly increased in conditional ID2-deficient mice,consistent with other IL-22 deficient mice (Qiu et al.， 2013; Upadhyay et al.,2012). Thus, IL-22-dependent colonization resistance is not mediated through E.coli and SFB.It remains to be determined which commensals are regulated by innate IL-22 for colonization resistance and how commensals suppress C.rodentium colonization,which might lead to discovery of novel therapeutic probioticsand prebiotics. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Notch, ID2,and RORγt sequentially orchestrate the development of ILC3s (Cherrier et al., 2012).However, the function of the highly expressed ID2 in differentiated ILCs is unclear.Our dataclearlydemonstrate that the maintenance of ID2 expression isrequired for further development and function of ILC3s. Consistent with the role of ID2 on $1 L - 7 R a$ regulation in $\\mathsf { C D 4 ^ { + } }$ thymocytes (Jones-Mason et al., 2012),we found that ID2 controls $1 1 - 7 \\mathsf { R } a$ expression in ILC3s,but how ID2 regulates IL- $7 \\mathsf { R } \\mathsf { \\mathfrak { x } }$ remains to be determined. Given that IL-7R signaling is also essential for the homeostasis of the other ILCs (Hoyler et al.,2012), our results suggest that ID2 might globally and constantly regulate the ILC lineage from progenitor to effector ILCs. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "After IL-23 stimulation,STAT3,AhR,and RORγt can be recruited to //22 to promote IL-22 production.It has been shown that AhR requires interaction with RORγt to bind to //22.Without RORyt, there is onlya little recruitment of AhR to //22 (Guo et al., 2014; Qiu et al.,2012). Consistently, our data confirm that AhR weakly binds to I/22 without overexpressing RORγt. However, E2Aphysically interacted with AhRand completely blocked the binding of AhR to //22. Our studies suggest that two bHLH transcription factors,E2Aand AhR,might formaheterodimer that either fails to bind DNA or has a DNA-binding specificity different from thatof the AhR-RORγtdimer.Therefore,an essential role of ID2 mightbe to liberate AhR from E2A and allow AhR to bind to othertranscriptional activators,such as RORγt.Whether E2A also interrupts the interaction between AhRand RORγt remains to be examined.We also showed that ID2 is required for expression of $1 1 - 7 \\mathsf { R } \\mathsf {  { a } }$ andIL-23R.Giventhat AhR-deficient ILC3salso exhibit impaired expression of these two cytokine receptors (Qiu et al.，2012)，E2A might also suppress their expression through its interaction with AhR; however,an complete understandingof the molecular mechanism bywhich E2A affects gene expression in ILC3s requires further investigation. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Taken together，our studies demonstrate several important findings: (1) ID2 is essential not only for ILC lineage specification but also for the maintenance and further development of ${ \\mathsf { R O R } } \\gamma \\mathbf { t } ^ { + }$ ILC3s;(2) ID2-E2A interaction regulates the function of IL-22 production in ILC3s through the AhR and IL-23R pathway;and (3) IL-22-producing ILC3s are essential for the maintenance of the proper microbiota to mediate early colonization resistance against pathogens.Proper addition of immune molecule treatment to fecal microbiota transplantation might help the host to reestablish amore stable and healthiermicrobial community in patients with recurrent gut infection. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "EXPERIMENTALPROCEDURES ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Mice ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "C57BL/6and $R a g 1 ^ { - / - }$ micewere purchased from_Harland Teklad. $R a g 2 ^ { - / - } I I 2 r g ^ { - / - }$ ,RorcGFP/+ (Eberl et al.,2004),and $I d 2 ^ { \\mathsf { G F P / + } }$ (Rawlins et al., 2009)mice were purchased from The Jackson Laboratory.Crossing $I d { \\boldsymbol { 2 } } ^ { \\mathsf { f l / f l } }$ mice (Niola et al., 2012) with Rorccre transgenic mice (Eberl and Littman, 2004) generated $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ mice. All mice were on a C57BL/6 background. Germ-free $L t b r ^ { - / - }$ mice were rederived in Taconic.All germ-free mice were maintained in the gnotobiotic facility at The University of Chicago.Animal care and use were in accordance with institutional and NiH guidelines,and all studies were approved by the animal care and use committee of The University of Chicago. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "InfectionwithC.rodentiumandTreatment ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Micewere orally gavaged with C.rodentium strain DBS100 (ATCC 51459; American Type Culture Collection),and body weight,survival, CFU counts,tissue histology,and PAS staining were assessed as previously described (Tumanov et al.,2011;Wang et al., 2010).Where indicated,mice were treated with antibiotics ${ \\sf ( 1 ~ 9 / 1 }$ ampicillin, $\\textsf { 1 g / l }$ neomycin, $1 { \\mathfrak { g } } / 1$ metronidazole,and 0.5 ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/dd93a2f6a656bd57a4d1c4836c8758786f1366c13ed0a439a068bd4e2f18b5f8.jpg",
+        "img_caption": [
+            "Figure 6. ID2 Regulates IL-22 Production by ILC3s through the IL-23R Pathway ",
+            "(A) Intestinal LPLswereisolatedfromnaive $1 d 2 ^ { \\mathsf { f l / f l } }$ (WTor $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ (KO) mice and stimulated with IL-23 $( 2 5 \\mathrm { \\ n g / m } )$ for 4 hr.IL-22 expression in （204号 $\\mathsf { C D 3 ^ { - } C D 9 0 ^ { h i } C D 4 5 ^ { l o } C D 4 ^ { + } \\mathsf { L T i } }$ cells or $\\mathsf { C D 3 ^ { - } C D 9 0 ^ { h i } C D 4 5 ^ { l o } C D 4 ^ { - } }$ ILC3s was analyzed by intracelular cytokine staining followed by flow cytometry. Data are representative of three independent experiments. (B)Prcentacedi restimulated with IL-23,and gated in $\\mathsf { C D 3 ^ { - } C D 9 0 ^ { h i } C D 4 5 ^ { l o } C D 4 ^ { + } L T i }$ cells. Each dot represents one individual mouse. Data were pooled from two independent experiments (mean $\\pm$ SEM). "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(legend continued on next page) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$\\mathfrak { g } / 1$ vancomycin) in drinking water for 1 week and then infected with C.rodentiumafter1day's rest.Where indicated,mice were injected intraperitoneally with either anti-IL-22 antibody (8E11.9) or mouse immunoglobulin G1 $( \\mathsf { I g G 1 } )$ as an isotype control ( $1 0 0 { \\mu \\ g }$ per mouse) by 3,4,or 5weeks of age or on the indicated day.Then the mice were infected with C.rodentiumat7weeks of age.For depletion of ILCs, $R a g 1 ^ { - / - }$ mice were injected intraperitoneally with anti-CD90 antibody (30H12, $1 0 0 ~ \\mu \\mathfrak { g }$ per mouse) or rat IgG 10 days before C.rodentium infection.Where indicated,innate cells were isolated from the intestine of $R a g 1 ^ { - / - }$ mice and transferred by intravenous injection $( 1 ~ \\times ~ 1 0 ^ { 6 }$ innate cells or $2 \\times 1 0 ^ { 5 }$ purified $\\mathsf { C D 4 5 ^ { \\mathsf { l o } } C D 9 0 ^ { \\mathsf { h i } } }$ ILC3s per mouse) into 3- to 4- week-old Rord $^ \\mathrm { c r e } _ { I d 2 } \\mathrm { f } 1 / \\mathrm { f } 1$ mice. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Germ-Free Experiments ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "C57BL/6 or $L t b r ^ { - / - }$ germ-free mice were transferred to a specific-pathogenfree environment and immediately gavaged with fresh cecal contents from $I d { \\boldsymbol { 2 } } ^ { \\mathsf { f l / f l } }$ and $R o r c ^ { \\mathsf { c r e } } I d 2 ^ { \\mathsf { f l / f l } }$ littermate donors or mice treated with anti-IL-22 antibody or an isotype control. One day later,these microflora-reconstituted mice were infected with C.rodentium (Ahern etal.,2014). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "IsolationofIntestinalLPLsandFetalLiverCells ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The intestinal LPLs were isolated by the Lamina Propria Dissociation Kit (Miltenyl Biotec) according to the manufacturer's recommendations.Fetal liver cells were dissociated by mechanical shearing in PBS containing $0 . 5 \\%$ bovine serum and then filtered through a $7 0 \\mathrm { - } \\mu \\ M$ mesh. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "FlowCytometry,Antibodies,andELiSA ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Antibodies against a lineage marker, CD3,CD4,CD45,CD90,Nkp46,CD117, CD127,α4β7,RORγt,and streptavidin-APC were purchased from BioLegend oreBioscience.Anti-IL-22 antibody was a gift from Genentech.For nuclear staining，cells were fixed and permeabilized with the Transcription Factor Staining Buffer Set (eBioscience).For cytokine production,cells were stimulated ex vivo by IL-23 $( 2 5 \\ \\mathrm { n g / m l }$ ：R&DSystems) for $4 h r$ IC Fixation Buffer and Permeabilization Buffer (eBioscience) were used for intracellular cytokine staining.Flow cytometry was performed on LSR-Fortessa instruments (BD Biosciences) and analyzed with FlowJo software (Tree Star). ILC3swere sorted from the intestinal LPLsand fetal livercells ona FACSAria Ill instrument (BD Biosciences). IL-22 in supernatants was measured by ELISA according to the manufacturer's (R&D Systems) recommendations. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "QuantitativeReal-TimeRT-PCR ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "RNA isolation and real-time PCR were performed as previously described (Guo et al.,2014) with different primer sets (Table S1). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Retroviral Transduction ofCell Lines ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The retroviruses expressing MigR,ID2,E47,and RORγt were made as previously described (Qiu etal.,2012).EL4 cellswere infected with $2 \\mathsf { m l }$ of virus supernatant (MigR,ID2,or E47),and $4 8 ~ \\mathsf { h r }$ later, the $\\mathsf { G F P ^ { + } }$ infected cells were sorted on the Avalon Cell Sorter (Propel Labs).The sorted EL4 cellswere then infectedwitha retrovirus expressing eitherMigR or $\\mathsf { R O R r t }$ .Cell-culture supernatant and cell RNA were analyzed by ELISA and real-time PCR separately. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Co-immunoprecipitationand ChlP ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "EL4 cells were infected with DFTC AhR retroviral vector and selected in the presence of $7 \\mu \\ g / \\mathrm { m l }$ puromycin.EL4 cells stably expressing AhR were then infected with a retrovirus expressing either MigR or E47.The GFP+infected cells were sorted,and the whole-cell lysate supernatant was immunoprecipitated with EZview Red Anti-FLAG Afinity Gel (Sigma-Aldrich). Immunoblotting was performed with anti-E2A rabbit antibody (Thermo Scientific) and antiGAPDH antibody (Sigma-Aldrich).ChlP assays with EL4 cells were performed as previously described (Qiu et al., 2012). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "StatisticalMethods ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis was performed by a two-tailed Student's t test in the GraphPad Prism 5.0 program.Data from such experiments are presented as mean values $\\pm$ SEM; $\\mathsf { p } < 0 . 0 5$ was considered significant.For survival curves, statistics were done with the log-rank (Mantel-Cox) test. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "SUPPLEMENTALINFORMATION ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Supplemental Information includes six figures,one table,and Supplemental Experimental Procedures and can be found with this article online at http:// dx.doi.org/10.1016/j.immuni.2015.03.012. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "We are grateful to D.Littman (New York University) for Rorccre mice,L. Zhou (Northwestern University) for the AhR plasmid,C.R.Nagler (The University of Chicago) for germ-free mice,A.T.Stefka (The University of Chicago) for the analysis of pyrosequencing with bacterial 16S rRNA genes,and W.Ouyang (Genentech) for anti-lL-22 antibody.The work was supported by NiH grants AI106352 (to B.L.K.) and DK080736, DK095962,and DK100427 (to Y.X.F.). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Received: July 22,2014   \nRevised:December 21,2014   \nAccepted:February 25,2015   \nPublished: April 21,2015 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Ahern,P.P.,Faith,J.J.,and Gordon,J.I. (2014).Mining the human gut microbiota for effector strains that shape the immune system. Immunity 40, 815-823.   \nAustin,M.,Mellow,M.,and Tierney,W.M.(2014).Fecal microbiota transplantation in the treatment of Clostridium difficile infections.Am.J.Med.127, 479-483.   \nBehnsen,J.,Jellbauer,S.,Wong,C.P.,Edwards,R.A.,George,M.D.,Ouyang, W.,and Raffatellu,M. (2014).The cytokine IL-22 promotes pathogen colonization by suppressing related commensal bacteria.Immunity 40,262-273. Bergstrom,K.S.,Kissoon-Singh,V.,Gibson,D..,Ma,C.,Montero,M.,Sham, H.P.,Ryz,N., Huang,T.,Velcich,A.,Finlay, B.B.,et al. (201O). Muc2 protects against lethal infectious colitis by disassociating pathogenic and commensal bacteria from the colonic mucosa.PLoS Pathog.6,e1000902.   \nBoos,M.D.,Yokota,Y.,Eberl,G.,and Kee,B.L. (2007).Mature natural killer cell and lymphoid tissue-inducing cell development requires ld2-mediated suppression of E protein activity.J.Exp.Med.204,1119-1130.   \nBry,L.,and Brenner,M.B.(2oo4). Critical role of T cell-dependent serum anti",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "body,but not the gut-associated lymphoid tissue,for surviving acute mucosal ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "infection with Citrobacter rodentium,an attaching and effacing pathogen. J.Immunol.172,433-441.   \nBry,L.,Brigl, M.,and Brenner,M.B. (20o6).CD4+-T-celleffector functions and costimulatory requirements essential for surviving mucosal infection with Citrobacter rodentium. Infect.Immun.74,673-681.   \nBuffie,C.G.,and Pamer,E.G.(2013). Microbiota-mediated colonization resistance against intestinal pathogens. Nat. Rev.Immunol.13,790-801.   \nCash,H.L.,Whitham,C.V.,Behrendt, C.L.,and Hooper,L.V.(2006).Symbiotic bacteria direct expression of an intestinal bactericidal lectin.Science 313, 1126-1130.   \nChapman,S.J.,and Hil,A.V. (2012). Human genetic susceptibility to infectious disease. Nat. Rev. Genet.13,175-188.   \nCherrier,M., Sawa,S.,and Eberl, G. (2012). Notch,Id2,and RORγt sequentially orchestrate the fetal development of lymphoid tissue inducer cells. J.Exp.Med.209,729-740.   \nCrim, S.M.,lwamoto,M., Huang,J.Y., Griffin,P.M., Gilliss,D., Cronquist, A.B., Cartter，M.，Tobin-D'Angelo，M.，Blythe,D.，Smith，K.,et al.； Centers for Disease Control and Prevention (CDC)(2014). Incidence and trends of infectionwith pathogens transmitted commonly through food一Foodborne Diseases Active Surveillance Network，10 U.S.sites,2006-2013.MMWR Morb. Mortal.Wkly.Rep.63,328-332.   \nEberl,G.,andLitman,D.R.(203).Theroleofthenuclearhormonereceptor RORgammat in the development of lymph nodes and Peyer's patches. Immunol. Rev.195,81-90.   \nEberl,G.,and Littman, D.R. (2o04).Thymic origin ofintestinal alphabeta Tcells revealed by fate mapping of RORgammat+ cels.Science 305,248-251. Eberl,G.,Marmon, S., Sunshine,M.J., Rennert,P.D.,Choi, Y.,and Littman, D.R.(2004).An essential function for the nuclear receptor RORgamma(t) in the generation of fetal lymphoid tissue inducer cells.Nat. Immunol.5,64-73. Ghosh,S.,Dai,C., Brown,K.,Rajendiran,E., Makarenko,S.,Baker,J., Ma,C., Halder, S.,Montero,M., lonescu,V.A.,et al.(2011).Colonic microbiota alters host susceptibility to infectious colitis by modulating inflammation,redox status,and ion transporter gene expression. Am.J. Physiol. Gastrointest. Liver Physiol. 301, G39-G49.   \nGuo,X., Qiu,J.,Tu,T., Yang,X., Deng,L.,Anders,R.A., Zhou, L.,and Fu, Y.X. (2014).Induction of innate lymphoid cell-derived interleukin-22 by the transcription factor STAT3 mediates protection against intestinal infection. Immunity 40,25-39.   \nHoyler,T.,Klose, C.S., Souabni,A.,Turqueti-Neves,A.,Pfeifer,D.,Rawlins, E.L.,Voehringer, D., Busslinger,M.,and Diefenbach,A. (2012).The transcription factor GATA-3 controls cell fate and maintenance of type 2 innate lymphoid cells. Immunity 37,634-648.   \nlvanov,I.l.,Atarashi, K.,Manel,N.,Brodie,E.L.,Shima,T., Karaoz,U.,Wei,D., Goldfarb,K.C., Santee,C.A.,Lynch,S.V., et al. (20o9). Induction of intestinal Th17 cells by segmented filamentous bacteria. Cell 139,485-498.   \nJones-Mason,M.E.,Zhao,X.，Kappes,D.,Lasorella,A., lavarone,A.,and Zhuang,Y. (2012).E protein transcription factors are required for the development of $\\mathsf { C D 4 ( + ) }$ lineage T cells.Immunity 36,348-361.   \nKamada,N.，Kim,Y.G.,Sham,H.P.,Vallance,B.A.,Puente,J.L.,Martens, E.C.,and Nunez,G.(2012).Regulated virulence controls the ability of a pathogen to compete with the gut microbiota. Science 336,1325-1329.   \nKamada,N.,Seo,S.U., Chen, G.Y.,and Nunez, G. (2013). Role of the gut microbiota in immunity and inflammatory disease.Nat.Rev. Immunol.13, 321-335.   \nKang,H.S.,Chin,R.K.,Wang,Y.,Yu,P.,Wang,J.,Newell, K.A.,and Fu, Y.X. (2002).Signaling via LTbetaR on the lamina propria stromal cels of the gut is required for IgA production. Nat.Immunol.3,576-582.   \nKee,B.L. (2009).Eand ID proteins branch out. Nat.Rev.Immunol.9,175-184. Kiss,E.A.,Vonarbourg,C.,Kopfmann,S.,Hobeika,E.,Finke,D.,Esser,C.,and Diefenbach,A.(2011)．Natural aryl hydrocarbon receptor ligands control organogenesis of intestinal lymphoid follicles.Science 334,1561-1565. Lee,J.S., Cell,M., McDonald, K.G., Garlanda,C.,Kennedy, G.D., Nukaya, M., Mantovani,A.,Kopan,R., Bradfield, C.A., Newberry,R.D.,and Colonna, M. (2012).AHR drives the development of gut ILC22 cells and postnatal lymphoid tissues via pathways dependent on and independent of Notch. Nat. Immunol.13,144-151.   \nLozupone, C.A., Stombaugh,J.I., Gordon,J.I., Jansson,J.K.,and Knight,R. (2012). Diversity,stability and resilience of the human gut microbiota.Nature 489,220-230.   \nNiola,F.,Zhao,X., Singh,D., Castano,A., Sullivan,R.,Lauria, M., Nam, H.S., Zhuang,Y., Benezra,R.,Di Bernardo,D.,et al. (2012).Id proteins synchronize stemness and anchorage to the niche of neural stem cels. Nat. Cell Biol.14, 477-487.   \nOchoa,T.J., Barletta,F.,Contreras,C.,and Mercado,E. (2008).New insights into the epidemiology of enteropathogenic Escherichia coli infection.Trans.R. Soc.Trop. Med.Hyg.102,852-856.   \nPickert,G.,Neufert, C.,Leppkes,M.,Zheng,Y.,Witkopf,N.,Warntjen,M., Lehr,H.A., Hirth,S., Weigmann,B., Wirtz,S.,et al. (20o9). STAT3 links IL-22 signaling in intestinal epithelial cells to mucosal wound healing. J. Exp. Med. 206,1465-1472.   \nQiu,J.,Heller,J.J., Guo,X.,Chen,Z.M.,Fish,K.,Fu,Y.X.,and Zhou,L. (2012). The aryl hydrocarbon receptor regulates gut immunity through modulation of innate lymphoid cells.Immunity 36,92-104.   \nQiu,J.,Guo,X.,Chen,Z.M., He,L., Sonnenberg,G.F.,Artis,D.,Fu, Y.X.,and Zhou,L.(2013). Group 3 innate lymphoid cells inhibit T-cell-mediated intestinal inflammation through aryl hydrocarbon receptor signaling and regulation of microflora.Immunity 39,386-399.   \nRankin,L.C., Groom,J.R.,Chopin,M.,Herold,M.J.,Walker,J.A., Mielke,L.A., McKenzie,A.N.,Carotta,S., Nutt, S.L.,and Belz,G.T.(2013).The transcription factor T-bet is essential for the development of ${ \\mathsf { N K p } } 4 6 +$ innate lymphocytes via the Notch pathway. Nat.Immunol.14,389-395.   \nRawlins,E.L., Clark, C.P.,Xue,Y.,and Hogan,B.L.(2009).The $\\mathsf { I d } 2 +$ distal tip lung epithelium contains individual multipotent embryonic progenitor cells. Development 136,3741-3745.   \nSchmutz,S.,Bosco,N., Chappaz, S.,Boyman,O.,Acha-Orbea, H., Ceredig, R.,Rolink, A.G.,and Finke,D.(2009). Cutting edge: IL-7 regulates the peripheral pool of adult ROR gamma+ lymphoid tissue inducer cells.J.Immunol.183, 2217-2221.   \nSerafini,N., Klein Wolterink,R.G., Satoh-Takayama,N.,Xu,W., Vosshenrich, C.A.,Hendriks,R.W.,and Di Santo, J.P.(2014). Gata3 drives development of RORyt+ group 3 innate lymphoid cels.J. Exp.Med.211,199-208.   \nSpahn，T.W.，Maaser，C.，Eckmann，L.，Heidemann，J.，Lugering，A., Newbery,R., Domschke,W., Herbst, H.,and Kucharzik,T.(2004).The lymphotoxin-beta receptor is critical for control of murine Citrobacter rodentium-induced colitis.Gastroenterology 127,1463-1473.   \nSpits,H.,Artis,D.,Colonna,M., Diefenbach,A.,Di Santo,J.P.,Eberl,G., Koyasu,S.，Locksley，R.M.，McKenzie，A.N.，Mebius,R.E.，et al. (2013). Innate lymphoid cells一a proposal for uniform nomenclature.Nat.Rev. Immunol.13,145-149.   \nTumanov,A.V., Koroleva,E.P., Guo,X., Wang,Y., Kruglov,A., Nedospasov, S.,and Fu,Y.X. (2011). Lymphotoxin controls the IL-22 protection pathway in gut nnate lymphoid cells during mucosal pathogen challenge. Cell Host Microbe 10,44-53.   \nUpadhyay,V.,Poroyko,V., Kim,T.J.,Devkota,S.,Fu,S.,Liu,D.,Tumanov, A.V., Koroleva, E.P., Deng,L.,Nagler,C.,et al. (2012).Lymphotoxin regulates commensal responses to enable diet-induced obesity. Nat. Immunol.13, 947-953.   \nVallance,B.A.,Deng,W.,Jacobson,K.,andFinlay,B.B.(203).Hostsucep tibility to the attaching and effacing bacterial pathogen Citrobacter rodentium. Infect. Immun.71,3443-3453.   \nvan der Waaij，D.，Berghuis-de Vries,J.M.，and Lekkerkerk Lekkerkerk-v. (1971). Colonization resistance of the digestive tract in conventional and antibiotic-treated mice.J. Hyg.(Lond.) 69,405-411.   \nVonarbourg, C.,Mortha,A.,Bui,V.L., Hernandez,P.P., Kiss, E.A., Hoyler,T., Flach,M.，Bengsch,B.，Thimme,R.， Holscher,C.,et al. (2010).Regulated expression of nuclear receptor RORγt confers distinct functional fates to NK cell receptor-expressing RORγt(+） innate lymphocytes. Immunity 33, 736-751 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Wang,Y., Koroleva, E.P., Kruglov, A.A., Kuprash,D.V.,Nedospasov, S.A.,Fu, Y.X.,and Tumanov,A.V. (2010). Lymphotoxin beta receptor signaling in intestinal epithelial cells orchestrates innate immune responses against mucosal bacterial infection.Immunity 32,403-413. Wlodarska,M.,Willing,B., Keeney,K.M.,Menendez,A.,Bergstrom,K.S.,Gill, N.,Russell, S.L., Vallance,B.A.,and Finlay,B.B. (2011).Antibiotic treatment alters the colonic mucus layer and predisposes the host to exacerbated Citrobacter rodentium-induced colitis.Infect.Immun.79,1536-1545. Wlodarska，M.，Thaiss,C.A.,Nowarski，R.,Henao-Mejia,J.,Zhang，J.P., Brown,E.M.,Frankel,G.,Levy,M.,Katz,M.N.,Philbrick,W.M.,et al.(2014). NLRP6 inflammasome orchestrates the colonic host-microbial interface by regulating goblet cell mucus secretion.Cell 156,1045-1059. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Zelante,T., lannitti,R.G., Cunha, C., De Luca,A.,Giovannini, G.,Pieraccini, G.,Zecchi,R.,D'Angelo, C., Massi-Benedetti, C., Fallarino,F.,et al. (2013). Tryptophancatabolitesfrommicrobiotaengagearylhydrocarbon receptor and balance mucosal reactivity via interleukin-22.Immunity 39, 372-385.   \nZhang,F., Fuss,l.J., Yang,Z.,and Strober,W.(2014).Transcription of ${ \\mathsf { R O R r t } }$ in developing Th17 cells is regulated by E-proteins.Mucosal Immunol.7, 521-532.   \nZheng,Y.,Valdez,P.A.,Danilenko,D.M.,Hu,Y., Sa,S.M.,Gong,Q.,Abbas, A.R.,Modrusan,Z.,Ghilardi,N.,de Sauvage,F.J.,and Ouyang,W. (2008). Interleukin-22 mediates early host defense against attaching and effacing bacterial pathogens.Nat.Med.14,282-289. ",
+        "page_idx": 13
+    }
+]

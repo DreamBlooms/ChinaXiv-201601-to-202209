@@ -1,0 +1,617 @@
+[
+    {
+        "type": "text",
+        "text": "Metabolic engineering of terpene biosynthesis in plants using a trichome-specific transcription factor MsYABBY5 from spearmint (Mentha spicata) ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Qian Wang1, Vaishnavi Amarr Reddy1,2, Deepa Panicker1†,Hui-Zhu Mao1,Nadimuthu Kumar1, Chakravarthy Rajan',Prasanna Nori Venkatesh1,Nam-Hai Chua³ and Rajani Sarojam1\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1TemasekLifeSciencesLaboratory，1Research Link,National Universityof Singapore,SingaporeCity,Singapore   \n²Departmentof Biological Sciences,National University of Singapore,Singapore City，Singapore   \n3Laboratoryof Plant Molecular Biology，TheRockefeller University，NewYork,NY,USA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received 9 October2015; revised 26 November 2015; accepted5 December2015. $\\star$ Correspondence (Tel $+ 6 5$ 68727556; fax $+ 6 5 6 8 7 2 7 5 1 7 ;$ email rajanis@tll.org.sg) +Present address: Singapore Centre on Environmental Life Sciences Engineering, Nanyang Technological University, Singapore 637551,Singapore. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: spearmint,secondary metabolism,terpene,sweet basil, transcription factor,YABBY. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In many aromatic plants including spearmint (Mentha spicata),the sites of secondary metabolite production are tiny specialized structures called peltate glandular trichomes (PGT).Having high commercial values,these secondary metabolites are exploited largelyas flavours,fragrances and pharmaceuticals.But, knowledge about transcription factors (TFs) that regulate secondary metabolism in PGT remains elusive.Understanding the role of TFs in secondary metabolism pathway willaid in metabolic engineering for increased yield of secondary metabolites and also the development of new production techniques for valuable metabolites. Here,we isolated and functionally characterized a novel MsYABBY5 gene that is preferentially expressed in PGT of spearmint.We generated transgenic plants in which MsYABBY5 was either overexpressed or silenced using RNA interference (RNAi).Analysis of the transgenic lines showed that the reduced expression of MsYABBY5 led to increased levels of terpenes and that overexpression decreased terpene levels.Additionally,ectopic expression of MsYABBY5 in Ocimum basilicumand Nicotiana sylvestris decreased secondary metabolite production in them,suggesting that the encoded transcription factor is probablya repressor of secondary metabolism. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The genus Mentha,a member of Lamiaceae family，includes species that are widely used as medicinal and aromatic herbs.The essential oils produced by these plants find wide usage in food, flavour, cosmetic and pharmaceutical industries (Champagne and Boutry，2013;Sinha et al.，2013). Plants produce these volatile essential oilsas secondary metaboliteswhich have important roles inplant defence,plant-to-plant communication and pollination (Gershenzon et al.，2ooo)． In mint， these essential oilsare produced in specialized nonphotosynthetic glandular trichomes known as peltate glandular trichomes (PGT) which are found on theaerial surface of the plants.The PGT are dedicated to the production and storage of large amounts of volatile secretions (Champagne and Boutry,2013;Croteau et al.,20oo; Lange and Turner，2013).In the case of spearmint (Mentha spicata),the essential oil isdominated mainly by two monoterpenes,limonene and carvone.Monoterpenesare the C10 type of terpenoidsand are generally colourless,lipophilicand volatile.Theyare responsible forthe characteristicaromas and flavours of essential oils,floral scentsand resin of aromaticplants (Loza-Tavera,1999).Given their economic importance， strategiestometabolically engineer monoterpenes to increase yield isof considerable interest. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Varietal improvement in cultivated spearmint or peppermint varieties has been challenging because these varietiesare sterile hybrids making classical breeding approach unfeasible.Hence, metabolic engineering provides an alternative method to improve essential oil yield and composition.Plants synthesize terpenes eitherby the mevalonate (MVA) pathway in the cytosol or by the 2-C-methyl-D-erythritol 4-phosphate (MEP) pathway in plastids. Both pathways provide the precursors for terpene biosynthesis (Vranova et al.,2013) and have been well investigated.The MEP pathway in plastids is mainly responsible for producing monoterpenes and diterpenes，whereas the MVA pathway generates sesquiterpenes and triterpenes (Dubey et al.,2oo3).Studies have shown that under certain conditions an exchange of precursor metabolites can occur between the cytosolic MVA and plastid MEP pathways.Analysis of terpenoid production in many different plants has shown that under specific ecological conditions synthesis of monoterpenes,diterpenes,sesquiterpenes and polyterpenes can occur from precursors produced by both pathways.Metabolic intermediates like isopentenyl diphosphate, geranyl diphosphate or geranylgeranyl diphosphate canbe transported across plastidial membranes (Hemmerlin et al., 2012;Vranova et al.,2013). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Apart from the precursor pathways,the downstream monoterpene biosynthetic pathways in both spearmint and peppermint are also well characterized (Lange et al.，2011). One of the strategies to increase yield in peppermint was to manipulate genes that code for enzymes involved in the monoterpene pathway,for example genes for limonene synthaseand limonene hydroxylase (Diemer et al.，2001；Mahmoud et al.，2004),but overexpression of these genes did not enhance oil yields significantly. In their pioneering work，Mahmoud and Croteau (2001) and Lange et al. (2o11) evaluated the efficacy of overexpressing genes encoding enzymes involved in precursor pathways onoil yields in peppermint (Mentha piperita).Most encouraging results were obtained in plants where two genes were manipulated simultaneously,the gene encoding 1-deoxy-d-xylulose-5- phosphate reductoisomerase was overexpressed and the gene encoding menthofuran synthase was down-regulated.Oil yields in these transgenic plants increased up to $6 1 \\%$ over wild-type controlswhilereducingtheundesirableside-products $( + )$ menthofuran and its intermediate $( + ) \\cdot$ -pulegone (Langeetal., 2011)．Recently，increase in monoterpene formationwas achieved by introducing a noncanonical substrate neryl diphosphate (NPP),but the additional NPP had to be eliminated to avoid adverse impact on plant growth (Gutensohn et al.,2014). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It is increasingly evident that transcription factors (TFs) which are regulators of structural genes can activate or repress multiple genes in a metabolic pathway (Grotewold,2oo8; lwase et al., 2009).Manipulation of such TFs can be more effective for engineering pathways rather than changing the expression of genes for individual enzymes involved,because plant metabolic pathways are complex comprising of multiple genes encoding various enzymes (Broun and Somerville,2oo1).The effectiveness of using TFs to modulate metabolic pathways has been validated ina few studies (Butelli et al.，2008;Luo et al.，2008;Schwinn et al.，2oo6).Although the enzymatic pathway leading to the synthesis of spearmint monoterpenes is well defined (Croteau et al.,1991; Lange et al.,2011;Munoz-Bertomeu et al.,2008), the developmental regulation of this secondary metabolite pathway still remains elusive.Few TFs have been reported from other plants that are involved in regulating terpene biosynthesis. TheyareArtemisiaannua,AaWRKY1,AaERF1,AaERF2,AaORA1 and AabZIP1 (Lu et al.,2013;Ma et al.,2009;Yu et al.,2012; Zhang et al.， 2015)， cotton GaWRKY1 (Xu et al.， 2004), TaWRKY1 from Taxus chinensis (Wang etal.，2001)，rubber EREBP1 and HbWRKY1 (Chen et al.，2012； Zhou etal.，2012) and OsTGAP1 in rice (Miyamoto et al.,2014). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Toinvestigate the genes involved in PGT formation and secondary metabolism in spearmint,we had performed comparative RNA-Seq analysis of different tissues of spearmint,namely PGT,leaf devoid of PGT (leaf-PGT) and leaf in a previous study (Jin et al.,2O14).This led to the identification of many TF transcripts that were significantly more abundant in PGT when compared to leaf-PGT and a YABBY transcript was among the top candidates. We cloned the full-length cDNA of this transcript and sequence analysis showed that it issimilar to YABBY5 subfamily of proteins. YABBY genes constitute a group of plant-specific TFs that are known to play important roles in various aspects of vegetative and floral development in plants (Bonaccorso et al.，2012; Bowman，2ooo).In this study，we report the engineering of spearmint plants for higher yields by suppressing this glandular trichome-enriched TFMsYABBY5.The resultingMsYABBY5 RNAi lines showed an increase in monoterpene production which ranged from $20 \\%$ to $7 7 \\%$ ．This is the first report ofa transcription factor regulating monoterpene production in mint plantsand assigns a new role for YABBY genes in plant secondary metabolism．Ectopic expression of MsYABBY5 in sweet basil (Ocimum basilicum)，an aromatic herb similar tomint,andin Nicotiana sy/vestrisresultedin decreased secondary metabolite production in them.Essential oil of sweet basil has compounds derived from both terpene and phenylpropanoid pathways, whereas N.sy/vestris produces mainly diterpenes.As MsYABBY5 could affect metabolites derived from different metabolic pathways，it suggests that it regulates an upstream step in plant secondary metabolism.We further found that MsYABBY5 probably regulates terpene synthesis through a regulatory network that involves MsWRKY75. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MsYABBY5 shows high expression in spearmint PGl ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mint leaves have PGT on both surfaces (Figure 1A).From the RNA-Seq data of leaves,we identified four YABBY-like transcripts that showed high expression levels.Of these，only MsYABBY5 Was preferentially expressed in PGT，whereas the others were more enriched in leaf tissues.The differential expression pattern of these transcripts as observed by RNA Seq was further validated by quantitative RT-PCR (qRT-PCR) (Figure 1B).Full-ength open reading frames (ORFs) of all these four YABBYs including MsYABBY5 were amplified from leaf cDNA using RACE.All the four cloned ORFs contained a conserved $C _ { 2 } C _ { 2 }$ zinc finger domain located at N-terminus and a helix-loop-helix motif(YABBY domain)at the C terminus which is similar to the HMG box motif.These two domainsare highly conserved amongall YABBY proteins (Figure 2A).As we were interested in TFs involved in regulating secondary metabolism in mint，we focussedon MsYABBY5.In situ hybridization also confirmed the PGT-specific expression of MsYABBY5,as no signal was observed in the leaf tissue (Figure 1C).The ORF of MsYABBY5 encoded a polypeptide of190 amino acids.BLAST analysis showed that MsYABBY5 has highest sequence similarity to Antirhinum PROLONGATA YABBY-like transcription factor.We generated a phylogenetic tree based on amino acids sequences of YABBY proteins from different plants. The resultsrevealed that MsYABBY5and MsYABBY6 belonged to the YABBY5 subfamily，whereas the other two，MsYABBY2 and MsYABBY4，are members of the YABBY2 subfamily (Figure 2B). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Subcellular localization of MsYABBY5 protein ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Toexamine the subcellular localization patterns of YABBY proteins,cDNAs of all the four MsYABBYs were fused in-frame to cDNA encoding the yellow-fluorescent protein (YFP) and the fusion genes were transiently expressed in tobacco by agroinfiltration.All the MsYABBYs except MsYABBY5 showed nuclear localization. Interestingly，MsYABBY5 showed both nuclear and cytoplasmic localization (Figure 3A).Online software prediction programs indicated that MsYABBY5 contained a potential transmembrane domain (http://dgpred.cbr.su.se/index.php?p=fulscan) at the amino terminal and participated in the secretory pathway (http://www.cbs.dtu.dk/services/TargetP-1.1/output.php).To investigate this,Golgimarkers were used for colocalization experiment which showed that MsYABBY5 localized to Golgi (Figure 3B).To further assess this localization pattern，tobacco leaves were treated with Brefeldin A (BFA).BFA treatment in tobacco results in the complete disappearance of Golgi apparatus and disrupts the secretory system (Robinson and Ritzenthaler,2006). After treatment with $5 0 ~ \\mu \\mathrm { g / m L }$ BFAfor $3 h$ ，MsYABBY5 Was found to exhibit nuclear localization only，while both nuclear and cytosolic distribution was still observed in the control plants (treated with $1 : 1 0 0 0$ dilution of DMSO in $\\mathsf { d d H } _ { 2 } \\mathsf { O } )$ (Figure 3C). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/bd09061b9bfc84d5956b4415a35d3102240b65ee58039126f3c44660ee43d3b0.jpg",
+        "img_caption": [
+            "Figure1 Validation of MsYABBY genes expression pattern in spearmint. (A) Spearmint leaf showing peltate glandular trichome (PGT) on upper leaf surface as visualized under scanning electron microscope.(B) qRT-PCR analysis of MsYABBY genes in different tissues.PGT,peltate glandular trichome; leaf-PGT, leaves where PGT were brushed away.The housekeeping gene elongation factor1 (ef1) was used as control. (C) In situ hybridization:antisense (a) and sense (b) probedetection of MsYABBY5. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To directly observe the distribution pattern of MsYABBY5 protein， weperformedimmunogoldlabellingofnative MsYABBY5 in PGT of spearmint.A 14-amino acid peptide that ispresumably located on the surface of the predicted threedimensional structure of MsYABBY5 was used as an antigen to raise specific antibody.Western blot analysis showed that the antibody exclusively bound to MsYABBY5 but not to MsYABBY2, MsYABBY4 or MsYABBY6 (Figure S1A,B).MsYABBY5 proteins conjugated with gold particles were observed to accumulate inside the nucleus and also present in the cytoplasm.As the cell organelles were not clearly distinguishable in the TEM sections, the localization to cell organelles could not be verified by immunostaining (Figure S1C). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Analysisof the promoter region of MsYABBY5 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A 1116-bp genomic DNA fragment upstream of the putative start codon of MsYABBY5 was cloned by genome walking.Bioinformatics analysis of this region revealed the presence of many cisacting regulatory elements apart from the common TATA and CAATbox(http://bioinformatics.psb.ugent.be/webtools/plantcare/html/) (Figure 4A).Four light-responsive motifs，including two Box4，one TCT and one Sp1 motifs，were found in the promoter sequence.Regulation of terpene biosynthesis by light is known in many plants (Cordoba et al.，2oo9).With respect to hormones,two cis-acting elements,CGTCA-motif and TGACGmotif,involved in the MeJA-responsiveness were found and one for gibberellin cis elements，TATC box，was found within the sequence (Zhou et al.,2012;Zhu et al.,2014). Further, tissuespecific expression pattern of the cloned promoter was analysed. The 1116-bp promoter fragment was fused with a $\\beta$ -glucuronidase (GUS) reporter gene and transformed into Nicotiana benthamiana plants.The transgenic plants showed trichomespecific expression pattern in leaves and stems of tobacco plants (Figure 4B,C).No staining was observed in flowers or roots. Hence,this promoter is potentially a glandular trichome-specific promoter. Additionally， this promoter was used to drive MsYABBY5 cDNA fused to a cyan-fluorescent protein reporter gene in basil and tobacco．The fluorescence was observed exclusively in PGT of basil plants and head cells of the glandular trichomes of tobacco,but subcellular localization was difficult to decipher (Figure 5). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Silencing of MsYABBY5 Increases monoterpene production in spearmint ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To examine the function of MsYABBY5 in spearmint PGT,an RNAi construct targeting a specific region of MsYABBY5 was generated and transformed into wild-type spearmint using Agrobacterium tumefaciens-mediated T-DNA transfer. Many transgenic lines weregenerated，of which four independent transgenic lines analysed by Southern blotting for transgene integration were selected for further characterization (Figure S2).All these RNAi plants showed a reduction in MsYABBY5 transcripts (Figure 6A). No significant changes were observed in the expression of other leaf-specificYABBY genes(MsYABBY2， MsYABBY4and MsYABBY6),suggesting that the RNAi construct was specific to MsYABBY5 and did not target other YABBY transcripts (Figure S3).The RNAi transgenic plants appeared phenotypically similar to WT plants.Scanning electron microscopy analysis revealed no phenotypical changes in either the number or the structure of PGT. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Gaschromatography-mass spectrometry (GC-MS) analysis was performed on these transgenic plants to evaluate the quality and quantity of the volatiles produced.Young WT spearmint leaves contain an abundance of both limonene and carvone monoterpenes.Limonene is the first committed step towards carvone production.Limonene is converted to carvone by a twostep reaction.In our greenhouse conditions,we observed that in WT spearmint, the productions of limonene and carvone were about $1 . 4 7 \\pm 0 . 1 1$ and $2 . 1 0 \\pm 0 . 2 5 ~ { \\mu \\mathrm { g / m g } }$ fresh leaf,respectively.Upon GC-MS analysis,all the four transgenic lines showed a significant increase $( 2 0 \\% - 7 7 \\% )$ in total monoterpene production (limonene and carvone) (Figure 6B,C).The RNAi lines were tested for the expression levels of enzymes involved in carvone production (limonene synthase，limonene 6-hydroxylaseand carveol dehydrogenase) by qRT-PCR;however,no major changes were observed.Transcripts for all enzymes of the MEP precursor ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "C2C2zinc finger ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "MsYABBY6 DAS---EOIRYIPCSFCSIVLAVSVPCSS VLAVSVPCSSLLDVVTVRCGHC VRCGHCSNLWTVNMAASAFPLLQQQ--QQLQPPSSCQATNCSTT75   \nMsYABBY2 MSMELTAEPVCYVNCNYCNTILAVNVPYGSMFTLVTVRCGHCSNLLSVNMGALLLOSVHLODFOK-QOCLGMEGGTIRDN 78   \nMsYABBY4 SVDMTLERVCYVQCNFCTT LAVNVPRSNMLNMVTVRCGHCANLLSVDMGG-LLHSEYLQDFHOLEKQQSVADAAIODN79   \nMsYABBY5 MDMA---EOLCYIPCSYCNIILAVSVPCSSLFDVVTVRCGHCANLWTVNMAA-AFPSLHASSFQDLHHH---HHQGLSYA73   \nMsYABBY6 PTEYKVDLGSSSKWNYKIQ---PSIQKKPEPRIVNRPPEKRQRVPSAYNQFI KEEIQRIKA KANNP SHREAFSTAAKNWA 152   \nMsYABBY2 GSSSKCNRYASLQLDTEOPKMPPI- RPPEKRQRVPSAYNRFIKEEIQRIKASNP SHREAFSTAAKNWA 147   \nMsYABBY4 GSSSTCNRFTPLQ---SOPKMPPT PSSEKRQRVPSAYNRFIKEEIQRIKAST THRQAFSAAAKNWA 145   \nMsYABBY5 PSDYRVDLGSSSKWNYRMPMQPPSFINKPDQRIINRPPEKRQRVPSAYNQFIKEEIQRIKANNPDI SHREAFSTAAKNWA 153   \nMsYABBY6 HFPHI HFGLMLESNTQPN-LNEGPEKHQFRRATVRNK HMG domain 188   \nMsYABBY2 HFPHIHFGLNVDSNKQA-KLDH-PVAGEAAAQKSLGF 182   \nMsYABBY4 HLPRIHFGLNKTS 158   \nMsYABBY5 HFPHIHFGLMLESKNQDNKLEEDSEKHQMRRAAVLNK 190   \n(B) XP003542627Glycinemax XP007155017Phaseolusvulgaris XP006450896 Citrusclementina -XP007013479Theobroma cacao XP012078813Jatrophacurcas XP002285328Vitisvinifera NP001281031Malusdomestica XP008242786Prunusmume YAB5 LXP 007202630 Prunus persica XP009762053 Nicotianasylvestris CDP10425Coffeacanephora NP850080Arabidopsis thaliana MsYABBY6Menthaspicata MsYABBY5 Mentha spicata XP011078402Sesamumindicum AAS10178 Antirrhinum majus XP010247851Nelumbo XP011088989Sesamumindicum AAS10179Antirrhinummajus MsYABBY2 Mentha spicata MsYABBY4Menthaspicata AHZ90132Incarvilleaarguta YAB2 NP001077490Arabidopsisthaliana XP002515880 Ricinuscommunis AFY26892Morellarubra XP010651636Vitis vinifera XP007015607Theobromacacao XP006487832 Citrus sinensis NP566037Arabidopsisthaliana FIL NP567154Arabidopsisthaliana YAB3 NP564194Arabidopsis thaliana|INO NP177078Arabidopsis thaliana|CRC 0.05 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "pathways including geranyl diphosphate synthase small and big subunits were also investigated，but no significant changes in their expression levels were found.These results suggest that increase in monoterpene production is probably not due to the transcriptional activation of biosynthetic genes.MsYABBY5 might be acting upstream to regulate flux into the terpene pathway. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Overexpression of MsYABBY5 results in decrease in monoterpene production ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To gain further insight into the role of MsYABBY5 in secondary metabolism,we overexpressed this gene in spearmint under the control of a CaMV 35S promoter.Four independent lines confirmed by southern hybridization were selected for further characterization.The results of qRT-PCR showed high MsYABBY5 expression levels in all the transgenic plants (Figure 6D).GC-MS analysisof young leaves showeda reduction in total monoterpene production,which ranged from $23 \\%$ to $52 \\%$ (Figure 6E,F). The observed phenotype in RNAi and overexpression transgenic lines suggests that MsYABBY5 might bea repressor of secondary metabolism in spearmint. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Possible downstream target of MsYABBY5 to regulate secondary metabolism ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Tobetter understand MsYABBY5's biological functions and signalling pathways,it is essential to know its downstream target genes. There is not much known about the molecular mechanism of regulation by YABBYs and their direct target genes.As genes encoding enzymes in the biosynthetic pathways leading to monoterpene production were not significantly changed，we decided to investigate the expression of genes for transporters. Transporters play a key role in plant cellular metabolism (Fischer, 2011;Flugge et al.,2011).From our previous RNA-Seq data,we had identified several transcripts in PGT which were involved in transport of carbon and ATP (Jin et al.,2014).One such transcript ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8cea097922e962756b369afdd5c1b49eb2375d30ac8b4e643229a0196d23b75d.jpg",
+        "img_caption": [
+            "Figure3Subcellular localization of MsYABBYs in Nicotiana benthamiana.(A) MsYABBY5 showed both nuclear and cytoplasmic expression,while other MsYABBYs were found in nucleus only. (a) MsYABBY5 was localized to both nucleus and Cytoplasm.(b) MsYABBY6.(c) MsYABBY2.(d) MsYABBY4.(B) MsYABBY5 protein colocalization with Golgi marker. (C) BFA treatment leads to nuclear localization of MsYABBY5 protein in N.benthamiana.(a) Mock group treated with DMSO.(b) Test group treated with $5 0 ~ \\mu \\mathrm { g / m L }$ BFA for $3 h$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "MsNTT similar to the plastidic ATP/ADP transporter-like proteins showed differential expression in overexpression and RNAi plants. All the RNAi lines showed increased MsNTT transcript levels compared with WT plants or $3 5 S . . . G F P$ control plantsand reduced expression was observed in the overexpression plants (Figure 7A, B).Plastidic ATP/ADP transporter facilitates the movement of ATP across the plastid inner membrane and can determine the rate of metabolic activity in plastids (Flügge et al.,2011; Neuhaus et al., 1997).MsNTT was seen localized to the plastid membrane ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(A)   \n-1116acttaacggttctttcaggaccgttaaataggatgagataaaattaaaaaaatgaaag (B)   \n-1056 tacgaggatctattaaaaaaaaattgtacaaggatctgatgaaataaaaaataatagtac   \n-996 agggacctaaagatgtgttttacctaaattttggtgtgagaaatatggattattgatctg TGACG-motif   \n-936agttaggattacggcctcatttatttaagcatggttacaagcagtgacggatccaaaatt   \n-876 tgaaatttgagggtgcgaaaaataattacataatactacatccgtctcatttaagtagtc   \n-816ttgtattccgtttctgtccgtctcaactaatagacctgtttccttaaatgacaaagaata CAAT-box Box4   \n-756 cttggctacaattaactctctctcctcagaattaattatggccacataatctccactctt A-box   \n-696 ttgattcttgtatctacaggaaccgtccctatttaaatgagatggaggtagtatataata TCT-motif   \n-636atattaaaagtagtatcatcttacaaaaacgctaacgaaaatagtaaaattacaaagata CGTCA-motif   \n-576gttaatttattttttgttgagtttttttttttttttaaagtgattggcaacatcgtcatt Sknl-motif GCN4-motif TATC-box C   \n-516agaaactcatagaaatatgttgatgattgtgtcatgatcaaaaatatatcccacctcttc Sknl-motif GAG-motif CAAT-box   \n-456cgcggcgtaaatttataaacggtgaaagagagtggtcaaaaaataatttctgtcaaataa   \n-396ttgccacatttaaaccccacctctccacatgtactgttttcttcttattctaatgcatcc Box4   \n-336aaaacttccttccttccttcttcaacctcataaatttactgtccttgtacattaattto -276ccctactcttttttttctttcttcaaggagggggtctctccaa CAAT-box   \n-216 attaaaagttgtgttttttcattttcagccctccaaattctctatatagatggggcagct CAAT-box TATA-box   \n-156 gcgctgttctgatatgtataactcatactcaaatcaaccacctataatattctagagaga TATA-box CAAT-box 100um -96 gagagactatagccctaattaagcttttttctagttcttcttttcaatatcttcttctti -36ttcttcctctttttcgaattccttgagagaaaaaaaATGGATATGGCTG MDMA ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "Figure4Mproealysexpresip.actiatotsit5U1egofd C)Trichom-specificGUexpressonpateobseredinNcotianabenthamianaavesndstemsoflantstrasforedwithpMsBGUS. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1b4aa1fd16ccdee06413e5bcdbda3e6d971f52b456119aaca6a4a37a386eed8.jpg",
+        "img_caption": [
+            "Figure 5 Localization of MsYABBY5 under its native promoter in sweet basil (A) and tobacco (B). pMsYABBY5::MsYABBY5-CFP showed exclusive expression in PGT of plants. ",
+            "(Figure 7C).Enhanced energy import into the plastids can be one of the reasons the knock-down plants showed a higher metabolic activity. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In a recent study, ChIP-Seq and RNA-Seq methods were used to identify YABBY-regulated genes during various stages of soya bean seedling development.The major candidate genes regulated by YABBY were found to be fatty acid desaturase, APETALA2 (AP2)and WRKY transcription factor (Shamimuzzaman and Vodkin,2013).Recent research shows the emergence of WRKY TFs as key regulators of terpene production (Patra et al., 2013).From our RNA-Seq data,we identified a WRKY transcript MsWRKY75,which was enriched in PGTs (Figure 8A).The level of this transcript showed reduction in MsYABBY5 RNAi lines,but no significantincreasewasobservedinoverexpressionlines (Figure 8B).To check whether MsYABBY5 can bind to the promoter regions of MsNTT and MsWRKY75，we performed EMSA using the purified recombinant His tagged MsYABBY5 protein (Figure 8C).About \\~1 kb promoter regions of both the genes were cloned and they were divided into four overlapping fragmentsand screened by EMSA.No bindingwas observed with MsNTT promoter，but a protein-DNA complex with reduced mobility was observed when recombinant MsYABB5 was incubated with MsWRKY75 probe (Figure 8D). Interestingly,only the fragment of $- 9 0 9$ to -555 bp region of MsWRKY75 promoter was found to bind with MsYABBY5.DNA binding specificity was further confirmed by competition experiments using 10-100-fold excess unlabelled probe which led to the disappearance of DNA/ protein complex.To further determine whether MsYABBY5 protein can regulate the MsWRKY75 promoter in plants, transient expression assays in N.benthamiana were performed.Leaves were coinfilterated with reporterMsWRKY75 promoter:GUS and effector35S:YFP or 35S::MsYABBY5.Promoter activityof MsWRKY75:GUS was significantly enhanced in 35S:MsYABBY5 expressing leaves when compared to 35S::YFP (Figure 8E).This suggests that MsYABBY5 activates MsWRKY75 which probably represses terpene production in spearmint. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/27802b11b937e947a588d6e34627908d019c1ca781e42363598a125d709abd24.jpg",
+        "img_caption": [
+            "Figure6rascriptveofsBndooteepructioinsBanderexpreioplants.（AMtrasitlin RNAiplants.B)oductiipants.oductiiipts.Drasitlieexts. Limoenprouctieeits.ucieeeintisesdslatie the second node $( 2 - 3 \\ c m )$ were harvested and used for analysis.Results of terpene production are presented as mean $\\pm \\mathsf { S D }$ $^ { \\star } P < 0 . 0 5$ 1 $^ { \\star \\star } P < 0 . 0 1$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/268a3dc97aac12fa8bd504a9da1304e1c3a9b6971d30f900df2d3b67261e3e2f.jpg",
+        "img_caption": [
+            "Figure 7MsNTT expression and localization. Transcript levels of MsNTT in MsYABBY5 RNAi (A) and overexpression plants (B) Leaves from the second node $( 2 - 3 \\ c m )$ were harvested and used for ${ \\mathsf { q P C R } }$ analysis. Gene expression was normalized against the house keeping gene ef1. $^ { \\star } P < 0 . 0 5 ;$ $^ { \\star \\star } P < 0 . 0 1$ .(C)MsNTT was localized tothe chloroplast membrane in Nicotiana benthamiana. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Ectopic expression of MsYABBY5 affects secondary metabolism in tobacco and sweet basil ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To understand the functions of MsYABBY5 in other plants,the gene was ectopically expressed in tobacco and sweet basil.High transcript levels of MsYABBY5 were detected in transgenic tobacco and sweet basil plants (Figure S4).Nicotiana sy/vestris glandular trichomes mainly produce diterpenes which are generally derived from the same MEP pathway as the monoterpenes. Ectopic expression of MsYABBY5 was found to reduce cembranoids(CBT-diol） production in N.sy/vestris by $2 9 . 5 \\% - 4 7 . 1 \\%$ (Figure 9A).Sweet basil essential oil produced in PGT consists of bothterpenes and phenylpropanoids.To explore whether MsYABBY5 has an effect on secondary metabolites originating fromdifferent metabolic pathways in PGT，we ectopically expressed MsYABBY5 in sweet basil.Three independent sweet basil transgenic lines confirmed by southern hybridization were selected for further characterization.The results of qRT-PCR showed high expression levels of MsYABBY5 in all the transgenic plants (data not shown).GC-MS analysis on T-2 plants showed that the total production of both monoterpene (eucalyptol，β- ocimene and linalool） and sesquiterpene ( $\\textsf { \\textsf { Q } }$ -bergamotene，γ- muurolene and copaene) decreased (Figure 9B,C).Besides terpene production,phenylpropanoid production was also affected. Eugenol,which is the dominant compound,with a production of $1 . 9 3 \\pm 0 . 5 8 ~ \\mu \\mathrm { g / m g }$ fresh leaf，showed a significant reduction （号 $( P < 0 . 0 5 )$ in transgenic plants (Figure 9D).This suggests that transcriptional regulators can govern fluxes in multiple metabolic pathways.Additionally，the sweet basil transgenic lines also showed curled leaf and delayed flowering (about 2-3 weeks delay)when compared to WT plants sown at the same time (Figure S5). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Glandular trichomes are found on the aerial surface of approximately $30 \\%$ of vascular plants.As they can synthesize and store alarge amount of secondary metabolites, theyare aptly termed as'tiny chemical factories' of plants.But very few studies have focussed on TFs that regulate glandular trichome-specific metabolicpathways (Wang，2014)，which will greatly facilitate metabolic engineering efforts to increase yield or develop plant platforms to produce high value compounds.Studies in understanding the transcriptional control of secondary metabolite production show the expression of both activators and repressors is necessary to fine-tune the flux,timingand the level of structural gene expression ina pathway (Albert et al.,2o14; Cavallini et al., 2015;Patra et al.,2013). In this study,we isolated a YABBY gene that is preferentially expressed in spearmint PGT and appears to beanegative regulator of secondary metabolism.This isa novel function for the plant-specific YABBY family of TFs.In Arabidopsis，YABBY gene family promotes several aspects of leaf,shoot and flower development (Eshed et al.，1999;Goldshmidt et al., 2008;Golz et al.，2004; Stahle et al.，2009)，but how they mediate these effectsat the molecular level largely remains unknown.Single mutants of yabby5 in Arabidopsis showed no morphological defects,but significantly enhanced the phenotype of yab1yab3 doublemutant (Sarojam et al.，201O). In rice，the functions of YABBY genes are divergent from their Arabidopsis homologs.Rice YAB1 isrequired for gibberellin-mediated repressionof GA3ox2 gene which is involved in the synthesis of gibberellin (Dai et al.,2007). ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/558f1b9a6c4643643d5a2e8ea705e00948558f206b947e025450aee02533a83e.jpg",
+        "img_caption": [
+            "Figure8TansactivatioofsWyB.（AExpressoteof5infentisusofidseant.ct levelsofMsWR5inBipts.CurfatiofrombnantHisaedBexpressdihrol.(D)f MsYABBY5 binding ability to MsWRKY75 promoter. Upper panel shows the fragment $- 9 0 9$ to $- 5 5 5$ of MsWRKY75 promoter region,(E) transactivation of MsWRKY75 by MsYABBY5 in Nicotiana Benthamiana.Resultsare presented as mean $\\pm \\mathsf { S D }$ $\\star \\star$ $P < 0 . 0 1$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b15e8de9ea79d54f5a1704ffa191f4468b0751666e9c859a4e8f002312c6997.jpg",
+        "img_caption": [
+            "Figure 9 Ectopic expression of MsYABBY5 decreased terpene production in Nicotiana sy/vestris and sweet basil. (A) CBT-diol production in wild-type and transgenic N. sylvestris overexpressed with MsYABBY5.Volatiles production of total monoterpenes (B), sesquiterpenes (C)and eugenol (D) in wild-type and transgenic basil overexpressed with MsYABBY5.Leaves from the second node (2- $4 ( \\mathrm { r m } )$ were harvestedandused for GC-MS analysis. Results of terpenes and phenylpropanoid production are presented as mean $\\pm \\mathsf { S D }$ $^ { \\star } P < 0 . 0 5$ ： $^ { \\star \\star } P < 0 . 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Studies have revealed that YABBYs are bifunctional TFs acting aseither repressors or activators (Bonaccorso et al.,2012; Stahle et al.，2oo9),but their direct downstream target genes are not well known.The increase in monoterpene production observed in MsYABBY5 RNAi lines was not due to an increase in transcripts level of the structural genes involved in the pathway.Additionally, no significant changes were observed in transcript level of genes encoding enzymes in the precursor MEP pathway.The difference between metabolite and transcript levels can be attributed to eitherpost-transcriptional modification，protein stabilityor enhanced flux into the metabolic pathway (Xie et al.，2oo8).In peppermint,it was shown that most of the biosynthetic enzymes leading to monoterpene production including limonene synthase were regulatedat the level of gene expression (McConkey et al., 2000).Many primary metabolic pathways like glycolysis,the TCA cycle， pentose phosphate pathway and shikimate pathway provides carbon，ATP and precursors compounds to diverse secondary metabolic pathways.Transcription factors can affect the synthesis of a particular secondary metabolite by regulating metabolic enzymes in these primary pathways (Aharoni and Galili, 2011).Both mint and basil PGT are nonphotosynthetic organs and need to import ATP and carbon to sustain their high metabolic activities,which too can be possibly controlled by TFs. The fact that MsYABBY5 expression was able to affect metabolite production in tobacco and sweet basil plants suggests that this gene might be probably functioning upstream regulating flux into metabolic pathways.The MEP pathway and shikimate pathway leading to mono/diterpene and phenylpropanoid precursor production,respectively,are both localized in plastids making direct interactions between these pathways possible.Production of anthocyanin pigment $( P A P \\mathbb { 1 } )$ ，aMYB transcription factor from Arabidopsis,is an activator of the phenylpropanoid pathway (Li et al.，2010). Recently it was shown that ectopic expression of PAP1 in rose plants,led to an increase in floral volatile compounds originating from both phenylpropanoid and terpenoid pathways. Transcriptional activation of only few biosynthetic genes was observed，whereas the rest of the increase was attributed to enhanced flux in both pathways (Ben Zvi et al.，2012). Interactions between phenylpropanoid and terpenoid pathways have also been shown in tomato mutants (Enfissi et al.,201O),as well as in lpomoea flowers (Majetic et al.,201O),but the mechanism still remainsto beelucidated. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Ina recent study,ChiP-Seq and RNA-Seq methods were used to identify YABBY-regulated genes during various stages of soya bean seedling development. About 96 potential genes were found to be either up-regulated or down-regulated by YABBY. One of the major candidate genes regulated by YABBYwas found to be WRKY transcription factor (Shamimuzzaman and Vodkin, 2013).WRKY TFs play important roles in regulation of plant stress response and secondary metabolism both as activatorsand repressors (Schluttenhofer and Yuan,2015). Research has shown that WRKYs can activate structural genes involved in monoterpene (Spyropoulou et al.,2014),sesquiterpene (Ma et al.,2009) and diterpene (Qiu et al.，2oo8)，as well as phenylpropanoid production (Wang et al.,2oo7).On the other hand, they can act asnegative regulators too.In rice,OsWRKY76 repressed terpene and phenylpropanoid synthesis but increased cold stress tolerance (Yokotani etal.,2013).In rubber,HbWRKY1 negatively regulates a gene involved in natural rubber synthesis (Zhou et al.,2012). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In our study，we found that MsYABBY5 negatively regulates the process of terpene biosynthesis and activates MsWRKY75 in spearmint. MsWRKY75 may be a negative transcriptional regulatorof genesinvolved interpenesynthesis.MsYABBY5expression Overlaps with MsWRKY75 in PGTs. Our RNA seq Was performed on PGTs isolated from young leaves at a stage where terpene production is very active.The high expression of both of these TFs at this stage does indicate an important role for them.In MsYABBY5 overexpression lines， no significant increasein MsWRKY75 was observed;this can be due to a threshold of minimalexpressionrequiredforMsWRKY75activation. MsWRKY75 probably is one of the many downstream targets regulated by MsYABBY5 to control secondary metabolism. Transcriptome analysis of MsYABBY5 RNAi lines can provide us with more candidate genes that are potentially regulated by MsYABBY5.Our data reveal a regulatory network involving YABBY5 and WRKY that controls terpene productionin spearmint.As information regarding terpene pathway regulation is minimal,where YABBY5 and WRKY75 fall in the regulatory hierarchy to govern terpene biosynthesis and how they function withother TFs in the network remains to be explored.Considering the phenotypes observed in transgenic plants，it seems plausible that MsYABBY5 controlsan upstream event in metabolite production. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We found increased levels of transcript for the plastidic ATP/ ADP transporter in transgenic lines making more secondary metabolites and decreased levels in transgenic lines producing less metabolite.In potato,overexpression and suppression of the plastidic ATP/ADP transporter led to an increase and decrease, respectively，in the amount of tuber starch produced (Tjaden et al.，1998).Further overexpression of both NTT and glucose-6- phosphate/phosphate translocator which supplies carbon skeletons to the plastids significantly increased total starch content in potato (Zhang et al.，2oo8).This suggested that import of both energy and carbons into amyloplasts isa rate-limiting step for starch formation.Most of the plastid proteins are encoded in the nucleus and transported to plastids.MsYABBY5 does not seem todirectly regulate the expression ofMsNTT to control secondary metabolite production,but the effect can be indirect due tochangesinsecondary metabolismbroughtby MsYABBY5. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Immunostaining and fluorescence assays showed MsYABBY5 localized to both nucleus and cytoplasm.Cell fractionation and protein gel blot assays can be further performed to test the association of MsYABBY5 with intracellular membranes.There areseveral reportsof TFs especially those involved in stress response to rapidly translocate from the cytoplasm to the nucleus inresponse to external signals. Some examples from the mammalian systems are STAT (signal transducer and activator of transcription),NF-kB (nuclear factor of immunoglobulin kappa B cells)，NFAT (nuclear factor of activated T cells)and steroid receptors proteins (Beals et al.，1997;McBride et al.，2002).In the case of plants,ER membrane-associated bZIP and NAC089 TFs which are responsible for mediating ER-related plant immunityand abiotic stress responses,respectively,were detected in the cytoplasm (Che et al.，2010；Moreno et al.，2012；Yang et al.，2014).Abscisic acid (ABA) is a vital plant hormone that playsimportant roles in stress response.In Arabidopsis,a WRKY protein，AtWRKY40 functions as negative regulator of ABA signalling by directly repressing expression ofmany ABAresponsive genes.WRKY40 was shown to localize to both nucleus and cytosol in wild-type plant cells that has ABA at physiological concentrations and ABA was essential for its cytosolic distribution (Shang et al.,201O). Secondary metabolites produced by plants are also related to abiotic and biotic stress responses of plants.Further studies are required to assess the changein expression levelsand localizationpatternsof ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "MsYABBY5 and WRKY75 in response to stress conditions and its significance. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Experimental procedures ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Plant material and transformation ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Commercial spearmint variety (M.spicata)and sweet basil (O.basilicum) were tested for their secondary metabolites by GC-MS and grown in greenhouse under natural light conditions. Spearmint plants were propagated using stem cuttings,whereas basil plants were propagated from seeds.Agrobacterium-mediated transformation of spearmint was performed according to thepreviously published protocol (Niu et al.，1998，2000). Agrobacterium-mediated transformation of sweet basilwas performed by the following procedure.O.basilicum seeds were sterilized by washing in $40 \\%$ Clorox for3 min followed by several rinses with sterile water.The sterile seeds were imbibed overnight and kept at $4 ^ { \\circ } C$ .The following day the seeds were dissected under a dissection microscope to harvest the mature embryos. The dissected embryos were precultured in dark for 1 day in cocultivation medium (CC).Agrobacterium EHA105 strain was used for transformation. Enhanced green-fluorescent protein gene along with kanamycin was used as a selection marker.The precultured embryos were immersed in agrobacterium culture and sonicated for $1 5 \\ 5 ,$ four times.After sonication,the embryos were immersed in fresh Agrobacterium solution and vacuuminfiltrated for 3 min.After infection for $3 0 ~ \\mathrm { m i n }$ ，theembryos were placed in CC medium [MS salts $^ +$ myo-inositol $1 0 0 ~ \\mathrm { { m g / L } }$ sucrose $( 3 0 ~ \\mathsf { g } / \\mathsf { L } ) + \\mathsf { B A }$ $( 0 . 4 ~ \\mathrm { m g / L } ) + \\mathsf { I B A }$ $( 0 . 4 ~ \\mathrm { m g / L } )$ $^ +$ cefotaxime 1 $1 5 0 \\mathrm { \\ m g / | } ) ]$ for 3 days.After3 days,the embryos were washed multiple times with sterile-distilled water containing cefotaxime L $1 5 0 ~ \\mathsf { m g } / \\mathsf { L } )$ .The washed embryos were kept in CC media for $3 -$ 4 weeks in dark for shoot induction.After 3-4 weeks，GFPpositive shoots were selected and transferred to light.The wellgrown shoots were transferred to elongation media [MS salts $^ +$ sucrose $( 3 0 ~ 9 / \\mathsf { L } ) + \\mathsf { B A }$ $( 3 \\mathrm { \\ m g / L } ) + \\mathsf { I A A }$ $( 0 . 5 \\mathrm { \\ m g / L } ) + \\mathfrak { c }$ cefotaxime ( $\\cdot 1 5 0 \\mathrm { \\ m g / L ) ] }$ and kept for 2-3 weeks.The shoots were hardened on basal media and allowed for root formation. Plantlets with well-developed roots were transferred to soil and grown under glasshouse conditions before further analysis. Tobacco transformation was done as previously described by Gallois and Marinho (1995). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "RNA extraction and quantitative RT-PCR ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Total RNA was extracted from different tissues (PGT, leaf-PGT, leaf and root) of spearmint using an RNeasy? Plus Mini kit from Qiagen.Reverse transcription reaction and quantitative RT-PCR (qRT-PCR)were carried out as described in Jin et al. (2014). Expressionlevelsoftarget genes wererepresentedas mean $\\pm \\mathsf { S D }$ .Approximately $1 ~ \\mu \\ g$ RNA was employed to synthesize first strand cDNA. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In situ hybridization ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Insitu hybridization assay was performed according to the method described by Javelle et al. (2011）with some minor modifications.Briefly，samples were fixed in $4 \\%$ paraformaldehyde fixative and subjected to vacuum for 3O min on ice.After that,the vials were kept overnight at $4 ^ { \\circ } C$ .Next day，samples weredehydratedwith ethanol seriesand embedded in Paraplast (McCormick Scientific,St Louis,MO) until use.The blocks were sectioned at $1 0 ~ \\mu \\mathrm { m }$ and mounted on Probe-on Plus slides (Fisher Scientific,singapore).For probe synthesis, the MsYABBY5 cDNA was inserted into a $\\mathsf { p G E M } ^ { \\circledast } - \\mathsf { T }$ vector (Promega,Wisconsin). Sense and antisense probes were synthesized by T7 and SP6 RNA polymerase (Roche，Basel,Switzerland),respectively. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Cloning and vector construction ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Promotercloning of MsYABBY5 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Genomic DNA was isolated from young leaves of spearmint using CTAB method.The flanking sequence of MsYABBY5 gene was amplified using a GenomeWalkerM Universal kit. The -1116 bp flanking region of the gene was ligated with $\\mathsf { p G E M } ^ { \\mathbb { B } _ { - } }$ T vector. The resulting product was transformed into Escherichia coli XL1- Blue and sequenced.The promoter was amplified with Phusion? High-Fidelity DNA Polymerase (NEB) and subcloned intoa gateway donor vector pENTRTM/D-TOPO? (Invitrogen,California). Then,the recombinant plasmid was introduced into destination vectors pBGWFS7 by LR recombination.The destination plasmid was further transformed into A. tumefaciens EHA1o5 by heat shock and used to generate transgenic tobacco lines. Sequences of all primers used in this study are listed in Table S1. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Full-length cloning ofall four YABBYs ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Full length of allfour YABBYs cDNAs was obtained by performing $3 ^ { \\prime }$ and $5 ^ { \\prime }$ RACE using the SMARTerTM RACE cDNA amplification kit from Clontech．For sequencing full-length ORFs，the purified fragments were ligated with $\\mathsf { p G E M ^ { \\circledast } } .$ Tvector.The resulting product was transformed into E. coli XL1-Blue. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Overexpression and RNAi vector construction ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Tooverexpress or silence MsYABBY5,sequences were amplified With Phusion? High-Fidelity DNA Polymerase (NEB).The purified fragments were inserted into a gateway donor vector pENTRM/D${ \\mathsf { T O P O } } ^ { \\circledast }$ (Invitrogen)．Then， the recombinant plasmids were introduced into destination vectors pK7WG2D for overexpression inspearmintand sweetbasil byLR recombination.ForMsYABBY5 RNAi,four primers with restriction enzymes located at flanking region were used to amplify the fragment showing low similarity to other YABBY genes.The purified PCR product Was cloned into the donor vector and subsequently introduced into pK7WG2D by LR recombination.The MsYABBY5 gene was driven by 35S promoter in both overexpression and RNAi plants.All destination plasmids harbouring the target genes were transformed into A.tumefaciens EHA105 by heat shock and used for spearmint andbasil transformation. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Subcellular localization ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "YABBY and MsNTT ORFs Were amplified and inserted into the pENTRTM/D-TOPO?．The donor vectors harbouring ORFs were introduced into pBADC/YFP vector by LR recombination.For testing expression pattern of MsYABBY5 promoter，the 5'UTR sequence Was amplified and inserted into pENTRM/D-TOPO?. Subsequently, the plasmid was transformed into pBGWFS7 by LR recombination.All destination plasmids harbouring target genes were transformed into A. tumefaciens EHA105 by heat shock. The recombinant A.tumefaciens EHA strains were used for plant transformation.Subcellular localization pattern of YABBY proteinswas performed as described in Jin et al. (2o14).Briefly, the recombinant A.tumefaciens EHA strains were grown in LB medium overnight at $2 8 ^ { \\circ } C$ .After centrifugation at $4 0 0 0 \\times { \\pmb g } ,$ $4 ^ { \\circ } C$ for $1 5 \\mathrm { \\ m i n }$ ， cell pellets were collected and resuspended in MMA solution ( $1 0 ~ \\mathsf { m m }$ MES, $1 0 \\mathrm { \\ m u } \\mathrm { \\ M g } \\mathsf { C l } _ { 2 }$ ， $1 0 0 ~ \\mu \\mathrm { M }$ acetosyringone） to ${ \\mathsf { O D } } _ { 6 0 0 } = 1$ .The solution was then injected into ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "N.benthamiana leaves.After that,plants were kept at $2 8 ^ { \\circ } C$ for 2 days.Leaf samples were collected and viewed with an upright confocal microscope (Zeiss,Jena,Germany). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Southern blotting ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A total of $1 5 ~ \\mu \\ g$ genomic DNA was digested overnight with EcoRlat $3 7 ^ { \\circ } C$ .Next day,digestion product was electrophoresed ona $1 . 2 \\%$ (w/v) agarose gel at $5 0 ~ \\mathrm { V }$ for $4 \\ h$ .After that, the gel was transferred to a nylon membrane and hybridized by the CaMV 35S promoter probe using a DlG DNA labelling and detection kit (Roche)． DNA probe against 35S promoter was generated using PCR DIG probe synthesis kit from Roche (Hart and Basu,2009). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Immunogold labelling ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A 14-AA peptide of MsYABBY5 showing low similarity to other MsYABBYs was used as antigen for antibody synthesis (GenScript，Piscataway，NJ).Specificity test of the antibodywas performed by Western blotting).Leaf samples from spearmint were fixed for $3 h$ in $4 \\%$ paraformaldehyde $1 0 . 5 \\%$ glutaraldehyde in $0 . 1 ~ \\mathsf { M }$ phosphate buffer $\\left( \\mathsf { p } \\mathsf { H } \\ 7 . 2 \\right)$ and rinsed in $0 . 1 ~ \\mathsf { M }$ phosphate buffer $\\left( \\mathsf { p } \\mathsf { H } \\ 7 . 2 \\right)$ forthree times followed by dehydration in ethanol.After that, the samples were infiltrated with and embedded in LR White.Ultrathin sections around $9 0 ~ \\mathsf { n m }$ were prepared with Leica Ultracut UCT microtome equipped with diamond knives and collected on uncoated，3oo-mesh nickelgrids.The procedure oflabellingand washingwas performed according to the protocol described by Skepper and Powell (20o8)with some minor modifications.Briefly， the sections were incubated for $4 \\ h$ on drops of antimint YAB5 antibody (produced in rabbit)with $1 : 1 0 0$ dilutions in PBSG buffer $[ 1 \\%$ (w/v） gelatin in PBS buffer].After that，sections were rinsed on drops of TBST( $5 0 ~ \\mathsf { m m }$ Tris， $1 5 0 ~ \\mathsf { m m }$ NaCI, $0 . 0 5 \\%$ Tween 2O) for ten times，2 min for each time.Then, sections were incubated for $1 \\ h$ on drops of goat anti-rabbit antibody conjugated with $1 0 \\ \\mathsf { n m }$ gold particles with $1 : 1 0 0$ dilutions in PBSG buffer $[ 1 \\%$ (w/v)gelatin in PBS buffer].The sectionswere further rinsed in TBST buffer for1O times,2 min each time,and in $d d H _ { 2 } O$ for $3 0 ~ \\varsigma$ .Subsequently,samples were counterstained by applying the grid on drops of uranyl acetate and lead citrate.Finally，sections were extensively rinsed in $d d H _ { 2 } O$ and viewed at $1 2 0 ~ \\mathsf { k V }$ with a transmission electron micrOsCOpe (JEOL JEM-1230,Japan). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Electrophoretic mobility shift assay (EMSA) ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "MsYABBY5 was expressed in E. coli BL21 (DE3)and induced by $1 \\mathsf { m m }$ isopropyl- $\\beta$ -thiogalactopyranoside (IPTG) for $6 \\textup { h }$ .Then,the recombinant protein was purified using $6 \\times$ His tagged Ni-NTA agarose (Qiagen，Hilden,Germany)and used for EMSA.The $5 ^ { \\prime }$ ends of probes used for EMSA were labelled with biotin (Table S1). The assay Was performed using a LightShift Chemiluminescent EMSA kit (Thermo,Waltham,MA) according to the manufacturer'sinstructions. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Transactivation activity assay ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The ${ \\sim } 1 \\ \\mathsf { k b }$ promoter region of MsWRKY75 was amplified and inserted into $p { \\mathsf { E N T R } } ^ { \\top \\mathsf { M } } / { \\mathsf { D } } { \\mathsf { - T O P O } } ^ { \\widehat { \\otimes } }$ .Theresultingplasmid was transformed into pBGWFS7 by LR recombination and further introduced into A.tumefaciens EHA.Leaves of N.benthamiana were agroinfiltrated with effector and reporter at a ratio of $1 : 1$ .Two days after infiltration，leaves were harvested to isolate crude protein.GUS quantitative assay was performed as described by Li et al. (2014)．Each assay was performed in triplicate. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Gas chromatography-mass spectrometry analysis ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In case of mint,each transgenic plant was propagated clonally before GC-MS studies were conducted on them.For basil and tobacco plants，the analysis was performed on T-1 plants. Terpene and phenylpropanoid production in leaves of spearmint, sweet basil and tobacco were determined using a GC-MS method as described in Jin et al. (2014).Camphor was used as an internal standard. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Dataare indicated as $' \\mathrm { m e a n } \\pm \\mathrm { S D ^ { \\prime } }$ of three biological replicates each performed in triplicates.Statistical significance between transgenic plants and WT was analysed using a two-tailed Student'st-testandindicatedbyasterisks. $^ { \\star } P < 0 . 0 5$ $^ { \\star \\star } P < 0 . 0 1$ ： ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Competing interests ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The authors declare that they have no competing interests. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This research was funded by a grant from Singapore National Research Foundation (Competitive Research Programme Award No: NRF-CRP8-2011-O2).We thank Dr Jin Jingjing for transcriptome data analysis,Mr.Xuezhi Ouyang for TEM sample preparation and Dr Jun-Lin Yin for support in GC-MS analysis. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Aharoni,A.and Galili,G. (2011) Metabolic engineering of the plant primarysecondary metabolism interface. Curr. Opin. Biotechnol.22,239-244.   \nAlbert, N.W.,Davies,K.M.,Lewis, D.H., Zhang,H.,Montefiori, M., Brendolise, C.，Boase，M.R.et al.(2014)A conserved network of transcriptional activators and repressors regulates anthocyanin pigmentation in eudicots. Plant Cell,26,962-980.   \nBeals,C.R., Sheridan, C.M.,Turck,C.W.,Gardner,P.and Crabtree,G.R.(1997) Nuclear export of NF-ATc enhanced by glycogen synthase kinase-3.Science, 275,1930-1933.   \nBen Zvi,M.M.，Shklarman,E.，Masci,T.，Kalev,H.，Debener,T.，Shafir，S., Ovadis,M.et al. (2012) PAP1 transcription factor enhances production of phenylpropanoid and terpenoid scent compounds in rose flowers.New Phytol.195,335-345.   \nBonaccorso，O.，Lee， J.E.，Puah，L.，Scutt,C.P．and Golz,J.F.(2012) FILAMENTOUS FLOWER controls lateral organ development by actingas both an activator and a repressor. BMC Plant Biol.12,176.   \nBowman,J.L. (2ooO) The YABBY gene family and abaxial cell fate. Curr. Opin. Plant Biol.3,17-22.   \nBroun,P.and Somerville,C.(2oo1) Progress in plant metabolic engineering. Proc.Natl Acad.Sci. USA,98,8925-8927.   \nButelli,E.,Titta,L.,Giorgio,M.,Mock,H.P.，Matros,A.,Peterek,S.,Schijlen, E.G.et al. (20o8)Enrichment of tomato fruit with health-promoting anthocyanins by expression of select transcription factors.Nat. Biotechnol. 26,1301-1308.   \nCavallini，E.，Matus,J.T.，Finezzo，L.，Zenoni，S.，Loyola，R.，Guzzo，F., Schlechter，R.et al. (2015)The phenylpropanoid pathway is controlled at different branches by a set of R2R3-MYB C2 repressors in grapevine.Plant Physiol. 167, 1448-1470.   \nChampagne，A.and Boutry，M.(2013) Proteomic snapshot of spearmint (Mentha spicata L.) leaf trichomes:a genuine terpenoid factory.Proteomics, 13,3327-3332.   \nChe,P.，Bussell,J.D.,Zhou,W.,Estavillo,G.M.，Pogson,B.J.and Smith,S.M. (2010)Signaling from the endoplasmic reticulum activates brassinosteroid   \nsignaling and promotes acclimation to stress in Arabidopsis.Sci. Signal.3,   \nra69.   \nChen，Y.Y.，Wang，L.F.，Dai,L.J.，Yang，S.G.and Tian，W.M.(2012)   \nCharacterization of HbEREBP1，a wound-responsive transcription factor   \ngenein laticifers of Hevea brasiliensis Muell.Arg.Mol. Biol.Rep.39,3713- 3719.   \nCordoba，E.，Salmi，M.and León，P.(2009)Unravelling the regulatory   \nmechanisms that modulate the MEP pathway in higher plants.J.Exp.Bot.   \n60,2933-2943.   \nCroteau，R.，Karp，F.，Wagschal，K.C.， Satterwhite，D.M.，Hyatt,D.C.and   \nSkotland,C.B.(1991) Biochemical characterization of a spearmint mutant that resembles peppermint in monoterpene content. Plant Physiol. 96,744-   \n752.   \nCroteau,R.,Kutchan,T.M.and Lewis,N.G.(20oo) Natural products (secondary metabolites).In Biochemistry and Molecular Biology of Plants.(Buchanan, B.,   \nGruissem,W.and Jones,R.,eds),pp.1250-1268.Rockville,MD:American Society of Plant Physiologists.   \nDai, M.,Zhao,Y.,Ma,Q.,Hu,Y., Hedden,P.,Zhang,Q.and Zhou,D.X.(2007)   \nThe rice YABBY1 gene is involved in the feedback regulation of gibberein   \nmetabolism.Plant Physiol.144,121-133.   \nDiemer，F.，Caissard,J.-C.，Moja，S.，Chalchat,J.-C．and Jullen，F.(2001) Altered monoterpene composition in transgenic mint followingthe   \nintroduction of 4S-limonene synthase.Plant Physiol. Biochem.39,603-614.   \nDubey，V.S.，Bhalla，R．and Luthra，R.(2Oo3)An overview of the nonmevalonate pathway for terpenoid biosynthesis in plants.J. Biosci.28,637-   \n646.   \nEnfissi,E.M.，Barneche,F.,Ahmed,I.,Lichtlé,C.,Gerrish,C.,McQuinn,R.P.,   \nGiovannoni,J.J.et al. (2O1O) Integrative transcript and metabolite analysis of   \nnutritionally enhanced DE-ETIOLATED1 downregulated tomato fruit. Plant   \nCell, 22,1190-1215.   \nEshed,Y.,Baum,S.F.and Bowman,J.L.(1999) Distinct mechanisms promote   \npolarity establishment in carpels of Arabidopsis.Cell,99,199-209.   \nFischer，K.(2011）The import and export business in plastids:transport   \nprocesses across the inner envelope membrane.Plant Physiol.155,1511- 1519.   \nFlugge,U.I.，Häusler，R.E.，Ludewig，F.and Gierth,M.(2011) The role of   \ntransporters in supplying energy to plant plastids.J. Exp.Bot.62,2381-2392.   \nGallois，P.and Marinho，P.(1995） Leafdisk transformationusing Agrobacterium tumefaciens-expression of heterologous genes in tobacco InPlant gene transfer and expression protocols，Methodsin Molecular   \nBiology, Vol.49 (Jones,H.,ed.)，pp.39-48.Totowa,NJ: Humana Press.   \nGershenzon，J.，McConkey，M.E.and Croteau，R.B.(2O0O) Regulation of   \nmonoterpene accumulation in leaves of peppermint. Plant Physiol.122,205- 213.   \nGoldshmidt,A.,Alvarez,J.P., Bowman,J.L.and Eshed,Y. (2oo8) Signals derived   \nfrom YABBY gene activities in organ primordia regulate growth and   \npartitioning of Arabidopsis shoot apical meristems.Plant Cell，20，1217- 1230.   \nGolz,J.F.，Roccaro，M.，Kuzoff，R．and Hudson，A.(2004） GRAMINIFOLIA   \npromotes growth and polarity of Antirrhinum leaves.Development,131, 3661-3670.   \nGrotewold，E.(2o08) Transcription factors for predictive plant metabolic   \nengineering:are we there yet. Curr. Opin. Biotechnol.19,138-144.   \nGutensohn,M.，Nguyen,T.T.，McMahon,R.D.，Kaplan,I.，Pichersky,E.and   \nDudareva,N.(2014) Metabolic engineering of monoterpene biosynthesis in   \ntomato fruitsvia introduction of the non-canonical substrate neryl diphosphate.Metab. Eng.24,107-116.   \nHart,S.M.and Basu，C.(2oo9)Optimization of a digoxigenin-based   \nimmunoassay system for gene detection in Arabidopsis thaliana.J.Biomol. Tech.20,96-100.   \nHemmerlin,A., Harwood,J.L.and Bach,T.J.(2012)A raison d'etre for two   \ndistinct pathways in the early steps of plant isoprenoid biosynthesis? Prog. Lipid Res.51,95-148.   \nlwase，A.，Matsui，K.and Ohme-Takag，M.(2009)Manipulation of plant   \nmetabolic pathways by transcription factors.Plant Biotechnol.26,29-38. precise localization of transcripts in plants.J.Vis. Exp.57,3328.   \nJin,J.,Panicker,D.,Wang,Q.,Kim,M.J.,Liu,J.,Yin,J.L.,Wong,L.et al. (2014) Next generation sequencing unravels the biosynthetic ability of Spearmint (Mentha spicata) peltate glandular trichomes through comparative transcriptomics.BMC Plant Biol.14,292.   \nLange，B.M.and Turner,G.W.(2013) Terpenoid biosynthesis in trichomes current status and future opportunities.Plant Biotechnol.J.11,2-22.   \nLange,B.M.,Mahmoud,S.S.,Wildung,M.R.,Turner, G.W.,Davis,E.M.,Lange, I.,Baker，R.C.et al. (2011) Improving peppermint essential oil yield and composition by metabolic engineering.Proc.Natl Acad.Sci. USA,108, 16944-16949.   \nLi, X.,Gao,M.J.,Pan,H.Y.,Cui,D.J.and Gruber,M.Y.(2010) Purple canola: Arabidopsis PAP1 increases antioxidants and phenolics in Brassica napus leaves.J.Agric.Food Chem.58,1639-1645.   \nLi, R.,Weldegergis,B.T.,Li,J.,Jung,C., Qu,J.,Sun,Y.,Qian,H.,etal.(2014) Virulence factors of Geminivirus interact with MYC2 to subvert plant resistance and promote vector performance.Plant Cell,26,4991-5008.   \nLoza-Tavera，H. (1999) Monoterpenes in essential oils- biosynthesis and properties.Adv.Exp.Med.Biol.464,49-62.   \nLu,X.,Jiang,W.M.,Zhang,L.,Zhang,F., Zhang,F.Y.,Shen,Q.,Wang,G.F. et al.(2013)AaERF1 positively regulates the resistance to Botrytis cinerea in Artemisia annua.PLoS ONE,8,e57657.   \nLuo,J.Butell,E.,Hill,L.,Par,A.,Niggeweg,R,Bailey,P.,Weisshaar,Betal. (2008)AtMYB12 regulates caffeoyl quinic acid and flavonol synthesis in tomato:expression in fruit results in very high levels of both types of polyphenol. Plant J.56,316-326.   \nMa,D.,Pu,G.,Lei,C.,Ma,L.,Wang,H.,Guo,Y.,Chen,J. et al. (2009)lsolation and characterization of AaWRKY1,an Artemisia annua transcription factor that regulates the amorpha-4,11-diene synthase gene,a key gene of artemisinin biosynthesis.Plant Cell Physiol.50,2146-2161.   \nMahmoud,S.S.and Croteau, R.B. (2001) Metabolic engineering of essential oil yield and composition in mint by altering expression of deoxyxylulose phosphate reductoisomerase and menthofuran synthase.Proc. Natl Acad. Sci. USA,98,8915-8920.   \nMahmoud，S.S.，Willams，M.and Croteau，R.(2004) Cosuppression of limonene-3-hydroxylase in peppermint promotes accumulation of limonene in the essential oil. Phytochemistry,65,547-554.   \nMajetic，C.J.，Rausher，M.D.and Raguso，R.A.(2010) The pigment-scent connection: do mutations in regulatory vs.structural anthocyanin genes differentialy alter floral scent production in lpomoea purpurea? S.Afr.J.Bot. 76,632-642.   \nMcBride,K.M., Banninger, G.,McDonald,C.and Reich, N.C. (2002) Regulated nuclear import of the STAT1 transcription factor by direct binding of importin-α. EMBO J.21, 1754-1763.   \nMcConkey，M.E.，Gershenzon,J.and Croteau，R.B.(20oO) Developmental regulation of monoterpene biosynthesis in the glandular trichomes of peppermint. Plant Physiol.122, 215-222.   \nMiyamoto,K., Matsumoto,T.,Okada,A., Komiyama, K.,Chujo,T.,Yoshikawa, H.，Nojiri，H.et al.(2014) Identification of target genes of the bZIP transcription factor OsTGAP1,whose overexpression causes elicitor-induced hyperaccumulation of diterpenoid phytoalexins in rice cels. PLoS ONE，9, e105823.   \nMoreno,A.A.,Mukhtar,M.S.,Blanco,F.,Boatwright,J.L.,Moreno,I.,Jordan, M.R., Chen,Y.et al. (2012) IRE1/bZIP60-mediated unfolded protein response plays distinct roles in plant immunity and abiotic stress responses. PLoS ONE, 7, e31944.   \nMunoz-Bertomeu,J.，Ros,R.,Arllaga,I.and Segura,J.(2008) Expression of spearmint limonene synthase in transgenic spike lavender results inan altered monoterpene composition in developing leaves.Metab. Eng.10, 166-177.   \nNeuhaus,H.E.,Thom,E.,Mohlmann,T.,Steup,M.and Kampfenkel,K.(1997) Characterization of a novel eukaryotic ATP/ADP translocator located in the plastid envelope of Arabidopsis thaliana L.Plant J.11,73-82.   \nNiu，X.，Lin，K.，Hasegawa，P.M.，Bressan，R.A.and Weller，S.C.(1998) Transgenic peppermint (Mentha $\\times$ piperita L.) plants obtained by cocultivation ithA\\~r Dln+ £all Dn 17 165 171 VIu， (2000）Factors affecting Agrobacterium tumefaciens-mediated transformationofpeppermint.Plant CellRep.19,304310.   \nPatra，B.，Schluttenhofer，C.，Wu,Y.，Pattanaik,S.and Yuan，L.(2013) Transcriptional regulation of secondary metabolite biosynthesis in plants. Biochim. Biophys.Acta,1829,1236-1247.   \nQiu,D.,Xiao,J.,Xie,W.,Liu,H,Li,X.,Xiong,L.and Wang,S.(20o8) Rice gene network inferred fromexpression profiling ofplantsoverexpressing OsWRKY13,a positive regulator of disease resistance.Mol. Plant,1,538- 551.   \nRobinson,D.G.and Ritzenthaler, C.(2O06) Imaging the early secretory pathway in BY-2 cels.In Tobacco BY-2 Cels:From Cellular Dynamics to Omics,Vol.58 (Nagata,T.,Matsuoka,K.and Inzé, D.,eds),pp.135-151. Biotechnology in Agriculture and Forestry. Heidelberg: Springer-Verlag.   \nSarojam,R.,Sappl,P.G.,Goldshmidt,A.,Efroni,I.,Floyd,S.K.,Eshed,Y.and Bowman，J.L.(2010） Differentiating Arabidopsis shoots from leaves by combined YABBY activities.Plant Cell,22,2113-2130.   \nSchlutenhofer,C.and Yuan,L. (2015) Regulation of specialized metabolism by WRKY transcription factors.Plant Physiol.167,295-306.   \nSchwinn,K.,Venail,J.,Shang,Y.,Mackay，S.,Alm,V.,Buteli,E.,Oyama，R. et al.(2006)A small family of MYB-regulatorygenes controlsfloral pigmentation intensity and patterning in the genus Antirrhinum.Plant Cell, 18, 831-851.   \nShamimuzzaman,M.and Vodkin,L.(2013) Genome-wide identification of binding sites for NAC and YABBY transcription factors and co-regulated genes during soybean seedling development by ChIP-Seq and RNA-Seq. BMC Genom. 14,477.   \nShang,Y.,Yan,L.,Liu,Z.Q., Cao,Z.,Mei, C., Xin,Q.,Wu,F.Q.et al. (2010) The Mg-chelatase H subunit of Arabidopsis antagonizes a group of WRKY transcription repressors to relieve ABA-responsive genes of inhibition.Plant Cell, 22, 1909-1935.   \nSinha，R.，Bhatacharyya，D.，Majumdar，A.B.，Datta，R.，Hazra，S.and Chattopadhyay，S.(2013)Leaf proteome profiling of transgenic mint infected with Alternariaalternata.J.Proteomics,93,117-132.   \nSkepper，J.N.and Powell，J.M.(2008) Immunogold staining of epoxy resin sections for transmission electron microscopy (TEM).Cold Spring Harbor Protocols,6,pdb-prot5015.   \nSpyropoulou,E.A.，Haring，M.A.and Schuurink,R.C. (2014)RNA sequencing onSolanum lycopersicum trichomes identifies transcription factors that activate terpene synthase promoters. BMC Genom.15,402.   \nStahle,M.I.，Kuehlich,J.，Staron,L.,von Arnim,A.G.and Golz,J.F.(2009) YABBYsandthetranscriptionalcorepressorsLEUNIGand LEUNIG_HOMOLOG maintain leafpolarity and meristem activityin Arabidopsis.Plant Cell,21,3105-3118.   \nTjaden,J.,Mohlmann,T.and Kampfenkel, K.(1998)Altered plastidic ATP/ADPtransporteractivity influences potato (Solanum tuberosum L.） tuber morphology,yield and composition of tuber starch.Plant J.16,531-540.   \nVranova,E., Coman,D.and Gruissem,W.(2013) Network analysis of the MVA and MEP pathways for isoprenoid synthesis.Annu. Rev.Plant Biol. 64,665- 700.   \nWang，G.(2014) Recent progress in secondary metabolism of glandular trichome.Plant Biotechnol.31,353-361.   \nWang,C.,Wu,J.and Mei, X.(2001) Enhancement of taxol production and excretion in Taxus chinensis cell culture by fungal elicitation and medium renewal.Appl.Microbiol.Biot.55,404-410.   \nWang,H.,Hao,J.,Chen,X.,Hao,Z.,Wang,X.,Lou,Y.,Peng,Y.et al. (2007) Overexpression of rice WRKY89 enhances ultraviolet B tolerance and disease resistance in rice plants. Plant Mol. Biol. 65,799-815.   \nWang，Y.，Guo，D.，Li，H.L.and Peng，S.Q.(2013） Characterization of HbWRKY1，a WRKY transcription factor from Hevea brasiliensis that negatively regulates HbSRPP.Plant Physiol. Biochem.71,283-289.   \nXie,Z., Kapteyn,J.and Gang, D.R.(2oo8)A systems biology investigation of the MEP/terpenoid and shikimate/phenylpropanoid pathways points to multiple levels of metabolic control in sweet basil glandular trichomes.Plant J.54, 349-361.   \nXu，Y.H.，Wang，J.W.，Wang，S.，Wang，J.Y.and Chen，X.Y.(2004) Characterization of GaWRKY1.a cotton transcrintion factor that reaulates the sesquiterpene synthase gene $( + )$ -δ-cadinene synthase-A.Plant Physiol. 135,507-515.   \nYang,Z.T.,Wang, M.J.,Sun,L., Lu,S.J., Bi, D.L.,Sun,L.,Song, Z.T.et al. (2014) Themembrane-associated transcription factor NACo89 controls ER-stressinduced programmed cell death in plants. PLoS Genet.10,e1004243.   \nYokotani,N., Sato,Y.,Tanabe,S.,Chujo,T.,Shimizu,T.,Okada,K.,Yamane, H.et al. (2013) WRKY76 is a rice transcriptional repressor playing opposite rolesin blast disease resistance and cold stress tolerance.J.Exp. Bot.64, 5085-5097.   \nYu,Z.X.,Li, J.X.,Yang, C.Q.,Hu,W.L.,Wang,L.J.and Chen,X.Y. (2012) The jasmonate-responsive AP2/ERF transcription factors AaERF1 and AaERF2 positively regulate artemisinin biosynthesis in Artemisia annua L.Mol.Plant, 5,353-365.   \nZhang,L.,Häusler,R.E.,Greiten,C.,Hajirezaei,M.R.,Haferkamp,I.,Neuhaus, H.E., Flugge, U.l.et al. (2oo8) Overriding the co-limiting import of carbon and energy into tuber amyloplasts increases the starch content and yield of transgenic potato plants.Plant Biotechnol.J.6,453-464.   \nZhang,Q., Zhu,J.,Ni,Y., Cai,Y.and Zhang, Z.(2012) Expression profiling of HbWRKY1,an ethephon-induced WRKY gene in latex from Hevea brasiliensis in responding to wounding and drought. Trees,26, 587-595.   \nZhang,F.Y.,Fu,X.Q.,Lv,Z.Y.,Lu,X.,Shen,Q.,Zhang,L., Zhu,M.M.et al. (2015)A basic leucine zipper transcription factor,Aabzip1,connects abscisic acid signaling with artemisinin biosynthesis in Artemisia annua.Mol.Plant,8, 163-175. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Zhou,M.,Wu,L.,Liang,J.,Shen,C.and Lin,J.(2o12) Expression analysis and functional characterization of a novel cold-responsive gene CbCOR15a from Capsellabursa-pastoris.Mol.Biol. Rep.39,5169-5179. Zhu,W., Zhang,L., Lv,H., Zhang,H., Zhang, D.,Wang,X.and Chen,J. (2014) The dehydrin Wzy2 promoter from wheat defines its contribution to stress tolerance.Funct. Integr. Genomics,14,111-125. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Supporting information ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Additional Supporting information may be found in the online version of this article: ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Figure S1 MsYABBY5 protein was observed in both nucleus (N) andcytoplasm (C） in peltate glandular trichome (PGT)of spearmint.   \nFigure S2 Southern blotting analysis of transgenic plants.   \nFigure S3 Transcript levels of other MsYABBYs in RNAi plants. Figure S4 Transcript level of MsYABBY5 in MsYABBY5 overexpression sweet basil (A) and Nicotiana sylvestris (B).   \nFigure S5 Ectopic expression of MsYABBY5 caused leaf curling and flowering time delay in sweet basil.   \nTable S1 Sequences of the primers used in this study. ",
+        "page_idx": 13
+    }
+]

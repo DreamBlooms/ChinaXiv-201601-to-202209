@@ -1,0 +1,119 @@
+基础研究
+
+# 前列腺素 $\mathbf { E } _ { 2 }$ 对大鼠巨噬细胞株NR8383合成血管内皮生长因子促进人脐静脉血管内皮细胞成管、迁移的影响
+
+刘 勉,龚 艺',韦锦燕'，谢 多¹,王 京'，余艳红²,全 松1  
+南方医科大学南方医院妇产科生殖医学中心，妇产科，广东广州510515
+
+摘要：目的探究前列腺素 $\mathrm { E } _ { 2 } ( \mathrm { P G E } _ { 2 } )$ 对大鼠巨噬细胞株NR8383细胞合成血管内皮生长因子(VEGF)的调控作用以及对人脐静脉内皮细胞(HUVEC)趋化成管的影响。方法分别采用 $0 . 1 \ \mathrm { n m o l / L \ P G E _ { 2 } \mathrm { { k } _ { 2 } \mathrm { { \cdot } 1 \ n m o l / L \ P G E _ { 2 } \mathrm { { k } _ { 2 } \mathrm { { \cdot } 1 \ n m o l / L \ P G E _ { 2 } \mathrm { { + } 1 0 \ n m o l / L \ } } } } } }$ EP2受体抑制剂 $\mathrm { A H 6 8 0 9 + 1 0 \ n m o l / L }$ EP4受体抑制剂AH23848处理的NR8383细胞作为各实验组，选择未经PGE以及其特异性受体抑制剂处理的NR8383细胞作为对照组，采用Westemblot和qPCR方法检测各组NR8383细胞内VEGF蛋白以及mRNA的表达水平;收集以上各处理组的细胞培养上清液分别刺激HUVECs,运用TRANSWELL小室、Matrigel胶细胞成管实验等实验方法，观察 PGE调控巨噬细胞对HUVEC 迁移效应和成管能力的影响。结果 随着NR8383细胞培养液中加入PGE浓度增高，其VEGF蛋白表达和VEGFmRNA的表达水平显著升高 $( P { < } 0 . 0 5 ) _ { 3 } 0 . 1 ~ \mathrm { n m o l / L . } \mathrm { 1 ~ n m o l / L ~ P G E } _ { 2 }$ 处理过的NR8383细胞培养上清液可以显著增加HUVEC细胞形成的小管面积,形成小管面积随着PGE处理浓度的增加而增加( $P { < } 0 . 0 5 )$ ;HUVECs的迁移运动也随着PGE处理浓度的升高不同程度的增强，HUVECs趋化的数量显著升高( $P { < } 0 . 0 5 )$ ；研究发现PGE特异性的EP2/EP4受体拮抗剂AH6809/AH23848,可以显著抑制PGE增强NR8383细胞内VEGFmRNAs表达的作用并且也显著抑制PGE增强NR8383细胞促进HUVECs成管和趋化能力的效应 $( P { < } 0 . 0 5 )$ 。结论 $\mathrm { P G E } _ { 2 }$ 可以通过作用NR8383细胞表面对应的EP2/EP4受体调控VEGF的合成，促进HUVEC趋化和成管效应。
+
+关键词：前列腺素E；大鼠肺泡巨噬细胞株NR8383；人脐静脉血管内皮细胞；血管内皮生长因子
+
+# Media of rat macrophage NR8383 cells with prostaglandins $\mathbf { E } _ { 2 }$ -induced VEGF over-expression promotes migration and tube formation of human umbilical vein endothelial cells
+
+LIU Mian',GONGYi’,WEI Jinyant,XIEDuo’,WANGJing',YUYanhong²,QUANong   
+CenterforRepdciicinpmtofecdetetridGolo   
+SouthernMedicalUniversity,Guangzhou 510515,China
+
+Abstract: Objective To investigate the effect of prostaglandins $\mathrm { E } _ { 2 }$ $\left( \mathrm { P G E } _ { 2 } \right)$ in enhancing vascular endothelial growth factor (VEGF) expression in a rat macrophage cell line and the effect of the media from $\mathrm { P G E } _ { 2 }$ -inuced rat macrophages on angiogeneticabilityof human umbilical vein endothelialcels(HUVECs)in vitro.Methods Western blotingand qPCR were employed to ivestigate the expressions of VEGF protein and mRNAs inrat macrophage celline NR8383 stimulated by $\mathrm { P G E } _ { 2 }$ inthe presenceorabsenceof EP2receptor inhibitor (AH6809)andEP4 receptor inhibitor (AH23848).Conditioned supernatants wereobtained from diferentNR8383subsets tostimulate HUVECs,andthetubeformationabilityandmigration of the HUVECs were assessed with Transwell assay. Results $\mathrm { P G E } _ { 2 }$ stimulation significantly enhanced the expression of VEGF proteinand mRNAs in NR8383 cels in a dose-dependent manner. The supernatants from NR8383 cellstimulated by $\mathrm { P G E } _ { 2 }$ significantly enhanced tube formation ability of HUVECs $_ { ( P < 0 . 0 5 ) }$ and promoted the cell migration. Such effects of $\mathrm { P G E } _ { 2 }$ were blocked by the application of AH6809 and AH23848. Conclusion $\mathrm { P G E } _ { 2 }$ can dose-dependently increase VEGF expression in NR8383 cells, and the supernatants derived from $\mathrm { P G E } _ { 2 }$ -stimulated NR8383 cells can induce HUVEC migration and accelerate the growth of tube like structures. $\mathrm { P G E } _ { 2 }$ are essential to corpus luteum formation by stimulating macrophages to induce angiogenesis through EP2/EP4.
+
+Key words: prostaglandin $\operatorname { E } _ { 2 } ;$ rat pulmonary alveolar macrophage NR8383; human umbilical vein endothelial cel; vascular endothelial growth factor
+
+巨噬细胞是具有十分活跃生物学功能的一组异质细胞群，能表达多种受体，产生多种生物活性因子，在机体防御和免疫应答中发挥重要作用，也是炎症反应中的主要调控细胞。巨噬细胞起源于血液单核细胞,其在机体各系统和组织器官中均广泛存在，在受到不同的刺激分化因子作用后，会分化为不同的亚型，发挥不同的生物学效应[]。血管内皮细胞生长因子(VEGF)又叫血管通透性因子(VPF)，是一种高度特异性地作用于血管内皮细胞的多功能因子[2-3]。可以促进血管内皮细胞分裂、增殖以及诱导血管生成，是机体内促进血管生成的关键细胞因子之一[2]。既往研究显示，巨噬细胞是机体合成VEGF的重要来源，巨噬细胞通过分泌VEGF参与了多种病理生理过程,包括肿瘤的生长转移，子宫内膜血管生成微环境的建立等[4-5]。前列腺素 $\mathbf { E } _ { 2 } ( \mathbf { P G E } _ { 2 } )$ 是一种重要的生物活性物质，广泛存在于全身各种器官组织中,发挥多种生物功能和效应[67]。研究显示, $\mathrm { P G E } _ { 2 }$ 可以参与血管生成的调控，但是PGE是否参与调控巨噬细胞分泌VEGF从而促进血管生成未见相关报道[8。本研究采用不同浓度的PGE2处理大鼠巨噬细胞株NR8383，探讨PGE对NR8383合成VEGF，调控人脐静脉血管内皮细胞(HUVEC)迁移和成管的能力。
+
+# 1材料和方法
+
+# 1.1 材料
+
+1.1.1细胞株及细胞培养大鼠巨噬细胞株NR8383购自广州吉妮欧生物科技有限公司。大鼠巨噬细胞NR8383复苏后常规培养，于含 $10 \%$ 胎牛血清的RPMI1640培养液中培养于 $5 \%$ （204号 $\mathrm { C O } _ { 2 }$ 恒温孵育箱中$3 7 ^ { \circ } \mathrm { C }$ 下培养传代。
+
+1.1.2药物与试剂RMPI1640培养基/胎牛血清/胰蛋白酶/双抗/Ⅱ型胶原酶均购自Sigma;兔抗大鼠VEGF多克隆抗体（英国Abcam）；Transwell小室（美国Corning);Matrigel基质胶(美国BD)EP2受体拮抗剂AH6809/EP4受体拮抗剂AH23848（美国CAYMAN，货号：14050/19023);Trizol试剂(Invitrogen)。
+
+# 1.2 方法
+
+1.2.1荧光定量PCR按照实际说明完成RNA的抽提纯化和cDNA的合成。反应条件： $9 5 \mathrm { ~ } \mathrm { ~ \textdegree ~ } 3 \mathrm { ~ m i n } ; 6 0 \mathrm { ~ \textdegree C }$ 30 s,40个循环 $( 9 5 \mathrm { ~ \textdegree C ~ } 5 \mathrm { ~ s } ; 6 0 \mathrm { ~ \textdegree C ~ } 3 0 \mathrm { ~ s } ;$ )。重复3次。目的片段：R-VEGF-100bp;内参片段:R-GAPDH- $1 1 0 ~ \mathrm { { b p } }$ 0R-VEGF上游引物:5'-TGTACCTCCACCATGCCAAGT-3'，下游引物： $5 ^ { \prime }$ -CTGCGCTGGTAGACGTCCAT-3'；R-GAPDH:上游引物:5'-AGGGCTGCCTTCTCTTGTGA-3'；下游引物:5'-AACTTGCCGTGGGTAGAGTCA-3'
+
+1.2.2Westernblot检测NR8383 细胞中VEGF表达细胞按照比例加入裂解液，提取全蛋白，按照BCA方法测定蛋白浓度，分装并且保存在 $- 8 0 \mathrm { { ^ { \circ } C } }$ 。根据目的蛋白分子量配置SDS-PAGE分离胶，蛋白上样后电泳，转膜，$4 ^ { \circ } \mathrm { C }$ 封闭过夜，免疫印迹，利用ECL显色试剂盒显色，在显影仪器上拍照,用Gel-proanalyzer图像分析软件分析条带灰度值，用目的蛋白灰度值/内参灰度值代表目
+
+的蛋白的相对表达量。
+
+1.2.3TRANSWELL细胞迁移实验（1)取对数生长期的大鼠巨噬细胞株NR8383，以含 $10 \%$ 胎牛血清的RPMI1640培养液重悬细胞，调整细胞密度为 $1 { \times } 1 0 ^ { 5 } / \mathrm { m L }$ 以不添加 $\mathrm { P G E } _ { 2 }$ 处理的NR8383细胞作为对照组（以下简称NC组），其余分别采用 $0 . 1 { \mathrm { ~ n m o l / L ~ P G E } } _ { 2 }$ 处理、1 nmol/L $\mathrm { P G E } _ { 2 }$ 处理以及1nmol/L $\mathrm { P G E } _ { 2 } + 1 0$ nmol/L（2 $\mathrm { A H } 6 8 0 9 + 1 0$ nmol/LAH23848处理。5d后， $2 0 0 0 \mathrm { r / m i n }$ 离心 $5 \mathrm { m i n }$ ，去除细胞碎片，取细胞培养上清用于实验;(2)HUVEC细胞消化后用完全培养基重悬，调整细胞浓度为 $1 \times 1 0 ^ { 6 } / \mathrm { m L }$ ,Transwell细胞培养板的上室中加入$1 0 0 ~ \mu \mathrm { L }$ HUVECs悬液;(3)在Transwell细胞培养下室中，分别加入上述方法获取的不同处理作用后NR8383细胞培养上清，每组设3个复孔。放入细胞培养箱中继续培养 $1 2 \mathrm { ~ h ~ }$ ;(4)取出Transwell小室，用棉棒轻轻擦去小室膜上表面的细胞； $10 \%$ 甲醛固定 $3 0 \mathrm { m i n }$ ;用PBS洗2次，5min/次;结晶紫染色 $3 0 \mathrm { m i n }$ ,清水反复冲洗，晾干；取下聚碳酸酯膜，中性树胶封片；(5)显微镜下 $( \times 2 0 0 )$ 计数迁移到膜下表面的细胞，每张膜随机计数5个视野，取平均数作为趋化细胞数。
+
+1.2.4Matrigel胶小管形成实验观察HUVEC细胞成管能力(1)在实验前预先将Tip头、培养板等所有实验中会接触Matrigel基质胶的物品放置在 $- 2 0 \mathrm { { ^ { \circ } C } }$ 冰箱进行预冷。然后,把Matrigel基质胶置于 $2 { \sim } 8 \ \mathrm { { ^ circ C } }$ 冰箱中过夜融化。当基质胶呈现液态状后，向96孔培养板中每孔加入 $6 0 ~ \mu \mathrm { L }$ ，置于 $3 7 \mathrm { ~ \textdegree ~ { ~ I ~ h ~ } ~ }$ 以成胶；(2)用上述方法(1.2.3)获取的不同处理作用后NR3838细胞培养上清重悬HUVECs,接种入已铺胶的96孔板中，每孔 $1 . 5 { \sim } 2 { \times } 1 0 ^ { 4 }$ 个细胞,每组设3复孔。放入细胞培养箱中继续培养 $6 \mathrm { { h } }$ (3)取出细胞培养板，在倒置显微镜下 $( \times 4 )$ 观察并拍照，采用Image-ProPlus软件分析形成小管的面积
+
+# 1.3统计学处理
+
+所有数据用SPSS20统计软件分析处理，两样本均数比较应用t检验，多样本均数比较应用方差分析。 $P <$ 0.05为差异具有统计学意义。
+
+# 2结果
+
+2.1 $\mathrm { P G E } _ { 2 }$ 对NR8383细胞合成VEGF的影响。
+
+采用Westernblotting分别检测不添加 $\mathrm { P G E } _ { 2 }$ 处理的对照组以及添加0.1nmol/L、1nmol/LPGE处理5d的NR8383细胞中VEGF蛋白的表达水平；采用qPCR法，检测不添加PGE处理的对照组以及添加 $0 . 1 \mathrm { n m o l } / \mathrm { L }$ ）1nmol/LPGE处理5d的NR8383细胞中VEGFmRNAs的表达水平。结果显示，NR8383细胞内VEGF蛋白水平随着 $\mathrm { P G E } _ { 2 }$ 处理浓度的升高而升高；VEGFmRNAs的表达水平也随着 $\mathrm { P G E } _ { 2 }$ 处理浓度的升高而升高(图1,2)。其中1nmol/LPGE处理的NR8383细胞中VEGFmRNAs表达水平最高（表 $1 , P { < } 0 . 0 1 )$ 。表明NR8383细胞中VEGFmRNAs的表达水平与 $\mathrm { P G E } _ { 2 }$ 水平呈剂量相关关系(图2)。
+
+![](images/c6eaf814c79f693522a9b15ffa1d3d4eb1719886bc50a685822e0939793ffdc5.jpg)  
+图1不同浓度 $\mathrm { P G E } _ { 2 }$ 处理对NR8383细胞内VEGF蛋白表达的影响
+
+Fig.1 VEGF protein expression in NR8383 cells treated with different concentrations of PGE2.Lane 1: Negative control group; Lane 2: $0 . 1 \mathrm { n m o l / L }$ $\mathrm { P G E } _ { 2 } ;$ Lane 3:1 nmol/L PGE2.
+
+![](images/d80871a3047e260811fbc7d05b83218a8ca45e78687a5aa022d42169b4cee4a1.jpg)  
+图2不同浓度PGE处理对NR8383细胞VEGFmRNAs表达的影响Fig.2 VEGF mRNAs expression in NR8383 cells treatedwith different concentrations of $\mathrm { P G E } _ { 2 }$ ： $^ { * } P { < } 0 . 0 5 .$ ， $^ { * * } P { < } 0 . 0 5$ Us NC group.
+
+# $2 . 2 \ \mathrm { P G E } _ { 2 }$ 对NR8383细胞趋化HUVECs作用的影响
+
+在显微镜下观察，分别应用不添加处理的对照组以及添加0.1nmol/L、1nmol/L $\mathrm { P G E } _ { 2 }$ 处理大鼠巨噬细胞NR83835d后收集的细胞上清液，分别处理HUVECs,进行Transwell小室迁移实验。研究发现Transwell小室下表面的HUVECs数量随着PGE处理浓度的升高而显著升高(图2),其中1nmol/LPGE处理后的NR8383细胞培养上清液对HUVECs的趋化作用最强 $( P { < } 0 . 0 1 )$ O
+
+# $2 . 3 \mathrm { P G E } _ { 2 }$ 对NR8383细胞促进HUVECs成管作用的影响
+
+显微镜下观察，采用不添加处理的对照组以及添加0.1 nmol/L、1 nmol/L $\mathrm { P G E } _ { 2 }$ 处理NR8383细胞5d后分别取不同处理下的NR8383细胞培养上清液，诱导接种在Matrigel胶上的HUVECs逐渐形成管状结构。实验结果显示，HUVECs形成的管状结构面积随着 $\mathrm { P G E } _ { 2 }$ 浓度的升高而升高（图4），1nmol/LPGE处理后的NR8383细胞上清液促进HUVECs成管的能力最强，结果具有统计学差异。
+
+# 2.4PGE通过作用NR8383细胞表面的EP2/EP4受体影响其功能
+
+对1nmol/L $\mathrm { P G E } _ { 2 }$ 处理的NR8383细胞中加入10 nmol/L $\mathrm { P G E } _ { 2 }$ EP受体抑制剂AH6809和10nmol/LEP4受体抑制剂AH23848,培养5d后，取细胞上清液处理HUVECs。采用Transwell细胞迁移实验发现$\mathrm { A H 6 8 0 9 + A H 2 3 8 4 8 }$ 可以显著抑制NR8383细胞促进HUVECs迁移（图5A），采用Matrigel胶细胞成管实验发现 $\mathrm { A H 6 8 0 9 + A H 2 3 8 4 8 }$ 可以显著抑制NR8383细胞促进HUVECs成管的能力（图5B)。qPCR实验发现$\mathrm { A H 6 8 0 9 + A H 2 3 8 4 8 }$ 可以显著抑制 $\mathrm { P G E } _ { 2 }$ 促进NR8383细胞合成VEGFmRNAs的能力，数据具有显著统计学差异(图 $5 \mathrm { C } , { \cal P } { < } 0 . 0 1 \ ,$ 。
+
+![](images/8dc324c7fdced2e5ec2c945cb22869cd612e098f8a088bf9897281250845fd4a.jpg)
+
+![](images/a64e5c075f4e56ac1674682cdf0dbcf0455e040eb878f7e7d11d402449f0af14.jpg)  
+图4不同浓度PGE处理下NR8383细胞培养上清液对HUVECs成管能力的影响
+
+Fig.4Tube formation ability of HUVECs treatedwith supernatants derived from NR8383 cells stimulatedby different concentrations of $\mathrm { P G E } _ { 2 }$ A:NC group (Original magnification: $\times 4$ 公 $B \colon 0 . 1 \ \mathrm { n m o l / L } \ \mathrm { P G E }$ group $( \times 4 )$ ;C $: 1 \mathrm { n m o l / L }$ $\mathrm { P G E } _ { 2 }$ group $( \times 4 )$ ; D: Formation of network-like structures by HUVECs. $^ { * } P { < } 0 . 0 1$ $^ { * * } P { < } 0 . 0 1$ us NC group.
+
+![](images/cd08af89dd3947d57206ea4b988814b6de62933ba72647d866026524d7a493d6.jpg)  
+图5 $\mathrm { P G E } _ { 2 }$ EP2受体拮抗剂AH6809和EP4受体拮抗剂AH23848显著抑制NR8383细胞VEGF mRNAs的表达以及促进HUVECs趋化和成管的能力  
+Fig.5AH6809combinedwithAH23848inibitsVEGmRNAexpresioninNR8383andblockstubeformationandmigrationofHUVECs. A:Average number of migrating HUVECs.AH6809 and AH23848 was used as antagonists for $\mathrm { P G E } _ { 2 }$ (Original magnification: $\times 2 0 0 ^ { \cdot }$ ；B: Formation of network-like structures by HUVECs treated with the conditioned supernatants $( \times 4 )$ ; C: Expression of VEGF mRNAs in cells treated with $\mathrm { P G E } _ { 2 }$ alone or in combination with AH6809 and AH23848. $^ { * } P { < } 0 . 0 1$ us 1 nmol/L PGE2 group.
+
+# 3讨论
+
+巨噬细胞作为体内一种重要的非特异性免疫细胞，在血管生成中的作用越来越受到学者的关注。激活后的巨噬细胞可以释放VEGF，是体内VEGF的重要来源之一[1.5.10]。VEGF是已知诱导血管生成最主要的细胞因子之一，密切参与了体内多种病理生理性的血管生成活动[2]。 $\mathrm { P G E } _ { 2 }$ 是体内重要的生理活性物质，广泛存在于全身的组织器官中，发挥着多种生物活性效应，其中有研究发现，PGE参与了体内VEGF的合成分泌，在血管生成活动中发挥着重要作用[6.8.I1]。而巨噬细胞作为
+
+VEGF的重要来源，并且细胞膜表面也表达PGE特异性受体 $\mathbf { E P } _ { 2 }$ 、EP4,是否提示 $\mathrm { P G E } _ { 2 }$ 可以作用于巨噬细胞表面对应的受体从而调控巨噬细胞合成分泌VEGF以及促进血管生成的能力呢[12]?
+
+为了证实PGE参与调控巨噬细胞促进血管新生的作用，我们采用大鼠巨噬细胞株NR8383和人脐静脉血管内皮细胞HUVECs进行体外细胞学实验。首先，我们体外培养大鼠巨噬细胞株NR8383细胞，利用Westernblot和荧光定量PCR方法，采用不添加处理以及添加0.1nmol/L、1nmol/LPGE分别处理NR8383细胞，培养5d后收集不同处理组的NR8383细胞，对其分别进行检测，观察其细胞内VEGF蛋白和VEGFmRNAs的表达水平。研究结果显示， $\mathrm { P G E } _ { 2 }$ 处理后的NR8383细胞内VEGF蛋白水平和VEGFmRNAs表达水平都显著升高，而且表达程度与处理浓度呈正相关。初步提示， $\mathrm { P G E } _ { 2 }$ 可以促进NR8383细胞合成更多的VEGF,来参与血管生成的活动。
+
+为了进一步证实PGE2调控NR8383细胞促进血管生成的能力，我们利用Transwell细胞迁移实验和Matrigel胶细胞成管实验，来检测PGE对NR8383细胞调控HUVECs募集和成管作用。我们培养大鼠巨噬细胞株NR8383,不添加处理以及添加0.1nmol/L、1nmol/LPGE2处理的NR8383细胞，培养5d后取细胞培养上清液。分别用不同处理下的NR8383细胞上清液作用于HUVECs,观察发生迁移的HUVECs数量，检测HUVECs形成血管样结构的面积。研究发现，随着 $\mathrm { P G E } _ { 2 }$ 处理浓度的升高，发生迁移的HUVECs数量明显升高;HUVECs形成的血管样结构面积也显著升高。这提示，PGE可以增强NR8383细胞促进血管内皮细胞趋化和成管的能力，增强NR8383细胞促进血管生成的能力。
+
+那么PGE2是否是通过作用于巨噬细胞表面其对应受体来影响NR8383细胞促进血管生成的能力呢？我们联合使用PGE特异性EP2、EP4受体拮抗剂AH6809、AH23848处理NR8383细胞，观察发现其细胞培养上清液诱导迁移的HUVECs数量显著降低，并且形成的血管状结构面积显著减少;同时qPCR检测发现,使用 $\mathrm { P G E } _ { 2 }$ EP2和EP4受体拮抗剂处理后的NR8383细胞内VEGFmRNAs的表达也受到明显抑制。这些结果均提示， $\mathrm { P G E } _ { 2 } .$ 通过作用NR8383细胞表面的EP2和EP4受体,调控NR8383细胞合成VEGF,影响其促进血管内皮细胞趋化和成管的能力。体外细胞学实验可以提示，PGE是调控巨噬细胞合成VEGF的重要因子，影响其促进血管生成的能力。
+
+围排卵期卵巢中会呈现一个巨噬细胞数量显著升高的现象，同时卵巢巨噬细胞在卵巢黄体血管网的形成过程中发挥着关键作用[13-14];卵巢黄体血管网形成是合成分泌孕酮(P4)的组织学基础，而P4是子宫内膜容受性建立的关键[15-16]。此外,我们的前期研究发现围着床期子宫内膜中巨噬细胞呈现一个募集的趋势,并且在着床点附近分布；其分布也与VEGF和子宫内膜容受性相关分子-白血病抑制因子(LIF)的表达密切相关[4,17]。因此，PGE可能是调控VEGF的合成，参与子宫内膜容受性建立以及胚胎着床的重要生物活性物质，值得进一步深入研究。
+
+# 参考文献：
+
+[1]Glass CK,Natoli G.Molecular control of activation and priming in macrophages[J].Nat Immunol,2016,17(1): 26-33.   
+[2]Toi M, Matsumoto T, Bando H. Vascular endothelial growth factor: its prognostic,predictive,and therapeutic implications[J].Lancet Oncol,2001,2(11): 667-73.   
+[3]Eichmann A, Simons M. VEGF signaling inside vascular endothelial cells and beyond [J].Curr Opin Cell Biol,2012,24(2): 188-93.   
+[4]Tan W,Chen L,Guo L,et al.Relationship between macrophages in mouse uteri and angiogenesis in endometrium during the periimplantation period[J]. Theriogenology,2014, 82(): 1021-7.   
+[5]NoyR,Pollard JW. Tumor-Associated macrophages:from mechanisms to therapy[J].Immunity,2014,41(1): 49-61.   
+[6]杨光锐,管又飞.前列腺素E合酶的研究进展进展[J].生理学进展,37 (2): 182-6.   
+[7]Kim SO,Harris SM, Duffy DM.Prostaglandin $\mathbf { E } _ { 2 }$ (EP）receptors mediate $\mathrm { P G E } _ { 2 } .$ -specific events in ovulation and luteinization within primate ovarian follicles[J]. Endocrinology,2014,155(4):1466-75.   
+[8]Sakurai T, Tamura K, Kogo H. Stimulatory effects of eicosanoids on ovarian angiogenesis in early luteal phase in cyclooxygenase-2 inhibitor-treated rats[J].Eur JPharmacol,2005,516(2):158-64.   
+[9]Erlebacher A. Immunology of the maternal-fetal interface[J].Annu Rev Immunol, 2013,31(5): 387-411.   
+[10]Murillo MM, Zelenay S,Nye E,et al. RAS interaction with PI3K pl1Oα is required for tumor-induced angiogenesis[J]. JClin Invest, 2014,124(8): 3601-11.   
+[11] Zhang YS,Daaka Y.PGE promotes angiogenesis through EP4 and PKAC gamma pathway[J]. Blood,2011,118(19): 5355-64.   
+[12]Eruslanov E,Daurkin I, Ortiz J,et al.Pivotal advance:tumormediated induction of myeloid-derived suppressor cels and M2- polarized macrophages by altering intracellular PGE2 catabolism in myeloid cells[J].JLeukoc Biol,2010,88(5): 839-48.   
+[13]Mats BS.Localization of leukocyte subsets in the rat ovary during the periovulatory period[J]. Biol Reprod,1993,48(2): 277-86.   
+[14]Care AS,Diener KR,Jasper MJ,et al. Macrophages regulate corpus luteum development during embryo implantation in mice[J]. J Clin Invest,2013,123(8): 3472-87.   
+[15]Cha J,Sun X, Dey SK. Mechanisms of implantation: strategies for successful pregnancy[J]. Nat Med,2012,18(12): 1754-67.   
+[16]Stocco C,Teleria C,Gibori G.The molecular control of corpus luteum formation,function,and regression[J].Endocr Rev,2007,28 (1): 117-49.   
+[17]高瑞花,陈雷宁,谭雯雅,等.围着床期小鼠子宫中巨噬细胞的变化及 作用[J].南方医科大学学报,2015(3):365-9.
+
+(编辑：孙昌朋)

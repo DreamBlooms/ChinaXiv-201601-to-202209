@@ -1,0 +1,501 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201610282197 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈淼,苏晓磊，党成强，高婷,黄慧敏,董蓉,陶建平.三峡水库河流生境评价指标体系构建及应用.生态学报,2017,37（24):8433-844. ChenM,SuXDangCQGogHgR,Taostablistdlcatioofabiaetdexsstoise Three Gorges Reservoir Region.Acta Ecologica Sinica,2017,37(24）:8433-8444. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "三峡水库河流生境评价指标体系构建及应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈淼，苏晓磊,党成强，高 婷,黄慧敏,董 蓉，陶建平\\*西南大学生命科学学院，三峡库区生态环境教育部重点实验室,重庆市三峡库区植物生态与资源重点实验室,重庆400715摘要：三峡水库建成蓄水后,库区支流因水位调度导致河流生境发生了剧烈的变化,消落带的形成使库区河流具有同自然河流截然不同的河流生境,新形势下库区河流生境评价十分必要。国内外现有的评价指标体系及评价方法不能够很好地适应这种特殊生境状况,急需建立或改进并形成新的评价指标体系和评价方法。基于此,分析了大量国内外河流生境评价方法,根据大型水库影响下的库区河流的生态环境特点,构建了包括水文情势、河流形态和河岸带生境3个方面18个指标的库区河流生境评价指标体系,并利用层次分析法(主观赋权法)和熵值法(客观赋权法)结合组合赋权法计算得到了各指标权重。使用新建立的指标体系和方法,以三峡库区支流东溪河、黄金河、汝溪河为例,进行河流生境质量评价发现， $5 2 . 6 \\%$ 的样点河流生境质量处于优等或良好等级； $4 2 . 1 \\%$ 为一般等级； $5 . 3 \\%$ 为较差等级;没有最差等级的样点。结果表明,该评价指标体系适合库区支流河流生境状况的特殊性,得到的评价结果能较直观的反应河流生境状况,且操作便捷,数据易获得,具有较强的科学性和可操作性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：三峡水库；库区河流；生境评价；指标体系 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Establishment and application of a habitat assessment index system of rivers in the Three Gorges Reservoir Region ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CHEN Miao,SU Xiaolei，DANG Chengqiang，GAO Ting，HUANG Huimin，DONG Rong，TAO Jianping\\* KeyLaboratoryfooentinerGorgesesegioofeinsrofducatio，ChginKeyboraoroftod Resources Researchinthe ThreeGorges ReservoirRegion，CollgeofLife Science，Southwest University，Chongqing 4015，hina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:After thecompletionof the Three Gorges Reservoir，regulationof the waterinthereservoir tributaries caused drastic changes in the river habitat， including a greatly reduced flow of water and formation of a $3 0 \\mathrm { ~ m ~ }$ deep water-level fluctuationzone.With such drasticchanges,itis notclear whethertheriverhabitatcan playa positiveand important role in theecosystem healthof the ThreeGorges Reservoir andthe maintenanceof the nrmal functions of thereservoir ecosystem. However，existing evaluation methods cannot be easily adapted to these special habitat conditions；therefore，a new or improved evaluation method is urgently needed.Basedonthe analysisofalarge number of domesticand international river habitat assessment index systems and the characteristics oftheecological environmentof the rivers in thereservoir area，a newriver habitatassessmentindexsystem，including18indicators thatrelatetoriverhydrology，rivermorphology，and the water-levelfluctuationzone habitat，wasconstructed.Thecombination weighing method，whichisbasedon the game theory andcombines asubjective weighing method(the analytic hierarchy processmethod）andan objective weighing method（the entropymethod），was used tocalculate index values.Weconductedriver habitat qualityassessments forthe Dongxi River, HuangjinRiver，andRuxi River,alltributariesoftheThreeGorges Reservoir.The majorityofthehabitats scoredwithin the range of“ excellent”or“very good”. This ranking corresponded with $5 2 . 6 \\%$ of the sampling sites.However, $4 2 . 1 \\%$ received a score within the range of“average”，whereas the remaining $5 . 3 \\%$ received a“poor”score.No site within this catchmentreceivedascoreof“verypoor”.Ourresearch suggests thatthis index systemcanbeusedtoeficientlydetectthe status of river habitats，as it is feasible to operate and it alows easy access to scientifically sound data. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words:Three Gorges Reservoir Region；rivers in reservoir area；habitat assessment；index system ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "河流生境一般是指河流生命物质赖以生存的局地环境[1],也有学者将其定义为河流生态系统中包含生物生存所必需的物理、化学和生物特征的总和[2]。三峡水库建成蓄水后,除库区水体由自然河流的流水型水体变为水库型水体外,库区的回水区域呈现出与建库前不同的冬蓄夏排反季节水位涨落的特点,水位涨落的库岸消落带每年要经历长时间、大深度的水淹,水淹深度最大可达 $3 0 \\mathrm { ~ m ~ }$ ,水淹时间最长可达9个月。同时,处于不同高程的消落带还会受到因自然洪汛和水库水位调度而产生的自然-人为水淹的双重影响,库区河流生境因而表现出同自然河流生境截然不同的状态。水库建成蓄水后,由于库区支流流域的社会经济发展、人类生产生活、支流水电开发等对支流的影响也日益加剧,三峡库区支流生境是否完好,是否仍能对三峡水库生态系统健康和水库生态系统的正常功能维持发挥积极和重要作用目前并不清楚。因此,在新的形势下对三峡库区支流生境质量进行评价，并在评价过程中寻求适合特大型水库消落带特点的评价指标体系及评价方法十分必要。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "至 2000 年欧盟水框架指令[3]发布后,涌现出大量的河流生境评价方法,由于研究目标不同以及研究区域的差异,河流生境评价方法也多种多样[4]。目前使用较为广泛的国外的评价方法包括英国河流生境调查[5-6]、瑞典岸边与河道环境细则[7]、澳大利亚河流状况指数[8]和河流形态结构框架[9]、美国快速生物监测协议[10]、西班牙水文地貌指标[11]和河岸带质量指数[12]等。国外对河流生境评价研究主要集中于物理生境评价、河岸生境评价、形态学评价以及水文情势变化评价[4,前两种评价方法多用于自然状态下河流生境评价，形态学评价关注时间尺度上的河道调整,水文情势变化评价主要是对现有水文数据的处理或模型的使用。国内也有诸多学者对河流生境评价方法进行研究,3-21],但评价对象多为自然状态下河流生境,其方法和评价体系并不适合大型水库影响下的河流生境评价,而对水库蓄水影响下的河流评价的研究,主要以水库水质保护为目标的居多[22],此外还有浮游植物评价[23]、生态系统服务功能评价[24-25]、生态治理效益综合评价[26]、生态脆弱性评价[27]等,少有对具体河流生境评价的研究。以上研究和实践中采用的评价方法和指标体系对于三峡库区河流生境评价有十分重要的指导意义,但鉴于大坝蓄水影响下的三峡库区河流生境的特殊性,本研究拟综合水文情势、河流形态和河岸带生境三个方面的指标,并增加能够反映由于水位调度影响河流生境的指标,构建新的能够综合反映消落带水淹特点的三峡库区河流生境评价指标体系;确立各个层次下的指标评价标准,通过组合赋权计算权重;最后以三峡水库库区河流为例,利用新建立的指标体系和方法,进行河流生境质量评价实证研究,为我国大型水库库区河流生境评价及河流生境管理提供参考及科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1研究区域",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "东溪河、黄金河、汝溪河为三峡库区忠县至万州段的3条长江一级支流。东溪河发源于石柱土家族自治县万朝乡境内,流经东溪镇,最后经钟溪村注入长江,全流域面积 $1 3 9 . 9 \\ \\mathrm { k m } ^ { 2 }$ ,库区境内长度 $3 2 . 1 ~ \\mathrm { k m }$ 。黄金河发源于梁平县柏家镇境内,流经黄金镇,经大面村注入长江,全流域面积 $9 5 8 . 0 ~ \\mathrm { k m } ^ { 2 }$ ,库区境内长度 $7 1 . 2 ~ \\mathrm { k m }$ 。汝溪河发源于万州区分水镇三角函,流经培文镇,在梁平县境内和汝溪河另一支流交汇,流经忠县汝溪镇，最后经忠县石宝镇注入长江，全流域面积 $7 2 0 . 0 \\ \\mathrm { k m } ^ { 2 }$ ,库区境内长度 $5 4 . 5 ~ \\mathrm { k m }$ 。气候类型属中亚热带湿润季风气候,受峡谷地形影响十分显著。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2样点设置及调查方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "于2015年8月19日—30日对三峡库区忠县至万州段的3条库区河流东溪河、黄金河、汝溪河进行野外调查，共选取19个样点，其中在东溪河选取7个样点（DX1—DX7);黄金河选取5个样点（HJ1—HJ5)；汝溪河选取7个样点（RX1—RX7)（图1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数据均通过野外调查获得，调查时间避开蓄水期及洪水期,在平水期进行。通过实地考察、采访当地群众，确定 $1 4 5 \\mathrm { ~ m ~ }$ 及 $1 7 5 \\mathrm { ~ m ~ }$ 回水区位置。以 $5 0 0 \\mathrm { ~ m ~ }$ 的河段为调查单位，从下游往上游步行,调查、测量和记录河流水文、河流形态、河岸带生境的各个指标。河床底质种类数量调查及计算方法：沿断面或水边每前进 $1 5 \\mathrm { ~ m ~ }$ 用金属棒垂直插向河床上脚尖附近位置，测量金属棒首次触到的石块的A轴和B轴的长度。如果是沙或淤泥则不用测量，只进行记录。共计30个采样点。在水深过深的断面，由于无法获取底质，底质可以在河流水位最低时，以河岸带接近水面的基质构成来代表底质情况。河流样点底质颗粒大小由 $5 0 \\%$ 的累计颗粒度百分比对应的长度或中值直径大小表示。底质受泥沙覆盖率调查及计算方法：调查河床底质的同时，使用目测法确定该颗粒物受泥沙覆盖率，则所有调查的颗粒物的泥沙覆盖率的平均值为该断面底质受泥沙覆盖率。表层覆盖物状况在野外打分的过程中，覆盖物种类数量和覆盖面积比例各占一半的分值。同时使用GPS记录每个样点经纬度坐标并拍摄照片。由于河流的左右岸的形态、植被等特征不一，所以河岸带生境中各指标分别记录左右岸情况,各指标分值取左右岸的平均值。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7701e6332ab0d1386d6c7b064d5fecece053e50b8a1c3ac1e9a516a26de3aa5e.jpg",
+        "img_caption": [
+            "图1研究区样点分布图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Distributions of sampling sites in Dongxi River,Huangjin River，andRuxiRiver   \nRX1:龙滩大桥;RX2;涂井中学;RX3：涂井场;RX4:长溪;RX5：团 堡；RX6:骆马;RX7：金狮村；HJ1：大面村;HJ2：黄金镇;HJ3：双汇； HJ4：均房；HJ5：盐井；DX1：钟溪；DX2：龙潭；DX3：兴旺；DX4：对 河；DX5：华兴；DX6：白河；DX7：陡岩 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 数据分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用Excel进行层次分析法及熵值法的权重计算；使用 MATLAB7.0进行组合赋权法的权重计算。使用 SPSS 22.0 对河流生境质量的18个评价指标进行Pearson 相关性分析,分析评价指标之间的相关性。运用主成分分析方法（PCA）确定评价指标对河流生境质量的贡献率，找出影响河段生境评估的主导评价因子。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1评价指标体系",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "水文情势的变化被认为是对物理生存条件极有价值的预测器,继而在不同尺度上都对河流生态系统的生物组成、分布和进化产生重要影响[28-29]。三峡水库的建设直接改变了库区河流的水文情势,使河流的流量、流速和河道结构均发生改变,对水生生物的生存带来严重影响。流态的改变导致水力水质条件变化,其直接影响鱼类的集群结构和种群多样性;流速描述河流的能量变化,对于营养物质和含氧量的输送交换起主导作用,同时也直接关系到鱼类的繁殖、产卵、生长、捕食等生命过程[30]。湿润率为平均河宽与满水河宽之比,可以一定程度上反应某一段河道横切面的地形特征以及该河段的水量变化程度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "大型水库蓄水对库区河流河道结构的改变也十分明显,主要表现在两方面：一是自然河流的渠道化;二是自然河流的非连续化[31]。大型水库的运行会改变河流的泥沙循环,水库会捕获大量运往下游的泥沙,导致泥沙大量淤积,生境多样性降低[32]。河床底质为底栖生物提供栖息环境,直接影响其生存和繁衍,丰富的河床",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "底质可以为河流生物提供多样的栖息地。除此之外,河流表层覆盖物通常为漂石、木质残体以及悬垂植被,能为水生动物提供栖息地，为鱼类提供避难场所和排卵的附着地，而由于大型水库蓄水的影响,覆盖物往往会被除去,导致河流的生态异质性得不到有效保障[30]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "水库大坝的修建及运行对河岸带生态系统的影响极其明显[33]。大型水库蓄水导致原有河岸带丧失以及新的河岸带形成[33],且由于季节性蓄水造成河岸带周期性的出露和淹没,使河岸带植被和土壤结构遭到破坏,导致河岸带群落出现新的演替。河岸类型是决定河岸带稳定性的主要因素,不同类型的河岸带结构发生滑坡、崩塌的情况不同，通过调查不同的河岸类型，可以揭示河岸带的结构稳定性程度。河岸带宽度及土壤厚度对过滤污染物、提供陆生生境以及景观等生态效应具有重要的影响。大型水库蓄水形成的河岸带只有经过30 年的发展才会形成新的平衡[33],在早期阶段具有较低的物种多样性,而河岸带的植被状况和特点是最为直观和最易获得的指标,也最能直接反映该样点整体的生态系统状况从而考察其生态功能强弱[34]。河岸带植被的连续性、完整性和覆盖度等现状直接影响河流生态系统的健康、生态系统中生物多样性及生物在生态系统中发挥的生态功能。 ）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于影响河流生境的众多因素具有明显的层次性[14],河流生境评价指标体系可以分为以下3个层次：目标层、准则层、指标层[35]。以河流生境评价为目标层,以水文情势、河流形态、河岸带生境为准则层,以各准则层的分类特性和特征为指标层构建指标体系（图2）。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/036928925f2e9b699f748dc6dc526badf90787288a2ec1e79d5cf2735c9f6b31.jpg",
+        "img_caption": [
+            "图2河流生境评价指标体系",
+            "Fig.2The river habitat assessment index system "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2评价指标标准化与评价标准",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在多指标综合评价中,由于各指标所代表的物理涵义不同,存在着量纲上的差异,无法直接用于评价。这种异量纲是影响对事物整体评价的主要因素,所以必须对指标数据进行标准化处理,以解决参数不可比的问题[27]。本研究采用分等级赋值法对各指标进行赋值,具体评价标准见表1。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 权重的确定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "确定指标权重的方法主要有主观赋权法和客观赋权法[36-37]。但不论是主观赋权法还是客观赋权法都有其优缺点[38]。为兼顾决策者对属性的偏好,同时又力争减少赋权的主观随意性,使决策结果更加真实可靠,有关专家提出了一种综合主观赋权法和客观赋权法的方法,即组合赋权法[38]。组合赋权法是基于博弈论的组合赋权思想,利用主观赋权法与客观赋权法相结合得到的组合赋权法来计算权重,既避免了主观赋权法的主观性,又避免了客观赋权法的绝对客观性,在很大程度上克服了二者的不足,是一种较为理想的河流生境质量评价手段。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究使用层次分析法和熵值法分别计算指标体系的权重,然后通过组合赋权法确定最终权重。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/e9febb23ac9af166105cc62aaf751ac44ae93d09a8efbcc0eb7860786f4fb918.jpg",
+        "table_caption": [
+            "表1河流生境评价指标与评价标准",
+            "Table1 Indicators and their criteria for assessment of river habitat quality "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号 Number</td><td colspan=\"3\">评价指标 Assessing indicator</td><td colspan=\"2\">评分标准 Scoring criteria</td></tr><tr><td>1</td><td>水文情势自然性 (C11)</td><td>流量仅有轻微改变</td><td>有水文节律的改变， 但是季节节律仍保 持其很好的特性</td><td>有水文节律的改变， 但是对季节节律仅 有稍微明显的改变</td><td>在某个时期有流量 有一个非常重要的流量改 的明显改变,意味着 变,其扭转了季节节律或产 季节节律的倒置 生了一个恒定的环境流量</td></tr><tr><td>2</td><td>流速流态状况</td><td>有4种及以上流态 类型,流速流态变化 很大,有较多的流速</td><td>有3种流态类型，不 同断面流速流态变</td><td>有2种流态类型，不 流速缓慢,各断面流 同断面流速流态变</td><td>水体基本不流动</td></tr><tr><td>3</td><td>(C12) 表观水质(C13)</td><td>缓急不同的区域 清澈透明、无异味</td><td>化较大 轻微浑浊、少量异味</td><td>化一般 速无变化</td><td></td></tr><tr><td>4</td><td>水量(C14)</td><td>水位达到两岸,仅有</td><td>水覆盖75%,<25%</td><td>比较浑浊、较大异味 水覆盖75%，<50%</td><td>很浑浊、很大异味 极端浑浊、恶臭味 水覆盖25%，浅滩 水量很少,几乎全部裸露</td></tr><tr><td>5</td><td>湿润率(C15)</td><td>少量底质裸露 0.8-1</td><td>底质裸露 0.6-0.8</td><td>底质裸露 大部分裸露 0.4-0.6 0.2—0.4</td><td>0-0.2</td></tr><tr><td>6</td><td>人为影响长度</td><td><50 m</td><td>50—100 m</td><td>100—200 m 200—300 m</td><td>>300m</td></tr><tr><td>7</td><td>(C21) 河床底质种类数量</td><td>>4</td><td>4 3</td><td>2</td><td>1</td></tr><tr><td>8</td><td>(C22) 底质受泥沙覆盖率</td><td><20%</td><td>20%-40%</td><td>40%-60% 60%-80%</td><td>80%-100%</td></tr><tr><td>9</td><td>(C23) 表层覆盖物(C24)</td><td>覆盖物种类超过3 种,覆盖面积比例</td><td>3种覆盖物，覆盖面2种覆盖物，覆盖面</td><td>1种覆盖物,覆盖面</td><td>无覆盖</td></tr><tr><td>10</td><td>河岸类型(C31)</td><td>>20% 自然原型</td><td>积10%-20% 近自然型</td><td>积0-10% 积<5% 抛石/土堤挡墙/混 堆石/浆砌石块/干</td><td>混凝土固化</td></tr><tr><td>11</td><td>河岸侵蚀程度</td><td>无侵蚀</td><td>仅在弯曲或狭窄的 坡脚侵蚀频繁</td><td>凝土栅格植被 砌石块 岸坡侵蚀严重</td><td>河岸坍塌</td></tr><tr><td>12</td><td>(C32) 河岸坡度(C33)</td><td>0-15</td><td>地方有侵蚀 15--30 30-45</td><td>45-60</td><td>60-90</td></tr><tr><td>13</td><td>河岸带宽度(C34)</td><td>>河宽1倍</td><td>河宽0.5-1倍 河宽0.25—0.5倍</td><td>河宽0.1—0.25倍</td><td>河宽0—0.1倍</td></tr><tr><td>14</td><td>河岸带土壤厚度 (C35)</td><td>>100 cm</td><td>30—100 cm 10-30 cm</td><td><10 cm</td><td>无土壤</td></tr><tr><td>15</td><td>植被覆盖率(C36)</td><td>>75% 50%-75%</td><td>25%-50%</td><td>5%-25%</td><td>0-5%</td></tr><tr><td>16</td><td>植被连续性(C37)</td><td>连续均匀分布 半连续分布</td><td>丛块分布</td><td>单独零散分布</td><td>无植被</td></tr><tr><td>17</td><td>植被结构完整性 (C38)</td><td>乔灌草繁茂 繁茂</td><td>任意一种或两种 任意两种稀疏</td><td>只有一种稀疏</td><td>无植被</td></tr><tr><td></td><td>岸边带土地利用方</td><td>不受干扰的林地、灌</td><td>林地、灌丛、草地、自</td><td></td><td></td></tr><tr><td>18 式（C39) 赋予分值 Score</td><td></td><td>丛、草地、自然湿地 作物 5</td><td>然湿地,有少量农</td><td>耕地与林地、灌丛、 耕地/果园 草地、自然湿地交错</td><td>裸地/城镇/公园</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.1层次分析法计算权重",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "层次分析法（Analytic Hierarchy Process,AHP）,是对方案的多指标系统进行分析的一种层次化、结构化决策方法,它将决策者对复杂系统的决策思维过程模型化、数量化。根据 AHP 分析方法要求,研究设计了大型水库库区河流生境评价指标权重系数问卷表,邀请北京林业大学、北京师范大学、中国环境科学研究院、青岛大学、南京大学、沈阳大学、四川大学、重庆大学、华东师范大学、重庆师范大学、西南大学等单位的河流生境评价专家以及生态环境相关专家,通过两两比较确定相对重要性并给出判断值,依此构建矩阵,结果经一致性检验,将 $C R { > } 0 . 1$ 的矩阵剔除,取 $C R { < } 0 . 1$ 即判断矩阵具有满意的一致性的矩阵进行计算,得到以下结果（表2）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "http ://www.ecologica.cn ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 熵值法计算权重 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "熵值法作为一种综合评价方法,它主要是根据各指标传递给决策者的信息量大小确定权重,有效地避免了人为因素的干扰,使评价结果更符合实际[38,39]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究通过对三峡库区36条库区河流的254个河段进行河流生境调查,使用调查所得的数据进行熵值法赋权,得到的结果如下（表2）。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/245d23b57c03606b967f742e5f717134ed36278c9f7e030dd7e26de2ea0ba716.jpg",
+        "table_caption": [
+            "表2河流生境评价指标体系权重值(层次分析法和熵值法)",
+            "Table 2Weight value of river habitat assessment index system（AHP and the entropy method) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"4\">权重Weight</td><td colspan=\"4\">权重Weight 熵值法</td></tr><tr><td>目标层 Objective level</td><td>准则层 Normal level</td><td>层次分析法 AHP</td><td>熵值法 The entropy method</td><td>指标层 Index level</td><td>层次分析法 AHP</td><td colspan=\"4\"></td></tr><tr><td>河流生境评价</td><td>水文情势(B1)</td><td>0.4521</td><td></td><td>0.1769</td><td>水文情势自然性(C11)</td><td>0.1362</td><td>method</td><td>0.4069</td></tr><tr><td>River habitat</td><td></td><td></td><td></td><td>流速流态状况(C12)</td><td></td><td>0.1233</td><td></td><td>0.4282</td></tr><tr><td>assessment （A)</td><td></td><td></td><td></td><td></td><td>表观水质(C13)</td><td>0.2382</td><td></td><td>0.0453</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>水量(C14)</td><td>0.2962</td><td></td><td>0.0386</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>湿润率(C15)</td><td>0.2061</td><td></td><td>0.0809</td></tr><tr><td></td><td>河流形态(B2)</td><td>0.2694</td><td></td><td>0.6222</td><td>人为影响长度(C21)</td><td>0.3479</td><td></td><td>0.0378</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>河床底质种类数量(C22)</td><td>0.2640</td><td></td><td>0.2758</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>底质受泥沙覆盖率（C23）</td><td>0.2276</td><td></td><td>0.2656</td></tr><tr><td></td><td></td><td></td><td></td><td>表层覆盖物状况(C24)</td><td></td><td>0.1605</td><td></td><td>0.4208</td></tr><tr><td></td><td>河岸带</td><td>0.2785</td><td>0.2009</td><td>河岸类型(C31)</td><td></td><td>0.1348</td><td></td><td>0.0497</td></tr><tr><td></td><td>生境(B3)</td><td></td><td></td><td>河岸侵蚀程度(C32)</td><td></td><td>0.0775</td><td></td><td>0.0626</td></tr><tr><td></td><td></td><td></td><td></td><td>河岸坡度(C33)</td><td></td><td>0.0626</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>河岸带宽度(C34)</td><td></td><td></td><td></td><td>0.1006</td></tr><tr><td></td><td></td><td></td><td></td><td>●河岸带土壤厚度(C35)</td><td>0.0897</td><td></td><td></td><td>0.3340</td></tr><tr><td></td><td></td><td></td><td></td><td>植被覆盖率(C36)</td><td>0.0468</td><td></td><td></td><td>0.1080</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>0.1855</td><td></td><td></td><td>0.0971</td></tr><tr><td></td><td></td><td></td><td></td><td>植被连续性(C37)</td><td>0.1160</td><td></td><td></td><td>0.0477</td></tr><tr><td></td><td></td><td></td><td></td><td>植被结构完整性(C38)</td><td>0.1580</td><td></td><td></td><td>0.0516</td></tr><tr><td></td><td></td><td></td><td></td><td>岸边带土地利用方式(C39)</td><td>0.1291</td><td></td><td>0.1486</td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.3 组合赋权法确定指标权重",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "组合赋权的实质是通过一定的算式,将多种方法赋权的结果综合在一起,以得到一个更为客观合理的权重值,具体计算步骤参考山成菊、李俊玲、陈家良[38.4041]等人的文献。计算结果如下（表3)：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4评价方法",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "河流生境状况评分方法：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1)每项评价指标采用5分制的评分标准进行赋分,生境状况越好,分值越高。 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）一级指标(即准则层)评分利用加权平均法对二级指标(即指标层)得分进行计算,所得结果作为一级指标的得分，计算公式如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB _ { n } = \\sum _ { i = 1 } ^ { n } f _ { i } \\times w _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中： $B _ { n }$ 为一级指标得分， $f _ { i }$ 为二级指标得分， $\\boldsymbol { w } _ { i }$ 为指标权重。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3)利用加权平均法对一级指标得分进行计算,得到河流生境质量指数(index of stream habitat quality,简称 ISHQ)总得分,为便于区分样点间得分的差异,将总得分乘以10,计算公式如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI S H Q = \\sum _ { i = 1 } ^ { n } B _ { { n } } \\times w _ { i } \\times 1 0\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中： $B _ { n }$ 为一级指标得分， $\\boldsymbol { w } _ { i }$ 为指标权重。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "http ://www.ecologica.cn ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/028c946f640c9d20d97029ce27088458a8f9bf6c89bca982b7b0b78072331858.jpg",
+        "table_caption": [
+            "Table 3Weight value of river habitat assessment index system（the combination weighting method） "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>目标层 Objective level</td><td>准则层 Normal level</td><td>权重 Weight</td><td>指标层 Index level</td><td>权重 Weight</td><td>综合权重 Comprehensive weight</td><td>排序 Sort</td></tr><tr><td>河流生境评价</td><td>水文情势(B1)</td><td>0.3019</td><td>水文情势自然性(C11)</td><td>0.3024</td><td>0.0913</td><td>5</td></tr><tr><td>River habitat</td><td></td><td></td><td>流速流态状况(C12)</td><td>0.3105</td><td>0.0937</td><td>4</td></tr><tr><td>assessment （A)</td><td></td><td></td><td>表观水质(C13)</td><td>0.1198</td><td>0.0362</td><td>10</td></tr><tr><td></td><td></td><td></td><td>水量(C14)</td><td>0.1381</td><td>0.0417</td><td>8</td></tr><tr><td></td><td></td><td></td><td>湿润率(C15)</td><td>0.1292</td><td>0.0390</td><td>9</td></tr><tr><td></td><td>河流形态(B2)</td><td>0.4619</td><td>人为影响长度(C21)</td><td>0.1819</td><td>0.0840</td><td>6</td></tr><tr><td></td><td></td><td></td><td>河床底质种类数量(C22)</td><td>0.2703</td><td>0.1249</td><td></td></tr><tr><td></td><td></td><td></td><td>底质受泥沙覆盖率(C23)</td><td>0.2480</td><td>0.1145</td><td></td></tr><tr><td></td><td></td><td></td><td>表层覆盖物状况(C24)</td><td>0.2999</td><td>0.1385</td><td>3 1</td></tr><tr><td></td><td>河岸带</td><td>0.2362</td><td>河岸类型(C31)</td><td>0.0870</td><td>0.0206</td><td>14</td></tr><tr><td></td><td>生境(B3)</td><td></td><td>河岸侵蚀程度(C32)</td><td>0.0692</td><td>0.0163</td><td>18</td></tr><tr><td></td><td></td><td></td><td>河岸坡度(C33)</td><td>0.0839</td><td>0.0198</td><td>15</td></tr><tr><td></td><td></td><td></td><td>河岸带宽度(C34)</td><td>0.2268</td><td>0.0536</td><td>7</td></tr><tr><td></td><td></td><td></td><td>河岸带土壤厚度(C35)</td><td>0.0812</td><td>0.0192</td><td>16</td></tr><tr><td></td><td></td><td></td><td>植被覆盖率(C36)</td><td>0.1359</td><td>0.0321</td><td>12</td></tr><tr><td></td><td></td><td></td><td>植被连续性(C37)</td><td>0.0777</td><td>0.0183</td><td>17</td></tr><tr><td></td><td></td><td></td><td>植被结构完整性（C38）</td><td>0.0983</td><td>0.0232</td><td>13</td></tr><tr><td></td><td></td><td></td><td>岸边带土地利用方式(C39)</td><td>0.1400</td><td>0.0331</td><td>11</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（4)参照 An 以及郑丙辉、王建华等采用的生境质量分级方法[1,13,42],即根据 ISHQ 分值的分布范围（本研究最终得分范围是10—50）,小于 $2 5 \\%$ 分位数值的为优等,介于 $2 5 \\%$ 和 $4 0 \\%$ 之间的为良好,介于 $4 0 \\%$ 和 $5 5 \\%$ 之间的为一般,介于 $5 5 \\%$ 和 $70 \\%$ 之间的为较差，大于 $70 \\%$ 分位值的为最差,将河流生境质量划分为5个等级（表4）。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/3e74ef3ddb654d75887d57512f6d36ea3c76d7d0940bad830b7ca7e315c353d1.jpg",
+        "table_caption": [
+            "表3河流生境评价指标体系权重值(组合赋权法)",
+            "表4河流生境质量分级标准",
+            "Table 4Classification criteria of stream habitat quality "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>河流生境质量分级 Class of stream habitat quality</td><td>频数分布/% Frequency distribution</td><td>分级标准 Classification criteria</td></tr><tr><td>优等 Excellent</td><td><25</td><td>>37.5</td></tr><tr><td>良好Good</td><td>25—40</td><td>30<ISHQ≤37.5</td></tr><tr><td>一般Fair</td><td>40-55</td><td>22.5<ISHQ≤30</td></tr><tr><td>较差 Poor</td><td>55—70</td><td>15<ISHQ≤22.5</td></tr><tr><td>最差Very poor</td><td>>70</td><td>≤15</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1评价指标相关性分析 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Pearson 相关性分析表明,河流生境评价指标之间存在较显著的相关性(表5）。因此,需要对河流生境评价指标进行主成分分析，以验证评价指标选择的合理性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/9bacf61a6e23da8d7e205a53dfd1d83430f64e12422439cd6a7659960274c3fe.jpg",
+        "table_caption": [
+            "Pnerreegr ernlrreerear rnererlnererir eerrr ",
+            "-：W/HIAAH_I Hr /5 ￥表’\"·：）",
+            "10.0>d \\*‘10'O>d \\* \\* \\* "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>评价指标 Evaluating indicator</td><td>C11</td><td>C12</td><td>C13</td><td>C14</td><td>C15</td><td>C21</td><td>C22</td><td>C23</td><td>C24</td><td>C31</td><td>C32</td><td>C33</td><td>C34</td><td>C35</td><td>C36</td><td>C37</td><td>C38</td><td>C39</td></tr><tr><td>C12</td><td>-0.191</td><td>1</td><td></td><td colspan=\"6\"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>C13</td><td>0.955**</td><td>-0.205</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>C14</td><td>-0.633 **</td><td>-0.146</td><td>-0.648 **</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>C15</td><td>-0.323</td><td>0.272</td><td>-0.363</td><td>0.302</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>C21</td><td>-0.272</td><td>0.390</td><td>-0.239</td><td>0.352</td><td>-0.011</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>C22</td><td>0.543 *</td><td>0.060</td><td>0.630 ** -0.408</td><td></td><td>-0.123</td><td>-0.164</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>C23</td><td>0.566 *</td><td>0.015</td><td>0.542 *</td><td>-0.635 **-0.307</td><td></td><td>-0.403</td><td>0.292</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>C24</td><td>0.601**</td><td>-0.267</td><td>0.588 **-0.289</td><td></td><td>-0.408</td><td>-0.175</td><td>0.157</td><td>0.328</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>C31</td><td>0.168</td><td>0.191</td><td>0.018</td><td>-0.200</td><td>-0.464 *</td><td>0.341</td><td>-0.327</td><td>0.151</td><td>0.268</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>C32</td><td>0.591**</td><td>-0.336</td><td>0.519 *</td><td>-0.328</td><td>-0.021</td><td>-0.284</td><td>0.535 *</td><td>0.148</td><td>0.297</td><td>0.002</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>C33</td><td>0.298</td><td>-0.237</td><td>0.243</td><td>-0.315</td><td>0.189</td><td>-0.219</td><td>0.356</td><td>-0.010</td><td>-0.196</td><td>-0.030</td><td>0.730**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>C34</td><td>0.414</td><td>-0.087</td><td>0.342</td><td>-0.470 *</td><td>-0.577 **-0.100</td><td></td><td>-0.222</td><td>0.582 **</td><td>0.420</td><td>0.555*</td><td>0.043</td><td>-0.163</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>C35</td><td>-0.697**</td><td>0.179</td><td>-0.776**</td><td>0.567 *</td><td>0.552 *</td><td>0.324</td><td>-0.579 ** -0.458 *</td><td></td><td>-0.581**</td><td>-0.036</td><td>-0.333</td><td>0.019</td><td>-0.281</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>C36</td><td>0.201</td><td>0.103</td><td>0.240</td><td>-0.221</td><td>0.036</td><td>0.355</td><td>0.289</td><td>0.056</td><td>0.068</td><td>-0.106</td><td>0.386</td><td>0.240</td><td>0.070</td><td>0.050</td><td>1</td><td></td><td></td><td></td></tr><tr><td>C37</td><td>0.131</td><td>0.194</td><td>0.160</td><td>-0.140</td><td>0.353</td><td>0.353</td><td>0.400</td><td>-0.150</td><td>-0.188</td><td>-0.195</td><td>0.519 *</td><td>0.522 *</td><td>-0.305</td><td>0.184</td><td>0.793 **1</td><td></td><td></td><td></td></tr><tr><td>C38</td><td>0.239</td><td>-0.259</td><td>0.154</td><td>0.090</td><td>-0.148</td><td>0.284</td><td>0.000</td><td>-0.257</td><td>-0.145</td><td>0.208</td><td>0.321</td><td>0.449</td><td>-0.035</td><td>-0.027</td><td>0.253</td><td>0.306</td><td>1</td><td></td></tr><tr><td>C39</td><td>0.139</td><td>0.265</td><td>0.127</td><td>-0.108</td><td>-0.343</td><td>0.567 *</td><td>0.154</td><td>0.113</td><td>0.214</td><td>0.438</td><td>0.110</td><td>-0.197</td><td>0.288</td><td>-0.068</td><td>0.381</td><td>0.297</td><td>-0.014</td><td>1</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2评价指标的主成分分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "主成分分析的结果见表10：特征值 $> 1 . 0$ 的主成分有5个，方差累计贡献率达到 $8 0 . 4 1 7 \\%$ ,说明前五个主成分对河流生境质量起到绝对作用,能够反映绝大部分信息。从评价指标的载荷上来看（表6),第1主成分主要反映C11、C12、C14、C23、C24、C32、C35 等指标,第2个主成分主要反映C33、C36、C37的3个指标，第3—5个主成分主要反映C21、C31、C39、C13、C38等指标。通过PCA分析,可以发现河流生境评价指标能够较好的反映调查河段河流生境特征,无明显冗余。PCA 分析结果信息与 Pearson 相关性分析的信息有一定差异,原因在于评价指标反映的是河流生态系统不同空间位置的生境结构,这些生境结构密切相关,但是评价指标之间不具有可替代性[16]。以流态和河床底质为例,流速越快,河床底质颗粒一般越大。调查河段中流态类型越多,与之相应的河床底质类型也就越多,但是显然流态的生态功能是不能被底质替代的[16]。基于此,可以认为任何一项评价指标的缺失将影响对河流生境状况的真实反映能力。因此可以认为本研究中河流生境评价指标的选择是合理的。 ：",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/2ff594cd39feeae092c9cdda65299165cdb276a9ea519d929a3e4cc677667742.jpg",
+        "table_caption": [
+            "表6评价指标的主成分载荷矩阵",
+            "Table 6Principal component analysis result of assessing indicator "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">评价指标 Assessing indicator</td><td colspan=\"4\">主成分 Principal component</td><td colspan=\"2\"></td></tr><tr><td>1</td><td>2</td><td>3</td><td></td><td>4</td><td>5</td></tr><tr><td>C11</td><td>0.924</td><td>0.067</td><td>-0.026</td><td></td><td>0.049</td><td>-0.018</td></tr><tr><td>C12</td><td></td><td>0.922 0.083</td><td>-0.061</td><td></td><td>-0.055</td><td>-0.158</td></tr><tr><td></td><td>C13</td><td>-0.225</td><td>0.024</td><td>0.445</td><td>-0.668</td><td>0.238</td></tr><tr><td>C14</td><td></td><td>-0.758 0.023</td><td></td><td>-0.016</td><td>0.290</td><td>-0.422</td></tr><tr><td>C15</td><td></td><td>-0.511</td><td>0.492</td><td>-0.279</td><td>-0.305</td><td>0.209</td></tr><tr><td></td><td>C21</td><td>-0.335</td><td>0.171</td><td>0.830</td><td>0.042</td><td>-0.247</td></tr><tr><td>C22</td><td></td><td>0.599</td><td>0.451</td><td>-0.147</td><td>-0.376</td><td>-0.312</td></tr><tr><td>C23</td><td></td><td>0.660</td><td>-0.315</td><td>-0.058</td><td>-0.331</td><td>0.340</td></tr><tr><td>C24</td><td></td><td>0.636 -0.341</td><td></td><td>0.058</td><td>0.065</td><td>-0.342</td></tr><tr><td>C31</td><td>0.191</td><td>-0.396</td><td>0.627</td><td></td><td></td><td>0.334</td></tr><tr><td>C32</td><td>0.625</td><td>0.572</td><td></td><td></td><td>0.347</td><td></td></tr><tr><td>C33</td><td>0.299</td><td>0.696</td><td></td><td>-0.105</td><td>0.248</td><td>0.060</td></tr><tr><td>C34</td><td>0.509</td><td>-0.553</td><td></td><td>-0.211</td><td>0.317</td><td>0.421</td></tr><tr><td>C35</td><td>-0.801</td><td>0.209</td><td>0.327</td><td></td><td>0.148</td><td>0.364</td></tr><tr><td>C36</td><td>0.260</td><td>0.600</td><td>0.165</td><td></td><td>0.073</td><td>0.336</td></tr><tr><td>C37</td><td>0.113</td><td></td><td>0.476</td><td></td><td>-0.135</td><td>-0.024</td></tr><tr><td>C38</td><td>0.122</td><td>0.891</td><td>0.330</td><td></td><td>-0.152</td><td>0.044</td></tr><tr><td>C39</td><td></td><td>0.419</td><td>0.214</td><td></td><td>0.711</td><td>-0.004</td></tr><tr><td>特征值 Characteristic valueO</td><td>0.220</td><td>-0.009</td><td>0.814</td><td></td><td>-0.148</td><td>-0.192</td></tr><tr><td></td><td>5.465</td><td>3.350</td><td>2.625</td><td></td><td>1.765</td><td>1.271</td></tr><tr><td>方差贡献率 Variance contribution rate/% 累积贡献率 Cumulative contribution rate/%</td><td>30.360 30.360</td><td>18.611 48.970</td><td></td><td>14.581 63.551</td><td>9.805 73.356</td><td>7.061 80.417</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3河流生境质量评价",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "三峡库区忠县至万州段库区河流东溪河、黄金河、汝溪河19个样点的河流生境质量指数分值介于 22—42之间（表7）。根据上述河流生境质量分级标准,在19个样点中有10个样点的生境质量处于优等或良好等级，占 $5 2 . 6 \\%$ ;8 个样点为一般等级,占 $4 2 . 1 \\%$ ;1个样点为较差等级,占 $5 . 3 \\%$ ;没有最差等级的样点（表7）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "河流生境质量良好等级的样点均处于河流的上游,属于三峡库区非回水区,不受水库蓄水影响,平均水深较浅,河床底质种类数量多,流态类型多样,且自然植被覆盖率高，人为干扰较少。较差等级的样点仅有龙滩大桥(RX1),位于河流下游,接近入江口,受水库蓄水影响,河面加宽,流速缓慢,流态类型单一,河床底质多为细沙或淤泥。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "http ://www.ecologica.cn ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/1d76c478f9c6d21cfa52bf58f1520bb51ce4edf02e2983df56a321c4e9e80c80.jpg",
+        "table_caption": [
+            "表7东溪河、黄金河、汝溪河河流生境质量评价结果",
+            "Table7Result of river habitat quality assessment in the Dongxi River，Huangjin River and Ruxi River "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>样点编号 Sample number</td><td>样点名称 Sample name</td><td>经纬度 Latitude and longitude</td><td>B1</td><td>B2</td><td>B3</td><td>河流生 境质量指数 ISHQ</td><td>河流生境质量分级 Class of stream habitat quality</td></tr><tr><td>RX1</td><td>龙滩大桥</td><td>N30°25'25.5\"E108°07'45.0\"</td><td>6.6</td><td>8.0</td><td>7.3</td><td>21.9</td><td>较差</td></tr><tr><td>RX2</td><td>涂井中学</td><td>N30°26'36.2\"E108°06'54.5\"</td><td>5.4</td><td>9.4</td><td>8.5</td><td>23.3</td><td>一般</td></tr><tr><td>RX3</td><td>涂井场</td><td>N30°26'06.9\"E108°07'17.9\"</td><td>7.9</td><td>9.1</td><td>9.4</td><td>26.4</td><td>一般</td></tr><tr><td>RX4</td><td>长溪</td><td>N30°28'31.9\"E108°05'29.9\"</td><td>13.9</td><td>11.7</td><td>7.5</td><td>33.2</td><td>良好</td></tr><tr><td>RX5</td><td>团堡</td><td>N30°32'11.4\"E108°01'09.6\"</td><td>9.2</td><td>8.0</td><td>10.0</td><td>27.2</td><td>一般</td></tr><tr><td>RX6</td><td>骆马</td><td>N30°35'30.8\"E107°58'48.0\"</td><td>12.4</td><td>9.4</td><td>10.5</td><td>32.2</td><td>良好</td></tr><tr><td>RX7</td><td>金狮村</td><td>N30°38'09.8\"E107°58'06.0\"</td><td>12.4</td><td>15.1</td><td>10.6</td><td>38.1</td><td>优秀</td></tr><tr><td>HJ1</td><td>大面村</td><td>N30°19'00.4\"E10802'42.7\"</td><td>7.3</td><td>8.0</td><td>7.6</td><td>22.9</td><td>一般</td></tr><tr><td>HJ2</td><td>黄金镇</td><td>N30°22'16.6\"E107°59'50.6\"</td><td>10.8</td><td>10.0</td><td>7.4</td><td>28.2</td><td>一般</td></tr><tr><td>HJ3</td><td>双汇</td><td>N30°23'18.8\"E107°59'44.2\"</td><td>13.6</td><td>14.4</td><td>8.7</td><td>36.6</td><td>良好</td></tr><tr><td>HJ4</td><td>均房</td><td>N30°27'11.5\"E107°58'07.4\"</td><td>13.9</td><td>11.8</td><td>9.7</td><td>35.4</td><td>良好</td></tr><tr><td>HJ5</td><td>盐井</td><td>N30°29'12.6\"E107°56'11.5\"</td><td>13.5</td><td>12.8</td><td>8.0</td><td>34.4</td><td>良好</td></tr><tr><td>DX1</td><td>钟溪</td><td>N30°17'13.5\"E108°03'13.0\"</td><td>7.3</td><td>8.0</td><td>7.5</td><td>22.8</td><td>一般</td></tr><tr><td>DX2</td><td>龙潭</td><td>N30°16'17.2\"E108°04'11.4\"</td><td>6.9</td><td>11.5</td><td>8.5</td><td>27.0</td><td>一般</td></tr><tr><td>DX3</td><td>兴旺</td><td>N30°15'49.2\"E108°04'41.1\"</td><td>7.3</td><td>8.0</td><td>8.2</td><td>23.5</td><td>一般</td></tr><tr><td>DX4</td><td>对河</td><td>N30°14'31.9\"E108°04'21.8\"</td><td>13.1</td><td>14.2</td><td>9.7</td><td>37.0</td><td>良好</td></tr><tr><td>DX5</td><td>华兴</td><td>N30°13'32.4\"E108°05'13.0\"</td><td>13.5</td><td>16.5</td><td>9.7</td><td>39.7</td><td>优秀</td></tr><tr><td>DX6</td><td>白河</td><td>N30°12'37.1\"E108°06'10.0\"</td><td>11.8</td><td>10.7</td><td>8.0</td><td>30.6</td><td>良好</td></tr><tr><td>DX7</td><td>陡岩</td><td>N30°13'01.8\"E108°09'33.8\"</td><td>13.1</td><td>12.7</td><td>8.5</td><td>34.3</td><td>良好</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "目前国内外有关河流生境评价的方法很多，使用较为广泛的国外的评价方法包括瑞典岸边与河道环境细则（RCE）,澳大利亚河流状况指数（ISC）河岸快速评估（Rapid appraisal of riparian condition，RARC）、河流形态结构框架(GRS）,英国河流生境调查(RHS）,美国快速生物监测协议（RBPs）,西班牙水文地貌指标（IHG)和河岸带质量指数(RQI),德国的水环境野外调查方法,法国的河流物理环境质量评价系统等。但这些方法根据调查目标的不同,都有其局限性,比如RCE 是一种评价农业景观下的小型河流物理和生物状况的方法[43];ISC 基础是通过现状与原始状况比较进行健康评估[44];RARC被认为适用于树木占主导地位的、自然状态的河岸带评估[45]。而三峡库区由于水位调度,使库区支流出现了 $1 4 5 \\mathrm { ~ m ~ }$ 回水区 $\\ 、 1 7 5 \\mathrm { ~ m ~ }$ 回水区以及非回水区,并且形成了落差最高达 $3 0 \\mathrm { ~ m ~ }$ 的消落带，上述方法在这种特殊生境状况下并不适用。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "对于河流生境评价,各个国家、各条河流面临的问题不尽相同,因此,选用什么指标衡量,以及如何衡量具有 $$ 定的特殊性,国内外文献也有较大的差别。在河流生境评价过程中,有些关键性指标对河流生境健康评价的结果是决定性的,必须着重考虑。库区河流与自然河流很大的区别就在于河流水文情势的改变,为了更科学合理的评价库区河流生境质量,本文将水文情势自然性[1]归入生境状况评价体系。河岸带生境指标在回水区调查的是消落带的生境状况,消落带作为库区支流的特殊生境,受水位涨落影响不仅容易产生水土流失和地质灾害,植物多样性也受到了严重破坏[46]。考虑到消落带的特殊及复杂状况,特意将河岸带生境作为准则层纳入评价体系,其指标层的具体指标也能很好的反应大型水库消落带的特点。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究建立的指标体系对三峡库区忠县至万州段3条河流19个样点的生境质量评价结果表明，体系中各指标能很好的与库区支流特殊生境状况相对应,评价结果能较直观的反映大型水库库区河流生境状况，能区分大型水库蓄水对库区河流不同影响程度下河流生境质量的差异,能够指示导致库区河流生境状况变化的原因。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究确立的评价方法主要是通过对三峡水库库区河流生境的调查,评估河流生境现状,其中多数生境指标不需要精确的测量和繁琐的计算,调查结果不会因调查人员的不同产生巨大差异,且调查人员不需要具备高深的生态学或水文学知识,稍加培训即可开展调查工作。因此作为一种针对大型水库库区河流生境调查方法,该方法能够有效的采集河段生境信息,具有操作便捷,数据易获得,操作性强的特点。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本研究建立的大型水库库区河流生境评价指标体系在一定程度上拓宽和发展了河流生境研究的思路和理论,但仍存在有待改进的地方,比如某些指标的相关性较大,如“水文情势自然性”、“水量\"这两个指标;另外,现有的研究对“河流表层覆盖物”的含义以及它对河流自然性保存方面的作用等还不太清楚。本研究作为针对大型水库库区河流生境评价研究的一次探索,可以为相关评价指标在河流生境维持方面的生态学意义的深人研究提供参考,也可为进一步建立适合不同河流特点的生境评价模型提供思路,更为重要的是,其便捷的操作性能更好地推动库区河流生态系统的保护和管理。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "［1］王建华，田景汉，吕宪国.挠力河流域河流生境质量评价.生态学报，2010,20(2)：481-486.  \n[2]JowetIG.Instreaflowmethods：acomparisoofappoaches.RegulatedRivers：Research&anagement,997,3（2）：5-17.  \n［3］石秋池.欧盟水框架指令及其执行情况.中国水利，2005，（22)：65-66，52.  \n[4]Bletii,elloeanE.toalSciences，2015，73(5）：2079-2100.  \n[5]SzoseczKiA,BoerJciBZesJs,ZgoluedilHabitatSurveyeaturescrossEuropeandtheconseuecesfordatacolectioandevaluation.Hydrobiologia,O6,6(）：80.  \n[6］王强.山地河流生境对河流生物多样性的影响研究[D].重庆：重庆大学，2011.  \n[7]EcotJR,DiceJL,CelesteLAA,PodicoRR,TayongLMP,AbdonSAP,OlegarioSP,SabidJ,FererCJ,BigsangRT,bauanAJF,JumawanJHiparaneaalysisusingrparianhaelandevioental（CE）iventoryndwatertestingaalysisiLuadidriver,LunPadidu,Malapatan,Sarangani Province,Philippies.AdvancesinEnvironmental Sciences，2O14,6(3）：276-283.  \n[8]LadsonAR,WiteLJ,DlanJA,nlaoBL,HartBakePS,leadJWDevelopentadtestingofaIexStreinfor waterway management in Australia.Freshwater Biology，1999,41(2）:453-468.  \n[9]BrierleyG,onryisKrosostEropeanagthfuialgeomopolgofgacatcet，ustralatiosforriver ecology.Freshwater Biology，1999,41(4）：839-848.  \n[10]BarbouriseJerBtigdaentProtolsfUereasdWableivesrpMacroinvertebrates，andFish.2nded.Washington,DC：U.S.Environmental Protection Agency；Oficeof Water,1999.  \n[11]OllroA,bisateA,GonzaloLE,AcnVBllrinD,DiazE,DomenechS,GimnoM,GranadoD,HracioJ,MoraD,Snchez.heIHGindex for hydromorphological qualityassessmentof riversand streams:updated version.Limnetica,2011,30(2）:255-261.  \n[12]aqiae30(2):329-346.  \n[13］郑丙辉，张远，李英博.辽河流域河流栖息地评价指标与评价方法研究.环境科学学报，2007,27(6)：928-936.  \n[14] 夏继红，严忠民，蒋传丰.河岸带生态系统综合评价指标体系研究.水科学进展，2005，16（3)：345-348.  \n[15] 娄会品，高甲荣，陈子珊.北京郊区河岸带自然性评价指标体系.水土保持通报，2010，30(1)：161-165.  \n[16] 王强，袁兴中，刘红，庞旭，王志坚，张耀光.基于河流生境调查的东河河流生境评价.生态学报，2014，34(6)：1548-1558.  \n[17] 汪冬冬，杨凯，车越，吕永鹏.河段尺度的上海苏州河河岸带综合评价.生态学报，2010，30（13)：3501-3510.  \n[18] 邓晓军，许有鹏，翟禄新，刘娅，李艺.城市河流健康评价指标体系构建及其应用.生态学报，2014，34（4）：993-1001.  \n[19] 赵彦伟，杨志峰.城市河流生态系统健康评价初探.水科学进展，2005，16(3)：349-355.  \n[20] 刘华，蔡颖，於梦秋，龚蕾婷，安树青.太湖流域宜兴片河流生境质量评价.生态学杂志，2012，31（5)：1288-1295.  \n[21] 朱卫红，曹光兰，李莹，徐万玲，史敏，秦雷.图们江流域河流生态系统健康评价.生态学报，2014，34(14)：3969-3977.  \n[22] 刘跃晨，袁兴中，王云.三峡库区重庆段水质安全综合评价研究.人民长江，2014，45（18)：10-14.  \n[23] 况琪军，胡征宇，周广杰，叶麟，蔡庆华.香溪河流域浮游植物调查与水质评价.武汉植物学研究，2004，22(6)：507-513.  \n[24] 王欢，韩霜，邓红兵，肖寒，吴钢.香溪河河流生态系统服务功能评价.生态学报，2006，26(9)：2971-2978.  \n[25］李月臣，刘春霞，闵婕，王才军，张虹，汪洋.三峡库区生态系统服务功能重要性评价.生态学报，2013,33(1)：168-178.  \n[26］刘强，李晔，马啸，郑方钊，王涌泉.香溪河流域生态治理效益综合评价.中国水土保持,2012，（6)：57-58.  \n[27］马骏，李昌晓，魏虹，马朋，杨予静，任庆水，张雯.三峡库区生态脆弱性评价.生态学报，2015,35(21)：7117-7129.  \n[28]BunSE，ArtingtonAHasicprinciplesandolgicalconseuencsofalteredflowregiesforquaticodiveityEnviotalManagement，2002，30(4）：492-507.  \n[29]PoffN,nD,inMBarrJR,PrestegardKLichterBD,SprksRE,trobergJC.Tenaturalflowregiedigforriver conservation and restoration.BioScience，1997，47（11）：769-784.  \n［30］孙嘉宁.白鹤滩水库回水支流黑水河的鱼类生境模拟研究[D].杭州：浙江大学，2013.  \n[31］董哲仁.河流形态多样性与生物群落多样性.水利学报，2003，34(11)：1-6.  \n[32]HauerC，UnfeitartabersckH.fetsftraaelorporasportprocesendectieishargdspawning habitats.Earth Surface Processes and Landforms,2011,36(5)：672-685.  \n[33]NilssonC，Berggen K.Alterationsofriparianecosystemscausedbyriverregulation.BioScience，2Ooo,5O(9）：783-792.  \n[34］熊斯顿，由文辉，黄沈发，吴健，吴建强.苏州河东风港滨岸带生态景观综合评价研究.生态科学，2007,26(3）：220-226.  \n[35］耿雷华，刘恒，钟华平，刘翠善.健康河流的评价指标和评价标准.水利学报，2006，37（3）：253-258.  \n[36] 杨宇.多指标综合评价中赋权方法评析.统计与决策，2006，（13)：17-19. O  \n[37] 郑志宏，魏明华.基于组合赋权的河流健康模糊评价研究.水利水电技术，2013，44(2)：28-31.  \n[38］山成菊，董增川，樊孔明，杨江浩，刘晨，方庆.组合赋权法在河流健康评价权重计算中的应用.河海大学学报：自然科学版，2012，40(6):622-628.  \n[39］宋光兴，杨德礼.基于决策者偏好及赋权法一致性的组合赋权法．系统工程与电子技术，20，26（9)：1226-1230，1290-1290.  \n[40] 李俊玲.河流健康评价指标体系及权重模型研究[D].南京：河海大学，2008.  \n[41] 陈加良.基于博弈论的组合赋权评价方法研究.福建电脑，2003，19(9)：15-16.  \n[42]AnKGarkS,inJAauatioofieralsingtheidefalitegitogirelaiotdatconditions.Environment International，2002，28(5）：411-420.  \n[43］董哲仁.国外河流健康评估技术.水利水电技术，2005，36(11）：15-19.  \n[44］刘瑛，高甲荣，崔强，冯泽深.4种国外河溪健康评价方法述评.水土保持通报，2009,29(3）：40-44.  \n[45] 石瑞花，许士国.河流生物栖息地调查及评估方法.应用生态学报，2008，19(9)：2081-2086.  \n[46] 程瑞梅，王晓荣，肖文发，郭泉水.消落带研究进展.林业科学，2010，46(4)：111-119.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

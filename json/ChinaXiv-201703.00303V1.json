@@ -1,0 +1,242 @@
+[
+    {
+        "type": "text",
+        "text": "Single-Layer Reflectarray Antennas with Improved Bandwidth by Attaching Phase-Delay Lines ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chunhui Han1,2, Yunhua Zhang', Qingshan Yang1 1 Key Laboratory of Microwave Remote Sensing, National Space Science Center (NSSC),Chinese Academy of Sciences (CAS), Beijing, China 2 Universityof Chinese Academy of Sciences, Beijing,China hanchunhui2012@ gmail.com, zhangyunhua $@$ mirslab.cn, yangqingshan@mirslab.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract—A novel X-band unit cell structure with improved bandwidth performance for single-layer microstrip reflectarray antenna is proposed.The new element structure consists of two circular rings,each with a pair of gaps,and two phase-delay lines are attached to the outer ring to provide the required phase shift. A $\\mathbf { 9 \\times 9 }$ center-fed reflectarray antenna operating at $\\mathbf { 1 0 ~ G H z }$ isdesigned to validate the broadband performance of the proposed unit cell. Simulated results show $20 \\%$ 1-dB gain bandwidth and $3 8 . 5 \\%$ 3-dB gain bandwidth. The maximum gain at10 GHz is 20.1 dB,which is equivalent to $40 \\%$ efficiency. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Index Terms-Broadband antenna, phase-delay line, reflectarray ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Microstrip reflectarray technology has attracted wide attention in many applications,such as communication and radar,due to its alluring advantages [1]. However, there are some drawbacks associated with reflectarray antennas,among which,narrow bandwidth is the most outstanding one.Narrow bandwidth performance of a microstrip reflectarray antenna is mainly due to two factors: first, the narrow bandwidth nature of the microstrip antenna element,and second, the differential spatial phase delays between the feed and elements in the reflectarray.For moderate-size reflectarrays the first factoris more significant to the bandwidth limitation [2]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Many methods were proposed to improve the bandwidth of the radiating element for reflectarray antennas in recent years. Using elements with a large-range linear phase response can increase the reflectarray bandwidth [3].There are several ways to achieve the linear phase response,such as using phase-delay lines[4],thick substrate,and multilayered structure [5]. Among these,the phase-delay line technique is appropriate and large numbers of researches have been regarding to this technique [6], [8]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this paper,a single-layer unit cell is developed to improve the bandwidth performance of the reflectarray antennas.The unit cell is composed of two circular rings,each with a pair of gaps,and two phase-delay lines are attached to the outer ring to get a linear phase response.To reduce the cross polarization,a special arrangement for elements has been adopted，which was proposed in [6]．A $9 { \\times } 9$ center-fed reflectarray operating at $\\mathrm { \\Delta X }$ band is designed to validate the broadband performance of the proposed unit cell. Simulated results show that $20 \\%$ 1-dB gain bandwidth and $3 8 . 5 \\%$ 3-dB gain bandwidth.The maximum gain at $1 0 ~ \\mathrm { G H z }$ is 20.1 dB, which is equivalent to $40 \\%$ efficiency. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "II. UNIT CELL DESIGN ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The designed unit cell structure with single layer is shown in Fig.1.As can be seen, the proposed element is composed of two circular rings,each with a pair of gaps orthogonally placed and two phase-delay lines are attached to the outer ring via stubs for phase shifts.The unit cell size is set to be $L = 1 5 ~ \\mathrm { m m }$ and the work frequency is designed to be $1 0 \\mathrm { G H z }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To achieve better linear phase response, the distance between the inner ring and the outer ring is optimized. The stub width $( w _ { s } )$ and the distance between the phase-delay line and the outer ring $( L _ { s } )$ are optimized for good matching between phase-delay lines and the double-ring structure.After the optimization, the final design element geometry parameters arelisted in TABLEI. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The dimension of the unit cell is chosen to be $0 . 5 \\lambda \\times 0 . 5 \\lambda$ Elements are printed on a $1 . 5 \\mathrm { - m m }$ -thick dielectric substrate with relative permittivity $\\varepsilon _ { r } = 4 . 4$ and backed by a $2 \\mathrm { - m m } .$ （2 thickness foam layer with relative permittivity $\\varepsilon _ { r } = 1$ ： ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To obtain the phase response of the element and optimize the parameters of the structure,an infinite array model is simulated using HFSS software with master-slave boundary and Floquet port excitation adopted. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/922f6e1029145597b67f7587bd00f6ba22a1c49af506db2cf97cd525dabeef04.jpg",
+        "img_caption": [
+            "Fig.1．Unit cell structure for reflectarray antenna. "
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/e6a22a5649be9d0a0f2f8e8606955974dd9d6b504ca1b797013173e89c65b4b4.jpg",
+        "table_caption": [
+            "TABLEI. REFLECTARRYELEMENTGEOMETRYPARAMETERS "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Quantity</td><td>Value</td></tr><tr><td></td><td>5°: 2.5: 180°</td></tr><tr><td>Ws</td><td>0.4 mm</td></tr><tr><td>Ls</td><td>0.4 mm</td></tr><tr><td>gi</td><td>0.6 mm</td></tr><tr><td>g</td><td>0.6 mm</td></tr><tr><td>Wi</td><td>0.88 mm</td></tr><tr><td>Wo</td><td>0.8 mm</td></tr><tr><td>Ri</td><td>1.8 mm</td></tr><tr><td>R</td><td>4 mm</td></tr><tr><td>d</td><td>1.5 mm</td></tr><tr><td>ds</td><td>2 mm</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/25f08c255f4a822849b9185d1190f34a093db13d945fefd1128565be83dda369.jpg",
+        "img_caption": [
+            "Fig.2．Reflection phase of the reflectarry elements.(a) Phase responses versus the length of phase-delay linesat different frequencies.(b) phase response of the double-ring structures. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The phase response curves versus the length of the phasedelay line are shown inFig.2(a) at different frequencies from ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "9 GHz to $1 2 \\mathrm { G H z }$ ,in which the value of $\\theta$ represents the length of the phase-delay line of the element.As can be seen,a phase range of about $5 5 0 ^ { \\circ }$ is achieved at the center frequency of 10 GHz.Parallel phase curves among different frequencies are also obtained.It's worth noting that when the value of $\\theta$ is between $6 0 ^ { \\circ }$ and $1 8 0 ^ { \\circ }$ ，the phase curves have smaller slopes, which demonstrate a better performance of broadband compared with the radiating unit cells in [4], [5], [6]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To further investigate the broadband property of the designed unit cell,Fig.2(b) shows the simulation results of the phase response versus frequency for different structures,i.e. the unit cell inner structure of the double rings with gaps and without gaps, which are resonant at the center working frequency. Obviously,the phase responses of the double-ring structures with gaps have smaller variation among the working frequency band of $8 \\sim 1 4 ~ \\mathrm { G H z }$ and shows better linearity than that without gaps. The results indicate that by adding gaps, bandwidth performance ofthe reflectarrayelementsis improved [7]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "III. REFLECTARRAYDESIGN ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Inthis section,in order to validate the broadband performance of the proposed unit cell,a $9 { \\times } 9$ centered-fed reflectarray operating at $\\mathrm { \\Delta } \\mathrm { X } \\mathrm { \\Omega }$ band is designed and simulated. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The required phase shift for each unit cell is calculated at $1 0 \\mathrm { G H z }$ ,according to (1) ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi _ { R } = k _ { 0 } \\cdot \\big ( d _ { i } - \\big ( x _ { i } \\cos \\varphi _ { 0 } + y _ { i } \\sin \\varphi _ { 0 } \\big ) \\sin \\theta _ { 0 } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $k _ { 0 }$ is the propagation constant in free space, $d _ { i }$ is the distance from the phase center of the feed to the center of the ith unit cell in the reflectarray plane, $( \\theta _ { O } , \\varphi _ { O } )$ is the designed main beam radiation direction of the reflectarray.The phase shifts are designed to compensate for the spatial delay between the feed and unit cells.Here,the phase shifts are calculated for $( \\theta _ { O } , \\varphi _ { O } ) = ( 0 ^ { \\circ } , 0 ^ { \\circ } )$ at $1 0 ~ \\mathrm { G H z }$ ，which means that the designed main beam is normal to the reflectarray plane. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f70649dfdae75ae13a49d487d762ecda463f7f49cf43a1879c604dbc5ff50976.jpg",
+        "img_caption": [
+            "Fig.3．Phase distribution on reflectarray aperture. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b7558fe3e0a6c12eec034f3c1ab9c358f4703a50672075b1bf37c18dbc746cb.jpg",
+        "img_caption": [
+            "Fig.4.Layout and arrangement of the reflectarray. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Therequired phase distribution for theproposed reflectarray at $1 0 ~ \\mathrm { G H z }$ is shown in Fig.3.The elements are arranged in a mirror symmetric configuration along the $x \\mathrm { . }$ -axis so as to reduce the cross polarization [6],as shown in Fig.4. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A pyramid horn is used as the feed of the reflectarray, which is positioned at $8 6 \\mathrm { m m }$ above the reflectarray plane. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "AsFig.4 shows,the center-fed reflectarray is composed of 81 elements and has an aperture size of $1 3 5 ~ \\mathrm { m m } \\times 1 3 5 ~ \\mathrm { m m }$ Simulations for the reflectarray antenna are carried out using CST Microwave Studio software and results are presented as follows. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/49db2f2483383ecbe1736b61bca6832007ca3b80708501db4705a687d3cf214c.jpg",
+        "img_caption": [
+            "Fig.6．H-plane radiation patterns at 1O GHz,11 GHz. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The simulated co-polar and cross-polar (X-pol) radiation patterns of E-plane and H-plane at $1 0 ~ \\mathrm { G H z }$ and $1 1 \\ \\mathrm { G H z }$ are shown in Fig.5 and Fig.6,respectively.As can be seen,a maximum gain at $1 0 ~ \\mathrm { G H z }$ of $2 0 . 1 \\ \\mathrm { d B }$ is achieved,which is equivalent to $40 \\%$ efficiency. Take the E-plane pattern at 10 GHz for example,the simulated cross-polarization level is below $- 3 5$ dB which is greatly reduced by the special elements arrangement design,at the same time,the side lobe level is $^ { - 1 3 }$ dB. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The simulated gain versus frequencies is shown in Fig.7, from which one can see that the 1-dB bandwidth is about $20 \\%$ $( 9 . 7 4 \\mathrm { \\sim } 1 1 . 7 ~ \\mathrm { \\ G H z } )$ and the 3-dB bandwidth is about $3 8 . 5 \\%$ $( 9 . 4 5 { \\sim } 1 3 . 3 ~ \\mathrm { G H z } )$ .The simulated results demonstrate that an obvious improvement on the bandwidth of the reflectarray antennas is achieved. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/98e0c79b5d2f23993e42a839a557a45230a4ed0ede9082c3ce08ef808d005cdd.jpg",
+        "img_caption": [
+            "Fig.5．E-plane radiation patterns at $1 0 \\mathrm { G H z }$ ,11 GHz. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9dcc92191efce0154c82642ddee196837593b455439d275414e6af490060ce35.jpg",
+        "img_caption": [
+            "Fig.7．Maximum gain versus frequency. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "IV. CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A novel unit cell of single layer with improved bandwidth is proposed and designed for reflectarray antenna using phasedelay lines and about $5 5 0 ^ { \\circ }$ linear phase response is obtained.A $9 { \\times } 9$ center-fed reflectarray operating at $\\mathbf { \\boldsymbol { X } }$ band is then designed and simulated.The simulation results show that a maximum gain of 2O.1 dB,which is equivalent to $40 \\%$ efficiency at $1 0 ~ \\mathrm { G H z }$ is achieved.The results of $20 \\%$ 1-dB bandwidthand $3 8 . 5 \\%$ 3-dB bandwidth demonstratean improved bandwidth performance of the designed reflectarray compared with the conventional reflectarray with phase-delay lines. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Huang J.,Encinar J.A.,“Reflectarray antennas,\"(Wiley,2007).   \n[2]J.Huang,“Bandwidth study of microstrip reflectarray and a novel phased reflectarray concept,”in Proc. IEEE APS/URSISymp., Newport Beach,CA,Jun.1995,pp.582-585.   \n[3]E.Carrasco,M.Barba,and J.A.Encinar,“Reflectarray element based on aperture-coupled phases with slots and lines of variable length,\" IEEE Trans.Antennas Propag.,vol.55,no.3,pp.820-825,Mar.2007.   \n[4] H.Hasani，M.Kamyab,and A.Mirkamali，“Broadband reflectarray antenna incorporating disk elements with attached phase-delay lines,\" IEEE Antennas Wireless Propag.Let., vol.9,pp.156-158,2010.   \n[5] J．A.Encinar and J.A.Zornoza,“Broadband design of three-layer printed reflectarrays,”IEEE Trans.Antennas Propag.,vol.51,no.7,pp. 1662-1664,Jul. 2003.   \n[6] H.Hasani,M.Kamyab,and A.Mirkamali,“Low cross-polarization reflectarray antenna,”IEEE Trans.Antennas Propag.,vol.59,no.5,pp. 1752-1756,May 2011.   \n[7] P.Nayeri,F.Yang and A.Z.Elsherbeni,“A Broadband Microstrip ReflectarrayUsingSub-WavelengthPatchElements\",IEEE International Symposium on Antennas and Propagation, Charleston, SC, June 1-5,2009.   \n[8] R.Shamsaee and Z.Atlasbaf,“Design and implementation of a broadband single layer circularly polarized reflectarray antenna,”IEEE Antennas Wireless Propag.Lett.,vol.11, pp.973-976,2012. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    }
+]

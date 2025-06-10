@@ -1,0 +1,388 @@
+[
+    {
+        "type": "text",
+        "text": "推进智慧工地建设，助力建筑行业发展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "霍旭薪’李欣宇’何宇航²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（中电建建设集团有限公司，北京100120）",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "建筑行业是我国国民经济的重要物质生产部门和支柱产业之一，同时建筑业也是一个安全事故多发的高危行业。如何加强施工现场安全管理、降低事故发生频率、有效管理施工对环境的影响、杜绝各种违规操作和不文明施工、提高建筑工程质量是建筑行业的一项重要研究课题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "智慧工地是智慧城市理念在建筑工程行业的具体体现,是一种靳新的工程全生命周期管理理念。智慧工地利用、红外热成像防火监测报警系统、扬尘噪声一体化检测系统、BIM 技术应用、VR安全体验系统、喷雾、喷淋系统、智检APP、智能地磅、无人机技术、水电无线节能监测系统等技术实现对工程安全、质量、经济、环境的有效管理。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】智慧工地；BIM技术应用；扬尘噪声一体化检测系统霍旭薪（1983-）男，工程师：李欣宇（1982-）男，高级工程师",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1、工程概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1项目简介",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "京杭运河枢纽港扩容提升工程1#楼、2#楼为2栋绿色三星办公楼，建筑面积15431.18平米，合同总额1.2亿。绿色建筑为全寿命周期建筑，对“四节一环保”、施工管理、运维管理要求较高，施工过程需要严格按照《绿色建筑评价标准》GB50378-2014及《绿色建筑评价技术细则2015版》进行指导施工。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2、打造安全智慧工地",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.1提升施工现场人员安全意识。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "，利用3D 模型动画形式模拟真实安全事故达到施工人员安全教育多样化。为更加直接的提升现场施工人员的安全意识，项目引进了VR技术并设立了VR安全体验区。VR场景结合头盔设备可以带给体验者身临其境的视觉观感，体验者戴上VR眼镜后，仿佛身临其境，整个工程形象逼真地展示在眼前，似乎触手可及；VR安全体验区通过视觉、听觉、语言、动态动作等四种不同表现方法；采用平面、立体的或三维的三种不同的表现方式；让大家亲自参与其中，亲自感受、亲自体验、亲自体会、亲身感悟的过程，让现场的每一位施工人员感受到安全意识的重要性。如图1-2所示。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/27f2444fe37775a08c3db29d88b63afa080d24c73e62bcccf9289ff6d87f989b.jpg",
+        "img_caption": [
+            "图1VR体验馆"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7034b5822e6f0ce55b880dd47786f59ed64dd8f862c99a612ded6f9fc7b24d3.jpg",
+        "img_caption": [
+            "图2现场工人进行VR体验"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2实现施工现场全覆盖管理。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "按照传统的检查方式，高处临边、悬挑架结构外立面、大型设备尖端部危险区域都是检查的盲区，存在安全隐患。引入无人机可对施工现场进行空中巡察辅助安全监管，控制无人机飞行到“人到不了、看不到”的地方，并通过清晰的照片观察此处的状态是否可靠；红外热成像防火监测报警系统在热成像画面上可设置危险温度，一旦监控画面中有超过危险温度的区域，监控会显示其当时温度并发出警报，从而将火灾扼杀在萌芽状态，起到防止火灾的作用。通过以上两种智能设备应用实现了现场无死角管理。如图3-6所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6173ac9a53b97c7d1a6cc7d276dcd42ee4beb7b1a485a3143d4f0e9dea7ea46f.jpg",
+        "img_caption": [
+            "图3无人机",
+            "图5红外热成像防火检测报警系统"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3cfe3288226d45108ec6523c4b1c136507a3fed9aa84f3f78e5feafa886e3ab8.jpg",
+        "img_caption": [
+            "图4无人机航拍",
+            "图6红外热成像监控画面"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3、建设高质量工程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "建设工程质量关系到国家经济发展和人民生命财产安全，因此建设工程质量管理尤其重要。为保证建筑过程中的每一个环节、每一个部位不出现问题，不给工程带来负面影响、出现质量事故，项目利用智检APP、二维码信息管理技术、BIM技术双管齐下对现场质量进行把控。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1基于BIM检查图纸问题，减少现场变更。 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "传统的图纸会审由施工单位各部门技术人员与设计单位相关专业人员进行对接。由于施工人员受到专业的局限性，很难发现其他专业存在的问题对本专业的影响。为解决图纸会审不闭合，各专业不交圈这一难题，项目通过 BIM 模型将各专业图纸进行整合，由专业 BIM工程师对模型进行检查，通过这一措施完美解决了图纸中存在的问题，减少工程在后续施工中对主体结构的破坏、减少装修过程中对材料的损坏、减少因对图纸的理解不深而导致的现场调整，达到施工与图纸相符。如图7所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/93eb48eef7d438f0df9273dec72a08849b1896a818f087afbe9f1c7e9906c0c6.jpg",
+        "img_caption": [
+            "图7BIM三维交底"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2运用互联网技术，提升整改执行力",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "。智检APPapp就是一个现场多种角色使用的“移动端 $^ +$ 云服务”的平台，将图纸信息模型导入到智检APP，现场的使用者包含总包单位、分包单位施工人员通过此平台进行互动。智检工程管理APP 应用于工程现场管理过程，主要包括质量、安全、进度、材料、变更管理，将任务指派、整改、销项这一闭环流程搬到移动APP平台上，真实永久记录过程，大大减少了传统工程项目中即费时又费力的重复性工作，在提高效率、降低成本的同时，也提高了项目的质量。如图8所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ead5b540aa05a87d703a354827ed9e17edc9477035fa5e20b2ece50a53ea991.jpg",
+        "img_caption": [
+            "图8智检app工作原理"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3利用 $\\cdot$ 二维码技术，打造新形式下的管理模式",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用二维码技术具有存储信息容量大、获取信息便捷、成本低、易制作等特点被广泛应用。二维码能直观反映每道工序验收时间及责任人；技术交底内容、施工特点、难点；设备状况、验收时间等等细节，能够易实现问题的可追溯，职工和工人通过使用智能手机扫描二维码，可以使企业文化宣传、安全技术交底、设备管理、安全隐患排查、安全操作规程管理更加多样化，便于查阅、保存、交流。如图9-10所示。一",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/17d62e1ba6df02e5cbf517c5e20dd642ce53017cd46340caf2274e60084cf7c4.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/43fd46dc44865e65375f3996b0bf92639f157f71b37c779b17e5c8e7eb55e93d.jpg",
+        "img_caption": [
+            "图9利用二维码制作各种交底",
+            "图10利用二维码制作设备人员信息"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4、创建经济型工程",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "工程成本的六到八成是材料费与水电费，钢材、商品混凝土等所占比例较大。但施工现场材料、水电管理存在以下诸多的问题：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）一、物料验收存在管理漏洞，如虚增入磅数据、不规范上磅、皮重作弊、一车多称、改仿料单等；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（2）。二、手工管理工作量大，管理效率低下；  \n（3）。三、无法实现远程监控管理；  \n（4）。四、对过磅偏差无法及时发现并处置；  \n（5）。五、现场下料不准，浪费严重；。  \n（6）六、材料清单与现场不符，无法有效地控制施工成本；  \n（7）。七、水电浪费现象普遍，管理困难。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从所存在的问题分析，采用物料智能管理系统与BIM5D系统，能够有效地解决上述存在问题，实现现场物资材料管理智能化、信息化。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1应用智能地磅技术",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "。智能地磅技术是利用物联网技术，通过地磅、摄像头、高拍仪、打印机等硬件集成，把手工录入的业务数据变为系统自动采集，确保数据真实准确及时，同时减少物资管理人员的工作量。然后利用数据分析技术，系统自动抓取数据多维度分析，为管理层和决策层提供了最真实准确的决策依据，且快捷及时，最大程度保住了管理的时效性。通过该系统的应用不仅极大地减少人为干预，还加强了业务控制和降低收发货风险，提高了工作效率，降低了工程材料成本。如图11所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a5a7f1de0c1d9f10f1494d4f3ce78acf4d0dfe014575d31ab9b4e7fe37f3b21d.jpg",
+        "img_caption": [
+            "图11 智能地磅技术"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2应用BIM5D技术",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "。BIM 是指建筑信息模型，是基于最先进的三维数字设计和工程软件所构建的“可视化”的数字建筑模型。其最终目的是使整个工程项目在设计、施工和使用等各个阶段都能够有效地实现建立资源计划、控制资金风险、节省能源、节约成本、降低污染和提高效率，从真正意义上实现工程项目的全生命周期管理，BIM5D技术的引入可以提供工程项目施工中所需的各种基础数据，在施工过程中，将 BIM 模型与工程量清单联动，实现钢筋、混凝土、模架体系等材料用量的自动统计，在导入清单计价数据后，进行两算对比分析，加强施工成本分析，保证经济效益。如图12所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "结构柱明细表  \n结构材质 底部标高 体积混凝土，现场尧注强度等级为C60 F2 1.54m²混凝土，现场尧注强度等级为C60 F2 1.54m²混凝土，现场尧注强度等级为C60 F2 1.54m混凝土，现场尧注强度等级为C60 F2 1.54m²混疑土，现场尧主强度等级为C60 F2 1.54m²混凝土，现场尧注强度等级为C60 F2 1.54m²混凝土，现场尧注-强度等级为C60 F2 3.66m²混凝土，现场尧注强度等级为C60 F2 3.65m混疑土，现场尧注强度等级为C60 F2 3.65m混凝士，现场尧主强度等级为C60 F2 1.55m总计：10 21.75m²",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3应用水电无线节能监测系统",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "。水电无线节能监测及能效管理系统是绿色建筑能源管理的重要组成部分，主要包括选择节能设备、实施节能改造、安装节能监控系统、做好节能宣传等。本工程利用infomedv2云智慧能源管理平台结合采用节水、节电设备进行联动，通过该系统对施工现场的生产区、办公区、生活区的水电用量进行控制，然后与现场要求指标进行对比。该系统用于耗能管理节能效果明显，能够实现水电系统能耗的有效管理，其监测和应用应引起足够重视，对于促进建筑节能具有一定的指导意义。如图13-14所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/18668c10f42ebfbf4c56cc0a76980c142aaad616d40f771fb6fbfae6e519fbc9.jpg",
+        "img_caption": [
+            "图12BIM工程量统计",
+            "图13节能系统组成及流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/4133b109c59b6152a7bd6cc6ccecb8d4bed2e38d9a674d50281d8a7d6033b77c.jpg",
+        "img_caption": [
+            "图14电表水表监测远传"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5、构建环保型工程",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "我国大气环境逐渐恶化，扬尘污染已经成为主要的污染源，而建筑扬尘则是污染主要来源。建筑工人与施工机械施工会产生大量的扬尘，这些扬尘增加了粉尘浓度，进而导致大气污染。大气污染日益严重，治理扬尘污染，改善大气环境依然迫在眉睫。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.1喷雾及喷淋系统的应用。。利用永久雨水收集系统在建筑结构施工期间先期投入使用，通过设定联动指标数值与现场扬尘在线监测系统实现联动，并实现施工现场喷雾及喷淋设备自动开启降尘除霾，节约了现场传统用水，真正实现绿色施工。喷淋除尘利用喷头把压力水转换成雾罩，保证喷头的雾化效果和雾化角度，大大减少耗水量，增加尘粒与水滴的碰撞几率和速度，提高除尘效率，使含尘气体的湿度增加，尘粒相互凝聚体积增大而沉积，达到降尘的目的和空气净化的效果。工程现场通过对塔吊、外架、围挡布设供水管道的方式实现现场降尘除霾的全覆盖，很好的地实现降尘的效果。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/fda793d03550ff0e10efcb226277700ab526e28b3f45e8f2fb4e56ed14a0f2d2.jpg",
+        "img_caption": [
+            "图15施工现场降尘原理"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6、结语 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "BIM 应用与绿建施工相结合。利用BIM技术对绿色施工中“四节一环”进行全面预测与部署分析，根据国家规范中对本工程中绿色施工目标数值的提取与设定，进行精细化管理，达到最终目标“绿色建筑标识的认证”。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "BIM 技术的应用、智慧建造、大数据应用、云技术平台应用是当前工程信息化建设的发展趋势，这些的实施项目管理透明化、施工管理标准化。使得我们项目管理更加规范和高效，助力实现项目全生命周期履约，提升了中国电建品牌影响力。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献-",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]叶国权，余俊祥.建筑设备监控系统及节能[J].制冷空调与电力机械，2006，27（2）：63-66.[2]魏起增.大型建筑施工中消防及施工用水的设计[J]．建筑技术 $, - 2 0 0 1 \\left( 1 1 \\right) _ { \\div }$ [3］袁聪.水利水电工程电气节能探讨[J].科技与企业，2016，（09）：105.[4］李-霞，吴跃明．物联网 $^ +$ 下的智慧工地项目发展探索［J]．建筑安全-，2017（2）：35—39",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Promote intelligent site construction, help construction ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "industry development ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Huo Xuxin, Li Xinyu, He Yuhang ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(Jiangsu Suqian port and warehousing first phase project manager department, Suqian 223800，China） ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The construction industry is one of the important material production departments and pillar industries in China's national economy， and it is also a high-risk industry with frequent accidents. How to strengthen construction site safety management， reduce the frequency of accidents， effectively manage the impact of construction on the environment， eliminate all kinds of illegal operations and uncivilized construction， improve the quality of construction projects is an important research topic in the construction industry.v   \nIntelligent site is the embodiment of the concept of Intelligent City in the construction industry，and it is a brand-new concept of project life cycle management. Intelligent site use, infrared thermal imaging fire monitoring and alarm system, dust and noise integrated detection system, BIM technology application, VR safety experience system, spray， spray system， intelligent inspection APP， intelligent weighing， UAV technology， hydropower wireless energy-saving monitoring system and other technologies to achieve engineering safety， quality,economy and environment Effective management. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words: sSmart site； BIM technology application; dDust detection system, ",
+        "page_idx": 7
+    }
+]

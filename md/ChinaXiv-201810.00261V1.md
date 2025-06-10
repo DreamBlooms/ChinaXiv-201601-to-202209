@@ -1,0 +1,82 @@
+# 山东苔藓植物新记录
+
+任昭杰1 田雅娴² 赵遵田2\*
+
+(1．山东博物馆自然部，济南 250014；2．山东师范大学逆境植物重点实验室，济南 250014)
+
+摘要：通过对采自山东的苔藓植物标本进行鉴定，首次发现裂齿藓[Dichodontium pellucidum(Hedw.）Schimp.]和粗疣藓[Fauriella tenuis (Mitt.) Cardot]在山东的分布，同时这也是昂氏藓科(Aongstroemiaceae)，裂齿藓属(Dichodontium Schimp.)和粗疣藓属(Fauriella Besch.)苔藓植物在山东的首次发现。本文详细描述了裂齿藓和粗疣藓的形态特征，绘制了墨线图，并进行了相应的讨论。
+
+关键词：苔藓植物，裂齿藓，粗疣藓，新记录，山东中图分类号：Q949.35 文献标识码：A
+
+# New additions to the bryophyte flora of Shandong Province,
+
+# China
+
+REN Zhaojie1TIAN Yaxian² ZHAO Zuntian² (1. Natural Department of Shandong Museum, Jinan 250014,China; 2. Key Laboratory of Plant Stress, Shandong Normal University,Jinan 250014, China)
+
+Abstract: Dichodontium pellucidum (Hedw.） Schimp. and Fauriella tenuis (Mitt） Cardot are reported as new records to Shandong Province，China. At the same time， the family Aongstroemiaceae and the genera Dichodontium Schimp.and Fauriella Besch.are also found from Shandong Province for the first time.Detailed descriptions and ink drawings of $D$ pellucidum and Fauriella tenuis are given, while brief discussions are provided.
+
+Key words: bryophytes, Dichodontium pellucidum, Fauriella tenuis, New records， Shandong Province
+
+从2007年开始，我们团队对山东省苔藓植物资源进行了新一轮的野外调查和标本采集，基于这次调查研究和我们以及其他相关学者对于山东苔藓植物的研究，2016年5月《山东苔藓志》（任昭杰等，2016）得以顺利出版。志书虽已出版，但山东苔藓植物资源情况仍有部分盲区，主要是诸如蒙山、泰山、昆崙山、崂山等较大山脉的余脉或支脉等，为能够更加清晰的掌握本底资源，完善山东苔藓植物区系，以为苔藓植物各项研究提供基础资料和科学依据，我们继续对山东苔藓植物开展野外调查研究工作。2016年8月，笔者对山东烟台昆崙山国家级自然保护区进行了为期5天的苔藓植物野外调查采集，经过鉴定研究发现了山东苔藓植物一新记录属和一新记录种，即粗疣藓属(Fauriella Besch.)和粗疣藓[Fauriella tenuis(Mitt)Cardot]；另外，2017年，在整理标本过程中，我们发现了一箱 2012年采自于蒙阴县蒙山的标本因疏忽而未被及时鉴定，共200余号，经鉴定其中包含山东苔藓植物一新记录科、一新记录属和一新记录种，即昂氏藓科(Aongstroemiaceae)，裂齿藓属(Dichodontium Schimp.)和裂齿藓[Dichodontium pellucidum (Hedw.） Schimp.]。凭证标本存放于山东师范大学植物标本馆（SDNU）。
+
+# 1．昂氏藓科Aongstroemiaceae
+
+# 1.1裂齿藓属Dichodontium Schimp.
+
+裂齿藓 图版I
+
+Dichodontium pellucidum (Hedw.) Schimp., Coroll.Bryol. Eur.12.1856.
+
+植物体小，黄绿色，丛生。茎直立，多单一，稀在先端分枝；中轴分化。无性芽孢长椭圆形、纺锤形或近球形。叶舌形或披针形至阔披针形，干燥时多扭转，湿时背仰，先端圆钝或急尖；叶边平展，或下部略内卷，上部具不规则的齿突；中肋粗壮，达叶尖部，末端背面具乳突；叶中上部细胞圆方形，具明显乳突，基部细胞长方形，平滑。孢子体未见。
+
+标本鉴定：山东省蒙阴县蒙山，冷峪，林下石上土生，海拔 $5 0 0 \mathrm { ~ m ~ }$ ，任昭杰、郭萌萌R123260（SDNU）。
+
+地理分布：中国（黑龙江、内蒙古、河北、山东、新疆、云南、台湾）、不丹、日本、巴基斯坦和俄罗斯（西伯利亚)，欧洲和北美洲（高谦，1993；贾渝等，2013)。
+
+![](images/4c3a3bfc43741005899b423684be21bb628a6615dda85401f8620c6e7c34a579.jpg)
+
+注：A．植物体；B.植物体一部分；C.茎横切一部分；D,E,F,G,H,J.叶；K.叶尖部细胞；L.叶中部边缘细胞；M.叶基部细胞；N.叶横切一部分；O.无性芽胞（任昭杰,田雅娴 绘)。标尺： $\scriptstyle \mathbf { A } = 2 \ c m$ ， $\mathbf { B } { = } 1 \ \mathrm { m m }$ $\mathrm { C = 1 0 0 \ \mu m , D \mathrm { - J = 8 } } 3 0 \ \mu m , \mathrm { K }$ $\operatorname { K - O } { = } 8 3 ~ { \mu } \mathrm { m }$ 0Note: A.Plant; B.Portion of plant; C.Portion of cross section of stem; D,E,F,G,H,J.Leaves; K. Apical leafcells;L.Median marginal leaf cells; M. Basal leaf cels; N. Portion of cross section of leaf; O. Gemmae (Drawnby REN Zhaojie & TIAN Yaxian). Scale bars: $\mathrm { A } { = } 2 \mathrm { c m }$ ， $\mathrm { B } { = } 1 \ \mathrm { m m }$ ， ${ \mathrm { C } } { = } 1 0 0 ~ { \mu \mathrm { m } }$ ， $\scriptstyle \mathrm { D - J = } 8 3 0 \ \mu \mathrm { m }$ ， $\operatorname { K - O } { = } 8 3 ~ { \mu \mathrm { m } }$
+
+# 图版I裂齿藓
+
+Plate I Dichodontium pellucidum (Hedw.) Schimp.
+
+裂齿藓属(Dichodontium Schimp.)建立于1856年，目前全世界有4种，我国报道有2种（高谦，1993；贾渝等，2013)。本属与石毛藓属(Oreas Brid.)植物相似，区别在于本属蒴齿自先端2-3裂达中下部，后者蒴齿不分裂。本属也与狗牙藓属(Cynodontium Schimp.)相似，但本属孢蒴平滑，叶片多舌形、舌状披针形或阔披针形，较短，而后者孢蒴具明显纵棱，干燥时成纵沟，叶片多狭长至线状披针形，较长而有别（高谦，1993；Frahm etal,1998）。该属长期被置于曲尾藓科(Dicranaceae)中（高谦，1993；Frahm etal,1998)。根据分子系统学结论，现该属被置于昂氏藓科(Aongstroemiaceae)中(Frey et al,2009)，这是该科苔藓植物在山东的首次报道。
+
+# 2.粗疣藓属FauriellaBesch.
+
+粗疣藓 图版Ⅱ
+
+Fauriella tenuis (Mitt.) Cardot in Broth.,Nat.Pflanzenfam.(ed.2),11: 282,f.633.1925.
+
+植物体小，纤细，绿色，无光泽，密集丛生呈垫状。茎匍匐，不规则分枝，分枝纤细，不等长，先端较钝。叶覆瓦状排列，卵圆形至长卵圆形，内凹，先端渐尖；叶边多平展，稀内卷，具细齿；中肋缺失，或稀具极短弱中肋。叶细胞圆菱形，约 $1 8 { \sim } 2 5 \mu \mathrm { m } { \times } 3 . 3 { \sim } 5 \mu \mathrm { m }$ ，壁略加厚，每个细胞背面具单个明显乳头状高突起，叶尖部细胞略长，多平滑，角细胞方形。孢子体未见。
+
+标本鉴定：山东省烟台市牟平区昆崙山国家级自然保护区，神清观外赤松林，林下石上土生，海拔 $2 6 0 \mathrm { m }$ ，任昭杰、燕丽梅R16573（SDNU）。
+
+地理分布：中国（吉林、山东、安徽、浙江、湖南、重庆、贵州、台湾）和日本（吴鹏程，2002；贾渝等，2013）。
+
+![](images/47b237eb277a6a8200c88bcc45f19bf62cbf4d67aff9034eecf76eeb30edab1d.jpg)
+
+注：A．植物体一部分；B,C,D,E.茎叶；G,F.枝叶；H.叶尖部细胞；I.叶中部边缘细胞；J.叶基部细胞（任昭杰 绘)。标尺： $\scriptstyle \mathbf { A = } 0 . 8 3 \ \mathbf { m m }$ $\scriptstyle \mathbf { B - G } = 3 3 0 \ \mu \mathbf { m }$ ${ \mathrm { H - J } } { = } 8 3 ~ { \mu \mathrm { m } }$ 。
+
+Note: A.Portion of plant; B,C,D,E. Stem leaves; G,F.Branch leaves; H. Apical leaf cells; I. Median marginal leaf cells; J. Basal leaf cells (Drawn by REN Zhaojie). Scale bars: $\mathrm { A } { = } 0 . 8 3 ~ \mathrm { m m }$ ， $\scriptstyle \mathsf { B - G } = 3 3 0 \ \mathsf { \mu m }$ ${ \mathrm { H - J } } { = } 8 3 ~ { \mu \mathrm { m } }$
+
+图版ⅡI粗疣藓
+
+PlateIIFauriella tenuis (Mitt.) Cardot
+
+粗疣藓属(Fauriella Besch.)建立于1893年，长期以来其系统位置一直存在争议，曾被置于鳞藓科(Theliaceae)，羽藓科(Thuidiaceae)，异枝藓科(Heterocladiaceae),毛锦藓科(Pylaisiadelphaceae)和棉藓科(Plagiotheciaceae)中(吴鹏程，2002；Frey etal,2009；李晓芹等，2013)。本研究采用 Frey 的划分，将该属置于异枝藓科之下(Fery etal,2009)。目前，全世界报道异枝藓科有3属，即粗疣藓属，异枝藓属(Heterocladium Bruch&Schimp.)和小柔齿藓属(Iwatsukiell W.R.Buck &H.A.Crum）（Frey et al,2009；贾渝等，2013)，后二者在山东皆已有报道（任昭杰等，2016)。这是粗疣藓属在山东的首次报道，该属种类较少，目前报道有5 种，主要分布于亚洲的温带、亚热带地区以及热带高山区（Frey etal,2009；贾渝等，2013)。
+
+根据地理地貌，山东大致可分为鲁中南山地丘陵区、鲁东半岛低山丘陵区和鲁西鲁北平原区，鲁中南山地丘陵区西、南、北三个方向为鲁西鲁北平原和苏北平原包围，东部的鲁东低山丘陵区东、南、北三面环海，二者中间以潍河一沭河谷地相连（张祖陆，2014)，因此这两个地区与周围省份的山地形成了隔离，从而产生了一个相对独立的地理单元。而这一地理单元正是山东苔藓植物种类和资源最为丰富的地区（任昭杰等，2016)，其位置临近中国地理南北分界线秦岭一淮河一线，是我国南北植物交汇的重要地点。因此，裂齿藓和粗疣藓的发现不但丰富和完善了山东苔藓植物区系，也为研究它们以及它们所属类群的自然地理分布、传播路线和系统位置确定提供了基础资料和证据。
+
+# 参考文献:
+
+FREYW，STECH M，FISCHER E，2009.Bryophytesand seedlessvascular plants[M]. Stuttgant:Gebr.Brontraeger Verlagsbuchhandlung:1-263.  
+FRAHM JP,KUNERT V,FRANZENI,et al,1998. Revision der Gatung Dichodontium (Musci, Dicranaceae)[J].Trop Bryol,14: 109-118.  
+GAO Q,1994.Flora bryophytorum sinicorum[M].Beijing: Science Press,1:112-334.[高谦，1994.中国苔藓志[M]．北京：科学出版社，1：112-334.]  
+JIAY,HE S,2013.Species catalogue of China (Vol.1Plants,Bryophytes)[M].Beijing: Science Pres:1-525.[贾渝，何思，2013．中国生物物种名录（第一卷 植物 苔藓植物）[M].北京：科学出版社：1-525.]  
+LI XQ,MA J,LI M, et al,2014. Taxonomic status of Fauriella Besch. inferred from ITS,trnL-Fand rps4 generegions[J].Acta Bot Boreal-Occident Sin,34(1):72-76.[李晓芹，马婧，李敏，等，2014.基于ITS和 trmL-F以及rps4 基因片段的粗疣藓属分类学地位研究[J]．西北植物学报，34(1):72-76.]  
+REN ZJ,ZHAO ZT,2016.Bryophyte flora of Shandong[M]. Qingdao: Qingdao Publishing House: 1-450.[任昭杰,赵遵田，2016.山东苔藓志[M]．青岛：青岛出版社：1-450.]  
+WU PC,2002.Flora bryophytorum sinicorum[M]. Beijing: Science Press,6:77-84.[吴鹏程，2002.中国苔藓志[M]．北京：科学出版社,6：77-84.]  
+ZHANG ZL,2014.Shandong dili[M]. Beijing: Beijing Normal University Publishing House:121-132.[张祖陆,2014．山东地理[M].北京：北京师范大学出版社：121-132.]

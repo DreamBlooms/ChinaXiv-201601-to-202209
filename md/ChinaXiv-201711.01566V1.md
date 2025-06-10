@@ -1,0 +1,147 @@
+亮氨酸对奶牛乳腺上皮细胞内乳脂合成相关基因和蛋白表达的影响赵艳丽 陈 璐 史彬林 郭晓宇 闫素梅（内蒙古农业大学动物科学学院，呼和浩特010018）
+
+摘要：本试验旨在研究亮氨酸（Leu）对泌乳奶牛乳腺上皮细胞（BMECs）内乳脂合成相关基因和蛋白表达的影响，以探讨Leu对乳脂合成的影响机理。将第3代BMECs随机分为6个处理，每个处理6个重复。6个处理培养液中Leu浓度分别为0.45、0.90、1.80、2.70、3.60和7.20 mmol/L，37℃、 $5 \%$ （204号 $\mathrm { C O } _ { 2 }$ 培养 $4 8 \mathrm { { h } }$ 后测定BMECs内甘油三酯（TG）的含量及乳脂合成相关基因和过氧化物酶体增殖物激活受体（PPARγ）与固醇调节元件结合蛋白（SREBP1）蛋白的的相对表达量。结果显示：Leu 浓度对 BMECs内 TG 含量无显著影响（ $P { > } 0 . 0 5$ ）。适宜浓度的Leu 显著促进脂肪酸合成酶（FASN）和乙酰辅酶A羧化酶A（ACACA）基因的表达 $( P { < } 0 . 0 5 )$ ，FASN基因的相对表达量以1.80\~2.70 mmol/LLeu处理、ACACA基因的相对表达量以 $1 . 8 0 { \sim } 7 . 2 0 ~ \mathrm { m m o l / L }$ 处理较高。Leu 浓度显著影响BMECs内SREBP1基因及蛋白表达（ $. P { < } 0 . 0 5$ ），以1.80 mmol/LLeu的促进效果最好。虽然Leu 显著抑制 BMECs 内脂肪酸结合蛋白3（FABP3）、脂蛋白脂酶（LPL）、乙酰甘油磷酸脂酰转移酶 6(AGPAT6)、线粒体甘油-3-磷酸酰基转移酶（GPAM）和嗜乳脂蛋白亚家族1成员1（BTN1A1）基因的表达（ $\scriptstyle \cdot < 0 . 0 5$ ），但只有高浓度（3.60\~7.20mmol/L）的Leu抑制作用较大。综合来看，Leu 浓度影响 BMECs 乳脂合成相关基因及PPARy 和 SREBP1蛋白的表达。Leu 浓度为
+
+收稿日期：2016-09-28
+
+基金项目：国家奶业"973计划"项目（2011CB1008003）
+
+作者简介：赵艳丽（1986-），女，陕西榆林人，博士研究生，从事奶牛乳腺上皮细胞内乳脂乳蛋白合成调控研究。E-mail:ylzhao2010@163.com
+
+\*通信作者：闫素梅，教授，博士生导师，E-mail:yansmimau@163.com
+
+1.80\~2.70 mmol/L时，对脂肪酸从头合成相关基因及调控因子SREBP1蛋白表达的促进效果较好，对TG合成及脂滴形成相关基因表达的抑制作用较小。
+
+关键词：奶牛；乳腺上皮细胞；亮氨酸；乳脂  
+中图分类号：S827 文献标识码： 文章编号：  
+牛奶总固形物中乳脂含量高达 $2 7 \%$ ，是构成牛奶的重要物质基础，也是衡量乳品质的重要指标。氨基酸（AA）作为乳蛋白合成的主要前体物，不仅影响乳蛋白合成，对乳脂的合成也有影响[1]，因此，深入研究 AA 对乳脂合成的影响及其机理对改善乳品质有重要的意义。亮氨酸（Leu)是动物的必需氨基酸，研究发现，小鼠饲粮缺乏Leu 后其白色脂肪组织中的脂肪合成受限制，脂肪酸合成酶（FASN）和乙酰辅酶A 羧化酶A（ACACA）基因以及固醇调节元件结合蛋白1c（SREBPIc）和 FASN 蛋白的表达显著下降，血清游离脂肪酸和甘油的含量也显著下降[2]。体外研究发现，Leu在影响乳蛋白合成的同时，也促进奶牛乳腺上皮细胞（BMECs）内固醇调节元件结合蛋白-1（SREBP1）基因的表达和甘油三酯（TG）的合成[3]。这些结果提示 Leu 可能通过影响脂肪合成相关基因的表达促进脂肪合成。然而，采食高脂饲粮的小鼠摄入过量的Leu 后，其体重下降，脂肪合成受抑制[4]。也有研究发现小鼠日摄入需要量 2倍以上的Leu 对血浆胆固醇和 TG 的合成无显著的影响[5]。可见，Leu 对动物脂肪代谢的影响在不同的组织中不完全一样，有关 Leu 对奶牛乳脂合成的影响及其机理的研究报道很少。鉴于此，本试验以 BMECs为模型，研究不同浓度Leu 对乳脂合成相关基因及蛋白表达的影响，为进一步探讨Leu对乳脂合成的影响机理提供理论基础。1 材料与方法  
+1.1 主要试剂  
+DMEM/F12基础培养基（12400-024）、胎牛血清（FBS，10099-141）、II型胶原酶（17101-015）、胰岛素转铁蛋白硒钠（51500-056）、细胞培养用青链霉素混合液（15140-122）及 $0 . 0 5 \%$ 胰蛋白酶胰蛋白酶-乙二胺四乙酸（EDTA）溶液（25300054）均购自Gibco 公司。亮氨酸  
+（L8912）、琼脂糖（A9539）、氢化可的松（H0135）、催乳素（L6520）、表皮生长因子（EGF，
+
+E4127）、油红O（O9755）、兔抗过氧化物酶体增殖物激活受体γ（PPARγ）抗体（AV32880）购自 Sigma 公司。鼠抗 SREBP1抗体（ab3259）购自Abcam公司。RIPA蛋白裂解液（P0013C）、苯甲基磺酰氟（PMSF，ST506）、二喹啉甲酸（BCA）蛋白浓度测定试剂盒（P0012）、Western一抗稀释液（P0023A）、Western二抗稀释液（P0023D）、Western十二烷基硫酸钠-聚丙烯酰胺凝胶电泳(SDS-PAGE)电泳液（PO014B）、Western转膜液（PO012B）、ECL化学超敏显色液（P0018）均购自北京碧云天公司。RNAiso PLUS（D9109B）、PrimeScriptTMRTMaster Mix（DRR036A）和 SYBR@Premix Ex TaqTM I试剂盒（DRR820A）均购自 TaKaRa 公司。Tris-HCl缓冲液（TBST）、兔抗甘油醛-3-磷酸脱氢酶（GAPDH）抗体（10494-1-AP）、辣根过氧化物酶（HRP）标记山羊抗兔二抗（04-15-06）、HRP 标记山羊抗鼠二抗（LK2003）分别购自HyClone、Proteintech、KPL、三箭公司。无蛋白封闭液（C520041）购自上海生工有限公司。
+
+# 1.2试剂配制
+
+生长培养基的配制：在 $1 0 0 ~ \mathrm { { m L } }$ 的DMEM/F12基础培养基中添加 $10 \%$ 胎牛血清、 $1 \%$ 胰岛转铁蛋白、 $1 ~ \mu \mathrm { g / m L }$ 氢化可的松、 $0 . 5 \%$ 胰岛素转铁蛋白硒钠、 $\mathrm { 1 0 ~ n g / m L }$ 表皮生长因子、 ${ 5 \ \mu \mathrm { g / m L } }$ 催乳素、$1 0 0 ~ \mu \mathrm { g / m L }$ 链霉素、 $1 0 0 \ : \mathrm { I U / m L }$ 青霉素和 $2 . 5 \mu \mathrm { g / m L }$ 两性霉素B。Leu 工作液的配制：称取 $0 . 1 1 8 \mathrm { g }$ 的Leu 粉末溶于 $1 0 \mathrm { m L }$ 无血清的生长培养基中，配成浓度为$9 0 \mathrm { m m o l } / \mathrm { L }$ 的Leu 贮备液， $0 . 2 2 \mu \mathrm { m }$ 滤器过滤。用无血清的生长培养基按照梯度稀释法将90mmol/L的Leu贮备液根据试验要求配制成不同Leu浓度的细胞培养液。
+
+# 1.3 BMECs的培养
+
+采用胶原酶消化法培养BMECs，具体方法参照 Sheng 等的方法进行。从内蒙古呼和浩特市北亚清真屠宰场选取3\~5岁经产的健康泌乳中期的高产荷斯坦奶牛乳腺组织， $0 { \sim } 4 \ \mathrm { ^ \circ C }$ 条件下运回实验室。从深层取约 $1 \mathrm { c m } ^ { 3 }$ 组织块放入 $3 \times$ 双抗的磷酸盐缓冲液（PBS）中。随后分别用 $3 \times$ 双抗的PBS、 $7 5 \%$ 酒精和 $1 \times \mathrm { P B S }$ 清洗。将腺泡丰富的组织剪成糊状后加入等体积 $0 . 5 \%$ 的 $\mathrm { I I }$ 型胶原酶， $3 7 \ \mathrm { { ^ circ C } }$ 消化1h。80目滤网过滤后， $1 7 9 \times g$ 离心 $5 \mathrm { m i n }$ ，弃上清；PBS 冲洗细胞， $1 7 9 \times g$ 离心 $3 \mathrm { m i n }$ ，重
+
+复冲洗2次。用生长培养基悬浮接种于 $2 5 \mathrm { c m } ^ { 2 }$ 透气培养瓶中，于 $3 7 \ \mathrm { { ^ circ C } }$ 、 $5 \%$ $\mathrm { C O } _ { 2 }$ 条件下培养，直至原代细胞贴壁率达约 $9 0 \%$ 后用 $0 . 0 5 \%$ 胰蛋白酶-EDTA纯化和传代细胞。
+
+# 1.4 试验设计
+
+收集第3代 BMECs并悬浮于生长培养基中按照试验要求的密度接种于细胞培养板上，于$3 7 \ \mathrm { { ^ circ C } }$ 、 $5 \%$ $\mathrm { C O } _ { 2 }$ 培养 $2 4 \mathrm { h }$ 。试验采用单因子随机试验设计，将BMECs培养 $2 4 \mathrm { h }$ 后随机分为6个处理，每个处理6个重复。细胞培养液中Leu的浓度是参考庞学燕[7和代文婷等[8]的研究结果，然后利用噻唑蓝（MTT）法通过细胞的增殖率确定，6个处理Leu的浓度分别为0.45、0.90、1.80、3.60、2.70 和 $7 . 2 0 \mathrm { m m o l / L }$ ，每个处理6个重复。在BMECs 贴壁率为 $8 0 \% { \sim } 9 0 \%$ 时，换为无血清的生长培养基， $1 2 \mathrm { ~ h ~ }$ 后按照试验设计要求换为不同Leu浓度的细胞培养液， $3 7 \mathrm { ~ \textdegree ~ }$ 、 $5 \%$ $\mathrm { C O } _ { 2 }$ 培养 $^ { 4 8 \mathrm { ~ h ~ } }$ 号
+
+# 1.5测试指标与方法
+
+# 1.5.1BMECs内TG含量的测定
+
+BMECs内 TG的含量参考Ramirez-Zacarias 等9]的方法测定，用吸光度(OD)值的大小表示其含量，具体方法：将细胞悬液以 $5 { \times } 1 0 ^ { 4 }$ 个 $/ \mathrm { m L }$ 的密度接种于24孔培养板，按试验设计培养 $4 8 \mathrm { { h } }$ 后，弃培养液，PBS 漂洗2次，每孔加入 $4 \%$ 多聚甲醛溶液 $0 . 2 { \mathrm { m L } }$ 固定细胞1h后，PBS漂洗2次，0.5mL 油红O工作液避光浸染 $2 \mathrm { h }$ 。然后用PBS漂洗3次，晾干培养板后，加入 $0 . 3 ~ \mathrm { m L }$ 异丙醇萃取$3 0 \mathrm { m i n }$ ，用全自动酶标仪在波长为 $5 1 0 \mathrm { n m }$ 处测定其OD 值。
+
+1.5.2BMECs内乳脂合成相关基因表达的测定
+
+BMECs内乳脂合成相关基因的表达采用荧光定量PCR仪（Thermo，美国）检测，引物设计使用 Primer 5.0进行（表1），测定的基因包括FASN、ACACA、硬脂酰辅酶A去饱和酶1（SCD1）、脂肪酸结合蛋白3（FABP3）、脂蛋白脂酶（LPL）、PPARy、SREBP1、乙酰甘油磷酸脂酰转移酶6（AGPAT6）、线粒体甘油-3-磷酸酰基转移酶（GPAM）、磷脂酸磷酸酯酶1（LPIN1）、嗜乳脂蛋白亚家族1成员1（BTNIA1）、黄嘌呤脱氢酶（XDH），并以GAPDH为管家基因。将细胞悬液以 $2 { \times } 1 0 ^ { 5 }$ 个 $/ \mathrm { m L }$ 的密度接种于24孔培养板，按试验设计培养 $^ { 4 8 \mathrm { { h } } }$ 后提取总RNA。总RNA的提取采用Trizol法，于全自动酶标仪上检测总RNA的纯度与浓度， $\mathrm { O D } _ { 2 6 0 } { \mathrm { ~ n m } } / \mathrm { O D } _ { 2 8 0 \mathrm { n m } }$ 在 $1 . 8 { \sim } 2 . 2$ 范围内表示RNA纯度较好。在 $2 \%$ 凝胶上电泳检测RNA完整性。RNA反转录成cDNA的操作步骤按照PrimeScriptTMRTMasterMix试剂盒的说明书进行，反转录体系为 $1 0 \mu \mathrm { L }$ 。基因表达量的检测依据 SYBR@PremixEx TaqTMII试剂盒的说明书进行操作，反应体系为 $2 0 { \mu \mathrm { L } }$ 。实时荧光定量PCR 的反应程序为： $9 5 ~ \mathrm { ^ { \circ } C }$ 预变性 $3 0 ~ \mathrm { s }$ ， $9 5 ~ \mathrm { ^ { \circ } C }$ 变性 $5 \mathrm { ~ s ~ }$ ; $6 0 ~ \mathrm { ^ { \circ } C }$ 退火 $3 4 ~ \mathrm { s }$ ， $9 5 ~ \mathrm { ^ { \circ } C }$ 延伸 $2 0 ~ \mathrm { s }$ ，进行40个循环；95℃、5s, $6 0 ~ \mathrm { ^ { \circ } C }$ 、 $3 0 ~ \mathrm { s }$ ， $9 5 \ \mathrm { ^ \circ C }$ 、 $1 5 \mathrm { ~ s ~ }$ ，51个循环；绘制熔解曲线。采用 $2 ^ { \Delta \Delta } \mathrm { C t }$ 法进行目的基因相对表达量的计算。
+
+表1乳脂合成相关基因的引物序列  
+Table 1 Primer sequences of genes related with milk fat synthesis   
+
+<html><body><table><tr><td>基因</td><td>GenBank 登录号</td><td>引物序列</td><td>长度</td><td>参考文献</td></tr><tr><td>Genes GAPDH</td><td>GenBank accession No. XM_001252479</td><td>Primer sequences (5'-3") F:GGGTCATCATCTCTGCACCT</td><td>Length/bp 177</td><td>References Zhou等[10]</td></tr><tr><td></td><td></td><td>R:GGTCATAAGTCCCTCCACGA</td><td></td><td></td></tr><tr><td>FASN</td><td>NM_001012669</td><td>F:AGGACCTCGTGAAGGCTGTGA</td><td>85</td><td>Qi等[11]</td></tr><tr><td></td><td></td><td>R:CCAAGGTCTGAAAGCGAGCTG</td><td></td><td></td></tr><tr><td>ACACA</td><td>AJ132890</td><td>F: CATCTTGTCCGAAACGTCGAT</td><td>101</td><td>Bionaz 等[12]</td></tr><tr><td></td><td></td><td>R:CCCTTCGAACATACACCTCCA</td><td></td><td></td></tr><tr><td>SCD1</td><td>AY241933</td><td>F:TCCTGTTGTTGTGCTTCATCC</td><td>101</td><td>Bionaz 等[12]</td></tr><tr><td></td><td></td><td>R:GGCATAACGGAATAAGGTGGC</td><td></td><td></td></tr><tr><td>FABP3</td><td>DN518905</td><td>F:GAACTCGACTCCCAGCTTGAA</td><td>102</td><td>Bionaz 等[12]</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>LPL</td><td>BC118091</td><td>R:AAGCCTACCACAATCATCGAAG</td><td>101</td><td>Bionaz 等[12]</td></tr><tr><td></td><td></td><td>F:ACACAGCTGAGGACACTTGCC</td><td></td><td></td></tr><tr><td>PPARy</td><td>NM_181024</td><td>R:GCCATGGATCACCACAAAGG</td><td>101</td><td>Bionaz 等[12]</td></tr><tr><td></td><td></td><td>F:CCAAATATCGGTGGGAGTCG</td><td></td><td></td></tr><tr><td>SREBP1</td><td></td><td>R:ACAGCGAAGGGCTCACTCTC</td><td></td><td></td></tr><tr><td></td><td>NM_001113302</td><td>F: CTGACGACCGTGAAAACAGA</td><td>334</td><td>张养东[13]</td></tr><tr><td>AGPAT6</td><td></td><td>R.AGACGGCAGATTTATTCAACTT</td><td></td><td></td></tr><tr><td></td><td>DY208485</td><td>F:AAGCAAGTTGCCCATCCTCA</td><td>101</td><td>Bionaz 等[12]</td></tr><tr><td>GPAM</td><td></td><td>R:AAACTGTGGCTCCAATTTCGA</td><td></td><td></td></tr><tr><td></td><td>NM_001012282.1</td><td>F:GCAGGTTTATCCAGTATGGCATT</td><td>63</td><td>Bionaz 等[12]</td></tr><tr><td></td><td></td><td>R:</td><td></td><td></td></tr><tr><td>LPIN1</td><td>DV797268</td><td>GGACTGATATCTTCCTGATCATCTTG</td><td>101</td><td></td></tr><tr><td></td><td></td><td>F:TGGCCACCAGAATAAAGCATG</td><td></td><td>自行设计</td></tr></table></body></html>
+
+R:GCTGACGCTGGACAACAGG  
+BTN1A1 M35551 F:AGGACGGACTGGGCAATTG 81 Bionaz 等[12]R:GAACCCATTCTCGGGAGTCAT  
+XDH BC102076 F:GATCATCCACTTTTCTGCCAATG 100 自行设计R:CCTCGTCTTGGTGCTTCCAA
+
+GAPDH：甘油醛-3-磷酸脱氢酶 glycerol phosphate dehydrogenase；FASN：脂肪酸合成酶 fatty acid synthase;ACACA：乙酸辅酶A羧化酶Aacetyl-coenzymeAcarboxylase $\mathfrak { a }$ ；SCD1：硬脂酰辅酶A去饱和酶1stearoyl-CoAdesaturase 1；FABP3：脂肪酸结合蛋白 3 faty acid-binding protein 3；LPL：脂蛋白脂酶 lipoprotein lipase； $P P A R \gamma$ 过氧化物酶体增殖物激活受体 y peroxisome proliferator-activated receptor gamma；SREBP1：与固醇调节元件结合蛋白1 sterol regulatory element binding protein1；AGPAT6：乙酰甘油磷酸脂酰转移酶61-acylglycerol-3-phosphate O-acyltransferase 6；GPAM：线粒体甘油-3-磷酸酰基转移酶 mitochondrial glycerol-3-phosphate acyltransferase；LPIN1:磷脂酸磷酸酯酶1 phosphatidic acid phosphatase 1；BTN1A1：嗜乳脂蛋白亚家族1成员1butyrophilin subfamily 1member A1；XDH：黄嘌呤脱氢酶 xanthine dehydrogenase。表 2同。The same as Table 2.1.5.3BMECs内乳脂合成相关蛋白表达的测定BMECs内乳脂合成相关蛋白的表达采用Western bloting（蛋白质免疫印迹）的方法测定。将细胞悬液以 $1 \times 1 0 ^ { 6 }$ 个 $/ \mathrm { m L }$ 的密度接种于 $2 5 \mathrm { c m } ^ { 2 }$ 细胞培养瓶，按试验设计培养 $4 8 \mathrm { h }$ 后，弃上清，PBS清洗贴壁生长的细胞2次，弃去上清，加入含 $0 . 1 \%$ PMSF的RIPA细胞裂解液 $2 5 0 \mu \mathrm { L }$ ， $4 \mathrm { { ^ \circ C } }$ 裂解5min 后收集细胞悬液， $4 \mathrm { { ^ \circ C } }$ 、 $1 5 4 5 5 \times g$ 离心 $1 0 \mathrm { m i n }$ ，收集上清液检测 PPARγ和 SREBP1蛋白的表达。将 $6 0 ~ { \mu \mathrm { g } }$ 待检测蛋白样品与 $5 \times$ 上样缓冲液按照4:1的比例混合， $1 0 0 \mathrm { ^ \circ C }$ 变性 $5 \mathrm { m i n }$ 后进行电泳，于浓缩胶上 $8 0 \mathrm { V }$ 电泳 $4 0 \mathrm { m i n }$ ，分离胶上 $1 2 0 { \mathrm { V } }$ 电泳 $1 0 0 \mathrm { { m i n } }$ 。目的蛋白经电泳分离后转移到聚偏二氟乙烯（PVDF）膜上。转膜完成后，用蒸馏水冲洗 $1 \mathrm { m i n }$ ，室温封闭1h后，TBST洗涤3次，每次$2 \mathrm { m i n }$ 。然后分别用兔抗PPARγ（1:250）和鼠抗 SREBP1（1:50）于 $4 \mathrm { { ^ \circ C } }$ 孵育过夜，取出PVDF 膜后TBST洗涤3次，每次 $5 \mathrm { m i n }$ 。分别用山羊抗兔二抗（1:1000）和山羊抗鼠二抗（1:500）室温孵育1h，TBST洗涤3次，每次 $8 \mathrm { m i n }$ 。用ECL化学超敏显色液进行显色，凝胶成像仪上照相分析
+
+（Tanongis-1000，上海天能生物科技公司）。图片用Quantityone 软件进行灰度值分析，PPARγ 和SREBP1蛋白的相对表达量采用各处理与Leu浓度为 $0 . 4 5 \mathrm { m m o l / L }$ 的处理的比值表示。
+
+1.6 数据处理所有数据利用Excel2007进行计算和整理，采用SAS9.0软件的回归统计程序进行一次线性与二次曲线回归分析， $P { < } 0 . 0 5$ 表示回归关系显著， $0 . 0 5 { \leqslant } P { < } 0 . 1 0$ 表示回归关系趋于显著。
+
+2结果
+
+2.1Leu对BMECs内TG含量和乳脂合成相关基因表达的影响
+
+由表2可知，不同浓度（0.45～7.20 mmol/L）Leu处理的 BMECs内 TG含量差异不显著（ $. P { > } 0 . 0 5$ ），但0.90\~2.70 mmol/LLeu 处理的TG含量在数值上高于其他处理。随着Leu 浓度的增加，BMECs内FABP3基因的相对表达量呈显著的一次线性下降（ $\scriptstyle P = 0 . 0 1 8 { \mathrm { . } }$ ）， $L P L$ 基因的相对表达量呈显著的二次曲线下降（ $_ { \scriptstyle P = 0 . 0 1 6 }$ ），二者在 $3 . 6 0 { \sim } 7 . 2 0$ mmol/LLeu处理的相对表达量均较低;BMECs内FASN和ACACA基因的相对表达量均呈显著的二次曲线增加（ $_ { P = 0 . 0 1 3 }$ 、 $\scriptstyle P = 0 . 0 0 2$ ），FASN基因的相对表达量以1.80\~2.70 mmol/LLeu处理较高， $7 . 2 0 \mathrm { m m o l / L }$ Leu处理较低；BMECs内 ACACA 基因的相对表达量以1.80\~7.20 mmol/LLeu 处理较高，其他处理均较低。BMECs 内SCD1和PPARy基因的相对表达量与Leu浓度无显著的回归关系（ $\cdot P { > } 0 . 0 5$ ），但从数值上看，PPARy基因的相对表达量以0.90\~2.70 mmol/LLeu处理较高，7.20 mmol/LLeu处理最低。BMECs内 SREBP1基因的相对表达量随Leu 浓度的增加呈显著的二次曲线增加（ $\scriptstyle P = 0 . 0 2 2$ ），以1.80mmol/LLeu 处理的相对表达量最高，7.20 mmol/LLeu 处理的相对表达量最低。BMECs 内AGPAT6、GPAM、LPIN1和 BTN1A1 基因的相对表达量随Leu 浓度的增加呈显著的一次线性下降（ $_ { \scriptstyle P = 0 . 0 1 8 }$ ，$\scriptstyle P = 0 . 0 3 2$ 、 $\scriptstyle P = 0 . 0 3 4$ 、 $P { < } 0 . 0 0 1$ ），以0.45\~2.70 mmol/LLeu 处理的 AGPAT6、GPAM和BTN1A1基因的相对表达量较高，以0.45\~1.80 mmol/LLeu 处理的 LPIN1基因的相对表达量较高。BMECs 内XDH基因的相对表达量与Leu浓度无显著的回归关系（ $. P { > } 0 . 0 5$ ）。
+
+表2Leu对BMECs内TG含量和乳脂合成相关基因表达的影响
+
+137 Table 2 Effects of Leu on TG content and expresson of genes related with milk fat synthesis in BMECs   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="6">Leu 浓度 Leu concentration/(mmol/L)</td><td rowspan="2">SEM</td><td colspan="2">P值P-value</td></tr><tr><td>0.45</td><td>0.90</td><td>1.80</td><td>2.70</td><td>3.60</td><td>7.20</td><td>一次Linear</td><td>二次Quadratic</td></tr><tr><td>甘油三酯含量TGcontent</td><td>0.120</td><td>0.126</td><td>0.127</td><td>0.122</td><td>0.118</td><td>0.115</td><td>0.009</td><td>0.153</td><td>0.325</td></tr><tr><td colspan="10">乳脂合成相关基因的相对表达量 Relative expresson levels of genes related with milk fat synthesis</td></tr><tr><td>FABP3</td><td>1.00</td><td>0.92</td><td>0.91</td><td>0.84</td><td>0.54</td><td>0.52</td><td>0.090</td><td>0.018</td><td>0.055</td></tr><tr><td>LPL</td><td>1.00</td><td>0.80</td><td>0.78</td><td>0.63</td><td>0.41</td><td>0.39</td><td>0.055</td><td>0.022</td><td>0.016</td></tr><tr><td>FASN</td><td>1.00</td><td>1.10</td><td>1.52</td><td>1.21</td><td>0.99</td><td>0.74</td><td>0.065</td><td>0.017</td><td>0.013</td></tr><tr><td>ACACA</td><td>1.00</td><td>1.06</td><td>1.26</td><td>1.43</td><td>1.44</td><td>1.75</td><td>0.027</td><td>0.002</td><td>0.002</td></tr><tr><td>SCD1</td><td>1.00</td><td>1.15</td><td>1.33</td><td>1.10</td><td>0.93</td><td>0.82</td><td>0.159</td><td>0.148</td><td>0.337</td></tr><tr><td>PPARy</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>E</td><td></td><td>1.36</td><td>1.44</td><td>1.36</td><td>1.12</td><td>85</td><td>0.00</td><td>0.229</td><td>0.02</td></tr><tr><td>6 AGPAT6</td><td>1.00</td><td>0.98</td><td>0.99</td><td>0.95</td><td>0.89</td><td>0.84</td><td>0.058</td><td>0.018</td><td>0.097</td></tr><tr><td>15PAM</td><td>1.00</td><td>1.01</td><td>1.09</td><td>0.94</td><td>0.81</td><td>0.76</td><td>0.036</td><td>0.032</td><td>0.144</td></tr><tr><td>2PIN1</td><td>1.00</td><td>1.01</td><td>1.09</td><td>0.71</td><td>0.59</td><td>0.53</td><td>0.130</td><td>0.034</td><td>0.100</td></tr><tr><td>BTN1A1</td><td>1.00</td><td>1.03</td><td>0.98</td><td>0.93</td><td>0.87</td><td>0.77</td><td>0.065</td><td><0.001</td><td>0.009</td></tr><tr><td>XDH</td><td>1.00</td><td>1.02</td><td>1.21</td><td>1.01</td><td>1.03</td><td>1.05</td><td>0.119</td><td>0.681</td><td>0.634</td></tr></table></body></html>
+
+$P { < } 0 . 0 5$ 表示回归关系显著； $0 . 0 5 { \leqslant } P { < } 0 . 1 0$ 表示回归关系趋于显著。下表同。$P { < } 0 . 0 5$ means regression relationship was significant; $0 . 0 5 { \leqslant } P { < } 0 . 1 0$ means regression relationshiptend to be significant. The same as below.2.2Leu对BMECs内乳脂合成相关蛋白表达的影响由表3和图1可知，BMECs内PPARγ蛋白的相对表达量与Leu浓度无显著的剂量依赖关系（ $. P { > } 0 . 0 5$ ），但从数值上看，以0.90\~2.70 mmol/LLeu处理的相对表达量较高，3.60\~7.20 mmol/LLeu 处理的相对表达量较低。BMECs内 SREBP1蛋白的相对表达量随着Leu浓度的增加呈显著的二次曲线增加（ $\scriptstyle P = 0 . 0 3 2$ ），以0.90\~3.60 mmol/LLeu处理的相对表达量较高，且尤以1.80 mmol/LLeu 处理的相对表达量最高，以7.2mmol/LLeu 处理的相对表达量最低。
+
+# 表3Leu对BMECs内乳脂合成相关蛋白表达的影响
+
+<html><body><table><tr><td rowspan="3">项目 Items</td><td colspan="6">Leu 浓度Leu concentration/(mmol/L)</td><td rowspan="3">SE</td><td colspan="2">P值 P-value</td></tr><tr><td>0.4 5</td><td>0.9 0</td><td>1.8 0</td><td>2.7 0</td><td>3.6 7.2</td><td>M</td><td>一次 Linear</td><td>二次 Quadratic</td></tr><tr><td>过氧化物酶体增殖物激活受体Y</td><td>1.0</td><td>1.9</td><td>2.1</td><td>1.6</td><td>0.9</td><td>0.9</td><td>0.17</td><td>0.240</td><td>0.176</td></tr><tr><td>PPARγ</td><td>0</td><td>4</td><td>0</td><td>1</td><td>6</td><td>2</td><td>4</td><td></td><td></td></tr><tr><td>与固醇调节元件结合蛋白1</td><td>1.0</td><td>1.3</td><td>1.8</td><td>1.4</td><td>1.2</td><td>0.8</td><td>0.11</td><td>0.162</td><td>0.032</td></tr><tr><td>SREBP1</td><td>0</td><td>2</td><td>9</td><td>5</td><td>2</td><td>2</td><td>7</td><td></td><td></td></tr></table></body></html>
+
+GAPDH：甘油醛-3-磷酸脱氢酶 glycerolphosphate dehydrogenase；PPARy：过氧化物酶体增殖物激活受体 $\gamma$ peroxisome proliferator-activated receptor gamma；SREBP1：与固醇调节元件结合蛋白1 sterol regulatory element binding protein 1。
+
+![](images/6cbe3c03eaf63b5ce83b635459e1ffe22d35dba7565f9c4e0bdca9df4d087ded.jpg)  
+图1Leu对BMECs内乳脂合成相关蛋白表达的影响  
+Fig.1 Effects of Leu on expression of proteins related with milk fat synthesis in BMECs
+
+3讨论
+
+细胞内脂肪酸的自由扩散效率较低，而且不具有生物靶向性，所以大部分脂肪酸的靶向性运输都需要相关转运蛋白的参与[I4]。LPL和FABP3基因是参与哺乳动物多种组织中长链脂肪酸（LCFA）摄取与细胞内转运的重要基因[15]。在玉米秸秆为粗饲料的条件下，奶牛阴外动脉灌注AA后，乳腺对LCFA的摄取及乳脂中的C18:0、c-9,c-12-C18:2和C18:3含量也下降[16]。本研究结果得出，随着Leu浓度的增加，BMECs内FABP3和LPL基因的相对表达量下降，说明Leu可能
+
+抑制 BMECs内LCFA的摄入与转运。目前，关于Leu对 FABP3和LPL基因表达影响的研究报道极少，有待于进一步研究探讨。  
+与固醇调节元件结合蛋白（SREBP）和PPARy是乳脂肪合成的重要调控因子。沉默BMECs内 SREBP1基因后，ACACA和FASN基因的相对表达量显著下降[17]。用PPARy的激活剂罗格列酮处理BMECs后，FASN和ACACA基因的相对表达量增加[18]。ACACA是脂肪酸从头合成的一种限速酶，催化乙酰-辅酶A(CoA)羧化生成丙二酰CoA。FASN 是一种多功能的酶系统，以一种代谢酶类参与脂肪的生成和沉积，是体内脂肪合成途径中的一个关键酶。在泌乳期间乳腺内FASN 基因编码的蛋白FASN 调控中短链脂肪酸（SMCFA）（C4\~C16）的合成[19]。Cheng 等[2]的研究发现，小鼠饲粮缺乏Leu 后白脂肪组织中FASN和ACACA基因的相对表达量以及FASN 和 SREBPlc 蛋白的相对表达量显著下降。另有研究发现，Leu上调BMECs内 SREBP1基因的表达[3]。本研究结果显示，1.8\~2.7mmol/L的 Leu可上调 SREBP1和 PPARy基因和蛋白的表达，其靶基因ACACA 和FASN 的表达也上调。这说明 Leu对乳脂的合成有显著的影响，且 SREBP1和PPARγ可能参与 Leu对乳脂合成的调控；此外，Leu对乳脂合成的影响与剂量有关，1.8\~2.7mmol/L的Leu可促进SMCFA的合成。  
+GPAM、AGPAT6和LPIN1是参与TG合成的主要基因，同时其编码的蛋白也是参与乳脂合成的关键酶[20]。GPAM催化脂酰CoA结合到甘油-3-磷酸的 sn-1位点形成溶血磷脂酸，AGPAT催化第2个脂酰辅酶A结合到甘油-3-磷酸的 sn-2位点形成磷脂酸。LPIN1能转移磷酸基团，将磷脂酸转变成二酰甘油，然后，另外一个脂酰CoA酯化到甘油的 sn-3位点形成 TG。乳腺细胞内的 TG在一系列蛋白的作用下形成脂滴。BTN1A1和XDH是参与脂滴形成的主要蛋白[21]。BTN1A1在乳腺细胞分泌时帮助形成乳脂滴，XDH在乳脂肪球和细胞顶膜偶联过程中起重要作用。Leu、异亮氨酸（Ile）和缬氨酸（Val）等支链氨基酸（BCAA）对饲喂高脂饲粮的小鼠肥胖和脂肪代谢平衡具有一定影响，BCAA组小鼠肝脏和肌肉中TG的含量较对照组显著降低[22]。然而，日摄入2倍以上需要量的Leu对小鼠血浆胆固醇和 TG的合成无显著的影响[5]。这些研究结果说明Leu对 TG 合成的
+
+影响结果不尽一致。本研究结果表明，高浓度（3.60\~7.20 mmol/L）Leu尽管抑制GPAM和AGPAT6基因的表达，但对 TG的合成并没有显著的抑制效果；结果也得出Leu促进了脂肪酸的从头合成但抑制了与LCFA的摄取与转运有关的基因的表达，这可能是导致其对TG合成影响不显著的主要原因。本研究还得出，高浓度Leu下调脂滴形成相关基因BTN1A1基因的表达。在奶山羊BMECs内，FASN基因干扰后 BTN1A1基因的相对表达量和脂滴形成数量显著下降[23]，说明高浓度Leu 处理BMECs内 BTNIA1基因表达的下调可能与FASN基因表达的下调有关。综合结果得出Leu 对脂肪酸从头合成基因FASN和ACACA基因的表达均具有促进作用，且呈剂量依赖关系，FASN基因的表达以1.80\~2.70 mmol/L的 Leu 促进效果较好，ACACA基因的表达以1.80\~7.20 mmol/L 的 Leu促进效果较好；Leu上调 SREBP1基因及蛋白的表达，1.80 mmol/L的Leu 促进效果最好；Leu抑制FABP3、LPL、AGPAT6、GPAM和 BTNIA1基因的表达，但只在添加高浓度（3.60\~7.20 mmol/L）的Leu时抑制作用较大。综合乳脂合成的多项指标，Leu浓度为1.80\~2.70 mmol/L效果较好。
+
+4结论
+
+Leu 浓度为 $1 . 8 0 { \sim } 2 . 7 0 ~ \mathrm { m m o l / L }$ 时，对BMECs内FASN、ACACA和 SREBP1基因及SREBP1蛋白表达的促进效果较好，对TG合成及脂滴形成相关基因的表达抑制作用较小。
+
+参考文献：
+
+[1] CANT JP,TROUT D R,QIAO F,et al.Milk composition responses to unilateral arterial infusion of complete and histidine-lacking amino acid mixtures to the mammary glands of cows[J].Journal of Dairy Science,2001,84(5):1192-1200.
+
+[2] CHENG Y,MENG Q S,WANG C X,et al.Leucine deprivation decreases fat massby stimulation of lipolysis in white adipose tissue and upregulation of uncoupling protein 1 (UCP1) in brown adipose tissue[J].Diabetes,2009,59(1):17-25.
+
+[3] 王立娜.氨基酸与 STAT5A基因互作对奶牛乳腺上皮细胞泌乳的调节作用及机理[D].博士学位论文.哈尔滨:东北农业大学,2014.
+
+[4] ZHANG Y Y,GUO K Y,LEBLANC R E,et al.Increasing dietary leucine intake reduces diet-induced obesity and improves glucose and cholesterol metabolism in mice via multimechanisms[J].Diabetes,2007,56(6):1647-1654.
+
+[5] NAIRIZI A,SHE P X,VARY T C,et al.Leucine supplementation of drinking water does not alter susceptibility to diet-induced obesity in mice[J].Journal of Nutrition,20o9,139(4):715-719.   
+[6] SHENG S,YAN S M,QI L Z,et al.Effect of the ratios of acetate and $\beta$ -hydroxybutyrate on the expression of milk fat- and protein-related genes in bovine mammary epithelial cells[J].Czech Journal of Animal Science,2015,60:531-541.   
+[7] 庞学燕.亮氨酸在奶牛乳腺中的摄取效率及其对乳蛋白合成的影响[D].硕士学位论文.扬州:扬州 大学,2013.   
+[8]代文婷,李爱军,郑楠,等.亮氨酸水平对奶牛乳腺上皮细胞增殖及 $\kappa .$ -酪蛋白合成相关基因表达的影 响[J].动物营养学报,2015,27(5):1559-1566.   
+[9] RAMIREZ-ZACARIAS J,CASTRO-MUNOZLEDO F,KURI-HARCUCH W,et al.Quantitation of adipose conversion and triglycerides by staining intracytoplasmic lipids with Oil red O[J].Histochemistry,1992,97(6):493-497.   
+[10] ZHOU Y,AKER R M,JIANG H.Growth hormone can induce expresson of four major milk protein genes in transfected MAC-T cells[J].Journal of Dairy Science,2008,91(1):100-108.   
+[11] QI L ZYAN S M,SHENG R,et al.Effects of saturated long-chain fatt acid on mRNA expression of genes associated with milk fat and protein biosynthesis in bovine mammary epithelial cells[J].Asian Australasian Journal of Animal Sciences,2014,27(3):414-421.   
+[12] BIONAZ M,LOOR JJ.Gene networks driving bovine milk fat synthesis during the lactation cycle[J].BMC Genomics,2008,9:366.
+
+[13] 张养东.脂多糖对泌乳奶牛乳脂肪和乳蛋白影响及其机理研究[D].博士学位论文.哈尔滨:东北农业大学,2011.
+
+[14] STREMMEL W,POHL J,RING A,et al.A new concept of cellular uptake and intracellular trafficking of long-chain fatty acids[J].Lipids,2001,36(9):981-989.
+
+[15] LEHNER R,KUKSIS A.Biosynthesis of triacylglycerols[J].Progress in Lipid Research,1996,35(2):169-201.   
+[16] 张福全.泌乳奶牛阴外动脉灌注脂肪酸和氨基酸对乳腺脂肪酸代谢的影响[D].硕士学位论文.呼 和浩特:内蒙古农业大学,2015.   
+[17] MA L,CORL B A.Transcriptional regulation of lipid synthesis in bovine mammary epithelial cels by sterol regulatory element binding protein-1[J].Journal of Dairy Science,2012,95(7):3743-3755.   
+[18] KADEGOWDA A K G,BIONAZ M,PIPEROVA L S,et al.Peroxisome proliferator-activated receptor-γ activation and long-chain fatty acids alter lipogenic gene networks in bovine mammary epithelial cells to various extents[J].Journal of Dairy Science,2009,92(9):4276-4289.   
+[19] WAKIL S J.Fatty acid synthase,a proficient multifunctional enzyme[J].Biochemistry,1989,28(11):4523-4530.   
+[20] BIONAZ M,LOOR JJ.ACSL1,AGPAT6,FABP3,LPIN1,and SLC27A6 are the most abundant isoforms in bovine mammary tissue and their expression is affected by stage of lactation[J].Journal of Nutrition,2008,138(6):1019-1024.   
+[21] MCMANAMAN JL,RUSSEL T D,SCHAACK J,et al.Molecular determinants of milk lipid secretion[J].Journal of Mammary Gland Biology and Neoplasia,20O7,12(4):259-268.   
+[22] ARAKAWA M,MASAKI T,NISHIMURA J,et al.The efects of branched-chain amino acid granules   
+onthe accumulation of tissue triglycerides and uncoupling proteins in diet-induced obese   
+mice[J].Endocrine Journal,2011,58(3):161-170.
+
+[23] 朱江江.FASN基因对奶山羊乳腺脂肪酸代谢的调控作用研究[D].博士学位论文.杨凌:西北农林
+
+科技大学,2015.
+
+Effects ofLeucine on Expression of Genes and Proteins Related with Milk Fat Synthesis in Bovine
+
+Mammary Epithelial Cells\*
+
+ZHAO Yanli CHENLu SHI Binlin GUO Xiaoyu YAN Sumei\* (Collage of Animal Science, Inner Mongolia Agriculture University, Hohhot O1oo18, China)
+
+Abstract: The objects of this study were to study the effects of leucine (Leu) on expression of genes and proteins related with milk fat synthesis in bovine mammary epithelial cells (BMECs)，in order to investigate the mechenism of Leu regulating milk fat synthesis. The third generation of BMECs were divided into six treatment with six replicates per treatment,and cultured in culture mediums with 0.45, 0.90,1.80,2.70, 3.60 and $7 . 2 0 \ \mathrm { m m o l / L }$ Leu,respectively. The triglyceride（TG） content, the relative expression levels of genes related with milk fat synthesis,as well as the protein relative expresson levels of peroxisome proliferator-activated receptor- $\boldsymbol { \gamma }$ (PPARγ）and sterol regulatory element binding protein 1 (SREBP1) in BMECs after $4 8 \mathrm { ~ h ~ }$ incubation at $3 7 \ \mathrm { { ^ { \circ } C } }$ and $5 \%$ （204 $\mathrm { C O } _ { 2 }$ were detected. The results showed that the Leu concentration had no significant effect on TG content in BMECs $( P { > } 0 . 0 5 )$ . The optimal Leu concentration significantly up-regulated the gene expression of fatty acid synthase (FASN) and acetyl-CoA carboxylase A(ACACA) in BMECs $( P { < } 0 . 0 5 )$ . The higher gene relative expression level of FASN was observed in 1.80 to $2 . 7 0 \ \mathrm { m m o l / L }$ Leu treatments, and the higher gene relative expression level of $A C A C A$ （20 was observed in 1.80 to $7 . 2 0 \ \mathrm { m m o l / L }$ Leu treatments.Leu concentration significantly increased the gene and protein expression of SREBP1 in BMECs $( P { < } 0 . 0 5 )$ ，and the best promoting effect was observed in $1 . 8 0 \mathrm { m m o l / L }$ Leu treatment. Although Leu significantly inhibited the gene expression of fatty acid-binding protein 3（FABP3），lipoprotein lipase（LPL），1-acylglycerol-3-phosphate O-acyltransferase 6 (AGPAT6), mitochondria glycerol-3-phosphate acyltrandferase （GPAM）and butyrophilin subfamily 1 member A1（BTN1A1）in BMECs $_ { ( P < 0 . 0 5 ) }$ ,the higher inhibiting effect was only observed in high Leu concentration （3.60 to $7 . 2 0 \ \mathrm { m m o l / L }$ ）treatments. Taken together,Leu concentration has a significant effect on the expression of genes related with milk fat synthesis and protein expression of $\mathrm { P P A R } \gamma$ and SREBP1 in BMECs.The 1.80 to 2.70 expression Leu has a better promoting efect on de novo fatty acid synthesis genes and SREBPl protein expression,as well as little inhibiting effect on the expression of genes involved in TG synthesis and lipid droplet formation.
+
+Key words: dairy cow; bovine mammary epithelial cells; leucine; milk fat

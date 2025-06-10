@@ -1,0 +1,322 @@
+[
+    {
+        "type": "text",
+        "text": "振动触觉频率信息的工作记忆容量及存储机制",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王春地，王大辉²1北京航空航天大学人文社会科学学院心理系，北京，100191²北京师范大学系统科学学院，北京，100875",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "工作记忆可以同时保存多个信息并且容量有限，这一内在机制是工作记忆研究的重点问题。视觉和言语等研究领域都发现工作记忆能够存储多个信息单元，但对振动触觉工作记忆是否能存储多个频率信息目前尚无相关研究。由于振动触觉频率刺激和视觉刺激具有不同的神经编码机制，以及振动频率信息是通过躯体感觉产生的模拟的、单维的、参数化信息，振动触觉工作记忆容量及其加工存储机制的研究也必不可少。首先，本项目将采用新的实验范式，探究不同的刺激呈现方式以及不同反应报告方式下，振动触觉工作记忆的容量及其认知机制。其次，本项目也将同时运用功能磁共振成像(fMRI)技术，来阐述振动触觉工作记忆加工存储的神经机制。探究基于触觉频率信息的参数工作记忆容量及其神经机制是完善工作记忆模型的重要补充，将有助于提高我们对工作记忆系统的理解，并为视觉、听觉、触觉多模态感知觉信息的跨通道研究奠定基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "振动触觉工作记忆，工作记忆容量，振动频率，感觉模态，参数工作记忆",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号 B842",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1问题提出",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "振动触觉工作记忆的探索是近年来认知神经科学研究领域的一个重要研究方向，其受到越来越多研究者和研究机构的重视。工作记忆中在线保持的信息对神经系统的决策、推理和执行功能发挥着重要作用。工作记忆中能够同时存储的信息容量有限是工作记忆的基本特征。以往的研究主要针对视觉工作记忆容量及其认知加工机制，目前还缺乏对振动触觉频率信息工作记忆容量的相关研究。振动触觉工作记忆作为工作记忆的一种，既有与视觉工作记忆相同的一面，也有其独特性。例如神经元对振动触觉频率的编码机制显著不同于对视觉空间信息的编码机制(Romo etal.,1999)。同时，以往的研究对振动触觉工作记忆的编码存储以及神经机制还存在较大分歧。因此，有必要开展振动触觉工作记忆容量的研究，并且进一步探究振动触觉工作记忆加工存储的认知和神经机制。振动触觉工作记忆容量的研究是完善工作记忆模型的重要补充，对全面、深入、科学的认识工作记忆模型具有重要意义。采用改进的新实验范式进一步深入研究振动触觉工作记忆的认知和神经机制，能够为探究跨视觉、听觉、触觉通道多模态信息处理奠定基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "第一，振动触觉工作记忆与视觉、言语工作记忆同属于工作记忆范畴，但又具有鲜明的区别性。首先，神经元对振动触觉频率的编码机制显著不同于对视觉空间信息的编码机制。振动触觉频率的调谐曲线是单调函数而视觉刺激的调谐曲线往往是钟形函数。神经元对视觉刺激具有方向、颜色、形状选择性。Romo等人(1999)记录猴子在做振动触觉频率工作记忆任务时的神经元活动发现，前额叶区域神经元的发放率与刺激频率呈单调关系。其次，振动触觉的频率信息也不同于具有多个维度的言语和视觉信息，它是通过躯体感觉产生的模拟的、单维的、参数化信息(Jakobson et al.,1953)。而具有多个维度的视觉和言语信息往往会导致测得的工作记忆容量偏大(Miller,1956)。再次，以往以视觉和言语刺激为主的工作记忆研究容易受到分组效应、复述效应的影响(Cowan,2001)，从而导致测得的视觉和言语工作记忆容量变大。因此，探究振动触觉频率信息的存储加工机制，对完善和理解工作记忆理论具有意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "第二，振动触觉工作记忆系统是研究工作记忆理论的重要模型，基于视觉和言语等信息的工作记忆领域的研究结果都已揭示出视觉和言语信息工作记忆的容量大小，但目前仍没有研究揭示振动触觉工作记忆容量大小。以往视觉和言语的工作记忆研究中发现，工作记忆可以存储 $7 \\pm 2$ 个言语信息(Miller,1956)以及3到5个视觉信息(Cowan,2001)，但对振动触觉工作记忆是否能存储多个频率信息尚有待研究。造成这一现状的主要原因是振动触觉工作记忆容量的研究受到实验范式、实验设备等因素的限制。首先，以往对于振动触觉工作记忆的研究，主要采用单样本延迟匹配范式。先给某个指尖一个持续1s的振动刺激作为样本刺激，间隔一段时间作为延迟时间，再次给某个指尖施加一个持续1s的刺激作为探测刺激，被试需要判断前后两个刺激频率是否相同，或者判断两个刺激频率的高低(Romo et al.,1999; Harriset al.,2001b; Spitzer et al.,2010)。而单个刺激的延迟匹配任务范式，只能证明频率信息在工作记忆中的存储，而不能成为测量振动触觉工作记忆容量的有效手段。其次，对于振动触觉工作记忆容量的探究，受到实验设备的限制。为了探究振动触觉工作记忆容量，需要一台能同时提供多个稳定振动刺激的设备。最后，在振动触觉工作记忆相关的动物实验中，猴子只能完成单样本振动刺激的延迟匹配任务，而训练猴子完成两个及以上振动频率的任务是十分困难的。综上可知，目前仍然没有关于振动触觉工作记忆容量大小的研究结论。因此，非常有必要采用适当的实验范式和实验设备，对人类的振动触觉工作记忆容量及其认知机制进行研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第三，以往研究对于振动触觉工作记忆的编码和存储以及神经机制尚存在分歧，探究振动触觉工作记忆存储机制，可以为视觉、听觉、触觉多模态感知觉信息的处理与多通道整合的研究奠定基础。一些研究认为感觉皮层参与振动触觉工作记忆保持过程(Zhou& Fuster,1996,2000; Romo & Salinas, 2003; Pasternak & Greenlee,2005; Sreenivasan et al., 2014; Riley &Constantinidis,2016; Zhao etal.,2018)。这种观点指出，在振动触觉工作记忆的保持阶段，存储感觉信息的神经网络不是隔离在特殊的\"记忆中心\"(前额叶等高级皮层)，而是分布在与负责感觉刺激表征相同的感觉皮层。但另一些研究则认为，感觉皮层只能以低水平感觉的形式编码记住的信息，而前额叶等更高级相关皮层才与抽象形式振动刺激的信息参数编码相关(Barak et al., 2010; Spitzer et al.,2010； Spitzer & Blankenburg,2011, 2012; Spitzer et al.,2014;Schmidt et al.,2017)。此观点指出，各种模态的工作记忆信息存储都是在前额叶这样较高级的脑区进行抽象量化的表征编码。因此，有必要采用新的实验设计和技术手段进一步深入探究与振动触觉工作记忆的存储密切相关的脑区及其神经机制。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第四，振动触觉属于触觉，是人和动物获取外界信息和与外界进行互动的重要方式之一。振动触觉可以用来获取和传递简单的信息，并辅助视觉和听觉信息的加工处理。例如，手机的振动可以提示我们收到的信息和来电。此外，随着虚拟现实技术的飞速发展，振动触觉反馈技术可以用来创建和控制虚拟场景或虚拟对象。新一代的战斗服，如振动腰带和背心，被用于在实战中传递信息。因此，从应用的角度出发，也有必要对振动触觉信息的加工和存储进行探索。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2振动触觉研究现状与趋势",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1振动触觉工作记忆的认知机制",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "一些研究关注振动触觉加工时手指间的相互作用。Harris 等人(200la)让被试用某一手指对振动频率的区分任务进行不断学习，直到达到很好的表现为止。再对除训练手指之外的其他手指，进行相同的振动频率区分任务，发现对振动频率区分的学习并不能迁移到其他手指。感觉皮层布鲁德曼 3b 区(Brodmann's area 3b)的结构和功能特征也能够对上述结果做出比较好的解释。在这一区域手的表征中，大多数神经元都有独立的感受野(Merzenich et al,1978;Iwamura et al.,1993)，而且几乎没有半球间胼抵体的投射(Killackey etal.,1983)。因此，他们推测对于某个手指的振动频率区分任务的训练，引起了位于3b脑区对应地形功能柱群体神经元反应的变化。然而 Harris 等人(200la)实验中这种对振动频率区分的任务更偏向只是一种技能的训练，实验中的振动频率区分任务是区分 $9 \\mathrm { H z }$ 和 $1 0 \\mathrm { { H z } }$ ，这两个振动刺激的差值小于最小可觉差，因此不经过大量的练习和学习是很难作出正确判断的。所以其实验设计不是全部关于触觉工作记忆的研究设计，也导致了没有发现迁移现象。因此，目前为止对于手指间在振动触觉加工中是如何互相影响的机制仍然是不清楚的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "先前行为研究考察了关于方位信息的触觉记忆。研究者将多个触觉刺激同时呈现在被试的手指上，被试需要记住并报告触觉刺激呈现的手指位置。研究结果表明，参与者平均可以记住 3.5-4.5 个位置(Auvray et al.,2011; Blisset al.,1966; Gallace & Spence,2009)。然而，在这些研究中不仅涉及触觉信息，还涉及到空间方位信息的加工处理。因此这些研究中刺激信息的加工和存储本质上不是纯粹的触觉信息。另外，以前的一部分触觉记忆研究也对触觉刺激的微观几何性质(如精细纹理特征)和触觉刺激的宏观几何性质(即粗糙纹理特征和有关物体形状、大小的信息等)进行了研究 (Gallace＆ Spence,2009)。但是对振动触觉频率信息的研究却非常少。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以往的研究中，还没有关于振动触觉工作记忆容量的探究，也没有给出确切的振动触觉工作记忆容量的大小。Bancroft等人(2012)采用单手指顺序呈现双刺激的延迟匹配样本范式来检验振动触觉工作记忆是否可以存储多个信息。实验中相继呈现三个振动刺激，前两个频率不同的振动刺激作为样本，最后一个作为探测，被试判断探测刺激频率是否和两个样本刺激中的任一刺激频率相同。实验发现被试的整体正确率超过随机水平，因此研究者认为这一结果为振动触觉工作记忆可以存储多于一个的振动刺激频率提供了间接证据。然而，目前为止仍然没有直接的研究证据来探究振动触觉工作记忆容量的大小、以及振动触觉工作记忆加工存储频率信息的认知机制。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2振动触觉工作记忆存储的神经机制",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.1前额叶等高级皮层参与振动触觉工作记忆存储",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以往大部分研究中，都关注振动触觉工作记忆存储的相关脑区和神经机制，但对于振动触觉工作记忆编码存储机制还存在争议。Romo 等人(1999)记录了猴子在做触觉振动频率工作记忆任务时的神经元活动。实验中使用的同样是延迟匹配样本任务，发现在工作记忆保持阶段，前额叶区域神经元的发放率与刺激频率呈单调关系。前额叶的几个区域都与次级感觉皮层直接相联(Morecraft et al.,1992; Carmichael & Price,1995;Cavada et al.,2000)。前额叶(prefrontalcortex)群体神经元的刺激表征在振动刺激终止后退化，并在延迟阶段的最后阶段增强，前额叶区域神经元的调节机制在任务中发生了变化(Barak etal.,2010)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Spitzer等人(2010)记录了振动触觉刺激的延迟匹配任务中被试的脑电图(EEG)，发现在振动频率刺激的保存阶段，前额叶β波段的活动变化受到振动刺激频率的调节(Spitzer et al,2010；Spitzer& Blankenburg,2011,2012; Spitzer et al.,2014)。这一结果与之前在猴子电生理实验中发现的结果一致。Schmidt等人(2017)研究显示，右侧前额叶、双侧运动前区(premotorcortex)以及辅助运动区(supplementary motor area)与振动触觉工作记忆延迟阶段频率信息的保持相关。因此以上研究表明，对触觉振动频率信息的存储，可能是由像前额叶这样较高级别脑区进行的抽象量化的表征编码，而不是低水平的刺激特征表征。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.2感觉皮层参与振动触觉工作记忆存储",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以往的一些研究也发现感觉皮层参与触觉工作记忆的存储表征(Harris etal.,2002;Romo& Salinas,2003;Zhao,et al.,2018)。振动触觉延迟匹配任务包括的认知过程是：编码第一个频率刺激(f1)——在工作记忆中保持——编码第二个频率刺激(f2)——用第二个刺激和第一个刺激留下的记忆痕迹做比较。Harris 等人(2001b）通过在两个比较的振动刺激间施加干扰刺激，发现当干扰刺激与比较刺激施加在相同手指时，干扰刺激对正确率影响最大；干扰刺激与比较刺激施加手指距离越远时影响越小。因此他们认为按地形组织的感觉皮层区域对触觉工作记忆有贡献，可能是通过在保持阶段存储记忆痕迹来实现的。在保持阶段存储感觉信息的的神经网络，不是隔离在特殊的记忆中心，而是分布在与负责感觉刺激表征相同的感觉皮层。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Harris 等人(2002）利用经颅磁刺激(TranscranialMagnetic Stimulation)技术暂时性扰乱被试初级感觉皮层(primary somatosensory cortex)的活动，发现感觉皮层参与到触觉信息在工作记忆的保持中。在他们的实验中，振动刺激呈现 $1 0 0 0 \\mathrm { { m s } }$ ，保持阶段时间为 $1 5 0 0 \\mathrm { { m s } }$ ，所有刺激均施加给右手食指指尖。在保持阶段的第300 或 $6 0 0 \\mathrm { { m s } }$ 时向对侧的皮层施加经颅磁刺激，被试的表现受到显著影响。而在保持阶段的第900 或 $1 2 0 0 \\mathrm { m s }$ 时，无论向对侧还是同侧感觉皮层施加经颅磁刺激，被试的表现均不受影响。这些结果表明，初级感觉皮层不仅是实时的感觉信息处理中心，还是工作记忆存储触觉信息的临时存储点。之前的研究表明，向对侧感觉皮层施加的经颅磁刺激，在触觉刺激呈现之后的 $2 0 0 \\mathrm { { m s } }$ 以内才会影响触觉刺激信息的处理加工(Cohen et al.,1991)。而 Harris 等人发现的结果是在经颅磁刺激影响感觉皮层处理感觉信息的时间窗口之外。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "利用功能磁共振成像、经颅磁刺激以及猴子电生理等多种技术手段，研究人员发现了感觉皮层参与触觉工作记忆的存储表征过程(Zhou&Fuster,1996,2000;Romo& Salinas,2003;Zhao etal.,2018)。关于触觉方位信息的工作记忆研究中发现，在工作记忆保持阶段初级感觉皮层的活动随着工作记忆负荷变化，结论支持感觉皮层参与触觉空间信息工作记忆(Katus etal.,2015)。Ku等人(2015)研究发现，初级感觉皮层和后顶叶皮层都参与触觉频率信息的工作记忆加工过程。Soros等人(2007)利用功能磁共振成像(fMRI)技术发现，感觉区(somatosensoryregions)活动与振动触觉延迟匹配任务呈现一定相关性。利用脑磁图(MEG)研究触觉工作记忆的实验中，在频率信息编码和保持阶段，发现在初级和次级感觉皮层γ波段活动的增强(Haegens etal.,2010)。这些研究表明，感觉皮层参与振动触觉工作记忆存储保持过程(Pasternak & Greenlee, 2005; Sreenivasan et al., 2014; Riley & Constantinidis, 2016)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3振动触觉频率信息与其他信息的跨模态研究",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以往触觉工作记忆研究中除了关注单一触觉模态下空间信息或者频率信息等的存储加工机制外，还有一些研究关注同一触觉模态下不同信息的加工机制，以及不同模态下频率信息的加工机制(Schmidt et al.,2020;Wu et al.,2018)。这些研究为不同模态和不同信息工作记忆加工研究提供了基础。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Schmidt等人(2020)探究触觉模态下空间布局信息和频率信息的研究发现，工作记忆分别在顶上小叶(superior parietal lobe)和右侧额下回(inferior frontal gyrus)表征这两种信息，而运动前区在工作记忆保持过程中的激活则独立于信息的内容。Wu等人(2018)探究触觉振动和视觉闪烁两种模态频率信息参数工作记忆的磁共振研究中，发现各感觉皮层会选择性存储记忆与各自模态相关的内容，而额顶叶区域则跨模态存储频率信息。跨模态信息的振动触觉工作记忆研究中，发现了与以往单纯触觉模态研究类似的结果，也得到了不同模态信息在工作记忆加工中独特又统一的初步结论。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上可知，以往触觉模态工作记忆的行为研究主要集中于方位信息以及物体微观和宏观几何信息。对于振动触觉频率信息的行为研究非常不足。目前对于振动触觉参数工作记忆是否能存储多个信息，以及振动触觉工作记忆容量大小和存储加工机制仍然是不清楚的。关于振动触觉频率信息神经机制层面的研究比较多，神经元对振动触觉频率信息的独特编码机制使它成为研究工作记忆理论的重要模型。基于单样本延迟匹配行为范式，以往神经机制研究发现了前额叶等脑区参与振动触觉工作记忆，但对于感觉皮层是否参与振动触觉参数工作记忆仍存在分歧。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3研究构想",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在以往研究的基础上，首先，本研究将对振动触觉工作记忆容量大小进行测定。本研究中我们改进了单样本延迟匹配任务，同时或者顺序呈现多个振动频率刺激让被试进行记忆，从而实现对振动触觉工作记忆容量大小的探测。研究中采用三种不同的振动刺激呈现方式和两种反应报告方式，全面探索振动触觉工作记忆容量，并揭示不同方式影响振动触觉工作记忆的认知机制。然后，在以上行为实验的基础上，采用功能磁共振成像(fMRI)技术，考察振动触觉工作记忆存储的神经机制。采用磁共振和一般线性模型，本研究对振动触觉工作记忆容量相关脑区进行探索。探索同时和顺序呈现时，振动触觉工作记忆存储的脑网络与神经机制，并揭示各个不同脑区在振动触觉工作记忆中的作用。利用多样本延迟匹配任务的磁共振研究，为振动触觉工作记忆能存储多个触觉频率信息提供影像学证据。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本项目围绕振动触觉频率信息的工作记忆容量和认知机制，以及振动触觉工作记忆存储的神经机制，具体开展如下两项研究内容：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1研究1：振动触觉工作记忆容量及其加工存储机制",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "振动触觉工作记忆容量在以往的研究中一直没有被测定。本研究将采用几个不同的实验范式对振动触觉工作记忆容量进行测量。本研究采用行为实验，探究振动触觉工作记忆容量的大小，以及振动触觉频率信息的加工存储机制。研究中采用多手指同时呈现、单手指顺序呈现以及换手指顺序呈现三种刺激呈现方式。以及按频率刺激高低排序的全部报告和随机选择频率进行探测的局部报告两种报告方式。探索不同方式影响振动触觉工作记忆容量及振动触觉频率信息的加工存储机制。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "以往振动触觉频率信息的工作记忆研究主要采用单样本延迟匹配任务，这一任务无法直接用于触觉频率信息工作记忆容量的测量。因此本研究将采用改进的延迟匹配任务，给被试呈现2-5个需要记忆的频率刺激。根据视觉工作记忆研究常用的顺序和同时呈现两种方式，本研究也将对这两种主要的刺激呈现方式下触觉频率信息工作记忆容量大小进行测定。然后基于视觉工作记忆容量计算公式 $\\mathrm { K } = \\mathrm { N } ^ { * } ( \\mathrm { H } - \\mathrm { F A } )$ 计算出容量，H是命中率，FA是虚报率，N 是需要记忆的频率刺激数量(Cowan,2001)。对于同时呈现条件下频率刺激间产生的干扰问题，研究将采用单手相邻手指、单手间隔手指、以及双手不同手指等方式来探究。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2研究2：振动触觉工作记忆加工存储的神经机制",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "之前关于振动触觉工作记忆相关神经机制的研究，大多采用的是单手指一个刺激的延迟匹配任务。以往无论是猴子电生理还是人的脑电、核磁以及经颅磁刺激的研究，集中关注的是振动刺激保持阶段的神经元和脑区的相关活动。这些研究对振动触觉工作记忆的编码存储以及神经机制尚存在分歧。感觉皮层是否参与振动触觉工作记忆保持过程、是否只有前额叶等高级皮层才参与振动触觉的工作记忆存储过程等问题仍然不清楚。对于振动触觉工作记忆容量的神经机制尚无研究探索。本研究在研究一几种行为实验范式的基础上，采用功能磁共振成像(fMRI)技术，考察顺序和同时两种呈现方式下，振动触觉工作记忆和容量相关脑区。探究振动触觉工作记忆存储加工的神经基础和脑网络，以及振动触觉工作记忆容量相关脑区。同时，探究不同呈现方式下激活的相同和不同脑区，可以对不同呈现方式导致的振动触觉工作记忆存储模式有进一步认识，也能揭示各个不同脑区在振动触觉工作记忆中的作用。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4理论建构与创新 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1理论创新 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "神经元对振动触觉频率信息显著不同于视觉空间信息的独特编码机制，使得振动触觉工作记忆成为研究和理解工作记忆理论的重要模型。振动触觉工作记忆与视觉和言语工作记忆不同。触觉振动频率信息是一种连续参数化模拟值，振动触觉的工作记忆任务是一项参数化工作记忆任务(parametric working memory task)。振动触觉工作记忆与视觉和言语工作记忆相比具有跨模态、跨通道的特点。振动频率信息也不同于具有多个维度的言语和视觉信息。在以往研究中，基于空间视觉和言语等不同模态和信息的工作记忆研究领域都表明可以存储多个数量的信息。但目前仍没有直接证据揭示振动触觉工作记忆是否可以存储多个频率信息。因此本研究中要开展的对振动触觉频率信息工作记忆容量大小以及认知和神经机制的探索，对理解振动触觉工作记忆子系统以及整个工作记忆系统具有重要理论意义。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本项目对振动触觉频率信息的工作记忆容量和存储机制进行了探究，与以往触觉工作记忆研究存在很大不同。以前的触觉刺激的微观几何性质和触觉刺激的宏观几何性质的研究中，触觉微观和宏观几何特征刺激均存在难以量化操作的问题。在以往方位信息的触觉工作记忆研究中，不仅涉及触觉信息，还涉及到空间方位信息的加工处理(Auvray et al., 2011;Bliss et al.,1966; Gallace& Spence,2009)，这样会导致研究结果难以说明问题。本研究中振动触觉频率信息是通过躯体感觉产生的模拟、单维度信息，不同于方位信息。因此，振动触觉频率信息工作记忆的研究有助于帮助更好的理解和扩充以往基于视觉、听觉和言语的工作记忆系统。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2方法创新 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "与以往只用单样本匹配任务探索单个振动刺激的工作记忆不同，本研究首次改进了单样本延迟匹配任务，同时或者顺序呈现多个振动频率刺激让被试进行记忆，从而实现对振动触觉工作记忆容量大小的探测。也就是说，以往的研究由于受到实验范式的束缚，无法对振动触觉工作记忆是否能存储多个振动频率信息进行研究。同时，即使以往研究通过间接证据证明了振动触觉工作记忆能存储多个振动频率，但没能测量出振动触觉工作记忆容量的大小(Bancroft et al.,2012; Spitzer& Blankenburg,2011)。因此，本研究中我们利用改进的多样本实验范式，首次对振动触觉工作记忆容量大小和加工存储机制进行了探究。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "利用功能磁共振技术和多样本延迟匹配实验范式，本研究探索了振动触觉工作记忆存储相关的脑区与脑网络。本研究揭示同时和顺序呈现时，振动触觉工作记忆存储的脑网络与神经机制。我们利用多样本延迟匹配任务的磁共振研究，为振动触觉工作记忆能存储多个触觉频率信息提供了影像学证据。此外，我们利用一般线性模型首次研究了振动触觉工作记忆容量负荷相关脑区，为解决以往研究中对于振动触觉工作记忆编码存储以及神经机制存在的分歧提供了全新的途径。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "综上，振动触觉工作记忆容量及其加工存储机制的研究能够为工作记忆研究提供全新的视角，并有助于进一步理解工作记忆系统以及视觉和言语工作记忆子系统。与此同时，触觉在日常工作生活、人机交互、人与环境交互以及人工智能及可穿戴设备中具有广泛的应用价值。因此，采用合理的实验范式和能够提供稳定振动刺激的实验设备来对人类的振动触觉工作记忆容量大小进行研究，具有重要理论创新和现实应用价值。同时，进一步深入探究与振动触觉工作记忆的存储密切相关的脑区及其神经机制，将有助于对振动触觉工作记忆存储模态的深入理解，并为视觉、听觉、触觉多模态感知觉信息的跨通道研究奠定基础。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Auvray,M., Gallace,A.,& Spence, C. (2011). Tactile short-term memory for stimuli presented on the fingertips and across the rest of the body surface.Atention Perception & Psychophysics,73(4),1227-1241.   \nBancroft,T.D.，Hockley，W.E.，& Servos,P.(2012). Can vibrotactile working memory store multiple items? Neuroscience letters,514(1),31-34.   \nBarak,O.,Tsodyks,M.,& Romo,R.(2010). Neuronal population coding of parametric working memory.Journal of Neuroscience the Official Journal of the Society for Neuroscience,30(28), 9424.   \nBlis,J.C.,Crane,H.D.,Mansfield,P.K.,& Townsend,J.T.(1966).Information available in brief tactile presentations.Perception & Psychophysics,1,273-283.   \nCarmichael, S.T.,& Price,J.L.(1995).Sensory and premotor connections of the orbital and medial prefrontal cortex of macaque monkeys.Journal of Comparative Neurology,363(4),642.   \nCavada,C.,Compaiy,T.,Tejedor,J.,Cruzrizzolo,R.J.,&Reinososuarez,F. (2o).The anatomical connections of the macaque monkey orbitofrontal cortex. a review. Cerebral Cortex,10(3), 220.   \nCohen,L.G.,Bandinelli,S. Sato,S.,Kufta, C.,& Hallet,M. (1991).Attenuation in detectionofsomatosensory stimuli by transcranial magnetic stimulation. Electroencephalogr Clin Neurophysiol 81:366-376.   \nCowan,N. (2001). The magical number 4 in short-term memory: a reconsideration of mental storage capacity.Behavioral and Brain Sciences,24,87-114.   \nGallace,A.,& Spence,C. (2009).The cognitive limitations and neural correlates of tactile memory.Psychological Bulletin,135,380-406.   \nHaegens,S.,Osipova,D.,Oostenveld,R.,&Jensen,O.(2010).Somatosensory working memory performance in humans depends on both engagement and disengagement of regions in a distributed network. Human Brain Mapping,31(1),26-35.   \nHaris,J.A.,Haris,I. M.,& Diamond,M.E. (20ola).The topography of tactile learning in humans.Journal of Neuroscience the Official Journal of the Society for Neuroscience,21(3),1056-1061.   \nHarris,J.A., Haris,I. M.,& Diamond,M.E. (2001b).The topography of tactile working memory.Journal of Neuroscience,21(20), 8262-8269.   \nHarris, J. A.,Miniuss, C.,Haris,I. M.,& Diamond, M.E. (2o02). Transientstorage of a tactile memory trace in primary somatosensory cortex. Journal of Neuroscience,22(19), 8720-8725.   \nIwamura,Y.,Tanaka,M.,Sakamoto,M.,& Hikosaka,O. (1993). Rostrocaudal gradients in the neuronal receptive field complexity in the finger region of the alert monkey's postcentral gyrus.Experimental Brain Research,92(3), 360-368.   \nJakobson,R.,Fant, G.M.,& Hale,M.(953).Preliminaries to speech analysis: the distinctive features and their correlates. m.i.t. press. Language, 29(4),254-255.   \nKatus,T., Grubert,A.,& Eimer,M.(2015).Electrophysiological evidence for a sensory recruitment model of som atosensory working memory. Cerebral Cortex,25(12),4697-4703. htp://doi.0rg/10.1093/cercor/bhu153   \nKu,Y.,Zhao,D.,Bodner,M.,& Zhou,Y.D.(2015).Cooperative processing in primary somatosensorycortex and posterior parietal cortex during tactile working memory. The European Journal of Neuroscience,42(3),1905- 1911. ttp://doi.org/10.111/ejn.12950   \nKillackey,H.P., Cusick, C. G.,Pons,T.P.,& Kaas,J. H. (1983). The relation of corpus callosum connections to architectonic fields and body surface maps in sensorimotor cortex of new and old world monkeys.Journal of Comparative Neurology, 219(4), 384.   \nMerzenich, M.M., Kaas,J.H., Sur,M.,& Lin, C.(1978). Double representation of the body surface within cytoarchitectonic area 3band 1 in“si” in the owl monkey (aotus trivirgatus).Journal ofComparative Neurology, 181(1), 41-73.   \nMiller, G.A. (1956). The magical number seven, plus or minus two: some limits on our capacity for procesing information. 1956. Psychological Review, 63(2): 81-97.   \nMorecraft,R.J., Geula, C.,& Mesulam,M.M. (1992). Cytoarchitecture and neural aferents oforbitofrontalcortex in the brain of the monkey. Journal of Comparative Neurology,323(3),341-358.   \nPasternak， T.，& Greenlee，M. W. (2005). Working memory in primate sensory systems.Nature Reviews Neuroscience,6(2), 97-107.   \nRiley,M.R.,& Constantinidis, C. (2016).Role of prefrontal persistent activity in working memory.Front Syst Neurosci, 9(2).   \nRomo,R., Brody, C.D., Hernandez,A. & Lemus,L. (1999). Neuronal correlates of parametric working memory in the prefrontal cortex. Nature,399(6735), 470-473.   \nRomo,R.,& Salinas,E.(20o3). Fluter discrimination: neural codes, perception, memory and decision making. Nature Reviews Neuroscience, 4(3),203.   \nSchmidt,T.T., Wu, Y.H.,& Blankenburg,F. (2017). Content-specific codes of parametric vibrotactile working memory in humans.Journal of Neuroscience the Official Journal ofthe Society for Neuroscience,37(40),9771.   \nSchmidt,T.T.,Schroder,P.,Reinhardt,P.,& Blankenburg,F. (202O).Rehearsal of tactile working memory: premot or cortex recruits two dissociable neuronal content representations. Human Brain Mapping,38(2), 4912- 4914. http://doi.0rg/10.1002/hbm.25220   \nSpitzer,B.，Wacker,E.,& Blankenburg,F.(20l0).Oscilatory correlates of vibrotactile frequency procesing in human working memory. Journal of Neuroscience,30(12), 4496-4502.   \nSpitzer,B.,& Blankenburg,F. (2011).Stimulus-dependent EEG activity reflects internal updating oftactile working memory in humans.Proceedings of the National Academy of Sciences ofthe United States ofAmerica,108(20), 8444-8449.   \nSpitzer,B.,& Blankenburg,F. (2012). Supramodal parametric working memory processing in humans.Journal of Neuroscience,32(10),3287-3295.   \nSpitzer,B., Gloel, M. Schmidt, T. T.,& Blankenburg,F. (2014). Working memory coding of analog stimulus properties in the human prefrontal cortex. Cerebral Cortex,24(8),2229.   \nSreenivasan,K.K., Curtis,C.E.,&D'Esposito,M. (2014).Revisiting the role of persistent neuralactivity during working memory. Trends in Cognitive Sciences,18(2),82.   \nSoros,P.,Marmurek,J.,Tam,F.,Baker,N.,Staines,W.R.,& Graham,S.J. (2007).Functional MRI of working memory and selective attention in vibrotactile frequency discrimination. Bmc Neuroscience,8(1), 48.   \nWu,Y.H., Uluc,1.,Schmidt,T.T.,Tertel,K.,Kirilina,E.,& Blankenburg,F. (2O18).Overlapping frontoparietal networks for tactile and visual parametric working memory representations. Neuroimage,l66,325-334.   \nZhao,D., Zhou, Y. D. Bodner,M.,& Ku, Y. (2018). The causal roleof the prefrontal cortex and somatosensory cortex in tactile working memory. Cerebral Cortex,28(10), 3468-3477.   \nZhou, Y.D.,& Fuster,J. M. (1996). Mnemonic neuronal activity in somatosensory cortex.Proceedings of the National Academy of Sciences of the United States of America, 93(19),10533.   \nZhou,Y. D.,& Fuster,J. M.(2ooo). Visuo-tactile cross-modal asociations in cortical somatosensory cells. Proceedings of the National Academy of Sciences of the United States of America,97(17),977-9782. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Capacity and maintenance mechanism of vibrotactile working ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "memory ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "WANG Chundi1,WANG Da-hui² ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "1 Department of Psychology and Research Centre of Aeronautic Psychology and Behavior, Beihang University, Beijing 100191   \n² School of Systems Science and State Key Laboratory of Cognitive Science and Learning of China, Beijing Normal University, Beijing 100875 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Working memory can preserve multiple items at one time with a limited capacity is a key issue in working memory research.While visual and verbal domains of working memory are able to store multiple items, we know litle about vibrotactile working memory capacity of frequency. Vibrotactile stimulus and visual stimulus have diferent neural coding mechanisms,and vibrotactile frequency is analogy, one-dimensional and parametric information generated by somatic sensation. Therefore, it is necessary to study the capacity of vibrotactile working memory, and reveal its cognitive and neural mechanism. First of all,different modes of vibratory stimulus presentation and response were used to determine the size of the vibrotactile working memory capacity and its cognitive mechanism. Then using functional magnetic resonance imaging (fMRI)，we will investigate the neural mechanism of maintenance of vibrotactile working memory. The study of vibrotactile parametric working memory is an important part of working memory model, which will contribute to our understanding of working memory system and lay a foundation for crossmodalities research of visual, auditory and tactile information. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Key Words: vibrotactile working memory, working memory capacity, vibratory frequency, sensory modalities, parametric working memory ",
+        "page_idx": 11
+    }
+]

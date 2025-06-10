@@ -1,0 +1,172 @@
+# Cosmological Evolution of a Quintom Model of Dark Energy
+
+Zong-Kuan Guo $^ { * b }$ , Yun-Song Piao $c$ , Xinmin Zhang $d$ and Yuan-Zhong Zhang $^ { . a , b }$
+
+（204号 $a$ CCAST (World Lab.), P.O. Box 8730, Beijing 100080   
+（20 $b$ Institute of Theoretical Physics, Chinese Academy of Sciences, P.O. Box 2735, Beijing 100080, China   
+（20 $c$ Interdisciplinary Center of Theoretical Studies, Chinese Academy of Sciences, P.O. Box 2735， Beijing 100080, China   
+$d$ Institute of High Energy Physics, Chinese Academy of Science, P.O. Box 918-4, Beijing 100039, China
+
+# Abstract
+
+We investigate in this paper the cosmological evolution of a dark energy model with two scalar fields where one of the scalar has canonical kinetic energy and another scalar has negative kinetic energy term. For such a system with exponential potentials we find that during the evolution of the universe the equation of state $w$ changes from $w > - 1$ to （204号 $w < - 1$ ， which is consistent with the recent observations. A phase-plane analysis shows that the“phantom"-dominated scaling solution is the stable late-time attractor of this type of models.
+
+PACS number(s): 98.80.Cq, 98.80.-k
+
+Scalar felds play an important role in modern cosmology. The dark energy can be attributed to the dynamics of a scalar or multi-scalar fields, for instance the quintessence [1,2],which convincingly realize the present-day cosmic acceleration by using late-time attractor solutions,in which the scalar fields mimic the perfect fluid in a wide range of parameters. For the detail studies on the models much attention has been drawn to the case of exponential potentials. The exponential potentials allow the possible existence of scaling solutions in which the scalar field energy density tracks that of the perfect fluid (so that at late times neither field is negligible). In particular,a phase-plane analysis of the spatially flat FRW models showed that these solutions are the unique late-time attractors whenever they exist [3, 4]. Moreover, exponential potentials often appear naturally in models after compactification in string/M-theory.
+
+By fitting the recent SNe Ia data, marginal (2 $\sigma$ ）evidence for $w ( z ) < - 1$ at $z < 0 . 2$ has been found [5]. To obtain $w < - 1$ ， phantom field with a negative kinetic term may be a simplest implementing, in which the weak energy condition is violated, and can be regarded as one of interesting possibilities describing dark energy [6]. The physical background for phantom type of matter with strongly negative pressure may be looked for in string theory [7]. Phantom field may also arise from a bulk viscous stress due to the particle production [8] or in higher-order theories of gravity [9], Brans-Dicke and non-minimally coupled scalar field theories [10]. The cosmological models which allow for phantom matter appear naturally in the mirage cosmology of the braneworld scenario [11] and in k-essence models [12]. In spite of the fact that the feld theory of phantom felds encounters the problem of stability which one could try to bypass by assuming them to be effective fields [13, 14], it is nevertheless interesting to study their cosmological implication. Recently, there are many relevant studies on phantom energy [15] and the primordial perturbation spectrum from various phantom inflation models [16].
+
+Furthermore, the analysis on the properties of dark energy from the recent observations mildly favor models with $w$ crossing $- 1$ in the near past. However, neither quintessence nor phantom can fulfill this transition. But in an universe with a quintessence and a phantom this case can be realized easily. This implement of dark energy， called as quintom，has been proposed in Ref.[17],and in some cases providing a better fit to the data than the more familiar models with $w \geq - 1$ . The quintom might be able to preserve the tracking behavior of the quintessence and needs less fine-tuned in the early universe compared with the phantom feld, furthermore predict a interesting feature in the evolution and fate of the universe [18]. In this paper we study the the quintom model above with an exponential potential and investigate the existence and stability of cosmological scaling solutions in the context of spatially homogeneous cosmological models. Our phase-plane analysis of the spatially flat FRW models shows that the phantom-dominated scaling solution is the unique late-time attractor and there exists a transition from $w > - 1$ to $w < - 1$ ，then to a constant related to the slope of the phantom feld potential at late times. We will also discuss the physical consequences of these results.
+
+We consider a toy model which contains a negative-kinetic scalar field $\phi$ and a normal scalar field $\sigma$ with generic exponential potential, described by the action:
+
+$$
+S = \int d ^ { 4 } x \sqrt { - g } \left( \frac { R } { 2 \kappa ^ { 2 } } - \frac { 1 } { 2 } g ^ { \mu \nu } \partial _ { \mu } \phi \partial _ { \nu } \phi + \frac { 1 } { 2 } g ^ { \mu \nu } \partial _ { \mu } \sigma \partial _ { \nu } \sigma + V ( \phi , \sigma ) + { \mathcal L } _ { \mathrm { m } } \right) ,
+$$
+
+where $\kappa ^ { 2 } \equiv 8 \pi G _ { N }$ is the gravitational coupling and ${ \dot { L } } _ { \mathrm { m } }$ represents the Lagrangian density of matter fields. The homogeneous fields $\phi$ and $\sigma$ in a spatially flat FRW cosmological model can be described by a fluid with an effective energy density $\rho$ and an effective pressure $P$ given by
+
+$$
+\begin{array} { r c l } { { \rho } } & { { = } } & { { \displaystyle - \frac { 1 } { 2 } { \dot { \phi } } ^ { 2 } + \frac { 1 } { 2 } { \dot { \sigma } } ^ { 2 } + V ( \phi , \sigma ) , } } \\ { { { \cal P } } } & { { = } } & { { \displaystyle - \frac { 1 } { 2 } { \dot { \phi } } ^ { 2 } + \frac { 1 } { 2 } { \dot { \sigma } } ^ { 2 } - V ( \phi , \sigma ) . } } \end{array}
+$$
+
+The corresponding equation of state parameter is now given by
+
+$$
+w = \frac { - \dot { \phi } ^ { 2 } + \dot { \sigma } ^ { 2 } - 2 V ( \phi , \sigma ) } { - \dot { \phi } ^ { 2 } + \dot { \sigma } ^ { 2 } + 2 V ( \phi , \sigma ) } .
+$$
+
+For a model with a normal scalar field, the equation of state $w \geq - 1$ . The toy model of a phantom energy component with a negatice kinetic term possesses an equation of state $w < - 1$ . In our model, Eq.(4) implies $w \geq - 1$ when $\dot { \sigma } \geq \dot { \phi }$ and $w < - 1$ when $\dot { \sigma } < \dot { \phi }$ .We assume that there is no direct coupling between the phantom field and the normal scalar field with such a potential
+
+$$
+V ( \phi , \sigma ) = V _ { \phi } ( \phi ) + V _ { \sigma } ( \sigma ) = V _ { \phi 0 } e ^ { - \lambda _ { \phi } \kappa \phi } + V _ { \sigma 0 } e ^ { - \lambda _ { \sigma } \kappa \sigma } ,
+$$
+
+where $\lambda _ { \phi }$ and $\lambda _ { \sigma }$ are two dimensionless constants characterising the slope of the potential for $\phi$ and $\sigma$ respectively. Further we assume $\lambda _ { \phi } \geq 0$ and $\lambda _ { \sigma } \geq 0$ since we can make them positive through $\phi  - \phi$ and $\sigma  - \sigma$ if some of them are negative, respectively. The evolution equations of the felds and the fluid for a spatially flat FRW model with Hubble parameter $H$ is
+
+$$
+\begin{array} { r c l } { { \displaystyle \ddot { \phi } + 3 H \dot { \phi } - \frac { d V _ { \phi } ( \phi ) } { d \phi } } } & { { = } } & { { 0 , } } \\ { { } } & { { } } & { { } } \\ { { \displaystyle \ddot { \sigma } + 3 H \dot { \sigma } + \frac { d V _ { \sigma } ( \sigma ) } { d \sigma } } } & { { = } } & { { 0 , } } \\ { { } } & { { } } & { { \dot { \rho } _ { \gamma } + 3 H ( \rho _ { \gamma } + P _ { \gamma } ) } } & { { = } } & { { 0 , } } \end{array}
+$$
+
+where $\rho _ { \gamma }$ is the density of fluid with a barotropic equation of state $P _ { \gamma } = ( \gamma - 1 ) \rho _ { \gamma }$ ，where $\gamma$ is a constant, $0 < \gamma \leq 2$ ， such as radiation ( $\gamma = 4 / 3$ ）ordust ( $\gamma = 1$ ). The Fridemann
+
+constraint equation is
+
+$$
+H ^ { 2 } = \frac { \kappa ^ { 2 } } { 3 } \left( - \frac { 1 } { 2 } \dot { \phi } ^ { 2 } + V _ { \phi } ( \phi ) + \frac { 1 } { 2 } \dot { \sigma } ^ { 2 } + V _ { \sigma } ( \sigma ) + \rho _ { \gamma } \right) .
+$$
+
+Defining five dimensionless variables
+
+$$
+\begin{array} { r l r } { x _ { \phi } \equiv \frac { \kappa \dot { \phi } _ { i } } { \sqrt { 6 } H } } & { , } & { y _ { \phi } \equiv \frac { \kappa \sqrt { V _ { \phi } } } { \sqrt { 3 } H } , } \\ { x _ { \sigma } \equiv \frac { \kappa \dot { \sigma } _ { i } } { \sqrt { 6 } H } } & { , } & { y _ { \sigma } \equiv \frac { \kappa \sqrt { V _ { \sigma } } } { \sqrt { 3 } H } , } \\ { z \equiv \frac { \kappa \sqrt { \rho _ { \gamma } } } { \sqrt { 3 } H } } & { , } & \end{array}
+$$
+
+the evolution equations (6)-(8) can be rewritten as an autonomous system:
+
+$$
+\begin{array} { r c l } { { x _ { \phi } ^ { \prime } } } & { { = } } & { { \displaystyle - 3 x _ { \phi } \left( 1 + x _ { \phi } ^ { 2 } - x _ { \sigma } ^ { 2 } - \frac { \gamma } { 2 } z ^ { 2 } \right) - \lambda _ { \phi } \frac { \sqrt { 6 } } { 2 } y _ { \phi } ^ { 2 } , } } \\ { { } } & { { } } & { { } } \\ { { y _ { \phi } ^ { \prime } } } & { { = } } & { { \displaystyle 3 y _ { \phi } \left( - x _ { \phi } ^ { 2 } + x _ { \sigma } ^ { 2 } + \frac { \gamma } { 2 } z ^ { 2 } - \lambda _ { \phi } \frac { \sqrt { 6 } } { 6 } x _ { \phi } \right) , } } \\ { { } } & { { } } & { { } } \\ { { x _ { \sigma } ^ { \prime } } } & { { = } } & { { \displaystyle - 3 x _ { \sigma } \left( 1 + x _ { \phi } ^ { 2 } - x _ { \sigma } ^ { 2 } - \frac { \gamma } { 2 } z ^ { 2 } \right) + \lambda _ { \sigma } \frac { \sqrt { 6 } } { 2 } y _ { \sigma } ^ { 2 } , } } \\ { { } } & { { } } & { { } } \\ { { y _ { \sigma } ^ { \prime } } } & { { = } } & { { \displaystyle 3 y _ { \sigma } \left( - x _ { \phi } ^ { 2 } + x _ { \sigma } ^ { 2 } + \frac { \gamma } { 2 } z ^ { 2 } - \lambda _ { \sigma } \frac { \sqrt { 6 } } { 6 } x _ { \sigma } \right) , } } \\ { { } } & { { } } & { { } } \\ { { z ^ { \prime } } } & { { = } } & { { \displaystyle 3 z \left( - x _ { \phi } ^ { 2 } + x _ { \sigma } ^ { 2 } + \frac { \gamma } { 2 } z ^ { 2 } - \frac { \gamma } { 2 } \right) , } } \end{array}
+$$
+
+where a prime denotes a derivative with respect to the logarithm of the scale factor, $N \equiv$ $\ln a$ ，and the Fridemann constraint equation (9) becomes
+
+$$
+- x _ { \phi } ^ { 2 } + y _ { \phi } ^ { 2 } + x _ { \sigma } ^ { 2 } + y _ { \sigma } ^ { 2 } + z ^ { 2 } = 1 .
+$$
+
+We will restrict our discussion of the existence and stability of critical points to expanding universes with $H > 0$ . Critical points correspond to fixed points where $x _ { \phi } ^ { \prime } = 0$ ， $y _ { \phi } ^ { \prime } = 0$ ， $x _ { \sigma } ^ { \prime } = 0$ ， $y _ { \sigma } ^ { \prime } = 0$ and $z ^ { \prime } = 0$ , and there are self-similar solutions with
+
+$$
+\frac { \dot { H } } { H ^ { 2 } } = 3 x _ { \phi } ^ { 2 } - 3 x _ { \sigma } ^ { 2 } - \frac { 3 \gamma } { 2 } z ^ { 2 } .
+$$
+
+This corresponds to an expanding universe with a scale factor $a ( t )$ given by $a \propto t ^ { p }$ ，where
+
+$$
+p = \frac { 2 } { - 6 x _ { \phi } ^ { 2 } + 6 x _ { \sigma } ^ { 2 } + 3 \gamma z ^ { 2 } } .
+$$
+
+<html><body><table><tr><td>Label</td><td>x</td><td>y</td><td>xg</td><td>Yo</td><td>Z</td><td>Stability</td></tr><tr><td>K</td><td>x-x=1</td><td>0</td><td></td><td>0</td><td>0</td><td>unstable</td></tr><tr><td>P</td><td></td><td>6 V(1+</td><td>0</td><td>0</td><td>0</td><td>stable</td></tr><tr><td>S</td><td>0</td><td>0</td><td></td><td>(1-)</td><td>0</td><td>unstable</td></tr><tr><td>F</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>unstable</td></tr><tr><td>T</td><td>0</td><td>0</td><td>3 V6入g</td><td>3y(2-2) 2x</td><td></td><td>unstable</td></tr></table></body></html>
+
+Table 1: The properties of the critical points in a spatially fat FRW universe containing a phantom field and a normal scalar field with exponential potentials.
+
+The system (11)-(15) has at most one two-dimensional hyperbola $K$ embedded in fivedimensional phase-space corresponding to kinetic-dominated solutions,a fixed point $P$ （204号 which is a phantom-dominated solution,a fixed point $S$ which is a scalar-dominated solution,a fixed point $F$ which is a fluid-dominated solution，and a fixed point $T$ which is a fluid-scalar-dominated solution listed in Table 1.
+
+In order to study the stability of the critical points, using the Friedmann constraint equation (16) we first reduce Eqs.(11)-(15) to four independent equations. Substituting linear perturbations $x _ { \phi } \longrightarrow x _ { \phi } + \delta x _ { \phi }$ ， $y _ { \phi }  y _ { \phi } + \delta y _ { \phi }$ ， $x _ { \sigma }  x _ { \sigma } + \delta x _ { \sigma }$ and $y _ { \sigma }  y _ { \sigma } + \delta y _ { \sigma }$ about the critical points into the four independent equations,to first-order in the perturbations, gives the evolution equations of the linear perturbations,which yield four eigenvalues $m _ { i }$ Stability requires the real part of all eigenvalues to be negative.
+
+$K$ : These kinetic-dominated solutions always exist for any form of the potential, which are equivalent to stiff-fuid dominated evolution with $a \propto t ^ { 1 / 3 }$ irrespective of the nature of the potential. The linearization of system (11)-(16) about these fixed points yields four eigenvalues
+
+$$
+m _ { 1 } = 0 , \quad m _ { 2 } = 3 , \quad m _ { 3 } = 3 ( 2 - \gamma ) , \quad m _ { 4 } = 3 ( 1 \pm \frac { \lambda _ { \sigma } } { \sqrt { 6 } } ) ,
+$$
+
+where we use upper/lower signs to denote the two distinct cases of $x _ { \sigma } = \mp \sqrt { 1 + x _ { \phi } ^ { 2 } }$ Thus the kinetic-dominated solutions are always unstable.
+
+$P$ : The phantom-dominated solution exist for any $\lambda _ { \phi }$ and $\lambda _ { \sigma }$ . The power-law exponent, $p = - 2 / \lambda _ { \phi } ^ { 2 }$ ，depends on the slope of the potential $V _ { \phi }$ . The equation of state becomes $w = - 1 - \lambda _ { \phi } ^ { 2 } / 3$ . The linearization of system (11)-(16) about this fixed point yields four eigenvalues
+
+$$
+m _ { 1 } = - \frac { \lambda _ { \phi } ^ { 2 } } { 2 } , \quad m _ { 2 } = m _ { 3 } = - \frac { 1 } { 2 } ( 6 + \lambda _ { \phi } ^ { 2 } ) , \quad m _ { 4 } = - ( 3 \gamma + \lambda _ { \phi } ^ { 2 } ) ,
+$$
+
+which indicatethatthesolutionisstable.
+
+（20 $S$ : The scalar-dominated solution exist for $\lambda _ { \sigma } ^ { 2 } < 6$ . The power-law exponent, $p = 2 / \lambda _ { \sigma } ^ { 2 }$ depends on the slope of the potential $V _ { \sigma }$ . The equation of state becomes $w = - 1 + \lambda _ { \sigma } ^ { 2 } / 3$ The linearization of system (11)-(16) about this critical point yields four eigenvalues
+
+$$
+m _ { 1 } = \frac { \lambda _ { \sigma } ^ { 2 } } { 2 } , \quad m _ { 2 } = m _ { 3 } = \frac { 1 } { 2 } ( \lambda _ { \sigma } ^ { 2 } - 6 ) , \quad m _ { 4 } = \lambda _ { \sigma } ^ { 2 } - 3 \gamma ,
+$$
+
+which indicate that the solution is unstable.
+
+$F$ : The fluid-dominated solution exists for any form of the potential, corresponding to a power-law solution with $p = 2 / 3 \gamma$ . The linearization of system (11)-(16) about this critical point yields four eigenvalues
+
+$$
+m _ { 1 } = m _ { 2 } = \frac { 3 \gamma } { 2 } , \quad m _ { 3 } = m _ { 4 } = \frac { 3 \gamma } { 2 } - 3 ,
+$$
+
+which indicate that the solution is unstable.
+
+$T$ : The scalar-fluid-dominated solution exist for a potential with $\lambda _ { \sigma } ^ { 2 } > 3 \gamma$ . The powerlaw exponent, $p = 2 / 3 \gamma$ , is identical to that of the fluid-dominated solution,depends only on the barotropic index $\gamma$ and is independent of the slope $\lambda _ { \sigma }$ of the potential $V _ { \sigma }$ .The linearization of system (11)-(16) about the fixed point yields four eigenvalues
+
+$$
+\begin{array} { r c l } { { m _ { 1 } } } & { { = } } & { { \displaystyle \frac { 3 \gamma } { 2 } , } } \\ { { } } & { { } } & { { } } \\ { { m _ { 2 } } } & { { = } } & { { \displaystyle \frac { 3 \gamma } { 2 } - 3 , } } \\ { { } } & { { } } & { { } } \\ { { m _ { 3 } } } & { { = } } & { { - \displaystyle \frac { 3 ( 2 - \gamma ) } { 4 } \left( 1 + \sqrt { 1 - \frac { 8 \gamma ( \lambda _ { \sigma } ^ { 2 } - 3 \gamma ) } { \lambda _ { \sigma } ^ { 2 } ( 2 - \gamma ) } } \right) , } } \\ { { } } & { { } } & { { } } \\ { { m _ { 4 } } } & { { = } } & { { - \displaystyle \frac { 3 ( 2 - \gamma ) } { 4 } \left( 1 - \sqrt { 1 - \frac { 8 \gamma ( \lambda _ { \sigma } ^ { 2 } - 3 \gamma ) } { \lambda _ { \sigma } ^ { 2 } ( 2 - \gamma ) } } \right) , } } \end{array}
+$$
+
+which indicate that the solution is unstable.
+
+The case with the evolution of the state equation parameter $w$ crossing $- 1$ , a scenario of quintom has be shown to be favored mildly by the recent observations. In this paper we have discussed a possible realization of it, in which both quintessence field and phantom field are introduced. We have presented a phase-space analysis of the evolution for a spatially flat FRW universe containing a barotropic fluid and phantom-scalar fields with exponential potentials and shown that the phantom-dominated scaling solution is the stable late-time attractor. The energy density of the phantom field dominates at the late time. The reason for this behavior is that the energy density of the phantom field increases while those of the normal scalar field and the barotropic fluid decreases as the universe evolves. Our numerical studies indicate that the state equation parameter $w$ changes from above $- 1$ to below $- 1$ and tends to be $- ( 1 + \lambda _ { \phi } ^ { 2 } / 3 )$ as shown in Figure 1. Moreover, for various selections of potentials,we find that the state equation parameter $w$ changes from above $- 1$ to below $- 1$ and tends to be $- 1$ as shown in Figure 2,and from below $- 1$ to above $- 1$ and tends to be $- 1$ in Figure 3. we have assumed that there is no direct coupling between the phantom field and the normal scalar field in this paper.
+
+![](images/88e74d30f1e9e5ec1e5dfab5ed82d3ff43c4a973178d643c9b2f5923e4358dd8.jpg)  
+Figure 1: The evolution of the effective equation of state of the phantom and normal scalar felds with $V ( \phi , \sigma ) = V _ { \phi 0 } e ^ { - \lambda _ { \phi } \kappa \phi } + V _ { \sigma 0 } e ^ { - \lambda _ { \sigma } \kappa \sigma }$ for the case $\lambda _ { \phi } = 1$ ：
+
+# Acknowledgements
+
+This project was in part supported by National Basic Research Program of China under Grant No.2003CB716300 and also by NNSFC under Grant No.10175070.
+
+# References
+
+[1] B.Ratra and P.J.E.Peebles， Phys.Rev. D37 (1988) 3406； C.Wetterich， Nucl.Phys. B302（1988) 302.   
+[2] I.Zlatev, L.Wang and P.J.Steinhardt, Phys.Rev.Lett, 82 (1999) 896; P.J.Steinhardt, L.Wang and I.Zlatev, Phys.Rev. D59 (1999)123504.   
+[3] I.P.C.Heard and D.Wands, Class.Quant.Grav. 19 (2002) 5435.   
+[4] Z.K.Guo, Y.S.Piao and Y.Z.Zhang, Phys.Lett. B568 (2003) 1; Z.K.Guo, Y.S.Piao, R.G.Cai and Y.Z.Zhang, Phys.Lett. B576 (2003) 12; Z.K.Guo and Y.Z.Zhang, JCAP 0408 (2004) 010; B.R.Chang, H.Y.Liu, H.Y.Liu and L.X.Xu, astro-ph/0405084.   
+[5] D.Huterer and A.Cooray, astro-ph/0404062.   
+[6] R.R.Caldwell, Phys.Lett. B545 (2002) 23.   
+[7] L.Mersini， M.Bastero-Gil and P.Kanti, Phys.Rev. D64 (2001) 043508；M.BasteroGil， P.H.Frampton and L.Mersini， Phys.Rev. D65 (2002) 106002; P.H.Frampton, Phys.Lett. B555 (2003) 139; F.Piazza and S.Tsujikawa, JCAP 0407 (2004) 004.   
+[8] J.D.Barrow, Nucl.Phys. B310 (1988) 743.   
+[9] M.D.Pollock, Phys.Lett. B215 (1988) 635; G.Calcagni, gr-qc/0410027.   
+[10] D.F.Torres, Phys.Rev. D66 (2002) 043522； E.Elizalde, S.Nojiri and S.D.Odintsov, Phys.Rev. D70 (2004) 043539.   
+[11] A.Kehagias and E.Kiritsis, JHEP 9911 (1999) 022.   
+[12] T.Chiba， T.OkabeandM.Yamaguchi,Phys.Rev.D62(2000) 023511; J.M.Aguirregabiria, L.P.Chimento and R.Lazkoz, Phys.Rev. D70 (2004) 023509.   
+[13] S.M.Carroll, M.Hoffman and M.Trodden, Phys.Rev. D68 (2003) 023509.   
+[14] G.W.Gibbons， hep-th/0302199； A.E.Schulz and M.White, Phys.Rev. D64 (2001) 043514; R.R.Caldwell, M.Kamionkowski and N.N.Weinberg, Phys.Rev.Lett. 91 (2003) 071301; M.P.Dabrowski， T.Stachowiak and M.Szydlowski， Phys.Rev. D68 (2003) 103519; P.Singh, M.Sami and N.Dadhich, Phys.Rev. D68 (2003) 023522; S.Nojiri and S.D.Odintsov， Phys.Lett. B562 (2003) 147； S.Nojiri and S.D.Odintsov, Phys.Lett. B565 (2003) 1; Z.K.Guo, Y.S.Piao and Y.Z.Zhang, Phys.Lett. B594 (2004) 247.   
+[15] X.H.Meng and P.Wang， hep-ph/0311070； V.B.Johri， astro-ph/0311293； M.Sami andA.Toporensky，gr-qc/0312009;M.Szydlowski， W.Czaja andA.Krawiec, astro-ph/0401293; J.Lima and J.S.Alcaniz， astro-ph/0402265; M.Bouhmadi-Lopez and J.J.Madrid, astro-ph/0404540; L.P.Chimento and R.Lazkoz, astro-ph/0405518; Y.H.Wei and Y.Tian, gr-qc/0405038; V.K.Onemli and R.P.Woodard, gr-qc/0406098; P.F.Gonzalez-DiazandC.L.Siguenza，astro-ph/0407421;P.F.Gonzalez-Diaz, hep-th/0408225; Y.H.Wei, gr-qc/0410050.   
+[16] Y.S.Piao and E.Zhou, Phys.Rev. D68 (2003) 083515； Y.S.Piao and Y.Z.Zhang, astro-ph/0401231.
+
+![](images/0c8aad2b603bdafc5d82db16aa13860ca55d3e8d26dd515272caa798160ffcb3.jpg)  
+Figure 2: The evolution of the effective equation of state of the phantom and normal scalar fields with $\begin{array} { r } { V ( \phi , \sigma ) = \frac { 1 } { 2 } m _ { \phi } ^ { 2 } \phi ^ { 2 } + \frac { 1 } { 2 } m _ { \sigma } ^ { 2 } \sigma ^ { 2 } } \end{array}$ （20
+
+![](images/c05d6e049accb1a67445b7bff3303f708a4e6be4385462aca2373e0d041f8874.jpg)  
+Figure 3: The evolution of the efective equation of state of the phantom and normal scalar fields with $V ( \phi , \sigma ) = V _ { \phi 0 } e ^ { - \lambda _ { \phi } \kappa ^ { 2 } \phi ^ { 2 } } + V _ { \sigma 0 } e ^ { - \lambda _ { \sigma } \kappa ^ { 2 } \sigma ^ { 2 } }$
+
+[17] B.Feng, X.L.Wang and X.Zhang, astro-ph/O404224 [18] B.Feng, M.Z.Li, Y.S.Piao and X.Zhang,astro-ph/0407432.

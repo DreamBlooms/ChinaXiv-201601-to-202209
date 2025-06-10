@@ -1,0 +1,937 @@
+[
+    {
+        "type": "text",
+        "text": "毫米波检波二极管特性与检波原理",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "徐伟业1\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（中国科学院等离子体物理研究所1，合肥230031)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要毫米波检波二极管是用于回旋管功率实时监测的重要器件，本文对二极管特性进行了讨论。通过对二极管特性的分析，给出了二极管模型参数的简易获得方法，极大的方便了二极管测试，并可以通过测试的结果建立二极管等效电路模型，以便进行检波器的设计。本文利用泰勒展开分析了二极管小信号检波原理，利用二极管折线模型分析了二极管大信号检波原理；并从二极管电流电压特性方程出发，推导了小信号和大信号检波原理。本文系统地分析了二极管检波原理，提出了二极管模型参数提取方法，为检波电路的设计提供了依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词　二极管　等效模型　毫米波　功率监测中图法分类号 $\\mathrm { T N } 3 1 3 \\substack { + . 8 }$ 文献标志码A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Characteristics and Detection Principles of Millimeter Wave Detector Diode ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "XU Wei-ye1\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（Institute of Plasma Physics, Chinese Academy of Sciences1,Hefei 23o031,P.R.China）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[AbstractTeilimeterwavedetectordiodeianimportantdeviceforeal-tepowermonitoringforgyrotron.Intispaer,ediode characterstisardsdByalgtacteristofdegietemetsofeigdeodelpameerTeipls ofthesallsignaldtectioandtelargesigaldetectioofodedetetioareaaledusingthTayloxpasionandthepeeiseear diodemodelrespetielyAndseprinciplsofthddedeteareducedfrotodetvoaeharactesticqatioalsoe detailed theoreticalderivation is given.This paper providesa theoretical reference for the designofthe diode detector. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Key words] Diode Equivalent model Millimeter wave Power monitoring ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在受控热核聚变研究中，电子回旋加热[是重要的等离子体辅助加热手段之一。毫米波功率监控系统[2，3]是保障电子回旋共振加热系统正常工作的重要子系统。我们使用检波器实时监测毫米波功率，检波器电路通常由匹配电路、检波二极管和低通滤波器构成，如图1所示。二极管可以并联或者串联在匹配电路与低通滤波电路之间。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "微波信 视频信号输入 匹配 低通 号输出O 0电路 滤波",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文对毫米波检波二极管特性和检波原理进行了详细的分析，提出了二极管等效电路模型参数提取办法是检波器设计的理论基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1二极管特性",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "理想的二极管伏安特性为，",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { i } ( \\mathsf { V } ) = \\mathrm { I } _ { s } \\left( e ^ { \\frac { q V } { k T } } - 1 \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "其中，Is为二极管零偏压下的饱和电流，对肖特基二极管来说，一般在 $1 0 ^ { - 1 4 } { \\sim } 1 0 ^ { - 6 }$ A 不等，例如VDI公司W波段零偏置肖特基二极管的反向饱和电流为 $\\mathrm { 4 ^ { \\sim } 2 4 u A }$ TELEDYNE公司的TSC-SB-03020肖特基二极管的反向饱和电流为 $1 0 ^ { - 1 4 } \\ A$ ，反向饱和电流的值受结面积、势垒高度、温度等的影响；q是电子的电荷；V是二极管阳极阴极之间的电压，单位V； $\\mathrm { ~ k ~ }$ 是玻尔兹曼常数 $1 . 3 8 \\times$ $1 0 ^ { - 2 3 } \\ J / K$ ；T为结温度，单位为K。根据式(1)，理想情况下的二极管伏安特性曲线如图2和图3所示。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d1b7be1c2fcd2d417bba1942a2bf4395bf12429d64435d8afc8be69baee558a.jpg",
+        "img_caption": [
+            "图2理想二极管伏安特性曲线 (线性坐标）"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef0bdefef656105821e88724014e88cce71c831315eb328db8c92afadad87b09.jpg",
+        "img_caption": [
+            "Fig.2 I-Vcharacteristic curve of ideal diode with linear coordinate ",
+            "图3理想二极管的伏安特性曲线（纵坐标为对数坐标，横坐标 为线性坐标) ",
+            "Fig. 3 I-V characteristic curve of ideal diode with linear abscissa and logarithmic ordinate "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实际上，在正向电压较小或较大时，二极管伏安特性均会发生变化，二极管特性曲线大致如图4所示，可以分为三个区域，区域1是截止区，复合电流其主要作用，",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { i } ( \\mathsf { V } ) = \\mathrm { I } _ { s } \\left( e ^ { \\frac { q V } { m k T } } - 1 \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "m 一般在2左右。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "区域2是工作区域，扩散电流起主要作用，",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { i } ( \\mathsf { V } ) = \\mathrm { I } _ { s } \\left( e ^ { \\frac { q V } { n k T } } - 1 \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "n 是理想因子，理想情况下为1，一般由于结缺陷等的影响，值大于1，对于面接触型肖特基二极管， $\\mathfrak { n }$ 为 $\\boldsymbol { 1 } ^ { \\sim } \\boldsymbol { 1 } . \\boldsymbol { 2 }$ 之间；对于点接触型肖特基二极管，n一般大于1.4。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "区域3是饱和区，当正向电压较大的时候，注入P区的非平衡少子电子将产生积累，维持电中性要求多子空穴也相应积累，多子空穴存在浓度梯度，会发生扩散，空穴的离开会使P区电中性被破坏，P区必然会建立一个电场阻止空穴的扩散，这个电场的存在使一部分电压加在P区（空间电荷区电压相应少了)，电流增加变缓。电流电压特性，可以近似表达为，",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { i } ( \\mathrm { V } ) = \\frac { \\Delta \\mathrm { V } } { \\mathrm { R } _ { s } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\Delta \\mathsf { V }$ 是实际测试电压与理想电压之差。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/38689fa59aac43ec99c8ddace95124a2d8851a63f9d5e0ead28a1b4185de912a.jpg",
+        "img_caption": [
+            "图4实际肖特基二极管伏安特性举例",
+            "Fig. 4 I-V characteristic of a schottky diode "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式（1)中，Is可以在零偏压时方便的测得。 $\\mathfrak { n }$ 的测量需要测量正向电流i，取i $( \\mathsf { V } _ { 1 } )$ 、 $\\mathrm { i } ( \\mathsf { V } _ { 2 } )$ 在二极管特性曲线的区域2内两个测量点，",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { i } ( \\mathrm { V } _ { 1 } ) = \\mathrm { I } _ { s } \\left( e ^ { \\frac { q V _ { 1 } } { n k T } } - 1 \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname { i } ( V _ { 2 } ) = \\operatorname { I } _ { s } \\left( e ^ { \\frac { q V _ { 2 } } { n k T } } - 1 \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上边两式相除，得到，",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { \\mathrm { i } ( \\mathrm { V } _ { 1 } ) } { \\mathrm { i } ( V _ { 2 } ) } } = { \\frac { e ^ { \\frac { q V _ { 1 } } { n k T } } - 1 } { e ^ { \\frac { q V _ { 2 } } { n k T } } - 1 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因为 $\\mathsf { i } ( \\mathsf { V } _ { 1 } ) , \\ \\mathsf { i } ( \\mathsf { V } _ { 2 } )$ 在二极管特性曲线的区域2内，此时，$e ^ { \\frac { q V } { n k T } } \\gg 1$ ，所以有，",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { \\mathrm { i } ( \\mathrm { V } _ { 1 } ) } { \\mathrm { i } ( V _ { 2 } ) } } = e ^ { \\frac { q ( V _ { 1 } - V _ { 2 } ) } { n k T } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "两边取对数，有，",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\ln \\bigl ( \\mathrm { i } ( \\mathrm { V } _ { 1 } ) \\bigr ) - \\ln \\bigl ( \\mathrm { i } ( \\mathrm { V } _ { 2 } ) \\bigr ) = \\frac { q ( V _ { 1 } - V _ { 2 } ) } { n k T } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "所以，",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathbf { n } = \\frac { q ( V _ { 1 } - V _ { 2 } ) } { k T \\left( \\ln \\left( \\mathrm { i } ( V _ { 1 } ) \\right) - \\ln \\left( \\mathrm { i } ( V _ { 2 } ) \\right) \\right) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据上式，便可得到 $\\mathfrak { n }$ 的测量值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实际上，二极管还会有串联电阻效应，",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { I } = \\mathrm { i } ( \\mathrm { V } ) = \\mathrm { I } _ { s } \\left( e ^ { \\frac { q ( \\mathrm { V } - \\mathrm { I R } _ { s } ) } { n k T } } - 1 \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中，Rs是等效串联电阻，测量方法如下。在图4所示的特性曲线中，选择区域2附近的四个点，一般选取区域2内靠近开启电压附近的两个点， $( V _ { 1 } , \\ I _ { 1 } )$ 、 $( V _ { 2 } , \\ I _ { 2 } )$ 以及区域2和区域3交界处附近的两个点 $( V _ { 3 } , \\ I _ { 3 } )$ 、$( V _ { 4 } , \\ I _ { 4 } )$ ，且另",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\frac { \\mathrm { { I } } _ { 4 } } { \\mathrm { { I } } _ { 3 } } = \\frac { \\mathrm { { I } } _ { 2 } } { \\mathrm { { I } } _ { 1 } } = \\mathrm { { a } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因为对于选取的四个点，都有 $e ^ { \\frac { q ( \\mathrm { V } + \\mathrm { I R } _ { s } ) } { n k T } } \\gg 1$ ，于是，",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\ln \\left( \\frac { \\mathrm { ~ I } _ { 4 } } { \\mathrm { ~ I } _ { 3 } } \\right) = \\frac { q ( \\mathrm { V } _ { 4 } - \\mathrm { I } _ { 4 } \\mathrm { R } _ { s } - V _ { 3 } + \\mathrm { I } _ { 3 } \\mathrm { R } _ { s } ) } { n k T } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\ln \\left( \\frac { \\mathrm { \\Delta I _ { 2 } } } { \\mathrm { \\Delta I _ { 1 } } } \\right) = \\frac { q ( \\mathrm { V } _ { 2 } - \\mathrm { I } _ { 2 } \\mathrm { R } _ { s } - V _ { 1 } + \\mathrm { I } _ { 1 } \\mathrm { R } _ { s } ) } { n k T } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由上面三个方程式联立得到，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$( \\mathrm { V } _ { 4 } - V _ { 3 } ) - ( \\mathrm { V } _ { 2 } - \\mathrm { V } _ { 1 } ) = \\mathrm { I } _ { 4 } \\mathrm { R } _ { s } - \\mathrm { I } _ { 3 } \\mathrm { R } _ { s } - \\mathrm { I } _ { 2 } \\mathrm { R } _ { s } + \\mathrm { I } _ { 1 } \\mathrm { R } _ { s }$ 所以，",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { R } _ { s } = \\frac { \\left( V _ { 4 } - V _ { 3 } \\right) - \\left( V _ { 2 } - V _ { 1 } \\right) } { \\left( \\mathrm { \\Omega } \\mathrm { I } _ { 4 } - \\mathrm { \\Omega } \\mathrm { I } _ { 3 } \\right) - \\left( \\mathrm { \\Omega } \\mathrm { I } _ { 2 } - \\mathrm { \\Omega } \\mathrm { I } _ { 1 } \\right) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "一般选取的 $( \\mathrm { ~ I ~ } _ { 4 } - \\mathrm { ~ I ~ } _ { 3 } ) \\gg ( \\mathrm { ~ I ~ } _ { 2 } - \\mathrm { ~ I ~ } _ { 1 } )$ ，于是，",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { R } _ { s } = \\frac { \\left( V _ { 4 } - V _ { 3 } \\right) - \\left( V _ { 2 } - V _ { 1 } \\right) } { \\mathrm { I } _ { 4 } - \\mathrm { ~ I } _ { 3 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以VDI公司W波段单阳极肖特基二极管为例，特性曲线如下图5所示， $\\mathrm { I } _ { 1 } \\setminus \\ \\mathrm { I } _ { 2 } \\setminus \\mathrm { I } _ { 3 } \\setminus \\mathrm { I } _ { 4 }$ 可以分别选取为$1 0 \\mu \\mathrm { A }$ 、 $1 0 0 \\mu \\mathrm { A }$ 、1mA、 $1 0 \\mathrm { m A }$ 。于是，此二级管的串联电阻可以用下面的公式得到，",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathsf { R } _ { s } = \\frac { ( V _ { 4 } - V _ { 3 } ) - ( V _ { 2 } - V _ { 1 } ) } { 9 \\mathrm { \\ m A } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "接近于区域3中的电流电压特性（参见式(4)),",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathsf { R } _ { s } = \\frac { \\Delta \\mathsf { V } ( \\varpi 9 \\mathrm { \\ m A } ) } { 9 \\mathrm { \\ m A } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实际上，根据二极管理想IV特性方程(1)以及考虑到串联电阻效应的IV特性方程（11），两个方程两边同除以Is，假设电流为I时，理想情况下的电压为 $\\mathsf { \\Pi } ^ { \\mathsf { V } _ { i } }$ ，考虑串联电阻情况下的电压为 $V _ { s }$ ，得到，",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\frac { \\mathrm { ~ I ~ } } { \\mathrm { ~ I _ { s } ~ } } = \\mathrm { e } ^ { \\frac { \\mathrm { { q } } V _ { i } } { \\mathrm { { n k T } } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\frac { et { } { ' } } { \\mathrm { I } _ { s } } = \\mathrm { e } ^ { \\frac { \\mathrm { q } ( V _ { s } - I R _ { s } ) } { \\mathrm { n k T } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上面两个方程取对数，并化简后得到，",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { i } = V _ { s } - I R _ { s }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "于是有，",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { I = \\frac { V _ { s } - V _ { i } } { R _ { s } } = \\frac { \\Delta V } { R _ { s } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同式(4)相同。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/da42867330e3291f91d89af56706c0d55acb8c798a45dbe8d20d7290282f6f4f.jpg",
+        "img_caption": [
+            "图5VDI公司W波段单阳极肖特基二极管正向特性曲线 ig.5I-V characteristic of a W band single anode schottky diode "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "二极管等效模型如图6所示。其中，Ls是引脚串联电感；Rs是由接触、扩散电阻等引起的串联电阻（同上文中的 Rs)；Rj是结电阻，大小与二极管所加偏压有关，结电阻Rj和Rs的和为视频电阻Rv，因此Rv也随二极管所加偏压变化，其值为二极管所加正向直流电压和相应二极管电流的比值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cj是二极管结电容，大小与二极管所加偏压有关，",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { C } _ { j } = C _ { j 0 } \\left( 1 - \\frac { V } { \\varnothing } \\right) ^ { - \\gamma } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $C _ { j 0 }$ 是零偏置下的结电容； $\\varnothing$ 是二极管势垒内建电势，与材料与参杂浓度有关； $\\gamma$ 是结电容非线性系数，是与PN结两侧杂质分布情况有关的参数，一般在0.5左右。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cpp 是二极管管壳电容（两引脚间电容-PadtoPadCapacitance)，可以在移除二极管金手指（二极管阴极、阳极与引脚之间的接线）后进行测量；同样，接上金手指后，可以测量二极管的总电容 $\\cot$ ；金手指和引脚之间的电容Cfp也可以测量得到（一般很小，1fF左右，可以忽略不计)。Cj于是可以用下面的公式估算，",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathbb { C } _ { j } = \\frac { \\left( C _ { t } - \\mathbb { C } _ { \\mathtt { p p } } \\right) } { N } - \\mathbb { C } _ { \\mathtt { f p } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中，N是引脚间阳极的个数，例如，如图7所示，用于检波器的二极管是单阳极的，N等于1；用于混频器的反并联二极管的N为2。关于二极管的更多理论介绍及参数测量，可以参阅相关文献[4,5]。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8119293c16704595c48190f671415a2ff940ec49c736ae646b852f8045597c8e.jpg",
+        "img_caption": [
+            "图6二极管等效模型",
+            "Fig. 6 Equivalent model of the diode "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9162862288ffe7a554deed54da289ea5ea9c1876a01dda76b5e03b59c65b71cc.jpg",
+        "img_caption": [
+            "Fig. 7 The detector diode (left) and the parallel diode (right) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2小信号检波原理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设二极管输入信号为直流电压加入一交流小电压 $\\boldsymbol { \\mathrm { V } } = \\boldsymbol { \\mathrm { V } } _ { 0 } + \\boldsymbol { \\delta \\mathrm { V } }$ ，则利用泰勒展开，",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\quad i ( V _ { 0 } + \\delta V ) = i ( V _ { 0 } ) + \\delta V \\frac { d i } { d v } \\Bigr | _ { V _ { 0 } } + \\frac { \\delta V ^ { 2 } } { 2 ! } \\frac { d ^ { 2 } i } { d v ^ { 2 } } \\Bigr | _ { V _ { 0 } } + \\cdots + } \\\\ & { \\quad \\frac { \\cdot V ^ { n } } { n ! } \\frac { d ^ { n } i } { d v ^ { n } } \\Bigr | _ { V _ { 0 } } + \\cdots \\qquad ( } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\mathtt { V } _ { 0 }$ 是直流偏压，8V是小信号交流信号电压。当 $\\delta \\mathrm { V } = V _ { p } \\cos ( \\omega _ { s } t )$ 时，忽略三次以上高阶项，有，",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { i ( V _ { 0 } + \\delta V ) = i ( V _ { 0 } ) + V _ { p } \\cos ( \\omega _ { s } t ) \\frac { d i } { d v } \\Big | _ { V _ { 0 } } + } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { V _ { p } ^ { 2 } \\cos ^ { 2 } ( \\omega _ { s } t ) } { 2 } \\frac { d ^ { 2 } i } { d v ^ { 2 } } \\bigg \\vert _ { V _ { 0 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $V _ { p }$ 是高频信号峰值， $\\omega _ { s }$ 是高频信号频率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据三角公式，",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\cos ( 2 \\omega _ { s } \\mathrm { t } ) = 2 \\cos ^ { 2 } ( \\omega _ { s } \\mathrm { t } ) - 1\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "上式中的二阶整流项可以表示为，",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\frac { V _ { p } ^ { 2 } \\cos ^ { 2 } ( \\omega _ { s } t ) } { 2 } \\frac { d ^ { 2 } i } { d v ^ { 2 } } \\Big | _ { V _ { 0 } } = \\frac { \\mathrm { V } _ { p } ^ { 2 } } { 4 } \\big [ 1 + \\cos ( 2 \\omega _ { s } t ) \\big ] \\frac { d ^ { 2 } i } { d v ^ { 2 } } \\Big | _ { V _ { 0 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "可以看到，二阶整流项包含一个直流分量和一个二倍频项，其中直流分量大小正比于 $\\mathrm { \\Delta V _ { p } ^ { 2 } }$ ，即正比于输入高频信号的功率，相应的输出电压与 $\\mathrm { V _ { p } ^ { 2 } }$ 也成正比，直流信号通过定标即可以用来表征输入高频信号的功率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "二极管还可以用来解调输入的幅度调制信号，假设二极管输入一个小信号调幅信号，",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nv _ { s } ( { \\ t } ) = \\mathrm { V } _ { p } [ 1 + m \\sin ( \\omega _ { m } t ) ] \\cos ( \\omega _ { s } t ) = \\mathrm { V } _ { p } \\cos ( \\omega _ { s } t ) +\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm \\mathrm { V } _ { p } \\sin ( \\omega _ { m } t ) \\cos ( \\omega _ { s } t )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用三角公式，",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\sin ( \\omega _ { m } t ) \\cdot \\cos ( \\omega _ { s } t ) = \\frac { 1 } { 2 } [ \\sin ( \\omega _ { m } + \\omega _ { s } ) t + \\sin ( \\omega _ { m } - } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "于是有，",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { v _ { s } ( \\mathrm { t } ) = \\mathrm { V } _ { p } \\cos ( \\omega _ { s } t ) + \\frac { m \\mathrm { V } _ { p } } { 2 } [ \\sin ( \\omega _ { s } + \\omega _ { m } ) t - \\sin ( \\omega _ { s } - } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\omega _ { m } ) t ]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "可以看到，调幅信号包含 $\\omega _ { s } \\circ \\omega _ { s } + \\omega _ { m } \\circ \\omega _ { s } - \\omega _ { m }$ 三种频率成分。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（20 $\\begin{array} { r } { \\delta \\mathrm { V } = v _ { s } ( \\mathrm { t } ) = \\mathrm { V } _ { p } \\cos ( \\omega _ { s } t ) + \\frac { m \\mathrm { V } _ { p } } { 2 } [ \\sin ( \\omega _ { s } + \\omega _ { m } ) t - } \\end{array}$ $\\sin ( \\omega _ { s } - \\omega _ { m } ) t ]$ ，带入式(26)，并忽略三次以上的高次项，有，",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { i ( V _ { 0 } + \\delta V ) = i ( V _ { 0 } ) + \\Big \\{ \\mathrm { V } _ { p } \\cos ( \\omega _ { s } t ) + \\frac { m \\mathrm { V } _ { p } } { 2 } [ \\sin ( \\omega _ { s } + } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\omega _ { m } ) t - \\sin ( \\omega _ { s } - \\omega _ { m } ) t ] \\big \\} \\frac { d i } { d v } \\Big | _ { V _ { 0 } } + \\frac { 1 } { 2 } \\Big \\{ \\big \\} _ { p } \\cos ( \\omega _ { s } t ) + } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\frac { m \\mathrm { V } _ { p } } { 2 } \\big [ \\mathrm { s i n } ( \\omega _ { s } + \\omega _ { m } ) t - \\mathrm { s i n } ( \\omega _ { s } - \\omega _ { m } ) t \\big ] \\Big \\} ^ { 2 } \\frac { d ^ { 2 } i } { d v ^ { 2 } } \\Big | _ { V _ { 0 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "可以看到，输出信号中包含由直流偏压产生的直流项、输入信号频率成分的一阶整流项、以及二阶整流项。其中，二阶整流项系数为，",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r }   \\frac { 1 } { 2 } \\Big \\{ \\nabla _ { p } \\cos ( \\omega _ { s } t ) + \\frac { m \\nabla _ { p } } { 2 } [ \\sin ( \\omega _ { s } + \\omega _ { m } ) t - \\sin ( \\omega _ { s } - \\omega _ { m } ) t ] \\Big \\} _ { \\displaystyle = \\frac { 1 } { \\omega _ { s } } } & { { } } & { } \\\\ { \\omega _ { m } ) t ] \\Big \\} ^ { 2 } = \\frac { 1 } { 2 } \\big [ \\nabla _ { p } \\cos ( \\omega _ { s } t ) \\big ] ^ { 2 } + } & { { } } & { } \\\\ { \\frac { m ^ { 2 } V _ { p } ^ { 2 } [ \\sin ( \\omega _ { s } + \\omega _ { m } ) t - \\sin ( \\omega _ { s } - \\omega _ { m } ) t ] ^ { 2 } } { 8 } + \\frac { m V _ { p } ^ { 2 } } { 2 } \\cos ( \\omega _ { s } t ) [ \\sin ( \\omega _ { s } + \\omega _ { m } ) t + \\frac { 1 } { 2 \\omega _ { s } } \\sin ( \\omega _ { s } t ) ] \\Big \\} , } & { { } } & { } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\omega _ { m } ) t - \\sin ( \\omega _ { s } - \\omega _ { m } ) t ]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中,",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\frac { 1 } { 2 } \\big [ \\mathrm { V } _ { p } \\cos ( \\omega _ { s } t ) \\big ] ^ { 2 } = \\frac { \\mathrm { V } _ { \\mathrm { p } } ^ { 2 } } { 4 } \\big [ 2 \\cos ^ { 2 } ( \\omega _ { s } t ) - 1 \\big ] + \\frac { \\mathrm { V } _ { \\mathrm { p } } ^ { 2 } } { 4 } = \\frac { \\mathrm { V } _ { \\mathrm { p } } ^ { 2 } } { 4 } + } \\\\ { \\frac { \\mathrm { V } _ { \\mathrm { p } } ^ { 2 } } { 4 } c o s ( 2 \\omega _ { s } t ) \\qquad ( 3 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\frac { m ^ { 2 } V _ { p } ^ { 2 } [ \\sin ( \\omega _ { s } + \\omega _ { m } ) t - \\sin ( \\omega _ { s } - \\omega _ { m } ) t ] ^ { 2 } } { 8 } = \\frac { m ^ { 2 } V _ { p } ^ { 2 } } { 8 } \\left[ \\sin ( \\omega _ { s } + \\omega _ { m } ) t - \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\sin ( \\omega _ { g } - \\omega _ { m } ) t ] ^ { 2 } = \\frac { {  { \\pi } } ^ { 1 / 2 } } { 8 } \\xi \\sin ^ { 2 } [ ( \\omega _ { g } + \\omega _ { m } ) t ] + } \\\\ & { \\sin ^ { 2 } [ ( \\omega _ { g } - \\omega _ { m } ) t ] - 2 \\sin [ ( \\omega _ { g } + \\omega _ { m } ) t ] \\sin [ ( \\omega _ { g } - \\omega } \\\\ & { } \\\\ { \\sin \\omega _ { p } ) t ] ] = \\frac { {  { \\pi } } ^ { 2 / 2 } } { 1 6 } \\left[ 2 \\sin ^ { 2 } [ ( \\omega _ { g } + \\omega _ { m } ) t ] - 1 \\right] + \\frac { {  { \\pi } } ^ { 2 / 2 } } { 1 6 } + } \\\\ & { \\frac { {  { \\pi } } ^ { 2 / 2 } } { 1 6 } \\left[ ( 2 \\sin ^ { 2 } [ ( \\omega _ { g } - \\omega _ { m } ) t ] - 1 ) + \\frac { {  { \\pi } } ^ { 2 / 2 } } { 1 6 } + \\right. } \\\\ & { \\left. \\frac { {  { \\pi } } ^ { 2 / 2 } } { 1 6 } \\cos ( 2 \\omega _ { g } ) - \\frac { {  { \\pi } } ^ { 2 / 2 } } { 8 } \\cos ( 2 \\omega _ { m } t ) - \\frac { {  { \\pi } } ^ { 2 / 2 } } { 8 } - \\right. } \\\\ & { \\frac { {  { \\pi } } ^ { 3 / 2 } } { 8 } \\xi \\cos [ ( \\omega _ { g } - \\omega _ { m } ) t ] - \\frac { {  { \\pi } } ^ { 2 / 2 } } { 1 6 } \\cos [ ( 2 \\omega _ { g } + \\omega _ { m } ) t ] + } \\\\ & { \\frac { {  { \\pi } } ^ { 3 / 2 } } { 1 6 } \\cos [ ( \\omega _ { g } - \\omega _ { m } ) t ] - \\frac { {  { \\pi } } ^ { 3 / 2 } } { 3 6 } \\cos [ 2 ( \\omega _ { g } + \\omega _ { m } ) t ] + } \\\\ & { \\frac { {  { \\pi } } ^ { 3 / 2 } } { 1 6 } \\cos [ ( 2 \\omega _ { g } ) - \\frac { {  { \\pi } } ^ { 2 / 2 } } { 1 6 } \\cos ( 2 \\omega _ { m } t ) ] } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } { \\frac { m \\nabla _ { \\mathbf { p } } ^ { 2 } } { 2 } \\mathrm { c o s } ( \\omega _ { s } t ) \\left[ \\sin ( \\omega _ { s } + \\omega _ { m } ) t - \\sin ( \\omega _ { s } - \\omega _ { m } ) t \\right] = } & { } & \\\\ { \\frac { m \\nabla _ { \\mathbf { p } } ^ { 2 } } { 2 } \\mathrm { c o s } ( \\omega _ { s } t ) \\sin ( \\omega _ { s } + \\omega _ { m } ) t - \\frac { m \\nabla _ { \\mathbf { p } } ^ { 2 } } { 2 } \\mathrm { c o s } ( \\omega _ { s } t ) \\sin ( \\omega _ { s } - \\omega _ { m } ) t } & { } & \\\\ { \\omega _ { m } ) t = \\frac { m V _ { \\mathbf { p } } ^ { 2 } } { 4 } \\left[ \\sin ( 2 \\omega _ { s } + \\omega _ { m } ) t + s i n ( \\omega _ { m } t ) \\right] - } & { } & \\\\ { \\frac { m V _ { \\mathbf { p } } ^ { 2 } } { 4 } \\left[ \\sin ( 2 \\omega _ { s } - \\omega _ { m } ) t - s i n ( \\omega _ { m } t ) \\right] } & { } & { ( : ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式（35）、（36)与(37)相加，得到二阶整流项的系数，",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c c } { { { \\frac { V _ { \\mathrm { p } } ^ { 2 } } { 4 } } + { \\frac { m ^ { 2 } V _ { p } ^ { 2 } } { 8 } } + { \\frac { m V _ { \\mathrm { p } } ^ { 2 } } { 2 } } s i n ( \\omega _ { m } t ) + { \\frac { V _ { \\mathrm { p } } ^ { 2 } } { 4 } } c o s ( 2 \\omega _ { s } t ) + } } & { { } } \\\\ { { } } & { { { } } } \\\\ { { { \\frac { m ^ { 2 } V _ { p } ^ { 2 } } { 8 } } \\cos ( 2 \\omega _ { s } t ) - { \\frac { m ^ { 2 } V _ { p } ^ { 2 } } { 8 } } \\cos ( 2 \\omega _ { m } t ) - { \\frac { m ^ { 2 } V _ { p } ^ { 2 } } { 1 6 } } c o s [ 2 ( \\omega _ { s } - } } \\\\ { { } } & { { } } \\\\ { { \\omega _ { m } ) t ] - { \\frac { m ^ { 2 } V _ { p } ^ { 2 } } { 1 6 } } c o s [ 2 ( \\omega _ { s } + \\omega _ { m } ) t ] + { \\frac { m V _ { \\mathrm { p } } ^ { 2 } } { 4 } } \\sin ( 2 \\omega _ { s } + } } & { { } } \\\\ { { } } & { { } } \\\\ { { \\omega _ { m } ) t - { \\frac { m V _ { \\mathrm { p } } ^ { 2 } } { 4 } } \\sin ( 2 \\omega _ { s } - \\omega _ { m } ) t } } & { { ( \\mathrm { : } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由上式看到，二阶整流项产生了输入信号以外的新的频率成分，包含的频率成分及其相对大小如下表，相对幅度除以 就得到各分量输出的真实幅度。后面接4dv2lvo  \n低通滤波器即可将 $\\omega _ { m }$ 以外的频率成分滤除，检波得到调制信号。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/eb57fec6c91e7785ffe7142453574c5354203ade203c342a4b2b6adb585ac18f.jpg",
+        "table_caption": [
+            "表1二阶整流项各频率成分的相对大小",
+            "Table 1. The relative value for each frequency of the second order rectification item "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>频率 成分</td><td>DC</td><td>@m</td><td>20s</td><td>2@m</td><td>2(@s±@m)</td><td>2@s±0m</td></tr><tr><td>相对 幅度</td><td>1+m/2</td><td>2m</td><td>1+m/2</td><td>m/2</td><td>m/4</td><td>m</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "换一个角度进行分析，最基本的二极管检波电路如图8所示，假设图中的电容C是理想的，对高频信号短路，则在电容C两端没有高频成分。根据二极管电流电压特性方程式(3)，对一个射频周期进行积分，通过二极管的平均电流为，",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { i } _ { d } = \\mathrm { I } _ { s } \\left[ \\frac { 1 } { \\tau } \\int _ { 0 } ^ { \\tau } \\left( e ^ { \\frac { q v _ { d } } { n k T } } - 1 \\right) d t \\right] } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中 $v _ { d } = - \\nabla _ { D C } + V _ { p } \\cos ( \\omega t )$ ， $\\omega \\tau = 2 \\pi$ ， $\\mathrm { v } _ { D C }$ 是电容C两端的电压。化简上式，",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathrm { i } _ { d } = \\mathrm { I } _ { s } \\left[ \\frac { 1 } { \\tau } \\int _ { 0 } ^ { \\tau } e ^ { \\frac { q v _ { d } } { n k T } } d t - \\frac { 1 } { \\tau } \\int _ { 0 } ^ { \\tau } 1 d t \\right] = } \\\\ & { \\mathrm { I } _ { s } \\left[ \\frac { 1 } { \\tau } \\int _ { 0 } ^ { \\tau } e ^ { - \\frac { q V _ { D C } } { n k T } } e ^ { \\frac { q V _ { D C } \\cos ( \\omega t ) } { n k T } } d t - 1 \\right] = } \\\\ & { \\mathrm { I } _ { s } \\left\\{ e ^ { - \\frac { q V _ { D C } } { n k T } } \\left[ \\frac { 1 } { \\tau } \\int _ { 0 } ^ { \\tau } e ^ { \\frac { q V _ { p } \\cos ( \\omega t ) } { n k T } } d t \\right] - 1 \\right\\} = } \\\\ & { \\mathrm { I } _ { s } \\left\\{ e ^ { - \\frac { q V _ { D C } } { n k T } } \\left[ I _ { 0 } \\left( \\frac { q V _ { p } } { n k T } \\right) \\right] - 1 \\right\\} } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中,",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } & { \\mathrm { I } _ { 0 } \\left( \\frac { q \\mathrm { V } _ { \\mathrm { p } } } { n k T } \\right) = \\frac { 1 } { \\tau } \\int _ { 0 } ^ { \\tau } e ^ { \\frac { q \\mathrm { V } _ { \\mathrm { p } } \\cos ( \\omega t ) } { n k T } } \\mathrm { d } t = \\frac { 1 } { \\omega \\tau } \\int _ { 0 } ^ { \\omega \\tau } e ^ { \\frac { q \\mathrm { V } _ { \\mathrm { p } } \\cos ( \\omega t ) } { n k T } } \\mathrm { d } ( \\omega t ) = } & \\\\ & { \\frac { 1 } { 2 \\pi } \\int _ { 0 } ^ { 2 \\pi } e ^ { \\frac { q \\mathrm { V } _ { \\mathrm { p } } \\cos ( \\theta ) } { n k T } } \\mathrm { d } \\Theta } & { \\left( 4 1 \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "令，",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { y = \\frac { q \\mathrm { { V _ { p } } } } { n k T } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "则有，",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { I } _ { 0 } ( y ) = \\frac { 1 } { 2 \\pi } \\int _ { 0 } ^ { 2 \\pi } e ^ { y \\cos { \\Theta } } \\mathrm { d } \\Theta = \\frac { 1 } { 2 \\pi } \\int _ { 0 } ^ { 2 \\pi } e ^ { \\mathrm { i } ( - \\mathrm { i } y \\cos { \\Theta } ) } \\mathrm { d } \\Theta = } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\begin{array} { r } { { \\frac { 1 } { 2 \\pi } } { \\int _ { - \\pi } ^ { \\pi } } e ^ { \\mathrm { i } ( - \\mathrm { i } y \\sin \\theta ) } \\mathrm { d } \\theta } \\end{array} }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "而整数阶贝塞尔（Bessel）函数的积分表示式为，",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { J _ { n } ( x ) = \\frac { 1 } { 2 \\pi } { \\int _ { - \\pi } ^ { \\pi } } e ^ { \\mathrm { i } \\left( \\mathrm { x } \\sin \\theta - n \\theta \\right) } \\mathrm { d } \\theta } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当 $\\mathrm { n } { = } 0$ 时，上式化为，",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { J _ { 0 } ( x ) = \\frac { 1 } { 2 \\pi } { \\int _ { - \\pi } ^ { \\pi } e ^ { \\mathrm { i } \\left( \\mathbf { x } \\sin \\theta \\right) } \\mathrm { d } \\theta } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当式（43）中的 $y = i x$ 时，式(43）与（45)完全相同。贝塞尔函数的级数形式表达式为，",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { J _ { \\upsilon } ( x ) = \\sum _ { k = 0 } ^ { + \\infty } \\frac { ( - 1 ) ^ { k } } { k ! \\Gamma ( k + \\upsilon + 1 ) } \\left( \\frac { x } { 2 } \\right) ^ { 2 k + \\nu } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "令 $x = - \\mathrm { i } y$ ， $\\upsilon = 0$ ，有，",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { J _ { 0 } ( y ) =  { \\mathrm { I } _ { 0 } } ( y ) = \\sum _ { k = 0 } ^ { + \\infty } \\frac { ( - 1 ) ^ { k } } { k ! \\Gamma ( k + 1 ) } \\Bigl ( \\frac { -  { \\mathrm { i } } y } { 2 } \\Bigr ) ^ { 2 k } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中，伽马函数（函数）为，",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\Gamma ( \\mathrm { t } ) = \\int _ { 0 } ^ { + \\infty } x ^ { t - 1 } e ^ { - x } d x | t > 0 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "伽马函数除极少数函数值外，其余函数值都是无理数。特别地，当 $\\mathfrak { n }$ 为正整数时，",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma ( { \\bf n } ) = ( n - 1 ) !\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "因此式(47)可以化为，",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { I } _ { 0 } ( \\mathrm { y } ) = 1 + \\frac { \\mathrm { y } ^ { 2 } } { 4 } + \\frac { \\mathrm { y } ^ { 4 } } { 6 4 } \\cdots } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当 $| y | < 1$ 时，上式是收敛的。由式（39）和（40)可以看到，通过二极管的平均电流依赖于反向饱和电流 $. I _ { s }$ ， $I _ { s }$ 随温度变化。考虑最普遍的情况，二极管输出端接非常低的负载(阻抗非常高)，这时有 $\\mathbf { \\dot { i } } _ { d } = 0$ ，因此，由式（40），得到，",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { V _ { D C } = \\frac { n k T } { q } \\ln \\left[ I _ { 0 } \\left( \\frac { q V _ { p } } { n k T } \\right) \\right] } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "把式(50)带入上式，在小信号情况下，可以忽略三次以上的高次项，得到，",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { V _ { D C } = \\frac { n k T } { q } \\ln \\left[ 1 + \\frac { \\left( \\frac { q \\mathrm { V p } } { n k T } \\right) ^ { 2 } } { 4 } \\right] } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于小信号情况 $\\begin{array} { r } { \\frac { q \\mathrm { V _ { p } } } { n k T } \\ll 1 } \\end{array}$ ，则上式化为，",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { V _ { D C } = \\frac { n k T } { q } \\left( \\frac { q \\mathrm { V _ { p } } } { 2 n k T } \\right) ^ { 2 } = \\frac { q V _ { p } ^ { 2 } } { 4 n k T } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从上式可以看到，检波器工作在平方率规律，同式(29)有相同的结论。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b742d2a99bcd8cf00313115db55e0adf7b1caabd184435cd66dcf9af1f656da.jpg",
+        "img_caption": [
+            "图8最简单的二极管检波电路"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.8The simplest diode detection circuit 在大信号情况，式(51)化简为[7], ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { V _ { D C } = \\mathrm { V _ { p } } - { \\frac { n k T } { 2 q } } \\mathrm { l n } \\left( { \\frac { 2 \\pi q \\mathrm { V _ { p } } } { n k T } } \\right) \\approx \\mathrm { V _ { p } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "也就是说，大信号情况下，输出电压与输入电压幅值近似相等。下面我们对大信号检波原理进一步分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3大信号检波原理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "大信号，是指输入高频信号的振幅大于二极管导通电压，这时可用二极管折线模型来分析8，如图9，电压低于二极管导通电压时，二极管截止；电压高于二极",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "管导通电压时，二极管导通，导通电阻为 $\\cdot \\mathrm { R } _ { d }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图10是最简单的二极管大信号包络检波电路，设二极管正向导通电阻为 ${ \\mathrm { R } } _ { d }$ ，且 $\\mathsf { R } _ { d } \\ll R _ { L }$ ，二极管两端电压为，",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\bf u } _ { \\mathrm { D } } ( \\mathrm { t } ) = { \\bf u } _ { \\mathrm { I } } ( \\mathrm { t } ) - { \\bf u } _ { \\mathrm { L } } ( \\mathrm { t } )\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "当 $\\mathbf { u } _ { \\mathrm { { D } } } ( \\mathrm { { t } ) }$ 大于二极管的导通电压 $\\mathrm { U _ { t h } }$ 时，二极管导通，图10中的 $\\mathsf { C } _ { \\mathrm { L } }$ 开始充电，充电时间常数为 $\\mathrm { C _ { L } R _ { d } }$ ；当 $\\mathbf { u } _ { \\mathrm { { D } } } ( \\mathrm { { t } ) }$ 小于二极管的导通电压 $\\mathrm { U _ { t h } }$ 时，二极管截止， $\\mathsf { C } _ { \\mathrm { L } }$ 开始放电，放电时间常数为 $\\mathsf { C } _ { \\mathrm { L } } \\mathsf { R } _ { \\mathrm { L } }$ 。由于 $\\mathsf { R } _ { \\mathrm { d } } \\ll \\mathsf { R } _ { \\mathrm { L } }$ ，所以 $\\mathbf { C _ { L } r _ { d } } \\ll \\mathbf { C _ { L } } R _ { L }$ ，充电时间远小于放电时间。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/cbad9e1f4fd0126d3327e51cb106d13bd7cd0939679d4f514cac80da139b50cb.jpg",
+        "img_caption": [
+            "图9二极管折线模型Fig. 9 The line mode of diode"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3283ce1ec10f595ee606fe72674c90dda9fcf0868d9ff2f61534009ea5a91e7e.jpg",
+        "img_caption": [
+            "图10二极管大信号包络检波电路 Fig. 10 The large signal envelope detection circuit using diode "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d010f1175e5e4d1b2b10d84a80d053cab11dedbce2171114e25179afc6e87c5.jpg",
+        "img_caption": [
+            "图11二极管大信号包络检波输入输出电压波形 Fig.l1The input and output signals of large signal envelope detection circuit using diode "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图11展示了输出电压 $\\mathbf { \\boldsymbol { u } } _ { \\mathrm { { L } } } ( \\mathbf { \\boldsymbol { t } } )$ 随输入电压 $\\mathbf { u } _ { \\mathrm { I } } ( \\mathrm { t } )$ 的变化，为了方便起见，图中的 $\\mathbf { u } _ { \\mathrm { L } } ( \\mathrm { t } )$ 是在导通电压 $\\mathrm { U } _ { \\mathrm { t h } } = 0$ 的条件下画出的，实际上在考虑到二极管导通电压的基础上画出的波形与图11很接近。可以看到，与小信号情况下的平方率检波不同，大信号检波电路输出的电压与输入调制信号的电压成正比。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4总结 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文详细讨论了毫米波检波二极管特性，给出了二极管模型和模型参数获取办法，然后理论分析了二极管小信号检波和大信号检波原理。利用泰勒展开，推导了二极管小信号检波原理；同时从二极管电流电压特性方程出发，推导了小信号检波的原理。利用二极管折线模型分析了二极管大信号检波原理。本文为检波器的设计提供了理论参考。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] XUH, WANG X,LIUF, et al.Development and Preliminary CommissioningResults of a Long Pulse 140 GHz ECRH System on EAST Tokamak (Invited) [J].Plasma Science and Technology,2016,18(4): 442-448.  \n[2] XUW,XUH,LIUF,et al.Millimeter Wave Power Monitoring in EASTECRH System [J].IEEE Access,2016,4(1):5809-5817.  \n[3] 徐伟业，刘甫坤，徐昆东,etal.电子回旋共振加热系统中功率监测用高速高精度放大器的设计[J].科学技术与工程,2016,16(07):65-73.  \n[4] HUANG C I. Investigation of deep level impurities (oxygen and chromium)in bulk gallium arsenide and Au-GaAs Schottky diodes [D].UNIVERSITY OFFLORIDA,1973.  \n[5] 焦晋平.(AI)GaN 肖特基二极管的电学特性研究 [D].江南大学,2015.[6] 季孝达，薛兴恒，陆英，宋立功.数学物理方程(第二版)[M].北京：科学出版社,2009:111-132.  \n[7] WETENKAMP S.Comparison of Single Diode Vs.Dual DiodeDetectors forMicrowave Power Detection [C]. Proceedings of the International MicrowaveSymposium Digest,1983.  \n[8] 谢嘉奎.电子线路——非线性部分（第四版）[M].北京：高等教育出版社,2000:219-229.",
+        "page_idx": 5
+    }
+]

@@ -1,0 +1,217 @@
+# 局部扩展的遗传优化重叠社区发现方法\*
+
+楚杨杰，杨忠保，洪叶(武汉理工大学 理学院，武汉 430070)
+
+摘要：重叠社区结构是复杂网络的一种重要的特征，提出了一种局部扩展的遗传优化重叠社区发现（LEGAOCD）。借鉴局部扩展的重叠社区发现方法的思想，将少数的核心节点构成模体；同时，利用了三角形模体来判断社区的稳定性度量问题，从而量化社区结构稳定性；然后通过改进的遗传优化算法策略分配它们应归属的社区；最后通过两个评价目标函数得到高质量的重叠社区结构。该算法在数据集上与经典的CPM算法、COPRA算法作比较，实验结果表明，LEGAOCD算法在检测重叠社区结构和重叠节点方面具有较优的性能。
+
+关键词：局部扩展；遗传算法；重叠社区发现；核心节点；多目标优化中图分类号：TP301.6 doi:10.3969/j.issn.1001-3695.2017.10.0934
+
+Local extension approach through genetic algorithm for overlapping community detection
+
+Chu Yangjie, Yang Zhongbao,Hong Ye (SchoolofScience,WuhanUniversityofTechnology,Wuhan43oo70,China)
+
+Abstract :Overlaping communitystructure isone ofthe most important features of complex network.This study proposed a local extended genetic algorithm optimization overlapping community detection(LEGAOCD).It makes afew core nodes be constructedasdiebody,yetregards the main ideaoflocal extendedoverlappingcommunitydetectionasreference;atthesame time,this paperuses the triangularmodeltojudgethestability measureof thecommunity,soas toquantifythestabilityof community structure.Then,theimproved strategyofgenetic algorithm is used toalocate thecommunities where theybelong. Finaly,the high-qualityoverlappingcommunitystructureisobtainedbytwodiscriminantobjective functions.Afterthat,the LEGAOCD is compared withclasical CPMand COPRAalgorithms onthe data sets,theresultsshowthatLEGAOCD possesses excellent comparatively in the aspects of detecting overlapping community structure and overlapping nodes.
+
+Key Words: local extend; genetic algorithm; overlapping community detection; core node; multi-objective optimization
+
+# 0 引言
+
+社区是由网络共享相同属性的节点构成的，社区在表示的真实系统中扮演着至关重要的角色，挖掘网络中的社区结构对于帮助分析网络的属性功能具有深刻的意义[1]。目前有一些社区发现的方法旨在挖掘网络中的标准划分，即划分结果中的每个节点只属于一个社区。然而，现实生活中，节点往往会同时隶属于多个社区，如在社会网络中，每一人会有很多身份并分别隶属于不同的生活圈诸如同学圈、朋友圈、家庭或其他爱好圈。在科学家协作网络中，一名科学研究者研究不同的领域，这些领域属于不同的研科团队。在蛋白质网络中，一个氨基酸往往也具有不同的生物功能[2]。因此，重叠社区是网络中节点的集合，社区内节点同时隶属多个不同的社区，社区内部节点间的联系较为紧密，而属于不同社区的节点之间的联系较为稀疏。从而重叠社区发现则更加真实反映出网络的组成结构。
+
+静态网络环境下，重叠社区发现算法大约分为五类，分别是派系过滤方法、局部扩展方法、线图划分方法、模糊聚类方法和基于Agent方法[I。其中经典算法是基于团渗理论方法（CPM）[3]、基于智能体类方法（COPRA）[4]和社交标签传播方法（SLPA)[5]。经典的团渗透算法属于派系过滤方法，它能发现较大的社区，挖掘小社区的可能性较低；算法运行的时间和空间开销过高，使得无法应用于较大网络。COPRA算法属于基于Agent方法，它随机选取标签，将会导致该算法收敛性能较差，重叠社区划分的结果不够稳定。SLPA 算法也属于基于Agent方法，它主要设置不同的概率准则以及调整参数对应不同的标签，导致该算法在实际应用过程中对不同网络进行参数调节，难以推广。
+
+本文提出了一种局部扩展的遗传优化重叠社区发现（LEGAOCD）。借鉴局部扩展的重叠社区发现方法的思想，将少数的核心节点构成模体；同时，本文利用了三角形模体来判断社区的稳定性度量问题，从而量化社区结构稳定性。然后通过改进的遗传优化算法策略分配它们应归属的社区；最后通过两个评价目标函数得到高质量的重叠社区结构。该算法在数据集上与经典的CPM算法、COPRA算法作比较，实验结果表明，LEGAOCD算法在检测重叠社区结构和重叠节点方面具有较优的性能。
+
+# 1 基本概念
+
+假设一个网络用一个有向图三元组进行表示 $G = ( V , E , W )$ ，其中 $V$ 是表示图的节点集合， $E$ 表示表示图中的边集合， $W$ 表示图的边权集合。有权方向 $w \in ( p r , n r )$ 表示相关系数， $p r$ 为正相关系数， $n r$ 为负相关系数。而在无权网络 $G ( V , E )$ 中，如果节点$\nu _ { i }$ 与节点 $\boldsymbol { \nu } _ { j }$ 中间有边相接，则 $e = 1$ ，否则， $e = 0$ ，所以节点 $\nu _ { i }$ 的度 $k _ { i }$ 表示为 $k _ { i } = \sum _ { \nu _ { j } \in V } e$ ，表示与节点 $\nu _ { i }$ 相连的边的数目。节点$\nu _ { i }$ 的点权 $s _ { i }$ 定义为与它关联的边权之和，也称为点强度。
+
+定义1重叠网络社区结构。网络社区结构就是网络节点$V$ 集合的一个划分 $m$ 方案 $P = \left\{ c _ { 1 } , c _ { 2 } , \cdots , c _ { m } \right\}$ ，其中， $c _ { i }$ 必须满足如下条件： $c _ { i } \subseteq V , c _ { i } \neq \phi { \big ( } i = 1 , 2 , \cdots , m { \big ) }$ ， $\bigcup _ { i = 1 } ^ { m } c _ { i } = V$ 与 $c _ { i } \cap c _ { j } \neq \phi ( i \neq j )$ 。所以社区的点强度的关系为： $s _ { i } = \left( s _ { i } ^ { + } \right) ^ { i n } - \left( s _ { i } ^ { - } \right) ^ { i n } + \left( s _ { i } ^ { + } \right) ^ { o u t } - \left( s _ { i } ^ { - } \right) ^ { o u t }$ 。其中，(s)"=∑W表示社区ci内的节点之间的正相关的内部点强度；(s)"=∑"表示社区ci内的节点之间的负相关的内部点强度;(s)"=∑W表示社区ci内的节点之间的正相关的外部点强度； $\left( s _ { i } ^ { - } \right) ^ { o u t } = \sum _ { \nu _ { j } \notin c , \mathrm { w e n } r } w$ 表示社区 $c _ { i }$ 内的节点之间的负相关的外部点强度。
+
+网络中节点的重要程度不同；核心节点具有较高重要性，而普通节点则是网络中的参与者。社区是由核心节点和追随节点组成的一个社区结构，划分网络结构，要找出社区的核心节点[。核心节点对网络的运行具有主导的作用。
+
+定义2最大核心节点的度定义。设核心节点的标签集为$\Omega ( u ) = \left( u _ { 1 } , u _ { 2 } , \cdots , u _ { k } \right)$ ，则最大核心节点的度定义为
+
+$$
+i o n ( u _ { t } ) = \frac { \deg r e e \big ( u _ { t } \big ) \cdot n u m \big ( u _ { t } \big ) } { k ^ { 2 } }
+$$
+
+$$
+{ \mathrm N p } ( u ) = \underset { u _ { t } \in \Omega ( u ) } { \arg \mathrm { ~ \operatorname* { m a x } } } ( i o n ( u _ { t } ) )
+$$
+
+两个公式中，如果网络节点 $i$ 为核心节点，则 $k _ { i } = \deg r e e ( u _ { t } )$ ，$s _ { i } = n u m { \left( u _ { t } \right) }$ 分别表示重新排序后的节点度和点强度。如果这样单纯依赖排序结果，选择初始核心节点会带来潜在风险，多个核心节点可能在相同社区，按从大到小的选择，可能会把一个大的社区分解为若个小社区；为了避免这些问题，在核心节点选择上附加一些约束：为了避免核心节点与外界节点连接较少，选择的核心节点的点强度必须大于网络中所有的节点的平均点强度。为了先后选出的几个核心节点在同一社区，当前选择的核心节点必须和已有核心节点相邻的。
+
+定义3核心节点共同邻居。核心节点 $u _ { i }$ 与节点 $\boldsymbol { u } _ { j }$ 的共同邻居定义为
+
+$$
+C _ { i j } = n e i g h b o r ( u _ { i } ) \cap n e i g h b o r ( u _ { j } )
+$$
+
+其中，neighbor ${ \bf \nabla } \cdot ( u _ { i } )$ 表示核心节点 $u _ { i }$ 的邻居节点集。
+
+定义4模体结构。模体介于个体与社区之间，少数几个节点连接构成，模体是社区内部成员之间基本的连接模式，揭示网络的演化规律。
+
+定义5加权社区聚类。加权社区聚类[8]（WeightedCommunityClustering)是测量网络拓扑性的目标函数，它是依赖于社区的三角形模体(三个节点的模体)决定该社区的稳定性，从而量化社区结构质量。加权社区聚类定义如下：
+
+$$
+W C C ( u , N P ) = \left\{ \begin{array} { c c c } { { t ( u , N P ) \bullet \qquad } } & { { \nu t ( u , V ) } } & { { i f \quad t ( u , V ) > 0 } } \\ { { t ( u , V ) \bullet \qquad } } & { { \nu t ( u , V \setminus \mathrm { ~ N P } ) } } & { { i f \quad t ( u , V ) > 0 } } \\ { { 0 } } & { { \qquad } } & { { o t h e r w i s e } } \end{array} \right.
+$$
+
+其中： $t ( u , N P )$ 表示核心节点 $\boldsymbol { u }$ 与节点集合 $N P$ 构成三角形模体的数目； $\nu t ( u , V )$ 表示节点 $u$ 与节点集合 $\boldsymbol { V }$ 至少构成一个三角形模体的节点数目； $\left| N P \backslash u \right|$ 表示节点集合 $N P$ 除去节点 $\boldsymbol { u }$ 的数目。
+
+定义6节点与社区的贴近度。根据文献[9]节点与社区的贴近度定义如下：
+
+$$
+F ( \mathbf { u } , \mathbf { c } ) = \frac { \left( \left( s _ { i } ^ { + } \right) ^ { i n } - \left( s _ { i } ^ { - } \right) ^ { i n } \right) ^ { c + \{ u \} } } { s _ { i } ^ { a } } - \frac { \left( \left( s _ { i - 1 } ^ { + } \right) ^ { i n } - \left( s _ { i - 1 } ^ { - } \right) ^ { i n } \right) ^ { c } } { s _ { i - 1 } ^ { a } }
+$$
+
+而重叠节点与社区的贴近度定义如下：
+
+$$
+O D ( u , c ) = \frac { F ( u , c ) } { \displaystyle \sum _ { i = 1 , 2 , \cdots , n \wedge u \in c _ { i } } F ( u , c _ { i } ) }
+$$
+
+其中： $a$ 为分辨率系数，用来控制社区的大小； $\mid c \mid$ 为社区， $c + \big \{ u \big \}$ 是指在社区 $\boldsymbol { \mathscr { c } }$ 中加入节点 $u$ 形成新的社区。
+
+定义7：模块度。模块度用来对重叠社区划分的整体质量作出一个定量的评价，根据正负相关的边权情况，采取合适性能的模块度，根据文献[9]改进定义如下：
+
+$$
+S Q = \frac { 1 } { 2 s ^ { + } - 2 s ^ { - } } \sum _ { c \in p } \sum _ { v _ { i } , v _ { j } \in V } \delta _ { c v _ { i } } \delta _ { c v _ { j } } \left( w _ { v _ { i } v _ { j } } - \left( \frac { s _ { i } ^ { + } s _ { j } ^ { + } } { 2 s ^ { + } } - \frac { s _ { i } ^ { - } s _ { j } ^ { - } } { 2 s ^ { - } } \right) \right)
+$$
+
+其中： $s _ { i } ^ { + }$ 与 $s _ { i } ^ { - }$ 分别表示关于节点 $i$ 所有的正与负相关的权重之和；特别地， $w _ { \nu _ { i } \nu _ { j } }$ 表示网络相关权重的邻接矩阵；如果节点 $\nu _ { i }$ 属于社区 $\mid c \mid$ 内，则 $\delta _ { c v _ { i } } = 1$ ；否则， $\delta _ { { \scriptscriptstyle C v _ { i } } } = 0$ 。
+
+# 2 局部扩展的遗传优化重叠社区发现方法
+
+本文以遗传优化算法为背景知识解决网络中的重叠社区发现问题，旨在挖掘出高质量的重叠社区结构。本文所提的算法流程框架如下：
+
+算法1： LEGAOCD 算法  
+输入：网络拓扑结构 $G = ( V , E , W )$   
+输出：重叠社区划分集合 $p = \{ c _ { 1 } , c _ { 2 } , \cdots , c _ { m } \}$   
+1：为网络的核心节点进行编码;  
+2：根据核心节点的邻接矩阵 $A$ 和点强度的关联矩阵W；
+
+3：种群的初始化；  
+4: $N P \gets \phi ; u _ { t } \gets 0 ( t = 1 , 2 , \cdots , n )$   
+5： for each core node $\boldsymbol { u }$ in $\boldsymbol { V }$ do  
+6: if $W C C ( u _ { t } , N P ) \neq 0 \ ; t \gets t + 1$   
+7: while $( n \leq k )$ do  
+8: if $W C C ( u _ { \scriptscriptstyle t + 1 } , \mathrm { N P } ) \geq \mathrm { W C C } ( \mathbf { u } _ { \scriptscriptstyle t } , N P )$ then  
+9: $N P \gets N P \cup \{ u _ { t + 1 } \}$ （204号  
+10: else  
+11: 计算适应度函数 $F ( u , c )$ ；选择算子；  
+12: 进化操作，具体包括均匀交叉和变异；  
+13: 子代种群，合并种群，精英选择，返回步骤3；  
+14: 当 $n = k$ 时，输出众多粗糙的重叠社区结构。  
+15: end  
+16: end  
+17:while $( n \leq m )$ do  
+18: foreach overlapping node $\boldsymbol { u }$ in $V$ do  
+19: if $W C C ( u , \mathrm { N P } _ { t } ) \geq \mathbf { W C C } ( \mathbf { u } , N P _ { t - 1 } )$ （20 then  
+20: use SQ  
+21: else  
+22: use OD(u,c)  
+23: 当 $n = m$ 时，得到高质量的重叠社区结构  
+24: end  
+25:end  
+26：将所有的节点按照共有邻居有序扩展集合得到 $P$ 。
+
+LEGAOCD算法的第1、2行属于准备工作，将网络拓扑结构量化处理；第3\~16行属于改进的遗传优化算法策略分配它们应归属的社区；第17\~26行属于社区结构质量提高预处理阶段。
+
+算法时间复杂度分析： $n$ 为网络节点的数目， $k$ 为网络中核心节点的数目， $m$ 为重叠社区结构的数目。LEGAOCD算法的第1、2行用时为 $O ( n )$ ，第 $3 { \sim } 1 6$ 行是属于遗传过程，算法的解码时间为 $O ( k )$ ，选择、交叉、变异操作时间为 $O ( \mathbf { m + k } )$ ，第17\~26行用时为 $O ( m )$ 。在遗传算法中，种群数量为 $p$ ，迭代次数为 $g$ 。则LEGAOCD算法时间复杂度为 $O ( g p \log ( \mathtt { p } ^ { * } ( m + k + n ) ) )$ 。
+
+# 2.1个体的编码与解码
+
+初始化，网络的所有的节点、社区、各节点与算法中的种群、个体、基因互相映射。借鉴标签传播算法的思想，标签传播算法能够产生有一定社区结构的个体，节点的点强度越大，那么这个节点对它隶属的社区稳定性和影响力也就越大。随机产生个体，多个个体构成了一个群体。本文采用字符串编码方式，网络的非重叠核心节点所属社区仅仅是一个标志符，而重叠核心节点有多个标识符。图1展示了一个网络划分和相应有编码。如图1所示的网络可能存在两个个体(1,1,12,2,2,2)和(2,2,3,3,3,3)，第一个个体中存在两个重叠社区{1,2.3}和$^ { \{ 3 , 4 , 5 , 6 \} }$ ；第二个个体存在非重叠的两个社区{1,2}和{3,4,5,6}.如果这两个个体之间进行交叉操作后得到结果可能是
+
+(1,1,1,1,1,1),则整个社区结构被破坏。解码过程针对任意个体，其初始社区标签为 $N P ( i ) ( i = 1 , 2 , \cdots , k - 1 )$ ，设 $N P ( 1 ) = 1$ ，如果$N P ( 1 ) = N P ( 2 )$ ，社区结构合并，如同算法步骤9。如果 $N P ( 1 ) \neq N P ( 2 )$ ：则 $N P ( 2 ) = 2$ ，以此类推，如果此时 $k { - } 1$ 时是当前最大社区标签值才结束。整个解码过程，个体(1,1,12,2,2,2)和（2,2,3,3,3,3)解码为(1,1,12,2,2,2)和(1,1,12,2,2,2)，然后再和其他个体进行交叉操作，保留稳定性较强的社区结构。解码后，节点的标签值表示节点属于社区编号。
+
+![](images/6623c014a6310583bf43f5f70c4556862d5628069524b303d7ac39928db7a45d.jpg)  
+图16个节点网络被划分两个社区结构{1,2.3}和{3,4,5,6}
+
+# 2.2 选择
+
+选择的目的是为了从当前群体中选出优良的个体，使它们有机会作为父代为下一代繁殖子孙。遗传算法通过选择过程体现这一思想，进行选择的原则是适应性强的个体为下一代贡献一个或多个后代的概率大。选择体现了达尔文的适者生存原则，本文采用轮盘选择方式[I]，利用定义6的计算公式为适应度函数。
+
+# 2.3遗传进化操作更新策略
+
+遗传进化操作包括交叉和变异。交叉是通过交换父代染色体中的部分基因产生新的后代，新个体组合了其父代个体的特性。交叉体现了信息交换的思想。本文采用均匀交叉的二维交叉的交叉算子[12]，将父代染色体两两分组，就会随机产生一个均匀块交叉算子，交叉算子将根据预设的交叉概率交换两个父代染色体在矩形块中的基因部分，模体、个体、社区都能用矩形块表示出来，例如，两个矩形块(1,1,12,2,2,2)和(2,2,3,3,3,3)交叉后，解码为(1,1,12,2,2,2)和(1,1,12,2,2,2)。从而改变节点的标签值，矩形块的大小和位置是随机产生的。使用均匀块交叉算子能保证交叉产生的后代染色体的每个基因都是已有边的邻接边，使得算法仍然是朝着矩形块（模体）稳定的方向进行网络结构划分。变异在群体中随机选择一个个体，对于选中的个体以一定的概率随机地改变社区里某个节点的标签植。变异算子是以预设的概率改变个体的某个节点的标签值，变异发生的概率很低。
+
+# 3 实验结果与分析
+
+LEGAOCD 算法、CPM算法、COPRA算法均在Matlab(R2010b)编码实现。实验环境设置为：windows7操作系统，AMDA-82.10GHz,500GB内存。根据遗传算法的设置参数实验可知：标准互信息的值（NMI的值）随着交叉概率和变异概率的变化，NMI的值没有表现出明显的变化，设置实验参数一般采用高的交叉概率和低的变异概率[13]。所以，为了方便检测算法的性能，实验参数设置与一种新的遗传算法重叠社区检测方法[14]相同，实验参数设为：控制参数为 $\scriptstyle a = 0 . 9 7$ ，交叉概率为 $p _ { c } = 0 . 8$ ，变异概率为 $p _ { { \scriptscriptstyle m } } = 0 . 2$ ，种群数量为 $p = 2 0 0$ ，迭代次数为 $g = 1 0 0$ 。LEGAOCD 算法、CPM算法、COPRA 算法的结果为运行50次取平均值。
+
+# 3.1评价标准
+
+F-score是由准确率和召回率的组成计算得到的，用来衡量算法检测的重叠节点的准确性的一个指标7]，公式可推导如下：
+
+$$
+P = \frac { \left| L _ { r e s u l t } \right| \cap \left| L _ { t r u e } \right| } { \left| L _ { r e s u l t } \right| } , \quad R = \frac { \left| L _ { r e s u l t } \right| \cap \left| L _ { t r u e } \right| } { \left| L _ { t r u e } \right| }
+$$
+
+$$
+F = \frac { 2 P \bullet R } { P + R }
+$$
+
+三个公式中， $\left| L _ { r e s u l t } \right|$ 表示算法得到的社区， $\left| L _ { t r u e } \right|$ 表示真实的社区； $P$ 为准确率，它是指正确检测的重叠节点数目占所有检测到的重叠节点数目的比例； $R$ 为召回率，它是指正确检测的重叠节点数目占网络中真正的重叠节点数目的比例。
+
+扩展的规范互信息量(normalized mutual information,NMI)用来描述划分结果与真实结构之间的相关性[15]，它的取值范围为[0.1]，值越接近1表示划分结果越好。数学描述如下：
+
+$$
+N M I = 1 - { \frac { 1 } { 2 } } { \big [ } H ( X | \operatorname { Y } ) + H ( \operatorname { Y } | \operatorname { X } ) { \big ] }
+$$
+
+$$
+H ( X \mid \Upsilon ) = { \frac { 1 } { \left| c _ { i } \right| } } \sum _ { k } { \frac { H ( X _ { k } \mid Y ) } { H ( X _ { k } ) } }
+$$
+
+其中： $X ( Y )$ 是指划分社区 $c _ { i } ( c _ { j } )$ 相关的随机变量， $H ( X \mid Y )$ 是在划分 $Y$ 下 $\boldsymbol { \cal X }$ 的归一条件熵。
+
+# 3.2算法比较结果评价
+
+模拟数据集主要由LFR[16]基准图组成，选择不同的参数生成不同的LFR基准图，不同的参数生成不同类型的复杂网络。$N$ 表示网络节点数目， $\overline { { k } }$ 为网络中节点的平均度数， $k _ { \mathrm { m a x } }$ 是指网络中最大度数， $\boldsymbol { u }$ 表示可调的模糊参数（混合参数）， $\boldsymbol { O } _ { n }$ 与$O _ { m }$ 分别是指重叠节点数目和重叠节点社区从属数目， $\tau _ { \mathrm { l } }$ 表示节点度的幂率分布系数， $\tau _ { 2 }$ 为社区规模的幂率分布系统， $c _ { \operatorname* { m i n } }$ 与$c _ { \mathrm { m a x } }$ 分别是指网络中社区的最小规模和最大规模。当LFR基准网络参数设定为： $N = 5 0 0 0 , \tau _ { \mathrm { { i } } } = 2 , \tau _ { \mathrm { { 2 } } } = 1 , \overline { { k } } = 1 0 , k _ { \mathrm { { m a x } } } = 5 0 ,$ 设置混合参数为 $\mu = 0 . 3$ ，它是指在同一个社区内一个节点和其他节点的链接率；网络中社区规模设置为(20,100)；重叠节点个数 $O _ { n }$ 设置为占网络所有节点的 $1 0 \%$ ；重复节点所属社区的个数 $\phantom { \frac { 1 } { 2 } } O _ { m }$ 设置为2,3,4,5,6 ； $O _ { m }$ 值越大，划分重叠社区结构的难度越大。而真实数据集的基本信息如表1所示。
+
+三种算法在模拟数据集的 NMI值受混合参数 $\mu$ 与重叠节点社区从属数目 $O _ { { \scriptscriptstyle m } }$ 的影响，随着它们越大，划分重叠社区结构的难度越大。图2所示，当 $\mu = 0 . 3$ 时，随着 $O _ { m }$ 从2\~6变化，三种算法的性能都会下降，与两种算法相比，LEGAOCD算法仍能得到较高NMI值，说明本文所提的算法在划分模拟数据集网络中有了较好的性能。
+
+表1七个真实数据集的基本信息[16]  
+
+<html><body><table><tr><td>Network</td><td>V</td><td>E</td><td>C</td></tr><tr><td>karate</td><td>34</td><td>78</td><td>2</td></tr><tr><td>dolphin</td><td>62</td><td>159</td><td>2</td></tr><tr><td>football</td><td>115</td><td>616</td><td>12</td></tr><tr><td>politics</td><td>105</td><td>613</td><td>3</td></tr><tr><td>Jazz</td><td>198</td><td>2743</td><td>Unknown</td></tr><tr><td>e-mail</td><td>1133</td><td>5451</td><td>Unknown</td></tr><tr><td>PGP</td><td>10680</td><td>24316</td><td>Unknown</td></tr></table></body></html>
+
+![](images/d7eb98e4510bd65f5c48a46915f526c94d0689ef9b9ed2d04747338bc41d6663.jpg)  
+图2算法在模拟数据集上的NMI值对比结果
+
+算法检测重叠社区结构的能力与检测重叠节点的能力不一定保持一致[18]。F-score 值比较结果如图3所示，LEGAOCD 算法会有高召回率和低准确率是由于它的后处理机制会检测出超过真实重叠的检测数目，所以，算法在检测重叠节点上性能表现一般， $O _ { m }$ 值越大，LEGAOCD算法检测重叠节点的能力更好。
+
+![](images/14c4a9da5803b8e561ae0524b461a3518041ddf651eeeb42bc2e3b94f2a86121.jpg)  
+图3算法在模拟数据集上得到的F值对比结果
+
+三种算法在真实数据集网络得到的SQ值都在0.5以上，具有较清楚的网络划分社区结构，如图4展示了LEGAOCD算法在真实数据集网络得到的SQ值都比其他算法较高（除PGP外），在较大的PGP网络中，LEGAOCD 算法比CPM算法的SQ值较高，但比COPRA算法的SQ值较低。
+
+![](images/64afccab1d845fbb9aab2c6ef63e1eac2d74896701272df54e6651012ed676a5.jpg)  
+图4算法在真实数据集网络上得到的 SQ值
+
+# 4 结束语
+
+本文提出局部扩展的遗传优化重叠社区发现算法,主要贡献体现在三方面：扩展的遗传算法以解决重叠社区发现问题；定义了模体稳定性的度量，从而量化社区稳定性；节点与社区的贴近度公式为遗传算法的适应度函数。面对大型网络，LEGAOCD算法与CPM算法运行的时间和空间开销过高，如何在大型网络挖掘出较清楚的社团结构将是下一个研究的方向。
+
+# 参考文献：
+
+[1]周旭．复杂网络中社区发现算法研究[D]．长春：吉林大学,2016.   
+[2]Mahmoud H,Masulli F,Rovetta S,et al. Community detection in proteinprotein interaction networks using spectral and graph approaches [C// Computational Inteligence Methods for Bioinformatics,and Biostatistics. [S.1.] : Springer International Publishing,2O13: 62-75.   
+[3]Palla G,Derényi I,Farkas I.Uncovering the overlapping community structure of complex networks in nature and society.[J].Nature,2oo5,435 (7043): 814-8.   
+[4]Gregory S.Finding overlapping communities in networks by label propagation [J].New Journal of Physics,2009,12(10):2011-2024.   
+[5]Xie J, SzymanskiBK,Liu X.SLPA: Uncovering Overlapping Communities in Social Networks via a Speaker-Listener Interaction Dynamic Process [J]. 2011: 344-349.   
+[6] 乔少杰，郭俊，韩楠，等．大规模复杂网络社区并行发现算法[J].计 算机学报,2017,40(3):687-700.   
+[7]韩忠明，谭旭升，陈炎，等.NCSS：一种快速有效的复杂网络社团划分 算法[J]．中国科学：信息科学,2016(4).   
+[8]Prat-Pérez A,Dominguez-Sal D,Brunat JM. Shaping Communities out of Triangles [J].Computer Science,2012:1677-1681.   
+[9] 张海燕，梁循，周小平．针对有向图的局部扩展的重叠社区发现算法 [J]．数据采集与处理,2015(3):683-693.   
+[10]乔少杰，韩楠，张凯峰，等．复杂网络大数据中重叠社区检测算法[J]. 软件学报,2017,28(3):631-647.   
+[11] Atay Y, Kodaz H.A New Adaptive Genetic Algorithm for Community Structure Detection [M]// Intelligent and Evolutionary Systems.[S.1.] : Springer International Publishing,2016.   
+[12]王琦，温志平．一种基于多维遗传算法的重叠社区发现方法[J].计算 机应用研究,2016,33(12):3543-3546.   
+[13]牛新征，司伟钰，余堃．基于进化聚类的动态网络社团发现[J].软件 学报,2017,28(7): 1773-1789.   
+[14] Shen B,Wang N,Qiu H.A new genetic algorithm for overlapping community detection [C]// Proc of the 1Oth International Conference on Intelligent Information Hidingand Multimedia Signal Processing. Washington DC: IEEE Computer Society,2014: 766-769.   
+[15] Li Z, Liu J.A multi-agent genetic algorithm for community detection in complex networks [J].PhysicaA Statistical Mechanics & Its Applications, 2016,449: 336-347.   
+[16] Lancichineti A,Fortunato S,Radicchi F. Benchmark graphs for testing community detection algorithms [J].Physical Review E Statistical Nonlinear & Soft Mater Physics,2008,78 (2): 046110.   
+[17] Zhou X,LiuY,Zhang J,etal.Anant colonybased algorithm for overlapping community detection in complex networks [J].Physica A Statistical Mechanics & Its Applications,2015,427:289-301.   
+[18] Xie J，kelley S,Szymanski，B.Overlapping community detection in networks: the state of the art and comparative study[J],ACM Computing Surveys,2013,45 (4): 1-37.

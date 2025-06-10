@@ -1,0 +1,1562 @@
+# On String Theory Duals of Lifshitz-like Fixed Points
+
+Tatsuo Azeyanagi $a 1$ ，Wei Li $^ { b 2 }$ and Tadashi Takayanagi $^ { b 3 }$ （20
+
+（204号 $a$ Department of Physics, Kyoto University, Kyoto 606-8502, Japan $b$ Institute for the Physics and Mathematics of the Universe (IPMU), University of Tokyo，Kashiwa， Chiba 277-8582， Japan
+
+# Abstract
+
+We present type IIB supergravity solutions which are expected to be dual to certain Lifshitz-like fixed points with anisotropic scale invariance. They are expected to describe a class of D3-D7 systems and their finite temperature generalizations are straightforward. We show that there exist solutions that interpolate between these anisotropic solutions in the IR and the standard $A d S _ { 5 }$ solutions in the UV.This predicts anisotropic RG flows from familiar isotropic fixed points to anisotropic ones. In our case, these RG flows are triggered by a non-zero theta-angle in Yang-Mills theories that linearly depends on one of the spatial coordinates.We study the perturbations around these backgrounds and discuss the possibility of instability.We also holographically compute their thermal entropies, viscosities, and entanglement entropies.
+
+# Contents
+
+# 1 Introduction
+
+# 2Holographic Duals of Lifshitz-like Fixed Points in Type IIB String 4
+
+2.1 Type IIB Supergravity 4   
+2.2 D3-D7 Ansatz 5   
+2.3 D3-D7 Scaling Solutions: Holographic Duals of Lifshitz-like Fixed Points 6   
+2.4 Holographic Interpretation in terms of D3-D7 System 7   
+2.5 Black Brane Solutions and Entropy . 8
+
+# 3 RG Flow in AdS $^ { 5 }$ /CFT $_ 4$ and Scaling Solution 9
+
+3.1 Further Reduction of Equations of Motion 9   
+3.2 Interpolating Solution between $A d S _ { 5 }$ and D3-D7 Scaling Solution 10   
+3.3 Interpolating Solutions as Holographic RG Flows. 15   
+3.4 Exact Solutions without D7-brane Charge 15
+
+# :Hydrodynamics 16
+
+4.1Shear Viscosity 18   
+4.2Bulk Viscosity 19
+
+# ；Entanglement Entropy of D3-D7 Scaling Solutions 20
+
+5.1Entanglement Entropy for Subsystem along $x$ -direction 21   
+5.2Entanglement Entropy for Subsystem along $w$ -direction 22
+
+# 6 Perturbative Analysis 24
+
+6.1Description of Perturbations 24   
+6.2Scaling Dimensions and Stability 25
+
+# 7D4-D6 Scaling Solutions 27
+
+8Conclusions and Discussions 29
+
+A Perturbative Analysis 32   
+B Linearized Equations for the Shear and Sound Channel 39   
+C D3-D5 Scaling Solution with F-string Sources 40
+
+# 1Introduction
+
+The AdS/CFT correspondence has provided a very powerful and successful paradigm to analyze relativistic and isotropic fixed points in various quantum field theories [1,2,3, 4]. On the feld theory side, they are described by $( d + 1 )$ -dimensional conformal feld theories and are invariant under the homogeneous scaling transformation $( t , x _ { 1 } , x _ { 2 } , \ldots , x _ { d } ) \to ( \lambda t , \lambda x _ { 1 } , \lambda x _ { 2 } , \ldots , \lambda x _ { d } )$ .On the gravity side, they are equivalently described by gravity on a $( d + 2 )$ -dimensional AdS space
+
+$$
+d s ^ { 2 } = r ^ { 2 } \left( - d t ^ { 2 } + \sum _ { i = 1 } ^ { d } d x _ { i } ^ { 2 } \right) + \frac { d r ^ { 2 } } { r ^ { 2 } } .
+$$
+
+It is natural to try to extend the AdS/CFT correspondence to a holography for the following anisotropic spacetime
+
+$$
+d s ^ { 2 } = r ^ { 2 z } \left( - d t ^ { 2 } + \sum _ { i = 1 } ^ { p } d x _ { i } ^ { 2 } \right) + r ^ { 2 } \sum _ { j = p + 1 } ^ { d } d y _ { j } ^ { 2 } + \frac { d r ^ { 2 } } { r ^ { 2 } } ,
+$$
+
+where $0 \leq p \leq d - 1$ ， and the parameter $z ( \neq ~ 1 )$ measures the degree of Lorentz symmetry violation and anisotropy. Since the metric (1.2） is invariant under the scaling $( t , x _ { i } , y _ { j } , r ) $ （20 $\begin{array} { r } { ( \lambda ^ { z } t , \lambda ^ { z } x _ { i } , \lambda y _ { j } , \frac { r } { \lambda } ) } \end{array}$ ，we expect that on the field theory side it is dual to a fixed point which is invariant under the scaling transformation
+
+$$
+( t , x _ { i } , y _ { j } ) \to ( \lambda ^ { z } t , \lambda ^ { z } x _ { i } , \lambda y _ { j } ) .
+$$
+
+Notice also that by a coordinate redefinition $r ^ { z } = \rho$ , we can rewrite the metric (1.2) into another illuminating form (after rescaling $( t , x _ { i } , y _ { i } )$ accordingly)
+
+$$
+d s ^ { 2 } = \rho ^ { 2 } \left( - d t ^ { 2 } + \sum _ { i = 1 } ^ { p } d x _ { i } ^ { 2 } \right) + \rho ^ { \frac { 2 } { z } } \sum _ { j = p + 1 } ^ { d } d y _ { j } ^ { 2 } + \frac { d \rho ^ { 2 } } { \rho ^ { 2 } } .
+$$
+
+Thus we can equally argue that the dual background is invariant under an anisotropic scaling transformation $( t , x _ { i } , y _ { j } , \rho ) \to ( \lambda t , \lambda x _ { i } , \lambda ^ { \frac { 1 } { z } } y _ { j } , \frac { \rho } { \lambda } )$ ，where the $y _ { j }$ directions are responsible for the Lorentz symmetry violation and anisotropy.
+
+In general, fixed points with the anisotropic scaling property (1.3) are called Lifshitz(-like) fixed points4 (see e.g. the textbook [7] for a brief review). This generalization of AdS/CFT correspondence to Lifshitz-like fixed points (1.2） was first proposed and analyzed by Kachru, Liu and Mulligan [8] in the particular case of $p = 0$ . The simplest case with $p = 0$ represents non-relativistic fixed points with dynamical critical exponent $z$ , which appear in many examples of quantum criticality in condensed matter physics (see the references in [8]). See [9,10,11,12, 13,14] for further progress on holographic aspects of this topic.5
+
+The other cases where $1 \leq p \leq d - 1$ are not only generalizations of $p = 0$ case but can also be interpreted as space-like anisotropic fixed points (see also [13]） as is clear from the expression (1.4). Lifshitz fixed points with space-like anisotropic scale invariance appear in realistic magnets such as MnP and the axial next-nearest-neighbor Ising model [5]. They are also realized in models of directed percolation [7].
+
+To understand holographic duals of such gravity backgrounds, it is the best to embed them into string theory, where microscopic interpretations are often possble by using D-branes. However,so far there has been no known embedding of (1.2） in string theory. Motivated by this circumstance, in this paper we will construct such anisotropically scaling solutions in type IIB supergravity. We mainly focus on the backgrounds generated by intersections of D3 and D7 branes. They correspond to the choice $p = 2$ and $d = 3$ and are expected to be non-supersymmetric. This restriction is imposed not only for the tractability of the supergravity analysis,but is also due to another motivation, namely to construct back-reacted D3-D7 solutions that are dual to the pure Chern-Simons gauge theory in the second setup of [22]. In the end, we find a class of solutions with the exponent $z = 3 / 2$ . We also extend them to black brane solutions dual to finite temperature theories.
+
+Furthermore,we show that there exist solutions which interpolate between our anisotropic solutions and the familiar $A d S _ { 5 } \times X _ { 5 }$ solutions. We also construct their numerical solutions. The holography suggests that our Lifshitz-like fixed points can be obtained from various fourdimensional CFTs including $\mathcal { N } = 4$ super Yang-Mills via RG flows6. These flows are triggered by the relevant and anisotropic perturbation which gives a non-zero $\theta$ parameter (i.e. the coefficient in front of the topological Yang-Mills coupling $F \wedge F$ ）that depends linearly on one of the three spatial coordinates i.e. $\theta \propto x _ { 3 }$ . Notice that when $x _ { 3 }$ is compactified, the perturbation induces the Chern-Simons coupling $\textstyle { \int A \wedge F + { \frac { 2 } { 3 } } A ^ { 3 } }$ as in [22],which becomes relevant in the IR.
+
+This paper is organized as follows. In section 2，we present solutions dual to a class of Lifshitz-like fixed points based on D3-D7 systems with their black brane generalizations. In section 3,we show there exist interpolating solutions which approach the Lifshitz-like scaling solutions in the IR and the standard $A d S _ { 5 }$ solutions in the UV.In section 4,we holographically calculate the shear and bulk viscosity. In section 5,we compute their holographic entanglement entropies and discuss how the scaling behaviors of the entanglement entropies depend on the direction along which the sub-systems are delineated. In section 6,we study the perturbations around these backgrounds and discuss the instabilities. In section 7,we present anisotropic solutions based on D4-D6 systems. In section 8,we summarize our conclusions.
+
+# 2 Holographic Duals of Lifshitz-like Fixed Points in Type IIB String
+
+In this section we will present the main result of this paper. We will construct new solutions in type IIB supergravity with RR 5-form and 1-form fluxes whose Einstein metrics enjoy a nice scaling property. Since their scaling is anisotropic as opposed to the well-known $A d S _ { 5 }$ （204号 background, we argue that they are dual to Lifshitz-like fixed points described by certain D3-D7 systems.
+
+# 2.1 Type IIB Supergravity
+
+The IIB supergravity action $\begin{array} { r } { S _ { I I B } = \frac { 1 } { 2 \kappa _ { 1 0 } ^ { 2 } } \int \mathcal { L } } \end{array}$ in thestring frameis defined bytheLagrangian (we follow the convention in [23])
+
+$$
+\begin{array} { l } { { \displaystyle { \mathcal { L } } = \sqrt { - g } e ^ { - 2 \phi } ( R + 4 \partial _ { M } \phi \partial ^ { M } \phi ) - \frac { e ^ { - 2 \phi } } { 2 } H _ { 3 } \wedge * H _ { 3 } - \frac { 1 } { 2 } F _ { 1 } \wedge * F _ { 1 } - \frac { 1 } { 2 } \tilde { F } _ { 3 } \wedge * \tilde { F } _ { 3 } } } \\ { { \displaystyle - \frac { 1 } { 4 } \tilde { F } _ { 5 } \wedge * \tilde { F } _ { 5 } - \frac { 1 } { 2 } C _ { 4 } \wedge H _ { 3 } \wedge F _ { 3 } , } } \end{array}
+$$
+
+where $F _ { 1 } = d \chi$ ， $\tilde { F _ { 3 } } \equiv F _ { 3 } - \chi H _ { 3 }$ ，and $\tilde { F } _ { 5 } \equiv F _ { 5 } - { \textstyle \frac { 1 } { 2 } } C _ { 2 } \wedge H _ { 3 } + { \textstyle \frac { 1 } { 2 } } B _ { 2 } \wedge F _ { 3 }$ . We set $\alpha ^ { \prime } = 1$ therefore $2 \kappa _ { 1 0 } ^ { 2 } = ( 2 \pi ) ^ { 7 }$ ：
+
+The fluxes obey the equations of motion:
+
+$$
+\begin{array} { r l } & { d * F _ { 1 } = * \tilde { F } _ { 3 } \wedge H _ { 3 } , \qquad d * \tilde { F } _ { 3 } = - H _ { 3 } \wedge \tilde { F } _ { 5 } , \qquad d * \tilde { F } _ { 5 } = H _ { 3 } \wedge \tilde { F } _ { 3 } , } \\ & { d ( e ^ { - 2 \phi } * H _ { 3 } ) = F _ { 1 } \wedge * \tilde { F } _ { 3 } + \tilde { F } _ { 3 } \wedge \tilde { F } _ { 5 } . } \end{array}
+$$
+
+plus the Bianchi identities:
+
+$$
+d H _ { 3 } = 0 , \qquad d F _ { 1 } = 0 , \qquad d \tilde { F } _ { 3 } = H _ { 3 } \wedge F _ { 1 } , \qquad d \tilde { F } _ { 5 } = H _ { 3 } \wedge \tilde { F } _ { 3 } ,
+$$
+
+and the self-dual constraint for $\breve { F } _ { 5 }$
+
+$$
+* { \tilde { F } } _ { 5 } = { \tilde { F } } _ { 5 } .
+$$
+
+The dilaton equation of motion is
+
+$$
+R + 4 \nabla _ { M } \nabla ^ { M } \phi - \frac { 1 } { 1 2 } H _ { M N P } H ^ { M N P } - 4 \nabla _ { M } \phi \nabla ^ { M } \phi = 0 .
+$$
+
+And the Einstein equation becomes
+
+$$
+\begin{array} { l } { { { \cal R } _ { M N } + 2 \nabla _ { M } \nabla _ { N } \phi + \displaystyle \frac { 1 } { 4 } g _ { M N } A } } \\ { { \mathrm { } ~ = \displaystyle \frac { 1 } { 4 } H _ { M A B } H _ { N } { } ^ { A B } + \displaystyle \frac { 1 } { 2 } e ^ { 2 \phi } F _ { M } F _ { N } + \displaystyle \frac { 1 } { 4 } e ^ { 2 \phi } \tilde { F } _ { M A B } \tilde { F } _ { N } { } ^ { A B } + \displaystyle \frac { 1 } { 4 \cdot 4 ! } e ^ { 2 \phi } \tilde { F } _ { M A B C D } \tilde { F } _ { N } { } ^ { A B C D } } } \end{array}
+$$
+
+where
+
+$$
+A \equiv e ^ { 2 \phi } \partial _ { M } \chi \partial ^ { M } \chi + \frac { 1 } { 3 ! } e ^ { 2 \phi } \tilde { F } _ { A B C } \tilde { F } ^ { A B C } + \frac { 1 } { 2 \cdot 5 ! } e ^ { 2 \phi } \tilde { F } _ { A B C D E } \tilde { F } ^ { A B C D E } .
+$$
+
+# 2.2 D3-D7 Ansatz
+
+We start with the (string frame） metric ansatz that preserves the three-dimensional Lorentz symmetry $S O ( 2 , 1 )$
+
+$$
+d s ^ { 2 } = e ^ { 2 b ( r ) } ( - d t ^ { 2 } + d x ^ { 2 } + d y ^ { 2 } ) + e ^ { 2 h ( r ) + 2 a ( r ) } d w ^ { 2 } + e ^ { 2 c ( r ) - 2 a ( r ) } d r ^ { 2 } + e ^ { 2 c ( r ) } r ^ { 2 } d s _ { X _ { 5 } } ^ { 2 } .
+$$
+
+We require the five-dimensional compact manifold $X _ { 5 }$ to be a unit-radius Einstein manifold with the same Ricci curvature as the unit-radius $S ^ { 5 }$ , i.e. it satisfies
+
+$$
+R _ { \alpha \beta } = 4 g _ { \alpha \beta } .
+$$
+
+The simplest example of $X _ { 5 }$ is obviously the unit radius sphere $S ^ { 5 }$ . The self-dual 5-form and 1-from fluxes are given in terms of constants $\alpha$ and $\beta$ by
+
+$$
+\begin{array} { r } { \begin{array} { r } { F _ { 5 } = \alpha \left( \Omega _ { X _ { 5 } } + \ast \Omega _ { X _ { 5 } } \right) , } \\ { F _ { 1 } = d \chi = \beta d w , } \end{array} } \end{array}
+$$
+
+where $\chi$ is the axion field (i.e. the RR O-form potential) and $\Omega _ { X _ { 5 } }$ is the volume form of $X _ { 5 }$ . The fluxes (2.10) and (2.11) satisfy the equations of motion (2.2). We also assume that the dilaton $\phi$ （204号 only depends on $r$ and both 3-form fluxes( $H _ { 3 }$ and $F _ { 3 }$ ）vanish.Our ansatz,which looks rather different from [8], is motivated in part by an attempt to construct back-reacted solutions of the D3-D7 intersecting systems introduced in [22], as will be explained in detail later.
+
+Under this ansatz, the equations of motion for the metric and the dilaton (2.6)and (2.5) are summarized as follows:
+
+$$
+\begin{array} { l } { { b ^ { \prime } e ^ { 2 z } | ^ { \prime } = \displaystyle \frac { \beta ^ { 2 } } { 4 } e ^ { - 2 a - h + 3 b + 6 c } r ^ { 5 } + \displaystyle \frac { \alpha ^ { 2 } } { 4 } e ^ { - 4 c + 3 b + h } r ^ { - 5 } , } } \\ { { ( a + h ) ^ { \prime } e ^ { 2 z } | ^ { \prime } = - \displaystyle \frac { \beta ^ { 2 } } { 4 } e ^ { - 2 a - h + 3 b + 6 c } r ^ { 5 } + \displaystyle \frac { \alpha ^ { 2 } } { 4 } e ^ { - 4 c + 3 b + h } r ^ { - 5 } , } } \\ { { ( c + \log r ) ^ { \prime } e ^ { 2 z } | ^ { \prime } = \displaystyle \frac { 4 } { r ^ { 2 } } e ^ { 2 z - 2 a } + \displaystyle \frac { \beta ^ { 2 } } { 4 } e ^ { - 2 a - h + 3 b + 6 c } r ^ { 5 } - \displaystyle \frac { \alpha ^ { 2 } } { 4 } e ^ { - 4 c + 3 b + h } r ^ { - 5 } , } } \\ { { ( 2 z + c - a ) ^ { \prime } e ^ { 2 z } | ^ { \prime } = \displaystyle \frac { 2 0 } { r ^ { 2 } } e ^ { 2 z - 2 a } - \displaystyle \frac { \beta ^ { 2 } } { 4 } e ^ { - 2 a - h + 3 b + 6 c } r ^ { 5 } - \displaystyle \frac { \alpha ^ { 2 } } { 4 } e ^ { - 4 c + 3 b + h } r ^ { - 5 } , } } \\ { { \nu z ^ { \prime \prime } + c ^ { \prime \prime } - a ^ { \prime \prime } + 2 ( z ^ { \prime } ) ^ { 2 } + \displaystyle \frac { 1 } { 2 } ( h ^ { \prime } ) ^ { 2 } + a ^ { \prime } h ^ { \prime } + 2 ( c ^ { \prime } ) ^ { 2 } + ( \displaystyle \frac { 5 } { r } + a ^ { \prime } ) c ^ { \prime } + \displaystyle \frac { 3 } { 2 } ( b ^ { \prime } ) ^ { 2 } - \displaystyle \frac { 1 0 c ^ { - 2 a } } { r ^ { 2 } } + \displaystyle \frac { 5 } { 2 r ^ { 2 } } = } } \end{array}
+$$
+
+Herewe have defined
+
+$$
+z \equiv \frac { 3 } { 2 } b + \frac { 5 } { 2 } \log r + a + 2 c + \frac 1 2 h - \phi .
+$$
+
+The derivative of a function $f$ with respect to $r$ is denoted by $f ^ { \prime } ( r )$ . An observation,which will be useful in the next section, is that a linear combination of the first four equations gives
+
+$$
+[ ( 2 b - 2 a - \phi - 2 h ) ^ { \prime } e ^ { 2 z } ] ^ { \prime } = 0 .
+$$
+
+# 2.3 D3-D7 Scaling Solutions: Holographic Duals of Lifshitz-like Fixed Points
+
+Since we are looking for scaling solutions (namely solutions invariant under scale transformations)，we require all metric components in (2.8） to be power functions of $r$ . In other words, the functions $a , b , c , z$ and $\phi$ are all logarithmic functions of $r$ . For such a scaling ansatz, the equations of motion (2.5)and (2.6) reduce to algebraic equations and the solution is easily found to be:
+
+$$
+\begin{array} { l } { { a ( r ) = \displaystyle \frac { 1 } { 2 } \log \displaystyle \frac { 1 2 } { 1 1 } - \log \xi _ { s } , \quad b ( r ) = \displaystyle \frac { 7 \xi _ { s } } { 6 } \log r + b _ { 0 } , \quad c ( r ) = \left( - 1 + \displaystyle \frac { \xi _ { s } } { 6 } \right) \log r + c _ { 0 } , } } \\ { { h ( r ) = \displaystyle \frac { 5 \xi _ { s } } { 6 } \log r + \log \xi _ { s } + h _ { 0 } , \quad \phi ( r ) = \displaystyle \frac { 2 \xi _ { s } } { 3 } \log r + \phi _ { 0 } , } } \\ { { \alpha = 4 e ^ { 4 c _ { 0 } - \phi _ { 0 } } , \quad \beta = 4 \sqrt { \displaystyle \frac { 2 } { 1 1 } } e ^ { h _ { 0 } - c _ { 0 } - \phi _ { 0 } } , } } \end{array}
+$$
+
+where $b _ { 0 } , c _ { 0 } , h _ { 0 } , \phi _ { 0 }$ and $\xi _ { s }$ are arbitrary constants. $\xi _ { s }$ corresponds to the degrees of freedom of the reparameterization of $r$ ，while $b _ { 0 }$ and $h _ { 0 }$ correspond to the rescaling of the $( t , x , y , w )$ directions.
+
+Without loss of generality， we choose
+
+$$
+\xi _ { s } = 1 , \qquad b _ { 0 } = c _ { 0 } + { \frac { 1 } { 2 } } \log { \frac { 1 1 } { 1 2 } } , \qquad h _ { 0 } = c _ { 0 } + \log { \frac { 1 1 } { 1 2 } } ,
+$$
+
+and the solution in the string frame reads:
+
+$$
+d s _ { s } ^ { 2 } = \tilde { R } _ { s } ^ { 2 } \left[ r ^ { \frac { 7 } { 3 } } ( - d t ^ { 2 } + d x ^ { 2 } + d y ^ { 2 } ) + r ^ { \frac { 5 } { 3 } } d w ^ { 2 } + { \frac { d r ^ { 2 } } { r ^ { \frac { 5 } { 3 } } } } \right] + R _ { s } ^ { 2 } r ^ { \frac { 1 } { 3 } } d s _ { X _ { 5 } } ^ { 2 } ,
+$$
+
+where $\begin{array} { r } { R _ { s } ^ { 2 } = \frac { 1 2 } { 1 1 } \tilde { R } _ { s } ^ { 2 } = e ^ { 2 c _ { 0 } } } \end{array}$ . And the dilaton scales with $r$ as
+
+$$
+e ^ { \phi } = r ^ { \frac { 2 } { 3 } } e ^ { \phi _ { 0 } } ,
+$$
+
+where $\begin{array} { r } { e ^ { \phi _ { 0 } } = \frac { \sqrt { 2 2 } } { 3 \beta } } \end{array}$
+
+Since the dilaton depends on $r$ non-trivially, it is helpful to discuss the metric in the Einstein frame. Indeed, later we will see explicitly that a large class of scalar fluctuations around this solution can be described by Klein-Gordon equations on curved spacetimes based on the Einstein frame metric instead of on the string frame metric. The above solution in the Einstein frame is
+
+$$
+d s _ { E } ^ { 2 } = \tilde { R } ^ { 2 } \left[ r ^ { 2 } ( - d t ^ { 2 } + d x ^ { 2 } + d y ^ { 2 } ) + r ^ { \frac { 4 } { 3 } } d w ^ { 2 } + { \frac { d r ^ { 2 } } { r ^ { 2 } } } \right] + R ^ { 2 } d s _ { X _ { 5 } } ^ { 2 } ,
+$$
+
+wheretheradii
+
+$$
+R ^ { 2 } = \frac { 1 2 } { 1 1 } \tilde { R } ^ { 2 } = e ^ { - \frac { \phi _ { 0 } } { 2 } + 2 c _ { 0 } } = \frac { \sqrt { \alpha } } { 2 } .
+$$
+
+The metric (2.18) is invariant under the scaling
+
+$$
+\big ( t , x , y , w , r \big )  \Big ( \lambda t , \lambda x , \lambda y , \lambda ^ { \frac { 2 } { 3 } } w , \frac { r } { \lambda } \Big ) ,
+$$
+
+and therefore is expected to be holographically dual to Lifshitz-like fixed points with space-like anisotropic scale invariance. Note that the metric (2.18） is equivalent to (1.4) with $z = 3 / 2$ ， $p = 2$ and $d = 3$ ：
+
+By redefining the radius coordinate $\rho \equiv r ^ { \frac { 2 } { 3 } }$ and rescaling $( t , x , y , w )$ accordingly， we can rewrite the metric (2.18) into another illuminating form
+
+$$
+d s _ { E } ^ { 2 } = \tilde { R } ^ { 2 } \left[ \rho ^ { 3 } ( - d t ^ { 2 } + d x ^ { 2 } + d y ^ { 2 } ) + \rho ^ { 2 } d w ^ { 2 } + { \frac { d \rho ^ { 2 } } { \rho ^ { 2 } } } \right] + R ^ { 2 } d s _ { X _ { 5 } } ^ { 2 } .
+$$
+
+This can be regarded as gravity duals of Lifshitz-like fixed points with $z = 3 / 2$ . It coincides with the metric (1.2） with $p = 2$ and $d = 3$ ：
+
+# 2.4 Holographic Interpretation in terms of D3-D7 System
+
+Since our solution (2.18) is sourced by the RR 5-form (2.10) and 1-form flux (2.11), we expect it to be interpreted as a D3-D7 system in string theory. When we compactify the $w$ direction such that $w \sim w + L$ and place $N$ D3-brane along the $( t , x , y , w )$ directions and $k$ D7-branes along the $( t , x , y , X _ { 5 } )$ directions:
+
+$$
+\begin{array} { r l r } {  { \frac { \mathcal { M } _ { 4 } \times S ^ { 1 } \times X _ { 5 } } { N \mathrm { ~ D 3 ~ } } | \begin{array} { c c c c } { t } & { x _ { 1 } } & { y } & { r } \end{array} | w \ | \begin{array} { c c c c } { s _ { 1 } } & { s _ { 2 } } & { s _ { 3 } } & { s _ { 4 } } & { s _ { 5 } } \end{array} | } } \\ & { \times } & { \times } & { \times } \\ & { k \mathrm { ~ D 7 ~ } } \end{array}
+$$
+
+these $N$ D3 and $k$ D7 branes can source the desired RR 5-form and 1-form fluxes with
+
+$$
+\alpha = \frac { ( 2 \pi ) ^ { 4 } N } { \mathrm { V o l } ( X _ { 5 } ) } , \qquad \beta = \frac { k } { L } .
+$$
+
+This brane configuration is the same as the one constructed to model the fractional quantum Hall effect in [22].
+
+The number of the D3-branes determines the radii $R$ and $\tilde { R }$ in the scaling solution (2.18):
+
+$$
+R ^ { 2 } = { \frac { 1 2 } { 1 1 } } \tilde { R } ^ { 2 } = 2 \sqrt { { \frac { \pi ^ { 4 } } { \mathrm { V o l } ( X _ { 5 } ) } } N } .
+$$
+
+For $X _ { 5 } = S ^ { 5 }$ (whose volume is $\pi ^ { 3 }$ ）， $\begin{array} { r } { R ^ { 2 } = \frac { 1 2 } { 1 1 } \ddot { R } ^ { 2 } = 2 \sqrt { \pi N } } \end{array}$ . The number of the D7-branes givesthe string coupling at $r = 1$ ：
+
+$$
+e ^ { \phi _ { 0 } } = \frac { \sqrt { 2 2 } } { 3 } \frac L k .
+$$
+
+Now we say a few words about the feld theory living on this D3-D7 system. We take （20 $X _ { 5 } = S ^ { 5 }$ to simplify the arguments. If we start with $N$ D3-branes, whose low energy theory is the four-dimensional $\mathcal { N } = 4$ ， $S U ( N )$ super Yang-Mills theory, then the additional $k$ D7-branes will source a non-trivial axion field $\begin{array} { r } { \chi = \frac { k } { L } w } \end{array}$ , which in turn induces a $w$ -dependent $\theta$ term (i.e. the topological term) of the Yang-Mills theory
+
+$$
+{ \frac { 1 } { 4 \pi } } \int \chi ( w ) \mathrm { T r } F \wedge F .
+$$
+
+For finite $\beta$ and $k$ ， $w$ -direction is compactified. After integrating over $w$ , the 4D topological term (2.25) becomes a 3D Chern-Simons term at level $k$
+
+$$
+{ \frac { k } { 4 \pi } } \int _ { R ^ { 1 , 2 } } \mathrm { T r } \left[ A \wedge F + { \frac { 2 } { 3 } } A ^ { 3 } \right] .
+$$
+
+Now we have two choices of the boundary condition for the $w$ -circle: periodic or anti-periodic. If we impose the anti-periodic one,all fermions will become massive. This breaks all supersymmetries and gives masses to scalar felds through quantum corrections. In the IR limit,only a pure Yang-Mills term is left of the original 4D $\mathcal { N } = 4$ super Yang-Mills part of the action. Since in the IR limit,the Chern-Simons term dominates this Yang-Mills term,the final threedimensional theory is a pure Chern-Simons theory. In [22], this D3-D7 system was constructed to holographically model the FQHE precisely because it fows to the pure Chern-Simons gauge theory in the IR. In this model, the AdS/CFT correspondence in the IR limit manifests itself as the level-rank duality of the pure Chern-Simons gauge theory.
+
+On the other hand, if we take $k  \infty$ (and simultaneously $L  \infty$ ）while keeping $\beta$ finite, the $w$ -direction is non-compact and the field theory is four-dimensional. Even though the interaction (2.25) looks non-local at the first sight,its contribution to the equations of motion is actually local. This remarkable property occurs only when $\chi ( w )$ is a linear function of $w$ (as is the case here).
+
+One might still doubt any relations of our new background (2.18) to the ${ \mathcal N } = 4$ super YangMills theory as it is not asymptotically $A d S _ { 5 }$ . One might also worry that the dilaton (2.17) blows up near the boundary $r  \infty$ . However,as we will show in the next section，we can in fact construct solutions which interpolate between the $A d S _ { 5 }$ and our scaling solution (2.18). This interpolating solution can be considered as the dual of the RG flow between the two systems. Notice that this caps off the strongly coupled region of the scaling solution.We willalso present anisotropic solutions for analogous D4-D6 systems in section 7.
+
+# 2.5 Black Brane Solutions and Entropy
+
+One more interesting fact about our scaling solutions is that we can straightforwardly generalize them to black brane solutions which have regular event horizons. The metric in the Einstein frame is
+
+$$
+d s _ { E } ^ { 2 } = \tilde { R } ^ { 2 } \left[ r ^ { 2 } ( - F ( r ) d t ^ { 2 } + d x ^ { 2 } + d y ^ { 2 } ) + r ^ { \frac { 4 } { 3 } } d w ^ { 2 } + { \frac { d r ^ { 2 } } { r ^ { 2 } F ( r ) } } \right] + R ^ { 2 } d s _ { X _ { 5 } } ^ { 2 } ,
+$$
+
+where
+
+$$
+F ( r ) = 1 - { \frac { \mu } { r ^ { \frac { 1 1 } { 3 } } } } .
+$$
+
+The constant $\mu$ represents the mass parameter of the black brane. The dilaton and RR fields remain the same.
+
+Requiring the smoothness of the Euclidean geometry of (2.27) gives the Hawking temperature
+
+$$
+T _ { H } = \frac { 1 1 } { 1 2 \pi } \mu ^ { \frac { 3 } { 1 1 } } .
+$$
+
+The Bekenstein-Hawing entropy is then
+
+$$
+S _ { B H } = \gamma \cdot \left( \frac { \pi ^ { 3 } } { \mathrm { V o l } ( X _ { 5 } ) } \right) \cdot N ^ { 2 } \cdot T _ { H } ^ { \frac { 8 } { 3 } } \cdot V _ { 2 } \cdot L ,
+$$
+
+where $\gamma$ is a numerical factor
+
+$$
+\gamma = 2 ^ { \frac { 4 } { 3 } } \cdot 3 ^ { \frac { 7 } { 6 } } \cdot 1 1 ^ { - { \frac { 7 } { 6 } } } \cdot \pi ^ { \frac { 5 } { 3 } } \simeq 3 . 7 2 9
+$$
+
+and $V _ { 2 }$ represents the area in the $( x , y )$ direction.The entropy(2.30） is proportional to $N ^ { 2 }$ and thus is consistent with the planar limit of a certain gauge theory.
+
+Notice that the power $8 / 3$ of temperature in (2.3O) can also be obtained from a simple dimension counting. From the metric (2.27), the coordinate $w$ has the fractional dimension $2 / 3$ while each of $( t , x , y )$ carries the unit dimension.
+
+# 3 RG Flow in AdS $5$ /CFT $^ 4$ and Scaling Solution
+
+In the previous section, we find a new scaling solution of the D3-D7 system in type IIB supergravity. To clarify its physical interpretation， we will show below that we can construct interpolating solutions that approach the $A d S _ { 5 } \times X _ { 5 }$ solutions in the $r  \infty$ limit (i.e.UV limit of the holographic duals） and the scaling solutions in the opposite limit $r \ \longrightarrow \ 0$ .Then via the AdS/CFT correspondence, we can argue that the system dual to our scaling solution is connected to the one dual to the $A d S _ { 5 }$ through the RG flow.
+
+# 3.1 Further Reduction ofEquations of Motion
+
+To find the interpolating solution, we start with the general form (2.8). To simplify the problem we impose some extra constraints which are consistent with both the $A d S _ { 5 }$ and the scaling solutions.
+
+First,we can make the function $a ( r )$ vanish by a reparametrization of $r$ ：
+
+$$
+a ( r ) = 0 .
+$$
+
+Secondly, recall that we showed $[ ( 2 b - 2 a - \phi - 2 h ) ^ { \prime } e ^ { 2 z } ] ^ { \prime } = 0$ for generic solutions.In fact,both the $A d S _ { 5 }$ and the scaling solution satisfy a much stronger condition
+
+$$
+( 2 b - 2 a - \phi - 2 h ) ^ { \prime } = 0 .
+$$
+
+Since we are looking for a solution that interpolates between the $A d S _ { 5 }$ and the scaling solution, it is reasonable to impose (3.2） as a simplifying ansatz, namely
+
+$$
+h ( r ) = b ( r ) - a ( r ) - \frac { 1 } { 2 } \phi ( r ) + \tilde { h } _ { 0 } ,
+$$
+
+where $\tilde { h } _ { 0 }$ is a constant. Similarly, since both the $A d S _ { 5 }$ and the scaling solution have the nice property that in the Einstein frame the radius of $S ^ { 5 }$ is a constant，we will also impose this condition on our interpolating solution, namely we require
+
+$$
+\phi ( r ) = 4 c ( r ) + 4 \log r + \tilde { \phi } _ { 0 } ,
+$$
+
+where $\tilde { \phi } _ { 0 }$ is a constant. These relations (3.1),(3.3) and (3.4) are the constraints mentioned and are assumed throughout this section.
+
+Under this ansatz, the Einstein frame metric becomes
+
+$$
+d s _ { E } ^ { 2 } = { \frac { e ^ { 2 b ( r ) - 2 c ( r ) - { \frac { \tilde { \sigma } _ { 0 } } { 2 } } } } { r ^ { 2 } } } ( - d t ^ { 2 } + d x ^ { 2 } + d y ^ { 2 } ) + e ^ { - { \frac { 3 } { 2 } } \tilde { \phi } _ { 0 } + 2 \tilde { h } _ { 0 } } { \frac { e ^ { 2 b ( r ) - 6 c ( r ) } } { r ^ { 6 } } } d w ^ { 2 } + e ^ { - { \frac { \tilde { \sigma } _ { 0 } } { 2 } } } { \frac { d r ^ { 2 } } { r ^ { 2 } } } + e ^ { - { \frac { \tilde { \phi } _ { 0 } } { 2 } } } d \tilde { \phi } _ { 0 } .
+$$
+
+and the equations of motion are greatly simplified:
+
+$$
+\begin{array} { l } { \displaystyle \alpha = 4 e ^ { - \tilde { \phi } _ { 0 } } , } \\ { \displaystyle b ^ { \prime \prime } = \frac { 2 } { r ^ { 2 } } + \frac { 2 3 } { r } b ^ { \prime } - 1 0 b ^ { \prime 2 } - \frac { 1 6 c ^ { \prime } } { r } + 2 4 b ^ { \prime } c ^ { \prime } - 8 c ^ { \prime 2 } , } \\ { \displaystyle c ^ { \prime \prime } = \frac { 4 } { r ^ { 2 } } + \frac { 1 4 } { r } b ^ { \prime } - 6 b ^ { \prime 2 } - \frac { 5 c ^ { \prime } } { r } + 1 4 b ^ { \prime } c ^ { \prime } - 2 c ^ { \prime 2 } , } \\ { \displaystyle \frac 1 4 e ^ { - 2 \tilde { h } _ { 0 } + 3 \tilde { \phi } _ { 0 } - 2 b + 1 4 c } r ^ { 1 4 } \beta ^ { 2 } = 6 - 8 - 6 r ^ { 2 } b ^ { \prime 2 } - 1 6 r c ^ { \prime } - 8 r ^ { 2 } c ^ { \prime 2 } + 1 8 r b ^ { \prime } ( 1 + r c ^ { \prime } ) . } \end{array}
+$$
+
+We can confirm that the derivative of the r.h.s of (3.9) is vanishing if (3.7), (3.8) and (3.9) are satisfied. This means that the constraint (3.9) is consistent with (3.7) and (3.8).
+
+# 3.2 Interpolating Solution between $A d S _ { 5 }$ and D3-D7 Scaling Solution
+
+Now the problem amounts to solving the system of two coupled first-ordered nonlinear ODEs (3.7) and (3.8) under the constraint (3.9). First, notice that (3.7) and (3.8) involve only the derivatives of $b$ and $c$ , thus once we find a solution to them,we can simply choose the integration constants of $b ( r )$ and $c ( r )$ such that they satisfy the constraint (3.9）- as long as it allows the r.h.s of (3.9) to be positive.7 Therefore essentially we only need to solve (3.7) and (3.8).
+
+Next we redefine the radial coordinate $r$ and the derivatives of the functions $b ( r )$ and $c ( r )$ as follows
+
+$$
+s \equiv \log r , \quad B ( s ) \equiv \frac { \partial b ( r ) } { \partial \log r } , \quad \boldsymbol { C } ( s ) \equiv \frac { \partial c ( r ) } { \partial \log r } .
+$$
+
+Then the equations (3.7) and (3.8) are simply a pair of first-ordered non-linear ODEs:
+
+$$
+\begin{array} { l } { \dot { B } = 2 + 2 4 B - 1 6 C - 1 0 B ^ { 2 } + 2 4 B C - 8 C ^ { 2 } , } \\ { \dot { C } = 4 + 1 4 B - 4 C - 6 B ^ { 2 } + 1 4 B C - 2 C ^ { 2 } . } \end{array}
+$$
+
+where $\begin{array} { r } { \dot { B } \equiv \frac { d B } { d s } } \end{array}$ . A physical solution also needs to satisfy
+
+$$
+( 9 B - 8 C - 8 ) ^ { 2 } - ( 3 3 B ^ { 2 } + 4 8 ) < 0 ,
+$$
+
+due to the constraint (3.9).
+
+The dynamical system (3.11) and (3.12) has four fixed points $( B , C ) ^ { * }$ which can be classified into two pairs:
+
+$$
+( B , C ) ^ { * } = ( \pm 1 , - 1 ) \mathrm { a n d } \mathrm { } ( B , C ) ^ { * } = \left( \pm \frac { 7 } { \sqrt { 3 3 } } , \pm \frac { 1 } { \sqrt { 3 3 } } - 1 \right) .
+$$
+
+Inside each pair, the two fixed points are related by a coordinate redefinition $\textstyle r \to { \frac { 1 } { r } }$ thus are equivalent.The fixed point
+
+$$
+( B , C ) _ { A d S _ { 5 } } ^ { * } = ( 1 , - 1 )
+$$
+
+corresponds the standard $A d S _ { 5 } \times X _ { 5 }$ solution.8
+
+Our scaling D3-D7 solution (at zero temperature) corresponds to the fixed point
+
+$$
+( B , C ) _ { s c a l i n g } ^ { * } = \left( \frac { 7 } { \sqrt { 3 3 } } , \frac { 1 } { \sqrt { 3 3 } } - 1 \right) \simeq ( 1 . 2 1 8 5 , - 0 . 8 2 5 9 ) .
+$$
+
+One can easily see that the metric (3.5)with (3.16) is equivalent to (2.18) via the redefinition of radial coordinate $r \to r ^ { \sqrt { 3 3 } / 6 }$ . Since the two fixed points with“-” sign are equivalent to the two with“ $^ +$ ” sign and are disconnected from them,we will not consider those any further.
+
+Now let's study the behavior of this dynamical system (3.11) and (3.12). Near the $A d S _ { 5 }$ fixed point (3.15), the eigensystem of the linear perturbations (defied by $B ( s ) = B _ { A d S _ { 5 } } ^ { * } + \epsilon _ { b } ( s )$ （20 and $C ( s ) = C _ { A d S _ { 5 } } ^ { * } + \epsilon _ { c } ( s )$ for $\epsilon _ { b } , \epsilon _ { c } \ll 1$ is
+
+$$
+\dot { \epsilon _ { b } } = - 2 0 \epsilon _ { b } + 2 4 \epsilon _ { c } , \qquad \dot { \epsilon _ { c } } = - 1 2 \epsilon _ { b } + 1 4 \epsilon _ { c } ,
+$$
+
+and both eigenvalues are negative: $\lambda _ { 1 } = - 4$ and $\lambda _ { 2 } = - 2$ ; therefore the $A d S _ { 5 }$ solution is a stable fixed point as the system flows to the UV (i.e. $r \longrightarrow \infty$ ）
+
+On the other hand, the eigensystem of the linear perturbation near the D3-D7 scaling fixed point (defined by $B ( s ) = B _ { s c a l i n g } ^ { * } + \eta _ { b } ( s )$ and $C ( s ) = C _ { s c a l i n g } ^ { * } + \eta _ { c } ( s )$ for $\eta _ { b } , \eta _ { c } \ll 1$ )is
+
+$$
+\dot { \eta } _ { b } = - \frac { 1 1 6 } { \sqrt { 3 3 } } \eta _ { b } + \frac { 1 5 2 } { \sqrt { 3 3 } } \eta _ { c } , ~ \dot { \eta } _ { c } = - \frac { 7 0 } { \sqrt { 3 3 } } \eta _ { b } + \frac { 9 4 } { \sqrt { 3 3 } } \eta _ { c } .
+$$
+
+In contrast to the stable $A d S _ { 5 }$ fixed point, this scaling solution fixed point has one negative eigenvalue ( $\begin{array} { r } { \lambda _ { 1 } = - \frac { \sqrt { 3 3 } + \sqrt { 1 0 5 } } { 3 } ) } \end{array}$ and one positive one ( $\begin{array} { r } { \lambda _ { 2 } = \frac { \sqrt { 1 0 5 } - \sqrt { 3 3 } } { 3 } , } \end{array}$ ).Therefore the fixed point corresponding to the scaling solution is unstable. Near the neighborhood of this scaling fixed point, there exist two special trajectories: one corresponding to the negative eigenvalue $\lambda _ { 1 }$ and one to the positive $\lambda _ { 2 }$ . The fixed point behaves like a UV (resp. IR) fixed point when approached along the trajectory corresponding to the negative (resp. positive) eigenvalue. When the fixed point is approached along a generic direction, the trajectory only passes near it and then turns to flow to infinity — only one fine-tuned trajectory can reach the fixed point.
+
+Figure 1 shows the global behavior of this dynamical system (3.11) and (3.12). Figure 1(a) is generated by numerical computations and the salient features are schematically highlighted in the hand-rendered Figure 1(b). The arrows point in the direction from the UV ( $s = \infty$ ）to the IR ( $s = - \infty$ ).It is easy to see from the direction fields that the $A d S _ { 5 }$ fixed point (the green dot t $( 1 , - 1 )$ )isastableUVixedpoint wiletesalinfixedpoint (tebledotat $\textstyle { \bigl ( } { \frac { 7 } { \sqrt { 3 3 } } } , { \frac { 1 } { \sqrt { 3 3 } } } - 1 { \bigr ) } \rangle$ （204号 is unstable. Recall that a physical solution needs to satisfy (3.13). The allowed region in the flow diagram are between two hyperbolic lines given by $9 B - 8 C - 8 = \pm \sqrt { 3 3 B ^ { 2 } + 4 8 }$ . The black curve in Figure $\mathrm { 1 ( a ) }$ is the one with the‘ $^ +$ ” sign; and the other one with the“-” sign is its mirror image in the upper-left corner but is out of the range of Figure $\mathrm { 1 ( a ) }$ . It is clear that both the $A d S _ { 5 }$ fixed point and the scaling solution fixed point are in the allowed region. And since the $A d S _ { 5 }$ is a stable UV fixed point and there is no critical surface separating it from the scaling solution fixed point, there exists a trajectory emanating from the $A d S _ { 5 }$ fixed point and flowing to the scaling solution fixed point. Namely there exists a solution that interpolates between the （20 $A d S _ { 5 } \times X _ { 5 }$ solution in the UV( $r \longrightarrow \infty$ ） and the D3-D7 scaling solution in the IR( $r = 0$ ）
+
+Now to solve the interpolating solution,we first choose the integration constant. First, $\tilde { \phi } _ { 0 }$ is determinedonlybythe 5-formfux:o=-lg=-log() . Then without loss of generality， we set $\begin{array} { r } { \tilde { h } _ { 0 } = \frac { \bar { \phi } _ { 0 } } { 2 } } \end{array}$ and choose the boundary condition for $( b , c )$ to be
+
+$$
+\begin{array} { r l } & { b ( r ) \to \log r , \qquad c ( r ) \to - \log r \qquad \mathrm { a t } \qquad r \to + \infty , } \\ & { b ( r ) \to \displaystyle \frac { 7 } { \sqrt { 3 3 } } \log r + b _ { 0 } , \qquad c ( r ) \to \left( \frac { 1 } { \sqrt { 3 3 } } - 1 \right) \log r + b _ { 0 } \qquad \mathrm { a t } \qquad r \to 0 , } \end{array}
+$$
+
+where $\begin{array} { r } { b _ { 0 } \equiv \frac { 1 } { 6 } \log \big ( \frac { 4 \pi ^ { 4 } } { \mathrm { V o l } ( X _ { 5 } ) } N \big ) - \frac { 1 } { 1 2 } \log \frac { 3 } { 8 } - \frac { 1 } { 6 } \log \beta } \end{array}$ plus the constraint
+
+$$
+\frac { 1 } { 8 } [ ( 9 B - 8 C - 8 ) ^ { 2 } - ( 3 3 B ^ { 2 } + 4 8 ) ] = - \frac { \beta ^ { 2 } } { 6 4 \left( \frac { \pi ^ { 4 } } { \mathrm { V o l } ( X _ { 5 } ) } \right) ^ { 2 } N ^ { 2 } } e ^ { - 2 b ( r ) + 1 4 c ( r ) } r ^ { 1 4 } < 0 ,
+$$
+
+and the boundary conditions (3.19) determine an interpolating solution that approaches the $A d S _ { 5 } \times X _ { 5 }$ solution
+
+$$
+\begin{array} { r c l } { { d s _ { E } ^ { 2 } } } & { { = } } & { { \displaystyle R ^ { 2 } \left[ r ^ { 2 } ( - d t ^ { 2 } + d x ^ { 2 } + d y ^ { 2 } + d w ^ { 2 } ) + \frac { d r ^ { 2 } } { r ^ { 2 } } \right] + R ^ { 2 } d s _ { X _ { 5 } } ^ { 2 } , } } \\ { { e ^ { \phi } } } & { { = } } & { { e ^ { \tilde { \phi } _ { 0 } } , } } \end{array}
+$$
+
+![](images/a8e52dab27b26113d4483519d3408db6e9080cfc1ff6a8a25e0f8eee25a96edb.jpg)  
+Figure 1: The $( B , C )$ flow diagram. The horizontal and vertical axes are $B \equiv { \dot { b } }$ and $C \equiv { \dot { c } }$ ， respectively. The arrows point in the direction from the UV ( $r = \infty$ ）to theIR( $r = 0$ ). In the left figure, the blue dot at $( \frac { 7 } { { \sqrt { 3 3 } } } , \frac { 1 } { { \sqrt { 3 3 } } } - 1 ) \simeq ( 1 . 2 2 , - 0 . 8 3 )$ is the unstable fixed point corresponding to the scaling solution; the green dot at $( 1 , - 1 )$ is the stable UV fixed point corresponding to the $A d S _ { 5 }$ solution. The green line running through the scaling fixed point corresponds to the negative eigenvalue $\lambda _ { 1 }$ while the red line corresponds to the positive one $\lambda _ { 2 }$ . The black curve is given by $9 B - 8 C - 8 = \sqrt { 3 3 B ^ { 2 } + 4 8 }$ and corresponds to a pure D3 solution; the allowed D3-D7 solutions are above this curve.
+
+in the UV and the D3-D7 scaling solution
+
+$$
+\begin{array} { r c l } { { d s _ { E } ^ { 2 } } } & { { = } } & { { R ^ { 2 } [ r ^ { \frac { 1 2 } { \sqrt { 3 3 } } } ( - d t ^ { 2 } + d x ^ { 2 } + d y ^ { 2 } ) + { \frac { d r ^ { 2 } } { r ^ { 2 } } } ] + \rho ^ { 2 } r ^ { \frac { 8 } { \sqrt { 3 3 } } } d w ^ { 2 } + R ^ { 2 } d s _ { X _ { 5 } } ^ { 2 } , } } \\ { { } } & { { } } & { { e ^ { \phi } } } & { { = } } & { { e ^ { 4 b _ { 0 } } e ^ { \tilde { \phi } _ { 0 } } r ^ { \frac { 4 } { \sqrt { 3 3 } } } , } } \end{array}
+$$
+
+in theIR.HereR²=/2=2) and $\rho ^ { 2 } = e ^ { - 4 b _ { 0 } } R ^ { 2 }$ . And the fluxes are
+
+$$
+F _ { 5 } = 4 R ^ { 4 } \left( \Omega _ { X _ { 5 } } + \ast \Omega _ { X _ { 5 } } \right) , F _ { 1 } = \beta d w ,
+$$
+
+throughout the system.
+
+We can easily solve $( b , c )$ numerically for arbitrary fluxes. Systems with different flux numbers diffr only in their speeds in approaching the fixed points. Figure 2 shows the system with $\frac { \beta ^ { 2 } } { 6 4 ( \frac { \pi ^ { 4 } } { \mathrm { V o l } _ { ( X _ { 5 } ) } } ) ^ { 2 } N ^ { 2 } } = 1$ $2 ( \mathrm { a } )$ $( \dot { b } , \dot { c } )$ Figure $2 ( \mathrm { b } )$ presents the scalings of the $( t , x , y )$ -directions, $w$ -direction，and $e ^ { \phi }$ in the Einstein frame as the interpolating solution flows from the D3-D7 scaling solution in the IR ( $r = 0$ ）to the $A d S _ { 5 }$ in the UV ( $r \longrightarrow \infty$ ）
+
+![](images/55cfff9b9655849ef849e7478807d11018bd26ce4da4ed2bfb968f73550651bb.jpg)  
+(b）Scalings of the interpolating solution in the Einstein Frame.
+
+(a) $( B , C )$ of the interpolating solution.
+
+$\frac { \beta ^ { 2 } } { 6 4 ( \frac { \pi ^ { 4 } } { \mathrm { V o l } _ { ( X _ { 5 } ) } } ) ^ { 2 } N ^ { 2 } } = 1$ . In the left figure, $( B , C ) \equiv ( { \dot { b } } , { \dot { c } } )$ fow from $( \frac { 7 } { { \sqrt { 3 3 } } } , \frac { 1 } { { \sqrt { 3 3 } } } - 1 ) \simeq ( 1 . 2 2 , - 0 . 8 3 )$ in the IR to $( 1 , - 1 )$ in the UV. The right figure shows that,in the Einstein frame, the scalings of the $( t , x , y )$ -directions,the $w$ -direction, and $e ^ { \phi }$ fow from $( \frac { 8 } { \sqrt { 3 3 } } , \frac { 4 } { \sqrt { 3 3 } } , \frac { 4 } { \sqrt { 3 3 } } ) \simeq ( 1 . 0 4 , 0 . 7 0 , 0 . 7 0 )$ in the IR to $( 1 , 1 , 0 )$ in the Uv.
+
+# 3.3 Interpolating Solutions as Holographic RG Flows
+
+Here we try to interpret our interpolating solutions via AdS/CFT. To make the argument   
+simple we focus on $X _ { 5 } = S ^ { 5 }$ . Consider the standard AdS /CFT for the $\mathcal { N } = 4$ super Yang$^ { 5 }$ $^ 4$   
+Mills. We can perturb the $\mathcal { N } = 4$ super Yang-Mills by many relevant operators $\mathcal { O } _ { 1 } , \mathcal { O } _ { 2 } , \cdots$ as   
+（204号 $\begin{array} { r } { \delta S = \int d x ^ { 4 } [ g _ { 1 } O _ { 1 } + g _ { 2 } O _ { 2 } + \cdot \cdot \cdot ] } \end{array}$
+
+Our solution which flows from the $A d S _ { 5 } \times S ^ { 5 }$ to the scaling D3-D7 solution is dual to an anisotropic RG flow triggered by a non-supersymmetric relevant deformation (2.25), called $O _ { 1 }$ ： This RG-fow eventually ends at the IR fixed point that is dual to the scaling solution. Therefore $O _ { 1 }$ becomes irrelevant in the IR limit. However,our sketch of the holographic RG flow (see Fig. 1） tells us that this flow is unstable and signals the presence of another relevant operator $O _ { 2 }$ which becomes relevant even at the IR fixed point. So if we slightly perturb this flow by $O _ { 2 }$ ， then the RG fow passes near the IR fixed point and eventually goes to infinity. Its asymptotic behavior will be derived analytically in the next subsection. However, we can stillfine tune such that there is no $O _ { 2 }$ generated (i.e. $g _ { 2 } = 0$ ） to realize the IR fixed point governed by the scaling solution. This is exactly what experimentalists usually do to realize an unstable fixed point.9
+
+A similar situation occurs when we perturb the Heisenberg model by an anisotropic Ising-like interaction: $\begin{array} { r } { H = - J \sum _ { \langle i j \rangle } ( \sigma _ { i } ^ { x } \sigma _ { j } ^ { x } + \sigma _ { i } ^ { y } \sigma _ { j } ^ { y } + \sigma _ { i } ^ { z } \sigma _ { j } ^ { z } ) - D \sum _ { \langle i j \rangle } \sigma _ { i } ^ { z } \sigma _ { j } ^ { z } } \end{array}$ ，where $D > 0$ . In this analogy, the UV fixed point is the Heisenberg model fixed point and the IR one is the Ising model fixed point. This structure of the RG flow is rather generic and is one example of the phenomenon called crossover [7].
+
+# 3.4 Exact Solutions without D7-brane Charge
+
+In our interpolating solution, the flow from the UV $A d S _ { 5 }$ fixed point reaches the IR D3-D7 scaling solution fixed point only if it starts along a specific direction. One wonders where the flow would end up if its initial direction slightly deviates from the fine-tuned one. A closer look at Figure $\mathrm { 1 ( a ) }$ tells us that if it deviates from the desired direction slightly to the left,it will turn back before reaching the scaling solution fixed point and asymptote to the $B < 1$ part of the black curve given by $9 B - 8 C - 8 = \sqrt { 3 3 B ^ { 2 } + 4 8 }$ (due to the constraint (3.13)). On the other hand,if it deviates slightly to the right,it will pass near (but not hiting) the scaling solution fixed point and then bend slightly downward and finally asymptote to the $B > 1$ part of the same black curve.
+
+The curve given by $9 B - 8 C - 8 = \sqrt { 3 3 B ^ { 2 } + 4 8 }$ is the solution interpolating between the （204号 $A d S _ { 5 }$ in the UV and some other solution in the IR. Since it saturates the inequality (3.21), there is no D7 brane charge （ $\beta = 0$ ): it is a solution of the pure D3-brane system. Not only is it important because it gives the asymptotic form of what our interpolating solution decays into when perturbed by a relevant operator, it is also interesting as a pure D3-brane solution other than $A d S _ { 5 }$ . In this subsection,we will solve it analytically.
+
+First, eliminating $C$ from equations (3.11） and(3.12） gives
+
+$$
+\frac { d B } { d s } = 4 + \frac { 1 1 } { 4 } B ^ { 2 } - \frac { 3 } { 4 } B \sqrt { 4 8 + 3 3 B ^ { 2 } } ,
+$$
+
+which can actually be solved analytically. There are two solutions distinguished by the $\pm$ sign:
+
+$$
+\begin{array} { l } { \displaystyle B _ { \pm } ( s ) = \frac { e ^ { 8 s } \mp 6 \sqrt { \frac { 3 } { 1 1 } } e ^ { 4 s } + 1 } { e ^ { 8 s } - 1 } , } \\ { \displaystyle C _ { \pm } ( s ) = - \frac { e ^ { 8 s } \pm 4 \sqrt { \frac { 3 } { 1 1 } } e ^ { 4 s } - 1 } { e ^ { 8 s } - 1 } , } \end{array}
+$$
+
+whichlead to
+
+$$
+\begin{array} { l } { { b _ { \pm } ( s ) = \tilde { b } _ { 0 } - s \pm \displaystyle \frac { 3 } { 4 } \sqrt { \frac { 3 } { 1 1 } } \log \displaystyle \frac { e ^ { 4 s } + 1 } { e ^ { 4 s } - 1 } + \frac { 1 } { 4 } \log ( e ^ { 8 s } - 1 ) , } } \\ { { c _ { \pm } ( s ) = \tilde { c } _ { 0 } - s \pm \displaystyle \frac { 1 } { 2 } \sqrt { \frac { 3 } { 1 1 } } \log \displaystyle \frac { e ^ { 4 s } + 1 } { e ^ { 4 s } - 1 } . } } \end{array}
+$$
+
+We can choose $\begin{array} { r } { \tilde { h } _ { 0 } = \frac { \tilde { \phi } _ { 0 } } { 2 } } \end{array}$ and $\tilde { b } _ { 0 } = \tilde { c } _ { 0 } = 0$ ; then the metric in the Einstein frame and the dilaton are simply
+
+$$
+\begin{array} { r c l } { { \displaystyle s _ { E } ^ { 2 } } } & { { = } } & { { R ^ { 2 } \Bigg [ \sqrt { \frac { r ^ { 8 } - 1 } { r ^ { 4 } } } \left( \frac { r ^ { 4 } + 1 } { r ^ { 4 } - 1 } \right) ^ { \pm \frac { 1 } { 2 } \sqrt { \frac { 3 } { 1 1 } } } \left( - d t ^ { 2 } + d x ^ { 2 } + d y ^ { 2 } \right) + \sqrt { \frac { r ^ { 8 } - 1 } { r ^ { 4 } } } \left( \frac { r ^ { 4 } + 1 } { r ^ { 4 } - 1 } \right) ^ { \mp \frac { 3 } { 2 } \sqrt { \frac { 1 1 } { 1 2 } } } \left( \frac { r ^ { 4 } + d x ^ { 2 } + d y ^ { 2 } } { r ^ { 4 } - 1 } \right) } } \\ { { } } & { { } } & { { + \displaystyle \frac { d r ^ { 2 } } { r ^ { 2 } } + d s _ { X _ { 5 } } ^ { 2 } \Bigg ] , } } \\ { { } } & { { } } & { { \displaystyle e ^ { \phi } ~ = ~ \left( \frac { r ^ { 4 } + 1 } { r ^ { 4 } - 1 } \right) ^ { \pm 2 \sqrt { \frac { 3 } { 1 1 } } } e ^ { \tilde { \phi } _ { 0 } } , } } \end{array}
+$$
+
+with $R ^ { 2 } = 2 \sqrt { \frac { \pi ^ { 4 } } { \mathrm { V o l } ( X _ { 5 } ) } } N$
+
+Both solutions in (3.28) become $A d S _ { 5 } \times X _ { 5 }$ in the UV fixed point ( $r  \infty$ )； however when going towards the IR, they become singular at $r = 1$ . The solution with “ $+ ^ { \dag \dag }$ (resp.“-"） sign covers $B > 1$ (resp. $B < 1$ ） part of the curve $9 B - 8 C - 8 = \sqrt { 3 3 B ^ { 2 } + 4 8 }$ . Even though these zero temperature solutions become singular ar $r = 1$ , their corresponding black brane solutions at finite temperature are expected to be smooth. An explicit construction of such black brane solutions is left as a future problem. Also it would be very interesting to understand what anisotropic relevant deformations of the ${ \mathcal N } = 4$ Yang-Mills are dual to this background.
+
+# 4Hydrodynamics
+
+As we obtained the black brane solutions (2.27), we can consider the hydrodynamic behavior of their dual field theories from the supergravity side [24]. In this section, we especially determine the shear and bulk viscosities from dispersion relations for the corresponding quasinormal modes of fuctuations around the background (2.27), following [25, 26].
+
+For this purpose, we first reduce $S ^ { 5 }$ part and consider fluctuations around the resulting five-dimensional background. The procedure of the reduction and derivation of the linearized equations of motion for the fluctuations are summarized in Appendix A.8.1. In these equations, fuctuationoftheresulting fivedimensioalmetric $\delta g _ { \mu \nu } ^ { ( 5 ) } = H _ { \mu \nu }$ , dilaton $\delta \phi = \varphi$ ,axion $\delta \chi = \eta$ ， the trace part of the $S ^ { 5 }$ metric $\pi$ and the five-form fux $\delta F _ { 5 } = f _ { 5 }$ appear generally.
+
+In this section,we assume that the $w$ direction is compactified and the neglect the momentum in this direction so that we extract the effective $2 + 1$ dimensional holographic dual theories from the total $3 + 1$ dimensional ones. In this situation we can choose the momentum in $y$ direction. By considering the symmetry of the background, we can decompose the fluctuation into channels decoupled from each other in the linear order:
+
+$$
+\begin{array} { r l r l } & { \mathrm { s h e a r ~ c h a n n e l } \qquad } & & { H _ { t x } , H _ { x y } , H _ { x r } , } \\ & { \mathrm { s c a l a r ~ c h a n n e l } } & & { H _ { x w } , } \\ & { \mathrm { s o u n d ~ c h a n n e l } \qquad } & & { H _ { t t } , H _ { t y } , H _ { t r } , H _ { x x } , H _ { y y } , H _ { y r } , H _ { w w } , H _ { r r } , \varphi , \pi , f _ { t x y w r } , } \\ & { \mathrm { \boldsymbol { a } } _ { \mathrm { a x i o n ~ c h a n n e l } } , \qquad } & & { H _ { t w } , H _ { y w } , H _ { r w } , \eta . } \end{array}
+$$
+
+In this paper, we consider the shear and sound channel only, since we can read off the shear and bulk viscosity from dispersion relations for the quasinormal modes of these channels.
+
+Before deriving the dispersion relation, we need to consider the gauge fixing of the fluctuations.Let us assume that the fluctuations are of the form
+
+$$
+\begin{array} { r c l l } { { H _ { \mu \nu } } } & { { = } } & { { \tilde { H } _ { \mu \nu } ( r ) e ^ { - i ( \omega t - q y ) } , } } & { { \varphi = \varphi ( r ) e ^ { - i ( \omega t - q y ) } , } } \\ { { \eta } } & { { = } } & { { \eta ( r ) e ^ { - i ( \omega t - q y ) } , } } & { { \pi = \pi ( r ) e ^ { - i ( \omega t - q y ) } , } } \\ { { f _ { \mu \nu \rho \sigma \lambda } } } & { { = } } & { { f _ { \mu \nu \rho \sigma \lambda } ( r ) e ^ { - i ( \omega t - q y ) } . } } & { { } } \end{array}
+$$
+
+Especially, for later convenience,we rewrite some of their components as
+
+$$
+\begin{array} { r c l } { { \tilde { H } _ { t t } ( r ) } } & { { = } } & { { \tilde { R ^ { 2 } } c _ { t } ^ { 2 } H _ { t t } ( r ) , \qquad \tilde { H } _ { a b } ( r ) = \tilde { R ^ { 2 } } c _ { x } ^ { 2 } H _ { a b } ( r ) , } } \\ { { \tilde { H } _ { t a } ( r ) } } & { { = } } & { { \tilde { R ^ { 2 } } c _ { x } ^ { 2 } H _ { t a } ( r ) , \qquad \tilde { H } _ { w w } ( r ) = \tilde { R ^ { 2 } } c _ { x } ^ { 4 / 3 } H _ { w w } ( r ) , } } \end{array}
+$$
+
+where $a , b \ = \ x$ or $y$ ，and $c _ { t } ^ { 2 } = r ^ { 2 } F ( r )$ and $c _ { x } ^ { 2 } = r ^ { 2 }$ ； the function $F ( r )$ is defined by (2.28). As in Appendix A.8.1,we then take the radial gauge $H _ { \mu r } = 0$ in the following discussion. Here we notice that there still exist residual gauge degrees of freedom under an infinitesimal diffeomorphism $x ^ { \mu }  x ^ { \mu } + \xi ^ { \mu }$ with $\xi ^ { \mu } = \xi ^ { \mu } ( r ) e ^ { - i ( \omega t - q y ) }$ ：
+
+$$
+\begin{array} { r l } & { H _ { \mu \nu } \to H _ { \mu \nu } - \nabla _ { \mu } \xi _ { \nu } - \nabla _ { \nu } \xi _ { \mu } , \qquad \varphi \to \varphi - \xi _ { \mu } \partial ^ { \mu } \phi , } \\ & { \eta \to \eta - \xi _ { \mu } \partial ^ { \mu } \chi , \qquad \pi \to \pi - \xi _ { \mu } \partial ^ { \mu } g _ { \alpha } ^ { \alpha } . } \end{array}
+$$
+
+Here the covariant derivative is defined by the background metric. In [25], it has been noticed that one can derive the dispersion relation for the quasinormal modes by defining gauge invariant quantities, instead of performing the gauge fixing completely. Following this, we define the gauge invariant quantities as
+
+$$
+Z _ { 1 } ( r ) = q H _ { t x } ( r ) + \omega H _ { x y } ( r ) ,
+$$
+
+for the shear channel and
+
+$$
+\begin{array} { l l } { { Z _ { 0 } ( r ) = q ^ { 2 } { \frac { c _ { t } ^ { 2 } } { c _ { x } ^ { 2 } } } H _ { t t } ( r ) + 2 q \omega H _ { t y } ( r ) + \omega ^ { 2 } H _ { y y } ( r ) + { \frac { 3 } { 5 } } \left( q ^ { 2 } { \frac { c _ { t } ^ { \prime } c _ { t } } { c _ { x } ^ { \prime } c _ { x } } } - \omega ^ { 2 } \right) \left( H _ { x x } ( r ) + H _ { w w } ( r ) \right) , } } \\ { ~ } \\ { { \qquad \quad ( \frac { d } { d \varphi } ( r ) = \varphi ( r ) - \frac { 1 } { 2 } H _ { w w } ( r ) , } } \\ { { Z _ { \pi } ( r ) = \pi ( r ) , } } \end{array}
+$$
+
+for the sound channel. Below, we derive equations for these quantities by using linearized equations of motion summarized in Appendix B and then the dispersion relations for the quasinormal modes by imposing an appropriate boundary condition.
+
+# 4.1 Shear Viscosity
+
+From the equations (B.1),(B.2) and (B.3),we obtain the equation for $Z _ { 1 }$ as
+
+$$
+Z _ { 1 } ^ { \prime \prime } + \frac { 1 4 F ( r ) ( \mathfrak { q } ^ { 2 } F ( r ) - \mathfrak { w } ^ { 2 } ) - 3 \mathfrak { w } ^ { 2 } r F ^ { \prime } ( r ) } { 3 r F ( r ) ( \mathfrak { q } ^ { 2 } F ( r ) - \mathfrak { w } ^ { 2 } ) } Z _ { 1 } ^ { \prime } + \frac { 1 2 1 \mu ^ { \frac 6 1 3 } ( \mathfrak { w } ^ { 2 } - F ( r ) \mathfrak { q } ^ { 2 } ) } { 3 6 r ^ { 4 } ( F ( r ) ) ^ { 2 } } Z _ { 1 } = 0 ,
+$$
+
+where the dimensionless frequency $\mathfrak { w }$ and momentum $\mathfrak { q }$ are defined by
+
+$$
+{ \mathfrak { w } } = { \frac { w } { 2 \pi T _ { H } } } , \quad { \mathfrak { q } } = { \frac { q } { 2 \pi T _ { H } } } ,
+$$
+
+respectively.
+
+In order to solve this equation,we consider the asymptotic behavior of $Z _ { 1 }$ first. As $r \longrightarrow \infty$ ， $Z _ { 1 } \sim A r ^ { 0 } + B r ^ { - { \frac { 1 1 } { 3 } } }$ with constants $A$ ， $B$ generally. For the quasinormal modes, $A$ is set to zero,or,in other words,we should impose the Dirichlet boundary condition $Z _ { 1 } = 0$ at $r = \infty$ ： As $r \to \mu ^ { \frac { 3 } { 1 1 } }$ ， $Z _ { 1 } \sim ( F ( r ) ) ^ { \pm i \mathfrak { w } / 2 }$ and, in order to ensure that only incoming waves exist at the horizon,we take the one with negative sign.
+
+By taking the hydrodynamic limit ${ \mathfrak { q } } \ll 1$ and $\mathfrak { m } \ll 1$ ，we can perturbatively determine $Z _ { 1 }$ as
+
+$$
+Z _ { 1 } = C ( F ( r ) ) ^ { - i \mathfrak { w } / 2 } \left( 1 + \frac { i \mathfrak { q } ^ { 2 } } { 2 \mathfrak { w } } F ( r ) + \mathcal { O } ( \mathfrak { q } ^ { 2 } , \mathfrak { w } ) \right) ,
+$$
+
+where $C$ is a constant. Here we assumed that ${ \mathfrak { q } } ^ { 2 }$ and $\mathfrak { w }$ are of the same order as usual for the shear channel. Then by imposing the Dirichlet condition Z1 =Oat r = Oo,we find m =-. Comparing with the hydrodynamic relation for the shear channel
+
+$$
+\omega = - \frac { i \eta } { T _ { H } s } q ^ { 2 } ,
+$$
+
+we can find that the universal bound for the shear viscosity $\eta$ to the entropy density $s$ ratio [27] is saturated for the current case:
+
+$$
+\frac { \eta } { s } = \frac { 1 } { 4 \pi } .
+$$
+
+# 4.2 Bulk Viscosity
+
+From the equations derived in Appendix B.2,we obtain the differential equations for $Z _ { \varphi }$ ， $Z _ { \pi }$ and $Z _ { 0 }$ as
+
+$$
+\begin{array} { r l } & { Z _ { \varphi } ^ { \prime \prime } + \ln ^ { \prime } ( c _ { t } ^ { 2 } c _ { x } ^ { 8 / 3 } ) Z _ { \varphi } ^ { \prime } + \displaystyle \frac { 1 } { c _ { t } ^ { 2 } } \left( \frac { \omega ^ { 2 } } { c _ { t } ^ { 2 } } - \frac { q ^ { 2 } } { c _ { x } ^ { 2 } } \right) Z _ { \varphi } } \\ & { \qquad - \frac { 4 4 } { 9 c _ { t } ^ { 2 } } Z _ { \varphi } + \frac { 1 1 ( \mu ^ { 3 } - 2 \mu ^ { 2 } r ^ { 1 1 / 3 } + 2 r ^ { 1 1 } ) } { 2 7 r ^ { 2 8 / 3 } ( r ^ { 1 1 / 3 } - \mu ) } Z _ { \pi } = 0 , } \\ & { Z _ { \pi } ^ { \prime \prime } + \ln ^ { \prime } ( c _ { t } ^ { 2 } c _ { x } ^ { 8 / 3 } ) Z _ { \pi } ^ { \prime } + \displaystyle \frac { 1 } { c _ { t } ^ { 2 } } \left( \frac { \omega ^ { 2 } } { c _ { t } ^ { 2 } } - \frac { q ^ { 2 } } { c _ { x } ^ { 2 } } \right) Z _ { \pi } - \frac { 3 2 } { c _ { t } ^ { 2 } } Z _ { \pi } = 0 , } \\ & { Z _ { 0 } ^ { \prime \prime } + \mathcal { F } ( r ) Z _ { 0 } ^ { \prime } + \mathcal { G } ( r ) Z _ { 0 } + \mathcal { H } ( r ) Z _ { \varphi } = 0 , } \end{array}
+$$
+
+where
+
+$$
+\begin{array} { r l } & { \mathcal { F } ( \tau ) = \frac { 8 ! 9 5 \mu ^ { 3 } \delta ^ { 4 } - 3 5 5 4 \zeta \zeta ^ { 2 } - 8 7 \delta ^ { 2 } \tau ^ { 3 } } { 4 \gamma ( \mu - \tau ^ { 1 1 . 7 } \delta ) ( 5 \mu ^ { 2 } - 1 6 \tau ^ { 1 1 . 7 } ) ( \hat { \psi } _ { 2 } ^ { 2 } - \omega ^ { 2 } ) } \Biggr | ^ { 2 } } \\ & { \quad \quad + \frac { - 2 0 2 \mu ^ { 2 } \tau ^ { 2 } ( 1 7 \zeta \eta ^ { 2 } - 1 1 2 \omega ^ { 2 } ) \tau ^ { 5 } \Gamma ^ { 1 1 / 3 } + 3 2 \mu \zeta ( 1 4 9 \mu ^ { 2 } - 2 4 \omega ^ { 2 } ) ( \hat { \psi } _ { 2 } ^ { 2 } - \omega ^ { 2 } ) \tau ^ { 9 / 2 3 } } { 3 \gamma ( \mu - \tau ^ { 1 1 . 7 } \delta ) ( 5 \mu ^ { 2 } - 1 6 \tau ^ { 1 1 . 7 } ) ( \hat { \psi } _ { 2 } ^ { 2 } - \omega ^ { 2 } ) } , } \\ & { \mathcal { G } ( \tau ^ { * } ) = \frac { 3 1 0 2 3 \mu ^ { 4 } \tau ^ { 1 1 / 3 } ( - 3 \mu ^ { 2 } \tau ^ { 2 } ) \tau ^ { 1 6 / 3 } ( 3 8 3 \eta ^ { 4 } ) ^ { 2 } - 1 3 9 6 \mu ^ { 3 } \tau ^ { 2 } ( \hat { \psi } ^ { 2 } - \omega ^ { 2 } ) - 2 3 3 1 4 \tau ^ { 8 / 3 } \hat { \psi } _ { 2 } ^ { 2 } ( \hat { \psi } ^ { 2 } - \omega ^ { 2 } ) ^ { 3 } } { 9 \tau ^ { 2 } ( \mu - \tau ^ { 1 1 . 7 } ) ^ { 3 / 3 } ( 5 \mu ^ { 2 } - 1 6 \tau ^ { 1 1 . 7 } ( \hat { \psi } _ { 2 } ^ { 2 } - \omega ^ { 2 } ) ) } } \\ &  \quad \quad + \frac { 3 7 4 1 2 \mu ^ { 5 } \eta ^ { 2 } ( \frac { \eta ^ { 2 } } { 2 } - \omega ^ { 2 } ) + 5 \mu ^ { 3 } \eta ^ { 2 } \tau ^ { 5 / 3 } ( 3 \mu ^ { 2 } \eta ^ { 4 } - 2 5 4 \tau ^ { 1 1 } ) \tau ^ { 2 } + 1 3 9 6 \tau ^ { 2 } } \\ &  \mathcal { H } ( \tau ) = - \frac { 7 2 ( 1 5 3 6 \tau ^ { 1 1 } ( \frac { \eta ^ { 2 } } { 2 } - \omega ^ { 2 } ) ^ { 3 } - 1 4 0 6 \tau ^ { 2 / 3 } ) \tau ^ { 2 } }  4 \gamma ^ { 2 } ( \mu - \tau ^  1 \end{array}
+$$
+
+Then,as in the case of the shear channel,all we have to do next is to solve these equations by imposing the incoming wave boundary condition at the horizon and the Dirichlet boundary condition at infnity to derive the dispersion relation for the quasinormal mode of the sound channel. We also take the hydrodynamic limit and assume that $\mathfrak { q }$ and $\mathfrak { w }$ are of the same order, as is expected for the sound channel. For $Z _ { \pi } = 0$ ，we can see that the nonsingular solution for (4.20) is a constant,which turns out to be zero due to the Dirichlet boundary condition $Z _ { \pi } = 0$ （204号 at the boundary $r = \infty$ . By substituting this into (4.19),we obtain $Z _ { \varphi } = 0$ in a similar manner. Then from these results and (4.21), by using a similar ansatz $Z _ { 0 } = ( F ( r ) ) ^ { - i { \mathfrak { w } } / 2 } Y _ { 0 } ( r )$ ，we can perturbatively determine $Z _ { 0 }$ as
+
+$$
+Z _ { 0 } = \tilde { C } ( F ( r ) ) ^ { - i \mathfrak { w } / 2 } \left( 1 - \frac { 5 ( 1 + 2 i \mathfrak { w } ) \mathfrak { q } ^ { 2 } } { 1 1 \mathfrak { q } ^ { 2 } - 1 6 \mathfrak { w } ^ { 2 } } F ( r ) + \mathcal { O } ( \mathfrak { q } ^ { 2 } , \mathfrak { w } ^ { 2 } , \mathfrak { q } \mathfrak { w } ) \right) ,
+$$
+
+where $\tilde { C }$ is a normalization constant.As a result of the Dirichlet boundary condition $Z _ { 0 } = 0$ at （20 $r = \infty$ ，weobtain the dispersion relation for the sound channel
+
+$$
+{ \mathfrak { w } } = { \frac { 1 } { 2 } } { \sqrt { \frac { 3 } { 2 } } } { \mathfrak { q } } - i { \frac { 5 } { 1 6 } } { \mathfrak { q } } ^ { 2 } + \cdots .
+$$
+
+Let us recall a hydrodynamic relation for the sound channel in the noncompact $( d \small { + } 1 )$ -dimensional spacetime
+
+$$
+\omega = c _ { s } q - i \frac { \eta } { T _ { H } s } \left( \frac { d - 1 } { d } + \frac { \zeta } { 2 \eta } \right) q ^ { 2 } + \cdot \cdot \cdot ,
+$$
+
+where $c _ { s }$ and $\zeta$ are the sound velocity and the bulk viscosity， respectively. Since there are two noncompact spatial dimensions for the dual field theory now, $d = 2$ for the current case. Therefore,by comparing（4.26） with（4.27） with $d = 2$ ，we obtain
+
+$$
+c _ { s } ^ { 2 } = { \frac { 3 } { 8 } } , \qquad { \frac { \zeta } { \eta } } = { \frac { 1 } { 4 } } .
+$$
+
+As for $\zeta / \eta$ and $c _ { s }$ of strongly coupled gauge theory plasma in $d$ noncompact spatial dimensions, it is conjectured in [28] that they satisfy an inequality
+
+$$
+{ \frac { \zeta } { \eta } } \geq 2 \left( { \frac { 1 } { d } } - c _ { s } ^ { 2 } \right) .
+$$
+
+In our case, this inequality is saturated.
+
+# 5 Entanglement Entropy of D3-D7 Scaling Solutions
+
+When a quantum system is divided into two subsystems: $A$ and its complement $B$ ，the von Neumann entropy $S _ { A } = - \mathrm { T r } \rho _ { A } \log \rho _ { A }$ (where $\rho _ { A }$ is the reduced density matrix after tracing out （204号 $B$ ) is called the entanglement entropy. The scaling behaviors and certain universa $^ { 1 0 }$ coefficients of the entanglement entropy encode important information on the degrees of freedom and nonlocal correlations of the system [29, 30].
+
+For an anisotropic system,an interesting question is “how does the scaling behavior of the entanglement entropy depend on the direction along which the subsystems are delineated?” In this section，we will study the entanglement entropy of various subsystems $A$ of the $( x , y , w )$ space at the boundary ( $r \longrightarrow \infty$ )of the 5D part of the D3-D7 scaling solution (2.18). The field theoretical computation of the entanglement entropy is expected to be diffcult as the system will be strongly coupled. We will instead compute its holographic dual on the gravity side. The holographic dual of the entanglement entropy of a subsystem $A$ is given by
+
+$$
+S _ { E E } = \frac { \mathrm { A r e a } ^ { m i n } } { 4 G _ { 5 } } ,
+$$
+
+where $\mathrm { A r e a } ^ { m i n }$ is the area of the three-dimensional minimal surface that lives inside the $( r , x , y , w )$ space and borders on the boundary $\partial A$ of the subsystem $A$ [31].
+
+After a coordinate transformation $\textstyle r = { \frac { 1 } { z } }$ ， the metric of the D3-D7 scaling solution (2. becomes
+
+$$
+d s ^ { 2 } = \tilde { R } ^ { 2 } \left( \frac { - d t ^ { 2 } + d x ^ { 2 } + d y ^ { 2 } + d z ^ { 2 } } { z ^ { 2 } } + \frac { d w ^ { 2 } } { z ^ { 4 / 3 } } \right) + R ^ { 2 } d s _ { X _ { 5 } } ^ { 2 } .
+$$
+
+For $X _ { 5 } = S ^ { 5 }$ ， $R ^ { 2 } = 2 \sqrt { \pi N }$ and $\begin{array} { r } { \tilde { R } ^ { 2 } = \frac { 1 1 } { 1 2 } R ^ { 2 } } \end{array}$ . We consider the fullboundary system given by
+
+$$
+x \in [ 0 , L _ { x } ] , \qquad y \in [ 0 , L _ { y } ] , \qquad w \in [ 0 , L _ { w } ] .
+$$
+
+Among the various types of subsystems,we will only study the easiest types: stripes with either （204号 $x$ or (inequivalently) $w$ restricted to a smaller length.
+
+# 5.1 Entanglement Entropy for Subsystem along $x$ -direction
+
+Let's first consider the subsystem $A$ cut out along the x-direction:
+
+$$
+x \in [ 0 , \ell _ { x } < L _ { x } ] , \qquad y \in [ 0 , L _ { y } ] , \qquad w \in [ 0 , L _ { w } ] .
+$$
+
+The three-dimensional minimal surface bordering on $\partial A$ is given by the embedding function （204号 $z = z ( x )$
+
+$$
+\mathtt { A r e a } _ { x } ^ { m i n } = \int _ { 0 } ^ { \ell _ { x } } d x \int _ { 0 } ^ { L _ { y } } d y \int _ { 0 } ^ { L _ { w } } d w \frac { \tilde { R } } { z } \cdot \frac { \tilde { R } } { z ^ { 2 / 3 } } \cdot \sqrt { \overline { { \left( \frac { \tilde { R } } { z } \right) ^ { 2 } + \left( \frac { \tilde { R } } { z } z ^ { \prime } \right) ^ { 2 } } } } = \bar { R } ^ { 3 } L _ { y } L _ { w } \int _ { 0 } ^ { \ell _ { x } } d x \frac { 1 } { z ^ { \alpha } } \cdot x ^ { \beta } \overline { { \left( \frac { \tilde { R } } { z } \right) ^ { 2 } } } .
+$$
+
+where $\begin{array} { r } { d = 1 + 1 + \frac { 2 } { 3 } = \frac { 8 } { 3 } } \end{array}$ is the total scaling of the boundary system.
+
+This is a Lagrangian system with $\begin{array} { r } { \mathcal { L } = \tilde { R } ^ { 3 } L _ { y } L _ { w } \frac { 1 } { z ^ { d } } \sqrt { 1 + z ^ { \prime 2 } } } \end{array}$ The $z ( x )$ that minimizes the surface area is then given by the equation of motion
+
+$$
+z ^ { \prime } = \pm \sqrt { \left( \frac { z _ { * } } { z } \right) ^ { 2 d } - 1 } ,
+$$
+
+where $z _ { * }$ is the peak of $z$ on the minimal surface,across which $z ^ { \prime }$ changes sign. It can be solved from $\begin{array} { r } { \ell _ { x } = 2 \int _ { 0 } ^ { z _ { * } } \frac { d z } { z ^ { \prime } } } \end{array}$ ， which gives $\begin{array} { r } { z _ { * } = \frac { \ell _ { x } } { 2 } \frac { \Gamma ( \frac { 1 } { 2 d } ) } { \sqrt { \pi } \Gamma ( \frac { 1 } { 2 d } + \frac { 1 } { 2 } ) } } \end{array}$ 14号 The minimal surface is then
+
+$$
+\mathrm { A r e a } _ { x } ^ { m i n } = 2 \tilde { R } ^ { 3 } L _ { y } L _ { w } \frac { 1 } { z _ { * } ^ { d - 1 } } \cdot I n \qquad \mathrm { w i t h } \qquad I n \equiv \int _ { 0 } ^ { 1 } d u \frac { 1 } { u ^ { d } } \frac { 1 } { \sqrt { 1 - u ^ { 2 d } } } .
+$$
+
+$I n$ has a UV divergence at $z  0$ . Imposing the UV cutoff by choosing the lattice spacing （204号 $a$ for the boundary system, we get
+
+$$
+I n = \frac { 1 } { d - 1 } \left( \frac { 1 } { ( a / z _ { * } ) ^ { d - 1 } } - \frac { \sqrt { \pi } \Gamma ( \frac { 1 } { 2 d } + \frac { 1 } { 2 } ) } { \Gamma ( \frac { 1 } { 2 d } ) } \right) .
+$$
+
+Then plugging the value of $z _ { * }$ and the five-dimensional Newton's constant $\begin{array} { r } { G _ { 5 } \ = \ \frac { G _ { 1 0 } } { V _ { X _ { 5 } } } } \end{array}$ with $G _ { 1 0 } = 8 \pi ^ { 6 } \ell _ { s } ^ { 8 }$ , we finally obtain the holographic entanglement entropy for the subsystem divided out along the $\mathbf { X }$ -direction:
+
+$$
+\begin{array} { r c l } { { S _ { E E - x } } } & { { = } } & { { \displaystyle \left( \frac { 1 1 } { 1 2 } \right) ^ { 3 } \frac { \pi ^ { 2 } } { \mathrm { V o l } ( X _ { 5 } ) } \cdot N ^ { 2 } L _ { y } L _ { w } \frac { 1 } { d - 1 } \left[ \frac { 1 } { a ^ { d - 1 } } - \left( \frac { 2 } { \ell _ { x } } \right) ^ { d - 1 } \left( \frac { \sqrt { \pi } \Gamma ( \frac { 1 + d } { 2 d } ) } { \Gamma ( \frac { 1 } { 2 d } ) } \right) ^ { d } \right] } } \\ { { } } & { { } } & { { = } } & { { \displaystyle N ^ { 2 } L _ { y } L _ { w } \left[ \frac { \gamma _ { 1 } } { a ^ { 5 / 3 } } - \frac { \gamma _ { 2 } } { ( \ell _ { x } ) ^ { 5 / 3 } } \right] , } } \end{array}
+$$
+
+with $\begin{array} { r } { d = \frac { 8 } { 3 } } \end{array}$ ： $\gamma _ { 1 }$ and $\gamma _ { 2 }$ are numerical constants.
+
+Now let's interpret the result. First, the holographic entanglement entropy is proportional to the area of the boundary of the subsystem $\partial A = L _ { y } L _ { w }$ — as expected from the “area law” [29] for the entanglement entropy from direct field theory computations. Second, the first term of the holographic entanglement entropy diverges and is cutoff-dependent. The scaling of $a$ is given by the total scalings of the $y$ and $w$ directions relative to that of the $t$ -direction: $\begin{array} { r } { ( 1 + \frac { 2 } { 3 } ) / 1 = \frac { 5 } { 3 } } \end{array}$
+
+The second, finite term of the holographic entanglement entropy is more interesting: it is cutoff-independent therefore can be compared with the field theoretic computation of the entanglement entropy. Its coefficient $\gamma _ { 2 }$ gives a measure of the total degrees of freedom. The scaling of $\ell _ { x }$ is simply the total scalings of the $y$ and $w$ directions relative to that of the $x$ direction: $( 1 + { \textstyle { \frac { 2 } { 3 } } } ) / 1 \ = \ { \frac { 5 } { 3 } }$ . Since the scaling of the $x$ -direction is the same as that of the $t$ -direction, the exponents of $a$ and $\ell _ { x }$ are the same.
+
+# 5.2 Entanglement Entropy for Subsystem along $w$ -direction
+
+The next easiest subsystem we can consider is to divide along the $w$ -direction:
+
+$$
+w \in [ 0 , \ell _ { w } < L _ { w } ] .
+$$
+
+The three-dimensional minimal surface bordering on $\partial A$ is given by the embedding function $z = z ( w )$ ：
+
+$$
+\mathrm { A r e a } _ { w } ^ { m i n } = \tilde { R } ^ { 3 } L _ { x } L _ { y } \int _ { 0 } ^ { \ell _ { w } } d w \frac { 1 } { z ^ { 3 } } \sqrt { z ^ { 2 / 3 } + z ^ { \prime 2 } } .
+$$
+
+Then we could follow the line of the previous subsystem along the $x$ -direction.The computation is straightforward but more complicated so we present here instead a simpler route which utilizes the result for the $x$ -direction subsystem.
+
+The coordinate transformation
+
+$$
+z = \tilde { z } ^ { \frac { 3 } { 2 } } , \qquad ( t , x , y , w ) = { \frac { 3 } { 2 } } ( \tilde { t } , \tilde { x } , \tilde { y } , \tilde { w } ) ,
+$$
+
+results in the metric
+
+$$
+d s ^ { 2 } = \left( { \frac { 3 } { 2 } } \tilde { R } \right) ^ { 2 } \left( \frac { - d \tilde { t } ^ { 2 } + d \tilde { x } ^ { 2 } + d \tilde { y } ^ { 2 } } { \tilde { z } ^ { 3 } } + \frac { d \tilde { z } ^ { 2 } } { \tilde { z } ^ { 2 } } + \frac { d \tilde { w } ^ { 2 } } { \tilde { z } ^ { 2 } } \right) + R ^ { 2 } d s _ { X _ { 5 } } ^ { 2 } .
+$$
+
+Thus we can simply use the result from the $x$ -direction case, with $\begin{array} { r } { d = \frac { 8 } { 3 } } \end{array}$ replaced by $d _ { w } = 4$ First, we write down the dictionary between values in the original coordinates and the new one.
+
+1. In the new coordinates,the full boundary system is
+
+$$
+\tilde { x } \in [ 0 , \frac 2 3 L _ { x } ] , \qquad \tilde { y } \in [ 0 , \frac 2 3 L _ { y } ] , \qquad \tilde { w } \in [ 0 , \frac 2 3 L _ { w } ] ,
+$$
+
+while the subsystem $A$ is
+
+$$
+\tilde { x } \in [ 0 , \frac 2 3 L _ { x } ] , \qquad \tilde { y } \in [ 0 , \frac 2 3 L _ { y } ] , \qquad \tilde { w } \in [ 0 , \frac 2 3 \ell _ { w } < \frac 2 3 L _ { w } ] .
+$$
+
+2. The lattice spacing in the new coordinates is related to that in the old coordinates by
+
+$$
+\tilde { a } = a ^ { \frac { 2 } { 3 } } .
+$$
+
+3. The turning point of $z$ is $\tilde { z } _ { \ast } = { \textstyle \frac { 2 } { 3 } } z _ { \ast }$
+
+Using the result from the $x$ -direction case, we find the minimal surface in the new coordinates to be
+
+$$
+\begin{array} { r l r } { A r e a ^ { m i n } } & { = } & { 3 \tilde { R } ^ { 3 } L _ { x } L _ { y } \frac { 1 } { d _ { w } - 1 } \left[ \frac { 1 } { \tilde { a } ^ { d _ { w } - 1 } } - \frac { 1 } { \tilde { z } _ { * } ^ { d _ { w } - 1 } } \frac { \sqrt { \pi } \Gamma ( \frac { 1 } { 2 d _ { w } } + \frac { 1 } { 2 } ) } { \Gamma ( \frac { 1 } { 2 d _ { w } } ) } \right] . } \end{array}
+$$
+
+After translated back into the original coordinates,it gives the entanglement entropy of subsystem along the $w$ -direction
+
+$$
+\begin{array} { r c l } { { \mathrm { z - } w } } & { { = } } & { { \displaystyle \left( \frac { 1 1 } { 1 2 } \right) ^ { 3 } \frac { \pi ^ { 2 } } { \mathrm { V o l } \left( X _ { 5 } \right) } \cdot N ^ { 2 } L _ { x } L _ { y } \frac { 1 } { D - 1 } \left[ \frac { 1 } { a ^ { D - 1 } } - \left( \frac { 3 } { 2 } \right) ^ { d _ { w } - 1 } \left( \frac { 2 } { \ell _ { w } } \right) ^ { d _ { w } - 1 } \left( \frac { \sqrt { \pi } \Gamma ( \frac { 1 } { 2 d _ { w } } ) } { \Gamma \left( \frac { 1 } { 2 d _ { w } } \right) ^ { 3 } } \right) \right] \frac { \mathrm { y } } { \mathrm { z } ^ { 2 } } } } \\ { { } } & { { = } } & { { \displaystyle N ^ { 2 } L _ { x } L _ { y } \left[ \frac { \gamma _ { 1 } ^ { \prime } } { a ^ { 2 } } - \frac { \gamma _ { 2 } ^ { \prime } } { \left( \ell _ { w } \right) ^ { 3 } } \right] , } } \end{array}
+$$
+
+where $\begin{array} { r } { D - 1 \equiv \frac { 2 ( d _ { w } - 1 ) } { 3 } = 2 } \end{array}$ .The negativefnite part has the sameformas the result for the subsystem divided along the $x$ direction with $\begin{array} { r } { d = \frac { 8 } { 3 } } \end{array}$ replaced by $d _ { w } = 4$ .11
+
+Now let's compare this result with the one for the subsystem along the $x$ -direction. The essential features are the same. It is proportional to the boundary area $L _ { x } L _ { y }$ . There are one cut-off dependent, divergent term and one cut-off independent, finite term. The scaling of the cutoff $a$ is given by the total scalings of the $x$ and $y$ directions relative to that of the $t$ -direction: $( 1 + 1 ) / 1 = 2$ . The scaling of the $\ell _ { w }$ is given by the total scalings of the $x$ and $y$ directions relative to that of the $w$ -direction: $( 1 + 1 ) / ( 2 / 3 ) = 3$ . Unlike the case for the subsystem along the $x$ -direction, since the scaling of the $w$ -direction is different from that of the $t$ -direction,the exponents of $a$ and $\ell _ { w }$ are different.
+
+# 6 Perturbative Analysis
+
+In order to know the details of the holographic dual field theories, a basic thing to do is to analyze the perturbative spectra around their supergravity solutions. This offers us the information on scale dimensions [2, 3]. For example,scalar perturbations are dual to scalar operators $\mathcal { O } _ { i }$ in the dual field theory. These perturbative modes in supergravity are described by Klein-Gordon equations with various masses in the curved spacetime. Since we have the nontrivial dilaton in our D3-D7 scaling solutions (2.18),it is not clear a priori whether the Klein-Gordon equation should be obtained from the string frame metric or the Einstein frame metric. Actually our scaling property (2.20) of the gravity solutions is only available in the Einstein frame.Also the study of the perturbative spectrum is necessary to determine the stability of the background. Motivated by these, below we will examine the perturbations around our scaling backgrounds (2.18).
+
+# 6.1 Description ofPerturbations
+
+Let us analyze the perturbations of bosonic fields around the D3-D7 scaling solutions defined by (2.18), (2.17),(2.10) and (2.11) in the Einstein frame .We will closely follow the analysis of $A d S _ { 5 } \times S ^ { 5 }$ in [32,33]. We will denote the total ten-dimensional coordinates by $M , N , \ldots = 0 , 1 , 2 , \cdots$ （20 $\cdot , 9$ .The five-dimensional Lorentzian spacetime (called $M _ { 5 }$ ）is described by the coordinate $\mu , \nu , \cdot \cdot \cdot = 0 , 1 , 2 , 3 , 4$ and the five-dimensional compact manifold $X _ { 5 }$ by $\alpha , \beta , \cdot \cdot \cdot = 5 , 6 , 7 , 8 , 9$ ：
+
+As is clear from the IB supergravity action in our background, the 3-form fluxes $F _ { 3 }$ and $H _ { 3 }$ are decoupled from the other fields (i.e. the metric,the dilaton, $F _ { 5 }$ ，and $F _ { 1 }$ ） thus we can concentrate on the latter ones. Then the Lagrangian in the Einstein frame is written as follows
+
+$$
+\mathcal { L } = \sqrt { - g } \left( R - \frac { 1 } { 2 } e ^ { 2 \phi } \partial _ { M } \chi \partial ^ { M } \chi - \frac { 1 } { 2 } \partial _ { M } \phi \partial ^ { M } \phi - \frac { 1 } { 4 \cdot 5 ! } F _ { M N P Q R } F ^ { M N P Q R } \right) .
+$$
+
+To make analysis more tractable, let us assume $X _ { 5 } = S ^ { 5 }$ here. Then we can define the scalar, vector, tracelessymmetric, and antisymmetric spherical harmonics on $S ^ { 5 }$ by $Y ^ { I }$ ， $Y _ { \alpha } ^ { I }$ ， (aβ),and $Y _ { [ \alpha \beta ] } ^ { I }$ , respectively [32]. Using these spherical harmonics,the metric perturbations $\delta g _ { M N } = h _ { M N }$ can be decomposed as follows [32]
+
+$$
+h _ { ( \mu \nu ) } = h _ { ( \mu \nu ) } ^ { I } Y ^ { I } , \quad h _ { \mu } ^ { \mu } = h ^ { I } Y ^ { I } , \quad h _ { \mu \alpha } = B _ { \mu } ^ { I } Y _ { \alpha } ^ { I } , \quad h _ { ( \alpha \beta ) } = \phi ^ { I } Y _ { ( \alpha \beta ) } ^ { I } , \quad h _ { \alpha } ^ { \alpha } = \pi ^ { I } Y ^ { I } ,
+$$
+
+where $( \alpha \beta )$ denotes the traceless symmetric part. We also denoted all indices of the spherical harmonics simply by $I$ . We fix the gauge by requiring
+
+$$
+\nabla ^ { \alpha } h _ { ( \alpha \beta ) } = \nabla ^ { \alpha } h _ { \mu \alpha } = 0 .
+$$
+
+The perturbations of the dilaton and axion are defined as follows:
+
+$$
+\delta \phi = \varphi ^ { I } Y ^ { I } , \delta \chi = \eta ^ { I } Y ^ { I } .
+$$
+
+Finally, the perturbation of the 5-form flux $F _ { 5 } = d C _ { 4 }$ can be express as follows [32]:
+
+$$
+\begin{array} { r l } & { C _ { \mu _ { 1 } \mu _ { 2 } \mu _ { 3 } \mu _ { 4 } } = b _ { \mu _ { 1 } \mu _ { 2 } \mu _ { 3 } \mu _ { 4 } } ^ { I } Y ^ { I } , \quad C _ { \mu _ { 1 } \mu _ { 2 } \mu _ { 3 } \alpha } = b _ { \mu _ { 1 } \mu _ { 2 } \mu _ { 3 } } ^ { I } Y _ { \alpha } ^ { I } , \quad C _ { \mu _ { 1 } \mu _ { 2 } \alpha _ { 1 } \alpha _ { 2 } } = b _ { \mu _ { 1 } \mu _ { 2 } } ^ { I } Y _ { [ \alpha _ { 1 } \alpha _ { 2 } ] } ^ { I } , } \\ & { C _ { \mu \alpha _ { 1 } \alpha _ { 2 } \alpha _ { 3 } } = b _ { \mu } ^ { I } \epsilon _ { \alpha _ { 1 } \alpha _ { 2 } \alpha _ { 3 } } ^ { \beta _ { 1 } \beta _ { 2 } } \nabla _ { \beta _ { 1 } } Y _ { \beta _ { 2 } } ^ { I } , \quad C _ { \alpha _ { 1 } \alpha _ { 2 } \alpha _ { 3 } \alpha _ { 4 } } = b ^ { I } \epsilon _ { \alpha _ { 1 } \alpha _ { 2 } \alpha _ { 3 } \alpha _ { 4 } } ^ { \beta _ { 1 } } \nabla _ { \beta } Y ^ { I } . } \end{array}
+$$
+
+They satisfy the gauge fixing condition $\nabla ^ { \alpha } C _ { \alpha \cdots } = 0$ ， and the self-duality of $F _ { 5 }$ allows us to eliminate μ1μ2μ3μ4 and bl $b _ { \mu _ { 1 } \mu _ { 2 } \mu _ { 3 } } ^ { I }$ ·
+
+Next we substitute (6.2), (6.4),and (6.5) into equations of motion of (6.1) and derive the perturbative differential equations. We omit the details of analysis here and put them in Appendix A as many parts of the calculations are essentially the same as those in [32].
+
+In the end, we find that the following modes
+
+$$
+\begin{array} { l } { { \mathrm { S c a l a r ~ m o d e s : } \phi ^ { I } , \ ( h ^ { I } , \pi ^ { I } , b ^ { I } ) , } } \\ { { \mathrm { V e c t o r ~ m o d e s : } ( B _ { \mu } ^ { I } , b _ { \mu } ^ { I } ) , } } \\ { { \mathrm { T e n s o r ~ m o d e s : } b _ { \mu \nu } ^ { I } , } } \end{array}
+$$
+
+satisfy free massive field equations which are precisely the same expressions as those in the $A d S _ { 5 } \times S ^ { 5 }$ background.12 In the above, the fields in the same parenthesis mix with each other. Therefore,these perturbations (6.6) obey free feld equations of motion constructed from the Einstein frame metric (2.18) instead of the string frame metric.
+
+As an example, let us concentrate on the scalar mode $\phi ^ { I }$ . Its equation of motion is written as
+
+$$
+\left( \bigtriangledown _ { x } + \bigtriangledown _ { y } - \frac { 2 } { R ^ { 2 } } \right) \phi ^ { I } Y _ { ( \alpha \beta ) } ^ { I } = 0 ,
+$$
+
+where $\sqsubseteq _ { x }$ and $\Pi _ { y }$ are the Laplacians of the Lorentzian part $M _ { 5 }$ and the sphere part $S ^ { 5 }$ ，respectively. Using the eigenvalues of $Y _ { ( \alpha \beta ) } ^ { I }$ ， we eventually obtain13
+
+$$
+\left( \bigtriangledown _ { x } - \frac { k ( k + 4 ) } { R ^ { 2 } } \right) \phi ^ { I } = 0 , \quad ( k = 2 , 3 , 4 , \cdot \cdot \cdot ) .
+$$
+
+On the other hands, the other modes $\varphi ^ { I }$ ， $\eta ^ { I }$ ,and $h _ { \mu \nu }$ mix with each other and obey equations of motion more complicated than those in the $A d S _ { 5 } \times S ^ { 5 }$ case (see Appendix A).
+
+# 6.2 Scaling Dimensions and Stability
+
+We have observed that a large class of supergravity modes (6.6), though not all of them, satisfy the conventional free field equations with various masses via the Kaluza-Klein compactification
+
+on $S ^ { 5 }$ . The scalar modes in (6.6) satisfy the equations of motion of the form (we denote such a scalar field by $\Phi$ here)
+
+$$
+\begin{array} { r } { \left( \fbox { \prod _ { x } } - m ^ { 2 } \right) \Phi = 0 , } \end{array}
+$$
+
+where the Laplacian $\begin{array} { r } { \boxed { \ d I _ { x } } = g ^ { \mu \nu } \nabla _ { \mu } \nabla _ { \nu } } \end{array}$ is constructed from the Einstein frame metric (2.18)
+
+Now let us consider a scalar field $\Phi$ on a slightly generalized scaling background
+
+$$
+d s ^ { 2 } = \tilde { R } ^ { 2 } \left( \frac { d z ^ { 2 } } { z ^ { 2 } } + \frac { - d t ^ { 2 } + d x ^ { 2 } + d y ^ { 2 } } { z ^ { 2 } } + \frac { d w ^ { 2 } } { z ^ { 2 \nu } } \right) ,
+$$
+
+where the scaling exponent $\nu$ is related to the scaling exponent $z$ in (1.4) by $\textstyle \nu = { \frac { 1 } { z } }$ .Especially, our scaling background (2.18） corresponds to $\textstyle \nu = { \frac { 2 } { 3 } }$ . The equation of motion (6.9) is written as follows:
+
+$$
+- \Phi ^ { \prime \prime } + \frac { \nu + 2 } { z } \Phi ^ { \prime } + \left( \frac { m ^ { 2 } \tilde { R } ^ { 2 } } { z ^ { 2 } } + p ^ { 2 } - \omega ^ { 2 } + p _ { w } ^ { 2 } ~ z ^ { 2 ( \nu - 1 ) } \right) \Phi = 0 .
+$$
+
+Here $\omega$ ， $p$ ，and $p _ { w }$ are the frequency, the momenta in $( x , y )$ and $w$ -direction，respectively.
+
+After redefining the wave function by $\Phi ( z ) ~ = ~ z ^ { \frac { \nu + 2 } { 2 } } \Psi ( z )$ ， we obtain the Schrodinger-like equation
+
+$$
+- \Psi ^ { \prime \prime } + V ( z ) \Psi = \omega ^ { 2 } \Psi ,
+$$
+
+where
+
+$$
+V ( z ) = \frac { m ^ { 2 } \tilde { R } ^ { 2 } + \frac { ( 3 + \nu ) ^ { 2 } - 1 } { 4 } } { z ^ { 2 } } + p ^ { 2 } + p _ { w } ^ { 2 } \ z ^ { 2 ( \nu - 1 ) } .
+$$
+
+When $z$ is small, the third term in (6.13) is small compared to the first term,assuming $\nu > 0$ Thus,as in the AdS/CFT case (i.e. $\nu = 1$ )，we can expect $^ { 1 4 }$ that the stability against the (normalizable） perturbations is the same as that of Schrodinger problem with the potential $\begin{array} { r } { V ( z ) = \frac { \lambda - \frac { 1 } { 4 } } { z ^ { 2 } } } \end{array}$ .Itisell $\lambda \geq 0$ ：
+
+In this way, we speculate that in the background (6.1O), the stability condition requires
+
+$$
+m ^ { 2 } \tilde { R } ^ { 2 } \ge - \frac { ( 3 + \nu ) ^ { 2 } } { 4 } .
+$$
+
+Notice that if we set $\nu = 1$ in (6.14), we obtain $m ^ { 2 } \tilde { R } ^ { 2 } \ge - 4$ , which is the well-known BreitenlohnerFreedman (BF） bound of $A d S _ { 5 }$
+
+This condition can equally be implied from the behavior of the scalar field near the boundary $z \longrightarrow 0$ （
+
+$$
+\phi ( z ) \sim A z ^ { \Delta _ { + } } + B z ^ { \Delta _ { - } } + \cdot \cdot \cdot ,
+$$
+
+where
+
+$$
+\Delta _ { \pm } = \frac { \nu + 3 } { 2 } \pm \sqrt { \frac { ( \nu + 3 ) ^ { 2 } } { 4 } + m ^ { 2 } \tilde { R } ^ { 2 } } .
+$$
+
+The quantity $\Delta _ { \pm }$ is holographically interpreted as the scaling dimension in the dual anisotropic scale invariant theory. Notice that the condition (6.14） requires that the scaling dimension should be real-valued.
+
+Now let us go back to our D3-D7 scaling solutions (2.18). In this case we obtain the stability condition by setting $\nu = 2 / 3$ and $\textstyle R ^ { 2 } = { \frac { 1 1 } { 1 2 } } { \tilde { R } } ^ { 2 }$ as follows
+
+$$
+m ^ { 2 } R ^ { 2 } \geq - \frac { 1 1 } { 3 } .
+$$
+
+We can apply this condition to the scalar modes in (6.6). As is clear from (6.8), all the scalar modes $\phi ^ { I }$ satisfy this condition. However, we find that one of the infinitely many mixed modes of $( h ^ { I } , \pi ^ { I } , b ^ { I } )$ actually has the largest tachyonic mass $m ^ { 2 } R ^ { 2 } = - 4$ , which saturates the BF bound of $A d S _ { 5 }$ . This occurs only for the second spherical harmonics $k = 2$ . Even though this tachyonic mode is stable in the $A d S _ { 5 }$ spacetime, it seems to become an unstable mode in our D3-D7 scaling background as (6.17） is violated.15
+
+Nevertheless, we can replace $S ^ { 5 }$ with an arbitrary Einstein manifolds $X _ { 5 }$ with the same Ricci curvature,keeping the same scaling solution (2.18). Define the eigenvalues $\Lambda$ of Laplacian of a scalar function $Y$ such that $- R ^ { 2 } \boldsymbol { \bigsqcup } _ { y } Y = \Lambda Y$ . In this case,if
+
+$$
+\frac { \Lambda } { 1 6 } + 1 - \sqrt { \frac { \Lambda } { 4 } + 1 } \geq - \frac { 1 1 } { 4 8 } ,
+$$
+
+is always satisfied,then the above lowest mass mode becomes stable. In other words,if there is no eigenvalue between
+
+$$
+\frac { 3 7 - 8 \sqrt { 3 } } { 3 } ( \simeq 7 . 7 1 ) < \Lambda < \frac { 3 7 + 8 \sqrt { 3 } } { 3 } ( \simeq 1 6 . 9 5 ) ,
+$$
+
+then the background can be perturbatively stable. Notice that $\Lambda = 1 2$ saturates the BF bound and it is the unstable mode when $X _ { 5 } = S ^ { 5 }$ . It is intriguing whether there exists such a stable (Sasaki-)Einstein manifold.
+
+# 7 D4-D6 Scaling Solutions
+
+In type IIA string, the closest analogue to the previous D3-D7 system is the following D4-D6 system:
+
+$$
+\begin{array}{c} \frac { \mathcal { M } _ { 4 } \times T ^ { 2 } \times X _ { 4 } : } { N \mathrm { ~ D 4 : } } | \begin{array} { c c c c } { t } & { x } & { y } & { r } \\ { \times } & { \times } & { \times } & { } \\ { \times } & { \times } & { \times } & { } \end{array} | | \begin{array} { c c c c } { w _ { 1 } } & { w _ { 2 } } \end{array} | s _ { 1 }  & { s _ { 2 } } & { s _ { 3 } } & { s _ { 4 } } \\ { \times } & { \times } & { } & { } \\ { \times } & { \times } & { \times } & { } \end{array} |
+$$
+
+Here $( w _ { 1 } , w _ { 2 } )$ span a two-manifold that supports the D6 flux (we will choose it to be $T ^ { 2 }$ for simplicity） and $( s _ { 1 } , s _ { 2 } , s _ { 3 } , s _ { 4 } )$ span a four-dimensional Einstein manifold $X _ { 4 }$ with the same Ricci curvature as that of $S ^ { 4 }$ . However, as we will see, this system does not support a scaling-invariant solutions. In this section, we will present a gravity solution that is closest to a scaling solution: under $( t , x , y , r , w _ { 1 } , w _ { 2 } ) \to ( \lambda t , \lambda x , \lambda y , \frac { r } { \lambda } , \lambda ^ { \frac { 2 } { 3 } } w _ { 1 } , \lambda ^ { \frac { 2 } { 3 } } w _ { 2 } )$ , the line element $d s ^ { 2 } \to \lambda ^ { - \frac { 1 } { 3 } } d s ^ { 2 }$ . We will also give its black brane generalization.
+
+The fluxes given by these $N$ D4-branes and $k$ D6-branes are:
+
+$$
+F _ { 2 } = \frac { ( 2 \pi ) k } { L ^ { 2 } } d w _ { 1 } \wedge d w _ { 2 } , \qquad F _ { 4 } = ( 2 \pi ) ^ { 3 } N \frac { 1 } { \mathrm { V o l } ( X _ { 4 } ) } \Omega _ { X _ { 4 } } , \qquad B _ { 2 } = 0 ,
+$$
+
+where $X _ { 4 }$ is a unit-radius Einstein 4-manifold (whose Ricci tensor satisfies $R _ { i j } = 3 g _ { i j }$ ）and $\Omega _ { X _ { 4 } }$ is its volume-form; $L$ is the periodicity of $w _ { i }$ . This flux profile satisfies the flux equations of motion. The corresponding (string frame) metric ansatz is:
+
+$$
+\begin{array} { r c l } { d s _ { s } ^ { 2 } } & { = } & { e ^ { 2 B ( r ) } ( - d t ^ { 2 } + d x ^ { 2 } + d y ^ { 2 } ) + e ^ { - 2 A ( r ) } d r ^ { 2 } + e ^ { 2 T ( r ) } ( d w _ { 1 } ^ { 2 } + d w _ { 2 } ^ { 2 } ) + e ^ { 2 Z ( r ) } d s _ { X _ { 4 } } ^ { 2 } , } \end{array}
+$$
+
+with a possibly non-constant dilaton $\phi ( r )$
+
+For a scaling solution, $\{ A , B , T , Z , \phi \}$ are
+
+$$
+\begin{array} { l } { { A ( r ) = a _ { 1 } \log r + a _ { 0 } , \qquad B ( r ) = b _ { 1 } \log r + b _ { 0 } , \qquad T = t _ { 1 } \log r + t _ { 0 } , } } \\ { { Z = z _ { 1 } \log r + z _ { 0 } , \qquad \phi ( r ) = \eta _ { s } \log r + \phi _ { 0 } . } } \end{array}
+$$
+
+There are one equation of motion from the dilaton and five from the gravity part. For the scaling ansatz, they all reduce to algebraic equations and the solution is easily found to be:
+
+$$
+\begin{array} { r c l } { A ( r ) } & { = } & { \displaystyle \left( 1 - \frac { 1 } { 3 } \eta _ { s } \right) \log ( r ) - \frac { 1 } { 3 } \log \left( \frac { 8 \pi ^ { 3 } } { 3 \mathrm { V o l } \left( X _ { 4 } \right) } e ^ { \phi _ { 0 } } N \right) - \frac { 1 } { 2 } \log \left( \frac { 1 7 } { 1 8 } \right) - \log \eta _ { s } , } \\ { B ( r ) } & { = } & { \displaystyle \frac { 5 } { 6 } \eta _ { s } \log r + b _ { 0 } , } \\ { T ( r ) } & { = } & { \displaystyle \frac { 2 } { 3 } \eta _ { s } \log r + \frac { 1 } { 6 } \log \left( \frac { 8 \pi ^ { 3 } } { 3 \mathrm { V o l } \left( X _ { 4 } \right) } e ^ { \phi _ { 0 } } N \right) + \frac { 1 } { 2 } \log \left( \frac { 2 \pi } { L ^ { 2 } } e ^ { \phi _ { 0 } } k \right) , } \\ { Z ( r ) } & { = } & { \displaystyle \frac { 1 } { 3 } \eta _ { s } \log ( r ) + \frac { 1 } { 3 } \log \left( \frac { 8 \pi ^ { 3 } } { 3 \mathrm { V o l } \left( X _ { 4 } \right) } e ^ { \phi _ { 0 } } N \right) , } \\ { \phi ( r ) } & { = } & { \displaystyle \eta _ { s } \log r + \phi _ { 0 } . } \end{array}
+$$
+
+（204号 $( \eta _ { s } , b _ { 0 } , \phi _ { 0 } )$ are three gauge parameters. $\eta _ { s }$ corresponds to the gauge freedom of $r \ \to \ r ^ { \alpha }$ ， $b _ { 0 }$ （204号 corresponds to that of rescaling the $( t , x , y )$ directions,and $\phi _ { 0 }$ gives the string coupling at $r = 1$ （204号 thus corresponds to rescalings of the $r$ and $T ^ { 2 }$ directions.
+
+Without loss of generality, we choose
+
+$$
+= 2 , \qquad b _ { 0 } = \frac { 1 } { 3 } \log \left( \frac { 8 \pi ^ { 3 } } { 3 \mathrm { V o l } ( X _ { 4 } ) } e ^ { \phi _ { 0 } } N \right) + \frac { 1 } { 2 } \log \frac { 3 4 } { 9 } , \qquad \phi _ { 0 } = \frac { 1 } { 2 } \log \left( \frac { L ^ { 6 } N } { 3 \mathrm { V o l } ( X _ { 4 } ) k ^ { 3 } } \right) + \frac { 3 } { 2 }
+$$
+
+The solution in the string frame is
+
+$$
+\begin{array} { r c l } { { d s _ { s } ^ { 2 } } } & { { = } } & { { \displaystyle \tilde { R } _ { s } ^ { 2 } \left[ r ^ { \frac { 1 0 } { 3 } } ( - d t ^ { 2 } + d x ^ { 2 } + d y ^ { 2 } ) + \frac { d r ^ { 2 } } { r ^ { \frac { 2 } { 3 } } } + r ^ { \frac { 8 } { 3 } } ( d w _ { 1 } ^ { 2 } + d w _ { 2 } ^ { 2 } ) \right] + R _ { s } ^ { 2 } r ^ { \frac { 4 } { 3 } } d s _ { X _ { 4 } } ^ { 2 } , } } \end{array}
+$$
+
+with $\begin{array} { r } { R _ { s } ^ { 2 } = \frac { 9 } { 3 4 } \tilde { R } _ { s } ^ { 2 } = \frac { 8 \pi ^ { 2 } } { 3 \mathrm { V o l } ( X _ { 4 } ) } \cdot \frac { 1 7 } { 9 } \cdot N \frac { L ^ { 2 } } { k } } \end{array}$ 17 ·N². In the Einstein frame, it is
+
+$$
+d s _ { E } ^ { 2 } = \tilde { R } ^ { 2 } \left[ r ^ { \frac { 7 } { 3 } } ( - d t ^ { 2 } + d x ^ { 2 } + d y ^ { 2 } ) + { \frac { d r ^ { 2 } } { r ^ { \frac { 5 } { 3 } } } } + r ^ { \frac { 5 } { 3 } } ( d w _ { 1 } ^ { 2 } + d w _ { 2 } ^ { 2 } ) \right] + R ^ { 2 } r ^ { \frac { 1 } { 3 } } d s _ { X _ { 4 } } ^ { 2 } ,
+$$
+
+with $\begin{array} { r } { R ^ { 2 } = \frac { 9 } { 3 4 } \tilde { R } ^ { 2 } = ( \frac { 8 \pi ^ { 2 } } { 3 \mathrm { V o l } ( X _ { 4 } ) } ) ^ { \frac { 3 } { 4 } } ( \frac { 1 7 \pi ^ { 2 } } { 9 } \cdot N ^ { 3 } \frac { L ^ { 2 } } { k } ) ^ { 1 / 4 } } \end{array}$
+
+This background is no longer scaling invariant. Under the scaling transformation
+
+$$
+( t , x , y , r , w _ { 1 } , w _ { 2 } ) \to ( \lambda t , \lambda x , \lambda y , \frac { r } { \lambda } , \lambda ^ { \frac { 2 } { 3 } } w _ { 1 } , \lambda ^ { \frac { 2 } { 3 } } w _ { 2 } ) ,
+$$
+
+the metric scales as
+
+$$
+d s ^ { 2 } \to \lambda ^ { - { \frac { 1 } { 3 } } } d s ^ { 2 } ,
+$$
+
+instead of staying invariant.This is not surprising since the D4-brane theory is not conformal in the first place.
+
+Generalizing to finite temperature, the corresponding black brane solution (in the Einstein frame) is
+
+$$
+d s _ { E } ^ { 2 } = \tilde { R } ^ { 2 } \left[ r ^ { \frac { 7 } { 3 } } ( - F ( r ) d t ^ { 2 } + d x ^ { 2 } + d y ^ { 2 } ) + \frac { d r ^ { 2 } } { F ( r ) r ^ { \frac { 5 } { 3 } } } + r ^ { \frac { 5 } { 3 } } ( d w _ { 1 } ^ { 2 } + d w _ { 2 } ^ { 2 } ) \right] + R ^ { 2 } r ^ { \frac { 1 } { 3 } } d s _ { X _ { 4 } } ^ { 2 } ,
+$$
+
+with
+
+$$
+F ( r ) = 1 - \frac { \mu } { r ^ { \frac { 1 7 } { 3 } } } ,
+$$
+
+where $\mu$ is the mass parameter of the black hole. Its Hawking temperature is
+
+$$
+T _ { H } = \frac { 1 7 } { 1 2 \pi } \mu ^ { \frac { 3 } { 1 7 } } .
+$$
+
+The Bekenstein-Hawing entropy is
+
+$$
+S = \gamma \cdot \left( \frac { 8 \pi ^ { 2 } } { 3 \mathrm { V o l } ( X _ { 4 } ) } \right) ^ { 2 } \cdot T _ { H } ^ { \frac { 1 4 } { 3 } } \cdot N ^ { 3 } \cdot V _ { 2 } \cdot \frac { L ^ { 4 } } { k } ,
+$$
+
+with $\gamma = 2 ^ { \frac { 2 8 } { 3 } } \cdot 3 ^ { - \frac { 7 } { 3 } } \cdot 1 7 ^ { - \frac { 5 } { 3 } } \cdot \pi ^ { \frac { 8 } { 3 } }$ and $V _ { 2 }$ is the area in the $( x , y )$ directions.
+
+# 8 Conclusions and Discussions
+
+In this paper, we presented a class of gravity duals of Lifshitz-like fixed points in type IB supergravity. They represent backgrounds with intersecting D3 and D7-branes and their Einstein frame metrics (2.18) enjoy anisotropic scale invariance. We also extended them to black brane solutions dual to finite temperature theories. Moreover,we showed the existence of solutions which interpolate between our anisotropic solutions in the IR and the familiar $A d S _ { 5 } \times X _ { 5 }$ solutions in the UV. Then the holography asserts that our Lifshitz-like fixed points can be obtained from various four-dimensional CFTs including $\mathcal { N } = 4$ super Yang-Mills via RG flows. These flows are triggered by the relevant and anisotropic perturbation which makes the $\theta$ -angle (the coefficient in front of the topological Yang-Mills coupling $F \wedge F$ ） linearly dependent on one of the space-like coordinates i.e. $\theta \propto w$ .When $w$ is compactified,the perturbation induces the Chern-Simons coupling $\textstyle \int A \wedge F + { \frac { 2 } { 3 } } A ^ { 3 }$ . This theory itself seems an intriguing model worth pursuing in a future work,as the equation of motion becomes local in spite of the violation of the Lorentz invariance.
+
+Employing our supergravity solutions we studied the thermal entropy and the entanglement entropy to measure the degrees of freedom of the holographic dual theories.We found characteristic scaling properties in both quantities. We also holographically computed the shear and bulk viscosities. A more general analysis of hydrodynamics with the momentum in the $w$ -direction taken into account was left as an interesting future problem.
+
+Moreover, we performed a perturbative analysis around our solutions and found that a large class of scalar modes obey the Klein-Gordon equation in the curved spacetime which has the expected scaling property. Also we found an unstable scalar mode when the compact manifold （204号 $X _ { 5 }$ is $S ^ { 5 }$ . Since this unstable mode occurs only for a‘d-wave’ spherical harmonics, $S ^ { 5 }$ might decay into a less symmetric Einstein manifold and be stabilized. Thus we have reason to hope that there exists a class of (Sasaki-)Einstein manifolds with which our scaling solutions become stable. Even the background with $X _ { 5 } ~ = ~ { \cal S } ^ { 5 }$ is still useful at least in capturing qualitative properties of gravity duals of Lifshitz-like fixed points, with unstable modes simply neglected. The construction of manifestly stable and non-dilatonic gravity duals of Lifshitz-like fixed points still remains as a very interesting future problem. The three-form fluxes which we assume to be vanishing in our solution might play an important role.
+
+It is also intriguing to generalize our solutions to other values of $p$ and $d$ in (1.2)．For example, the simplest case $p = 0$ deserves particular attention. It can be formally obtained from our solution (2.18) by the double Wick rotation $t  i w$ and $w  i t$ . However,the axion field $\chi$ and its flux become imaginary-valued therefore the solution is not physical in the ordinary type IIB supergravity. A slightly better example which realizes the case $p = 0$ is a background based on D3-D5 systems, where D5-branes are regarded as the baryons [34]. We cannot get any consistent solution if we restrict to the ordinary type IIB supergravity because the tadpole for the $H$ -flux is generated by F-stings which attach to D5-branes and stretch into the boundary [34]. To construct a solution in this background we need to add the F-string action as an extra term to the type IB supergravity. Under this slightly unusual assumption, we can indeed find the following black brane solution in the Einstein frame [35]
+
+$$
+\begin{array} { l } { { d s _ { E } ^ { 2 } = - A ( \rho ) \rho ^ { 1 4 } d t ^ { 2 } + \rho ^ { 2 } ( d x ^ { 2 } + d y ^ { 2 } + d z ^ { 2 } ) + \tilde { L } ^ { 2 } \frac { d \rho ^ { 2 } } { \rho ^ { 2 } A ( \rho ) } + L ^ { 2 } d \Omega ^ { 2 } , } } \\ { { e ^ { \phi ( \rho ) } = e ^ { \phi _ { 0 } } \rho ^ { 6 } , \qquad A ( \rho ) = 1 - \frac { \mu } { \rho ^ { 1 0 } } , \qquad \tilde { L } ^ { 2 } = 1 0 L ^ { 2 } , } } \end{array}
+$$
+
+with constant 3-form fluxes $H _ { 3 } , F _ { 3 }$ and the RR 5-form $F _ { 5 }$ . A derivation of this solution is briefly reviewed in Appendix C. At zero temperature, this corresponds to the metric (1.2） with $p = 0$ ， $d = 3$ and $z = 7$ ：
+
+Finally, it is also intriguing to apply our backgrounds to realistic condensed matter systems. Our D3-D7 model was originally introduced to model the holographic dual of fractional quantum Halleffects in string theory [22] (refer to [36,37,38] for other holographic realizations of quantum Hall effects). Therefore one of the future problems is to calculate physical quantities such as finite temperature corrections to the Hall and longitudinal conductivities in this theory. The anisotropic critical points we found in this paper may also be useful to analyze the systems like liquid crystals and some anisotropic spin systems.
+
+# Acknowledgments
+
+We thank very much S. Hellerman，Y. Hikida,A. Karch,E. Kiritsis, S. Mukohyama，T. Nishioka, S. Ryu, W. Song， S. Sugimoto and K. Yoshida for useful discussons. We are also benefited from conversations with D.Gao, D. Orlando, S.Reffert and M. Yamazaki. TA is supported by the Japan Society for the Promotion of Science (JSPS) and by the Grant-inAid for the Global COE program "The Next Generation of Physics, Spun from Universality and Emergence” from the MEXT. WL and TT are supported by World Premier International Research Center Initiative (WPI Initiative), MEXT, Japan. The work of TT is also supported by JSPS Grant-in-Aid for Scientific Research No.20740132 and by JSPS Grant-in-Aid for Creative Scientific Research No. 19GS0219.
+
+# APerturbative Analysis
+
+In this appendix, we consider perturbative fluctuations around the D3-D7 background (2.10), (2.11)，(2.17)，and (2.18) in the Einstein frame with $X _ { 5 } ~ = ~ S ^ { 5 }$ ，and analyze the stability of it by using the linearized equations of motion. Our analysis below mostly follows [32, 33]. Here we notice that RR 3-form flux $F _ { 3 }$ and NSNS 3-form flux $H _ { 3 }$ vanish on this background, and their fuctuations do not mix with that of the other fields in the linear order. Thus we start with the action (6.1). The fluctuation of the metric, dilaton, axion,and RR 5-form flux $d C _ { 4 } = F _ { 5 }$ along with their decompositions in terms of spherical harmonics on $S ^ { 5 }$ are summarized in (6.2),(6.4),and (6.5). Here we consider the fluctuations satisfying the gauge fixing conditions （20 $\nabla ^ { \alpha } h _ { ( \alpha \beta ) } = \nabla ^ { \alpha } h _ { \mu \alpha } = 0$ for the metric and $\nabla ^ { \alpha } C _ { \alpha I J K L } = 0$ for the RR 5-form flux $F _ { 5 } = d C _ { 4 }$ .For simplicity, we denote the background metric, dilaton, axion, and 5-form flux by $g _ { M N }$ ， $\phi$ ， $\chi$ ,and $F _ { 5 }$ , respectively. In this section we define $\tilde { \alpha } = \alpha / R ^ { 5 } = 4 / R$ ：
+
+# A.1 Some Conventions
+
+Before writing down linearized equations of motion, we summarize some of our conventions.
+
+We normalized the $\epsilon$ tensor on the five-dimensional Lorentzian part $M _ { 5 }$ and the $S ^ { 5 }$ part in (2.18) by
+
+$$
+\begin{array} { l } { { \epsilon _ { 0 1 2 3 4 } = \sqrt { - g _ { M _ { 5 } } } , \quad \epsilon ^ { 0 1 2 3 4 } = - \frac { 1 } { \sqrt { - g _ { M _ { 5 } } } } , } } \\ { { \epsilon _ { 5 6 7 8 9 } = \sqrt { g _ { S ^ { 5 } } } , \quad \epsilon ^ { 5 6 7 8 9 } = \frac { 1 } { \sqrt { g _ { S ^ { 5 } } } } . } } \end{array}
+$$
+
+In this convention,
+
+$$
+\epsilon _ { \mu _ { 1 } \mu _ { 2 } \mu _ { 3 } \mu _ { 4 } \mu _ { 5 } } \epsilon ^ { \mu _ { 1 } \mu _ { 2 } \mu _ { 3 } \mu _ { 4 } \mu _ { 5 } } = - 5 ! , \epsilon _ { \alpha _ { 1 } \alpha _ { 2 } \alpha _ { 3 } \alpha _ { 4 } \alpha _ { 5 } } \epsilon ^ { \alpha _ { 1 } \alpha _ { 2 } \alpha _ { 3 } \alpha _ { 4 } \alpha _ { 5 } } = 5 ! .
+$$
+
+We also define the ten-dimensional $\epsilon$ tensor by
+
+$$
+\epsilon _ { 0 1 2 3 4 5 6 7 8 9 } = \sqrt { - g _ { 1 0 } } = \epsilon _ { 0 1 2 3 4 } \cdot \epsilon _ { 5 6 7 8 9 } .
+$$
+
+It is also useful to define the Laplacian for $M _ { 5 }$ and $S ^ { 5 }$ by
+
+$$
+\begin{array} { r } { \sqcup _ { x } = g ^ { \mu \nu } \nabla _ { \mu } \nabla _ { \nu } , \qquad \bigsqcup _ { y } = g ^ { \alpha \beta } \nabla _ { \alpha } \nabla _ { \beta } . } \end{array}
+$$
+
+# A.2 Spherical Harmonics on $S ^ { 5 }$ （204号
+
+In this appendix, we decompose the linearized equations of motion for the fluctuations by using the spherical harmonics on $S ^ { 5 }$ . Thus we define $Y ^ { I }$ ， $Y _ { \alpha } ^ { I }$ ， $Y _ { ( \alpha \beta ) } ^ { I }$ ,and $Y _ { [ \alpha \beta ] } ^ { I }$ ， which represent scalar, vector,traceless symmetric,and antisymmetric spherical harmonics, respectively. They satisfy the transverse conditions
+
+$$
+\nabla ^ { \alpha } Y _ { \alpha } ^ { I } = \nabla ^ { \alpha } Y _ { ( \alpha \beta ) } ^ { I } = \nabla ^ { \alpha } Y _ { [ \alpha \beta ] } ^ { I } = 0 .
+$$
+
+For the vector spherical harmonics, we define the Hodge-de Rham operator $\Delta _ { y }$ by $\Delta _ { y } Y _ { \beta } ^ { I } =$ $\begin{array} { r } { \bigsqcup _ { y } Y _ { \beta } ^ { I } - R _ { \beta } ^ { \alpha } Y _ { \alpha } ^ { I } } \end{array}$ . We can define the Hodge-de Rham operators for the other spherical harmonics in the similar manner and the eigenvalues of $\Delta _ { y }$ on the $S ^ { 5 }$ with the radius $R$ are given by16 [32]
+
+$$
+\begin{array} { l } { { \displaystyle \Delta _ { y } Y ^ { I } = \bigtriangledown _ { y } Y ^ { I } = - \frac { k ( k + 4 ) } { R ^ { 2 } } Y ^ { I } , \quad ( k = 0 , 1 , 2 , \cdot \cdot ) } } \\ { { \displaystyle \Delta _ { y } Y _ { \alpha } ^ { I } = \left( \bigtriangledown _ { y } - \frac { 4 } { R ^ { 2 } } \right) Y _ { \alpha } ^ { I } = - \frac { ( k + 1 ) ( k + 3 ) } { R ^ { 2 } } Y _ { \alpha } ^ { I } , \quad ( k = 1 , 2 , \cdot \cdot ) } } \\ { { \displaystyle \Delta _ { y } Y _ { ( \alpha / \beta ) } ^ { I } = \left( \bigtriangledown _ { y } - \frac { 1 0 } { R ^ { 2 } } \right) Y _ { ( \alpha / \beta ) } ^ { I } = - \frac { k ^ { 2 } + 4 k + 8 } { R ^ { 2 } } Y _ { ( \alpha / \beta ) } ^ { I } , \quad ( k = 2 , 3 , 4 , \cdot \cdot ) } } \\ { { \displaystyle \Delta _ { y } Y _ { [ \alpha / \beta ] } ^ { I } = \left( \bigtriangledown _ { y } - \frac { 6 } { R ^ { 2 } } \right) Y _ { [ \alpha / \beta ] } ^ { I } = - \frac { ( k + 2 ) ^ { 2 } } { R ^ { 2 } } Y ^ { I } , \quad ( k = 1 , 2 , \cdot \cdot ) . } } \end{array}
+$$
+
+# A.3 Five-form Flux Equation
+
+Let us first consider the perturbation for the RR 5-form flux $F _ { 5 }$ . It satisfies the self-duality constraint
+
+$$
+F _ { P Q R S T } = \frac { 1 } { 5 ! } \epsilon _ { P Q R S T } ^ { A B C D E } F _ { A B C D E } .
+$$
+
+from which the equation of motion $d * F _ { 5 } = 0$ follows automatically. By denoting the fluctuation of the 5-form around the background as $\delta F _ { 5 } = f _ { 5 }$ ，(A.10) in the linear order is written as
+
+$$
+f _ { P Q R S T } = \frac { 1 } { 5 ! } \epsilon _ { P Q R S T } { ^ { A B C D E } f } _ { A B C D E } + \frac { 1 } { 2 \cdot 5 ! } h _ { M } ^ { M } \epsilon _ { P Q R S T } { ^ { A B C D E } F } _ { A B C D E }
+$$
+
+By substituting (6.2） and (6.5） into this equation and then decomposing it by the spherical harmonics on $S ^ { 5 }$ ， we obtain five equations:
+
+$$
+\begin{array} { r l } & { \left[ 5 \nabla _ { \mu 1 } b _ { \mu 2 \mu _ { 3 } \mu _ { 4 } \mu _ { 5 } } ^ { I } - \epsilon _ { \mu _ { 1 } \mu _ { 2 } \mu _ { 3 } \mu _ { 4 } \mu _ { 5 } } \left( \frac { \tilde { \alpha } } { 2 } h ^ { I } - \frac { \tilde { \alpha } } { 2 } \pi ^ { I } + b ^ { I } \bigtriangledown _ { y } \right) \right] Y ^ { I } = 0 , } \\ & { \left[ 4 \nabla _ { \mu 1 } b _ { \mu _ { 2 } \mu _ { 3 } \mu _ { 4 } } ^ { I } + \epsilon _ { \mu _ { 1 } \mu _ { 2 } \mu _ { 3 } \mu _ { 4 } } ( b _ { \nu } ^ { I } \bigtriangledown _ { y } - \tilde { \alpha } B _ { \nu } ^ { I } ) \right] Y _ { \alpha } ^ { I } = 0 , } \\ & { \left[ b _ { \mu _ { 1 } \mu _ { 2 } \mu _ { 3 } \mu _ { 4 } } ^ { I } + \epsilon _ { \mu _ { 1 } \mu _ { 2 } \mu _ { 3 } \mu _ { 4 } } \nabla _ { \nu } b ^ { I } \right] \nabla _ { \alpha } Y ^ { I } = 0 , } \\ & { \nabla _ { \mu 1 } b _ { \mu _ { 2 } \mu _ { 3 } } ^ { I } Y _ { [ \alpha \beta ] } ^ { I } - \frac { 1 } { 1 2 } \epsilon _ { \mu _ { 1 } \mu _ { 2 } \mu _ { 3 } } { \nu } _ { 3 } ^ { \nu _ { 2 } \mu _ { 3 } } b _ { \nu _ { 1 } \nu _ { 2 } } ^ { I } \epsilon _ { \alpha \beta } ^ { \gamma _ { 1 } \gamma _ { 2 } \gamma _ { 3 } } \nabla _ { \gamma _ { 1 } } Y _ { [ \gamma _ { 2 } \gamma _ { 3 } ] } ^ { I } = 0 , } \\ & { \left[ b _ { \mu _ { 1 } \mu _ { 2 } \mu _ { 3 } } ^ { I } + \epsilon _ { \mu _ { 1 } \mu _ { 2 } \mu _ { 3 } } { \nu } _ { \nu _ { 1 } } b _ { \nu _ { 2 } } ^ { I } \right] \nabla _ { [ \alpha } Y _ { \beta ] } ^ { I } = 0 . } \end{array}
+$$
+
+Here $\tilde { \alpha } = \alpha / R ^ { 5 } = 4 / R$ . Now, we can simply solve (A.14) and (A.16) algebraically, assuming （20 $k \geq 1$ . Then, we obtain the following three equations from (A.12) and (A.14),(A.13) and (A.16),
+
+and (A.15）respectively:
+
+$$
+\begin{array} { l } { { \left[ ( \bigtriangledown _ { x } + \bigtriangledown _ { y } ) b ^ { I } + \frac { \tilde { \alpha } } { 2 } h ^ { I } - \frac { \tilde { \alpha } } { 2 } \pi ^ { I } \right] Y ^ { I } = 0 , } } \\ { { \left[ \bigtriangledown _ { x } b _ { \mu } ^ { I } - \nabla ^ { \nu } \nabla _ { \mu } b _ { \nu } ^ { I } + \Delta _ { y } b _ { \mu } ^ { I } - \tilde { \alpha } B _ { \mu } ^ { I } \right] Y _ { \alpha } ^ { I } = 0 , } } \\ { { \left[ 3 \nabla _ { \mu _ { 1 } } b _ { \mu _ { 2 } \mu _ { 3 } } ^ { I } \mp \frac { i } { 2 } \epsilon _ { \mu _ { 1 } \mu _ { 2 } \mu _ { 3 } } { } ^ { \nu _ { 1 } \nu _ { 2 } } b _ { \nu _ { 1 } \nu _ { 2 } } ^ { I } \sqrt { - \Delta _ { y } } \right] Y _ { [ \alpha \beta ] } ^ { \pm } = 0 . } } \end{array}
+$$
+
+# A.4 Einstein Equations
+
+Let us next consider the perturbation for the Einstein equation. The Einstein equation itself can be obtained from the action (6.1) as
+
+$$
+\begin{array} { c } { { { \displaystyle R _ { M N } - \frac { 1 } { 2 } g _ { M N } \left( R - \frac { 1 } { 2 } e ^ { 2 \phi } \partial _ { P } \chi \partial ^ { P } \chi - \frac { 1 } { 2 } \partial _ { P } \phi \partial ^ { P } \phi - \frac { 1 } { 4 } { \cdot } 5 ! { \cal F } _ { P Q R S T } { \cal F } ^ { P Q R S T } \right) } } } \\ { { { - \displaystyle \frac { 1 } { 2 } e ^ { 2 \phi } \partial _ { M } \chi \partial _ { N } \chi - \frac { 1 } { 2 } \partial _ { M } \phi \partial _ { N } \phi - \frac { 1 } { 4 \cdot 4 ! } { \cal F } _ { M P Q R S } { \cal F } _ { N } ^ { _ { P Q R S } } = 0 . } } } \end{array}
+$$
+
+By using
+
+$$
+R - \frac { 1 } { 2 } e ^ { 2 \phi } \partial _ { P } \chi \partial ^ { P } \chi - \frac { 1 } { 2 } \partial _ { P } \phi \partial ^ { P } \phi = 0 .
+$$
+
+and
+
+$$
+F _ { P Q R S T } F ^ { P Q R S T } = 0 ,
+$$
+
+derived from the trace part of (A.2O) and the self-duality condition (A.10) respectively, we can reduce the Einstein equation (A.2O) to a simpler form:
+
+$$
+R _ { M N } - \frac { 1 } { 2 } e ^ { 2 \phi } \partial _ { M } \chi \partial _ { N } \chi - \frac { 1 } { 2 } \partial _ { M } \phi \partial _ { N } \phi - \frac { 1 } { 4 \cdot 4 ! } F _ { M P Q R S } F _ { N } ^ { ~ P Q R S } = 0 .
+$$
+
+By linearly perturbing (A.23) and decomposing it in terms of the spherical harmonics on $S ^ { 5 }$ ，we obtain some equations for the fluctuations around the background. We summarize the resulting equations below.
+
+# A.4.1 （20 $\alpha \beta$ Components
+
+From $( \alpha , \beta )$ -components of (A.23),we obtain the following four equations:
+
+$$
+\begin{array} { l } { { \displaystyle \left[ \prod _ { x } + \prod _ { y } - \frac { 2 } { R ^ { 2 } } \right] \phi ^ { I } Y _ { ( \alpha \beta ) } ^ { I } = 0 , } } \\ { { \nabla ^ { \mu } B _ { \mu } ^ { I } \nabla _ { ( \alpha } Y _ { \beta ) } ^ { I } = 0 , } } \\ { { \displaystyle \left[ h ^ { I } + \frac { 3 } { 5 } \pi ^ { I } \right] \nabla _ { ( \alpha } \nabla _ { \beta ) } Y ^ { I } = 0 , } } \\ { { \displaystyle \left[ \frac { 1 } { 1 0 } \sqcap _ { x } \pi ^ { I } + \frac { 4 } { 2 5 } \pi ^ { I } \bigtriangleup _ { y } + \frac { 1 } { 1 0 } h ^ { I } \bigtriangleup _ { y } + \frac { \tilde { \alpha } } { 2 } b _ { I } \bigtriangleup _ { y } - \frac { \tilde { \alpha } ^ { 2 } } { 5 } \pi ^ { I } \right] Y ^ { I } = 0 . } } \end{array}
+$$
+
+# A.4.2 μα Components
+
+In a similar way, from $( \mu , \alpha )$ -component of (A.23)，we obtain the following equations:
+
+$$
+\begin{array} { l }  { { \displaystyle { \left[ \frac { 1 } { 2 } ( \Omega _ { x } B _ { \mu } ^ { I } - \nabla ^ { \nu } \nabla _ { \mu } B _ { \nu } ^ { I } ) + \frac { 1 } { 2 } B _ { \mu } ^ { I } \Delta _ { y } + \frac { \tilde { \alpha } } { 4 } b _ { \mu } ^ { I } \Delta _ { y } + \frac { \tilde { \alpha } } { 4 ! } \epsilon _ { \mu } ^ { \rho _ { 1 } \rho _ { 2 } \rho _ { 3 } \rho _ { 4 } } \nabla _ { \rho _ { 1 } } b _ { \rho 2 \rho _ { 3 } \rho _ { 4 } } ^ { I } \right] Y _ { \alpha } ^ { I } = 0 . } } } \\  { { \displaystyle { \left[ - \frac { 1 } { 2 } \nabla ^ { \nu } h _ { \nu \mu } ^ { I } + \frac { 1 } { 2 } \nabla _ { \mu } h ^ { I } + \frac { 2 } { 5 } \nabla _ { \mu } \pi ^ { I } + \frac { \tilde { \alpha } } { 4 } \nabla _ { \mu } b ^ { I } + \frac { \tilde { \alpha } } { 9 6 } \epsilon _ { \mu } ^ { \rho _ { 1 } \rho _ { 2 } \rho _ { 3 } \rho _ { 4 } } b _ { \rho _ { 1 } \rho _ { 2 } \rho _ { 3 } \rho _ { 4 } } ^ { I } \right. } } } \\  { { \displaystyle \left. \qquad + \delta _ { \mu , w } \frac { 1 } { 2 } e ^ { 2 \phi } \partial _ { w } \chi \ \eta ^ { I } + \delta _ { \mu , r } \frac { 1 } { 2 } \partial _ { r } \phi \ \varphi ^ { I } \right] \nabla _ { \alpha } Y ^ { I } = 0 . } } \end{array}
+$$
+
+# A.4.3 $\mu \nu$ Components
+
+Finally, from $( \mu , \nu )$ -component of (A.23)，we obtain the following equations:
+
+$$
+\begin{array} { r c l } { { \mathrm {  ~ \tau ~ } _ { \partial } ~ } } & { { = } } & { { \displaystyle - \frac { 1 } { 2 } ( \bigtriangledown _ { x } + \bigtriangledown _ { y } ) h _ { \mu \nu } - \frac { 1 } { 2 } \nabla _ { \mu } \nabla _ { \nu } ( h + \pi ) + \frac { 1 } { 2 } ( \nabla _ { \mu } \nabla ^ { \rho } h _ { \rho \nu } + \nabla _ { \nu } \nabla ^ { \rho } h _ { \rho \mu } ) + R _ { \mu \rho \sigma \nu } h ^ { \rho \sigma } } } \\ { { } } & { { } } & { { \displaystyle + \frac { 1 } { 2 } ( R _ { \mu } ^ { \rho } h _ { \nu \rho } + R _ { \nu } ^ { \rho } h _ { \mu \rho } ) - e ^ { 2 \phi } ( \partial _ { \mu } \chi \partial _ { \nu } \chi ) \varphi - \frac { e ^ { 2 \phi } } { 2 } ( \partial _ { \mu } \chi \partial _ { \nu } \eta + \partial _ { \nu } \chi \partial _ { \mu } \eta ) } } \\ { { } } & { { } } & { { \displaystyle - \frac { 1 } { 2 } \partial _ { \mu } \phi \partial _ { \nu } \varphi - \frac { 1 } { 2 } \partial _ { \nu } \phi \partial _ { \mu } \varphi - \frac { \tilde { \alpha } } { 4 8 } g _ { \mu \nu } \epsilon ^ { \rho _ { 1 } \rho _ { 2 } \rho _ { 3 } \rho _ { 4 } \rho _ { 5 } } \nabla _ { \rho _ { 1 } } b _ { \rho _ { 2 } \rho _ { 3 } \rho _ { 4 } \rho _ { 5 } } ^ { I } { \cal T } - \frac { \tilde { \alpha } ^ { 2 } } { 4 } g _ { \mu \nu } h + \frac { \tilde { \alpha } ^ { 2 } } { 4 } h _ { \mu \nu } . } } \end{array}
+$$
+
+# A.5 Dilaton and Axion Equations
+
+Let us then move to the linear perturbation for the dilaton and axion equations of motion. They are given by
+
+$$
+\begin{array} { l } { { \partial _ { M } ( \sqrt { - g } g ^ { M N } \partial _ { N } \phi ) - \sqrt { - g } e ^ { 2 \phi } g ^ { M N } \partial _ { M } \chi \partial _ { N } \chi = 0 , } } \\ { { \partial _ { M } ( \sqrt { - g } e ^ { 2 \phi } g ^ { M N } \partial _ { N } \chi ) = 0 . } } \end{array}
+$$
+
+respectively. When fluctuating around our background, these equations are rewriten as
+
+$$
+\begin{array} { l } { { ( \bigtriangledown _ { x } + \bigtriangledown _ { y } ) \varphi + \displaystyle \frac { 1 } { 2 } g ^ { r r } \partial _ { r } \phi \partial _ { r } ( h + \pi ) - ( \partial _ { r } \phi ) \big ( \nabla _ { \mu } h ^ { \mu r } \big ) - ( \nabla _ { I } \partial _ { J } \phi ) h ^ { I J } } } \\ { { \qquad - 2 \varphi e ^ { 2 \phi } g ^ { w w } ( \partial _ { w } \chi ) ^ { 2 } + e ^ { 2 \phi } h ^ { w w } ( \partial _ { w } \chi ) ^ { 2 } - 2 e ^ { 2 \phi } g ^ { w w } ( \partial _ { w } \chi ) ( \partial _ { w } \eta ) = 0 , } } \\ { { ( \bigtriangledown _ { x } + \bigtriangledown _ { y } ) \eta + 2 ( \partial _ { r } \phi ) ( \partial _ { r } \eta ) g ^ { r r } + 2 g ^ { w w } ( \partial _ { w } \varphi ) ( \partial _ { w } \chi ) + \displaystyle \frac { 1 } { 2 } g ^ { w w } \partial _ { w } ( h + \pi ) \partial _ { w } \chi } } \\ { { \qquad - ( \nabla _ { \mu } h ^ { \mu w } ) ( \partial _ { w } \chi ) - h ^ { I J } ( \nabla _ { I } \partial _ { J } \chi ) - 2 h ^ { r w } ( \partial _ { r } \phi ) ( \partial _ { w } \chi ) = 0 . } } \end{array}
+$$
+
+# A.6 Spectrum for Decoupled Modes
+
+As we derived the linearized equations of motion for the fluctuations in the appendix A.3, A.4, and A.5,we then analyze the spectrum for them. We start with the one for those modes which do not mix with other modes in a complicated way. The analysis turns out to be essentially the same as the case of $A d S _ { 5 } \times S ^ { 5 }$ [32].
+
+# A.6.1 I Mode from h(β)
+
+First we consider the scalar mode $h _ { ( \alpha \beta ) } = \phi ^ { I } Y _ { ( \alpha \beta ) } ^ { I }$ from the fuctuation of the metric. It obeys the equation of motion (A.24) and, by using (A.8), we obtain
+
+$$
+\left( \bigtriangledown _ { x } - \frac { k ( k + 4 ) } { R ^ { 2 } } \right) \phi ^ { I } = 0 . \quad ( k = 2 , 3 , 4 , \cdot \cdot \cdot )
+$$
+
+Thus we find its mass m² = k(k+4), ，which obviously satisfies the stability condition.
+
+# A.6.2 $b _ { \mu \nu } ^ { I }$ Mode from $C _ { \mu \nu \alpha \beta }$
+
+For $b _ { \mu \nu } ^ { I }$ from the fluctuation of $C _ { \mu \nu \alpha \beta }$ , (A.19) leads to
+
+$$
+\begin{array} { r } { ( \mathrm { M a x } _ { x } + \Delta _ { y } ) b _ { \mu \nu } ^ { I } Y _ { [ \alpha \beta ] } ^ { I } = 0 . } \end{array}
+$$
+
+The Maxwell operator $\mathrm { M a x } _ { x }$ on $M _ { 5 }$ is defined by $\mathrm { M a x } _ { x } b _ { \mu } ^ { I } = \ d \Omega _ { x } b _ { \mu _ { 1 } } - \nabla ^ { \nu } \nabla _ { \mu } b _ { \nu }$ for the vector （204号 $b _ { \mu } ^ { I }$ and we can generalize the definition for teonsors. Since the mass for this mode is given by $\begin{array} { r } { m ^ { 2 } = - \Delta _ { y } = \frac { ( k + 2 ) ^ { 2 } } { R ^ { 2 } } ( k = 1 , 2 , \cdot \cdot \cdot ) } \end{array}$ ,this mode turns out to be stable.
+
+# A.6.3 （20 $b _ { \mu } ^ { I }$ and $B _ { \mu } ^ { I }$ Modes from $g _ { \mu \alpha }$ and $C _ { \mu \alpha \beta \gamma }$ （204号
+
+Let us next consider $b _ { \mu } ^ { I }$ and $B _ { \mu } ^ { I }$ from the fluctuation of $g _ { \mu \alpha }$ and $C _ { \mu \alpha \beta \gamma }$ respectively. From (A.18), (A.28),and (A.16)，we obtain the equations for these modes as
+
+$$
+\begin{array} { l } { { ( ( \mathrm { M a x } _ { x } + \Delta _ { y } ) b _ { \mu } ^ { I } - \tilde { \alpha } B _ { \mu } ^ { I } ) Y _ { \alpha } ^ { I } = 0 , } } \\ { { ( ( \mathrm { M a x } _ { x } + \Delta _ { y } ) B _ { \mu } ^ { I } - \displaystyle \frac { \tilde { \alpha } } { 2 } ( M a x - \Delta _ { y } ) b _ { \mu } ^ { I } ) Y _ { \alpha } ^ { I } = 0 . } } \end{array}
+$$
+
+or,by denoting in a different expression，as
+
+$$
+\begin{array} { r } { \mathrm { M a x } _ { x } \cdot \left( \begin{array} { c } { b _ { \mu } ^ { I } } \\ { B _ { \mu } ^ { I } } \end{array} \right) + \left( \begin{array} { c c } { \Delta _ { y } } & { - \tilde { \alpha } } \\ { \tilde { \alpha } \Delta _ { y } } & { \Delta _ { y } - \frac { \tilde { \alpha } ^ { 2 } } { 2 } } \end{array} \right) \cdot \left( \begin{array} { c } { b _ { \mu } ^ { I } } \\ { B _ { \mu } ^ { I } } \end{array} \right) = 0 . } \end{array}
+$$
+
+The eigenvalues of $2 \times 2$ matrix in the second term are
+
+$$
+- m _ { \pm } ^ { 2 } = \Delta _ { y } - \frac { \tilde { \alpha } ^ { 2 } } { 4 } \pm \sqrt { \frac { \tilde { \alpha } ^ { 4 } } { 1 6 } - \tilde { \alpha } ^ { 2 } \Delta _ { y } } \ .
+$$
+
+More explicitly, by using (A.7),we get the masses for these vector fields
+
+$$
+m _ { + } ^ { 2 } = \frac { k ^ { 2 } - 1 } { R ^ { 2 } } , m _ { - } ^ { 2 } = \frac { ( k + 3 ) ( k + 5 ) } { R ^ { 2 } } , ( k = 1 , 2 , 3 , \cdot \cdot \cdot ) .
+$$
+
+Therefore we can find that these modes are stable, too.
+
+# A.7Spectrum for Mixed Modes: $h ^ { I }$ ， $\pi ^ { I }$ ，and $b ^ { I }$
+
+Let us determine the spectrum for the scalar perturbation $h ^ { I }$ ， $\pi ^ { I }$ ，and $b ^ { I }$ here. We first assume $k \geq 2$ and then find $h ^ { I } = - { \textstyle \frac { 3 } { 5 } } \pi ^ { I }$ from (A.26). Thus we can rewrite (A.17) and (A.27) as follows:
+
+$$
+\begin{array} { r } { \boldsymbol { \Pi } _ { x } \cdot \left( \begin{array} { c } { b ^ { I } } \\ { \pi ^ { I } } \end{array} \right) + \left( \begin{array} { c c } { \boldsymbol { \bigtriangledown } _ { y } } & { - \frac { 4 } { 5 } \tilde { \alpha } } \\ { 5 \tilde { \alpha } \boldsymbol { \bigtriangledown } _ { y } } & { \boldsymbol { \bigtriangledown } _ { y } - 2 \tilde { \alpha } ^ { 2 } } \end{array} \right) \cdot \left( \begin{array} { c } { b ^ { I } } \\ { \pi ^ { I } } \end{array} \right) = 0 . } \end{array}
+$$
+
+The matrix in the second term is diagonalized and the eigenvalues are given by
+
+$$
+- m _ { \pm } ^ { 2 } = \ d \sqcup _ { y } - \tilde { \alpha } ^ { 2 } \pm \sqrt { \tilde { \alpha } ^ { 4 } - 4 \tilde { \alpha } ^ { 2 } \ d \bigsqcup _ { y } } ,
+$$
+
+or,more explicitly, by
+
+$$
+\begin{array} { l } { { m _ { + } ^ { 2 } = \displaystyle \frac { k ^ { 2 } - 4 k } { R ^ { 2 } } , } } \\ { { m _ { - } ^ { 2 } = \displaystyle \frac { ( k + 4 ) ( k + 8 ) } { R ^ { 2 } } . } } \end{array}
+$$
+
+Even for $k = 0 , 1$ , we can see that the expression (A.45) is correct. Thus we find the lowest mass in this mode is $\begin{array} { r } { m _ { + } ^ { 2 } = - \frac { 4 } { R ^ { 2 } } } \end{array}$ when k =2.This violates the stablity bound.
+
+# A.8Spectrum for Other Modes: $h _ { \mu \nu }$ ， $\varphi$ ，and $\eta$ （204
+
+Now, the remaining modes are $h _ { \mu \nu }$ ， $\varphi$ ,and $\eta$ . Since the analysis of massive modes looks highly complicated, below we would like to consider only zero modes on $S ^ { 5 }$ of $h _ { \mu \nu }$ and $\varphi , \eta$ They are useful to the calculations of the viscosity in section 4. For this reason，we generalize the background to the black brane metric (2.27） and write down the linearized equations for the fluctuation around it. By taking $\mu \to 0$ ， we can reproduce those for the background metric (2.18).
+
+# A.8.1 Zero Modes on $S ^ { 5 }$
+
+We concentrate on the zero modes on $S ^ { 5 }$ i.e. $k = 0$ modes of the spherical harmonics. Notice that in this case, we have $b = 0$ and $b _ { \mu _ { 1 } \mu _ { 2 } \mu _ { 3 } \mu _ { 4 } }$ is expressed in terms of $h$ and $\pi$ as
+
+$$
+5 \nabla _ { \mu _ { 1 } } b _ { \mu _ { 2 } \mu _ { 3 } \mu _ { 4 } \mu _ { 5 } } = \frac { 2 } { R } \epsilon _ { \mu _ { 1 } \mu _ { 2 } \mu _ { 3 } \mu _ { 4 } \mu _ { 5 } } \left( h - \pi \right) ,
+$$
+
+from (A.10). From (A.27), the mode $\pi$ satisfies
+
+$$
+\left( \bigsqcup _ { x } - { \frac { 3 2 } { R ^ { 2 } } } \right) \pi = 0 .
+$$
+
+It is also useful to define the Weyl shifted metric $H _ { \mu \nu }$ by
+
+$$
+H _ { \mu \nu } = h _ { \mu \nu } + \frac { 1 } { 3 } g _ { \mu \nu } \pi ,
+$$
+
+which corresponds to the metric perturbation around the five-dimensional background obtained by the reduction of $S ^ { 5 }$ . Then the Einstein equation (A.30) can be rewritten as follows:
+
+$$
+{ \bf \Psi } _ { \mu \nu } ^ { ( 5 ) } + \frac { 4 } { R ^ { 2 } } H _ { \mu \nu } - e ^ { 2 \phi } ( \partial _ { \mu } \chi \partial _ { \nu } \chi ) \varphi - \frac { e ^ { 2 \phi } } { 2 } ( \partial _ { \mu } \chi \partial _ { \nu } \eta + \partial _ { \nu } \chi \partial _ { \mu } \eta ) - \frac { 1 } { 2 } ( \partial _ { \mu } \phi \partial _ { \nu } \varphi + \partial _ { \nu } \phi \partial _ { \mu } \varphi ) = 0 .
+$$
+
+Here $\delta R _ { \mu \nu } ^ { ( 5 ) }$ is the perturbation of the purely five dimensional Ricci tensor (neglecting the $S ^ { 5 }$ （204号 contributions) due to the metric perturbation $H _ { \mu \nu }$ . Notice that when $\mu , \nu \neq w , r$ ，we obtain the simple Einstein cquation $\begin{array} { r } { \delta R _ { \mu \nu } ^ { ( 5 ) } + \frac { 4 } { R ^ { 2 } } H _ { \mu \nu } = 0 } \end{array}$   
+the shear modes Htx and Hxy·
+
+For the dilaton equation of motion (A.33） with $k = 0$ , by using the results
+
+$$
+\begin{array} { l } { \nabla _ { t } \partial _ { t } \phi = - \displaystyle \frac { 2 } { 3 } r ^ { 2 } \left( 1 - \frac { \mu } { r ^ { 1 1 / 3 } } \right) \left( 1 + \frac { 5 \mu } { 6 r ^ { 1 1 / 3 } } \right) \equiv f _ { t } , } \\ { \nabla _ { x } \partial _ { x } \phi = \nabla _ { y } \partial _ { y } \phi = \displaystyle \frac { 2 } { 3 } r ^ { 2 } \left( 1 - \frac { \mu } { r ^ { 1 1 / 3 } } \right) \equiv f _ { x } , } \\ { \nabla _ { w } \partial _ { w } \phi = \displaystyle \frac { 4 } { 9 } r ^ { \frac { 4 } { 3 } } \left( 1 - \frac { \mu } { r ^ { 1 1 / 3 } } \right) \equiv f _ { w } , } \\ { \nabla _ { r } \partial _ { r } \phi = \displaystyle \frac { 1 1 \mu } { 9 r ^ { 1 7 / 3 } } \left( 1 - \frac { \mu } { r ^ { 1 1 / 3 } } \right) ^ { - 1 } \equiv f _ { w } , } \end{array}
+$$
+
+and the Weyl shifted metric $H _ { \mu \nu }$ , we can rewrite it as follows:
+
+$$
+\begin{array} { l } { { \displaystyle \bigsqcup _ { x } \varphi + \frac { 1 } { 3 r } g ^ { r r } ( \partial _ { r } H ) - f _ { t } H ^ { t t } - f _ { x } ( H ^ { x x } + H ^ { y y } ) - f _ { w } H ^ { w w } - f _ { r } H ^ { r r } } } \\ { { \displaystyle \qquad + \frac { 1 } { 3 } \pi \big ( g ^ { t t } f _ { t } + 2 g ^ { x x } f _ { x } + g ^ { w w } f _ { w } + g ^ { r r } f _ { r } \big ) - \frac { 2 } { 3 r } \nabla _ { \mu } H ^ { \mu r } } } \\ { { \displaystyle \qquad + \beta ^ { 2 } e ^ { 2 \phi } ( H ^ { w w } - 2 g ^ { w w } \varphi - \frac { 1 } { 3 } \pi g ^ { w w } ) - 2 \beta e ^ { 2 \phi } g ^ { w w } \partial _ { w } \eta = 0 , } } \end{array}
+$$
+
+where $\begin{array} { r } { H \equiv H _ { \mu } ^ { \mu } = h + \frac { 5 } { 3 } \pi } \end{array}$
+
+On the other hand, for the axion equation of motion (A.34) with $k = 0$ , by using the values
+
+$$
+\nabla _ { r } \partial _ { w } \chi = \nabla _ { w } \partial _ { r } \chi = - \frac { 2 k } { 3 L r } ,
+$$
+
+it can be rewritten as follows
+
+$$
+\Pi _ { x } \eta + \frac { 4 } { 3 r } g ^ { r r } \partial _ { r } \eta + \beta g ^ { w w } \partial _ { w } \left( 2 \varphi + \frac { H } { 2 } \right) - \beta \nabla _ { \mu } H ^ { \mu w } = 0 .
+$$
+
+We can take the radial gauge $H _ { \mu r } = 0$ and have 5 physical modes for $H _ { \mu \nu }$ . Then the dilaton and axion equations of motion（A.51) and(A.53) become
+
+$$
+\begin{array} { l } { { \Omega _ { x } \varphi + \displaystyle \frac { 1 } { 3 r } g ^ { r r } ( \partial _ { r } H ) - f _ { t } H ^ { t t } - f _ { x } ( H ^ { x x } + H ^ { y y } ) } } \\ { { \quad \qquad - f _ { w } H ^ { w w } + \displaystyle \frac { 1 } { 3 } \pi ( g ^ { t t } f _ { t } + 2 g ^ { x x } f _ { x } + g ^ { w w } f _ { w } + g ^ { r r } f _ { r } ) } } \\ { { \qquad \quad \qquad + \beta ^ { 2 } e ^ { 2 \phi } ( H ^ { w w } - 2 g ^ { w w } \varphi - \displaystyle \frac { 1 } { 3 } \pi g ^ { w w } ) - 2 \beta e ^ { 2 \phi } g ^ { w w } \partial _ { w } \eta = 0 , } } \end{array}
+$$
+
+and
+
+$$
+\Pi _ { x } \eta + \frac { 4 } { 3 r } g ^ { r r } \partial _ { r } \eta + \beta g ^ { w w } \partial _ { w } \left( 2 \varphi + \frac { H } { 2 } \right) - \beta \nabla _ { \mu } H ^ { \mu w } = 0 .
+$$
+
+In summary, we need to solve the zero mode equations of motion (A.46), (A.47),(A.49), (A.54),and (A.55) to find the variables $b _ { \mu \nu \rho \sigma }$ ， $\pi$ ， $\varphi$ ， $\eta$ ,and $H _ { \mu \nu }$
+
+# BLinearized Equations for the Shear and Sound Channel
+
+In this appendix we summarize the linearized equations for the shear and sound channel. They are useful to derive the differential equations for the gauge invariant combinations in section 4.
+
+For this purpose, we consider the equations (A.46),(A.47),(A.49),(A.54), and (A.55) derived in the appendix A.8.1. Then we substitute the fluctuation corresponding to the shear channel (4.1) or sound channel (4.3） into them and then derive explicit expressions for the linearized equations of motion. We summarize the resulting equations below.
+
+# B.1 Shear Channel
+
+By considering the fluctuations $H _ { t x }$ and $H _ { x y }$ which correspond to the shear channel in the radial gauge $H _ { \mu r } = 0$ ，we obtain the equations for them
+
+$$
+\begin{array} { r l } & { H _ { t x } ^ { \prime \prime } + \mathrm { l n } ^ { \prime } ( c _ { x } ^ { 1 4 / 3 } ) H _ { t x } ^ { \prime } - \frac { q } { c _ { x } ^ { 2 } c _ { t } ^ { 2 } } ( q H _ { t x } + \omega H _ { x y } ) = 0 , } \\ & { H _ { x y } ^ { \prime \prime } + \mathrm { l n } ^ { \prime } ( c _ { t } ^ { 2 } c _ { x } ^ { 8 / 3 } ) H _ { x y } ^ { \prime } + \frac { \omega } { c _ { t } ^ { 4 } } ( q H _ { t x } + \omega H _ { x y } ) = 0 , } \\ & { q H _ { x y } ^ { \prime } + \omega \frac { c _ { x } ^ { 2 } } { c _ { t } ^ { 2 } } H _ { t x } ^ { \prime } = 0 , } \end{array}
+$$
+
+from $( t , x )$ ， $( x , y )$ ，and $( x , r )$ -component of (A.49), respectively. We can directly show that two of the three equations are independent.
+
+# B.2 Sound Channel
+
+Let us next consider the sound mode. The corresponding fuctuations are $H _ { t t } , H _ { t y } , H _ { x x } , H _ { y y } , H _ { w w } , \varphi , \pi$ （204号 and $f _ { \mu _ { 1 } \mu _ { 2 } \mu _ { 3 } \mu _ { 4 } \mu _ { 5 } }$ in the radial gauge. In this case the linearized equations (A.47),(A.49), and
+
+(A.54) are summarized as
+
+$$
+\begin{array} { r l } & { H _ { 2 } ^ { \nu } : \mathrm { I n } \Bigg ( \frac { \partial } { \partial x } \Bigg ( \frac { \partial } { \partial x } \Bigg ( x _ { 2 } - \frac { \partial } { \partial x } \Bigg ) \Bigg ) \Bigg ) \times \mathrm { R e } ^ { 2 } \Bigg ( \frac { \partial } { \partial x } \Bigg ( x _ { 2 } - \frac { \partial } { \partial x } \Bigg ) \Bigg ) \mathrm { R e } ^ { 2 } \Bigg ( \frac { \partial } { \partial x } \Bigg ) \Bigg ( \frac { \partial } { \partial x } \Bigg ) \Bigg ( \frac { \partial } { \partial x } \Bigg ) \Bigg ( \frac { \partial } { \partial x } - \frac { \partial } { \partial x } \Bigg ) \mathrm { R e } ^ { 2 } \Bigg ( x _ { 2 } - \frac { \partial } { \partial x } \Bigg ) - \mathrm { R e } ^ { 2 } \Bigg ( x _ { 2 } - \frac { \partial } { \partial x } \Bigg ) \Bigg ) \mathrm { R e } ^ { 2 } } \\ & { \Bigg - \frac { 1 } { \mathrm { R e } } \Bigg ( \frac { \partial } { \partial x } \Bigg ) \Bigg ( \frac { \partial } { \partial x } \Bigg ) \Bigg ( \frac { \partial } { \partial x } - \frac { \partial } { \partial x } \Bigg ) \Bigg ( \frac { \partial } { \partial x } \Bigg ) \Bigg ( \frac { \partial } { \partial x } - \frac { \partial } { \partial x } \Bigg ) \Bigg ( \frac { \partial } { \partial x } \Bigg ) \Bigg ( \frac { \partial } { \partial x } - \frac { \partial } { \partial x } \Bigg ) \Bigg ) \mathrm { R e } ^ { 2 } \Bigg ( x _ { 2 } - \frac { \partial } { \partial x } \Bigg ) \Bigg ( \frac { \partial } { \partial x } \Bigg ) \Bigg ( \frac { \partial } { \partial x } - \frac { \partial } { \partial x } \Bigg ) \Bigg ( \frac { \partial } { \partial x } \Bigg ) } \\ &  \Bigg ( \frac { \partial } { \partial x } \Bigg ) \Bigg ( \frac { \partial } { \partial x } \Bigg ) \Bigg ( \frac { \partial } { \partial x } \Bigg ) \Bigg ( \frac { \partial } { \partial x } \Bigg ) \Bigg ( \frac { \partial } { \partial x } \Bigg ) \Bigg ( \frac { \partial } { \partial x } \Bigg ) \Bigg ( \frac { \partial } { \partial x } \Bigg ) \Bigg ( \frac { \partial } { \partial x } \Bigg ) \mathrm { R e } ^ { 2 } \Bigg ( \frac { \partial } { \partial x } \Bigg ) \Bigg ( \frac { \partial } { \partial x } \Bigg ) \Bigg ( \frac { \partial } { \partial x } \Bigg ) \mathrm { R e } ^ { 2 } \Bigg ( \frac { \partial } { \partial x } \Bigg ) \Bigg ( \frac { \partial } { \partial x } \Bigg ) \Bigg ( \frac { \partial } { \partial x } \Bigg ) \mathrm { R e } ^ { 2 } \Bigg ( \frac { \partial } { \partial x } \Bigg ) \Bigg ( \frac { \partial } { \partial x } \Bigg ) \Bigg ( \frac { \partial } { \partial x } \Bigg ) \Bigg ( \frac { \partial } { \partial x } \Bigg ) \Bigg  \end{array}
+$$$$
+\begin{array} { r l } & { \qquad - \frac { 1 } { 2 } ( \frac { 2 \sigma _ { \mathcal { G } } ^ { 2 } } { \sigma _ { \mathcal { G } } ^ { 2 } } - \frac { 3 } { 2 } \frac { \sigma _ { \mathcal { G } } ^ { 2 } } { \sigma _ { \mathcal { G } } ^ { 2 } } - \frac { 3 } { 2 } \frac { \sigma _ { \mathcal { G } } ^ { 2 } } { \sigma _ { \mathcal { G } } ^ { 2 } } - \frac { 3 } { 2 } \frac { \sigma _ { \mathcal { G } } ^ { 2 } } { \sigma _ { \mathcal { G } } ^ { 2 } } - \frac { 3 } { 2 } \frac { \sigma _ { \mathcal { G } } ^ { 2 } } { \sigma _ { \mathcal { G } } ^ { 2 } } - \frac { 3 } { 2 } \frac { \sigma _ { \mathcal { G } } ^ { 2 } } { \sigma _ { \mathcal { G } } ^ { 2 } } ) ^ { - 1 } } \\ &  \qquad - \frac { 1 } { 2 } \frac { \sigma _ { \mathcal { G } } ^ { 2 } } { \sigma _ { \mathcal { G } } ^ { 2 } } \frac { \sigma _ { \mathcal { G } } ^ { 2 } } { \sigma _ { \mathcal { G } } ^ { 2 } } \frac { \sigma _ { \mathcal { G } } ^ { 2 } } { \sigma _ { \mathcal { G } } ^ { 2 } } \frac { \sigma _ { \mathcal { G } } ^ { 2 } } { \sigma _ { \mathcal { G } } ^ { 2 } } \frac { \sigma _ { \mathcal { G } } ^ { 2 } } { \sigma _ { \mathcal { G } } ^ { 2 } } \frac { \sigma _ { \mathcal { G } } ^ { 2 } } { \sigma _ { \mathcal { G } } ^ { 2 } } \frac { \sigma _ { \mathcal { G } } ^ { 2 } } { \sigma _ { \mathcal { G } } ^ { 2 } } \frac { \sigma _ { \mathcal { G } } ^ { 2 } } { \sigma _ { \mathcal { G } } ^ { 2 } } \frac { \sigma _ { \mathcal { G } } ^ { 2 } } { \sigma _ { \mathcal { G } } ^ { 2 } } \frac { \sigma _ { \mathcal { G } } ^ { 2 } } { \sigma _ { \mathcal { G } } ^ { 2 } } \frac { \sigma _ { \mathcal { G } } ^ { 2 } } { \sigma _ { \mathcal { G } } ^ { 2 } } \frac { \sigma _ { \mathcal { G } } ^ { 2 } } { \sigma _ { \mathcal { G } } ^ { 2 } } \frac { \sigma _ { \mathcal { G } } ^ { 2 } } { \sigma _ { \mathcal { G } } ^ { 2 } } \\ &  \qquad - \frac { 1 } { 2 } ( \frac { 2 \sigma _ { \mathcal { G } } ^ { 2 } } { \sigma _ { \mathcal { G } } ^ { 2 } } - \frac { 3 } { 2 } \frac { \sigma _ { \mathcal { G } } ^ { 2 } } { \sigma _ { \mathcal { G } } ^ { 2 } } - \frac { 3 } { 2 } \frac  \sigma _ { \mathcal { G } } \end{array}
+$$
+
+where $H _ { i i } = H _ { x x } + H _ { w w }$
+
+# C D3-D5 Scaling Solution with F-string Sources
+
+Here we briefly review the D3-D5 scaling solution in type IIB supergravity with F-string sources [35]. This solution can be regarded as a back-reacted solution dual to a homogeneous baryon condensation in ${ \mathcal N } = 4$ super Yang-Mills. Each baryon ( $=$ D5-brane） situated near the horizon $r = 0$ carries $N$ F-strings which extend into the boundary $r = \infty$ due to the string creation [34]. Below,we work in the Einstein frame and the supergravity action is obtained by rewriting the oith $G _ { M N } ^ { E } = e ^ { - \phi / 2 } G _ { M N } ^ { s t r u g }$ ：
+
+For this brane setup, it is appropriate to use the following ansatz for the metric
+
+$$
+d s ^ { 2 } = - e ^ { u ( r ) } A ( r ) d t ^ { 2 } + e ^ { b ( r ) } \left( \sum _ { i = 1 } ^ { 3 } ( d x _ { i } ) ^ { 2 } \right) + e ^ { c ( r ) } ( A ^ { - 1 } ( r ) d r ^ { 2 } + r ^ { 2 } d s _ { X _ { 5 } } ^ { 2 } ) ,
+$$
+
+where $X _ { 5 }$ represents a Einstein manifold with the same Ricci curvature as the unit radius $S ^ { 5 }$ For fluxes, the ansatz is
+
+$$
+\begin{array} { l } { { F _ { 3 } = e ^ { \frac { 3 } { 2 } b ( r ) } \cdot h ( r ) \cdot d x _ { 1 } \wedge d x _ { 2 } \wedge d x _ { 3 } , } } \\ { { F _ { 5 } = r ^ { 5 } e ^ { \frac { 5 } { 2 } c ( r ) } f ( r ) ( \Omega _ { X _ { 5 } } + \ast \Omega _ { X _ { 5 } } ) , } } \end{array}
+$$
+
+where $\Omega _ { X _ { 5 } }$ is the volume form on $X _ { 5 }$ .We also assume that the dilaton is dependent on the radial coordinate $r$ only. If we treat this solution within supergravity, we will have a tadpole of the NSNS 3-form flux $H _ { 3 }$ as is clear from the equation of motion in the presence of the Chern-Simons term
+
+$$
+d ( e ^ { - \phi } * H _ { 3 } ) = F _ { 3 } \wedge F _ { 5 } ,
+$$
+
+where $F _ { 3 }$ and $F _ { 5 }$ are sourced by the D5 and D3-branes, respectively. Thus we cannot construct consistent supergravity solutions under the assumption of symmetry of spacetime implied by (C.1).
+
+To resolve this problem, we notice that the effective F-string charges are generated from the D3-brane and D5-brane charges via the Chern-Simons term
+
+$$
+S _ { C S } = - \frac { 1 } { 4 \kappa _ { 1 0 } ^ { 2 } } \int C _ { 4 } \wedge H _ { 3 } \wedge F _ { 3 } .
+$$
+
+Therefore, to resolve this problem, we treat the created F-strings as the probe action and add it to the supergravity action. The probe action for a single F-string in the Einstein frame is given by
+
+$$
+S _ { s t r i n g } = - { \frac { 1 } { 2 \pi } } \int d \tau d \sigma e ^ { \frac { \phi } { 2 } } \sqrt { - G _ { E } } + { \frac { 1 } { 2 \pi } } \int d \tau d \sigma B _ { \mu \nu } \partial _ { \tau } X ^ { \mu } \partial _ { \sigma } X ^ { \nu } .
+$$
+
+By identifying $\tau = t$ and $\sigma = r$ and taking the sum over infinitely many F-strings,we obtain the probe action for the created F-strings
+
+$$
+\sum _ { i } S _ { s t r i n g ( i ) } = \int d x _ { 1 } d x _ { 2 } d x _ { 3 } \Omega _ { X _ { 5 } } \rho S _ { s t r i n g } ,
+$$
+
+where $i$ labels $i$ -th F-string and the density of F-strings $\rho$ is assumed to be constant.In the following,we solve the equations of motion derived from the supergravity action with this probe action added.
+
+# C.1 Equation of Motions
+
+The Bianchi identity for $F _ { 3 }$ and the equation of motion for $F _ { 5 }$ are written as
+
+$$
+\partial _ { r } ( r ^ { 5 } e ^ { \frac { 5 } { 2 } c ( r ) } f ( r ) ) = 0 , \partial _ { r } ( e ^ { \frac { 3 } { 2 } b ( r ) } h ( r ) ) = 0 .
+$$
+
+Here we notice that the equation of motion for $F _ { 3 }$ is automatically satisfied for the ansatz introduced above. From these equations,we can define the constants $F$ and $H$ as follows:
+
+$$
+f ( r ) = F \cdot r ^ { - 5 } e ^ { - \frac { 5 } { 2 } c ( r ) } , ~ h ( r ) = H \cdot e ^ { - \frac { 3 } { 2 } b ( r ) } .
+$$
+
+Then, from (C.3), the density of F-strings turns out to be
+
+$$
+\rho = \frac { \pi F H } { 2 \kappa _ { 1 0 } ^ { 2 } } .
+$$
+
+To derive the dilaton equation of motion, we notice that the F-string action now looks like
+
+$$
+S _ { F - s t r i n g } = - { \frac { 1 } { 2 \pi } } \int d t d r e ^ { \frac { \phi } { 2 } } \sqrt { - G _ { E } } = - { \frac { 1 } { 2 \pi } } \int d t d r e ^ { \frac { \phi } { 2 } + { \frac { c } { 2 } } + { \frac { u } { 2 } } } .
+$$
+
+Thus the equation of motion becomes
+
+$$
+r ( \phi ^ { \prime } ( r ) A ( r ) e ^ { 2 c ( r ) + \frac { 3 } { 2 } b ( r ) + \frac { u ( r ) } { 2 } } r ^ { 5 } ) = \frac { F H } { 4 } e ^ { \frac { \phi ( r ) } { 2 } + \frac { c ( r ) } { 2 } + \frac { u ( r ) } { 2 } } + \frac { 1 } { 2 } r ^ { 5 } e ^ { \phi ( r ) + \frac { 3 } { 2 } b ( r ) + 3 c ( r ) + \frac { u ( r ) } { 2 } } h ( r ) ^ { 2 } .
+$$
+
+We can also derive the Einstein equations for the type IIB supergravity with the F-string action. Combined with (C.11),we can summarize the equations of motion as follows:
+
+$$
+[ A ( \log A + u ) ^ { \prime } r ^ { 5 } e ^ { \frac { 3 } { 2 } b + 2 c + \frac { 1 } { 2 } u } ] ^ { \prime } = \frac { 3 } { 8 } F H e ^ { \frac { 1 } { 2 } \phi + \frac { 1 } { 2 } c + \frac { 1 } { 2 } u } + \frac { 1 } { 2 } F ^ { 2 } r ^ { - 5 } e ^ { - 2 c + \frac { 3 } { 2 } b + \frac { 1 } { 2 } u } + \frac { 1 } { 4 } H ^ { 2 } r ^ { 5 } e ^ { \phi + 3 c + \frac { 1 } { 2 } u } .
+$$
+
+$$
+\begin{array} { l } { { [ b ^ { \prime } A r ^ { 5 } e ^ { \frac { 3 } { 2 } b + 2 c + \frac { 1 } { 2 } u } ] ^ { \prime } = - \frac { 1 } { 8 } F H e ^ { \frac { 1 } { 2 } \phi + \frac { 1 } { 2 } c + \frac { 1 } { 2 } u } + \displaystyle \frac { 1 } { 2 } F ^ { 2 } r ^ { - 5 } e ^ { - 2 c + \frac { 3 } { 2 } b + \frac { 1 } { 2 } u } - \frac { 3 } { 4 } H ^ { 2 } r ^ { 5 } e ^ { \phi + 3 c - \frac { 3 } { 2 } b + \frac { 1 } { 2 } u } , } } \\ { { [ ( c + 2 \log r ) ^ { \prime } A r ^ { 5 } e ^ { \frac { 3 } { 2 } b + 2 c + \frac { 1 } { 2 } u } ] ^ { \prime } = - \frac { 1 } { 8 } F H e ^ { \frac { 1 } { 2 } \phi + \frac { 1 } { 2 } c + \frac { 1 } { 2 } u } - \frac { 1 } { 2 } F ^ { 2 } r ^ { - 5 } e ^ { - 2 c + \frac { 3 } { 2 } b + \frac { 1 } { 2 } u } } } \\ { { + \frac { 1 } { 4 } H ^ { 2 } r ^ { 5 } e ^ { \phi + 3 c - \frac { 3 } { 2 } b + \frac { 1 } { 2 } u } + 8 r ^ { 3 } e ^ { 2 c + \frac { 3 } { 2 } b + \frac { 1 } { 2 } u } , } } \\ { { [ ( \log A + u - b - 2 \phi ) ^ { \prime } A r ^ { 5 } e ^ { \frac { 3 } { 2 } b + 2 c + \frac { 1 } { 2 } u } ] ^ { \prime } = 0 , } } \\ { { 2 ( \phi ^ { \prime } ) ^ { 2 } + 3 ( b ^ { \prime } ) ^ { 2 } + 1 0 \frac { c ^ { \prime } } { r } - 3 b ^ { \prime } c ^ { \prime } + 6 b ^ { \prime \prime } + 1 0 c ^ { \prime \prime } - 3 b ^ { \prime } u ^ { \prime } - 5 c ^ { \prime } u ^ { \prime } - 1 0 \frac { u ^ { \prime } } { r } = 0 . } } \end{array}
+$$
+
+It is also useful to derive the folowing equation from a linear combination of (C.12),(C.13), and (C.14)
+
+$$
+\left[ ( \log A + u + b + 2 c + 4 \log r ) ^ { \prime } A r ^ { 5 } e ^ { \frac { 3 } { 2 } b + 2 c + \frac { 1 } { 2 } u } ] ^ { \prime } = 1 6 r ^ { 3 } e ^ { 2 c + \frac { 3 } { 2 } b + \frac { 1 } { 2 } u } . \right.
+$$
+
+In the above discussion，we have derived five equation of motion for five variables $A ( r )$ $u ( r ) , b ( r ) , c ( r ) , \phi ( r )$ . However,we can eliminate one of them， say $u ( r )$ ， by the diffeomorphism $r \to \tilde { r } = \tilde { r } ( r )$ . In this sense, the independent degree of freedom under the symmetry ansatz is
+
+the four variables. Thus we should show the five equations of motion are not over constrained. Indeed we can show the following identity from the four equations of motion (C.12),(C.13), (C.14), and (C.15)
+
+$$
+\left[ r ^ { 1 0 } A ( r ) ^ { 2 } e ^ { 3 b ( r ) + 4 c ( r ) + u ( r ) } \cdot E _ { c o n s t r a i n t } ( r ) \right] ^ { \prime } = 0 ,
+$$
+
+where $E _ { c o n s t r a i n t } ( r )$ is the left-hand side of (C.16). This guarantees that the fifth equation of motion $E _ { c o n s t r a i n t } ( r ) = 0$ is satisfied if it is vanishing at any particular value of $r$ ：
+
+# C.2 Scaling Solutions
+
+Let us assume the following simple scaling profile for the unknown functions:
+
+$$
+\begin{array} { r } { ( r ) = u _ { 1 } \log r + u _ { 0 } , \quad b ( r ) = b _ { 1 } \log r + b _ { 0 } , c ( r ) = c _ { 1 } \log r + c _ { 0 } , \phi ( r ) = \phi _ { 1 } \log r + \phi _ { 0 } . } \end{array}
+$$
+
+At first we also assume $A ( r ) = 1$ ，which corresponds to the extremal case.
+
+Using the three equations of motion (C.14), (C.15), and (C.16),we find that the following coefficients $u _ { 1 } , b _ { 1 } , c _ { 1 }$ and $\phi _ { 1 }$ satisfy equations of motion
+
+$$
+u _ { 1 } = 7 \sqrt { \frac { 2 } { 5 } } , b _ { 1 } = \sqrt { \frac { 2 } { 5 } } , c _ { 1 } = - 2 , \phi _ { 1 } = 3 \sqrt { \frac { 2 } { 5 } } .
+$$
+
+By substituting (C.19) with (C.20) into (C.12),(C.13) and (C.14), we can find four solutions for the pair $( F , H )$ in terms of $u _ { 0 } , b _ { 0 } , c _ { 0 }$ and $\phi _ { 0 }$ as follows:
+
+$$
+\begin{array} { r c l } { { { \cal F } } } & { { = } } & { { \pm e ^ { 2 c _ { 0 } } \cdot \frac { \sqrt { 8 3 - \sqrt { 1 0 8 1 } } } { \sqrt { 3 } } , } } \\ { { { \cal H } } } & { { = } } & { { \displaystyle \frac { \sqrt { 1 0 8 1 } - 5 } { 4 4 } \cdot e ^ { \frac { 3 } { 2 } b _ { 0 } - \frac { 5 } { 2 } c _ { 0 } - \frac { 1 } { 2 } \phi _ { 0 } } \cdot F , } } \end{array}
+$$
+
+and
+
+$$
+\begin{array} { r c l } { { F } } & { { = } } & { { \pm e ^ { 2 c _ { 0 } } \cdot \frac { \sqrt { 8 3 + \sqrt { 1 0 8 1 } } } { \sqrt { 3 } } , } } \\ { { } } & { { } } & { { } } \\ { { H } } & { { = } } & { { - \displaystyle \frac { \sqrt { 1 0 8 1 } + 5 } { 4 4 } \cdot e ^ { \frac { 3 } { 2 } b _ { 0 } - \frac { 5 } { 2 } c _ { 0 } - \frac { 1 } { 2 } \phi _ { 0 } } \cdot F . } } \end{array}
+$$
+
+Thus,in order to realize the fluxes with arbitrary values and sign, we have only to choose one of the four solutions and tune $c _ { 0 }$ and $\phi _ { 0 }$ appropriately. We set $u _ { 0 } = b _ { 0 } = 0$ below.
+
+As we constructed the extremal solution, generalization to a black brane solution is straightforward by considering more general functions $A ( r )$ . Let us again assume the ansatz (C.19) with the values (C.20). Then it immediately follows that all equation of motion are satisfied only if
+
+$$
+A ( r ) = 1 - \frac { M } { r ^ { \sqrt { 1 0 } } } ,
+$$
+
+where $M$ is an arbitrary constant related to the ADM mass of the black brane. We also notice that the other profiles are the same as the extremal solutions.
+
+In summary we obtain the following metric in the Einstein frame and the dilaton
+
+$$
+d s ^ { 2 } = - r ^ { u _ { 1 } } A ( r ) d t ^ { 2 } + r ^ { b _ { 1 } } d \vec { x } ^ { 2 } + e ^ { c _ { 0 } } \left( \frac { d r ^ { 2 } } { r ^ { 2 } A ( r ) } + ( d \Omega _ { 5 } ) ^ { 2 } \right) , ~ e ^ { \phi ( r ) - \phi _ { 0 } } = r ^ { \phi _ { 1 } } .
+$$
+
+and, after the redefinition of radial coordinate $\rho = r ^ { \frac { 1 } { \sqrt { 1 0 } } }$ , we reach the expression (8.1).
+
+# References
+
+[1] J.M. Maldacena, “The large N limit of superconformal field theories and supergravity,” Adv. Theor.Math. Phys. 2，231 (1998）[Int.J. Theor.Phys.38,1113 (1999)] [arXiv:hep-th/9711200].   
+[2] S. S. Gubser,I. R. Klebanov and A. M. Polyakov，“Gauge theory correlators from noncritical string theory,” Phys. Lett.B 428,105 (1998) [arXiv:hep-th/9802109].   
+[3] E. Witten,“Anti-de Sitter space and holography,” Adv. Theor. Math. Phys. 2, 253 (1998) [arXiv:hep-th/9802150].   
+[4] O. Aharony, S. S. Gubser, J. M. Maldacena, H. Ooguri and Y. Oz,“Large N field theories, string theory and gravity,” Phys. Rept. 323,183 (2000) [arXiv:hep-th/9905111].   
+[5] H.W. Diehl,“Critical Behavior at M-Axial Lifshitz Points,” Acta physica slovaca 52 (4), (2002） 271-283 [arXiv:cond-mat/0205284].   
+[6] M.Henkel， “Schrodinger invariance in strongly anisotropic critical systems,” J. Statist. Phys. 75 (1994) 1023 [arXiv:hep-th/9310081]； “Local Scale Invariance and Strongly Anisotropic Equilibrium Critical Systems,” Phys. Rev. Lett. 78 (1997) 1940;   
+[7] J. L. Cardy,“Scaling And Renormalization In Statistical Physics,” Cambridge, UK: Univ. Pr. (1996) 238 p. (Cambridge lecture notes in physics: 3)   
+[8] S.Kachru, X. Liu and M. Muligan,“Gravity Duals of Lifshitz-like Fixed Points,” Phys. Rev.D 78 (2008) 106005 [arXiv:0808.1725 [hep-th]].   
+[9] S. Sekhar Pal,“Towards Gravity solutions of AdS/CMT,” arXiv:0808.3232 [hep-th]； “More gravity solutions of AdS/CMT,” arXiv:0809.1756 [hep-th].   
+[10] P. Horava,“Quantum Criticality and Yang-Mills Gauge Theory,” arXiv:0811.2217 [hep-th].   
+[11] M. Taylor，“Non-relativistic holography,” arXiv:0812.0530 [hep-th].   
+[12] U.H. Danielsson and L. Thorlacius,“Black holes in asymptotically Lifshitz spacetime,” JHEP 0903 （2009) 070 [arXiv:0812.5088 [hep-th]].   
+[13] S. S. Pal, “Anisotropic gravity solutions in AdS/CMT,” arXiv:0901.0599 [hep-th].   
+[14] I. Gordeli and P.Koroteev,“Comments on Holography with Broken Lorentz Invariance,” arXiv:0904.0509 [hep-th].   
+[15] Y. Nishida and D. T. Son，“Nonrelativistic conformal field theories,” Phys.Rev. D 76, 086004（2007） [arXiv:0706.3746 [hep-th].   
+[16] D. T. Son，“Toward an AdS/cold atoms correspondence:_ a_geometric realization of the Schroedinger symmetry,” Phys. Rev. D 78, 046003 (2008) [arXiv:0804.3972 [hep-th]].   
+[17] K. Balasubramanian and J. McGreevy, “Gravity duals for non-relativistic CFTs,” Phys. Rev. Lett.101,061601 (2008) [arXiv:0804.4053 [hep-th].   
+[18] C. P. Herzog, M. Rangamani and S. F. Ross, “Heating up Galilean holography,” JHEP 0811,080 (2008) [arXiv:0807.1099 [hep-th].   
+[19] J. Maldacena, D. Martelli and Y. Tachikawa,“Comments on string theory backgrounds with non-relativistic conformal symmetry,” JHEP 0810, 072 (2008) [arXiv:0807.1100 [hep-th]].   
+[20] A. Adams, K. Balasubramanian and J. McGreevy, “Hot Spacetimes for Cold Atoms,” JHEP 0811,059（2008)[arXiv:0807.1111 [hep-th].   
+[21] S.A. Hartnoll and K. Yoshida, “Families of IIB duals for nonrelativistic CFTs,” JHEP 0812 （2008) 071 [arXiv:0810.0298 [hep-th].   
+[22] M. Fujita, W. Li, S. Ryu and T. Takayanagi,“Fractional Quantum Hall Efect via Holography: Chern-Simons, Edge States,and Hierarchy,” arXiv:0901.0924 [hep-th].   
+[23] J. Polchinski, “String theory. Vol. 1 and Vol. 2,” Cambridge, UK: Univ. Pr. (1998） 402 $p$ （20   
+[24] G.Policastro，D. T. Son and A. O. Starinets，“The shear viscosity of strongly coupled N = 4 supersymmetric Yang-Mills plasma,” Phys. Rev. Lett. 87 (2001) 081601 [arXiv:hep-th/0104066].   
+[25] P. K. Kovtun and A. O. Starinets,“Quasinormal modes and holography,” Phys. Rev. D 72 (2005） 086009 [arXiv:hep-th/0506184].   
+[26] J. Mas and J. Tarrio,“Hydrodynamics from the Dp-brane,” JHEP O705 (2007） 036 [arXiv:hep-th/0703093].   
+[27] P. Kovtun, D. T. Son and A. O. Starinets,“Holography and hydrodynamics: Diffusion on stretched horizons,” JHEP 0310 (2003) 064 [arXiv:hep-th/0309213].   
+[28] A. Buchel, “Bulk viscosity of gauge theory plasma at strong coupling,” Phys. Lett. B 663 (2008） 286 [arXiv:0708.3459 [hep-th]].   
+[29] L.Bombeli,R. K. Koul, J.H. Lee and R. D. Sorkin,“A Quantum Source of Entropy for Black Holes,” Phys. Rev. D 34 (1986) 373; M. Srednicki,“Entropy and area,” Phys. Rev. Lett.71 (1993) 666 [arXiv:hep-th/9303048].   
+[30] C. Holzhey, F. Larsen and F. Wilczek,“Geometric_and renormalized entropy in conformal feld theory,” Nucl. Phys. B 424 (1994) 443 [arXiv:hep-th/9403108]; P. Calabrese and J.L. Cardy,“Entanglement entropy and quantum field theory,” J. Stat. Mech. O406 (2004) P002 [arXiv:hep-th/0405152].   
+[31] S. Ryu and_T. Takayanagi， “Holographic derivation of entanglement entropy from AdS/CFT,” Phys.Rev. Lett. 96 (2006) i81602 [arXiv:hep-th/0603001]; “Aspects of holographic entanglement entropy,” JHEP 0608 (2006) 045 [arXiv:hep-th/0605073].   
+[32] H. J. Kim, L. J. Romans and P. van Nieuwenhuizen,“The Mass Spectrum Of Chiral N=2 D=10 Supergravity On S\*\*5,” Phys. Rev. D 32(1985) 389.   
+[33] O. DeWolfe, D. Z. Freedman, S. S. Gubser, G. T. Horowitz and I. Mitra,“Stability of AdS(p) x M(q) compactifications without supersymmetry,” Phys. Rev. D 65 (2002) 064033 [arXiv:hep-th/0105047].   
+[34] E.Witten，“Baryons_and branes in anti de Sitter space,” JHEP 9807 (1998） 006 [arXiv:hep-th/9805112].   
+[35] T. Azeyanagi,T.Nishioka and T. Takayanagi, unpublished note.   
+[36] E. Keski-Vakkuri and P. Kraus,“Quantum Hall Effect in AdS/CFT,” JHEP 0809 (2008) 130 [arXiv:0805.4643 [hep-th].   
+[37] J.L. Davis, P. Kraus and A. Shah,“Gravity Dual of a Quantum Hall Plateau Transition,” JHEP 0811 (2008) 020 [arXiv:0809.1876 [hep-th].   
+[38] Y. Hikida, W. Li and T. Takayanagi, “ABJM with Flavors and FQHE,” arXiv:0903.2194 [hep-th].

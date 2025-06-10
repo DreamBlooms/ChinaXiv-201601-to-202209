@@ -1,0 +1,241 @@
+[
+    {
+        "type": "text",
+        "text": "SCIENTIFIC REPORTS ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "OPEN ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received: 12 March 2015   \nAccepted: 29 June 2015   \nPublished: 12 August 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bioinspired photonic structures by the reflector layer of firefly lantern for highly efficient chemiluminescence ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Linfeng Chen¹,\\*, Xiaodi Shi²,\\*，Mingzhu Li², Junping Hu², Shufeng Sun5, Bin Su¹, Yongqiang Wen³, Dong Han4, Lei Jiang1 & Yanlin Song1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fireflies have drawn considerable attention for thousands of years due to their highly efficient bioluminescence, which is important for fundamental research and photonic applications. However, there are few reports on the reflector layer (RL)of firefly lantern,which contributes to the bright luminescence. Here we presented the detailed microstructure of the RL consisting of random hollow granules,which had high reflectance in the range from 45onm to 8oo nm. Inspired by the firefly lantern,artificialflms with high reflectance in the visible region werefabricated using hollow silica microparticles mimicking the structure of the RL.Additionally,the bioinspired structures provided an efficient RL for the chemiluminescence system and could substantially enhance the initial chemiluminescence intensity.The work not only provides new insight into the bright bioluminescence of fireflies,but also is importance for the design of photonic materials for theranostics,detection, and imaging. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Organisms with unique photonic functions,such as iridescent colors1-4,antireflection5,and optical waveguide78,provide inspirations for researchers to design various functional photonic materials, which hold great potential inlasers9,10,detection,12，optical fbers13-16,and displaying17,18.For instance,the iridescent colors arising from periodic structures, e.g. peacock feathers², Polia fruits3,and opals19, inspired photonic crystals,boosting the development of detection, displaying and lasers.The britlestars with characteristic calcite double-lens in arms are sensitive to $\\mathrm { l i g h t } ^ { 2 0 }$ ，providing new ideas for designing novel materials with both mechanical and optical functions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "As the typical species of bioluminescence,fireflies (Coleoptera: Lampyridae) have attracted human attention for their“lanterns”(light-generating organs,LOs)for thousands of years21-25.In order to fulfill their life missions,such as warning,mating and predation26,27,freflies communicate with each other by delivering bright bioluminescence signals from LOs in the dark night. The unique structure of LOs featured to be composed of a cuticle,a photogenic layer (PL),and a reflector layer (RL)is dedicated to the bright luminescence28.As reported,the photochemical reaction in the PL is highly efficient (quantum yield ${ \\sim } 4 1 \\% ) ^ { 2 9 }$ . Besides the internal quantum efficiency, the light out-coupling efficiency is another crucial factor for the lighting effciency. Recently, Kim et al.reported that the ordered nanostructures on the cuticle could help to effciently extract the bioluminescence light30.But until now, there is a lack of reports on the RL. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Herein, we showed the unique structure of the RL,which was packed with hollow microgranules in an average diameter of $1 . 1 2 \\mu \\mathrm { m }$ and had high reflectance in the visible range.Inspiredly, the artificial films with high reflectance were fabricated using hollow silica microparticles, which could effciently enhance the initial chemiluminescence intensity. When the thickness of the photonic structure was about $4 6 \\mu \\mathrm { m }$ the chemiluminescence intensity was increased up to 55.3 times. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The detailed microstructure of the reflector layer.The freflies were collected in Beijing (China) in summer. With the whole bodies in the length of ca. $5 \\mathrm { m m }$ ,their backs of fireflies are khaki (Fig. S1) and the ventral surfaces are black except for the whiteLOs (Fig.la,b).In order to see the inner structure, the LOs were cut along the longitudinal axis (Fig.1b) after dehydration, which were then observed by an optical microscope.As shown in Fig.lc,the LOs consisted of threelayers,namely,a cuticle (the top),a PL (the dark part),and a RL (the white part).The three-layered structure of LOs was further confirmed by scanning electron microscopy (SEM),which indicated the thickness of the RL was ca. $4 0 \\mu \\mathrm { m }$ ,as shown in Fig.1d.The SEM magnification images gave the detailed structure of the PL and the RL (Fig.le,f). The RL was composed of round granules with an average diameter of $1 . 1 2 \\mu \\mathrm { m }$ ,while the PL was irregular structures.Remarkably, the micro granules in the RL were found to be hollow by transmission electron microscopy (TEM) (Fig.1f,the inset), which was rarely discovered in nature. The hollow structure was also confirmed by SEM and atomic force microscopy (AFM) (Fig. S2). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fireflies emitted bright luminescence at night with the central wavelength locating at about $5 5 0 \\mathrm { n m }$ (Fig. 2b),and the full width at half maximum was ca. $6 9 \\mathrm { n m }$ . The bioluminescence is highly efficient, which is usually ascribed to the catalytic reactions in the $\\mathrm { P L } ^ { 2 9 }$ . Although the RL was also proposed to contribute to the bioluminescence by reflecting the light emitted from the $\\mathrm { P L } ^ { 2 8 , 3 1 }$ ,its detailed structure and function have not been confirmed. We found that the RL exhibited high reflectance in the range from $4 0 0 \\mathrm { n m }$ to ${ 8 0 0 } \\mathrm { n m }$ (Fig.2c). Especially, the reflectance reached up to $8 2 \\%$ at ca. $5 5 0 \\mathrm { n m }$ . The unique structure found in the RL was believed to be crucial for the bright bioluminescence.Based on the structure of the LOs,a simplified model was proposed (Fig. 2a).The highly reflective property indicated the RL could reflect biofluorescence from the PL and enhance the light intensity.As the band width of bioluminescence was large,the RL acted as a reflective platform, which reflected light in a wide range of wavelength.The RL provided the inspiration to design new photonic structures which could efficiently enhance the chemiluminescence intensity,as shown below. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Artificial photonic structure construction and its reflective property.The preparation of hollow silica particles was achieved bya modified template method according to the literature32,and the process was described inFig.S3a.Polystyrene (PS) microparticles were first prepared, which were subsequently coatedby silica $( \\mathrm { P S } @ \\mathrm { S i O } _ { 2 } )$ .After removal of PS cores by extraction,hollow silica $\\mathrm { ( h S i O } _ { 2 } \\mathrm { ) }$ ）microparticles were obtained. Fig. S3b exhibited the SEM images of as-prepared PS(ca. $1 . 1 0 \\mu \\mathrm { m } \\ ;$ ， ${ \\mathrm { P S } } @ { \\mathrm { S i O } } _ { 2 }$ (ca. $1 . 0 6 \\mu \\mathrm { m } \\ ;$ ，and ${ \\mathrm { h S i O } } _ { 2 }$ (ca. $1 . 0 5 \\mu \\mathrm { m } \\$ ).Then, ${ \\mathrm { h S i O } } _ { 2 }$ particle latex was deposited on a cover glass to get the artificial reflection film mimicking the structure of RL in LOs.By controlling the concentration of the particle solution,a series of reflection films with diffrent thicknesses would be achieved.Figure 3 presented the structure of an artificial film,and the hollow structure of ${ \\mathrm { h S i O } } _ { 2 }$ was clearly observed by SEM and TEM. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Similar to the RL of LOs,the artifcial reflection films exhibited high reflectance in the visible region. We fabricated the films of $\\mathrm { h S i O } _ { 2 } { \\cdot } 1$ ， $\\mathrm { h S i O } _ { 2 } { - 2 }$ ，and ${ \\mathrm { h S i O } } _ { 2 }$ -3 with the thickness of ca. $1 2 \\mu \\mathrm { m }$ ca. $2 6 \\mu \\mathrm { { m } ; }$ and ca. $4 6 \\mu \\mathrm { m }$ ,respectively.As demonstrated in Fig. 3c,the reflectance of the artificial structures was dependent upon the thickness of the structures,and reached up to nearly $9 3 \\%$ when the thickness was ca. $4 6 \\mu \\mathrm { m }$ (black curve). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Photonic structures enhanced the chemiluminescence. In order to investigate the property of such structures consisting of ${ \\mathrm { h S i O } } _ { 2 }$ ，the Rubrene-bis(2-carbopentyloxy-3,5,6-trichlorophenyl)oxalate (CPPO)- $\\cdot \\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ chemiluminescence system was selected (Fig. S4)33. In the presence of $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ ,CPPO would be oxidized to the four-ring intermediate. Subsequently,the four-ring intermediate transferred the energy to rubrene (an excited-state) which would release the energy as light34. The central wavelength of the chemiluminescence located at about $5 4 8 \\mathrm { n m }$ ，which was similar to the bioluminescence of fireflies.The prepared chemiluminescence reaction cell was a sandwich structure with an artificial RL in the middle layer,as shown in Fig. 4a. The ${ \\mathrm { h S i O } } _ { 2 }$ particles with an average diameter of $1 . 0 5 \\mu \\mathrm { m }$ were precipitated on the bottom cover glass,and the top cover glass was used to cover the structure.The Rubrene-CPPO- $\\cdot \\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ system was then injected into the space between the two cover glasses,and the intensity of chemiluminescence versus time was detected with fluorescence spectrometer. As a control experiment, the sample without the ${ \\mathrm { h S i O } } _ { 2 }$ structure was also performed.As demonstrated in Fig.4b,the initial intensity of chemiluminescence of the sample with ${ \\mathrm { h S i O } } _ { 2 }$ (ca. $2 6 \\mu \\mathrm { m }$ in thickness）was greatly enhanced as high as 26.3 times compared to that without ${ \\mathrm { h S i O } } _ { 2 }$ . The results indicated the structure with ${ \\mathrm { h S i O } } _ { 2 }$ played a special role in the chemiluminescence system.As another control, the structure composed of solid silica particles $( \\mathsf { s S i O } _ { 2 } )$ with diameter $1 . 0 8 \\mu \\mathrm { m }$ on average (ca. $2 5 \\mu \\mathrm { m }$ in thickness） was also studied.As illustrated in Fig.4b,the initial chemiluminescence intensity could also be enhanced by the $\\mathrm { \\ s S i O } _ { 2 }$ film by a factor of ca.14.0,which was less than that composed of ${ \\mathrm { h S i O } } _ { 2 }$ . The results showed that the unique structure mimicking the RL of LOs presented superior performance to enhance the intensity of emitted light.The bioinspired structure displayed high reflectance in a broad wavelength region,which acted as a reflector to boost the chemiluminescence light extraction.In addition,the higher surface area to volume ratio of holow particle enhanced the mass transfer in the interface3,35, which accelerated the reaction rate,resulting in the increase of chemiluminescence intensity. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c30d8ae25eb7d7baf5ee555328e8339ffcf0541453c8ed285b9c8c09fe274014.jpg",
+        "img_caption": [
+            "Figure1.The appearance and detailed structure of the firefly lantern.(a) Abdominal view of a firefly. Photograph courtesy of L.F.C.(b) The optical image of the white light organ. The scale bar is $1 0 0 \\mu \\mathrm { m }$ (c) Side-view of longitudinal-section of the light organ composed of a cuticle (the top),a photogenic layer (PL, the dark part),and a reflector layer (RL,the white part). The scale bar is $5 0 \\mu \\mathrm { m }$ .(d) The SEM image of the firefly lantern,confirming the three-layered structure.The scale bar is $2 0 \\mu \\mathrm { m }$ .(e) SEM magnification of the PL,showing the irregular structure. The scale bar is $2 \\mu \\mathrm { m }$ .(f) SEM of the RL, presenting the granule structure. The inset was the TEM image of an ultramicrotomed sample with section of ca. $7 0 \\mathrm { n m }$ , indicating the hollow structure. The scale bar is $2 \\mu \\mathrm { m }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In addition, the optical effect of the chemiluminescecne reaction cell was also related with the as-prepared photonic structure thickness.As exhibited in Fig.4c,the films of $1 . 0 5 \\mu \\mathrm { m } { \\mathrm { ~ h S i O } _ { 2 } }$ in the thickness of ca. $1 2 \\mu \\mathrm { m }$ （ $( \\mathrm { h S i O } _ { 2 } \\mathrm { - } 1$ ) $2 6 \\mu \\mathrm { m }$ （ $\\mathrm { ( h S i O } _ { 2 } { - } 2 \\mathrm { ) }$ ，and $4 6 \\mu \\mathrm { m }$ （ $( \\mathrm { h S i O } _ { 2 } { - } 3$ ）were investigated.All the samples displayed a significant increase of the initial chemiluminescence intensity than the control sample. Furthermore,the chemiluminescence could be tuned by the thickness of the structure.With the increase of thickness,the initial chemiluminescence intensity was increased accordingly. The emission intensity could be enhanced up to 55.3 times when the thickness was ca. $4 6 \\mu \\mathrm { m }$ . The bioinspired investigation will provide new insight into understanding the function of the RL of LOs on bioluminescence,and the design of photonic materials for chemiluminescence systems, which is promising for the development of detection,imaging, light sources,and reflectors. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b5d18f61f4042c0b57dd1c99d1406e0475e08cadadd96bb2de16d165e7b6df14.jpg",
+        "img_caption": [
+            "Figure 2.The spectra of firefly bioluminescence and reflectance of the reflector layer.(a)A simplifed modelofthe firefly lantern based on the SEMobservation. (b)Fireflies emit bright bioluminescence in the dark (the inset) with the central wavelength locating at ca. $5 5 0 \\mathrm { n m }$ .(c) The reflector layerof fireflies exhibited high reflectance in the visible region. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Methods ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Materials. Glutaraldehyde $( 2 5 \\% )$ ,rubrene $( 9 7 \\% )$ ,bis(2-carbopentyloxy-3,5,6-trichlorophenyl) oxalate (CPPO, $9 5 \\%$ ),2-methacryloyloxy ethyltrimethylammonium chloride (MTC, $7 2 \\%$ ),Poly(vinyl pyrrolidone) (PVP,K30),are purchased from Alfa Aesar.2,2-Azoisobutyronitrile (AIBN, $9 9 \\%$ ）was purchased from J&K company. $\\mathrm { H } _ { 2 } \\bar { \\mathrm { O } } _ { 2 }$ 1 $( 3 0 \\mathrm { w \\% } )$ ,styrene $( 9 9 \\% )$ ,tetraethoxysilane(TEOS, $2 8 \\%$ ),ammonium $( 2 5 \\mathrm { w \\% } )$ ， and ethanol $( 9 9 \\% )$ were purchased from Beijing chemical works. Styrene was used after distillation.All the other chemicals were directly used without further treatment. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Instruments and characterizations. The light images were obtained with a light microscope (Olympus BX 51) attached with a color digital CCD camera (Nikon DS-Ril CCD). The fluorescence images were taken by a camera. Scanning electron microscopy (SEM) was performed using Quanta 200 FEG at $3 \\mathrm { k V }$ under low vacuum conditions. Atomic force microscopy (AFM) was taken on SPA 400 with the tapping mode. Transmisson electron microscopy(TEM) was carried out on Philips CM operated at $2 0 0 \\mathrm { k V } .$ The bioluminescence of fireflies and the reflectance of the reflector layer were recorded by Ocean HR 4000 fiber optic UV-Vis spectrometer. The fluorescence spectra were collected by UV-4100 spectrometer. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Treatment of the lanterns of fireflies.Fireflies (Coleoptera: Lampyridae) for this study were collected between June and September in Haidian district of Beijing, China.The lanterns were directly cut off and immersed in $\\mathrm { p H } 7 . 2$ phosphate buffer solution containing $2 . 5 \\%$ glutaraldehyde (the fixing fluids),and stored in the fridge at $4 ^ { \\circ } \\mathrm { C }$ before further treatments.After fixation,the lanterns were washed, dehydrated with ethanol solution ( $5 0 \\%$ ,15 min; $7 5 \\%$ 。 $1 5 \\mathrm { m i n }$ · $8 5 \\%$ 2 $1 5 \\mathrm { m i n }$ $9 5 \\%$ ， $1 5 \\mathrm { m i n }$ ： $1 0 0 \\%$ 2 $1 5 \\mathrm { m i n }$ ), and finally dried by the method of $\\mathrm { C O } _ { 2 }$ critical point drying. The samples for SEM characterization and reflective detection were obtained by treatment of the lantern in liquid nitrogen.For TEM detection,the fixed lantern was washed with phosphate bufer solution for3 times,followed by dehydration with ethanol.Then the lantern was embedded in EPON epoxy resin,which was treated at $6 0 ^ { \\circ } \\mathrm { C }$ for $2 4 \\mathrm { h }$ .Finally, the lantern embedded in epoxy resin was cut by ultramicrotome (Leica EM UC6) with ca. $7 0 \\mathrm { n m }$ in thickness,and collected on TEM grid. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/445b16da3e1a2011f9b8de0b074d3b403994b39ffd1430929e3dad515b8b0d7c.jpg",
+        "img_caption": [
+            "Figure 3.The structure and reflective property of artificial flms.(a) Side-view of the artificial structure composed of ca. $1 . 0 5 \\mu \\mathrm { m }$ hollow silica by SEM. The scale bar is $2 0 \\mu \\mathrm { m }$ . (b) SEM magnification of (a) showing the hollow particle structure.The inset was the TEM image of hollow silica particles.The scale bar is $2 \\mu \\mathrm { m }$ (c) The artificial film $\\mathrm { h S i O } _ { 2 }$ -1 (ca. $1 2 \\mu \\mathrm { m } \\dot { }$ ), $\\mathrm { h S i O } _ { 2 } – 2$ (ca. $2 6 \\mu \\mathrm { m }$ ，and ${ \\mathrm { h S i O } } _ { 2 } { \\cdot } 3$ (ca. $4 6 \\mu \\mathrm { m }$ ）exhibited high reflectance in the visible region. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Preparation of hollow silica particles. Hollow silica $\\mathrm { ( h S i O _ { 2 } ) }$ ）particles were prepared by a template method32. Taking the preparation of ${ \\mathrm { h S i O } } _ { 2 }$ with an average diameter of $1 . 0 5 \\mu \\mathrm { m }$ as an example, polystyrene (PS) latex particles were firstly prepared by the emulsion polymerization method. Styrene $\\left( 4 . 1 \\mathrm { m L } \\right)$ ，ethanol $( 2 8 \\mathrm { m L } )$ ， $\\mathrm { H } _ { 2 } \\mathrm { O }$ $( 5 \\mathrm { m L } )$ )，and stabilizer PVP $\\left( 1 . 0 { \\mathrm { g } } \\right)$ were charged into a three-necked flask.The mixture was stirred by a mechanical stirrer and deoxygenated for about half an hour at $2 0 ^ { \\circ } \\mathrm { C }$ ， Then the temperature increased to $7 0 ^ { \\circ } \\mathrm { C }$ ,and AIBN $_ { ( 0 . 1 5 2 \\mathrm { g ) } }$ was added.After reaction for $1 . 5 \\mathrm { h }$ ，the mixture of styrene $\\left( 4 . 1 \\mathrm { m L } \\right)$ ,ethanol $( 2 7 \\mathrm { m L } )$ ,and MTC $( 3 5 5 \\mu \\mathrm { L } )$ was added into the flask.After $2 \\mathrm { h }$ ， ammonium $( 2 \\mathrm { m L } )$ was added and the temperature was decreased to $5 0 ^ { \\circ } \\mathrm { C } ,$ followed by the addition of TEOS $( 1 . 5 \\mathrm { m L } )$ ，which was reacted for $1 . 5 \\mathrm { h }$ .Finally, PS coated with silica $\\mathrm { ( P S @ S i O _ { 2 } ) }$ ）wasobtained by centrifugation. The further treatment of ${ \\mathrm { P S } } @ { \\mathrm { S i O } } _ { 2 }$ by toluene would give the ${ \\mathrm { h S i O } } _ { 2 }$ . By changing the amount of PVP and AIBN, ${ \\mathrm { h S i O } } _ { 2 }$ with different diameters would be achieved. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bce61affd16e6fabf80dc614a6ad5607404ecc7104dbaa4d354429730c3612a1.jpg",
+        "img_caption": [
+            "Figure 4. The effect of bioinspired photonic structures on chemiluminescence systems.(a) The scheme illstrating the studying device composed of a bottom cover glass,random hollow silica particles, the chemiluminescence solution,and a top cover glass.The chemiluminescence system could emit light with the central wavelength at about $5 4 8 \\mathrm { n m }$ ；(b) The chemiluminescence intensity versus time by photonic structures consisting of solid silica particles (ca. $1 . 0 8 \\mu \\mathrm { m }$ in diameter and $2 5 \\mu \\mathrm { m }$ in thickness,red curve) and hollow silica particles (ca. $1 . 0 5 \\mu \\mathrm { m }$ in diameter and $2 6 \\mu \\mathrm { m }$ in thickness,blue curve);(c) The chemiluminescence intensity versus time by the control and photonic structures with the thickness of $1 2 \\mu \\mathrm { m }$ (hSiO2-1), $2 6 ~ { \\mu \\mathrm { m } }$ (hSiO2-2), and $4 6 ~ { \\mu \\mathrm { m } }$ (hSiO2-3) on average. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Preparation of artificial structures. The confocal microscopy culture plates with cover glasses (completely washed) attached as the bottom were used as the devices to prepare artificial photonic structures.The center of the plate was filled with the hollow silica solution $( \\mathrm { p H } \\sim 7 , 3 5 0 \\mu \\mathrm { L } )$ .After the water was evaporated in room temperature,artificial structures mounting on the cover glasses were obtained. The thicknesses of photonic structures could be controlled by the concentration of particle solutions. The control sample composed of solid silica particles was fabricated by the similar procedure. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Detection of the chemiluminescence. The experiments were carried out at ca. $1 8 ^ { \\circ } \\mathrm { C }$ .The obtained artificial structure was covered by the other cover glass (completely washed). Subsequently, the tertiary butanol solution $( 2 0 \\mu \\mathrm { L } )$ containing $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ $( 2 \\mathrm { v \\% } )$ ，CPPO $( 5 \\mathrm { \\dot { \\times } } 1 0 ^ { - 3 } \\mathrm { M } )$ ，and rubrene $( 5 \\times 1 0 ^ { - 5 } \\mathrm { M } )$ was added into the space between two cover glasses.The chemiluminescene versus time was recorded by UV-4100 spectrometer. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.Parker,A.WelchV.LriverD.&artii,tructuralcolour:oalaaloguediscoveediwevilature46678 (2003).   \n2.Zi,J.et al.Coloration strategies in peacock feathers.Proc.Natl.Acad.Sci.USA100,12576-12578 (2003).   \n3.Vignolini,S.etal.Pointilist structural color inPolla fruit.Proc.Natl.Acad.Sci.USA109,15712-15715 (2012).   \n4.Jordan,T.M.,Partridge,J.C.&oberts,N.WNon-polaingbroadbandmultilayerreflectorsinfsNatureoton759-763 (2012).   \n5.Parker,A.R.,Hegedus,Z.&Wats,R.A.Solar-absorberantireflectorontheeyeofanEocenefly(45Ma).Proc.R.SocLand B-Biol. Sci.265,811-815 (1998).   \n6.Clapham,P.B.& Hutley,M.C.Reductionof lens reflexion bythe“moth eyeprinciple.Nature 244,281-282(1973).   \n7.Aizenberg,,undar,V.C.,Yablon,A.D,Weaver,J.C.&Chen,G.ologicalglassfber:corelationbetweeopticaland structural properties.Proc.Natl. Acad.Sci. USA 101,3358-3363 (2004).   \n8.Sundar,VCablonA.D,Grazul,J.L,an,.&zenberg,J.Fibre-opticalfeaturesofglasssponge-someuperr technological secrets have come to light from a deep-sea organism.Nature 424,899-90o (2003). 9.Lawrence,J.R.,Ying,Y.R.Jiang,P.&Foulger,S.H.Dynamictuningoforganiclasers withcollidalcrystals.Adv.Mater8, 300-303 (2006).   \n10.Shkunov,M.N.etal.Tuable,gap-statelasing inswitchabledirectionsforopalphotoniccrystals.Adv.Funct.Mater.1,2-26 (2002).   \n11.Xie,Z.etal.Anoptical nosechipbasedonmesoporouscoloidal potoniccrystal beads.Adv.Mater.26,2413-2418(2013).   \n12.Li,M.et al.Ultrasensitive DNA detectionusing photonic crystals.Angew.Chem.Int.Ed.47,7258-7262 (2008).   \n13.Russell,P.S.J.Photonic-crystal fibers.J. Lightwave Technol.24,4729-4749 (2006).   \n14.Vlasov,YA,OBoyle,M,Hamann,H.F&McNab,S.J.Activecontrolofowlightonachiwithphotoniccrystalwavguides. Nature 438,65-69 (2005).   \n15.Russell, P.S.J. Photonic crystal fibers. Science 299,358-362 (2003).   \n16.Ledermann,A.etal.Tre-dimensionalsiliconinversephotonicquasicrystalsforinfraredwavelengths.Nat.Mater.,94-945 (2006).   \n17.Wang,J,Wang,L,ong,Y.&Jiang,LPatternedpotoniccrystalsbricatedbyinjetprinting.J.MaterChem.C,60486058 (2013).   \n18.Kim,H.etal.Structuralcolourprintingusingamagnetically tunableandlithographicallyfixablephotonccrystal.Nature Photon.3,534-540 (2009).   \n19.Jones,J.B., Segnit,E.R.& Sanders,J.V. Structure of opal.Nature 204,990-991 (1964).   \n20.Aizenberg,,Tachenko,A,Weiner,Sddadi,L.&Hendler,G.Calciticicrolensesasartofteotoreceptortemin brittlestars.Nature 412,819-822 (2001).   \n21.Harvey,E.N.Bioluminescence.(Academic,1952).   \n22.McElroy,W.D.Theenergysourceforbioluminescence inanisolatedsystem Proc.Natl.Acad.Sci.USA33,342-345 (947).   \n23.Hasting,JWioluminescence:FromChemicalBondsTotoninEnergyansformationIniologicalSystems.JoWile& Sons,1975).   \n24.Wilson,T.& Hastings,J.W. Bioluminescence.Annu.Rev. Cell Dev. Biol.14,197-230 (1998).   \n25.Seliger,H.H.&McElroy,W.D.Spectralemisionandquantumyieldoffreflybioluminescence.Arch.Biochem.iophys.88, 136-141 (1960).   \n26.Branam,M.A.&Wenzel,JW.Theoriginofphoticbehaviorandtheevolutionofsexualcommunicatioinfreflies(Coleoptera: Lampyridae). Cladistics 19,1-22 (2003).   \n27.Lewis,S.M.&CratsleyC.K.lashsgnalevolution,matechoice,andpredationinfreflies.Annu.Rev.Entoml.53,29-321 (2008).   \n28.Buck,J.B.Theanatomyand physiologyof the lightorgan in fireflies.Ann.N.Y.Acad.Sci.49,397-470 (1948).   \n29.Ando,Y.etal.FireflybioluminescencequantumyieldandcolourchangebypH-sensitivegreen emision.NaturePhoton.2, 44-47 (2008).   \n30.Kim,J.J.etaliologicallinspiedLEDlnsfromuticularnanostructuresoffreflylanter.Proc.Natl.AcdciUA1, 18674-18678 (2012).   \n31.Smith,D.rgazationderatonofinescntoanifreflourisesyanica(oleoptea).Jeol, 323-359 (1963).   \n32.Chen,M.,Wu,L.M.,Zhou,S.X.&You,B.Amethodforthefabricationofmondisperse hollowsilicaspheres.Adv.Mater18, 801-806 (2006).   \n33.Shi,X.D.et al.Photonic crystal boosted chemiluminescence reaction.Laser Photon.Rev.7,L39-L43 (2013).   \n34.Ciscato,L.F.L,Bartoloi,FH,Bastos,E.L.&Baader,W.JDirectineticobservationofthechemiexcitationtepin peroxyoxalate chemiluminescence.J. Org. Chem.74,8974-8979 (2009).   \n35.An,K.&Hyeon,T.Synthesisandbiomedicalappications ofhollow nanostructures.Nano Today4,359-373(2009). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This work is supported by the 973 Program (2013CB9330004,2011CB932303,and 2011CB808400), the National Nature Science Foundation (Grant Nos.21003132,21073203,91127038,21121001 and 51173190),and the“Strategic Priority Research Program”of the Chinese Academy of Sciences (Grant No.XDA09020000). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "L.F.C.,X.D.S., M.Z.L.,J.P.H., Y.Q.W., D.H., Y.L.S.and L.J. conceived and designed the experiments; L.FC, X.D.S. J.P.H.and S.FS. performed the experiments; L.FC., X.D.S., M.Z.L. and S.B.analyzed the data; L.FC.wrote the paper; M.Z.L. and Y.L.S. revised the paper. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Additional Information Supplementary information accompanies this paper at http://www.nature.com/srep ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Competing financial interests: The authors declare no competing financial interests. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "How to cite this article: Chen,L.et al. Bioinspired photonic structures by the reflector layer of firefly lantern for highly effcient chemiluminescence. Sci.Rep.5,12965; doi: 10.1038/srep12965 (2015). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This work is licensed under a Creative Commons Attribution 4.0 International License.The images or other third party material in this article are included in the article's Creative Commons license,unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license,users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ ",
+        "page_idx": 6
+    }
+]

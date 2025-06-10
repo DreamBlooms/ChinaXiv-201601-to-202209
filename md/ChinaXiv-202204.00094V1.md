@@ -1,0 +1,268 @@
+# 伊犁河上游河谷水库浮游动物分布及水环境特征以恰甫其海为例
+
+彭亮}，茹辉军¹，陶玲'，代梨梨，李谷}，李荣¹，李晓莉¹，于洋²
+
+（1.中国水产科学研究院长江水产研究所,湖北 武汉430223；2.新疆伊犁河流域开发建设管理局，新疆 乌鲁木齐835109)
+
+摘要：为研究新疆伊犁河谷上游水库水环境质量状况，基于生物多样性指数、综合营养状态指数、冗余分析(RDA)等方法，于2019年6月(丰水期）、9月（平水期)和12月(枯水期)对恰甫其海水库浮游动物及水环境理化指标进行了调查分析。结果表明：(1)恰甫其海共检出浮游动物37种，其中原生动物17种，轮虫10种，枝角类4种，桡足类6种；优势种主要包括侠盗虫属(Strobilidiumsp.）、匣壳虫属（Centropyxis sp.）、王氏似铃壳虫（Tintinnopsis wangi）、疣毛轮属（Synchaeta sp.）、广布多肢轮虫(Polyarthra vulgaris)，共5种；浮游动物丰水期、平水期和枯水期丰度分别为 $5 8 0 . 4 0 \ \mathrm { i n d } \cdot \mathrm { L } ^ { - 1 } , 1 5 2 . 6 8$ （204号ind $\mathrm { L } ^ { - 1 }$ 、137.01ind $\mathrm { L } ^ { - 1 }$ ，生物量分别为 $0 . 5 5 0 \mathrm { m g ^ { \bullet } L ^ { - 1 } } \mathrm { , 0 . 0 1 8 \ m g ^ { \bullet } L ^ { - 1 } } \mathrm { , 0 . 0 0 7 \ m g ^ { \bullet } L ^ { - 1 } } \mathrm { , }$ ，丰度和生物量最大值均出现在丰水期。（2）浮游动物多样性指数存在典型的时空分布特征,Shannon-Wiener指数 $\left( H ^ { \prime } \right)$ 和Margalef指数 $( D )$ 在丰水期呈现由库尾向坝前增高的趋势，在平水期和枯水期以库中最高， $H ^ { \prime }$ 和 $D$ 均值分别为1.19和0.82。（3)RDA结果表明，水温(WT）、化学需氧量( $\mathrm { \overline { { C O D } } _ { M n } } .$ )和营养盐浓度如总氮(TN）、总磷(TP）、硝酸盐氮（ $\mathrm { N O } _ { 3 } ^ { - } { - } \mathrm { N } )$ 、亚硝酸盐氮( $\mathrm { N O } _ { 2 } ^ { - } { - } \mathrm { N } )$ 、氨态氮( $\mathrm { N H _ { 4 } ^ { + } - N } )$ 、正磷酸盐( $\mathrm { P O } _ { 4 } ^ { 3 - } \mathrm { - P ) }$ 等是影响浮游动物群落结构变化的主要环境因子。综合生物多样性指数和综合营养状态指数结果表明，恰甫其海水质处于贫-中营养状态，水环境质量状况良好，可以作为鱼类越冬场、产卵场和索饵场。
+
+关键词：浮游动物；分布特征；综合营养状态指数；冗余分析；恰甫其海
+
+# 文章编号：
+
+浮游动物作为水生食物网中“承上启下”的部分[，在水生态系统的能量流动、物质循环、信息传递中起着关键作用[2-3]。天然湖泊水库中的浮游动物不仅是水生态系统生产力的贡献者，而且因其对水环境变化响应灵敏，被认为是水生态系统环境优劣的指示者[4]。了解湖泊水库中的浮游动物群落结构特征与水环境因子的关系，有助于掌握湖泊水库水生态系统环境状况和功能结构特点，对湖泊水库渔业资源的开发利用具有指导意义[5]
+
+伊犁河谷地处中纬度内陆地区，属大陆性温带半干旱气候区。河谷被3条自西向东逐渐收缩的山脉环抱，形成向西开口的三角形。谷地独特的地形特点，使其成为新疆降雨量最多的地区，也是北疆冬季气温最高的地区。河谷年均气温在 $3 . 5 { \sim } 9 . 5 ~ \mathrm { ^ { \circ } C }$ 之间，年降水量平均在 $2 1 5 { \sim } 5 0 5 ~ \mathrm { m m }$ 之间，山区某些地带降水量在 $5 0 5 { \sim } 8 0 0 ~ \mathrm { m m }$ 之间[6]。伊犁河谷丰富的水资源与高地势的特点，为水电开发提供了有利条件，水电站开发成为伊犁河水资源开发利用的主要方式[7]。
+
+伊犁河土著鱼类在伊犁河谷水库中已形成较
+
+# 干吴区地理
+
+大群体，以伊犁鲈为例，2019年恰甫其海水库伊犁鲈捕捞产量为 $2 0 . 8 7 \mathrm { ~ t ~ }$ ，占恰甫其海全年捕捞产量的$6 9 . 5 7 \%$ （数据来自新疆伊犁河流域开发建设管理局),水库成为土著鱼类增殖和保护的重要生境[8-9],因此，为保护土著鱼类资源，需要对鱼类栖息水库的生态环境进行全面了解。目前对伊犁河谷水库浮游生物及水环境的调查研究较少，仅20世纪80—90年代[10-11]和2006年夏季[12]对伊犁河谷水库浮游生物及水环境进行了报道，尤其在近20a伊犁河流域地区兴建大量水库后，缺乏对伊犁河地区水库水生态环境的研究，因此，于2019年开展了伊犁河谷水库浮游动物分布及水环境特征调查研究，旨在掌握伊犁河谷水库浮游动物与水质变动规律，综合评估伊犁河谷水库水质状况，以期为伊犁河谷水库土著鱼类的增殖保护和水库渔业发展提供基础资料。
+
+# 材料与方法
+
+# 1.1采样点设置与采样时间
+
+恰甫其海位于新疆伊犁河谷特克斯河上，是一个因建设水利设施而形成的高山湖泊，属于典型的山谷型水库。该水利枢纽工程兴建于2001年，2004年下闸蓄水，并于2005年投入使用。水库呈西东走向，北面为高山，南面农田草地成为水库蓄水后的消落带。该水库所处区域多年平均气温 $8 . 8 ~ \mathrm { { ^ { \circ } C } }$ ，极端最高气温 $3 9 \mathrm { ^ \circ C }$ ,极端最低气温 $- 3 2 ^ { \circ } \mathrm { C }$ ,多年平均蒸发量为 $1 9 6 1 ~ \mathrm { m m }$ ,多年平均年降水量 $3 3 4 . 0 2 \mathrm { m m }$ 。因受冰川调节作用影响大，平缓的河川径流年际变化有利于水资源开发利用[13]
+
+参照《渔业生态环境监测规范一第3部分：淡水》[4]，于2019年6月（丰水期）、9月(平水期)和12月(枯水期)在恰甫其海水库设置5个采样点(12月由于水面冰封，仅采集坝前、库中和库尾3个区域），并于6月和9月在水库中心设置 $0 \mathrm { m } , 1 . 5 \mathrm { m } , 3 \mathrm { m } , 5$ $\mathrm { m } \ 、 1 0 \mathrm { m } \ 、 2 0 \mathrm { m } \ 、 3 0 \mathrm { m }$ 和 $4 0 \mathrm { m }$ 分层采样点(图1)。
+
+# 1.2样本采集、处理及鉴定方法
+
+样品采集和处理参照《中国淡水浮游生物研究方法》15],采集定性样品和定量样品两类。
+
+定性样品：以25号浮游生物网(孔径 $6 4 ~ { \mu \mathrm { m } }$ 在表层水体呈“ $\infty$ ”字形捞取 $3 { \sim } 5 \ \mathrm { m i n }$ ,并将网内滤取的标本放入塑料标本瓶中，加入 $2 { \sim } 3 ~ \mathrm { m L }$ 浓度 $1 0 \%$ 的甲醛溶液固定。
+
+定量样品：定量样品分两类，一类用采水器采集 $5 0 \mathrm { L }$ 表层水样，通过25号浮游生物网（孔径64$\mu \mathrm { m } ,$ 后，将网内滤取的标本放入 $5 0 ~ \mathrm { m L }$ 塑料标本瓶中，加入 $2 { \sim } 3 ~ \mathrm { m L }$ 浓度 $10 \%$ 的甲醛溶液保存；一类用1L塑料瓶采集1L表层混合水样，加入 $1 0 ~ \mathrm { m L }$ 鲁哥试液固定，带回实验室，沉降 $4 8 \mathrm { { h } }$ 后浓缩为 $3 0 ~ \mathrm { m L }$ ○
+
+在采集样品的同时，使用SD20型赛氏盘测定水体透明度；在 $0 . 5 \mathrm { ~ m ~ }$ 水深处用哈希便携式多参数水质分析仪HQ40d(HACH公司，美国）测定水温（WT）、酸碱度（ $\mathrm { ( p H ) }$ 、透明度(SD）溶解氧(DO）、电导率(EC)。
+
+# 1.3理化因子分析方法
+
+定量和定性样品经充分摇匀后在显微镜(Olympus-BX53)下检测浮游动物，其中，25号浮游生物网采集的样品用于检测枝角类和桡足类，1L塑料瓶采集的浓缩样品用于检测轮虫和原生动物。浮游动物种类鉴定参照《中国淡水轮虫志》6《中国动物志(淡水枝角类)》《中国动物志(淡水桡足类)》8和《微型生物监测新技术》；参照《水和废水分析方法(第4版)》[20测定总氮(TN）、总磷(TP）、硝酸盐氮（ $\mathrm { N O } _ { 3 } ^ { - } - \mathrm { N } )$ 、亚硝酸盐氮( $\mathrm { N O } _ { 2 } ^ { - } - \mathrm { N } .$ ）、氨态氮（ $\mathrm { \Delta N H _ { 4 } ^ { + } - }$ N）、正磷酸盐( $\mathrm { P O } _ { 4 } ^ { 3 - } \mathrm { - P }$ ）、化学需氧量（ $\mathrm { \ C O D _ { M n } }$ )等理化指标;叶绿素a(Chla)采用丙酮浸提法测定。
+
+![](images/6ed985c16b818e0c0188b3ff89bf2868984d618e8e48695c14267fea0cd4ebdd.jpg)  
+图1恰甫其海水库地理位置及采样点分布  
+Fig.1 Location of Qapchy Lake and distribution of sampling sites
+
+# 1.4数据处理与分析方法
+
+浮游动物定量标本按下式换算浮游动物丰度：
+
+$$
+N { = } ( V _ { \mathrm { s } } \times n ) / ( V { \times } V _ { \mathrm { a } } )
+$$
+
+式中： $N$ 为1L水中浮游动物的个体数 $( { \mathrm { i n d } } \cdot { \mathrm { L } } ^ { - 1 }$ ）； $V _ { \mathrm { s } }$ 为浓缩后的体积 $( { \mathrm { m L } } ) _ { } ; n$ 为计数所得的个体数; $V$ 为采样体积(L); $V _ { \mathrm { a } }$ 为计数体积 $\mathrm { ( m L ) }$ ）
+
+按照每个原生动物为 $0 . 0 0 0 0 5 \mathrm { ~ m g }$ ，,轮虫为$0 . 0 0 1 2 ~ \mathrm { m g }$ ,枝角类为 $0 . 0 2 ~ \mathrm { m g }$ ，桡足类成虫为0.007$\mathrm { m g }$ ,无节幼体为 $0 . 0 0 3 ~ \mathrm { m g }$ 的鲜质量换算成浮游动物的生物量[12]
+
+采用优势度值 $( Y )$ 来表示浮游动物优势种，计算公式如下：
+
+$$
+Y { = } ( n _ { i } / N ) { \times } f _ { i }
+$$
+
+式中： $n _ { i }$ 为第 $i$ 种的个体数； $N$ 为所有种类总个体数； $f _ { i }$ 为该种在各采样点出现的频率，以 $Y { \geqslant } 0 . 0 2$ 的浮游动物种类视为优势种。
+
+综合营养状态指数[2]计算公式如下：
+
+$$
+\mathrm { T L I } \big ( \Sigma \big ) = \sum _ { j = 1 } ^ { m } { W } _ { j } \times \mathrm { T L I } \big ( j \big )
+$$
+
+式中： $\operatorname { T L I } ( \Sigma )$ 为综合营养状态指数； $W _ { j }$ 为第 $j$ 种参数营养状态指数的相关权重； $m$ 为评价参数的个数；$\operatorname { T L I } ( j )$ 为第 $j$ 种参数的营养状态指数。
+
+运用Shannon-Wiener指数 $\left( H ^ { \prime } \right)$ 和Margalef指数$( D )$ 来计算浮游动物群落的多样性，计算公式分别为：
+
+$$
+H ^ { \prime } = - \sum _ { i = 1 } ^ { s } P _ { i } \times \log _ { 2 } P _ { i }
+$$
+
+$$
+D = ( S - 1 ) / \log _ { 2 } N
+$$
+
+式中： $P _ { i }$ 为第 $i$ 种的个体数与样品总个体数的比值$( N _ { i } / N ) ; N$ 为浮游动物总个体数； $s$ 为浮游动物种类总数。
+
+采用Student's $\mathbf { \chi } _ { t }$ test分析环境因子之间的差异性，利用 $\mathrm { S u r f e r ~ } 1 8 . 0$ 软件绘制浮游动物现存量空间分布图;利用冗余分析(Redundancyanalysis,RDA)分析浮游动物优势种丰度与环境因子之间的关系。RDA分析在软件Canoco4.5中完成，使用Ori-gin 2019b绘制图表。
+
+# 2结果与分析
+
+# 2.1 环境因子
+
+恰甫其海不同季节各理化因子均值及标准差如表1所示，恰甫其海在枯水期已冰封，水温(WT)仅 $1 . 8 7 ^ { \circ } \mathrm { C }$ ,丰水期WT稳定在 $2 1 . 4 6 ~ \mathrm { ^ { \circ } C }$ 左右，平水期为 $1 9 . 7 0 ~ \mathrm { ^ { \circ } C }$ ；丰水期TP为最大值，其变化范围为$0 . 0 0 7 { \sim } 0 . 0 2 0 \mathrm { m g } { \cdot } \mathrm { L } ^ { - 1 }$ ,枯水期次之 $( 0 . 0 0 7 { \sim } 0 . 0 1 7 ~ \mathrm { m g \cdot L ^ { - 1 } } )$ ，平水期为 $0 . 0 0 3 { \sim } 0 . 0 0 7 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ ;丰水期 $N \boldsymbol { 0 } _ { 2 } ^ { - } - \boldsymbol { \mathrm { N } }$ 和$\mathrm { N H _ { 4 } ^ { + } - N }$ 为最大值，其变化范围分别为 $0 . 0 1 5 { \sim } 0 . 0 2 4$ $\mathrm { m g ^ { \bullet } L ^ { - 1 } , 0 . 0 2 0 { \sim } 0 . 0 5 0 \ m g ^ { \bullet } L ^ { - 1 } }$ ;平水期Chla为最大值，其变化范围为 $1 . 6 1 1 { \sim } 4 . 6 6 7 ~ \mu \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ ，丰水期次之$( 0 . 1 3 5 { \sim } 2 . 5 1 9 ~ \mu \mathrm { g } \cdot \mathrm { L } ^ { - 1 } )$ ，枯水期为 $0 . 8 1 3 { \sim } 1 . 0 9 4 ~ \mu \mathrm { g } \cdot \mathrm { L } ^ { - 1 } ~$ 研究期间，TN、 $\mathrm { N O } _ { 3 } ^ { - }$ -N、 $\mathrm { P O } _ { 4 } ^ { 3 - }$ -P和 $\mathrm { C O D } _ { \mathrm { M n } }$ 在季节间
+
+表1恰甫其海理化因子的季节变化  
+Tab.1 Seasonal changes of physicochemical factors in QapchyLake   
+
+<html><body><table><tr><td>理化因子</td><td>丰水期</td><td>平水期</td><td>枯水期</td></tr><tr><td>水温(WT)/C</td><td>21.46±0.61</td><td>19.70±1.01</td><td>1.87±0.12</td></tr><tr><td>酸碱度(pH)</td><td>8.14±0.10</td><td>8.29±0.23</td><td>8.09±0.20</td></tr><tr><td>电导率(EC)/mS·cm-1</td><td>276.00±5.24</td><td>267.00±1.87</td><td>387.00±40.78</td></tr><tr><td>透明度(SD)/cm</td><td>72.00±20.49</td><td>82.00±17.89</td><td>93.33±5.77</td></tr><tr><td>溶解氧(DO)/mg·L-1</td><td>8.16±0.05</td><td>8.64±0.12</td><td>12.57±0.14</td></tr><tr><td>总氮(TN)/mg·L-1</td><td>0.909±0.114</td><td>0.972±0.488</td><td>1.233±0.251</td></tr><tr><td>硝酸盐氮(NO-N)/mg·L-</td><td>0.776±0.009</td><td>0.836±0.380</td><td>1.097±0.272</td></tr><tr><td>亚硝酸盐氮(NO-N)/mg·L-</td><td>0.017±0.004</td><td>0.005±0.002</td><td>0.002±0.001</td></tr><tr><td>氨态氮(NH4-N)/mg·L</td><td>0.034±0.011</td><td>0.014±0.005</td><td>0.017±0.006</td></tr><tr><td>总磷(TP)/mg·L-1</td><td>0.012±0.005</td><td>0.005±0.002</td><td>0.011±0.005</td></tr><tr><td>正磷酸盐(PO-P)/mg·L-</td><td>0.002±0.002</td><td>0.002±0.002</td><td>0.002±0.001</td></tr><tr><td>化学需氧量(CODmn)/mg·L-1</td><td>1.607±0.217</td><td>1.778±0.736</td><td>1.081±0.418</td></tr><tr><td>叶绿素a(Chl a)/μg·L-1</td><td>1.132±0.967</td><td>2.871±1.327</td><td>0.927±0.148</td></tr></table></body></html>
+
+注：表中数值为平均值 $\cdot \pm$ 标准差。
+
+# 干旱区地理
+
+差异并不大， $\mathrm { \ p H }$ 值变化范围为7.89\~8.44，水质整体偏碱性。总体来看，恰甫其海水环境质量可达到地表水Ⅱ\~Ⅲ类水标准。
+
+# 2.2种类组成及优势种季节变化
+
+恰甫其海水库3个水情期共鉴定浮游动物37种(表2)，其中原生动物17种，约占总数的 $4 5 . 9 5 \%$ ·轮虫10种，约占总数的 $2 7 . 0 3 \%$ ;枝角类4种，约占总数的 $1 0 . 8 1 \%$ ;桡足类6种，约占总数的 $1 6 . 2 1 \%$ 。其中枯水期物种数最少，检出5种，丰水期检出21种，平水期检出23种（桡足类幼体未计入）。研究期间，浮游动物物种组成均不相同，但原生动物在丰度和优势种上均占较大优势，轮虫次之，枝角类和桡足
+
+# 表2恰甫其海浮游动物种类
+
+Tab.2 List of zooplankton species in QapchyLake   
+
+<html><body><table><tr><td></td><td>物种</td><td>丰水期</td><td>平水期</td><td>枯水期</td></tr><tr><td>原生动物（Protozoa）</td><td>叉口砂壳虫(Difflugia gramen)</td><td></td><td>+</td><td></td></tr><tr><td></td><td>乳突砂壳虫(Diflugia mammillaris）</td><td>+</td><td></td><td></td></tr><tr><td></td><td>长圆砂壳虫(Difflugia oblonga)</td><td></td><td>+</td><td></td></tr><tr><td></td><td>砂壳虫属(Difflugia sp.)</td><td></td><td></td><td>+</td></tr><tr><td></td><td>坛状曲颈虫(Cyphoderia ampulla)</td><td></td><td>+</td><td></td></tr><tr><td></td><td>裸口虫属(Holophrya sp.)</td><td>+</td><td>+</td><td></td></tr><tr><td></td><td>长颈虫属(Dileptus sp.)</td><td>+</td><td>+</td><td></td></tr><tr><td></td><td>斜管虫属(Chilodonella sp.)</td><td></td><td>+</td><td></td></tr><tr><td></td><td>团脾睨虫(Askenasia volvox)</td><td>+</td><td>+</td><td></td></tr><tr><td></td><td>钟虫属(Vorticella sp.)</td><td>+</td><td></td><td></td></tr><tr><td></td><td>状独缩虫(Carchesium polypinum)</td><td></td><td>+</td><td></td></tr><tr><td></td><td>累枝虫属(Epistylis sp.)</td><td>+</td><td></td><td></td></tr><tr><td></td><td>侠盗虫属(Strobilidium sp.)</td><td>+</td><td>+</td><td></td></tr><tr><td></td><td>王氏似铃壳虫(Tintinnopsis wangi)</td><td>+</td><td>+</td><td>+</td></tr><tr><td></td><td>锥形似铃壳虫（Tintinnopsis conus）</td><td></td><td></td><td>+</td></tr><tr><td></td><td>似铃壳虫属(Tintinnopsis sp.)</td><td></td><td></td><td>+</td></tr><tr><td></td><td>匣壳虫属(Centropyxis sp.)</td><td>+</td><td>+</td><td></td></tr><tr><td>轮虫(Rotifera)</td><td>大肚须足轮虫(Euchlanis dilatata)</td><td>+</td><td></td><td></td></tr><tr><td></td><td>螺形龟甲轮虫(Keratella cochlearis）</td><td>+</td><td></td><td></td></tr><tr><td></td><td>腔轮属(Lecane sp.)</td><td></td><td>+</td><td></td></tr><tr><td></td><td>前节晶囊轮虫(Asplachna priodonta)</td><td>+</td><td></td><td></td></tr><tr><td></td><td>卵形无柄轮虫(Ascomorpha ovalis）</td><td></td><td>+</td><td></td></tr><tr><td></td><td>暗小异尾轮虫(Trichocerca pusilla)</td><td></td><td>+</td><td></td></tr><tr><td></td><td>疣毛轮属(Synchaeta sp.)</td><td>+</td><td>+</td><td></td></tr><tr><td></td><td>广布多肢轮虫（Polyarthra vulgaris）</td><td>+</td><td>+</td><td></td></tr><tr><td></td><td>胶鞘轮属(Collotheca sp.)</td><td></td><td>+</td><td></td></tr><tr><td></td><td>轮虫未定种(Unidentified rotifer)</td><td></td><td>+</td><td></td></tr><tr><td>枝角类(Cladocera)</td><td>长额象鼻泽(Bosmina longirostris）</td><td>+</td><td></td><td></td></tr><tr><td></td><td>小栉泽(Daphnia cristata)</td><td>+</td><td>+</td><td></td></tr><tr><td></td><td>盔形泽(Daphnia galeata)</td><td></td><td></td><td>+</td></tr><tr><td></td><td>长肢秀体泽(Diaphanosoma leuchtenbergianum)</td><td>+</td><td>+</td><td></td></tr><tr><td>桡足类(Copepoda)</td><td>无节幼体（Copepod nauplii)</td><td>+</td><td></td><td></td></tr><tr><td></td><td>桡足幼体(Copepodid)</td><td>+</td><td>+</td><td></td></tr><tr><td></td><td>如愿真剑水蚤(Eucyclops speratus）</td><td>+</td><td>+</td><td></td></tr><tr><td></td><td>近方蒙镖水蚤(Mongolodiaptomus subquadratus）</td><td>+</td><td></td><td></td></tr><tr><td></td><td>汤匙华哲水蚤(Sinocalanus dorrii）</td><td>+</td><td>+</td><td></td></tr><tr><td></td><td></td><td>+</td><td>+</td><td></td></tr><tr><td></td><td>温剑水蚤属(Thermocyclops sp.)</td><td></td><td>+</td><td></td></tr></table></body></html>
+
+注： $+$ 表示存在。
+
+类最次。
+
+由表3可见，恰甫其海浮游动物常见优势种为侠盗虫属、匣壳虫属、王氏似铃壳虫、疣毛轮属和广布多肢轮虫。优势种种类数季节差异显著，丰水期优势种明显多于平水期和枯水期。丰水期优势种有4种，其中匣壳虫属、疣毛轮属和广布多肢轮属为主要优势种，其优势度分别为0.188、0.236、0.320；平水期优势种有2种，为侠盗虫属和匣壳虫属，其优势度为0.485、0.123；枯水期优势种仅1种，为王氏似铃壳虫，其优势度为0.963。恰甫其海全年绝对优势种为侠盗虫属、匣壳虫属和广布多肢轮虫，其优势度为0.168、0.133、0.114。
+
+# 2.3浮游动物丰度和生物量的时空分布
+
+恰甫其海丰水期、平水期、枯水期浮游动物平均生物量分别为 $0 . 5 5 0 ~ \mathrm { m g \cdot L ^ { - 1 } } \cdot 0 . 0 1 8 ~ \mathrm { m g \cdot L ^ { - 1 } } \cdot 0 . 0 0 7$ $\mathbf { m g \cdot L } ^ { - 1 }$ ,不同水情期浮游动物生物量差异显著（图$2 \mathrm { b } , \mathrm { d } , \mathrm { f } )$ ,表现出丰水期 $\mathrm { \dot { > } }$ 平水期 $| > \rangle$ 枯水期的趋势。各水情期浮游动物生物量的空间分布各有不同，丰水期浮游动物生物量以坝前最高 $( 1 . 3 5 0 \mathrm { m g } \cdot \mathrm { L } ^ { - 1 } , \$ ，并由库中 $( 1 . 0 7 0 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 } )$ 向库尾 $( 0 . 0 6 0 ~ \mathrm { { m g } \cdot \mathrm { { L } ^ { - 1 } ) } }$ 逐渐降低；平水期浮游动物生物量则以库中右岸最高中 $( 0 . 0 6 0 \mathrm { m g } \cdot \mathrm { L } ^ { - 1 } )$ ,离右岸距离较远的各采样点浮游动物生物量均低于 $0 . 0 1 0 \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ ;枯水期则与丰水期相似，表现出库尾向坝前逐渐升高的空间分布特点。恰甫其海丰水期、平水期、枯水期浮游动物丰度分别为 $5 8 0 . 4 0 \ \mathrm { i n d } \cdot \mathrm { L } ^ { - 1 } , 1 5 2 . 6 8 \ \mathrm { i n d } \cdot \mathrm { L } ^ { - 1 } , 1 3 7 . 0 1 \ \mathrm { i n d } \cdot \mathrm { L } ^ { - 1 } ,$ 不同水情期浮游动物丰度的空间分布与生物量的空间分布一致(图 $\smash { 2 \mathrm { a } _ { \lambda } \mathrm { c } _ { \lambda } \mathrm { e } ^ { \prime } }$ 。
+
+表3恰甫其海浮游动物优势种及其优势度  
+Tab.3 Dominant species and its dominances of zooplankton in Qapchy Lake   
+
+<html><body><table><tr><td>物种</td><td>丰水期</td><td>平水期</td><td>枯水期</td><td>全年</td></tr><tr><td>侠盗虫属(Strobilidium sp.)</td><td>0.062</td><td>0.485</td><td>1</td><td>0.168</td></tr><tr><td>匣壳虫属(Centropyxis sp.)</td><td>0.188</td><td>0.123</td><td>1</td><td>0.133</td></tr><tr><td>王氏似铃壳虫(Tintinnopsis wangi)</td><td>1</td><td>1</td><td>0.963</td><td>0.030</td></tr><tr><td>疣毛轮属(Synchaeta sp.)</td><td>0.236</td><td>1</td><td>1</td><td>0.087</td></tr><tr><td>广布多肢轮虫（Polyarthra vulgaris）</td><td>0.320</td><td>二</td><td>二</td><td>0.114</td></tr></table></body></html>
+
+注：-表示无数值。
+
+![](images/80814055df612ae32ec965b5e8584ce564a7f62c159257d856c01ad5571252d4.jpg)  
+图2恰甫其海浮游动物丰度和生物量的季节变化  
+Fig.2 Seasonal variations of zooplankton abundance and biomass in Qapchy Lake
+
+# 干吴区地理
+
+丰水期和平水期，恰甫其海浮游动物丰度和生物量的垂直分布均表现为：先随水深增加而增加，并在 $3 \mathrm { ~ m ~ }$ 深处达到最高值，后随水深增加逐渐降低（图3)。丰水期和平水期，浮游动物丰度和生物量在 $3 \mathrm { ~ m ~ }$ 水深处达到最大值(丰水期： $9 7 9 . 5 6 ~ \mathrm { i n d } \cdot \mathrm { L } ^ { - 1 }$ ，$0 . 7 3 0 \mathrm { m g } { \cdot } \mathrm { L } ^ { - 1 }$ ；平水期： $\cdot 7 1 2 . 8 1 \ \mathrm { i n d } \cdot \mathrm { L } ^ { - 1 } , 0 . 1 2 0 \ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 } )$ ，且各水层浮游动物丰度和生物量均表现出丰水期大于平水期的特点。
+
+![](images/2cc1aa6a58d565fd5efa23e95cc1e24cc24772b01c7e83562c7d04512ed1c24d.jpg)  
+图3恰甫其海浮游动物丰度和生物量垂直分布Fig.3Vertical distributions of zooplankton abundance andbiomass in Qapchy Lake
+
+# 2.4多样性指数时空分布特征
+
+恰甫其海浮游动物Shannon-Wiener指数 $\left( H ^ { \prime } \right) $ 和Margalef指数 $( D )$ 具有典型的时空分布特征(图4)，其均值分别为1.19和0.82。丰水期浮游动物 $H ^ { \prime }$ 和 $D$ 呈现出由库尾向坝前逐渐增高的趋势， $H ^ { \prime }$ 指数平均值为 $1 . 6 7 ( 1 . 2 5 { \sim } 2 . 5 1 ) , D$ 平均值为 $1 . 2 2 ( 0 . 4 6 { \sim } 1 . 7 7 )$ 平水期浮游动物 $H ^ { \prime }$ 和 $D$ 以库中最低 $( 0 . 9 7 , 0 . 2 4 ) , H ^ { \prime }$ 平均值为1.21(0.97\~1.48）， $D$ 平均值为 $0 . 6 5 \left( 0 . 2 4 \sim\right.$ 0.93);枯水期浮游动物 $H ^ { \prime }$ 和 $D$ 则以库中最高(0.48,0.59）， $H ^ { \prime }$ 平均值为 $0 . 3 7 \left( 0 . 2 3 { \sim } 0 . 4 8 \right) ,$ $D$ 平均值为0.44(0.34\~0.59)
+
+# 2.5综合营养状态指数
+
+采用TN、TP、Chla、 $\mathrm { C O D } _ { \mathrm { M n } }$ 、SD5个理化指标作为综合营养状态评价指标，对恰甫其海各个季节富营养化程度进行评价。综合营养状态指数分级评价如下： $\mathrm { T L I } ( \Sigma ) { > } 5 0$ 为富营养状态， $3 0 { \leqslant } \mathrm { T L I } ( \Sigma ) { \leqslant } 5 0$ 为中营养状态， $\mathrm { T L I } ( \Sigma ) { < } 3 0$ 为贫营养状态。结果显示（图5),恰甫其海各个季节综合营养状态指数 $\mathrm { T L I } ( \Sigma )$ 分别为 $2 9 . 8 2 , 3 0 . 7 7 , 2 5 . 7 4$ ,因此，恰甫其海水体为贫-中营养状态。
+
+# 2.6浮游动物群落结构与环境因子的关系
+
+根据浮游动物优势种及物种出现频率，选取5种浮游动物常见种和浮游动物总丰度作为物种数据进行去趋势对应分析（DCA），其最大长度为1.845，因此采用RDA检验浮游动物丰度与环境因子的关系。
+
+![](images/1524ef418d237c6a4a8ac111cc30d010a38c00a76dedc4143f206b4a22dbfd26.jpg)  
+注： $H ^ { \prime } \setminus D$ 分别为Shannon-Wiener指数、Margalef指数。图4恰甫其海浮游动物多样性指数时空分布  
+Fig.4Spatial and temporal variations in diversity indices of zooplankton in Qapchy Lake
+
+![](images/2f2acfae8b97f8e8a233c41b4df9461ff43b966812c0232681f0124dab7b3334.jpg)
+
+注：TLI(Chla)、TLI(TP)、TLI(TN)、TLI(SD)、TLI $\mathrm { C O D } _ { \mathrm { M n } } \mathrm { \Sigma }$ 分别为参数Chla(叶绿素a）、TP(总磷）、TN(总氮）SD(透明度) $\mathrm { \cdot C O D _ { \mathrm { M n } } }$ （204号（化学需氧量)的营养状态指数;TLI(∑)为综合营养状态指数。
+
+![](images/460790f59fc5e0e159064b13d52f2d37eff273c7dd7b172ce50f3eb10f1e0bd9.jpg)  
+图5恰甫其海营养状态指数  
+Fig.5Comprehensive nutrition index ofQapchy Lake
+
+注：WT为水温； $\mathrm { \ p H }$ 为酸碱度；SD为透明度;DO为溶解氧;EC为电导率;TN为总氮;TP为总磷； $\mathrm { N O } _ { 3 } ^ { - }$ -N为硝酸盐氮; $\mathrm { N O } _ { 2 } ^ { - }$ -N为亚硝酸盐氮; $\mathrm { N H } _ { 4 } ^ { + }$ -N为氨态氮; $\mathrm { P O } _ { 4 } ^ { 3 - }$ -P为正磷酸盐; $\mathrm { C O D } _ { \mathrm { M n } }$ 为化学需氧量；Chla为叶绿素a。
+
+图6浮游动物优势种丰度与环境因子的RDA分析结果Fig.6Redundancy analysis (RDA) of zooplanktonabundance of dominant species and environmental factors
+
+RDA结果前两轴解释了 $5 8 . 7 \%$ 的浮游动物丰度变化，环境因子很好的区分了各水情期的浮游动物丰度(图6)。王氏似铃壳虫与DO、EC、TN、 $N \mathrm { O } _ { 3 } ^ { - } - \mathrm { N }$ 和 $\mathrm { P O } _ { 4 } ^ { 3 - }$ -P呈正相关,与WT、 $\mathrm { C O D } _ { \mathrm { M n } }$ 和 $\mathrm { \ p H }$ 呈负相关;疣毛轮属和广布多肢轮虫与TP、 $\mathrm { N O } _ { 2 } ^ { - }$ -N、 $\mathrm { N H } _ { 4 } ^ { + }$ -N呈正相关，与SD呈负相关;匣壳虫属与WT、 $\mathrm { C O D } _ { \mathrm { M n } }$ 呈正相关，与DO、EC、TN、 $\mathrm { N O } _ { 3 } ^ { - }$ -N和 $\mathrm { P O } _ { 4 } ^ { 3 - }$ -P呈负相关。
+
+# 3讨论
+
+# 3.1恰甫其海浮游动物群落特征及优势种变化
+
+恰甫其海属大陆性温带半干旱气候，该水库浮游动物种类均为大陆性温带水体常见种。研究期间，浮游动物主要以小型种类轮虫(疣毛轮属、广布多肢轮虫)和原生动物(侠盗虫属、王氏似铃壳虫、匣壳虫属)为主，桡足类和枝角类较少，与水丰水库[22]、响水水库[23]等山谷型水库的浮游动物群落结构特征一致。尽管恰甫其海浮游动物不同水情期优势种不尽相同，但是，其全年优势种在不同水情期均有出现，这与新疆红山水库浮游动物研究结果有所不同[24]。这可能与水库的水位波动变化有关[25-26],红山水库所处地区水资源十分有限,无长年性河流水输入[27]，水库水位波动大；而恰甫其海所处地区水资源相对丰富，水库常年蓄积上游来水[10],水库水位波动相对缓和。
+
+不同水情期浮游动物生物量和丰度表现出丰水期>平水期>枯水期的趋势，这与国内大多数山谷型水库浮游动物的季节变化一致[28-29]。这可能是因为浮游动物的繁殖和生长受温度影响明显[30],水温较高的季节生长繁殖更快，山谷型水库大多数夏季为丰水期，其水温较高，冬季为枯水期，水温较低。本次调查，丰水期浮游动物生物量平均值为0.550$\mathbf { m g \cdot L } ^ { - 1 }$ ,远低于2006年夏季的调查结果[12]。推测出现这一结果可能与水库稳定运行的时间及鱼类增殖有关，恰甫其海水电站2005年6月开始下闸蓄水，至2006年夏季仅经过1a时间的运行[31，水生态系统可能并未稳定；而在水库进行的多种渔业活动(放养鲢鳙、土著鱼类增殖放流等)引入了多种的鱼类，在一定程度上也改变了水生态环境[32]
+
+各水情期浮游动物的空间分布各有特点，丰水期浮游动物丰度由库尾向坝前逐渐增高，这可能是因为丰水期为水库蓄水期，上游冰雪融水形成的洪
+
+# 干旱区地理
+
+水经库尾进入水库后流速减缓，水体的物理状态发生改变，如泥沙沉降、冲刷力降低，水体透明度升高等[33-34],为浮游动物丰度的增长提供了良好的环境。平水期浮游动物生物量则以库中右岸最高为特点，这可能是右岸区域提供了丰富的碎屑食物导致浮游动物大量繁殖，结合现场考察，恰甫其海右岸相对平坦，属于蓄水时淹没的区域，该区域多数为农田草地，枯水期地表裸露，丰水期和平水期则被淹没，右岸区域水体浮游动物生物量变化和水质的变化可能受多方面影响，如水草枯萎、放牧活动等。
+
+恰甫其海浮游动物丰度和生物量随水深增加逐渐增加，并在 $3 \mathrm { ~ m ~ }$ 水深处达到最大值，后随水深度增加逐渐减小。这与三板溪水库和阿哈水库浮游动物垂直结构特征相似[28.35],这可能是因为深水水体存在明显的分层现象，浮游动物垂直分布特征不仅受各水层水温、光照的影响，而且与浮游植物、细菌等分布有关。
+
+# 3.2恰甫其海浮游动物动态变化与环境因子之间的关系
+
+RDA结果显示，环境因子很好的区分开了各水情期浮游动物丰度，可见，恰甫其海浮游动物丰度受季节影响显著。恰甫其海浮游动物优势种丰度与WT、pH、营养盐、 $\mathrm { C O D } _ { \mathrm { M n } }$ 等均有一定关系，显示恰甫其海浮游动物受水体水质影响较大。
+
+WT不仅影响浮游动物的生长和繁殖，还影响着浮游动物的摄食[36-37]。研究表明,不同的浮游动物种群对最适WT的需求不同。本研究中，王氏似铃壳虫与匣壳虫属对WT的需求相反，王氏似铃壳虫更适宜在WT较低的环境中生存，而匣壳虫属则更适宜WT较高的环境。研究表明，在适宜生长的WT范围内，原生动物种群增长率与WT呈正相关[38],可见，WT是影响恰甫其海浮游动物丰度季节变化的主要因子。
+
+已有研究表明，氮、磷营养盐浓度的高低是影响浮游动物物种组成和丰度的重要环境因素[39]。不同营养状态的水体中，浮游动物组成和丰度各有不同，因此，浮游动物成为指示水环境状态的指示生物。一般在富营养型的水体中，浮游动物数量比贫营养水体中多。本研究表明，原生动物优势种王氏似铃壳虫与TN、 $N \mathrm { O } _ { 3 } ^ { - } - \mathrm { N }$ 和 $\mathrm { P O } _ { 4 } ^ { 3 - }$ -P呈正相关,匣壳虫属与TN呈负相关，对汤浦水库原生动物与环境因子的研究发现[40],原生动物丰度与TN呈负相关，与本研究结果一致,轮虫(疣毛轮属和广布多肢轮虫)则与TP、 $\mathrm { N O } _ { 2 } ^ { - }$ -N、 $\mathrm { N H } _ { 4 } ^ { + }$ -N呈正相关。
+
+# 3.3恰甫其海浮游动物对水环境的指示
+
+多样性指数是评价群落演替状态的一个重要指标,指数大小反映了水环境的污染状况[41]。 $H ^ { \prime }$ 显示恰甫其海丰水期水体为中度污染状态，平水期为中度污染状态，枯水期则为严重污染状态。丰水期恰甫其海所有区域均为中度污染状态，平水期恰甫其海所有区域均为中度污染状态，枯水期则所有区域为严重污染状态。 $D$ 显示恰甫其海各水情期水体均为严重污染状态，也反映出恰甫其海浮游动物丰富度较低，浮游动物种类数不高。这可能是因为恰甫其海位于特克斯河上游，上游来水为冰雪融水，水温较低，浮游动物丰富度本身较低。因此，运用多样性指数评价恰甫其海水质可能高估水体的营养水平。
+
+综合营养状态指数以Chla的状态指数为基准，计算综合营养指数评价湖泊富营养化状态。根据湖泊富营养化分级标准，取各季节综合营养指数平均值 $\mathrm { [ T L I ( \Sigma ) = } 2 8 . 7 8 \bar  \$ ,表明恰甫其海水体处于贫-中营养状态，无富营养化风险。
+
+# 4结论
+
+（1）恰甫其海3个水情期5个监测断面共鉴定出浮游动物37种，其中原生动物17种，轮虫10种，枝角类4种，桡足类6种；优势种主要包括侠盗虫属（Strobilidium sp.）、匣壳虫属（Centropyxis sp.）、王氏似铃壳虫（Tintinnopsiswangi）、疣毛轮属（Synchaetasp.）广布多肢轮虫（Polyarthra vulgaris）,共5种
+
+(2）RDA分析结果显示，恰甫其海浮游动物群落结构变化受环境因子影响较为明显，WT、 $\mathrm { C O D } _ { \mathrm { M n } }$ 和营养盐（TN、TP、 $\mathrm { N O } _ { 3 } ^ { - }$ -N、 $\mathrm { N O } _ { 2 } ^ { - }$ -N、 $\mathrm { N H _ { 4 } ^ { + } \mathrm { ~ - ~ } N } .$ （20$\mathrm { P O } _ { 4 } ^ { 3 - } \mathrm { - P } .$ )是影响恰甫其海浮游动物群落结构变化的因素，WT是影响恰甫其海浮游动物结构变化的主要因子。
+
+(3）生物多样性指数和综合营养状态指数均表明恰甫其海水体处于贫-中营养状态，且富营养化风险较低，可见，处于伊犁河上游的水库水环境受放牧、种植等人类活动的干扰较小，水环境状况相对良好，可以作为鱼类栖息和繁殖的场所。
+
+参考文献(References）   
+[1]Ye L, Chang C,Garcia-Comas C,et al. Increasing zooplankton size diversity enhances the strength of top-down control on phytoplankton through diet niche partitioning[J].Journal of Animal Ecology, 2013, 82(5): 1052-1061.   
+[2]Thompson P L,Davies T J,Gonzalez A. Ecosystem functions across trophic levels are linked to functional and phylogenetic diversity[J]. PLoS One,2015,14(7): e0220213,doi: 10.1371/journal. pone.0220213.   
+[3]Johnson C L,Runge JA,Curtis K A,et al. Biodiversity and ecosystem function in the gulf of Maine: Pattern and role of zooplankton and pelagic nekton[J].PLoS One,2011,6(1): e16491,doi: 10. 1371/journal.pone.0016491.   
+[4]Li Y,Chen F.Are zooplankton useful indicators of water quality in subtropical lakes with high human impacts[J]. Ecological Indicators,2020,113: 106167,doi: 10.1016/j.ecolind.2020.106167.   
+[5]Jeppesen E,Noges P,Davidson TA,et al. Zooplankton as indicators in lakes:A scientific-based plea for including zooplankton in the ecological quality assessment of lakes according to the European Water Framework Directive (WFD)[J].Hydrobiologia,2011,676(1): 279-297.   
+[6]杨霞,安大维,周鸿奎,等.2012—2017年伊犁河谷冬季降水日 变化特征[J].冰川冻土,2020,42(2):609-619.[Yang Xia,An Dawei, Zhou Hongkui,et al.Daily variation of winter precipitation in Ili River Valleyof Xinjiang from 2012 to 2017[J].Journal of Glaciology and Geocryology,2020,42(2): 609-619.]   
+[7]吐尔逊阿依·艾拜布拉,努尔巴依·阿布都沙力克,阿迪力江·库 尔班.水库建设下特克斯河谷动植物资源现状评价及保护措 施[J].安徽农业科学,2011,39(27):16688-16690.[Aibibulla Tursunay,Abdushalik Nurbayi,Kurban Adilijian.Evaluation of the status quo of animal and plants resources after reservoir construction in Turks River and protection measures[J]. Journal of Anhui Agricultural Sciences,2011,39(27): 16688-16690.]   
+[8]Barbarossa V,Schmitt RJP, Huijbregts M A J, et al. Impacts of current and future large dams on the geographic range connectivityof freshwater fish worldwide[J].Proceedings of the National Academy of Sciences,2020,117(7):3648-3655.   
+[9]李江,柳莹,刘生云,等.新时期新疆水库大坝建设的主要问题 与对策建议[J].干旱区地理,2020,43(6):1409-1416.[Li Jiang, Liu Ying, Liu Shengyun,et al. Main problems and countermeasures of reservoir dam construction in Xinjiang in the new period [J]. Arid Land Geography,2020,43(6): 1409-1416.]   
+[10] 任慕莲,郭焱,张清礼,等.伊犁河鱼类资源与渔业[M].哈尔滨: 黑龙江科学技术出版社,1998.[Ren Mulian,Guo Yan,Zhang Qingli,et al.Fisheries resources and fishery of River Yili[M]. Harbin: Heilongjiang Science and Technology Press,1998.]   
+[11] 中国科学院新疆资源开发综合考察队.新疆资源开发综合考察 报告集:新疆水生生物与渔业[M].北京:科学出版社,1989. [Fishery Expedition Team of Chinese Academy of Sciences.Hydrobiological resources and fishery development in Xinjiang[M]. Beijing: Science Press,1989.]   
+[12] 吴利,冯伟松,陈小娟,等.新疆伊犁地区夏季浮游动物群落结 构特征[J].应用生态学报,2008,19(1):163-172.[Wu Li,Feng Weisong, Chen Xiaojuan, et al. Community structure characteristicsof zooplanktoninYiliRegionof XinjianginsummerJ].Chinese Journal of Applied Ecology,2008,19(1): 163-172.]   
+[13] 殷剑虹,徐予洋.伊犁河谷气候变化特征分析[J].沙漠与绿洲气 象,2007,1(6): 20-23.[Yin Jianhong,Xu Yuyang.Analysis of climate change characteristics in Yili Valley[J].Desert and Oasis Meteorology,2007,1(6): 20-23.]   
+[14] SC/T9102.3-2007.中华人民共和国水产行业标准:渔业生态 环境监测规范—第3部分:淡水[S].北京:中国农业出版社, 2007.[SC/T 9102.3-2007.The specification for ecological environment monitoringoffisheries,Part3:FreshwaterS].Beijing: China Agriculture Press,07.   
+[15]章宗涉,黄祥飞.中国淡水浮游生物研究方法[M].北京:科学出 版社,1991. [Zhang Zongshe,Huang Xiangfei. Research methods for freshwater plankton research in China[M]. Beijing: Science Press, 1991.]   
+[16]王家辑.中国淡水轮虫志[M].北京:科学出版社,1961.[Wang Jiaji.Freshwater rotifer sinica in China[M]. Beijing: Science Press, 1961.]   
+[17] 蒋燮治,堵南山.中国动物志·节肢动物门·甲壳纲·淡水枝角类 [M].北京:科学出版社,1979.[Jiang Xiezhi,Du Nanshan.Fauna sinica,arthropoda,crustacea,freshwater cladocera in China[M]. Beijing: Science Press,1979.]   
+[18]沈嘉瑞.中国动物志·节肢动物门·甲壳纲·淡水桡足类[M].北 京：科学出版社,1979.[Shen Jiarui.Fauna sinica,arthropoda, crustacea, freshwater copepoda in China[M]. Beijing:Science Press,1979.]   
+[19] 沈芬,章宗涉,龚循矩,等.微型生物监测新技术[M].北京:中 国建筑工业出版社,1990. [Shen Yunfen,Zhang Zongshe,Gong Xunju,et al. Modern biomonitoring techniques using freshwater microbiota[M].Beijing: China Architecture& Building Press,1990.]   
+[20] 国家环境保护总局.水和废水监测分析方法[M].第四版.北京: 中国环境科学出版社,2002.[State Environmental Protection Administration. Monitoring and analysis methods of water and waste water[M]. $4 ^ { \mathrm { t h } }$ ed. Beijing: China Environmental Science Publishing House, 2002.]   
+[21]金相灿,屠清瑛.湖泊富营养化调查规范[M].第二版.北京：中 国环境出版社,1990.[Jin Xiangcan,Tu Qingying.Lake eutrophication investigation specification[M]. $2 ^ { \mathrm { n d } }$ ed.Beijing: China Environment Science Press,1990.]   
+[22] 魏洪祥.水丰水库浮游生物组成及初级生产力研究[J].水产学 杂志,2021,34(1): 73-80.[Wei Hongxiang.Plankton composition and primary productivity in Shuifeng Reservoir[J]. Chinese Jour
+
+# 干旱区地理
+
+nal of Fisheries,2021,34(1): 73-80.]
+
+[23] 白禄军,张子媛,王利,等.响水水库浮游生物渔业资源分析[J]. 大连海洋大学学报,2020,35(2):280-287.[Bai Lujun,Zhang Zi yuan,Wang Li,et al.Analysis of plankton community and fishery resources in Xiangshui Reservoir[J]. Journal of Dalian Ocean University,2020,35(2): 280-287.]   
+[24] 袁林,孙玲霜,朱新英,等.新疆红山水库浮游动物群落结构特 征[J].干旱区地理,2011,34(6): 1002-1008.[Yuan Lin,Sun Lingshuang,Zhu Xinying,et al. Ecological features of zooplankton community of Hongshan Reservoir in Xinjiang[J]. Arid Land Geography,2011,34(6): 1002-1008.]   
+[25] 吕乾,胡旭仁,聂雪,等.鄱阳湖丰水期水位波动对浮游动物群 落演替的影响[J].生态学报,2020,40(4):1486-1495.[Lu Qian, Hu Xuren,Nie Xue, et al. Impact of water fluctuations on the succession of zooplankton in Poyang Lake[J].Acta Ecologica Sinica, 2020,40(4): 1486-1495.]   
+[26]Romare P, Berg S, Lauridsen T,et al. Spatial and temporal distribution of fish and zooplankton in a shallow lake[J].Freshwater Biology,2003,48(8): 1353-1362.   
+[27] 罗孝茹.近52年新疆吉木乃县气温、降水变化特征及未来变化 分析[J].中国农学通报,2014,30(5):297-302.[Luo Xiaoru. Analysis of variation on temperature and precipitation in recent 52 years and future projection in Jimunai County,Xinjiang[J]. Chinese Agriculture Science Bulletin,2014,30(5): 297-302.]   
+[28] 李钥,李秋华,陈文生,等.贵州三板溪水库后生浮游动物群落 结构的动态变化[J].湖泊科学,2016,28(2):340-349.[Li Yao, Li Qiuhua,Chen Wensheng,et al. Dynamic changes of metazooplankton community structure in Sanbanxi Reservoir, Guizhou Province[J]. Journal of Lake Sciences,2016,28(2): 340-349.]   
+[29] 吴利,唐会元,龚云,等.三峡水库正常运行下库区干流浮游动 物群落特征研究[J].水生态学杂志,2021,42(1):58-65.[Wu Li, Tang Huiyuan,Gong Yun, et al. Temporal-spatial distribution of Zooplankton community in the main stem of Three Gorges Reservoir under normal operation[J]. Journal of Hydroecology,2021,42 (1): 58-65.]   
+[30]Haberman J, Haldna M. How are spring zooplankton and autumn zooplankton influenced by water temperature in a polymictic lake? [J].Proceedings of the Estonian Academy of Sciences,2017,66 (3): 264-278.   
+[31] 李翔.恰甫其海水库库岸侵蚀坍塌及其防护措施[J].水利技术 监督,2017,25(6):158-159.[Li Xiang.Bank erosion and collapse of Qapchy Reservoir and its protective measures[J]. Technical Supervision in Water Resources,2017,25(6): 158-159.]   
+[32] 密更,阎新书,张昕,等.恰甫其海设施渔业的建设与规划[J].水 利水电技术,2006,37(11):115-116.[Mi Geng, Yan Xinshu, Zhang Xi,et al. Construction and planning of facility fishery in Qapchy Lake[J].Water Resources and Hydropower Engineering,2006,37 (11): 115-116. ]   
+[33] 陈佳琪,赵坤,曹玥,等.鄱阳湖浮游动物群落结构及其与环境 因子的关系[J].生态学报,2020,40(18):6644-6658.[Chen Jiaqi,Zhao Kun,Cao Yue,et al. Zooplankton community structure and its relationship with environmental factors in Poyang Lake[J]. Acta Ecologica Sinica,2020,40(18): 6644-6658.]   
+[34] 桂萍,余飞,魏锦程.鹊山引黄水库浮游动物时空分布特 征[J].生态科学,2019,38(2):199-205.[Gui Ping,Yu Fei,Wei Jincheng.The spatial-temporal distribution characteristics of zooplankton in Queshan Rservoir[J]. Ecological Science,2019,38(2): 199-205.]   
+[35] 胡艺,李秋华,何应,等.贵州高原水库浮游动物分布特征及影 响因子—以阿哈水库为例[J].中国环境科学,2020,40(1): 227-236.[Hu Yi, Li Qiuhua,He Ying,et al. Spatial and temporal distribution characteristicsand influencing factors of metazooplankton in Aha Reservoir,Guizhou Province[J]. China Environmental Science,2020,40(1): 227-236.]   
+[36] Haberman J, Haldna M. How are spring zooplankton and autumn zooplankton influenced by water temperature in a polymictic lake? [J].Proceedings of the Estonian Academy of Sciences,2017,66 (3): 264-278.   
+[37]Loiterton B,Sundbom M, Vrede T.Separating physical and physiologicaleffectsof temperature on zooplankton feeding rate[J]. Aquatic Sciences,2004,66(1): 123-129.   
+[38] 卢敬让,张鸿雁,李德尚,等.虾池实验生态系浮游纤毛虫种群 增长和生产量估测[J].中国水产科学,1997,4(5): 50-54.[Lu Jingrang,Zhang Hongyan,Li Deshang,et al. Population growth and production estimation of planktonic ciliates in an experimental ecosystem of a shrimp pond[J].Journal of Fishery Sciences of China,1997,4(5): 50-54.]   
+[39]Burns C W,Galbraith L M.Relating planktonic microbial food web structure in lentic freshwater ecosystems to water quality and land use[J]. Journal of Plankton Research.2007,29(2): 127-139.   
+[40] 胡菊香,梁亮,池仕运,等.环境因子对供水水库原生动物群落 特征的影响[J].水生态学杂志,2019,40(4):30-41.[Hu Juxiang， Liang Liang,Chi Shiyun,et al. Effects of environmental factors on the protozoan community in a water supply reservoir[J]. Journal of Hydroecology,2019,40(4): 30-41.]   
+[41] 况琪军,马沛明,胡征宇,等.湖泊富营养化的藻类生物学评价 与治理研究进展[J].安全与环境学报,2005,5(2):87-91. [Kuang Qijun,Ma Peiming,Hu Zhengyu, et al. Study on the evaluation and treatment of lake eutrophication by means of algae biology[J]. Journal of Safety and Environment,20o5,5(2): 87-91.]
+
+# Zooplankton distribution and water environment characteristics in reservoir of upper Ili River Valley: A case study in Qapchy Lake
+
+PENG Liang'， RU Huijun'， TAO Ling'， DAI Lili'， LI Gu',LI Rong'，LI Xiaoli'，YU Yang²(1.YangtzeRiverFisheriesResearch Instituteof Chinese AcademyofFisheries Science,Wuhan 43O223,Hubei,China;2.Yili River Basin Development and Construction Administration, Urumqi 8351O9,Xinjiang, China)
+
+Abstract: To study the community structure of zooplankton and aquatic environment at Qapchy Lake, Xinjiang, China,a survey was conducted in July (abundant water period),September (level water period),and December (dry water period) in 2019.Biodiversity indices and comprehensive trophic level index method were used to analyze the aquatic environment state during diffrent months.The redundancy analysis method was used to analyze the relationship between the structures of the zooplankton community and environmental factors.The results showed that: (1)Thirty-seven species of zooplankton were detected,including 17 species of protozoa,10 species of rotifer, 4 species of Cladocera,and 6 species of Copepods.The community structure of zooplankton was dominated by Strobilidium sp., Centropyxis sp.,Tintinnopsis wangi,Synchaeta sp.,Polyarthra vulgaris,and Centropyxis sp. The abundance of zooplankton was 580.40 ind· $\mathbf { L } ^ { - 1 }$ during the abundant water period,152.68 ind· ${ \bf L } ^ { - 1 }$ during the level water period,and 137.01 ind $\cdot \mathrm { L } ^ { - 1 }$ during the dry warer period. Zooplankton biomass was （204号 $0 . 5 5 0 \ \mathrm { m g \cdot L ^ { - 1 } }$ ， $0 . 0 1 8 ~ \mathrm { m g \cdot L ^ { - 1 } }$ ,and $0 . 0 0 7 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ during the abundant water period, level water period,and dry water period,respectively. The maximum values of zooplankton abundance and biomass values appeared in the abundant water period.(2)The spatial and temporal distribution of the diversity index difered in each water period. In the abundant water period, $H ^ { \prime }$ and $D$ values showed an increasing trend from reservoir head to the dam.Conversely,in the level water and dry water periods, $H ^ { \prime }$ and $D$ values of zooplankton in the middle position of the reservoir showed the lowest values. $H ^ { \prime }$ and $D$ mean values of zooplankton in Qapchy Lake of three water periods were 1.19 and 0.82. (3)As the results of redundancy analysis showed, water temperature, chemical oxygen demand, and nutrient salt (including the concentration of TN, TP, $\mathsf { N O } _ { 3 } ^ { - } - \mathsf { N }$ ， $\mathsf { N O } _ { 2 } ^ { - } - \mathsf { N }$ ， $\mathrm { N H _ { 4 } ^ { + } - N }$ $\mathsf { P O } _ { 4 } ^ { 3 - } - \mathsf { P } )$ were environmental factors influencing the change in zooplankton community. Water temperature was the main factor afcting the community structure of zooplankton in different water periods.Based on the results from the biodiversity and trophic state indices,the water environment of Qapchy Lake was oligotrophy or mild moderately eutrophication, meaning that the water environment in the reservoir of the upper Ii River was less disturbed by herding,cropping,and human activities.The relatively healthy water environment made a good habitat for freshwater fishes, which was suitable for them as wintering,swamping,and feeding ground.
+
+Key words: zooplankton； distribution tendency； comprehensive trophic level index； redundancy analysis； Qap-chy Lake

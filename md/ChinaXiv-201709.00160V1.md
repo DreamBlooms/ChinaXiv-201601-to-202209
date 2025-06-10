@@ -1,0 +1,240 @@
+# Cosmological parameter estimation from CMB and X-ray clusters after Planck
+
+Jian-Wei Hu,1 Rong-Gen Cai,² Zong-Kuan Guo,’ Bin Hu4
+
+1 2 3State Key Laboratory of Theoretical Physics, Institute of Theoretical Physics, Chinese Academy of Sciences,P.O.Box 2735,Beijing 100190,China   
+4 Instituut-Lorentz for Theoretical Physics， Universiteit Leiden， 2333 CA Leiden， The Netherlands
+
+Abstract.We update the cosmological parameter estimation for three non-vanilla models by a joint analysis of CCCP X-ray cluster, the newly released Planck CMB data as well as some external data sets, such as baryon acoustic oscillation measurements from the 6dFGS, SDSS DR7 and BOSS DR9 surveys,and Hubble Space Telescope $H _ { 0 }$ measurement.First of all, we find that X-ray cluster data sets strongly favor a non-zero summed neutrino mass at more than $3 \sigma$ confidence level in these non-vanilla models. And then,we reveal some tensions between X-ray cluster and Planck datain some cosmological parameters. For the matter power spectrum amplitude $\sigma _ { 8 }$ , X-ray cluster data favor a lower value compared with Planck. Because of the strong $\sigma _ { 8 } - \sum m _ { \nu }$ degeneracy, this tension could beyond $2 \sigma$ confidence level when the summed neutrino mass $\sum m _ { \nu }$ is allowed to vary. For the CMB lensing amplitude $A _ { L }$ ，the addition of X-ray cluster data results in a $3 \sigma$ deviation from the vanilla model. Furthermore, Planck+X-ray data prefer a large Hubble constant and phantom-like dark energy equation of state,which are in $2 \sigma$ tension with those from WMAP7+X-ray data. Finally, we find that these tensions/descrepencies could be relaxed in some sense by adding a 9% systematic shift in the cluster mass functions.
+
+Keywords: cosmology, neutrino mass, galaxy clusters
+
+ArXiv ePrint: 0000.0000
+
+# Contents
+
+1Introduction 1
+
+2Data and methodology 2
+
+3 Results 3
+
+3.1 $\sum m _ { \nu }$ results 4   
+3.2 $A _ { L }$ and $\sigma _ { 8 }$ results 5   
+3.3 $H _ { 0 }$ and $w$ results 8
+
+4 Conclusions 9
+
+# 1 Introduction
+
+Recently, the Planck Collaboration publicly released the initial cosmology products [1] based on the first 15.5 months of Planck operations. Their scientific results strongly support the standard 6-parameter ACDM model, hereafter namely the vanilla model. And the corresponding parameter constraints are greatly improved, including a highly significant deviation from scale invariance of the primordial power spectrum of curvature perturbations. However, some based cosmological parameter values and others derived from them are significantly different from those previously determined, such as present Hubble parameter $H _ { 0 }$ [2], the lensing amplitude $A _ { \mathrm { L } }$ [2]，etc. Among these parameter estimation tensions, the most controversial one is about $H _ { 0 }$ value. On the one hand,Planck results are discrepant with recent direct measurements from Hubble Space Telescope (HST) Key Project [3] and Type Ia supernovae observations via the magnitude-redshift relation, such as the Union2.1 compilation [4]. On the other hand, they are in excellnt agreement with geometrical constraints from several baryon acoustic oscillation (BAO） surveys [5-7]. Beside that，very recently the authors of [39] re-analyze the Planck primary CMB data and find that the 217 GHz $\times$ 217 GHz detector set spectrum used in the Planck analysis is responsible for some of this tension. In order to reveal or reconcile the tensions between low redshift geometric and Planck measurements, many efforts have been done [8-16].
+
+Beside CMB observations, Large Scale Structure (LSS) surveys on various scales, such as galaxies and clusters of galaxies,could also provide us lots of cosmological information. A better understanding of the sturcture of our universe asks for the agreement between theoretical predictions and observations on various spatial and temporal scales. The cosmological information encoded in the CMB map is mainly on the spatially large scales and at temporally very deep redshift. As complementary observations,the distribution of LSS tells us the structure formation laws due to the instability of gravity on relatively small scales and at low redshifts. As the most massve virialised structures in the universe, clusters of galaxies are perfect probes of the matter distribution on large scales. Within the framework of dark matter structure formation scenario,baryonic matter traces the distribution of dark matter halo. When the baryonic gas falls into the gravitational potential wels, it could heat up to $1 0 ^ { 7 } \mathrm { K }$ so that X-rays will be emitted. Via this mechanism the galaxy clusters could be identificated through their X-ray flux. Chandra Cluster Cosmology Project (CCCP) [17-20] utilizes X-rays indicator to observe the galaxy clusters that has been a catalog detected in a new
+
+Rontgensatelite (Rosat) PSPC surveys [21] covering 400 square degrees sky area. Thanks to the high resolution of the Chandra X-rays observator, high-quality X-ray data of the resulting samples upto redshift $z = 0 . 9$ are obtained, which can be used to determine the galaxy cluster mass function and hence to estimate the cosmological parameters.
+
+The detection of solar and atmospheric neutrino oscillations indicates that neutrinos are massive,but cannot provide absolute masses for neutrinos. Cosmological observations can provide significantly strong constraints on the summed neutrino mass through the cosmological effects of massive neutrinos. Neutrino masses affect the CMB power spectrum mainly through the early integrated Sachs-Wolfe effect, the BAO by changing the late-time expansion rate of the universe, and the abundance of galaxy clusters by smearing out a fraction of the mass over the neutrino free streaming scale [36]. The Planck team actually adopts a normal hierarchy for neutrino masses with $\sum m _ { \nu } = 0 . 0 6 ~ \mathrm { e V }$ as their baseline model and finds a significant discrepancy between the Planck data and the abundance of galaxy clusters [2]. This suggests that the tension is relaxed by increasing the summed neutrino mass because their free streaming reduces the amount of small scale clustering today. Therefore, in our analysis the summed neutrino mass is always allowed to be free. In this paper we focus on the cosmological parameter estimation for three non-vanilla models by using the Planck+WP $^ +$ BAO $^ +$ HST data in combination with $\it C C P$ X-ray clusters.
+
+The rest parts of this paper are organized as follows. In Sec. 2 we will briefly describe the data sets and methodology. In Sec. 3 we will present our results in three non-vanilla models and reveal some tensions between X-ray cluster and Planck data. Finally we arrive at our conclusions in Sec.4.
+
+Table 1. List of cosmological parameters   
+
+<html><body><table><tr><td>Parameter</td><td>Range</td><td>Baseline</td><td>Definition</td></tr><tr><td>Ωbh² Ωch² 1000MC T ns</td><td>[0.005,0.1] [0.001,0.99] [0.5,10.0] [0.01,0.8] [0.9,1.1]</td><td>1 1 一 一 一</td><td>Baryon density today Cold dark matter density today Sound horizon parameter(CosmoMC) Thomson scattering optical depth of reionization Scalar spectrum power-law index</td></tr><tr><td>∑mv [eV] Neff</td><td>[0,5] [0.05,10.0]</td><td>-- 3.046</td><td>Amplitude of primordial curvature perturbations The sum of neutrino massesin eV Effective number of neutrino-like relativistic degrees of freedom</td></tr><tr><td>w</td><td>-3.0，-0.3]</td><td>−1</td><td>Dark energy equation of state</td></tr><tr><td>ΩK</td><td>-0.3,0.3]</td><td>0</td><td>Curvatureparameter today</td></tr><tr><td>AL</td><td>[0,10]</td><td>1</td><td>Normalized lensing spectrum amplitude</td></tr></table></body></html>
+
+# 2 Data and methodology
+
+The total Planck CMB temperature power-spectrum likelihood is divided into low- $l$ ( $l \ <$ 50）and high- $l$ （ $l \geq 5 0$ ）parts. This is because the central limit theorem ensures that the distribution of CMB angular power spectrum $C _ { l }$ in the high- $l$ regime can be well approximated by Gaussian statistics. However, for the low- $l$ part the $C _ { l }$ distribution is non-Gaussian. For this reason the Planck team adopts two diferent methodologies to build the likelihood. In detail, for the low- $l$ part，the likelihood exploits all Planck frequency channels from 30 to 353 GHz, separating the cosmological CMB signal from difuse Galactic foregrounds through a physically motivated Bayesian component separation technique. For the high- $l$ part，the Planck team employs a correlated Gaussan likelihood approximation, based on a fine-grained set of angular cross-spectra derived from multiple detector combination between the 100,143, and 217 GHz frequency channels, marginalizing over power-spectrum foreground templates. In order to break the well-known parameter degeneracy between the reionization optical depth （204号 $\tau$ and the scalar spectral index $n _ { s }$ ，the Planck team adopts the low $l$ WMAP polarization likelihood (WP).
+
+As stated above in this paper we are also interested in the X-ray cluster data [22-24]. The $\it C C P$ project measures cluster mass function by using a high-redshift ( $0 . 4 < z < 0 . 9$ ）） subsample of the 4OO square degree survey, 37 objects,and low-redshift ( $z < 0 . 2$ ）subsample of the all-sky survey，49 brightest clusters. The methodologies of likelihood construction follow the standard derivation of the Poisson distribution of cluster mass [25]. The likelihood function implicitly depends on the cosmological parameters through the model of cluster mass function (reflecting the growth, normalization,and shape of the density perturbation power spectrum), through the cosmological volume-redshift relation which determines the survey volume,and through the distance-redshift as well as the masses-temperature relation. The details of likelihood construction and systematic uncertainty control are mentioned in [22]. Furthermore, in order to break the parameter degeneracies we also use some other external data sets, including BAO measurements from the 6dFGS [5], SDSS DR7 [6] and BOSS DR9 [7] surveys, and HST Key project [3] $H _ { 0 }$ measurement.
+
+Contrary to the Planck constraints on the summed neutrino mass,[11] found that adding X-ray cluster could gives the non-zero detection of the active or sterile neutrino mass $( \sum m _ { \nu }$ （202 or $m _ { s }$ ） with great statistical significance for various 8-parameter models, including the active/sterile neutrino mass as well as effective neutrino number $N _ { \mathrm { e f f } }$ . Moreover, adding X-ray data set could also lead to a significant deviation in $\sigma _ { 8 }$ ，namely the matter power spectrum amplitude on the $8 h ^ { - 1 }$ Mpc scale, from the Planck result [2]. In details,without X-ray cluster,the Planck result favors a larger value of $\sigma _ { 8 }$ ，while with them the joint analysis give a lower value. Therefore, in this paper we explore the tension between Planck and CCCP X-ray cluster data sets with several 8-parameter models, including effective neutrino number $N _ { \mathrm { e f f } }$ ， constant dark energy equation of state $w$ ，present spatial curvature $\Omega _ { K }$ and lensing amplitude $A _ { L }$ . Particularly, we here focus on the neutrino mass constraint,so that in our baseline model the summed neutrino mass is always allowed to vary freely. We restrict ourselves to one-parameter extensions to the baseline model of $\Lambda { \mathrm { C D M + } } \sum m _ { \nu }$ ,as listed in Tab.1.
+
+We compute the CMB angular and matter power spectra by using the public EinsteinBoltzmann solver $C A M B$ [26] and explore the cosmological parameter space with a Markov Chain Monte Carlo sampler, namely CosmoMc [27]. For Planck we use the Planck Likelihood Code (PLC/clik) [28] which are available at the Planck Legacy Archive [29],and for $\it C C P$ （204号 our analysis is based on the likelihood grids presented in [22], which can be download from the website [30].
+
+# 3 Results
+
+In this section we will dig the information hidden in the CCCP X-ray cluster data [22-24]. Hereafter, we denote $C L _ { \mathrm { X - r a y } }$ for this data. We will first investigate the constraints on the summed neutrino mass from the Planck+WP $^ +$ BAO $^ +$ HST data and $C L _ { \mathrm { X - r a y } }$ . Hereafter, we dub Planck+WP $^ +$ BAO $^ +$ HST as PWBH. Then, we will turn to reveal some tensions in some cosmological parameters between these two data sets.
+
+Table 2.Planck+WP $^ +$ BAO+HST+CLx-ray results   
+
+<html><body><table><tr><td rowspan="2">Model</td><td colspan="2">ACDM+∑mv+Neff</td><td colspan="2">wCDM+∑mv</td><td colspan="2">ACDM+£m+ΩK</td></tr><tr><td>best fit</td><td>68%limits</td><td>best fit</td><td>68%limits</td><td>best fit</td><td>68% limits</td></tr><tr><td rowspan="7">100Ωbh² Ωch² 1000MC</td><td>2.285</td><td>2.274±0.027</td><td>2.205</td><td>2.204±0.026</td><td>2.224</td><td>2.203±0.031</td></tr><tr><td>0.1242</td><td>0.1227±0.0044</td><td>0.1181</td><td>0.1176±0.0016</td><td>0.1172</td><td>0.1179±0.0026</td></tr><tr><td>1.04085</td><td>1.04092±0.00070</td><td>1.04139</td><td>1.04125±0.00057</td><td>1.04190</td><td>1.04125±0.00065</td></tr><tr><td>0.095</td><td>0.097±0.015</td><td>0.086</td><td>0.090±0.013</td><td>0.089</td><td>0.089±0.013</td></tr><tr><td>0.9925</td><td>0.9929±0.0098</td><td>0.9595</td><td>0.9621±0.0059</td><td>0.9654</td><td>0.9624±0.0077</td></tr><tr><td>3.107</td><td>3.109±0.031</td><td>3.075</td><td>3.081±0.025</td><td>3.083</td><td>3.080±0.026</td></tr><tr><td>0.47</td><td>0.46±0.12</td><td>0.56</td><td>0.55±0.10</td><td>0.41</td><td>0.45±0.12</td></tr><tr><td rowspan="3">Neff w</td><td>3.80</td><td>3.704±0.29</td><td></td><td></td><td></td><td>一</td></tr><tr><td></td><td></td><td>-1.39</td><td>-1.39±0.12</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>0.00695</td><td>0.00835±0.00411</td></tr><tr><td rowspan="3">Ho 2m</td><td>0.2989</td><td>0.3000±0.012</td><td>0.2693</td><td>0.2661±0.0139</td><td>0.3027</td><td>0.3081±0.0131</td></tr><tr><td>71.36</td><td>70.8±1.5</td><td>73.68</td><td>74.0±2.1</td><td>68.93</td><td>68.6±1.0</td></tr><tr><td>0.7461</td><td>0.7477±0.0151</td><td>0.7902</td><td>0.7937±0.0208</td><td>0.7434</td><td>0.7370±0.0164</td></tr><tr><td>08 Xmin/2</td><td colspan="2">4911.581</td><td colspan="2">4908.152</td><td colspan="2">4912.452</td></tr></table></body></html>
+
+# 3.1 （20 $\sum m _ { \nu }$ results
+
+First,let us study the summed neutrino mass $\sum m _ { \nu }$ . The solar and atmospheric oscillation observations have already set a lower bound $( \sum m _ { \nu } \geq 0 . 0 6 ~ \mathrm { e V } ,$ ）on the summed mass for the standard three neutrino species. Beside the local observations,we could also obtain neutrino mass information via the indirect measurements on the cosmological scales. Generaly speaking, there are mainly two ways. One is through the secondary CMB anisotropies generated in the deep matter dominated epoch, such as weak lensig effect. However, these anisotropies are so small compared with the primordial signal that the current CMB experiments could only give a very loose upper bound, such as $\sum m _ { \nu } < 0 . 6 6 ~ \mathrm { e V }$ [2] from Planck [1] $^ +$ ACT [31] $^ +$ SPT [32-34]. The other method is to utilize the large scale structure tracers, such as matter power spectrum, selected cluster counting and cosmic shear,etc. Compared with the bounds obtained by CMB observations, these tomographic measurements could set a relatively stringent constraint. However, due to the contaminations from systematic noise and theoretical non-linearity etc., the resulting constraint varies a lot among different projects. For example, $C L _ { \mathrm { X - r a y } }$ [11] and selected Sunyaev-Zel'dovich galaxy cluster counts from Planck [14, 35] and SPT [36] report the non-zero detection of summed neutrino mass with quite significant evidence, while other galaxy surveys, such as WiggleZ [37] could improve the upper bound a lot but do not find any significant deviation from zero.
+
+Given the above facts, in what follows we will use $C L _ { \mathrm { X - r a y } }$ data to do the joint analysis of the summed neutrino mass $\sum m _ { \nu }$ with several related parameters, such as efective neutrino number $N _ { \mathrm { e f f } }$ ， dark energy equation of state $w$ as well as spatial curvature $\Omega _ { K }$ . The results with or without $C L _ { \mathrm { X - r a y } }$ are listed in Tab.2 or Tab.3. And the corresponding 2D likelihood contours are shown in Fig.1.
+
+We summarise our main results in what follows. First of all, from Tab.2 one could find a more than $3 \sigma$ detection of the summed neutrino mass for these three non-vanilla models
+
+![](images/20b8c43f90e2ea7702e1c5e7b00a32d140eb0905678f37ed42eb54147c2ebff9.jpg)  
+Figure 1. Left: Likelihood contours (68% CL and $9 5 \%$ CL）in the $\sum m _ { \nu } – N _ { \mathrm { e f f } }$ plane for the $P l a n c k \mathrm { + W P \mathrm { + B A O + } } H _ { 0 } \mathrm { + } C L _ { \mathrm { X - r a y } } ( \mathrm { r e d } )$ and $P l a n c k { + } \mathrm { W P + B A O } { + } H _ { 0 }$ (blue） data combinations. Middle: $\sum m _ { \nu } – w$ likelihood contours.Right: $\sum m _ { \nu } – \Omega _ { K }$ likelihood contours.
+
+Table3.Planck $^ +$ WP $^ +$ BAO $^ +$ HST results   
+
+<html><body><table><tr><td rowspan="2">Model</td><td colspan="2">ACDM+∑mv+Neff</td><td colspan="2">wCDM+£mv</td><td colspan="2">ACDM+∑mv+ΩK</td></tr><tr><td>best fit</td><td>68%limits</td><td>best fit</td><td>68%limits</td><td>best fit</td><td>68%limits</td></tr><tr><td>100Ωbh² Ωch²</td><td>2.225</td><td>2.249±0.027</td><td>2.183</td><td>2.193±0.026</td><td>2.214</td><td>2.210±0.031</td></tr><tr><td></td><td>0.1241</td><td>0.1275±0.0048</td><td>0.1225</td><td>0.1209±0.0022</td><td>0.1188</td><td>0.1192±0.0028</td></tr><tr><td>1000MC</td><td>1.04090</td><td>1.04060±0.00071</td><td>1.04050</td><td>1.04105±0.00059</td><td>1.04137</td><td>1.04138±0.00066</td></tr><tr><td>T</td><td>0.091</td><td>0.097±0.014</td><td>0.086</td><td>0.089±0.013</td><td>0.092</td><td>0.091±0.013</td></tr><tr><td>ns</td><td>0.9743</td><td>0.9830±0.0097</td><td>0.9552</td><td>0.9571±0.0065</td><td>0.9628</td><td>0.9619±0.0077</td></tr><tr><td>ln(101As)</td><td>3.102</td><td>3.122±0.030</td><td>3.087</td><td>3.090±0.025</td><td>3.092</td><td>3.091±0.025</td></tr><tr><td>∑mv [eV]</td><td>0.039</td><td><0.34 (95% CL)</td><td>0.17</td><td><0.61 (95% CL)</td><td>0.018</td><td>< 0.38 (95% CL)</td></tr><tr><td>Neff</td><td>3.44</td><td>3.661±0.27</td><td></td><td></td><td></td><td></td></tr><tr><td>w</td><td></td><td></td><td>-1.27</td><td>-1.33±0.15</td><td></td><td></td></tr><tr><td>ΩK</td><td></td><td></td><td></td><td></td><td>0.0013</td><td>0.00318±0.00415</td></tr><tr><td>Ωm</td><td>0.2948</td><td>0.2986±0.011</td><td>0.2778</td><td>0.2693±0.0150</td><td>0.2978</td><td>0.3031±0.0112</td></tr><tr><td>Ho</td><td>70.57</td><td>71.2±1.5</td><td>72.53</td><td>73.7±2.3</td><td>68.84</td><td>68.6±1.0</td></tr><tr><td>08</td><td>0.8463</td><td>0.8403±0.0271</td><td>0.8828</td><td>0.8612±0.0388</td><td>0.8384</td><td>0.8164±0.0285</td></tr><tr><td>Xmin/2</td><td colspan="2">4903.787</td><td colspan="2">4903.607</td><td colspan="2">4905.298</td></tr></table></body></html>
+
+when $C L _ { \mathrm { X - r a y } }$ data are taken into account
+
+$$
+\begin{array} { r l } { { } } & { { \sum m _ { \nu } = 0 . 4 6 \pm 0 . 1 2 \ ( 6 8 \% \ ; \ + N _ { \mathrm { e f f } } : \mathrm { P W B H } + C L ) \ , } } \\ { { } } & { { \sum m _ { \nu } = 0 . 5 5 \pm 0 . 1 0 \ ( 6 8 \% \ ; \ + w : \mathrm { P W B H } + C L ) \ , } } \\ { { } } & { { \sum m _ { \nu } = 0 . 4 5 \pm 0 . 1 2 \ ( 6 8 \% \ ; \ + \Omega _ { K } : \mathrm { P W B H } + C L ) \ . } } \end{array}
+$$
+
+Moreover,as pointed out in [24] there exists a systematical error in hydrostatic mass measurements $\delta M / M \simeq 0 . 0 9$ in $C L _ { \mathrm { X - r a y } }$ data sets. So，we take this mass function correction into account and list the corresponding results in Tab.4. Thanks to this correction, the mean value of summed neutrino mass get reduced
+
+$$
+\sum m _ { \nu } = 0 . 3 9 \pm 0 . 0 9 ~ ( 6 8 \% ~ ; ~ + w : \mathrm { P W B H } + C L + 9 \% \mathrm { M a s s } ) .
+$$
+
+# 3.2 $A _ { L }$ and $\sigma _ { 8 }$ results
+
+Then we study models including $A _ { L }$ and $\sigma _ { 8 }$ ， in which the latter is considered as a derived parameter from primordial curvature perturbation amplitude. Let us first investigate param
+
+Table 4. Planck+WP+BAO+HST+CLx-RAY+9% Mass result   
+
+<html><body><table><tr><td rowspan="2">Model</td><td colspan="2">wCDM+∑mv</td><td colspan="2">wCDM+∑mv+AL</td></tr><tr><td>best fit</td><td>68%limits</td><td>best fit</td><td>68%limits</td></tr><tr><td>100Ωbh²</td><td>2.213</td><td>2.214±0.024</td><td>2.226</td><td>2.243±0.027</td></tr><tr><td>Ωch²</td><td>0.1178</td><td>0.1170±0.0013</td><td>0.1182</td><td>0.1166±0.0014</td></tr><tr><td>1000</td><td>1.04175</td><td>1.04143±0.00056</td><td>1.04129</td><td>1.04165±0.00059</td></tr><tr><td>T</td><td>0.086</td><td>0.089±0.013</td><td>0.081</td><td>0.087±0.013</td></tr><tr><td>ns</td><td>0.9656</td><td>0.9648±0.0054</td><td>0.9665</td><td>0.9685±0.0057</td></tr><tr><td>ln(101° As)</td><td>3.077</td><td>3.080±0.025</td><td>3.069</td><td>3.076±0.024</td></tr><tr><td>∑mv [eV]</td><td>0.40</td><td>0.39±0.09</td><td>0.42</td><td>0.38±0.09</td></tr><tr><td>AL</td><td></td><td></td><td>1.22</td><td>1.28±0.10</td></tr><tr><td>w</td><td>-1.28</td><td>-1.23±0.057</td><td>-1.29</td><td>-1.20±0.07</td></tr><tr><td>Ωm</td><td>0.2687</td><td>0.2766±0.0113</td><td>0.2726</td><td>0.2780±0.0118</td></tr><tr><td>Ho</td><td>73.26</td><td>72.0±1.3</td><td>72.93</td><td>71.8±1.5</td></tr><tr><td>08</td><td>0.8109</td><td>0.7977±0.0170</td><td>0.8031</td><td>0.7639±0.0198</td></tr><tr><td>xin/2</td><td colspan="2">4907.444</td><td colspan="2">4903.368</td></tr></table></body></html>
+
+Table 5. CMB lensing amplitude $A _ { L }$ results   
+
+<html><body><table><tr><td rowspan="2">Model</td><td colspan="2">ACDM+∑mv+AL</td><td colspan="2">ACDM+AL</td><td colspan="2">ACDM+AL (without HST+CLx-ray)</td></tr><tr><td>best fit</td><td>68% limits</td><td>best fit</td><td>68% limits</td><td>best fit</td><td>68% limits</td></tr><tr><td>100Ωbh²</td><td>2.292</td><td>2.276±0.027</td><td>2.304</td><td>2.285±0.025</td><td>2.254</td><td>2.250±0.028</td></tr><tr><td>Ωch²</td><td>0.1132</td><td>0.1131±0.0011</td><td>0.1125</td><td>0.1124±0.0010</td><td>0.1167</td><td>0.1166±0.0017</td></tr><tr><td>1000MC</td><td>1.04279</td><td>1.04224±0.00056</td><td>1.04202</td><td>1.04224±0.00056</td><td>1.04156</td><td>1.04186±0.00058</td></tr><tr><td>T</td><td>0.086</td><td>0.087±0.013</td><td>0.075</td><td>0.073±0.011</td><td>0.092</td><td>0.087±0.013</td></tr><tr><td>ns</td><td>0.9763</td><td>0.9768±0.0053</td><td>0.9807</td><td>0.9784±0.0051</td><td>0.9703</td><td>0.9698±0.0059</td></tr><tr><td>ln(101As)</td><td>3.069</td><td>3.068±0.025</td><td>3.046</td><td>3.039±0.021</td><td>3.091</td><td>3.078±0.025</td></tr><tr><td>Σmv [eV]</td><td>0.25</td><td>0.28±0.08</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>AL</td><td>1.42</td><td>1.36±0.10</td><td>1.44</td><td>1.37±0.11</td><td>1.24</td><td>1.22±0.10</td></tr><tr><td>Ωm</td><td>0.2907</td><td>0.2942±0.0108</td><td>0.2696</td><td>0.2693±0.0057</td><td>0.2940</td><td>0.2929±0.0099</td></tr><tr><td>Ho</td><td>69.12</td><td>68.7±0.9</td><td>71.09</td><td>71.0±0.5</td><td>68.97</td><td>69.1±0.8</td></tr><tr><td>8</td><td>0.7538</td><td>0.7550±0.0139</td><td>0.7894</td><td>0.7867±0.0070</td><td>0.8218</td><td>0.8162±0.0119</td></tr><tr><td>xin/2</td><td colspan="2">4907.083</td><td colspan="2">4910.408</td><td colspan="2">4903.236</td></tr></table></body></html>
+
+eter degeneracies. As shown in Fig.2, there exists only a tiny correlation between $\sum m _ { \nu }$ and （204号 $A _ { L }$ ， so that the constraint on $A _ { L }$ in $\Lambda { \mathrm { C D M + } } \sum m _ { \nu } + A _ { L }$ and $\Lambda \mathrm { C D M } { + } A _ { L }$ models are very close (see Tab.5). For example, using $\mathrm { P W B H + } C L _ { \mathrm { X - r a y } }$ we could get
+
+$$
+A _ { L } = 1 . 3 7 \pm 0 . 1 1 \ ( 6 8 \% \ ; \Lambda { \mathrm { C D M } } + A _ { L } : { \mathrm { P W B H } } + C L ) \ . \nonumber
+$$
+
+Furthermore, we list the results of $\Lambda \mathrm { C D M } { + } A _ { L }$ model without $C L _ { \mathrm { X - r a y } }$ in the third column of Tab.5 for comparison,which is well consistent with the Planck results [2]. It shows that without CLx-ray
+
+$$
+A _ { L } = 1 . 2 2 \pm 0 . 1 0 \ : ( 6 8 ^ { \circ } \% \ : ; \Lambda { \mathrm { C D M } } + A _ { L } : { \mathrm { P W B } } ) .
+$$
+
+Comparing (3.5) with (3.6) we could find that $C L _ { \mathrm { X - r a y } }$ leads the $A _ { L }$ deviation from unity, the value in vanilla model, even larger. Moreover, in the second column of Tab.4,we can
+
+![](images/b19d21563d29a0c9db9abe15ffa27c684f08748d50e7ca2861739755679df648.jpg)  
+Figure 2. Trianglelikelihood contours of $\sigma _ { 8 }$ ， $\sum m _ { \nu }$ and $A _ { L }$ with Planck+WP $^ +$ BAO $^ +$ HST+CLx-ray·
+
+see that by adding 9% mass correction, the tension in (3.5) with the vanilla model could be mildly reconciled
+
+$$
+A _ { L } = 1 . 2 8 \pm 0 . 1 0 \ ( 6 8 \% ; w \mathrm { C D M } + \sum m _ { \nu } + A _ { L } : \mathrm { P W B H } + C L + 9 \% \mathrm { M a s s } ) \ .
+$$
+
+Then,we turn to the matter power spectrum amplitude $\sigma _ { 8 }$ . As shown in Fig.2, there exists a significant anti-correlation between $\sigma _ { 8 }$ and $\Sigma ^ { m _ { \nu } }$ . This is because that the nonrelativistic, massive, weakly-interacting neutrinos behave qualitatively as a species of warm/hot dark matter， suppressing fluctuations on scales smaller than their thermal free-streaming length. Consequently, this correlation will lead to a relatively low value of $\sigma _ { 8 }$ when $\sum m _ { \nu }$ is allowed to vary (see Fig.3 and Tab.5). For example, by using data sets PWBH+CLx-ray our results give
+
+$$
+\begin{array} { r l } & { \sigma _ { 8 } = 0 . 7 8 9 4 \pm 0 . 0 0 7 0 \ ( 6 8 \% ; \mathrm { ~ A C D M } + A _ { L } : \mathrm { P W B H } + C L ) \ , } \\ & { \sigma _ { 8 } = 0 . 7 5 5 0 \pm 0 . 0 1 3 9 \ ( 6 8 \% ; \mathrm { ~ A C D M } + \displaystyle \sum m _ { \nu } + A _ { L } : \mathrm { P W B H } + C L ) \ . } \end{array}
+$$
+
+In 6 parameter ACDM model, Planck collaboration [35] gives $\sigma _ { 8 } ( \Omega _ { m } / 0 . 2 7 ) ^ { 0 . 3 } = 0 . 7 8 4 \pm 0 . 0 2 7$ （20 by using $P l a n c k \mathrm { + W P \mathrm { + B A O + B B N + } } C L _ { \mathrm { X - r a v } }$ ，which is consistent with the results reported here. We notice that in Fig.3 the results with $C L _ { \mathrm { X - r a y } }$ (3.9)(blue curve) are in a $2 \sigma$ tension with those in absence of $C L _ { \mathrm { X - r a y } }$ data (3.10) (red curve)
+
+$$
+\sigma _ { 8 } = 0 . 8 1 6 2 \pm 0 . 0 1 1 9 \ ( 6 8 \% \ ; \ \Lambda { \mathrm { C D M } } + A _ { L } : { \mathrm { P W B } } ) \ .
+$$
+
+![](images/078f55ca94ea71841d56756900ef20419e5e56b83284f0fda1b2aec7e33b5ec7.jpg)  
+Figure 3. Left: Marginalized likelihoods of $\sigma _ { 8 }$ ．Right: 2D likelihood contours between the lensing amplitude $A _ { L }$ and rms amplitude of linear fluctuation $o _ { 8 }$ ：
+
+Similar to $A _ { L }$ , with a 9% cluster mass correction we could also reconcile the tension with Planck
+
+$$
+\sigma _ { 8 } = 0 . 7 6 3 9 \pm 0 . 0 1 9 8 ~ ( 6 8 \% ~ ; ~ \mathrm { \it ~ w C D M } + \sum m _ { \nu } + A _ { L } : \mathrm { P W B H } + C L + 9 \% \mathrm { M a s s } ) ~ .
+$$
+
+# 3.3 $H _ { 0 }$ and $w$ results
+
+In this subsection，we study two background parameters, Hubble constant $H _ { 0 }$ and Dark Energy (DE) Equation of State (EoS) $w$ ：
+
+First of all, we can see from Tab.2 that without 9% mass correction to $C L _ { \mathrm { X - r a y } }$ data sets,a larger $H _ { 0 }$ value is favored, e.g. for $w \mathrm { C D M + } \sum m _ { \nu }$ model:
+
+$$
+H _ { 0 } = 7 4 . 0 \pm 2 . 1 \left( 6 8 \% \ ; \ + w : \mathrm { P W B H } + C L \right) .
+$$
+
+However, after adding this corrections one could pull the mean value of $H _ { 0 }$ a little bit back for the same model
+
+$$
+H _ { 0 } = 7 2 . 0 \pm 1 . 3 ( 6 8 \% \ ; \ + w : \mathrm { P W B H } + C L + 9 \% \mathrm { M a s s } ) \ .
+$$
+
+Second, instead of the spatial curvature $\Omega _ { K }$ ,once DE EoS $w$ is treated as a free parameter,a larger $H _ { 0 }$ arrives (see the left panel of Fig.4). This is due to the $H _ { 0 } - w$ correlation illustrated in the right panel of Fig.4. Third,for a consistency check we also include the results from joint analysis of WMAP7 and $C L _ { \mathrm { X - r a y } }$ data. The right panel of Fig.4 clearly shows that there exists a $2 \sigma$ tension in the parameter plane between the Planck+WP $+$ BAO $^ +$ HST+CLx $\underline { { \boldsymbol { \cdot } } }$ ray (blue) and WMAP7+BAO $^ +$ HST+CLx-ray (green) data.
+
+Beside the above $H _ { 0 }$ descrepencies,we also notice that a phantom-like DE EoS [38] is favored in our results
+
+$$
+w = - 1 . 3 9 \pm 0 . 1 2 ( 6 8 \% \ ; + w : \mathrm { P W B H } + C L ) \ .
+$$
+
+![](images/b7ee12f2d77dc7ce489c00a06f0ef648b903c74789b8edcb59925d3791a3defc.jpg)  
+Figure 4.Left: marginalized likelihood of $\textstyle H _ { 0 }$ for $w \mathrm { C D M + } \Sigma m _ { \nu }$ (solid） and $\Lambda { \mathrm { C D M + } } \Sigma m _ { \nu } { + } \Omega _ { K }$ (dashed) model. Right: 2D likelihood contours in the $H _ { 0 } - w$ plane.
+
+However, we should emphasize that this phantom-like value of DE EoS is not resulted in by including $C L _ { \mathrm { X - r a y } }$ data.From the middel column of Tab.3, one can find that without X-ray cluster data the DE EoS still deviates from $- 1$ more than $2 \sigma$ confidence level
+
+$$
+w = - 1 . 3 3 \pm 0 . 1 5 ~ ( 6 8 \% ~ ; + w : \mathrm { P W B H } ) .
+$$
+
+Furthermore, if we also remove HST data,i.e. just use Planck+WP+BAO, there will be no significant deviation from $w = - 1$ as
+
+$$
+w = - 1 . 3 1 \pm 0 . 2 3 \ ( 6 8 \% \ ; + w : \mathrm { P W B } ) .
+$$
+
+Because of the well-known $H _ { 0 } - w$ correlation, we argue that this result partially reflects the tension between HST and Planck on Hubble parameter $H _ { 0 }$ as found in [2]. At last, the $9 \%$ （204号 mass correction can also relax the tension in $w$ with $\Lambda$ CDM model
+
+$$
+w = - 1 . 2 3 \pm 0 . 0 6 \ ( 6 8 \% \ ; + w : \mathrm { P W B H } + C L + 9 \% \mathrm { M a s s } ) .
+$$
+
+# 4 Conclusions
+
+We have presented an updated estimation of cosmological parameters in three 8-parameter non-vanilla models using Planck WMAP7, BAO, HST and CCCP X-ray data sets. First of all,we have found that X-ray cluster data sets strongly favor a non-zero summed neutrino mass with more than $3 \sigma$ CL in these models,which is in quite good agreement with recent results in the literature. The presence of massive neutrinos inhibits the growth of structures below their thermal free-streaming scale during structure formation,leading to a reduced value of $\sigma _ { 8 }$ ， which could improve consistency with X-ray cluster data. In addition， we have also revealed some tensions between X-ray cluster and Planck data in the cosmological parameters, including the matter power spectrum amplitude $\sigma _ { 8 }$ ， lensing amplitude $A _ { L }$ ，constant dark energy equation of state $w$ as well as Hubble parameter $H _ { 0 }$ ：
+
+For the matter power spectrum amplitude $\sigma _ { 8 }$ , X-ray cluster data favor a relatively low value compared with Planck. Because of the $\sigma _ { 8 } - \sum m _ { \nu }$ degeneracy, this tension could beyond $2 \sigma$ CL when the summed neutrino mass $\sum m _ { \nu }$ is allowed to vary. For the CMB lensing amplitude $A _ { L }$ ，the addition of X-ray cluster data makes its deviation from unity (vanilla model） even worse and results in more than $3 \sigma$ descrepency. Because of the correlation between $H _ { 0 }$ and $w$ , X-ray cluster data prefer a large Hubble constant and quite negative dark energy equation of state. Furthermore,we have also found a $2 \sigma$ tension in the $H _ { 0 } - w$ plane between the Planck+WP $^ +$ BAO $+$ HST+CLx-ray and WMAP7 $^ +$ BAO $^ +$ HST+CLX-ray data. Finally，we should emphasize that these tensions/descrepencies could be reduced in some sense by making a 9% shift in the cluster mass functions. The resolution of these intensions willikely require either the identification of a currently-unknown systematic effect in at lease one of these data sets or new physics.
+
+# Acknowledgments
+
+This work is partially supported by the project of Knowledge Innovation Program of Chinese Academy of Science, NSFC under Grant No.11175225， No.11335012， and National Basic Research Program of China under Grant No.2010CB832805 and No.2010CB833004. BH is supported by the Dutch Foundation for Fundamental Research on Matter (FOM).
+
+# References
+
+[1] P.A.R. Ade et al. [Planck Collaboration],arXiv:1303.5062 [astro-ph.CO].   
+[2] P.A. R. Ade et al. [Planck Collaboration], arXiv:1303.5076 [astro-ph.CO].   
+[3] W.L. Freedman et al. [HST Collaboration],Astrophys. J. 553,47 (2001) [astro-ph/0012376].   
+[4] N. Suzuki, D. Rubin, C. Lidman, G. Aldering, R. Amanullah, K. Barbary, L. F. Barrientos and J. Botyanszki et al., Astrophys. J. 746,85 (2012) [arXiv:1105.3470 [astro-ph.CO]].   
+[5] F.Beutler, C.Blake,M. Colless, D.H. Jones,L. Staveley-Smith, L. Campbell, Q.Parker and W. Saunders et al., Mon. Not.Roy. Astron. Soc. 416,3017 (2011) [arXiv:1106.3366 [astro-ph.CO]].   
+[6] W.J. Percival et al. [SDSS Collaboration],Mon. Not. Roy. Astron. Soc. 401, 2148 (2010) [arXiv:0907.1660 [astro-ph.CO].   
+[7] L. Anderson, E. Aubourg, S. Bailey, D. Bizyaev, M. Blanton,A. S. Bolton, J. Brinkmann and J. R. Brownstein et al., Mon. Not. Roy. Astron. Soc. 427, no. 4, 3435 (2013) [arXiv:1203.6594 [astro-ph.CO]].   
+[8] C. Cheng and Q. -G. Huang,arXiv:1306.4091 [astro-ph.CO].   
+[9] B. Hu, M. Liguori, N. Bartolo and S. Matarrese, arXiv:1307.5276 [astro-ph.CO].   
+10] A. Marchini and V. Salvateli, Phys.Rev. D 88, 027502 (2013)[arXiv:1307.2002 [astro-ph.CO]]   
+11] M. Wyman, D. H. Rudd, R. A. Vanderveld and W. Hu, arXiv:1307.7715 [astro-ph.CO].   
+(12] J. -Q. Xia, H. Li and X. Zhang, Phys. Rev. D 88, 063501 (2013) [arXiv:1308.0188 [astro-ph.CO]].   
+'13] J. Hamann and J. Hasenkamp, JCAP 1310, 044 (2013) [arXiv:1308.3255 [astro-ph.COl].   
+14] R.A. Battye and A. Moss,arXiv:1308.5870 [astro-ph.CO].   
+15] Z. Li, P. Wu, H. Yu and Z. -H. Zhu, arXiv:1311.3467 [astro-ph.CO].   
+[16] R. -G. Cai, Z. -K. Guo and B. Tang,arXiv:1312.4309 [astro-ph.CO].   
+[17] A. Vikhlinin, A. Kravtsov, W. Forman, C. Jones, M. Markevitch, S. S. Murray and L. Van Speybroeck,Astrophys. J.640,691 (2006) [astro-ph/0507092].   
+[18] O. Kotov and A.Vikhlinin,Astrophys. J. 641, 752 (2006) [astro-ph/0511044].   
+[19] A.V. Kravtsov, A. Vikhlinin and D. Nagai, Astrophys. J. 650,128 (2006) [astro-ph/0603205].   
+[20] D. Nagai, A. Vikhlinin and A. V. Kravtsov, Astrophys. J. 655, 98 (2007) [astro-ph/0609247].   
+[21] R.A. Burenin,A. Vikhlinin,A. Hornstrup,H. Ebeling, H. Quintana and A. Mescheryakov, [astro-ph/0610739].   
+[22] A.Vikhlinin,R. A. Burenin,H. Ebeling,W. R.Forman, A. Hornstrup, C.Jones,A. V. Kravtsov and S. S.Murray et al.,Astrophys. J. 692,1033 (2009) [arXiv:0805.2207 [astro-ph]].   
+[23] A. Vikhlinin, A. V. Kravtsov, R. A. Burenin, H. Ebeling, W. R. Forman, A. Hornstrup, C. Jones and S. S. Murray et al.,Astrophys. J. 692,1060 (2009) [arXiv:0812.2720 [astro-ph]].   
+[24] R. A. Burenin and A. A. Vikhlinin, arXiv:1202.2889 [astro-ph.CO].   
+[25] W. Cash,Astrophys. J. 228, 939 (1979).   
+[26] A. Lewis,A. Chalinor and A. Lasenby, Astrophys. J. 538, 473 (2000) [astro-ph/9911177].   
+[27] A. Lewis and S. Bridle, Phys. Rev. D 66,103511 (2002) [astro-ph/0205436].   
+[28] P.A. R. Ade et al. [Planck Collaboration],arXiv:1303.5075 [astro-ph.CO].   
+[29] http://www.sciops.esa.int/index.php?project=planck&page=Planck Legacy Archive   
+[30] http://hea.iki.rssi.ru/400d/cosm/   
+[31] S.Das,T.Louis,M.R. Nolta,G.E.Addison,E. S.Battistelli, JR. Bond, E. Calabrese and D. C. M. J. Devlin et al., arXiv:1301.1037 [astro-ph.CO].   
+[32] R. Keisler, C.L. Reichardt,K.A. Aird, B. A. Benson,L. E. Bleem, J. E. Carlstrom, C. L. Chang and H. M. Cho et al., Astrophys. J. 743, 28 (2011) [arXiv:1105.3182 [astro-ph.CO]].   
+[33] K.T. Story, C.L. Reichardt, Z. Hou, R. Keisler, K.A. Aird, B. A. Benson, L.E. Bleem and J. E. Carlstrom et al., Astrophys.J. 779,86 (2013) [arXiv:1210.7231 [astro-ph.CO].   
+[34] C.L. Reichardt, L. Shaw, O. Zahn,K.A. Aird,B. A. Benson,L. E. Bleem,J.E. Carlstrom and C. L. Chang et al., Astrophys. J. 755, 70 (2012) [arXiv:1111.0932 [astro-ph.CO]].   
+[35] P.A. R.Ade et al. [Planck Collaboration],arXiv:1303.5080 [astro-ph.CO].   
+[36] Z. Hou, C. L. Reichardt,K. T. Story, B. Follin, R. Keisler, K.A. Aird, B. A. Benson and L. E. Bleem et al.,arXiv:1212.6267 [astro-ph.CO].   
+[37] S. Riemer-Srensen, D. Parkinson and T. M. Davis, arXiv:1306.4153 [astro-ph.CO].   
+[38] R.R. Caldwell, Phys.Lett.B 545,23 (2002) [astro-ph/9908168].   
+[39] D. Spergel, R. Flauger and R. Hlozek,arXiv:1312.3313 [astro-ph.CO].

@@ -1,0 +1,429 @@
+[
+    {
+        "type": "text",
+        "text": "First-generation HapMap in Cajanus spp. reveals untapped variations in parental lines of mapping populations ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Vinay Kumar1, Aamir W. Khan1, Rachit K. Saxena1, Vanika Garg1 and Rajeev K. Varshney1.2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "International Crops Research Institute for the Semi-Arid Tropics (ICRlSAT),Hyderabad, India 2Schoolof Plant BiologyandInstituteofAgriculture,The Universityof Western Australia,Crawley,WA,Australi ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received8September2015;   \nrevised 6 December 2015;   \naccepted 10 December 2015.   \n\\*Correspondence (Tel $+ 9 1$ 40 30713345;   \nfax $+ 9 1$ 40 30713074;   \nemail r.k.varshney@cgiar.org) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:deletions,insertions,nextgeneration sequencing,pigeonpea, single-nucleotide polymorphism, whole genome re-sequencing. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Whole genome re-sequencing (WGRS) was conducted on a panel of 20 Cajanus spp.accessions (crossing parentals of recombinant inbred lines,introgression lines,multiparent advanced generation intercross and nested association mapping population) comprising of two wild species and 18 cultivated species accessions.A total of 791.77 million paired-end reads were generated with an effective mapping depth of ${ \\sim } 1 2 \\times$ per accession.Analysis of WGRS data provided 5 465 676 genome-wide variations including $4 ~ 6 8 6 ~ 4 2 2 ~ 5 \\mathsf { N P S }$ and 779 254 InDels across the accessons.Large structural variations in the form of copy number variations (2598) and presence and absence variations (97O) were also identified.Additionally,2 630 904 accession-specific variations comprising of 2 278 571 SNPs $( 8 6 . 6 \\% )$ ，166243deletions $( 6 . 3 \\% )$ and 186 090 insertions $( 7 . 1 \\% )$ were also reported.Identified polymorphic sites in this study provide the first-generation HapMap in Cajanus spp.which willbe useful in mapping the genomic regions responsible for important traits. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pigeonpea (Cajanus cajan L.)belongs to the genus Cajanus under Fabaceae family.The genus Cajanus is comprised of 32 species including wild and cultivated species.Pigeonpea is one of the most important food legume crops grown in marginal environments of the world.It has been considered a rich source of protein to the vegetarian families.However,the crop productivity hasremained stagnant $( - 7 5 0 ~ \\mathsf { k g / h a } )$ during last six decades (http://faostat.fao.org/).The low level of yield is due to biotic stresses [fusarium wilt (FW),sterility mosaic disease (SMD),etc.], abiotic stresses (water logging,salinity,etc.) and narrow genetic base in the cultivated gene pool (Saxena et al.,2o1O). Research efforts have been undertaken to solve the above-mentioned constraints and a number of disease-resistant and high-yielding varieties were released for cultivation. However, the average yield levelremains $^ { < 1 }$ tonperhectare(http://www.iipr.res.in/ aicrp.html). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Genomics-assisted breeding (GAB) has been successfully deployed in a number of crops species to tackle the longstanding problems (Varshney et al.，2oo9). In the case of pigeonpea，GAB could not be adequately deployed to tackle the constraints responsible for low yield.In terms of genomics resources,large number of molecular markers such as simple sequence repeat (SSR),diversity array technology (DArT),singlefeature polymorphism (SFP)，single-nucleotide polymorphisms (SNPs),etc.,and a number of segregating populations have been developed (Bohra etal.，2014;Dutta etal.，2011；Pazhamala et al.,2015).Mapping for economical important traits could not be very successful with above-mentioned resources as only few hundreds of markers were found polymorphic in parental genotypes (Bohra et al.,2014). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Next-generation sequencing (NGS) technologies have provided newavenues to detect genome-wide variations present in gene pools of different species (Bevan and Uauy，2013;Thudi et al., 2012).After having a draft genome in a particular crop species, deploying NGS becomes more cost effective in assessing the genome-wide variations (Varshney et al.，2oo9).NGS enables identification of SNPs and InDels in efficient and high-throughput manner (Lam et al.，2010;Xu et al.，2012).At present,draft genome sequences have become available in a number of crop species (Michael and Jackson,2013) including pigeonpea (Singh et al.,2011;Varshney et al.,2012).Further,in the recent past, NGS hasbeen used in identifying genome-wide variations through WGRS based approaches (Arai-Kichise et al.，2014; Mace et al.,2013;Varshney et al.,2009;Zheng et al.,2011). This will subsequently enable the discovery of SNPs and InDels at the genome-wide scale within both germplasm collections and breeding lines of pigeonpea.SNPs and InDels are of high importance for crop improvement programs (Chen et al.,2014; Tao et a/.,2014).Both SNPsand InDels are being used in different trait mapping approaches,haplotype analysis and GAB programs such as marker-assisted selection,marker-assisted back-crossing, genomic selection,varietal identification and hybridity testing.In recent years，SNPs have been detected and analysed in many cultivars and inbred lines of pigeonpea and used for linkage mapping and diversity analysis (Saxena et al.，2012，2014). However，these SNPs were identified in limited number of accessions and few SNPs were applicable to other accessions. Forimplementing modern GAB methodologies，it ishighly imperative to detect genome-wide variations in a larger set of accessions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In view of above,we have re-sequenced 20 diverse Cajanus spp.accessions representing two distinct gene pools (primary and secondary): the pre-domesticated wild species accessions (C.acutifoliusand C.cajanifolius),local landraces (C.cajan) and modern elite cultivars or breeding lines(C. cajan).C.cajanifolius has been considered as the closest wild relative and the progenitor species of cultivated pigeonpea (Kassa et al.，2012；Pazhamala et al., 2015；Saxena et al.，2014).Selected accessions are crossing parents of six mapping populations segregating for economically important traits.This study not only presents the first generation HapMap in Cajanus spp.but also reports unique molecular signatures for each accession and large-scale variations between crossing parents for high-resolution trait mapping. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Selection and features of Cajanus spp.accessions ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A total of 20 Cajanus spp.accessions were selected on the basis of multi-year/locations trait phenotyping data for development of recombinant inbred line (RIL),introgression line (IL),multiparent advanced generation intercross (MAGlC) and nested association mapping (NAM) populations (Saxena et al.，2010；Varshney et al.，201O)．For instance，ICP 8863 has been found to be resistant to FW,whereas ICP 7035,HPL 24 and ICPB 2049 were resistant to SMD.Two accessions namely,ICPL 99050 and ICPL 20097 were resistant to both FW and SMD.These Cajanus spp. accessions differ for a number of agronomic traits (Table S1). Interestingly，these accessions represent all maturity groups starting from super-early maturity (floweringin $\\mathord { < } 5 0$ days;MN 1),extra-short maturity (flowering in ${ < } 7 0$ days; ICPL 85010 and ICPL 88039)，short maturity (flowering in ${ < } 8 0$ days; ICPL 87), short medium (flowering in $< 1 1 0$ days; ICP 8863)and medium (flowering in $< 1 4 0$ days,ICP 7035,ICP 5529)(Vales et al.,2012). Two landraces ICP 7426 and ICP 14209 produce high number of pods per plant whereas,HPL 24 is known as a high seed protein containing line. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Large-scale data generation and alignment ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Illumina paired-end sequencing technology was used to sequence a panel of 20 Cajanus spp.accessions on the MiSeq platform.As a result,a total of 157 Gb raw data have been generated with 791.77 million reads of read length from 150 to 250 bp (Table 1). Paired-end reads were mapped onto the reference genome (Varshney et al.,2012).Across all 20 accessions,731.28 million reads were mapped onto the reference genome.Around $9 3 \\%$ of total reads from 18 cultivated species accessions and $7 9 \\%$ from two wild species accessions were mapped onto the reference genome.These variations in mapping may be due to divergence between parental accessions and the incompleteness of the reference genome assembly.Of these 731.28 million mapped reads，469.18 million reads were mapped uniquely onto the reference genome,while rest of the reads were mapped to the multiple locations in the genome. Remaining 60.49 million reads $( 7 . 6 \\%$ of total reads) could not be mapped onto the reference genome (Table 1,Figure S1).The effective mapping depth ranged from 8X (MN 1) to 16.5X (ICP 14486) with an average of $1 2 \\times$ per Cajanus spp.accession.The genome coverage for each Cajanus spp.accession against the reference genome varied from $7 5 \\%$ to $91 \\%$ withanaverage of $89 \\%$ in the cultivated spp.accessions and $82 \\%$ in wild species accessions (Table 1). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Genome-wide variations across Cajanus spp.accessions ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Genome-wide SNPs and InDels were identified across Cajanus spp.accessions (Figure 1).Comprehensive data analysis identified a total of 5 465 676 variations including 4686 422 SNPs and 779 254 InDels (373 038 insertions and 406 216 deletions) ranged from 1 to 48 bp in length (Figures S2 and S3).In terms of the assembled genome around $4 7 . 5 \\%$ SNPs, $5 1 . 1 \\%$ insertions and $5 1 . 3 \\%$ deletions were present in 11 pseudomolecules (CcLG01 to CcLG11). Rest of the variations were present on unanchored scaffolds (CcLGO) in draft genome (Table S2).The variations across individual pseudomolecules in Cajanus spp. accessions were ranged from 47 453 (CcLG05) to 509 422 (CcLG11).SNPs identified in Cajanus spp.accessions were classified into two broad categories,homozygous and heterozygous SNPs based on the presence of one or more than one allele at the same position against the reference genome.The per cent heterozygosity was ranged from $14 \\%$ in ICPW 12 to $67 \\%$ in ICPW 29 (Figure S4, Table S3). ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/ee16f9ba33b2f9cc43feb9a3d0bc44a48f555c2096539e1a41d2ab2f7a00e2f7.jpg",
+        "table_caption": [
+            "Table1 Summary of re-sequencing data generated and genome coverage in 20 Cajanus spp.accessions "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Total reads</td><td colspan=\"2\">Mapped reads</td><td colspan=\"2\">Uniquely mapped reads</td><td>Genome</td><td></td></tr><tr><td>Genotype</td><td>(million)</td><td>Total (million)</td><td>%</td><td>Total (million)</td><td>%</td><td>coverage (%)</td><td>Depth (X)</td></tr><tr><td>HPL 24</td><td>48.26</td><td>45.92</td><td>95.16</td><td>29.50</td><td>61.13</td><td>89.19</td><td>11.32</td></tr><tr><td>ICPB 2049</td><td>40.18</td><td>37.34</td><td>92.94</td><td>25.16</td><td>62.62</td><td>89.10</td><td>14.88</td></tr><tr><td>ICPL 20097</td><td>31.57</td><td>28.99</td><td>91.84</td><td>18.91</td><td>59.91</td><td>88.66</td><td>11.51</td></tr><tr><td>ICPL 85010</td><td>34.84</td><td>32.49</td><td>93.25</td><td>21.19</td><td>60.83</td><td>88.50</td><td>12.92</td></tr><tr><td>ICPL 85063</td><td>40.14</td><td>37.46</td><td>93.31</td><td>25.30</td><td>63.03</td><td>89.31</td><td>14.87</td></tr><tr><td>ICPL 87</td><td>39.36</td><td>37.38</td><td>94.96</td><td>24.50</td><td>62.25</td><td>88.55</td><td>9.20</td></tr><tr><td>ICPL 88039</td><td>25.91</td><td>24.17</td><td>93.29</td><td>16.29</td><td>62.88</td><td>86.77</td><td>9.59</td></tr><tr><td>ICPL 99050</td><td>41.41</td><td>37.95</td><td>91.64</td><td>23.73</td><td>57.31</td><td>89.48</td><td>15.12</td></tr><tr><td>MN1</td><td>34.03</td><td>32.52</td><td>95.56</td><td>22.37</td><td>65.75</td><td>87.88</td><td>7.82</td></tr><tr><td>ICP 11605</td><td>38.86</td><td>35.78</td><td>92.06</td><td>22.74</td><td>58.51</td><td>88.72</td><td>14.03</td></tr><tr><td>ICP 14209</td><td>35.04</td><td>32.50</td><td>92.74</td><td>20.72</td><td>59.13</td><td>88.52</td><td>12.83</td></tr><tr><td>ICP 14486</td><td>72.22</td><td>68.63</td><td>95.03</td><td>41.74</td><td>57.79</td><td>90.69</td><td>16.46</td></tr><tr><td>ICP28</td><td>32.11</td><td>29.94</td><td>93.24</td><td>20.31</td><td>63.24</td><td>88.26</td><td>11.92</td></tr><tr><td>ICP 5529</td><td>50.10</td><td>46.89</td><td>93.60</td><td>28.04</td><td>55.96</td><td>89.67</td><td>11.36</td></tr><tr><td>ICP 7035</td><td>36.42</td><td>34.52</td><td>94.78</td><td>23.34</td><td>64.10</td><td>88.19</td><td>8.50</td></tr><tr><td>ICP 7263</td><td>34.36</td><td>32.58</td><td>94.82</td><td>21.35</td><td>62.13</td><td>87.94</td><td>8.02</td></tr><tr><td>ICP 7426</td><td>36.31</td><td>33.68</td><td>92.75</td><td>20.53</td><td>56.54</td><td>88.39</td><td>13.38</td></tr><tr><td>ICP 8863</td><td>43.02</td><td>41.04</td><td>95.41</td><td>25.04</td><td>58.20</td><td>88.96</td><td>9.97</td></tr><tr><td>ICPW 12</td><td>37.29</td><td>24.00</td><td>64.37</td><td>14.65</td><td>39.28</td><td>74.63</td><td>9.68</td></tr><tr><td>ICPW29</td><td>40.34</td><td>37.49</td><td>92.94</td><td>23.76</td><td>58.90</td><td>89.61</td><td>15.16</td></tr><tr><td>Total</td><td>791.77</td><td>731.28</td><td></td><td>469.18</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e0974356537e59e71ebaca47a16625381ebbef963e639cac2a04a5c809ba0593.jpg",
+        "img_caption": [
+            "Figure 1Distribution of genome-wide variations identified across Cajanus spp.accessions against reference genome (the zoom portion of CcLG04 has shown the highest variation densities identified).Different circles(\"a\"to \"i\") represent as following:a: outer most circle represent 11 pseudomolecules,b: SNP density,c: InDel density, d: presence and absence variations (PAVs),e: copy number variations (CNVs),f: synonymous SNP substitutions density,g: nonsynonymous SNP substitutions density, h: intronic SNP density, i: intergenic SNP density; in the 11 Cajanus pseudomolecule. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SNPs and InDels densities were calculated per $1 0 0 ~ { \\textk } { \\mathrm b }$ along each pseudomolecule.The average density of variations across the whole genome was 879.3 SNPs,82.7 deletions and 75.8 insertions(Figure 1).Densities ofSNPs/InDels varied across pseudomolecules.Highest number of SNPs (976),deletions (97) and insertions (91)per $1 0 0 ~ \\mathsf { k b }$ were observed on CcLG04.The lowest number of SNPs per 100 kb were found on CcLG05 (770), whereas lowest number of deletions (75) and insertions (69) per 100 kb were present on CcLG10 (Table S2). In terms of individual accessions,maximum variations (SNPs and InDels) were identified inwild species accessions (ICPW 12:3 868 179; ICPW 29: 1101 494） in comparison with the reference genome.The lowest numbers of variations were present in ICP 8863 (237 170) (Tables2,S4 and S5). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Additionally， large variations such as copy number variations (CNVs)and presence and absence variations (PAVs)were also identified across Cajanus spp.accessions (Figure 1).A total of ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2598 CNVs were found in 2399 genes and 970 PAVs were present in 469 genes across 20 Cajanus spp.accessions (Tables S6 and S7).The sizes of identified CNVs were ranged from 1 to $4 3 k b$ in Cajanus spp.accessions. CNVs and PAVs were nonuniformly distributed across pseudomolecules with maximum on CcLG02 (382 CNVs，161 PAVs) and minimum on CcLG05(48 CNVs,11 PAVs).The highest number of CNVswas found in ICPW 12(1991) and lowest number of CNVs in ICPL 85063 (03).The highest number of PAVs were found in ICP 14486(10O)and lowest number of PAVs in ICP 7426 (2O) (Tables S8 and S9). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Identified SNPs and InDels in Cajanus spp.accessions were annotated onto the reference genome.Most of the SNPs were located in intergenic regions $( 8 3 \\% )$ followed by intronic regions $( 1 0 \\% )$ ,exonic regions $( 4 . 8 \\% )$ and $2 . 2 \\%$ could not be classified to any category. Exonic SNPs were further classified into synonymous and nonsynonymous SNPs，and the resulting ratio of nonsynonymous to synonymous substitutions was 1.46.Furthermore，the effect of each SNP was also categorized into four classes,viz.modifier,low effect,moderate effect and high effect About $9 3 \\%$ SNPs (presented in intergenic and intronic regions) were classified as modifier.Remaining $4 . 8 \\%$ exonic SNPs were classified as low effect (silent-synonymous substitutions and nonsynonymous start),moderate effect (nonsynonymous coding) and high effect (start lost,stop lost and stop gain) (Tables 2 and S10). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The effects of InDels were categorized separately as insertion and deletion effects (Tables S4 and S5).However，majority of InDels were located in intergenic $( 7 6 \\% - 8 6 \\% )$ and intronic region $( 1 1 \\% - 2 1 \\% )$ according to the parental accessions and considered asmodifier.Across parental accessions,only $1 \\% - 1 . 5 \\%$ InDels were located in exonic regions.The moderate effect insertions were classified as codon insertion and codon change plus codon insertion while deletions were codon deletion and codon change plus codon deletion.These moderate effect InDels were in-frame 3 bp InDels (a multiple of three) and were found in the range of 131 (MN 1) to 2871 (ICPW 12). High-effect InDels were classified as start lost，stop lost，stop gain and frame shift. Frame shift mutations caused by out-of-frame InDels (not a multiple of three) were found in the range of 269 (ICP 8263) to 2453 (ICPW 12). ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/39be716199863dfd37bdfb7d1104d8d21e34033defdf151c1bd4c0a2d74d1caa.jpg",
+        "table_caption": [
+            "Table2 Distribution and classification of SNPs in each Cajanus spp.accession "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"5\"></td><td rowspan=\"5\"></td><td rowspan=\"5\"></td><td rowspan=\"5\"></td><td colspan=\"6\">Exonic</td><td></td></tr><tr><td colspan=\"6\">Synonymous</td><td rowspan=\"3\"></td></tr><tr><td colspan=\"5\">Missense</td><td rowspan=\"2\">Nonsense Stop gain</td></tr><tr><td>Silent</td><td>Start lost</td><td>Stop lost</td><td>Nonsynonymous start</td><td>Nonsynonymous coding</td></tr><tr><td>HPL 24</td><td>346 096</td><td>280 639</td><td>42 294</td><td>7131</td><td>16</td><td>64</td><td>1</td><td>9179</td><td>265</td><td>6507</td></tr><tr><td>ICPB 2049</td><td>344 666</td><td>289 482</td><td>30 652</td><td>6121</td><td>18</td><td>76</td><td>2</td><td>8862</td><td>274</td><td>9179</td></tr><tr><td>ICPL 20097</td><td>199 761</td><td>165235</td><td>18 201</td><td>4409</td><td>14</td><td>65</td><td>2</td><td>6252</td><td>200</td><td>5383</td></tr><tr><td>ICPL 85010</td><td>349 778</td><td>291512</td><td>32 827</td><td>6608</td><td>13</td><td>80</td><td>2</td><td>9747</td><td>276</td><td>8713</td></tr><tr><td>ICPL 85063</td><td>304 980</td><td>255181</td><td>27054</td><td>5867</td><td>16</td><td>69</td><td>3</td><td>8611</td><td>253</td><td>7926</td></tr><tr><td>ICPL 87</td><td>258 560</td><td>213 999</td><td>27 442</td><td>4932</td><td>8</td><td>54</td><td>2</td><td>6907</td><td>213</td><td>5003</td></tr><tr><td>ICPL 88039</td><td>287399</td><td>238 046</td><td>27 456</td><td>5996</td><td>18</td><td>67</td><td>3</td><td>8502</td><td>239</td><td>7072</td></tr><tr><td>ICPL 99050</td><td>360 154</td><td>303 116</td><td>32 750</td><td>6247</td><td>18</td><td>81</td><td>3</td><td>8975</td><td>266</td><td>8698</td></tr><tr><td>MN1</td><td>228 688</td><td>189 834</td><td>23 834</td><td>4065</td><td>6</td><td>44</td><td>2</td><td>5926</td><td>172</td><td>4805</td></tr><tr><td>ICP 11605</td><td>400 435</td><td>335043</td><td>37 427</td><td>7393</td><td>16</td><td>88</td><td>2</td><td>10 638</td><td>295</td><td>9533</td></tr><tr><td>ICP 14209</td><td>338 975</td><td>283 217</td><td>31 414</td><td>6275</td><td>17</td><td>79</td><td>3</td><td>9066</td><td>284</td><td>8620</td></tr><tr><td>ICP 14486</td><td>404 003</td><td>336 672</td><td>40 461</td><td>7530</td><td>18</td><td>87</td><td>1</td><td>10 847</td><td>296</td><td>8091</td></tr><tr><td>ICP28</td><td>335 735</td><td>282 033</td><td>29900</td><td>6138</td><td>17</td><td>85</td><td>3</td><td>8915</td><td>253</td><td>8391</td></tr><tr><td>ICP 5529</td><td>258 008</td><td>212 661</td><td>27 312</td><td>5183</td><td>10</td><td>58</td><td>1</td><td>7323</td><td>231</td><td>5229</td></tr><tr><td>ICP 7035</td><td>265 762</td><td>218 935</td><td>28709</td><td>5118</td><td>11</td><td>50</td><td>1</td><td>7237</td><td>210</td><td>5491</td></tr><tr><td>ICP 7263</td><td>220 759</td><td>182 328</td><td>23 575</td><td>4239</td><td>6</td><td>34</td><td>1</td><td>6046</td><td>170</td><td>4360</td></tr><tr><td>ICP 7426</td><td>360 166</td><td>298 995</td><td>33 172</td><td>7535</td><td>21</td><td>99</td><td>3</td><td>11070</td><td>287</td><td>8984</td></tr><tr><td>ICP 8863</td><td>195 546</td><td>161342</td><td>19 415</td><td>4331</td><td>10</td><td>55</td><td>2</td><td>5946</td><td>195</td><td>4250</td></tr><tr><td>ICPW 12</td><td>3 357 515</td><td>2 559 376</td><td>558 482</td><td>92 976</td><td>196</td><td>386</td><td>29</td><td>99 797</td><td>1360</td><td>44 913</td></tr><tr><td>ICPW 29</td><td>917 145</td><td>776 862</td><td>85 479</td><td>14 449</td><td>54</td><td>167</td><td>4</td><td>20 006</td><td>486</td><td>19 638</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Furthermore，repetitive sequences in the form of tandem repeats and interspersed repeatswere also identified in each Cajanus spp.accession.The transposable elements or interspersed repeats were classified into retrotransposons and DNA transposons.In all the Cajanus spp.accessions, the majority of transposable elements were long terminal repeats (LTRs).The highest number of LTRs were found in ICPW 12 (639 419), whereas the lowest number were found in ICP 7263 (57 489) (Table S11). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Candidate variations for trait mapping ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To detect parental polymorphism,pairwise SNPs and InDels were identified between each crossing parental (Table S12). In the case of bi-parental mapping populations,maximum SNPs were present between crossing parentals of Introgression libraries-1 (IL-1) (ICPW12 vs ICPL 87119:3 357 515) followed by Introgression libraries-2 (IL-2)(ICPW29 vs ICPL87119:917145),PRIL_A (ICPB 2049 vs ICPL 99050:307 593)and PRIL_C (ICPL 20097 vs ICPL 8863:201 986) (Table S13).In the multiparent mapping populations，pairwise comparisons were made in all the possible combinations.For instance,a set of 28 crossing combinations in MAGIC and 10 crossing combinations in NAM were compared. In MAGIC population,maximum number of SNPs and InDels were found between HPL $2 4 \\times 1 mathsf C \\mathsf P$ 14486 (436 293 and 97 757, respectively) and minimum between ICP $5 5 2 9 \\times 1 mathsf { C P }$ 8863 (235 332 and 61 819，respectively) (Table S14).In the NAM population，pairwise SNPs and InDels were maximum in ICPL $8 5 0 1 0 \\times 1 0 ^ { \\circ } \\mathsf { P L }$ 87119 (349 778 and 71 250，respectively)and minimum in ICP $8 8 6 3 \\times 1 mathsf { C P L }$ 87119 (195 546 and 41 625, respectively) (Table S12). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Genetic relationships among Cajanus spp.accessions ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To explain the genetic divergence among the Cajanus spp. accessions,a phylogenetic tree was constructed with the help of SNPhylo program (Figure 2). Cajanus spp.accessions ICP 28 and HPL 24 were out-grouped from rest of the accessions. Remaining accessions were broadly categorized into two main clusters (ClI and Cl I).Cll contained 11 accessions representing two wild speciesaccessions，five landracesand four breeding lines, whereas Cl I contained seven accessions representing three landraces and four breeding lines.Under these two main clusters, accessions were grouped further into subclusters.For instance, the cluster ClI contained four subclusters (la, Ib,Ic and Id).Wild species accessions were grouped into a small subclusters Cl la, four breeding lines with two landraces were grouped in Cl Ib,and ICP 7O35 was placed in subcluster Cl Ic,while the landraces ICPL 14209 and ICPL 7426 were grouped together in a subcluster Cl Id.Furthermore,the cluster Cl Il contained two subclusters (lla and Iib).Landraces ICP 5529 and ICP 7263 were grouped in Cl Ila, while the remaining 4 breeding lines and one landrace were grouped in Cl IIb.To assess divergence among 8 parental accessions of MAGlC population and 11 parental accessions of NAM population,separate dendrograms were also constructed (Figure S5).Pairwise genetic distances between wild species accessions were greater than those between any pairs of the domestic accessions， that isbreeding lines and landraces. Diversity between any pair of the wild species accession with domestic pigeonpea accession is greater than those among all possible domestic pigeonpea accessions pairs (Table S15). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fcc118af282534af45af73e4b40b428dbd959228497d45ad126ddccf8bcdaed9.jpg",
+        "img_caption": [
+            "Figure 2 Phylogenetic relationships in 20 Cajanus spp.accessions:wild species accessions (square shape in red color), landraces (triangle shape in blue color) and breeding lines (diamond shape in green color). "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Accession-specific variations ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A total of 2 630 904 accession-specific variations (SNPs and InDels) were found in all Cajanus spp.accessions.These accession-specificvariations include2 278 571 $( 8 6 . 6 \\% )$ SNPs, 166 243 $( 6 . 3 \\% )$ ）deletions and 186 090 $( 7 . 1 \\% )$ insertions (Table 3). The proportion of accession-specific variants ranged from $0 . 2 \\%$ to $6 5 . 6 \\%$ of the total variants.The accession ICPW12 had the highest number of accession-specific variants 2 537 481 $6 5 . 6 \\%$ of the total variants).However,on the other side, ICPL 85010 had the lowest number of accession-specific variants 791 $( 0 . 2 \\%$ of the total variants).Among the accession-specific variants，wild species accession-specific $( 9 7 . 7 \\% )$ were more abundant than landrace-specific $( 1 . 4 \\% )$ and breeding linespecific $( 0 . 9 \\% )$ variants (Figure 3). The frequency of accessionspecific variants located in exonic regions were ranged from $2 . 9 \\%$ in ICPB 2049 to $5 . 6 \\%$ in ICP 14486 (Table S16).However， the total number of accession-specific variants (SNPs and InDels) located in exonic region ranged from 24 (ICPB 2049) to 120 336 variants (ICPW 12). Gene ontology annotation was used to assess possible gene functions targeted by accession-specific variants for all 20 accessions,and details have been provided in Table S17.In addition to these accession-specific small variations,some accession-specific large variations in the form CNVs (2258)and PAVs (288) were also identified (Table 3). ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/5781e871fe3d2ebf0a6fb3f0ce5256693520328408ab2713f7279855ff5c84a2.jpg",
+        "table_caption": [
+            "Table 3 Accession-specific small variations (SNPs,deletions and insertions) and large variations (CNVsand PAVs with $\\geq 1 \\ { \\mathsf { k b } } )$ present in Cajanus spp.accessions "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Genotype</td><td>SNPs</td><td>Deletions</td><td>Insertions</td><td>CNVs</td><td>PAVs</td></tr><tr><td>HPL 24</td><td>22 864</td><td>1685</td><td>2101</td><td>0</td><td>35</td></tr><tr><td>ICPB2049</td><td>647</td><td>86</td><td>102</td><td>4</td><td>9</td></tr><tr><td>ICPL20097</td><td>636</td><td>81</td><td>99</td><td>3</td><td>8</td></tr><tr><td>ICPL 85010</td><td>601</td><td>94</td><td>96</td><td>13</td><td>21</td></tr><tr><td>ICPL 85063</td><td>1672</td><td>233</td><td>261</td><td>0</td><td>3</td></tr><tr><td>ICPL 87</td><td>1312</td><td>174</td><td>209</td><td>5</td><td>18</td></tr><tr><td>ICPL 88039</td><td>1083</td><td>121</td><td>194</td><td>201</td><td>8</td></tr><tr><td>ICPL 99050</td><td>1074</td><td>128</td><td>170</td><td>7</td><td>11</td></tr><tr><td>MN1</td><td>829</td><td>114</td><td>150</td><td>2</td><td>7</td></tr><tr><td>ICP 11605</td><td>1378</td><td>189</td><td>201</td><td>12</td><td>18</td></tr><tr><td>ICP 14209</td><td>3840</td><td>414</td><td>544</td><td>19</td><td>7</td></tr><tr><td>ICP 14486</td><td>912</td><td>138</td><td>138</td><td>1</td><td>26</td></tr><tr><td>ICP28</td><td>2672</td><td>360</td><td>356</td><td>13</td><td>1</td></tr><tr><td>ICP 5529</td><td>1647</td><td>229</td><td>242</td><td>0</td><td>20</td></tr><tr><td>ICP 7035</td><td>3526</td><td>420</td><td>457</td><td>4</td><td>13</td></tr><tr><td>ICP 7263</td><td>3061</td><td>359</td><td>450</td><td>1</td><td>7</td></tr><tr><td>ICP 7426</td><td>1108</td><td>124</td><td>211</td><td>28</td><td>9</td></tr><tr><td>ICP 8863</td><td>1342</td><td>194</td><td>255</td><td>0</td><td>12</td></tr><tr><td>ICPW 12</td><td>2 202 592</td><td>158 075</td><td>176 814</td><td>1943</td><td>23</td></tr><tr><td>ICPW29</td><td>25 775</td><td>3025</td><td>3040</td><td>2</td><td>32</td></tr><tr><td>Total</td><td>2 278 571</td><td>166 243</td><td>186090</td><td>2258</td><td>288</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Pigeonpea productivity just has not suffered from biotic,abiotic stresses,low polymorphism in cultivated gene pool,but also from less genomicsand genetic resources in the past (Pazhamala et al., 2015;Varshney et al.，201O).However，in recent years，NGS technologies were successfully deployed in pigeonpea,and ample genomic resources have been developed such as draft genome assembly (Varshney et al.，2012)and transcriptome assemblies (Dubey etal.，2011； Kudapa et al.，2012).Above-mentioned advances in pigeonpea genomics have provided opportunities to assess genome-wide variations using WGRS approach.WGRS in the present study identified more than 4.5 million SNPs,779 254 InDels alongwith 2598 CNVs and 970 PAVs distributed throughout the Cajanus genome.Prior to this study，only few thousands of SNPs were reported by aligning transcriptome reads from 12 pigeonpea genotypes onto the pigeonpea reference genome (Dubey et al.，2011；Varshney et al.，2012).WGRS efforts have been undertaken to extend the repertoire of polymorphisms in a number of crop species such as rice (Huang et al.，2012；Xu et al.，2012)，maize (Hufford et al.，2012), sorghum (Mace et al.，2013),chickpea (Varshney et al.，2013), Medicago (Stanton-Geddes et al.，2013)，soybean (Lam et al., 2010; Zhou et al.,2015),tomato (Lin et al.,2014),etc. Notably in Medicago,more than 6 million SNPs were identified through re-sequencing of 236diverse accessions at\\~8X coverage (Stanton-Geddes et al.,2013).In continuation of this work,384 inbred lines are being re-sequenced under Medicago HapMap project using Illumina NGS technology to discover the SNPs, InDels and CNVs at $5 \\times$ to $2 0 \\times$ coverage (http://www.medicagohapmap.org).In the case of chickpea,a total of 82 489 genomewide SNPs (including 38 511 and 43 978 from desiand kabuli genomes,respectively) were identified from 93 Cicer accessions through integrated reference genome- and de novo-based GBS assays (Bajaj et al.,2015).To assess genome-wide variations and their faster deployment in breeding programs,it is highly essential to select high priority accessions.In this study,a set of 20 Cajanus spp.accessions has been selected which are of high priority in pigeonpea breedingprogram.Similarly，three male-sterileand three restorer lines in rice (Subbaiyan etal.,2o12),two parents of a bi-parental population in soybean (Li et al.，2014) and eight parents of MAGlC population in tomato (Causse et al.，2013) were subjected to WGRS. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef6cf073b33bd4efd4f9242dd1d007823d20da43260908708975c7cc8a9e0f6e.jpg",
+        "img_caption": [
+            "FigureDr specific $S N P s$ ,insertions and deletions identified in total unique variations represented as $8 6 . 6 \\%$ accession-specific SNPs (green color), $6 . 3 \\%$ accessionspecific deletions (red color), $7 . 1 \\%$ acession-specific insertions (blue color), (b)percentage of accession-specific variations identified within three groups represented as $9 7 . 7 \\%$ in wild species accessions group (red color), $0 . 9 \\%$ in landraces group (blue color) and $1 . 4 \\%$ in breeding lines group (green color),(c) percentagofesspiesdialitepredeoisp represented two accessions,landraces and breeding lines groups represented nine accessions in each). "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Sequencing data from 20 Cajanus spp.accessions were mapped onto the reference genome.The average mapping rate in Cajanus spp.accessions was $9 2 . 4 \\%$ ，which is comparable to other resequencing efforts in different crop species (Causse et al.,2013; Mace et al.，2013).Mapping $\\%$ of the sequence reads in wild speciesaccessions $( 7 9 \\% )$ was low as compared to cultivated species accessions $( 9 3 \\% )$ .The mapping $\\%$ of sequence reads generated from wild species accessions onto the cultivated reference genomes has also been found to be low in rice $( 8 1 \\%$ ： Xu et al.，2012),sorghum $89 \\%$ ：Mace etal.，2013),etc.This seems to be a factor of complex genome present in wild species as compared to cultivated speciesaccessions.However,total genome coverage in wild Cajanus spp.accessions $( 8 2 \\% )$ was comparable to cultivated species accessions $( 8 9 \\% )$ .Around $7 . 6 \\%$ of the total reads generated in Cajanus spp.accessions could not be mapped onto the reference genome.This rate is lower than unmapped readsinrice $( 9 . 5 \\%$ ，Arai-Kichiseetal.，2011； $10 \\%$ ，Xuet al., 2012; $1 5 \\%$ ，Subbaiyan etal.，2012）and comparatively higher than $5 \\%$ of unmapped reads in tomato (Causse et al.,2013). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Toassess genomic diversity in Cajanus spp.,different marker systems have been developed such as random amplified polymorphic DNA,amplified fragment length polymorphism，DArT, ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "SFP,SSRs, genic SSR and SNPs (Pazhamala et al.,2015).Abovementioned markers could not exceed more than few thousands in numbers.Moreover， less genetic diversity present in cultivated pool further hampered their use in assessing genome-wide diversity,linkagemappingand traitassociationanalysisat higher confidence.However,a few thousand SNPs have been used for the development of genetic map and quantitative trait locus analysis (Kumawat etal.,2012; Saxena etal.,2012) as well as for genetic diversity analysis (Kassa et al.,2012;Saxena et al.,2014) in Cajanus species. The present study was sought to develop millions of markers so that high-resolution trait mapping can be undertaken.WGRS of Cajanus spp.accessions have provided ${ \\sim } 4 . 6$ million SNPs. However, the number of SNPs in landraces and breeding lines were comparatively lesser than wild species accessions. Previous marker-based genotyping on Cajanus spp. accessions also suggested the lower diversity in cultivated pool as compared to wild species (Kassa et al.，2012; Saxena et al., 2014)．As a next step to perform high-density genotyping of mapping populations，one high-density SNP array has been planned to develop with the most informative SNPs (high PIC value and uniform distribution in genome) identified in this study. High-density SNP arrays have been developed and found suitable for genotyping in rice (McNally et al.,2oo9),maize (Ganal et al., 2011),soybean (Song et al.,2013),etc. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Another class of small variations,that is InDels (O.7 million) were detected in Cajanus spp.accessions.The number of InDels Was decreased as the length of InDel increased. InDels with 1 bp length variation were found maximum $( 5 2 \\% )$ followed by 2-4 bp $( 3 3 \\% )$ ，5-9bp $( 1 0 \\% )$ and remaining 10-48 bp length $( 5 \\% )$ Similar frequency $( > 5 0 \\% )$ of mononucleotide InDels have been reported in rice (Arai-Kichise et al.,2011; Subbaiyan et al.,2012) and sorghum (Mace et al.,2013). InDelswith length $\\geq 5$ bp could easily show length polymorphism similar to microsatelite markers onagarose gel (Arai-Kichise et al.,2011) and can be converted as breeder-friendly InDel markers (Tao et al.，2014). Informative InDels of any length from 1 to 48 bp can be used for InDel array development (Salathia etal.,2oo7) or can integrate them (InDels) into SNP array to increase their power in genotyping of several mapping populations (Unterseer et al.,2014). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the present study,we have identified 5.5 million genomewidevariations across parental accessions representingelite breeding lines,landraces and wild species accessions,which are fractionally higher from 1.1，4.3 and 5.1 million variations identified in parental lines in soybean (Li et al.，2014),tomato (Causse et al.,2013)and rice (Subbaiyan et al.，2012),respectively.Annotation of identified variations in 20 accessions showed $< 5 \\%$ variations in coding regions.This proportion is similar to the ratio of $4 . 5 \\%$ of SNP and $1 . 5 \\%$ of InDel identified in sorghum (Mace et al.，2013).Among coding regions, the proportion of nonsynonymous SNPs is higher than that of synonymous SNPs. The ratio of nonsynonymous to synonymous substitutions in Cajanus spp.accessions was found within the range of earlier reports in other crop species viz.soybean:1.37(1.36 in wild and 1.38 in cultivated;Lam et al.,201O), tomato:1.41(1.34 and 1.48 incherry tomato and cultivated tomato lines, Causse et al.,2013) and rice:1.29 (Xu et al.，2012).Additionally，CNVs and PAVs have been identified in Cajanus spp.accessions. Interestingly, results suggested that the frequency of gene lost events is higher in accessions which are under cultivation (landraces and breeding lines)as compared to the wild species accession. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Conclusion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Variants discovered from re-sequencing of 20 Cajanus spp. accessions offer information on sampled loci across the pigeonpea genome harboring high diversity and unique accession signatures. These polymorphic sites will be useful for developing high-density SNParrays， genotyping of several mapping populations to construct genetic maps and identify the genomic regions responsible for agronomic important traits. Unique accession signatures will be useful in varietal identification or assessment of adoption of varieties in different geographies.This study also re-emphasized that the cultivated pigeonpea genepool has a narrow genetic base and new populations such as IL,MAGlC,NAM,etc.must be used to re-introduce adaptive diversity lost through domestication and human selection in breeding.To use new genetic combinations, it is highly recommended to have high-density genotyping to track thesuperior haplotypes and avoid linkage drag inbreeding programs aimed for pigeonpea improvement. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Experimental procedures ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Plantmaterials ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A set of 20 Cajanus spp.accessions including two wild species accessions,nine breeding lines and nine landraces were used in this study.These accessions are crossing parents of six mapping populations,including four bi-parental and two multiparent mapping populations.Among these，ICPW 12 (C.acutifolius) and ICPW 29(C.cajanifolius) are wild Cajanus spp.accessions and used for the development of two AB populations, namely IL-1 and IL-2，respectively.Accession ICPL 87119 from C.cajan was used as a common crossing parent in both the above-mentioned ILs.ICPL 87119 is a leading variety which released as‘Asha' in 1992 in India; subsequently,it was used in developing pigeonpea draft genome (Varshney et al.，2012). Four accessions (ICPB 2049,ICPL 99050,ICPL 20097 and ICP 8863)were parents of twopigeonpea recombinant inbred lines:PRlL_A(ICPB $2 0 4 9 \\times 1 mathsf { C P L }$ 99050)and PRIL_C(ICPL $2 0 0 9 7 \\times 1 mathsf { C P 8 8 6 3 }$ .Eight accessions (ICP5529,HPL24,ICP7035,ICP 8863,ICP14486,ICP 11605,ICP 7426 and ICP 14209) representing breeding lines and landraces are being used in developing MAGlC population.10 aCceSsiOns(HPL 24，ICPL 85010，ICPL 85063，ICPL 87，ICPL 88039，MN 1,ICP 28,ICP 7035,ICP 7263 and ICP 8863）as founder parents and ICPL 87119 as a nested parent are being used in developing NAM population.Details on each accession have beenprovided in Table S1. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Library preparation and sequencing ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Genomic DNA was extracted from young leaves of individual plants of each accession, using a NucleoSpin Plant Il kit (Macherey-Nagel, Düren,Germany). DNA quality was checked on $0 . 8 \\%$ agarose gel and DNA quantity assessed on Qubit? 2.0 Fluorometer using the dsDNA BR Assay kit (Life Technologies,Thermo Fisher Scientific Corporation,Waltham,MA). Indexed DNA libraries were prepared following Ilumina paired-end DNA sample prep protocol (Part # 15026486 Rev.C, July 2012)with minor modifications. Initially, $2 ~ \\mu \\ g$ of genomic DNA from each sample was sonicated by Bioruptor? NGS (Diogenode,Liege, Belgium) to get a target insert size of 40o-5oo bp.After end-repairing and indexed adapter ligation,size selection of 6oo bp DNA fragments was performed on E-Gel? SizeSelect TM $2 \\%$ agarose precast gels (Invitrogen, Life Technologies,Thermo Fisher Scientific Corporation，Waltham, MA).To enrich DNA fragments having adapters on both ends, PCRs were performed using Ilumina adapter compatible PCR primers. The size distribution of amplified DNA libraries was checked on Agilent 21oo Bioanalyzer (Agilent Technologies，Palo Alto，CA). DNA libraries were sequenced on the MiSeq platform (llumina Inc., San Diego,CA)with MiSeq reagent kit v2 (300- or 500-cycles) to generate 150 or 250 bp paired-end reads. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Sequencealignment and variant identification ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To reduce sequencing errors,paired-end sequencing reads were trimmed and filtered with sickle version 1.2oo (https://github. com/najoshi/sickle).Initially，duplicatereadswereremoved, further low-quality reads (having phred score ${ < } 3 0$ )andsequences shorter than 1oo nucleotides,or containing‘N',were removed using in-house QC pipeline NGS-QCbox (Katta et al.，2015). After cleaning steps,filtered reads were mapped onto the reference genome with BowTiE2 v2.2.4 (Langmead and Salzberg, 2012)using default options.Reads mapped on more than one position or not mapped were filtered to define uniquely mapped reads and unmapped reads. Reads having unique alignment onto the reference genome were retained in the BAM files. BAM files Were further processed for variant (SNP and InDel) calling using Genome Analysis Toolkit suite with a minimum depth coverage of five reads per individual accession (McKenna et al.，2010). Using an in-house perl script，the distribution of identified variants was analysed along the entire genome using a contiguous window of $1 0 0 ~ \\mathsf { k b }$ ：Additionally，identified SNPs were classified into homozygous and heterozygous (reads aligned at a position contained reference as well as alternate bases) SNPs, on the basis of mismatch frequencies.InDels were identified within the size range of 1-48 bp.Accession-specific variants (SNPs and InDels)were reported only if the variant call was present in a particular accession and reference allele was present inremaining accessions.For identification of CNVs，CNVnator tool was used with an e-value of 1e-05 (Abyzov et al.，2011). Raw reads from Asha (ICPL 87119) genotype were aligned to draft assembly (Asha) for detecting the false positives in CNVs. Identified CNVs present in genes with length $\\geq 1 \\ { \\mathsf { k b } }$ were then reported.The frequencies of variants (SNPs and InDels) and CNVs were then projected using Circos (Krzywinski et al.,2oo9) across the categorized genotypes. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Variant annotation and diversity analysis ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ldentified SNPs and InDels based on their genomic locations were annotated asintergenic，intronic and exonic using SnpEff (Cingolani et al.，2o12). The variants were further categorized into synonymous,nonsynonymous,start codon loss,stop codon gain,frame shifts,etc.The effects of variants were classified on the basis of their impacts as high,moderate,low and modifier Generic feature format files having information on positions of variants were constructed by aligning the sequences against the reference genome.Accession-specific variants (SNPs and InDels) present in exonic region for each accession were functionally annotated using UniProtKB database，and GO terms were assigned accordingly (Huntley et al.，2014). Further, the impacts ofaccession-specific variants in various biological pathways were examined using The Biological Networks Gene Ontology tool (Maere et al.,2005). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The phylogenetic tree was constructed using DNAML programs in the PHYLIP package and 1ooO bootstraps with other default parameters of SNPhylo program (Lee et al.,2014).The software MEGA4 was used for visualizing the phylogenetic tree (Tamura et al., 2007). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The authors are thankful to the United States Agency for International Development (USAID) (Grant ID:RFA/RFP #BFSG-11-0ooo2)， Biotechnology Industry Partnership Programme (BIPP)and Department of Biotechnology of Government of India for funding various projects related to pigeonpea genomics and molecular breeding projects at ICRISAT that has made this study possible.This work has been undertaken as part of the CGIAR Research Program on Grain Legumes. ICRISAT is a member of the CGIAR Consortium. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abyzov,A.,Urban,A.E.，Snyder,M.and Gerstein,M.(2011) CNVnator:an approach to discover,genotype,and characterize typical and atypical CNVs from family and population genome sequencing. Genome Res.21, 974-984.   \nArai-Kichise,Y.,Shiwa,Y.,Nagasaki,H.,Ebana,K.,Yoshikawa,H.,Yano,M. and Wakasa,K. (2011) Discovery of genome-wide DNA polymorphisms in a landrace cultivar of japonica rice by whole-genome sequencing.Plant Cell Physiol.52,274-282.   \nArai-Kichise，Y.，Shiwa，Y.，Ebana，K.，Shibata-Hatta，M.，Yoshikawa，H., Yano，M.and Wakasa，K. (2014)Genome-wide DNA polymorphisms in seven rice cultivars of temperate and tropical japonica groups.PLoS ONE, 9,e86312.   \nBajaj,D.,Das,S.，Badoni,S.,Kumar,V.,Singh,M.,Bansal,K.C.,Tyagi,A.K. et al. (2015) Genome-wide high-throughput SNP discovery and genotyping for understanding natural (functional) allelic diversity and domestication patterns in wild chickpea.Sci. Rep.5,12468;doi:10.1038/srep12468.   \nBevan,M.W.and Uauy,C.(2013) Genomics reveals new landscapes for crop improvement. Genome Biol.14,206.   \nBohra,A., Saxena,R.K., Saxena,K.B., Sameerkumar, C.V.and Varshney, R.K. (2014) Advances in pigeonpea genomics.In Legumes in the Omic Era (Gupta, S.,Nadarajan,N.,Gupta,D.S.,eds.),pp.95-110.New York:Springer.   \nCausse,M.,Desplat, N., Pascual,L., Le Paslier, M.C., Sauvage,C., Bauchet, G., Berard，A.et al. (2013)Whole genome resequencing in tomato reveals variation associated with introgression and breeding events.BMC Genom. 14, 791.   \nChen,H., Xie,W.,He,H.,Yu,H., Chen,W., Li,J.,Yu,R.et al. (2014)A highdensity SNP genotyping array for rice biology and molecular breeding.Mol. Plant,7, 541-553.   \nCingolani,P.,Platts,A.,Coon,M.,Nguyen,T.,Wang,L.,Land,S.J.,u,.etal. (2012)A program for annotating and predicting the efects of single nucleotide polymorphisms，SnpEff:SNPs in the genome of Drosophila melanogaster strain w1118; iso-2; iso-3.Fly,6,80-92.   \nDubey,A.,Farmer,A.,Schlueter,J., Cannon,S.B.,Abernathy,B.,Tuteja，R., Woodward,J.et al. (2011) Defining the transcriptome assembly and its use for genome dynamics and transcriptome profiling studies in pigeonpea (Cajanus cajan L.).DNA Res.18,153-164.   \nDutta，S.，Kumawat，G.， Singh，B.P.，Gupta，D.K.，Singh，S.，Dogra，V., Gaikwad，K.et al. (2011） Development of genic-SSR markers bydeep transcriptome sequencing in pigeonpea [Cajanus cajan (L.） Milspaugh]. BMC Plant Biol. 11, 17.   \nGanal,M.W.，Durstewitz,G.,Polley,A.,Bérard,A.，Buckler,E.S., Charcosset, A.,Clarke,J.D.et al. (2011)A large maize (Zea mays L.) SNP genotyping array: development and germplasm genotyping，and genetic mapping to compare with the B73 reference genome. PLoS ONE,6,e28334.   \nHuang,X., Kurata,N.,Wei,X.,Wang, Z.-X.,Wang,A., Zhao,Q., Zhao,Y.et al. (2012)A map of rice genome variation reveals the origin of cultivated rice. Nature,490,497-501.   \nHufford,M.B.,Xu,X,Heerwaarden,J.V,Pyhjarvi,T.,Cia,J.-.,Cartwright, R.A. Elshire,R.J.et al. (2012) Comparative population genomics of maize domestication and improvement. Nat. Genet. 44, 808-811.   \nHuntley，R.P.，Sawford，T.，Martin，M.J.and O'Donovan，C.(2014) Understanding how and why the Gene Ontology and its annotations evolve: the GO within UniProt. GigaScience,3,4.   \nKassa,M.T.，Penmetsa，R.V.，Carrasquila-Garcia,N.，Sarma,B.K.,Datta，S., Upadhyaya，H.D.，Varshney，R.K.et al.(2012） Genetic patternsof domestication in pigeonpea (Cajanus cajan (L.）Milsp.） and wild Cajanus relatives.PLoS ONE,7,e39563.   \nKatta,M.A.V.S.K,Khan,A.W.，Doddamani,D.Tudi,M.andVarsheyR.K. (2015) NGS-QCbox and Raspberry for parallel,automated and rapid quality control analysis of large-scale next generation sequencing (llumina) data PLoS ONE,10, e0139868.   \nKrzywinski,M.，Schein,J.，Birol,I.，Connors,J.，Gascoyne,R.，Horsman,D.. Jones，S.J.et al. (2oo9) Circos:an information aesthetic for comparative genomics. Genome Res.19,1639-1645.   \nKudapa，H.，Bharti，A.K.，Cannon，S.B.，Farmer，A.D.，Mulaosmanovic，B., Kramer,R., Bohra,A.et al. (2012)A comprehensive transcriptome assembly of pigeonpea (Cajanus cajan L.）using Sanger and second-generation sequencing platforms.Mol. Plant,5,1020-1028.   \nKumawat,G., Raje, R.S., Bhutani, S.,Pal,J.K.,Mithra,A.S.V.C.R.,Gaikwad, K., Sharma,T.R.et al. (2012) Molecular mapping of QTLs for plant type and earliness traits in pigeonpea (Cajanus cajan L.Milsp.).BMC Genet.13,84.   \nLam,H.-M.,Xu,X., Liu,X., Chen,W., Yang,G.,Wong,F.-L.,Li,M.-W.et al. (2010) Resequencing of 31 wild and cultivated soybean genomes identifies patterns of genetic diversity and selection. Nat. Genet.42,1053-1059.   \nLangmead, B.and Salzberg,S.(2o12) Fast gapped-read alignment with Bowtie 2. Nat.Methods,9,357-359.   \nLee,T.-H.,Guo,H.,Wang,X., Kim,C.and Paterson,A.H.(2014) SNPhylo: a pipeline to construct a phylogenetic tree from huge SNP data. BMC Genom. 15, 162.   \nLi,Y.H.,Liu,Y.L.,Reif,J.C.,Liu,Z.X.,Liu,B.,Mette,M.F.,Chang,R.Z.etal. (2014）Biparental resequencing coupled with SNP genotyping ofa segregating population offers insights into the landscape of recombination and fixed genomic regions in elite soybean.G3 (Bethesda),4,553-560.   \nLin,T.,Zhu,G.,Zhang,J.,Xu,X.,Yu,Q.,Zheng,.,Zhang,Z.et al. (2014) Genomic analyses provide insights into the history of tomato breeding. Nat. Genet. 46,1220-1226.   \nMace,E.S.,Tai,S., Gilding,E.K.,Li,Y.,Prentis,P.J., Bian,L.and Wang,J.(2013) Whole-genome sequencing reveals untapped genetic potential in Africa's indigenous cereal crop sorghum.Nat. Commun.4,2320.   \nMaere,S.，Heymans,K.and Kuiper, M.(2005) BiNGO:a Cytoscape plugin to assess overrepresentation of gene ontology categories in biological networks. Bioinformatics,21,3448-3449.   \nMcKenna,A.,Hanna,M.,Banks,E.,Sivachenko,A.,Cibulskis,K.,Kernytsky，A., Garimella，K.et al. (2010) The Genome Analysis Toolkit:a MapReduce framework for analyzing next-generation DNA sequencing data.Genome Res.20,1297-1303.   \nMcNally，K.L.，Childs,K.L.，Bohert,R.，Davidson，R.M.，Zhao，K.，Ulat，B.J, Zeller，G.et al. (2o09) Genome-wide SNP variation reveals relationships among landraces and modern varieties of rice.Proc.Natl Acad.Sci. USA,106, 12273-12278.   \nMichael，T.P.and Jackson,S.(2013) The first 5O plant genomes.The Plant Genome,6, 1-7.   \nPazhamala,L., Saxena,R.K., Singh, V.K., Sameerkumar, C.V., Kumar, V.,Sinha, P.，Patel，K.et al.(2015) Genomics-asisted breeding for boosting crop improvement in pigeonpea (Cajanus cajan).Front. Plant Sci.6,50.   \nSalathia,N.,Lee,H.N., Sangster,T.A.,Morneau,K., Landry, C.R., Schellenberg, K.，Behere，A.S.et al.(2oo7) Indel arrays:an affordable alternative for genotyping.Plant J.51,727-737.   \nSaxena,R.K., Saxena,K.B.,Kumar,R.V.,Hoisington,D.A.and Varshney,R.K. (2010)Simple sequence repeat-based diversity in elite pigeonpea genotypes for developing mapping populations to map resistance to Fusarium wilt and sterility mosaic disease.Plant Breed.129,135-141.   \nSaxena, R.K.,Penmetsa, R.V., Upadhyaya, H.D., Kumar,A., Carrasquilla-Garcia, N.,Schlueter,J.A.,Farmer,A.etal.(2012)Large-scaledevelopmentofcosteffective single-nucleotide polymorphism marker assays for genetic mapping in pigeonpea and comparative mapping in legumes. DNA Res.19,449-461.   \nSaxena,R.K.,von Wetberg,E.,Upadhyaya,H.D.,Sanchez,V.,Songok,S,Saxena, K.B.,Kimurto,P.et al.(2014) Genetic diversity and demographic history of Cajanus spp.illustrated from genome-wide SNPs.PLoS ONE,9,e88568.   \nSingh,N.K.,Gupta,D.K., Jayaswal,P.K.,Mahato,A.K.,Dutta,S., Singh，,S.. Bhutani, S.et al. (2011)The first draft of the pigeonpea genome sequence.J. Plant Biochem. Biotechnol.21,98-112.   \nSong，Q.,Hyten，D.L.，Jia,G.，Quigley，C.V.,Fickus,E.W., Nelson,R.L.and Cregan,P.B.(2013) Development and evaluation of SoySNP50K,a highdensity genotyping array for soybean. PLoS ONE,8,e54985.   \nStanton-Geddes,J.，Paape,T.,Epstein,B.，Briskine，R.，Yoder,J.，Mudge,J, Bharti，A.K.et al. (2013) Candidate genes and genetic architecture of symbiotic and agronomic traits revealed by whole-genome,sequence-based association genetics in Medicago truncatula. PLoS ONE,8,e65688.   \nSubbaiyan,G.K.,Waters,D.L.E.,Katiyar,S.K.,Sadananda,A.R.,Vaddadi,.and Henry，R.J.(2012) Genome-wide DNA polymorphisms in elite indica rice inbreds discovered by whole-genome sequencing. Plant Biotechnol.J.10, 623-634.   \nTamura，K.，Dudley，J.，Nei，M.and Kumar，S.(2007) MEGA4:molecular evolutionary genetics analysis (MEGA) software version 4.0.Mol. Biol.Evol. 24, 1596-1599.   \nTao,C.H.E.N.， Zhang,Y.D.,Zhen,Z.H.U.,Ling,Z.H.A.O.,Zhaq,Q.Y.,Zhou, L.H.,Shu,Y.A.O.et al. (2014) Development of new indel marker to detect genotypes of Rf-1a conferring fertility restoration of BT-type cytoplasmic male sterility in rice.Rice Sci.21,13-19.   \nThudi,M.,Li,Y.,Jackson,S.A.,May,G.D.and Varshney,R.K. (2012) Current state-of-art of sequencing technologies for plant genomics research. Brief. Funct. Genomics,11,3-11.   \nUnterseer,S., Bauer,E.，Haberer,G.，Seidel，M.，Knaak,C.，Ouzunova,M.. Meitinger,T.et al. (2014)A powerful tool for genome analysis in maize: development and evaluation of the high density 6oOk SNP genotyping array. BMC Genom.15,823.   \nVales,M.I.,Srivastava,R.K.,Sultana,R.,Singh,S.,Singh,I., Singh,G.,Patil, S.B. et al.(2012） Breeding for earliness in pigeonpea:development of new determinate and nondeterminate lines. Crop Sci. 52, 2507-2516.   \nVarshney，R.K.，Nayak，S.N.，May，G.D．and Jackson，S.A.(2O09)Nextgeneration sequencing technologies and their implications for crop genetics and breeding. Trends Biotechnol.27,522-530.   \nVarshney,RK,emetsaR.V,Dutta,S.Kulwal,P.LSaxena,R.Kta Sharma，T.R.et al. (201O) Pigeonpea genomicsinitiative (PGl):an international effort to improve crop productivity of pigeonpea (Cajanus cajan L.).Mol. Breed.26,393-408.   \nVarshney，R.K.，Chen,W.,Li,Y.， Bharti，A.K.，Saxena,R.K.，Schlueter,J.A., Donoghue,M.T.et al. (2012) Draft genome sequence of pigeonpea (Cajanus cajan),an orphan legume crop of resource-poor farmers. Nat. Biotechnol.30, 83-89.   \nVarshney, R.K., Song, C., Saxena, R.K.,Azam,S., Yu,S., Sharpe,A.G., Cannon, S.et al. (2013) Draft genome sequence of chickpea (Cicer arietinum)provides a resource for trait improvement. Nat. Biotechnol.31.240-246. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Xu,X.,Liu,X.,Ge,S.,Jensen,J.D.,Hu,F.Y.,Li,X.,Dong,Y.et al.(2012) Resequencing 5O accessions of cultivated and wild rice yields markers for identifying agronomically important genes. Nat. Biotechnol.3,105-157. Zheng, L.-Y., Guo,X.-S., He,B., Sun, L.-J., Peng,Y., Dong, S.-S., Liu, T.-F.et al. (2011）Genome-wide patterns of genetic variation in sweet and grain sorghum (Sorghum bicolor). Genome Biol.12,R114. Zhou,Z., Jiang,Y.,Wang,Z.,Gou,Z.,Lyu,J.,Li,W.,Yu,Y.et al. (2015) Resequencing 3o2 wild and cultivated accessions identifies genes related to domestication and improvement in soybean. Nat. Biotechnol.33,408-414. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Supporting information ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Additional Supporting information may be found in the online version of this article: ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Figure S1 Classification of the sequencing reads generated through re-sequencing of 20 Cajanus spp.accessionsand mapped onto the reference genome.   \nFigure S2 Genome-wide distribution of InDels with varying length.   \nFigure S3 Distribution of insertions (blue color) and deletions (red color) identified in 20 Cajanus spp.accessions.   \nFigure S4 Distribution of homozygous (green color） and heterozygous (red color） SNPs identified between each of the 20 Cajanus spp.accessions and reference genome.   \nFigure S5 Phylogenetic relationships among: (a)8 MAGIC parental lines as landraces (triangles shape in blue color)and breeding lines (diamonds shape in green color) (b)10 NAM founder and 1 nested parental line represented by landraces (triangles shape in blue color),breeding lines (diamonds shape in green color) and nested parent (circle shape in chocolate color). Table S1 Details of Cajanus spp.accessions included in the present study.   \nTable S2 Distribution of genome-wide variations in different pseudomolecules.   \nTable S3 Heterozygosity of SNPs in Cajanus genome.   \nTable S4 Distribution of insertions and their effects in Cajanus spp.accessions.   \nTable S5 Distribution of deletions and their effects in Cajanus spp.accessions.   \nTable S6 Location of genes deleted in Cajanus spp.accessions. Table S7 Location of genes duplicated in Cajanus spp. accessions. Table S8 Summary of large deletions $( > 1 \\ k b )$ in Cajanus spp. accessions.   \nTable S9 Summary of large duplications $( > 1 \\ k b )$ in Cajanus spp. accessions.   \nTable S10 Distribution of homozygous SNPs and their effects. Table S11 Distribution of tandem and interspersed repeats in Cajanus spp.accessions.   \nTable S12 Pairwise SNPs (below diagonal) and InDels (above diagonal) among Cajanus spp.accessions.   \nTable S13 Pairwise SNPs and InDels between parental lines of biparental populations.   \nTable S14 Pairwise SNPs (below diagonal) and InDels (above diagonal) between MAGlC parental lines.   \nTable S15 Pairwise genetic distances among 20 selected Cajanus spp.accessions.   \nTable S16 Distribution of accession-specific variants and their effects.   \nTable S17 Accession-specific variants and their effects on coding sequences and Gene Ontology (GO). ",
+        "page_idx": 8
+    }
+]

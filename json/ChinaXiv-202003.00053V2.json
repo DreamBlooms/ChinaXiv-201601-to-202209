@@ -1,0 +1,384 @@
+[
+    {
+        "type": "text",
+        "text": "Research Article ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wasp Venom Possesses Potential Therapeutic Effect in Experimental Models of Rheumatoid Arthritis ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yuan Gao O,1 Wan-Xin Yu $\\textcircled{1}$ ,1 Xiao-Mei Duan@,1 Lian-Li Ni $\\textcircled{1}$ ,1 Heng Liu,1 Hai-Rong Zhao ,1,² Huai Xiao,1,² Cheng-Gui Zhang $\\textcircled{1}$ 1,2 and Zhi-Bin Yang1,2, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Yunnan Provincial Key Laboratory of Entomological Biopharmaceutical ReD,Dali University,Dali 671000,China   \n2Yunnan Provincial 20il Colaborative Innovation Center for Entomoceutics, Dali UniversityDali 67000,China   \n3The National-Local Joint Engineering Laboratory for Entomoceutics,Dali University,Dali 6710o, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Correspondenceshould be addressed to Cheng-Gui Zhang;chenggui_zcg@163.comand Zhi-BinYang; 79204431@163.com ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received 23 November 2019; Revised7February 2020; Accepted9 March 2020; Published 6 April 2020 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Academic Editor:LuigiMilella ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Copyright $\\circledcirc$ 2020 Yuan Gao et al.This is an open accessarticle distributed under the Creative Commons Attribution License, which permitsunrestricteduse,distribution,andreproduction inany medium,provided theoriginal work is properlycited ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Rheumatoidarthritis (RA)isanautoimmunedisease.Waspvenom(WV),which is consideredasatraditional folkmedicine in Jingpo nationalityin Yunnan,China,relieves rheumatoidarthritis.Thecurentstudyaimed toinvestigatetheefectof wasp venomameliorating rheumatoid arthritis symptoms in experimental rats.We establisheda modelof type IIcolagen-(CI-) induced arthritis (CIA)in SDratsand examinedthe inhibitionof inflammationandautoimmuneresponse.Theantiarthritic efectsofWVwereevaluatedthroughthepawsweling,andhistopathologicalscorandhistopathologychangesoftheaffected paw were assessed.The anti-inflammation effects were assayed by the level of IL-6,TNF- $\\alpha _ { : }$ IL $1 \\beta$ ,and the number of inflammatory cels inperipheralblood.TealterationoftheTcellsubsetratiointhesleenofrats wasdetectedbyfowcytometryandtte same time,the visceraindexand immune serum globulinlevels were evaluated.Theresults suggested that various doses of WV (0.125,0.25,and $0 . 5 \\mathrm { m g / k g ) }$ significantly alleviated paw sweling and arthritis score in CIA rats with the untreated control $( P < 0 . 0 5 )$ . WV (0.25 and $0 . 5 \\mathrm { m g / k g } ,$ ）relieved synovial tissue lesions of ankle joints and histopathology scores of synoviocyte hyperplasia and inflammatory cellinfiltration with vehicle group $( P < 0 . 0 5 )$ . Regarding immunological regulation, $0 . 5 \\mathrm { m g / k g } \\mathrm { W V }$ lowered the immune serum globulin levels $( P < 0 . 0 5 )$ ,and we further found that WV $( 0 . 5 \\mathrm { m g / k g ) }$ suppressed the immune response of Th cells,while enhancing the functions of Tc cells and Treg cells in spleen cels markedly $\\left( P < 0 . 0 5 \\right)$ .The immunosuppressive action of WVdisplayed was analogous to its inhibitory effect on IL- $1 \\beta$ ,TNF- $\\alpha$ ,IL-8,IL-6,COX-2,and PGE2 levels in rat serum. In conclusion,thesefindingsdemonstratedthatWVexhibitedantiarthriticactivity,whichmightbeasociatedwiththeiribitory effects on immunoregulation and anti-inflammatory action. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Rheumatoid arthritis (RA) is a chronic autoimmune disease that can progress to systemic complications,physical dis abilities,and even early death [1].Hyperplasia of the synovial cells,chronic inflammation of the synovium,and the destruction of cartilage and bone are the main characteristics of RA.Moreover, the synergistic effects of T cells,B cells,and proinflammatory cytokines also play key roles in the pathophysiological process [2]. When $\\mathrm { C D 4 } ^ { + }$ T cells are activated, they produce proinflammatory cytokines that enhance the immune response by stimulating other mononuclear cells,synovial fibroblasts,chondrocytes,and osteoclasts. The release of these proinflammatory cytokines, especially TNF- $\\alpha$ ，IL-6,and $\\mathrm { I L } \\mathrm { - } 1 \\beta _ { : }$ ，may contribute to synovitis [3]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Currently,clinical treatment drugs used to treat RA primarily focus on reducing inflammatory mediators,such as nonsteroidal anti-inflammatory drugs (NSAIDs),diseasemodifying antirheumatic drugs (DMARDs),and biological agents.For instance,folate analogue methotrexate (MTX),as an NSAID,was approved by the FDA for RA in 1988 [4]. In addition,it has become the most widely used in the treatment of RA due to its immunosuppressive activity,antiinflammatory effect,and low cost [5].However,MTX is not anideal therapeutic agent for its unwanted side effects on the neuronal, gastrointestinal,and immune system,and so are other drugs [6]. That is why a growing number of people are looking for new alternatives to address the inefficiency and safety of these drugs.In traditional Chinese medicine(TCM) theory,RA is deemed to one of arthralgia syndrome ( $^ { \\mathrm { { \\cdot } \\mathfrak { e } } } _ { \\mathrm { { B i } } }$ Zheng”in TCM)，possibly caused by exogenous wind, dampness,and heat or cold pathogens [7].The application of TCM in the prevention and treatment of diseases has a history of several centuries,increasing significance in RA treatmentattributed to its remarkable efficacybut fewer side effects and costs [8]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Venom therapy,as a complementary and alternative medicine approach,has been used for several centuries to treat pain,inflammation,and arthritis in folk medicine [9]. As early as the Warring States Period, the Inner Canon of the Yellow Emperor (\"Huangdi Neijing\"in Chinese) has a record of “bee sting is therapeutic despite the toxic risk incurred.”According to modern medical research, bee venom (BV) exhibits antiarthritic,anti-inflammatory,and analgesic effects attributable to the activation of the central inhibitory and modulation of the immune system through multiple mechanisms [1O].Several clinical trials also have shown that BV could improve arthritis-related symptoms [11]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Wasp venom contains a variety of biologically active constituents,including biogenic amines,high-molecular mass substances (such as enzymes,allergens,and bioactive peptides),and polyamine toxins.[12] Wasp venom exhibited various pharmacological effects in the treatment of pain, inflammatory disease,and neurodegenerative diseases [13]. Vespa magnifica (Smith) is a kind of social wasp,found in Yunnan, China [14].In recent years,many compounds with anticoagulation,antiplatelet,anti-inflammation,and immunosuppressant activities have been separated from their venom [15].Based on its remarkable effect on rheumatoid arthritis,it has become a habit to be widely used in Jingpo,a Chinese national minority [16].Nevertheless,as far as we know, there have been only few reports on antirheumatism actions of wasp venom. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the current work,the collagen-induced arthritis(CIA) model [17] was adopted to closely replicate the pathogenesis of RA. Changes in paw volume has classically been used for evaluating anti-inflammatory effects on RA as usual [18]. Moreover,we assessed the effect of WV (wasp venom of Vespa magnifica) in the same model.Finally,the effectiveness of WV on anti-inflammatory and immunomodulation were observed by H&E staining of joint tissue，flow cytometry of T-cell subsets in spleen,as well as ELISA of serum $\\mathrm { I L } { - } 1 \\beta$ IL-6,TNF- $\\alpha$ ，IL-8,COX-2,PGE2,and rheumatoid factors (IgG, IgA,and IgM). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Materials and Methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Experimental Animals. Male SD rats (60 rats, $1 8 0 { - } 2 2 0 \\mathrm { g } ,$ were obtained from Hunan Slake Jingda Laboratory Animal Co.,Ltd. The animals were housed in standard polypropylene cages lined with raw husk (renewed after $\\mathrm { 4 8 h } \\mathrm { \\check { , } }$ ！ Animal house was maintained on a $1 2 \\mathrm { h }$ light/dark cycle at approximately $2 2 \\pm 2 ^ { \\circ } \\mathrm { C }$ and relative humidity of $6 0 \\mathrm { - } 7 0 \\%$ 0 and the animals had free access to water and standard chow. The rats were randomly assigned to 8 controls and 52 models, and then a minimum period of $^ { 7 \\mathrm { d } }$ was allowed for adaptation on each experiment.All experimental procedures were conducted accordingto the Guide for the Care andUse ofLaboratory Animals (National Institutes of Health） and approved by the Ethical Committee of Dali University. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Animal Model of CIA and Treatment Protocol. Ratswere disinfected with alcohol and subcutaneously injected at the right vola pedis,back,and tail with $\\mathrm { 1 m g / m l }$ CCII(Chicken type II Collagen） emulsifier for the first immunization, which is made up of CCII(C9301, Sigma) emulsified 1 :1 with incomplete Freund's adjuvant (F5506,Sigma).Induction day was designed as day O. The booster dose was injected again at the abdomen,back,and tail together with $\\mathrm { 1 m l }$ CCII emulsifier on day 8.The injected foot was defined as the inflammatory foot,while the other foot without injectionwasnoted as the secondary foot. Then, the collagen induced arthritis(CIA） rats were treated on day 14 and ended on day 28.After the onset of CIA,model rats were randomly divided into five groups according to the clinical scores. Group I: model group which received a hypodermic injection $\\mathrm { ( 1 m l / k g ) }$ of normal saline as a vehicle.Groups I-IV:CIA rats received a hypodermic injection of 0.125, 0.25,and $0 . 5 \\mathrm { m g / k g }$ WV (wasp venom, from Vespa magnifica (Smith) in Yunnan,China, freeze-dried powdermade from exudate of wasps' tail glands [16],diluted with normal saline)，respectively,as the treatment groups.Group V: positive control group received TwHF (Tripterygium wilfordii Hook F,No.2018l00l,Huangshi Feiyun Pharmaceutical Co.， Ltd.）of $9 \\mathrm { m g / k g }$ in thesameway. Simultaneously,the same volume of normal saline alone was given to the normal rats in the control group.The rats above all had a daily administering for 14 days. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.Basic Evaluationof Experimental Arthritis. The severity of CIA was periodically evaluated based on paw swelling and arthritis scores.Rats were weighed on days O-28 of the study, and the thickness and perimeter of the ankles in the inflammatory foot (the right foot) and the secondary foot (the left foot） were measured separately by vernier caliper and tape at day O,14,and 28.The arthritis score was assessed based on independent observations of three scholars.Each paw was scored on a scale of O-4,meaning that the maximum total score for both hind paw joints was 8. The assessment criteria were as follows: $0 = { \\tt n o }$ edema or any visual changes; $1 =$ slight edema and limited erythema; $2 =$ light edema and erythema; $3 =$ obvious edema and significant erythema; and $4 =$ severe edema and extensive erythema [19]. On day 28,animals were sacrificed,and then the serum and the secondary ankle joints were collected and processed for further analysis. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4.Histopathology of Ankle Joints. The left hind limbs without culling neighboring tissues were immediately washed with PBS for2-3 times,fixed with $10 \\%$ formalin for $^ { 4 8 \\mathrm { h } , }$ and decalcified with $5 \\%$ nitric acid for $2 4 \\mathrm { h }$ until the bone cortex was easily ran through with a needle tip. The samples were embedded in paraffin sections and cut into slices $( 5 \\mu \\mathrm { m } )$ for routine hematoxylin-eosin (H&E) staining. Pathological changes of the joints were detected with a light microscope(Olympus,Japan） and photographed.Pictures were taken at magnifications of $2 0 0 \\mathrm { x } .$ ：Changes in synoviocyte hyperplasia and inflammatory cell infiltration were also detected. Histopathological changes were scored, respectively,using the following criteria: $0 = { \\tt n o }$ detectable changes; $1 =$ mild; $2 =$ moderate; $3 =$ severe [20]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5.Analysis of Viscera Index. Rats were sacrificed and complete liver,spleen，and thymus were resected with surrounding adipose tissue and fascia carefully separated. The wet mass of liver, spleen,and thymus was measured by electronic balance,and the viscera index (including liver index,spleen index,and thymus index) was calculated according to the following formula.Viscera index $\\ l =$ organ mass (mg)/body mass $( \\mathrm { g ) \\times 1 0 0 \\% }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.6.ELISAsof SerumBiochemical Indexes.The serum from experimental rats was collected,and the concentrations of TNF- $\\alpha$ IL- $^ { 1 \\beta }$ ,IL-6,IL-8, COX-2,and PGE2 were detected byenzyme-linked immunosorbent assay (ELISA） kits (Nanjing JianCheng,China） following the manufacturer's instructions.ELISAkits to detect the expression levels of IgA (ERC015)，IgG (ERC016),and IgM (ERC017） were purchased from NeoBioscience Co.,Ltd.,Shenzhen, China. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.7.Flow Cytometry ofArthritis Spleen. The number of T cell subsets was detected using flow cytometry. Lymphocytes were harvested from rat spleen cells,which were homogenized by passing through 2oo mesh nylon sieve.Cells were filtered into PBS buffer containing $1 0 \\%$ fetal bovine serum. The cell concentration was adjusted to about $2 \\times 1 0 ^ { 6 } / \\mathrm { m l } ,$ and $3 \\mathrm { m l }$ red bloodcell lysis buffer(Solarbio,China) was added to dissolve red blood cells for less than 5 min. Then,cells were centrifuged at $1 2 0 0 \\mathrm { r p m }$ for $5 \\mathrm { { m i n } }$ ，washed twice with FBS-PBS buffer which containing $1 0 \\%$ fetal bovine serum,and then centrifuged at $1 2 0 0 \\mathrm { r p m }$ for 5 min. Every $1 0 0 \\mu \\mathrm { L }$ cell suspension was placed in centrifuge tubes.Lymphocytes were followed by staining with anti-CD3-FITC(No. 557354;BD,USA),antiCD4-APC(No.565432；BD，USA)，anti-CD8-PerCP(No. 558824;BD，USA)，and anti-CD25-PE (No.554866;BD, USA). The monoclonal antibodies were added to each tube, remixedandlefton icefor30minutes.TheFBS-PBSbuffer $( 1 \\mathrm { m l } )$ was added to each sample tube and centrifuged at $1 2 0 0 \\mathrm { r p m }$ for $5 \\mathrm { { m i n } }$ ,and the supernatant was abandoned. The previous step was repeated twice so that the cells without binding to monoclonal antibodies were eluted out completely. The experimental cells were mixed with $5 0 0 \\mu \\mathrm { L }$ FBS-PBS buffer. The ratios of $\\mathrm { C D } 2 5 ^ { + } / \\mathrm { C D } 4 ^ { + }$ and $\\mathrm { C D 4 ^ { + } / C D 8 ^ { + } }$ T cells were determined using a FACS Canto Flow-cytometer (BD, USA)[21]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.8.Statistical Analyses. Data were statistically analyzed using SPSS10.0. Data were presented as mean $\\pm$ standard deviation of mean (S.D.M). The significance of the differences between each group was analyzed by one-way ANOVA followed bya Tukey test.In particular, the arthritis score and the histopathological score were analyzed by Wilcoxon rank sum test.Values of $P < 0 . 0 5$ were considered statistically significant. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3. Results ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.WV Relieved the Symptom of Arthritis in CIA Rats. The arthritic symptoms were successfully induced in rats by injecting type II collagen as instructed,which embodied in significant macroscopic signs of severe redness and swelling in the secondary paw and ankle joint of CIA rats in Figurel(a),if compared with the healthy control group. The ankle joint thickness and perimeter were apparently increased in vehicles on day l4 (Figure 1(b)) compared with those in controls; however, they were strikingly decreased after TwHF and all WV treated groups on day 28 in comparison with those of the model group (all $P < 0 . 0 5 \\$ )(Figure 1(b)).When we measured the thickness and perimeter of ankle joints in both the inflammatory foot and secondary foot, the obvious swelling subsidence was shown based on the data(Figure1(b)).The results of the swelling degree indicated that WV could control paw edema and relieve the secondary inflammation on the paw and ankle joint corresponding to the TwHF effect. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Furthermore,the arthritis score was decreased with varying degrees through the treatment of WV depending on the amount of dose as shown in Figure 1(c). The arthritis score of the vehicle group was $6 . 5 \\pm 1 . 0$ on day 14 (vs day 0, $P < 0 . 0 0 0 1 _ { \\cdot } ^ { \\cdot }$ ). The index was significantly decreased in the group treated with TwHF on day 28,showing $2 . 8 \\pm 0 . 8$ (vs day 14, $P < 0 . 0 0 0 1 { \\ : \\cdot }$ ).Similarly,the decrease of indexes by WV was significant and dose-dependent $\\left( 3 . 2 \\pm 0 . 6 \\right.$ at $0 . 5 \\mathrm { m g } /$ kg, $4 . 3 \\pm 0 . 7$ at $0 . 2 5 \\mathrm { m g / k g } ,$ and $5 . 6 \\pm 0 . 7$ at $0 . 1 2 5 \\mathrm { m g / k g ) }$ (severally vs 14 days, $P < 0 . 0 0 0 1 _ { \\cdot }$ ).Thisindicatedthatthe potency of WV at $0 . 5 \\mathrm { m g / k g }$ was commensurate to that of the group treated with TwHF. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.WVRelieved the Pathological ChangesofJoints in CIA Rats.H&E staining (Figure 2(a))showed that the synovial membrane of ankle joints from the control rats had a regular cellular arrangement, without any synoviocyte hyperplasia, inflammatory cell infltration,and a smooth cartilage surface.In comparison,the histological architecture of joints in the vehicle group rats was markedly abnormal with immune cell infiltration, synoviocyte hyperplasia, increased number of vessels,and erosion of cartilage and bone.The joints of the TwHF and WV groups were significantly attenuated from those of the vehicle group and moved toward to those of the control group. Histopathological scores(Figure 2(b)) indicted (vehicle group）the abnormal synovial lining cell and infiltration of inflammatory cell in arthritic joints; TwHF and WV treatments significantly lowered the mean histopathological score and restored the cartilage compared to the vehicle group $( P < 0 . 0 5 )$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/29f760c2a46224b54724c7efc57ded1048784fa08794913918e599d7316f9fc0.jpg",
+        "img_caption": [
+            "FIGURE 1:Continued. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/646b57c61a4f8d23f48267021f36ef9d210bb71ff297c9b7c31d9691e67cd2ff.jpg",
+        "img_caption": [
+            "FIGURE1:EfectofVonthartriticsymptomsofeachoup.()Swellngdegreefpawsiallgroups. (b)Tetickessandpereterf anklejointsbothintheinflammatoryfotandsecondaryfootamongallgroups.(c)Comparisonofarthritisscoreamongalgroups. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3ed319e722efe031963cc96179b1610c4bb27fd2a7c05859305e3c1097569120.jpg",
+        "img_caption": [
+            "FIGURE2:EffctsofWVonartritisprogressonandjointhistoloinCIArats.（a)HistopathologyofjointtissesectionsofCAats treated with diffrent doses of WV and TwHF and normal rats by H&E staining. Original magnification $\\times 2 0 0$ 、a,bone destruction; b, immunecelliati;oc.()satloosfseesdmal in all groups. $^ { * } P < 0 . 0 5$ ， $^ { * * } P < 0 . 0 1$ when compared with the control group; $^ { \\# } P < \\dot { 0 } . 0 5$ $^ { \\# \\# } P < 0 . 0 1$ when compared with the vehicle group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.Effects ofWV on Viscera Index and Immune Serum Globulin Levels in CIA Rats. Compared with the control group, the liver index of the vehicle group decreased significantly $( P < 0 . 0 5 )$ and WV (0.25 and $0 . 5 \\mathrm { m g / k g ) }$ increased markedly ( $( P < 0 . 0 1 )$ .Compared with the control group, the spleen index and thymus index of the vehicle group increased markedly $( P < 0 . 0 5 )$ ; TwHF and WV played an inhibitory effect on them that particularly reflected in the effect of $0 . 5 \\mathrm { m g / k g }$ dose of WV on thymus index (Figure 3(a)). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The expression IgG,IgA,and $\\mathrm { I g } \\mathrm { M }$ levels were improved dramatically in CIA rats $\\left( P < 0 . 0 1 \\right)$ compared with control, while they became lower after TwHF processing $( P < 0 . 0 1 )$ ： And the levels of serum IgG were decreased in the WV $( 0 . 5 \\mathrm { m g / k g ) }$ group compared with the vehiclegroup $\\langle P < 0 . 0 5 \\rangle$ . This inhibition was also applied to IgA and IgM in WV groups (0.25 and $0 . 5 \\mathrm { m g } / \\mathrm { k g } )$ (Figure $3 ( \\mathrm { b } ) _ { , } ^ { \\cdot }$ ） ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4.EffectsofWVonTCell SubsetsintheSpleenofCIARats. The numberof $\\mathrm { C D 4 } ^ { + }$ T cells significantly increased in the vehicle groups compared with the control group $( P < 0 . 0 1 )$ ， while those in TwHF and WV $( 0 . 5 \\mathrm { m g / k g ) }$ groups were significantly lower than the vehicle group (Figure 4(a)). Compared with the control group, the number of $\\mathrm { C D 4 ^ { + } C D } 2 5 ^ { + }$ T cells in the vehicle group was significantly declined $( P < 0 . 0 1 )$ ,while they were significantly increased in TwHF and WV $( 0 . 5 \\mathrm { m g / k g ) }$ groups $( P < 0 . 0 1 )$ but not obvious in the other groups (Figure 4(a)). Compared with the control group,the reduction in vehicle group of the number of $\\mathrm { C D 8 ^ { + } }$ T cells was remarkable, but only WV (O.125 and $0 . 2 5 \\mathrm { m g / k g } )$ made the numbers rise ( $P < 0 . 0 5$ ， $P < 0 . 0 1 \\$ ）in Figure 4(b). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.5.WVRegulated Serum Cytokines and Mediatorsin CIA Rats.ELISA kits (Figure 5） showed that,compared to the control group,the serum levels of IL- $1 \\beta$ ,TNF- $\\mathfrak { a } ,$ IL-6,PGE2, COX-2,and IL-8 were significantly increased in vehicle group and were markedly restored by TwHF $( 9 \\mathrm { m g / k g ) }$ and WV $( 0 . 5 \\mathrm { m g / k g ) }$ $( P < 0 . 0 1 )$ .Meanwhile, the expressions of IL-6 and PGE2 were suppressed by 0.125 and $0 . 2 5 \\mathrm { m g / k g }$ dosage of WV $( P < 0 . 0 1 )$ .WV (0.125 and $0 . 2 5 \\mathrm { m g / k g ) }$ similarly cut down the expression of COX-2 and IL-8 compared to the vehicle $( P < 0 . 0 5 , P < 0 . 0 1 )$ .This indicated that CCI-induced inflammation likely mediated the pathological changes seen in the arthritic rats,and WV could alleviate the inflammatory response. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4. Discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "RA is a chronic autoimmune disease characterized by pain, swelling,and gradual destruction of the joints,resulting in loss of function [22].cAlthough methotrexate (MTX) tablets are offen considered as a treatment medicine forrheumatoid arthritis [23],they are usually associated with adverse drug reactions (ADRs）[24].Hence,we sought to evaluate whether wasp venom （WV） could represent a potential alternative drug for RA. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The current study was the first, to our knowledge, to investigate the therapeutic role of WV (from Vespa magnifica）in collagen-induced arthritis(CIA）induced in SD rats and compared with the clinicallyproven effect of TwHF. Tripterygium wilfordii Hook F (TwHF),also known as Lei Gong Teng in TCM,has been used to treat RA for many years in China,and the extracts of TwHF have shown antiinflammatory and immunosuppressive activities both in vivo and in vitro studies [25].We established the model of CIA rats for 14 days and removed 12 apparent incompetence that might have been due to injection failure from 52 rats, that is, the CIA rats had a $7 7 \\%$ arthritis rate.The control group did not show signs of either edema or inflammation (Figures 1 and 5),and our findings are in agreement with previous studies of RA and CIA,which reported that CCII emulsifier induced the severity of edema and inflammatory damage in the joints [26,27].Then, the improved symptoms in the WV $( 0 . 5 \\mathrm { m g / k g ) }$ group were similar to those of the positive drug TwHF,which has been reported to inhibit the inflammatory response of RA[28],but the effect of low dose wasnot significant on swellingreduction and inhibition of IL- $1 \\beta$ and TNF- $\\alpha$ (Figures1 and 5).Moreover,we noticed that the rats in vehicle group had rougher fur and poorer mental state than those in control group; these conditions had turned all the better in the treatment group. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Tofurther evaluate the therapeutic efficacyofWV,H&E staining was performed in left hind ankle joints tissue samples to analyze the pathological feature,and we found that synovial cells cause inflammation,proliferation,and invasion of localized cartilage and bone in the vehicle group (Figure 2),and these macroscopic changes are consistent with previous reports [29]. Moreover，TwHF and WV treating for 14 days significantly reduced synovial cell hyperplasia and inflammatory cell infiltration compared to untreated (Figure 2). Chronic synovitis is the pathological basis of RA [3o]. The synovial inflammation is driven by a complex interaction between synoviocytes and infiltrating cells of the innate and adaptive immune systems [31]. Therefore,the visceral index of immune organs such as spleen and thymus was calculated in this experiment. It is worth mentioning that we did not find the significant difference in weight between the vehicle and treatment group; thus we used the representative viscera index to reflect the overall health of the rats.We found that TwHF and WV could decrease the rise in the visceral index of spleen and thymus in CIA rats (Figure 3(a)); this might reflect their role in alleviating the immune enhancement caused by RA.We also noticed the change in liver index during this process; ourresults showed that TwHF did not revive the liver index though its treatment was effective,which reminded us of its toxicity to the liver in previous report [32]. Fortunately, this was not found in the WV group (Figure 3(a)). With the exception of decreased liver index in the vehicle and TwHF group,no side effects were observed in these rats,which might due to the low dosage we used.In addition,we also detected rheumatoid factors (RFs),as a diagnostic marker for RA, mainly including IgG, IgA,and IgM isotypes; it has a high detection rate in patients with RA [33,34]. This study found that untreated CIA rats had significantlyhigher levels of IgG, IgA,and $\\mathrm { I g } \\mathrm { M }$ antibodies in serum than those in TwHF and WV groups (Figure 3(b)); these results agreed well with the clinical data as reported. Thus,it could be seen that TwHF and WV $( 0 . 5 \\mathrm { m g / k g ) }$ could downregulate the excessive autoimmune response of CIA rats to a level close to normal.In contrast, the effect of WV (0.125 and $0 . 2 5 \\mathrm { m g / k g ) }$ was not obvious,while it remains to be seen whether higher dose will improve the effect rather than acting as a poison, so we still focused on these three doses to explore the effect of WV on RA in this experiment. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3fd3b00a7f002bf90384782550ad73a2af3c177203634bf705be4d824276cc9c.jpg",
+        "img_caption": [
+            "FIGURE3:EfectsofWVonthevisceaidexandimmuneseglobulinlevelsinIAats.(a)Cangesipln,tusdierdex in all groups. (b) The expression IgG,IgA,and $\\mathrm { I g } \\mathrm { M }$ levels in serum of all groups. $^ { * } P < 0 . 0 5$ ， $^ { * * } P < 0 . 0 1$ when compared with the control group; $^ { \\# } P < 0 . \\dot { 0 } \\dot { 5 }$ $^ { \\# \\# } P < 0 . 0 1$ when compared with the vehicle group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Previous research has shown that synovial inflammation recruits and activates immune cells by producing mediators, and T cells play vital roles in the regulation of RA [31,35]. Regarding the roles of proinflammatory cytokines in autoimmunity,it is essential to consider the balance between different T cell subsets,mainly divided into two hypotypes according to their function and phenotypes: $\\mathrm { C D 4 } ^ { + }$ helper T (Th) cell and $\\mathrm { C D 8 ^ { + } }$ cytotoxic T(Tc) cell. Th cells and Tc cells, characterized by the production of various specific cytokines,facilitate the adaptive immune response [36,37]. In contrast, $\\mathrm { C D 4 ^ { + } C D 2 5 ^ { + } }$ T（Treg) cells have a pivotal function in maintaining immune tolerance by controlling inflam matory responses and suppressing the activity of the abovementioned immune cells [36,38].In this study,we found a large concentration of Th and Tc cells in splenic cells and also noticed impaired function of Treg cells in CIA rats.Fortunately,the balance among Tcell subsets was protected with TwHF and WV treatment (Figure 4). Of note, the accumulation of immune cells is the promoter of local joint inflammation,and the activated immune cells release a large amount of proinflammatory cytokines,which then induce the activation and proliferation of synovial cells and further aggravate the progression of joint inflammation [39].Previous studies have shown that IL-6 is the most dominant cytokine in the pathogenesis of RA [40],and excessive amounts of $\\mathrm { I L } \\mathrm { - } 1 \\beta .$ ，as well as TNF- $\\mathtt { a }$ and IL-8,have been found in the synovial fluid of RA patients [41]. The pro duction of COX-2 and PGE2 following stimulation with IL$1 \\beta$ also has increased,and blocking them significantly alleviated the symptoms of RA [42]. Similar findings were observed in our experimental results,and we confirmed that TwHF and WV $( 0 . 5 \\mathrm { m g / k g ) }$ could effectively reduce the levels of IL-6,IL-8,PGE2,and COX-2;also, the increased concentrations of $\\mathrm { I L } { - } 1 \\beta$ and TNF- $\\alpha$ induced by RA were suppressed except for WV (0.125 and $0 . 2 5 \\mathrm { m g / k g ) }$ groups (Figure 5). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "These results suggested that WV has the functions of relieving joint swelling,inhibiting synovial inflammation, suppressing excessive immune response,and protecting immune homeostasis,which may improve symptoms and become effective remedies forRA.Ithas been reported that wasp venom contains a number of bioactive molecules, including amines,small peptides,and even enzymes,allergens,and toxins of high molecular mass [43].What makes WV different from BV is that BV mainly has anti-inflammatory,antioxidative,and analgesic effects on RA,and it contains a variety of different peptides,including melittin, phospholipase A2,apamin,and so on [44]. The mechanisms for treating RA with these two venoms may be different and are worth further study.Although no side effects were observed in the range of 0.125 to $0 . 5 \\mathrm { m g / k g }$ WV, further evaluation of the active ingredients and safety of WV extract was required. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ed8730ee42887d1a0aed2d0562e38b2ad37297b7fb186628ac61595ded5d86a1.jpg",
+        "img_caption": [
+            "FIGURE4:lblCoel) fFCMonthumrofegcellight).()ebaratidatheegaiveetofandTTelldepoive cells and Treg cells. $^ { * } P < 0 . 0 5$ $^ { * * } P < 0 . 0 1$ whencompared with thecontrol group; $^ { \\# } P < 0 . 0 5$ $^ { \\# \\# } P < 0 . 0 1$ when compared with the vehicle group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/ad14ed9f0e913e3e7702621efa0eae3084c946e5146e08dcf7c1b003d382acee.jpg",
+        "img_caption": [
+            "FIGURE 5: Effects of WV on $\\mathrm { I L } { - } 1 \\beta$ ,TNF- $\\cdot \\mathtt { a } ,$ IL-6, IL-8,PGE2,and COX-2 levels in CIA rat serum. $^ { * } P < 0 . 0 5$ $^ { * * } P < 0 . 0 1$ when compared with the control group; $^ { \\# } P < 0 . 0 5$ 1 $^ { \\# \\# } P < 0 . 0 1$ whencompared with the vehicle group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5. Conclusions ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Wasp venom alleviated synovial hyperplasia and cartilage destruction caused by CIA, possibly due to the reduction in the proinflammatory factor and immunoregulation effect. This study demonstrated that wasp venom might have been a potential therapeutic alternative for RA. In addition to being a folk prescription for many years,WV deserves further study to be discovered,explored,and acknowledged. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Data Availability ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The data used to support the findings of this study are in cluded within the article and can be made freely available. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Ethical Approval ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The study was approved by the Institutional Animal Care and Use Committee (IACUC) of Dali University. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Conflicts of Interest ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Theauthors declare that there are no conflicts of interest regarding the publication of this paper. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Authors' Contributions ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "YG wrote the manuscript and assisted in the construction and grouping of animal models.WXY and HL performed H&E staining and flow cytometry. XMD and LLN were responsible for ELISA kits.ZBY,HRZ,and HX were major contributors in writing the manuscript. ZBY and CGZ administrated and supervised the project.All authors read and approved the final manuscript. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Part of this work was supported by Yunnan Provincial 2011 Collaborative Innovation Center for Entomoceutics. The present study was funded by the National Natural Science Foundation of China (grant nos.81360679 and 81703742), Yunnan Applied Basic Research for Young Scholars (grant no.20l6FDo74),Natural Science Foundation of Yunnan Province (grant no.20l7FA050),and Dali University Innovation Team of Advanced Pharmaceutics of Entomological Bio-Pharmacy R&D (grant no. ZKLX2019101). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] E.Zampeli,P.G. Vlachoyiannopoulos,and A.G. Tzioufas, “Treatment of rheumatoid arthritis:unraveling the conundrum,”Journal of Autoimmunity, vol. 65, pp.1-18, 2015. [2] A.N. Malaviya,“Low-dose methotrexate (LD-MTX） in rheumatology practice-a most widely misunderstood drug,\" Current Rheumatology Reviews, vol. 12, no.3, pp.168-176, 2016.   \n[3] D.Huang, Y. Chen,W. Chen et al.,“Anti-inflammatory effects of the extract of Gnaphalium affine D.Don in vivo and in vitro,” Journal of Ethnopharmacology，vol．176,no．28, pp. 356-364, 2015. [4] J.S. Smolen,D.Aletaha,and K.Redlich,“The pathogenesis of rheumatoid arthritis:new insights from old clinical data?\" Nature Reviews Rheumatology,vol.8,no.4,pp.235-243,2012. [5] K.M. Kamel,A. M. Gad, S.M. Mansour,M. M. Safar,and H.M.Fawzy,“Novel anti-arthritic mechanisms of polydatin in complete Freund's adjuvant-induced arthritis in rats: involvement of IL-6, STAT-3,IL-17,and NF-kB,”Inflammation, vol.41, no.5, pp.1974-1986,2018.   \n[6] V.C. Romao，A. Lima,M. Bernardes,H. Canhao，and J.E.Fonseca,“Three decades of low-dose methotrexate in rheumatoid arthritis: can we predict toxicity?” Immunologic Research,vol. 60,no.2-3,pp.289-310,2014.   \n[7] C. Liu, X. Kong, X. Li et al.,“Wen Luo Yin inhibits angiogenesis in collagen-induced arthritis rat model and in vitro,\" Journal of Ethnopharmacology,vol.149,no.2,pp.478-489, 2013.   \n[8] T.Pan,T.F.Cheng, Y.R. Jia,P.Li,andF.Li,“Anti-rheumatoid arthritis effects of traditional Chinese herb couple in adjuvant-induced arthritis in rats,” Journal of Ethnopharmacology, vol. 205, pp.1-7,2017.   \n[9] D. Huang, Y. Chen, W. Chen et al., “Anti-inflammatory effects of the extract of Gnaphalium affne D.Don in vivo and in vitro,”Journal of Ethnopharmacology, vol.176, pp. 356-364, 2017.   \n[10] J. A.Lee,M.J. Son,J. Choi,J H.Jun,J. I. Kim,and M. S.Lee, “Bee venom acupuncture for rheumatoid arthritis: a systematic review of randomised clinical trials,” BMJ Open, vol.4,no.11,Article ID e006140,2014.   \n[11] J-D.Lee,H.-J.Park,Y.Chae,and S.Lim,“An overview of Bee venom acupuncture in the treatment of arthritis,”EvidenceBased Complementary and Alternative Medicine,vol.2, no.1, pp. 79-84,2005.   \n[12] J.C. Silva,L.M. Neto,R.C. Neves et al.,“Evaluation of the antimicrobial activity of the mastoparan Polybia-MPIl isolated from venom of the social wasp Pseudopolybia vespiceps testacea(Vespidae,Hymenoptera),’ International Journal of Antimicrobial Agents, vol. 49, no.2, pp.167-175,2017.   \n[13] Y. Dongol, B. L Dhananjaya,R. K Shrestha,and G.Aryal, “Wasp venom toxins as apotential therapeutic agent,” Protein Peptide Letters, vol. 23, no.8,pp. 688-698,2016.   \n[14] X.Xu, J. Li,Q. Lu,H. Yang, Y. Zhang,and R. Lai,“Two families of antimicrobial peptides from wasp (Vespa magnifica) venom,”Toxicon,vol.47,no.2, pp.249-253, 2006.   \n[15] S.An,L. Chen, J.-F.Wei et al.,“Purification and characterization of two new allergens from the venom of Vespa magnifica,”PLoS One, vol.7, no.2,Article ID e31920, 2012.   \n[16] S. T. Zhou, K. Luan,L.-L. Ni et al.,“A strategy for quality control of Vespa magnifica (Smith) venom based on HPLC fingerprint analysis and multi-component separation combined with quantitative analysis,”Molecules,vol. 24,no.16, 2019   \n[17] N．Haleagrahara,S. Miranda-Hernandez,M.A．Alim, L.Hayes,G. Bird,and N. Ketheesan,“Therapeutic effect of quercetin in collagen-induced arthritis,” Biomedicineé Pharmacotherapy, vol. 90,pp.38-46,2017.   \n[18]A.Shabbir,S.A.Batool,M.I. Basheer et al.,“Ziziphora clinopodioides ameliorated rheumatoid arthritis and inflammatory paw edema in different models of acute and chronic inflammation,” Biomedicine & Pharmacotherapy, vol. 97, pp.1710-1721, 2018.   \n[19]A.Denys，G. Clavel, D. Lemeiter，O. Schischmanoff, M. C. Boissier, and L. Semerano,“Aortic VCAM-1: an early marker of vascular inflammation in collagen-induced ar thritis,”Journal of Cellular and Molecular Medicine, vol.20, no.5,pp.855-863,2016.   \n[20] Y. Hu, X. Liu, Q. Xia et al.,“Comparative anti-arthritic investigation of iridoid glycosides and crocetin derivatives from Gardenia jasminoides Ellis in Freund's complete adjuvantinduced arthritis in rats,”Phytomedicine,vol.53,pp.223-233, 2019.   \n[21] Q.Chen, X. Zhang, Y. Xiong, C. Chen,and S.Lv,“The （204号 $\\mathrm { C D } 2 5 { + } / \\mathrm { C D } 4 +$ T cell ratio and levels of CII,CIX and CXI antibodies in serum may serve as biomarkers of pristaneinduced arthritis in rats and Rheumatoid Arthritis in humans,” Comparative Biochemistry and Physiology Part C: Toxicology ePharmacology,vol.217,pp.25-31,2019.   \n[22] A. C. Zarpelon,V. Fattori,F. O. Souto et al.,“The sesquiterpene lactone,Budlein A,inhibits antigen-induced arthritis in mice: role of NF- $\\kappa \\mathrm { B }$ and cytokines,” Inflammation,vol.40, no.6,pp.2020-2032,2017.   \n[23] G. Bianchi，R. Caporali， M. Todoerti，and P. Mattana, “Methotrexate and rheumatoid arthritis: current evidence regarding subcutaneous versus oral routes of administration,\" Advances in Therapy, vol. 33, no.3, pp.369-378, 2016.   \n[24] S. Chaabane,S.Marzouk,R.Akrout et al.,“Genetic determinants of methotrexate toxicity in Tunisian patients with rheumatoid arthritis: a study of polymorphisms involved in the MTX metabolic pathway,” European Journal of Drug Metabolism and Pharmacokinetics,vol.41,no.4, pp.385-393, 2016.   \n[25] H.-L. Wang, Q. Jiang, X.-H. Feng et al.,“Tripterygium wilfordii Hook F versus conventional synthetic disease-modifying anti-rheumatic drugs as monotherapy for rheumatoid arthritis:a systematic review and network meta-analysis,\" BMC Complementary and Alternative Medicine, vol. 16, p. 215,2016.   \n[26] N.Haleagrahara, S. Miranda-Hernandez,M.A. Alim, L. Hayes,G. Bird,and N. Ketheesan,“Therapeutic effect of quercetin in collagen-induced arthritis,”Biomedicineé Pharmacotherapy, vol. 90,pp. 38-46,2017.   \n[27] C. Liu, X. Kong,X. Liet al.,“Wen Luo Yin inhibits angiogenesis in collagen-induced arthritis rat model and in vitro,” Journal of Ethnopharmacology，vol.149,no.2, pp. 478-489, 2013.   \n[28]A.M.Brinker,J. Ma,P.E.Lipsky,and I. Raskin,“Medicinal chemistry and pharmacology of genus Tripterygium (Celastraceae),”Phytochemistry,vol. 68,no.6, pp.732-766,2007.   \n[29] J.Falconer,A.N. Murphy, S.P.Young et al.,“Review: synovial cell metabolism and chronic inflammation in rheumatoid arthritis” Arthritis Rheumatology，vol.70， no.7, Pp.984-999,2018.   \n[30] S.You, S.-A. Yoo,S. Choi et al.,“Identification of key regulators for the migration and invasion of rheumatoid synoviocytes through a systems approach,” Proceedings of the National Academy of Sciences, vol. 111, no.1, pp. 550-555, 2014.   \n[31]B.Bartok and G.S.Firestein,“Fibroblast-like synoviocytes: key effector cells in rheumatoid arthritis,”Immunological Reviews, vol.233,no.1, pp.233-255,2010.   \n[32] M. Xue, Y. Zhao,X.-j. Li et al., “Comparison of toxicokinetic and tissue distribution of triptolide-loaded solid lipid nanoparticles vs free triptolide in rats,”European Journal of Pharmaceutical Sciences, vol. 47, no.4, pp.713-717,2012.   \n[33] K.Nishimura,D. Sugiyama,Y. Kogata et al.,“Meta-analysis: diagnostic accuracy of anti-cyclic citrullinated peptide antibody and rheumatoid factor for rheumatoid arthritis,”Annals of Internal Medicine, vol.146, no.11,pp.797-808,2007.   \n[34] F.Ingegnoli,R. Castelli,and R.Gualtierotti,“Rheumatoid factors:clinical applications,”Disease Markers,vol.35,no.6, Pp.727-734,2013.   \n[35] Y. Tai, Q. Wang, H. Korner, L. Zhang, and W. Wei,“Molecular mechanisms of Tcells activation by dendritic cells in autoimmune diseases,”Frontiers in Pharmacology，vol.9, p. 642,2018.   \n[36] E.Y. Kim and K.D. Moudgil,“Immunomodulation of autoimmune arthritis by pro-inflammatory cytokines,”Cytokine,vol. 98,pp.87-96,2017.   \n[37] C.Waseén,M. Turkkila,A. Bossios et al.,“Smoking activates cytotoxic $\\mathrm { C D 8 + }$ T cells and causes survivin release in rheumatoid arthritis,”Journal of Autoimmunity, vol.78,pp.101- 110,2017.   \n[38] G. Sun, Y. Hou, W. Gong et al.,“Adoptive induced antigenspecific Treg cells reverse inflammation in collagen-induced arthritis mouse model” Inflammation,vol.41，no. 2, pp.485-495,2018.   \n[39] Q.Wang,L.Wang,L. Wu et al.，“Paroxetine alleviates T lymphocyte activation and infiltration to joints of collageninduced arthritis,” Scientifc Reports,vol.7,p.45364,2017.   \n[40] E.H. S.Choy and L.H. Calabrese,“Neuroendocrine and neurophysiological effects of interleukin 6 in rheumatoid arthritis,\"Rheumatology,vol.57,no.11,pp.1885-1895,2018.   \n[41] X. Du,H. Zhang,W. Zhang et al.,“The protective effects of lixisenatide against inflammatory response in human rheumatoid arthritis fibroblast-like synoviocytes,”International Immunopharmacology,vol. 75,p.105732,2019.   \n[42] H.-Y. Yoon,E.-G.Lee,H.Lee et al.,“Kaempferol inhibits IL$^ { 1 \\beta }$ -induced proliferation of rheumatoid arthritis synovial fbroblasts and the production of COX-2,PGE2 and MMPs,\" International Journal of Molecular Medicine,vol.32,no.4, PP. 971-977,2013.   \n[43] E. Habermann,“Bee and wasp venoms,” Science, vol. 177, no.4046, pp.314-322,1972.   \n[44] A.Kocyigit,E.M.Guler,and S.Kaleli,“Anti-inflammatory and antioxidative properties of honey bee venom on Freund's complete adjuvant-induced arthritis model in rats,”Journal of Ethnobharmacologv.vol.16l、Dp.4-11、2019. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

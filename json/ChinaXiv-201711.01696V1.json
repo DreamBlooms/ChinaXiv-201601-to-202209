@@ -1,0 +1,327 @@
+[
+    {
+        "type": "text",
+        "text": "1 2015 年山东省肉鸡饲料原料中重金属污染情况调查及风险评估",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 陈‧甫 朱风华 徐 丹 朱连勤\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3 （青岛农业大学动物科技学院，青岛266109）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4摘要：本试验旨在调查2015年山东省肉鸡饲料原料中砷、铅、镉、铬和汞元素的污染情  \n5 况，评估饲料原料的污染风险。试验收集烟台市莱阳、威海市文登、青岛市莱西、潍坊市诸  \n6 城、日照市营县、临沂市沂水、德州市夏津等地不同饲料生产厂家使用的8种饲料原料，包  \n7 括玉米、豆粕、麸皮、花生粕、棉籽粕、玉米蛋白粉、干酒糟及其可溶物（DDGS）和微量元素预混料，应用电感耦合等离子体原子发射光谱法(ICP-AES)检测镉、铅和铬元素的含量，应用原子荧光光谱法(AFS)检测砷和汞元素的含量，计算检出率、平均含量、超标率、最高含量与平均含量比值（HC/AC）和离散系数。结果表明：饲料原料中砷、铅、镉、铬和汞元素的检出率分别为 $3 2 . 2 9 \\%$ 、 $7 . 2 9 \\%$ 、 $1 2 . 5 0 \\%$ 、 $1 0 0 . 0 0 \\%$ 和 $1 0 0 . 0 0 \\%$ ；阳性样品中平均含量分别为0.21、1.27、2.12、3.48 和 $0 . 0 2 \\mathrm { m g / k g }$ ，超标率分别为0.00、 $1 . 0 4 \\%$ 、 $1 . 1 9 \\%$ 、 $5 4 . 7 6 \\%$ 和 $9 . 5 2 \\%$ ；微量元素预混料中砷、铅和镉元素，棉籽粕中铬元素及花生粕中汞元素的HC/AC最大，微量元素预混料中镉元素、花生粕中汞元素、豆粕中砷元素及棉籽粕中铅和铬元素离散系数最大。综上所述，肉鸡饲料原料中铬和汞元素污染严重；微量元素预混料中砷、镉、铬和铅元素、棉籽粕中铬和铅元素、花生粕和豆粕中汞元素易出现严重污染，因此建议制定预混料和饼粕类饲料中多种重金属元素的限量标准。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：肉鸡；饲料原料；砷；铅；镉；铬；汞中图分类号：S816 文献标识码： 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着工业和城市化的高速发展，污染的形势越来越严峻，工业和生活废水排放、污水灌溉和有毒农药等导致重金属元素进入土壤、水源和大气等环境中[]。2011年2月，国务院通过了《重金属污染综合防治规划（2011\\~2015）》，重点关注砷、铅、镉、铬和汞等重金属元素污染的防治。报道认为，全国3亿亩（1亩 ${ \\approx } 0 . 0 6 7 \\ \\mathrm { h m } ^ { 2 }$ ）耕地受到重金属元素污染威胁，占我国耕地总面积的1/6，每年有1200万t粮食被重金属元素污染[2]。2013年，宋伟等[3]调查发现我国耕地重金属元素污染率为 $1 6 . 6 7 \\%$ ，而耕地污染较重的重金属元素会通过食物链传递迁移到谷物、饲草和畜禽等。2015 年，原泽鸿等[4]发现四川省蛋鸡配合饲料中铬和铅元素含量超标严重（ $1 1 . 1 \\%$ 和 $1 8 . 2 \\%$ ）。2012年，农业部对全国30个省市进行饲料安全质量检测发现，超过 $70 \\%$ 企业的饲料和饲料原料中砷、铅、铬、镉等重金属元素含量超标[5]。由于各地饲料原料购入时把关不严及重金属元素的检测手段落后，重金属元素含量超标导致动物发生中毒的事件仍时有发生，这严重威胁着畜牧业生产和畜产品的质量安全，现已引起政府和专家学者的高度重视[6。因此，严格检验和控制饲料原料中重金属元素的污染是保证饲料、畜产品质量安全和减少环境污染的重要措施，也是探寻饲料重金属元素污染源头的重要手段。山东省畜牧业总产值居全国第一位，其中肉鸡年产值300多亿元，是山东省畜牧业中的支柱产业。山东省又是我国第二大饲料生产区，饲料企业多达1460家，也是豆粕、棉籽粕、麸皮、干酒糟及其可溶物(distillers dried grains with soluble，DDGS)等的主产区。然而，有关山东省饲料中重金属元素污染情况的研究较少。潘寻等7调查发现，山东省猪配合饲料中砷元素含量为 $1 7 . 1 { \\sim } 3 4 . 1 \\ \\mathrm { m g / k g }$ ，是国家标准限量的8.5\\~17.0倍。王飞等[8]研究发现，包括山东在内华北地区肉牛饲料中铬、铅元素含量分别超标 $8 3 . 3 3 \\%$ 和 $6 6 . 6 7 \\%$ ，奶牛饲料中铬元素含量超标 $6 0 \\%$ ，蛋鸡饲料中铅元素含量超标 $5 3 . 8 5 \\%$ ，各种畜禽粪便中重金属元素含量均超标，其中以猪粪和肉鸡粪中的超标情况最为严重，并证实畜禽粪便中重金属元素主要来源于饲料。本研究旨在调查 2015 年山东省肉鸡饲料原料中砷、铅、镉、铬和汞等重金属元素的含量，评估饲料原料的污染风险，为指导饲料生产、畜禽养殖和环境保护提供参考依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1主要仪器与试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "OPTIMA 8000型电感耦合等离子体质谱仪（Perkin Elmer，美国），AFS-920 型双道原子荧光光度计（北京吉天仪器有限公司）；浓硝酸和高氯酸均为优级纯（天津巴斯夫化工有限公司），砷、铬、汞、铅和镉元素标准溶液（北京世纪奥科生物技术有限公司）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2样品采集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2015 年3—11月，按照国家标准《饲料采样》（GB/T14699.1—2005）[9]采集样品，收集烟台市莱阳、威海市文登、青岛市莱西、潍坊市诸城、日照市莒县、临沂市沂水、德州市夏津等地不同饲料生产厂家使用的8种饲料原料，包括玉米、豆粕、麸皮、花生粕、棉籽粕、玉米蛋白粉、DDGS 和微量元素预混料，每种饲料原料取样12份，共计96份。每份饲料的原始样品取约 $2 \\mathrm { k g }$ ，四分法缩减至约 $2 0 0 \\ \\mathrm { g }$ ，粉碎过20目筛（预混料除外）后，装入自封袋贴好标签，备用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3样品处理",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "样品置于 $- 2 0 \\ \\mathrm { { ^ \\circ C } }$ 保存，处理时恢复至常温，混匀粉碎，过40目筛。准确称取样品1.000g，移至 $1 0 0 ~ \\mathrm { { m L } }$ 三角瓶中，加入混酸溶液（硝酸：高氯酸 $\\scriptstyle = 4 : 1$ ，V/V) $1 5 ~ \\mathrm { m L }$ ，加盖表面皿,置于通风厨中冷消化过夜。次日，将电热板温度调整至130\\~140℃之间，将冷消化好的样品置于电热板上消化，冒白烟后回流至剩余 $1 \\mathrm { m L }$ ，冷却后转移至 $1 0 ~ \\mathrm { m L }$ 容量瓶中，超纯水定容。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4检测条件",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "应用电感耦合等离子体原子发射光谱法(ICP-AES)检测镉、铅和铬的含量（GB/T24875-2010），分析谱线波长分别为267.716、220.353和 $2 2 8 . 8 0 2 \\ \\mathrm { n m }$ ；应用原子荧光光谱法(AFS)检测砷（GB/T5009.11-2014）和汞（GB/T13081-2006）的含量，分析波长分别为193.7和 $2 5 3 . 7 { \\mathrm { n m } }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5 质量控制",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "样品检测前先进行标准曲线的绘制，矫正重金属元素含量与吸光度值之间的相关系数在0.99 以上，砷含量为 $1 { \\sim } 1 ~ 0 0 0 ~ \\mu \\mathrm { g / k g }$ ，镉含量为 $1 { \\sim } 1 ~ 0 0 0 ~ \\mu \\mathrm { g / k g }$ ，铬含量为 $1 0 0 { \\sim } 1 0 0 0 0 ~ \\mu \\mathrm { g / k g }$ 汞含量为 $0 . 0 0 1 { \\sim } 1 ~ { \\mu \\mathrm { g / k g } }$ ，铅含量为 $1 0 { \\sim } 2 ~ 0 0 0 ~ \\mu \\ g / \\mu \\ g$ ，重金属元素含量和吸光度值呈良好的线性关系。回收率和重复性试验表明，各元素的回收率为 $9 6 . 1 4 \\% \\sim 1 0 2 . 0 0 \\%$ ，重复性试验相对标准偏差（RSD）值为 $0 . 4 \\% { \\sim } 2 . 6 \\%$ ，确定2种检测方法确实、可行。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.6样品检测与计算",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "按照检测条件检测样品中5种重金属元素含量，每隔10个样品加1个标准监控样品，以检测仪器的稳定性。检测完成后，按照标准曲线计算各种重金属元素的含量，超出标准曲线范围的样品，经稀释后再次检测。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "计算阳性样品中5种重金属元素的检出率和平均含量，其中微量元素预混料中重金属元素的含量按照厂家推荐的添加比例计算并调整为 $1 \\%$ 添加比例时的含量，筛选阳性样品中5种重金属元素的最高含量。参照《饲料卫生标准》（GB13078-2001）[10]计算微量元素预混料中砷和铅的超标率，铬、镉和汞无限量标准不计算超标率；参照《食品中污染物限量》（GB",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2762-2012）[11计算其他样品中5种重金属元素的超标率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.7 污染风险评估 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "计算各样品中5种重金属元素含量测定值的离散系数，即标准差与平均值的比值，并计算最高含量与平均含量比值（HC/AC）。用最高含量、离散系数和HC/AC评价不同样品中每种元素的差异程度即离散程度，依此确定哪些样品中哪些重金属元素易出现严重污染风险。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "肉鸡饲料原料中重金属元素检测结果如表1所示。饲料原料中砷、铅、镉、铬和汞元素的检出率分别为 $3 2 . 2 9 \\%$ （31/96）、 $7 . 2 9 \\%$ （7/96）、 $1 2 . 5 0 \\%$ （12/96）、 $100 . 0 0 \\%$ (96/96)和 $1 0 0 . 0 0 \\%$ （96/96），阳性样品中砷、铅、镉、铬和汞元素的平均含量分别为0.21、1.27、2.12、3.48 和 $0 . 0 2 ~ \\mathrm { m g / k g }$ ，超标率分别为0.00（0/96）、 $1 . 0 4 \\%$ （1/96）、 $1 . 1 9 \\%$ （1/84）、$5 4 . 7 6 \\%$ （46/84）和 $9 . 5 2 \\%$ （8/84）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1肉鸡饲料原料中重金属元素检测结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Table1Detection results of heavy metal elements of feedstuffs in broiler chickens ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e13cf855e0708b33bdbe6f1ab6c7191ebae1fbb673c1034b98d0be2f7fea85b3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>元素</td><td>检测指标</td><td>玉米</td><td>麸皮 Wheat</td><td>豆粕</td><td>花生粕</td><td>棉籽粕</td><td>白粉</td><td>干酒槽 及其可</td><td>预混料</td></tr><tr><td>lements</td><td>Test indexes</td><td>Corn</td><td>bran</td><td>Soybean meal</td><td>Peanut meal</td><td>Cottonse ed meal</td><td>Corn gluten</td><td>溶物 DDGS</td><td>Trace mineral</td></tr><tr><td></td><td>检出率 Detection rate/%</td><td>30.77</td><td>33.33</td><td>33.33</td><td>25.00</td><td>36.36</td><td>meal 27.27</td><td>15.38</td><td>58.33 premix</td></tr><tr><td></td><td>超标率 Over standard rate/%</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td></td><td>平均含量 content/(mg/kg) Average</td><td>0.17</td><td>0.08</td><td>0.05</td><td>0.24</td><td>0.22</td><td>0.15</td><td>0.03</td><td>0.42</td></tr><tr><td>砷 As</td><td>最高含量 Maximum</td><td>0.33</td><td>0.19</td><td>0.12</td><td>0.33</td><td>0.44</td><td>0.17</td><td>0.03</td><td>1.08</td></tr><tr><td></td><td>content/(mg/kg)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>最高含量与平 均含量比值</td><td>1.93</td><td>2.39</td><td>2.37</td><td>1.42</td><td>2.04</td><td>1.17</td><td>1.02</td><td>2.58</td></tr><tr><td></td><td>HC/AC</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>离散系数</td><td>0.79</td><td>0.98</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Coefficient of</td><td></td><td></td><td>1.01</td><td>0.69</td><td>0.79</td><td>0.25</td><td>0.03</td><td>1.00</td></tr><tr><td>铅</td><td>variance 检出率</td><td>0.00</td><td>0.00</td><td>8.33</td><td>0.00</td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/072f6c11bfc06a7c72896a60062ea6de340792080462fcf81f368a646843b290.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>超标率Over standard rate/% 平均含量</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>9.09</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>Average content/(mg/kg) 最高含量</td><td>0.00</td><td>0.00</td><td>0.09</td><td>0.00</td><td>0.26</td><td>0.00</td><td>0.00</td><td>1.46</td></tr><tr><td>Maximum content/(mg/kg) 最高含量与平</td><td>0.00</td><td>0.00</td><td>0.09</td><td>0.00</td><td>0.52</td><td>0.00</td><td>0.00</td><td>3.58</td></tr><tr><td>均含量比值 HC/AC 离散系数</td><td>0.00</td><td>0.00</td><td>1.00</td><td>0.00</td><td>1.95</td><td>0.00</td><td>0.00</td><td>2.46</td></tr><tr><td>Coefficient of variance 检出率</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1.35</td><td>0.00</td><td>0.00</td><td>1.05</td></tr><tr><td>Detection rate/% 超标率Over</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>standard rate/% 平均含量</td><td>30.76</td><td>25.00</td><td>16.67</td><td>100.00</td><td>81.82</td><td>90.91</td><td>46.15</td><td></td></tr><tr><td>Average content/(mg/kg) 铬 最高含量</td><td>0.95</td><td>1.05</td><td>0.93</td><td>3.89</td><td>4.08</td><td>4.50</td><td>1.92</td><td>10.43</td></tr><tr><td>Cr Maximum 最高含量与平</td><td>1.93 content/(mg/kg)</td><td>2.49</td><td>2.21</td><td>9.00</td><td>24.00</td><td>17.84</td><td>10.13</td><td>19.71</td></tr><tr><td>均含量比值 HC/AC 离散系数</td><td>2.04</td><td>2.37</td><td>2.37</td><td>2.31</td><td>5.89</td><td>3.96</td><td>5.28</td><td>1.89</td></tr><tr><td>variance 检出率</td><td>Coefficient of 0.46</td><td>0.72</td><td>0.68</td><td>0.67</td><td>1.67</td><td>1.07</td><td>1.47</td><td>0.31</td></tr><tr><td></td><td>0.00 Detection rate/%</td><td>0.00</td><td>8.33</td><td>0.00</td><td>9.09</td><td>0.00</td><td>7.69</td><td>75.00</td></tr><tr><td>超标率Over standard rate/% 平均含量</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>7.69</td><td>-</td></tr><tr><td>Average content/(mg/kg) 最高含量</td><td>0.00</td><td>0.00</td><td>0.11</td><td>0.00</td><td>0.03</td><td>0.00</td><td>7.50</td><td>1.52</td></tr><tr><td>Maximum content/(mg/kg)</td><td>0.00</td><td>0.00</td><td>0.11</td><td>0.00</td><td>0.03</td><td>0.00</td><td>7.50</td><td>2.67</td></tr><tr><td>最高含量与平 均含量比值 HC/AC</td><td>0.00</td><td>0.00</td><td>1.00</td><td>0.00</td><td>1.00</td><td>0.00</td><td>1.00</td><td>1.75</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/eab8c7689963bac466e27164a6ff6f9aece27e1ec64db9906346f6c2d60d1a21.jpg",
+        "table_caption": [
+            "离散系数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Coefficient of</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td></td><td>0.54</td></tr><tr><td></td><td>variance 检出率</td><td>100.00 100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td></td></tr><tr><td>Detection rate/% 超标率 Over</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>100.00</td></tr><tr><td>standard rate/% 平均含量</td><td>15.38</td><td>0.00</td><td>8.33</td><td>8.33</td><td>18.18</td><td>0.00</td><td>15.38</td><td></td></tr><tr><td></td><td>Average 0.02</td><td>0.01</td><td>0.02</td><td>0.02</td><td>0.02</td><td>0.01</td><td>0.02</td><td>0.02</td></tr><tr><td></td><td>content/(mg/kg)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>汞</td><td>最高含量</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Hg</td><td>Maximum</td><td>0.04 0.02</td><td>0.05</td><td>0.08</td><td>0.02</td><td>0.02</td><td>0.02</td><td>0.02</td></tr><tr><td></td><td>content/(mg/kg)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>最高含量与平</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1.21</td><td>2.90</td><td>4.05</td><td></td><td></td><td></td><td></td></tr><tr><td>均含量比值</td><td>2.29</td><td></td><td></td><td></td><td>1.34</td><td>1.44</td><td>1.37</td><td>1.25</td></tr><tr><td>HC/AC</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>离散系数</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.44</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Coefficient of variance</td><td></td><td>0.09</td><td>0.60</td><td>0.97</td><td>0.23</td><td>0.15</td><td>0.25</td><td>0.18</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1 肉鸡饲料原料中铬元素的检测结果",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "玉米、麸皮、豆粕、花生粕、棉籽粕、玉米蛋白粉、DDGS 和微量元素预混料中铬元素的检出率均为 $1 0 0 . 0 0 \\%$ ，检出平均含量分别为0.95、1.05、0.93、3.89、4.08、4.50、1.92和$1 0 . 4 3 ~ \\mathrm { m g / k g }$ ，最高含量分别为1.93、2.49、2.21、9.00、24.00、17.84、10.12 和 $1 9 . 7 1 ~ \\mathrm { m g / k g }$ 玉米、麸皮、豆粕、花生粕、棉籽粕、玉米蛋白粉和DDGS 中铬元素超标率分别为 $3 0 . 7 6 \\%$ 、$2 5 . 0 0 \\%$ 、 $1 6 . 6 7 \\%$ 、 $100 . 0 0 \\%$ 、 $8 1 . 8 2 \\%$ 、 $9 0 . 9 1 \\%$ 和 $4 6 . 1 5 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2肉鸡饲料原料中汞元素的检测结果",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "玉米、麸皮、豆粕、花生粕、棉籽粕、玉米蛋白粉、DDGS 和微量元素预混料中汞元素的检出率均为 $1 0 0 . 0 0 \\%$ ，检出平均含量分别为0.02、0.01、0.02、0.02、0.02、0.01、0.02 和$0 . 0 2 ~ \\mathrm { m g / k g }$ ，最高含量分别为0.04、0.02、0.05、0.08、0.02、0.02、0.02 和 $0 . 0 2 ~ \\mathrm { m g / k g }$ ；玉米、麸皮、豆粕、花生粕、棉籽粕、玉米蛋白粉和DDGS中汞元素的超标率分别为 $1 5 . 3 8 \\%$ 、0.00、 $8 . 3 3 \\%$ 、 $8 . 3 3 \\%$ 、 $1 8 . 1 8 \\%$ 、0.00和 $1 5 . 3 8 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3肉鸡饲料原料中砷元素的检测结果",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "玉米、麸皮、豆粕、花生粕、棉籽粕、玉米蛋白粉、DDGS 和微量元素预混料中砷元素的检出率分别为 $3 0 . 7 7 \\%$ 、 $3 3 . 3 3 \\%$ 、 $3 3 . 3 3 \\%$ 、 $2 5 . 0 0 \\%$ 、 $3 6 . 3 6 \\%$ 、 $2 7 . 2 7 \\%$ 、 $1 5 . 3 8 \\%$ 和 $5 8 . 3 3 \\%$ ，检出平均含量分别为0.17、0.08、0.05、0.24、0.22、0.15、0.03 和 $0 . 4 2 \\mathrm { m g / k g }$ ，最高含量分别为0.33、0.19、0.12、0.33、0.44、0.17、0.03和 $1 . 0 8 ~ \\mathrm { { m g / k g } }$ ，未发现超标。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4肉鸡饲料原料中铅元素的检测结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "玉米、麸皮、豆粕、花生粕、棉籽粕、玉米蛋白粉、DDGS 和微量元素预混料中铅元素的检出率分别为0.00、0.00、 $8 . 3 3 \\%$ 、0.00、 $1 8 . 1 8 \\%$ 、0.00、0.00和 $3 3 . 3 3 \\%$ ，检出平均含量分别为0.00、0.00、0.09、0.00、0.26、0.00、0.00 和 $1 . 4 6 ~ \\mathrm { m g / k g }$ ，最高含量分别为 $0 . 0 0 , \\ 0 . 0 0$ ，0.09、0.00、0.52、0.00、0.00和 $3 . 5 8 ~ \\mathrm { m g / k g }$ ；棉籽粕中铅元素的超标率为 $9 . 0 9 \\%$ ，其他饲料原料未发现超标。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.5肉鸡饲料原料中镉元素的检测结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "玉米、麸皮、豆粕、花生粕、棉籽粕、玉米蛋白粉、DDGS 和微量元素预混料中镉元素的检出率分别为0.00、0.00、 $8 . 3 3 \\%$ 、0.00、 $9 . 0 9 \\%$ 、0.00、 $7 . 6 9 \\%$ 和 $7 5 . 0 0 \\%$ ，检出平均含量分别为0.00、0.00、0.11、0.00、0.03、0.00、7.50 和 $1 . 5 2 \\mathrm { m g / k g }$ ，最高含量分别为 $0 . 0 0 , \\ 0 . 0 0 .$ 0.11、0.00、0.03、0.00、7.50 和 $2 . 6 7 \\mathrm { m g / k g }$ ；DDGS中镉元素的超标率为 $7 . 6 9 \\%$ ，其他饲料原料未发现超标。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.6肉鸡饲料原料中重金属元素污染风险评估 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "微量元素预混料中碑元素最高含量为 $1 . 0 8 ~ \\mathrm { { m g / k g } }$ ，其次是棉籽粕，为 $0 . 4 4 \\mathrm { m g / k g }$ ；微量元素预混料中铅元素最高含量为 $3 . 5 8 ~ \\mathrm { m g / k g }$ ，其次是棉籽粕，为 $0 . 5 2 \\mathrm { m g / k g }$ ；棉籽粕中铬元素最高含量为 $2 4 . 0 0 \\mathrm { m g / k g }$ ，其次是微量元素预混料，为 $1 9 . 7 1 ~ \\mathrm { m g / k g }$ ；DDGS 中镉元素最高含量为 $7 . 5 0 \\mathrm { m g / k g }$ ，其次是微量元素预混料，为 $2 . 6 7 \\mathrm { m g / k g }$ ；花生粕中汞元素最高含量为0.08mg/kg，其次是豆粕，为 $0 . 0 5 \\mathrm { m g / k g }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "微量元素预混料中砷元素HC/AC为2.58，其次是麸皮，为2.39；微量元素预混料中铅元素 HC/AC为2.46,其次是棉籽粕，为1.95;棉籽粕中铬元素HC/AC为5.89,其次是DDGS,为5.28；微量元素预混料中镉元素 HC/AC为1.75，其次是豆粕、棉籽粕和DDGS，为1.00;花生粕中汞元素HC/AC为4.05，其次是豆粕，为2.90。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "豆粕中砷元素离散系数为1.01，其次是微量元素预混料，为1.00；棉籽粕中铅元素离散系数为1.35，其次是微量元素预混料，为1.05；棉籽粕中铬元素离散系数为1.67，其次是DDGS,为1.47;微量元素预混料中镉元素离散系数为0.54;花生粕中汞元素离散系数为0.97，其次是豆粕，为0.60。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "综合最高含量、离散系数、HC/AC 结果，微量元素预混料中易出现砷、镉、铬和铅元素严重污染，棉籽粕中易出现铬和铅元素严重污染，花生粕和豆粕中易出现汞元素严重污染。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究发现，肉鸡饲料原料中砷、铅、镉、铬和汞元素的检出率分别为 $3 2 . 2 9 \\%$ （31/96）、$7 . 2 9 \\%$ （7/96）、 $1 2 . 5 0 \\%$ （12/96）、 $1 0 0 . 0 0 \\%$ （96/96）和 $1 0 0 . 0 0 \\%$ （96/96）；阳性样品中砷、铅、镉、铬和汞元素的平均含量分别为0.21、1.27、2.12、3.48 和 $0 . 0 2 ~ \\mathrm { m g / k g }$ ，超标率分别为0.00（0/96）、 $1 . 0 4 \\%$ （1/96）、 $1 . 1 9 \\%$ （1/84）、 $5 4 . 7 6 \\%$ （46/84）和 $9 . 5 2 \\%$ （8/84）。说明肉鸡饲料原料中重金属元素的污染比较普遍，污染程度较高，这与原泽鸿等[4研究结果相似。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "铬是人和动物所必需的微量元素，对机体糖、脂肪、蛋白质等的代谢起着重要的调控作用，研究表明，饲粮中添加铬可提高经济效益[12-13]。而铬又是污染性有毒有害金属元素，环境中的铬在自然界的迁移十分活跃，散布在大气、水体和土壤中的铬以离子状态随水循环，农作物从被污染的水和土壤中吸收富集铬[14]。由于铬的毒性强，且不能被微生物分解，所以铬通过食物链在生物体内富集，水溶性六价铬已被列为对人体危害最大的8种化学物质之一，是国际公认的8种致癌性金属化合物之一，也是美国环境保护署（EPA）公认的3种重点污染物之一[15]。因此，我国《食品中污染物限量》（GB 2762-2012）[明确规定，谷物及其制品、豆类及其制品中铬的限量标准为 $1 . 0 \\mathrm { m g / k g }$ ，《饲料卫生标准》（GB 13078-2001）[10]也规定配合饲料中铬的限量标准为 $1 0 \\ \\mathrm { m g / k g }$ 。本研究发现，饲料原料中铬元素检出率均为 $100 . 0 0 \\%$ ，除预混料外，其他原料的超标率为 $5 4 . 7 6 \\%$ （46/84），平均含量（ $3 . 4 8 ~ \\mathrm { m g / k g } \\rangle$ 号也超过谷物、豆类的限量标准，说明饲料原料中铬元素的污染非常普遍且污染程度严重。据中国粉体机械网统计，全国每年排放铬渣约60万t，历年累积600万t，经解毒处理或综合利用的不足 $1 7 \\% ^ { [ 1 5 ] }$ 。2005 年环保年鉴统计数据也显示，仅皮革行业每年排放的含铬废水就高达1.8亿t。这些数据提示我们，饲料原料生产地区的水源或土壤都存在不同程度的铬元素污染。本研究发现，饲料原料中铬元素超标率较高的为花生粕、棉籽粕和玉米蛋白粉，平均含量较高的为微量元素预混料、玉米蛋白粉、棉籽粕和花生粕，最高含量较高的为棉籽粕、微量元素预混料、玉米蛋白粉和DDGS。因此，饲料中铬元素的污染主要是杂粕类蛋白质饲料和微量元素预混料的污染。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "汞是具有持久性、易迁移性、高生物富集性和高生物毒性的有毒污染物，对人和动物的健康和生态环境具有很大的负面作用。中国是世界上汞的生产大国，也是世界上用汞量最大的国家，2000 年全世界汞产量约 $2 0 0 0 \\mathrm { t } .$ ，而我国的汞使用量约 $9 0 0 \\mathrm { t } .$ ，其中进口量约占 $70 \\%$ [16]。排放到环境中的汞的总量很大，主要存在于水体、大气和土壤中，但目前只有排放到大气中的汞可以进行定量估算。2007年，中国大气汞排放量估算至少为 $6 4 3 \\mathrm { t }$ ，主要排放源为燃煤锅炉（ $3 3 \\%$ ）、燃煤电厂（ $1 9 \\%$ ）、有色金属（ $1 8 \\%$ ）和水泥生产（ $14 \\%$ ）等[17]。为了防止汞元素污染加剧，我国国家标准对各种环境介质及污染物排放源中汞的含量做了一定限制。其中，《食品中污染物限量》（GB 2762-2012）[1规定谷物及其制品、豆类及其制品中汞的限量标准为 $0 . 0 2 \\mathrm { m g / k g }$ ，《饲料卫生标准》（GB13078-2001）[10]规定配合饲料中汞的限量标准均为 $0 . 1 \\mathrm { m g / k g }$ 。本研究发现，肉鸡饲料原料中汞元素的检出率均为 $100 \\%$ ，平均含量为 $0 . 0 2 ~ \\mathrm { m g / k g }$ ，最高含量为 $0 . 0 8 ~ \\mathrm { m g / k g }$ ，超标率为 $9 . 5 2 \\%$ （8/84）。因此，饲料原料中汞元素的污染范围较广，污染程度也较严重，这与我国汞的大量使用和排放量较大不无关系。在这些饲料原料中，汞元素的超标率虽然都不高，但玉米、花生粕、棉籽粕和 DDGS中平均含量较高，玉米、豆粕和花生粕中最高含量达到了0.04、0.05 和 $0 . 0 8 \\mathrm { m g / k g }$ ，远远超过食品中污染物限量标准。因此，要着重注意个别饲料原料中汞元素的污染超标情况。镉、砷和铅是食品和饲料中的常见重金属元素，而我国是世界镉、砷和铅生产大国，有色金属矿山的开采和冶炼是环境中镉、砷和铅污染的主要来源[18-20]。我国《食品中污染物限量》（GB 2762-2012）[1规定，谷物及其制品、豆类及其制品中镉、砷和铅的限量标准分别为0.1\\~0.2、0.5 和 $0 . 2 \\mathrm { m g / k g }$ ，《饲料卫生标准》（GB 13078-2001）[10]规定预混料中砷和铅的限量标准为 $1 0 \\ \\mathrm { m g / k g }$ 。本研究发现饲料中镉、砷和铅元素的检出率和超标率均较铬和汞元素低，说明山东省饲料原料中镉、砷和铅元素的污染较轻。通过分析发现，饲料原料中铅和砷元素的检出率、平均含量和最高含量最高的均为微量元素预混料，镉的检出率最高的为微量元素预混料。因此，要着重注意微量元素预混料中镉、铅和砷元素的污染。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "重金属元素的最高含量和HC/AC 能够较为直观的反映样品中重金属元素含量的差异程度，但并不足以更好的反映测定值总体的分布和各个测定个体之间的差异大小。而离散系数既能观测各个测定值之间的差异程度，也是用来衡量风险大小的指标。通过对测定值之间离散系数的测定，既可以反映各个测定个体之间的差异大小，也可以反映测定值分布密度曲线的瘦俏或矮胖程度。用来衡量测定值之间差异程度的指标有很多，在统计分析中常用的主要有极差、平均差和标准差等，标准差最常用。但若单位和（或）平均值不同时，比较其差异程度就不能采用标准差，而需采用标准差与平均值的比值（相对值）来比较。差距越小说明测定值离散程度越小，出现风险的几率越小；差异越大说明测定值离散程度越大，出现风险的几率越大。因此，利用最高含量、离散系数、HC/AC 综合评价重金属元素可能出现严重污染的风险是确实可行的。本研究通过分析最高含量、HC/AC和离散系数结果发现，微量元素预混料中易出现砷、镉、铬和铅严重污染，棉籽粕中易出现铬和铅严重污染，花生粕和豆粕中易出现汞严重污染，微量元素预混料、棉籽粕、花生粕和豆粕中重金属元素污染需引起我们的高度重视。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论通过对肉鸡饲料原料中砷、铅、镉、铬和汞5种重金属元素的检测发现，铬与汞元素污  \n染最严重，微量元素预混料中重金属元素污染严重；微量元素预混料中易出现碑、镉、铬和  \n铅严重污染，棉籽粕中易出现铬和铅严重污染，花生粕和豆粕中易出现汞严重污染。因此，  \n建议制定预混料和饼粕类饲料中多种重金属元素的限量标准。  \n参考文献：  \n[1] 李斌,赵春江.我国当前农产品产地土壤重金属污染形势及检测技术分析[J].农业资源与环境学报,2013,30(5):1-7.  \n[2]刘正旭,梁海媚,张炜哲.罗锡文院士:全国3亿亩耕地受重金属污染威胁[EB/OL].[2011-10-11].http://scitech.people.com.cn/GB/15860531.html.  \n[3] 宋伟,陈百明,刘琳.中国耕地土壤重金属污染概况[J].水土保持研究,2013,12(2):293-298.  \n[4] 原泽鸿,黄选洋,张克英,等.四川省蛋鸡配合饲料及鸡蛋重金属含量分布[J].动物营养学报,2015,27(11):3485-3494.  \n[5] 农业部 2012年全国饲料质量安全监测结果[J].黑龙江畜牧兽医,2013(2):67-70.  \n[6] 班付国,刘占通.动物源性饲料与食品安全[J].中国畜牧杂志,2008,44(4):54-56  \n[7] 潘寻,韩哲,贲伟伟.山东省规模化猪场猪粪及配合饲料中重金属含量研究[J]).农业环境科学学报,2013,32(1):160-165.  \n[8]王飞,邱凌,沈玉君,等.华北地区饲料和畜禽粪便中重金属质量分数调查分析[J].农业工程学报,2015,31(5):261-267.  \n[9]国家标准化管理委员会.GB/T14699.1-2005 饲料采样[S].北京:中国标准出版社,2005.  \n[10] 中华人民共和国国家质量监督检验检疫总局.GB 13078-2001 饲料卫生标准[S].北京:中国标准出版社,2004.  \n[11]中华人民共和国卫生部.GB 2762-2012 食品安全国家标准 食品中污染物限量[S].北京：中国标准出版社,2013.  \n[12]郑灿财,黄艳玲,肖芳.铬源与铬水平对常规饲养肉仔鸡生长性能、免疫器官指数及肉品质的影响[J].动物营养学报,2015,27(8):2378-2387.  \n[13]唐利华,方热军.有机铬的营养与生理作用研究进展[J].动物营养学报,2010,22(5):1186-1191.  \n[14] 古昌红,单振秀,丁社光.铬污染地区植物吸附重金属的研究[J].西南师范大学学报:自然科学版,2008,33(6):48-51.  \n[15]刘婉,李泽琴.水中铬污染治理的研究进展[J].广东微量元素科学,2007,14(9):5-9.  \n[16] 曾少军,曾凯超,杨来.中国汞污染治理的现状与策略研究[J].中国人口·资源与环境,2014,24(Suppl.3):92-96.  \n[17]孙阳昭,陈扬,蓝虹,等.中国汞污染的来源、成因及控制技术路径分析[J].环境化学,2013,32(6):937-942.  \n[18]于炎湖.饲料中的重金属污染及其预防[J].粮食与饲料工业,2001(6):12-14.  \n[19] 周萌,姜波,邱纯森.饲料中的重金属污染及其预防[J].家禽科学,2007(12):30-32.  \n[20]杨晓刚,余东游,许梓荣.动物铅毒性研究进展[J].中国畜牧杂志,2006,42(19):57-59.  \nInvestigation and Risk Assessment of Heavy Metal Polltion of Feedstufs in Broiler Chickens inShandong Province in 2015CHEN FuZHU FenghuaXU DanZHU Lianqin\\*(College ofAnimal Science and Technology, Qingdao Agricultural University, Qingdao 266109,China)  \nAbstract: The experiment was conducted to investigate arsenic (As), lead $( \\mathrm { P b } )$ ， cadmium (Cd),  \nchromium $( \\mathrm { C r } )$ and mercury $\\mathrm { ( H g ) }$ pollution of fedstuffs in broiler chickens in Shandong province  \nin 2005,and assess the risk of feedstufs pollution. Eight feedstuffs including corn, soybean meal,  \nwheat bran, peanut meal, cottonseed meal, corn gluten meal, distillers dried grains with soluble  \n(DDGS) and trace mineral premix used in different feed mills of Laiyang in Yantai, Wendeng in  \nWeihai,Laixi in Qingdao, Zhucheng in Weifan, Juxian in Rizhao, Yishui in Linyi and Xiajin in",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Dezhou were collected,and the contents of Cd,Pb and Cr were detected by inductively coupled plasma atomic emission spectrometry (ICP-AES),and the contents of As and $\\mathrm { H g }$ were detected by atomic fluorescence spectrometry (AFS). Detection rate, average content, over standard rate, the ratio of maximum content to average content (HC/AC) and coefficient of variance were calculated. The results showed that the detection rates of As,Pb, Cd, Cr and $\\mathrm { H g }$ in feedstuffs were $3 2 . 2 9 \\%$ ， $7 . 2 9 \\%$ ， $12 . 5 0 \\%$ ， $100 . 0 0 \\%$ and $100 . 0 0 \\%$ , respectively. Average contents of As, Pb, Cd, $\\mathrm { C r }$ and $\\mathrm { H g }$ （204号 in positive samples were 0.21, 1.27, 2.12, 3.48 and $0 . 0 2 ~ \\mathrm { { m g / k g } }$ , respectively. Over standard rates of As, Pb, Cd, Cr and $\\mathrm { H g }$ in feedstuffs were 0.00, $1 . 0 4 \\%$ ， $1 . 1 9 \\%$ ， $5 4 . 7 6 \\%$ and $9 . 5 2 \\%$ , respectively. HC/AC of As, $\\mathrm { P b }$ and Cd in trace mineral premix, Cr in cottonseed meal and $\\mathrm { H g }$ in peanut meal were the largest. Coefficient of variance of Cd in trace mineral premix, $\\mathrm { H g }$ in peanut meal, As in soybean meal and $\\mathrm { P b }$ and $\\mathrm { C r }$ in cottonseed meal were the largest. It is concluded that $\\mathrm { C r }$ and $\\mathrm { H g }$ pollution is most serious in the feedstuffs,and As, Cd, Cr and $\\mathrm { P b }$ in trace mineral premix, $\\mathrm { C r }$ and Pb in cottonseed meal, $\\mathrm { H g }$ in peanut meal and soybean meal are prone to serious pollution in feedstuffs. Therefore, it is necessary to make limited standards of various heavy metal elements in premix and oilseed meals. Key words:broiler chickens;feedstuffs;arsenic (As); lead $( \\mathrm { P b } )$ ;cadmium (Cd); chromium $( \\mathrm { C r } )$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "mercury $\\mathrm { ( H g ) }$ （204号",
+        "page_idx": 11
+    }
+]

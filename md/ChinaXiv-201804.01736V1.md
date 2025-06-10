@@ -1,0 +1,289 @@
+# DOI:10.5846/stxb201703290550
+
+张学玲,张莹,牛德奎,张文元,李志,李真真,郭晓敏.基于TM NDVI的武功山山地草甸植被覆盖度时空变化研究.生态学报,2018,38（7)：2414-2424.  
+ZhangXL,Zang,,ZgWiZ,ZGuoXiaoaldafupladedowoeageonongotdTM NDVI.Acta Ecologica Sinica,2018,38(7) :2414-2424.
+
+# 基于TMNDVI的武功山山地草甸植被覆盖度时空变化研究
+
+张学玲1,4,张莹²，牛德奎2,4，张文元3,4，李志34，李真真34，郭晓敏3,4，\*
+
+1江西农业大学职业师范学院，南昌330045  
+2 江西农业大学国土资源与环境学院，南昌330045  
+3 江西农业大学林学院，南昌330045  
+4江西省森林培育重点实验室，南昌330045
+
+摘要：以江西省武功山山地草甸为研究区,基于4期TM（Thematic Mapper,专题测图仪）卫星遥感影像,提取NDVI（NormalizedDiference Vegetation Index,归一化植被指数）,采用像元二分模型,运用ENVI5.1和 AreGIS 10.0软件计算得到武功山山地草甸的植被覆盖度分布格局及动态变化。研究结果表明：(1)研究期间山地草甸面积减少了 $9 . 7 2 \%$ ,呈递减趋势。20年来随着武功山风景区成立—旅游业发展—山地草甸生态修复,山地草甸植被覆盖度增加和减少交替,总体呈上升趋势;（2)山地草甸植被覆盖度呈现东南高西北低的空间分布特征。低覆盖度草甸区集中在武功山山脉的西北侧坡面的崖壁和部分山脊线上,而高覆盖度草甸区多分布在武功山山脉的东南坡面;(3)研究区山地草甸退化与改善并存,山地草甸最北端和白鹤峰-九龙山区域的东南坡、南坡低海拔处植被总体呈退化特征；发云界南部的东坡植被总体呈现改善特征。研究期间山地草甸退化面积比改善面积多出 $1 . 7 8 \%$ 。（4)山地草甸植被覆盖度的分布格局和地形因子存在较高的相关性( $\scriptstyle P < 0 . 0 5$ )：植被覆盖度随着坡向的变化而呈规律性的变化,总体上山地草甸植被覆盖度的分布为阳坡>平坡>阴坡;植被覆盖度先是随着坡度的上升而升高,在坡度 $1 5 ^ { \circ }$ 一$2 5 ^ { \circ }$ 时达到峰值,然后随坡度的上升而下降,在 $4 5 ^ { \circ } - 9 0 ^ { \circ }$ 最低;植被覆盖度随海拔升高呈波浪式下降， $1 0 0 0 { - } 1 2 0 0 \mathrm { m }$ 最高,在主峰山顶海拔 $1 8 0 0 { - } 1 9 1 8 . 3 \mathrm { m }$ 最低。遥感解译检验结果证明采用此方法对大面积山地草甸覆盖度分布及变化进行反演可行而准确;在后续研究中将采用不同季相的多期影像数据提取NDVI对研究区植被覆盖度进行长期监测,以便更准确可靠地分析山地草甸演化过程和趋势。
+
+关键词：山地草甸;植被覆盖度;时空变化;NDVI;像元二分模型;武功山
+
+# Spatial-temporal dynamics of upland meadow coverage on Wugong Mountain based on TM NDVI
+
+ZHANG Xueling14， ZHANG Ying²， NIU Dekui24， ZHANG Wenyuan34，LI Zhi $^ { 3 , 4 }$ ，LI Zhenzhen,4,GUOXiaomin
+
+1 Vocational Colege of Teachers， Jiangxi Agricultural University，Nanchang 330045，China   
+2 College of Land Resource and Environment，Jiangxi Agricultural University，Nanchang 33O045,China   
+3 College ofForestry，Jiangxi Agricultural University，Nanchang 330045，China   
+4JiangxiProvincial KeyLaboratoryofForest Cultivation,JiangxiAgriculturalUniversity,Nanchang330o45,China
+
+Abstract：Takingthe upland meadow on Wugong Mountainasa studyarea，and basedon the TM（Thematic Mapper)
+
+remotesensing image，this studyusedENVI5.1and ArcGIS10.O software tocalculate the vegetationcoveragedistribution patern and to analyzethe dynamic changes to upland meadowon Wugong Mountain.Theresults indicated that the area showed a progressively decreasing trend that fell by $9 . 7 2 \%$ during the study period.During the past 2O years，with the establishmentofthe Wugong Mountain Scenic Areaandthe development of tourism，theecological restorationof upland meadow has meant that vegetation coverage has increased;the vegetation coverage distribution characteristics showed that vegetation was high inthe southeast andlowin the northwest.Thelow vegetationcoverage meadow area was concentratedon a precipiceonthe northwest slope and on part ofthe ridgeline，whereas meadow coverage was high on the southeast slope. Thedegradationand improvement of upland meadowcoexisted inthe studyarea.Itwas degraded in the northernmost endof the uplad meadowandthe lowaltitudeareaof the southeastandsouth slopes of Bai Hefeng-Jiu Longshanarea；the vegetation showed improvementonthe southern slopeofFa Yunjie.At the same time,thedistribution patern of vegetation coverage and terrain factors were closely related ( $P$ <0.05） : vegetation coverage showed regular change with the change in aspect.Its distribution was in the order: sunny slope $>$ flat area $>$ shady slope.Vegetation coverage rose firstly with the rise of slope and peaked at $1 5 ^ { \circ } - 2 5 ^ { \circ }$ ，but then fell along with the rise of the slope.It reached its lowest value at $4 5 ^ { \circ } - 9 0 ^ { \circ }$ ： Vegetation coverage showed a wavelike decline with increasing altitude，andachieveda maximum valueatanaltitudeof 1000— $1 2 0 0 \mathrm { m }$ ，and a minimum value at the peak region of 1800—1918.3m.This research showed that the methods employed were feasibleandaccurateand couldbe used to investigate large area distributionsand variations in mountain meadow coverage.However inorder to analyze theevolution and trends on upland meadow more accuratelyand reliably,the image data for diffrent season should beused ina follow-upstudythat includesthe long-term monitoring of vegetation coverage in the study area.
+
+Key Words:upland meadow； vegetation coverage；spatiotemporal variation；NDVI; dimidiate pixel model；Wugong Mountain
+
+植被覆盖度是描述生态系统和反映地表植被分布特征的重要参数,作为区域生态环境改变的重要指标，具有明显的季候和年际变化特征[1-5]。因此,植被覆盖动态变化监测意义深远。遥感技术具有快速实时、监测范围广、人力物力耗费较少、非破坏性等特点[6-7],被广泛应用在植被覆盖动态研究中,其中植被指数已普遍用来评估植被覆盖及其长势。当前运用较广的植被指数有 NDVI、PVI、DVI、RVI等几十种,其中 NDVI（Normalized Difference Vegetation Index,归一化植被指数)与植被覆盖度存在很高的正相关性[8-],可以有效识别植被变化信息[12]。使用NDVI的像元二分模型已广泛应用于植被覆盖动态变化的监测分析[1,5-6,13]。
+
+作为我国陆地生态系统中最大的生态屏障,草地具备防风固沙和水土保持等生态功效,对调节气候、促进生态平衡具有重要作用[1415]。国内外许多学者运用植被指数和相关模型[16.17]估算植被覆盖度,但草地研究仅限于高寒荒漠草甸[6.14,18]和北方草原[19-20],针对中亚热带山地草甸植被覆盖度的研究还不多见。江西武功山山地草甸位于中亚热带,因其基准海拔低、分布面积广,对衡量区域生态环境和气候变化具有重要指示作用。研究显示植被覆盖与气候、地形及人类活动之间的相关性显著。气候因子在长时间序列上对植被生长分布起主要作用,但短期内尤其是禾本科植物,植被覆盖变化主要受人类活动的影响[21]。近几十年来,由于旅游业的发展、过度放牧以及气候变化的影响,山地草甸生态系统日益脆弱[22]。武功山作为鄱阳湖流域重要的水源地和天然屏障,生态地位十分重要,但长期以来针对武功山的研究大多集中在地质景观、旅游开发和土壤养分以及动植物区系等领域[23-25],对其在时空上植被覆盖动态变化的研究还未见报道。本文基于Landsat5TM 数据,提取NDVI,选用像元二分模型,运用 ENVI5.1和 ArcGIS 10.0软件计算得到武功山山地草甸1995、2002、2010 和2015年的植被覆盖度分布格局及动态变化,并剖析地形因子对草甸植被覆盖分布格局的影响，以期为中亚热带山地草甸植被监测与生态保护提供参考。
+
+http://www.ecologica.cn
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+武功山 $( 1 1 4 ^ { \circ } 0 5 ^ { \prime } - 1 1 4 ^ { \circ } 1 5 ^ { \prime } \mathrm { E } , 2 7 ^ { \circ } 2 4 ^ { \prime } - 2 7 ^ { \circ } 3 4 ^ { \prime } \mathrm { N } )$ 地处江西省西北部,位居萍乡市芦溪县、吉安市安福县、宜春市袁州区三地交界处,地属罗霄山脉北部,海拔高达 $1 9 1 8 . 3 \mathrm { m }$ ,为赣江、湘江两大水系的分水岭[20],国家4A级旅游景区。因其海拔较高,山脉垂直陡峻,使气候、植被、土壤的垂直地带性分化明显。武功山山脉属于中亚热带湿润气候,年均日照时间在 $1 5 8 0 { - } 1 8 0 0 \mathrm { h }$ 之间,年平均温度约为14— $\cdot 1 8 . 6 ^ { \circ } \mathrm { C }$ ，年均降雨量为1350-$1 5 7 0 \mathrm { m m }$ ,整体气候温和湿润。绵延几万亩山地草甸主要分布在海拔1400— $1 9 0 0 \mathrm { m }$ ,土壤为山地草甸土,土层厚度在 $3 0 { \mathrm { - } } 5 0 { \mathrm { c m } }$ ,有机质含量较高。在连绵的草地上,主要有禾本科的芒（Miscanthus spp.）、野古草(Arundinella anomala）、箭竹（Fargesia spathacea Franch），莎草科的中华苔草（Carex chinensis）飘拂草(Fimbristylisdichotoma）,菊科的鬼针草(Bidenspilosa)等。 C5
+
+# 1.2 数据来源与处理
+
+武功山地处中亚热带，气候温暖湿润，雨量充沛，日照较少，云多雾重。为减小季节变化及雨季云层对山地草甸景观分析带来的影响，特选取秋季晴朗无云且日期接近的4个年份的遥感数据。研究数据主要来自1995、2002、2010、2015年的Landsat5TM卫星影像，地面卫星站接收时间分别为1995年10月27日、2002年10月14日、2010年11月5日、2015年10月18日，轨道号为122—41，云量均小于 $10 \%$ ,质量良好。影像数据来源为地理空间数据云和美国地质调查局USGS,地图投影坐标为UTM一WGS 84投影坐标系；武功山区域DEM数据(1:10000)来自江西省测绘局。
+
+对TM影像数据进行系统辐射校正以及地面控制点几何校正，在实地调查的基础上，结合监督分类的方法形成1995、2002、2010、2015年武功山4个时期的植被类型图，并通过人机交互解译模式进行修正。在此基础上提取出4期TM影像的山地草甸范围，分别选用TM影像中第3、4两个波段的数据进行植被覆盖度的研究，并选取随机样点进行遥感解译精度检验。
+
+![](images/9a614cf079bb4eaa8afcad2d6776d9f6eb811f83c9ec07e08bc3bd51822ca6b5.jpg)  
+图1 研究区地理位置  
+Fig.1Geographic location of the study area
+
+提取DEM数据的山地草甸范围，运用ArcGIS10.0软件的3D分析模块，生成山地草甸的高程图、坡度图及坡向图。通过重新调整高程、坡度、坡向分级进行重分类,再与草甸植被覆盖度分布图叠加,探讨武功山地形因子对山地草甸植被覆盖度分布格局的影响。
+
+# 1.3研究方法
+
+# 1.3.1像元二分模型
+
+像元二分模型[2]假定一个像元的地表S由有植被覆盖地表和裸土覆盖地表构成。若像元完全由植被所覆盖的纯像元遥感信息为 $S _ { \mathrm { v e g } }$ ,完全由裸土所覆盖的纯像元遥感信息为 $S _ { \mathrm { s o i l } }$ ,则像元植被覆盖度 $f _ { c }$ 为：
+
+$$
+f _ { c } = \left( S - S _ { \mathrm { s o i l } } \right) / ( S _ { \mathrm { v e g } } - S _ { \mathrm { s o i l } } )
+$$
+
+冲， $S _ { \mathrm { s o i l } }$ 和 $S _ { \mathrm { v e g } }$ 是两个关键的因子,要估算像元植被覆盖度,只需要计算土壤和植被的纯像元遥感信息。
+
+该模型除了简单适用,易于推广,另一个特点就是通过引入参数减弱了土壤背景、大气以及植被类型等的
+
+影响。
+
+# 1.3.2基于NDVI估算植被覆盖度
+
+归一化植被指数(NDVI)为反映植被生长状态的重要参数,是遥感图像中近红外波段 $\mathrm { N I R } \left( 0 . 7 \mathrm { - } 1 . 1 \mu \mathrm { m } \right)$ （20号的反射值与红光波段 $\mathrm { R } ( 0 . 4 { - } 0 . 7 \mu \mathrm { m } )$ 的反射值之差和二者之和的比值。NDVI采用比值形式，能够消减大部分与太阳角、云阴影、地形和仪器定标等有关的辐照度变化，以此加强对植被的响应。因此,NDVI是指示植物空间分布密度和生长状态的有效因子[27]。
+
+把 NDVI代入像元二分模型,即得出基于 NDVI的植被覆盖度像元二分模型,其公式为：
+
+$$
+F _ { c } = \mathrm { ( N D V I \mathrm { ~ - ~ } N D V I _ { s o i l } ) / ( N D V I _ { v e g } \mathrm { ~ - ~ } N D V I _ { s o i l } ) }
+$$
+
+式中， $\mathrm { \Delta N D V I _ { s o i l } }$ 是全部由裸土覆盖区域的NDVI值, $\mathrm { \Delta N D V I _ { v e g } }$ 是全部由植被覆盖区域的NDVI值,此模型对各种分辨率的遥感数据都适用[28]。 C
+
+确定 $\mathrm { \Delta N D V I _ { \mathrm { m a x } } }$ 与 $\mathrm { \Delta N D V I _ { \mathrm { { m i n } } } }$ 的值是像元二分模型的关键,因为选用 $\mathrm { \Delta N D V I _ { v e g } }$ 与 $\mathrm { \Delta N D V I _ { s o i l } }$ 一般为遥感影像中置信区间(已给定置信度)内的最大值 $\mathrm { \Delta N D V I _ { \mathrm { m a x } } }$ 与最小值 $\mathrm { \Delta N D V I _ { \mathrm { { m i n } } } }$ 。本研究分别对4期 NDVI数据进行直方图的统计分析,分别在累积概率 $9 5 \%$ 和 $5 \%$ 处确定 $\mathrm { \Delta N D V I _ { \mathrm { { m a x } } } }$ 和 $\mathrm { \Delta N D V I _ { \mathrm { { m i n } } } }$ 。因此可转换为公式(3)来计算植被覆盖度：
+
+$$
+F _ { _ C } = \mathrm { ( N D V I { - N D V } I _ { \mathrm { m i n } } ) / ( N D V I _ { \mathrm { m a x } } { - N D V } I _ { \mathrm { s o i l } } ) }
+$$
+
+以此可反演得到武功山山地草甸4个时期的植被覆盖度。
+
+# 1.3.3山地草甸植被覆盖度等级划分
+
+因为植被覆盖度 $F _ { c }$ 介于[0,1]之间,结合武功山植被覆盖的实际情况,并根据已有研究结果[29],采用等间距重分类将武功山山地草甸植被覆盖度分为3个等级： $\textcircled{1}$ 低覆盖植被区， $F _ { c } { < } 0 . 3$ ,等级值为1; $\textcircled{2}$ 中覆盖植被区， $0 . 3 \leqslant F _ { _ c } < 0 . 6$ ，等级值为2； $\textcircled{3}$ 高覆盖植被区， $\textstyle F _ { c } { \widehat { \geq } } 0 . 6$ ，等级值为3。然后依据分类指标计算，即得到山地草甸各个时期植被覆盖度的分布格局。
+
+# 1.3.4山地草甸各期植被平均覆盖度
+
+以植被覆盖度等级面积加权平均估算山地草甸各期植被平均覆盖度。若高、中、低植被覆盖度等级面积分别为 $S _ { 3 } \setminus S _ { 2 } \setminus S _ { 1 }$ ,对应的覆盖度取值分别为 $3 、 2 、 1$ ,由公式(4)计算得到武功山山地草甸各时期植被平均覆盖度。
+
+# 1.3.5 山地草甸植被覆盖度动态分析
+
+利用差值法量化不同时期之间的植被覆盖度变化 $\Delta F _ { g }$ ,如公式（5）：
+
+$$
+\triangleleft _ { F _ { g } } = F _ { \mathrm { g y e a r 2 } } - F _ { \mathrm { g y e a r 1 } }
+$$
+
+式中， $F _ { g \mathrm { y e a r 1 } }$ 和 $F _ { g \mathrm { y e a r 2 } }$ 分别为前后2个不同时期的植被覆盖度等级。
+
+按以下标准对覆盖度等级差值进行划分： $\textcircled{1}$ 当 $\Delta F _ { g } = 3$ 时记为极度改善; $\textcircled{2}$ 当 $\Delta F _ { g } = 2$ 时记为中度改善； $\textcircled{3}$ 当 $\Delta F _ { g } = 1$ 时记为轻微改善； $\textcircled{4}$ 当 $\Delta F _ { g } = 0$ 时记为未变化; $\textcircled{5}$ 当 $\Delta F _ { _ { g } } = - 1$ 时记为轻微退化; $\textcircled{6}$ 当 $\Delta F _ { _ { g } } = - 2$ 时记为中度退化； $\textcircled{7}$ 当 $\Delta F _ { g } = - 3$ 时记为严重退化。以此来反映植被覆盖度变化的程度。
+
+# 2结果与分析
+
+本研究对于解译结果的精度检验主要是通过在整个研究区选取随机样点90个,然后通过实地调研以及同一时期的各景观类型分布图进行对比,在 ENVI5.1的基础上分析各景观类型的解译精度计算得出,Kappa指数分别为0.80（1995年）、0.84（2002年）、0.81（2010年)和0.85（2015年），均达到 $8 0 \%$ 以上,基本可以满足研究的要求;同时表明了本研究采用的解译方法是切实而可行的。
+
+# 2.1山地草甸植被覆盖度空间分布特征
+
+将 $\mathrm { \Delta N D V I _ { s o i l } }$ 和 $\mathrm { \Delta N D V I _ { v e g } }$ 代入基于NDVI的像元二分模型,计算得出山地草甸4个时期的植被覆盖度。运用ENVI5.1软件生成山地草甸植被覆盖度图,在此基础上按其等级进行密度分割,得到武功山山地草甸
+
+1995 年、2002年、2010 年和2015年4个时期植被覆盖度空间格局图（图2）。
+
+![](images/4b1d6d335b33880d85d801fd3f079b89341dc6632b1e4cd33efbd51be614db04.jpg)  
+图2武功山山地草甸4个时期植被覆盖度空间格局  
+Fig.2Vegetation coverage degree of upland meadow in four periods
+
+分析结果表明,总体上植被覆盖度在空间上呈现东南高西北低的分布特征。低覆盖度草甸区集中在武功山山脉的部分山脊线上和西北侧坡面的崖壁,而高覆盖度草甸区多分布在武功山山脉的东南坡面,坡度相对较缓,说明山地草甸的分布和坡向、坡度密切相关。在3种植被覆盖度区中,高覆盖度草甸区所占比例最大,4个时期分别占到山地草甸总体面积的 $5 8 . 3 1 \%$ ） $6 9 . 8 8 \%$ ， $6 2 . 4 5 \%$ 和 $6 3 . 6 9 \%$ ,反映了武功山山地草甸良好的植被覆盖状况。
+
+表1武功山山地草甸4个时期植被覆盖度特征  
+Table1Characters of vegetation coverage of upland meadow in four periods   
+
+<html><body><table><tr><td rowspan="2">覆盖度 Vegetation coverage</td><td colspan="2">1995</td><td colspan="2">2002</td><td colspan="2">2010</td><td colspan="2">2015</td></tr><tr><td>面积 Area/km²</td><td>比例 Ratio/%</td><td>面积 Area/km²</td><td>C 比例 Ratio/%</td><td>面积 Area/km²</td><td>比例 Ratio/%</td><td>面积 Area/km²</td><td>比例 Ratio/%</td></tr><tr><td>高植被覆盖度区 High-coverage</td><td>23.33</td><td>58.31</td><td>25.91</td><td>69.88</td><td>22.64</td><td>62.45</td><td>23.00</td><td>63.69</td></tr><tr><td>中植被覆盖度区 Medium-coverage</td><td>13.86</td><td>34.64</td><td>9.96</td><td>26.86</td><td>12.09</td><td>33.34</td><td>12.80</td><td>35.44</td></tr><tr><td>低植被覆盖度区Low-coverage</td><td>2.82</td><td>7.06</td><td>1.21</td><td>3.26</td><td>1.52</td><td>4.20</td><td>0.32</td><td>0.87</td></tr><tr><td>合计Total/km²</td><td>40.01</td><td>100.00</td><td>37.08</td><td>100.00</td><td>36.25</td><td>100.00</td><td>36.12</td><td>100.00</td></tr></table></body></html>
+
+对植被覆盖度空间分布统计得到各覆盖度等级的面积,表1中显示,山地草甸面积20年来呈递减趋势,2015 年比1995 年减少了 $9 . 7 2 \%$ 。这可能和全球气候变化,林草过渡带上移有关。1995 年低植被覆盖度区面积占当年草甸面积的 $7 . 0 6 \%$ ,所占比例远高于2015年的 $0 . 8 7 \%$ ,面积高出 $2 . 5 0 \mathrm { k m } ^ { 2 }$ 。20 世纪90 年代武功山山地草甸开展大规模的放牧，过度踩踏与啃噬可能是研究初期低植被覆盖度草甸占很大面积的的直接原因。中植被覆盖度区面积在20年期间呈先降低后增长的趋势,但总体上降低,2015 年比1995年减少了 $7 . 6 3 \%$ ,计$1 . 0 6 \mathrm { k m } ^ { 2 } \circ$ 而高植被覆盖度区面积先增加后减少,2010 年为最低点 $2 2 . 6 4 \mathrm { k m } ^ { 2 }$ ,2015 年比 2010 年增加 $1 . 6 2 \%$ 。从1995—2015年的植被覆盖度图看,不同时期之间植被覆盖度有上升和下降,反映出植被覆盖度在时间序列上的变化。
+
+由公式(4)计算得到武功山山地草甸4个时期植被平均覆盖度(图3),可以看出研究期间山地草甸平均植被覆盖度呈波浪式变化。1995—2002年间植被覆盖度呈增长趋势,从2.51上升到2.71。之后至2010 年期间植被覆盖度一直降低,在最后5年有所上升,2015 年达到2.70。研究期间山地草甸平均植被覆盖度总体呈上升趋势。
+
+这可能主要和近20年来的武功山风景区旅游业的发展密切相关。1997年武功山风景区成立,山地草甸从自然状态到有序管理状态,1995年到2002年期间草甸植被覆盖度从2.51增长到2.71。但随着旅游业发展,旅游设施建设,游人踩踏、露营,使得武功山的优质草甸资源受到严重威胁。而武功山地处萍乡、吉安、宜春3市区的行政交界处，受利益驱使无序的旅游开发更加重了山地草甸的退化，2010年期间草甸植被覆盖度降低至2.62。从2012年以来开展的山地草甸生态修复是2010年至2015年期间草甸覆盖度上升的直接原因。随着管理的不断完善，植被覆盖状况总体上趋于好转。当然，由于自然、社会因素影响的复杂性，山地草甸植被覆盖度的变化趋势和20年来气候因子的波动也有很大关系。
+
+# 2.2山地草甸植被覆盖度动态变化
+
+y= 0.0464x + 2.5186利用 2.70 R² = 0.4341 i2.71 2.702.60 2.622.552.502.512.452.401995 2002 2010 2015年份Year
+
+为了揭示武功山山地草甸20 年间植被覆盖度动态变化过程及特征,采用植被覆盖度等级的差值量化分析1995—2015年间的4期数据,通过ENVI5.1软件对4期数据的植被覆盖度等级图分别进行叠加运算,得到山地草甸不同时期各等级植被覆盖度转移矩阵。
+
+![](images/ca8f55ae6874e704be4ceb4d14eefedee9f5481da347d6e120c49b48fcf51afb.jpg)  
+图3山地草甸4个时期平均植被覆盖度变化趋势  
+Fig.3Change trend of average vegetation coverage in four periods   
+图4武功山山地草甸4个时期植被覆盖度差值  
+Fig.4Vegetation coverage changes of upland meadow in four periods
+
+由图4中可以看出,1995—2002 年间山地草甸的发云界北端区域和九龙山西、南端,植被覆盖度降低区域大于增加的区域,植被状况有所下降;但在九龙山和百鹤峰的西北坡及发云界南部的东坡植被覆盖度有大面积的增加,总体植被状况好转。2002—2010 年山地草甸的北端和白鹤峰铁蹄峰之间的西北坡以及九龙山西端植被状况明显下降,铁蹄峰附近西南坡植被明显增加,发云界以东的区域植被有所恢复,但整体上为降低趋势。2010—2015年由于林草过渡带上移,山地草甸的阴坡低海拔处退化为非草甸类型,阳坡植被覆盖度增加明显。1995—2015年 20 年间,草甸北端覆盖度下降趋势明显,九龙山西端有大面积植被退化,但在白鹤峰铁蹄峰区域的北坡、山脊，发云界南部的东坡植被覆盖度增加。
+
+表21995一2002年山地草甸植被覆盖度等级转移矩阵  
+Table 2Transfer matrix of vegetation coverage in 1995—2002   
+http://www.ecologica.cn   
+
+<html><body><table><tr><td>等级</td><td colspan="9">1995年Year</td></tr><tr><td>Degree</td><td colspan="2">非草甸用地</td><td colspan="2">低覆盖度草甸</td><td colspan="2">中覆盖度草甸</td><td colspan="2">高覆盖度草甸</td></tr><tr><td></td><td>面积 Area/km²</td><td>比例 Ratio/%</td><td>面积 Area/km²</td><td>比例 Ratio/%</td><td>面积 Area/km²</td><td>比例 Ratio/%</td><td>面积 Area/km²</td><td>比例 Ratio/%</td></tr><tr><td>2002 年Year</td><td>非草甸用地</td><td>0.00</td><td>0.00</td><td>0.44</td><td>15.54</td><td>1.69</td><td>12.20</td><td></td><td>27.68</td></tr><tr><td>低覆盖度草甸</td><td></td><td></td><td>3.77</td><td>0.61</td><td>21.42</td><td>0.28</td><td>2.02</td><td>6.46 0.11</td><td>0.48</td></tr><tr><td></td><td>中覆盖度草甸</td><td>0.21 0.76</td><td>13.44</td><td>0.73</td><td>26.00</td><td>7.38</td><td>53.28</td><td>1.08</td><td>4.63</td></tr><tr><td></td><td>高覆盖度草甸</td><td>4.68</td><td>82.78</td><td>1.05</td><td>37.04</td><td>4.50</td><td>32.50</td><td>15.68</td><td>67.21</td></tr><tr><td></td><td>合计/km²</td><td>5.65</td><td>100.00</td><td>2.83</td><td>100.00</td><td>13.86</td><td>100.00</td><td>23.33</td><td>100.00</td></tr></table></body></html>
+
+Table 3Transfer matrix of vegetation coverage in 2oo2—2010   
+
+<html><body><table><tr><td rowspan="2">年份 Year</td><td rowspan="2">等级 Degree</td><td colspan="8">2002年Year</td></tr><tr><td colspan="2">非草甸用地 No meadow</td><td colspan="2">低覆盖度草甸 Low-coverage</td><td colspan="2">中覆盖度草甸 Medium-coverage</td><td colspan="2">高覆盖度草甸 High-coverage</td></tr><tr><td colspan="2"></td><td>面积 Area/km²</td><td>比例 Ratio/%</td><td>面积 Area/km²</td><td>比例 Ratio/%</td><td>面积 Area/km²</td><td>比例 Ratio/%</td><td>面积 Area/km²</td><td>比例 Ratio/%</td></tr><tr><td rowspan="5">2010年Year</td><td>非草甸用地</td><td>0.00</td><td>0.00</td><td>0.13</td><td>11.08</td><td>0.20</td><td>8.05</td><td>2.80</td><td>10.80</td></tr><tr><td>低覆盖度草甸</td><td>0.06</td><td>2.53</td><td>0.41</td><td>34.23</td><td>0.27</td><td>2.67</td><td>0.79</td><td>3.03</td></tr><tr><td>中覆盖度草甸</td><td>0.67</td><td>28.93</td><td>0.49</td><td>40.86</td><td>7.01</td><td>70.36</td><td>3.92</td><td>15.12</td></tr><tr><td>高覆盖度草甸</td><td>1.58</td><td>68.54</td><td>0.17</td><td>13.83</td><td>2.49</td><td>24.97</td><td>18.41</td><td>71.05</td></tr><tr><td>合计/km²</td><td>2.30</td><td>100.00</td><td>1.21</td><td>100.00</td><td>9.96</td><td>100.00</td><td>25.91</td><td>100.00</td></tr></table></body></html>
+
+表32002一2010年山地草甸植被覆盖度等级转移矩阵  
+表42010一2015年山地草甸植被覆盖度等级转移矩阵  
+
+<html><body><table><tr><td rowspan="3">年份 Year</td><td rowspan="3">等级 Degree</td><td colspan="2"></td><td colspan="2">2010年Year</td><td colspan="2"></td><td colspan="2"></td></tr><tr><td colspan="2">非草甸用地 No meadow</td><td colspan="2">低覆盖度草甸 Low-coverage</td><td colspan="2">中覆盖度草甸 Medium-coverage</td><td colspan="2">高覆盖度草甸 High-coverage</td></tr><tr><td>面积 Area/km²</td><td>比例 Ratio/%</td><td>面积 Area/km²</td><td>比例 Ratio/%</td><td>面积 Area/km²</td><td>比例</td><td>面积</td><td>比例</td></tr><tr><td rowspan="5">2015年Year</td><td>非草甸用地</td><td>0.00</td><td>0.00</td><td>0.55</td><td>11.08</td><td>1.40</td><td>Ratio/% 8.05</td><td>Area/km² 6.43</td><td>Ratio/% 10.80</td></tr><tr><td>低覆盖度草甸</td><td>0.01</td><td>2.53</td><td>0.19</td><td>34.23</td><td>0.04</td><td>2.67</td><td>0.08</td><td>3.03</td></tr><tr><td>中覆盖度草甸</td><td>1.49</td><td>28.93</td><td>0.33</td><td>40.86</td><td>8.08</td><td>70.36</td><td>2.90</td><td>15.12</td></tr><tr><td>高覆盖度草甸</td><td>6.76</td><td>68.54</td><td>0.45</td><td>13.83</td><td>2.57</td><td>24.97</td><td>13.23</td><td>71.05</td></tr><tr><td>合计/km²</td><td>8.26</td><td>100.00</td><td>1.52</td><td>100.00</td><td>12.08</td><td>100.00</td><td>22.64</td><td>100.00</td></tr></table></body></html>
+
+从表2—4可以进一步了解各覆盖度等级植被相互转移面积和比例。1995—2002年间总体植被状况有所好转的原因是 $5 . 6 5 \mathrm { k m } ^ { 2 }$ 的非草甸区域得以改善，成为不同植被覆盖度的山地草甸；有 $1 . 7 8 \mathrm { k m } ^ { 2 }$ 低覆盖度草甸转化为中、高覆盖度草甸， $4 . 5 0 \mathrm { k m } ^ { 2 }$ 中覆盖度草甸转化为高覆盖度草甸。改善面积 $1 1 . 9 4 \mathrm { k m } ^ { 2 }$ 高于退化面积$1 0 . 3 4 \mathrm { k m } ^ { 2 }$ 。2002—2010 年期间 $7 . 5 0 \mathrm { k m } ^ { 2 }$ 高覆盖度草甸退化为非草甸用地和中、低覆盖度草甸,所以尽管同时$2 . 3 0 \mathrm { k m } ^ { 2 }$ 非草甸用地改善为不同植被覆盖度的草甸,总体仍表现为退化趋势。2010—2015 年草甸覆盖度变化趋势有所改变， $8 . 2 6 \mathrm { k m } ^ { 2 }$ 非草甸用地改善为不同植被覆盖度的草甸， $3 . 3 5 \mathrm { k m } ^ { 2 }$ 草甸覆盖度明显增加,在这个期间山地草甸为生态修复阶段。
+
+由表5可以看出，1995—2015 年期间 $8 . 0 2 \mathrm { k m } ^ { 2 }$ 非草甸面积转移为山地草甸;同时 $1 1 . 9 2 \mathrm { k m } ^ { 2 }$ 各等级植被覆盖度的草甸转移为非草甸类型。高植被覆盖度草甸转移明显,其中 $9 . 4 3 \mathrm { k m } ^ { 2 }$ 转化为林地等非草甸用地,是山地草甸面积减少的重要原因。低等级覆盖度草甸转化为高等级覆盖度草甸面积为 $5 . 1 4 \mathrm { k m } ^ { 2 }$ ,远大于高等级覆盖度草甸转化为低等级覆盖度草甸的面积 $1 . 4 8 \mathrm { k m } ^ { 2 }$ ,所以20 年间山地草甸植被覆盖度状况整体表现出上升的特征。
+
+Table 4 Transfer matrix of vegetation coverage in 2010-2015   
+表51995一2015年山地草甸植被覆盖度等级转移矩阵  
+Table 5Transfer matrix of vegetation coverage in 1995—2015   
+
+<html><body><table><tr><td>非草甸用地</td><td colspan="9">1995年Year</td></tr><tr><td></td><td colspan="2">No meadow</td><td colspan="2">低覆盖度草甸 Low-coverage</td><td colspan="2">中覆盖度草甸 Medium-coverage</td><td colspan="2">高覆盖度草甸 High-coverage</td></tr><tr><td>面积 Area/km²</td><td></td><td>比例 Ratio/%</td><td>面积 Area/km²</td><td>比例 Ratio/%</td><td>面积 Area/km²</td><td>比例 Ratio/%</td><td>面积 Area/km²</td><td>比例 Ratio/%</td></tr><tr><td>非草甸用地</td><td>0.00</td><td>0.00</td><td>1.17</td><td>41.53</td><td>1.31</td><td>9.46</td><td>9.43</td><td>40.43</td></tr><tr><td>低覆盖度草甸</td><td>0.03</td><td>0.40</td><td>0.18</td><td>6.29</td><td>0.07</td><td>0.48</td><td>0.04</td><td>0.17</td></tr><tr><td>中覆盖度草甸</td><td>1.66</td><td>20.74</td><td>0.95</td><td>33.50</td><td>8.82</td><td>63.64</td><td>1.37</td><td>5.88</td></tr><tr><td>高覆盖度草甸</td><td>6.33</td><td>78.86</td><td>0.53</td><td>18.68</td><td>3.66</td><td>26.42</td><td>12.49</td><td>53.53</td></tr><tr><td>合计/km²</td><td>8.02</td><td>100.00</td><td>2.83</td><td>100.00</td><td>13.86</td><td>100.00</td><td>23.33</td><td>100.00</td></tr></table></body></html>
+
+# 2.3山地草甸植被覆盖度变化的空间差异性分析
+
+在研究区植被覆盖度等级的差值量化分析的基础上，对1995—2015年间山地草甸植被覆盖度等级变化的空间差异进行具体分析(图5和表6）。
+
+植被覆盖度等级面积变化统计结果表明，1995—2015年间全球气候变化，研究区复杂的地质地形和多样的人为干扰，使山地草甸退化与改善并存。山地草甸最北端、九龙山的最西端和白鹤峰-九龙山区域的东南坡、南坡低海拔处植被总体有退化趋势；发云界南部的东坡植被呈现改善趋势。植被退化区域在20年间面积达到 $1 3 . 3 9 \mathrm { k m } ^ { 2 }$ ,占武功山山地草甸总面积的 $2 8 . 0 7 \%$ ,其中重度退化面积为 $9 . 4 3 \mathrm { k m } ^ { 2 }$ ,占草甸总面积的 $1 9 . 7 7 \%$ ;同时 $2 . 8 3 \%$ 为中度退化草甸， $5 . 4 7 \%$ 为轻度退化草甸。研究期间 $1 3 . 1 6 \mathrm { k m } ^ { 2 }$ 草甸呈现改善特征，占山地草甸总面积的 $2 7 . 5 8 \%$ 。其中 $9 . 7 2 \%$ 为轻度改善区， $4 . 5 9 \%$ 为中度改善区， $1 3 . 2 6 \%$ 为极度改善区，其中极度改善面积为$6 . 3 3 \mathrm { k m } ^ { 2 }$ ,所占比例较大。
+
+# 2.4山地草甸植被覆盖度的地形因子分异研究
+
+山区地形特征是一个多维变量，不同坡向、坡度和高程具有不同的水热条件分布和养分移动堆积的特点，在某一特征尺度上不同的特征对山地草甸植被覆盖度
+
+![](images/a587c63059f481b05fa773d8135e1dcb5deae652d2e68de0f893ee3811b1f633.jpg)  
+图51995一2015年山地草甸植被覆盖度变化的空间差异性Fig.5Spatial difference of vegetation coverage change of uplandmeadowin1995—2015
+
+的影响强度将会发生不同梯度的变化[30]。武功山山势陡峻,地形复杂,对植被覆盖度的分布格局有很大的影响。
+
+表61995一2015年山地草甸植被覆盖度等级变化  
+Table 6Area of vegetation coverage change in 1995—2015   
+
+<html><body><table><tr><td rowspan="3">类项 Item</td><td colspan="3">退化Degraded</td><td rowspan="3">未变化 No change</td><td colspan="3">改善 Improved</td></tr><tr><td>重度 Serious</td><td>中度 Medium</td><td>轻度 Slight</td><td>重度 Serious</td><td>中度 Medium</td><td>轻度 Slight</td></tr><tr><td>面积 Area/km²</td><td>9.43</td><td>1.35</td><td>2.61</td><td>21.16</td><td>4.64</td><td>2.19</td><td>6.33</td></tr><tr><td>比例 Ratio/%</td><td>19.77</td><td>2.83</td><td>5.47</td><td>44.35</td><td>9.72</td><td>4.59</td><td>13.26</td></tr><tr><td>合计 Total/%</td><td></td><td>28.07</td><td></td><td>44.35</td><td></td><td>27.58</td><td></td></tr></table></body></html>
+
+# 2.4.1不同坡向植被覆盖度的变化
+
+T 将从研究区DEM数据提取的坡向分为9个坡向带：平坡、正北、东北、正东、东南、正南、西南、正西和西北。平坡为 $0 ^ { \circ }$ ,正北方向是 $3 3 7 . 5 ^ { \circ }$ 一 $3 6 0 ^ { \circ }$ 和0 $. 2 2 . 5 ^ { \circ }$ 两个坡向,其余7个坡向分级依次为 $2 2 . 5 ^ { \circ } - 6 7 . 5 ^ { \circ }$ ，67.5°—112.5°,112.5°—157.5°,157.5°—202.5°, $2 0 2 . 5 ^ { \circ }$ 247.5°， $2 4 7 . 5 ^ { \circ }$ 1 $\cdot 2 9 2 . 5 ^ { \circ }$ $2 9 2 . 5 ^ { \circ }$ 337.5°，然后统计不同坡向的山地草甸植被覆盖度。
+
+坡向是决定某一坡面接收太阳辐射的强度以及水分分布的一个重要的环境因子[30]。从图6可以看出,由于不同的坡向接受的阳光照射的时间以及热量、水分的差异,植被覆盖度随着坡向的变化呈现出有规律的变化[31]。山地草甸在东南坡向植被覆盖度最高,其次是正南坡向和正东坡向;植被覆盖度最低的是西北坡向和正北坡向。主要因为在阳坡与半阳坡接收的太阳辐射相对较强,昼夜温差较大,水分蒸发量较多,更适宜草甸植被的生长[30]。武功山东南坡向的半阳坡,可能是集中了阳坡、阴坡的优点,使得水分和温度更为适中,从而植被覆盖较阳坡稍高。总体上山地草甸植被覆盖度的分布规律为阳坡 $>$ 平坡 $>$ 阴坡。
+
+# 2.4.2不同坡度植被覆盖度的变化
+
+参照《土壤侵蚀分类分级标准》（SL190—1996),根据临界坡度分级法,将草甸分布区DEM数据的坡度重分类为6级，0一 $. 5 ^ { \circ }$ 为第1级, $5 ^ { \circ } - 1 0 ^ { \circ }$ 为第2级, $1 0 ^ { \circ } - 1 5 ^ { \circ }$ 为第3级, $1 5 ^ { \circ } - 2 5 ^ { \circ }$ 为第4级, $2 5 ^ { \circ }$ 一 $. 4 5 ^ { \circ }$ 为第5级,$4 5 ^ { \circ } - 9 0 ^ { \circ }$ 为第6级,然后统计不同坡度级山地草甸的平均植被覆盖度。 C)
+
+坡度的不同,直接影响到土壤的母质组成、土层厚度、有机质含量和土壤养分等基本属性。另外,也影响着太阳辐射的量值和水分分布的差异,从而将进一步影响到坡面的植被覆盖[30]。从图7可以看出,植被覆盖度先是随着坡度的上升而升高,在坡度 $1 5 ^ { \circ } - 2 5 ^ { \circ }$ 时达到最高,然后随坡度的上升而下降,在 $4 5 ^ { \circ } - 9 0 ^ { \circ }$ 最低。$4 5 ^ { \circ } - 9 0 ^ { \circ }$ 和坡度小的区域之间差异显著( $\scriptstyle ( P < 0 . 0 5 )$ 。坡度大的区域 $( 4 5 ^ { \circ } - 9 0 ^ { \circ } )$ 植被覆盖度降低是因为武功山地形复杂,坡陡处因雨水冲刷,造成水土流失,土层较薄,草甸分布稀少,且某些区域为裸露的岩石和崖壁。
+
+![](images/bf39e350601dde1dd05a05aeb7110672d6ade45e460b4277331adacde3c478f9.jpg)  
+图6坡向对山地草甸植被覆盖度的影响 Fig.6The influence of aspect to vegetation coverage
+
+![](images/d8eb56bbd458441cf4a90542dddbe94f49751f238cb4a230a72d962e7bb97789.jpg)  
+图7坡度对山地草甸植被覆盖度的影响  
+Fig.7The influence of slope to vegetation coverage   
+图8高程带对山地草甸植被覆盖度的影响  
+Fig.8The influence of elevation zone to vegetation coverage
+
+# 2.4.3 不同海拔高度植被覆盖度的变化
+
+为了分析海拔高度对植被覆盖度的影响,将草甸范围的DEM数据进行重分类为7个高程带,海拔范围分别是 ≤800,800—1000,1000—1200,1200—1400,1400—1600,1600—1800,1800—1918.3m,分为7个等级,然后统计山地草甸不同高程带的植被覆盖度。
+
+从图8可以看出，不同高程带之间无显著性差异（ $P { > } 0 . 0 5$ )，植被覆盖度随海拔升高呈波浪式下降，1000—1200m最高，在海拔1800—1918.3m最低。表明随着高程的增加，气温下降，降雨量、相对湿度及风力在一定高度上则随之增加，土壤状况随着高程的变化也呈现垂直地带性的变异。这些自然环境状况随高程变化的规律同时也影响着山地草甸覆盖度的分布，使之越来越低[30]。加之金顶作为核心景区,受到旅游活动影响最为严重,所以山顶山地草甸退化明显。
+
+利 2.50   
+2.00   
+1.50   
+1.00   
+0.50 0 008 V/ 0001 0 1000 —000I 0044 0 009I —00t 008[ 009I 18115- 0 -0081 8 1 4 高程带 Elevation zone/m
+
+# 3结论与讨论
+
+# 3.1结论
+
+以武功山山地草甸为研究区,基于1995、2002、2010和2015年4期TM遥感影像,提取NDVI,采用像元二分模型,运用ENVI5.1和ArcGIS 10.0软件计算得到研究区的植被覆盖度分布格局与动态及其与地形因子的
+
+相关性。
+
+(1)研究期间山地草甸面积呈递减趋势,2015 年比1995年减少了 $9 . 7 2 \%$ 。不同时期之间植被覆盖度有上升和下降,20年来随着武功山风景区成立—旅游业发展—山地草甸生态修复,山地草甸平均植被覆盖度先升高再降低,然后再升高,总体呈上升趋势,反映了植被覆盖度在时间序列上的变异。
+
+(2)植被覆盖度空间格局特征分析表明,总体上植被覆盖度呈现出东南高西北低的空间分布特征。低覆盖度草甸区集中在武功山山脉的西北侧坡面的崖壁和部分山脊线上，而高覆盖度草甸区多分布在武功山山脉坡度较缓的东南坡面。在3种植被覆盖度区中,高覆盖度草甸区所占比例最大,反映了武功山山地草甸良好的植被覆盖状况。
+
+(3)研究区山地草甸退化与改善并存。山地草甸最北端和白鹤峰-九龙山区域的东南坡、南坡低海拔处植被总体呈退化特征;发云界南部的东坡植被总体呈改善特征。研究期间山地草甸总面积的 $4 4 . 3 5 \%$ 覆盖度等级未变化,退化面积占草甸总面积的 $2 8 . 0 7 \%$ ,草甸总面积的 $2 7 . 5 8 \%$ 的植被得到改善。/
+
+(4)地形因子对山地草甸植被覆盖度分布格局的影响显著( $P { < } 0 . 0 5 \$ )：植被覆盖度随着坡向的变化而呈规律性的变化,总体上山地草甸植被覆盖度的分布为阳坡 $>$ 平坡 $\cdot >$ 阴坡;植被覆盖度先是随着坡度的上升而升高,在坡度 $1 5 ^ { \circ } - 2 5 ^ { \circ }$ 时达到峰值,然后随坡度的上升而下降，在 $4 5 ^ { \circ }$ 一 $9 0 ^ { \circ }$ 达到最低, $4 5 ^ { \circ } - 9 0 ^ { \circ }$ 和坡度小的区域之间差异显著( $P { < } 0 . 0 5 \mathrm { ~ , ~ }$ ;植被覆盖度随海拔升高呈波浪式下降， $1 0 0 0 { \ - } { \ - } 1 2 0 0 \mathrm { m }$ 最高,在主峰海拔1800—$1 9 1 8 . 3 \mathrm { m }$ 最低。 C
+
+# 3.2讨论
+
+研究表明,利用NDVI进行植被盖度监测能够消弱由各种环境因子带来的噪音和干扰[32],使用 NDVI的像元二分模型对植被覆盖度模拟,其精度对比其他植被指数灵敏度较高[6]。本研究将 $\mathrm { \Delta N D V I _ { s o i l } }$ 和 $\mathrm { \Delta N D V I _ { v e g } }$ 代人基于 NDVI的像元二分模型,得到武功山20 年间山地草甸植被覆盖度的空间演变过程,同时遥感解译精度检验结果证明采用此方法对大面积山地草甸覆盖度分布及变化进行反演可行而准确。
+
+在数据源上,本研究采用4个年度节点的TM遥感影像数据,未使用多源 NDVI数据集进行相互验证。草地覆盖具有明显的时空动态性,并且受植被类型、人类活动、气候变化等条件的影响,植被覆盖度的最大值和最小值与研究区所在区域、时相、植被类型和图像空间分辨率等因素有关[26]。另外,本研究TM影像数据来自10—11月份,此时部分群落如芒、野古草、飘拂草已经枯黄,这可能是本研究中 $\mathrm { \Delta N D V I _ { v e g } }$ 值比实测值偏低的原因。因此,在后续的研究中应采用不同季相的多期影像数据提取NDVI对研究区植被覆盖度进行长期监测,并探索使用时相变换方法[33],以更准确可靠地分析山地草甸演化过程和趋势。
+
+# 参考文献（References）：
+
+[1］孙守涛，王立，车克钧.基于Landsat数据的白龙江上游迭部林区植被覆盖度动态变化.四川农业大学学报，2016,34（1）：39-47.  
+[2］胡良军，邵明安.论水土流失研究中的植被覆盖度量指标.西北林学院学报，2001,16(1)：40-43.  
+[3]SlersPJ,uckerCJ，Colatz GJ,LsSO,JusticeCODzlichDA，RndallDA.Arevisedlandsurfaceparamerztion（iB）foratmosperiartIeofsfealpefrelliata.Jualote994)706-737.  
+4] 陈云浩，李晓兵，史培军，周海丽.北京海淀区植被覆盖的遥感动态研究.植物生态学报，2001,25(5)：588-593.  
+[5] 蔡朝朝，安沙舟，蒲智，淮永建.基于TM NDVI的库尔勒市域植被覆盖动态变化.草业科学，2015,32（7）：1069-1078.  
+[6] 李亚刚,李文龙，刘尚儒，秦兰兰.基于遥感技术的甘南牧区草地植被状况多年动态.草业科学，2015,32（5)：675-685.  
+[7] 马琳雅，崔霞，冯琦胜，梁天刚.2001-2011年甘南草地植被覆盖度动态变化分析.草业学报，2014,23（4)：1-9.  
+[8］刘宪锋，潘耀忠，朱秀芳,李双双.2000-2014年秦巴山区植被覆盖时空变化特征及其归因.地理学报，2015,70(5）：705-716.  
+[9］袁丽华，蒋卫国，申文明，刘颖慧，王文杰，陶亮亮，郑华，刘孝富.2000-2010年黄河流域植被覆盖的时空变化.生态学报，2013,33(24):7798-7806.  
+[10]FungT，SiuWEviroentalqualityanditshanges，aanalysisusigNDVInteatioalJoualofRemoteSensing，（）：1011- 1024.  
+[1」Kundqust.eueceocaopgenvegetaoratoonspectralmeasurementsoverateagasspraeemotesingoEnvironment,2002,81(1） :129-135  
+2]Braiasslaecin sparse vegetated areas.The Egyptian Journal of Remote Sensing and Space Science,2O11,14(1）：49-56.  
+[13］彭文甫,王广杰,周介铭,徐新良,罗怀良,赵景峰,杨存建.基于多时相 Landsat5/8影像的岷江汶川-都江堰段植被覆盖动态监测.生态学报，2016,36(7) :1975-1988.  
+[14］周伟，王倩，章超斌,李建龙.黑河中上游草地 NDVI时空变化规律及其对气候因子的响应分析.草业学报，2013,22（1)：138-147.  
+[15］查勇，GaoJ，倪绍祥.国际草地资源遥感研究新进展.地理科学进展，2003,22(6)：607-617.  
+[16]VandeVoodanckJantersFomparingdierentaoaapingurbvegeatiocoverfroLansatEaestudy on Brussels.Sensors,2008,8(6):3880-3902.  
+17]BoydDdGleaatfaroacftiaiistUusieotesildGeography,2002,22(4):375-392.  
+[18]杨峰,李建龙，钱育蓉，杨齐，金国平.天山北坡典型退化草地植被覆盖度监测模型构建与评价.自然资源学报，2012,27（8)：1340- 1348.  
+[19］张峰，王桥，李营.呼伦贝尔草原植被覆盖时空动态变化监测定量方法研究．自然资源学报，2010,25（10)：1698-1708.  
+[20] 乌兰吐雅，刘爱军，高娃.内蒙古天然草原植被 20 年动态遥感监测.草业科学，2009,26(9)：40-42.  
+[21] 赵丽红,王屏,欧阳勋志,吴志伟.南昌市植被覆盖度时空演变及其对非气候因素的响应.生态学报,2016,36(12);3723-3733  
+[22] 李真真,郑翔,牛德奎,郭晓敏,谢碧裕,张学玲.武功山山地草甸主要群落类型高光谱特征.草业科学,2016,3（8):1492-1501  
+[23] Li WC.Ligdagsov.seofeesaloda（OsdLge）fra.acea,（）6.  
+[24]赵晓蕊,郭晓敏，张金远，牛德奎,单连友，张文元，魏晓华,陈伏生，黄尚书,李志，张学玲，龚霞.武功山山地草甸生态系统土壤无机磷垂直地带性分布特征.草业科学，2014,31(9)：1610-1617.  
+[25］薛德杰，徐先兵，李源，章泽军，楼法生.华南武功山早古生代花岗岩构造变形特征及其形成机制.地质学报，2014,88（7)：1236-1246.  
+[26] 李苗苗.植被覆盖度的遥感估算方法研究[D].北京：中国科学院遥感应用研究所，2003.  
+[27] 王浩，李文龙，杜国祯，朱晓丽.基于3S 技术的甘南草地覆盖度动态变化研究.草业学报，2012,21（3)：26-37.  
+28]QiJoAueteKdsedeatideotesingt119- 126.  
+[29］万红梅，李霞，董道瑞，林海军.塔里木河下游植被覆盖变化遥感定量分析．自然资源学报,2013,28（4)：668-677.  
+[30] 刘立成.呼伦贝尔森林-草原生态交错区景观格局时空动态研究[D].北京：北京林业大学,2008  
+[31］刘尧文,沙晋明.基于Landsat 影像的多时相植被覆盖度与地形因子关系研究——以平潭岛为例.福建师范大学学报自然科学版,2016,32(4):89-98  
+[32]杨啸.基于时序 NDVI的湖北省植被覆盖动态变化监测分析.长江流域资源与环境，2013,22(2)：226-231.  
+[33］张喜旺，吴炳方.基于中高分辨率遥感的植被覆盖度时相变换方法.生态学报，2015,35(4)：1155-1164.

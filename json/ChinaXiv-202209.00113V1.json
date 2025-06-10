@@ -1,0 +1,198 @@
+[
+    {
+        "type": "text",
+        "text": "不同体液标本活检在肺癌微小残留疾病监测中的应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "10.12114/j.issn.1007-9572.2022.0641 闫星」，刘山梅²，刘长宏1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：辽宁省自然科学基金资助项目(项目编号：20180550364)  \n1．116000辽宁省大连市，大连医科大学第二附属医院胸外科  \n2．015000内蒙古自治区呼和浩特市，内蒙古医科大学  \n\\*通信作者：刘长宏，教授，硕士生导师；E-mail：17709870870@163.Com  \n闫星与刘山梅对论文所做贡献相同",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】肺癌是世界致死率最高的恶性肿瘤之一，其主要难以攻克的原因就是治疗后复发。微小残留疾病（Minimal Residual Disease MRD）作为实体瘤复发的“桥头堡”，被描述为治疗原发肿瘤后，在没有任何癌症临床症状的情况下，患者的生物液体中仍然存在游离的循环肿瘤细胞或其他肿瘤细胞衍生物。近期中国也达成了首个“肺癌MRD的检测和临床应用共识”，旨在通过液体活检监测以评估其 MRD 状态，进而完善肺癌患者术后个体化治疗。本文综述了几种热点液体（外周血、尿液、唾液、痰液、胸腔积液）标本在肺癌 MRD检测中的进展，并探讨其对指导肺癌MRD 精准治疗的应用价值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】液体活检；循环肿瘤DNA；微小残留病；肺癌",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Application of different body fluid biopsy in monitoring minimal residual disease of lung cancer ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YAN Xing1,LIU ShanMei²,LIU ChangHong1\\* 1.Department of Thoracic surgery,The Second Affiliated Hospital of Dalian Medical University ,,DaLian ,116000,China 2.Inner Mongolia Medical University,Hohhot,Inner Mongolia,150110,China Corresponding author: LIU ChangHong，Professor,Master supervisor；E-mail: 17709870870@163.com ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【Abstract】Lung cancer is one of the world's deadliest cancers,and the main reason it's difficult to conquer is that it recurs after treatment. Minimal Residual Disease (MRD), as a \"bridgehead\" for the recurrence of solid tumors, is described as the presence of free circulating tumor cells or other tumor cell derivatives in the biologic fluid of patients without any clinical symptoms of cancer after the treatment of the primary tumor. Recently, China also reached the first \"consensus on the detection and clinical application of lung cancer MRD\", aiming to evaluate the MRD status through liquid biopsy monitoring, so as to improve the postoperative individualized treatment of lung cancer patients. This paper reviewed the progress of several hot fluids (peripheral blood, urine,saliva, sputum and pleural eusion) in the detection of lung cancer MRD,and discussed their application value in guiding the precise treatment of lung cancer MRD. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【Key words】liquid biopsy; Circulating tumor DNA; Minimal residual disease; Lung cancer ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1背景介绍：",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "经过几十年的相关探索，肺癌患者管理的方法逐渐发生了深刻的变革。越来越清楚的是，疾病的监测是治疗成功的基础，现今在肺癌的临床诊疗过程中因复发导致手术后死亡的患者百分比仍然很高（在两年内，IB期患者复发的占 $4 5 \\%$ 、IIA期患者复发率高达 $7 6 \\%$ ）。因此作为肿瘤复发的“罪魁祸首”微小残留病灶（MRD）也越来越受到临床的重视。MRD 是指经过治疗后，传统影像学或实验室方法不能发现，通过液体活检发现的癌来源分子异常，代表着肺癌的持续存在和临床进展可能²。在TRACERx研究中，经液体活检分析证实 $9 9 \\%$ 以上没有复发的非小细胞肺癌患者MRD 阴性，并且发现在通过标准成像检测到疾病之前复发的患者中可以检测到MRD。目前检测MRD 的新兴手段之一便是液体活检，通过分析血液及其他体液中的循环肿瘤细胞（Circulating Tumor Cell,CTC）、循环肿瘤DNA（Circulating TumorDNA,ctDNA）、外泌体等来源于实体瘤的生物标志物，它不同于组织活检是可以多次、连续进行识别肿瘤驱动突变、跟踪肿瘤演变和监测疾病复发的无创操作，且操作方式更加便捷，能够动态反馈疾病的进展，相关报道称液体活检可使患者避免约 $5 \\%$ 与CT引导肺组织活检相关的主要并发症“。同时液体活检可以完全反映肿瘤的异质性，为患者术后进行个体化靶向治疗、改善预后提供更多机会。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2肺癌MRD液体活检的优势及挑战",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "传统检查（包括组织活检、影像学、生化指标等常规检查）一直在肺癌的发生、发展的监测治疗过程中起着重要作用，在液体活检应用于临床之前是包括原发性肺癌在内的恶性肿瘤病理诊断、分期和治疗决策的金标准。然而，传统检测受限于操作与时效性难以真正推动肺癌 MRD 的监测。液体活检的优势在于，首先对于组织活检它是一种非侵入性操作，患者的体液可以很容易地重复取样，这使得在治疗过程中可以连续取样来监测肿瘤特征（“实时活检”），同时打破了其肿瘤异质性的取样局限。Rothwell等人4进行的一项研究证明 39 例晚期实体瘤患者的cfDNA和患者相应肿瘤组织DNA的NGS 显示，在肿瘤组织中未检测到的突变是来自血浆样本的 $3 0 \\%$ 。其次，液体活检对于常规检测的时间优越性及较高的特异性，TracerX研究发现’，术后ctDNA预测36个月复发的敏感性为 $4 8 \\%$ ，特异性为 $1 0 0 \\%$ 。且ctDNA检测和影像学复发之间的中位时间为167天，而CEA升高和放射学复发之间的中位时间为61天。有趣的是一份报告°还描述了一名IIb 期非小细胞肺癌患者，该患者接受了放射治疗并影像学显示有残留肿块，尽管该患者在治疗后没有检测到ctDNA,但根据ctDNA连续监测，该患者在治疗22个月后被视为无病状态，事后来看，该肿块代表辐射诱导的炎症变化，这也引起了业界对影像学筛查导致假阳性率过高以及辐射风险的关注。然而，液体活检要想进一步在临床应用中大有作为仍存在一些必要的挑战，例如克隆性造血（Cloning ofhematopoietic，CH），在没有已知驱动突变的情况下，在非小细胞肺癌患者中随着年龄的增长，通过cfDNA 检测到造血干细胞在造血的随机过程可能获得突变，而大多数JAK2 突变和一部分TP53突变可能是由于克隆造血。这就使得样本中CH相关突变的检测可能被错误地解释为肿瘤切除后MRD 的指示。目前正在采用各种方法从真正的肿瘤 DNA衍生突变中筛选出CH 相关突变。最直接的方法是对有核白细胞进行深度测序（CAPP-Seq）以识别克隆性造血突变，并将其从样本中排除’。虽然该方法在技术上可行且操作简单，但它却将成本翻了一番。其他如基因片段太小、半衰期短、以及随着治疗效果显现，肿瘤 DNA比例会大幅度下降等等。鉴于检测成本较高及缺乏分析方法共识，目前液体活检仍不能完全替代传统检测，但作为后者的辅助检测手段，未来的研究必定需要通过将两者更好的结合起来，监测以评估MRD 状态，进而完善肺癌患者术后个体化治疗。表2列出了不同体液活检的比较。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3体液标本活检 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1外周血：从早期至晚期肺癌随着实体瘤的进展、转移、复发等一系列过程，大量的肿瘤细胞及其衍生物会进入外周循环血液中，在放射学和血清学检查发现之前成为准确可靠地识别MRD并指导后续的治疗决策的标本。采集血液检查比组织活组织检查具有更小的侵入性，这使其易于获取，并允许对癌症进行近实时监测。外周血样本中主要活检对象包括循环肿瘤细胞、循环肿瘤DNA，以及外泌体等，特征比较如表1.因为国内外大量临床验证实验以及分析处理方法基本达成共识，使得上述对象在以血液为载体的基础上进行活检是目前最常用的方法。而某些特定体液中的肿瘤细胞及其衍生物无法如同全身循环的血液那样反映癌症转移的具体情况，在临床实际应用中尚处于研究探索阶段。此外，相比于血液，其他体液有着更加复杂的微生物环境，微生物自身及其代谢物会对检测结果造成难以预测的影响。目前血液活检技术可根据其基因组覆盖范围进行广泛分类，从靶向等位基因特异性聚合酶链反应（Polymerase Chain Reaction，PCR）到下一代测序（Next Generation Sequencing，NGS）技术，如杂交捕获NGS、全外显子组测序和全基因组测序。所有检测方法共同面临的问题包括血浆中ctDNA含量低、正常（非肿瘤）细胞产生的cfDNA背景丰富以及发现的基因变异来源不确定，但随着技术的进步使用个性化的基因测序跟踪更多的突变可以提高这些平台在检测低容量MRD时的灵敏度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.1循环肿瘤细胞（Circulating Tumor Cells CTC）：是指从原发肿瘤或转移灶脱落、发生上皮－间质转化进入患者外周血血液循环的恶性肿瘤细胞\"。肿瘤复发需要许多病理生理级联反应，在这些癌症扩展、生长和转移的基本过程中,CTC可能参与了转移这一重要阶段。CTC 是血管中一种极其罕见的细胞，外周血液中的数量非常少，1ml全血中大约仅含有$1 { \\sim } 1 0$ 个 ${ \\mathrm { C T C } } ^ { 9 }$ ，从文献回顾来看，几乎所有肺癌患者都可以发现 $\\mathrm { C T C } ^ { 1 0 }$ 。对于早期肺癌，可从外周血中检测到甲状腺转录因子-1（TTF-1）阳性CTC，并与不良预后和更短的进展期相关11。对于经证实有远处转移或复发的肺癌患者，CTC 数量越多，预后越差，并且Lindsay CR等人“的报告指出CTC将是晚期非小细胞肺癌无进展生存率（PFS）和总生存率（OS）的独立预后指标。因此，CTC可作为肺癌患者的一种动态监测工具，来观察治疗前后肿瘤动力学的变化。在上述研究中，26名患者早期肺癌手术前和手术后的第0天、术后第1天和第3天进行CTC检测，发现有复发的肺癌患者，CTC计数的下降斜率较低，而无复发患者的CTC下降斜率较高。对于有肺转移的肺外恶性肿瘤，肿瘤切除后CTC下降，术后第3天CTC反弹至更高水平，即使在影像学上，可见病变已完全切除。表示CTC可以作为MRD 检测的一种工具，并且可以预测治愈性手术后几个月的复发。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.2循环肿瘤 DNA（Circulating Tumor DNActDNA）：定义为肿瘤细胞脱落到体循环中的短DNA序列，来源于死亡CTC的分解产物或肿瘤细胞的活性分泌，是循环游离DNA（cfDNA）片段中的一小部分，尽管比例不到 $1 \\%$ 但测序技术的进步已经可以满足检测与肿瘤生物学相关的突变和染色体改变\"，且ctDNA 的半衰期约为2小时，比其他肿瘤标记物的半衰期更短14。在肺癌进展过程中，肺肿瘤组织可能获得一系列体细胞突变。某些突变如 EGFR T790M会产生耐药性，并影响患者的总体生存率。2016年美国食品和药物管理局（FDA）批准cobasEGFR 突变试验 ${ \\mathrm { V } } 2 ^ { 1 5 }$ 作为在肺癌中使用ctDNA 检测 MRD 的第一次液体活检试验。因ctDNA 检测隐匿性癌症和动态追踪肿瘤特异性突变的潜在能力，连续血浆样本中跟踪检测肿瘤基因突变已经用于晚期非小细胞肺癌患者的临床决策\"。另一方面术后ctDNA与患者后期复发率成正相关，在一项 230 例肺癌术后病例研究中1，通过血浆样本中相对于健康对照组中最高突变等位基因分数（MAF)量化的ctDNA确定了ctDNA阳性和阴性患者术后无复发生存率（RFS）的显著差异，且认为术后ctDNA状态对RFS 的影响大于任何单个临床病理风险因素或任何因素组合，术后敏感性、特异性皆高于其他检测手段。目前克隆性造血、和组织活检之间的基因组差异性仍是ctDNA检测存在的明显局限性，随着下一代测序（NGS）及数字PCR（dPCR）等技术的进步也在逐步提高ctDNA检测的灵敏度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.3外泌体：Johnstone等人\"在研究网织红细胞的成熟过程时首次发现并命名外泌体。外泌体是一种球形囊泡，直径为 $4 0 - 1 0 0 \\mathrm { n m }$ ，密度为 $1 . 1 3 - 1 . 1 9 ~ \\mathrm { g / m l }$ 。其内主要核酸包含microRNA（miRNA）、tRNA 和长非编码RNA（lncRNA），以及大量片段化的 mRNA。外泌体的分离方法主要有基于物理（如大小、密度和分子量）特性、沉淀、微流体、免疫亲和捕获的技术，目前超速离心和商用试剂盒提取法是分离外泌体最广泛的使用常规方法‘。尽管所有类型的细胞都会释放出外泌体，但肿瘤细胞中的外泌体非常丰富。研究表明肿瘤细胞源性外泌体在肿瘤生物学过程中起着重要作用，它们负责促进受体细胞的血管生成、侵袭和增殖，通过将其内容物转移到肺癌微环境中的靶细胞，从而参与肺癌的形成和进展20。癌细胞外泌体包含多种与癌症相关的蛋白质，例如表皮生长因子受体（EGFR）是肺癌外泌体中的主要膜结合蛋白，从肺癌中提取的外泌体中约有 $8 0 \\%$ 呈EGFR阳性\"，而肿瘤源性外泌体衍生的miRNA 也可能是影响非小细胞肺癌患者生存率的独立预测因子²²。Rabinowits等人²3一项研究中，在27例肺腺癌患者和9例健康对照的血浆样本中评估了循环肿瘤外泌体水平的诊断和预后潜力。在他们的研究中发现腺癌组的外泌体水平（平均 $2 . 8 5 \\ : \\ : \\mathrm { \\ m g / m L }$ ）、外泌体miRNA浓度（ $1 5 8 . 6 ~ \\mathrm { { n g / m L } }$ ）均高于健康对照组（平均 $0 . 7 7 \\ : \\mathrm { \\ m g / m L }$ 、68.1 ng/mL ）。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0f1da61cc0b964a9bb78d4e9862161638d25ff7961d1aaea4c7bede34523ec89.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">表2 外周血中三种常见活检对象比较</td></tr><tr><td>活检对象</td><td>组成</td><td>优势</td><td>挑战</td></tr><tr><td>CTC</td><td>上皮起源的有核细 胞</td><td>肿瘤细胞的高特异 性 直接定量分析分离 肿瘤细胞的形态学、 分子和进一步生物 学分析</td><td>分离肿瘤细胞的灵 敏度和特异性相对 较低（技术挑战）</td></tr><tr><td>c tDNA</td><td>单链或双链DNA</td><td>检测DNA改变（体细 胞突变、插入和删 除、拷贝数改变、基 因融合)的高灵敏度</td><td>很难区分ctDNA和 来自正常细胞的循 环DNA 没有功能分析</td></tr><tr><td>外泌体</td><td>蛋白质，非编码 RNA,mRNA,以及单链 或双链DNA</td><td>RNA 分析（miRNA、 mRNA、长编码RNA、 RNA 特异性变体、 RNA表达） 作为载体用于药物 递送</td><td>难以区分肿瘤来源 的外显体和正常细 胞来源的外显体 提取困难</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 唾液：唾液由唾液腺中的腺泡细胞产生，腺泡细胞具有很高的渗透性，且周围有丰富的毛细血管，使血液中的分子能够与相邻唾液细胞中的分子自由交换\"4，目前血液中大约 $4 0 \\%$ 的肿瘤标记物也可以在整个唾液中找到25。加之唾液的收集速度快、简单、便宜、无创，表明唾液可以被视为一种理想的液体活检标本。Gu等人首次将血浆CTC 和唾液 mRNA 生物标记物联合应用于非小细胞肺癌的无创检测，在区分早期肺癌患者和健康对照组的研究中其灵敏度和特异性分别高达（ $9 2 . 1 \\%$ ）和（ $9 2 . 9 \\%$ ）。非小细胞肺癌患者和健康人群之间唾液cfDNA 的定量或浓度无显著差异。然而，血浆cfDNA 和唾液cfDNA之间 EGFR 突变的一致性为 $8 3 . 7 8 \\%$ ，scfDNA能够作为基因突变的补充“°。EGFR是一种在NSCLC中频繁表达的膜受体，它影响 NSCLC 细胞的增殖、血管生成和MRD 复发及化疗耐药性，并促进 NSCLC 细胞的转移29。频繁对术后肺癌患者进行活检监测EGFR突变是不切实际的，而唾液活检恰恰可以为肺癌MRD提供另一个有希望的诊断补充。加州大学洛杉矶分校（UCLA）牙科学院开发的一项称为电场诱导释放和测量（EFIRM）技术检测肺癌患者体液中表皮生长因子受体（EGFR）突变。Li等人在13名非小细胞肺癌患者唾液样本中利用上述技术检测到循环肿瘤 DNA（sctDNA）EGFR突变，灵敏度为 $1 0 0 \\%$ 。另一些肿瘤生物化学指标与肺癌患者的生存率显著相关，例如咪唑化合物（ICs）浓度和唾液乳酸脱氢酶（LDH）活性，这两个参数的组合被用作评估肺癌预后及存活率更为有效。对于预后良好（ $\\operatorname { I C } { \\langle 0 . 3 1 1 }$ mmol/L和LDH>1133U/L）的患者，1年、3年和5年生存率为比预后不良的患者高2倍。而C反应蛋白（CRP）的浓度可能也会随着肿瘤大小和区域转移而升高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3尿液：经治疗后微小残留病灶（MRD）血浆中ctDNA 和CTC的含量较低，在连续监测病灶进展过程中需要提取相对大容量的血液，尽管是微创但患者仍然会感觉到不适。研究表明外周血中的游离DNA 能够通过肾屏障并通过尿液排泄，Chen 等3对150份非小细胞肺癌患者匹配的3ml外周血和8ml尿液样本进行分析，从中获得的游离DNA（fDNA）数量没有统计学差异。且尿液易于储存和运输，更易于提取大容量样本，从尿液样本中获取关键疾病信息的可能性为补充传统的肿瘤取样方法提供了更多选择。MRD 阳性意味着癌症治疗后血液中可检测到来自肿瘤的DNA，那么尿液中检测到的DNA水平也可以类似地指示肿瘤负担相关性。在先前的报道中利用尿液DNA追踪肿瘤特异性突变并针对耐药性个体化治疗，临床应用被证明适用于晚期非小细胞肺癌患者。Li等\"发现治疗后可检测到尿DNA的存在与肺癌患者的疾病复发明显相关。研究结果显示，尿DNA检测不到的患者有较好的无病生存率，可检测到的患者3、6和9个月复发概率相应为百分之15.6、6.6和5.1。这表明尿ctDNA 对疾病复发风险较低，尤其是对突变DNA检测不到的患者进行甄别具有良好的临床实用性。Lee等人指出对于在治疗后阶段 EGFR突变持续阳性的NSCLC患者，这表明可能存在残余病灶，需要进一步治疗或加强疾病复发监测。特别是T790M突变与疾病进展时间缩短和总体生存率降低密切相关。Chen等对150位非小细胞肺癌患者分组，尿液 DNAT790M阳性组患者的总体生存结果明显最差，中位生存率为30个月。T790M阴性组的中位生存率为34个月。实验进一步验证了尿液DNA在治疗后患者风险分层和疾病监测中的临床实用性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4痰液：美国国家癌症研究所（NCI）进行肺癌的低剂量螺旋计算机断层扫描和痰细胞学双重筛查，双重筛查诊断的90名患者中有18名（ $2 0 \\%$ ）痰标本呈癌症阳性，但影像学呈阴性，表明了痰液在诊断临床上处于缓解期或隐匿期的癌症相比较影像学的时间优越性，但因为大多数肺癌患者痰液样本量较少，致使其包含的肿瘤细胞数量有限，加之痰液中的粘性粘液成分，就使得肿瘤源性的DNA提取更加困难。这也是液体活检相对较少使用痰液的原因之一。Wang 等制备了一种无甲醇黏液溶解溶液（MS2）改进从痰中分离肿瘤源性cfDNA，实验证明经治疗后患者的痰标本中利用MS2提取的cfDNA检测 EGFR突变的敏感性显著高于从经MS1（传统的含甲醇的黏液溶解溶液）分离同一队列的痰标本。并通过一项包括102 名肺腺癌患者的研究中，通过qRT-PCR 技术对痰cfDNA检测，30名患者（ $\\dot { 2 9 } . 4 \\%$ ）的EGFR突变状态呈阳性，总体敏感性和特异性分别为 $4 6 . 2 \\%$ 和 $1 0 0 \\%$ 。Mao等人在肺癌患者临床诊断之前，发现10 名原发肿瘤中有8名患者的痰液样本中检测到 K-ras 突变和p53 突变。这对提高肿瘤基因分型和肿瘤靶向精准治疗，发展围手术期个体化治疗具有重要意义。多项研究证明 miRNAs、mir-21和mir-155的过度表达是肿瘤切除后患者复发、预后及总体生存率的负面因素。而痰液含有来自肺部和下呼吸道的支气管上皮细胞。痰液环境下 miRNA 对 RNase活性具有抗性，可以显著稳定的形式存在，并且在储存长达7天的痰液样本中也能检测到它们。Roa等人\\*发现痰样本中miRNA组可以检测 NSCLC，具有显著的敏感性和特异性。来自较小气道的腺癌很难通过支气管镜或痰细胞学检查发现，痰中miRNA的表达将为肺癌的MRD 监测提供一种高准确率的特异性标志物。并在无创的基础上对患者起到早诊断、早治疗的作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.5 胸腔积液：恶性胸腔积液（MPE）是中晚期肺癌的一种常见并发症，是淋巴腺被肿瘤阻塞，组织液渗出积聚于胸膜腔内，与患者肿瘤复发、转移显著相关。与组织活检等其他侵入性技术相比，MPE非常容易收集。此外，与手术切除标本相比，肺癌相关MPE 患者的突变率要高得多4。胸腔积液活检标本的生物标志物可能来自多个肿瘤克隆。因此，它可以同时反映肿瘤以及播散性病变的异质性。同时足够来源的MPE为获得评估肿瘤基因组学提供了一个丰富的机会4。PE 的分子分析代表了一种检测肿瘤驱动基因突变的微创方法，尤其是当肿瘤组织不可用时用于临床决策。它可能是提供EGFR等基因突变状态有用信息的替代来源。如果 EGFR基因突变检测可以通过更多可获得的胸腔积液样本实现，将是探索MRD在驱动基因阳性和驱动基因阴性两种类型患者中的作用，并进一步探讨耐药机制，以及评估能否在影像学之前识别耐药的优越的样本。晚期非小细胞肺癌患者的靶向药物治疗也将成为可能，这将具有重要的临床和实用价值",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.5.1胸腔积液上清液（MPEs）：晚期非小细胞肺癌患者胸腔积液上清液中的游离细胞DNA（cfDNA）的肿瘤基因突变丰度显著高于积液肿瘤细胞和血浆游离DNA样本，已被证明在检测治疗靶点和肿瘤突变负荷（TMB）中成为优异的替代品43。在晚期肺癌MRD中，检测驱动基因 EGFR 的突变被用作靶向治疗的指导，另一方面 TMB 值可用于评估免疫治疗的疗效。Wang等人\\*对肿瘤组织、血浆和MPEs 的 EGFR 突变状态进行比较，并将结果与 EGFR-TKI疗法进行关联。结果证明在基于ctDNA的 EGFR突变检测方法下肿瘤组织和MPEs之间 EGFR 突变敏感性和特异性的高度一致，而血浆中的EGFR突变率最低。MPEs中的EGFR突变可以预测第一代EGFR-TKI治疗的疗效。经TKI治疗的 EGFR 突变患者的中位总生存期长于野生型 EGFR患者，接受一线或二线 EGFR-TKI 治疗的MPEs 中 EGFR 突变患者的ORR 和DCR分别为 $56 \\%$ 和$9 4 \\%$ ，与基于组织的检测结果一致。因此当两种样本都可用时，从MPEs 中提取的游离 DNA可能是比血浆更好的作为预测肿瘤对TKIs反应的生物标志物。同时Yang 等人4观察发现MPEs 中 EGFR 突变患者的中位PFS 显著长于野生型 EGFR 患者（7.33对 2.07个月）。而 Song等人4研究了使用肺腺癌患者MPEs 外泌体DNA 进行基因检测的可行性。该研究表明,在 MPEs外泌体DNA中发现的 $7 8 \\%$ 的突变与MPEsctDNA中发现的突变相匹配，支持其用于基因检测的可靠性。多渠道确定肿瘤基因原始突变状态和监测突变的变化对于肺癌的治疗至关重要。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/32c57147b743bfddb6762fcbe77e25961bdc115fc4272d352ca7eefdfb899955.jpg",
+        "table_caption": [
+            "表1不同体液标本对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>体液类型</td><td>主要活检成分</td><td>优势</td><td>挑战</td></tr><tr><td>血液</td><td>CTC，ctDNA，外泌体</td><td>成熟的分析方法 可实时监测肿瘤进展 适用于最多的患者 应用更为普遍、广泛</td><td>高假阴性率 生物标志物质量和数 量低 生物标志物半衰期较 短 不能连续采集</td></tr><tr><td>尿液</td><td>CTC, ctDNA, 尿液mRNA，外泌体</td><td>样本量大 无创、可以连续采集 适合纵向随访</td><td>收集过程易受污染 肾脏滤过后数量下降</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/b206563270ca2a35bce444b6757019fb66f9e2e2595f9d7b059bdb01bca97012.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>对肿瘤转移有较高的 反应</td><td></td></tr><tr><td>唾液</td><td>唾液mRNA，miRNA</td><td>无创操作 交叉污染风险低 可实时监测肺癌进展</td><td>样本量较少 生物标志物质量和数 量低 复杂的成分，包括酶、 抗体、激素等</td></tr><tr><td>痰液</td><td>痰液 mRNA，miRNA, lncRNA，外泌体</td><td>无创操作 早期中央型肺癌灵敏 性、特异性较高 肿瘤内异质性</td><td>样本量较少 缺乏成熟的采样手段</td></tr><tr><td>胸腔积液（包括上清 液)</td><td>CTC，ctDNA, 积液mRNA</td><td>生物标志物质量和数 量高 与临床特征高度相关</td><td>有创操作 不能实时监测肺癌进 展 早期患者不适用</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4总结与展望：液体样本衍生的生物标记物在临床上用于监测MRD、预测肿瘤反应和探索治疗耐药性无疑是迫切需要的。液体活检作为一种分析变异的替代方法，不仅提供了一种非侵入性的方法来提前检测肺癌的改变，而且还补充了组织活检检测的结果，使更多的癌症患者能够接受精确的治疗。而MRD本身仍有很多问题有待进一步解决，未来的研究将有必要确定如何最好地将肿瘤组织活检、临床检查和医学影像与液体活检的基因组学和MRD信息结合起来。最终，在这个个体化精确医疗时代，将多元化液体活检标本分析应用于临床肿瘤工作将成为指导临床决策并改善患者预后的一条崭新道路。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "作者贡献：闫星提出研究选题方向，负责相关内容的文献收集和整理，并撰写论文初稿；刘山梅参与文献的收集和整理，负责论文的修订,与闫星在文章中所做同等贡献；刘长宏负责文章的质量控制及审校，对文章整体负责；所有作者确认了论文的最终稿。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "利益冲突情况：本文无利益冲突。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[参考文献] ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1:Kris MG, Gaspar LE, Chaft JE, et al. Adjuvant Systemic Therapy and Adjuvant Radiation Therapy for Stage I to IIA Completely Resected Non-Small-Cell Lung Cancers: American Society of Clinical Oncology/Cancer Care Ontario Clinical Practice Guideline Update[J]. $J$ Clin Oncol. 2017;35(25):2960-2974. doi:10.1200/JCO.2017.72.4401.   \n2：吴一龙，陆舜，程颖，等．非小细胞肺癌分子残留病灶专家共识［J]．循证医 学,2021,21(3):129-135. D0I:10.12019/j.issn.1671-5144.2021.03.001.   \n3： Rolfo C，Mack PC，Scagliotti GV,et al. Liquid Biopsy for Advanced Non-Small Cell Lung Cancer(NSCLC):A StatementPaperfromthe IASLC[J].J ThoracOncol. 2018;13(9):1248-1268. doi:10.1016/j.jtho.2018.05.030.   \n4: Rothwell DG,Ayub M, Cook N, et al. Utility of ctDNA to support patient selection for early phase clinical trials: theTARGETstudy[J].NatMed.2019;25(5):738-743. doi:10.1038/s41591-019-0380-z.   \n5: Liang W, Zhao Y, Huang W,Liang H, Zeng H, He J. Liquid biopsy for early stage lung cancer. J Thorac Dis. 2018;10(Suppl 7):S876-S881. doi:10.21037/jtd.2018.04.26.   \n6: Newman AM, Bratman SV, To J, et al. An ultrasensitive method for quantitating circulating tumor DNA with broad patient coverage[J]. Nat Med.2014;20(5):548-554. doi:10.1038/nm.3519. 7: Chan HT, Nagayama S, Chin YM, et al. Clinical significance of clonal hematopoiesis in the interpretation ofbloodliquidbiopsy[J].MolOncol.2020;14(8):1719-1730. doi:10.1002/1878-0261.12727.   \n8： Jie XX, Zhang XY, Xu CJ. Epithelial-to-mesenchymal transition, circulating tumor cells and cancer metastasis: Mechanisms and clinical applications[J]. Oncotarget. 2017;8(46):81558-81571. doi:10.18632/oncotarget.18277.   \n9：何雨笑,鲁继斌．循环肿瘤细胞在非小细胞肺癌诊疗中的应用［J]．现代肿瘤医 学,2021,29(3) :535-539. D0I:10.3969/j.issn.1672-4992.2021.03.040.   \n10:Poggiana C, Ross E, Zamarchi R. Possible role of circulating tumor cells in early detection of lung cancer. J Thorac Dis. 2020;12(7):3821-3835. doi:10.21037/jtd.2020.02.24.   \n11: O'Flaherty JD, Gray S, Richard D, et al. Circulating tumour cells, their role in metastasis and their clinical utilityinlung cancer[J].LungCancer.2012;76(1):19-25. doi:10.1016/j.lungcan.2011.10.018.   \n12: Lindsay CR, BlackhallFH, Carmel A, et al. EPAC-lung: pooled analysis of circulating tumour cellsinadvancednon-small cell lung cancer[J].EurJ Cancer.2019;117:60-68. doi:10.1016/j.ejca.2019.04.019.   \n13: Wu CY,Lee CL, Wu CF, et al. Circulating Tumor Cels as a Tool of Minimal Residual Disease Can Predict Lung Cancer Recurrence: A longitudinal, Prospective Trial[J]. Diagnostics (Basel). 2020;10(3):144. doi:10.3390/diagnostics10030144.   \n14: Chen K, Zhao H, Shi Y, et al. Perioperative Dynamic Changes in Circulating Tumor DNA in Patients with Lung Cancer (DYNAMIC)[J]. Clin CancerRes. 2019;25(23):7058-7067. doi:10.1158/1078-0432.CCR-19-1213.   \n15:Torres S, Gonzalez A, Cunquero Tomas AJ, et al. A profile on cobas $\\textsuperscript { \\textregistered }$ EGFR Mutation Test v2 as companion diagnostic for first-line treatment of patients with non-small cell lung cancer[J]. Expert Rev Mol Diagn. 2020;20(6):575-582. doi:10.1080/14737159.2020.1724094. 16: Zugazagoitia J, Gómez-Rueda A, Jantus-Lewintre E, et al. Clinical utility of plasma-based digital next-generation sequencing in oncogene-driven non-small-cell lung cancer patients with tyrosine kinase inhibitor resistance[J]. Lung Cancer. 2019;134:72-78. doi:10.1016/j.lungcan.2019.05.032.   \n17: Tie J, Wang Y, Tomaseti C,et al. Circulating tumor DNA analysis detects minimal residual disease and predicts recurrence in patients with stage II colon cancer[J].Sci Transl Med. 2016;8(346):346ra92. doi:10.1126/scitranslmed.aaf6219.   \n18：Johnstone RM, Adam M, Hammond JR,Orr L， Turbide C. Vesicle formation during reticulocyte maturation. Association of plasma membrane activities with released vesicles (exosomes)[J].JBiol Chem.1987;262(19):9412-9420..   \n19: Bi H, Ren D, Zhang J,Wang H. Advances in Exosomes in the Pathogenesis and Diagnosis of LungCancer[J].Chinesejournal of lung cancer. 2020;23(7):589-596. doi:10.3779/j.issn.1009-3419.2020.104.18. cancer[J]. Mol Biol Rep.2020;47(9):7229-7251. doi:10.1007/s11033-020-05715-w.   \n21: Huang SH, Li Y, Zhang J,Rong J， Ye S. Epidermal growth factor receptor-containing exosomes induce tumor-specific regulatory T cells[J]. Cancer Invest. 2013;31(5):330-335. doi:10.3109/07357907.2013.789905.   \n22: Hu Z, Chen X, Zhao Y, et al. Serum microRNA signatures identified in a genome-wide serum microRNA expression profiling predict survival of non-small-cell lung cancer[J].J Clin Oncol. 2010;28(10):1721-1726. doi:10.1200/JCO.2009.24.9342.   \n23: Rabinowits G, Gercel-Taylor C, Day JM, et al. Exosomal microRNA: a diagnostic marker for lung cancer. Clin Lung Cancer[J]. 2009;10(1):42-46. doi:10.3816/CLC.2009.n.006.   \n24: Yoshizawa JM, Schafer CA, Schafer JJ,et al. Salivary biomarkers: toward future clinical and diagnostic utilities[J]. Clin Microbiol Rev.2013;26(4):781-791. doi:10.1128/CMR.00021-13. 25: Loo JA， Yan W, Ramachandran P, et al. Comparative human salivary and plasma proteomes[J].JDent Res.2010;89(10):1016-1023.doi:10.1177/0022034510380414.   \n26: Gu X, He J,Ji G. Combined use of circulating tumor cells and salivary mRNA to detect non-small-cell lung cancer[J]. Medicine (Baltimore). 2020;99(8):e19097. doi:10.1097/MD.0000000000019097.   \n27: Skallevold HE, Vallenari EM, Sapkota D. Salivary Biomarkers in Lung Cancer[J]. Mediators Inflamm. 2021;2021:6019791. doi:10.1155/2021/6019791.   \n28： Macias M, Alegre E,Alkorta-Aranburu G, et al. The Dynamic Use of EGFR Mutation Analysis in Cell-Free DNA as a Follow-Up Biomarker during Diffrent Treatment Lines in Non-Small-Cell Lung Cancer Patients[J].Dis Markers. 2019;2019:7954921. doi:10.1155/2019/7954921.   \n29: da Cunha Santos G, Shepherd FA,Tsao MS. EGFR mutations and lung cancer[J].Annu Rev Pathol.2011;6:49-69. doi:10.1146/annurev-pathol-011110-130206.   \n30: Li F, Wei F, Huang WL, et al. Ultra-Short Circulating Tumor DNA (usctDNA) in Plasma and Saliva of Non-Small Cell Lung Cancer (NSCLC) Patients[J]. Cancers (Basel). 2020;12(8):2041. doi:10.3390/cancers12082041.   \n31: Su YH, Wang M,Brenner DE, et al. Human urine contains small,150 to 250 nucleotide-sized, soluble DNA derived from the circulation and may be useful in the detection of colorectal cancer[J]. JMol Diagn.2004;6(2):101-107. doi:10.1016/S1525-1578(10)60497-7.   \n32:Bel'skaya LV, Sarf EA, Kosenok VK. Survival Rates of Patients with Non-Small Cell Lung Cancer Depending on Lymph Node Metastasis: A Focus on Saliva. Diagnostics (Basel)[J]. 2021;11(5):912. doi:10.3390/diagnostics11050912.   \n33： Chen S, Zhao J, Cui L, Liu Y. Urinary circulating DNA detection for dynamic tracking of EGFR mutationsfor NSCLC patientstreated with EGFR-TKIs[J].Clin Transl Oncol. 2017;19(3):332-340. doi:10.1007/s12094-016-1534-9.   \n34:Li F,Huang J,Ji D,et al. Utility of urinary circulating tumor DNA for EGFR mutation detection in different stages of non-small cell lung cancer patients[J]. Clin Transl Oncol. 2017;19(10):1283-1291. doi:10.1007/s12094-017-1669-3.   \n35: Lee Y,Lee GK,Lee YS, et al. Clinical outcome according to the level of preexisting epidermal growth factor receptor T790M mutation in patients with lung cancer harboring sensitive epidermal growth factor receptor mutations[J]. Cancer. 2014;120(14):2090-2098. doi:10.1002/cncr.28711. 36: Fontana RS,Sanderson DR, Taylor WF, et al. Early lung cancer detection: results of the initial (prevalence) radiologic and cytologic screening in the Mayo Clinic study[J].Am Rev Respir Dis. 1984;130(4):561-565. doi:10.1164/arrd.1984.130.4.561.   \n37: Wang Z, Zhang L, Li L, et al. Sputum Cell-Free DNA: Valued Surrogate Sample for Detection of EGFR Mutation in Patients with Advanced Lung Adenocarcinoma[J].J Mol Diagn. 2020;22(7):934-942. doi:10.1016/j.jmoldx.2020.04.208.   \n38： Mao L, Hruban RH, Boyle JO,et al. Detection of oncogene mutations in sputum precedes diagnosis of lung cancer[J]. Cancer Res. 1994;54(7):1634-1637.   \n39: Xie Y, Todd NW,Liu Z, et al. Altered miRNA expression in sputum for diagnosis of non-small cell lung cancer[J]. Lung Cancer.2010;67(2):170-176. doi:10.1016/j.lungcan.2009.04.004. 40: Kennedy TC, Hirsch FR. Using molecular markers in sputum for the early detection of lung cancer: a review[J]. Lung Cancer. 2004;45 Suppl 2:S21-S27. doi:10.1016/j.lungcan.2004.07.996. 41: Wu SG, Gow CH, Yu CJ, et al. Frequent epidermal growth factor receptor gene mutations in malignant pleural effusion of lung adenocarcinoma[J].Eur Respir J. 2008;32(4):924-930. doi:10.1183/09031936.00167407.   \n42：Porcel JM. Malignant pleural effusions because of lung cancer[J]. Curr Opin Pulm Med. 2016;22(4):356-361. doi:10.1097/MCP.0000000000000264.   \n43： Sorolla MA, Sorolla A, Parisi E, Salud A, Porcel JM. Diving into the Pleural Fluid: Liquid Biopsyfor Metastatic Malignant Pleural Effusions[J].Cancers (Basel). 2021;13(11):2798. doi:10.3390/cancers13112798.   \n44: Wang S, Chen H, Zhong J,et al. Comparative study of EGFR mutations detected in malignant pleural efusion, plasma and tumor tissue in patients with adenocarcinoma of the lung[J]. Lung Cancer.2019;135:116-122. doi:10.1016/j.lungcan.2019.05.018.   \n45: Yang J, Lee OJ, Son SM, et al. EGFR Mutation Status in Lung Adenocarcinoma-Associated Malignant Pleural Effusion and Eficacy of EGFR Tyrosine Kinase Inhibitors[J]. Cancer Res Treat. 2018;50(3):908-916. doi:10.4143/crt.2017.378.   \n46: Yang J, Lee OJ, Son SM, et al. EGFR Mutation Status in Lung Adenocarcinoma-Associated Malignant Pleural Effusion and Efficacy of EGFR Tyrosine Kinase Inhibitors[J]. Cancer Res Treat. 2018;50(3):908-916. doi:10.4143/crt.2017.378. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

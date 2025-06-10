@@ -1,0 +1,383 @@
+[
+    {
+        "type": "text",
+        "text": "Original Article ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Equol protects PC12 neuronal cells againsthypoxia/ reoxygenation injury in vitro by reducing reactive oxygen species production ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YU Wei1,23,DENG Xiuling1,², MA Zhen1²,WANG Yan1,² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DepartmentofhysiologyndPathophysidogyCardiovascularResearchCenter，hlofasicedicalSciences，Xiaot UniversityHlthieee',i;DepmetfgyiaicalUesityi ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective Both of $\\mathrm { g p } 9 1 ^ { \\mathrm { p h o x } }$ (an isoform of nicotinamide adenine dinucleotide phosphate-reduced oxidases) and Src (a non-receptor protein tyrosine Kinase)playaprominentrole inmediatinghypoxia/reoxygenation injuryofneurons.Thepresent study was designedtoinvestigatetheneuroprotectiveefectof equol,apredominantactive metaboliteof daidzein,against hypoxia/reoxygenation injury inrat pheochromocytoma celline (PC12)and explore theunderlying mechanisms.Methods PC12 cellsexposed to hypoxia/reoxygenation injury were examined forreactive oxygen species (ROS)using dihydroethidium and 2' 7'-dichlorofluoresceindiacetate andanalyzedforchanges inlactatedehydrogenase (LDH)activityand malondialdehyde (MDA) content. The expression levels of $\\mathrm { g } \\mathrm { p } ^ { \\mathrm { q } } \\mathrm { 1 } ^ { \\mathrm { p h o x } }$ and phosphorylated Src-Tyr416 (p-Src) were measured using Western bloting. Results Equol dose-dependently restored thecellviabilityand decreased LDH activityand MDA content in culture mediumof PC12 cells exposed to hypoxia/reoxygenation. Pretreatment of the cells with $1 0 ^ { - 5 }$ and $1 0 ^ { - 6 } \\ \\mathrm { \\ m o l / L }$ equol inhibited hypoxia/ reoxygenation-induced increase ofROS.PC12cels treated with equol prior to hypoxia/reoxygenation injuryshowed significant enhancement of the protein levels of $\\mathrm { g } \\mathrm { p } ^ { \\mathrm { q } 1 ^ { \\mathrm { p h o x } } }$ and $\\mathrm { ~ \\tt ~ p ~ }$ Src. Conclusion Equol confers neuroprotection against hypoxia/ reoxygenation injury in PC12 cels by inhibiting the generation of ROS very likely as a result of down-regulation of $\\mathrm { g p } 9 1 ^ { \\mathrm { p h o x } }$ and inhibition of Src phosphorylation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: equol; hypoxia/reoxygenation; neuroprotection; $\\mathrm { g p } 9 1 ^ { \\mathrm { p h o x } }$ ;Src ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Stroke,most commonly ischemic stroke,is the second leading cause of death and the leading cause of long-term disability in adults in China[]. Loss of regular oxygen and glucose supply even for a short period of time can initiate ischemia/reperfusion injury of the brain,which leads to cell death and permanent brain damage[2 e[2.3].The imbalance between the generation and clearance of reactive oxygen species (ROS) that causes oxidative damage of neurons is one of the most important factors contributing to ischemia/reperfusion injury of brain tissue[4].In in vitro cell models of stroke,hypoxia/ reoxygenationsimulatestheeffectofischemia/ reperfusion to induce neuronal damage via enhanced ROS production[5]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ampleevidencesuggeststhatnicotinamide adenine dinucleotide phosphate-reduced oxidases (Nox) are the major contributors to ROS generation during hypoxia/reoxygenation in different organs [6].In mammalian tissues,7 members of the Nox family have been identified and defined by the specific catalytic subunits ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nox (Nox1-5) and Duox (Duox1-2).Nox2 (also known as $\\mathrm { g p } 9 1 ^ { \\mathrm { p h o x } } )$ is the major enzyme responsible for production of cellular ROS in brain tissues,although Noxl and Nox4 also have been shown to play a role [6-8]．In experimental stroke models,pharmacological agents that inhibit Nox function or genetic deletion of the $\\mathrm { g p } 9 1 ^ { \\mathrm { p h o x } }$ subunit were shown to lessen brain ischemic damage[9, 10] and ameliorate complications of thrombo- lytic therapy by protecting the integrity of the blood-brain barrier and reducing edema formation and hemorrhagel1. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Protein tyrosine kinases(PTKs) areprimarily classified into receptor PTKs and non-receptor PTKs. The Src family of tyrosine kinases includes a group of classical non-receptor PTKs ubiquitously expressed in neurons at 5OO-fold higher levels compared with other cell types.Five members of the Src family of PTKs (Src, Fyn，Yes，Lck,and Lyn) are highly expressed in mammalian central nervous system.Src is regulated by many stimuli to generate ROS,including hypoxia/ reoxygenation，stretch，integrins，growth factors，and vasoactive agonists(such asangiotensin Iand thrombin)，and hasbeen implicatedin hypoxia/ reoxygenation injury signaling pathways [2l. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Equol [7-hydroxy-3-(4'-hydroxyphenyl)-chroman] is a predominant active metabolite of daidzein (a major isoflavoneinsoybean)]whichisgeneratedbythe intestinalmicobalfoasoterodaltroe isoflavone displays estrogenic activity via its affinity for estrogen receptor $\\alpha$ $( \\mathrm { E R } \\alpha )$ and $\\beta$ (ERβ)[i5].Equol also serves asan antioxidant that is morepotent than genistein and daidzein[6-19].Inmice exposed tothe chemical carcinogen 7,12-dimethylbenz(a)anthracene, oral administration of equol (5 or $2 5 \\mathrm { \\ m g / k g ) }$ for two weeks prior to the exposure decreased the levels of oxidative stress biomarkers by increasing catalase and superoxide dismutase activities 20]. In addition, intake of oflavone-rich soy or other dietary isoflavones for two weeks was found to decrease the cerebral infarct size in rat modelsof ischemic stroke[2-23]，but the molecular mechanisms underlying the neuroprotective effects of isoflavonesandtheirmetabolitesarenotfully understood. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ROS was reported to induce cell death in cultured neurons 24]and in rat pheochromocytoma neuronal cell line PC12[25]. PC12 cells have been exploited as a cell model for studying neuronal cell death under diverse conditions, including hypoxia[26]. In this study, we aimed to investigate the neuroprotective effect of equol and explore the roles that the signaling molecule Src and the ROS-generating enzyme Nox2 may play in hypoxia/ reoxygenationinjuryofPC12cells.Ourresults demonstrate that equol confers effective neuroprotection against hypoxia/reoxygenation injury in PC12 cells by inhibiting ROS generation，probably by blocking Src phosphorylation-mediated down-regulation of Nox2. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MATERIALANDMETHODS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Reagents ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Monoclonal mouse antibodiesagainst Srcand phospho-Src (Tyr416) were purchased from Upstate Biotechnology (Lake Placid, NY，USA). Mouse anti$\\mathrm { g p } 9 1 ^ { \\mathrm { p h o x } }$ antibodies were obtained from BD Transduction LaboratoriesTM (Bedford,MA, USA).Anti-tubulin antibody used for Western blotting was acquired from CMCTAG，Inc (San Diego,CA，USA).Equol powder 中 $5 0 \\%$ R-equol, $5 0 \\%$ S-equol) was sourced from Nanjing LaiyinMedicineTechnologyLimitedCompany (Nanjing, Jiangsu, China).Assay kits for measurement of lactate dehydrogenase (LDH)activityand malondialdehyde(MDA） content were purchased from Nanjing Jiancheng Bioengineering Institute (Nanjing, Jiangsu, China). Dihydroethidine(DHE) and2', 7'-dichlorofluorescein diacetate (DCF-DA) were ordered fromBeyotime Institute of Biotechnology (Haimen, Jiangsu, China).Other chemicals used in this study were supplied by Sigma-Aldrich (St.Louis,MO,USA). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cell culture and treatment ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Rat pheochromocytoma cell line (PC12） used in this study was provided by Shanghai Institute of Cellular Biology of Chinese Academy of Sciences (Shanghai, China). The cells were cultured in high glucose Dulbecco'smodified Eagle'smedium (DMEM，Invitrogen，USA）supplemented with $10 \\%$ fetal bovine serum (FBS,Invitrogen)，penicillin $( 1 0 0 ~ \\mathrm { \\ U / m L } )$ and streptomycin $( 1 0 0 ~ \\mathrm { m g / m L } )$ ,and incubated at $3 7 \\ \\mathrm { { ^ \\circ C } }$ ina humidified atmospherewith $5 \\%$ $\\mathrm { C O } _ { 2 }$ in $1 0 0 ~ \\mathrm { \\ m m } \\cdot$ diameter dishes for $^ { 4 8 \\mathrm { ~ h ~ } }$ .For equol treatment, the cells at $70 \\%$ confluence were incubated in high-glucose DMEM containing various concentrations of equol for 1 h.Before the culture dishes were transferred into the multigas incubator for hypoxia/reoxygenation treatment, the medium was changed into low-glucose DMEM containing equol, and hypoxia was induced in a multigas incubator at $3 7 \\mathrm { ~ \\textdegree C }$ ( $1 \\%$ $\\mathrm { O } _ { 2 }$ with $5 \\%$ （2 $\\mathrm { C O } _ { 2 }$ and $94 \\%$ （2 $\\mathbf { N } _ { 2 }$ Thermo Scientific,MA,USA).After a 12-h incubation in hypoxia, the medium was replaced with high-glucose medium containing equol and the dishes were returned to a standard normoxic atmosphere for a 6-h incubation[27].For cellsin the hypoxia/reoxygenation (H/R) model group,no equol was added in the medium,and thecells inthecontrolgroupwere incubated consistently at $3 7 \\mathrm { ~ \\textdegree C }$ in a humidified atmosphere with $5 \\%$ （ $\\mathrm { C O } _ { 2 }$ . The cells exposed to gradient equol doses at $1 0 ^ { - 9 }$ to $1 0 ^ { - 5 } \\ \\mathrm { m o l / L }$ following hypoxia/reoxygenation were examined for cell viability using 3-(4,5-dimethylthiazol2-yl)-2,5-diphenyltetrazolium bromide (MTT) assay and for LDH activity and MDA content following the protocols described previously [23].Based on the cell viability results, $1 0 ^ { - 5 } \\mathrm { m o l / L }$ and $1 0 ^ { - 6 } \\mathrm { m o l / L }$ of equol were selected as the optimal concentrations for ROS activity measurement and Western blotting experiments. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cell viability assay ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "After pretreatment with the indicated concentrations of equol for $^ { \\textrm { 1 h } }$ ,PC12 cells in 96-well plates were exposed to hypoxia $( 1 \\% 0 _ { 2 } )$ for $^ { 1 2 \\mathrm { ~ h ~ } }$ followed by incubation in a normoxic atmosphere for $6 \\textup { h }$ . The cell vitality was detected by incubating the cells with MTT $\\mathrm { \\langle 5 \\ m g / m L \\rangle }$ for $^ { 4 \\mathrm { ~ h ~ } }$ at $3 7 \\ \\mathrm { { ^ \\circ C } }$ .After the cells were rinsed twice with ice-cold phosphate-buffered saline (PBS), $1 5 0 ~ \\mu \\mathrm { L }$ of dimethyl sulfoxide was added to each well to dissolvethepurple formazandeposit, andthe absorbance at $4 9 0 ~ \\mathrm { n m }$ was measured with a microplate reader. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LDH activity and MDA content measurement ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "After pretreatment with various concentrations of equol for 1 h,PC12 cells were exposed to hypoxia/ reoxygenation (12 h/6 h). The culture medium was collected,and assay kits were used to spectrophotometrically determine the activity of LDH at $4 5 0 ~ \\mathrm { n m }$ .The content of MDA,a biomarker of oxidative stress,was measured at $5 3 2 \\ \\mathrm { n m }$ according to the manufacturer's instructions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MeasurementofintracellularROS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To assess the effect of equol on ROS production in PC12 cells subjected to hypoxia/reoxygenation injury, intracellular ROS generation in the exposed cells was measured with the fluorescent probesof dihydroethidium (DHE) and 2, $7 ^ { \\prime }$ -dichlorofluoresceindiacetate (DCF-DA).The cellswere washed with PBS,loaded with $1 0 ^ { - 5 } \\mathrm { \\ m o l / L }$ DHE or $1 0 ^ { - 5 } \\ \\mathrm { m o l / L }$ DCF-DA,and incubated for $3 0 ~ \\mathrm { m i n }$ at $3 7 \\ \\mathrm { { ^ \\circ C } }$ in darkness.Differential interference contrast imageswereobtained using fluorescence microscopy (Olympus IX71，Tokyo，Japan).The fluorescence intensities were quantified with image analysis software (Adobe Photoshop CS3),and the values were presented as the mean fluorescence intensity. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Western blotting ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PC12 cells exposed to hypoxia/reoxygenation were lysed with ice-cold modified Radio immunoprecipitation assay (RIPA) buffer (containing $6 \\times 1 0 ^ { - 5 }$ mol/L Tris-HCl, $0 . 2 5 \\%$ sodium dodecyl sulphate, $1 0 ^ { - 3 } \\ \\mathrm { \\ m o l / L }$ sodium fluoride, $1 0 ^ { - 3 } \\mathrm { \\ m o l / L }$ sodium orthovanadate, $1 0 ~ \\mathrm { \\mu { g } / m L }$ aprotininandleupeptin). Thecelllysateswere centrifuged at $1 4 ~ 0 0 0 ~ \\times { g }$ for $2 0 ~ \\mathrm { m i n }$ at $4 \\ \\mathrm { { ^ circ C } }$ ，and the supernatant was stored at $- 8 0 \\ \\mathrm { { ^ { \\circ } C } }$ until use.The protein concentrations in the supernatant were determined using abicinchoninic acid protein assay.Immunoblotting was performed as described previously[28].Briefly, the PVDF membranes were incubated with mouse monoclonal anti$\\mathrm { g p } 9 1 ^ { \\mathrm { p h o x } }$ antibody ( $1 : 1 0 0 0$ dilution),mouse mono-clonal anti-phospho-Src antibody (Tyr416) $( 1 : 5 0 0 )$ ，or mouse monoclonal anti-Src antibody $( 1 : 5 0 0 )$ at $4 \\mathrm { { ^ \\circ C } }$ overnight, washed with Tris-buffered saline $0 . 0 5 \\%$ Tween-20,and incubatedwithhorseradishperoxidase-conjugated secondary antibodies(1:50oO)for $^ { \\mathrm { ~ 1 ~ h ~ } }$ atroom temperature.The bound antibodies were detected with anenhanced chemiluminescencedetection system (Amersham,USA) and quantified by densitometry using the Chemigenius Bioimaging System (Syngene,Cambridge,UK).To ensure equal sample loading and to quantify the relative protein expression levels,the ratio of band intensity to tubulin intensity was calculated. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "All the data were expressed as $M e a n \\pm S E$ . Statistical comparisons were performed by one-way analysis of variance (ANOVA) followed by Student's $t$ -test for comparison between the group means when appropriate. A $P$ value $< 0 . 0 5$ was considered to indicate a statistically significant difference. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Equol increases viability ofPC12 cells exposed to hypoxia/ reoxygenation ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MTTassay showed that hypoxia/reoxygenation caused a decreased PC12 cell viability by $( 4 7 . 1 5 { \\pm } 4 . 1 ) \\%$ compared with the control cells ${ \\it P } { < } 0 . 0 1$ , Fig.1). Equol pre-treatment at $1 0 ^ { - 7 }$ ，and $1 0 ^ { - 6 }$ ，and $1 0 ^ { - 5 } \\mathrm { \\ m o l / L }$ for $^ { \\mathrm { ~ 1 ~ h ~ } }$ protected PC12 cellsagainst hypoxia/reoxygenationinduced injury and significantly increased the cell viability to $( 8 2 . 1 9 \\pm 1 . 0 3 ) \\%$ ， $( 5 8 . 5 \\pm 3 . 7 ) \\%$ ，and $( 5 3 . 2 5 \\pm$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$4 . 7 ) \\%$ ，respectively,as compared with that of cells in hypoxia/reoxygenation model group ( $\\scriptstyle \\cdot - 0 . 0 5$ or 0.01). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/15864541893e7bec384ee35b71f64f909fc928d5a5606492232c6c1f7e0f2360.jpg",
+        "img_caption": [
+            "Fig.1Effect of equol on cell viability of PC12 cells exposed to hypoxia/reoxygenation.PC12 cells were pretreated with the indicated concentrations of equol for $1 \\ h$ and exposed to hypoxia $( 1 \\% 0 _ { 2 } )$ for $1 2 \\mathsf { h }$ and to a normoxic atmosphere for 6 h.The cell viability was detected using MTT assay by measuring the absorbance at $4 9 0 \\ \\mathsf { n m }$ （ $( n { = } 8 )$ ： $^ { \\# \\# } P { < } 0 . 0 1$ vs control; $^ { * } P <$ 0.05, $^ { * * } P { < } 0 . 0 1$ vs hypoxia/reoxygenation (H/R). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Effects of equol and hypoxia/reoxygenation on LDH activityandMDAcontent ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "LDH activity and MDA content in the culture medium of PC12 cells were measured to evaluate the effect of equol on the membrane integrity and oxidative stress in cells exposed to hypoxia/reoxygenation injury (Fig.2). The results showed that LDH activityand malondialdehydecontentwerebothsignificantly increased in the medium of PC12 cells following the exposure tohypoxia/reoxygenation injury $( P { < } 0 . 0 1 )$ ， suggesting severe membrane damage and oxidative stress in the cells.Pre-treatment with $\\mathrm { \\bar { 1 0 } ^ { - 7 } }$ ， $1 0 ^ { - 6 }$ ，and $1 0 ^ { - 5 }$ mol/L equol significantly reduced LDH activity and MDA levels in PC12 cells with hypoxia/reoxygenation injury $( P { < } 0 . 0 1 )$ ，indicating lessened damage and/or oxidative stress in the neuronal cells. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Equolreduces hypoxia/reoxygenation-induced ROS accumulationinPC12 cells ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Compared with the control cells,PC12 cells exposedtohypoxia/reoxygenationinjuryexhibited markedlyincreased ROSactivityas indicatedby increased fluorescence intensityof the fluorescent probes DHE and DCF-DA( $\\scriptstyle \\sum ( 2 . 0 . 0 5$ or 0.01 vs control; Fig.3). Pre-treatment with $1 0 ^ { - 5 }$ and $1 0 ^ { - 6 } \\ \\mathrm { m o l / L }$ of equol significantly lowered the fluorescence intensity in the cells exposed to hypoxia/reoxygenation ( $\\scriptstyle { \\cal P } < 0 . 0 1$ ， Fig.3). These results demonstrate that an increased ROS productionisinvolvedinhypoxia/reoxygenationinduced damage in PC12 cells and that the protective effect of equol against this cell damage is mediated very likely by lowering the intracellular ROS level. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fc2cbc1d3792a3276a1b72154f36d3b6e82b289d9784d7001847c5f7b1d58acb.jpg",
+        "img_caption": [
+            "Fig.2Effects of equol on LDH activity and MDA content in PC12 culture medium.PC12 cels were pretreated with the indicated concentrations of equol for $1 \\ h$ ，exposed to hypoxia $( 1 \\% 0 _ { 2 } )$ for $1 2 \\ h$ and to a normoxic atmosphere for $6 \\ h$ 、LDH activity (A）and MDA content $( B )$ in the culture medium were determined by spectrophotometry $( n = 5 )$ $^ { \\# \\# } P { < } 0 . 0 1$ vs control; $^ { * * } P { < } 0 . 0 1$ vs H/R. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae84ab1e9a1b2a20673db81d576b0b2789aea00b81e451570a74e980017ad399.jpg",
+        "img_caption": [
+            "Fig.3Effectof equolonROS levels inculturedPC12cells exposedto hypoxia/reoxygenation.PC12cells were pretreated with the indicated concentrations of equol for $1 \\ h$ ,exposed to hypoxia $( 1 \\% 0 _ { 2 } )$ for $1 2 \\mathsf { h }$ and to a normoxic atmosphere for $6 \\mathfrak { h }$ PC12 cells were incubated with $1 0 ^ { - 5 } \\mathrm { m o l / L }$ DCF-DA or $1 0 ^ { - 5 } \\mathrm { ~ m o l / L ~ }$ DHE for 30 min in darkness.The fluorescence images show ROS levels (A) detected by DCF-DA (green)and DHE (red) in cultured PC12 cells (scale ba $\\mathsf { r } { = } 2 0 0 ~ \\mathsf { \\mu m } ,$ .Quantitative analysis of DCF-DA (B) and DHE $( c )$ staining in PC12 cells showed significantly lowered mean fluorescence intensity in equol-treated cells $( n { = } 7 )$ $^ { \\# \\# } P { < } 0 . 0 1$ vs control; $^ { * * } P { < } 0 . 0 1$ vs H/R. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Effect of equol and hypoxia/reoxygenation injuryon ${ \\mathrm { g } } p ^ { { \\boldsymbol { g } } } I ^ { p h o x }$ protein expression ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Toinvestigate whether equol decreases MDA content and intracellular ROS by directly regulating the expression of the ROS-generating enzyme Nox2 in PC12 cells，Western blotting for $\\mathrm { g p } 9 1 ^ { \\mathrm { p h o x } }$ wasperformed (Fig.4).Theexpressionof $\\mathrm { g p } 9 1 ^ { \\mathrm { p h o x } }$ proteinwas significantly enhanced in PC12 cells exposed to hypoxia/ reoxygenation injury $( P { < } 0 . 0 1 )$ ，but this increment in $\\mathrm { g p } 9 1 ^ { \\mathrm { p h o x } }$ protein was significantly antagonized by pretreatment with $1 0 ^ { - 5 }$ and $1 0 ^ { - 6 } \\mathrm { \\ m o l / L }$ of equol $( P { < } 0 . 0 1 )$ These results suggest that the neuroprotective effect of equol (particularly in reducing ROS generation) is likely mediatedbyantagonizinghypoxia/reoxygenation-ind uced $\\mathrm { g p } 9 1 ^ { \\mathrm { p h o x } }$ up-regulation in PC12 cells. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a954192cea9cd0a0ca51550cfed679edfbbe7f659c36db12ecffd83b1ca92a20.jpg",
+        "img_caption": [
+            "Fig.4Inhibitionofhypoxia/reoxygenation-induced up-regulation of ${ \\mathfrak { g p } } { \\mathfrak { g } } { \\mathfrak { l } } ^ { { \\mathfrak { p h o x } } }$ expression by equol in PC12 cells shownby Western blotting (A)and relative protein level of $\\mathfrak { g p } \\mathfrak { g } \\mathfrak { 1 } ^ { \\mathsf { p h o x } }$ to tubulin $( B )$ $( n { = } 4 )$ ： $^ { \\# \\# } P { < } 0 . 0 1$ vs control; $^ { * * } P { < } 0 . 0 1$ vs H/R. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Effectof equol on Srcphosphorylation in PC12 cells subjected to hypoxia/reoxygenation injury ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To understand the role of Src tyrosine kinase in the neuroprotective effect of equol,we measured the levels of phosphorylated Src (p-Src) in PC12 cells exposed to hypoxia/reoxygenation injury using Western blotting (Fig.5). In PC12 cells exposed to hypoxia/reoxygenation, thelevel ofp-Src(Tyr416) protein wasmarkedly increased( $P$ <0.01vscontrol) but wassignificantly reduced in cells pretreated with $1 0 ^ { - 5 }$ and $1 0 ^ { - 6 }$ mol/L of equol $( P { < } 0 . 0 1 )$ .No significant difference was found in the levels of total Src protein expression between the controlcells, PC12cellssubjectedtohypoxia/ reoxygenation,and equol-pretreated PC12 cellswith hypoxia/reoxygenation (Fig.5A). These results suggest that equol protects against hypoxia/reoxygenation injury by inhibiting Src kinase activity in PC12 cells. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b3eef99dfd87111f31dc72aa8d0a9edb2edefce9582086918a6edc407476380d.jpg",
+        "img_caption": [
+            "Fig.5 Inhibition of hypoxia/reoxygenation-induced upregulation of Src phosphorylation by equol in PC12 cells shown by Western blotting of the total (Src)and phosphorylated Src (p-Src) and tubulin levels(A)and quantification of their relative levels $( B )$ ? $\\scriptstyle { ( n = 4 ) }$ ： $^ { \\# \\# } P <$ 0.01 vs control; $\\ast \\ast P { < } 0 . 0 1 \\ v s \\mathsf { H } / \\mathsf { R }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the present study,we demonstrated that the isoflavone metabolite equol offered strong neuroprotectionofPC12cellsagainsthypoxia/ reoxygenationinjurypossiblybyinhibitingROS generation, down-regulating the ROS-generating enzyme $\\mathrm { g p } 9 1 ^ { \\mathrm { p h o x } }$ ，and inhibiting Src phosphorylation.Previous studieshavealsodemonstratedamorepotent antioxidative activity of equol than the main soy isoflavones genistein and daidzein[1619], ，suggesting the potential of equol asa useful therapeutic agent. However,only $3 3 \\%$ to $5 0 \\%$ of healthy adultsare capable of producing equol from gut microflora after dietary soy intake[29]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Hypoxic injury has been implicated in many diseases,includingstrokeandneurodegenerative diseases(3ol.Hypoxiccelldamage isoften exacerbatedby reoxygenation[31].Ourstudy_showedthatequol significantly inhibited PC12 cell death after hypoxia/ reoxygenationinjury.Hypoxia/reoxygenationinjury caused substantial oxidative damage in PC12 cells,as shown by significantly increased LDH activity and MDA content in the culture medium.Pretreatment with equol effectively lessened such cell damage in a dosedependent manner, suggesting the protective effects of equol against hypoxia/reoxygenation injuryinthe cultured neuronal cells. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Richardson et al[32] recently reported that the RandS-formsofequolwere equallyeffectivein attenuating ROS generation and preventing cell death againstL-buthionine(S,R)-sulfoximine-induced oxidative insult in cultured fibroblasts with Friedreich's ataxia.The antioxidant effect of equol was mediated by inhibition of superoxide anion production[3334l.Hypoxia followed by reoxygenation causes the overproduction of ROS,e.g.， the superoxide anion andhydrogen peroxide 35]，and our findings show that pre-treatment with equol caneffectivelysuppress hypoxia/ reoxygenation-induced ROS over-production in PC12 cells to attenuate the cellular oxidative stress. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ROS is generated from many sources, including the mitochondrial electron transport system,the Nox，and other cellular oxidant-generatingsystemsincells exposedtohypoxiaorhyperoxia[36-38]。Substantial evidence suggests that Nox2 is the most important Nox to mediate cerebral injury by facilitating the transport of electrons from NADPH to $\\mathrm { O } _ { 2 }$ ,resulting in the generation of superoxideanion[61olROSalsoplaysanimportant role as second messengers to activate such cellular signaling pathways as PTK,MAP kinases,and PLCgamma[l The Src family of non-receptor PTK is abundantly expressed in the brain and plays a prominent role in mediating ischemic alteration in neurons.The Src kinase comprises 6 distinct functional domains,and the regulationofitscatalyticdomainbyTyr416 phosphorylation is critical for its kinase activity [39]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this context,we examined the effect of equol on Nox2 protein levels in PC12 cells exposed to hypoxia/ reoxygenation injury.The results showed that equol significantly attenuated the increment of $\\mathrm { \\ g p ^ { 9 1 } } ^ { \\mathrm { p h o x } }$ protein expressioninPC12cellsexposedtohypoxia/ reoxygenation，demonstrating that the neuroprotective effect of equol relied on inhibition of Nox2 expression as the main ROS-generating enzymes in the neurons.In addition, the expression level of p-Src was significantly increased in PC12 cells following hypoxia/reoxygenation injury,and was attenuated by pretreatment with equol. Wetherefore infer that equol alleviateshypoxia/ reoxygenation-induced neuronal injury and cell death partially via suppressing Src activation. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In summary，our data demonstrate that equol confers neuroprotection against hypoxia/reoxygenation injuryby inhibiting the generation of ROS.The effect is very likely mediated by the inhibition of Src-mediated cell signaling and the down-regulation of the main neuronal ROS generating enzyme $\\mathrm { g p } 9 1 ^ { \\mathrm { p h o x } }$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The authors are grateful for substantial support from Professor Chen Huang in the Department of Genetics and Cellular Biology,School of Basic Medical Sciences,Xi'an Jiaotong University Health Science Center. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "REREFERENCES ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Liu M,Wu B,Wang WZ,et al. Stroke in China:epidemiology, prevention,and management strategies[J].Lancet Neurol,2007,6 (5): 456-64.   \n[2]Chan PH. Reactive oxygen radicals in signaling and damage in the ischemic brain[J].JCereb Blood Flow Metab,20O1,21(1):2-14.   \n[3] Sun AY,Wang Q, Simonyi A,et al.Resveratrol as a therapeutic agent forneurodegenerative diseases [J].Mol Neurobiol,2O1O,41(2-3): 375-83.   \n[4]Allen CL,Bayraktutan U.Oxidative stress and itsrolein the pathogenesis of ischaemic stroke[J]. Int JStroke,2009,4(6): 461-70.   \n[5]SchildL,ReiserG.Oxidative stressisinvolved inthepermeabilization of the inner membrane of brain mitochondria exposed to hypoxia/reoxygenation and low micromolar Ca²+[J].FEBS J,2005, 272(14): 3593-601.   \n[6]Kahles T,BrandesRP.Which NADPHoxidaseisoform isrelevantfor ischemic stroke? The case for nox2[J].Antioxid Redox Signal,2013, 18(12): 1400-17.   \n[7]InfangerDW,SharmaRV,DavissonRL.NADPHoxidasesof the brain:distribution，regulation，and function [J].Antioxid Redox Signal,2006,8(9-10): 1583-96.   \n[8]Sorce S, Krause KH. NOX enzymes in the central nervous system: from signaling to disease[J].Antioxid Redox Signal,2009,1(10): 2481-504.   \n[9]Tang LL,YeK,Yang XF,etal.Apocyninatenuatescerebral infarction after transient focal ischemia inrats[J].JInt Med Res, 2007,35(4): 517-22.   \n[10]Chen H,Song YS,ChanPH.Inhibition_of NADPH_oxidaseis neuroprotective after ischemia-reperfusion[J].J Cereb Blood Flow Metab,2009,29(7): 1262-72.   \n[11]Kahles T, Luedike P,Endres M, et al. NADPH oxidaseplays_a central role in blood-brain barrier damage in experimental stroke[J]. Stroke,2007,38(11): 3000-6.   \n[12]Knock GA,Ward JP.Redox regulation of proteinkinases asa modulator of vascular function[J].Antioxid Redox Signal, 2O11,15 (6): 1531-47.   \n[13]Birt DF,Hendrich S,Wang W.Dietaryagents incancer prevention: flavonoidsand isoflavonoids [J].Pharmacol Ther,20oi,90(2-3): 157-77.   \n[14]Atkinson C,Frankenfeld CL,Lampe JW.Gut bacterial metabolism of the soy isoflavonedaidzein: exploring the relevance to human health [J].Exp Biol Med (Maywood),2005,230(3):155-70.   \n[15]MoritoK,Hirose T,KinjoJ,etal.Interaction of phytoestrogens with estrogen receptors alpha and beta[J]. Biol Pharm Bull,20o1,24(4): 351-6.   \n[16]Mitchell JH,Gardner PT,McPhail DB,et al.Antioxidant efficacy of phytoestrogens in chemical and biological model systems[J].Arch Biochem Biophys,1998,360(1): 142-8.   \n[17]Rimbach G,De Pascual-Teresa S, Ewins BA,et al. Antioxidant and freeradicalscavengingactivityofisoflavonemetabolites [J]. Xenobiotica,2003,33(9): 913-25.   \n[18]Ruifer CE,Kulling SE.Antioxidant activity of isoflavones and their major metabolites using different in vitro assays[J].JAgric Food Chem,2006,54(8): 2926-31.   \n[19]Turner R,Baron T,Wolffram S,et al.Effect of circulating forms of soy isoflavones on the oxidation of low density lipoprotein[J].Free Radical Res,2004,38(2): 209-16.   \n[20] Choi EJ,Kim GH. Anticancer mechanism of equol in7,12- dimethybeteradls.Itol, (3): 747-54.   \n[21]Schreihofer DA, Do DK, Schreihofer AM.High-soy diet decreases infarct size_after permanent middle cerebral artery occlusion in female rats[J].Am JPhysiol Regul Integr Comp Physiol,2005,289 (1): R103-8.   \n[22]Ma Y, Sullvan JC, Schreihofer DA. Dietary genistein and equol (4',7 isoflavandiol) reduce oxidative stressand protect rats_against focal cerebral ischemia[J].AmJPhysiol RegulIntegr Comp Physiol,2010, 299(3): R871-7.   \n[23]Yu W, Wang Y, Zhou DX,et al.Equol is neuroprotective during focal cerebral ischemia and reperfusion that involves p-Src and gp91 $\\mathrm { p h o x }$ [J]. Curr Neurovas Res,2014,11(4): 367-77.   \n[24]RatanRR,MurphyTH,BarabanJM.Oxidativestressinduces apoptosis in embryonic cortical neurons[J]. JNeurochem,1994,62 (1): 376-9.   \n[25]VimardF,NuvelotA,DuvalD.Cytotoxicefectsofanoxidative stress on neuronal-like pheochromocytoma cells (PC12)[J].Biochem Pharmacol,1996,51(10): 1389-95.   \n[26]Greene LA,Tischler AS.Establishmentof anoradrenergic clonal line ofrat adrenal pheochromocytoma_celswhich respond to nerve growth factor[J].Proc Natl Acad Sci USA,1976,73(7): 2424-8.   \n27]Koo BS,LeeWC,ngKHetal.AwaterextractofCurclo L. (Zingiberaceae) rescues PC12 cell death caused by pyrogalol or hypoxia/reoxygenationand attenuates hydrogen peroxide induced injury nPC12cells[J].LifeSci,2004,75(19):2363-75.   \n[28] Zhao LM, Zhang W,Wang LP,et al.Advancedglycation end products promote proliferation of cardiac fibroblasts by upregulation ofKCa3.1 channels[J].Pflugers Arch,2012,464(6): 613-21.   \n[29]Lampe JW,Skor HE,Li S,etal.Wheat bran and soy protein feeding do not alter urinary excretion of the isoflavan equol in premenopausal women[J].JNutr,2001,131(3): 740-4.   \n[30]Risuleo G,Cristofanilli M, Scarsella G.Acute ischemia/hypoxia in rat hippocampal neurons activates nuclear ubiquitin and alters both chromatin and DNA[J].Mol Cell Biochem,2003,250(1-2): 73-80.   \n[31]Xiao XQ,Lee NT,Carlier PR,et al.Bis(7)-tacrine,a promising antiAlzheimer's agent,reduces hydrogen peroxide-induced injury in rat pheochromocytoma cells: comparison with tacrine[J].Neurosci Lett, 2000,290(3):197-200.   \n[32]Cheng C,Wang X,Weakley SM,et al. The soybean isoflavonoidequol blocks ritonavir-induced endothelial dysfunction in porcine pulmonary arteries and human pulmonary artery endothelial cells[J].J Nutr,2010,140(1): 12-7.   \n[33]Hwang J,Wang J,Morazzoni P,et al.The phytoestrogen equol increasesnitricoxideavailabilitybyinhibitingsuperoxide production: an antioxidant mechanism for cell-mediated LDL modification[J].Free Radic Biol Med,2003,34(10): 1271-82.   \n[34]Fordel E,Thijs L,Martinet W,et al.Anoxia or oxygen and glucose deprivation in SH-SY5Y cells:a step_closer to the unraveling of neuroglobin and cytoglobin functions [J].Gene,2OO7,398(1-2): 114-22.   \n[35]Chowdhury AK,Watkins T,Parinandi NL,et al. Src-mediated tyrosine phosphorylation of $\\mathrm { p 4 7 ^ { \\mathrm { p h o x } } }$ in hyperoxia-induced activation of NADPH oxidase and generation of reactive oxygen species in lung endothelial cells[J]. JBiol Chem,2005,280(21): 20700-11.   \n[36]Lambeth JD.NOX enzymes and the biology of reactive oxygen[J].Nat Rev Immunol, 2004,4(3): 181-9.   \n[37]Ward JP.Point: hypoxic pulmonary vasoconstriction is mediated by increased production of reactive oxygen species[J].J Appl Physiol (1985),2006,101(3): 993-5.   \n[38] Kamata H, Hirata H.Redox regulation of cellular signaling[J]. Cell Signal,1999,11(1): 1-14.   \n[39]Tang XN,Cairns B,Kim JY,et al.NADPH oxidase in stroke and cerebrovascular disease|J].Neurol Res,2012,34(4):338-45. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "雌马酚对PC12细胞缺氧/复氧损伤的保护作用及其机制",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "于玮1,2,3，邓秀玲1,²，马真1,²，王燕1,2  \n西安交通大学医学部'生理学与病理生理学系， $^ 2 \\cdot \\cdot \\sigma$ 血管研究中心，陕西西安710061；西安医学院基础医学部  \n生理学教研室，陕西 西安 710021",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的探讨雌马酚对PC12细胞缺氧/复氧损伤的保护作用及机制。方法以PC12细胞为研究对象，构建体外神经元缺氧/复氧损伤模型,用雌马酚进行干预。MTT法检测细胞活力,比色法测定细胞培养上清液中乳酸脱氢酶(LDH)活性和丙二醛(MDA)含量,免疫细胞化学法检测活性氧(ROS)含量,Westermblotting检测缺氧/复氧损伤的PC12细胞内NADPH氧化酶 2$\\mathrm { ( g p 9 1 ^ { p h o x } ) }$ 和磷酸化Src(p-Src)激酶的表达。结果雌马酚可有效减轻缺氧/复氧引起的PC12细胞损伤，降低缺氧/复氧损伤细胞培养上清液中LDH的活性和MDA的含量，明显抑制ROS的生成及 $\\mathrm { g p } 9 1 ^ { \\mathrm { p h o x } }$ 和p-Src的表达。结论雌马酚通过抑制p-Src激酶和 $\\operatorname { g p } 9 1 ^ { \\operatorname { p h o x } }$ 表达，减少ROS生成，从而对PC12细胞缺氧/复氧损伤产生保护作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "关键词：雌马酚;缺氧/复氧;神经保护； $\\operatorname { g p } 9 1 ^ { \\mathrm { p h o x } }$ ;Src激酶 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "收稿日期：2015-07-09  \n基金项目：国家自然科学基金(81170137，81200097)  \n作者简介:于玮,博士,讲师,E-mail:marine_wei@163.com  \n通信作者：王 燕,博士,讲师,电话:029-82657497,E-mail:wangyan2010@mail.xjtu.edu.cn",
+        "page_idx": 6
+    }
+]

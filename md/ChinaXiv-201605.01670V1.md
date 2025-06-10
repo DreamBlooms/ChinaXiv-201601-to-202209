@@ -1,0 +1,206 @@
+# 红精灵发光光谱的数值模拟研究
+
+江芳1 黄朝艳² 张华龙² 李小银1 王咏梅1
+
+1(中国科学院空间科学与应用研究中心北京 100190)  
+2(南京航空航天大学航空宇航学院南京 210016)
+
+摘要红精灵是发生在雷暴层云顶的一类大气瞬态发光现象，是能量由对流层耦合到中高层大气的直接证据其发光光谱研究是了解整个事件对中高层大气能量注入的重要手段，有助于认识事件发生区域的大气电离度及事件过程的能量电子分布，进一步为研究红精灵的产生机制提供重要信息，同时为大气辐射背景资料研究提供重要依据．本文利用 Boltzmann 方程求解了电场作用下弱电离气体中电子能量分布的时变函数，以此为基础，模拟计算了红精灵各典型发射带的光谱强度.模拟计算结果表明，约化电场 $E / N$ 越强，电子获得的能量就越多，高能电子也就越多，致使撞击中性大气产生的辐射光强就越强;模拟显示红精灵光辐射谱分布从远紫外直至近红外.
+
+关键词红精灵，大气瞬态发光现象，能量分布,体发射率中图分类号P352
+
+# Study on Spectrum of Sprite Emissive Using Numerical Simulation
+
+JIANG Fang1 HUANG Chaoyan² ZHANG Hualong $^ 2$
+
+LI Xiaoyin1 WANG Yongmei1
+
+1(Center for Space Science and Applied Research,Chinese Academy of Sciences,Beijing 100190)
+
+(Colege ofAerospace Engineering，Nanjing UniversityofAeronauticsandAstronautics，Nanjing210016
+
+AbstractSprites are the transient luminous events above very active thunderstorms and are the direct evidence of the energy in troposphere coupled to the upper atmosphere. The emisive spectrum study is the important means to understand the energy injected into upper atmosphere and regional ionization,the electron energy distribution during the whole event.These parameters are useful for the study of sprites’ physical mechanism,in addition as a kind of natural atmospheric luminous phenomenon, the emissive spectrum study is useful for providing important information to the research of atmospheric radiation background information. Based on the Boltzmann Equation to calculate the time evolution of the electron energy distribution function in a mixture of partially ionized gases with an applied electric field, the paper calculated the spectral intensity in typical emissive band for sprites. Simulation results show that the emissive intensity is more intensive with more intensive $E / N$ and the emissive spectrum is from far ultraviolet to near infrared. Key wordsSprite,Transient luminous events, Energy distribution,Volume emissive rates
+
+# 0 引言
+
+红精灵是1989 年Franz 等[1]在一次低光度相机测试中意外记录到的瞬态大气发光现象．1994年Sentman等[2利用飞机上的多波段相机对红精灵进行观测,发现红精灵发生的高度在 $4 0 { \sim } 9 0 \mathrm { k m }$ ，上下范围约数十公里，通常在云对地闪电后几毫秒后发生，发光持续时间从几毫秒至数百毫秒不等
+
+红色精灵由于亮度较高而容易被观测到，成为中高层大气瞬态发光事件中研究最多的现象，准静电场模型[3]对其发生机制的解释认为，闪电放电后雷暴云中剩余电荷及大气中的诱导电荷与自由电荷在中高层大气中产生一个很强的准静电场（Quasi-ElectrostaticField,QEF)，并渗透到中间层和低电离层,强度随高度和时间变化并产生电子加速，进而引起大气的击穿和光辐射.1996年Pasko等[3]利用经验公式计算了低电离层中的电子在QEF作用下引起的电离和分子的光学激发，但计算是通过实验数据拟合而成的,并没有考虑电子在QEF中的动力学过程在此基础上，本文考虑电子在QEF中的动力学行为，利用Boltzmann方程计算了电场作用下电子与中性大气成分碰撞的动力学方程，进而获得电子能量分布函数，并在此基础上计算了 $\mathrm { N } _ { 2 }$ 各典型发射带系的发射光谱强度.
+
+# 1动力学模型
+
+部分电离气体中存在电场时，电子受到电场的加速作用使能量增大，与气体分子发生碰撞后，将能量传递给气体分子，造成能量损失，导致低温非平衡态等离子体放电，其电子能量分布随时间的变化不再服从Maxwell分布和Druyvesteyn分布[4],或者说不存在普遍适用的分布函数．因此，需要根据Boltzmann 输运方程计算出准确的电子能量分布函数，此方程可以描述受到电场加速的电子与气体分子间的相互作用，主要考虑二体碰撞，适用于电离度极低的低电离层.
+
+Boltzmann 输运方程表示如下：
+
+$$
+\left( \frac { \partial } { \partial t } + \nu \nabla _ { \boldsymbol { r } } + \frac { e E } { m } \nabla _ { \boldsymbol { v } } \right) f ( \boldsymbol { r } , \boldsymbol { v } , t ) = \left( \frac { \partial f } { \partial t } \right) _ { \mathrm { c o l l . } } ,
+$$
+
+$$
+E = E _ { 0 } \sin \omega t .
+$$
+
+其中， $\boldsymbol { r }$ 为位置参数， $\boldsymbol { v }$ 为电子速度， $e$ 为电子电荷，$m$ 为电子质量, $E$ 为外加电场强度， $\omega$ 为电场激发频率， $\boldsymbol { \nabla } _ { \boldsymbol { r } }$ 和 $\nabla _ { v }$ 分别为空间和速度梯度算符．式 (1)中 $f ( \boldsymbol { r } , \boldsymbol { v } , t )$ 描述的是电子数密度在空间和速度上的分布概率，其函数即为要求的解，式（1）等号右边是碰撞过程中影响 $f$ 的碰撞项
+
+假设电子数密度在空间上均匀分布，即与位置 $\boldsymbol { r }$ 无关,那么 $f ( r , v , t )  f ( v , t )$ 将 $f ( v , t )$ 做两项球谐展开(two-term spherical harmonic expansion),有
+
+$$
+f ( t , v ) = f _ { 0 } ( t , v ) + \frac { v } { v } f _ { 1 } ( t , v ) .
+$$
+
+其中, $f _ { 0 } ( v , t )$ 表示球对称的电子速度分布函数，与速度大小有关; $\frac { v } { v } f _ { 1 } ( t , v )$ 表示非对称项，若电场沿 $+ z$ 轴方向运动，此项可写为 $f _ { 1 } ( t , v ) \cos \theta$ ，这里 $\theta$ 为速度 $\mathbf { \sigma } _ { v }$ 与电场 $E$ 的夹角.
+
+考虑气体与电子间动量的转移、非弹性、弹性碰撞及超弹性碰撞(电子与激发态气体的碰撞)过程Boltzmann方程可以表达为如下电子数密度的形式：
+
+$$
+\begin{array} { l } { \displaystyle = - \frac { \partial J _ { \mathrm { f } } } { \partial \varepsilon } - \frac { \partial J _ { \mathrm { c l } } } { \partial \varepsilon } + } \\ { \displaystyle \sum _ { s , j } N _ { s } ^ { 0 } [ R _ { s j } ( \varepsilon + \varepsilon _ { s j } ) n ( \varepsilon + \varepsilon _ { s j } ) - } \\ { \displaystyle R _ { s j } ( \varepsilon ) n ( \varepsilon ) ] - \sum _ { s , j } N _ { s } ^ { j } \cdot } \\ { \displaystyle [ R _ { s j } ^ { * } ( \varepsilon ) n ( \varepsilon ) - R _ { s j } ^ { * } ( \varepsilon - \varepsilon _ { s j } ) n ( \varepsilon - \varepsilon _ { s j } ) ] . } \end{array}
+$$
+
+其中,
+
+$$
+J _ { \mathrm { f } } = \frac { 2 N _ { \mathrm { e } } ^ { 2 } ( E / N ) ^ { 2 } \varepsilon } { 3 m ( 2 \varepsilon / m ) ^ { 2 / 2 } \sum _ { s } \delta _ { s } \sigma _ { s } ( \varepsilon ) } \Big ( \frac { n } { 2 \varepsilon } - \frac { \partial n } { \partial \varepsilon } \Big ) ;
+$$
+
+$$
+J _ { \mathrm { e l } } = - N \Bigl ( \frac { 2 \varepsilon } { m } \Bigr ) ^ { 1 / 2 } \sum _ { s } \delta _ { s } \frac { 2 m } { M _ { 2 } } \sigma _ { \mathrm { e } } ( \varepsilon ) \cdot
+$$
+
+$$
+\Big [ n \Big ( \frac { k T } { 2 } - \varepsilon \Big ) - k T \varepsilon \frac { \partial n } { \partial \varepsilon } \Big ] ;
+$$
+
+$$
+\begin{array} { l } { { { \cal R } _ { s , j } ( \varepsilon ) = \displaystyle \left( \frac { 2 } { m } \right) ^ { 1 / 2 } \left[ \varepsilon ^ { 1 / 2 } \sigma _ { s \sigma _ { s } } ( \varepsilon ) \right] ; } } \\ { { { \cal R } _ { s , j } ^ { * } ( \varepsilon ) = \displaystyle \left( \frac { 2 } { m } \right) ^ { 1 / 2 } \left[ \frac { ( \varepsilon + \varepsilon _ { s } ) } { \varepsilon ^ { 1 / 2 } } \sigma _ { s \sigma _ { s } } ( \varepsilon + \varepsilon _ { s } ) \right] ; } } \\ { { { \cal N } = \displaystyle \sum _ { s , j } ( N _ { s } ^ { 0 } + N _ { s } ^ { j } ) ; } } \\ { { { \displaystyle \left[ \begin{array} { l } { { - \infty } } \\ { { 0 } } \\ { { \varepsilon ( \varepsilon ) = N _ { s } f _ { 0 } ( \varepsilon ) \varepsilon ^ { 1 / 2 } \mathrm { d } \varepsilon = n _ { \sigma , \varepsilon } } } \end{array} \right] } } } \end{array}
+$$
+
+使
+
+$$
+\int _ { 0 } ^ { + \infty } n ( \varepsilon ) \mathrm { d } \varepsilon = n _ { \mathrm { e } } ;
+$$
+
+$$
+\bar { \varepsilon } = \int _ { 0 } ^ { + \infty } f _ { 0 } ( \varepsilon ) \varepsilon ^ { 3 / 2 } \mathrm { d } \varepsilon .
+$$
+
+式 $( 1 ) { \sim } ( 1 1 )$ 中， $s$ 为受激发气体种类, $j$ 为受激发气体能态， $j _ { \mathrm { f } }$ 为从电场中获得的能量， $j _ { \mathrm { e l } }$ 为弹性碰撞损失的能量, $R _ { s j }$ 为电子激发 $s$ 气体从基态到激发态 $j$ 的碰撞截面, $R _ { s j } ^ { * }$ 为电子与激发态 $j$ 的 $s$ 气体产生超弹性碰撞的碰撞截面， $\bar { \varepsilon }$ 为电子平均能量， $N$ 为空气密度.
+
+式(4)右边第一项为电子能谱的基本展开，为简化可认为放电前后空气数密度近似保持不变，因此通过式 (4)求解可获得时变分布函数.将外加电场转化为 $E / N$ 的形式作为输入参数,这样处理的目的是,同时兼顾电场的作用和中性成分的影响，且减少了方程的输入参数．以 $E / N$ 为输入量，通过有限差分法对方程离散化，反复迭代直到电子能量分布函数达到稳态为止，此即电子能量分布函数,根据式（11）可计算电子平均能量.
+
+计算中假设空气是 $\mathrm { N } _ { 2 }$ 和 $\mathrm { O _ { 2 } }$ 按照体积分数为 $2 1 \%$ 和 $7 9 \%$ 的比例混合而成，除 $\mathrm { N } _ { 2 }$ 和 $\mathrm { O _ { 2 } }$ 的反应外，其他粒子的碰撞反映情况暂忽略.主要考虑的碰撞过程及其对应的能量阈值列于表1和表2,各种碰撞截面取自实验结果文献 $[ 5 \mathord { \sim } 9 ]$ 业
+
+图1给出的是当 $\begin{array} { l l l } { { { \cal E } / N } } & { { = } } & { { 1 0 \mathrm { T d } } } \end{array}$ （ $\mathrm { 1 T d ~ = }$ $1 0 ^ { - 1 7 } \mathrm { V \cdot c m ^ { 2 } } ,$ ）时，迭代过程中 （达到稳定前）电子能量分布函数随时间的变化情况．从图1可以看出，有外部电场存在的非平衡态下，电子能量分布呈明显的非Maxwell分布;随着时间的增加，高能区的电子越来越少，直至达到稳定后，电子能量分布函数趋于Maxwell分布.
+
+图2为 $1 . 0 \mathrm { n s }$ 时刻(非稳定时刻)电子能量分布函数随约化电场 $( E / N = 1 0 \$ ，30，50，100，200，400,$6 0 0 \mathrm { T d } )$ 的变化情况．从图2可以看出，在 $E / N =$ $1 0 \mathrm { T d }$ 时，大部分电子的能量较低，高能电子比例很少，电子能量高于 $1 0 \mathrm { e V }$ 的分布概率几乎为零；随着约化电场不断增强，最大分布概率降低，能量分布范围显著增大，低能电子减少，高能电子增多，分布概率向高能方向移动，越来越背离Maxwell分布，
+
+与图2相对应，图3给出了同一时刻 $E / N$ 与电子平均能量的关系，随着 $E / N$ 的增大，高能量电子越来越多，因而平均能量随 $E / N$ 的增大明显增大.
+
+![](images/77ab84dfc465fb1d2801e42b36fa1f1e12a4a43fd154e57f39b3319b1b2412a6.jpg)  
+图1电子能量分布函数随时间的变化 (达到稳定前)Fig.1Time evolution of the electron energydistribution function (before reach steady state)
+
+![](images/7816be93468525347ecac2425450ade28922ce2e508e9ab3087919f3cefb61b0.jpg)  
+图2电子能量分布函数随约化电场的变化 (达到稳定前) Fig.2Evolution of the electron energy distribution function with $E / N$ (before reach steady state)
+
+# 表1电子与氮气分子的主要碰撞过程
+
+Table 1Inelastic collisions of electrons with molecular nitrogen   
+
+<html><body><table><tr><td>collision process</td><td>reaction</td><td>threshold energy/eV</td></tr><tr><td>N2 rotational</td><td>e+N2 →e+N2 (rotational)</td><td>0.02</td></tr><tr><td>N2 vibrational</td><td>e+N2 → e+N2(ν = 1)</td><td>0.29</td></tr><tr><td></td><td>e+N2 →e+N2(ν =1)</td><td>0.291</td></tr><tr><td></td><td>e+N2 → e+N2(ν = 2)</td><td>0.590</td></tr><tr><td></td><td>e+N2 →e+N2(ν = 3)</td><td>0.88</td></tr><tr><td></td><td>e+N2 → e+N2(ν = 4)</td><td>1.17</td></tr><tr><td></td><td>e+N2 →e+N2(ν = 5)</td><td>1.47</td></tr><tr><td></td><td>e+N2 → e+N2(ν = 6)</td><td>1.76</td></tr><tr><td></td><td>e+N2→e+N2(ν =7)</td><td>2.06</td></tr><tr><td>N2 electronic</td><td>e+N2 →e+N2(ν = 8)</td><td>2.35</td></tr><tr><td></td><td>e+N2 → e+N2(A³Σ,ν = 1~4)</td><td>6.17</td></tr><tr><td></td><td>e+N2 → e+N2(A³Σt,ν = 5~9)</td><td>7.00</td></tr><tr><td></td><td>e+N2→e+N2(B³IIg）[1PN2]</td><td>7.35</td></tr><tr><td></td><td>e+N2→e+N2(W³△u)</td><td>7.36</td></tr><tr><td></td><td>e+N2→ e+N2(A³Σt,ν ≥ 10)</td><td>7.80</td></tr><tr><td></td><td>e+N2→ e+N2(B³Σu)</td><td>8.16</td></tr><tr><td></td><td>e+N²→e+N2(a¹Σu)</td><td>8.40</td></tr><tr><td></td><td>e+N2 →e+N2(a¹ IIg）[LBH N2]</td><td>8.55</td></tr><tr><td></td><td>e+N2→e+N2(ω1△u)</td><td>8.89</td></tr><tr><td></td><td>e+N2 →e+N2(C³IIu） [2PN2]</td><td>11.03</td></tr><tr><td></td><td>e+N2 → e+N2(E³Σ)</td><td>11.88</td></tr><tr><td></td><td>e+N2 → e+N2(a"¹Σ)</td><td>11.25</td></tr><tr><td>N2 sum of singlet states</td><td>e+N2 →e+N</td><td>13.00</td></tr><tr><td>N2 ionization</td><td>e+N2→ 2e+N±(X²Σ†,A²IIg)</td><td>15.6</td></tr><tr><td></td><td>e+N2→2e+N(B²Σt)[1NN‡]</td><td>18.8</td></tr></table></body></html>
+
+# 2激发率的计算
+
+得到电子能量分布和碰撞截面，即可计算得到各个碰撞过程的激发率，有
+
+$$
+K _ { \mathrm { e } x , k } = \nu _ { k } / N = \int _ { 0 } ^ { + \infty } \sqrt { 2 \varepsilon / m _ { \mathrm { e } } } f ( \varepsilon ) \sigma _ { k } ( \varepsilon ) \mathrm { d } \varepsilon .
+$$
+
+其中, $\nu _ { k }$ (单位 $\mathrm { s } ^ { - 1 }$ ）为碰撞频率，反映的是一个电子在有电场情况下碰撞大气分子使之处于 $k$ 激发态的能力； $\varepsilon$ 和 $m _ { \mathrm { e } }$ 分别为电子能量(单位 $\mathrm { e V }$ )和质量(单
+
+位g)， $N$ 为中性分子数密度; $f ( \varepsilon )$ 为归一化电子能量分布，满足
+
+$$
+\int _ { 0 } ^ { + \infty } f ( \varepsilon ) \mathrm { d } \varepsilon = 1 ;
+$$
+
+$\sigma _ { k } ( \varepsilon )$ 为各反应过程对应的碰撞截面．观测和数据分析表明，中高层闪电辐射主要源自 $\mathrm { N } _ { 2 }$ 或 $\mathrm { N _ { 2 } ^ { + } }$ 的激发辐射，而 $\mathrm { O _ { 2 } }$ 分子的激发率较 $\mathrm { N } _ { 2 }$ 或 $\mathrm { N _ { 2 } ^ { + } }$ 低得多[2]，因此本文未予以考虑，这里主要考虑 $\mathrm { 1 P N _ { 2 } }$ ， $\mathrm { 2 P N _ { 2 } }$ ，LBH$\mathrm { N } _ { 2 }$ ，Meinel $\mathrm { N _ { 2 } ^ { + } }$ ， $\mathrm { 1 N N _ { 2 } ^ { + } ~ ; }$ 5个带的激发辐射，对应的分子或离子的能级跃迁及激发能量阈值列于表3[10].
+
+Table 2Inelastic collison of electrons with molecular oxygen   
+
+<html><body><table><tr><td>collision process</td><td>reaction</td><td>threshold energy/eV</td></tr><tr><td>O2 rotational</td><td>e+O2 → e+O2 (rotational)</td><td>0.02</td></tr><tr><td>O2 vibrational</td><td>e+O2 →e+O2 (ν =1)</td><td>0.19</td></tr><tr><td rowspan="6">O2 electronic</td><td>e+O2→e+O2(ν = 2)</td><td>0.38</td></tr><tr><td>e+O2→e+O2(ν =3)</td><td>0.57</td></tr><tr><td>e+O2→ e+O2(ν = 4)</td><td>0.75</td></tr><tr><td>e+O2→e+O2(a1△g)</td><td>0.977</td></tr><tr><td>e+O²→ e+O2(b1Σ+)</td><td>1.627</td></tr><tr><td>e+02 → e+O2(c¹Σu)</td><td>4.50</td></tr><tr><td rowspan="4">O2 dissociation</td><td>e+O2 →e+O(P)+O(P)</td><td>6.00</td></tr><tr><td>e+O2 → e+O(³PP)+O(1D)</td><td>8.40</td></tr><tr><td>e+O2 →e+O(1D)+O(1D)</td><td>10.00</td></tr><tr><td>e+O2 → e+O(³P)+O(³s°)</td><td>14.7</td></tr><tr><td>O2 ionization</td><td>e+O2→ 2e+O±(X²IIg)</td><td>12.06</td></tr><tr><td>O2 two-body attachment</td><td>e+ O² → e+O2</td><td></td></tr></table></body></html>
+
+表2电子与氧气分子的主要碰撞过程  
+表3Sprite各谱段的跃迁能级、激发阈值、波长范围及与中性大气碰撞的淬灭率 lable 3List of major emission band systems and key parameters of molecular nitrogen   
+
+<html><body><table><tr><td>发射带</td><td>跃迁能级</td><td>激发阈值</td><td>波长/nm</td><td>kqN2/ (cm³.s-1)</td><td>kq02/(cm³.s-1)</td></tr><tr><td>1PN2</td><td>N2(B³IIg)）→ N2(A²Σ)</td><td>7.35</td><td>478~2531</td><td>1.6 × 10-11</td><td>1.5 × 10-10</td></tr><tr><td>2PN2</td><td>N2(C³IIu)→ N2(B²IIg)</td><td>11</td><td>268~546</td><td>1.12 × 10-11</td><td>2.85 × 10-10</td></tr><tr><td>LBH N2</td><td>N2(a¹IIg)→N2(X²Σ+)</td><td>8.6</td><td>100~260</td><td>2.2 × 10-11</td><td>4.3 × 10-10</td></tr><tr><td>Meinel N‡</td><td>N½(A²Σ)→ N(X²Σ)</td><td>16.7</td><td>550~1770</td><td>1.12 × 10-11</td><td>2.9 × 10-10</td></tr><tr><td>1NN</td><td>N(B²Σ+)→N(X²Σ+)</td><td>19</td><td>286~587</td><td>4.53 × 10-10</td><td>7.36 × 10-10</td></tr></table></body></html>
+
+图 4 给出了激发态 $\mathrm { N } _ { 2 } ( B ^ { 2 } \varPi _ { g } )$ ， $\mathrm { N } _ { 2 } ( C ^ { 3 } \varPi _ { u } )$ $\mathrm { N } _ { 2 } ( a ^ { 1 } \varPi _ { g } )$ ， $\mathrm { N } _ { 2 } ^ { + } ( A ^ { 2 } \itSigma _ { u } ^ { + } )$ ， $\mathrm { N } _ { 2 } ^ { + } ( B ^ { 2 } \varSigma _ { u } ^ { + } )$ 对应的激发率 $k _ { \mathrm { e } x , k }$ 随 $E / N$ 的变化．由图4可以看出, $k _ { \mathrm { e } x , k }$ 随 $E / N$ 的增大而增大,如表3所示,相对前三个 $\mathrm { N } _ { 2 }$ 分子带的激发，两个 $\mathrm { N _ { 2 } ^ { + } }$ 离子带的激发阈值要高因此当 $E / N$ 较小时，几乎没有离子带的激发，随着 $E / N$ 的增大，两个离子带的激发率迅速增大，直至超过分子带的激发率.
+
+# 3体发射率计算
+
+高能级态的分子/离子向低能级态跃迁时会释放光子，光子对应的波长 $\lambda$ 由两个能级态的能量差决定,即
+
+$$
+\lambda = 1 / ( E _ { \mathrm { u } } - E _ { \mathrm { l } } ) .
+$$
+
+其中, $E _ { \mathrm { u } }$ 为高能级态的能量， $E _ { \mathrm { l } }$ 为低能级态的能量，单位均为波数 $\mathrm { c m } ^ { - 1 }$ ：
+
+![](images/722355ffdf6454749918a527299ffa076ff43e8fe2786049f8b44258fbd0ff8e.jpg)  
+图3 $E / N$ 与电子平均能量的关系 (达到稳定前) Fig.3Time evolution of electron mean energy (before reach steady state)
+
+![](images/b323da0b37c23909c89f2289eb33b52170b9d86536f39156b6ef71f3bf2a9f83.jpg)  
+图4各激发态对应的激发率 $k _ { \mathrm { e } x , k }$ 随 $E / N$ 的变化 Fig.4 Excitation rate for the upper state as a function of $E / N$
+
+一个双原子分子/离子的能量由所在的电子能级、振动能级及转动能级三部分能量构成，处于激发态的分子/离子在向低能级跃迁过程中，除了电子能级的变化，还会产生振动能级以及转动能级的变化，因此不同的能量变化会形成不同波长的光辐射．已知某激发态的激发率 $k _ { \mathrm { e } x , k }$ ，可以计算处于激发态的氮分子/离子数密度，有
+
+$$
+n _ { k , \nu } = N _ { \mathrm { N } _ { 2 } } N _ { \mathrm { e } } K _ { \mathrm { e } x , k } / ( \tau _ { k \nu } ^ { - 1 } + k _ { q \mathrm { N } _ { 2 } } N _ { \mathrm { N } _ { 2 } } + k _ { q \mathrm { O } _ { 2 } } N _ { \mathrm { O } _ { 2 } } ) .
+$$
+
+其中， $N _ { \mathrm { N _ { 2 } } }$ ， $N _ { \mathrm { O _ { 2 } } }$ ， $N _ { \mathrm { e } }$ 分别为大气中氮气、氧气及电子的数密度； $k _ { q \mathrm { N } _ { 2 } }$ 为 $k$ 激发态氮分子/离子与大气中 $\mathrm { { N } _ { 2 } }$ 碰撞引起的淬灭率 $\left( \mathrm { c m ^ { 3 } \cdot s ^ { - 1 } } \right)$ ， $k _ { q \mathrm { O _ { 2 } } }$ 为激发态氮分子/离子与大气中氧分子 $\mathrm { O } _ { 2 }$ 碰撞引起的淬灭率 $\mathrm { ( c m ^ { 3 } \cdot s ^ { - 1 } ) }$ ，具体数值如表1所列； $\begin{array} { r l } { \tau _ { k \nu } } & { { } = } \end{array}$ $\Big ( \sum _ { k \nu } A _ { \nu \nu } ^ { k k } \Big ) ^ { - 1 }$ 为 $k$ 激发态、 $\nu$ 振动态的辐射寿命(单位s),这里 $\mathbf { \nabla } _ { A _ { \nu \nu } ^ { k k } }$ 为从高能态到低能态跃迁的Einstein系数(单位 $\mathrm { s } ^ { - 1 }$ )[11].
+
+已知激发态的氮分子/离子数密度 $n _ { k \nu }$ ，可以计算由 $k$ 激发态、 $\nu$ 振动态跃迁到 $k ^ { \prime }$ 激发态、 $\nu ^ { \prime }$ 振动态的体发射率，即
+
+$$
+\begin{array} { r } { \varPhi _ { \nu \nu ^ { \prime } } ^ { k k ^ { \prime } } ( \lambda ) = n _ { k , \nu } q _ { 0 \nu ^ { \prime } } ^ { x k } A _ { \nu \nu ^ { \prime } } ^ { k k ^ { \prime } } . } \end{array}
+$$
+
+其中, $q _ { 0 \nu } ^ { x k }$ 为从基态 $\mathbf { \Psi } _ { x }$ 的第0振动态激发到激发态 $k$ 的第 $\nu$ 振动态的 Franck-Condon 系数[11].
+
+将式(13)代入式(14)，可以得到
+
+$$
+\begin{array} { c } { { \phi _ { \nu \nu ^ { \prime } } ^ { k k ^ { \prime } } ( \lambda ) = n _ { k , \nu } q _ { 0 \nu ^ { \prime } } ^ { x k } A _ { \nu \nu ^ { \prime } } ^ { k k ^ { \prime } } = } } \\ { { { } } } \\ { { N _ { \mathrm { N } _ { 2 } } N _ { \mathrm { e } } k _ { \mathrm { e } x , k } q _ { 0 \nu ^ { \prime } } ^ { x k } A _ { \nu \nu ^ { \prime } } ^ { k k ^ { \prime } } / } } \\ { { { } } } \\ { { ( \tau _ { k \nu } ^ { - 1 } + k _ { q \mathrm { N } _ { 2 } } N _ { \mathrm { N } _ { 2 } } + k _ { q \mathrm { O } _ { 2 } } N _ { \mathrm { O } _ { 2 } } ) . } } \end{array}
+$$
+
+对于中高层瞬态发光事件发生的高度区域，大气氮气、氧气和电子的数密度基本不受太阳活动以及时空变化的影响，那么对于某个发射带而言，体发射率则就主要取决于激发率 $k _ { \mathrm { e } x , k }$ .图 $5 { \sim } 7$ 计算了 $8 0 \mathrm { k m }$ 高度处 $E / N = 2 0 \$ ，100，200， $\mathrm { 4 0 0 T d }$ 时,各发射带的体发射率随波长的分布．由图 $5 { \sim } 7$ 可以看出，各发射带的体发射率随 $E / N$ 的增大而增大，在 $E / N$ 较低如小于 $\mathrm { 1 0 0 T d }$ 时，光辐射主要以几个分子发射带为主，随着 $E / N$ 的增大，两个离子发射带的体发射率逐渐增强，量级与分子发射带的体发射率相当甚至超过分子发射带.模拟结果表明，发射带的光谱分布从远紫外至近红外.
+
+# 4结论
+
+根据Boltzmann动力学方程的数值求解计算出以 $E / N$ 为函数的电子能量分布，通过电子能量分布与大气成分的激发截面进一步得到以 $E / N$ 为函数的激发率系数，在此基础上，模拟计算了红精灵各典型发射带的光谱强度.结果表明，约化电场 $E / N$ 与发射带的光强存在定量关系，约化电场 $E / N$ 越强，电子获得的能量则越多，从而导致高能电子越多，撞击中性成分产生的光辐射就越强．模拟的结果表明，红精灵光谱范围从远紫外直至近红外，
+
+![](images/1b231e94e3412fda09efc124984035382c41207bdd4e37101443a7fc3389ce6c.jpg)  
+图5发射带 $\mathrm { 1 P N _ { 2 } }$ 和 $\mathrm { 2 P N _ { 2 } }$ 在 $E / N = 2 0$ ，100，200，400Td时各发射带的体发射率随波长的分布Fig.5Volume emission of emissive band $\mathrm { 1 P N _ { 2 } }$ and $\mathrm { 2 P N _ { 2 } }$ at $E / N = 2 0$ ，100，200,400 Td
+
+![](images/d4607ec9ed07a59854d675942f0091f844ee330a2478c162a0885979004c3735.jpg)  
+图6发射带 $\mathrm { L B H N _ { 2 } }$ 和Meinel $\mathrm { N _ { 2 } ^ { + } }$ 在 $E / N = 2 0$ ，100,200, $4 0 0 \mathrm { T d }$ 时各发射带的体发射率随波长的分布Fig.6Volume emission of emissive band LBH $\mathrm { N } _ { 2 }$ and Meinel $\mathrm { N _ { 2 } ^ { + } }$ at $E / N = 2 0$ ，100,200,400 Td
+
+![](images/7acc75164feaf14c12e7d3a877f00dd64bd9dbc8ebf7b1571d76521267fe77be.jpg)  
+图7发射带 $\mathrm { 1 N N _ { 2 } ^ { + } }$ 在 $E / N = 2 0$ ，100，200, $4 0 0 \mathrm { T d }$ 时各发射带的体发射率随波长的分布Fig.7Volume emission of emissive band $\mathrm { 1 N N _ { 2 } ^ { + } }$ at $E / N = 2 0$ ，100,200,400 Td
+
+# 参考文献
+
+[1] Franz R C,Nemzek R J,Winckler JR. Television image ofalargeupward electric discharge abovea thunderstorm system[J].Science,1990,249:48-51   
+[2] Sentman D D,Wescott E M,Osborne D L,et al. Preliminaryresults from Sprites94 aircraft campaign:1.Red Sprites[J].Geophys.Res.Lett.,1995,22:1205-1208   
+[3]Pasko V P,Inan U S,Bell T F.Sprites as luminous columns of ionization produced by quasi-electrostatic thundercloud fields [J].Geophys.Res.Lett.,1996,23:649- 652   
+[4]Koemtzo Poulos C R,Eeonomou D J,Riehard P.Hydrogen dissociation in a microwave discharges for diamond deposition[J].Diam.Relat.Mater.,1993,2(1):25-35   
+[5]CartwrightD C,Pendleton JrWR,WeaverLD.Auroral emission of the $\mathrm { N _ { 2 } ^ { + } }$ Meinel bands [J]. J. Geophys. Res., 1975,80:651-654   
+[6]Cartwright DC,Trajmar S,Chutjian A,et al.Electron impact excitation of the electronic states of $\mathrm { N } _ { 2 }$ ：II. Integral cross sections at incident energies from 10 to $5 0 \mathrm { e V }$ [J]. Phys.Rev.A,1977,16:1041-1051   
+[7]Borst W L,Zipf E C.Cross section for electron-impact excitation of the (O,O) first negative band of $\mathrm { N _ { 2 } ^ { + } }$ from threshold to $3 \mathrm { k e V }$ [J].Phys.Rev.A,1970,1:834-840   
+[8] Van Zyl B,Pendleton Jr W. $\mathrm { N } _ { 2 } ^ { + } ( \mathrm { X } )$ ， $\mathrm { N } _ { 2 } ^ { + } ( \mathrm { A } )$ ，and $\mathrm { N } _ { 2 } ^ { + } ( \mathrm { B } )$ production in $\mathrm { e } ^ { - } { + } \mathrm { N } _ { 2 }$ collisions[J]．J.Geophys.Res., 1995，100:23 755-23 762   
+[9] Phelps A V.Cross sections and swarm coefficients for nitrogen ions and neutrals in $\mathrm { N } _ { 2 }$ and argon ions and neutralsin Ar for energies from $0 . 1 \mathrm { e V }$ to 10 keV[J].J.Phys. Chem. Ref.Data.,1991,20(3):557-573   
+10] Pasko V P,Inan U S,Taranenko Y N,et al.Heating, ionization and upward discharges in the mesosphere due to intense quasi-electrostatic thundercloud fields [J].Geophys.Res.Lett.,1995,22:365-368   
+11]Gilmore F R,Laher R R,Espy P J.Franck-Condon factors,r-centroids,electronic transition moments,and Einstein coefficients for many nitrogen and oxygen band systems[J].J.Phys.Chem.Ref.Data,1992,21:1005-1107

@@ -1,0 +1,426 @@
+[
+    {
+        "type": "text",
+        "text": "Cosmological Evolution of Dirac-Born-Infeld Field ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zong-Kuan Guo\\* and Nobuyoshi Ohta ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Department of Physics, Kinki University, Higashi-Osaka, Osaka 577-8502, Japan ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We investigate the cosmological evolution of the system of a Dirac-Born-Infeld field plus a perfect fluid. We analyze the existence and stability of scaling solutions for the AdS throat and the quadratic potential. We find that the scaling solutions exist when the equation of state of the perfect fluid is negative and in the ultra-relativistic limit. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS number(s): 98.80.Es, 98.80.Cq ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Inflation in the early universe provides a natural explanation for the homogeneity and isotropy of the universe and for the observed spectra of density perturbations. Recently inflationary models from string theory have attracted much attention. One approach to string inflation is based on D-brane [1]. Of particular interest are scenarios where a type IIB orientifold is compactified on a Calabi-Yau three-fold, where the moduli fields are stabilized due to the presence of non-trivial flux. These fluxes generate local regions within the CalabiYau space with a warped geometry or “throat\". In many settings,an anti-D3-brane is fixed at one location in the infrared tip of the throat and a mobile D3-brane experiences a small attractive force towards the anti-D3-brane. The distance between the branes plays the role of the inflaton field and, since this is an open string mode, its dynamics is determined by a Dirac-Born-Infeld (DBI) action. Such a DBI action with higher derivative terms gives a variety of novel cosmological consequences [2, 3, 4, 5]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It is well known that, in a universe containing a perfect fluid and a normal scalar field with an exponential potential, for a wide range of parameters the scalar field mimics the perfect fluid with the same equation of state [6]. The scaling solutions in which the ratio of the energy densities of the two components is a constant are realized in such a system and are attractors at late times. In tachyon cosmology, the inverse square potential for a tachyon field allows similar scaling solutions, just like the exponential potential does for a normal scalar feld [7]. This kind of scaling solutions are useful for explaining the current acceleration of the universe. It is thus interesting to investigate whether scaling solutions are also present and stable in the DBI scenario. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we undertake the first attempt to study a system of dimensionless dynamical variables of the DBI field plus a perfect fluid by using the phase-plane analysis method which has been widely applied [8, 9,10]. In the case of the AdS throat and the quadratic potential, the system can be cast into an autonomous system. We find that in addition to the DBI inflationary solutions, there exist scaling solutions in the ultra-relativistic case. We analyze their existence and stability. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Autonomous System ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Consider the following effective action [2] ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS = - \\int \\mathrm { d } ^ { 4 } x \\frac { 1 } { g _ { \\mathrm { Y M } } ^ { 2 } } \\sqrt { - g } \\left[ f ( \\phi ) ^ { - 1 } \\sqrt { 1 + f ( \\phi ) g ^ { \\mu \\nu } \\partial _ { \\mu } \\phi \\partial _ { \\nu } \\phi } - f ( \\phi ) ^ { - 1 } + V ( \\phi ) \\right] + S _ { m } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $g _ { \\mathrm { Y M } } ^ { 2 }$ is the Yang-Mills coupling and $V ( \\phi )$ is a potential of the DBI field $\\phi$ .In the case of the AdS throat，we have $f ( \\phi ) = \\lambda / \\phi ^ { 4 }$ ，where $\\lambda$ is the $\\mathrm { ^ { , } t }$ Hooft coupling which is related to $g _ { \\mathrm { Y M } } ^ { 2 }$ via the relation $\\lambda = g _ { \\mathrm { Y M } } ^ { 2 } N$ in the large- $N$ limit of the field theory. In the action (1)，we have also taken into account the contribution of a perfect fuid. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In a spatially-fat Friedmann-Robertson-Walker (FRW) metric, the energy density and ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "pressure of the DBI field are given by ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\rho _ { \\phi } = \\frac { \\gamma - 1 } { f } + V ( \\phi ) , } \\\\ { \\displaystyle P _ { \\phi } = \\frac { \\gamma - 1 } { f \\gamma } - V ( \\phi ) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma \\equiv { \\frac { 1 } { \\sqrt { 1 - f ( \\phi ) \\dot { \\phi } ^ { 2 } } } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The field equations read ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle H ^ { 2 } = \\frac { \\kappa ^ { 2 } } { 3 } \\left[ \\frac { \\gamma - 1 } { f } + V ( \\phi ) + \\rho _ { m } \\right] , } } \\\\ { { \\dot { H } = - \\frac { \\kappa ^ { 2 } } { 2 } \\left[ \\gamma \\dot { \\phi } ^ { 2 } + ( 1 + w _ { m } ) \\rho _ { m } \\right] , } } \\\\ { { \\ddot { \\phi } + \\frac { 3 f _ { , \\phi } } { 2 f } \\dot { \\phi } ^ { 2 } - \\frac { f _ { , \\phi } } { f ^ { 2 } } + \\frac { 3 H } { \\gamma ^ { 2 } } \\dot { \\phi } + \\left( V _ { , \\phi } + \\frac { f _ { , \\phi } } { f ^ { 2 } } \\right) \\frac { 1 } { \\gamma ^ { 3 } } = 0 , } } \\\\ { { \\dot { \\rho } _ { m } + 3 H ( 1 + w _ { m } ) \\rho _ { m } = 0 , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where a dot denotes a derivative with respect to $t$ and $\\kappa ^ { 2 } = 1 / ( g _ { \\mathrm { Y M } } ^ { 2 } M _ { p } ^ { 2 } )$ with $M _ { p }$ being the reduced Planck mass. Note that $\\rho _ { m }$ and $P _ { m }$ are the energy density and the pressure of the fuid with an equation of state $w _ { m } = P _ { m } / \\rho _ { m }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We define the following variables: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle x \\equiv \\frac { \\kappa } { \\sqrt { 3 } H } \\sqrt { \\frac { \\gamma } { f } } , \\quad { \\displaystyle y \\equiv \\frac { \\kappa \\dot { \\phi } \\sqrt { \\gamma } } { H } } , \\quad { \\displaystyle z \\equiv \\frac { \\kappa \\sqrt { V } } { \\sqrt { 3 } H } } , } } \\\\ { { \\displaystyle \\mu _ { 1 } ( \\phi ) \\equiv \\frac { V _ { , \\phi } } { \\kappa f ^ { 1 / 2 } V ^ { 3 / 2 } } , \\quad \\mu _ { 2 } ( \\phi ) \\equiv \\frac { f _ { , \\phi } } { \\kappa f ^ { 5 / 2 } V ^ { 3 / 2 } } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "From the Friedmann equation (5),we have the constraint equation ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Omega _ { m } \\equiv \\frac { \\kappa ^ { 2 } \\rho _ { m } } { 3 H ^ { 2 } } = 1 - ( 1 - \\tilde { \\gamma } ) x ^ { 2 } - z ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\gamma } \\equiv 1 / \\gamma = \\sqrt { 1 - y ^ { 2 } / 3 x ^ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The energy fraction and the equation of state of the DBI field $\\phi$ are given by ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\Omega _ { \\phi } = ( 1 - \\tilde { \\gamma } ) x ^ { 2 } + z ^ { 2 } , \\nonumber } } \\\\ { { w _ { \\phi } = \\displaystyle \\frac { \\tilde { \\gamma } ( 1 - \\tilde { \\gamma } ) x ^ { 2 } - z ^ { 2 } } { ( 1 - \\tilde { \\gamma } ) x ^ { 2 } + z ^ { 2 } } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "From Eq. (6) we obtain ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { H ^ { \\prime } } { H } = - \\frac { 1 } { 2 } y ^ { 2 } - \\frac { 3 } { 2 } ( 1 + w _ { m } ) \\left[ 1 - ( 1 - \\tilde { \\gamma } ) x ^ { 2 } - z ^ { 2 } \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where a prime represents a derivative with respect to the number of e-foldings $N = \\ln a$ The effective equation of state, $\\begin{array} { r } { w _ { \\mathrm { e f f } } \\equiv \\frac { P _ { m } + P _ { \\phi } } { \\rho _ { m } + \\rho _ { \\phi } } = - 1 - 2 H ^ { \\prime } / 3 H } \\end{array}$ ,is ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { \\mathrm { e f f } } = - 1 + \\frac { 1 } { 3 } y ^ { 2 } + \\left( 1 + w _ { m } \\right) \\left[ 1 - ( 1 - \\tilde { \\gamma } ) x ^ { 2 } - z ^ { 2 } \\right] .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Taking the derivative of $x$ ，y，z， $\\mu _ { 1 } ( \\phi )$ and $\\mu _ { 2 } ( \\phi )$ with respect to $N$ ， we obtain the following equations: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { x ^ { \\varepsilon } } & { = } & { - \\displaystyle \\frac { 1 } { 2 } \\langle \\mu _ { 1 } + \\mu _ { 2 } \\rangle \\frac { g ^ { \\varepsilon / 2 } } { x ^ { 2 } } - \\frac { g ^ { 2 } } { 2 x } + x \\left[ \\frac { y ^ { 2 } } { 2 } + \\frac { 3 } { 2 } ( \\perp + \\alpha _ { m } ) \\left\\{ 1 - ( 1 - \\tilde { \\gamma } ) e ^ { 2 } - z ^ { 2 } \\right\\} \\right] , } \\\\ { \\psi ^ { \\varepsilon } } & { = } & { - \\displaystyle \\frac { 3 } { 2 } \\left[ \\left( 1 + \\tilde { \\gamma } ^ { 2 } \\right) \\mu _ { 1 } + ( 1 - \\tilde { \\gamma } ) ^ { 2 } \\mu _ { 2 } \\right] \\frac { g ^ { 2 } } { x } - \\frac { 3 } { 2 } \\left( 1 + \\tilde { \\gamma } ^ { 2 } \\right) y } \\\\ & & { \\displaystyle \\qquad - y \\left[ \\frac { y ^ { 2 } } { 2 } + \\frac { 3 } { 2 } ( 1 + \\alpha _ { m } ) \\left\\{ 1 - ( 1 - \\tilde { \\gamma } ) x ^ { 2 } - z ^ { 2 } \\right\\} \\right] , } \\\\ { \\check { x } ^ { \\varepsilon } } & { = } & { \\displaystyle \\frac { 1 } { 2 } \\mu \\frac { \\partial g ^ { 2 } } { x } + z \\left[ \\frac { y ^ { 2 } } { 2 } + \\frac { 3 } { 2 } ( 1 + \\alpha _ { m } ) \\left\\{ 1 - ( 1 - \\tilde { \\gamma } ) x ^ { 2 } - z ^ { 2 } \\right\\} \\right] , } \\\\ { \\mu _ { 1 } ^ { \\varepsilon } } & { = } & { \\mu _ { 1 } ^ { \\varepsilon } \\frac { g ^ { 2 } } { x } \\left( \\frac { V _ { \\mathrm { F o r } } } { V _ { \\mathrm { e q } } } - \\frac { 1 } { 2 } V _ { \\mathrm { e } } \\frac { f _ { 0 } } { f } - \\frac { 3 } { 2 } \\right) , } \\\\ { \\mu _ { 3 } ^ { \\varepsilon } } & { = } & { \\mu _ { 0 } ^ { \\varepsilon } \\frac { g ^ { 2 } g } { x } f V \\left( \\frac { f _ { \\mathrm { F o r } } } { f _ { \\mathrm { e } } e ^ { 2 } } - \\frac { 3 } { 2 } V _ { \\mathrm { e } } \\frac { f _ { \\mathrm { F o } } } { f _ { \\mathrm { e } } e ^ { 2 } } - \\frac { 5 } { 2 } \\right) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "If both $\\mu _ { 1 }$ and $\\mu _ { 2 }$ are constants, for example, $V \\propto f ^ { - 1 } \\propto e ^ { \\alpha \\phi }$ where $\\alpha$ is a constant, the set of Eqs.(16)-(18） becomes an autonomous system. Actually when $\\mu _ { 1 }$ is a constant, the potential is obtained by integrating Eq. (9): ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV = \\left( \\frac { \\kappa } { 2 } \\mu _ { 1 } \\int f ^ { 1 / 2 } \\mathrm { d } \\phi \\right) ^ { - 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For the ADS throat ( $f = \\lambda / \\phi ^ { 4 }$ )，Eq.(21） gives",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ( \\phi ) = \\frac { 4 } { \\kappa ^ { 2 } \\mu _ { 1 } ^ { 2 } \\lambda } \\left( \\frac { \\phi } { 1 + c \\phi } \\right) ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $c$ is an integration constant. In the region $| c \\phi | \\ll 1$ , this potential reduces to the quadratic one: $V ( \\phi ) \\propto \\phi ^ { 2 }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In what follows, we specialize to the case of the AdS throat, $f ( \\phi ) = \\lambda / \\phi ^ { 4 }$ ，and the quadratic potential, $V ( \\phi ) = m ^ { 2 } \\phi ^ { 2 } / 2$ . In this case, $\\mu _ { 1 }$ is a constant and $\\mu _ { 2 } = - 2 \\mu _ { 1 } \\tilde { \\gamma } x ^ { 2 } z ^ { - 2 }$ The evolution Eqs. (16) -(18) can be written as the following autonomous system: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l l l } { { x ^ { \\prime } } } & { { = } } & { { \\displaystyle - \\frac { 1 } { 2 } \\mu _ { 1 } ( 1 - 2 \\tilde { \\gamma } \\frac { x ^ { 2 } } { z ^ { 2 } } ) \\frac { y z ^ { 3 } } { x ^ { 2 } } - \\frac { y ^ { 2 } } { 2 x } + x [ \\frac { y ^ { 2 } } { 2 } + \\frac { 3 } { 2 } ( 1 + w _ { m } ) \\{ 1 - ( 1 - \\tilde { \\gamma } ) x ^ { 2 } - z ^ { 2 }   } }  \\\\ { { } } & { { } } & { { \\displaystyle y ^ { \\prime } } } \\\\ { { } } & { { } } & { {   + \\frac { 3 } { 2 } \\mu _ { 1 } [ 1 + \\tilde { \\gamma } ^ { 2 } - 2 \\tilde { \\gamma } ( 1 - \\tilde { \\gamma } ) ^ { 2 } \\frac { x ^ { 2 } } { z ^ { 2 } } ] \\frac { z ^ { 3 } } { x } - \\frac { 3 } { 2 } ( 1 + \\tilde { \\gamma } ^ { 2 } ) y  } } \\\\ { { } } & { { } } & { {   + y [ \\frac { y ^ { 2 } } { 2 } + \\frac { 3 } { 2 } ( 1 + w _ { m } ) \\{ 1 - ( 1 - \\tilde { \\gamma } ) x ^ { 2 } - z ^ { 2 } \\} ] , } } \\\\ { { } } & { { } } & { { \\displaystyle z ^ { \\prime } } } \\\\ { { } } & { { = } } & { { \\displaystyle \\frac { 1 } { 2 } \\mu _ { 1 } \\frac { y z ^ { 2 } } { x } + z [ \\frac { y ^ { 2 } } { 2 } + \\frac { 3 } { 2 } ( 1 + w _ { m } ) \\{ 1 - ( 1 - \\tilde { \\gamma } ) x ^ { 2 } - z ^ { 2 } \\} ] , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\mu _ { 1 } = 2 \\sqrt { 2 } / ( \\kappa \\sqrt { \\lambda } m )$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Scaling Solutions ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "One can derive the fixed points of the system (23) - (25) by setting $x ^ { \\prime } = 0$ ， $y ^ { \\prime } = 0$ and （204号 $z ^ { \\prime } = 0$ . The fixed points correspond to an expanding universe with a scale factor $a ( t )$ given by $a \\propto t ^ { p }$ ，where $p = 2 [ y ^ { 2 } + 3 ( 1 + w _ { m } ) \\Omega _ { m } ] ^ { - 1 }$ . From Eq. (25) we find that there are two cases: (i) $z = 0$ and (ii) $y ^ { 2 } + 3 ( 1 + w _ { m } ) [ 1 - ( 1 - \\tilde { \\gamma } ) x ^ { 2 } - z ^ { 2 } ] = - \\mu _ { 1 } y z / x$ . We will study the case $\\dot { \\phi } < 0$ ，i.e., $y < 0$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the case (i) we have the following fixed points: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(A) Fluid-dominated solutions ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( x , y , z ) = ( 0 , 0 , 0 ) , ~ \\Omega _ { m } = 1 , ~ w _ { \\mathrm { e f f } } = w _ { m } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(B) Kinetic-dominated solutions ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( x , y , z ) = ( 1 , - \\sqrt { 3 } , 0 ) , \\Omega _ { m } = 0 , w _ { \\mathrm { e f f } } = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The fixed point (A) is fluid-dominated solutions since $\\Omega _ { m } = 1$ . The fxed point （B） corresponds to kinetic-dominated solutions. They behave like dust (i.e., non-relativistic matter), which are power-law expanding solutions with $a \\propto t ^ { 2 / 3 }$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the case (ii) one has either $\\mu _ { 1 } ( z ^ { 2 } - 2 \\tilde { \\gamma } x ^ { 2 } ) z + \\mu _ { 1 } x ^ { 2 } z + x y = 0$ or $y = 0$ from Eqs. (23) and (25). In the former situation, we obtain either $y ^ { 2 } = 3 x ^ { 2 }$ (i.e., $\\tilde { \\gamma } = 0$ or $x ^ { 2 } ( 1 - 2 \\tilde { \\gamma } ) = 0$ （20 by using Eq. (24). When $y ^ { 2 } = 3 x ^ { 2 }$ , the fixed points are given by ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(C) Accelerated solutions ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { x = [ \\mu _ { 1 } ( \\sqrt { \\mu _ { 1 } ^ { 2 } + 1 2 } - \\mu _ { 1 } ) / 6 ] ^ { 1 / 2 } , } \\\\ & { y = - \\sqrt { 3 } x , } \\\\ & { z = \\sqrt { 3 } ( \\sqrt { \\mu _ { 1 } ^ { 2 } + 1 2 } - \\mu _ { 1 } ) / 6 , } \\\\ & { \\Omega _ { m } = 0 , ~ w _ { \\mathrm { e f f } } = - 1 + \\mu _ { 1 } ( \\sqrt { \\mu _ { 1 } ^ { 2 } + 1 2 } - \\mu _ { 1 } ) / 6 . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(D) Scaling solutions ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { x = [ - 3 ( 1 + w _ { m } ) ^ { 3 } / ( w _ { m } \\mu _ { 1 } ^ { 2 } ) ] ^ { 1 / 2 } , } \\\\ & { y = - \\sqrt { 3 } x , } \\\\ & { z = \\sqrt { 3 } ( 1 + w _ { m } ) / \\mu _ { 1 } , } \\\\ & { \\Omega _ { m } = 1 + 3 ( 1 + w _ { m } ) ^ { 2 } / ( w _ { m } \\mu _ { 1 } ^ { 2 } ) , ~ w _ { \\mathrm { e f f } } = w _ { m } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Both the fixed points (C) and (D） exist in the ultra-relativistic region: $\\gamma \\to \\infty$ .These solutions are chosen by the condition that $x > 0$ ， $z > 0$ and $\\Omega _ { m } \\geq 0$ in the expanding universe. This requires $- 1 < w _ { m } < 0$ and $\\mu _ { 1 } > \\sqrt { - 3 / w _ { m } } \\left( 1 + w _ { m } \\right)$ in (D). The fixed point (C) leads to an accelerated expansion for $\\mu _ { 1 } < 2$ ， which was proposed as an alternative to the slow-roll inflation [2,3]. In such models inflation may also proceed when the field is rolling relatively fast. The fixed point (D） corresponds to scaling solutions in which the ratio of their densities is a non-trivial constant. Note that even when $\\mu _ { 1 }$ changes with time the fixed points (C) and (D） can be regarded as “instantaneous” fixed points. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Under the condition $\\tilde { \\gamma } = 0$ , the relation $x ^ { 2 } ( 1 - 2 \\tilde { \\gamma } ) = 0$ gives a fixed point which is not much different from the point (A). Since an accelerated expansion is not realized, this case is out of our interest. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In order to analyze their stability, we substitute linear perturbations about the fixed points into the field equations (23)-(25). To the first order in the perturbations,we obtain two independent equations of motion for $\\tilde { \\gamma } = 0$ . If their eigenvalues are both negative, the fixed point is stable. For the fixed point (A),we get two eigenvalues ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { 1 } = 3 ( 1 + w _ { m } ) / 2 , \\quad \\lambda _ { 2 } = 3 w _ { m } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "which indicate that it is unstable if $- 1 < w _ { m } < 1$ . For the fixed point (B)，we get two eigenvalues ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { 1 } = 3 / 2 , \\quad \\lambda _ { 2 } = - 3 w _ { m } / 2 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "which indicate that it is also unstable. For the fixed point (C), two eigenvalues are ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\lambda _ { 1 } = - \\displaystyle \\frac { 1 } { 4 } \\sqrt { \\mu _ { 1 } ^ { 2 } + 1 2 } \\left( \\sqrt { \\mu _ { 1 } ^ { 2 } + 1 2 } - \\mu _ { 1 } \\right) , } } \\\\ { { \\lambda _ { 2 } = - \\displaystyle \\frac { 1 } { 4 } \\left[ 6 ( 1 + w _ { m } ) + \\mu _ { 1 } ^ { 2 } - \\mu _ { 1 } \\sqrt { \\mu _ { 1 } ^ { 2 } + 1 2 } \\right] , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "which indicate that it is stable for $\\mu _ { 1 } < \\sqrt { - 3 / w _ { m } } \\left( 1 + w _ { m } \\right)$ . For the point (D), two eigen· values are ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\lambda _ { 1 } = - \\frac { 3 } { 4 } \\left[ 1 - w _ { m } + \\sqrt { 2 4 ( 1 + w _ { m } ) ^ { 3 } / \\mu _ { 1 } ^ { 2 } + ( 3 w _ { m } + 1 ) ^ { 2 } } \\right] , } } \\\\ { { \\lambda _ { 2 } = - \\frac { 3 } { 4 } \\left[ 1 - w _ { m } - \\sqrt { 2 4 ( 1 + w _ { m } ) ^ { 3 } / \\mu _ { 1 } ^ { 2 } + ( 3 w _ { m } + 1 ) ^ { 2 } } \\right] . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Thus the scaling solutions are always stable when they exist for $\\mu _ { 1 } > \\sqrt { - 3 / w _ { m } } \\left( 1 + w _ { m } \\right)$ The different regions in the $( w _ { m } , \\mu _ { 1 } )$ parameter space lead to different qualitative evolution in Fig.1. In the region I,all four fixed points exist and the fixed point (D) is the attractor solution. In the region II, the fixed point (D) does not exist and the fixed point (C) is the attractor solution. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/01ada2d14c6f747bd2efeb7a4d272a3f2ffd44987a2f2a73e5cfcbd04014d1ac.jpg",
+        "img_caption": [
+            "Figure 1: Stable regions in the $( w _ { m } , \\mu _ { 1 } )$ parameter space. In the region I,all fixed points exist and the fixed point (D) is the attractor solution. In the region II, the fixed point (D) does not exist and the fixed point (C) is the attractor solution. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 Conclusions and Discussions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We have investigated the cosmological evolution for a spatially-flat FRW universe containing a Dirac-Born-Infeld field and a perfect fluid. We find that the field equations can be cast into an autonomous system (23) - (25) in the case of the AdS throat and the quadratic potential. In addition to the DBI inflationary solutions (C), there exist scaling solutions (D) in which the ratio of the energy densities of the two components is a constant. We have analyzed the existence and stability of the fixed points, and shown that the scaling solutions (D) exist and are stable when the equation of state of the perfect fluid satisfies $- 1 < w _ { m } < 0$ ，for $\\mu _ { 1 } > \\sqrt { - 3 / w _ { m } } \\left( 1 + w _ { m } \\right)$ located in the region I of the parameter space, and in the ultra-relativistic regime (i.e., $\\tilde { \\gamma } = 0$ ） ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "There is another string-motivated choice of the warp factor, i.e.,a constant $f$ . This corresponds to the case in which inflation proceeds in the angular directions instead of in the radial [11]. In this case $\\mu _ { 2 }$ vanishes and $\\mu _ { 1 }$ becomes a constant for an inverse square potential. In the ultra-relativistic region all results are the same as those derived above. Given a warp factor $f ( \\phi )$ and a potential term $V ( \\phi )$ , in principle, the set of equations $( 1 6 ) \\textrm { -- }$ (18) can be written as an autonomous system since both $\\mu _ { 1 } ( \\phi )$ and $\\mu _ { 2 } ( \\phi )$ in the equation set can be expressed in terms of the variables $x$ and $z$ . It is worth studying further cosmological dynamics of general functions $f ( \\phi )$ and $V ( \\phi )$ to explain for the present acceleration of the universe. We mention that the dynamics of tachyon actions with a runaway potential contain caustics with multi-valued regions because high order spatial derivatives of the tachyon field become divergent [12]. Here we do not consider a runaway potential but a quadratic one, which may stabilize the system (1). To check if this expectation is really true or not is an interesting problem, which we leave for future study. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We would like to thank Shinji Tsujikawa and Sudhakar Panda for useful discussions. This work was supported in part by the Grant-in-Aid for Scientific Research Fund of the JSPS Nos. 16540250 and 06042. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] F.Quevedo, Class. Quant. Grav. 19, 5721 (2002) [arXiv:hep-th/0210292].   \n[2] E. Silverstein and D. Tong, Phys. Rev.D 70, 103505 (2004); M. Alishahiha, E. Silverstein and D. Tong,Phys. Rev. D 70, 123505 (2004).   \n[3] X. Chen,Phys. Rev. D 71, 063506 (2005); X. Chen, JHEP 0508,045 (2005).   \n[4] S. E. Shandera and S-H. Tye， JCAP 0605，007 (2006)； X. Chen， M. Huang, S. Kachru and G. Shiu, JCAP 0701, 002 (2007); M. Spalinski, arXiv:hep-th/0702196; F. Gmeiner and C. D. White, JCAP 0802, 012 (2008); J. Martin and M. Yamaguchi, arXiv:0801.3375; B. Underw00d, arXiv:0802.2117.   \n[5] M. C. Bento, O. Bertolami and A. A. Sen, Phys. Rev. D 67, 063511 (2003); N. Bilic, G. B. Tupper and R. D. Violier, Phys. Lett. B 535,17 (2002); M. C. Bento, O. Bertolami and A. A. Sen, Phys. Rev. D 66, 043507 (2002).   \n[6] E. J. Copeland， A. R. Liddle and D. Wands， Phys. Rev. D 57， 4686 (1998); I. P. C. Heard and D. Wands, Class. Quant. Grav. 19, 5435 (2002)； Z. K. Guo, Y. S. Piao and Y. Z. Zhang, Phys. Lett.B 568,1 (2003); Z. K. Guo, Y. S. Piao, R. G.Cai and Y. Z. Zhang, Phys. Lett. B 576,12 (2003).   \n[7] T. Padmanabhan, Phys. Rev. D 66, 021301 (2002); Z. K. Guo and Y. Z. Zhang, JCAP 08,010 (2004); J. M. Aguirregabiria and R. Lazkoz, Phys. Rev. D 69, 123502 (2004); E. J. Copeland, M. R. Garousi, M. Sami and S. Tsujikawa, Phys. Rev. D 71, 043003 (2005).   \n[8] V.D. Ivashchuk，V. N. Melnikov and A. B. Selivanov， JHEP 0309,059 (2003); E.Bergshoeff, A. Collinucci, U. Gran, M. Nielsen and D. Roest, Class. Quant. Grav. 21，1947 (2004); L. Jarv, T. Mohaupt and F. Saueressig, JCAP 0408, 016 (2004); ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "D. Blais and D. Polarski, Phys. Rev. D 70, 084008 (2004); B. Chang, H. Liu, H. Liu and L. Xu, Mod. Phys. Lett. A 20, 923 (2005); A. Collinucci, M. Nielsen and T. V. Riet, Class. Quant.Grav. 22，1269 (2005); K. Koyama, S. Mizuno and D. Wands, Class. Quant. Grav. 24, 3919 (2007)； K. Koyama, S. Mizuno, F. Vernizzi and D. Wands, arXiv:0708.4321. [9] S.Tsujikawa and M. Sami, Phys. Lett. B 603,113 (2004); S. Tsujikawa, Phys. Rev. D 73,103504 (2006); L. Amendola, M. Quartin, S. Tsujikawa and I. Waga, Phys. Rev. D 74, 023525 (2006); S. Tsujikawa and M. Sami, JCAP 0701, 006 (2007). [10] L. A. Urena-Lopez, JCAP 0509,013 (2005)； X. F. Zhang, H. Li, Y. S. Piao and X. Zhang, Mod. Phys. Lett. A 21, 231 (2006)； H. Wei and S. N. Zhang, Phys. Rev. D76,063005 (2007); M. Alimohammadi, Gen. Rel. Grav. 40, 107 (2008). [11] E. Pajer, arXiv:0802.2916. [12] G.Felder,L. Kofman and A. Starobinsky, JHEP 0209, 026 (2002). ",
+        "page_idx": 8
+    }
+]

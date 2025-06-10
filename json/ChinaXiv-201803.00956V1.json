@@ -1,0 +1,467 @@
+[
+    {
+        "type": "text",
+        "text": "电驱锄草机器人系统设计与试验分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李南 陈子文 朱成兵 张春龙 孙哲李伟（中国农业大学工学院，北京100083）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：根据移栽蔬菜田间锄草作业工况和要求，基于视觉伺服控制技术，开发了电驱锄草机器人系统。该系统以中小马力拖拉机为配套动力，由伺服电动机驱动月牙形锄草刀护苗锄草和对行，减少了能耗与污染物排放，提高了系统伺服特性。机器视觉系统实时采集田间图像并处理，对作物进行识别与定位。控制器结合视觉系统获取的刀苗距、锄草机器人前进速度、锄刀相位角度及机器人横向偏差信息，利用智能伺服驱动器精确控制锄草刀避苗和对行。试验表明，在前进速度不高于 $1 . 5 \\mathrm { k m / h }$ 、作物株距不小于 $0 . 3 5 \\mathrm { m }$ 的工况下，伤苗率小于 $1 0 \\%$ ，田间杂草锄净率约为 $9 0 \\%$ 。关键词：电驱锄草机器人机器视觉伺服控制试验",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S224.1；TP242.6 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "System Design and Experimental Analysis of Electric Driven Weeding Robot ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Li Nan Chen Ziwen Zhu ChengbingZhang ChunlongSun Zhe Li Wei (College of Engineering,China Agricultural University,Beijing1Ooo83,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: With the increase of demand for organic vegetable，automated mechanical weeding machines are more and more in need. According to the working condition and requirement of weeding operation for transplanted vegetable crops,an electric driven weding robot system was developed and tested. Carried by a middle or low-horsepower tractor, the weeding robot could eficiently remove inter and intra-row weeds. The system was equipped with a machine vision system, which acquired and processed field images in real time to recognize crops and obtain their locations.Four electric motors were used to drive three crescent weeding blades and the steering mechanism to avoid crops and follow crop rows.The system had two microcontrolers to control weeding blades and the steering mechanism separately.The controllers fused blade-crop distance,phase position of motors and forward speed of robot, to accurately guide the weeding blades avoiding crops and tracking the rows.To evaluate the working performance of weeding robot,tests were conducted on concrete road surface and in field respectively. Results of the tests indicated that the robot could remove $8 4 . 4 \\%$ weeds while the crop damage rate was less than $10 \\%$ , when the speed was under $1 . 5 \\mathrm { k m } / \\mathrm { h }$ and plant spacing was above $0 . 3 5 \\mathrm { m }$ Compared with hydraulic driven weeding machine,it had lower energy consumption, less pollution and better servo property. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: electric driven weeding robot, machine vision, servo control, experiment ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着人们对食品安全问题的日渐重视和环保意识的不断提高，化学除草受到越来越多的限制。机械除草相比化学除草和人工除草具有污染少、效率高的优点，顺应了农业可持续发展的趋势。然而，传统的中耕式田间锄草机械能铲除行间杂草，却无法清除作物株间的杂草。为实现高效、自动化、低伤苗率的田间锄草作业，解决株间锄草难题，许多研究者对信息化、智能化的新型锄草装备进行了探索。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "国外利用机器视觉技术获取作物位置信息实现株间锄草的研究最为常见，具有代表性的是Tillett等I研究的一种基于机器视觉技术、液压驱动的锄草机器人，其圆盘形锄草刀在铲除株间杂草的过程中利用豁口避苗。Cordill 等[2]研究了一种玉米株间锄草机，该锄草机利用竖直排列的激光传感器检测作物位置，由电动机驱动对称布置的锄草刀避苗。Pérez-Ruiz 等[3]利用RTK-GPS系统信息控制拖拉机自动导航，并控制锄草系统末端执行器在作物株间的运动轨迹清除株间杂草。他们还研究了一种协作型锄草机器人[4]，通过人机配合，实现株间锄草。Bakker等[5]提出了结合RTK-DGPS和机器视觉系统引导锄草机器人作业的方案。此外，还有通过X射线[6]、超声波[7等方式定位作物的锄草机器人。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "国内，陈勇等[8研究了机械和化学方式相结合的除草机器人。该机器人利用机器视觉系统检测杂草，由机械臂切割杂草并涂抹除草剂。张春龙等[研究了基于机器视觉技术识别作物，并通过带豁口的圆盘形锄草刀消灭株间杂草的锄草机器人。此外，众多学者研究了具有爪齿形末端执行器的株间锄草机器人[10-12]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对田间移栽作物机械化锄草的作业特点和要求，重点解决自动化株间锄草难题，本研究基于机器视觉技术和伺服控制技术研制了电驱锄草机器人。该机器人以中小马力拖拉机为配套动力，由伺服电动机驱动执行机构，可同时实现株间、行间混联锄草，适用于机械移栽绿叶作物的锄草作业。与液压驱动锄草机器人[1,13]相比，电驱锄草机器人结构更加紧凑，质量轻，运动惯性小，可减少能量消耗与污染物排放，提高系统伺服特性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1电驱锄草机器人系统组成和原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "电驱锄草机器人(图1)以传统中耕锄草机为基础，结合株间锄草作业特点和大田种植农艺进行设计。其机械结构主要包括横移机构、导向机构、锄刀单元和机架，如图2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d3690039d4919e3736f393aa99acf91bb2b9292d888fecef10e5050078c4c39b.jpg",
+        "img_caption": [
+            "图1电驱锄草机器人Fig.1Electricdrivenweedingrobot"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6a040490552a4b4651b7e0743792f6ca9c21fd5e2287bfbf6914ff7c162c6c23.jpg",
+        "img_caption": [
+            "图2电驱锄草机器人结构组成",
+            "Fig.2 Structure of electric driven weeding robot 1.横移机构2．机架3．导向机构4.锄刀单元 "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "电驱锄草机器人通过前置三点悬挂与拖拉机连接，由拖拉机推动沿着作物行前进。横移机构连接机架与三点悬挂，使机架可相对三点悬挂作横向滑动。导向机构（图3）由电动机通过拉杆驱动限深导向轮，引导机器人整体横向移动进行对行，并根据地面起伏仿形，使安装在前横梁上方的相机与地面始终保持相对固定的距离。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/600a9ccab600ab0ceafb493846d366208523c25faf41ce3dc41e09a3f3728725.jpg",
+        "img_caption": [
+            "图3导向机构结构组成 Fig.3Structure of steering mechanism "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.限深调节手柄2.前横梁3.导向机构驱动电动 机4.导向轮摇臂5.连接箱体6.拉杆7.限深 导向轮 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3个锄刀单元均匀分布在前横梁上，其间距可根据作物行距调节。每个锄刀单元上装有株间锄草刀和行间铲，分别去除位于作物株间和行间的杂草。仿形轮与平行四杆仿形机构相配合，使锄草刀入土深度保持相对稳定。其中一个锄刀单元上装有测速装置，检测速度和里程，如图4所示。作为核心部件的株间锄草刀由$4 \\mathrm { m m }$ 厚的钢板切割而成，呈月牙形，外边缘磨制了刃口，刃厚 $0 . 5 \\mathrm { m m }$ ，刃角 $2 0 ^ { \\circ }$ 。工作时，株间锄草刀位于土表下 $2 0 { \\sim } 3 0 \\mathrm { m m }$ 处，在沿作物行前进过程中将株间杂草根部切断，若遇苗则旋转，利用豁口避让作物，如图5所示。安装在其后方的行间铲则将作物行以外的杂草一律清除，从而实现高效的中耕锄草作业。为减少锄刀扰动对作物生长造成影响，作物周围留有圆形保护区，该区域内不进行锄草。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b53169f987a3ce6eb0adbf026c411b38dcfdf726123f83f1d84ea6ba3893b6de.jpg",
+        "img_caption": [
+            "图4锄刀单元结构组成",
+            "Fig.4 Structure of weeding blade unit ",
+            "Fig.5 Operating principle of electric driven weeding robot "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.锄草刀姿态调节机构2.锄草刀驱动电动机3．连接箱体4.株间锄草刀5.仿形轮6.测速轮7.行间铲8.平行四杆仿形机构",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0635c92b1595e827ebf316af5c8930c2d8d9214e8e5fd88df99d51d8b4ff6dad.jpg",
+        "img_caption": [
+            "图5电驱锄草机器人锄草原理"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "电驱锄草机器人核心处理器包括1台工控机和2块基于单片机的控制板。工控机接收相机拍摄的田间彩色图像进行实时处理，获得当前作物的位置信息，计算锄草刀与作物的相对距离及机器人相对作物行的对行偏差等信息，分别发送给2块单片机控制板。控制板结合机器人前进速度和锄草刀相位角度，计算锄草刀的理论转速和横移机构的运动量，通过智能伺服驱动器驱动电动机，使锄草刀执行避苗和对行动作。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "锄草刀驱动电动机为48V/300W直流伺服电动机（型号：NORTIONHLM48-08-E3-6LN），导向机构由48V/400W直流伺服电动机（型号：NORTIONHLM48-14-E3-9LN）驱动。电驱锄草机器人电气系统总额定功率为1600W。电源由1台220V/2.6kW的交流汽油发电机和1个48V交流转直流的开关电源构成。发电机安装于拖拉机侧面，加满燃油可连续工作4h以上，能够满足实际作业的续航要求。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2视觉伺服控制方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 视觉信息获取方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "快速、准确获取田间作物位置信息是实现高效、自动化株间锄草的前提。电驱锄草机器人通过引入机器视觉技术，对田间作物进行识别和定位，为控制锄草刀避苗和对行提供依据。系统主要硬件包括华北工控NORCORPC-208工控机（2.8 GHz Intel Core 2 Duo E7400 处理器）、度申CM036彩色数字相机（有效分辨率752像素 $\\times 4 8 0$ 像素）、AZURE- $0 4 2 0 \\mathrm { m m }$ 镜头（焦距 $4 \\mathrm { m m }$ ）和定制的8寸液晶显示器。相机安装于前横梁正中央的支撑杆上，高度 $1 . 8 5 \\mathrm { m }$ 主光轴向前倾斜，与竖直方向夹角为 $2 0 . 8 ^ { \\circ }$ 。这样安装相机既获得了足够大的视场，同时避免了机械部件进入视场，如图6所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9165be6ce9351cf2d7a882300a78a6a5a4aee2f81e971cadec104408d536da66.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "移栽作物通常与土壤、残茬等有明显的色彩差异，在外形尺寸上较杂草有显著优势，且在位置分布上较为规则。根据以上特征，设计了一种快速识别绿叶移栽作物的方法[14]，算法流程如图7所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/64478be4c1144ebea34b18f31ae308a767f1068b6fbbdc309fe3de0c2b763731.jpg",
+        "img_caption": [
+            "图6视觉系统示意图Fig.6 Illustration of the vision system1.相机2.工控机3．显示器",
+            "图7作物识别算法流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用改进的超绿特征$g - r > T$ & $g - b > T )$ 从农田背景中分割作物,将彩色图像二值化，分割阈值 $T$ 利用OTSU[15]算法自动获取。基于Hague 等[16提出的一种小孔成像相机模型，由相机外部参数、栽种行距和作物行宽度划分作物行区域。图像坐标和地面坐标的数学关系为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { \\scriptscriptstyle { w } } = { \\frac { Z ( x _ { \\scriptscriptstyle { i } } - { \\frac { I _ { \\scriptscriptstyle { x } } } { 2 } } ) } { f _ { c } - ( y _ { \\scriptscriptstyle { i } } - { \\frac { I _ { \\scriptscriptstyle { y } } } { 2 } } ) \\tan { \\phi } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$y _ { \\scriptscriptstyle { w } } = \\frac { Z ( y _ { \\scriptscriptstyle { i } } - \\displaystyle \\frac { I _ { \\scriptscriptstyle { y } } } { 2 } ) } { f _ { \\scriptscriptstyle { c } } \\cos \\phi - ( y _ { \\scriptscriptstyle { i } } - \\displaystyle \\frac { I _ { \\scriptscriptstyle { y } } } { 2 } ) \\sin \\phi }$ (2)  \n式中$I _ { { } _ { x } }$ 一图像宽度$I _ { y }$ 一图像高度（204号 $x _ { i } , y _ { i }$ 一图像坐标系中的横、纵坐标（204号 $x _ { \\scriptscriptstyle w }$ ， $y _ { \\scriptscriptstyle { w } }$ 一地面坐标系中的横、纵坐标$f _ { c }$ 一相机焦距$Z$ 一镜头中心到主光轴与地面交点的距  \n离 (近似值)",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\phi$ 一相机前倾角",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在二值图像中各个作物行区域内，基于张春龙等[9提出的一维刀苗距离提取方法，利用苗草在外形尺寸上的差异，根据像素直方图确定作物在图像中的上下边界。结合作物行区域边界，划定作物包围盒。在最靠近图像下边缘的作物包围盒内进行中值滤波，滤除细小噪声，从而准确获得作物的中心，计算刀苗距和锄草刀对行偏差，并根据式(1)、 (2)换算成实际距离。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "视觉系统软件基于MicrosoftVisual Studio2010平台开发，在完成图像采集、处理和信息发送的同时，将锄草机器人前进速度、对行偏差、图像处理结果等信息显示在屏幕上，为驾驶员操作提供参考。驾驶员可通过触摸屏、键盘对系统进行设置和操作。系统主界面及图像处理结果如图8所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c3919eea113b1f22ae0ac187cf75d8814a4e47cce6b8cd7e62880dd2cef8586.jpg",
+        "img_caption": [
+            "Fig.7Flowchartof cropdetectionalgorithm ",
+            "图8系统软件主界面Fig.8Maininterfaceofthesoftware"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 伺服控制方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "电驱锄草机器人利用2块FreescaleMC9S12DG128双核单片机控制板，分别控制锄草刀驱动电动机和导向机构驱动电动机；4台MOTECaMLD智能伺服驱动器作为电动机驱动模块； $\\mathrm { R I 3 0 - 0 / 1 0 0 0 A R \\bullet 3 4 K B }$ 旋转编码器作为拖拉机速度监测传感器；NPN常开型霍尔开关用作锄刀初始相位检测。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "伺服控制系统在功能上可分为通信单元、测速单元、锄草刀相位提取单元、锄草刀运动规划单元、导向机构转角提取单元和导向机构运动规划单元，伺服控制原理如图9所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e2730d7824ec75c5694bf671f796eb0d087b9b1e0061e8ab30f33a2e73f14c51.jpg",
+        "img_caption": [
+            "图9伺服控制原理Fig.9Principle of servo control"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通信单元通过RS232串口接收工控机发送的刀苗距和对行偏差，并将部分单片机计算结果上传；测速单元运用累加器PANT测量编码器的脉冲数，实时检测机器人行进速度；锄草刀相位提取单元和导向机构转角提取单元通过访问驱动器获得电动机相位，并利用接近开关设定初始相位，以消除累积误差；锄草刀运动规划单元融合刀苗距信息、前进速度、锄草刀相位及转速，控制锄草刀在接近作物时快速旋转避苗；导向机构运动规划单元根据对行偏差、导向机构转角和前进速度，控制限深导向轮转向，使锄草刀不偏离作物株间区域。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了达到更高的株间杂草锄净率，本研究对文献[17]中描述的锄草刀控制策略进行改进，采用间歇旋转式控制策略：设定一个刀苗临界距离 $D$ ，当刀苗距大于 $D$ 时，株间锄草刀位于株间区域，不转动，沿着作物行向前推进，铲除杂草；当刀苗距小于或等于 $D$ 时，锄草刀迅速转动，避让作物，如图5所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "电驱锄草机器人的电动机都在位置控制模式下工作。在此工作模式下，只需控制器向驱动器发送转角与最大转速，电动机输出轴便可精确实现点对点的运动。最大转速计算公式为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\omega = \\frac { K R E _ { n } \\nu } { 2 D _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中 $\\omega$ 一电动机最大转速",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$K$ 一电动机S曲线轨迹规划参数  \n$R$ 一电动机减速器减速比  \n$E _ { n }$ 一倍频放大后的电动机编码器线数  \n$D _ { i }$ 一第 $i$ 把锄草刀对应的刀苗距  \n$\\nu$ 一锄草机器人前进速度",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "导向机构驱动电动机的控制采用离散化查询式PD 控制，查询表参数根据试验设定[18]。控制器根据机器人前进速度 $\\nu$ ，对行偏差 $D _ { \\iota }$ 及对行偏差的微分 $\\Delta D _ { l }$ ，通过表格查询的方式读取对应的 PD 控制器比例项 $\\mathrm { \\bf ~ P } _ { - }$ _pos 和微分项D_pos，计算出电动机减速器输出轴位置 $\\theta$ 。PD控制原理如图10所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/96097c5de08944820937a1a8ba7def7e5b1052932a88e30e2ddbc9bb0107f7ad.jpg",
+        "img_caption": [
+            "图10PD控制原理Fig.10 Principle of PD control"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3试验 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了检验电驱锄草机器人的作业性能，在北京市通州区北京国际都市农业科技园进行了路面试验和田间试验。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 路面试验 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "路面试验在水泥路面上进行，如图11所示，用绿色塑料叶片模拟作物，按照 $0 . 5 \\mathrm { m }$ 行距摆放，使试验具有可重复性，同时也易于控制变量。为研究行驶速度和作物株距对电驱锄草机器人作业伤苗率的影响，分别在3种作物株距和 3种不同行进速度下进行试验，统计伤苗率，结果如图12所示。伤苗率的统计结合了现场人工观察和对现场所拍摄视频的分析。判断伤苗的依据为：遇苗时，若株间锄草刀掠过塑料叶片中心，则认为锄草刀伤苗；否则，认为正确避苗。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d74b78900380abc410ca1b5c8e922496c5aeb3c5834027ffb588a06574a567cc.jpg",
+        "img_caption": [
+            "图11路面试验现场 Fig.11 Scene of on-road experiment "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a09fc9fbaeb88c24ddf8cd9806ea3a16bb09f2be57f53f90e4577c3c432ac47f.jpg",
+        "img_caption": [
+            "图12不同株距和速度下的伤苗率Fig.12 Crop damage rates under different plantspacing and speed"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "路面试验结果表明，在相同前进速度下，作物株距越大，伤苗率越低；随着前进速度的提升，伤苗率增加。若希望伤苗率控制在 $10 \\%$ 以下，则作物株距不应小于 $0 . 3 \\mathrm { m }$ 。当株距较大时（大于 $0 . 4 5 \\mathrm { m } )$ ，机器人作业速度可达 $1 . 8 \\mathrm { k m / h }$ 。一般情况下（株距大于 $0 . 3 5 \\mathrm { m }$ ），机器人以不超过 $1 . 5 \\mathrm { k m / h }$ 的速度前进，其伤苗率都在可接受的范围内。导致伤苗的主要原因包括视觉检测误差、机械误差和电动机转速控制误差。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 田间试验 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "田间试验于2015年4月30日进行，现场如图13所示。试验作物为一畦半自动移栽机移栽的生菜，移栽日期为2015年4月17日，行距 $0 . 5 \\mathrm { m }$ ，株距 $0 . 3 { \\sim } 0 . 6 \\mathrm { m }$ 。试验田在作物移栽前后未喷洒除草剂。试验日期临近杂草出苗高峰，移栽作物缓苗结束，适合进行锄草。将试验田分成3个区域分别进行3次试验。试验前，每个试验区域随机选取5个株间样本区，对杂草数和高度进行统计，平均杂草密度为126株 $/ \\mathrm { m } ^ { 2 }$ ，平均高度 $1 5 \\mathrm { m m }$ ，主要杂草包括灰灰菜、苋菜、马齿苋等。试验时，机器人以约 $2 0 { \\sim } 3 0 \\mathrm { m m }$ 的耕深、 $1 . 2 \\mathrm { k m / h }$ 的前进速度进行锄草。锄草后，统计伤苗数和样本区域未铲除杂草数，并计算伤苗率和株间杂草锄净率，结果如表1所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3471834c2d0e7bb246acd453c1ffbd6ec89892d86f138ac5811a214eca12b395.jpg",
+        "img_caption": [
+            "图13田间试验现场 Fig.13Scene of field experiment "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e4dbd921d9315bddf0a0fe1da24334200ee1a4c6ebc83eb3c98400261ae160a1.jpg",
+        "table_caption": [
+            "表1田间试验结果",
+            "Tab.1Result of field experiment "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>试验 序号</td><td>苗总数 /株</td><td>伤苗数 /株</td><td>伤苗率 /%</td><td>/株</td><td>/株</td><td>锄前杂草数 遗留杂草数 杂草锄净率 /%</td></tr><tr><td>1</td><td>91</td><td>4</td><td>4.4</td><td>31</td><td>3</td><td>90.3</td></tr><tr><td>2</td><td>82</td><td>6</td><td>7.3</td><td>29</td><td>3</td><td>89.7</td></tr><tr><td>3</td><td>84</td><td>6</td><td>7.1</td><td>45</td><td>5</td><td>88.9</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "试验结果表明电驱锄草机器人在田间真实工况下，以 $1 . 2 \\mathrm { k m / h }$ 的速度作业时，伤苗率均低于 $10 \\%$ ，且对株间杂草的锄净率接近 $90 \\%$ ，各执行机构的动作未明显受到土壤阻力的影响。伤苗主要由锄刀盘、刀柄等机械部件对作物根部、叶片造成损伤，以及因表面土壤板结，导致土块碰伤、埋压作物造成。同时，月牙形锄草刀的锄草、松土效果较好，大部分杂草被铲断、翻出。还有一些杂草虽然保留在板结的土块上，如图14所示，但其根部已被锄刀铲断，曝晒3\\~5d便枯死。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/53f7dbadd2b9292e10b7c0b04dcc7f852865d788bef38d3d24e5b7e5d45ee9b8.jpg",
+        "img_caption": [
+            "图14板结土块上的杂草Fig.14Weedsstayonasoilblock"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "电驱锄草机器人以 $1 . 2 \\mathrm { k m / h }$ 的速度工作，作业幅宽约 $1 . 5 \\mathrm { m }$ ，若以每天 8h 有效工作时间计算，则其作业效率可达 $1 . 4 4 \\mathrm { h m } ^ { 2 } / \\mathrm { d }$ ，显著超越人工锄草的效率（约 $0 . 0 7 \\mathrm { h m } ^ { 2 } / \\mathrm { d }$ ）。模块化的锄刀单元可根据需要增加或减少，因此，其能量利用率和作业效率有望进一步提升。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "与同类型的液压驱动锄草机器人相比较，电驱锄草机器人更加清洁环保。液压系统较电气系统质量大，能量传递效率低，时常出现液压油的泄漏，并且需定期更换油液。未经合理处置的废油容易造成环境污染。同类型的液压驱动锄草机器人需要配套较大马力的拖拉机（通常 $6 0 \\mathrm { k w }$ 以上），以获得足够大的液压输出流量。相较而言，电驱锄草机器人配套 $3 7 \\mathrm { k w }$ 拖拉机足矣，减少了燃油的消耗和废油、废气的排放。此外，作为电驱锄草机器人电源的汽油发电机在未来可被替换为高性能的蓄电池，或替换为利用拖拉机动力输出轴发电的供电系统，则可进一步减少油耗和排放。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1)设计了一种适用于移栽绿叶蔬菜的电驱锄草机器人，阐述了其组成、原理及方法。该机器人执行机构运动形式简单，易于控制；",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "主要工作部件实现了模块化，有利于适应不同种植结构。电动机驱动能量传递效率更高，具有更好的伺服特性，能耗低，无污染物泄漏，符合农业可持续发展的要求。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2)提出了基于视觉伺服控制技术、多传感器信息融合的株间锄草刀避苗和对行动作控制方法，使株间锄草刀根据株距变化、作物行走势自动避苗和对行，实现了智能化锄草作业。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3)设计了电驱锄草机器人作业性能试验方法，以杂草锄净率和伤苗率为评价指标，考察了不同作物株距和前进速度下的作业效果。试验结果表明：该机器人作业效果受到前进速度和作物株距的影响。在前进速度不高于$1 . 5 \\mathrm { k m / h }$ 、作物株距不小于 $0 . 3 5 \\mathrm { m }$ 的工况下，伤苗率小于 $1 0 \\%$ ，对田间杂草的锄净率约为 $9 0 \\%$ 。该机器人能够满足田间作业要求，为解决大田除草难题提供了一种清洁、高效的解决方案。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1 TILLETT N D, HAGUE T, GRUNDY A C,et al. Mechanical within-row weed control for transplanted crops using computer vision[J].Biosystems Engineering,2008,99(2):171\\~178.   \n2 CORDILL C,GRIFTTE. Design and testing of an intra-row mechanical weeding machine for corn[J]. Biosystems Engineering,2011,110(3): 247\\~252.   \n3 PEREZ-RUIZ M,SLAUGHTER D C, GLIEVER C J,et al.Automatic GPS-based intra-row weed knife control system for transplanted row crops[J]. Computers and Electronics in Agriculture,2012,8O: 41\\~49.   \n4 PEREZ-RUIZ M,SLAUGHTER D C,FATHALLAHF A,et al. Co-robotic intra-roW weed control system[J]. Biosystems Engineering,2014,126: 45\\~55.   \n5 BAKKER T.An Autonomous Robot for Weed Control - Design,Navigation and Control[D]. Wageningen: Wageningen University,2009.   \n6 HAFFR,SLAUGHTER D,JACKSON E. X-Ray Based Stem Detection in An Automatic Tomato Weding System[J]. Applied engineering in agriculture,2011,27(5): 803\\~810.   \n7 SABER M,LEEWS,BURKS TF,et al.Performanceand Evaluation of Intra Intra-Row Weeder Ultrasonic Plant Detection Systemand Pinch-Roler Roler Weeding Mechanism for Vegetable Crops[C]// 2015 ASABE Annual International Meeting,New Orleans,2015.Paper Number:152188868.   \n8 陈勇，郑加强，郭伟斌．除草机器人机械臂运动分析与控制[J]．农业机械学报．2007，38(8)：105\\~108. CHEN Y, ZHENG J Q,GUO W B.Kinematics analysis and motion control for a weeding robotic arm[J]. Transactions of the Chinese Society for AgriculturalMachinery2007,38(8):105\\~108.(in Chinese with English abstract)   \n9 张春龙，黄小龙，刘卫东，等．苗间锄草机器人信息获取方法的研究[J]．农业工程学报，2012，28(9)：142\\~146. ZHANG C L, HUANG X L,LIU W D,et al. Information acquisition method for mechanical intra-row weeding robot[J].Transactions of the Chinese Societyof Agricultural Enginering (Transactions of the CSAE),2012,28(9): 142\\~146.(in Chinese with English abstract)   \n10张朋举，张纹，陈树人，等．八爪式株间机械除草装置虚拟设计与运动仿真[J]．农业机械学报，2010，41(4): 56\\~59. ZHANGPJ,ZHANG W, CHEN SR,et al. Virtual design and kinetic simulation for eight claw intra-row mechanical weeding device[J].Transaction of the Chinese Society for Agricultural Machinery2010,41(4):56\\~59.(inChinese with English abstract)   \n11胡炼,罗锡文，严乙桉，等．基于爪齿余摆运动的株间机械除草装置研制与试验[J]．农业工程学报,2012,28(14): 10\\~16. HU L,LUO X W,YAN Y A,et al. Development and experiment of intra-row mechanical weeding device based on trochoidmotionof claw toth[J].Transactions of the Chinese Societyof Agricultural Engineering (Transactions of the CSAE),2012,28(14):10-16.(in Chinese with English abstract)   \n12张春龙，黄小龙，耿长兴，等．智能锄草机器人系统设计与仿真[J]．农业机械学报，2011，42(7)：196\\~199. ZHANG C L,HUANG X L,GENG C X,et al. Design and simulation of inteligent weeding robot system[J]. Transactions of the Chinese Society for Agricultural Machinery,2011,42(7):196\\~199.(in Chinese with English abstract)   \n13陈子文，李南，孙哲，等．行星刷式株间锄草机械手优化与试验[J]．农业机械学报，2015，46(9):94\\~99. CHEN Z W,LI N, SUN Z,et. al. Optimization and experiment of intra-row brush weeding manipulator based on planetary gear train [J].(in Chinese with English abstract)   \n14LI N, ZHANG CL,CHEN Z W,et al. Crop positioning for robotic intra-row weeding based on machine vision[J]. International Journal of Agricultural and Biological Engineering ,2O15,8(6): 20-29.   \n15OTSU N.A threshold selection method from gray-level histogram[J].IEEE Transaction on System Man and Cybernetics,1979，9(1): $6 2 { \\sim } 6 6$ ：   \n16HAGUET,TILLETTND.Abandpassfilter approach tocroprow locationand tracking[J]. Mechatronics,2001,11(1): $_ { 1 \\sim 1 2 }$   \n17马锂宏,李南，王汉斌，等．温室株间电驱锄草机控制系统设计与试验[J]．农业机械学报,2012,43（1)：100\\~110. MAZH,LIN,WANG HB,et al.Control system for electric drive intra-row weeding[J].Transactionsof the Chinese Society for Agricultural Machinery,2015,46(1):89\\~93. (in Chinese with English abstract)   \n18王汉斌．锄草机器人对行控制方法研究[D].北京：中国农业大学，2014. WANG HB.Research on row alignment control method of intelligent weeding robot[D]. Beijing: China Agricultural University. (in Chinese with English abstract) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

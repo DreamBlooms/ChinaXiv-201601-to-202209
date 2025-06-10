@@ -1,0 +1,202 @@
+# 退化草原土壤理化性质空间异质性及其对土壤水分的影响
+
+高露¹，张圣微²，赵鸿彬³，高文龙¹，杜银龙'，林汐1（1．内蒙古农业大学水利与土木建筑工程学院,内蒙古 呼和浩特010018；2．内蒙古自治区农牧业大数据研究与应用重点实验室,内蒙古 呼和浩特010018;3．内蒙古农业大学生命科学学院，内蒙古 呼和浩特010018)
+
+摘要：测定分析锡林郭勒盟正镶白旗额里图牧场退化草原草地生态系统 $0 \sim 1 2 0 \ \mathrm { c m }$ 土层土壤理化性质（质量含水量、容重、饱和含水率、电导率、 $\mathrm { \Phi _ { \cdot } p H }$ 和有机质），运用经典统计学和地统计学方法探讨其空间异质性及各理化性质对土壤水分的影响。结果表明：退化草原土壤呈弱碱性，电导率、容重和 $\mathrm { \ p H }$ 随土层加深而增大，而饱和含水率和有机质含量随土层加深而减小，由此可见土壤 $\mathrm { \ p H }$ 与有机质含量随土层加深呈相反规律,除容重和 $\mathrm { \ p H }$ 呈弱变异,其余土壤特性指标均呈中等变异，除 $8 0 \sim 1 2 0 ~ \mathrm { c m }$ 土层外，其余土层土壤含水量变异系数随土壤含水量的增大而降低；本研究区各土层土壤含水量、有机质、 $\mathrm { \ p H }$ 表现出强烈的空间相关性，容重由随机性因素引起的变异程度最小，饱和含水率由结构性和随机性因素共同引起空间变异,影响本研究区土壤理化性质的因素较复杂;各土层土壤饱和含水率变程普遍较大，为 $1 3 . 9 4 \sim 5 2 . 7 7 ~ \mathrm { k m }$ ，较长距离其空间连续性较好， $0 \sim 1 0 \ \mathrm { c m }$ 土层 $\mathrm { \Delta p H }$ 变程最大，有机质变程最小，而 $8 0 \sim 1 2 0 ~ \mathrm { c m }$ 土层恰好相反； $0 \sim 1 0 \ \mathrm { c m }$ 和 $8 0 \sim 1 2 0 \ \mathrm { c m }$ 土层土壤质量含水量均与饱和含水率呈显著正相关,$1 0 \sim 2 0 ~ \mathrm { c m }$ 和 $8 0 \sim 1 2 0 ~ \mathrm { c m }$ 土层土壤水分相对较大，土壤持水力较强,中间土层 $( 2 0 \sim 8 0 ~ \mathrm { c m }$ )土壤含水量与有机质和$\mathrm { \ p H }$ 存在显著相关关系。
+
+关键词：退化草原；土壤理化性质；地统计学；空间异质性；土壤水分；内蒙古
+
+草地是一种分布辽阔的陆地生态系统类型，占全球陆地面积的 $3 0 \% \sim 4 0 \%$ ,我国草地总面积仅次于澳大利亚，位居世界第二，且大多数位于西北部寒冷干旱地区['-2],草地不仅能支撑畜牧业生产,在防风固沙、水土保持、生物多样性的保护及陆地生态系统碳循环等方面也扮演着重要角色[3]。但我国$90 \%$ 的可利用草原存在不同程度的退化，植被覆盖率不断下降，生态灾难时有发生，草地生态服务功能持续下降，阻碍区域的可持续发展[4]，直接影响国家生态安全及畜牧业发展[5]。锡林郭勒草原总面积约 $1 . 8 0 \times 1 0 ^ { 5 } ~ \mathrm { k m } ^ { 2 }$ ,是国家重要的生态屏障和畜产品基地，而锡林郭勒盟退化、沙化、盐渍化草原面积占全盟草原总面积的 $7 2 . 2 2 \%$ ,加大草原生态系统修复仍是一项重要工作[。土壤水分无论在大尺度还是小尺度上都存在高度的空间变异[7-9],土壤水分时空变化对预测干旱及洪涝灾害方面具有重要意义[7],土壤理化性质的空间分布特性影响水文过程[10],研究土壤要素(地形、植被、降雨和蒸发等)时空变异尺度对了解中小尺度和大尺度的气象及全球变化有重要的科学依据[11]。国内外对土壤水分要素空间异质性研究主要集中在小兴安岭混交林[12]、青藏高原高寒草甸[13]、喀斯特坡面[14]等干旱半干旱草原[15]。对锡林郭勒盟退化草原的研究主要集中在植被、降水、气温[16]和不同放牧条件[17]等方面。在土壤水分和理化性质监测及空间异质性方面的研究相对缺乏。如Brocca[7]等在田间和流域尺度上，利用遥感反演土壤水分变化规律，并结合土壤水分监测数据，研究土壤水分的时空变异性和跨尺度估算;Lakhankar等[9采用地质统计学方法分析了土壤水分的大尺度空间变异性;姚月锋等[18]对漓江流域 $0 \sim 1 0 \ \mathrm { c m }$ 土层的土壤水分物理性质空间变异性进行了分析;张淑媛等[19]分析了土壤主要化学性质的空间异质性。赵亚楠等[20]对荒漠草原灌丛引入下不同土层的土壤水分空间异质性进行了研究。裴艳武等[21]研究了两种不同植物生理指标对土壤水分动态变化的影响;刘效东等[22]以南亚热带地区对不同演替阶段的森林生态系统为研究对象，探讨了土壤有机质对土壤水分的作用;吴军虎等[23]分析了容重及有机质含量对土壤水分的影响。这些研究难以阐述退化草原土壤理化性质空间异质性对土壤水分的影响。为此，本研究采用经典统计学和地统计学分析的方法，以锡林郭勒盟正镶白旗退化草原为研究对象，分析探讨退化草原不同土层土壤理化性质空间异质性特征及其对土壤水分的影响，为该草原的土壤水分动态和生态系统保护及修复提供科学依据。
+
+# 1 材料与方法
+
+# 1.1 研究区概况
+
+研究区位于内蒙古锡林郭勒草原的西南部，地理坐标为 $1 1 4 ^ { \circ } 0 5 ^ { \prime } \sim 1 1 5 ^ { \circ } 3 7 ^ { \prime } \mathrm { E } , 4 2 ^ { \circ } 0 5 ^ { \prime } \sim 4 3 ^ { \circ } 0 2 ^ { \prime } \mathrm { N } ,$ 属中温带半干旱大陆性气候，冬长春短，夏热秋凉，年平均气温 $1 . 9 ~ \mathrm { ^ { \circ } C }$ ，降水量少而集中，年均降水量314$\mathbf { m } \mathbf { m }$ ,年均蒸发量 $2 \ 1 2 6 \ \mathrm { m m }$ ，为降雨量的6倍之多。植被以禾本科和菊科植物为主，代表性植物有羊草[Leymuschinensis（Trin.）Tzvel.]、冷蒿（ArtemisiafrigidaWilld.）克氏针茅（Stipa kryloviiRoshev）、糙隐子草[Cleistogenes squarrosa（Trin.）Keng]等。全旗风蚀沙化、盐渍化、草原退化、水土流失总面积占全旗总面积的 $80 \%$ 以上，本区被列为京津风沙源治理工程的重点旗(县)之一。
+
+# 1.2 土样的采集及测定
+
+2018 年6月下旬采集土壤样品（土壤干旱期），共随机选取 $6 \ \mathrm { m } \times 6 \ \mathrm { m }$ 的均一地类(退化草原)调查样方9个。在样方中心通过GPS记录该样方的经纬度,每个样方内采用直径 $5 \ \mathrm { c m }$ 土钻在 $0 \sim 1 2 0 \ \mathrm { c m }$ 各层 $( 0 \sim 1 0 \ . 1 0 \sim 2 0 \ . 2 0 \sim 4 0 \ . 4 0 \sim 8 0 \ . 8 0 \sim 1 2 0 \ \mathrm { c m }$ ）取3个重复土样放入铝盒，取3个容积为 $1 0 0 ~ \mathrm { c m } ^ { 3 }$ 的环刀(方向垂直向下），同时在同一位置取混合均匀的原状土装入1个塑封袋，带回实验室进行土壤理化特性测试。
+
+土壤质量含水量测定：采用烘干法测定铝盒中的土样。土壤容重测定：采用环刀法测定，将环刀土烘干( $1 0 5 \mathrm { ~ \textdegree C }$ )至恒重，烘干土质量与环刀容积的比值为土壤容重；饱和含水率测定：将环刀放入容器（带孔底盖向下），在容器中加水至水面与环刀顶端齐平，切勿淹没环刀顶端，以免造成孔隙封闭。每隔$^ { 2 \mathrm { ~ h ~ } }$ 将环刀取出，擦干外部附着水分，称重。重复此操作至环刀土重量不变。采用便携式电导率仪和pH计测定电导率和pH；根据GB7857-87采用重铬酸钾氧化-外加热法测定有机质含量;用激光粒度分析仪测定土壤粒径。将3个土样的平均值作为该样方的样本值。
+
+# 1.3 数据分析
+
+数据采用经典统计学和地统计学分析完成。计算各土层土壤水分及理化性质的平均值、标准差及变异系数 $( C v )$ ，变异系数大小可反映特征变量的空间变异程度， $C v < 0 . 1$ 时弱变异， $. 0 . 1 < C v < 1 . 0$ 时中等变异， $\mathit { C v } > 1 . 0$ 时强变异[24]。利用单样本的 Sha-piro-Wilk检验对各指标进行正态分布检验，将不服从正态分布的数据进行对数转化，使其服从正态分布，再进行地统计学分析。
+
+半方差函数是地统计学中用来研究土壤空间变异的函数，其表达式为：
+
+$$
+\gamma ( h ) \ = \frac { 1 } { 2 N ( h ) } \sum _ { i = 1 } ^ { N ( h ) } \left[ Z ( x i ) \ - { Z ( x i \ + \ h ) } \right] ^ { 2 }
+$$
+
+式中： $h$ 为步长， $\gamma ( h )$ 为半方差函数值， $N ( h )$ 为 $\boldsymbol { h }$ 对应的样本对总数; $Z ( x i )$ 和 $Z ( x i + h )$ 分别为区域化变量 $Z ( \boldsymbol { x } )$ 在空间位置 $\mathbf { \Psi } _ { x i }$ 和 $x i + h$ 上的实测数值。以 $h$ 为横坐标， $\gamma ( h )$ 为纵坐标绘制半方差函数图，建立半方差函数理论模型，模拟小尺度变量的空间变异特点。通过变异函数可得到4个重要参数，即基台值 $C _ { 0 } + C$ ,块金值 $C _ { 0 }$ ,块金系数 $C _ { 0 } / ( C _ { 0 } + C )$ 和变程 $A _ { 0 }$ 。当 $C _ { 0 } / ( \mathrm { \Delta C _ { 0 } } + \mathrm { \Delta C } ) \geqslant 7 5 \%$ 时,变量空间分布相关性较弱，当 $2 5 \% < C _ { 0 } / ( \ C _ { 0 } + C ) < 7 5 \%$ 时,变量有中等的空间分布相关性，当 $C _ { 0 } / ( \mathrm { \Delta C _ { 0 } } + \mathrm { \Delta C } ) \leqslant 2 5 \%$ 时，说明变量具有较强的空间分布相关性。
+
+采用SPSS25.0和Excel2013软件进行地统计分析及各土层土壤理化性质与土壤水分的相关性。采用 $\mathrm { G S } + 9 . 0$ 对各土层采样点的土壤水分及理化性质进行半方差分析。
+
+# 2结果与分析
+
+# 2.1各土层土壤水分理化性质统计特征
+
+如表1和图1所示， $0 \sim 1 0 \ \mathrm { c m }$ 和 $1 0 \sim 2 0 ~ \mathrm { c m }$ 土层土壤含水量平均值达到最小和最大，为 $5 . 8 5 \%$ 和
+
+$9 . 7 5 \%$ ,各土层变异系数在 $0 . 1 6 \sim 0 . 3 2$ ,均属于中等变异,相对变异较大的土层位于表层 $( 0 \sim 1 0 ~ \mathrm { c m } ) \$ 和深层( $4 0 \sim 1 2 0 ~ \mathrm { c m } ,$ ），变异系数为0.32和0.31。土壤容重随土层加深而增大、其中 $0 \sim 1 0 ~ \mathrm { c m }$ 土层容重平均值最小,为 $1 . 1 7 \mathrm { ~ g ~ } \cdot \mathrm { ~ c m } ^ { - 3 }$ ， $8 0 \sim 1 2 0 ~ \mathrm { c m }$ 土层容重平均值最大,为 $1 . 5 7 \mathrm { ~ g ~ } \cdot \mathrm { ~ c m } ^ { - 3 }$ ,各土层变异系数在 $0 . 0 6 \sim 0 . 0 9$ ,均属于弱变异。饱和含水率随土层加深而减小， $0 \sim 1 0 \ \mathrm { c m }$ 和 $8 0 \sim 1 2 0 \ \mathrm { c m }$ 土层饱和含水率平均值达到最大和最小，为38. $13 \%$ 和$2 4 . 3 7 \%$ ,变异系数在 $0 . 1 1 \sim 0 . 2 7$ ,属中等变异。电导率随土层加深而增大， $0 \sim 1 0 \ \mathrm { c m }$ 和 $8 0 \sim 1 2 0 \ \mathrm { c m }$ 土层饱和含水率平均值达到最小和最大，为165.94${ \mu \mathrm { S } } \cdot \mathrm { c m } ^ { - 1 }$ 和 $2 3 3 . 0 7 ~ { \mu \mathrm { S } } \cdot { \mathrm { c m } } ^ { - 1 }$ ,变异系数在 $0 . 1 9 \sim$
+
+0.28，为中等变异，其中相对变异较小的土层为$1 0 \sim 2 0 ~ \mathrm { c m }$ 和 $1 2 0 \sim 4 0 ~ \mathrm { c m }$ 。土壤 $\mathrm { \ p H }$ 随土层加深而增大,其平均值在 $7 . 7 4 \sim 8 . 7 3$ ,呈弱碱性，变异系数在$0 . 0 3 \sim 0 . 0 5$ ,属弱变异。土壤有机质含量随土层深度加深而降低， $0 \sim 1 0 ~ \mathrm { c m }$ 平均值达到最大，为12.13$\mathbf { g } \cdot \mathbf { k } \mathbf { g } ^ { - 1 }$ $8 0 \sim 1 2 0 ~ \mathrm { c m }$ 平均值最小,为 $2 . 5 1 \ \mathrm { g \cdot k g ^ { - 1 } }$ ，变异系数在 $0 . 1 4 \sim 0 . 4 4$ ,均属中等变异。
+
+# 2.2 各土层土壤水分理化性质的地统计学分析特征
+
+如表2所示，通过半方差函数理论模型对正镶白旗 $0 \sim 1 2 0 \ \mathrm { c m }$ 土层土壤水分理化性质各指标进行拟合表明， $0 \sim 8 0 ~ \mathrm { c m }$ 土层土壤含水量高斯模型拟合较好， $8 0 \sim 1 2 0 ~ \mathrm { c m }$ 土层拟合较好的是球状模型; $0 \sim$
+
+表1各土层土壤水分理化性质的描述性统计值  
+Tab.1Descriptive statistics of soil water physical and chemical properties in each soil layer   
+
+<html><body><table><tr><td></td><td>变量</td><td>最小值</td><td>最大值</td><td>均值</td><td>标准差</td><td>变异系数Cu</td><td>偏度</td><td>峰度</td><td>S-W检验概率</td></tr><tr><td>0~10 cm</td><td>含水量/%</td><td>2.85</td><td>9.71</td><td>5.85</td><td>1.87</td><td>0.32</td><td>0.08</td><td>-0.77</td><td>0.468</td></tr><tr><td></td><td>容重/（g·cm-³）</td><td>1.17</td><td>1.48</td><td>1.17</td><td>0.08</td><td>0.07</td><td>0.19</td><td>-0.61</td><td>0.938</td></tr><tr><td></td><td>饱和含水率/%</td><td>27.79</td><td>46.15</td><td>38.13</td><td>4.35</td><td>0.11</td><td>-0.22</td><td>-0.22</td><td>0.841</td></tr><tr><td></td><td>电导率/（μS·cm-1)</td><td>113.70</td><td>251.00</td><td>165.94</td><td>38.95</td><td>0.23</td><td>0.77</td><td>-0.10</td><td>0.035</td></tr><tr><td></td><td>pH</td><td>6.95</td><td>8.44</td><td>7.74</td><td>0.39</td><td>0.05</td><td>-0.22</td><td>-0.75</td><td>0.769</td></tr><tr><td></td><td>有机质/（g·kg-1）</td><td>16.52</td><td>9.89</td><td>12.13</td><td>1.68</td><td>0.14</td><td>1.31</td><td>1.69</td><td>0.004</td></tr><tr><td>10~20 cm</td><td>含水量/%</td><td>6.22</td><td>13.18</td><td>9.75</td><td>1.60</td><td>0.16</td><td>0.24</td><td>-0.03</td><td>0.227</td></tr><tr><td></td><td>容重/（g·cm-³）</td><td>1. 13</td><td>1.59</td><td>1.34</td><td>0.08</td><td>0.06</td><td>0.64</td><td>2.93</td><td>0.060</td></tr><tr><td></td><td>饱和含水率/%</td><td>12.94</td><td>47.18</td><td>32.59</td><td>8.77</td><td>0.27</td><td>- 1.65</td><td>4.76</td><td>0.005</td></tr><tr><td></td><td>电导率/（μS·cm-1)</td><td>115.40</td><td>266.00</td><td>187. 12</td><td>36.19</td><td>0.19</td><td>0.14</td><td>-0.16</td><td>0.857</td></tr><tr><td></td><td>pH</td><td>7.30</td><td>8.57</td><td>8.08</td><td>0.31</td><td>0.04</td><td>-0.29</td><td>0.01</td><td>0.511</td></tr><tr><td></td><td>有机质/（g·kg-1)</td><td>13.84</td><td>6.50</td><td>10.54</td><td>1.86</td><td>0.18</td><td>-0.22</td><td>-0.10</td><td>0.616</td></tr><tr><td>20~40 cm</td><td>含水量/%</td><td>5.05</td><td>7.93</td><td>6.26</td><td>1.10</td><td>0.18</td><td>0.47</td><td>-1.30</td><td>0.006</td></tr><tr><td></td><td>容重/（g·cm-³）</td><td>1.25</td><td>1.63</td><td>1.38</td><td>0.08</td><td>0.06</td><td>0.24</td><td>-0.83</td><td>0.342</td></tr><tr><td></td><td>饱和含水率/%</td><td>18.22</td><td>43.12</td><td>32.09</td><td>7.33</td><td>0.23</td><td>-0.07</td><td>-0.25</td><td>0.990</td></tr><tr><td></td><td>电导率/（μS·cm-1)</td><td>131.60</td><td>276.00</td><td>188.92</td><td>37.3</td><td>0.28</td><td>1.18</td><td>1.55</td><td>0.002</td></tr><tr><td>pH</td><td></td><td>7.80</td><td>8.72</td><td>8.30</td><td>0.27</td><td>0.03</td><td>-0.32</td><td>-0.61</td><td>0.247</td></tr><tr><td></td><td>有机质/（g·kg-1）</td><td>11.02</td><td>1.13</td><td>7.44</td><td>2.14</td><td>0.29</td><td>-1.16</td><td>2.62</td><td>0.002</td></tr><tr><td>40~80 cm</td><td>含水量/%</td><td>2.91</td><td>8.80</td><td>6.06</td><td>1.88</td><td>0.31</td><td>-0.21</td><td>-1.34</td><td>0.060</td></tr><tr><td></td><td>容重/（g·cm-³）</td><td>1.33</td><td>1.74</td><td>1.50</td><td>0.09</td><td>0.06</td><td>0.42</td><td>0.52</td><td>0.894</td></tr><tr><td></td><td>饱和含水率/%</td><td>15.28</td><td>39.51</td><td>26.47</td><td>5.91</td><td>0.22</td><td>0.53</td><td>0.43</td><td>0.354</td></tr><tr><td></td><td>电导率/（μS·cm-1）</td><td>136.70</td><td>348.00</td><td>209.64</td><td>58.46</td><td>0.28</td><td>1.02</td><td>0.76</td><td>0.003</td></tr><tr><td></td><td>pH</td><td>8.07</td><td>9.06</td><td>8.61</td><td>0.31</td><td>0.04</td><td>-0.58</td><td>-1.18</td><td>0.004</td></tr><tr><td></td><td>有机质/（g·kg-1）</td><td>0.00</td><td>8.61</td><td>4.35</td><td>1.92</td><td>0.44</td><td>-0.01</td><td>0.38</td><td>0.964</td></tr><tr><td>80~120 cm</td><td>含水量/%</td><td>1.84</td><td>10.94</td><td>7.88</td><td>2.44</td><td>0.31</td><td>-1.30</td><td>1.26</td><td>0.001</td></tr><tr><td></td><td>容重/（g·cm-³)</td><td>1.27</td><td>1.83</td><td>1.57</td><td>0.14</td><td>0.09</td><td>0.25</td><td>-0.26</td><td>0.392</td></tr><tr><td></td><td>饱和含水率/%</td><td>13.73</td><td>38.71</td><td>24.37</td><td>6.33</td><td>0.26</td><td>0.33</td><td>0.55</td><td>0.473</td></tr><tr><td></td><td>电导率/（μS·cm-1）</td><td>178.50</td><td>309.00</td><td>233.07</td><td>49.06</td><td>0.21</td><td>0.43</td><td>-1.45</td><td>0.001</td></tr><tr><td>pH</td><td></td><td>7.69</td><td>9.22</td><td>8.74</td><td>0.34</td><td>0.04</td><td>-1.09</td><td>1.73</td><td>0.060</td></tr><tr><td></td><td>有机质/（g·kg-1）</td><td>0.00</td><td>6.50</td><td>2.51</td><td>1.08</td><td>0.43</td><td>0.67</td><td>-0.27</td><td>0.060</td></tr></table></body></html>
+
+![](images/aa9abc912eb7cc10b6169e0b5e5f96356d88049783fcd5cf864d726b4aaa9119.jpg)  
+图1 $0 \sim 1 2 0 \ \mathrm { c m }$ 土层采样点土壤理化性质垂直分布  
+ig.1Vertical distribution of soil physical and chemical properties atallsampling points inO-120 cmsoil layer
+
+$1 0 \ \mathrm { c m } \ . 4 0 \sim 1 2 0 \ \mathrm { c m }$ 土层土壤容重符合高斯模型,其余土层与指数模型拟合较好；除 $0 \sim 1 0 \ \mathrm { c m }$ 和 $2 0 \sim$ $4 0 \ \mathrm { c m }$ 土层饱和含水率分别与高斯和指数模型拟合较好之外，其余各土层均与球状模型拟合较好；土壤$\mathrm { \ p H }$ 在 $0 \sim 1 0 \ \mathrm { c m }$ 土层可拟合为球状模型,其余各土层均与高斯模型拟合较好； $: 0 \sim 4 0 \ \mathrm { c m }$ 土层土壤有机质含量可拟合为高斯模型，其余土层与指数和球状模型拟合较好。除了 $4 0 \sim 8 0 ~ \mathrm { ~ c m }$ 土壤 pH( $R ^ { 2 } = { }$ 0.341），其余各土层各指标均拟合较好( $( R ^ { 2 } > 0 . 4 )$ ，残差在 $4 . 4 3 4 \times 1 0 ^ { - 6 } \sim 7 5 . 8$ 。因大部分土层电导率不符合S-W正态分布检验，以下不做地统计学分析。其余指标经转换后均符合正态分布，满足地统计学分析要求。
+
+各土层土壤容重块金值最小 $\mathit { \Omega } _ { ( 0 . \ 0 0 0 \ 1 \ \sim } ^ { }$ 0.0027），土壤饱和含水率块金值最大 $( 0 . 8 2 0 \ 0 \sim$
+
+4.1100），其次浅层土 $( 0 \sim 2 0 \ \mathrm { c m } )$ 为土壤含水量、$\mathrm { \ p H }$ 和有机质，深层土（ $( 2 0 \sim 1 2 0 \ \mathrm { c m } )$ 为土壤含水量、有机质和 $\mathrm { \ p H }$ 。块金值 $C _ { 0 }$ 越大,表明变量空间异质性由测量误差、施肥等随机性引起的变异相比其他指标较大。结构方差 $( C )$ 反映由空间地形、气候、土壤母质等引起的结构性变异。基台值 $C _ { 0 } + C$ 包括随机性变异和结构性变异。各土层饱和含水率基台值相比其他指标较高，表明其总变异程度较高。块金系数反映随机性变异占总变异的比例，该比值越小，表明随机因素引起的空间变异程度越小。 $2 0 \sim$ $4 0 \ \mathrm { c m }$ 土层土壤容重块金系数最大 $( 4 3 . 1 \%$ )），而$1 0 \sim 8 0 ~ \mathrm { c m }$ 土层土壤有机质块金系数最小（0.2），其中 $0 \sim 1 0 ~ \mathrm { c m }$ 和 $8 0 \sim 1 2 0 ~ \mathrm { c m }$ 土层土壤饱和含水率块金系数最大; $1 0 \sim 4 0 \ \mathrm { c m }$ 土层土壤容重块金系数最大； $4 0 \sim 8 0 ~ \mathrm { c m }$ 土层土壤含水量块金系数最大； $0 \sim$
+
+Tab.2Oretical model of semi-variance function of soil water physical and chemical properties and related statistical parameters   
+
+<html><body><table><tr><td></td><td>变量</td><td>块金值Co</td><td>基值</td><td>块金系数</td><td>变程Ao</td><td>拟合模型</td><td>R</td><td>残差平方和</td></tr><tr><td>0~10 cm</td><td>含水量/%</td><td>0.530 0</td><td>3.913 0</td><td>13.5</td><td>10.24</td><td>高斯模型</td><td>0.733</td><td>3.590</td></tr><tr><td></td><td>容重/（g·cm-³)</td><td>0.001 0</td><td>0.0161</td><td>6.5</td><td>25.30</td><td>高斯模型</td><td>0.866</td><td>1.072 ×10 -5</td></tr><tr><td></td><td>饱和含水率/%</td><td>4.110 0</td><td>24.350 0</td><td>16.9</td><td>22.52</td><td>高斯模型</td><td>0.835</td><td>32.700</td></tr><tr><td></td><td>pH</td><td>0.027 0</td><td>0.354 0</td><td>7.6</td><td>61.00</td><td>球状模型</td><td>0.579</td><td>0.017</td></tr><tr><td></td><td>有机质/（g·kg-1）</td><td>0.010 0</td><td>3.686 0</td><td>0.3</td><td>2.57</td><td>高斯模型</td><td>0.487</td><td>10.400</td></tr><tr><td>40~80 cm</td><td>含水量/)</td><td>0.720 0</td><td>6.449 0</td><td>11.2</td><td>13.53</td><td>高斯模型</td><td>0.956</td><td>0.403</td></tr><tr><td></td><td>容重/（g·cm-³)</td><td>0.000 1</td><td>0.016 7</td><td>0.6</td><td>13.83</td><td>高斯模型</td><td>0.811</td><td>5.387×10-5</td></tr><tr><td></td><td>饱和含水率/%</td><td>0.820 0</td><td>11.240 0</td><td>7.3</td><td>13.94</td><td>球状模型</td><td>0.507</td><td>75.800</td></tr><tr><td></td><td>pH</td><td>0.003 7</td><td>0.053 1</td><td>7.0</td><td>2.44</td><td>高斯模型</td><td>0.341</td><td>3.295 ×10 -3</td></tr><tr><td></td><td>有机质/（g·kg-1)</td><td>0.010 0</td><td>4.421 0</td><td>0.2</td><td>9.07</td><td>指数模型</td><td>0.473</td><td>12.200</td></tr><tr><td>80~120 cm</td><td>含水量/%</td><td>0.058 0</td><td>2.275 0</td><td>2.5</td><td>5.65</td><td>球状模型</td><td>0.578</td><td>1.960</td></tr><tr><td></td><td>容重/（g·cm-³)</td><td>0.001 3</td><td>0.075 5</td><td>1.7</td><td>49.44</td><td>高斯模型</td><td>0.746</td><td>7.005 ×10 -5</td></tr><tr><td></td><td>饱和含水率/%</td><td>2.870 0</td><td>11.318 0</td><td>25.4</td><td>52.77</td><td>球状模型</td><td>0.466</td><td>24.000</td></tr><tr><td>pH</td><td></td><td>0.017 5</td><td>0.088 0</td><td>19.9</td><td>0.87</td><td>高斯模型</td><td>0.426</td><td>8.282 ×10-4</td></tr><tr><td></td><td>有机质/（g·kg-1）</td><td>0.220 0</td><td>5.449 0</td><td>4.0</td><td>53.52</td><td>球状模型</td><td>0.481</td><td>8.490</td></tr></table></body></html>
+
+$8 0 \ \mathrm { c m }$ 土层土壤有机质含量块金系数最小， $8 0 \sim 1 2 0 \$ cm 土层土壤容重块金系数最小。除了 $2 0 \sim 4 0 ~ \mathrm { c m }$ 土层土壤容重和 $8 0 \sim 1 2 0 ~ \mathrm { c m }$ 土层土壤饱和含水率的块金系数在 $2 5 \% \sim 7 5 \%$ ,为中等程度空间相关,其余各土层各指标块金系数均小于 $2 5 \%$ ,具有强烈的空间相关性。
+
+变程反映空间异质性最大变异的空间距离，该值越小体现了越大的变异性[25], $0 \sim 1 0 \ \mathrm { c m }$ 土层土壤 $\mathrm { \ p H }$ 变程最大 ${ ' 6 1 . 0 0 } ~ \mathrm { k m } \ '$ )，土壤有机质变程最小（204号 $( 2 . 5 7 ~ \mathrm { k m } )$ ，这与深层土( $\mathrm { 8 0 } \sim 1 2 0 \ \mathrm { c m } ,$ 恰好相反，其有机质变程最大( $5 3 . 5 2 ~ \mathrm { k m }$ ）， $\mathrm { \ p H }$ 变程最小（0.87$\mathbf { k m } _ { \mathrm { ~ , ~ } } ^ { \mathrm { ~ \scriptsize ~ . ~ } }$ 。 $1 0 \sim 2 0 ~ \mathrm { c m }$ 和 $4 0 \sim 8 0 \ \mathrm { c m }$ 土层土壤含水量、容重和饱和含水率变程主要集中在 $1 3 \sim 3 1 ~ \mathrm { k m }$ ，而 $\mathrm { \ p H }$ 和有机质变程主要集中在 $1 \sim 1 0 ~ \mathrm { k m }$ 。 $2 0 \sim 4 0 ~ \mathrm { c m }$ 土层除了饱和含水率变程较大 $( 2 8 . 3 6 ~ \mathrm { k m } )$ ），其余各指标变程均小于 $1 0 ~ \mathrm { k m }$ 。各土层土壤含水量变程为
+
+$5 . 0 0 \sim 3 0 . \ 1 4 \ \mathrm { k m }$ ，土壤容重变程为 $5 . 2 9 \sim 4 9 . 4 4 \$ $\mathrm { k m }$ ,土壤饱和含水率变程为 $1 3 . 9 4 \sim 5 2 . 7 7 ~ \mathrm { k m }$ ,土壤$\mathrm { \ p H }$ 变程为 $0 . 8 7 \sim 6 1 . 0 0 ~ \mathrm { k m }$ ，土壤有机质变程为$2 . 5 0 \sim 5 3 . 5 2 ~ \mathrm { k m }$ 。 $\mathrm { \ p H }$ 除 $0 \sim 1 0 ~ \mathrm { \ c m }$ 土层变程为$6 1 . 0 0 ~ \mathrm { k m }$ ,其余各土层变程集中在 $0 . 8 7 \sim 2 . 4 4 ~ \mathrm { k m }$ ，有机质除 $8 0 \sim 1 2 0 \ \mathrm { c m }$ 土层变程为 $5 3 . 5 2 ~ \mathrm { k m }$ ,其余各土层变程集中在 $2 . 5 0 \sim 9 . 0 7 ~ \mathrm { k m }$ ○
+
+# 2.3各土层土壤水分对理化性质的响应
+
+由表3及图2可知， $0 \sim 1 0 \ \mathrm { c m }$ 土层土壤质量含水量与饱和含水率呈显著正相关，与容重呈显著负相关， $1 0 \sim 2 0 \ \mathrm { c m }$ 土层土壤质量含水量与其他理化指标无显著相关关系， $2 0 \sim 4 0 ~ \mathrm { c m }$ 土层土壤质量含水量与有机质呈极显著负相关， $4 0 \sim 8 0 \ \mathrm { c m }$ 土层土壤质量含水量与 $\mathrm { \ p H }$ 呈极显著正相关, $8 0 \sim 1 2 0 \ \mathrm { c m }$ 土层土壤质量含水量与饱和含水率呈显著正相关。当饱和含水率、容重 $\mathrm { \nabla \cdot \ p H }$ 和有机质含量相似时， $1 0 \sim$
+
+表2土壤水分理化性质半方差函数理论模型及相关统计参数  
+表3土壤含水量和土壤理化性质的皮尔逊相关系数  
+Tab.3Pearson correlation coeficient between soil water content and soil physical and chemical properties   
+
+<html><body><table><tr><td>土层深 度/cm</td><td>饱和含水 率/%</td><td>容重 /(g·cm-³)</td><td>电导率</td><td>pH</td><td>有机质 /(g·kg-1）</td><td>土层深 度/cm</td><td>饱和含水 率/%</td><td>容重 /(g·cm-3)</td><td>电导率</td><td>pH</td><td>有机质 /(g·kg-1)</td></tr><tr><td>0~10</td><td>0.397 *</td><td>-0.478 *</td><td>-0.024</td><td>-0.120</td><td>0.287</td><td>40~80</td><td>0.153</td><td>-0.184</td><td>0.137</td><td>0.631 **</td><td>-0.104</td></tr><tr><td>10~20</td><td>0.213</td><td>-0.141</td><td>0.218</td><td>0.187</td><td>-0.045</td><td>80~120</td><td>0.416 *</td><td>-0.096</td><td>-0.312</td><td>-0.007</td><td>0.031</td></tr><tr><td>20~40</td><td>-0.233</td><td>0.199</td><td>-0.392</td><td>0.272</td><td>-0.629 **</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+注：\*\*在0.01水平(双侧)上显著相关， $*$ 在0.05水平(双侧)上显著相关。
+
+0\~10cm 10\~20 cm 20\~40 cm 40\~80 cm 80\~120 cm   
+2108644 容重。 P20012 2186 121086 2186 。 1186 8 8 88 品 。 8 4 4 4 。 8 4 08 2 R²=0.020 3 R²=0.040 2R²=0.034 2R²=0.009 。 0 0 0 0 0 0.81.11.41.7 2.00.8 1.11.41.7 2.0 0.81.11.41.72.00.8 1.1 1.41.72.0 0.8 1.11.41.72.0 容重 $/ ( \mathbf { g } \cdot \mathbf { c m } ^ { - 3 } )$ （20 容重 $/ ( \mathbf { g } \cdot \mathbf { c m } ^ { - 3 } )$ （204号 容重 $\mathrm { / ( g \cdot { c m } ^ { - 3 } ) }$ （204号 容重 $/ ( \mathbf { g } \cdot \mathbf { c m } ^ { - 3 } )$ （204号 容重 $/ ( \mathbf { g } \cdot \mathbf { c m } ^ { - 3 } )$ （204号   
+2108642 □饱和含水率 12 啤品 D 12108 12108 2108 品 □电吧 蟹 电 8石 4 6 □ 品 64 中品 64 品 □ 64 品 □ RP=0.173 R²=0.157\*P=0.041 2 R2=0.045 2 R2=0.054 2 R²=0.024 2 品 P=0.031 0 0 0 1 ， 0 0 L + 10 2030405060 10 20304050 60 1020304050 60 102030405060 10 2030405060 饱和含水率/% 饱和含水率 $1 \%$ 饱和含水率 $1 \%$ （204号 饱和含水率/% 饱和含水率/% 12 12 A 12 12 12 10△pH △ 10 公 10 10 10 A   
+%/喜 86 △ 86 86 然 86 86 B馆 姿 4   
+王 42 =0.014 42 R²=0.035 412 R²=0.074 42 R0.38 <c0.001 42 R2=0.005-05 2 1 0 oL 0 0 1 6 7 8 9 10 6 7 8 9 10 6 7 8 9 106 7 89 10 6 7 8910 pH pH pH pH pH 12 12 8 12 12 12   
+8 有机质 日 10 10 10 8名 品 8 6 8 8 6 8 6 8 □ 8 6 品 4 4 4 4 R²=0.082 2 R²=0.002 2 R²=0.300\*\*P<0.001 2 R²=0.011 28 R²=0.001 0 0 0 0 0 1 5 10 15 20 5 10 15 20 5 10 15 20 5 10 15 20 5 10 15 20 有机质 $( \mathbf { g } \cdot \mathbf { k } \mathbf { g } ^ { - 1 } )$ （2 有机质 $/ ( \mathbf { g } \cdot \mathbf { k } \mathbf { g } ^ { - 1 } )$ （204号 有机质 $/ ( \mathbf { g } \cdot \mathbf { k } \mathbf { g } ^ { - 1 } )$ 有机质 $( \mathbf { g } \cdot \mathbf { k } \mathbf { g } ^ { - 1 } )$ （204号 有机质 $/ ( \mathbf { g } \cdot \mathbf { k } \mathbf { g } ^ { - 1 } )$ （204号
+
+$2 0 ~ \mathrm { c m }$ 和 $8 0 \sim 1 2 0 ~ \mathrm { c m }$ 土层土壤水分相对较大。
+
+# 3讨论
+
+由于正镶白旗受气候、开荒种地、过度放牧等因素影响，其"三化”严重程度远超出内蒙古草原平均退化水平[26],生物环境异质性高,导致土壤水分及养分特征指标存在着一定的异质性。研究区土壤呈弱碱性且随土层加深而 $\mathrm { \ p H }$ 增大,土壤有机质含量随土层加深而减小。表层凋落物及根系分泌物较多、养分含量较高，使表层有机质含量大于深层，而有机质分解产生一定的酸，使土壤pH与有机质呈倒置规律。各土壤理化指标存在一定变异程度，除容重和pH呈弱变异，其余均呈中等变异。这与姚月锋等[18]、张淑媛等[19]和赵亚楠等[20]研究结果类似，其原因可能是植被类型、微生物环境和人类牲畜活动等不同。 $0 \sim 1 0 \ \mathrm { c m }$ 和 $1 0 \sim 2 0 \ \mathrm { c m }$ 土层土壤含水量达到最小和最大值，变异较大的土层位于( $0 \sim$ $1 0 \ \mathrm { c m }$ 和 $4 0 \sim 1 2 0 \ \mathrm { c m }$ 土层，其变异系数呈凹形，除$8 0 \sim 1 2 0 ~ \mathrm { c m }$ 土层外,其余土层变异系数随土壤含水量的增大而降低,这与Owe 等[27]研究结果较为一致。可能是由于该研究区潜水埋藏较浅[28],春季水分在土壤冻结过程中水分均向上运移[29],当土壤解冻，深层土壤水分得到地下水补充，使深层土壤含水量增大，由于该研究区为干旱草原区，降雨少而集中且蒸发量为降雨量6倍之多等气候原因，使0～10cm 土层土壤含水量最少。土壤容重是土壤最基本的物理性质之一，对土壤通透性、持水性和渗透性等具有一定影响，饱和含水率同样能较好地反映土壤保水供水能力[30],本研究中，容重随土层加深而增大,饱和含水率恰好相反，这与万丹等[31]研究结果一致。
+
+在干旱退化草原区,影响土壤理化性质空间变异的因素包括地形、气候、植被类型、土壤母质等结构性因素和测量误差、人为及牲畜干扰的随机性因素，随机性因素会降低空间相关性，而结构性因素会使各指标具有较强的空间相关性[32]。本研究区各土层土壤含水量、有机质、pH块金系数均小于$2 5 \%$ ,表现出强烈的空间相关性，说明随机性因素对这几个指标引起的空间变异程度贡献较小,降雨、植被、土壤质地等自然因素对其贡献较大。赵亚楠等[20]研究表明,宁夏东部荒漠草原灌丛引入下 $0 \sim$ $4 0 \phantom { . 6 0 } \sqrt { 8 } 0 \phantom { . 6 0 } \sim 8 0 \phantom { . 1 } 1 2 0 \sim 2 0 0 \phantom { . 0 0 } \mathrm { ~ c m }$ 各层土壤水分块金系数为$2 6 . 1 \% \sim 4 9 . 9 \%$ ,属于中等程度空间相关, $4 0 \sim 6 0$ 、$8 0 \sim 1 0 0 \mathrm { ~ . 1 0 0 \sim 1 2 0 ~ c m }$ 各层土壤含水量块金系数均小于 $2 5 \%$ ,具有强烈空间相关性。荒漠草原与退化草原植被类型、地形地貌均存在差异。研究表明，植被类型不同会使土壤水分发生改变，研究区植被以冷蒿为主，冷蒿枝短、分布为集聚型且其根系为株高的4\~5倍,植被截流、蒸腾、凋落物和根系等对土壤水分等特性指标产生影响，除此之外,地形地貌也会引起非生物要素在空间上重新分配,进而显著影响土壤水分空间异质性[33]。 $2 0 \sim 4 0 \ \mathrm { c m }$ 土层土壤容重和 $8 0 \sim 1 2 0 \ \mathrm { c m }$ 土层土壤饱和含水率的块金系数在 $2 5 \% \sim 7 5 \%$ ，为中等程度空间相关,而土壤容重块金值最小,饱和含水率块金值和基台值均较大，说明土壤容重由随机性因素引起的变异程度最小,饱和含水率由结构性和随机性因素共同引起空间变异且 $2 0 \sim 4 0 \ \mathrm { c m }$ 土层土壤容重相比其他指标随机性因素贡献较大，而 $8 0 \sim 1 2 0 ~ \mathrm { c m }$ 土层土壤饱和含水率相比其他指标随机性因素贡献较大。可能是由于研究区草地类型、取样点分布及取样时间的差异,导致各水分要素垂直及水平分布特征存在不同。
+
+土壤饱和含水率变程较大，表明较长距离其空间连续性较好， $0 \sim 1 0 ~ \mathrm { c m }$ 土层 $\mathrm { \ p H }$ 变程最大，有机质变程最小，而 $8 0 \sim 1 2 0 ~ \mathrm { c m }$ 土层恰好相反，可能是由于土壤温度在一定尺度下也具有异质性，从而引起土壤理化性质和微生物的变异[34],由于太阳辐射、含水量和湿度等不同因素和植被的间接影响，会导致土壤微生物生物量及酶活性的方式改变[35-36],因此改变凋落物等分解速率，使土壤特性存在空间异质性。除此之外，植被本身、土壤质地也会使不同土层结构发生改变，不同植被类型具有不同的渗透过程[37]。总之,植被—水分一土壤三者相互作用对水文过程具有重要意义[38] 。
+
+如表4部分采样点颗粒组成所示，各土层以砂土为主,含量为 $( 7 4 . 5 4 \pm 6 . 0 8 ) \% , 0 \sim 8 0 \ \mathrm { c m }$ 土层粉粒含量逐层递减， $0 \sim 1 0 \ \mathrm { c m }$ 和 $8 0 \sim 1 2 0 \ \mathrm { c m }$ 土层黏土含量较多。 $0 \sim 1 0 ~ \mathrm { c m }$ 和 $8 0 \sim 1 2 0 \ \mathrm { c m }$ 土层土壤质量含水量均与饱和含水率呈显著正相关，而当饱和含水率、容重、 $\mathrm { \Delta \cdot \ p H }$ 和有机质含量相似时， $1 0 \sim 2 0 ~ \mathrm { c m }$ 和 $8 0 \sim 1 2 0 ~ \mathrm { c m }$ 土层土壤水分相对较大，可能是由于$0 \sim 1 0 ~ \mathrm { c m }$ 和 $8 0 \sim 1 2 0 \ \mathrm { c m }$ 土层黏粒含量较多，土壤持水力较强，但该研究区降雨少而不均，蒸发量大，植被多以冷蒿为主，土层较薄，空气充足，导致表层（ $\mathrm { 0 \sim 1 0 ~ c m } ,$ 土壤含水量较低，使 $1 0 \sim 2 0 ~ \mathrm { c m }$ 和 $8 0 \sim$ $1 2 0 \ \mathrm { c m }$ 土壤水分较大。 $2 0 \sim 4 0 \ \mathrm { c m }$ 土层土壤质量含水量与有机质呈显著负相关,这与高鑫宇等[39]研究结果较为一致，可能是由于该土层土壤质地较复杂，有机质含量较低，降低了有机质对土壤持水性的影响。 $4 0 \sim 8 0 \ \mathrm { c m }$ 土层土壤质量含水量与pH呈极显著正相关，土壤有机质含量有随 $\mathrm { \ p H }$ 升高而降低的趋势,且二者呈极显著的负相关关系[40],在干旱半旱区，降雨量改变土壤含水量,进而改变土壤缓冲溶液浓度,对 $\mathrm { \ p H }$ 影响较大[41],该研究区积雪深度可达 $2 4 ~ \mathrm { c m }$ ,冬季积雪日数可达 $1 1 5 \mathrm { ~ d } ^ { [ 4 2 ] }$ ,积雪融化对土壤资源的流失，地下水的补充及土壤重新分配具有重要意义[43]。该土层具有复杂的土壤水资源组成，改变土壤缓冲溶液浓度，因此，该土层土壤质量含水量与 $\mathrm { \ p H }$ 呈极显著正相关，这与李从娟等[44 研究结果较为一致。中间土层( $2 0 \sim 8 0 ~ \mathrm { c m } ,$ 土壤含水量与有机质或 $\mathrm { \ p H }$ 存在相关关系。而 $0 \sim 1 0 \ \mathrm { c m }$ 和$8 0 \sim 1 2 0 ~ \mathrm { c m }$ 王层土壤质量含水量与饱和含水率呈显著正相关， $0 \sim 1 0 \ \mathrm { c m }$ 土层土壤质量含水量与容重呈显著负相关，可能是由于饱和含水率与容重呈显著负相关[45],牲畜的践踏导致表层土壤物理特性发生一系列波动，影响草地土壤结构，对水分传导产生直接影响，导致土壤入渗和持水性能发生改变[47]
+
+表4土壤颗粒组成特征  
+Tab.4Soil particle composition   
+
+<html><body><table><tr><td rowspan="2">土层深度/cm</td><td colspan="2">颗粒组成/%</td></tr><tr><td>黏粒 粉粒</td><td>砂粒</td></tr><tr><td rowspan="4">0~10</td><td>0.84 34.02</td><td>65.14</td></tr><tr><td>0.57 29.25</td><td>70.18</td></tr><tr><td>0.72 30.71</td><td>68.57</td></tr><tr><td>0.9 35.56</td><td>63.55</td></tr><tr><td rowspan="4">10~20</td><td>0.35 26.38</td><td>73.28</td></tr><tr><td>0.47 23.97</td><td>75.57</td></tr><tr><td>0.29 22.95</td><td>76.76</td></tr><tr><td>0.36 25.83</td><td>73.81</td></tr><tr><td rowspan="4">20~40</td><td>0.39 24.19</td><td>75.43</td></tr><tr><td>0.46 21.69</td><td>77.86</td></tr><tr><td>0.42 19.06</td><td>80.53</td></tr><tr><td>0.26 18.4</td><td>81.35</td></tr><tr><td rowspan="4">40~80</td><td>0.67 17.91</td><td>81.43</td></tr><tr><td>0.64 16.86</td><td>82.51</td></tr><tr><td>0.72 21.79</td><td>77.5</td></tr><tr><td>0.65 19.65</td><td>79.69</td></tr><tr><td rowspan="4">80~120</td><td>3.2 24.76</td><td>72.05</td></tr><tr><td>2.1 28.77</td><td>69.14</td></tr><tr><td>1.04 25.67</td><td>73.28</td></tr><tr><td>1.41 28.76</td><td>69.84</td></tr></table></body></html>
+
+总体而言，在未来研究中，可考虑取样点的布设数目及密集程度，进行月或周观测，以提高估测精度，分析不同时间不同尺度的土壤特性的空间变异程度。除此之外，应观测其他理化指标，精确分析土壤水分的其他影响因素。
+
+# 4结论
+
+本文以正镶白旗为例，在2018年6月下旬采集土壤样品并测定分析土壤质量含水量、容重、饱和含水率、电导率、pH和有机质含量，探讨了锡林郭勒退化草原土壤水分理化性质空间异质性，得到如下结论：
+
+（1）土壤呈弱碱性且随土层加深pH增大，土壤有机质含量随土层加深而减小，土壤pH与有机质呈相反的变化规律，电导率和容重随土层加深而增大,饱和含水率恰好相反。除容重和 $\mathrm { \ p H }$ 呈弱变异,其余土壤特性指标均呈中等变异。除 $8 0 \sim 1 2 0$ cm 土层外，其余土层土壤含水量变异系数随土壤含水量的增大而降低。
+
+（2）本研究区各土层土壤含水量、有机质、pH表现出强烈的空间相关性。随机性因素对这几个指标引起的空间变异程度贡献较小。容重由随机性因素引起的变异程度最小，饱和含水率由结构性和随机性因素共同引起空间变异，影响本研究区土壤理化性质的因素较复杂。
+
+(3）土壤饱和含水率变程较大，较长距离其空间连续性较好， $0 \sim 1 0 ~ \mathrm { c m }$ 土层 $\mathrm { \ p H }$ 变程最大，有机质变程最小，而 $8 0 \sim 1 2 0 ~ \mathrm { c m }$ 土层恰好相反。
+
+（4）对于该研究区而言， $0 \sim 1 0 \ \mathrm { c m }$ 和 $8 0 \sim 1 2 0$ cm土层土壤质量含水量均与饱和含水率呈显著正相关，当饱和含水率、容重、 $\mathrm { \ p H }$ 和有机质含量相似时， $1 0 \sim 2 0 ~ \mathrm { c m }$ 和 $8 0 \sim 1 2 0 ~ \mathrm { c m }$ 土层土壤水分相对较大，土壤持水力较强，中间土层！ $( 2 0 \sim 8 0 ~ \mathrm { c m } )$ 土壤含水量与有机质或 $\mathrm { \ p H }$ 存在显著相关关系。
+
+# 参考文献(References）：
+
+[1]徐柱.面向21世纪的中国草地资源[J].中国草地,1998（5）：1 -8.[Xu Zhu.Go forward the 21st Century's Chinese grassland resources[J].Grassland of China,1998(5）:1-8.]   
+[2]White R,Rohweder M,Murray S.Grassland Ecosystems[M].Pilot Analysis of Global Ecosystems,2000.   
+[3]沈海花,朱言坤,赵霞,等.中国草地资源的现状分析[J].科学 通报,2016,61(2）:139-154.[Shen Haihua,Zhu Yankun,Zhao Xia,et al.Analysis of the current situation of grassland resources in China[J].Science Bulletin,2016,61(2）:139-154.]   
+[4］中华人民共和国环境保护部.2012年中国环境状况公报［R]. 2013.［Ministry of Environmental Protection of the People's Republic of China.2O12 China Environmental Status Bulletin[R]. 2013.]   
+[5］国务院公报.国务院关于加强草原保护与建设的若干意见 [EB/OL].http://www.gov.cn/gongbao/content/2002/content_ 61781.htm,2002/2017-03-07.[State Council Bulletin.Several opinions of the State Council on strengthening grassland protection and construction[EB/OL].http://www.gov.cn/gongbao/content/2002/content_61781.htm,2002/2017 -03-07.]   
+[6]刘亚玲,邢旗,王瑞珍,等.锡林郭勒草原生态修复技术体系探 讨[J].草原与草业,2018,30(4）:13-19.[Liu Yaling, Xing Qi,Wang Ruizhen,et al. Discussion on Xilin Gol grassland ecological restoration technology system[J].Grassland and Prataculture, 2018,30(4) :13 -19.]   
+[7]Brocca L. Spatial-temporal variability of soil moisture and its estimation across scales[J].Water Resources Research,2010,46 (2) :W02516.   
+[8]Jeu RA MD,Wagner W,Holmes TRH,et al.Global soil moisture pattrns observed by space borne microwave radiometers and scatterometers[J].Surveys in Geophysics,2008,29（4-5） :399- 420.   
+[9]Lakhankar T,Jones A S,Combs C L,et al.Analysis of large scale spatial variability of soil moisture using a geostatistical method[J]. Sensors,2010,10(1) :913 -932.   
+[10]Abbott M B,Refsgaard JC.Distributed Hydrological Modelling [M].Distributed Hydrological Modelling,1996.   
+[11]Entin JK,Robock A,Vinnikov K Y,et al. Temporal and spatial scales of observed soil moisture variations in the extratropics[J]. Journal of Geophysical Research,2000,105（D9）:11865.
+
+[12］王丽霞，陈立新，杜珊,等.红松阔叶混交林林隙大小对土壤水分空间异质性的影响[J].应用生态学报，2013，24（1）：17-24.[Wang Lixia,Chen Lixin,Du Shan,et al.Effects of gap size onspatial heterogeneity of soil moisture in mixed Pinus koraiensis andbroad-leaved forest[J].Chinese Journal of Applied Ecology,2013,24(1):17 -24.]
+
+[13］李元寿，王根绪，丁永建，等.青藏高原高寒草甸区土壤水分的 空间异质性[J].水科学进展，2008，19（1）：61-67.［LiYuan shou,Wang Genxu,Ding Yongjian,et al.Spatial heterogeneity of soil moisture in alpine meadow area of the Qinghai-Tibet Plateau [J].Advances in Water Science,2008,19(1）:61-67.]
+
+[14］张川,陈洪松，张伟，等.喀斯特坡面表层土壤含水量、容重和 饱和导水率的空间变异特征[J].应用生态学报,2014,25（6)： 1585-1591.［Zhang Chuan,Chen Hongsong,Zhang Wei,et al. Spatial variability of surface soil water content,bulk density and saturated hydraulic conductivity on karst slope[J].Chinese Journal ofAppliedEcology,2014,25(6）:1585-1591.]
+
+[15]Schneider K,Huisman JA,Breuer L,et al.Temporal stability of soil moisture in various semi-arid steppe ecosystems and its application in remote sensing[J].Journal of Hydrology（Amsterdam）, 2008,359(1-2):16-29.
+
+[16］马梅,张圣微,魏宝成.锡林郭勒草原近30年草地退化的变化特征及其驱动因素分析[J].中国草地学报，2017，39（4)：86-93.[Ma Mei,Zhang Shengwei,Wei Baocheng.Variation character-isticsand driving factors of grassland degradation in the Xilinguolegrassland in the past 3O years[J].Chinese Journal of Grassland,2017,39(4):86-93.]
+
+[17］李政海，鲍雅静，张靖，等.内蒙古草原退化状况及驱动因素对比分析——以锡林郭勒草原与呼伦贝尔草原为研究区域[J].大连民族大学学报，2015，17（1）：1-5.［LiZhenghai，Bao Yajing,Zhang Jing,et al. Comparative analysis of the degradation sta-tusand driving factors of grasslands in Inner Mongolia:Taking Xi-linguole grassland and Hulunbeier grassland as research areas[J].Journal ofDalian NationalitiesUniversity,2015,17(1）:1-5.][18］姚月锋，何成新，曾丹娟，等.漓江流域表层土壤水分物理性质空间异质性[J].水科学进展，2016，27（5）：696-704.［YaoYuefeng,He Chengxin,Zeng Danjuan,et al.Spatial heterogeneityof surface soil water physical properties in Lijiang River Basin[J].Advances in Water Science,2016,27(5):696-704.]
+
+[19］张淑媛，秦胜金，宗国，等.辽东山区次生林土壤主要化学性质 空间异质性[J].生态学杂志,2018,37（7)：2076－2082. [Zhang Shuyuan,Qin Shengjin,Zong Guo,et al. Spatial heterogeneity of the main chemical properties of soils in secondary forests in the eastern mountainous region of Liaoning[J].Chinese Journal of Ecology,2018,37（7) :2076-2082.]
+
+[20］赵亚楠，周玉蓉，王红梅.宁夏东部荒漠草原灌丛引入下土壤水分空间异质性[J].应用生态学报，2018，29（11）：78－87.[Zhao Yanan,Zhou Yurong,Wang Hongmei. Spatial heterogeneityof soil moisture under the introduction of desert grassland shrubs ineastern Ningxia[J].Chinese Journal of Applied Ecology,2018,29
+
+(11):78-87.]
+
+[21］裴艳武，黄来明，贾小旭，等.黄土高原2种典型灌木地土壤水 分有效性及其影响因素［J].土壤学报，2019，56（3）：627- 637.[Pei Yanwu,Huang Laiming,Jia Xiaoxu,et al.Soil moisture availability and influencing factors of two typical shrublands on the LoessPlateau[J].Acta Pedologica Sinica,2019,56（3）:627- 637.]
+
+[22］刘效东,乔玉娜，周国逸.土壤有机质对土壤水分保持及其有效性的控制作用[J].植物生态学报，2011，35（12）：1209-1218.［Liu Xiaodong,Qiao Yuna,Zhou Guoyi. Controlling action ofsoil organic matter on soil moisture retention and its availability[J].Chinese Journal of Plant Ecology,2011,35（12）:1209-1218.]
+
+[23］吴军虎，张铁钢，赵伟，等.容重对不同有机质含量土壤水分入渗特性的影响[J].水土保持学报，2013，27（3）：63-67.［WuJunhu,Zhang Tiegang,Zhao Wei,etal.Effect ofbulk density onsoil moisture infiltration characteristics of different organic mattercontents[J].Journal of Soil andWater Conservation,2O13,27(3):63 -67.]
+
+[24］苏伟，聂宜民，胡晓洁，等.利用Kriging插值方法研究山东龙口 北马镇农田土壤养分的空间变异［J].安徽农业大学学报, 2004(1）:76-81.[Su Wei,Nie Yimin Hu Xiaojie,et al.Using kriging interpolation to study spatial variability of farmland soil nutrientsin Beima Town,Longkou,ShandongJ」.Journal of Anhui Agricultural University,2004（1）:76-81.]
+
+[25］王云强，邵明安，刘志鹏.黄土高原区域尺度土壤水分空间变异性［J].水科学进展,2012,23（3）：310-316.［WangYun-qiang,Shao Mingan,Liu Zhipeng.Spatial variability of soil mois-ture on a regional scale in the Loess Plateau[J].Advances in Wa-ter Science,2012,23（3）:310-316.]
+
+[26]马凌云，徐孝诚，诚意，等.正镶白旗荒漠化防治措施及其效应 分析[J].内蒙古农业科技,2007(7）:85-88.［MaLingyun,Xu Xiaocheng,Cheng Yi,et al.Desertification control measures and theireffects in Zhengzhanbai Banner[J].Inner Mongolia Agricultural Science and Technology,2007（7）:85-88.]
+
+[27]Owe M,Jones E B,Schmugge TJ.Soil moisture variation patterns observed in hand county,South Dakota[J].Journal of the American Water Resources Association,1982,18(6):949-954.
+
+[28］刘志军，梁金全，王宝华，等.内蒙古正镶白旗地下水的赋存条 件与分布规律［J].西部资源,2012（4）：118-119.［Liu Zhijun,Liang Jinquan,Wang Baohua,et al.Conditions and distribu tion of groundwater in Zhengzhanbaiqi,Inner Mongolia[J].Re sources in the West,2012(4):118-119.]
+
+[29］吴谋松，黄介生，谭霄，等.不同地下水补给条件下非饱和砂壤土冻结试验及模拟[J].水科学进展，2014，25（1）：60－68.[WuMousong,Huang Jiesheng,Tan Xiao,et al.Freezing test andsimulation of unsaturated sandy loam under different groundwaterrecharge conditions[J].Advances in Water Science,2014,25（1）：60-68.]
+
+[30」柴华，何念鹏.中国土壤容重特征及其对区域碳贮量估算的意 义［J].生态学报,2016,36（13）:3903-3910.［ChaiHua，He Nianpeng.Characteristics of soil bulk density in China and its significance for regional carbon storage estimation[J].Acta Ecologica Sinica,2016,36(13) :3903-3910.]
+
+[31］万丹，梁博,聂晓刚,等.西藏色季拉山土壤物理性质垂直地带 性[J].生态学报,2018,38（3）:1065-1074.[Wan Dan,Liang Bo,Nie Xiaogang,et al. Soil physical properties of Sejila Mountain in Tibet,vertical zonality[J].Acta Ecologica Sinica,2018,38（3）: 1065 -1074.]
+
+[32］郭旭东,傅伯杰,马克明,等.基于GIS 和地统计学的土壤养分 空间变异特征研究——以河北省遵化市为例[J].应用生态学 报,2000,1(4）:557-563.[Guo Xudong,Fu Bojie,Ma Keming, et al. Study on the spatial variability of soil nutrients based on GIS and geostatistics:Taking Zunhua City,Hebei Province as an example[J].Chinese Journal of Applied Ecology,2000,1（4）:557 - 563.]   
+[33］张义凡,陈林,刘学东,等.荒漠草原2种群落灌丛堆土壤水分 的空间特征［J].西南农业学报,2017,30（4）:836－841. [Zhang Yifan,Chen Lin,Liu Xuedong,et al. Spatial characteristics of soil moisture of two communities of shrubbery in desert grassland [J].Journal of Southwest Agriculture,2017,30(4）:836 -841.]   
+[34］李猛,刘洋,段文标.红松阔叶混交林林隙浅层土壤温度的异 质性[J].生态学杂志,2013,32（2）:319-324.[LiMeng,Liu Yang,Duan Wenbiao.Heterogeneity of shallow soil temperature in gaps of Pinus koraiensis broad-leaved mixed forest[J].Chinese Journal of Ecology,2013,32(2）:319 -324.]   
+[35]Scharenbroch B C,Bockheim JG.Impacts of forest gaps on soil properties and processes in old growth northern hardwood-hemlock forests[J].Plant and Soil,2007,294(1-2）:219 -233.   
+[36］刘少冲,段文标.红松阔叶混交林林隙土壤养分的空间异质性 [J].水土保持学报,2011,25（3）:142-146.[Liu Shaochong, Duan Wenbiao.Spatial heterogeneity of soil nutrients in the gap of Pinus koraiensis and broad-leaved mixed forest[J]. Journal of Soil and Water Conservation,2011,25(3）:142-146.]   
+[37］陈三雄,沈义.黄浦江源头区主要植被类型土壤入渗特征及模 拟分析[J].水土保持研究,2016,23（6）:59-63.[Chen Sanxiong,Shen Yi. Soil infiltration characteristics and simulation analysis of main vegetation types in the source area of the Huangpu River[J].Research of Soil and Water Conservation,2016,23(6）:59 -63.]   
+[38]Yang Y,Dou Y,Liu D,et al. Spatial pattern and heterogeneity of soil moisture along a transect in a small catchment on the Loess Plateau[J]. Jourmal of Hydrology,2017,550;466 -477.
+
+[39］高鑫宇，曾献奎，吴吉春，等.兰州窦家山典型坡面土壤水分、
+
+有机质含量及抗蚀性相关关系研究［J].南京大学学报（自然 科学版）,2018（1）:185-195.［Gao Xinyu,Zeng Xiankui,Wu Jichun,et al. Correlation between soil moisture,organic matter content and erosion resistance of typical slopes in Doujia Mountain, Lanzhou[J]. Journal of Nanjing University(Natural Science Edition）,2018（1):185 -195.] [40］戴万宏,黄耀,武丽,等.中国地带性土壤有机质含量与酸碱度 的关系[J].土壤学报,2009,46(5）:851-860.[Dai Wanhong, Huang Yao,Wu Li,et al.Relationship between zonal soil organic matter content and pH in China[J].Acta Pedologica Sinica,2009,   
+46(5):851 -860.] [41］高海峰,白军红,王庆改,等.霍林河下游典型洪泛区湿地土壤 pH值和土壤含水量分布特征［J].水土保持研究,2011,18 (1）:268-271.[Gao Haifeng,Bai Junhong,Wang Qinggai,et al. Distribution characteristics of soil pH and soil water content of wetlands in typical floodplains in the lower Huolin River[J].Research of Soil and Water Conservation,2011,18(1):268 -271.] [42］薛淑琴,郎亚斌,孟淑玉.正镶白旗地区2009 年冬季异常气候 特征分析[J].现代农业科技,2011（17）：15－16.[Xue Shuqin,Lang Yabin,Meng Shuyu.Anomalous climatic characteristics in the winter of 20o9 in Zhengzhanbaiqi area[J].Modern Agricultural Science and Technology,2011（17）:15-16.] [43]Li J,Zhao C Y,ZhuH,etal. Multi-scale heterogeneity of soil moisture following snow thawing in Haloxylon ammodendron shrubland [J].Science in China Series D:Earth Sciences,2007,50(Suppl.   
+1) :49 -55. [44］李从娟,雷加强,徐新文,等.古尔班通古特沙漠土壤水分与化 学性质的空间分布[J].生态学报,2014,34（15）：4380-4389. [LiCongjuan,LeiJiaqiang,Xu Xinwen,etal.Spatial distribution of soil moisture and chemical properties in the Gurbantunggut Desert[J].Acta Ecologica Sinica,2014,34(15） :4380-4389.] [45]李向富,刘目兴,易军,等.三峡山地不同垂直带土壤层的水文 功能及其影响因子[J].长江流域资源与环境,2018,27（8）：   
+158-167.[Li Xiangfu,Liu Muxing,Yi Jun,et al.Hydrological function and its influencing factors of soil layers in different vertical belts of the Three Gorges mountainous region[J].Resources and Environment in the Yangtze River Basin,2018,27（8）:158-   
+167.] [46］杨思维,张德罡,牛钰杰,等.短期放牧对高寒草甸表层土壤入 渗和水分保持能力的影响[J].水土保持学报,2016,30（4）：96 -101.[Yang Siwei,Zhang Degang,Niu Yujie,et al.Effects of short-termgrazingonsurfacesoilinfltrationand waterretention capacity of alpine meadows[J]. Journal of Soil and Water Conservation,2016,30(4):96 -101.]
+
+# Spatial heterogeneity of soil physical and chemical properties in degraded grassland and their effect on soil moisture
+
+GAO Lu’， ZHANG Sheng-wei1²，ZHAO Hong-bin³，GAO Wen-long1，DU Yin-long¹，LIN Xi' (1. College of Water Conservancyand Civil Enginering,Inner Mongolia Agricultural University,Hohhot O10018, Inner Mongolia,China; 2.Inner Mongolia Autonomous Region Key Laboratory of Big Data Research and Apication of Agriculture and Animal Husbandry,Hohhot O1o018,Inner Mongolia,China; 3.College of Life Sciences,Inner Mongolia Agricultural University,Hohhot O1oo18,Inner Mongolia,China)
+
+Abstract：The effects of spatial heterogeneityand physical and chemical properties onsoil moisture were examined by measuring and analyzing physical and chemical properties,including mass water content,bulk density,saturated water content,electricalconductivity,pH,and organic matter content,ofaO-12Ocmsoil layerof thedegraded grassland ecosystem in Zhenglingbai Banner,Xilin GolLeague,using clasical statisticsand Statistical methods. Theresults showed that the soil inthe degraded grasslandof Zhengzhanbai Banner is weakly alkaline.The electrical conductivity,bulk density,and pH values increased with thedeepening ofthesoil layer,while thesaturated water content and organic matter content decreased with the deepening of the soil layer.The content of organic matter was inversely regular with the deepening of the soil layer.Except for the bulk density and $\mathrm { \ p H }$ value,the other soil characteristics were moderately variable.Exceptforthe8O-12Ocmsoillayer,thecoeffcientofvariationofthe soil watercontent of theother soil layers increased with the soil water content.The soil water content,organic matter,and pHof each soil layer in this study area showed a strong spatial corelation,the bulk density caused the least degree of variationcaused by random factors,and the saturated moisture content was caused by both structural and random factors.The factors affcting the physical and chemical properties of the soil in this studyarea were more complex: the soil moisture content of each soil layer was generally larger,ranging from $1 3 . 9 4 - 5 2 . 7 7 \ \mathrm { k m }$ ,the spatial continuity was better at longer distances,and the $\mathrm { \ p H }$ range of the $0 - 1 0 ~ \mathrm { c m }$ soil layer was the largest,with the smallest organic matter range,and the opposite of the $8 0 - 1 2 0 ~ \mathrm { c m }$ soil layer. The soil mass water content of the O -1O cm and 80 -120O cm soil layers was positively correlated with the saturated moisture content of the $1 0 - 2 0 ~ \mathrm { c m }$ and 80 -120 cm soil layers.Soil moisture was relativelylarge,with strong water retention inthesoil,atthe intermediate soil layer of $2 0 - 8 0 ~ \mathrm { c m }$ ,the soil water content and organic matter and $\mathrm { \ p H }$ were significantly correlated.
+
+Key words:degraded grassland;soil physical and chemical properties；geostatistics；spatial heterogeneity；soil moisture ； Inner Mongolia

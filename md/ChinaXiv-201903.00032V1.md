@@ -1,0 +1,212 @@
+# 两电平电压型逆变器共模电压抑制策略
+
+杨　浩　吕雪峰　潘浩明（国网安徽省电力有限公司检修分公司合肥230061)
+
+![](images/c36a692c630d64c4ed18fb6a5a16bdb6c73d75bc3888c32e353b1878896bea3e.jpg)
+
+杨浩男1992年生，助理工程师，主要从事变电站运行维护方面的工作。
+
+摘要：主要介绍了几种抑制逆变器共模电压（CMV）的方法，其中一类是基于空间矢量调制策略优化的方案，主要包括零矢量替代（AZSPWM)、最近非零矢量合成(NSPWM)、虚拟空间矢量调制（VSVM）等策略；另一类是改变硬件电路的拓扑结构抑制共模电压，主要是通过利用三相四桥臂拓扑结构完成对共模电压的抑制。对上述两类方法进行相关的仿真与分析，为共模电压抑制方案的研究提供参考。
+
+关键词：逆变器空间矢量调制共模电压中图分类号：TM464
+
+# Research on Common Mode Voltage Suppression Strategy for Two-Level Voltage Inverter
+
+Yang Hao Lv Xuefeng Pan Haoming (State Grid Anhui Electric Power Co.,Ltd.Maintenance BranchHefei 230061 China ）
+
+![](images/aa6b9dc415d22080fc064e8f637d1b9ba93fce8df6f670fa32bcdb191ff063b8.jpg)
+
+吕雪峰男 1989年生，工程师，主要从事变电站运行维护方面的工作。
+
+Abstract: In this paper, several methods are introduced, which are mainly divided into two categories of programs,to suppress the common mode voltage (CMV) of inverter. One kind is based on space vector modulation strategy optimization, mainly including the active zero state PWM (AZSPWM), near state PWM (NSPWM), virtual space vector modulation (VSVM) and so on.The other is to change the topology of the hardware circuit to suppress the common mode voltage,which mainly used the three-phase four-leg topology to complete the common mode voltage suppression. In this paper, the simulation and analysis of the above schemes are carried out.
+
+Keywords: Inverter, space vector modulation, common mode voltage
+
+# 1 引言
+
+随着变频器的广泛应用，一些负面效应也随之凸显出来，尤其是变频器产生的高频共模电压，会在电动机转轴上感应出高幅值轴电压，并形成轴承电流，加速电动机轴承老化，使电动机轴承在短期内损坏，降低了电动机的使用寿命[1]。共模电压还会在激励系统中的杂散电容和寄生耦合电容中产生较大的共模漏电流。该漏电流通过定子绕组和机壳间的静电耦合流入大地，并经接地导体返回电网。这不仅会引起保护装置误动作，还会产生较大共模电磁干扰，严重影响其他控制系统或者电子设备的正常运行[2]。
+
+近年来，国内外诸多学者在共模电压抑制方面开展了大量的研究，这些研究主要分为两个方面：一是通过优化调制策略，在软件算法层面完成共模电压的抑制。随着数字处理器性能的飞速提升，逆变器调制策略优化主要是基于空间矢量调制（SpaceVectorModulation，SVM）方案，由此衍生出以下几种主要调制策略：零矢量替代（ActiveZero StatePWM，AZSPWM)、最近非零矢量合成（NearStatePWM，NSPWM)、虚拟空间矢量调制（VirtualSpaceVectorModulation，VSVM）等；另一方面是通过改变逆变器的硬件电路结构或外围完成对共模电压的抑制。该方案主要是通过增加一个滤波器对产生的共模电压进行滤除[3]，后续有相关研究对此进行了升级，通过增加第四个桥臂构造三相四桥臂拓扑结构对共模电压进行抑制。本文对各方案的基本原理进行了简单分析，并在此基础上进行了一些仿真验证。
+
+# 2传统两电平逆变器共模电压
+
+传统两电平逆变器电路拓扑结构如图1所示。
+
+![](images/4ad8e4d7ba06203c194fe36cf86e59253438e1fcbe823a8898f631065ef8ff2a.jpg)  
+图1传统两电平逆变器拓扑结构  
+Fig.1Topology of conventional two-level voltage source inverter
+
+共模电压定义为逆变器输出中性点对地的参考
+
+电压，即 $U _ { \mathrm { n o } } ^ { [ 4 ] }$ ，根据逆变器拓扑结构可得
+
+$$
+\begin{array} { r } { \left\{ \begin{array} { c } { U _ { \mathrm { n o } } = U _ { \mathrm { n l } } + U _ { \mathrm { 1 o } } } \\ { U _ { \mathrm { n o } } = U _ { \mathrm { n 2 } } + U _ { \mathrm { 2 o } } } \\ { U _ { \mathrm { n o } } = U _ { \mathrm { n 3 } } + U _ { \mathrm { 3 o } } } \end{array} \right. } \end{array}
+$$
+
+又因为 $U _ { \mathrm { n 1 } } + U _ { \mathrm { n 2 } } + U _ { \mathrm { n 3 } } = 0$ ，结合式（1）可得
+
+$$
+U _ { \mathrm { n o } } = \frac { U _ { \mathrm { l o } } + U _ { \mathrm { 2 o } } + U _ { \mathrm { 3 o } } } { 3 }
+$$
+
+假设逆变器直流侧母线电压为 $U _ { \mathrm { d c } }$ ，当使用传统SVPWM矢量调制方案进行控制时，电压空间矢量分布如图2所示。
+
+![](images/ae668c9ec278028ff3f043873bf57fb28f19d72e8f1f5351d99729395e627c7f.jpg)  
+图2SVPWM空间矢量图Fig.2Space vectors of SVPWM
+
+不同电压空间矢量作用时的共模电压分布见下表。
+
+# 表不同开关状态共模电压比较
+
+Tab.CMV of different switching states   
+
+<html><body><table><tr><td>矢量</td><td>S、S、S状态</td><td>共模电压Uno</td></tr><tr><td>Uo</td><td>000</td><td>-Udc/2</td></tr><tr><td>U</td><td>100</td><td>-Udc/6</td></tr><tr><td>U2</td><td>110</td><td>Ud/6</td></tr><tr><td>U3</td><td>010</td><td>-Udc/6</td></tr><tr><td>U4</td><td>011</td><td>Ud/6</td></tr><tr><td>U5</td><td>001</td><td>-Udc/6</td></tr><tr><td>U6</td><td>101</td><td>Ud/6</td></tr><tr><td>U7</td><td>111</td><td>Ud/2</td></tr></table></body></html>
+
+当参考电压矢量 $U _ { \mathrm { r e f } }$ 在第一扇区时，基于传统SVPWM矢量合成方案，参与合成的矢量为$U _ { 0 } ( 0 0 0 )$ 、 $U _ { 1 } ( 1 0 0 )$ ， $U _ { 2 } ( 1 1 0 )$ 和 ${ \pmb U } _ { 7 } ( 1 1 1 )$ ，开关时序以及共模电压分布如图3所示。
+
+从图3可以看出，采用传统SVPWM调制策略控制逆变器时产生的共模电压峰值为 $U _ { \mathrm { d c } } / 2$ ，但是在电压矢量选择时可以避开零矢量，控制共模电压峰值减小到 $U _ { \mathrm { d c } } / 6$ ，由此衍生出不同的基于SVM的优化调制策略。
+
+![](images/3f61585694d9723e5da4bec7df940639e9f2e5ba5b76cda7b9e2b79f6fd048ce.jpg)  
+图3SVPWM第一扇区矢量作用时序图Fig.3Switching pattern of SVPWM in sector I
+
+# 3基于SVM调制策略的优化
+
+# 3.1零矢量替代调制策略 (AZSPWM)
+
+AZSPWM的基本原理是采用两个相反的非零电压矢量来代替零电压矢量，空间矢量分布图4所示。
+
+![](images/5af2b9ae738db03d4f213fb64d8892733f642cc364be118d227463d4362ac1b3.jpg)  
+图4AZSPWM空间矢量图Fig.4Space vectors of AZSPWM
+
+当参考电压矢量 $U _ { \mathrm { r e f } }$ 在第一扇区时，基于AZSPWM矢量合成方案，参与合成的矢量为 $U _ { 6 } ( 1 0 1 )$ 、 $U _ { 1 } ( 1 0 0 )$ ，$U _ { 6 } ( 1 1 0 )$ 和 $U _ { 3 } ( 0 1 0 )$ ，开关时序以及共模电压分布如图5所示。
+
+![](images/030184324c96bda8bcfcf5a0408716b2d3cc7cce468dad424122dbedd58a23d2.jpg)  
+图5AZSPWM第一扇区矢量作用时序图Fig.5Switching pattern of AZSPWM in sector I
+
+从图5可以看出，当采用AZSPWM调制策略控制逆变器时，共模电压峰值很好地被控制在了
+
+$U _ { \mathrm { d c } } / 6$ ，仅为传统SVPWM控制策略的1/3。
+
+# 3.2附近非零矢量合成调制策略（NSPWM）[5
+
+NSPWM的基本原理是使用与参考矢量距离最近的3个非零矢量对其进行合成，空间矢量分布图如图6所示。
+
+![](images/466e846bbfd2bad46dc2221de6247b1e7cab64215b6a3185fcceb2e9ecf70de8.jpg)  
+图6NSPWM空间矢量图Fig.6Space vectors of NSPWM
+
+当参考电压矢量 $U _ { \mathrm { r e f } }$ 在第一扇区时，基于NSPWM矢量合成方案，参与合成的矢量为 $U _ { 6 } ( 1 0 1 )$ ，$U _ { 1 } ( 1 0 0 )$ 、 $U _ { 2 } ( 1 1 0 )$ ，开关时序以及共模电压分布如图7所示。
+
+![](images/27d3c921d52e6e2dbda2dfb9c9018712beea649977ae37316bbbd7fc62e257ba.jpg)  
+图7NSPWM第一扇区矢量作用时序图  
+Fi.7 Switching pattern of NSPWM in sectorI
+
+该方案和AZSPWM一样，可以将共模电压的峰值减小到 $U _ { \mathrm { d c } } / 6$ ，并且在一个 $T _ { \mathrm { s } }$ 周期内，共模电压极性只翻转了4次，少于AZSPWM的6次，谐波分量自然较少[6]
+
+# 3.3虚拟空间矢量调制策略(VSVM) [7]
+
+VSVM的基本原理是利用合成的虚拟空间矢量来合成参考电压矢量，合成的虚拟空间矢量的共模电压为零，空间矢量分布如图8所示。其中，参考矢量 $U _ { \mathrm { r e f } }$ 通过虚拟空间矢量 $U _ { 6 1 }$ 和 $U _ { 1 2 }$ 以及两个真实矢量 $\pmb { U } _ { 6 }$ 和 $U _ { 3 }$ 作用合成，虚拟空间矢量 $\pmb { U } _ { 6 1 }$ 和 $U _ { 1 2 }$ 对应的共模电压为零，但这个零值是平均值。开关时序以及共模电压分布如图9所示。
+
+从图9可以看出，VSVM方案同样可以将共模电压的峰值抑制为 $U _ { \mathrm { d c } } / 6$ ，且使得一个 $T _ { \mathrm { s } }$ 周期内的共模电压的平均值为零、一个周期内共模电压均值为零，较好地抑制了共模电压中3次以及3的整数倍次谐波分量。
+
+![](images/f3e01fd2401918f7e99d1fbc16ed2f5276119adb22199256624aafa0c35f4ec0.jpg)  
+图8VSVM空间矢量图
+
+![](images/19f6e858ce7d89797eeccbfa903397d00b1647a820236207246ec12f57cafd5d.jpg)  
+Fig.8Space vectors of VSVM
+
+# 3.4基于三相四桥臂的共模电压抑制
+
+三相四桥臂逆变器拓扑电路如图10所示。
+
+![](images/f2bdc63877c8a937f524f3e1112f931bb4b2ccd025452c1e60d419684b78cf97.jpg)  
+图9VSVM第一扇区矢量作用时序图  
+图10三相四桥臂逆变器拓扑结构  
+Fig.10Topology of three-phase four-leg inverter
+
+分析原理与传统三桥臂拓扑类似，由此可得三相四桥臂逆变器共模电压表达式为
+
+$$
+U _ { \mathrm { n o } } = ( U _ { \mathrm { 1 o } } + U _ { \mathrm { 2 o } } + U _ { \mathrm { . 3 o } } + U _ { \mathrm { 4 o } } ) / 4
+$$
+
+式（3）中分子上的变量为偶数个，由此可以通过调节不同的导通状态使共模电压值抑制为零，如当前3个桥臂状态为（100）时，共模电压为 $- U _ { \mathrm { d c } } / 6$ ，此时可以通过控制第四个桥臂的导通状态对此共模电压进行补偿，使 $U _ { \mathrm { n o } }$ 的值为零，通过对4个桥臂的逻辑状态列举，可以得到第4个桥臂的控制信号为 $S _ { \mathrm { D } } = S _ { \mathrm { A } } \oplus S _ { \mathrm { B } } \oplus S _ { \mathrm { C } }$ （前3个桥臂的控制也是基于非零矢量的调制)，从而通过添加第4个桥臂可以将共模电压瞬时值理论上抑制为零。
+
+# 4 Simulink仿真验证
+
+仿真中开关频率为 $1 \mathrm { k H z }$ ，调制度为0.8。
+
+# 4.1SVPWM调制策略
+
+仿真结果如图11、图12所示。
+
+![](images/6a00eb2b6dfc2f7c4cf46c7d86c92f516c41c65c0c0763e1eafd3b1fc079622a.jpg)  
+Fig.11Simulation results of SVPWM common mode voltage
+
+![](images/dbb90303c054c0c0cf6cac6c3a5544164b5b67d3400f650817fbdda22d3032d4.jpg)  
+Fig.9Switching pattern ofVSVM in sector I   
+图12SVPWM共模电压谐波分析  
+Fig.12FFT for SVPWM common mode voltage
+
+# 4.2AZSPWM调制策略
+
+仿真结果如图13、图14所示。
+
+![](images/fd7f848d4e8bfb844e48670210096831eea1cee92ef532ea52ef9a26eff36a0e.jpg)  
+图11SVPWM共模电压仿真   
+图13AZSPWM共模电压仿真   
+Fig.13Simulation results of AZSPWM common mode voltage
+
+# 4.3NSPWM调制策略
+
+仿真结果如图15、图16所示。
+
+# 4.4VSVM调制策略
+
+仿真结果如图17、图18所示。
+
+![](images/a88d34f398da3f7fa954ffe0a8ee477317a18a13bf84d7d6d983e22bc983c964.jpg)  
+图14AZSPWM共模电压谐波分析
+
+![](images/29eb2184d98ea1c41ae1b7ecbecec36b59ca24e2f376177b18a46d1e23a4a68f.jpg)  
+Fig.14FFT for AZSPWM common mode voltage
+
+![](images/22c120b017486802ad572739abba0b1a07ac2491a92f9aeb0eb614346938727b.jpg)  
+图15NSPWM共模电压仿真   
+图16NSPWM共模电压谐波分析
+
+![](images/b0db09e32d192c9970e0858b0c246be320925e3b3cc8da7f6ee28d6c4e97a8bf.jpg)  
+Fig.15Simulation results of NSPWM commonvmode   
+Fig.16FFT for NSPWM common mode voltage   
+图17VSVM共模电压仿真
+
+![](images/b81300663117a974edcf5e060580835180b9a2c2f81eb0c238149f238e7ef355.jpg)  
+Fig.17Simulation results of VSVM common mode voltage   
+图18VSVM共模电压谐波分析 Fig.18FFT for VSVM common mode voltage   
+Fig.19Simulation results of common mode voltage for three-phase four-leg inverter
+
+# 4.5 三相四桥臂控制策略
+
+仿真结果如图19所示。
+
+![](images/a2e830297128a38d3d26a4d106c3fd39f8e099e9fb5bef14168d53063ab03444.jpg)  
+图19 三相四桥臂共模电压仿真
+
+# 5 结论
+
+由上述仿真结果可以发现，AZSPWM、NSPWM这两种方案可以很好地将共模电压的峰值抑制到直流侧电压的1/6，但是共模电压中的3次谐波成分依然存在；由VSVM的仿真波形可以发现，共模电压中的3次及3的整数倍次谐波成分得到了很好的抑制，但是共模电压峰值依然为直流侧电压值的1/6；最后，将选择非零矢量调制方案与三相四桥臂逆变器拓扑结构相结合，由波形可以看出，共模电压被抑制得几乎为零，因此这种方案的共模抑制效果最好。
+
+相较AZSPWM、NSPWM、VSVM三个方案,采用三相四桥臂拓扑结构会增加硬件的成本，并且三相四桥臂结构提出的初衷是针对负载端带三相不对称负载[8]，本文中的三相四桥臂控制方案对于16个空间电压矢量仅使用了其中的6个，且不能带三相不对称负载，这也使得该拓扑的潜力并未完全发挥。
+
+本文通过理论分析与仿真验证对几种常见的共模抑制方案进行了简单介绍与讨论，为共模抑制方面的研究工作提供参考。
+
+# 参考文献
+
+[1] 黄劲，熊蕊，王志，等．采用三相四桥臂抑制逆 变器共模干扰的SPWM控制策略[J]．电工技术学 报，2009，24(3)：110-115. Huang Jin,Xiong Rui,Wang Zhi,et al.SPWM control strategy to reduce inverter commonmode interferences based on three-phase four-leg structure[J].Transactions of China Electrotechnical Society,2009,24(3): 110-115.   
+[2] 姜艳姝，徐殿国，刘宇，等．PWM驱动系统中感 应电动机共模模型的研究[J]．中国电机工程学报， 2004，24(12):149-155. Jiang Yanshu,Xu Dianguo,Liu Yu,et al.Research on induction motor common-mode model in a PWM drive system[J].Proceedings of the CSEE,2004, 24(12): 149-155.   
+[3] 姜艳姝．PWM变频器输出共模电压抑制技术的研 究[D]．哈尔滨：哈尔滨工业大学，2003.   
+[4] 章勇高，邝光健，龙立中．三相逆变器的无零矢 量共模电压抑制技术研究[J]．电力系统保护与控 制，2013，41(2)：138-143. Zhang Yonggao, Kuang Guangjian, Long Lizhong. Research of reduced common-mode voltage technique with nonzero vector pulse width modulation for threephase inverters[J].Power System Protection and Control,2013,41(2): 138-143.   
+[5] Giovanna Briti,Alexander E Julian,Thomas A lipo. A new space vector modulation strategy for cammon mode voltage reduction[C].28th Annual IEEE Power Electronics Specialists Conference,1997:1541- 1546.   
+[6] Emre Un,Ahmet M Hava.A near-state PWM method with reduced switching losses and reduced common-mode voltage for three-phase voltage source inverters[J]. IEEE Transactions on Industry Applications,2009,45(2):782-793.   
+[7] Tian Kai,Wang Jiacheng,Wu Bin,et al.A virtual space vector modulation technique for the reduction of common-mode voltages in both magnitude and third-order component[J].IEEE Transactions on Power Electronics,2016,36(1): 839-848.   
+[8] Min Zhang,David JAtkinson,Bing Ji,etal.A nearstate three-dimensional space vector modulation for a three-phase four-leg voltage source inverter[J].IEEE Transactions on Power Electronics,2014,29(11): 5715-5726.

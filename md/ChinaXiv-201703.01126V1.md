@@ -1,0 +1,143 @@
+# pH值对马氏体沉淀硬化不锈钢PH13-8Mo腐蚀电化学行为的影响
+
+李雪莹，范春华，吴钱林，钟宁，董丽华，尹衍升\*上海海事大学海洋科学与工程学院，上海201306
+
+摘要：通过静态浸泡腐蚀实验以及极化曲线测试、电化学阻抗谱测试、Mott-Schottky曲线等电化学测试技术，结合扫描电子显微镜技术研究了马氏体沉淀硬化不锈钢PH13-8Mo在不同 $\mathfrak { p H }$ 值的 $0 . 5 \mathrm { m o l / L }$ 的 $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ 溶液中的腐蚀行为。结果表明：PH13-8Mo 的耐蚀性随着溶液 $\mathsf { p H }$ 值的升高而增强，不同的 $\mathfrak { p H }$ 值能改变腐蚀的速率及腐蚀产物的形貌。随着溶液 pH值的升高，腐蚀电流密度 $\mathrm { I } _ { \mathrm { c o r r } }$ 减小，极化电阻 $\rho _ { \mathrm { p } }$ 增大，容抗弧的幅值增大，钝化膜中缺陷密度降低，钝化膜的致密性增强，耐腐蚀性能提高。
+
+关键词：极化曲线；电化学阻抗谱；Mott-Schottky 曲线；钝化膜；pH值
+
+# Effect of pH Value on Corrosion Electrochemical Behavior of PH13-8Mo Precipitation Hardening Stainless Steel
+
+Li Xueying, Fan Chunhua, Wu Qianlin, Zhong Ning, Dong Lihua, Yin Yansheng
+
+College of Marine Science and Engineering， Shanghai Maritime University， Shanghai 201306，China Abstract: The corrosion electrochemical behaviors of martensite precipitation hardening stainless steel PH13-8Mo in different $\mathfrak { p H }$ values of $0 . 5 \mathrm { m o l / L } \mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ solution were investigated by a static immersion corrosion tests， polarization curves，electrochemical impedance spectroscopy and Mott-Schottky curve electrochemical measurement techniques,combined with scanning electron microscope technology. The results show that, the corrosion resistance of the PHl3-8Mo are enhance with the increased of the $\mathfrak { p H }$ values, the different $\mathfrak { p H }$ value could change the corrosion rate and the morphology of the corrosion products. The corrosion current density $\mathrm { j } _ { \mathrm { c o r r } }$ decrease, the polarization resistance $\mathrm { R _ { P } }$ and capacitive arc amplitude increases as the $\mathfrak { p H }$ value of the solution increase,and the low density of defects in the passive film with resistant corrosion performance improve.
+
+Key words: polarization curve； electrochemical impedance spectroscopy (EIS)； Mott-Schottkycurve；passive film； pH value
+
+# 1前言
+
+不锈钢的优异耐腐蚀性能主要归因于 $\mathrm { C r }$ 的钝化作用。当Cr含量超过 $1 1 \%$ 时，金属表面能够自发生成连续致密的铬氧化物薄膜（ $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ )，使基体金属与腐蚀介质隔离，阻止了金属与腐蚀性离子的接触，使金属的耐腐蚀性能得到显著提升[1-4]。钝化膜的性能、组成、结构与各类局部腐蚀的萌生有关，钝化膜结构的完整性、致密性与均一性是不锈钢耐腐蚀的重要原因之一。由于介质中的CI、 ${ \mathrm { S O } _ { 4 } } ^ { 2 \cdot }$ 、 $\mathrm { \Delta O H ^ { - } }$ 、 $\mathrm { O } _ { 2 }$ 、 $\boldsymbol { \mathrm { H } } ^ { + }$ 等，在金属材料表面会出现竞争吸附现象，对腐蚀的影响表现出协同效应[5-10]。而目前的研究多集中在酸性溶液中CI、 $\mathrm { H } _ { 2 } \mathrm { S }$ 或 ${ \mathrm { S } } _ { 2 } { { \mathrm { O } } _ { 3 } } ^ { 2 - }$ （20对不锈钢钝化膜的破坏作用方面[11-14]，并认为CI的存在会对金属的钝化膜起到直接的破坏作用， ${ \mathrm { S } } _ { 2 } { { \mathrm { O } } _ { 3 } } ^ { 2 - }$ 是导致钝化膜退化最有害的离子之一，钝化膜的稳定性随溶液 pH 值的升高而增强。关于溶液的 $\mathfrak { p H }$ 值单一因素对不锈钢的耐腐蚀性能影响的深入研究还比较少，本文以不同 $\mathfrak { p H }$ 值的 $0 . 5 \mathrm { m o l / L }$ 的 $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ 溶液作为电解液，应用静态浸泡方法和极化曲线测试、电化学阻抗谱技术以及 Mot-Schottky 曲线，结合扫描电子显微（SEM）技术，研究了pH 值的变化对马氏体沉淀硬化不锈钢PH13-8Mo腐蚀行为的影响，探讨了该不锈钢表面去钝化腐蚀与 $\mathfrak { p H }$ 值之间的关系，对于选择该材料的应用环境有重要的参考价值。
+
+# 2 实验方法
+
+实验用材料为马氏体沉淀硬化不锈钢PH13-8Mo，其化学成分为（质量分数 $\%$ ）： $\mathrm { C } { \leq } 0 . 0 5$ $\mathrm { M n } { \le } 0 . 1 0$ ， $\mathrm { S i } { \le } 0 . 1 0$ ， $\mathtt { P \le 0 . 1 0 }$ ， $\mathrm { S } { \le } 0 . 0 0 2$ ，Cr: $1 2 . 2 5 { \sim } 1 3 . 2 5$ ，Ni： $7 . 5 0 { \sim } 8 . 5 0$ ，Mo: $2 . 0 0 { \sim } 2 . 5 0 \$ 。热处理制度为 $9 5 0 ^ { \circ } \mathrm { C }$ 保温1h后油淬，然后 $0 ^ { \circ } \mathrm { C }$ 深冷1h，空冷后 $5 1 0 ^ { \circ } \mathrm { C }$ 保温4h。
+
+热处理后的样品线切割为 $1 0 \mathrm { m m } { \times } 1 0 \mathrm { m m } { \times } 5 \mathrm { m m }$ 的试样；经耐水砂纸逐级打磨至400 号，选择其中一个面为工作面，背面与铜导线焊接，除工作面外其余表面用环氧树脂封装干燥后，进一步打磨至1000号，然后用去离子水清洗，无水乙醇中超声 $1 0 \mathrm { { m i n } }$ 去油干燥后备用。静态浸泡试样用耐水砂纸水磨至1500 号。
+
+腐蚀介质为 $0 . 5 \mathrm { m o l / L }$ 的 $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ 溶液，滴加 $\mathrm { H } _ { 2 } \mathrm { S O } _ { 4 }$ 调整其 $\mathfrak { p H }$ 值至0.5、1、2、3、4、5,温度为 $2 5 \mathrm { { ^ \circ C } }$ ，将试样浸泡其中，时间为7d。
+
+用瑞士万通Autolab 电化学工作站和三电极体系测试马氏体沉淀硬化不锈钢PH13-8Mo的电化学性能，所用溶液与浸泡实验用的溶液相同。参比电极为饱和甘汞电极（SCE)，辅助电极为 $\mathbf { \rho } _ { \mathrm { P t } }$ 电极（ $1 5 \mathrm { m m } \times 1 5 \mathrm { m m } \times$ ；测量不同 $\mathfrak { p H }$ 值的试样的极化曲线（PDP）、电化学阻抗谱（EIS）和Mott-Schottky曲线。在开路电位下浸泡 $6 0 \mathrm { { m i n } }$ 后使其腐蚀电位基本达到稳定后进行测试，极化曲线测量的扫描速率 $2 \mathrm { m V / s }$ 。电化学阻抗谱测试的激励信号是幅值为 $1 0 \mathrm { m V }$ 的正弦波，在自腐蚀电位下进行测量，测量频率范围为 ${ 1 0 ^ { - 2 } } { \sim } 1 0 ^ { 4 } \mathrm { H z }$ 。Mott-Schottky 曲线测试时施加正弦交流电压幅值为 $1 0 \mathrm { m V }$ ，测试频率范围为 $1 0 ^ { - 2 } { \sim } 1 0 ^ { 4 } \mathrm { H z }$ ，分析频率为 $1 0 ^ { 3 } \mathrm { H z }$ ，扫描的电位区间为该钢种的钝化区。所有电化学测试溶液均未除氧，并在恒温水浴装置（ $2 5 { \pm } 0 . 2 ) \ \mathrm { ^ { \circ } C }$ 中进行。用JSM-7500F 型扫描电镜（SEM）观察试样表面腐蚀形貌。
+
+# 3结果与分析
+
+# 3.1腐蚀形貌分析
+
+为了考察溶液pH值对马氏体沉淀硬化不锈钢PH13-8Mo腐蚀行为的影响，对比了样品在不同 $\mathfrak { p H }$ 值的 $0 . 5 \mathrm { m o l / L }$ 的 $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ 溶液中浸泡7d后样品的表面形貌，如图1所示。
+
+![](images/6fb73ae4ef481573fa95b9d14db7155aee1617bacf0ac560cc9546272181d5f2.jpg)  
+图1PH13-8Mo 在不同 $\mathsf { p H }$ 值的 $0 . 5 \mathrm { m o l / L }$ 的 $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ 溶液中浸泡7d后样品的表面形貌Fig.1 Surface morphologies of the PH13-8Mo sample immersion in $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ solution with different pH values(a） $\mathsf { p H } { = } 0 . 5$ ；(b） $\mathsf { p H } { = } 1$ ；（c） $\mathrm { p H } { = } 2$ ；(d) $\mathrm { p H } { = } 3$ ；(e) $\mathrm { p H } { = } 4$ ；(f) $\mathrm { p H } { = } 5$ ·
+
+# 3.2极化曲线分析
+
+图2所示为PH13-8Mo在不同 $\mathfrak { p H }$ 值的 $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ 溶液中的极化曲线。可以看出，溶液的pH 值的变化对PH13-8Mo的极化特性有较大的影响。溶液 $\mathfrak { p H }$ 值在0.5-3时的阴极区，阴极去极化过程主要是 $\boldsymbol { \mathrm { H } } ^ { + }$ 的去极化反应，而且随着 $\mathfrak { p H }$ 值的升高，在相同电位下的阴极扩散电流密度减小，在 $\mathsf { p H 1 }$ 时为 $8 2 . 2 \mathrm { m A } / \mathrm { c m } ^ { 2 }$ ， $\mathsf { p H } 3$ 时为 $0 . 8 2 4 ~ \mathrm { m A } / \mathrm { c m } ^ { 2 }$ ，其极限电流密度的比值为99，该比值和溶液中 $\boldsymbol { \mathrm { H } } ^ { + }$ 浓度的比值100 接近，这说明 $\mathsf { p H } { \leq } 3$ 时阴极反应主要是析氢反应。当溶液的 $\mathfrak { p H }$ 值为4时，如果以氢离子浓度计算其极限扩散电流密度，假定其扩散系数以及扩散层的厚度不随浓度改变而改变，根据类比，其值应为 $8 . 2 4 \mu \mathrm { A } / \mathrm { c m } ^ { 2 }$ ，而实际的数值为$1 3 8 \mu \mathrm { A } / \mathrm { c m } ^ { 2 }$ ，与 $\mathsf { p H 1 }$ 极限电流密度的比值接近600，该比值小于溶液中 $\boldsymbol { \mathrm { H } } ^ { + }$ 浓度的比值1000;另一方面考虑到当溶液的 $\mathfrak { p H }$ 值增大时氧的溶解度增加，此时氧的去极化过程开始发挥作用，阴极区域的扩散电流变得更加明显。因此，氧的去极化反应成为主要的阴极反应。当溶液的$\mathfrak { p H }$ 值为5时，一方面试样表面和溶液本体中的 $\boldsymbol { \mathrm { H } } ^ { + }$ 浓度差变大，由极限扩散电流密度比和溶液中和 $\boldsymbol { \mathrm { H } } ^ { + }$ 浓度的比值差也可以证实这一点。 $\mathsf { \Pi } _ { \mathsf { P H } }$ 值为5时的极限扩散电流密度为 $8 2 . 5 \mathrm { u A / c m } ^ { 2 }$ 与 $\mathsf { p H 1 }$ 时的 $8 2 . 2 \mu \mathrm { A } / \mathrm { c m } ^ { 2 }$ 相比，比值接近1000，该比值和溶液中 $\boldsymbol { \mathrm { H } } ^ { + }$ 浓度的比值10000 相差一个数量级，可见 $\mathfrak { p H }$ 值为5时，阴极反应也以吸氧反应为主。
+
+表1为极化曲线的动力学参数进行拟合结果。从表1中可以看出， $\mathsf { p H } { = } 1$ 时阴极塔菲尔斜率 $\beta _ { \mathrm { c } }$ 为 $6 5 . 3 0 1 0 \mathrm { m V / d e c }$ ，而 $\mathsf { p H } { = } 3$ 时阴极塔菲尔斜率 $\beta _ { \mathrm { c } }$ 为 $1 1 7 . 1 4 0 \mathrm { m V / d e c }$ ，由于PH13-8Mo在 $\mathsf { p H } { \leq } 3$ 酸性溶液中阴极反应主要为析氢反应，根据析氢反应机理及其动力学计算[16], $\mathrm { p H } = 3$ 时，反应速度的控制主要为氢离子的放电反应所控制，而 $\mathsf { p H } { = } 1$ 时，反应速度则主要由电化
+
+学脱附或者化学脱附所控制。
+
+表1PH13-8Mo 在不同 $\mathsf { p H }$ 值的 $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ 溶液中的极化曲线拟合结果Table1 The fiting results for the polarization curve of PHl3-8Mo in $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ solution with different pH  
+
+<html><body><table><tr><td>pH值</td><td>Ecorr/mV</td><td>βa/(mV/dec)</td><td>β(mV/dec)</td><td> jcor/( uA/cm²)</td><td>Rp/Ω·cm²</td></tr><tr><td>0.5</td><td>-361.380</td><td>259.790</td><td>44.3980</td><td>171.710</td><td>95.9050</td></tr><tr><td>1</td><td>-358.300</td><td>269.730</td><td>65.3010</td><td>48.5760</td><td>506.420</td></tr><tr><td>2</td><td>-372.480</td><td>272.220</td><td>72.1600</td><td>16.2130</td><td>1335.50</td></tr><tr><td>3</td><td>-385.350</td><td>273.710</td><td>117.140</td><td>11.2330</td><td>3171.70</td></tr><tr><td>4</td><td>-409.80</td><td>279.180</td><td>177.660</td><td>8.24970</td><td>5715.60</td></tr><tr><td>5</td><td>-405.830</td><td>273.710</td><td>252.640</td><td>7.18500</td><td>7941.00</td></tr></table></body></html>
+
+在阳极区间，在pH0.5、pH1 和pH2 的 $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ 溶液中的极化曲线存在明显的阳极溶解区，呈现出明显的活化-钝化过度转变特征。在该区域内电流密度随电位上升明显增大，直到达到最大值，即临界致钝电流密度，分别为 $0 . 2 1 3 \mathrm { m A } / \mathrm { c m } ^ { 2 }$ 、 $6 2 . 7 \mathrm { u A / c m } ^ { 2 }$ 和 $3 7 . 3 \mathrm { u A / c m } ^ { 2 }$ 。这是由于在此活化区间内Fe、Cr、Ni、Mo 等元素都发生了快速的溶解[17]，生成了阳离子，并且溶解速率大于钝化膜的生成速率，因此，基体金属来不及钝化就发生溶解。这与样品在不
+
+同 $\mathfrak { p H }$ 值的 $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ 溶液中浸泡7天后的腐蚀形貌对应一致，在 $\mathrm { p H } 0 . 5$ 和 $\mathsf { p H 1 }$ 的$\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ 溶液中浸泡时试样表面首先发生了阳极溶解，钝化膜受到破坏，使得腐蚀相对严重。
+
+与 $\mathsf { p H 0 . 5 . p H 1 }$ 和 $\mathsf { p H } 2$ 的 $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ 溶液中的极化曲线不同，PH13-8Mo 在 pH3、pH4和pH5的 $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ 溶液中的极化曲线不存在阳极溶解区，而直接进入钝化区，腐蚀电流密度 $\mathrm { j } _ { \mathrm { c o r r } }$ 随着电位的升高变化不大，这主要是因为随着溶液pH值的升高，溶液中的 $\boldsymbol { \mathrm { H } } ^ { + }$ 浓度降低，对应基体中各合金元素氧化物的热力学稳定性增加，试样表
+
+![](images/55d3d7c9f5472ae17f06526d6000b25db7935b5ebb108ed3320f8f7c9e47f9da.jpg)  
+图 $2 \mathrm { P H } 1 3 { - } 8 \mathrm { M } \mathrm { o }$ 在不同 $\mathsf { p H }$ 值的 $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ 溶液中的极化曲线
+
+Fig.2 The polarization curves ofPH13-8Mo in $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ solution with different pHvalues
+
+面上对应阳离子浓度降低，钝化膜处于溶解和生成的过程，且随着溶液 $\mathfrak { p H }$ 值的升高，钝化膜的溶解速率小于生成速率，试样表面不易被活化，阴极极化过程受到抑制，从而抑制了金属的溶解，此时试样表面较容易形成难溶的钝化膜层，如 $\mathrm { F e } _ { 3 } \mathrm { O } _ { 4 }$ 、 $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 等[17]。
+
+在 pH3、 $\mathsf { p H } 4$ 和 $\mathsf { p H } 5$ 的 $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ 溶液中的极化曲线存在明显的过钝化区电流峰。这是由于随着外加电位的继续增大，试样表面的钝化膜层发生溶解，Fe和Cr等以高价离子形式溶解到溶液中[17]。钝化膜的破坏起源于点蚀的形核，随着点蚀数量的增多和点蚀深度的增加，腐蚀电流密度继续增大。
+
+从极化曲线还可以看出，随着溶液 $\mathfrak { p H }$ 值的升高，腐蚀电流密度 $\mathrm { j } _ { \mathrm { c o r r } }$ 降低，维钝电流密度减小，极化电阻 $\rho _ { \mathrm { p } }$ 增大，所有这些参数的变化都说明了随着溶液pH值的升高，膜层的钝化性增强，试样耐蚀性提高。
+
+# 3.3电化学阻抗谱测试
+
+图3所示为PH13-8Mo在不同 $\mathfrak { p H }$ 值的Na $\mathrm { _ { 2 } S O _ { 4 } }$ 溶液中的电化学阻抗谱曲线，可以用来评价该材料表面钝化膜的耐腐蚀性能及稳定性。可以看出，在不同 $\mathfrak { p H }$ 值的酸性溶液中样品的阻抗谱有明显差异。从Nyquist 曲线中可以看出，随着溶液 $\mathfrak { p H }$ 值的增大，容抗弧的幅值愈来愈大，这说明样品的表面发生腐蚀反应的阻力增大，样品的耐蚀性逐渐增强。这与极化曲线和全面浸泡的实验结果一致。但随着溶液 $\mathfrak { p H }$ 值的变化，阻抗图谱中的形状发生明显变化。在 $\mathrm { p H } 0 . 5$ 、pH1和pH2 的溶液中，Nyquist 曲线图中出现了两个容抗弧，高频容抗弧的幅值相对较小，而低频容抗弧的幅值较大。而且随着溶液pH值的升高，高频容抗弧的幅值逐渐增大，由 $\mathrm { p H } 0 . 5$ 的溶液中低频容抗弧的幅值约为高频容抗弧幅值的7倍，到 $\mathsf { p H 1 }$ 的溶液中低频容抗弧的幅值约为高频容抗弧幅值的2倍，再到pH2 的溶液中低频容抗弧的幅值与高频容抗弧幅值接近。而当 $\mathfrak { p H }$ 值 ${ > } 2$ 时，两个容抗弧已经无法区分。
+
+![](images/59ba88b2be2ac24ed855184fb42c8eba4dc28843cc1fea596b20a76f81c6c8bd.jpg)  
+图3PH13-8Mo在不同pH值的 $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ 溶液中的电化学阻抗图谱Fig.3 The electrochemical impedance spectroscopy ofPH13-8Mo with different $\mathsf { p H }$ value in $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ solution（ $( \mathsf { a } _ { 1 } \mathsf { - a } _ { 4 }$ ）Nyquist plot；（b）Bode plot（module -frequency plot）；（c）Bode plot（phase angle- frequency plot）
+
+由于低频容抗弧反应的是工作电极表面电化学反应过程，即钝化膜界面和溶液界面的电荷转移行为；而高频容抗弧反映的是电极表面生成的钝化膜的性质[16，即钝化膜的电容与电阻。从Bode 曲线上看出，随着溶液pH值的升高，阻抗模和相位角值均增大，而相位角的峰也逐渐变宽。这说明钝化膜的钝化能力有不同程度的提高，这也反映了该钝化膜对基体的保护作用升高，这是由于不锈钢在溶液中表面钝化时，钝化膜的生长是通过膜中离子的迁移来实现的，当膜的生长速率和溶解速率达到动态平衡时会形成稳定的钝化膜。而在这一过程中， $\boldsymbol { \mathrm { H } } ^ { + }$ 的作用有两个，一个是当 $\boldsymbol { \mathrm { H } } ^ { + }$ 的浓度高于一定值时，钝化膜的溶解速率大于生成速率，使得局部区域钝化膜多孔，完整性较差，基体金属直接被溶解；另一个是当 $\boldsymbol { \mathrm { H } } ^ { + }$ 的浓度低于一定值时，反而促进钝化膜的形成。这时
+
+![](images/c06aefc22a2b0e200d42216e867d7cff3c1916da7c8dace39d989a3613f9aea1.jpg)  
+图4图3中的交流阻抗图谱采用的拟合等效电路图
+
+Fig.4 Equivalent electronic circuit used for fitting impedance showed in fig.3
+
+随着溶液 $\mathfrak { p H }$ 值的升高， $\boldsymbol { \mathrm { H } } ^ { + }$ 的浓度降低，各合金元素形成的氧化物或水化物趋于稳定，钝化膜也趋于完整和致密。相应的阻抗模-频率曲线出现了两个峰，这说明钝化膜的阻抗由两个时间常数确定，对图3的交流阻抗图谱采用等效电路进行分析，如图4所示，对该等效电路进行拟合，结果见表2。其中 $\mathbb { R } _ { \mathrm { s } }$ 为溶液电阻， $\mathbf { R } _ { \mathrm { f } }$ 为离子穿越钝化膜时的阻抗， $\mathrm { Q } _ { \mathrm { f } }$ 为钝化膜的容抗， $\mathrm { R _ { c t } }$ 为电化学转移电阻， $\mathrm { Q _ { d l } }$ 为双电层容抗。从图3和表2中可以看出，随着溶液pH值的升高，钝化膜的电阻和电化学转移电阻均增大，而容抗均减小，这也说明了钝化膜的完整性和致密性随之升高，离子穿越钝化膜的阻力升高，膜层对基体的保护作用升高，试样的腐蚀速率降低，耐蚀性提高。
+
+表2图3中阻抗谱的拟合结果 Table 2 The fiting results for the impedance spectroscopy showed in fig   
+
+<html><body><table><tr><td rowspan="2">pH 值 2)</td><td rowspan="2">Rs/(Ω:cm</td><td colspan="2">Qf</td><td rowspan="2">Rf/(Ω·c m)</td><td colspan="2">Qd1</td><td rowspan="2">Rct(Ω.c m²)</td></tr><tr><td>Yo/(Ω-1·cm2. s)</td><td>n</td><td>Y/(Ω1·cm2·s")</td><td>n</td></tr><tr><td>0.5</td><td>1.557</td><td>3.998×1 0-3</td><td>0.85</td><td>10.23</td><td>0.326</td><td>0.9</td><td>58.87</td></tr><tr><td>1</td><td>1.660</td><td>8.426×1 04</td><td>0.81</td><td>218.1</td><td>0.029</td><td>9 0.7</td><td>1391</td></tr><tr><td>2</td><td>1.573</td><td>4.314×1 04</td><td>0.86</td><td>1686</td><td>8.406×10-3</td><td>9 0.7</td><td>1857</td></tr><tr><td>3</td><td>1.826</td><td>4.036×1 04</td><td>0.86</td><td>5101</td><td>7.157×10-3</td><td>8 0.8</td><td>1967</td></tr><tr><td>4</td><td>1.292</td><td>3.495×1 0-4</td><td>0.95</td><td>8562</td><td>3.292×10-3</td><td>1 0.8</td><td>5138</td></tr><tr><td>5</td><td>1.589</td><td>1.178×1 0-4</td><td>0.87</td><td>24810</td><td>2.004×10-4 4</td><td>5 0.8</td><td>27530</td></tr></table></body></html>
+
+# 3.4Mott-Schottky曲线测试
+
+为了进一步研究PH13-8Mo 在不同pH值的溶液中钝化膜的性能对耐腐蚀性能的影响，本文用 Mott-Schottky 曲线研究了不同pH值溶液中钝化膜的特性。
+
+由于不锈钢的耐蚀性与其表面钝化膜的组成、结构及厚度等存在很大的关系，钝化膜的耐蚀性与其半导体特性密切相关[18-21]，而钝化膜的半导体行为又取决于钝化膜存在何种主导缺陷。根据电子能带理论，如果钝化膜中存在多余的间隙金属阳离子时，钝化膜一般表现为n型半导体特性，表现在Mott-Schottky曲线上直线段斜率为正的部分；相反如果存在金属阳离子空位时，表现为p型半导体特性，此时表现为Mott-Schottky曲线上直线段斜率为负的部分。研究表明，Cr的氧化物位于钝化膜的内层呈p型半导体特性，而Fe的氧化物和水化物位于钝化膜的外层呈n型半导体特性[22,23]
+
+![](images/76d8f7710f51d89343cdfca045e4290e1601e34bd98e546e052d94b36743342c.jpg)  
+图5PH13-8Mo 在不同 pH值的$\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ 溶液中的 Mott-Schottky 曲线
+
+Fig.5The Mott-Schottky curveof PH13-8Mo with different pH valuein $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ solution
+
+图5所示为 PH13-8Mo 在其钝化区间0.0-1.0V 的 Mott-Schottky 曲线。可以看出，PH13-8Mo 在不同 $\mathfrak { p H }$ 值的 $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ 溶液中的形成的钝化膜由 $\mathfrak { n }$ 型半导体和p型半导体组成，当测试电位较低时，钝化膜的导电性主要由铁的氧化物中的电子载体控制，钝化膜为n型半导体，随着测试电位的升高，铁的氧化物中的电子空间电荷层不断耗尽，铬的氧化物中的空位充当主要的导电载体，钝化膜呈p型半导体[22,24]。
+
+从图5中还可以看出，随着溶液 $\mathfrak { p H }$ 值的升高，钝化膜由n型半导体转变为p型半导体所对应的电位降低，这表明在较低 $\mathsf { p H }$ 值的溶液中所形成的铁氧化物的可迁移电子量较多，即该半导体的施主密度较高，这和n型半导体所对应的直线斜率随着溶液pH值的升高而变大是一致的，随着溶液pH值的升高，半导体膜/电解质界面能带弯曲的增加而耗尽电子，从而电子耗竭层厚度增加，施主密度减小[23]。由于半导体钝化膜中的施主密度是空间电荷层的非化学计量缺陷，施主密度高说明钝化膜中原子无序性排列缺陷多，因此钝化膜中的缺陷随着溶液pH值升高而减少[25]。在斜率为负的区间，钝化膜呈现p型半导体特性，在此区间内随着溶液pH值的升高，斜率变化不大，这表明pH值主要通过影响铁的氧化物中的可迁移电子浓度影响其腐蚀性能。
+
+根据 Mott-Schottky 曲线可知，随着溶液pH值的升高，钝化膜的缺陷密度降低，致密性提高。因此，试样的耐腐蚀性能随之提高。
+
+# 4结论
+
+（1）溶液的pH值能改变腐蚀的速率及腐蚀产物的形貌，在 $\mathsf { p H 0 . 5 }$ 和pH1的溶液中，试样发生了全面腐蚀，腐蚀产物均匀的覆盖在样品表面，随着溶液pH值的升高，钝化膜的钝化性能增强，试样的耐腐蚀性能提高，在pH3，4，5 的溶液中，PH13-8Mo 能保持钝化状态，基本不腐蚀。
+
+（2）溶液的pH值对马氏体沉淀硬化不锈钢PH13-8Mo的电化学腐蚀行为起着重要影响作用，随着溶液 $\mathsf { p H }$ 值的升高，阴极反应由析氢反应转变为吸氧反应，阳极由活性-钝化向直接钝化状态转变，试样的腐蚀电流密度、维钝电流密度减小，容抗弧的幅值增大，钝化膜的电阻和电化学转移电阻均增大，离子穿越钝化膜的阻力升高，钝化膜的厚度变大，钝化膜中缺陷密度降低，膜层对基体的保护作用升高，试样的腐蚀速率降低，耐蚀性提高。
+
+（3）PH13-8Mo在pH值大于3的溶液中可以形成完整致密的钝化膜，该钝化膜由铁氧化物和铬氧化物组成，溶液中 $\boldsymbol { \mathrm { H } } ^ { + }$ 的浓度减小，铁氧化物施主密度减小，钝化膜的厚度和致密性增加，耐蚀性增强。
+
+# 参考文献：
+
+[1] NingshenS, SakairiM, Suzuki K, et al. The corrosion resistance and passive film composition of $12 \% C \mathrm { r }$ and $1 5 \% C \mathrm { r }$ oxide dispersion strengthened steels in nitric acid media[J]. Corros. Sci.,2014,78:322   
+[2] LeiX W, Feng Y R, Zhang J X, et al. Impact of reversed austenite on the piting corrosion behavior of super $1 3 \mathrm { C r }$ martensitic stainless steel[J]. Electrochim. Acta,2016,191(10):640 [3] Kim JK, Kim YH, Lee JS, et al. Effect of chromium content on intergranular corrosion and precipitation of Ti-stabilized ferritic stainless steels [J]. Corros. Sci., 2010, 52:1847   
+[4] JungRH,TsuchiyaH, FujimotoS. XPS characterization of passive films formed on Type 304 stainless steel in humid atmosphere [J]. Corros. Sci., 2012,58:62   
+[5] TomioA， SagaraM, DoiT,et al. Role of alloyed molybdenum on corrosion resistance of austenitic Ni-Cr-Mo-Fe alloys in $\mathrm { H } _ { 2 } \mathrm { S }$ -Clenvironments[J].Corros. Sci., 2015, 98:391   
+[6]Nishimoto M, Ogawa J, Muto I, et al. Simultanious visualization of pH and Cl- distributions insides the crevice of stainless steel[J].Corros. Sci., 2016,106:298   
+[7] Huang IW, Hurley B L, Yang F, et al. Dependance on temperature, pH and Cl- in the uniform corrosion of aluminum alloys 2024-T3,6061-T6,and 7075-T6[J]. Electrochim. Acta,2016,191:242 [8] Wang S Y, Ming HL, Ding J, et al. Effect $\mathrm { o f H } _ { 3 } \mathrm { B O } _ { 3 }$ on corrosion in 0.01M NaCl solution of the interface between low alloy steel A508 and alloy 52M[J]. Corros. Sci.,2016,102:469
+
+[9] Zafar MN, RihanR,Al-HadhramiL. Evaluation of the corrosion resistance of SA-543 and X65 steels in emulsions containing $\mathrm { H } _ { 2 } \mathrm { S }$ and $\mathrm { C O } _ { 2 }$ using a novel emulsion flow loop[J].Corros.Sci.,2015,94:275
+
+[10]CalabreseL，AleanoM,ProverbioE,et al. Monitoring of $13 \%$ Cr martensitic stainless steel corrosion in chloride solution in presence of thiosulphate by acoustic emission technique[J]. Corros. Sci., Aviailable online 6 May 2016   
+[11]Wei L, Peng X L,Gao K W. Corrosion of low steel and stainless steel in supercritical $\mathrm { C O } _ { 2 } / \mathrm { H } _ { 2 } \mathrm { O } / \mathrm { H } _ { 2 } \mathrm { S }$ systems[J]. Corros. Sci.,Available online 2 June 2016   
+[12] Huang JB, WuX Q, HanE-H. Electrochemical Properties and Growth Mechanism of Passive Films on Alloy 690 in High-Temperature Alkaline Environments[J]. Corros. Sci.,2010,52: 3444 [13] Kim H, AcdonaldD. Measurement of Steady-State Hydrogen Electrode Reactions on Alloy 600 and 690 Tubes[J]. Corros. Sci.,2010,52: 1139   
+[14] MengF J,Han E-H, Wang JQ,et al. Local corrosion behavior of scratches on nickel-base Alloy 690TT[J]. Electrochim. Acta, 2011, 56: 1781   
+[15]胡艳玲，胡融刚，邵敏华等.不锈钢钝化膜形成和破坏过程的原位ECSTM研究[J].金属学 报，2001，37（9)：965   
+Hu Y L,Hu R G, Shao M H, et al.In situ ECSTM investigation on formation and breakdownof passive film for polycrystalline stainless steel[J]. Acta metal. Sin.2001,37(9): 965   
+[16]曹楚南.腐蚀电化学[M].北京：化学工业出版社,1990   
+Cao C N. Electrochemistry of corrosion[M]. Beijing: Chemical Industry Press,1990   
+[17]钟平，肖葵，董超芳等.超高强度钢组织、性能与腐蚀行为[M]．北京：科学出版社，2014 Zhong P, Xiao K, Dong C F, et al.Microstructure, properties and corrosion behavior of ultra high strength steel[M].Beijing: Science Press, 2014   
+[18]Belo M D C, HakikiN E, Ferreira MGS. Semiconducting properties of passive films formed on nickel-base alloys type Alloy 6O0: influence of the alloying elements[J]. Electrochim.Acta, 1999,44:2473   
+[19] SchultzeJW, LohrengelMM. Stability, Reactivity and breakdown of passive films.Problem of recent and future research[J]. Electrochim. Acta, 20o0,45:2499   
+[20]林玉华，杜荣归，胡融刚等.不锈钢钝化膜耐蚀性与半导体特性的关联研究[J].物理化学 学报，2005，21（7)：740   
+Lin YH, Du RG, Hu RG, et al. A correlation study of corrosion resistance and semiconductor properties for the electrochemically modified passve film of stainless steel[J]. Acta Phys. Chim. Sin., 2005,21 (7): 740   
+[21]李党国，陈大融，冯耀荣等.22Cr双相不锈钢钝化膜组成及其半导体性能研究[J].化学学 报，2008，66（21)：2329   
+Li DG,Chen DR,Feng YR, et al.Investigation on the composition and semi-conductive property ofthe passive film on 22Cr duplex stainless steel[J]. ActaChim. Sin. 2008,66 (21): 2329   
+[22] MontemorMF, FerreiraMGS, HakikiNE, et al. Chemical composition and electronic structure of the oxide films formed on 304L stainless steel and nickel based alloysin high temperature aqueous environments[J]. Corros. Sci.,200o,42:1635   
+[23] NingshenS,MudaliUK， Mittal V K,et al.Semiconducting and passive film properties of nitrogen-containing type 316LN stainless steels[J],Corros. Sci.,2007, 49: 481   
+[24] Liu C T, Wu JK. Influence of pH on the passivation behavior of 254SMO stainless steel in $3 . 5 \%$ （204号 NaCl solution[J].Corros. Sci.,2007,49:2198   
+[25] Fattah-alhosseiniA， SoltaniF, ShirsalimiF,et al. The semiconducting properties of passive films formed on AISI 316L and AISI 321 stainless steels: A test of the point defect model(PDM), Corros. Sci.,2011,53:3186

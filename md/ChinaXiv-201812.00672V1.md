@@ -1,0 +1,202 @@
+1 有机锌和有机锰对蛋种母鸡生产性能、蛋品质、抗氧化能力和免疫功能的影响
+
+2 郝洋洋 张修修\* 王玉　张　帅　王少琨 宋志刚\*\*
+
+3 （山东农业大学动物科技学院，泰安271018）
+
+4 摘要：本试验旨在研究饲粮中添加有机锌和有机锰对蛋种母鸡生产性能、蛋品质、抗氧化  
+5 能力和免疫功能的影响。选取23周龄、体重相近的健康海兰褐D系祖代蛋种母鸡576 只，  
+6 随机分为3个组，每组12个重复，每个重复16只鸡。对照组（A组）在基础饲粮中添加  
+7 $8 0 ~ \mathrm { m g / k g }$ 的硫酸锌、硫酸锰，等量添加组（B组）分别用 $4 0 \mathrm { m g / k g }$ 的有机锌、有机锰替换  
+8 对照组饲粮 $4 0 ~ \mathrm { m g / k g }$ 的硫酸锌、硫酸锰，额外添加组（C组）在对照组饲粮的基础上额外  
+9 添加 $4 0 \mathrm { m g / k g }$ 的有机锌、有机锰。试验期32周。结果表明：1）试验第32周和1\~32周时，  
+10 B 组蛋种母鸡的平均蛋重显著高于对照组（ $_ { \it P \mathrm { < } 0 . 0 5 }$ ）；试验第24周时，C组的产蛋率显著  
+11 高于对照组 ( $\cdot P { < } 0 . 0 5 \$ )；C 组的破蛋率显著低于B组( $_ { , P < 0 . 0 5 ) }$ ，极显著低于对照组 $( P { < } 0 . 0 1 )$ 。  
+12 2）试验第16 周时，B 组蛋种母鸡的蛋形指数显著高于其他组（ $_ { \cdot \textcircled { P } < 0 . 0 5 }$ ），C 组蛋黄中的锰  
+13 含量显著高于对照组( $_ { \cdot } P { < } 0 . 0 5$ ）；试验第32周时，C 组的蛋壳亮度显著高于B组（ $_ { , P < 0 . 0 5 ) }$ ，  
+14 B 和C 组的蛋壳红度极显著高于对照组（P<0.01），B 组蛋黄中的锰含量极显著高于其他组  
+15 （ $_ { \scriptstyle P < 0 . 0 1 }$ ）。3）饲粮中添加有机锌和有机锰对蛋种母鸡的血液总超氧化物歧化酶（T-SOD）、  
+16 锰超氧化物歧化酶（Mn-SOD）、铜锌超氧化物歧化酶（ $\mathrm { C u / Z n  – S O D }$ ）活性，T淋巴细胞亚  
+17 群比例（ $\mathrm { C D } _ { 4 }$ 、CD8和 $\mathrm { C D _ { 4 } / C D _ { 8 } }$ ）和皮肤嗜碱性过敏（CBH）反应均无显著影响（ $P { > } 0 . 0 5$ ）。  
+18 由此可知，饲粮中添加有机锌和有机锰能够提高蛋种母鸡的平均蛋重和产蛋率，降低破蛋率，  
+19 增加蛋壳强度，提高蛋品质，增加蛋黄中锰的沉积量。在本试验条件下，有机锌和有机锰与  
+20 无机锌和无机锰等量添加效果最佳。  
+21 关键词：有机锌；有机锰；蛋种母鸡；生产性能；蛋品质；抗氧化能力；免疫功能  
+22 中图分类号：S831
+
+种畜禽养殖的经济效益在很大程度上取决于其健康状况、生产性能和生殖性能等。微量元素作为畜禽所需的营养物质之一，直接或间接参与畜禽机体的生理和生化过程，对维持畜禽生长和健康有重要作用。饲粮中锌、锰元素元素含量不足会对种鸡的繁殖性能和胚胎发育产生不利影响，如产蛋量下降、蛋壳强度降低、产蛋率和孵化率下降、胚胎骨骼异常、羽毛发育不良以及发生皮炎等[1-3]。常规饲料中微量元素的成分和含量因地理环境、气候以及农作物产量的不同，会出现很大波动，这就需要在实际生产中对微量元素进行补充添加。传统上，饲粮中大多数以无机盐形式添加微量元素，但无机盐形式的微量元素存在生物利用率低的缺点，且无机盐易发生氧化反应，破坏添加剂中的维生素[4]。微量元素与氨基酸、蛋白质等有机物螯合制备的有机微量元素因其吸收率高、生物学效价高等优点[5]，越来越多地取代无机微量元素添加到饲粮中。本试验研究饲粮中添加有机锌和有机锰对蛋种母鸡生产性能、蛋品质、抗氧化能力和免疫功能的影响，为其在蛋种鸡生产中的应用提供参考。
+
+1材料与方法
+
+# 1.1 试验材料
+
+无机锌为一水硫酸锌，锌含量为 $34 . 8 \%$ 。无机锰为一水硫酸锰，锰含量为 $3 1 . 8 \%$ 。有机锌、有机锰为植物蛋白原水解后产生的多种氨基酸螯合锌、螯合锰，有机锌的锌含量为 $12 \%$ 有机锰的锰含量为 $8 \%$ ，均为美国金宝公司产品。
+
+# 1.2 试验饲粮与试验设计
+
+采用蛋种母鸡产蛋高峰期饲粮，饲粮配方参照NRC（1994）标准配制，基础饲粮组成及营养水平见表1。选取23周龄、体重相近的健康海兰褐D系祖代蛋种母鸡576只，随机分为3个组，每组12个重复，每个重复由连续的8个笼子组成，每笼2只蛋种母鸡。采用完全随机试验设计，对照组（A组）在基础饲粮中添加 $8 0 ~ \mathrm { m g / k g }$ 的硫酸锌、硫酸锰，等量添加组（B组）分别用 $4 0 \mathrm { m g / k g }$ 的有机锌、有机锰替换对照组饲粮 $4 0 \mathrm { m g / k g }$ 的硫酸锌、硫酸锰，额外添加组（C组）在对照组饲粮的基础上额外添加 $4 0 \mathrm { m g / k g }$ 的有机锌、有机锰。各组饲粮的锌含量实测值分别为118.29、109.43 和 $1 5 8 . 6 1 ~ \mathrm { m g / k g }$ ，锰含量实测值分别为109.72、103.40 和 $1 4 7 . 8 5 \mathrm { m g / k g }$ 。
+
+表1基础饲粮组成及营养水平 (风干基础)  
+Table 1Composition and nutrient levels of the basal diet (air-dry basis) %   
+
+<html><body><table><tr><td>项目 Items</td><td>含量Content</td></tr><tr><td>玉米Corn</td><td>60.00</td></tr></table></body></html>
+
+<html><body><table><tr><td>豆粕 Soybean meal 22.30</td></tr><tr><td>石粉Limestone 9.00</td></tr><tr><td>磷酸氢钙CaHPO4 1.50</td></tr><tr><td>次粉 Wheat middlings 3.00</td></tr><tr><td>豆油 Soybean oil 1.50</td></tr><tr><td>氯化胆碱 Choline chloride 0.45</td></tr><tr><td></td></tr><tr><td>蛋氨酸 Met 0.20</td></tr><tr><td>赖氨酸 Lys 0.35</td></tr><tr><td>苏氨酸Thr 0.30</td></tr><tr><td>预混料 Premix1) 1.40</td></tr><tr><td>合计Total 100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td></tr><tr><td>代谢能ME/（MJ/kg) 11.22</td></tr><tr><td>粗蛋白质 CP 15.85</td></tr><tr><td>钙Ca 3.76</td></tr><tr><td>有效磷 AP 0.46</td></tr><tr><td>赖氨酸Lys 1.10</td></tr><tr><td>苏氨酸Thr 0.87</td></tr><tr><td>蛋氨酸 Met 0.43</td></tr><tr><td>锌 Zn/（mg/kg) 25.20</td></tr><tr><td>锰 Mn/(mg/kg) 12.55</td></tr></table></body></html>
+
+1)预混料为每千克饲粮提供 The premix provided the following per $\mathrm { k g }$ of the diet: VA 8 000IU，VD 3 750 IU，VE $1 0 0 ~ \mathrm { { m g } }$ ， $\mathrm { V K } _ { 3 } 3 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } \ 1 2 . 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 9 \log$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 3 ~ \mathrm { m g }$ ，泛酸pantothenic acid $1 8 ~ \mathrm { m g }$ ，烟酸 niacin $6 0 ~ \mathrm { m g }$ ，叶酸 folic acid $1 . 5 \mathrm { m g }$ ，生物素biotin $0 . 2 2 5 \mathrm { m g }$ Fe $8 0 ~ \mathrm { m g }$ ，Cu 9 mg, $\mathrm { ~ I ~ } 0 . 9 \ : \mathrm { m g }$ ，Se $0 . 3 ~ \mathrm { m g }$ ， $\mathrm { M n } \ 1 2 . 5 5 \mathrm { m g }$ ， $Z n 2 5 . 2 \mathrm { m g }$ 。
+
+2)营养水平均为计算值。Nutrient levels were all calculated values.
+
+1.3 饲养管理
+
+试验于全封闭式鸡舍进行，采用人工光照，光照时间为 $1 5 \mathrm { h / d }$ ，光照强度为 $2 0 \mathrm { L x }$ ，相对湿度为 $6 5 \% { \sim } 8 0 \%$ ，温度为 $2 0 { \sim } 2 4 \ \mathrm { ~ \textdegree C }$ 。每天饲喂2次，自由采食和饮水。每天按重复捡蛋4次，每天早上清粪1次。按常规程序进行消毒和免疫。试验期32周。
+
+1.4检测指标与方法
+
+1.4.1 生产性能
+
+试验第1、8、16、24和32周周末对试验鸡个体进行称重。每天收蛋，以重复为单位记录蛋重、产蛋个数、破蛋个数，计算平均蛋重、产蛋率和破蛋率。试验第16和32周所产鸡蛋入孵，按重复统计受精率、受精蛋孵化率和健雏率。
+
+受精率 $( \% ) =$ （受精蛋数/孵化蛋数） $\times 1 0 0$ 受精蛋孵化率 $( \% ) =$ （雏鸡出壳数/受精蛋数） $\times 1 0 0$ 健雏率 $( \% ) =$ （健康雏鸡数/雏鸡出壳数） $\times 1 0 0$ 。
+
+1.4.2 蛋品质
+
+试验第16 和32周，每重复随机取3枚鸡蛋，测定蛋壳强度、蛋形指数、蛋壳厚度、蛋白高度、哈氏单位、蛋壳颜色和蛋黄比率。使用蛋壳强度测定仪（Model-II，Robotmation公司，日本）检测蛋壳强度；使用蛋壳厚度测定仪（ModelP-1，OzakiMFG 公司，日本）检测蛋壳厚度；使用蛋品质测定仪（EMT-2500 Robotmation 公司，日本）检测蛋白高度、哈氏单位；使用CR-10 色差仪检测蛋壳颜色，分别测定鸡蛋大头、中间、小头3个点的亮度（L\*）、红度（a\*）和黄度 $( \boldsymbol { \mathsf { b } } ^ { * }$ ）值，取3个点的平均值。蛋形指数的计算公式为：
+
+蛋形指数 $( \% ) =$ （纵径/横径） $\times 1 0 0$ 。
+
+试验第16和32周，每重复随机取5枚鸡蛋，煮熟后将同一重复的蛋黄汇总后，采用火焰原子吸收光谱法测定蛋黄中锌和锰含量。
+
+# 1.4.3 血液抗氧化及免疫指标
+
+试验第32周末，每重复随机取2只试验鸡，翅静脉采血，测定血液抗氧化酶[锰超氧化物歧化酶（Mn-SOD）、铜锌超氧化物歧化酶（ $\mathrm { { C u / Z n } }$ -SOD）]活性和T淋巴细胞亚群（ $\mathrm { C D } _ { 4 }$ ，CD&）比例。采用碧云天CuZn/Mn-SOD 活性检测试剂盒(WST-8 法)测定Mn-SOD 和Cu/Zn-SOD活性;T淋巴细胞亚群比例使用流式细胞术法进行检测,CellQuest软件分析 $\mathrm { C D } _ { 4 }$ ，CD8T淋巴细胞占外周血T淋巴细胞的百分比[6]。试验第31和32周末，每重复随机取2只试验鸡，用游标卡尺测定注射植物血球凝集素（L8754，Sigma-Aldrich公司，美国）前及注射 $2 4 \mathrm { h }$ 后母鸡肉垂的厚度，计算变化的比例，作为皮肤嗜碱性过敏（CBA）反应的度量。
+
+# 1.5 数据处理与分析
+
+利用 SAS9.13软件中one-way ANOVA程序进行单因素方差分析，采用Duncan氏法进行多重比较，结果用"平均值 $\pm$ 标准误"表示， $P { < } 0 . 0 1$ 表示差异极显著， $P { < } 0 . 0 5$ 表示差异显著，$0 . 0 5 { \le } P { < } 0 . 1 0$ 表示差异有显著趋势。
+
+2.1有机锌和有机锰对蛋种母鸡生产性能的影响
+
+由表2可知，与对照组相比，饲粮中添加有机锌和有机锰对蛋种母鸡的体重和体增重无显著影响 ( $P { > } 0 . 0 5$ ）。
+
+# 表2有机锌和有机锰对蛋种母鸡生长性能的影响
+
+Table 2Effects of organic zinc and organic manganese on growth performance of laying breeder hens   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td rowspan="2">试验周 Trial week</td><td colspan="3">组别Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>对照（A) Control （A)</td><td>B</td><td>C</td></tr><tr><td>体重</td><td>1</td><td>1.67±0.02</td><td>1.69±0.01</td><td>1.67±0.01</td><td>0.541</td></tr><tr><td>BW/kg</td><td>8</td><td>1.80±0.02</td><td>1.84±0.02</td><td>1.81±0.02</td><td>0.282</td></tr><tr><td></td><td>16</td><td>1.85±0.03</td><td>1.89±0.02</td><td>1.85±0.02</td><td>0.348</td></tr><tr><td rowspan="6">体增重 BW gain/kg</td><td>24</td><td>1.88±0.03</td><td>1.94±0.03</td><td>1.88±0.02</td><td>0.172</td></tr><tr><td>32</td><td>1.92±0.03</td><td>1.97±0.03</td><td>1.92±0.03</td><td>0.309</td></tr><tr><td>1~8</td><td>0.14±0.02</td><td>0.15±0.02</td><td>0.14±0.02</td><td>0.765</td></tr><tr><td>9~16</td><td>0.18±0.02</td><td>0.20±0.02</td><td>0.18±0.02</td><td>0.780</td></tr><tr><td>17~24</td><td>0.22±0.02</td><td>0.25±0.03</td><td>0.21±0.03</td><td>0.474</td></tr><tr><td>25~32</td><td>0.26±0.03</td><td>0.28±0.03</td><td>0.25±0.03</td><td>0.657</td></tr></table></body></html>
+
+同行数据肩标相同或无字母表示差异不显著（ $\scriptstyle P > 0 . 0 5 .$ ），不同小写字母表示差异显著（ $_ { \cdot \textcircled { P } < 0 . 0 5 }$ ），不同大写字母表示差异极显著（ $P { < } 0 . 0 1$ ）。下表同。
+
+In the same row, values with the same or no letter superscripts mean no significant difference （204号 $( P { > } 0 . 0 5 )$ , while with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,and with different capital letter superscripts mean extremely significant difference $( P { < } 0 . 0 1 )$ ). The same as below.
+
+由表3可知，试验第32周时,B组蛋种母鸡的平均蛋重显著高于对照组和C组( $P { < } 0 . 0 5 )$ ;试验1\~32周时，B组的平均蛋重显著高于对照组（ $( P { < } 0 . 0 5 )$ ），与C组无显著差异（ $( P { > } 0 . 0 5 )$ 。试验第24周时，C 组的产蛋率显著高于对照组（ $_ { . } { \cal P } { < } 0 . 0 5$ ），与 $\mathbf { B }$ 组无显著差异（ $. { \cal P } { > } 0 . 0 5$ ）。C组的破蛋率显著低于B组（ $_ { \cdot } P { < } 0 . 0 5$ ），极显著低于对照组（ $P { < } 0 . 0 1$ ），B组与对照组间无显著差异（ $P { > } 0 . 0 5$ ）。
+
+# 表3有机锌和有机锰对蛋种母鸡产蛋性能的影响
+
+Table 3Effects of organic zinc and organic manganese on laying performance of laying breeder
+
+hens   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td rowspan="2">试验周 Trial week</td><td colspan="3">组别Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>对照（A） Control（A)</td><td>B</td><td>C</td></tr><tr><td>平均蛋重 weight/g Average egg</td><td>8 16</td><td>57.95±0.23 60.44±0.27</td><td>58.58±0.31 61.26±0.36</td><td>58.28±0.27 60.86±0.29</td><td>0.282 0.203</td></tr><tr><td rowspan="8">产蛋率 Laying rate/%</td><td>24</td><td>60.17±0.45</td><td>61.46±0.45</td><td>60.87±0.44</td><td>0.141</td></tr><tr><td>32</td><td>60.55±0.40b</td><td>62.14±0.55a</td><td>60.78±0.31b</td><td>0.029</td></tr><tr><td>1~32</td><td>59.06±0.23b</td><td>60.00±0.33a</td><td>59.40±0.26ab</td><td>0.042</td></tr><tr><td>8</td><td>95.58±0.69</td><td>95.93±0.67</td><td>96.24±1.15</td><td>0.860</td></tr><tr><td>16</td><td>94.62±1.31</td><td>95.33±0.86</td><td>95.97±0.98</td><td>0.668</td></tr><tr><td>24</td><td>88.92±1.17b</td><td>91.56±1.53ab</td><td>92.94±1.28a</td><td>0.029</td></tr><tr><td>32</td><td>72.90±2.42</td><td>78.37±2.99</td><td>78.37±1.98</td><td>0.252</td></tr><tr><td>1~32</td><td>90.86±0.48</td><td>91.75±0.56</td><td>92.23±0.63</td><td>0.224</td></tr><tr><td>破蛋率 Broken egg rate/%</td><td>1~32</td><td>1.06±0.16Aa</td><td>0.91±0.12ABa</td><td>0.49±0.09Bb</td><td>0.008</td></tr></table></body></html>
+
+由表4可知，与对照组相比，饲粮中添加有机锌和有机锰对试验第16和32周时蛋种母鸡的受精率、受精蛋孵化率和健雏率无显著影响（ $P { > } 0 . 0 5$ ）。
+
+# 表4有机锌和有机锰对蛋种母鸡繁殖性能的影响
+
+Table 4Effects of organic zinc and organic manganese on reproductive performance of laying breeder hens   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td rowspan="2">试验周 Trial week</td><td colspan="3">组别 Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>对照（A） Control（A)</td><td>B</td><td>C</td></tr><tr><td>受精率</td><td>16</td><td>94.25±0.70</td><td>95.54±0.79</td><td>94.44±0.89</td><td>0.485</td></tr><tr><td rowspan="2">Fertility/% 受精蛋孵化率</td><td>32</td><td>90.31±1.03</td><td>88.96±0.48</td><td>90.71±0.65</td><td>0.262</td></tr><tr><td>16</td><td>83.53±1.56</td><td>85.91±1.02</td><td>83.13±1.54</td><td>0.344</td></tr><tr><td>Hatch ability of fertile eggs/%</td><td>32</td><td>73.85±2.63</td><td>73.44±1.36</td><td>76.25±0.87</td><td>0.502</td></tr><tr><td>健雏率</td><td>16</td><td>91.90±0.58</td><td>92.54±0.98</td><td>91.42±1.08</td><td>0.687</td></tr><tr><td>Livability rate of chicken/%</td><td>32</td><td>85.19±1.10</td><td>87.58±0.90</td><td>86.88±0.63</td><td>0.193</td></tr></table></body></html>
+
+2.2有机锌和有机锰对蛋种母鸡蛋品质的影响
+
+由表5可知，试验第16周时,B组蛋种母鸡的蛋形指数显著高于对照组和C组( $. P { < } 0 . 0 5 )$ ：试验第32周时，C组的蛋壳亮度显著高于B组（ $\cdot P { < } 0 . 0 5$ ），B和C组的蛋壳红度极显著高于对照组（ $_ { \scriptstyle P < 0 . 0 1 }$ ）；各组的蛋壳强度、蛋壳厚度、蛋白相对高度、哈氏单位、蛋壳黄度和
+
+Table 5Effects of organic zinc and organic manganese on egg quality of laying breeder hens   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td rowspan="2">试验周 Trial week</td><td colspan="3">组别Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>对照（A） Control（A)</td><td>B</td><td>C</td></tr><tr><td>蛋壳强度 Eggshell strength/(kg:f)</td><td>16</td><td>4.53±0.10</td><td>4.71±0.06</td><td>4.43±0.09</td><td>0.052</td></tr><tr><td rowspan="2">蛋形指数</td><td>32</td><td>3.75±0.19</td><td>3.61±0.11</td><td>3.51±0.13</td><td>0.504</td></tr><tr><td>16</td><td>1.26±0.01b</td><td>1.28±0.01a</td><td>1.26±0.01b</td><td>0.039</td></tr><tr><td rowspan="2">Egg shape index 蛋壳厚度</td><td>32</td><td>1.33±0.01</td><td>1.32±0.01</td><td>1.31±0.01</td><td>0.227</td></tr><tr><td>16</td><td>32.77±0.64</td><td>32.17±0.60</td><td>33.56±0.49</td><td>0.243</td></tr><tr><td rowspan="2">Eggshell thickness/mm 蛋白相对高度</td><td>32</td><td>33.82±0.69</td><td>33.16±0.55</td><td>32.39±0.55</td><td>0.248</td></tr><tr><td>16</td><td>9.83±0.28</td><td>10.77±0.32</td><td>10.07±0.31</td><td>0.082</td></tr><tr><td>Relative albumin height/%</td><td>32</td><td>7.38±0.41</td><td>8.12±0.50</td><td>6.81±0.34</td><td>0.090</td></tr><tr><td rowspan="2">哈氏单位 Haugh unit</td><td>16</td><td>77.11±1.07</td><td>80.44±1.14</td><td>77.27±1.46</td><td>0.105</td></tr><tr><td>32</td><td>64.71±1.95</td><td>66.83±2.16</td><td>62.73±2.57</td><td>0.443</td></tr><tr><td rowspan="2">亮度 Lightnes (L*)</td><td>16</td><td>56.66±0.49</td><td>55.88±0.51</td><td>55.92±0.39</td><td>0.409</td></tr><tr><td>32</td><td>53.24±0.75ab</td><td>52.20±0.69b</td><td>55.12±0.64a</td><td>0.012</td></tr><tr><td rowspan="2">红度 Redness (a*)</td><td>16</td><td>14.02±0.18</td><td>14.32±0.22</td><td>14.47±0.17</td><td>0.243</td></tr><tr><td>32</td><td>13.16±0.27Bb</td><td>14.21±0.24Aa</td><td>14.37±0.20Aa</td><td>0.007</td></tr><tr><td rowspan="2">黄度 Yellowness (b*)</td><td>16</td><td>29.47±0.26</td><td>29.10±0.20</td><td>29.02±0.43</td><td>0.552</td></tr><tr><td>32</td><td>29.38±0.29</td><td>29.22±0.23</td><td>29.04±0.27</td><td>0.694</td></tr><tr><td rowspan="2">蛋黄比率 yolk rate/%</td><td>16</td><td>27.01±0.34</td><td>27.24±0.33</td><td>27.95±0.37</td><td>0.142</td></tr><tr><td>32</td><td>27.66±0.46</td><td>27.59±0.32</td><td>28.13±0.32</td><td>0.528</td></tr></table></body></html>
+
+由表6可知，试验第16周时，C 组蛋种母鸡蛋黄中的锰含量显著高于对照组！ $( P { < } 0 . 0 5 )$ ，B组与C组间无显著差异（ $. { \cal P } { > } 0 . 0 5$ ）；试验第32周时，B组蛋黄中的锰含量极显著高于对照组和C组（ $\scriptstyle { \cdot } { } < 0 . 0 1$ ）。各组蛋黄中的锌含量无显著差异（ $P { > } 0 . 0 5$ ）。
+
+表6有机锌和有机锰对蛋种母鸡蛋黄中锌和锰含量的影响
+
+表5有机锌和有机锰对蛋种母鸡蛋品质的影响  
+Table 6Effects of organic zinc and organic manganese on contents of zinc and manganese in   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td rowspan="2">试验周 Trial week</td><td colspan="3">组别 Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>对照（A)</td><td>B</td><td>C</td></tr><tr><td colspan="6">Control（A）</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>16</td><td>94.61±2.02</td><td>93.74±1.91</td><td>94.85±1.99</td><td>0.921</td></tr><tr><td>锌 Zinc</td><td>32</td><td>117.55±3.75</td><td>115.23±4.72</td><td>111.59±2.63</td><td>0.524</td></tr><tr><td>锰 Manganese</td><td>16</td><td>4.54±0.11b</td><td>4.73±0.04ab</td><td>4.84±0.05a</td><td>0.026</td></tr><tr><td></td><td>32</td><td>4.22±0.09Bb</td><td>4.66±0.11Aa</td><td>4.06±0.10Bbc</td><td>0.006</td></tr></table></body></html>
+
+2.3有机锌和有机锰对蛋种母鸡血液抗氧化指标的影响
+
+由表7可知，与对照组相比，饲粮中添加有机锌和有机锰对蛋种母鸡的血液总超氧化物歧化酶（T-SOD）、Mn-SOD 和Cu/Zn-SOD 活性均无显著影响（ $P { > } 0 . 0 5$ ）。
+
+# 表7有机锌和有机锰对蛋种母鸡血液抗氧化指标的影响
+
+Table 7Effects of organic zinc and organic manganese on blood antioxidant indexes of laying   
+
+<html><body><table><tr><td colspan="4">breeder hens U/mL</td></tr><tr><td rowspan="2">项目 Items</td><td colspan="3">组别Groups</td></tr><tr><td>对照（A） Control（A)</td><td>B C</td><td>P值 P-value</td></tr><tr><td>总超氧化物歧化酶 T-SOD</td><td>4.43±0.50</td><td>4.41±0.42</td><td>4.68±0.63</td><td>0.920</td></tr><tr><td>锰超氧化物歧化酶 Mn-SOD</td><td>0.42±0.05</td><td>0.30±0.04</td><td>0.34±0.02</td><td>0.146</td></tr><tr><td>铜锌超氧化物歧化酶 Cu/Zn-SOD</td><td>4.02±0.52</td><td>4.11±0.42</td><td>4.34±0.65</td><td>0.912</td></tr></table></body></html>
+
+135 2.4有机锌和有机锰对蛋种母鸡细胞免疫功能的影响
+
+136 由表8可知，与对照组相比，饲粮中添加有机锌和有机锰对蛋种母鸡血液T淋巴细胞  
+137 亚群比例（ $\mathrm { C D } _ { 4 }$ 、 $\mathrm { C D } _ { 8 }$ 和 $\mathrm { C D _ { 4 } / C D _ { 8 } }$ ）和CBH反应均无显著影响（ $P { > } 0 . 0 5 \$ ）。
+
+表8有机锌和有机锰对蛋种母鸡血液T淋巴细胞亚群比例和CBH反应的影响
+
+Table 8Effects of organic zinc and organic manganese on blood T lymphocyte subsets proportion and CBA reaction of laying breeder hens   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="3">组别Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>对照（A） Control（A）</td><td>B</td><td>C</td></tr><tr><td>T 淋巴细胞亚群比例 Tlymphocyte subsets proportion</td><td></td><td></td><td></td><td></td></tr><tr><td>CD4/%</td><td>7.56±0.67</td><td>7.85±0.63</td><td>8.68±0.85</td><td>0.544</td></tr><tr><td>CD8/%</td><td>1.06±0.15</td><td>1.29±0.24</td><td>1.36±0.20</td><td>0.582</td></tr><tr><td>CD4/CDg</td><td>8.20±1.30</td><td>8.01±1.54</td><td>7.27±1.10</td><td>0.871</td></tr><tr><td>CBA反应 CBA reaction</td><td></td><td></td><td></td><td></td></tr><tr><td>第31周The31stweek</td><td>0.68±0.06</td><td>0.81±0.09</td><td>0.82±0.06</td><td>0.293</td></tr><tr><td>第32周 The 32ndweek</td><td>0.71±0.08</td><td>0.75±0.08</td><td>0.60±0.05</td><td>0.348</td></tr></table></body></html>
+
+3讨论
+
+3.1饲粮中添加有机锌和有机锰对蛋种母鸡生产性能的影响
+
+锌元素和锰元素作为机体重要的微量元素，参与体内多种重要物质的合成和代谢，是生长发育所必需的元素。研究指出，饲粮中添加60 和 $9 0 \mathrm { m g / k g }$ 有机锰可以显著降低3周龄肉鸡的料重比，并有提高平均日增重的趋势[7]。也有研究指出，不同的锰源对肉仔鸡的采食量和料重比无显著影响[8]。本试验中，与对照组相比，等量添加组蛋种母鸡的体重和体增重有所增加但差异不显著，这与前人的研究结果基本一致。
+
+成廷水等[9研究表明，饲粮中添加氨基酸络合形式的锌、铜和锰比添加相同剂量硫酸盐形式的锌、铜和锰能够显著提高蛋鸡的产蛋率和产蛋量。本试验中，饲粮中添加有机锌和有机锰使蛋种母鸡的平均蛋重和产蛋率增加，这与前人的研究相一致。与对照组相比，额外添加组的破蛋率极显著降低，说明添加有机锌和有机锰能提高蛋壳质量，减少破蛋的发生。微量元素可能是通过影响蛋壳及壳膜形成过程中的一些关键酶或者直接影响钙结晶体结构的形成来影响蛋壳质量。
+
+# 3.2饲粮中添加有机锌和有机锰对蛋种母鸡蛋品质的影响
+
+袁建敏等[1研究表明，饲粮中添加不同浓度的锌元素和锰元素对蛋壳颜色无显著影响。但本试验中，饲粮中添加有机锌和有机锰，试验第32周时蛋壳亮度和红度发生了显著变化，蛋壳强度、蛋壳厚度、蛋白相对高度、哈氏单位、蛋壳黄度和蛋黄比率均无显著变化。孙秋娟等[研究表明，与无机微量元素相比，蛋氨酸螯合微量元素促进了其在鸡蛋中的沉积。本试验中，与添加无机锌和无机锰相比，饲粮中添加有机锌和有机锰显著提高蛋种母鸡蛋黄中的锰含量，对蛋黄中的锌含量无显著影响，说明有机锰更容易被吸收并在蛋黄中沉积。
+
+3.3饲粮中添加有机锌和有机锰对蛋种母鸡抗氧化能力的影响
+
+超氧化物歧化酶（SOD）能够有效清除氧自由基，阻断有毒氢氧化离子的产生，保护细胞免受损伤。真核细胞中存在2种 SOD，包括 Mn-SOD 和 $\mathrm { C u / Z n  – S O D }$ 。饲粮中添加不同形式的锌元素可提高动物血清Cu/Zn-SOD 活性，且添加有机锌的效果要优于无机锌[12]。本试验中,饲粮中添加有机锌和有机锰对蛋种母鸡血液 Mn-SOD 和Cu/Zn-SOD 活性无显著影响，说明本试验中有机锌和有机锰的添加水平还不足以显著影响机体的抗氧化能力，出现这种结果的原因可能是试验中锌元素和锰元素的添加量不同以及不同试验动物生理机能有所差异。
+
+3.4饲粮中添加有机锌和有机锰对蛋种母鸡免疫功能的影响
+
+本试验通过测定T淋巴细胞亚群比例和CBA反应来衡量蛋种母鸡的细胞免疫功能。研究显示，机体缺锌时细胞免疫功能降低，外周血液 $\mathrm { C D } _ { 4 }$ 、 $\mathrm { C D } _ { 8 }$ 、 $\mathrm { C D _ { 4 } / C D _ { 8 } }$ 降低， $\mathrm { C D } _ { 4 }$ 降低最明显，补锌后恢复正常[13-14]。而本试验中，饲粮中添加有机锌和有机锰，蛋种母鸡血液中$\mathrm { C D } _ { 4 }$ 、CD8、 $\mathrm { C D _ { 4 } / C D _ { 8 } }$ 无显著变化，与前人研究相似的是， $\mathrm { C D } _ { 4 }$ 比例增加幅度最大。本试验中，饲粮中添加有机锌和有机锰对CBA反应无显著影响，但等量添加有机锌和有机锰可以在一定程度上提高CBA反应。研究指出，饲粮中添加氨基酸锌，蛋鸡的CBA反应显著高于对照组[9]；饲粮中添加有机锌、铜和锰时 CBA反应显著高于添加无机微量元素时[15]。以无机盐形式存在的微量元素在动物体内受诸多因素的影响，包括与脂类、蛋白质、纤维、草酸、氧化物和维生素的反应以及与其他矿物质、磷酸盐、植酸盐的相互作用。氨基酸螯合微量元素的生物利用率高，与维生素和抗生素无配伍禁忌，且接近于酶的天然形态，被吸收后更有利于结合到体内组分中，因此可提高免疫功能，发挥抗病作用[16]。  
+4结论  
+饲粮中添加有机锌和有机锰能够提高蛋种母鸡的平均蛋重和产蛋率，降低破蛋率，增加蛋壳强度，提高蛋品质，增加蛋黄中锰的沉积量。在本试验条件下，有机锌和有机锰与无机锌和无机锰等量添加效果最佳。  
+参考文献:  
+[1] 安晓芳.产蛋期添加锰、铜、锌对生产性能、养分利用率及部分血液生化指标的影响[D].硕士学位论文.杨凌:西北农林科技大学,2006.  
+[2] 张楠.添加锌、锰、铜、铁对蛋鸡生产性能、养分代谢及部分血浆指标的长期影响[D].硕士学位论文.杨凌:西北农林科技大学,2006.  
+[3]FAVERO A,VIEIRA S L,ANGEL C R,et al.Reproductive performance of Cobb 500 breederhens fed diets supplemented with zinc,manganese,and copper from inorganic and amino  
+acid-complexed sources[J].The Journal of Applied Poultry Research,2013,22(1):80-91.  
+[4]滑静,万善霞,张淑萍,等.有机微量元素对肉仔鸡血液生化指标和生产性能的影响[J].中国畜牧兽医,2003,30(6):10-12.  
+[5]王林,王海宏,韩向敏.有机微量元素在肉鸡上的应用[J].中国农业通  
+报,2017,33(8):135-139.  
+[6]邹璐,杨志强,李建喜,等.不同日龄仔猪外周血T淋巴细胞的检测与分析[J].浙江农业学  
+报,2017,29(08):1253-1260.  
+[7]马娅娅,SIDOEUNB,刘丹,等.不同水平有机锰(明微矿锰)对肉鸡生长、免疫力和抗氧化  
+活性的影响[J].中国家禽,2011,33(13):18-22.  
+[8]塔娜.不同锰源与锰水平对肉仔鸡生产性能和免疫机能及营养物质代谢的影响[D].硕士  
+学位论文.呼和浩特:内蒙古农业大学,2005.  
+[9]成廷水,呙于明,袁建敏.日粮中添加氨基酸络合锌、铜、锰对蛋鸡产蛋性能、免疫及组织  
+抗氧化机能的影响[J].中国家禽,2004,26(19):15-18.  
+[10]袁建敏,呙于明,吴媛媛,等.微量元素对蛋壳颜色的影响[C]//中国畜牧兽医学会动物营  
+养学分会第九届学术研讨会论文集.重庆:中国畜牧兽医学会,2004.  
+[11]孙秋娟,呙于明,张天国,等.羟基蛋氨酸螯合铜/锰/锌对产蛋鸡蛋壳品质、酶活及微量元  
+素沉积的影响[J].中国农业大学学报,2011,16(4):127-133.  
+[12]王中成,吴学壮,崔虎,等.饲粮添加不同水平果胶寡糖螯合锌对肉仔鸡生长性能、免疫功能和血清抗氧化功能的影响[J].动物营养学报,2016,28(6):1757-1764.  
+[13]虞泽鹏.锌及锌源对动物的生长、免疫调节及其分子机制研究[D].博士学位论文.无锡:江南大学,2005.  
+[14]辛华玲,韩同喜,龚书明,等.锌与锗对小鼠免疫功能及抗氧化作用的实验研究[J].中华预防医学杂志,1996,30(4):221-224.  
+[15]袁建敏,呙于明,吴四朝.日粮锰水平对蛋鸡生产性能的影响[J].中国畜牧杂志,2000,36(1):14-16.  
+[16]郑学斌,张石蕊.微量元素氨基酸螯合物[J].中国饲料,2003(7):23-24.Effects of Organic Zinc and Organic Manganese on Performance, Egg Quality, AntioxidantCapacity and Immune Function of Laying Breeding HensHAO Yangyang ZHANG Xiuxiu\* WANG Yu ZHANG ShuaiWANG ShaokunSONG
+
+Zhigang\* (Collge ofAnimal Science and Technology, Shandong Agricultural University, Tai'an 271018, China)
+
+Abstract: This study was conducted to evaluate the effects of dietary organic zinc and organic manganese on performance, egg quality, antioxidant capacity and immune function of laying breeding hens. Five hundred and seventy-six 23-week-old healthy Hy-line brown D strain grant parent laying breeding hens with similar body weight were randomly allotted to 3 groups with 12 replicates per group and 16 hens per replicate. The hens in control group (group A) were fed a basal diet supplemented with $8 0 ~ \mathrm { m g / k g }$ of zinc sulphate and $8 0 ~ \mathrm { m g / k g }$ manganese sulfate, those in equivalent addition group (group B) were fed the basal diet with $4 0 ~ \mathrm { m g / k g }$ organic zinc and 40 （204号 $\mathrm { m g / k g }$ organic manganese replaced $4 0 ~ \mathrm { m g / k g }$ of zinc sulphate and $4 0 ~ \mathrm { m g / k g }$ manganese sulfate, respectively, and the others in extra addition group (group C) were fed the diet of control group extra supplemented with $4 0 ~ \mathrm { m g / k g }$ organic zinc and $4 0 ~ \mathrm { m g / k g }$ organic manganese, respectively. The experiment lasted for 32 weeks. The results showed as follows: 1) at the $3 2 ^ { \mathrm { n d } }$ week and 1 to 32 weeks, average egg weight of laying breeding hens in group B was significantly higher than that in control group $( P { < } 0 . 0 5 )$ . At the $2 4 ^ { \mathrm { t h } }$ week, laying rate in group C was significantly higher than that in control group $( P { < } 0 . 0 5 )$ , and broken egg rate in group C was significantly lower than that in group B $( P { < } 0 . 0 5 )$ and extremely significantly lower than that in control group $( P { < } 0 . 0 1 \$ ). 2) At the $1 6 ^ { \mathrm { t h } }$ week, egg shape index of laying breeding hens in group B was significantly higher than that in the other groups $( P { < } 0 . 0 5 )$ ， and the content of manganese in egg yolk in group C was significantly higher than that in control group $( P { < } 0 . 0 5 )$ . At the $3 2 ^ { \mathrm { n d } }$ week, eggshell lightness in group C was significantly higher than that in group B ( $( P { < } 0 . 0 5 )$ , eggshell redness in groups B and C was extremely significantly higher than that in control group $( P { < } 0 . 0 1 )$ ，and the content of manganese in egg yolk in group B extremely significantly higher than that in the other groups （20 $( P { < } 0 . 0 1 )$ . 3）Dietary organic zinc and organic manganese had no significant effects on the activities of total superoxide dismutase (T-SOD), manganese superoxide dismutase (Mn-SOD), copper/zinc-superoxide dismutase (Cu/Zn-SOD) and T lymphocyte subsets proportion (CD4, CD8
+
+and $\mathrm { C D _ { 4 } / C D _ { 8 } }$ ） in blood and cutaneous basophilia allergy(CBA) reaction of laying breeding hens $( P { > } 0 . 0 5 )$ . In conclusion, dietary organic zinc and organic manganese can increase average egg weight and laying rate, decrease broken egg rate, increase eggshell strength, improve egg quality and increase the content of manganese in egg yolk of laying breeding hens. Under this experiment condition, half organic and half inorganic zinc and half organic manganese and half inorganic manganese have the best effects.   
+Key words: organic zinc; organic manganese; laying breeding hens; performance; egg quality; antioxidant capacity; immune function

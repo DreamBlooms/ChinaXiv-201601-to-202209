@@ -1,0 +1,357 @@
+# 基于IVHFWHM算子的犹豫关联多属性决策方法‘
+
+张颖，燕轶纯(中南大学 商学院，长沙 410083)
+
+摘要：针对决策属性为区间犹豫模糊数(IVHFN)且属性间相互关联的多属性决策(MADM)问题，提出一种基于区间犹豫模糊加权 Heronian 平均(IVHFWHM)算子的新型决策方法。基于IVHFN运算法则和 Heronian平均(HM)算子，提出区间犹豫模糊 Heronian 平均(IVHFHM)算子和IVHFWHM算子。研究了IVHFHM算子的置换不变性、幂等性、单调性、有界性和参数对称性等性质。建立基于IVHFWHM算子的多属性决策模型，通过MADM数值实验验证了模型的可行性与有效性。
+
+关键词：区间犹豫模糊数；Heronian平均算子；区间犹豫模糊加权Heronian平均算子；多属性决策中图分类号：TP391
+
+Hesitant multi-atribute association decision making method based on IVHFWHM operator
+
+Zhang Ying, Yan Yichun (Business School, Central South University,Changsha 410083,China)
+
+Abstract: Withrespect totheproblemsofMultipleAtributeDecision-Making in which theatribute valuesareinthe formof interval-valued Hesitant fuzzy numbers (IVHFN）andatributesare assciated witheachother.Anoveldecision-making method based on interval-valued Hesitant fuzzy weighted Heronian mean(IVHFWHM)operatoris proposed.According to theIVHFN's operationallawsand Heronian Mean(HM)operator,interval-valued Hesitant fuzzy Heronian mean(IVHFHM)operatorand IVHFWHMoperator are proposed.Then,the IVHFHM'spropertiesof permutation invariance,idempotent, monotonicity, boundedness and parameter symmetry are studied.A multiple atribute decision-making model based on IVHFWHMoperator is constructed.Finally,Anumerical exampleofMADMproblem is provided toilustratetheeffectivenessandfeasibilityof the proposed operator.
+
+KeyWords: interval-valuedhesitantfuzzy numbers;Heronianmeanoperator;interval-valued fesitantfuzzyweighted Heronian mean operator; multiple attribute decision-making
+
+# 0 引言
+
+社会信息化的快速发展,促使MADM问题的复杂度快速提升,加之人们对MADM问题认知的模糊性及问题自身的不确定性,故决策属性值多用模糊信息来体现。因决策者思维的复杂性，其给出的决策信息呈现出复杂的关联关系。近年来直觉模糊集(IFS)理论的发展很好的解决了多属性决策问题(MADM)中的模糊性,不确定性及属性间的关联性。Torra[1]和Narukawa[2]用精确数刻画IFS的隶属度,将IFS扩展为犹豫模糊集(HFS),并研究了HFS与IFS之间的区别与联系。目前的方法是假定HFS的隶属度是一个可能的精确和清晰值。然而,在很多情况下，因属性的复杂性和决策者认知程度的局限性和偏好,决策信息通常是不确定的或模糊的。因此隶属度为精确值或者清晰值难以模拟真实的决策问题，事实上,包括偏好信息在内的人类决策表述允许隶属度具有一组可能的区间数。因此将区间数引入HFS后形成的IVHFS的研究具有重要的理论和现实意义。目前多数的MADM问题的研究仅仅建立在属性相互独立的情况下,然而在决策应用中,属性之间往往并非相互独立,而或多或少存在着相互关联关系,因此研究决策信息间相互关联关系的集成方法具有重要的现实背景和理论意义。Chen 等人[3]用[0,1]上的区间数表示HFS的隶属度,提出了IVHFS概念并研究了IVHF偏好关系的MADM方法。众学者对IVHFS 融合算子的研究较高关注。文献[3]研究了IVHFWA算子、IVHFWG算子、GIVHFWA算子、GIVHFWG算子、IVHFOWA算子、IVHFOWG算子、GIVHFOWA 算子、GIVHFOWG 算子等及相关性质Wei[4]等将HFS与区间数相结合,研究了犹豫区间模糊相关的信息集结算子,如 HIVFWA 算子、HIVFOWA 算子、HIVFWG 算子、HIVFOWG 算子、HIVFFCOA算子、HIVFCOG 算子,并证明了算子的幂等性、单调性、有界性和置换不变性等性质。于倩等人[5]将IVHFS与传统的ELECTRE方法相结合研究了基于区间犹豫模糊ELECTRE的MADM方法。
+
+上述研究的IVHFS集结算子均假定属性间相互独立，因MADM问题中,属性间往往会或多或少的存在着相互关联关系，因此研究决策信息间相互关联关系的集成方法具有重要的现实背景和理论意义。基于HM算子[6-12]]能较好地处理属性间相关联的信息融合算子。Beliakov等人[7]在不等式领域很好地证明HM 算子的性质。Sykora 等人[8-9]提出广义的HM算子,并研究了其两种特殊形式。Liu 等人[10]研究了Heronian OWA 算子,在处理属性间关联特性方面与Bonferroni平均算子进行比较。于倩和侯福均[1]将 Heronian 平均算子应用在犹豫模糊语言环境下的MADM问题中,研究了HFLHM算子和HFLGHM算子及其相关性质，弥补了犹豫模糊语言信息集结算子的不足,使得决策结果更加符合实际的情况。王晓楠和巨永锋等人[12]基于Archimedean 范数将犹豫模糊集和HM 算子进行结合,研究了HFHM算子和HFWHM算子,并应用于交通流模型的选择。周晓辉和姚俭[13]将HM 算子和区间直觉模糊数相结合,研究了一种基于IVIFGWHM算子的决策方法。林显宁[I4]基于Archimedean范数将犹豫模糊语言集和HM算子进行结合，研究了HLHGM算子和HLHWGM算子。
+
+目前,关于属性间具有关联性的IVHFS 融合算子研究并不多见。为了更好地弥补IVHF环境下属性间相关联的信息算子的不足,本文分别将IVHFS与HM 算子相结合,提出IVHFHM算子和IVHFWHM 算子,研究了IVHFHM 算子的置换不变性,幂等性,单调性,有界性和参数对称性等性质，建立基于IVHFWHM算子的MADM模型,该模型不仅能够有效地捕获输入变量之间的相互联系,还能使决策者依据自身的风险偏好态度选择不同的参数进行决策。最后,将IVHFWHM算子应用在生态环境评估算例实验中,结果证明了本文研究的算子是有效的且操作简单。
+
+# 1 基础知识
+
+# 1.1IVHFS 概念
+
+定义 $\mathbf { 1 } ^ { [ 3 ] }$ 设 $X$ 为以非空集合,称 $D = \{ \langle x , g _ { D } ( x ) \rangle | x \in X \}$ 为$X$ 上的区间犹豫模糊元(IVHFE)。其中 $g _ { D } ( x ) = [ \gamma ^ { L } , \gamma ^ { U } ] ,$ （2040≤γ≤γu≤1,表示元素x属于D的若干可能隶属度构成的集合。
+
+# 1.2IVHFE运算法则
+
+定义 $\pmb { 2 } ^ { [ 3 ] }$ （204 设 $h ( x ) = [ \gamma ^ { L } , \gamma ^ { U } ] ~ , ~ h _ { 1 } ( x ) = [ \gamma _ { 1 } ^ { L } , \gamma _ { 1 } ^ { U } ]$ 和$h _ { 2 } ( x ) = [ \gamma _ { 2 } ^ { L } , \gamma _ { 2 } ^ { U } ]$ 为任意的三个IVHFE, $\lambda > 0$ ,则它们的运算法则如下：
+
+$$
+h ^ { \lambda } = \mathsf { U } _ { \gamma \in h } \{ [ ( \gamma ^ { L } ) ^ { \lambda } , ( \gamma ^ { U } ) ^ { \lambda } ] \}
+$$
+
+$$
+\lambda h _ { 1 } = \bigcup _ { \gamma _ { 1 } \in h _ { 1 } } \{ [ 1 - ( 1 - \gamma _ { 1 } ^ { L } ) ^ { \lambda } , 1 - ( 1 - \gamma _ { 1 } ^ { U } ) ^ { \lambda } ] \}
+$$
+
+$$
+\begin{array} { r } { h _ { 1 } \otimes h _ { 2 } = \bigcup _ { \gamma _ { 1 } \in h _ { 1 } , \gamma _ { 2 } \in h _ { 2 } } \{ [ \gamma _ { 1 } ^ { L } \gamma _ { 2 } ^ { L } , \gamma _ { 1 } ^ { U } \gamma _ { 2 } ^ { U } ] \} } \end{array}
+$$
+
+$$
+h _ { 1 } \oplus h _ { 2 } = \bigcup _ { \gamma _ { 1 } \in h _ { 1 } , \gamma _ { 2 } \in h _ { 2 } } \{ [ \gamma _ { 1 } ^ { L } + \gamma _ { 2 } ^ { L } - \gamma _ { 1 } ^ { L } \gamma _ { 2 } ^ { L } , \gamma _ { 1 } ^ { U } + \gamma _ { 2 } ^ { U } - \gamma _ { 1 } ^ { U } \gamma _ { 2 } ^ { U } ] \}
+$$
+
+# 1.3 IVHFE可能度
+
+定义 $3 ^ { [ 1 6 ] }$ 设任意两个 IVHFEs $h _ { 1 } = [ \boldsymbol { \gamma } _ { 1 } ^ { L } , \boldsymbol { \gamma } _ { 1 } ^ { U } ] , h _ { 2 } = [ \boldsymbol { \gamma } _ { 2 } ^ { L } , \boldsymbol { \gamma } _ { 2 } ^ { U } ]$ 则 $h _ { 1 } \geq h _ { 2 }$ 的可能度为
+
+$$
+p ( h _ { 1 } \ge h _ { 2 } ) = \operatorname* { m a x } \left\{ 1 - \operatorname* { m a x } \left( \frac { \gamma _ { 2 } ^ { U } - \gamma _ { 1 } ^ { L } } { l e n ( h _ { 1 } ) + l e n ( h _ { 2 } ) } , 0 \right) , 0 \right\}
+$$
+
+其中： $l e n ( h _ { 1 } ) = \gamma _ { 1 } ^ { U } - \gamma _ { 1 } ^ { L } , l e n ( h _ { 2 } ) = \gamma _ { 2 } ^ { U } - \gamma _ { 2 } ^ { L }$ 。
+
+令 $p _ { i j } = p ( h _ { i } \geq h _ { j } )$ ,可以得到所有元素的可能度矩阵$P = ( p _ { i j } ) _ { n \times n }$ ,其中 $p _ { i j } \ge 0 , p _ { i j } + p _ { j i } = 1$ ， $p _ { i i } = 0 . 5$ $i , j = 1 , 2 , \cdots , n$ ,通过计算可能度矩阵 $P$ 的每一行 $p _ { i } = \sum _ { j = 1 } ^ { n } p _ { i j }$ 来对IVHFE$h _ { i } = [ \gamma _ { i } ^ { L } , \gamma _ { i } ^ { U } ]$ 进行排序。
+
+# 1.4IVHFE得分函数
+
+定义4[3,4] 设任意一个IVHFE $h$ ,则 $h$ 的得分函数为
+
+$$
+S ( h ) = \frac { 1 } { \# h } \sum _ { \gamma \in h } \gamma
+$$
+
+其中：#h 为 HTFE $h$ 中的元素个数,对任意的 $\mathrm { H T F E } h _ { \scriptscriptstyle 1 }$ 和 $h _ { 2 }$ ,若$S ( h _ { 1 } ) \ge S ( h _ { 2 } )$ ,则 $h _ { 1 } \geq h _ { 2 }$ 。
+
+# 1.5 HM算子
+
+在信息集成过程中,属性间往往会存在一定的联系,如互补,冗余等。由于HM算子不仅能捕获决策属性间的内在联系,还能够考虑到每种属性的重要性,下面给出HM算子的定义。
+
+定义 $\pmb { 5 } ^ { [ 6 \sim 9 ] }$ 设非负实数集 $\left\{ a _ { 1 } , a _ { 2 } , \cdots , a _ { n } \right\}$ ,常数 $p , q \ge 0$ ，则HM算子定义如下:
+
+$$
+H M ^ { p , q } ( a _ { 1 } , a _ { 2 } , \cdots , a _ { n } ) = \left( \frac { 2 } { n ( n + 1 ) } \sum _ { i \leq j } ^ { n } a _ { i } ^ { p } a _ { j } ^ { q } \right) ^ { \frac { 1 } { p + q } }
+$$
+
+# 2 新型决策模型构建
+
+基于HM能够有效地消除属性间的关联信息,针对属性值为IVHFS 给出的且属性间存在相互关联的MADM问题,本节给出IVHFHM算子和IVHFWHM定义。
+
+# 2.1 IVHFHM算子
+
+定义6 设 $h _ { i } ( i = 1 , 2 , \cdots , n )$ 为一组IVHFE,且常数 $p , q > 0$ ，则IVHFHM算子
+
+$$
+\begin{array} { c } { { { \cal I } V H F H M ^ { p , q } ( h _ { 1 } , h _ { 2 } , \cdots , h _ { n } ) = } } \\ { { \displaystyle \left( \frac { 2 } { n ( n + 1 ) } { \left( \bigoplus _ { i = 1 , j = i } ^ { n } \left( ( h _ { i } ) ^ { p } \otimes ( h _ { j } ) ^ { q } \right) \right) } \right) ^ { \frac { 1 } { p + q } } } } \end{array}
+$$
+
+定理1 设 $h _ { i } ( i = 1 , 2 , \cdots , n )$ 为一组IVHFE，则经过 IVHFHM算子 $( \nexists ^ { \mathfrak { N } } ( 8 ) )$ 集成的结果仍是IVHFE,且有
+
+$$
+\begin{array} { l } { { \displaystyle { \cal N H F H M } ^ { p , q } ( h _ { 1 } , h _ { 2 } , \cdots , h _ { n } ) = \bigcup _ { \gamma _ { 1 } \in h _ { 1 } , \gamma _ { 2 } \in h _ { 2 } , \cdots , \gamma _ { n } \in h _ { n } } } } \\  { \displaystyle \left\{ 1 - \prod _ { i = 1 , j = i } ^ { n } \left( \left( 1 - ( \gamma _ { i } ^ { L } ) ^ { p } ( \gamma _ { j } ^ { L } ) ^ { q } \right) ^ { \frac { 2 } { n ( n + 1 ) } } \right) ^ { \frac { 1 } { p + q } } , \right\} \left\{ \begin{array} { l l } { { \displaystyle 1 - \sum _ { i = 1 , j = 1 } ^ { n } \left( \left( 1 - ( \gamma _ { i } ^ { U } ) ^ { p } ( \gamma _ { j } ^ { U } ) ^ { q } \right) ^ { \frac { 2 } { n ( n + 1 ) } } \right) ^ { \frac { 1 } { p + q } } } } \\ { { \displaystyle 1 - \prod _ { i = 1 , j = i } ^ { n } \left( \left( 1 - ( \gamma _ { i } ^ { U } ) ^ { p } ( \gamma _ { j } ^ { U } ) ^ { q } \right) ^ { \frac { 2 } { n ( n + 1 ) } } \right) ^ { \frac { 1 } { p + q } } } \left\{ \begin{array} { l l } { { \displaystyle 1 - \sum _ { i = 1 , j = 1 } ^ { n } \left( \left( 1 - ( \gamma _ { i } ^ { U } ) ^ { p } ( \gamma _ { j } ^ { U } ) ^ { q } \right) ^ { \frac { 2 } { n ( n + 1 ) } } \right) ^ { \frac { 1 } { p + q } } } } \\ { { \displaystyle 1 - \sum _ { i = 1 , j = i } ^ { n } \left( \left( 1 - ( \gamma _ { i } ^ { U } ) ^ { p } ( \gamma _ { j } ^ { U } ) ^ { q } \right) ^ { \frac { 2 } { n ( n + 1 ) } } \right) ^ { \frac { 1 } { p + q } } } } \end{array} \right\} } . } } \end{\right\array} \end{array} \end{array}
+$$
+
+证明 由式(1)可以得到
+
+$$
+\begin{array} { r l r } & { } & { ( h _ { i } ) ^ { p } = \bigcup _ { \gamma _ { i } \in h _ { i } } \left\{ \left[ ( \gamma _ { i } ^ { L } ) ^ { p } , ( \gamma _ { i } ^ { U } ) ^ { p } \right] \right\} , } \\ & { } & { ( h _ { j } ) ^ { q } = \bigcup _ { \gamma _ { j } \in h _ { j } } \left\{ \left[ ( \gamma _ { j } ^ { L } ) ^ { q } , ( \gamma _ { j } ^ { U } ) ^ { q } \right] \right\} } \end{array}
+$$
+
+由式(3)(4)进一步得到
+
+$$
+\begin{array} { c } { { \displaystyle \displaystyle \bigoplus _ { i = 1 , j = i } ^ { n } \left( ( h _ { i } ) ^ { p } \otimes ( h _ { j } ) ^ { q } \right) = \bigcup _ { \gamma _ { 1 } \in h _ { 1 } , \gamma _ { 2 } \in h _ { 2 } , \cdots , \gamma _ { n } \in h _ { n } } } } \\ { { \displaystyle \left. \mathbb T \Big [ 1 - \prod _ { i = 1 , j = i } ^ { n } \left( 1 - ( \gamma _ { i } ^ { L } ) ^ { p } ( \gamma _ { j } ^ { L } ) ^ { q } \right) , \Bigg ] } } \\ { { \displaystyle \left\lfloor 1 - \prod _ { i = 1 , j = i } ^ { n } \left( 1 - ( \gamma _ { i } ^ { U } ) ^ { p } ( \gamma _ { j } ^ { U } ) ^ { q } \right) \right\rfloor \right. } } \end{array}
+$$
+
+通过式(2)得到
+
+$$
+\begin{array} { c } { { \displaystyle \frac { 2 } { n ( n + 1 ) } \bigg ( \bigoplus _ { i = 1 , j = i } ^ { n } \left( ( h _ { i } ) ^ { p } \otimes ( h _ { j } ) ^ { q } \right) \bigg ) } } \\ { { \displaystyle } } \\ { { = \bigcup _ { \gamma _ { 1 } \in h _ { 1 } , \gamma _ { 2 } \in h _ { 2 } , \cdots , \gamma _ { n } \in h _ { n } } \left[ \left[ 1 - \prod _ { i = 1 , j = i } ^ { n } \left( 1 - ( \gamma _ { i } ^ { L } ) ^ { p } ( \gamma _ { j } ^ { L } ) ^ { q } \right) ^ { \frac { 2 } { n ( n + 1 ) } } , \right] } } \\ { { \displaystyle \qquad \left[ 1 - \prod _ { i = 1 , j = i } ^ { n } \left( 1 - ( \gamma _ { i } ^ { U } ) ^ { p } ( \gamma _ { j } ^ { U } ) ^ { q } \right) ^ { \frac { 2 } { n ( n + 1 ) } } \right] \right] } } \end{array}
+$$
+
+故由式(1)得到
+
+$$
+\begin{array} { l } { { \displaystyle { I V H F H M ^ { p , q } ( h _ { 1 } , h _ { 2 } , \cdots , h _ { n } ) = \left( \frac { 2 } { n ( n + 1 ) } \Biggl ( \bigoplus _ { i = 1 , j = i } ^ { n } \left( ( h _ { i } ) ^ { p } \otimes ( h _ { j } ) ^ { q } \right) \right) ^ { \frac { 1 } { p + q } } } } } \\ { { \displaystyle { = \bigcup _ { \gamma _ { 1 } \in h _ { 1 } , \gamma _ { 2 } \in h _ { 2 } , \cdots , \gamma _ { n } \in h _ { n } } \left\{ \left[ \overline { { \gamma } } ^ { L } , \overline { { \gamma } } ^ { U } \right] \right\} } } } \end{array}
+$$
+
+其中:
+
+$$
+\overline { { { \gamma } } } ^ { L } = 1 - \prod _ { i = 1 , j = i } ^ { n } \left( \Big ( 1 - ( \gamma _ { i } ^ { L } ) ^ { p } ( \gamma _ { j } ^ { L } ) ^ { q } \Big ) ^ { \frac { 2 } { n ( n + 1 ) } } \right) ^ { \frac { 1 } { p + q } }
+$$
+
+$$
+\overline { { { \gamma } } } ^ { U } = 1 - \prod _ { i = 1 , j = i } ^ { n } \left( \Big ( 1 - ( \gamma _ { i } ^ { U } ) ^ { p } ( \gamma _ { j } ^ { U } ) ^ { q } \Big ) ^ { \frac { 2 } { n ( n + 1 ) } } \right) ^ { \frac { 1 } { p + q } }
+$$
+
+由IVHFE 的定义知, $0 \leq \gamma _ { i } ^ { L } \leq 1 , 0 \leq \gamma _ { i } ^ { U } \leq 1$ ,则经过IVHFE 的运算法则进行计算后,得到 $0 \leq \overline { { \gamma } } ^ { L } \leq \overline { { \gamma } } ^ { U } \leq 1$ 。
+
+因此定理1得证
+
+下面探讨IVHFHM算子的一些基本性质,主要包括幂等性,置换不变性，单调性,有界性和参数对称性。
+
+性质1幂等性。设 $h _ { i } ( i = 1 , 2 , \cdots , n )$ 为一组IVHFE,如对任意 $h _ { \scriptscriptstyle i }$ 满足 $h _ { i } = [ \boldsymbol { \gamma } _ { i } ^ { L } , \boldsymbol { \gamma } _ { i } ^ { U } ] = h = [ \boldsymbol { \gamma } ^ { L } , \boldsymbol { \gamma } ^ { U } ]$ 则有
+
+$$
+I V H F H M ^ { p , q } ( h _ { 1 } , h _ { 2 } , \cdots , h _ { n } ) = h
+$$
+
+证明
+
+$$
+\begin{array} { l } { { { \cal N } { \cal H } { \cal F } { \cal H } { \cal M } ^ { p , q } ( h _ { 1 } , h _ { 2 } , \cdots , h _ { n } ) = \bigcup _ { \substack { \gamma _ { 1 } \circ h _ { 1 } , \gamma _ { 2 } \circ h _ { 2 } , \cdots , \gamma _ { 2 } \circ h _ { n } } } } } \\ { { \displaystyle \{ [ 1 - \prod _ { j = 1 , j = i } ^ { n } ( ( 1 - ( \gamma _ { i } ^ { L } ) ^ { p } ( \gamma _ { i } ^ { L } ) ^ { q } ) ^ { \frac { 2 } { p ( n + 1 ) } } ) ^ { \frac { 1 } { p ( n + 1 ) } } ] \} } \Biggl . \qquad } \\ { { \displaystyle [ 1 - \prod _ { j = 1 , j = i } ^ { n } ( ( 1 - ( \gamma _ { i } ^ { U } ) ^ { p } ( \gamma _ { i } ^ { U } ) ^ { q } ) ^ { \frac { 2 } { n ( n + 1 ) } } ) ^ { \frac { 1 } { p ( n + 1 ) } } ] \} } } \\ { { \displaystyle  \bigcup _ { \gamma _ { 1 } \circ h _ { 1 } , \gamma _ { 2 } \circ h _ { 2 } \circ h _ { 2 } \circ \gamma _ { 2 } \circ h _ { 2 } } [ [ 1 - ( 1 - \gamma _ { i } ^ { L } ) ] ] \} = h _ { 1 } } } \end{array}
+$$
+
+性质2置换不变性。设 $h _ { i } ( i = 1 , 2 , \cdots , n )$ 为一组IVHFE,对$h _ { \scriptscriptstyle i }$ 的任意一个置换 $\overline { { h } } _ { i } ( i = 1 , 2 , \cdots , n )$ ,则有
+
+$$
+I V H F H M ^ { p , q } ( \overline { { h } } _ { 1 } , \overline { { h } } _ { 2 } , \cdots , \overline { { h } } _ { n } ) = I V H F H M ^ { p , q } ( h _ { 1 } , h _ { 2 } , \cdots , h _ { n } )
+$$
+
+证明 因为
+
+$$
+\begin{array} { r l } & { \mathit { T h e H e H M ^ { \prime } C } ( \hat { \phi } _ { 1 } , \hat { \phi } _ { 2 } , \ldots , \hat { \phi } _ { k } ) } \\ &  = \bigcup _ { \substack { \mathcal { N } _ { \mathrm { s h } , \{ \phi _ { 2 } , \phi _ { 3 } , \ldots , \phi _ { 4 } \} } } } [ [ 1 - \prod _ { \substack { i = 1 , \ldots , N \} } ^ { \hat { \mathcal { N } } _ { 1 } } ( ( 1 - ( \bar { Y } _ { 1 } ^ { ( i ) } ) ^ { p } ( \bar { Y } _ { 2 } ^ { p } ) ^ { \frac { 1 } { p + 1 } } ) ) ^ { \frac { 1 } { p + 1 } } ) ] } \\ &  = \bigcup _  \substack { \mathcal { N } _ { \mathrm { s h } , \{ \phi _ { 2 } , \phi _ { 3 } \} , \ldots , \phi _ { 4 } \} } } [ [ 1 - \prod _ { \substack { i = 1 , \ldots , N \} } ^ { \hat { \mathcal { N } } _ { 1 } } ( ( 1 - ( \bar { Y } _ { 1 } ^ { ( i ) } ) ^ { p } ( \bar { Y } _ { 2 } ^ { p } ) ^ { \frac { 1 } { p } } ) ^ { \frac { 1 } { p + 1 } } ) ^ { \frac { 1 } { p + 1 } } ) ] } \\ &  \qquad [ 1 - \prod _ { \substack { i = 1 , \ldots , N \} } ^ { \hat { \mathcal { N } } _ { 1 } } ( ( 1 - ( \bar { Y } _ { 1 } ^ { ( i ) } ) ^ { p } ( \bar { Y } _ { 2 } ^ { p } ) ^ { \frac { 1 } { p } } ) ^ { \frac { 1 } { p + 1 } } ) ^ { \frac { 1 } { p + 1 } } ) ] } \\ &  - \bigcup _  \substack { \mathcal { N } _ { \mathrm { s h } , \{ \phi _ { 2 } , \phi _ { 3 } \} , \ldots , \phi _ { 4 } \} } } [ 1 - \prod _ { \substack { i = 1 , \ldots , N \} } ^ { \hat { \mathcal { N } } _ { 1 } } ( ( 1 - ( \bar { Y } _ { 1 } ^ { ( i ) } ) ^ { p } ( \bar { Y } _ { 2 } ^ { p } ) ^ { \frac { 1 } { p + 1 } } ) ^ { \frac { 1 } { p + 1 } } ) ] } \\ &  \quad \ldots \prod _  \substack { \mathcal { N } _ { \mathrm { s h } , \{ \phi _ { 2 } , \phi _ { 3 } \} , \ldots , N \phi _ { 4 } } } [ 1 - \prod _  \substack { i = 1 , \ldots , N \} } ^ { \hat { \mathcal { N } } _ { 1 } } ( 1 - ( \bar { Y } _ { 1 } ^ { ( i ) } ) ^ { p } ( \bar { Y } _ { 2 } ^ { p }  \end{array}
+$$
+
+性质3单调性。设IVHFE $\left\{ h _ { 1 } , h _ { 2 } , \cdots , h _ { n } \right\}$ 与 $\left\{ \hat { h } _ { 1 } , \hat { h } _ { 2 } , \cdots , \hat { h } _ { n } \right\}$ 且对任意 $i = 1 , 2 , \cdots , n$ 都有 $h _ { \scriptscriptstyle i } \geq \hat { h } _ { \scriptscriptstyle i }$ ,即有 $\gamma _ { i } ^ { L } \geq \hat { \gamma } _ { i } ^ { L } , \gamma _ { i } ^ { U } \geq \hat { \gamma } _ { i } ^ { U }$ 则有
+
+$$
+I V H F H M ^ { p , q } ( h _ { 1 } , h _ { 2 } , \cdots , h _ { n } ) \geq I V H F H M ^ { p , q } ( \hat { h } _ { 1 } , \hat { h } _ { 2 } , \cdots , \hat { h } _ { n } )
+$$
+
+证明因为 $\gamma _ { i } ^ { L } \geq \hat { \gamma } _ { i } ^ { L } , \gamma _ { i } ^ { U } \geq \hat { \gamma } _ { i } ^ { U }$ ， $p , q > 0$ 由函数单调性和IVHFN运算法则得到
+
+$$
+\left( \gamma _ { i } ^ { L } \right) ^ { p } \left( \gamma _ { j } ^ { L } \right) ^ { q } \geq \left( \hat { \gamma } _ { i } ^ { L } \right) ^ { p } \left( \hat { \gamma } _ { j } ^ { L } \right) ^ { q } , \left( \gamma _ { i } ^ { U } \right) ^ { p } \left( \gamma _ { j } ^ { U } \right) ^ { q } \geq \left( \hat { \gamma } _ { i } ^ { U } \right) ^ { p } \left( \hat { \gamma } _ { j } ^ { U } \right) ^ { q }
+$$
+
+进而得到
+
+$$
+\prod _ { i = 1 , j = i } ^ { n } \left( \left( 1 - \left( \gamma _ { i } ^ { L } \right) ^ { p } \left( \gamma _ { j } ^ { L } \right) ^ { q } \right) ^ { \frac { 2 } { n ( n + 1 ) } } \right) ^ { \frac { 1 } { p + q } } \leq \prod _ { i = 1 , j = i } ^ { n } \left( \left( 1 - \left( \hat { \gamma } _ { i } ^ { L } \right) ^ { p } \left( \hat { \gamma } _ { j } ^ { L } \right) ^ { q } \right) ^ { \frac { 2 } { n ( n + 1 ) } } \right) ^ { \frac { 2 } { p + q } }
+$$
+
+$$
+\prod _ { i = 1 , j = i } ^ { n } \left( \left( 1 - \left( \gamma _ { i } ^ { U } \right) ^ { p } \left( \gamma _ { j } ^ { U } \right) ^ { q } \right) ^ { \frac { 2 } { n ( n + 1 ) } } \right) ^ { \frac { 1 } { p + q } } \leq \prod _ { i = 1 , j = i } ^ { n } \left( \left( 1 - \left( \hat { \gamma } _ { i } ^ { U } \right) ^ { p } \left( \hat { \gamma } _ { j } ^ { U } \right) ^ { q } \right) ^ { \frac { 2 } { n ( n + 1 ) } } \right) ^ { \frac { 2 } { p + q } }
+$$
+
+从而得到
+
+$$
+1 - \prod _ { i = 1 , j = i } ^ { n } \left( \left( 1 - \left( \gamma _ { i } ^ { L } \right) ^ { p } \left( \gamma _ { j } ^ { L } \right) ^ { q } \right) ^ { \frac { 2 } { n ( n + 1 ) } } \right) ^ { \frac { 1 } { p + q } } \geq 1 - \prod _ { i = 1 , j = i } ^ { n } \left( \left( 1 - \left( \hat { \gamma } _ { i } ^ { L } \right) ^ { p } \left( \hat { \gamma } _ { j } ^ { L } \right) ^ { q } \right) ^ { \frac { 2 } { n ( n + 1 ) } } \right) ^ { \frac { 1 } { p + q } }
+$$
+
+$$
+1 - \prod _ { i = 1 , j = i } ^ { n } \left( \left( 1 - \left( \gamma _ { i } ^ { U } \right) ^ { p } \left( \gamma _ { j } ^ { U } \right) ^ { q } \right) ^ { \frac { 2 } { n ( n + 1 ) } } \right) ^ { \frac { 1 } { p + q } } \geq 1 - \prod _ { i = 1 , j = i } ^ { n } \left( \left( 1 - \left( \hat { \gamma } _ { i } ^ { U } \right) ^ { p } \left( \hat { \gamma } _ { j } ^ { U } \right) ^ { q } \right) ^ { \frac { 2 } { n ( n + 1 ) } } \right) ^ { \frac { 1 } { p + q } }
+$$
+
+$$
+I V H F H M ^ { p , q } ( h _ { 1 } , h _ { 2 } , \cdots , h _ { n } ) \geq I V H F H M ^ { p , q } ( \hat { h } _ { 1 } , \hat { h } _ { 2 } , \cdots , \hat { h } _ { n } )
+$$
+
+性质4有界性。设 $\{ h _ { 1 } , h _ { 2 } , \cdots , h _ { n } \}$ 为任意一组IVHFE,对任意 $i = 1 , 2 , \cdots , n$ ,都有
+
+$$
+h ^ { - } \leq I V H F H M ^ { \textit { p , q } } ( h _ { 1 } , h _ { 2 } , { \cdots } , h _ { n } ) \leq h ^ { + }
+$$
+
+其中：
+
+$$
+\begin{array} { r l } & { \boldsymbol { h ^ { - } } = \operatorname* { m i n } \{ h _ { 1 } , h _ { 2 } , \cdots , h _ { n } \} = [ \operatorname* { m i n } _ { i } \gamma _ { i } ^ { L } , \operatorname* { m i n } _ { i } \gamma _ { i } ^ { U } ] } \\ & { \boldsymbol { h ^ { + } } = \operatorname* { m a x } \{ h _ { 1 } , h _ { 2 } , \cdots , h _ { n } \} = [ \operatorname* { m a x } _ { i } \gamma _ { i } ^ { L } , \operatorname* { m a x } _ { i } \gamma _ { i } ^ { U } ] } \end{array}
+$$
+
+证明：根据单调性性质易证有界性成立,此处略。
+
+性质5参数对称性。设 $\{ h _ { 1 } , h _ { 2 } , \cdots , h _ { n } \}$ 为任意一组IVHFE,参数 $p > 0 , q > 0$ ,对任意 $i = 1 , 2 , \cdots , n$ ,都有
+
+$$
+I V H F H M ^ { p , q } ( h _ { 1 } , h _ { 2 } , \cdots , h _ { n } ) = I V H F H M ^ { q , p } ( h _ { 1 } , h _ { 2 } , \cdots , h _ { n } )
+$$
+
+证明因为
+
+$$
+I V H F H M ^ { p , q } ( h _ { 1 } , h _ { 2 } , \cdots , h _ { n } ) = \left( \frac { 2 } { n ( n + 1 ) } \left( \bigoplus _ { i = 1 , j = i } ^ { n } \left( ( h _ { i } ) ^ { p } \otimes ( h _ { j } ) ^ { q } \right) \right) \right) ^ { \frac { 1 } { p + q } }
+$$
+
+$$
+= \left( \frac { 2 } { n ( n + 1 ) } \left( \bigoplus _ { i = 1 , j = i } ^ { n } \left( ( h _ { i } ) ^ { q } \otimes ( h _ { j } ) ^ { p } \right) \right) \right) ^ { \frac { 1 } { q + p } } = I V H F H M ^ { q , p } ( h _ { 1 } , h _ { 2 } , \cdots , h _ { n } )
+$$
+
+因此式(14)得证。
+
+# 2.2IVHFWHM算子
+
+基于以上的研究，IVHFHM算子能消除属性间的相互关联性,是一种新型IVHFE信息集成算子，但是现实的环境中,属性的不同导致权重的不同,基于此,提出IVHFWHM算子。
+
+定义7设 $h _ { i } ( i = 1 , 2 , \cdots , n )$ 为一组IVHFE,且常数 $p , q \ge 0$ $w = ( w _ { 1 } , w _ { 2 } , \cdots , w _ { n } ) ^ { T }$ 为权重向量,则VHFWHM算子
+
+$$
+\begin{array} { l } { { \displaystyle I V H F W H M ^ { p , q } ( h _ { 1 } , h _ { 2 } , \cdots , h _ { n } ) } } \\ { { \displaystyle = \left( \frac { 2 } { n ( n + 1 ) } \Biggl ( \bigoplus _ { i = 1 , j = i } ^ { n } \left( ( w _ { i } h _ { i } ) ^ { p } \otimes ( w _ { j } h _ { j } ) ^ { q } \right) \Biggr ) \right) ^ { \frac { 1 } { p + q } } } } \end{array}
+$$
+
+定理2设 $h _ { i } ( i = 1 , 2 , \cdots , n )$ 为一组IVHFE，且常数 $p , q \ge 0$ ，$w = ( w _ { 1 } , w _ { 2 } , \cdots , w _ { n } ) ^ { T }$ 为IVHFE 的权重向量,则经过IVHFWHM算子(式(15))集成后的结果仍是IVHFE,且有
+
+$$
+I V H F W H M ^ { p , q } ( h _ { 1 } , h _ { 2 } , \cdots , h _ { n } ) = \bigcup _ { \gamma _ { 1 } \in h _ { 1 } , \gamma _ { 2 } \in h _ { 2 } , \cdots , \gamma _ { n } \in h _ { n } } \left\{ \left[ \hat { \gamma } ^ { L } , \hat { \gamma } ^ { U } \right] \right\}
+$$
+
+其中
+
+$$
+\hat { \gamma } ^ { L } = 1 - \prod _ { i = 1 , j = i } ^ { n } \left( \Big ( 1 - ( ( 1 - \gamma _ { i } ^ { L } ) ^ { w _ { i } } ) ^ { p } ( ( 1 - \gamma _ { j } ^ { L } ) ^ { w _ { j } } ) ^ { q } \Big ) ^ { \frac { 2 } { n ( n + 1 ) } } \right) ^ { \frac { 1 } { p + q } }
+$$
+
+$$
+\widehat { \gamma } ^ { U } = 1 - \prod _ { i = 1 , j = i } ^ { n } \left( \Big ( 1 - ( ( 1 - \gamma _ { i } ^ { U } ) ^ { w _ { i } } ) ^ { p } ( ( 1 - \gamma _ { j } ^ { U } ) ^ { w _ { j } } ) ^ { q } \Big ) ^ { \frac { 2 } { n ( n + 1 ) } } \right) ^ { \frac { 1 } { p + q } }
+$$
+
+定理2的证明过程类似定理1。限于篇幅,此处略。
+
+# 3 基于IVHFWHM算子的MADM模型
+
+针对某一MADM问题,其中待选的方案集 $\{ A _ { 1 } , A _ { 2 } , \cdots , A _ { m } \}$ ,每个方案对应的属性集为 $\{ G _ { 1 } , G _ { 2 } , \cdots , G _ { n } \}$ ,且每一个属性对应的权重分别为 $w _ { k } ( k = 1 , 2 , \cdots , n )$ 。在IVHF环境下,决策者针对方案$A _ { i } ( i = 1 , 2 , \cdots , n )$ 的属性 $G _ { j } ( j = 1 , 2 , \cdots , m )$ 的评价信息为$h _ { i j } = [ \gamma _ { i j } ^ { L } , \gamma _ { i j } ^ { U } ]$ ,则决策信息构成区间犹豫模糊矩阵 $H = ( h _ { i j } ) _ { m \times n }$ 。
+
+模型步骤如下：
+
+a)根据属性的特性对 $H = ( h _ { i j } ) _ { m \times n }$ 进行标准化处理得到标准化区间犹豫模糊矩阵 $\tilde { H } = ( \tilde { h } _ { i j } ) _ { m \times n }$
+
+$$
+\begin{array} { r } { \tilde { h } _ { i j } = = \left\{ \begin{array} { l l } { h _ { i j } } & { G _ { j } \mathcal { H } _ { j } \divideontimes \chi _ { \mathrm { m i n } } \ �uperscript { \nearrow } \frac { 1 } { 2 } , \qquad \forall \frac { 1 } { 2 } , } \\ { h _ { i j } ^ { c } } & { G _ { j } \mathcal { H } _ { j } \subset \mathbb { K } _ { \pm } \underline { { \pi } } , \qquad \Longleftrightarrow \frac { 1 } { 2 } , \qquad \forall \frac { 1 } { 2 } . } \end{array} \right. } \end{array}
+$$
+
+b)根据区间犹豫模糊决策矩阵 $H$ 和属性权重向量 $w$ ,利用IVHFWHM 算子(式(16))对方案 $A _ { i }$ 进行信息集成得到综合评价信息 $\tilde { h } _ { \scriptscriptstyle i }$ $( i = 1 , 2 , \cdots , n )$ 。
+
+c)通过IVHFE 的得分函数分别计算方案 $A _ { i }$ 的得分函数$\mathfrak { s } ( \tilde { h } _ { i } ) \ ( i = 1 , 2 , \cdots , n )$ 。
+
+d)根据步骤 b)中的得分函数 $s ( \tilde { h _ { i } } )$ ，由式(5)构造出可能度矩阵 $P = \left( p _ { i j } \right) _ { n \times n }$ ,并计算 $p _ { i } = \sum _ { j = 1 } ^ { n } p _ { i j } , i = 1 , 2 , \cdots , n$ 的大小来对 $s ( \tilde { h _ { i } } )$ $( i = 1 , 2 , \cdots , n )$ 进行大小排序。
+
+e)根据得分函数 $s ( \tilde { h _ { i } } )$ 的排序对方案 $A _ { i }$ 进行优劣排序,选出最优的方案。
+
+# 4 实例分析
+
+随着社会现代化的快速发展，社会的生态环境维护也是发展中重要的一环,2016年湖南省环保局以培育环境治理和生态保护市场为主体，加快推进生态环保领域供给侧结构性改革为主题。结合《湖南省“十三五”环境保护规划》，以全省生态环境质量明显改善，主要污染物排放总量大幅减少，环境风险得到有效控制，生态安全基本得到保障为目标。准备在全省范围内进行生态环保项目落地实施试点,第一批实施试点城市主要有长沙市 $A _ { 1 }$ ,郴州市 $A _ { 2 }$ ,湘潭市 $A _ { 3 }$ ,岳阳市 $A _ { 4 }$ ,常德市 $\mid A _ { 5 }$ 等城市，在实施的过程中需要对项目方案地的实施风险阻力因素 $G _ { \mathrm { { \scriptscriptstyle 1 } } }$ ，空气质量因素 $G _ { 2 }$ ,地表水质质量因素 $G _ { 3 }$ ,城市功能区噪声因素 $G _ { 4 }$ 进行综合评估，由于在评估中,地表水质质量好的地方,空气质量也往往不错,同时城市功能区的噪声也会少很多，进而实施的风险系数就会降低。为了真实的刻画出评估专家的评价信息,决策属性值以IVHFE给出，其各评价属性的权重为$w = ( 0 . 2 5 , 0 . 1 5 , 0 . 2 0 , 0 . 4 0 ) ^ { T }$ 。故区间犹豫模糊决策矩阵$H = ( h _ { i j } ) _ { m \times n }$ 如表1所示。
+
+表1区间犹豫模糊矩阵 $H _ { 5 \times 4 }$   
+
+<html><body><table><tr><td></td><td>G</td><td>G2</td><td>G</td><td>G4</td></tr><tr><td>A1</td><td>([0.2,0.3], [0.3,0.4])</td><td>([0.2,0.5])</td><td>([0.7,0.8], [0.8,0.9])</td><td>([0.4,0.5])</td></tr><tr><td rowspan="2">A2</td><td>([0.4,0.5],</td><td>([0.3,0.4],</td><td></td><td>([0.5,0.6],</td></tr><tr><td>[0.5, 0.6])</td><td>[0.6,0.7])</td><td>([0.3,0.4])</td><td>[0.8,0.9])</td></tr><tr><td rowspan="2">A3</td><td>([0.5,0.7])</td><td>([0.2,0.3],</td><td>([0.8,0.9],</td><td>([0.3,0.5])</td></tr><tr><td></td><td>[0.4,0.5])</td><td>[0.9,1.0])</td><td></td></tr><tr><td>A4</td><td>([0.3,0.4], [0.7,0.8])</td><td>([0.1,0.3])</td><td>([0.6,0.7], [0.8,0.9])</td><td>([0.5,0.7])</td></tr><tr><td>A5</td><td>([0.2,0.3])</td><td>([0.4,0.6])</td><td>([0.2,0.3], [0.6,0.7])</td><td>([0.6,0.7])</td></tr></table></body></html>
+
+具体决策过程如下,本文取 $p = 1 , q = 1$
+
+a)由于实施地的的实施风险阻力因素,空气质量因素,地表水质量因素,城市功能区噪声因素四种属性中，空气质量因素，地表水质量因素为效益型属性,实施风险阻力因素和城市功能区噪声因素为成本型属性，所以通过式(17)对区间犹豫模糊矩阵$H$ 进行标准化处理。
+
+b)利用IVHFWHM算子(式(16))对方案地 $\mathbf { \mathcal { A } } _ { i }$ 进行信息集成得到综合评价信息 $\tilde { h } _ { i } ( i = 1 , 2 , 3 , 4 , 5 )$ ,即
+
+$$
+\begin{array} { l } { { \displaystyle h _ { 1 } = N H F W H M ^ { 1 1 } ( h _ { 1 } , h _ { 2 } , h _ { 3 } , h _ { 4 } ) = \bigcup _ { z \in h _ { 1 } , z \in h _ { 2 } , z \in h _ { 3 } , z \in h _ { 3 } , z \in h _ { 4 } } } } \\ { { \displaystyle [ 1 - \prod _ { i = 1 , z = i - 1 } ^ { 4 } ( \big ( 1 - ( ( 1 - \gamma _ { i } ^ { L } ) ^ { w } ) ( ( ( 1 - \gamma _ { j } ^ { L } ) ^ { n } ) \big ) ^ { \frac { 2 } { 3 0 } } ) ^ { \frac { 1 } { 2 0 } } ) ^ { \frac { 1 } { 2 0 } } ] } } \\ { { \displaystyle [ 1 - \prod _ { i = 1 , z = i - 1 } ^ { 4 } ( \big ( 1 - ( ( 1 - \gamma _ { i } ^ { U } ) ^ { w } ) ( ( ( 1 - \gamma _ { j } ^ { U } ) ^ { w } ) ) ^ { \frac { 2 } { 3 0 } } \big ) ^ { \frac { 1 } { 2 0 } } ) ^ { \frac { 1 } { 2 0 } } ] } } \\ { { \displaystyle [ 0 . \big [ 0 . 7 5 4 , 0 . 8 2 7 6 ] \big ( 1 - ( 1 - ( 1 - \gamma _ { i } ^ { U } ) ^ { w } ) ( ( 1 - \gamma _ { j } ^ { U } ) ^ { 3 } ) ^ { \frac { 2 } { 3 0 } } \big ) ^ { \frac { 1 } { 2 0 } } ] } } \end{array}
+$$
+
+同理得到
+
+$$
+\begin{array} { r l } &  \begin{array} { r l } & { \tilde { h } _ { 2 } - N H T V ^ { \prime } V H M ^ { 3 \prime } ( \hat { R } _ { 1 } , \hat { R } _ { 2 } , \hat { R } _ { 2 } , \hat { R } _ { 3 } , \hat { R } _ { 3 } ) } \\ & { = \Bigl [ ( \Omega \gamma ^ { 2 } \Lambda ( 1 ) , \Omega \cap \Omega ) \Bigr [ | \Omega ^ { 3 } \cap \Omega   \Bigr ] } \\ & {  - \bigcup _ { 3 \leq t \leq r \leq r , \eta \leq r , \eta \leq r } [ [ \Omega ( \Omega \leq 2 \lambda ) , \Omega \operatorname { S R } \hat { \times } \hat { } \hat { } ] ] \Bigl [ \Omega ^ { 1 } \cap \Omega ^ { 2 } | \Omega ^ { 3 }  \hat { } _ { 3 } , \Omega \operatorname { S R } \hat { } _ { 2 } \hat { } ] \Bigr ] } \\ & { \tilde { h } _ { 3 } - \mathrm { D i } \mathcal { R } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \hat { H } \Bigr ] } \\ &  = \Bigl [ \operatorname* { D i } _  \gamma \leq t \leq r \leq r , \eta \leq r \leq r \leq r \leq r \leq r \leq r \leq r \leq r \leq r \leq r \leq r \leq r \leq r \leq r \leq r \leq r \leq r \leq r \leq r \} \\ & { \tilde { h } _ { 4 } - N \eta \mathcal { H } T V H M ^ { 3 \prime } ( \hat { H } _ { 4 } , \hat { R } _ { 4 } , \hat { R } _ { 3 } , \hat { R } _ { 4 } , \hat { R } _ { 3 } ) } \\ &  = \Bigl [ [ \Omega \gamma \leq r , \eta \leq r \leq r ] \Bigr ] \Bigl [ \Omega \gamma \leq \log ( \Omega ) \Bigr  \end{array} \end{array}
+$$
+
+c)通过IVHFE 的得分函数(式(6))分别计算方案地 $A _ { i }$ 的得分函数分别为 $s ( \tilde { h _ { 1 } } ) = [ 0 . 8 3 0 4 , 0 . 8 7 1 0 ]$ ，$s ( \tilde { h } _ { 2 } ) = [ 0 . 8 4 2 3 , 0 . 8 6 8 0 ] \qquad , \qquad s ( \tilde { h } _ { 3 } ) = [ 0 . 8 5 3 7 , 0 . 8 9 6 6 ]$ $s ( \tilde { h } _ { 4 } ) = [ 0 . 8 4 3 4 , 0 . 8 8 4 5 ] , s ( \tilde { h } _ { 5 } ) = [ 0 . 8 3 0 8 , 0 . 8 6 3 5 ] _ { \circ }$
+
+d)根据步骤b)中的得分函数 $s ( \tilde { h _ { i } } )$ ，由式(5)构造出可能度矩阵 $P = \left( p _ { i j } \right) _ { n \times n }$
+
+$$
+P = { \left( \begin{array} { l l l l l } { 0 . 5 0 0 } & { 0 . 4 1 8 } & { 0 . 3 9 3 } & { 0 . 2 7 5 } & { 0 . 4 8 2 } \\ { 0 . 5 8 2 } & { 0 . 5 0 0 } & { 0 . 3 0 2 } & { 0 . 8 0 4 } & { 0 . 5 1 8 } \\ { 0 . 6 0 7 } & { 0 . 7 8 2 } & { 0 . 5 0 0 } & { 0 . 6 0 7 } & { 0 . 7 8 8 } \\ { 0 . 7 2 5 } & { 0 . 1 9 6 } & { 0 . 3 9 3 } & { 0 . 5 0 0 } & { 0 . 6 9 8 } \\ { 0 . 5 1 8 } & { 0 . 4 8 2 } & { 0 . 2 1 2 } & { 0 . 3 0 2 } & { 0 . 5 0 0 } \end{array} \right) }
+$$
+
+通过计算 $p _ { i } = \sum _ { j = 1 } ^ { n } p _ { i j }$ 的大小来对 $s ( \tilde { h } _ { i } )$ 进行排序为$s ( \tilde { h } _ { 3 } ) > s ( \tilde { h } _ { 4 } ) > s ( \tilde { h } _ { 2 } ) > s ( \tilde { h } _ { 5 } ) > s ( \tilde { h } _ { 1 } ) \ ,$
+
+e)根据步骤d)中结果对试点方案地 $A _ { i }$ 进行优劣排序,通过IVHFWHM决策模型得到的各方案地的排序为 $\mathrm { \langle { A _ { 3 } } \mathrm { > { A _ { 4 } } \mathrm { > { A _ { 2 } } \mathrm { > { A _ { 5 } } \mathrm { > { A _ { 1 } } } } } } }$ ，最优的试点方案地为 $\mathbf { A } _ { 3 }$ 。
+
+对比分析文献[3]中的IVHFWA算子和IVHFWG算子,文献[4]中的HIVFCOA算子和HIVFCOG算子和文献[5]中的IVHF
+
+ELECTRE方法,得到各方案的排序结果如表2所示。
+
+表2各方案排序结果表  
+
+<html><body><table><tr><td>决策算子或者方法</td><td>各试点方案地的排序</td></tr><tr><td>本文IVHFWHM算子</td><td>A3>A4>A>A5>A1</td></tr><tr><td>文献[3]中IVHFWA 算子</td><td>A>A4>A>A5>A1</td></tr><tr><td>文献 3]中IVHFWG 算子</td><td>A>A>A4>A5>A1</td></tr><tr><td>文献[5]中IVHFELECTRE方法</td><td>A4>A5>A3>A>A1</td></tr><tr><td>文献[4]中HIVFCOA算子</td><td>A3>A4>A2>A5>A1</td></tr><tr><td>文献[4]中HIVFCOG 算子</td><td>A>A>A4>A5>A1</td></tr></table></body></html>
+
+通过对比分析知,文献[3]中的IVHFWA算子和IVHFWG算子得到的最优方案地为 $\mathbf { A } _ { 2 }$ ,文献[5]中的IVHFELECTRE方法得到的最优方案地为A4,这和本文得出的最优方案地A3不同,且各方案地的排序也稍有不同。文献[3]和文献[5]主要研究的是属性间独立的情况,暂未考虑输入属性间的相互关联性。然而在此生态环保项目试点方案地评估中,地表水质质量好的地方,空气质量也往往不错,同时城市功能区的噪声也会少很多,进而实施的风险系数就会降低,因此这些评价属性信息之间会存在相互的冗余,互补等关联关系,因此只有充分考虑属性间的相互关联性才能使得决策更加的合理。文献[4]中将HIVFE 和模糊测度Choquet积分相结合,研究了HIVFCOA算子和HIVFCOG算子,这两个算子充分考虑了输入信息间的关联特性,因此得到的最优方案也为 $\mathbf { A } _ { 3 }$ 但是HIVFCOA算子和HIVFCOG算子中的模糊测度具有一定的主观特性且求解过程较为复杂。综上,本文研究的IVHFWHM算子更加适合现实情况且可操作性强。
+
+下面进一步分析IVHFWHM 算子中参数 $p , q$ 对信息融合结果的影响,设置参数 $p , q$ 为不同的数值进行数值实验，实验结果见图1和2所示,当固定参数 $q$ 时，各试点方案地的评估得分值随着参数 $p$ 的变大而呈现逐渐变小的趋势,如图1所示。此时各试点方案地的优劣排序为 $\mathrm { \langle { A } _ { 3 } \mathrm { > { A } _ { 4 } \mathrm { > { A } _ { 2 } \mathrm { > { A } _ { 5 } \mathrm { > { A } _ { 1 } } } } } }$ 最优试点方案地为 $\mathbf { A } _ { 3 }$ 。当固定参数 $p$ 时,各试点方案地的评估得分值随着参数 $q$ 的变大而呈现逐渐变小的趋势，如图2所示。当$q \in [ 1 , 2 ] \cup [ 8 , 1 0 ]$ 时,试点方案地郴州市,湘潭市,岳阳市,常德市的优劣顺序发生稍微的变化,但是综合各试点方案地属性得分函数值,各试点方案地的优劣排序为 $\mathrm { \langle { A _ { 3 } } { > } { A _ { 4 } } { > } { \Delta } { _ { 2 } } { > } { \Delta } { _ { 5 } } { > } { \Delta _ { 1 } } }$ ，最优试点方案地为 $\mathbf { A } _ { 3 }$ 。综上,在现实决策中，评价属性信息会存在相互的冗余，互补等关联关系,因此只有充分考虑属性间的关联性才能使得决策更加的合理。因此,本文研究的IVHFWHM算子更加适合现实情况且可操作性强。
+
+# 5 结束语
+
+社会信息化的不断发展使得MADM问题的决策难度越来越大，决策专家在决策时容易受到经验和知识水平的限制,给出的决策属性之间一般存在关联特性,如综合选择一个试点方案地优劣的决策属性中有试点方案地的空气质量水平和地表水质量和城市功能区噪声的污染程度,一般来说空气质量优和地表水质量优的城市,其噪声的污染程度也会相对低一些。因此考虑属性间相互关联的信息融合算子显然更符合决策实际。为了弥补现有的IVHFS信息集结算子仅在属性相互独立情况下有效的不足,本文结合HM算子,研究IVHFHM算子和IVHFWHM算子,建立基于IVHFWHM算子的决策模型,并应用在生态环境项目试点方案地评估选择问题中,结果证明了本文研究的新型决策算法的正确性。该新型决策算法很好的消除决策属性间关联性对决策结果的影响,使决策结果更真实可信，为解决MADM问题提供了新途径。
+
+![](images/0a8f6ec0c9988f00d241ec02e9c1d96d41efb2b2777e45ce71ef5b787084b4bb.jpg)  
+图1五个试点方案地的得分函数值随参数p的变化趋势图
+
+![](images/271332cf25176585160cb939c3ee7aecbf65ab76528e6930aace8a0743e5cfb8.jpg)  
+图2五个试点方案地的得分函数值随参数q的变化趋势图
+
+# 参考文献：
+
+[1]Torra V,Narukawa Y.On hesitant fuzzy sets and decision [C]//Proc of the 18th IEEE International Conference Fuzzy Systems.20o9:1378-1382.
+
+[2]Torra V.Hesitant fuzzy sets [J]. International Journal of Intelligent Systems, 2010,25 (6): 529-539.   
+[3]Chen N,Xu Z S,Xia MM. Interval-valued hesitant preference relations and their application to group decision making [J]. Knowledge-Based Systems, 2013,37 (22): 528-540.   
+[4]Wei G W, Zhao XF,Lin R. Some hesitant interval-valued fuzzy aggregation operators and their applications to multiple attribute decision making [J]. Knowledge-Based Systems,2013,46 (12): 43-53.   
+[5]于倩，侯福均，翟玉冰，等．区间犹豫模糊 ELECTRE 多属性决策方法 及应用[J].运筹与管理,2015,24(6):16-24.   
+[6]周晓辉，姚俭．区间直觉梯形模糊几何 Heronian 平均算子及应用[J]. 计算机工程与应用,2016,52(9):39-43.   
+[7]Beliakov G,Pradera A,Calvo T.Aggregation functions:a guide for practitioners [M]. Berlin: Springer,2007.   
+[8]Sykora S.Mathematical means and average: generalized heronian means [J]. Sykora SStan's,Library,2009.   
+[9]Sykora S.Generalized Heronian Means II [M].Sykora S Stan's,Library, 2009.   
+[10] Liu H Z,Pei D W.HOWA operator and its application to multi-attribute decision making [J].Journalof Zhejiang Sci-Tech University,2012,25:138- 142.   
+[11]于倩，侯福均．犹豫模糊语言 Heronian 平均算子在多属性决策中的应 用[J].运筹与管理,2016,25(2):90-97.   
+[12]王晓楠，巨永锋，高婷．基于犹豫模糊 H-平均的交通流模型选择方法 [J]．计算机工程与应用，http://kns.cnki.net/kcms/detail/11.2127.TP. 20170313.1638.002.html   
+[13]周晓辉，姚俭，徐磊，等．区间直觉模糊几何Heronian 平均算子及其应 用[J]．系统工程,2016,34(4):140-146.   
+[14]林显宁．基于犹豫语言H-几何算子的信息安全系统选择[J].计算机工 程与应用,2017,53(13): 174-180.   
+[15] Xia M M,Xu Z S. Hesitant fuzzy information aggregationin decision making [J]. International Journal of Approximate Reasoning,2011,52 (3): 395-407.   
+[16] Xu Z S,Da QL. The uncertain OWA operator[J]. International Journal of Intelligence System,2002,23 (17): 699-575.

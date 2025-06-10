@@ -1,0 +1,266 @@
+[
+    {
+        "type": "text",
+        "text": "星刺卫矛的化学成分研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘淑萍¹，季泓源¹，张建英²，张慧颖³，李亶烨¹，左爱学l\\*（1.云南中医药大学 中药学院，昆明650500；2.云南中医药大学 基础医学院，昆明650500；3．曲靖医学高等专科学校 药学系，云南曲靖655000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：采用正相硅胶、SephadexLH-20 和半制备液相 HPLC 等色谱技术对卫矛科卫矛属植物星刺卫矛（Euonymus actinocarpus）的化学成分进行研究。从星刺卫矛地上部分 $9 5 \\%$ 乙醇提取物中分离得到10 个化合物，根据其理化常数和波谱（ESI-MS、 ${ } ^ { 1 } \\mathrm { H } \\cdot$ -NMR、 $^ { 1 3 } \\mathrm { C }$ -NMR)数据鉴定结构为羽扇豆醇(lupeol，1)，蒲公英萜醇(taraxerol，2)，表木栓醇（epifriedelinol,3)，槐二醇(sophoradiol，4)，蒲公英萜酮(taraxerone，5)，高梁醇(sorghumol，6)，羽扇豆醇乙酸酯(lupeol acetate,7),木栓酮(friedelin,8), $\\beta$ 谷甾醇（ $\\beta$ -sitosterol,9)，胡萝卜苷(daucosterol,10)。星刺卫矛地上部分主要含有三萜和甾体类成分，其中三萜类型以木栓烷型、齐墩果烷型和羽扇豆烷型骨架为主，所有化合物均为首次从星刺卫矛中分离得到，研究结果增加了对星刺卫矛物质基础认识。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：卫矛属，星刺卫矛，化学成分，三萜中图分类号：Q946 文献标志码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chemical constituents of Euonymus actinocarpus ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIU Shuping1， JI Hongyuan¹，ZHANG Jianying²，ZHANG Huiying³，LI Danye1， ZUO Aixue1\\*   \n(1. College of Traditional Chinese Medicine,Yunnan Universityof Chinese Medicine,Kunming 65o5o0,China; 2. Basic Medical School,Yunnan Universityof Chinese Medicine,Kunming 6505oo,China;3.Department of Pharmacy, Qujing Medical College,Qujing 655ooo,Yunnan, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: To investigate the chemical constituents of Euonymus actinocarpus column chromatography on silica gel, Sephadex LH-2O and semi-preparative liquid chromatography were applied for the isolation and purification of the constituents.The structures were elucidated on the basis of spectral analysis and by comparison the data in literature.Ten compounds were isolated from the $9 5 \\% \\mathrm { E t O H }$ extract of aerial part of Euonymus actinocarpus,and their structures were identified as lupeol (1), taraxerol (2),epifriedelinol (3),sophoradiol (4), taraxerone(5), sorghumol (6),lupeol acetate (7), friedelin (8), $\\beta$ -sitosterol (9),daucosterol (10),respectively.All isolated compounds 1-10 were reported from Euonymus actinocarpus for the first time. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Euonymus, Euonymus actinocarpus, chemical constituents, triperpenoids ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "卫矛科植物品种多，资源丰富，全世界约有60属，850 种，主要分布于热带、亚热带地区，我国是其主产区，分布有111种，10个变种，4个变型（常章富等，1996)。卫矛科卫矛属植物是一类重要的天然药用资源，在我国民间有着悠久的药用历史，早在《本草纲目》中就有把卫矛属植物鬼箭羽（卫矛）作为药物使用的记载；民间常把鬼箭羽枝叶用于治疗糖尿病（巴寅颖等，2012），近年从卫矛属植物中开发了治疗糖尿病肾病药物黄芪卫矛合剂（张丽芬等，2014）、抗衰老药物复方扶芳藤合剂（又名百年乐）（张颖等，2013）以及治疗癌症的卫矛醇（陶瑞芳等，1985）等疗效确切的药物。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对卫矛属植物的研究始于1948年，Santavy&Reichstein（1948）从卫矛属药物 Euonymuseuropaeu 种子中分离得到强心苷 euonosides A和B，同年 Tattersfield 证明其具有杀虫活性（Ramstad，2010）。目前国内外学者已从卫矛属植物中发现三萜、甾体、倍半萜、强心苷、木脂素、生物碱等次生代谢产物，其中三萜类成分是卫矛属植物的主要活性成分。卫矛属植物药理活性主要表现在降糖、降血脂、抗肿瘤、抗血栓、抗炎、镇痛、免疫抑制和杀虫作用等(方振峰等，2007)，用于治疗心绞痛（哈医大药理研究组，1976）、糖尿病（Zhai etal.,2016)、风湿疼痛(许云章等，2014)等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "星刺卫矛（Euonymus actinocarpus）为卫矛属植物，是中国特有品种，在《深圳植物志》和《中国植物志》（中国科学院中国植物志编委会，1977）均有收载，产于云南、贵州、湖北（宜昌）、四川（峨眉山）、广东、广西等地。目前未见星刺卫矛的化学成分及生物活性的研究报道，为了阐明星刺卫矛的物质基础以及寻找具有生物活性的化合物，课题组开展了星刺卫矛的化学成分研究，利用多种色谱方法，结合波谱技术，从星刺卫矛乙醇提取物中分离鉴定了10个化合物，化学结构式如图1所示，包括8个三萜和2个甾体，所有化合物均为首次从星刺卫矛中分离得到。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1仪器",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "质谱用Autospec-3000 质谱仪（英国Micromass 公司）测定；核磁共振谱（1D 和 2D）用AM-400或DRX-500型核磁共振波谱仪（瑞士布鲁克公司）测定，TMS为内标；半制备液相（北京赛普锐思)，半制备液相所用试剂为色谱纯；旋转蒸发仪（上海豫康科教仪器设备有限公司)，YRT-3(硅油)熔点仪（天津市精拓仪器科技有限公司）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "凝胶 Sephadex LH-20（瑞典 Pharmacia 公司)；YMC-Pack ODS-A 半制备色谱柱（250$\\mathrm { m m } { \\times } 2 0 ~ \\mathrm { m m }$ ， $5 ~ { \\mu \\mathrm { m } }$ ）为YMC有限责任公司产品；硅胶（200-300目）（青岛海洋化工厂）;薄层色谱硅胶板（烟台大学生物科学与工程研究所)； $9 5 \\%$ 乙醇（云南杨林工业开发区汕滇药业有限公司）；其他试剂为市售一般工业纯或化学纯试剂。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 药材 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "星刺卫矛样品采于云南鹤庆地区，经云南中医药大学中药鉴定教研室杨竹雅副教授鉴定为卫矛属植物星刺卫矛（Euonymusactinocarpus）枝叶。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 提取分离",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干燥的星刺卫矛（ $1 0 \\mathrm { k g } , $ ）地上部分粉碎后以 $9 5 \\%$ 乙醇浸提2次，每次浸泡7d，回收溶剂得浸膏 $2 1 9 \\ \\mathrm { g }$ 。浸膏用丙酮溶解硅藻土拌样，经硅胶柱色谱（ $2 0 0 { \\sim } 3 0 0$ 目）层析，分别以石油醚-丙酮（ $6 0 : 1 { \\sim } 5 : 5$ ，V/V）系统梯度洗脱，经TLC检查合并为6个组分（X1-X6)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "X1部分（ $\\mathrm { ~ \\small ~  ~ } _ { 2 1 \\mathrm { ~ \\tiny ~ g ~ } }$ ）经硅胶柱层析，用石油醚-丙酮（ $3 0 : 1 { \\sim } 4 : 1$ ，V/V）体系梯度洗脱，合并成7个部分X1A\\~X1G。其中X1C 经 Sephadex-LH20（氯仿-甲醇 $\\mathbf { \\bar { \\rho } } _ { = 1 } : 1$ ，V/V）纯化，重结晶得到化合物5（ $1 1 ~ \\mathrm { m g }$ )。X1D部分经半制备HPLC色谱（流动相：甲醇-水 $. = 9 4 : 6$ ,V/V）纯化得到化合物9（ $8 8 ~ \\mathrm { m g }$ ）和化合物2（ $2 5 \\mathrm { m g }$ )。X1E部分经硅胶柱层析，用石油醚-丙酮（ $2 0 : 1$ ，V/V）体系等度洗脱，收集洗脱剂，合并薄层色谱行为相同部分，重结晶得化合物6（ $1 3 ~ \\mathrm { m g } \\mathrm { , }$ ，母液继续用凝胶柱SephadexLH-20（氯仿-甲醇 $\\mathbf { \\bar { \\rho } } = 1 : 1$ ，V/V）纯化得到化合物7（ $1 4 ~ \\mathrm { m g }$ )。X1F部分经硅胶柱色谱，石油醚-乙酸乙酯（ $\\langle 5 0 : 1 \\sim 1 0 : 1$ ，V/V）梯度洗脱，主要流分再经硅胶柱色谱石油醚-丙酮洗脱 $5 0 : 1$ ，V/V)纯化得到化合物4（ $3 6 ~ \\mathrm { m g }$ ）°",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "X2A( $3 0 { \\mathrm { g } } { \\cdot } { }$ ）部分经硅胶柱层析，用石油醚-丙酮（ $2 0 : 1 { \\sim } 1 0 : 1$ ， $V / V$ ）体系梯度洗脱，收集洗脱液，经Sephadex-LH20 纯化（氯仿-甲醇 $\\mathrel { \\mathop : } 1 : 1$ ，V/V)，重结晶得化合物1( $2 4 \\mathrm { m g }$ ）°X2B部分经Sephadex-LH20分离纯化（氯仿-甲醇 $\\mathbf { \\tau } = 1 : 1$ ， $V / V )$ ，合并主点部分，经硅胶柱层析石油醚-丙酮（ $1 5 : 1 { \\sim } 1 0 : 1$ ，V/V）体系梯度洗脱，重结晶得到化合物3（ $2 2 \\mathrm { m g } ^ { \\cdot }$ ）°",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "X4部位（ $2 5 \\mathrm { ~ g ~ } )$ ）用硅胶柱层析，以二氯甲烷-甲醇（ $( 4 : 1$ ，V/V）体系洗脱，收集洗脱剂，薄层色谱检查，合并色点相同流份得3个部分X4A\\~X4D；X4D部分经硅胶柱分离，用氯仿-甲醇( $1 5 : 1 . 9 : 1 , V / V )$ 体系洗脱，收集洗脱液，合并色点相同的流份，经Sephadex-LH20（甲醇）纯化，重结晶得化合物8（ $1 3 2 \\mathrm { m g }$ ）°",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "X5 ( $\\cdot 2 0 \\ \\mathrm { g } \\cdot$ ）部分经硅胶柱层析氯仿-甲醇 $1 0 : 1$ ，VV体系洗脱，收集洗脱剂，薄层色谱检查，合并色点相同流份，再经 SephadexLH-20(氯仿-甲醇 $\\mathrel { \\mathop : } 1 \\mathrel { \\mathop : } 1$ ，V/V)纯化，得化合物10(64mg)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 结构鉴定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f6ee36f2780b8685aedf250c77bc21d49b8186a8f030023eb7a2779df70d405d.jpg",
+        "img_caption": [
+            "图1化合物1-10的结构式",
+            "Fig.1 Structures of compounds 1-10 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "化合物1:白色粉末(丙酮), $\\mathrm { m p ~ } 1 9 1 . 5 { \\sim } 1 9 2 . 5 \\mathrm { ~ \\textdegree C }$ ， $\\mathrm { ^ { 1 } H }$ NMR ${ \\bf \\Psi } _ { \\mathrm { 4 0 0 M H z } }$ $\\mathrm { C D C l } _ { 3 }$ )8: 4.7 (1H,d, $\\mathbf { J } = 0 . 8 ~ \\mathrm { H z }$ ,H-30α), 4.56 (1H, d, $\\mathrm { J } = 0 . 8 ~ \\mathrm { H z }$ ,H-30β),3.2 (1H, dd, $\\mathrm { J } = 1 1 . 5$ $5 \\mathrm { H z }$ ,H-3α), 2.4 (1H, ddd, ${ \\bf J } = 1 7 . 0$ ，11.0, $5 . 5 \\mathrm { { H z } }$ ,H-19),1.67 (3H, s); $^ { 1 3 } \\mathrm { C }$ NMR ( ${ \\bf \\Phi } _ { 1 0 0 } { \\bf M H z }$ ， $\\mathrm { C D C l } _ { 3 }$ )8: 38.7 (C-1), 27.4 (C-2), 79.0 (C-3), 38.8 (C-4), 55.2 (C-5), 18.3 (C-6), 34.3 (C-7), 40.8 (C-8), 50.4 (C-9), 37.1 (C-10),20.9 (C-11),25.1 (C-12),38.0 (C-13), 43.0 (C-14),28.0 (C-15), 35.6 (C-16),42.8 (C-17), 48.3 (C-18), 48.0 (C-19),151.0 (C-20), 29.8 (C-21), 40.0 (C-22), 29.7 (C-23),15.4 (C-24),16.1 (C-25),15.9 (C-26), 14.5 (C-27), 18.0 (C-28)， 109.3 (C-29), 19.3 (C-30)。以上 $\\mathrm { ^ { 1 } H }$ -NMR和 ${ } ^ { 1 3 } \\mathrm { C } .$ -NMR 数据与巴寅颖等（2012）报道基本一致，故鉴定该化合物为羽扇豆醇（lupeol）。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物2：白色粉末（氯仿），mp271\\~273℃， $\\mathrm { ^ { 1 } H }$ -NMR (400 MHz, $\\mathrm { C D C l } _ { 3 }$ )8: 3.40 (1H, m,H-3),0.97 (3H,s,H-23),0.80 (3H,s,H-24),0.92 (3H,s,H-25),1.09 (3H,s,H-26),0.91 (3H,s, H-27), 0.82 (3H, s,H-28), 0.95 (3H, s,H-29),0.90 (3H,s,H-30); $^ { 1 3 } \\mathrm { C }$ -NMR( ${ \\bf \\Gamma } _ { 1 0 0 } \\bf { M H z }$ ， $\\mathrm { C D C l } _ { 3 }$ 8: 37.5 (C-1),27.7 (C-2), 78.0 (C-3), 40.8 (C-4), 55.2 (C-5), 18.4 (C-6), 35.2 (C-7), 38.5 (C-8), 48.3 (C-9), 37.5 (C-10),17.0 (C-11),36.1 (C-12), 37.2 (C-13),157.6 (C-14),116.3 (C-15),37.1 (C-16), 37.5 (C-17), 48.8 (C-18), 40.9 (C-19), 27.8 (C-20), 33.2 (C-21), 32.6 (C-22), 27.8 (C-23), 15.4 (C-24),15.4 (C-25), 29.3 (C-26),25.4 (C-27), 28.2 (C-28), 32.8 (C-29), 20.8 (C-30)。以上 $\\mathrm { ^ 1 H }$ -NMR和 ${ } ^ { 1 3 } \\mathrm { C } .$ -NMR 数据与 Simelane etal.（2013）和赵青（2013）报道基本一致，故鉴定 该化合物为蒲公英萜醇（taraxerol）。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物3：白色针状结晶（丙酮）， $\\mathrm { ^ { 1 } H }$ -NMR ${ \\bf \\zeta } ^ { } 4 0 0 { \\bf M H z }$ $\\mathrm { C D C l } _ { 3 }$ )8: 0.82 (3H, $\\mathrm { d } , \\mathrm { J } = 6 . 6 \\mathrm { H z }$ H-23), 0.98 (3H,s,H-24),0.93 (1H,s,H-25),0.99 (3H,s,H-26),1.09 (3H,s,H-27),1.18 (3H,s, H-28),1.11 (3H, s, H-29), 0.99 (3H, s,H-30); ${ } ^ { 1 3 } \\mathrm { C } .$ -NMR( ${ 1 0 0 } ~ \\mathrm { M H z }$ ， $\\mathrm { C D C l } _ { 3 }$ ) 8: 18.0 (C-1), 35.4 (C-2), 72.2 (C-3), 53.0 (C-4), 38.2 (C-5),41.4 (C-6),17.9(C-7), 53.2 (C-8), 37.1 (C-9), 60.1 (C-10), 35.6 (C-11),30.6 (C-12), 38.3 (C-13), 39.7 (C-14), 32.4 (C-15), 36.1 (C-16),30.0 (C-17), 42.7 (C-18),35.4 (C-19),28.2 (C-20),32.8 (C-21),39.3 (C-22), 10.4 (C-23),14.7 (C-24),18.2 (C-25), 20.2 (C-26),18.7 (C-27), 32.1 (C-28), 31.9 (C-29), 35.0 (C-30)。以上 $\\mathrm { ^ { 1 } H - N M R }$ 和 $^ { 1 3 } \\mathrm { C }$ -NMR数据 与韩贺东等（2014）报到基本一致，故鉴定该化合物为表木栓醇（epifriedelinol）。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物4：白色粉末（氯仿）， $\\mathrm { m p } 2 1 9 { \\sim } 2 2 0 \\ \\mathrm { ~ \\textdegree ~ }$ ， ${ } ^ { 1 } \\mathrm { H } \\cdot$ -NMR ${ \\bf \\Psi } _ { 4 0 0 } \\bf { M H z }$ ， $\\mathrm { C _ { 5 } D _ { 5 } N }$ )8: 3.44 (1H, m H-3),5.2 (1H,brs,H-12),3.84 (1H,m,H-22),0.89 (3H,s,H-23), 0.77 (3H,s,H-24),0.97 (3H, s,H-25),1.02 (3H,s,H-26),1.09 (3H,s,H-27),0.85 (3H,s,H-28),0.95 (3H,s,H-29),0.92 (3H,s, H-30); $^ { 1 3 } \\mathrm { C }$ -NMR ( $\\mathrm { 1 0 0 \\mathbf { M H z } }$ $\\mathrm { C D C l } _ { 3 }$ ) 8: 39.2 (C-1), 27.9 (C-2), 77.9 (C-3), 39.2 (C-4), 55.5 (C-5), 18.6 (C-6), 33.4 (C-7), 40.0 (C-8), 47.9 (C-9), 37.0 (C-10), 23.7 (C-11), 122.3 (C-12),144.4 (C-13), 42.3 (C-14),26.2 (C-15),28.5 (C-16),38.7 (C-17), 43.7 (C-18), 46.5 (C-19),31.4 (C-20), 42.3 (C-21), 74.9 (C-22), 27.9 (C-23), 15.6 (C-24),16.8 (C-25),16.9 (C-26), 26.0 (C-27), 19.5 (C-28),33.5 (C-29),28.5 (C-30)。以上 $\\mathrm { ^ { 1 } H }$ -NMR和 $^ { 1 3 } \\mathrm { C }$ -NMR 数据与周金娥等（2006）报道的 基本一致，故鉴定该化合物为槐二醇（sophoradiol）。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物5：白色粉末（氯仿）， $\\mathrm { m p } 2 3 9 { \\sim } 2 4 0 \\ \\mathrm { ~ \\textdegree ~ }$ ， $\\mathrm { ^ { 1 } H }$ -NMR (400 MHz, $\\mathrm { C D C l } _ { 3 }$ )8: 5.57 (1H, dd, $J = 4 . 0$ $8 . 0 \\mathrm { H z }$ ,H-15),1.06 (3H, s,H-23),1.01 (3H, s,H-24), 1.11 (3H, s,H-25), 1.16 (3H, s, H-26),0.91 (3H,s,H-27), 0.83 (3H, s,H-28), 0.95 (3H, s,H-29), 0.92 (3H, s,H-30); $^ { 1 3 } \\mathrm { C }$ -NMR 中 $[ 1 0 0 \\mathrm { M H z }$ ， $\\mathrm { C D C l } _ { 3 }$ ) 8: 38.3 (C-1), 34.1 (C-2), 217.5 (C-3), 47.6 (C-4), 55.8 (C-5), 20.0 (C-6), 34.1 (C-7), 38.4 (C-8), 48.7 (C-9), 36.7 (C-10), 17.4 (C-11), 35.1 (C-12), 37.7 (C-13), 157.6 (C-14), 117.2 (C-15), 36.7 (C-16),37.7 (C-17), 48.8 (C-18), 40.6 (C-19), 29.8 (C-20),33.6 (C-21), 33.4 (C-22),26.1 (C-23),21.5 (C-24),14.8 (C-25),29.9 (C-26),25.6 (C-27),29.9 (C-28),33.6 (C-29), 21.4 (C-30)。以上 ${ } ^ { 1 } \\mathrm { H } \\cdot$ -NMR和 $^ { 1 3 } \\mathrm { C }$ -NMR数据与Sakuraiet al.(1986)报道的基本一致，故鉴定该化 合物为蒲公英萜酮（taraxerone）。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物6：白色粉末（氯仿）， $\\operatorname* { m p } 2 7 6 { \\sim } 2 7 8 \\ \\mathrm { ~ \\textdegree ~ }$ ， $\\mathrm { ^ { 1 } H }$ -NMR( ${ \\bf \\Psi } _ { 4 0 0 } \\bf { M H z }$ $\\mathrm { C D C l } _ { 3 }$ )8: 3.22 (1H, dd, $J = 4 . 0$ ， $1 1 . 5 \\mathrm { { H z } }$ ,H-3),5.23 (1H, d, $J { = } 6 . 5 \\mathrm { H z }$ ,H-11),1.66 (2H, d, $J { = } 6 . 5 \\mathrm { H z }$ ,H-12), 0.98 (3H, s,H-23),0.82 (3H,s,H-24),1.03 (3H,s,H-25),0.81 (3H,s,H-26),0.77 (3H,s,H-27),0.76 (3H, s, H-28), 0. 83 (3H, d, $J { = } 6 . 5 \\mathrm { H z }$ ,H-29), 0.89 (3H,d, $J { = } 6 . 5 \\mathrm { H z }$ ,H-30); $^ { 1 3 } \\mathrm { C } .$ -NMR ( ${ 1 0 0 } \\mathrm { M H z }$ $\\mathrm { C D C l } _ { 3 }$ ） 8: 36.0 (C-1), 27.8 (C-2), 79.8 (C-3), 39.0 (C-4), 52.3 (C-5), 21.4 (C-6), 26.6 (C-7), 40.9 (C-8), ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "148.8(C-9),39.6 (C-10),114.3 (C-11), 35.9 (C-12),38.1 (C-13), 36.7 (C-14),29.6 (C-15), 36.0 (C-16),42.8 (C-17), 52.0 (C-18),20.1 (C-19),28.2 (C-20), 59.6 (C-21),30.7 (C-22),26.7(C-23), 15.5 (C-24), 22.1 (C-25),17.0 (C-26),15.2 (C-27), 13.9 (C-28),23.0 (C-29), 21.4 (C-30)。以上 $\\mathrm { ^ 1 H }$ -NMR和 ${ } ^ { 1 3 } \\mathrm { C }$ -NMR 数据与何春年等（2005）报道的基本一致，故鉴定该化合物高粱醇 （sorghumol）。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物7：白色针状结晶（丙酮)， ${ } ^ { 1 } \\mathrm { H } \\cdot$ -NMR ( ${ \\bf \\zeta } ^ { } 4 0 0 { \\bf M H z }$ $\\mathrm { C } _ { 5 } \\mathrm { D } _ { 5 } \\mathrm { N } _ { . }$ )8: 0.79,0.81, 0.82, 0.87, 0.92,1.01 ( $1 8 ~ \\mathrm { H }$ s, $\\mathbf { 6 { \\times } C H } _ { 3 } .$ ),1.72 (3H,s,H-29),2.05 (3H,s,Ac),4.68 (1H,m,H-3),4.86,4.7 2(各1H, d, $J = 2 . 4 ~ \\mathrm { H z }$ ,H-30); $^ { 1 3 } \\mathrm { C } .$ -NMR( $\\mathrm { \\Delta C _ { 5 } D _ { 5 } N }$ ,100Mz) 8: 38.4 (C-1), 23.7 (C-2), 81.0 (C-3), 37.8 (C-4), 55.4 (C-5), 18.2 (C-6),34.3 (C-7), 40.9 (C-8), 50.4 (C-9),37.1 (C-10), 20.9 (C-11), 25.1 (C-12), 38.1 (C-13), 42.9 (C-14), 27.5 (C-15), 35.6 (C-16), 43.0 (C-17), 48.0 (C-18), 48.3 (C-19),150.9 (C-20),29.9 (C-21), 40.0 (C-22),28.0 (C-23),16.5 (C-24),16.2 (C-25),16.0 (C-26), 14.3 (C-27),18.0 (C-28), 109.3 (C-29), 19.3 (C-30), 170.6 (C-31),21.1 (C-32)。以上 $\\mathrm { ^ { 1 } H }$ -NMR和 ${ } ^ { 1 3 } \\mathrm { C } .$ -NMR 数据与朱卫（1995）报道的基本一致，故鉴定该化合物为羽扇豆醇乙酸酯（lupeol acetate）。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物8：白色粉末(甲醇)，mp 259\\~260 $\\mathrm { { } ^ { \\circ } C }$ ， $\\mathrm { ^ { 1 } H }$ -NMR ${ ( 4 0 0 ~ \\mathrm { { M H z } } }$ $\\mathrm { C D C l } _ { 3 }$ )8: 0.87 (3H, s, H-23), 0.73 (3H,s,H-24),0.89 (3H,s,H-25),0.93 (3H,s,H-26),1.05 (3H,s,H-27),1.18 (3H,s, H-28),1.01 (3H, s, H-29), 1.00 (3H, s, H-30); $^ { 1 3 } \\mathrm { C } .$ -NMR ( ${ \\bf \\Gamma } _ { 1 0 0 } ~ \\mathrm { { M H z } }$ ， $\\mathrm { C D C l } _ { 3 }$ ) 8: 22.3 (C-1), 41.5 (C-2), 213.1 (C-3), 58.2 (C-4), 42.0 (C-5), 41.3 (C-6), 18.2 (C-7), 53.1 (C-8), 36.0 (C-9), 59.5 (C-10), 35.6 (C-11),30.5 (C-12),39.3 (C-13), 39.3 (C-14),32.4 (C-15),36.0 (C-16),30.5 (C-17), 41.5 (C-18), 35.6 (C-19), 30.5 (C-20), 32.4 (C-21), 39.3 (C-22), 6.8 (C-23), 14.7 (C-24), 18.0 (C-25), 20.3 (C-26)， 18.7 (C-27), 32.1 (C-28), 35.0 (C-29),31.8 (C-30)。以上 $\\mathrm { ^ { 1 } H }$ -NMR和 （20 $^ { 1 3 } \\mathrm { C }$ -NMR 数据与何光发（2016）报道的基本一致，故鉴定该化合物为木栓酮（friedelin）。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物9：白色鳞片状晶体（氯仿）， $\\mathrm { m p } 1 3 5 { \\sim } 1 3 6 \\ \\mathrm { ~ \\textdegree C }$ ， $\\mathrm { ^ { 1 } H }$ -NMR $( 4 0 0 \\mathrm { { M H z } }$ $\\mathrm { C D C l } _ { 3 }$ 8: 3.55 (1H, m,H-3), 0.71 (3H, s,H-18),1.03 (3H, s,H-19), 0.94 (3H, d, $J { = } 6 . 0 \\mathrm { H z }$ ,H-21), 0.86 (3H, d, $J$ $= 7 . 6 \\mathrm { H z }$ ,H-26), 0.84 (3H, d, $J { = } 7 . 2 \\mathrm { H z }$ ,H-27), 0.87 (3H, t, $J { = } 7 . 6 \\mathrm { H z }$ ,H-29); $^ { 1 3 } \\mathrm { C }$ -NMR ( ${ 1 0 0 } \\mathrm { M H z }$ ， $\\mathrm { C D C l } _ { 3 }$ ) 8: 37.8 (C-1), 32.3 (C-2), 71.3 (C-3), 43.4 (C-4), 142.1 (C-5),121.2 (C-6), 32.6 (C-7), 32.3 (C-8), 50.5 (C-9), 36.9 (C-10), 21.3 (C-11), 40.0 (C-12), 42.5 (C-13), 56.8 (C-14), 24.5 (C-15),28.6 (C-16),56.3 (C-17),12.2 (C-18),20.0 (C-19),36.4 (C-20),19.7 (C-21),34.2 (C-22), 26.4 (C-23), 46.0 (C-24),29.4 (C-25),18.9 (C-26), 19.2 (C-27),23.3 (C-28),12.2 (C-29)。以上 $\\mathrm { ^ 1 H }$ -NMR和 $^ { 1 3 } \\mathrm { C }$ -NMR 数据与孙洁(2013)报道的基本一致，故鉴定该化合物为 $\\beta$ 谷甾醇 （ $\\beta$ -sitosterol）。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物10:淡黄色无定形粉末（甲醇）， $\\mathrm { ^ { 1 } H }$ -NMR( ${ \\bf \\backslash } 4 0 0 { \\bf M H z }$ $\\mathrm { C _ { 5 } D _ { 5 } N }$ )8: 3.96 (1H,m,H-3), 5.38 (1H, t, $J = 3 . 2 ~ \\mathrm { H z }$ ,H-6), 0.64 (3H, s,H-18), 0.92 (3H, s,H-19), 0.97 (3H, d, $J = 6 . 4 ~ \\mathrm { H z }$ H-21), 0.86 (3H, d, $J = 7 . 2 ~ \\mathrm { H z }$ ,H-26), 0.84 (3H, d, $J = 7 . 0 ~ \\mathrm { H z }$ ,H-27), 0.87 (3H, t, $J = 7 . 6 ~ \\mathrm { H z }$ H-29),5.09 (1H, d, $J = 7 . 6 ~ \\mathrm { H z }$ ，H-1'),4.35(1H, dd, $J = 1 2 . 0$ ， $2 . 0 \\ \\mathrm { H z }$ ，H-6'a), 4.55 (1H, dd, $J =$ 11.6, $5 . 2 ~ \\mathrm { H z }$ ,H-6'b); $^ { 1 3 } \\mathrm { C }$ -NMR( $\\mathrm { 1 0 0 ~ M H z }$ ， $\\mathrm { C _ { 5 } D _ { 5 } N } )$ 8: 37.7 (C-1), 30.8 (C-2), 79.5 (C-3), 38.8 (C-4), 142.4 (C-5),123.2 (C-6),33.4 (C-7), 31.6 (C-8), 51.7 (C-9), 37.7 (C-10), 21.3 (C-11), 40.7 (C-12), 43.8 (C-13),58.2 (C-14),24.7 (C-15),27.8 (C-16), 57.6 (C-17), 13.3 (C-18),20.5 (C-19), 35.5 (C-20), 20.3 (C-21), 33.4 (C-22), 25.8 (C-23), 47.3 (C-24),30.8 (C-25),20.7 (C-26), 20.7 (C-27), 22.6 (C-28),13.5 (C-29), 103.9 (C-1), 76.6 (C-2), 79.7 (C-3), 73.1 (C-4), 79.7 (C-5), 64.2 (C-6)。以上 $\\mathrm { ^ { 1 } H }$ -NMR和 ${ } ^ { 1 3 } \\mathrm { C } .$ -NMR 数据与孙洁(2013)报道的基本一致，故鉴定该化合物 为胡萝卜苷(daucosterol）。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用各种色谱方法从星刺卫矛乙醇提取物中分离得到10个化合物，通过波谱技术分别鉴定为羽扇豆醇（lupeol，1)，蒲公英萜醇(taraxerol，2)，表木栓醇（epifriedelinol，3)，槐二醇(sophoradiol，4)，蒲公英萜酮(taraxerone，5)，高梁醇（sorghumol，6)，羽扇豆醇乙酸酯（lupeol acetate，7），木栓酮（friedelin，8）， $\\beta \\mathrm { . }$ 谷甾醇 $\\boldsymbol { \\beta }$ -sitosterol,9)，胡萝卜苷(daucosterol,10)。其中化合物1-8为五环三萜类，9-10为甾体。所有化合物均为首次从该植物中分离得到。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "研究结果与文献报道卫矛属植物中富含三萜类化合物观点是一致的；所分离得到的化合物结构类型主要涉及木栓烷型、齐墩果烷型和羽扇豆烷型等；五环三萜类化合物在植物中种类较多，药理活性显著，特别是在抗糖尿病、降血糖等活性方面。文献报道蒲公英萜醇（1)通过恢复 PI3K 和 GLUT4 表达，逆转3T3L1 脂肪细胞对地塞米松诱导的胰岛素抵抗(Sangeetha etal.,2013)；高梁醇（4）抑制蛋白酪氨酸磷酸酶1B（PTP-1B）活性（ $\\cdot { \\bf \\cal I } { \\bf C } _ { 5 0 } { = } 3 . 5 0$ $\\pm 0 . 0 1$ (mmol-L)（Cai etal.,2015)；羽扇豆醇（9）具有降血糖、增加冠脉流量等功效，对心血管系统有多方面的药理作用(高婷等，2010)。这些五环三萜化合物的活性报道与民间把卫矛属植物用来治疗糖尿病可能有一定的关系。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上，首次阐明了卫矛属植物星刺卫矛的主要化学成分，研究结果丰富了对星刺卫矛物质基础的认识，为开发和利用卫矛属植物资源提供了一定的科学依据。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "BA YY,LIU QY, SHI RB, et al.,2O12. Studies on flavonoids from Euonymus alatus [J]. Chin TradHerb Drug,43(2):242-246.[巴寅颖，刘倩颖，石任兵，等，2012．鬼箭羽中黄酮类化学成分研究[J]．中草药，43(2)：242-246.]  \nBA YY, LIU QY, SHI RB, et al., 2O12. Studies on chemical constituents of Euonymus alatus [J]. JBeijing Med Univ,35(7):480-483.[巴寅颖，刘倩颖，石任兵，等，2012．鬼箭羽化学成分研究[J]．北京中医药大学学报，35(7)：480-483.]  \nFANG ZF, HUA HM, ZHANG YZ,20O7.Euonymus advances in studies on chemical constituentsand pharmacological activity in plants [J]. World Notes Plant Med,22(1): 6-11.[方振峰，华会明，2007．卫矛属植物化学成分及药理活性研究进展[J]．国外医药(植物药分册)，22(1)：6-11.]  \nGAO T, CAO Y, JIA LY, et al.,2010. Determination of lupin in Hawthorn from 14 regions byHPLC[J]．Shenyang Pharm Univ,27(5):373-376.[高婷，曹阳，贾凌云，等，2010．HPLC法测定14 个地区山楂中羽扇豆醇的含量[J]．沈阳药科大学学报，27(5):373-376.]  \nHAN HD,HU HQ, LIN Y, et al., 2014. Chemical constituents of Gonostegia hirta [J]. Chin JFood Hygiene,20(2):82-85.[韩贺东，胡海清，林燕，等，2014．贵州糯米藤化学成分研究[J]．中国实验方剂学杂志，20(2):82-85.]  \nHE CN,WANG CL,GUO SX, et al., 2005. Study on chemical constituents of Anoectochilusroxbueghii [J].Chin PharmacolJ,39(8): 581-582.[何春年，王春兰，郭顺星，等，2005．福建金线莲的化学成分研究[J]．中国药学杂志，39(8):581-582.]  \nHE GF, PENG FF, DENG QY, et al., 2016. Study on chemical constituents from Argyreia acutaLour[J].Nat Prod Res Dev,32(2):135-138.[何光发，彭菲菲，邓秋怡，等，2016．白鹤藤化学成分研究[J]．天然产物研究与开发，32(2):135-138.]  \nCAI J,ZHAO L,TAO W, 2015. Potent protein tyrosine phosphatase 1b (PTP1B） inhibitingconstituents from Anoectochilus chapaensis,and molecular docking studies [J]. PharmaceutBiol, 53(7): 1030-1034.  \nPharmacological Research Group of Harbin Medical University，1976. Study on pharmacologicaleffects of Euonymus alatus [J].JHarbin Med Univ， (4): 21-24.[哈医大药理研究组，1976．卫矛的药理作用研究[J]．哈医大学报，(4)：21-24.]  \nRAMSTAD E,1953.A note on the isolation of furan-3-carbonic acid from the seeds of EuonymusEuropaea L [J]. Science, 42(2): 119.  \nSANTAVY F, REICHSTEIN T,1948.Evonosid, ein krystallisiertes, herzwirksames Glykosid ausEvonymus europaea L. II. Mitteilung. Glykoside und Aglykone,38. Miteilung [J]. Helv ChimActa, 31(6): 1655-1662.  \nSANGEETHA KN, SHILPA K,KUMARI P,et al.， 2013. Reversal of dexamethasone inducedinsulin resistance in 3T3L1 adipocytes by $3 \\beta$ -taraxerol of Mangifera indica [J]. Phytomedicine,20(3-4): 213-220.  \nSIMELANE MB, SHONHAI A, SHODE FO, et al., 2013. Anti-plasmodial activity of some Zulumedicinal plants and of some triterpenes isolated from them [J]. Molecules，18(10):12313-12323.  \nSUN J， ZHANG L， ZHANG XL，et al.， 2013. Chemical constituents from Astragalusmembranaceus var.mongholicus [J].Drugs Clin,28(2):138-143.[孙洁，张蕾，张晓拢，等，2013．蒙古黄芪的化学成分研究[J]．现代药物与临床，28(2):138-143.]  \nSAKURAI N, YAGUCHI Y, INOUE T,et al.，1986. Triterpenoids from Myrica rubra [J].Phytochemistry,26(1): 217-219.  \nTAO RF, LIN BJ, 2013. A new anticancer drug-Euonymus didehydrate [J]. Chin New Drugs ClinRemed,4(4):248.[陶瑞芳，林宝爵，1985．抗癌新药——二去水卫矛醇[J]．中国新药与临床，4(4): 248.]  \nXU YZ, SUN M, WANG JX, et al., 2014. Yi medicine flower preliminary study on the chemicalconstituents of Euonymus [J]. Jiangsu Agric Sci,42(7): 309-311.[许云章，孙美，王静霞，等，2014．彝药大花卫矛化学成分的初步研究[J]．江苏农业科学，42(7)：309-311.]  \nZHANG BF, PATIMANG QMH,LU GP,et al.，1996. Karyotype analysis of five Fagopyrumspecies native to China [J].Chin Inf Trad Chin Med,3(3):24-26.[常章富，帕提曼.瞿马洪，卢赣鹏，等，1996.中国卫矛科药用植物性能的初步整理(续完)[J]．中国中医药信息杂志，3(3): 29-32.]  \nZHANG LF, LU RH, HUANG WZ, et al.， 2014. Effect of Huangqi-Weimao mixture on theexpression of glomerular endothelial cells of VACM-1 in rats with diabetic nephropathv [J].Pharmocol Clin Chin Mat Med,30(1): 99-101.[张丽芬，吕仁和，黄文政，等，2014．黄芪卫矛合剂对糖尿病肾病大鼠肾小球内皮细胞 vacm-1 表达的影响[J]．中药药理与临床，30(1): 99-101.]  \nZHANG Y， ZHOU B，2013.Efect of compound fufangteng mixture on bone marrowhematopoietic stem cels notch signal pathway in rats [J]. Chin J Exp Med Form,19(18):206-210.[张颖，周倍，2013．复方扶芳藤合剂含药血清对大鼠骨髓间充质干细胞 Notch 信号通路的影响[J]．中国实验方剂学杂志，19(18)：206-210.]  \nZHAI XF, XUE CC, LI GG, et al., 2016. Euonymus alatus: A review on its phytochemistry andantidiabetic activity [J]. Evid Based Compl Alter Med, 2016:9425714  \nZHOU JE, CHEN CY, XIE YF, et al., 2006. Studies on liposoluble constituents from fruit ofSophora japonica L.[J].JShanghai Jiaotong Univ,26(11): 1245-1248.[周金娥，陈聪颖，谢一凡，等，2006．槐角中脂溶性化学成分的研究[J]．上海交通大学学报，26(11):1245-1248.]  \nZHAO Q, 2013. Study on chemical constituents of Mappianthus iodoides [J]. Chin Pharm, 24(39):3711-3713.[赵青，2013．甜果藤的化学成分研究[J]．中国药房，24(39)：3711-3713.]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ZHU W, TU ZB, HUANG LY, et al.,1995. Studies on chemical constituents of cabbage [J]. NatProd Res Dev,7(4):39-43.[朱卫，屠治本，黄丽瑛，等，1995．喙柱牛奶菜化学成分研究[J]．天然产物研究与开发，7(4):39-43.]",
+        "page_idx": 7
+    }
+]

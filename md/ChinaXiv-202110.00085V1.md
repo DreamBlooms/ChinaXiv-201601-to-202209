@@ -1,0 +1,137 @@
+# 双加工模型的视角下的儿童选择性信任
+
+张芷诺，杜瑶，汤玉龙
+
+（浙江工业大学教育科学与技术学院应用心理研究所，杭州，310023）
+
+摘要选择性信任能力是儿童学习所需要基本能力之一。通过选择性信任，儿童逐渐建构起自己的认知世界。选择性信任的双加工模型的提出，为解释儿童的学习背后的认知机制提供了一条新思路。本文在介绍双加工模型的基础之上，对儿童选择性信任研究结果进行梳理，并提出未来的研究方向。
+
+关键词选择性信任儿童双加工模型
+
+# 1引言
+
+皮亚杰认为，学习是儿童主动探索周围环境的结果。但是儿童在向外部进行学习和探索时，受限于自身有限的能力，很多知识无法通过直接观察而得到，在这时儿童就需要从他人那里获得知识（Harris,2012；综述见 Harris etal.,2018）。但这个过程存在着潜在的风险一一如果儿童不加区分的信任他人提供的信息，那么儿童很可能受骗或获得错误的知识。因此，有选择性地相信接受到的信息，即选择性信任，是儿童发展过程中的一种重要能力。它不仅关系到儿童认知世界的建构，而且直接影响自身安全一一不假思索地相信所有接收到的信息往往会给儿童带来灾难性的后果。研究发现，在一些情境下，儿童表现得十分容易相信他人，似乎是一个“盲目轻信者”。例如，当信息提供者的证言与自身观察明显冲突的情况下，儿童会更相信信息提供者的证言而不是自己的观察（Mascaro& Sperber,2009;Jaswal etal.,2010,2014)。但在另外一些情境中，儿童的表现却又像一个成熟的“理性决策者”。例如，相比于熟悉却在过去任务中表现不佳的教师，5岁儿童更加相信不熟悉却在过去任务中表现更好的教师（Corriveau＆Harris,2009）。这表明儿童也可以根据现有的线索，理性地对证言的可信度做出推断。因此，儿童的选择性信任似乎是一个既包含轻信，又包含理性的推理过程。如何解释这些不一致的发现？这些不一致现象背后的认知机制是什么？最近，Hermes 等研究者提出了选择性学习的双加工模型，为解释儿童的选择性学习背后的认知机制提供了一条新思路（Hermes,Behne,& Rakoczy,2018)。本文在双加工模型的框架内，对儿童选择性信任判断的发展特点及影响因素进行系统分析，并提出未来可能的研究方向。
+
+# 2双重加工模型：解释选择性信任认知机制的新视角
+
+双加工模型的核心观点是在发展早期，儿童使用基于简单的启发式策略进行默认判断，但随着年龄的增长，儿童的信任判断策略会变得理性。这里的启发式策略即为I型加工，理性加工策略即为Ⅱ型加工。当Ⅱ型加工出现后，I型加工不会消失，而是与Ⅱ型加工共同存在于儿童的认知策略中。当I型加工的结果不被认可时，ⅡI型加工则会对这种默认判断进行干预，帮助儿童进行理性选择。
+
+选择性信任的双加工模型与认知心理学中其他领域的双加工模型具有共同的特征：I型加工出现在个体发展的早期，在种系发展上更加古老，且独立于认知资源和工作记忆而存在。I型加工运行快速，是一种内隐、自动化、无意识的加工过程。它通过不断提供启发式策略进行默认判断，帮助个体解决一些问题。而 ⅡI 型加工出现的相对较晚，依赖于认知资源和工作记忆，运行相对缓慢、灵活，是一种外显、分析性、意识化的加工过程。当II型加工出现时，个体能够通过沉思（hypothetical thinking）来解决更多的问题（Evans,2008;Evans& Stanovich,
+
+2013)。而选择性信任中的双加工模型特点在于：基于简单启发式策略的I型加工并不需要将任务所需知识与信息提供者所拥有的知识进行对应匹配，只需根据信息提供者的整体印象（global impression）做出信任判断；而II 型加工则需要儿童根据任务要求，采用理性加工的方式对信息者的知识进行更为准确的匹配。
+
+# 2.1|型自动化加工
+
+I型加工过程可能是多个启发式策略的集合，并且至少存在两种主要的启发式策略：普遍信任启发式（general-trust heuristic）和信任更好启发式（trust-the-better heuristic)。普遍信任启发式是指当儿童只面对一个信息提供者，或者多名信息提供者的证言之间不存在冲突时，儿童会存在一种强烈信任他人的倾向。例如，当证言与儿童自身观察明显冲突时，3岁幼儿宁愿放弃自己观察的结果转而相信对方提供的信息（Jaswaletal.,2010,2014)。甚至在把信息提供者描述成“大骗子”，并且对方的确做出欺骗行为的情况下，3岁幼儿依然相信“大骗子”提供的信息（Mascaro & Sperber,2009）。
+
+信任更好启发式是指当面对多个信息提供者时，儿童会更信任他们认为更好的信息提供者。在信任更好启发式下，儿童会采用类似于“晕轮效应"（haloeffect）的方式进行推测，即认为某个信息提供者在某一领域表现得更好，那么该信息提供者可以更好地解决未来所有问题。例如，当儿童面对两个不同情绪的信息提供者时，儿童会更信任表达相对积极情绪的信息提供者关于新颖物品的命名（Tangetal.,2019)。在这种启发式下，儿童只需根据信息提供者的特征对信息提供者进行简单快速的比较、区分和评价，形成“谁更胜任”的整体印象（例如，更多的积极情绪)，并根据“谁更胜任”的整体印象回答谁更擅长的问题（例如，新颖物体的命名)，即使任务要求回答的领域与其胜任的领域并不一致。因此这种整体印象的评估是一种相当宽泛的形式，而不是根据信息提供者在既定领域中的表现。
+
+# 2.2I1型理性加工
+
+I 型加工是一种快速的自动化的判断过程，但这种判断过程有时会失效。例如，当儿童需要对具有两种特质的信息提供者（善意和能力)，在两类情景下进行（信守承诺和信息获取）进行信任判断时，信任更好的启发策略就不能帮助儿童做出理性判断（余巧华等,2021)。在这时就必须借助ⅡI型理性加工。在面对具体的任务情景时，只有拥有一定的与任务相关的背景概念知识和认知资源的儿童，才能够采用理性加工的方式，针对任务所需的能力和知识对信息提供者的能力和信息进行更为准确的推断。
+
+ⅡI 型理性加工主要体现在两个方面。第一个方面是当面对单个信任线索时，儿童能够根据线索以及所给的具体任务情景选择合适的信息提供者进行信任。例如，在Koenig 和 Jaswal（2011）的研究中， $3 { \sim } 4$ 岁儿童会事先告知信息提供者是否为某一领域专家这一线索。如一名信息提供者是狗专家，另一名信息提供者是普通人。之后儿童需要完成对不熟悉的狗和新颖物品命名的任务。结果发现，在命名不熟悉的狗的任务中，儿童会更倾向于相信狗专家的命名；在新异物品命名任务中，儿童对狗专家和普通人的命名认可不存在差异。这表明幼儿能够将可获得线索与特定的任务进行匹配，并未将信任泛化到其他领域。Sobel和Corriveau（2010）的研究也发现了类似的结果。研究者首先会让儿童熟悉两类玩具：一部分玩具能让球变绿，另一部分玩具能让球变红。同时熟悉两个信息提供者：一个了解能让球变绿的玩具，一个了解能让球变红的玩具。之后当给儿童呈现两个新异玩具：一个能让球变绿，一个能让球变红。结果发现他们会根据玩具的变色情况，选择相对应更了解玩具的信息提供者的命名。这些结果表明幼儿会根据相关线索对信息提供者擅长领域进行判断，并有选择地信任各自领域内的擅长者。
+
+ⅡI型理性加工的第二个方面是，当面对多个信任线索时，儿童能够根据任务内容克服社会性线索的干扰，根据认识性线索做出信任判断。其中认识性线索与任务要求能力和知识相关，且有助于个体做出理性推断，如信息提供者知识水平、专业性等。而社会性线索则与任务要求能力和知识无关，无助于个体做出理性推断，但也是影响儿童选择的重要的线索，如熟悉度、面孔吸引力等。这可能存在两种情况：第一，当存在多个信任线索但不冲突的情况下，儿童能根据认识性线索进行理性推断。例如，Rakoczy 等（2015）让 $3 { \sim } 6$ 岁的儿童面对以下两个情境：当呈现熟悉的动物时（例如，猫和狗)，两名信息提供者都命名正确；当呈现不熟悉动物时（如：蝶螈)，只有一个信息提供者能够命名，另一个信息提供者表示不知道。结果发现儿童在会根据正确命名不熟悉动物的信息提供者的建议进行后续的任务。这说明了在存在多个但不冲突的信任线索的情况下，儿童能够克服无助于理性推断的线索（在熟悉的动物命名上的表现）的干扰，根据有助于理性推断的线索(在不熟悉动物命名上的表现)和任务所需的知识进行信任判断。第二，当儿童面对两个呈现矛盾线索的信息提供者，儿童能够根据任务内容和有助于理性推断的认识性线索、克服无助于理性推断的社会性线索做出信任判断。例如，口音作为一种社会性线索会影响儿童的信任判断，儿童会更倾向于相信持本地口音对新异物体的命名（Kinzler etal.,2011)。但是当社会性线索和认识性线索—一过去精准度互相冲突时，4～5岁儿童的信任偏好发生了变化：当持本地□音的信息提供者对于熟悉物体的命名一直错误，而持非本地口音的信息提供者的命名一直正确的情况下，儿童会克服口音线索的干扰，根据过去准确度做出信任判断（Corriveau etal.,2013)。此外，不仅在单任务的情况下儿童能够正确做出理性推断，在多任务的情况下，他们也能根据任务特征进行线索特征匹配，然后选择合适的信息提供者。例如，Brosseau-Liard 和Birch（2011）发现4岁幼儿在物品命名任务中会更认可过去准确性高的信息提供者的命名，而在箱内物体猜测任务中则更重视信息提供者的视觉通达性，即是否看过箱内的物体，而不是过去准确性。Kushnir等（2013）发现当面对一个可以正确命名却不会修理玩具的信息提供者和一个不能正确命名却可以修理玩具的信息提供者，学龄前儿童会选择过去命名正确的信息提供者回答命名问题，选择能修好玩具的信息提供者回答修理问题。因此，即使是多任务的情况下，幼儿已经能够根据信息提供时的不同背景信息信任选择合适的信息提供者。
+
+# 5影响两种加工类型的交互的因素
+
+那么儿童会在什么样的情景下使用自动化的I型加工方式？什么样的情景下使用理性的Ⅱ型加工方式？ⅡI型加工在什么时候会对I型加工的结果产生影响？这其中的认知机制还不清晰。我们梳理了以下几个可能会对这一过程产生影响的因素。
+
+第一，年龄与儿童的选择性信任密切相关，背后的原因可能是认知能力，特别是执行功能的限制。研究发现不同年龄段的儿童在选择性任务上存在差异（Tong etal.，2020)。例如，当过去准确性和口音熟悉性发生冲突，4岁和5岁（而不是3岁)的儿童会根据过去准确性而非口音对信息提供者命名的准确性做出判断（Corriveau etal.,2013)。此外，当过去准确性与群体内外归属发生冲突，只有6岁和7岁（而不是 $3 { \sim } 5$ 岁）的儿童会降低对不准确群体内信息提供者的信任（Elashi&Mills,2014)。这样的发展过程反映出年龄较大的儿童会进行ⅡI型加工方式，年龄较小的儿童只能使用I型加工方式。出现这种年龄差异的一个原因可能在于认知能力，特别是执行功能的差异。部分研究者认为执行功能和选择性信任的表现之间存在联系（Lucas etal.,2013)。由于选择性信任任务需要儿童对认识性和社会行信任线索进行区分后将这些线索用于预测信息提供者未来行为，而这一过程与执行功能中的注意、认知灵活性、抑制控制等都存在联系（丁雪辰等,2017)。因此，执行功能的发展能够帮助儿童在区分信息提供者、预测未知行为时表现得更好。Lucas等（2013）发现在空间冲突抑制任务上表现更差的儿童会持续相信成人给出的错误答案。这一结果表明，儿童需要足够的认知资源，才能抑制普遍信任的默认判断的倾向（Jaswaletal.,2014)。也可能是由于启发式策略提供的默认判断（如普遍信任他人的倾向）具有一定的适应性，对于认知能力发展不完善的儿童很难去抑制这一优势反应并作出理性的推断（李婷玉等，2018)。因此，只有年龄更大、认知功能发展的更为成熟的儿童才能更好的运用理性加工的方式进行信任判断。
+
+第二，能够进行理性推断的一个必要前提是要求幼儿拥有与所给任务相关的背景和概念知识。研究发现，能够正确的回答外显问题（如：谁更聪明？谁更强壮？谁回答正确？谁回答错误？）的儿童在随后的信任判断中表现的更好，而错误回答的儿童的表现趋于随机（Koenig et al.,2004;Hermes,Behne,Bich et al.,2018)。由此推断，拥有一定的与任务相关的背景概念知识对儿童能够使用ⅡI型加工至关重要。
+
+第三，认知资源的可用性。由于启发式的I型加工是快速和自动化的，而II型的加工则相对缓慢，因此这两类加工过程存在处理速度上的区别。而存在这一差异的原因在于ⅡI型加工作为一种分析性的理性判断，需要使用工作记忆系统进行顺行处理，在这一过程中还受到记忆容量和认知资源的限制。相比之下，启发式的I型加工则可通过大量并行的内隐系统运行（Evans,2008)。因此，当处于高认知负荷的状态下（例如，时间压力和双任务)，即使个体拥有足够的认知能力，他们也无法进行Ⅱ型理性加工。Hermes等（2020）的研究发现，在没有额外认知负荷的条件下，年龄较大的儿童和具有充足认知能力的成人会根据信息提供者的特点和任务要求选择合适的信息提供者，即表现符合ⅡI加工过程的反应模式。但在高认知负荷的条件下，成人会和幼儿一样使用简单的I型启发式策略。
+
+第四，儿童是否能够运用理性加工也与儿童遇到的任务性质有关。如果儿童遇到的任务中所给的线索无法调动理性加工的参与，那么儿童会采用自动化的加工方式。例如，当儿童面对的信息提供者只存在一个线索上的差异，或只提供给儿童单个信息者时，儿童会采用自动化的加工方式（Corriveau&Harris,2009;Corriveau etal.,2013；Hermes,Behne,Bich etal.,2018)。但是当任务中所给的线索能够调动理性加工的参与，且儿童拥有相应的认知资源和背景概念知识时，儿童能够克服自动化的默认判断，选择与任务相关的信息提供者进行信任。
+
+综上，儿童在发展的早期主要采用基于启发式策略的I型加工进行默认判断。随着认知功能的发展，儿童的理性推断能力不断增强，可以逐渐克服启发式默认判断带来的优势反应，采用ⅡI型加工进行信任判断。由于I型加工和Ⅱ型加工共存于儿童的认知策略中，因此拥有足够的认知资源和相关背景知识的儿童能根据任务所需，灵活运用I型加工或ⅡI型加工来选择合适的信息者进行信任。
+
+# 6双重加工模型对未来选择性信任研究的启示
+
+总的来说，双重加工模型将儿童选择性信任过程分成I型加工和ⅡI型加工两种潜在的认知过程。由于该模型属于新近提出的模型，目前的探讨不够深入系统。本文在对双重加工模型及相关研究进行系统论述的基础上，认为未来儿童选择性信任的研究可从以下几个方面进行：
+
+第一，该模型认为儿童选择性信任的发展中，II型加工过程出现较晚，I型加工出现较早。那么在年龄较小的儿童身上真的只存在I型加工过程吗？以往的研究表明即使在婴儿阶段，个体也拥有一定的因果推理能力。Cristina（2019）的研究发现，14个月大的婴儿就已经会对他人的知识状态（无知或可靠）进行推断，并基于此进行有选择性的信任。由于目前有关选择性信任的研究大多集中在学龄前儿童，没有直接的证据表明在婴儿身上可能存在ⅡI型加工过程，因此未来的研究可针对年龄较小的幼儿身上进行探究Ⅱ型加工的存在与否。此外，如果年龄较小的幼儿未能使用ⅡI 型加工，那么到底是由于幼儿缺乏基于任务内容进行因果推理的认知策略，还是他们其实已经具备这种认知策略，但缺乏推翻I型默认判断的元认知或执行功能，即到底是认知策略的缺乏还是认知能力的缺乏，也值得进一步探讨。
+
+第二，该模型揭示了选择性信任与其他发展领域（如心理理论、执行功能）的关系。但理性加工的出现到底需要什么认知能力目前仍不清晰。从本质上来说，ⅡI型加工和I型加工的区别在于，ⅡI型加工需要儿童具备一定的认知资源和假设性思维，以及需要强大的工作记忆对其资源整合，而在抑制I型加工时，也需要儿童具备执行功能和元认知。未来在考察选择性信任时，应进一步探明影响理性加工的认知因素。
+
+第三，该模型论述了I型加工中部分启发式策略，但未来仍需进一步探究I型加工过程的适用和限制范围，以及I型加工产生背后的原因进行探究。例如，在I型加工中，什么样的信任线索会被过度概括并引起“更胜任"的整体印象呢？一种可能与信任线索的易理解性有关。在成人研究中发现，当被试越容易理解他人的特质概念时，他们就越容易回忆和使用与他人特质相关的信息（Higgins et al.,1982)。那么如果在I型加工过程中，相较于其他信任线索，某个信任线索的概念更容易理解，是否在该线索上更容易让儿童出现“更胜任”的整体印象？
+
+第四，该模型可以部分解释具有认识性线索下儿童作出的信任判断，那么在不存在认识性线索的情况下呢？在Croce 和Boseovski（2020）的研究中， $4 { \sim } 8$ 岁的儿童将面对两个信息提供者：一个善良却对他人的画作做出消极评价，一个不善良却对他人的画作做出积极评价。而在询问儿童在未来会更倾向向哪个信息提供者询问画作内容以及证言时，他们都更倾向询问并信任提供积极证言的不善良信息提供者。在这一研究中，并不存在有关证言可信度相关的认识性信息，但儿童更倾向于信任提供积极信息的信息提供者，即证言信息效价的优先级高于人格特质效价。这可能是由于在对信息提供者做出信任判断时，相比于信息提供者的个人特质，其之前的证言可能会和其之后相似的证言存在联系，因此更愿意询问提供了积极证言的信息提供者。在这种情况下，儿童的选择性信任很难用双加工模型进行解释，有待未来研究者对双重加工模型进行补充和完善。
+
+第五，从年龄发展角度，仍然存在一些双加工模型无法解释的结果。例如该模型认为，随着年龄的发展，儿童会逐渐发展出的ⅡI型理性加工，并在关于物体命名等认识性证言领域中得到了验证，但在一些评价性证言中，却发现了不一致的结果。例如，在 Boseovski 和Thurman（2014）给 $3 { \sim } 7$ 岁儿童会呈现来自动物饲养员和母亲关于新颖动物的相矛盾的评价性证言。一半被试会听到来自动物饲养员对新颖动物的负面评价，听到母亲的积极评价，另一半被试听到的信息则相反。结果发现 $3 { \sim } 5$ 岁的儿童更倾向于相信动物饲养员的证言，即专家的证言，并且不存在效价上的差异。但 $6 { \sim } 7$ 岁的儿童则表现出对证言效价的偏好，更倾向于相信提供了积极证言的信息提供者。也就是说，当专业性线索和证言内容效价线索相冲突时，儿童对专业性线索的认可随着年龄的增长反而减少，这是目前双加工模型无法解释的。
+
+综上，本文在双加工模型的框架下，梳理了在不同选择性信任任务情境下儿童的表现，并基于现有的研究对如何区分I型和ⅡI型加工以及部分影响因素进行初步论述。虽然该模型并未完美解释选择性信任研究领域的所有研究，同时依然存在其他影响因素有待进一步探讨。对于该模型的研究和讨论有助于研究者理解儿童选择性信任领域的相关结果，厘清背后的机制，从而更好地理解儿童的学习过程。
+
+# 参考文献
+
+丁雪辰，桑标，潘婷婷.(2017).幼儿选择性信任与心理理论和执行功能的关联:来自追踪研究的证据．心理科学,40(5),1129-1135. htps://doi.org/10.16719/j.cnki.1671-6981.20170516.
+
+李婷玉，刘黎，李宜霖，朱莉琪.(2018).冲突情境下幼儿的选择性信任和信念修正．心理学报,50(12),1390-1399.
+
+余巧华，赵翰，马凤玲.(2021).4\~6 岁幼儿基于情景的选择性信任判断的发展特点.心理学进展,11(5),1220- 1228.https://doi.org/10.12677/AP.2021.115137
+
+Boseovski, J.J.,& Thurman, S.L. (2O14).Evaluating and approaching a strange animal: Children's trust in informant testimony. Child Development,85(2),824-834. https://doi.org/10.1111/cdev.12156
+
+Brosseau-Liard,P.E.,&Birch,S.A.(2Ol1).Epistemic states and traits: Preschoolersappreciate thediferential informativeness of situation-specific and person-specific cues to knowledge. Child development,82(6),1788- 1796. https://doi.0rg/10.111/j.1467-8624.2011.01662.x
+
+Corriveau,K.,& Harris,P.L. (2oo9). Choosing your informant: Weighing familiarity and recent accuracy.Developmental science,12(3),426-437. htps://oi.org/10.111/j.1467-7687.2008.00792.x
+
+Coriveau,K.H.,Kinzler,K.D.,& Harrs,P.L.(2Ol3).Accuracy trumps accent inchildren's endorsementof object labels.Developmental psychology,49(3),470.https://doi.org/10.1037/a0030604
+
+Cristina,C.(2019).Who knowsbest? Mechanisms underlying infants'selective social learning.PhDthesis, Concordia University.
+
+Croce,R.C.,&Boseovski,J.J. (2O2O).Traitor testimony?Children's preferences for positive informants.Journal of experimental child psychology,190,104726. https://doi.org/10.1016/j.jecp.2019.104726
+
+Elashi,F.B.,&Mills,C.M. (2014).Do children trust based on group membership or prioraccuracy? The role of novel group membership inchildren's trustdecisions.Journal ofexperimental child psychology,128,88-104.
+
+Evans,J.S.B.(2oo8).Dual-processing accounts ofreasoning, judgment,and social cognition.Annual Reviewof Psychology.,59,255-278.https://doi.org/10.1146/annurev.psych.59.103006.093629
+
+Evans,J. S.B.,& Stanovich,K.E. (20l3).Dual-process theories of higher cognition: Advancing the debate.Perspectives on psychological science,8(3),223-241.https://oi.org/10.1177/1745691612460685
+
+Harris,P.L.(2012).Trusting whatyou're told: How children learn from others.Cambridge,MA: Belknap Press/Harvard University Press.
+
+Harris,P.L.,Koenig,M.A.,Coriveau, K.H.,&Jaswal,V.K. (2o18).Cognitive foundations of learning from testimony.Annual Review ofPsychology, 69,251-273.htp://dx.doi.org/10.1146/annurev-psych-122216- 011710
+
+Hermes,J.,Behne,T.,Bich,A.E.,Thielert,C.,&Rakoczy,H.(2018).Children's selective trustdecisions:Rational competence and limiting performance factors.Developmental science,21(2),e12527.https://doi. org/10.1111/desc.12527
+
+Hermes,J.,Behne,T.,& Rakoczy, H. (2018).The development of selective trust: Prospects fora dual-process account.Child Development Perspectives,12(2),134-138. https://doi.org/10.1111/cdep.12274
+
+Hermes,J.,Brugger,F.,&Behne,T. (2O2O).Selective trust inyoung childrenand distracted adults: halo-effects outweigh rational choices.https://doi.org/10.31234/osf.io/fr84t
+
+Higgins,E.T.,King, G.A.,& Mavin,G.H. (1982). Individual construct accessibilityand subjective impressions and recall.Journal of Personality and Social Psychology,43(1),35-47.htps://oi.org/10.1037/0022- 3514.43.1.35
+
+Jaswal,V.K., Carrington Croft,A.,Setia,A.R.,& Cole, C.A. (2010).Young children havea specific,highly robust bias to trust testimony.Psychological Science,21(10),1541-1547. https:/doi.org/
+
+10.1177/0956797610383438
+
+Jaswal,V. K.,Perez-Edgar, K.,Kondrad,R.L.,Palmquist, C.M.,Cole,C.A.,& Cole, C.E. (2014). Can't stop believing: Inhibitory control and resistance to misleading testimony. Developmental Science,17(6),965-976. https://doi.org/10.1111/desc.12187   
+Koenig, M.A., Clement,F.,& Harris,P.L. (204).Trust in testimony: Children's use of true and false statements. Psychological Science,15(10),694-698.htps://doi.org/10.111/j.0956-7976.2004.00742.x   
+Koenig,M.A.,& Jaswal, V. K. (2011). Characterizing children's expectations about expertiseand incompetence: Halo or pitchfork effects?. Child development,82(5),1634-1647. https:/doi.org/10.111/j.1467- 8624.2011.01618.x   
+Kinzler, K. D., Coriveau,K. H.,& Harris,P.L. (2011). Children's selective trust in native-accented speakers. Developmental science,14(1),106-111. htps://doi.0rg/10.111/j.1467-7687.2010.00965.x   
+Kushnir,T., Vredenburgh,C.,& Schneider,L.A. (2013).“Who can help me fix this toy?”The distinction between causal knowledge and word knowledge guides preschoolers’ selective requests for information. Developmental Psychology,49(3),446-453. https://doi. org/10.1037/a003 1649   
+Lucas,A.J.,Lewis,C.,Pala,F.C., Wong,K.,&Beridge,D.(2Ol3).Social-cognitive processes inpreschoolers' selective trust: Three cultures compared. Developmental psychology,49(3),579.https:/doi. org/10.1037 / a0029864   
+Mascaro,O.,& Sperber, D.(20o9).The moral, epistemic,and mindreading components of children's vigilance towards deception. Cognition,112(3),367-380. https://doi.org/10.1016/j.cognition.2009.05. 012   
+Rakoczy,H.,Ehrling,C.,Harris,P.L.,& Schultze,T. (2015).Young children heed advice selectively.Journalof experimental child psychology,138,71-87. htps:/doi.org/10.1016/j.jecp.2015.04.007   
+Sobel,D.M.,& Corriveau, K.H. (2010). Children monitor individuals' expertise for word learning. Child
+
+development,81(2),669-679.https://doi.org/10.1111/j.1467-8624.2009.01422.x
+
+Tang,Y.,Harris,P.L.,Zou,H.,& Xu,Q. (2019).The impact of emotional expressions on children's trust judgments. Cognition and Emotion,33(2),318-331.https://doi.org/10.1080/02699931.2018.1449735
+
+Tong,Y.,Wang,F.,&Danovitch,J. (202O).Theroleof epistemicand socialcharacteristics inchildren'sselective trust: Three meta-analyses.Developmental science,23(2),e12895.htps:/doi.org/10.1111/desc.12895
+
+# Children's Selective Trust in the Perspectives of DualProcess Model
+
+Zhang Zhinuo, Du Yao, Tang Yulong (Institute of Psychology, College of Education, Zhejiang University of Technology, Hangzhou 310023, China)
+
+Children understand the world through learning. But they cannot obtain knowledge only through direct observation. Such as ethics, morality, and religious beliefs, children need to obtain knowledge from others.But children are likely to be deceived or gain wrong knowledge if they trusted the information indiscriminately. Therefore, as one of the basic abilities required for children's learning, the selective trust could help children gain useful information and construct their cognitive world. Selective trust germinated in infancy and matured from toddler to childhood. Current research results showed that children's selective trust was a credulous and rational process. So, what was the true nature of children's selective learning? How to explain these inconsistent findings? What was the cognitive mechanism behind these inconsistencies? The proposed dualprocessing model of selective trust provided a new idea for explaining the cognitive mechanism behind children's learning.
+
+A core point of the dual-processing model was that children use simple heuristic strategies to make default judgments in the early stages of development. However, as they grew up and their cognitive level developed, children's trust judgment strategies became more rational. The heuristic strategy was a Type I processing, and the rational processing strategy was Type II processing. When Type I processing appeared, Type I processing would not disappear but still coexist with Type II processing in children's cognitive strategies. When the Type I processing could not work, Type II processing would intervene and help children make rational choices. Unlike the dual-processing model in cognitive psychology, the character of the dual-processing model in selective trust was that, in selective trust, Type I processing was based on simple heuristic strategies and did not require specific ability and knowledge. The Type I process was a collection of multiple heuristic strategies, and there were at least two main strategies: general-trust heuristic and trust-the-better heuristic. Type II processing required children to use rational processing methods to compare and match the information providers' abilities and traits more accurately according to specific task requirements. Type II processing had two manifestations. The first aspect was that children could trust appropriate information providers based on the clues and specific task scenarios given when faced with a single trust clue.The second aspect was that children could overcome the interference of social cues and make trust judgments based on cognitive cues when faced with multiple trust cues. The age,having the task-related background and conceptual knowledge, the availability of cognitive resources, the nature of the task, and others factors would affect children how use these two processing strategies.
+
+In sum, based on introducing the dual-processing model, this article sorted out the credulity and rationality of children under different selective trust task situations, and discussed how to distinguish between Type I and Type II processing and some influencing factors.Although this model did not explain all the research in the field of selective trust perfectly, discussing this model could help researchers understand the relevant results in children's selective trust and clarify the mechanism behind it to better
+
+understand children's learning process.
+
+Key words selective trust; children; dual-processing model

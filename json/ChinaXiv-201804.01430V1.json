@@ -1,0 +1,622 @@
+[
+    {
+        "type": "text",
+        "text": "一种带饱和函数的幂次新型滑模趋近律设计与分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李蒙蒙a,b，叶洪涛a,b，罗文广a,b",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(广西科技大学a.电气与信息工程学院;b.广西汽车零部件与整车技术重点实验室，广西 柳州 545006)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对滑模控制系统中存在抖振严重、收敛速度慢的问题，设计了一种带饱和函数的幂次滑模趋近律，该趋近律通过饱和函数和两个幂次项系数在系统趋近过程不同阶段进行针对性地调节，提高了系统动态响应过程的收敛速度，且有效削弱了抖振，从理论上证明了其存在性和可达性。将该趋近律应用到存在干扰的二力臂机械手名义模型控制系统中，结果表明，所提出的趋近律提高了系统的收敛速度，而且有效抑制了系统的抖振。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：滑模控制；趋近律；抖振；收敛速度；名义模型中图分类号：TP273.2 doi:10.3969/j.issn.1001-3695.2017.12.0817",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Novel power reaching law with saturation function of sliding mode control design and analysis ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Li Mengmenga, b, Ye Hongtaoa,b, Luo Wenguanga, b (a.SchoolofElectrical& Information Engineering,b.Guangxi Key Laboratoryof Automobile Components& Vehicle Technology Guangxi University of Science & Technology,Liuzhou Guangxi 545o06, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In order to solve the problems ofseverechattering and slow convergence in sliding mode control system,this paper desiged anovel reaching law byusing saturation function and power term.It adjusted the reaching law bythe saturation functionandtwopowertermcoeficientsatdifferentstagesofthesystemapproachingprocess.Itcanimprove theconvergence speed ofthe dynamic response proces,and effectively weakenthe chatering.Furthermore,this paper provedthe existenceand accessibilityofthe novelreaching law.Applying thereachinglawtonominalmodelofthe twoarms manipulatorcontrolsystem with disturbance,the simulationresultsshowthatthereaching law improves theconvergencespeedand efectivelyattnuates the chattering of the system. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: sliding mode control; reaching law; chattering; convergence speed; nominal mode ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "滑模变结构控制本质上是一类特殊的非线性控制方法，与其他常规控制方法的不同之处在于非线性表现为控制的不连续开关特性[1]。由于其具有强鲁棒性、模型依赖性低以及参数灵活等特点，在实际工程中得到了广泛的应用，如机器人控制、飞行器控制，卫星姿态控制，电机与电力系统控制等[2.3]。但是传统的滑模控制方法抖振严重，为了抑制抖振，提高性能，研究者提出了各种削弱抖振的方法，其中典型的方法主要包括准滑模方法[4,5]、边界层法[6]、趋近律方法[7]、观测器法[8]、高阶滑模方法[9]、动态滑模方法[10]等。并且在削弱抖振方面，越来越多的智能方法,例如自适应控制、神经网络及模糊控制等先进方法也被应用于滑模变结构控制系统的设计中[1-13]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "滑模变结构控制包括趋近运动和滑模运动两个过程，但是当系统状态轨迹到达滑模面后难以严格地沿着平面向平衡点移动，而是在滑模面两侧来回穿越产生抖振[14]，抖振问题不仅会影响系统的精确性，增加能量消耗，而且可能激发系统建模时未考虑的高频部分，使系统的性能下降甚至遭到完全破坏。因此，减弱系统的抖振，提高系统控制的鲁棒性仍是目前研究的热点之一。我国学者高为炳院士分析了抖振产生的主要原因，提出了趋近律的概念。几种典型趋近律包括等速趋近律、指数趋近律、幂次趋近律和一般趋近律。基于趋近律的滑模变结构控制方法可以改善系统趋近过程的动态品质[15]，因此自提出以来国内外学者对其进行研究并取得了一定的成果。文献[16]采用特殊幂次函数和反双曲正弦函数构造一种新型趋近律，显著减弱了输入信号的抖振现象，并利用反双曲正弦函数构造自适应律，限制滑模控制输入信号的幅值，但是没有给出趋",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近速率的表达式和定性分析。文献[17]对双幂次趋近律进行了改进，在双幂次趋近律的基础上增加了自适应项，通过调整系数可以提高趋近速度和减弱抖振，但是在控制律设计时没有考虑系统的外部干扰，没有解决受扰时控制作用抖振问题。文献[18]通过指数函数来设计一个非线性趋近律，能有效抑制系统的抖振，特别是在稳态状态下控制输入的抖振。文献[19]中提出一种多幂次滑模趋近律，可以通过针对性地调节三个幂次项的系数来提高系统的收敛速度并有效减弱抖振，但是由于其趋近律参数数目较多且选择随机性较大，因此抑制抖振存在局限性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文在趋近律中引入饱和函数是由于其在边界层外，可以采用切换控制，在边界层内，采用线性化反馈控制，引入饱和函数可以使滑模控制有效削弱抖振，引入幂次项，可以通过改变幂次项的参数，从而改善系统的动态品质。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 新型滑模趋近律",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1新型滑模趋近律的设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文提出一种新型滑模控制趋近律：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\dot { s } = - k \\mid s \\mid ^ { \\beta } s - \\varepsilon \\mid s \\mid ^ { \\alpha } s a t ( s ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\varepsilon { > } 0$ ， $k { > } 0$ ， $0 { < } a { < } 1$ ， $0 < \\beta < 1$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "饱和函数 $s a t ( s )$ 为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns a t ( s ) = \\left\\{ \\begin{array} { l l } { s i g n ( s ) \\quad } & { | { \\mathrm { s } } | > \\Delta } \\\\ { \\displaystyle \\frac { s } { \\Delta } } & { | { \\mathrm { s } } | \\leq \\Delta } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\Delta$ 称为边界层厚度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式（1）中，当 $| s | { > } \\Delta$ 时，幂次项能保证系统状态以较大的速度趋近滑动模态；当 $| s | { \\le } \\Delta$ 时，饱和函数在边界层内采用线性反馈控制，在滑动模态实现了平滑过渡，削弱系统抖振。该趋近律将幂次项和饱和函数的优点结合起来,在确保系统趋近速度的同时，削弱了系统的抖振。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2存在性及可达性证明",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定理1对于滑模趋近律(1)，系统状态 $s$ 在其作用下可达到平衡点 $\\scriptstyle { s = 0 }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "证明取Lyapunov 函数为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ( \\mathrm { x } ) { = } \\frac { 1 } { 2 } s ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "则有",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { V } ( x ) = s \\dot { s } = s ( - \\varepsilon \\mid s \\mid ^ { \\alpha } s a t ( s ) - k \\mid s \\mid ^ { \\beta } s )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因为 $\\varepsilon { > } 0$ $\\cdot 0 , k > 0 , \\Delta $ $\\Delta { > } 0$ ，所以式（4）可以分为两种情况：a)当 $| s | { > } \\Delta$ 时，式（4）变为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\dot { V } } ( x ) = s { \\dot { s } } = - k \\mid s \\mid ^ { \\beta } s ^ { 2 } - \\varepsilon s \\mid s \\mid ^ { \\alpha } s i g n ( s ) \\leq 0\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)当 $| s | { \\le } \\Delta$ 时，式（4）变为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\dot { V } ( x ) = s \\dot { s } = - \\varepsilon s \\left| s \\right| ^ { \\alpha } \\frac { s } { \\Delta } - k \\left| s \\right| ^ { \\beta } s ^ { 2 } = } } \\\\ { { - \\displaystyle \\frac { \\varepsilon } { \\Delta } s ^ { 2 } \\left| s \\right| ^ { \\alpha } - k \\left| s \\right| ^ { \\beta } s ^ { 2 } \\leq 0 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综合以上两种情况得",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { V } ( x ) = s \\dot { s } \\le 0\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当且仅当 $\\scriptstyle { s = 0 }$ 时，有 $s { \\dot { s } } = 0$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据连续系统滑模趋近律存在且可达性条件[20]，若满足$\\mathit { s i s } \\le 0$ ，则所设计的滑模趋近律为存在且可达的，即系统状态 $s$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在趋近律（1）作用下可达到平衡点 $\\scriptstyle { s = 0 }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3稳态抖振分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于传统的指数趋近律，其表达式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { s } = - \\varepsilon \\cdot s i g n ( s ) - k s , k > 0 , \\varepsilon > 0\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当 $s { = } 0 ^ { + }$ 时，式（8）可写为 $\\dot { s } = - \\varepsilon$ ，即临近稳态时，在正方向趋近稳态的系统以 $\\dot { s } = - \\varepsilon$ 的速率运动；当 $\\scriptstyle s = 0 ^ { \\cdot }$ 时，式（8）可写为 $\\dot { s } = \\varepsilon$ ，即临近稳态时，在负方向趋近稳态的系统以 $\\dot { s } = \\varepsilon$ 的速率运动。因此，系统不会稳定在平衡点处，而是在平衡点处存在幅值为 $\\varepsilon$ 的抖振。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于新型趋近律(1)，当 $s { = } 0 ^ { + }$ 及 $\\scriptstyle s = 0 $ 时，新型趋近律均可写为 $\\dot { s } \\to 0$ ，即系统在临近稳态时几乎不会产生抖振现象。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "注1当 $\\scriptstyle { s = 0 }$ 时 $\\dot { s } = 0$ ，因此当状态到达滑模态时速度减小为零，与滑动模态实现了平滑过渡，大大削弱了系统抖振。适当的调整参数ε、 $k$ ， $\\boldsymbol { a }$ 和 $\\beta$ 不仅可以提高系统的趋近速度，还可以改善系统的动态品质。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 仿真算例与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1几种趋近律对比",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当不存在干扰时，对于二阶传递函数",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG ( s ) = { \\frac { b } { s ^ { 2 } + a s } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $a = 2 5$ ， $\\scriptstyle b = 1 3 3$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "分别采用指数趋近律、幂次趋近律以及本文所提出的新型趋近律设计控制律 $u$ ，并进行对比。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式（9）写成状态方程",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\dot { x } } = A x + B u\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用趋近律的控制方式，控制律推导如下[21]：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns = C x\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { s } = C \\dot { x } = s l a w\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $C = [ 1 5 , 1 ]$ ,slaw为趋近律。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu = ( C B ) ^ { - 1 } ( - C A x + \\dot { s } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)指数趋近律",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { S } _ { a } = - k _ { a } S - \\varepsilon _ { a } S i g n ( s )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）幂次趋近律",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { s } _ { b } = - k _ { b } \\mid s \\mid ^ { \\beta } s i g n ( s )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c）新型趋近律",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { s } _ { c } = - k _ { c } \\mid s \\mid ^ { \\beta } s - \\varepsilon _ { c } \\mid s \\mid ^ { \\alpha } s a t ( s )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "趋近律参数设置如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/547b2c2813eee46dfd010c4adb596eda5342f5f928b934ce10459066fc4874bc.jpg",
+        "table_caption": [
+            "表1各趋近律参数设置[21]"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>指数趋近律</td><td>幂次趋近律</td><td>新型趋近律</td></tr><tr><td>ka=10</td><td>kb=10</td><td>kc=10,εc=5.0</td></tr><tr><td>εa=5.0</td><td>β=0.5</td><td>α=0.9， β=0.5</td></tr><tr><td></td><td></td><td>△=0.02</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "参数 $k , \\ \\varepsilon$ 和 $\\beta$ 的选择参考文献[21]，参数 $\\alpha$ 对系统的影响如图1、2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d2e06e6866bc33794d3f5d629f2723f67261a9da344439c61437dc33c4b492b.jpg",
+        "img_caption": [
+            "图1新型趋近律在 $k { = } 1 0$ ， $\\scriptstyle \\varepsilon = 5 . 0$ ， $\\beta { = } 0 . 5$ 下 $s$ 随 $\\scriptstyle a$ 值变化情况"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b468c345e4415497f71f69f34df98ea920a9dc53338ca17f12cae42ddaacc17a.jpg",
+        "img_caption": [
+            "图2新型趋近律在 $k { = } 1 0$ ， $\\scriptstyle \\varepsilon = 5 . 0$ ， $\\beta { = } 0 . 5$ 下 $\\boldsymbol { u }$ 随 $\\scriptstyle a$ 值变化情况"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图1和2可知， $\\alpha$ 对系统的影响不大，本文选取 $\\scriptstyle { a = 0 . 9 }$ 。  \n几种趋近律对比的仿真结果如图3、4所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3741f74e96e26a84527bda5d747102a4ad9873df631ff414a4826d3427068b02.jpg",
+        "img_caption": [
+            "图3不同趋近律下 $s$ 随时间变化情况"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c0a18c88a71c2473e7ac08bb15362972010c4495a42b522cbfb722ae99601b7.jpg",
+        "img_caption": [
+            "图4不同趋近律下控制器输出 $u$ 随时间变化情况"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图3和4可见，指数趋近律和幂次趋近律在系统状态远离滑模面时收敛速度较小，且指数趋近律因常数项的存在，系统不会稳定在平衡零点处，而是在平衡零点附近产生抖振。幂次趋近律虽然削弱了抖振，但在远离滑动模态阶段收敛速度较小，导致收敛时间较长。新型趋近律在一定程度上增大了收敛速度，这是由于新型趋近律具备两个可调节的幂次项系数，使系统在接近滑模面和远离滑模面时均具有较快的收敛速度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2趋近律在二力臂机械手名义模型控制系统中的应用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1控制律的设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以二力臂机械手的名义模型[22]为控制对象，动态方程为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM ( q ) { \\ddot { q } } + H ( q , { \\dot { q } } ) { \\dot { q } } = u - d ( t )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $: M ( q )$ 为 $2 { \\times } 2$ 正定质量惯性矩阵； $H ( q , \\dot { q } )$ 为哥氏力、离心力和重力之和； $d ( t )$ 为干扰。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将不确定因素视为外界干扰 $f ( { \\boldsymbol { q } } , { \\dot { \\boldsymbol { q } } } , t )$ ，则 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM ( q ) { \\ddot { q } } + H ( q , { \\dot { q } } ) { \\dot { q } } = u + f ( q , { \\dot { q } } , t )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中: $f ( q , \\dot { q } , t ) = \\Delta u - \\Delta M \\ddot { q } - \\Delta H \\dot { q } - d ( t )$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取二关节角度指令分别为 $q _ { 1 d }$ 和 $q _ { 2 d }$ ，则二关节的跟踪误差 为 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l l l l } { { e = [ q _ { 1 d } - q _ { 1 } } } & { { { \\dot { q } } _ { 1 d } - { \\dot { q } } _ { 1 } } } & { { q _ { 2 d } - q _ { 2 } } } & { { { \\dot { q } } _ { 2 d } - { \\dot { q } } _ { 2 } ] = } } \\\\ { { } } & { { [ e _ { 1 } } } & { { { \\dot { e } } _ { 1 } } } & { { e _ { 2 } } } & { { { \\dot { e } } _ { 2 } ] } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "系统切换函数采用线性滑模面",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns = C e + { \\dot { e } } = { \\left[ \\begin{array} { l } { c _ { 1 } e _ { 1 } + { \\dot { e } } _ { 1 } } \\\\ { c _ { 2 } e _ { 2 } + { \\dot { e } } _ { 2 } } \\end{array} \\right] }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { s } = \\left[ { c _ { 1 } \\dot { e } _ { 1 } + \\dddot { e } _ { 1 } } \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综合式（1）（18）和（21)，则控制律为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu = M \\left[ \\left[ \\begin{array} { l } { c _ { 1 } \\dot { e } _ { 1 } } \\\\ { c _ { 2 } \\dot { e } _ { 2 } } \\end{array} \\right] + \\left[ \\begin{array} { l } { \\ddot { q } _ { 1 d } } \\\\ { \\ddot { q } _ { 2 d } } \\end{array} \\right] + \\varepsilon \\left| \\begin{array} { l } { s } \\end{array} \\right| ^ { \\alpha } s a t ( s ) + k \\left| \\begin{array} { l } { s } \\end{array} \\right| ^ { \\beta } s \\right] + H - f\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2系统仿真",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以二关节机械臂系统为研究对象，其动力学模型为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM ( q ) \\ddot { q } + H ( q , \\dot { q } ) \\dot { q } = u - d ( t )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $M ( q ) = \\left[ \\begin{array} { c c } { { 0 . 1 + 0 . 0 1 \\cos ( q _ { 2 } ) } } & { { 0 . 0 1 \\sin ( q _ { 2 } ) } } \\\\ { { 0 . 0 1 \\sin ( q _ { 2 } ) } } & { { 0 . 1 } } \\end{array} \\right]$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ( q , \\dot { q } ) = \\left[ \\begin{array} { c } { - 0 . 0 0 5 \\sin ( q _ { 2 } ) \\dot { q } _ { 2 } } \\\\ { 0 . 0 5 \\cos ( q _ { 2 } ) \\dot { q } _ { 2 } } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf = \\left[ { \\begin{array} { c } { - f _ { 1 } s a t ( s _ { 1 } ) } \\\\ { - f _ { 2 } s a t ( s _ { 2 } ) } \\end{array} } \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\boldsymbol d ( t ) = [ 2 \\sin ( 2 \\pi t )  } & { { } 3 \\cos ( 2 \\pi t ) ] ^ { \\mathrm { T } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "二关节的角度指令为 $q _ { 1 d } = \\cos ( t )$ 和 $q _ { 2 d } = \\sin ( t )$ ，系统的初始状态为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\big [ q _ { 1 } \\dot { q } _ { 1 } q _ { 2 } \\dot { q } _ { 2 } \\big ] = \\big [ 0 . 5 0 0 . 5 0 \\big ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因篇幅所限，本文只与指数趋近律进行对比。采用指数趋近律时，参数设置为 $\\scriptstyle { c _ { 1 } = c _ { 2 } = 4 }$ ， $k { = } 1 0$ ， $\\scriptstyle { \\varepsilon = 5 }$ 。采用新型趋近律时，参数设置为 $c _ { 1 } = c _ { 2 } = 4 , k = 1 0 , \\varepsilon = 5 , \\alpha = 0 . 9 , \\beta = 0 . 5$ 采用控制律(22),取 $f _ { 1 } { = } 2$ ， $f _ { 2 } { = } 3$ ，取边界层厚度 $\\scriptstyle \\Delta = 0 . 0 2$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "指数趋近律仿真结果如图5所示，新型趋近律仿真结果如图6所示。两种趋近律下关节1及关节2的跟踪误差如图7，其中实线表示传统指数趋近律，虚线表示本文所提出的趋近律。由图5可以看出，指数趋近律下关节1、2的控制输入有很明显的抖振，并且关节1、2的误差收敛到零的速度较慢，时间较长，而从图6和7可以看出，本文所提出的趋近律在收敛速度和抑制抖振方面都有所提高。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5 舞 unununununuruhururu -5 0 1 2 3 4 5 6 7 8 9 10 时间/s 5 0 Ws -5 0 1 2 3 4 5 6 7 8 9 10 时间/s ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5  \n舞牌 >>>>>>>>-50 1 2 3 4 5 6 7 8 9 10时间/s5  \n啤 WWWWWW-50 1 2 3 4 5 6 7 8 9 10时间/s",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7123e26c5a4c57d7348653c0541be856f952ecf1333ee77cf10716bca627eb26.jpg",
+        "img_caption": [
+            "图5指数趋近律下关节1、2的控制输入",
+            "图6新型趋近律下关节1、2的控制输入",
+            "图7两种趋近律下关节1及2的跟踪误差"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文提出了一种带饱和函数的幂次滑模趋近律,解决传统趋近律中收敛速度慢、收敛时间长和抖振严重的问题。与指数趋近律、幂次趋近律进行对比，本文所提出的趋近律不仅有效地削弱了抖振，而且无论在远离还是接近滑动模态时均具有较快的趋近速度。以二力臂机械手的名义模型为控制对象进行仿真，进一步验证了所提出的趋近律可以提高收敛速度，并且有",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "效抑制了系统的抖振。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：   \n[1]YangJie,WangQinglin，LiYuan.Slidingmodevariable structure control theory: a survey [C]// Proc of the 31st Chinese Control Conference.[S.1] : IEEE Press,2012: 3197-3202.   \n[2]Yu Xinghuo，Wang Bin，Li Xiangjun.Computer-controlled variable structure systems:The State-of-the-Art [J].IEEE Trans on Industrial Informatics,2012,8 (2): 197-205.   \n[3] 姜君，陈庆伟，郭建，等．基于新型趋近律的动中通系统滑模稳定跟踪 控制[J].控制与决策,2011,26(12):1904-1908.   \n[4]Corradini ML, Ippoliti G,Longhi S,et al.A quasi-sliding mode approach for robust control and speed estimation ofPM synchronous motors [J]. IEEE Trans on Industrial Informatics,2012,59 (2):1096-104.   \n[5]Nguyen ML,Chen Xinkai, Yang Fan.Discrete-time quasi-sliding-mode control with prescribed performance function and its application to piezo actuated positioning systems [J].IEEETrans on Industrial Informatics,2018, 65 (1): 942-950.   \n[6]MakriniLE,Rodriguez-Guerrero C,LefeberD,etal.The variable boundary layer sliding mode control: Asafe and performant control for compliant joint manipulators [J]. IEEE Robotics and Automation Letters,2017,2(1): 187- 192.   \n[7] Bartoszewicz A，Le'Sniewski P. Reaching law-based sliding mode congestion control for communication networks [J].IET Control Theory and Applications,2014,8 (17): 1914-1920.   \n[8]Yuan Jun,Wu Zhengxing, Yu Junzhi,et al. Sliding mode observer-based heading control for a gliding robotic dolphin[J].IEEE Transon Industrial Informatics,2017,64(1): 6815-6824.   \n[9]Utkin V.Discussion aspects of high-order sliding mode control[J]. IEEE Trans on Automatic Control,2016,61(3):829-833.   \n[10] Wen Shiping, Chen M ZQ, Zeng Zhigang,et al.Fuzzycontrol for uncertain vehicle active suspension systems via dynamic sliding-mode approach [J]. IEEETranson Systems,Man,and Cybernetics& Systems,2017,47(1): 24- 32.   \n[11]廖煜雷，庞永杰，庄佳园．喷水推进型无人艇航向跟踪的反步自适应滑 模控制[J].计算机应用研究,2012,29(1):82-100.   \n[12] Ma Xi, Sun Fuchun,Li Hongbo,et al. Neural-network-based sliding-mode control for multiple rigid-body atitude tracking with inertial information completely unknown [J]. Information Sciences,2017,40(C),91-104.   \n[13] Wai Rongjong, Muthusamy R.Fuzzy neural network inherited sliding mode control for robot manipulator including actuator dynamics [J].IEEE Trans on Neural Networks and Learning Systems,2013,24(2): 274-287.   \n[14] Yu Xinghuo,Kaynak O. Sliding mode control made smarter:A computational intelligenceperspective [J].IEEE Systems，Man& Cybernetics Magazine,2017,3 (2): 31-34.   \n[15]Latosi'nski P. Sliding mode control based on the reaching law approach: a brief survey $[ \\mathrm { C } ] / \\AA$ Proc of 22nd International Conference on Methods and Models in Automation and Robotics.[S.1] $\\because$ IEEE Press,2017: 519-524.   \n[16]周涛．基于一种新型趋近律的自适应滑模控制[J].控制与决策,2016, 31(7):1335-1338.   \n[17]翟伟娜，葛云旺，宋书中．基于改进趋近律的机械手滑模控制[J].信 息与控制,2014,43(3):300-305.   \n[18]Fallaha CJ,Saad M,KanaanHY,et al.Sliding-mode robot control with exponential reaching law [J].IEEE Trans on Industrial Electronics,2011,58 (2):600-610.   \n[19]张瑶，马广富，郭延宁等．一种多幂次滑模趋近律设计与分析[J]．自 动化学报,2016,42(3):466-472.   \n[20] Utkin V. Variable structure systems with sliding modes [J]. IEEE Trans on Automatic Control,1977,22 (2): 212-222.   \n[21]刘金琨．滑模变结构控制MATLAB仿真[M].北京：清华大学出版社 2005:35-40.   \n[22]刘金琨.滑模变结构控制 MATLAB 仿真—一先进控制系统设计方法 [M].3版．北京：清华大学出版社 2015:160-166. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

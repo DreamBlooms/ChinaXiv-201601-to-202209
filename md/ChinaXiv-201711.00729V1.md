@@ -1,0 +1,192 @@
+1 寡果糖诱导瘤胃急性酸中毒对山羊瘤胃发酵、蹄组织结构及炎症因子、金属蛋白  
+2 酶表达的影响
+
+3 冯泮飞1　刘军花　叶慧敏 朱伟云 毛胜勇\*（南京农业大学动物科技学院，南京210095）
+
+5摘要：本试验旨在研究寡果糖诱导瘤胃酸中毒对山羊瘤胃发酵、蹄组织结构、蹄部  
+6 炎症因子及金属蛋白酶表达的影响。采用随机区组设计，将8头健康装有永久性瘤胃  
+7 瘘管的波杂山羊(波尔山羊 $\times$ 长江三角洲白山羊)随机分为对照组和诱导酸中毒的试验组，每组4头。其中试验组山羊瘤胃寡果糖灌注量为 $2 1 \ \mathrm { g / k g \ B W }$ 。分别于灌注前（0h）和灌注后4、8、12、24和 $^ { 4 8 \mathrm { ~ h ~ } }$ 采集瘤胃液，同时分别在0、4、8、24和 $^ { 4 8 \mathrm { ~ h ~ } }$ 通过颈静脉采集血液，灌注后 $^ { 4 8 \mathrm { ~ h ~ } }$ 屠宰2组山羊，采集蹄组织。结果表明：与对照组相比，试验组山羊瘤胃液 $\mathsf { p H }$ 、挥发性脂肪酸浓度平均值显著降低 $( P { < } 0 . 0 5 )$ ，血液和瘤胃液中乳酸和脂多糖浓度平均值显著提高 $( P { < } 0 . 0 5 )$ ；组织形态学结果显示，与对照组相比，试验组山羊蹄组织中次级表皮蹄小叶和次级真皮蹄小叶的长度变短，蹄小叶形状不规则；实时定量PCR检测结果显示，较对照组比较，试验组山羊蹄组织中基质金属蛋白酶组织抑制物-1的mRNA的相对表达量显著降低 $( P { < } 0 . 0 5 )$ ，白细胞介素-6、膜型基质金属蛋白酶-1 和基质金属蛋白酶-2 的 mRNA 的相对表达量显著升高 $( P { < } 0 . 0 5 )$ 。结果提示，寡果糖诱导山羊急性瘤胃酸中毒可导致山羊瘤胃发酵紊乱，提高瘤胃液和血液中脂多糖与乳酸浓度，导致山羊蹄组织相关炎症因子与金属蛋白酶表达改变，最终引发山羊急性蹄叶炎。
+
+关键词：山羊；寡果糖；炎症因子；基质金属蛋白酶；蹄叶炎
+
+中图分类号：S826;S816.7
+
+蹄是牛羊等反刍动物重要的支持和运动器官，蹄的健康直接关系到这些动物的生产性能。蹄叶炎是动物蹄小叶（包括真皮小叶与角小叶）的一种弥散型的、非感染性的真皮损伤[1-2]。调查显示，蹄叶炎是当前集约化养殖下奶牛、绵羊及山羊常见疾病之一[3]，尽管报道认为引发动物蹄叶炎的因素很多，但众多学者认为，饲喂高精料饲粮可能是诱发草食动物蹄叶炎的最主要原因之一。
+
+目前有关高精料饲粮引发蹄叶炎的最主要证据来自于对马蹄叶炎的研究。研究表明，灌注寡果糖可导致马后肠发酵紊乱，肠道黏膜屏障受损，消化道内一些异常代谢产物如脂多糖（lpopolysaccharides,LPS）等可移位进入体内，使蹄组织中一类基质金属蛋白酶（matrix metalloproteinase，MMP）含量升高，由于MMP主要功能是降解细胞外基质和基膜[4-8]，MMP活性升高可促进细胞外基质与基膜的降解，使表皮与真皮相连的蹄小叶组织被破坏，最终使蹄与真皮直接接触，导致蹄叶炎。由于这些结果均来自于马蹄叶炎的研究，其在牛羊等反刍动物上是否有类似现象，并不清楚。
+
+基于以上情况，本试验假设对山羊瘤胃灌注寡果糖能够引发急性酸中毒，继而诱发蹄叶炎。为此，本研究以寡果糖灌注山羊瘤胄，研究了其对山羊瘤胃发酵、蹄组织结构、蹄炎症因子及金属蛋白酶表达的影响，旨在进一步了解反刍动物蹄叶炎的发病机制，并为建立一种低成本的蹄叶炎研究模型提供理论依据。
+
+1材料方法试验于2015年9月在南京农业大学动物房进行。
+
+# 1.1 试验动物及饲粮
+
+选用8头健康、体重相近、无蹄叶炎病史的2岁的安装有永久性瘤胃瘘管未阉割的波杂公山羊（波尔山羊×长江三角洲白山羊，体重约为 $2 6 \mathrm { k g }$ ，装有瘤胃瘘管)，统一驱虫、单栏饲养。基础饲粮配制参照我国《肉羊饲养标准》NY/T 816—2004[9],基础饲粮组成及营养水平见表1，每头每天饲喂饲粮 $4 5 0 \ \mathrm { g }$ 。日喂2次（08：00和17：00），等量饲喂，自由饮水。
+
+表1基础饲粮组成及营养水平 (风干基础)  
+Table1 Composition and nutrient levels of the basal diet(air-dry basis) %   
+
+<html><body><table><tr><td>原料 Ingredients</td><td>含量Content</td><td>营养水平 Nutrient levels2)</td><td>含量Content</td></tr><tr><td>羊草 Chinese wildrye</td><td>36.00</td><td>代谢能 ME/(MJ/kg)</td><td>10.62</td></tr><tr><td>苜蓿 Alfalfa hay</td><td>14.00</td><td>粗脂肪 EE</td><td>3.06</td></tr><tr><td>玉米粉 Corn powder</td><td>13.33</td><td>粗纤维CF</td><td>17.06</td></tr><tr><td>面粉 Wheat powder</td><td>24.33</td><td>粗蛋白质CP</td><td>15.37</td></tr><tr><td>豆粕 Soybean meal</td><td>10.00</td><td>酸性洗涤纤维 ADF</td><td>20.82</td></tr><tr><td>石粉 Limestone</td><td>0.67</td><td>中性洗涤纤维 NDF</td><td>34.26</td></tr><tr><td>食盐 NaCl</td><td>0.33</td><td>钙Ca</td><td>0.79</td></tr></table></body></html>
+
+<html><body><table><tr><td>磷酸氢钙 CaHPO4</td><td>0.67</td><td>磷P</td><td>0.43</td></tr><tr><td>预混料 Premix1)</td><td>0.67</td><td></td><td></td></tr><tr><td>合计 Total</td><td>100.00</td><td></td><td></td></tr></table></body></html>
+
+1预混料为每千克饲粮提供 The premix provided the following per $\mathrm { k g }$ of the diet: $\mathrm { M n S O 4 } \ 1 5 3 \ \mathrm { m g }$ $\mathrm { Z n S O _ { 4 } 1 8 6 m g }$ ， $\mathrm { F e S O _ { 4 } } 1 2 5 \mathrm { m g }$ ， $\mathrm { C o C l _ { 2 } 8 . 2 5 m g }$ ， $\mathrm { K I O } _ { 3 } 2 5 \mathrm { m g }$ ， $\mathrm { C u S O } _ { 4 } 3 3 \mathrm { m g }$ ， $\mathrm { N a S e O _ { 3 } 4 \ m g }$ ，VA $1 5 . 2 8 \mathrm { m g }$ ， VE 0.47 mg。
+
+2）营养水平参考文献[10]的方法计算。Nutrient levels were calculated according to the method in reference [10].
+
+1.2 试验设计
+
+试验开始后，将上述8头山羊随机分为对照组与试验组，每组4头。将寡果糖用去离子水溶解，按 $2 1 \ \mathrm { g / k g }$ BW 的剂量对试验组山羊通过瘤胃瘘管灌注，对照组则灌注等体积去离子水。为了让瘤胃微生物适应寡果糖，正试期开始前 $3 \mathrm { d }$ ，试验组山羊每天灌注正式剂量的 $5 \%$ 作为过渡，每天灌注2次。正试期分别于灌注前 $^ { 0 \mathrm { { h } } }$ 和灌注后4、8、12、24和 $^ { 4 8 \mathrm { ~ h ~ } }$ 采集瘤胃液，同时于灌注前 $^ { \mathrm { ~ 0 ~ h ~ } }$ 和灌注后4、8、12、24和 $^ { 4 8 \mathrm { ~ h ~ } }$ 通过颈静脉采集血液，灌注后 $4 8 \mathrm { ~ h ~ }$ 后立即屠宰。
+
+# 1.3样品采集
+
+在上述各取样时间点，利用自制负压装置，分别通过8头山羊瘤胃瘘管各采集20mL瘤胃液，所采瘤胃液经4层纱布过滤后，将滤液置于洁净的烧杯中，混合均匀后，立即测定瘤胃液pH，而后将瘤胃液转入离心管中， $- 2 0 \mathrm { ~ \textdegree C }$ 冻存，备测挥发性脂肪酸、乳酸和LPS浓度。在上述时间点，利用负压采血管从山羊颈静脉采集血液，室温静置 $3 0 ~ \mathrm { { m i n } }$ 后，将血液转入离心管中， $3 5 0 0 \times g$ 离心 $1 0 \mathrm { m i n }$ ，取上清， $- 2 0 \mathrm { ~ \textdegree C }$ 冻存，备测乳酸和LPS浓度。48 h后全部屠宰，屠宰后使用电锯锯下山羊蹄部[11]，采集蹄部组织[6.12]，一部分蹄组织立即置于液氮罐中保存；另一部分立刻放入 $4 \%$ 的福尔马林溶液中，备用于蹄小叶形态结构观测。
+
+1.4 测定方法
+
+# 1.4.1 瘤胃发酵参数的测定
+
+使用pH计(HI-9125,意大利HANNA公司)测定瘤胃液pH,采用气相色谱法(GC-14B气相色谱仪，日本岛津公司，柱温130℃，气化室温度180℃，检测器温度 $1 8 0 ~ \mathrm { ~ \textdegree ~ }$ ）
+
+测定挥发性脂肪酸浓度[13]，采用比色法测定瘤胃液和血液中乳酸的浓度[14]，使用显色基质试剂盒（厦门试剂实验厂有限公司）测定瘤胃液和血液中的LPS浓度[15]。
+
+# 1.4.2 组织切片的处理
+
+蹄组织用 $4 \%$ 的多聚甲醛固定，而后经洗涤、酒精梯度脱水、浸蜡、包埋、切片、帖片、脱蜡复水、苏木精-伊红（HE）染色和封固后，切片在光镜下观察蹄小叶形态的变化。
+
+# 1.4.3 总RNA的提取和cDNA的合成
+
+用TRIzol(日本TaKaRa公司)试剂从蹄部组织中提取总RNA[16]，使用超微量分光光度计ND-1000UV-Vis(美国Thermo公司)测量总RNA的浓度，样本的 $\mathrm { O D } _ { 2 6 0 \ \mathrm { n m } } / \mathrm { O D } _ { 2 8 0 \ \mathrm { n m } }$ 在$1 . 8 \sim 2 . 0$ ，总RNA保存在-80℃冰箱中。使用PrimeScript@RT试剂盒(日本TaKaRa公司)将提取的总RNA反转录成cDNA。
+
+# 1.4.4 实时定量PCR
+
+炎症因子白细胞介素- $1 \beta$ （interleukin- $1 \beta$ ， $I L \ – 1 \beta \$ ）、白细胞介素-6（interleukin-6,IL-6）和肿瘤坏死因子 $\mathfrak { a }$ (tumor necrosis factor alpha，TNF- $\alpha$ ）的引物序列参照Liu等[17],MMP-2、MMP-9、膜型基质金属蛋白酶-1（membrane type-1 matrix metalloproteinases,MT1-MMP)和基质金属蛋白酶组织抑制物-1(tissue inhibitors of metalloproteinases-1,TIMP-1)则根据GenBank上牛和羊的保守核酸序列，应用Primer 3.0 软件进行引物设计。所有引物序列如表2所示。所有引物由上海英骏生物技术有限公司合成。采用实时定量PCR法（StepOnePlusTMReal-Time PCR System，美国Applied Biosystems公司）对目的基因及内参基因甘油醛-3-磷酸脱氢酶（GAPDH）进行定量。目的基因的相对表达量以GAPDH作为内参进行校正，基因表达量采用2-ACt法进行处理。
+
+# 表2引物序列
+
+Table 2The primer sequences   
+
+<html><body><table><tr><td>基因Genes</td><td>上游引物 Forward primer</td><td>下游引物Reverseprimer</td><td>扩增长度 Amplificati</td></tr><tr><td>白细胞介素-1β IL-1β</td><td>CATGTGTGCTGAAGGCTCTC</td><td>AGTGTCGGCGTATCACCTTT</td><td>on length 173</td></tr><tr><td>白细胞介素-6 IL-6</td><td>CCAATCTGGGTTCAATCAGG</td><td>ACCCACTCGTTTGAGGACTG</td><td>241</td></tr><tr><td>肿瘤坏死因子α TNF-α</td><td>CAAGTAACAAGCCGGTAGCC</td><td>AGATGAGGTAAAGCCCGTCA</td><td>155</td></tr><tr><td>基质金属蛋白酶-2MMP-2</td><td>TTCTCACCCCCACCTGGTAA</td><td>AGGCATCTCTTTGTGGGTGG</td><td>143</td></tr></table></body></html>
+
+<html><body><table><tr><td>基质金属蛋白酶-9MMP-9</td><td>GCACGCACGACATCTTTCAG</td><td>GGAACTCACACGCCAGAAG A</td><td>74</td></tr><tr><td>膜型基质金属蛋白酶-1MT1-MMP</td><td>AGCACTGGGTGTTTGACGAA</td><td>GCATCCAGAAGAGAGCAGCA</td><td>111</td></tr><tr><td>基质金属蛋白酶组织抑制物-1TIMP-1</td><td>ATGCTGCTGGTTGTGAGGAA</td><td>ATGAGTGTCGCTCTGCAGTT</td><td>74</td></tr><tr><td>甘油醛-3-磷酸脱氢酶GAPDH</td><td>GGGTCATCATCTCTGCACCT</td><td>GGTCATAAGTCCCTCCACGA</td><td>180</td></tr></table></body></html>
+
+# 1.5 数据处理
+
+数据经Excel 2010初步整理后，瘤胃液pH、挥发性脂肪酸浓度、瘤胃液与血液中乳酸及LPS浓度采用SPSS 20.0的一般线性模型里的重复度量进行分析，而炎症因子及金属蛋白酶mRNA表达数据采用独立样本t检验进行统计分析， $P { < } 0 . 0 5$ 为差异显著,基因相对表达量采用平均值和标准误的形式表示，其他数据采用平均值±标准差形式表示。
+
+2 结果与分析
+
+2.1 瘤胃液pH
+
+由图1可见，试验组山羊的瘤胄液pH在灌胄后立即下降，在 $2 4 \mathrm { h }$ 达到最低点， $2 4 \sim$ 48h开始缓慢上升。与对照组相比，试验组瘤胃液pH平均值显著降低（ $P { < } 0 . 0 5 )$ 。瘤胃液 $\mathrm { p H } { < } 5 . 6$ 通常认为是酸中毒； $\mathrm { \ p H }$ 在 $5 . 0 { \sim } 5 . 6$ 之间为亚急性瘤胃酸中毒或慢性瘤胃酸中毒；而 $\mathrm { p H } { < } 5 . 0$ 接近4.5或是更低称为急性酸中毒，本试验中试验组瘤胃液pH在 $8 \mathrm { ~ h ~ }$ 后低于5，且持续至试验结束，显示试验组山羊发生了急性瘤胃酸中毒。
+
+![](images/9f496637a287a3490eec5787f011a064ce7afac60594252c82aa782f8cf65d68.jpg)  
+图1灌胃寡果糖对山羊瘤胃液pH的影响
+
+Fig.1Effects of intragastric administration of fructan on ruminal liquid $\mathrm { \ p H }$ of goats $( n { = } 4 )$
+
+2.2 瘤胃液挥发性脂肪酸浓度
+
+由图2可见，试验组的乙酸、丙酸、丁酸和戊酸浓度自灌注后4h开始下降，乙酸浓度在12h达到最低点，之后开始缓慢上升，丙酸、丁酸和戊酸浓度在灌注后24h达最低点，之后保持不变；而异丁酸和异戊酸浓度从灌胃之后立即下降，在24h达到最低点，之后浓度保持不变。较对照组比较，试验组山羊瘤胃内乙酸、丙酸、异丁酸、丁酸、异戊酸和戊酸浓度平均值均显著降低（ $P { < } 0 . 0 5 )$ 。
+
+![](images/7404e5fe08d3cee1b68d8b8e63c1768221fa358fd0dc72b762982a3e4fb7b8bd.jpg)  
+图2急性酸中毒对山羊瘤胃液挥发性脂肪酸浓度的影响
+
+Fig.2 Effects of acute acidosis on concentrations of volatile fatty acids in ruminal liquid of goats
+
+2.3 瘤胃液和血液中乳酸和LPS 浓度
+
+由图3可见，在 $0 \sim 2 4 \mathrm { ~ h ~ }$ 内，试验组的山羊瘤胃液中乳酸浓度持续上升， $2 4 \mathrm { ~ h ~ }$ 乳酸浓度均值达 $1 2 \ \mathrm { m m o l / L }$ ，同时血液中乳酸浓度也持续上升，48h达峰值；试验组山羊瘤胃液及血液LPS浓度在灌注后 $0 \sim 1 2 { \mathrm h }$ 内持续上升，12h达峰值，而后逐渐下降。较对照组比较，试验组血液与瘤胃液中乳酸和LPS浓度平均值均显著升高（ $P { < } 0 . 0 5 )$ 。
+
+![](images/4842165ad09d64b33a014bde44e23de7ff892b5e03c6b1dedaa33d962a9284dc.jpg)  
+图3急性酸中毒对山羊瘤胃液和血液中乳酸和LPS浓度的影响
+
+Fig.3Effects of acute acidosis on concentrations of lactic acid and LPS in ruminal liquid and blood of
+
+goats
+
+2.4 急性酸中毒对山羊蹄部组织形态学的影响由图5可见，对照组可以明显地看出蹄小叶的组织结构分为初级表皮蹄小叶（primary epidermal lamellae,PEL）、次级表皮蹄小叶（secondary epidermal lamellae,SEL）、  
+次级真皮蹄小叶（secondary dermal lamelle,SDL）和初级真皮蹄小叶（primary dermal  
+lamellae,PDL)。与对照组相比，试验组山羊次级表皮蹄小叶和次级真皮蹄小叶的长度变  
+短，并且形状变得不规则，并且变的不对称。
+
+![](images/7ebdaf9670de0274cd9726c72ed73decb8c7e5f7db3f31ad482e3e890147d1cf.jpg)  
+A( $1 0 \times )$ 、B( $4 0 \times )$ ：对照组 Control group；C（ $1 0 \times )$ 、D( $4 0 \times )$ ：试验组 Test group。  
+图5急性酸中毒对山羊表皮蹄小叶和真皮蹄小叶的形态结构的影响
+
+Fig.5 Effects of acute acidosis on histologic appearance of dermal and epidermal lamelle in hooves of
+
+goats
+
+2.5蹄小叶炎症因子mRNA相对表达量
+
+由表3可见，与对照组比较，试验组的山羊炎症因子 $I L { - } 6$ 的mRNA相对表达量显著升高（ $P { < } 0 . 0 5 \$ ），但 $I L \mathrm { - } 1 \beta$ 和TNF- $\cdot a$ 的 mRNA相对表达量无显著变化（ $P { > } 0 . 0 5 \$ ）。
+
+表3急性酸中毒对山羊蹄小叶炎症因子mRNA相对表达量的影响
+
+Table 3Effects of acute acidosis on mRNA relative expression levels of inflammatory cytokines in lamellae of hooves of goats   
+
+<html><body><table><tr><td>项目Items</td><td>对照组 Control group</td><td>试验组 Test group</td><td>标准误 SEM</td><td>P值 P-value</td></tr><tr><td>白细胞介素-1βIL-1β</td><td>1.04</td><td>11.47</td><td>3.52</td><td>0.20</td></tr><tr><td>白细胞介素-6 IL-6</td><td>1.01</td><td>218.59</td><td>51.91</td><td>0.02</td></tr><tr><td>肿瘤坏死因子α TNF-α</td><td>1.02</td><td>3.56</td><td>0.93</td><td>0.24</td></tr></table></body></html>
+
+# 182 2.6 蹄小叶MMPmRNA相对表达量
+
+由表4可见，与对照组比较，试验组山羊蹄小叶中的MMP-2、MT1-MMP的mRNA相对表达量均显著升高（ $P { < } 0 . 0 5$ ），TIMP-1mRNA相对表达量均显著降低（ $P { < } 0 . 0 5 \$ ），而2组间MMP-9的mRNA相对表达量无显著差异（ $P { > } 0 . 0 5$ ）。
+
+Table 4Effects of acute acidosis on mRNA relative expression levels of matrix metalloproteinases   
+in lamellae of hooves of goats   
+
+<html><body><table><tr><td>项目Items</td><td>对照组 Control group</td><td>试验组Test group</td><td>标准误SEM</td><td>P值 P-value</td></tr><tr><td>基质金属蛋白酶-2MMP-2</td><td>0.57</td><td>1.19</td><td>0.14</td><td>0.01</td></tr><tr><td>基质金属蛋白酶-9MMP-9</td><td>0.40</td><td>16.60</td><td>7.65</td><td>0.36</td></tr><tr><td>膜型基质金属蛋白酶-1MT1-MMP</td><td>1.02</td><td>1.98</td><td>0.17</td><td>0.05</td></tr><tr><td>基质金属蛋白酶组织抑制物-1TIMP-1</td><td>1.06</td><td>0.43</td><td>0.22</td><td>0.01</td></tr></table></body></html>
+
+3讨论
+
+本研究通过行为学观察结果发现，在灌注寡果糖后 $2 4 \mathrm { h }$ ，试验组山羊表现明显跛行行为，结合后序的HE染色观察蹄组织的形态学结果，试验结果显示本试验成功诱发山羊急性蹄叶炎。该结果也为未来深入研究反刍动物蹄叶炎提供了一种低成本的研究方法。
+
+瘤胃酸中毒是反刍动物长期过多饲喂谷类或多糖类词料，导致瘤胃发酵异常产生大量乳酸和有机酸,临床上是以酸中毒和瘤胃内某些微生物群活性降低为特征的瘤胃消化机能紊乱性疾病。根据瘤胃液 $\mathsf { p H }$ 变化范围,瘤胃酸中毒又分为急性酸中毒(长期瘤胃液 $\mathrm { p H } { < } 5 . 0 \rangle$ 和亚急性酸中毒(pH长期在 $5 . 0 { \sim } 5 . 6 \$ 范围内)[18-19]。本研究中，灌注寡果糖组山羊瘤胃液 $\mathsf { p H }$ 快速下降至5.0以下，并持续约 $4 0 \mathrm { { h } }$ ，表明试验组动物发生了急性瘤胃酸中毒。研究显示，急性酸中毒条件下瘤胃牛链球菌生长速度加快，产生大量乳酸，乳酸积累导致瘤胃液 pH持续下降[20]。本研究中，试验组灌注寡果糖后瘤胃乳酸浓度持续上升，结果达到预期试验目的，也与上述报道一致。但到 $2 4 \mathrm { ~ h ~ }$ 后乳酸浓度开始下降，原因可能是碳水化合物被消耗完毕，抑或乳酸利用菌数量逐渐恢复，使乳酸被利用。LPS 是革兰氏阴性菌细胞壁外膜的主要成份，我们以前的研究显示，饲喂高谷物饲粮导致瘤胃内 LPS 浓度增加，瘤胃上皮屏障功能受损[21]。本研究显示，试验组山羊瘤胃液与外周血液中 LPS 浓度显著升高，说明急性酸中毒导致瘤胃菌群紊乱，LPS 浓度升高，同时消化道上皮屏障受损，引发LPS 移位，最终致外周血液中LPS 浓度显著升高。
+
+对马蹄叶炎的研究结果表明，蹄叶炎条件下马蹄组织中金属蛋白酶活性显著升高。研究显示，金属蛋白酶的酶活性受基因水平的转录、酶原活化和酶活性抑制调节[22]。在转录水平上，前炎症细胞因子白细胞介素-1（IL-1）、IL-6、TNF- $\mathbf { \alpha } _ { \cdot } \mathbf { \{ \alpha \} } _ { }$ 等能诱导和/或刺激金属蛋白酶活性在转录水平上的表达[23-24]。在酶原活化上，金属蛋白酶活性以酶原形式在细胞内合成，并最终被分泌到细胞外，其必须依靠其他酶的激活，其中无活性的 MMP-2 酶原（ProMMP-2）必须通过游离的MT1-MMP作用，方能形成有活性的MMP-2;MMP-9活化过程为：首先由MT1-MMP激活ProMMP-13成为有活性的MMP-13,MMP-13 进而活化ProMMP-9，形成有活性的MMP-9[25]。在酶活抑制上，MMP活性受基质金属蛋白酶组织抑制物（TIMP）的抑制，其基本原理是TIMP 通过其氨基酸功能区的半胱氨酸残基与活化MMP的锌离子活性中心相结合以1：1的比例形成复合体，从而阻断MMP与底物的结合，进而抑制MMP的酶活性。本研究结果显示，与对照组相比，试验组山羊蹄组织中IL-6的mRNA 相对表达量显著升高；MMP-2和MT1-MMP 的mRNA相对表达量也显著升高，而TIMP-1的mRNA相对表达量显著下降。结合LPS及乳酸的测定结果，本试验结果说明，瘤胃酸中毒下，外周循环中的致炎因子如LPS 与乳酸等可能通过炎性因子如 IL-6 在转录水平上激活金属蛋白酶的表达，同时也可能通过调节MT1-MMP和TIMP-1的转录表达，进而提高MMP的活性，最终导致蹄小叶被降解，蹄组织被破坏，引发蹄叶炎。
+
+# 4结论
+
+瘤胃灌注寡果糖可以引起山羊急性瘤胃酸中毒，进而导致瘤胃与外周循环中LPS与乳酸浓度增加，这些致炎因子可能通过提高炎症因子的表达，进而影响蹄组织中金属蛋白酶的相对表达，最终破坏蹄小叶的正常结构，诱发急性蹄叶炎。
+
+# 参考文献：
+
+BICALHO R C,MACHADO V C,CAIXETA L S.Lameness in dairy cattle:a   
+debilitating disease or a disease of debilitated catle?A cross-sectional study of lameness   
+prevalence and thickness of the digital cushion[J].Journal of Dairy   
+Science,2009,92(7):3175-3184. CHRISTODOULOPOULOS G.Foot lameness in dairy goats[J].Research in Veterinary   
+Science,2009,86(2):281-284. HEYMERING H W.A historical perspective of laminitis[J].Veterinary Clinics of North   
+America:Equine Practice,2010,26(1):1-11. JOHNSON PJ,TYAGI S C,KATWAL C,et al.Activation of extracellular matrix
+
+metalloproteinases in equine laminitis[J].Veterinary Record,1998,142(15):392-396. KYAW-TANNER M,POLLITT C.Equine laminitis:increased transcription of matrix metalloproteinase-2 (MMP-2) occurs during the developmental phase[J].Equine Veterinary Journal,2004,36(3):221-225.
+
+LOFTUS J P,BELKNAP J K,BLACK S J.Matrix metalloproteinase-9 in laminae of   
+black walnut extract treated horses correlates with neutrophil abundance[J].Veterinary   
+Immunology and Immunopathology,2006,113(3/4):267-276. MUNGALL B A,POLLITT C C.Zymographic analysis of equine   
+laminitis[J].Histochemistry and Cell Biology,1999,112(6):467-472. MALEMUD C J.Matrix metalloproteinases (MMPs) in health and disease:an   
+overview[J].Frontiers in Bioscience:A Journal and Virtual Library,2O06,11:1696-1701. 中华人民共和国农业部.NY/T816-2004 肉羊饲养标准[S].北京:中国农业出版   
+社,2004. 熊本海,庞之洪,赵峰,等.中国饲料成分及营养价值表(2014年第 25版)制订说明[J].   
+中国饲料,2014(21):29-39. POLLITT C C.Basement membrane pathology:a feature of acute equine   
+laminitis[J].Equine Veterinary Journal,1996,28(1):38-46. JOHNSONPJ,KREEGER JM,KEELER M,et al.Serum markers of lamellar basement   
+membrane degradation and lamellar histopathological changes in horses affected with   
+laminitis[J].Equine Veterinary Journal,2000,32(6):462-468. QIN W L.Determ naton of rumen volatile fatty acids by means of gas   
+chromatography[J].南京农业大学学报,1982,4:110-116. 张龙翔,张庭芳,李令媛.生化实验方法和技术[M].北京:人民教育出版社,1981. KHAFIPOUR E,KRAUSE D O,PLAIZIER J C.A grain-based subacute ruminal   
+acidosis challenge causes translocation of lipopolysaccharide and triggers   
+inflammation[J].Journal of Dairy Science,2009,92(3):1060-1070. CHOMCZYNSKI P,SACCHI N.Single-step method of RNA isolation by acid
+
+guanidinium thiocyanate-phenol-chloroform extraction[J].Analytical
+
+Biochemistry,1987,162(1):156-159.   
+[17] LIU JH, XU T T,LIU Y J,et al.A high-grain diet causes massive disruption of ruminal epithelial tight junctions in goats[J].American Journal of Physiology:Regulatory,Integrative and Comparative Physiology,2013,305(3):R232-R241.   
+[18] OWENS F N,SECRIST D S,HILL W J,et al.Acidosis in catle:a review[J].Journal of Animal Science,1998,76(1):275-286.   
+[19] KRAUSE K M,OETZEL G R.Understanding and preventing subacute ruminal acidosis in dairy herds:a review[J].Animal Feed Science and Technology,2006,126(3/4):215-236.   
+[20] 刘丹,吴跃明,陈建海.反刍动物瘤胃酸中毒及其防治研究进展[J].中国饲 料,2004(4):8-10.   
+[21] 张瑞阳,王东升,朱伟云,等.奶牛静脉血内毒素浓度及其与产奶量的相关性[J].动物 营养学报,2012,24(5):822-827.   
+[22] PIPERI C,PAPAVASSILIOU A G.Molecular mechanisms regulating matrix metalloproteinases[J].Current Topics in Medicinal Chemistry,2012,12(10):1095-1112.   
+[23] SIWIK D A,CHANGD L F,COLUCCI W S.Interleukin- $1 \beta$ and tumor necrosis factor- $\mathbf { \nabla } \cdot \mathbf { a } _ { } $ decrease collagen synthesis and increase matrix metalloproteinase activity in cardiac fibroblasts in vitro[J].Circulation Research,2000,86(12):1259-1265.   
+[24] NEE LE,MCMORROW T,CAMPBELL E,et al.TNF- $\mathbf { \alpha } _ { \mathrm { ~ \mathfrak { ~ a ~ } ~ } }$ and IL- $1 \beta$ mediated regulation of MMP-9 and TIMP-1 in renal proximal tubular cells[J].Kidney International,2004,66(4):1376-1386. [25] TOTH M,CHVYRKOVA I,BERNARDO M M,et al.Pro-MMP-9 activation by the MT1-MMP/MMP-2 axis and MMP-3:role of TIMP-2 and plasma membranes[J].Biochemical and Biophysical Research Communications,2003,308(2):386-395. Effects of Ruminal Acute Acidosis Induced by Fructo-Oligosaccharide on Ruminal   
+Fermentation, Structure of Hooves and Expressions of Inflammatory Cytokines and Matrix Metalloproteinase of Goats
+
+(College of Animal Science, Nanjing Agricultural University, Nanjing 210095, China) Abstract: The present study aimed to investigate the effects of ruminal acute acidosis induced by fructo-oligosaccharide on ruminal fermentation， structure of hooves and expressions of inflammatory cytokines and matrix metalloproteinase of goats. Eight healthy crossbred goats (Boer goat $\times$ Yangtze River delta white gost) with permanent ruminal fistulas were randomly divided into two groups, including control and test groups which was treated with fructo-oligosaccharide infusion (21 g/kg BW),and each group had 4 goats. Ruminal liquid and blood were collected respectively at O (before infusion),4,8,12, 24 and $4 8 \mathrm { ~ h ~ }$ ，as well as 0, 4, 8, 24 and $4 8 \mathrm { ~ h ~ }$ after infusion. The goats were slaughtered to collect for hooves tissue after $^ { 4 8 \mathrm { ~ h ~ } }$ of infusion. The results showed as follows,compared with control group, the average values of ruminal liquid $\mathsf { p H }$ ， volatile fatty acids was significantly decreased in test group $( P { < } 0 . 0 5 )$ ，while the average values of the concentrations of lactic acid and lipopolysaccharide (LPS) in ruminal liquid and blood were significantly increased $( P { < } 0 . 0 5 )$ ； the results of histology suggested that compared with control group, secondary epidermal lamellae and secondary dermal lamellae were shortened in test group; the real-time PCR results revealed that compared with control group， the mRNA expression of tissue inhibitors of metalloproteinases-1 (TIMP-1） was significantly decreased in test group $( P { < } 0 . 0 5 )$ ，while those of interleukin-6 (IL-6), matrix metalloproteinase 2 (MMP-2) and membrane type-1 matrix metalloproteinases (MT1-MMP） in goat hooves were significantly increased $( P { < } 0 . 0 5 )$ .In conclusion, ruminal acute acidosis induced by fructo-oligosaccharide causes the disorder of ruminal fermentation and increases concentrations of LPS and lactic acid in ruminal liquid and blood, which further changes of mRNA expressions of pro-inflammatory cytokines and matrix metalloproteinase genes related to laminitis,and finally induces the laminitis in goats.
+
+Key words: goat; fructo-oligosaccharide; inflammatory cytokines; matrix metalloproteinase;

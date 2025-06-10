@@ -1,0 +1,848 @@
+[
+    {
+        "type": "text",
+        "text": "不确定性数据中基于GSO优化MF的模糊关联规则挖掘方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "章武媚²，董琼1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．美国纽约州立大学，美国 纽约州 奥斯威戈 13126;2.浙江同济科技职业学院，杭州 310023)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对不确定性数据中模糊关联规则的挖掘问题，提出一种基于群搜索优化(GSO)算法优化隶属度函数(MF)的模糊关联规则挖掘方法。首先，将不确定性数据通过三元语言表示模型进行表示；然后，给定一个初始MF，并以最大化模糊项集支持度和语义可解释性作为适应度函数，通过GSO算法的优化学习获得最佳MF；最后，根据获得的最佳MF，利用改进型的FFP-gr0wth 算法来从不确定数据中挖掘模糊关联规则。实验结果表明，该方法能够根据数据集自适应优化MF，以此实现从不确定数据中有效地挖掘关联规则。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：模糊关联规则挖掘；不确定数据；隶属度函数；群搜索优化算法；FFP-growth 算法 中图分类号：TP311 doi:10.3969/j.issn.1001-3695.2018.01.0076 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fuzzy association rules mining method based on GSO optimization MF in uncertainty data ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhang Wumei1,2, Dong Qiongl (1.State UniversityofNewYork,NewYork,Oswego,America13126,USA;2.ZhejiangTongji VocationalCollgeofScience& Technology,Hangzhou 310023, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Inorder to solve the problemofminingfuzzyasociationrules inuncertaintydata,this paperproposedanew method of mining fuzzy association rules based on optimization of membership function (MF)by group search optimization (GSO) algorithm.Firstlyitrepresentedtheuncertaintydatabythe3-tuples linguisticrepresentationmodel.Then,givenaninitialMF, it obtainedthe best MFbyoptimizing learning ofGSO algorithm with maximum supportoffuzzy itemsets and semantic interpretabilityasafitnessfunction.Finally,itusedtheimprovedFFP-growth algorithmtominethefuzzyassociatiorules fromtheuncertaindataaccording tothebest MFobtained.Experimentalresults showthat this methodcanadaptivelyoptimize MF based on data set, so as to effectively mine association rules from uncertain data. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:fuzzy associationrule mining; uncertaintydata; membership function; group searchoptimizationalgorithm;FPgrowth algorithm ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关联规则表示数据库项目之间的依赖关系，已广泛应用于众多领域中，如市场分析、入侵检测、诊断决策以及电信领域[1]。然而真实的数据库通常具有不确定性。不确定性包含概率性和不完整性数据[2]。如何有效地从不确定性数据库中挖掘事物之间的关系已成为一个主要研究方向。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，许多研究人员提出了挖掘模糊关联规则(fuzzyassociationrule，FAR)的方法[3,4]，用来扩展可能的关系类型，以便于在语言学方面对规则进行解释[5]。从不确定性数据库中挖掘FAR需要设计能够处理不精确数据的算法。例如，文献[6]使用不确定性的可能表示法从不确定数据中挖掘FAR，其可以应对数据以区间和模糊值作为输入。但是该方法假定隶属度函数(membershipfunction，MF)是事先已知的，但模糊关联规则挖掘的性能与MF的位置密切相关，给定的MF不能适应环境的变化，且事先决定最合适的MF很难做到。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为此，研究一种能够从不确定数据库中进行自适应学习的方法，获得一组合适的MF来挖掘FAR，将会具有重要的意义。目前，自动优化MF的方法主要分为两种，一种是基于神经网络学习的优化方法，如常用的RBF神经网络[7。然而，基于神经网络的方法需要大量的可靠训练样本，在实际应用中，获得不同MF下的规则挖掘样本比较困难。第二种是利用一些智能搜索算法来调整模糊系统中的 $\\mathrm { M F } ^ { [ 8 , 9 ] }$ ，如，蚁群算法、遗传算法、粒子群算法等。在多种智能优化算法中，群搜索优化(groupsearch optimize，GSO)算法具有很强的全局搜索能力，对于函数优化问题有明显优势。但是，若直接采用这些算法从搜索空间中寻找最优MF，优化时间较长。对此，可通过一些新的语言规则表示模型来降低优化时间。例如，文献[10]提出了一种新的语言规则表示模型来进行MF的调整。这个新的模型是基于三元语言表示的，它通过仅考虑两个参数来支持语言学术语的横向位移和支持度变化。该方法能够通过调整MF来获得高度的数据覆盖，并且减少经典挖掘方法的搜索空间。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "鉴于上述分析，本文将三元语言表示法与GSO 算法相结合，利用三元语言表示法来降低算法搜索空间，使GSO算法能够快速寻优MF。为此提出了一种新的不确定数据模糊关联规则挖掘算法，从不确定数据库中学习合适的 MF，并挖掘高效的FAR。本文方法主要的创新点如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)为了能够获得最合适的MF，本文基于三元语言表示模型和GSO算法进行MF的学习优化，最大化模糊支持度和可解释性度量，以此用来减少搜索空间并保持MF的语义解释能力。b）为了减少挖掘时间，本文还提出了一种新的数据挖掘(DM)算法：不确定模糊频繁模式增长算法(uncertair-FFP-growth，U-FFP-growth)。即利用学习到的MF，从不确定数据库中有效地挖掘 FAR。 $U$ -FFP-growth 算法是模糊频繁模式增长算法(FFP-growth)的扩展，用来从不确定数据中挖掘模糊关联规则且不需要生成候选项集。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 提出的模糊规则挖掘方法框架",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文提出了一种从不确定数据中基于隶属函数(MF)学习的模糊关联规则(FAR)挖掘算法，称为 $U$ -MFL-FAR。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "提出的方案包括两个阶段：首先，基于三元语义表示模型和GSO算法进行优化学习来获得MF，最大化模糊项集的模糊支持度和MF的解释性；然后，对FFP-groWth 算法进行扩展，使其能够基于优化后的MF，从不确定数据中挖掘有用的FAR。提出方法的框架如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/65a31744bc8f3a02dd21deaea0f58fda67e66fe98c9992caf8a48c453cb6f21f.jpg",
+        "img_caption": [
+            "图1提出的不确定性数据模糊关联规则挖掘方法框架"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 三元组语言表示模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在模糊系统的框架中，主要采用的是三角形MF。可通过优化方法对其中三个参数进行细化，这三个参数确定了与数据标签相关的MF[II]。然而在存在多变量问题的情况下，MF之间的依赖关系和三个参数之间的依赖关系会导致优化模型需要处理非常复杂的搜索空间，影响了优化性能[12]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在文献[10]中提出了一种基于三元组语言表示方法的新的规则表示模型。该方案考虑两个参数 $\\alpha$ 和 $\\beta$ ，分别表示标签的横向位移和支持度变化。这样，每个语言术语可以由一个三元组 $( s , \\alpha , \\beta )$ 表示。其中 $\\alpha$ 是区间[-0.5.0.5)内的一个数，这使得可以对标签进行横向位移，直到达到两个相邻标签距离的 $50 \\%$ $\\beta$ 也是一个在[-0.5.0.5)范围内的数字，这使得可以增加或减少标签的支持度，直到其为原始大小的 $50 \\%$ 。例如，图2显示了一个由三元组表示的标签 $s _ { 2 } ^ { \\prime } = ( s _ { 2 } , - 0 . 3 , - 0 . 2 5 )$ 以及相应 MF的横向位移和支持度变化。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae26594ba1b7dce06060616a978f2c7db9caf644314aedd4b9f82074e94fed6c.jpg",
+        "img_caption": [
+            "图2　标签 $s _ { 2 }$ 的横向位移和支持度变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "这种新的规则表示模型允许通过学习各自的横向位移和支持度变化来调整MF，从而可以有效减小搜索空间。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "考虑一个简单的挖掘问题，其中包含与语言术语有关的两个变量(Age和Height)。基于这个定义，经典的FAR和三元组模糊语言表示的FAR分别为：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "经典 $F A R$ ：if $A g e$ 是小的，then Height 是小的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "三元组模糊语言表示的FAR：if $A g e$ 是 $( L o w , 0 . 1 , 0 . 1 )$ ，then Height是 $( L o w , 0 . 1 , - 0 . 1 )$ □",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 基于GSO的隶属函数优化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 GSO算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于求解优化问题，启发式智能算法最为有效。其中，GSO算法包含三个操作，即发现者操作、搜索者操作和游荡者操作。在迭代过程中，将具有最佳适应度值的成员选为发现者。将适应度值高于阈值的多个成员选为搜索者，将适应度值低于阈值的多个成员选为游荡者。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)发现者操作：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "发现者操作过程中，动物旋转感官受体从环境中捕获信息。在 $s$ 维搜索空间中，第个搜索回合(迭代)的第 $i$ 个成员的位置表示为 $y _ { i } ^ { z } \\in R ^ { s }$ ，搜索角度表示为 $\\lambda _ { i } ^ { z } = ( \\lambda _ { i 1 } ^ { z } , . . . , \\lambda _ { i ( s - 1 ) } ^ { z } ) \\in R ^ { s - 1 }$ ，对应的搜索方向表示为 $F _ { i } ^ { z } ( \\lambda _ { i } ^ { z } ) = ( f _ { i 1 } ^ { z } , . . . , f _ { i s } ^ { z } ) \\in R ^ { s - 1 }$ ，其可以通过极坐标变换根据 $\\lambda _ { i } ^ { z }$ 计算得到，表达式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle f _ { i 1 } ^ { z } = \\prod _ { p = 1 } ^ { s - 1 } \\cos ( \\lambda _ { i p } ^ { z } ) ; } } \\\\ { { \\displaystyle f _ { i j } ^ { z } = \\sin ( \\lambda _ { i ( j - 1 ) } ^ { z } ) * f _ { i 1 } ^ { z } ; } } \\\\ { { \\displaystyle f _ { i s } ^ { z } = \\sin ( \\lambda _ { i ( j - 1 ) } ^ { z } ) ; } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设在第Z次迭代处的发现者位置为 $y _ { p }$ ，那么发现者将会在当前位置选择三个不同的角度进行视觉扫描，即首先以零度扫描，然后向右边扫描，再向左边扫描。设定视觉的最大搜",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "索角度为 $\\omega _ { \\mathrm { m a x } }$ ，视觉扫描的最大距离为 $d _ { \\operatorname* { m a x } }$ ，表达式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { \\operatorname* { m a x } } = \\left\\| U _ { i } - L _ { i } \\right\\| = { \\sqrt { \\sum _ { i = 1 } ^ { s } \\left( U _ { i } - L _ { i } \\right) ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $U _ { \\scriptscriptstyle i }$ 和 $L _ { \\mathrm { { } } _ { i } }$ 分别为设计变量取值范围的上界和下界。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "那么，发现者通过扫描所发现的三个不同位置表示如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\displaystyle y _ { z e r o } = y _ { p } ^ { z } + r _ { 1 } d _ { \\mathrm { m a x } } F _ { p } ^ { z } ( \\lambda ^ { z } ) } \\\\ { \\displaystyle y _ { r i g h t } = y _ { p } ^ { z } + r _ { 1 } d _ { \\mathrm { m a x } } F _ { p } ^ { z } ( \\lambda ^ { z } + r _ { 2 } \\frac { \\omega _ { \\mathrm { m a x } } } { 2 } ) } \\\\ { \\displaystyle y _ { t e f t } = y _ { p } ^ { z } + r _ { 1 } d _ { \\mathrm { m a x } } F _ { p } ^ { z } ( \\lambda ^ { z } - r _ { 2 } \\frac { \\omega _ { \\mathrm { m a x } } } { 2 } ) } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $y _ { z e r o }$ 表示零度扫描； $y _ { r i g h t }$ 表示右边扫描； $y _ { l e f t }$ 表示左边扫描； $r _ { 1 } \\in R ^ { 1 }$ 为均值为0、方差为1的正态分布随机数，$r _ { 2 } \\in R ^ { s - 1 }$ 为(0,1)内的一个随机序列。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "然后，计算发现者搜索到的三个新位置的适应度，并移动到具有最优适应度的位置。如果新位置都不如当前位置，则将其头转向一个新角度，表示如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda ^ { z + 1 } = \\lambda ^ { z } + r _ { 2 } \\gamma _ { \\mathrm { m a x } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\gamma _ { \\mathrm { m a x } }$ 表示最大转向角。如果在 $a$ 次迭代结束后，发现者没有找到一个更好位置，则停止搜索过程且保持不动，即",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda ^ { z + a } = \\lambda ^ { z }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)搜索者操作：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "搜索者操作为跟随发现者，并在其周围附近区域进行搜索。在第z次迭代处，第 $i$ 个搜索者根据发现者共享的位置信息执行区域搜索[13]，其位置更新如式（6）所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { i } ^ { z + 1 } = y _ { i } ^ { z } + r _ { 3 } ( y _ { p } ^ { z } - y _ { i } ^ { z } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $ { r _ { 3 } } \\in R _ { s }$ 表示(0,1)区间内的随机数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)游荡者操作：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "游荡者操作仅为随机游走，并以此来探索新位置。如果将群中第 $i$ 个成员选为第z次迭代的游荡者，则它将生成一个随机角度 $\\lambda _ { i }$ ，其表示如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { i } ^ { z + 1 } = \\lambda _ { i } ^ { z } + r _ { 2 } \\gamma _ { \\operatorname* { m a x } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同样，也会选择一个随机距离，表示如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { i } = a \\cdot r _ { 1 } d _ { \\operatorname* { m a x } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "然后，根据式（9）移向一个新位置：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { i } ^ { z + 1 } = y _ { i } ^ { z } + d _ { i } F _ { i } ^ { z } ( \\lambda ^ { z + 1 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2个体适应度评估 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了评估GSO中的个体 $C$ 的性能，适应度函数包含了MF的最大化模糊项集支持度和语义可解释性。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf i t n e s s ( C ) = \\sum _ { x \\in L _ { 1 } } s u p p o r t ( x ) * \\mathrm { G M 3 M }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $L _ { \\mathrm { 1 } }$ 为 $c$ 中基于MF获得模糊1-项集的集合；$s u p p o r t ( x )$ 为模糊1-项集 $x$ 的支持度; $G M 3 M$ 是量化MF可解释性的一种度量。 $G M 3 M$ 被定义为三个度量的几何平均数，其值在0(可解释性最低水平)和1(可解释性最高水平)之间。定义为[14]",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG M 3 M = \\sqrt [ 3 ] { \\delta \\cdot \\gamma \\cdot \\rho }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\delta$ 、 $\\gamma$ 和 $\\rho$ 为三个互补的度量标准，分别表示MF的位移 $( \\delta )$ 、MF的横向支持度( $\\gamma$ )和MF的面积相似度 $( \\rho$ ）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如果模糊项集的支持度大于用户定义的最小支持度阈值（minSup），则认为是模糊项集。模糊项集 $x$ 的支持度定义如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle s u p p o r t ( \\boldsymbol { x } ) = \\frac { c o u n t ( \\boldsymbol { x } ) } { | T | } } } \\\\ { { \\displaystyle c o u n t ( \\boldsymbol { x } ) = \\sum _ { t \\in T } \\mu _ { x } ( t ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\left| T \\right|$ 为数据库 $T$ 中的例子数量； $\\mu _ { x } ( t )$ 为例子 $t$ 与项集 $x$ 的匹配程度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3举例分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文考虑一个精确的数据库 $T$ 和一个不精确的数据库 $\\tilde { T }$ ，$\\tilde { T }$ 中包含了区间值混合和模糊的例子。两者都有两个变量（ $A g e$ 和Height)和三个例子。表1和2显示了这些数据库的例子。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/7972f7c7202fde3653decc8423e6cb431f8a147724ed5ebdbfb55beeb83f1662.jpg",
+        "table_caption": [
+            "表1精确数据库 $T$ 的三个例子"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>ID</td><td>Age</td><td>Height</td></tr><tr><td></td><td>30</td><td>1.80</td></tr><tr><td>t</td><td>22</td><td>1.80</td></tr><tr><td>t</td><td>22</td><td>1.82</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/045c65c3f961ea59511b787cdb9c1adcbfdaf3373768a18ae79edc99a8005838.jpg",
+        "table_caption": [
+            "表2不精确数据库 $\\tilde { T }$ 的三个例子"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>ID</td><td>Age</td><td>Height</td></tr><tr><td>~tl</td><td>21~31之间</td><td>三角模糊集合 (1.77;1.79;1.89)</td></tr><tr><td></td><td>20~26之间</td><td>1.80</td></tr><tr><td>~3</td><td>22~23之间</td><td>1.80~1.83之间</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将一个清晰的例子 $t$ 与一个模糊的例子 $\\tilde { t }$ 之间的相容程度定义为构成每个例子的变量成对值之间的相容性的最小值。如果数字不属于间隔区间，则数字与间隔的兼容性为0，否则为1。清晰数与模糊集之间的相容性是模糊集在清晰数上的隶属函数。例如，例子 $\\tilde { t } _ { 1 }$ 与 $t _ { 1 } \\setminus t _ { 2 }$ 和 $t _ { 3 }$ 之间的兼容程度为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC o m p a t i b i l i t y ( t _ { 1 } , \\tilde { t } _ { 1 } ) = \\operatorname* { m i n } ( 1 , 0 . 9 ) = 0 . 9\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC o m p a t i b i l i t y ( t _ { 2 } , \\tilde { t } _ { 1 } ) = \\operatorname* { m i n } ( 1 , 0 . 9 ) = 0 . 9\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC o m p a t i b i l i t y ( t _ { 3 } , \\tilde { t } _ { 1 } ) = \\operatorname* { m i n } ( 1 , 0 . 7 ) = 0 . 7\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于这个定义，精确数据库与不精确数据库之间的兼容程度由其成对示例之间的最小兼容性来定义。例如，数据库 $T$ 和$\\tilde { T }$ 之间的兼容性为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C o m p a t i b i l i t y ( T , \\tilde { T } ) = \\operatorname* { m i n } \\left( \\begin{array} { l } { C o m p a t i b i l i t y ( t _ { 1 } , \\tilde { t } _ { 1 } ) , } \\\\ { C o m p a t i b i l i t y ( t _ { 2 } , \\tilde { t } _ { 2 } ) , } \\\\ { C o m p a t i b i l i t y ( t _ { 3 } , \\tilde { t } _ { 3 } ) } \\end{array} \\right) } \\\\ { = \\operatorname* { m i n } ( 0 . 9 , 1 . 1 ) = 0 . 9 \\qquad } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文考虑模糊1-项集 $x _ { 1 } = ( A g e , Y o u n g )$ ，Young标签具",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "有的 $M F$ ：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { { \\scriptscriptstyle Y o u n g } } ( x ) \\left\\{ \\begin{array} { c c } { { 1 } } & { { \\times < 2 0 } } \\\\ { { 2 - x / 2 0 2 0 \\le x \\le 4 0 } } \\\\ { { 0 } } & { { \\times > 4 0 } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在精确的数据库 $T$ 中， $x _ { 1 }$ 的支持度可以计算为$s u p p o r t _ { _ T } ( x _ { 1 } ) = ( 0 . 5 + 0 . 9 + 0 . 9 ) / 3 = 0 . 7 7$ ，但是这个值不能在不精确数据库中计算。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当一个不精确数据库由模糊值例子组成时，该项集的未知支持度就是一个模糊集合。形式为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { _ { s u p p o r t _ { \\tilde { T } } ( \\mathrm { x } ) } } ( \\nu ) = \\operatorname* { s u p } _ { \\substack { s u p p o r t _ { T } ( x ) = \\nu } } \\{ C o m p a t i b i l i t y ( T , \\tilde { T } ) \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中：在给定值 $\\nu$ 处的支持度的 MF，可表示为不精确数据 $\\tilde { T }$ 与精确数据库 $T$ 之间的最大兼容性，即 $s u p p o r t _ { T } ( x _ { 1 } ) = \\nu$ 。如果问题被首先分成几个区间值问题，则支持度可以有效地计算。即设 $[ t \\tilde { ] } _ { \\alpha }$ 是 $\\tilde { t }$ 的一个 $\\alpha _ { c u t }$ ，表示一个区间。那么模糊支持的$\\alpha _ { c u t }$ 表示为以下区间：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ s u p p o r t _ { \\tilde { T } } ( x ) ] _ { \\alpha } = \\left[ \\frac { 1 } { \\tilde { T } } \\Bigg | _ { \\tilde { t } \\tilde { \\tau } } \\operatorname* { m i n } \\Big \\{ \\mu _ { x } ( t ) \\big | t \\in \\big [ \\tilde { t } \\big ] _ { \\alpha } \\Big \\} , \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "例如，考虑模糊1-项集 $x _ { 2 } = ( H e i g h t , T a l l )$ ，标签Tall的MF如式（18）所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { { \\scriptscriptstyle T a l l } } ( x ) \\left\\{ \\begin{array} { c c } { { 0 } } & { { \\mathrm x < 1 . 5 0 } } \\\\ { { ( x - 1 . 5 0 ) / 0 . 4 0 2 0 \\leq \\mathrm x \\leq 4 0 } } \\\\ { { 1 } } & { { \\mathrm x > 1 . 9 0 } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "考虑一个简单的例子来说明适合度函数的计算。考虑一个工程问题，即直升机叶片上形成的冰与转速的相关性。表3显示了这个不精确训练数据库的例子。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d6558c5fd383a6791c2f02d2e01b74e7bd04e48a029cdfd93dfc69b3a6d4160a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>ID</td><td>叶片上形成的冰</td><td>叶片转速</td></tr><tr><td>1</td><td>{[0.15,0.25]/下 +[0.75,0.85]/上}</td><td>三角模糊集(1, 3.3, 5.2)</td></tr><tr><td>2</td><td>8</td><td>0.18/上+0.85/下</td></tr><tr><td>3</td><td>[5.35, 6.5]</td><td>[4,6.4]</td></tr><tr><td>4</td><td>(1, 1.1, 2.8)</td><td>[6.9, 8.2]</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为简单起见，假设MF包含两个变量，结冰与速度是一致的，如图3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0eeb4d31802302d900293b4ba47953e135033c0eb88476c7b449fe2beaf0c967.jpg",
+        "img_caption": [
+            "图3结冰和速度变量的MF"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "设 $| \\tilde { A } |$ 是模糊集 $A$ 的平均值，它是一个区间。为了简化说明，表4中仅收集了不同分区中每个变量的支持度的平均值。假设最小支持度为0.2。1-项集被粗体显示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "令",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta _ { d o w n } = \\frac { a b s ( 5 - 6 . 1 ) } { 5 - 2 . 5 } = 0 . 8 8\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因此 $G M 3 M$ 的值为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG M 3 M = ( \\delta \\gamma \\rho ) ^ { 1 / 3 } = ( 0 . 8 8 \\times 1 \\times 1 ) ^ { 1 / 3 } = 0 . 9 5 8\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "那么",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { | s u p p o r t ( x ) | = \\left[ 0 . 4 7 , 0 . 6 1 2 \\right] + \\left[ 0 . 2 0 5 , 0 . 5 6 \\right] + \\left[ 0 . 2 2 , 0 . 3 1 5 \\right] } } \\\\ { { = \\left[ 0 . 8 9 5 , 1 . 4 8 7 \\right] } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "且 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mid F i t n e s s \\mid = \\left[ 0 . 8 9 5 , 1 . 4 8 7 \\right] \\times 0 . 9 5 8 = \\left[ 0 . 8 5 7 , 1 . 4 2 6 \\right] \\mid\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9b135f87eb7e4f4f978895439a416e5988f6a6d4ea4af72dd523fff05c24f8f3.jpg",
+        "table_caption": [
+            "表3这个数据库中的四个示例",
+            "表4不同分区中每个变量的支持度"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>ID</td><td>结冰/下</td><td>结冰/正常</td><td>结冰/上</td><td>速度/下</td><td>速度/正常</td><td>速度/上</td></tr><tr><td>1</td><td>[0.15, 0.252]</td><td>0</td><td>[0.75, 0.85]</td><td>[0,1]</td><td>[0, 0.75]</td><td>[0, 0.008]</td></tr><tr><td>2</td><td>0</td><td>0</td><td>1</td><td>[0.82, 0.85]</td><td>0</td><td>[0.15, 0.18]</td></tr><tr><td>3</td><td>0</td><td>[0.714,0.791]</td><td>[0.14, 0.6]</td><td>[0,0.4]</td><td>[0.41, 1]</td><td>[0, 0.252]</td></tr><tr><td>4</td><td>[0,1]</td><td>[0, 0.083]</td><td>0</td><td>0</td><td>[0, 0.428]</td><td>[0.76,1]</td></tr><tr><td>£</td><td>[0.15, 0.252]</td><td>[0.714, 0.874]</td><td>[1.895,2.45]</td><td>[0.82,2.25]</td><td>[0.41,2.178]</td><td>[0.91,1.46]</td></tr><tr><td>| supportr(x) |</td><td>[0.03,0.312]</td><td>[0.178,0.218]</td><td>[0.472,0.615]</td><td>[0.203,0.543]</td><td>[0.102,0.544]</td><td>[0.221,0.318]</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4基于 FFP-growth 算法的 FAR 挖掘",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在这个阶段，将上述优化过程中获得的最优MF用来从不确定数据中挖掘有用的FAR。为了避免运行时间过长，本文提出了一种新的数据挖掘算法，即基于 $F F P$ growth 算法的U-FFP-growth，用于从不确定数据库中挖掘FAR。该算法有效地利用频繁模式树结构来挖掘规则，以避免产生大量候选项集和数据库重复扫描。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "考虑一个不确定的数据库 $\\tilde { T }$ ，其中包含了 $| \\tilde { T } |$ 个案例，$S = \\{ S _ { 1 } , . . . , S _ { n } \\}$ 是从优化过程中得到的最优 MF 集合。其中：$n$ 为变量数目； $S _ { j } = \\{ s _ { 1 } , . . . , s _ { m } \\}$ 表示第 $j$ 个变量的语言标签集合； $m$ 为语言标签的数量。本文将对 $F F P$ -growth算法进行扩展，使其能够从包含不确定数据的数据库中挖掘FAR。过程如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a)对于每个数据 $\\tilde { t } _ { i } , i = 1 , . . . , | \\tilde { T } |$ ，且对于每个变量$j , j = 1 , . . . , n$ ，将其值 $\\widetilde { \\nu } _ { _ { i j } } ( \\widetilde { t } _ { i } = \\widetilde { \\nu } _ { i 1 } , . . . , \\widetilde { \\nu } _ { _ { i n } } )$ 转换为模糊集。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b)对于每个语言学术语，根据式(17)计算其模糊支持度。对于每个变量 $j$ ，如果它的语言项的模糊支持度高于或等于minSup，则它将被添加到1-项集的集合 $L _ { \\mathrm { 1 } }$ 中。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "c)创建一个头域表，对 $L _ { \\mathrm { 1 } }$ 按照模糊支持度进行降序排序。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "d)根据排序再次扫描不精确的数据库，并根据support 的最大值，建立模糊的频繁模式树。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "e)确定每个项集的模糊支持度，并产生一个所有项集的列表，用来验证 $s u p p o r t _ { \\bar { r } } ( x ) \\geq m i n S u p ~ .$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "f)从每个项集中构建所有可能的关联规则。为了实现这一点，首先从每个 $q$ -项集中生成可能的关联规则，其中 $q \\geq 2$ ，项 $( x _ { 1 } , x _ { 2 } , . . . , x _ { q } )$ 表 示 为$x _ { 1 } \\wedge . . . \\wedge x _ { k - 1 } \\wedge x _ { k + 1 } \\wedge . . . \\wedge x _ { q } \\to x _ { k } , k = 1 , . . . , q \\circ$ （20",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "然后本文计算规则的置信度，并根据用户确定的minConf返回相关规则。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "所提出的用来从不确定数据中优化合适MF 和挖掘有用FAR的 $U _ { - } M F L  – F A R$ 算法总体过程如算法1描述。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "算法1 $U$ -MFL-FAR算法",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "输入：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "一个包含T例子的不确定数据库T。  \n一组隶属函数 $S = \\{ S _ { 1 } , . . . , S _ { n } \\}$ ， $S _ { k } = \\{ s _ { 1 } , . . . , s _ { m } \\}$ 表示第 $k$ （204号  \n个变量与模糊分区关联的语言标签集合。  \n预定义的minSup。  \n预定义的minConf。  \n用于近似 $\\tilde { T } ( \\alpha _ { c u t s } )$ 中项集支持度的切割数。  \nGSO算法种群规模 $N$ 。  \n迭代次数。  \n阈值率 $\\eta$ □  \n输出：与一组最佳MF关联的模糊关联规则。  \n阶段1：从不确定数据中通过优化过程获得最佳MF。a)生成具有 $N$ 个个体的初始GSO 种群。b)评估个体适应度。对于每个个体：将数据库中的每个不精确值转换为模糊集计算每个模糊1-项集 $x _ { i }$ 的支持度。确定 $x _ { i }$ 是否属于1-项集。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "设置个体的适应度值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "c)初始化阈值 $L$ 。d)生成下一代发现者、搜索者和游荡者：e)如果最好的发现者个体没有改变，那么$L = L - ( L _ { \\mathrm { \\scriptsize { i n } } i \\mathrm { \\scriptsize { t } } i a l } * \\eta ) .$ 。f)如果 $L < 0$ ，重新构建种群并初始化阈值 $L$ 。g)如果没有达到最大迭代次数，转到步骤d)。阶段2：从不确定数据中挖掘模糊关联规则。使用该组最好的 MF，通过扩展的FFP-growth 算法，从给定的不确定数据库中挖掘FAR。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 实验及分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.1不确定数据库",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了分析所考虑方法的性能，本文使用了一个真实世界的不确定性数据库：Adult[15]。选择一些数据构建本文实验中的数据库，其中案例数量为5200，数据中总变量数量为150，数据中不准确的变量数量为100。不确定数据的类型有精确值；区间值；一组可能的值；定义在标签集上的概率分布；标签上一个不精确的概率分布。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.2相关算法和参数设置 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在这些实验中，本文将所提出的方法与现有的一种FAR挖掘算法进行比较，即文献[6]描述的用于不确定数据的模糊Apriori挖掘算法：FApriori。为了从不确定数据库中获得高质量的FAR，该算法用不准确的值对输入数据进行建模，将每个输入值转换成一个模糊集合。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "两种方法的参数如表5所示。对于本文方法，选择了在大多数情况下运行良好的标准通用参数，而不是特定值。其他方法的参数是根据相关文献中建议的值进行设定。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "另外，所有实验中每个数据为5次运行的平均结果。Adult数据库中的初始语言分区是由五个语言术语组成，以均匀分布的三角形MF形式构建，这些都是由系统专家预先定义。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/0642be3d7568aab4f7162629e8083017b583caede7796b71ed72952b3ce339ef.jpg",
+        "table_caption": [
+            "表5各种方法的参数设置"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>算法</td><td>参数</td></tr><tr><td>FApriori</td><td>y =2、αcus =7 、minSup =0.3 和 minConf = 0.8</td></tr><tr><td rowspan=\"5\">U-MFL-FAR</td><td>PopSize =50、NEval =200、初始搜索</td></tr><tr><td>角度λ²=π/4，最大搜索角度ωmax =</td></tr><tr><td>π/a²，最大转向角γmax=π/2a²，常</td></tr><tr><td>数a= √s+1、 minSup =0.3 和</td></tr><tr><td>minConf = 0.8</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.3MF学习过程中 $\\alpha _ { \\mathit { c u t s } }$ 的影响分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在本节中进行了一些实验来分析置信区间 $\\alpha _ { \\mathit { c u t s } }$ 对MF学习的影响。为了使这个分析更容易解释，表6显示了在3个不同的 $\\alpha _ { \\mathit { c u t s } }$ 值(5、7和9)和9个不同的minSup 值(0.1到0.9)情况下的实验结果。其中：fitness是适合度函数的值；Support是1-项集的平均支持度； $G M 3 M$ 是可解释性度量值；# $L _ { 1 }$ 是生成的1-项集的数量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过分析获得的结果,可以看到 fitness、Support 和# $L _ { 1 }$ 随着切割次数的增加而增加，但在9次切割时增加量较低，且需要较长时间才能完成。因此，本文使用7次切割，在适应度值与 $G M 3 M$ 测度之间取得了很好的平衡。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/6284a8b70d6f85086b5ec4251d497e9d99fef2d01a39916c005675de165ccf22.jpg",
+        "table_caption": [
+            "表6具有不同 $\\alpha _ { \\mathit { c u t s } }$ 和minSup值下本文 $\\scriptstyle - M F L - F A R$ 中 MF 优化的结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>minSup</td><td colspan=\"4\">acuts =5</td><td colspan=\"4\">αcus =7</td><td colspan=\"4\">acus =9</td></tr><tr><td></td><td>|Fitness|</td><td>|Support|</td><td>GM3M</td><td>#L1</td><td>[Fitness]</td><td>|Support|</td><td>GM3M</td><td>#L1</td><td>|Fitness|</td><td>[Support|</td><td>GM3M</td><td>#L1</td></tr><tr><td>0.1</td><td>[6.9,27.3]</td><td>[7.1,34.0]</td><td>0.82</td><td>43</td><td>[7.6,27.6]</td><td>[8.5,30.9]</td><td>0.93</td><td>48</td><td>[7.6,29.6]</td><td>[8.9,34.7]</td><td>0.94</td><td>50</td></tr><tr><td>0.2</td><td>[4.2,25.8]</td><td>[4.2,28.4]</td><td>0.91</td><td>36</td><td>[4.5,27.9]</td><td>[4.7,28.8]</td><td>1.0</td><td>36</td><td>[4.5, 28.1]</td><td>[4.5,29.3]</td><td>1.0</td><td>35</td></tr><tr><td>0.3</td><td>[4.4,11.2]</td><td>[4.4,17.1]</td><td>0.78</td><td>24</td><td>[4.8,12.4]</td><td>[7.8,20.1]</td><td>0.84</td><td>27</td><td>[5.1, 12.8]</td><td>[8.0, 24.5]</td><td>0.86</td><td>28</td></tr><tr><td>0.4</td><td>[1.3,12.5]</td><td>[1.3,13.1]</td><td>0.93</td><td>15</td><td>[1.5,13.9]</td><td>[1.6,14.1]</td><td>1.0</td><td>16</td><td>[1.5, 14.0]</td><td>[1.7, 14.0]</td><td>1.0</td><td>16</td></tr><tr><td>0.5</td><td>[0.3, 7.4]</td><td>[0.4, 8.4]</td><td>0.91</td><td>9</td><td>[0.6, 8.0]</td><td>[0.7, 9.2]</td><td>0.95</td><td>10</td><td>[0.6, 8.4]</td><td>[0.7, 9.6]</td><td>0.98</td><td>10</td></tr><tr><td>0.6</td><td>[3.2, 6.1]</td><td>[3.2, 6.9]</td><td>0.83</td><td>9</td><td>[3.8, 7.1]</td><td>[4.9, 9.2]</td><td>0.89</td><td>12</td><td>[3.7, 7.2]</td><td>[4.9,9.5]</td><td>0.90</td><td>11</td></tr><tr><td>0.7</td><td>[2.1, 3.2]</td><td>[1.9, 4.8]</td><td>0.86</td><td>6</td><td>[2.3, 3.6]</td><td>[3.1, 4.9]</td><td>0.91</td><td>6</td><td>[2.4, 4.0]</td><td>[3.2, 5.1]</td><td>0.90</td><td>6</td></tr><tr><td>0.8</td><td>[2.2, 2.8]</td><td>[2.8, 4.8]</td><td>0.78</td><td>6</td><td>[2.4, 3.2]</td><td>[3.6, 4.9]</td><td>0.84</td><td>6</td><td>[2.2,3.3]</td><td>[4.0, 4.8]</td><td>0.85</td><td>7</td></tr><tr><td>0.9</td><td>[0.8, 1.0]</td><td>[1.0, 1.4]</td><td>0.75</td><td>2</td><td>[1.0, 1.2]</td><td>[1.3, 1.7]</td><td>0.85</td><td>2</td><td>[1.1, 1.2]</td><td>[1.3, 1.7]</td><td>0.86</td><td>2</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.4挖掘 FAR的性能比较 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "首先，为了验证本文MF优化过程的有效性，将具备MF优化（ $U$ -MFL-FAR)和不具备MF优化(初始MF)的挖掘FAR方法进行比较，结果如表7所示。可以看出， $U$ -MFL-FAR给出的适应度函数值比初始模糊分区给出的值要好，在平均支持度和可解释性度量 $G M 3 M$ 上也取得了很好的平衡。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "这是因为MF的学习优化使本文可以更容易地从不精确数据中挖掘更相关的FAR。另一方面，在不同minSup值下，$U _ { - } M F L  – F A R$ 的 $G M 3 M$ 量度取得了很好的值，其对 MF的原始形状作了优化调整，并保持了MF在合理水平上的语义解释能力。而基于初始模糊MF的挖掘中，总是获得 $G M 3 M$ 度量的最大值，这是因为这个度量致力于保持MF的原始形状，而且不被修改。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/7d4ea0208726277962ad1dad1203ccde4859cd6f79c1dc01c3685f8d24af3efd.jpg",
+        "table_caption": [
+            "表7本文提出的 $U$ -MFL-FAR挖掘FAR的结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>minSup</td><td colspan=\"4\">U-MFL-FAR</td><td colspan=\"4\">初始MF</td></tr><tr><td></td><td>|Fitness|</td><td>| Support|</td><td>GM3M</td><td>#L</td><td>|Fitness|</td><td>|Support|</td><td>GM3M</td><td>#L</td></tr><tr><td>0.1</td><td>[7.6, 27.6]</td><td>[8.5, 30.9]</td><td>0.9</td><td>48</td><td>[7.4, 25.5]</td><td>[7.4, 25.5]</td><td>1.0</td><td>39</td></tr><tr><td>0.2</td><td>[4.5, 27.9]</td><td>[4.7, 28.8]</td><td>1.0</td><td>36</td><td>[4.1, 26.0]</td><td>[4.1, 26.0]</td><td>1.0</td><td>32</td></tr><tr><td>0.3</td><td>[4.8, 12.4]</td><td>[7.8, 20.1]</td><td>0.6</td><td>27</td><td>[3.5, 8.2]</td><td>[3.5, 8.2]</td><td>1.0</td><td>15</td></tr><tr><td>0.4</td><td>[1.5, 13.9]</td><td>[1.6, 14.1]</td><td>1.0</td><td>16</td><td>[1.5, 13.3]</td><td>[1.5, 13.3]</td><td>1.0</td><td>11</td></tr><tr><td>0.5</td><td>[3.8, 7.1]</td><td>[4.9, 9.2]</td><td>0.8</td><td>12</td><td>[2.3, 4.6]</td><td>[2.3, 4.6]</td><td>1.0</td><td>6</td></tr><tr><td>0.6</td><td>[0.6, 8.0]</td><td>[0.7, 9.2]</td><td>0.9</td><td>10</td><td>[0.2, 5.7]</td><td>[0.2, 5.7]</td><td>1.0</td><td>6</td></tr><tr><td>0.7</td><td>[2.3, 3.6]</td><td>[3.1, 4.9]</td><td>0.7</td><td>6</td><td>[0.8, 1.7]</td><td>[0.8, 1.7]</td><td>1.0</td><td>4</td></tr><tr><td>0.8</td><td>[2.4, 3.2]</td><td>[3.6, 4.9]</td><td>0.7</td><td>6</td><td>[0.8, 1.2]</td><td>[0.8, 1.2]</td><td>1.0</td><td>3</td></tr><tr><td>0.9</td><td>[1.0, 1.3]</td><td>[1.3, 1.7]</td><td>0.7</td><td>2</td><td>[0.7, 1.2]</td><td>[0.7, 1.2]</td><td>1.0</td><td>2</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "然后，将本文方法与FApriori方法在挖掘FAR性能方面进行比较，结果如表8和9所示。表8和9分别显示了当minConf $\\scriptstyle = 0 . 8$ 且minSup为不同值时和minConf为不同值且 $m i n S u p = 0 . 3$ 时，算法得到的规则的数量，其中也包含了使用初始模糊MF获得的规则。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/7e8589c15b7e22d0b0aacd21a6b51bc8e22a3555261eba98e9d3c31ee3fd587e.jpg",
+        "table_caption": [
+            "表8不同minSup 值下，各种算法获得规则的数量(minConf=0.8)。"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>minSup</td><td>U-MFL-FAR</td><td>FApriori</td><td>初始模糊分区</td></tr><tr><td>0.1</td><td>54</td><td>42</td><td>41</td></tr><tr><td>0.2</td><td>41</td><td>31</td><td>27</td></tr><tr><td>0.3</td><td>33</td><td>28</td><td>23</td></tr><tr><td>0.4</td><td>23</td><td>17</td><td>14</td></tr><tr><td>0.5</td><td>16</td><td>9</td><td>7</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/9c2b6dc9ecc996ac2763c951b9e6b509ae9037e6762b49e9b9469427de4a18c8.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "表9不同minConf值下，各种算法获得规则的数量"
+        ],
+        "table_body": "<html><body><table><tr><td>0.6</td><td>14 7</td><td>4</td></tr><tr><td>0.7 7</td><td>4</td><td>2</td></tr><tr><td>0.8</td><td>4 1</td><td>0</td></tr><tr><td>0.9</td><td>2 0</td><td>0</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/481187cbb344038e30e0ac53625e1cb4dabe19a35a463b4c93af411d70e3fd4c.jpg",
+        "table_caption": [
+            "$( \\mathrm { m i n S u p } { = } 0 . 3 )$ 。"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>minConf</td><td>U-MFL-FAR</td><td>FApriori</td><td>初始模糊分区</td></tr><tr><td>0.1</td><td>423</td><td>415</td><td>415</td></tr><tr><td>0.2</td><td>328</td><td>312</td><td>313</td></tr><tr><td>0.3</td><td>257</td><td>246</td><td>245</td></tr><tr><td>0.4</td><td>172</td><td>167</td><td>167</td></tr><tr><td>0.5</td><td>107</td><td>104</td><td>103</td></tr><tr><td>0.6</td><td>69</td><td>65</td><td>65</td></tr><tr><td>0.7</td><td>44</td><td>38</td><td>38</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/a6f4d1371e50a218d855823585bcad3e28116e9f0e93d4f1849bec664bcaeb8f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>0.8</td><td>33</td><td>28</td><td>23</td></tr><tr><td>0.9</td><td>5</td><td>4</td><td>4</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "分析这些结果可以看出， $U _ { - } M F L  – F A R$ 提取出了较多的FAR，其数量大于或等于FApriori算法和初始模糊MF所获得的FAR的数量，从而获得一组合理的FAR。其中，FApriori算法使用模糊先验挖掘算法从初始模糊分区中挖掘FAR，而本文使用了 $U$ -FFP-growth方法来挖掘初始模糊分区中的FAR。显然， $U$ -FFP-growth算法比FApriori算法更有效，这是因为 $U$ -FFP-growth是基于频繁模式树结构。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "因此可以得出结论，当不调整隶属函数时，规则的数量会减少。对于高支持度的规则，MF优化操作的效果更加显着。例如，初始模糊分区中没有执行MF学习，则没有挖掘出支持度高于0.8的规则。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6 结束语",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文提出了一种新的不确定数据模糊规则挖掘算法，称为$U _ { - } M F L  – F A R$ 。通过自适应学习合适的MF，最大限度地提高了MF的支持度和解释性度量，并提出了一种基于FFP-growth算法的新算法 $U$ -FFP-growth，从不确定数据中挖掘有用的FAR。通过实验结果表明，MF的优化过程使本文能够挖掘出更加相关的FAR。此外，使用可解释性度量GM3M可以避免原始MF发生较大的改变，在大多数情况下保留了原始的语义解释性。另外，采用了三元组语言表示来大大减少优化过程中的搜索空间。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]高琳，赵书良，赵骏鹏，等．基于超图的关联规则可视化方法[J].计 算机应用研究,2017,34(10):2933-2937.   \n[2]王爽，王国仁．面向不确定感知数据的频繁项查询算法[J].计算机学 报,2013,36(3):571-581.   \n[3]Kim J,Han M,Lee Y,et al.Futuristic data-driven scenario building: incorporating text mining and fuzzy association rule mining into fuzzy cognitive map [J].Expert Systems with Applications,2016,57(4): 311-323.   \n[4]Tazaree A,Eftekhari-Moghadam A M,Sajjadi-Ghaem-Maghami S.A semantic image classifier based on hierarchical fuzzy association rule mining[J]. Multimedia Tools & Applications,2014,69 (3): 921-949.   \n[5]杨英杰，邱卫．基于时间衰减模型的模糊会话关联规则挖掘算法[J]. 计算机应用研究,2017,34(1):128-131.   \n[6]Palacios A M,Gacto MJ,Alcala-Fdez J.Mining fuzzy association rules from low-quality data [J]. Soft Computing,2012,16 (5): 883-901.   \n[7]Li G Y,LiYX,Li W, et al.Learning algorithm of parameters about fuzzy Membership functions based on the RBF neural network [C]// Proc of International Conference on Educational and Network Technology. Piscataway,NJ: IEEE Press,2010: 282-286.   \n[8] 侯燕，刘辛．基于主从架构和GA 的模糊关联规则挖掘算法[J].控制 工程,2017,24(2):276-282.   \n[9]Song A,Song J，Ding X,et al.Utilizing bat algorithm to optimize membership functions for fuzzy association rules mining [C]// Proc of International Conference on Database and Expert Systems Applications. Berlin: Springer. 2017: 496-504.   \n[10] Alcala R, Gacto MJ, Herrera F.A fast and scalable multiobjective genetic fuzzy system for linguistic fuzzy modeling in high-dimensional regression problems [J].IEEE Trans on Fuzzy Systems,2011,19 (4): 666-681.   \n[11] Chen C H,Hong TP,Lee YC,et al. Finding active membership functions for genetic-fuzzy data mining [J]. International Journal of Information Technology & Decision Making,2015,14(6): 1215-1242.   \n[12]王飞，緱锦．基于多变异粒子群优化算法的模糊关联规则挖掘[J].计 算机科学,2013,40(5):217-223.   \n[13] Daryani N, Hagh MT,Teimourzadeh S.Adaptive group search optimization algorithm for multi-objective optimal power flow problem [J].Applied Soft Computing,2016,38:1012-1024.   \n[14] Safaee B,Mashhadi S K M. Fuzzy membership functions optimization of fuzzy controllers for a quad rotor using particle swarm optimization and genetic algorithm [C]// Proc of International Conference on Control, Instrumentation,and Automation. Piscataway,NJ: IEEE Press,2016: 256- 261.   \n[15]陈爱东，刘国华，费凡，等．满足均匀分布的不确定数据关联规则挖掘 算法[J].计算机研究与发展,2013,50(s1):186-195. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

@@ -1,0 +1,237 @@
+# 基于差分的动态加权SVDD在多模态过程故障检测中的应用
+
+谢彦红a，刘文静a，李元b(沈阳化工大学 a.数理系;b.过程故障诊断研究中心，沈阳110142)
+
+摘要：现代工业生产过程存在多种运行模态，数据序列之间具有很强的相关性。传统 SVDD作为一种单模态静态故障检测算法，对多模态动态过程故障的检测难以保证其检测的准确性和实时性。为了解决这一问题，提出一种基于近邻差分加权动态 SVDD检测方法（NND-DWSVDD）。首先，利用 NND剔除数据多模态结构，保证过程数据服从单峰分布；然后，对差分处理后的数据引入动态方法并加入权值将有用的信息凸显出来；最后，利用 SVDD方法建立监测模型实现在线监测。NND-DWSVDD 提高了多模态动态过程故障检测率。对于多模态动态过程故障检测，NND-DWSVDD不要求多模型建模，只需单独的一个模型，符合单模态故障检测要求。通过多模态数值例子和半导体生产过程数据对该方法的有效性进行验证。
+
+关键词：多模态；近邻差分；动态加权；支持向量数据描述；故障检测中图分类号：TP277 doi: 10.3969/j.issn.1001-3695.2018.06.0402
+
+# Application of dynamic weighted SVDD based on difference in multi-modal process
+
+Xie Yanhonga, Liu Wenjingat,Li Yuanb (a.Dept.ofMathematics &Physics,b.ProcessFault Diagnosis Research Center,Shenyang UniversityofChemicalTechnology, Shenyang 110142, China.)
+
+Abstract:Thereare manyoperating modes inmodernindustrial production processs,andthere isastrongcorrlationbetween data sequences.Traditional SVDDasasingle-mode staticfault detectionalgorithm,itis dificult toensure theaccuracyand real-time performance of multi-mode dynamic process fault detection.In order to solve this problem,this paper propose a weighted dynamic SVDD monitoring method (NND-DWsVDD) base on nearest neighbor difference .First,use NND to eliminatethedatamultimodal structureandensure thatthe processdataobeys theunimodal distribution;then,introduce the dynamicmethodforthedifferentiallyprocesseddataandadd weightstohighlightuseful information.Finally,establisha monitoring model by using the SVDD method to achieve online monitoring.NND-DWSVDD improves the multi-modal dynamic processfault detectionrate.For multimodal dynamic process fault detection,NND-DWsVDDdoes not require multimodel modeling,and only need a single model.It meet single-modal fault detection requirements.Through multi-modal numerical example and semiconductor production process data to validate the effectiveness of the method.
+
+Key words: multi-modality; nearest neighbor diference; dynamic weighting;supportvectordata description;faultdetection
+
+随着现代工业结构的日趋复杂，对生产过程的安全性和可靠性的要求也日益增加[1,2]。对运行系统进行及时有效的监控，是提高工作效率和保证生产安全的有效方法[3,4]。
+
+20世纪90年代末Tax等人[5]提出了支持向量数据描述(SVDD)方法，该方法通过非线性变换将低维空间数据映射到高维特征空间中建立模型，数据无服从高斯分布的要求，能够运用到变量间是非线性关系的数据中。学者们对该方法进行了广泛的研究[6\~10]。以上方法建模时假设某一时刻的观测数据与过去时刻数据无关。当采样时间间隔较长时，这种假设是行之有效的。然而在实际工业生产中，为了更好地监视生产过程，要求比较短的采样时间间隔。因此，探讨适合于序列相关数据的监测方法是非常有必要的。孙彥红等人[1提出基于滑动窗口SVDD的故障检测方法，通过采用适当大小的滑动窗口逐步更新当前子数据空间，改善了由于数据中的动态特性导致的检测效果不佳的问题，但该方法需要不断更新子模型，运行效率大大降低。针对故障模型动态未知、故障模型样本很难获得的问题，Duan 等人[12]提出基于SVDD的移动机器人内部传感器故障检测方法。它假定只有正常模型的样本可用，所提出的方法首先基于SVDD为这些正常样本建立一个紧致超球体，然后用所得超球体对新的测试数据进行验证。
+
+最近几年，对多模态故障进行检测的研究引起学者们广泛关注。在多模态问题中，每种模态的数据中心和协方差都有很大的不同。数据的中心和分布随着模态的不同而表现出很大的差异。传统的SVDD算法作为一种单分类方法无法对多模态的故障进行检测。为了解决这一问题，基于SVDD的多模态故障检测方法被逐渐发展起来。Wang 等人[13]提出了一种基于模糊聚类多模型的推理检测方法，用于搜索过程数据的最佳聚类中心。Zhao 等人[14]提出了一种基于支持向量数据描述(SVDD)的WLS策略的新算法，对多模态数据进行标准化，消除采集到的数据的多模特征，并将其归一化为单峰数据分布。Li等人[15]提出了一种基于局部密度比加权支持向量数据描述（LDR-wSVDD）的多模式过程故障检测方法，以解决训练样本中不同密度和异常值的多模态过程监测问题。
+
+本文综合考虑了采样数据间的序列相关性以及存在的多模态、多工况问题，提出一种基于近邻差分的加权动态SVDD 实时在线多模态故障检测方法（NND-DWSVDD）。该方法不仅解决传统SVDD由于忽略数据间的序列相关而导致检测效果不佳,而且实现了SVDD对多模态故障进行检测的目的，大大提高了算法的检测效率和检测能力。
+
+# 1 SVDD 基本理论
+
+支持向量数据描述的基本思想是:将数据集 $X = \{ x _ { 1 } , . . . , x _ { n } \}$ ，通过非线性转换 $\varphi$ 从原始空间投影到高维特征空间，找到一个几乎包含所有数据样本的最小体积超球体。 $\mathbf { \Psi } _ { a }$ 是超球体的球心，$R$ 是超球体的半径。考虑测量误差或者噪声等干扰引起的离群点影响，引入松弛变量 $\zeta _ { i }$ ， $\mathrm { ~  ~ { ~ C ~ } ~ }$ 是惩罚参数。此问题可描述为
+
+$$
+\begin{array} { l } { \displaystyle \underset { R , a , \zeta } { m i n } ( R ^ { 2 } + c \sum _ { i } \zeta _ { i } ) } \\ { \displaystyle s . \ t . \| \Phi ( x _ { i } ) - a \| ^ { 2 } \leq R ^ { 2 } + \zeta _ { i } , \zeta _ { i } \geq 0 } \end{array}
+$$
+
+上述问题可以转换为解决相应的对偶问题：
+
+$$
+\begin{array} { l } { { \displaystyle { \cal L } = \sum _ { i } \alpha _ { i } \left. \Phi ( x _ { i } ) \bullet \Phi ( x _ { i } ) \right. - \sum _ { i , j } \alpha _ { i } \alpha _ { j } \left. \Phi ( x _ { i } ) \bullet \Phi ( x _ { j } ) \right. } } \\ { { \displaystyle s . t . \sum _ { i } \alpha _ { i } = 1 , 0 \leq \alpha _ { i } \leq C } } \end{array}
+$$
+
+其中： $\alpha$ 是拉格朗日因子。
+
+用核函数 ${ \sf K } ( { \sf x } _ { \mathrm { i } } , { \sf x } _ { \mathrm { j } } )$ 代替内积 $\big \langle \Phi ( \mathsf { x } _ { \mathrm { i } } ) { \bullet \Phi } ( \mathsf { x } _ { \mathrm { j } } ) \big \rangle$ 来实现低维空间的非线性向高维空间的线性问题的转换，可得
+
+$$
+m a x L = \sum _ { i } \alpha _ { , i } K ( x _ { , i } , x _ { , i } ) - \sum _ { i , j } \alpha _ { , i } \alpha _ { , j } K ( x _ { , i } , x _ { , j } )
+$$
+
+利用二次规划，可以求出 $\alpha _ { i }$ 。如果 $o < \alpha _ { i } < c$ ，则说明目标数据在超球面上，此时该点为支持向量；如果 $\alpha _ { \mathrm { { i } } } = 0$ ，则说明目标数据在超球体内。如果 $z$ 是支持向量，则超球体的半径和球心为
+
+$$
+\begin{array} { l } { \displaystyle { R = \sqrt { \mathscr { I } ^ { - 2 } \sum _ { j } \alpha _ { j } K ( z , x _ { j } ) + \sum _ { i , j } \alpha _ { i } \alpha _ { j } K ( x _ { i } , x _ { j } ) } } } \\ { \displaystyle { a = \sum _ { j } \alpha _ { j } \Phi ( x _ { i } ) } } \end{array}
+$$
+
+对于新的样本 $X _ { \eta e w }$ ，其到超球球心的距离可表示为
+
+$$
+D _ { n e w } = \sqrt { \jmath - 2 \sum _ { i } \alpha _ { i } K ( x _ { n e w } , x _ { i } ) + \sum _ { i , j } \alpha _ { i } \alpha _ { j } K ( x _ { i } , x _ { j } ) }
+$$
+
+# 2 基于差分方法的动态加权SVDD
+
+对于传统的SVDD算法，当训练数据中存在多模态结构时，不能满足单模态建模的条件，SVDD的检测性能将不可避免地受到影响。尤其是当多种模式之间出现故障时，SVDD的检测效果更不理想。为了提高SVDD对多模态动态数据检测能力，本章介绍差分数据预处理技术及动态加权方法。
+
+# 2.1 近邻差分（nearestneighbors difference，NND)
+
+Zhang 等人[1提出近邻差分的方法，其基本原理是：假设原始数据集 $X ^ { n \times m }$ 包含 $M$ 个模式（ $\mathbf { \Omega } _ { n }$ 表示样本数量， $m$ 表示测量变量的数量）; $x _ { i }$ 的第一个邻居是 $x _ { i } ^ { * }$ ，通过比较样本 $x _ { i }$ 到其他样本的欧氏距离来确定x。
+
+首先，样本 $x _ { i }$ 在训练集中找到其最近邻样本 $x _ { i } ^ { * }$ ，然后利用式（6）进行一阶差分运算。
+
+$$
+\hat { x } _ { i } = x _ { i } - x _ { i } ^ { * }
+$$
+
+为了解决由于方差不同导致的数据分布不均的问题，本文计算二阶差分同时引入权重参数，式（6）转换为式（7）。
+
+$$
+\tilde { x } _ { i } = w ^ { * } ( \hat { x } _ { i } - \hat { x } _ { i } ^ { * } )
+$$
+
+其中： $w = 1 / \left. \hat { { x } } _ { i } - \hat { { x } } _ { i } ^ { * } \right.$ 。定义 $\widetilde { \boldsymbol { x } } = [ x _ { \widetilde { i } } ] , 1 , 2 , \cdots , n$ 为差分矩阵。正常情况下，由于样本 $\hat { x } _ { i }$ 与其最近邻 $\hat { x } _ { i } ^ { * }$ 在空间中的位置接近，所以差值会分布在原点的周围。
+
+# 2.2动态加权
+
+在动态系统中，当前时刻的数据取决于过去时刻的数值，因此需要了解当前时刻与过去时刻之间的关系。由之前的 2.1节已经得到差分处理后的单模态数据X=[xxx，增加前 $h$ 时刻观测数据得到增广矩阵：
+
+$$
+\tilde { X } ( h ) = \left[ \begin{array} { c c c c } { \tilde { x } _ { t } ^ { \mathrm { T } } } & { \tilde { x } _ { t - 1 } ^ { \mathrm { T } } } & { \cdots } & { \tilde { x } _ { t - h } ^ { \mathrm { T } } } \\ { } & { } & { \tilde { x } _ { t - 2 } ^ { \mathrm { T } } } & { \cdots } & { \tilde { x } _ { t - h - 1 } ^ { \mathrm { T } } } \\ { \tilde { x } _ { t - 1 } ^ { \mathrm { T } } } & { \tilde { x } _ { t - 2 } ^ { \mathrm { 2 } } } & { \cdots } & { \tilde { x } _ { t - h - 1 } ^ { \mathrm { T } } } \\ { \vdots } & { \vdots } & { } & { \vdots } \\ { \tilde { x } _ { t + h - n } ^ { \mathrm { T } } } & { \tilde { x } _ { t + h - n - 1 } ^ { \mathrm { T } } } & { \cdots } & { \tilde { x } _ { t - n } ^ { \mathrm { T } } } \end{array} \right]
+$$
+
+其中： $\tilde { x } _ { t } ^ { \mathrm { { T } } }$ 是 $t$ 时刻 $m$ 维观测变量的集合； $h$ 为时滞长度，通常采用平行分析法来计算滞后长度。为了降低复杂度和运行时间，将增广矩阵作如下处理
+
+$$
+\tilde { X } ( h ) = \left[ \begin{array} { l } { \mathbf { \sigma } _ { \mathrm { b } } ^ { \mathrm { P } } \mathbf { \Sigma } } \\ { x _ { t } } \\ { \mathbf { \sigma } _ { \mathrm { b } } ^ { \mathrm { P } } } \\ { x _ { t - 1 } } \\ { \quad \dots } \\ { \mathbf { \sigma } _ { \mathrm { b } } ^ { \mathrm { P } } } \\ { x _ { t + h - n } } \end{array} \right] \frac { \mathbf { \sigma } _ { \mathrm { b } } ^ { \mathrm { P } } } { \left( \begin{array} { l } { \mathbf { \sigma } _ { \mathrm { b } } ^ { \mathrm { P } } } \\ { x _ { t } } \\ { x _ { t - 1 } } \\ { x _ { t - 1 } } \\ { x _ { t + h - n } } \end{array} \right) }
+$$
+
+其中：\~T $\stackrel { \scriptscriptstyle \triangleright } { x } _ { t } ^ { T } = \stackrel { \scriptscriptstyle \sim } { x } _ { t } ^ { T } + \stackrel { \scriptscriptstyle \sim } { x _ { t - 1 } } ^ { T } + . . . + \stackrel { \scriptscriptstyle \sim } { x _ { t - h } } ^ { T }$
+
+为了将变量中有用的信息凸显出，本文将给出一个权值矩阵W，具体计算公式如下：
+
+$$
+W _ { r } = \frac { s t d ( \tilde { X ( h ) } _ { r } ) } { \displaystyle \sum _ { m } s t d ( X ( \tilde { h } ) _ { m } ) } , r = 1 , 2 , . . . . . . . , m
+$$
+
+$$
+\sum _ { r = 1 } ^ { m } W _ { r } = 1
+$$
+
+$$
+W = d i a g \left[ \begin{array} { c c c c } { { W _ { 1 } } } & { { } } & { { } } & { { } } \\ { { } } & { { W _ { 2 } } } & { { } } & { { } } \\ { { } } & { { } } & { { \cdots } } & { { } } \\ { { } } & { { } } & { { } } & { { W _ { m } } } \end{array} \right]
+$$
+
+则加权后的矩阵变为
+
+$$
+\tilde { X ( h ) _ { W } } = \tilde { X ( h ) } { \times } { W }
+$$
+
+其中： $s t d ( \tilde { X } ( h ) _ { r } )$ 是训练数据第 $\boldsymbol { r }$ 个变量的标准差；权矩阵 $W$ 是一个对角矩阵。在采集的数据中如果变量包含较多的信息，就给这个变量赋予一个较大的权值，反之就赋予一个较小的权值。经过加权，重要的信息的到突出显示。
+
+# 3 基于近邻差分加权动态SVDD故障检测
+
+为了解决工业生产过程中存在的多模态问题，本文提出一种基于NND-DWSVDD故障检测方法。首先，通过NND方法预处理多模态数据，保证数据服从多峰分布；其次，对差分后的单模态数据引入动态方法解决数据间存在的互相关及自相关性；然后，对动态数据加入权重因子将重要的信息突出显示；最后，建立SVDD检测模型对新来的数据进行故障检测。下面介绍NND-DWSVDD 算法的建模和故障检测步骤，如图1所示。
+
+![](images/3b9e1eb3545bebc39bb22af211eb837cb51f9d9eaa8724e9db0a7e97e9bb2c32.jpg)  
+图1建模及检测流程
+
+# 4 仿真和分析
+
+为了检验理论的可行性，在这本章中将传统的SVDD方法与本文新提出的NND-DWSVDD方法同时进行数值多模态例子和半导体过程数据仿真实验，实验结果及分析也将会同时给出。
+
+# 4.1数值例子
+
+Ge 等人[17提出了一个典型的多模态模型，很多学者用此模型检测算法对复杂数据的有效性，本文采用此模型来验证NND-DWSVDD算法效果，模型的结构如式（12）所示。
+
+$$
+\left\{ \begin{array} { l l } { x _ { 1 } = 0 . 5 7 6 8 s _ { 1 } + 0 . 3 7 6 6 s _ { 2 } + e _ { 1 } } \\ { x _ { 2 } = 0 . 7 3 8 2 s _ { 1 } ^ { 2 } + 0 . 0 5 6 6 s _ { 2 } + e _ { 2 } } \\ { x _ { 3 } = 0 . 8 2 9 1 s _ { 1 } + 0 . 4 0 0 9 s _ { 2 } ^ { 2 } + e _ { 3 } } \\ { x _ { 4 } = 0 . 6 5 1 9 s _ { 1 } s _ { 2 } + 0 . 2 0 7 0 s _ { 2 } + e _ { 4 } } \\ { x _ { 5 } = 0 . 3 9 7 2 s _ { 1 } + 0 . 8 0 4 5 s _ { 2 } + e _ { 5 } } \end{array} \right.
+$$
+
+模型包括五个变量 $x _ { 1 } \setminus x _ { 2 } \setminus x _ { 3 } \setminus x _ { 4 } \setminus x _ { 5 } \circ s _ { 1 }$ 和 $s _ { 2 }$ 是潜在变量； $e _ { 1 } \setminus \ e _ { 2 } \setminus \ e _ { 3 } \setminus e _ { 4 } \setminus e _ { 3 }$ 是五个相互独立的噪声，均服从均值为0、标准差为0.01的高斯分布。两个设计的模态如下所示：
+
+$$
+l 1 \quad s _ { 1 } \quad u n i f o r m ( - 1
+$$
+
+$$
+s _ { 2 } \quad N ( - 1 5 , 1 )
+$$
+
+$$
+\mod { e l 2 \quad s _ { 1 } \quad u n i f o r m ( 2 , 5 ) }
+$$
+
+$$
+s _ { 2 } \quad N ( 7 , 1 )
+$$
+
+两种模态下分别产生400个样本组成正常训练样本集。两个测试样本集由式（12）产生。
+
+设定以下故障：
+
+a）系统运行在模态1下， $T = 4 0 1$ 时刻起给 $X _ { 5 }$ 加一个幅值为4的阶跃信号。b）系统运行在模态1下， $T = 4 0 1$ 时刻起给 $X _ { 1 }$ 加一个幅值为0.02的斜坡信号。
+
+为了更清楚地观察差分处理多模态数据能力，本文将给出正常数据和故障数据经差分处理前后变量 $x _ { 1 } \cdot x _ { 2 }$ 高斯分布直方图。图2为SVDD经Z-SCORE标准化后数据分布，图3为NND-DWSVDD经NND差分后的数据分布。通过两张对比图可以清楚地看到NND处理多模态数据的能力。
+
+![](images/9d23a243d53b23b7cc0ee548080bf732d1042109991f44b2e91e346b98df7388.jpg)  
+图2经 $z$ -score 处理
+
+![](images/cf9daf31da84e5cd05c2917637c2d01a72bf4a6fa81b61f619cf3c81b8a6b0be.jpg)  
+图3经NND 处理
+
+由上一步的差分处理已经得到单一模态下的数据，处理了互相关问题，接下来将继续研究数据的动态特性也就是自相关问题，通过加权方法将重要的信息突出显示解决了不同变量间线性关系。为了便于观察也将给出图像，如图4、5所示。
+
+![](images/0b4940e78e39d583f696ae91e38054418fdbd5ac098d48a977a2b7ab44678302.jpg)  
+图4原始数据自相关检验
+
+![](images/c115940627149e1c3616ffa168224fde4b670b8cb8790b7eb7b03f83b2f1b617.jpg)  
+图5加权处理后的自相关检验
+
+图6、7为两种方法对两种故障的检测结果。由检测图可以看出，当阶跃故障发生在两个模态之间时，SVDD几乎不能检测出故障。原因是既没有SVDD考虑到数据的自相关性问题，也没有没有考虑数据的互相关性即多模态问题。在数据处理阶段利用Z-SCORE 方法处理数据，当数据处于同一分布时，这种方法是有效的；但当故障发生在多个模态之间时，Z-SCORE方法由于本身算法的影响不能剔除数据多模态结构，SVDD 在建模阶段建立的模型较大，在检测时会将故障当做正常数据包在球内。NND-DWSVDD在数据处理阶段就能够剔除数据的多模态结构，并且在引入权值因子将重要的信息加以突出显示，保证了SVDD能够建立适当的单模态模型。当发生斜坡故障时，对故障的检测都会发生延迟现象，NND-DWSVDD在延迟时间上明显较之SVDD有所减少，这也为故障的及时发现打下基础，能够在一定程度上减少生产损失。
+
+![](images/7bb3fb5a975f56f5963d21cc469701aa754ad43695221d89c797e2f3e6c67486.jpg)  
+图6阶跃故障检测结果
+
+![](images/da70b4267dfc28044df14c288ae93eabaada20a83bc2f15104551873046657ad.jpg)  
+图7斜坡故障检测结果
+
+# 4.2 半导体过程
+
+本文所应用的半导体数据[18]来源于美国德州仪器公司的半导体生产过程实际数据。半导体生产过程数据由3个模态108个正常硅片和21个故障硅片构成。由于2个批次过程（第56个正常批次和第12个故障批次）丢失大量的数据，所以实际的批次为107批正常数据和20批故障数据。在107个正常批次中， $1 { \sim } 3 4$ 批次为第一模态； $3 5 { \sim } 6 6$ 批次为第二模态； ${ 7 1 \sim } 1 0 7 \$ 批次为第三模态。原始数据集包含40个变量。在该实验中，从40个测量变量中选取17个变量作为检测变量，随机抽取96个正常批次为建模数据，选取6正常批次为校验数据，故障批次为20个。每个批次是不等长的，持续时间在 $9 5 { \sim } 1 1 2 \mathrm { ~ s ~ }$ 变化。
+
+解决间歇过程批次不等长问题，传统的统计分析方法通常都是采用最短长度法。这种方法简单，但数据轨迹的过程信息大量丢失，并且使点对点数据的相关性降低，导致数据的可靠性降低。为了提高不等长间歇过程故障诊断的性能，本文采用了统计模量分析算法对多模态数据进行预处理[19]，所有的统计特征将会组合成一个 $( 1 \times 2 m )$ 维的特征向量，然后对统计模量进行差分运算，最后对所得到的统计差分数据矩阵计算相应的统计量值并与控制限进行比较，判断检测结果。其过程细节如下描述：
+
+对于一个有 $\mathbf { \eta } _ { \mathrm { ~ n ~ } }$ 个样本 $\mathbf { \rho } _ { \mathrm { m } }$ 变量的批次 ${ \bf I } _ { \cap \times \mathfrak { m } }$ ，单独计算每个变量的均值和方差，然后定义SP 向量, ${ \mathsf { S P } } = [ { \mathsf { C } } , \forall ]$ ， $\mathrm { ~  ~ { ~ c ~ } ~ }$ 是一个均值向量，V是一个方差向量。
+
+图8为SVDD方法对21批故障数据的检测结果。传统的SVDD由于利用Z-SCORE方法标准化数据，没有考虑多模态的影响，也没有考虑数据的自相关性，导致对产生的故障数据检测不准确。图9为NND-DWSVDD方法对故障数据的检测结果。NND-DWSVDD方法考虑数据的分布特性，在前期数据处理阶段已经将多模态去除，为后期检测打下基础，之后引入动态加权方法，利用权值因子将重要的信息突出显示，同时去除数据的自相关性，再一步保证检测的有效性。两种算法对20批故障的检测结果如表1所示。
+
+![](images/d221217de40994bfdd2dc1b9357e0d15655e348c48fda4b1ac17d34e2369d020.jpg)  
+图8SVDD 检测结果
+
+![](images/2b1ab099f5d3deca9f9d1b80c84ec8b252b8a2c7831b4876bb990d1debfcf193.jpg)  
+图9 NND-DWSVDD 检测结果
+
+表1两种算法对20批故障的检测结果 $1 \%$   
+
+<html><body><table><tr><td>算法</td><td>SVDD</td><td>NND-DWSVDD</td><td></td></tr><tr><td>故障检测率</td><td>76</td><td>100</td><td></td></tr></table></body></html>
+
+# 5 结束语
+
+针对SVDD方法对工业生产出现的多模态故障检测效果不理想的问题，本文通过分析数据的空间分布及相关性，提出基于 NND-DWSVDD 算法的多模态工业过程故障检测方法。该方法首先运用近邻差分对数据进行处理，剔除由于中心不同而存在的多模态形式；其次对差分后的单模态数据引入动态方法去除数据的自相关性确保数据之间不会相互影响；最后应用SVDD方法实现在线监测。相比SVDD，NND-DWSVDD在改善了SVDD不能处理多模态问题的同时又考虑数据的自相关性。
+
+# 参考文献：
+
+[1]周东华，李钢，李元．数据驱动的工业过程故障诊断技术[M].北京： 科学出版社,2O11.(Zhou Donghua,Li Gang,Li Yuan.Fault detection and diagnosis technology of industrial process based on data driven [M].Beijing: Science Press,2011: 1-76.)   
+[2]刘伟旻，王建林，邱科鹏，等．基于DHSC 的多模态间歇过 程测量数 据异常检测方法 [J].化工学报,2017,68(11),4201-4207.(Liu Weimin, Wang Jianlin,   
+[3]Qiu Kepeng,et al.Method for detecting abnormal data in multimode batch process based on dynamic hypershere structure chang [J].CIESC Journal, 2017,68 (11),4201-4207.)   
+[4]冯立伟，张成，谢彦红，等．基于 SP-LNS-kNN的半导体生产过程故障 检测方法研究[J].计算机应用研究,2018,35(11).ttp://www.arocmag. com/article/02-2018-11-019.html.(Feng Liwei,Zhang Cheng,Xie Yanhong et al.SP-LNS-KNN based fault detection method research for multimode batch process [J].2018,35(11).http://www.arocmag.com/article/02-2018- 11-019. html. )
+
+[5] 郭金玉，王鑫，李元．基于加权差分主元分析的化工过程 故障检测[J]
+
+高校化学工程学报,2018,32(1):183-192.(Guo Jinyu,Wang Xin,LiYuan. Fault detection in chemical processes using weighted differential principal component analysis [J].Journal of Chemical Engineering of Chinese Universities,2018,32(1): 183-192.)   
+[6]Tax D MJ,Duin R P W. Support vector data description [J] $\because$ Machine Learning,2004,54 (1): 45-66.   
+[7]王国柱，刘建昌，李元．稀疏性 SVDD 方法在故障检测中的应用研究 [J]．东北大学学报：自然科学版,2015,36(6):761-764.(Wang Guo Zhu, Liu Jiang Chang,LI Yuan.An applied research of sparsity SVDD method to the fault detection [J]. Journal of Northeastern University Nature Science, 2015,36 (6): 761-764.)   
+[8]Xie Lei,Zeng Jiusun, GaoChuanhou.Novel just-in-timeLearning-based soft sensor utilizing non-gaussian Information [J].IEEE Trans on Control Systems Technology,2014,22(1):360-368.   
+[9]Jiang Yuanyuan,Wang Youren,Luohui et al.Fault diagnosis of analog circuit based on a second map svdd [J].Analog Integrated Circuits and Signal Processing,2015,85 (3): 395-404.   
+[10]韩晓春，薄翠，梅易辉．基于DNPE-SVDD 的化工过程监控[J]．系统 仿真学报，2018,30(1):184-190.(Han Xiaochun,Bo Cui,Mei Yihui. Chemical process monitoring based on dnpe-svdd [J].Journal of System Simulation,2018,30(1):184-190.)   
+[11]王之宏，范玉刚，黄国勇．基于ITD-AR 模型和 SVDD的轴承故障诊断 方法研究[J].云南大学学报：自然科学版，2018,40(2):228- 235.(Wang Zhihong,Fan Yugang,Huang Guoyong.A study on bearing fault diagnosis method based on ITD-AR model and SVDD [J].Journal of Yunnan University: Natural Sciences,2018,40 (2): 228-235.)
+
+[12]谢彦红，孙呈敖，李元．基于滑动窗口 SVDD的间歇过程故障监测[J].信息与控制,2015,44(5): 531-537.(Xie Yan hong,Sun Chengao,Li Yuan.
+
+Intermittent process fault monitoring based on sliding window SVDD [J]. Information and Control,2015,44 (5): 531-537.)   
+[13] Duan Zhouhua,Ma Hui, Yang Liang.Fault detection for internal sensors of mobile robots based on support vector data description [Cl//Proc of the 27th Chinese Control and Decision Conference.2015.   
+[14] Wang Xiaoyang,Wang Xin，Wang Zhenlei,et al.A novel method for detecting processes with multi-state modes [J]. Control Engineering Practice, 2013,21 (12): 1788-1794.   
+[15] Zhao Fuzhou,Song Bing, Shi Hongbo.Multi-mode process monitoring based on a novel weighted local standardization strategy and support vector data description [J]. Jourmal of Central South University,2016,23 (11): 2896-2905.   
+[16] Li Han,Wang Huangang,Fan Wenhui.Multimode process fault detection based on local density ratio-weighted support vector data description [J]. Industrial & Engineering Chemistry Research,2017,56 (9): 2475-2491.   
+[17] Zhang Cheng,Gao Xianwen,Xu Tao,et al. Nearest neighbor difference rulebased kernel principal component analysis for fault detection in semiconductor Manufacturing process [J]. Journal of Chemometrics,doi:10. 1002//cem. 2888.   
+[18] Ge Zhiqiang，Song Zhihuan.Multimode process monitoring based on Bayesian method [J].Journal of Chemometrics,2009,23 (12): 636-650.   
+[19] He P,Wang Jin.Fault detection using the K-nearest neighbor rule for semiconductor manufacturing processes [J]. IEEE Trans on Semiconductor Manufacturing,2007,20 (4): 345-354.   
+[20] Zhang Cheng,Li Yuan. Study on the fault-detection method in batch process based on statistical pattern analysis [J].Chinese Journal of Scientific Instrument,2013,34(9): 2103-2110.

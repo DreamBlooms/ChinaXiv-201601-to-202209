@@ -1,0 +1,249 @@
+ChinaXiv合作期刊
+
+# 从可视化分析看AI在食管癌领域近22年全球研究趋势探析
+
+涂嘉欣」 叶惠清」张小强² 林雪婷」杨善岚」 邓莉芳」吴磊1\*基金：江西省城市癌症早诊早治疗经济学评价项目（JXTC2020040486,2020）、南昌大学创新创业项目（2022)1南昌大学公共卫生学院流行病学教研室，江西省预防医学重点实验室2 南昌大学第二附属医院心胸外科
+
+南昌330006
+
+作者简介：涂嘉欣（1998—)，女，硕士在读，主要从事老年肿瘤流行病学研究。
+
+通信作者：吴磊，E-mail:Wulei2060@aliyun.com，教授。
+
+批注[tt1]:对应问题5，软件名称调整为原样书写。
+
+【摘要】目的通过可视化文献计量分析，总结人工智能在食管癌应用和发展历程，阐明AI在其中的研究进展、热点和新兴趋势。方法 检索WoSCC 的 SCI-E数据库2000年1月1日\~2022年4月6日收录AI应用于食管癌领域的所有英文文献的全部信息。应用Microsoft Excel 2019、CiteSpace(5.8R3-64bit)和VOSviewer(1.6.18)对文献进行发文量、国家、作者、机构、共被引和关键词分析。结果 共计纳入918 篇文献，共计引用文献 23490 篇；5,979 位作者、39962位共同被引作者、42992 篇共被引文献被纳入研究；突现关键词共33个，研究前沿变化早期（2001-2008）为p53等食管癌基因，中期（2013-2018）以食管癌分类、鉴别、比较研究为重心，近期（2019-2022）以数据库结合深度学习、卷积神经网络、机器学习在食管癌检查、诊断应用为最强热点、最新前沿。结论 食管癌人工智能研究领域已迈入新阶段，整体朝精准检查、诊断和治疗方向发展。未来AI应用于食管癌的挑战可能主要存在于食管癌个体化数据收集、数据质量、数据处理规范、AI代码复现、辅助诊断可信度决策上。
+
+关键词：食管癌；人工智能；可视化分析；CiteSpace;
+
+# Visual analysis of global research hotspots and trends of artificial intelligence in esophageal cancer from 2ooo to 2022
+
+Abstract Objective Through visual bibliometric analysis, the application and development of artificial intelligence inesophageal cancer are summarized,and the research progress,hotspots and emerging trends of AI in it are clarified.Methods The
+
+SCI-E database of WoSCC was searched from January 1,2000 to April 6,2022 to include allthe information of all English literatures on the application ofAI in the field of esophageal cancer. Using Microsoft Excel 2019,CiteSpace (5.8R3-64bit） and VOSviewer (1.6.18) to visualize the literature,analyze the number of publications, countries,authors,institutions,co-citations and keywords.Results A total of918 papers were included,with a total of 23,490 citations.A total of5,979 authors,39,962 co-cited authors,and 42,992 co-cited papers were included in the study.A total of33 keywords emerged,and research fronts changed.In the early stage (2oo1-2oo8),esophageal oncogenes such as p53.And in the middle stage (2013-2018), the focus was on the classification, identification,and comparison of esophageal cancer.Recently(2019- 2022),the database combined with deep learning, convolutional neural network,and machine learning.It is the strongest hot spot and the latest frontier in the examination and diagnosis of esophageal cancer. Conclusion The field of artificial inteligence research for esophageal cancer has entered a new stage,and the overall development is in the direction of precise inspection,diagnosis and treatment.The challenges of applying AI to esophageal cancer in the future may mainly lie in individualized data collection,data quality,data processing specifications,AI code reproduction,and assisted diagnosis reliability decision-making for esophageal cancer.
+
+Keywords: esophageal cancer; artificial intelligence; visual analysis; CiteSpace;
+
+批注[tt2]:对应问题2，补充首次出现名词英文。
+
+食管癌（EsophagealCarcinoma，ESCA)，包括食管腺癌和食管鳞状细胞癌，它是全球第七大最常见的癌症（按发病率),第六大致死癌症（按死亡率)，新发病例死亡率高于 $5 0 \% \mathrm { [ l ] }$ 0近20 年，食管癌在诊断、治疗、预后等方面取得了重大进展，尤其新兴的人工智能（ArtificialIntelligence,AI）逐渐被应用于医疗卫生中疾病诊断、基因组数据分析等许多领域[2.3]，这在一定程度上更是帮助提高了ESCA诊断结果的准确率[4,5]。但随着AI在ESCA领域应用研究的剧增，研究人员很难弄清该领域的最新发展和研究热点。因此，本研究进行了2000\~2022年的 22年可视化文献计量分析，总结AI在食管癌的应用和发展历程，阐明AI在其中的研究进展、热点和新兴趋势，以帮助该领域研究者更好把握未来研究方向。
+
+# 1资料与方法
+
+# 1.1资料来源
+
+佥索 WoSCC(Web of Science Core Collection)的 SCI-E(Science Citation Index Expanded)数
+
+据库，具体检索要求及结果（表1)。所有检索工作在2022年4月6日当天完成以确保没有数据更新。共检索到文献1074篇，筛除非英语2篇、与主题不相关141篇、文献类型不符（非研究类、综述类文章）12篇、重复发表1篇，最终得到918篇有效文献。
+
+批注[tt3]:对应问题6补充筛选标准。
+
+表1AI在食管癌领域研究文献检索一览表  
+
+<html><body><table><tr><td>检索步骤 检索式</td><td></td><td>文献数量</td></tr><tr><td>1#</td><td>esophag*(Topic) or oesophag*(Topic) or gullet (Topic) and Article OR Review (Document Type) and English (Language) cancer*(Topic) or tumour*(Topic) or tumor*(Topic) or neoplas*(Topic) or</td><td>103423</td></tr><tr><td>2# 3#</td><td>onco* (Topic) or carcinoma* (Topic) and Article OR Review (Document Type) and English (Language) 1#AND2#</td><td>32722批注[tt4]：原本文献要求遗漏未写出，仅体现在检索式 中。现已通过解决问题6进行补充。 54077</td></tr><tr><td>4#</td><td>"artificial intelligen*"(Topic) or computational NEAR/5 intelligence (Topic) or expert* system*(Topic) or intelligent learning (Topic) or feature* extraction (Topic)or feature* mining (Topic) or feature* learning (Topic) or machine learning (Topic) or feature* selection (Topic) or unsupervised clustering(Topic) or image* segmentation (Topic) or supervised learning(Topic) or semantic segmentation (Topic) or deep network*(Topic) or bayes* network(Topic) or deep learning</td><td>1068667</td></tr><tr><td></td><td>(Topic) or neural network*(Topic) or neural learning(Topic) or neural nets model (Topic) or artificial neural network(Topic) or data mining(Topic) or graph mining (Topic) or data clustering (Topic) or big data (Topic) or knowledge graph (Topic) 3#AND 4#</td><td></td></tr><tr><td>5#</td><td>or AI (Topic) and Article OR Review (Document Type) and English (Language)</td><td>1074</td></tr></table></body></html>
+
+# Table1List of research literatures on AI in the field ofesophageal cancer
+
+# 1.2数据处理
+
+文献数据由两名课题组成员分别下载和分析，以确保数据的准确性和研究的重复性，其导出内容包括全部信息（标题、作者、单位等）以及所有引用文献。Microsoft Excel 2019、CiteSpace(5.8R3-64bit)和VOSviewer(1.6.18)被用于数据分析与可视化。可视化软件时间片固定为1年，阈值设定g-index $_ { : = 2 5 }$ ，最终绘制作者、机构、关键词等共现图谱，同时结合词频、中心性等客观数据，评估分析对象的研究热度、重要程度等。
+
+# 2结果
+
+# 2.1文献发表
+
+自 2000 年以来，食管癌中AI研究的发文量每年稳步增加，根据增长趋势划分为两阶段：2000年至2016年为迟缓期，发文量仅从6篇增至40篇；2017年至2022年为快速增长期，发文量从62增突增至216篇。近10年的发文量占所有出版文献的 $80 \%$ 以上。918 篇文献的H型指数（H-index）和平均引用次数分别为74和25.37。引用文献数量趋势基本与发文量保持一致，截至搜索日期共计引用文献总量达23490篇。
+
+# 2.2国家、机构、作者分析
+
+国家 超过60 个国家、118 家机构参与了人工智能在ESCA 的应用研究。用VOSviewer 对其合作关系进行可视化分析。在国家分析中，发文量排名前三的分别是中国（306 篇）、美国（238 篇）、英国（113篇)。连线粗细（TotalLink Strength，TLS）反应各国之间合作关系密切程度，以美国为中心开展研究众多，尤其以美国-中国合作最为密切，其次是美国-荷兰。
+
+机构 在发文机构分析中，合作强度排名前3的 TLS分别是阿姆斯特丹大学（TLS $\mathbf { \Sigma } = \mathbf { \Sigma }$ 72）、凯瑟琳医院（ $\mathrm { T L S } = 6 4$ )、埃因霍芬大学（ $\mathrm { T L S } = 5 3$ )。具体从图2（b）可以看出美国梅奥医学中心是衔接美国、中国、荷兰三国机构研究成果的中介机构。
+
+![](images/762604d23029cb180e2a63cca5bb3f8b6d9f78dc69a38db4024390875a138620.jpg)  
+图1近22年WoSCC数据库中全球食管癌的AI应用年发文、引文数量
+
+Figure 1 Annual publications and citations of AI applications in globalesophageal cancer
+
+![](images/7ea8865645cbcb4b6e7c1b3aa6f91f90567cceca5b30ebe6867424af970532d8.jpg)  
+图2VOSviewer可视化近22年合作关系图谱(a)发文量 top10 国家、(b)发文总量 ${ \bf > } 1 5$ 篇
+
+C hinaXiv合作期刊
+
+# 机构、(c)发文量总量 $\bf { > } 1 0$ 篇作者
+
+Figure 2 The VOSviewer visualizes the cooperative relationship map in the past 22 years (a) Top 10 countries with published papers,(b) institutions with total published papers $> 1 5$ institutions,(c) total published papers $\bf { \tau } > 1 0$ authors
+
+作者共有5,979位作者被纳入研究。图4给出了总发文量 ${ > } 1 0$ 篇的9位作者合作关系，发文量最高的前三位是荷兰JacquesJGHMBergman（16 篇）、日本 Tomohiro Tada（12 篇）、荷兰FonsVanDer Sommen（12篇）。作者之间合作关系密切与发文量不成正相关，如日本Tomohiro Tada发文量第二，但与其他作者合作强度值是9人中最低（ $\mathrm { T L S } { = } 7$ ）。荷兰作者内部合作明显密切于其他国家作者。
+
+# 2.3共被引分析
+
+表2CiteSpace可视化文献作者共被引top10分析（2000\~2022年）  
+Table 2 Analysis of the top 10 co-cited authors of CiteSpace visual literature (2oo0-2022)   
+
+<html><body><table><tr><td>共被引作者</td><td>地区</td><td>共被引次数</td><td>总被引次数</td><td>中介 中心值</td></tr><tr><td>Freddie IanBray</td><td>法国</td><td>89</td><td>304</td><td>0.00</td></tr><tr><td>Prateek Sharma</td><td>美国</td><td>87</td><td>1907</td><td>0.04</td></tr><tr><td>Yoshimasa Horie</td><td>日本</td><td>56</td><td>691</td><td>0.04</td></tr><tr><td>Jacques Ferlay</td><td>法国</td><td>53</td><td>748</td><td>0.01</td></tr><tr><td>JesperLagergren</td><td>瑞典</td><td>52</td><td>1591</td><td>0.15</td></tr><tr><td>Lambin Philippe</td><td>比利时</td><td>46</td><td>562</td><td>0.04</td></tr><tr><td>RebeccaL Siegel</td><td>美国</td><td>46</td><td>417</td><td>0.00</td></tr><tr><td>Hirasawa Toshiaki</td><td>日本</td><td>45</td><td>1025</td><td>0.06</td></tr><tr><td>Nicholas James Shaheen</td><td>美国</td><td>45</td><td>136</td><td>0.04</td></tr><tr><td>Thomas William Rice</td><td>美国</td><td>43</td><td>1107</td><td>0.12</td></tr></table></body></html>
+
+39,962 位共同被引作者、42,992 篇共被引文献(按引用次数计算)被纳入研究。CiteSpace,采用剪枝选择寻径网络法 $^ { + }$ 裁剪单切片网络 $+$ 裁剪合并，最终得到LRF=3.0， $\mathrm { L } / \mathrm { N } { = } 1 0$ ，LBY $\scriptstyle \mathbf { \bar { = } } 5$ $\mathrm { e } { = } 1 . 0$ ， $_ { \mathrm { N } = 9 5 5 }$ ， $\scriptstyle 1 = 1 9 0 8$ ，density=0.0042的共被引用文献网络。部分结果如表2所示，法国Freddie Ian Bray、美国 Prateek Sharmal 和日本 Yoshimasa Hories 作者共被引频次排名前三，分别87、56 和 53次。总被引次数前三名依次为美国Prateek Sharma Jesper、瑞典 JespeiLagergren 和美国 ThomasWilliam Rice。表3列出了共被引文献排名前10 的基本信息，其中《Gastrointestinal Endoscopy》和《Ca-ACancer Journal For Clinicians》杂志发表文章数量合计过半，总量上中国人发表文章占到4篇。聚类分析图谱中模块聚类值 $\scriptstyle { \mathrm { Q = 0 . 9 4 6 9 } }$ ，模块平均轮廓值 $\scriptstyle \mathbf { S } = 0 . 8 4 4 8$ ，表明其聚类效果佳（ $\mathrm { ( } Q { > } 0 . 3 \mathrm { ) }$ ，网络同质性好可信度高（ $\mathrm { . } \mathrm { s } { > } 0 . 7$ )。据此得出共被引文献主要涉及研究领域在放射组学、内窥镜检查、肿瘤分割、光学相干断层扫描等方面（详见图 3a)。中介中心性表示测度节点在整个共现网络中的重要性，其中瑞典 JesperLagergren 和美国 Thomas William Rice 中心性均 ${ > } 0 . 1$ ，表明在共被引文献网络中十分重要，其发表的文献是衔接不同聚类模块之间的核心。图3b时间演变用不同颜色表示，线条颜色代表聚类出现时间，“观察者偏差”模块在聚类最早出现（灰色)；线条上的节点出现时间表示该聚类块文献首次引用时间，表明“数字生物学标志物”模块聚类是这里面最晚出现（2016年)。圆圈颜色表示文献引用时间变化规律，可以发现“内窥镜”、“放射组学”、“深度学习"近两年热度甚高(红色)；圆圈大小则表示引用次数多少，“人工智能”“深度学习”“内窥镜”聚类圆圈大，表明这3个领域被引用频次极高，处于研究热点。
+
+![](images/b28642ecfd29124b4e19fe33f3a5cdd47b8a0f595749465de3d82711baf7cf17.jpg)
+
+C hinaXiv合作期刊
+
+# 图3CiteSpace共被引文献聚类分析图谱(a)前14位聚类团;(b)主要聚类团共被引文献出现时间演变规律
+
+# Figure 3 CiteSpace co-cited literature cluster analysis map
+
+(a) Top 14 clusters; (b) Time evolution of co-cited documents in main clusters
+
+# 2.4关键词
+
+关键词频率分析有助于阐明AI在食管癌目前研究重点方向。共计有3,861个关键词被纳入研究，结合图4可以看出，癌症、食管癌和腺癌关键词出现频率极高，超100次；其次鳞状细胞癌、诊断、生存、巴雷特食管、分类、深度学习、风险、预后、表达等关键词频率相对较高，超50次。根据年发文量增速变化趋势，分为2000\~2016年、2017～2022年两个阶段，对全球食管癌领域的AI应用的关键词演变过程进行分析。CiteSpace 具体分析方法同前。
+
+表3CiteSpace共被引文献 top10 分析（2000\~2022年）  
+Table 3 Analysis of top 10 co-cited articles via CiteSpace (2ooo-2022)   
+
+<html><body><table><tr><td>序号</td><td>文章标题</td><td>杂志</td><td>作者</td><td>出版 年份</td><td>共被引 次数</td></tr><tr><td>1</td><td>Global cancer statistics 2O18:Globocan estimates of incidence and mortality worldwide for 36 cancers in 185 countries</td><td>Ca-A Cancer Journal for Clinicians</td><td>Bray F; et al.</td><td>2018</td><td>87</td></tr><tr><td>2</td><td>Diagnostic outcomes of esophageal cancer by artificial intelligence using convolutional neural networks</td><td>Gastrointestinal Endoscopy</td><td>Horie Y; et al.</td><td>2019</td><td>56</td></tr><tr><td>3</td><td>Application of artificial intelligence using a convolutional neural network for detecting gastric cancer in endoscopic images</td><td>Gastric Cancer</td><td>Hirasawa T; et al.</td><td>2018</td><td>43</td></tr><tr><td>4</td><td>Real-time automated diagnosis of precancerous lesions and early esophageal squamous cell carcinoma using a deep learning model (with videos)</td><td>Gastrointestinal Endoscopy</td><td>Guo LJ; et al.</td><td>2019</td><td>37</td></tr><tr><td>5</td><td>Deep-Learning System Detects Neoplasia in Patients With Barrett's Esophagus With Higher Accuracy Than Endoscopists in a Multistep Training and Validation Study With</td><td>Gastroenterology</td><td>De Groof AJ; et al.</td><td>2020</td><td>32</td></tr><tr><td>6</td><td>Benchmarking Endoscopic detection and differentiation of esophageal lesions using a deep neural network</td><td>Gastrointestinal Endoscopy</td><td>Ohmori M; et al.</td><td>2020</td><td>32</td></tr><tr><td>7</td><td>Using a deep learning system in endoscopy for screening of early esophageal squamous cell carcinoma (with video)</td><td>Gastrointestinal Endoscopy</td><td>Cai SL; et al.</td><td>2019</td><td>31</td></tr></table></body></html>
+
+<html><body><table><tr><td>8</td><td>Computer-assisted diagnosis of early esophageal squamous cell carcinoma using narrow-band imaging magnifying endoscopy</td><td>Endoscopy</td><td>Zhao YY</td><td>2019</td><td>30</td></tr><tr><td>9</td><td>Integrated genomic characterization of oesophageal carcinoma</td><td>Nature</td><td>Kim J</td><td>2017</td><td>30</td></tr><tr><td>10</td><td>Cancer statistics in China,2015</td><td>Ca-A Cancer Journal for Clinicians</td><td>Chen WQ</td><td>2016</td><td>30</td></tr></table></body></html>
+
+![](images/fcb944cbedd0667bf7b341fe38458127359ed14eab105379bdbe8fd2eab550d6.jpg)  
+图4VOSviewer关键词共线图谱可视化（出现频率 $\geqslant 5 0$ ）
+
+Figure 4 Visualization of thecollinear map of keywords in VOSviewer(frequency of occurrence $\geq 5 0$ ）
+
+# 2.4.12000\~2016年
+
+得到LRF $\scriptstyle = 3 . 0$ ， $\mathrm { L } / \mathrm { N } { = } 1 0$ ，LBY $\scriptstyle \mathbf { \bar { = } } 5$ ， $\mathrm { e } { = } 1 . 0$ ， $N { = } 4 2 1$ ， $\scriptstyle { \mathrm { E } } = 9 0 1$ ，density=0.0102 的共被引用文献网络。此时期癌症、食管癌、巴雷特食管等关键词词频高但共线关系较差。风险成为除癌症类别关键词外出现的最高频次关键词(23次)，表明这一时期癌症相关风险因素的研究较多。关键词中心性 ${ > } 0 . 1$ 及其词频结果统计见表4。结直肠癌、癌症、上皮小细胞癌、小细胞癌、突变、上皮组织癌、巴雷特食管癌、食管癌、乳腺癌、p53基因等有较高的中介中心性。本时期研究主要内容以癌症诊断、鉴别、风险、表达相关，具体以结肠癌、胃肠道癌、小细胞癌、乳腺癌等癌症为中介关键词。
+
+# C hinaXiv合作期刊
+
+![](images/b0587dada130fad1287beab1a658710468003bf899143d501d55291e73dba506.jpg)  
+Figure 5 CiteSpace Visualization co-occurrence map of keywords in the field of
+
+# 图52000\~2016年WoSCC数据库中AI应用于食管癌领域关键词CiteSpace可视化共现图谱
+
+批注[tt5]:对应问题7，对图、表中作图软件具体名称进行补充。
+
+esophageal cancer using AIin the WoSCC database from 2ooo to 2016
+
+表42000\~2016年WoSCC数据库中AI应用于食管癌领域中心性${ \bf \tt P } _ { > { \bf 0 . 1 0 } }$ 关键词信息表（CiteSpace)  
+Table 4 Keyword centrality of AI applied to esophageal cancer in WoSCC database   
+from 2000 to 2016 (CiteSpace)   
+
+<html><body><table><tr><td>序号</td><td>中心性</td><td>频率</td><td>年份</td><td>■ 关键词</td></tr><tr><td>1</td><td>0.31</td><td>16</td><td>2000</td><td>结直肠癌</td></tr><tr><td>2</td><td>0.23</td><td>71</td><td>2000</td><td>癌症</td></tr><tr><td>3</td><td>0.23</td><td>41</td><td>2000</td><td>上皮小细胞癌</td></tr><tr><td>4</td><td>0.19</td><td>49</td><td>2000</td><td>小细胞癌</td></tr></table></body></html>
+
+C hinaXiv合作期刊
+
+<html><body><table><tr><td>5 0.19</td><td>6</td><td>2005</td><td>突变</td></tr><tr><td>6 0.18</td><td>47</td><td>2003</td><td>巴雷特食管癌</td></tr><tr><td>7 0.17</td><td>48</td><td>2000</td><td>食管癌</td></tr><tr><td>8 0.17</td><td>21</td><td>2001</td><td>乳腺癌</td></tr><tr><td>9 0.17</td><td>6</td><td>2001</td><td>p53基因</td></tr><tr><td>10 0.13</td><td>25</td><td>2001</td><td>上皮组织癌</td></tr><tr><td>11 0.12</td><td>10</td><td>2003</td><td>肿瘤</td></tr><tr><td>12 0.11</td><td>23</td><td>2007</td><td>风险</td></tr><tr><td>13 0.11</td><td>8</td><td>2015</td><td>食管腺癌</td></tr></table></body></html>
+
+# 2.4.2 2017\~2022年
+
+得到 $\mathrm { L R F } { = } 3 . 0$ ， $\mathrm { L } / \mathrm { N } { = } 1 0$ ， $\mathrm { L B Y } { = } 5$ ， $\mathrm { e } { = } 1 . 0$ ， $\scriptstyle 1 = 2 8 9$ ， $\scriptstyle { \mathrm { E } = 4 8 5 }$ ，density=0.0117的关键词共现网络。关键词数量有所增加且共线关系更为紧密。除食管癌、人工智能检索词出现频次高外，机器学习、深度学习、卷积神经网络词频出现骤增，特别深度学习出现频次达到65，是除检索词以外最高词频关键词，表明此时期对深度学习研究较多，AI在ESCA 领域的应用以深度学习为主。关键词中心性 ${ > } 0 . 1$ 及其词频结果统计见表5，反映出生物学标志物、基因、表达、发育不良、计算机辅助检测、准确度、氟-18 FDG 断层扫描等关键词强中心性。同时对比表4、结合图6可以看出，此时期主要研究内容从总体癌症研究（含食管癌）转为对食管癌主要标志物、鉴别、检查、诊断、放化疗研究，同时围绕人工智能中的机器学习、深度学习、卷积神经作为主要应用方法。
+
+![](images/f11d024ef6d9e12c2640e5195f3e116f51eb97e4bb02509d356ab35fcd8c7c51.jpg)  
+图62017\~2022年WoSCC数据库中AI应用于食管癌领域关键词CiteSpace可视化共现图谱
+
+Figure6 CiteSpace Visualized co-occurrence map of keywords in the WoSCC databaseforAI applications in the field of esophageal cancer from 2o17 to 2022表52017\~2022年WoSCC数据库中AI应用于食管癌领域中心性
+
+# ${ \bf \mu } > { \bf \mu } _ { 0 . 1 0 }$ 关键词信息表（CiteSpace）
+
+Table 5 The application of AI in the field of esophageal cancer in the WoSCC database from2017 to 2022 keywordCentrality ${ \bf \nabla } > { \bf 0 . 1 0 }$ keyword information table (CiteSpace)   
+
+<html><body><table><tr><td>序号</td><td>中心性</td><td>频率</td><td>年份</td><td>关键词</td><td>序号</td><td>中心性</td><td>频率</td><td>年份</td><td>关键词</td></tr><tr><td>1</td><td>0.24</td><td>11</td><td>2017</td><td>生物学标志物</td><td>14</td><td>0.14</td><td>20</td><td>2017</td><td>验证</td></tr><tr><td>2</td><td>0.22</td><td>18</td><td>2017</td><td>基因</td><td>15</td><td>0.13</td><td>36</td><td>2017</td><td>上皮组织癌</td></tr><tr><td>3</td><td>0.2</td><td>38</td><td>2017</td><td>表达</td><td>16</td><td>0.13</td><td>4</td><td>2020</td><td>计算机辅助诊断</td></tr><tr><td>4</td><td>0.19</td><td>19</td><td>2017</td><td>发育不良</td><td>17</td><td>0.13</td><td>26</td><td>2017</td><td>肺癌</td></tr><tr><td>5</td><td>0.18</td><td>15</td><td>2017</td><td>协助</td><td>18</td><td>0.13</td><td>13</td><td>2017</td><td>食管癌</td></tr><tr><td>6</td><td>0.18</td><td>6</td><td>2020</td><td>计算机辅助检 测</td><td>19</td><td>0.13</td><td>2</td><td>2020</td><td>完全病理反应(CPR)</td></tr><tr><td>M</td><td>0.17</td><td>8</td><td>2019</td><td>准确度</td><td>20</td><td>0.13</td><td>4</td><td>2018</td><td>术前放化疗</td></tr><tr><td>19900 8</td><td>0.17</td><td>10</td><td>2017</td><td>氟-18FDG 断层扫描</td><td>21</td><td>0.12</td><td>4</td><td>2020</td><td>食管上皮小细胞癌</td></tr><tr><td></td><td>0.17</td><td>4</td><td>2017</td><td>肿瘤抑制因子</td><td>22</td><td>0.11</td><td>5</td><td>2021</td><td>生物信息学分析</td></tr><tr><td>10</td><td>0.16</td><td>11</td><td>2017</td><td>数据</td><td>23</td><td>0.11</td><td>42</td><td>2017</td><td>CT检查</td></tr><tr><td>11</td><td>0.15</td><td>22</td><td>2017</td><td>结肠癌</td><td>24</td><td>0.11</td><td>4</td><td>2018</td><td>标志物</td></tr><tr><td>12</td><td>0.14</td><td>6</td><td>2017</td><td>FDG 断层扫描</td><td>25</td><td>0.11</td><td>41</td><td>2017</td><td>风险</td></tr><tr><td>13</td><td>0.14</td><td>11</td><td>2017</td><td>鉴别</td><td>26</td><td>0.11</td><td>2</td><td>2017</td><td>纹理特征</td></tr></table></body></html>
+
+# 2.4.3关键词突现
+
+关键突现表示在特定时间该关键词出现频次显著高于其他年份，代表该时间研究热点突现和研究前沿变化情况。突现检测参数设置最小持续时间为1，其余设置默认。最终检测到近22年世界食管癌人工智能领域共有突现词33个，所有关键词第一次出现时间均在2000 年，图6给出了其中top25突现关键词具体信息（按照首次出现研究前沿时间排序)。最早期（2001-2008）以p53、突变为主的食管癌基因相关研究为主；逐步出现了对食管癌风险因素的研究（2007-2013)；中期（2013-2018）主要以食管癌分类、检查（断层扫描)新技术以及食管癌和不同癌种之间区分、鉴别和比较为研究重心；期间穿插食管癌治疗方法更新研究（放化疗，2017-2019)；再到近期可以很明确的看出自2018年开始首次高频出现关键词一一数据库，表明该领域首次有大量文章开始对食管癌相关数据库信息进行探索，并且研究方法在不管更新深入一一如深度学习、卷积神经网络、机器学习（2019-2022)，尤其是深度学习一词突现强度更是排在了33个突现关键词首位（13.89)，说明在食管癌人工智能领域的深度学习是现阶段研究最强热点、最新前沿。纵观本次研究还发现，原本计算机辅助食管癌检查已经跃升为计算机辅助食管癌诊断，标志着食管癌人工智能研究领域已经迈入新阶段（2020-2022）。
+
+ChinaXiv合作期刊
+
+research papers in the esophageal cancer domain in the WoSCC database from 2000 to
+
+2022 (CiteSpace)  
+关键词 突现强度 首现年份 末次年份 突现持续时间 (2000-2022)  
+p53 3.83 2001 2005  
+突变 3.72 2005 2008  
+模式 4.15 2007 2016  
+风险 3.73 2007 2013  
+高度发育不良 5.33 2008 2016  
+监视 4.39 2009 2014  
+黏膜形态 3.81 2009 2016  
+肿瘤 3.63 2011 2017  
+正电子断层扫描 5.74 2013 2018  
+FDG断层扫描 5.16 2015 2018  
+食管腺癌 4.74 2015 2020  
+肿瘤异质性 44 2015 2019  
+结肠癌 3.9 2015 2017  
+前列腺癌 4.54 2016 2018  
+乳腺癌 3.63 2016 2017  
+放化疗 5.3 2017 2019  
+数据库 4.16 2018 2019  
+模型 4.06 2018 2020  
+异质性 3.64 2018 2019  
+选择 4.08 2019 2020  
+深度学习 13.89 2020 2022  
+人工智能 12.84 2020 2022  
+卷积神经网络 7.07 2020 2022  
+机器学习 5.99 2020 2022  
+电脑辅助诊断 4.16 2020 2022
+
+# 3讨论
+
+随着大数据分析时代的到来，研究人员需要充分了解其研究领域的发展，与系统综述或荟萃分析不同，文献计量分析使用VOSviewer和CiteSpace 等可视化软件对特定时间段所有文献进行综合分析，直观了解研究发展趋势，以预测未来研究热点[。本研究首次通过文献计量分析总结了人工智能在食管癌中的应用现状，直观地揭示了AI在ESCA的发展趋势和未来研究热点。
+
+就发文量而言，在过去一段时间人工智能在各个领域得到了迅速发展[7]。16年起，人工智能在 ESCA中的应用也呈指数爆发增长[8]。特别是在过去的10 年里，发表的论文数量占到 $80 \%$ 以上。可以预见，未来将有更多的国家和研究人员参与食管癌的人工智能研究。生产力最强的中国发表了306 篇论文，作为该领域新兴国家发文数量已达最多，同时在共被引文献分析top10中，中国人发表该领域重要文献4篇，但与其他国家合作强度上却较弱，美国、荷兰之间则合作更为紧密，在机构、作者的合作图谱分析中也得以印证。此外，引文量可以反映文章或期刊的传播程度和影响力，从而表明其质量和学术地位9]。在共被引作者分析中，来自美国的多位作者在共被引次数和总引用次数中都位列前三。表明在该领域美国仍为主导地位。中国在本领域科研影响力还远远不够，主要原因（1）可能是中国食管癌的人工智能研究起步较晚，研究没有铺开，彼此之间合作太少未形成研究体系，在世界范围学术影响力较低；（2）人工智能的核心算法缺乏创新，与国际先进研究人员合作较少；（3）还可能与现阶段国内普遍存在的科研平均质量不高有关，而诚信则是科研质量和影响力最基础的保障，2018 年国务院办公厅印发《关于进一步加强科研诚信建设的若干意见》有助于规范、监督国内科研诚信，逐步改变国际学科主导中国高发文低引用现况[10]。在AI应用于食管癌领域共被引文献研究中以《Gastrointestinal Endoscopy》杂志（ $\scriptstyle { \mathrm { I F } = 9 . 4 3 }$ ）和《Ca-ACancer JournalFor Clinicians》杂志（ $\mathrm { I F } { = } 5 0 8 . 7$ ）最为重要，两本均为Q1杂志，研究领域与胃肠病、肿瘤学密切相关。其中《GastrointestinalEndoscopy》的总引文数量远远超过其他期刊，表明该杂志在该领域的重要影响。可以预见，未来将有更多关于人工智能在食管癌中应用的文章优先发表在上述期刊上。此外，《Gastroenterology》、《Gastric Cancer》、《Endoscopy》也是高收益期刊，它们也有可能在未来发表更多高质量的文章，以提高学术地位和影响因素。共被引分析除了通常用于评估文章或作者的相关性，它还可以作为评价作者个人学术影响力的指标[[2]+2],如中国人共被引次数最高的文章中Guo LJ等人[13],该文主要以深度学习模型证明了内窥镜图像和视频数据集的高灵敏度和特异性，同时论证了实时计算机辅助诊断系统（Computer-assisted Diagnosis，CAD）系统可以帮助内窥镜医生诊断癌前病变和食管腺癌。
+
+从共被引参考文献聚类结果来看研究前沿变化，最早的研究集中在“肿瘤分割”（#6)[14]，目前的研究热点是"深度学习”（#2）[15]和"内窥镜”（#9）[16]、胃肠内窥镜（#5）[17]，表明早期食管癌的研究主要侧重于食管肿瘤类别的划分、分割，然后转向使用深度学习等其他技术来实现诊断准确性、快速诊断和早期诊断。从关键词频率的研究可以反映整体研究热点发展变化，整体关键词分为三类大，分别为癌症、腺癌和食管癌，提示早期研究主要是作为总癌种分析的部分内容（食管癌种类的区分、识别)，具体研究内容包括了风险、诊断、预后展开。但该时期受限于所用的分析技术，数据分析仍处于小范围、浅显分析。关键词两个阶段分析提示：（1）在 2000\~2016年领域发展早期（迟缓期)，风险识别、p53等食管癌基因研究为当时研究前沿，这与当时其他癌症如前列腺癌领域AI研究大为不同，后者此时主要以癌筛查方法、手术治疗方法为主要内容[18]；（2）在 2017\~2022年爆发增长期，人工智能在食管癌主要应用领域得以显现，计算机辅助诊断、计算机辅助治疗成为主要应用方向，深度学习更是作为最高词频人工智能具体方法名称出现，如在早期检查、准确区分癌前病变和肿瘤病变，确定手术治疗期间浸润性肿瘤边缘，监测疾病进展和获得性耐药，以及预测肿瘤
+
+C hinaXiv合作期刊
+
+侵袭性、转移模式和复发风险，医学成像技术和生物标志物为解食管癌症检测、治疗和监测提供了技术支持。这表明在这一阶段更深技术层面的AI开始发挥作用。
+
+整体而言，食管癌领域AI的应用表现出滞后性。在延迟了至少10年后，才开始与其他癌症一样开展全面AI应用于ESCA的探索，出现这一现象的原因可能与AI在癌症领域应用转化处于初级阶段、推广应用效果受限有关[19]。对比在食管癌与其他癌种领域，未来有关食管癌预后生存及风险因素的模型探究势必将成为热点。从2000\~2022年的关键词突现分析结果可以验证以上分析。特别的，在2018年首次突现了数据库一词，显然随着大数据的出现，对大量数据的处理和应用已经成为一种重要的研究方法。通过大数据，我们可以应用人工智能对食管癌进行全面的分析和深入的研究。但同时数据获取需要大量的人力和财力，使得数据收集非常困难和宝贵，这可能也是大多数研究缺乏合作的原因之一。最后，在研究局限性上，此次仅纳入英语文献，这可能导致其他语言的优秀文献缺失（如我国2020年曾提倡将“论文写在祖国大地上”[20])，存在一定的文献选择偏倚。在未来的研究中，考虑合并知网、万方、Pubmed、Scopus 和Google Scholar 等数据库所有文献，并进行比较以获得更全面的结果。
+
+# 4展望
+
+批注[tt6]:依据问题3、4，补充了文章研究不足之处。倡导“把文章写在祖国大地上”的文件补充为文献进行引用。
+
+人工智能具有无可争辩的潜力，在实验室环境中，它已显示出足够好的性能、足够高的精度，可以增强对癌症患者的护理，并更广泛地影响癌症领域。随着人工智能的进一步发展，食管癌整体朝着精准检查、诊断和治疗的方向发展。未来AI应用于食管癌的挑战可能主要存在于食管癌个体化数据收集（等除指标以外信息，如基因信息）、数据质量（如数据差异之种族差异）、数据处理规范（电子健康记录结构不一致）、AI代码复现（还不能做到共享代码并重现、推广已有结果）辅助诊断可信度决策（结果经受实践检验才能真正可信）上。
+
+# 5作者贡献
+
+（1）涂嘉欣、吴磊 提出想法；总体研究目标的制定，研究方法的开发或设计；研究模型构建；已发表作品的准备、创作和/或展示，特别是可视化/数据展示；。  
+（2）叶惠清、林雪婷 收集、清洗和保留研究数据（包括软件代码）以供研究使用和重复研究。  
+（3）张小强、吴磊 研究课题提供资金支持；对研究活动规划和执行的监督和领导，包括核  
+心团队的指导。  
+（4）杨善岚、邓莉芳研究项目规划及执行的管理和协调。
+
+# 参考文献:
+
+ChinaXiv合作期刊
+
+[1]Sung H,Ferlay J, Siegel RL,et al. Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries.CA Cancer J Clin. 2021.71(3):209-249.   
+[2]Shin HC, Roth HR,Gao M, et al. Deep Convolutional Neural Networks for Computer-Aided Detection: CNN Architectures,Dataset Characteristics and Transfer Learning. IEEE Trans Med Imaging2016.35(5):1285-98.   
+[3] Zhang X, Zou J，He K,et al.Accelerating Very Deep Convolutional Networksfor Classification and Detection.IEEE Trans Pattern Anal Mach Intell 2016.38(10):1943-55.   
+[4]Horie,Y.; Yoshio,T.; Aoyama,K.; et al. Diagnostic outcomes of esophageal cancer by artificial intelligence using convolutional neural networks. Gastrointest. Endosc.2o19.89:25-32.   
+[5] Tokai,Y.；Yoshio,T.；Aoyama,K.；et al.Application of artificial intelligence using convolutional neural networks in determining the invasion depth of esophageal squamous cell carcinoma. Esophagus 2020.17:250-256。   
+[6]Chen C, Hu Z,Liu S,et al. Emerging trends in regenerative medicine: a scientometric analysis in CiteSpace.Expert Opin Biol Ther.2012.12(5):593-608.   
+[7]Kann BH, Hosny A,Aerts HJWL. Artificial intelligence for clinical oncology. Cancer Cell. 2021.39(7):916-927.   
+[8] Goyal H, Sherazi SAA,Mann R,et al. Scope of Artificial Intelligence in Gastrointestinal Oncology. Cancers (Basel).2021.13(21):5494.   
+[9]Xu Z,Liu R,Guo L,etal.The 1OO most-cited articles on bibliotherapy: a bibliometric analysis. Psychol Health Med.2022.26:1-17.   
+[10]中共中央办公厅、国务院办公厅印发.关于进一步加强科研诚信建设的若干意见 [EB/CD].http://www.gov.cn/zhengce/2018-05/30/content_5294886.htm.2018-5-30/2022-4- 29. Issued by the General Ofice of the Central Committe of the Communist Party of China and the General Office of the State Council. Several Opinions on Further Strengthening the Construction of Scientific Research Integrity [EB/CD]. htp://www.gov.cn/zhengce/2018- 05/30/content_5294886.htm.2018-5-30/2022-4-29.   
+[11] Niu Y,Guo C,Wen S,et al.ADT With Antiandrogens in Prostate Cancer Induces Adverse Effect of Increasing Resistance,Neuroendocrine Differentiation and Tumor Metastasis.Cancer
+
+ChinaXiv合作期刊
+
+Lett.2018.439:47-55.
+
+[12] Xu L, Yin Y,LiY,et al.A Glutaminase Isoform Switch Drives Therapeutic Resistance and Disease Progresson ofProstate Cancer Proc Natl Acad Sci USA.2021.118(13): e2012748118.   
+[13] Guo LJ,Xiao X,Wu C C,et al.Real-time automated diagnosis of precancerous lesions and early esophageal squamous cell carcinoma using a deep learning model (with videos)[J]. Gastrointestinal Endoscopy. 2020.91(1):41-51.   
+[14] Endo T,Awakawa T, Takahashi H,et al. Classification of Barret's epithelium by magnifying endoscopy. Gastrointest Endosc.2002.55(6):641-7.   
+[15] Gehrung M,Crispin-Ortuzar M,Berman AG,et al. Triage-driven diagnosis of Barrett's esophagus for early detection of esophageal adenocarcinoma using deep learning.Nat Med. 2021.27(5):833-841.   
+[16] Fan X,Wu Q,Li R,et al.Clinical benefit of tunnel endoscopic submucosal dissection for esophageal squamous cancer: a multicenter,randomized controlled trial[J]. Gastrointestinal Endoscopy.2022.21: S0016-5107(22)00286-3.   
+[17] Kim J,Gong EJ,Seo M,et al.Timing of endoscopy in patients with upper gastrointestinal bleeding. Sci Rep.2022.27;12(1):6833.   
+[18] Shen Z,Wu H,Chen Z,etal.The Global Research of Artificial Intelligence on Prostate Cancer: A 22-Year Bibliometric Analysis.Front Oncol.2022.1;12:843735.   
+[19] Nagendran M, Chen Y,Lovejoy CA,et al.Artificial intelligence versus clinicians: systematic review of design,reporting standards,and claims of deep learning studies.BMJ.2020. 25;368:m689.
+
+[20]中国科技办公厅.科技部办公厅关于加强新型冠状病毒肺炎科技攻关项目管理有关事项的通知[J].现代养生,2020.20(Z1):6.
+
+# 批注[tt7]：补充作为文献。

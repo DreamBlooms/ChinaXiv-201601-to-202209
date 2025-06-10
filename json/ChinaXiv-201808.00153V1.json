@@ -1,0 +1,451 @@
+[
+    {
+        "type": "text",
+        "text": "BIM技术在永定河特大桥项目中的参数化应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李健刚¹杨冰¹许志宏¹李永生² 韦立²李易（1.北京市市政工程设计研究总院有限公司，北京100082；2．北京市公联公路联络线有限责任公司，北京100161；3.北京工业大学，北京100124）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：永定河特大桥空间扭曲钢塔是大桥设计中的一个重大难点问题之一。通过引入 BIM技术三维参数化设计平台，利用其参数化曲面设计功能成功解决了大桥空间扭曲钢塔的设计难题，同时利用“骨架 $^ +$ 模板”建模方法有效解决了大桥复杂钢结构的协同设计难题。BIM技术的引入，不仅为大桥设计的顺利完成奠定了坚实的基础，同时也为大桥项目的实施及运维管养提供了精确的数据模型。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：空间扭曲钢塔；BIM技术；参数化设计平台；骨架 $^ +$ 模板；协同设计[中图分类号]TU17 [文献标识码]A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BIM（BuildingInformationModeling建筑信息模型）技术源于美国乔治亚技术学院建筑与计算机专业的Chuck Eastman 博士提出的一个概念：建筑信息模型包含了不同专业的所有信息、功能要求和性能，把一个工程项目的所有信息包括在设计过程、施工过程、运营管理过程的信息全部整合到一个建筑模型1]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "长安街西延永定河特大桥塔柱壁板的空间扭曲面是大桥的一个重大设计难点之一，传统的二维平面设计手段已经无法完成大桥的设计任务。同时大桥还存在诸如局部节点构造复杂、需要局部分析的细节构造多等诸多问题，这些都是传统技术手段所面临的一系列技术难题。通过引入BIM技术，不但有效地解决了这些技术难题，同时还能为项目后期实施及运维管养提供精细的数据模型，能极大地提升项目的建设品质，降低项目的实施风险。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1项目概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "长安街西延永定河特大桥（图1，单位：m）斜跨永定河莲石湖区，斜交角度约 $5 7 ^ { \\circ }$ ’大桥主桥采用斜拉刚构组合体系桥，主跨 $2 8 0 \\mathrm { m }$ ，主梁变宽变高，桥梁标准段宽度为 $4 7 \\mathrm { m }$ 最宽位置约 $5 4 . 9 \\mathrm { m }$ 。由于大桥与河道斜交，为满足行洪要求，主塔塔肢根部在顺桥向有 $2 5 \\mathrm { m }$ “迈步”，使主塔变为倾斜不对称扭转变截面钢箱拱形塔柱。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/b20f2a974d5754f56bf55d23c1c5b5921c7a4bcc168e24a5fb4c0aa0885088ab.jpg",
+        "img_caption": [
+            "图1永定河特大桥方案模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BIM 技术的引入，很好地解决了钢塔扭曲面的设计与优化难题[2]，利用三维协同设计极大地降低了复杂节点的设计难度，提高了设计品质，为后期项目的实施及BIM技术的延续",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "应用奠定了良好的基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用 BIM技术参数化设计能力，很好地适应了本桥复杂钢结构的设计。永定河特大桥项目BIM技术参数化设计简要应用流程图如图2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b09c456a0ee9a133fd74646e36426cd2d4e0db594b0c6bd0bed348086523536.jpg",
+        "img_caption": [
+            "图2BIM技术参数化设计流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2BIM技术在永定河特大桥项目中的参数化应用",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1前期方案设计",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在前期设计阶段，建筑师采用Rhino（犀牛）软件进行桥梁景观设计，利用三维方案模型进行场地环境分析、光学分析、夜景照明分析等优化桥梁景观方案，提升大桥景观的整体视觉效果（图3）。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0f8f00e404c250810681b1889efe692fed057e98fd514c35eb5867274a13677.jpg",
+        "img_caption": [
+            "图3方案模型效果图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2协同参数化设计",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于永定河特大桥塔柱壁板的空间扭曲造型，传统的二维设计手段已经无法完成大桥主塔的设计工作。通过比选后选择了曲面设计功能强大的CATIA三维设计平台来完成大桥的设计工作。CATIA三维设计平台不仅曲面功能强大，同时其参数化协同设计、大数据装配、知识工程以及有限元分析等功能也都非常强大[3]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1）协同设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "协同设计主要包括内部协同和外部协同两大块。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "内部协同主要包括同一时期同一专业的协同设计、同一时期不同专业间的协同设计以及设计阶段不同时期的协同设计等几个方面。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "永定河特大桥项目内部协同设计仅为道路与桥梁专业之间的协同，相对简单，道路专业仅为大桥项目提供三维道路中心线及三维地形等条件。难点主要集中在桥梁专业内部的复杂钢结构构造细节协同设计上，利用CATIA三维设计平台的“骨架 $+$ 模板”建模技术，很好地解决了大桥的这种协同设计难题[4。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "永定河特大桥全桥骨架如图4所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/36b00a83cd16da668e1ebcee5be9e4f673a69e0494d91b4738620c0f3da8e89b.jpg",
+        "img_caption": [
+            "图4 全桥\"骨架\""
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用大桥骨架线可以对整体桥梁设计进行宏观控制，驱动依附之上的桥梁构件自适应调整，达到快速修改调整的目的。定义好桥梁骨架线之后还需要对整体结构进行分区或分功能性的拆分，达到化整为零细化设计的目的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据本桥的特点，本项目的部件主要拆分为如下几个部分，如图5所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "YDHBridge 010101010101 GTmode（高塔） ZHULIANG (主梁) TLjiehe (塔梁结合) JICHU (下部基础) FUSU (附属) Segment_Division (节段划分) Applications ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "经过上述部件的拆分，将整个桥梁分解为协同设计的几个主要部分，再将各个主要部件进一步进行细分，逐步落实到每一个零件上再进行设计。拆分前的部件通过装配先进行条件关联，则拆解后的零件之间就可以独立进行设计，达到协同设计的目的。当然也可以先分别进行部件设计，再后期进行装配。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "矮塔结构部件进一步细分情况如图6所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "AT (矮塔） AT-biban（矮塔壁板） AT-gj（矮塔骨架） AT-biban-zuo（矮塔左柱壁板） 主梁骨架线[ZL-gj.CATPart abiban-zz（左柱翼缘板及腹板） AT-fgm（节段分割面） afuban-zz（左柱钢锚箱腹板） AT-biban（矮塔壁板） ajqfuban-zz（左柱塔底加强腹板） AT-hgb（矮塔横隔板） ajqbh-zz（左柱塔底横向加强板） AT-mq（矮塔锚区） AT-zhsc（矮塔装饰槽） 矮塔左柱门洞[amendong-z.CATPart] Parameters AT-biban-you（矮塔右柱壁板） ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/64e56073566fa88f62161b4db9956ac4f9bc12bf23b68c253ea1c236f78313f2.jpg",
+        "img_caption": [
+            "图5全桥主要部件",
+            "图6矮塔主要部件"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "大桥除了内部协同设计以外，还有大量的外部协同设计工作，主要包括景观照明、检修设备、除湿系统以及其它附属设施等。除湿系统局部三维协同设计成果如图7所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图7除湿系统局部",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过协同设计可以很好地解决结构上可能出现的“错、漏、碰、缺”等问题，提升了整体设计水平，降低了实施风险。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2）钢塔空间扭曲板设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本桥设计的最大一个难点在于钢塔空间扭曲壁板的设计，一方面需要根据建筑师的创意生成相应形态的空间扭曲面，同时又需要考虑后期的加工及制造等问题，使后期的设计构件能够加工制造，满足设计要求。所以如何将后期的加工制造需求很好地融合到前期设计之中是本桥设计需要解决的一个重大难点问题。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在CATIA设计平台中，参数化曲面形成有多种方式：扫略、填充、桥接、拉伸、旋转等。对于本项目而言，通过对比各种曲面成型方式，最后确定选取直纹扫略面作为本项目曲面的形成方式，其主要优点如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "一是对于不规则空间曲线，直纹扫略形成曲面时能够使形成后的曲面的高斯曲率较优，便于后期加工时曲面展开，同时也便于节段块件的成型控制。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "二是直纹扫略面的控制条件除了两条引导曲线（Guide curve）外，还有一条脊线（Spine）作为控制条件。对于一般的直纹扫略面而言，引导曲面间的扫略直线与脊线始终保持垂直关系，利用这个特点就可以在节段划分时，使垂直于脊线的节段端口四边始终保持直线，便于后期节段吊装时的精度控制。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本桥桥塔造型为倾斜的椭圆形拱圈，塔肢由底部的矩形变化到顶部的平行四边形（锐角为 $6 6 ^ { \\circ }$ )，使桥塔壁板形成空间扭曲形态。在设计过程中，塔柱壁板由塔柱辅助轴线及壁板边线通过直纹扫略形成（图8)。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/efa4145dfbead7302c70935aed8191ccacacb20df90ae2176dafa748078485bc.jpg",
+        "img_caption": [
+            "图8塔肢翼缘板控制线示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3）参数化设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参数化设计是 BIM 技术三维设计软件的一项基本功能。参数化设计能够通过参数的改变很方便的实现自适应调整，不用重新设计，提高了设计修改效率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "永定河特大桥在设计过程中对一些使用频率高，比较特殊的参数进行统一设置，如板厚、加劲肋高度、孔的尺寸等。大桥的参数设置时，按主要部件进行分类，设置了相关控制性参数，如高塔部件参数（图9）有翼缘板参数、腹板参数、塔底加强板参数、锚区参数、横隔板参数等，方便了后期的调整修改。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Parameters参常规壁板加劲肋间距=0.6000m参 门洞位置翼缘板加劲肋间距=0.7000m會 加劲肋高差衔接过渡坡比=10  \n會 装饰槽深度h=0.1500m  \n自 壁板变厚坡比=8會 壁板加劲肋高宽比=10辅助切割面偏移量=0.2000m  \n- 高塔翼缘板参数自高塔翼缘板厚-顶部=0.0300m高塔翼缘板厚-中部=0.0400m自高塔翼缘板厚-中上部=0.0400m参高塔翼缘板厚-底部=0.0500m自高塔翼缘板加劲肋厚-底部=0.0300m自高塔翼缘板加劲肋厚-中部=0.0250m自高塔翼缘板加劲肋厚-中上部=0.0250m自高塔翼缘板加劲肋厚-顶部=0.0220m+翼缘板加劲肋通过孔参数  \n晶高塔腹板参数钢锚箱腹板参数塔底腹板参数",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "BIM 技术三维设计平台一般都采用资源库的方式管理重用资源[5。CATIA 平台的参数化资源库是通过库管理文件（.Catalog）来实现模板库的管理，用来管理标准资源，实例化时可以采用超级副本、UDF特征及文档模板等。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/301472187871437c1c6f39dd2695a1aaaa57a54367c771e405a71b2280c1987f.jpg",
+        "img_caption": [
+            "图9高塔参数"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "永定河特大桥设计过程中建立了一些通用性较强的模板资源，如拉索锚区模板、壁板加劲肋模板、横隔板模板、塔内爬梯模板、塔内维护结构模板、塔柱密封门模板、高塔底部锚固螺栓等。并将这些模板资源通过模板库进行统一管理，提高了建模效率。图10为高塔塔底锚固螺栓的UDF特征模板实例化。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CATIA 中还会使用一种文档模板，它与一般模板不一样，如POWERCOPY或UDF都是针对特征而言的，而文档模板却是针对文档部件而言的（图11)，它是以零件为基本单位进行实例化。文档模板在实例化部件的同时还可以附着二维图文档，也就是三维模型与预定义的二维图同步进行实例化，在一些比较规则的结构中，可以大大简化二维图生成的工作量。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/98828da87098339691ca19d31cb3e477b7f4943f7570aec05d2be478cb2c0b1b.jpg",
+        "img_caption": [
+            "图10锚固螺栓UDF实例化",
+            "图11文档模板的创建"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4）参数化仿真分析",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "永定河特大桥由于塔柱截面的扭曲变化，桥梁整体计算时的截面建模工作量非常大。借助 BIM三维模型的优势，能够有效地提升分析时的截面生成效率。大桥除了复杂的整体计算分析外，还有大量的局部结构计算分析。对于钢结构而言，局部计算一般都是以壳单元或实体单元模型进行分析。BIM三维模型正好为局部计算分析提供了精确的几何模型，提升了局部计算模型的建模效率与分析精度[] [7]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本桥由于塔柱为空间扭曲拱形结构，拉索锚区与塔柱锚腹板间关系非常复杂，与常规斜拉桥锚区差异比较大。为了进一步研究塔柱拉索锚区的受力特征，利用CATIA平台自身的通用计算分析平台关联对应三维模型创建塔柱锚区的局部实体有限元分析网格模型（图12)。利用 BIM平台下关联协同的有限元模型，能自动更新已创建的有限元网格模型及边界条件，可以很方便地进行相关参数敏感性分析，提升局部模型的计算分析效率。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "营 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图13为塔柱斜拉索锚区腹板厚度及其腹板加劲肋厚度的敏感性分析结果图。在给定斜拉索索力的前提下，通过参数化构件模型能够很方便地进行敏感性因素分析，可以很直观确定相关参数的影响效果，从而指导塔柱拉索锚区进行构造优化设计。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/961e16fad9ff47009638ef6edf007f9e99d369ac671f417407bad71c9ba69d46.jpg",
+        "img_caption": [
+            "图12锚区局部有限元模型",
+            "图13腹板及加劲肋刚度影响图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "除了上述协同参数化设计外，大桥还利用CATIA设计平台进行了碰撞检查、二维图纸的绘制（特别是曲板的二维图纸表达）等大量工作，充分利用了BIM技术的设计优点。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3施工阶段的模型利用概况",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "当前施工企业的IT应用环境大多是围绕二维工程图纸建立的，主要支持基于二维图纸的信息表达和工程应用。由于二维工程图下的信息之间是离散且非关联的，这就需要施工企业通过手工方式来建立图纸与相关信息之间的关联。这种应用环境下，信息的组织和管理是一种结构化程度不高的管理模式[8]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "永定河特大桥项目利用BIM技术设计平台的参数化设计模型，为项目施工期间提供了精细的数据模型，既方便了施工单位进一步深化设计，也方便了施工单位利用BIM模型进行4D进度管理、有效地优化加工制造工艺及施工组织方案（图14)，进而有利于缩短工期、提升加工质量、降低施工成本。同时施工单位也可以利用深化设计后的施工 BIM 模型进行信息化的物料管理、质量安全管理、进度成本管理等，能有效地提升施工期间的管理水平，",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "增强施工方案的可实施性。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/d59016edbc1555f03514869756dda73e2036ef9c8cfb740c0af9a4e6d59bd2ca.jpg",
+        "img_caption": [
+            "图14高塔节段现场吊装模拟"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图15为实际施工中高塔北肢底部1#节段现场安装就位，与事先模拟方案吻合较好。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e4b81c38765fd33dc1ed41a5d8aec2e6535fc5709ecf8575b6f99663897b82a.jpg",
+        "img_caption": [
+            "图15高塔北肢1#节段安装"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结束语",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由于永定河特大桥项目塔柱造型的独特性与特殊性，使项目在前期开始就直接采用先进的 BIM 设计平台来解决项目的设计难题。BIM技术下的三维参数化设计平台，既解决了扭曲钢塔的曲面设计难题，同时也解决大桥复杂钢结构的协同设计难题，保障了项目设计的顺利完成，也为项目后期准备了精细的数据模型，为 BIM 技术在项目中的深入应用打下了良好基础。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "永定河特大桥项目作为国内市政工程领域较早直接采用 BIM 技术进行正向设计的实际工程，在前期方案、设计及施工等各个阶段都取得了比较好的效果。目前项目已经进入到上部钢结构紧锣密鼓的加工及吊装阶段，一切工序都在有条不紊地开展，2017年11月1日大桥高塔北肢塔底1#节段的安装就位工作顺利完成。作为建设方的北京市公联公路联络线有限责任公司也在积极联系大桥建成后的管养单位进行后期运维管养的调研准备工作，争取能够继承项目前期的技术优势，将BIM技术延续到运维管养阶段，让永定河特大桥项目能够真正实现基于 BIM技术下的项目全生命周期管理的新理念，为 BIM技术在市政工程领域的推广积累宝贵的经验。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] BIM 工程技术人员专业技能培训用书编委会.BIM 技术概论[M]．北京：中国建筑工业出版社，2017  \n[2] 李健刚，张涛，杨冰，李易，王磊．基于CATIA 的钢塔曲板设计优化及二维表达[J]，特种结构，2017(5):100-103  \n[2] Li Jiangang, Zhang Tao, Yang Bing, Li Yi,Wang Lei. Optimal Design and 2D Expression of SteelTower Twisted Plate Based on CATIA [J]， Special Structures， 2017(5): 100-103[3] BIM工程技术人员专业技能培训用书编委会.BIM应用案例分析[M]．北京：中国建筑工业出版社，2017  \n[4]李健刚，张涛，李易，吴巍，宁晓旭．“骨架 $^ +$ 模板”技术在工程设计中的应用—一以异形钢塔斜拉桥为例 [J]，特种结构，2017(6):88-92  \n[4] Li Jiangang, Zhang Tao,Li Yi，Wu Wei， Ning Xiaoxu. Engineering Application of “Skeleton $^ +$ Template\"Technology Based on Irregular Shaped Steel Pylon Cable Bridge [J]，Special Structures,2017(6): 88-92  \n[5] 清华大学 BIM 课题组，互联立方（isBIM）公司 BIM 课题组．设计企业 BIM 实施标准指南[M]．北京：中国建筑工业出版社，2013  \n[6] 李健刚，杨冰，王磊．异型钢塔斜拉桥塔肢横隔板开孔优化分析 [J]，特种结构，2016(5):18-22  \n[6] Li Jiangang, Yang Bing,Wang Lei. Optimizing Analysis on the Diaphragm Plate Opening HoleShape for the Deformed Steel Tower of Cable-stayed Bridge [J]， Special Structures，2O16(5):18-22[7] 李健刚，宁晓旭，王磊．异型钢塔斜拉桥塔肢横隔板开孔率影响分析 [J]，特种结构，2016(6): 61-65  \n[7] Li Jiangang, Ning Xiaoxu,Wang Lei. Influence Analysis on the Diaphragm Plate Opening Ratiofor the Deformed Steel Tower of Cable-stayed Bridge [J]， Special Structures，2O16 (6): 61-65[8] 李云贵，何关培，邱奎宁．建筑工程施工BIM应用指南（第二版）[M].北京：中国建筑工业出版社，2017",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The parametric application of BIM technology in ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Yongding River Bridge ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Li Jiangang1 Yang Bing1 Xu Zhihong1 Li Yongsheng² Wei Li² Li Yi3   \n(1. Beijing General Municipal Engineering Design & Research Institute Co.,Ltd.10o082, China; 2.   \nBeijing City Public Highway Connecting Line Limited Liability Company. 100161,China; 3.Beijing University Of Technology 100124, China） ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The space twisted steel tower is one of the difficult problems in Yongding River bridge design. By the BIM technology parametric design platform, the difficult design problem of the bridge space twisted steel tower is successfully solved by using it's function of parametric surface design， the difficult problem of Collaborative design is also successfully solved by using the “skeleton $^ +$ template\" modeling method at the same time. The introduction of BIM technology has not only laid the foundation for completion of design, but also provided accurate data model for the implementation and operation and maintenance of the project. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key Words: Space Twisted steel tower， BIM technology, Parametric design platform, Skeleton $^ +$ Template, Collaborative design ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "第一作者：  \n姓名：李健刚  \n单位：北京市市政工程设计研究总院有限公司  \n出生年月：1979.11  \n性别：男  \n籍贯：湖南省汉寿县  \n职称：高级工程师  \n职位：无  \n学位：硕士研究生  \n主要研究方向：桥梁与隧道设计、BIM技术三维设计应用  \n通讯地址：北京市海淀区西直门北大街32号院3号楼  \n邮编：100082  \n联系电话：13522263868  \nE-mail: lijiangang_1@sohu.com",
+        "page_idx": 8
+    }
+]

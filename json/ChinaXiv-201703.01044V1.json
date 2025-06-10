@@ -1,0 +1,393 @@
+[
+    {
+        "type": "text",
+        "text": "Heat Capacity and Thermal Expansion of Water and Helium ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "N. M. Putintsev1,D. N. Putintsev ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.DepartmentofChemistry,Murmansk State Technical University,St.Sport13,183010,Murmansk,Russia 2. Institute for Systems Analysis,Federal Research Center “Computer Science and Control>of the Russian Academy of Sciences,Pr.60-Letiya Oktyabrya,9, 117312, Moscow, Russia ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\copyright$ Science Press and Institute of Engineering Thermophysics, CAS and Springer-Verlag Berlin Heidelberg 2017 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Original expressions for heat capacity CVand its components,vibrational and configurational components of thermal expansion coeficientwere established.The values of CV,Cvib,Cconf,αvib and αconf for water and helium 4He were calculated. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:heatcapacity,thermal expansioncoeffcient,isothermal compressibilityvibrational input,configurational input, water, helium 4. ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The heat capacity at constant volume( $C _ { \\mathrm { V } } = \\ d U / d T )$ （204 according to the definition of internal energy $( U = U _ { \\mathrm { K i n } } +$ $U _ { \\mathrm { P o t } } )$ has two components.In expression [1] $C _ { \\mathrm { V } }$ and $\\mathbf { \\boldsymbol { \\mathrm { a } } } _ { \\mathrm { P } } ^ { }$ componentsassociated with various types of motion of the molecules and their component parts (vibrations, librations,translations,etc.） are called vibrational> $( C _ { \\mathrm { v i b } } ,$ ${ \\bf { \\alpha } } _ { \\mathrm { { { \\alpha } \\times \\mathrm { { i } } b } } } )$ ，and the components associated with molecular configuration changes - 《configurational> $( C _ { \\mathrm { c o n f } } , \\mathrm { \\mathbf { a } } _ { \\mathrm { c o n f } } )$ ： ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { C _ { \\mathrm { v } } { = } C _ { \\mathrm { v i b } } { + } C _ { \\mathrm { c o n f } } } \\\\ { \\alpha _ { \\mathrm { p } } { = } \\alpha _ { \\mathrm { v i b } } { + } \\alpha _ { \\mathrm { c o n f } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Phenomenological thermodynamics relates heat capacity at constant pressure $C _ { \\mathrm { P } }$ and constant volume $C _ { \\mathrm { V } }$ by ratio ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { \\mathrm { P } } - C _ { \\mathrm { V } } = \\frac { T \\alpha _ { \\mathrm { p } } ^ { 2 } V _ { 0 } } { \\gamma _ { \\mathrm { T } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "where $V _ { 0 }$ - molar volume, $T -$ temperature (K), $\\mathbf { \\alpha } \\mathbf { \\mathrm { q } } _ { \\mathrm { p } } =$ $( 1 / V ) { \\cdot } ( \\hat { \\sigma } V / \\hat { \\sigma } T ) _ { \\mathrm { P } } ~ -$ -isobaric thermal expansion coefficient, $\\gamma _ { \\mathrm { { T } } } = \\ - ( 1 / V ) { \\cdot } ( \\hat { \\sigma } V / \\hat { \\sigma } P ) _ { \\mathrm { { T } } }$ -isothermal compressibility factor, $\\big ( C _ { \\mathrm { T h e r m } } = T \\alpha _ { \\mathrm { P } } ^ { 2 } V _ { 0 } \\big / \\gamma _ { \\mathrm { T } } \\ \\$ ）- heat capacity caused by thermal expansion. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Activation of mechanical degrees of freedom taking place in the substance under the given conditions (including molecule translations） increases the volume,so vibrational> thermal expansion coefficient should be positive $( \\alpha _ { \\mathrm { v i b } } > 0 )$ ） ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Expression(3) with(2): ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { \\mathrm { P } } - C _ { \\mathrm { V } } = \\frac { T \\alpha _ { \\mathrm { { v i b } } } ^ { 2 } V _ { 0 } } { \\gamma _ { T } } + \\frac { T \\alpha _ { \\mathrm { { c o n f } } } ^ { 2 } V _ { 0 } } { \\gamma _ { T } } + \\frac { 2 T \\alpha _ { \\mathrm { { v i b } } } \\alpha _ { \\mathrm { { c o n f } } } V _ { 0 } } { \\gamma _ { T } }\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In order to determine the type of heat capacity components we consider the following: ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 $\\alpha _ { \\mathrm { v i b } }$ and $\\alpha _ { \\mathrm { c o n f } }$ should have opposite signs,as there are states of matter (water, helium,...) in which $\\alpha _ { \\mathrm { p } } { = } 0$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "- expression for $C _ { \\mathfrak { p } }$ and $C _ { \\mathrm { V } }$ should include $\\alpha _ { \\mathrm { v i b } }$ and $\\alpha _ { \\mathrm { { c o n f } } } ;$ （204号 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "- component $( T \\alpha _ { \\mathrm { v i b } } ^ { 2 } V _ { 0 } / \\gamma _ { \\mathrm { T } } )$ should go to the expression for $C _ { \\mathrm { v i b } }$ (increase in oscillation amplitude leads to increase in the kinetic component of internal energy) and （204号 $C _ { \\mathrm { t h e r m } } = T \\alpha _ { \\mathrm { P } } ^ { 2 } V _ { 0 } \\big / \\gamma _ { \\mathrm { T } }$ (thermal expansion of the system volume is observed); ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "- expression for $C _ { \\mathrm { V } }$ should include negative sign,as value $C _ { \\mathrm { V } } { > } 0$ ,and $\\alpha _ { \\mathrm { v i b } }$ ， $\\alpha _ { \\mathrm { c o n f } }$ have different signs. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Given these conditions and expressions (1）- (4) we get: ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { \\mathrm { P } } = \\frac { T \\alpha _ { \\mathrm { v i b } } ^ { 2 } V _ { 0 } } { \\gamma _ { \\mathrm { T } } } + \\frac { T \\alpha _ { \\mathrm { c o n f } } ^ { 2 } V _ { 0 } } { \\gamma _ { \\mathrm { T } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { \\mathrm { V } } { = } \\mathrm { ~ - ~ } 2 T V _ { 0 } \\alpha _ { \\mathrm { v i b } } \\alpha _ { \\mathrm { c o n f } } / \\gamma _ { \\mathrm { T } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { \\mathrm { c o n f } } = \\frac { T \\alpha _ { \\mathrm { c o n f } } ^ { 2 } V _ { 0 } } { \\gamma _ { \\mathrm { T } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { \\mathrm { v i b } } = \\frac { T \\alpha _ { \\mathrm { v i b } } ^ { 2 } V _ { 0 } } { \\gamma _ { \\mathrm { T } } } + \\frac { T \\alpha _ { \\mathrm { p } } ^ { 2 } V _ { 0 } } { \\gamma _ { \\mathrm { T } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Expressions (1) -(9) allow us to find value $C _ { \\mathrm { V } }$ ， $C _ { \\mathrm { v i b } } ,$ （2 $C _ { \\mathrm { c o n f } } ,$ （ $\\alpha _ { \\mathrm { v i b } }$ and $\\alpha _ { \\mathrm { c o n f } } ,$ if we know values $V _ { 0 } , C _ { \\mathrm { P } } , \\gamma _ { \\mathrm { T } }$ and $\\alpha _ { \\mathrm { { p } } }$ ： Calculated values $\\alpha _ { \\mathrm { v i b } ; }$ ， $\\alpha _ { \\mathrm { c o n f } } ,$ $C _ { \\mathrm { c o n f } }$ and $C _ { \\mathrm { v i b } }$ for water $\\mathrm { H } _ { 2 } \\mathrm { O }$ and liquid helium $^ { 4 } \\mathrm { H e }$ are shown in Tables (1-5) and Figs.(1-4). For this research,condensed state of water and helium are interesting because dependence $V _ { 0 } { = } f ( T )$ and dependence $\\alpha _ { \\mathrm { p } } { = } f ( T )$ of these substances have extreme points. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Replacing $\\alpha _ { \\mathrm { c o n f } }$ with $( \\alpha _ { \\mathrm { p } } \\mathrm { ~ - ~ } \\alpha _ { \\mathrm { v i b } } )$ in （5）we obtain a quadratic equation the physical meaning of which has the following solution: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha _ { \\mathrm { v i b } } = \\frac { \\left\\{ \\alpha _ { \\mathrm { p } } + \\left[ \\frac { 2 C _ { \\mathrm { P } } \\gamma _ { \\mathrm { T } } } { T V _ { 0 } } - \\alpha _ { \\mathrm { p } } ^ { 2 } \\right] ^ { 1 / 2 } \\right\\} } { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Water ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Reference values $C _ { \\mathrm { P } } , C _ { \\mathrm { V } } , V _ { 0 }$ ， $\\alpha _ { \\mathrm { { p } } }$ ， Yr [3-5] and calculated values $\\alpha _ { \\mathrm { { c o n f } } } , C _ { \\mathrm { { V } } }$ ， $C _ { \\mathrm { v i b } }$ ， $C _ { \\mathrm { c o n f } }$ and $C _ { \\mathrm { T h e r m } }$ for protium waterfrom273.15 to $3 7 3 . 1 5 \\mathrm { K }$ are shownin Tables1 and 2. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "From Tables1 and2 we can see that thevibrational and configurational components ofthermal expansion have opposite signs； dependence $\\mathbf { \\boldsymbol { a } } _ { \\mathrm { v i b } } = f ( T )$ has a minimum value in a temperature range of $( 3 0 - 5 0 ) ^ { \\circ } \\mathrm { C }$ approximately where the value of heat capacity $C _ { \\mathrm { P } }$ is minimal It follows from Table1 that the increase inthermal expansion coefficient of water in the range of $( T _ { \\mathrm { m e l t } } -$ $T _ { \\flat } )$ is caused by a decrease in modulus $\\alpha _ { \\mathrm { c o n f } } .$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/64594d2cdd24a0cd95c78ab88760958fc340078eebfa56e03d4392539229d027.jpg",
+        "table_caption": [
+            "Table 1 $V _ { 0 } , C _ { \\mathrm { P } } , \\gamma _ { \\mathrm { T } }$ and $\\alpha$ of water at atmospheric pressure [3-5] "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">T,K</td><td rowspan=\"2\">Vo,10m³/ mol</td><td rowspan=\"2\">Cp, J/ mol·K</td><td rowspan=\"2\">Yr,101 Pa1</td><td colspan=\"3\">α,10-4K-1</td></tr><tr><td>αp</td><td>avib</td><td>αconf</td></tr><tr><td>273.15</td><td>18.0184</td><td>76.028</td><td>50.886</td><td>-0.681</td><td>19.482</td><td>-20.163</td></tr><tr><td>277.13</td><td>18.0165</td><td>75.850</td><td>49.514</td><td>0.000</td><td>19.393</td><td>-19.393</td></tr><tr><td>283.15</td><td>18.0214</td><td>75.595</td><td>47.811</td><td>0.879</td><td>19.253</td><td>-18.374</td></tr><tr><td>293.15</td><td>18.0484</td><td>75.397</td><td>45.895</td><td>2.066</td><td>19.087</td><td>-17.021</td></tr><tr><td>303.15</td><td>18.0948</td><td>75.307</td><td>44.774</td><td>3.031</td><td>18.981</td><td>-15.950</td></tr><tr><td>313.15</td><td>18.1574</td><td>75.289</td><td>44.243</td><td>3.890</td><td>18.949</td><td>-15.059</td></tr><tr><td>323.15</td><td>18.2341</td><td>75.307</td><td>44.260</td><td>4.514</td><td>18.922</td><td>-14.408</td></tr><tr><td>333.15</td><td>18.3236</td><td>75.361</td><td>44.500</td><td>5.290</td><td>19.006</td><td>-13.716</td></tr><tr><td>343.15</td><td>18.4254</td><td>75.451</td><td>45.210</td><td>5.830</td><td>19.078</td><td>-13.248</td></tr><tr><td>353.15</td><td>18.5388</td><td>75.595</td><td>46.160</td><td>6.472</td><td>19.237</td><td>-12.765</td></tr><tr><td>363.15</td><td>18.6634</td><td>75.757</td><td>47.310</td><td>6.990</td><td>19.375</td><td>-12.385</td></tr><tr><td>372.85</td><td>18.8010</td><td>75.950</td><td>50.404</td><td>7.532</td><td>19.857</td><td>-12.325</td></tr><tr><td>373.15</td><td>18.7990</td><td>75.973</td><td>48.900</td><td>7.537</td><td>19.599</td><td>-12.062</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/2089158b99f3c1d11569cfde1d8fc1fdb0d080ef59ec28443fdfd44e242fe611.jpg",
+        "table_caption": [
+            "Table 2Heat capacity of water and its components at atmospheric pressure "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">T,K</td><td colspan=\"5\">C, J/ mol·K</td></tr><tr><td>Cv,ref</td><td>Cv, calc</td><td>Cvib</td><td>Cconf</td><td>(TVα²）/ YT</td></tr><tr><td>273.15</td><td>76.028</td><td>75.983</td><td>36.664</td><td>39.320</td><td>0.045</td></tr><tr><td>277.13</td><td></td><td>75.850</td><td>37.925</td><td>37.925</td><td>0.000</td></tr><tr><td>283.15</td><td>75.433</td><td>75.513</td><td>39.480</td><td>36.033</td><td>0.082</td></tr><tr><td>293.15</td><td>74.820</td><td>74.905</td><td>41.506</td><td>33.399</td><td>0.492</td></tr><tr><td>303.15</td><td>74.226</td><td>74.181</td><td>43.014</td><td>31.168</td><td>1.126</td></tr><tr><td>313.15</td><td>73.469</td><td>73.344</td><td>44.201</td><td>29.144</td><td>1.945</td></tr><tr><td>323.15</td><td>72.640</td><td>72.594</td><td>44.956</td><td>27.638</td><td>2.713</td></tr><tr><td>333.15</td><td>71.740</td><td>71.522</td><td>45.715</td><td>25.808</td><td>3.839</td></tr><tr><td>343.15</td><td>70.320</td><td>70.698</td><td>46.151</td><td>24.547</td><td>4.753</td></tr><tr><td>353.15</td><td>69.848</td><td>69.654</td><td>46.544</td><td>23.110</td><td>5.941</td></tr><tr><td>363.15</td><td>68.875</td><td>68.757</td><td>46.781</td><td>21.976</td><td>7.000</td></tr><tr><td>372.78</td><td></td><td>68.062</td><td>46.939</td><td>21.123</td><td>7.888</td></tr><tr><td>373.15</td><td>67.884</td><td>67.825</td><td>46.954</td><td>20.871</td><td>8.149</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "According to Morgan and Warren [6], melting ice and heating water from O to $6 2 ^ { \\circ } \\mathrm { C }$ simultaneously increase the number of nearest neighbors of the molecule and the average intermolecular distance.Decrease in thevolume of condensed water during melting and heating from $0 ^ { \\circ } \\mathrm { C }$ to $3 . 9 8 ^ { \\circ } \\mathrm { C }$ is explained by the fact module $\\alpha _ { \\mathrm { c o n f } }$ in these processes is greater than $\\alpha _ { \\mathrm { v i b } }$ [2](volume reduction due to increase in the number of nearest neighbors molecule is greater than increase in volume because of the growth of intermolecular distance).At a temperature of maximum density $( 3 . 9 8 ^ { \\circ } \\mathrm { C } )$ water $\\vert \\alpha _ { \\mathrm { { c o n f } } } \\mathrm { = } \\alpha _ { \\mathrm { { v i b } } }$ With further heating, the volume of water increases as $\\alpha _ { \\mathrm { v i b } } > | \\alpha _ { \\mathrm { c o n f } } |$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Reference value $\\alpha _ { \\mathrm { p } }$ and calculated values $\\mathbf { Q } _ { \\mathrm { v i b } } \\ , \\ \\mathbf { a } _ { \\mathrm { c o n f } }$ in liquid water at saturation line from $3 7 3 . 1 5 \\mathrm { ~ K ~ }$ to subcritical $T 2 0 . 9 6 ~ T _ { \\mathrm { c } }$ （ $\\mathop { T _ { \\mathrm { c } } } -$ critical temperature) are shown in Table 3. Type of dependences $\\alpha _ { \\mathrm { v i b } } { = } f ( T )$ and $\\alpha _ { \\mathrm { c o n f } } { = } f ( T )$ are shown in Fig.1. The values $\\mathbf { \\boldsymbol { a } } _ { \\mathrm { p } }$ and $\\gamma _ { \\mathrm { T } }$ were determined using $\\left( { \\frac { \\partial V } { \\partial T } } \\right) _ { \\mathrm { { P } } } , \\left( { \\frac { \\partial V } { \\partial P } } \\right) _ { \\mathrm { { T } } }$ [3-5]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/78a803d00b95bae860d796d97dcdd9f2f9912b2552910c3ecc7538fdc291f0c8.jpg",
+        "table_caption": [
+            "Table 3Reference $\\mathbf { \\alpha } \\propto \\mathbf { \\alpha } _ { \\mathrm { P } }$ and calculated values $C _ { \\mathrm { v i b } }$ $C _ { \\mathrm { c o n f } } ,$ （204 ${ \\bf \\alpha } _ { \\mathrm { { G } _ { \\mathrm { { v i b } } } } }$ and $\\mathbf { \\alpha } \\propto _ { \\mathrm { c o n f } }$ at saturation line in liquid water "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>T, (K)</td><td>Cvib, J/ mol·K</td><td>Cconf, J/ mol·K</td><td>αp,10-4K-1</td><td>αvib,10-4 K-1</td><td>αconf,10-4K-1</td></tr><tr><td>373.15</td><td>46.954</td><td>20.871</td><td>7.537</td><td>19.599</td><td>-12.062</td></tr><tr><td>393.15</td><td>47.257</td><td>20.403</td><td>7.900</td><td>19.904</td><td>-12.004</td></tr><tr><td>403.15</td><td>47.314</td><td>19.085</td><td>8.650</td><td>20.346</td><td>-11.696</td></tr><tr><td>413.15</td><td>47.286</td><td>17.964</td><td>9.350</td><td>20.806</td><td>-11.456</td></tr><tr><td>423.15</td><td>47.397</td><td>17.529</td><td>9.750</td><td>21.194</td><td>-11.444</td></tr><tr><td>433.15</td><td>47.391</td><td>16.751</td><td>10.400</td><td>21.772</td><td>-11.372</td></tr><tr><td>443.15</td><td>47.595</td><td>16.540</td><td>10.800</td><td>22.304</td><td>-11.504</td></tr><tr><td>453.03</td><td>47.047</td><td>14.810</td><td>12.151</td><td>23.315</td><td>-11.164</td></tr><tr><td>485.52</td><td>46.755</td><td>12.740</td><td>14.876</td><td>26.019</td><td>-11.143</td></tr><tr><td>506.99</td><td>46.864</td><td>11.587</td><td>17.266</td><td>28.609</td><td>-11.343</td></tr><tr><td>523.48</td><td>46.704</td><td>10.613</td><td>19.645</td><td>31.199</td><td>-11.554</td></tr><tr><td>537.07</td><td>46.683</td><td>9.888</td><td>22.089</td><td>33.961</td><td>-11.872</td></tr><tr><td>548.71</td><td>46.796</td><td>9.279</td><td>24.720</td><td>36.947</td><td>-12.227</td></tr><tr><td>558.95</td><td>46.795</td><td>8.683</td><td>27.603</td><td>40.180</td><td>-12.577</td></tr><tr><td>567.95</td><td>46.734</td><td>8.086</td><td>30.848</td><td>43.756</td><td>-12.908</td></tr><tr><td>576.46</td><td>46.908</td><td>7.604</td><td>34.492</td><td>47.839</td><td>-13.347</td></tr><tr><td>584.11</td><td>47.356</td><td>7.194</td><td>38.689</td><td>52.550</td><td>-13.861</td></tr><tr><td>591.19</td><td>47.663</td><td>6.769</td><td>43.529</td><td>57.938</td><td>-14.409</td></tr><tr><td>597.79</td><td>48.084</td><td>6.358</td><td>49.320</td><td>64.351</td><td>-15.031</td></tr><tr><td>603.96</td><td>48.779</td><td>5.989</td><td>56.355</td><td>72.130</td><td>-15.775</td></tr><tr><td>609.78</td><td>49.619</td><td>5.634</td><td>65.200</td><td>81.903</td><td>-16.703</td></tr><tr><td>615.27</td><td>51.427</td><td>5.490</td><td>77.200</td><td>95.654</td><td>-18.454</td></tr><tr><td>617.90</td><td>51.112</td><td>5.079</td><td>84.900</td><td>103.634</td><td>-18.734</td></tr><tr><td>620.47</td><td>53.193</td><td>5.177</td><td>93.000</td><td>113.055</td><td>-20.055</td></tr><tr><td>622.97</td><td>53.086</td><td>4.723</td><td>104.100</td><td>124.435</td><td>-20.335</td></tr><tr><td>625.41</td><td>53.758</td><td>4.507</td><td>115.900</td><td>137.114</td><td>-21.214</td></tr><tr><td>627.79</td><td>60.559</td><td>5.284</td><td>129.900</td><td>154.735</td><td>-24.835</td></tr><tr><td>630.11</td><td>58.086</td><td>4.309</td><td>152.300</td><td>176.704</td><td>-24.404</td></tr><tr><td>632.37</td><td>57.464</td><td>3.708</td><td>180.500</td><td>205.401</td><td>-24.901</td></tr><tr><td>634.59</td><td>58.027</td><td>3.251</td><td>220.000</td><td>246.115</td><td>-26.115</td></tr><tr><td>638.86</td><td>55.811</td><td>1.963</td><td>377.000</td><td>404.491</td><td>-27.491</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3805433cc53fa5613ff5c35704a7562459bdbc935f1acf64bb19a616bd001459.jpg",
+        "img_caption": [
+            "Fig.1 Temperature dependence of Calculated values ${ \\bf { Q } } _ { \\mathrm { { v i b } } }$ and （204 $\\mathbf { \\alpha } \\propto _ { \\mathrm { c o n f } }$ of water at saturation line "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Helium ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For calculation of values $\\alpha _ { \\mathrm { v i b } } .$ ， $\\alpha _ { \\mathrm { c o n f } } ,$ （ $C _ { \\mathrm { c o n f } }$ and $C _ { \\mathrm { v i b } }$ for liquid helium $^ 4 \\mathrm { H e }$ we use $C _ { \\mathrm { P } }$ $C _ { \\mathrm { V } } \\ : V _ { 0 }$ ， $\\alpha$ and $\\gamma _ { \\mathrm { T } }$ (Tables $4 ^ { - 6 }$ ） [7-9]. Thermal expansion coeficient according to [7, 8] in the temperature range of(1.15-1.20) K(Fig.2) and in the temperature range of (2.15-2.20) K is equal to zero. It allows us to define vibrational and configurational inputs to the thermal expansion coefficient of liquid $^ { 4 } \\mathrm { H e }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Liquid $^ 4 \\mathrm { H e }$ can exist in two fractions: He II and He I. Helium $\\boldsymbol { \\mathrm { I I } } - \\mathbf { a }$ fraction with a superfluid component (superfluid), the proportion of which varies from 1 for $0 \\mathrm { ~ K ~ }$ to O for $T _ { \\lambda } { = } 2 . 1 7 6 8 \\mathrm { ~ K ~ }$ (the temperature of $\\lambda -$ transition) [8]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d9a50e8cbe565bb7be978e24c0526137c6ebb4a6b0718e761c691a9428a5e81c.jpg",
+        "img_caption": [
+            "Fig.2Temperature dependence ofthermal expansion coefficient "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Tables 4 and 5 provide reference and calculated values of liquid $^ 4 \\mathrm { H e I I }$ at atmospheric pressure. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The values of heat capacities $C _ { \\mathrm { P } }$ and $C _ { \\mathrm { V } } , C _ { \\mathrm { V } }$ and $\\mathbf { \\alpha } _ { \\mathrm { { { d e } } } }$ components of liquid helium at saturation line are given in Table 6.Fig. 3 shows the dependence $\\mathbf { \\boldsymbol { a } } _ { \\mathrm { c o n f } } = f ( T )$ and Fig. 4 - dependence of configurational and vibrational heat capacity of liquid helium at saturation line. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Results and discussion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The separation of heat capacity $C _ { \\mathrm { V } }$ and thermal expansion coefficient $\\alpha _ { \\mathrm { P } }$ into components is good for studying the mechanism of formation of thermal and structural properties of the liquid state.For example,Tables $_ { 1 ^ { - 3 } }$ show that value $\\alpha _ { \\mathrm { c o n f } }$ decreases for water being heated from melting temperature $( T _ { \\mathrm { m e l t } } )$ to $T _ { \\mathrm { m a x } } { \\approx } 0 . 7 8 5 T _ { \\mathrm { c } } { \\approx } 5 0 8 \\ \\mathrm { K } .$ （20 ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8ee89fcc79f33af6801211a3753d16fb71056d3f9b44dac2dcb4bbe85c0aa250.jpg",
+        "table_caption": [
+            "Table 4 $V _ { 0 } , { \\alpha } _ { \\mathrm { P } } , \\gamma _ { \\mathrm { T } } .$ $C _ { \\mathrm { P } } ,$ and $C _ { \\mathrm { V } }$ of liquid $^ 4 \\mathrm { H e I I }$ at atmospheric pressure [8] "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>T,K</td><td>V,10m/mol</td><td>αp,104K1</td><td>Yr,108 Pa1</td><td>Cp, J/ mol·K</td><td>Cv, J/ mol·K</td></tr><tr><td>0.6</td><td>27.580</td><td>1.749</td><td>12.147</td><td>0.017733</td><td>0.017729</td></tr><tr><td>0.8</td><td>27.582</td><td>3.213</td><td>12.156</td><td>0.084307</td><td>0.084286</td></tr><tr><td>1.0</td><td>27.583</td><td>3.294</td><td>12.193</td><td>0.42047</td><td>0.42043</td></tr><tr><td>1.05</td><td>27.584</td><td>2.495</td><td>12.210</td><td>0.58638</td><td>0.58638</td></tr><tr><td>1.10</td><td>27.584</td><td>1.225</td><td>12.225</td><td>0.79320</td><td>0.79316</td></tr><tr><td>1.15</td><td>27.584</td><td>0.04805</td><td>12.249</td><td>1.04364</td><td>1.04364</td></tr><tr><td>1.20</td><td>27.584</td><td>-2.215</td><td>12.264</td><td>1.34183</td><td>1.34179</td></tr><tr><td>1.25</td><td>27.584</td><td>-4.523</td><td>12.290</td><td>1.68626</td><td>1.68622</td></tr><tr><td>1.30</td><td>27.583</td><td>-7.342</td><td>12.313</td><td>2.10721</td><td>2.10705</td></tr><tr><td>1.35</td><td>27.582</td><td>-11.17</td><td>12.335</td><td>2.63215</td><td>2.63179</td></tr><tr><td>1.4</td><td>27.580</td><td>-13.87</td><td>12.374</td><td>3.23962</td><td>3.23902</td></tr><tr><td>1.6</td><td>27.566</td><td>-35.79</td><td>12.492</td><td>6.21083</td><td>6.20643</td></tr><tr><td>1.8</td><td>27.539</td><td>-65.82</td><td>12.641</td><td>11.73602</td><td>11.71881</td></tr><tr><td>1.9</td><td>27.516</td><td>-87.32</td><td>12.720</td><td>15.48686</td><td>15.45564</td></tr><tr><td>2.0</td><td>27.488</td><td>-112.8</td><td>12.943</td><td>20.82753</td><td>20.77349</td></tr><tr><td>2.05</td><td>27.471</td><td>-141.6</td><td>13.169</td><td>23.70460</td><td>23.61894</td></tr><tr><td>2.10</td><td>27.449</td><td>-177.0</td><td>13.267</td><td>26.72456</td><td>26.58847</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/76761a64b764c74b55458196009ed89fe91be35c1fe16070abc493fefc7dd13b.jpg",
+        "table_caption": [
+            "Table 5Vibrational and configurational inputs to $C _ { \\mathrm { V } }$ and $\\mathbf { \\alpha } _ { \\mathrm { { { \\alpha } } } } \\mathbf { \\alpha } _ { \\mathrm { { { \\alpha } } } }$ of liquid 4He II "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>T,K</td><td>αvib,10-4K-1</td><td>αconf,10-4 K-1</td><td>Cvib,J/ mol·K</td><td>Cconf, J/ mol·K</td></tr><tr><td>0.6</td><td>81.545</td><td>-79.796</td><td>0.009054</td><td>0.008674</td></tr><tr><td>0.8</td><td>153.987</td><td>-150.774</td><td>0.043023</td><td>0.041265</td></tr><tr><td>1.0</td><td>154.014</td><td>-150.720</td><td>0.053651</td><td>0.051389</td></tr><tr><td>1.15</td><td>448.907</td><td>-448.859</td><td>0.52188</td><td>0.52176</td></tr><tr><td>1.20</td><td>497.466</td><td>-499.685</td><td>0.66788</td><td>0.67390</td></tr><tr><td>1.40</td><td>713.519</td><td>-727.389</td><td>1.58803</td><td>1.65099</td></tr><tr><td>1.60</td><td>919.775</td><td>-955.565</td><td>2.98241</td><td>3.22391</td></tr><tr><td>1.80</td><td>1189.93</td><td>-1255.75</td><td>5.53515</td><td>6.18366</td></tr><tr><td>2.00</td><td>1508.38</td><td>-1621.18</td><td>9.6100</td><td>11.1635</td></tr><tr><td>2.10</td><td>1662.96</td><td>-1839.96</td><td>11.87926</td><td>14.70921</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/150401862e7b4ed6120e341bac9ba582b69fe4ab54dae414adb55e48bd1454a2.jpg",
+        "table_caption": [
+            "Table6Characteristics of liquid $^ { 4 } \\mathrm { H e }$ at saturation line [9] "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">T,K</td><td colspan=\"5\">Heat capacity, J/ mol·K</td><td colspan=\"2\">αp,104K1</td></tr><tr><td>Cp,ref</td><td>Cv,ref</td><td>Cvib</td><td>Ceonf</td><td>Cv, calc</td><td>αvib</td><td>αconf</td></tr><tr><td>0.800</td><td>0.089738</td><td>0.089698</td><td>0.04604</td><td>0.04366</td><td>0.08970</td><td>159.593</td><td>-155.348</td></tr><tr><td>0.900</td><td>0.19877</td><td>0.19873</td><td>0.1010</td><td>0.0977</td><td>0.19874</td><td>222.524</td><td>-218.746</td></tr><tr><td>1.000</td><td>0.40106</td><td>0.40106</td><td>0.2018</td><td>0.1993</td><td>0.40105</td><td>298.081</td><td>-296.233</td></tr><tr><td>1.050</td><td>0.55706</td><td>0.55706</td><td>0.2756</td><td>0.2751</td><td>0.55076</td><td>340.084</td><td>-339.704</td></tr><tr><td>1.100</td><td>0.74128</td><td>0.74128</td><td>0.3693</td><td>0.3720</td><td>0.74128</td><td>384.757</td><td>-386.153</td></tr><tr><td>1.150</td><td>0.97944</td><td>0.97944</td><td>0.4858</td><td>0.4936</td><td>0.97941</td><td>431.860</td><td>-435.321</td></tr><tr><td>1.200</td><td>1.27123</td><td>1.27123</td><td>0.6279</td><td>0.6432</td><td>1.27114</td><td>481.131</td><td>-486.922</td></tr><tr><td>1.400</td><td>3.12083</td><td>3.12003</td><td>1.52108</td><td>1.59881</td><td>3.11989</td><td>697.426</td><td>-714.805</td></tr><tr><td>1.600</td><td>6.41617</td><td>6.41216</td><td>3.09664</td><td>3.31590</td><td>6.41254</td><td>939.191</td><td>-971.303</td></tr><tr><td>1.800</td><td>11.75964</td><td>11.74763</td><td>5.61745</td><td>6.13142</td><td>11.74888</td><td>1207.600</td><td>-1260.428</td></tr><tr><td>2.000</td><td>20.761</td><td>20.721</td><td>9.690</td><td>11.030</td><td>20.720</td><td>1541.129</td><td>-1640.729</td></tr><tr><td>2.100</td><td>28.995</td><td>28.883</td><td>13.1126</td><td>15.7704</td><td>28.8830</td><td>1786.887</td><td>-1951.315</td></tr><tr><td>2.150</td><td>37.100</td><td>36.844</td><td>16.1210</td><td>20.7235</td><td>36.8445</td><td>1990.535</td><td>-2239.186</td></tr><tr><td>2.200</td><td>16.899</td><td>16.855</td><td>9.015</td><td>7.840</td><td>16.855</td><td>1472.226</td><td>-1369.590</td></tr><tr><td>2.400</td><td>9.506</td><td>9.014</td><td>5.772</td><td>3.240</td><td>9.012</td><td>1181.181</td><td>-849.306</td></tr><tr><td>2.600</td><td>9.286</td><td>8.337</td><td>5.739</td><td>2.599</td><td>8.338</td><td>1214.368</td><td>-757.060</td></tr><tr><td>2.800</td><td>9.618</td><td>8.125</td><td>5.889</td><td>2.233</td><td>8.122</td><td>1286.177</td><td>-707.248</td></tr><tr><td>3.000</td><td>10.395</td><td>8.249</td><td>6.215</td><td>2.034</td><td>8.249</td><td>1382.066</td><td>-681.733</td></tr><tr><td>3.200</td><td>11.592</td><td>8.686</td><td>6.728</td><td>1.958</td><td>8.686</td><td>1505.551</td><td>- 678.676</td></tr><tr><td>3.400</td><td>12.940</td><td>9.134</td><td>7.248</td><td>1.888</td><td>9.136</td><td>1652.886</td><td>-683.180</td></tr><tr><td>3.600</td><td>14.413</td><td>9.510</td><td>7.717</td><td>1.791</td><td>9.508</td><td>1826.996</td><td>-688.107</td></tr><tr><td>3.800</td><td>16.078</td><td>9.802</td><td>8.133</td><td>1.665</td><td>9.798</td><td>2043.173</td><td>-694.489</td></tr><tr><td>4.000</td><td>18.088</td><td>10.022</td><td>8.507</td><td>1.515</td><td>10.022</td><td>2325.440</td><td>-703.190</td></tr><tr><td>4.200</td><td>20.693</td><td>10.199</td><td>8.855</td><td>1.334</td><td>10.199</td><td>2716.396</td><td>-715.920</td></tr><tr><td>4.400</td><td>24.404</td><td>10.343</td><td>9.197</td><td>1.152</td><td>10.349</td><td>3300.384</td><td>-734.475</td></tr><tr><td>4.600</td><td>30.380</td><td>10.479</td><td>9.548</td><td>0.933</td><td>10.481</td><td>4276.202</td><td>-760.995</td></tr><tr><td>4.800</td><td>42.067</td><td>10.627</td><td>9.966</td><td>0.685</td><td>10.651</td><td>6247.818</td><td>-804.068</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In [10] it is shown that at $T _ { \\mathrm { m a x } }$ volume multiplied by pressure of saturated gas $( P V _ { 0 } ) _ { \\mathrm { { S } } }$ ，and molecular packing coefficient $( K _ { \\mathrm { S } } )$ inliquid saturation line branch have the maxima. Further heating of water(Table 3） increases value $\\alpha _ { \\mathrm { { c o n f } } } .$ Value $\\varDelta \\alpha _ { \\mathrm { { c o n f } } } / \\varDelta T$ in the temperature range of (273.15-373.15) K and at $\\scriptstyle { T > 0 . 9 6 T _ { \\mathrm { c } } }$ is considerably higher than in other temperature ranges.This fact shows that at low $( 2 7 3 . 1 5 \\ – 3 7 3 . 1 5 ) \\ ]$ K andhigh $( T > 0 . 9 6 T _ { \\mathrm { c } } )$ temperatures structural changes occur more intensely.In the dependence $\\alpha _ { \\mathrm { c o n f } } = f ( T )$ two distinct temperatures( $T _ { \\mathrm { m a x } } { \\approx }$ $0 . 7 8 5 T _ { \\mathrm { c } }$ and $\\scriptstyle T \\approx 0 . 9 6 T _ { \\mathrm { c } } ,$ ）may be attributed to temperature of quasi-phase transition in liquids [11]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f7cdf5e1193d90e17e3c0a80bb82a8d7fd5a3ae2c608374a93b9177e035cf6fa.jpg",
+        "img_caption": [
+            "Fig.3 $\\mathbf { \\boldsymbol { a } } _ { \\mathrm { c o n f } } { = } f ( \\mathit { T } )$ of liquid $^ { 4 } \\mathrm { H e }$ at saturation line "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0a034261aa2f6f390438ed9075b994dc84b81a05508e359fc1ee52363cdb464e.jpg",
+        "img_caption": [
+            "Fig. 4 $C _ { \\mathrm { v i b } } = f ( T )$ and $C _ { \\mathrm { c o n f } } = f ( T )$ of liquid $^ 4 \\mathrm { H e }$ at saturation line "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Analysis of dependence $C _ { \\mathrm { c o n f } } { = } f ( T )$ (Tables 2 and 3) shows that $C _ { \\mathrm { c o n f } }$ is constantly decreasing with the increase intemperature of water.Ratio $C _ { \\mathrm { c o n f } } / C _ { \\mathrm { V } }$ for water according to our data is 0.518(273.15 K) and 0.308 $( 3 7 3 . 1 5 \\ \\mathrm { K } )$ )，and according to [1] it is approximately equal to 0.50 (273.15 K) and $0 . 3 5 \\ : ( 3 7 3 . 1 5 \\ : \\mathrm { K } )$ · ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In[12,13]calculated are the values ofradial distribution of water. It was found that by heatingwater under pressure 10oo bar from $2 9 8 \\mathrm { ~ K ~ }$ to $4 5 0 ^ { - } 5 0 0 \\mathrm { ~ K ~ }$ the number of nearest neighbors of $Z$ in water molecules increases from 4.9 to 5.7,and after further heating - it decreases to about 4.3 at $7 7 3 \\mathrm { ~ K ~ }$ . From Table 3 and Fig.1 we see that the value of configurational components of thermal expansion coefficient is constantly decreasing from melting temperature to $5 0 6 . 9 9 \\mathrm { ~ K } . \\ 5 0 6 . 9 9 \\mathrm { ~ K ~ }$ is almost equal to $T _ { \\mathrm { m a x } }$ and is close to the upper limit of temperature range of(450-500) K. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Change of Z may be related to the change of $\\alpha _ { \\mathrm { c o n f } } .$ If the increase in $Z$ is accompanied by the decrease of $\\alpha _ { \\mathrm { c o n f } } ,$ （20 the increase in modulus $\\alpha _ { \\mathrm { c o n f } }$ must be accompanied by the decrease of Z. At $T > T _ { \\mathrm { m a x } }$ modulus $\\alpha _ { \\mathrm { c o n f } }$ in liquid water is constantly increasing，so we should expectdecrease of $Z$ for water molecules in the interval $T _ { \\mathrm { m a x } } { - } T _ { \\mathrm { c } }$ This assumption may be confirmed by temperature dependence $K _ { \\mathrm { S } }$ for water at saturation line [10]: $K _ { \\mathrm { S } }$ increases up to $T _ { \\mathrm { m a x } }$ and then decreases. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "From Tables 5 and 6 we see that modulus $\\alpha _ { \\mathrm { c o n f } }$ for liquid $^ { 4 } \\mathrm { H e }$ increases from almost $0 \\mathrm { K }$ to $T = 4 . 8 \\mathrm { ~ K ~ }$ (Table 6),except for the interval $T _ { \\lambda } { \\approx } 3 \\mathrm { ~ K ~ }$ ，We could expect that in He II and He I in the temperature range $3 { - } 4 . 8 \\mathrm { ~ K ~ }$ the numberofnearestneighbors of atomswill decrease(according to [14] the value of $Z$ for $^ 4 \\mathrm { H e }$ atoms in the temperature range of $3 { - } 5 . 1 \\mathrm { ~ K ~ }$ decreases). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Low accuracyin determining the experimental characteristics of Helium $( C _ { \\mathrm { P } } , C _ { \\mathrm { V } } , \\rho , \\alpha _ { \\mathrm { P } } , \\gamma _ { \\mathrm { T } } )$ does not allow us to unambiguously interpret the dependence $\\alpha _ { \\mathrm { c o n f } } { = } f ( T )$ at high temperatures.For this reason,we used temperature $4 . 8 \\mathrm { K }$ as the maximum temperature of liquid $^ { 4 } \\mathrm { H e }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the temperature range $( 0 \\mathrm { K } - T _ { \\lambda } )$ vibrational $C _ { \\mathrm { v i b } }$ and configurational $C _ { \\mathrm { c o n f } }$ components of heat capacity increase; in the temperature range (2.6-4.8) K $C _ { \\mathrm { v i b } }$ increases and $C _ { \\mathrm { c o n f } }$ for the He I, as it happens to water at temperature from $2 7 3 . 1 5 \\mathrm { ~ K ~ }$ to $6 3 8 . 8 6 \\mathrm { ~ K ~ }$ ，constantly decreases (Fig. 4). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In conclusion, the original expressions for heat capacity $C _ { \\mathrm { V } }$ and its components were proposed, and the separation of thermal characteristics of the substance to <vibrational> and 《configurational> components is good for a better understanding of the structural changes in the liquid statewas shown. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]D.Eisenberg，W.Kauzmann,1969,The structure and properties of Water,Oxford University Press,Oxford, UK..   \n[2]N. M. Putintsev, 20o5,Heat capacity and thermal expansion of water,Doklady Physical Chemistry, 401 (4), pp. 49-52.   \n[3] V.A.Kirillin,V.V.Sychev,A.E. Sheindlin,1983,Engineering Thermodynamics,Energoatomizdat,Moscow.   \n[4]S.L. Rivkin,A.A．Aleksandrov,E.A. Kremenevskaya, 1978,Thermodynamic derivatives of water and steam, John Wiley& Sons Inc,Washington.   \n[5]S.L.Rivkin,A.A．Aleksandrov,1977,Thermophysical properties of water and steam,Energiya,Moscow [in Russian].   \n[6]A.F. Skryshevskii, 1980,Structural analysis of liquids and amorphous solids,Vysshaya Shkola,Moscow [in Russian].   \n[7]R.J.Donnelly, C.F.Barenghi,1998, The observed properties of liquid helium at the saturated vapor pressure, Journal of Physical and Chemical Reference Data, 27 (6), pp. 1217-1274.   \n[8]J.S.Brooks,R.J.Donnelly, The Calculated ThermodynamicPropertiesof SuperfluidHelium-4.(www: http://pages.uoregon.edu/rjd/table4.htm.- Date of the Application: 23.02.2012).   \n[9]V.D.Arp,R.D.McCarty,D.G. Friend,1998,Thermophysical Properties ofHelium-4 from 0.8 to 1500K with Pressures to $2 0 0 0 \\mathrm { M P a }$ ，NIST Technical Note 1334, (Revised),Gaithersburg,Maryland, USA.   \n[10] N.M.Putintsev,D.N.Putintsev,2003, Similarity Points for Molecular Liquids,Doklady Physical Chemistry, 390 (4),pp.139-142.   \n[11] N.M.Putintsev,D.N.Putintsev,2001,A Study of the Structural Properties of Liquid Inert Gases,Doklady Physical Chemistry, 379 (4), pp.215-217.   \n[12]Y.E. Gorbatyi, Y.N. Dem'yanets,1983,X-ray diffraction studies of the structure of the liquid and supercritical waterat high temperatures and pressures.II.Radial distribution functions and pair correlation functions,Journal of Structural Chemistry,24 (3), pp.385-392.   \n[13]Y.E.Gorbaty,Y.N.Demianets,1983,X-ray diffraction studies of the structure of the liquid and supercritical water at high temperatures and pressures.II.The structure of the first coordination sphere,2 Journal of Structural Chemistry, 4 (5), pp. 74-80.   \n[14]N. M. Putintsev,D.N.Putintsev,2014,Calculating the thermodynamic and structural properties of liquid noble gases,Russian Journal of Physical Chemistry A,88 (3), pp. 353-357. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

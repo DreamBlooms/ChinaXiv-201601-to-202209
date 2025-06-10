@@ -1,0 +1,459 @@
+[
+    {
+        "type": "text",
+        "text": "Ecosystem service values of gardens in the Yellow River Basin, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GE Qianqian1:2, XU Wenjie3,FU Meichen1, HAN Yingxin4, ANGuoqiang4.5.6\\*, XU Yuetong4 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 School of Land Science and Technology,China University of Geosciences (Beijing),Beijing l0o083,China;   \n² China Land Surveying and Planning Institute,Beijing 1Ooo35,China;   \n3 Shandong Urban and Rural Planning Design Institute,Jinan 25Oo13,China;   \n4 Territorial Spatial Planning Institute of Shandong Province,Jinan 250014,China;   \n5 College of Geographyand Environment, Shandong Normal University,Jinan 250358,China;   \n6 Key Laboratory of Land Use, Ministry of Natural Resources, Shandong Basis, Jinan 250014, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Studies on the ecosystem service value (ESV) of gardens are critical for informing evidencebased land management practices based on an understanding of the local ecosystem. By analyzing equivalent value factors (EVFs),this paper evaluated the values of 11 ecosystem services of gardens in the Yellow River Basin of China in 2O19. High-precision land use survey data were used to improve the accuracy of the land use classification, garden areas,and spatial distribution of the ESVs of gardens. The results showed that garden ecosystem generally had high ESVs, especially in terms of the ESV of food production, which is worthy of further research and application to the practice of land use planning and management. Specificaly, the value of one standard EVF of ecosystem services in 2019 was 3587.04 CNY/ $( \\mathrm { h m } ^ { 2 } { \\cdot } \\mathrm { a } )$ ，and the ESV of food production of gardens was much higher than that of croplands. Garden ecosystem provided an ESV of $1 3 4 8 . 6 6 \\times 1 0 ^ { 8 }$ CNY/a in the Yellow River Basin. The areas with the most concentrated ESVs of gardens were located in four regions: downstream in the Shandong-Henan zone along the Yellow River, mid-stream in the Shanxi-Shaanxi zone along the Yellow River,the Weihe River Basin,and upstream in the Qinghai-Gansu-Ningxia-Inner Mongolia zone along the Yellow River. The spatial correlation of the ESVs in the basin was significant (global spatial autocorrelation index Moran's $I { = } 0 . 4 6 4 \\rangle$ ，which implied that the characteristics of high ESVs adjacent to high ESVs and low ESVs adjacent to low ESVs are prominent. In the Yellow River Basin,the contribution of the ESVs of gardens to the local environment and economy varied across regions. We also put forward some suggestions for promoting the construction of ecological civilization in the Yellow River Basin. The findings of this study provide important contributions to the research of ecosystem service evaluation in the Yellow River Basin. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: ecosystem service evaluation; garden ecosystem; equivalent value factors; spatial autocorrelation analysis; Yellow River Basin ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation:GE Qianqian,XUWenjie,FU Meichen,HAN Yingxin,AN Guoqiang,XU Yuetong.2022.Ecosystem service valuesofgardensintheYellow River Basin, China．Journal of Arid Land,14(3):284-296. https://doi.org/10.1007/s40333-022-0061-5 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In modern society， environmental deterioration has led to a growing awareness of ecosystem service value (ESV) and its significance to human beings (de Groot et al.,2O12). A fundamental study of Costanza et al. (1997) on the value of the world's ecosystem services quantitatively evaluated ecosystem services and applied the results to ecosystem protection, thus demonstrating that ecosystem services are an important subject of scientific research for responding to global change (Fu and Zhang,2O14; Costanza et al.,2O17).With fruitful efforts of studies such as Daily (1997)，Costanza et al. (1997,2014)，and Xie et al. (2003,2015, 2017)，the theories and methodologies for ecosystem service evaluation have been constantly improved. Ecosystem services refer to the benefits to human wellbeing offered by the natural environment, including both direct and indirect contributions (Costanza et al.,1997; Millennium Ecosystem Assessment, 2005).Based on this definition,scholars have carried out researches on the ESVs of forests (Ojea et al.,2016), wetlands (Wang et al., 2007), croplands (Xie and Xiao,2013), grasslands (Qu et al. 2021.),and many other ecosystems. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "However, the types of ecosystem services are still not well understood (Costanza et al., 2017) and remain controversial (Thompson and Barton,1994; McCauley, 2Oo6),and the classification of ecosystems is also inadequately refined.For example,there are few studies focused on the ESVs of gardens, although garden ecosystem plays an important role in contributing to ecosystem health(Zhang et al.， 2O2O). Some researchers have studied the ecosystem services of various types of gardens,such as health clinic gardens (Cilliers et al., 2O18),urban gardens (Lin and Egerer,2O19),and home gardens (Calvet-Mir et al.,2O12). For instance,Baumgärtner and Bieri (2006)explored the qualitative evaluation of services provided by fruit tree ecosystem in an ecological engineering context. Tian et al. (2011,2014） systematically assessed soil conservation and gas regulation services of orchards in the Pinggu District of Beijing City, China. Willemen et al.(2019） stressed the importance of aggregate effects on ecosystem services from the certification of tea farming. However,few scholars have realized the particularity of garden ecosystem and its management purpose,and some studies even considered gardens as a subset of forests in terms of the ESV(Gong et al.,2O17). Therefore,currently available literature on garden ecosystem lacks depth and is relatively sporadic， thus making it difficult to develop a comprehensive and detailed understanding of garden ecosystem. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In China's land classfication system, garden is an important land category,and the relevant ecosystem has distinctive characteristics (MNR, 2O21). In the land use surveys,garden including orchard, tea garden,and other garden types is defined as \"area occupied by intensive planting of perennial woody or herbaceous crops for fruits, leaves,roots, stems, juice, etc. with a coverage greater than $5 0 . 0 0 \\%$ or the number of plants per unit area greater than $70 . 0 0 \\%$ of the reasonable number of plants\" (AQSIQ and SAC,2017). Garden ecosystem can also provide supporting, provisioning(Yu et al., 2O18),regulating,and cultural ecosystem services. For instance,garden ecosystem in China produced $2 6 2 . 0 4 \\times 1 0 ^ { 6 }$ t fruits and $2 . 4 6 \\times 1 0 ^ { 6 }$ t tea in 2019,accounting for $3 0 . 2 7 \\%$ and $4 0 . 3 0 \\%$ of the world's total yield, respectively (National Bureau of Statistics,2020a). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Quantitative evaluation of services provided by garden ecosystem would refine the classification of global ecosystems and improve the collective understanding of them. Scientists have created a considerable number of methods to estimate the ESV, such as unit value (Costanza et al.,2017),equivalent value factor (EVF) (Xin et al.,，2O18)，production-oriented valuation, replacement costs,and shadow pricing(Wang et al.，2Oo7).Many related models such as the Integrated Valuation of Ecosystem Services and Trade-offs (InVEST) (Nelson et al.，2009; Terrado et al.,2O16), Multiscale Integrated Model of Ecosystem Services (MIMES) (Boumans et al.，2015)，Artificial Intelligence for Ecosystem Services (ARIES）(Villa et al.， 2009)，and Ecosystem Portfolio Model (EPM) (Labiosa et al.,2O13) are built on the basis of multi-source data. Literature analysis (An et al., 2O22) found that,although the EVF method shows inherent subjectivity to a certain extent, it requires relatively fewer data and the results are easy to understand. This method is especially suitable for studies on a regional scale (Costanza et al., 2014)and is widely used and universally recognized. Additionally， Chinese scholars have conducted many studies using this method such that results would be comparable to prior literature (An et al.，2O22). Other methods,as mentioned,tend to focus on a single type of ecosystem service and require large amounts of data and related parameters.Although this could reduce the subjectivity of the results to some extent, the process is very time- and labor-intensive, and the coordination of multiple methods would be impractical.Therefore,in view of the timeliness of data,the availability of parameters,and the comparability of evaluation results,the EVF method was used as the main quantitative evaluation approach for garden ecosystem services in this paper. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Yellow River Basin of China is a cradle of human civilization; the basin spans many climatic and geomorphic regions,and the distribution of water resources exhibits great disparity from southeast to northwest. The basin is an important fruit-producing region in China due to high yield,excellent variety，wide distribution,and long history of fruit tree cultivation. This study selected gardens in the Yellw River Basin for the ESV assessment,and the results will help to rediscover this ancient region and explore the impact of natural geographical factors (including topography, climate,and water resources) on the ESVs of gardens. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The detailed research objectives are to: (1） calculate and discuss the food supplying service value of garden ecosystem based on statistical data; (2） generalize the quantity and distribution characteristics of the ESVs of gardens；and (3） provide reasonable policy suggestions for protecting the garden ecosystem and guidance for the rational utilization of garden ecosystem in the Yellow River Basin. Furthermore,this paper attempts to offer a case study for evaluating a special type of land use or biome at the local scale, with the aim of providing a reference for global ecosystem service evaluation, sustainable development, and ecological civilization construction. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Yellow River Basin refers to the geographical and ecological region affected by the Yellow River system from the source to the estuary (Gu et al.,2O21; Liu et al.,2O21). It is located at $9 6 ^ { \\circ } - 1 1 9 ^ { \\circ } \\mathrm { E }$ longitude and $3 2 ^ { \\circ } - 4 2 ^ { \\circ } \\mathbf { N }$ latitude. The region is $1 9 0 0 ~ \\mathrm { k m }$ long from east to west and $1 1 0 0 \\mathrm { k m }$ long from north to south. It spans three major ladders in China (Fig. 1), four geomorphic units(the Qinghai-Tibet Plateau,the Inner Mongolia Plateau,the Loess Plateau，and the Huanghuaihai Plain),and four climatic zones (arid,semi-arid, semi-humid,and humid climate). The total area of the Yellow River Basin is $1 . 1 5 { \\times } 1 0 ^ { 6 } ~ \\mathrm { k m } ^ { 2 }$ ，including nine province/autonomous region-level areas (Qinghai Province， Gansu Province， Sichuan Province， Ningxia Hui Autonomous Region, Inner Mongolia Autonomous Region, Shaanxi Province, Shanxi Province, Henan Province,and Shandong Province). The area of gardens in the Yellow River Basin accounts for $1 . 4 0 \\%$ of the total area of the basin,and the fruit output is $9 5 . 0 0 \\times 1 0 ^ { 6 }$ t, accounting for $34 . 8 0 \\%$ of the total output in China. Among them,apples, pears,grapes,and other fruits are famous all over the world. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/36e29e73147f4bdbf071f9a873e84bf1b24f8140af99edf53b0a4c8e35a5da3e.jpg",
+        "img_caption": [
+            "Fig.1Overview of the Yelow River Basin.Xining is thecapital of Qinghai Province,Lanzhou is thecapital of Gansu Province,Chengdu is thecapital of Sichuan Province,Yinchuan is thecapital of Ningxia Hui Autonomous Region,Huhhotis the capital of Inner Mongolia Autonomous Region,Xi'an is thecapitalof Shaanxi Province, Taiyuan is the capitalof Shanxi Province,Zhengzhou is thecapital of Henan Province,and Jinan is the capital of Shandong Province. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 Data sources ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Based on data of the scope of the Yellow River Basin from previous studies (Yang et al., 2002; Liu et al.,2O21),we selected 365 research units (including cities,counties,and banners) in the Yellow River Basin as research objects. The spatial vector data were derived from the Resources and Environmental Science Data Center of the Chinese Academy of Sciences (htp://www.resdc.cn). We updated and adjusted these data according to the administrative division. We calculated the output values and yields of various gardens in 2O19 based on the China Rural Statistical Yearbook (National Bureau of Statistics, 2O2Ob). The types and areas of gardens were obtained from the field survey data of land use status in 2O19.Further,the data used to calculate the ratio coeffcient of production and price index were derived from the China Statistical Yearbook (National Bureau of Statistics,2O11,2020a). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Value of one standard EVF (equivalent value factor) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To reflect the current regional situations in the Yellow River Basin and to reduce the confounding effects of price levels and indices of agricultural producers in 2O10 and 2O19, we adjusted the one standard EVF for the grain yield of cropland per unit area in the Yellow River Basin and in China in 2019 (Xie et al.,2O15). The value of one standard EVF in the Yellow River Basin could be derived from the following equation: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { b } = \\mathbf { D } \\times p \\times y = \\mathbf { D } \\times \\frac { P _ { 2 0 1 9 } } { P _ { 2 0 1 0 } } \\times \\frac { Y _ { b 2 0 1 9 } } { Y _ { c 2 0 1 9 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $D _ { b }$ is the value of one standard EVF in the Yellow River Basin in 2O19;D is the value of one standard EVF in China, which is a constant of $3 4 0 6 . 5 0 \\mathrm { C N Y / ( h m } ^ { 2 } { \\cdot } \\mathrm { a } )$ (Xie et al., 2015); $p$ is the price index ratio that is used to correct for food price factors; and $y$ is the average grain yield ratio.In the formula, $P _ { 2 0 1 0 }$ and $P _ { 2 0 1 9 }$ are the agricultural producer price indices of the nine provinces (autonomous regions) in the Yellow River Basin in 201O and 2019,respectively; and $Y _ { b 2 0 1 9 }$ and $Y _ { c 2 0 1 9 }$ are the grain yields per unit area in the Yellow River Basin and in China in 2019 $( { \\mathrm { t / h m } } ^ { 2 } )$ , respectively. Our result showed that the value of one standard EVF in the Yellow River Basin in 2019 was $3 5 8 7 . 0 4 \\mathrm { C N Y / ( h m } ^ { 2 } { \\cdot } \\mathrm { a } )$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4EVFs of garden ecosystem services ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4.1 Fundamental function ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The definition of garden is that the purpose of planting in a garden is to achieve a certain economic value by collecting food or raw materials. Dominated by relatively individual deciduous broad-leaved tree species,gardens have a high canopy coverage and developed root systems. Some services of gardens such as gas regulation, climate regulation, environmental purification,and soil conservation,are similar to those of forests,but unlike forests,there are few herbaceous plants in gardens. Garden ecosystem is greatly affected by human activities such as irrigation, fertilization,and elimination of pests and diseases,which could increase or decrease the service values of garden ecosystem to some extent. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The EVFs represent the potential contribution factors of ecosystems in term of service values, which are positively correlated with the biomass of ecosystems in general (Xie et al.,2Oo3,2015). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Based on the definition of garden and the ecological service characteristics of garden ecosystem, we assumed that the EVF of the $k ^ { \\mathrm { { t h } } }$ ecosystem service of gardens could have functional relationships with the same ecosystem service of other ecosystems such as forests,croplands, grasslands,etc. Theoretically, if the relative contribution of gardens and other ecosystems were scientifically measured, the EVFs of gardens could be accurately calculated using the following equation: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { g k } = f ( F _ { 1 k } , F _ { 2 k } , \\cdots , F _ { e k } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $F _ { g k }$ (in which $g$ represents the garden ecosystem) is the EVF of the $k ^ { \\mathrm { { t h } } }$ ecosystem service of garden ecosystem; and $F _ { e k }$ is the EVF of the $k ^ { \\mathrm { { t h } } }$ ecosystem service in the $e ^ { \\mathrm { t h } }$ ecosystem (such as forests, croplands,grasslands,etc.) (Xie et al., 2015). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4.2 Food production service value of gardens ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Food production service value per unit area is regarded as the basic value for the assessment of ecosystem services. The economic value of gardens mainly depends on the yield of fruits,i.e., food production capacity. The definition of EVF shows that the ESV of food production is proportional to the food production capacity of the ecosystem. Comparing the economic output value of gardens per unit area with that of croplands per unit area in the Yellow River Basin, the relationship of the EVFs between gardens and croplands can be described by the following equation: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { G p } = F _ { p } \\times \\frac { V _ { G m } } { V _ { C m } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $F _ { G p }$ is the EVF of food production service value of garden ecosystem $( \\mathbf { C N Y } / ( \\mathbf { h m ^ { 2 } { \\cdot } } \\mathbf { a } ) )$ · $F _ { p }$ is the EVF of food production service value of croplands $( \\mathbf { C N Y } / ( \\mathbf { h m ^ { 2 } { \\cdot } } \\mathbf { a } ) )$ ： $V _ { G m }$ is the output value of gardens per unit area in 2019 (CNY); and $V _ { C m }$ is the output value of croplands per unit area in 2019 (CNY). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5Spatial autocorrelation analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The spatial autocorrelation analysis method was used to reveal the spatial correlation and agglomeration characteristics of the ESVs of gardens in the Yellow River Basin. We calculated the global spatial autocorrelation index (Moran's $I$ ）according to the following equation ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { M o r a n } } ^ { \\prime } { \\mathrm { s } } I = { \\frac { n { \\displaystyle \\sum _ { i = 1 } ^ { n } \\sum _ { j = 1 } ^ { n } } w _ { i j } ( x _ { i } - { \\overline { { x } } } ) ( x _ { j } - { \\overline { { x } } } ) } { \\left( { \\displaystyle \\sum _ { i = 1 } ^ { n } \\sum _ { j = 1 } ^ { n } } w _ { i j } \\right) { \\displaystyle \\sum _ { i = 1 } ^ { n } } ( x _ { i } - { \\overline { { x } } } ) ^ { 2 } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where Moran's $I$ is the spatial autocorrelation index of the ESVs of gardens; $n$ is the number of basic research units in the study area $\\scriptstyle ( n = 3 6 5$ in this study); $x _ { i }$ and $x _ { j }$ are the annual ESVs of gardens in research units $i$ and $j$ (CNY/a), respectively; $\\textstyle { \\overline { { x } } }$ is the average annual ESV of gardens (CNY/a); and $w _ { i j }$ is the spatial weight matrix,representing the adjacency relationship between the $i ^ { \\mathrm { t h } }$ and $j ^ { \\mathrm { t h } }$ research units. The Queen algorithm was used to determine the adjacency relationship. When the research units are adjacent in space,the adjacency relationship value is 1,and when the research units are not adjacent, the value is O. The range of the global spatial autocorrelation index (Moran's $\\boldsymbol { { \\cal I } }$ isfrom $- 1 . 0 0 0$ to 1.0oo.A value of Moran's $I$ higher than zero indicates that the spatial distribution of the ESVs of gardens is positively correlated, that is,high values are adjacent to high values or low values are adjacent to low values,and the ESVs of each research unit are spatially clustered. Meanwhile,a value of Moran's $I$ lower than zero means that the spatial distribution of the ESVs of gardens is negatively correlated, that is,high values are adjacent to low values or vice versa, and the ESVs of each research unit are spatially dispersed. A value of Moran's $I$ equals to zero indicates that there is no spatial autocorrelation of research units,and the ESVs of each research unit follow a random spatial distribution. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1 EVFs of garden ecosystem in the Yellow River Basin ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "By referring to previously published methods (Chen and Wu, 2O11; Tian and Wang, 2011; Tian and Liu, 2014) and comparing garden ecosystem with other ecosystems, we obtained the EVFs of garden ecosystem in the Yellow River Basin (Table 1). The EVFs in Table1 represented the standardized value of various ecosystem services provided by different gardens,which were multiples of the one standard EVF.When $\\mathrm { E V F } { = } 1 . 0 0$ , the value of such ecosystem service of such garden was $3 5 8 7 . 0 4 ~ \\mathrm { C N Y / ( h m ^ { 2 } { \\cdot } a ) }$ .It clearly shows that garden ecosystem generally had high ESVs,especially in terms of the ESV of food production,and the ESV of food production of gardens was much higher that of croplands. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/917359f2fc8e081d9d226f02cadc814712428f089f33cb85d0ec2650370c16e0.jpg",
+        "table_caption": [
+            "Table1Equivalent value factors (EVFs)of garden ecosystem for diferent garden types in the Yellow River Basin in 2019 "
+        ],
+        "table_footnote": [
+            "Note:\\*,values were calculated using Equation 3;\\*\\*,values were obtained from the studyof Xie et al.(2015). "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\" colspan=\"2\">Ecosystem services</td><td colspan=\"3\">EVFs</td></tr><tr><td>Orchard</td><td>Tea garden</td><td>Other garden types</td></tr><tr><td rowspan=\"4\">Provisioning services</td><td>Food production*</td><td>6.03</td><td>4.92</td><td>5.31</td></tr><tr><td>Raw materials**</td><td>0.66</td><td>0.43</td><td>0.66</td></tr><tr><td>Water supply**</td><td>0.02</td><td>0.02</td><td>0.02</td></tr><tr><td>Gas regulation**</td><td>1.66</td><td>0.90</td><td>1.66</td></tr><tr><td rowspan=\"5\">Supporting services</td><td>Climate regulation** Environmental</td><td>5.16</td><td>2.89</td><td>5.16</td></tr><tr><td>purification**</td><td>1.49</td><td>0.84</td><td>1.49</td></tr><tr><td>Water regulation**</td><td>3.76</td><td>2.37</td><td>4.74</td></tr><tr><td>Soil conservation**</td><td>2.03</td><td>1.10</td><td>2.03</td></tr><tr><td>Nutrient cycling**</td><td>0.15</td><td>0.08</td><td>0.15</td></tr><tr><td></td><td>Biodiversity**</td><td>1.85</td><td>1.01</td><td>1.85</td></tr><tr><td>Cultural services</td><td>Aesthetic landscape**</td><td>1.12</td><td>0.75</td><td>1.12</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2Characteristics and distribution patterns of the ESVs of gardens ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 Quantitative characteristics of the ESVs of gardens ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The results shown in Table 2 indicate that garden ecosystem in the Yelow River Basin could provide an ESV of $1 3 4 8 . 6 6 { \\times } 1 0 ^ { 8 }$ $\\mathrm { C N Y / a }$ ，in which orchard contributed $8 1 . 7 2 \\%$ ，tea garden accounted for $0 . 0 1 \\%$ ，and other garden types contributed $1 8 . 2 6 \\%$ ．Table 2 shows that the regulating service value of garden ecosystem accounted for more than half of the total ESV. It is also evident that the total ESV of other services was higher compared to the ESV of food production. For the ecologically fragile arid and semi-arid areas,regulating services and supporting services are also particularly important. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.2Distribution patterns of the ESVs of gardens ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The distribution of the ESVs of gardens in the Yellow River Basin was extremely uneven. In the 365 research units, the maximum ESV was $4 9 . 0 3 { \\times } 1 0 ^ { 8 } \\mathrm { C N Y / a }$ ,the minimum was $0 . 0 0 \\mathrm { C N Y / a }$ ,and the average was $3 . 6 9 \\times 1 0 ^ { 8 }$ CNY/a. The frequency histogram shows that among the 365 research units in the basin,there were 51 units with the ESVs of $0 . 0 0 { - } 0 . 1 0 { \\times } 1 0 ^ { 8 }$ CNY/a, accounting for $1 3 . 9 7 \\%$ of the total research units (Fig. 2). Most of the ESVs were in the range from $1 . 0 0 \\times 1 0 ^ { 8 }$ to $5 . 0 0 \\times 1 0 ^ { 8 }$ CNY/a,occurring in 99 research units, followed by a small number of research units (67), with the ESVs ranging from $0 . 1 0 \\times 1 0 ^ { 8 }$ to $0 . 5 0 \\times 1 0 ^ { 8 }$ CNY/a. Moreover, there were 73 research units with ESVs of above $1 0 . 0 0 { \\times } 1 0 ^ { 8 } \\mathrm { C N Y / a }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/a677f19b81a6fae0775b15cf0e959de29dba6803750551fd97c52d056b7cad01.jpg",
+        "table_caption": [
+            "Table 2Ecosystem service values (ESVs)of gardens in the Yellow River Basin in 2019 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Ecosystem services</td><td>ESV (×10&CNY/a)</td><td>Percentage (%)</td></tr><tr><td colspan=\"2\">Provisioning services</td><td>370.11</td><td>27.44</td></tr><tr><td rowspan=\"5\"></td><td>Food production</td><td>331.86</td><td>24.61</td></tr><tr><td>Raw materials</td><td>37.12</td><td>2.75</td></tr><tr><td>Water supply</td><td>1.13</td><td>0.08</td></tr><tr><td>Regulating services</td><td>688.89</td><td>51.07</td></tr><tr><td>Gas regulation</td><td>93.37</td><td>6.92</td></tr><tr><td rowspan=\"5\"></td><td>Climate regulation</td><td>290.24</td><td>21.52</td></tr><tr><td>Environmental purification</td><td>83.81</td><td>6.21</td></tr><tr><td>Water regulation</td><td>221.47</td><td>16.42</td></tr><tr><td>Supporting services</td><td>226.66</td><td>16.82</td></tr><tr><td>Soil conservation</td><td>114.17</td><td>8.47</td></tr><tr><td rowspan=\"4\"></td><td>Nutrient cycling</td><td>8.44</td><td>0.63</td></tr><tr><td>Biodiversity</td><td>104.05</td><td>7.72</td></tr><tr><td>Cultural services</td><td>63.00</td><td>4.67</td></tr><tr><td>Aesthetic landscape</td><td>63.00</td><td></td></tr><tr><td>Total</td><td></td><td>1348.66</td><td>4.67 100.00</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 shows the spatial distribution of the ESVs of gardens in the Yellow River Basin.The higher ESVs were mainly observed along rivers in the basin and were concentrated in four regions. The first region (I) was downstream in the Shandong-Henan zone along the Yellow River, extending from Mianchi County in Henan to the Yellow River estuary. This region was in a semi-humid area, where all research units had a certain area of gardens, among which the ESVs of five research units exceeded $1 0 . 0 0 { \\times } 1 0 ^ { 8 } \\mathrm { C N Y / a }$ . In this region, the Dawen River tributary basin in Shandong exhibited the most concentrated ESVs. The second region (II) was mid-stream in the Shanxi-Shaanxi zone along the Yellow River,extending from Fugu County of Shaanxi in the north to Danfeng County of Henan in the south. This region demonstrated the most concentrated ESVs in the Yellow River Basin. The ESVs of 31 research units in the basin were greater than $1 0 . 0 0 \\times 1 0 ^ { 8 }$ CNY/a. The total ESV in Linqi County was $4 9 . 0 3 \\times 1 0 ^ { 8 }$ CNY/a, which was the highest among all research units in the Yellow River Basin, followed by Liquan County and Hancheng City in Shaanxi，with the ESVs of $4 3 . 6 3 \\times 1 0 ^ { 8 }$ and $3 8 . 6 2 \\times 1 0 ^ { 8 }$ CNY/a, respectively. The third region (II) was the Weihe River Basin, extending from the west of Li County in Gansu to the middle of Shaanxi. There were three research units in this region,with the ESVs of higher than $1 0 . 0 0 \\times 1 0 ^ { 8 }$ CNY/a. The fourth region (IV) was upstream in the Qinghai-Gansu-Ningxia-Mongolia Zone along the Yellw River, extending from Xinghai County of Qinghai in the west to Urad Front Banner of Inner Mongolia in the northeast. This region was located in arid and semi-arid areas, where only one research unit had an ESV exceeding $1 0 . 0 0 { \\times } 1 0 ^ { 8 } \\mathrm { C N Y / a }$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To avoid confounding effects due to variations in the total area of research units,we calculated the ESVs of gardens per unit area for each research unit. Figure 4 displays the ESVs of gardens per unit area in the research units in the Yellow River Basin. The result shows that the spatial distribution of the ESVs of gardens per unit area was much more concentrated. Among them, the highest ESV of gardens per unit area was found in Liquan County,at $4 . 2 2 \\times 1 0 ^ { 4 }$ CNY/ $( \\mathrm { h } \\mathrm { m } ^ { 2 } { \\cdot } \\mathrm { a } )$ ， followed by Linqi City and Hancheng City, at $3 . 6 1 \\times 1 0 ^ { 4 }$ and $2 . 4 5 { \\times } 1 0 ^ { 4 } \\mathrm { C N Y } / ( \\mathrm { h m } ^ { 2 } { \\cdot } \\mathrm { a } )$ , respectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The spatial distribution of the ESVs of gardens was affected by topography, climate,and water resources.The ESVs of gardens were significantly higher in the first and second ladders than in the third ladder and were more extensive in humid and semi-humid areas than in semi-arid and arid areas. Further, the ESVs of gardens were relatively concentrated along the Yellow River and its tributaries. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8bdcc8c186f719497febe70637149a5971ab06e6c80e7e9310f879558a48cbd0.jpg",
+        "img_caption": [
+            "Fig.2Frequency histogram of the ecosystem service values (ESVs)of gardens in the Yelow River Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6a3dfba50e50e264be23a99647412e9ea4f3d83d3113645b572fb7918e0603f.jpg",
+        "img_caption": [
+            "Fig.3Histogram (a)and spatial distribution(b)of theESVsof gardens in the Yellow River Basin.I,I1,II,and IV represent four regions in terms of the ESVs in the Yellow River Basin. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/73c95269494846935f7c65b3ef231acffbd15977382919b83cfc5cd298f74251.jpg",
+        "img_caption": [
+            "Fig.4Histogram (a) and spatial distribution (b)of theESVs of gardens per unit area in the Yellow River Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2.3Spatial autocorrelation characteristics ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Spatial autocorrelation analysis was used to analyze the distribution characteristics of the ESVs of gardens in the basin. Figure 5 shows that the spatial correlation of the ESVs of gardens in the basin was significant (Moran's $I \\colon 0 . 4 6 4 \\rangle$ ,as calculated by Equation 4,and high values adjacent to high values were apparent in the spatial distribution. In the upper reaches of the Yellow River and in the northern part of the Yellow River Basin,low ESVs were adjacent to low values,and the high ESVs were concentrated in the middle and lower reaches of the river (Fig. 6). ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/27a23a0dc1c0ebd42da2bd6f0db3f29f45d08aa52698db003152a68aa7c5934e.jpg",
+        "img_caption": [
+            "Fig.5Spatial autocorrelation of the ESVs of gardens in the Yellow River Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/29f554685a173cdf91bf078337bcfebbc959c3288e6e601b2403ac688e5c24f4.jpg",
+        "img_caption": [
+            "Fig.6Agglomeration features of the ESVs of gardens in the Yellow River Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Gardens are usually classified into forests in the evaluation of ecosystem services (Li et al., 2016b; Song and Deng,2O17),and few studies have been done on the ESVs of gardens. As the result of ecosystem service classification system (Constanza et al.,1997; Millennium Ecosystem Assessment, 20o5; Kumar, 2010; European Environment Agency,2O22),along with differences in methods adopted by researchers,time of the evaluation, and subjective cognition of evaluators (Xue et al.,2018),assessment results for the ESVs of garden ecosystem and forest ecosystem may vary greatly among different studies (Table 3). This paper objectively reflects the essential characteristics of the ESVs of gardens,and the evaluation results are also within a reasonable range.Therefore,the findings of this paper would be a useful supplement to previous studies of the ESVs of garden ecosystem. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Compared with the total ESV of gardens,the ESVs of gardens per unit area could more accurately describe the spatial distribution of the ESVs of gardens in the Yellow River Basin.The ESVs of gardens were more concentrated in humid and semi-humid areas with abundant precipitation and less distributed in semi-arid and arid areas with scarce precipitation, while there was an aggregation of the ESVs along the rivers where water resources were abundant. These results are consistent with previous studies of Li et al. (2O16a) and Liu et al. (2O21） on the ecosystem services in the Yellow River Basin at the county level. In addition,economic and social development also had a certain impact on the distribution of the ESVs of gardens,and the contribution of the ESVs of gardens to the economy and society varied from region to region. The ESVs of gardens were found to be more important for areas with fragile ecological environment and relatively undeveloped economy. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/6120558b5fdb1bbb93a64ca8f4c09dc8aad1054ff44f987d1e278a5fc574f151.jpg",
+        "table_caption": [
+            "Table 3Evaluation results for the ESVs of garden ecosystem and forest ecosystem in sample projects "
+        ],
+        "table_footnote": [
+            "Note:\\*alueswereobtainedonthebasisoftheexchangerateinthecurrentyar.REDD,ReducingEmisionsfromDeforestatioand Forest Degradation. "
+        ],
+        "table_body": "<html><body><table><tr><td>Reference</td><td>Year</td><td>Study area</td><td>Ecosystem</td><td>ESV (x104 CNY/(hm2-a))</td></tr><tr><td>Cos(19za et al.</td><td>1997</td><td>Global region</td><td>Forest</td><td>1.02</td></tr><tr><td>Costanz4 et al.</td><td>2010</td><td>Global region</td><td>Forest</td><td>2.89</td></tr><tr><td rowspan=\"2\">de Gr012et al.</td><td rowspan=\"2\">2012</td><td rowspan=\"2\">Global region</td><td>Tropical forest</td><td>3.33</td></tr><tr><td>Temperate forest</td><td>1.91</td></tr><tr><td rowspan=\"2\">Xie et al. (2003)</td><td rowspan=\"2\">2002</td><td rowspan=\"2\">Tibetan Plateau, China</td><td>Woodland</td><td>1.01</td></tr><tr><td>Forest</td><td>1.93</td></tr><tr><td>Xie et al. (2015)</td><td>2010</td><td>China</td><td>Coniferous forest</td><td>5.97</td></tr><tr><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td>Coniferous broad-leaved mixed forest</td><td>7.87</td></tr><tr><td>Broad-leaved forest</td><td>7.82</td></tr><tr><td>Forest in REDD countries</td><td>11.52</td></tr><tr><td>Ojea et al. (2016) *</td><td>2014</td><td>Global region</td><td>Forest in non-REDD countries</td><td>2.65</td></tr><tr><td rowspan=\"2\">Cao et al. (2018)</td><td rowspan=\"2\">2014</td><td rowspan=\"2\">China</td><td>Artificial forest</td><td>4.60</td></tr><tr><td>Natural Forest</td><td>4.32</td></tr><tr><td>Qian et al. (2020)</td><td>2015</td><td>The southern slope of Qilian Mountains, China</td><td>Forest</td><td>1.70</td></tr><tr><td>Xue et al. (2018)</td><td>2015</td><td>China</td><td>Forest</td><td>8.88</td></tr><tr><td rowspan=\"2\">Grammatikopoulou and Vackarova (2021)*</td><td rowspan=\"2\">2016</td><td rowspan=\"2\">Europe</td><td>Mediterranean forest</td><td>0.23</td></tr><tr><td>Temperate broad-leaved&mixed forest</td><td>0.08</td></tr><tr><td rowspan=\"2\">Hu et al. (2021)</td><td rowspan=\"2\">2018</td><td rowspan=\"2\"> Xishuangbanna,</td><td>Temperate conifer forest</td><td>0.84</td></tr><tr><td>Tea garden</td><td>1.46</td></tr><tr><td rowspan=\"3\">This study</td><td rowspan=\"3\"></td><td rowspan=\"3\">China</td><td>Forest</td><td>2.20</td></tr><tr><td>Orchard</td><td>8.58</td></tr><tr><td>Tea garden</td><td>5.49</td></tr><tr><td></td><td>2019</td><td>YRB, China</td><td>Other garden types</td><td>8.68</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "To sum up, garden ecosystem generally has high ESVs,and relevant measures should be taken to protect and develop this ecosystem appropriately. In areas with concentrated distributions of the ESVs,gardens should be developed in terms of the current situation of garden planting and local advantages,and excessive felling should be strictly prohibited.In the northwest of the Yellow River Basin where the ESVs of gardens were low, the development of gardens should be moderately encouraged to protect the local fragile ecological environment and contribute to poverty alleviation. Gardens should be included in the new round of territory spatial planning,and the regional objectives of garden protection and rational utilization should be put forward. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The evaluation of the ESVs of gardens in the Yellow River Basin is a meaningful endeavor that is worthy of study from different angles.Future work should adopt more methods and be carried out over longer periods of time.Further research is neded to reveal the trends in the development of the ESVs of gardens in the Yellow River Basin and provide policy guidance for the protection and utilization of local ecosystems. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Based on the high-resolution land survey and statistic data,this paper studied the ESVs of gardens in the Yellow River Basin in 2O19.Results show that garden ecosystem had high ESVs, with the total value of $1 3 4 8 . 6 6 \\times 1 0 ^ { 8 }$ CNY/a. Food production was an important service function of garden ecosystem, with the ESV reaching up to $3 3 1 . 8 6 \\times 1 0 ^ { 8 }$ CNY/a. The most concentrated areas with high ESVs were mainly located downstream in the Shandong-Henan zone along the Yellow River, mid-stream in the Shanxi-Shaanxi zone along the Yellow River， upstream of the Qinghai-Gansu-Ningxia-Mongolia zone along the Yellow River, and in the Weihe River Basin. Furthermore,the contribution of the ESVs of gardens to the local environment and social economy was also different from region to region. In conclusion, the findings of this study can contribute to the research of ecosystem service evaluation, and the recommendations we proposed are helpful for policy decisions to promote the construction of ecological civilization in the Yellow River Basin. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This study was supported by the Territorial Spatial Planning Institute of Shandong Province, China (Study on the Use and Protection of Ecological Land in Shandong Province）and the National Social Science Foundation of China (12BJY058). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "An G Q,Huang HH,Liu Z,et al.2022Research progresson landuse and ecosystem service value asessment in China. Journal of University of Jinan (Science and Technology),36(1):28-37.(in Chinese)   \nBaumgirtner J，Bieri M.2006.Fruit treeecosystem service provisionandenhancement.Ecological Engineering,27(2): 118-123.   \nBoumansR,Roman J,AltmanI,etal.2O15.The multi-scale integrated modelof ecosystem services (MMES): Simulatingthe interactions of coupled human and natural systems.Ecosystem services,12:30-41.   \nCalvet-MirLGomez-BaggethunE,Reyes-Garcia V.2012.Beyondfoodproduction:Ecosystemservices providedby home gardens.Acase study in VallFosca,Catalan Pyrenees,Northeastern Spain.Ecological Economics,74:153-160.   \nCao SX,LiuYJ,Su W,et al.2O18.Thenet ecosystemservicesvalue in mainland China.Scientia Sinica Terrae,48(3): 331-339.(in Chinese)   \nChen J,WuDW.2O11Service value asessmentof orchard ecosystem:AcaseofPutian CityofFujian.Chinese Journalof Applied Ecology,22(9): 2399-2404.(in Chinese)   \nCiliersSS,SiebertSJ,DuToitMJ,etal.2018.GardenecosystemservicesofSub-SaharanAfricaandtheroleofhealthclinic gardens as social-ecological systems.Landscape and Urban Planning,18O: 294-307.   \nCostanzaR,d'ArgeR,deGrootR,etal.997.Thevalueoftheworld'secosystemservicsandnaturalcapital.Nature,8(5): 253-260.   \nCostanzaR,de GrootR,Sutton P,etal.2O14.Changes in theglobal valueof ecosystemservices.Global Environmental Change,26:152-158.   \nCostanza R,de GrootR,BratL,etal.2O17.Twenty years of ecosystemservices: howfar have wecome and howfar do we still need to go?Ecosystem Services,28:1-16.   \nDaily GC.1997.Nature'sServices: SocietalDependenceon Natural Ecosystems.Washington,DC:slandPress,20-221.   \nde GrootR,BranderL,vanderPleg S,etal.2Ol2.Global estimatesof thevalueofecosystemsandtheirservices inmonetary units.Ecosystem Services,1: 50-61.   \nEuropea Environment Agency.2022.CICES towards acommon clasification of ecosystem services: Structure of CICES. [2022-02-20]. https://cices.eu/cices-structure/.   \nFu B J, Zhang L W.2014.Land-usechange andecosystem services: Concepts,methods,and progres.Progressi Geography, 33(4): 441-446.(in Chinese) Standardization Administration ot the People's Kepublic ot China (SAC).2Ul/.Current Land UseClasstication(GB/1 21010-2017).Beijing: Standards Press of China,2-3.(in Chinese)   \nGong SH,XiaoY,XiaoY,etal.Ol7.rivingforcesandtheireffectsonwaterconservationservices infrestecosytemsin China. Chinese Geographical Science,27(2): 216-228.   \nGrammatikopoulou I,Vackarova D.2O21.Thevalueof forest ecosystem services: Ameta-analysis atthe European scale and application to national ecosystem accounting.Ecosystem Services,48:101262,doi:10.1016/j.ecoser.2021.101262.   \nGu JH,Xue HZ,Dong GT,et al.2021.Efectsof NDVI/land-useon spatiotemporal changesof evapotranspiration in the Yellow River Basin.Arid Land Geography,44(1): 158-167.(in Chinese)   \nHu Z N,Yang X,Yang JJ,et al.2O21.Linking landscape patern,ecosystem servicevalue,and human wel-being in Xishuangbanna,southwest China: Insights from a coupling coordination model. Global Ecologyand Conservation,27: e01583,doi: 10.1016/j.gecco.2021.e01583.   \nKumar P.2010.The Economics of Ecosystemsand Biodiversity:Ecological and Economic Foundations.Londonand Washington: Earthscan,189-196.   \nLabiosa WB,Forey WM,EsnardAM,etal.2Ol3.Anintegrated multi-criteriascenarioevaluationwebtolforparticpatory land-use planning inurbanized areas: The ecosystem portfolio model.Environmental Modeling & Software,41: 210-222.   \nLi G D,Fang CL, Wang SJ.2016a.Exploring spatiotemporal changes in ecosystem-service values and hotspots in China. Science of the Total Environment,546: 609-620.   \nLi Q,Wen WJ,Wang XJ.2O16b.Keyisues forthedevelopmentof a forest ecological compensation mechanism.Acta Ecologica Sinica,36(6): 1481-1490.(in Chinese)   \nLin B,Egerer M.2019.Global social and environmental change drives the management and deliveryof ecosystemservices from urban gardens: Acase study from central coast, California. Global Environmental Change,6O:1-10.   \nLiu JJ，Wang J，Dai JW,et al.2O21.Therelationship between supplyand demandof ecosystem servicesand its spatio-temporal variation in the Yelow River Basin.Journal of Natural Resources,36(1):148-161. (in Chinese)   \nMcCauley DJ.2006. Selling out on nature.Nature,443: 27-28.   \nMilenniumEcosystemAsessment.2005.Ecosystemsandhumanwellbeing:Synthesis.[2021-12-20]. http://www.Millenniumassessment.org/en/index.html.   \nMinistry of Natural Resources of thePeople's Republicof China(MNR).2O21.Communique of main data of the third round national land survey.[2021-08-25].htp://www.mnr.gov.cn/dt/ywbb/202108/t20210826_2678340.html. (inChinese)   \nNationalBureauof Statistics.2011．China Statistical Yearbook．Beijing:ChinaStatisticsPress．[2021-12-20] http://www.stats.gov.cn/tjsj/ndsj/2011/indexch.htm. (in Chinese)   \nNationalBureau of Statistics.2020a.China Statistical Yearbook．Beijing:China StatisticsPress.[2021-12-20] http://www.stats.gov.cn/tjsj/ndsj/2020/indexch.htm. (in Chinese)   \nNational BureauofStatistics.202ob.ChinaRural StatisticalYearbook.Beijing:ChinaStatistics Pres,111-240.(inChinese)   \nNelson E,Mendoza G,RegetzJ,etal.2Oo9.Modeling multiple ecosystem services,biodiversityconservation,commodity production,and tradeoffs at landscape scales.Frontiers in Ecology and the Environment,7(1): 4-11.   \nOjea E,LoureiroML,All6 M,etal.2016.Ecosystem services and REDD:estimating the benefitsof non-carbonservices in worldwide forests.World Development,78: 246-261.   \nQian D W,CaoGM,DuYG,etal.2020.Spatio-temporal dynamics of ecosystemservicevalue inthe southernslopeof Qilian Mountain from 2000 to 2015.Acta Ecologica Sinca,40(4): 1392-1404.(in Chinese)   \nQu YB,Zhao YY,Ding GDet al.2021.Spatiotemporal patternsofthe forage-livestockbalance inthe Xilin Gol steppe, China: implications for sustainably utilizing grassand-ecosystem services.Journal of Arid Land,13(2):135-151.   \nSong W,Deng X Z.2017.Land-use/land-cover change and ecosystem service provision in China.Scienceof the Total Environment,576: 705-719.   \nTerradoM,SbaterS,Chaplin-KramerB,etal.O16.Modeldevelopmentfortheassessmentof terrstrialandaquatichabitat quality in conservation planning. Science of the Total Environment,540: 63-70.   \nThompson SCG，Barton MA.1994.Ecocentric and anthropocentric atitudes toward the environment.Journal of Environmental Psychology,14(2): 149-157.   \nTianZH,Wang YN.20l1.Eco-economic value of soil conservation service of orchard ecosystems in Beijing mountainous area: A case study of orchard in Pinggu districtof Beijing.Scientia Silvae Sinicae,47(12):165-171. (in Chinese)   \nTian ZH,LiuRH.20l4.Theeco-economic valueof gasregulation serviceof orchard ecosystems inBeijing mountainous area: Acase study of orchard in Pinggu district of Beijing.Ecological Economy,30(11):165-169.(in Chinese)   \nVill F,Athanasiadis IN,RizzoliAE.2O09.Modelling with knowledge:Areview of emerging semanticapproachesto environmental modelling.Environmental Modelling & Software,24(5):577-587.   \nWangJH,LuXG,JiangM.2Oo7.Evaluatioof ecosystem servicesofparkof NanhuLakein Changchun City,China.Wetland Science,5(2):159-165.(in Chinese)   \nWillemen L,Crossman ND,NewsomD,etal.2019.Aggregate efectsonecosystemservices fromcertificationoftea farming in the Upper Tana River Basin,Kenya.Ecosystem Services,38:10096,doi:10.1016/j.ecoser.2019.100962.   \nXieGD,LuCX,LengYF,etal.2Oo.EcologicalasstsvaluationoftheTbetanPlateau.JouralofNaturalResources,18(2): 189-196.(in Chinese)   \nXieGD,Xiao Y.20l3.Review of agro-ecosystem services and their values.Chinese Journal of Eco-Agriculture,21(6): 645-651.(in Chinese)   \nXie GD,Zhang CX,ZhangLM,et al.2O15.Improvementofthe evaluation methodforecosystem service value based on per unit area. Journal of Natural Resources,30(8): 1243-1254.(in Chinese)   \nXie GD,ZhangCX,ZhenL,etal.2O17.Dynamicchanges inthevalueofChina's ecosystemservices.Ecosystem Services,26: 146-154.   \nXin ZH,LiC,LiuHX,etal.2O18.Evaluationof temporalandspatial ecosystemservicesiDalian,China:Implicatios for urban planning. Sustainability,10(4):1247,doi:10.3390/su10041247.   \nXue M G, XingL,Wang XY.2018.Spatialcorectionand evaluationof ecosystem services inChina.China Land Science, 32(9): 81-88.(in Chinese)   \nYang S T,Liu CM,Sun R.2O02.The vegetation coverover last 20 years in Yelow River Basin.Acta Geographica Sinica, 57(6): 679-684.(in Chinese)   \nYu Y,Chen X,Hutner P,et al.2O18.Modelbased decision support system for land usechangesand socio-economic assessments.Journal of Arid Land,10(2): 169-182.   \nZhang H,SunJ,DengW,etal.O.Ecosystemhealth:Assessmentframework,spatialevolution,andregioalotizatioin Southwest China. Chinese Geographical Science,30(1):142-156. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

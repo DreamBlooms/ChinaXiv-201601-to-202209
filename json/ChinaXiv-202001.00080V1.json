@@ -1,0 +1,326 @@
+[
+    {
+        "type": "text",
+        "text": "反馈相关负波与成瘾",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈乐乐 黄蓉 贾世伟山东师范大学心理学院，济南250358",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要反馈相关负波（fedback-related negativity,FRN）是反馈加工诱发的脑电成分，体现了个体对奖赏的敏感性。成瘾分为物质成瘾和行为成瘾，两类个体的反馈加工都呈现病理性模式。相对于普通反馈物（如金钱），物质成瘾个体在加工成瘾物质时诱发的FRN 波幅显著增大；在与非成瘾被试的对照研究中，物质成瘾者加工金钱反馈时的FRN也表现出与成瘾相关的异常模式；在行为成瘾个体中亦观察到与物质成瘾个体类似的FRN失调现象。但以往多数研究中对成瘾类型的区分还不够详细，未来研究应进一步考虑成瘾不同亚型的特点；且成瘾个体往往伴随其他精神障碍（如抑郁、焦虑），将来的研究要区分共病因素的影响，揭示成瘾独特的奖赏加工机制问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 反馈相关负波；物质成瘾；行为成瘾；强化学习；奖赏机制分类号 B842",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "成瘾，在过去很长一段时间内被认为是道德低下和意志力薄弱的表现，随着临床心理和精神医学等相关学科的发展，人们逐渐意识到成瘾主要是由成瘾物质摄入导致的以慢性脑部病变为基础的一组精神障碍（Leshner,1997）。成瘾物质又称为精神活性物质（psychoactive substances）或物质（substance），包括酒精、苯丙胺类药物、大麻、可卡因、尼古丁、阿片类物质、氯胺酮等。由摄入成瘾物质导致的成瘾障碍也称为物质成瘾（Ahmed,2005）。后来的实践过程中发现在没有外源性物质摄入的情况下，某些环境刺激也可以使个体出现类似于物质成瘾的耐受、戒断等临床症状，由此提出了“非物质成瘾”或“行为成瘾”的概念（Petry,2006）。近年来关于“行为成瘾”的争论颇多，争议的焦点主要集中于“网络成瘾”或“游戏成瘾”是正常的行为模式还是精神障碍，如果是精神障碍，是否应该划入成瘾条目下（Kuss&Lopez-Fernandez,2016; Quandt,2017; van Rooij etal.,2018）。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "困扰成瘾研究的一个问题是缺乏成瘾的客观评估标准。这个问题既制约了临床实践，也限制了理论研究。在临床干预过程中，精神医师或咨询师主要依靠成瘾者主诉、他人的主观报告、临床观察和心理量表等来诊断以及制定治疗方案。如果有更客观的生理指标，有助于在成瘾者的生物易感性筛查、功能损害评估等方面更切实的掌握成瘾个体的具体情况，制定具有个性化的治疗或干预方案，提高治疗效果。另一方面，关于“行为成瘾”概念争论不休的原因之一就在于缺乏客观脑生理性指标，过于依赖行为观察和问卷测量，使得症状标准和研究对象模糊不清（Quandt,2017）。因此，寻找成瘾的客观脑生理指标，具备理论和实践的双重价值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在脑电生理研究中，反馈相关负波（feedback-related negativity,FRN）被应用于包括成瘾在内的多种精神病理研究。FRN对反馈效价高度敏感，反映了奖赏敏感性（Proudfit,2015），在成瘾相关研究中已经初步显露出应用价值，且有望成为成瘾的临床评估指标。本文对以FRN研究成瘾的认知神经机制的相关文献进行梳理，试图阐明成瘾个体奖赏系统损害与异常FRN间的内在关系。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1成瘾与强化学习",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "成瘾的一个显著特点就是个体对成瘾相关物质（或行为）失去控制的冲动性或强迫性使用，Koob 和LeMoal（2005）认为个体从对物质偶尔的娱乐性使用演变为成瘾障碍经历了三个典型阶段：愉悦一戒断一渴求，在此过程中正强化与负强化机制均起到了重要作用。如图1所示，几乎所有的成瘾物质或行为都可以直接或间接作用于中脑腹侧被盖区（theventral tegmental area,VTA），提高多巴胺（dopamine,DA）神经元的兴奋性，从而激活奖赏环路产生“超自然”的愉悦感（Ikemoto&Bonci,2014），在成瘾行为与兴奋体验之间建立起深刻的联结，起到强大的正强化作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "另一方面，负强化在成瘾行为的形成与维持中亦起到了不容忽视的作用。一种情况是，随着反复使用成瘾物质，个体需要不断加大使用剂量或改变摄入方式才能达到最初的愉悦体验，即出现耐受现象；若此阶段停止对成瘾物质的使用造成脑内药物水平的突然下降，引起适应性反跳，个体出现恶心、震颤、痉挛疼痛等与所用成瘾物质药理作用相反的症状，即戒断状态，迫使个体重新使用成瘾物质以消除令人不适的戒断症状（Koob,2013），这是最为强烈的负强化作用。另一种情况是，有研究认为对负性情绪的逃避是个体使用成瘾物质的重要原因（Baker,Piper,McCarthy,Majeskie,&Fiore,2004）。如“奖赏缺乏综合征”模型认为部分个体低唤醒水平的中脑DA系统是发展为成瘾的潜在生物基础。这种类型的个体奖赏系统张力较低，需要不断的环境刺激来维持奖赏系统的正常水平。摄入成瘾物质或参与赌博、过度使用网络等行为均是为了补偿中脑边缘DA通路中衰退的奖赏信号（Blumetal.,2000）。这种情况下，负强化在成瘾行为的形成中起到重要作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在正强化和负强化的交替作用下，个体的奖赏系统逐渐被成瘾物质所“劫持”，个体对成瘾物质有更高的激励性动机（incentive motivation），成瘾物质对个体的奖赏价值增加。“诱因-易感化理论”提出了神经敏化的概念来解释这种现象，即成瘾物质的使用造成了人脑，尤其是奖赏系统的结构和功能病理性改变，使得个体对成瘾物质及相关线索的敏感性增加，同时降低了对自然奖赏物的敏感性（Robinson＆Berridge,1993）。该理论也得到了后续研究的支持。例如，研究发现成瘾个体存在异常的奖赏加工模式，包括对非成瘾物质奖赏敏感性降低（Nestor,Hester,&Garavan,2010），加工金钱奖赏时对奖赏幅度变化的敏感性下降（Goldstein et al.,2007;Goldstein etal.,2008），同时对损失变得反应迟钝（Redish, Jensen,& Johnson,2008）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b5d5463700c42ee36ac310c13ce3656dc0d4d08be93122128a7b1b3b58b5923.jpg",
+        "img_caption": [
+            "图1成瘾、中脑多巴胺系统与FRN示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "注：成瘾物质摄入后作用于中脑多巴胺系统，增加中脑腹侧被盖区（the ventraltegmental area, VTA）中多巴胺神经元冲动，使前扣带回（anterior cingulate cortex,ACC）及伏隔核（nucleus accumben,NAc）中多巴胺水平增加产生快感，带来强化效应，同时造成FRN失调。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2FRN与奖赏系统",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "反馈相关负波，又称为反馈负波（feedbacknegativity,FN）、反馈错误相关负波（feedback error-related negativity,fERN）、奖赏正波（reward positivity,RewP）等（Baker,Wood,& Holroyd,2016;Fein& Chang,2008;Parvaz,etal.,2015）。FRN 是反馈刺激呈现后$2 5 0 ~ \\mathrm { m s } { \\sim } 3 0 0 ~ \\mathrm { m s }$ 时间窗口内出现的负成分，负反馈比正反馈诱发更负的FRN。FRN主要分布在在额前中部头皮。源定位与脑成像研究发现FRN的脑内神经发生源位于前扣带回(anterior cingulate cortex,ACC）附近（Gehring & Willoughby,2002; Miltner, Braun,& Coles,1997;李丹阳，李鹏，李红，2018；李鹏，李红，2008）。数据统计的时候，FRN常采用正负反馈条件下的差异波进行取值（Krigolson,2018），亦有研究直接以正反馈和负反馈两种条件下的ERP成分为指标（Lole,Gonsalvez,&Barry,2015）。一般认为FRN反映了个体对反馈结果的评估过程，并对效价因素高度敏感。研究也发现人脑对反馈结果效价的加工遵循“全或无”的二元模式(Yeung& Sanfey,2004; Hajcak,Moser,Holroyd,& Simons,2006）。最初研究者认为FRN反映了人脑对负性反馈的加工过程；随着研究的深入，研究者逐渐发现FRN本质上反映了人脑对奖赏结果而不是损失结果的加工（Proudfit,2015;Holroyd,Pakzad-Vaezi, & Krigolson,2008; Cockburm,& Holroyd, 2018）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在FRN研究中常见的研究范式有简单赌博任务、奖赏预期违背任务、气球模拟风险任务（ballon analogue risk task,BART）、概率反转学习任务、奖赏激励延迟任务等（He etal.,2017; Hixson, Burkhouse,Gorka,& Klumpp,2019; Morie,De Sanctis, Garavan,& Foxe,2016; Torres et al.,2013; Yau,Potenza,Mayes,& Crowley,2015）。在成瘾障碍的研究中以上各种任务范式也常被用到，而反馈物大致分为两类：成瘾物质和普通奖赏物。其中成瘾物质主要使用典型的社交性成瘾物质一烟草（Baker etal.,2017）；普通奖赏物则与传统的FRN 研究一致，主要使用金钱（Kamarajan et al.,2010; Potts,Bloom,Evans,&Drobes,2014），因为金钱作为一种典型的次级强化物对不同状态的个体来说有着大致恒定的奖赏性，且奖赏幅度易于控制，实施方便。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "关于FRN 的理论解释，目前最有影响力的是强化学习理论（thereinforcement learingtheory,RL;Holroyd&Coles,2002）。依据强化学习理论，FRN是一种奖赏预期错误信号（reward prediction error,RPE）。FRN的异常模式反映了奖赏系统的功能失调。奖赏环路是一个复杂的神经网络，主要涉及加工奖赏效价、编码奖赏预期错误、处理奖赏的动机凸显性等功能（Haber＆Knutson,2010）。FRN的重要发生源ACC，作为VTA的多巴胺能投射区之一，在人类的学习活动与行为控制中发挥重要作用（Peoples,2002;Li,Peng,Li,&Holroyd,2018）。根据强化学习理论（Holroyd&Coles,2002），当个体加工的实际反馈结果比预期结果差时，VTA投射至ACC的多巴胺阶段性减少，对ACC 的抑制功能减弱，ACC 呈去抑制状态，由此记录到的ERP成分即为FRN。当个体加工的实际反馈优于预期结果时，则情况正好相反。ACC根据多巴胺的增加或减少（即RPE信号），优化个体的行为以追求最佳结果。而成瘾物质的摄入造成VTA内多巴胺神经元兴奋/抑制模式的紊乱，伴随着RPE信号的失调，接受中脑多巴胺能神经元投射的ACC 也发生了异常改变，从而个体的行为选择机制出现问题，最终趋向以物质使用为中心的行为模式（Peoples,2002）。神经影像学检查的结果与此一致，显示成瘾个体的ACC与健康个体相比，呈现激活水平降低、灰质密度下降等病理性模式（Bolla et al.,2004; Bjork,Momenan,Smith,&Hommer,2008）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3物质成瘾与FRN ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "物质成瘾个体由于成瘾物质的摄入导致脑的功能甚至结构发生了显著的改变，核心症状之一就是加工反馈时的异常模式。已有大量研究发现物质成瘾个体对成瘾物质及相关线索有着异常的高敏感性（Robinson&Berridge,1993），同时也有研究证明了成瘾个体对普通自然奖赏物的加工存在功能损害（Nestor etal.,2010;详见表1）。有研究认为成瘾物质使用导致了个体这种异常的奖赏加工模式，这种异常模式反过来又在维持成瘾个体的成瘾物质使用行为中发挥了重要作用（Koob,2013）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1与成瘾物质有关的异常加工",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如前文所述，由于成瘾物质带来的快感起到了奖赏作用，成瘾个体对成瘾物质及线索有着高度的敏感性。而FRN是人脑加工奖赏反馈的指标，成瘾个体加工成瘾物质比加工普通奖赏物时畸形的高敏感性导致其出现更大的FRN。在一项研究中分别以烟草和金钱作为反馈物，发现在烟草使用者中，烟草反馈条件下诱发的FRN 波幅显著大于金钱条件下，表明实验中烟草有着更高的奖赏价值（Baker etal.,2016）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在随后一项颇具临床意义的研究中，针对物质成瘾个体，研究者采用重复经颅磁刺激（repetitive transcranial magnetic stimulation,rTMS）对上述异常的反馈加工模式进行干预，试图提高物质成瘾者对普通奖赏物（金钱）的奖赏敏感性，同时降低对成瘾物质（烟草)的敏感性。实验中在金钱反馈条件下对左背外侧前额叶皮质（dorsal lateral prefrontal cortex,DLPFC）施加兴奋性刺激，在烟草反馈条件下对DLPFC施加抑制性刺激。结果发现物质成瘾个体的FRN模式发生逆转，即金钱反馈条件下比烟草反馈条件下诱发出更大的FRN，表明成瘾个体对金钱的奖赏敏感性暂时得到提升，烟草的奖赏价值则相应下降。该研究也证明暂时性的临床干预效果即能在FRN上得到体现，与一些长期干预后才能观察到改变的指标相比，FRN可以及时反映治疗效果，在跟踪成瘾个体的干预治疗过程上有着更大的优势（Baker et al.,2017）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "成瘾个体处于戒断状态时往往会产生不受控制的冲动性物质使用行为，原因之一在于使用成瘾物质会消除种种不适的戒断症状，从而起到了强大的负强化作用，推动个体去寻求成瘾物质使用。同时处于戒断状态的成瘾者对成瘾物质的渴求程度显著增加，比正常状态下异常高估成瘾物质的奖赏价值，从而增强了觅药动机。有研究以FRN为指标探索了戒断状态下，个体加工成瘾物质的奖赏敏感性。研究中让烟草成瘾被试8小时内不能使用烟草，以此为戒断状态，并以烟草作为奖赏反馈物让被试执行带有学习性质的类赌博任务，结果发现尽管被试在戒断状态和非戒断状态下行为水平上并无显著差异，但在戒断状态下由烟草相关刺激诱发的FRN显著大于非戒断状态下，且被试的主观渴求程度与FRN 波幅大小显著正相关（Munoz,Anllo-Vento,del Carmen Fernandez,Montoya,& Vila,2012）。该研究表明戒断期间个体对成瘾物质的异常加工模式得到放大。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2与普通奖赏物有关的异常加工",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "物质成瘾者对成瘾物质及相关线索有着异常的加工模式，很多研究者也关注成瘾个体对自然奖赏物的反馈加工是否存在异常。普遍认为物质成瘾者由于摄入成瘾物质引起脑内奖赏系统结构和功能发生改变，表现之一就是对自然奖赏物的敏感性降低（Robinson,&Berridge,1993;Nestor et al.,2010）。FRN作为一种ERP成分对于这种变化相当敏感。有研究表明偶尔的一过性使用成瘾性物质（如酒精）即可造成在加工金钱反馈时FRN 的减弱(Nelson, Patrick, Collins,Lang,& Bernat, 2011; Euser, Van Meel, Snelleman,& Franken,2011），甚至经过一夜的物质代谢后次日依然可以观察到成瘾物质使用使FRN减弱的影响（Howse,Hassall,Williams,Hajcak,& Krigolson,2018）。Kamarajan 等（2010）在一项研究中以金钱作为奖赏物让酒精成瘾组和健康对照组执行赌博任务，发现前者加工金钱反馈时FRN 显著减小，表明对金钱得失的敏感性降低。另有研究使用赌博任务得出了类似的结果，即物质成瘾组被试由金钱奖赏所诱发的FRN 波幅显著小于对照组（Baker et al.,2016）。有研究通过概率学习任务进一步发现物质成瘾被试中或许存在某种亚型，特征是从奖赏反馈中学习的能力受损，脑电指标表现为弱化的FRN（Baker,Stockwell,Barmes,&Holroyd,",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2011）。也有个别研究的结果与此不尽一致（Bodkyn&Holroyd,2019; Torres et al.,2013），例如Torres等（2013）使用概率翻转学习任务考察可卡因成瘾个体在由反馈结果驱动情景中的脑电指标，发现尽管可卡因成瘾组加工普通奖赏物时的FRN平均波幅小于控制组，但并未达到显著性水平。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "然而，还有理论认为成瘾障碍个体对奖赏反馈的敏感性并不是过低，而是过高，导致个体以冲动行为（如过度酒精使用）满足当前需求，而不顾及潜在的长期危害，如健康问题、经济损失等（Baler&Volkow,2006）。与此对应，有诸多研究发现物质成瘾个体在加工金钱反馈时 FRN 显著增强（Franken,Van den Berg,& Van Strien,2010; Potts et al.,2014;Hixson etal.,2019;Wei etal.,2018）。Wei等人（2018）让甲基苯丙胺成瘾组和健康对照组以金钱为反馈物执行简单赌博任务，发现甲基苯丙胺成瘾组的FRN差异波显著增强；与此类似，Potts 等（2014）发现面对金钱奖赏时烟草成瘾组比健康对照组产生了更大的FRN，两个研究说明成瘾个体对金钱得失有着更高的敏感性。Franken等（2010）考察了金钱奖赏敏感性与酒精使用频率间的关系，发现个体的酒精使用频率与金钱奖赏所诱发的FRN 波幅大小显著正相关，酒精使用频率越高，FRN的波幅越大。因此认为成瘾物质使用至少在初期阶段作用于行为趋向系统，提高了个体对奖赏得失的敏感性，表现为加工金钱时FRN 波幅增大。Hixson等人（2019）的研究甚至发现酒精成瘾的病史会增加内化性精神障碍个体对金钱奖赏的敏感性，表现为FRN增强。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "上述研究之所以出现不一致的结果，可能是由于不同的研究涉及的研究问题不同。有的研究考查了物质成瘾对奖赏加工系统的改变。在长期使用成瘾物质后（Baker etal.,2017;Kamarajan et al.,2010），甚至只有短期使用成瘾物质后（Nelson et al.,2011; Euser et al.,2011），奖赏系统对金钱等自然奖赏物敏感性降低，导致成瘾组FRN更小。有的研究涉及到成瘾的原因（Franken etal.,2010;Pots etal.,2014）。尤其是存在冲动性人格障碍、奖赏寻求水平高的被试组，与控制组相比，奖赏敏感性更高，FRN波幅更大，也会造成更多的物质使用行为。之前的研究中未能很好地区分这两种情况，产生了混淆，所以出现了FRN反应模式不一的情况。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "目前的研究中也涉及到一个理论上无法回避的问题，即这些异常的反馈加工模式是长期物质滥用导致的结果还是造成物质滥用的生物易感性因素。Fein和Chang（2008）发现酒精成瘾个体的FRN减小与其酒精滥用的家族史密切相关，表明物质成瘾可能存在着一定的遗传性易感因素。为了探究FRN的异常模式是否可以遗传，研究人员采用父母具有成瘾病史的青少年被试与控制组被试进行对照研究，发现二者在加工金钱反馈时FRN并未有显著差异（Euser, Greaves-Lord, Crowley,Evans, Huizink,& Franken,2013; Morie,Wu,Landi,Potenza,Mayes,&Crowley,2018），但由于研究未能区分先天遗传因素与后天环境的影响，结论的解释力度有限。有研究直接对成瘾的生理基础进行了探索，在一项研究中为了阐明遗传因素、奖赏敏感性和成瘾行为之间的关系，研究者结合遗传学方法和结构方程模型对",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "196名被试的物质使用水平、FRN 和DA相关基因（DRD4-521T）进行分析。发现FRN 的神经发生源ACC在DA相关基因与成瘾行为之间起到了“中间表型”（IntermediatePhenotype）的作用（Baker,Stockwell,Barnes,Haesevoets,& Holroyd,2016）。近期有研究探索了DA敏感性与酒精使用之间的关系，发现DA的高敏感性预测了更多的酒精使用行为，并伴随着FRN波幅的减小。表明DA系统的高敏感性可能是使个体发展成为酒精成瘾的易感性因素（Soder,Webber,Bornovalova,Park,&Potts,2019）。虽然研究者进行了一些探索，异常的反馈（奖赏）加工模式到底是长期物质滥用导致的结果还是造成物质滥用的生物易感性因素，这个问题还需要有针对性的研究。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/197e6ffd6828817abbb97eab56c5c6c16ba0bad515c41d070ee351dfaecf34ea.jpg",
+        "table_caption": [
+            "表1.成瘾障碍与FRN相关研究"
+        ],
+        "table_footnote": [
+            "注：N:实验组被试数；Pol.:(Polysubstance)多种成瘾物质联合使用（如酒精、大麻等）；ASSIST:(the Alcohol,Smoking and Substance Involvement Screening Test)酒精、烟草和成瘾物质调查问卷;\\*:包含赌博任 务的变式（如T迷津任务）；↓:FRN减弱；↑:FRN增强；FTND:(the Fagerstrom Test for Nicotine Dependence)法格斯特龙尼古丁依赖问卷；QFV-I:(Quantity Frequency Variability Index)酒精使用量一频率指 数；RPT:(Reward Prediction Task)奖赏预期任务；GRT:(Guessing Reward Task)奖赏猜测任务；DDQ-R: (the Daily Drinking Questionnaire Revised)日常饮酒问卷；PGSI: (the Problem Gambling Severity Index)问题赌博 指数；IGT: (Iowa Gambling Task)爱荷华赌博任务；CPGI:(the Canadian Problem Gambling Index)加拿大问 题赌博指数。 "
+        ],
+        "table_body": "<html><body><table><tr><td>成瘾研究</td><td>成瘾物质/行为 程度</td><td></td><td>N</td><td>诊断标准/工具</td><td>实验任务</td><td>FRN</td></tr><tr><td>物质成瘾</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(Baker et al., 2011)</td><td>Pol.</td><td>亚临床</td><td>18</td><td>ASSIST</td><td>赌博*</td><td>普通奖赏物 →</td></tr><tr><td>(Baker et al., 2016)</td><td>Pol.</td><td>亚临床</td><td>195</td><td>ASSIST</td><td>赌博</td><td>普通奖赏物</td></tr><tr><td>(Baker,Wood,& Holroyd, 2016)</td><td>Pol.</td><td>亚临床</td><td>12</td><td>ASSIST</td><td>赌博</td><td>成瘾物质↑</td></tr><tr><td>(Baker et al., 2017)</td><td>烟草</td><td>亚临床</td><td>20</td><td>FTND</td><td>赌博</td><td>成瘾物质 →</td></tr><tr><td>(Fein et al., 2008)</td><td>酒精</td><td>临床</td><td>22</td><td>DSM-IV</td><td>BART</td><td>普通奖赏物 √</td></tr><tr><td>(Franken et al., 2010)</td><td>酒精</td><td>正常</td><td>47</td><td>QFV-I</td><td>RPT</td><td>普通奖赏物 →</td></tr><tr><td>(Hixson et al., 2019)</td><td>酒精</td><td>临床</td><td>15</td><td>DSM-IV</td><td>GRT</td><td>普通奖赏物 →</td></tr><tr><td>(Kamarajan et al., 2010)</td><td>酒精</td><td>临床</td><td>40</td><td>DSM-IV</td><td>赌博</td><td>普通奖赏物 √</td></tr><tr><td>(Morie et al., 2016)</td><td>可卡因</td><td>临床</td><td>23</td><td>DSM-IV</td><td>快速反应任务</td><td>普通奖赏物 √</td></tr><tr><td>(Munoz et al., 2012)</td><td>烟草</td><td>亚临床</td><td>32</td><td>FTND</td><td>预测任务</td><td>成瘾物质 →</td></tr><tr><td>(Parvaz et al.,2015)</td><td>可卡因</td><td>临床</td><td>50</td><td>临床访谈</td><td>门任务</td><td>普通奖赏物 √</td></tr><tr><td>(Potts et al., 2014)</td><td>烟草</td><td>亚临床</td><td>22</td><td>DSM-IV</td><td>RPT</td><td>普通奖赏物 →</td></tr><tr><td>(Soder et al.,2019)</td><td>酒精</td><td>正常</td><td>85</td><td>DDQ-R</td><td>RPT, BART</td><td>普通奖赏物 √</td></tr><tr><td>(Wei et al., 2018)</td><td>甲基苯丙胺</td><td>临床</td><td>21</td><td>DSM-V</td><td>赌博</td><td>普通奖赏物 →</td></tr><tr><td>行为成瘾 (Hewig et al., 2010)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(He et al., 2017)</td><td>赌博 网络</td><td>临床 亚临床</td><td>20 16</td><td>DSM-IV 临床访谈</td><td>真实赌博 赌博</td><td>普通奖赏物 → 普通奖赏物 √</td></tr><tr><td>(Lole et al., 2015)</td><td></td><td></td><td></td><td>PGSI</td><td></td><td></td></tr><tr><td>(Li et al., 2019)</td><td>赌博</td><td>亚临床</td><td>16</td><td></td><td>赌博</td><td>普通奖赏物 √</td></tr><tr><td></td><td>网络</td><td>临床</td><td>34</td><td>DSM-V</td><td>赌博</td><td>普通奖赏物 √</td></tr><tr><td>(Oberg et al., 2011)</td><td>赌博</td><td>亚临床</td><td>15</td><td>CPGI</td><td>IGT</td><td>普通奖赏物</td></tr><tr><td>(Torres et al.,2013)</td><td>赌博</td><td>临床</td><td>21</td><td>DSM-IV</td><td>反转学习</td><td>普通奖赏物 √</td></tr><tr><td>(Ulrich et al., 2018)</td><td>赌博</td><td>亚临床</td><td>20</td><td>DSM-IV</td><td>赌博</td><td>普通奖赏物 √</td></tr><tr><td>(Yau et al., 2015)</td><td>网络</td><td>亚临床</td><td>39</td><td>临床访谈</td><td>BART</td><td>普通奖赏物 √</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4行为成瘾与FRN ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "与物质成瘾相比，行为成瘾或说非物质成瘾没有精神活性物质对脑生理的影响，从这个角度上行为成瘾代表了最纯粹的“心理成瘾”。从广义上行为成瘾种类包含了赌博成瘾、网络成瘾、购物成瘾、性成瘾甚至运动成瘾等（Petry,2006）。美国精神病学会（AmericanPsychiatric Association）在第5版《精神障碍诊断与统计手册》（The fifth edition of theDiagnostic and Statistical Manual of Mental Disorders，DSM-5）中的非物质成瘾分类下只有赌博成瘾一项，而关于网络成瘾（网络游戏成瘾、游戏成瘾），目前结论还不统一（Quandt，2017）。其他行为成瘾的研究则较为少见，不过近期一项研究表明个体在运动后的FRN波幅减弱，可能是运动后DA短暂增加所致，这对运动成瘾的研究颇有启示（Walsh,Colino,Krigolson,Luehr,Gurd,& Tschakovsky,2019）。由于网络成瘾和赌博成瘾受到更多的关注，以下介绍这两种成瘾行为相关研究。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1网络成瘾",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在以FRN为脑电指标的网络成瘾研究中，使用的任务范式及结果都与物质成瘾研究类似，表明网络成瘾个体在加工金钱反馈时FRN减小，对自然奖赏物的敏感性降低（Yau etal.,2015;He etal.,2017;Lietal.,2019）。Yau等人（2015）让网络成瘾青少年和控制组青少年分别执行气球模拟风险任务（BART），结果发现前者在气球爆炸（损失）后诱发的FRN 显著小于对照组，表明对自然奖赏物得失的神经敏感性下降。He等人（2017）和Li等人（2019）的研究类似，均采用简单赌博任务并以不同数量的金钱作为反馈物，结果发现相对于对照组，网络成瘾组在金钱反馈后诱发的FRN减弱。在上述研究中行为层面的结论并不一致，两项赌博任务研究中观察到网络成瘾被试具有风险决策偏好，而在BART 任务中则未发现网络成瘾被试有风险决策偏好。原因或许在于BART任务中选取的是亚临床标准的被试（Yau,etal.,2015），尚未达到网络成瘾临床诊断标准，个体行为层面还未表现出可观察到的差异。同时表明了FRN这一脑电指标甚至在网络成瘾的前驱期就可作为临床鉴别标准。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "有研究者认为对于网络成瘾，不同文化背景报告的结果差异很大。网络成瘾是不同文化背景下人为制造的一种“疾病”，和有着生理病变基础的物质成瘾不应相提并论（Carbonell,2017）。FRN与网络成瘾的相关研究在一定程度上驳斥了该理论，以上研究分别探讨了中国青少年被试（He et al.,2017;Li et al.,2019）和美国青少年被试（Yau,et al,2015）的网络成瘾与FRN异常，结论有着跨文化的一致性，均表现为加工自然奖赏物时FRN 减弱。表明网络成瘾与物质成瘾相似，有着潜在的生理基础，表现为中脑DA奖赏系统的功能失调。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2赌博成瘾 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "关于赌博成瘾的FRN研究也与物质成瘾的情况类似，同时存在成瘾个体对普通奖赏物敏感性增强或减弱的矛盾性证据。近期一项研究发现赌博成瘾组在执行类赌博任务（如抛硬币任务）时，金钱反馈所诱发的FRN波幅显著小于控制组（Ulrich,&Hewig,2018）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "与此相似，在另一项关于赌博成瘾的研究中，让赌博成瘾组和正常组被试分别执行模拟赌博任务，结果发现赌博成瘾组中反馈结果后的FRN显著变小（Lole etal.,2015）。研究者认为这反映了在赌博成瘾个体中ACC 去抑制和抑制功能的紊乱，在加工金钱得失时敏感性下降。根据强化学习理论，赌博成瘾个体弱化的FRN代表了中脑DA系统RPE信号的失调，由此造成了上述结果。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "然而，也有研究得到不一样的结果，发现赌博成瘾者对奖赏的敏感性增加。例如与控制组相比，赌博成瘾组被试在执行爱荷华赌博任务时FRN波幅并不是减小，而是增大，表明对奖赏的敏感性高于控制组（Oberg,Christie,& Tata,2011）。Hewig 等（2010）也发现赌博成瘾被试在奖赏反馈后诱发的FRN大于控制组。由此认为增强的FRN表明赌博成瘾者中脑DA系统在加工即时的奖赏时异常活跃，往往高估反馈结果的价值，由此很好的解释了赌博成瘾者的典型症状一冲动性赌博（Potenza,2006）。这种现象与物质成瘾中的敏化效应十分类似，暗示了二者之间可能有相似的生理基础。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在对帕金森病患者的治疗中出现的意外副作用为解释赌博成瘾的生理机制提供了很有趣的佐证。帕金森患者的主要病因是DA系统功能的逐渐丧失，因此对其进行外源性的 DA补充（如左旋多巴、DA受体激动剂）可有效缓解其症状。但有研究发现在进行DA受体激动剂治疗后，帕金森患者出现了冲动性赌博行为，而停药后冲动性赌博行为消失（Ahlskog,2011;Voon etal.,2011），有力地证明了DA系统的异常活跃与赌博成瘾问题相关。之所以在赌博成瘾者中观察到FRN的不同模式，有可能是因为赌博成瘾的不同阶段特征导致的。初期对奖赏的异常敏感性可能是导致个体发展成为赌博成瘾的生物易感因素，表现为FRN的高波幅；随着成瘾程度的加深，出现与物质成瘾类似的耐受性效应，中脑DA奖赏系统逐渐遭到损害，表现为FRN的弱化。遗憾的是，目前尚未有对赌博成瘾个体FRN动态变化的追踪报道。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5总结与展望 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本文对以FRN成分研究成瘾障碍的内部机制的研究进行了梳理，表明不论是在加工成瘾物质时还是加工普通奖赏物时，也不论是在物质成瘾个体中还是在行为成瘾个体中，FRN 均表现出与非成瘾个体不同的异常模式，且FRN的模式特点与个体的成瘾状况紧密相关，有望在临床实践中通过FRN这个指标来评估个体的成瘾情况。但在以往有关于成瘾和FRN的研究中，尚有诸多问题需要澄清。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "成瘾可进一步分为诸多亚型。首先可以粗略划分为物质成瘾和行为成瘾两大类。由于行为成瘾没有外源性成瘾物质摄入对生理的影响，对两种成瘾对比的研究有助于分离出生理性和心理性因素在成瘾中的影响，在将来的实践中为克服“心瘾难戒”的现象提供指导然而之前的研究中多是关注FRN与其中某一类成瘾的关系，仅有个别研究在物质成瘾和行为成瘾个体之间进行了对比研究（Torres et al.,2013），将来研究应加强这两类成瘾的对比研究。其次物质成瘾类别下根据成瘾物质的不同，又可细分为冰毒成瘾、海洛因成瘾、酒精成瘾等等。但由于被试特点的限制，即多数被试都是多种成瘾物质联合使用，或一生中不同阶段使用过不同成瘾物质（Baker etal.,2016），较少出现单一依赖一种成瘾物质的现象，这就造成难以考察某种成瘾物质单独对个体的长期影响。接下来的研究中亦应注意探讨不同种类成瘾物质的精神药理作用在FRN中分别有何特点。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "在成瘾物质反馈的FRN实验中，反馈物操纵还不理想（Baker etal.,2017）。由于烟草是合法性成瘾物质，所以常用其作为反馈物。但相对于海洛因、甲基苯丙胺等强力成瘾物质，烟草作为反馈物的奖赏性也值得怀疑。一个较为可行的替代方案是使用虚拟反馈物设计，即让被试想象在实验中获得的奖励为成瘾物质，并鼓励被试尽可能把利益最大化。另外针对不同成瘾物质奖赏性高低的问题，可以使用成瘾物质的相关刺激（成瘾物质的图片）作为虚拟反馈物，不同的实验刺激代表不同的成瘾物质。最近国内研究者尝试以虚拟金钱奖励研究海洛因戒断者的成瘾机制（杨玲等，2019），但在FRN与成瘾研究中虚拟奖励的效用还有待研究。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "成瘾个体往往伴随着其它精神障碍，包括原本具有的症状和由于成瘾问题继而诱发的症状，同时成瘾个体也经常具有社会适应不良的人格模式。FRN不仅对成瘾障碍具有敏感性，对其它精神障碍，如抑郁障碍（Proudfit,2015）、焦虑障碍（Jiang et al.,2018）和某些成瘾相关的人格因素（Guetal.,2017）也高度敏感。这些精神疾患是否是促使个体发展为成瘾行为的危险因素，又在个体的戒断、渴求、复吸行为中产生什么样的影响，有待于进一步研究。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "鹏， 义项贝 依，   \n杨玲，王斌强，耿银凤，姚东伟，曹华，张建勋，许琼英.(2019).虚拟和真实金钱奖赏幅度对海洛因戒断者风险决策的影响.心 理学报,51(4),507-516.   \nAhlskog,J.E. (o).Pathologicalehaviorsprovokedbydopaminegoist therapyofarinson'sdisease.Pysiology&Beavio 104(1), 168-172.   \nAhmed,S.H.(oo).Ibaancebetweendugadnondrugrewardvailability:AmajoriskfactorforaddictionEuropeanJouaof Pharmacology， 526(1-3),9-20.   \nAmericanPsychiatricAsociation.DSM-5TaskForce.(2O13).DiagnosticandStatisticalManualofMentalDisorders:DSM-5 Arlington, VA,US.   \nBaker,T.B.,iper,.E.,cCarthyD.E.,ajeskie,.R,&ore,.C.(4)Addictionmotivationreformulated:Antie ocessing model of negative reinforcement.Psychological Review, Ill(1),33-51   \nBaker,T.E,oellsGd,C.).aleibaeea brain,behaviou and cognition.Addiction Biology,16(3),458-466   \nBaker,T.E,elGesRrdC)diee between DRD4-521Tand substance misuse.Journal of Cognitive Neuroscience,28(3),460-471.   \nBaker,TE.,odJd,C6).ticaooeareeit smokers.ClinicalNeurophysiology,27(2),358-365.   \nBaker,T..,spcPha.tinhK,ZgYd,P(ighal drug and nondrug rewards insmokers using multimodal neuroimaging.Biological Psychiatry,82(11),819-827.   \nBaler,R.D.,&Vk.().Drugaddictioeuobgfsruedselotrol.edsioleularedic() 559-566.   \nBjork,J.M.,oman,it.r.W.(8).ducedoteoresfrotalortectiatioysds substance-dependent patients.Drugand Alcohol Dependence,95(1-2),115-128.   \nBlum,K.,Braveran,E.,oder,J.,ubar,J.F.,oatraV.JrD & Comings,D.E. (2000). The reward deficiency syndrome: Abiogenetic model forthe diagnosis and treatmentofimpulsive,addictive andcompulsive behaviors.Journalof Psychoactive Drugs,32(suppl1),1-112.   \nBodkyn,C.d,C9)ibilitietrolibasal JournalofPsychophysiology,146,1-19   \nBola,K.sthatisethio.)rtal abstinent cocaine abusers.Journal of Neuropsychiatry and Clinical Neurosciences,16(4),456-464.   \nCarbonell,X.(0l7).Frompongtopokemongocatchingtheenceoftheinteetamingdisorderdiagnosis.JournalofBavioral Addictions,6(2),124-127.   \nCockbur,J,od,C).bctiddosiitytetillfi 243-251.   \nEuser,A.S.,VaelC.ellen,,an,H.(1).uteeftsoocpreig evaluation during risky decision-making:an ERP study.Psychopharmacology,217(1),111.   \nEuser,A..vdKy.Js..I)tedco riskydecision making inadolescents withaparental historyofsubstanceusedisorders.Development andPsychopathology 25(4pt1), 1119-1136.   \nFein,G.,&Chang,M. (O08).SmallrfeedbackERNamplitudesduringtheBAareasoiated withagreaterfmilystrydsityof alcohol problems in treatmen naive alcoholics.Drug and Alcohol Dependence,92(1-3),141-148.   \nFranken,1.HVandeer,,&Vanrn,J.W().Ididaldirecsicooiigfrereoatedith electrophysiological resp cted ls.Alcoholism:Clinical and Experimental Research,34(4),702-707.   \nGehringW.Jgrdso 295(5563),2279-2282.   \nGoldstein,R.,TmasiD,ia-Klein,NCotone,L.A.,ZangLTelang,F.,&Vokow,N..().ubjectivesiiiyt monetarygradients isaociatedwithfrontolimbicactivationtoewardincocaneabusers.DrugandAlcoholDependence,87(23), 233-240   \nGoldstein,.a,A,aloneyT-Klein,,WoicikelangFokow..)omroedii tomonetary rewardincurrent cocaine users:An ERP study.Psychophysiology,45(5),705-713.   \nGu,R,Jiansco,)i with altered behavioral performance and neural resp s in the monetary incentive delay task.Neuropsychologia,103,59-68.   \nHaber,S.Nuton1).rdiit:ingatetoginguosaog(), 4-26   \nHajcak,G.,o,J.od,C,os.F).ebacelatedgaiiyectsthearvatioo ersus bad outcomes.Biological Psychology,71(2),148-154   \nHewig,J.,Kree,.tls.GoldC.e.).siiiad problem gamblers.BiologicalPsychiatry,67(8),781-783.   \nHe,W.,Qi,A,Wang,Q.,Wu,H,Zang,Z,Gu,R,uo,W.(7).Aoalrewardandpushmentsensitivityoatedwith Internet addicts.ComputersinHumanBehavior,75,678-683   \nHixson,H.,Burkouse,K.LGorka,S.,&Klumpp,H.(19).Apreliminaryexaminatiofterelatiobetweeneurasiiiy toewardandistoryofloholusedisorderamongadultswithinteralzingpsyhopathologies.NeuroscienceLetters,6901722.   \nHolroyd,C.B.,& Coles,M.G.(2002).The neural basis of h nan error processing: Reinforcement learning,dopamine,and the error related negativity.Psychological Review,109(4),679-709.   \nHolroyd,C.d-K.golOE.).acelatedosiivisiivitytt brain potential to unexpected positive feedback.Psychophysiology,45(5),688-697.   \nHowse,A.D.ssllC.illsC.Cjcak,G,&rigosoO..).oolgoveripactsleangd processing within the medial-frontal cortex.Psychophysiology,55(8),e13081   \nIkemoto,S.,&Bonci,A.(2014).Neurocircuitryofdrug reward.Neuropharmacology,76,29341.   \nJiang,D,ZhangD,hen,YHe,ZGoQ,GuR,&XuP(18).aitanietyndprobabilisticleaing:behavioala electrophysiological findings.BiologicalPsychology,132,17-26   \nKamarajan,Cgeyosho.c processing in malealcoholics: AnERPstudyduringagambling task.JournalofPsychiatric Research,44(9),576-590.   \nKoob,G.F.,&LeMoal,M.(5).Plasticityofrewardneurocircuitryndthe'darksideofdrugaddiction.Natureeuroscience, 8(11),1442-1444.   \nKoob,G.F.(13).Negativeeforementiugddictionarknes itn.CurrntOpinionineurobology(4),596.   \nKrigolson,O.E.18).Evetelatedinotetialsdetudyfrdprocessig:ethodologicalsideratios.eiol Journal ofPsychophysiology,132,175-183.   \nKuss,D.J.,&Lopez-FerandezO.(O16).Iteeadictionandproblematicinteetue: Asstematiceviewoflicalearch. World Journal ofPsychiatry, 6(1),143-176.   \nLeshner,A.I.(1997).Addiction Is a Brain Disease,and It Matters.Science,278(5335),45-47.   \nLi,P.PengWi,,C)loloaleurloleteriuteoeg from unreliable fedback.Cognitive,Afective,& Behavioral Neuroscience,18(5),949-963.   \nLi,Q.Wang,YYang,,Dai,Zeng,Y.,Sn,Y,&Liu,X.(9)Dyfuctioalcogniivecotroandrewardprogi adolescents with Internet gaming disorder.Psychophysiology, e13469.   \nLole,L.Gonsalv,C.J,&Bar.J).warddpetossitivityinroblgablers:Asdyeteate potentials using a principal components analysis.Clinical Neurophysiology,I26(7),1295-1309.   \nMiltner,W.H.R.,Braun,C.H.&Coles,M.G.H.(1997).Event-relatedbrainpotentials followingincorecfeedbackin estimationtask:Evidencefora\"generic\"neuralsystemforerrordetection.JournalofCognitiveNeuroscience,9(),788-798.   \nMorie,K.P.,DSanctis,P,Garavan,H,&Foxe,JJ.(6).Regulatingtask-monitoringsstemsinsponse tvariablewar contingencies and outcomes in cocaine addicts.Psychopharmacology, 233(6),1105-1118.   \nMorie,K.P.,Wu,Jad,,otea,.,s,L.C&owley,.J.8).Fdacprocsingidolescntsital cocaine exposure:An electrophysiological investigation.Developmental Neuropsychology,43(3),183-197.   \nMuoz,M.AletLeFe,a,&VilaJ)ulaoecoeladii associated with nicotine abstinence.Experimental and Clinical Psychopharmacology,20(2),151.   \nNelson,L.D,atrick,C.JColisPngA.,atE..().olpaisbraireacivitytoeplicitosck Psychopharmacology，218(2),419.   \nNestor,L.,Hester,R,&Garavan,H.(10).IcreasedventralstriatalBOLactivityduringno-dugrewardanticipatioaabis users.Neuroimage,49(1),1133-1143.   \nOberg,S.A.,Cstie,G.J,&ataM.S.(0l).Problemgamblersehbitrewardypersensiivityimedialfrontalcorteuring gambling.Neuropsychologia,49(13),3768-3775.   \nParvaz,M.A.Koova,.roudit,.Hng,J.P,alakerP,elr.Jostein.Z.(5).pdl response to negative prediction errors in cocaine addiction.Journal of Neuroscience,35(5),1872-1879.   \nPeoples,L.L. (2o02).Neuroscience:Willanteriorcngulatecortex,andaddiction.Science,296(553),62-1624.   \nPetry,N.M.(o6).Souldthescopeofddictiveehaviorsbebroadened tocludepathologicalgmbling?Addiction,uppl 1),152-160.   \nPotenza,M.N.(o6).houldddictivedisorders incudeon-substance-relatedconditios?Adiction,l(Suppl.1)4151.   \nPotts,G.F,Blo,E.LEas,D.E,&Db,.(4).uralearddsetsiivityiigaeesokrgd Alcohol Dependence,144,245-253.   \nProudfit,G.H(Ol).Therewardpositivity:FrombasicresearchonrewardtobiomarkerfordepressonPsychophysiology5(4), 449-459.   \nQuandt,T.(2017).Steppingback toadvance: WhyIGDneedsanintensified debate insteadofaconsensus.JournalofBehavioral Addictions,6(2),121-123.   \nRedish,A.Dse,,son,).dfekfodicti:Veabliiisiproesseil Brain Sciences,31(4),415-437.   \nRobinson,T.E.,&Berrdge,K.C.(993).Theneuralbasisofdrugcraving:Anincentive-sensitizationtheoryofaddiction.Brain Research Reviews,18(3),247-291.   \nSoder,HE.,WebberTA,oaloa,.A.,ark,J.Yos,G.F(9).testodoaneeradossiii alcohol use.Addictive Behaviors,90,395-401.   \nTorres,A.,Catena,A.Cndido,A.aldonado,A.,egias,A.,&erales,J.C.(13).Cocainedependentindividualsandble presentdiferentassociative learinganomaliesin fedback-drivendecisionmaking:AbehavioralandERPstudy.Frontiers in Psychology,4,122.   \nUlrich,N.,&Hwig,J(8).Electrosigicalelatsofrutoedutequeprossgibble and controls.InternationalJournal of Psychophysiology,132,379-392.   \nvanRooij,A.J,Ferguo,C.J,Colder,C.Kardeel-WintherD,SJ,&arseh,E.rblsi.K.().ak scientific basis for gaming disorder:Letus erron the side ofcaution.JournalofBehaviorAddiction,7(1),1-9.   \nVoon,V.Gookee.,.().d Impulse control disorders in Parkinson's disease.Brain,134(5),1438-1446.   \nWalsh,J.J,ogosoeud.,oyE.)gesite neuroelectric indices of reinforcement-learning.Physiology& Behavior,I98,18-26.   \nWei,S.,Zheng,Y.,Li,Q.,Dai,W.,Sun,J.,Wu,H.,&Liu,X. (2O18).Enhanced neuralresponses to monetaryrewardsin methamphetamine use disordered individuals compared to healthycontrols.Physiology & Behavior;195,118-127.   \nYau,Y.H.,Pote,.Nyes,L.C,owley.J.).tedfebackproceigdringangioltith features of problematic Internet use.Addictive Behaviors,45,156-163.   \nYeung,N.,&Sanfey,A.G.(o4).Independentcodingofrewardmagnitudeandvalencein thehumanbrain.Journalofeuroscience, 24(28), 6258-6264. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Feedback-related negativity and addiction ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Lele, CHEN; Rong,HUANG; Shiwei, JIA School of Psychology,Shandong Normal University,Jinan 250358,China ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Feedback-related negativity (FRN） refers to the electroencephalogram component induced by feedback processing which reflects the individual's sensitivity to reward.Addiction can be broadly classified into substance addiction and behavior addiction. Both types of addicted individuals show pathological patterns in feedback processing. Comparing with the ordinary feedback (such as money)，the FRN amplitude induced by feedback of addiction substance significantly increased in individuals with substance addiction. In the control study with nonaddicted subjects，substance addicts also showed abnormal patterns relating to addiction when processing monetary fedback stimuli. Similar FRN irregularities were also observed in individuals with behavioral addiction. However,the classification of addiction disorders in most previous studies is not specific enough,and the characteristics of different subtypes of addiction disorders should be further taken into consideration in future studies.Moreover,addicted individuals are often accompanied by other mental disorders (such as depression, anxiety). Further studies should distinguish the influences of comorbid factors and reveal the unique reward processing mechanisms underlying addiction. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Key words: feedback-related negativity; substance addiction; behavioral addiction; reinforcement learning; reward mechanism ",
+        "page_idx": 13
+    }
+]

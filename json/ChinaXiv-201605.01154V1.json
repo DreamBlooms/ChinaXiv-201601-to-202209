@@ -1,0 +1,420 @@
+[
+    {
+        "type": "text",
+        "text": "arXiv: ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Current experimental bounds on stop mass in natural SUSY ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chengcheng Han $^ { 1 }$ ， Ken-ichi Hikasa², Lei Wu $^ 3$ , Jin Min Yang $^ { 1 }$ , Yang Zhang $^ { 1 , 4 }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（204号 $^ { 1 }$ State Key Laboratory of Theoretical Physics, Institute of Theoretical Physics， Academia Sinica， Beijing 100190, China （204号 $^ 2$ Department of Physics， Tohoku University， Sendai 980-8578, Japan （20 $^ 3$ ARC Centre of Excellence for Particle Physics at the Terascale, School of Physics， The University of Sydney， NSW 20o6, Australia $^ 4$ Physics Department, Henan Normal University， Xinxiang 453007, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Motivated by the recent progress of direct search for the productions of stop pair and sbottom pair at the LHC, we examine the constraints of the search results on the stop ( $\\dot { t } _ { 1 }$ ） mass in natural SUSY. We first scan the parameter space of natural SUSY in the framework of MSSM, considering the constraints from the Higgs mass, B-physics and electroweak precision measurements. Then in the allowed parameter space we perform a Monte Carlo simulation for stop pair production followed by $\\tilde { t } _ { 1 }  t \\tilde { \\chi } _ { 1 } ^ { 0 }$ or $\\tilde { t } _ { 1 }  b \\tilde { \\chi } _ { 1 } ^ { + }$ and sbottom pair production followed by $\\tilde { b } _ { 1 }  b \\tilde { \\chi } _ { 1 } ^ { 0 }$ or $\\tilde { b } _ { 1 }  t \\tilde { \\chi } _ { 1 } ^ { - }$ Using the combined results of ATLAS with 20.1 fb $^ - 1$ from the search of $\\ell + \\mathrm { j e t s } + \\not { E } _ { T }$ , hadronic $t { \\bar { t } } + \\not \\mathbb { E } _ { T }$ and $2 b + { \\underline { { { \\mathit { { E } } } } } } _ { T }$ , we find that a stop lighter than 600 GeV can be excluded at 95% CL in this scenario. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers: 14.65.Ha,14.70.Pw,12.60.Cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Observation of a SM-like Higgs boson around 125 GeV by the ATLAS and CMS Collaborations [1] has had a great impact on the minimal supersymmetric standard model (MSSM), in which the naturalness problem is a key issue [2-8]. For the electroweak naturalness the stops play an important role by cancelling the top quark loop,and thus the LHC search for the stop pair production will shed light on this question in the MSSM. The ATLAS and CMS collaborations have also made searches for supersymmetric particles with about $\\mathrm { 2 0 ~ f b ^ { - 1 } }$ of data [9-11]. The negative results of sparticle search may indicate the natural SUSY scenario [4-8], in which the first two generations of squarks are heavy and the third generation of squarks are light. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the framework of MSSM, the fine-tuning can be estimated by the Barbieri-Giudice measure [3] ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\Delta = \\operatorname* { m a x } \\{ \\Delta _ { p _ { i } } \\} , } \\\\ { \\Delta _ { p _ { i } } = \\displaystyle \\left. \\frac { \\partial \\log M _ { Z } ^ { 2 } } { \\partial \\log p _ { i } ^ { 2 } } \\right. . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $p _ { i }$ denotes the soft SUSY-breaking terms that enter the minimization conditions of the Higgs potential [12] ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { M _ { Z } ^ { 2 } } { 2 } = \\frac { ( m _ { H _ { d } } ^ { 2 } + \\Sigma _ { d } ) - ( m _ { H _ { u } } ^ { 2 } + \\Sigma _ { u } ) \\tan ^ { 2 } \\beta } { \\tan ^ { 2 } \\beta - 1 } - \\mu ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "with $\\tan \\beta \\equiv v _ { u } / v _ { d }$ ， $m _ { H _ { d } } ^ { 2 }$ and $m _ { H _ { u } } ^ { 2 }$ representing the weak scale soft SUSY breaking masses of the Higgs fields, $\\mu$ being the higgsino mass parameter, $\\Sigma _ { u }$ and $\\Sigma _ { d }$ being the radiative corrections to the tree-level Higgs potential. In order to maintain naturalness, the parameters （2 $\\mu$ ， $m _ { H _ { u } }$ and $\\Sigma _ { u }$ are expected to be at weak scale,which will impose a constraint on the spectrum of MSSM [6] ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\mu \\lesssim 2 0 0 ~ \\mathrm { G e V } \\left( \\frac { m _ { h } } { 1 2 5 ~ \\mathrm { G e V } } \\right) \\sqrt { \\frac \\Delta 5 } , } } \\\\ { { \\displaystyle \\sqrt { m _ { \\tilde { t } _ { 1 } } ^ { 2 } + m _ { \\tilde { t } _ { 2 } } ^ { 2 } + A _ { t } ^ { 2 } } \\lesssim 6 0 0 ~ \\mathrm { G e V } \\sin \\beta L _ { \\mathrm { A } } \\left( \\frac { m _ { h } } { 1 2 5 ~ \\mathrm { G e V } } \\right) \\sqrt { \\frac \\Delta 5 } , } } \\\\ { { \\displaystyle M _ { 3 } \\lesssim 9 0 0 ~ \\mathrm { G e V } \\sin \\beta L _ { \\mathrm { A } } ^ { 2 } \\left( \\frac { m _ { h } } { 1 2 5 ~ \\mathrm { G e V } } \\right) \\sqrt { \\frac \\Delta 5 } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "with $L _ { \\Lambda } = \\sqrt { 3 / \\log { ( \\Lambda / \\mathrm { T e V } ) } }$ coming from the leading-log approximation of the RGE 6]. Of course, in a given model like the MSSM, CMSSM or natural SUSY, the fine-tuning extent depends on the parameters appearing in the left sides of Eqs. (3-5),which can be checked by examining the parameter space allowed by current experiments [13-22]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this work we focus on natural SUSY and examine the constraints of the LHC search results of stop and sbottom [10,11]. Note that some studies in this aspect have been performed in the literature [23, 24]. However, the study in [23] assumed a special scenario with $A _ { t } = 0$ and $\\tan \\beta = 1 0$ and,as a result, the stop decay is much simplified, while the analysis in [24] did not consider the ATLAS sbottom search results. In our study we will consider a more general natural SUSY with more experimental constraints. We will first scan the parameter space of natural SUSY in the framework of MSSM, considering the constraints from the LHC Higgs mass, B-physics and electroweak precision measurements,and then in the allowed parameter space we will perform a detailed Monte Carlo simulation for stop pair production with $\\tilde { t } _ { 1 }  t \\tilde { \\chi } _ { 1 } ^ { 0 }$ or $\\tilde { t } _ { 1 }  b \\tilde { \\chi } _ { 1 } ^ { + }$ and sbottom pair production with $\\tilde { b } _ { 1 }  b \\tilde { \\chi } _ { 1 } ^ { 0 }$ or （204号 $\\tilde { b } _ { 1 }  t \\tilde { \\chi } _ { 1 } ^ { - }$ at the LHC, applying the same cuts as in the ATLAS searches. Finally, using the combined results of ATLAS with $2 0 . 1 \\ \\mathrm { f b ^ { - 1 } }$ from the search of $\\ell + \\mathrm { j e t s } + \\not {\\cal \\mathit { \\displaystyle } } \\not { \\cal \\mathit { \\displaystyle } } _ { T }$ , hadronic $t { \\bar { t } } + { \\not { \\mathbb { E } } } _ { T }$ and $2 b + { \\underline { { \\not { E } } } } _ { T }$ , we will figure out the allowed range for the stop in natural SUSY. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We organize the paper as follows. In Sec. II, we scan the parameter space and present the spectrum of natural SUSY allowed by the Higgs mass, B-physics and electroweak precision measurements. In Sec. II we simulate the direct stop/sbottom pair productions and examine their constraints on the parameter space of natural SUSY. Finally， we draw our conclusion in Sec. IV. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "II.A SCAN OF THEPARAMETER SPACE ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In accordance with the definition of natural SUSY, $\\mu$ should have a value at weak scale and the third generation of squarks should not be too far above TeV scale. So we scan these parameters in the following ranges ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 0 0 \\ \\mathrm { G e V } \\leq \\mu \\leq 2 0 0 \\ \\mathrm { G e V } , \\quad 1 0 0 \\ \\mathrm { G e V } \\leq ( m _ { { \\tilde { t } } _ { L } } = m _ { { \\tilde { b } } _ { L } } , \\ m _ { { \\tilde { t } } _ { R } } ) \\leq 2 \\ \\mathrm { T e V } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In natural SUSY the gluino mass is supposed to be below several TeV. Since in our study we focus on stop/sbottom direct searches, the gluino mass is not a sensitive parameter, which is fixed at 2 TeV in our scan. The sleptons and first two generations of squarks in natural SUSY are supposed to be heavy, which are all fixed at 5 TeV. For the electroweak gaugino masses,we use the grand unification relation $M _ { 1 } : M _ { 2 } = 1 : 2$ and take $M _ { 1 } = 1$ TeV (in natural SUSY $M _ { 1 }$ is usually supposed to be larger than $\\mu$ and the lightest neutralino is higgsino-like). Further, we assume $A _ { t } = A _ { b }$ and $m _ { \\tilde { b } _ { R } } = m _ { \\tilde { t } _ { R } }$ ，which in our scan vary in the ranges ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| A _ { t } | \\le 3 ~ \\mathrm { T e V } , ~ 1 \\le \\tan \\beta \\le 6 0 , ~ 9 0 ~ \\mathrm { G e V } \\le M _ { A } \\le 1 ~ \\mathrm { T e V } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where the lower bound of $M _ { A }$ is indicated from LEP and B-decay constraints. Since the component of the stop ( $\\ddot { t } _ { 1 }$ ） will affect its decay modes,we scan the parameter space in two scenarios: (I) $m _ { \\tilde { t } _ { R } }$ is lighter than $m _ { \\tilde { t } _ { L } }$ ; (11) $m _ { \\tilde { t } _ { L } }$ is lighter than $m _ { \\tilde { t } _ { R } }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In our scan we consider the following constraints: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1) We require the SM-like Higgs mass in the range of 123-127 GeV. We calculate the Higgs mass with FeynHiggs2.8.9 [25] and impose the experimental constraints from LEP, Tevatron and LHC with HiggsBounds-3.8.0 [26].   \n(2) We require natural SUSY to satisfy various B-physics bounds at $2 \\sigma$ level. We use the package of Superlso v3.3 [27] to implement the constraints, including $B  X _ { s } \\gamma$ and the latest measurements of $B _ { s } \\to \\mu ^ { + } \\mu ^ { - }$ ， $B _ { d } \\to X _ { s } \\mu ^ { + } \\mu ^ { - }$ and $B ^ { + } \\to \\tau ^ { + } \\nu$ ：   \n(3） We require the SUSY prediction of the precision electroweak observable such as $\\rho _ { l }$ ， （204号 $\\sin ^ { 2 } \\theta _ { \\mathrm { e f f } } ^ { l }$ ， $m _ { W }$ and $R _ { b }$ [28] to be within the $2 \\sigma$ ranges of the experimental values.   \n(4)We require the thermal relic density of the lightest neutralino (as the dark matter candidate） is below the $2 \\sigma$ upper limit of the Planck value [29]. We use the code MicrOmega v2.4 [30] to calculate the relic density. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In Fig.1 we show the sparticle spectrum in the parameter space allowed by constraints (1-4) in natural SUSY. From the figure we can find the following features and implications. Firstly， for both $m _ { \\tilde { t } _ { L } } ~ < ~ m _ { \\tilde { t } _ { R } }$ and $m _ { \\tilde { t } _ { L } } ~ > ~ m _ { \\tilde { t } _ { R } }$ ，the stop $\\left( \\tilde { t } _ { 1 } \\right)$ mass is heavier than about 200 GeV. The lower limit of the stop in case of $m _ { \\tilde { t } _ { L } } ~ > ~ m _ { \\tilde { t } _ { R } }$ is larger than in the case of $m _ { \\tilde { t } _ { L } } ~ < ~ m _ { \\tilde { t } _ { R } }$ .The reason is that for $m _ { \\tilde { t } _ { L } } ~ > ~ m _ { \\tilde { t } _ { R } }$ the Higgs mass will receive a negative correction proportional to $\\cos 2 \\beta \\log ( m _ { \\tilde { t } _ { L } } / m _ { \\tilde { t } _ { R } } )$ [31] and, in order to enhance the Higgs mass to 125 GeV, the splitting between $m _ { \\tilde { t } _ { L } }$ and $m _ { \\tilde { t } _ { R } }$ is preferred to be small and a heavier stop mass is favored to balance the negative correction. Secondly, the masses of $\\tilde { \\chi } _ { 1 } ^ { + }$ ， $\\tilde { \\chi } _ { 1 } ^ { 0 }$ and $\\tilde { \\chi } _ { 2 } ^ { 0 }$ are below 2Oo GeV and are nearly degenerate, which, due to the soft decay products, will ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6 1 H mi>mr mt_<mtR wass) ssea 10² A 1 t， b，b, I weaken the constraints from direct electroweak gauginos searches at the LHC. However, this spectrum may strengthen some limits from direct stop/sbottom searches at the LHC since the final states $b \\tilde { \\chi } _ { 1 } ^ { + } \\left( t \\tilde { \\chi } _ { 1 } ^ { - } \\right)$ have the same signatures as $b \\tilde { \\chi } _ { 1 , 2 } ^ { 0 } ~ ( t \\tilde { \\chi } _ { 1 , 2 } ^ { 0 } )$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "III. CONSTRAINTS FROM THE LHC SEARCH OF STOP/SBOTTOM ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Since the decay modes of stop and sbottom will affect the implication of direct searches, we first discuss their decay branching ratios. The relevant interactions between stop and neutralinos or charginos are given by [32] ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathcal { L } _ { t \\bar { t } \\tilde { \\chi } ^ { 0 } } = \\tilde { t } _ { 1 } \\bar { t } ( f _ { L } ^ { N } P _ { L } + f _ { R } ^ { N } P _ { R } ) \\tilde { \\chi } _ { i } ^ { 0 } + h . c . \\ , } \\\\ & { \\mathcal { L } _ { t \\bar { b } \\tilde { \\chi } ^ { \\pm } } = \\tilde { t } _ { 1 } \\bar { b } ( f _ { L } ^ { C } P _ { L } + f _ { R } ^ { C } P _ { R } ) \\tilde { \\chi } _ { i } ^ { + } + h . c . \\ , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $P _ { L / R } = ( 1 \\mp \\gamma _ { 5 } ) / 2$ and ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { f _ { L } ^ { N } = - \\displaystyle \\left[ \\frac { 1 } { \\sqrt { 2 } } g _ { 2 } [ N _ { \\chi ^ { 0 } } ] _ { i \\bar { W } } + \\frac { 1 } { 3 \\sqrt { 2 } } g _ { 1 } [ N _ { \\chi ^ { 0 } } ] _ { i \\bar { B } } \\right] \\cos \\theta _ { \\bar { t } } - y _ { t } [ N _ { \\chi ^ { 0 } } ] _ { i \\bar { H } _ { 2 } } \\sin \\theta _ { \\bar { t } } , } } \\\\ { { { } } } \\\\ { { f _ { R } ^ { N } = \\displaystyle \\frac { 2 \\sqrt { 2 } } { 3 } g _ { 1 } [ N _ { \\chi ^ { 0 } } ] _ { i \\bar { B } } ^ { * } \\sin \\theta _ { \\bar { t } } - y _ { t } [ N _ { \\chi ^ { 0 } } ] _ { i \\bar { H } _ { 2 } } ^ { * } \\cos \\theta _ { \\bar { t } } , } } \\\\ { { f _ { L } ^ { C } = y _ { b } [ U _ { \\chi ^ { + } } ] _ { i \\bar { H } _ { 1 } } ^ { * } \\cos \\theta _ { \\bar { t } } , } } \\\\ { { f _ { R } ^ { C } = - g _ { 2 } [ V _ { \\chi ^ { + } } ] _ { i \\bar { W } ^ { - } } \\cos \\theta _ { \\bar { t } } + y _ { t } [ V _ { \\chi ^ { + } } ] _ { i \\bar { H } _ { 2 } } \\sin \\theta _ { \\bar { t } } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "with $y _ { t } ~ = ~ \\sqrt { 2 } m _ { t } / ( v \\sin \\beta )$ and $y _ { b } ~ = ~ \\sqrt { 2 } m _ { b } / ( v \\cos \\beta )$ being the Yukawa couplings of top and bottom quarks, and $\\theta _ { \\tilde { t } }$ being the mixing angle between left- and right-handed stops （204 $( - \\pi / 2 \\le \\theta _ { \\tilde { t } } \\le \\pi / 2$ ). The neutralino and chargino mixing matrices $N _ { i j }$ ， $U _ { i j }$ and $V _ { i j }$ are defined in [32]. The interactions of the sbottom with neutralino or chargino can be obtained from above expressions by replacing $\\theta _ { \\tilde { t } }$ with $\\theta _ { \\tilde { b } }$ and interchanging $y _ { t }$ and $y _ { b }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f0a25e2b47e62c83aa8153867e2e6490d006bcbac2810390bb273b14cdb95b26.jpg",
+        "img_caption": [
+            "FIG. 2: The scatter plots of the parameter space allwed by constraints (1-4) in natural SUSY, showing the decay branching ratios of stop and sbottom. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In Fig. 2 we display the numerical results of the decay branching ratios of stop and sbottom. From the upper panel we can see that a light stop ( $\\tilde { t } _ { 1 } < 3 7 0 \\mathrm { ~ G e V } )$ will be dominated by decaying to $b \\tilde { \\chi } _ { 1 } ^ { + }$ . When the stop becomes heavier, the $\\tilde { t } _ { 1 }  t \\tilde { \\chi } _ { 1 , 2 } ^ { 0 }$ channels are open and the decay $\\tilde { t } _ { 1 }  b \\tilde { \\chi } _ { 1 } ^ { + }$ is suppressed. For $m _ { \\tilde { t } _ { L } } < m _ { \\tilde { t } _ { R } }$ ， $\\mathrm { B r } ( \\tilde { t } _ { 1 }  b \\tilde { \\chi } _ { 1 } ^ { + } )$ is less than $5 0 \\%$ ,and $\\mathrm { B r } ( \\tilde { t } _ { 1 }  t \\tilde { \\chi } _ { 1 } ^ { 0 } )$ and $\\mathrm { B r } ( \\tilde { t } _ { 1 }  t \\tilde { \\chi } _ { 1 , 2 } ^ { 0 } )$ are approximately equal which vary between $2 5 \\%$ （20 and $5 0 \\%$ . While for $m _ { \\tilde { t } _ { L } } > m _ { \\tilde { t } _ { R } }$ ， $\\mathrm { B r } ( \\tilde { t } _ { 1 }  b \\tilde { \\chi } _ { 1 } ^ { + } )$ is around $5 0 \\%$ and $\\mathrm { B r } ( \\tilde { t } _ { 1 }  t \\tilde { \\chi } _ { 1 , 2 } ^ { 0 } ,$ ）can only reach $2 5 \\%$ . These features can be understood from Eqs. (1O-13) in the chiral limit. From those expressions we can see that $\\tilde { t } _ { 1 }$ becomes purely left-handed for ${ \\theta _ { \\tilde { t } } } = 0$ and right-handed for $\\theta _ { \\tilde { t } } = \\pm \\pi / 2$ . Since $\\tilde { \\chi } _ { 1 , 2 } ^ { 0 }$ are higgsino-like,thecouplings $C _ { t \\tilde { t } _ { 1 } \\tilde { \\chi } _ { 1 , 2 } ^ { 0 } }$ are proportional to $y _ { t }$ and nearly equal for both $m _ { \\tilde { t } _ { L } } < m _ { \\tilde { t } _ { R } }$ and $m _ { \\tilde { t } _ { L } } > m _ { \\tilde { t } _ { R } }$ . However, the coupling $C _ { b \\tilde { t } _ { 1 } \\chi _ { 1 } ^ { + } }$ is dominated by the bottom Yukawa coupling $y _ { b }$ for $m _ { \\tilde { t } _ { L } } < m _ { \\tilde { t } _ { R } }$ and by the top Yukawa coupling $y _ { t }$ for （20号 $m _ { \\tilde { t } _ { L } } > m _ { \\tilde { t } _ { R } }$ . So, we can infer that when $\\tilde { t } _ { 1 }  t \\tilde { \\chi } _ { 1 , 2 } ^ { 0 }$ is kinematically allowed, $B r ( \\tilde { t } _ { 1 }  b \\tilde { \\chi } _ { 1 } ^ { + } )$ （20 will be generally below $B r ( \\tilde { t } _ { 1 }  t \\tilde { \\chi } _ { 1 , 2 } ^ { 0 } )$ for $m _ { \\tilde { t } _ { L } } < m _ { \\tilde { t } _ { R } }$ and twice as large as $B r ( \\tilde { t } _ { 1 }  t \\tilde { \\chi } _ { 1 , 2 } ^ { 0 } )$ （20 for $m _ { \\tilde { t } _ { L } } ~ > ~ m _ { \\tilde { t } _ { R } }$ .For the sbottom decays on the lower panel, they can be understood by similar analysis as above. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/ffb659adb1a0ba8e08fad8c0bb3a05934f9b5d479a74142358b3f53bf55cdc9a.jpg",
+        "table_caption": [
+            "TABLE I: The signals of the ATLAS stop/sbottom direct searches [10, 11] "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Signals of ATLAS stop/sbottom direct searches</td><td>Source of each signal in natural SUSY</td></tr><tr><td>l+jets+ET</td><td>pp→t1t1 (t1→tx1,2) pp→6161 (b1→tx1）</td></tr><tr><td>tt(hadronic)+ET</td><td>pp→tt1 (t1→tx1,2) pp→b6(b1→tx1）</td></tr><tr><td>2b+ET</td><td>pp→t1t1 (t1→bx+) pp→6161 (61→bx1.2)</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the following, we use the ATLAS direct stop/sbottom search data [10,11] to constrain the parameter space of natural SUSY. The signals of the direct searches and the source of each signal in natural SUSY are shown in Table I. In our calculation we simulate the signals by MadGraph5 [33] and carry out the parton shower and fast detector simulation with PYTHlA [34] and Delphes [35]. We use the anti- $k _ { t }$ algorithm [36] to cluster jets and the MLM scheme [37] to match our matrix element with parton shower. For the cross section of （204 $\\tilde { t } \\tilde { t } ^ { * } / \\tilde { b } \\tilde { b } ^ { * }$ we use the NLO results calculated by the package Prospino2.1 [38]. Before presenting the exclusion limits, in Appendix A we validate our simulations by adopting the same cuts fow of ATLAS and comparing our results to the ATLAS results. We can see that our results are consistent with ATLAS in the reasonable error ranges. Then, we perform the simulation for each survived sample in Fig. 2 and use CL $s$ method to obtain the $9 5 \\%$ exclusion limit. For each channel $i$ after cuts flow, we can define $\\mathrm { C L } _ { s } ^ { i }$ as ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { C L } _ { s } ^ { i } = \\frac { \\mathrm { P o i s } ( n _ { i } | b _ { i } + s _ { i } ) } { \\mathrm { P o i s } ( n _ { i } | b _ { i } ) } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/6cba2566add46f74ff7406c6e6c6891269c2812d73a0b0e2e1660c40d24a63eb.jpg",
+        "img_caption": [
+            "FIG. 3: Same as Fig. 2, but projected on the plane of stop mass versus neutralino mass. The samples denoted by bullets (red) are excluded by the ATLAS direct stop/sbottom search data at 95% CL. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Here $s _ { i }$ is the signal events from our Monte Carlo simulation, and $n _ { i }$ and $b _ { i }$ are respectively the number of the observed and expected SM background events, which can be taken from the experimental papers. To account for the systematic uncertainty effect， we allow the number of background events in each channel to fluctuate: $b _ { i }  b _ { i } ( 1 + \\delta b _ { i } )$ . Following the analysis in [39], we convolve the Poisson distribution with a Gaussian weighting factor and then integrate over $b _ { i }$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P o i s } ( n _ { i } | b _ { i } + s _ { i } )  \\int d ( \\delta b _ { i } ) \\mathrm { G a u s } ( \\delta b _ { i } , f _ { i } ^ { b } ) \\mathrm { P o i s } ( n _ { i } | b _ { i } ( 1 + \\delta b _ { i } ) + s _ { i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $f _ { i } ^ { b }$ is the width of the Gaussian distribution and is treated as the relative systematic uncertainty. Besides, we truncate the Gaussian integration in the case of the negative events number of background. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In Fig. 3 we show the constraints of the ATLAS stop/sbottom search data on the parameter space of natural SUSY. Generally, we can see that the stop mass can be more stringently constrained in case of $m _ { \\tilde { t } _ { L } } < m _ { \\tilde { t } _ { R } }$ than in case of $m _ { \\tilde { t } _ { L } } > m _ { \\tilde { t } _ { R } }$ ， which can be understood from Fig. 2 and Table I. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In the former case，since $\\tilde { t }  t \\tilde { \\chi } _ { 1 , 2 } ^ { 0 }$ and $\\tilde { b }  t \\tilde { \\chi } _ { 1 } ^ { - }$ are the dominant decay modes for moderate stop/sbottom mass ( $m _ { \\tilde { t } _ { 1 } } ~ > ~ 3 5 0 ~ \\cdot$ GeV)，by using the ATLAS data of hadronic （204号 $t { \\bar { t } } + { \\not { \\mathbb { E } } } _ { T }$ and $\\ell + \\mathrm { j e t s } + \\not {\\cal \\mathit { \\displaystyle } } \\not { \\cal \\mathit { \\displaystyle } } _ { T }$ , we can almost exclude $3 5 0 < m _ { \\tilde { t } _ { 1 } } < 5 9 0$ GeV and $3 5 0 < m _ { \\tilde { t } _ { 1 } } < 6 0 5$ （204号 GeV, respectively. But we should mention that since $\\tilde { t }  t \\tilde { \\chi } _ { 1 , 2 } ^ { 0 }$ and $\\tilde { b }  t \\tilde { \\chi } _ { 1 } ^ { - }$ have the same signal, some samples with a heavier stop can also be excluded by these two channels. But in the latter case,the stop mass is hardly bounded by the stop searches due to the suppression of $\\tilde { t }  t \\tilde { \\chi } _ { 1 , 2 } ^ { 0 }$ and $\\tilde { b }  t \\tilde { \\chi } _ { 1 } ^ { - }$ . Besides, we note that the sbottom search data of $2 b + { \\underline { { \\not E } } } _ { T }$ can give a complementary constraint on the stop mass, which excludes a light stop between 235-350 GeV in the former case and the exclusion limit can be up to 545 GeV in the latter case. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In Fig. 4 we combine the above exclusion limits from the three channels with $C L _ { s }$ method. It can be seen that the data can exclude at 95% CL a stop between 200-67O GeV for $m _ { \\tilde { t } _ { L } } < m _ { \\tilde { t } _ { R } }$ and 250-600 GeV for $m _ { \\tilde { t } _ { L } } > m _ { \\tilde { t } _ { R } }$ . These combined limits are much stronger than the limits from single channel. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Note that since our analysis aim at the natural SUSY where the value of $\\mu$ is preferred to be small (usually below 2Oo GeV), our results are relevant for the low $\\mu$ If $\\mu$ becomes large(the lightest neutralino becomes heavy） but the stop mass is fixed, the small mass difference between them will make the visible decay products (jets or leptons) of the stop be soft. Thus the signal detection eficiency becomes lower so that our direct search limits will become weak. We checked and found that when $m _ { \\tilde { t } _ { 1 } } = 5 0 0$ GeV, $\\mu > 3 0 0$ GeV can escape the constraints considered in this work.Besides, we noticed that if $\\mu$ gets heavier, the stop should also become heavy to keep the neutralino as LSP, which will suppress the production rate of stop pair and escape our constraints. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The effects of $\\tan \\beta$ on our results are shown in Fig.5 in the case of $m _ { \\tilde { t } _ { L } } < m _ { \\tilde { t } _ { R } }$ .From this figure we see that the limits get weak for a large $\\tan \\beta$ . The reason is that in the case of $m _ { \\tilde { t } _ { L } } ~ < ~ m _ { \\tilde { t } _ { R } }$ the decay width of $\\tilde { t } _ { 1 }  \\tilde { \\chi } _ { 1 } ^ { + } b$ （ $\\tilde { t } _ { 1 }  t \\tilde { \\chi } _ { 1 } ^ { 0 }$ ） is determined by $y _ { b } \\sim 1 / \\cos \\beta$ （204号 （204号 $( y _ { t } \\sim 1 / \\sin \\beta )$ ，and thus when $\\tan \\beta$ gets large, the branching ratio of ${ \\ddot { t } } _ { 1 }  t { \\tilde { \\chi } } _ { 1 } ^ { 0 }$ will be suppressed. Then the limits on the stop mass，which dominantly come from the decay （204 $\\tilde { t } _ { 1 }  t \\tilde { \\chi } _ { 1 } ^ { 0 }$ ， will become weak. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In the case of $m _ { \\tilde { t } _ { L } } > m _ { \\tilde { t } _ { R } }$ , our results are not sensitive to the value of $\\tan \\beta$ because in this case the decay widths of $\\tilde { t } _ { 1 }  \\tilde { \\chi } _ { 1 } ^ { + } b$ and $\\tilde { t } _ { 1 }  t \\tilde { \\chi } _ { 1 } ^ { 0 }$ are both determined by $y _ { t }$ and their branching ratios are not sensitive to $\\tan \\beta$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In Fig.6 we display the impact of the direct stop/sbottom searches on the stop sector. From the left panel we see that the two regions can be excluded by direct searches at $9 5 \\%$ （204号 CL. The right panel shows that the range of $2 < X _ { t } / M _ { s } < 3$ can be excluded for $m _ { \\tilde { t } _ { 1 } } < 6 0 0$ （204号 GeV at $9 5 \\%$ CL. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/41dcb241c057d506a92085c39853cdc88c3190aba977536410eebc97a8ca98a4.jpg",
+        "img_caption": [
+            "FIG.4: Same as Fig. 3, but showing the combined exclusion limits. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/38f44f987b3a96d2fbefab4321f51aca86fa03ba20ab775968527b221501f3ac.jpg",
+        "img_caption": [
+            "FIG. 5: Same as Fig. 4,but showing the dependence on $\\tan \\beta$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/cb270bd85bb5ce7b4c02119ee4ced769fea64577670bac57df256b1c9da9b59a.jpg",
+        "img_caption": [
+            "FIG. 6: Same as Fig. 3, but projected on different planes . "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Since the decay branching ratios of stop will be affected by the parameter $A _ { t }$ through the mixing angle $\\theta _ { \\tilde { t } }$ ，we let $A _ { t }$ vary in our calculations to examine the its effect on the exclusion limit. However，when the stop mass $m _ { \\tilde { t } _ { 1 } }$ is low (so that the LHC data can set limits),in order to get a 125 GeV SM-like Higgs we need a large $m _ { \\tilde { t } _ { 2 } }$ in addition to a large $A _ { t }$ . Then from the formula $\\sin ( 2 \\theta _ { \\tilde { t } } ) = 2 m _ { t } X _ { t } / ( m _ { \\tilde { t } _ { 1 } } ^ { 2 } - m _ { \\tilde { t } _ { 2 } } ^ { 2 } )$ where $X _ { t } = A _ { t } - \\mu / \\tan \\beta$ ， we see that the value of $\\sin ( 2 \\theta _ { \\tilde { t } } )$ is small and thus $\\theta _ { \\tilde { t } }$ will be close to $0$ or $\\pm \\pi / 2$ , which means that the stop is highly left-handed or right-handed. So the variation of $A _ { t }$ can affect the stop mixing,but its effect is quite limited due to our requirement of 125 GeV Higgs. We checked numerically that the constraints are not sensitive to the value of $A _ { t }$ in our case and mainly depend on the light stop scale and $\\tan \\beta$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "IV. CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We studied the constraints of the LHC search results on the stop mass in natural SUSY. Considering the constraints from the Higgs mass, B-physics and electroweak precision measurements, we scanned the parameter space of natural SUSY in the framework of MSSM, and then in the allowed parameter space we performed a Monte Carlo simulation for stop pair production followed by $\\tilde { t } _ { 1 }  t \\tilde { \\chi } _ { 1 } ^ { 0 }$ or $\\tilde { t } _ { 1 }  b \\tilde { \\chi } _ { 1 } ^ { + }$ and sbottom pair production followed by $\\tilde { b } _ { 1 }  b \\tilde { \\chi } _ { 1 } ^ { 0 }$ or $\\tilde { b } _ { 1 }  t \\tilde { \\chi } _ { 1 } ^ { - }$ . Using the combined results of ATLAS with 20.1 fb $^ - 1$ from the search of $\\ell + \\mathrm { j e t s } + \\not {\\cal E } _ { T }$ , hadronic $t { \\bar { t } } + { \\frac { \\not p _ { T } } { \\mu _ { T } } }$ and $2 b + { \\underline { { \\not { E } } } } _ { T }$ , we found that a stop lighter than 600 GeV ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "can be excluded at 95% CL. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "We appreciate the helpful discussions with Archil Kobakhidze, Junjie Cao and Jie Ren. This work was supported in part by the ARC Center of Excellence for Particle Physics at the Tera-scale,by the National Natural Science Foundation of China (NNSFC) under grant No. 11275245,10821504,11135003, 11305049 and 11275057, by the Startup Foundation for Doctors of Henan Normal University under contract No.11112,and by the Grant-in-Aid for Scientific Research (No. 24540246) from Ministry of Education, Culture, Sports, Science and Technology（MEXT) of Japan. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Appendix A: Comparison of our simulation with the ATLAS results ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In the following we present the comparison of our simulation with the ATLAS results. In Tables II, III and IV we present the results for $2 b + { \\underline { { { \\not { E } } } } } _ { T }$ ， $\\ell + \\mathrm { j e t s } + \\not { E } _ { T }$ and hadronic $t { \\bar { t } } + { \\not { \\mathbb { E } } } _ { T }$ respectively. ",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/397b660864fc8663509ca4a09e0c04dbc847a3fa9be39aa74bd9533f740c961d.jpg",
+        "table_caption": [
+            "TABLE II: Comparison of ATLAS and our simulation for $2 b + { \\underline { { \\not { E } } } } _ { T }$ when $( \\tilde { b } _ { 1 } , \\tilde { \\chi } _ { 1 } ^ { 0 } )$ =(600,1)GeV "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>cuts</td><td>ATLAS</td><td>our simulation</td></tr><tr><td>ET > 150 (GeV)</td><td>270</td><td>239.27</td></tr><tr><td>Pr(j1),Pr(j2),j3(veto)</td><td>110</td><td>91.85</td></tr><tr><td>△Φmin(3)</td><td>93</td><td>73</td></tr><tr><td>Emiss/meff(j1,j2,j3)and b-tag</td><td>24</td><td>19.46</td></tr><tr><td>mcT > 100 (GeV)</td><td>22</td><td>17.27</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "TABLE II: Comparison of ATLAS and our simulation for $\\ell + \\mathrm { j e t s } + { \\not { E } } _ { T }$ when $( \\tilde { t } _ { 1 } , \\tilde { \\chi } _ { 1 } ^ { 0 } ) { = } ( 6 5 0 , 1 ) \\mathrm { G e V }$ ",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/7537ad08c72171eb9cf22328fdba0c985376c52cf7c803da4c45967d77d41f79.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>cuts</td><td>ATLAS</td><td>our simulation</td></tr><tr><td>No selection</td><td>500004.0</td><td>500004.0</td></tr><tr><td>1 μ and 4 jets (80,60,40,25)</td><td>3704</td><td>3468</td></tr><tr><td>≥ 1 b-tag in 4 leading jets</td><td>3145.2</td><td>3089</td></tr><tr><td>EmTiss > 100 (GeV)</td><td>2930</td><td>2838</td></tr><tr><td>Emiss/√Hr> 5</td><td>2844.2</td><td>2757</td></tr><tr><td>△(jet,Eiss) > 0.8</td><td>2649</td><td>2488</td></tr><tr><td>Emiss > 200 (GeV)</td><td>2210.6</td><td>2016</td></tr><tr><td>iss/Hr >13</td><td>1619.1</td><td>1382</td></tr><tr><td>mT > 140 (GeV)</td><td>1474.9</td><td>1203</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "TABLE IV: Comparison of ATLAS and our simulation for hadronic $t \\bar { t } ~ + ~ \\ v { E } _ { T }$ when （204号 $( \\tilde { t } _ { 1 } , \\tilde { \\chi } _ { 1 } ^ { 0 } )$ =(600,0)GeV ",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/2a456e354e79873c34cc96627fbeb91b473ac1c10ad16cb64fbd73c8b7812862.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>cuts</td><td>ATLAS</td><td>our simulation</td></tr><tr><td>No selection</td><td>507.5</td><td>507.5</td></tr><tr><td>e/μ veto T>130(Gev)</td><td>270.1</td><td>303.8</td></tr><tr><td>Jet multiplicity and pT</td><td>92.2</td><td>105.1</td></tr><tr><td>Etrack > 30 (GeV) △（jet,miss）>π/5 △（T，mstrack)<π/</td><td>72</td><td>82.5</td></tr><tr><td>tau veto and b-tag</td><td>31.5</td><td>33.06</td></tr><tr><td>mT(b-jet,Emiss) >175 (GeV)</td><td>23.6</td><td>19.3</td></tr><tr><td>80 (Gev)<m/<270 (Gev)</td><td>11.9</td><td>10.14</td></tr><tr><td>Et > 150 (GeV)</td><td>11.8</td><td>9.89</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[1] G.Aad et al. [ATLAS Collaboration], Phys. Lett. B 716,1 (2012); S.Chatrchyan et al. [CMS Collaboration], Phys. Lett.B 716,30 (2012).   \n[2] G.G. Ross and R. Roberts, Nucl. Phys. B 377 (1992) 571; B. de Carlos and J. Casas, Phys. Lett.B 309 (1993) 320; G. W. Anderson and D. J. Castano, Phys. Lett. B 347 (1995) 300; S. Dimopoulos and G. Giudice, Phys. Lett. B 357 (1995) 573; P. H. Chankowski, J.R. Ellis, and S. Pokorski, Phys. Lett. B 423 (1998) 327; R. Barbieri and A. Strumia, Phys. Lett.B 433 (1998) 63; G. L. Kane and S. King, Phys. Lett. B 451 (1999) 113; L. Giusti, A. Romanino and A. Strumia, Nucl. Phys.B 550 (1999) 3; R. Kitano and Y. Nomura, Phys. Lett. B 631 (2005) 58.   \n[3] J. R. Ellis, K. Enqvist, D.V. Nanopoulos,and F. Zwirner, Mod. Phys. Lett.A 1 (1986) 57; R.Barbieri and G. Giudice, Nucl. Phys.B 306 (1988) 63; Z. Kang, J. Li and T.Li, JHEP 1211 (2012) 024.   \n[4] C. Brust,A. Katz, S. Lawrence and R. Sundrum, JHEP 1203, 103 (2012).   \n[5] M. Papucci, J. T. Ruderman and A. Weiler, JHEP 1209, 035 (2012).   \n[6] L. J. Hall, D. Pinner and J. T. Ruderman, JHEP 1204,131 (2012);   \n[7] M. Dine, A. Kagan and S. Samuel, Phys. Lett. B 243, 250 (1990). A. Cohen, D. B. Kaplan and A. Nelson,Phys.Lett.B 388,588 (1996)； H. Baer et al., JHEP 1010, 018 (2010)； D. Feldman, G. Kane, E. Kuflik and R. Lu, Phys. Lett. B 704, 56 (2011);   \n[8] G. W. Anderson, D. J. Castano and A. Riotto, Phys. Rev. D 55, 2950 (1997); K. L. Chan, U. Chattopadhyay and P. Nath, Phys. Rev. D 58, 096004 (1998); J. L. Feng, K. T. Matchev and T. Moroi, Phys. Rev. D 61, 075005 (2000)； J. Hisano, K. Kurosawa and Y. Nomura, Nucl. Phys. B 584, 3 (2000); R. Kitano and Y. Nomura, Phys. Rev. D 73, 095004 (2006); M. Asano, H. D. Kim, R. Kitano and Y. Shimizu, JHEP 1012, 019 (2010); S. Akula, M. Liu, P. Nath and G. Peim, Phys.Lett. B 709, 192 (2012); G. Bhattacharyya and T. S. Ray, JHEP 1205,022 (2012)； S. Krippendorf, H. P. Nilles, M. Ratz and M. W. Winkler, Phys. Lett. B 712,87 (2012); B. C. Allanach and B. Gripaios, JHEP 1205, 062 (2012); H. Baer, V. Barger, P. Huang and X. Tata, JHEP 1205,109 (2012); J. L. Feng and D. Sanford, Phys. Rev. D 86, 055015 (2012): L. Randall and M. Reece,arXiv:1206.6540 [hep-ph]; C. Wymant, Phys. Rev. D 86,115023 (2012); H. Baer et al., Phys. Rev. Lett. 109 (2012) 161802; Phys. Rev. D 87, B 722,100 (2013); E. Hardy,arXiv:1306.1534 [hep-ph]; M. Blanke, et al., JHEP 1306 (2013) 022;B. Bhattacherjee, et al.， arXiv:1301.2336 [hep-ph]; C. Han,F. Wang and J. M. Yang, arXiv:1304.5724 [hep-ph]. G. Altarelli, arXiv:1308.0545 [hep-ph];   \n[9] ATLAS Collaboration， ATLAS-CONF-2013-047； ATLAS-CONF-2013-049； ATLAS-CONF2013-036; CMS Collaboration， CMS-PAS-SUS-13-006； CMS-PAS-SUS-12-016; CMS-PASSUS-12-027.   \n[10] ATLAS Collaboration，ATLAS-CONF-2013-037； ATLAS-CONF-2013-024.   \n[11] ATLAS Collaboration,ATLAS-CONF-2013-053.   \n[12] R.Arnowitt and P. Nath, Phys.Rev. D 46,3981 (1992).   \n[13] M. Carena et al., JHEP 1203,014 (2012); J. Cao et al., Phys. Lett. B 710,665 (2012); JHEP 1203, 086 (2012); JHEP 1210,079 (2012); arXiv:1301.4641 [hep-ph]; J. Ellis and K. A. Olive, Eur.Phys. J. C 72, 2005 (2012); G. Bhattacharyya, A. Kundu and T. S. Ray, arXiv:1306.0344.   \n[14] J. Cao et al., JHEP 1211, 039 (2012); K. Ghosh et al, Phys.Rev. Lett.110,141801 (2013).   \n[15] R.Boughezal and M. Schulze,arXiv:1212.0898 [hep-ph]; M. L. Graesser and J. Shelton, arXiv:1212.4495 [hep-ph]; Z.-H. Yu, et al.， Phys. Rev. D 87, 055007 (2013)； G. Belanger, et al.，JHEP 1305，167 (2013)；R. Franceschini and R.Torre,Eur. Phys. J. C 73,2422 (2013); D. Ghosh and D. Sengupta, Eur. Phys. J. C 73, 2342 (2013); X.-J. Bi, Q.-S. Yan and P.-F. Yin, Phys. Rev. D 87, 035007 (2013); C.-Y. Chen, A. Freitas, T. Han and K. S. M. Lee, JHEP 1211, 124 (2012); E. L. Berger, Q.-H. Cao, J.-H. Yu and H. Zhang, Phys. Rev. Lett. 109,152004 (2012); P. Agrawal and C. Frugiuele, arXiv:1304.3068 [hep-ph]; J. Guo, Z. Kang, J. Li and T. Li, arXiv:1308.3075 [hep-ph].   \n[16] Z. Han,A. Katz, D. Krohn and M. Reece, JHEP 1208, 083 (2012).   \n[17] M. Drees, M. Hanussek and J. S. Kim,arXiv:1201.5714 [hep-ph]; M. Drees, M. Hanussek and J. S.Kim,arXiv:1304.7559 [hep-ph]; A. Delgado,G. F.Giudice,G. Isidori, M. Pierini and A. Strumia, Eur. Phys. J. C 73, 2370 (2013).   \n[18] D. S. M. Alves et al., arXiv:1205.5805 [hep-ph];   \n[19] Y. Bai, H. -C. Cheng, J. Galicchio and J. Gu, arXiv:1203.4813 [hep-ph]; Y. Bai, H.-C. Cheng, J. Gallicchio and J. Gu, arXiv:1304.3148 [hep-ph].   \n[20] D.Ghosh,arXiv:1308.0320 [hep-phl]； A. Chakraborty, D. K. Ghosh,D.Ghosh and D. Sengupua,arAiv:1oU3.o/7O [nep-pn]. 1. rIenn, M. SpanIowsky anu IvI. 1akeucIl, JILr 1Z0o, 091 (2012); D.E. Kaplan, K. Rehermann and D. Stolarski, JHEP 1207, 119 (2012); J. Thaler and K.Van Tilburg,JHEP 1202,093 (2012);   \n[21] O. Buchmueler and J. Marrouche, arXiv:1304.2185 [hep-ph].   \n[22] M.Perelstein and B. Shakya， arXiv:1208.0833 [hep-ph]； A. Choudhury and A. Datta, arXiv:1305.0928 [hep-ph]. S. Mohanty， S. Rao and D. P. Roy， JHEP 1211，175 (2012); C. Boehm, P. S. B. Dev, A. Mazumdar and E. Pukartas, JHEP 1306, 113 (2013);   \n[23] G. D. Kribs,A. Martin, and A. Menon, arXiv:1305.1313 [hep-ph].   \n[24] K. Kowalska and E. M. Sessolo,arXiv:1307.5790 [hep-ph].   \n[25] M. Frank et al., JHEP 0702,047 (2007); G. Degrassi et al., Eur.Phys. J. C 28,133 (2003); S. Heinemeyer，W. Hollik and G. Weiglein, Comput. Phys. Commun. 124, 76 (2000)； Eur. Phys. J. C 9, 343 (1999).   \n[26] P. Bechtle et al., Comput. Phys.Commun.182, 2605 (2011); Comput.Phys. Commun.181, 138 (2010).   \n[27] F. Mahmoudi, Comput. Phys. Commun. 180, 1579 (2009)； Comput. Phys. Commun. 178, 745 (2008).   \n[28] J. Cao and J. M. Yang, JHEP 0812, 006 (2008).   \n[29] P. A. R. Ade et al. [Planck Collaboration], arXiv:1303.5076 [astro-ph.CO].   \n[30] G. Belanger et al., Comput. Phys. Commun. 182,842 (2011).   \n[31] M. S. Carena, M. Quiros and C. E. M. Wagner, Nucl. Phys. B 461, 407 (1996); H. E. Haber, R. Hempfling and A. H. Hoang, Z. Phys. C 75, 539 (1997).   \n[32] J.F. Gunion and H. E. Haber,Nucl. Phys. B 272,1(1986) [Erratum: ibid. B 402,567(1993)].   \n[33] J.Alwall et al., JHEP 1106,128 (2011).   \n[34] T. Sjostrand, S. Mrenna and P. Z. Skands, JHEP 0605, 026 (2006).   \n[35] S. Ovyn, X. Rouby and V. Lemaitre, arXiv:0903.2225 [hep-ph].   \n[36] M. Cacciari, G.P. Salam and G. Soyez, JHEP 0804, 063 (2008).   \n[37] F. Caravaglios, M. L. Mangano, M. Moretti and R. Pittau, Nucl. Phys. B 539, 215 (1999).   \n[38] W. Beenakker et al., Nucl. Phys. B 515,3 (1998);   \n[39] J. Conway, CDF/PUB/STATISTICS/PUBLIC/6428; J. Conway, K. Maeshima, CDF/PUB/EXOTIC/PUBLIC/4476. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    }
+]

@@ -1,0 +1,552 @@
+[
+    {
+        "type": "text",
+        "text": "视觉观点采择中自我中心性偏差的抑制和归因之争",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吴梦慧 谢久书 邓铸（南京师范大学心理学院，南京210097）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要自我中心性偏差是社交失败的重要原因，但其产生机制还存在争议。以往研究存在抑制性选择模型与流利性错误归因两种理论观点：前者认为对自身观点的抑制失败会导致自我中心性偏差；后者则认为错误地选择自身更为流畅的信息会导致自我中心性偏差。为整合上述争论，提出抑制-归因协同作用模型，认为抑制和归因两种加工或可共同导致自我中心性偏差。未来研究应借助精巧的研究范式和特殊被试群体，进一步验证该模型。关键词自我中心性偏差，观点采择，视觉观点采择，社会互动，人际交流",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "视觉观点采择指个体从他人的视角看世界，以便理解他人“是否看到”和“看到的是什么”(Michelon & Zacks,2006; Samuel et al.,2019)。视觉观点采择能力作为个体认知发展的基础，是个体理解他人感知体验的认知过程，是社会互动的起点和前提。在准确推测他人观点时，个体需要理解不同个体对外界的感知体验截然不同，同时抑制自身不一致信息的干扰。但是，个体在视觉观点采择中难免受到自身信息的干扰，从而错误地采用自身信息去评估他人的体验，最终导致视觉观点采择偏差。这种由自身信息导致的视觉观点采择偏差被称为自我中心性偏差（Egocentric Bias）（又被称为自我中心偏差或自我中心干扰）(Samueletal.,2019;Voyer et al.,2017)。这一偏差是导致社会互动失败、人际交流障碍的主要原因之一。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，研究者提出了抑制性选择模型（Inhibitive Selection Model）和流利性错误归因（Fluency Misattribution）两种理论解释自我中心性偏差的产生机制(Birch et al.,2017; Frick& Baumeler,2017; Todd etal.,2016)。Leslie 等人(2005)提出抑制性选择模型，认为在推理他人观点时，被试需要抑制自己的视角，处理自己观点和他人观点之间的冲突。这种抑制性选择与执行功能有关，特别是与抑制控制有关。在此基础上，众多研究者进一步指出，当人们推理他人的观点时，很难完全忽视或抑制自身观点。并且，人们通常认为他人和自己持有相同的信息。因此，人们会用自身的视角去理解他人。但是，当自己和他人的视角信息不一致时，这种策略不再适用。此时，人们便倾向于抑制自身观点，并尝试分析和判断他人视角。如果这种抑制失败了，则会导致自我中心性偏差(Nobusako etal.,2017)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Birch 等人(2017)提出流利性错误归因理论，认为在推理他人观点时，人们倾向于因为自身观点在头脑中出现的更为流畅、顺利，从而将自己的观点错误地归因为他人的观点。流利性错误归因理论认为，自我中心性偏差并非源于自身视角或观点的抑制失败，而是源于对信息的错误选择。在视觉观点采择中，他人的信息和自身的信息会被同时激活或后者先被激活，等待人们的选择。但是，由于自身视角的信息更加凸显、流畅，且更容易整合，从而导致人们错误地选择此类信息，进而导致自我中心性偏差(Bernstein etal.,2018;Birch et al., 2017)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "两个理论分别聚焦视觉观点采择的不同加工过程，进而构建了截然不同的理论观点。抑制性选择模型主要关注信息冲突抑制过程对自我中心性偏差的影响，而忽略了信息提取和整合过程的影响(Amodio,2019)。与之相反，流利性错误归因理论则主要关注错误信息提取和整合的影响，而忽略了信息冲突抑制过程的影响。因此，这种理论取向上的分歧也暗示，上述理论可能均未完整揭示自我中心性偏差的产生机制。抑制性选择模型和流利性错误归因两种观点相互对立，却都能合理解释自我中心性偏差，并且均得到了众多实验证据的支持。近几年，这两种理论的争论是国内外视觉观点采择，乃至社会互动领域的热点和重点研究问题。然而，以往研究采用的范式多样，不同范式获得的结果较难比较。重要的是，目前尚未有研究根据实验范式系统梳理支持抑制性选择模型和流利性错误归因的研究证据。为此，本文首先根据实验范式梳理以往研究，以探讨自我中心性偏差的产生机制。然后，通过分析影响抑制选择和错误归因的因素，探讨自我中心性偏差的影响因素。进而，首次提出了抑制-归因协同作用模型，以求弥合以往研究的部分理论之争。最后，本文展望了自我中心性偏差的未来研究方向。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2自我中心性偏差的实验范式",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自我中心性偏差的主要测量依据是观测被试与他人观点的匹配情况如何影响被试在观点采择中的反应。因此，自我中心性偏差的测量有赖于视觉观点采择的测量。根据采择内容的深度和复杂性，视觉观点采择被分为一阶视觉观点采择和二阶视觉观点采择。前者指个体理解他人能否看到某事物；后者指个体理解他人眼中的世界是什么样子的 (Flavell etal.,1981;Gunia etal.,2021)。研究者设计了多种范式来考察一阶和二阶视觉观点采择的认知机制。常见的一阶视觉观点采择任务是点探测范式，二阶视觉观点采择任务包括自身转换任务、导演任务和两可数字范式等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1点探测范式",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "点探测范式（Dot-ProbeParadigm）常用来测试一阶视觉观点采择过程中出现的自我中心性偏差(Qureshi et al.,2020; Santiesteban et al.,2017; Wang et al.,2019)。在点探测范式中，被试将看到一张图片——房间中存在一位虚拟人，面向墙壁一侧，房间墙壁上随机呈现0-3个点。通过改变虚拟人的位置可以改变虚拟人的视角。当所有点都出现在虚拟人朝向一侧时，被试和虚拟人看到的点数一致，为一致条件。当虚拟人前后都有点呈现时，被试和虚拟人看到的点数不一致，为不一致条件。在不一致条件下，被试更易受自身信息的干扰，较难判断虚拟人看到的点数，即自我中心性偏差(Samson et al.,2010)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "值得注意的是，在点探测范式中，还存在另外一种与自我中心性偏差相对应的他人中心干扰（Altercentric Interference）（又被称为非自我中心干扰或反向自我中心干扰)。自我中心性偏差是指当人们理解他人视角中的世界时，人们自身视角的信息会干扰人们判断他人视角的信息；而他人中心干扰则是指当人们理解自身视角的世界时，场景中他人视角的信息会干扰人们理解自身视角的信息(Samson et al.,2010; Santiesteban et al.,2017; Surtees & Apperly,2012)。这两种干扰在不同人群中的表现是分离的。例如，研究者分别考察了健康被试、精神疾病患者和自闭症患者在点探测任务中的表现。结果发现，精神疾病患者和自闭症患者在推理他人观点时与健康被试一样均会受到自身信息的干扰，从而表现出相似的自我中心性偏差;然而，精神疾病患者和自闭症患者在理解自身观点时比健康被试更少地考虑他人的观点，从而表现出较少的他人中心干扰(Drayton et al.,2018; Schwarzkopf et al.,2014)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "此外，研究者也验证了点探测范式测量的是理解他人心理状态的视觉观点采择，而非其它与视觉观点采择无关的加工过程。Furlanetto 等人(2016)在点探测范式中向被试呈现三种不同状态的虚拟人：不戴眼镜的、戴透光眼镜的和戴不透光眼镜的虚拟人。结果发现，被试在判断不戴眼镜和戴透光眼镜的虚拟人看到的点数时表现出了明显的自我中心性偏差；而在判断戴不透光眼镜的虚拟人时却未表现出类似的自我中心性偏差。这表明，点探测范式测量的确实是视觉观点采择中的自我中心性偏差。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "此范式的研究结果主要支持抑制性选择模型。抑制性选择模型认为，抑制是视角转换表现差异的重要原因。在不一致条件下，由于被试自动加工虚拟人的视角，被试视角和他人视角产生冲突，被试需要抑制自身视角以解决该冲突，抑制失败则会产生自我中心性偏差。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2自身转换任务",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究者也经常使用自身转换任务（Own-Body Transformation Task,OBT）探究二阶视觉观点采择中自我中心性偏差的产生机制(Gardner et al.,2017; Jansen et al.,2020; van Elk etal.,2017)。该范式中，被试会看到一张四肢展开的人物图片，图片中人物会以不同角度旋转。被试需要判断图片中人物的左手还是右手上呈现有特定标记或持有目标物体。随着图片中人物旋转角度的增大，人物和被试间视角的差异增大。此时，被试通过心理旋转想象自己在他人位置时的视角变得更加困难，进而导致推理他人观点更加困难，即自我中心性偏差愈加明显(Zacks& Tversky,2005)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了探讨他人信息和自身信息激活的时间进程，van Elk 等人(2017）采用OBT 范式，要求被试判断红色手环在虚拟人的左手还是右手手腕。结果发现，当图片中的人物围绕Y轴方向旋转 ${ { 6 0 } ^ { \\circ } }$ 、 $1 2 0 ^ { \\circ }$ 和 $1 8 0 ^ { \\circ }$ 时，被试推理时间逐渐增长。此时，被试以自身观点为锚点，通过心理旋转推理他人观点。而当被试自身的观点更为凸显且心理旋转角度较大时，被试更易错误地将自身视角归因为他人视角，产生自我中心性偏差。这一研究结果表明，OBT 范式中，自身信息首先被激活。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因此，该范式的结果主要支持流利性错误归因理论。流利性错误归因理论认为，认知加工中信息的错误归因导致了自我中心性偏差。不一致条件下，被试自身的观点更为凸显、流畅，且激活更早，从而使被试错误地将自身视角的信息归因为他人视角的信息。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3导演任务",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究者使用导演任务（DirectorTask）也发现，被试在采择他人观点时容易产生自我中心性偏差(Apperly et al.,2010; Legg et al.,2017; Samuel et al.,2019)。实验要求被试和主试分别位于置物架两侧，架子上放置不同物品，部分物品被不透明挡板遮挡，只对被试可见，从而使被试和主试获得的视觉信息不同。实验中，被试需要根据架子另一侧主试的指示移动物品。例如，Wang 等人(2019)的研究中，置物架上有两个球，但其中较小的球对主试不可见。当主试发出指令“向左移动小球”时，被试往往忽略了主试只能看到较大的球的事实，向左移动了较小的球。结果表明，被试常常依赖自己的视觉信息做出判断，没有考虑到主试的视角，即表现出自我中心性偏差。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "部分研究者认为此范式的结果支持抑制性选择模型。Samuel等人(2019)认为，在导演任务中，被试将自身视角转为他人视角和将他人视角转为自己视角的成本是不对称的。前一种视角转换需要付出更大的成本。当被试为采纳他人观点而抑制自身更突出的观点时，这一抑制过程使推理过程更为艰难。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "但是，另外一部分研究者认为，此范式的结果支持流利性错误归因理论。Pile 等人(2017）采用导演任务测试社交焦虑是否影响人们推理他人观点的准确性。结果发现，高社交焦虑的年轻人在实验中表现出了更多的自我中心性偏差。这是因为，高社交焦虑的被试对社交存在一种负性偏向，会降低积极开展社会互动的动机，并使自身信息更为凸显，从而更易产生流利性错误归因(Creswell et al.,2014)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4两可数字范式",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "研究者采用两可数字范式（Ambiguous Number Paradigm）发现，人们在二阶视觉观点采择时易受自身观点影响(Millett et al.,2020; Surtees et al.,2013; Surtees et al.,2016)。实验中，被试需要判断虚拟人面前的数字是6还是9。一致条件下，数字竖直呈现，被试和虚拟人看到的数字相同（均为6或9)。不一致条件下，数字水平呈现，被试和虚拟人看到的数字不同（即当被试看到6时，虚拟人看到的是9，反之亦然)。结果发现，不一致条件下，被试判断虚拟人看到的数字更加困难，即自我中心性偏差。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "部分研究者认为此范式的研究结果支持抑制性选择模型。Elekes 等人(2016)认为，在两可数字范式中，被试可以根据当前的背景线索（例如，虚拟人观看数字的视角与自己不同）激活他们获得的信息。这些信息既包括被试自身视角获得的信息，也包括虚拟人视角获得的信息。当被试推理他人观点时，需要抑制已经激活并与他人观点相冲突的自身观点。当抑制不足或失败时，则产生自我中心性偏差。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "然而，尚有部分研究者认为此范式的结果也支持流利性错误归因理论。Todd 等人(2019）采用两可数字范式结合反应时限技术，发现当反应时限较短时，被试对虚拟人视角的推断也显著减少。此时，被试自身视角的信息更为全面、凸显，更易整合。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3自我中心性偏差的影响因素",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于自我中心性偏差可能由抑制性选择和流利性错误归因导致，因此影响上述两个加工过程的因素也会影响自我中心性偏差的产生和程度。根据以往研究，被试和观点采择对象的生理和社会相似性、被试的发展阶段以及被试所在的文化背景均会影响抑制性选择和流利性错误归因。下面将从上述几个方面，探讨影响自我中心性偏差的主要因素。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1线索的生理相似性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "现有研究表明，观点采择对象与被试的外部特征差异越大，被试越难理解观点采择对象的观点，越易产生自我中心性偏差(Ganesh et al.,2015;Muto etal.,2018)。例如，实验中，Kessler 和 Thomson (2010)请被试判断桌上物品在观点采择对象的左边还是右边。当观点采择对象由一位卡通人物变为一把空椅子时，被试的自我中心性偏差显著增强。与卡通人物相比，椅子不具有人类特征，被试对其观点采择时更难抑制自身信息的干扰。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Ganesh 等人(2015）从观点采择对象与自我的关系的角度，进一步探讨了观点采择对象的影响。结果发现，与他人照片相比，当观点采择对象是被试自己的照片时，被试观点采择的成绩更好。这表明，人们难以理解与自己不相似个体的观点。当被试理解不相似个体的观点时，对自身信息的抑制需要消耗大量认知资源，会表现出更多的自我中心性偏差。上述结果支持了抑制性选择模型。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2线索的社会相关性",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "观点采择对象与被试的社会相似性越高，被试越易直接采取自身观点，进而表现出更多的自我中心性偏差(Cakal et al.,2021; Simpson& Todd,2017)。例如，Simpson 和 Todd(2017)请两所学校的大学生采择两个学校象征物的观点。结果发现，被试采择自己学校象征物的观点时，更容易以自己的感知信息推理象征物的观点，表现出更多的自我中心性偏差。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Abbate 等人(2019)请被试采用群体外成员（即其他国家的人）视角完成一组对话，并设想他人如何看待某一问题。结果发现，被试更多地依赖群体知识（如刻板印象）推测他人的心理状态，而较少依赖自己的理解，从而更不容易受到自我中心性偏差的干扰。Klimecki(2019)也发现，在观点采择中，与推断群体外成员相比，推断群体内成员的信念时，被试更有可能认为他人与自己观点一致，从而错误使用自己的观点，产生自我中心性偏差。上述结果支持了流利性错误归因理论。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3年龄及个体发展",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "人们的抑制控制能力随着年龄的增长而增强，从而使自我中心性偏差随年龄的增长而减少，但是自我中心性偏差并不会消失(Martin et al.,2019; Zhao et al.,2018)。Zhao 等人(2018)请8岁和10岁儿童完成导演任务。结果发现，10岁儿童推理他人观点的能力优于8岁儿童。表明，被试的自我中心性偏差随年龄增长明显下降。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于毕生发展思想，Bermstein 等人(2011)测量了年龄在3岁到95 岁之间被试的观点采择能力，首次发现自我中心性偏差在人一生中呈U型曲线发展——自我中心性偏差在3岁时形成，5岁时趋于下降；然后，稳定下来并一直存在；最后，在老年时增加。老年人自我中心性偏差的增强，一方面可能由于记忆能力退化，导致他们忘记了自己对他人最初的预测，并利用结果信息重建对他人的推测；另一方面可能是因为抑制控制能力的衰退，使他们难以抑制自身观点。这一解释支持了抑制性选择模型。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4东西方文化特征",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "文化对人们克服自我中心性偏差具有深远影响，但相关研究结果也比较复杂(Wang et al,2021; Zhai etal.,2021)。Markus 和 Kitayama(1991)发现，多数西方文化强调关注自我，东亚文化强调关注他人和群体。因此，与受西方文化影响的被试相比，东亚文化背景的被试在观点采择中对信息的错误选择较少，从而受自我中心性偏差的干扰较小。Chopik 等人(2017)请63 个国家的被试推理他人在特定情境下的想法。结果发现，与集体主义国家的被试相比，个人主义国家的被试在观点采择任务中的表现更差。这表明，个人主义使人们自身的观点在观点采择中更加凸显、流畅，从而导致被试在推理他人心理状态时，更易产生自我中心性偏差。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "然而，Wang 等人(2019)采用点探测范式和导演任务测量了英国和台湾大学生。结果发现，台湾和英国大学生在这两个任务上都表现出相似的自我中心性偏差。这一研究发现与以往研究不同。东西方文化是否会导致不同的自我中心性偏差，以及文化因素如何通过抑制性选择或流利性错误归因影响自我中心性偏差尚需更多研究深入探讨。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4抑制-归因协同作用模型",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "近几年，抑制性选择模型和流利性错误归因理论的争论一直很激烈，每种理论观点均得到了不少研究证据的支持。而且，导演任务、两可数字范式等研究结果均可被两种理论解释。基于以往研究，本文假设强调抑制过程的抑制性选择模型和重视整合过程的流利性错误归因理论可能并不是互斥的关系，而可能是协同作用，共同导致了自我中心性偏差。因此，本文尝试提出一个整合框架以弥合以往的理论之争。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "FeldmanHall和 Shenhav(2019)提出自动推理和观点采择可以减少社会不确定性的三阶段模型。该模型认为，与他人互动是人类最固有的不确定行为之一。人们会因为外界激励推进社会互动，并以减少不确定性的方式与他人互动。具体而言，人们推理他人观点包括三个阶段：（1）自动性推理过程。此时，个体采用过去的知识经验和现有的背景线索快速缩小对他人的推测范围。这反映了人们的先验知识与最易获得的环境信息的快速整合。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）控制性推理过程。此时，个体试图站在他人角度理解当前环境，并据此判断他人可能的行为和情感反应，即通过感知他人的思想和观点完善推理过程。（3）反馈性学习过程。个体基于新知识或他人行为的反馈更新预测，以更好地推测他人观点。其中，过程（1）和（2）并不是完全分隔的，二者在很大程度上同时发生。但是，该模型着重对推理他人过程的阐述，不能解释自我中心性偏差的发生机制。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文借鉴FeldmanHall和 Shenhav (2019)的模型，尝试提出抑制-归因协同作用模型（见图1)。具体而言，当接触到他人高不确定性的观点时，人们难以正确推理他人在某一情境下的观点。此时，抑制性选择模型和流利性错误归因可能通过三条加工途径导致自我中心性偏差：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）个体利用先验知识及当前信息对环境做出初步判断。这一推理过程自动、快速但准确性低。因为个体更多站在自己的角度考虑问题。此时，个体如果推理他人观点，需要首先抑制自身观点。如果被试自身观点被成功抑制，个体做出判断时的不确定性显著降低，从而能够正确理解他人的观点。例如，在点探测范式中，被试通常可以成功抑制自身观点，站在他人视角考虑问题，做出正确反应(Francois&Rossetti,2020; Santiesteban et al,2017; Surtees & Apperly, 2012)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（2）当个体无法抑制自身信息时，个体在观点采择中需要处理自己和他人两种视角信息的冲突。此时，个体推理他人观点仍然具有高不确定性。如果个体可以在两种冲突的观点间做出正确选择，即正确归因他人观点。那么，个体视觉观点采择的不确定性将降低。个体可以成功完成视觉观点采择，而不会出现自我中心性偏差。研究发现，推断群体外成员时，被试自身信息更为流畅、凸显，抑制自身信息消耗大量认知资源。但是，由于群体外成员的信念与自己差别较大，被试仍然可以正确归因群体外成员的观点，从而避免自我中心性偏差的干扰(Abbate et al.,2019; Klimecki, 2019)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）当个体无法抑制自身信息，并且归因错误时，则会产生自我中心性偏差。此时，自身的信息更为凸显、流畅，个体难以抑制自身信息。并且，在高不确定性条件下，个体难以在自己和他人的冲突观点间做出正确选择，从而将自身观点错误归因为他人的观点，最终导致自我中心性偏差。例如，以往研究发现，将虚拟人替换为椅子和箭头等非社会性物体时，被试更难抑制自身观点的干扰，从而更易产生自我中心性偏差(Kessler&Thomson, 2010; Wilson et al., 2017)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "抑制性选择和流利性错误归因共同约束了人们对他人观点的推测，从而减少了对他人观点的不确定性。这一推理过程同时依赖于人们对他人潜在观点的学习性预测。例如，人们会根据他人所属的社会群体开展预测(Abbate et al.,2019;Klimecki,2019)。这些预测又可以通过两种形式给予人们反馈，以便实时更新视觉观点采择的加工进程：（1）直接观察他人在特定情境中的观点和行为；（2）对他人先验知识的更新(Debiec&Olsson,2017;Frith &Frith,2006)。通过这两个途径，个体根据新证据与先前的推理组合，更新对他人视角和观点的预测，从而达到准确推理他人视角和观点的目的。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/6fe95366b1ca168966b9076823045cbb28363fad885187be63e6d2de7fe5cce6.jpg",
+        "img_caption": [
+            "图1抑制-归因协同作用模型图"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5总结与展望 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "自我中心性偏差的研究揭示了人类视觉观点采择能力的不足，是理解人类社会互动的重要研究切入点。以往研究采用众多实验范式考察了自我中心性偏差，发现了一些关键的影响因素。然而，自我中心性偏差源于抑制性选择模型或流利性错误归因的观点仍争论不休。在回顾和总结自我中心性偏差的相关研究及其成果的基础上，本文认为，未来关于自我中心性偏差的研究可以围绕以下三个方面进一步展开：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "第一，探索验证领域一般性与领域特殊性干扰在自我中心性偏差中的作用。抑制性选择模型认为观点采择的结果并不支持领域一般性记忆干扰的观点，更符合人们参与了他人领域特殊性行为（如推理他人观点）的预期。具体而言，被试可以同时考虑自身和他人的观点，但是需要对自身观点加以抑制。否则，在视觉观点采择过程中将会出现自我中心性偏差(Surian&Franchin,2020)。流利性错误归因暗示领域一般性注意过程调节了视觉观点采择的表现。当被试没有注意到他人的观点时，更易采用自身信息做出错误判断(Santiesteban et al,2017)。但是，领域一般性和领域特殊性干扰对自我中心性偏差作用的界限还未明晰。因此，后续研究在试图分离抑制性选择模型及流利性错误归因的同时，也要关注这两种因素的作用",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "机制。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "第二，在中国文化背景下开展自我中心性偏差的研究。文化因素如何基于抑制性选择或流利性错误归因影响自我中心性偏差尚不明确。另外，目前的研究多集中在欧美国家，国内研究较为缺乏。未来研究可以采用大数据、多中心的研究取向深入探讨中国文化背景下的自我中心性偏差，并跨文化比较中西方的研究结果。例如，中国传统的群体意识和从众心态以及西方文化下的独立意识和个人主义是比文化框架更值得探讨的、更稳定的深层心理因素(Chopik et al.,2017)。鉴于视觉观点采择在日常社会交流中的重要作用，未来研究应揭示自我中心性偏差在不同文化和社会环境中的不同表现方式。此类研究将有助于从更广泛和更具代表性的维度为文化因素影响自我中心性偏差的研究提供指导。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "第三，探索如何通过减少自我中心性偏差促进社会互动。自我中心性偏差会阻碍人们的视觉观点采择过程。那么，是否可以通过干预的方法减少自我中心性偏差，促进社会互动呢？初步研究已支持该假设的可行性。例如，Van Mier (2019)发现，在触觉平行性任务(Haptic Parallelity Task)中，以自我为中心的参考系主要以手为中心。当被试将手握住扶手时，与将手平放在扶手上相比，被试的自我中心性偏差明显减弱。但是，这类克服自我中心性偏差的研究相对较少。在未来的研究中，研究者应探索如何克服或减少自我中心性偏差促进社会互动。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Amodio,D.M. (2019). Social cognition 2.0: An interactive memory systems account. Trends in Cognitive Sciences,23(1),21-33.doi:10.1016/j.tics.2018.10.002 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abbate,S. C., Giammusso,I.,& Boca, S.(2019).The effect of perspective-taking on linguistic intergroup bias. Journal of Language and Social Psychology,39(2),183-199.doi:10.1177/0261927x19874383 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Apperly,I.A.,Carroll,D.J.,Samson,D.,Humphreys,G.W., Qureshi,A.,& Moffit, G.(2010). Whyare there limits on theory of mind use? Evidence from adults' ability to follow instructions from an ignorant speaker. Quarterly Journal of Experimental Psychology, 63(6),1201-1217. doi:10.1080/17470210903281582 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Bernstein,D.M.,Erdfelder,E.,Meltzof,A.N.,Peria,W.,&Loftus,G.R.(2011).Hindsightbias from3 to95 years of age.Journal of Experimental Psychology: Learning Memory and Cognition, 37(2),378-391. doi:10.1037/a0021971 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Bernstein,D.M., Kumar,R., Masson,M.E.J.,& Levitin,D.J. (2018).Fluency misatribution and auditory hindsight bias.Memory & Cognition,46(8),1331-1343.doi:10.3758/s13421-018-0840-6 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Birch,S.A.J.,Brosseau-Liard,P.E.,Haddock,T.,&Ghrear,S.E.(20l7).A curseofknowledge'inthe absence of knowledge? People misatribute fluency when judging how common knowledge is among their peers. Cognition, 166,447-458. doi:10.1016/j.cognition.2017.04.015 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Cakal,H., Halabi,S., Cazan,A.-M.,& Eller,A. (2O21). Intergroup contact and endorsement of social change motivations: The mediating role of intergroup trust, perspective-taking,and intergroup anxiety among three advantaged groups in Northern Cyprus, Romania, and Israel. Group Processes & Intergroup Relations,24(1),48-67. doi:10.1177/1368430219885163 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Chopik, W.J.,O'Brien,E.,& Konrath, S.H. (2017).Differences in empathic concern and perspective taking across 63 countries.Journal of Cross Cultural Psychology, 48(1),23-38. doi:10.1177/0022022116673910 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Creswell,C.,Murry,L.,&Cooper,P. (2014). Interpretationand expectation inchildhoodanxietydisorders: Age effects and social specificity.Journal of Abnormal Child Psychology, 42(3),453-465. doi:10.1007/s10802-013-9795-z ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Debiec,J.,&Olsson,A.(2Ol7).Social fear learning:From animal models to human function.Trends in Cognitive Sciences,21(7),546-555.doi:10.1016/j.tics.2017.04.010 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Drayton,L.A.,Santos,L.R.,&Baskin-Sommers,A.(2018).Psychopaths fail to automaticall take the perspective of others.Proceedings of the National Academy of Sciences of the United States ofAmerica,115(13), 3302-3307. doi:10.1073/pnas.1721903115 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Elekes,F., Varga,M.,& Kiraly,I. (20l6).Evidence for spontaneous level-2 perspective taking in adults. Consciousness and Cognition, 41, 93-103. doi:10.1016/j.concog.2016.02.010   \nFeldmanHall,O.,& Shenhav,A. (2019). Resolving uncertainty in a social world. Nature Human Behaviour, 3(5), 426-435. doi:10.1038/s41562-019-0590-x   \nFlavell,J.H.,veret,.A,Croft,K.,&Favell,E.R. (981).Youngchidre'sknowledgeaboutvisualperptio: Further evidence for the Level 1-Level 2 distinction. Developmental Psychology， 17(1),99-103. doi:10.1037/0012-1649.17.1.99   \nFrancois, Q.,& Rosseti, Y.(2020). What do theory-of-mind tasks actually measure? Theory and practice Perspectives on Psychological Science,15(2),384-396. doi:10.1177/1745691619896607   \nFrick,A.,& Baumeler,D. (2017).Therelationbetweenspatial perspectivetaking andinibitorycontrolin6-yearold children. Psychological Research,81(4),730-739.doi:10.100/s00426-016-0785-y   \nFrith, C.D.,&Frith, U.(20o6).How we predict what other people are going to do.Brain Research,1079,36-46. doi:10.1016/j.brainres.2005.12.126   \nFurlaneto,T.,BecchioC.Samson,D.,&Apperly,I. (O16).Altercentric interferencein level1visualperspective taking reflects the ascription of mental states, not submentalizing.Journal of Experimental Psychology: Human Perception and Performance, 42(2),158-163.doi:10.1037/xhp0000138   \nGanesh,S.,van Schie,H.T., Cross,E. S.,de Lange,F.P.,& Wigboldus,D.H. (2015). Disentangling neural processes of egocentric and allocentric mental spatial transformations using whole-body photos of self and other. Neuroimage, 116,30-39. doi:10.1016/j.neuroimage.2015.05.003   \nGardner, M.R., Stent, C., Mohr, C.,& Golding,J.F. (2017). Embodied perspective-taking indicated byselective disruption from aberrant self motion. Psychological Research,81(2),480-489. doi:10.1007/s00426-016- 0755-4   \nGunia,A., Moraresku, S.,& Vlcek, K. (2021). Brain mechanisms of visuospatial perspective-taking in relation to object mental rotation and the theory of mind. Behavioural Brain Research， 407,113247. doi:10.1016/j.bbr.2021.113247   \nJansen,P.,Render,A., Scheer, C.,& Siebertz,M. (2020).Mental rotation with abstract and embodied objects as stimuli: Evidence from event-related potential (ERP). Experimental Brain Research, 238(3), 525-535. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1007/s00221-020-05734-w ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Kessler, K.,& Thomson,L.A.(2O10). The embodied nature of spatial perspective taking: Embodied transformation versus sensorimotor interference.Cognition,114(1),72-88. doi:10.1016/j.cognition.2009.08.015 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Klimecki,O.M. (2019).The role of empathyandcompasson inconflict resolution.Emotion Review,1l(4),310- 325.doi:10.1177/1754073919838609 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Legg,E.W.,Olivier,L.,Samuel,S.,LurzR.,& Clayton,N.S.(20l7).Error rate on the director's task is influenced by the need to take another’s perspective but not the type of perspective. Royal Society Open Science,4(8),170284.doi:10.1098/rs0s.170284 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Leslie,A.M., German,T.P.,& Polizzi,P. (20o5).Belief-desire reasoning as a process of selection. Cognitive Psychology, 50(1),45-85. doi:10.1016/j.cogpsych.2004.06.002 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Markus,H.R.,& Kitayama,S.(1991).Culture and the self: Implications for cognition,emotion,and motivation Psychological Review, 98(2),224-253.doi:10.1037/0033-295x.98.2.224 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Martin,A. K.,Perceval, G.,Davies,I,Su,P.,Huang,J.,& Meinzer,M. (2019). Visual perspective taking in young and older adults.Journal of Experimental Psychology:General,148(11),2006-2026. doi:10.1037/xge0000584 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Michelon,P.,& Zacks,J.M.(2006).Two kinds of visual perspective taking.Perception&Psychophysics,68(2), 327-337. doi:10.3758/bf03193680 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Milett,A. C., D'Souza,A.D. C.,& Cole, G. G.(2020).Atribution of vision and knowledge in ‘spontaneous perspective taking'.Psychological Research,84(6),1758-1765.doi:10.1007/s00426-019-01179-1 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Muto,H.,Matsushita,S.,& Morikawa,K. (2018).Spatial perspective taking mediated by whole-body motor simulation.Journal of Experimental Psychology: Human Perception and Performance,44(3),337-355. doi:10.1037/xhp0000464 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Nobusako,S.,Nishi,Y.,Nishi,Y.,Shuto,T.,Asano,D.,Osumi,M.,& Morioka,S.(2017).Transcranial direct current stimulation of the temporoparietal junction and inferior frontal cortex improves imitationinhibition and perspective-taking with no efect on the autism-spectrum quotient score.Frontiers in Behavioral Neuroscience,11,84.doi:10.3389/fnbeh.2017.00084 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Pile,V.,Haler,S.P.W.,Hiu, C.F.,&Lau,J.Y.F.(2O17). Young people with higher social anxiety are le likely to adopt the perspective of another: Data from the director task.Journal of Behavior Therapy and ExperimentalPsychiatry,55,41-48.doi:10.1016/j.jbtep.2016.11.002 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Qureshi,A.W.,Bretherton,L.,Marsh,B.,& Monk,R.L.(2O20).Stimulationof thedorsolateral prefrontal cortex impacts conflict resolution in Level-1 visual perspective taking. Cognitive Afective & Behavioral Neuroscience,20(3), 565-574. doi:10.3758/s13415-020-00786-5 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Samson,D.,Apperly,I.A.,Braithwaite,J.J.,Andrews,B.J.,&Bodley Scot, S.E. (2010). Seeing it their way: Evidence for rapid and involuntary computation of what other people see. Journal of Experimental Psychology: Human Perception and Performance, 36(5),1255-1266. doi:10.1037/a0018729   \nSamuel,S.,Roehr-Brackin,K., Jelbert, S.,& Clayton,N.S. (2019).Flexibleegocentricity: Asymmetric switch costs on a perspective-taking task. Journal of Experimental Psychology: Learning Memory and Cognition, 45(2),213-218. doi:10.1037/xlm0000582   \nSantiesteban,I.,Kaur, S., Bird, G.,& Catmur, C.J.N. (217).Attentional processes, notimplicit mentalizing, mediate performance in a perspective-taking task: Evidence from stimulation of the temporoparietal junction. Neuroimage,155,305-311. doi:10.1016/j.neuroimage.2017.04.055   \nSchwarzkopf, S.,Schilbach,L. Vogeley,K.,& Timmermans,B. (2014).“Making itexplicit\"makes a difference: Evidence for a dissociation of spontaneous and intentional level 1 perspective taking in high-functioning autism. Cognition,131(3),345-354. doi:10.1016/j.cognition.2014.02.003   \nSimpson,A.J.,& Todd,A. R. (2017). Intergroup visual perspective-taking: Shared group membership impairs self-perspective inhibition but may facilitate perspective calculation. Cognition,166,371-381. doi:10.1016/j.cognition.2017.06.003   \nSurian,L.,& Franchin,L. (2020). On the domain specificity of the mechanisms underpinning spontaneous anticipatory looks in false-belief tasks.Developmental Science,23(6),e12955.doi:10.1111/desc.12955   \nSurtes,A.,& Apperly, I. A. (2012). Egocentrism and automatic perspective taking in children and adults. Child Development, 83(2),452-460. doi:10.1111/j.1467-8624.2011.01730.x   \nSurtees,A.,Apperly,I.A.,& Samson,D. (2ol3).Similarities and diffrences in visual and spatialperspectivetaking processes. Cognition,129(2),426-438. doi:10.1016/j.cognition.2013.06.008   \nSurtes,A., Samson,D., & Apperly,I.A. (2016). Unintentional perspective-taking calculates whether something is seen, but not how it is seen. Cognition,148,97-105. doi:10.1016/j.cognition.2015.12.010   \nTodd,A. R., Simpson,A.J.,& Cameron, C.D.(2019). Time pressure disrupts level-2, but not level-1,visual perspective calculation: A process-dissociation analysis. Cognition, 189, 41-54. doi:10.1016/j.cognition.2019.03.002   \nTodd,A. R., Simpson,A. J.,& Tamir, D.I. (2016). Active perspective taking induces flexible use of self",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "knowledge during social inference.Journal of Experimental Psychology: General,145(12),1583-1588. doi:10.1037/xge0000237 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "van Elk,M.,Duizer,M., Sligte,I.,&van Schie,H. (2O17).Transcranial direct current stimulation of the right temporoparietal junction impairs third-person perspective taking. Cognitive Affective & Behavioral Neuroscience,17(1),9-23.doi:10.3758/s13415-016-0462-z ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Van Mier,H.I. (2019). Changing the influence of the egocentric reference frame impacts deviations in haptic parallelity matching.Experimental Brain Research,237(9),2387-2395. doi:10.1007/s00221-019-05596-x ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Voyer,D.,Jansen,P.,&Kaltner,S.(2O17).Mentalrotation with egocentricandobject-based transformations.The Quarterly JournalofExperimentalPsychology，70(11),2319-2330. doi:10.1080/17470218.2016.1233571 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Wang,J.J.,Tseng,P.,Juan,C.H.,Frisson,S.,&ApperlyI.A.(O9).Perspective-takingacrosscultures:ared biases in Taiwanese and British adults. Royal Society Open Science, 6(11),190540. doi:10.1098/rs0s.190540 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Wilson,C.J., Soranzo,A.,& Bertamini, M. (2017).Attentional interference is modulated by salience not sentience.Acta Psychologica, 178,56-65.doi:10.1016/j.actpsy.2017.05.010 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Zacks,J.M.,&Tversky,B. (2oo5).Multiple systems for spatial imagery: Transformations ofobjects and bodies. Spatial Cognition Computation,5(4),271-306.doi:10.1207/s15427633scc0504_1 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Zhai,J., Xie,J.,Chen,J.,Huang,Y.,Ma,Y.,& Huang,Y.(2O21).The presence of other-race people disrupts spontaneous level-2 visual perspective taking. Scandinavian Journal of Psychology.Advance online publication. doi:10.1111/sjop.12751 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Zhao,L.,Wang,J.J.,& Apperly,I.A.(2018).The cognitivedemands ofremembering a speaker's perspective and managing common ground size modulate 8-and 10-year-olds' perspective-taking abilities.Journal of Experimental Child Psychology,174,130-149.doi:10.1016/j.jecp.2018.05.013 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The debate between inhibition and attribution of egocentric bias in visual perspective taking ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "WUMenghui; XIE Jiushu; DENG Zhu (School of Psychology,Nanjing Normal University,Nanjing 21oo97,China) ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Egocentric bias plays an important role in unsuccessful social interaction. However, its inner mechanisms are stillunder debate. Specifically, the inhibitive selection model and fluency misatribution theory hold different statements on the emergence of the egocentric bias: inhibitive selection model holds that the failure of suppressing one's opinion will lead to the egocentric bias; fluency misattribution holds that incorrect choice of one's information, which is more fluent, leads to the egocentric bias.To integrate the above debates, we propose the inhibition-attribution collboration model, suggesting that inhibition and atribution may jointly lead to the egocentric bias. Future studies should verify this model using sophisticated research paradigms and special groups of participants. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Key words: Egocentric Bias, Perspective Taking, Visual Perspective Taking, Social Interaction, Interpersonal Communication ",
+        "page_idx": 15
+    }
+]

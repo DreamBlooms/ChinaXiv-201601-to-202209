@@ -1,0 +1,264 @@
+[
+    {
+        "type": "text",
+        "text": "Toll-like Receptor 2 Costimulation Potentiates the Antitumor ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Efficacy of CAR T Cells ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Authors: ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yunxin Lai1,2†, Jianyu Weng'†, Xinru Wei1,2,Le Qin1,²,Peilong Lai3,Ruocong Zhao1, 2,ZhiwuJiang12,BaihengLi12,SimiaoLin12,Suna Wang12,Qiting $\\mathrm { W u } ^ { 1 , 2 }$ , Zhaoyang Tang4,5, Pentao Liu,Duanqing Pei1,2, Yao Yao1,², Xin ${ \\mathrm { D u } } ^ { 3 * }$ ,Peng Li1,2. 7\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Affiliations: ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "lKey Laboratory of Regenerative Biology, South China Institute for Stem Cell Biology and Regenerative Medicine, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences, Guangzhou, 510530, China;   \n2Guangdong Provincial Key Laboratory of Stem Cell and Regenerative Medicine, South China Institute for Stem Cell Biology and Regenerative Medicine, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences,Guangzhou, 510530, China;   \n3Department of Hematology, Guangdong General Hospital/Guangdong Academy of Medical Sciences, Guangzhou 510080, Guangdong, China;   \n4Guangdong Zhaotai InVivo Biomedicine Co. Ltd., Guangzhou, 51000o, China; 5Hunan Zhaotai Yongren Medical Innovation Co. Ltd., Changsha, 410000, China; 6Wellcome Trust Sanger Institute, Hinxton, Cambridge CB10 1HH, England, UK; 7Department of Abdominal Surgery， Affiliated Cancer Hospital & Institute of Guangzhou Medical University of Guangzhou Medical University， Guangzhou Medical University, Guangzhou, Guangdong, 51Oo95, China.   \n\\*Correspondence to: Peng Li, PhD,email: li_peng $@$ gibh.ac.cn; Xin Du, MD/PhD, email: miyadu $@$ hotmail.com.   \nFootnotes: $\\dagger$ indicates co-first authorship.   \nOne Sentence Summary:   \nThe innate immune receptor TLR2, incorporated into CARs, enhanced the efficacy of CAR T cells in eliminating leukemia and solid tumors. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Chimeric antigen receptor (CAR) T cell immunotherapies have shown unprecedented success in treating leukemia but limited clinical efficacy in solid tumors.Here, we generated $1 9 2 8 \\mathrm { z T } 2$ and $ { \\mathrm { m } } 2 8  { \\mathrm { z T } } 2$ ， targeting CD19 and mesothelin，respectively，by introducing the Toll/interleukin-1 receptor (TIR) domain of Toll-like receptor 2 (TLR2) to $1 9 2 8 \\mathrm { z }$ and $ { \\mathbf { m } } 2 8  { \\mathbf { z } }$ T cells expressing $1 9 2 8 z \\mathrm { T } 2$ or $ { \\mathrm { m } } 2 8  { \\mathrm { z T } } 2$ showed improved expansion, persistency and effector function against $\\mathrm { C D 1 9 ^ { + } }$ leukemia or mesothelin+ solid tumors respectively in vitro and in vivo. In a patient with relapsed B cell acute lymphoblastic leukemia, a single dose of $5 { \\times } 1 0 ^ { 4 } / \\mathrm { k g } ~ 1 9 2 8 \\mathrm { z T } 2$ T cells resulted in robust expansion and leukemia eradication and led to complete remission. Hence, our results demonstrate that TLR2 signaling can contribute to the efficacy of CAR T cells.Further clinical trials are warranted to establish the safety and efficacy of this approach. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Introduction   \nThe success of the adoptive transfer of CD19-specific chimeric antigen receptor (CAR) T cells represents a major step in cancer immunotherapy. Both $\\mathrm { C D } 3 \\zeta$ and costimulatory domains ‘ are needed to generate effective CARs that provide the signals necessary for full activation，expansion and survival of CAR T cells. The incorporation of costimulatory molecules CD28 ², 4-1BB 3,4,OX-40 ’, CD27  and ICOS ’ significantly improve the expansion, cytokine production, in vivo persistence and antitumor efficacy of CAR T cells. Moreover, the efficacy of CAR T cells for solid tumors is substantially poorer than that for leukemia 8.9.Given the few costimulatory molecules that have been used in the design of CARs，novel intracellular signals are needed to improve their efficacy so as to effectively treat not only leukemia but also solid tumors.   \nThe intracellular signaling domains of CARs mainly derive from the costimulatory receptors expressed on T cells that are critical for their adaptive immune responses. Nevertheless, the innate immune receptor Toll-like receptor 2 (TLR2) is highly expressed on activated and memory T cells, and the TLR2 signaling increases Tcellexpansionandcytokine production10-13，lowers theactivation threshold for costimulatory signals delivered by antigen presenting cells (APCs), facitesthegenerationofmemoryCD8Tcell14-16，anddirectlytrigersTh1 effector functions 17．In addition，TLR2-mediated signaling can abolish the suppressive capacities of regulatory T (Treg) cels18. Furthermore， T cell hyporesponsiveness with impaired $\\mathrm { I F N } { - } \\gamma$ and IL-2 production can partially be ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "accounted for by diminished expression of TLR2 on T cells 19. Strikingly, TLR2 ligands induce the regression of established leukemia and solid tumors through compromising the suppressive function of Foxp3+ Treg cells and enhancing the cytotoxicity of tumor-specific T cells20.21. TLR2 can form heterodimers with TLR1 or TLR6 to initiate a proinflammatory response 2.23. However, TLR2 may also form weak homodimers，which allw it to directly bind to MyD88 24.Therefore，we proposed that TLR2 signaling could potentiate the antitumor activity of CAR T cells. To test our hypothesis，we generated CARs targeting CD19 (1928z） and mesothelin $( \\mathrm { m } 2 8 z )$ by linking scFv with CD28 and $\\mathrm { C D } 3 \\zeta$ signaling domains and then generated $1 9 2 8 z \\mathrm { T } 2$ or $ { \\mathrm { m } } 2 8  { \\mathrm { z T } } 2$ by adding the TIR domain of TLR2 to the $3 ^ { \\circ }$ end of （204号 $\\mathrm { C D } 3 \\zeta .$ . We compared the functions of CAR Tcels with or without the TLR2 signaling domain and found that the addition of a TLR2 domain led to enhanced antitumor responses for both leukemia and solid tumors.To test the efficacy and safety of TLR2 construct in humans, we conducted a pilot trial in a patient with relapsed B cell acute lymphoblastic leukemia (B-ALL) with 1928zT2 T cells and found that a single dose （204号 $( 5 { \\times } 1 0 ^ { 4 } / \\mathrm { k g } )$ of $1 9 2 8 z \\mathrm { T } 2$ T cells led to complete remission. Our data revealed that the innate immune receptor TLR2, in addition to canonical costimulatory receptors, can improve the antitumor efficacy of CARs for both leukemia and solid tumors. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "TLR2 enhanced the effector functions of CD19-specific CAR T cells in vitro ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The CD19-specific second-generation CARs have generated exciting results in ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Cmncai uldis mkng TiMIC 5-sCrv, transmembrane and endodomain, and the $\\mathrm { C D } 3 \\zeta$ signaling domain as benchmarks to evaluate TLR2 function in CARs. The TIR domain (amino acid 639-784) of TLR2 was appended to the CD3ζ signaling domain. Lentiviral vectors that contained GFP (negative control),1928z and 1928zT2 (Supplementary Figure 1a) were transfected into T cells to generate GFP T,1928z T and 1928zT2 T cells,respectively. The transduction efficiencies were measured by the percentages of GFP+ cells (Supplementary Figure 1b). To confirm the role of GFP in representing CAR expression， we detected the coexpression of GFP and anti-CD19 CAR (Supplementary Figure 1c). K562, K562-CD19, NALM6 and REH cells were tagged with both GFP and luciferase (GL). K562-CD19-GL,NALM6-GL,and REH-GL cells, but not K562-GL cells, were specifically killed by 1928z T and 1928zT2 T cells, and notably, the killing percentages of 1928zT2 T cells were higher than those of 1928z T cells at low effector to target (E/T) ratios (Figure 1a). Expression of GZMB, PRFl and IFNG were higher in 1928zT2 T cells compared to $1 9 2 8 z$ T cells upon stimulation by NALM6 cells (Supplementary Figure 2). Consistently， 1928zT2 T cells secreted significantly higher amounts of IL-2, IFN- $\\cdot \\gamma$ and GM-CSF, but a lower level of TNF- $\\mathbf { \\alpha } _ { \\cdot } \\mathbf { \\{ \\alpha \\} } _ { }$ （20 (Figure 1b). Interestingly， suppression of TNF $\\mathbf { \\alpha } _ { \\mathrm { ~ \\normalfont ~ a ~ } }$ secretion from macrophages by TLR2 agonist has been reported31. In addition, the capacities of 1928zT2 Tcells to expand upon serial stimulations and to continuously eliminate target cells were higher than 1928z T cells (Figure 1c). Moreover, the killing capacity of 1928zT2 T cells was enhanced compared with 1928BBz T cells (Supplementary Figure 3). Taken together, ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1928zT2 T cells exhibited enhanced antitumor efficacy in vivo Next, the killing capacities of $1 9 2 8 z \\mathrm { ~ T ~ }$ and 1928zT2 T cells were compared in cell line-derived xenografts.Immunodeficient NSI mice32 were intravenously injected with $1 { \\times } 1 0 ^ { 6 }$ NALM6-GL cells followed by two infusions of $\\boldsymbol { 5 \\times } \\boldsymbol { 1 0 } ^ { 6 }$ GFP T, $1 9 2 8 z$ Tor $1 9 2 8 z \\mathrm { T } 2$ T cells. Bioluminescence imaging (BLI) showed that a reduced tumor burden was present in mice infused with 1928zT2 T cells compared with $1 9 2 8 z$ T cells (Figure 2a). Consistently， the percentages of NALM6-GL cells in the peripheral blood mononuclear cells (PBMC) were significantly lower in mice treated with 1928zT2 T cells compared with 1928z T cells (Figure 2b). In addition, the mice treated with 1928zT2 T cells exhibited delayed weight loss (Supplementary Figure S4a). Furthermore,mice treated with 1928zT2 T cells showed enhanced secretion of IL-2, IFN- $\\cdot \\gamma$ and GM-CSF, but not TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ , in serum (Supplementary Figure 4b). To confirm the improved efficacy of the TLR2 construct in terms of survival, $2 { \\times } 1 0 ^ { 5 }$ （204号 NALM6 cells, and two days later, $2 { \\times } 1 0 ^ { 6 }$ GFP T,1928z T,1928zT2 T or no T cells, were intravenously injected into each NSI mice $\\mathrm { ( n { = } 1 0 }$ ).1928zT2 Tcells improved the survival of NALM6 burdened mice better than $1 9 2 8 \\mathrm { z }$ T cells (Figure 2c). The percentages of NALM6 cells and $\\mathrm { \\Delta T }$ cells in BM when mice died (Supplementary Figure 4c) indicated that the major cause of death was high NALM6 burden for mice treated with no T, GFP T and 1928z T cells, but was graft-versus-host disease (GVHD) for mice treated with 1928zT2 T cells as severe symptoms such as loss of hair and ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "weight were observed. Thus,1928zT2 T cells were more potent than $1 9 2 8 z$ T cells at killing NALM6-GL cells in vivo.   \nFurthermore, the efficacies of $1 9 2 8 \\mathrm { z }$ T and 1928zT2 T cells were compared in patient-derived xenograft (PDX) models. B-ALL cells were eliminated by 1928zT2 T cells, but not by $1 9 2 8 z$ T cells,and the percentages of total human T cells and CAR T cells were higher in 1928zT2 group compared with 1928z group (Supplementary Figure 5a). Due to the less aggressiveness of primary B-ALL cells, all the B-ALL burdened mice including the GFP T group survived until when the mice were culled for analysis on day 78,and splenomegaly was found only in the GFP and $1 9 2 8 z$ （204号 groups,but not in the 1928zT2 group (Supplementary Figure 5b). Colectively, these results demonstrated that 1928zT2 T cells had significantly higher anti-leukemia efficacy than 1928z T cells in vivo.   \nTLR2 costimulation upregulated genes associated with cell adhesion, synaptic transmission, Tcell migration and mTOR signaling   \nTo decipher the molecular mechanisms of TLR2 costimulation，we performed RNA sequencing to compare the transcriptomes of 1928z T and 1928zT2 T cells with or without stimulation by NALM6 cels. Approximately 11013 of the 33382 RefSeq genes were detectably expressed in all four populations. We identified the genes specifically upregulated in stimulated 1928zT2 T cells and found that most of these genes were related to cell adhesion and synaptic transmission (Figure 3a). Quantitative real-time PCR confirmed the upregulation of genes associated with cell adhesion and synaptic transmission, along with two genes IRF3 and IRF7 downstream ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "of the TLRs pathway (Figure 3b). TLR2 signaling has been reported to enhance mTOR signaling and expression of T-bet 33.Here， we also detected elevated transcription of T-bet， mTOR, 4E-BPl and P7OS6K (Figure 3b). Matrix metallopeptidases (MMPs) have been shown to play critical roles in T cell activation 34andmigatspatido MMP2 and MMP24 expression in 1928zT2 T cells (Figure 3a and 3b). Therefore, the migration capacities of GFP T, $1 9 2 8 z$ T and $1 9 2 8 z \\mathrm { T } 2$ T cells were compared and results indicated that 1928zT2 T cells transmigrated the matrigel more efficiently than 1928z T cells (Figure 3c). These results suggest that TLR2 incorporation enhances the antitumor efficacy of CAR T cells partly through improved adhesion， synaptic transmission and migration capacities,and enhanced T-bet expression through mTOR pathway. TLR2 costimulation enhanced antitumor efficacy of mesothelin-specific CAR T cells Mesothelin ishighly expressd in varioussolid tumors including lung adenocarcinoma cells 36, and clinical trials of mesothelin-targeting CAR T cells are ongoing (such as NCT02414269 and NCT02930993). Thus,to assess the effect of TLR2 costimulation on CAR T cells targeting solid tumors, we incorporated TLR2 into a CAR specific to mesothelin and generated GFP T, m28z T and m28zT2 T cells through lentiviral transfection (Supplementary Figure 6a and 6b). m28zT2 T cells showed enhanced kiling capacity against mesothelin+ A549-GL cells compared with $ { \\mathbf { m } } 2 8  { \\mathbf { z } }$ T cells (Figure 4a). m28zT2 T cells secreted more IL-2, IFN- $\\gamma$ and GM-CSF, but reduced TNF- $\\mathbf { \\alpha } \\cdot \\mathbf { a }$ compared with $ { \\mathbf { m } } 2 8  { \\mathbf { z } }$ T cells upon stimulation by A549 cells (Figure 4b). The expansion of $ { \\mathrm { m } } 2 8  { \\mathrm { z T } } 2$ T cells during repetitive stimulation was improved compared with $ { \\mathbf { m } } 2 8  { \\mathbf { z } }$ T cells,and the potency of m28zT2 T cells at killing A549 cells were significantly higher than $\\mathbf { m } 2 8 \\mathbf { z }$ T cells (Supplementary Figure 7a). Meanwhile the exhaustion markers on T cells after repetitive coculture were compared,and the expression of TIM-3, but not PD-1 or LAG-3,was lower on m28zT2 T cells relative to $ { \\mathbf { m } } 2 8  { \\mathbf { z } }$ T cells (Supplementary Figure 7b). These results indicated that TLR2 incorporation in mesothelin-specific CAR also improved its effector functions in vitro. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We further compared the antitumor efficacy of m28zT2 T,m28z T and GFP T cells in subcutaneous A549-GL xenografted mice. Tumors from m28zT2 group were smaller than those from the blank, GFP and $ { \\mathbf { m } } 2 8  { \\mathbf { z } }$ groups (Figure 4c). Moreover, mice treated with m28zT2 T cells produced more cytokines IL-2, IFN- $\\gamma$ and GM-CSF, but not TNF- $\\mathfrak { a }$ ， than those treated with $ { \\mathbf { m } } 2 8 z$ T cells (Supplemental Figure 8). Since metastasis is a major hurdle in the treatment of solid tumors,we compared the efficacies of $ { \\mathbf { m } } 2 8  { \\mathbf { z } }$ T and $ { \\mathrm { m } } 2 8  { \\mathrm { z T } } 2$ T cells against metastasized tumors through the blood in intravenous A549-GL xenografted mice. The BLI results showed that （20 $ { \\mathrm { m } } 2 8  { \\mathrm { z T } } 2$ T cells efficiently inhibited the growth of A549-GL cells in NSI mice; however, surprisingly, the mice grew a greater burden of tumors when treated with $ { \\mathbf { m } } 2 8  { \\mathbf { z } }$ T cells than the mice that were injected with GFP T cells (Supplementary Figure 9a). The histologic analysis confirmed that the tumor cells in the uterus of the mice from the $ { \\mathbf { m } } 2 8  { \\mathbf { z } }$ group were HLA+ A549-GL cells (Supplementary Figure 9b). These results indicated that TLR2 incorporation could enhance the efficacy of ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1 mesothelin-specific CAR T cells against solid tumors. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Clinical trial of 1928zT2 T cells in a patient with relapsed and refractory B-ALL We conducted a pilot clinical trial in a patient with relapsed and refractory B-ALL (NCT02822326). 1928zT2 T cells were produced and well characterized phenotypically and functionally (Supplementary Figure 1Oa-f). The patient received two days of treatment with Fludarabine ( $\\mathrm { \\langle 3 0 ~ m g / m 2 / d a y ) }$ and cyclophosphamide （300 （20 $\\mathrm { m g } / \\mathrm { m } 2 / \\mathrm { d a y } )$ for lymphocyte depletion, followed by one dose of $1 9 2 8 z \\mathrm { T } 2$ T cells at $5 { \\times } 1 0 ^ { 4 }$ cells/kg (Supplementary Figure 11a). After infusion of 1928zT2 T cells, the patient experienced side effects including fever， coughing， skin rashes and hypotension, but not neurological defects. During this trial， the symptoms of the patients did not necessitate ICU stay, vasopressor support or any steroids treatment. A marked elevation of serum IL-6 was detected on day 2 and tocilizumab, an anti-IL-6R monoclonal antibody 7，was administered at $4 \\ \\mathrm { m g / k g }$ ， which resulted in rapid defervescence and complete reversal of symptoms over a period of 4 days; however, the patient's concentration of C-reactive protein (CRP) fluctuated in another pattern, and the highest peak on day 45 was due to urological infection (Supplementary Figure 11b). In addition， we monitored the dynamic changes of other cytokines (Supplementary Figure 11c). B-ALL cells comprised approximately $1 5 \\%$ of the PBMC and more than $70 \\%$ of the BM before treatment (Figure 5a), but decreased to an undetectable level on day 22 (Figure 5b). Complete remission (CR) was formally diagnosed on day 51 (Figure 5c). Percentage changes of 1928zT2 T cells and CD19+ B-ALL cells in PBMC (Figure 5d) and BM (Figure 5e) were depicted. On day 22, the percentages of ${ \\mathrm { C D 4 ^ { + } C D 8 ^ { - } } }$ ， CD62L+CD25' and CD45RO+CD45RA' populations in 1928zT2 T cells were higher than those in wild-type T cells in both PBMC and BM (Supplementary Figure 12a). Interestingly, the elevation of $\\mathrm { C D 4 } ^ { + }$ 1928zT2 T cell percentage was concomitant with the increase of the percentage of 1928zT2 T cells in both PBMC and BM (Supplementary Figure 12b and 12c). In addition， the percentages of ${ \\mathrm { C D } } 2 5 ^ { + }$ 1928zT2 T cells were negatively correlated with the percentages of 1928zT2 T cells in PBMC (Supplementary Figure 12d),while CD62L expression on 1928zT2 T cells in PBMC remained high until the B-ALL cells were eradicated (Supplementary Figure 12e). 1928zT2 T cells were detected in cerebrospinal fluid, indicating the potential role of 1928zT2 T cells in eradicating leukemia in the central nervous system (Supplementary Figure 12f). The clinical results here indicated that small dosages of 1928zT2 T cells could kill leukemic cells with potent efficacy. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Although CD19-specific CAR T cell immunotherapy has achieved promising results in clinical trials, efficacy of other CAR T cells needs improvement, especially those for solid tumors. The development of CARs from the first generation (with only the $\\mathrm { C D } 3 \\zeta$ signaling domain) to the second generation (with $\\mathrm { C D } 3 \\zeta$ and a costimulatory domain） has revealed a critical role of costimulatory molecules in CARs. Incorporation of novel costimulatory molecules into CARs should be a feasible strategy to improve their efficacy. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "uwivsungiy, un i3u a costimulatory receptor10. Innate immunity serves as an immediate defense mechanism against pathogenic organisms. Adaptive immunity plays a delayed but more delicate role in controlling diseases and forming memories. The two types of immunity are not independent of each other and the interaction between them is critical to the outcome of overall immune response. CARs with combinatorial moieties of both adaptive and innate immunity may exert dual functions of mobilizing innate responses as well as promoting T cell expansion, antigen-specific reaction, T cell contraction and memory formation. We demonstrated that $1 9 2 8 z \\mathrm { T } 2$ and m28zT2 T cells were more potent at killing $\\mathrm { C D 1 9 ^ { + } }$ leukemia cells and mesothelin+ lung cancer cells in vitro. TLR2 signaling in CD8 T cells can augment T-bet protein levels and IFN- γ， perforin and granzyme B expresson through the mTOR pathway，and contribute to the eficient clearanceof intracellular pathogens 33,reminiscent of the results we provide here. To decipher other mechanisms of TLR2-enhanced antitumor efficacy, we found the genes upregulated by TLR2 costimulation, most of which were associated with cell adhesion, synaptic transmission and migration. Therefore, TLR2 costimulation can serve as an innate immune moiety to enhance the effector functions and promote adhesion and immune synaptic signaling between CAR T cells and target cells.   \n$5 { \\times } 1 0 ^ { 4 } / \\mathrm { k g }$ $1 9 2 8 z \\mathrm { T } 2$ ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In our pilot study, only of T cells expanded to a population that constituted approximately $40 \\%$ of lymphocytes in patient PBMC，indicating the remarkable expansion capacity of 1928zT2 T cells. Since correlation between infused ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "CAR T cell dose and incidence and severity of cytokine release syndrome (CRS) has ben suggested26.3738,itshouldbebeneficialtoreduce the CAR Tcelldose.In addition, while large numbers of CAR T cells can be generated, a reduction in CAR-T cell dose may reduce the time for producing enough CAR T cells for therapy and manufacturing cost, and provide capacity advantages, which will be important for widespread adoption of CAR-T cell therapies. Nevertheless，other patients in our clinical trial showed less severe side effects and none needed tocilizumab treatment (data unpublished). Therefore,our TLR2 construct should be potent but without increased incidence and severity of CRs.We provided an unprecedentedly detailed dynamic changes of CAR T cells and B-ALL cells in the patient, a patern which could be reference for other patients to predict CR. However, results of our ongoing clinical trial will be needed to further determine the safety and efficacy of TLR2 co-stimulation in larger patient cohorts. CAR T cells for solid tumors face five major challenges — trafficking, tumor recognition and killing, proliferation and persistence, counteract of microenvironment and control of CAR T cells 39,and the former four of which can be tackled by optimization of costimulations in CARs. In our A549-GL metastatic xenograft mouse models (Supplementary Figure 9a), the tumors in the $ { \\mathbf { m } } 2 8  { \\mathbf { z } }$ group were larger than that not only in the $ { \\mathrm { m } } 2 8  { \\mathrm { z T } } 2$ group but also in the GFP group.Conversely， we demonstrated that $\\mathbf { m } 2 8 \\mathbf { z }$ T cells were able to kill A549-GL cells in vitro (Figure 4a) and suppress the growth of A549-GL in subcutaneous xenograft models (Figure 4c). The differences of the results from these experiments show the importance of validating the eficacies of cellular immunotherapies in multiple models. The size of tumors is determined by the combination effects of tumor growth and tumor killing in vivo. It is possible that inflammatory factors secreted by $ { \\mathbf { m } } 2 8  { \\mathbf { z } }$ T cells or tumor cells, and cell debris during killing stimulated and recruited mouse tumor-supportive cells, such as MDSCs 40.41 that easily accessto and accumulate in uterus 42.43. Then the tumor-supportive cells promoted the expansion of A549-GL cells and overcame the anti-tumor effects of $ { \\mathbf { m } } 2 8  { \\mathbf { z } }$ T cells 44. However, m28zT2 T cells eliminated A549-GL cells efficiently enough so that tumors hardly formed and grew in NSI mice. Of course, further studies were required to test this hypothesis in the future. To summarize, our data demonstrate that TLR2 incorporation can generate more powerful CARs,which have superior anti-tumor eficacies in vitro and in vivo and can be used in patients. These findings reveal an important new strategy for CAR design which bridges the conventional costimulation of adaptive immunity with unconventional innate immune signaling. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "We sincerely thank Dr. Robert Weinkove at Malaghan Institute of Medical Research for his help in revising the manuscript. This study was supported by National Natural Science Foundation of China (81522O02), the Strategic Priority Research Program of the Chinese Academy of Sciences (XDB19030205)， the Natural Science Fund for Distinguished Young Scholars of Guangdong Province (2014A030306028)， the Guangdong Provincial Applied Science and Technology Research& Development ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Program (2016B020237006), the Guangdong Provincial Outstanding Young Scholars Award (2O14TQ01RO68), the Frontier and key technology innovation special grant from the Department of Science and Technology of Guangdong province, (2015B020227003, 2014B020225005,2016B030229006), the Guangdong Provincial Research and Commercialization Program (2O14B090901044)，and the Guangzhou Science Technology and Innovation Commission Project (201504010016).A patent application has been filed for the TLR2 incorporated CAR vector, and P. L. and Y.L. are listed as authors on this application. The clinical trial is being sponsored by Guangdong Zhaotai Invivo Biomedicine Co.Ltd. and Hunan Zhaotai Yongren Medical Innovation Ltd. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Conflict of Interest Statement ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The authors declare no competing financial interests. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Figure legends ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Figure 1. 1928zT2 T cells showed enhanced effector functions compared with $1 9 2 8 z$ T cells in vitro. (a) Killing percentages of K562-GL, K562-CD19-GL, NALM6-GL and REH-GL cells by GFP T,1928z T and 1928zT2 T cells after 18h coculture in vitro. E: T ratios mean the ratios of absolute number of CAR T cells to target cells. The GFP percentages of CAR T cells were equalized by non-transduced T cells from the same donor. Results are representative of at least three independent experiments with T cells from different healthy donors.(b) IL-2， IFN-γ,GM-CSF and TNFα concentration in the supernatant of $2 4 \\mathrm { h }$ coculture of the indicated T cells with K562-GL or K562-CD19-GL cells (E: $\\scriptstyle \\mathrm { T = 1 }$ ， $2 { \\times } 1 0 ^ { 5 }$ cells each).(c） Enhanced expansion and serial killing potency of $1 9 2 8 z \\mathrm { T } 2$ T cells compared with 1928z T cells. 1928z T and 1928zT2 T cells were serially co-cultured with NALM6 cells at 1: 4 E/T ratio, the numbers of $1 9 2 8 z$ T cells and 1928zT2 T cells were counted (left),and percentages of $\\mathrm { C D 1 9 ^ { + } }$ NALM6 cells (right) were detected by flow cytometry, every 24h for three times. Error bars denote s.e.m and results were compared through two-sided unpaired $t \\cdot$ -test. $^ { * } \\mathrm { P } { < } 0 . 0 5$ ，\\*\\* $\\mathrm { { P < 0 . 0 1 } }$ ，\\*\\*\\* P<0.001. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Bioluminescence imaging of NALM6-GL-burdened mice treated with GFP T, 1928z Tor $1 9 2 8 z \\mathrm { T } 2$ T cells. $\\mathsf { 1 } \\times \\mathsf { 1 0 } ^ { 6 }$ NALM6-GL cells were injected intravenously into NSI mice,and on day 2 and 7, $5 { \\times } 1 0 ^ { 6 }$ GFP T,1928z T or 1928zT2 T cells were injected intravenously into each NALM6-GL-NSI mice $( \\mathrm { n } = 5 )$ .On day 8，14 and 19, bioluminescence imaging was conducted. (b) The percentages of $\\mathrm { C D 1 9 ^ { + } }$ (NALM6-GL) cells in the PBMC of mice on day 14. (c) Survival analysis of mice treated with GFP T,1928z T or 1928zT2 T cells $( \\mathrm { n } { = } 1 0 )$ ） $2 { \\times } 1 0 ^ { 5 }$ NALM6 cells were intravenously injected into NSI mice, and two days later, $2 { \\times } 1 0 ^ { 6 }$ T cells were injected ( $G F P \\%$ normalized to $10 \\%$ ),and survival of mice was observed.Error bars denote s.e.m and groups were compared through two-sided unpaired $t$ -test. \\* $\\mathrm { P } { < } 0 . 0 5$ ，\\*\\* $\\mathrm { { P < 0 . 0 1 } }$ ，\\*\\*\\* $\\scriptstyle \\mathbf { P < } 0 . 0 0 1$ ： ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Figure 3. TLR2 costimulation up-regulated genes associated with cell adhesion, synaptic transmission， infiltration and mTOR pathway. (a) Heatmap of RNA sequencing results showing genes specifically up-regulated in $1 9 2 8 \\mathrm { z T } 2$ T cells after stimulation $( + \\mathrm { s t i } )$ (left).These genes were associated with cell adhesion，synapse components and transmission and cell invasion of T cells (right). (b） Relative expression of genes associated with cell adhesion (CD24, CDH2, TYRO3, CXADR), T cell infiltration (MMP2), synaptic transmission (CADPS2), TLRs pathway (IRF3 and IRF7)and mTOR pathway(T-bet,mTOR, 4E-BPl and $p 7 0 S 6 K )$ .（c） Transwell cell migration assay indicated an improved capacity of $1 9 2 8 z \\mathrm { T } 2$ T cells to degrade and transmigrate Matrigel. T cell culture medium was used as a chemoattractant in the lower chamber. T cells were cultured in the insert with or without coated Matrigel for $2 4 \\mathrm { ~ h ~ }$ ，and the cells that transmigrated to the lower chamber were counted. The percentage of invasion was calculated as follows: (mean of cells migrating through the Matrigel chamber membrane/mean of cells migrating through the control insert membrane) $\\times 1 0 0$ . Error bars denote s.e.m and groups were compared through two-sided unpaired $t$ -test. $^ { * } \\mathrm { P } { < } 0 . 0 5$ ，\\*\\* $\\mathrm { { P < 0 . 0 1 } }$ ,\\*\\*\\* P<0.001. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Figure 4. $\\mathrm { m } 2 8 \\mathrm { z T } 2$ T cells showed enhanced antitumor efficacy compared with $ { \\mathbf { m } } 2 8  { \\mathbf { z } }$ T cells. (a) Killing percentages of mesothelin+ A549-GL and mesothelin' H23-GL cells after 18h coculture with GFP T, $ { \\mathbf { m } } 2 8  { \\mathbf { z } }$ T or m28zT2 T cells at the indicated ratios. (b)IL-2,IFN- $\\cdot \\gamma$ ，GM-CSF and TNF- $\\mathbf { \\alpha } \\cdot \\mathbf { a }$ concentration in the supernatant of 24h coculture of GFP T, $ { \\mathbf { m } } 2 8  { \\mathbf { z } }$ Tor $ { \\mathrm { m } } 2 8  { \\mathrm { z T } } 2$ T cells with A549-GL cells. E: ${ \\mathrm { T } } { = } 1 { : } 1$ ， $2 { \\times } 1 0 ^ { 5 }$ cells each. (c) Weight of subcutaneous A549-GL tumors from NSI mice treated with no T cells, GFP T, m28z T or m28zT2 T cells. On day $0 , 2 { \\times } 1 0 ^ { 5 } { \\mathrm { A } } 5 4 9$ GL cells were injected subcutaneously into NSI mice,and on day 7 and 9, no T, ${ 5 } { \\times } { 1 0 } ^ { 6 }$ GFP T, $\\mathbf { m } 2 8 \\mathbf { z }$ ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "T or m28zT2 T cells were injected through the tail vein into each mouse ( $\\scriptstyle ( \\mathtt { n } = 6 )$ . On day 43,mice were sacrificed and tumors were analyzed. Error bars denote s.e.m and groups were compared through two-sided unpaired t-test. \\* P< 0.05, \\*\\* P< 0.01, \\*\\*\\* $\\scriptstyle \\mathbf { P < } 0 . 0 0 1$ ： ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Figure 5. 1928zT2 T cells showed potent efcacy in a patient with relapsed B-ALL. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(a)FACS analysis of B-ALL cells in PBMC and BM from the patient on the day before infusion of 1928zT2 T cells. (b) B-ALL cells were eradicated from PBMC and BM of the patient on day 19 and 22 respectively.(c) Wright-Giemsa staining of BM biopsies of the patient on day 18 before infusion (left） and on day 51 post-infusion (right) of 1928zT2 T cells. Scale bar $= 1 0 \\mu \\mathrm { m }$ ， $\\mathbf { \\tau } ( \\mathbf { d } )$ Dynamic changes of the percentages of $\\mathrm { C D 1 9 ^ { + } }$ cells and 1928zT2 T cells in PBMC of the patient.(e) Dynamic changes of the percentages of $\\mathrm { C D 1 9 ^ { + } }$ cells and 1928zT2 T cells in BM of the patient. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "1. Hombach A,Abken H. Costimulation tunes tumor-specific activation of redirected T cels in adoptive immunotherapy. Cancer Immunol Immunother 2007 May; 56(5): 731-737.   \n2. Kowolik CM,Topp MS, Gonzalez S, Pfeiffer T, Olivares S, Gonzalez N,et al. CD28 costimulation provided through a CD19-specific chimeric antigen receptor enhances in vivo persistence and antitumor efficacy of adoptively transferred T cels. Cancer Res 2O06 Nov 15； 66(22): 10995-11004.   \n3. Milone MC,Fish JD, Carpenito C, CarrollRG, Binder GK,Teachey D,et al. Chimeric receptors containing CD137 signal transduction domains mediate enhanced survival of T cells and increased antileukemic efficacy in vivo.Mol Ther 2009 Aug;17(8):1453-1464.   \n4. Long AH，Haso WM， Shern JF， Wanhainen KM，Murgai M, Ingaramo M,et αl. 4-1BB costimulation ameliorates T cell exhaustion induced by tonic signaling of chimeric antigen ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "1 receptors. Nat Med 2015 Jun; 21(6): 581-590.   \n2   \n3 5. Pule MA, Straathof KC, Dotti G, Heslop HE, Rooney CM, Brenner MK.A chimeric T cell antigen   \n4 receptor that augments cytokine release and supports clonal expansion of primary human T   \n5 cells. Mol Ther 2005 Nov; 12(5): 933-941.   \n6   \n7 6. Song DG, Ye Q, Poussin M, Harms GM, Figini M, Powell DJ,Jr. CD27 costimulation augments   \n8 the survival and antitumor activity of redirected human T cells in vivo. Blood 2012 Jan 19;   \n9 119(3): 696-706.   \n10   \n11 7. Shen CJ， Yang YX，Han EQ，Cao N，Wang YF,Wang Y，et al. Chimeric antigen receptor   \n12 containing ICOS signaling domain mediates specific and eficient antitumor efect of T cells   \n13 against EGFRvll expressing glioma.J Hematol Oncol 2013; 6: 33.   \n14   \n15 8. Zhang BL, Qin DY,Mo ZM,Li Y,Wei W,Wang YS,et al. Hurdles of CAR-T cell-based cancer   \n16 immunotherapy directed against solid tumors. Science China Life sciences 2016 Apr; 59(4):   \n17 340-348.   \n18   \n19 9. Brown CE，Alizadeh D，Starr R，Weng L，Wagner JR，Naranjo A，et al.Regression of   \n20 Glioblastoma after Chimeric Antigen Receptor T-Cell Therapy. N Engl J Med 2016 Dec 29;   \n21 375(26): 2561-2569.   \n22   \n23 10. Komai-Koma M, Jones L, Ogg GS, Xu DM, Liew FY.TLR2 is expressed on activated T cels as a   \n24 costimulatory receptor. P Natl Acad Sci USA 2004 Mar 2; 101(9): 3029-3034.   \n25   \n26 11. Cottalorda A，Mercier BC，Mbitikon-Kobo FM，Arpin C, Teoh DY, McMichael A, et αl. TLR2   \n27 engagement on memory $C D 8 ( + )$ T cells improves their cytokine-mediated proliferation and   \n28 IFN-gamma secretion in the absence of Ag. EurJImmunol 2009 Oct; 39(10): 2673-2681.   \n29   \n30 12. Sinnott BD, Park B, Boer MC, Lewinsohn DA, Lancioni CL. Direct TLR-2 Costimulation Unmasks   \n31 the Proinflammatory Potential of Neonatal $\\subset \\mathsf { D } 4 + ^ { - }$ T Cells.J Immunol 2016 Jul 1; 197(1): 68-77.   \n32   \n33 13. Salerno F， Guislain A， Cansever D，Wolkers MC. TLR-Mediated Innate Production of   \n34 IFN-gamma by $\\mathsf { C D 8 + }$ T Cells Is Independent of Glycolysis. J Immunol 2016 May 1; 196(9):   \n35 3695-3705.   \n36   \n37 14. Cottalorda A,Verschelde C，Marcais A，Tomkowiak M，Musette P, Uematsu S,et al. TLR2   \n38 engagement on CD8 T cells lowers the threshold for optimal antigen-induced Tcellactivation.   \n39 EurJImmunol 2006 Jul; 36(7): 1684-1693.   \n40   \n41 15. Mercier BC,Cottalorda A, Coupet CA,Marvel J, Bonnefoy-Berard N.TLR2 engagement on CD8   \n42 T cels enables generation of functional memory cells in response to a suboptimal TCR signal.   \n43 JImmunol 2009 Feb 15; 182(4): 1860-1867.   \n44   \n1 16. Quigley M, Martinez J, Huang X, Yang Y. A critical role for direct TLR2-MyD88 signaling in CD8   \n2 T-cell clonal expansion and memory formation following vaccinia viral infection. Blood 2009   \n3 Mar 5; 113(10): 2256-2264.   \n4   \n5 17. Imanishi T, Hara H,Suzuki S, Suzuki N,Akira S,Saito T. Cutting Edge: TLR2 Directly Triggers Th1   \n6 Effector Functions.The Journal of Immunology 2007;178(11): 6715-6719.   \n7   \n8 18. Oberg HH,Ly TT, Ussat S,Meyer T, Kabelitz D, Wesch D. Differential but direct abolishment of   \n9 human regulatory T cell suppressive capacity by various TLR2 ligands. J Immunol 2010 May 1;   \n10 184(9): 4733-4740.   \n11   \n12 19. Babu S，Blauvelt CP， Kumaraswami V， Nutman TB. Cutting Edge: Diminished T Cell TLR   \n13 Expression and Function Modulates the Immune Response in Human Filarial Infection.The   \n14 Journal of Immunology 2006; 176(7): 3885-3889.   \n15   \n16 20. Zhang Y, Luo F, CaiY, Liu N,Wang L, Xu D,et al. TLR1/TLR2 agonist induces tumor regression   \n17 by reciprocal modulation of effector and regulatory T cells. J Immunol 2011 Feb 15; 186(4):   \n18 1963-1969.   \n19   \n20 21. Zhang Y, Luo F, Li A, Qian J,Yao Z, Feng X, etal. Systemic injection of TLR1/2 agonist improves   \n21 adoptive antigen-specific T cell therapy in glioma-bearing mice. Clin Immunol 2014 Sep;   \n22 154(1): 26-36.   \n23   \n24 22. Sandor F, Latz E,Re F， MandellL，Repik G,Golenbock DT,et al. Importance of extra- and   \n25 intracellular domains of TLR1 and TLR2 in NFkappa B signaling. JCell Biol 2003 Sep 15;162(6):   \n26 1099-1110.   \n27   \n28 23. O'Neill LA, Bowie AG.The family of five: TIR-domain-containing adaptors in Tol-like receptor   \n29 signalling. Nat Rev Immunol 2007 May; 7(5): 353-364.   \n30   \n31 24. Brown V， Brown RA，Ozinsky A，Hesselberth JR，Fields S.Binding specificity of Toll-like   \n32 receptor cytoplasmic domains. Eur J Immunol 2006 Mar; 36(3): 742-753.   \n33   \n34 25. Brentjens RJ，Davila ML，Riviere I，Park J，Wang X, Cowell LG,et al. CD19-targeted T cells   \n35 rapidlyinduce molecular remissions in adultswith chemotherapy-refractory acute   \n36 lymphoblastic leukemia.Sci Transl Med 2013 Mar 20; 5(177): 177ra138.   \n37   \n38 26. Davila ML，Riviere I，Wang X，Bartido S，Park J，Curran K，et al. Efficacy and toxicity   \n39 management of 19-28z CAR Tcell therapy in B cell acute lymphoblastic leukemia.Sci Transl   \n40 Med 2014 Feb 19; 6(224): 224ra225.   \n41   \n42 27. Grupp SA, Kalos M， Barrett D,Aplenc R， Porter DL， Rheingold SR,et al. Chimeric antigen   \n43 receptor-modified T cells for acute lymphoid leukemia.N Engl J Med 2013 Apr 18; 368(16):   \n44 1509-1518.   \n1   \n2 28. Kochenderfer JN，Dudley ME，Carpenter RO， Kassim SH，Rose JJ，Telford WG，et al.   \n3 Donor-derived CD19-targeted T cells cause regression of malignancy persisting after   \n4 allogeneic hematopoietic stem celltransplantation. Blood 2013 Dec 12; 122(25): 4129-4139.   \n5   \n6 29. Maude SL, Frey N,Shaw PA,Aplenc R, Barrett DM, Bunin NJ,et al. Chimeric antigen receptor   \n7 T cells for sustained remissons in leukemia. N Engl J Med 2014 Oct 16; 371(16): 1507-1517.   \n8   \n9 30. Porter DL, Levine BL, Kalos M, Bagg A, June CH. Chimeric antigen receptor-modified Tcells in   \nl0 chronic lymphoid leukemia. N Engl JMed 2011 Aug 25; 365(8): 725-733.   \nl1   \nL2 31. Dobrovolskaia MA,Medvedev AE, Thomas KE, Cuesta N,Toshchakov V, Ren T,et al. Induction   \n13 of in vitro reprogramming by Tol-like receptor (TLR)2 and TLR4 agonists in murine   \n14 macrophages: effects of TLR \"homotolerance\" versus \"heterotolerance\" on NF-kappa B   \n15 signaling pathway components. JImmunol 2003 Jan 1; 170(1): 508-519.   \nl6   \n17 32. Ye W, Jiang Z, Li GX, Xiao Y, Lin S, Lai Y, etal. Quantitative evaluation of the immunodeficiency   \n18 of a mouse strain by tumor engraftments.Journal of hematology & oncology 2015; 8: 59.   \n19   \n20 33. Geng D，Zheng L， Srivastava R,Asprodites N, Velasco-Gonzalez C，Davila E.When Tol-like   \n21 receptor and T-cell receptor signals collide: a mechanism for enhanced CD8 T-cell effector   \n22 function. Blo0d 2010 Nov 04; 116(18): 3494-3504.   \n23   \n24 34. Boussif O, Lezoualc'h F, Zanta MA,Mergny MD, Scherman D, Demeneix B, et al. A versatile   \n25 vector for gene and oligonucleotide transfer into cells in culture and in vivo: polyethylenimine.   \n26 Proc Natl Acad Sci U S A 1995 Aug 1; 92(16): 7297-7301.   \n27   \n28 35. Ye W, Jiang Z, Li GX, Xiao Y, Lin S, Lai Y, etal. Quantitative evaluation of the immunodeficiency   \n29 of a mouse strain by tumor engraftments.J Hematol Oncol 2015; 8: 59.   \n30   \n31 36. Ho M, Bera TK,Willingham MC, Onda M, Hassan R,FitzGerald D,et al. Mesothelin expression   \n32 in human lung cancer. Clin Cancer Res 2007 Mar 1; 13(5): 1571-1575.   \n33   \n34 37. Lee DW, Kochenderfer JN,Stetler-Stevenson M,Cui YK, Delbrook C, Feldman SA,et al.T cells   \n35 expressing CD19 chimeric antigen receptors for acute lymphoblastic leukaemia in children   \n36 and young adults: a phase 1 dose-escalation trial. Lancet 2015 Feb 07; 385(9967): 517-528.   \n37   \n38 38. Park JH，Geyer MB， Brentjens RJ. CD19-targeted CAR T-cell therapeutics for hematologic   \n39 malignancies: interpreting clinical outcomes to date. Blood 2016 Jun 30;127(26): 3312-3320.   \n40   \n41 39. Lim WA, June CH. The Principles of Engineering Immune Cells to Treat Cancer. Cel 2017 Feb   \n42 09; 168(4): 724-740.   \n13   \n14 40. Sevko A，Umansky V.Myeloid-derived suppressor cels interact with tumors in terms of ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "myelopoiesis, tumorigenesis and immunosuppression: thick as thieves.J Cancer 2013; 4(1): 3-11.   \n41. Ortiz ML，Lu L，Ramachandran I， Gabrilovich DI. Myeloid-derived suppressor cells in the development of lung cancer. Cancer lmmunol Res 2014 Jan; 2(1): 50-58.   \n42. Ostrand-Rosenberg S, Sinha P, Figley C, Long R, Park D, Carter D,et al. Frontline Science: Myeloid-derived suppressor cells (MDSCs) facilitate maternal-fetal tolerance in mice.J Leukoc Biol 2017 May; 101(5): 1091-1101.   \n43. Zhao H, Kalish F, Schulz S, Yang Y, Wong RJ, Stevenson DK. Unique roles of infiltrating myeloid cells in the murine uterus during early to midpregnancy. J Immunol 2015 Apr 15;194(8): 3713-3722.   \n44. Umansky V, Blattner C,Gebhardt C, Utikal J.The Role of Myeloid-Derived Suppressor Cells (MDSC) in Cancer Progression. Vaccines 2016 Nov 03; 4(4). ",
+        "page_idx": 22
+    }
+]

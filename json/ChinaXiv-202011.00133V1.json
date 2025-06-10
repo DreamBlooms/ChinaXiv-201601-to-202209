@@ -1,0 +1,474 @@
+[
+    {
+        "type": "text",
+        "text": "Impacts of snow on seed germination are independent of seed traits and plant ecological characteristics in a temperate desert of Central Asia ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Anlifeire ANNIWAER12, SU Yangui1, ZHOU Xiaobing1, ZHANG Yuanming1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 State KayLaboratoryofDesertandOasis Ecology,Xinjiang Instituteof EcologyandGeography,Chinese Academyof Sciences,Urumqi 830011,China;   \n2 University of Chinese Academy of Sciences, Beijing 10o049, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Seed germination profoundly impacts plant community composition within the plant life cycle. Snow is an important source of water for seed germination in the temperate deserts of Central Asia. Understanding how seed germination responds to variations in snow cover in relation to seed traits and plant ecological characteristics can help predict plant community sustainability and stability in Central Asia under a scenario climate change. This study investigated the seed germination of 35 plant species common to the Gurbantunggut Desert in Central Asia under the three snow treatments: (1) snow addition; (2) ambient snow; and (3) snow removal. Two-way analysis of variance (ANOVA) tests were performed to assess interactions among the impacts of snow treatments, seed traits and plant ecological characteristics on seed germination. Phylogenetic generalized least-squares (PGLS) model was used to test the relationships between seed traits and seed germination. The results demonstrated that snow variations had no significant impacts on seed germination overall. Seed germination under the snow addition treatment was similar with that under the ambient snow treatment,irrespective of seed traits and plant ecological characteristics. Snow removal only had negative impacts on seed germination for certain groups of seed traits and plant ecological characteristics. Seed mass positively affected seed germination, showing a linear increase of arcsin square root-transformed seed germination with log-transformed seed mass. Seed shape also profoundly impacted seed germination, with a higher germination percentage for elongated and flat seeds. Seed germination differed under different plant life forms, with semi-shrub species showing a significantly higher germination percentage. Most importantly,although snow treatments,seed traits and plant ecological characteristics had no interactive effects on seed germination overall,some negative impacts from the snow removal treatment were detected when seeds were categorized on the basis of seed massand shape. This result suggests that variations of snow cover may change plant community composition in this temperate desert due to their impacts on seed germination. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: snow cover; seed germination; seed traits; plant life form; Gurbantunggut Desert ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Year-round or seasonal snow cover shows inter-annual variation at high and middle latitudes and at high altitudes,and the degree of inter-annual variation is increasing, especially under climate change. This change in inter-annual snowfall variation generally leads to changes in soil physical variables, including temperature and water availability， thus affecting the evolution of local ecosystems (Houle, 2002； Decker et al.， 2003; Keller et al.， 2005). For example, snowfall significantly changes nitrogen uptake by vegetation (Bilbrough， 2OOO)， photosynthesis and respiration rates (Li et al., 2006a), biomass accumulation (Dorrepaal et al., 2004) and biomass allocation (Kreyling et al., 2O12; Chen et al., 2013). Earlier germination and completion of the life cycle of spring ephemerals under increasing snow enhance their competitive advantage in a plant community in North America (Houle, 2OO2). Early spring ephemerals in Central Asia have adapted to arid deserts by evolving a short-term growth rhythm and specific biological traits (Lapointe et al., 2OO6; Constable et al., 2OO7). Therefore, changes in snowfal may afect seed germination and seedling survival of plant species in this region (Chao and Sun, 2O16; Jia et al., 2017). Similarly, the responses of seed germination to snow vary according to plant functional group in the Great Lakes region of North America (Drescher and Thomas, 2013). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Seed germination is a critical stage of the plant life cycle and determines subsequent plant performance and survival, ultimately affecting plant community composition. Seed germination has been associated with various seed biological traits, including seed size, mass and shape. In addition, plant ecological characteristics have been recognized as a key factor influencing seed germination. Seed size is an important ecological feature of plant life history, which can affect the life history characteristics of plant seedling survival, seed spread and seed numbers (Westoby et al., 1992; Frenner, 20o0). Lorenzi et al. (2002) studied 169 tree species in a tropical rainforest of Brazil and found a significant positive correlation between seed size and average germination time. Studies of 558 plant species in the alpine region of the Qinghai-Tibet Plateau and 69 species of mesophytes in the Hexi Corridor of China showed that seed size was an important determinant of plant life history characteristics (Liu et al.,2003, 2004; Li et al.,2006b; Bu et al., 2008; Wang, 2009). The relationship between seed size and seed germination remains contentious, with some studies showing a significant negative correlation and others showing no significant relationship (Liu et al., 2007). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Seed mass is one of the most important seed biological traits and contributes to different levels of seed germination as the amounts of starch and endosperm nutrients contained in a seed may determine the energy and nutrients available for seed germination (Chen et al., 2OO2; Soriano et al., 2011). Studies have shown that seed mass may affect seed germination (Reich,1994; Paz et al., 1999; Bu et al., 2007; Xu et al., 2014). Direct positive experimental evidences of the impacts of seed mass on seed germination remain scarce, and mostly relate to positive impacts on seed germination (Catoni et al.， 2015； Wang et al.， 2016) and seedling survival (Wang, 2009). However, indirect evidence has shown that seed size is positively related to seed germination (Bu et al., 2007; Wang et al., 20O9). Whether seed mass is also positively related to seed germination remains unclear. Seed shape is another important trait that influences seed germination (Weiher et al.,1999; Tekrony et al., 2OO5). Although theoretical studies have predicted that elongated and flat seeds should exhibit a higher germination percentage (GP) compared to round seeds (Gremer et al.,2O14), experimental evidence is needed to understand the role of seed shape in seed germination (Liu et al., 2014). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Precipitation variation is a crucial component of global climate change, and studies of the plant growing season have demonstrated the impacts of changing paterns of precipitation on ecosystems. Increased precipitation has been shown to significantly increase (Zheng et al., 2005; Arfin-Khan et al., 2018), decrease (Zhao et al.， 2012) or have no impact on (Weltzin and Mcpherson, 20o0) seedling emergence percentage (i.e.， GP). Snow is an important source of water for seed germination and seedling survival in most parts of the temperate deserts in Central Asia. Snow melt provides the moisture necessary for seed germination and plant growth during early spring (Gutterman, 2000; Sun et al., 2009; Yuan and Tang,2010; Fan et al.,2013). Previous studies have shown that variations in snow cover have profound impacts on herbaceous plant community composition at the peak of plant growth. While studies on invasive and indigenous plants have shown that an increase or decrease in snow cover has no significant impact on seed germination, but an increase in snow cover is beneficial to the establishment of indigenous plant populations (Gornish et al., 2015). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Seed germination is an important factor affecting plant community composition, and studies exploring the relationship between variations in snow cover and seed germination of various species can improve understanding of plant community composition and stability in the temperate deserts in Central Asia under climate change. For example, the number of snowfall days has been shown to affect the wintering safety of Pinus sylvestris var. mongolica seedlings (Yan et al., 2012).Decreased snow may result in the loss of the snow-cover temperature barrier, thereby decreasing the probability of survival over winter for many plant species (Simons et al., 2010). Snow cover is essential to seed germination because of its direct impacts on water availability and indirect impacts on soil temperature and nutrient availability. For instance, the replenishment of soil moisture during early spring in a desert ecosystem could increase soil water content (SWC) (Fan et al.， 2O12). Changes in soil physical properties may have different impacts on seed germination in terms of plant ecotype and seed traits， thus changing plant community composition and succession (Drescher and Thomas, 2013). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The present study aims to assess the impacts of snow and seed traits (or plant ecological characteristics) on seed germination by investigating the seed germination characteristics of 35 plant species common to the Gurbantunggut Desert in Central Asia under the three snow treatments (snow addition, ambient snow and snow removal). The 35 plant species show a wide range of variation in terms of seed mass, shape and color, and also have different plant ecological traits. A previous study conducted $1 5 0 ~ \\mathrm { k m }$ away from the study site of the present study demonstrated that a $50 \\%$ increase in snow cover profoundly decreased spring ephemeral density in one year out of three consecutive years studied, whereas a $100 \\%$ increase in snow cover exerted no impacts on spring ephemeral density (Fan et al., 2O14). The seeds of spring ephemerals are characterized by a small size and a low mass; therefore, they may require less water to promote germination compared with large seeds. The change of snow cover has a profound effect on the composition of the herbaceous plant community during the period of vigorous growth. Seed germination is one of the important factors that affect the composition of plant communities. Therefore, under a scenario of climate change, studying how snow cover affects seed germination is helpful to understand the composition and stability of desert plant communities in the temperate deserts of Central Asia. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Studyarea ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Gurbantunggut Desert is located in southeast of Central Asia and has a climate and plant composition typical of the temperate deserts of Central Asia. This temperate desert exhibits an annual precipitation varying from 70 to $1 6 0 ~ \\mathrm { { m m } }$ , with most precipitation occurring during spring. There is snow cover from early November to late March, ranging from 10 to $5 0 \\mathrm { c m }$ in thickness, with a mean annual of $3 0 ~ \\mathrm { c m }$ ， The mean annual potential evaporation is $2 6 0 6 ~ \\mathrm { { m m } }$ .The annual mean temperature is $7 ^ { \\circ } \\mathrm { C }$ ， with the minimum of $- 4 0 ^ { \\circ } \\mathrm { C }$ and a mean of $- 1 7 ^ { \\circ } \\mathrm { C }$ in January. Plant community in the desert is composed of semi-shrubs, spring ephemerals, spring-summer annuals and perennial herbs (Huang et al.， 2O15). Semi-shrubs in the region, such as Haloxylon ammodendron, Haloxylon persicum and Tamarix ramosissima, depend primarily on groundwater to survive. Although these plants fall their leaves in October, their above-ground woody parts persist through the winter. Spring ephemerals, such as Erodium oxyrrhynchum, Alyssum linifolium, Schismus arabicus and Lactuca undulate, generally depend on snowmelt water and spring precipitation for growth (Fan et al., 2014; Huang and Li, 2O15). In contrast, spring-summer annuals and perennial herbs, such as Salsola subcrassa, Ceratocarpus arenarius, Seriphidium santolinum and Agriophyllum squarrosum, depend on summer precipitation as their main source of water (Huang et al., 2O15). Spring-summer annuals often show low growth rates during the growing season of ephemerals, with their growth rates accelerating after ephemerals die (Huang et al., 2018). A new non-woody shoot emerges from perennial herbs every April that persists until the onset of autumn (i.e., October). Soils of the region are desert solonetz, with aeolian sandy soil on the top layer $( 0 { - } 1 0 0 ~ \\mathrm { c m } )$ . Up to 2O6 plant species are found in this desert (Zhang and Chen, 2002),and plant community composition changes noticeably from the edge to the center of the desert due to varying soil moisture and soil texture. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2Experimental design ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The experiments were performed in the center of the Gurbantunggut Desert ( $( 4 5 ^ { \\circ } 1 4 ^ { \\prime } \\mathrm { N }$ ， $8 7 ^ { \\circ } 3 6 ^ { \\prime } \\mathrm { E }$ )， and an experimental approach was used to test the impacts of snow addition and removal on seed germination. A relatively uniform interdunal area was selected and divided into 15 plots (each area of $3 \\mathrm { m } \\times 3 \\mathrm { m } ,$ ), which were randomly allocated among the three treatments: (1) snow addition; (2) ambient snow; and (3) snow removal. Each snow treatment had five replicates. Frames (1.5 $\\mathrm { m } { \\times } 3 . 0 ~ \\mathrm { m } ,$ ） covered with a transparent polycarbonate sheets were installed on the snow removal plots. The sheets were $1 . 5 ~ \\mathrm { m m }$ thick and allowed $92 \\%$ of photosynthetically-active radiation to pass through onto the plots. The plots were surrounded by snow nets to avoid the accumulation of snow. The polycarbonate frames were supported by steel and rebar scaffolding tethered to the ground and rising to a height of $3 0 \\ \\mathrm { c m }$ above the soil surface. After each snowfall event, we increased or decreased the snow cover of each treatment according to the extent of the last snowfall event. For the snow removal plots， snow was removed from the transparent polycarbonate coverings on each plot after each snowfall event. Ambient snow plots were left to receive natural snowfall. The snow removed from the snow removal plots was evenly sprinkled to the snow addition plots. Shade netting was wrapped around the frame since mid-October to prevent wind-blown snow from entering the plots, and was removed after snowmelt in late March. In addition, the plants in the plots were relatively uniformly distributed. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3Soil water content (SWC) and soil temperature measurements ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "EM50 data loggers equipped with 5TE (Decagon Devices, Pullman, Washington, USA) were positioned within the $2 \\ \\mathrm { c m }$ soil layer within a designated instrument subplot in each plot before winter to measure volumetric SWC and soil temperature. Measurements were taken at $1 5 ~ \\mathrm { m i n }$ intervals from October to April in 2015-2016 using the EM50 data loggers. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4Seed collection ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Mature seeds of 35 investigated species inhabiting different sites across the desert were collected at the time of seed dispersal from mid-May to late October, 2O15. Seeds were collected from at least 25 plants for each species, and then they were thoroughly mixed to minimize the risk of a single plant dominated the seed collection. Air dried seeds were stored in paper bags in the laboratory for further processing. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5 Fieldandlaboratory germinationexperiments ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For each species, five replicates of 1OO seeds were placed in fiberglass mesh bags ( $2 5 \\mathrm { c m } { \\times } 2 5 \\mathrm { c m } ,$ ） The grid mesh of the bags was $1 . 2 ~ \\mathrm { m m }$ on the upper surface and $0 . 1 ~ \\mathrm { m m }$ on the lower surface, which allowed seeds to access soil by passing roots through the lower surface while at the same time protecting the seeds from micro-invertebrate predation. We randomly buried one bag for each species to a soil depth of $1 { - } 3 \\ \\mathrm { c m }$ according to seed mass and shape variance to ensure seeds remained in contact with bulk soil and to facilitate the complete recovery of all seeds (Abbott and Roundy,2003) in each plot in mid-October,2015, prior to the first snowfall. On 21 April 2016, seds with a radicle present at the time of harvest were marked for germination and counted. The remaining seeds were transported to the laboratory for further germination experiments. In the laboratory, non-germinated seeds were placed on filter paper in Petri dishes ( $9 \\ \\mathrm { c m }$ in diameter) and the filter paper was moistened with distilled water. Controlled laboratory conditions with a mean temperature of $2 0 ^ { \\circ } \\mathrm { C }$ and natural light were maintained. Each Petri dish was inspected daily, and germinated seeds were counted and removed. The seeds in which the radicles had emerged were considered to have germinated. Counting continued until no germination occurred for five successive days. During the laboratory experiment, germinated seeds were considered as non-dormant, and non-germinated seeds at harvest or seeds that were decomposed were scored as dead. The GP was calculated in two forms: (1) field germinated seeds divided by the total number of experimental seeds (1OO seeds; GP-1); and (2) field germinated seeds divided by the sum of field germinated seeds and laboratory germinated seeds (GP-2). Of the two measures, GP-1 reflected the impacts of snow on real seed germination at a species level, whereas GP-2 can be used to indicate the seed germination rate as affected by snow variation and rainfall in the coming seasons. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.6 Seed traits and plant ecological characteristics ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A group of 1OO air-dried seeds of each species was weighed using a fine balance (FA1604N, Jinghong, Shanghai, China; accuracy to $\\boldsymbol { 0 . 0 0 0 1 \\ \\mathrm { g } } )$ ,with five replicates per species (Thompson et al., 1993). The mean seed mass was classified into six classes (Moles et al., 2000): (1) ${ < } 2 0 ~ \\mathrm { m g }$ (2) $2 0 { - } 5 0 ~ \\mathrm { m g }$ ； (3) $5 0 - 1 0 0 ~ \\mathrm { m g }$ ； (4) $1 0 0 { - } 2 0 0 ~ \\mathrm { m g }$ ； (5) $2 0 0 { - } 5 0 0 ~ \\mathrm { m g }$ ; and (6) $> 5 0 0 ~ \\mathrm { m g }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The seed shape was calculated as the variance of the three main perpendicular dimensions after dividing all values by the length. These seed shape values ranged from O.OO for spherical seeds to 0.33 for elongated or flat seeds (Thompson et al.,1993). In the present study, we categorized the seeds into four grades based on seed shape (Liu, 1992; Gordon, 1998; Liu et al., 2005; Liu et al., 2014): (1) $< 0 . 0 5$ ; (2) 0.05-0.10; (3) 0.10-0.15; and (4) $> 0 . 1 5$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this study, we classfied the species into five color categories based on observations and relevant literature (Liu, 1992; Gordon, 1998; Liu et al., 2005; Liu et al., 2014): (1) white; (2) yellow (pale yellow or yellow); (3) green (yellowish green or brownish green); (4) brown (light yellowish brown, light reddish brown, brown, dark brown, yellowish brown or reddish brown); and (5) black. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We also grouped the species into four classes based on the plant life form: (1) semi-shrubs; (2) spring ephemerals; (3) spring-summer annuals; and (4) perennial herbs. Moreover, we assigned the species to two kinds of plant ecotypes based on the seed collection sites: (1) mesophyte; and (2) xerophyte. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Following the study of Zanne et al. (2O14), we built a phylogenetic tree using the online software Phylomatic (Webb and Donoghue, 2005) based on the Angiosperm Phylogeny Group (APG) III consensus topology (Fig. 1). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.7Tests of seed viability ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Seed viability after germination was assessed using a tetrazolium test (Hendry et al., 1993). Seeds with strong red-stained embryos were considered in the test. At the end of the germination tests, the viability of non-germinated seeds was examined through dissection using a needle to determine the presence of a firm embryo (Baskin et al., 2000). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.8 Statisticalanalysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "All statistical analyses were performed using R software v4.0.0 (R Core Team 2O2O; Vienna, Austria) and SPSS 16.O software (SPSS Inc., Chicago, IL, USA),and all continuous variables were log-transformed. Two-way analysis of variance (ANOVA) tests were performed to assess the correlations of snow treatments (snow addition, ambient snow and snow removal) with sed traits (seed mass, shape and color) and plant ecological characteristics (plant life form and ecotype). Dichotomized APG II phylogenetic trees were created using the multi2di function in the ape package in R software. Blomberg $k$ values (Blomberg et al., 2O03) were estimated by means of the Kcalc function of the picante package in R software. Phylogenetic generalized least-squares (PGLS) model was constructed in the R package nlme (Pinheiro et al., 2O19), incorporating Pagel's (Pagel et al.， 1999) phylogenetic correlation structure (corPagel) as implemented in the ape package to estimate the phylogenetic scaling parameter $\\lambda$ using maximum likelihood. The fit of these models was then compared with that of models which had $\\lambda$ fixed to either O (phylogenetic independence) or 1 (complete phylogenetic association). A Brownian correlation structure (corBrownian) was used for Pearson's product-moment correlations among seed traits (Paradis et al., 2004). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Seed mass (mg) GP-1 (%) GP-2 (%) 0 50100 04080 04080 04080 04080 04080 04080 (a) Eremurusinderiensis (b) 1 1 (c1) (c2) 1 (c3） (d1) (d2) (d3) Peganumharmala Trigonellaarcuata - LGlycyrrhizauralensis Erodiumoxyrrhynchum Camelinasativa Alyssumlinifolium Tetracmequadricornis Malcolmiaafricana Isatisviolascens Alyssumdeserorum DescurainiaSophia Reaumuriasoongorica 1 Limoniumcoralloides Limoniumsuffruticosum Limoniumgmelinii Bassiadasyphylla Ceratocarpusarenarius Agriophyllumsquarrosum Kalidiumcuspidatum Kalidiumfoliatum Chenopodiumacuminatum Horaninowiaulicina Kochiairanica Corispermumlehmannianum Salsolaruthenica Haloxylonpersicum Salsolaaffinis Suaedaphysophora -Heliotropiumellipticum -Plantagominuta 一 Salviadeserta 1 J 上 L L 上 J 0 50100 04080 0 4080 0 4080 04080 0 4080 0 4080 Seed mass (mg) GP-1 (%) GP-2 (%) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1Snow impacts on SWC and soil temperature ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "There were significant differences in SWC (the volume of water per volume of soil; $\\%$ )amongthe three snow treatments (Fig. 2a). In general, SWC tended to decrease during the winter months in the surface $2 \\mathrm { c m }$ soil layer under all snow treatments because of reduced water use by vegetation. SWC increased sharply from February under the ambient snow and snow addition treatments. There was no difference in soil temperature among the three snow treatments (Fig. 2b). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/42699fe42e45b7cc01800efb8c7100f50ca9307d3623e8dd7f193f4fbf875773.jpg",
+        "img_caption": [
+            "Fig.1 Phylogenetic position of the selected 35 species (a),seed mass(b), GP-1 (c1,c2 and c3)and GP-2 (d1,d2 and d3)under the snow addition (c1 and d1),ambient snow(c2 and d2)and snow removal (c3 andd3) treatments. Diferent color lines indicate different dispersal modes (red for anemochory,light blue for autochory,dark blue for barochory,green for ombrohydrochory,and pink for zoochory). GP-1and GP-2 represent two forms of germination percentage (GP). GP-1 was calculated as field germinated seeds divided by the total number of experimental seeds and GP-2 was calculated as field germinated seeds divided by the sum of field germinated seeds and laboratory germinated seeds. We built the phylogenetic tree according to the study of Zanne et al. (2014). ",
+            "Fig.2Comparison of volumetric soil water content (SWC; a) and soil temperature (b) in the surface $2 \\ \\mathrm { c m }$ soil layer under the snow addition, ambient snow and snow removal treatments from October to April "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2Snow impacts on seed germination ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In general, snow variations had no significant impacts on seed germination for the selected 35 species in the Gurbantunggut Desert ( $\\scriptstyle P = 0 . 2 6 5$ ; Table 1). No significant interactions were found between snow treatments and seed traits (seed mass, shape and color) in the present study $( P { > } 0 . 0 5$ ： Table 1). Moreover, snow exhibited no significant interaction with plant ecological characteristics (plant life form and ecotype) that would affect seed germination ( $\\cdot \\mathrm { \\Delta } P { > } 0 . 0 5$ ; Table 1). ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/4bf9b84c04566674d57a112afd5546787ed0a3214f220a4ea4119097f6832514.jpg",
+        "table_caption": [
+            "Table 1 Results of two-way analysis of variance (ANOVA) of snow in relation to seed traits (seed mass, shape and color) and plant ecological characteristics (plant life form and ecotype) on seed germination "
+        ],
+        "table_footnote": [
+            "Note: GP-1and GP-2representtwoforsof germinationpercentage (GP).GP-1wascalculatedas field germinated seedsdivided by thetotalnumberofexperimentalseedsandG-2wascalculatedasfieldgerinatedseedsdividedbythesumoffeldgermatedss and laboratory germinated seeds. df, degree of freedom. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Source of variation</td><td rowspan=\"2\">df</td><td colspan=\"2\">GP-1</td><td colspan=\"2\">GP-2</td></tr><tr><td>F</td><td>P</td><td>F</td><td>P</td></tr><tr><td>Snow</td><td>2</td><td>1.346</td><td>0.265</td><td>1.892</td><td>0.156</td></tr><tr><td>SnowXseed mass</td><td>10</td><td>0.157</td><td>0.998</td><td>0.392</td><td>0.947</td></tr><tr><td> Snowxseed shape</td><td>6</td><td>0.848</td><td>0.536</td><td>0.353</td><td>0.907</td></tr><tr><td>Snowxseed color</td><td>8</td><td>0.047</td><td>1.000</td><td>0.261</td><td>0.977</td></tr><tr><td>Snowxplant life form</td><td>6</td><td>0.291</td><td>0.967</td><td>0.111</td><td>0.999</td></tr><tr><td> Snowxplant ecotype</td><td>2</td><td>0.078</td><td>0.925</td><td>0.083</td><td>0.921</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3Seed traits impacts on seed germination ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "There was a significantly positive influence of seed mass on seed germination $( P { < } 0 . 0 1$ ; Fig. 3). For GP-1， the arcsine square root-transformed seed germination increased linearly with the log-transformed seed mass, with the slopes of these regressions differing significantly between the snow addition and ambient snow treatments ( ${ ( P { = } 0 . 0 1 }$ ; Fig. 3a). Similarly, the slope of the regression for the snow removal treatment was significantly lower than that of the ambient snow treatment $\\scriptstyle { \\overbrace { P = 0 . 0 2 } }$ ; Fig. 3a). Snow addition and snow removal treatments exerted no significant impacts on the intercepts of the linear regressions compared with the ambient snow treatment $( P { > } 0 . 0 5$ ; Fig. 3). For GP-2, the arcsine square root-transformed seed germination was positively related to the log-transformed seed mass under the snow addition and ambient snow treatments, and negatively correlated to the log-transformed seed mass under the snow removal treatment (Fig. 3b). The slopes and intercepts of the regressions under both the snow addition and snow removal treatments were not significantly different to those of the ambient snow treatment $( P { > } 0 . 0 5$ ; Fig. 3b). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "· Snow addition(— fitted line) 8 (a)Ambientsov(fited line) 0 (b) (h rrrrrrrernsnrrrrrsrert 。 60 50 。 C 40 。 30 O 。 0 % 20 。 100 8 ① a 8 9 08 ① 。 8 0.0 1.0 1.5 2.0 2.5 3.0 0.0 1.0 1.5 2.0 2.5 3.0 log-transformed seed mass (mg) log-transformed seed mass (mg) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Elongated or flat seeds exhibited the highest GP (Fig. 4). Snow removal treatment significantly decreased GP-1 with a seed shape variance higher than O.O5, while GP-1 was similar between the snow addition and ambient snow treatments (Fig. 4a). For GP-2, snow removal treatment profoundly inhibited seed germination with seed shape variance values of $0 . 0 5 \\substack { - 0 . 1 0 }$ and ${ \\geq } 0 . 1 5$ (Fig. 4b), whereas snow addition treatment exerted no impacts on seed germination compared with the ambient snow treatment (Fig. 4b). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "60(a) 100(b) C Car C 5040 Arie Ca 860 Aa A4 Aa A a a (%)d( a AAB A 30 A Cb AA a a b 20 a AA 40 aa a a AB 1 B 10 aABA B BB 20 bf ⊥ a b aa b 0 0 <0.05 0.05-0.10 0.10-0.15 ≥0.15 <0.05 0.05-0.10 0.10-0.15 ≥0.15 Seed shape variance Seed shape variance ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Seeds with a green seed coat exhibited the highest GP-1 for all the three snow treatments, with white, yellow and black seeds showing a similar low germination (Fig. 5a). White seeds showed a significantly stronger response to snow addition or removal treatment compared to the other seeds. Black seeds showed the lowest GP-2 compared with the other seeds (Fig. 5b). Snow addition treatment had no effect on GP-2 of any colored seeds,and snow removal treatment only reduced the GP-2 of brown seeds. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "40-(a) 120(b) A Snowaddition 30 BB 100- Aa A a ABA Ambient snow aB A 806040 a a aAB AAL (%)dD BA 20 A A A Baf C 10- 6 Ac a b AAA aa 20- b CBD 0 美 T 0 中 White Yellow Green Brown Black White YellowGreen Brown Black Seed color Seed color ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4Plant life form impacts on seed germination ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Plant life form significantly affected GP-1 and GP-2 (Fig. 6). The seeds of semi-shrubs exhibited the highest GP-1, and similar GP-1 values were observed among perennial herbs, spring-summer annuals and spring ephemerals (Fig. 6). GP-1 values were similar between the snow addition and ambient snow treatments, irespective of plant life form, whereas they were lower under the snow removal treatment for semi-shrubs and spring-summer annuals compared with the ambient snow treatment (Fig. 6a). Although GP-2 values of semi-shrubs were much higher than those of perennial herbs and spring-summer annuals, they were similar among perennial herbs, spring-summer annuals and spring ephemerals (Fig. 6b). GP-2 values were similar between the snow addition and ambient snow treatments, irrespective of plant life form. Snow removal treatment resulted in a significant decrease in the seed germination of semi-shrubs, whereas it exerted no impacts on other plant life forms (Fig. 6b). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Plant ecotype had no impacts on GP-1 and GP-2 (Table 1). GP-2 in the mesophyte ecotone was significantly higher than that in the xerophyte ecotone (Fig. 7). Snow addition and snow removal treatments exhibited no impacts on GP-1 and GP-2, irrespective of plant ecotype (Fig. 7). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "40-(a) 100(b) Snowaddition A Ambientsnow a 80 Snow removal 30 (%)d5 20 aI A A 60 A b Ba BAB BAB a a aAB AB b C B 40 a B a 10 T Ba Ba Ba Ba B4 C a aBC 20 a b 0 0 Semi-shrubs Perennial herbs Annuals Ephemerals Semi-shrubs Perennial herbs Annuals Ephemerals Plant life form Plant life form ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/e82c24e221d49f4fecf6ba5b66158f28c314ac8ab15b18c851c2bf7a0bad19b5.jpg",
+        "img_caption": [
+            "Fig. 6 Seed GP influenced by plant life form under the snow addition,ambient snow and snow removal treatments forGP-1(a)and GP-2(b). Different lowercase lettrs indicate significant diferencesamong the three snow treatments within the same plant life form at $P { < } 0 . 0 5$ level; different uppercase letters indicate significant differences among different plant life forms within the same snow treatment at $P { < } 0 . 0 5$ ",
+            "Fig.7 Seed GP influenced by plant ecotype under the snow addition, ambient snow and snow removal treatments for GP-1(a)and GP-2 (b). Different lowercase lettrs indicate significant differences among the three snow treatments within the same plant ecotype at $P { < } 0 . 0 5$ level; different uppercase letters indicate significant differences between the two plant ecotypes within the same snow treatment at $P { < } 0 . 0 5$ level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.5Correlations between seed traits and seed germination ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The relationships of seed germination with both seed mass and seed shape variance were better described by the PGLS models, with a higher phylogenetic signal occurring in the snow removal treatment ( $k { = } 0 . 4 0$ for GP-1 and $k { = } 0 . 6 3$ for GP-2) than in the ambient snow( $k { = } 0 . 4 0$ for GP-1 and $k { = } 0 . 3 8$ for GP-2) and snow addition ( $k { = } 0 . 3 8$ for GP-1 and $k { = } 0 . 5 5$ for GP-2) treatments. In most cases,the PGLS models provided a significantly better fit to the data than the generalized least-squares (GLS) models (Figs. 8 and 9). Seed traits were also correlated with GP-1, in which heavy and elongated and flat seds showed a higher GP under the snow removal treatment (Figs. 8 and 9; Table 2). Variance in seed shape did not show any significant correlations with GP-2 (Fig. 9; Table 2). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Snow treatment in general had no significant impacts on seed germination, and the snow addition treatment did not significantly increase seed germination, irrespective of seed traits and plant ecological characteristics. The snow removal treatment exerted negative impacts only on seed germination within certain groups of seed traits and plant ecological characteristics. This result contradicts the current study that snow addition and removal would exert positive and negative impacts on seed germination, respectively. Seed traits, including seed mass, shape and color, had significant impacts on GP of seeds, as did plant life form. The influences of plant ecotype on seed ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Snowadditiontreatment Ambientsnowtreatment Snowremovaltreatment GLS fit (a) 。 (b) 。 (c)   \n50- PGLS fit 50- 。 。 。 40 。 (%) 40- 。 。 40- 。 。 30- 。 。   \n30- 30- 。 GPT 20- 。 20- 。 。 20- 。 。   \n10 0。 。。 。。。 10 。。 。。 %。 。 10 8 。   \n0- 。 8 L 8 08 T 一 二 1 1 ： T F2 1 二 T   \n2 3 4 5 6 7 2 3 4 5 6 7 3 4 5 6 7   \n860 °。。 。。 。。°。 @。。 860 00 @。 860 。。 。。 。 。 の° 。 。 (%) -15) o0 o0 op 。   \n40 40 。 40 。 。 。   \n20- 。° 。 。 。 20- 。 。。 。 。 20 。 。 。 8 。。 。 。。。 。8   \n0 。 8 00 000 0 ① 0- 。 8。   \n1 12 1 T F2 · 二 II   \n2 34 5 6 7 34 56 7 3 4 5 6 7 log-transformed seed mass (mg) log-transformed seed mass (mg) log-transformed seed mass (mg) Snowadditiontreatment Ambient snowtreatment Snowremovaltreatment 50 GLS fit PGLSfit (a) 50- 0 。 (b) 40 。 。 (c) 40 40 。   \n(%) [-15 。 。 。 30 。 30 30 。 20 20 。 。 20- 。 10 88 100 8。 88 100 。 88 。 88 。 。 0.1 0.2 0.3 0.4 0.5 0.1 0.2 0.3 0.4 0.5 0.1 0.2 0.3 0.4 0.5 80 。 。。 (d) 80 。 。。 (e) 80- 。° (f) 00 。 00 。 。 。 60 80 。 60 8 。 60 0。   \n(%) -15) 40 。 40 % 40 。。 8 o。 o。 20 20 。 20- 8。 。 8 0 808 o 0- 808 。 0 800 0 0.10.20.30.40.5 0.10.20.30.40.5 0.10.20.30.40.5 Seed shape variance Seed shape variance Seed shape variance ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "germination were only significant for GP-1. Moreover, the impacts of seed traits and plant ecological characteristics on seed germination were independent of snow treatments. The results of the present study clearly showed that phylogenetic groups significantly influenced seed germination for the plant species in the Gurbantunggut Desert. These results are supported by previous research, which showed that seed germination was correlated with plant phylogeny in the temperate rain forests (Figueroa, 2003) and alpine meadows (Bu et al., 2007; Xu et al., 2014) in arid and semi-arid zones. We therefore proposed in the current study that variation in seed germination is closely dependent on the phylogeny. ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/744f5b9d82d0c746a342244bb612a280e7489055e33366ac4e5ae8f7219a613b.jpg",
+        "table_caption": [
+            "Table 2 Results of the phylogenetic generalized least-squares (PGLS) models examining the impacts of seed traits (seed mass and seed shape variance)on GP(GP-1 and GP-2) under the snow addition, ambient snow and snow removal treatments "
+        ],
+        "table_footnote": [
+            "Note:SD,standard deviation; t, test statistic regression; $P$ ,significance level; r,Pearson's correlation coefficient;𝑖, phylogenetic correlation coefficient. "
+        ],
+        "table_body": "<html><body><table><tr><td>Response</td><td>Y</td><td>X</td><td> Slope</td><td>SD</td><td>t</td><td>P</td><td>r</td><td></td></tr><tr><td rowspan=\"3\">GP-1</td><td>Snow addition</td><td>Seed mass (log10)</td><td>3.365</td><td>2.088</td><td>1.611</td><td>0.117</td><td>0.313</td><td>0.722</td></tr><tr><td>Ambient snow</td><td>Seed mass (log10)</td><td>1.896</td><td>1.828</td><td>1.037</td><td>0.308</td><td>0.169</td><td>0.728</td></tr><tr><td>Snow removal</td><td>Seed mass (log10)</td><td>1.544</td><td>1.313</td><td>1.175</td><td>0.248</td><td>0.201</td><td>0.940</td></tr><tr><td rowspan=\"3\">GP-2</td><td>Snow addition</td><td>Seed mass (log10)</td><td>2.960</td><td>66.212</td><td>0.044</td><td>0.964</td><td>-0.075</td><td>0.000</td></tr><tr><td>Ambient snow</td><td>Seed mass (log10)</td><td>1.896</td><td>1.828</td><td>1.037</td><td>0.308</td><td>0.054</td><td>0.728</td></tr><tr><td>Snow removal</td><td>Seed mass (log10)</td><td>-4.683</td><td>3.800</td><td>-1.232</td><td>0.227</td><td>-0.253</td><td>0.000</td></tr><tr><td rowspan=\"3\">GP-1</td><td>Snow addition</td><td>Seed shape variance</td><td>15.863</td><td>34.576</td><td>0.458</td><td>0.649</td><td>0.063</td><td>0.612</td></tr><tr><td>Ambient snow</td><td>Seed shape variance</td><td>17.239</td><td>29.495</td><td>0.584</td><td>0.563</td><td>0.071</td><td>0.709</td></tr><tr><td>Snow removal</td><td>Seed shape variance</td><td>24.552</td><td>21.199</td><td>1.158</td><td>0.255</td><td>0.198</td><td>1.000</td></tr><tr><td rowspan=\"3\">GP-2</td><td> Snow addition</td><td>Seed shape variance</td><td>2.960</td><td>66.212</td><td>0.044</td><td>0.964</td><td>-0.048</td><td>0.000</td></tr><tr><td>Ambient snow</td><td>Seed shape variance</td><td>-4.870</td><td>60.795</td><td>-0.080</td><td>0.936</td><td>-0.030</td><td>0.000</td></tr><tr><td> Snow removal</td><td> Seed shape variance</td><td>-4.569</td><td>58.389</td><td>-0.078</td><td>0.938</td><td>0.152</td><td>0.000</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.1 Interactions between seed traits and plant ecological characteristics under the three snow treatments ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Few researches have focused on the impacts of variations in snow cover on seed germination, with some studies showing that snow impacts on seed germination are dependent on the species under investigation (Drescher, 2O14; Gornish et al., 2015). For instance, although snow removal decreased seed germination of both native Pseudoroegnaria spicata and invasive Bromus tectorum grass species in a cold desert in North America, snow addition had no associated impacts (Gornish et al., 2O15). Consistent with these studies, the present study exhibited no impacts of snow addition on seed germination for the 35 plant species examined, and snow removal impacts on seed germination were only observed for plants with certain seed traits or plant life forms. This result suggests that the impacts of snow removal on seed germination are depend on the biological traits of a plant species. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The addition of snow can increase SWC and decrease variation in soil temperature, as well as alter the soil freeze-thaw cycles, resulting in increased susceptibility of seeds to soil pathogens and decreased germination of seeds. Soil surface temperatures under the snow addition and ambient snow treatments were similar throughout the experiment in the present study. Moreover, SWC at the depth of $2 \\ \\mathrm { c m }$ showed no differences from snow melting to the time of seed germination. These results suggest that the similar seed germination observed between the ambient snow and snow addition treatments may be due to there being no significant differences in soil temperature and moisture between the two snow treatments. Snow removal treatment dramatically decreased the soil surface temperature and reduced the frequency of the soil freze-thaw cycles. Moreover, since SWC at snow melt was significantly lower than that ambient snow, the similarity in seed germination between the ambient snow and snow removal treatments may be due to the sufficient spring precipitation experienced during the study period. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The impacts of snow on seed germination are independent of seed traits and plant ecological characteristics in the study area. Snow addition and snow removal treatments significantly changed the slopes of linear regressions between arcsine square root-transformed seed germination and log-transformed sed mass, while there were no differences between the intercepts of regressons, suggesting that the snow treatments had the greatest impacts on heavy seeds. The impacts of both snow addition and snow removal treatments increased with increasing seed mass. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.2 Impacts of seed traits and plant ecological characteristics on seed germination ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Several studies have indicated that seed germination is correlated with seed traits such as seed shape and mass (Wang et al., 2O16). The results of the present study clearly showed that seed traits such as seed mass and shape significantly affected seed germination. In the present study, seed mass positively affected seed germination, which is consistent with the results of many previous studies, which showed that large and heavy seeds have a higher percentage of germination because of their larger reserves of energy and nutrients (van Molken et al., 2005; Wu and Du, 2007； Galindez et al.， 2O09). However， some studies have identified negative relationships between seed mass and seed germination in some semi-arid ecosystems. There are several possible interpretations for this contradiction among studies. The different relationships between seed germination and seed mass are primarily related to the ranges of seed mass investigated among different studies (Grime et al., 1981; van Molken et al., 2O05; Galindez et al., 2009; Wang et al., 2O16). For instance, for Tragopogon pratensis species in variable habitats, a study of seed mass ranging from 0.011 to $1 3 0 . 7 0 0 ~ \\mathrm { m g }$ showed a negative relationship between seed germination and seed mass (Wang et al., 2O16), while another study of seed mass ranging from 4.000 to $1 7 . 0 0 0 ~ \\mathrm { { m g } }$ exhibited positive impacts of seed mass on seed germination (van Molken et al., 2OO5). Similarly, a higher seed germination was observed for seven Asteraceae species from Argentina with larger seeds $( \\mathrm { m a s s } { > } 0 . 1 0 0 ~ \\mathrm { m g } )$ (Galindez et al., 2009). In the present study, the mass of seeds ranged from O.076 to $1 3 . 8 9 0 ~ \\mathrm { m g }$ ，which is comparable to that of seeds investigated by van Molken (2Oo5). In particular, the present study found that the impacts of seed mass on seed germination varied among different snow treatments. Under the snow addition treatment, seed mass had a significant influence on seed germination, with heavy seeds showing a higher seed germination compared to light seeds. This observation may be due to seedlings of heavy seeds having access to greater amounts of food reserves, thereby resulting in a considerable competitive advantage during drought conditions by allowing a delay in germination or dormancy under unfavorable environment conditions that maximizes plant fitness. In summary, the results of the present study indicate that seed germination of the 35 species investigated under a scenario of climate change in the temperate desert was largely dependent on seed mass. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In the present study, elongated and flat seeds showed a higher GP than round seeds. Although there have been few studies relating sed germination with seed shape (Grime et al., 1981; Liu et al., 2013; Wang et al., 2O16), the available results consistently showed that elongated and flat seeds exhibit a higher GP. Many previous studies have shown that seed shape is linked to plant phylogeny, indicating that elongated and flat seeds usually promote fast germination to avoid predation and risks of mortality during dispersal (Thompson et al., 1993; Thompson et al., 1998; Funes et al., 1999). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In the Gurbantunggut Desert, plant ecological characteristics had different impacts on seed germination, with plant life form significantly affecting seed germination and plant ecotype having no impacts. The impacts of plant life form on seed germination may be related to plant habitat or flora, and the impacts vary among different studies. For instance, plant life form, including woody plants, graminoid plants and forbs, had no impacts on seed germination in 109 species in a temperate sandy desert in northeastern China (Wang et al., 2O16). Similarly, results from an alpine grassland in Tibet of China showed no differences in seed germination between annuals and perennials for 134 species (Xu et al., 2O14). In contrast, significant plant life form impacts on seed germination have been reported in grassands (Rees, 1994) and alpine meadows (Bu et al., 2008). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Snow variations had no significant impacts on seed germination of the 35 plant species common to the Gurbantunggut Desert in Central Asia. The similar seed germination observed between the snow addition and ambient snow treatments suggests that slight changes in soil water content and temperature under the snow addition treatment exerted no impacts on seed germination. However, the observation of no significant impacts of the snow removal treatment on seed germination was due to the enough spring precipitation having occurred, which countered the impacts of different water availability under the different snow treatments in the present study. In general, snow treatments， seed traits and plant ecotype had no interactive effects on seed germination. Nevertheless, when comparing the relationships between seed germination and seed mass among the three snow treatments， the repression slope under the snow addition treatment was significantly higher, whereas it was significantly lower under the snow removal treatment, compared with that under the ambient snow treatment. The results suggest that snow treatment impacts on seed germination were obvious for heavy seeds in the desert ecosystem. The results of the present study indicate that under a scenario of climate change, variations in snow cover would change plant community structure by changing seed germination of heavy seeds, while the influence on seed germination of light seeds was not significant. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The study was supported by the National Natural Science Foundation of China (41571256, 3167007). Two anonymous reviewers provided comments that improved the manuscript.We thank Dr.CHENG Junhui from Xinjiang Agricultural University for his valuable advice on R language analysis. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abbott LB,RoundyBA.2O03.Available water influences field germinationand recruitment of seeded grasses.Jouralof Range Management, 56(1): 56-64.   \nArfin-KhanMAS,VettrVMS,ReshiZA,etal.2O18.Factors influencingseedlingemergenceofthreeglobalinvaders in greenhouses representing major eco-regions of the world. Plant Biology,2O(3): 610-618.   \nBaskinJM,Baskin CC,Li X J.2Oo0.Taxonomy,anatomyand evolution of physical dormancy in seeds.Plant Species Biology, 15(2): 139-152.   \nBilbrough CJ.2Ooo.Early spring nitrogen uptakeby snow-covered plants: Acomparison of Arctic and alpine plant function under the snowpack. Arctic, Antarctic,and Alpine Research, 32(4): 404-411.   \nBlomberg SP,GarlandT,Ives AR.23.Testingforphylogeneticsignal incomparativedata:Behavioral traitsaremoreabile. Evolution, 57(2): 717-745.   \nBu HY,Chen XL, Xu XL,etal.2o7.Seed massand germinationinanalpie meadowonthe eastern Tsinghai-betplateau. Plant Ecology, 191(1): 127-149.   \nBu H Y, Du GZ, Chen X L,et al. 2008.Community-wide germination strategies inan alpine meadow on the easterm Qinghai-Tibet plateau: Phylogenetic and life-history correlates. Plant Ecology,195(1): 87-98.   \nCatoniR,GraataUrtoiFtal.5.osesposesstgtio:olgicaltcal and physiological leaf trait plasticity. Photosynthetica, 53(1): 1-12.   \nChaoXX,SunY.2O16.EfectsofdierenttreatmentsonNymphoidesindicaseedgermination.ChineseAgriculturalScience Bulletin,32(34): 80-84. (in Chinese)   \nChenWN,ChenFJ, XieYH.2013.Effctsof snowmelt timeon growth ofFritilaria unibracteata. Hubei Agricultural Sciences,52(4): 868-872. (in Chinese)   \nChen ZH,PengJF,ZhangDM,etal.2Oo2.Seed germinationandstorageof woodyspeciesinthelowersubtropicalforest. Acta Botanica Sinica, 44(12): 1469-1476.   \nConstable JVH,PeferBJ,DeNicolaDM.20o7.Temporalandlight-based changes incarbonuptakeandstorageinthe spring ephemeral Podophylum peltatum (Berberidaceae). Environmental and Experimental Botany,6O(1): 12-120.   \nDeckerKLM,WangD,WaiteC,etal.2O3.Snowremovalandambientir temperatureeectsonforestsoiltemperatures in northern Vermont. Soil Science Society of America Journal, 67(4): 1234-1242.   \nDorrepalE,AertsR,CorenlissnJH,etal.2Oo4.SummerwarmingandincreasedwintersnowcoveraffectSphagnumfuscum growth, structure and production in a sub-arctic bog. Global Change Biology,10(1): 93-104.   \nDrescherM,ThomasSC.2O13.Snowcover manipulationsaltersurvivalof earlylifestagesofcold-temperate trespecies. Oikos, 122(4): 541-554.   \nDrescher M.2O14.Snow cover manipulations and pasive warming affect post-winter sed germination: Acase studyof three cold-temperate tree species. Climate Research, 60(3): 175-186. Gurbantonggut Desert of China. Chinese Journal of Plant Ecology,36(2): 126-135. (in Chinese)   \nFan LL,LiY,TangLS,etal.2O13.Combnedefectsofsnowdepthandnitrogenadditiononephemeralgrowthattheouther edge of the Gurbantunggut Desert, China. Journal of Arid Land, 5(4): 500-510.   \nFanLL,TangLS, WuLF,etal.2014.Thelimitedrole ofsnow waterinthe growth and development ofephemeral plants ina cold desert. Journal of Vegetation Science, 25(3): 681-690.   \nFigueroa JA.20o3.Seed germination in temperaterain forest speciesof southern Chile: Chillingand gap-dependency germination. Plant Ecology, 166(2): 227-240.   \nFrenner M. 20oo. Seeds: The Ecology of Regeneration in Plant Communities. New York: CABI Publishing, 31-57.   \nFunes G,Basconcelo S,Diaz S,et al.199.Seed size andshapeare good predictors of seed persistence insoil intemperate mountain grassands of Argentina. Seed Science Research, 9(4): 341-345.   \nGalindez G,Ortga-Baes P,DawsMI,etal.2O9.Seed massand germination inAsteraceae species ofrgentina.SedScience and Technology, 37(3): 786-790.   \nGordonE.1998.Seed characteristicsof plant species from riverine wetlands in Venezuela.Aquatic Botany,60(4):417-431.   \nGornishE S,AanderudZT,SheleyRL,et al.2O15.Altered snowfallandsoil disturbance influence theearly lifestage transitions and recruitment of a native and invasive grass in a cold desert.Oecologia,177(2): 595-606.   \nGremer JR, VenableL D.2014.Bet hedging in desert winter annual plants: Optimal germination strategies in a variable environment. Ecology Letters, 17(3): 380-387.   \nGrime JP, Mason G,Curtis A V,etal.1981.Acomparativestudyof germination characteristics ina local flora.Journal of Ecology, 69(3): 1017-1059.   \nGutterman Y.200.Phenotypic effects on seeds during development. In:Fenner M. Seds: The Ecologyof Regeneration in Plant Communities ( $2 ^ { \\mathrm { n d } }$ ed.). Wallingford: CABI Publishing, 25-77.   \nHendryL B,Shucksmith J,LoveJG, et al. 1993. Young People's Leisure and Lifestyle. New Yock: Routledge,1985-1989.   \nHoule G.2002.The advantage of early flowering in the spring ephemeral annual plant Floerkea proserpinacoides.New Phytologist, 154(3): 689-694.   \nHuang G,LiY.2015.Phenologicaltransitiondictates thesasonaldynamicsofecosystemcarbon exchange inadesertsteppe Journal of Vegetation Science, 26(2): 337-347.   \nHuang G,LiYadillaF.215.Ephemeralplantsedateresposesofosystemcarbnchange ticreasedpriiatio in a temperate desert. Agricultural and Forest Meteorology, 201(15): 141-152.   \nHuang G,SuYG,ZhuL,etal.2016.Theroleofspringephemeralsandsoil microbes insoilutrientretention inateperate desert. Plant and Soil, 406(1-2): 43-54.   \nHuang G, Chen HL,LiY.2018.Phenologicalresponses tonitrogen and wateradition are linked toplant growth paters ina desert herbaceous community. Ecology and Evolution, 8(10): 5139-5152.   \nJiaF Q,ZhangYM,Tashpolat T,etal.2017.Efectofsnowthicknessonsed germinationoffour ephemeral plantsfromthe Gurbantunggut Desert of China. Seed, 36(2): 24-29. (in Chinese)   \nKelerF,GoyeteSBenistonM.2Oo5.Sensitivityanalysisofsnowcover toclimatechangescenarisandtheir impactonplant habitats in alpine terrain. Climatic Change,72(3): 299-319.   \nKreyling J,Haei M,Laudon H.2O12. Absence of snowcover reducesunderstory plant cover and alters plantcommunity composition in boreal forests. Oecologia,168(2): 577-587.   \nLapointe L L L, Lerat S L S.2006. Annual growth of the spring ephemeral Erythronium americanum as a function of temperature and mycorrhizal status. Canadian Journal of Botany, 84(1): 39-48.   \nLi X H, Jiang DM,iu Z M,et al. 206a. Germination strategiesand paterns of annual species inthetemperate semiarid region of China. Arid Land Research and Management, 20(3): 195-207.   \nLi X H, Jiang DM,Liu Z M,et al.20o6b.Seed germinationcharacteristics of annual species intemperate semi-aridregion. Acta Ecologica Sinica,26(4): 1194-1199. (in Chinese)   \nLiu HL, Zhang D Y, Duan SM,etal.2014. Therelationshipbetween diasporecharacteristics with phylogeny,life history traits,and theirecologicaladaptationof15O species fromthecolddesertofNorthwest China.The Scientific WorldJournal,   \nLiu Y X. 1992. Flora in Desertis Reipublicae Populorum Sinarum. Beijing: Science Pres, 464. (in Chinese)   \nLiu Z M, Li X H,LiR P,et al. 2003. Acomparative studyon seed germinationof15 graspecies in Keeqin Sandyland. Chinese Journal of Applied Ecology, 14(9): 1416-1420. (in Chinese)   \nLiu Z M,Li X H,LiRP,etal.2O04.Acomparative studyof seed germinationfor31annual speciesofthe Horqin steppe.Acta Ecologica Sinica,24(3): 648-653. (in Chinese)   \nLiu Z M,Jiang DM, Yan QL,etal.2005.Studyondispersalbiology of common species offlora of the Horqin Steppe.Acta Prataculturae Sinica,14(6): 23-33. (in Chinese).   \nLiu Z M,YanQL,LiX H, et al.2Oo7.Seed mass and shape-germinationand plant abundance in a desertified grasland in northeastern Inner Mongolia. Journal of Arid Environments, 69(2): 198-211.   \nLorenzi H.2OO2.Brazilian Trees: A Guide tothe Identificationand Cultivationof Brazilian Native Trees,Nova Odessa.Sao Paulo: Instituto Plantarum de Estados da Flora,352. (in Portuguese)   \nMoles AT,Hodson DW, Webb CJ.20o.Seed size and shape and persistence inthesoil intheNew Zealand flora.Oikos, 89(3): 541-545.   \nPagel M. 1999. Infering the historical patterns of biological evolution. Nature,401(28): 877-884.   \nParadis E,ClaudeJ,Strimmer K.2O04.APE: Analysesof phylogenetics and evolutioninRlanguage.Bioinformatics,20(2): 289-290.   \nPaz H,MazerSJ,Martinez-Ramos M.1999.Seed ma,seedling emergence,and environmentalfactors insvenrai forest Psychotria (Rubiaceae). Ecology, 80(5): 1594-1606.   \nPinheiro J, Bates D,DebRoy S,et al.2019.Nme: Linear and Nonlinear Mixed Efects Models.[2020-8-23]. ttps://cran.rproject.org/package $\\vDash$ nlme.   \nRees M.1994.Delayed germinationofseeds: Alook attheefects ofadultlongevity,te timingofreproduction,and population age/stage structure. American Naturalist, 144(1): 43-64.   \nReich PB.1994.Seed mass efects on germination and growth of diverse European Scots pine populations. Canadian Journal of Forest Research, 24(2): 306-320.   \nSimons AM,GouletJM,Belleumeur KF.2010.The effectofsnowdepthonoverwinter survival inLobelia inflata.Oikos, 119(10): 1685-1689.   \nSoriano D,Orozco-Segovia A,Marquez-GuzmanJ,etal.20l1.Seedreservecomposition in19 treespeciesofatropical deciduous forest inMexicoand its relationship to seed germination and seedling growth. Anals ofBotany,17(6): 939-951.   \nSun Y, ZhangT,TianCY,etal.2O09.Responseof grassgrowthand productivitytoenhanced waterinput inGurbantunggut Desert. Acta Ecologica Sinica, 29(4): 1859-1868. (in Chinese)   \nTekrony DM,Shande T,Rucker M,etal.2Oo5.Effectof seed shapeoncorn germination and vigour during warehouseand controlled environmental storage. Seed Science and Technology, 33(1): 185-197.   \nThompson K,BandSR,HodgsonJG1993.Seedsizeand shape predictpersistence insoil.FunctionalEcology,7(2):236-241.   \nThompson K,BakkerJ, BekkerRM,etal.1998.Ecologicalcorelates ofseed persistence insoilinthe North-West European flora. Journal of Ecology, 86(1): 163-169.   \nvan Molken T,Joritsma-Wienk LD,van Hoek PHW,etal.2O5.Onlyseedsize mattes for germination indifferent populationsof the dimorphic Tragopogon pratensis subsp. pratensis (Asteraceae). American Journal of Botany,92(3): 432-437.   \nWang JH,BaskinCC,Cui XL,etal.2O9.Efectofpylogeny,life histryandhabitatcorelates onsed germinationof 69 arid and semi-arid zone species from Northwest China. Evolutionary Ecology,23(6): 827-846.   \nWang Z N, Wang L X,Liu Z M, et al.2O16. Phylogeny,seed trait,and ecological corelates of sed germination at the community level in a degraded sandy grassand. Frontiers in Plant Science,7(351): 1532-1562.   \nWebb CO,Donoghue MJ.2005.Phylomatic: Tree assembly for applied phylogenetics.Molecular Ecology Notes,5(1): 181-183.   \nWeiher E,vander Werf A,Thompson KR,et al.199.Chalenging Theophrastus: Acommoncore listof planttraits for functional ecology. Journal of Vegetation Science, 10(5): 609-620.   \nWeltzin JF, Mcpherson GR.2Ooo.Implications of precipitation redistribution for shifts in temperate savanna ecotones. Ecology, 81(7): 1902-1913.   \nWestoby M,Jurado E,Leishman MR.1992.Comparativeevolution ecologyof seed size.Trends in Ecology&Evolution, 7(11): 368-372.   \nWu GL,DuGZ.2O7.Germinationisrelated toseed massin grasses (Poaceae)of theeastern Qinghai-TibetanPlateau,China. Nordic Journal of Botany, 25(5-6): 361-365.   \nXu J,LiWL, Zhang CH,et al.2014.Variationin seed germinationof134common species on theeastern Tibetan Plateau: phylogenetic,life historyand environmental correlates.PLoS ONE,9(6): e98601,doi: 10.1371/journal.pone.0098601.   \nYanDR,Bai WC,BaoC,etal.2O12.Thefactors influencingnaturalregenerationof Pinus sylvestrisvar.mongolicainsandy land. Journal of Inner Mongolia Forestry Science and Technology,38(4): 47-50.(in Chinese)   \nYuan SF,Tang HP.2010.Paterns of ephemeral plant communities andtheiradaptations totemperatureand precipitation regimes in Dzungaria Desert, Xinjiang. Biodiversity Science,18(4): 346-354. (in Chinese)   \nZanne AE,Tank DC,Cornwell WK,et al.2014.Three keysto theradiationof angiosperms into freezing environments. Nature, 506(56): 89-92.   \nZhangLY, Chen CD.O02. Studyonthe general characteristics of plant diversityof Gurbantunggut sandydesert.Acta Ecologica Sinica,22(11): 1923-1932. (in Chinese)   \nZhao J,Song Y,Sun T,etal.2012.Responseofseed germinationandseedling growth of PinuskoraiensisandQuercus mongolicatocomprehensiveactionof warmingand precipitation.ActaEcologica Sinica,32(24):7791-7800.(inChinese)   \nZheng Y, XieZ,Yu Y,etal.2Oo5.Efectsofburial insandand watersuplyregimeonseedlingemergenceofsixspecies. Annals of Botany, 95(7): 1237-1245. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    }
+]

@@ -1,0 +1,346 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "乌司他丁通过上调PPAR-γ抑制低氧诱导的肺血管平滑肌细胞表型转换",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "唐锟,刘畅,陈林,高静,张超第三军医大学西南医院麻醉科，重庆400038",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的 探讨乌司他丁对低氧诱导的肺血管平滑肌细胞(PASMCs)表型转化的影响及其分子机制。方法 体外培养SD大鼠PASMCs,随机分组4组：正常组(N组)，常氧 $^ +$ 乌司他丁组(NU组)，低氧组(H组)，低氧 $_ { i + }$ 乌司他丁组(HU组)，各组培养24h后采用免疫荧光检测 SM-α-actin和Calponin表达水平,应用CCK-8法、 $\\mathrm { ^ { 3 } H } \\cdot$ -TdR和Transwell小室检测各组PASMCs增殖和迁移。并分别利用Westerm blottng和荧光素酶报告质粒检测 PPAR-γ蛋白表达和转录活性。采用PPAR-γ抑制剂GW966进行预处理干预乌司他丁对低氧诱导的PASMCs表型转化的影响,分析干预后PASMCs增殖和迁移改变。结果 低氧条件下,乌司他丁能促进PASMCs 中 SM-α-actin 和Calponin 的表达 $( P { < } 0 . 0 5 )$ ，抑制PASMCs的增殖和迁移能力 $( P { < } 0 . 0 5 )$ ，同时乌司他丁上调PPAR-γ的表达 $( P { < } 0 . 0 5 )$ 。采用GW9662预处理后，乌司他丁对低氧诱导的PASMCs表型转换的抑制作用显著下降 $( P { < } 0 . 0 5 )$ 。结论乌司他丁通过上调PPAR-y抑制低氧诱导的PASMCs表型转换。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：乌司他丁；低氧；平滑肌细胞；表型转换；细胞增殖；细胞运动",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ulinastatin inhibits hypoxia-induced phenotype modulation of pulmonary artery smooth muscle cells by up-regulating PPAR- $\\gamma$ expression ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TANG Kun,LIU Chang, CHEN Lin,GAO Jing,ZHANG Chao Departmentofnesthesiology,outhwestHospital,irdilitaryedicalniersity,hongqing8,in ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective To evaluate the efect of ulinastatinon hypoxia-induced phenotype modulation of pulmonary artery smooth musclecels (PASMCs)and explore the underlying mechanism.Method Cultured PASMCs from SDrats were exposed to normoxiccondition,normoxia with ulinastatin treatment,hypoxia，orhypoxia with ulinastatin treatment.After $2 4 \\mathrm { ~ h ~ }$ of exposures, the cells were examined for SM- $\\alpha$ actin and caplonin expressions with immunofluorescence assay and for cell migration with CCK-8 and $^ 3 \\mathrm { H }$ -TdR assays. Western blotting was used for detecting the expressions of $\\operatorname { P P A R - } \\gamma$ in the cells, and PPAR- $\\cdot \\gamma$ responsive firefly luciferase reporter was employed for measuring the transcriptional activity of $\\mathrm { P P A R } { - } \\gamma$ .The $\\mathrm { P P A R } { - } \\gamma$ inhibitor GW9662 was used to explorethe mechanism ofthe inhibitory efectof ulinastatin on hypoxia induced-phenotype modulationofPASMCsbymeasuringthechanges incellproliferationand migration.Results Ulinastatin obviouslyenhanced the expressions of SM- $\\alpha$ actin and calponin $_ { ( P < 0 . 0 5 ) }$ , inhibited the proliferation and migration $_ { ( P < 0 . 0 5 ) }$ , and up-regulated the expression of PPAR- $\\cdot \\gamma$ in PASMCs exposed to hypoxia $_ { ( P < 0 . 0 5 ) }$ . Pretreatment of the cells with GW9662 abolished the effect of ulinastatinon hypoxia-induced phenotype modulationof PASMCsand enhanced thecellproliferationand migration $_ { ( P < 0 . 0 5 ) }$ Conclusion Ulinastatin inhibits hypoxia-induced phenotype modulation of PASMCs from rats possibly by up-regulating the expression of $\\operatorname { P P A R - } \\gamma$ ， ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: ulinstatin; hypoxia; pulmonaryarterysmooth musclecels; phenotypemodulation; cell proliferation;cel movement ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "低氧性肺血管重塑(HPVR)在低氧性肺动脉高压(HPH)发生发展中起重要作用，而其中HPVR是多种疾病的主要病理特征，主要包括慢性阻塞性肺疾病、慢性肺源性心脏病等[。此病理过程中，肺血管平滑肌细胞(PASMCs)的表型转换是HPVR的基本病理变化。表型转换是指在各种病理因素，如低氧刺激，PASMCs从高分化的收缩型转换为未分化的合成型，并获得增殖、迁移和合成、分泌大量细胞外基质的能力，促进血管的病理改变[2]。抑制PASMCs表型转换已经成为多种心血管疾病的防治靶点。乌司他丁是一种蛋白酶抑制剂，可抑制胰蛋白酶、透明质酸酶、弹性蛋白酶等多种水解酶的活性，从而稳定溶酶体膜和细胞膜、抑制白细胞过度激活、减少氧自由基和促炎因子的释放，可有效地抑制炎性反应[3]。但其药物作用对低氧诱导的PASMCs表型转换的作用尚不明确。最新研究发现，过氧化物酶增殖物激活受体 $- \\gamma$ (PPAR- $\\cdot \\gamma$ )有显著的肺血管保护作用[45],提示其在PASMCs表型转换中可能具有一定作用。乌司他丁对PASMCs表型转换的影响及其机制是否与PASMCs中PPAR-γ的异常表达有关，尚需讨论。本研究拟评价乌司他丁对低氧诱导的PASMCs表型转换的影响及其作用机制，为临床工作提供理论支持。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1实验材料和试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PASMCs为本实验室保存;低糖DMEM培养基、胎牛血清购直美国gibco公司;胰蛋白酶、二甲基亚讽购自北京索莱宝科技有限公司；SM- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -actin, Caplonin,PPARγ, $\\beta$ -actin购自英国Abcam公司;PPARγ荧光素酶报告质粒(p-PPARy-Luc)由汉恒生物科技公司合成;乌司他丁由本科室提供;GW9662购自美国Sigma公司。CellcountingKit-8(CCK-8)检测试剂盒、 $\\mathrm { ^ { 3 } H }$ -TdR检测试剂盒购自日本的Dojindo公司;Transwell小室购自美国Corning公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 细胞处理及分组",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PASMC采用DMEM完全培养基( $10 \\%$ FBS)进行传代培养。实验分组如下：N组，常氧下培养 $2 4 \\mathrm { h }$ (氧浓度$2 1 \\%$ );NU组，常氧条件下，用乌司他丁 $\\mathrm { 8 0 0 0 U / m L }$ 处理培养 $2 4 \\mathrm { h }$ ;NUG组，常氧条件下，用乌司他丁 $ { \\mathrm { 8 0 0 0 U / m L } }$ 0和GW9662( $2 0 \\mu \\mathrm { m o L }$ (PPAR-γ抑制剂)混合液处理培养 $2 4 \\mathrm { h } ; \\mathrm { H }$ 组，低氧培养 $2 4 \\mathrm { h }$ （氧浓度 $1 \\%$ );HU组，低氧条件下，用乌司他丁 $\\langle 8 0 0 0 \\ \\mathrm { U / m L }$ )处理培养 $2 4 ~ \\mathrm { h } _ { \\odot }$ HUG组，低氧条件下，用乌司他丁 $\\langle 8 0 0 0 \\ \\mathrm { U / m L } \\rangle$ 和GW9662$( 2 0 \\mu \\mathrm { m o L } )$ 混合液处理培养 $2 4  { \\mathrm { h _ { \\circ } } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3细胞免疫荧光",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "各组培养 $2 4 \\mathrm { h }$ 后PBS清洗，依次加入 $4 \\%$ 多聚甲醛固定 $3 0 \\mathrm { m i n } , 0 . 1 \\%$ Trition- $1 0 0 2 0 \\mathrm { m i n } , 5 \\%$ BSA于 $3 7 \\ \\mathrm { ^ { \\circ } C }$ 封闭 $^ { \\textrm { 1 h } }$ ，用SM- $\\mathbf { \\alpha } \\cdot \\mathbf { a }$ -actin一抗 $( 1 : 1 0 0 )$ ,Caplonin一抗（1:100)混合孵育， $4 \\mathrm { { ^ { \\circ } C } }$ 过夜，次日取出湿盒，置于室温复温1h,PBS洗去一抗,再用Cy3荧光二抗(1:500)和AlexaFlour448荧光二抗(1:500)混合液 $3 7 ~ \\mathrm { ^ { \\circ } C }$ 孵育 $1 . 5 \\mathrm { h }$ ,PBS洗去二抗，DAPI复染 $5 \\mathrm { m i n }$ ,抗荧光淬试剂封片，在激光共聚焦显微镜下观察结果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4细胞迁移检测 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用Transwell小室检测PASMCs迁移能力。在 Transwell小室上室和下室之间孔径为 $8 ~ { \\mu \\mathrm { m } }$ 的聚碳酸 酯微孔膜上铺上Matrigel溶液 $5 0 \\mu \\mathrm { L } , 3 7 \\mathrm { ^ { \\circ } C }$ 聚合 $3 0 \\mathrm { m i n }$ 上室加入 $1 0 0 ~ \\mu \\mathrm { L }$ 无血清的培养基，小室为 $6 0 0 ~ \\mu \\mathrm { L }$ 含 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$10 \\%$ 胎牛血清的培养基，N组和H组上室加入 $1 0 0 { \\mu \\mathrm { L } }$ 无血清的培养基,NU组和HU组上室加入含 ${ 8 0 0 0 } \\ \\mathrm { U / m L }$ 乌司他丁 $1 0 0 ~ \\mu \\mathrm { L }$ 无血清的培养基,NUG组和HUG组上室加入含 ${ 8 0 0 0 } \\ \\mathrm { U / m L }$ 乌司他丁和 $2 0 ~ \\mathrm { \\textmu m o l }$ GW9662的 $1 0 0 ~ \\mu \\mathrm { L }$ 无血清的培养基将培养瓶中的细胞进行洗涤、消化,重悬,收集细胞后分别加入上室,每室 $1 0 0 ~ \\mu \\mathrm { L }$ 每组设3个复孔,之后置与常氧或低氧条件下培养 $2 4 \\mathrm { h }$ $2 4 \\mathrm { h }$ 时去除培养基并用PBS清洗3次，室温下甲醛固定 $1 5 ~ \\mathrm { m i n }$ 。去除固定液后加入 $0 . 5 \\%$ 结晶紫染液，室温作用 $1 0 ~ \\mathrm { m i n }$ 。用棉签擦去基质胶和上室内的细胞。拍照并计数穿过滤膜的细胞，随机选取5个视野，取平均值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5 细胞增殖检测 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用CCK-8法检测PASMCs增殖情况，分别于各组培养结束前1h时随机取4孔加入CCK-8试剂孵育1h后，使用酶标仪检测 $4 5 0 ~ \\mathrm { n m }$ 光密度值，读取数据并记录。同时采用 $\\mathrm { ^ { 3 } H }$ -TdR检测PASMCs增殖情况，相应时间点结束培养6h前于每孔内加入 $1 \\mu \\mathrm { C i } ^ { 3 } \\mathrm { H } \\cdot$ -TdR，消化并收集细胞，用预冷的 $10 \\%$ 三氯乙酸沉淀DNA，再用$0 . 5 ~ \\mathrm { { m L } ~ 1 ~ \\mathrm { { m o l / L } ~ \\mathrm { { N a O H } } } }$ 提取；然后用 $0 . 5 \\ \\mathrm { m L } \\ 1 \\ \\mathrm { m o l / L }$ HC1中和 $\\mathrm { \\Delta N a O H }$ ，用孔径为 $0 . 2 \\mu \\mathrm { m }$ 滤器或玻璃纤维滤纸滤出DNA提取物，烘干;用液闪计数器测定每分钟放射性脉冲数，读取数据并记录。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.6Western blotting检测 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "各组细胞培养 $2 4 \\mathrm { h }$ 后，收集各组总蛋白，之后采用BCA法测定各组的蛋白浓度， $1 0 0 \\mathrm { { ^ { \\circ } C } }$ 将蛋白煮沸变性。取总蛋白 $4 0 ~ { \\mu \\mathrm { g } }$ 进行凝胶电泳，随后将蛋白电转印至PVDF膜(恒流 $3 0 0 ~ \\mathrm { { m A } }$ ,转膜时间 $9 0 \\mathrm { m i n } ,$ ,于常温下侵人 $5 \\%$ 脱脂奶粉封闭液封闭1h，分别加入1:1000小鼠抗大鼠PPAR- $\\cdot \\gamma .$ 单克隆抗体，1:4000小鼠抗大鼠 $\\beta \\mathrm { . }$ -actin单克隆抗体，置于 $4 ^ { \\circ } \\mathrm { C }$ 恒温摇床上孵育过夜，TBST洗膜$1 0 \\mathrm { m i n } \\times 3$ 次后，加 $1 { : } 5 0 0 0$ 稀释的羊抗小鼠二抗，室温孵育 $2 \\mathrm { ~ h ~ }$ ,TBST洗膜 $5 \\operatorname* { m i n } \\times 3$ 次，加入DAB显色液显色，采用Imager凝胶成像分析系统进行灰度扫描,并进行条带的蛋白含量分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.7荧光素酶报告质粒检测PPARy转录活性",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "取对数生长期PASMCs接种于细胞培养瓶，细胞贴壁后用Lippfectamine转染PPAR-γ报告质粒(P-PPAR- $\\cdot \\gamma$ -Luc) $3 ~ { \\mu \\mathrm { g } }$ ,4h换液。 $1 2 \\mathrm { h }$ 后将细胞消化重新种于24孔板，待细胞贴壁后，用乌司他丁进行处理细胞。 $2 4 \\mathrm { h }$ 后，裂解细胞，收集裂解液，并按照试剂盒操作说明进行荧光素酶活性测定。每组实验重复3次，结果取平均值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.8统计学方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "统计学处理采用SPSS13.0统计学软件进行分析，计量资料以均数 $\\trianglerighteq$ 标准差表示，组间比较采用成组t检验",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "和单因素方差， $P { < } 0 . 0 5$ 为差异有统计学意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1乌司他丁对低氧诱导的PASMCs表型转换标准蛋白的影响",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "免疫荧光分析显示(图1)，PASMCs在低氧情况培养 $2 4 \\mathrm { h }$ 后，与对照组相比，SM- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -actin和Caplonin荧光强度明显下降，提示其表达量显著降低 $( P { < } 0 . 0 5 )$ ，出现表型转换。在使用乌司他丁干预后，PASMCs在常氧培养 $2 4 \\mathrm { h }$ 后的表型转换标志蛋白没有明显变化 $( P { > } 0 . 0 5 )$ ，而PASMCs在低氧培养 $2 4 \\mathrm { h }$ 后的表型转换标志蛋白有所升高（ $( P { < } 0 . 0 5 )$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/32327a3b466aba206c051e457beee1f927d00868ba9c212ccec2004aee57c77d.jpg",
+        "img_caption": [
+            "图1乌司他丁对低氧PASMCs表型转换标志蛋白的影响 Fig.1Effect of ulinastatin on phenotype modulation marker of PASMCs under hypoxic condition (Original magnification: $\\times 2 0 0$ ).N: Normoxic group; NU: Normoxic+ulinastatin group; H: Hypoxic group; HU: Hypoxic+ulinastatin group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2乌司他丁对低氧诱导的PASMCs增殖和迁移的影响 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CCK-8、 $\\mathrm { ^ { 3 } H } \\cdot$ -TdR分析显示，与对照组相比，PASMCs在低氧培养 $2 4 \\mathrm { ~ h ~ }$ 后增殖能力显著增高（ $\\scriptstyle { \\mathcal { P } } <$ 0.05)。乌司他丁处理后，PASMCs在常氧培养 $2 4 \\mathrm { ~ h ~ }$ 后增殖能力无明显变化 $( P { > } 0 . 0 5 )$ ，而在低氧情况下培养$2 4 \\mathrm { h }$ 后增殖能力明显下降 $( P { < } 0 . 0 5 )$ 。Transwell迁移结果显示，与对照组相比，PASMCs在低氧培养 $2 4 \\mathrm { h }$ 后迁移能力明显增强 $( P { < } 0 . 0 5 )$ 。在使用乌司他丁干预后，PASMCs在常氧培养 $2 4 \\mathrm { h }$ 后的迁移细胞数没有明显变化 $( P { > } 0 . 0 5 )$ ，而PASMCs在低氧培养 $2 4 \\mathrm { h }$ 后的迁移细胞数明显减少( $_ { P < 0 . 0 5 }$ ，图2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3乌司他丁对低氧PASMCs中PPAR $\\cdot \\gamma .$ 表达的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Westernblotting结果显示，与对照组相比，PASMCs在低氧培养 $2 4 \\mathrm { h }$ 后PPAR-y的蛋白表达水平明显下降 $( P { < } 0 . 0 5 )$ 。而在乌司他丁预处理后，PPAR-γ的蛋白表达水平明显升高 $( P { < } 0 . 0 5 )$ 。荧光素酶报告质粒分析显示，与对照组相比，PASMCs在低氧条件培养$2 4 \\mathrm { h }$ 后PPAR-γ的转录活性明显受到抑制 $( P { < } 0 . 0 5 )$ 。而在乌司他丁预处理后，PASMCs在低氧培养 $2 4 \\mathrm { ~ h ~ }$ 后PPAR-y的转录活性有所增加( $\\scriptstyle \\phantom { + } ( P < 0 . 0 5$ ，图3）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4GW9662预处理对乌司他丁抑制低氧诱导的PASMCs表型转换的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CCK-8、 $^ { 3 } \\mathrm { H \\cdot }$ -TdR分析显示，GW9662预处理后，乌司他丁抑制低氧PASMCs增殖的作用降低 $( P { < } 0 . 0 5 )$ 。Transwell迁移结果显示，与对照组相比，GW9662预处理后，乌司他丁抑制低氧PASMCs迁移能力的作用降低1 $\\scriptstyle \\overbrace { P < 0 . 0 5 }$ ，图4)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "低氧肺动脉高压的形成过程中，肺血管结构的改变主要表现为血管平滑肌细胞(VSMC)的肥大、管壁变厚、内径变窄等，进而引起心肺功能失代偿，出现心功能衰竭和氧合障碍[6-8]。在此病理过程中,PASMCs的表型转换起着重要作用。正常情况下，成熟的PASMCs增殖能力和迁移能力非常低，表现为收缩表型，细胞呈伸展状,梭形，可多层生长，出现\"峰-谷\"状，胞浆中含有较多的SM- $\\mathfrak { a }$ -actin肌丝和Caplonin,是收缩表型的特征表现。在受到外界因素的刺激下(低氧，炎症等)，收缩表型PASMCs可迅速转变为具有增殖和迁移能力的合成表型,在血管重建和修复中起关键作用9。如何调控PASMCs的表型转换，对防治低氧肺动脉高压有重要意义。本研究采用免疫荧光法、CCK-8、 $\\mathrm { ^ { 3 } H }$ -TdR、Transwell、Westernblotting、荧光素酶报告基因等方法探讨乌司他丁对低氧诱导的PASMCs表型转换的影响及其分子机制。在既往的研究中发现，PASMCs表型转换的过程受到细胞内多条信号通路的调节，主要包括",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5612412e6e27d1337f87d7a72c3259d2c0de7b5af93a219169fa77147c010b46.jpg",
+        "img_caption": [
+            "图2乌司他丁对低氧PASMCs增殖和迁移的影响 Fig.2 Efect of ulinastatin on proliferation and migration of PASMCs under exposed to hypoxia (C: $\\times 2 0 0 \\$ .A: $^ { 3 } \\mathrm { H } \\cdot$ TdR assay; B: CCK-8 assay; C: Transwell assay. $^ { * } P { < } 0 . 0 5$ 8s $_ \\mathrm { N }$ group, $^ { 4 } P { < } 0 . 0 5$ us H group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/69ad84650764fd91d883981b8e06c8c111787781392b62d352361a8fa0b45af1.jpg",
+        "img_caption": [
+            "图3乌司他丁对低氧PASMCs中PPARγ表达的影响 Fig.3EffectofulinastatinonPPARyexpressoninPASMCsexposed tohypoxia.A: Western blotting;B:Luciferasereportassay $^ { * } P { < } 0 . 0 5$ us N group; $^ { \\# } P { < } 0 . 0 5$ us H group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "JAK/STAT通路，PKC-MAPK级联途径，PTEN/PI3K-AKT途径,cGMP/PKG通路[11-14]。尽管体外条件下通过化学药物或者基因沉默抑制某一信号通路来控制表型转换的效果已经明确，但尚缺乏临床药物对PASMCs表型转换的作用研究。目前有研究表明炎症反应在低氧诱导的PASMCs表型转换中起到重要作用[15-17],而乌司他丁作为一种胰蛋白酶抑制剂，在临床麻醉中获得广泛应用，可以有效抑制炎症反应.宋冬梅等18的研究发现乌司他丁能通过上调HO-1的表达，抑制炎性因子的合成与释放，对组织器官起保护作用。李武泉等的研究",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7a6b5f21d4c46060efde5080bf0842fc7c98472fb1662051814da1ca23c1cded.jpg",
+        "img_caption": [
+            "图4GW9662预处理对乌司他丁抑制低氧诱导的PASMCs表型转换的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c786babbd1a1ec2333adf2d9a168cc69763bf60750f11a71b240c9c013e4a4d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.4EffectofGW9662onhypoxia-induced phenotype modulation of PASMCs treatedwith ulinastatin. A: $^ { 3 } \\mathrm { H }$ -TdR assay;B: CCK-8 assay; $c$ Transwell assay. $^ { * } P { < } 0 . 0 5$ vs H group, $^ { \\# } P { < } 0 . 0 5$ vs HU group.NUG:Normoxic $^ +$ ulinastatin $^ +$ GW9662;HUG: Hypoxic+ulinastati+GW9662. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "发现乌司他丁能通过调控AMPK/NF- $\\kappa \\mathbf { B }$ 信号通路来下调炎性介质的释放，进而抑制LPS介导的急性肺损伤。因此本课题组推测，乌司他丁能有效的抑制低氧诱导的PASMCs表型转换。本研究发现在常氧条件下，乌司他丁对PASMCs表型转换的标志蛋白SM-α-actin和Caplonin无明显影响，而在低氧条件下，能明显抑制PASMCs中SM-α-actin和Caplonin的下调,抑制表型转换。以进一步证实乌司他丁对PASMCs表型转换的抑制作用，我们检测了乌司他丁对低氧诱导的PASMCs增殖和迁移的影响，结果表明乌司他丁能显著抑制低氧诱导的PASMCs增殖和迁移能力。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "PPAR-γ属于核激素受体超家族的一员，是一个配体激活转录因子,在全身组织细胞广泛表达[20-21]。高登峰等[22]在血管重建的研究中发现，PPAR-y激动剂罗格列酮能抑制血管紧张素2介导的VSMC增殖和迁移能力。Minamikawa等23]的临床研究表明罗格列酮能有效改善2型糖尿病患者的主动脉增厚。李赫等24研究报道罗格列酮能显著改善野百合碱引起的肺动脉高压，缓解肺血管重建。以上结论均提示PPAR-y对血管重建起到一定的保护作用。本研究观察到在低氧诱导的PASMCs表型转换过程中PPAR-y的转录活性和蛋白水平均显著下降，提示PPAR-γ下调可能促进了低氧诱导的PASMCs表型转换。结合以上结论，我们推测乌司他丁对PASMCs表型转换的作用可能与调控PPAR-γ有关。在既往对乌司他丁的研究中，主要集中NF- $\\mathbf { \\sigma } _ { \\kappa \\mathbf { B } }$ 等炎症相关通路[25]，尚未有文献报道乌司他丁能调控PPAR-γ的表达，而在我们的研究中发现了乌司他丁能抑制低氧介导的PPAR-γ下调。利用PPAR-γ抑制剂GW9662预处理PASMCs,以进一步证明乌司他丁通过上调PPAR-y实现对低氧诱导PASMCs表型转换的抑制作用。结果显示，GW9662显著抑制了乌司他丁对低氧PASMCs增殖和迁移的影响，提示乌司他丁抑制低氧诱导的PASMCs表型转换与调控PPAR-y的表达有关。但是乌司他丁上调PPAR-y的分子机制还有待进一步研究。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述，乌司他丁能通过上调PPAR-y抑制低氧诱导的PASMCs表型转换。在病理条件下，对肺血管起到一定的保护作用,但本结论尚需采用在体模型进一步证实。我们的实验有望为乌司他丁治疗低氧肺血管重建提供一定的理论基础。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Montani D,Gunther S,Dorfmuller P,et al.Pulmonary arterial hypertension[J]. OrphanetJRare Dis,2013,8(97): 76-85.   \n[2]Peng X,Li HX, Shao HJ,et al. Involvement of calcium-sensing receptors in hypoxia-induced vascular remodeling and pulmonary hypertension by promoting phenotypic modulation ofsmall pulmonary arteries[J].Mol Cell Biochem,2014,396(1/2): 87-98.   \n[3]Pang XY,Fang CC,Chen YY,et al.Effects of ulinastatin on perioperative inflammatory response and pulmonary function in cardiopulmonary bypass patients [J].Am J Ther,2O15,25(3): 96-107.   \n[4]Liu Y, Tian XY,Mao G,et al.Peroxisome proliferator-activated receptor-gamma ameliorates pulmonary arterial hypertension by inhibiting 5-hydroxytryptamine 2B receptor [J].Hypertension, 2012,60(6):1471-8.   \n[5]Nicola T,Ambalavanan N,Zhang W,et al．Hypoxia-induced inhibition of lung development is attenuated by the peroxisome proliferator-activated receptor-y agonist rosiglitazone [J].Am J Physiol Lung Cell Mol Physiol,2011,301(1): L125-34.   \n[6]Blanco I, Piccari L,Barbera JA.Pulmonary vasculature in COPD: The silent component[J].Respirology,2016,21(6): 984-94.   \n[7]Sakao S,Voelkel NF,Tatsumi K.The vascular bed in COPD: pulmonary hypertension and pulmonary vascular alterations[J].Eur Respir Rev,2014,23(133): 350-5.   \n[8] Shimoda LA,Laurie SS. HIF and pulmonary vascular responses to hypoxia[J].JAppl Physiol (1985),2014,116(7): 867-74.   \n[9]Ryan AJ,O'brien FJ. Insoluble elastin reduces collgen scaffold stiffness,improves viscoelastic properties,and induces a contractile phenotype in smooth muscle cells [J].Biomaterials,2015,73(4): 296-307.   \n[10] Zhang H,Gong Y,Wang Z,et al.Apelin inhibits the proliferation and migration of rat PASMCs via the activation of PI3K/Akt/ mTOR signal and the inhibition of autophagy under hypoxia[J].J Cell Mol Med,2014,18(3): 542-53.   \n[11] Zhou W,Negash S,Liu J,et al. Modulation of pulmonary vascular smooth muscle cell phenotype in hypoxia: role of cGMP-dependent protein kinase and myocardin[J].Am J Physiol Lung Cell Mol Physiol,2009,296(5): L780-9.   \n[12]Fu Y,Zhao Y,Liu Y,et al.Adenovirus-mediated tissue factor pathway inhibitor gene transfer induces apoptosis by blocking the phosphorylation of JAK-2/STAT-3 pathway in vascular smooth muscle cells[J]. Cell Signal,2012,24(10): 1909-17.   \n[13] Sheng-Long C, Yan-Xin W, Yi-Yi H,et al. AVE0991,a nonpeptide compound,attenuates angiotensin II-Induced vascular smooth muscle cell proliferation via induction of Heme oxygenase-1 and downregulation ofp-38MAPK phosphorylation [J].Int J Hypertens,2012: 958298.   \n[14] Luo C,Yi B,Bai L,et al. Suppression of Akt1 phosphorylation by adenoviral transfer of the PTEN gene inhibits hypoxia-induced proliferation of rat pulmonary arterial smooth muscle cells [J]. Biochem Biophys Res Commun,2010,397(3): 486-92.   \n[15] Frid MG,Li M, Gnanasekharan M,et al. Sustained hypoxia leads to the emergence of cells with enhanced growth,migratory,and promitogenic potentials within the distal pulmonary artery wall[J]. AmJPhysiol Lung Cell Mol Physiol,2009,297(6): L1059-72.   \n[16] Savale L,Tu L,Rideau D,et al．Impact of interleukin-6 on hypoxia-induced pulmonary hypertension and lung inflammation in mice[J].Respir Res,2009,10: 6.   \n[17] Amselem V,Lipskaia L,Abid S,et al. CCR5as a treatment target in pulmonary arterial hypertension[J]. Circulation,2014,130(11): 880-91.   \n[18] Song D,Song G,Niu Y,et al. Ulinastatin activates haem oxygenase 1 antioxidant pathway and attenuates allergic inflammation[J].Br J Pharmacol,2014,171(19): 4399-412.   \n[19]Li W, Qiu X, Jiang H,et al. Ulinastatin inhibits the inflammation of LPS-induced acute lung injury in mice via regulation of AMPK/ NF-kappaB pathway[J]. Int Immunopharmacol, 2015,29(2): 560-7.   \n[20]Ivanova EA，Parolari A，Myasoedova V,et al.Peroxisome proliferator-activated receptor (PPAR） gamma in cardiovascular disorders and cardiovascular surgery[J].J Cardiol,2O15,66(4): 271-8.   \n[21] Zhang S,Gu H, Hu N.Role of Peroxisome Proliferator-Activated receptor gamma in ocular diseases[J].J Ophthalmol, 2015,2015: 275435.   \n[22] Gao D, Hao G, Meng Z,et al. Rosiglitzone suppresses angiotensin II-induced production of KLF5 and cell proliferation in rat vascular smooth muscle cells[J].PLoS One,2015,10(4): e0123724.   \n[23]Minamikawa J,Tanaka S,Yamauchi M,et al.Potent inhibitory effect of troglitazone on carotid arterial wall thickness in type 2 diabetes[J].JClin Endocrinol Metab,1998,83(5):1818-20.   \n[24]李 赫,王东亮,赵洪文.罗格列酮通过激活PPARy改善肺动脉高压大 鼠肺动脉内皮依赖性舒张功能[J].中国病理生理杂志,2013,29(3): 549-53.   \n[25] Li W, Qiu X, Jiang H,et al. Ulinastatin inhibits the inflammation of LPS-induced acute lung injury in mice via regulation of AMPK/ NF- $\\mathbf { \\nabla \\cdot } \\kappa \\mathbf { B }$ pathway[J]. Int Immunopharmacol, 2015,29(2): 560-7. (纻辑 蛭) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

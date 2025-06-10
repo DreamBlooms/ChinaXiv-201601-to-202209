@@ -1,0 +1,546 @@
+[
+    {
+        "type": "text",
+        "text": "一种用于肿瘤药物治疗的新型人源性穿膜肽的优化及其应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李思‘，翟逸舟'，陆玉婷²，王富军²³，赵健（1华东理工大学生物反应器工程重点实验室，上海 200237；2.浙江日升昌药业有限公司，浙江322100；3.上海中医药大学中药研究所，上海201203）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 细胞穿膜肽（Cell-penetrating peptide,CPP）作为一种体内大分子药物跨膜运输载体被广泛研究和应用。中期因子Midkine（MK）是人体的一种带有肝素结合域（Hepari-BindingDomain，HBD）的生长因子。本文报道了MK中HBD的部分富含碱性氨基酸的基因序列（命名为MK-SO）与绿色荧光蛋白（EGFP）基因融合表达后，能将EGFP有效地转运入胞内，且其穿膜转运效率高于经典穿膜肽Tat。将MK-S0序列进行进一步突变优化改造得到的MK-△4，其穿膜效率比天然序列来源的MK-S0提高16倍以上，且MK-△4 的穿膜转运作用适用于多种肿瘤细胞。穿膜机理分析研究结果显示，MK-△4可与细胞表面硫酸乙酰肝素结合，随之以巨胞饮形式内吞入胞。采用MTT方法检测的细胞生长抑制试验结果显示，连接有 MK-△4 的苦瓜来源的核糖体失活蛋白MAP30比单独的MAP30 对HeLa 肿瘤细胞的 $\\mathrm { I C } _ { 5 0 }$ 值降低5.8倍，大大提高了这种药物蛋白抑杀肿瘤细胞的效果。由此表明，源于MK的这种经过突变改造的MK- $\\cdot \\Delta 4$ ，可作为一种新型高效的细胞穿膜肽，将药物蛋白有效运输到细胞内发挥抗肿瘤效应。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：中期因子；肝素结合域；细胞穿膜肽；药物运输；抗肿瘤药物",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号 Q71",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The optimization of a novel human-derived cell-penetrating peptide used for anti-cancer treatment ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Li Sil, Zhai Yi-zhou1,Lu Yu-ting²,Wang Fu-Jun²3, Zhao Jian1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.STateKeyLaboratoryofioreactorEngineeing,EastChinaUniversityofScienceandTchnologyhanghai0237; 2.ZhejiangReachallPrmaceuticalCoLtdDongang20；3.IstituteofCneseMateriaedica,anghaiUnveityf Traditional Chinese Medicine,Shanghai 201203) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract Cell-enetrating peptides (CPPs) have been widely used in decades for its ability to carry many macromolecular drugs across cell-membrane to exert their effects. Midkine (MK) is a heparin-binding growth factor with a heparin-binding domain (HBD).In this article,the HBD in MK that is rich in basic amino acids (MK-SO) was fused with enhanced green fluorescence protein (EGFP)and then it was found that MK-SO could deliver EGFP into cells,and its transporTation capacity is much higher that classcal CPPs (such as Tat). After the sequence optimization on MK-S0,MK- $\\Delta 4$ whose trans-membrane ability was increased about 16-fold than MK-SO was obtained. The trans-membrane ability of MK- $\\Delta 4$ was also suitable for a variety of tumor cells. The further investigation of endocytic pathways on MK- $\\cdot \\Delta 4$ was shown that MK-△4 penetrates cell-membrane through interacting with heparin sulfate on the cell surface and then via macropinocytosis. The results of cell growth inhibition by MTT method showed that MK- $\\Delta 4$ could enhance the inhibitory efect of a ribosome-inactivating protein-MAP30 about 5.8-fold in HeLa cells which is significantly enhance the anti-tumor activity of MAP30. It was suggested that MK-△4 optimized from heparin-binding domain MK is a novel human-derived CPP with high efficiency, and is a new drug vector for anti-tumor therapy. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Midkine heparin-binding domaincell-penetrating peptide drug delivery anti-tumor drug ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "许多抗肿瘤药物（如核糖体失活蛋白，RIPs）不能自主跨越细胞膜屏障进入胞内发挥药理作用，而细胞穿膜肽则能够将这些蛋白质或者生物大分子药物转运进入细胞内发挥其药理作用[12]。细胞穿膜肽通常由不超过30个氨基酸残基组成[3]，具有自主穿透细胞膜的能力[4]，能够携带生物大分子进入胞内，而不影响被转运的生物大分子的原有生物活性，因此其作为一种新型有潜力的药物运输载体，在抗炎症治疗[5]，核酸和蛋白质的递送等方面具有广泛的应用前景。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人体的细胞表面普遍存在着一层带有负电荷的硫酸乙酰肝素蛋白聚糖（HSPGs），与许多细胞的生物学功能有联系，如介导细胞与胞外基质的相互作用，细胞间的交流，调控胞外基质的结构和功能，在癌症、伤口愈合，传染疾病、炎症反应中具有重要作用[7-9]。许多人体蛋白质（如蛋白酶，生长因子，趋化因子以及病原体蛋白等）分子结构中存在着一种特殊的被称为肝素结合域（Heparin-BindingDomain，HBD）的结构，可与细胞表面的HSPGs发生相互作用，参与细胞的各种生理生化功能和病理过程[10-12]。由于这类HBD大都是由多个碱性氨基酸残基组成，其结构上与经典的穿膜肽相似，因此本课题组前期曾将源于人胞外超氧化物歧化酶（EC-SOD）羧基末端肝素结合域开发成为一种新型人源性细胞穿膜肽[13]。一些文献报导中也有将胰岛素样生长因子结合蛋白[14]、人类肝素结合表皮生长因子样的生长因子[I5]的HBD开发成穿膜肽的报道。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人中期因子Midkine（MK）同样是一种带有肝素结合域的生长因子/细胞因子[16]，其能够促进多种细胞的生存、迁移、分化和基因的表达，与细胞的再生和修复有关[17]。MK在某些肿瘤细胞（如胰腺瘤组织）中有异常表达，被认为在肿瘤发生/致癌作用中具有潜在作用，也被认为是一种癌症/肿瘤的分子标记[18]。MK的HBD含有两个间隔的肝素结合位点，富含碱性氨基酸残基[19]。我们选取MK的C末端101至121位氨基酸残基序列（TKPCTPKTKAKAKAKKGKGKD，简称 MK-S0）进行穿膜活性研究。由于原始的MK-S0位于MK的C端，并且前期已有多种肝素结合域被成功开发成细胞穿膜肽也是置于EGFP的C端[1315],所以我们模仿MK的天然结构，将MK-SO构建于增强型绿色荧光蛋白 (EGFP)的C端，观察MK-SO转运EGFP进入细胞的能力。随后进一步进行MK-S0结构的优化，期望获得一种穿膜效率更高的新型穿膜肽。本文进一步分析这种新型穿膜肽的穿膜细胞谱及其内化途径。此外，将这种穿膜肽与苦瓜来源的核糖体失活蛋白(MAP30)进行融合，考察这种新型穿膜肽的引入是否能大大提升MAP30融合蛋白的抗肿瘤效果。本研究为从HBD结构中开发新型人源性细胞穿膜肽提供了有益的借鉴。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1材料与试剂",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MK-SO 的基因序列源于人MK的部分HBD序列，由上海生工公司合成，构建在pET28a 表达载体上。E.coliBL21(DE3）宿主菌、EGFP-HBD-pET28a、EGFP-Tat-pET28a、EGFP-R9-pET28a 等质粒、人宫颈癌细胞(HeLa)、非小细胞肺癌细胞（95D）、人胃癌细胞（MGC8-3）、人肺癌细胞（A549）、人大肠癌细胞（LoVo）、小鼠黑色素瘤细胞（B16）均为本实验室保存。表达载体的相关引物由上海生工公司合成。卡那霉素（kana）、异丙基- $\\cdot \\beta$ -D-硫代吡喃半乳糖苷(IPTG)、噻唑蓝(MTT)等均来自碧云天生物技术公司。测序由华大基因完成。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2实验方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1重组质粒的构建 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以EGFP-MK-△4为模板，通过PCR扩增BamHI-MK-△4-XhoI的目的片段，用这两种限制性核酸内切酶BamHI、XhoI分别酶切目的片段MK-△4和载体质粒MAP30-HBD-pET28b，通过连接得到重组质粒MAP30-MK-△4-pET28b,用E.coli扩增菌DH5α为宿主转化重组质粒，待菌落PCR验证正确送公司测序经比对确认重组质粒序列的正确性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2重组蛋白的表达与纯化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将合成和构建成功的重组质粒分别转入E.coliBL21(DE3)菌株中，将阳性克隆菌接种到 $3 0 \\mathrm { m L L B }$ 培养基（含 $5 0 ~ \\mu \\mathrm { g / m L }$ kana）中, $3 7 \\ \\mathrm { { ^ circ C } }$ 培养 $1 2 \\mathrm { h }$ ，然后将 $2 \\%$ 的菌液接种到 $2 0 0 ~ \\mathrm { m L }$ 的培养基中，等菌液 $\\mathrm { O D } _ { 6 0 0 }$ 达到0.4-0.6时，加入 $1 \\mathrm { m m o l / L }$ IPTG 在各个温度下进行诱导表达！ $[ 1 6 ^ { \\circ } \\mathrm { C } 1 6 \\mathrm { h } , 2 5 ^ { \\circ } \\mathrm { C } 1 2 \\mathrm { h } , 3 7 ^ { \\circ } \\mathrm { C } 8 \\mathrm { h } )$ ,确定表达的最优温度。带有EGFP的所有重组蛋白在 $2 5 \\ \\mathrm { { ^ \\circ C } }$ 诱导表达，带有MAP30的重组蛋白在 $1 6 ~ \\mathrm { ^ { \\circ } C }$ 下诱导表达。诱导后的菌体用 $3 0 0 0 ~ \\mathrm { r / m i n }$ 离心 $2 0 \\mathrm { m i n }$ ，经重悬（缓冲液 $2 0 \\mathrm { m m o l / L }$ Tris-HCl, $10 \\%$ 甘油， $0 . 5 \\mathrm { m o l / L N a C l } , \\mathrm { p H } 8 . 5 \\AA$ ）、超声破碎,12000$\\mathbf { r } / \\mathbf { m i n }$ 离心后取上清在Ni-NTA中进行纯化。通过含不同浓度咪唑的缓冲液进行洗涤和洗脱收集目的蛋白。经20 mmol/LTris-HCl、 $10 \\%$ 甘油、 $0 . 5 \\mathrm { m o l / L N a C l }$ 、$\\mathrm { p H } 7 . 2$ 的透析缓冲液透析移除咪唑，用 SDS-PAGE分析各样品。目的蛋白经无菌过滤后在 $. 8 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 保存。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.3体外细胞培养 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究中的HeLa、A549、MGC8-3、SMMC用RPMI-1640（含有 $10 \\%$ 胎牛血清和 $1 \\%$ 青霉素-链霉素），95D用DMEM培养基（含有 $10 \\%$ 胎牛血清和 $1 \\%$ 青霉素-链霉素）在 $3 7 \\ \\mathrm { { ^ circ C } }$ ， $5 \\% \\mathrm { C O } _ { 2 }$ 的培养箱中培养。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.4荧光实验 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将各种细胞以 $1 \\times 1 0 ^ { 4 }$ 的密度接种于24孔板中培养 $1 2 \\mathrm { h }$ ，用带EGFP的各融合蛋白 $5 ~ { \\mu \\mathrm { M } }$ 与细胞孵育 $1 2 \\mathrm { ~ h ~ }$ ，随后用PBS 洗涤， $4 \\%$ 多聚甲醛室温固定20min,PBS洗去固定液，经DAPI核染 $1 { - } 2 \\mathrm { h }$ 后，置于荧光显微镜下观察各融合蛋白在细胞内的荧光强度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.5流式细胞仪分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将HeLa细胞于6孔板中培养 $1 2 \\mathrm { h }$ ，加入融合蛋白孵育 $1 2 \\mathrm { { h } }$ 后，用PBS洗涤三次后，用胰蛋白酶消化收集细胞，通过流式细胞仪（激发波长 $\\operatorname { E x } 4 8 8 \\mathrm { n m }$ 发射波长 $\\mathrm { E m } 5 3 0 \\mathrm { n m }$ ）分析胞内荧光强度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.6穿膜途径的研究",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将HeLa细胞以 $1 \\times 1 0 ^ { 5 }$ 的密度在六孔板中培养 $1 2 \\mathrm { h }$ 后，用各种内吞途经抑制剂预处理HeLa细胞 $3 0 \\mathrm { m i n }$ ，抑制剂包括： $1 \\mathrm { m g / m L }$ 肝素钠（细胞表面硫酸乙酰肝素蛋白聚糖竞争性抑制剂）、 $1 0 \\mathrm { m M }$ 叠氮化钠（ATP代谢物抑制剂）、 $1 0 ~ \\mu \\varrho /$ mL 盐酸氯丙嗪（网格蛋白抑制剂）、 $1 0 \\mu \\mathrm { g / \\ m L \\beta }$ -环糊精（脂质筏抑制剂）和$1 0 ~ \\mu \\mathrm { g / \\ m L }$ 细胞松弛素D（F-肌动蛋白抑制剂）。随后分别在各个孔中加入融合蛋白EGFP-MK- $\\Delta 4$ 和EGFP-MK-S0,孵育 $1 2 \\mathrm { ~ h ~ }$ 后，处理收集细胞，通过流式细胞术检测细胞内荧光。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.7药物蛋白对肿瘤细胞的抑制实验分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "药物蛋白MAP30-MK- $. \\Delta 4$ 对各种肿瘤细胞的抑制作用通过MTT实验来进行分析。细胞以 $1 \\times 1 0 ^ { 4 }$ 的密度接种于96孔板中培养 $1 2 \\mathrm { h }$ 后，用不同浓度梯度的药物蛋白 $( 0 , \\ 0 . 1 , \\ 0 . 5 , \\ 1 , \\ 2 , \\ 3 \\ \\mu \\mathrm { M } )$ 分别孵育HeLa、SMMC、MGC803细胞 $2 4 \\mathrm { h }$ 后，弃去原有培养基，用含 $5 \\mathrm { m g / m L }$ 的MTT溶液在 $3 7 \\ \\mathrm { { ^ circ C } }$ 培养箱中孵育 $3 { \\cdot } 4 \\mathrm { h }$ ，弃去MTT溶液后在每个孔中加入 $1 5 0 ~ \\mu \\mathrm { L }$ 二甲基亚砜（DMSO）。待沉淀溶解后，通过Thermo 酶标仪（吸收波长为 $4 9 0 \\mathrm { n m } \\cdot$ )测定每个孔中的吸光度来计算存活率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2实验结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.重组蛋白EGFP-MK-S0的表达与纯化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将公司合成的重组质粒EGFP-MK-S0-pET28a 转入E.coli BL21(DE3）感受态细胞中，按照1.2.2方法成功表达和纯化了EGFP-MK-S0重组蛋白。SDS-PAGE电泳结果如图1所示，重组蛋白EGFP-MK-S0在 $2 5 \\ \\mathrm { { ^ \\circ C } }$ 下以可溶形式表达，通过Ni-NTA亲和层析纯化获得目的蛋白EGFP-MK-S0（ $3 2 . 0 2 \\mathrm { k D a }$ ）。纯化的蛋白通过凝胶扫描软件扫描纯度达到 $90 \\%$ 以上，经无菌过滤后用于后续细胞实验。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e13cdde24bdd5ab509f709d9c6208efe2a1c6cfb462564620a04c0099a10b551.jpg",
+        "img_caption": [
+            "图1纯化的重组蛋白EGFP-MK-S0进行SDS-PAGE分析",
+            "Figure.1 SDS-PAGE analysis of fusion protein EGFP-MK-S0 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "M:Low molecule weight protein marker ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Lanel,uninducedE.coli (DE3);Lane2,inducedE.coli (DE3)(EGFP-MK-SO);Lane3,thesupernataneofinducedE.coli (DE3)   \n(EGFP-MK-SO);Lane4,the inclusionbodyof induced E.coli (DE3)(EGFP-MK-SO);Lane5,Elution;Lane6,Elutionof $2 0 ~ \\mathrm { m M }$ imidazole; Lane7,Elution of $2 0 0 ~ \\mathrm { m M }$ imidazole;Lane 8,purfied EGFP-MK-SO for two times dilution; Lane 9,purfied EGFP-MK-S0 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2MK-S0融合EGFP的穿膜效率研究",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "MK-SO是肝素结合样生长因子MK中一段富含碱性氨基酸的带有肝素结合位点的序列，为了研究MK-S0是否具有蛋白转运能力，首先以增强型绿色荧光蛋白（EGFP）为示踪蛋白，考察MK-SO 携载 EGFP 进入HeLa 细胞的效率。将EGFP-MK-S0重组蛋白（ ${ } _ { \\left\\{ 5 \\mu \\mathrm { M } \\right\\} }$ ）与HeLa细胞共孵育不同的时间（1、4、12、24h），通过荧光显微镜观察HeLa细胞中的荧光强度，单独的EGFP在HeLa细胞内没有观察到绿色荧光信号，而融合了MK-SO的EGFP能够在HeLa细胞中呈现出绿色荧光，并且HeLa细胞对EGFP-MK-SO的吸收效率与孵育时间呈正相关（图2a）。同样，不同浓度 $( 1 , ~ 2 , ~ 5 , ~ 1 0 ~ \\mu \\mathrm { M } )$ ）的EGFP-MK-S0 融合蛋白与HeLa细胞孵育 $1 2 \\mathrm { h }$ 后，观察到被检测的样品在HeLa细胞中显示出不断增强的胞内荧光，并呈现出浓度依赖性（图2b）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "进一步以Tat、R9 和课题组前期报道的人源性HBD[20]之间的蛋白转运活性比较，流式细胞术定量结果显示，与单独的EGFP 对照相比，EGFP-HBD、EGFP-Tat、EGFP-R9穿膜效率分别提高了4.36倍、2.58倍、4.66倍，其中EGFP-MK-S0的穿膜效率提升效果最显著，提升了7.52倍（图2c,2d）。实验结果表明MK-S0作为一种生长因子来源的肝素结合域具有携载生物大分子进入HeLa 细胞的能力，其穿膜效率优于经典的Tat等，并表现出穿膜肽典型的时间和浓度依赖性的特点。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d57f903b0712f6649b608e04f60cfeb2e24bc86410c5c6d70a14ea3246021882.jpg",
+        "img_caption": [
+            "图2EGFP-MK-S0及多种CPPs的荧光检测及流式细胞术检测",
+            "Figure.2Fluorescence microscopyand flow cytometry among EGFP-MK-S0 and other three CPPs.Time-response (a)and "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "oncentration-response (b)offusionproteinEGFP-MK-SO;thetransportingeficiencywasanalyzedbyFCMamongdiferentCs (cd) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3MK-S0穿膜肽序列的优化设计",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "一般认为细胞穿膜肽中的碱性氨基酸对穿膜作用有重要贡献[21]，碱性氨基酸的胍基基团与细胞膜表面HSPGs分子的阴离子如硫酸基团、磷酸基团形成氢键[22]，带正电的氨基酸与细胞膜脂双层的负电基团相互作用，随后以一种或多种内吞形式内吞进入胞内[23]。MK-S0 肝素结合域富含碱性氨基酸，将MK-S0 中部分非碱性氨基酸进行替换的MK-△1的细胞穿膜活性与MK-S0相比，没有发生改变，说明非碱性氨基酸对MK-S0 的穿膜的贡献作用不大(图3a)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了进一步获得一种穿膜效率更高的新型细胞穿膜肽，我们对MK-S0进行了若干种提高碱性氨基酸比例的突变，将纯化后的各种突变体蛋白分别与HeLa 细胞共孵育 $1 2 \\mathrm { h }$ ，通过荧光显微镜观察HeLa细胞内的荧光强度以考察穿膜活性的变化（表1）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/5593beb584f1268edae5386b015204dfa24b393383634a5631cf486128a15df1.jpg",
+        "table_caption": [
+            "表1MK-S0的突变体序列",
+            "Table.1 Mutant sequence ofMK-S0 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Name</td><td>Sequence</td><td>Fusion protein</td></tr><tr><td>MK-S0</td><td>TKPCTPKTKAKAKAKKGKGKD</td><td>EGFP-MK-S0</td></tr><tr><td>MK-△1</td><td>GKPCGPKGKVKSKIKKGKGKS</td><td>EGFP-MK-△1</td></tr><tr><td>MK-△2</td><td>TKPCTPCKTKAKAKAKAKAKAKKGKGKD</td><td>EGFP-MK-△2</td></tr><tr><td>MK-△3</td><td>TKPCTPRTRARARARRGRGRD</td><td>EGFP-MK-△3</td></tr><tr><td>MK-△4</td><td>TKPCTPRTRARARARARARARRGRGRD</td><td>EGFP-MK-Δ4</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "结果如图3所示，KA重复序列是穿膜肽MK-S0自身具有的结构特征;此外，MK-S0穿膜序列模建显示KA的重复位于MK-S0的 $\\mathfrak { a } \\mathrm { . }$ -螺旋中(MK-S0中第6到第16个氨基酸之间的序列PKTKAKAKAKK组成了 ${ \\mathfrak { a } } .$ -螺旋结构 (图3b)，因此通过增加MK-SO中KA重复序列以提高穿膜肽的碱性氨基酸比例的突变体MK-△2，比MK-S0穿膜效率提高约1.5倍，将赖氨酸残基替换成碱性更强的精氨酸残基的突变体（MK-△3），其穿膜效率比MK-S0高出了1.39倍，综合考虑上述两种突变策略，进一步设计了MK-△4突变体，结果显示HeLa细胞内MK-△4的荧光显著增强，比原始序列MK-S0的穿膜效率提高了近16倍，表明增加碱性氨基酸残基的比例以及替换成碱性更强的氨基酸残基获得的MK-△4能够大大增强 HeLa细胞中穿膜效率，并依旧呈现出细胞穿膜肽时间和剂量依赖性的特征（图3）。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/0891882c2e5def3181f6410bee19a38dd2f7bd2330d8b6abfe98268ee9bb881e.jpg",
+        "img_caption": [
+            "图3EGFP-MK-S0突变体的穿膜效率分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "a.fluorescence detection of EGFP-MK-SO and EGFP-MK-△S0;b.structural modeling of MK-S0 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "c.fluorescence detection of mutants ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "d.flow cytometry of mutants; d-f. fluorescence microscopy detection of MK-△4. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4高效穿膜肽MK-△4在不同肿瘤细胞中的穿膜效率",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由于 $\\mathrm { M K } { \\cdot } \\Delta 4$ 穿膜效率明显高于原始序列MK-S0，实验随后考察了通过突变获得的MK-△4 高效穿膜肽在不同肿瘤细胞（HeLa、SMMC、MGC803、A549、95D）中的穿膜效率。纯化的EGFP-MK-△4融合蛋白通过凝胶扫描软件扫描纯度达到 $90 \\%$ 以上，经无菌过滤后用于后续细胞实验（图4）。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/563b49002d32e5e30affe69af4e552e77204c66f7816b6efa68297dc1a7d2558.jpg",
+        "img_caption": [
+            "Figure.3 penetrating ability ofMK-SO mutants ",
+            "图4纯化的重组蛋白EGFP-MK-△4的SDS-PAGE分析Figure.4 SDS-PAGE analysis of fusion protein EGFP-MK-S4"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "M:Low molecule weight protein marker ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Lanel,uninducedE.coli(DE3);Lane2,inducedE.coli(DE3)(EGFP-MK-4);Lane3,thesupernataneof inducedE.coli(DE3)   \n(EGFP-MK-△4);Lane 4,the inclusion bodyof inducedE.coli (DE3)(EGFP-MK-△4);Lane 5,Elution;Lane6,Elutionof $2 0 ~ \\mathrm { m M }$ imidazole;Lane 7,Elution of $2 0 0 ~ \\mathrm { m M }$ imidazole;Lane 8,Elution of $5 0 0 ~ \\mathrm { m M }$ imidazole; Lane9,Elution of1M imidazole; Lane10,purfied EGFP-MK-△4;Lane 11,purfied EGFP-MK-S4 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "将EGFP-MK- ${ \\cdot \\Delta } 4$ $( 5 ~ \\mu \\mathrm { M } )$ 分别与各种细胞共同孵育 $1 2 \\mathrm { h }$ 后，荧光显微镜观察结果显示EGFP-MK-△4 能够转导进入5种肿瘤细胞中，显示了MK-△4在穿膜性质上具有细胞广谱性，并且在HeLa细胞中表现出最强的穿膜活性（图5）。由于不同肿瘤细胞表面的硫酸乙酰肝素的含量及性质不同，可能导致MK-△4在不同肿瘤细胞中穿膜效率的差异。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/ced5f48d3f8b933fc773b01128fe191071d03f34cc00d3a56530e5b09b67c307.jpg",
+        "img_caption": [
+            "图5EGFP-MK-△4的穿膜细胞谱"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Figure.5 Penetratingabilityof EGFP-MK-△4 into cells of variable origin. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.5高效穿膜肽MK-△4内化机制分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CPPs在运载大分子药物时主要通过内吞的方式将药物运输进入胞内[24]。为了阐明高效穿膜肽MK-△4的内化机制，本文通过肝素钠(HSPGs竞争性抑制剂)、叠氮化钠（ATP代谢抑制剂）、盐酸氯丙嗪（网格蛋白抑制剂）、 $\\beta \\cdot$ -环糊精（脂质筏抑制剂）、细胞松弛素D（F-肌动蛋白抑制剂）等多种内吞途径抑制剂对MK-△4的内化机制进行研究。将HeLa细胞以 $1 \\times 1 0 ^ { 6 }$ 个/孔接种于六孔板中，分别加入各种抑制剂 $3 0 \\mathrm { m i n }$ 后，再加入EGFP-MK- ${ \\cdot } \\Delta 4$ ( ${ 5 \\mu \\mathrm { M } }$ ）共孵育 $1 2 \\mathrm { h }$ ，通过流式细胞仪分析胞内荧光强度。如图6所示，以EGFP-MK-△4为阳性对照，用肝素钠和细胞松弛素处理的细胞抑制了EGFP-MK-△4在细胞内的荧光强度，但EGFP-MK-△4在HeLa细胞内的荧光并不受 $\\beta$ -环糊精、盐酸氯丙嗪和叠氮化钠三种抑制剂的使用而降低（图6）。这些实验结果表明MK-△4是通过与细胞表面的硫酸乙酰肝素结合再依赖内吞途经转导进入胞内，巨胞饮是MK-△4的主要内吞形式。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/811344254f27ee6eeafcc9b502361f0d28defec30eff6cd240566ad57458b46b.jpg",
+        "img_caption": [
+            "图6各种内吞途经抑制剂对EGFP-MK-△4穿膜效率的影响 ",
+            "Figure.6Effect of endocyticc inhibitors on penetratingabilityofEGFP-MK-△4 "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.6MK-△4在抗肿瘤药物运输中的应用",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "MAP30是一种来源于苦瓜蛋白的I型核糖体失活蛋白，但是MAP30因其本身的低细胞穿膜效率而限制了肿瘤治疗的应用。MK-Δ4是生长因子MK中肝素结合域突变后优化的高效穿膜肽，为了研究MK-△4对抗肿瘤蛋白MAP30的运输能力，首先以单独的EGFP对肿瘤细胞的生长作用为对照，考察了融合蛋白EGFP-MK-Δ4 是否对细胞有促生长效应。将EGFP和EGFP-MK- $\\Delta 4$ （ $0 { - } 5 ~ { \\mu \\mathrm { M } }$ ）分别与HeLa 细胞共孵育 $2 4 \\mathrm { h }$ ，结果如图7显示，与EGFP蛋白共孵育的HeLa细胞的生长没有受到抑制，加入EGFP-MK-△4融合蛋白的HeLa细胞的存活率也同样没有变化，表明MK-△4不具有对肿瘤细胞的抑杀作用。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/a0f4b0895a0d2666494cdca3bfdb444710b5a3aec181968d6275b097cec5810c.jpg",
+        "img_caption": [
+            "图7EGFP、EGFP-MK-△4对HeLa的促生长效应 Figure.7 Growth effect of EGFP、EGFP-MK-△4 to HeLacells "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "随后通过将MK-△4序列与MAP30进行融合，融合蛋白MAP30-MK-△4经1.2.2的方法成功进行了表达和纯化，结果如图8所示。随后考察重组蛋白MAP30-MK-Δ4对不同肿瘤细胞（HeLa、SMMC、MGC80-3）的生长抑制作用。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b53416622e3247f89b21a16b8157afbd3803ab22638fe4e8bec48c534fbeb26.jpg",
+        "img_caption": [
+            "图8纯化的重组蛋白MAP30-MK-△4的SDS-PAGE分析",
+            "Figure.8 SDS-PAGE analysis of fusion protein MAP30-MK-△4 "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "M:Low molecule weight protein marker ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Lane1,uninducedE.coli(DE3);Lane2,inducedE.coli (DE3)(MAP30-MK-4);Lane3,thesupernataneofinducedE.coli (DE3) (MAP30-MK-4);Lane4,theinclusionbodyof inducedE.coli(DE3)(MAP30-MK-△4);Lane5,Elution;Lane6,Elutionof20 mM imidazole; Lane 7,Elution of $2 0 0 ~ \\mathrm { m M }$ imidazole; Lane 8,Elution of $5 0 0 ~ \\mathrm { m M }$ imidazole; Lane9,Elution of 1 M imidazole; Lane10, purfied MAP30-MK-△4 ; Lane11, purfied MAP30-MK-△4 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "分别将MAP30与MAP30-MK-△4两种融合蛋白与3种肿瘤细胞共孵育 $2 4 \\mathrm { h }$ 0 $( 0 { - } 3 ~ \\mu \\\\mathrm { M } )$ ）检测细胞存活率。结果如图9所示，与不加穿膜肽MK-△4的MAP30相比，MAP30-MK-△4对不同的肿瘤细胞的生长都有不同程度的抑制。对于HeLa细胞，在同样的蛋白浓度（ $\\mathbf { \\Theta } _ { \\mathrm { . 1 ~ } \\mu \\mathrm { M } }$ ）下，与MAP30重组蛋白共孵育后的HeLa存活率约为 $73 \\%$ ，与融合了MK-△4穿膜肽的MAP30重组蛋白（MAP30-MK-△4）共孵育后，存活率约为 $38 \\%$ ，MAP30 对HeLa的 $\\mathrm { I C } _ { 5 0 }$ 为2.576，而融合了MK-△4穿膜肽的MAP30-MK- ${ \\cdot } \\Delta 4$ 对HeLa的 $\\mathrm { I C } _ { 5 0 }$ 是0.444（图9a）， $\\mathrm { I C } _ { 5 0 }$ 下降了5.8倍;如表二所示,同样条件下，MAP30-MK-△4对于 SMMC、MGC80-3 肿瘤细胞 $\\mathrm { I C } _ { 5 0 }$ 比单独的MAP30分别下降了5.3、4.1倍（图 $^ { 9 \\mathrm { b } , 9 \\mathrm { c } }$ ）。其中MAP30-MK-△4对HeLa 细胞抑制作用最强，药效可提升5.8倍。MTT结果与前面MK-△4在不同肿瘤细胞中穿膜效率结果基本一致(图 5)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "0.6- He MAP30 KA4 1 SMMAP30MK4 0 MC30 K4   \n0.3   \n0.0+ 0.0 0.0   \n0 2 3 0 2 3 0 2 3   \nConcentration (μM) Concentration (μM) Concentration (μM) ",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/12882ab2b7e06472aa4d41438b96026ba48fdcd7172c5e8e9e013a11b48c5a04.jpg",
+        "table_caption": [
+            "表2MAP30融合蛋白对不同肿瘤细胞的半抑制浓度 $\\mathrm { \\langle I C 5 0 \\rangle }$ ）",
+            "Table.2 Half maximal inhibitory concentration $\\mathrm { I C } _ { 5 0 }$ of fusion protein to tumor cells "
+        ],
+        "table_footnote": [
+            "通过 GraphPad Prime 6 得到"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"3\">IC50 (μM)</td></tr><tr><td>Tumor cells</td><td>MAP30</td><td>MAP30-MK-△4</td><td>Increased fold</td></tr><tr><td>HeLa</td><td>2.576</td><td>0.444</td><td>5.8</td></tr><tr><td>SMMC</td><td>3.028</td><td>0.572</td><td>5.3</td></tr><tr><td>MGC803</td><td>2.367</td><td>0.580</td><td>4.1</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "细胞穿膜肽作为一种新型的药物运输载体已成为抗肿瘤治疗中的研究热点[25]，许多研究表明具有肝素结合功能域的蛋白质具有与细胞表面肝素/HS结合的能力并且它们的一部分可以内化到细胞中。课题组前期获得了一种来自EC-SOD肝素结合域的细胞穿膜肽和一种被鉴定具有细胞穿膜肽性质的肝素结合样生长因 HBP(Heparin-Binding Peptide)，并将其成功运用于抗肿瘤治疗中[26-27]。MK作为一种肝素结合样的生长因子，能够促进细胞生长、生存、迁移等，在MK的C端结构中含有两个肝素结合位点，并且第二个肝素结合位点是一个碱性氨基酸富含区，由于大多数的CPPs的穿膜进入细胞内主要是依靠氨基酸中带正电氨基酸(精氨酸和赖氨酸)，如Tat[28]。因此在本研究我们首先考察了MK的C端富含碱性氨基酸的肝素结合位点序列MK-S0是否具有蛋白转运能力，实验结果显示来源于肝素结合样生长因子MK的MK-SO是一种新型的CPP，并且它的穿膜效率高于经典CPPs如Tat等(图2c-d),而且也具有时间和剂量依赖性特点(图2a-b)。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "文献报导富含碱性氨基酸精氨酸有利于细胞穿膜肽穿膜进入细胞[29]，因此提高小肽中碱性氨基酸的比例所带来的电荷效应对于CPPs的内化具有重要作用。为了进一步提高MK-SO携载生物大分子进入细胞内的效率，本研究随后对MK-S0的序列进行了优化突变，通过提高MK-S0中碱性氨基酸的比例或者使用碱性更强的碱性氨基酸替换设计了若干种突变体，结果显示，优化的MK-△4的穿膜效率显著增加，比原始序列MK-S0提高了约16倍（图3）。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "MK-△4这种新型细胞穿膜肽来源于富含碱性氨基酸的肝素结合域，在对MK-△4内化机制的研究中发现，肝素钠抑制剂的使用使EGFP-MK-△4融合蛋白进入细胞内的量明显下降，显示了硫酸乙酰肝素在MK来源的穿膜肽的内化中起重要作用（图6），推测MK-△4穿膜的第一步可能是成簇的碱性氨基酸以静电相互作用与细胞表面的HS 结合，随后再依赖内吞途经转导进入胞内。对MK-△4在不同肿瘤的穿膜效率的研究结果显示MK-△4能够穿膜进入多种细胞中，并且在不同的肿瘤细胞中穿膜效率不同（图5）。内化机制显示MK-△4具有与细胞膜表面的HSPGs具有相互作用，推测可能是由于不同肿瘤细胞表面的硫酸乙酰肝素性质不同而导致MK-△4在不同肿瘤细胞中穿膜效率的差异，其机理有待进一步研究。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "课题对MK-△4这一新型高效穿膜肽在抗肿瘤中的应用研究表明：MK-△4 能够提高MAP30对不同肿瘤细胞的抑制作用（图9），与没有融合穿膜肽MK-△4的MAP30 比较，MAP30-MK-△4对三种肿瘤细胞HeLa、SMMC、MGC803药效提升均有明显提高，表明穿膜肽MK-△4的引入有效促进了MAP30进入细胞,大大提高了其对肿瘤细胞的杀伤作用。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "结论",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "本文对人中期生长因子MK中富含碱性氨基酸的肝素结合域序列进行研究，通过对原有MK-S0序列进行突变改造，获得一种新型高效的MK-△4穿膜肽，并进行了穿膜途径和穿膜性质的相关研究。对肿瘤细胞生长的抑制实验表明，融合了高效穿膜肽MK-△4的MAP30对多种肿瘤细胞均表现出明显高于MAP30杀伤效应。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[1] Chin L,Andersen JN, Futreal P A. Cancer genomics: from discovery science to personalized medicine[J]. Nature Medicine,2011, 17(3):297-303.   \n[2] Koren E,Torchilin VP. Cel-penetrating peptides: breaking through to the other side[J]. Trends in Molecular Medicine,2012, 18(7):385-393.   \n[3] Vives E,Brodin P,Lebleu B.A Truncated HIV-1 Tat Protein Basic Domain Rapidly Translocates through the Plasma Membrane and Accumulates in the Cell Nucleus[J]. Journal of Biological Chemistry,1997,272(25):16010-16017.   \n[4] Morris M C, Gros E, Aldrianherrada G, et al. A non-covalent peptide-based carrier for in vivo delivery of DNA mimics[J]. Nucleic Acids Research,2007,35(7):e49.   \n[5] Choi Y J, Lee JY,Park JH, et al. The identification of a heparin binding domain peptide from bone morphogenetic protein-4 and its role on osteogenesis[J]. Biomaterials， 2010, 31(28):7226-7238.   \n[6] Eguchi A, Dowdy S F. siRNA delivery using peptide transduction domains[J]. Trends in Pharmacological Sciences, 2009,30(7):341-345.   \n[7] Menegheti M C, Hughes A J, Rudd T R, et al. Heparan sulfate and heparin interactions with proteins[J]. Journal of the Royal Society Interface, 2015,12(110):0589.   \n[8] Dr I C, Prof R JL. Heparin-Protein Interactions[J]. Angewandte Chemie International Edition, 2002, 41(3):391-412.   \n[9] Raman R, Raguram S, Venkataraman G J, et al. Glycomics: an integrated systems approach to structure-function relationships of glycans[J]. Nature Methods, 2005,2(11):817-824.   \n[10] Muioz E M, Linhardt R J. Heparin-binding domains in vascular biology[J]. Arteriosclerosis Thrombosis & Vascular Biology,2004, 24(9):1549-1557.   \n[11] Gallagher J T. Heparan sulfate: growth control with a restricted sequence menu[J]. Journal of Clinical Investigation,2001,108(3):357-361.   \n[12] Forsten-Williams K, Chu C L，Fannon M, et al. Control of Growth Factor Networks by HeparanSulfateProteoglycans[J]. AnnalsofBiomedicalEngineering，2008, 36(12):2134-2148.   \n[13] Zhao J, Gao P, Xiao W, et al. A novel human derived cel-penetrating peptide in drug delivery[J]. Molecular Biology Reports,2011,38(4):2649-2656.   \n[14] Xi G, Solum M A，Wai C,et al. The heparin-binding domains of IGFBP-2 mediate its inhibitory effect on preadipocyte differentiation and fat development in male mice[J]. Endocrinology,2013,154(11):4146-4157.   \n[15] Lee J Y, Seo Y N,Park H J, et al. The cell-penetrating peptide domain from human heparin-binding epidermal growth factor-like growth factor (HB-EGF) has anti-inflammatory activity in vitro and in vivo[J]. Biochemical & Biophysical Research Communications,2012, 419(4):597-604.   \n[16] Matsuzawa M, Muramatsu T, Yamamori T,et al. Novel Neuronal Effects of Midkine on Embryonic Cerebellar Neurons Examined Using a Defined Culture System[J]. Cellular & Molecular Neurobiology,1999,19(2):209-221.   \n[17] Muramatsu T. Midkine, a heparin-binding cytokine with multiple roles in development, repair ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "and diseases[J]. Proceedings of the Japan Academy, 2010, 86(4):410-425. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[18] Kadomatsu K, Tomomura M,and Muramatsu T. cDNA cloning and sequencing of a new gene intensely expressed in early differentiation stages of embryonal carcinoma cells and in mid-gesTation period of mouse embryogenesis[J]. Biochem Biophys Res Commun,1988, 151(3): 1312-1318. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[19] Kilpelainen I, Kaksonen M, Kinnunen T, et al. Heparin-binding growth-associated molecule contains two heparin-binding beta -sheet domains that are homologous to the thrombospondintypeIrepeat[J].JournalofBiologicalChemistry，2000, 275(18):13564-13570.   \n[20] Zhang R, Yang X Z, Wang JW, et al. Evaluating the translocation properties of a new nuclear targeted penetrating peptide using two fluorescent markers[J]. Journal of Drug Targeting, 2015, 23(5):444-452.   \n[21] Hansen, Mats, K. Kilk, and U. Langel. Predicting cell-penetrating peptides[J]. Sciencedirect, 2008, 60(4-5):549-550.   \n[22] Goun E A， Pillow T H， Jones L R， et al. Molecular transporters: synthesis of oligoguanidinium transporters and their application to drug delivery and real-time imaging[J]. Chembiochem,2006,37(52):1497-1515.   \n[23] Richard JP, Melikov K, Brooks H, et al. Cellular uptake of unconjugated Tat peptide involves clathrin-dependent endocytosis and heparan sulfate receptors[J]. Journal of Biological Chemistry,2005, 280(15):15300-15306.   \n[24] Zhang L X, Zhang S X. Mechanism of Cell-penetrating Peptides-mediated Internalization and ItsApplication[J]. Chinese Journal of Biochemistry & Molecular Biology，2008, 24(12):1092-1096.   \n[25] Skotland T, Iversen T G, Torgersen M L,et al. Cell-penetrating peptides: possibilities and challenges for drug delivery in vitro and in vivo[J]. Molecules,2015,20(7):13313-13323.   \n[26] Lu Y Z,Li PF,Li Y Z, et al. Enhanced anti-tumor activity of trichosanthin after combination with a human-derived cell-penetrating peptide, and a possible mechanism of activity[J]. Fitoterapia,2016,112:183-190.   \n[27] Lin B, Yang X Z, Cao X W, et al. A novel trichosanthin fusion protein with increased cytotoxicity to tumor cells[J]. Biotechnology Letters,2017, 39(1):71-78.   \n[28] Guidotti G，Brambilla L，Rossi D. Cell-Penetrating Peptides: From Basic Research to Clinics[J]. Trends in Pharmacological Sciences,2017, 38(4):406-424.   \n[29] Jobin M L，Alves I D.On the importance of electrosTatic interactions between cell penetrating peptides and membranes: a pathway toward tumor cell selectivity?[J]. Biochimie, 2014, 107:154-159. ",
+        "page_idx": 14
+    }
+]

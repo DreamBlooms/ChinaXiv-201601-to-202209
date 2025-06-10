@@ -1,0 +1,176 @@
+# 内蒙古托克托县地区浅层地下水氟化物与土壤水溶性氟的相关性研究
+
+李政葵¹，董少刚'，张涛²，王超'，刘晓波11．内蒙古大学生态与环境学院,内蒙古 呼和浩特010021；2．呼和浩特市环境科学研究所,内蒙古 呼和浩特010010)
+
+摘要：以内蒙古托克托县地区为研究对象,通过系统采集浅层地下水和土壤样品，分析研究区浅层地下水和土壤中氟化物的赋存分布规律及其相关性。结果表明：托克托县地区浅层地下水氟的最低浓度为 $0 . 1 5 \mathrm { ~ m g ~ } \cdot \mathrm { ~ L ~ } ^ { - 1 }$ ,最高浓度为 $7 . 0 0 \ \mathrm { m g \cdot L ^ { - 1 } }$ ,平均值为 $2 . 1 0 \ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ 。研究区的绝大部分地区浅层地下水中氟含量大于 $1 . 0 0 \ \mathrm { m g \cdot L ^ { - 1 } }$ ，已不宜作为生活饮用水源。整体表现为东南部湖积台地地下水氟含量要高于西北部冲湖积平原地区。在低 TH（总硬度）、偏碱性的浅层地下水环境中， $\mathrm { C a } ^ { 2 + }$ 的活度会降低,有利于 $\mathrm { ~ F ~ } ^ { - }$ 在地下水中的富集。浅层地下水中氟与土壤水溶性氟的空间浓度分布特征具有较高的相似性,湖积台地及蛮汉山前地带沉积的富氟矿物,是本区土壤和浅层地下水中氟化物的主要来源。
+
+关键词：地下水；氟化物；赋存规律；土壤可溶性氟；托克托县；内蒙古
+
+氟是人体健康生长不可或缺的重要元素之一，其主要通过饮水和饮食进入到人体中，当环境系统(水体和土壤)中易被人体吸附的氟过多时，极有可能导致人体氟中毒现象的发生[1-3]。氟进入人体的主要形式是以天然水体作为载体，这是由于大部分的氟化物有较好的水溶性，可以通过水体的运移不断在人体中累积，因而地下水中氟浓度的分布规律与发生地氟病的概率有着非常紧密的联系[4-7]。在我国，地下水中含氟现象较为普遍，全国多数省份均发生过不同程度的地下水氟中毒现象。我国已经逐渐成为发生地方性氟病较为严重的国家之一(8-11)。 C此外，许多学者对土壤氟和地方性氟病之间的关系进行了研究，揭示了土壤氟的赋存形态及其与地方性氟病的相关性和作用机理[12-14],但针对地下水与土壤中氟的赋存规律以及相关性研究则相对较少[15]  
+O
+
+本研究主要在对内蒙古托克托县地区水文气象、地层构造以及水文地质条件等资料的收集整理基础上，对研究区浅层地下水及土壤层分别进行取样和实验，分析托克托县地区浅层地下水中氟的分布特征和形成规律，并探讨该区浅层地下水氟（以$\mathrm { F } ^ { - }$ 形态存在)和土壤水溶性氟(以离子或络合物形式存在于土壤溶液中)赋存的相关性。
+
+# 数据来源与研究方法
+
+# 1.1 研究区概况
+
+托克托县隶属于内蒙古呼和浩特市。研究区处于大青山麓、蛮汉山以西、黄河中上游北岸的土默川平原上。该区域气候干燥少雨，多年平均降水量$3 5 9 . 6 ~ \mathrm { m m }$ ,多年平均蒸发量 $1 ~ 9 3 5 . 5 ~ \mathrm { m m }$ ,是典型的温带大陆性季风气候。区内最大的河流为黄河，其次为大黑河等。其中黄河为本区主要河流，呈北西、南东向流经研究区西南边界
+
+研究区地形特征表现为东南高而西北低，地势总体较为平坦，海拔高程平均为 $1 \ 0 1 5 \ \mathrm { m }$ ,地貌上主要由东南部的湖积台地和西北部的湖积平原两大部分构成。南部的湖积台地主要由中更新统粉细砂、砂黏土以及黏土等构成，基地为第三系泥岩。西北部的湖积平原主要由上更新统至全新统古黑河平原和河湖交互沉积层组成，岩性主要为砂砾石、亚砂土、粉土、粉质黏土与淤泥互层,厚度为 $3 0 \sim 1 3 6 \mathrm { ~ m ~ }$ 。
+
+研究区浅层地下水主要为松散岩类孔隙潜水，含水层岩性为粉砂与黏质砂土，地卜水埋藏较浅，埋藏深度 $1 \sim 5 \mathrm { ~ m ~ }$ 。浅层地下水主要补给来源为大气降雨、地表径流、地下灌溉水回渗以及周边山前地带侧向补给，排泄途径主要为地下水井开采、蒸发以及向深层越流。从区域上看，东部低山丘陵地带以及北部大青山前倾斜平原为本区地下水主要补给区，而湖积平原东部为地卜水的径流区，西部为地卜水的排泄区；湖积台地东部为地下水径流区，西侧靠近黄河、大黑河一带主要为地下水排泄区。整个区域地下水流向总体由东北、东南向西南方向流动，河流、沟谷是本区浅层地下水的良好排泄区（图1）。
+
+111°15'E 111°45'EN #4北什轴 # # △ # 沙尔沁古城 # #2.08 1 #·善岱 △ # #0 △ 永圣城 ？# △ 舍必崖 1△ #·#河 △ # △ △ #1 △# 董家营1 ##.中滩 大伍什家 ：. 托克托县. # 黑城# ·乡镇黄 燕山 A 7 #地下水采样点#△ △ # 工 △土壤采样点N,0I 河 # 0510km0
+
+![](images/a9e2abd9610a195e49c3452e7f12608073e160f02f9602da2925f67936a86822.jpg)  
+图1研究区水文地质图  
+Fig.2Distribution of groundwater and soil sampling sites   
+Fig.1Hydrogeological map of the study area   
+图2地下水及土壤采样点分布
+
+用EDTA滴定法，TDS（溶解性总固体）为计算值。水化学特征参数统计及Pearson相关性采用SPSS22.0软件进行分析;研究区主要离子Piper三线特征分析应用RockWare $\mathrm { A q \cdot \mathrm { Q A } }$ 软件绘制;空间分布特征运用Surfer8.O进行Kriging 插值分析。
+
+# 1.2 数据处理及分析方法
+
+土壤样品主要选取托克托县地区耕作层土壤,采样点位置覆盖整个托克托县地区，采样深度分别选取土壤 $0 \sim 2 0 ~ \mathrm { c m }$ 和土壤 $3 0 \sim 5 0 ~ \mathrm { c m }$ 土层，每层分别采集30组土样。土壤水溶性氟含量(氟离子)选择电极法进行测定。
+
+根据研究区浅层地下水流动系统特征和区域水文地质条件，于2014年4月中旬在托克托县地区对地下水样品及土壤样品进行了布点和采集工作（图2）。研究区浅层地下水样共采集30组，现场对水温和 $\mathrm { \ p H }$ 值2项指标进行了监测；室内分析指标包括 $\mathrm { K } ^ { + }$ 、 $\mathrm { { N a } ^ { + } }$ 、 $\mathrm { C a } ^ { 2 + }$ 、 $\mathrm { M g } ^ { 2 + }$ 、 $\mathrm { S O } _ { 4 } ^ { 2 - }$ ） $\mathrm { C l } ^ { - }$ 、 $\mathrm { H C O } _ { 3 } ^ { - }$ 、TH（总硬度)和 $\mathrm { F } ^ { - }$ 共有9项，由呼和浩特市环境监测中心站完成。 $\mathrm { K ^ { + } \setminus N a ^ { + } \setminus C a ^ { 2 + } \setminus M g ^ { 2 + } \setminus C l ^ { - } \setminus S O _ { 4 } ^ { 2 - } }$ 等离子由$\mathrm { I C } - 2 8 0 0$ 离子色谱仪测定， $\mathrm { H C O } _ { 3 } ^ { - }$ 通过双指示剂法测定， $\mathrm { F } ^ { - }$ 采用离子选择电极法测定， $\mathrm { T H }$ （总硬度)采
+
+# 2结果与分析
+
+# 2.1地下水水化学特征及氟的空间分布
+
+在不同地貌特征、地层构造以及水文地质条件等自然因素的长期作用和影响下，研究区逐渐形成了较为复杂的地下水化学成分。为更好地分析托克托县地区的水文地球化学特征，在结合研究区具体水文地质条件的基础上，运用RockWareAq·QA软件绘制出研究区地下水水化学的Piper三线图模型。通过绘制地下水中主要阴、阳离子的相对浓度分布特征，结合研究区具体的水文地质条件，可以较好地诠释研究区地下水水文地球化学特征[16] C
+
+由Piper三线特征图(图3)可以得出，托克托县地区浅层地下水化学类型主要为NaCI型，共有13个点（Ⅱ区);其次为 $\mathrm { C a H C O } _ { 3 }$ 型,共有9个点(I区);
+
+![](images/3613d42a1da0b617e692740112bc7e6475716c7feca01a1126d6a8594ee01a50.jpg)  
+图3研究区地下水Piper三线图  
+Fig.3Piper trilinear nomograph of groundwater in the study area
+
+混合 ${ \mathrm { C a N a H C O } } _ { 3 }$ 型和混合 $\mathrm { C a M g C l }$ 型各有3个（Ⅲ和IV区）。CaCl和 ${ \mathrm { N a H C O } } _ { 3 }$ 型最少，分别只有2个和0个（V和V区）。综合来看，研究区浅层地下水化学类型主要以NaCl型为主，其次为 $\mathrm { C a H C O } _ { 3 }$ 型。
+
+结合托克托县地区具体的水文地质条件发现，研究区东部的蛮汉丘陵地带及其山前倾斜平原为浅层地下水的主要补给区，地形坡度较大，水流速度较快，岩层中的化学组分随地下水流动向下游排泄区迁移。南部的湖积台地及大黑河沿岸一带为本区浅层地下水的主要径流排泄区，地形坡度逐渐变缓，地下水水力梯度随之变小，含水层沉积物颗粒变细，地下水水文地球化学过程则以赋存在含水层各种矿物成分的溶解-沉淀作用以及离子交换作用为主，在长期的水岩相互作用影响下，地下水的化学组分处于不断的迁移-富集过程。此外，湖积台地浅层地下水的埋深较浅，地下水蒸发浓缩强烈，导致 $\mathrm { { N a } ^ { + } }$ 和Cl"不断富集，逐渐成为本区浅层地下水的主要成分。
+
+地下水中氟含量变化特征与其周围的水化学环境关系密切，水化学条件的不同对地下水中氟的赋存规律有着较大的影响。不同离子之间的相关性对研究区地下水成分来源的一致性及差异性有着较好的表征。表1揭示了托克托县地区浅层地下水中$\mathrm { F } ^ { - }$ 与主要宏观离子的相关性，与 $\mathrm { F } ^ { - }$ 呈正相关的有$\mathrm { { N a } ^ { + } + K ^ { + } }$ 及 $\mathrm { S O } _ { 4 } ^ { 2 - }$ ,相关性均不强；与 $\mathrm { ~ F ~ } ^ { - }$ 呈负相关的有 $\mathrm { M g } ^ { 2 + }$ ） $\mathrm { C a } ^ { 2 + }$ 、 $\mathrm { C l } ^ { - }$ 及 $\mathrm { H C O } _ { 3 } ^ { - }$ ,其中 $\mathrm { C a } ^ { 2 + }$ 与 $\mathrm { F } ^ { - }$ 相关性最强，呈现出显著的负相关，相关系数为-0.38，据此可以认为,地下水中 $\mathrm { C a } ^ { 2 + }$ 的含量是影响研究区浅层地下水中 $\mathrm { F } ^ { - }$ 赋存特征的主要因素。
+
+表1地下水中氟与主要离子成分含量之间的相关性 Tab.1Pearson correlations between fluorine and the major ions in groundwater   
+
+<html><body><table><tr><td>序号</td><td>离子</td><td>相关系数(R)</td></tr><tr><td>1</td><td>Na++ K+</td><td>0.02</td></tr><tr><td>2</td><td>Mg²+</td><td>-0.12</td></tr><tr><td>3</td><td>Ca²+</td><td>-0.38 *</td></tr><tr><td>4</td><td>Cl-</td><td>-0.03</td></tr><tr><td>5</td><td>SO-</td><td>0.23</td></tr><tr><td>6</td><td>HCO3</td><td>-0.05</td></tr></table></body></html>
+
+注： $*$ 在0.05水平(双侧)上显著相关。
+
+对比浅层地下水中 $\mathrm { F } ^ { - }$ 与 $\mathrm { \ p H }$ 的浓度分布规律可以发现（图4）， $\mathrm { F } ^ { - }$ 与 $\mathrm { \ p H }$ 的空间分布特征在研究区范围内存在一定的相似性，表现为浅层地下水 $\mathrm { F } ^ { - }$ 含量高的地区， $\mathrm { \ p H }$ 也相应较高。研究区浅层地下水高氟区主要集中在湖积台地上， $\mathrm { F } ^ { - }$ 平均浓度达5.00$\mathbf { m } \mathbf { g } \cdot \mathbf { L } ^ { - 1 }$ 以上，在大黑河沿岸以西及舍必崖以东的大部分地区浅层地下水中 $\mathrm { F } ^ { - }$ 浓度均小于1.00$\mathbf { m } \mathbf { g } \cdot \mathbf { L } ^ { - 1 }$ 。从整个区域上看，南部湖积台地浅层地下水 $\mathrm { F } ^ { - }$ 含量要显著高于北部的大黑河湖积平原地区。 $\mathrm { \ p H }$ 也表现为南部湖积台地高于北部大黑河湖积平原的分布特征。
+
+图5为浅层地下水中 $\mathrm { F } ^ { - }$ 与 TH(总硬度)和pH的浓度分布散点特征及拟合图。在所采集的30组浅层地下水样中， $\mathrm { F } ^ { - }$ 浓度随TH值的升高而下降，表现为一定的负相关性；而 $\mathrm { \ p H }$ 与 $\mathrm { F } ^ { - }$ 含量表现为一定的正相关性, $\mathrm { F } ^ { - }$ 的浓度随着 $\mathrm { \ p H }$ 的升高而上升。结合表1和图5可以得出，处于低TH、偏碱性的地下水环境中，研究区浅层地下水 $\mathrm { C a } ^ { 2 + }$ 的活度会降低，有利于 $\mathrm { F } ^ { - }$ 在地下水环境中的富集。
+
+处于偏碱性环境条件下的地下水中氟的平衡关系如下：
+
+$$
+\mathrm { C a } ( \mathrm { O H } ) _ { 2 } { \stackrel {  } { \longrightarrow } } \mathrm { C a } ^ { 2 + } + 2 \mathrm { O H } ^ { - }
+$$
+
+$$
+\mathrm { C a } ^ { 2 + } + 2 \mathrm { F } ^ { - } { \overrightarrow { \mathrm { { c m } } } } \mathrm { C a F } _ { 2 }
+$$
+
+# 2.2土壤层水溶性氟的分布规律
+
+土壤层作为氟环境化学行为的纽带，与地方性氟病的分布有着密切关系，主要表现为土壤水溶性氟与地下水之间的相互作用及影响。其中，影响人体健康及生态环境的主要是土壤水溶性氟含量[17]。
+
+从图6可以看出，研究区 $0 \sim 2 0 ~ \mathrm { c m }$ 土壤层水溶性氟含量的最低值出现在大黑河与黄河沿岸以及湖积台地的东南地带，最高值出现于永圣域一缸房沟一带。此外,沙尔沁东部也出现高值区,整个区域表现出东高西低的浓度分布特征。 $3 0 \sim 5 0 \ \mathrm { c m }$ 土层水溶性氟最高值出现在沙尔沁以东和缸房沟一黑城一带，而大黑河及黄河沿岸一带和湖积台地南部为低值区，整体表现为东高西低的分布特征。
+
+![](images/63b69b0ef9fc552634fca74051e3c226be7efde1be430522201ba87b0f3fc96e.jpg)  
+图4浅层地下水中 $\mathrm { F } ^ { - }$ 与 $\mathrm { \ p H }$ 的浓度空间分布特征
+
+![](images/cad7edf88c084e9a5161c22aab9969089bf3ac6fe901726ea2f7b2da5c4e23ed.jpg)  
+Fig.4Distribution of $\mathrm { F } ^ { - }$ and $\mathrm { \ p H }$ concentrations in shallow groundwater   
+图5浅层地下水中 $\mathrm { F } ^ { - }$ 与 $\mathrm { T H } \setminus \mathrm { p H }$ 的散点图及拟合线  
+Fig.5Scatterplots and fit lines between $\mathrm { F } ^ { - }$ and TH and $\mathrm { \ p H }$ values in shallow groundwater
+
+![](images/4cebce3ba250cda99f9fe2cd9c324fe2baf5c56ec1f13b007da357c826af7c6a.jpg)  
+图6 $0 \sim 2 0 ~ \mathrm { c m }$ 与 $3 0 \sim 5 0 ~ \mathrm { c m }$ 土层水溶性氟的浓度空间分布  
+Fig.6Spatial distribution of water-soluble fluorine in $0 - 2 0 ~ \mathrm { c m }$ and $3 0 - 5 0 ~ \mathrm { c m }$ soil layers
+
+比较 $0 \sim 2 0 ~ \mathrm { c m }$ 和 $3 0 \sim 5 0 \ \mathrm { c m }$ 土层水溶性氟的浓度分布特征可以看出， $0 \sim 2 0 ~ \mathrm { c m }$ 和 $3 0 \sim 5 0 \ \mathrm { c m }$ 土层的水溶性氟含量的分布特征基本吻合，呈现出非常高的一致性，整体表现为湖积台地以北及沙尔沁以东一带为高值区，而位于西北的大黑河湖积平原一带为低值区。
+
+研究区东部主要为蛮汉山及其山前丘陵地带，自新近纪中一晚新世以来的地质历史时期，研究区东部经历了至少4次玄武岩喷发(18],导致大量的含氟气体、粉尘以及岩浆等散落在地表，形成的含氟矿物(萤石、氟磷灰石、黑云母等)逐渐沉积在蛮汉山及湖盆地层内，在经历风化、剥蚀、淋溶等自然演变和相互作用后，氟以离子或化合物的形态不断从这些含氟矿物中分离出来并融入到土壤环境中，成为土壤水溶性氟的主要来源。
+
+# 2.3水－土系统中氟化物分布特征及相关性分析
+
+通过对研究区采集的30组土壤样(表2)的分析， $0 \sim 2 0 ~ \mathrm { c m }$ 土层的水溶性氟最小值和最大值分别为 $5 . 0 7 ~ \mathrm { m g } \cdot \mathrm { k g } ^ { - 1 }$ 和 $1 2 . 5 0 ~ \mathrm { m g ~ \cdot ~ k g ~ ^ { - 1 } ~ }$ ,平均值8.03$\mathbf { m } \mathbf { g } \cdot \mathbf { k } \mathbf { g } ^ { - 1 }$ 。 $3 0 \sim 5 0 ~ \mathrm { c m }$ 土层的水溶性氟最小值和最大值分别为 $4 . 5 0 ~ \mathrm { m g } \cdot \mathrm { k g } ^ { - 1 }$ 和 $1 2 . 5 0 \mathrm { \ m g \cdot k g ^ { - 1 } }$ ,平均值 $7 . 8 0 ~ \mathrm { m g } \cdot \mathrm { k g } ^ { - 1 }$ 。综合比较发现,研究区 $0 \sim 2 0$ cm土层水溶性氟和 $3 0 \sim 5 0 \ \mathrm { c m }$ 土层水溶性氟的极值变化较小，最大值相同，而最小值表现为 $3 0 \sim 5 0 \$
+
+# 表2土壤水溶性氟与浅层地下水中氟化物的统计特征
+
+Tab.2Statistical results of water-soluble fluorine in   
+
+<html><body><table><tr><td colspan="3">soil and shallow groundwater</td></tr><tr><td>指标</td><td>0~20 cm土层30~50cm土层 水溶性氟</td><td>浅层地下 水溶性氟 水中氟</td></tr><tr><td>最小值</td><td>/(mg·kg-1) 5.07</td><td>/(mg·kg-1) /(mg·L-1) 4.50</td></tr><tr><td>最大值</td><td>12.50</td><td>0.15 12.50 7.00</td></tr><tr><td>平均值</td><td>8.03</td><td>7.80 2.10</td></tr><tr><td>标准偏差</td><td>1.83</td><td>2.09 1.94</td></tr><tr><td>变异系数/%</td><td>22.79</td><td>26.79 92.50</td></tr></table></body></html>
+
+cm土层的水溶性氟略低。从整个区域看， $0 \sim 2 0 ~ \mathrm { c m }$ 土层水溶性氟的平均浓度要略高于 $3 0 \sim 5 0 \ \mathrm { c m }$ 土层。所采集30组浅层地下水样品中氟的最小值和最大值分别为 $0 . 1 5 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ 和 $7 . 0 0 \ \mathrm { m g \cdot L ^ { - 1 } }$ ,平均值 $2 . 1 0 \ \mathrm { m g \cdot L ^ { - 1 } }$ ,平均含量已超出我国《地下水质量标准》（GB/T14848－2017）中Ⅲ水质所规定的$1 . 0 0 \ \mathrm { m g \cdot L ^ { - 1 } }$ 上限，表明研究区大部分地区的浅层地下水水质已发生显著性的氟污染。
+
+研究区 $0 \sim 2 0 ~ \mathrm { c m }$ 土层水溶性氟的变异系数为$2 2 . 7 9 \%$ ， $3 0 \sim 5 0 \ \mathrm { c m }$ 土层水溶性氟的变异系数为$2 6 . 7 9 \%$ ,两者变异性均不强，差异化程度较低，表明研究区土壤层中水溶性氟的空间分布较为均匀。浅层地下水中氟的变异系数为 $9 2 . 5 0 \%$ ,属于中等变异，具有一定的分散性，表现为不同区域的浓度差异较大。
+
+研究区浅层地下水主要由东部的蛮汉山丘陵地带向西部的大黑河及黄河沿岸一带流动（图7），地下水流动速度由东向西不断减缓，地下水位埋深也不断降低。
+
+![](images/589f32f3d3130009c5cf4b5660567b671d8c0ff5dc1ab9b7d7bb90882e583ed7.jpg)  
+图7研究区浅层地下水流场特征  
+Fig.7Flow field of shallow groundwater in the study area
+
+研究区南部的湖积台地地区属于本区浅层地下水径流排泄区，地下水位埋藏较浅，大部分地区为$1 \sim 3 \mathrm { ~ m ~ }$ 。地下水位动态变化主要受黄灌和气象因素的影响，以垂直交替作用为主;每年春灌开始后，地下水位会有较大幅度的上升，夏季降雨期也会导致地下水位的起伏，秋季为了翌年保，会再次对农田进行灌溉，地下水位也会随之上升。而地下水位在上升过程中会充分浸润到表层的土壤带，形成土壤－地下水的水力通道，土壤中的可溶性氟会不断的释放到地下水中，导致土壤中的可溶性氟不断向地下水中迁移。此外，由于湖积台地地区地下水径流缓慢，属于地下水的滞留排泄区，有助于地下水中氟化物的富集。而永圣域以北地区由于没有受到黄灌的影响，地下水位动态主要受气象因素和人工开采影响，由于本区干旱少雨，土壤带和地下水未形成有效的水力联系，土壤中的氟无法充分渗入到地下水环境中，因而地下水中的氟化物浓度较低。
+
+# 3讨论
+
+由于研究区 $0 \sim 2 0 ~ \mathrm { c m }$ 土层与 $3 0 \sim 5 0 \ \mathrm { c m }$ 土层水溶性氟的浓度分布特征基本一致，因此在与地下水中氟作对比时不分开论述，仅从土壤层与含水层进行讨论。
+
+从研究区土壤水溶性氟与浅层地下水中氟含量的空间分布特征(图6与图4)对比发现，氟化物高值区均集中在永圣域一黑城一缸房沟一带，属于湖积台地及其北部与湖积平原之间的交错地带；氟化物低值区集中在大黑河沿岸及其以西地带。氟的浓度分布差异主要出现于研究区东部的沙尔沁及其东部地带，表现为土壤中水溶性氟含量较高，而地下水氟含量偏低。从整体来看，土壤层与含水层之间的浓度分布具有较高的相似性，均呈现出东高西低的分布特征。
+
+从地质构造形成和地下水动力条件来看，研究区地下水氟和土壤水溶性氟含量出现相似性较高的分布规律，主要有两方面的原因： $\textcircled{1}$ 从地质沉积时期来看，该区自新近纪中一晚新世以来发生了4次玄武岩喷发，喷发出的一部分含氟气体和尘埃随巨大的喷流进入高空，而后经重力作用沉降或随降水回到地表;另一部分含氟矿物则大量沉积在东部蛮汉山和湖盆地层内，由于氟在自然界中属于强电负性元素，且主要以化合态的形式存在，因而这些含氟矿物(萤石、氟磷灰石、黑云母等)在岩石风化作用下很容易溶解到土壤中，成为土壤和地下水环境的主要氟源。 $\textcircled{2}$ 从地下水动力条件来看，研究区东部蛮汉山一带在水岩相互作用下，以地下水作为载体，不断将岩层中的含氟矿物向下游运移。湖积台地一带由于地势低洼，地下水动力条件差，地下水径流滞缓，逐渐形成了地下水的排泄滞留区；而土壤中沉积的含氟矿物使该区土壤形成较强的供氟能力，在灌溉水、大气降水以及地表水的淋溶作用和水岩相互作用下，土壤中的氟持续向地下水转移。同时，浅层地下水埋深较浅，蒸发浓缩作用强烈，逐渐形成了易于地下水中氟化物富集的水化学环境。
+
+地下水氟与土壤水溶性氟含量的分布差异主要出现在研究区东北部沙尔沁及其以东的蛮汉山前沿丘陵地带，该区碎屑岩地层中含有较高的氟化物，因而土壤中含氟量较高。此外，由于该区处于地下水的上游补给区，沟谷裂隙发育，地下水径流速度较快，土壤中的水溶性氟长期受降雨和水流的迁移转化作用明显，导致含氟矿物溶滤到含水层中后随水流向下游迅速迁移，难以形成聚集效应，造成地下水氟的含量相对较低。
+
+# 4结论
+
+（1）托克托县地区浅层地下水水化学类型主要为 NaCl型,其次为 $\mathrm { C a H C O } _ { 3 }$ 型。地下水中 $\mathrm { C a } ^ { 2 + }$ 与$\mathrm { F } ^ { - }$ 相关程度最高，呈显著负相关, $\mathrm { C a } ^ { 2 + }$ 含量对浅层地下水中氟的赋存影响最大。低TH、偏碱性的地下水环境有利于 $\mathrm { F } ^ { - }$ 的富集。
+
+（2）研究区大部分地区浅层地下水中 $\mathrm { F } ^ { - }$ 含量超出我国《地下水质量标准》（GB/T14848－2017）中Ⅲ水质标准要求的 $1 . 0 0 \ \mathrm { m g \cdot L ^ { - 1 } }$ 上限,表明浅层地下水水质已发生实质性的氟污染，不宜作为生活饮用水源。本区浅层地下水高氟区主要集中在湖积台地上， $\mathrm { F } ^ { - }$ 浓度达 $5 . 0 0 \ \mathrm { m g \cdot L ^ { - 1 } }$ 以上;湖积台地浅层地下水氟含量要高于北部湖积平原地区。
+
+（3）研究区浅层地下水中氟与土壤水溶性氟的浓度分布特征具有较高的相似性，高值区都集中在湖积台地中部及湖积台地与湖积平原湖交界地带，低值区出现在大黑河以及大黑河以西一带。托克托县地区浅层地下水中氟与土壤水溶性氟含量主要受研究区母质岩层和土壤形成时的地球化学环境及地下水动力条件的控制。新近纪中一晚新世以来，东部蛮汉山一带的玄武岩喷发导致大量的氟进入王壤或岩层，成为研究区土壤及地下水中氟化物的主要来源。
+
+# 参考文献（References）：
+
+[1]汤洁,卞建民,李昭阳,等.松嫩平原氟中毒区地下水氟分布规 律和成因研究[J].中国地质,2010,37（3）:614-620.［Tang Jie,Bian Jianmin,Li Zhaoyang,et al.The distribution regularity and causes of fluoride in groundwater of the fluorosis area,Songnen Plain[J].Geology in China,2010,37(3）:614-620.]   
+[2]陈建平,毛宏涛,王明玉,等.沧州深层地下水氟的分布及演化 规律[J].地球与环境,2015,43(6）:607-618.[Chen Jianping, Mao Hongtao,Wang Mingyu,et al.Distribution characteristics and development mechanism of fluorine in deep groundwater in Cangzhou area,China[J].Earth and Environment,2015,43(6）:607- 618.]   
+[3] 姜体胜，杨忠山，王明玉，等.北京南部地区地下水氟化物分布 特征及成因分析[J].干旱区资源与环境，2012，26(3)：96- 100.[Jiang Tisheng,Yang Zhongshan,Wang Mingyu,et al.The distribution characteristics and causes of fluoride in groundwater of southern district,Beijing[J].Journal of Arid Land Resources and Environment,2012,26(3）:96-100.]   
+[4]朱其顺,许光泉.中国地下水氟污染的现状及研究进展[J].环 境科学与管理,2009,34（1）:42-44.［Zhu Qishun,Xu Guangquan.The current situation and research progress of groundwater fluorine pollution,in China[J].Environmental Science and Management,2009,34(1） :42-44.]
+
+[5]蔡贺,郭常来,张梅桂,等.中国东北松嫩平原土壤和地下水中的氟[J].农业科学与技术，2013，14(2):376-383.[CaiHe，
+
+Guo Changlai,Zhang Meigui,et al.Fluorine content in soil and groundwater of Songnen Plain in Northeast China[J].Agricultural Science & Technology,2013,14（2）:376 -383.]   
+[6]李世君,王新娟,周俊,等.北京大兴区第四系高氟地下水分布 规律研究[J].现代地质,2012,26（2）：407－414.[Li Shijun， Wang Xinjuan,Zhou Jun,etal.Distribution law of high fluoride groundwater in Quaternary in Daxing district of Beijing[J].Geoscience,2012,26(2）:407-414.]   
+[7］纳麦提·托合提,张峰,师庆东.克里雅河流域水中氟离子的 空间分布特征[J].干旱区研究,2016,33（5）:1125－1131. [Namat Tohti,Zhang Feng,Shi Qingdong.Spatial distribution of fluorioninwater inthe Keriya River Basin[J].Arid Zone Research,2016,33(5):1125-1131.]   
+[8]冯翠娥,高存荣,王俊涛,等.内蒙古河套平原浅层高铁高氟地 下水分布与成因[J].地球学报,2015,36（1）：67-76.[Feng Cuie,Gao Cunrong,Wang Juntao,et al. Distribution and causes of high-iron and high-fluoride shalow groundwater in the Hetao Plain of Inner Mongolia[J].Acta Geoscientica Sinica,2015,36(1）:67 -76.]   
+[9］何锦,张福存,韩双宝,等.中国北方高氟地下水分布特征和成 因分析[J].中国地质,2010,37(3）:621-626.[He Jin,Zhang Fucun,Han Shuangbao,et al.The distributionand genetic types of high-fluoride groundwater in Northern China[J].Geology in China,2010,37(3）:621-626.]   
+[10]Guo Q,Wang Y,Ma T,et al. Geochemical processes controlling the elevated fluoride concentrations in groundwaters of the Taiyuan Basin,Northern China[J].Journal of Geochemical Exploration, 2007,93(1) :1 -12.   
+[11］鲁孟胜,吴恩江,李明建.鲁西南浅层高氟地下水成因的水文 地球化学研究[J].煤田地质与勘探,2001,29(5）:39-42.[Lu Mengsheng,Wu Enjiang,Li Mingjian.Studyon the hydrogeochemistry genesis of high fluorine shallow-bed groundwater in Southwestern Shandong Province[J].Coal Geology & Exploration,2001,29 (5) :39 -42. ]   
+[12］李亮,吴亚,王焰新,等.大同盆地地方氟病地区土壤中氟的赋 存形态研究[J].安全与环境工程,2014,21(5）:52-57.[Li Liang,Wu Ya,Wang Yanxin,etal.Fluorine speciation in sediments from endemic fluorosis-impacted areas in Datong Basin[J]. Safety& Environmental Engineering,2014,21(5）:52-57.]   
+[13]谢正苗,吴卫红.环境中氟化物的迁移和转化及其生态效应 [J].环境工程学报,1999,7（2）:40-53.[Xie Zhengmiao,Wu Weihong.Translocation and transformation of fluorides in the environment and their biological effects[J].Chinese Journal of Environmental Engineering,1999,7(2）:40 -53.]   
+[14］易春瑶,汪丙国,靳孟贵.水－土－植物系统中氟迁移转化规 律的研究进展[J].安全与环境工程,2013,20(6)：59-64.［Yi Chunyao,Wang Binggu,Jin Menggui.Research progressofmigration and transformation laws of fluoride in groundwater-soil-plant system[J].Safety&Environmental Engineering,2013,20(6）:59
+
+-64.]
+
+[15]朱利霞,尹国勋.焦作地区地下水高氟区土壤中的氟[J].河南理工大学学报（自然科学版），2005，24（5）：366-368.［ZhuLixia,Yin Guoxun.Edaphic fluorine in high section of groundwaterof Jiaozuo area[J].Journal of Henan Polytechnic University(Natu-ral Science）,2005,24(5) :366-368.]
+
+[16］秦兵,李俊霞.大同盆地高氟地下水水化学特征及其成因[J]. 地质科技情报,2012,31（2）：106-111.[Qin Bing,LiJunxia. Hydrochemistry and occurrence of high fluoride groundwater in Datong Basin［J].Geological Science& Technology Information, 2012,31(2):106-111.]
+
+[17」于群英，慈恩，杨林章.皖北地区土壤中不同形态氟含量及其影响因素[J].应用生态学报，2007，18(6)：1333-1340.［YuQunying,CiEn,YangLinzhang.Contentsof different soil fluorineformsin north Anhui and their affecting factors[J].Chinese Jour-nal of Applied Ecology,2007,18(6):1 333-1 340.]
+
+[18]冯海波，董少刚，史晓珑，等.内蒙古托克托县潜水与承压水中 氟化物的空间分布特征及形成机理[J].现代地质，2016，30 (3）:672-679.[FengHaibo,Dong Shaogang,Shi Xiaolong,et al. Thespatial distribution and its formed mechanism of fluoride in the unconfined and confined groundwater of Tuoketuo County,Inner Mongolia[J].Geoscience,2016,30(3）:672-679.]
+
+# Correlation between Fluoride in Shallow Groundwater and Water-soluble Fluoride in Soil in Togtoh County,Inner Mongolia
+
+LI Zheng-kui1， DONG Shao-gang1， ZHANG Tao²， WANG Chao¹， LIU Xiao-bol (1.College of Ecologyand Environment,Inner Mongolia University,Hohhot O10021,Inner Mongolia,China; 2.Hohhot Institute of Environmental Science,Hohhot O1oolO,Inner Mongolia,China)
+
+Abstract：The shallow groundwaterand soil samples were collected from Togtoh Countyof Inner Mongolia to analyze thedistributionandcorrelation of fluoride in shallow groundwater andsoil there.The results showed that the minimum and maximum values of fluoride concentration in shalow groundwater in the study area were $0 . 1 5 ~ \mathrm { m g }$ ： $\mathrm { L } ^ { - 1 }$ and $7 . 0 0 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ respectively ,and the average value was $2 . 1 0 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ . Most values of the fluorine concentration in shallow groundwater were higher than $1 . 0 0 \ \mathrm { m g \cdot L ^ { - 1 } }$ ,and the shallow groundwater in most regions in the county was notsuitable as the sourceof drinking water.Holisticaly,theconcentrationoffluoride inshalow groundwater inthe lacustrine platform in the southeast washigherthan thatin the alluvial plain inthe northwest.The activity of $\mathrm { C a } ^ { 2 + }$ in the shalow groundwater environment with low TH(total hardness）value and alkalescence could decrease and be conducive to the enrichment of $\mathrm { F } ^ { - }$ in shallow groundwater. The spatial distribution of fluoride in shallowgroundwater was quite similar to that of water-soluble fluorine in soil.A large amount of fluorine-rich minerals deposited inthe lacustrine platformand the piedmontofthe Manhan Mountain were the important sources of fluoride in soil and shallow groundwater in this area.
+
+Key words:groundwater;fluoride；occurrence regularity；water-soluble fluorine； Togtoh County； Inner Mongo-lia

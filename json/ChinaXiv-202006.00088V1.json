@@ -1,0 +1,771 @@
+[
+    {
+        "type": "text",
+        "text": "编码强度对字体大小效应的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵文博 姜英杰 王志伟 胡竞元(东北师范大学心理学院，长春130024)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要本研究采用三个实验考察编码强度对字体大小效应的影响，探讨由于知觉特征而引发的元认知错觉的内在产生机制(实验1)与有效的矫正措施(实验2和实验3)。结果发现：(1)大字体词语的知觉流畅性显著优于小字体，并且贝叶斯多层中介分析结果表明，知觉流畅性对字体大小效应起部分中介作用(实验 1);(2)随着编码强度的增加，由字体大小引起的学习判断错觉逐渐消失(实验 2 和实验 3)。以上结果表明，刺激的知觉特征(字体大小)对个体学习判断的影响，随编码强度激活线索的增加而逐渐减弱。这一结果为真实教学情境中提高学习者的编码强度，进而削弱学习判断对知觉特征线索的依赖，并准确地监测自身的学习进程提供了科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词学习判断；字体大小效应；编码强度；元认知错觉 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号 B842",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1前言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "学习判断(judgments of learning,JOLs)是指学习者对所学项目在未来测验中被成功提取的可能性进行的元认知评估(Tauber& Dunlosky,2016)。学习者往往依据自己当前的学习判断制定下一步的学习计划并分配认知资源(Flavell,1979)，例如，调整学习时间分配，决定是否重学或何时停止学习等(Nelson,Dunlosky,Graf,& Narens,1994)。因此，学习判断的准确性直接影响个体的学习策略选择，进而影响自我调控学习的效率(Rawson,O'Neil,& Dunlosky,2011)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "大量研究表明，学习判断本质上是一种推论，即个体在做出学习判断时会利用不同的线索预测自己未来的回忆成绩(陈功香，傅小兰,2004)。需要指出的是，并不是所有的线索都能有效地帮助学习者作出准确的学习判断(Koriat,1997)。例如，知觉特征(perceptual features)线索往往会导致个体的学习判断出现严重的偏差。Rhodes 和Castel(2008)首次揭示了知觉特征线索对学习判断的影响。研究中，被试需要学习不同字体大小 $( 1 8 \\mathrm { p t } \\nu s . 4 8 \\mathrm { p t } )$ 的单词，并立即进行学习判断，评估自己在随后测验中能够回忆起该词的可能性 $( 0 \\% \\sim 1 0 \\% )$ ，在学完所有单词后参加自由回忆测试。结果发现，大字体单词和小字体单词的实际回忆成绩并无显著差异，但被试却给予了大字体单词更高的学习判断值。换而言之，虽然大字体项目和小字体项目的真实记忆成绩相同，但是被试却误认为自己成功识记大字体项目的可能性更高，该现象被称为字体大小效应(the font size effect)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "字体大小效应反映出元记忆和记忆之间的双重分离(dissociation)，这是一种基于项目知觉特征而引发的元认知错觉(metacognitive illusion; Rhodes & Castel,2008；Yang,Huang，&Shanks,2018)。如何能够有效减小元认知错觉，一直是研究者普遍关注的课题(McCabe &Soderstrom,2011; Soderstrom& Rhodes,2014; Yan,Bjork,& Bjork,2016)。因此，本研究以字体大小效应为切入口，考察能否通过提高信息加工深度的方式矫正基于知觉特征而引发的学习判断错觉。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "欲有效矫正基于知觉特征而引发的学习判断错觉，其前提条件是厘清知觉特征影响学习判断的内在机制。目前，字体大小效应的产生机制尚未探明且存在较大的争议。部分研究认为，知觉流畅性是字体大小效应的主要成因(Bjork,Dunlosky,& Kornell,2013;Rhodes &Castel,2008)。知觉流畅性来源于个体对刺激低水平的知觉加工过程，代表个体关于知觉信息难易度的主观体验(张旭锦,2010)。在以往字体大小效应研究中，研究者常采用主观的自我报告法和客观的任务反应时与判断准确率作为知觉流畅性的测量指标。例如，Yang 等人(2018)采用连续识别(continuous identification,CID)任务考察知觉流畅性在字体大小效应中的作用。研究发现，与小字体单词相比，大字体单词的识别反应时更短，表明大字体单词比小字体单词具有更高的知觉流畅性。该研究通过贝叶斯中介分析发现，知觉流畅性在字体大小和学习判断之间起部分中介作用。与 Yang 等人(2018)的研究结果不同，Mueller,Dunlosky,Tauber 和 Rhodes (2014)采用真假词判断(lexical decision)任务却发现大小单词之间的加工流畅性并不存在差异，表明字体大小效应与知觉流畅性无关。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为进一步考察知觉流畅性在字体大小效应中的作用，Yang 等人(2018)直接比较了CID任务与真假词判断任务测定项目知觉流畅性的有效性。CID任务是一种视知觉识别任务，被试需要在识别出呈现的单词后立即按键反应(Ward,Berry,& Shanks,2013)。真假词判断任务要求被试尽可能快而准确地辨别屏幕上呈现的字符串为真词或假词，并作出相应的按键反应。结果发现，在CID 任务中，所有被试识别大字体单词的速度均显著快于小字体单词。然而，在真假词判断任务中，大字体单词和小字体单词的判断反应时却没有差异。Yang 等人(2018)认为造成这种测量结果差异的主要原因是，CID 任务仅涉及个体对项目的知觉加工过程，所获取的连续识别反应时并未受到额外因素(例如语义加工或按键选择)的潜在干扰(Chumbley& Balota,1984; Yap,Sibley,Balota,Ratcliff,& Rueckl,2015)。以上结果表明，CID任务对知觉流畅性的测量具有更高的灵敏度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "尽管Yang 等人(2018)的研究结果表明，CID 任务能够更有效地测量出项目之间的知觉流畅性差异，并为知觉流畅性影响学习判断这一现象提供了直接的研究证据。但是，其研究中仍存在不可忽视的设计缺陷。例如，其研究设计可能会显著放大知觉流畅性对学习判断的影响，即夸大了知觉流畅性在字体大小效应中的中介作用。具体而言，该研究要求被试在成功识别出目标词后立即进行学习判断，由于大字体和小字体单词间的识别反应时存在显著差异，这种即刻学习判断将使刺激的流畅性差异更加凸显(salience)且更容易捕获个体的注意，进而促使被试更加依赖知觉流畅性作出学习判断(Castel,2008)。因此，知觉流畅性是否是字体大小影响学习判断的内在机制，这一问题仍然存在较大的争议。为了弥补上述研究中存在的不足，本研究将分离CID 任务和学习判断任务，进而考察知觉流畅性是否在字体大小效应中发挥中介作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "近期研究发现，人们可以整合多种线索用于学习判断(Undorf&Broder,2019;Undorf,Sollner,& Broder,2018)。字体大小效应的产生是否与除知觉流畅性以外其他深层线索的激活不足有关？对以往字体大小效应的研究进行分析，研究者发现这种元认知错觉的产生还可能与学习时编码强度(encoding strength)不足、诊断性线索(diagnostic cues)的激活不充分有关。在以往研究中，被试的自由回忆正确率均较低 $( 0 . 1 2 \\sim 0 . 2 5 )$ 。例如，Rhodes 和 Castel(2008)要求被试学习每个单词5s并对所学单词进行学习判断，最后参加自由回忆测试。在测试中，个体的自由回忆正确率仅为0.16，相似的结果在 Mueller 等人(2014)和 Yang 等人(2018)的研究中重复出现。需要指出的是，这种编码强度问题并不是由于学习时间不足所导致。Rhodes和 Castel(2008)的实验中，每个单词的学习时间已长达5s，但是个体可能并没有充分利用所有的学习时间对单词进行持续性编码。换句话说，被试的编码时间并不总等于所学项目的呈现时间。被试可能在所学项目消失之前就提前结束了编码加工，或是在长时间的学习过程中出现注意力不集中或心智游移(mind wandering)等现象(Cooper& Pantle,1967; Mueller et al.,2014; Seli, Risko, Smilek,& Schacter, 2016)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据线索利用模型的观点，学习判断出现偏差的主要原因是个体在做出学习判断时利用了与真实记忆强度无关的线索(Benjamin,Bjork,& Schwartz,1998;Koriat,1997)。当编码强度较弱时，学习材料的知觉特征线索容易对学习判断产生误导作用，进而出现字体大小效应错觉。增强信息编码强度能够激活更多和更有效的线索(如语义线索)，这些线索与个体真实的记忆强度相关且诊断性更高，此时则弱化了知觉特征线索对学习判断的影响。为验证该推断，本研究将分别考察增加有效学习时间(并要求被试在学习过程中进行复述，以确保被试充分利用学习时间对信息进行持续性编码加工)和提高语义加工深度(即要求被试对学习词进行造句)能否有效减少或消除字体大小效应。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本研究的主要目标为：(1）考察知觉流畅性是否在字体大小效应中发挥中介作用;(2）探讨增加编码强度是否能够有效矫正由于字体大小而引发的学习判断错觉。为达成上述研究目标，本研究共开展了三个实验。实验1通过将CID 任务和学习判断任务进行分离，以减小知觉流畅性的凸显性，从而考察知觉流畅性是否为字体大小效应的内在产生机制之一。实验2通过增加有效学习时间的方式促进编码强度，考察增加编码强度能否弱化或消除字体大小效应错觉。实验3通过增强语义加工深度的方式促进编码强度，考察深层线索(语义线索)的激活对字体大小效应的影响(Lupker,Harbluk,& Patrick,1991)。对以上问题进行探讨，有助于揭示字体大小效应的内在机制，并为真实教学情境中矫正基于知觉特征而引起的元认知错觉提供科学借鉴。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 实验1：知觉流畅性在字体大小效应中的作用",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如上所述，鉴于Yang 等人(2018)研究中所存在的不足，实验1将CID任务和学习判断任务分别实施，以降低知觉流畅性的凸显性，进而考察知觉流畅性是否为字体大小效应的内在产生机制。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1 方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.1被试 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验1招募在校大学生28名，排除2名操作失误的被试，剩余被试 26名。其中男生11名，平均年龄为21.06 岁( $\\cdot S D = 2 . 4 4 )$ 。被试均报告裸眼或矫正视力正常，实验结束后被试获得一定的报酬。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.2仪器和材料",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验程序在奔腾IV的 IBM微机上运行，学习词在22英寸CRT彩色纯平显示器上呈现。屏幕分辨率为 $1 2 8 0 \\times 1 0 2 4$ 像素，刷新率为 $8 5 \\mathrm { H z }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验材料从《现代汉语频率词典》中选取双字词语64个，词频控制在 $0 . 0 0 0 3 3 \\sim 0 . 0 0 8 9 7$ 情感上保持中性，笔画数在 $1 0 \\sim 2 1$ 画。其中8个词语用于练习试次(练习试次数据不纳入数据分析)，余下词语用于正式实验。正式实验中的48个词语被随机分为a、b两组，每组 24个学习词，一组以9pt (小字体)呈现，另一组词以 70pt (大字体)呈现。实验中字体大小和呈现顺序在被试间进行平衡(Huet al.,2015)。对实验材料进行独立样本 $t$ 检验，结果显示两组词语在词频和笔画数方面，均不存在显著差异 $( p \\mathrm { s } > 0 . 2 0 )$ 。除以上词语外，另外8个词语分别用作首因效应缓冲词和近因效应缓冲词，缓冲词以大字体和小字体均等概率呈现，并且缓冲词数据不纳入最终数据分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.3 实验设计",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验1采用单因素被试内设计(字体大小：小字体vs.大字体)。因变量为识别反应时、学习判断值和自由回忆正确率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.4 实验程序",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验程序采用Eprime2.0编写。实验前，被试坐在距离电脑屏幕约 $7 0 \\mathrm { c m }$ 的位置，眼睛平视屏幕中心。被试首先完成8个练习试次，以理解实验任务。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "正式实验中，被试需要分别完成两个任务：CID任务和学习判断任务。如图1所示，在CID 任务中，屏幕中央首先呈现一个30pt的注视点，呈现时间为0.5s，然后目标词(例如，字典)和掩蔽刺激()以相同字体大小(9p 或 70pt)交替呈现。每个目标词共有 14 次识别循环。第一次循环中目标词呈现 $1 7 \\mathrm { m s }$ ，掩蔽刺激呈现 $2 3 3 \\mathrm { m s }$ ；第二次循环中，目标词呈现 $3 4 \\mathrm { m s }$ 掩蔽刺激呈现 216ms；以此类推，目标词的呈现时间以17ms 递增，而掩蔽刺激的呈现时间以 $1 7 \\mathrm { m s }$ 递减。如此循环，直到被试做出按键反应或14 次识别循环结束。如果被试识别出目标词则需要立即按下空格键，此时目标词和掩蔽刺激消失，被试口头报告识别结果，电脑记录识别反应时。目标词以伪随机顺序呈现，以确保相同字号的目标词不得连续出现超过两次。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9e2ac162ed2da891a6672d37d1fe5a68f23b2d1c661975beed97cf69e1ecd454.jpg",
+        "img_caption": [
+            "图1CID任务流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "学习判断任务在被试完成CID任务后进行，该任务包括三个阶段：学习阶段、干扰阶段和自由回忆测试。由于被试先前已完成CID 任务并根据预实验结果，实验1将学习词的呈现时间设置为 2s。在学习阶段，屏幕中央呈现单个9pt 或 70pt 的学习词，要求被试对其进行学习，并尽力识记所学词语。每个学习词消失后，被试需要点击屏幕上的进度条进行学习判断，评估自己在随后测验中能够回忆起该词的可能性有多大 $( 0 \\sim 1 0 0 )$ 。学习词以伪随机顺序呈现，以确保相同字号的词语不得连续出现超过两次。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "学习阶段结束后，干扰阶段立即开始。屏幕中央随机呈现一个三位数字，被试需要做连续倒减3的数学运算，并口头报告运算结果，干扰阶段持续时间为 $3 \\mathrm { m i n }$ 。干扰阶段结束后，被试开始自由回忆测试,在5min内尽可能多地回忆出所学词语。被试需要在答题纸上作答，词语的回忆顺序不做要求。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.1自由回忆正确率与学习判断值",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在CID 任务中，分别计算识别正确率和反应时两个指标。识别正确率计算公式如下：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由于CID任务难度较低，被试的识别正确率为 $9 7 . 8 4 \\%$ ，出现天花板效应。因此，实验1 选用识别反应时作为衡量知觉流畅性的指标。首先剔除识别错误或未在规定时间内(即 14次识别循环期间)做出按键反应的试次，然后分别计算正确识别的大字体和小字体词语的平均反应时。不同字体大小词语的识别反应时、自由回忆正确率和学习判断值见表1。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/a8a29654422e34115a5f6b50c1f5644aaea9160f8317134cea778f2741b9e842.jpg",
+        "table_caption": [
+            "表1不同字体大小词语的自由回忆正确率、学习判断值和识别反应时 $( M \\pm S D )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>字体大小</td><td>自由回忆正确率</td><td>学习判断值</td><td>识别反应时 (ms)</td></tr><tr><td>小字体</td><td>0.26 ± 0.07</td><td>48.63 ± 12.69</td><td>1864.77 ± 310.97</td></tr><tr><td>大字体</td><td>0.27± 0.07</td><td>61.68 ± 13.01</td><td>1519.95 ± 342.17</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "与前人研究结果一致，大字体和小字体词语的自由回忆正确率并无显著差异， $t ( 2 5 ) =$ 0.77 $, p = 0 . 4 5$ (见图2右侧)，但是大字体词语比小字体词语获得了更高的学习判断值， $t ( 2 5 ) =$ 5.27, $p { < } 0 . 0 0 1$ , Cohen's $d = 1 . 0 1$ (见图2左侧)。以上研究结果重复验证了经典的字体大小效应。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/70b2cbfebe493807c6d243040f4aa2a49707da2a4d944bb47ec443758389025c.jpg",
+        "img_caption": [
+            "图2大字体和小字体词语的学习判断值和自由回忆正确率"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2.2识别反应时",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "被试识别大字体词语的速度显著快于小字体词语(见表 1), $t ( 2 5 ) = 7 . 6 3 , p < 0 . 0 0 1$ ,Cohen's$d = 1 . 0 5$ 。为进一步考察知觉流畅性在字体大小效应中的作用，参照Yang 等人(2018)的数据统计方法，采用Rbmlm 数据分析包对数据进行贝叶斯多层中介分析(Vuorre,2017)。如图 3所示，中介分析以字体大小(小字体 $= 0$ ，大字体 $= 1 ^ { \\cdot }$ )为自变量，识别反应时为中介变量，学习判断值为因变量。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/bdaecad83a3bbf3d8f9d36758993f5ccdbbb76738343e8bb905a3b6c7dece6fc.jpg",
+        "img_caption": [
+            "图3知觉流畅性在字体大小与学习判断值间中介效应模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "结果发现，字体大小对学习判断的总效应量为13.05, $9 5 \\% \\mathrm { C I } = [ 7 . 8 9 , 1 8 . 2 3 ]$ ，字体大小通过识别反应时(知觉流畅性)对学习判断间接效应量为 $0 . 7 9 , 9 5 \\% \\mathrm { C I } = [ 0 . 0 7 , 1 . 5 5 ]$ ，表明大字体词语通过增加知觉流畅性来提高学习判断值。知觉流畅性能够解释 $6 \\%$ $9 5 \\% \\mathrm { C I } = [ 1 \\% ,$ （204号$1 4 \\% ] \\AA$ 的字体大小效应。字体大小对学习判断的直接效应量为12.27, $9 5 \\% \\mathrm { C I } = [ 7 . 1 2 , 1 7 . 4 3 ]$ 说明知觉流畅性并不能解释全部的字体大小效应。换而言之，控制识别反应时后，字体大小对学习判断的直接影响仍然显著。详细中介分析结果见表2。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/7c681e4da61fae2908a73de57846f793629d54278bcde9f31dfe972f057fc1dc.jpg",
+        "table_caption": [
+            "表2知觉流畅性在字体大小与学习判断值间中介分析结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>字体大小－识别反应时－学习判断值</td><td>回归系数(β)</td><td>标准误(SE)</td><td>95% CI</td></tr><tr><td>字体大小对识别反应时的效应 (a)</td><td>-0.34</td><td>0.04</td><td>[-0.41,-0.27]</td></tr><tr><td>识别反应时对学习判断值的效应 (b)</td><td>-2.32</td><td>1.03</td><td>[-4.32,-0.31]</td></tr><tr><td>字体大小对学习判断值的总效应(c)</td><td>13.05</td><td>2.63</td><td>[7.89,18.23]</td></tr><tr><td>字体大小对学习判断值的直接效应 (c)</td><td>12.27</td><td>2.63</td><td>[7.12,17.43]</td></tr><tr><td>识别反应时在字体大小效应中的中介效应(me)</td><td>0.79</td><td>0.37</td><td>[0.07,1.55]</td></tr><tr><td>中介效应百分比 (pme)</td><td>6%</td><td>4%</td><td>[1%,14%]</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3 讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "实验1发现，虽然字体大小对自由回忆成绩无影响，但被试却给予了大字体词语更高的学习判断值，即出现字体大小效应(e.g.,Rhodes & Castel,2008;Mueller et al.,2014)。通过识别反应时可以看出，大字体词语的知觉流畅性显著优于小字体词语。为减小知觉流畅性在即刻学习判断中的凸显性，实验1将CID任务和学习判断任务进行了分离，研究结果表明知觉流畅性的间接效应为 $0 . 7 9$ ， $9 5 \\% \\mathrm { C I } = [ 0 . 0 7 , 1 . 5 5 ]$ ，该结果略低于Yang等人(2018)观察到的间接效应( $0 . 8 4 , 9 5 \\% \\mathrm { C I } = [ 0 . 3 1 , 1 . 5 0 ] )$ 。以上研究结果差异可能来源于抽样误差，另外一种解释是本研究将CID任务和学习判断任务进行了分离，降低了知觉流畅性的凸显性。虽有部分差异，但两项研究均发现，知觉流畅性能够部分中介字体大小效应，说明知觉层面的线索在字体大小和学习判断之间起关键作用。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3实验2：有效学习时间对字体大小效应的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在以往字体大小效应的研究中，被试仅需在限定时间内学习词语，但研究范式并不能确保被试充分利用规定的学习时间对学习材料进行编码。例如，当学习材料呈现时间较长时，被试可能出现注意不集中或提前结束学习等情况，导致被试并没有利用全部的呈现时间进行学习(Mueller et al.,2014; Seli et al.,2016)。因此，实验2在限定学习时间的基础上，要求被试对屏幕上呈现的词语进行复述，以确保被试能够充分利用全部的学习时间进行编码加工(Lupker et al.,1991;Mulligan,Buchin,&West,2019)。同时，复述操作也是为了防止被试利用多余的学习时间进行精细化语义加工，避免加工深度对实验结果产生影响。根据线索利用模型，个体进行学习判断时会对多种线索进行比较，并挑选出更具有诊断性的线索加以利用，进而形成学习判断(Koriat,1997)。因此，实验2通过增加有效学习时间来提高编码强度，进而探究该方法能否削弱知觉特征线索对学习判断的误导作用。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1 方法",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 被试",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "实验2 招募在校大学生75名，其中男生33名，平均年龄为22.01岁 $( S D = 2 . 7 0 )$ 。被试均报告裸眼或矫正视力正常，实验结束后被试将获得一定报酬。被试被随机分为三组，每组25人。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1.2仪器和材料",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "同实验1。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1.3实验设计",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "实验2 采用 2(字体大小：小字体 vs.大字体) $\\times 3$ (学习时间:2s vs.4svs.8s)混合实验设计。字体大小为被试内变量，学习时间为被试间变量。因变量为自由回忆正确率和学习判断值。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1.4实验程序",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "实验2的程序与实验1基本一致，但是实验2不包含CID任务。被试仅需参加学习判断任务，包括学习阶段、干扰阶段和自由回忆测试。在学习阶段，被试随机分配到三种学习时间条件下，分别为2s、4s 和8s。被试每学完一个词语后均做学习判断 $( 0 \\sim 1 0 0 )$ 。值得注意的是，如上所述，为了使被试能够充分利用学习时间，实验2要求被试以每秒一次的速度对屏幕上呈现的词语进行复述(在词语的下方会出现同等大小的闪烁星号\\*\\*，被试需要按照星号的闪烁频率进行口头复述)。主试对被试的复述报告进行记录，以确保被试遵循实验要求(Lupker etal.,1991)。学习阶段结束后，被试开始分心任务(倒减3)和自由回忆测试，与实验1相同。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2结果与分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "三种学习时间条件下，大字体和小字体词语的自由回忆成绩和学习判断值描述统计结果见表3。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/0dc21f553890babcb32e63a075062c35254b6cd013c17bb0b5dcd2e80fb81ea3.jpg",
+        "table_caption": [
+            "表3三种学习时间条件下不同字体大小词语的回忆成绩和学习判断值 $( M \\pm S D )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">学习时间</td><td colspan=\"2\">自由回忆正确率</td><td colspan=\"2\">学习判断值</td></tr><tr><td>小字体</td><td>大字体</td><td>小字体</td><td>大字体</td></tr><tr><td>2s (n=25)</td><td>0.16 ± 0.06</td><td>0.15 ± 0.05</td><td>50.83 ± 11.93</td><td>64.91 ± 13.53</td></tr><tr><td>4s (n=25)</td><td>0.26 ± 0.05</td><td>0.27 ± 0.07</td><td>45.12 ± 13.02</td><td>57.80 ± 17.60</td></tr><tr><td>8s (n =25)</td><td>0.34 ± 0.17</td><td>0.34 ± 0.18</td><td>50.97 ± 18.97</td><td>54.61 ± 17.89</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2.1自由回忆成绩",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "以自由回忆成绩作为因变量进行 2(字体大小：小字体 vs．大字体) $\\times 3$ （学习时间：2s vs.4s vs.8s)混合方差分析。结果发现，学习时间的主效应显著， $F ( 2 , 7 2 ) = 9 . 8 8$ $p < 0 . 0 0 1$ ， ${ \\mathfrak { \\eta } } _ { \\mathfrak { p } } ^ { 2 } =$ 0.36。2s学习时间条件下的自由回忆正确率显著低于4s和8s学习条件下的正确率 $( p < 0 . 0 0 1 )$ 但4s和8s学习条件之间的自由回忆正确率无显著差异 $( p = 0 . 1 1 )$ 。字体大小的主效应以及两者之间的交互作用均不显著 $( p \\mathbf { s } > 0 . 5 )$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2.2学习判断值 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "以学习判断值作为因变量进行 2(字体大小：小字体 vs.大字体) $\\times 3 -$ （学习时间：2svs.4svs.8s)混合方差分析。结果发现，大字体词语的学习判断值显著高于小字体词语， $F ( 1 , 7 2 ) =$ 62.07, $p < 0 . 0 0 1$ ， ${ \\mathfrak { \\eta } } _ { \\mathfrak { p } } ^ { 2 } = 0 . 4 6$ 。学习时间的主效应不显著， $F ( 2 , 7 2 ) = 1 . 3 2 , p = 0 . 2 7$ 。重要的是，学习时间和字体大小两者之间的交互作用显著， $F ( 2 , 7 2 ) = 6 . 4 6 , p = 0 . 0 0 3$ ${ \\mathfrak { \\eta } } _ { \\mathfrak { p } } ^ { 2 } = 0 . 1 5$ (见图4)。简单效应分析发现：在2s和4s学习时间条件下，大字体词语的学习判断值显著高于小字体词语 $( p \\mathbf { s } < 0 . 0 0 1 )$ 。计算每位被试的大字体和小字体词语之间的学习判断差值，以此差值作为衡量每位被试出现字体大小效应的指标，并进行组间比较，考察增加学习时间对字体大小效应的影响。结果显示，2s和4s学习时间条件下的字体大小效应显著大于8s学习时间条件下的字体大小效应 $( p _ { 1 } = 0 . 0 0 1$ $p _ { 2 } = 0 . 0 2 )$ ，但2s和4s 两种条件之间的字体大小效应无显著差异（204 $( p = 0 . 9 7 )$ 。值得强调的是，虽然增加学习时间能够削减字体大小效应错觉，但8s 学习时间条件下的字体大小效应仍然显著存在， $t ( 2 4 ) = 2 . 8 7 , p = 0 . 0 1$ , Cohen's $d = 0 . 2 0$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/35641ca075836f768f1b220ed9cbb7fca0654acd112d3ced246596ad7c1a973a.jpg",
+        "img_caption": [
+            "图4不同学习时间和字体大小词语的学习判断值"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3 讨论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "实验2结果表明，在学习时间较短时，知觉特征(即字体大小)对个体的学习判断具有较强的误导性作用。但是，随着有效学习时间的增加，字体大小对学习判断的影响逐渐减弱。增加有效学习时间可能激活个体更多关于记忆强度的线索，并将这些线索用于形成学习判断，因此知觉特征线索对学习判断的影响被削弱，导致字体大小效应出现减小的趋势。以上结果与线索利用模型的理论假设相一致，学习判断存在对多种线索比较加工的过程(Koriat,1997)。值得注意的是，虽然增加学习时间能够减小知觉特征线索的影响，但在8s 学习时间条件下，字体大小效应错觉仍然显著存在。因此，实验3将进一步明确激活线索的类型，通过提高加工深度进而增强学习者编码强度，考察深层线索(如语义线索)的激活对字体大小效应的影响。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4实验3：加工深度对字体大小效应的影响",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "以往研究发现，激活项目相关的情景信息可以提高元认知监测的准确性(Soderstrom &Rhodes,2014)。并且，与操控学习时间相比，提高加工深度是更直接且有效操控编码强度的方式，深层加工的学习方式将激活更多的线索，进一步削弱知觉特征线索对学习判断的误导作用(Hertzog,Dunlosky,& Sinclair,2010; Lupker etal.,1991)。实验 3 将明确激活线索的类型(即语义线索)，考察其对字体大小效应的影响。在深层加工条件下，被试的学习方式为造句，造句将激活项目的语义信息，增加编码强度；浅层加工条件对被试的学习方式不做要求(罗劲，林仲贤,2000)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.1 方法",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.1.1 被试",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "实验3招募在校大学生50名，其中男生20名，平均年龄为22.49 岁( $\\mathrm { \\Delta } S D = 2 . 6 0 )$ 。被试均报告裸眼或矫正视力正常，实验结束后被试将获得一定的报酬。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.1.2仪器和材料",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "同实验1。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.1.3 实验设计",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "实验3采用 2 (字体大小：小字体 vs.大字体) $\\times 2$ (加工深度：深层加工 vs.浅层加工)混合实验设计。字体大小为被试内变量，加工深度为被试间变量。因变量为自由回忆正确率和学习判断值。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.1.4实验程序",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "在深层加工条件下，被试采用造句的学习方式；浅层加工条件则不对学习方式做要求。在学习阶段开始前，造句组指导语告知被试，屏幕中央会呈现一个双字词语，请对该词语进行造句。每个词语呈现时间为4秒，被试需要在呈现时间之内完成造句，并尽最大努力识记所学词语；控制组指导语告知被试，屏幕中央会呈现一个双字词语，每个词语呈现时间为4秒，请尽最大努力识记所学词语。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "正式实验包括学习阶段、干扰阶段和自由回忆测试。学习阶段，每个词语的呈现时间为4s，呈现顺序伪随机。学完每个词语后，被试均作出 $0 \\sim 1 0 0$ 的学习判断。学习阶段结束后，被试开始分心任务和自由回忆测试。分心任务和自由回忆测试与实验1相同。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.2结果与分析",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "两种加工深度条件下，大字体和小字体词语的自由回忆成绩和学习判断值的描述性统计结果见表4。",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/f2e69dd0a453416471297337134473de29c28ff41a507a75af0500e3a549f022.jpg",
+        "table_caption": [
+            "表4 两种加工深度条件下不同字体大小词语的回忆成绩和学习判断值 $( M \\pm S D )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">加工深度</td><td colspan=\"2\">自由回忆正确率</td><td colspan=\"2\">学习判断值</td></tr><tr><td>小字体</td><td>大字体</td><td>小字体</td><td>大字体</td></tr><tr><td>深层加工(n =25)</td><td>0.42 ± 0.09</td><td>0.42 ± 0.14</td><td>56.42 ± 14.53</td><td>56.96 ± 15.16</td></tr><tr><td>浅层加工(n= 25)</td><td>0.19±0.08</td><td>0.20 ±0.08</td><td>45.77 ± 15.18</td><td>60.16 ± 15.08</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.2.1自由回忆成绩",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "以自由回忆正确率作为因变量进行 2(字体大小：小字体 vs.大字体) $\\times ~ 2 0$ 加工深度：深层加工vs．浅层加工)混合方差分析。结果发现，加工深度的主效应显著， $F ( 1 , 4 8 ) = 6 7 . 6 6 , p$ $< 0 . 0 0 1$ ， ${ \\mathfrak { \\eta } } _ { \\mathfrak { p } } ^ { 2 } = 0 { . } 5 9$ ，深层加工条件的自由回忆正确率显著高于浅层加工条件。字体大小主效应和两者之间的交互作用均不显著 $( p \\mathbf { s } > 0 . 5 )$ 。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "通过独立样本 $\\mathbf { \\chi } _ { t }$ 检验比较实验2中 4s 学习时间条件(对学习词进行复述)和实验3中浅层加工条件(学习词呈现时间为4s且对学习方式不做要求)之间的自由回忆成绩,结果发现，实验3中浅层加工条件的回忆成绩( $M = 0 . 1 9$ ， $S D = 0 . 0 7 _ { . }$ )显著低于实验2中4s学习时间条件下的回忆成绩 $( M = 0 . 2 6 , S D = 0 . 0 5 )$ ， $t ( 4 8 ) = 3 . 7 3 , p = 0 . 0 0 1$ ,Cohen's $d = 0 . 8 7$ 。以上结果表明,在长时间呈现学习材料的条件下，如果不要求被试进行复述，个体的编码强度不足，学习会伴随分心、注意力不集中或提前终止编码加工等现象。该结果证明了实验2中复述操作的有效性。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.2.2学习判断值 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "以学习判断值为因变量进行 2(字体大小：小字体 vs.大字体) $\\times ~ 2 ( \\$ 加工深度：深层加工vs．浅层加工)混合方差分析。结果发现，字体大小的主效应显著， $F ( 1 , 4 8 ) = 2 9 . 2 0 , p < 0 . 0 0 1$ ${ \\mathfrak { \\eta } } _ { \\mathfrak { p } } ^ { 2 } { = } 0 . 3 8$ ，大字体词语的学习判断值显著高于小字体词语。加工深度的主效应不显著， $F ( 1 , 4 8 )$ （204$= 0 . 8 7$ $p = 0 . 3 6$ 。加工深度和字体大小两者的交互作用显著， $F ( 1 , 4 8 ) = 2 5 . 1 4$ $p < 0 . 0 0 1$ ${ \\mathfrak { n } } _ { \\mathfrak { p } } ^ { 2 } =$ 0.34(见图5)。简单效应分析发现：在浅层加工条件下，大字体词语的学习判断值显著高于小字体词语 $( p < 0 . 0 0 1 )$ ，即存在字体大小效应；然而，在深层加工(造句组)条件下，大字体和小字体词语的学习判断值无显著差异 $( p = 0 . 6 1 \\dot { }$ )，即字体大小效应消失。",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/b6cd946dba2c7efc8749ff0ed8c9fe89244429b703fc4fb341d11f6f62a93926.jpg",
+        "img_caption": [
+            "图5不同加工深度和字体大小词语的学习判断值"
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.3 讨论",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "实验3的研究结果与研究假设相一致，随着加工深度的提高，由于知觉特征而引起的字体大小效应消失。浅层加工时，个体的学习判断依赖于知觉特征线索，但是这种线索具有误导性，不利于学习者进行准确的元认知监测;深层加工时，造句激活了词语的语义信息线索，并削弱了知觉特征对学习判断的误导作用。以往研究发现激活项目自身以外的信息会降低元认知监测的错觉，但是并未完全消除(McCabe＆ Soderstrom,2011； Soderstrom& Rhodes,2014)。造成与先前研究结果不一致的原因，可能是本研究明确激活了语义信息，而先前研究未对激活信息的具体类型进行区分，激活信息的类型和具体性可能是减少或消除元认知错觉的关键因素。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5总讨论",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "本研究考察编码强度对字体大小效应的影响，探究字体大小效应的内在产生机制及有效的矫正措施。实验1采用CID 任务考察知觉流畅性在字体大小效应中的作用。研究结果发现，大字体词语的识别速度显著快于小字体词语。进一步的贝叶斯多层中介分析发现，知觉流畅性(识别反应时)在字体大小和学习判断值之间起部分中介作用，这一结果揭示出知觉流畅性是字体大小效应产生的部分基础，并说明知觉层面的线索在字体大小和学习判断之间的作用，为流畅性假说提供了直接支持证据。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "实验2发现，字体大小对学习判断的影响随着有效学习时间的增加而不断减弱，表明增长有效学习时间能够减少字体大小效应错觉。其主要原因是，随着有效学习时间的增加，个体将寻找更多与自身真实记忆强度相关的线索并加以利用，进而降低了学习判断对知觉特征线索的依赖。但值得强调的是，在8s学习时间条件下，字体大小效应虽然被削弱，但依然显著存在。实验3进一步明确激活线索的类型(即语义线索)以矫正字体大小效应，结果表明，在浅层加工条件下，学习判断仍容易受到字体大小的误导，出现字体大小效应；但是，在深层加工(造句)条件下，这种元认知错觉得到矫正，即字体大小效应消失。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5.1加工流畅性与字体大小效应",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "本研究结果表明,知觉流畅性是字体大小效应产生的部分基础。实验1重复验证了Yang等人(2018)的研究结果，个体的学习判断值会随知觉流畅性的增加而上升。该结果与先前研究结果一致，无论在视觉或听觉领域，知觉流畅性对学习判断均存在普遍的影响(Besken&Mulligan,2014;Rhodes＆Castel,2009)。同时，研究者发现，知觉流畅性对学习判断的影响也不仅仅局限于实验室学习材料(例如，词语,Yang et al.,2018；词对,Rhodes& Castel, 2008;图片,Undorf,Zimdahl,& Bermstein,2017)，其对真实教学材料的学习判断也具有显著影响(Ball,Klein,&Brewer,2014)。由此可见，采用不同字体大小来呈现学习内容，虽然可以对所学内容起到强调、突出或吸引注意等作用，但同时也会让学生体验到不同的加工流畅性，导致元认知错觉的产生(Carpenter,Mickes,Rahman,& Fernandez,2016;Carpenter，Wilford,Kornell, & Mullaney, 2013)。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "相比于其他类型的知觉线索(例如，文本清晰度和分辨率,Strukelj,Scheiter,Nystrom,&Holmqvist,2016；字形和呈现方式,Rummer,Schweppe,& Schwede,2016)，字体大小线索在实际教学情境中出现的频率更高(Magreehan,Serra,Schwartz,&Narciss,2016)。所以，字体大小所引发的元认知监测错觉对自我调控学习的潜在影响更应引起关注。例如，在教学材料排版上，教育工作者不仅要考虑使用不同字体大小强调知识要点，还应当考虑如何避免由于字体大小而引起的学习判断错觉。本研究结果表明，促进学习者进行更深层次的语义加工是一种消除字体大小效应错觉的有效措施。因此，教育工作者可以考虑在不同字体大小的知识内容后面添加测试题(如造句或样例提名等)，以促进学习者对知识要点进行更深层的语义加工并激活更多的语义线索，从而减少或消除由于知觉特征而引起的学习判断误差。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5.2加工深度对字体大小效应的矫正",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "实验2发现，通过增加有效学习时间，个体可以寻找或建构更多知觉特征以外的线索，弱化知觉特征线索对学习判断的影响，进而减小字体大小效应，与Magreehan 等人(2016)的研究结果相似。Magreehan 等人(2016)的实验3发现，当要求被试学习由相关词对和无关词对组成的混合列表时，词对的语义相关性对学习判断有显著影响(相关词对的学习判断值更高)，但词对与背景之间的对比度对学习判断无影响；然而，当要求被试学习仅由无关词对组成的纯列表时，对比度却能够显著影响学习判断(高对比度词对的学习判断值更高)。以上研究结果表明，当更有价值的线索(例如词对的语义相关性)出现时，人们的学习判断将更少地依赖知觉特征线索(例如对比度的高低)。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "实验3发现，在深层加工(造句)条件下，字体大小效应消失，该结果表明提高加工深度是矫正基于知觉特征引起的元认知错觉的有效措施。出现这一现象的主要原因是，在实验3中要求被试进行造句可能激活了词语更多的语义线索(Belmore,1981; Hertzog,Fulton,Sinclair,& Dunlosky,2014)。由于大字体和小字体词语之间并不存在真正的语义信息差别，因此，造句条件下被试可能会意识到不同字体大小词语的易记程度并无差异，进而在学习判断过程中弱化对字体大小线索的依赖，并矫正了由知觉特征而引起的元认知错觉。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "本研究与 Soderstrom 和Rhodes (2014)的研究结果一致，该研究发现让个体进行记住和知道判断(judgments of remembering and knowing; JORKs)可以有效减少元认知错觉。在研究的学习阶段，被试需要评估随后测验中自己是否记得该项目的细节性信息，并作出3点评分0 $1 =$ 记得; $2 =$ 熟悉; $3 =$ 忘记)。与JOLs 相比，JORKs监测的是个体是否记住材料在自身内部构建的细节性信息，而非单纯地监测学习材料本身的记忆水平。Soderstrom认为JORKs 监测过程中会激活更多与项目相关的特征信息，这种信息的激活是减少元认知监测错觉的原因(McCabe& Soderstrom,2011)。值得强调的是，虽然 Soderstrom 的两项研究均发现 JORKs能降低元认知错觉，但JORKs远不能消除元认知错觉。这可能是由于该研究中并未进一步明确激活信息的类型(知觉特征信息或语义信息)或激活程度不足所导致，实验3对此进行了补充发现，学习者进行造句加工能够成功激活词语的语义线索，进而有效地消除元认知错觉。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Undorf等人(2018)发现学习判断并不仅仅依赖单一线索，向被试同时呈现多种线索(例如，字体大小、学习次数、学习词的情感属性和具体性等)时，这些线索会在个体的学习判断中进行线索整合(cue integration)并相互竞争(competition)。具体而言，该研究发现，在具体词条件下，情绪词的学习判断值显著高于中性词，出现情绪性效应(the emotionality effect)；在抽象词条件下，虽然这种情绪性效应仍然存在，但显著减小。也就是说，学习词的具体性线索削弱了情感属性线索在学习判断中的作用。本研究为学习判断中多种线索间存在整合与竞争的观点提供了证据支持，实验2和实验3均发现，当被试进行更深层次的编码加工时(长时复述和造句)，更多的线索被激活(如语义线索)，被试则更少地依赖知觉特征线索(即字体大小)做出学习判断，进而减弱了字体大小效应。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "本研究的实验2和3均未发现编码强度对学习判断的影响，造成这种现象的原因可能是本研究将编码强度作为被试间变量进行操控。根据Koriat (1997)提出的线索利用模型，不同线索对学习判断的相对权重会受到学习词表形式的影响。当外部线索(例如学习时间)为被试内操控条件时，该线索不仅影响学习者的学习成效，而且影响学习者的元认知判断；然而，当该线索作为被试间操控条件时，其仅影响学习者的学习成效，但对元认知判断无影响。被试内操控会将不同的外部线索形成比较，进而放大外部线索的潜在作用，并促使个体利用这些外部线索做出学习判断；相反，学习判断对被试间操控的外部线索并不敏感。目前，上述现象已被大量研究反复证实(Susser,Mulligan,&Besken,2013)。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本研究结果表明，随着编码强度的增强，字体大小效应错觉逐渐减弱。浅层编码时，字体大小对学习判断具有较强的误导作用；深层编码时，激活更多线索，这些线索将削弱字体大小对学习判断的作用，矫正了基于知觉特征而引发的元认知错觉。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "5.3不足与展望 ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "本研究考察编码强度对字体大小效应的影响，丰富了以往研究对字体大小效应的解释视角，并提供了基于知觉特征而引发的元认知错觉的矫正措施，深化了人们对元认知错觉的认识和理解，但本研究仍存在一些不足之处，未来研究可从以下几个方面进行深入探讨：",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "首先，本研究揭示了提高加工深度是矫正字体大小效应的有效措施，但是并未进一步揭示出其内在的矫正机制。迄今为止，字体大小效应的产生机制存在较大的争议，目前有两种核心观点，即加工流畅性(processing fluency)和信念(beliefs)。例如，Yang等人(2018)的研究与本研究均发现知觉流畅性是字体大小效应的内在产生机制之一。然而，Mueller等人(2014)认为字体大小效应的产生是由于人们具有一种信念(即个体认为大字体词语比小字体词语更容易识记)，信念影响学习判断的过程往往是分析性且有意识参与的(Balletal.,2014)。未来研究可探寻更适宜分离知觉流畅性和信念的研究范式，剥离二者在字体大小效应中的作用以及探讨加工深度对二者各自的影响。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "其次，未来研究可以采用眼动技术探索编码强度矫正元认知错觉的规律。虽然，本研究证实了字体大小效应随编码强度的增加而逐渐减弱，并初步发现了有效学习时间的增加，字体大小效应相应减小的趋势。但是，本研究并未以时间进程为单位，系统考察大字体和小字体词语间学习判断值的变化轨迹。眼动技术可作为分析学习过程的重要手段，并且瞳孔直径(pupil diameter)的变化可以反映出个体在学习过程中的编码强度(Bradley& Lang,2015; Gog& Scheiter,2010)。未来研究可进一步借助眼动技术对矫正过程的动态变化进行深入的考察。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "最后，本研究仅讨论了在单一线索(即字体大小)的条件下，增加编码强度对字体大小效应错觉的矫正作用。虽然，与其他知觉线索相比(如字体模糊度等)，字体大小线索在学习材料中出现的频率更高，但是这种单一线索仍缺乏对真实课堂或学习过程的还原。真实课堂情境中，学生做出学习判断可能会受到多种线索的驱动(Toftness etal.,2018)。因此，未来研究有必要探讨在真实课堂情境中，多种线索对元认知监测的交互作用及元认知错觉的矫正措施。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "6结论 ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "本研究通过三个实验考察编码强度对字体大小效应的影响，研究结论如下：",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(1)字体大小效应随着编码强度增强而减弱或消失。浅层编码时，字体大小对学习判断具有较强的误导性影响，并且知觉流畅性是字体大小效应的内在产生机制之一；",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(2)随着编码强度的增加，更多线索被激活，学习判断会对多种线索进行比较权衡。当其他与记忆相关的诊断性线索出现时，知觉特征线索对学习判断的误导作用则被削弱。因此，提高加工深度是矫正基于知觉特征而引发的元认知错觉的有效措施。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "参考文献   \nBall,B.H.,Klein,K.N.,& Brewer, G.A.(2014).Processing fluency mediates the influence of perceptual information on monitoring learning of educationally relevant materials.Journal of Experimental Psychology: Applied,20(4), 336-348.   \nBelmore, S. M. (1981). Imagery and semantic elaboration in hypermnesia for words.Journal of Experimental Psychology: Human Learning & Memory, 7(3),191-203.   \nBenjamin,A.S., Bjork,R.A.,& Schwartz,B.L. (1998). The mismeasure of memory: When retrieval fluency is misleading as a metamnemonic index. Journal of Experimental Psychology: General,127(1),55-68.   \nBesken,M.,& Muligan,N. W. (2014).Perceptual fluency,auditory generation,and metamemory: Analyzing the perceptual fluency hypothesis in the auditory modality. Journal of Experimental Psychology: Learning, Memory, and Cognition, 40(2), 429-440.   \nBjork,R.A.,Dunlosky,J.,&Kornel,N.(2Ol3).Self-regulatedlearning: Beliefs,techniques,andillusions.Annal Review of Psychology, 64(1), 417-444.   \nBradley， M. M.，& Lang,P. J. (2015). Memory，emotion，and pupil diameter: Repetition of natural scenes. Psychophysiology, 52(9),1186-1193.   \nCarpenter,S.K., Mickes,L.,Rahman,S.,& Fernandez, C.(2016).The effect of instructor fluency on students’ perceptions of instructors,confidence in learning, and actual learning. Journal of Experimental Psychology: Applied,22(2),161-172.   \nCarpenter,S.K., Wilford, M. M., Kornel,N.,& Mullaney,K.M. (2o13). Appearances can be deceiving: Instructor fluency increases perceptions of learning without increasing actual learning. Psychonomic Bulletin & Review, 20(6), 1350-1356.   \nCastel,A.D.(20o8). Metacognition and learning about primacyand recency effects in freerecal: The utilization of intrinsic and extrinsic cues when making judgments of learning. Memory & Cognition,36(2), 429-437.   \nChen,G. X.,&Fu, X.L. (2oo4). Judgmentof learning and its accuracy. Advances in Psychological Science,12(2), 176-184.   \n[陈功香，傅小兰.(2004).学习判断及其准确性.心理科学进展,12(2),176-184.]   \nChumbley, J. I.,& Balota, D.A. (1984). A word's meaning affects the decision in lexical decision. Memory& Cognition, 12(6), 590-606.   \nCooper,E.C.,& Pantle,A.J. (1967).The total time hypothesis inverbal learning.Psychological Buletin,68(4), 221-234.   \nFlavell,J.H.(1979). Metacognitionand cognitive monitoring:A new area of cognitive-developmental inquiry. American Psychologist, 34(10), 906-911.   \nGog,T.V.,& Scheiter,K.(2010).Eye tracking as a tool to study and enhance multimedia learning. Learning and Instruction,20(2), 95-99.   \nHertzog,C.,Dunlosky,J.,& Sinclair,S.M.(20l0).Episodic feeling-of-knowing resolutionderives fromthequality of original encoding. Memory & Cognition, 38(6), 771-784.   \nHertzog, C.,Fulton,E.K.,Sinclair,S.M.,&Dunlosky,J. (2014).Recaled aspects of originalencoding strategies influence episodic feelings of knowing. Memory & Cognition,42(1),126-140.   \nHu, X.,Li,T., Zheng,J., Su,N.,Liu, Z.,& Luo,L. (2015). How much do metamemory beliefs contribute to the font-size effect in judgments of learning?.PloS One,10(11),e0142351.   \nKoriat,A. (1997). Monitoring one's own knowledge during study: A cue-utilization approach to judgments of learning. Journal of Experimental Psychology: General,126(4),349-370.   \nLuo,J.,& Lin, Z. X. (20o0). Monitoring of multiple memory systems: The influence of LOP and metamemory training. Acta Psychologica Sinica, 32(1),25-29.   \n[罗劲，林仲贤.(2000).加工深度和元记忆训练对多重记忆系统监测的影响.心理学报,32(1),25-29.]   \nLupker,S.J.,Harbluk,J.L.，& Patrick,A.S. (1991). Memory for things forgoten.Journal of Experimental Psychology: Learning, Memory, and Cognition, 17(5),897-907.   \nMagreehan,D.A.,Sera,M.J.,Schwartz,N.H.,& Narciss,S.(O16).Furtherboundaryconditions for the effects of perceptual disfluency on judgments of learning. Metacognition and Learning, 11(1),35-56.   \nMcCabe, D. P., & Soderstrom, N. C. (2011). Recollction-based prospective metamemory judgments are more accurate than those based on confidence: Judgments of remembering and knowing (JORKs). Journal of Experimental Psychology: General,140(4), 605-621.   \nMueler,M.L.,Dunlosky,J.,Tauber,S.K.,&Rhodes,M.G. (2014).The font size effect onjudgments of learning: Does it exemplifyfluency efects or reflect people's beliefs about memory?. Journal ofMemory and Language, 70, 1-12.   \nMulligan,N.W.,Buchin,Z.L.,&West,J.T. (2019). Assessing why the testing effectis moderated by experimental design.Journal of Experimental Psychology: Learning, Memory,and Cognition.Advance online publication.   \nNelson,T.O.,Dunlosky,J., Graf,A,& Narens,L.(1994). Utilization of metacognitivejudgments intheallocation of study during multitrial learning. Psychological Science, 5(4),207-213.   \nRawson,K.A.,O'Neil,R.,& Dunlosky,J. (2011).Accurate monitoring leads tofctive controland greaterlering of patient education materials.Journal of Experimental Psychology: Applied,17(3),288-302.   \nRhodes,M.G.,& Castel,A.D. (2O08).Memory predictions are influenced by perceptual information: Evidence for metacognitive illusions.Journal of Experimental Psychology: General,137(4),615-625.   \nRhodes,M.G.,& Castel,A.D. (2009). Metacognitive illsions for auditory information: Effects on monitoring and control. Psychonomic Bulletin & Review,16(3),550-554.   \nRummer, R.,Schweppe,J.,& Schwede,A. (2016).Fortune is fickle: Nul-ffects ofdisfluencyon learning outcomes. Metacognition and Learning, 11(1),57-70.   \nSeli,P.,Risko,E.F.,Smilek,D.,&Schacter,D.L.(2o16).Mind-wandering withand without intention.Trendsin cognitive sciences, 20(8), 605-617.   \nSoderstrom, N.C.,& Rhodes,M.G. (2014).Metacognitive ilusions can be reduced by monitoring recollction during study. Journal of Cognitive Psychology,26(1),118-126.   \nStrukelj,A.,Scheiter,K.,Nystrom,M.,&Holmqvist,K.(2016).Exploring thelack ofadisfluencyeffct: Evidence from eye movements. Metacognition and Learning, 11(1), 71-88.   \nSusser,J. A.,Mullgan,N.W.,& Besken,M. (2013).The effectsof list composition and perceptualfluency on judgments of learning (jols). Memory & Cognition, 41(7),1000-1011.   \nTauber,S.,& Dunlosky,J. (2016).A brief historyof metamemory research and handbook overview.In S.Tauber & J.Dunlosky (Eds.),The Oxford handbook of metamemory (pp.7-22). New York: Oxford University Press.   \nToftness,A.R.,Carpenter,S.K., Geller,J.,Lauber,S.,Johnson,M.,&Armstrong,P.I. (218). Instructor fluency leads to higher confidence inlearning,butnot beterlearning. Metacognition and Learning,13(1),1-14.   \nUndorf,M.,& Broder,A. (2019). Cue integration in metamemory judgements is strategic. Quarterly Journal of Experimental Psychology, 73(4), 629-642.   \nUndorf,M.，Sollner，A.,，& Broder,A.(2018). Simultaneous utilization of multiplecues in judgments of learning. Memory & Cognition, 46(4), 507-519.   \nUndorf,M., Zimdahl,M.F.,& Bernstein,D.M.(2017).Perceptual fluencycontributes to effects of stimulus size on judgments of learning. Journal of Memory and Language, 92, 293-304.   \nVuore,M. (2017). bmlm: Bayesian multilevel mediation. R package version 1.3.0. Retrieved from <htps://cran.rproject.org/package=bmlm>.   \nWard,E.V.,Berry,C.J.,& Shanks,D.R.(2013).An effect ofageon implicit memory that is not due to explicit contamination: Implications for single and multiple-systems theories.Psychology and Aging,28(2), 429-442.   \nYan, G.L.,Zhang, Q.M.,Zhang,L.L.,& Bai, X.J. (2013).The efect of masking materials on percetptual span in chinese reading. Journal of Psychological Science, 36(6),1317-1322.   \n[闫国利，张巧明，张兰兰，白学军.(2013).不同掩蔽材料对阅读知觉广度的影响．心理科学,36(6),1317- 1322.]   \nYan,V.X.,Bjork,E.L.,&Bjork,R.A.(2016).On the difficultyof mending metacognitive illusions:A priori theories,fluency efects,and misattributions of the interleaving benefit.Journal of Experimental Psychology: General, 145(7),918-933.   \nYang, C., Huang,S.T.,& Shanks,D.R. (2018). Perceptual fluency afects judgments of learming: The font size effect. Journal of Memory and Language, 99, 99-110.   \nYap,M.J.,Sibley,D.E.,Balota,D.A.,Ratcliff,R.,&Rueckl,J.(2015).Responding to nonwordsinthelexical decision task: Insights from the english lexicon project. Journal of Experimental Psychology: Learning, Memory,and Cognition, 41(3),597-613.   \nZhang,X.J. (2010).Effects of perceptual fluency on judgment and decision. Advances in Psychological Science, 18(4), 639-645 ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "[张旭锦.(2010)．知觉流畅性对判断和决策的影响.心理科学进展,18(4),639-645.]",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Influence of encoding strength on the font size effect ",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "ZHAO Wenbo; JIANG Yingjie; WANG Zhiwei; HU Jingyuan ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "(SchoolofPsychology,Northeast Normal University,Changchun13o024,China) ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Judgments of learning (JOLs） are characterised as metacognitive judgments regarding the likelihood that studied items can be successfully retrieved in a future memory test. Previous studies found that people employ different types of cues to inform their online JOLs.Some of these cues can guide JOLs to accurately reflect memory status but others cannot (and are even misleading in some situations). A widely studied cue for JOL formation is subjective processing experience (e.g., perceptual fluency) while completing a given task, which often confers metacognitive illusions. It has been found that people give higher JOLs to large than to small words,despite the fact that font size has minimal influence on retention, a phenomenon termed the font size effect on JOLs. A potential mechanism underlying the effect is perceptual fluency: Large words are perceived more fluently than small ones,and fluent processing experience of large words induces a feeling of knowing,which drives people to offer higher JOLs.The font size efect is important because it spotlights a dissociation between metacognitive judgments and memory itself. The current study aims to explore the influences of encoding strength on the font size effect, and to explore practical techniques to calibrate metacognitive illusions induced by perceptual fluency. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Experiment l aimed to delineate the role of perceptual fluency in the font size effect.Twentysix participants first completed a continuous identification (CID) task to measure the diference in perceptual fluency (indexed by response times; RTs) between large (70-pt) and small(9-pt) words, after which they atended a classic learning task. In the learning task, participants studied large and small words one-by-one,for 2s each,and made item-by-item JOLs. Immediately following the learning task, they completed a distractor task,followed by a free recall test. The results showed that, in the CID task,participants responded much faster to large than to small words,indicating the natural difference in perceptual fluency between large and small words.In addition, perceptual fluency (i.e.,RTs in the CID task) significantly correlated with JOLs,reflecting the fluency effect on JOLs. More importantly, perceptual fluency significantly mediated the font size effect on JOLs, supporting the claim that perceptual fluency is responsible for the font size effect. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Experiment 2 manipulated study durations to investigate the influence of enhancing encoding strength (through prolonging study duration) on the font size efect. Specifically,three groups of participants studied each word for 2s, 4s,and 8s,respectively,and made item-by-item JOLs. The results demonstrated that prolonging study duration correspondingly decreased the font size effect on JOLs. It is, however, worth highlighting that expanding study time cannot fully eliminate the font size effect because the results still showed a significant font size effect even when the study time was increased to 8s. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Experiment 3 was conducted to further investigate the effectiveness of enhancing encoding strength for calibration of the font size effect. A sentence-making group was instructed to encode each word by generating a sentence to deepen the level of processing (i.e., encoding strength). By contrast, there were no explicit requirements of encoding strategies in the control group (i.e., participants in the control group could use any strategies they liked). In the control group,the classic font size effect on JOLs was successfully replicated; of critical interest, the efect disappeared in the sentence-making group. Such results reflect the power of improving encoding strength to calibrate metacognitive illusions induced by perceptual features. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "In summary, the current study establishes that perceptual fluency is at least one of the mechanisms underlying the font size effect on JOLs; prolonging study duration reduces but fails to eliminate the font size effect on JOLs; more importantly,directly deepening the level of processing through sentence-making is a valid strategy to calibrate metacognitive illusions induced by perceptual features. Theoretical and practical implications are discussed in the main text. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Key words judgments of learning; the font size efect; encoding strength; metacognitive illusions ",
+        "page_idx": 24
+    }
+]

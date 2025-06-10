@@ -1,0 +1,392 @@
+# Power Law of Shear Viscosity in Einstein-Maxwell-Dilaton-Axion model
+
+Yi Ling $^ { 1 , 2 , 3 }$ （ Zhuoyu Xian 1 Zhenhua Zhou 1 （20 $^ 1$ Institute of High Energy Physics, Chinese Academy of Sciences, Beijing 100049,China $^ 2$ Shanghai Key Laboratory of High Temperature Superconductors, Shanghai, 200444, China 3 School of Physics, University of Chinese Academy of Sciences,Beijing 100049, China
+
+Abstract:We construct charged black hole solutions with hyperscaling violation in the infrared(IR)region in Einstein-Maxwell-Dilaton-Axion theory and investigate the temperature behavior of the ratio of holographic shear viscosityto theentropydensity.Whentranslational symmetry breakingis relevant in the IR,the power lawof the ratio is testified numerically at low temperature $T$ ，namely, $\eta / s \sim T ^ { \kappa }$ ，where the values of exponent $\mathcal { \kappa }$ coincide with the analytical results.We also find that the exponent $\kappa$ is not affected by irrelevant current,but is reduced by the relevant current.
+
+Key words:shear viscosity,gauge/gravityduality,hyperscaling violation,Einstein-Maxwel-Dilaton-Axionmodel, breaking of translational invariance
+
+PACS:11.25.Tq,04.70.Bw
+
+# 1 Introduction
+
+In last decade the development of holographic techniques has given new insights into the hydrodynamics with strong couplings.Onecelebrated achievement is the Kovtun-Son-Starinets (KSS)boundfor theratioof shear viscosity to entropy density [1]
+
+$$
+\frac { \eta } { s } \geq \frac { 1 } { 4 \pi } ,
+$$
+
+which is considered as a fundamental bound for near perfect fuid with strong interactions.However,in recent years counter-examples which violate the KSS bound (1）have been found in holographic literature,including the higherderivative gravity[2,3],anisotropic system4-7]as wellasisotropicsystem without translational invariance [8-15].In the latter case,shear viscosity loses its hydrodynamical interpretation because of the non-conservationof momentum and is usually defined by Kubo Formula
+
+$$
+\eta = \operatorname* { l i m } _ { \omega  0 } \frac { 1 } { \omega } \mathrm { I m } G _ { \hat { T } ^ { x y } \hat { T } ^ { x y } } ^ { R } ( \omega , k = 0 ) ,
+$$
+
+where $G _ { \hat { T } ^ { x y } \hat { T } ^ { x y } } ^ { R }$ is the retarded Green function of the energy-momentum tensor operator $\hat { T } ^ { x y }$ in the dual boundary theory.Nevertheles,itisstillquiteinstructive toinvestigate thetemperaturebehavioroftheratioofshearviscosity to entropy density in general holographic models without translational invariance.
+
+Historically,the breaking of translational invariance is introduced inholography to studythe transportationof the dual system with momentum disipation [8,16-30]. In this setup,new geometries in the IR may emerge and often accompany with new scaling relations,leading to new scaling behavior of thermodynamic quantities or Green functions with temperature $T$ or frequency $\omega$ [31-39].
+
+In particular,by virtue of recent progress in [9] people have learned that when the translation symmetry breaking is relevant in the far IR,the ratio exhibits a power law behavior with the temperature
+
+$$
+\frac { \eta } { s } \sim T ^ { \kappa } ,
+$$
+
+which reflects the scaling symmetry emerging in the IR. Moreover,a new bound for the exponent $\kappa$ was proposed as $\kappa \leq 2$ there,which might be supported by a heuristic argument based on the bound for the rate of entropy production,
+
+$$
+\frac { \hbar } { k _ { B } T } \frac { d \log ( s ) } { d t } \gtrsim 1 .
+$$
+
+Other holographic models are investigated in [8,10-12,14,15],which also satisfy the bound $\kappa \leq 2$ . But soon later in [13],we find $\kappa > 2$ is possible when the scaling of Lifshitz [40-42] or hyperscaling violation [22,43-57] emerges in the IR.While the bound for therate of entropy production(4)is notviolated,since the origin of the power law (3) should beunderstood as the nontrivial anomalous dimensions of(2)under the rescaling of the IR solution [9,13].
+
+Furthermore, in [13] we have analytically derived a formula for $\kappa$ in a general Einstein-Maxwell-Dilaton-Axion (EMD-Axion) model with spatial dimension $d$ , dynamical critical exponent $z$ as well as hyperscaling violating exponent $\theta$ . Specifically,we find
+
+$$
+\frac { \eta } { s } \sim T ^ { \frac { d + z - \theta } { z } \left( - 1 + \sqrt { \frac { 8 ( z - 1 ) } { ( d + z - \theta ) ( 1 + e ^ { 2 } ) } + 1 } \right) } ,
+$$
+
+where $e ^ { 2 }$ is defined as the ratio of Maxwell term and one of the lattice terms in the Lagrangian.However,in [13] only for the case of $e ^ { 2 } = 0$ has this formula (5） been justified by numerical calculation on neutral background. In this paper we intend to continuously testify the validityof (5)on charged background within EMD-Axion models. Schematically, the case of $e ^ { 2 } \neq 0$ can be realized by relevant currents.We will numerically construct specific charged backgrounds with ultraviolet(UV)completion and then compute the power law of the ratio of shear viscosity to entropy density. As a result, we will show that the formula for the ratio $\eta / s$ in (5)which was previously proposed in [13] based on the scaling analysis can be justified even for $e ^ { 2 } \neq 0$ indeed.
+
+In this paper,we adopt the statement about‘(marginally)relevant’and irelevant’ in [32]: the current or the axion being (marginally)relevant means that the Maxwellor the axion terms is the same order as the curvature term and the dilaton potential in Lagrange in the powerof the radial coordinate;the current or the axion being irrelevant means that the Maxwellor the axion terms is subleading comparing to the curvature term and the dilaton potential. Roughly speaking,a field being (marginally）relevant or irrelevant depends on whether or not it would deform the IR geometry strongly.
+
+# 2 EMD-Axion model and hyperscaling violating metric
+
+In this section we willpresent our holographic setup and then outline the logic leading to the formula for the exponent $\kappa$ in (5)based on the scaling analysis. The action of a general EMD-Axion model in $d { + 2 }$ space time reads as
+
+$$
+{ \mathcal { S } } = \int d t d ^ { d } x d r { \sqrt { - g } } ( R + { \mathcal { L } } _ { m } ) , \quad { \mathcal { L } } _ { m } = - { \frac { 1 } { 2 } } ( \partial \phi ) ^ { 2 } - { \frac { J ( \phi ) } { 2 } } \sum _ { i = 1 } ^ { d } ( \partial \chi _ { i } ) ^ { 2 } + V ( \phi ) - { \frac { Z ( \phi ) } { 4 } } F ^ { 2 } ,
+$$
+
+where $\chi _ { i } ( i = 1 , 2 , \cdots , d )$ are axions and $J ( \phi ) , Z ( \phi ) , V ( \phi )$ are coupling functions or potential of the dilaton field $\phi$ Given above action, the equations of motion can be derived as follows
+
+$$
+\begin{array} { l l } { { R _ { \mu \nu } + \displaystyle \frac { 1 } { d } g _ { \mu \nu } T - T _ { \mu \nu } = 0 , } } & { { T _ { \mu \nu } = - \displaystyle \frac { 1 } { \sqrt { - g } } \displaystyle \frac { \delta ( \sqrt { - g } \mathcal { L } _ { m } ) } { \delta g ^ { \mu \nu } } = \displaystyle \frac { 1 } { 2 } g _ { \mu \nu } \mathcal { L } _ { m } - \displaystyle \frac { \delta \mathcal { L } _ { m } } { \delta g ^ { \mu \nu } } , } } \\ { { } } & { { \nabla ^ { 2 } \phi - \displaystyle \frac { J ^ { \prime } ( \phi ) } { 2 } \displaystyle \sum _ { i = 1 } ^ { d } ( \partial \chi _ { i } ) ^ { 2 } + V ^ { \prime } ( \phi ) - \displaystyle \frac { Z ^ { \prime } ( \phi ) } { 4 } F ^ { 2 } = 0 , } } \\ { { } } & { { \nabla ^ { \nu } ( Z ( \phi ) F _ { \mu \nu } ) = 0 , } } \\ { { } } & { { \nabla ^ { \mu } ( J ( \phi ) \partial _ { \mu } \chi _ { i } ) = 0 , \quad i = 1 , 2 , \cdots , d . } } \end{array}
+$$
+
+For simplicity,we only consider isotropic solutions with following ansatz
+
+$$
+\begin{array} { l } { { d s ^ { 2 } = - g _ { t t } ( r ) d t ^ { 2 } + g _ { r r } ( r ) d r ^ { 2 } + g _ { x x } ( r ) \displaystyle \sum _ { i = 1 } ^ { d } d x _ { i } ^ { 2 } , } } \\ { { \phi = \phi ( r ) , \quad \chi _ { i } = k x _ { i } , \quad A = A _ { t } ( r ) d t , } } \end{array}
+$$
+
+where translational invariance is broken by the axions $\chi _ { i }$ but the metric and energy-momentum tensor remain to be homogeneous.
+
+As stated above, we are interested in solutions interpolating between AdS in the UV and hyperscaling violating solution in theIR.It can be realized by the process of UVcompletion [46].Firstly，we construct a hyperscaling violationsolution with running dilaton.Secondly,we modify the local behaviors of potentials to graft the solution onto AdS in the UV.Generaly,solutions with AdS exist when the dilaton reaches the extremal point of its potential and the Lorentz symmetry is maintained [56].
+
+Let us find hyperscaling violating solutions firstly. When the potentials behave as
+
+$$
+V ( \phi ) \sim V _ { 0 } e ^ { \alpha \phi } , \quad J ( \phi ) \sim e ^ { \beta \phi } , \quad Z ( \phi ) \sim e ^ { \gamma \phi } , \quad \mathrm { w h e n ~ } \phi  \pm \infty ,
+$$
+
+it is foundin[31,32]that scaling solutions with hyperscaling violation exist,whose metricand matter felds readas
+
+$$
+d s ^ { 2 } = r ^ { \frac { 2 \theta } { d } } \left( - { \frac { d t ^ { 2 } } { r ^ { 2 z } } } + { \frac { L ^ { 2 } d r ^ { 2 } } { r ^ { 2 } } } + { \frac { \sum _ { i = 1 } ^ { d } d x _ { i } ^ { 2 } } { r ^ { 2 } } } \right) , \quad A = Q r ^ { \zeta - z } d t , \quad e ^ { \phi } = r ^ { \epsilon } , \quad \chi _ { i } = k x _ { i } ,
+$$
+
+where $k$ characterizes the scale of breaking of translational invariance and $\zeta$ is called conduction exponent [57]. Parameters $\{ z , \theta , \zeta , \epsilon , k , Q \}$ in ansatz (10) are determined by equations of motion (7). The solutions are found to be classified into four classes [32], depending on the parameters $\{ \alpha , \beta , \gamma , V _ { 0 } \}$ in potentials (9).Among them,the explicit solutions with (marginally)relevant axion are shown in Appendix A.The metric in (10)can bedeformed intoa black hole solution
+
+$$
+d s ^ { 2 } = r ^ { \frac { 2 \theta } { d } } \left( - \frac { f ( r ) d t ^ { 2 } } { r ^ { 2 z } } + \frac { L ^ { 2 } d r ^ { 2 } } { r ^ { 2 } f ( r ) } + \frac { \sum _ { i = 1 } ^ { d } d x _ { i } ^ { 2 } } { r ^ { 2 } } \right) ,
+$$
+
+where the blackness function is
+
+$$
+f ( r ) = 1 - \biggl ( \frac { r } { r _ { + } } \biggr ) ^ { \delta _ { 0 } } , \quad \delta _ { 0 } = d + z - \theta .
+$$
+
+Then, the Hawking temperature and entropy density are separately given by
+
+$$
+T = \frac { \left| \delta _ { 0 } \right| } { 4 \pi } r _ { + } ^ { - z } , \quad s = 4 \pi r _ { + } ^ { \theta - d } = 4 \pi \left( \frac { 4 \pi T } { \left| \delta _ { 0 } \right| } \right) ^ { \frac { d - \theta } { z } } .
+$$
+
+From Maxwell equation (7c)，we have conserved charge density
+
+$$
+\rho = \sqrt { - g } Z ( \phi ) F ^ { r t } .
+$$
+
+It can be shown that there exists a scaling relation
+
+$$
+x  c x , r  c r , t  c ^ { z } t , d s  c ^ { \theta / d } d s , T  c ^ { - z } T , s  c ^ { d - \theta } s .
+$$
+
+We will come back to the UV completion and modify the potentials in next section.
+
+Now we turn to the study of shear viscosity $\eta$ . From Kubo formula (2), $\eta$ can be derived by perturbing $( \delta g ) ^ { x } { } _ { y } =$ $g ^ { x x } \delta g _ { x y } = h ( r ) e ^ { - i \omega t }$ , which is the dual field of operator $\hat { T } ^ { x y }$ . Einstein equations (7a) give rise to the shear perturbation equation
+
+$$
+\frac { 1 } { \sqrt { - g } } \partial _ { r } ( \sqrt { - g } g ^ { r r } \partial _ { r } h ( r ) ) + ( g ^ { t t } \omega ^ { 2 } - m ( r ) ^ { 2 } ) h ( r ) = 0 ,
+$$
+
+with varying mass
+
+$$
+m ( r ) ^ { 2 } = 2 ( g ^ { x x } T _ { x x } - { \frac { \delta T _ { x y } } { \delta g _ { x y } } } ) .
+$$
+
+$h ( r )$ is required to be regular at the horizon and equal to $1$ at the conformal boundary $r _ { \partial }$ . The varying mass is supposed to satisfy the condition $m ( r ) ^ { 2 } \ge 0$ in the models considered so far. Here,we have $\begin{array} { r } { m ( r ) ^ { 2 } = J ( \phi ) k ^ { 2 } g ^ { x x } } \end{array}$ （20 $\eta / s$ can be obtained by the weaker horizon formula [9,58]
+
+$$
+\frac { \eta } { s } = \frac { 1 } { 4 \pi } h _ { 0 } ( r _ { + } ) ^ { 2 } ,
+$$
+
+where $h _ { 0 } ( r )$ is the solution at $\omega = 0$ and $r _ { + }$ is the location of horizon
+
+Following the analysis presented in [13],one can calculate the exponent $\kappa$ of $\begin{array} { r } { \frac { \eta } { s } \sim T ^ { \kappa } } \end{array}$ . Here we present a simpler derivation with the use offormula (18).If the axion is (marginally)relevant,byusing Einstein equations (7a)and black hole metric (11),we have
+
+$$
+m ( r ) ^ { 2 } = M ^ { 2 } r ^ { - \frac { 2 \theta } { d } } , \quad M ^ { 2 } = \frac { 2 \delta _ { 0 } ( z - 1 ) } { ( 1 + e ^ { 2 } ) L ^ { 2 } } ,
+$$
+
+where
+
+$$
+e ( r ) ^ { 2 } = - \frac { Z ( \phi ) } { 4 } F ^ { 2 } / ( \frac 1 2 J ( \phi ) ( \partial \chi _ { x } ) ^ { 2 } ) \geq 0 , \quad \chi _ { x } = k x .
+$$
+
+$e ( r ) ^ { { \scriptscriptstyle 2 } }$ is just the ratioof the Maxwellterm to one of the axion terms in Lagrangian (6).It goes toa nonzero constant in the far IR if thecurrent is also (marginall)relevant,otherwise it goes to zero.Thus at leading order,we just set （204号 $e ( r ) ^ { 2 } = e ^ { 2 }$ . If the axion is irrelevant, $m ( r ) ^ { 2 }$ goes to zero in the far IR, then we set $M ^ { 2 } = 0$ , which is valid at leading order.
+
+By using(19) and metric(11),we rewrite perturbation equation (16) at $\omega = 0$
+
+$$
+\partial _ { r } ( r ^ { 1 - \delta _ { 0 } } f ( r ) \partial _ { r } h _ { 0 } ( r ) ) - M ^ { 2 } L ^ { 2 } r ^ { - \delta _ { 0 } - 1 } h _ { 0 } ( r ) = 0 .
+$$
+
+Jolving this equation we can separately obtain the asymptotical expansion of $h _ { 0 } ( r )$ near the boundary and its value m the horizon as
+
+$$
+h _ { 0 } ( r  r _ { i } ) = c [ ( \frac { r } { r _ { + } } ) ^ { \delta _ { 0 } - \delta _ { \hat { T } } } + \cdots + G ( \frac { r } { r _ { + } } ) ^ { \delta _ { \hat { T } } } + \cdots ] , \quad h _ { 0 } ( r _ { + } ) = c H ,
+$$
+
+where
+
+$$
+\delta _ { \hat { T } } = \frac { \delta _ { 0 } } { 2 } \left( 1 + \sqrt { 1 + \left( \frac { 2 M L } { \delta _ { 0 } } \right) ^ { 2 } } \right) .
+$$
+
+We have abbreviated the series $\begin{array} { r } { \left( \frac { r } { r + } \right) ^ { \delta _ { 0 } - \delta _ { \hat { T } } + n \delta _ { 0 } } \ ( n \geq 1 ) } \end{array}$ following $\left( \frac { r } { r + } \right) ^ { \delta _ { 0 } - \delta _ { \hat { T } } }$ and the series $\begin{array} { r } { \left( \frac { r } { r _ { + } } \right) ^ { \delta _ { \hat { T } } + m \delta _ { 0 } } \left( m \geq 1 \right) } \end{array}$ （204号 following $\begin{array} { r } { \left( \frac { r } { r + } \right) ^ { \delta _ { \hat { T } } } } \end{array}$ to ellipsis. $G$ and $H$ are some independent constants，which only depend on $\delta _ { 0 }$ and $\delta _ { \hat { T } }$ $r _ { + }$ Coefficient $c$ should be determined by the boundary condition $h _ { 0 } ( r _ { \partial } ) = 1$ ： $r _ { i }$ is the boundary of the region where the black hole with hyperscaling violationcan be described by(11).When consider the second-order variation of the action in (6) over a fixed background with the perturbed metric $h _ { 0 } ( r )$ , the boundary part of the variation with the branch of $r ^ { \delta _ { 0 } - \delta _ { \hat { T } } } \ \left( \ r ^ { \delta _ { \hat { T } } } \right)$ in (22) is divergent (finite), thus the branch of $r ^ { \delta _ { 0 } - \delta _ { \hat { T } } } ( r ^ { \delta _ { \hat { T } } } )$ is non-normalizable (normalizable). Then $\begin{array} { r } { h _ { 0 } ( r _ { i } ) \approx c \left( \frac { r _ { i } } { r _ { + } } \right) ^ { \delta _ { 0 } - \delta _ { \hat { T } } } } \end{array}$ is a good approximation when the black hole is near-extremal.
+
+Since the UV completion is taken into account,one should be cautious that $r _ { i }$ is just an intermediate scale but not the conformal boundary $r _ { \partial }$ ．The region between $r _ { i }$ and $r _ { \partial }$ is AdS deformed by matter fields. The boundary condition requires $h _ { 0 } ( r _ { \partial } ) = 1$ ． As explained in [9],when going from $r _ { \partial }$ to $r _ { i }$ ， $h _ { 0 } ( r )$ decreases monotonously from 1 to a value $\Gamma$ when $m ( r ) ^ { 2 } > 0$ . We have introduced a ‘tunneling rate' $\Gamma$ to characterize how $h _ { 0 } ( r )$ tunnels from $r _ { \partial }$ （204号 to $r _ { i }$ ．The tunneling rate $\Gamma$ and intermediate scale $r _ { i }$ should be independent of $T$ when the scale of $T$ is much less than other scales,such as the source of dilaton and $k$ in axion. It is because that scale $T$ is not the dominating scale driving the renormalization group(RG) flow from AdS to hyperscaling violating solution. Scale $T$ becomes important only when we go into the far IR.Then we have
+
+$$
+\Gamma = h _ { 0 } ( r _ { i } ) \approx c \left( \frac { r _ { i } } { r _ { + } } \right) ^ { \delta _ { 0 } - \delta _ { \hat { T } } } .
+$$
+
+By working out $c$ ，we can determine the horizon value
+
+$$
+h _ { 0 } ( r _ { + } ) = \Gamma H \left( \frac { r _ { + } } { r _ { i } } \right) ^ { \delta _ { 0 } - \delta _ { \hat { T } } } .
+$$
+
+By virtue of formula (18),we finally obtain
+
+$$
+\frac { \eta } { s } = \frac { \Gamma ^ { 2 } H ^ { 2 } } { 4 \pi } ( \frac { r _ { + } } { r _ { i } } ) ^ { 2 ( \delta _ { 0 } - \delta _ { \hat { T } } ) } \propto T ^ { \frac { d - \theta + z } { z } ( - 1 + \sqrt { 1 + \frac { 8 ( z - 1 ) } { ( d - \theta + z ) ( 1 + e ^ { 2 } ) } } ) } , \mathrm { ~ w h e n ~ } T  0 , \nonumber
+$$
+
+where(13)and (23) have been used. One can also employ UV-IR matching [38,59,60] to reproduce the same result as what is performed in [13]. As one can see, when axion is absent or irrelevant, we have $m ( r ) ^ { 2 } = 0$ at leading order, then $\eta / s \sim T ^ { 0 }$ [61,62]. Next we will numerically testify this formula when $e ^ { 2 } = 0$ or $e ^ { 2 } \neq 0$ ：
+
+# 3 UV completion and numerical results
+
+In this section we specifically construct the background interpolating hyperscaling violating solution (10)in the IR and AdS solution inthe UVwith finite temperature and charge density.Ononehand,as explained in Appendix A or in [32],solution (10)can be constructed by choosing exponential potentials (9) with running dilaton.On the other hand,AdS can be constructed by finding extremal points ofconstant dilaton with lorentz symmetry. Here we adopt dilaton $\phi$ to interpolate the UV and the IR solutions.It requires some special settings for the potential $V ( \phi )$
+
+# 3.1 UV completion
+
+In this paper,we focus only on $\theta < d$ since in this region the entanglement entropy obeys area to volume law, which is considered as normal behavior of QFT [13,53]. In this situation the location of IR is $r \to + \infty$ . Following the discussion in [13,56],the constraints about $( z , \theta )$ are reduced to
+
+$$
+( \theta \leq 0 \land z > 1 ) \lor \left( 0 < \theta < d \land z > { \frac { \theta } { d } } + 1 \right) .
+$$
+
+Then it leads to $\delta _ { 0 } > 0$ . We have excluded the two cases of $\theta = d$ and $\textstyle z = { \frac { \theta } { d } } + 1$ which can not be reached by running dilaton,as shown in Appendix (A） or [32]. We choose the branch of $\phi \geq 0$ . From the requirement of the potentials (9),one can see that our solution can flow to hyperscaling violating solution in the IR if $\phi \to + \infty ( r \to + \infty )$ It requires $\epsilon > 0$ in (10). We conduct the UV completion by modifying the potential $V ( \phi )$ but fixing the other two coupling potentials
+
+$$
+\begin{array} { r } { J ( \phi ) = e ^ { \beta \phi } , \quad Z ( \phi ) = e ^ { \gamma \phi } . } \end{array}
+$$
+
+From the analysis in Appendix (A),we find a universal behavior of $V ( \phi ) \sim r ^ { - \frac { 2 \theta } { d } }$ in the coordinate of ansatz (10). So,when approaching the UV( $r \to 0$ ),the qualitative behavior of $V ( \phi )$ depends on the sign of $\theta$ . On the side of the UV, AdS is allowable if axion and gauge field are turned off and $\phi = \phi _ { * }$ is an extremal point of $V ( \phi )$ ，where $V ( \phi _ { * } )$ （204号 stands for cosmological constant. Without loss of generality, we choose $\phi _ { * } = 0$ . Then a realistic strategy is modifying （204 $V ( \phi )$ as
+
+$$
+\begin{array} { r } { \boldsymbol { \tau } ( \phi ) = \left\{ \begin{array} { l l } { \frac { 2 d } { \alpha ^ { 2 } } \sinh ^ { 2 } \left( \frac { \alpha \phi } { 2 } \right) + ( d + 1 ) d , } & { V _ { 0 } = \frac { d } { 2 \alpha ^ { 2 } } , \qquad \mathrm { f o r } \ \theta < 0 } \\ { ( d + 1 ) d , } & { V _ { 0 } = ( d + 1 ) d , } \\ { \left( d ( d + 1 ) - \frac { V _ { 0 } } { 2 } \right) \left( 1 - \operatorname { t a n h } ^ { 2 } ( \alpha \phi ) \right) + \frac { V _ { 0 } } { 2 \cosh ( \alpha \phi ) } , } & { V _ { 0 } = 2 d \left( \frac { 1 } { \alpha ^ { 2 } } + 2 d + 2 \right) , \quad \mathrm { f o r } \ d > \theta > 0 } \end{array} \right. . } \end{array}
+$$
+
+In Appendix A, we have $\textstyle \alpha \epsilon = - { \frac { 2 \theta } { d } }$ Then $\alpha$ has the opposite sign of $\theta$ . So, as one can see, each $V ( \phi )$ approaches $V _ { 0 } e ^ { \alpha \phi }$ when $\phi \to + \infty$ and approaches $d ( d { + } 1 )$ when $\phi  0$ . Without loss of generality, we have chosen the AdS radius to be $^ { 1 }$ .However, the intermediate behavior is not very important.
+
+$A d S _ { d + 2 }$ vacuum is always alowable. We choose the first type quantization, and the scaling dimensions about the dual source of dilaton $\phi ^ { ( 0 ) }$ and operator $\mathcal { O } _ { \phi }$ are determined by the small $\phi$ expansion of $V ( \phi )$ . When $\theta = 0$ ，as dilaton is massless, we have $\Delta _ { \phi ^ { ( 0 ) } } = 0$ and $\Delta _ { \mathcal { O } _ { \phi } } = d { + } 1$ , which is marginal deformation. We expect it to be marginally relevant to drive the solution away from AdS, as $\phi = 0$ is not a stable point when axion and gauge field are turned on. When $\theta \neq 0$ ，as $V ( \phi ) = d ( d + 1 ) + \textstyle { \frac { d } { 2 } } \phi ^ { 2 } + \cdots$ ， we have $\Delta _ { \phi ^ { ( 0 ) } } = 1$ and $\Delta _ { \mathcal { O } _ { \phi } } = d$ , which is relevant deformation.
+
+# 3.2 Numerical calculation and results
+
+We use the following ansatz for numerical calculation
+
+$$
+\begin{array} { l } { { d s ^ { 2 } = \displaystyle \frac { 1 } { u ^ { 2 } } \left( - ( 1 - u ) U ( u ) e ^ { - S ( u ) } d t ^ { 2 } + \displaystyle \frac { d u ^ { 2 } } { ( 1 - u ) U ( u ) } + \sum _ { i = 1 } ^ { d } d x _ { i } ^ { 2 } \right) , } } \\ { { \phi = \phi ( u ) , \quad \chi _ { i } = k x _ { i } , \quad A = ( 1 - u ) A ( u ) d t . } } \end{array}
+$$
+
+The conformal boundary is located at $u = 0$ while the horizon at $u = 1$ . The temperature and the entropy density are $\begin{array} { r } { T = \frac { 1 } { 4 \pi } U ( 1 ) e ^ { - S ( 1 ) / 2 } } \end{array}$ and $s = 4 \pi$ ：
+
+The $A d S _ { d + 2 }$ vacuum corresponds to $U = 1 , \ S = \phi = A = 0$ . Boundary conditions at the horizon are regular conditions.Boundary conditions at conformal boundary should satisfy the scaling dimensions,which depend on the potential $V ( \phi )$ as well as the value of $\theta$
+
+Explicitly, the asymptotic expansions near the conformal boundary are
+
+$$
+\begin{array} { c } { { U ( u ) = 1 + \cdots + \varepsilon u ^ { d + 1 } + \cdots , } } \\ { { e ^ { - S ( u ) } = 1 + \cdots , } } \\ { { A ( u ) = \mu + \cdots + \rho u ^ { d - 1 } + \cdots , } } \\ { { \phi ( u ) = \left\{ \begin{array} { l l } { { \lambda + \cdots + \nu u ^ { d + 1 } + \cdots , } } & { { \theta = 0 } } \\ { { \lambda u + \cdots + \nu u ^ { d } + \cdots , } } & { { \theta \not = 0 } } \end{array} \right. } } \end{array}
+$$
+
+where $\mu$ is the chemical potential and $e ^ { - S ( 0 ) }$ has been set to 1 by rescaling $t$ . The different boundary conditions of $\phi ( u )$ come from the different choices of $V ( \phi )$ in (29). We can work on either grand canonical ensemble or canonical ensemble.
+
+# 3.2.1 Grand canonical ensemble
+
+In grand canonical ensemble,we control the value of chemical potential $\mu$
+
+When $\theta = 0$ , the boundary conditions at conformal boundary are $U ( 0 ) = 1 , \ S ( 0 ) = 0 , \ A ( 0 ) = \mu , \ \phi ( 0 ) = \lambda$ We work in the unit of $k$ . The dimensionless quantities parameterizing the family of black hole solutions are $\textstyle \left\{ { \frac { T } { k } } , { \frac { \mu } { k } } , \lambda \right\}$ When $\theta \neq 0$ , the boundary conditions are $U ( 0 ) = 1 , \ S ( 0 ) = 0 , \ A ( 0 ) = \mu , \ \phi ^ { \prime } ( 0 ) = \lambda$ . The dimensionless quantities are $\textstyle \left\{ { \frac { T } { k } } , { \frac { \mu } { k } } , { \frac { \lambda } { k } } \right\}$ ．
+
+We numerically construct the interpolating solutions for $\phi \geq 0$ . When dropping down $T / k$ , we should fix the values of $\big \{ \frac { \mu } { k } , \lambda \big \}$ (for $\theta = 0$ or $\bigl \{ \frac { \mu } { k } , \frac { \lambda } { k } \bigr \}$ (for $\theta \neq 0$ ） within an appropriate region respectively, in order to reach hyperscaling violating solution in the IR at low $T / k$ ：
+
+The dimensionless entropy density and charge density are $s / k ^ { d }$ and $\rho / k ^ { d }$ . We calculate $\eta / s$ by using (18） and found $\begin{array} { r } { \frac { \eta } { s } \leq \frac { 1 } { 4 \pi } } \end{array}$ for all the time, because of the breaking of translational invariance.
+
+At high $T / k$ , the scaling relation is controlled by AdS in the UV,which gives rise to the power laws of $s \sim T ^ { d }$ and （204号 $\begin{array} { r } { \frac { \eta } { s } \sim T ^ { 0 } } \end{array}$ . On the other hand, at low $T / k$ , the hyperscaling violation emerges in the IR. The power law of $s \sim T ^ { \frac { d - \theta } { z } }$ （204 and $\frac { \ d T } { \ d s } \sim T ^ { \kappa }$ are observed in numerical results.
+
+It is worthwhile to notice that $\rho / k ^ { d }$ converges to a nonzero constant at low $T / k$ .When approaching the IR, （204 $e ^ { 2 } ( u )$ converges to a nonzero constant for class I but goes to zero as some power of radial coordinate $u$ for class II. Similarly, at low $T / k$ , the horizon value $e _ { h } ^ { 2 } = e ^ { 2 } ( 1 )$ converges to a nonzero constant for class I but goes to zero as some power law for class $\mathrm { I I }$ ，whose exponent is shown in Appendix A.For the same $\{ d , z , \theta \}$ , it is observed that the appearance of a nonzero $e ^ { 2 }$ always reduces the exponent $\kappa$ of $\begin{array} { r } { \frac { \eta } { s } \sim T ^ { \kappa } } \end{array}$ ，which is consistent with the property that $\kappa$ decreases monotonously with $e ^ { 2 }$ in (26)when $\kappa > 0$
+
+We conduct the numerical calculation for $d = 2$ and $\textstyle \theta = { \frac { 4 } { 3 } }$ ， $0$ ， $- 4$ as representives of three cases, namely $\theta < 0 , \theta = 0$ and $0 < \theta < d$ . Different values of $\gamma$ are chosen to represent class I or class II. The specific results are shown in Figure 1,2,3. Al the numerical results match the analytical ones.
+
+# 3.2.2 Canonical ensemble
+
+In canonical ensemble,we control the value of charge density $\rho$ . The $t$ component of Maxwell equations （7c） can be replaced by (14).
+
+When $\theta = 0$ , the three-parameter family of solutions is characterized by $\textstyle \left\{ { \frac { T } { k } } , \quad { \frac { \rho } { k ^ { d } } } , \lambda \right\}$ .When $\theta \neq 0$ ，the one is characterized by $\textstyle \left\{ { \frac { T } { k } } , { \frac { \rho } { k ^ { d } } } , { \frac { \lambda } { k } } \right\}$ .When lowering down $T / k$ ， we fix the other two dimensionless parameters within an appropriate region. Then $\mu / k$ converges to a nonzero constant at low $T / k$ instead of $\rho / k ^ { d }$ in grand canonical ensemble. The behaviors of $\eta / s$ and $e ^ { 2 }$ are similar to those in grand canonical ensemble. By using the method in Appendix A,we can foresee the value to which $e ^ { 2 }$ converges in the IR at low temperature for class I.
+
+In a parallel manner,we conduct the numerical calculation for $d = 3$ and $\theta = - 6$ ，0，2 to represent the three regions of $\theta < 0 , \ \theta = 0$ and $0 < \theta < d$ . The specific results are shown in Figure 4, 5 and 6. All the numerical results match the analytical ones.
+
+# 4 Conclusion and Outlooks
+
+In this paper we have numericaly constructed charged solutions with emerging hyperscaling violation in EMDAxion model and investigated the temperature behavior of the ratio of shear viscosity to entropy density.We have found that the relevant axion，which breaks the translational invariance,leads to the power law of $\eta / s \sim T ^ { \kappa }$ In particular, the relevant current reduces the exponent $\kappa$ indeed. This reduction is characterized by the quantity $e ^ { 2 }$ ， which can be derived from dimensionless conserved charge density $\rho / k ^ { d }$ . While,irrelevant current does not affect the exponent $\kappa$ since $e ^ { 2 } \to 0$ in the far IR at low temperature. Our analytical results for the exponent $\kappa$ coincide with our numerical calculation,indicating that our proposed formula for $\kappa$ in(5） is robust at least for generic backgrounds within EMD-Axion model.
+
+![](images/624e52dea97a3e14d37111d0622f85cfed49b28ba0943e50a86a2483111f617d.jpg)  
+Fig.1． $d = 2 , \ \theta = 0$ .Parameters are $\alpha = 0$ ， $\beta = - 0 . 3$ ， $\gamma = 0 . 6$ (blue）or 2(orange),then $z = 1 2 . 1$ . Among them, （20 $\gamma = 0 . 6$ belongs to class I; $\gamma = 2$ belongs to class II. Solid lines denote numerical results and dashed lines denote analytical results from (13) and (26). Upper-left:Plot of $e ^ { 2 } ( u )$ at rather low temperatures，where it converges to a nonzero constant in the IR for $\gamma = 0 . 6$ . Upper-right: Log-log plot of $\rho / k ^ { d }$ as a function of $T / k$ ，where $\rho / k ^ { d }$ （20 converges to a constant at low temperature. Lower-left:Exponent $\lambda$ of $s \sim T ^ { \lambda }$ as a function of $T / k$ .Lower-right: Exponent $\kappa$ of $\begin{array} { r } { \frac { \eta } { s } \sim T ^ { \kappa } } \end{array}$ as a function of $T / k$
+
+![](images/1c8738c1957e8097966b1515655b6129dc63f035947a9ad334984d5ec8255414.jpg)  
+Fig. 2. $d = 2 , \ \theta < 0$ .Parameters are $\alpha = 0 . 4 7 1$ ， $\beta = - 0 . 2 3 6$ ， $\gamma = 0 . 9 4 3$ (blue,class I) or 2 (orange,class II),then $z = 5$ and $\theta = - 4$
+
+![](images/bbad87af83a7d3cd48c1f28c74dbef3a8d8057320a4ec748fd2f116c4ad3812c.jpg)  
+Fig. 3. $d = 2 , \theta > 0$ .Parameters are $\alpha = - 1$ ， $\beta = - 1 . 5$ ， $\gamma = 2$ (blue,class I) or 4(orange,class II),then $z = 3$ and $\theta = 1 . 3 3$
+
+![](images/c69dfb50afa56d3601484a247f4713faa8f61249c2779ede7cd517584f78b2de.jpg)  
+Fig.4. $d = 3 , \ \theta = 0$ .Parameters are $\alpha = 0 , ~ \beta = - 0 . 3$ ， $\gamma = 0 . 9$ (blue,class I) or 2(orange,class I),then $z = 8 . 4 1$ In the lower-right plot,it is worthwhile to notice that $\kappa$ converges to a quantity which is greater than 2 at low temperature.
+
+![](images/5e3393fd4847dd014d38702a7cc0442517bac46b536ba23c858c022cd35e5431.jpg)  
+Fig.5. $d = 3 , \ \theta < 0$ .Parameters are $\alpha = 0 . 5$ ， $\beta = - 0 . 2 5$ ， $\gamma = 1 . 7 5$ (blue,class I) or 3 (orange, class II),then $z = 2 . 5 6$ and $\theta = - 6$
+
+![](images/234ee4dedc104485f57a00913a3a9873a588b12d79a5d003589a7912bf903fa4.jpg)  
+Fig.6. $d = 3$ ， $\theta > 0$ . Parameters are $\alpha = - 1 , ~ \beta = - 1 . 5$ ， $\gamma = 2 . 5$ (blue,class I) or 5 (orange,class II),then $z = 2 . 5 6$ and $\theta = 2$ =
+
+Especially, our results for Lifshitz case verify that $\kappa > 2$ can happen in $d > 2$ , indicating that hyperscaling violation is not the essential ingredient leading to the exponent $\kappa > 2$ . Moreover,as conjectured in [13],the upper bounds for $\kappa$ coincide with the behaviors of entanglement entropy.
+
+Analytically, it is possible that irrelevant current or axion can affect the temperature behavior of $\eta / s$ at subleading orders.One should consider their backreaction to the background,then solve the shear perturbation equation (16). It is related to the issue whether temperature $T$ is still the unique scale in entropy production, as it is when axion is relevant. It is worthy of investigation in the future.
+
+We are very grateful to Blaise Gouteraux,Peng Liu and Xiangrong Zheng for helpful discussions and correspondence.
+
+# A The classification of IR solutions
+
+We focus on relevant axion solutions,otherwise $\eta / s$ just converges to a non-zero constant at low temperature at leading order.We require the solutions should have positive specifc heat,and the temperature deformation is the only allowed relevant deformation. In addition, we give an extra requirement of $\theta < d$ . The scaling solutions have been obtained and classified in [31,32].
+
+# A.1 Class I: marginally relevant current,marginally relevant axion
+
+If both the Maxwell and the axion terms are the same order in the power of theradial coordinate as the curvature term and the dilaton potential $V ( \phi )$ in Lagrange (6),scaling solutions obtained form a one-parameter family
+
+$$
+\begin{array} { l } { \displaystyle \beta \epsilon = - 2 , \quad \alpha \epsilon = - \frac { 2 \theta } { d } , \quad \gamma = \alpha ( d - 1 ) - \beta d , \quad \epsilon ^ { 2 } = \frac { 2 ( d - \theta ) ( d ( z - 1 ) - \theta ) } { d } , } \\ { \displaystyle \zeta = \theta - d , \quad L ^ { 2 } = \frac { 2 \left( \delta _ { 0 } - 1 \right) \delta _ { 0 } } { 2 V _ { 0 } - ( d - 1 ) k ^ { 2 } } , \quad Q ^ { 2 } = \frac { 2 \left( k ^ { 2 } ( d z - \theta ) + 2 V _ { 0 } ( 1 - z ) \right) } { \delta _ { 0 } \left( ( d - 1 ) k ^ { 2 } - 2 V _ { 0 } \right) } , } \end{array}
+$$
+
+which can be parameterized by $k$ in coordinate of (1O). The charge related quantities are
+
+$$
+\begin{array} { r c l } { { \rho ^ { 2 } } } & { { = } } & { { \displaystyle \frac { \delta _ { 0 } ^ { 2 } Q ^ { 2 } } { L ^ { 2 } } = \frac { k ^ { 2 } ( \theta - d z ) + 2 V _ { 0 } ( z - 1 ) } { \delta _ { 0 } - 1 } , } } \\ { { e ^ { 2 } } } & { { = } } & { { \displaystyle \frac { \delta _ { 0 } ^ { 2 } Q ^ { 2 } } { L ^ { 2 } k ^ { 2 } } = \frac { k ^ { 2 } ( \theta - d z ) + 2 V _ { 0 } ( z - 1 ) } { k ^ { 2 } ( \delta _ { 0 } - 1 ) } . } } \end{array}
+$$
+
+The mode analysis in [32] indicates that there are three pairs of conjugate modes summing to $\delta _ { 0 }$ . Two pairs are degenerate with $\beta _ { 1 , - } = \beta _ { 2 , - } = 0$ and $\beta _ { 1 , + } = \beta _ { 2 , + } = \delta _ { 0 }$ ： $\beta _ { 1 , - }$ rescales the time. $\beta _ { 1 , + }$ is temperature deformation and responsible for creating a small black hole (11). $\beta _ { 2 , - }$ changes $k$ and shifts the solution along the one-parameter family. $\beta _ { 2 , + }$ changes the chemical potential and belongs to the transformation of gauge symmetry. The expression for the last pair of $\beta _ { 3 , \pm }$ is too tedious to show here. We require that $\beta _ { 1 , + }$ is relevant and $\beta _ { 3 , - }$ is irrelevant,with IR located at $r \to \infty$ . Then the final allowed parameter space here is found to be $\rho ^ { 2 } > 0$ and (27).
+
+Since the quantity $\begin{array} { r } { \frac { \rho } { k ^ { d } } = \frac { \sqrt { - g _ { t t } g _ { r r } g _ { x x } ^ { d } } Z ( \phi ) F ^ { r t } } { ( \partial _ { x } \chi ) ^ { d } } } \end{array}$ isose we can use it toconnect UV with IR and determine the solution in the one-parameter family byusing (33). Finally, $e ^ { 2 }$ can be obtained from $\textstyle { \frac { \rho } { k ^ { d } } }$ by using (34)， which is rather convenient in canonical ensemble.
+
+At zero temperature,one can integrate the three modes of $\beta _ { 2 , - }$ ， $\beta _ { 2 , + }$ and $\beta _ { 3 , - }$ to the UV and adjust them to satisfy the boundary conditions specified by $\{ \lambda , \rho , \mu \}$ at the conformal boundary. A finite temperature solution can be driven by $\beta _ { 1 , + }$ ：
+
+# A.2 Class II: irrelevant current,marginally relevant axion
+
+If only the Maxwell term turns to be subleading,a single scaling solution at leading order is obtained as
+
+$$
+\begin{array} { l } { \displaystyle \beta \epsilon = - 2 , \quad \alpha \epsilon = - \frac { 2 \theta } { d } , \quad \epsilon ^ { 2 } = \frac { 2 ( d - \theta ) ( d ( z - 1 ) - \theta ) } { d } , } \\ { \displaystyle L ^ { 2 } = \frac { \delta _ { 0 } ( d z - \theta ) } { V _ { 0 } } , \quad k ^ { 2 } = \frac { 2 V _ { 0 } ( z - 1 ) } { d z - \theta } . } \end{array}
+$$
+
+There are three pairs of modes, in which two pairs sum to $\delta _ { 0 }$ . The first pair is $\beta _ { 1 , - } = 0$ and $\beta _ { 1 , + } = \delta _ { 0 }$ which are rescaling of time and temperature deformation. The second pair is relevant $\beta _ { 2 , + }$ and irrelevant $\beta _ { 2 , - }$ . The third pair is gauge field modes with
+
+$$
+A ( r ) = A _ { 1 } + A _ { 2 } r ^ { \zeta - z } , \zeta = d - \theta + { \frac { 2 \theta } { d } } - \epsilon \gamma .
+$$
+
+Mode of $A _ { 2 }$ is irrelevant when $\delta _ { 0 } \mathopen { } \mathclose \bgroup \left( \zeta + d - \theta \aftergroup \egroup \right) < 0$ We find $e ^ { 2 } ( r ) \sim r ^ { \zeta - d + \theta }$ and $\rho \sim T ^ { 0 } , e _ { h } ^ { 2 } \sim T ^ { \frac { \zeta - d + \theta } { - z } }$ ，when $T \to 0$ . Similar to class I, we can integrate $\beta _ { 2 , - }$ and gauge field modes to the UV.
+
+# References
+
+P.Kovtun,D.T. Son and A.O. Starinets,Phys.Rev.Lett.94: 111601 (2005)   
+2M.Brigante,H. Liu,R.C.Myers et al, Phys.Rev.D 77:126006 (2008)   
+3 Y.Kats and P. Petrov, JHEP 0901: 044 (2009)   
+D.Mateos and D. Trancanelli,Phys.Rev.Lett.107: 101601 (2011)   
+5 D.Mateos and D.Trancanelli, JHEP 1107:054 (2011)   
+A.Rebhan and D. Steineder,Phys.Rev.Lett.108:021601 (2012)   
+X.H.Ge,Y. Ling,C.Niu et al, Phys.Rev.D 92:no.10,106005 (2015)   
+R.A.Davison and B.Goutraux, JHEP 1501: 039 (2015)   
+9 S.A.Hartnoll, D.M. Ramirez and J.E. Santos, JHEP 1603:170 (2016)   
+10 L.Alberte,M. Baggioli and O. Pujolas,arXiv:1601.03384 [hep-th].   
+11 P.Burikham and N. Poovuttikul, arXiv:1601.04624 [hep-th].   
+12 H. S.Liu,H. Lu and C.N. Pope,arXiv:1602.07712 [hep-th].   
+13 Y. Ling, Z.Y. Xian and Z. Zhou,arXiv:1605.03879 [hep-th].   
+14Y.L.Wang and X.H. Ge,arXiv:1605.07248 [hep-th].   
+15A.M.Garca-Garca,B.Loureiro and A.Romero-Bermdez,arXiv:1606.01142 [hep-th].   
+16 G.T.Horowitz, J.E. Santos and D. Tong,JHEP 1207: 168 (2012)   
+17 G.T.Horowitz and J.E. Santos,JHEP 1306:087 (2013)   
+18 G.T.Horowitz,J.E. Santos and D.Tong,JHEP 1211: 102 (2012)   
+19Y.Ling,C.Niu,J.P.Wu et al, JHEP 1311:006 (2013)   
+20S.A.Hartnoll and D.M.Hofman,Phys.Rev.Lett.108:241601 (2012)   
+21 M.Blake,D. Tong and D.Vegh,Phys.Rev. Lett.112:no.7,071602 (2014)   
+22 E.Kiritsis and J.Ren,JHEP 1509:168 (2015)   
+23 D.Vegh,arXiv:1301.0537 [hep-th].   
+24 T.Andrade and B.Withers, JHEP 1405:101 (2014)   
+25 Y.Ling,P.Liu,C. Niu et al, JHEP 1502:059 (2015)   
+26 M.Blake and A.Donos,Phys.Rev.Lett.114:no.2,021601 (2015)   
+27 M.Baggioli and ( O.Pujolas,l Phys.Rev.Lett.114:no.25,251602 (2015)   
+28 R. Day Schalm and J. Zaanen,Phys.Rev.B 89:no.24, 245116 (2014)   
+29 H s.Rev.D 90:no.4,046001 (2014)   
+30 Am Maggiore et al, JHEP 1409:160 (2014)   
+31 Do P1406:007(2014)   
+32 B. (2014)   
+33 (iritsis,JHEP 1409:038 (2014)   
+34 HEP1404:040 (2014)   
+35 S s.Rev.Lett.112:231601 (2014)   
+36 S Santos,JHEP1509:160 (2015)   
+37 S E.Santos,JHEP 1604:022 (2016)   
+38 A Don Rev.D 86:124046 (2012)   
+39 A Don Hartnoll, Nature Phys.9:649 (2013)   
+40 S.Kachru Liu and M. Mulligan,Phys.Rev.D 78:106005 (2008)   
+41 M.Taylor， v:0812.0530 [hep-th].   
+42 S.S.Gubser and A.Nellore,Phys. Rev.D 80:105007 (2009)   
+43 S.S.Gubser and F.D.Rocha,Phys.Rev.D 81: 04600i (2010)   
+44 M.Cadoni,G.D'Appollonio and P.Pani,JHEP 1003:100 (2010)   
+45 K.Goldstein,S.Kachru,S.Prakash et al, JHEP 1008:078 (2010)   
+46 C.Charmousis,B.Goutéraux,B. S.Kim et al, JHEP 1011: 151 (2010)   
+47 E.Perlmutter,JHEP 1102:013(2011)   
+48 B.Goutéraux,J. Smolic,M. Smolic et al, JHEP 1201: 089 (2012)   
+49 B.Goutéraux and E.Kiritsis,JHEP 1112:036 (2011)   
+50N.Iizuka,N.Kundu,P. Narayan et al, JHEP 1201:094 (2012)   
+51N. Ogawa,T. Takayanagi and T.Ugajin, JHEP 1201:125 (2012)   
+52L.Huijse, S. Sachdev and B. Swingle, Phys.Rev.B 85: 035121 (2012)   
+53 X.Dong,S. Harrison,S. Kachru et al, JHEP 1206:041 (2012)   
+54 M.Alishahiha and H. Yavartanoo, JHEP 1211: 034 (2012)   
+55 J.Bhattacharya,S.Cremonini and A. Sinkovics,JHEP 1302:147 (2013)   
+56B.Goutéraux and E.Kiritsis,JHEP 1304: 053 (2013)

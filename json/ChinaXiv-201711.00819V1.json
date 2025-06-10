@@ -1,0 +1,562 @@
+[
+    {
+        "type": "text",
+        "text": "甘氨酸亚铁对断奶仔猪生长性能、铁表观消化率及血清铁相关指标的影响张文飞1,2廖志超1,2管武太1,2\\*王超先1,2陈芳 $^ 1$ 邓跃林」张世海1（1.华南农业大学动物科学学院，广州510642；2.华南农业大学动物科学学院华农联佑饲用油脂研究中心，广州 510642)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在研究甘氨酸亚铁对断奶仔猪生长性能、铁表观消化率及血清铁相关指标的影响。试验选取12头\"杜 $\\times$ 长 $\\times$ 大” $2 8 { \\pm } 1$ ）日龄断奶仔猪，根据体重、健康状况等均衡分布原则分为2组，每组6个重复，每个重复1头仔猪，单个饲养于消化代谢笼。试验分为2个阶段，第1阶段：2组均饲喂缺铁基础饲粮 $1 0 \\mathrm { d }$ ，使仔猪处于临近贫血状态；第 2阶段：对照组在缺铁基础饲粮中额外添加 $1 0 0 \\mathrm { m g / k g }$ 的硫酸亚铁（以铁计)，试验组额外添加 $1 0 0 \\mathrm { m g / k g }$ 的甘氨酸亚铁（以铁计)，试验期 $1 0 \\mathrm { d }$ 。结果表明：与添加硫酸亚铁相比，饲粮添加甘氨酸亚铁有降低仔猪料重比的趋势 $( P { < } 0 . 1 0 )$ ，降低了 $4 . 5 7 \\%$ ，但对仔猪的平均日增重、平均日采食量无显著差异 $( P { > } 0 . 1 0 )$ ；饲粮添加甘氨酸亚铁能显著降低粪中的铁排出量和铁排出总量 $( P { < } 0 . 0 5 )$ ，分别降低了 $23 . 1 1 \\%$ 和 $2 2 . 0 9 \\%$ ；饲粮添加甘氨酸亚铁能极显著提高铁表观消化率和表观代谢率 $( P { < } 0 . 0 1 )$ ，分别提高了 $1 3 . 3 4 \\%$ 和 $2 2 . 4 2 \\%$ ；同时，饲粮添加甘氨酸亚铁能显著提高血清中的铁饱和度和血液中的铁含量 $( P { < } 0 . 0 5 )$ 。综上，甘氨酸亚铁可提高断奶仔猪的生长性能，提高血液铁含量，改善仔猪铁代谢状况，降低粪便铁排出量，是一种绿色高效的新型补铁剂。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：硫酸亚铁；甘氨酸亚铁；断奶仔猪；生长性能；铁表观消化率；血清铁指标中图分类号：S816",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "铁是畜禽机体生长发育最重要的微量元素之一，同时也是多种酶的重要组分及活化因子，其参与机体多种生化反应，对于促进动物生长、增强机体免疫、提高抗氧化等方面具有重要功能[1-2]。幼畜对铁的需要尤为突出，易出现缺铁性贫血，甚至导致死亡[3-5]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，由于使用成本低，添加无机铁（硫酸亚铁）在母仔猪饲粮中比较普遍，但存在带有结晶水、易氧化、消化利用率低和污染环境等缺点。氨基酸螯合铁是近年来国内外发展较快的第3代铁源添加剂，如赖氨酸铁、蛋氨酸铁、甘氨酸亚铁等，其接近于动物体内天然形态的铁元素补充剂，不仅具有生物学效价高、吸收效率好及绿色环保等特点，还能起到补充氨基酸、微量元素的双重作用[6-7]，同时在吸收代谢、提高动物生产性能等方面业具有明显的优势，微量元素氨基酸螯合铁的研究推动了饲料铁添加剂在断奶仔猪应用的健康、快速发展，是当前国内研制开发应用的热点[8-9]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "氨基酸螯合铁是指金属铁元素以配位键及离子键和氨基酸结合形成的具有环状结构的络合物。甘氨酸易溶于水，且是氨基酸中分子量最小的，从理论上讲由甘氨酸和亚铁螯合成的甘氨酸亚铁更容易穿过小肠上皮细胞而被整体吸收。目前，国内外关于甘氨酸亚铁在仔猪上的应用却鲜有报道，因此，本试验研究了甘氨酸亚铁对仔猪生长性能、铁表观消化率及血清铁相关指标的影响，旨在为其在仔猪饲粮中的应用提供理论参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "硫酸亚铁含铁量为 $31 \\%$ ，为广西兴腾科饲料公司提供；甘氨酸亚铁含铁为 $1 7 \\%$ ，为山东和实公司提供，均为饲料级。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计与饲养管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选取12头（ $2 8 { \\pm } 1$ )日龄体重 $8 . 0 \\mathrm { k g }$ 左右的\"杜 $\\mathbf { \\nabla } _ { \\times }$ 长 $\\times$ 大\"三元杂交仔公猪，随机分成2组，每组6个重复，每个重复1头仔猪，单个饲养于不锈钢的消化代谢笼，2组均饲喂缺铁基础饲粮 $1 0 \\mathrm { d }$ ，使仔猪处于临近贫血状态。然后，对照组在缺铁基础饲粮中额外添加 $1 0 0 \\mathrm { m g / k g }$ 的硫酸亚铁(以铁计)，试验组额外添加 $1 0 0 \\mathrm { m g / k g }$ 的甘氨酸亚铁（以铁计)，饲养5d摸索每头采食量后，以正常饲喂量的 $80 \\%$ 进行限饲，进行5d全收粪、尿试验，试验全期为 20d。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验在华南农业大学动物科学学院试验场进行，配套设施齐全，满足本试验的要求。试验用猪饲养在消化代谢笼内，全程自由饮用去离子水，日常管理及防疫按照常规程序进行。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 试验饲粮 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验饲粮为玉米-豆粕型基础饲粮，其各项营养指标均满足断奶仔猪的营养需求（NRC，2012)，其组成及营养水平见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1基础饲粮组成及营养水平 (风干基础)",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Table 1Composition and nutrient levels of the basal diet (air-dry basis) % ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/7533cce0df074b22c07e346c27dfca8088a87c02984b6136f0fcf9fe6c67f277.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items 含量Content</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "玉米Com 62.30  \n豆粕 Soybean meal 21.20  \n鱼粉 Fish meal 6.50  \n乳清粉 Whey 5.00  \n大豆油 Soybean oil 1.50  \n磷酸氢钙 $\\mathrm { C a H P O _ { 4 } }$ （204号 1.35  \n赖氨酸Lys 0.40  \n苏氨酸Thr 0.03  \n食盐 NaCl 0.14  \n石粉 Limestone 0.58  \n预混料 Premixl) 1.00  \n合计Total 100.00  \n营养水平 Nutrient levels2)  \n消化能 DE/(MJ/kg) 14.14  \n粗蛋白质 CP 19.20  \n钙Ca 0.90  \n总磷TP 0.76  \n有效磷 AP 0.60  \n赖氨酸Lys 1.41  \n蛋氨酸 $+$ 半胱氨酸Met+Cys 0.72  \n苏氨酸Thr 0.81  \n色氨酸Trp 0.19  \n铁 $\\mathrm { F e / ( m g / k g ) }$ （20 78.55",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1’预混料为每千克饲粮提供 The premix provided the following per $\\mathrm { k g }$ of the diet: VA 12 $0 0 0 \\ \\mathrm { I U } , \\mathrm { V D } _ { 3 } \\ 3 \\ 5 0 0 \\ \\mathrm { I U } , \\mathrm { V E } \\ 2 2 . 5 \\ \\mathrm { m g } , \\mathrm { V K } _ { 3 } \\ 3 \\ \\mathrm { m g } , \\mathrm { V B } _ { 1 } \\ 3 \\ \\mathrm { m g } , \\mathrm { V B } _ { 2 } \\ 3 . 7 \\ \\mathrm { m g } , \\mathrm { V B } _ { 6 } \\ 5 \\ \\mathrm { m g } , \\$ 烟酸nicotinic acid $3 0 . 3 ~ \\mathrm { m g } .$ 泛酸pantothenic acid $1 3 . 8 ~ \\mathrm { m g }$ 叶酸folic acid $1 . 5 \\ \\mathrm { m g , S e } \\ 0 . 3 \\ \\mathrm { m g , C u } \\ 5 0 \\ \\mathrm { m g , Z n } \\ 1 0 0$ $\\mathrm { m g , M n 4 0 \\ m g , I 0 . 3 \\ m g }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2’营养水平均为计算值。Nutrient levels were all calculated values. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4样品采集与处理",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.1 血液样品",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在试验结束时分别对每头仔猪进行前腔静脉采血，每头采血2份，一份（ $: 5 \\mathrm { m L }$ ）置于装有肝素钠抗凝剂的离心管，制作全血；另一份（ $1 0 \\mathrm { m L }$ ）置于无抗凝剂的离心管中，静置30min后，离心 $1 0 \\mathrm { m i n }$ （ $3 0 0 0 \\mathrm { r / m i n }$ ）制备血清，分装于1mLEP离心管中，转移至一 $2 0 ^ { \\circ } \\mathrm { C }$ 冰箱保存待测。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 粪尿样品",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "全收粪、尿试验期间，分别收集每头仔猪每天的粪和尿，粪样收集后充分搅拌均匀，采用四分法，按每头的总粪量的 $2 5 \\%$ 取样，每 $1 0 0 \\mathrm { g }$ 加 $5 . 0 \\mathrm { m L } 1 0 \\%$ 酒石酸，再加少量的甲苯防腐，置于一 $2 0 ~ ^ { \\circ } \\mathrm { C } .$ 冰箱保存待测；尿样收集后记录总体积，按 $10 \\%$ 取样装入棕色瓶内，并加入 $10 \\%$ 的硫酸（比例为 $2 : 1 0 0 0 \\mathrm { : }$ ，再加少量甲苯防腐，置于一 $2 0 ^ { \\circ } \\mathrm { C }$ 冰箱保存。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.3 屠宰采样 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验结束后进行屠宰，分别取仔猪的肝脏、脾脏、心脏、肾脏和背最长肌，分别称重和记录后，用滤纸吸干表面水分后装入预先编号的封口袋后并迅速投入液氮中冻存，然后转移至一 $8 0 ~ ^ { \\circ } \\mathrm { C } _ { 1 }$ 冰箱保存。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5 指标测定及方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.1 仔猪生长性能",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分别于试验开始第10天和第21天空腹称重，计算断奶仔猪平均日增重；记录采食量，计算断奶仔猪平均日采食量，计算试验阶段的料重比。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.2 血清铁相关指标",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "血清铁含量、血清总铁结合力、血清不饱和铁结合力、血清铁饱和度以及血液铁含量测定试剂盒均购于南京建成生物工程研究所，操作按说明书进行。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.3饲粮、组织、粪便中铁元素含量的测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用国家标准GB/T13885—2003 测定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6 数据处理及分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验数据采用SPSS17.0统计软件进行独立样本 $\\mathbf { \\chi } _ { t }$ 检验分析，结果均以平均值 $\\pm$ 标准误表示， $P { < } 0 . 0 1$ 表示差异极显著， $P { < } 0 . 0 5$ 表示差异显著， $\\scriptstyle P < 0 . 1 0$ 表示有显著差异趋势。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1甘氨酸亚铁对断奶仔猪生长性能的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，与硫酸亚铁组相比，甘氨酸亚铁组料重比有降低的趋势 $( P { < } 0 . 1 0 )$ ，降低了 $4 . 5 7 \\%$ ，2 组仔猪的平均日增重、平均日采食量无显著差异 $( P > 0 . 0 5 )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2．甘氨酸亚铁对断奶仔猪生长性能的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/29993861449367147803f4ba74c147973b82c19d389038a251a9ac4ab0f6391c.jpg",
+        "table_caption": [
+            "Table 2Effects of ferrous glycine sulfate (Fe-Gly) on growth performance of weaned piglets "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>硫酸亚铁组FeSO4 group</td><td>甘氨酸亚铁组 Fe-Gly group</td></tr><tr><td>始重IW/kg</td><td>9.50±0.73</td><td>9.76±0.32</td></tr><tr><td>末重FW/kg</td><td>13.78±0.66</td><td>14.05±0.65</td></tr><tr><td>平均日增重 ADG/g</td><td>214.16±12.11</td><td>214.08±9.17</td></tr><tr><td>平均日采食量ADFI/g</td><td>369.17±13.15</td><td>335.00±12.46</td></tr><tr><td>料重比F/G</td><td>1.75±0.16</td><td>1.67±0.19</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "同行数据肩标不同大写字母表示差异极显著 $( P { < } 0 . 0 1 )$ ，不同小写字母表示差异显著$( P { < } 0 . 0 5 )$ ，相同小写字母或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ 。下表同。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the same row, values with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ , and with different small letter superscripts mean significant difference ( $\\lceil P { < } 0 . 0 5 \\rceil$ ),while with the same small letter or no letter superscripts mean no significant difference ( $\\mathrm { ( } P { > } 0 . 0 5 \\mathrm { ) }$ . The same as below. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2甘氨酸亚铁对断奶仔猪铁表观消化率和表观代谢率的影响 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，与硫酸亚铁组相比，甘氨酸亚铁组粪中铁排出量、铁排出总量显著降低$( P { < } 0 . 0 5 )$ ，分别降低了 $23 . 1 1 \\%$ 、 $2 2 . 0 9 \\%$ ；铁表观消化率和表观代谢率极显著提高 $( P <$ 0.01)，分别提高了 $1 3 . 3 4 \\%$ 、 $2 2 . 4 2 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3甘氨酸亚铁对断奶仔猪铁的表观消化率和表观代谢率的影响由表4可知，甘氨酸亚铁对断奶仔猪组织器官中铁含量无显著影响 $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/eaa42f5ade3f74913f09163591856c17e32bebcb240da9d8dfacc1dd2bd5e6f4.jpg",
+        "table_caption": [
+            "Table 3Effects of Fe-Gly on iron apparent digestibility and metabolic rate of weaned piglets "
+        ],
+        "table_footnote": [
+            "2.3甘氨酸亚铁对断奶仔猪组织器官中铁含量的影响"
+        ],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>硫酸亚铁组FeSO4 group</td><td>甘氨酸亚铁组Fe-Gly group</td></tr><tr><td>铁摄入量 Iron intake/(mg/kg)</td><td>190.00±12.78</td><td>180.00±15.25</td></tr><tr><td>粪中铁排出量 Iron excretion of feces/(mg/kg)</td><td>78.79±6.14a</td><td>60.58±7.58b</td></tr><tr><td>尿中铁排出量 Iron excretion of urine/(mg/kg)</td><td>19.38±1.42</td><td>15.91±1.28</td></tr><tr><td>铁排出总量 Total iron excretion/(mg/kg)</td><td>98.17±8.56a</td><td>76.48±10.25b</td></tr><tr><td>铁表观消化率 Iron apparent digestibility/%</td><td>58.53±1.08A</td><td>66.34±1.61B</td></tr><tr><td>铁表观代谢率 Iron apparent metabolic rate/%</td><td>48.03±1.25A</td><td>58.80±1.87B</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表4甘氨酸亚铁对断奶仔猪组织器官中铁含量的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/a6202ce97e987ceec6cf133fbc16dcfb3f68dd6b9b15319ddf4de74d8610d1cb.jpg",
+        "table_caption": [
+            "Table 4Effects of Fe-Gly on tissue iron content of weaned piglets ug/g "
+        ],
+        "table_footnote": [
+            "2.4甘氨酸亚铁对断奶仔猪血清铁相关指标的影响"
+        ],
+        "table_body": "<html><body><table><tr><td>组织Tissues</td><td>硫酸亚铁组FeSO4 group</td><td>甘氨酸亚铁组Fe-Gly group</td></tr><tr><td>心脏Heart</td><td>22.73±0.57</td><td>23.18±1.08</td></tr><tr><td>肝脏Liver</td><td>65.20±0.75</td><td>72.86±0.58</td></tr><tr><td>脾脏 Spleen</td><td>59.22±5.40</td><td>63.15±1.85</td></tr><tr><td>肾脏Kidney</td><td>37.18±3.04</td><td>39.93±2.19</td></tr><tr><td>背最长肌 Longissimus dorsi muscle</td><td>4.29±0.75</td><td>4.86±0.58</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表5可知，与硫酸亚铁组相比，甘氨酸亚铁组血清铁饱和度显著提高 $( P { < } 0 . 0 5 )$ ，提高了 $1 5 . 5 7 \\%$ ；血液铁含量显著提高 $( P { < } 0 . 0 5 )$ ，提高了 $3 7 . 0 5 \\%$ ；血清总铁结合力降低了$4 . 6 5 \\%$ ，但差异不显著 $( P { > } 0 . 0 5 )$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表5甘氨酸亚铁对断奶仔猪血清铁相关指标的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/6ade27ba0a3419a90da91178118b22b4a252495e77959eb4d3f70b76d320016b.jpg",
+        "table_caption": [
+            "Table 5Effects of Fe-Gly on serum iron related indices of weaned piglets "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>硫酸亚铁组 FeSO4 group</td><td>甘氨酸亚铁组 Fe-Gly group</td></tr><tr><td>血清铁含量 Serum iron content/</td><td>24.91±1.27</td><td>27.38±1.94</td></tr><tr><td>（μmol/L)</td><td></td><td></td></tr><tr><td>血清总铁结合力 Serum TIBC/</td><td>135.79±3.91</td><td>129.47±6.54</td></tr><tr><td>（μmol/L) 血清不饱和铁结合力 SerumUIBC/</td><td>110.87±2.79</td><td>102.09±5.39</td></tr><tr><td>（μmol/L)</td><td></td><td></td></tr><tr><td>血清铁饱和度 Serum iron</td><td>18.30±0.54a</td><td>21.15±0.96b</td></tr><tr><td>saturation/%</td><td></td><td></td></tr><tr><td>血液铁含量 Blood iron content/</td><td>119.46±15.71a</td><td>163.73±11.92b</td></tr><tr><td>（g/mL)</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "微量元素是动物机体必需的营养素，直接参于机体几乎所有的生理和生化功能，是多种酶的重要组分及活化因子，对生命活动起着极其重要的作用[1l。动物缺铁易导致机体出现贫血，免疫机能受损，代谢紊乱而引起生长发育缓慢、皮肤苍白、被毛粗糙等。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "补铁剂的发展经历了3个阶段：第1代为无机铁盐，包括硫酸亚铁、碳酸亚铁、磷酸亚铁、氯化亚铁等[10]，生产上常用的为硫酸亚铁。但是，这类补铁剂存在消化吸收率低、易受饲料pH、粗纤维和植酸含量等因素的影响，造成矿物资源的浪费和对环境的污染。第2 代为有机铁盐类添加剂。此类添加剂是铁与蛋白质（如酪蛋白）、有机酸（如柠檬酸、富马酸、乳酸等)等螯合而成，但存在改善效果不显著、经济成本较高等问题。氨基酸螯合铁被称为第3代含铁饲料添加剂[1]，是金属元素以配位键、离子键的形式与氨基酸结合形成的具有环状结构的螯合物。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "与无机铁盐以及简单的有机酸铁盐比较，氨基酸螯合铁具有良好的稳定性，在动物胃肠道中溶解度高，不仅能缓解矿物质之间的拮抗以及铁与饲料中抗营养因子的络合作用，而且易被消化吸收、利用率高，还能起到补充氨基酸和铁的双重作用[12-13]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "断奶仔猪对铁元素的需要量高但吸收率低[14]，而有机铁具有口服吸收好、生物学效价高等特点，成为不错的选择。许多研究表明与硫酸亚铁相比，甘氨酸亚铁更容易被转运吸收[15],生物学利用率为同水平硫酸亚铁的 $1 2 5 \\% \\sim 1 8 5 \\% ^ { [ 1 6 ] } .$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Feng 等[17]研究报道，与添加 $1 2 0 ~ \\mathrm { m g / k g }$ 的铁硫酸亚铁相比，断奶仔猪饲粮中添加等量的甘氨酸螯合铁可降低粪中铁含量，Creech 等[18]也得出一致结果；Muniz 等[19]比较有机矿物质元素和无机矿物质元素在24\\~57日龄仔猪阶段的效果，结果表明，添加有机微量元素能提高仔猪的生长性能，但对肝脏、心脏、脾脏和肾脏中矿物质元素沉积的影响差异不显著。刘卫东等[20]在断奶仔猪试验组饲粮中添加 $0 . 0 5 \\%$ 的甘氨酸亚铁，试验组较对照组(无机铁)腹泻率降低 $56 . 3 \\%$ ，日增重提高 $9 . 1 \\%$ ，差异达到显著水平，料重比降低 $6 . 2 \\%$ 。Cocato 等[21]对44 头21日龄断奶仔猪研究发现，饲料中添加蛋氨酸铁比添加硫酸亚铁更能提高饲料的转化率。冯国强等[22]研究表明，饲粮中添加甘氨酸亚铁与硫酸亚铁相比，能显著改善肉鸡的生长性能，显著提高血清中免疫球蛋白G（IgG)、免疫球蛋白M（IgM）含量以及血清中超氧化物歧化酶（SOD）和过氧化氢酶（CAT）的活性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本试验中，研究结果与前人基本一致。与添加硫酸亚铁相比，添加甘氨酸亚铁有降低料重比的趋势，降低了 $4 . 5 7 \\%$ ，对其他生长性能无显著影响；对组织器官中铁的沉积影响不显著；显著降低了粪便中铁的排出量，对保护环境具有积极的作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "杨敏[23]研究证明甘氨酸亚铁可显著提高过氧化氢酶CAT 活性，降低血清丙二醛含量，显著提高 IgM 含量；赖氨酸亚铁、蛋氨酸亚铁、富马酸亚铁可提高二价金属离子转运体1（DMT1）在十二指肠的表达量，促进铁的吸收。李伟[24]研究证明，铁添加量相同的有机铁组IgM含量高于无机组。陈凤芹等[25]在25日龄断奶仔猪饲粮中分别添加硫酸亚铁、富马酸亚铁和甘氨酸亚铁，发现添加甘氨酸亚铁的仔猪血清 IgG 含量比添加硫酸亚铁组和富马酸铁组分别提高了 $12 . 2 \\%$ 和 $10 . 6 \\%$ 。张一鸣等[26]研究报道，与添加同剂量硫酸亚铁比较，添加二肽螯合铁能显著提高的仔猪的平均日增重，降低料重比，显著提高血清铁含量。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "铁吸收的主要场所是十二指肠和空肠近端，由绒毛上成熟的肠细胞介导完成。现认为氨基酸螯合铁在小肠中吸收可能存在2种不同的机制：1）氨基酸螯合微量元素在肠道中被解离，以离子形式被吸收利用，如铁离子通过位于小肠刷状缘膜的DMT1介导转运至肠细胞，再通过位于基底膜的膜铁转运蛋白1（FP1）转运进入血液，同时分离出的氨基酸也通过肠上皮细胞被机体利用[27-29]；2）氨基酸螯合盐以小肽形式通过特异或非特性转运载体[如小肽转运蛋白1(PepT1)]进入机体组织，整体被小肠吸收[30]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本试验中，与添加硫酸亚铁相比，添加甘氨酸亚铁极显著提高了铁表观消化率和表观代谢率，提高血液铁含量，与前人的研究结果一致。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "与添加无机铁（硫酸亚铁）相比，饲粮中添加有机铁（甘氨酸亚铁）可提高断奶仔猪的生长性能，提高血液铁含量，极显著改善仔猪铁代谢状况，显著降低粪便铁排出量，其是一种绿色高效的新型补铁剂。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]李德发.猪的营养[M].北京:北京农业大学出版社,1996:197-200.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[2] BEARD J L.Iron biology in immune function,muscle metabolism and neuronal functioning[J].Journal of Nutrition,2001,131(2):568S-580S. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[3] SVOBODA M,DRABEK J,KREJCI J,et al.Impairment of the peripheral lymphoid compartment in iron-deficient piglets[J].Journal of Veterinary Medicine.B: Infectious Diseases and Veterinary Public Health,2004,51(5):231-237. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[4] ETTLE T,SCHLEGEL P,ROTHF X.Investigations on iron bioavailability of different sources and supply levelsinpiglets[J].JournalofAnimalPhysiology and Animal Nutrition,2008,92(1):35-43. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[5]孙效名,吴信,印遇龙,等.幼龄动物铁吸收及其调控[J].动物营养学报,2012,24(6):1001-",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1006. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[6]王进波,吴天星.氨基酸螯合铁在养猪生产中的应用研究进展[J].中国畜牧杂志,2004,40(7):42-45.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[7]吴信,印遇龙,邢芳芳,等.国内外微量元素氨基酸螯合物的应用研究进展[J].猪业科学,2008,35(3):68-71.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[8]KEGLEY E B,SPEARS JW,FLOWERS WL,et al.Iron methionine as a source of iron for the neonatal pig[J].Nutrition Research,2002,22(1O):1209-1217. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[9]蔡超,魏艳红,曲湘勇,等.有机微量元素替代无机微量元素在猪与鸡粪便减排中的研究进展[J].湖南饲料，2015(2):20-23.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[10]孙晓光.日粮添加螯合铜、铁、锰和锌对生长肥育猪增重,胴体特性和矿物元素消化率的影响[D].硕士学位论文.南京:南京农业大学,2009.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[11]钟国清.第三代微量元素添加剂的研究进展[J].饲料工业,1996,17(2):23-26.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[12]胡培,程茂基,江涛,等.甘氨酸铁对断奶仔猪生长性能的影响[J].饲料工业,2011,32(13):29-32.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[13]郭建来,李梦云,朱宽佑,等.添加不同比例复合有机微量元素对仔猪生产性能、养分利用率及血清生化指标的影响[J].饲料工业,2014,35(19):18-21.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[14]YU B,HUANG W J,CHIOU P W S.Bioavailability of iron from amino acid complex in weanling pigs[J].Animal Feed Science and Technology,2000,86(1/2):39-52. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[15]PINEDA O,ASHMEAD D W.Effectiveness of treatment of iron-deficiency anemia in infants and young children with ferrous bis-glycinate chelate[J].Nutrition,2Oo1,17(5):381-384. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[16]LAYRISSE M,GARCIA-CASAL MN,SOLANO L,et al.Iron bioavailability in humans from breakfasts enriched with iron bis-glycine chelate,phytates and polyphenols[J].Journal of Nutrition,2000,130(9):2195-2199. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[17] FENG J,MA W Q,XU Z R,et al.The effect of iron glycine chelate on tissue mineral levels,fecal mineral concentration,and liver antioxidant enzyme activity in weanling pigs[J].Animal Feed Science and Technology,2009,150(1/2):106-113. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[18] CREECH B L,SPEARS J W,FLOWERS W L,et al.Effect of dietary trace mineral concentration and source (inorganic vs. chelated) on performance,mineral status,and fecal mineral excretion in pigsfrom weaning through finishing.[J].Journal of Animal Science,2004,82(7):2140-2147. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[19]MUNIZ MHB,BERTOD A,AUGUSTOR M N,et al.Organic and inorganic mineral sources for weanling piglets[J].Ciencia Rural,2010,40(1O):2163-2168. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[20]刘卫东,王雷,程璞,等.甘氨酸螯合铁对断奶仔猪生产性能的影响[J].安徽农业科学,2008,36(3):1048,1096.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[21]COCATO ML,DA TRINDADE NETO M A,BERTO D A,et al.Biodisponibilidade de ferro em diferentes compostos para leitoes desmamados aos 21 dias de idade[J].Revista Brasileira de Zootecnia,2008,37(12):2129-2135. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[22]冯国强,吴静,方翠林,等.甘氨酸亚铁对肉仔鸡生产性能和免疫机能及抗氧化指标的影响[J].中国畜牧杂志,2012,48(11):42-46.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[23]杨敏.饲粮添加不同类型有机铁对断奶仔猪生产性能及铁吸收利用的影响[D].硕士学位论文.雅安:四川农业大学,2012",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[24]李伟.不同铁源和添加水平对断奶仔猪健康生长的营养调控研究[D].硕士学位论文.南京：南京农业大学，2012.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[25]陈凤芹,计峰,程茂基,等.不同铁源对断奶仔猪生长性能、免疫功能及铁营养状况的影响[J].中国畜牧兽医,2008,35(7):11-14.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[26]张一鸣,孙效名,万丹,等.二肽螯合铁对仔猪生长性能、血清铁和抗氧化指标的影响[J].动 物营养学报,2016,28(8):2551-2555. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[27]YEUNG C K,GLAHN R P,MILLER D D.Inhibition of iron uptake from iron salts and chelates by divalent metal cations in intestinal epithelial cells[J].Journal of Agricultural and Food Chemistry,2005,53(1):132-136. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[28]FOOTN J,DALTON HE,SHEARWIN-WHYATTLM,et al.Regulation of the divalent metal ion transporter DMT1 and iron homeostasis by a ubiquitin-dependent mechanism involving Ndfips and WWP2[J].Bl00d,2008,112(10):4268-4275. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[29] MAZARIEGOS D I,PIZARRO F,OLIVARE M,et al.The mechanisms for regulating absorption of Fe bis-glycine chelate and Fe-ascorbate in caco-2 cels are similar[J].Journal of Nutrition,2004,134(2):395-398. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[30] FANG C L,ZHUO Z,FANG S L,et al.Iron sources on iron status and gene expression of iron related transporters in iron-deficient piglets[J].Animal Feed Science and Technology,2013,182(1/2/3/4):121-125. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Effects of Dietary Ferrous Glycine Sulfate on Growth Performance, Iron Apparent Digestibility and Serum Iron Related Indices of Weaned Piglets   \nZHANG Wenfei1,2LIAO Zhichao1,2GUAN Wutai1.i\\*WANG Chaoxian1,2CHEN Fang1 DENG Yuelin'ZHANG Shihai1   \n(1. College of Animal Science, South China Agricultural University, Guangzhou 510642, China; 2. SCAU-Unioil Feeding Oil &Fat Research Centre, College of Animal Science, South China Agricultural University, Guangzhou 510642, China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This experiment was conducted to investigate the effects of dietary ferrous glycine sulfate (Fe-Gly) on growth performance, iron apparent digestibility and serum iron related indices of weaned piglets.Twelve（ $2 8 \\pm 1$ ）day-old Duroc $\\mathrm { . } \\times$ LandracexLarge Yorkshire weaned piglets were assigned to 2 groups with 6 replicates each and 1 pig in each replicate according body weight and health condition, and every pig was individually raised in a digestive metabolic cage. There were two stages in this experiment,and in period 1,all pigs were fed an iron-deficient basal diet for 10 days until iron-deficient anemia was almost induced, while in period 2, pigs in control group were fed the iron-deficient basal diet supplemented with $1 0 0 \\mathrm { m g / k g }$ ferrous sulfate (as iron content), and in experimental group were fed the iron-deficient basal diet supplemented with $1 0 0 ~ \\mathrm { { m g / k g } }$ Fe-Gly (as iron content) for 10 days.The results showed that compared with the ferrous sulfate: dietary FeGly tended to decrease the ratio of feed to gain by $4 . 5 7 \\%$ $( P { < } 0 . 1 0 )$ , but had no significant effects on average daily feed intake and average daily gain $( P { > } 0 . 0 5 )$ of piglets; Dietary Fe-Gly significantly decreased iron excretion in feces and total iron excretion by $2 3 . 1 1 \\%$ and $2 2 . 0 9 \\%$ $( P { < } 0 . 0 5 )$ ， respectively； Dietary Fe-Gly extremely significantly increased the apparent digestibility and metabolic rate of iron by $1 3 . 3 4 \\%$ and 22.42 $( P { < } 0 . 0 1 )$ ， respectively; Meanwhile Dietary Fe-Gly significantly increased iron saturation and blood iron content. In conclusion,Fe-Gly can increase growth performance of weaned piglets,increase blood iron content, improve iron metabolic status, and reduce iron excretion. Thus, Fe-Gly is a good green efficient complement iron agent. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words: ferrous sulfate; Fe-Gly; weaned piglets; growth performance; iron apparent digestibility; serum iron indices ",
+        "page_idx": 10
+    }
+]

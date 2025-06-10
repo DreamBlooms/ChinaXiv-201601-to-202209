@@ -1,0 +1,552 @@
+[
+    {
+        "type": "text",
+        "text": "Gravitational Wave Signals of Electroweak Phase Transition Triggered by Dark Matter ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wei Chao,1 Huai-Ke Guo,² and Jing Shu2,3 （204号 $^ { I }$ Center forAdvanced Quantum Studies,Departmentof Physics,Beijing Normal UniversityBeijing,100875,China\\* 2 CAS Key Laboratory of Theoretical Physics,Institute of Theoretical Physics, Chinese Academy of Sciences,Beijing 100190,China+ 3 CAS Center for Excellnce in Particle Physics，Beijing 10o49,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We study in this work a scenario that the universe undergoes a two step phase transition with the first step happened to the dark mater sector and the second step being the transition between the dark mattr and the electroweak vacuums,where the barier between the two vacuums,that is necessary for a strongly first order electroweak phase transition (EWPT) as required by the electroweak baryogenesis mechanism,arises at the tree-level.We illustrate this idea by working with the standard model(SM) augmentedbyascalar singlet dark matter and an extra scalar singlet which mixes with the SM Higgs boson.We study theconditions for such pattern of phase transition to occur and especially for the strongly first order EWPT to take place,as wellas its compatibilitywiththe basic requirements of asuccessful dark matter,suchas observedrelic density and constraints of direct detections.We further explore the discovery possibility of this pattern EWPT by searching for the gravitational waves generated during this process in spaced based interferometer,by showing arepresentative benchmark point of the parameter space that the generated gravitational waves fall within the sensitivity of eLISA,DECIGO and BBO. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers:11.30.Er,11.30.Fs,11.30.Hv,12.60.Fr,31.30.jp ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Standard Model (SM) of particle physics so far provides an excellent description of a wide variety of experimental observations,nevertheless,it must be extended because it fails at least in explaining two cosmological puz zles:it does not provide a dark matter (DM) candidate and it is not possible to generate the observed baryon asymmetry of the universe (BAU). The later one requires a strongly first order electroweak phase transition(EWPT) to provide a non-equilibrium environment if the BAU is generated via the electroweak baryogenesis mechanism [1-4]. Since the 125 GeV Higgs boson is too heavy to give rise to a first order EWPT [5,6],new ingredients beyond the SM Higgs interactions may be needed. On the other hand,howDM interacts with the SM particles remains unknown. The Higgs portal turnsto be attractive since itmaykill two birds(DM and the strongly first order EWPT[7]) with one stone. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The characteristics of a scalar DM triggered strongly first order EWPT are twofold: (i) It is a two-step phase transition [8-14] and the barrier between electroweak symmetric and broken phases arises at the tree-level, which may avoid the problem of gauge-dependence [15]; (ii) The parameter space of the model is strongly constrained by the exclusion limits of direct detections and can not explain the observed relic density. It was pointed out in Ref.[16] that,for the SM plus a real scalar DM $S$ scenario, $S$ could only constitute up to $3 \\%$ of the total DM relic density,while still be relevant for the direct detection because of its sizable coupling with the SM Higgs as required by the two-step EWPT. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this paper,we revisit this type of EWPT by extending the SM with a scalar singlet DM $S$ and another scalar singlet $\\Phi$ which can mix with the SM-like Higgs boson. Due to the mixing of $\\Phi$ with the SM Higgs, there are two separate contributions to DM nucleon scattering,which may cancel with each other and leads to a negligible cross section.It results in a mechanism to suppress the direct detection signal and evade the currently most stringent experimental constraints from the direct detection experiments[17,18].Furthermore,the quartic interaction $\\Phi ^ { 2 } \\bar { S } ^ { 2 }$ may contribute to the mass of $S$ ，which can lead to a relatively small quartic coupling of $S$ with the SM-like Higgs and result ina sizable relic density.As a result the tension between the DM relic density and direct detection which occurs for the SM plus singlet case [19,2O] can be highly loosed in this scenario. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "For the thermal history of the universe,the presence of the two additional scalars allows a two step EWPT. This happens as follows: As the universe cools down, $S$ gets vacuum expectation value(VEV) first and the universe transits to this phase;As the temperature gets lower,a second minimum occurs in the SM-like Higgs and $\\Phi$ subspace.The universe then tunnels to this electroweak minimum resulting in a strongly first order EWPT with gravitational waves (GW) generated.GW signals coming from this two-step EWPT are calculated using one benchmark point of the parameter space and our results show that the corresponding GW signals are testable in the Evolved Laser Interferometer Space Antenna (eLISA),DECi-hertz Interferometer Gravitational wave Observatory (DECIGO),Ultimate-DECIGO and Big Bang Observer (BBO). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The remaining of this paper is organized as follows.Conventions of the model are defined in Sec.II.We then study the DM phenomenology in Sec.II and the capability of a strongly first order EWPT in Sec.IV.The GW calculations and discovery prospects are explored in Sec.V,after which we presenta brief summaryin Sec.VI. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "II. THEMODEL ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We present the model for two-step phase transition and scalarDM in this section.The model extends the SM with two real scalar singlets: $S$ and $\\Phi$ ，where $S$ is the DM candidate,while $\\Phi$ gets non-zero VEV at the zero temperature and thus mixes with the SM Higgs [68]. The Higgs potential can be Written as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { V _ { 0 } } } & { { = } } & { { \\displaystyle - \\frac { 1 } { 2 } \\mu _ { \\Phi } ^ { 2 } \\Phi ^ { 2 } + \\frac { 1 } { 4 } \\lambda _ { \\Phi } \\Phi ^ { 4 } - \\frac { 1 } { 2 } \\mu _ { S } ^ { 2 } S ^ { 2 } + \\frac { 1 } { 4 } \\lambda _ { S } S ^ { 4 } } } \\\\ { { } } & { { } } & { { \\displaystyle ~ - \\mu ^ { 2 } H ^ { \\dagger } H + \\lambda ( H ^ { \\dagger } H ) ^ { 2 } + \\lambda _ { 1 } S ^ { 2 } H ^ { \\dagger } H + \\lambda _ { 2 } \\Phi ^ { 2 } H ^ { \\dagger } H } } \\\\ { { } } & { { } } & { { \\displaystyle ~ + \\lambda _ { 3 } S ^ { 2 } \\Phi ^ { 2 } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $H$ is the SM Higgs doublet. The effective potential, critical for the EWPT, can be written as: $V _ { \\mathrm { e f f } } = V _ { \\mathrm { 0 } } + V _ { \\mathrm { C W } } +$ $V _ { \\mathrm { T } }$ ，where $V _ { 0 }$ is the tree-level potential, $V _ { \\mathrm { C W } }$ is known as the Coleman-Weinberg term [21], $V _ { \\mathrm { T } }$ includes finite temperature contributions from loops [22] and bosonic ring [23, 24]. For one-step phase transition,where Higgs potential contains no tree-level cubic term, the barrier between the electroweak symmetric and broken phases usually arises from loop corrections and according to the Nielsen identity [25], the resulting effective potential is gauge dependent. For the two step phase transition, the barrier arises at the tree-level.So we include in the effective potential the standard one-loop $T \\neq 0$ corrections,but only retain terms proportional to $\\mathcal { O } ( T ^ { 2 } )$ for the consideration of gauge invariance. Thermal masses of scalars take the following forms: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { \\Pi _ { h } } } & { { = } } & { { \\displaystyle \\left\\{ \\frac { 3 g ^ { 2 } + g ^ { \\prime 2 } } { 1 6 } + \\frac { \\lambda } { 2 } + \\frac { h _ { t } } { 4 } + \\frac { \\lambda _ { 1 } + \\lambda _ { 2 } } { 1 2 } \\right\\} T ^ { 2 } , } } \\\\ { { } } & { { } } & { { } } \\\\ { { \\Pi _ { s } } } & { { = } } & { { \\displaystyle \\left\\{ \\frac { \\lambda _ { S } } { 4 } + \\frac { \\lambda _ { 1 } } { 3 } + \\frac { \\lambda _ { 3 } } { 6 } \\right\\} T ^ { 2 } , } } \\\\ { { } } & { { } } & { { } } \\\\ { { \\Pi _ { \\phi } } } & { { = } } & { { \\displaystyle \\left\\{ \\frac { \\lambda _ { \\Phi } } { 4 } + \\frac { \\lambda _ { 2 } } { 3 } + \\frac { \\lambda _ { 3 } } { 6 } \\right\\} T ^ { 2 } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We require $S$ to have zero VEV at $T \\ = \\ 0$ for the stability of the DM and parametrize the other two fields by $H =$ $( \\dot { 0 } , ( v _ { \\mathrm { E W } } + h ) / \\sqrt { 2 } )$ and $\\phi = v _ { \\Phi } + \\phi$ with here $v _ { \\mathrm { E W } } \\approx 2 4 6 \\mathrm { G e V }$ and $h _ { t } \\approx 1$ . Minimization conditions around $( v _ { \\mathrm { E W } } , v _ { \\Phi } , 0 )$ in the $( h , \\phi , s )$ space allow us to trade the two VEVs $v _ { \\mathrm { E W } }$ and $v _ { \\Phi }$ for $\\mu ^ { 2 }$ and $\\mu _ { \\Phi } ^ { 2 }$ by ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu ^ { 2 } = \\lambda _ { h } v _ { \\mathrm { E W } } ^ { 2 } + \\lambda _ { 2 } v _ { \\Phi } ^ { 2 } , \\quad \\mu _ { \\Phi } ^ { 2 } = \\lambda _ { 2 } v _ { \\mathrm { E W } } ^ { 2 } + \\lambda _ { \\Phi } v _ { \\Phi } ^ { 2 } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We also replace $\\mu _ { S } ^ { 2 }$ by the physical DM mass $m _ { S } ^ { 2 }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { S } ^ { 2 } = \\lambda _ { 1 } v _ { \\mathrm { E W } } ^ { 2 } + 2 \\lambda _ { 3 } v _ { \\Phi } ^ { 2 } - m _ { S } ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "With these substitutions, the mass matrix for $( h , \\phi )$ is then given by ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { M } ^ { 2 } = 2 \\left( \\begin{array} { c c } { v _ { \\mathrm { E W } } ^ { 2 } \\lambda } & { v _ { \\mathrm { E W } } v _ { \\Phi } \\lambda _ { 2 } } \\\\ { v _ { \\mathrm { E W } } v _ { \\Phi } \\lambda _ { 2 } } & { v _ { \\Phi } ^ { 2 } \\lambda _ { \\Phi } } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "which can be diagonalized by a $2 \\times 2$ orthogonal matrix parametrized by a rotation angle $\\theta$ .The mass eigenstate $( \\hat { h } , \\hat { s } )$ can then be written as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\hat { h } = } & { { } c _ { \\theta } h + s _ { \\theta } \\phi , \\qquad \\hat { \\phi } = - s _ { \\theta } h + c _ { \\theta } \\phi . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $c _ { \\theta } = \\cos \\theta$ and $s _ { \\theta } = \\sin \\theta$ We define $\\hat { h }$ as the SMlike Higgs boson and therefore when $\\theta  0$ ， $\\hat { h }$ is purely the SM Higgs. With this definition,three of the parameters in the potential $\\lambda , \\lambda _ { 2 } , \\lambda _ { \\Phi }$ can be replaced by the physical masses $m _ { \\hat { h } } ^ { 2 } , m _ { \\hat { s } } ^ { 2 }$ and $\\theta$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\lambda = \\frac { m _ { \\hat { h } } ^ { 2 } c _ { \\theta } ^ { 2 } + m _ { \\hat { \\phi } } ^ { 2 } s _ { \\theta } ^ { 2 } } { 2 v _ { \\mathrm { E W } } ^ { 2 } } , } \\\\ & { \\lambda _ { 2 } = \\sin ( 2 \\theta ) \\frac { m _ { \\hat { h } } ^ { 2 } - m _ { \\hat { \\phi } } ^ { 2 } } { 4 v _ { \\mathrm { E W } } v _ { \\Phi } } , } \\\\ & { \\lambda _ { \\Phi } = \\frac { m _ { \\hat { h } } ^ { 2 } s _ { \\theta } ^ { 2 } + m _ { \\hat { \\phi } } ^ { 2 } c _ { \\theta } ^ { 2 } } { 2 v _ { \\Phi } ^ { 2 } } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In summary,we have a total of7 free parameters: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nv _ { \\Phi } , \\quad m _ { \\hat { \\phi } } , \\quad m _ { S } , \\quad \\lambda _ { S } , \\quad \\theta , \\quad \\lambda _ { 1 } , \\quad \\lambda _ { 3 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\lambda _ { 1 }$ and $\\lambda _ { 3 }$ are relevant for the DM phenomenology. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Before proceeding to study EWPT and DM phenomenology，we discuss constraints on the mixing angle $\\theta$ from Higgs measurements and electroweak precision measurements.Couplings of the SM-like Higgs to all SM particles arerescaled by the factor $c _ { \\theta }$ due to the mixing. As a result, signal rates,the ratio of Higgs measurements relative to the SM-like Higgs measurements, equal to $c _ { \\theta } ^ { 2 }$ .Performing a universalHiggs fit to the data given bythe ALTAS and CMS collaborations,one has $| \\theta | \\leq 0 . 5 2 6$ at the $9 5 \\%$ CL [26].It Was shown in Ref.[27] that the constraint of electroweak precision is closely related to the mass of $\\hat { \\phi }$ ,which isweaker than that of Higgs measurements for a light $\\hat { \\phi }$ and turns to be much strong as m& gets heavier. For constraints of vacuum stabilityand perturbativity,we refer the reader to Refs.[28,29] for detail. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "III. DARKMATTER ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The fact that about $2 6 . 8 \\%$ of the universe is made of DM, whose relic abundance is about $\\Omega _ { c } h ^ { 2 } = 0 . 1 1 8 9$ [30],has been well established,while the nature of the DMis still unknown. The Higgs potential in Eq. (1), has $Z _ { 2 } \\times Z _ { 2 }$ discrete symmetry for $S$ and $\\Phi$ respectively. At the zero temperature, $\\Phi$ gets non-zero VEV and thus its corresponding $Z _ { 2 }$ is broken. On the other hand,we require that the global minimum at $T = 0$ forbids a nonzero VEV in the $s$ direction．As a result $s$ can serve as a DM candidate,which interacts with the SM particles via the Higgs portal interactions. The couplings between the DM and the physical scalars are ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { s ^ { 2 } \\hat { h } } & { { } : 2 \\lambda _ { 3 } v _ { \\phi } s _ { \\theta } + \\lambda _ { 1 } v _ { \\mathrm { E W } } c _ { \\theta } \\ , } \\\\ { s ^ { 2 } \\hat { \\phi } } & { { } : 2 \\lambda _ { 3 } v _ { \\phi } c _ { \\theta } - \\lambda _ { 1 } v _ { \\mathrm { E W } } s _ { \\theta } \\ , } \\\\ { s ^ { 2 } \\hat { h } ^ { 2 } } & { { } : \\frac { 1 } { 2 } \\lambda _ { 1 } c _ { \\theta } ^ { 2 } + \\lambda _ { 3 } s _ { \\theta } ^ { 2 } \\ , } \\\\ { s ^ { 2 } \\hat { \\phi } ^ { 2 } } & { { } : \\frac { 1 } { 2 } \\lambda _ { 1 } s _ { \\theta } ^ { 2 } + \\lambda _ { 3 } c _ { \\theta } ^ { 2 } \\ , } \\\\ { s ^ { 2 } \\hat { h } \\ \\hat { \\phi } : c _ { \\theta } s _ { \\theta } ( 2 \\lambda _ { 3 } - \\lambda _ { 1 } ) \\ . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c15f75a60468d333ad9e5b7b85ea8b91983b8bf020c47f7e6f31fb2621a6c6eb.jpg",
+        "img_caption": [
+            "FIG. 1: Results from a scan over the parameter space in plane $( m s , \\lambda _ { 1 } )$ for the left panel and $( \\theta , \\lambda _ { 1 } )$ for the right panel. Every point in these plots generates tedesidEWPTpatandleadstovanisngnuclonscateingossctionattreelevel.Thegreepoitsfurter gives DM relic density within the interval $\\Omega _ { c } h ^ { 2 } \\in ( 0 . 0 3 , 0 . 1 2 )$ . The red points,in addition to generating relic density falling into this interval, also satisfy the strong first order EWPT condition $v _ { h } ( T _ { C } ) / T _ { C } \\gtrsim 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The relic density of the DM is governed by the Boltzmann equation: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { n } + 3 H n = - \\langle \\sigma v \\rangle ( n ^ { 2 } - n _ { \\mathrm { E Q } } ^ { 2 } ) \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $H$ is the Hubble constant, $\\langle \\sigma v \\rangle$ is the thermal average of the reduced annihilation cross section.For our model, the DM can annihilate into $\\bar { f } f$ $f , Z Z / W W$ ， $\\hat { h } \\hat { h }$ ， $\\hat { \\phi } \\hat { \\phi }$ and $\\hat { h } \\hat { \\phi }$ final states via s-channel Higgs mediations,where di-scalar processes also receive contribution from four point interactions in Eq.(17) .Compared with the most simple Higgs portal, here there are more annihilation channels for a heavy DM. CouplingsinEqs.(13)and(14)are both relevant to theDMdirect detections,while the contribution of $\\hat { \\phi }$ mediated processes is suppressed by the factor $s _ { \\theta } ^ { 2 }$ and thus is negligible for a small $\\theta$ .Fornumerical simulations we implement the model in LanHEP[31,32] and use MicrOMEGAs [33,34] to calculate the relic density. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For direct detections,the spin independent scattering cross section off nucleon is given by ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { n } = \\frac { \\mu ^ { 2 } m _ { n } ^ { 2 } } { \\pi v _ { \\mathrm { E W } } ^ { 2 } m _ { S } ^ { 2 } } \\left| \\frac { c _ { \\theta } a _ { \\hat { h } } } { m _ { \\hat { h } } ^ { 2 } } - \\frac { s _ { \\theta } a _ { \\hat { \\phi } } } { m _ { \\hat { \\phi } } ^ { 2 } } \\right| ^ { 2 } \\left( \\frac { 2 } { 9 } + \\frac { 7 } { 9 } \\sum _ { q = u , d , s } f _ { T _ { q } } ^ { n } \\right) ^ { 2 } (\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $a _ { \\hat { h } } , \\ a _ { \\hat { \\phi } }$ are effective couplings in Eqs. (13) and(14) respectively and $f _ { T _ { q } } ^ { n }$ are nucleon form factors for light quarks [35]. The inclusion of $\\Phi$ that mixes with the SM Higgs can lead to a complete cancellation in contributions to $\\sigma _ { n }$ at tree level. This occurs when the effective coupling of DM with quarks vanishes,that is,when the expression in $| \\cdots |$ vanishes.Imposing this condition would allow us to eliminate one more parameter $\\lambda _ { 3 }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { 3 } = \\frac { v _ { \\mathrm { E W } } \\lambda _ { 1 } ( m _ { \\hat { h } } ^ { 2 } \\tan \\theta + m _ { \\hat { \\phi } } ^ { 2 } \\cot \\theta ) } { 2 v _ { \\Phi } ( m _ { \\hat { h } } ^ { 2 } - m _ { \\hat { \\phi } } ^ { 2 } ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "which will be adopted in the following numerical analysis for simplicity. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For a detailed survey of the parameter space,we perform a parameter scan and show the results in Fig.1 in the plane $( m _ { S } , \\lambda _ { 1 } )$ (left panel) and in the plane $( \\theta , \\lambda _ { 1 } )$ (right panel). In these plots,the green points give the relic density within the range $\\Omega _ { c } h ^ { 2 } \\in \\mathring { ( 0 . 0 3 , 0 . 1 2 ) }$ allowed by the current results from Planck [3O],in addition to being able to induce a twostep EWPT pattern as discussed later.From the plot in the left panel,we can see the coupling $\\lambda _ { 1 }$ that can give a relic density within this range is of magnitude (O.Oo5,O.O2) fora relatively heavy DM,while it can be larger $\\approx 0 . 0 6$ fora relatively light DM.For the right plot, the mixing angle is mostly negative since most of the scanned points are for $m _ { \\hat { \\phi } } > m _ { \\hat { h } }$ and therefore a negative $\\theta$ is needed to give a positive $\\lambda _ { 2 }$ according to Eq.10. The red points in both plots also give a strongly first order EWPT condition $v _ { h } ( T _ { C } ) / T _ { C } \\gtrsim 1$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "IV.ELECTROWEAKPHASETRANSITION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The barrier between the electroweak symmetric and broken phases emerges at the tree-level in our two-step phase transition scenario.As a result, the effective potential,which includes the standard one-loop $T \\neq 0$ corrections but only retain the leading terms( thermal mass terms) in the high $T$ expansion so as to avoid problems relating to the gauge dependence, can be written as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { V _ { \\mathrm { e f f } } } } & { { = } } & { { \\displaystyle - \\frac { 1 } { 2 } ( \\mu _ { \\Phi } ^ { 2 } - \\Pi _ { \\phi } ) \\phi ^ { 2 } - \\frac { 1 } { 2 } ( \\mu _ { S } ^ { 2 } - \\Pi _ { s } ) s ^ { 2 } } } \\\\ { { } } & { { } } & { { \\displaystyle ~ - \\frac { 1 } { 2 } ( \\mu ^ { 2 } - \\Pi _ { h } ) h ^ { 2 } + \\frac { 1 } { 4 } \\lambda h ^ { 4 } + \\frac { 1 } { 2 } \\lambda _ { 1 } s ^ { 2 } h ^ { 2 } + \\frac { 1 } { 2 } \\lambda _ { 2 } \\phi ^ { 2 } h ^ { 2 } } } \\\\ { { } } & { { } } & { { \\displaystyle ~ + \\lambda _ { 3 } s ^ { 2 } \\phi ^ { 2 } + \\frac { 1 } { 4 } \\lambda _ { \\Phi } \\phi ^ { 4 } + \\frac { 1 } { 4 } \\lambda _ { S } s ^ { 4 } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a26ad6f69678593f7f978ae196318850c22bbbe2598203755dba188440777bd4.jpg",
+        "img_caption": [
+            "FIG.2:This figure gives an illustrative picture of the two step EWPT with the first step in the $s$ direction and the subsequent one from $s$ （204号 direction to the $( h , \\phi )$ direction. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "in terms of background fields $h , \\phi$ and $s$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Given Eq. (21), one can trace the evolution of the universe phase as temperature drops and our desired pattern ofEWPT is illustrated in Fig.2.At sufficiently high temperature,the universe sits at the global minimum $( 0 , 0 , 0 )$ where the electroweak symmetry is restored.As temperature drops to $T _ { s }$ ，a minimum develops in the $s$ direction and due to an absence of a barrier with the one at the origin, the universe transits to this minimum through a second order phase transition.As $T$ continues decreasing to $T _ { h }$ ，a second minimum develops in the $( h , \\phi )$ direction but its free energy is initially higher than the one in the $s$ direction. As $T$ further decreases,the free energy of the minimum in the $( h , \\phi )$ direction drops faster than the one in the $s$ direction,and at the critical temperature $T _ { C }$ these two minima become degenerate. Slightly below $T _ { C }$ ,the universe makes a second transition to the global minimum in the $( h , \\phi )$ direction. Due to the existence of the barrier between these two minima, the transition may occur as a first order EWPT by a tunneling process and proceeds through nucleations of electroweak bubbles [36-38] which expand, collide and coalesce, leaving eventually the universe in the electroweak broken phase.To avoid washing out of the generated baryons by the sphaleron process inside the electroweak bubble,the sphaleron process needs to be sufficiently suppressed inside the bubble and this translates into the following generallyadopted criterion[2,3, 39]: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { v _ { h } ( T _ { C } ) } { T _ { C } } \\stackrel { > } { _ \\sim } 1 .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Note that due to the reflection symmetry of the effective potential under $h  - h$ P $\\phi  - \\phi$ or $s \\to - s$ ,there are identical phase structures and we focus on the region with $h , \\phi , s > 0$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The VEV of the SM Higgs at the finite temperature can be ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Written as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nv _ { h } ( T ) = \\sqrt { v _ { \\mathrm { E W } } ^ { 2 } + \\frac { \\lambda _ { 2 } \\Pi _ { \\phi } - \\lambda _ { \\Phi } \\Pi _ { h } } { \\lambda \\lambda _ { \\Phi } - \\lambda _ { 2 } ^ { 2 } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The critical temperature $T _ { C }$ can be calculated analytically from the following equation: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\frac { \\lambda ( \\mu _ { \\Phi } ^ { 2 } - \\Pi _ { \\phi } ) ^ { 2 } - 2 \\lambda _ { 2 } ( \\mu ^ { 2 } - \\Pi _ { h } ) ( \\mu _ { \\Phi } ^ { 2 } - \\Pi _ { \\phi } ) + \\lambda _ { \\Phi } ( \\mu ^ { 2 } - \\Pi _ { h } ) ^ { 2 } } { \\lambda \\lambda _ { \\Phi } - \\lambda _ { 2 } ^ { 2 } } } } \\\\ { { \\displaystyle = \\frac { ( \\mu _ { S } ^ { 2 } - \\Pi _ { s } ) ^ { 2 } } { \\lambda _ { S } } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\mu ^ { 2 } , \\mu _ { \\Phi } ^ { 2 }$ and $\\mu _ { S } ^ { 2 }$ can be written in terms of physical parameters. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Asa concrete example,we show in the left panel of Fig. 3, the evolution of $V$ at these two minima as the temperature drops from right to the left,for the parameter choice $v _ { \\Phi } = 6 5 \\mathrm { G e V }$ $5 \\mathrm { G e V } , m _ { \\hat { \\phi } } = 8 2 \\mathrm { G e V } , m _ { S } = 7 1 \\mathrm { G e V } , \\lambda _ { S } = 0 . 0 1 5$ $\\theta = 0 . 1 2$ ， $\\lambda _ { 1 } = 0 . 0 4 6$ and $\\lambda _ { 3 } = 0 . 5 7$ .Here the horizontal green line on the far right denotes the symmetric phase at high temperature when the universe sits at the origin,the magenta dashed line represents the minimumin the $s$ direction and the blue line is the minimum in the $( h , \\phi )$ direction which eventually evolves to the electroweak minimum at the zero temperature labeled by a red dot. The $s$ direction phase appears at $T _ { s } ~ = ~ 1 5 0 \\mathrm { G e V }$ continuously away from the origin while the $( h , \\phi )$ direction phase starts from $( 1 5 9 \\mathrm { G e V } , 9 . 1 5 \\mathrm { G e V } , 0 )$ 号 at $T _ { h } = 1 0 8 \\mathrm { G e V }$ above which it is a saddle point. The $T$ at which the blue and magenta lines intersect is the critical temperature $T _ { C } = 7 8 . 8 \\mathrm { G e V }$ and is labeled bya black dot.At $T _ { C }$ the two minima are $( 2 0 5 \\mathrm { G e V } , 4 5 \\mathrm { G e V } , 0 )$ and $( 0 , 0 , 3 5 2 \\mathrm { G e V } )$ For more details on the evolution of the minimum in the $( h , \\phi )$ direction,we plot in the right panel the track of this minimum in blue dotted line for the whole thermal history with here the red arrow denoting the direction as temperature drops. The contours in this plot gives an measure of the value $V$ at $T = 0$ and the electroweak vacuum labelled by the red point sits at the deepest location. For this parameter choice,the strongly first order EWPT criterionEq.(22)isachieved since $v _ { h } ( T _ { C } ) / T _ { C } = 2 . 6$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A more comprehensive survey of the model is given by a scan over the parameter space as shown in Fig.1 where all plotted points give above described pattern of EWPT by imposing various conditions during the scan.These conditions include: (i) there are two minima in the feld space with one in the $s$ direction and the other in $( h , \\phi )$ direction;(ii) the electroweak minimum needs to be lower than the one in the $s$ direction at $T = 0$ should the $s$ direction minimum persist at $T = 0$ ； (iii) the minimum in the $s$ direction occurs earlier than the one in the $( h , \\phi )$ direction,that is, $T _ { s } ~ > ~ T _ { h }$ .After imposing these conditions, the points are further fltered to give a relic density in the range(O.O3,O.12) with the remaining plotted using green color. At this step,these points can give a two-step EWPT and a sizable amount of relic density but the second step EWPT is not necessarily strongly first order.As such,we further calculate the critical temperature $T _ { C }$ and $v _ { h } ( T _ { C } )$ corresponding to the black intersection point of the blue and magenta lines for each above green point. The points which satisfy the condition in Eq.(22)are shown with red color in Fig.1.So we can see there are sufficient parameter space in this model where the desired strongly first order EWPT pattern can be realized.We note in passing that the second order phase transition for the first step could also be strongly first order, should a more complete effective potential be adopted. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4ef79efe12ddf26e2cd11599130152f377dce74ccdc58981c6330096d2f27358.jpg",
+        "img_caption": [
+            "FIG.3: The left panel shows the evolution of $V$ at the two minima in s(blue) and in $( h , \\phi )$ (magenta dashed) directions as $T$ drops from right to left.The right panel shows the tracks of the minimum (blue dotted line) in the $( h , \\phi )$ direction for the thermal history with the contours denoting the values of $V$ at $T = 0$ .In these plots,the magenta, blue,black and red dots represent the temperatures at $T _ { s } ~ = ~ 1 5 0 \\mathrm { G e V }$ $T _ { h } = 1 0 8 \\mathrm { G e V }$ $T _ { C } = 7 8 . 8 \\mathrm { G e V }$ and $T = 0$ respectively. The parameters are chosen as: $v _ { \\Phi } = 6 5 \\mathrm { G e V }$ $m _ { \\hat { \\phi } } = 8 2 \\mathrm { G e V }$ ， $m s = 7 1 \\mathrm { G e V }$ $\\lambda _ { S } = 0 . 0 1 5$ $\\theta = 0 . 1 2$ $\\lambda _ { 1 } = 0 . 0 4 6$ and $\\lambda _ { 3 } = 0 . 5 7$ which gives $v _ { h } ( T _ { C } ) / T _ { C } = 2 . 6$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "V. GRAVITATIONALWAVES ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The calculation of the GWs generated during the second step EWPT needs a numerical analysis of the tunneling process at finite temperature and in particular involves solving the critical bubble profiles. As mentioned in previous section,after the universe cools down to a temperature below $T _ { C }$ ，the second transition from $( 0 , \\ 0 , \\ v _ { s } )$ to the true vacuum $( v _ { h } , v _ { \\phi } , 0 )$ takes place by the nucleation of true vacuum bubbles. This tunneling rate per unit time per unit volume reads [40] ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma \\sim A ( T ) e ^ { - S _ { 3 } / T } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $S _ { 3 }$ is the Euclidean action of the critical bubble which minimizes theaction ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { 3 } ( \\vec { \\phi } , T ) = 4 \\pi \\int r ^ { 2 } d r \\left[ \\frac { 1 } { 2 } \\left( \\frac { d \\vec { \\phi } ( r ) } { d r } \\right) ^ { 2 } + V ( \\vec { \\phi } , T ) \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and the prefactor $A ( T )$ is roughly of $\\mathcal { O } ( T ^ { 4 } )$ ，whose precise evaluation needs integrating out fluctuations around the bounce solution [41].From this rate formula, the bubble nucleation temperature $T _ { n }$ is defined as the probability fora single bubble to be nucleated within one horizon volume being $\\mathcal { O } ( 1 )$ ,i.e. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { 0 } ^ { t _ { n } } \\Gamma V _ { H } ( t ) d t = \\int _ { T _ { n } } ^ { \\infty } \\frac { d T } { T } \\left( \\frac { 2 \\zeta M _ { \\mathrm { p l } } } { T } \\right) ^ { 4 } e ^ { - S _ { 3 } / T } = \\mathcal { O } ( 1 ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $V _ { H } ( t )$ is the horizon volume, $M _ { \\mathrm { p l } }$ is the Planck mass and $\\zeta ~ \\sim ~ 3 ~ \\times ~ 1 0 ^ { - 2 }$ .This equation implies numerically $S _ { 3 } ( T _ { n } ) / T _ { n } \\approx 1 4 0$ [42] and serves as our definition of $T _ { n }$ From the bounce solutions,two other important parameters $\\alpha$ and $\\beta$ ，that are directly relevant for the calculation of GWs, are defined by: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha \\equiv \\frac { \\rho _ { \\mathrm { v a c } } } { \\rho _ { \\mathrm { r a d } } ^ { * } } \\ , \\qquad \\beta \\equiv H _ { n } T _ { n } \\left. \\frac { d S _ { 3 } } { d T } \\right| _ { T _ { n } } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\rho _ { \\mathrm { v a c } }$ is the vacuum energy density released in the phase transition, $H _ { n }$ is the Hubble parameter at $T _ { n }$ ， $\\rho _ { \\mathrm { r a d } } ^ { * } =$ $\\overset { \\cdot } { g } _ { * } \\pi ^ { 2 } T _ { n } ^ { 4 } / 3 0$ with $g _ { * }$ the relativistic degrees of freedom in the plasma at $T _ { n }$ . A small $\\beta / H _ { n }$ will trigger strong phase transition and consequently a significant stochastic background of GWs. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The observable characterizing the GW background is the energy spectrum $h ^ { 2 } \\Omega _ { \\mathrm { G W } } ( f )$ and is given by [42] ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh ^ { 2 } \\Omega _ { \\mathrm { G W } } ( f ) = \\frac { h ^ { 2 } } { \\rho _ { c } } \\frac { d \\rho _ { \\mathrm { g w } } } { d \\log f } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\rho _ { \\mathrm { g w } }$ is the energy density of GWs with $f$ its frequency and $\\rho _ { c }$ is the critical energy density today. The sources of stochastic GW signals arising from first order EWPT can be classified into three categories:（1) collisions of bubble walls and shocks in the plasma;(2) sound waves in the plasma after the bubble collision;(3）Magnetohydrodynamic (MHD) turbulence in the plasma [43]. The total energy spectrum is given approximately by the sum of these three sources, ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8022e5fcf8504fc93bb3c4aac4d47abc2b191980d8dda36c30a51cdcc7af2574.jpg",
+        "img_caption": [
+            "FIG.4: The left panel shows changes of $S ( T ) / T$ in the neighborhood of $T _ { n }$ and the right panel shows the GWs generated during the first order EWPTasafunctioffreqecyfrotrsours:oundaesbeodasdline)ollsioddotdne),buleesd line)andtotalontributio(cansolidline).TheolorsadedegiosfallwitintexperimentalsesitivitisofISfourofuratis with notation NiAjMkLl), ALIA(gray), BBO(green), DECIGO(yellow) and Ultimate-DECIGO(purple). "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh ^ { 2 } \\Omega _ { \\mathrm { G W } } \\approx h ^ { 2 } \\Omega _ { \\mathrm { c o l l } } + h ^ { 2 } \\Omega _ { \\mathrm { s w } } + h ^ { 2 } \\Omega _ { \\mathrm { t u r b } } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The GW contribution from bubble collisions can be calculated using the envelope approximation [44-46],which numerically results in the following GW contribution to the spectrum [47]: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } { h ^ { 2 } \\Omega _ { \\mathrm { c o l l } } ( f ) } & { = } & { 1 . 6 7 \\times 1 0 ^ { - 5 } \\left( \\frac { H _ { n } } { \\beta } \\right) ^ { 2 } \\left( \\frac { \\kappa \\alpha } { 1 + \\alpha } \\right) ^ { 2 } \\left( \\frac { 1 0 0 } { g _ { * } } \\right) ^ { \\frac { 1 } { 3 } } } \\\\ & { } & { \\times \\left( \\frac { 0 . 1 1 v _ { w } ^ { 3 } } { 0 . 4 2 + v _ { w } ^ { 2 } } \\right) \\left[ \\frac { 3 . 8 ( f / f _ { \\mathrm { c o l l } } ) ^ { 2 . 8 } } { 1 + 2 . 8 ( f / f _ { \\mathrm { c o l l } } ) ^ { 3 . 8 } } \\right] , ( 3 0 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $v _ { w }$ is bubble wall velocity, $\\kappa$ characterizes the fraction of latent heat deposited in a thin shell and $f _ { \\mathrm { c o l l } }$ is the peak frequency produced by the bubble collisions. At the time of the_phase transition $f _ { \\mathrm { c o l l } } ^ { n } ~ = ~ 0 . 6 2 \\beta / ( 1 . 8 ~ -$ $0 . 1 v _ { w } \\ + \\ v _ { w } ^ { 2 } )$ ，which is red-shifted to give the peak frequency today: $\\begin{array} { c c c c c } { { f _ { \\mathrm { c o l l } } } } & { { = } } & { { f _ { \\mathrm { c o l l } } ^ { n } \\ \\times \\ a ( T _ { n } ) / a _ { 0 } } } & { { = } } & { { 1 6 . 5 \\ \\times } } \\end{array}$ $1 0 ^ { - 6 } \\mathrm { H z } ( f _ { \\mathrm { c o l l } } ^ { n } / H _ { n } ) ( T _ { n } / 1 0 0 \\mathrm { G e V } ) ( g _ { * } / 1 0 0 ) ^ { 1 / 6 }$ . Both $v _ { w }$ and $\\kappa$ are functions of $\\alpha$ ,which read as [48]: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nv _ { w } = \\frac { 1 / \\sqrt { 3 } + \\sqrt { \\alpha ^ { 2 } + 2 \\alpha / 3 } } { 1 + \\alpha } , \\qquad \\kappa \\simeq \\frac { 0 . 7 \\alpha + 0 . 2 \\sqrt { \\alpha } } { 1 + 0 . 7 \\alpha } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The sound wave contribution of the GW intensity is numerically fitted by ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } {  { h ^ { 2 } \\Omega _ { \\mathrm { s w } } ( f ) \\ = \\ 2 . 6 5 \\times 1 0 ^ { - 6 } ( \\frac { H _ { n } } { \\beta } ) ( \\frac { \\kappa _ { v } \\alpha } { 1 + \\alpha } ) ^ { 2 } ( \\frac { 1 0 0 } { g _ { \\ast } } ) ^ { \\frac { 1 } { 3 } } } } \\\\ & { } & { \\times \\upsilon _ { w } ( \\frac { f } { f _ { \\mathrm { s w } } } ) ^ { 3 } [ \\frac { 7 } { 4 + 3 ( f / f _ { \\mathrm { s w } } ) ^ { 2 } } ] ^ { 7 / 2 } , ( 3 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $\\kappa _ { v }$ denotes the faction of latent heat transformed into bulk motion of the fluid, $f _ { \\mathrm { s w } }$ is the peak frequency that can be given from the rescaling of its value at the phase transition, i.e. $f _ { \\mathrm { s w } } = f _ { \\mathrm { s w } } ^ { n } \\times a ( T _ { n } ) \\tilde { / a } _ { 0 } = ( 2 / \\sqrt { 3 } ) ( \\beta / \\tilde { v _ { w } } ) \\times a ( T _ { n } ) / a _ { 0 }$ Werefer the reader to Refs.[43,49] for thevalue of $\\kappa _ { v }$ in the small and large $v _ { w }$ limit.The MHD turbulence contribution to the GW spectrum can be written as ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } & { } & { h ^ { 2 } \\Omega _ { \\mathrm { t u r b } } ( f ) ~ = ~ 3 . 3 5 \\times 1 0 ^ { - 4 } \\left( \\frac { H _ { n } } { \\beta } \\right) \\left( \\frac { \\kappa _ { \\mathrm { t u } } \\alpha } { 1 + \\alpha } \\right) ^ { 3 / 2 } \\left( \\frac { 1 0 0 } { g _ { * } } \\right) ^ { \\frac { 1 } { 3 } } } \\\\ & { } & { \\times v _ { w } \\frac { ( f / f _ { \\mathrm { t u } } ) ^ { 3 } } { ( 1 + f / f _ { \\mathrm { t u } } ) ^ { 1 1 / 3 } ( 1 + 8 \\pi f / h _ { n } ) } , ~ ( 3 3 ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $\\kappa _ { \\mathrm { t u } } \\approx 0 . 1 \\kappa _ { v }$ [50], $h _ { n }$ is the Hubble parameter today, and $f _ { \\mathrm { t u } } \\approx ( 3 . 5 / 2 ) ( \\beta / v _ { w } ) \\times a ( T _ { n } ) / a _ { 0 }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We use the package CosmoTransitions [51] to solve for profiles of the critical bubble and the nucleation temperature for the benchmark point used earlier. This parameter choice gives $\\Omega _ { c } h ^ { 2 } = 0 . 0 4$ constituting about $3 4 \\%$ of the total DM relic density. For this benchmark parameter point,we show in the left panel of Fig.4 the quantity $S ( T ) / T$ as a function of $T$ and we found $T _ { n } = 4 1 . 2 \\mathrm { G e V }$ .The resulting GW signals are shown in the right panel of Fig.4 where the three contributions are shown with details in the caption.As can be seen from this figure,the blue sound wave contribution dominates and is almost indistinguishable from the sum of the three sources which is denoted by the cyan line.For a comparison with experiment, we show firstly four sensitive regions corresponding to four configurations of the eLISA detector. These four regions are labelled in the format NiAjMkLl and are plotted as the red shaded regions at the top following conventions of Ref.[43,52]. We can see for this parameter set, the GWs can be detected by the configuration N2A5M5L6 while unreachable by the others.We further add the sensitivitive regions of several other proposed decihertz GW experiments:Advanced Laser Interferometer Antenna(ALIA)[53][69],BBO,DECIGO and Ultimate-DECIGO [54]. The data are taken from Ref. [55-57] and are plotted as gray, green, yellow and purple regionsrespectively[7O].From theplot,we can see the GW signals from the benchmark point fall within the detectable ranges of BBO,DECIGO and Ultimate-DECIGO.It should be noted that there might be other points in the model parameter space where the generated GWs can have much larger energy density spectrumand are therefore within reach of the other three eLISA configurations as well as ALIA,and give a sufficiently large DM relic density in the meanwhile.This however needs a dedicated survey of the parameter space includingall the considerationsand we leave itto futureworks. For GWs from one-step EWPT in SM extended with scalar singlet(s) [71],we refer the reader to Refs.[58-63] as well asreferences cited in these papers for detail. Alternatively, first order phase transition may lead to originations of primordial black holes. They can be captured by neutron stars or astrophysical black holes [64], resulting in GWs that may be detected by Advanced LIGO or Advanced Virgo. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "VI. SUMMARY ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Working in a simple model with the SM extended by a scalar singletDMand another scalar singlet which mixes with ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]V.A.Kuzmin,V.A.Rubakov,and M.E.Shaposhnikov,“On the Anomalous ElectroweakBaryon Number Nonconservation in the Early Universe,\"Phys.Lett.B155(1985) 36.   \n[2]M.E.Shaposhnikov,“Possible Appearance of the Baryon Asymmetryof theUniverse inan Electroweak Theory, JETP Lett. 44(1986) 465-468.[Pisma Zh.Eksp. Teor. Fiz.44,364(1986)].   \n[3]M.E.Shaposhnikov,“Baryon Asymmetry of theUniverse in Standard Electroweak Theory,\" Nucl.Phys.B287(1987) 757-775.   \n[4]D.E.Morrissey and M.J.Ramsey-Musolf,“Electroweak baryogenesis,”New J.Phys.14(2012) 125003, arXiv:1206.2942[hep-ph].   \n[5]A.I.Bochkarev andM.E.Shaposhnikov,“Electroweak Production of Baryon Asymmetry and Upper Bounds on the Higgsand Top Masses,\"Mod.Phys.Lett.A2(1987) 417.   \n[6]K.Kajantie,M.Laine,K.Rummukainen,and M.E. Shaposhnikov,“The Electroweak phase transition: A Nonperturbative analysis,\" Nucl.Phys.B466(1996) 189-258, arXiv:hep-lat/9510020 [hep-lat].   \n[7] J.R.Espinosa,T.Konstandin,and F.Riva,“Strong ElectroweakPhase Transitions in the Standard Model with a Singlet,\" Nucl.Phys.B854 (2012) 592-630, arXiv:1107.5441 [hep-ph].   \n[8] C.Cheung and Y.Zhang,“Electroweak Cogenesis,” JHEP09(2013)002,arXiv:1306.4321 [hep-ph].   \n[9] H.H. Patel and M. J. Ramsey-Musolf,“Stepping Into Electroweak Symmetry Breaking: Phase Transitions and Higg: Phenomenology,\"Phys.Rev.D88(2013) 035013, arXiv:1212.5652 [hep-ph]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "the SM-like Higgs boson,we studied a possible connection between the DM phenomenology and the EWPT,in particular the detectability of the GW signals generated during the DM assisted EWPT.Through both analytical and numerical studies, we find this model may admit strongly first order two-step EWPT in certain parameter space,which may also give rise to a viable the DM relic density and a negligible direct detection cross section. We further exemplified,using one representative benchmark point, the discovery possibility of the EWPT with the generated GW signals during the second step EWPT and found that the GW signals can be detected by the eLISA in the configurationN2A5M5L6,BBO,DECIGO and UltimateDECIGO. This scenario can readily be generalized to other models where DM can have nontrivial effect in the baryon number generation and is helpful in understanding and testing the origin of these two cosmological puzzles. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "VII. ACKNOWLEDGEMENTS ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This work is supported by the National Natural Science Foundation of China under grant No.11647601,No.11690022 and No.11675243 and also supported by the Strategic Priority ResearchProgramofthe ChineseAcademyofSciencesunder grant No.XDB230301OO.Part of the results described in this paperare obtained on the HPC Clusterof SKLTP/ITP-CAS. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[10] S. Inoue,G. Ovanesyan,and M. J. Ramsey-Musolf,“Two-Step Electroweak Baryogenesis,”Phys.Rev.D93(2016) 015013, arXiv:1508.05404 [hep-ph].   \n[11]H.H.Patel,M.J.Ramsey-Musolf,and M.B.Wise,“Color Breakingin the Early Universe,” Phys.Rev.D88 no.1,(2013) 015003, arXiv:1303.1140[hep-ph].   \n[12]M.Chala,G.Nardini,andI. Sobolev,“Unified explanation for dark matterand electroweak baryogenesis with direct detection and gravitational wave signatures,\" Phys.Rev.D94 no.5,(2016) 055006, arXiv:1605.08663 [hep-ph].   \n[13]V.Vaskonen,“Electroweak baryogenesis and gravitational waves from a real scalar singlet,\" arXiv:1611.02073 [hep-ph].   \n[14]S.J.Huber,T.Konstandin,G.Nardini,and I.Rues, “Detectable Gravitational Waves from Very Strong Phase Transitions in the General NMSSM,\" JCAP 1603 no.03,(2016) 036, arXiv:1512.06357 [hep-ph].   \n[15]H.H.Patel and M.J.Ramsey-Musolf,“Baryon Washout, Electroweak Phase Transition,and Perturbation Theory,\" JHEP07(2011)029,arXiv:1101.4665 [hep-ph].   \n[16] J.M. Cline and K.Kainulainen,“Electroweak baryogenesis and dark matter froma singlet Higgs,\"JCAP1301 (2013) 012, arXiv:1210.4196 [hep-ph].   \n[17]LUX Collaboration,D.S.Akerib etal.,“Results froma search for dark matter in the complete LUX exposure,\" Phys.Rev. Lett.118 no.2,(2017) 021303, arXiv:1608.07648[astr0-ph.CO].   \n[18]PandaX-IICollaboration,A.Tan et al.,‘Dark Matter Results from First 98.7Days of Data from the PandaX-IIExperiment,\" Phys.Rev. Lett.117 no.12,(2016) 121303, arXiv:1607.07400 [hep-ex].   \n[19]L.Feng,S.Profumo,and L.Ubaldi,“Closing in on singlet scalar dark matter:LUX,invisible Higgs decays and gamma-ray lines,”JHEP03(2015) 045, arXiv:1412.1105 [hep-ph].   \n[20]A.De Simone,G.F.Giudice,and A.Strumia,“Benchmarks forDarkMatter Searchesat theLHC,JHEP06(2014) 081, arXiv:1402.6287 [hep-ph].   \n[21] S.R.Coleman and E.J.Weinberg,“Radiative Corrections as the Origin of Spontaneous Symmetry Breaking,” Phys.Rev.D7(1973)1888-1910.   \n[22]M.Quiros,“Finite temperature field theory and phase transitions,'inProceedings,Summer School in High-energy physicsandcosmology:Trieste,Italy,June29-July17,1998, pp.187-259.1999. arXiv:hep-ph/9901312 [hep-ph]. http://alice.cern.ch/format/showfull?sysnk   \n[23] R.R.Parwani,“Resummation in a hot scalar field theory,\" Phys. Rev.D45 (1992) 4695, arXiv:hep-ph/9204216[hep-ph].[Erratum:Phys. Rev.D48,5965(1993)].   \n[24] D.J.Gross,R.D. Pisarski,and L.G. Yaffe,“QCD and Instantons at Finite Temperature,\" Rev. Mod.Phys.53 (1981) 43.   \n[25] N.K.Nielsen,“On the Gauge Dependence of Spontaneous Symmetry Breaking in Gauge Theories,” Nucl.Phys.B101(1975) 173-188.   \n[26] W. Chao,“Hiding Scalar Higgs Portal Dark Matter,\" arXiv:1601.06714 [hep-ph].   \n[27] S.Profumo,M.J.Ramsey-Musolf, C.L.Wainwright,and P.Winslow,“Singlet-catalyzed electroweak phase transitions and precision Higgs boson studies,\" Phys.Rev.D91 no.3,(2015) 035018, arXiv:1407.5342 [hep-ph].   \n[28] M. Gonderinger, Y.Li,H. Patel,and M.J. Ramsey-Musolf, “Vacuum Stability,Perturbativity,and Scalar Singlet Dark Matter,\" JHEP01 (2010) 053, arXiv:0910.3167 [hep-ph].   \n[29] W. Chao,M. Gonderinger,and M.J.Ramsey-Musolf,“Higgs Vacuum Stability,Neutrino Mass,and Dark Matter, Phys. Rev.D86 (2012) 113017, arXiv:1210.0491 [hep-ph].   \n[30]Planck Collaboration,P.A.R.Ade et al.,\"Planck 2015 results. XIII. Cosmological parameters,\" Astron. Astrophys.594 (2016) A13, arXiv:1502.01589 [astr0-ph.CO].   \n[31] A.V. Semenov,“LanHEP:A Package for automatic generatior of Feynman rules in gauge models,\" arXiv:hep-ph/9608488 [hep-ph].   \n[32]A.Semenov,“LanHEP-a package for automatic generation ol Feynman rules from the Lagrangian.Updated version 3.1,\" arXiv:1005.1909 [hep-ph].   \n[33]G.Belanger,F.Boudjema,A.Pukhov,and A. Semenov, “MicrOMEGAs:A Program for calculating the relic density in the MSSM, Comput.Phys. Commun.149(2002) 103-120, arXiv:hep-ph/0112278 [hep-ph].   \n[34] G.Belanger,F.Boudjema,A.Pukhov,and A. Semenov, “micrOMEGAs-3:A program for calculating dark matter observables,\" Comput.Phys.Commun.185 (2014) 960-985, arXiv:1305.0237 [hep-ph].   \n[35] H.-Y. Cheng and C.-W. Chiang,“Revisiting Scalar and Pseudoscalar Couplings with Nucleons,” JHEP 07 (2012) 009, arXiv:1202.1292 [hep-ph].   \n[36] S.R.Coleman,“The Fate of the False Vacuum.1. Semiclassical Theory,\"Phys. Rev. D15 (1977) 2929-2936. [Erratum: Phys. Rev.D16,1248(1977)].   \n[37] A.D.Linde,‘Fate of the False Vacuum at Finite Temperature: Theory and Applications,\"Phys. Lett. B100(1981) 37-40.   \n[38] A.D.Linde,“Decay of the False Vacuum at Finite Temperature,’Nucl. Phys.B216 (1983) 421.[Erratum: Nucl. Phys.B223,544(1983)].   \n[39] J.M. Cline,“Baryogenesis,”in Les Houches Summer School - Session 86: Particle Physics and Cosmology: The Fabric of Spacetime Les Houches,France,July 31-August 25,2006. 2006.arXiv:hep-ph/0609145 [hep-ph].   \n[40] G.D. Moore and T. Prokopec,“How fast can the wall move? A Study of the electroweak phase transition dynamics,” Phys.Rev.D52(1995) 7182-7204, arXiv:hep-ph/9506475 [hep-ph].   \n@4Iq 8G. V. Dunne and H. Min,“Beyond the thin-wall approximation: Precise numerical computation of prefactors in false vacuum decay,” Phys. Rev. D72 (2005) 125004, arXiv:hep-th/0511156 [hep-th]   \n[42] R. Apreda, M. Maggiore, A. Nicolis,and A. Riotto, “Gravitational waves from electroweak phase transitions,” Nucl. Phys.B631(2002) 342-368, arXiv:gr-qc/0107033 [gr-qc].   \n[43] C.Caprini et al.,“Science with the space-based interferometer eLISA. I: Gravitational waves from cosmological phase transitions,\"JCAP 1604 no.04,(2016) 001, arXiv:1512.06239 [astr0-ph.CO].   \n[44] S.W. Hawking,I. G. Moss,and J. M. Stewart,“Bubble Collsions in the Very Early Universe,\" Phys. Rev. D26 (1982) 2681.   \n[45] C. Caprini,R.Durrer,and G. Servant,“Gravitational wave generation from bubble collisions in first-order phase transitions:An analytic approach,\" Phys.Rev.D77 (2008) 124015, arXiv:0711.2593 [astro-ph].   \n[46] R. Jinno and M. Takimoto,“Gravitational waves from bubble collisions:analytic derivation,\" Phys.Rev. D95 no.2,(2017) 024009, arXiv:1605.01403 [astro-ph.CO].   \n[47] S.J. Huber and T. Konstandin,“Gravitational Wave Production by Collisions: More Bubbles,” JCAP 0809(2008)022,arXiv:0806.1828 [hep-ph].   \n[48] M. Kamionkowski,A. Kosowsky,and M. S. Turner, “Gravitational radiation from first order phase transitions,” Phys.Rev.D49(1994) 2837-2851, arXiv:astro-ph/9310044 [astro-ph].   \n[49] J.R.Espinosa,T.Konstandin, J. M. No,and G. Servant, “Energy Budget of Cosmological First-order Phase Transitions,JCAP 1006(2010) 028, arXiv:1004.4187 [hep-ph].   \n[50] M.Hindmarsh, S.J.Huber,K.Rummukainen,and D.J.Weir, “Numerical simulations of acoustically generated gravitational waves at a first order phase transition,\" Phys.Rev.D92 no.12,(2015) 123009, arxiv:1504.03291 [astr0-ph.CO].   \n[51] C.L.Wainwright,“CosmoTransitions: Computing Cosmological Phase Transition Temperatures and Bubble Profiles with Multiple Fields,” Comput.Phys. Commun.183 (2012) 2006-2013, arXiv:1109.4189 [hep-ph].   \n[52]A.Klein et al.,“Science with the space-based interferometer eLISA: Supermassive black hole binaries,\" Phys.Rev.D93 no.2,(2016) 024003, arXiv:1511.05581 [gr-qc].   \n[53] X.Gong et al.,“Descope of the ALIA mission,” J.Phys. Conf. Ser 610 no.1,(2015) 012011, arXiv:1410.7296 [gr-qc].   \n[54]H.Kudoh,A. Taruya,T. Hiramatsu,and Y.Himemoto, “Detecting a gravitational-wave background with next-generation space interferometers,\" Phys.Rev.D73 (2006) 064006, arXiv:gr-qc/0511145 [gr-qc].   \n[55] C.J.Moore,R.H. Cole,and C.P.L. Berry, \"Gravitational-wave sensitivitycurves,\" Class. Quant. Grav. 32 no.1,(2015) 015014, arXiv:1408.0740 [gr-qc].   \n[56] K.Yagi and N. Seto,“Detector configuration of DECIGO/BBO and identification of cosmological neutron-star binaries,\"Phys.Rev.D83(2011) 044011, arXiv:1101.3940 [astro-ph.CO].   \n[57]M.Artymowski,M.Lewicki,andJ.D.Wells,“Gravitational wave and collider implications of electroweak baryogenesis aided by non-standard cosmology,” arXiv:1609.07143 [hep-ph].   \n[58]R.Jinno and M.Takimoto,“Probing classically conformal $B - L$ model with gravitational waves,\" Phys.Rev.D95 no.1,(2017) 015020, arXiv:1604.05035 [hep-ph].   \n[59] P.Huang,A. J.Long,and L.-T.Wang,“Probing the Electroweak Phase Transition with Higgs Factories and Gravitational Waves,\"Phys.Rev.D94 no.7,(2016) 075008, arXiv:1608.06619 [hep-ph].   \n[60]K.Hashino,M.Kakizaki, S.Kanemura,P.Ko,and T.Matsui, “Gravitational waves and Higgs boson couplings for exploring first order phase transition in the model with a singlet scalar field,Phys.Lett.B766 (2017) 49-54, arXiv:1609.00297 [hep-ph].   \n[61] M. Kakizaki, S.Kanemura,and T. Matsui,“Gravitational waves as a probe of extended scalar sectors with the first order electroweak phase transition,\" Phys.Rev.D92 no.11,(2015)115007, arXiv:1509.08394 [hep-ph].   \n[62]C.Balazs,A.Fowlie,A.Mazumdar,and G.White, “Gravitational wavesataLIGO and vacuumstabilitywith a scalar singlet extension of the Standard Model,\" arXiv:1611.01617 [hep-ph].   \n[63] R. Jinno,K.Nakayama,and M.Takimoto,“Gravitational waves from the first order phase transition of the Higgs field at high energy scales,\"Phys.Rev.D93 no.4,(2016) 045024, arXiv:1510.02697 [hep-ph].   \n[64] H.Davoudiasl and P.P.Giardino,“Gravitational Waves from Primordial Black Holes and New Weak Scale Phenomena,\" arXiv:1609.00907 [gr-qc].   \n[65] F. P. Huang, Y. Wan,D.-G. Wang, Y.-F. Cai, and X. Zhang, “Hearing the echoes of electroweak baryogenesis with gravitational wave detectors,\" Phys.Rev.D94 no.4,(2016) 041702, arXiv:1601.01640 [hep-ph].   \n[66]I.Baldes,“Gravitational waves from the asymmetric-dark-matter generating phase transition,\" arXiv:1702.02117 [hep-ph].   \n[67]A.Addazi,“Limiting First Order Phase Transitions in Dark Gauge Sectors from Gravitational Waves experiments,\" arXiv:1607.08057 [hep-ph].   \n[68] Our particle settings are similar to these in Ref.[11] where color breaking from two-step phase transition was proposed.   \n[69] The ALIA program is the upgraded version of the Chinese Taiji Program in space of gravitational wave physics.   \n[70] The ALIA,BBO and DECIGO data are taken from the website http://rhcole.com/apps/GWplotter/ where these sensitivity curves are collected in one place.We also checked that these curves are consistent with those used in Ref. [57].   \n[71] GWs can be generated from EWPT in SM extended with dimension-six operators [65-67],where no scalar singlet is needed. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

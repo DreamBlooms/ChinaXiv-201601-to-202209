@@ -1,0 +1,569 @@
+[
+    {
+        "type": "text",
+        "text": "格式化字符串漏洞自动检测与测试用例生成",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄钊，黄曙光，邓兆琨，黄晖(国防科技大学 电子对抗学院，合肥 230037)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：格式化字符串漏洞是一种危害高、影响广的软件漏洞。当前漏洞检测方式存在人工依赖度高，误报率高，检测模型单一，未能充分考虑格式化字符串漏洞特点等多种局限性。针对以上问题，对格式化字符串漏洞特征进行分析，设计并实现了一种基于符号执行的格式化字符串漏洞自动检测与测试用例生成的系统。该方法可自动检测Linux下二进制程序中格式化字符串漏洞的存在性，判定其是否可能导致任意内存读写危害，并生成稳定有效的测试用例。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：格式化字符串漏洞；符号执行；自动检测；测试用例生成 中图分类号：TP311 doi: 10.3969/j.issn.1001-3695.2018.01.0168 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Automatic detection and test cases generation of format string vulnerability based on symbol execution ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Huang Zhao,Huang Shuguang, Deng Zhaokun,Huang Hui (CollageofElectronic Countermeasure,National UniversityofDefense Technology,Hefei23oo37,Chind ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The formatstringvulnerabilityisakindofsoftware vulnerabilitywhichhas highriskand wideimpact.Currently thereare manylimitationsofvulnerabilitydetectionmethod,suchashighdegreeofartificialdependence,highfalsepositive rate,singledetectionmodeland failing toconsider thecharacteristicsof the format stringvulnerabilityfull.Tosolveabove problems,this paper analyzed the format string vulnerability.Then basedonsymbolic execution,the paper designed and produceda wayto detect formated string vulnerabilityand generate testcases automatically.This methodcoulddetect the existenceof the format stringvulnerabilityinLinux binaryprogram automaticaly.Then it determined whether itcould lead to harm,whichallowedattackers toreador writearbitrarymemory.Meanwhile it generated stableand effective testcases. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: format string vulnerability; symbolic execution; automatic detection; test cases generation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "格式化字符串漏洞在通用漏洞类型库CWE中解释为软件使用了格式化字符串作为参数，且该格式化字符串来自外部输入。其主要成因是格式化字符串函数对格式化控制符的解析缺陷及程序员对用户输入的不严格过滤，导致外部输入能够传递给格式化控制符并被解析[1]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "现有漏洞挖掘技术所发掘的程序错误并不一定能造成实质性危害，往往具有较高误报率和漏报率。因此针对漏洞特性，产生准确度高的稳定测试用例十分重要。现阶段漏洞检测方式上，人工漏洞检测技术效率低下且对人工经验依赖性强，往往需辅以自动化工具进行；传统漏洞自动检测工具，如fuzzing等，针对性不强、盲目生成测试用例导致误报率较高且路径覆盖率有限、穿透性不强。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "符号执行[2]使用符号化输入来代替实际输入，该符号值可表示程序在此接收的所有可能输入，进而程序中的操作被转换为符号表达式的操作，条件判断也转换为符号约束。接着利用Z3[3]、Yices[4]、STP[5]等约束求解器进行约束求解，即可在变量域中找到与各变量间均满足约束的特定变量值。利用符号执行和约束求解技术检测漏洞并生成测试用例的方法针对性强，对复杂代码逻辑穿透性好，生成的测试用例准确性高，在发现软件漏洞和生成测试用例方面有着较好效果。因此目前出现了一批基于符号执行自动化进行程序分析和漏洞检测的工具，如Cha 等人提出的Mayhem[6]、Huang 等人[7]提出的CRAX 和Shellphish 提出的angr[8]等，但这些工具也存在漏洞检测模型较为单一等局限性，且未能充分考虑格式化字符串漏洞特点。以CRAX为例，其在漏洞存在性判定时，仅监视IP寄存器并以IP内容是否被外部输入符号化为判定标准，虽然该判定思路基本符合多数控制流劫持漏洞触发后的特征，但部分漏洞危害并非局限于IP符号化，如格式化字符串漏洞就可造成任意地址读写的危害。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文针对现阶段格式化字符串漏洞检测技术中存在的缺陷，以准确检测并生成相应测试用例为目标，针对linux系统下由C语言或 $\\mathrm { C } { + } { + }$ 编写生成的小规模二进制程序，设计了一个基于符号执行的格式化字符串漏洞自动检测与测试用例生成方法，并基于S2E符号执行引擎实现了一个格式化字符串漏洞检测与测试用例生成系统FSVDTG(format stringvulnerability detectionand test cases generation）。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 格式化字符串漏洞",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1格式化字符串函数与格式化控制符",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "格式化字符串函数即向标准输出设备或文件等指定的地方输出指定格式内容的函数，ANSIC规范中定义了大量格式化字符串函数。典型格式化字符串函数如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/35df373697a4ea29f970902ae34e06c7ab95317a4b3a350d6d59f5e3e526fe60.jpg",
+        "table_caption": [
+            "表1典型格式化字符串函数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>函数</td><td>作用</td></tr><tr><td>printf</td><td>打印到 stdout 流</td></tr><tr><td>fprintf</td><td>打印到FILE流</td></tr><tr><td>sprintf</td><td>打印到字符串</td></tr><tr><td>snprintf</td><td>打印一定长度字符到字符串</td></tr><tr><td>vprintf</td><td>从va_arg 结构打印到stdout 流</td></tr><tr><td>vfprintf</td><td>从va_arg 结构打印到FILE 流</td></tr><tr><td>vsprintf</td><td>从va_arg 结构打印到字符串</td></tr><tr><td>vsnprintf</td><td>从va_arg 结构打印一定长度字符到字符串</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "除了上述标准函数外，还有用于输出到syslog设施的 syslog函数、用于设置argv[的 setproctitle 函数，与其他类似 err\\*、verr\\*、warn\\*、vwarn\\*的函数等。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/8be28321435ed24b76775433ec1d343d75597b054934c2516c2d6c60da12d5f4.jpg",
+        "table_caption": [
+            "表2部分格式化控制符"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>格式化控制符</td><td>含义</td><td>对应参数值</td></tr><tr><td>%x</td><td>以十六进制形式格式化</td><td>值</td></tr><tr><td>%s</td><td>以字符串形式格式化</td><td>指针 (引用)</td></tr><tr><td rowspan=\"2\">%n</td><td>将已打印字符数(DWORD 值）输</td><td></td></tr><tr><td>出到指定变元所指向地址</td><td>指针(引用)</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "函数参数方面，以最常见的printf为例，其参数主要包括格式化控制符和待输出数据列表两部分。其中格式化控制符用于指定待输出数据的输出格式，其后可填充待输出变量参数，格式化控制符与变量参数对应9。格式化控制符存在许多不同的数据类型，本文主要介绍与格式化字符串漏洞紧密相关的格式化控制符，如表2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2栈与格式化控制符",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "格式化字符串函数根据格式化控制符的指示从栈空间取得参数，如对于如下C语句，栈空间的排列分布如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "正常情况下格式化控制符中的每一个百分号“ $\\%$ ”对应栈空间中一个参数，但由于格式化字符串函数是可变参函数，即使百分号 $6 6 \\%$ ”的数目与格式化字符串函数实际参数数目不相同，格式化字符串函数也无法察觉，并仍会继续从栈空间的下一个区域取出对应数据作为下一个参数，并按照给定格式化控",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "制符进行解析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "除上述例子展示的格式化字符串漏洞可造成的内存信息泄露问题外，通过\"%n\"格式化控制符还可进行内存数据修改[10]，甚至覆盖函数返回地址、GOT表地址等，达到控制流劫持的目的[11,12]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "低地址处4···栈增长方向 格式控制符printf函数变量1（数值a） 初始指针变量2（数值b） 参数获取方向变量3（c的地址值）高地址处",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 格式化字符串漏洞检测与测试用例生成",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1系统整体架构",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过对格式化字符串漏洞的分析，为准确检测并有针对性的生成稳定的测试用例，本文基于格式化字符串漏洞原理和符号执行与约束求解技术思想，在S2E符号执行引擎的基础上，设计并实现了格式化字符串自动检测与测试用例自动生成系统FSVDTG。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FSVDTG系统首先定义printf、sprintf 等格式化字符串函数为不安全函数，并将其中的格式化控制符参数记为format参数，同时定义格式化字符串函数中的format参数内容不应是符号值的安全策略。然后挂钩不安全函数，收集到达不安全函数程序点的路径上的约束形成路径约束，并在到达不安全函数程序点时进行安全策略检测。若符合安全策略，则继续执行；若违反安全策略，则在约束集合中添加可触发格式化字符串漏洞危害的若干约束，由此构建测试用例约束，再在当前路径约束的前提下对该测试用例约束进行求解。若有解则认为存在程序漏洞并自动构造出可行解，即得到测试用例。后续执行测试并输入该测试用例时，其将能触发格式化字符串漏洞执行任意读写功能。系统运行流程如图2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9baf17ae3ce74950a49cc740463f1a1d32aa57478668f91fb73e4e7d6e5314a.jpg",
+        "img_caption": [
+            "图1正常运行时printf函数栈空间分布",
+            "图2FSVDTG 系统运行流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "测试用例生成方面，格式字符串漏洞一般用于进行内存地址的读写，具体来说通常使用 $\\% \\mathbf { x }$ 、 $\\% \\mathrm { s }$ 等格式化控制符进行任意地址内存读，使用 $\\% \\mathrm { n }$ 进行任意内存写，配合格式化控制符中的“ $\\$ 1$ 即可构造一个简洁的测试用例以实现任意内存读写。例如 $\" \\% 3 \\mathbb { S } \\mathrm { n } ^ { \\prime \\prime }$ ，其中“3\\$”表示该“%n”对应于待输出数据列表中第3个参数指向的内存值，若格式化字符串函数的参数列表中没有第3个参数，则会写入从栈空间相应内存地址中。由此思路，本文可结合符号执行技术构建相应测试用例。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 漏洞存在性检测 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在格式化字符串漏洞的检测中，FSVDTG系统首先应检测不安全函数调用处是否能满足既定安全策略，即检测格式化字符串函数的格式化字符串参数部分是否为符号值。若为符号值，则代表该format参数可被外部输入影响，进而认为可能存在可利用的漏洞。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "具体实现上，首先对printf等格式化字符串函数进行挂钩。挂钩时提供静态挂钩和动态挂钩两种支持。静态挂钩时通过函数签名识别函数以确定函数静态地址，进而可由函数静态地址对函数进行挂钩；动态挂钩时通过自定义init_env库，并通过LD_PRELOAD加载init_env共享库，使得程序运行前优先加载自定义的init_env链接库来挂钩函数。然后通过回调函数获取其format参数在栈空间中的地址，并检查其内容是否为符号值。若为符号值，说明格式化字符串可被外部输入影响，则接下来转入构造相应测试用例约束；若不为符号值，则不作处理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为确定format是否为符号值，搜索并记录下符号化区域的起始地址及长度，检测format地址是否在该符号化区域内。若在即可判断format参数是符号值，并将format参数所在的地址记为format，将format参数所在的符号区域起始地址记为formatArea_StartAddr。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3任意地址读测试用例约束构建 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于任意地址读，由于格式化漏洞产生时其format参数的内容来自于输入，且该输入内容往往也存在于栈空间，所以也可控制在该输入内容的起始处设置为准备读取的地址，然后配合“\\$”使得 $6 6 \\mathrm { \\ p } _ { 0 } \\mathrm { \\ p } _ { } , ,$ 指向该地址值在栈上的位置，进而可通过字符串形式读取该地址处内容。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由此可构造形如 ${ } ^ { \\mathrm { 4 4 } } \\mathrm { j u n k + a d d r + \\% B \\ S s ^ { \\mathrm { 3 } } }$ 的测试用例。其中B 为某个正整数，使得通过“B\\$”能指向到的参数在栈上取得的对应恰是本文的addr；addr为本文准备读取的地址，可通过lua 脚本自行指定。由于发生格式化串漏洞时输入部分会被存放在栈中，且成为格式化字符串函数的format参数，所以addr作为 format参数的一部分也会存在于栈中的某个位置。若通过“B\\$”指向addr，则就能使得“%s”从本文指定的addr开始读取直到 $\\nu \\mathbf { x } 0 0$ ；而另一方面“\\$”选取参数时以4字节为单位，因此junk是作为凑齐4字节对其的填充字符。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/cf59da26336ad29419754b66cd9e360d981b90906f153065dff9174172d3e551.jpg",
+        "table_caption": [
+            "表3约束构建过程函数/数组定义"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>函数名/数组名</td><td>含义</td></tr><tr><td>NotExpr</td><td>用于生成一元\"取反\"形式的bool型约束的函数</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/978b222e938fe9147f6dc29637e8d4315f82e7ec612e2bb5cba181b73dcf3d70.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>EqExpr</td><td></td><td>用于生成二元比较“等于”形式的约束的函数</td></tr><tr><td>Memory</td><td>以内存地址为下标，记录该地址中内存值的数组</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由此思路可构建相应利用约束，将junk_constraint、addrconstraint和formconstraint三项约束经过合取即形成测试用例约束TestCase_constraint，即如式（1）所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TestCase_constraint=junk_constraint ^addr_constraint ^form_constraint为便于描述约束构建过程，定义如表3表示形式。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 junk_constraint 约束",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "junk_constraint约束即对 junk字符部分的约束。由于格式化字符串发生时输入部分往往会读入缓冲区中进而存储在栈空间中，所以可将准备读取的地址放置在输入部分的开头。具体的junk字符数目计算如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "junk_num $= 4$ -(format-formatArea_StartAddr)%4;   \nif junk_num $\\scriptstyle = = 4$ junk_num $_ { 1 = 0 }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同时，为使得该段junk字符不影响printf参数的读入，该段字符不能包含 $^ { 6 6 } \\backslash \\mathrm { x } 0 0 ^ { \\prime \\prime }$ ，则junk_constraint 约束构建过程如下伪代码：",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/c873d146eb9052599590cbdf30f271169b51579551f330409384dadb39bb4430.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>for i<-formatArea_StartAddrto</td></tr><tr><td>formatArea_StartAddr+junk_numdo</td></tr><tr><td>junk_constraint = NotExpr( EqExpr (Memory[i],Ox00))</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.2addr_constraint约束 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/20a7a08c34d78cdd1f330398104df7fe622f3fae08837f5940d7a9ce05fab00e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>addr_constraint构建即对测试用例中addr区域是否能等 于本文指定要读/写的地址值的约束。约束构建过程如下伪代码：</td></tr><tr><td>fori<-1to4do</td></tr><tr><td>addr_constraint=EqExpr(</td></tr><tr><td>Memory[formatArea_StartAddr+junk_num+i],</td></tr><tr><td>addr[i]）</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.3form_constraint 约束",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "form_constraint约束即对测试用例中真正造成任意内存读写的格式化字符串部分的约束。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于构造任意地址测试用例时，该部分形如“%B\\$s”，其中正整数B通过“\\$”符号保证此时格式化字符串函数要操作的参数指向准备写入的地址。其计算如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/49536ff73f1360c6cf2c2447a039b9968bfc39f02807d5cd66119892cc9eb967.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>B=(format-formatArea_StartAddr-1)/4 +1;</td></tr><tr><td>由此将“%B$s”内容转换成字符串形式存储在form_str</td></tr><tr><td>数组中，则form_constraint约束构建过程如下伪代码：</td></tr><tr><td>fori<-1to len(form_str)do</td></tr><tr><td>addr_constraint=</td></tr><tr><td></td></tr><tr><td>EqExpr(Memory[formatArea_StartAddr+junk_num+4+i],form_str[i])</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4任意地址写测试用例约束构建 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于任意地址写，可构造形如\"junk $^ +$ addr+%Ax%B\\$n\"或中 ${ \\bf \\dot { j } u n k + a d d r + \\% 0 \\mathrm { { C x ^ { 0 } / \\mathrm { { o D } \\mathbb { { \\mathbb { S h n } ^ { 0 } / \\mathrm { { o E x ^ { 0 } / \\mathrm { { o F } \\mathbb { { S h n } } ^ { \\dag } } } } } } } } } } $ 的测试用例，其中junk、addr与任意地址读时测试用例中的含义相同；A、C、D为正整数，用于控制当前已输出字符数；正整数B、D、F使得通过%n对应参数为addr;预写入的数据同样可通过lua脚本自行指定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "此时测试用例约束TestCase_constraint仍由 junk_constraintaddr_constraint和form_constraint合取形成，形如式（1)，其中任意地址写时的junk_constraint及addr_constraint约束的构建均与任意地址读时类似，只需将准备进行读取的地址变换为准备进行写入的地址即可，故此处不再赘述，下文主要叙述任意地址写时的form_constraint约束构建。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "form_constraint约束是对“ $\\% \\mathrm { A x \\% B \\mathbb { S } n }$ ”或“%Cx%D\\$hn%Ex%F\\$hn”部分的约束，利用 $\\% \\mathrm { n }$ 可将已打印出的字符串长度写入内存的特性完成任意地址写入。具体来说， $\\% \\mathrm { n }$ 能够一次性改写起始于该内存地址后一个DWORD 长度的内容。若待写入数据过长，直接写入一整个DWORD长度可能需占用过长缓冲区，进而可能导致程序崩溃或等候时间过长，此时可通过%hn来适时调整。%hn功能与%n类似，但%hn一次性只改写一个WORD，可通过2个%hn分两次来改写一个DWORD长度内容。虽然使用%hn时需要的已输出字符数较少，但由于需要进行多次写入，所得的测试用例就会变长，而部分环境下对输入缓冲区长度有所限制，导致所构造测试用例失效。因此%n和%hn应视情况调整使用。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/7c9e3a310e12e0e356dcc57aa35ae8538f5c5d4e7bc89711d3a4c5d165c2e70a.jpg",
+        "table_caption": [
+            "表4form部分测试用例形式"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>格式化控制符</td><td>使用条件</td><td>form 部分测试用例形式</td></tr><tr><td>%n</td><td>data<0x10000</td><td>%Ax%B$n</td></tr><tr><td>%hn</td><td>data≥0x10000</td><td>%Cx%D$hn%Ex%F$hn</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "具体构造“%Ax%B\\$n”形式的测试用例主体部分时，同样以将预写入数据记为data，且以high和low分别表data的两高位字节和两低位字节的数值，预进行写入的地址记为addr。具体构造form 部分测试用例形式如表4所示，其中A、B、C、D、E、F均为正整数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中A、B值计算如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\mathsf { A } =$ data-junk-4;//4is the length of addr $\\textsf { B } =$ (format - formatArea_StartAdd -1)/4 +1; ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "而对C、D、E、F，由于 $\\% \\mathrm { n }$ 和%hn是根据当前格式化字符串函数已输出字符数进行数据写入的，故需比较high与low 部分的数值大小，先写入其中的较小值，再写入较大值。具体计算如表5所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/07a3d96c4492ae745bfdd448706b99febd01182457605638f92be07dd3474bbe.jpg",
+        "table_caption": [
+            "表5数值计算"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>计算条件</td><td>C</td><td>D</td><td>E</td><td>F</td></tr><tr><td>high<low</td><td>addr+2</td><td>high -junk -4</td><td>addr</td><td>low - high</td></tr><tr><td>high ≥low</td><td>addr</td><td>low - junk -4</td><td>addr+2</td><td>high-low</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5约束求解及再次构建 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过 将junk_constraint、addr_constraint和form_constraint三项约束进行合取即形成TestCase约束，然后调用约束求解器，在当前路径约束的前提下对该约束进行求解，使得所得解既能保证到达漏洞触发点，又能满足测试用例约束。若有解则可利用，再优化路径约束，然后进行求解，解出一个满足约束条件的实例；若无解，则增加一些junk字符后再行构建测试用例。由于“ $\\ S$ ”所指向部分以4字节为跨度，所以为使得增加junk字符后“\\$”仍指向addr，每次重新构造约束时需进行如下调整：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/7c5a61a0f758550dee345f5624cf33d194b1373f3ede30156f47c13f3ea191b8.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>junk_num=junk_num+4;</td></tr><tr><td></td></tr><tr><td>A = A-4;</td></tr><tr><td>B = B+1;</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "然后由此再按照4．3节中步骤重新构建TestCase约束并求解，直到求得一个可行解或所构建的测试用例总体长度超出当前符号区域长度时停止。若得到可行解，将其输出即可得到完成任意地址读或任意地址写的测试用例。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 实验 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为直观说明实验效果，本文以pingme二进制程序的测试用例生成过程为例，对本文方法进行演示。该程序在ida中查看其伪代码情况如图3所示。其中sub_804858B函数伪代码如图4所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1vo1d cdec1 _noreturn main() 2 ！ 3 charformat；//[sp+Ch][bp-4Ch]@2 4 intv1；//[sp+4Ch][bp-Ch]@1 5 6 V1=\\*MK_FP(__GS__，20)； 7 sub_80485D7(); 8 puts(\"Ping me\"); 9 while（1} 10 ！ 11 if （sub_804858B(&format，64)) 12 1 13 printf(&format); 14 putchar(10}; 15 16 else 17 { 18 puts(\";（\"); 19 20 21 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1size_t _cdec1 sub_804858B(char \\*s，int n} 2 ！ 3 char \\*v3；// [sp+Ch][bp-Ch]@1 4 5 fgets(s,n,stdin); 6 γ3=strchr(s,10}; 7 if（_v3） 8 3=0; 9 return strlen(s); 10 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "可以看到该程序代码逻辑为先由fgets函数获取一个输入，检查其长度不为0 后即通过 printf 函数输出。但是其通过printf 函数输出时直接将输入内容作为printf 的 format 参数，导致图3的第13行处存在一个格式化字符串漏洞。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为便于观察实验效果，本实验拟生成通过该格式化字符串漏洞将对printf函数的got表地址改写为system函数的地址的测试用例。经FSVDTG系统后分析得到分析结果如图5所示。发现0xbffff53c处的format 参数被符号化。使用ghex查看生成的测试用例，其中的具体内容如图6所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "8220printf(）entry-hookinvoked:   \n8221address=6x8049974   \n8222data=0xf7e3cdae   \n8223fornat=0xbffff53c   \n822420[State6]Found Synbolic Arrayat xbfffe478,width 12   \n82252e[Stateθ]FoundSynbolicArrayatθxbfffe488，width4   \n822620[State6]FoundSynbolicArrayatθxbfff53c，width60   \n8227   \n8228 The format is synbol：   \nB229LinuxPrintfAPI:addressto_w/r=0x8049974   \n8230fornat startat:Oxbffff53c   \n8231fornatArg_address=0xbffff520   \n8232Generatingtestcaseforprint-write...   \n8233...-use %hn..   \n82342e[Statee] Pruned 162 out ofθ constraints   \n823520[Statee]---Writetestcasetofile/home/acdax/Desktop/test/testcase-1.bin--   \n8236 Generating testcase for_print-write.. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6ccaa7c3055eacbbb97a4b71bc6ebbd8ce88ddcdeaf31262e279394091f0ffc.jpg",
+        "img_caption": [
+            "图5系统分析结果",
+            "图6ghex查看测试用例结果",
+            "图7以测试用例为输入后pingme 运行结果",
+            "表6FSVDTG系统下实验结果/s"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ls [DEBUG] Sent Ox3 bytes: 'ls\\n' [DEBUG] Received Ox2b bytes: '1.py pingme test test2 testcase-1.bin\\n' '\\n\" 1.py pingme test test2 testcase-1.bin cp./test ./test3 [DEBUG] Sent 0x12 bytes: cp ./test./test3\\n' [DEBUG] Received Ox1 bytes: \\n' ls [DEBUG] Sent 0x3 bytes: ''s\\n' [DEBUG] Received Ox32 bytes: '1.py pingme test test2 test3 testcase-1.bin\\n' \\` 1.py pingme test test2 test3 testcase-1.bin ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将本系统生成的测试用例作为输入后效果如图7所示。可见ls 和cp命令执行均成功，因此测试用例执行后printf 函数的got表地址被成功改写为system 函数的地址，故所生成的测试用例有效。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文选用了四个含缓冲区溢出漏洞的二进制实验程序进行实验，其中一个程序为典型的由printf使用不规范引发的格式化字符串漏洞；一个程序选自NJCTF2017的200分PWN 题pingme，其也是由printf引起的；其余两个测试程序分别含有由sprintf和fprintf引起的格式化字符串漏洞。上述测试程序均采用C 语言或 $\\mathrm { C } { + } { + }$ 进行编写。实验宿主机配置为：IntelCorei7CPU@3．60GHz、16GB内存、ubuntu系统；虚拟机配置为1GB内存，ubuntu系统。记录4个程序在本系统中的平均约束求解时间和测试用例平均生成时间如表6所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "7.46  \n8  \n75.31  \n6 4.77  \n5  \n4  \n3  \n2  \n1  \n0printf_pingme sprintf_fprintffmtstr fmtstrfmtstr  \n1平均约束求解时间 ■测试用例平均生成时间",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为与已有其他方法进行对比，对上述4个测试程序再分别采用直接运行和使用CRAX、AFL、pwntools 的方式进行测试，记录其直接运行时间及各工具下从运行到测试用例生成时间，记录结果如表7所示。所记录时间均为平均挂钟时间。各项工具中CRAX是与本系统工作原理一致且都是基于S2E 实现的，而 pwntools虽然不是基于符号执行实现的，但却是自动生成格式化字符串漏洞测试用例的典型工具，AFL是基于模糊测试生成测试用例的经典工具。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f5276f6e8cba4a8749b84016e9de722820982c50ce98429cdad572470143846f.jpg",
+        "table_caption": [
+            "表7 各工具测试用例平均生成时间结果/s"
+        ],
+        "table_footnote": [
+            "针对该实验结果分析如下："
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">实验工具 测试程序</td><td rowspan=\"2\">printf_ fmtstr</td><td rowspan=\"2\">pingme</td><td rowspan=\"2\">sprintf_</td><td rowspan=\"2\">fprintf_ fmtstr</td></tr><tr><td>fmtstr</td></tr><tr><td>直接运行</td><td>0.20</td><td>0.34</td><td>0.27</td><td>0.28</td></tr><tr><td>FSVDTG</td><td>4. 77</td><td>7.46</td><td>5.31</td><td>5.85</td></tr><tr><td>CRAX</td><td>N/A</td><td>N/A</td><td>N/A</td><td>N/A</td></tr><tr><td>pwntools</td><td>0.31</td><td>0.57</td><td>N/A</td><td>N/A</td></tr><tr><td>AFL</td><td>31</td><td>N/A</td><td>39</td><td>48</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CRAX是较为典型的基于符号执行的测试用例自动生成工具，但其在漏洞建模方面仅对IP 寄存器被劫持的情况进行测试用例生成，尽管其对多数控制流劫持类漏洞效果较好，但单纯的格式化字符串漏洞采用一般测试输入是并不能覆盖IP 寄存器的，故CRAX对4个程序测试结果均为N/A，即不适用，而本文所提出的方法也可作为对CRAX的一种补充。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "pwntools的执行效率较高，针对printf函数引起的格式化字符串漏洞生成测试用例速度快，但其需通过printf的打印值确定format参数与输入缓冲区间的偏移，故无法处理由sprintf和 fprintf 等函数引起的格式化字符串漏洞，但pwntools所生成的测试用例均可直接触发格式化字符串漏洞进行指定地址读写，而非单纯的崩溃。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "AFL 是模糊测试的常用工具之一，其采用Fuzzing技术进行测试用例生成，其适用面广，但生成测试用例过程中盲目性、随机性较高，因此生成测试用例时间长。AFL最终对其中3个程序成功生成了测试用例，对pingme程序未能生成测试用例，其原因主要是由于pingme 程序中含有一个可进行持续输入的死循环，导致AFL无法跳出循环，最终未能生成测试用例。同时AFL生成的测试用例主要功能只是单纯触发崩溃而非进行指定地址读写。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验结果表明，本文所实现的FSVDTG系统所生成的测试用例也可直接用于指定地址读写。其基于符号执行实现，由于需要对数据进行符号化处理等复杂操作，其处理速度相较于pwntools较慢，但可对多种函数引起的格式化字符串漏洞进行测试用例生成。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文总结了格式化字符串漏洞的相关原理，并设计实现了一种基于符号执行的格式化字符串漏洞自动检测与测试用例生成的方法，以检测1inux下二进制程序存在的格式化字符串漏洞，判定其是否会导致任意内存读写危害，并生成完成任意地址读写功能的稳定测试用例。最后通过实验验证了测试用例的有效性，并与同类方法进行了对比。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]林娅泉，漏洞战争[M].北京：电子工业出版社,2016:227.(Lin Yaquan, The war of vulnerability [M],Beijing:Publishing House of Electronics Industry,2016: 227.)   \n[2]King JC. Symbolic execution and program testing [J]. Communications of the ACM,1976,19 (7): 385-394.   \n[3]Moura LD,Bjorner N.Z3:An efficient SMT solver [J].Lecture Notes in Computer Science,2008,4963:337-340.   \n[4]Dutertre B,de Moura L.A fast linear-arithmeticsolver for DPLL(T)[C]// Proc of the 18th International Conference on Computer Aided Verification. Berlin: Springer, 2006:81-94.   \n[5]Ganesh V,Dill D L.A decision procedure for bit-vectors and arrays [C]// Proc of International Conference on Computer Aided Verification,2007: 519-531.   \n[6]ChIPounov V,Georgescu V, Zamfir C,et al. Selective symbolic execution [C]//Proc of Workshop on Hot Topics in System Dependability.20o9:1286- 1299.   \n[7]Huang SK,Huang MH,Huang PY,et al.CRAX: software crash analysis for automatic exploit generation by modeling attacks as symbolic Continuations $[ \\mathrm { C } ] / \\hbar$ Proc of the 6th IEEE International Conference on Software Security and Reliability.[S.1.] :IEEE Computer Society,2012: 78-87.   \n[8]Yan S,Wang R, Salls C,et al. SOK:(state of) the art of war: offensive techniques in binary analysis [Cl//Proc of IEEE Security and Privacy.2016: 138-157.   \n[9]程铃.MANET 入侵检测技术的研究[J].微电子学与计算机，2010,27 (6): 64-67.(Cheng Ling, Study on instrusion detection for mobile Ad hoc networks [J].Microelectronics & Computer,2010,27(6): 64-67.)   \n[10] TESO Security Group.Exploiting format string Vulnerabilities [EB/OL] (2001)[2018-04-04]. http://www.tech-faq.com/format-string-vulnerability. Html.   \n[11]Wilander J,Kamkar M.A Comparison of publicly available tools for dynamic buffer overflow prevention [J].Ndss,2002,2015 (5):45-50.   \n[12]王清,0DAY安全：软件漏洞分析技术[M].2nded.北京：电子工业出 版社，2011:245.(Wang Qing,ODAY security:software vulnerability analysis technology [M].2nd ed.Beijing:Publishing House of Electronics Industry,2011: 245.) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

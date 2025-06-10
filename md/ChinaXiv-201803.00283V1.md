@@ -1,0 +1,195 @@
+# DOI:10.5846/stxb201701110086
+
+王家骏，王传宽，韩轶.帽儿山不同年龄森林土壤呼吸速率的影响因子.生态学报,2018,38(4);1194-1202.  
+WangJJWactlssct2018,38(4) :1194-1202.
+
+# 帽儿山不同年龄森林土壤呼吸速率的影响因子
+
+王家骏，王传宽\*，韩轶东北林业大学生态研究中心，哈尔滨150040
+
+摘要：为探明东北温带森林恢复过程中土壤呼吸( $\mathrm { ' } R _ { \mathrm { s } }$ )的变化趋势及其影响因子，在帽儿山选取皆伐后天然更新恢复的4个年龄( $\mathrm { 1 a , 1 0 a , 2 5 a }$ 和 56a)林分进行了1年的野外原位测定。结果表明：(1)皆伐后天然更新恢复1年、10年(25年和56年林分的年 $R _ { \mathrm { s } }$ 通量差异显著( $_ { _ { P < 0 . 0 5 ) } }$ ,分别为 $6 8 6 . 5 \ 、 6 3 9 . 7 、 7 3 3 . 3 、 7 6 2 . 3 \mathrm { g } \mathrm { C } \mathrm { m } ^ { - 2 } \mathrm { a } ^ { - 1 }$ ;其中生长季(5月一10月)和非生长季的 $R _ { \mathrm { s } }$ 通量也存在显著差异,均呈现出随林龄增加先减后增的趋势。全年、生长季和非生长季 $R _ { \mathrm { s } }$ 随林龄变化的变异系数分别为 $7 . 6 \%$ ） $6 . 3 \%$ 和$2 1 . 1 \%$ ,表明非生长季 $R _ { \mathrm { s } }$ 通量的变异性加大了全年 $R _ { \mathrm { s } }$ 通量的差异。（2)4个年龄林分的 $ { \mathcal { R } }  { \mathrm { s } }$ 季节变化趋势相似,且其主控因子均随季节而变:6月—8月 $R \mathrm { s }$ 与土壤含水率呈二次函数关系( $R ^ { 2 }$ 波动在 $56 \% - 7 9 \%$ 之间),其余时段则与土壤温度呈指数函数关系（ $R ^ { 2 }$ 波动在 $8 5 \% - 9 3 \%$ 之间)。(3)不同年龄林分生长季 $R _ { \mathrm { s } }$ 与 $_ { 0 - 2 0 \mathrm { c m } }$ 土层有机碳(SOC)密度呈正相关关系( $R ^ { 2 } = 0 . 4 3 4 , P <$ 0.05）,而非生长季 $R _ { \mathrm { s } }$ 与同期土壤 $5 \mathrm { c m }$ 温度呈正相关关系( $R ^ { 2 } = 0 . 9 5 9 , P { < } 0 . 0 1 ) _ { \mathrm { ~ c ~ } }$ 。本研究区森林皆伐导致 $R _ { \mathrm { s } }$ 降低,随皆伐后森林恢复 $R _ { \mathrm { s } }$ 不断增加,其主导驱动因子是 SOC 密度的增加和非生长季土壤温度的变化。
+
+关键词：季节变化;年龄序列;驱动因子;森林采伐;土壤呼吸;森林恢复
+
+# Factors affecting soil respiration in stands of different ages in the Maoershan region， Northeast China
+
+WANG Jiajun，WANG Chuankuan\*，HAN Yi Center for Ecological Research，Northeast Forestry University，Harbinl5OO40,China
+
+Abstract: Soil respiration $( R _ { \mathrm { s } }$ ） is the major source of $\mathrm { C O } _ { 2 }$ efflux to the atmosphere from forest ecosystems. It plays an importantrole inthecarbon balanceof theecosystems.Thetemperate forests in Northeast Chinaarea mosaicof diferent aged stands resulting from various logging disturbances.The objective of the present study was to examine variations in $R _ { \mathrm { s } }$ andits driving factors as the forestsrecovered from clear cuting with a chronosequence approach.The chronosequence that included standsoffour ages（i.e.，1，10,25，and56yearssincelogging）was established in2014 in the Maoershan region，Northeast China ( $4 5 ^ { \circ } 2 4 ^ { \prime } \mathrm { ~ N ~ }$ ， $1 2 7 ^ { \circ } 4 0 ^ { \prime } \mathrm { ~ E ~ }$ ). The $R _ { \mathrm { s } }$ was measured with a LI-840 CO $_ { 2 }$ ／ $\mathrm { H } _ { 2 } \mathrm { O }$ analyzer from April 2014 to March2015；and the soil temperature and water content at adepth of 5cm were measured simultaneously.Soil organic carbon （SOC）and fine root（diameter $< 0 . 5 \mathrm { m m }$ ） biomass were also measured at the end of the growing season.The results showed that : $( - 1 )$ the annual $R _ { \mathrm { s } }$ differed significantly among the stands ( $\textstyle P < 0 . 0 5$ ），and averaged 686.5，639.7，733.3, and 762.3g C m-² ·a-1 for the 1-，10-， 25-，and 56-year old stands，respectively. The $R _ { \mathrm { s } }$ in the growing and non-growing seasons differed significantly among the stands.Itshowed a decreasing trend immediatelyafter theclear cuting，and subsequently increased with increasing the stand age. The coefficients of variation in $R _ { \mathrm { s } }$ among the stands were $7 . 6 \%$ ， $6 . 3 \%$ ，and $2 1 . 1 \%$ for the whole year， growing season，and non-growing season，respectively， suggesting that the variability in the $R _ { \mathrm { s } }$ among stands in the non-growing season amplified the variation in the annual $R _ { \mathrm { s } }$ .（2）The $R _ { \mathrm { s } }$ of all the stands followed a similar seasonal trend,but the controlling factors varied with seasons.The $R _ { \mathrm { s } }$ between June and August was significantly related with soil water content in a polynomial function ( $R ^ { 2 } = 5 6 \% - 7 9 \%$ ），whereas the $R _ { \mathrm { s } }$ during the rest months was significantly related with soil temperature in an exponential function ( $R ^ { 2 } = 8 5 \% - 9 3 \%$ ).（3）The $R _ { \mathrm { s } }$ in the growing season was correlated positively with SOC content at a depth of O- $2 0 \mathrm { c m }$ in all the stands ( $R ^ { 2 } = 0 . 4 3 4$ ， $\scriptstyle P < 0 . 0 5$ 小 whereas that in the non-growing season was corelated positively with soil temperature at a depth of $5 \mathrm { c m }$ in the same season （ $R ^ { 2 } = 0 . 9 5 9$ ， $P { < } 0 . 0 1$ ). These results suggest that the $R _ { \mathrm { s } }$ in these forests decrease after logging disturbance and increase with increasing the standage，driven mainlybythe increased SOC contentand changes in soil temperature during the nongrowing season.
+
+Key Words: seasonal change；chronosequence; driving factor; loging; soil respiration; forest restoration
+
+陆地生态系统的最大碳库是土壤有机碳库（约 $1 5 0 0 \mathrm { P g ~ C }$ ),是大气碳库的两倍[],因此在全球碳循环中发挥着重要作用[2]。土壤呼吸( $( R _ { \mathrm { s } }$ )是陆地生态系统碳循环的重要环节[3],也是土壤碳排放的主要途径[4],每年全球 $R _ { \mathrm { s } }$ 总量大约为 $6 8 { \ - } { \_ } 9 8 \mathrm { P g } \ \mathrm { C } ^ { [ 5 . 7 ] }$ ,相当于化石燃料所释放碳的10倍[8]。因此,即使 $R _ { \mathrm { s } }$ 发生微小的变化,也可能对大气中的 $\mathrm { C O } _ { 2 }$ 浓度、全球碳平衡产生显著的影响。
+
+$R _ { \mathrm { s } }$ 受气候变化、植被类型、土壤性质等众多因子的影响[9-],其中林龄是一个重要的影响因素[12]。随着林龄的增加,森林的物种组成、群落结构、生物量积累以及碳分配等均会发生变化[13-15],从而能显著地影响森林与大气的碳交换,但有关林龄对 $R _ { \mathrm { s } }$ 影响的研究结果尚存在较大的不确定性。例如,Ewel等[16]的热带森林研究报道， $R _ { \mathrm { s } }$ 随林龄增大而增加;而Wang 等[17]对加拿大北方森林火烧演替序列的研究发现， $R _ { \mathrm { s } }$ 随林龄增大呈现先增后减的趋势,Klopatek 等[18]对美国中南部花旗松采伐年龄序列的研究和也得出类同的结果;Tang等[12]对美国五大湖地区山杨年龄序列的研究则报道,随林龄增大 $R _ { \mathrm { s } }$ 先增大后减小。这些研究结果的不确定性可能与干扰方式或研究地区不同有关,但还需要更多的验证研究。
+
+东北林区是我国重点林区,在我国的生态环境建设和区域生物地球化学循环中起着至关重要的作用。该地区历经半个多世纪采伐干扰,林地面积显著减小,原始林基本殆尽,森林年龄结构趋于单一化和低龄化。近年来随着退耕还林、天然林保护等林业生态工程的实施,出现了大面积的皆伐后自然恢复的林分[19-20]。然而,不同年龄林分的 $R _ { \mathrm { s } }$ 特征及其影响因子尚不清楚。本研究选择测定帽儿山地区皆伐后天然更新恢复的4个年龄( $\mathrm { \Delta } \cdot 1 { \mathrm { a } } , 1 0 { \mathrm { a } } , 2 5 { \mathrm { a } }$ 和 56a)的林分的 $R _ { \mathrm { s } }$ ,目的为了探究(1)不同年龄林分 $R _ { \mathrm { s } }$ 季节变化趋势以及土壤温度和含水率对其影响; $( 2 )$ 不同年龄林分全年、生长季、非生长季 $R _ { \mathrm { s } }$ 通量随林龄的变化趋势及其影响因素。
+
+# 1材料和方法
+
+1.1研究地概况和样地设置
+
+研究地位于黑龙江帽儿山森林生态系统国家野外科学观测研究站 $( 4 5 ^ { \circ } 2 4 ^ { \prime } \mathrm { N } , 1 2 7 ^ { \circ } 4 0 ^ { \prime } \mathrm { E } )$ 。该地区具有大陆性温带季风气候,冬季寒冷干燥,夏季短促湿热。平均年降水量 $6 2 9 \mathrm { m m }$ ,大约 $5 0 \%$ 的降水集中于6—8月，平均年蒸发量 $8 6 4 \mathrm { m m }$ 。年平均气温 $3 . 1 \mathrm { { ^ { \circ } C } }$ ,年平均总日照时数 $1 8 5 7 \mathrm { h }$ ,无霜期约为120—140d,平均海拔 $4 0 0 \mathrm { m }$ 。土壤为地带性暗棕色森林土壤。植被属于长白植被区系,现有植被是原地带性植被-阔叶红松林屡遭人为采伐后经过次生演替而形成的次生林,代表着东北东部山区典型的森林类型。
+
+选取皆伐后天然更新恢复过程中的4个年龄( $\mathrm { \Delta } \cdot 1 { \mathrm { a } } , 1 0 { \mathrm { a } } , 2 5 { \mathrm { a } }$ 和 56a)的林分,每个林分设置3个重复样地,每个样地大小为 $2 0 \mathrm { m } \times 3 0 \mathrm { m }$ 。1年样地为皆伐迹地,其余3个年龄林分均为次生林(表1）。
+
+# 1.2土壤呼吸及相关环境因子的测定
+
+2013年5月初在每个样地内布置8个内径为 $1 0 . 2 \mathrm { c m }$ 、高为 $5 \mathrm { c m }$ 的PVC土壤环。将PVC 环的一端削尖，压入土中,减少布置土壤环对土壤的镇压作用,并保持土壤环在整个测定期间位置不变。 $R _ { \mathrm { s } }$ 测定采用自制的气室连接到I $\mathrm { J } { - } 8 4 0 ~ \mathrm { C O } _ { 2 } / ~ \mathrm { H } _ { 2 } \mathrm { O }$ 分析仪（LI-CORCo.,Lincoln,USA)上进行。2014 年4月—2015年3月,生长季内每月测定2次,非生长季每月测定1次。与此同时,在土壤环的附近用T型热电偶温度探针测定 $5 \mathrm { c m }$ 深度的土壤温度( ${ \bf \Xi } ( T _ { 5 } )$ ,用 TDR100 土壤水分速测仪（Spectrum Technologies,USA）测定0—5cm 深度的土壤含水率（体积含水率， ${ \cal { W } } _ { 5 }$ )。2014年11月—2015年3月由于土壤冻结， ${ \cal { W } } _ { 5 }$ 未能测定。
+
+表14种年龄林分的立地状况和乔木层组成  
+Table1 Site characteristics and overstory composition of the four aged stands   
+
+<html><body><table><tr><td colspan="7">Table1 agedstands</td></tr><tr><td>年</td><td>Slop pstion</td><td>度。</td><td></td><td></td><td></td><td>乔木树种组成</td></tr><tr><td>1</td><td>中坡位</td><td>18°</td><td>0</td><td>0</td><td>0</td><td>无</td></tr><tr><td>10</td><td>中坡位</td><td>15°</td><td>6200</td><td>19.51</td><td>5.03</td><td>10BP+PU+PA+AM</td></tr><tr><td>25</td><td>中坡位</td><td>15°</td><td>6028</td><td>25.62</td><td>12.18</td><td>5BP3PD1UP1FM+AM-PA-QM</td></tr><tr><td>56</td><td>中坡位</td><td>18°</td><td>1833</td><td>28.77</td><td>26.83</td><td>3BP2AM1UP1JM1FM1PD1TM+TA+PA-QM</td></tr></table></body></html>
+
+PD:山杨,Populusdidiana;；AM:五角槭,Acermono;BP：白桦,Betulaplatyphylla;Q:蒙古,Quercusmongolica;JM胡桃楸,Juglasmandshurica;sscresis；eldedoeseUUusp锻,Tilia mandshurica;PU:大青杨,Populus usuriensis.树种组成中的数字表示该树种胸高断面积所占的成数,"+”、“-”分别表示组成比例 $< 5 \%$ 和$< 2 \%$ （204号
+
+细根生物量的测定采用根钻法。2015年9月底在各年龄林分的每个土壤环附近 $\mathrm { 1 m }$ 处,用内径为 $1 0 \mathrm { { c m } }$ 的根钻取土,深至 $5 0 \mathrm { { c m } }$ ,取土每隔 $1 0 \mathrm { { c m } }$ 一层,共5层。将取回的土样分成两份，一份风干后测定土壤有机碳(SOC)浓度;另一份先用作测定根系生物量。先将土壤放在网筛上洗净,然后根据外形、颜色、弹性等特征将根分为死根和活根;再进一步将活根按其直径分为两级：L1级（0一 $\cdot 0 . 5 \mathrm { m m }$ )和L2级 $( 0 . 5 - 2 \mathrm { m m } ^ { \cdot } )$ ）;最后将分级后的样品在 $6 5 \mathrm { ^ { \circ } C }$ 下烘干至恒重并称重。
+
+# 1.3 数据分析
+
+土壤呼吸 $( R _ { \mathrm { s } } , \mu \mathrm { m o l } \mathrm { C O } _ { 2 } \ \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 } )$ )与土壤温度 $( \Vert \boldsymbol { T } _ { 5 } , \det )$ 之间关系采用指数函数模型[21]模拟：
+
+$$
+R _ { s } = R _ { 0 } e ^ { \beta T }
+$$
+
+式中， $R _ { 0 }$ 为 $0 ^ { \circ } \mathrm { C }$ 时的土壤呼吸 $\mathrm { ( \mu m o l e O _ { 2 } \partial m ^ { - 2 } \partial s ^ { - 1 } }$ ） $\boldsymbol { \beta }$ 为温度系数。
+
+土壤呼吸与土壤含水率 $( W _ { 5 } , \% )$ 之间关系采用二次函数模型[22]模拟：
+
+$$
+R _ { \mathrm { s } } = a ~ { W _ { \mathrm { 5 } } } ^ { 2 } + b ~ W _ { \mathrm { 5 } } + c
+$$
+
+根据以往研究[10,23-26],土壤呼吸与土壤温度和土壤含水率的关系采用下列模型[17]模拟：
+
+$$
+\ln ( R _ { \mathrm { s } } ) { = } d + f T _ { 5 } + g W _ { 5 } + h T _ { 5 } W _ { 5 }
+$$
+
+式中： $a , b , \hat { c } , d , f , g , h$ 为模型参数。
+
+采取多元线性回归法针对每个年龄林分分别拟合模型(1)和(2）,获得表2;然后运用表2中的回归模型计算得到每天 $R _ { \mathrm { s } }$ 值。对比该模拟值与实测值(图1)发现：虽然全年4个年龄林分的 $R _ { \mathrm { s } }$ 与 $T _ { 5 }$ 均呈极显著的指数函数关系( $\scriptstyle P < 0 . 0 1$ ;表2）,但是通过指数函数预测的全年 $R _ { \mathrm { s } }$ 通量在6—8月与实测值离差较大;而6—8月采用模型(2)不但模型本身拟合效果较好( $P { < } 0 . 0 5 )$ ,而且模拟值与实测值相吻合（图2)。因此,本研究中各林龄年龄的 $R _ { \mathrm { s } }$ 采用了分段模拟估算,即6—8月期间采用模型(2)的二次函数关系估算,其余月份则采用模型(1)的指数函数关系估算。
+
+在比较不同年龄样地间 $R _ { \mathrm { s } }$ 的差异时,由于受到测定时间的限制,不可能在同一时间内对每个土壤环进行同步测定,而且各年龄样地的土壤温度和土壤含水率本身就存在差异,因此不能用每次实测 $R _ { \mathrm { s } }$ 直接进行比较。为了比较各年龄样地的 $R _ { \mathrm { s } }$ ,先建立每个样地实测的 $T _ { 5 }$ 和 ${ \mathbb { W } } _ { 5 }$ 与附近土壤温度和含水率自动数据采集器在同一时刻所记录的 $T _ { 5 }$ 和 ${ \bf W } _ { 5 }$ 之间的回归模型,然后通过数据采集器的连续测定值来获取每个样地的连续的 $T _ { 5 }$ 和 ${ \cal { W } } _ { 5 }$ ,然后代入各年龄样地 $R _ { \mathrm { s } }$ 的回归模型,以天为时间步长累加得到各年龄林分的生长季、非生长季和全年$R _ { \mathrm { s } }$ 通量。
+
+表2土壤呼吸( $[ R _ { \mathrm { s } }$ )与土壤温度( ${ { T } _ { 5 } }$ )和土壤含水率( $\textstyle \boldsymbol { W } _ { 5 }$ 的拟合模型  
+Table 2Regression models of soil respiration ( $\mathrm { ( } R _ { \mathrm { s } } \mathrm { ) }$ against soil temperature ( $\left| T _ { 5 } \right|$ ）orsoil water content( $\left( W _ { 5 } \right)$ at the 5cm del   
+
+<html><body><table><tr><td rowspan="2">年龄 Age/a</td><td colspan="5">Rs与T5模型RsandT5 model</td><td colspan="6">Rs与W5模型RsandW5 model</td></tr><tr><td>n</td><td>R</td><td>β</td><td>R²</td><td>P</td><td>n</td><td>A</td><td>b</td><td>C</td><td>R²</td><td>P</td></tr><tr><td>1</td><td>42</td><td>0.358</td><td>0.160</td><td>0.85</td><td><0.001</td><td>12</td><td>-0.0037</td><td>0.3323</td><td>-2.8077</td><td>0.56</td><td>0.024</td></tr><tr><td>10</td><td>42</td><td>0.294</td><td>0.160</td><td>0.93</td><td><0.001</td><td>12</td><td>-0.0071</td><td>0.5613</td><td>-5.6236</td><td>0.63</td><td>0.011</td></tr><tr><td>25</td><td>42</td><td>0.416</td><td>0.175</td><td>0.88</td><td><0.001</td><td>12</td><td>-0.0096</td><td>0.6892</td><td>-6.9415</td><td>0.79</td><td>0.001</td></tr><tr><td>56</td><td>42</td><td>0.405</td><td>0.170</td><td>0.90</td><td><0.001</td><td>12</td><td>-0.0024</td><td>0.2396</td><td>-0.4598</td><td>0.57</td><td>0.023</td></tr></table></body></html>
+
+表中二次模型为 $R _ { \mathrm { { S } } } = \mathrm { { a } } W _ { 5 } \mathrm { { } } ^ { 2 } + \mathrm { { b } } W _ { 5 } + \mathrm { { ~ c ~ } }$ ,而指数模型为： $R _ { \mathrm { S } } = R _ { 0 } \ : e ^ { \beta T }$ ;前者为6一8月的关系，而后者为全年其余月份的关系
+
+![](images/2a60987541c81c476116f58b92d78d943b2de087eefdd7c87161ccf2da2a7081.jpg)  
+图1利用0—5cm土层的土壤温度( $T _ { 5 }$ )或土壤含水率( $\cdot \ : W _ { 5 }$ )模拟不同年龄林分土壤呼吸值和实测值比较  
+Fig.1Comparisons between measured and modeled soil respiration rates with soil temperature ( $T _ { 5 }$ ）or soil water content ( $\textstyle \mathcal { W } _ { 5 }$ ）at the 5cm depth for different aged stands 图中A1和A2为 $T _ { 5 }$ 控制阶段,B为 ${ \boldsymbol { \mathit { W } } } _ { 5 }$ 控制阶段
+
+用重复测量方差分析（repeatedmeasuresANOVA）来分析林龄和测定时间对 $R _ { \mathrm { s } }$ 的影响,并用邓肯检验（Duncan test）比较不同年龄林分 $T _ { 5 } , \psi _ { 5 }$ 以及 $R _ { \mathrm { s } }$ 的差异。采用多元线性回归分析各年龄林分全年 $R _ { \mathrm { s } }$ 通量与$T _ { { \scriptscriptstyle 5 } } \backslash W _ { { \scriptscriptstyle 5 } }$ 、SOC 密度以及细根生物量的关系。所有数据分析由 SPSS 19.0（SPSS Inc.,Chicago,Illinois,USA）完成，图表绘制由 Sigmaplot 10.0(Systat Software Inc.,San Jose,CA,USA)完成。
+
+# 2结果与分析
+
+2.1不同年龄林分土壤呼吸的季节动态及其影响因子所有林分的 $T _ { 5 }$ 的季节变化趋势基本一致,最高值均出现在6—8月的生长季,最低值出现在1—2月的冬季（图2)。然而,不同年龄林分 ${ \bf W } _ { 5 }$ 的季节变化趋势除了在6一8月期间基本一致以外,其他月份分异较大。不同年龄样地之间 $T _ { 5 }$ 在生长季期间表现出的变异性大于非生长季；相反， ${ \mathbb { W } } _ { 5 }$ 在生长季期间不同年龄样地之间的差异小于非生长季(图2）。
+
+![](images/1cba8e367730d241446ab31e5c50d1ee42c7bbde88d82eb703d883c86bc9bf61.jpg)  
+图2不同年龄林分 $\pmb { 5 } \mathbf { c m }$ 深土壤温度和土壤含水率的季节变化  
+Fig.2Seasonal variations in soil temperature and soil watercontent at the 5cm depth in diferent aged stands
+
+4 个年龄林分的 $R _ { \mathrm { s } }$ 的季节动态基本一致,均与 $T _ { 5 }$ 的变化趋势基本一致,表现为生长季高、非生长季低的单峰型变化格局(图1)。不过,在6月一8月期间， $R _ { \mathrm { s } }$ 实测值明显低于基于 $T _ { 5 }$ 的模型估测值,因此可以将 $R _ { \mathrm { s } }$ 的季节动态分为两个阶段：土壤含水率控制阶段(2014年6月—2014年8月，即B阶段)和土壤温度控制阶段（2014年4月—2014年5月和2014年9月—2015年3月,即A1和A2阶段)（图1)。在土壤温度控制阶段内， $T _ { 5 }$ 对1年、10年、25年和56年林分 $R _ { \mathrm { s } }$ 变异性的解释率分别为 $8 5 \%$ ） $9 3 \%$ ） $8 8 \%$ 和 $9 0 \%$ ;而在土壤含水率控制阶段, ${ \mathbb { W } } _ { 5 }$ 对1年、10年、25年和56年林分 $R _ { \ s }$ 变异性的解释率分别为 $5 6 \% . 6 3 \% . 7 9 \%$ 和 $5 7 \%$ (表2）。
+
+# 2.2不同年龄林分土壤呼吸的差异及其影响因子
+
+不同年龄林分的全年 $T _ { 5 }$ 平均值和4月—11月期间 ${ \bf W } _ { 5 }$ 平均值均无显著差异（表3），但生长季和非生长季$T _ { 5 }$ 平均值的林分间差异显著。重复测量方差分析结果显示,年龄( $P = 0 . 0 1 3 \mathrm { \ : }$ )和测定时间( $\scriptstyle P < 0 . 0 0 1 { \mathrm { ~ , ~ } }$ 对 $R _ { \mathrm { s } }$ 均有显著影响,但两者的交互作用不显著( $\overline { { P _ { \mathrm { \Lambda } } } } = 0 . 0 7 6 )$ 。不同年龄林分的全年、生长季和非生长季 $R _ { \mathrm { s } }$ 平均值均存在显著差异( $P { < } 0 . 0 5 )$ ,分别波动在 $1 . 7 5 \mathrm { - } 2 . 0 9 \mathrm { g } \mathrm { ~ C ~ m ~ } ^ { - 2 } \mathrm { d } ^ { - 1 }$ ,3.21- $- 3 . 7 2 \mathrm { g } \mathrm { ~ C ~ m } ^ { - 2 } \mathrm { d } ^ { - 1 } \ 、 0 . 2 7 \mathrm { - } 0 . 4 5 \mathrm { g } \mathrm { ~ C ~ m } ^ { - 2 } \mathrm { d } ^ { - 1 }$ 之间（表3）,均以10 年样地最低、25 年或56 年样地最高。
+
+表3不同年龄样地土壤5cm温度( ${ \cal T } _ { 5 } .$ )和土壤5cm含水率（ ${ \cal { W } } _ { 5 }$ )以及土壤呼吸 $( R _ { \mathrm { S } } )$ 的多重比较（平均值 $\cdot \pm$ 标准误差)Table 3Multiple comparison between each of ages stands in soil temperature ( $T _ { 5 }$ ）and water content at the 5cm depth ( ${ \cal { W } } _ { 5 }$ ）a nd soilrespiration （mean±SE)  
+
+<html><body><table><tr><td>Annual T5/(℃）</td><td>生长季T5 T in/ c</td><td>非生长季T5 Ts in nr rg</td><td>4—11月W5 Apw a d oz/</td><td>全年Rs (gnm²R-1)</td><td>生长季Rs Rs in growing (g Cm2d-1)</td><td>非生长季Rs Rs in non- (gim=2d-1)</td></tr><tr><td>6.98±0.27a</td><td>14.50±0.42a</td><td>-0.66±0.15b</td><td>47.30±3.37a</td><td>1.88±0.03bc</td><td>3.38±0.05ab</td><td>0.36±0.01b</td></tr><tr><td></td><td>14.26±0.40a</td><td>-1.14±0.05c</td><td>37.56±1.26a</td><td>1.75±0.08c</td><td>3.21±0.15b</td><td>0.27±0.00c</td></tr><tr><td>6.62±0.22a</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6.48±0.08a 6.54±0.16a</td><td>13.01±0.09b 13.20±0.24b</td><td>-0.15±0.07a -0.22±0.09a</td><td>36.96±0.97a 44.40±5.95a</td><td>2.01±0.03ab 2.09±0.07a</td><td>3.55±0.05ab 3.72±0.15a</td><td>0.45±0.01a 0.43±0.01a</td></tr></table></body></html>
+
+表中同列不同小写字母表示不同年龄差异显著( $P { < } 0 . 0 5 )$
+
+4个年龄林分全年 $R _ { \mathrm { s } }$ 通量波动在 $6 3 9 . 7 \mathrm { g } \mathrm { ~ C ~ m ~ } ^ { - 2 } \mathrm { a } ^ { - 1 }$ 与 $7 6 2 . 3 \mathrm { g } \mathrm { ~ C ~ m ~ } ^ { - 2 } \mathrm { a } ^ { - 1 }$ 之间;生长季 $R _ { \mathrm { s } }$ 通量波动在 $5 9 0 . 6 \mathrm { g } \mathrm { C }$ $\mathbf { m } ^ { - 2 } \mathbf { a } ^ { - 1 }$ 至 $6 8 4 . 8 \mathrm { g } \mathrm { ~ C ~ m ~ } ^ { - 2 } \mathrm { a } ^ { - 1 }$ 之间;非生长季 $R _ { \mathrm { s } }$ 通量波动在 $4 9 . 1 \mathrm { g } \mathrm { ~ C ~ m ~ } ^ { - 2 } \mathrm { a } ^ { - 1 }$ 至 $8 0 . 6 \mathrm { g } \mathrm { ~ C ~ m ~ } ^ { - 2 } \mathrm { a } ^ { - 1 }$ ;全年和生长季 $R _ { \mathrm { s } }$ 通量均表现为10年样地 $< 1$ 年样地 $< 2 5$ 年样地 $< 5 6$ 年样地的顺序,非生长季 $R _ { \mathrm { s } }$ 通量表现为10年样地 $^ { < 1 }$ 年样地$< 5 6$ 年样地 $< 2 5$ 年样地的顺序(图3)。全年、生长季和非生长季 $R _ { \mathrm { s } }$ 通量随林龄的变异系数分别为 $7 . 6 \%$ （20 ${ \it 6 . 3 \% }$ 和 $2 1 . 1 \%$ 。
+
+不同年龄林分 $R _ { \mathrm { s } }$ 与 $T _ { 5 } , W _ { 5 }$ 、不同土深(0—10、0—$2 0 \phantom { 0 } . 0 { - 4 0 } \mathrm { c m } \phantom { 0 }$ )的细根生物量以及SOC密度之间的关系分析表明：生长季 $R _ { \mathrm { s } }$ 通量与 $_ { 0 - 1 0 \mathrm { c m } }$ 土层中直径 $< 0 . 5$ $\mathbf { m } \mathbf { m }$ 的细根生物量呈显著正相关关系( $R ^ { 2 } = 0 . 3 9 0 , P =$ 0.03），与0— $2 0 \mathrm { c m }$ 土层的SOC密度也呈显著正相关关系 $R ^ { 2 } = 0 . 4 3 4 , P = 0 . 0 2 )$ 。然而,非生长季 $R _ { \mathrm { s } }$ 通量与相应的 $T _ { \mathfrak { s } }$ 呈显著的正相关关系( $R ^ { 2 } = 0 . 9 5 9$ ， $\textstyle P < 0 . 0 1 { \big . }$ ）（图4）。
+
+# 3结论与讨论
+
+3.1不同年龄林分土壤呼吸的季节变化及其影响因子
+
+本研究中4个皆伐后自然恢复的不同年龄林分的$R _ { \mathrm { s } }$ 呈现一致的季节动态(图1)，与在南亚热带森林[27]和北方森林[12]的研究结果类似,这可能是 $R _ { \mathrm { s } }$ 受到土壤温度和土壤含水率的强烈控制的缘故[28-29]。在同一研究区内,气候条件(气温和降水量等)基本一致,土壤温度和土壤含水率的变化模式相似,因而不同年龄林分的 $R _ { \mathrm { s } }$ 表现出相似的季节变化趋势[30]。除6月—8月外,4种年龄林分 $R _ { \mathrm { s } }$ 的季节变化与 $T _ { 5 }$ 变化趋势一致,两者之间呈极显著的指数函数关系（表2），表明土壤温度是影响该时段土壤呼吸时间动态的主要因子，这与其他温带森林的研究结果一致[1232]。
+
+![](images/84bff46bab9f256748feb2dbad593d311450b372e146b2e755923c21611dfd35.jpg)  
+图3不同年龄林分全年、生长季和非生长季 $| R _ { \mathrm { s } }$ 通量比较(平均值 $\pm$ 标准误差， $n = 3$ ）Fig.3Comparisons of Rs in the whole year，growing season andnon-growing season among different aged stands ( $\mathrm { m e a n } { \pm } \mathrm { S E }$ ， $n =$ 3)不同字母表示不同年龄林分差异显著 $\scriptstyle P < 0 . 0 5$
+
+然而,6月—8月期间,4个年龄林分的 $R _ { \mathrm { s } }$ 与 ${ { T } _ { 5 } }$ 之间的关系均不显著( $P > 0 . 0 5$ ;图1)。这并不能说明这段时段内 $R _ { \mathrm { s } }$ 与 $T _ { 5 }$ 就没有相关关系,可能是由于这段时间内 $T _ { 5 }$ 波动较小,使得 $R _ { \mathrm { s } }$ 与 $T _ { 5 }$ 统计关系不显著。相反，这一时段的 ${ \bf W } _ { 5 }$ 变化剧烈（图2），从而上升为 $R _ { \mathrm { s } }$ 的主导因子： $R _ { \mathrm { s } }$ 与 ${ \cal { W } } _ { 5 }$ 有显著的二次函数关系( $R ^ { 2 }$ 波动在0.56—0.79 之间;表2）。这一结果与Li等对黄土高原森林等11种群落 $R _ { \mathrm { s } }$ 的研究结果相似[33]。有研究证实：当土壤含水率不是限制条件时， $R _ { \mathrm { s } }$ 主要受土壤温度的控制;而当 $R _ { \mathrm { s } }$ 受到土壤含水率的胁迫时， $R _ { \mathrm { s } }$ 的变化在温度的驱动下受土壤含水率的控制当土壤含水率较低时，土壤中可溶性底物的扩散受到抑制；在一定土壤含水率范围内， $R _ { \mathrm { s } }$ 随着土壤含水率的增加而增大。当土壤含水率超过一定的数值后，土壤中气体的扩散速率降低和氧气缺乏,就会抑制土壤中 $\mathrm { C O } _ { 2 }$ 的排放[36-37]。因此,土壤含水率过低或过高都会抑制凋落物分解、根呼吸以及土壤微生物的活动，从而限制 $R _ { \mathrm { s } }$ 的大小[38-40]。
+
+# 3.2不同年龄林分土壤呼吸的差异及其影响因子
+
+本研究中4个年龄林分全年 $R _ { \mathrm { s } }$ 通量波动在 $6 3 9 . 7 { \longrightarrow } 7 6 2 . 3 \mathrm { g } \mathrm { ~ C ~ m } ^ { - 2 } \mathrm { ~ a } ^ { - 1 }$ 之间,处于以往温带森林研究结果范围(122- $1 7 5 4 \mathrm { g } \mathrm { ~ C ~ m } ^ { - 2 } \mathrm { ~ a } ^ { - 1 [ 2 8 , 4 1 ] } ,$ )之内。4个年龄林分全年和生长季 $R _ { \mathrm { s } }$ 通量均差异显著,表现出随皆伐后森林恢复的年龄增加， $R _ { \mathrm { s } }$ 通量呈先减后增的趋势（图3)。皆伐1年后生长季 $R _ { \mathrm { s } }$ 通量比56年生林分低（表3），这是由于皆伐后植被细根生物量迅速减少所导致的（皆伐迹地和56年生林分的直径 $< 0 . 5 \mathrm { m m }$ 的细根生物量分别为 $\mathrm { 1 . 2 2 g / m } ^ { 2 }$ 和 $1 . 7 5 \mathrm { g } / \mathrm { m } ^ { 2 }$ )。在皆伐后森林恢复初期,一方面土壤 SOC 因分解加快而减少[42],另一方面因林分郁闭而使抵达地面的太阳辐射减少,土壤温度降低（表2）,而且植被根系尚未得以恢复,从而使10a 林分的 $R _ { \mathrm { s } }$ 通量仍然显著小于 $5 6 \mathrm { a }$ （图3）。随着森林的进一步恢复,植被根系得以恢复,同时林地凋落物产量不断增加[27,43],SOC 的增加为微生物呼吸提供了大量底物,从而使得 $R _ { \mathrm { s } }$ 随之增大。在这一时段,SOC 密度增加起着重要的作用。
+
+![](images/76efd8941f773847430c75c30e85e3af866344ecae11e1e9b0eff0a7437461b6.jpg)  
+图4不同年龄林分生长季或非生长季 $\pmb { R } _ { \mathrm { S } }$ 通量与影响因子之间的关系  
+Fig.4Relationships between the $\pmb { R } _ { \mathrm { s } }$ in the growing or non-growing season and affecting factors for all aged stand:
+
+(A)为生长季 $R _ { \mathrm { s } }$ 通量与 $_ { 0 - 1 0 \mathrm { c m } }$ 土层直径 $< 0 . 5 \mathrm { m m }$ 的细根生物量的关系，(B)为生长季 $R _ { \mathrm { s } }$ 通量与 $_ { 0 - 2 0 \mathrm { c m } }$ 土层 SOC 密度的关系,(C)为非生长季 $R _ { \mathrm { s } }$ 通量与 $5 \mathrm { c m }$ 深土壤温度(C)之间的关系
+
+本研究中4个年龄林分非生长季 ${ \cal R } _ { \mathrm { s } }$ 通量波动在49.1— $8 0 . 6 \mathrm { g } \mathrm { ~ C ~ m ~ } ^ { - 2 }$ 之间(图3)，占全年 $R _ { \mathrm { s } }$ 通量的比例分别为 $9 . 4 \% . 7 . 7 \% . 1 1 . 0 \%$ 和 $1 0 . 2 \%$ ;这与Wang 等[10]报道的温带森林中非生长季 $| R _ { \mathrm { s } } |$ 占全年 $R _ { \mathrm { s } }$ 通量的比例（204号 $( 8 \% - 2 5 \% )$ 相符。生长季和非生长季中不同年龄 $R _ { \mathrm { s } }$ 的大小趋势基本一致(表2,图3），但不同年龄林分之间非生长季 $R _ { \mathrm { s } }$ 通量的变异系数( $2 1 . 1 \%$ )是生长季的 $( 6 . 3 \% ) 3 . 3 5$ 倍。这说明虽然非生长季 $R _ { \mathrm { s } }$ 通量占全年 $R _ { \mathrm { s } }$ 通量的比例较小，但仍然加大了不同年龄林分全年 $R _ { \mathrm { s } }$ 通量的差异，因此在评价森林恢复过程中 $R _ { \mathrm { s } }$ 通量的时间动态时不能简单地仅考虑生长季的观测值。
+
+冬季土壤呼吸主要来自微生物呼吸[44]。一般认为，非生长季 $R _ { \mathrm { s } }$ 的土壤温度临界值处在 $- 7 \%$ 至 $- 5 \mathrm { { ^ { \circ } C } }$ 之间,低于这个温度微生物呼吸会因土壤中自由水的缺乏而受到抑制[45-46]。研究发现 $T _ { 5 }$ 高于 $- 3 . 5 \mathrm { { \sc C } }$ 就能维持活跃的土壤呼吸。不同年龄林分非生长季 $R _ { \mathrm { s } }$ 通量的差异主要是由非生长季 $T _ { 5 }$ 驱动引起的。25 年和56 年生林分非生长季 $T _ { 5 }$ 显著高于其他样地(表3）,可能是因为它们的凋落物层较厚,能部分阻挡土壤至大气的长波辐射[47]。皆伐迹地可能由于采伐残留物对土壤有一定的保温作用而使其 $T _ { 5 }$ 高于10 年生林分(表3),因而其非生长季 $R _ { \mathrm { s } }$ 通量较高。可见,不同年龄林分非生长季 $R _ { \mathrm { s } }$ 通量的差异主要是由于枯落物层不同引起土壤温度差异所导致的。
+
+本研究中 $R _ { \mathrm { s } }$ 随着森林恢复呈先减后增的趋势,与北方森林 $R _ { \mathrm { s } }$ 随森林恢复先增后降[12,48-49]和逐渐降低[50]的研究结果不一致。主要原因可能是本研究所采用的年龄序列中的最小年龄样地为皆伐迹地,最大年龄为56 年生林分（本地区的老龄林超过200年),因此没能包括整个次生演替系列。而在森林演替过程中,生态系统的物种组成、土壤理化性质[51-52]、微生物群落多样性[53]、土壤胞外酶[54]等都会发生变化,进而影响 $R _ { \mathrm { s } }$ 对森林演替响应的模式。因此,土壤微生物呼吸在森林恢复过程中的变化机理还需深入研究。
+
+致谢：本文数据的测定和分析得到王兴昌、周正虎、张著及黑龙江帽儿山森林生态系统国家野外科学观测研究站工作人员的帮助，特此致谢。
+
+# 参考文献（References）：
+
+[1] Luo YQ, Zhou X H. Soil Respiration and the Environment. London：Academic Press,2006.  
+[2] 顾峰雪，黄玫，张远东,李洁，闫慧敏,郭瑞，钟秀丽.氮输入对中国东北地区土壤碳蓄积的影响.生态学报,2016,36(17）：5379-5390.  
+[3］王新源，李玉霖，赵学勇,毛伟，崔夺，曲浩，连杰,罗永清.干旱半干旱区不同环境因素对土壤呼吸影响研究进展.生态学报,2012,32(15）:4890-4901.  
+[4] SchlesingerWH,Andrews JA.Soil respiration and theglobalcarboncycle.Biogeochemistry,20oo,48（1）：7-20.  
+[5] RaichJW,oterCgatiDteraalvarabilityballespatio98-94.loblCangeB（）：.  
+[6] Bond-LambertyBomonA.TmperatureasociatedireassineglobalsoilespratioecordNature，,46（728）：-582.  
+[7] Vicca S,Bahn M,Estiarte M,VanlonEE,VargasR，Alberti G,AmbusP,Arain MA,BeierC,BentleyLP,Borken W,BuchannN,ColinsSL,deDtoG,DkesJS,EolarC,ay,GdolotiG,ansonP,KenA,roel-ulaG,Ldreiter-KnaussT,aK,Lelei-KovacsE,Lebrija-TrejosE,MaestreFT,MarhanS,MarshallM,MeirP,MiaoY,MuhrJ,NiklausPA,OgayaR,PeuelasJ,Poll,RustadLE，SavageK,SchindbacherA,SchmidtIK,SmithAR,SotaED,Susela V,TetemaA，vanGestelN,vanStratenO,WanS,Weber U, Janssens I A. Can current moisture responses predict soil CO $^ 2$ efflux under altered precipitation regimes? A synthesis of manipulationexperiments.Biogeosciences，2014，11（11）：2991-3013.  
+8ZuB，ngsreprtieaspatuesiiyolcaeepoiilobal2011,17(6): 2172-2183.  
+[9]RaichJW,PoterCS.Globalpaternsofcarbondioxideemissonsfromsoils.Global BgeochemicalCycles，1995，9（1）:2-36.  
+[10] Wang CK,YangJY,ZhangQZ.Soilrespirationinsix temperateforestsinChina.GlobalChangeBiology，2006,12(11):210-2114.  
+[11] 刘绍辉，方精云.土壤呼吸的影响因素及全球尺度下温度的影响.生态学报，1997，17（5)：469-476.  
+[12]Tang JW，Bolstad P V, Martin JG. Soil carbon fluxes and stocks in a great lakes forest chronosequence.Global Change Biology，2009,15（1）:145-155.  
+[13]FeldpahR,doMA,eadsECaS，WndeliE.Carbandutrietacculatioisecodaryfrestsgaigopastures in central Amazonia. Ecological Aplications,2004，14(sp4): 164-176.  
+[14]DeKovelCGF,VanMelA（）E,WisYJOeredseFboadntrogsildvegetatioasitesdifrigiesialage.Plant Ecology，2000,149(1）：43-50.  
+［15］牛莉平，许嘉巍，靳英华，尹海霞，王媛林，刘羽霞，张英洁.温带森林不同演替阶段下的土壤 $\mathrm { C O } _ { 2 }$ 排放通量昼间变化.生态学报,2017,37(8).  
+[16]EwelKC,roperWJrGolHLSlCOevolutioinFordasashpineplantatios.Cangthouhie.CadanJoualofFortResearch，1987,17(4) :325-329.  
+[17]Wang C K， Bond-Lamberty B,Gower S T. Soil surface $\mathrm { C O } _ { 2 }$ flux ina boreal black spruce fire chronosequence. Journal of Geophysical Research,2002，107(D3): 8224.  
+18]KlopatekJelowodcarbosdproesindierentagetasofoglasfrreehiol2/3）：94.  
+[19]CheXWiBinZeeafeioforsooofed-rdforetsrsa.Forest Ecology and Management，2003，177(1/3）: 503-514.  
+[20]DngXZJagQO,ZanJ,HeSJ,LinYZiltiootdasforestreaanginrteastCina.JoualofaicalSciences,2010,20(4): 495-509.  
+21 LuoYQ，WanSQ,HuiDF，WallceLL.Acclimatizationofsoilresprationtoarminginatallgasspraire.Nature,O,413（686):622-625.22 Saiz G,ByeKA，uerbc-BalK,iee，ujdsV,FarellEandgerelaedsonlespatiofsotatoispruce chronosequence in central Ireland. Global Change Biology，2006,12(6）：1007-1020.  
+[23] 史宝库，金光泽，汪兆洋.小兴安岭 5种林型土壤呼吸时空变异.生态学报，2012，32(17)：5416-5428.  
+[24］高伟峰，史宝库，金光泽.模拟氮沉降对典型阔叶红松林土壤呼吸的影响.南京林业大学学报：自然科学版，2016，40(1)：8-14.  
+[25]WngCngsdeootsflspaiepeatestsl13(1):123-131.  
+[26］杨金艳，王传宽.东北东部森林生态系统土壤呼吸组分的分离量化.生态学报，2006，26(6)：1640-1647.  
+[27] YaJH,WangYouGangQ.Estiaeofilespatiodetpraypouctoofhfrestsatfeteoain South China.Global Change Biology，2006，12（5）：810-821.and Physical Meteorology，1992,44(2):81-99.  
+29]RsselbdfrfsesalbsdafC respired.Canadian Journal of Soil Science，1998,78(2）：301-310.  
+[30］范跃新，杨玉盛,郭剑芬，杨智杰，陈光水，谢锦升，钟小剑，徐玲琳.中亚热带常绿阔叶林不同演替阶段土壤呼吸及其温度敏感性的变化.植物生态学报，2014，38（11)：1155-1165.  
+[31] SavinMC,doJcalcoseglsatodalotideldSoil Biology and Biochemistry，2001,33(4/5）：429-438.  
+[32]LuanJW,LiuSR,WangJX,ZhuXL,SiZM.Rhizosphericandheterotrophicrespirationofawarm-temperateoakchrooseqSoil Biology and Biochemistry，2011,43(3）：503-512.  
+[33]LiHJ,YanJX,YueXF,WangMB.Significanceofsoil tmperatureandmoistureforsoilrespirationinaChinese mountairea. Agriculturaland Forest Meteorology，2008，148(3）：490-503.  
+[34]CoantaeCaeJolpad(6): 945-951.  
+[35]Reichstein M,Tenhunen JD,RoupsardO,Ourcival JM,Rambal S,Dore S,Valentini R.Ecosystem respiration intw evergreerHolm Oak forests:drought effects and decomposition dynamics.Functional Ecology，20O2,16(1）:27-39.  
+[36]DavidsoEA，elkE，RDSolwaterotetandtmpeatureasidepeentoofoundedfactorsrolingsolrsaioitemperate mixed hardwood forest. Global Change Biology，1998,4(2）：217-227.  
+[37] Xu M,Qi Y. Soil-surface CO $_ 2$ efflux and itsspatialand temporal variations ina young ponderosa pine plantation innorthern California.GlobalChange Biology，2001,7(6): 667-677.  
+[38] Taggart M,Heitman JL,Shi W，Vepraskas M.Temperature and water content effects sapric soil material.Wetlands,2012，32(5):939-944.  
+[39] BryeKRiSldatprpeessoeofderatelssoati2009,174(6): 346-357.  
+[40] 蒋延玲，周广胜，赵敏，王旭，曹铭昌.长白山阔叶红松林生态系统土壤呼吸作用研究.植物生态学报，2005，29（3)：411-414.  
+[41] Bond-LambertyB，WangC,owerSTAgobalrelatioshietwentheterotroicndutotrophcopontsfolespatoGloblChange Biology，2004，10（10）：1756-1766.  
+[42] 康永祥，夏国威，刘建军，周威，陈光平.秦岭小陇山锐齿栎林皆伐迹地土壤呼吸特征.应用生态学报，2014，25（2)：342-350.  
+[43] IrvineJ,LawE.trastiglspatioigddoherosrtsbalg（）44.  
+[44] 王娓，汪涛，彭书时，方精云.冬季土壤呼吸：不可忽视的地气 $\overline { { \mathrm { C O } _ { 2 } } }$ 交换过程.植物生态学报，2007，31（3)：394-402.  
+[45] Brooks P D,Schmidt S K,Williams M W. Winter production of $\mathrm { C O } _ { 2 }$ and ${ \mathrm { N } } _ { 2 } \mathrm { O }$ from alpine tundra：environmental controls and relationship to inter-system C and N fluxes. Oecologia,1997,110(3) : 403-413.  
+[46] SchimelJP,CleinJS.Microbialresponsetofreze-thawcyclesintundraandaigasoilSoilologyandBiochemistry996,8（8）：1061- 1066.  
+[47]PaulKlgseeelArlaSleaturederfresileoefrltemperature under a rang of forest types.Agricultural and Forest Meteorology，2004，121(3/4）：167-182.  
+[48]Litvak M，Miller S，Wofsy S C，Goulden M. Effect of stand age on whole ecosystem $\mathrm { C O } _ { 2 }$ exchange in the Canadian boreal forest. Journal ofGeophysical Research，2003，108（D3）: 8225.  
+[49]Payeur-Poirier JL， Coursolle C，Margolis H A， Giasson M A. $\mathrm { C O } _ { 2 }$ fluxes of a boreal black spruce chronosequence in eastern North America.Agricultural and Forest Meteorology,2012，153：94-105.  
+[50]SnOpeJE，WolfVasocksildriroshoefirentftPacific Northwest，USA. Global Change Biology，2004，10(9）:1470-1481.  
+[51 贾建伟，王磊，唐玉姝，李艳丽，张文佺，王红丽，付小华，乐毅全.九段沙不同演替阶段湿地土壤微生物呼吸的差异性及其影响因素.生态学报，2010，30（17）：4529-4538.  
+[52] 康冰，刘世荣,蔡道雄，卢立华，何日明，高妍夏，迪玮峙.南亚热带不同植被恢复模式下土壤理化性质.应用生态学报,2010,21(10)：2479- 2486.53]周正虎，王传宽.生态系统演替过程中土壤与微生物碳氮磷化学计量关系的变化.植物生态学报，2016,40(12)：1257-1266.  
+[54] EnowashuE，ollmeofelerEoalosciidcpsiApplied Soil Ecology，2009,43（1)：11-21.

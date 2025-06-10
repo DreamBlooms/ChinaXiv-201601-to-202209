@@ -1,0 +1,153 @@
+# DOI:10.5846/stxb201510152079
+
+张霄,张红玉,陆兆华,陈凯昱,吴佳兴,邓雪琴.高寒地区路堑边坡植被恢复效果.生态学报,2017,37(5)：1450-1457.ZhangX,ZangHYuZH,hnK，WuJengXVegetatiorestoratosofocktigslosieoldegioofaActaEcologica Sinica,2017,37(5) :1450-1457.
+
+# 高寒地区路堑边坡植被恢复效果
+
+张霄1,²，张红玉1,²，陆兆华1,2,3，\*，陈凯昱¹，吴佳兴¹，邓雪琴1
+
+1中国矿业大学(北京)恢复生态学研究所，北京100083  
+2滨州学院山东省黄河三角洲生态环境重点实验室，滨州256603  
+3国家环境保护创面生态修复工程技术中心，北京100082
+
+摘要：以大兴安岭地区阿荣旗至博客图段高速公路边坡作为研究对象,研究厚质基层喷附技术和植生混凝土喷附技术的植被恢复效果。结果表明：1)从植物群落组成情况和群落相似性系数来看,两种技术的总体恢复效果差别不明显,但植生混凝土喷附坡面植物群落更为接近自然水平。2)同样基于植物群落组成和群落相似性系数，两种技术在阴坡和阳坡上的恢复效果存在明显不同。3)土壤全氮和有机质含量的适当增长可以促进植物群落发展,而土壤速效磷含量的增长会抑制其发展。4)推荐较为合理的物种搭配为艾蒿、柳蒿、羊草、贝加尔针茅、兴安胡枝子、紫穗槐和兴安柳。研究可改善这两种生态恢复复方式在该地区的应用,优化物种配置,防止二次退化问题的出现,为后期养护、管理提供理论依据。
+
+关键词：岩质路堑边坡;植被恢复；群落多样性；群落相似性；相关性
+
+# Vegetation restoration effects of rock cutting slopes in the cold region of China
+
+ZHANG Xiao1.2， ZHANG Hongyu1.2,LU Zhaohua1,2.3.\*，CHEN Kaiyu1，WU Jiaxing1，DENG Xueqin1
+
+1Ecological Restoration Lab,China Universityof Mining&Technology，Beijing 1Ooo83,China   
+2ShandongProincialKeyboratoryofEcoEomentalScienceforYellierDtanzouUeritynzou6in   
+3StateEnvironmentalProtectionEngineringCenterforEcologicalRestorationofSurfacesDestroed，Beijingo82，China
+
+Abstract：Withtherapid economic，scientific，and technological development，China's expressway network is increasingly improving.However，expressway networkscan damage ecosystems，and generate alarge number of high and steep slopes. Because these slopescan be dangerous，itis of great importance torestore them.The United Statesandother developed countrieshavealonghistoryinecological sloperestoration，andcurrently，Japanistheworldleaderinthefieldof restorationtechniques.InChina,theefortsforecologicalrestoratioarestillbehindothercountries，although itscological restoration techniques are developing，especialy those for special geographical environments such as rock slopes.Compared with soil slopes，rock slopesare high，step，and with relativelypoor soil conditions.Furthermore，rock slopesare extremelyunstable，which makes them dificult torecover.In China，numerous methodologies have been implemented to restorerock slopes.Currntly,thick layer plantingandeco-concrete technologies are widelyused forrestorationactivities in China.However,thesetwo methodologiesarestillimitated mechanicallyfromother countries，andnoparticularlythorough, systematic，orcomprehensiveresearch isavailable.Thus，China'secological restoration work is facingserious issues, especiallyinthecoldregion.Unlikeotherregionsin China,theextremelylowtemperatures inthecoldregionhinder plant growth,becauseof diseasesand the harsh environment.Manyartificial slope plantsused in thisregion have poorcold hardinessor stress resistance.This causesdegradation of manyartficial slopes，leading toa decrease inthe vegetation cover,anddeathof native species evenafteraperiodof growthandreproduction.Inthe present study,theArun Bannerto Boketu expressaywaschosenasthe studyarea，inorder toevaluatetherestoration efectsofthicklayer plantingand ecoconcrete techniques.We alsoaimed to understand thesuccesional stages，and determine thesoil-plant relationships by analyzingtheplantcommunities'，Margalef index，Shanon-Weiner index，Pielouindex,Jacard index,andsoildata.The resultsidicatethat：1）thetwotechniques didnotresultinsignificantlydiferentplantcommunitiesandsimilarityindices, although eco-concrete slope plantcommunities were closer to natural ones；2）obvious differences were observed between the plantcommunitiesand similarity indices of shadyandsunny slopes；3）aspecific incrementinsoil total nitrogenand organic matercontentcan promotethe developmentof plant communities.Inaddition，an increase insoilavailable phosphorus content willinhibitthisdevelopment；4）Artemisiaargyi，Artemisia integrifolia，Leymuschinensis，Stipa Baicalensis，Lespedezadaurica，Amorpha fruticosa，and Salix hsinganica are the most appropriateand effective species for usein thisrestoration work.Overall,this studycan provideabasis for improving theapplicationofboth technologies nthis region，tooptimize speciesconfiguration，preventsecondarydegradationproblems，and provideatheoretical basis forfuture conservation and management measures.
+
+Key Words:rock cutting slope；vegetation restoration；community diversity；community similarity；correlation
+
+随着我国经济和科技的高速发展,我国高速公路网日益完善。截止至2015年,我国高速公路里程已超过$1 . 0 8 \times 1 0 ^ { 5 } \ \mathrm { k m } ^ { [ 1 ] }$ 。然而,高速公路建设是一项以破坏生态环境为代价的现代化工程,其建设涉及到大量的土石方工程,这会严重破坏当地的植物群落以及生物栖息地,同时形成大量的高陡边坡[2]。据统计,每建设 $1 ~ \mathrm { k m }$ 高速公路就会形成 $( 5 - 7 ) \times 1 0 ^ { 4 } ~ \mathrm { m } ^ { 2 }$ 的裸露坡面。我国从2000 年起高速公路边坡面积以每年 $( 2 - 3 ) \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 2 }$ 的速度迅速增长[3-4]。美国等发达国家很早就开展了边坡生态恢复工作,20 世纪40 年代,Harison.C.M采用不同播种时间、不同物种组合的小区实验研究草皮的建立方法[5]。而目前日本在生态恢复技术研发方面处于世界领先地位,其成熟的生态恢复技术主要有客土喷播法、厚层基材喷播法、种子喷播法、植生网法、肥料袋法、植生带法、植生袋法等[6]。我国边坡生态恢复工作起步较晚,对生态恢复技术的研究还处于探索状态,尤其是对岩质边坡这类特殊地理环境的生态恢复技术的研究还比较少。岩质边坡多呈高陡形态，与土质边坡相比,其土壤条件极差,并且具有极强的不稳定性,这使得岩质边坡极难被恢复[7]。我国岩质边坡生态恢复技术目前主要有:厚质基层喷附技术、植生混凝土喷附技术、液压喷播法、OH液植草护坡技术、土工网植草护坡以及蜂巢式网格植草护坡技术等[8-9]。其中,厚质基层喷附技术和植生混凝土喷附技术以其良好的恢复效果,简便的施工以及经济合理等优点被广泛应用[10]。但目前我国还处在机械式的模仿阶段,对这两种生态恢复技术在不同区域应用的研究还不是特别深入、系统以及全面[I-12]。这就导致了我国不同区域岩质边坡生态恢复实践工作仍存在诸多问题。比如,高寒地区不同于其他地区,其气温低,病害多,环境恶劣,植被生长困难。该地区许多人工喷播边坡植被抗寒性差、抗逆性差,植生层不稳定,养分比例失调,这就导致了人工植被经过一段时间的生长、繁衍后出现二次退化现象,植被数量减少,覆盖度下降,本地物种未能成功入侵,致使坡面出现二次裸露，最终恢复失败。
+
+本文选取大兴安岭地区阿荣旗至博客图段高速公路(以下简称阿-博高速公路)边坡作为研究对象,分析厚质基层喷附坡面、植生混凝土喷附坡面以及自然坡面的植物群落数据和土壤数据，评价两种生态恢复方式的恢复效果,确定该地区人工生态恢复坡面所处的具体演替进程、植物群落多样性与土壤养分之间的关系。从而进一步改善这两种生态恢复方式在该地区的应用,优化物种配置,防止二次退化问题的出现,为后期养护、管理提供理论依据。
+
+# 1研究区域概况
+
+研究区位于我国内蒙古大兴安岭地区,公路基本为西北东南走向,地势为西北高东南低,沿阿伦河谷穿越大兴安岭林区。本区域为我国最寒冷地区,气候呈寒温带大陆性季风气候,年平均气温在 $0 \mathrm { { ^ { \circ } C } }$ 以下(约为-1.2$\mathcal { \mathrm { C } }$ 至 $- 5 . 6 \mathrm { ~ \textdegree C }$ )。年降水量平均为 $3 6 0 { \mathrm { - } } 5 0 0 \ \mathrm { m m } , 8 0 \%$ 以上集中在7、8月。无霜期一般从5月下旬到九月上旬，为时仅90—110d,植物生长周期较短。本区域土壤呈酸性， $\mathrm { \ p H }$ 值在5一6.5之间,土壤类型包括暗棕壤性的棕色针叶林土、棕色针叶林土和灰化棕色针叶林土,此外,还有隐域性土壤,主要为草甸土和沼泽土。由于气候条件恶劣,本区域内植物种类贫乏,主要建群种或优势种为兴安落叶松（Larixgmelinii）、樟子松（Pinussylvestris L.var.mongholica）、白桦（Betula platyphylla）、岩高兰（Empetrum nigrum var.japonicum）、笃斯越桔（Vaccinium uliginosum）等。同时,蒙古植物区系成分分布较广,如贝加尔针叶茅（Stipa Baicalensis）、线叶菊（Filifolium sibiricum）裂叶蒿（Artemisia tanacetifolia）、羊草（Leymus chinensis）等。此外,由于受到长白植物区系影响,紫椴（Tilia amurensis）、水曲柳（Fraxinus mandschurica)等长白植物区系成分在此区域也有分布[13]。
+
+# 2研究方法
+
+# 2.1 样地设置
+
+阿-博高速公路坡面采用厚质基层喷附技术和植生混凝土技术进行生态恢复（表1)。坡面均为岩质边坡,高度 2- $2 0 ~ \mathrm { ~ m ~ }$ ,坡度为 $1 : 1 . 7 5$ 。施工时所喷播物种以及阴、阳坡配比如下：蒙古冰草（Agropyronmongolicum）（阴 $2 5 \%$ ;阳 $2 5 \%$ ）、无芒雀麦（Bromus inermis）（阴 $10 \%$ ；阳 $1 2 . 5 \%$ ）、羊草（Leymus chinensis）（阴$5 \%$ ；阳 $1 2 . 5 \%$ ）、紫花苜蓿(Medicago sativa）（阴 $1 2 . 5 \%$ ；阳 $2 5 \%$ ）、小叶锦鸡（Caragana microphylla）（阴 $2 5 \%$ ；阳$10 \%$ ）、紫穗槐(Amorpha fruticosa）（阴 $10 \%$ ；阳 $5 \%$ )以及兴安胡枝子（Lespedeza daurica）（阴 $1 2 . 5 \%$ ；阳 $10 \%$ ）。由于施工限制,本研究选取其中5个标段和周边自然边坡于2014年8月初进行植被调查和土壤调查。
+
+# 2.2样方设置及样品采集
+
+由于人工生态恢复边坡无乔木生长，自然边坡乔木极少,所以调查未设置乔木样方。在所选定的人工恢复边坡和自然边坡的四个角和中心位置上分别设置5个$4 \ \mathrm { m } { \times } 4 \ \mathrm { m }$ (共计75个)大样方调查灌木情况，在每个大样方内的4个角和中心位置设置5个 $1 \ \mathrm { m } \times 1 \ \mathrm { m }$ （共计375个)小样方调查草本情况，记录物种组成、物种高度、盖度以及频度等[14]
+
+由于坡面较高，土壤养分分布不均匀，所以土壤样品按“S"形从低到高进行斜方向多点取样，以确保实验结果的准确性。人工恢复边坡和自然边坡每个坡面取7个样点，每个点进行重复取样3次，取样深度为0—10cm,将所取土样充分混合，混合样品以取土 $1 ~ \mathrm { k g }$ 左右为宜,多余样品可用四分法舍弃[15]。土壤样品（共计15个)带回实验室用于土壤理化性质的测定。土壤全氮、有机质、缓效钾、速效钾、速效磷分别采用半微量开氏法、重铬酸钾容量法、1mol/L热 ${ \mathrm { H N O } } _ { 3 }$ 浸提法、 $\mathrm { N H _ { 4 } O A c }$ 浸提-火焰光度法以及碳酸氢钠-钼钼锑抗比色法测定[16
+
+表1样地设置  
+
+<html><body><table><tr><td colspan="4">Table 1 Plot arrangement</td></tr><tr><td>植物恢复技术 Restoration</td><td>标段及坡向 Section and</td><td>样地位置(桩号) Location</td><td>施工时间 Construction time</td></tr><tr><td>technics I</td><td>slope exposure 2A</td><td>K9+370-K10+150</td><td>2011</td></tr><tr><td rowspan="9">Ⅱ</td><td>2B</td><td>BK0+233-BK0+471</td><td></td></tr><tr><td>7A</td><td>k31+375-k32+505</td><td>2010</td></tr><tr><td>7B</td><td>k31+415-k32+150</td><td></td></tr><tr><td>8A</td><td>k38+090-k38+930</td><td>2010</td></tr><tr><td>8B</td><td>k38+170-k39+430</td><td></td></tr><tr><td>3A</td><td>k12+150-k12+685</td><td>2010</td></tr><tr><td>3B</td><td>k15+630-k15+865</td><td></td></tr><tr><td>6A</td><td>k26+770-k26+880</td><td>2011</td></tr><tr><td>6B</td><td>k26+935-k27+325</td><td></td></tr><tr><td rowspan="3">Ⅲ</td><td></td><td></td><td></td></tr><tr><td>A</td><td>1Z、2Z、3Z</td><td></td></tr><tr><td>B</td><td>4Z、5Z</td><td></td></tr></table></body></html>
+
+I：厚质基层喷附技术;Ⅱ;植生混凝土喷附技术;ⅢI：自然坡面;A：阳坡，B：阴坡，Z：自然边坡
+
+# 2.3 数据分析
+
+利用Excel 2010 对实测数据进行计算,得出各坡面物种的重要值,利用重要值计算群落多样性指标。表征植物群落多样性的指标众多。本研究选取 Margalef 指数、Shannon-Weiner 指数以及Pielou 指数[17-19]。另外,本文采用Jaccard 系数计算植物群落相似性[20]。再运用Canoco 5.0 首先对植物群落数据进行 DCA 分析（除趋对应分析),当DCA分析结果中排序轴梯度最大值大于4时选择CA或CCA等方法分析,小于3时选择
+
+PCA 和RDA分析较为合理（本文为2.987）,所以本文群落与土壤间群落分析采用 PCA以及RDA分析[21]。  
+最后利用 SPSS 17.0算出二者相关性,从而定量的描述各坡面差异以及植物群落与土壤之间的关系。
+
+Margalef指数（丰富度指数）： $R { = } ( S { - } 1 ) / \mathrm { l n } N$ Shannon-Weiner指数： $H = - \sum _ { i \ = 1 } ^ { s } ( P _ { i } \mathrm { l n } P _ { i } )$ Pielou指数（均匀度指数）： $E = H / \ln ( S )$ Jaccard指数： $q = m / { \left( a + b - m \right) }$
+
+式中，S为群落中的总物种数； $N$ 为群落中全部种的总个体数； $P _ { i }$ 为种 $i$ 重要值； $m$ 为两种植物群落中共同拥有的物种数; $\textit { a } , \textit { b }$ 分别表示两群落的物种总数。根据Jaccard 相似性原理,当 $q$ 为0一0.25 时为极不相似，当 $q$ 为0.25—0.50时为中等不相似,当 $\textit { q }$ 为0.50—0.75 时为中等相似,当 $q$ 为0.75—1.00 时为极相似[22]。
+
+# 3结果分析
+
+# 3.1坡面群落组成
+
+人工恢复坡面与自然坡面物种分属4科,19属,总数为23种（表2)。通过对所有物种重要值的PCA排序(图1)可以更直观的得到植物群落格局。厚质基层喷附阴、阳坡植物群落组成存在差别,植生混凝土喷附坡面阴、阳坡面植物群落也存在同样现象。两种恢复技术的阳坡植物群落组成大体相同,优势物种为：紫花苜蓿、蒲公英(Taraxacum mongolicum）、艾蒿（Artemisia argyi）、兴安胡枝子、紫穗槐。群落结构方面已出现灌木层。两种恢复技术的阴坡植物群落组成同样大体相同,但阴坡群落结构无灌木层,优势物种为：披碱草（Elymus dahuricus）蒙古冰草、黄花蒿（Artemisia annua）。另外,自然坡面与人工恢复坡面植物群落组成差别较大。自然坡面阴坡、阳坡群落物种组成较为一致,羊草、贝加尔针叶茅、野火球（Trifolium lupinaster）、裂叶蒿、线叶菊、柠条（Caragana korshinskii）兴安柳（Salix hsinganica)等为主要物种。
+
+为了量化各个坡面植物群落的差异度,本文对植物群落进行相似性分析。从群落相似性系数（表3）可知,厚质基层阳坡与植生混凝土阳坡极为相似(0.9231）,两种技术的阴坡极为相似(0.833）。厚质基层阳坡
+
+![](images/ac7c1bcfdd3f79318648507ace79e6385893e28ace7240cc6604e02f8a851a97.jpg)  
+图1人工恢复及自然坡面物种重要值PCA排序图  
+Fig.1PCA ordination of species important value on artificial restoration slopes and natural slopes
+
+http ://www.ecologica.cn
+
+与阴坡植物群落中等不相似(0.4375）,植生混凝土阳坡与阴坡植物群落同样属中等不相似(0.4112）。另外，厚质基层阳坡、植生混凝土阳坡与自然阳坡植物群落中等不相似(0.3810,0.4000),厚质基层阴坡、植生混凝土阴坡与自然阴坡植物群落极为不相似（0.2000,0.2381）。
+
+Table 2Plant species improtant value on artificial restoration slopes and natural slopes   
+
+<html><body><table><tr><td rowspan="2">物种 Species</td><td colspan="10">重要值 Improtant/%</td></tr><tr><td>2A</td><td>2B</td><td>7A</td><td>7B</td><td>8A</td><td>8B</td><td>3A</td><td>3B</td><td>6A</td><td>6B</td><td>1Z 2Z</td><td>3Z</td><td>4Z</td><td>5Z</td></tr><tr><td>S1</td><td>7.70</td><td>10.51</td><td>14.03</td><td>13.31</td><td>11.60</td><td>22.91</td><td>0</td><td>16.44</td><td>8.94 14.55</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>S2</td><td>10.00</td><td>8.86</td><td>13.74</td><td>12.90</td><td>12.50</td><td>15.74</td><td>10.14</td><td>6.32 11.00</td><td>10.43</td><td>6.59</td><td>4.43</td><td>4.57</td><td>4.71</td><td>5.37</td></tr><tr><td>S3</td><td>11.13</td><td>0</td><td>13.37</td><td>0</td><td>0 0</td><td></td><td>15.81 0</td><td>12.72</td><td>0</td><td>5.85</td><td>6.95</td><td>5.48</td><td>5.60</td><td>3.99</td></tr><tr><td>S4</td><td>6.45</td><td>9.00</td><td>11.73</td><td>13.83</td><td>9.10</td><td>14.96</td><td>0</td><td>8.55 8.81</td><td>8.36</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>S5</td><td>18.27</td><td>0</td><td>5.80</td><td>0</td><td>10.30</td><td>0</td><td>13.96</td><td>12.42 14.21</td><td>7.52</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>S6</td><td>4.12</td><td>0</td><td>5.97</td><td>0</td><td>4.40</td><td>6.22</td><td>5.93</td><td>4.31 11.34</td><td>0</td><td>2.71</td><td>1.24</td><td>2.25</td><td>2.79</td><td>0</td></tr><tr><td>S7</td><td>5.32</td><td>6.88</td><td>7.20</td><td>7.96</td><td>9.20</td><td>8.56</td><td>0</td><td>6.26 0</td><td>9.91</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>S8</td><td>0</td><td>0</td><td>5.67</td><td>0</td><td>9.00</td><td>0</td><td>12.37 0</td><td>11.57</td><td>0</td><td>7.21</td><td>2.68</td><td>9.44</td><td>14.84</td><td>5.35</td></tr><tr><td>S9</td><td>0</td><td>8.12</td><td>0</td><td>13.92</td><td>7.40</td><td>12.62</td><td>5.62</td><td>8.93 0</td><td>20.45</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>S10</td><td>17.13</td><td>33.93</td><td>0</td><td>19.73</td><td>0</td><td>19.07</td><td>16.23</td><td>17.00 0</td><td>20.96</td><td>5.99</td><td>13.30</td><td>6.99</td><td>0</td><td>16.43</td></tr><tr><td>S11</td><td>0</td><td>0</td><td>0</td><td>19.74</td><td>0</td><td>0</td><td>0</td><td>4.43 0</td><td>0</td><td>3.35</td><td>7.10</td><td>4.42</td><td>7.02</td><td>6.67</td></tr><tr><td>S12</td><td>0</td><td>0</td><td>0</td><td>8.01</td><td>0</td><td>0</td><td>0</td><td>9.23 0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>S13</td><td>0</td><td>22.61</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0 0</td><td>8.13</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>S14</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>6.00 0</td><td>0</td><td>17.64</td><td>12.41</td><td>19.65</td><td>16.73</td><td>11.13</td></tr><tr><td>S15</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0 0</td><td>0</td><td>16.46</td><td>14.49</td><td>13.26</td><td>11.75</td><td>10.97</td></tr><tr><td>S16</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0 0</td><td>0</td><td>0</td><td>11.11</td><td>13.75</td><td>10.82</td><td>14.47</td><td>12.05</td></tr><tr><td>S17</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0 0</td><td>0</td><td>9.76</td><td>10.78</td><td>13.27</td><td>7.23</td><td>12.33</td></tr><tr><td>S18</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0 0</td><td>0</td><td>0</td><td>4.74</td><td>5.79</td><td>2.14</td><td>5.87</td><td>9.25</td></tr><tr><td>S19</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0 0</td><td>0</td><td>0</td><td>3.76</td><td>2.96</td><td>3.53</td><td>3.35</td><td>1.94</td></tr><tr><td>S20</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0 0</td><td>0</td><td>1.96</td><td>1.02</td><td>2.75</td><td>2.27</td><td>3.83</td></tr><tr><td>S21</td><td>12.10</td><td>0</td><td>13.75</td><td>0</td><td>10.50</td><td>0</td><td>10.36 0</td><td>14.31</td><td>0</td><td>0.94</td><td>2.01</td><td>0.92</td><td>3.59</td><td>1.36</td></tr><tr><td>S22</td><td>7.99</td><td>0</td><td>8.31</td><td>0</td><td>10.00</td><td>0</td><td>5.21</td><td>0</td><td>6.97 0</td><td>0</td><td>0.99</td><td>1.16</td><td>0</td><td>0</td></tr><tr><td>S23</td><td>0</td><td>0</td><td>0</td><td>0</td><td>5.43</td><td>0</td><td>4.78</td><td>0 0</td><td>0</td><td>1.91</td><td>0</td><td>0</td><td>0</td><td>0</td></tr></table></body></html>
+
+S1;无芒雀麦ros eis；狗尾草etarids；SrtemisigiS麦草ElrgeS花苜MedicgstS英c mongolcum;S早S草g trgusmoss rtemisief Amorpha fruticosa;S23：小叶锦鸡儿Caragana microphylla
+
+表2人工恢复及自然坡面植物群落物种重要值  
+表3人工坡面与自然坡面植物群落相似性系数  
+Table 3The similarity index of the artifical and natural slopes‘vegetation community   
+
+<html><body><table><tr><td colspan="2">植物恢复技术及坡向</td><td colspan="2">I</td><td colspan="2">Ⅱ</td><td colspan="2">Ⅲ</td></tr><tr><td colspan="2">Restoration technics and slope exposure</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td></tr><tr><td>I</td><td>A</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>B</td><td>0.4375</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ⅱ</td><td>A</td><td>0.9231</td><td>一</td><td>一</td><td></td><td></td><td></td></tr><tr><td></td><td>B</td><td>1</td><td>0.8333</td><td>0.4112</td><td>一</td><td></td><td></td></tr><tr><td>Ⅲ</td><td>A</td><td>0.3810</td><td>1</td><td>0.4000</td><td>1</td><td></td><td></td></tr><tr><td></td><td>B</td><td></td><td>0.2000</td><td></td><td>0.2381</td><td>0.8750</td><td></td></tr></table></body></html>
+
+# 3.2群落多样性指数与土壤RDA分析
+
+人工坡面丰富度方面,各标地阴坡丰富度全部低于阳坡,8A、3A、7A、3B、2A、6A较为接近,2B、7B、8B、6B较为接近。其中3A与3B丰富度差异不大,其余标地阴坡、阳坡差异明显。S-W 多样性指数方面,除3B 大于
+
+3A外,其余标地阳坡均大于阴坡,并且差异较大。 $7 \mathrm { A } , 3 \mathrm { B } , 8 \mathrm { A } , 3 \mathrm { A } , 6 \mathrm { A } , 2 \mathrm { A }$ 较为接近,7B、2B、8B、6B 差异不大。均匀度方面,除6B均匀度较大外，其余标地差异不明显。通过与自然坡面3种指数的比较可知，人工坡面丰富度指数、S-W多样性指数均低于自然坡面,但均匀度指数高于自然坡面。
+
+人工恢复坡面土壤全氮含量 $8 \mathrm { A } > 3 \mathrm { A } > 7 \mathrm { A } > 3 \mathrm { B } > 2 \mathrm { A } > 6 \mathrm { A } > 2 \mathrm { B } > 7 \mathrm { B } > 8 \mathrm { B } > 6 \mathrm { B }$ ,土壤缓效钾含量 $7 \mathrm { A } { > } 2 \mathrm { A } { > } 8 \mathrm { A } { > } 8 \mathrm { B } { > }$ $3 \mathrm { B } > 7 \mathrm { B } > 2 \mathrm { B } > 6 \mathrm { A } > 3 \mathrm { A } > 6 \mathrm { B }$ ,土壤有机质含量 $3 \mathrm { A } > 3 \mathrm { B } > 7 \mathrm { A } > 6 \mathrm { A } > 8 \mathrm { A } > 2 \mathrm { A } > 2 \mathrm { B } > 2 \mathrm { B } > 7 \mathrm { B } > 6 \mathrm { B }$ ,土壤速效钾 $2 \mathrm { A } { > } 2 \mathrm { B } { > } 6 \mathrm { A } { > }$ $8 \mathrm { A } > 3 \mathrm { A } > 8 \mathrm { B } > 7 \mathrm { B } > 7 \mathrm { A } > 6 \mathrm { B } > 3 \mathrm { B }$ ,各标地阴坡四者含量全部低于阳坡。土壤速效磷 $6 \mathrm { B } > 2 \mathrm { B } > 8 \mathrm { B } > 7 \mathrm { B } > 6 \mathrm { A } > 3 \mathrm { B } > 3 \mathrm { A } >$ $2 \mathrm { A } { > } 8 \mathrm { A } { > } 7 \mathrm { A }$ ,各标地阴坡速效磷含量均高于阳坡。而土壤 $\mathrm { \ p H }$ 值方面,阴坡、阳坡差异不明显。土壤水分含量方面,各个标地的阴坡土壤水分含量均高于阳坡。自然坡面全氮含量 $2 \mathrm { Z } { > } 4 \mathrm { Z } { > } 1 \mathrm { Z } { > } 5 \mathrm { Z } { > } 3 \mathrm { Z }$ ,缓效钾含量 $3 Z > 2 Z$ $> 1 \mathsf { Z } > 5 \mathsf { Z } > 4 \mathsf { Z }$ ,有机质含量 $2 \mathrm { Z } { > } 4 \mathrm { Z } { > } 1 \mathrm { Z } { > } 3 \mathrm { Z } { > } 4 \mathrm { Z }$ ,速效钾含量 $2 \mathrm { Z } { > } 5 \mathrm { Z } { > } 3 \mathrm { Z } { > } 4 \mathrm { Z } { > } 1 \mathrm { Z }$ ,速效磷含量 $3 \mathrm { Z } { > } 5 \mathrm { Z } { > } 1 \mathrm { Z } { > } 4 \mathrm { Z } { > } 2 \mathrm { Z }$ ，土壤水分 $5 \mathrm { Z } { > } 2 \mathrm { Z } { > } 1 \mathrm { Z } { > } 3 \mathrm { Z } { > } 4 \mathrm { Z }$ ,土壤 $\mathrm { \ p H }$ 值 $4 \mathrm { Z } > 3 \mathrm { Z } > 2 \mathrm { Z } > 5 \mathrm { Z } > 1 \mathrm { Z }$ 。除土壤缓效钾含量阳坡 $>$ 阴坡外,其余阴坡、阳坡土壤特性无明显规律。自然坡面土壤全氮、有机质、缓效钾含量均高于人工生态恢复坡面,土壤速效磷含量低于人工生态恢复坡面。
+
+为了量化环境因子对植物群落发展的影响，本文对群落多样性指数和环境因子进行相关性分析。结合图2与表4可看出，植物群落丰富度与土壤全氮、有机质、缓效钾呈极显著正相关，相关系数分别为0.981、0.933和0.827；与土壤含水量呈正相关(0.210)；与土壤速效磷含量呈极显著负相关,相关系数为-0.942;与土壤pH值、速效钾呈负相关，相关系数分别为-0.312和$- 0 . 2 7 9$ 。同样，S-W多样性指数与全氮、缓效钾、有机质呈极显著正相关，相关系数分别为0.800、0.713和0.787;与含水量呈正相关(0.084)；与速效磷呈极显著负相关,相关系数为-0.903；与 $\mathrm { \ p H }$ 值、速效钾呈负相关，相关系数为-0.113和-0.448。均匀度指数方面，全氮、缓效钾、有机质均与其呈负相关，相关系数为$- 0 . 7 0 4 , - 0 . 5 8 3 , - 0 . 7 7 0$ ；与土壤含水量呈负相关$( - 0 . 3 1 2 )$ ；与 $\mathrm { \ p H }$ 值、速效钾速效磷呈正相关，相关系数为0.269、0.231和0.418。
+
+![](images/8ea0ddbc3dd0713dbe2d52861119d45f4978fd3456c9637d52abfebb23e33cb2.jpg)  
+图2土壤与植物群落RDA分析  
+Fig.2RDA ordination of soil and plants
+
+TN：全氮；SOM：土壤有机质：SK：缓效钾； $\mathrm { \ p H }$ ：土壤酸碱度；AP：速效磷；AK：速效钾：SWC：土壤含水量；R：丰富度指数;H：S-W多样性指数;E：均匀度指数
+
+表4土壤特性与植物多样性之间的相关性系数  
+Table 4Correlation index of soil characteristics and plant diversity   
+
+<html><body><table><tr><td>土壤养分指标 Soil characteristics</td><td>pH</td><td>速效钾 Exchangeable potassiumRaK</td><td>全氮 Total nitrogen</td><td>速效磷 Available phosphorous</td><td>缓效钾 Slowly available potassium</td><td>有机质 Organic matter</td><td>含水量 Soil moisture</td></tr><tr><td>丰富度指数 Richness index</td><td>-0.312</td><td>-0.279</td><td>0.981**</td><td>-0.942 **</td><td>0.827**</td><td>0.933 **</td><td>0.210</td></tr><tr><td>多样性指数 Shannon-Weiner index</td><td>-0.113</td><td>-0.448</td><td>0.800 **</td><td>-0.903 **</td><td>0.713**</td><td>0.787 **</td><td>0.084</td></tr><tr><td>均匀度指数 Evenness index</td><td>0.269</td><td>0.231</td><td>-0.704 *</td><td>0.418</td><td>-0.583 *</td><td>-0.770 *</td><td>-0.312</td></tr></table></body></html>
+
+\*在0.05水平(双侧)上显著相关； $* *$ 在0.01水平(双侧)上显著相关
+
+# 4讨论与结论
+
+1)研究表明,虽然总体上两种技术的恢复效果较为接近,但植生混凝土喷附坡面更接近自然水平。另外,这两种技术恢复效果的主要差异存在于各自的阴坡和阳坡。根据坡面植物群落组成(图1)和群落相似性系数(表3)可知,两种技术的阳坡植物群落组成极为相似,阴坡同样极为相似。植生混凝土喷附坡面植物群落与自然坡面植物群落相似度较厚质基层喷附坡面更高。此外,根据施工时所喷播的物种组成和表2可知，经过4—5a的恢复，自然坡面16种植物中的5种已经成功入侵阳坡,4种成功入侵阴坡。但野火球、贝加尔针叶茅、裂叶蒿等自然坡面优势物种还未成功入侵人工恢复坡面。人工恢复边坡植物群落水平分布均匀,垂直结构方面阳坡已出现灌木层,阴坡还未出现。根据植物群落相似性系数(表3)可知,两种技术的阳坡植物群落与自然植物群落相似程度较各自的阴坡高。这说明阳坡植物群落更接近自然水平。
+
+2)根据植物群落与土壤RDA分析结果中可知，土壤全氮和有机质含量的适当增长可以促进植物群落发展,而土壤速效磷含量的增长会抑制其发展。土壤氮含量对植物生长发育有重要作用,它可促进植物叶片面积的增长,从而增加光合作用。土壤有机质在矿质化过程中释放大量营养元素为植物生长提供养分,而有机质的腐殖化过程合成腐殖质，保存了养分,腐殖质又经矿质化过程再度释放养分，从而保证植物生长全过程的养分要求。同时,研究表明人工坡面土壤速效磷含量过高对植物群落的发展起到了抑制作用。磷参与植物体内光合作用、呼吸作用等过程,可促进植物早期根系的形成和生长,提高植物适应外界恶劣环境条件的能力，有助于提高植物的抗寒性。所以,在该地区人们为使先锋植被迅速占据坡面、根系快速生长并且顺利过冬,磷元素被过量加入到客土中,导致人工恢复坡面磷含量远超自然水平,这在一定程度上抑制了植物群落的发展。另外,结合图1和图2可知,羊草为自然坡面优势种,其存在于土壤全氮和有机质含量较高的地方,所以它在人工恢复坡面上数量的急剧减少可能是由于人工坡面土壤全氮和有机质含量不足而土壤速效磷含量过高的原因。此外,人工恢复阴坡灌木的退化也是由于同样的原因。所以,在后期养护过程中可适当增加氮和有机质的含量，减少土壤磷元素的施加，从而确保植物群落的顺利发展。
+
+3)生态恢复工作早期如果采用先锋物种、演替中期物种与顶级物种搭配种植的方法可以缩短演替时间，提高植物群落稳定性,使人工植物群落尽快达到自然水平。根据图1、表1和植物群落的相似性,对比阳坡、阴坡以及自然坡面的群落物种组成和各个物种的重要程度,本文认为较为合理的物种搭配为艾蒿、柳蒿、羊草、贝加尔针茅、兴安胡枝子、紫穗槐以及兴安柳。
+
+致谢：感谢路域生态公司以及阿荣旗在数据采集方面给予的支持。
+
+# 参考文献（References）：
+
+［1］徐琛.高速公路建设与城镇化发展研究[D].合肥：安徽农业大学，2013.  
+［2」李运生，石亮.我国高速公路边坡植被防护技术初探.防护林科技，2011，（1)：105-107，114-114.  
+［3］孙华，赵雪峰，何茂萍.西南地区几种典型边坡植被的护坡效益分析.水土保持研究，2015，22（4)：6-11.  
+［4］赵晶.陕南高速公路边坡人工植被恢复初期土壤及群落特征变化研究[D].西安：西北农林科技大学，2012.  
+[5]HurshRCiaticFactorsControlingoasdeDsigndevelopent.HgaResearchoardoasideDeveontComiprts，1949: 9- 19.  
+［6］仓田益二郎.绿化工程技术.顾宝衡，译.成都：四川科学技术出版社，1989：25-28.  
+［7］潘树林，辜彬，李家祥.岩质公路边坡生态恢复土壤特性与植物多样性.生态学报，2012，32（20)：6404-6411.  
+[8] 何建军.岩质边坡生态防护技术研究[D].长沙：中南大学，2005.  
+[9] 芦建国，于冬梅.高速公路边坡生态防护研究综述.中外公路，2008，28(5)：29-32.  
+[10] 赵春权.喷混植生技术在高速公路岩石边坡防护中的应用.北方交通，2013，（1)：27-29.  
+[11］李绍才，孙海龙，杨志荣，何磊，崔保山.秸秆纤维、聚丙烯酰胺及高吸水树脂在岩石边坡植被护坡中的效应.岩石力学与工程学报，2006，25(2):257-267.  
+[12］刘春霞，韩烈保.高速公路边坡植被恢复研究进展.生态学报，2007，27（5）：2090-2098.  
+［13］吴征镒.中国植被.北京：科学出版社，1980：760-764.  
+[14］邹蜜，罗庆华，辜彬，窦亮，潘树林.生境因子对岩质边坡生态恢复过程中植被多样性的影响.生态学杂志，2013，32（1)：7-14.
+
+http://www.ecologica.cn
+
+[15］王娟，孙爱平，王开营，沈永平，张延成，王锦贵.土壤样品采集的原则与方法.现代农业科技，2011，（21）：300-301.  
+[16] 鲍士旦.土壤农化分析(第三版).北京：中国农业出版社，2000：25-109.  
+[17］方文，潘声旺，何平，刘杨，马立辉,李军，孙益.先锋种丰富度对边坡植被群落特征及其护坡效益的影响.生态学报，2015，35（11)：3653-3662.  
+[18]ZhilaH,aodHozahodiversityndoassofaturalandgaddagoeforestofsularasiaitaEarth Sciences，2014，71(11）：4629-4635  
+[19]DelVeiiLufGesposeofplatoititlisioviecfrdieiand Conservation，2015，24(2）:371-392.  
+[20]TomistefngeasuingdiigseidiesiteviSdEcloiaiversimstedsevc,2013:434-446.  
+[21]BurtJWevelostoatioplatigiesfocties：ulieeeoitavioealat,2012,49(3):636-648.  
+[22］金慧，赵莹，赵伟，尹航，秦立武，崔凯峰，李晓杰，黄祥童.长白山牛皮杜鹃群落物种多样性的海拔梯度变化及相似性.生态学报，2015，35(1)：125-133.

@@ -1,0 +1,134 @@
+# BIM与3DGIS技术在桥梁工程中的应用方法研究与设计
+
+卢玉韬 韩春华 闫智（昆明理工大学交通工程学院，昆明650500）
+
+【摘要】随着BIM技术在我国工程建设行业的不断深入应用和发展，政府与企业也逐渐认识到 BIM技术的重要性及其价值所在,各地BIM技术应用标准指南相继出炉。BIM是贯穿于工程建设全生命周期的技术,与此同时，针对诸如桥梁、隧道以及公路工程这样与地形及周边环境联系极为紧密的基础工程建设，3DGIS技术可以更好地对其进行呈现与应用，二者的结合势在必行。本文从 $\mathrm { B I M } + 3 \mathrm { D G I S }$ 技术的角度出发，结合工程实际应用经验，探索了两者在桥梁工程中的应用方法，为今后 $\mathrm { B I M } + 3 \mathrm { D G I S }$ 技术的发展提供参考和依据。
+
+【关键词】BIM；3DGIS；桥梁工程【中图分类号】TU17；TU198；U44 【文献标识码】A【DOI】10.16670/j.cnki.cn11 -5823/tu.2017.04.15【文章编号】1674-7461(2017)04-0082-05
+
+2随着越来越多的 BIM技术应用在桥梁隧道等基础设施建设的过程当中，更多的研究人员将目光聚集到建筑信息模型（BIM）与地理信息系统（GIS）的集成应用上面。GIS 技术刚好可以弥补传统BIM软件在大范围环境下的基础设施建设当中所出现的不足。三维GIS(3DGIS)技术是GIS 发展的趋势，因其除了表达二维信息之外还可以描述三维空间立体的信息内容。BIM模型具有丰富的几何语义信息，表达模型更准确，对模型的可视化效果更逼真，而3DGIS技术具有强大的数据管理，以及对周边地形地物及自然环境进行良好的可视化和分析能力。两者的结合能够使得BIM模型与地理环境的空间结构关系得到更好的展示，满足从微观到宏观的多尺度数据信息的管理存储和分析展示。要实现BIM与3DGIS技术的结合，除了要解决两种模型数据标准的转换问题，还要实现各种数据间的集成与分析。针对上述问题，本文结合Bentley系列软件与三维GIS平台Skyline实现了这一目的,并开发出基于
+
+C/S 架构下的基于BIM的桥梁三维模型信息查询及可视化系统。
+
+# 1BIM技术在桥梁工程中的应用
+
+建筑信息模型与全生命周期管理的理念在桥梁工程当中具有十分重要的实际意义。无论是从桥梁的规划、设计、施工还是在后期的运维、检测、保养阶段，BIM技术的渗透使得“精益化”制造这一目的得以实现，也使得信息化的要求在桥梁工程建设当中飞速发展。目前主流的应用在桥梁工程当中的BIM 软件包括 Bentley 厂商的 MicroStation、PowerCivil、Bridge Master Modeler,Autodesk 系列的Revit、AutodeskCivil3D、Naviswork以及达索旗卜的Catia软件等。不同软件的优势与其操作绘图习惯各有不同，本文在综合考虑各方面因素后采用Bent-ley的桥梁系列软件完成BIM模型的创建以及其它相应功能的实现。
+
+Bentley土木桥梁系列软件提供了一整套项目解决的实施方案并配有对应的软件使用，如图1所示。在工程勘察阶段、设计阶段、施工阶段与运营阶段都有对应的BIM数据与信息传递，数据与信息的主要载体就是模型，依据这些数据可以进行分析和使用。借助Bentley平台下的OpenbridgeModel-er、BridgeMaster以及RMBridge和LeapBridge等软件，通过其软件具有的的模板化、标准化等功能，使其在桥梁建模的参数化、智能操作、关联性上都有很好的表现。在其对应的集成平台上同时可以实现桥梁受力分析，快速出图，动态更新，施工模拟，数量和费用预估，碰撞检测，碰撞解决等功能。
+
+![](images/5175e4f5c689fd92453348c808f12102e4fd815c96159588f4a014dbded0977d.jpg)  
+图1Bentley桥梁系列软件应用流程
+
+# 2.3DGIS技术的发展
+
+地理信息系统（GIS）是一门综合性的学科，包括地图学、测绘学、计算机科学等学科知识。其中三维GIS是GIS的一大发展趋势，解决了传统GIS二维及2.5维的几何信息表示不全面的缺陷，实现了大场景的空间模型数据组织与管理。三维GIS基于多数据源，使得虚拟场景更加易于利用，可以远程访问虚拟景观，即使没有地图知识的操作人员也可以直接参与到项目中来。对于桥梁工程所具有的线状、工程复杂多样、跨度大的特点，将3DGIS 技术引入，刚好可以弥补BIM难以大尺度表达和统一管理的缺陷。
+
+Skyline作为一款优秀的三维地理信息系统平台，可以将空间数据进行整合展示，并可以进行诸如数据管理，空间量测，全线浏览，光照模拟，属性查询等多种功能。Skyline共分为三个子系统，分别是Terra Builder、Terra ExplorerPro 与 Terra Gate 和CityBuilder，三个系统分别具有不同功能，将所有数据源进行集成或者打包输出。
+
+# 3数据获取
+
+对于一个桥梁三维数据场景而言，其数据来源是较为丰富的。包括从Bentley桥梁系列软件创建的桥梁BIM模型，模型的纹理贴图数据。同时包括数字高程模型数据（DEM)与遥感影像（DEM），以及各类矢量数据和属性数据。下面对每种数据的获取与组织进行一一介绍。
+
+# 3.1BIM模型与纹理贴图数据
+
+通过Bentley的桥梁建模软件Powercivil、BridgeMasterModeler与Open BridgeModeler进行桥梁上部结构与下部结构的分别绘制。下部结构的盖梁、支座垫石及挡块、墩柱、基础与桩基等构件可以通过参数化进行快速绘制，上部结构通过绘制模版文件或者按公式进行扫略得到，部分简单常规桥梁可以通过Open Bridge Modeler 直接参数化绘制。Bentley平台的软件统一格式为.DGN文件，为方便后期纹理数据贴图与Skyline平台结合可以将其导出为.3dsmax文件进行处理
+
+纹理贴图数据的获取采用现场拍照信息采集，后期PhotoShop软件处理的方式，快速高效获得逼真纹理贴图。将模型与纹理数据在3DMAX软件中进行组合，得到真实效果感极强的桥梁三维模型。如图2所示。
+
+![](images/0532962d75e3ecbce0d4def94f858a9f64149d6192b32246e9c75526bb9c5513.jpg)  
+图2桥梁模型纹理与其它贴图数据
+
+# 3.2 DOM与DEM数据
+
+DEM数据是数字模型，它是三维地理信息平台的基础数据，实际上是用DEM数据表示地形的高低起伏形态。
+
+DEM数据的获取主要有以下几种方式：
+
+# (1)实地测量法
+
+该方法成本较低，速度较慢，但是目前比较常用的获取方法；(2)通过无人机航拍获取该方法速度快，分辨率与精度也都较高，但需
+
+后期加工处理且需要航拍设备的支持;
+
+(3)通过免费公开的DEM数据软件获取；
+
+(4)通过当地勘测设计部门获取。
+
+DOM数字正射影像数据可以较为真实地展现地面的形态和植被等地物环境，相当于三维地形的纹理数据。精度越高的DOM数据效果越好，相应的成本也会越高。一般情况下数字正射影像数据可以通过Google卫星地图等软件获取,精度可达到$\mathrm { 1 m }$ 。通过Arcgis软件可以对DOM数据进行剪裁处理，并导出为Skyline平台可以利用的.tif格式。
+
+![](images/b8343153e66fd2b795a59a029b01d708723e50c040ca36a4031543dcd2a89b1b.jpg)  
+图3数字正射影像
+
+# 3.3矢量数据与属性数据
+
+2矢量数据（.shp）也是三维GIS的重要数据来源,针对桥梁工程而言，主要包括桥梁的线路以及跨径线等二维平面矢量数据，可以通过不同的路线走向比较直观的查看线路方案的比选以及所经过区域的周边地理环境。属性数据主要包括从BIM软件中提取的桥梁各部分结构构件的几何尺寸、工程量,和施工过程中的施工单位、项目负责人、施工完成时间以及标定行政区划名称，以及收费站、服务区、停车区、桥梁、隧道、立交、路段起止点、里程桩号等。
+
+# 4数据处理与数据集成
+
+# 4.1 数据处理
+
+BIM模型及纹理数据可以通过3DMAX软件进行模型的逐个导出，导出为可以与Skyline 相结合的\*.X格式,TerraExplorerPro中加载。或者可以将导出的\*.X模型文件用pro 自带的 MAKEXPL工具把模型批量打包导出为\*.xpl2 格式。通过这一过程可以实现模型的轻量化，但模型导出时一定要将模型归零到3DMAX中坐标原点附近，并在后期导入TerraExplorerPro 时采用统一的WGS-84坐标系统。
+
+每个模型具有唯一的ID信息，此ID将作为后期查询以及与属性信息绑定的检索信息，
+
+Skyline平台的三维地形数据格式为.MPT文件。用于展现宏观的地形地貌信息。MPT文件的制作需要用到前期制作好的数字高程影像数据和数字正射影像数据，在TerraBuilder软件中创建新工程后依次叠加不同精度的两种数据文件，然后创建金字塔，生成MPT文件，这将是后期三维环境的基础数据。如图4所示。
+
+![](images/cd7473153c2db85f03d299b4dc33f711c08951460b7a3a335d4d621e10f9c0e0.jpg)  
+图4MPT文件制作
+
+矢量数据与属性数据往往都是以表格形式存储的，将属性信息包括模型的坐标，几何尺寸，工程量通过表格或者数据库的方式与模型ID绑定，即将这些属性信息赋予给模型。
+
+# 4.2 数据集成
+
+数据源主要包括三个方面，分别是由3DMAX导出的\*.X与\*.xml2 模型文件,由 Terra Builder 制作的三维地形MPT文件，以及矢量数据与属性信息数据。在所有数据准备好之后，首先将三维地形MPT文件加载到TerraExplorerPro，然后将\*.X与\*.xml2 模型文件也加载到Terra Explorer Pro 中,并创建相应的图层。在数据导入时要选择统一的坐标系统，进行一定的坐标转换工作，保证模型位置的准确。在TerraExplorerPro中会自动生成项目的三维信息树窗口，也可以在此基础上创建个人的兴趣点，以及不同的观察视角和各式各样的地理标注，包括工程项目名称，标段，里程桩号等。如图5所示。
+
+![](images/d59aa3c92ce5b629e9a785fcb41f23cbc93d836f7bce47d67bc5c2736c7f6b7f.jpg)  
+图5数据集成流程
+
+在此基础上，将所有数据叠加处理好后，可以在TerraExplorerPro 中导出格式为.fly格式文件。fly 是Pro软件的的特有格式,是三维场景数据的打包导出格式。如图6所示。
+
+![](images/e0cf436d8a28dffb3483aebf5dcec92a415cc3613c20148f3be7c628604ad0a5.jpg)  
+图6Terra Explorer Pro 效果
+
+# 5系统开发及系统功能
+
+基于BIM的桥梁三维模型信息查询及可视化系统的开发主要是基于Skyline平台下的TerraEx-plorerPro 进行二次开发。TerraExplorerPro 提供了一整套API供二次开发使用，也可以通过拖拽例如TE3DWindow、TEInformationWindow 等ActiveX控件的方式来简单的创建基本可视化界面。其中用户接口API是对标准API的扩充，调用这些API可以使用大多数基本的工具和函数。如：对象的创建、信息树的管理、事件处理、查询地形高度信息、获取快照等诸多功能。
+
+本系统的开发采用C#语言和MicrosoftVisualStudio2010软件，通过.NETFramework4.0环境框架下Winform创建的窗体来构建应用程序，考虑到三维桥梁模型信息查询及可视化系统数据量大的特点，使用C/S结构可以取消网络响应的中间环节，加快图形的浏览响应速度。
+
+部分核心代码：
+
+//打开一个fly文件并将信息树和界面加载到   
+控件窗口中 publicForm1() { SGWorld66 K ; InitializeComponent(）; { InitializeComponent(）；//初始化窗 $\mathbf { K } =$ new SGWorld66(）；//实例化 K.Project. Open( $@$ “C :\Users \acer\Desktop \1.   
+FLY"）；//打开目标文件 K. OnLoadFinished + =K_OnLoadFinished ; } }
+
+Private void axTE3DWindow1_OnKeyboardMessage (objectsender, AxTerraExplorerX. ITE3DWindowEvents_OnKeyboardMessageEvent e)
+
+Private void axTEInformationWindow1_Enter（object sender,EventArgs e)
+
+环境的搭建需要skyline的com 组件和DLL（TerraExplorerX.dll），最后拖放三维控件。TerraExplorerPro开放的主要接口包括ISGWorld66接口、ICreator66接口、IAnalysis66接口等，通过调用它们的属性和方法实现所需功能。系统主要实现桥梁三维模型的可视化展示和查询功能，可视化展示包括交互式浏览的模型导航、定位以及光照模拟等功能，查询功能则实现桥梁构件属性信息的查询。如图7所示。
+
+# 6 总结与展望
+
+本文结合BIM与3DGIS技术，利用Bentley 桥梁系列软件和Skyline三维GIS平台研究了二者结合的具体方法，并在此基础上进一步开发了基于客户端/服务器架构的三维桥梁模型GIS信息系统，实现了 $\mathrm { B I M } + \mathrm { G I S }$ 技术在桥梁工程上的利用,对桥梁BIM的发展提供参考和借鉴。由于BIM模型的通用标准IFC与GIS数据的通用标准CityGML转换上还存在一定问题，所以二者在数据转换上还不是很方便，或者在转换过程中出现一些属性等信息的丢失情况，所以这一问题将是接下来要重点解决的问题，相信在不久的将来，BIM与GIS技术的结合将更加紧密,出现越来越多更加实用的应用。
+
+![](images/66d7a0a25e27a695521c3378d232ac6aa317efd13a5f07ae17bd09fe2b8eb3b8.jpg)  
+图7 系统主界面
+
+# 参考文献
+
+汤圣君，朱庆，赵君峤.BIM与GIS数据集成：IFC与CityGML建筑几何语义信息互操作技术[J].土木建筑工程信息技术，2014，6(4)：11-17.
+
+［2］于国，张宗才.结合BIM与GIS的工程项目场景可视化与信息管理［J].施工技术，2016，12（45）：561-565.  
+［3］宋学峰．以GIS和BIM深度集成应用技术为核心的城市地下管网信息管理模式探讨[J].土木建筑工程信息技术，2016，8(4)：80-84.  
+［4］钱意.BIM与GIS的有效结合在轨交全寿命周期中的应用探讨[J].地下工程与隧道，2013，（3)：40-42,65.
+
+# Research and Design of BIM and 3DGIS Technology Application in Bridge Engineering
+
+Lu Yutao,Han Chunhua,Yan Zhi
+
+Faculty of Transportation Enginering， Kunming University of Scienceand Technology，Kunming 6505Oo，China）
+
+Abstract：With the development of BIM application in domestic engineering construction industry in China, thegovernments and enterprises gradualy realize the importance and value of BIM technology. Codes and/or guidelines for BIMapplications have been published in various places.BIM technology runs through the whole life cycle of engineering construction，while the 3DGIS technology performs wellin presentation application for the infrastructure construction closelyrelated with the surounding terrain and environment，such as bridge，tunnels and highway engineering.Thecombination of two technologies is imperative.This paper considering practical application experience in engineering explores the application of the $\mathrm { B I M } + 3$ DGIS technology in bridge engineering，and provides reference for the future development of $\mathrm { B I M } + 3 \mathrm { D G I S }$ technology.
+
+Key Words:BIM；3DGIS；Bridge Engineering

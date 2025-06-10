@@ -1,0 +1,322 @@
+[
+    {
+        "type": "text",
+        "text": "Tal1促进急性T淋巴白血病Jurkat细胞的增殖 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王 毅,舒 逸,苑俊涛,陈 卉,邹 琳  \n重庆医科大学附属儿童医院临床分子医学中心/儿童发育疾病研究教育部重点实验室//儿科学重庆市重点实  \n验室//重庆市儿童发育重大疾病诊治与预防国际科技合作基地，重庆 400014",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的探讨Tal1对T-ALL细胞增殖及其机制的影响。方法用Tal1慢病毒感染T-ALL细胞株Jurkat,建立稳定的Tal1敲降细胞株(Jurkat-siTal1)和Tal1过表达细胞株(Jurkat-T1),及siRNA阴性对照细胞(Jurkat-mock1)和过表达阴性对照细胞(Jurkat-mock2）。CCK-8检测细胞生长能力;流式细胞术检测细胞周期;Real-timeRT-PCR和Westermblot检测周期蛋白依赖性激酶抑制因子2（CDKN2A）、周期蛋白依赖性激酶抑制因子1（CDKN2B)mRNA和蛋白表达。结果成功建立Jurkat稳定转染细胞株。CCK8结果表明细胞Jurkat-T1与Jurkat-mock2相比,细胞生长更快,而Jurkat-siTal1与Jurkat-mock1相比,细胞生长明显减缓。流式细胞术检测细胞周期发现，Jurkat-siTal1与Jurkat-mock1相比 $\\mathrm { G } _ { 0 } / \\mathrm { G } _ { 1 }$ 期增加，S期减少;而Jurkat-T1与Jurkat-mock2相比， $\\mathbf { G } _ { 0 } / \\mathbf { G } _ { 1 }$ 期减少,S期增加。Real-timeRT-PCR和Westerm blot结果显示Tal1抑制Jurkat细胞内CDKN2A、CDKN2B的mRNA和蛋白表达。结论Tal1可以促进T淋巴白血病细胞Jurkat增殖;促进Jurkat细胞由G0/G1期向S期转换，其可能通过Tal1抑制$\\mathbf { G } _ { 0 } / \\mathbf { G } _ { 1 }$ 和S期负调控蛋白CDKN2A、CDKN2B的表达。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：Tal1；Jurkat;细胞周期；CDKN2A;CDKN2B ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tall promotes proliferation of acute lymphoblastic leukemia Jurkat cells in vitro ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Yi,SHU Yi,YUAN Juntao,CHENHui,ZOU Lin   \nCenterforClinicalMolecularMedicineChildren'sHospitalofhongqingMedicalUniersityMinistryofEducationKeyLabatoryf ChildDevelopmentandDisoders/KeyLaboratoryofPediatricsinChongqing/ChongingInterationalScienceandTchnologyCoopeation Center for Child Development and Disorders,Chongqing 40o014, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective To investigate the role of Tall gene,which is aberrantly expressed in $4 0 \\% 6 0 \\%$ of patients with T lymphocyticlukemia (T-ALL),inthe proliferationofT-ALLcels.Methods We established stableJurkat-siTal1andJurkat-1 cellines bytasnfectingT-ALLJurkatcellswithleniviralvectorstoknoc-downoroverexpressTal1.Jurkatcellstrasfcted with negative control siRNAs forTallknock-down (Jurkat-mockl)and over-expresion(Jurkat-mock2)served as the control cell.The proliferationof tecellslines wasassssedusingCCK-8assayand thecellcycledistributionwasdeterinedby flowcytometry.The mRNA and protein expresions of cyclin-dependent kinase inhibitor 2(CDKN2A)and cyclin-dependent kinase inhibitor1(CDKN2B)were measured by real-timeRT-PCRand Western bloting,respectively. Results Jurkat-T1cels showed more active proliferation in vitro than Jurkat-mock2 cels, while Jurkat-siTallcellsshowed slower growth than Jurkat-mock1 cells. In Jurkat-T1 cells, $\\mathrm { \\Delta G _ { 0 } / G _ { 1 } }$ phase cells were decreased and S phase cells increased compared with Jurkat-mock2 cells,and Jurkat-siTal1 cells showed increased $\\mathrm { { \\cal G } } _ { 0 } / \\mathrm { { \\cal G } } _ { 1 }$ phase cells and decreased S phase cells compared with Jurkat-mock1cels.Real-timeRT-PCRand Westernblottingshowed thatTallinhibited thecellular expressionofCDKN2Aand CDKN2B at both mRNA and protein levels. Conclusion Tall promotes the growth and the transition from $\\mathrm { \\overline { { G } } _ { 0 } / \\overline { { G } } _ { 1 } }$ phase to S phase in T-ALL cells Jurkat by inhibiting the expressions of $\\mathrm { { \\cal G } _ { 0 } / { \\cal G } _ { 1 } }$ and S phase negative regulatory proteins CDKN2A and CDKN2B. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Tal1; T lymphocytic leukemia; cell cycle; CDKN2A; CDKN2B ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "白血病是儿童最常见的恶性肿瘤，严重威胁儿童健康。其中以急性淋巴细胞白血病最为常见。近年来，随着儿童白血病机制的研究和临床诊疗的发展，儿童急性B淋巴细胞白血病(B-ALL)患者的预后显著改善，其5年无病生存率达 $90 \\%$ 。但急性T淋巴细胞白血病(T-ALL)生存率仅为 $6 0 \\% \\sim 7 5 \\%$ ,T-ALL发生发展的具体机制亟待研究[]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tal1，急性淋巴细胞白血病蛋白同系物1，是Ⅱ类碱性/螺旋-环-螺旋(bHLHII)转录因子家族的重要成员[2],是造血过程中重要的转录因子，其高表达占儿童T-ALL的 $4 0 \\% \\sim 6 0 \\% ^ { [ 3 ] }$ 。现有研究证实Tal1高表达的T-ALL恶性程度高，预后不佳,5年生存率约为 $4 0 \\% ^ { [ 3 ] }$ 。有文献报道,Tal1可以促进T-ALL细胞的增殖[45],而相关机制仍不清楚。本课题组通过建立Tal1稳定转染的Jurkat细胞株，对其机制进行初步的研究，为后续的",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "靶向治疗提供基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 材料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1主要试剂及药物",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RPMI1640培养基和胎牛血清(Gibco);CCK-8试剂（凯基）;anti-Tall抗体(Cell Signaling）和anti-GAPDH(北京中衫金桥);anti-CDKN2A抗体(武汉三鹰）;anti-CDKN2B(Santa Cruz);RIPA细胞裂解液（百泰克);TrizolRNA提取液(Takara)；逆转录提取试剂盒(Takara)；Tal1过表达、Mock和siTal1慢病毒载体为吉凯公司构建;SYBRGreenI试剂(Takara)；引物(华大基因)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 细胞培养 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人急性T淋巴细胞性白血病细胞Jurkat细胞购自美国培养物集存库(ATCC)。细胞培养于含 $10 \\%$ 胎牛血清，青霉素 $1 0 0 \\ \\mathrm { U / m L }$ 和链霉素 $1 0 0 ~ \\mathrm { \\mu g / m L }$ 的RPMI1640培养液中，细胞培养于 $3 7 \\%$ （204号 $\\mathrm { C O } _ { 2 }$ 条件中。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3Tal1稳定转染细胞株的建立",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在细胞培养对数生长期，准备96孔细胞板，3000细胞/孔；再根据Jukat的MOI值，加入 $6 \\times 1 0 ^ { 4 }$ U慢病毒载体， $1 0 0 ~ \\mu \\mathrm { L }$ Optimum培养基, $1 0 0 ~ \\mu \\mathrm { L }$ Enhancer,和 $3 7 \\ \\mathrm { { ^ { \\circ } C } }$ $5 \\%$ $\\mathrm { C O } _ { 2 }$ 孵箱 $6  { \\mathrm { h } _ { \\circ } }$ 换 $10 \\%$ 胎牛血清，青霉素 $1 0 0 ~ \\mathrm { U / m L }$ 和链霉素 $1 0 0 ~ \\mathrm { \\mu g / m L }$ 的RPMI1640培养液;8h后行镜下荧光观察GFP荧光表达的细胞比例，细胞扩大培养后，有限稀释法对荧光细胞的筛选，然后扩大培养即得稳定细胞株以备进一步验证Tal1的表达。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4CCK8检测细胞增殖 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "取对数期细胞96孔板铺板，细胞 $3 0 0 0 / 2 0 0 ~ \\mu \\mathrm { L }$ 1640完全培养基每孔，每 $2 4 \\mathrm { h }$ 加入 $1 0 ~ \\mu \\mathrm { L }$ CCK-8试剂混匀 $3 7 \\ \\%$ （204号 $\\mathrm { C O } _ { 2 }$ 孵育 $^ 3 \\mathrm { ~ h ~ }$ 后，检测 $4 5 0 \\ \\mathrm { n m }$ 吸光度$\\left( \\mathrm { D } _ { 4 5 0 } \\mathrm { n m } \\right)$ ,连续监测 $5 \\mathrm { d } _ { \\circ }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5细胞周期检测 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将待检测细胞去血清培养，同步化处理后，取 $2 { \\sim } 5 { \\times }$ $1 0 ^ { 5 }$ 细胞用PBS洗2遍，弃上清，将细胞沉淀于 $70 \\%$ 乙醇混匀固定 $^ { \\textrm { 1 h } }$ ，然后 $4 5 0 \\ g$ 离心，弃上清，PBS洗2次，每次$5 \\mathrm { m i n }$ 。避光加入碘化丙啶(PI)染液，暗室混匀静置30min，使用流式细胞仪进行检测。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.6Westernblot检测Tal1、CDKN2A、CDKN2B 的表达",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/751e809d21cadf9459ca90296408a970d696674bef490ecb2e5e95d882fea465.jpg",
+        "table_caption": [
+            "表1引物信息Tab.1 Sequences of the primers for RT-PCR"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Primer</td><td>Forward</td><td>Reversed</td></tr><tr><td>Tal1</td><td>TTCCCTATGTTCACCACCAA</td><td>AAGATACGCCGCACAACTTT</td></tr><tr><td>CDKN2A</td><td>AGGTCATGATGATGGGCAGC</td><td>CACCAGCGTGTCCAGGAAG</td></tr><tr><td>CDKN2B</td><td>GGGACTAGTGGAGAAGGTGC</td><td>CCCATCATCATGACCTGGATCG</td></tr><tr><td>GAPDH</td><td>CAGCGACACCCACTCCTCCACCTT</td><td>CATGAGGTCCACCACCCTGTTGCT</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "每 ${ 5 0 } ~ \\mu \\mathrm { L }$ 细胞沉淀加入 $2 5 0 ~ \\mu \\mathrm { L }$ RIPA裂解液，冰上裂解 $3 0 ~ \\mathrm { m i n }$ ,每间隔 $5 \\mathrm { m i n }$ 震荡混匀1次。 $4 \\mathrm { { ^ \\circ C } }$ $1 2 0 0 0 \\mathrm { r / m i n }$ 离心 $3 0 \\mathrm { m i n }$ ，保留上清。用BCA法检测蛋白浓度,加入 $5 \\times$ LoadingBuffer混匀后 $8 5 ~ \\mathrm { { ^ { \\circ } C } }$ 煮沸 $5 \\mathrm { m i n }$ 取 $2 0 ~ { \\mu \\mathrm { g } }$ 蛋白SDS-PAGE电泳,PVDF膜转膜， $5 \\%$ 脱脂奶粉室温封闭 $^ { \\textrm { 1 h } }$ ，加入一抗(Tal11:700、CDKN2A1:500、CDKN2B1:20、GAPDH $1 : 2 0 \\ 0 0 0 \\$ ）， $4 ~ \\mathrm { { ^ { \\circ } C } }$ 孵育过夜，次日加入二抗 $\\left( 1 : 5 0 0 0 \\right)$ 室温孵育1h,TBST充分洗涤后，用增强化学发光系统(ECL)检测膜上信号。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.7SYBR荧光定量PCR法检测Tal1、CDKN2A、CDKN2B基因mRNA水平",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)Trizol法提取细胞总RNA;(2)RNA逆转录为cDNA;(3)Real-timeRT-PCR:反应体系： $1 2 . 5 ~ \\mu \\mathrm { L }$ SYBRⅡ, $1 0 . 5 ~ \\mu \\mathrm { L }$ $\\mathrm { d d H } _ { 2 } 0$ ,1 μLcDNA,上下游引物(表1)各$0 . 5 ~ \\mu \\mathrm { L } _ { \\circ }$ 反应条件： $9 5 ~ \\mathrm { ^ { \\circ } C }$ 预变性 $: 5 \\ \\mathrm { m i n } ; 9 5 \\ \\mathrm { ^ { \\circ } C } \\ 2 0 \\ \\mathrm { s } , 5 8 \\ \\mathrm { ^ { \\circ } C }$ $2 0 \\mathrm { s } , 7 2 ^ { \\circ } \\mathrm { C } 3 0 \\mathrm { s }$ ，循环35次，每个循环结束检测荧光。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.8统计学处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验结果采用SPSS17.0统计软件进行分析，实验独立重复3次，所有数据统计显示方差齐，采用单因素分析，组间两两比较采用t检验， $P { < } 0 . 0 5$ 认为差异有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1Jurkat稳转细胞株的建立及Tal1的表达鉴定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Real-time RT-PCR 和Western Blot检测 Tal1在Jurkat-siTal1、Jurkat-mock1、Jurkat-T1和Jurkat-mock2中mRNA和蛋白表达水平。结果显示Jurkat-siTal1中Tal1的mRNA水平明显下降，而Jurkat-T1细胞中的Tal1mRNA水平明显升高 $\\left( P { < } 0 . 0 5 \\right)$ 。Western Blot结果与Real-timeRT-PCR结果一致( $\\scriptstyle { \\mathcal { P } } < 0 . 0 5$ ，图1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2Tal1促进Jurkat细胞生长",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用CCK-8实验连续监测5dJurkat-T1、Jurkat-mock2、Jurkat-siTal1和Jurkat-mock1组的 $\\mathbf { A } _ { 4 5 0 }$ 值，结果显示Jurkat-siTal1细胞中 $\\mathbf { A } _ { 4 5 0 }$ 值从第2\\~5天显著低于Jurkat-mock1细胞，而Jurkat-T1细胞的 $\\mathbf { A } _ { 4 5 0 }$ 值从第2\\~5天显著高于Jurkat-mock2细胞（ $\\scriptstyle \\cdot - ( - 0 . 0 5$ ，图2）。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ad9aa619965badf5310791534152ea2257f7fc0a818ebd1f61e4eeb3986f0e1e.jpg",
+        "img_caption": [
+            "图1Jurkat稳转细胞株的建立及Tal1的表达鉴定"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e303a3d1764cd5c92aaba4e7ab89c96dcb01da7de8134aa1fe6c38900d39c0bd.jpg",
+        "img_caption": [
+            "Fig.1ExpressionofTal1 inJurkatcells infectedbylentivirus vectors.A,B:Real-timeRT-PCRresults forTallmRNA expression standardized against GAPDH; C: Western blotting for Tal1 protein expresson with GAPDH as the loading control. siTall-control served as mockl and T1-control as mock2; $D$ ：Statistical analysis of the protein levels in different Jurkat cells. $^ { * } P { < } 0 . 0 5$ $^ { * * } P { \\leqslant } 0 . 0 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3Tal1促进Jurkat细胞 $\\mathbf { G } _ { 0 } / \\mathbf { G } _ { 1 }$ 期向S期转换 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用流式细胞术PI染色检测不同Jurkat稳定转染细胞株的对数生长期24h时的细胞周期，结果显示细胞周期在Jurkat-siTal1与Jurkat-mock1相比时， $\\mathrm { G _ { 0 } / G _ { 1 } }$ 期显著增多，而S期显著减少，说明Jurkat-siTal1组 $\\mathrm { { G } } _ { 0 } / \\mathrm { { G } } _ { 1 }$ 期向S期的转换明显受到阻滞，而Jurkat-T1与Jurkat-mock2细胞周期相比， $\\mathrm { { G } _ { 0 } / \\mathrm { { G } _ { 1 } } }$ 期显著减少，而S期显著增多，说明Jurkat-T1组 $\\mathbf { G } _ { 0 } / \\mathbf { G } _ { 1 }$ 期向S期的转换明显增加一 $\\scriptstyle \\left( P < 0 . 0 5 \\right.$ ，图3)。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3977655ccaf5e36e1b042f3b6513110d2aee6bb1547374ec74d6eaf0594bb88c.jpg",
+        "img_caption": [
+            "图2Tal1促进Jurkat细胞增殖 Fig.2 Statistical graph of cell proliferation in different Jurkat cells with CCK8 assay. $^ { * } P { < } 0 . 0 5$ Jurkat-siTall us Jurkat-mock1; $^ { * * } P { \\leqslant } 0 . 0 0 1$ Jurkat-T1 vs Jurkat-mock2. ",
+            "图3Tal1促进Jurkat细胞 $\\mathrm { G _ { 0 } / G _ { 1 } }$ 期向S期转换 Fig.3 Tal1 promotes cell cycle transition from $\\mathrm { { \\cal G } _ { 0 } / { \\cal G } _ { 1 } }$ phase to S phase in Jurkat cells. $A ,$ ,B: Statistical graph of cell cycle in different Jurkat cells. $^ { * } P { < } 0 . 0 5$ $^ { * * } P { \\leqslant } 0 . 0 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4在Jurkat细胞中Tal1抑制CDKN2A和CDKN2B基因的表达",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过Real-timeRT-PCR检测发现，Jurkat-siTal1与Jurkat-mock1组相比，CDKN2A和CDKN2B的mRNA表达水平显著增高，而Jurkat细胞中Tal1过表达后",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CDKN2A和CDKN2B的mRNA表达水平均显著降低。通过Westernblot检测发现Jurkat-siTal1组CDKN2A和CDKN2B的蛋白表达水平显著增高，Jurkat-T1组CDKN2A和CDKN2B的蛋白表达水平显著降低（ $P <$ 0.05,图4)。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/00bfca6bc6e881c31f8a8fb3ac0611f07f7d2b6d3425cbc5653d1db9edc259ac.jpg",
+        "img_caption": [
+            "图4Jurkat细胞中Tal1抑制CDKN2A和CDKN2B表达 Fig.4Tall inhibitsgenes expressionof CDKN2AandCDKN2B inJurkatcells.A,B:Real-timeRT-CRresults for CDKN2A and CDKN2B mRNA expression; C,D: Westerm blotting for CDKN2A and CDKN2B protein expresion with GAPDH as control. siTAL1-control served as mock1 and T1-control as mock2; $E ,$ F: Statistical graph of protein level in different Jurkat cells. $^ { * } P { < } 0 . 0 5$ $^ { * * } P { \\leqslant } 0 . 0 0 1$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "急性淋巴细胞白血病是儿童最常见的恶性肿瘤，分为急性B淋巴细胞白血病(B-ALL)和急性T淋巴细胞白血病(T-ALL),T-ALL发病率比B-ALL低,仅占ALL的 $1 5 \\% { \\sim } 2 0 \\%$ ,但其预后不良[。目前研究发现,在 $6 5 \\%$ 的T-ALL病人中发生了Tal1的异常表达，且这种异常表达经常导致染色体的易位和缺失[。Tal1是Ⅱ类bHLH家族的一种转录因子，它在造血早期具有重要的作用[8]。Tal1也是一种致癌基因,有文献报道Tal1的异常表达与T-ALL的不良预后有密切关系。在我们的研究中Tal1表达促进T-ALLJurkat细胞增殖与进展，也说明Tal1与T-ALL的发生发展有密切的关系。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "文献报道，Tal1过表达对一些细胞周期有促进作用[10-13]。我们检测了Jurkat稳定转染细胞的细胞周期，发现Tal1在细胞分裂间期能够促进 $\\mathbf { G } _ { 0 } / \\mathbf { G } _ { 1 }$ 期向S期转换。G1期在生长因子的刺激下,CyclinD表达,并能够与CDK4、CDK6结合形成复合物，从而促进G期向S期的转换，而细胞内具有一组CDK抑制因子，例如CDKN2A和CDKN2B,是CDK4特异性抑制物，能够与CyclinD竞争性结合CDK4,从而抑制细胞周期 $\\mathbf { G } _ { 1 }$ 向S期转换[13-15],在我们的研究中,利用PCR和Western blot技术检测不同Jurkat稳定转染细胞株中CDKN2A和CDKN2B的表达，发现在Tal1过表达的Jurkat细胞中CDKN2A和CDKN2B表达显著降低，而在TaI1敲低组中CDKN2A和CDKN2B的表达显著升高，这些研究表明Tal1可能通过抑制CDKN2A和CDKN2B表达，来促进Jurkat细胞的增殖，为后续的研究奠定基础",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在本研究中,Jurkat-siTal1与mock1细胞株相比,CDKN2A和CDKN2BmRNA和蛋白的表达升高，而Jurkat-T1与mock2细胞株相比,CDKN2A和CDKN2B的表达下降，但mRNA水平变化明显，蛋白水平变化不是很明显，这可能是由于两个原因引起的,首先,真核基因表达的转录和翻译发生的时间存在时空间隔，mRNA达到峰值时蛋白量还在增加中;其次，在转录后又会有转录后加工、转录产物的降解、翻译、翻译后加工及修饰等,因此，转录水平和翻译水平并不完全一致。有研究者对124个T-ALL病例进行分析时发现,有 $6 4 \\%$ 肿瘤因为发生了CDKN2A基因重排,因此在DNA水平上其表达是缺失的；在超过 $6 0 \\%$ 肿瘤中CDKN2A基因在mRNA水平上也不表达[16,这些发现说明了CDKN2A的缺失在T-ALL中具有重要作用。当然,Tal1也可能通过不同的信号通路来影响细胞的增殖。现有文献报道，Tal1在细胞内环境的作用下可以与不同的复合DNA亚基结合,引起白血病的发生。Tal1与急性髓细胞白血病1蛋白(RUNX1)和ETS1(P54)能够发生相互作用，这些转录因子是Tal1调节T细胞分化时所要结合一些基因时所必需的，Tal1通过抑制T细胞分化从而引起T细胞肿瘤的形成[7]。在人类肿瘤和老鼠模型中,Tal1高表达与胸腺细胞 $\\mathrm { C D 4 ^ { + } C D 8 ^ { + } }$ 阶段分化阻滞相关，而Jurkat细胞是 $\\mathrm { C D 4 ^ { + } C D 8 ^ { + } T } \\mathrm { . }$ ALL细胞,而且TAL1异常表达,在多种T-ALL分子研究中被应用[2.5]，所以在我们的研究中应用了Jurkat细胞作为研究对象。Jurkat细胞属于WT型Tal1高表达的细胞株，为了更确切的说明Tal1对T-ALL细胞增殖的影响，下一步我们还需要选择一株Tal1缺失型细胞株HPB-ALL做进一步研究。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本文发现Tal1可以通过抑制CDKN2A和CDKN2B表达来促进Jurkat细胞的增殖。但Tal1促进Jurkat细胞增殖的机制非常复杂，其他相关机制需要进一步研究。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Sanda T,Lawton LN,Barrasa MI,et al．Core transcriptional regulatory circuit controlled by the TAL1 complex in human T cell acute lymphoblastic leukemia[J].Cancer Cell, 2012,22(2): 209-21.   \n[2]Patel B,Kang Y,Cui K,et al.Aberrant TAL1 activation is mediated by an interchromosomal interaction in human T-cell acute lymphoblastic leukemia[J].Leukemia,2014,28(2): 349-61.   \n[3]Look AT. Gene expression profiling in T-cell acute lymphoblastic leukemia[J].Semin Hematol,2003,40(4): 274-80.   \n[4]Mansour MR,Sanda T,Lawton LN,et al. The TAL1 complex targets the FBXW7 tumor suppressor by activating miR-223 in human T cell acute lymphoblastic leukemia[J].JExper Med,2013, 210(8): 1545-57.   \n[5] Genesca E,Ribera J,Ribera JM.Acute lymphoblastic leukemia of T progenitors: From biology to clinics[J]. Med Clin (Barc),2015,144 (5): 223-9.   \n[6]Cardoso B,Almeida SD,Laranjeira A，et al.TAL1/SCL is downregulated upon histone deacetylase inhibition in T-cell acute lymphoblastic leukemia cells[J].Leukemi,2011,25(8): 1578-86.   \n[7]Wilson NK，Miranda-Saavedra D，Kinston SA，et al.The transcriptional program controlled by the stem cell leukemia gene Scl/Tall during early embryonic hematopoietic development [J]. Blood, 2009,113(22): 5456-65.   \n[8]Kurukuti S, Saffrey P. Chromatin looping defines expression of TAL1,its flanking genes and regulation in T-ALL[J]. Blood,2013, 122(26): 4199-209.   \n[9]Benyoucef A, Calvo J,Renou L,et al. The SCL/TAL1 transcription factor represses the stress protein DDiT4/REDD1 in human hematopoietic stem/progenitor cels[J]. Stem Cells，2015，33(7): 2268-79.   \n[10]Chagraoui H, Kassouf M, Banerjee S,et al. SCL-mediated regulation of the cel-cycle regulator p21 iscritical for murine megakaryopoiesis[J].Blood,2011,118(3): 723-35.   \n[11]Dey S,Curtis DJ,Jane SM,et al. The TAL1/SCL transcription factorregulates cell cycle progression and proliferationin differentiating murine bone marrow monocyte precursors[J]. Mol Cell Biol,2010,30(9): 2181-92.   \n[12]Lacombe J, Herblot S,Rojas-Sutterlin SA,et al. SCL regulates the Quiescence and the Long-Term Competence of Hematopoietic Stem Cells[J]. Blood,2009,114(22): 993.   \n[13]Cicenas J,Kalyan K, Sorokinas A,et al.Highlights of the latest advances in research on CDK inhibitors[J]. Cancers (Basel),2014,6 (4): 2224-42.   \n[14] Kumari P,Pincha N. Inhibition of non-muscle myosin II leads to ${ \\bf G } _ { 0 } /$ $\\mathbf { G } _ { 1 }$ arrest of Wharton's jelly-derived mesenchymal stromal cells[J]. Cytotherapy,2014,16(5): 640-52.   \n[15]Omura-Minamisawa M, Diccianni MB,Batova A,et al. Universal inactivation of both p16 and p15 but not downstream components is an essential event in the pathogenesis of T-cell acute lymphoblastic leukemia[J]. Clin Cancer Res,2000,6(4): 1219-28.   \n[16]Palii CG,Perez-Iratxeta C,Yao Z,et al.Differential genomic targeting of the transcriptionfactor TAL1 in alternate haematopoietic lineages[J].EMBO J,2011,30   \n[17]Ferrando AA,Neuberg DS,Staunton J,et al.Gene expression signatures define novel oncogenic pathways in T cell acute lymphoblastic leukemia[J]. Cancer Cell, 2002,1(1): 75-87. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（编辑：孙昌朋）",
+        "page_idx": 4
+    }
+]

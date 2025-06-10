@@ -1,0 +1,515 @@
+[
+    {
+        "type": "text",
+        "text": "AOM/DSS诱导炎症引起的小鼠结直肠癌模型尿液蛋白质组的研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "衡姊琦「 高友鹤\\*1（北京师范大学基因工程药物及生物技术北京市重点实验室 北京 100871)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要: ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[目的]尿液蛋白质组能够灵敏的反映机体的生理变化，可以为炎症引起的结直肠癌的发展提供一定线索。[方法]本研究使用液相色谱联用质谱（LC-MS/MS），对利用AOM/DSS 诱导炎症引起的结直肠癌小鼠模型的尿液差异蛋白进行筛选并进行生物学通路的分析，从生物学通路层面去寻找规律，探究小鼠炎癌模型在结直肠癌的发展中的变化过程。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[结果]（1）尿液蛋白质组的变化能够反映实验小鼠的病理生理变化。所有实验小鼠差异蛋白富集到被报道过的且与炎症和肿瘤相关的共有生物学通路有：急性期反应、细胞黏附、天然免疫反应、蛋白激酶B信号的正调控、B细胞活化正调控、糖代谢的相关通路，特别是免疫相关的反应伴随始终。（2）实验小鼠的疾病进展不同，进展不同阶段的小鼠尿液蛋白质组表现不同。本研究运用的单只小鼠独立分析的研究方法能为炎癌模型的小鼠疾病进程提供线索，同时也为未来个性化、精准化疾病分析的方法提供借鉴。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：蛋白质组学；尿液；炎癌模型；结直肠癌",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jrine proteome changes in a mouse model of AOM/DSS-induced colorectal ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "cancer ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Heng Ziqi' Gao Youhe\\* 1(Gene Engineering Drug and Biotechnology Beijing Key Laboratory， Beijing Normal University, Bei jing 100871， China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Objective] Urine proteome reflects the physiological changes of the body sensitively，which provide some clues for the development of colorectal cancer caused by inflammation.   \n[Method] In this study，liquid chromatography coupled with mass spectrometry (LC-MS/MS）was used to screen the urine differential proteins in a mouse model of AOM/DSS-induced colorectal cancer caused and analyze the biological pathways，to explore the process of this mouse model and find the pattern in the biological pathways.   \n[Results] (1） The changes of urine proteome can reflect the pathophysiological changes in this mouse model. There are some common biological pathways related to inflammation and tumors:acute phase response，cell adhesion, innate immune response， positive regulation of protein kinase B signaling， positive regulation of B cell activation, circadian rhythm, immune system process. (2) The disease progression of experimental mice is different，and the urine proteome of mice at different stages of progression is different. The research method of independent analysis of a single mouse used in this study can provide clues to the mouse disease process，and also provide a reference for future precision medicine. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Proteomics; Urine; Inflammation-driven tumor; Colorectal cancer ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "结直肠癌（colorectal cancer,CRC）是胃肠道中常见的恶性肿瘤，据根据全球肿瘤流行病统计数据2020（GLOBOCAN 2020）的数据显示[1，2020 年有超过190万新诊断为结直肠癌的病例，并有约93.5 万人因病死亡，约占癌症病例和死亡人数的十分之一，CRC 在我国的发病率和死亡率也在逐年增加[2]。结直肠恶性肿瘤的形成开始于隐窝异常病灶，逐渐演变为肿瘤的前体病变也就是结肠息肉，从癌前病变进展到癌一般需要5-10年的时间，为疾病的早期诊断和临床干预提供了重要时间窗口[3]。目前，结肠镜是结直肠癌筛查公认的的金标准[4]，但检查需要复杂的前期准备以及面临麻醉风险；其次，免疫法粪便隐血试验（Immune Fecal Occult Blood Test,FIT）也适用于结直肠癌筛查，其对结直肠癌诊断灵敏度较高，但对癌前病变灵敏度有限；此外，还有乙状结肠镜、结肠CT成像技术、多靶点粪便FIT-DNA检测可在特定条件下用于结直肠癌筛查，这些技术对结直肠癌和癌前病变具有一定的筛检能力，但是同样存在对癌前病变灵敏度有限的问题[5。当前社会中倡导的结直肠癌的筛查年龄范围为50岁以上人群[5]，而随着发病人群的年轻化，建议筛查年龄范围也有了下调的趋势[6]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CRC 分为自发发生和慢性肠炎症（如克罗恩病和溃疡性结肠炎）的长期并发症。研究显示癌症的许多环境原因和风险因素都与某种形式的慢性炎症有关。机体可通过招募和激活炎症细胞促进癌变细胞的恶性进展。炎症可导致免疫抑制，从而为肿瘤的发展提供了一个很好的环境7。本文的研究是利用化学致癌物氧化偶氮甲烷(Azoxymethane,AOM）以及促炎剂葡聚糖硫酸钠（dextran sulfatesodium,DSS)DSS 的诱导肿瘤模型，模拟炎症引起的非遗传性结直肠癌的发展[8]（图1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/045cc4fdbf3bc15e38b22f2979d85833456a8f9d571dd7c52e24bd8106c928e3.jpg",
+        "img_caption": [
+            "图1AOM/DSS诱导炎症引起的小鼠结直肠癌模型尿液蛋白质组的研究流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人体内的所有细胞都依赖于一个稳定的内环境来生存和发挥作用。血液作为所有组织和器官内部环境的关键提供者，需要保持稳定和平衡，以保护器官免受干扰因素的影响。相反，作为血液的滤液，尿液不需要也不具有稳定的机制。因此，尿液可以将机体排出体外的变化进行富集，且不受稳态机制的调控，因此可反映机体疾病引起的早期变化，是寻找生物标志物良好的生物学来源9]。我们实验室的研究显示，颅内移植Walkers-256 肿瘤动物模型[10]中，在影像学诊断出颅内肿瘤之前，尿液蛋白质组就已经表现出了很大的差异，可以区分正常大鼠和实验大鼠。大鼠尾静脉注射Walkers-256细胞后的第2天尿蛋白质组就发生了变化，早于第4天出现的肺肿瘤结节的病理变化[]。Walker 256 细胞植入大鼠胫骨的3天后肿瘤组大鼠尿液中有 25个蛋白发生显著变化，早于计算机断层扫描(CT)检查中发现明显的病变[12]。在裸鼠皮下植入来自患者的结直肠肿瘤组织前后收集尿液，进行差异蛋白的筛选，我们得出了结论，免疫缺陷的动物可能不是寻找尿液中早期免疫相关肿瘤生物标志物的合适模型[13]。以上研究中都采用了移植瘤模型，而尿液中早期免疫相关肿瘤生物标志物出现的原因可能是由于移植瘤是外源的，而在本研究中，我们选用诱导性炎癌模型更好的模拟了人类原发性肿瘤发生发展的过程。同时，我们想特别关注原发性肿瘤是否会出现免疫相关的尿液标志物。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1AOM/DSS诱导炎症引起的结直肠癌小鼠模型的建立",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "雄性 c57BL/6n 小鼠 $1 8 \\mathrm { g } { \\cdot } 2 0 \\mathrm { g }$ 购自北京维通利华实验动物技术有限公司，雄性 Wistar 大鼠 45只,体重 $2 0 0 { \\cdot } 2 2 0 \\mathrm { g }$ ，购自北京维通利华实验动物技术有限公司，动物许可证为 SCXK(京)2008-0001。所有动物在标准环境中（室温 $2 2 \\pm 1 ^ { \\circ } \\mathrm { C }$ ，湿度 $6 5 \\% \\sim 7 0 \\%$ ）饲养。氧化偶氮甲烷购自Sigma 公司，葡聚糖硫酸钠购自。将实验小鼠在新环境中饲养三天，使其熟悉环境后，随机分为两组：对照组（6只)，实验组（10只)。AOM/DSS 诱导炎症引起的结直肠癌小鼠模型的建立方法如下：称量小鼠体重，实验组给予 $\\mathrm { A O M 1 0 m g / k g }$ 的剂量腹腔注射，对照组给予质量分数为 $0 . 9 \\%$ 的生理盐水进行腹腔注射，在c57BL/6n小鼠鼠右下腹外侧进行注射。在腹腔注射后的第1周、第4周、第7周给予实验组小鼠7天的质量分数为 $2 . 5 \\%$ 的DSS 溶液自由饮水，对照组则进行正常的自由饮水（图2)。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/36a79793f3ed574b04232318cae40a0a7b79e425f1a084656d5f4ceb8b700c8d.jpg",
+        "img_caption": [
+            "图2AOM/DSS诱导炎症引起的结直肠癌小鼠的造模过程 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2AOM/DSS诱导炎症引起的结直肠癌小鼠的病理检查 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在造模过程中的第1、4、7和11周，分别实验组小鼠随机处死小鼠10只，对照组小鼠处死4只。取小鼠远端结肠组织，迅速放入 $4 \\%$ 多聚甲醛中固定。将远端结肠组织用石蜡包埋，切90片，并进行苏木精-伊红染色（H&E staining）以观察远端结肠组织的病理变化。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3尿液蛋白质的提取和酶解",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选取4只实验组小鼠的尿液样本进行质谱分析，选取标准是：这4只实验组小鼠在第0、1、3、4、6、7、9、10和11周都使用小鼠代谢笼收集到了尿液。将1-4号实验组小鼠尿液进行蛋白提取，利用胰蛋白酶（Trypsin Gold，Promega，Fitchburg，WI，USA)，进行酶切后收集肽段；酶切的肽段通过 HLB 柱（Waters,Milford,MA）除盐，然后使用真空干燥仪抽干。用 $0 . 1 \\%$ 甲酸水重溶，并稀释到 $0 . 5 \\mu \\mathrm { g / u L }$ ，使用真空干燥仪抽干后用 $0 . 1 \\%$ 甲酸水复溶。再取每个样品制备混合多肽样，使用高 $\\mathsf { p H }$ 反相肽段分离试剂盒（Thermo Fisher Scientific）进行分级，使用真空干燥仪抽干后用$0 . 1 \\%$ 甲酸水复溶，用于后续建库。向所有鉴定的样品中加入iRT（Biognosys）进行保留时间的统一。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4LC-MS/MS 串联质谱分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）数据依赖性采集模式的质谱鉴定数据库采集",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用 EASY-nLC 1200 超高效液相色谱串联 Orbitrap Fusion Lumos 高分辨质谱仪对 10 个分级组分进行数据采集。将溶于 $0 . 1 \\%$ 甲酸水中的肽段装载至预柱（ $7 5 { \\mu \\mathrm { m } } \\times 2$ cm, $3 \\mu \\mathrm { m }$ ,C18, $1 0 0 { \\mathrm { A } } ^ { \\circ } \\lambda$ ），将洗脱液装载至反相分析柱（ $5 0 \\mu \\mathrm { m } \\times 2 5 0 \\mathrm { m m }$ $2 \\mu \\mathrm { m }$ ,C18, $1 0 0 \\mathrm { A } ^ { \\circ } .$ )，洗脱梯度为 $4 \\% - 3 5 \\%$ 流动相B",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（ $80 \\%$ 乙腈 $+ 0 . 1 \\%$ 甲酸 $+ 2 0 \\%$ 水，流速为300nL/min）， $9 0 \\mathrm { m i n }$ 。为实现全自动、灵敏的信号处理，在所有样品中使用校准试剂盒（iRTkit,Biognosys,Switzerland)，浓度为 $1 { : } 2 0 \\ \\mathrm { v } / \\mathrm { v }$ 。以 DDA-MS 模式分析10 个组分，参数设置如下：喷雾电压 $2 . 4 \\mathrm { k V }$ ，Orbitrap的一级分辨率为60000、扫描范围为$3 5 0 \\mathrm { - } 1 5 5 0 \\mathrm { m / z }$ ，二级扫描范围为 $2 0 0 { - } 2 0 0 0 \\mathrm { m / z }$ ，分辨率为30000，筛选窗口为 $2 \\mathrm { D a }$ ，碰撞能量为$30 \\%$ HCD)。AGC目标为 5e4，最大进样时间为 $3 0 \\mathrm { m s }$ 。raw 文件通过 PD（Proteome Discoverer2.1，Thermo FisherScientific 公司）软件建库和分析，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（2）实验样品的DIA数据采集",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以 DIA-MS 模式分析 36 个实验样品。液相参数同 DDA 数据库采集。质谱参数设置如下：以60000分辨率、 $3 5 0 - 1 5 5 0 \\mathrm { m / z }$ 扫描范围进行一级全扫描；接下来进行二级扫描，分辨率为30000，建立36个筛选窗口，HCD碰撞能量为 $30 \\%$ ，AGC目标为1e6，最大注入时间为50ms。窗口计算方式：建库采集到的DDA搜库结果，依据 $\\mathrm { m / z }$ 将所有鉴定到的肽段数量进行排序，分成 36 组，每一组的 $\\mathrm { m / z }$ 范围即为采集DIA 数据的窗口宽度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5质谱数据分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "使用 SpectronautX 软件对质谱数据进行处理和分析。导入每个样本 DIA 采集的 raw 文件进行搜库。高度可信蛋白标准为肽段qvalue $\\phantom { 0 } { < 0 . 0 1 }$ ，采用二级肽段所有碎片离子峰面积进行蛋白定量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.6统计学分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分别用每只小鼠的第1、3、4、6、7、9、10、11周的数据与第0周的比较，两组数据之间的比较采用独立样本t检验。筛选差异蛋白标准为：两组之间变化倍数 $\\mathrm { F C } { \\ge } 1 . 5$ 或 $\\mathrm { F C } { \\le } 0 . 6 7$ ， $\\scriptstyle \\mathbf { P < } 0 . 0 5$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.7差异蛋白的功能分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将筛选到的差异蛋白用 DAVID 数据库（htps://david.ncifcrf.gov/）进行功能富集分析。均采用$\\mathsf { P } < 0 . 0 5$ 的显著性阈值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结果与讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1病理结果分析",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）在造模第1周时，牺牲实验组小鼠5、6号和对照组1号小鼠，实验小鼠和对照组小鼠远端结肠段均未见明显的病理变化，病理结果如图所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bdfbb535a9c9850dd83475a67c04412cea7bc456974278ab7ede7681263a2a14.jpg",
+        "img_caption": [
+            "图5第1周实验组5号小鼠结肠组织的病理切片"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "皱襞结构清晰，粘膜层肠上皮结构完整，为单层柱状上皮，上皮细胞形态结构正常，固有层肠腺数量丰富，可见较多杯状细胞，肌层染色均匀，肌纤维形态结构正常、排列规则，未见明显炎症。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/762a4552037ec713aaeeb83a7b41ab9245fcdb1bcaab5fb6b78cb5de37dba7db.jpg",
+        "img_caption": [
+            "图6第1周实验组6号小鼠结肠组织的病理切片"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "皱襞结构清晰，粘膜层肠上皮结构完整，为单层柱状上皮，上皮细胞形态结构正常，固有层肠腺数量丰富，可见较多杯状细胞，肌层染色均匀，肌纤维形态结构正常、排列规则，未见明显炎症。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9a50e0881f090be088988ec241bb138aeba05de040bd32269fe1f83d2490ca7.jpg",
+        "img_caption": [
+            "图7第1周对照组1号小鼠结肠组织的病理切片"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "皱襞结构清晰，粘膜层肠上皮结构完整，为单层柱状上皮，上皮细胞形态结构正常，固有层肠腺数量丰富，可见较多杯状细胞，肌层染色均匀，肌纤维形态结构正常、排列规则，未见明显炎症。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（2）在造模第4周时，牺牲实验组小鼠7、8号和对照组2号小鼠，实验组7号小鼠和对照组小鼠远端结肠段未见明显的病理变化，但实验组8号小鼠的初见炎症病灶，病理结果如图所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f49c37199f1706b876ae581d91b462ca3c37b6fc2bf6249baa852f1c33c36959.jpg",
+        "img_caption": [
+            "图8第4周实验组7号小鼠结肠组织的病理切片"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "皱襞结构清晰，粘膜层肠上皮结构完整，为单层柱状上皮，上皮细胞形态结构正常，固有层肠腺数量丰富，可见较多杯状细胞，肌层染色均匀，肌纤维形态结构正常、排列规则，未见明显炎症。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b461b295b04b9b91b35f9fe0408fbdbe6cee1631e38ac8d800e51119bd3660f9.jpg",
+        "img_caption": [
+            "图9第4周实验组8号小鼠结肠组织的病理切片",
+            "图10第4周对照组2号实验小鼠结肠组织的病理切片"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "粘膜层局部可见肠腺数量减少，被增生的结缔组织取代（黑色箭头)，伴有少量淋巴细胞浸润（黄色箭头)，部分炎性细胞浸润至粘膜下层(红色箭头)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CCy ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "皱襞结构清晰，粘膜层肠上皮结构完整，为单层柱状上皮，上皮细胞形态结构正常，固有层肠腺数量丰富，可见较多杯状细胞，肌层染色均匀，肌纤维形态结构正常、排列规则，未见明显炎症。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（3）在造模第7周时，牺牲实验组小鼠9、10号和对照组3号小鼠，对照组小鼠远端结肠段未",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "见明显的病理变化，实验组9号小鼠初现炎症病灶，10号小鼠炎症严重，病理结果如图所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b6db3b91243b399b58e3f1313e39fe8ca39f373a865a08151a9ea40e621f23dd.jpg",
+        "img_caption": [
+            "图11第7周实验组9号小鼠结肠组织的病理切片"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "粘膜层局部可见肠腺数量减少，被增生的结缔组织取代(黑色箭头)，伴有少量淋巴细胞浸润(黄色箭头)。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9efbc8f37329e5288c6001ae412bbdb823d1121418b3ef17e0e1e8a6e71e9cda.jpg",
+        "img_caption": [
+            "图12第7周实验组10号小鼠结肠组织的病理切片"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "粘膜层可见多处肠腺数量减少，被增生的结缔组织取代（黑色箭头)，伴有少量淋巴细胞浸润（黄色箭头)；局部可见水肿，结缔组织排列疏松，肠腺间距增宽(红色箭头)。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d16c494ad99d5032e6b4e837e587870ea50d8b661b1ac742c13d4040cbde836.jpg",
+        "img_caption": [
+            "图13第7周对照组3号实验小鼠结肠组织的病理切片"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "皱襞结构清晰，粘膜层肠上皮结构完整，为单层柱状上皮，上皮细胞形态结构正常，固有层肠腺数量丰富，可见较多杯状细胞，肌层染色均匀，肌纤维形态结构正常、排列规则，未见明显炎症。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（4）在第11周造模结束时，4只诱导过程时间点完整实验小鼠远端结肠段已经发生了不同程度的病理变化，病理结果如图所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ad48afccedd492a5bf11b41e614ed3dfff7c39817ca83fc91ca565597d9a5517.jpg",
+        "img_caption": [
+            "图14第11周实验组1小鼠结肠组织的病理切片"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "粘膜层可见多处溃疡，肠上皮被破坏，固有层肠腺坏死溶解，被增生的肉芽组织取代（黑色箭头），固有层可见较多淋巴细胞与中性粒细胞浸润（红色箭头），少量炎性细胞浸润至粘膜下层；局部可见较大量的鳞癌，肿瘤细胞核质比高，少见核分裂象（黄色箭头）。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/65962f05dfd97a01abf3712f8fab8bc84783316969a9403ce0d3216fc7cbd45e.jpg",
+        "img_caption": [
+            "图15第11周实验组2号小鼠结肠组织的病理切片"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "组织中可见较大量的鳞癌，肿瘤细胞核质比高，易见核分裂象（黑色箭头），伴有少量淋巴细胞浸润（图4中黄色箭头）；固有层局部可见肠腺坏死溶解，被增生的肉芽组织取代（红色箭头）。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ccc258a60e19781f707b9a768f333d3c6564a287fc8ca02c4bfeb36c8262b2a8.jpg",
+        "img_caption": [
+            "图16第11周实验组3号小鼠结肠组织的病理切片"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "组织中可见较大量的鳞癌，肿瘤细胞核质比高，易见核分裂象（黑色箭头），周围可见水肿，结缔组织排列疏松（图5中黄色箭头），伴有较多淋巴细胞与浆细胞浸润（红色箭头）。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb09e167785e03a879b1d18ffaa5060d9f236bd3844f3c16d76d5b93a67fd044.jpg",
+        "img_caption": [
+            "图17第11周实验组4号小鼠结肠组织的病理切片"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "粘膜层可见多处肠腺扩张（黑色箭头），固有层底部与粘膜下层可见轻度淋巴细胞浸润（黄色箭头）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2尿液蛋白质组变化分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "病理结果提示10只小鼠利用AOM/DSS诱导结直肠癌11周中炎症进程和癌变进程并不一致，而尿液对于因疾病而发生的变化反应十分灵敏，若将4只小鼠作为实验组与对照组相比可能会因组内差异较大而掩盖一些真实存在的变化。因此，我们使用单只前后对照的方式，对4只实验组小鼠第0、1、3、4、6、7、9、10和11周的尿液进行分析，用第1、3、4、6、7、9、10和11周的尿液蛋白质组学特征与第0周（腹腔注射AOM前）进行比较，尝试找到不同时间相似的尿液蛋白质组特征以预测整个诱导炎症进而癌变的过程。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4只小鼠单只前后对照所有时间点差异蛋白个数及上调下调差异蛋白个数如表1所示，所有差异蛋白见补充表格1。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/6fc5d7de94224a84b7840f2e039fdd1bc420f1b8a2e902847698f32206d76f36.jpg",
+        "table_caption": [
+            "表11-4号小鼠全时间点所有差异蛋白"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号</td><td>时间点</td><td>差异蛋白个数</td><td>上调</td><td>下调</td></tr><tr><td rowspan=\"5\">No.1</td><td>W1</td><td>47</td><td>16</td><td>31</td></tr><tr><td>W3</td><td>114</td><td>27</td><td>87</td></tr><tr><td>W4</td><td>95</td><td>35</td><td>60</td></tr><tr><td>W6</td><td>91</td><td>31</td><td>60</td></tr><tr><td>W7</td><td>83</td><td>27</td><td>56</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/4d18f4b0a8541658cf96119806aeb89202b85d2f094f1bbbfdcf93938c88f622.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>W10</td><td>W9 148</td><td>26 122</td></tr><tr><td rowspan=\"8\"></td><td>120</td><td>31 89</td></tr><tr><td>W11 98</td><td>31 67</td></tr><tr><td>W1 52</td><td>21 31</td></tr><tr><td>W3 92</td><td>35 57</td></tr><tr><td>W4 83</td><td>38 45</td></tr><tr><td>W6 130</td><td>43 87</td></tr><tr><td>W7 78 W9 88</td><td>37 41</td></tr><tr><td>W10 87</td><td>40 48 38 49</td></tr><tr><td rowspan=\"8\">No.3</td><td></td><td>35 41</td></tr><tr><td>W11 76</td><td></td></tr><tr><td>W1 12 W3 44</td><td>5 7</td></tr><tr><td>W4 30</td><td>17 26 9 20</td></tr><tr><td>W6 53</td><td>19 34</td></tr><tr><td>W7 28</td><td>10 18</td></tr><tr><td>W9 71</td><td>40 51</td></tr><tr><td>W10 36</td><td>11 25</td></tr><tr><td rowspan=\"8\">No.4</td><td>W11 36</td><td>19 17</td></tr><tr><td>60</td><td></td></tr><tr><td>W1 W3</td><td>16 44</td></tr><tr><td>144 W4 104</td><td>39 105 34 70</td></tr><tr><td>W6 75</td><td>18 57</td></tr><tr><td>W7 95</td><td>22 73</td></tr><tr><td>W9 148</td><td>37 111</td></tr><tr><td>W10 119</td><td>31 88</td></tr><tr><td>W11</td><td>107 35</td><td>72</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对1号小鼠每个时间点鉴定到的差异蛋白分别采用DAVID 数据库进行功能富集分析。第1、3、4、6、7、9、10和11周的差异蛋白富集到的生物过程中显著变化的生物学通路（见补充表格 2）结果显示：急性期反应在第1、3、4、6、7、9、10和11周都被富集到。药物诱导的炎症激活会启动复杂的全身性早期防御系统，炎症在特定损伤后开始，会导致可溶性介质如细胞因子、急性期蛋白和趋化因子促进中性粒细胞和巨噬细胞迁移到炎症区域，引起急性期反应[14]。其他显著变化的生物学过程有：（1）细胞黏附：细胞粘附结构在控制结肠跨上皮通透性方面发挥重要作用。当结肠内皮细胞发生炎症时，体内存在血栓形成、伤口愈合等过程都存在细胞间和细胞与基质的相互作用[15]。尤其是肿瘤发生发展中，细胞黏附与炎症性的肿瘤微环境相关[16]。（2）与免疫相关的通路：在第9 周大量出现，如吞噬的正调控[17]、天然免疫[18]、B 细胞活化的正调控[19]、补体激活的经典途径[20]。查阅文献证明，炎症引起的结直肠癌自发瘤也能引起动物免疫系统的激活。（3）重要的信号转导通路：如Notch信号通路负责直接细胞间相互作用，Notch1在CRC 细胞中具有促进癌变发生的作用[21]，Notch1的异常激活被与CRC 的严重程度存在一定的联系[22]。还有，蛋白激酶B信号转导的正调控：蛋白激酶 B（protein kinase,PKB）在磷酸肌醇3 激酶（phosphoinositide 3-kinase,PI3K）介导的各种恶性肿瘤的发生发展中起着至关重要的作用。有研究已经发现[23],PKB 激活在上皮间质转化过程中起着核心作用，这是癌细胞侵袭和迁移所必需的过程[24]。不同信号通路对CRC的调控是复杂而相互联系的，有证据表明[25]，这些信号通路之间以及关键信号通路的核因子κB（NF-kB)之间存在联系，确实在生物学通路中也找到有关NF- $\\mathbf { \\sigma } _ { \\kappa \\mathbf { B } }$ 信号通路的线索。（4）氧化应激反应：在肿瘤转移通过上皮和间充质转换、肿瘤微环境的形成之中起到关键作用，氧化应激诱导的CRC中信号途径和转录因子的氧化还原性的改变可能会导致CRC的启动，还会引起的CRC 的耐药性[26]。（5）糖代谢相关通路：糖酵解和糖异生在肿瘤生长中起重要作用，当肿瘤发生时葡萄糖代谢通路同时被扰动[27]。（6）蛋白质的水解：与小鼠在药物诱导小鼠肠道炎症中表现出的相关[28]。（7）昼夜节律：有研究报道[29]，昼夜节律系统在胃肠道生理中起着重要作用，昼夜节律相关蛋白在结肠恶性肿瘤中经常改变，影响结肠肿瘤细胞的表型、癌症的进展。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对2号小鼠每个时间点鉴定到的差异蛋白分别采用 DAVID 数据库进行功能富集分析。第1、3、4、6、7、9、10 和11周的差异蛋白富集到的生物过程中显著变化的生物学通路显示（见补充表格3)：与1号小鼠相似的是，在第3、4、7、9、10 和11周富集到了急性期反应通路[14]，说明炎症带来的损伤导致了急性期反应。同样，2号小鼠依然存在的显著变化的通路是细胞黏附[15,16]、免疫系统的激活过程及其调节通路[17][18][19] [20]、蛋白激酶B信号转导的正调控[23]、氧化应激反应[26]、糖代谢的调控[27]和蛋白质的水解[28]。2号小鼠还在第1、3、4、7、9、10和11周富集到了对细胞因子的反应通路，存在于肠道细胞因子网络是组织稳态、炎症和肿瘤发生的关键介质。如肿瘤坏死因子（TNF）和白细胞介素6(IL-6）等细胞因子经典地被认为是CRC 的核心参与者[30]。在第10 周出现了细胞对白介素1的反应，IL-1α 和 IL-1β 主要来源于巨噬细胞和单核细胞，与任何其他细胞因子家族相比，IL-1 配体和受体家族主要与急性和慢性炎症有关[31]。在3、4、6、9、10和11周出现N-链接蛋白质糖基化，一些蛋白质的异常糖基化被证明可能是CRC预后的有潜力的工具[32]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对3号小鼠每个时间点鉴定到的差异蛋白分别采用 DAVID 数据库进行功能富集分析。第1、3、4、6、7、9、10 和11周的差异蛋白富集到的生物过程中显著变化的生物学通路显示（见补充表格4)：在第3、4和9周富集到了急性期反应通路[14]，时间点较少。3号小鼠依然存在细胞黏附[15,16]、免疫系统的过程及其调节通路[17][18][19][20]、蛋白激酶B信号转导的正调控[23]、糖代谢的调控[27]和蛋白质的水解[28]这些显著变化的通路。3号小鼠整体差异蛋白以及富集到的生物学通路较少。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对4号小鼠每个时间点鉴定到的差异蛋白分别采用 DAVID 数据库进行功能富集分析。第1、3、4、6、7、9、10和11周的差异蛋白富集到的生物过程中显著变化的生物学通路显示（见补充表格5)：急性期反应在第1、3、4、6、7、9、10和11周都被富集到，提示炎症反应在整个诱导过程中都存在。与1、2和3号小鼠都不同的是，在富集到的生物学通路中免疫相关的通路较多且出现时间较早，在诱导开始的第3周就显著变化，如补体激活经典途径[20]、免疫系统过程[17]、天然免疫反应[18]、B 细胞活化正调控[19]、对细胞因子的反应[30]，而在第11周才出现 Notch信号通路[21,22]。同时也存在氧化应激反应[26]、昼夜节律通路的显著变化[29]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "总的来说，1、2、3、4 号小鼠都在诱导的过程中富集到了急性期反应通路[14]、细胞黏附[15,16]、免疫系统的激活过程及其调节通路[18][19][20]、蛋白激酶B信号转导的正调控[23]、糖代谢的调控[27]和蛋白质水解[28]。其中三只小鼠富集到的共有生物过程是氧化应激反应[26]、吞噬作用[17]、补体激活经典途径[20]、炎症反应通路、对细胞因子的反应[30]、细胞对白细胞介素-1的反应[31、昼夜节律通路[29]、N-链接蛋白质糖基化[32]等。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究结果表明：（1）尿液蛋白质组的变化能够反映实验小鼠的病理生理变化，四只实验小鼠的差异蛋白富集到的相同的通路有：急性期反应、细胞黏附、吞噬作用、蛋白激酶B信号的正调控、B 细胞活化正调控、糖代谢的相关通路、蛋白质水解；（2）实验小鼠的疾病进展不同，进展不同阶段的小鼠尿液蛋白质组表现不同，而且与移植瘤模型相比，我们发现免疫相关的通路也会出现在诱导模型中。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "值得注意的是，在遗传背景近似并集中饲养的模式动物中利用促癌剂和致癌剂诱导的结直肠癌尚存在个体差异，那么在人类中的结直肠癌的个体差异更是不可忽略。因此，这提示我们在疾病的生物标志物的研究应用中对样本进行成组分析容易掩盖个体差异性，而单人分析更能体现精准化、个体化的检测手段。若应用于临床，再结合临床样本库的建立，单人分析是未来应对疾病分析的一个方法。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "36 Cancers in 185 Countries. CA Cancer J Clin，2021. 71(3): p. 209-249.   \n2. Gu，M.J.，et al.，Attributable causes of colorectal cancer in China.BMC Cancer，2018. 18(1): p. 38.   \n3. Dekker，E.，et al.，Colorectal cancer. The Lancet，2019. 394(10207):p. 1467-1480.   \n4. Geneve，N.，et al.，Colorectal Cancer Screening.Prim Care，2019. 46(1):p. 135-148.   \n5. Chen. W，e.a.，China guideline for the screning， early detection, and early treatment of colorectal cancer (2020，Beijing)． Zhonghua Zhong Liu Za Zhi，2021． 43(1):p.16-38.   \n6. Mehta, S.J.，A.M. Morris，and S.S. Kupfer，Colorectal Cancer Screening Starting at Age 45 Years-Ensuring Benefits Are Realized by All. JAMA Netw Open，2021． 4(5):p. e2112593.   \n7. Singh，N.，et al.， Inflammation and cancer. Ann Afr Med， 2019. 18(3): p. 121-126.   \n8. Thaker，A.I.，et al.，Mdeling colitis-assciated cancer with azoxymethane (AOM) and dextran sulfate sodium (DSS).J Vis Exp,2012(67).   \n9. Gao,Y.，Urine-an untapped goldmine for biomarker discovery?Sci China Life Sci，2013.56(12):p.1145-6.   \n10. Zhang,L.，et al.，Dynamic urinary proteomic analysis in a Walker 256 intracerebral tumor model. Cancer Med, 2019.8(7): p. 3553-3565.   \n11. Wei，J.，et al.，Early urine proteome changes in the Walker-256 tail-vein injection rat model. Sci Rep, 2019.9(1) : p.13804.   \n12. Wang，T.，et al.，Early urine proteome changes in an implanted bone cancer rat model. Bone Rep，2020.12:p. 100238.   \n13. Liu,Y.，et al.，Changes in the Urinary Proteome in a Patient-Derived Xenograft (PDX) Nude Mouse Model of Colorectal Tumor. Sci Rep，2019. 9(1):p. 4975.   \n14. Cray，C.，J. Zaias，and N.H. Altman， Acute phase response in animals: a review. Comp Med，2009.59(6): p. 517-26.   \n15. Janiszewska,M.，M.C. Primi，and T.Izard, Cell adhesion in cancer: Beyond the migration of single cells. J Biol Chem，2020.295(8):p. 2495-2505.   \n16. Varani，J.，S.D. McClintock，and M.N. Aslam， Cell-matrix adhesion contributes to permeability control in human colon organoids. bioRxiv preprint 2021． June 11.   \n17. Chung，I.C.，et al.，Pretreatment with a Heat-Killed Probiotic Modulates the NLRP3 Inflammasome and Attenuates Colitis-Associated Colorectal Cancer in Mice. Nutrients， 2019. 11(3).   \n18. Gardner，I.H.，et al.，A Distinct Innate Immune Signature of Early Onset Colorectal Cancer. Immunohorizons, 2021．5(6):p. 489-499.   \n19. Guo,L.，et al.， Colorectal Cancer Immune Infiltrates: Significance in Patient Prognosis and Immunotherapeutic Efficacy.Front Immunol，2020.11:p. 1052.   \n20. Storm, L.，et al.，Evaluation of complement proteins as screening markers for colorectal cancer. Cancer Immunol Immunother，2015.64(1)：p.41-50.   \n21. Koveitypour， Z.，et al.， Signaling pathways involved in colorectal cancer progression. Cell Biosci，2019.9 p. 97.   \n22. Tyagi，A.，A.K. Sharma，and C. Damodaran，A Review on Notch Signaling and Colorectal Cancer. Cells，2020. 9(6).   \n23. Wadhwa， B.，et al.，Protein kinase B: emerging mechanisms of isoform-specific regulation of cellular signaling in cancer. Anticancer Drugs，2017. 28(6): p. 569-580.   \n24. Manning，B.D.and A.Toker，AKT/PKB Signaling:Navigating the Network.Cell，2017.169(3):p.381-405.   \n25. Martin，M.，et al.，The Pivotal Player: Components of NF-kappaB Pathway as Promising Biomarkers in Colorectal Cancer. Int J Mol Sci，2021. 22(14).   \n26. Basak,D.，M.N. Uddin，and J. Hancock，The Role of Oxidative Stress and Its Counteractive Utility in Colorectal Cancer (CRC).Cancers (Basel)，2020. 12(11).   \n27. Brown,D.G.，et al.，Metabolomics and metabolic pathway networks from human colorectal cancers， adjacent mucosa，and stool. Cancer Metab，2016.4: p. 11.   \n28. Ni，J.and L.Zhang，Cancer Cachexia:Definition，Staging，and Emerging Treatments.Cancer Manag Res，2020. 12:p. 5597-5605.   \n29. Razi Sofiyani，S.，et al.，The roleof circadian genes in the pathogenesis of colorectal cancer. Gene, 2021．804:p. 145894.   \n30. West，N.R.，et al.，Emerging cytokine networks incolorectal cancer.Nat Rev Immunol，2015.15(10):p. 615- 29.   \n31. Dinarello，C.A.，Interleukin-1 in the pathogenesis and treatment of inflammatory diseases. Blood,2011. 117(14): p. 3720-32.   \n32. Pirro，M.，et al.，N-Glycoproteins Havea Major Role in MGL Binding to Colorectal Cancer Cell Lines: Associations with Overall Proteome Diversity. Int J Mol Sci，2020.21(15). 作者贡献声明： 衡姊琦、高友鹤：提出研究思路，设计研究方案；   \n衡姊琦：进行实验;   \n衡姊琦：分析数据；   \n衡姊琦：论文起草；   \n高友鹤：论文最终版本修订。 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

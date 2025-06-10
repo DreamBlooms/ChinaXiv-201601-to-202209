@@ -1,0 +1,628 @@
+[
+    {
+        "type": "text",
+        "text": "Impaired spinal glucocorticoid receptor signaling contributes to the attenuating effect of depression on mechanical allodynia and thermal hyperalgesia in rats with neuropathic pain\\* ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xiao WEI1 \\*, Yuqi SUN1, ² & Fei LUO1,2.\\* 'Key Laboratory of Mental Health, Institute of Psychology, Chinese Academy of Sciences, Beijing. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "China; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "² Department of Psychology, University of Chinese Academy of Sciences, Beijing, China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Author contribution statement: ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xiao WEI: Designing the study,performing the experiments,analyzing the data and writing the manuscript.   \nYuqi SUN: Performing the experiments.   \nFei LUO: Designed and supervising the whole study. \\*ThisworkissuprtedbytheatioalNaturalScieneFoudatioofCina(GrantNo.3500857317067and34706)adina Postdoctoral Science Foundation (Grant No.2015M570166 and 2016T90145).   \n\\*Corresponding author (E-mail:weixiao@psych.ac.cn,luof@psych.ac.cn). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Althoughdepresion-inducedalteredpain perceptionhasbeendescribed inseveral laboratoryand clinical studies，its neurobiologicalmechanisminthecentralnervoussystem,particularlyinthespinaldorsalhornremainsunclearInthisstudywe thereforeaimedtoclarify whether nociceptivesensitivityofneuropathic pain is altered intheolfactorybulbectomy(OB)modelof depresionandwhether glucocorticoidreceptor(GR),whichis involved intheetio-pathologic mechanisms ofothmajordeprion and neuropathicpain,contributes tothese processes inthe spinaldorsalhonof maleSprague-Dawleyrats.Theresultsshowedthat mechanicalalodyniaand thermal hyperalgesiainducedbyspinalnerveligation(SNL）wereatenuated inOB-SNLratswith decreasedspinal GRexpressionand nuclear translocation,whileNOB(non-olfactorybulbectomy)-SNLratsshowedanincreased spinal GRnucleartranslocation.DecreasedGRnucleartranslocationwithnormalmechanicalnociceptionandhypoalgesiaofthermal nociception were observed in OB-Sham rats,too.Intrathecal injection of GR agonist dexamethasone $( 4 ~ \\mu \\ g ~ /$ rat /day for 1 week) eliminatedtheatenuating effctofdepressononthenociceptive hypersensitivityinOB-SNLratsandaggravatedneuropathicpain in NOB-NLratsassociating withtheup-regulationofBDNF,TrkBandNR2Bexpresion inthe spial dorsalhom.Thepresent studyshows that depressionatenuates themechanical allodyniaand thermal hyperalgesiaof neuropathicpainandsugeststhat altered spinal GR-BDNF-TrkB signaling may be one of the reasons for depresson-induced hypoalgesia. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: Glucocorticoid receptor; Depression; Neuropathic pain; Dexamethasone; Spinal dorsal horn. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Major depression and chronic pain are difficult to completely heal, have high comorbidity land show clinical interactions with each other. Chronic pain patients are at higher risk of depresson than healthy population l. In addition, more than half of depression patients sufer from chronic pain l2l.The impact of depression on chronic pain perception is a controversial topic.Some researchers have reported significant aggravation of pain stimuli aversion [4 and increased spontaneous formalin pain [5 in rodent depressve-like models as well as deep somatic pain in depression patients Zl. Nonetheless,other clinical and laboratory studies found that depression patients showed reduced sensitivityto noxious stimuli applied to the skin 8.2l. Depressve-like rats combining with chronic pain exhibited hypoalgesia to nociceptive mechanical and thermal stimuli compared to chronic pain rats without depresion  1.Il.Studies on the mechanism of hypoalgesia induced by depression are currently focused on the physiopsychology of pain perception and the neural activity of supraspinal nuclei, such as the reduction of painavoidance motivation[lland altered neural activity in the thalamo-cortical circuitsof the medial/lateral pain pathwayl3l. However, whether nociceptive transmisson and related neuropathological mechanisms are altered in the spinal dorsal horn under this circumstance is still unclear. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Major depression and chronic pain have several etio-pathologic mechanisms in common [4]. Glucocorticoid receptors(GRs)，which belong to the classical nuclear receptor family，are widely distributed in the central nervous system (CNS)[5.1]. In the absence of glucocorticoids, GRs reside in the cellcytoplasm as part of the chaperone protein complex. Upon glucocorticoid binding，GRs dissociate from the chaperone complex, translocate into the nucleus through nuclear pores and regulate the expresson of target genes leading to transcriptionalactivation/inhibition[7I].In studies of the etiology and pathology of major depresson, disorders of GR expression and function in the prefrontal cortex and several limbic brain areas (e.g.,hippocampus and amygdala)were thought to be involved in hypothalamic pituitary adrenal axis (HPA axis)dysfunction, which is oneof the potential mechanisms associated with the pathogenesis of depression [9-21In studies of the neural mechanisms of chronic pathological pain,researchers have found that enhanced spinal GRs contributed to central sensitization and alodynia/hyperalgesia of neuropathic pain induced by peripheral nerve injury，and GR antagonists could block the mechanical alodynia and/or thermal hyperalgesia of chronic inflammatory pain and neuropathic pain [2-2l. Based on these findings,we speculated that spinal GR expression and function might participate in the neural mechanisms of depression-induced atenuation of chronic pain, especially neuropathic pain. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Brain-derived neurotrophic factor (BDNF)is an important neuropeptide that contributes to neural plasticity and neurogenesis in the CNS. Chronic stress-induced depressve-like behavior is associated with a reduction of GRs, BDNF expression and neuronal apoptosis in the hippocampus, which can be reversed by antidepressants [28.291. Local application of BDNFon the spinal dorsal horn induced long-time potentiation (LTP)of C-fiber evoked field potentials  and the activation of p-SFKs and p-p38 MAPK signaling in microglia 3l as wellas TrkB signaling in neurons l32.3], which are necessary for the central sensitization of neuropathic pain. However,to date, there has been little evidence of interactions between GR and BDNF signaling in the spinal dorsal horn.Therefore,we wondered whether spinal GRs participate in the influence of depression on neuropathic pain by regulating BDNF expression and related signaling pathways. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Bilateral olfactory bulbectomy (OB),a well-established animal model of depression 34.35], results ina series of behavioral and neurochemical alterations comparable with those observed in depresson patients，such as enhanced locomotor response to stress(e.g., enhanced locomotor and rearing behaviors inopen field test)[34 36.37], decreased sucrose preference [38.32], extended floating time in the forced swimming test 37.40] and abnormal changes of brain serotonergic, noradrenergic,glutamatergic,dopaminergic and GABAergic systems [35]. Although the mechanism of OB-induced depressive-like behavior is complex, most of the above changes can be reversed by chronic antidepressants treatmentl35.4l,andit is oneofthe most reliable depression animal models,at least inrats [42l.Therefore, in the present study, we used OB to establish depressive-like behavior in rats and then used spinal nerve ligation to induce neuropathic pain. Mechanical allodynia and thermal hyperalgesia were investigated with von Frey fibers and radiant heat stimuli，respectively，to detect the eect of depression on neuropathic nociception. Then, immunofluorescence staining and Western blotting were implemented to investigate the expression and translocation of spinal GRs,and serum corticosterone concentration was measured to assess the activity of HPA axis.Subsequently,the GR agonist dexamethasone was administered intrathecally to confirm whether depresson-induced nociceptive alteration was mediated by spinal GRs and whether BDNF signaling was modulated by GRs in this situation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Materials and methods 2.1 Experimental protocol ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The present study consisted of two experiments. The main protocol is shown in Fig. 1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experiment 1: First, the baselines of open field test, sucrose consumption test, paw withdrawal threshold (PWT and paw withdrawal latency (PWL) were measured. Then, OB/NOB surgery was performed.14 days later, oper field and sucrose tests were employed to assess depression-like behaviors. Subsequently，spinal nerve ligation (SNL)/sham surgery was conducted on OB/NOB rats. Consequently, there were 4 groups of rats: NOB-Sham group, OB-Sham group, NOB-SNL group and OB-SNL group.7 days post-SNL or sham surgery,PWT and PWL tests wereconducted to assess the nociceptive behavior ofrats.On the second dayof the behavior tests,rats were sacrificed to obtain spinal tissues and blood samples. Immunofluorescence staining and Western bloting were performed to analyze protein level changes. Plasma corticosterone levels were measured by enzyme linked immunosorbent assay (ELISA). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Experiment 2: Rats were treated as in Experiment 1 before the SNL/sham operation.Starting on the SNL/sham surgery day, intrathecal injection of dexamethasone/vehicle was performed daily forl week.PWT and PWL tests were conducted to assess nociceptive behavior within $3 0 \\mathrm { m i n }$ following the last drug delivery. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Animals ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Male Sprague-Dawley rats $( 2 2 0 - 2 9 0 \\ \\mathrm { g } )$ from the Laboratory Animal Center of the Academy of Military Medical Science (Beijing, China) were used.Rats were housed in separate cages,and the room was kept at $2 2 \\pm 2$ $^ { \\circ } \\mathrm { C }$ under a $1 2 / 1 2 \\mathrm { ~ h ~ }$ light / dark cycle (lights on at $7 { : } 0 0 \\ \\mathrm { a m } )$ ）and with free access to food and water. Rats were acclimatized for 5-7 days before experiments and handled $2 { \\cdot } 3 \\ \\operatorname* { m i n }$ per day before surgeries and behavior tests.All experimental procedures were approved by the the Institutional Review Board of the Institute of Psychology, Chinese Academy of Sciences. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 Olfactory bulbectomy surgery ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Bilateral olfactory bulbectomy was employed to induce depressve-like behaviors.Animals were anesthetized with $1 \\%$ sodium pentobarbital $\\mathrm { 5 0 ~ m g / k g }$ ,i.p.）and then fixed onto a brain stereotactic apparatus.According to Kelly and Leonard's method 43l, a midline sagittal cut was made on the head skin, $3 0 \\% \\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ was used to clean the tissue,and the skull was exposed. Two boreholes were made $8 ~ \\mathrm { m m }$ rostral to the bregma, $2 ~ \\mathrm { m m }$ lateral to the midline separately. Bilateral olfactory bulbs were removed using a vacuum suction pump through two boreholes. The cavity was quickly filled with gelatin sponge. Penicillin (160,0oo U) was injected intraperitoneally after surgery.Rats in NOB group received the same operation without removing any brain tisse.At the end of all the experiments,animals were disscted to confirm whether the bilateral OB was successful. If the olfactory bulbs were removed incompletely or the prefrontal cortex was damaged, the relevant data were excluded. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4 Intrathecal injection and spinal nerve ligation surgery ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For intrathecal injection,rats were anesthetized,and the skin above the posterior superior iliac spine was shaved and incised. According to Storkson's method 4l,a sterile polyethylene-10 (PE-10)catheter filled with sterilesaline was inserted through the L5/L6 intervertebral space until the tip of the catheter reached the spinal lumbar enlargement level.The PE-1O catheter was fixed and led out from the neck skin through a subcutaneous tunnel. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Then,spinal nerve ligation (SNL） was applied to establish neuropathic pain according to Kim and Chung's method 4i. The muscles were dissected until the left spinal L5 transverse was exposed and removed. The L5 spinal nerve Was dissociated and ligated with silk thread distal to the L5 DRG. Animals in sham group underwent the same operation except the ligation of L5 spinal nerve.The wound was sutured in two layers and disinfected with iodophor and $7 5 \\%$ ethyl alcohol. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Drug or vehicle was delivered through the intrathecal catheter. Dexamethasone (Sigma, St. Louis,MO) was dissolved with ethyl alcohol to a $5 ~ \\mathrm { m g / m l }$ stock solution. Before administration, stock solution was diluted with saline to a $0 . 5 ~ \\mathrm { m g / m l }$ working solution. Each animal received $8 \\mu 1 ( 4 \\mu \\mathrm { g } )$ working solution of dexamethasone or vehicle ( $10 \\%$ ethanol in saline）and then $1 2 ~ \\mu \\mu 1$ saline to ensure that drug was completely delivered into the subarachnoid space. The first administration of the drug or vehicle was performed $3 0 ~ \\mathrm { m i n }$ before SNL surgery. Subsequently,the drug or vehicle was administered once daily for 7 days. After all the behavior tests were completed,successul catheterization was confirmed immediately by bilateral hind limb paralysis following injection of $2 0 \\mathrm { m g / m l }$ lidocaine $( 8 ~ \\mu \\mathrm { l } )$ through the catheter within $3 0 ~ \\mathrm { s }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5Behavior tests ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Open field test was carried out to analyze rats’horizontal movements and exploratory behaviors before and after OB surgery. The open field device was composed of a circular area ( $1 8 0 ~ \\mathrm { c m }$ in diameter with a $5 0 \\mathrm { c m }$ -high wall).In a quiet environment with dim illumination $( 4 0 ~ \\mathrm { w } )$ ,each rat was tested in the open field for $5 ~ \\mathrm { { m i n } }$ . The movement distance during the test was recorded and analyzed with a computer-based system Etho Vision (Noldus Information Technology，Wageningen， Netherlands). The number of rearing behavior was counted by the experimenter. The device was cleaned with $7 5 \\%$ ethanol to remove olfactory cues in the interval between tests. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sucrose consumption test was used to assss the rats'anhedonia before and after OB surgery. In the preparation period, rats were given a bottle of water and a bottle of $1 \\%$ sucrose solution simultaneously for the first $2 4 \\mathrm { h }$ (with food). Then, the 2 bottles were switched, and another $2 4 \\mathrm { ~ h ~ }$ were given to distinguish the sucrose solution and water (with food).Immediately thereafter, the rats were subjected to $2 2 \\mathrm { ~ h ~ }$ of food and water deprivation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Subsequently, formal sucrose preference test was performed: Each rat was presented simultaneously with $1 \\%$ sucrose solution bottle and water bottle for 1 h (with food). Each rat's consumption of $1 \\%$ sucrose solution and water were recorded.The percent preference for sucrose consumption was calculated using the following formula: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Sucrosepreference=(sucrose solution consumption/[sucrose solution consumption $^ +$ water consumption]) $1 \\times 1 0 0 \\%$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PWTs in response to mechanical stimuli were measured with electronic von Frey fiber to assess rats' mechanical allodynia.Rats were placed on a metal grid,and the plantar skin of the ipsilateral hind paw of SNL/sham surgery was stimulated with electronic von Frey fiber with a $5 \\ \\mathrm { m i n }$ interval. The mechanical withdrawal threshold was recorded when the rat was quickly withdrawing the hind paw.Three measurements of PWT were averaged as the result per test. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Thermal hypersensitivity was tested using radiant heat. Rats were placed on a glass floor and separated by Plexiglas covers.A radiant heat source beneath the floor was aimed at the plantar surface of the ipsilateral hind paw of SNL/sham. The PWL induced by heat was used as a measure of thermal hyperalgesia. Three measurements oflatency with 5 min interval were conducted foreach rat in each test sesion.The average of three measurements was the final result of each rat per test. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.6 Serum corticosterone concentration ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "At the second day of the final PWTand PWL tests in experiment 1,orbital blood samples ofrats were collected for corticosterone determination from 8:00 to 11:00 in the morning. The blood were centrifuged at $3 { , } 0 0 0 ~ \\mathrm { r p m }$ for 10 minutes to obtain serum and preserved at $- 8 0 ~ ^ { \\circ } \\mathrm { C }$ .The serum concentrations of corticosterone were measured by enzyme linked immunosorbent assay using a commercial ELISA kit (R&D Systems Inc., Minneapolis, MN). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.7 Immunofluorescence staining ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "After being anesthetized with $10 \\%$ chloral hydrate ( $4 0 0 \\mathrm { m g / k g }$ ,i.p.), the rats were perfused with cold saline and then $4 \\%$ paraformaldehyde in $0 . 1 \\mathrm { ~ M ~ }$ phosphate buffer $\\mathrm { ( p H } \\ 7 . 2 – 7 . 4 \\$ through the ascending aorta and the lumbar enlargement of the spinal cord was removed and post fixed in $4 \\%$ paraformaldehyde for $^ \\textrm { \\scriptsize 1 h }$ and then transferred into $30 \\%$ sucrose in $0 . 1 \\mathrm { ~ M ~ }$ phosphate buffer for 3 days. Transverse spinal sections $( 2 0 ~ \\mu \\mathrm { m } )$ were cut on a cryostat (Leica CM3035 S; ${ } ^ { - 2 0 } { } ^ { \\circ } \\mathrm { C }$ to $- 2 2 \\ ^ { \\circ } \\mathrm { C } ,$ . Subsequently, free-floating sections were blocked with $3 \\%$ donkey serum in $0 . 3 \\%$ Triton X-100 for $^ \\textrm { \\scriptsize 1 h }$ at room temperature and incubated with different primary antibodies: polyclonal GR (1:200,Santa Cruz Biotechnology,sc-1004,Santa Cruz, CA), monoclonal NeuN (neuronal marker,1:20,Abcam, ab104224,Cambridge，UK)，monoclonal GFAP (astrocyte marker，1:1000,Cell Signaling Technology,#3670, Beverly, MA) or polyclonal Ibal (microglia marker,1:500，Abcam,ab5076, Cambridge,UK) overnight at $4 ^ { \\circ } \\mathrm { C }$ Sections were washed with O.01 M PBS for $1 0 \\ \\operatorname* { m i n } \\ 3$ times and then incubated with FITC(1:20O； Jackson Immunolab，115-095-003，705-095-003，PA）and TRITC-conjugated secondary antibodies (1:200；Jackson Immunolab, 711-025-152, PA) for $^ { \\textrm { 1 h } }$ at room temperature. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Stained sections were observed with a Leica DM5500B (Leica Camera AG, Solms,Germany） fluorescence microscope,and images were captured with a CCD spot camera. Double-stained images were merged using Image J software. Semi-quantitative analysis of GR-positive areas and areas of colocalization between GRs and cell markers in the ipsilateral spinal dorsal horn were carried out with Image-Pro Plus 5.0(Media Cybernetics, USA). The colocalization rate of GRs and neurons/astrocytes/microglia was calculated accordingto the following formula: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Colocalization rate=(positive area of both GR and cell markers/positive area of cell markers) $\\times 1 0 0 \\%$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.8 Western blotting ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Spinal lumbar enlargement was harvested from anesthetized animals. The tissues were placed liquid nitrogen immediately,and the dorsal part of the ipsilateral side was separated immediately and preserved at $- 8 0 ~ ^ { \\circ } \\mathrm { C }$ For whole-cell protein extraction,tisses were homogenized in SDS lysis bufer(Beyotime,Shanghai,China)with PMSF (Thermo Scientific,Waltham,MA), then sonicated on ice and centrifuged at $^ { 1 3 , 0 0 0 \\times \\mathbf { g } }$ for $1 5 \\mathrm { m i n }$ at $4 ^ { \\circ } \\mathrm { C }$ to isolate the supernatant part.For cytoplasm and nuclei protein extraction, tissues were treated with an NE-PER Nuclear and Cytoplasmic Extraction Reagents Kit (Pierce Biotechnology，Rockford，IL).The protein concentrations of allsamples were detected with a BCA Protein Assay kit (Pierce Biotechnology,Rockford, IL). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Proteins were separated by gelelectrophoresis (SDS-PAGE)and transferred onto a PVDF membrane (Bio-Rad). The membrane was blocked with $5 \\% \\mathrm { w / v }$ nonfat dry milk or bovine serum albumin (BSA) in TBST ( $2 0 ~ \\mathrm { m M }$ Trisbase, $\\mathrm { p H } 7 . 6$ ， $1 3 7 \\mathrm { m M N a C l }$ and $0 . 1 \\%$ Tween 20) for $^ { \\textrm { 1 h } }$ at room temperature and then incubated with the primary antibodies polyclonal GR,polyclonal BDNF,polyclonal TrkB(1:200,Santa Cruz Biotechnology,sc-1004,sc20981,sc-8316, Santa Cruz,CA), polyclonal NR2B (1:100, CellSignaling Technology, # 4207，Beverly,MA), monoclonal GAPDH, polyclonal histone H3(1:200; Santa Cruz Biotechnology,sc-137179,sc-10809,Santa Cruz, CA） overnight at $4 ~ { } ^ { \\circ } \\mathrm { C }$ with gentle shaking. The blots were washed for $1 0 ~ \\mathrm { { m i n } }$ three times with washing buffer (TBST） and then incubated with secondary antibody horseradish peroxidase (HRP)-conjugated IgG (1:5000, # $7 0 7 4 , \\# 7 0 7 6$ , Cell Signaling Technology, Beverly, MA) for $^ { \\textrm { 1 h } }$ at room temperature. Subsequently, the membrane was washed for $1 0 \\ \\mathrm { m i n }$ three times with TBST. Protein bands were detected by ECL (Pierce Biotechnology, Rockford,IL） and exposed in a FluorChemTM E system (Proteinsimple, San Jones,CA). Integrated optical densities were analyzed with the AlphaView software (Proteinsimple, San Jones, CA). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.9 Statistics ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "All of the data are presented as mean $\\pm$ SEM. Two-sample t-tests were employed to analyze data of the open field test,sucrose consumption test and rats’ bodyweights.Data of mechanical PWT and thermal PWL tests, serum corticosterone level, immunofluorescence staining and western blotting affected by 2 or 3 factors were analyzed with a multifactor analysis of variance (ANOVA) with Bonferroni's post hoc test. Correlations between mechanical PWT/thermal PWL and nuclear GR expression were examined with Pearson correlation coeffcients. Statistical tests were performed with SPSS 19.0 (IBM, Armonk,NY), and $p < 0 . 0 5$ was considered significant. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3. Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Olfactory bulbectomy induced abnormal behaviors correlated with depressive-like state and attenuated mechanical allodynia and thermal hyperalgesia caused by SNL ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Behavioral alterations in the open field and sucrose tests and changes in the bodyweights of the rats were observed follwing a 14-dayrecovery phase after OB/NOB surgery. As shown in Fig.2,in open field test significantly more locomotor activity (Fig.2A) and rearing behavior (Fig.2B) were observed in OB rats than in NOB rats $( p < 0 . 0 0 1 )$ . As shown in Fig.2C, the sucrose solution consumption of OB rats was lower than that of NOB rats in the sucrose preference test $( p = 0 . 0 3 4 )$ ,revealing anhedonic symptom of depressive-like behavior. Furthermore,a significant reduction of bodyweight gain (Fig.2D）was observed in the OB group 14 days following OB surgery $( p < 0 . 0 0 1 )$ . These results indicated that a depressive-like state was established following OB surgery. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Subsequently, SNL/Sham surgery was performed on the OB/NOB rats.Seven days later, mechanical allodynia and thermal hyperalgesia were investigated using electronic von Frey fiber and thermal stimuli.As shown in Fig.2E,the mechanical PWT of the ipsilateral hind paw was significantly affected by OB and SNL $[ \\mathrm { F _ { O B } } ( 1 , 2 8 ) =$ 17.635, $p < 0 . 0 0 1$ ， $\\mathrm { F _ { S N L } } ( 1 , 2 8 ) = 1 4 8 . 7 7 4$ ， $p < 0 . 0 0 1 .$ l, and there was a significant ${ \\mathrm { O B } } { \\times } { \\mathrm { S N L } }$ interaction $[ \\mathrm { F _ { O B \\times S N L } } ( 1 ,$ $2 8 ) = 3 1 . 1 4 7$ ， $p < 0 . 0 0 1 ]$ . NOB-SNL rats showed a lower PWT than NOB-Sham rats $( p < 0 . 0 0 1 )$ ，revealing mechanical allodynia associated with neuropathic pain. In the OB-SNL group, the PWT was also down-regulated by SNL $( p < 0 . 0 0 1 )$ , but showed a restoration comparing with NOB-SNL group ( ${ p < 0 . 0 0 1 } \\$ . In addition, there was no difference between the PWTs of the NOB-Sham group and the OB-Sham group ( $\\dot { p } = 0 . 3 3 7 )$ .As shown in Fig.2F,the thermal PWL of the ipsilateral hind paw was significantly regulated by OB and SNL $[ \\mathrm { F _ { O B } } ( 1 , 2 8 ) =$ 17.654, $p < 0 . 0 0 1$ ， $\\mathrm { F _ { S N L } } ( 1 , 2 8 ) = 4 6 . 0 8 6 , p < 0 . 0 0 1 ]$ without interaction $[ \\mathrm { F _ { O B \\times S N L } } ( 1 , 2 8 ) = 0 . 6 5 8$ $p = 0 . 4 2 4 ]$ . Similar to the results for the mechanical PWT, the thermal PWLs of both NOB-SNL group and OB-SNL groups were lower than those of their corresponding sham groups $( p < 0 . 0 0 1 )$ , while the PWLs of both the OB-Sham group and OB-SNL group were significantly higher than those of their corresponding NOB groups ( ${ \\mathit { p } } = 0 . 0 2 3$ ， $p = 0 . 0 0 1$ ， respectively). These results revealed that the mechanical allodynia and thermal hyperalgesia of SNL rats were attenuated by an OB-induced depressive-like state. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 Decreased spinal GR expression and translocation were involved in the depression-induced attenuation of mechanical allodynia and thermal hyperalgesia in rats with neuropathic pain ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 The expression and translocation of GRs in the spinal dorsal horn, as well as serum corticosterone level, were decreased and associated with the attenuation of neuropathic pain in depressed rats. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To determine the role of spinal GRs in the OB-induced attenuation of mechanical alldynia and thermal hyperalgesia of neuropathic pain, immunofluorescence staining and Western bloting were used to analyze GR expresson and translocation in the present study. Semi-quantitative analysis of the immunofluorescence staining of GRs (Fig.3A-E)showed that there was a significant effect of OB and SNL on GR expression in the ipsilateral spinal dorsal horn $[ \\mathrm { F } _ { \\mathrm { O B } } ( 1 , 2 0 ) = 2 0 . 3 3 6$ $p < 0 . 0 0 1$ ：， $\\mathrm { F } _ { \\mathrm { S N L } } ( 1 , 2 0 ) = 1 4 . 9 7 5$ ， $p = 0 . 0 0 1 \\mathrm { \\cdot }$ ]，with ${ \\mathrm { O B } } { \\times } { \\mathrm { S N L } }$ interaction $[ \\mathrm { F _ { O B \\times S N L } } ( 1 , 2 0 ) = 4 4 . 4 5 6$ ， $p < 0 . 0 0 1 \\$ J.The spinal GR expression of NOB-SNL rats was prominently increased $( p <$ 0.001),while GRs in the OB-Sham group were not changed compared with those in the NOB-Sham group $( p =$ 0.143). Importantly, spinal GR level of the OB-SNL group was lower than that in the NOB-SNL group $( p <$ 0.001). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Next, we analyzed GR protein levels in the cytosolic (Fig.3G)and nuclear (Fig.3H) compartments of the spinal dorsal horn by Western bloting to determine whether GR translocation was altered in the process.As shown in Fig.3F, in the cytosolic compartment of the spinal dorsal horn, there was a significant effect of SNL $[ \\mathrm { F o B } ( 1 , 2 8 ) =$ 0.617, $\\mathnormal { p } = 0 . 4 3 9$ $\\mathrm { F _ { S N L } } ( 1 , 2 8 ) = 8 . 2 3 3$ $p = 0 . 0 0 8 ]$ with ${ \\mathrm { O B } } { \\times } { \\mathrm { S N L } }$ interaction $[ \\mathrm { F _ { O B \\times S N L } } ( 1 , 2 8 ) = 1 2 . 2 6 9$ ， $p = 0 . 0 0 2 ]$ on the GR level. OB resulted in a higher cytosolic GR level in OB-Sham group than in NOB-Sham group ( $\\zeta _ { p } =$ 0.005),revealing an accumulation of spinal cytosolic GRs in depressed rats. Moreover, the cytosolic GR level was lower in the OB-SNL group than that in the OB-Sham group $( p < 0 . 0 0 1 )$ . As shown inFig.3G, GR protein level in the nuclear compartment was significantly regulated by OB and SNL $\\mathrm { [ F _ { O B } } ( 1 , 2 8 ) = 2 7 . 6 6 9$ ， $p < 0 . 0 0 1$ ： $\\mathrm { F } _ { \\mathrm { S N L } } ( 1 , 2 8 )$ $= 7 . 1 1 8$ $p = 0 . 0 1 3 ]$ without interaction $[ \\mathrm { F _ { O B \\times S N L } } ( 1 , 2 8 ) = 1 . 6 1$ ， $p = 0 . 2 1 5 ]$ 1. In the NOB-SNL group, the nuclear GR level was_up-regulated compared with that in the NOB-Sham group $( p = 0 . 0 1 )$ ).The nuclear GR level was dramatically decreased in both the OB-SNL group and OB-Sham group compared with their corresponding NOB groups $( p < 0 . 0 0 1$ ， $p = 0 . 0 0 9$ , respectively), showing a reduction of GR nuclear translocation. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, Pearson's correlation analysis was employed to calculate the correlation between spinal nuclear GR expression and the mechanical PWTs or thermal PWLs of rats,respectively.As shown inFig.3J-K,the spinal nuclear GR expression was negatively correlated with both mechanical PWTs ( $\\stackrel { \\prime } { r } = - 0 . 5 6 5 4$ ， $p < 0 . 0 0 1 \\$ ）and thermal PWLs $( r = - 0 . 5 5 2 7$ ， $p = 0 . 0 0 1 \\$ ). This result revealed that the alteration of nociceptive behaviors of depressed or/and peripheral nerve injury rats was accompanied by changes in GR expression and nuclear translocation in the spinal dorsal horn. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The basal serum corticosterone level in rats were measured and there was a significant effect of SNL $[ \\mathrm { F _ { O B } } ( 1 ,$ （204号 $2 0 ) = 0 . 6 0 2$ $p = 0 . 4 4 7$ $\\mathrm { F } _ { \\mathrm { { s N L } } } ( 1 , 2 0 ) = 7 . 9 7 2$ $p = 0 . 0 1 ]$ with ${ \\mathrm { O B } } { \\times } { \\mathrm { S N L } }$ interaction $[ \\mathrm { F _ { O B \\times S N L } } ( 1 , 2 0 ) = 1 4 . 1 2 , p = 0 . 0 0 1 ]$ (Fig.3F).The serum corticosterone concentration in OB-Sham group was significantly higher than that in NOBSham group $( p = 0 . 0 0 4 )$ suggesting an increased activity of HPA axis induced by OB,which is similar to the high cortisol levels in depression patients [41,4l. No diference was found in the serum corticosterone concentrations between NOB-SNL group and NOB-Sham group $( p = 0 . 5 1 6 )$ , which is consistent with previous observations [25. 47, 48 Interestingly,corticosterone level in OB-SNL group was lower than that in OB-Sham group $( p < 0 . 0 0 1 )$ ,as well as that in NOB-SNL group ( $\\mathit { \\check { p } } = 0 . 0 4 8 )$ , indicating a decreased activity of HPA axis,which may due to the exhausted state of HPA axis in OB rats following SNL surgery. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 The GR agonist dexamethasone eliminated the OB-mediated atenuation of mechanical allodynia and thermal hyperalgesiainratswithneuropathicpain. ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To demonstrate that spinal GR activity reduction contributes to the atenuation of neuropathic pain caused by OB，GR agonist dexamethasone (Dex)，proven to promote GR nuclear translocation， was administered intrathecally at $4 ~ { \\mu \\mathrm { g } }$ per rat daily for 1 week which was determined empirically from previous studies [26, 49], starting from the day of SNL surgery. Next, mechanical PWT and thermal PWL were measured.As shown in Fig.4A-B,we found significant effects of Dex on both PWT $[ \\mathrm { F _ { D E X } } ( 1 , \\ 4 8 ) = \\ 5 8 . 4 8 8$ ， $p \\ < \\ 0 . 0 0 1 ]$ and PWL $[ \\mathrm { F _ { D E X \\times S N L } } ( 1 , 4 8 ) = 7 3 . 9 8 4 , p < 0 . 0 0$ of PWT; $\\mathrm { F _ { D E X \\times S N L } } ( 1 , 4 8 ) = 5 3 . 9 2$ $p < 0 . 0 0 1$ of PWL], as well as Dex $\\mathbf { \\nabla \\times O B }$ and $\\mathrm { D e x } { \\times } \\mathrm { O B } { \\times } \\mathrm { S N L }$ interactions on PWT $[ \\mathrm { F _ { D E X \\times O B } } ( 1 , 4 8 ) = 1 7 . 3 1 6$ $p < 0 . 0 0 1$ ， $\\mathrm { F _ { D E X \\times O B \\times S N L } } ( 1 , 4 8 ) = 1 3 . 4 6 4$ $p = 0 . 0 0 1 _ { . } ^ { \\cdot }$ 一 Compared with the corresponding vehicle group,the mechanical allodynia and thermal hyperalgesia ofNOB-SNL rats were aggravated by Dex $( p < 0 . 0 0 1 )$ . Importantly, the attenuation of mechanical allodynia and thermal hyperalgesia in the OB-SNL group was eliminated following the administration of Dex,but not vehicle $( p <$ 0.001).While the thermal PWL of the Dex-OB-SNL group was higher than that of the Dex-NOB-SNL group ( $\\scriptstyle \\cdot p =$ 0.001),it still showed an attenuation effct of OBon thermal hyperalgesia.Furthermore,the mechanical PWTand thermal PWL of NOB-Sham rats ( $\\mathit { \\Delta } _ { p } = 0 . 4 8 1$ $p = 0 . 6 3 2$ ,respectively) and OB-Sham rats ( $\\zeta _ { p } = 0 . 0 5 9$ $p = 0 . 1 3 2$ respectively) were not affected following Dex administration. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "These results revealed that spinal GR activation was involved in the development of mechanical alodynia and thermal hyperalgesia of NOB-SNLrats and that decreased GR nuclear translocation,at least in part, contributed to the OB-induced attenuation of neuropathic pain in OB-SNL rats. 3.3 Decreased spinal BDNF,TrkB and NMDA receptor subunit NR2B expression levels in depressed rats with neuropathic pain were accompanied by the attenuation of nociceptive hypersensitivity,which could be up-regulated by the GR agonist dexamethasone. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We demonstrated that the OB-induced reduction in GR nuclear translocation in the spinal dorsal horn was involved in the attenuation of mechanical allodynia and thermal hyperalgesia in OB-SNL rats.However, how spinal GR participated in this attenuated neuropathic pain behavior in depressive-like rats was stillunknown. Accordingly,double immunofluorescence staining was employed to investigate the spinal GR location in NOBSNL rats, in which GR expression was enhanced and neural glial cels were activated. As Fig.5A-D shows, GR co-expressed with $6 4 . 9 9 \\pm 3 . 2 5 \\%$ of neurons (Fig.5A), $1 6 . 6 2 \\pm 1 . 4 \\%$ of microglia (Fig.5C), and $7 . 9 7 \\pm 1 . 4 5 \\%$ of astrocytes (Fig.5B).This result revealed thatin the spinal dorsal horn,the GR was mainly found in neurons,partly in microglia and rarely in astrocytes,suggesting that most of the spinal neurons and some of the glia cells with abnormal GR translocation may be involved in the atenuated neuropathic nociception in depressive-like rats. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "It has been reported that activation of the BDNF-TrkB pathway in the spinal dorsal horn contribute to the central sensitization of peripheral nerve injury-induced neuropathic pain through microglial-neuronal activation [21 In addition, recent studies have shown that CNS GRs can regulate BDNF gene expression in some specific brain areas [50-52l.Therefore,the present study investigated whether spinal BDNF and TrkB participated in the OBinduced attenuation of neuropathic pain and whether they were modulated by the GR agonist Dex.Western bloting was employed to analyze BDNF and TrkB protein expresson in the spinal dorsal horn from rats that intrathecally injected with vehicle and Dex as previously described.As shown in Fig.6A-B,OB,SNL,and Dex showed significant main effects on BDNF and TrkB expression[BDNF: $\\mathrm { F _ { O B } } ( 1 , 3 9 ) = 1 6 . 5 2 3$ $p < 0 . 0 0 1$ ·， $\\mathrm { F } _ { \\mathrm { S N L } } ( 1 , 3 9 )$ $= 3 2 . 0 6 7$ $p < 0 . 0 0 1$ · $\\operatorname { F } _ { \\mathrm { D E X } } ( 1 , 3 9 ) = 1 7 . 2 6 1$ ， $p < 0 . 0 0 1$ . TrkB: $\\mathrm { F _ { O B } } ( 1 , 3 9 ) = 5 0 . 7 7 7$ $p < 0 . 0 0 1$ · $\\mathrm { F _ { S N L } } ( 1 , 3 9 ) = 1 5 5 . 3 7 2$ ， $p < 0 . 0 0 1$ ：， $\\mathrm { F _ { D E X } } ( 1 , 3 9 ) = 5 5 . 5 9 6$ ， $p < 0 . 0 0 1 ]$ ，with ${ \\mathrm { O B } } { \\times } { \\mathrm { S N L } }$ or $\\mathrm { D e x } { \\times } \\mathrm { S N L }$ interactions [BDNF: $\\mathrm { F _ { D E X \\times S N L } } ( 1 , 3 9 ) =$ 13.421, $p = 0 . 0 0 1$ . TrkB: $\\mathrm { F _ { O B \\times S N L } } ( 1 , 3 9 ) = 4 5 . 8 4$ $p < 0 . 0 0 1$ ， $\\operatorname { F } _ { \\mathrm { D E X \\times S N L } } ( 1 , 3 9 ) = 3 1 . 0 2 3$ $p < 0 . 0 0 1 ]$ . In the vehicle groups, there was an increasing trend in BDNF expression $( p = 0 . 0 9 5 )$ and a significant up-regulation of TrkB expression in NOB-SNL rats $( p < 0 . 0 0 1 )$ compared with NOB-Sham rats, while the expression of BDNF and TrkB in OB-SNL rats was lower than that in NOB-SNL rats ${ \\it p } = 0 . 0 0 2$ and $p < 0 . 0 0 1$ , respectively) and even that of the OB-Sham group $( p < 0 . 0 0 1 )$ . Dex exacerbated this up-regulation of BDNF and TrkB in both the Dex-NOB-SNL group $( p ~ = ~ 0 . 0 0 1$ ， $p ~ < ~ 0 . 0 0 1$ ，respectively） and the Dex-OB-SNL group $( p \\textless 0 . 0 0 1 )$ compared with their corresponding vehicle groups. Interestingly,the expression of BDNF and TrkB in the Dex-OB-SNL group was still lower than that in the Dex-NOB-SNL group ${ \\it p } = 0 . 0 2 8$ 0 $p < 0 . 0 0 1$ ,respectively). In addition, Dex did not affect spinal BDNF or TrkB expression in NOB-Sham rats $\\zeta _ { p } = 0 . 8 2 8$ ， $p = 0 . 7 7 2$ , respectively) or OB-Sham rats $( p = 0 . 4 7 1$ ， $\\mathnormal { p } = 0 . 1 3 3$ ,respectively). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The NR2B subunit of the $N _ { \\mathbf { \\ell } }$ -methyl-D-aspartate (NMDA) receptor in the neurons of spinal superficial laminae participated in the nociceptive transmission and contributes to the maintenance of neuropathic pain.It has been reported that the activation of the NR2B subunit was modulated by BDNF-TrkB signaling in the spinal dorsal horn following peripheral nerve injury 53]l. Hence, we analyzed NR2B subunit expression,as well As shown in Fig.6C, OB, SNL,and Dex showed significant main effects on NR2B expression $[ \\mathrm { F o B } ( 1 , 3 9 ) = 1 0 6 . 1 1 7 , p < 0 . 0 0 1$ ：， $\\mathrm { F _ { S N L } } ( 1 , 3 9 ) = 1 1 9 . 7 4 6$ $p < 0 . 0 0 1$ ：， $\\mathrm { F _ { D E X } } ( 1 , 3 9 ) = 7 4 . 4 1 6$ $p < 0 . 0 0 1 ]$ ，with ${ \\mathrm { O B } } { \\times } { \\mathrm { S N L } }$ and $\\mathrm { D e x } { \\times } \\mathrm { S N L }$ interactions （20 $[ \\mathrm { F _ { O B \\times S N L } } ( 1 , 3 9 ) = 6 7 . 0 4 6$ $p < 0 . 0 0 1$ ， $\\operatorname { F } _ { \\mathrm { D E X \\times S N L } } ( 1 , 3 9 ) = 6 8 . 3 1 2$ ， $p < 0 . 0 0 1 ]$ . In the vehicle groups, NR2B expression in NOB-SNL rats was higher than that in the NOB-Sham group $( p < 0 . 0 0 1 )$ ,while NR2B expression in OB-SNL rats was lower than that in the NOB-SNL group $( p < 0 . 0 0 1 )$ and even that in the OB-Sham group $( p = 0 . 0 2 1 )$ ） Compared with vehicle treatment, Dex treatment aggravated the up-regulation of NR2B induced by SNL in both Dex-NOB-SNL and Dex-OB-SNL groups $( p < 0 . 0 0 1 )$ ,but expression in the Dex-OB-SNL group was still lower than that in the Dex-NOB-SNL group $( p < 0 . 0 0 1 )$ . Moreover, Dex treatment did not influence the spinal NR2B expression in NOB-Sham rats $( p = 0 . 7 9 3 )$ or OB-Sham rats $( p = 0 . 9 2 9 )$ ） ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "These findings showed that decreased spinal BDNF, TrkB and NR2B expression was involved in the OBinduced attenuation of neuropathic pain.The GR agonist Dex enhanced nociceptive sensitivity and BDNF,TrkB and NR2B expression in the spinal dorsal horn of both NOB-SNL rats and OB-SNL rats but not Sham rats. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4. Discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the present study, we found that OB-induced depressive-like behavior and SNL-induced neuropathic pain behavior were associated with alterations in GR expression and nuclear translocation in the spinal dorsal horn. The mechanical alodynia and thermal hyperalgesia of neuropathic pain were attenuated by OB, with decreased serum corticosterone level and reduction in GR expression and nuclear translocation,as well as BDNF,TrkB, NR2B subunit expression in the spinal dorsal horn.The GR agonist dexamethasone eliminated the attenuation effct of depresion on nociceptive hypersensitivity in OB-SNL rats and aggravated neuropathic pain in NOBSNL rats,with enhanced BDNF,TrkB and NR2B subunit expresson in the spinal dorsal horn. Interestingly, dexamethasone showed no effect on nociceptive behaviors or the expression of the aforementioned proteins in NOB-Sham rats and OB-Sham rats. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1 Olfactory bulbectomy induces depressive-like behavior and attenuates nociceptive response in rats with neuropathic pain ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Among various animal depression models,olfactory bulbectomy is usually performed on rodents, mostly on rats,to induce a series ofbehavioral, neurochemical and neuroendocrine alterations related to those changes in depresson patients[43.54l. Sometimes OB is questioned for the obscure mechanism of its use as adepression model, but it is thought to be one of the best reliable models for predicating the efficacyof chronic antidepressants treatment 441.In the present study, we observed that OB induced hyperactivity in open field test which is related to hyperactive responses to stress and increases in defensive behavior[5sl，decreased sucrose consumption which suggested anhedonia symptoms 38],and decreased bodyweight gain which indicates loss of appetite. Although the mechanism of OB induced abnormal behaviors was stillnot fully understood,these symptoms were not simply a consequence of loss of smell because peripheral anosmia(e.g., zinc sulfate-induced anosmia) failed to produce these effects[56.52l. These alterations are thought to be due to complex neuronal reorganization in various subcortical limbic regions including amygdala and hippocampus 43]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The influence of depression on pain perception is controversial. But there are increasing clinical and laboratory evidence indicating that the response sensitivity to the exogenous nociceptive stimuli was reduced under depression or depressive-like state.Major depression patients showed decreased sensitivity to noxious stimuli applied to their skin [& 2l. Our previous study showed that depressve-like state induced by unpredictable chronic mild stress (UCMS)resulted in hypoalgesia to thermal stimuli in rats with completed Freund's adjuvant (CFA)- induced chronic inflammatory pain[],as wellas increased mechanical PWT and thermal PWL in rats with neuropathic pain [l. In the present study we found that following SNL surgery OB-induced depressive-like rats showed less mechanical alodynia and thermal hyperalgesia than non-depressed rats,which indicated that depressive-like state may atenuate the sensitivity to nociceptive stimuli in rats with neuropathic pain.These results are consistent with previous findings. However, Bravo et al.[8] found that there was no diference in mechanical allodynia between rats experiencing chronic mild stress(CMS)combined with sciatic nerve chronic constriction injury (CCI)and non-CMS rats with CC1. Burke et al..@l reported normal mechanical alldynia and thermal hyperalgesia in OB-SNL rats.These conflicting results may be related to diferences among neuropathic pain models, experimental paradigms or animal handling methods before the behavior tests. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2 The role of spinal GR nuclear translocation in attenuation effect of depression on neuropathic pain ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "GR is a classical nuclear receptor. When binding with glucocorticoids, GRs are translocating from cytoplasm into nucleus to mediate transcriptional activation/represion of target genes, participating in the initiation and development of various physiological and pathological processes,including major depression and neuropathic painl8 22 6l. Many studies on major depression patients or depressive-like animal models have reported abnormal GR expression and function in the pituitary or hippocampus,amygdala,prefrontal cortex and other brain areas, which was considered one of the important reasons for HPA axis hyperactivity and glucocorticoid resistance [19.621. Some studies found that GR nuclear translocation in hippocampus and PFC was impaired in CMS-induced depressve-like rats,which could be reversed by chronic treatment with antidepressnts [21.2]l. Studies in vitro reported that the tricyclic antidepressant desipramine facilitated GR nucleartranslocation in mouse fibroblasts[], and SSRI antidepressant sertraline increased GR transactivation in human hippocampal progenitor cels 4l.These findings suggested impaired GR translocation in brain was associated with depressive-like state and GR was a potential target forantidepressnts treatment. However,alteration ofGR translocation in the spinal dorsal horn in depressive-like rodents is still not clear.In the present study,we found significant decrease in GR nuclear translocation in the spinal dorsal horn of OB-Sham rats and OB-SNLrats,and obvious increases in GR expression and translocation in the spinal dorsal horn of NOB-SNL rats.The positively correlation between spinal nuclear GR level and nociceptive behaviors of OB/NOB-SNL/Sham rats suggests that spinal GRs may involve in the development of hypersensitivity in neuropathic pain nociception. We speculate that OB-induced decreased spinal GR nuclear translocation may,at least in part, account for the attenuation of mechanical allodynia and thermal hyperalgesia in OB-SNL rats. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Therefore,GR agonist dexamethasone was used to confirm the role of spinal GRs in the process by which depression atenuates neuropathic pain. We observed that dexamethasone administered intrathecally aggravated mechanical alodynia and thermal hyperalgesia in NOB-SNL rats and eliminated the attnuation effect of depression on neuropathic pain in OB-SNL rats. In a previous study,spinal GR protein expression was increased in spinal nerve injury (SNI) rats,and this expresson could be exacerbated by the synthetic glucocorticoid betamethasone 5l.Furthermore, Wang et al. 4 found a significant elevation of spinal GR mRNA and protein expression was associated with neuropathic pain behaviors following CCI surgery. GR agonist dexamethasone (i.t.) exacerbated the development of thermal hyperalgesia and mechanical alodynia in CCI rats,while the GR antagonist RU486 or GR antisense oligonucleotide (i.t.）abolished it. Our results were consistent with these findings and demonstrated that GR activation is essential for the development of mechanical allodynia and thermal hyperalgesia induced by peripheral nerve injury. We hypothesized that decreased spinal GR nuclear translocation caused by OB may interrupt GR activation, which is necessary for nociceptive hypersensitivity following peripheral nerve injury，and contributes to the attenuation effect of depression on allodynia and hyperalgesia of neuropathic pain. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.3 The expression of spinal BDNF,TrkB and NR2B may be modulated by decreased GR activity, involved in the hypoalgesic effect of depressive-like state on neuropathic pain ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "It is known that spinal BDNF-TrkB signaling contributes to the initiation and development phase of neuropathic painl.Following spinal nerve injury, increased BDNF and its receptor TrkB in the spinal dorsal horn were highly correlated with the onset of neuropathic pain behavior[53.6l The activation of NR2B subunits of NMDA receptor mediated by BDNF related with the maintenance phase of neuropathic pain. The selective NR2B antagonist Ro25-6981 significantly atenuated mechanical allodynia and thermal hyperalgesia induced by peripheral nerve injury [53l. In the present study， SNL-induced up-regulation of BDNF, TrkB and NR2B expressions were eliminated by the depressve-like state induced by OB.The intrathecal administration of dexamethasone aggravated mechanical alldynia and thermal hyperalgesia in depressed and non-depressed SNL rats and increased the expressions of spinal BDNF, TrkB and NR2B.These results suggests that the downregulation of BDNF,TrkB and NR2B associated with depression-induced reduction of GR nuclear translocation may contribute to the atenuation of neuropathic pain behavior in depressd SNL rats and that spinal BDNF-TrkB signaling is possbly modulated by GR activation following intrathecal injection of dexamethasone in rats with neuropathic pain. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Several studies have found that chronic stress-induced depressive-like behavior was associated with a reduction in GR and BDNF expression in the hippocampus,which is responsible for the disorders in hippocampal neural plasticity 29,l.Antidepressants could protect hippocampal neuronsand restore these disorders [646l. It has ben demonstrated that increased GR activity leading to activation of the NR1/NR2 subunits of NMDA receptor in spinal dorsal horn contributed to neuropathic pain in peripheral nerve injuryrats [23-26].However,there is litle evidence on the relationship between spinal GR and BDNF signaling under conditions of depresson combined with neuropathic pain. Our findings provide a new viewpoint for understanding the etiological and pathological mechanisms of how depression affects neuropathic pain. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.4 The differential effect ofGR agonist dexamethasone on the nociception of SNL rats and sham rats ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Interestingly,we observed that intrathecal treatment with dexamethasone aggravated the mechanical allodynia and thermal hyperalgesia of SNLrats but did not alter the nociceptive behavior of Sham rats in both OB and NOB groups. The expressions of spinal BDNF,TrkB and NR2B were also modulated by dexamethasone the same way as above.This diferential efect of GR agonist or antagonist on pathological pain rodents and their corresponding control group was also reported in other studies [49,8l. Because of the evidence that GRscould exert antiinflammatory or pro-inflammatory effects under diffrent situations []，we speculate that spinal GRs may participate in the regulation of pro-nociceptive pathway following external noxious stimulation such as nerve injury or inflammation,but a total diferent signal pathway under normal circumstances.Therefore,it is posible that dexamethasone promotes the pro-nociceptive pathway through GR activation in NOB-SNL and OB-SNL rats, leading to aggravation of nociceptive hypersensitivity and spinal BDNF-TrkB signaling enhancement. On the other hand,the spinal GR activation in NOB-Sham and OB-Sham rats may enhance its related signal pathways, but the pro-nociceptive signaling may not involve in the process,resulting in unaltered nociception and BDNFTrkB signaling following dexamethasone treatment. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.5 The potential role of supraspinal pain modulation in the attenuation effect of depression on neuropathic nociception ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The endogenous descending inhibitory system of pain in brainstem projects axons to the spinal dorsal horn to mediate pain sensation,and receives the direct neural projection or indirect modulation from several pain related brain regions including hypothalamus，hippocampus，amygdala and frontal cortex in the processof pain perception [70.ZlPrevious studies have found disorders of serotonergic，noradrenergic or glutamatergic transmission in the mid-brainand forebrain ofOB-induced depresedrats [34.35],and intraperitoneal treatment with 5-HT1Areceptor antagonist eliminated hypoalgesia caused by depressve-like state [2l.These findings provided us a possibility that the serotonergic descending inhibiton pathway may be related with the nociceptive alteration under depressive situation. In this study we discovered the restoration efect of dexamethasone on the allodynia and hyperalgesia of depressed SNL rats,but the thermal hypersensitivityand spinal expression of BDNF,TrkB and NR2B were stillower in the Dex-OB-SNL rats than in the Dex-NOB-SNL rats.It is possible that when activated spinal GR signaling contributes to the exacerbated nociceptive transmision in the spinal dorsal horn of Dex-OB-SNL rats,the enhanced serotonergic brainstem-spinal descending pain pathway may do the opposite job, resulting in lower nociceptive hypersensitivity and related protein expression than those in Dex-NOB-SNL rats. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.6 The potential epigenetic and translocational modulators of GR activity ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Although our results showed that the changes in the BDNF signaling pathway mediated by decreased GR activity in the spinal dorsal horn may contribute to the attenuation of the mechanical alldynia and thermal hyperalgesia in the depressed peripheral nerve injury rats, the mechanism ofits upstream regulation on decreased spinal GR expression and nuclear translocation is still unclear.The transcription and expression of NR3C1 gene that encoded GR protein are mainly modulated by the negative feedback of GR itself[]. At present, studies on the epigenetics of major depression found that the hypermethylation of the hippocampal NR3C1 exonl promoter induced decreases in GR protein expresson and dysfunction of HPA axis 2l. However,it is not clear whether this hypermethylation is related to chronic pain. Alternative splicing of exon 9 of the NR3C1 gene primary transcript generates two GR isoforms: GRα,which mediates clasical glucocorticoid-induced transcriptional activity,and $\\mathrm { G R \\beta }$ ,which does not exhibit transcriptional activity and inhibits $\\mathrm { G R } \\mathfrak { a }$ [12]. Although $\\mathrm { G R } \\mathfrak { a }$ is much more abundant than $\\mathrm { G R \\beta }$ in almost all tissues and cell types,it has been shown that $\\mathrm { G R a } / \\mathrm { G R } \\beta$ ratio is decreased in monocytes or the frontal cortex and amygdala of major depression patients [73.74l. Moreover,Maiaru etal.8l reported that spinal $\\operatorname { G R } \\beta$ mRNA was increased in rats with CFA-induced chronic inflammatory pain. Hence,the alteration of $\\mathrm { G R } { \\mathfrak { a } } / { \\mathrm { G R } } \\beta$ ratio in spinal dorsal horn may be relevant to the mechanism of depression affcting chronic pain processes,which provide an interesting direction to explore in future research. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "GR nuclear translocation is mediated by many factors,including the chaperone complex that binds the GR in the cytoplasm 75.76], phosphorylation of GR protein serine residues by various kinases [l, cytokines that interact with GR signaling [2872l.Among them,FK506 binding protein (FKBP5,also called FKBP51)， which is one component of the chaperone complex binding with GR,maintains the transcriptionally inactive conformation of GRs to represstheir nuclear translocation and downstream gene expression [5l. Several studies have demonstrated that FKBP5 is associated with major depression and chronic pain.Furthermore，some clinical studies have suggested that polymorphisms of FKBP5 gene could be used as a biological indicator for the vulnerability and antidepressants responsiveness to major depression[80.&1l.Lukic et al.82] found that the accumulation of cytoplasmic GRs was related to the elevation ofFKBP5 in the lymphocytes of depressed patients. Guidotti et al. [21lhave observed that increased FKBP5 expression was asociated with decreased GR translocation in the hippocampus of CMS-induced depressive-like rats,which was confirmed by Xing and colleges [29l. Maiaru et al. [8] discovered that intrathecal administration of the specific FKBP5 inhibitor SAFit2,global deletion FKBP5 by gene knockout,or local silencing with FKBP5 siRNA significantly attenuated the mechanical allodynia associated with CFA-induced chronic inflammatory pain via GR signaling. These findings indicated that spinal FKBP5 may be one of the important factors mediating GR signaling in the process by which depression attenuates the alldynia and hyperalgesia of neuropathic pain. The further study of this specific mechanism is worth considering in future. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5. Conclusion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We found that decreased GR expression and translocation, which mediated BDNF,TrkB and NR2B downregulation in the spinal dorsal horn,contributed to the attenuation efect of OB-induced depression on mechanical alldynia and thermal hyperalgesia of neuropathic pain.The GR agonist dexamethasone could eliminate this atenuation effect and enhance BDNF-TrkB signaling，providing a novel perspective for understanding the hypoalgesic effect of depressive-like state on neuropathic pain in rats. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Author contributions ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This study was designed by XWand FL; Experiments in this study were performed by XW and Y-QS; Data was analyzed by XW and Y-QS; This article was writen by XW; The design and experiments of this study were supervised by FL. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This research was supported by National Natural Science Foundation of China (NSFC) grant (31500857), China Postdoctoral Science Foundation (2015M570166,2016T90145） to X.W.and NSFC grants (31171067, 31471061） to F.L. This research was also supported by the Key laboratory of Mental Health， Institute of Psychology, Chinese Academy of Sciences. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1. L Doan,TManders,JWang,Neuroplasticity underlying the comorbidityofpain and depression.Neural Plast, 2015.2015:p. 504691. Availablefrom:http://www.ncbi.nlm.nih.gov/pubmed/25810926 DOI: 10.1155/2015/504691.   \n2. MJBair, R LRobinson,W Katon,K Kroenke,Depression and pain comorbidity:αliterature review.Arch Intern Med，2003.163(20): p. 2433-45.Available from: htp://www.ncbi.nlm.nih.gov/pubmed/14609780 DOl: 10.1001/archinte.163.20.2433.   \n3. G E Ratcliffe,MW Enns,SLBelik,JSareen,Chronic painconditions and suicidalideation and suicide attempts: an epidemiologicperspective. Clin Pain, 2008.24(3):p．204-10.Available from: http://www.ncbi.nlm.nih.gov/pubmed/18287825 DOl: 10.1097/AJP.0b013e31815ca2a3.   \n4. L Bravo,」A Mico,R Rey-Brea,B Perez-Nievas,JC Leza,E Berrocoso，Depressve-like states heighten the aversion to painful stimuli in α rat model of comorbid chronic pain and depression. Anesthesiology,2012. 117(3):p. 613-25. Available from: http://www.ncbi.nlm.nih.gov/pubmed/22846678 DOI: 10.1097/ALN.0b013e3182657b3e.   \n5. M Shi,JYWang,F Luo,Depression shows divergent effcts onevokedand spontaneous pain behaviors in rats. JPain，2010. 11(3): p. 219-29. Available from:http://ac.els-cdn.com/S1526590009006348/1-s2.0- S1526590009006348-main.pdf?_tid=dcbe9fea-924c-11e5-a68d00000aacb35e&acdnat=1448329632_284859723f052972ff141546e0ae7ef9 DOI: 10.1016/j.neulet.2010.01.07510.1016/j.jpain.2009.07.002.   \n6. Y L Su,N Wang,GGao,JYWang,FLuo,The effectof depression onthe thermalnociceptive thresholds inrats with spontaneouspain. NeurosciBull，2010.26(6):p. 429-36．Available from: http://onlinelibrary.wiley.com/store/10.1002/pchj.27/asset/pchj27.pdf? v=1&t=ihcpykx4&s=993a9c2cfee519c8611f069bff3d1e0aaf70a69a DOl: 10.1002/pchj.2710.1007/s12264-010- 0932-1.   \n7. K JBar,S Brehm,M K Boettger, S Boettger, G Wagner, H Sauer,Pain perception in major depressiondepends on pain modality. Pain, 2005. 117(1-2): p. 97-103. Available from: http://www.ncbi.nlm.nih.gov/pubmed/16061323 DOl: 10.1016/j.pain.2005.05.016.   \n8. KJBar, S Brehm,MKBoettger,GWagner,SBoettger, H Sauer,Decreased sensitivitytoexperimental pain in adjustment disorder. Eur J Pain,2006.10(5): p.467-71. DOl: 10.1016/j.ejpain.2005.07.001.   \n9. S Lautenbacher, S Roscher, D Strian,K Fasbender, K Krumrey,JC Krieg，Pain perception in depression: relationships to symptomatology and naloxone-sensitive mechanisms.Psychosom Med,1994.56(4): p.345- 52.Available from: http://www.ncbi.nlm.nih.gov/pubmed/7972617   \n10. M Shi,W」Qi,GGao,JYWang,FLuo,Increased thermal and mechanical nociceptive thresholds in rats with depressive-like behaviors. Brain Res， 2010. 1353: p. 225-33. Available from: http://download.springer.com/static/pdf/160/art%253A10.1007%252Fs12264-010-0932-1.pdf?originUrl=htp %3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs12264-010-0932-1&token2=exp=1448330640\\~acl= %2Fstatic%2Fpdf%2F160%2Fart%25253A10.1007%25252Fs12264-010-0932-1.pdf%3ForiginUrI%3Dhttp %253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs12264-010-0932- 1\\*\\~hmac=9b9c6820ea27fc331d56e435a5db7b34e18f6bda66d7cdf1f31e4fa7421c9c39 D0l: 10.1007/s12264- 010-0932-110.1016/j.brainres.2010.07.023.   \n11. W Wang,WJQi,YXu,JYWang,F Luo,The differential effcts of depression on evokedand spontaneous pain behaviorsin olfactorybulbectomized rats. Neurosci Lett， 2010. 472(2):p. 143-7. DOI: 10.1016/j.neulet.2010.01.075.   \n12. N Wang,SG Li,XXLin,YLSu,WJQi,JYWang,F Luo,Increasing Pain Sensation Eliminates the Inhibitory Effect of Depression on Evoked Pain in Rats.Front Behav Neurosci，2016.10:p.183.Available from: http://journal-cdn.frontiersin.0rg/article/211395/files/pubmed-zip/versions/1/pdf DOI: 10.3389/fnbeh.2016.00183.   \n13. N Wang,MShi,JYWang,FLuo,Brain-network mechanisms underlying the divergent efects of depression on spontaneous versus evoked pain in rats:α multiple single-unit study.Exp Neurol,2013.250: p.165-75.DOl: 10.1016/j.expneurol.2013.09.021.   \n14. C S Han,C U Pae，Pain and Depression: A Neurobiological Perspective of Their Relationship. Psychiatry Investigation， 2015．12(1): p. 1-8. Available from: <Go to ISI>://WOS:000348258800001 DOl: 10.4306/pi.2015.12.1.1.   \n15. M Shaqura,X Li, M Al-Khrasani, M Shakibaei, S Tafelski, S Furst,A Beyer, M Kawata,M Schafer, SA Mousa, Membrane-bound glucocorticoid receptors on distinct nociceptive neurons as potential targets for pain control through rapid non-genomic effects. Neuropharmacology，2016.111: p. 1-13.Available from: http://www.ncbi.nlm.nih.gov/pubmed/27558347 DOl: 10.1016/j.neuropharm.2016.08.019.   \n16. K Fuxe,A Cintra,LFAgnati, A Harfstrand,A CWikstrom,SOkret,MZoli,LS Miler,JLGreene,JA Gustafsson, Studies on the celllar localization and distribution of glucocorticoid receptor and estrogen receptor immunoreactivity in the central nervous system of the rat and their relationship to the monoaminergic and peptidergic neurons of the brain.J Steroid Biochem，1987.27(1-3):p. 159-70. Available from: http://www.ncbi.nlm.nih.gov/pubmed/2891875   \n17. R H Oakley,JA Cidlowski,The biology of the glucocorticoid receptor: new signaling mechanisms in health and disease. Allergy ClinImmunol， 2013.132(5):p.1033-44.Available from: http://www.ncbi.nlm.nih.gov/pubmed/24084075 DOl: 10.1016/j.jaci.2013.09.007.   \n18. M Kadmiel,JA Cidlowski, Glucocorticoid receptor signaling in health and disease.Trends Pharmacol Sci,2013. 34(9): p. 518-30. DOl: 10.1016/j.tips.2013.07.003.   \n19. C Anacker,PA Zunszain,LA Carvalho, CM Pariante,The glucocorticoid receptor: pivot of depresson andof antidepressant treatment? Psychoneuroendocrinology， 2011. 36(3):p. 415-25. Availablefrom: http://www.ncbi.nlm.nih.gov/pubmed/20399565 DOl: 10.1016/j.psyneuen.2010.03.007.   \n20. C M Pariante,The glucocorticoid receptor: part of the solution or part of the problem?JPsychopharmacol, 2006.20(4 Suppl): p. 79-84. Available from: htp://www.ncbi.nlm.nih.gov/pubmed/16785275 DOl: 10.1177/1359786806066063.   \n21. G Guidoti,F Calabrese,C Anacker, G Racagni, C M Pariante,M A Riva,Glucocorticoid receptor and FKBP5 expression is altered following exposure to chronic stress:modulation by antidepressant treatment. Neuropsychopharmacology, 2013. 38(4): p. 616-27. Available from: ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "http://www.nature.com/npp/journal/v38/n4/pdf/npp2012225a.pdf DOl: 10.1038/npp.2012.225. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "22. K M Madalena,J K Lerch,Glucocorticoids and nervous system plasticity. Neural Regen Res,2016.11(1): p.37- 41. Available from: http://www.ncbi.nlm.nih.gov/pubmed/26981074   \nhttp://www.nrronline.org/article.asp?issn=1673- 5374:year=2016;volume=11;issue=1;spage=37;epage=41;aulast=Madalena DOl: 10.4103/1673-5374.175039.   \n23. J Zhang,W Zhang,Y Sun,Y Liu,LSong,Z Ma,XGu,Activation ofGRs-Akt-nNOs-NR2B signaling pathway by second dose GR agonist contributes to exacerbated hyperalgesia in arat modelof radicular pain. Mol Biol Rep, 2014.41(6):p. 4053-61. Available from:htp://www.ncbi.nlm.nih.gov/pubmed/24562683DOl: 10.1007/s11033-014-3274-7.   \n24. G M Le Coz,F Anton,U Hanesch,Glucocorticoid-mediated enhancement of glutamatergic transmission may outweigh anti-inflammatory efects under conditions of neuropathic pain. PLoS One,2014.9(3): p.e91393. Available from: http://www.ncbi.nlm.nih.gov/pubmed/24618816 DOl: 10.1371/journal.pone.0091393.   \n25. JK Alexander,A C DeVries, K A Kigerl,JM Dahlman,PG Popovich,Stress exacerbates neuropathic pain via glucocorticoid and NMDA receptor activation. Brain Behav Immun,2009.23(6): p.851-60.Available from: http://www.ncbi.nlm.nih.gov/pubmed/19361551 DOl: 10.1016/j.bbi.2009.04.001.   \n26. S Wang,G Lim,Q Zeng,B Sung,LYang,JMao,Central glucocorticoid receptors modulate the expression and function of spinal NMDA receptors after peripheral nerve injury.JNeurosci，2005.25(2): p.488-95.Available from: http://www.jneurosci.org/content/25/2/488.ful.pdf DOl: 10.1523/jneurosci.4127-04.2005.   \n27. ITakasaki,TKurihara,HSaegusa,SZong,TTanabe,Effectsof glucocorticoid receptorantagonists onalldynia and hyperalgesia in mouse model of neuropathic pain.Eur JPharmacol,2005.524(1-3): p.80-3.Available from: http://www.ncbi.nlm.nih.gov/pubmed/16256102 DOl: 10.1016/j.ejphar.2005.09.045.   \n28. T Numakawa,NAdachi,M Richards,S Chiba, H Kunugi, Brain-derived neurotrophic factor and glucocorticoids: reciprocal influence on the central nervous system.Neuroscience，2013.239:p.157-72.DOl: 10.1016/j.neuroscience.2012.09.073.   \n29. Y Xing,」 Hou，Q Meng，M Yang， H Kurihara，JTian，Novel antidepressant candidate RO-O5 modulated glucocorticoid receptors activation and FKBP5 expression in chronic mild stress model in rats. Neuroscience, 2015.290: p. 255-65. DOl: 10.1016/j.neuroscience.2015.01.044.   \n30. LJZhou,Y Zhong,WJRen,YY Li,T Zhang, XG Liu，BDNF induces late-phase LTPof C-fiber evoked field potentialsin ratspinal dorsal horn. Exp Neurol， 2008. 212(2):p. 507-14. DOI: 10.1016/j.expneurol.2008.04.034.   \n31. LJ Zhou,T Yang,X Wei,Y Liu,WJ Xin,Y Chen,R P Pang,Y Zang,YY Li,XG Liu,Brain-derived neurotrophic factor contributes to spinal long-term potentiation and mechanical hypersensitivity by activation of spinal microglia in rat. Brain Behav Immun，2011. 25(2): p. 322-34. Available from:htp://ac.elscdn.com/s0889159110005064/1-s2.0-S0889159110005064-main.pdf?_tid=c36821ea-959a-11e6-9119- 00000aacb361&acdnat=1476840441_e6e773a7ed6f626d502321c2a7bc4a77 DOl: 10.1016/j.bbi.2010.09.025.   \n32. SBeggs,M W Salter,The known knowns of microglia-neuronal signaling in neuropathic pain.Neurosci Lett, 2013.557 Pt A: p.37-42. DOl: 10.1016/j.neulet.2013.08.037.   \n33. N Khan,M T Smith,Neurotrophins and Neuropathic Pain: Role in Pathobiology. Molecules，2015.20(6): p. 10657-88. Available from: http://www.ncbi.nlm.nih.gov/pubmed/26065639 DOI: 10.3390/molecules200610657.   \n34. A MRedmond,JPKell,BELeonard,Behavioural and neurochemical effectsof dizocilpine intheolfactory bulbectomized rat model of depression. Pharmacol Biochem Behav,1997.58(2): p.355-9.   \n35. C Song,B E Leonard，The olfactory bulbectomised rat as α model of depresson. Neuroscience And Biobehaviral Reviews,2005.29(4-5): p. 627-647. Available from:<Go to ISI>://WOS:00023006870007 DOl: DOl 10.1016/j.neubiorev.2005.03.010.   \n36. M P Dandekar, P S Singru,D M Kokare,N K Subhedar， Cocaine-and Amphetamine-Regulated Transcript Peptide Plays α Role in the Manifestation of Depresson: Social Isolationand Olfactory Bulbectomy Models Reveal Unifying Principles.Neuropsychopharmacology，2009.34(5): p.1288-1300.Available from:<Go to ISI>://WOS:000264178600020   \nhttp://www.nature.com/npp/journal/v34/n5/pdf/npp2008201a.pdf DOl: 10.1038/npp.2008.201.   \n37. JC Morales-Medina，Y Dumont，C-E Benoit，S Bastianetto，G Flores，A Fournier， R Quirion，Role of neuropeptideY Y-1 and Y-2 receptors on behavioral despair in α rat model of depression with co-morbid anxiety. Neuropharmacology, 2012. 62(1): p.200-208.Available from: <Go to ISI>://WOS:000296826800022 DOl: 10.1016/j.neuropharm.2011.06.030.   \n38. T Romeas, M-C Morissette,O Mnie-Filali, G Pineyro,S M Boye, Simultaneous anhedonia and exaggerated Inrnmntnr qrtivntinn in nn qnimal mndel nf denrecinn Devrhnnharmarnlngv Onng 2n5/2): n 293-3n3 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Available from: $< \\mathsf { G o }$ to ISI>://WOS:000267687200011 http://download.springer.com/static/pdf/443/art%253A10.1007%252Fs00213-009-1539-y.pdf?originUrl=http%3A%2F ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "%2Flink.springer.com%2Farticle%2F10.1007%2Fs00213-009-1539-y&token2=exp=1484984041\\~acl=%2Fstatic %2Fpdf%2F443%2Fart%25253A10.1007%25252Fs00213-009-1539-y.pdf%3ForiginUrl%3Dhtp%253A%252F %252Flink.springer.com%252Farticle%252F10.1007%252Fs00213-009-1539- y\\*\\~hmac=35c4f7b580d797e13edfc29f38add6f897c9cd230a500ce6cfa17e88fc5dcc9b DOl: 10.1007/s00213- 009-1539-y.   \n39. M Stepanichev,D Markov,N Pasikova,N Gulyaeva，Behavior and the cholinergic parameters in olfactory bulbectomized female rodents: Difference between rats and mice. Behavioural Brain Research,2016.297: p.5- 14.Available from: <Go to ISI>://WOS:000367107900002 DOl: 10.1016/j.bbr.2015.09.033.   \n40. X Zhang,QDu,C Liu,YYang,JWang,S Duan,JDuan，Rhodioloside ameliorates depressive behavior via upregulation of monoaminergic system activityand anti-inflammatory efect in olfactory bulbectomized rats. InternationalImmunopharmacology，2016.36:p.300-304.Availablefrom:<Goto ISI>://W0S:000378453300039 DOl: 10.1016/j.intimp.2016.05.008.   \n41. JF Cryan,C Mombereau,In search of a depressed mouse:utility of models for studying depression-related behavior in geneticall modified mice.Molecular Psychiatry,2004.9(4):p.326-357.Available from: <Go to ISI>://WOS:000220448800001   \nhttp://www.nature.com/mp/journal/v9/n4/pdf/4001457a.pdf DOl: 10.1038/sj.mp.4001457.   \n42. P Willner,PJMitchel,The validityofanimal models of predisposition todepression.BehavPharmacol,2002. 13(3): p. 169-88.   \n43. J P Kelly, A S Wrynn,B E Leonard, The olfactory bulbectomized rat as α model of depression: an update. Pharmacol Ther, 1997.74(3): p.299-316.   \n44. R VStorkson,A Kjorsvik,ATjolsen,K Hole,Lumbar catheterizationof the spinal subarachnoid space in therat. J Neurosci Methods,1996. 65(2): p.167-72.   \n45. S H Kim,J M Chung,An experimental model for peripheral neuropathy produced by segmental spinal nerve ligation in the rat. Pain,1992. 50(3): p.355-63.   \n46. A Marcilhac,M Faudon,G Anglade,F Hery,P Siaud,An investigation of serotonergic involvement in the regulation of ACTH and corticosterone in the olfactory bulbectomized rat. Pharmacol Biochem Behav,1999. 63(4): p. 599-605.   \n47. M Benedet，R Merino，R Kusuda，M I Ravanelli，F Cadetti，P dos Santos，S Zanon,G Lucas，Plasma corticosterone levels in mouse models of pain.European Journal of Pain,2012.16(6): p.803-815.Available from: <Go to $\\vert \\mathsf { S } \\vert >$ ://WOS:000306903200005   \nhttp://onlinelibrary.wiley.com/doi/10.1002/j.1532-2149.2011.00066.x/abstract DOI: 10.1002/j.1532- 2149.2011.00066.x.   \n48. Y M UIrich-Lai, W R Xie,JTA Meij, C M Dolgas,LYu,JP Herman,Limbic and HPA axis function inan animal model of chronic neuropathic pain.Physiology & Behavior,2006.88(1-2): p.67-76.Available from: <Go to ISl>://WOS:000238598900008 DOl: 10.1016/j.physbeh.2006.03.012.   \n49. S Wang,G Lim,QZeng,BSung,YAi,GGuo,LYang,JMao,Expressionofcentral glucocorticoid receptors after peripheral nerve injury contributes to neuropathic pain behaviors in rats.JNeurosci,2004.24(39):p.8595- 605.Available from:http://www.ncbi.nlm.nih.gov/pubmed/15456833 DOl: 10.1523/JNEUROSCl.3058- 04.2004.   \n50. M Wosiski-Kuhn,JR Erion,EPGomez-Sanchez,CEGomez-Sanchez,A M Stranahan,Glucocorticoid receptor activationimpairshippocampalplasticitybysuppressingBDNFexpressioninobesemice. Psychoneuroendocrinology, 2014. 42: p. 165-77. Available from: http://www.ncbi.nlm.nih.gov/pubmed/24636513 DOl: 10.1016/j.psyneuen.2014.01.020.   \n51. S Alboni,FTscedda,DCorsini, CBenati,FCaggia,GCapone,NBarden,JMBlom,NBrunello,Stres induces altered CRE/CREB pathway activity and BDNF expression in the hippocampus of glucocorticoid receptorimpaired mice. Neuropharmacology, 2011. 60(7-8):p.1337-46.Available from: http://www.ncbi.nlm.nih.gov/pubmed/21324325 DOl: 10.1016/j.neuropharm.2011.01.050.   \n52. S L Gourley,A M Swanson,A MJacobs,JL Howel, MMo,RJDileone,AJKoleske,JRTaylor,Action control is mediated by prefrontal BDNF and glucocorticoid receptor binding.Proc Natl Acad Sci U SA,2012.109(50): p. 20714-9. Available from: htp://www.ncbi.nlm.nih.gov/pubmed/23185000 DOl: 10.1073/pnas.1208342109.   \n53. SJGeng,FF Liao,W H Dang,X Ding,XD Liu,JCai,JS Han,YWan,GG Xing,Contribution of the spinal cord BDNF tothedevelopment of neuropathic painby activation of the NR2B-containing NMDA receptors in rats withspinal nerve ligation. Exp Neurol，2010. 222(2): p. 256-66. Available from:http://ac.elscdn.com/S0014488610000087/1-s2.0-S0014488610000087-main.pdf?_tid=efd0d428-2968-11e6-85f4- 00000aacb362&acdnat=1464944315_3c72d09d53ef255f2aab8fa65bfaba2b DOI: 10.1016/j.expneurol.2010.01.003.   \n54. H van Riezen,B E Leonard,Efects of psychotropic drugs on the behavior and neurochemistry of olfactory bulbectomized rats. Pharmacol Ther,1990.47(1): p.21-34.   \nJJ. male and female rats. Brain Res,2001. 903(1-2): p.242-6.   \n56. M H Sieck,H D Baumbach,Diffrential effects of peripheral and central anosmia producing techniques on spontaneous behavior patterns. Physiol Behav,1974.13(3): p.407-25.   \n57. A Mar,E Spreekmeester,JRochford,Antidepressants preferentially enhance habituation to novelty in the olfactory bulbectomized rat. Psychopharmacology (Berl),2000.150(1): p.52-60.   \n58. LBravo,STores-Sanchez,CAlba-Delgado,JAMico,EBerrocoso,Painexacerbateschronic mildstress-induced changes in noradrenergic transmission in rats. Eur Neuropsychopharmacol， 2014. 24(6): p. 996-1003. Available from: http://www.ncbi.nlm.nih.gov/pubmed/24491949 DOl: 10.1016/j.euroneuro.2014.01.011.   \n59. N N Burke,E Geoghegan,DM Ker,O Moriarty, DP Finn,M Roche,Altered neuropathic pain behaviour in a rat model of depression is associated with changes in inflammatory gene expression in the amygdala. Genes Brain Behav 2013. 12(7): p. 705-13. Available from: http://www.ncbi.nlm.nih.gov/pubmed/23957449 DOl: 10.1111/gbb.12080.   \n60. N N Burke,DM Ker,O Moriarty, DP Finn, M Roche, Minocycline modulates neuropathic pain behaviour and cortical M1-M2 microglial gene expression in q rat modelof depression. Brain Behav Immun,2014.42: p.147- 56. Available from: http://www.ncbi.nlm.nih.gov/pubmed/24994592 DOl: 10.1016/j.bbi.2014.06.015.   \n61. J Mao，Central glucocorticoid receptor: α new role in the celllar mechanisms of neuropathic pain. Rev Neurosci, 2005.16(3): p. 233-8. Available from: http://www.ncbi.nlm.nih.gov/pubmed/16329195   \n62. JR Revollo,JA Cidlowski,Mechanisms generating diversity in glucocorticoid receptor signaling.AnnNYAcad Sci，2009. 1179:p. 167-78. Available from:htp://www.ncbi.nlm.nih.gov/pubmed/19906239 DOl: 10.1111/j.1749-6632.2009.04986.x.   \n63. C M Pariante， B D Pearce,T L Pisell，M」Owens, A H Miller， Steroid-independent translocation of the glucocorticoid receptor by the antidepressant desipramine.Mol Pharmacol,1997.52(4): p.571-81.   \n64. C Anacker,P A Zunszain,A Cattaneo,L A Carvalho,MJGarabedian,S Thuret,JPrice,C M Pariante, Antidepressants increase human hippocampal neurogenesis by activating the glucocorticoid receptor. Mol Psychiatry, 2011. 16(7): p. 738-50. Available from: http://www.nature.com/mp/journal/v16/n7/pdf/mp201126a.pdf DOl: 10.1038/mp.2011.26.   \n65. QS Wang,YHJiang,TDWang,T Xiao,JK Wang,Effects of betamethasone on neuropathic pain inarat spare nerveinjurymodel. ClinExp PharmacolPhysiol， 2013. 40(1):p. 22-7. Available from: http://www.ncbi.nlm.nih.gov/pubmed/23121415 DOl: 10.1111/1440-1681.12027.   \n66. B J Kerr,EJBradbury,DLBennett,PMTrivedi,PDassan,JFrench,DBShelton,SB McMahon,SWThompson, Brain-derived neurotrophic factor modulates nociceptive sensory inputs and NMDA-evoked responses in the rat spinal cord. Neurosci, 1999. 19(12):p. 5138-48. Available from: http://www.ncbi.nlm.nih.gov/pubmed/10366647   \n67. A Tanti,C Belzung,Neurogenesis along the septo-temporal axis of the hippocampus: are depression and the action of antidepressants region-specific? Neuroscience，2013. 252:p. 234-52. Available from: http://www.ncbi.nlm.nih.gov/pubmed/23973415 DOl: 10.1016/j.neuroscience.2013.08.017.   \n68. M Maiaru, K K Tochiki, M BCox,LVAnnan, C G Bell, X Feng,F Hausch,SM Geranton,The stress regulator FKBP51 drives chronic pain by modulating spinal glucocorticoid signaling. Sci Transl Med,2016.8(325): p. 325ra19. Available from: http://www.ncbi.nlm.nih.gov/pubmed/26865567 DOI: 10.1126/scitranslmed.aab3376.   \n69. D Cruz-Topete,JA Cidlowski,One hormone,twoactions: anti-and pro-inflammatory effects of glucocorticoids. Neuroimmunomodulation, 2015. 22(1-2): p. 20-32. Available from: http://www.ncbi.nlm.nih.gov/pubmed/25227506 DOl: 10.1159/000362724.   \n70. M Kwon,M Altin, H Duenas,LAlev,The Role of Descending Inhibitory Pathways on Chronic Pain Modulation andClinical Implications. Pain Practice，2014.14(7):p. 656-667. Available from:<Goto ISI>://W0S:000341716500014   \nhttp://onlinelibrary.wiley.com/doi/10.1111/papr.12145/abstract DOl: 10.1111/papr.12145.   \n71. MM Heinricher,ITavares,JLLeith,BMLumb,Descending controlof nociception:Specificity,recruitmentand plasticity. BrainResearchReviews， 2009. 60(1):p. 214-225. Available from:<Goto ISI>://W0S:000265769600017   \nhttp://ac.els-cdn.com/S0165017308001471/1-s2.0-S0165017308001471-main.pdf?_tid=cb64104-f423-11e6-85ef00000aacb35f&acdnat=1487234707_20c43368c487f62e21b6866d662ca29d DOI: 10.1016/j.brainresrev.2008.12.009.   \n72. C Farrell,VO'Keane,Epigenetics and the glucocorticoid receptor:A review of the implications indepresion. Psychiatry Res, 2016. 242: p. 349-56. Available from: htp://www.ncbi.nlm.nih.gov/pubmed/27344028 DOl: 10.1016/j.psychres.2016.06.022.   \n73. L Grosse,LA Carvalho,AJWijkhuijs,S Bellingrath,TRuland,O Ambree,JAlferink,T Ehring, H A Drexhage, V   \n14 Arolt,Clinicalcharacteristics ofinflammation-associated depression: Monocyte gene expression is age-related inmajordepressive disorder.BrainBehav Immun，2015. 44:p. 48-56. Availablefrom: http://www.ncbi.nlm.nih.gov/pubmed/25150007 DOl: 10.1016/j.bbi.2014.08.004.   \n74. G N Pandey,H S Rizavi, X Ren,Y Dwivedi, M Palkovits,Region-specific alterations in glucocorticoid receptor expression in the postmortem brain of teenage suicide victims. Psychoneuroendocrinology,2013.38(11): p. 2628-39. Available from: http://www.ncbi.nlm.nih.gov/pubmed/23845513 DOI: 10.1016/j.psyneuen.2013.06.020.   \n75. E B Binder,The role of FKBP5,α co-chaperone of the glucocorticoid receptorin the pathogenesis and therapy of affectiveand anxiety disorders.Psychoneuroendocrinology,2009.34 Suppl1: p.S186-95.Available from: http://ac.els-cdn.com/S0306453009001851/1-s2.0-S0306453009001851-main.pdf?_tid=43a860a0-9258- 11e5-ae23-00000aab0f02&acdnat=1448334529_30b9d92f48e721624a530760f3f4298a DOI: 10.1016/j.psyneuen.2009.05.021.   \n76. Y Sasuga,M Asakura,S Miyamoto,N Bodaiji, [Influence of chronic variable stress(CVs)on theassociationof glucocorticoid receptor with heat-shock protein (HSP)90 in rat hippocampus].Nihon Shinkei Seishin Yakurigaku Zasshi,1997.17(5): p.193-200. Available from: http://www.ncbi.nlm.nih.gov/pubmed/9483579   \n77. LS Trevino,NLWeigel,Phosphorylation:afundamental regulatorofsteroid receptoraction.Trends Endocrinol Metab，2013. 24(10): p. 515-24. Available from: http://www.ncbi.nlm.nih.gov/pubmed/23838532 DOl: 10.1016/j.tem.2013.05.008.   \n78. Z Brkic,Z Petrovic,D Franic,M Mitic,M Adzic,Male-specific effectsoflipopolysaccharideon glucocorticoid receptor nuclear translocation in the prefrontal cortex of depressive rats.Psychopharmacology (Berl),2016. 233(18): p. 3315-30. Available from: htp://www.ncbi.nlm.nih.gov/pubmed/27387895 DOl: 10.1007/s00213- 016-4374-y.   \n79. T W Pace,A H Miller, Cytokines and glucocorticoid receptor signaling. Relevance to majordepression.Ann NY Acad Sci，2009.1179: p. 86-105. Available from: htp://www.ncbi.nlm.nih.gov/pubmed/19906234 DOl: 10.1111/j.1749-6632.2009.04984.x.   \n80. A Menke,JArloth,BPutz,PWeber,T Klengel,DMehta,MGonik,MRex-Haffner,JRubel,MUhr,SLucae,JM Deussing,BMuller-Myhsok,FHolsboer,EBinder,Dexamethasone stimulatedgeneexpressioninperipheral bloodisa sensitive marker for glucocorticoid receptor resistance in depressed patients. Neuropsychopharmacology, 2012. 37(6): p. 1455-64. Available from: http://www.ncbi.nlm.nih.gov/pubmed/22237309 DOl: 10.1038/npp.2011.331.   \n81. J Hartmann,K VWagner, C Liebl,S H Scharf,X D Wang, M Wolf,F Hausch,T Rein,U Schmidt,C Touma,J Cheung-Flynn,M B Cox,DFSmith,F Holsboer,M B Muller,MVSchmidt，The involvementofFK506-binding protein 51 (FKBP5)in the behavioral and neuroendocrine effects of chronic social defeat stress. Neuropharmacology, 2012. 62(1): p.332-9. Available from: http://www.ncbi.nlm.nih.gov/pubmed/21839098 DOl: 10.1016/j.neuropharm.2011.07.041.   \n82. I Lukic，M Mitic，I Soldatovic，M Jovicic，N Maric,JRadulovic，M Adzic，Accumulation of cytoplasmic glucocorticoid receptor is related to elevationofFKBP5 in lymphocytes ofdepressed patients.JMol Neurosci, 2015. 55(4): p. 951-8. Available from: http://download.springer.com/static/pdf/401/art %253A10.1007%252Fs12031-014-0451-z.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle %2F10.1007%2Fs12031-014-0451-z&token2=exp=1453950328\\~acl=%2Fstatic%2Fpdf%2F401%2Fart %25253A10.1007%25252Fs12031-014-0451-z.pdf%3ForiginUrI%3Dhttp%253A%252F%252Flink.springer.com %252Farticle%252F10.1007%252Fs12031-014-0451- z\\*\\~hmac=d8818524b2bae72bd159c96c648b800a5302f78d4126605fa5d4ebc4b0000d31 DOI: 10.1371/journal.pmed.100175510.1007/s12031-014-0451-z. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Figure lengends ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Figure 1. Experimental protocol. The protocol indicated in orange was only carried out in experiment 1. The protocol indicated in blue was only carried out in experiment 2. OB,olfactory bulbectomy; NOB,nonolfactory bulbectomy； SNL，spinal nerve ligation; PWT, paw withdrawal threshold;PWL，paw withdrawal latency; Dex, dexamethasone; i.t., intrathecal injection. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Figure 2.OB induced depression-like behavior and attenuated mechanical alldynia and thermal hyperalgesia caused by SNL.The OB group showed increased locomotor activity (A) and rearing numbers (B) in open field test, and decreased sucrose consumption (C)and bodyweight gain (D) compared to the NOB group at day 14. $^ { * } p < 0 . 0 5$ ， $^ { * * * } p < 0 . 0 0 1$ vs. corresponding NOB group; ${ \\mathfrak { n } } = 8 – 9$ per group. Mechanical PWT (E) and thermal PWL (F) were decreased in the NOB-SNL group and partialy restored in the OB-SNL group, which was lower than in the OB-Sham group. $^ { * } p < 0 . 0 5$ ， $^ { * * * } p < 0 . 0 0 1$ vs. NOB-Sham group; # $\\# p < 0 . 0 0 1$ vs. OB-Sham roup; $\\$ 8 p <0.01$ ， $\\$ 89 p <0.001$ vs. NOB-SNL group; $\\mathtt { n } = 8$ per group ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Figure 3.Alterations of spinal GR expression,translocation and serum corticosterone level in NOB/OB-Sham/SNL rats.The immunofluorescence-stained GR-positive area in the SNL-ipsilateral spinal dorsal horn increased in NOB-SNL rats but decreased in OB-SNL rats (A-E); $\\mathtt { n } = 6$ sections of 3 rats per group; scale bar $= 5 0 \\ \\mu \\mathrm { m }$ .Western blot results of spinal cytosolic and nuclear compartments showed enhanced cytosolic GR expression in the OB-Sham group and nuclear GR expression in the NOB-SNL group,while there was inhibited cytosolic and nuclear GR expression in the OB-SNL group (G-I). $^ { * } p < 0 . 0 5$ ， $^ { * * } p < 0 . 0 1$ ， $^ { * * * } p < 0 . 0 0 1$ vs. NOBSham group; $\\psi \\# \\# p < 0 . 0 0 1$ vs. OB-Sham group; $\\$ 89 p <0.001$ vs. NOB-SNL group; $\\mathtt { n } = 8$ per group. Nuclear GR expression was negatively correlated with both mechanical PWTs (J) and thermal PWLs (K) of the NOB-Sham, NOB-SNL, OB-Sham, and OB-SNL groups. Serum corticosterone concentration increased in the OB-Sham group but decreased in OB-SNL group (F). $^ { * * } p < 0 . 0 1$ vs. NOB-Sham group; ### ${ \\boldsymbol { \\mathit { t } } } _ { p } < 0 . 0 0 1$ vs. OB-Sham group; $\\$  p<$ 0.05 vs. NOB-SNL group; $\\mathtt { n } = 6$ per group. CORT, corticosterone. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Figure 4.GR agonist dexamethasone (Dex) eliminated the OB-induced attenuation of mechanical allodynia and thermal hyperalgesia of neuropathic pain.Intrathecal administration of Dex (4mg per rat, daily for 1 week) exacerbated mechanical PWT (A) and thermal PWL (B) down-regulation of Dex-NOB-SNL rats compared with Veh-NOB-SNL rats and induced significantly lower mechanical PWT and thermal PWL in the Dex-OB-SNL group than in the Veh-OB-SNL group.The nociceptive behaviors of NOB-Sham rats and OB-Sham rats were not affected by Dex intrathecal administration. $^ { * * } p < 0 . 0 1$ ， $^ { * * * } p < 0 . 0 0 1$ vs. corresponding NOB-Sham groups; $\\# \\# \\# p < 0 . 0 0 1$ vs. corresponding OB-Sham groups; $\\$ 8 p <0.01$ ， $\\$ 89 p <0.001$ vs. corresponding NOB-SNL groups; &&& $p < 0 . 0 0 1$ vs. corresponding vehicle groups; $\\mathtt { n } = 7$ per group. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Figure 5.Immunofluorescence double staining of the GR (red) and cell markers (green) in the spinal dorsal horn of NOB-SNL rats.The GR was mainly colocalized with NeuN (a marker for neurons) (A), partly with Ibal (a marker for microglia)(C),and rarely with GFAP(a marker for astrocytes)(B). Colocalization of GRs with NeuN, GFAP and Ibal (D), $\\mathtt { n } = 6$ sections from 3 rats per group; scale l $\\mathtt { b a r } = 5 0 ~ \\mu \\mathrm { m }$ ： Figure 6. GR agonist dexamethasone (Dex) regulated BDNF,TrkB and NMDA receptor NR2B subunit expression in the spinal dorsal horn of rats with depresson and neuropathic pain. Intrathecal administration of Dex ( $4 ~ \\mu \\ g$ per rat,daily for 1 week) exacerbated spinal BDNF (A), TrkB(B) and NR2B (C） expression increases in the Dex-NOB-SNL group compared to the Veh-NOB-SNL group and induced significant upregulation of these proteins in the Dex-OB-SNL group compared to those in the Veh-OB-SNL group.The protein expression levels of NOB-Sham rats and OB-Sham rats were not affected by Dex. $^ { \\ast } p < 0 . 0 5$ ， $^ { * * * } p < 0 . 0 0 1$ vs. corresponding NOB-Sham groups; $\\# p < 0 . 0 5$ ，## $\\displaystyle t p < 0 . 0 0 1$ vs. corresponding OB-Sham groups; $\\$ 123,45$ $\\$ 5 p<$ 0.01, $\\$ 89$ vs. corresponding NOB-SNL groups; && $p < 0 . 0 1$ ，&&& $p < 0 . 0 0 1$ vs. corresponding vehicle groups; $\\mathrm { n } = 5 – 6$ per group. ",
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/b219c31bef9c5c3d8e283ddbea1424ad41bba4b7618209341afa31473be0efd6.jpg",
+        "img_caption": [
+            "Figures Fig.1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/c896106d4014defff361f3ed2c361b4b1118394e0b434aae16c077514831783b.jpg",
+        "img_caption": [
+            "Fig.2 ",
+            "Fig.3 "
+        ],
+        "img_footnote": [],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/882c95b3c37f702bb3061f69ab9342758e2fceb28872efa9761e4eabe58ae774.jpg",
+        "img_caption": [
+            "Fig.4 "
+        ],
+        "img_footnote": [],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/784085100affac305e519b46316ffadeb5c464b6c04213e2d428a0ed201f4c35.jpg",
+        "img_caption": [
+            "Fig.5 "
+        ],
+        "img_footnote": [],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/d68400a4ec1ba8b87b3a447c794ed2e1b5739e67c94d5b51399b1cbee9ca97d7.jpg",
+        "img_caption": [
+            "Fig.6 "
+        ],
+        "img_footnote": [],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/acb8f9bc33441b8dc107aafdb63dbde61c7d7ccf7b7b48923a944440dd337b5c.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 21
+    }
+]

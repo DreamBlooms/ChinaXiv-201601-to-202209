@@ -1,0 +1,414 @@
+[
+    {
+        "type": "text",
+        "text": "Development of a Reversibly Switchable Fluorescent Protein for Super-Resolution Optical Fluctuation Imaging (SOFI) ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xi Zhang,+‡ Xuanze Chen,5⊥ Zhiping Zeng,§ Mingshu Zhang,\\*Yujie Sun\" Peng Xi,\\*§ Jianxin Peng.+ and Pingyong Xu\\*,‡ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "+stitute ese \"StateKeyLbodtatefs Beijing 10o871,China.These authors contributed equally to this work. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT Reversibly switchable fluorescent proteins (RSFPs) can be effectively used for super-resolution optical fluctuation imaging (SOFl) based on the switching and fluctuation of single molecules.Several properties of RSFPs strongly influence the quality of SOFl images.These properties include (i) the averaged fluorescence intensity in the fluctuation state,(ii) the on/off contrast ratio,(ii) the photostability,and (iv) the oligomerization tendency.The first three properties determine the fluctuation range of the imaged pixels and the SOFl signal,which are of essential importance to the spatial resolution,and the last may lead to artificial aggregation of target proteins.The RSFPs that are currently used for SOFlare low in averagedfsiolt biologicalsupeutiatisdeodooidyuel contrastatiodeaeesitiiofeltiaopiof improvemntinthefluctuationrangeoftheimagedpielsandhigherSOFresolutiocanbebtainedcomparedwithDronpa.Furtherreupe resolutionmaoftcitliucudtaeditsCsiUceldityasmstatt SOFltechaleoss resolution. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/440a5bcf48957480188a1247c0ea1e6b687404d4f8f748ae5a9466ae914a5645.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KEYWORDS:reversibly switchable fluorescent protein $\\cdot$ super-resolution microscopy $\\cdot$ Skylan-S $\\cdot$ protein engineering live-cell imaging $\\cdot$ SOFI ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fe that occur during subcellular processes in the life sciences. Unfortunately,it has encountered certain challenges in discerning smaller cellular organelles because of the resolution barrier imposed by optical diffraction,which leads to poor imaging of objects smaller than approximately half the wavelength of the probe light. Consequently,a super-resolution technique that is ableto overcome the diffraction barrier is highly desirable for further biological research.Various super-resolution techniques have been developed over the past decade, and these techniques can be categorized into three approaches:’ (1）point spread function modulation,which includes such techniques as stimulated emission depletion (STED),² reversible saturable optical fluorescence transitions (RESOLFT), and saturated structured illumination microscopy (SSIM);4(2) single-molecule localization, which includes such techniques as photoactivated localization microscopy $( \\mathsf { P A L M } ) ^ { 5 , 6 }$ and stochastic optical reconstruction microscopy (STORM); and (3) blinking/fluctuation statistics,which includes such techniques as super-resolution optical fluctuation imaging \\*Address correspondence to xipeng@pku.edu.cn, jxpeng@mail.ccnu.edu.cn, pyxu@ibp.ac.cn. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received for reviewNovember11,2014 andaccepted February19,2015. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Published online February 19,2015   \n10.1021/nn5064387 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(SOFI)&9 and spatial covariance reconstructive (SCORE) super-resolution fluorescence microscopy.1° Unlike the other techniques which require specialized equipment, SOFI isa purely calculation-based imaging approach that can achieve a 3- to 4-fold improvement in spatial resolution in all three dimensions using a conventional wide-field microscope.89 sOFl can produce backgroundfree,contrast-enhanced super-resolution images based onthe temporal correlation analysis of fluorescence fluctuation/blinking over hundreds of raw images, which isfarfewerthanthoserequired forPALM/STORM,even under conditions of low signal-to-noise and high background.89,11 This technique initially used quantum dots and organic fluorophores in a carefully controlled cell-toxic buffer,which hindered its application in most living biological settings.1² To overcome this limitation, photochromic stochastic optical fluctuation imaging (pcSOFl) has been developed using a reversibly switchable fluorescent protein (RSFP) known as Dronpa; this technique provides a 2- to 3-fold enhancement in spatial resolution，significant background rejection，markedly improved contrast,and favorable temporal resolution in living cells.13 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Several properties of RSFPs strongly influence the quality of SOFl images.These properties include (i) the averaged fluorescence intensity in the fluctuation state for each pixel among sequential frames and ii) the on/off contrast ratio.These two properties affect the dynamic ranges of the fluorescence fluctuation of the imaged pixels,which,in turn,determine the spatial resolution of the resulting SOFl images.On the one hand,for each pixel,a higher dynamic range of fluorescence fluctuation will produce a higher SOFl signal. On the other hand,a higher dynamic range of the fluorescence fluctuation of one pixel will cause the adjacent pixels to be more strongly affected and produce higher cross-cumulants,meaning that less heterogeneity in the molecular intensity of the adjacent pixels can be obtained. Such heterogeneity is extremely important for SOFl calculations at higher orders,predominantly because SOFlat ordern raises the heterogeneities in molecular intensity to the power of $n ;$ at orders higher than 4,dimmer and/or weakly fluctuating molecules become lost in the background, and the imaged structures lose connection.1' Thus,a high SOFl signal resulting from a high dynamic range of fluctuation will produce a continuous structure by equalizing the blinking heterogeneities. (iii) The third property that affects SOFl quality is the photostability of the RSFPs.SOFl is based on the temporal correlation analysis of fluorescence fluctuations over a sequence of hundreds of raw images.These fluctuations must be sufficiently slow compared with the acquisition time (tens of milliseconds in practice) to be resolvable,1’ and they must be suficiently persistent to be observable over the full measurement duration.Therefore,this technique requires RSFPs to be fairly stable and not to become bleached before the reconstruction of the super-resolution images can be achieved.(iv)The fourth property that affects SOFl quality is the oligo merization tendency of the RSFPs.Dimerization is an undesirable characteristic of fluorescent proteins and may lead to artificial aggregation of the target proteins. At present,several RSFPs have been reported for SOFl super-resolution imaging.14 However, these RSFPs suffer from low averaged fluorescence intensity in the fluctuation state,photostability,and on/off contrast ratios or produce low SOFl signals，which limits the range of application of SOFl in biological superresolution imaging. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In previous studies,we developed several unique ${ \\mathsf { R S F P s } } ,$ referred to as the mGeos family.These RSFPs weredeveloped based onan irreversible green-to-red photoconverter protein,mEos2,by mutating the first position of the tripeptide (HYG) of the chromophore (His62) of mEos2.15 We then developed two real monomeric photoconvertible proteins by examining the residue-residue interactions at two interfaces and mutating the three key residues that may participate in oligomerization，named mEos3.1 and mEos3.2, which are suitable for PALM imaging.16 In the current study,we used the same mutation strategy that was used in the development of mGeos and performed saturation mutations at the first position of the tripeptide in the chromophore (His62) of mEos3.1.We found that many of the mutants yielded green species with no conversion ability.As in the case of mGeos, the His62 mutants of mEos3.1 can be switched on by $4 0 5 \\ \\mathsf { n m }$ light and switched off by $4 8 8 ~ \\mathsf { n m }$ light over many cycles,and they constitute a unique series of green RSFP variants (data not shown).There is one mutant (mEos3.1 H62S) that exhibits very high averaged fluorescence intensity in the fluctuation state, photostability，and on/off contrast ratio,suggesting that it is highly suitable for application in SOFl imaging (Figure S1).We named this mutant Skylan-S (Sky lantern for SOFl) and investigated its photochemical properties and its performance in SOFl imaging. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTSAND DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To evaluate the properties of Skylan-S,we expressed Skylan-S proteins in bacteria and determined the bulk spectroscopic properties of purified Skylan-S;we also tested Dronpa asa control,as its SOFl performance has been previously established.The excitation,emission, and absorption spectra of Skylan-S do not differ significantly from those of Dronpa,as shown in Figures 1a and S2;however,Skylan-S exhibits higher brightness 0 $1 1 5 \\%$ and $1 3 4 \\%$ of the brightnesses of Dronpa and mEos3.1, respectively),as shown in Table 1.To determine the contrast ratio,we measured the fluorescence intensity of E.coli cells expressing Skylan-S under sequential illumination with $4 0 5 \\ \\mathsf { n m }$ light (switching on）and $4 8 8 ~ \\mathsf { n m }$ light (switching off).As shown in ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c30b958462a8e79c26c4e56ceb9e6b06f6cb7bcfc2dacdc6f7b2b1c83f6b63c.jpg",
+        "img_caption": [
+            "Figure1.(a)Excitationand emision spectra (measuredat the excitation maximum).The excitationand fluorescence emission spectral profilesof Skylan-Sand Dronpa displayed similar maxima at approximately 490 and $5 1 0 \\mathsf { n m }$ ,respectively. (b) Contrast ratios of Dronpa and Skylan-S.(c,d) Photoswitching kinetics of Dronpa and Skylan- $s ,$ respectively,measured in E.coli.E.coli cells expressing Dronpa and Skylan-S were continuously excited with $4 8 8 \\mathsf { n m }$ illumination $( 0 . 2 4 \\mathrm { m W } )$ ,and pulsed 0.01 s bursts of illumination with $4 0 5 \\mathsf { n m }$ light at a laser power of $\\mathbf { 0 . 2 m W }$ were used to photoactivate the fluorescent proteins. The fluorescence was recorded continuously for 21 cycles. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a3f235117ca91c6c5d1b5b352a26fdc3f7ff98def19f9ef0efa8eec532cc9ee5.jpg",
+        "table_caption": [
+            "TABLE1. Characteristicsof Dronpa,mEos2,mEos3.1,and Skylan-S: "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>abs.</td><td>emi.</td><td></td><td>ε-maxb</td><td></td><td></td><td>MWoligomerizationd</td></tr><tr><td></td><td>(nm)</td><td>(nm)</td><td>Qyb</td><td>(M−1cm-1)</td><td>brightness (kDa)</td><td></td><td>[Ka]</td></tr><tr><td>Dronpaa</td><td>503</td><td>522</td><td>0.68</td><td>125000</td><td>85</td><td>23.0</td><td>monomer</td></tr><tr><td>mEos2 (G)</td><td>504</td><td>515 513</td><td>0.84 0.83</td><td>56000 88400</td><td>47 73</td><td>42.8 29.4</td><td>weak dimer monomer</td></tr><tr><td>mEos3.1 (G) Skylan-S</td><td>505 499</td><td></td><td>5110.64</td><td>152408</td><td>98</td><td>23.8</td><td>monomer</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "“ Literature values in refs15 and 25.The quantum yield (QY)and extinction coefficient (∈) of Skylan-S were measured in PBS $( \\mathsf { p } \\mathsf { H } = 7 . 4 )$ for their on-states. bThequantumyield (QY)and extinctioncoefient (ε)were measuredinPBS (pH $= 7 . 4 )$ for the on-states of the proteins.Abs:maximum absorption; Emi: maximum emission; QY: quantum yield; $\\varepsilon$ -max:extinction coeficient.The brightness was calculated as extinction coefficient $\\times$ quantum yield/1ooo.Please note that the brightness here is corresponding and near to the peak intensity before photobleaching toa low fluorescence plateau state with fluctuation,and is not the averaged fluorescence intensity in the fluctuation state that is used to reconstruct a SOFl image.‘The molecular weight (MW)was measured via sedimentation equlibrium. $^ d { \\sf K } _ { \\sf d }$ was measured via nonlinear least-squares fiting using the Microcal Origin software package.“Monomer\" indicates a very high $K _ { \\mathrm { d } }$ that was beyond the limits of our instrumentation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure1b,Skylan-S hasa much higher contrast ratio than Dronpa.A comparison of the 405/488 nm-illuminationinduced photoswitching properties of Skylan-S and Dronpa was performed by conducting in vivo photoswitching assays of the two fluorescent proteins expressed in E.coli cells.Dronpa exhibited a level of photodecay of approximately $3 5 \\%$ after 21 switching cycles,whereas Skylan-S retained nearly $1 0 0 \\%$ photostability without any photodecay after the same switching cycles (Figure 1c,d).The extremely high photostability of Skylan-S is expected to allow for sufficient switching cycles for SOFl and observable fluctuations throughout the entire acquisition time. The switching speed properties were calculated from Figure 1c,d and are presented in Supplementary Table1. To determine more specific properties of Skylan-S related to SOFl imaging, time-resolved fluorescence spectroscopy was performed by using the time-correlated single photon counting method.The fluorescent decay time was measured to be 3.94 ns (Figure S3).The relaxation half-time of Skylan-S was 139 min (Figure S4),shorter than Dronpa $( 8 4 0 \\ \\mathsf { m i n } )$ ).15The absorption spectra of purified Skylan-S at on-state and off-state are shown in Figure S5. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Dimerization of fluorescent proteins may cause undesired aggregation of the target proteins.As we mutated only the amino acid inside the mEos3.1 protein,Skylan-S was expected to present the same oligomeric characterasmEos3.1. Indeed,our gel filtrationanalysis,ultracentrifugeanalysisand sedimentation velocity analysis of purified Skylan-S indicated that Skylan-S behaved asa true monomer (Table1and Figures S6 and S7).To further investigate the performance of Skylan-S as a fusion tag in living cells,we observed the localizations of Skylan-S fusion proteins transiently expressed in U2OS cells using confocal microscopy.As shown in Figure 2,Skylan-S can be used to accurately label $\\beta$ -actin,caveolin,clathrin,and microtubule.Next, we investigated a calcium channel, ORAI1,which is expressed in the plasma membrane and is sensitive to the oligomeric character of fluorescent protein tags.16,17 We found that Skylan-S exhibited a similar pattern to that of mEos3.1 without any ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/068fcd3406f339d25f3803666954f13a2571c2865a8413e71ee832ca8e5da526.jpg",
+        "img_caption": [
+            "Figure2.Confocal images of U2OS cells expressing Skylan-S-labeled (a,b) $\\beta$ -actin,(c,d) caveolin,(e,f) clathrin,(g.h) Lifeact, (ij) MAP4,and (k,I) ORAl1: (k) section near the plasma membrane and (l) middle section. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "artificial aggregation (Figure 2k,).These results suggest that Skylan-S is an excellent fusion tag for labeling proteins in living cells. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For SOFl imaging,robust fluctuation of each imaged pixel is necessary.Asmentioned in the introduction, higher fluctuation will produce a higher SOFl signal and a more continuously imaged structure.In every pixel at each imaging time point, the measured intensity is the sum of the intensities contributed by several adjacent RSFP molecules.Thus，the fluctuation is predominantly determined by the photochemical properties of the ${ \\mathsf { R S F P s } }$ ,suchasaveraged fluorescence intensity in the fluctuation state and contrast ratio. Therefore,we examined the pixel fluctuations using fixed cells expressing Skylan-S-labeled Lifeact under various excitation $( 4 8 8 ~ \\mathsf { n m } )$ laserpowersandvarious exposure times. We found that Slylan-S exhibited excellent fluorescence fluctuation,and the pixel fluctuation is strongly dependent on both the intensity of the excitation laser power and the exposure time. Higher excitation intensity will produce a higher dynamic range of fluctuation but also more photobleaching of the Skylan-S (Figure S8).We chose a power of $2 . 8 \\mu \\mathsf { W }$ for the $4 8 8 ~ \\mathsf { n m }$ laser and an exposure time of $4 0 ~ \\mathsf { m s }$ for SOFl imaging using Skylan-S in our homemadeTiRF setup.To makea fair comparison,we also optimized conditions and chose excitation power of $6 . 4 \\mu \\mathsf { W }$ for the $4 8 8 \\mathsf { n m }$ laser with $4 0 ~ \\mathsf { m } s$ exposure time for Dronpa to get as high fluctuation as possible with acceptable photobleaching (Figure S9). Figures3a,b reveals the subtle differences among six consecutive images that arise from the fluctuations of the probes under the optimized imaging conditions.As seen in ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 3c,in the fluctuation state,the fluorescence intensity of the green pixel in Figure 3a of Dronpa varied between 50o and 20oo,whereas the fluorescence intensity in the red pixel of Skylan-S spanned a range of 8000-14000.Then we compared the averaged fluorescence intensity in the fluctuation states of Skylan-S and Dronpa,the red pixel with Skylan-S (11118.1） is much higher than that with Dronpa (1271.9).The higher fluctuation and averaged fluorescence intensity in the fluctuation state of Skylan-S produces a higher second-order cumulant value than that provided by Dronpa at each time point (Figures 3e, S10,and S11),where the second-orderautocorrelation function $G _ { 2 } ( r , \\tau )$ is given by8,9 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { 2 } ( r , \\tau ) = \\sum _ { k } U ^ { 2 } ( r - r _ { k } ) { \\varepsilon _ { k } } ^ { 2 } \\langle \\delta s _ { k } ( t + \\tau ) \\delta s _ { k } ( t ) \\rangle\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\varepsilon _ { k }$ is the constant molecular brightness,which is related to the averaged fluorescence intensity in the fluctuation state for each pixel, $s _ { k }$ isa time-dependent fluctuation, $\\langle \\delta s _ { k } ( t + \\tau ) \\delta s _ { k } ( t ) \\rangle$ denotes the time-averaged correlation value,and $r _ { k }$ and $\\boldsymbol { U } ^ { 2 } ( \\boldsymbol { r } - \\boldsymbol { r } _ { k } )$ represent the probe position and the PSF of the system,respectively.Notably, a higher averaged fluorescence intensity in the fluctuation state can yielda higher SNR and better resolution evenwith lower fluctuation (simulated data,Figure S11). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To quantitatively compare the fluctuation of the two probes,the standard deviation (SD) of the intensity observed from each pixel indicated byan asterisk in Figure 3a,b was derived from 10 s of image acquisition. As shown in Figure 3c,d,the fluctuation SD of Skylan-S was1062.4,which was approximately 4-fold higher than that of Dronpa $( \\mathsf { S D } = 2 4 1 . 1$ ).These results indicate that Skylan-S providesanapproximately 4-fold greater ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/77d7577f408761ed4d006371bc40b924f12e1cc8538c02ccff9b40b010f4782b.jpg",
+        "img_caption": [
+            "Figure3.(a,b) Sixconsecutive imagesacquired infixed U2OScelsexpresing Dronpaand Skylan-S labeled Lifeact, respectively.The scale bar represents $5 \\mu \\mathbf { m }$ .(c) Intensity traces of Dronpa and Skylan-S for the two pixels indicated by green andredasterisksinpanelsaandb.(d)Ahistogramof thestandarddeviationofpanelc.(e)The2nd-ordercumulantsof the fluctuationstatisticsofSkylan-SandDronpa.(f,g)Cumulantdistributions(recordedwith32bitgrayscalevalues)ofallimaged pixels in panels a and b.All cumulant values were calculated at the second order. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "range of fluctuationand dramatically higheraveraged fluorescence intensity in the fluctuation state with respect to its Dronpa counterpart (Figure 3c,d).Then, the cumulant curve (Figure 3e) and absolute second cumculant value distribution (recorded with 32 bit grayscale values) of each pixel were analyzed for both Dronpa and Skylan-S,and the results revealed that Skylan-S yielded a two-order of magnitude larger dynamic range of cumulant values than did Dronpa (Figure 3f,g), leading to richer grayscale and consequently much finer details in the image.1& Furthermore, although Dronpa can give nice reconstructed results shown in Figure S12a,Skylan-S can give much richer structural information suitable for both strong and weak fluorescent signals (Figure S12c,d). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To demonstrate the labeling capability of Skylan-S in living cells and its application in SOFl, the tubulin structure of living U2OS cells was observed using Skylan-S-labeled MAP4.Figure 4 clearly reveals the striking enhancement in resolutionand signal-to-noise ratioachieved after second-order SOFl analysisand the even greater improvement achieved via the third-order cumulants.The resolution was improved approximately 2-fold after third-order SOFl analysis. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Because of the very high averaged fluorescence intensity in the fluctuation state and the excellent photostability of Skylan-S,it was not necessary to perform post-piecewise analysis in blocks of frames,which is often required to compensate for the photobleaching of organic dyes or other fluorescent proteins.19 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Next,we further tested the imaging capabilities of Skylan-S in SOFlusing Skylan-S-labeled clathrin-coated pits $( \\mathsf { C C P s } )$ in living U2OS cells.CCPs are important components of endocytic machinery and responsible for the endocytosis of many cell-surface receptors or their cargos; they are typically 150 to $2 0 0 ~ \\mathsf { n m }$ in diameter.As expected, the SOFl images offered substantially improved resolution compared with conventional images. Under a conventional TIRF microscope, theSkylan-S-labeled CCPs exhibited a diffractionlimited cluster structure with no discernible morphological details (Figure 5a-c).By contrast,as shown in Figure 5d-f,second-order SOFl analysis revealed detailed structures by virtue of the resolution improvement.When third-order SOFl analysis was applied, even better resolution of below $1 0 0 \\ \\mathsf { n m }$ could be achieved (Figure 5g-i).Doughnut-shaped structures ofapproximately $2 0 0 ~ \\mathsf { n m }$ in diameter (with an inner",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/cd9e971c13aed45c727ef89db2093dc074249b10bba5a6cbda710391e0959893.jpg",
+        "img_caption": [
+            "Figure4.FluorescenceandcorrespondingSOFlimagesofliving U2OScelsexpressingSkylan-SfusedwithMAP4.(a)Average of original 8oo fluorescence frames,and the exposure time was $3 0 m s$ per frame.(b) Second and (c) third-order SOFl images obtained through the analysis of the same 8oo frames. $( { \\mathsf { d } } - { \\mathsf { f } } )$ Zoomed-in views of the boxed regions in panels $\\mathsf { a - c } ,$ （204号 respectively.(g)Intensityprofiles of cross sections taken along the two white arrowheads indicated in panels $\\mathsf { a } { - } \\mathsf { c }$ (h)Intensity profiles of cross sections taken along the two white arrowheads indicated in panels $\\mathsf { d \\mathrm { - } } \\mathsf { f } .$ The scale bars represent1 $\\mu \\mathbf { m } \\left( \\mathsf { a - c } \\right)$ and 500 nm (d-f). "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "circle diameter of approximately $1 0 0 \\ \\mathsf { n m }$ ）couldbe clearlydifferentiated.Moreover,thesize distribution of the CCPs that was obtained via third-order SOFl analysis was in quantitative agreement with the results obtained using electron microscopy (EM).2o To further compare the capability of Dronpa and Skylan-S to resolve ultrastructure in long-time live-cell SOFl imaging，we labeled clathrin with these two fluorescent proteins.As shown in Figure S13,defined structure of CCPs could not be resolved by Dronpa-labeled CCP due to its extremely low signal-to-noise ratio (SNR) under ultrafast frame rate (333 frames/second).On the contrary,mature CCPs were resolved as a ring within $1 . 5 \\ s$ using Skylan-S.More importantly,Dronpa showed apparent photobleaching among sequential time points. However,Skylan-S is stable enough duringa $6 0 ~ \\mathsf { s }$ time window (20,000 frames,333 frames/second) to reconstruct 40 SOFl images (Figure S13).These results proved that Skylan-S could be used for long-time live-cell SOFl imaging at higher temporal resolution to resolve ultrastructure,whereas Dronpa is not suitable because of the low SNR and apparent photobleaching. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "CONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "SOFl is a super-resolution imaging technique that uses the temporal correlations of the fluctuations of imaged pixels to generate microscopic images with better resolution than is allowed by the diffraction limit.The fluctuations are produced by the flickering of fluorescent labels.RSFPs can be used for live-cell SOFl imaging, primarily because they can be easily fused with target proteins through genetic manipulation and can be photoactivated over many cycles. Compared with PALM/STORM imaging，SOFl offers several advantages in its suitability for low-SNR acquisition and its relatively lax requirements on labeling density.1' In practice, the image quality provided by SOFl strongly relies on the averaged fluorescence intensity in the fluctuation state,photostability,and contrast ratio of the fluorophore.Although several RSFPs have been previously reported for application inSOFl,theirtetrameric form isnot suitable for the imaging of living cells.14 In this study,we developed a novel monomeric green RSFP, Skylan-S,which is optimized for SOFl and features very high photostability, contrast ratio,and averaged fluorescence intensity in the fluctuation state.As demonstrated in the previous paper by Peter Dedecker etal.,1³ the fluorescence of Dronpa decreases greatly upon high power $4 8 8 ~ \\mathsf { n m }$ laser illumination and reaches a plateau at very low level.Because of the rapid photobleaching,only the fluctuation of the low fluorescence at the plateau state ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/3d999b28c5d9453ca145a26eecffb62b07cd47871061c3ab16522c1425c51d7f.jpg",
+        "img_caption": [
+            "Figure5.SOFlimagesofclathrin-coatedpits (CCPs)inlive U2OScels.(a-c)TIRFMimagesof CCPsofliving U2OScels fused with Skylan-S under its optimal condition.(d-f) Second-order SOFl images. $( \\mathfrak { g - i } )$ Third-order SOFl images.(b,e,h) Zoomed-in viewsoftheboxedregionsinpanelsadandg,espectively.i)Intensityprofilesofcrosssectionstakenalongthewhite arrows indicated in panels c,f,and i.The scale bars represent (a,d,g) $1 0 \\mu \\mathrm { m } , ( \\mathbf { b } , \\mathbf { e } , \\mathbf { h } ) 3 \\mu \\mathbf { m } ,$ and (c,f,i) $5 0 0 \\ \\mathsf { n m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "can be used for SOFl reconstruction.In Table 1,the brightness was calculated as extinction coefficient $\\times$ quantum yield/1ooo at the on-state of the proteins, corresponding to the peak intensity.1³ So there is no very big difference in brightness (fluorescence intensity) between Skylan-S and Dronpa when they are both excited to on-states (the increase in brightness is $1 5 \\%$ in Table1). However,for SOFl imaging, the properties of fluorescent proteins at the plateau (averaged fluorescence intensityand fluctuation) are extremely important for SOFl reconstruction,which is greatly different between Skylan-Sand Dronpa.At the plateau, thereare continuous activation and deactivation of individual molecules,which isan equilibration of the light-induced onand off switching.We attributedynamic changes of the number of activated molecules (or deactivated molecules),as wellas contrast ratio of the on/off-states, to the dynamic range of fluctuation.We speculate that moreindividual molecules of Skylan-S compared with Dronpa are involved in the equilibration of lightinduced on and off switching,and higher contrast ratio of Skylan-S than Dronpa is helpful to generate a wider dynamic range of fluctuation.We also attribute the photostability to switching cycles.Skylan-S is more immune to photobleaching than Dronpa,resulting in more switching cycles that make it more suitable for long-time SOFl imaging.Using Skylan-S,a 4-fold improvement in the fluctuation range of imaged pixels can be obtained (Figure 3d).The morphological structures of tubulin and clathrin-coated pits $( { \\mathsf { C C P s } } )$ in U2OS live cells could be easily obtained via the SOFl technique using Skylan-S.Moreover，in addition to large fluctuation,Skylan-S also demonstrates attractive singlemolecule statistics under high power $4 8 8 \\mathsf { n m }$ irradiation. We have performed PALM localization microscopy with Skylan-S,as shown in Figure S14.High power excitation can drive the Skylan-S molecules to switch between onand off-states,enabling the single-molecule localization. Comparing with the wide-field counterparts,PALM of Skylan-Scan yield much higher resolution $( \\sim 2 0 \\mathsf { n m } )$ and consequently better visualization of the fine details of the actin structure.In the near future,RSFPs that can produce rapid fluctuation but stable average fluorescence signal willbe required for further improving the temporal resolution of SOFl,21 and it will be necessary to develop a stable red RSFP for dual-color SOFlimaging.22 In conjugation with other techniques such as JT-SOFl andspinning disk confocal，high spatiotemporal super-resolution for 3D live cell imaging can also be anticipated.23,24 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "METHODS. ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Protein Expressionand Purification.The mEos2,mEos3.1,Dronpa, and Skylan-S proteins were expressed in the E.coli strain BL21 (DE3)and purified using a Ni-NTA His-Bind resin (Qiagen) followed by a gel filtration step using the Superdex 200 column (GEHealthcare).For further analysis,the purified proteins were concentrated via ultrafiltration and diluted in phosphate buffered saline (PBS). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Measurement of Spectral Properties.The proteins were first diluted in PBS (pH 7.4) to limit their UV absorption at a concentration of $0 . 1 \\ \\mu { \\sf g } / \\mu { \\sf L }$ to allow their quantum yields to beaccurately measured.Then,the absorption and excitation/ emission spectra were immediately recorded using an Agilent 8453 UV/V spectrophotometer and an Edinburgh Instruments FLS920 spectrometer,respectively.For the acquisition of emission spectra,Skylan-S was irradiated with $5 0 3 \\ \\mathsf { n m }$ light. To determine the fluorescence excitation spectra,the fluorescence was recorded at $5 1 3 \\mathsf { n m }$ .The fluorescence quantum yields and the molar extinction coefficients at the absorption maxima were determined relative to the reported value formEos2. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Cell Culture,Transfection,and Fixation.U2OS cells were cultured in McCoy's 5A Medium Modified (Gibco) supplemented with ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$1 0 \\%$ fetal bovine serum and were maintained at $3 7 ^ { \\circ } \\mathsf { C }$ and $5 \\%$ ${ \\mathsf { C O } } _ { 2 }$ in a humidified incubator.The cells were then transiently transfected using Lipofectamine 2ooo (lnvitrogen) following the manufacturer's protocol.Five hours after transfection,either the cells were trypsinized and plated at lower density on clean coverslips (Fisher Scientific) to induce spreading for another $2 4 \\ h$ in complete medium without phenol red for live-cell imaging or the cells were fixed with $4 \\%$ (w/v) para-formaldehyde and $0 . 2 \\%$ glutaraldehyde in PBS for 15 min at $3 7 ^ { \\circ } C ,$ washed three times with PBS,and stored in PBS until fixed-cell imaging. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Analysis of the Switching Kinetics of Skylan-S.To analyze the switching kinetics of Skylan-S in E.coli,we used a homemade TIRF microscope to acquire images. Skylan-S proteins were expressed in the E.coli strain BL21 (DE3),and the E.coli cells were cultured in LB liquid medium at $3 7 ^ { \\circ } \\mathsf C$ foramplification. Then,the medium was changed to PBS $\\left( \\mathsf { p H } \\right) = 7 . 4 \\cdot$ .Tokeep the E.coli cells immobilized,cleaned glass coverslips were sequentially coated with $1 0 \\mu \\mathsf { L }$ of Skylan-S-expressing E. coli in PBS, $1 0 \\mu \\lfloor$ of $1 0 \\%$ acrylamide, $1 \\mu \\lfloor$ of TEMED,and $\\mathsf { I } \\mu \\mathsf { L }$ of $1 0 \\% \\mathsf { A P }$ and were then covered with another glass coverslip for 30 min at room temperature.E.coli cells expressing Dronpaand Skylan-S were continuously excited with $4 8 8 ~ \\mathsf { n m }$ light $( 0 . 2 4 ~ \\mathrm { m W } )$ ，and pulsed O.01 s bursts of illumination with a $4 0 5 \\ \\mathsf { n m }$ laserat a power of $0 . 2 \\mathsf { m W }$ were used to photoactivate the fluorescent proteins.The fluorescence was recorded continuously for 21 cycles.We repeated on/off switching until we observed considerable photobleaching of Dronpa.Throughout all experiments,the scanning speed,gain,amplification,and offset value were held constant.The ROl value was identified and read out using ImageJsoftware (NiH) andanalyzed using OriginPro 8. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Measurement of Contrast Ratio.The contrast ratio was the mean value measured based on $\\boldsymbol { n }$ cycles $( n > 3 )$ in Figure 1c,d.For each cycle, the ratio was calculated as the maximum fluorescence value (switching on） divided by the minimum fluorescence value (switching off). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Relaxation Half-Time Measurement.The protocol was used as described before.15 Purified protein of Skylan-Swas first photoswitched to its off-states using a $6 0 \\mathsf { m w } 4 8 8 \\mathsf { n m }$ LED.Then, the relaxation curves from off-state into thermal equilibrium state were obtained using a Varioskan Flash spectral scanning multimode reader(Thermo Scientific) with 96-well optical bottom plates (Nunc) forapproximately $2 0 \\mathsf { h }$ at $2 5 ^ { \\circ } \\mathsf { C } .$ A weak blue light $( 4 9 0 \\mathsf { n m } )$ wasused to excite the sample,and the fluorescence of the sample at $5 1 3 \\mathsf { n m }$ was recorded every 4 min during the period.Then,the determination of relaxation half-time for Skylan-S was based on single exponential function fitting of the curve. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Absorption Spectra of Skylan-S in On/Off-States.The purified Skylan-S protein was diluted in PBS $\\left( \\mathsf { p H } = 7 . 4 \\right)$ andanappropriate powerof $4 8 8 ~ \\mathsf { n m }$ LED was used to partially photoswitch the protein to the off-state.The absorption spectra were immediately recorded using an Agilent 8453 UV/V spectrophotometer in the on-state and off-state, respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Time-Resolved Fluorescence Spectroscopy.Time-resolved fluorescence spectroscopy was performed by using the time-correlated single photon counting method.2 Fluorescence from Skylan-S molecules $\\mathrm { ( p } \\mathsf { { H } } \\ 7 . 4$ in PBS)was registered using an Edinburgh Instruments FLS980 spectrometer at room temperature.The excitation and emission wavelength were set to be 473.4 and $5 1 3 \\mathsf { n m }$ 1 respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Analysisof Oligomerization.For oligomerizationanalysis,sizeexclusion chromatography was first performed using a Superdex 200 column and an Akta purifier system (GE Healthcare) to confirm the oligomeric states of Skylan-S.Before chromatography, the proteins were concentrated to $3 { - } 4 ~ \\mathrm { m g / m L }$ The flow rate was setto 0.5 mL/min.Protein absorption wasmonitored at $2 8 0 \\mathsf { n m }$ . All measurements were performed at $1 6 ^ { \\circ } C$ Then,the protein was subjected to analytical ultracentrifuge assays. Sedimentation equilibrium experiments were performed using a Beckman Optima XL-l analytical ultracentrifuge at $2 0 \\ ^ { \\circ } \\mathsf C$ （2 Purified proteins at 8to $2 0 ~ \\mu \\mathsf { M }$ were loaded into 6-channel centrifugation cells and normalized to the corresponding dialysis buffer (PBS,pH 7.4).The samples were sequentially centrifuged at 10000,15 000,and 20 000 rpm.The data were analyzed via nonlinear least-squares analysis using the Microcal Origin software package supplied by Beckman.The solvent density,partial specific volume,and calculated molecular weight used in the analysiswere determined using SEDNTERP $\\mathsf { v } .$ 1.01.To perform sedimentation velocity analytical ultracentrifugation,we purified proteins at concentrations ranging from 280 to $3 2 0 \\mu { \\mathfrak { g } }$ and then loaded them into centrifugation cells and normalized them to the corresponding dialysis buffer (PBS, ${ \\mathsf { p H } } = 7 . 4 ,$ .The theoretical molecular weight of the monomer Skylan-S with the $6 \\times$ His tag was approximately $2 3 . 8 \\mathsf { k D a }$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Imaging System and Acquisition.SOFl imaging of Skylan-S was performed as previously described.15,16 A commercial optical microscopy system (Olympus IX-71; Olympus,Japan) with two high-NA oil objectives( $1 0 0 \\times$ ，NA 1.49 and $1 5 0 \\times$ ，1.45NA Olympus PLAN APO with internal $1 . 6 \\times$ magnification lenses in the microscope system) were used for imaging acquisition.A $4 0 5 \\mathsf { n m }$ laser and a $4 8 8 \\mathsf { n m }$ laser(Coherent,Santa Clara,CA,USA) were used to excite the Skylan-S with which the target sample was labeled.A long-pass filter $( 5 0 0 - 5 5 0 \\mathsf { n m } )$ was placed before an electron-multiplying charge-coupled device (EMCCD) camera (Andor iXon DV-897 BV).The maximum power near the back pupil of the objective was $8 ~ \\mathrm { m W }$ for the $4 0 5 \\ \\mathsf { n m }$ laser (LASOS) and $2 . 5 \\mathsf { m W }$ for the $4 8 8 \\mathsf { n m }$ laser (Cobolt Dual Calpos).For longtime live-cell SOFl imaging,clathrin were labeled with Skylan-S and Dronpa,and sequential frames of Dronpa-CCP and SkylanS-CCP were acquired using TIRF microscope ( $1 5 0 \\times ,$ 1.45 NA objective and internal $1 . 6 \\times$ magnification lenses in the microscope system) under the same experimental conditions,except for optimized 488 laser powers for each protein to get high fluctuation.Each sequential 5oo frames were used to reconstruct a SOFl image at different time points (Figure S13). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Data Processing.To correct fordrift during imaging,we first analyzed the raw data using a subpixel drift-correction algorithm based on discrete Fourier transforms and nonlinear optimization implemented in self-reorganizing code in MATLAB 2013a (Mathworks Inc., USA).Then, SOFl processing was implemented by calculating the spatiotemporal cross-cumulants between adjacent pixels.After balancing,the nonlinear brightness response in SOFl images can be linearized and the spatial resolution can be further improved linearly with the cumulant order.In this Article，second-，third-，or fourth-order crosscumulant balanced SOFl (bSOFl) was applied to 500-1000 frames using the_shortest accessible lag time,as shown in Figures3-5.8,9, ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Conflict of Interest:The authors declare no competing financial interest. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgment. This projectwas supported by the National Basic Research Program $( \" 9 7 3 ^ { \\prime \\prime }$ Program) of China (2013CB910103, 2010CB933901，and 2011CB809101)，the National Instrument Development Special Program (2013YQ03065102),the National Natural Science Foundation of China (31170818,31370851, 61178076,31327901,61475010,and 31300612),a Project of the Chinese Academy of Sciences (XDB08030202)，and the Beijing Natural Science Foundation,China (7131011).We thank Dr.J.Pei, K.Shi,and L.Zou (College of Chemistry and Molecular Engineering,Peking University, China) for the time-resolved fluorescence spectroscopymeasurement and dataanalysis. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information Available:Supplementary figures and figure legends.Thismaterial isavailable free of charge via the Internet at http://pubs.acs.org. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "REFERENCESAND NOTES ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1.Hell,S.W.Far-Field Optical Nanoscopy.In Single Molecule Spectroscopy in Chemistry,Physics and Biology;Springer: Heidelberg, Germany,2010; pp 365-398.   \n2.Hell, S.W.; Wichmann,J.Breaking the Diffraction Resolution Limit by Stimulated Emission:Stimulated-EmissionDepletion Fluorescence Microscopy. Opt. Lett.1994,19, 780-782.   \n3．Grotjohann,T.; Testa, I.; Leutenegger, M.; Bock, H.; Urban, N.T.; Lavoie-Cardinal,F.; Willig, K.I.; Eggeling, C.; Jakobs,S.; Hell,S.W. Difraction-Unlimited All-Optical Imaging and ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "208.   \n4.Gustafsson,M.G.L.Nonlinear structured-illumination microscopy: Wide-Field Fluorescence Imaging with Theoretically Unlimited Resolution. Proc.Natl.Acad.Sci. U.S.A. 2005,102,13081-13086. 5.Betzig,E.; Patterson,G.H.; Sougrat,R.; Lindwasser,O.W.; Olenych,S.; Bonifacino,J.S.; Davidson,M.W.; LippincotSchwartz,J.;ess,H.F.ImagingIntracellularFuorescent Proteins at Nanometer Resolution. Science 2006,313, 1642-5. 6.Hess，S.T.;Girirajan,T.P.K.； Mason,M.D.Ultra-High Resolution Imagingby Fluorescence Photoactivation LocalizationMicroscopy.Biophys.J.2006,91,4258-4272. 7.Rust,M.J.； Bates,M.； Zhuang，X. Sub-Diffraction-Limit Imaging by Stochastic Optical Reconstruction Microscopy (STORM). Nat.Methods 2006,3,793-796.   \n8.Dertinger;Colyer,R.;lyer,G.;Weis,S.;EderleinJ.Ft, Background-Free,3D Super-Resolution Optical Fluctuation Imaging (SOFl).Proc.Natl.Acad.Sci.U.S.A.2009, 106,22287-22292.   \n9.Dertinger,T.;Colyer,R.;Vogel,R.; Heilemann,M.;Sauer,M.; Enderlein,J.;Weiss,S.Superresolution Optical Fluctuation Imaging (SOFl).In Nano-Biotechnology for Biomedical and Diagnostic Research；Springer: Dordrecht,The Netherlands,2012; pp 17-21.   \n10.Deng,Y.; Sun,M.; Lin,P.-H.; Ma,J.; Shaevitz,J.W.Spatial Covariance Reconstructive (SCORE) Super-Resolution Fluorescence Microscopy. PLoS One 2014,9,e94807.   \n11.Geissbuehler,S.; Dellagiacoma, C.; Lasser,T. Comparison between SOFl and STORM. Biomed. Opt. Express 2011,2, 408-420.   \n12.Xu,J.;Chang,J.;Yan,Q.;Dertinger,T.;Bruchez,.;Weiss,S. LabelingCytosolicTargetsinLiveCellswithBlinking Probes.J.Phys. Chem.Lett.2013,4,2138-2146.   \n13.Dedecker，P.；Mo,G.C.;Dertinger,T.；Zhang,J.Widely Accessible Method for Superresolution Fluorescence Imaging of Living Systems.Proc. Natl.Acad.Sci. U.S.A.2012,109, 10909-14.   \n14.Moeyert,B.;NuyBh,N;DerEoa K.; Mizuno,H.; Van Meervelt,L.; Hofkens,J.; Dedecker,P. Green-to-Red Photoconvertible Dronpa Mutant for Multimodal Super-Resolution Fluorescence Microscopy. ACS Nano 2014,8,1664-1673.   \n15.Chang,H.;Zhang,M.;JiW.;Chen,J.;Zhang,Y.;u,B.;u,J; Zhang,J.； Xu,P.； Xu,T.A Unique Series of Reversibly Switchable Fluorescent Proteins with Beneficial Properties for Various Applications.Proc.Natl. Acad.Sci. U.S.A.2012, 109, 4455-60.   \n16.Zhang,M.;Chang,H.; Zhang,Y.;Yu,J.;Wu,L.;Ji,W.; Chen,J.; Liu,B.;Lu,J;LuYetal.RationalDesignofrue Monomeric and Bright Photoactivatable Fluorescent Proteins. Nat. Methods 2012,9,727-9.   \n17.HanL;Zhao,Zhang,X;Peng,J.;Xu,uanS.;ang, M.RFPTags for Labeling Secretory Pathway Proteins. Biochem.Biophys. Res.Commun.2014,447,508-512.   \n18.Gonzalez,R.C.; Woods,R.E.;Eddins,S.L.Digital Image Processing Using MATLAB;Prentice Hall,Upper Saddle River, NJ,2004.   \n19.Dertinger,T.; Heilemann,M.; Vogel,R.; Sauer,M.; Weiss,S. Superresolution Optical Fluctuation Imaging with Organic Dyes.Angew. Chem., Int.Ed.2010,122,9631-9633.   \n20.Heuser, J.E.; Anderson,R.G.Hypertonic Media Inhibit Receptor-Mediated Endocytosis by_ Blocking ClathrinCoated Pit Formation.J. Cell Biol.1989,108,389-400.   \n21.Watanabe,T.M.;Fukui, S.; Jin,T.;Fujii,F.; Yanagida,T. Real-Time_Nanoscopyby UsingBlinkingEnhanced Quantum Dots.Biophys.J.2010,99,L50-L52.   \n22.Gallina,M.E.; Xu,J.; Dertinger,T.;Aizer,A.; Shav-Tal,Y.; Weiss，S.Resolving the Spatial Relationship between Intracellular Components by Dual Color Super Resolution Optical Fluctuations Imaging (SOFl). Opt. Nanosc.2013,2, 1-9.   \n23.Chen,X.; Zeng, Z.;Wang，H.; Xi,P.Three Dimensional Multimodal Sub-Diffraction Imaging with Spinning-Disk Confocal Microscopy using Blinking/Fluctuation Probes. Nano Res.2015,10.1007/s12274-015-0736-8.   \n24.Zeng,Z.; Chen,X.; Wang, H.; Huang,N.; Shan,C.; Zhang, H.; Teng，J.；Xi，P.Fast Super-Resolution Imagingwith Ultra-High Labeling Density Achieved by Joint Tagging Super-Resolution Optical Fluctuation Imaging. Sci. Rep. 2015,5,8359.   \n25．Andresen, M.; Stiel,A.C.; Folling,J.; Wenzel, D.; Schonle, A.; Egner,A.; Eggeling, C.; Hell,S.W.; Jakobs,S.Photoswitchable Fluorescent Proteins Enable Monochromatic Multilabel Imaging and Dual Color Fluorescence Nanoscopy. Nat. Biotechnol.2008,26,1035-1040.   \n26．Habuchi, S.; Ando, R.; Dedecker,P.; Verheijen,W.; Mizuno, H.;Miyawaki,A.;Hofkens,J.Reversible Single-Molecule Photoswitching in the GFP-Like Fluorescent Protein Dronpa.Proc.Natl. Acad.Sci. U.S.A.2005,102,9511-6.   \n27．Dertinger,T.; Colyer,R.; Vogel,R.; Enderlein,J.; Weiss,S. Achieving Increased Resolution and More Pixelswith Superresolution Optical Fluctuation Imaging (SOFl). Opt. Express2010,18,18875-18885.   \n28．Geissbuehler, S.; Bocchio, N.L.; Dellagiacoma, C.; Berclaz, C.; Leutenegger,M.; Lasser,T.Mapping Molecular Statistics with Balanced Super-Resolution Optical Fluctuation Imaging (bSOFl). Opt. Nanosc. 2012,1,1-7. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE ",
+        "text_level": 1,
+        "page_idx": 8
+    }
+]

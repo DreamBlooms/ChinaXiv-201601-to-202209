@@ -1,0 +1,239 @@
+吴祺，余涛，林兆祥等．2016．海南电离层F区不规则体的气辉观测.地球物理学报,59(1)：17-27,doi:10.6038/cjg20160103.  
+Wu Q,Yu T，Lin Z X，et al.2016．Night airglowobservations to iregularities in theionospheric Fregionover Hainan.  
+Chinese J. Geophys. (in Chinese),59(1):17-27,doi:10.6038/cjg20160103.
+
+# 海南电离层F区不规则体的气辉观测
+
+吴祺²，余涛2,＊，林兆祥1，夏醇亮²，左小敏²，王霄4
+
+1中南民族大学电子信息工程学院，武汉430074  
+2中国地质大学地球物理与空间信息学院，地球内部多尺度成像湖北省重点实验室，武汉430074  
+3国家卫星气象中心，北京100081  
+4中国科学院空间科学与应用研究中心，北京100081
+
+摘要 本文利用子午工程海南富克站 $( 1 9 . 5 ^ { \circ } \mathrm { N } , 1 0 9 . 2 ^ { \circ } \mathrm { E } )$ 全天空气辉成像仪 $6 3 0 \ \mathrm { n m }$ 波段的气辉图像，通过对气辉原始观测资料进行图像增强、方位校正和图像投影等预处理，得到可清晰识别电离层等离子体泡的图像产品，获得了我国海南地区首次电离层等离子体泡的光学观测结果.在此基础上，分析了等离子体泡的形状、结构、变化、空间尺度和运动速度这些基本特征.研究显示：典型的等离子体泡形状为南北分布的条状，常出现分叉现象，大部分情况整体向西倾斜；东西方向的尺寸为几十到几百公里；典型漂移速度为 $5 0 \sim 1 5 0 \mathrm { ~ m ~ } ^ { \cdot } \mathrm { ~ s ~ } ^ { - 1 }$ .统计了2013年9月至2014年5月等离子体泡观测数据，发现其出现的典型季节为9—10月和2—4月、典型时间为日落后 $1 \sim 2$ 个小时并持续 $1 { \sim } 4$ 个小时左右.
+
+关键词电离层等离子体不规则结构；等离子体泡；气辉成像仪doi:10.6038/cjg20160103 中图分类号 P352收稿日期2014-08-31，2015-11-09收修定稿
+
+# Night airglow observations to irregularities in the ionospheric F region over Hainan
+
+WUQi $^ { 1 , 2 }$ ，YU Tao $^ { 2 , 3 }$ \* ，LIN Zhao-Xiang¹，XIA Chun-Liang²，ZUO Xiao-Min²，WANG Xiao4
+
+1CollegeofElectronicsand InformationEngineeing，South-CentralUniuersityfor Nationalities，Wuhan 43004，China   
+2 Hubei Subsurface Multi-scale Imaging Key Laboratory，InstituteofGeophysics and Geomatics,   
+ChinaUniuersityofGeosciences，Wuhan 43oo74，China   
+3National Satellite Meteorological Center，Beijing 1ooo81，China   
+4 National Space Science Center，Chinese Academy of Sciences，Beijing looo81，China
+
+AbstractIn this paper，airglow images of $6 3 0 ~ \mathrm { n m }$ emission are taken by an all sky imager in the Meridian Project Hainan Fuke Station ( $\mathrm { 1 9 . 5 ^ { \circ } N }$ ， ${ 1 0 9 . 2 ^ { \circ } \mathrm { E } } )$ . The data processing including image enhancement，azimuth correction and image projection is performed to identify ionospheric plasma bubbles and to get clear image products. The optical observation of ionospheric plasma bubbles is the first of its kind in Hainan.
+
+With the optical measurements from September 20l3 to May 2O14，the spatial structure and its evolution， and the zonal drifts of plasma bubbles are analyzed. According to these observations，the plasma bubbles usually appear $1 \sim 2$ hours after the sunset and last for $1 \sim$ 4 hours. September and October and February to April are the typical periods when the plasma bubbles appear. The shape of the plasma bubbles is just like stripes，which spread from north to south. Gradually the plasma bubbles maybe develop some bifurcations that look like plumage, and usually lean to the west. The size of the plasma bubbles in the east-west direction ranges from dozens to hundreds of kilometers. It is related to the seasonal variation. The west wall of the plasma bubbles is more steady than the east wall in the process of drifting. The typical velocity of east-west motion is in the range of $5 0 \sim 1 5 0 \mathrm { ~ m ~ } ^ { \cdot } \mathrm { ~ s ~ } ^ { - 1 }$ . The analysis reveals the main optical observing characteristics of ionospheric plasma bubbles in Hainan.
+
+KeywordsIonospheric irregularities；Plasma bubbles；Airglow imager
+
+# 1 引言
+
+# 1. 1 等离子体泡的研究意义
+
+日落之后，由于瑞利-泰勒不稳定性（RayleighTaylorInstability），F区底部产生大尺度的等离子体耗空并向上抬升，这种大范围的等离子体耗空在电场的作用下，垂直于地球磁力线向上抬升，一直延伸到顶部电离层.等离子体耗空区域在抬升的过程中，会沿磁力线扩展到磁赤道附近的低纬度地区，并形成各种空间尺度的等离子体耗空区.这种多尺度的等离子体耗空区在无线电雷达探测的高度-时间-强度图中呈现出羽状不规则结构(plumeirregulatities）（WoodmanandLaHoz，1976），在电离层气辉的光学成像图中则可看到大块的光学暗区（darkband)，即等离子体泡(plasmabubble)（Kelley，1989；Haerendel，1973；Makela，2006).
+
+无线电波信号经过这些包含各种尺度电离层不规则体的等离子体泡区域时，特定频率的电磁波就会形成幅度和相位的闪烁现象，因此等离子体泡通常会对高频(HF)通信、星地通信、GPS导航定位产生严重影响，观测和研究等离子体泡的规律，不仅有重要的科学意义，也有重要的应用价值.
+
+# 1.2等离子体泡的无线电观测手段
+
+目前对电离层等离子体泡的研究，主要有无线电和光学两大类方法.在地面利用电离层测高仪、非相干散射雷达以及GNSS(GlobalNavigationSatelliteSystem)卫星等信号反射或穿过不规则结构区域后的回波信号变化，可间接反映等离子体泡的区域大小以及运动变化规律.在探测到等离子体泡的时候，电离层测高仪的频高图上F区回波的描记不是一条线，而是弥散的一片，表明在该高度范围内的电离层不是稳定的层状.根据这种特征，Booker和Wells(1938)首次通过分析测高仪频高图资料，研究了低纬地区的电离层等离子体泡.非相干散射雷达通过发送频率范围由几十兆到数百兆的电磁波，可以探测各种尺度的不规则体.Woodman和LaHoz(1976)通过秘鲁Jicamarca非相干散射雷达观测到在夜间有密度极低的空腔结构，此结构如气泡一般由F层底部逐渐向上，进入顶部，同时在空腔周围逐渐发展出羽毛状的不规则结构，这种结构被称为上升的等离子体泡（也称羽毛结构）.利用地面密集的GNSS站网或者单站GNSS接收机短基线阵，通过监测GNSS信号闪烁的出现和持续的时间，以及区域内各GNSS接收机闪烁信号的时间规律，可以反演和推算出引起GNSS信号闪烁的电离层等离子体泡的尺度和漂移速度（徐继生等，2006；Lietal.，2007，2010；陈艳红等，2008；Liuetal.，2015).除了地面的探测手段之外，还有通过卫星和火箭手段对电离层等离子体不规则结构进行探测的方法.该方法是通过在卫星上安装专用的仪器进行电离层等离子体参数测量，如质谱仪、等离子体朗缪尔探针等，获取电离层等离子体密度、温度和运动速度等信息（Huang et al.，200l；Burke et al.，2004).
+
+在我国低纬地区，我国学者利用无线电手段对等离子体泡做了大量的研究.王国军等（2007)利用海南电离层测高仪研究了扩展F的出现率，Zhu等(2015)研究了扩展F和F层底部扰动结构的相关关系；郦洪柯等(2013)结合三亚VHF雷达和GNSS短基线阵观测给出了不同尺度F层不规则体具有类似的东西向运动特征；Li等（2012，2011a，2011b），Ning等（2012）利用三亚VHF雷达对电离层不规则体开展多波束扫描探测实验，获得了我国低纬电离层F区羽毛结构(plume)随时间的演变的规律，并追踪了羽毛结构初始发生地，发现电离层F区羽毛结构沿经度以几百公里甚至几十公里的间距周期分布；胡连欢等（2013，2014)综合利用三亚站多种手段研究了不同季节和不同地磁活动条件下F层不规则体特征和机理
+
+# 1.3 等离子体泡的光学观测手段
+
+上述无线电探测手段对电离层不规则体的观测有全天候、连续性好的优势和特点，但是除了快速扫描的相控阵雷达，大部分无线电手段主要是不规则体的单点探测，无法很好地获得不规则体的整体结构.光学观测手段是大范围、低成本观测电离层等离子体泡的有效手段，其主要通过对电离层高度上某特定波长的气辉进行成像观测，得到与气辉发射强度相关的等离子体密度和等离子体运动等信息，可以反映电离层等离子体泡的位置、结构、大小和运动速度等多种信息，但是观测容易受天气（明月，多云）影响，并且不能很好地获得大范围不规则体的细节结构.利用光学手段与无线电手段相结合，能够更好地监测和研究电离层等离子体泡.
+
+光学手段最早是利用光度计和法布里-珀罗干涉仪来对气辉进行观测，它们都只能获得气辉一个点的强度信息.为了获得二维的信息，要通过这些仪器的扫描来完成，这种方式使观测通常难以分辨空间和时间的变化信息，并且无法给出等离子体泡的整体信息.后来出现了高敏相机（PetersonandKieffaber，1973)，但是它需要的积分时间太长（ $\mathrm { { ( 1 0 ~ m i n ) } }$ ，得到的数据没有很好的时间分辨率.微光摄像机也被用于气辉的观测（MendeandEather，1976），它有很好的时间分辨率，但是它只能用于比较亮的辉光（如极光和OH波段的辉光），不能很好地用于等离子体泡的观测上.当高灵敏CCD被应用到全天空气辉成像系统中（Baumgardneretal.，1993），全天空气辉成像仪具有了很宽的视场，可以连续进行多波段的拍照，并形成数字化的图像，等离子体泡的光学观测得到了很大的推进.Weber等（1978)最早观测到了等离子体泡的光学图像，接着各国学者都通过光学手段对等离子体泡进行了大量的研究工作，包括分析了等离子体泡的空间尺度、形态特征、漂移速度，以及和其他观测手段的对比等研究工作.
+
+在这些研究中有一些有代表性的研究成果如下：Mukherje等（1998)的研究表明 $2 4 4 ~ \mathrm { M H z }$ 卫星闪烁与等离子体泡有直接关系；Otsuka等（2002，2004)通过等离子体泡的光学图像发现了它在共轭的南北半球特征相似，并且分析了等离子体泡的雷达数据和光学数据之间的对应关系；Haase等(2011)通过等离子体泡的光学图像与GPS数据的比对，分析了它对GPS信号产生的影响；Kelley等(2002，2003)的研究中除了垂直地面向上的拍摄手段，还有一种是沿着磁力线切线指向赤道的拍摄方式，这样得到的是单个磁通管的等离子体泡信息，可以获得更加精细的结构，还用地面拍摄的光学数据与卫星拍摄的光学数据进行了对比，发现它们有好的对应关系，Makela等(2004)通过两年的数据统计分析了等离子体泡的季节变化规律，
+
+在海南地区，F层不规则体已有很多重要研究，但是对于不规则体的形态学研究较少.如在春秋季，三亚VHF雷达观测发现在F层不规则体出现时，E层不规则体强度减弱甚至消失，同时电离层谷区不规则体发生.Li等（2011a，2011b）认为低纬E层和谷区不均匀体的发生与F层不规则体的空间结构形态密切相关，赤道F层不规则体分裂成东向/西向倾斜的结构，产生极化电场map到低纬触发（抑制)了谷区(E层)不规则体.然而，他们缺少另外的研究手段来获取同时的F层不规则体时空分布特征证实这一推断.光学观测手段可以很好地获得等离子体泡的边界及整体行为，用来分析等离子体泡的形态、漂移等特征.
+
+目前在我国尚未开展利用光学成像手段对电离层等离子体泡进行研究的工作.随着子午工程的顺利实施和运行，我国地基空间物理观测能力得到显著的提升.子午工程观测站中的全天空气辉成像仪可以对高空大气夜气辉进行多波段观测，利用该数据研究中高层大气的重力波活动，并取得了丰硕的成果(Lietal.，2011b，2013b).我国南方地区是电离层不规则体和闪烁高发区，由于海南站的地理位置特殊，是我国靠近磁赤道的低纬台站，且有多种观测设备长期运行，非常有利于电离层等离子体泡的光学观测及多手段对比研究，综上所述利用海南站的气辉成像仪来观测等离子体泡是很有必要的.
+
+# 2观测与预处理
+
+# 2.1 光学观测原理
+
+气辉是大气层中一种微弱发光现象，全球全时段都存在天空中，夜间出现的相对明显，称为夜气辉.夜气辉的形成源于一些原子（O，Na，OH等），它们在白天吸收了太阳辐射能量，在夜晚通过光化反应以辉光的形式辐射出来，等离子泡的信息主要从氧原子 $6 3 0 \ \mathrm { n m }$ 的辐射波段的气辉中获得，它的光化反应如式(1)和（2），
+
+$$
+\mathrm { O } _ { 2 } ^ { + } + \mathrm { e } {  } \mathrm { O } { + } \mathrm { O } ^ { \ast } ( { } ^ { 1 } \mathrm { D } ) ,
+$$
+
+$$
+\mathrm { O ^ { \ast } \ ( ^ { 1 } D ) \mathrm { \to 0 ( ^ { 3 } P ) + h v . } }
+$$
+
+$\mathrm { O I 6 3 0 . 0 \ n m }$ 辐射来自氧分子与电子的分解和结合过程，辐射强度依赖氧原子和氧分子浓度的乘积 $( n ( \mathrm { O } ^ { + } ) \times n ( \mathrm { O } _ { 2 } ) ) ,$ ，它的最大辐射区域是 $\mathrm { F } _ { 2 }$ 层峰值以下的区域 $( 2 5 0 \sim 3 0 0 ~ \mathrm { k m } )$ .是 $\mathrm { F } _ { 2 }$ 层最强的气辉
+
+辐射线.
+
+相比于天空其他光源，气辉亮度非常低，需要用敏感的仪器才能发现它，现在用于观测气辉的全天空成像系统主要由鱼眼镜头、远心光路系统、滤光片和CCD相机组成，如图1.鱼眼镜头有大视场 $( { 1 8 0 } ^ { \circ } )$ ，可以获得全天空 ${ 1 8 0 } ^ { \circ }$ 范围的气辉信息.滤光片可以对气辉辐射进行过滤，得到 $6 3 0 \ \mathrm { n m }$ 波段的气辉信息，滤光片带宽很低，通常只有 $1 \sim 2 \ \mathrm { n m }$ ，这样能够更好地滤除其他背景辐射，获得所需 $6 3 0 \ \mathrm { n m }$ 波段的气辉信息.窄带滤光片采用干涉技术，光线的入射角度对中心波长的影响很大，而系统前端的鱼眼镜头会使入射光线有很大的角度，因此在鱼眼镜头和滤光片之间需要加上远心光路系统，可以对光线进行准直，从而满足滤光片的角度要求.最后，CCD相机由成像镜头和科学级CCD组成，全天空气辉成像仪用来观测等离子体泡属于弱光成像，需要CCD有很高的灵敏度，较低的暗噪声.由于通过窄带滤光片得到的夜气辉强度很低，成像需要长时间曝光来得到等离子体泡信息，长时间曝光会使CCD的温度升高，热噪声也会影响成像图像的质量，这就需要CCD带有制冷系统，来降低热噪声对成像的影响.通过这套系统可以得到二维数字化的气辉图像.
+
+海南富克站 $( 1 9 . 5 ^ { \circ } \mathrm { N } , 1 0 9 . 2 ^ { \circ } \mathrm { E } )$ 是我国靠近磁赤道的台站，有利于等离子体泡的观测.海南富克站安装的全天空成像仪由加拿大的KEOScientificCo.LTD制造，采用科学级CCD（分辨率 $1 0 2 4 \times$ 1024，16位深，暗电流 $< 0 . \ 0 5$ 电子/象元·秒，可以制冷到一 $7 0 ~ ^ { \circ } \mathrm { C } )$ ，焦距 $\mathrm { f 2 4 ~ m m }$ ，光圈F4的鱼眼镜头， $5 5 7 . 7 \pm 2 \ \mathrm { n m } , 6 3 0 \pm 2 \ \mathrm { n m } , 7 7 7 . 4 \pm 2 \ \mathrm { n m }$ 等多个波段可自动切换的滤光片，并且带有控制系统，进行人工观测、自动观测或远程控制观测，可以很好地用于我国海南等离子体泡的气辉观测.
+
+![](images/989a8c2c0e5c0e9511c7b31a9194d734c02e952e19fc7b2fadce3c1ddec933ef.jpg)  
+图1全天空成像仪的结构
+
+# 2.2气辉数据预处理
+
+科学级CCD最终记录下曝光时间内气辉层的积分图像.但这些原始数据还观察不到等离子体泡的信息，还不能直接用于等离子体泡的分析，因为：(1)由于通过 $\mathrm { ~ 2 ~ n m }$ 带宽的滤光片得到的夜气辉图像亮度很低，图片的整体灰度值偏小，以及背景辐射对气辉的影响，无法从图片中分辨出等离子体泡，需要对图像做增强处理；（2)全天空成像仪在观测时，往往不做方位标定，在后期图像处理中需要做方位校正，确定出图像“东南西北"的位置；（3)由于鱼眼镜头会引起图像畸变，并且拍摄的气辉层是圆弧形状的，需要对图像进行畸变校正，把图像投影到对应的地理坐标；（4)由于van Rhijn 效应(Chamberlain,1961），成像仪记录的是整个视线路径上的气辉辐射积分的效果，不同的天顶角，气辉层厚度不一样，因此气辉辐射强度不一样，并且由于光学器件的暗角效应，会造成图像的亮度不均匀，需要对图像做平场校正，使图像的亮度分布均匀；(5)虽然滤光片会对星星有一定的抑制作用，但是在图像中还是会存在星星的亮点噪声，在处理中需要将星星亮点去除掉，
+
+综上所述需要对图像数据进行预处理，本文采用的预处理步骤，如图2所示，主要包括：(1)图像增强；(2)方位校正；(3)图像投影.本文主要分析等离子体泡的形状、结构、尺度、变化和运动速度等基本特征，通过这三步预处理，已经可以进行这些分析.若要更加深入地分析等离子体泡强度信息时，需要加上平场校正和星星去除的预处理步骤，从而使图像的处理更加完善.
+
+![](images/02d02e04de5c89c8cdd33d97a1f5af0c513beda1354749d7cf6de1abbecf4959.jpg)  
+Fig.1 Structure of All Sky Imager   
+图2图像预处理步骤  
+Fig.2Steps of preprocessing images
+
+# 2.2.1 图像增强
+
+(1)鱼眼透镜成像角度可达 ${ 1 8 0 } ^ { \circ }$ ，图像边缘的数据很多都会受到本地光源的影响，因此需要将边缘的数据去掉，这里我们按圆形提取图像中间的部分，来去除边缘数据；（2)然后将图像按照一定的规则进行亮度拉伸.夜气辉属于弱光成像，气辉亮度很低，并且通过 $2 \ \mathrm { n m }$ 带宽的滤光片滤光之后原始图像的灰度值都集中在很低的范围，我们看的图像都是黑色，观察不到等离子体泡的信息，而进行亮度拉伸之后我们便可以观察到图像中的等离子体泡的信息；(3)为了使等离子体泡在图像中更加明显，需要去除背景辐射影响，把连续观测的1个小时的图像进行平均，将平均后的图像来作为背景图像，用每张图像都减去背景图像（Sharmaetal.，2012)；（4）再将图像归一化，以突出气辉图像中的等离子体泡信息.
+
+# 2.2.2 方位校正
+
+方位校正是为了把方位不确定的图像数据校正为“上北下南左西右东"的方位分布.通过多张图像星星的运动轨迹得知，星星在图像中是从右往左运动，说明图像东西方向不需要翻转，只需要以图像中天顶位置为中心把北方位置旋转到图像上方，其步骤如下：(1)通过星图分析得到天顶在图像中的位置中 $\cdot X o { = } 4 5 2 , Y o { = } 4 5 2 )$ 和北极星的方位 $\langle X n p = 4 8 1$ $Y n p = 7 2 \$ ，如图3；（2)计算图像需要旋转的角度，如式（3)，因为北极星此时的方位角为 $0 . 5 ^ { \circ }$ ，在计算角度时要减去 $0 . 5 ^ { \circ }$ ，算出 $\theta = 3 . 8 6 ^ { \circ }$ ;(3)将图像以天顶的位置为中心逆时针旋转 $3 . 8 6 ^ { \circ }$ ，即完成图像的方位校正.
+
+$$
+\theta = - \arctan { \frac { X o - X n \phi } { Y o - Y n \phi } } - 0 . 5 .
+$$
+
+# 2.2.3 图像投影
+
+由于 $6 3 0 \ \mathrm { n m }$ 气辉的高度一般在 $2 5 0 \sim 3 0 0 ~ \mathrm { k m }$ （假定气辉高度为 $3 0 0 ~ \mathrm { k m } ,$ ，所以需要将图像投影到$3 0 0 ~ \mathrm { k m }$ 高度对应的地理坐标.本文选用2013年9月7日 $1 7 : 0 8 : 4 1 \mathrm { U T }$ 的气辉图像及星星位置来确定投影关系.步骤如下：(1)找到图像中分布均匀的40个星点的位置，记录下它们在原始图像中的位置，如图4，以及图像获取的时间和地理经纬度；（2）通过星图分析得到这40个星点的仰角和方位角；(3)用星点原始像素的位置和天顶的实际位置做拟合，得到原始图像和实际位置的关系；（4)利用得到的投影关系，将图像投影到对应的地理坐标.
+
+为了确定投影方法的可行性，可以用投影后的气辉图像和星图来做对比，选择任意时间的投影图像，把时间对应星图中，星星的实际位置标注到经过校正和投影的图像中，对比图像中星星位置和实际星星位置的偏差.选用2013年9月7日 $1 7 : 3 5 : 5 6 \mathrm { U T }$ 的投影图像，如图5，白圈代表实际星星的位置，发现与图像中亮点的位置对应，说明投影方法是可行的，
+
+![](images/898a397566fd1395dec15358e8b0af1a12426cca420ed9ca5e53d382172bf5a6.jpg)  
+图32013年9月7日 $1 7 : 0 8 : 4 1 \mathrm { U T }$ （图像中天顶和北极星的位置
+
+![](images/728cc638dd2eff4c926dfaba747122cdc227950a2df46e16200a12ac3b00c33e.jpg)  
+Fig.3Positions of zenith and polaris in airglow image at $1 7 : 0 8 : 4 1 \mathrm { U T }$ on September 7，2013   
+图42013年9月7日 $1 7 : 0 8 : 4 1 \mathrm { U T }$ 星点位置图像Fig.4Positions of stars in airglow image at $1 7 : 0 8 : 4 1 \mathrm { U T }$ on September 7，2013
+
+# 2.2.4 预处理结果
+
+经过预处理后的图像如图6所示：图6a为原始图像，可以发现图像基本为黑色，看不出等离子体泡的信息；图6b为增强图像，已经可以比较明显地看到等离子体泡了，如图中的暗条；图6c为方位校正图像，确定了图像的方位，现在图像为“上北下南左西右东”；图6d为投影图像，确定了对应的地理坐标，更方便分析等离子体泡的位置、大小、速度等信息.
+
+![](images/c07f64b7bad8c86a8eba467dffb9ea6ccf4ea14f6f86283710e6043651778459.jpg)  
+图52013年9月7日 $1 7 : 3 5 : 5 6 \mathrm { U T }$ 投影图像Fig.5Projected image at $1 7 : 3 5 : 5 6 \mathrm { U T }$ on September 7，2013
+
+# 3 海南地区电离层等离子体泡的主要特征
+
+# 3.1 主要光学形态与特征
+
+本文利用2.2节的图像预处理方法，处理了2013年10月25日13—16UT的气辉图像，得到了等离子体泡的时间序列图像，如图7.图中可以看出在 $1 3 : 2 5 \mathrm { U T }$ 出现了一个等离子体泡，它的形状为南北方向的条状，随着时间推移出现分叉，表现出“羽毛状”.等离子体泡的密度比背景等离子体密度低，因此气辉强度比背景要低，在光学图像中表现为暗区.
+
+# 3.1. 1 等离子体泡的尺寸
+
+在时间序列中，可以先后看到3个明显的等离子体泡出现在视野中，图7a—7p中灰色虚线表示海南站天顶的 $1 9 . 5 ^ { \circ } \mathrm { N }$ ，通过等离子体泡在天顶 $1 9 . 5 ^ { \circ } \mathrm { N }$ 横跨的经度来分析它们的东西尺寸，这里经度为假设气辉高度为 $3 0 0 ~ \mathrm { k m }$ 得到的经度，实际的尺寸会有小的偏差，
+
+![](images/9dc092f2ba9820a46130236d9f4b892a57a21dff0a5e84148e3f2a27c83c1b6e.jpg)  
+图62013年9月7日 $1 7 : 0 8 : 4 1 \mathrm { U T }$ 预处理图像Fig.6Preprocessing images at $1 7 : 0 8 : 4 1 \mathrm { U T }$ on September7，2013
+
+![](images/1088d323e71a3a2c796e0cdbceb55504222028ed2da159b3de8658151764c4ab.jpg)  
+图72013年10月25日13—16UT的气辉图像序列  
+Fig.7Sequence of airglow images from 13UT to 16UT on October 25，2013
+
+第一个等离子体泡在 $1 3 : 3 5 \mathrm { U T }$ 时，如图7a，横跨经度 $2 . 2 4 ^ { \circ }$ ，为 $2 6 0 ~ \mathrm { k m }$ ，随着时间推移它的东西尺寸增大，经过一个小时到达 $1 4 : 3 8 \mathrm { U T }$ 时，如图7i,东西尺寸为 $4 0 0 ~ \mathrm { k m }$ .在图 $\mathrm { 7 m }$ 中 $1 5 : 1 4 \mathrm { U T }$ 时，另外两个等离子体泡的东西尺度为 $2 0 0 ~ \mathrm { k m }$ 和 $2 9 0 ~ \mathrm { k m } .$ 在同一时刻，多个等离子体泡可以同时存在，如序列中图$7 \mathrm { k \ 1 4 : 5 6 U T }$ 的图像，3个等离子体泡都可以观测到，它们之间的间距分别为 $3 0 0 ~ \mathrm { k m }$ 和 $1 0 0 ~ \mathrm { k m }$ ，这与Li等(2012)利用三亚VHF雷达观测 $\mathrm { ~ F ~ }$ 层不规则体羽状结构的空间分布特征（东西尺度为 $1 5 0 { \sim } 7 7 0 ~ \mathrm { k m } )$ 一致.Pimenta等(2003)指出在典型的扩展F季节，东西方向尺度为 $1 5 0 \sim 4 5 0 ~ \mathrm { k m }$ ,在与扩展F季节相邻的月份，尺度为 $4 0 \sim 2 5 0 ~ \mathrm { k m }$ ，他们认为这与季节和太阳周期相关.
+
+图中3个等离子体泡的南北尺度都大于 $1 0 0 0 ~ \mathrm { k m }$ 南北方向的尺度与磁赤道上方等离子体泡的顶点上升高度直接相关，受太阳周期的影响（Sahaietal.，2000），磁赤道上方等离子体泡的顶点上升高度一般为 $1 0 0 0 { \sim } 2 5 0 0 ~ \mathrm { k m }$ .根据等离子体泡的边界，如图7c和 $\mathrm { 7 g }$ 中，统计边界内包含的像素，从而计算出等离子体泡的面积，在图7c中 $1 3 : 4 4 \mathrm { U T }$ 时，等离子泡的面积约为 $1 . 9 \times 1 0 ^ { 5 } ~ \mathrm { k m ^ { 2 } }$ ，随着时间推移，等离子体泡的面积变大，到图 $\mathrm { 7 g }$ 中 $1 4 : 2 0 \mathrm { U T }$ 时，它的面积增大为 $2 . 3 \times 1 0 ^ { 5 } ~ \mathrm { k m } ^ { 2 }$ ·
+
+# 3.1.2 向西倾斜和分叉
+
+等离子体泡有着明显的向西倾斜的特征，用散射雷达得到的数据也可以看到这种倾斜的现象.Zalesak等（1982）认为是等离子体漂移剪切造成，Sinha和Raizada（200O）曾观测到等离子体泡东向倾斜，他们认为是异常的风场造成的，文中的气辉数据没有观测到东向倾斜的情况.
+
+另外从图中连续的等离子体泡变化中看出，随着等离子体泡的增大，它出现了分叉的现象，并不是所有的等离子体泡都会出现分叉的现象，Pimenta等（2001a)认为，在高太阳活动周期，等离子体泡的东西尺度更大，出现分叉的概率更大，通过分析我们气辉数据也可以发现，等离子体泡越宽才更容易出现分叉的现象，在东西尺度很小时，没有分叉现象出现.等离子体泡一般情况下会有一个垂直的分支，其余向西倾斜.
+
+# 3.1.3 漂移速度
+
+通过时间序列，可以观测等离子体泡的东向漂移特征，并且可以通过每张图片等离子体泡移动的距离和图片之间的间隔时间来计算出它的漂移速度.Pimenta等(2001b)指出，等离子体泡的西墙比东墙更稳定，更适合用于分析它的漂移速度.在夜间，F层等离子体和背景中性风以相同的速度向东运动，等离子体泡密度低会降低离子之间的交互作用，会使等离子体内部的中性风的速度略微地提高，多出的动量会作用到等离子体泡的东墙上，使东墙扩展
+
+这里画出图7c—7j中每张图的天顶 $\mathrm { 1 9 . 5 ^ { \circ } N }$ 这条纬度线上从西到东气辉的相对强度变化，如图8，前一条颜色深的直线表示等离子体泡西墙的强度变化，后一条颜色浅的直线代表的是东墙的强度变化.可以发现西墙的斜率基本不变，而东墙的斜率变化明显，说明东墙的形状变化快，相对西墙更不稳定.同时分别用东墙和西墙计算出图7中等离子体泡的漂移速度，如图 $9 , 1 3 : 2 5 - 1 4 : 4 7 \mathrm { U T }$ 以第一个等离子体泡计算速度， $1 4 : 5 6 { \mathrm { - } } 1 5 : 4 2 \mathrm { U T }$ 以第二个等离子体泡计算速度.图9也可以明显地看出以西墙的速度比东墙的速度更稳定，所以用西墙来分析等离子体泡的漂移速度更好.这里的速度是假定气辉的高度为 $3 0 0 ~ \mathrm { k m }$ 计算出来的，实际 $6 3 0 \ \mathrm { n m }$ 的气辉高度为 $2 5 0 { \sim } 3 0 0 ~ \mathrm { k m }$ ，因此速度的计算受假定高度的影响，假定高度为 $2 5 0 ~ \mathrm { k m }$ 时，速度会减小 $20 \%$ 左右.在图8所示的这两个小时内，利用西墙得到的速度为 $1 3 0 \mathrm { ~ m ~ } ^ { \cdot } \mathrm { ~ s ~ } ^ { - 1 }$ 左右，与这一区域的卫星信标和雷达观测已经给出的大量F层不均匀体漂移特性的研究结果相似（Lietal.，2007；陈艳红等，2008；Liuetal.，2015)，典型速度为 $5 0 \sim 1 5 0 \mathrm { ~ m ~ } ^ { \cdot } \mathrm { ~ s ~ } ^ { - 1 }$ .在异常风场下，西向漂移和向东倾斜往往是同时发生的，但是在文献中的气辉数据没有出现这样的现象.
+
+![](images/005162afcc05cebd3b92bd81d63b6900d180eb3560937c10038dc6abcbd5eb5d.jpg)  
+图8天顶纬度气辉的相对强度  
+Fig.8The relative intensity of airglow in zenith latitude
+
+# 3.2 时间特征
+
+将2013年9月一2014年5月的原始观测资料通过数据预处理后形成可清晰识别等离子体泡的产品，在此基础上统计电离层等离子体泡出现时间的规律，结果如图10所示，其中没有数据的部分是因为明月的影响，在有数据的时间段将图像分为三类：（1)由于云的遮挡，无法获得等离子体泡的信息，图中用黑条表示；（2)天空清晰，但是没有等离子体泡，图中用绿条表示；（3)天空清晰，可以观察到等离子体泡的现象，图中用红条表示.
+
+通过统计作图之后发现等离子体泡一般出现在日落后 $1 { \sim } 2$ 个小时，持续时间为 $1 { \sim } 4$ 个小时左右，等离子体泡出现的典型时间段为9月下旬一10月下旬和2月下旬一4月中旬.
+
+![](images/5f94beb93d317069c5779b2946a7b4af2987578e3cb1e2cafd2fb0fd2e6a4f49.jpg)  
+图92013年10月25日等离子体泡的漂移速度
+
+![](images/9e666a80deed97424c9156e997185979b63c0e840d3f68487cbb94de3a6863ff.jpg)  
+Fig.9Drift velocity of plasma bubbles on October 25，2013   
+图102013年9月—2014年5月气辉图像的统计  
+Fig.10Statistics of airglow images from September 2Ol3 to May 2014
+
+# 4结论
+
+本文通过对气辉数据的处理，得到了可清晰识别的电离层等离子体泡的图像产品，获得了我国海南地区首次电离层等离子体泡的光学观测结果.在此基础上，分析了我国海南地区等离子体泡的基本特征：(1)形状为南北方向的条状，随着时间推移出现分叉，表现出“羽毛状”，整个泡体向西倾斜；(2)东西方向的尺寸为几十到几百公里，与扩展F季节相关；(3)漂移过程中，西墙比东墙更稳定，典型漂移速度为 $5 0 \sim 1 5 0 \mathrm { ~ m ~ } ^ { \bullet } \mathrm { ~ s ~ } ^ { - 1 }$ ;（4)统计了2013年9月至2014年5月等离子体泡出现的时间规律，结论是等离子体泡一般出现在日落后 $1 { \sim } 2$ 个小时，持续时间为 $1 { \sim } 4$ 个小时左右，等离子体泡出现的典型时间段为9月下旬一10月下旬和2月下旬一4月中旬.
+
+通过对数据长时间的统计和深入的研究以及联合其他观测手段对等离子体泡的分析，可以得到等离子体泡在多手段观测下的特征.在此基础上，针对我国低纬(海南)地区电离层等离子体泡的出现规律和结构特征，面向电离层闪烁的应用需求，提出可大范围、自动化、高精度观测等离子体泡的观测方案，探索通过光学手段大范围监测电离层等离子体泡及闪烁的可行性，为将来我国南方大范围监测电离层等离子体泡及电离层闪烁现象提供技术基础致谢感谢子午工程和徐寄遥研究员提供气辉观测数据和非常有益的讨论.
+
+# References
+
+BaumgardnerJL，Flynn B，Mendillo MJ.1993．Monochromatic imaging instrumentation for applications in aeronomy of the Earth and planets.Optical Engineering，32(12)：3028-3032.   
+BookerHG，WellsHW.1938.Scattering of radio wavesby the Fregion of the ionosphere.JournalofGeophysical Research，43 (3)：249-256.   
+Burke WJ，Gentile L C，Huang C Y，et al.20O4．Longitudinal variability of equatorial plasma bubbles observed by DMSP and ROCSAT-1.Journal of Geophysical Research，109（A12）, doi：10.1029/2004JA010583.   
+Chamberlain JW.1961.Physics of the Aurora and Airglow.New York：Academic Press.   
+Chen YH，Huang WG，GongJC，etal.20o8.Observations of ionospheric irregularity zonal velocity in Hainan.Chinese JournalofSpace Science (in Chinese)，28(4)：295-300.   
+Haase JS，Dautermann T，Taylor MJ，et al.2oll.Propagation of plasma bubbles observed in Brazil from GPS and airglow data. Aduances in Space Research，47(10):1758-1776.   
+Haerendel G. 1973.Max Planck Institute fur physic and Astrophysik. Garching，West Germany.   
+Hu L H，Ning B Q，LiG Z，et al.2013.Multi-instruments observation of low latitude ionospheric irregularities response to Oct 2010 storm. Chinese J.Geophys. (in Chinese)，56(2): 365-373，doi:10.6038/cjg20130201.   
+Hu LH,Ning BQ，LiG Z，et al.20l4.Observations on the fieldaligned irregularities using Sanya VHF radar: 4. June solstitial F-region Echoes in solar minimum. Chinese $J$ .Geophys.（in Chinese），57(1)：1-9，doi:10.6038/cjg20140101.   
+Huang C Y，Burke W J，Machuzak J S，et al.2001.DMSP observations of equatorial plasma bubbles in the topside ionosphere near solar maximum. Journal of Geophysical Research，106(A5):8131-8142.   
+Kelly MC.1989.The Earth's Ionosphere. San Diego:Academic Press.   
+Kelley MC,Makela JJ,Ledvina BM,et al. 2002.Observations of equatorial spread-F from Haleakala，Hawaii.Geophysical Research Letters，29(20)：64-1-64-4.   
+Kelley M C，Makela JJ，Paxton LJ，et al.20O3.The first coordinated ground- and space-based optical observations of equatorial plasma bubbles.Geophysical Research Letters，30 (14)，doi:0.1029/2003GL017301.   
+Li G Z，Ning BQ，Yuan H. 2O07．Analysis of ionospheric scintilation spectra and TEC in the Chinese low latitude region. Earth Planets Space， 59(4): 279-285.   
+LiG Z，Ning BQ，HuL H，et al.2o1o.Longitudinal development of low-latitude ionospheric irregularities during the geomagnetic storms of July 2004. Journal of Geophysical Research ，115 （A4)，doi：10.1029/2009JA014830.   
+Li G Z，Ning BQ,Patra A K，et al. 2O1la. Investigation of low latitude E and valley region irregularities:their relationship to equatorial plasma bubble bifurcation.Journal of Geoph ysical Research，116(A11)，doi：10.1029/2011JA016895.   
+Li G Z，Ning BQ，Abdu M A，et al. 2012. Precursor signatures and evolution of post-sunset equatorial spread-F observed over Sanya. Journal of Geophysical Research ，117(A8)，doi:10. 1029/2012JA017820.   
+Li G Z，Ning B Q，Abdu M A，et al. 2013a.Longitudinal characteristics of spread F backscatter plumes observed with the EAR and Sanya VHF radar in Southeast Asia.Journal of Geophysical Research：Space Physics，1l18(10):6544-6557.   
+Li HK，Ning BQ，LiG Z. 2ol3.Observations on hundred meter and meter scale ionospheric irregularity drifts at low latitude. Progress in Geophysics（in Chinese)，28(2）：545-553，doi: 10.6038/pg20130203.   
+Li Q Z,Xu JY,Yue W,et al. 2011b. Statistical characteristics of gravity wave activities observed by an OH airglow imager at Xinglong，in northern China. Annales Geophysicae，29（8）： 1401-1410.   
+Li Q Z,Xu JY,Yue J,et al. 2013b. Investigation of a mesospheric bore event over northern China. Amales Geophysicae ， 31(3): 409-418.   
+Liu K K,LiG Z,Ning BQ，et al. 2015. Statistical characteristics of low-latitude ionospheric scintillation over China. Aduances in Space Research ，55(5)：1356-1365.   
+Makela JJ,Ledvina BM, Kelley MC,et al. 2004.Analysis of the seasonal variations of equatorial plasma bubble occurrence observed from Haleakala，Hawaii. Annales Geoph ysicae，22 (9)：3109-3121.   
+Makela JJ. 2oo6.A review of imaging low-latitude ionospheric irregularity processes. Journalof Atmospheric and Solar-Terrestrial Physics，68(13):1441-1458.   
+Mende S B,Eather R H. 1976.Monochromatic all-sky observations and auroral precipitation patterns. Journal of Geophysical Research，81(22):3771-3780.   
+Mukherjee GK,Carlo L,Mahajan S H,et al. 1998.First results of all-sky imaging from India. Earth Planets Space，5O(2)：119- 127.   
+Ning B Q,Hu L H,LiG Z,et al. 2012. The first time observations of low-latitude ionospheric irregularities by VHF radar in Hainan. Science China Technological Sciences，55(5）: 1189- 1197.   
+Otsuka Y，Shiokawa K，Ogawa T，et al. 2oo2. Geomagnetic conjugate observations of equatorial airglow depletions. Geoph ysical Research Letters，29(15)：43-1-43-4.   
+Otsuka Y, Shiokawa K,Ogawa T,et al. 2004. Spatial relationship of equatorial plasma bubbles and field-aligned irregularities observed with an all-sky airglow imager and the Equatorial Atmosphere Radar. Geophysical Research Letters， 31（20): L20802.   
+Peterson A W，Kieffaber L M.1973.Infrared photography of OH airglow structures. Nature，242(5396):321-322.   
+Pimenta A A，Fagundes P R，Bittencourt J A， et al. 200la. Relevant aspects of equatorial plasma bubbles under different solar activity conditions. Adoances in Space Research，27（6- 7)：1213-1218.   
+Pimenta A A，Fagundes P R，Bittencourt J A，et al. 2001b. Ionospheric plasma bubble zonal drift: a methodology using OI 630 nm all-sky imaging systems. Aduances in Space Research , 27(6-7): 1219-1224.   
+Pimenta A A，Bittencourt J A，Fagundes P R，et al. 2003. Ionospheric plasma bubble zonal drifts over the tropical region: a study using OI $6 3 0 \mathrm { n m }$ emission all-sky images. Journal of Atmospheric and Solar-Terrestrial Physics，65(10）： 1117- 1126.   
+Sahai Y，Fagundes PR，Bittencourt JA. 2Ooo. Transequatorial Fregion ionospheric plasma bubbles: solar cycle effects. Journal ofAtmospheric and Solar-Terrestrial Physics，62(15)：1377- 1383.   
+Sharma AK，NadeDP，Nikte SS，et al.2012.Analysis of plasma bubbles observed in night airglow emission line OI 63o.O nm from Kolhapur using all sky imager. International Journal of Engineering Sciences Research，3(2)：746-750.   
+Sinha H S S，Raizada S. 2ooo.Some new features of ionospheric plasma depletions over the Indian zone using all sky optical imaging.Earth，Planets and Space，52(8)：549-559.   
+WangGJ，Shi JK，Wang X，et al. 2OO7．Seasonal variation of ionospheric spread-F observed in Hainan.Chinese Journal of Radio Science (in Chinese)，22(4):583-588.   
+Weber EJ，Buchau J，Eather R H，et al.1978.North-south aligned equatorial airglow depletions.Journal of Geophysical Research，83(A2)：712-716.   
+WoodmanR F，La Hoz C.1976.Radar observations of F region equatorial irregularities.JournalofGeophysical Research，81 (31)：5447-5466.   
+Xu J S，Zhu J，Cheng G H.2oo6.GPS observations of ionospheric effects of the major storm of Nov.7-10，2Oo4.Chinese Journal of Space Science (in Chinese)，49(4):950-956.   
+Zalesak S T,Ossakow S L,Chaturvedi P K. 1982.Nonlinear equatorial spread F：The effect of neutral winds and background Pedersen conductivity. Journal of Geoph ysical Research，87（Al）：151- 166.   
+Zhu ZP,Lan JH,Luo W H，et al.2015.Statistical characteristics of ionogram spread-F and satellite traces over a Chinese lowlatitude station Sanya.Aduances in Space Research，56(9)： 1911-1921，doi:10.1016/j.asr.2015.03.038.
+
+# 附中文参考文献
+
+陈艳红，黄文耿，龚建村等．2008．海南地区电离层不规则体纬向漂移速度的观测和研究.空间科学学报，28（4)：295-300.  
+胡连欢，宁百齐，李国主等．2013．暴时低纬电离层不规则体响应特征的多手段观测．地球物理学报，56（2)：365-373，doi：10.6038/cjg20130201.  
+胡连欢，宁百齐，李国主等．2014.基于三亚VHF雷达的场向不规则体观测研究：4．太阳活动低年夏季F区回波．地球物理学报，57(1)：1-9，doi：10.6038/cjg20140101.  
+郦洪柯，宁百齐，李国主．2013．不同尺度低纬电离层不规则体漂移特性的观测研究．地球物理学进展，28（2）：545-553，doi：10.6038/pg20130203.  
+王国军，史建魁，王霄等．2007.海南地区扩展F的季节变化研究.电波科学学报，22（4)：583-588.  
+徐继生，朱劫，程光晖．2006．2004年11月强磁暴期间武汉电离层TEC的响应和振幅闪烁特征的GPS观测．地球物理学报，49(4)：950-956.
+
+（本文编辑 何燕）

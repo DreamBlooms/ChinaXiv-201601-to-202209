@@ -1,0 +1,210 @@
+# 自我参照加工的近空间距离增强效应：来自行为与ERPs的证据
+
+章鹏程」李杨卓²周淑金」高湘萍’潘鑫³
+
+(上海师范大学教育学院心理系，上海 200234)(华东师范大学心理与认知科学学院，上海 200062)(南京旅游职业学院，南京 211100)
+
+摘要研究采用学习-再认范式考察空间距离如何影响自我参照加工。首先通过事件相关电位技术探索不同空间距离怎样影响自我参照加工的过程，再结合再认测试验证影响的稳定性。结果显示：(1)学习阶段，近空间距离在晚期认知加工阶段对自我参照加工具有明显的增强作用，并且在再认测试中得到了验证；(2)研究结果同样也发现了学习阶段近空间距离对他人参照加工的增强作用，但未在再认测试中得到验证。本研究证实了近空间距离能够促进自我参照更加精细化加工，拓展了对自我参照加工的认识和自我的了解。
+
+关键词 自我参照加工；空间距离；增强效应分类号
+
+# 1引言
+
+空间距离是指刺激与刺激或刺激与自我之间相距的直线距离(Trope＆Liberman,2010)，而自我参照加工是指刺激与自我概念发生关联的加工(Kim,2012)，当关联越密切，对刺激的加工更快，记忆更好(Rogers,Kuiper,& Kirker,1977)。以往研究表明空间距离能够影响个体对外界刺激的认知加工(Kasai,Morotomi,Katayama,& Kumada,2003；ValdésConroy, Roman,Hinojosa,& Shorkey,2012)。那么，空间距离的不同能否影响自我参照这一特异性加工呢？即自我参照加工时刺激与自我概念的关联程度是否会受到空间距离的影响。为了更好地回答这一问题，我们首先梳理了有关自我参照方面的研究。目前，国内外学者在行为和神经生理层面对自我参照加工进行了广泛探索。比如，行为学研究方面：自我参照条件下形容词(Kalenzaga & Jouhaud,2018)或叙事故事(Grili,Woolverton, Crawford,& Glisky,2018)的记忆成绩比他人参照下更好。脑成像研究发现相比名人和陌生人的名字，个体自己的名字和重要他人的名字在内侧前额叶皮质(MPFC)上有更大的激活(Tacikowski，Brechmann，& Nowicka,2013)。自我参照比陌生人或熟悉他人参照激活了更多的右半球背外侧前额叶皮质(dLPFC)(Taylor et al.,2009)。脑电研究方面：Kong,Chen,Zhang 和 Kou (2012)通过形容词判断任务发现，自我参照比母亲参照和名人参照诱发了更大的 LPC 波幅。Fan 等(2013)采用Oddball 范式研究发现，高自我相关的名字(被试自己的名字)比中等自我相关的名字(如：被试父亲的名字)诱发了更大的 P3 波幅，而中等自我相关的名字又比非自我相关的名字(如：奥巴马)诱发了更大的P3 波幅。“我”层面比“家”层面诱发的P3 波幅更大，而“家”层面又比“国”层面诱发的P3 波幅更大(王沛等,2017;Chen et al.,2011)。
+
+小结上述研究可知，以往主要从社会距离(如：自己-朋友-陌生人)视角开展自我参照方面的研究，得出的一般结论是：相比非自我参照，自我参照加工具有明显优势，并且当参照物的社会距离与个体越亲近，额区激活程度以及诱发的P3或LPC 成分的波幅越大。而 P3或LPC 成分反映的是个体对信息的精加工程度(Yuan,Yang,Meng,Yu,&Li,2008;Fields&Kuperberg，2016)，所以上述研究结果说明社会距离越接近核心自我时越能够吸引更多的注意资源，对刺激进行更加精细化加工。当前社会距离视角下的研究可谓充分，不过有一点忽略的是：“我”是生活于空间，更接近核心自我社会距离的形成，通常离不开近空间距离的接触(Kolb，2015)，如由陌生人发展到恋人或闺密等近社会距离关系，必然离不开长时间近空间距离的接触。但以往研究是将空间距离对自我参照加工的影响隐含在了社会距离的研究里面，缺乏探讨空间距离如何影响自我参照加工的直接研究。这也是开篇我们提出的问题。因此，对这一问题的探讨将有助于进一步拓展对自我参照加工的认识以及对自我的了解。
+
+那么，空间距离的不同能对自我参照加工产生怎样的影响，是否也像社会距离一样，越近越能促进信息更加精细化加工呢？以往研究发现，他人离个体空间距离越近，个体合作水平越高(郑君君，蔡明，李诚志，邵聪,2017)，也会表现得更加友善(Wang&Yao,2016)。在一项视觉空间注意任务中，被试探测位于近空间物体比远空间物体有更快的速度和更好的表现(ValdesConroy etal.,2012)。近空间距离比远空间距离刺激诱发的P1或N1成分的波幅更大(Kasai et al.， 2OO3；ValdésConroy， Sebastian, Hinojosa,Roman,& Santaniello， 2O14; Griffin,Miniussi,&Nobre,2002)。这些结果很好地支持了有关空间距离的注意理论(Abrams,Davoli,Du,Iii,& Paull,2008;Reed,Grubb,& Steele,2006)：近空间距离条件下呈现的刺激能够捕获更多的注意资源并促进后续认知加工更加精细化。
+
+综上可知，相比他人参照和远空间距离，自我参照和近空间距离都能够优先捕获注意，获得更多的注意资源，使得刺激信息得到更加精细化加工。由此可以推知对于认知加工二者具有同向协助作用，捕获注意资源最多的应该是近空间距离下的自我参照加工。基于此我们提出假设：相比远空间距离，近空间距离对自我参照加工具有增强作用。接着，本研究还将结合脑电技术进一步探索这一增强作用发生在认知加工的哪个阶段？以往研究指出，反映视觉注意早期认知加工的P1和 N1成分主要受刺激物理属性的影响，较少涉及深度认知加工(李航，梁栗炎，张旭，高小榕,2016;Liu,Forte,Sewell,& Carter,2018)。也有相关研究发现自我参照和非自我参照在 P1 和 N1 成分的波幅和潜伏期上无显著差异(Dainerbest，Trujilo,Schnyer,&Beevers,2017;Fan etal.,2016)。因此我们假设：空间距离虽然会影响个体的认知加工，但是对自我参照加工的影响并不发生在早期阶段。即，反映早期认知加工的P1 和 N1成分仅在远近空间距离上存在显著差异，而不受参照类型的影响。Handy，Grafton，Shroff,Ketay 和Gazzaniga(2003)指出，刺激距离个体越近越能增加刺激信息的吸引度，其作用不仅有助于视觉感知，而且能促进后续的认知和行为。ValdesConroy 等(2014)研究发现，近空间距离条件下对物体进行辨别加工时诱发的LPC 波幅显著大于远空间距离，说明个体的自上而下的注意控制机制在晚期加工过程中受到空间距离的调节：近空间距离能增强这一加工过程。由此我们假设：近空间距离对自我参照加工的增强作用发生在晚期阶段。即，近空间距离条件下自我参照加工比远空间距离下诱发更大的LPC 波幅。
+
+本研究将利用视觉线条透视原理在平面上构建更加接近现实的不同空间距离条件。采用学习-再认范式，并结合具有高时间分辨率特性的 ERPs技术来验证上述假设。首先，研究借助 ERPs技术考察学习阶段空间距离如何影响自我参照条件下的加工过程。通过对远近空间距离条件下自我参照加工诱发的早期P1、N1成分和晚期LPC 成分以及左右脑半球激活程度进行差异分析，以揭示近空间距离对自我参照加工起增强作用的认知神经基础以及增强作用发生的阶段。然后，测量再认阶段被试对词组的正确再认数量来反映加工结果。通过比较近空间距离和远空间距离条件下自我参照的记忆成绩进一步为近空间距离对自我参照加工的增强作用提供更加直接外显的辅助证据。整个研究从空间距离视角拓宽对自我参照加工的认识，从行为和脑电两个层面探索是否存在自我参照加工的近空间距离增强效应以及这一增强效应发生的阶段和神经基础，以揭示空间距离在自我参照加工过程中的作用机制。
+
+# 2 方法
+
+# 2.1被试
+
+选取在校大学生28名(8名男性)，平均年龄 24.90岁。被试全部为右利手，身体健康，无脑部损伤和神经系统疾病历史，视力或者矫正视力正常。实验进行前，让被试填写基本信息和阅读实验知情同意书并签字，实验完成后给予相应报酬。本研究得到了通讯作者单位学术伦理与道德委员会的许可。
+
+# 2.2 实验设计和设置
+
+实验采用2(距离：近，远) $\times 2 ($ (参照：自我，他人)的两因素被试内设计。两个变量的组合一共有四种实验条件：近我、远我、近他、远他。研究采用学习-再认范式。被试在学习阶段对词组进行辨别归类，且被试事先不知道有再认测试，在简单计算干扰任务以后，对被试进行再认测试[随机呈现学习阶段呈现过的词组(旧词)和同等数量未呈现过的词组(新词)]。记录被试实验过程中在学习阶段的行为和脑电数据以及再认阶段的反应时和正确再认数量。此外，除了实验过程中正式的四种条件外，还加入了一个陌生人参照(被试不熟悉的人名)作为警觉组。
+
+空间距离操纵：采用 Markman 和 Brendl (2005)研究中使用的长廊作为背景对空间距离进行操控，让被试产生更接近现实中的空间距离感(见图 1)(Wang& Yao,2016)，以图1中Block1 组为例，近空间距离：中间格子和屏幕上方格子之间的距离；远空间距离：中间格子和屏幕下方格子之间的距离。在屏幕上远空间距离是近空间距离的两倍。另外，为了平衡视野让中间词组格子离上方和下方格子都出现距离远和距离近两种情况，实验采用了Blockl和 Block2对其进行平衡(见图1)，如此便出现了Block1中中间词组格子离上方格子距离近，离下方格子距离远；Block2 中中间词组格子离上方格子距离远，离下方格子距离近四种情况。
+
+自我与他人参照操纵：有研究已经证明采用名字代替自我作为参照物，对远近空间距离的操控是成功的，不会受到身体自我的影响(Markman& Brendl，2005；Oakes& Onyper,2017)。因此，实验中自我参照采用被试自己的名字，为排除熟悉度的影响，他人参照采用被试好朋友的名字(由被试在实验前提供)。
+
+![](images/77427cc7090fc7531db48df70c194bdf5d8e92a7ec461882c27b9d300270f295.jpg)  
+图1距离设置
+
+# 2.3 材料和程序
+
+# 2.3.1 刺激材料
+
+从《现代汉语语料库词语分词类频率表》中选取中性两字名词词组218个(比如：报纸，苹果)。刺激词分组方案是：四种实验条件下各24个，共计96个(旧词)；练习12个；陌生人组14个；新词96个。分配步骤：(1)选取出 26个词组作为练习和陌生人组，因为练习和陌生人组不参与后续统计并且每种条件下呈现的词组一致，不会影响实验信效度，因此未对这些词组进行评定。(2)将剩下的 192 个词组汇编成五点计分(1\~5：分数越大代表越熟悉)的词组熟悉度评定问卷并邀请96 名(34 名男性，平均年龄 24.82岁)大学生进行评定。词组频率从《现代汉语语料库词语分词类频率表》中提取。(3)根据熟悉度排序分成熟悉度基本相同的两组，选取其中一组作为旧词。(4)对选取的这组词组再根据熟悉度排序分成四组，然后根据词组频率对词组分组进行微调，保证这四组词组在熟悉度和频率上均无显著性差异，最后对四组旧词组和新词组进行方差分析发现：熟悉度 $F ( 4 , 3 8 0 ) = 0 . 3 7$ $p = 0 . 6 2 8$ 和频率 $F ( 4 ,$ $1 8 7 ) = 0 . 7 6$ $p = 0 . 5 5 1$ 均无显著性差异。 (5)分别选取了92(16 名男性，平均年龄 22.25 岁)和94(18 名男性，平均年龄 22.68 岁)名大学生对词组效价和唤醒度进行评定，结果发现：词组分组间的效价 $F ( 4 , 3 6 4 ) = 1 . 7 9$ $p = 0 . 1 4 3$ 和唤醒度 $F ( 4 , 3 7 2 ) = 1 . 2 5$ $p = 0 . 2 9 3$ 均无显著差异。
+
+表1分组描述性统计  
+
+<html><body><table><tr><td rowspan="2">组别</td><td colspan="2">熟悉度</td><td colspan="2">频率</td><td colspan="2">效价</td><td colspan="2">唤醒度</td></tr><tr><td>M</td><td>SD</td><td>M</td><td>SD</td><td>M</td><td>SD</td><td>M</td><td>SD</td></tr><tr><td>近我</td><td>4.33</td><td>0.70</td><td>0.0022</td><td>0.0019</td><td>2.53</td><td>0.57</td><td>2.77</td><td>0.64</td></tr><tr><td>远我</td><td>4.38</td><td>0.60</td><td>0.0020</td><td>0.0014</td><td>2.56</td><td>0.54</td><td>2.72</td><td>0.62</td></tr><tr><td>近他</td><td>4.36</td><td>0.72</td><td>0.0019</td><td>0.0012</td><td>2.57</td><td>0.56</td><td>2.80</td><td>0.65</td></tr><tr><td>远他</td><td>4.32</td><td>0.74</td><td>0.0022</td><td>0.0018</td><td>2.55</td><td>0.60</td><td>2.79</td><td>0.65</td></tr><tr><td>新词</td><td>4.34</td><td>0.65</td><td>0.0025</td><td>0.0020</td><td>2.60</td><td>0.54</td><td>2.74</td><td>0.59</td></tr></table></body></html>
+
+# 2.3.2 实验程序
+
+学习阶段。被试戴好电极帽后舒适地坐在光线柔和的隔音室里，双眼距离电脑屏幕约为 $8 0 \mathrm { c m }$ 。采用E-prime2.0 程序呈现刺激，呈现的背景为白色。具体实验流程如图2所示：首先在中间格子呈现一个注视点“+”，时间为 $8 0 0 { \sim } 1 2 0 0 \mathrm { m s }$ ；然后在中间格子随机呈现词组的同时，在上方格子或下方格子里随机呈现名字，近空间距离视角为 $1 . 8 ^ { \circ }$ ，远空间距离视角为 $3 . 6 ^ { \circ }$ 。要求被试当自己或朋友名字出现在上方格子时按向上箭头“↑”键，出现在下方格子时按向下箭头“「”键；而不论陌生人名字出现在上方格子还是下方格子时都按“f”键，并在脑海中尝试将词组和名字建立联结，按键刺激消失或最长呈现 2000ms。要求被试在实验过程中又快又准地进行反应，并且尽量少眨眼以及不要随意移动身体和头部。
+
+学习阶段每个被试首先要完成图1中两个Block的练习（每个Block包含12个试次），Block1和Block2的呈现顺序在被试间平衡，正确率达到 $9 5 \%$ 以上，则进入正式实验。正式实验时 Block1 和 Block2 中各包含 62 个词组(48个自我和朋友参照的，14 个陌生人参照的)，呈现顺序在被试间平衡。根据以往自我参照加工的研究(Symons&Johnson,1997)，将词组重复呈现3次，一共372个试次。
+
+学习阶段完成以后，紧接着告知被试需要完成判断20 道简单计算题(如： $9 - 2 \times 3 = )$ 的结果是奇数还是偶数的任务。在简单计算干扰任务以后休息1分钟，然后告知被试我们需要对之前学习任务中出现过的词组进行再认测试(新旧词组共计192个)，认为在学习阶段呈现过按“D”键，没有呈现过按“K”键，按键在被试间平衡，词组呈现 $3 0 0 0 \mathrm { { m s } }$ 或按键消失。
+
+![](images/2230a83023cd304c3c58201f9b0dacc191c6cbbc1134bd925885fcd9b43bf6a8.jpg)  
+图2实验流程
+
+由实验程序可知，在实验过程中加入陌生人参照组，作用有二：(1)由于自我和他人参照时，任务按键相同(名字出现在上方格子都是按“↑”键，下方格子都是按“√”键)，所以被试完全可以不用确认是自己的名字还是朋友的名字也能正确完成任务。加入陌生人参照组，并且要求被试当出现陌生人名字时按“f”键，被试就需要对名字进行辨别，如此保证被试在完成任务时确实参照了自我或朋友的名字。(2)陌生人名字呈现概率 $( 2 3 \% )$ 小于自我和朋友名字 $( 7 7 \% )$ ，易犯错，起到提高被试专注度的作用。
+
+# 2.4 脑电数据记录与分析
+
+实验 EEG 记录采用Neuroscan4.4 脑电记录系统，64导电极帽记录脑电，使用左侧乳突连线作为参考电极， $\mathrm { F z }$ 和 $\mathbf { C } \mathbf { z }$ 连线的中点处接地，同时记录水平眼电和垂直眼电，水平眼电记录电极放置于两眼外外侧 $1 . 5 \mathrm { c m }$ 处，垂直眼电记录电极放置于左眼眶上下1cm 处。采样频率为 $1 0 0 0 \mathrm { H z } / \$ 导，滤波带通设置为0.01\~100Hz，每个电极的电阻降至5kΩ以下。使用Scan4.4 软件对采集的脑电数据进行离线分析(of-line analysis)处理，对记录到的原始脑电数据转换为双侧乳突参考，排除眼动和肌肉活动对EEG 数据的影响。数据进行低通(lowpass)、无相位移动数字滤波(zero phase shift Filtering)处理，滤波衰减程度为 24dB/oct。在去除眼电、基线调整后对波幅在 $\pm 8 0 \mu \mathrm { V }$ 范围外者视为伪迹而自动剔除。分析时程(epoch)为$1 0 0 0 \mathrm { { m s } }$ ，其中词组呈现前 $2 0 0 \mathrm { { m s } }$ 作为基线，词组出现后 $8 0 0 \mathrm { { m s } }$ 作为分析时程。剔除伪迹后，对四种实验条件下的试次分别进行叠加，结合总平均图和已有研究可知，跟空间距离有关的早期视觉注意成分P1和N1主要在枕叶，跟自我相关的认知加工成分主要出现在内侧前额叶(Kalenzaga et al.,2015; Leshikar& Duarte,2014)，所以选取早期成分 P1(105\~135ms; PO5,PO3,PO4,PO6)、N1(150\~180ms; PO5,PO3,PO4,PO6)(Sambo & Forster, 2009; ValdesConroyet al.,2014)和晚期正成分 LPC(350\~550ms;F5,F3,F1,F2,F4,F6)(Peng et al.,2017)进行统计分析，分析软件采用SPSS19.0。对不符合球形假设的主效应和交互作用的 $P$ 值采用Greenhouse-Geisser 法进行校正。
+
+# 3数据分析与结果
+
+1名女性被试的数据采集不完整，该被试的数据被剔除，最终用于行为和ERPs统计分析的被试为27人(8名男性)，平均年龄25.20 岁。
+
+# 3.1 行为数据分析
+
+学习阶段四种条件下反应正确率均在 $9 8 \%$ 以上，故不做差异分析。剔除三个标准差以外的学习阶段反应时数据，剔除数据占总数据的 $2 . 1 0 \%$ 。
+
+对学习阶段反应时进行2(距离：近，远) $\times 2 ( \$ 参照：自我，他人)的重复测量方差分析发现，距离 $F ( 1 , 2 6 ) = 1 5 . 6 6 , p = 0 . 0 0 1 , \eta _ { \mathrm { p } } ^ { 2 } = 0 . 3 8$ 和参照 $F ( 1 , 2 6 ) = 4 6 . 2 8 , p < 0 . 0 0 1 , \eta _ { \mathrm { p } } ^ { 2 } = 0 . 6 4$ 的主效应均显著，近空间距离条件下的反应时 $( 7 2 6 . 3 0 \mathrm { m s } )$ 显著快于远空间距离 $( 7 4 7 . 5 4 \mathrm { { m s } ) }$ ，自我参照条件下反应时 $( 7 1 6 . 4 6 \mathrm { m s } )$ 显著快于他人参照 $( 7 5 7 . 3 7 \mathrm { m s } )$ ；距离和参照的交互作用不显著 $F ( 1 , 2 6 ) = 0 . 8 8 , p = 0 . 3 6 0$ 。对正确再认反应时进行2(距离：近，远) $\times 2 ( \$ 参照：自我，他人)的重复测量方差分析发现，距离和参照的主效应以及交互作用都不显著 $( F s ~ < ~ 0 . 0 5$ ps>0.84)。
+
+对正确再认数量进行2(距离：近，远) $\times 2$ (参照：自我，他人)的重复测量方差分析发现，距离的主效应不显著 $F ( 1 , 2 6 ) = 0 . 1 5 , p = 0 . 7 0 4$ ；参照的主效应显著 $F ( 1 , 2 6 ) = 7 . 4 4 , p = 0 . 0 1 1$ $\eta _ { \mathrm { p } } ^ { 2 } \ = \ 0 . 2 2$ ，表现为自我参照条件下再认数量(15.43个)明显多于他人参照(14.08 个)；距离和参照的交互作用显著 $F ( 1 , 2 6 ) = 1 0 . 1 3 , p = 0 . 0 0 4 , \mathfrak { \eta } _ { \mathfrak { p } } ^ { 2 } = 0 . 2 8$ 。简单效应分析发现，近空间距离条件下自我参照的记忆成绩(16.22个)显著好于远空间距离(14.63个) $) F ( 1 , 2 6 ) = 5 . 8 1$ ， $p = 0 . 0 2 3$ $\eta _ { \mathrm { p } } ^ { 2 } \ = 0 . 1 8$ ，远近空间距离条件下他人参照的记忆成绩无显著差异 $F ( 1 , 2 6 ) = 2 . 7 7$ $p = 0 . 1 0 8$ 。
+
+表2学习和再认阶段描述性统计 $( N { = } 2 7 )$ （204  
+
+<html><body><table><tr><td rowspan="2">变量</td><td colspan="2">学习阶段RT(ms)</td><td colspan="2">正确再认RT(ms)</td><td colspan="2">正确再认N</td></tr><tr><td>M</td><td>SD</td><td>M</td><td>SD</td><td>M</td><td>SD</td></tr><tr><td>近我</td><td>707.50</td><td>164.61</td><td>788.85</td><td>121.69</td><td>16.22</td><td>5.08</td></tr><tr><td>远我</td><td>725.42</td><td>167.38</td><td>785.08</td><td>140.79</td><td>14.63</td><td>4.70</td></tr><tr><td>近他</td><td>745.09</td><td>162.02</td><td>788.70</td><td>175.26</td><td>13.48</td><td>4.70</td></tr><tr><td>远他</td><td>769.65</td><td>168.27</td><td>790.05</td><td>135.95</td><td>14.67</td><td>4.96</td></tr></table></body></html>
+
+# 3.2 ERPs数据分析
+
+# 3.2.1 P1 (105\~135ms)
+
+对P1的潜伏期和波幅进行 2(距离：近，远) $\times 2 ($ （参照：自我，他人） $\times 2 0$ （脑区：左，右)的重复测量方差分析发现，在P1潜伏期上，距离、参照和脑区的主效应以及所有的交互作用均不显著 $( F s < 1 . 5 4 , p s > 0 . 2 2 )$ 。在P1波幅上，距离的主效应边缘显著 $F ( 1 , 2 6 ) = 3 . 8 9 ,$ （20 $p =$ 0.059, $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 1 3$ ，具体表现为：近空间距离条件下诱发的P1波幅 $( 1 . 3 3 \mu \mathrm { V } )$ 显著大于远空间距离 $( 0 . 8 3 \mu \mathrm { V } )$ (图 3A&3B)。参照和脑区的主效应以及所有的交互作用均不显著 $( F s < 1 . 9 4 , p s >$ 0.17)。
+
+# 3.2.2 N1 (150\~180ms)
+
+对 N1 的潜伏期和波幅进行 2(距离：近，远) $\times 2 ($ （参照：自我，他人） $\times 2 0$ (脑区：左，右)的重复测量方差分析发现，在N1的潜伏期上，距离的主效应显著 $F ( 1 , 2 6 ) = 1 0 . 4 4 , p = 0 . 0 0 3$ （$\mathfrak { \eta } _ { \mathrm { p } } ^ { 2 } \ = \ 0 . 2 9$ ，具体表现为：远空间距离条件下诱发的N1潜伏期( $( 1 6 6 . 6 2 \mathrm { m s } )$ 显著短于近空间距离 $( 1 6 9 . 5 4 \mathrm { m s } )$ ；参照和脑区的主效应以及所有的交互作用均不显著 $( F s < 1 . 2 3 , p s > 0 . 2 7 )$ 。在N1 波幅上，距离的主效应边缘显著 $F ( 1 , 2 6 ) = 4 . 1 1 , p = 0 . 0 5 3 , \eta _ { \mathrm { p } } ^ { 2 } = 0 . 1 4 ,$ ，具体表现为：远空间距离条件下诱发的N1波幅 $( - 5 . 0 0 \mu \mathrm { V } )$ 显著大于近空间距离 $( \mathrm { - } 4 . 3 9 \mu \mathrm { V } )$ (图3A&3B)；参照和脑区的主效应以及所有的交互作用均不显著 $( F s < 1 . 9 5 , p s > 0 . 1 7 )$ 。
+
+# 3.2.3 LPC (350\~550ms)
+
+对LPC 的波幅进行 2(距离：近，远) $\times 2$ (参照：自我，他人) $\times 2$ (脑区：左，右)的重复测量方差分析发现，距离的主效应显著 $F ( 1 , 2 6 ) = 8 . 3 2 , p = 0 . 0 0 8 , \eta _ { \mathrm { p } } ^ { 2 } = 0 . 2 4$ ，具体表现为：近空间距离条件下诱发的LPC 波幅 $( 2 . 7 5 ~ \mu \mathrm { V } )$ 显著大于远空间距离 $( 1 . 8 5 \mu \mathrm { V } )$ （图 3C&3D)；参照的主效应显著 $F ( 1 , 2 6 ) = 1 9 . 1 4 , p < 0 . 0 0 1 , \eta _ { \mathrm { p } } ^ { 2 } = 0 . 4 2 ,$ 具体表现为：自我参照条件下诱发的LPC波幅 $( 2 . 7 5 \mu \mathrm { V } )$ 显著大于他人参照 $( 1 . 8 5 \mu \mathrm { V } )$ (图3C&3D);距离和参照的交互作用不显著 $F ( 1 , 2 6 )$
+
+$= 1 . 3 4$ $p = 0 . 2 5 8$ ；由上可以推知，近空间距离条件下自我参照和他人参照加工都比远空间距离条件下诱发了更大的 LPC 波幅(近我： $3 . 3 6 \mu \mathrm { V } \ >$ 远我： $2 . 1 4 \mu \mathrm { V }$ ；近他 $2 . 1 4 \mu \mathrm { V } \ >$ 远他$1 . 5 6 \mu \mathrm { V } ,$ (图 3C&3D)。脑区的主效应显著 $F ( 1 , 2 6 ) = 1 4 . 3 1 , p = 0 . 0 0 1 , \eta _ { \mathrm { p } } ^ { 2 } = 0 . 3 6$ ，具体表现为：右侧额区诱发的LPC 波幅 $( 2 . 7 3 \mu \mathrm { V } )$ 显著大于左侧额区 $( 1 . 8 7 \mu \mathrm { V } )$ (图 3C&3D,图4)；距离和脑区、参照和脑区以及距离和参照和脑区的交互作用均不显著 $( F s < 1 . 3 5 , p s > 0 . 2 5 )$ 。综上可知，近空间距离条件下自我参照和他人参照加工都比远空间距离条件下有更明显的右侧额区激活(近我: $3 . 8 7 \mu \mathrm { V } >$ 远我: $2 . 5 5 \mu \mathrm { V }$ ；近他 $2 . 5 3 \mu \mathrm { V } >$ 远他: $1 . 9 8 \mu \mathrm { V } )$ (图3D,图4)。
+
+![](images/4baf2c5cb1dbcfc3f23d642f10abe0665ba550ec0daa8432d946669a1930ef1b.jpg)  
+图3四种实验条件下的ERPs总平均波形图
+
+![](images/ff93439b437fc9ada9f2e5446635328148e6b5905e7ca431af31ee0fa21706fe.jpg)  
+图4四种实验条件下的地形图
+
+# 4讨论
+
+# 4.1空间距离对早期认知加工的影响
+
+本研究采用学习-再认范式并结合事件相关电位技术考察了空间距离视角下自我参照加工的特点。结果显示，在早期P1和 N1成分的波幅和潜伏期上参照的主效应都不显著。根据之前研究可知，视觉早期注意加工较少涉及深度认知加工，主要受刺激物理属性的影响(李航等,2016;Liu etal.,2018)。在本研究中不同参照类型名字的物理属性基本一致，由此导致P1 和N1成分的波幅和潜伏期无显著差异。相反的，距离水平的物理属性则分远近，本研究也发现在P1和N1成分波幅以及N1成分潜伏期上距离的主效应均显著。在P1波幅上，近空间距离条件下诱发的波幅明显大于远空间距离。该结果验证了近空间距离刺激的注意理论(Abrams et al.,2008)和“优先进入”效应(Spence＆Parise,2010)，即近空间距离的刺激能够优先且更多地捕获注意。
+
+在N1波幅上，远空间距离条件下诱发的波幅明显大于近空间距离，这与P1结果相反。该结果再次证明P1和N1成分虽然都与早期注意密切相关,但二者是分离的两个成分(Slagter,Prinssen,Reteig,&Mazaheri,2016)。根据以往研究，个体需要加工的任务越困难，对注意资源的需求也就越大(李文辉，蒋重清，李婵，刘颖，刘富斌，2015)，而 N1 成分与注意操控(Klimesch， Sauseng，& Hanslmayr,2OO7)和定向(Natale，Marzi，Gireli, Pavone,& Pollmann,2006)有密切关系。在本研究中，远空间距离条件下要想将词组与名字建立联结，任务相对困难些，个体需要主动调用更多的注意资源才能完成这一加工过程。因此，导致了远空间距
+
+离条件下诱发的N1波幅更大，潜伏期更短。
+
+小结P1和N1成分的结果可知，参照的主效应均不显著，说明空间距离对不同参照加工的影响并未发生在认知加工的早期阶段。而在早期视觉加工开始阶段，近空间距离诱发的P1(105\~135ms)波幅更大，说明近空间距离比远空间距离捕获更多的注意资源。在进入稍晚的将词组与名字建立联结的准备阶段后，由于远空间距离需要调用和耗费更多的注意资源，所以在N1(150\~180ms)成分上，远空间距离诱发的波幅更大，潜伏期更短。总的来看，在早期阶段近空间距离比远空间距离条件下捕获了更多的注意资源。
+
+# 4.2空间距离对参照加工的影响
+
+学习阶段。数据结果显示，自我参照比他人参照的反应更快、诱发了更大的LPC 波幅和右侧额区激活。该结果证实了关于自我的精细加工理论(Klein,2012)——由于自我是一个独特的认知结构，与自我相关的记忆内容对于个人有着特殊重要的意义，在自我参照条件下记忆的材料会得到更快速和更加精细化加工，从而表现出自我参照加工优势。同时该结果还进一步证明了自我参照加工的偏侧化效应，即是右脑更多地控制自我认知加工(Kenan,Nelson,O'Connor,& Pascual-Leone,2001; Morita et al.,2018)。此外，近空间距离比远空间距离反应更快(与 ValdesConroy et al.,2014; ValdésConroy et al.,2012研究结果一致)，并且诱发了更大的LPC 波幅，距离和参照的交互作用在反应时和LPC 成分上都不显著。由上可知，学习阶段行为和脑电数据的结果都是距离和参照的主效应显著，而交互作用不显著。此结果说明距离和参照的显著不会互相受到对方的影响(张厚粲，2015)，即在自我参照和他人参照两种条件下，近空间距离都比远空间距离的反应更快，诱发的LPC 成分的波幅更大。地形图的结果也显示，近空间距离条件下自我参照和他人参照加工都比远空间距离条件下有更明显的右侧额区激活。Fields 和 Kuperberg (2016)指出LPC 成分的波幅越大反映加工过程中投入了更多的认知资源和对信息的存储程度更深。根据以往研究和本研究结果可知，虽然在近空间距离条件下加工时间少于远空间距离，但是从P1、N1 和 LPC 成分的数据结果可知，在两种参照条件下对近空间距离投入的注意资源和加工深度都明显大于远空间距离，从而导致了与远空间距离相比，在加工编码晚期阶段空间距离越近对自我参照和他人参照加工都起到了一定的增强作用。这些结果很好地验证了空间距离的注意理论(Abrams et al.,2008; Reedet al.,2006)：物理空间距离能够影响个体的心理认知加工，越近的空间距离越能够捕获更多的注意资源并且促进后续认知加工。
+
+再认阶段。自我参照比他人参照的记忆成绩更好，这与学习编码阶段以及前人研究一致(Gregg,Mahadevan,& Sedikides,2017)。再认提取阶段出现的记忆优势效应也进一步证明了自我参照条件下进行加工编码会比他人参照条件下加工程度更深并且构建更优的提取线索(Argembeau,Comblain,&Linden,2005)。距离的主效应不显著，参照和距离的交互作用显著。简单效应分析发现，在自我参照条件下，近空间距离记忆成绩明显好于远空间距离。此结果拓展了Oakes 和Onyper(2017)的研究：当物品离被试的空间距离保持不变，用手虚拟将物品拉近或推离自我，结果发现将物品拉近自我比推离自我的记忆成绩更好(也见 Truong，Chapman,Chisholm, Enns,& Handy,2O16)。Fujita, Henderson, Eng,Trope 和 Liberman (2006)以及Henderson,Fujita,Trope 和Liberman (2006)的研究则解释了这一现象的出现，他们发现被试对近空间距离条件下的刺激描述更加具体，对远空间距离条件下的刺激描述更加抽象，而具体线索更有利于记忆提取。再加上在学习阶段近空间距离比远空间距离刺激信息得到了更加精细而深入的加工。由此使得相比远空间距离，近空间距离对自我参照的增强作用在再认提取阶段依然得到了体现。
+
+通过上述论述可知，自我参照加工能够优先捕获注意，使刺激得到精细化加工。而近空间距离下的自我参照则能够进一步增强这一效应，使得刺激得到更加深入的精细化加工。该结果不仅证实了空间距离注意理论，还丰富了有关自我参照加工的理论体系：空间距离也是对自我参照加工产生影响的重要因素。此外，自我参照加工优势的产生源自与自我概念发生联结(Kim,2012;Ma＆Han,2010)。根据该研究结果可知，当外部刺激与个体空间距离越近时越能够促进其与自我概念发生联结，更容易进入自我范畴。
+
+但是与学习阶段不同的是，在再认阶段他人参照下远近空间距离的记忆成绩无显著差异，即近空间距离对他人参照的增强作用消失了。结合LPC 波幅的数据结果(图3C&3D)可知在学习阶段他人参照条件下捕获的注意资源相对较少，加工深度不够。而且由于他人参照下跟自我没有密切联系，构建的记忆提取线索也较差(Argembeau et al.,2005)。如此，由于本身记忆痕迹不深，并且中间有干扰任务，根据经典的记忆遗忘消退说和干扰说可知，他人参照下的词组更易被遗忘。所以虽然近空间距离在学习编码阶段能够起到增强加工作用，但是由于上述原因使得这一增强作用被抵消了，所以在再认阶段没能发现近空间距离对他人参照的增强作用。
+
+小结学习阶段和再认阶段的研究结果可知：相比远空间距离，在自我参照方面，近空间距离对自我参照加工具有明显的增强作用，并且这一增强作用发生在学习编码的晚期阶段(更大的LPC 波幅和右侧额区激活)，同时在再认提取阶段进一步验证了这一增强作用的稳定性(记忆成绩更好)；在他人参照方面，只在学习编码阶段表现出了近空间距离的增强作用，再认提取阶段这一增强作用则消失了，说明近空间距离下自我参照比他人参照加工更加稳定深入。
+
+# 4.3 总结与展望
+
+本研究采用学习-再认范式和ERPs技术从学习编码和再认提取两个阶段对空间距离视角下的自我参照加工进行探索。研究发现相比远空间距离，近空间距离对自我参照加工具有增强作用。本研究结果除验证了空间距离注意理论并丰富了有关自我参照加工的理论体系外，也给了我们一些有益启示：以往研究表明，社会距离越接近核心自我的人或物，越能激活深层次的自我概念，加工优势越明显(Allan,Morson,Dixon,Martin,& Cunningham,2017)。本研究结果发现，空间距离越近时也能够激活个体更深层次的自我概念。这些结果说明社会距离和空间距离在个体自我概念形成过程中都发挥着重要作用，距离越近对自我概念形成产生的影响力越大。一般我们强调了亲近的人(比如：父母)对个体形成良好自我概念的重要性，而根据本研究结论得到的启示是：虽然亲近的人离个体的社会距离较近，但是假如空间距离很远的话(如：留守儿童与父母)，他们对儿童自我概念形成的影响力必然会大打折扣，故此应该倡导更多的近身陪伴，才能更好地培养孩子的健全人格。
+
+本研究尚存在以下不足之处：首先，本研究采用的是2D模拟的方式对远近空间距离进行操控，未来可以在3D场景或者真实场景里进行研究，进一步提高生态效度；其次，我们只重点研究了空间距离对自我名字参照加工影响，未来可以继续探索空间距离对其他自我相关信息加工的影响；最后，未来可以对他人参照加工提取阶段进行进一步研究，探索空间距离对不同参照类型加工影响的稳定性问题。
+
+# 5 结论
+
+本研究得到以下结论： (1)在近空间距离和远空间距离上，不同参照类型诱发的早期 P1和 N1成分的波幅和潜伏期均无显著差异；而近空间距离比远空间距离自我参照加工诱发了更大的LPC波幅和右侧额区激活，再认的记忆成绩也更好。这些结果说明近空间距离对自我参照加工具有明显的增强作用，并且主要发生在晚期认知加工阶段。(2)近空间距离比远空间距离他人参照加工诱发了更大的LPC 波幅和右侧额区激活，但二者的再认记忆成绩则无显著差异。该结果表明近空间距离条件下自我参照比他人参照加工更加稳定深入。
+
+参考文献   
+Abrams, R.A., Davoli, C.C.,Du,F., Iii, W.H. K.,& Paull, D. (2008). Altered vision near the hands. Cognition, 107(3),1035-1047.   
+Allan,K., Morson, S., Dixon, S., Martin,D.,& Cunningham, S.J.(2017). Simulation-based mentalizing generates a "proxy" self-reference effect in memory. The Quarterly Journal of Experimental Psychology, 70(6),1074-1084.   
+Argembeau,A.D., Comblain, C.,& Linden,M. V.D.(2Oo5). Affective valence and the self-reference effect: influence of retrieval conditions. British Journal of Psychology, 96(4), 457-466.   
+Chen, J., Yuan, J.,Feng,T., Chen, A., Gu,B.,& Li, H. (2O11). Temporal features of the degree effect in self-relevance: neural correlates. Biological Psychology, 87(2),290-295.   
+Dainerbest, J., Trujilo,L.T., Schnyer, D. M.,& Beevers, C. G. (2017). Sustained engagement of attention is associated with increased negative self-referent processing in major depressive disorder. Biological Psychology, 129,231-241.   
+Fan, W., Chen,J., Wang, X. Y., Cai, R., Tan, Q., Chen, Y., & Wang, X. A. (2013). Electrophysiological correlation of the degree of self-reference effect. PLoS One, 8(12), e80289.   
+Fan, W., Zhong, Y.P.,Li,J., Yang, Z., Zhan, Y., Cai,R.,& Fu, X.L. (2O16). Negative emotion weakens the degree of self-reference effect: evidence from ERPs.Frontiers in Psychology,7, 1408.   
+Fields,E. C.,& Kuperberg, G. R. (2016). Dynamic effects of self-relevance and task on the neural processing of emotional words in context. Frontiers in Psychology,6,2003.   
+Fujita,K., Henderson, M. D., Eng,J., Trope, Y.,& Liberman, N. (2O06). Spatial distance and mental construal of social events. Psychological Science,17(4), 278-282.   
+Gregg,A.P., Mahadevan, N.,& Sedikides, C. (2017). The SPOT effect: people spontaneously prefer their own theories. The Quarterly Journal of Experimental Psychology,70(6), 996-1010.   
+Griffin, I. C., Miniussi, C.,& Nobre,A. C. (2002). Multiple mechanisms of selective attention: differential modulation of stimulus processing by atention to space or time. Neuropsychologia, 40(13), 2325-2340.   
+Grili,M. D., Woolverton, C. B., Crawford, M. S.,& Glisky, E.L. (2018). Self-reference and emotional memory efects in older adults at increased genetic risk of alzheimer's disease. Aging, Neuropsychology, and Cognition, 25(2), 186-199.   
+Handy,T. C., Grafton, S.T., Shroff,N. M., Ketay, S.,& Gazzaniga, M. S. (2003). Graspable objects grab attention when the potential for action is recognized. Nature Neuroscience, 6(4), 421-427.   
+Henderson, M. D., Fujita, K., Trope, Y.,& Liberman,N. (20O6). Transcending the"here": the effect of spatial distance on social judgment. Journal of Personality and Social Psychology, 91(5), 845-856.   
+Kalenzaga, S., & Jouhaud, V. (2O18). The self-reference effect in memory: an implicit way to assess affective self-representations in social anxiety. Memory,26(7), 894-903.   
+Kalenzaga, S., Sperduti, M., Anssens, A., Martinelli, P., Devauchelle, A. D., Gallarda, T., & Oppenheim, C. (2015). Episodic memory and self-reference via semantic autobiographical memory: insights from an fMRI study in younger and older adults. Frontiers in Behavioral Neuroscience, 8, 449.   
+Kasai,T.,Morotomi, T., Katayama, J.I.,& Kumada,T. (2O03). Attending to a location in three-dimensional space modulates early ERPs. Cognitive Brain Research,17(2), 273-285.   
+Keenan, J. P., Nelson, A., O'Connor, M., & Pascual-Leone,A. (2oo1). Neurology: self-recognition and the right hemisphere. Nature, 409(6818), 305-306.   
+Kim, H. (2012). A dual-subsystem model of the brain's default network: self-referential processing, memory retrieval processes,and autobiographical memory retrieval. Neuroimage, 61(4), 966-977.   
+Klein, S. B. (2O12). Self, memory,and the self-reference effect: an examination of conceptual and methodological issues.Personality and Social Psychology Review, 16(3),283-300.   
+Klimesch, W., Sauseng,P.,& Hanslmayr, S. (20o7). EEG alpha oscilations: the inhibition-timing hypothesis. Brain Research Reviews,53(1),63-88.   
+Kolb,L.E.(2O15). Friend or foe? The relationship between facebook use and satisfaction and jealousy in long-distance dating relationships. Pepperdine Journal of Communication Research,3(1),2.   
+Kong, F., Chen, H., Zhang, Y.,& Kou, H. (2O12). The self-reference effect in evaluating physical and inner ugliness: an event related-potential study. International Conference on Fuzzy Systems and Knowledge Discovery ,9, 3004-3008.   
+Leshikar, E.D., & Duarte, A. (2O14). Medial prefrontal cortex supports source memory for self-referenced materials in young and older adults. Cognitive, Affective, and Behavioral Neuroscience,14(1),236-252.   
+Li, H.,Liang,L. Y., Zhang, X., & Gao, X. R. (2016). Understanding the face perception in the early stage through P1. Beijing Biomedical Engineering, 35(6),551-560.   
+[李航，梁栗炎，张旭，高小榕.(2016).基于事件相关电位P1的人脸视觉信息早期加工研 究.北京生物医学工程,35(6),551-560.]   
+Li, W. H., Jiang, Z. Q.,Li, C.,Liu, Y., & Liu, F. B. (2015). Spatio-temporal features of internal self-reference processing in brain:evidence from the ERP. Psychological Exploration, 35(2), 147-152.   
+[李文辉，蒋重清，李婵，刘颖，刘富斌.(2015).人脑加工自我参照任务的时空特点：来自 ERP 的证据.心理学探新,35(2),147-152.]   
+Liu,P.,Forte, J., Sewell, D., & Carter, O. (2O18). Cognitive load effects on early visual perceptual processing. Attention Perception and Psychophysics, 80(4), 929-950.   
+Ma, Y.,& Han, S. (2O1O). Why we respond faster to the self than to others? An implicit positive association theory of self-advantage during implicit face recognition. Journal of Experimental psychology. Human Perception and Performance, 36(3), 619-633.   
+Markman, A. B.,& Brendl, C. M. (2Oo5). Constraining theories of embodied cognition. Psychological Science,16(1), 6-10.   
+Morita, T., Saito,D. N., Ban, M., Shimada, K., Okamoto, Y., Kosaka, H., Okazawa, H., Asada, M., & Naito,E. (2O18). Self-face recognition begins to share active region in right inferior parietal lobule with proprioceptive illusion during adolescence. Cerebral Cortex, 28(4),1532-1548.   
+Natale,E.,Marzi, C.A., Girelli,M.,Pavone,E.F.,&Pollmann, S. (2O06).ERP and fMRI correlates of endogenous and exogenous focusing of visual-spatial atention. European Journal of Neuroscience, 23(9), 2511-2521.   
+Oakes,M.A.,& Onyper, S. V. (2017). The movement-induced self-reference effect: enhancing memorability through movement toward the self. Cognitive Processing,18(3), 325-333.   
+Peng,X., Jiao, C., Cui, F., Chen, Q.,Li,P.,& Li, H. (2017). The time course of indirect moral judgment in gossip processing modulated by different agents. Psychophysiology, 54(10), 1459-1471.   
+Reed, C.L., Grubb, J. D.,& Steele, C. (2006). Hands up: attentional prioritization of space near the hand. Journal of Experimental Psychology: Human Perception and Performance,32(1), 166-177.   
+Rogers,T. B., Kuiper, N. A.,& Kirker, W. S. (1977). Self-reference and the encoding of personal information. Journal of Personality and Social Psychology, 35(9), 677-688.   
+Sambo, C.F.,& Forster, B. (2O09). An ERP investigation on visuotactile interactions in peripersonal and extrapersonal space: evidence for the spatial rule. Journal of Cognitive Neuroscience,21(8),1550-1559.   
+Slagter, H.A., Prinssen, S., Reteig,L. C.,& Mazaheri, A. (2O16). Facilitation and inhibition in attention: functional dissociation of pre-stimulus alpha activity, P1 and N1 components. Neuroimage, 125, 25-35.   
+Spence, C., & Parise, C. (201O). Prior-entry: a review. Consciousness and Cognition, 19(1), 364-379.   
+Symons, C. S.,& Johnson,B.T. (1997). The self-reference effct in memory: a meta-analysis. Psychological Bulletin, 121(3),371-394.   
+Tacikowski, P., Brechmann, A., & Nowicka, A. (2013). Cross-modal pattern of brain activations associated with the processing of self-and significant other's name. Human Brain Mapping,34(9),2069-2077.   
+Taylor, M. J., Arsalidou, M.,Bayless, S.J., Morris,D.,Evans,J.W.,& Barbeau, E.J.(2009). Neural correlates of personally familiar faces: parents, partner and own faces. Human Brain Mapping,30(7),2008-2020.   
+Trope,Y., & Liberman, N. (201O). Construal-level theory of psychological distance. Psychological Review, 117(2), 440-463.   
+Truong, G, Chapman, C. S., Chisholm, J. D., Enns,J.T.,& Handy,T. C.(2016). Mine in motion: how physical actions impact the psychological sense of object ownership. Journal of Experimental Psychology. Human Perception and Performance, 42(3), 375-385.   
+ValdésConroy,B., Roman,F. J., Hinojosa, J.A., & Shorkey, S.P. (2012). So far so good: emotion in the peripersonal/extrapersonal space. PLoS one, 7(11), e49162.   
+ValdésConroy, B., Sebastian, M., Hinojosa, J. A., Roman,F. J.,& Santaniello, G. (2014). A close look into the near/far space division: a real-distance ERP study. Neuropsychologia, 59, 27-34.   
+Wang,P., Chen, Q. W., Tang, X. C.,Luo, J.L.,Tan, C. H.,& Gao, F. (2017). The situational primacy of Chinese individual self,relational self,collective self: evidence from ERP. Acta Psychologica Sinica, 49(8),1072-1079.   
+[王沛，陈庆伟，唐晓晨，罗俊龙，谈晨皓，高凡.(2017)．中国人三重自我建构加工中的相对 优先性：来自 ERP 的证据.心理学报,49(8),1072-1079.]   
+Wang,L., & Yao, W. (2O16). So near, so good: does near-distance perception reduce interpersonal psychological distance? Social Behavior and Personality an International Journal, 44(6), 889-898.   
+Yuan, J. J., Yang, J. M., Meng, X. X., Yu,F. Q.,& Li, H. (2008). The valence strength of negative stimuli modulates visual novelty processing: electrophysiological evidence from an event-related potential study. Neuroscience, 157(3), 524-531.   
+Zhang,H. C., & Xu, J.P. (2015). Modern psychological and educational statistics. Beijing, China: Beijing Normal University Press.   
+[张厚粲,徐建平.(2015)．现代心理与教育统计学.北京：北京师范大学出版社.]   
+Zheng,J.J., Cai,M.,Li, C.Z.,& Shao,C. (2017). Impacts of decision framing and psychological distance on individual cooperative behavior. Management Review,29(5),1O2-109.   
+[郑君君，蔡明，李诚志，邵聪.(2017)．决策框架、心理距离对个体间合作行为影响的实验研 究.管理评论,29(5),102-109.]
+
+# Enhancement effect of near spatial distance on self-referential processing: EvidencefromBehavioralandERPsStudies
+
+ZHANG Pengcheng1; LI Yangzhuo²; ZHOU Shujin'; GAO Xiangpingl; PAN Xin³ ('Departmentof Psychology,Schoolof Education,Shanghai Normal University,Shanghai 20o234,China) (The SchoolofPsychologyandCognitive Science,East China Normal University,Shanghai 2Oo062,China) (Nanjing Institute of Tourism and Hospitality,Nanjing 21l1oo,China)
+
+# Abstract
+
+Self-reference can improve the memorization of stimulated information,and this is a phenomenon called the self-referential effect. Previous studies from the perspective of social distance (such as parents, friends,and strangers) show that the speed of processing or clasifying stimulus and memory performance under self-reference significantly outperform the cases under other-reference. Other than social distance,another concept greatly influences individual cognition and behavior: spatial distance. However, research from the perspective of spatial distance is scant. To broaden the perspectives on the self-referential effect，we constructed different distance conditions through a 2D corridor and investigated how spatial distance afects self-referential processing through a learning-recognition paradigm and event-related potential techniques. Neutral nouns were used as the experimental materials.
+
+We designed a 2 (reference: self, other) $\times 2$ (distance: far, near） within groups design and added a stranger reference as the alert group. The coridor has three grids: the upper, middle, and lower grids. In the learning stage,the neutral noun was randomly presented in the middle grid while the name was also shown randomly in the upper or lower grid.Two levels of the distance variable were measured by the distance between the middle and the upper or lower grids. Participants were required to press the up arrow“↑” when name (except stranger's name) appeared in the upper grid, and press the down arrow“↓” when name (except stranger's name) appeared below. If a stranger's name appeared in any grid, the participants had to press “f'. And try to associate the words with the names in mind during experiment. After a simple calculation of the interference task, a surprise recognition test was conducted. The response time,accuracy rate and EEG data of the participants were recorded during the experiment.
+
+The results showed that the response time under self-reference was significantly shorter than that under other-reference,and the response time of near-distance was significantly shorter than far-distance.The main effects of distance on the amplitude of P1 and N1 components and the latency of N1 component were significant, whereas the main effects of reference on those aspects were not significant. Self-referential and other-referential processng in near-distance induced larger LPC amplitude and right frontal activation relative to the far-distance alternative. In the recognition stage，memory performance in self-reference was significantly beter than that in other-reference,and such performance under the near-distance condition was significantly better than that under the far-distance situation. However, memory performances under other-reference with the far- and near-distance conditions were not significant.
+
+This study broadens our understanding of self-referential processing from the perspective of spatial distance. Compared with the far-distance condition,the near-distance counterpart enhances self-referential processing; thus,when individuals process the self-reference information in the near-distance， greater LPC amplitude and right frontal activation as well as better memory performance is achieved.This study provides implications for future exploration of the self-referential effect from the perspective of spatial distance.
+
+Key wordsself-referential processing; spatial distance; enhancement effect

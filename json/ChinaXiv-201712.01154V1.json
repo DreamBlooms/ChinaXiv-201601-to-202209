@@ -1,0 +1,353 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "金腰带联合甲基强的松龙对脊髓损伤大鼠行为学及脑源性神经营养因子表达的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李翠英'，许争光²,王廷华³  \n昆明医科大学'病原生物学与免疫学系，神经科学研究所,云南昆明 650500;²云南省玉溪市中医医院,云南  \n玉溪653100",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的 探讨金腰带和甲基强的松龙联合应用对脊髓损伤(SCI)大鼠的疗效及其对脑源性神经营养因子(BDNF)表达的影响,为临床治疗脊髓损伤提供理论依据。方法将雌性SD大鼠30只随机分为：(1)假手术组；(2)脊髓挫伤组;(3)甲基强的松龙治疗组(术后8h内肌注 $5 0 \\mathrm { m g / k g }$ ,此后每天甲基强的松龙肌注量减少 $1 0 \\mathrm { m g / k g }$ )；(4)金腰带治疗组( $5 0 \\mathrm { m g / k g }$ ,每日1次灌胃）；(5)金腰带和甲基强的松龙联合治疗组(两种药物及给药方法相加)。采用BBB评分系统对后肢运动功能进行评分。对大鼠脊髓损伤术后4周的脊髓切片进行BDNF免疫组化染色，观察阳性细胞定位、分布以及数量变化。用方差分析进行多个样本间比较。结果BDNF免疫反应阳性产物主要分布于脊髓灰质腹角和背角神经元。联合治疗组BDNF阳性神经元数量以及BBB评分分值较假手术组、脊髓挫伤组、甲基强的松龙治疗组和金腰带治疗组均显著增高,差异有统计学意义( $P { < } 0 . 0 5 )$ 。结论甲基强的松龙和金腰带联合治疗脊髓损伤的疗效优于单纯甲基强的松龙治疗组和金腰带治疗组，其发挥疗效可能与上调BDNF表达有关。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：金腰带；甲基强的松龙；脊髓损伤；脑源性神经营养因子",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effect of Gold Belt combined with methylprednisolone on motor function and brain-derived neurotrophic factor expression in rats following traumatic spinal cord injury ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Cuiyingl,XU Zhengguang²,WANG Tinghua   \nDeprtetotecdi   \nTraditional ChineseMedicineHospital,Yuxi 6531oo,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ObjectiveTo studytheeffectsofaGold Belt (GB,a traditional Chineseherbal medicine)combined withmethylprednisolone (MP)onthemotorfunctionandbrain-derived neurotrophic factor (BDNF)expresion inrats withcontusivespinal cordinjury (SCI).Methods Thirtyadult femaleSDrats wererandomly divided into5equal groups,namely thesham-operated group,SCI group, SCI with MP treatment group (MP group, with intramuscular injection of $5 0 ~ \\mathrm { m g / k g }$ MP within 8 hours after SCI and then dosage reduced $1 0 ~ \\mathrm { m g / k g }$ daily), SCI with GB treatment group (GB group, with intragastric gavage of GB $5 0 ~ \\mathrm { m g / }$ kg once dailyfor7days),and combined GBandMPtreatment group.The Basso,Beatie& Bresnahan (BBB)locomotorscale was used toevaluate the hindlimb motorfunctionof theratsondays1,3,7,14,21and28aftertheinjury.After thelast evaluationtheratsweresacrificedforimmunohistochemistrytoobservethelocalizationofBDNFintheventralanddorsalhorn of spinal ord.Results BDNF were distributed mainly in neurons in the spinalcord grey mater ventral hornand dorsal hornof the rats.The number of BDNF-positive neurons and BB scores in thecombined treatment group weresignificantly higher than those in the other 4 groups $( P { < } 0 . 0 5 )$ . Conclusion GB combined with MP produces better therapeutic effects for treating SCI than GB or MP used alone, and such effects are probably related with enhanced BDNF expression in the spinal cord. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Gold Belt; methylprednisolone; spinal cord injury; brain-derived neurotrophic factor ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "脊髓损伤(SCI)是中枢神经系统的严重损伤[1],致死、致残率高，因此研究其修复机制、寻找有效的治疗策略意义重大。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究提示，神经损伤后不少细胞因子的表达发生了明显改变24，而这些改变可能是导致损伤神经形态结构变化的分子基础。脑源性神经营养因子(BDNF)是神经生长因子家族成员中的第2成员，其功能与神经元存活、增殖、分化、诱导神经突起生长和对损伤后的神经再生发挥促进作用有关[59]。将胚胎鼠脊髓移植入成年大鼠脊髓后发现移植物周围BDNF的表达均明显增加[10],可见BDNF在神经元发育和神经损伤修复中具有重要作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "甲基强的松龙(methylprednisolone,MP)用于急性脊髓损伤的治疗已有数十年的历史，美国国立急性脊髓损伤研究会(National Acute Spinal Cord Injury Study,NASCIS)第Ⅱ、IⅢ期的大量临床试验结果证实,于急性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SCI后 $8 \\mathrm { { h } }$ 内进行大剂量MP冲击疗法可明显促进损伤后脊髓功能的恢复[1],MP是目前被明确肯定疗效的药物，但其分子机制仍未完全阐明。金腰带为瑞香科植物垂穗莞花的花、根或茎皮。垂穗芫花又名细轴芫花、野棉花、地麻棉、野发麻,具有消坚破瘀,止血镇痛的功效，实验表明可用于治疗大鼠 $\\mathrm { S C I } ^ { [ 1 2 ] }$ 。在上述工作基础上,本实验旨在探讨金腰带与甲基强的松龙联合治疗SCI的疗效及可能的分子机制，为临床应用提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "脑源性神经营养因子(BDNF)多克隆抗体(美国Santa Cruz Biotechnology公司）、二抗 Streptavidin-HRP复合物(美国sigma公司）恒冷冰冻切片机(LeicaCM1900，Germany）二氨基联苯胺(DAB,北京中杉公司）、光学显微镜(Leica DMI 6OOOB inverted microscopeGermany）显微照相系统(Leica,Germany)等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2实验动物及分组",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "清洁级成年雌性SD大鼠30只,体质量 $( 2 5 0 { \\pm } 1 0 ) \\mathrm { g }$ 由昆明医科大学实验动物中心提供。将大鼠随机分为5组：假手术(sham)组，脊髓挫伤(SCI)组，甲基强的松龙治疗(MP)组，金腰带治疗(GB)组，金腰带和甲基强的松龙联合治疗( $\\mathbf { \\widehat M P + G B } .$ )组。每组6只大鼠。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3脊髓挫伤模型制备 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "用 $1 \\%$ 戊巴比妥钠 $\\mathrm { ( 3 0 ~ m g / k g ) }$ 经腹腔注射麻醉大鼠，固定于手术台上，无菌条件下行背中段正中切口，分离椎旁肌，咬除 $\\mathrm { T _ { 8 } { \\sim } T _ { 1 0 } }$ 棘突椎板，暴露脊髓硬膜，使用Allen's脊髓打击器，采用 $1 0 \\mathrm { ~ g ~ }$ 重锤自距硬膜 $2 5 ~ \\mathrm { m m }$ 的高度垂直落下，造成大鼠脊髓中度损伤。假手术组仅咬除 $\\mathrm { T _ { 8 } { \\sim } T _ { 1 0 } }$ 棘突椎板，暴露脊髓硬膜，不予重锤打击。各组大鼠分笼饲养，喂全价饲料，自由饮水，室温( $2 4 \\pm$ $5 \\mathrm { { ^ \\circ C } } ,$ ,每日行人工膀胱排尿3次。术后5d,各组均肌注青霉素16万 $\\mathrm { U } / ( \\mathrm { k g } { \\cdot } \\mathrm { d } )$ O",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4干预治疗组",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "金腰带治疗组，金腰带成分配方为：芫花根童便浸泡1周后晒干醇提物，每克成药相当于原生药 $3 \\mathrm { g } _ { \\mathrm { o } }$ 每日1次胃内灌服金腰带营养方 $5 0 \\mathrm { m g / ( k g \\cdot d ) }$ ，共 $7 ~ \\mathrm { d } ^ { [ 1 2 ] }$ 。甲基强的松龙治疗组大鼠于术后 $8 \\mathrm { { h } }$ 内肌注 $5 0 \\mathrm { m g / k g }$ ，此后每天甲基强的松龙肌注量减少 $1 0 \\mathrm { m g / k g }$ ，共 $5 ~ \\mathrm { d } ^ { [ 1 3 ] }$ ；金腰带和甲基强的松龙联合组将前2法相加进行。假手术组和对照组大鼠灌服等量生理盐水。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5神经行为学BBB评分",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "按文献报道采用BBB评分[14于术后1,3,7,14,21,28d对大鼠后肢运动功能进行评分。手术组和假手术组大鼠的存活时间均符合对双侧后肢运动功能评测的要求，为避免评分的人为误差，采用3人分别独立观察记录(无手术操作相关知识)，取平均值。所有行为学评估实验均在相应观察日期的早上8\\~9点进行。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.6取材与固定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "术后4周对大鼠完成行为学评分后，给予 $4 \\%$ 多聚甲醛心内灌注固定，以损伤处为中心取 $8 \\mathrm { m m }$ 长的损伤脊髓置于含 $20 \\%$ 蔗糖的 $0 . 1 \\mathrm { m o l / L }$ 磷酸缓冲液(PBS)中脱水，制作冰冻切片(厚 $2 0 \\mu \\mathrm { m } \\dot { }$ ),用于免疫组化染色。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.7BDNF免疫组化染色",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "按下列程序进行免疫组化染色：切片经 $0 . 1 \\mathrm { \\ m o l / L }$ PBS中漂洗后用 $3 \\%$ 过氧化氢孵育 $3 0 ~ \\mathrm { m i n }$ ，于 $5 \\%$ 羊血清(含 $0 . 3 \\%$ Triton $\\mathrm { X } { \\cdot } 1 0 0 ) 3 7 ~ \\mathrm { } ^ { \\circ } \\mathrm { C }$ 反应 $3 0 \\mathrm { m i n }$ 。加入I抗（兔多克隆BDNF抗血清，稀释倍数为 $1 : 1 0 0 0 ) 4 \\mathrm { ~ \\textdegree C }$ 孵育$2 4 \\mathrm { h } _ { \\circ }$ $0 . 1 \\mathrm { m o l } / \\mathrm { L }$ PBS漂洗3次,与ReagentKit的试剂I和II (Chemicon，Anti-Rabbit/Mouse Poly-HRP IHCDetectionKit,USA)于 $3 7 \\ \\mathrm { { ^ { \\circ } C } }$ 下分别反应 $3 0 \\mathrm { m i n }$ ，漂洗后DAB显色。水洗、脱水、透明、封片。光学显微镜观察,显微照相系统采集图像。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "阳性染色结果判定：按照McCarthy等[15的方法，细胞着色程度分为0、1、2、3四级，分别对应无着色、轻度着色、明显着色和深度着色。其中达到1级为阳性(若用灰度表示，一般染色深度至少比对照大5倍)。细胞计数：每例动物取5张切片，每张切片取5个视野( $\\left. \\times 2 0 0 \\right.$ ，背角由浅入深取3个视野，腹角取VII\\~IX板层和VI\\~VI板层两个视野，用方测格计数BDNF阳性细胞数，最后将各组照片数据换算成100个方格内的平均数，进行各组比较。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.8统计学分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "各组动物经造模和相应处理后，行单盲实验检测，应用SPSS17.0统计软件包采用单因素方差分析，以 $P <$ 0.05为差异有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1BDNF在脊髓的分布和细胞定位",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "BDNF免疫反应阳性产物呈棕黄色颗粒，主要分布于大鼠脊髓灰质腹角(图1A)和背角(图1B)神经元。阳性免疫反应物质主要定位于神经元胞浆中，着色深，神经元突起着色较浅，胞浆与胞核的界线清楚，胞核未见染色。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2SCI后BDNF在损伤脊髓腹角和背角的变化 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SCI后28d,腹角、背角BDNF阳性细胞数均较假手术组增高，差异有统计学意义！ $( P { < } 0 . 0 5 )$ 。与SCI组比较，甲基强的松龙治疗组及金腰带治疗组的BDNF阳性神经元数量进一步增加，差异有统计学意义 $( P { < } 0 . 0 5 )$ O且金腰带与甲基强的松龙联合治疗组腹角、背角BDNF阳性神经元数量均较金腰带治疗组、MP组、SCI组增加，差异有统计学意义（ $\\scriptstyle \\left( P < 0 . 0 5 \\right.$ ，表1，图2,3)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3动物行为学变化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假手术组大鼠BBB评分显示，术后1d大鼠的运动功能有所减弱，但术后3d即恢复正常至21分。然而，与假手术组比较，脊髓损伤大鼠的BBB评分从术后1d",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1挫伤后28d损伤段脊髓BDNF阳性神经元数量变化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e50474c538fe9e2de2285ce956246330c70dfd2980077626e6ab4fc4ad94bca6.jpg",
+        "table_caption": [
+            "Tab.1 BDNF-positive neurons in the spinal cord of the rats on day 28 after SCI (Mean±SD,n=6) "
+        ],
+        "table_footnote": [
+            "\\*,compared with sham group $( P { < } 0 . 0 5 )$ ; #,compared with SCI group ( $P <$ 0.05); $\\blacktriangle$ ，compared with GB group $( P { < } 0 . 0 5 )$ · $\\Delta$ ，compared with MP group $( P { < } 0 . 0 5 )$ 1： "
+        ],
+        "table_body": "<html><body><table><tr><td>Group</td><td>Spinal ventral horn</td><td>Spinal dorsal horn</td></tr><tr><td>Sham</td><td>7.86±0.31</td><td>12.90±0.97</td></tr><tr><td>SCI</td><td>9.54±0.51*</td><td>17.16±0.46*</td></tr><tr><td>MP</td><td>11.98±0.41#</td><td>20.18±1.58*</td></tr><tr><td>GB</td><td>11.78±0.32*</td><td>20.58±0.89#</td></tr><tr><td>MP+GB</td><td>15.33±2.16 #A</td><td>61.1±5.0#△</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7448991b2b624d1651e1daf8259c1f40271c00b32844e825863090cd7ec642c7.jpg",
+        "img_caption": [
+            "图1脊髓BDNF免疫组化染色 Fig.1 BDNF expression in the spinal cordofrats(Immumohistochemical staining, original magnification: $\\times 2 0 0 ^ { \\cdot }$ .A: Ventral horn; B: Dorsal horn. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "即明显下降，动物后肢运动功能几乎完全丧失。但随着时间推移，特别是术后7d开始逐渐有一定恢复。甲基强的松龙和金腰带单独治疗组大鼠显示了较好的运动功能改进，而两者联合应用后大鼠的运动功能改善更明显，各组间比较均有统计学意义( $\\scriptstyle \\phantom { + } P < 0 . 0 5$ ，表2)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1联合治疗对脊髓损伤大鼠神经行为学的影响和意义",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本实验发现，与SCI组比较，甲基强的松龙、金腰带单独治疗组BBB评分值均增加，且后者高于前者，提示金腰带的疗效优于甲基强的松龙，这一结果与之前报道的结果类似[12-13]。然而重要的是本实验新发现甲基强的松龙和金腰带联合应用BBB评分值最高，两者联合应用后大鼠神经功能恢复最快最好，表明两者联合应用可更有利于损伤神经元的修复和残存神经元的存活、维持,从而促进神经功能的恢复。文献报道[16-17],金腰带多用于治疗菌痢、淋病、胃痛、食积、跌打损伤、风湿性关节炎、难产、死胎、瘙痒症、疮疡、肠炎等。MP是目前治疗急性脊髓损伤最为有效的甾类抗炎药物。虽然甲基强的松龙和金腰带均能促进脊髓损伤后的神经功能恢复[12-13],但联合应用的效果至今未见报道。本研究首次发现甲基强的松龙和金腰带联合应用后对大鼠SCI的疗效更明显，两者联合应用为临床进一步推广应用提供了实验依据。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0bef385ffe441c75d3b3c5c9a9939d946b80a2a704719e9c29989c78ea739f58.jpg",
+        "img_caption": [
+            "图2脊髓腹角BDNF免疫组化染色 Fig.2BDNF expression inthe spinal cord ventral hornofrats (Immumohistochemical staining,original magnification: $\\times 2 0 0$ ） A: Sham group; B: SCI group; C: MP group; D: GB group; E: $\\mathrm { M P { + } G B }$ group; F: Negative control group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a880953760e4294d4faabd17df284da8ef43dcc705bd14469626289b5e92e64e.jpg",
+        "img_caption": [
+            "图3脊髓背角BDNF免疫组化染色 Fig.3BDNFexpresioninthespinalcorddorsalhornof therats (Immumohistochemicalstainingoriginalmagnification: $\\times 2 0 0$ ） A: Sham group; B: SCI group; C: MP group; D: GB group; E: $\\mathrm { M P { + } G B }$ group; F: Negative control group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e8a29a6dfa2c3b03e3e383582aa83fbbc5cfc553786874f53a89e3dcd614a2b8.jpg",
+        "table_caption": [
+            "表2脊髓挫伤大鼠后肢运动功能BBB评分变化Tab.2 BBB locomotor scores for hind limbs of the rats (Mean±SD,n=6)"
+        ],
+        "table_footnote": [
+            "a,b,c,d,e,compared with sham group $( P { < } 0 . 0 5 )$ ； f,compared with SCI group $( P { < } 0 . 0 5 )$ ；g,compared with MP group $( P { < } 0 . 0 5 )$ ;h, compared with GB group $( P { < } 0 . 0 5 )$ "
+        ],
+        "table_body": "<html><body><table><tr><td>Group</td><td>1d</td><td>3d</td><td>7d</td><td>14d</td><td>21d</td><td>28d</td></tr><tr><td>Sham</td><td>19.0±1.10</td><td>21.0±0.1</td><td>20.80±0.45</td><td>21.0±0.0</td><td>21.0±0.0</td><td>21.0±0.0</td></tr><tr><td>SCI</td><td>0.61±0.40</td><td>0.7±0.5a</td><td>3.32±0.41b</td><td>5.3±1.2c</td><td>6.6±1.7d</td><td>8.18±0.16c</td></tr><tr><td>MP</td><td>0.73±0.35</td><td>0.8±0.6a</td><td>4.98±0.25b f</td><td>7.5±1.5c.f</td><td>10.3±1.2d f</td><td>12.10±0.37. f</td></tr><tr><td>GB</td><td>0.6±0.5</td><td>1.0±0.6a</td><td>5.6±1.0b.f,g</td><td>8.9±1.3c.f.g</td><td>11.6±1.3d. f, g</td><td>12.4±0.6c.f.g</td></tr><tr><td>MP+GB</td><td>0.7±0.5</td><td>1.0±0.6a</td><td>4.6±1.1b.h</td><td>10.2±1.5c.h</td><td>12.9±1.6d h</td><td>15.9±1.5c h</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2联合治疗促进BDNF表达的功能意义",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文发现，BDNF免疫阳性反应物主要分布于脊髓神经元，定位于胞浆，说明大鼠脊髓神经元存活需要BDNF的营养支持。脊髓前角(腹角)脊髓运动神经元是控制肢体骨骼肌运动行为的主要执行者，与动物行为学关系密切,BDNF在前角(腹角)脊髓运动神经元表达，提示BDNF可能参与运动功能的调节；文献报道，外源性BDNF对大鼠胚胎胆碱能神经元[18]及红核脊髓神经元存活有促进作用[19]。本实验中,BDNF免疫反应阳性产物除了见于脊髓腹角的神经元内，还见于脊髓背角神经元内，提示BDNF还可能参与痛觉的形成和传导。本实验所显示的BDNF在脊髓的定位分布与孙玲[20]、伍校琼等报道的BDNF在成年猴脊髓的分布定位基本一致，表明BDNF在维持脊髓神经元的存活或正常生理功能上发挥重要作用。本实验发现SCI后28d,治疗组BDNF阳性细胞数量较假手术组增多，尤其是背角BDNF阳性神经元数增多更明显，其中金腰带、甲基强的松龙两者联合应用组BDNF阳性神经元数量增加最多，说明两者联合应用具有协同作用；提示内源性BDNF可能参与了损伤感觉神经元的修复、损伤灶周围受累神经元的存活及功能的恢复。金华等[22用ELISA、RT-PCR发现脊髓全横断大鼠术后14dBDNFmRNA较术后1d、3d表达上调，术后28dBDNF含量高于假手术组。李晓宁等23采用改良的Allen's捶击法制作大鼠脊髓损伤模型并给予夹脊电针治疗，免疫组化染色检测损伤段脊髓BDNF阳性细胞数，发现夹脊电针治疗组在脊髓损伤后1、3、7、14dBDNF阳性细胞数较对照组持续增高，高峰值在损伤后 $\\mathrm { 7 ~ d _ { \\mathrm { { c } } } }$ 徐明珠等24采用成年雄性Wistar大鼠于梨状肌下缘及其以远 $1 5 \\mathrm { m m }$ 处分别切断坐骨神经后再行两处断端神经外膜缝合，制成神经移植模型，免疫组化染色发现术后3dL4-L6节段脊髓前角BDNF表达就开始升高，2周时达高峰，6\\~8周后逐渐下降，至8周时仍高于对照组，说明外周神经的损伤同样能刺激内源性BDNF的表达，提示在神经系统损伤修复过程中BDNF表达增高可能是一个重要的机制。综上，本实验中，各治疗组在SCI后28dBDNF阳性细胞数均较对照组增高，联合治疗组BDNF阳性细胞数最多，推测BDNF可能参与了损伤感觉、运动神经元的修复、损伤灶周围受累神经元的存活，进而有利于神经功能的恢复。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3大鼠行为学的改善与BDNF表达变化的关系",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本实验发现，脊髓损伤后治疗组大鼠行为学的改善伴随BDNF表达上调，尤其是甲基强的松龙和金腰带联合组大鼠运动功能恢复最好，大鼠行为学的改善和BDNF表达上调最为显著，提示脊髓损伤后神经功能的恢复与BDNF表达增高有密切联系。文献报道大剂量MP冲击是目前急性脊髓损伤公认治疗方法[13,25-27],金腰带能减轻脊髓继发性损伤\"，本研究显示出两者联合应用具有协同作用，对大鼠运动功能恢复明显改善，并引起脊髓BDNF协同表达上调。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "因此，本实验发现甲基强的松龙和金腰带联合治疗SCI的疗效优于单纯甲基强的松龙治疗组和金腰带治疗组，其发挥疗效与上调BDNF表达有关。该研究结果可能为SCI治疗提供新的策略。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Chen BJ,Zuberi M,Borgens RB,et al.Affinity for,and localization of,PEG-functionalized silica nanoparticles to sites of damage in an ex vivo spinal cord injury model[J].JBiol Eng,2012,6(1): 18-27.   \n[2]Wang Y,Mei X, Zhang L,et al. The correlation among the dynamic change of $Z { \\bmod { + } }$ ,ZnT-1,and brain-derived neurotrophic factor after acute spinal cord injury in rats[J].Biol Trace Elem Res,2O11,143 (1): 351-8.   \n[3]Keast JR,Forrest SL, Osborne PB.Sciatic nerve injury in adult rats causes distinct changes in the central projections of sensory neurons expressing different glial cell Line-Derived neurotrophic factor family receptors[J].JComp Neurol, 2010,518(15): 3024-45.   \n[4]Hassanshahi G,Amin M,Shunmugavel A,et al. Temporal expression profile of CXC chemokines in serum of patients with spinal cord injury[J].Neurochem Int,2013,63(5): 363-7.   \n[5]Fouad K,Bennett DJ, Vavrek R,et al.Long-term viral brain-derived neurotrophic factor delivery promotes spasticity in rats with a cervical spinal cord hemisection[J].Front Neurol, 2O13,4:187.   \n[6]Weishaupt N,Blesch A，Fouad K.BDNF: the career ofa multifaceted neurotrophin in spinal cord injury [J].Exp Neurol, 2012,238(2): 254-64.   \n[7]Gao M,Lu P,Bednark B,et al. Templated agarose scaffolds for the support of motor axon regeneration into sites of complete spinal cord transection[J].Biomaterials,2013,34(5):1529-36.   \n[8]Lu P,Blesch A,Graham L,et al.Motor axonal regeneration after partial and complete spinal cord transection[J].JNeurosci, 2012,32 (24): 8208-18.   \n[9］Joseph MS,Tillakaratne NJ,de Leon RD.Treadmill training stimulates brain-derived neurotrophic factor mRNA expression in motor neurons of the lumbar spinal cord in spinally transected rats [J].Neuroscience,2012,224: 135-44.   \n[10]周长满,杨青峰,鄂玲玲,等.神经营养因子(NGF、NT-3、BDNF及 CNTF)和受体trkA、trkB、trkC在正常大鼠脊髓和胎鼠脊髓移植体的 免疫组织化学研究[J].神经解剖学杂志,1999,15(1):27-30.   \n[11]Bracken MB,Shepard MJ,Holford TR,et al. Administration of methylprednisolone for 24 or 48 hours or tirilazad mesylate for 48 hours in the treatment of acute spinal cord injury:results of the Third National Acute Spinal Cord Injury Randomized Controlled Trial. National Acute Spinal Cord Injury Study[J].JAMA,1997, 277(20): 1597-604.   \n[12]许争光,杨 峻,吕志平,等.金腰带治疗对大鼠损伤脊髓BDNF、 NMDA受体表达及行为学的影响[J].四川大学学报:医学版,2012, 43(2): 240-4.   \n[13]杨 竣,许争光,荣 荣,等.甲基强的松龙对大鼠损伤脊髓BDNF、 NMDA受体表达及神经行为学的影响[J].四川大学学报:医学版, 2012, 43(2): 245-9.   \n[14] Basso DM,Beatie MS,Bresnahan JC.A sensitive and reliable locomotor rating scale for open field testing in rats[J].J Neurotrauma,1995,12(1): 1-21.   \n[15]Mccarthy SA,Bicknell R. Responses of pertussis toxin-treated microvascular endothelial cells to transforming growth factor beta 1.No evidence for pertussis-sensitive G-protein involvement in TGF-beta signal transduction[J].J Biol Chem,1992,267(30): 21617-22.   \n[16]朱兆云.大理中药资源志[M].昆明:云南民族出版社,1991:811.   \n[17]云南民族药名录[M].昆明:云南省药品检验所,1983:211   \n[18]Alderson RF,Alterman AL，Barde YA,et al．Brain derived neurotrophic factor increases survival and differentiated functions of rat septal cholinergic neurons in culture[J]. Neuron,1990,5(3): 297-306.   \n[19]Kobayashi Nr FD,axomy prevent atrophy of rat rubrospinal neurons after cervical NT-4/5. Stimulate GAP-43 and talphaltubulin mRNA expression,and promote axonal regeneration［J].J Neuronsci,1997,17(27): 9583-95.   \n[20]孙 玲,齐建国,章 为,等.BDNF及其受体TrkB在成年恒河猴脊髓的 表达[J].四川解剖学杂志,2007,15(1):10-3.   \n[21]伍校琼,李昌琪,刘 丹,等.NGF、BDNF及受体trkA、trkB、trkC在正 常猴脊髓的表达[J].神经解剖学杂志,2002,18(3):240-2.   \n[22] Jin H, Dan QQ,Rong R,et al. Implication of BDNF expression in transected spinal cord of rats[J]. Sichuan Da Xue Xue Bao Yi Xue Ban,2012,43(2): 231-5.   \n[23]李晓宁,王凤艳,田旭升,等.夹脊电针对大鼠脊髓损伤后BDNF表达 的影响[J].中国中医药科技,2008,15(2):148.   \n[24]徐明珠,王悦书,孙鸿斌,等.大鼠坐骨神经移植术后BDNF在脊髓内 表达的实验研究[J].中国实验诊断学,2010,14(4):502-4.   \n[25] Wang J, Guo G,Wang W,et al. Efect of methylprednisolone and edaravone administration on spinal cord injury[J].Eur Rev Med Pharmacol Sci,2013,17(20): 2766-72.   \n[26] Chengke L,Weiwei L，Xiyang W,et al.Effect of infliximab combined with methylprednisolone on expressions of NF-kB, TRADD,and FADD in rat acute spinal cord injury[J]. Spine (Phila Pa 1976),2013,38(14): E861-9.   \n[27]Yin Y,Sun W,LiZ,etal.Effectsofombining methylprednisolone with rolipram on functional recovery in adult rats following spinal cord injury[J]. Neurochem Int,2013,62(7): 903-12. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（编辑：吴锦雅）",
+        "page_idx": 4
+    }
+]

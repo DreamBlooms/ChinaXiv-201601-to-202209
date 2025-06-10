@@ -1,0 +1,387 @@
+[
+    {
+        "type": "text",
+        "text": "GNSS-R/IR土壤水分遥感研究现状",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吴学睿1²，金双根¹²王峰³ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1．中国科学院上海天文台 上海 200030;",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2．上海市空间导航与定位技术重点实验室上海200030  \n3．北京航空航天大学电子信息工程学院 北京100191",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GNSS-R/IR是利用导航卫星反射信号对地观测的新方式，是国内外研究的热点技术。由于GNSS卫星群主要工作在穿透性比较强的L波段，因此适宜进行地表土壤水分监测。本文根据不同的遥感平台，详细叙述了地基、塔基、机载和星载GNSS-R 技术土壤水分监测的发展现状，同时综述了辐射计联合GNSS-R技术进行土壤水分监测的发展状态以及GNSS-R地基和星载接收机的发展现状并探讨了GNSS-R/IR 进行土壤水分反演的中的重点和难点内容。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：GNSS-R/IR，多路径，反射/干涉、土壤水分",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Progress On soil moisture monitoring with GNSS-R technique ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: GNSS-R has been emerged as a new and promising remote sensing technique in recent years. Due the strong penitration properties of L band microwave length,it is suitable to monitor soil moisture using this technique. According to different remote sening platforms,progresses of soil moisture monitoring using GNSS-R technique with groundbased,tower-based,airborne and space borne platforms are presented in this paper,while a detail review of GNSS-R joint with microwave radiometer is also given in this paper. keywords: GNSS-R/IR,multipath, reflection/ interference,soil moisture ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1．引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "土壤水分是影响全球气候和环境的重要因素，其在地球系统中的存在形式和空间上的传输方式对全球的能量平衡起着至关重要的作用，是控制陆地和大气间水热能量交换的一个关键参数，与大气湿度之间存在着直接的联系，相关研究表明土壤水分和异常气候之间存在很强的反馈关系。土壤水分是水文学、气象学以及农业科学研究领域的重要指标参数，大范围的土壤水分监测与反演是农业研究和生态环境评价的重要组成部分。同时土壤水分也是联系地表水与地下水的纽带，是陆面生态系统和水循环的重要组成部分。因此，土壤水分信息对改善区域乃至全球气候模式预报、全球水循环规律、水资源管理、流域水文模型、农作物生长监测、农作物估产、环境灾害监测以及其他相关自然和生态环境问题的研究起着重要的作用[1]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "传统观测方法主要采用离散站点或相应气象站点的观测，只能代表有限观测区域(\\~10-100cm)，耗时费力，无法满足大范围、高效率土壤水分观测的需求；同时这种传统监测方式，在空间尺度和时间精度方面难于匹配相应的天气及水文模型(0.1-10km)，因此该种方法不能有效的研究土壤水分对环境变化的影响",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "遥感手段可以高效率大范围获取土壤水分信息，光学、红外和微波遥感是对地观测的主要遥感手段，其相应的传感器分别工作在电磁波谱的可见光、红外和微波波段，但是这些遥感手段存在各自的局限性：光学和红外遥感受限于天气状况，不能全天时全天候工作;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "微波遥感克服了这一缺点，具有全天时、全天候以及穿透性强的优势。微波波长在1\\~100cm之间。经常采用的微波波段有： $\\times ( - 0 . 8 \\mathsf { c m } ) , \\mathsf { K } ( - 3 \\mathsf { c m } ) , \\mathsf { C } ( - 5 \\mathsf { c m } ) , \\mathsf { S } ( - 1 0 \\mathsf { c m } ) , \\mathsf { L } \\left( - 2 0 \\mathsf { c m } \\right)$ cm）和 $\\mathsf { P } ( \\sim 5 0 \\mathsf { c m } )$ 。其中的P波段（0.775GHz,\\~50cm）和L波段 $( 1 . 4 5 \\mathsf { H z } , - 2 0 \\mathsf { c m } )$ ）对土壤水分观测尤为有利，在此波段期间，大气衰减降低和植被穿透性增强[2]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "水的介电常数实部为80，而干土的为3.5.土壤水分的增加会导致介电常数的增加进而导致发射率降低或反射率增加。微波遥感土壤水分探测的基本原理为水和干土之间较大的介电常数差异【2】。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "传统意义上的主被动微波手段（微波辐射计和雷达）存在着各自的优缺点：辐射计测量表面亮温，进而可以利用发射率信息反演土壤水分。辐射测量对表面粗糙度不敏感，但是容易受背景亮温和人造RF 影响，其空间分辨率较高，而数据处理简单，但时间分辨率较低。与辐射计相比，土壤水分含量越大，后向散射系数越大，单站雷达对土壤水分的敏感性较低，而后向散射容易受表面特性的影响，如表面粗糙度，土壤介电常数和植被结构，而且其数据处理复杂，空间分辨率较低。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "双战雷达独有的观测几何模式成为目前土壤水分和植被遥感监测的新兴方法和技术。但一般意义上的双站雷达需要研制专门的发射机和接收机，存在着造价昂贵、载荷沉重和功耗低等局限性。新兴的GNSS-R技术利用现有的导航卫星群为信号发射源，只需要研制专门的反射信号接收机，即可实现对土壤水分双站雷达模式下的有效监测【3】。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GNSS-R技术的研究和发展在最近二三十年国内外引起广泛关注。最早于1988 年由 Hall和 Cordeyt提出【4】，随后，Martin-Neira 将该种技术应用于海面高度研究【5】。GNSS-R的分类方式有很多种，按照其工作模式可以分为散射计模式和高度计模式；由于海洋表面均一，极化特性不明显，其在海洋中尺度遥感发展的较早也较为成熟，目前可以利用该技术进行海面风场、风速和有效波高的研究【6,7，8】，另外还可以利用该技术监测海面溢油及悬浮物【9,10】，或者进行海面移动目标物的探测研究【11】。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目前，GNSS-R技术在陆地表面最早和较为广泛的研究是土壤水分遥感，而且现有研究多从实验角度展开，以下根据不同遥感平台（地基、机载和星载）对研究现状进行总结。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2．地基/机载/星载GNSS-R实验 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 BAO塔基实验 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "BAO 塔（NOAA ETL Boulder Atmospheric Observatory）实验中，将改进的 GPS 反射信号接收机放在300米高塔上 $( 4 0 ^ { \\circ } 0 3 ^ { \\prime } 0 0 . 1 ^ { \\prime \\prime } \\mathsf { N }$ ， $1 0 5 ^ { \\circ } 0 0 ^ { \\prime } 1 3 . 8 ^ { \\prime \\prime } \\mathsf { W } )$ 进行土壤水分季节性GNSS-R 实验【12】。接收机由 NASA兰利研究中心提供，利用低增益指向天顶的 RHCP（Right HandCircular Polarization）天线接收直射信号，针对地表反射信号的接收采用的接收机天线包含多种天线类型：低增益半球 LHCP 天线；4 个高增益（\\~12dB）V、H、LHCP（Right HandCircular Polarization）和RHCP 天线；高增益天线增加了接收机动态范围，降低了表面多路径电磁波干涉信息；天线的角度设置为 $3 5 ^ { \\circ }$ 入射角 (从天底处开始)，方位角 $2 4 5 ^ { \\circ }$ 。该实验排除了地表粗糙度和植被影响，信号变化只受土壤水分变化导致。实验研究结果表明反射信号和降雨之间存在相关性;当土壤水分含量较高时，其和反射信号之间存在比较好的相关性;但是由于L波段穿透性的影响，当土壤比较干燥时，表层土壤水分和反射能量之间的相关性较小。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了分析极化特性对反射信号反演的影响，采用一阶 SSA(SmallSlope Approximation)模型计算了RHCP发射，各种极化接收下的反射率信息。其中入射角固定 $( 6 0 ^ { \\circ } , 7 0 ^ { \\circ } )$ ，在散射角变化或者土壤水分变化情况下，利用 LR/RR 比、HR/VR 信息进行模拟计算。该理论研究指出，接收机接收到的信号能量主要和两个因素有关：一个是和土壤介电特性相关的极化敏感因子，另外一个是和地表粗糙度相关的极化不敏感因子；而正交极化比则可以有效去除地表粗糙度影响，只保留土壤水分信息。但是 BAO tower 实验的实测数据却无法验证该理论假设，原因可能是土壤水分均一的初始假设过于简单。BAO toWer 实验中角度和极化信息为后续发展提供了重要方向；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2机载实验 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SMEX（Soil Moisture Field Experiment）实测实验是2002年和 2003 年夏天在美国中西部的爱荷华州进行的地基、机载、星载观测实验【12】。SMEX02实验的科学目的是理解地气相互作用，验证 AMSR 亮温、土壤水分反演，以及在植被覆盖情况下的仪器观测和算法，同时 SMEX02也用来评估新型仪器（如GPS-R)进行土壤水分遥感技术的可行性【13】。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在以往的海洋表面GNSS-R反射研究中，天线是半球形指向天底，在SMEXO2试验中，天线仍然指向天底，但增加了接收机天线增益，以期获得更好的 SNR 数据。更多的关于该实验的数据请参照【14】。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在利用校正的GPS反射信号估测土壤反射率和介电常数的试验中，验证了GPS反射信号和土壤介电常数以及土壤体积含水量之间的关系，利用 GPS 数据获取的介电常数和Wang-Schmugge理论模型吻合较好，但是均较低于实测土壤水分数据，该研究中考虑了植被覆盖的衰减，并探讨了一系列不一致的原因【15】。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "国内学者基于AIEM模型模拟分析了土壤水分、地表粗糙度和单频率下前向散射系数的变化关系，并利用 SMEX02 机载 GPS-R实验数据分析了该试验中8个站点土壤水分和 SNR之间的关系【16】。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Egido 等人展开的三次机载极化测量实验，获得了RL和RR极化反射信息，分析表明在低高度情况下，RL和 RR极化反射率都对土壤水分和地表粗糙度敏感，极化比在中等地表粗糙度时，对粗糙度不敏感，有利于进行土壤水分反演，但是当地表粗糙度大于3cm 时，非相干散射占主导【17】。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2014年5月30 日在国内首次开展了机载GNSS-R 实验，其实验目的是验证空间中心研制的GNSS-R接收机性能以及研究土壤水分和高度计反演的算法，研究中采用LR信息来反演土壤水分信息，同时接收和测试了RR 极化信息【18】。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2016年，Jia 和 Savi采用4通道样机接收直射信号和 LHCP、RHCP反射信号。采用双极化天线同时接收直射信号和反射信号，数据处理时，尽量除去非相干反射能量的影响，而反射信号采用直射信号进行归一化处理,研究表明极化比适用于土壤水分反演【19】。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3地基 GPS-IR (GPS-Inteferometric reflectometry) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "该种方法不需要研制专门接收机，直接采用地球物理或者地球测绘类接收机，对于典型的测绘类GPS接收机天线的增益，在仰角低于 $3 0 ^ { \\circ }$ 时，直射信号和反射信号的干涉图信息最为明显，即可利用其多路径信息（直射信号和反射信号的相干信号）对地物参数进行遥感监测，该种遥感方式的空间分辨率约为1km,介于传统站点式传感器（ $< 1 \\mathsf { m } ^ { 2 }$ ）和星载观测（204号 $( > 1 0 0 \\mathsf { k m } ^ { 2 } .$ )之间。这意味着数以千计的GPS台站数据可以用来近实时进行土壤水分观测，为环境科学水文遥感研究提供数据，而土壤水分观测网的建立对于水文研究，天气预报和气候变化监测具有重要意义，同时该种方法可以与L波段星载数据形成良好补充，进而可以利用现有全球 GPS 网数据获取建立全球土壤水分观测网，有助于对其他土壤水分星载卫星进行验证和校验【20】。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Larson 等人利用科罗拉多1个站点的观测数据进行研究分析，指出相位与近地表土壤水分之间呈线性相关【21-24】；zavorotny利用发展建立的GPS 反射信息模型指出其存在的物理机制。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Chew 等人在 zavorotny模型的基础发展建立了裸土反演算法【26,27】。Vey 利用该算法建立了南非土壤水分多年的时间序列，但是其研究发现实测数据和GPS-IR 反演的土壤水分之间的 RMSE（root-mean-square error）是 $0 . 0 5 \\mathsf { c m } ^ { 3 } \\mathsf { c m } ^ { - 3 }$ ，反演误差较大，限制其在某些领域的应用【28】。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Chew 等人的研究指出[20]，植被对相位的影响在土壤水分反演的时，不能忽视，因此采用 SNR 的幅度信息来去除植被的影响，并利用 SNR 的相位信息来反演土壤水分。而植被的信息亦可通过 SNR 干涉图的频率信息进行校正【29】。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "影响土壤水分反演的因素有地表粗糙度、植被覆盖、地形和季节的变化；当土壤很干燥的时候，植被的影响很大，当地表很湿润的时候，地形坡度的影响很大。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 IPT （Interference Pattern Technique）方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "IPT方法是利用直射信号和反射信号的相干信号进行地物参数(表面地形坡度、土壤水分及植被覆盖区土壤水分、植被高度)的反演【30】。实验研究表明，当接收机采用 LHCP 极化天线时，由于在V极化的布鲁斯诺角存在空反射率，因此H极化会掩盖掉角度信息【31】。该研究方法中采用的接收机是 2008 年发展的地基 SMIGOL 反射计（Soil MoistureInterference-pattern GNSS Observations at L-band (SMIGOL） Reflectometer)，工作频率为GPS L1（1.57542GHZ)，SMIGOL反射接收机指向水平，利用天线图表定义 footprint。同时，该研究方法采用H极化、V极化相位差来提高反演精度，双极化IPT方法中的接收机为PSMIGOL（两个天线，H极化，V极化）【32】。接收机在同一个GPS码片间隔内，记录下直射信号和反射信号的相干叠加干涉信号，每个采样点数据对应不同的GPS卫星仰角信息，因此接收的干涉能量是仰角的直接函数，接收到的能量信号中凹槽位置、振幅(notch positonandamplitude）以及个数与地物参数有关。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于每颗卫星的原始数据，SMIGOL反演（表面坡度、植被高度、土壤水分（植被覆盖区土壤水分)）基本流程如下:",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1) 反演表面坡度信息 $\\mathbf { h } _ { s u r f } \\left( s a t , \\theta , \\varphi \\right)$ ，表面坡度信息是卫星过境时仰角 $\\theta$ 和方位角函数 $\\varphi$ 的函数。  \n2) 在1）的基础上获取植被高度信息 $\\mathrm { h } _ { \\mathrm { v e g } } \\left( s a t , n o t c h \\right)$ ，该信息直接与凹槽位置和数目有关，可以独立于土壤水分、表面粗糙度的反演而获取。  \n3) 在获取植被高度、实测地表粗糙度的情况下，利用干涉能量幅度信息，获取相应的土壤水分 $\\mathrm { S M } ( s a t , \\theta , \\varphi )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4星载GNSS-R土壤湿度监测 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "UK-DMC（UK Disaster Monitoring Constellation）是 2004 年首个星载 GNSS-R 观测计划，其成功接收到了来自地表的反射信号【33】。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "UK-DMC发射成功后，2014年7月8日英国萨利卫星科技公司发展建立了新型增强GNSS-R 星载传感器搭载于Tech-DemoSat-1卫星上【34】，该仪器也搭载在 CYGNSS 上，除了追踪 L1C/A 码星载反射信号并产生相应的 DDM外，它还将首次探测和记录下 GPSL2的星载反射信号。该计划和仪器标志标着GNSS星载计划走向成熟。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "前面的研究已经证明可以用机载或者地基和塔基GNSS-R反射信号进行土壤水分的研究，但是利用星载数据对土壤水分的研究还处于初始阶段。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Camps 等人分析了土壤水分和植被对 TDS-1（TechDemoSat-1 satelite）数据的影响[35】，由于没有测量直射信号，即没有参考信号，TDS-1数据没有经过校准，因此数据处理时采用1ms 相干积分时间和1000ms 非相干积分时间平均计算得到 DDM的 SNR，利用其变化进行分析建立了TDS-1数据和不同地表覆盖类型下（常绿针叶林、草地、常绿阔叶林区）SMOS土壤水分数据之间很好的相关性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Chew 等人采用TDS-119天数据进行土壤水分研究表明反射信号和土壤水分之间存在7dB 敏感性【35】。但是该研究中没有考虑地表土壤水分和植被对反射信号的影响。数据分析时只考虑镜像天线增益大于5dB，即入射角在 $0 ^ { \\circ } - 3 5 ^ { \\circ }$ 时的数据，另外由于星上镜像点预报软件是面向海洋反射的，因此，在陆面应用时不考虑海拔高于3000m 的反射点，在实际应用时，重新计算镜像点位置，分析时只采用DDM峰值能量，改文章中分析结果与mater 2004文章中的结果一致，即地表粗糙度的增加导致峰值能量降低，而介电常数的增加也导致峰值能量的增加。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "影响DDM峰值能量的因素除了反射表面特性以外，还包括天线增益、距离、入射角等，因此为得到有效峰值能量，采用基于双站雷达方程的方法进行校正【36】：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { P } _ { \\mathrm { r } , e f f } \\propto P _ { r d B } - N _ { d B } + \\left( R _ { s r } + R _ { t s } \\right) _ { d B } ^ { 2 } - G _ { r d B } + \\cos ^ { 2 } \\theta _ { d B } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "P, 是TDS-1上的有效反射能量,由于其已经利用噪音进行归一化处理,因此即为DDM的SNR值， $P _ { r }$ 是每个 DDM 的最高反射能量，N 为噪音项。 $R _ { s r }$ 愛和 $R _ { t s }$ 分别是接收机或者发射机到地表镜像点距离， $\\theta$ 为入射角，G 为天线增益。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3. GNSS-R和微波辐射计：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "微波辐射计测量物体的微波辐射，即利用亮温数据进行遥感。微波辐射计对物体表面粗糙度不敏感，天线越大，空间分辨率越高。GNSS-R属于被动双站雷达，其空间分辨率与地表的相干或非相干散射有关，当相干占主导时，空间分辨率是第一菲尼尔区；当非相干占主导时，对应于闪烁区的位置，即形成GNSS-R散射计模式，得到的DDM 图。因此在非相干模式下，反演精度次于微波辐射计，因为其对表面粗糙度敏感性较高。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Zavorotny等人最早定性比较微波辐射计和GNSS-R数据的关系[27] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Alonso-Arroyo等人[28]从定性和定量的角度比较了GNSS-R和微波辐射计之间的关系。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2013年9 月到11 月，研究者在 LARGO（Light airborne reflectometer for GNSSobservations）散射计和 PLMR （polarimetric L-band microwave radiometer(PLMR)辐射计联飞实验中比较和分析了GNSS-R 和L波段微波辐射计观测量之间的关系，LARGO 是一个双通道低能量的被动 GNSS-R 接收机，其中一个通道采用指向天顶的 RHCP 天线来获取直射信号，另一个通道是指向天底的LHCP 天线接收地表反射信号。PLMR 是工作在L波段（1400-1426MHz）的微波辐射计。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "三次机载实验结果表明，对于大入射角（ ${ \\mathopen { \\mathclose } \\mathclose \\bgroup \\left( { > } 3 0 ^ { \\circ } \\aftergroup \\egroup \\right) }$ )，根据瑞丽判别准则，主要散射机制为相干散射，对于农作物区，相关性为0.74-0.8；对于草场区，相关系数为0.51-0.61；对于入射角小于 $3 0 ^ { \\circ }$ 时，由于非相干散射部分增加，相干性降低，农作物区的相关系数在0.64 和",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "0.69之间，草场区的相关系数大概是0.6。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4．接收机发展",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "地基接收机的发展主要有三种，一种是直接使用地球测绘或地球物理的地基GPS 接收机，利用其低仰角时的多路径数据反演地区参数；另一种是IPT方法中使用的SMIGOL接收机，该种接收机使用v极化天线的布鲁斯诺角信息监测地物参数，为提高反演精度，PSMIGOL接收机增加了H极化天线。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "最早的星载接收机是2004年UK-DMC卫星上搭载的GPS-R接收机，该种接收机采用两幅指向天顶的接收直射信号的天线和一副指向天底的接收地表反射信号的LHCP天线组成；2014年成功发射的UK-TDS-1卫星上搭载的新一代 GNSS-R 接收机 SGR-ReSI(Space GNSS Receiver Remote Sensing Instrument)，该接收机与 UK-DMC 卫星一样，星载接收机支持原始数据采集和实时星上处理两种模式。UK-TDS-1的成功发射标志着GNSS-R技术走向成熟；GEROS搭载于国际空间站上，体积、质量和功耗均较大，GEROS的首要使命是利用GNSS反射信号反演海面高度和均方根坡度，其次利用GNSS掩星技术监测大气温度、压强等参数，同时GEROS亦用于验证GNSS-R 陆地应用的可行性；PAU/GNSS-R是基于FPGA的GPS反射计，该计划的研究目的旨在提高海水盐度的反演精度，接收机通过使辐射计工作在GPSL1载波波段，进而与GNSS-R接收机射频前端组合的方式来降低接收机质量和功耗；PYCARO接收机搭载在 $3 { \\times } 2 \\cup$ 的立方体卫星上实施地面和大气遥感，该接收机与其他典型的星载GNSS-R接收机不同之处是采用无半码技术对P(Y）码进行处理，并通过双频观测校正电离层测高误差。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5．总结 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "GNSS-R技术是近20年来新兴的对地观测方式，该种技术在国内外引起广发关注。由于海面均一，极化特性不明显，GNSS-R技术最早在海洋领域应用，且研究较为成熟，而NASA发射的CYGNSS标志着利用该种技术进行海面风场研究走向实用化。但是针对陆地表面，由于陆地地物参数复杂，极化特性不明显，导致GNSS-R在陆地研究相对滞后。针对土壤水分研究，目前多采用观测的方法或建立区域性的反演算法。最早的机载实验是SMEX02中的机载GPS-R实验，该实验建立了土壤水分和GPS反射信号的相关关系；而在BAO塔实验中，研究者利用四天线（RHCP、LHCP、H和V极化）研究分析其与土壤水分的关系，并试图去除地表粗糙度的影响；利用直射信号和反射信号的相干信号进行地物参数遥感的IPT方法，利用V极化时存在的布鲁斯诺角信息，进行土壤水分反演，在有限的实验中取得了良好的土壤水分反演精度；与前述的需要研制特定的反射信号接收机不同，研究者发现可以直接使用地球测绘或者地球物理上的GPS接收机，直接利用其多路径信息进行地物参数的监测和反演，利用多路径的相位、幅度和有效高度信息，取得了良好的反演结果，并将反演的结果应用于SMAP的验证和校验中；星载的GNSS-R土壤水分研究，目前相对较少，但研究者已经建立TDS-1和SMOS卫星与GNSS反射信号的相关性，验证了星载GNSS-R土壤水分观测的可行性和良好应用前景。同时，本文还给出了辐射计和GNSS-R之间进行土壤水分观测比对分析研究现状，并综述了GNSS-R接收机的发展现状。利用GNSS-R/IR技术进行土壤水分反演时，重点需要挖掘其角度和极化信息进行反演。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1）GNSS卫星群和相应的反射信号接收机之间构成双站雷达工作模式，由于地物反射的空间异质性，导致其在不同的散射天顶角和方位角之间散射特性的差异，有效利用不同角度（散射天顶角和方位角）的散射特性差异，是今后土壤水分反演的重点和难点内容。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2）极化是电磁波重要特性，地表反射信号的极化信息携带地表重要信息，BAO塔实验中采用线极化和圆极化四种天线接收地表反射信号，以期利用极化信息反演土壤水分，后续的机载实验也证明极化比是去除地表粗糙度进而反演土壤水分的有效信息。因此如何有效利用圆极化和线极化反射信息反演土壤水分是提高土壤水分反演精度的重点研究内容。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1.Wood E F. Global Scale Hydrology: Advances in Land Surface Modeling[J]. Reviews of Geophysics,1991,29.   \n2.Kraus J.Microwave Remote Sensing: Active and Passve， Vol.1: Microwave Remote Sensing, Fundamentals and Radiometry. Remote Sensing,2 by Fawwaz T. Ulaby; Richard K.Moore[J]. American Scientist,1983(2):196.   \n3． Zavorotny V U, Gleason S, Cardellach E,et al. Tutorial on Remote Sensing Using GNSS Bistatic Radar of Opportunity[J]. IEEE Geoscience & Remote Sensing Magazine，2015, 2(4):8-45.   \n4．Hall C D，Cordey R A. Multistatic Scatterometry[C]// Geoscience and Remote Sensing Symposium,1988.Igarss'88. Remote Sensing: Moving Toward the, Century.International. IEEE,1988:561-562.   \n5.Martin-Neira M. A pasive reflectometry and interferometry system (PARIS)application to ocean altimetry[J]. Esa Journal, 1993,17(4):331-355.   \n6.Zavorotny V U,Voronovich A G. Scattering of GPS signals from the ocean with wind remote sensing application[J].IEEE Transactions on Geoscience & Remote Sensing,2000, 38(2):951-964.   \n7.Shah R, Garrison J L. Application of the ICF Coherence Time Method for Ocean Remote Sensing Using Digital Communication Satellite Signals[J].Selected Topics in Applied Earth Observations & Remote Sensing IEEE Journal of, 2014,7(5):1584-1591.   \n8.Alonso-Arroyo A, Camps A, Park H,et al. Retrieval of Significant Wave Height and Mean Sea Surface Level Using the GNSS-R Interference Pattern Technique: Results From a Three-Month Field Campaign[J]. IEEE Transactions on Geoscience & Remote Sensing, 2015, 53(6):3198-3209.   \n9．Valencia E, Camps A, Park H, et al. Oil slicks detection using GNSS-R[C]// Geoscience and Remote Sensing Symposium. IEEE, 2011:4383-4386.   \n10. Valencia E, Camps A, Rodriguez-Alvarez N,et al. Using GNSS-R Imaging of the Ocean Surface for Oil Slick Detection[J]. IEEE Journal of Selected Topics in Applied Earth Observations & Remote Sensing,2013, 6(1):217-223.   \n11. Liu L F, Zhang Q S, Gu J K. The Detection of Marine Ship Target Based on GNSS-R of Stratosphere[J]. Applied Mechanics & Materials,2014,643:258-262.   \n12.Masters D，Axelrad P， Katzberg S. Initial results of land-reflected GPS bistatic radar measurements in SMEX02[J]. Remote Sensing of Environment, 2004,92(4):507-520.   \n13. https://nsidc.org/data/amsr_validation/soil_moisture/index.html   \n14.http://ccar.colorado.edu/\\~dmr.   \n15. Katzberg S J, Torres O,Grant M S,et al. Utilizing calibrated GPS reflected signals to estimate soil reflectivity and dielectric constant: Results from SMEX02[J]. Remote Sensing of Environment, 2006,100(1):17-28.   \n16.毛克彪，王建明，张孟阳,等．基于 AIEM 和实地观测数据对 GNSS-R 反演土壤水分的研究 [J]．高技术通讯,2009,19(3):295-301.   \n17. Egido A, Paloscia S, Motte E,et al. Airborne GNSS-R Polarimetric Measurements for Soil Moisture and Above-Ground Biomass Estimation[J]. IEEE Journal of Selected Topics in Applied Earth Observations & Remote Sensing, 2017,7(5):1522-1532.   \n18.Wan W，Bai W, Zhao L,et al. Initial results of China's GNSS-R airborne campaign: soil moisture retrievals[J]. Science Bulletin, 2015, 60(10):964-971.   \n19.Jia Y， Savi P. Sensing soil moisture and vegetation using GNSS-R polarimetric measurement[J]. Advances in Space Research, 2016, 59(3).   \n20.Larson K M. GPS interferometric reflectometry: applications to surface soil moisture, snow depth,and vegetation water content in the western United States: GPS interferometric reflectometry[J].Wiley Interdisciplinary Reviews Water, 2016.   \n21. Larson K M,Small E E, Gutmann E D,et al. Use of GPS receivers as a soil moisture network for water cycle studies[J]. Geophysical Research Letters, 2008, 35(24):851-854.   \n22. Larson K M, Braun JJ, SmallE E,et al. GPS Multipath and Its Relation to Near-Surface Soil Moisture Content[J]. IEEE Journal of Selected Topics in Applied Earth Observations & Remote Sensing, 2010, 3(1):91-99.   \n23. C. C. Chew,E. E. Smal,and K. M. Larson,“An algorithm for soilmoisture estimation using GPS-interferometric reflectometry for bare and vegetated soil,” GPS Solutions, 2015   \n24. Kerr Y H,Waldteufel P,Wigneron J P,et al. Soil moisture retrieval from space: the Soil Moisture and Ocean Salinity (SMOS) mission[J]. IEEE Transactions on Geoscience & Remote Sensing,2002, 39(8):1729-1735.   \n25. Zavorotny V U, Larson K M, Braun JJ,et al. A Physical Model for GPS Multipath Caused by Land Reflections: Toward Bare Soil Moisture Retrievals[J]. IEEE Journal of Selected Topics in Applied Earth Observations & Remote Sensing, 2011, 3(1):100-110.   \n26. Chew C C,Small EE,Larson K M, et al. Effects of Near-Surface Soil Moisture on GPS SNR Data:Development of a Retrieval Algorithm for Soil Moisture[J]. IEEE Transactions on Geoscience & Remote Sensing,2013, 52(1):537-543.   \n27.Reinhart K G. The Problem of Stones in Soil-Moisture Measurement1[J]. Soil Science Society of America Journal, 1961, 25(4):268-270.   \n28. Vey S, Guntner A,Wickert J,et al. Long-term soil moisture dynamics derived from GNSS interferometric reflectometry: a case study for Sutherland, South Africa[J]. Gps Solutions, 2016,20(4):641-654.   \n29.Chew C C， Small E E,Larson K M,et al. Vegetation Sensing Using GPS-Interferometric Reflectometry: Theoretical Effects of Canopy Parameters on Signal-to-Noise Ratio Data[J]. IEEE Transactions on Geoscience & Remote Sensing,2015, 53(5):2755-2764.   \n30.Rodriguez-Alvarez N， Camps A, Val-Llossera M，et al. Land Geophysical Parameters Retrieval Using the Interference Pattern GNSS-R Technique[J]. IEEE Transactions on Geoscience & Remote Sensing,2010,49(1):71-84.   \n31.Rodriguez-Alvarez N, Monerris A, Bosch-Lluis X,et al.Soil moisture and vegetation height retrievalusingGNSS-Rtechniques[C]//GeoscienceandRemoteSensing Symposium,2009 IEEE International,igarss. IEEE, 2010:Ill-869-Ill-872.   \n32. Alonso-Arroyo A, Camps A, Aguasca A, et al. Improving the Accuracy of Soil Moisture Retrievals Using the Phase Difference of the Dual-Polarization GNSS-R Interference Patterns[J]. IEEE Geoscience & Remote Sensing Letters,2014,11(12):2090-2094.   \n33.Gleason,Scott. Remote sensing of ocean, ice and land surfaces using bistatically scattered GNSS signals from low earth orbit[J]. University of Surrey, 2006.   \n34.Unwin M, Duncan S, Jales P, et al. Implementing GNSS-Reflectometry in Space on the TechDemoSat-1 Mission[C]// lon Gnss. 2014.   \n35. Camps A， Park H， Pablos M,et al. Soil moisture and vegetation impact in GNSS-R TechDemosat-1 observations[C]// Geoscience and Remote Sensing Symposium. IEEE, 2016:1982-1984.   \n36. Chew C C，Small E E. Soil moisture sensing using spaceborne GNSS reflections: Comparison of CYGNSS reflectivity to SMAP soil moisture[J]. Geophysical Research Letters, 2018,45(9).   \n37. Zavorotny V U，Gasiewski A J， Zamora R J,et al. Stationary L-Band Radiometry for Seasonal Measurements of Soil Moisture.[C]// IEEE International Geoscience & Remote Sensing Symposium，IGARSS 2006, July 31 - August 4，2006，Denver，Colorado，USA, Proceedings.DBLP,2006:2028-2031.   \n38. Alonso-Arroyo, A., et al., On the Correlation Between GNSS-R Reflectivity and L-Band Microwave Radiometry. IEEE Journal of Selected Topics in Applied Earth Observations & Remote Sensing, 2016. 99: 1-18. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

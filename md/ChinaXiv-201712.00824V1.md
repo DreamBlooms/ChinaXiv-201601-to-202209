@@ -1,0 +1,153 @@
+# 基础研究
+
+# 大蒜素对HEK293细胞HERG电流的阻滞作用
+
+张建成}，林 琨²，魏芝雄1，陈茜'，刘 丽²，赵晓静²,赵 颖²，徐 斌²,陈 曦²,李浃²  
+1福建医科大学省立临床医学院心内科,福建 福州 35001；中国人民解放军总医院心内科,北京 100853
+
+摘要：目的 研究大蒜素对HEK293细胞HERG电流的作用，探讨其抗心律失常的可能机制。方法采用瞬时转染的方法，将HERG通道质粒转入HEK293细胞上,应用细胞外局部灌流法于膜片钳高阻抗封接形成后给予大蒜素,使其终浓度为 $3 0 \mu \mathrm { m o l / L }$ 。室温下,采用全细胞膜片钳技术在电压钳形模式下记录电流和门控动力学,观察大蒜素对HERG电流的作用。结果 $3 0 \mathrm { \textmu m o l { } L }$ 大蒜素对正常大鼠心室肌细胞HERG电流有显著的阻滞效应,使其尾电流密度由 $7 3 . 5 { \pm } 4 . 3 \ \mathrm { p A / p F }$ 降低至 $4 2 . 1 { \pm } 3 . 6 \$ pA/pF ( $P <$ $0 . 0 1 , n { = } 1 4 )$ 。其作用呈浓度依赖性。半数抑制浓度为 $3 4 . 7 4 ~ \mu \mathrm { m o l / L }$ ,Hill系数为1.01。大蒜素可使HERG的电流-电压曲线降低,且随着去极化电位的增加,作用更加明显,提示其作用具有电压依赖性，门控机制研究发现大蒜素可以使通道激活曲线向更正的方向移动，进而延迟激活;使通道稳态失活更负的方向移动，导致失活加速。同时，使通道灭活的慢时间常数缩短,从而加速通道的灭活。结论 大蒜素抑制HEK293细胞上HERG电流，提示这可能是其治疗心律失常的细胞电生理基础。
+
+关键词：大蒜素;HEK293细胞;HERG电流;膜片钳技术
+
+# Effects of allitridum on rapidly delayed rectifier potassium current in HEK293 cell line
+
+ZHANGJiancheng,IKun,WEZixiong,HQian',Li,ZHAOXiaojing,ZHAOYng,Bn,H²,g Departmentofdoorociallicaldicinelgeojanedicalieityo0inaer Cardiology,General Hospital ofPLA,Beijing 00853,China
+
+Abstract: Objective To study the effect of allitridum on rapidly delayed rectifier potassium current $( { I _ { \mathrm { K r } } } )$ in HEK293 cell line. Methods HEK293cels were transiently transfected with HERG channel cDNA plasmid pcDNA3.1 via Lipofectamine. Allitridum was added to the extracellular solution by partial perfusion after giga seal at the finalconcentration of $3 0 ~ \mathrm { \mu m o l / L }$ Whole-cell patch clamp technique was used to record the HERG currents and gating kinetics before and after alitridum exposure at room temperature. Results The amplitude and density of $I _ { \mathrm { H E R G } }$ were both suppressed by allitridum in a voltage-dependent manner. In the presence of allitridum, the peak current of $I _ { \mathrm { H E R G } }$ wasreduced from $7 3 . 5 { \pm } 4 . 3 \mathrm { p A / p F }$ to $4 2 . 1 { \pm } 3 . 6 \$ $\mathrm { p A / p F }$ at the test potential of $+ 5 0 ~ \mathrm { m V }$ $( P { < } 0 . 0 1 )$ . Allitridum also concentration-dependently decreased the density of the IHERG. The $\mathrm { I C } _ { 5 0 }$ of allitridum was $3 4 . 7 4 ~ \mu \mathrm { m o l / L }$ with a Hill coefficient of 1.01. Allitridum at $3 0 \ \mathrm { \textmu m o l / L }$ caused a significant positive shift of the steady-state activation curve of $I _ { \mathrm { H E R G } }$ and a markedly negative shift of the steady-state inactivation of $I _ { \mathrm { H E R G } } ,$ and significantly shortened the slow time constants of $I _ { \mathrm { H E R G } }$ deactivation. Conclusion Allitridum can potently block $I _ { \mathrm { H E R G } }$ in HEK293 cells, which might be the electrophysiological basis for its anti-arrhythmic action.
+
+Key words: allitridum; HEK293 cel line; rapidly delayed rectifier potassium current; patch clamp technique
+
+HERG编码心肌细胞上的快激活的延迟整钾通道的a孔道亚单位，其与KCNE2(MiRP1)基因分别表达快速激活延迟整流钾通道 $( I _ { \mathrm { K r } } )$ 的α亚基和β亚基MiRP1,它们共同构成野生型的 $I _ { \mathrm { K r } } ^ { [ 1 - 2 ] }$ ,后者为心肌细胞动作电位复极的重要电流，主要贡献于复极3相。该电流的大小决定心肌细胞动作电位时程的长短，电流大则心肌细胞动作电位时程缩短,反之,动作电位时程延长[3]。因此，
+
+HERG通道功能丧失性突变导致电流密度减小产生2型长QT综合征(LQT2)，而其功能获得性突变则引起电流的升高，导致1型短QT综合征(SQT1)。该电流是诸多心脏疾病引起电重构的主要电流，与恶性心律失常和心源性猝死密切相关4，不仅是Ⅲ类抗心律失常药物的主要靶点，也是作为新药应用于临床前心脏毒性检测的重要电流。
+
+大蒜素是大蒜中的主要生物活性物质，其在对心血管保护作用方面已有诸多研究，其可通过刺激内皮细胞释放舒血管物质和释放一氧化氮等发挥舒张血管效应[5，大蒜素也抑制左室肥厚等心肌重构。我们的前期研究发现，大蒜素对心房肌细胞超速激活延迟整流钾电流 $( I _ { \mathrm { K u r } } )$ 、自发性高血压大鼠心肌瞬时外向钾电流 $\left( I _ { \mathrm { { t o } } } \right)$ 重构均有作用,从而减少心律失常的发生[。但目前尚未知大蒜素是否对HERG电流也存在作用。故本研究应用大蒜素于HERG电流，观察药物对其效应及可能的通道门控机制，以期为其降低心律失常发生的机制提供实验依据。
+
+# 1材料与方法
+
+# 1.1主要试剂及仪器
+
+HEPES、蛋白酶E、L-谷氨酸、K-aspartame acid、GTP、多非利特(dofetilide,Dof)为美国Sigma产品;EGTA购自美国FlukaBiochemika; $\mathrm { C a C l } _ { 2 }$ 、TTX和CsCl购自美国Sigma。DMEM细胞培养基购自Thermo,FBS胎牛血清、Lipofectamine转染试剂、Dynabead CD8磁珠为美国Invitrogen产品。
+
+大蒜素购于索莱宝试剂公司，纯品是无色或淡黄色油状物，相对分子质量为162。将大蒜素用二甲基亚讽溶解，并制备成储备液，临用时采用细胞外液稀释成结果部分所示终浓度。采用局部灌流装置于细胞外恒流灌流方式给药，为确保药物的效应的一致性，待平衡 $5 \mathrm { m i n }$ 后方可记录电流。同时，将空白溶解大蒜素所需体积的二甲基亚矾溶液加入细胞外液，未发现对电流有影响。
+
+AXON-700B膜片钳系统、Digidata1440A数模转换器、pCLAMP10.2数据处理软件，美国MDC(AXON);pp-83微电极拉制仪，日本Narishige,MP-285三维纤维操纵仪，美国Sutter,SF-77B快速灌流给药系统、TC-334B双自动温控仪，美国Water。
+
+# 1.2溶液的配制
+
+细胞内 液（mmol/L）：K-aspartame acid 140,MgATP4,MgCl1,EGTA10,GTP0.1,HEPES10,KOH调节pH至7.3。
+
+细胞外液(mmol/L）:NaCl140,KCl4, $\mathrm { C a C l } _ { 2 }$ 1, $\mathbf { M g C l } _ { 2 }$ 1,HEPES10,glucose5,NaOH调节pH至7.4。 1.3HEK293细胞培养与pcDNA3.1-HERG质粒转染
+
+取HEK293细胞系培养，镜下观察培养良好的HEK293，细胞状态应符合以下条件： $\textcircled{1}$ 细胞镜下观察细胞内无明显颗粒或空泡； $\textcircled{2}$ 培养液清澈透亮，无偏酸或偏碱现象； $\textcircled{3}$ 相差显微镜下观察培养液无黑色颗粒或小细胞碎片； $\textcircled{4}$ 细胞分布均匀； $\textcircled{5}$ 细胞边界清晰； $\textcircled{6}$ 细胞贴壁生长融合率达 $5 0 \% \sim 7 0 \%$ 。转染步骤参考Qiagen转染试剂盒中的说明书，应用Lipofectamine-2000转染试剂进行转染，取 $0 . 2 ~ { \mu \mathrm { g } }$ 绿色荧光蛋白(GFP)表达质粒与含有目的基因的质粒共转染，作为阳性转染细胞的指示剂，再根据质粒的浓度加入所需转染的相应质粒体积目的质粒pcDNA3.1-HERG $0 . 5 ~ { \mu \mathrm { g } }$ 。选取转染后 $4 8 \sim$ 72h的HEK293细胞，在荧光显微镜下观察转染效率为$50 \% { \sim } 8 0 \%$ 。用PBS缓冲液洗1次后，胰酶消化约 $1 \mathrm { m i n }$ 后，培养基终止。吹打后以1：10传至 $3 5 ~ \mathrm { m m }$ 平血，并放置于孵箱中 $5 \mathrm { h }$ ，荧光显微镜下观察转染阳性的细胞用于膜片钳记录。
+
+# 1.4全细胞膜片钳的电流记录
+
+在倒置荧光显微镜下，选择边缘清楚、表面光滑、大小适中、呈球形或多边形,不与其他细胞连结且带有绿色荧光的细胞进行实验。将Axon-700B膜片钳放大器同计算机连接。刺激信号及电压输入信号的采集应用Digidata1440A数模转换器，均由软件(pCLAMP10.2)控制。GG-17玻璃毛坏经pp-83微电极拉制仪拉制成尖端直径 $2 { \sim } 4 ~ \mu \mathrm { m }$ ，入液电阻为 $2 . 0 { \sim } 5 . 5 ~ \mathrm { M } \Omega$ 的电极。电极入液后进行液接电位补偿校正,使其至小于 $\pm 2 \mathrm { m V }$ ，调节三维操纵器使电极尖端移向细胞表面进行封接，使电阻达1GΩ以上形成高阻封接，进行快电容补偿以消除仪器引入的电容误差。采用脉冲式方式负压吸破细胞膜形成全细胞记录模式。测定电容时，施以 $0 . 4 ~ \mathrm { V / s }$ 的斜坡刺激，测电流并按方程 $C \mathrm { m } { = } I / \left( d \mathrm { V } / d \mathrm { t } \right)$ 计算( $\mathrm { { C m } }$ 为膜电容， ${ \mathbf { } } _ { , I }$ 为电流值， $d \mathrm { V } / d \mathrm { t }$ 即电压斜率)。采用全细胞膜片钳记录方法,在电压钳制下记录电流。为消除细胞间的误差，I值以电流密度 $\mathrm { \Delta p A / p F ) }$ 表示。信号经截止频率为$1 \mathrm { { k H z } }$ 的四阶贝塞尔低通滤波器滤波，采样率为 $5 \mathrm { k H z }$ 串联电阻补偿 $9 0 \% { \sim } 9 5 \%$ 以消除电压偏差;应用仪器自动进行慢电容补偿约为 $8 5 \% { \sim } 9 0 \%$ ,以消除细胞膜电容导致的充放电影响。所有实验均为细胞破膜后稳定 $2 \sim$ $3 \mathrm { m i n }$ 刺激并记录给药前的数据后，用药物灌流 $5 \mathrm { m i n }$ 记录给药后的数据。为了避免通道电流的衰减现象对实验结果产生影响，控制实验在细胞破膜后 $2 0 ~ \mathrm { m i n }$ 内完成。采样后的数据贮存在硬盘内，以便将来测量和分析通道的电生理特性。整个实验在室温下( $2 2 { \sim } 2 4 ~ \mathrm { \stackrel { \circ } { C } }$ 进行。
+
+# 1.5HERG电流记录程序及数据分析
+
+$I _ { \mathrm { H E R G } }$ 记录程序：保持电位 $- 9 0 \mathrm { m V }$ ，施予 $2 0 0 0 ~ \mathrm { { m s } }$ ，阶 跃 $1 0 \mathrm { m V , - 7 0 \ m V \sim + 4 0 \ m V }$ 的去极化脉冲,记录 $I _ { \mathrm { H E R G , s t e p } }$ 电 流,脉冲负极至 $\cdot 4 0 \mathrm { m V }$ 时,时间为 $2 0 0 0 \mathrm { { m s } }$ ,记录IHERGtail0
+
+$I _ { \mathrm { H E R G } }$ 的电流-电压 $( I { - } V )$ 依赖性曲线：保持电位 $- 9 0 \mathrm { m V }$ ，施予 ${ - 7 0 { \sim } + 4 0 ~ \mathrm { m V } , 2 0 0 0 ~ \mathrm { m s } }$ 的去极化脉冲，阶跃为 $1 0 \mathrm { m V }$ ，记录 $I _ { \mathrm { H E R G , s t e p } }$ ，脉冲复极至 $4 0 \mathrm { m V }$ 时,时间为 $2 0 0 0 ~ \mathrm { { m s } }$ ，记录 $I _ { \mathrm { H E R G , t a i l } }$ ,计算电流密度。以各电压下的刺激脉冲为横轴，以电流密度为纵轴作图，即得 $I _ { \mathrm { H E R G } }$ 的电流-电压 $( I { - } V )$ 依赖性曲线。
+
+$I _ { \mathrm { H E R G } }$ 的稳态激活(SSA)曲线：保持电位 $- 9 0 \mathrm { m V }$ ,施予 ${ \cdot } 6 0 { \sim } + 6 0 \ \mathrm { m V } , 2 0 0 0 \ \mathrm { m s }$ 的去极化脉冲，阶跃为 $1 0 \mathrm { m V }$ 脉冲复极至 $- 4 0 \mathrm { m V }$ 时,时间为 $2 0 0 0 \mathrm { { m s } }$ ，记录 $I _ { \mathrm { H E R G , t a i l \odot } }$ 将尾电流标准化，以各电压下的刺激脉冲为横轴，以标准化尾电流为纵轴作图。并用Boltzmann方程 $\left( \mathrm { I / I _ { \mathrm { m a x } } } \mathrm { = } 1 / \right.$ $\{ 1 + \mathrm { e x p } [ ( \mathbf { V } _ { 1 / 2 } \mathbf { V } _ { \mathrm { m } } ) / \mathbf { k } ] \}$ )进行曲线拟合求出半激活电压1 $\backslash V _ { 1 / 2 } \backslash$ 和激活曲线斜率 $( k )$ ○
+
+$I _ { \mathrm { H E R G } }$ 的稳态失活(SSI)曲线：保持电位 $- 9 0 ~ \mathrm { m V }$ ，施子 ${ \bf \dot { \tau } } + 2 0 ~ \mathrm { m V } , 5 0 0 ~ \mathrm { m s }$ 的预刺激，紧接着给予 ${ \cdot } 1 2 0 \ \mathrm { m V { \sim } + }$
+
+$2 0 ~ \mathrm { m V }$ ，阶跃 $2 0 \ \mathrm { m V , 1 5 \ m s }$ 的快速脉冲，紧接着在每一条件脉冲后紧跟一固定去极化至 $+ 2 0 \mathrm { m V } , 1 0 0 0 \mathrm { m s }$ 的测试脉冲，记录 $I _ { \mathrm { H E R G , t a i l } }$ 。用Boltzmann方程 $( I / I _ { \mathrm { m a x } } { = } 1 / \{ 1 +$ $\exp [ ( { \bf V } _ { \mathrm { m } } { - \bf V } _ { 1 / 2 } ) / k ] \} ,$ 进行曲线拟合求出半失活电压( $\cdot \mathrm { ~ \ r ~ { ~ V ~ } ~ } _ { 1 / 2 } )$ 和曲线斜率 $( k )$ ○
+
+$I _ { \mathrm { H E R G } }$ 的激活和失活时间常数：利用上述参数记录电流，通道的激活时间常数用单项指数式拟合 $\scriptstyle ( I ( t ) = \mathrm { A 0 }$ $[ 1 \mathrm { - e x p } ( 1 \mathrm { - } t / \tau ) ] )$ 。超极化 $\cdot 1 3 0 \ \mathrm { m V }$ 后再逐步去极化至 $- 4 0 \mathrm { m V }$ 时获得通道的灭活动力学参数，用二项指数式拟 $I ( t ) { = } \mathrm { A } 0 { + } \mathrm { A } 1 ( 1 { - } \mathrm { e x p } ( 1 { - } t / \tau 1 ) ) { + } \mathrm { A } 2 ( 1 { - } \mathrm { e x p } ( 1 { - } t / \tau 2 ) )$ 合并求算灭活时间常数。
+
+$I _ { \mathrm { H E R G } }$ 快速失活常数的电压依赖性曲线：保持电位 $\cdot 9 0 \mathrm { m V }$ ，施予 $+ 5 0 \mathrm { m V } , 2 0 0 \mathrm { m s }$ 的预刺激，紧接着给予一个 ${ \cdot } 1 0 0 \ \mathrm { m V } , 1 0 \ \mathrm { m s }$ 的快速脉冲，给予 $- 2 0 \mathrm { \sim } + 6 0 ~ \mathrm { m V }$ ，阶跃$1 0 \mathrm { m V } , 1 5 0 0 \mathrm { m s }$ 的系列测试脉冲,记录 $I _ { \mathrm { H E R G , t a i l } }$ 。按单项指数式 $\scriptstyle \left( \mathrm { I } ( t ) = \mathrm { A O } \left[ 1 - \exp ( 1 - t / \tau ) \right] \right)$ )求算各电压下的快速失活常数值 $( \tau )$ ，以快速失活常数相对各膜电位作图得快速失活常数电压依赖性曲线。
+
+# 1.6统计处理
+
+所有数据以均数 $\pm$ 标准差表示，数据处理采用pCLAMP9.2处理,采用SPSS15.0软件进行统计学处理，多组间数据比较用ANOVA方差分析，组间两两比较用SNK- $\cdot q$ 检验。以 $P { < } 0 . 0 5$ 为统计学上有显著差异。
+
+# 2结果
+
+# 2.1大蒜素对HERG电流密度的作用
+
+图2A、2B显示， $I _ { \mathrm { H E R G , s t e p } }$ 和 $I _ { \mathrm { H E R G , t a i l } }$ 在应用大蒜素$3 0 \mathrm { \textmu m o l { } L }$ 的后均有降低，在 $\mathrm { . + 5 0 \ m V }$ 时,其中 $I _ { \mathrm { H E R G , s t e p } }$ 的电流密度 $5 4 . 2 { \pm } 4 . 1 \ \mathrm { p A / p F }$ 降低到 $3 3 . 7 { \pm } 2 . 8 \ \mathrm { p A / p F }$ ，而$I _ { \mathrm { H E R G , t a i l } }$ 的电流密度从 $7 3 . 5 { \pm } 4 . 3 \ \mathrm { p A / p F }$ 减少至 $4 2 . 1 \pm 3 . 6 \$ $\mathrm { p A } / \mathrm { p F } ( P { < } 0 . 0 1 , n { = } 1 4 )$ 。进一步,我们将终浓度为1、3、$1 0 . 3 0 . 1 0 0 \mu \mathrm { m o l / L }$ 的大蒜素加入细胞外液，观察对电流的影响，发现其作用呈浓度依赖性特征，半数抑制浓度$\mathrm { \langle I C _ { 5 0 } \rangle }$ 为 $3 4 . 7 4 \mu \mathrm { m o l / L }$ ,Hill系数为1.01(图2C)。
+
+# 2.2大蒜素对HERG电流的电压依赖性作用
+
+$I _ { \mathrm { H E R G , s t e p } }$ 因为内向整流性在刺激电位正于 $0 \mathrm { m V }$ 时逐渐减少，形成倒"钟型"电压依赖特征，而 $I _ { \mathrm { H E R G , t a i l } }$ 随着刺激脉冲电压的正移电流增加，当刺激电位正于 $+ 2 0 \mathrm { m V }$ 时达到稳定状态(图3)。两种电流在应用大蒜素 $3 0 \ \mathrm { \textmu m o l { } / L }$ 后均有降低，尤其是在 $- 3 0 \mathrm { \sim } + 2 0 ~ \mathrm { m V }$ 的时间依赖性电流和大于 $+ 2 0 \mathrm { m V }$ 时的尾电流降低更加显著( $\scriptstyle \sum ( 0 . 0 5$ 或 $P <$ $0 . 0 1 , n { = } 1 4$ 。
+
+# 2.3大蒜素对HERG电流稳态激活和稳态失活曲线的作用
+
+图4A显示， $I _ { \mathrm { H E R G , t a i l } }$ 的稳态激活曲线在应用 $3 0 \mu \mathrm { m o l } / \mathrm { L }$ 的大蒜素后明显项去极化方向移， $V _ { 1 / 2 }$ 从对照的- $1 7 . 3 \pm$
+
+$1 . 6 \mathrm { m V }$ 移至 ${ \cdot 5 . 7 \pm 0 . 4 \ \mathrm { m V } ( P { < } 0 . 0 1 , n { = } 1 5 ) }$ ,二者的 $k$ 值变化不大。图4B显示，应用 $3 0 \mathrm { \ : \mu m o l / L }$ 的大蒜素后，电流的稳态失活曲线向超极化方向移动， $V _ { 1 / 2 }$ 由 $- 4 3 . 8 { \pm } 1 . 2 \ \mathrm { m V }$ 移至 ${ \cdot 6 2 . 4 { \pm } 1 . 5 \ \mathrm { m V } ( { P < } 0 . 0 1 , n { = } 1 5 ) }$ 。
+
+2.4大蒜素对HERG激活和灭活时间常数的电压依赖性
+
+在应用大蒜素前后，电流的激活时间常数在 ${ \cdot 5 0 } { \sim } +$ $5 0 ~ \mathrm { m V }$ 的电压范围内无显著性差异(图5A)。而在测试电压下，快灭活时间常数 $\left( \tau 1 \right)$ 在用药前后无明显改变，但通道的慢灭活时间常数 $( \tau 2 )$ 在应用 $3 0 \mu \mathrm { m o l / L }$ 的大蒜素后降低，提示药物可以加速通道的灭活过程(图5B)。
+
+# 2.5 大蒜素对HERG钾通道快速失活常数电压依赖性和失活后恢复动力学的作用
+
+无论应用大蒜素与否，通道的各电压下的快速失活常数值均无明显的变化(图5C)。
+
+# 3讨论
+
+目前作用于抗心律失常的药物由于多种原因均不理想，主要是由于现有药物均只作用于单一的离子通道，从而导致药物作用的逆频率依赖性和跨室壁复极离散度增加，进而在治疗心律失常的同时，有诱发心律失常7-8]。
+
+本实验发现，中药单体大蒜素对于HERG电流有着显著的阻滞效应。众所周知，HERG基因为编码 $I _ { \mathrm { K r } }$ 通道α亚基的基因，对它的影响直接反映对 $I _ { \mathrm { K r } }$ 的效应。随着动作电位超射的结束，HERG通道被慢慢激活，但在平台期又快速失活，当膜电位复极时，部分HERG通道在慢灭活前从失活中迅速恢复，形成大的外向尾电流。HERG在动作电位的3相逐渐增加到最大，当K+的驱动力降低和通道失活增加时，尾电流逐渐减少。该电流的异常，可以引起多种恶性心律失常甚至猝死，因此它成为Ⅲ类抗心律失常药物的靶点。我们发现大蒜素具有Ⅲ类抗心律失常的特征，可以明显抑制HERG电流。同时，大蒜素还对其他电流如 $I _ { \mathrm { t o } }$ 和 $I _ { \mathrm { K u r } }$ 也有作用[6.10],这可能在避免诱发新的心律失常方面更优于选择性阻断 $I _ { \mathrm { K r } }$ 的药物"，因此，可望成为抗心律失常的新药。
+
+进一步研究发现，大蒜素可以使HERG电流的稳态激活曲线向更正的方向移动，而是通道的稳态失活向更负的方向移动，这提示在相同的刺激电压下，药物将使通道的开放更少，而开放后失活更多。另外药物还可使通道的慢灭活时间常数减少，提示大蒜素还可以加速通道的灭活，综合上述结果，大蒜素发挥抑制HERG电流的主要机制可能是通过影响HERG通道的稳态失活和失活以及灭活后恢复过程，阻滞通道，从而减少其时间依赖性电流和尾电流[12]。
+
+本实验在排除其他电流干扰的前提下，仅对单独表达的HERG电流进行药物效应的研究，将更直接反映客观的情况。然而，我们知道心脏的电活动是由多种离子流共同协调作用的结果，本实验没有观察大蒜素对心室肌细胞动作电位的影响，因此对大蒜素阻滞HERG后的效应还有待进一步的研究阐明。
+
+![](images/b7c6537a5e05658ceb2398e945403df34cab51ea6ca79099e4d166df26afaa0e.jpg)  
+图2大蒜素对HERG通道的抑制作用
+
+Fig.2Inhibition of HERG channels by allitridum.A: Representative current traces recorded from the same cell under control conditions and after superfusion with $3 0 \ \mathrm { \ u m o l / L }$ allitridum; $B$ ：Inhibitoryeffect of $3 0 \ \mathrm { \ u m o l / L }$ allitridum on repolarizing pulse of $- 4 0 ~ \mathrm { m V }$ and the peak amplitude of the step current.At the test potential of $+ 5 0$ $\begin{array} { r } { \mathrm { m V } , } \end{array}$ the step current was reduced from $5 4 . 2 { \scriptstyle \pm 4 . 1 } { \mathrm { ~ p A / p F } }$ to $3 3 . 7 { \pm } 2 . 8 \ \mathrm { p A / p F }$ and the magnitude of IHERg, tail was from $7 3 . 5 { \pm } 4 . 3 \ \mathrm { p A / p F }$ to $4 2 . 1 { \pm } 3 . 6 ~ \mathrm { p A / p F }$ byAll $( n { = } 1 4 )$ ; C: The $\mathrm { I C } _ { 5 0 }$ of All was $3 4 . 7 4 ~ \mu \mathrm { m o l / L }$ with a Hill coefficient of 1.01. $^ { * * } P { < } 0 . 0 1$ us the $\mathrm { C t r l }$ group.
+
+![](images/3e2e66ab0ac265c3f5e0d496e0d497de9b838a74c2544ffa258432a44a1177e3.jpg)  
+图3大蒜素对HERG通道时间依赖性电流及尾电流I-V曲线的影响  
+Fig.3 Effect of $3 0 \ \mathrm { \textmu m o l / L }$ alitridum on current density-voltage relationship of the step currents and the tail currents.A: The step currents ofHERG range from $- 5 0 \mathrm { m V }$ to $+ 2 0 ~ \mathrm { m V }$ test potentials were reduced but the bell shape characteristic was not affected.B:The tail current densities of HERG increased with the test voltage before $\mathrm { 0 ~ m V }$ and reachedaplateau over $^ +$ $2 0 ~ \mathrm { m V } .$ The tail current densities of HERG were significantly decreased by allitridum ( $_ { ( n = 1 4 ) }$ at more positive test potential of $- 4 0 \mathrm { m V } .$ （204号 $^ { * } P { < } 0 . 0 5 ,$ （ $^ { * * } P { < } 0 . 0 1$ Us the control group.
+
+# 参考文献：
+
+[1]Zhang M,Wang Y,Jiang M,et al.KCNE2 protein is more abundani
+
+inventricles than in atria and can accelerate hERG protein degradation in a phosphorylation-dependent manner [J].Am J Physiol Heart Circ Physiol,2012,302(4):H910-22.   
+[2]Shopp GM,Helson L,Bouchard A,et al.Liposomes ameliorate Crizotinib-and Nilotinib-induced inhibition of the cardiac IKrchannel and QTc prolongation[J].Anticancer Res,2014,34(9): 4733-40.   
+[3]Ziupa D，BeckJ，Franke G， et al.Pronounced effects of HERG-blockers E-4031 and erythromycin on APD,spatial APD dispersion and triangulation in transgenic long-QT type 1 rabbits [J].PLoS One,2014,9(9): e107210.   
+[4]Adeniran I,McPate MJ,Witchel HJ,etal. Increased vulnerability of human ventricle to re-entrant excitation in hERG-linked variant 1 short QT syndrome[J].PLoS Comput Biol,2011,7(12): e1002313.   
+[5]Sharifi A,Darabi R,Akbarloo N. Investigation of antihypertensive mechanism of garlic in2KIChypertensive rat[J]．J Ethnopharm, 2003,86(2/3):219-24.   
+[6]但晴,赵颖,吴志娟,等.大蒜素对自发性高血压大鼠心肌Ito重构的 影响[J].药学学报,2015,1:39-44.   
+[7]Khalesi S,Shemirani H,Dehghani-Tafti F.Methadone induced torsades de pointesand ventricular fibrillation:Acase reviewJl.ARYA Atheroscler,2014,10(6):339-42.
+
+![](images/74df8daff2daebd41a9b76864b3c49e70fed42b75de5b3d91fb4bc81f0c36985.jpg)  
+图4大蒜素对HERG通道尾电流稳态激活曲线及稳态失活曲线的影响
+
+![](images/f5ed31eb2e123711c17417035ca7f52d0d73e8ed2946cd4e95be5ff06fcbd7f4.jpg)  
+Fig.4 Effects of $3 0 \ \mathrm { \textmu m o l / L }$ allitridum on the steady-state curves of activation and inactivation of HERG tail current. Normalized tail currnts were displayedasafunctionof thepreceding test pulse voltages and fited withaBoltzmann function. Steady-state activation curves varied in the absence of and presence of $3 0 \ \mathrm { \textmu m o l / L }$ allitridum $( n { = } 1 5 , A )$ with curve shifting to more potential. $\mathrm { V } _ { 1 / 2 }$ of the steady-state inactivation curve of HERG current showed more negative shift inthe presence of $3 0 \mu \mathrm { m o l / L }$ allitridum $\scriptstyle ( n = 1 5 , B )$ ）   
+Fig.5Effects of $3 0 \ \mathrm { \ u m o l / L }$ allitridum on gating kinetics of HERG currents. Time constantsof activation were not markedly different before and after exposure to $3 0 \ \mathrm { \textmu m o l / L }$ allitridum $( n { = } 1 4 , A )$ .The fast time constants of deactivation were similar before and after exposure whereas the slow time constants of deactivation were shortened $( B )$ .Voltage dependence of the time course of fast inactivation was not changed by $3 0 \ \mathrm { \mu m o l / L }$ allitridum $( n { = } 1 4 , ~ C )$ ： $^ { * } P { < } 0 . 0 5 ,$ 、 $^ { * * } P { < } 0 . 0 1$ Us the control group.
+
+![](images/ee06a50f0f575a34d97565d06de0115a0f05776e554dc0c42220d11c1cf747c1.jpg)  
+图5大蒜素对HERG通道门控动力学的影响
+
+（下转1142页）
+
+$( \mathrm { T g } \mathrm { V P 1 }$ )isrequired for microneme secretion,host cell invasion,and extracellular survival of Toxoplasma gondii[J].Mol Microbiol, 2014,93(4): 698-712.   
+[18]Schilling RK,Marschner P, Shavrukov Y,et al.Expression of the arabidopsis vacuolar $\textrm { H } ^ { + }$ -pyrophosphatase gene (AVP1） improves the shoot biomass of transgenic barley and increases grain yield in a saline field[J].Plant Biotechnol J,2014,12(3): 378-86.   
+[19]Lander N,Ulrich PN,Docampo R.Trypanosoma brucei vacuolar transporter chaperone 4(TbVtc4) is an acidocalcisome polyphosphate kinase required for in vivo infection[J].J Biol Chem,2O13,288 (47):34205-16.   
+[20]王小平,郝文波,罗树红,等.抗羊口疮病毒蛋白ORFV086多克隆抗体 的制备及其应用[J].中国畜牧兽医,2014,41(11):7-13.   
+[21]Dubey JP,Rajendran C,Ferreira LR,et al.High prevalence and genotypes of Toxoplasma gondii isolated from goats,froma retail meat store,destined for human consumption in the USA[J].Int J Parasitol,2011,41(8): 827-33.   
+[22]胡小元张岐蜀,段伟,等.用人工合成多肽作为半抗原制备 BtCry1Ac的单克隆抗体[J].中国农业科技导报,2012,14(2):88-94.   
+[23]Zhao L,Hou XS,Ji R,et al．Establishment of bovine prion peptide-based monoclonal antibodies for identifying bovine prion [J]. Sci Chin Series C-life Sci, 2009,52(8): 754-60.   
+[24]Ejk RZ,Rea PA．The molecular and biochemical basis of Pyrophosphate-Energized proton translocation at the vacuolar membrane[J].Adv Bot Res,1997,25:297-337.   
+[25]Maddy AH.A critical evaluation of the analysis of membrane proteins by polyacrylamide gel electrophoresis in the presence of dodecyl sulphate[J].JTheor Biol,1976,62(2): 315-26.
+
+（编辑：吴锦雅）
+
+# （上接1132页）
+
+[8]Jaiswal A，Goldbarg S.Dofetilide induced torsade de pointes: mechanism,risk factors and management strategies[J]. Indian Heart J,2014,66(6):640-8.   
+[9]Borowicz KK,Banach M.Antiarrhythmic drugs and epilepsy[J]. Pharmacol Rep,2014,66(4): 545-51.   
+[10]陈 晨,王禹,张德贤,等.大蒜素对兔心房肌细胞超速激活延迟整流 钾电流的作用[J].中华老年多器官杂志,2013,5:381-6.   
+[11]Sorajja D,MungerTM, Shen WK.Optimal antiarrhythmic drug therapy for electrical storm[J].J Biomed Res,2015,29(1): 20-34.   
+[12]Mitcheson J, Perry M, Stansfeld P,et al. Structural determinants for high-affinity block of hERG potassium channels [J].Novartis Found Symp,2005,266:136-50. (编辑：孙昌朋)

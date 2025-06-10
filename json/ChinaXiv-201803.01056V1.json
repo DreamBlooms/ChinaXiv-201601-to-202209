@@ -1,0 +1,471 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201704010568 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吴昊,郭琳,於维樱,刘雪雁.基于文献计量分析的国际海洋科学研究发展态势.生态学报,2018,38（5)：1860-1873.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于文献计量分析的国际海洋科学研究发展态势",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吴昊1,2,\\*，郭 琳，於维樱³，刘雪雁",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1信阳师范学院生命科学学院，信阳464000  \n2中国科学院武汉文献情报中心，武汉430071  \n3中国科学院海洋研究所，青岛266071  \n4中国科学院南海海洋研究所，广州510301",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要;海洋在调节全球气候和生物地球化学循环等方面起着关键作用。基于1900—2017年间 Web of Science 数据库中的 SCI论文,利用TDA等工具对海洋科学领域进行了文献计量,并对比分析了国际主要海洋科研机构的学术影响力,以期从宏观尺度上为海洋保护决策提供参考。结论如下：(1)发文量较多的国家有美国、英国、法国、中国和德国;(2)发文量较多的机构有中国科学院、美国海洋和大气管理局、美国加尼福利亚大学、俄罗斯科学院和美国伍兹霍尔海洋研究所；(3)Joumalof GeophysicalResearch-Oceans 是海洋科学领域刊文量最大的SCI期刊,刊文主题主要集中于海洋物理、海洋地质和海洋气候等方面;中国在Acta Oceanologica Sinica 的发文量最大,但其高水平的海洋科学论文数量需进一步突破;(4)基于h-指数的学术影响力分析结果表明,美国伍兹霍尔海洋研究所和美国斯克里普斯海洋学研究所在15个国际主要海洋研究机构中的排名分别居于第1、2位，中国亟待提升其在海洋领域的国际学术影响力;(5)当前主要关注点为:热点海洋区域(北冰洋、南大洋、北极、南极洲）、海洋监测技术(遥感技术、稳定同位素）、海洋生态系统结构(浮游植物、浮游动物、沉积物）、海洋环境变化(气候变化、海洋酸化、海冰);(6)未来重要研究方向有：海洋生态系统-全球气候变化耦合关系、利用新兴技术监测海洋动态、深海生态系统结构与功能、多领域涉海学科的交叉融合等。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：海洋科学；文献计量;科研机构;发展态势;学术影响力",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "占地球总表面积 $7 1 \\%$ 的海洋在调节全球气候、生物地球化学循环、资源储藏、维持生物多样性等方面起着至关重要的作用,但目前海洋正承受着来自人类活动、气候变化等因素的巨大压力,高强度干扰对海洋生态系统的结构和功能造成严重威胁[1]。国际学者近期围绕海洋环境演变、海洋生态功能等方面做了大量研究,如Cheung 等人认为在开发海洋资源的过程中,须重视气候变化对海洋生态系统服务功能的影响,国际社会应将全球变暖的幅度控制在 $1 . 5 \\mathrm { ^ { \\circ } C }$ 以下,因为海洋最大渔获量潜力、海洋物种周转期与气候变化紧密相关[2]；Notz 和 Stroeve发现气候变暖正导致北极海冰面积迅速降低， $\\mathrm { C O } _ { 2 }$ 排放量与海冰缩减速率呈正相关,每排放1吨 $\\widehat { \\mathrm { C O } _ { 2 } }$ 将导致 $3 \\mathrm { m } ^ { 2 }$ 的海冰融解[3]。但以往论文的研究对象多局限于某一海洋生物或特定海洋区域,较少从宏观尺度上对海洋科学领域进行全面分析,特别是针对国际海洋机构科研影响力的对比分析尚属空白。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中国大陆岸线长1.8万 $\\mathrm { k m } ^ { 2 }$ ,内水和领海面积高达 38 万 $\\mathrm { k m } ^ { 2 }$ ,《国家海洋事业发展“十二五\"规划》指出，提升海洋开发能力、建设海洋强国是中国重大战略举措之一。当前国际海洋科学的热点问题及未来重要研究方向是什么？中国与国际海洋研究机构之间的科研影响力存在何种差距？以上这些问题都亟待利用文献计量的方法从宏观角度上进行把握和解答。文献计量法通过统计文献的各项数量特征、采用数理统计等手段评价和预测科学技术现状与发展趋势,已被广泛应用多个学科领域[4]。本文基于Web of Science 数据库中海洋科学领域的SCI论文数据，采用文献计量方法,从国家、科研机构、发文量、热点关键词等多层面、多角度分析该领域1900—2017年的研究概况，并对比分析国际主要海洋研究机构间的科研影响力差异。以期较为全面地反映国际海洋科学研究现状及发展态势,为海洋保护决策及维持海洋生态系统可持续发展提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1数据来源与分析方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1检索式的编制与检索方式",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究数据来源于美国科学信息研究所(Institute for Scientific Information,ISI)Web of Science（WOS）科学引文索引扩展版(science citation index expanded，SCI-E，简称 SCI）,通过编写检索式来限定检索范围。根据SCI 论文中关于“海洋”和\"海洋科学\"这两个主题词的常用英文写法,编制检索式： $\\mathrm { T S } = \\left( \\mathrm { ( o c e a n ) } \\right)$ or（marine）or（oceanography））。最终共检索获得 1900—2017年间海洋科学研究领域发表的 SCI论文427677篇,选择类型为“Article”和\"Review”的401830篇论文进行分析。WOS 数据库的更新时间为2017年5月29日。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于国际知名度和发表 SCI论文总量等因素,选择美国伍兹霍尔海洋研究所、美国斯克里普斯海洋学研究所、美国海洋与大气管理局、日本东京大学、日本北海道大学、德国极地与海洋研究所、德国亥姆霍兹海洋研究中心、法国海洋开发研究院、英国普利茅斯海洋实验室、英国国家海洋研究中心、加拿大渔业及海洋部、澳大利亚联邦科学与工业组织、俄罗斯科学院希尔绍夫海洋研究所、中国科学院海洋研究所、中国科学院南海海洋研究所等15个国际主要的海洋科研机构进行学术影响力分析。结合机构英文名称及SCI发文署名单位地址分别制定检索式如附录1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用 Thomson Data Analyzer(TDA)（6.5.20版)软件对文献数据进行分析。TDA 是美国 Thomson 公司开发的专业文本挖掘工具,能够对数据进行深度挖掘并实现可视化。首先利用 TDA 对获取的文献数据进行挖掘和清洗(利用TDA软件内部设置的叙词表,对释义相近的关键词进行合并、归类,并人工删除没有实际意义的词汇),然后将数据按学科领域、发表年度、研究机构、关键词等信息进行分类统计。利用h指数分析各机构的科研影响力。h指数(也叫h-index)是一个混合量化指标,它是指在发表的N篇论文中有h篇每篇至少被引h次、而其余的(N-h)篇论文每篇被引均小于或等于h次,h指数越高,则表明学术影响力越大[5]。在确定各机构检索式之后,h指数可通过WOS 网站“创建引文报告”的功能计算获取。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 发文国家排名",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "发文量较多的前10名国家依次为:美国、英国、法国、中国、德国、加拿大、日本、澳大利亚、西班牙、意大利（表1）。其中美国发文量为136898篇,远高于其他国家,表明其在海洋科学领域的研究水平处于世界领先地位。中国发文量为31975篇,居第4位,表明我国海洋科学研究也拥有一定的国际地位。前10名国家累计发文量为387263篇，占总发文量401830篇的 $9 6 \\%$ 。这10个国家的领土多濒临海洋或被大洋环绕,可能为其海洋研究提供了便利的地域条件。此外,印度、俄罗斯等国家在海洋科学领域也发表了大量的论文。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2发文机构排名",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "木 检索结果表明(表2),发文量前10名的科研机构分别为：中国科学院、美国海洋和大气管理局、美国加利福尼亚大学、俄罗斯科学院、美国伍兹霍尔海洋学研究所、美国华盛顿州立大学、德国极地与海洋研究所、日本东京大学、法国国家科学研究院、美国俄勒冈州立大学。其中,中国科学院的发文量最高(10206篇),表明中国科学院作为中国自然科学最高学术机构和高技术综合研究发展中心,在海洋科学领域取得了丰硕的研究成果。10个机构中,美国拥有5个,显示出美国在此领域拥有雄厚的科研实力。此外,美国国家航空航天局、加拿大渔业及海洋部、法国巴黎第六大学等科研院所也发表了大量论文。总体而言,国际海洋科学领域发文量较大的科研机构多集中在欧美等发达国家,发展中国家(除中国外)在此领域的科研能力依然相对薄弱。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f17eacb77df888d40b0522315f12481cb362f22f83a09a2db080dc2af1700947.jpg",
+        "table_caption": [
+            "Table1The top 2O most productive countries of published papers on oceanography ",
+            "表2海洋科学领域发文量前20位机构排名"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>排序</td><td>国家</td><td>发文量/篇 Articles</td><td>排序 Rank</td><td>国家 Country</td><td>发文量/篇</td></tr><tr><td>Rank</td><td>Country</td><td></td><td>11</td><td>印度India</td><td>Articles 12266</td></tr><tr><td>1</td><td>美国American</td><td>136898</td><td></td><td>俄罗斯Russia</td><td>10848</td></tr><tr><td>2 3</td><td>英国 United Kingdom</td><td>42382 32349</td><td>12 13</td><td>挪威 Norway</td><td>10556</td></tr><tr><td>4</td><td>法国France 中国 China</td><td>31975</td><td>14</td><td>荷兰 Netherlands</td><td>10148</td></tr><tr><td>5</td><td>德国 Germany</td><td>31889</td><td>15</td><td>巴西 Brazil</td><td></td></tr><tr><td>6</td><td>加拿大 Canada</td><td>26693</td><td>16</td><td>瑞典 Sweden</td><td>7913</td></tr><tr><td>7</td><td>日本Japan</td><td>26111</td><td>17</td><td>韩国 South Korea</td><td>7790</td></tr><tr><td>8</td><td>澳大利亚 Australia</td><td>25696</td><td>18</td><td>丹麦Denmark</td><td>7610</td></tr><tr><td>9</td><td>西班牙 Spain</td><td>17457</td><td>19</td><td>新西兰New Zealand</td><td>7103</td></tr><tr><td>10</td><td>意大利Italy</td><td>15813</td><td>20</td><td>瑞士 Switzerland</td><td>6419 5497</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/7cb704c5e2b458e069272baa37087a5897cb80bc90b543f138bc5379fd609ad6.jpg",
+        "table_caption": [
+            "表1海洋科学领域发文量前20位国家排名",
+            "Table 2The rank of top 20 affiliations of publications on oceanography "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>排序 Rank</td><td>机构 Affiliation</td><td>发文量/篇 排序 Articles Rank</td><td>机构 Affiliation</td><td>发文量/篇 Articles</td></tr><tr><td>1</td><td>中国科学院</td><td>10206</td><td>11 美国国家航空航天局</td><td>4130</td></tr><tr><td>2</td><td>美国海洋和大气管理局</td><td>8349</td><td>加拿大渔业及海洋部 12</td><td>3992</td></tr><tr><td>3</td><td>美国加利福尼亚大学</td><td>7483 13</td><td>法国巴黎第六大学</td><td>3957</td></tr><tr><td>4</td><td>俄罗斯科学院</td><td>6795 14</td><td>西班牙国家研究委员会</td><td>3791</td></tr><tr><td>5</td><td>美国伍兹霍尔海洋学研究所</td><td>6770 15</td><td>德国亥姆霍兹海洋研究中心</td><td>3580</td></tr><tr><td>6</td><td>美国华盛顿州立大学</td><td>6567 16</td><td>美国地质勘探局</td><td>3466</td></tr><tr><td>7</td><td>德国极地与海洋研究所</td><td>5968 17</td><td>中国海洋大学</td><td>3217</td></tr><tr><td>8</td><td>日本东京大学</td><td>4897 18</td><td>日本北海道大学</td><td>3198</td></tr><tr><td>9</td><td>法国国家科学研究院</td><td>4528 19</td><td>英国普利茅斯海洋实验室</td><td>3120</td></tr><tr><td>10</td><td>美国俄勒冈州立大学</td><td>4378 20</td><td>法国海洋开发研究院</td><td>3084</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3论文数量的年季动态 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "国际上关于海洋科学的 SCI论文最早发表于1900年，随着时间的推移，年均发文量呈指数上升趋势（图1）。1900 年共发表44 篇论文，主要发表于《PublicHealth Reports》和《Petermanns Mitteilungen》这两种期刊上。影响力较高的是由美国北卡罗来纳大学WilsonHV[6]发表在《American Naturalist》期刊上题为“MarinebiologyatBeaufort”的论文（总被引5次）。在1900—1990年这90年间，海洋科学领域的SCI文章数量虽保持一定的上升趋势，但上升幅度并不大，处于海洋科学发展的萌芽阶段。1991年开始，论文数量出现飞跃，从1990年的年度2590 篇跃升至1991年的6134篇，之后年度论文数量呈直线上升态势，进入海洋科学的快速发展阶段。特别是近5年来,国际上年度发表海洋科学 SCI论文的数量均超过 20000篇,表明海洋科学已引起科技界广泛关注并将持续成为研究热点。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a8c0d8978d990760868a0fd6eb38bdf5006845f8ee0c52728682016e7f626c72.jpg",
+        "img_caption": [
+            "图11900—2016年海洋科学研究发文量",
+            "Fig.1Number of published literatures on oceanography during 1900—2016 years "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4主要学科分布",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "国际海洋研究领域共涉及192个学科（按照ISI数据库的学科分类),涵盖了环境科学与生态学、海洋科学、地质、大气、生物、资源等众多学科门类,表现出明显的交叉学科特征。发文量前10名的学科依次为（表3):环境科学与生态学、海洋科学、海洋与淡水生物学、地质学、气象与大气科学、地球物理学与地球化学、工程学、化学、渔业科学、微生物学。其中,环境科学与生态学(68822篇）、海洋科学(68017篇）、海洋与淡水生物学(64426篇）、地质学(63871篇)发文量较高,这4类学科累计发文265136篇,占据总发文量的 $6 6 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5 发文期刊排名",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "发文量前10 名的国际 SCI期刊分别为:Journal of Geophysical Research-Oceans ( $\\mathrm { I F } = 3 . 3 1 8$ ,发文量7520篇）、Marine Ecology Progress Series ( $\\mathrm { I F } = 2 . 3 6 1$ ,发文量 6898 篇）、Geophysical Research Letters( $\\cdot \\mathrm { I F } = 4 . 2 1 2$ ,发文量 6592 篇）、Journal of Climate( $\\mathrm { I F } = 4 . 8 5 0$ ,发文量 4677 篇）、Journal of Geophysical Research-Atmospheres ( $\\mathrm { I F } =$ 3.318,发文量 4423 篇）、Marine Pollution Bulletin( $\\operatorname { I F } = 3 . 0 9 9$ ,发文量 4116 篇）、PLoS One( $\\mathrm { I F } = 3 . 0 5 7$ ,发文量4005篇）、Journal of Physical Oceanography( $\\mathrm { I F } { = } 3 . 0 2 6$ ,发文量 3849 篇）、Earth and Planetary Science Letters（IF$= 4 . 3 2 6$ ,发文量3772篇）、Marinebiology（ $\\mathrm { I F } = 2 . 3 7 5$ ,发文量 3564 篇）。根据最新 JCR（Journal CitationReports)报告，目前 SCI收录的海洋科学领域期刊共61 种,影响因子排名前 $1 0 \\%$ 的期刊分别为：AnnualReview of Marine Science ( $\\mathrm { I F } = \\ 1 3 . 2 1 4$ ）、Oceanography and Marine Biology（IF = 4.545）、Oceanography（ $\\mathrm { I F } =$ 3.883）、Limnology and Oceanography( $\\mathrm { I F } = 3 . 6 6 0$ ）、Progress in Oceanography( $\\mathrm { I F } = 3 . 5 1 2 ^ { \\cdot }$ ）、Paleoceanography( $\\mathrm { I F } =$ 3.433）。由此可知,国际海洋学领域的发文期刊主要集中于海洋物理 海洋地质和海洋气候等方面,而主题为海洋生物、古海洋学的高水平期刊发文量较低。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5b1ec1bd4f9e7ad02aa7e53ec0bdf4884f7e0b0e7148a72eb6cb1762ea906e27.jpg",
+        "table_caption": [
+            "表3海洋研究涉及的前20名学科领域",
+            "Table 3The top 20 subjects involved the study of marine "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>排序 学科 Rank</td><td>Subject categories</td><td>发文量/篇 Articles</td><td>排序 学科 Rank Subject categories</td><td></td><td>发文量/篇 Articles</td></tr><tr><td>1</td><td>环境科学与生态学</td><td>68822</td><td>11</td><td>微生物学</td><td>15639</td></tr><tr><td>2</td><td>海洋科学</td><td>68017</td><td>12</td><td>生物化学与分子生物学</td><td>13305</td></tr><tr><td>3</td><td>海洋与淡水生物学</td><td>64426</td><td>13</td><td>自然地理学</td><td>13248</td></tr><tr><td>4</td><td>地质学</td><td>63871</td><td>14</td><td>动物学</td><td>13054</td></tr><tr><td>5</td><td>气象与大气科学</td><td>35213</td><td>15</td><td>古生物学</td><td>12593</td></tr><tr><td>6</td><td>地球物理学与地球化学</td><td>27830</td><td>16</td><td>生物技术与应用微生物学</td><td>10266</td></tr><tr><td>7</td><td>工程学</td><td>24817</td><td>17</td><td>植物科学</td><td>9644</td></tr><tr><td>8</td><td>化学</td><td>23171</td><td>18</td><td>药理与药剂学</td><td></td></tr><tr><td>9</td><td>其他科技</td><td>19473</td><td>19</td><td>水资源学</td><td>8218</td></tr><tr><td>10</td><td>渔业科学</td><td>17290</td><td>20</td><td>毒理学</td><td>7827 6977</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.6高被引论文简析 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在 WOS 中对海洋科学领域 SCI论文的累计被引频次按由高到低进行排序,得出前10名高被引论文如表4所示。这10篇文章分别发表于Proceedings of the Royal Society-A、Australian Journal of Ecology、MicrobiologyReviews、Applied and Environmental Microbiology、Canadian Journalof Microbiology、Quarterly Journal of the RoyalMeteorological Society、Science、Nature、Journal of Geophysical Research-Atmospheres、Bulltinof theAmericanMeteorological Society 等10种期刊。论文的研究内容涵盖了海洋生态模拟、海洋污染评价、海洋微生物、海水变暖等诸多重大科学问题。10篇高被引论文大部分均未发表在2.5所列的发文量或影响因子高的期刊上，主要原因是：高被引论文的研究内容涉及多学科交叉领域,并不单一地局限于海洋科学;此外，Science、Nature等国际顶级期刊在ISI数据库中属于综合性期刊,其并不隶属于海洋科学领域。分析发文机构可知,美国下属机构5家,英国下属机构3家、德国下属机构2家,表明美国在海洋科学领域具有较高的国际学术影响力。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/5aa9d3889dcf4ef21e690a25d560cd94e77c2460a2bc164a0485e282bec82042.jpg",
+        "table_caption": [
+            "表4海洋科学领域高被引论文排名",
+            "Table 4The rank of highly cited papers on oceanography "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>第一作者发文机构 Affiliation of first author</td><td>发文期刊 Journal</td><td>被引频次 Total cited times</td><td>论文题目 Title of paper</td></tr><tr><td>美国国家航空航天局 National Aeronautics and</td><td>Proceedings of the Royal Society A-Mathematical Physical and</td><td>6417</td><td>The empirical mode decomposition and the hilbert spectrum fornonlinear and non-</td></tr><tr><td>Space Administration 英国普利茅斯海洋实验室</td><td>Engineering Sciences</td><td></td><td>stationary time series analysis Nonparametricmultivariate analyses of</td></tr><tr><td>Plymouth Marine Laboratory 德国慕尼黑科技大学</td><td>Australian Journal of Ecology</td><td>6095</td><td>changes in community structure Phylogenetic identification and in-situ</td></tr><tr><td>Technical University of Munich</td><td>FEMS Microbiology Reviews</td><td>5592</td><td>detection of individual microbial-cells without cultivation Introducing mothur:open-source， platform-</td></tr><tr><td>美国密歇根州立大学 Michigan State University</td><td>Applied and Environmental Microbiology</td><td>5070</td><td>independent， community-supported software for describing and comparingmicrobial communities</td></tr><tr><td>美国伍兹霍尔海洋研究所 Woods Hole Oceanographic Institution</td><td>Canadian Journal of Microbiology</td><td>4658</td><td>Studies marine planktonic diatoms.I. cyelotella nana hustedt，anddetonula</td></tr><tr><td>英国欧洲地中海气候预测中心 European Centre for Medium-Range</td><td>Quarterly Journal of the Royal</td><td>4488</td><td>confervacea（cleve）gran The era-40 re-analysis</td></tr><tr><td>Weather Forecasts 美国加尼福利亚大学</td><td>Meteorological Society</td><td></td><td>Trends，rhythms，and aberrations in global</td></tr><tr><td>University of California 德国汉诺威大学</td><td>Science</td><td>4278</td><td>climate 65 Ma to present</td></tr><tr><td>University of Hannover 英国哈德利气候预测研究中心</td><td>Nature</td><td>3971</td><td>Ecological responses to recent climate change</td></tr><tr><td>Hadley Centre for Climate Prediction</td><td>Journal of Geophysical Research- Atmospheres</td><td>3629</td><td>Global analyses of sea surface temperature, sea ice，and nightmarine air temperature</td></tr><tr><td>and Research 美国华盛顿大学</td><td>Bulletin of the American</td><td>3445</td><td>since the late nineteenth century A pacific interdecadal climate oscillation with</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.7 中国发文概况",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "中国从1976年开始发表海洋科学 SCI论文,近40年来,中国的发文数量总体保持上升趋势。2003 年开始,年度发文超过 500篇;尤其是近3年以来,年度发文量超过3000篇。中国在以下10种SCI期刊的发文量较多:Acta Oceanologica Sinica( $\\mathrm { I F } { = } 0 . 6 3 1$ ,发文量 824 篇）,Acta Petrologica Sinica( $\\mathrm { I F } = 1 . 2 3 4$ ,发文量624篇），Chinese Science Bulletin( $\\mathrm { I F } = 1 . 7 8 9$ ,553 篇）,Marine Pollution Bulletin( $\\mathrm { I F } = 3 . 0 9 9$ ,发文量474 篇）,Journal ofGeophysical Research-Oceans ( $\\mathrm { I F } = 3 . 3 1 8$ ,发文量 47O 篇）,Chinese Journal of Oceanology and Limnology（ $\\mathrm { I F } =$ 0.547,发文量 469 篇）,Advances in Atmospheric Sciences ( $\\mathrm { I F } = 1 . 3 6 3$ ,发文量 449 篇）,Journal of Climate( $\\mathrm { I F } =$ 4.850,发文量 444 篇）,Journal of Asian Earth Sciences ( $\\mathrm { I F } = 2 . 6 4 7$ ,发文量 36O 篇）,International Journal ofSystematic and Evolutionary Microbiology( $\\operatorname { I F } = 2 . 4 3 9$ ,发文量354篇）,中国的高水平论文数量亟待提升。中国发文量较多的前10名机构分别为：中国科学院(10206 篇）、中国海洋大学(3217篇）、中国地质大学（武汉）（1729篇）、国家海洋局（1669篇）、中国科学院大学（1386篇）、厦门大学（1378篇）、北京大学（1041篇）、南京大学（912篇）、香港大学(884篇）、浙江大学（751篇）。中国科学院是中国海洋科学领域的中坚科研力量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.8 国际海洋机构科研影响力比较",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由分析结果(表5)可知,15个海洋研究机构的科研影响力(h指数)排序依次为：美国伍兹霍尔海洋研究所（213）、美国斯克里普斯海洋学研究所（212）、美国海洋与大气管理局（166）、德国极地与海洋研究所（166）、英国普利茅斯海洋实验室（143）、加拿大渔业及海洋部（138）、日本东京大学（126）、德国亥姆霍兹海洋研究中心（108）、法国海洋开发研究院（108）、澳大利亚联邦科学与工业组织（107）、日本北海道大学（98）、英国国家海洋研究中心（94）、中国科学院海洋研究所（79）、中国科学院南海海洋研究所（63）、俄罗斯希尔绍夫海洋研究所(38）。美国的两所海洋机构学术影响力远超于世界其他海洋机构,它们在 Science 、Nature 这两大著名学术期刊的发文量均超过100篇，且单篇被引100次以上的文章数量均超过600篇，表明了美国伍兹霍尔海洋研究所和美国斯克里普斯海洋学研究所在国际上的权威地位与学术引导者角色。此外,德国、英国和加拿大的海洋机构也拥有较强的科研影响力。中国科学院海洋研究所和南海海洋研究所分列于第13、14位，表明我国虽在海洋领域拥有较高的发文数量，但仍然与国际顶级海洋科研机构的学术水平存在较大差距。俄罗斯希尔绍夫海洋研究所的总发文数量、h 指数及发文质量均较低,可能是由于其以海洋学基础理论研究为主，研究领域过窄、研究方向过于单一所导致的。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/fd629b70276bde23a3699bd87db0ea488212e36cd60098eaa64dbea7cd6e173c.jpg",
+        "table_caption": [
+            "表5国际15个主要海洋科研机构的学术影响力排名",
+            "Table 5The rank of academic influence of 15 main international oceanographic institutes "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">机构名称</td></tr><tr><td>Name of institute</td><td>h指数 h-index</td><td>发文量/篇 Publications</td><td>总被引/次 Total cited</td><td>篇最高被引/次 Highest cited</td><td>被引>100 次 Cited>100</td><td>Science 发文量/篇 Science articles</td><td>Nature 发文量/篇 Nature articles</td></tr><tr><td>美国伍兹霍尔海洋研究所 Woods Hole Oceanographic Institution</td><td>213</td><td>6399</td><td>304786</td><td>4313</td><td>694</td><td>131</td><td>142</td></tr><tr><td>美国斯克里普斯海洋学研究所 Scripps Institution of Oceanography</td><td>212</td><td>6889</td><td>349182</td><td>2061</td><td>827</td><td>175</td><td>162</td></tr><tr><td>美国海洋与大气管理局 National Oceanic and Atmospheric Administration</td><td>166</td><td>8349</td><td>236695</td><td>1159</td><td>405</td><td>50</td><td>40</td></tr><tr><td>德国极地与海洋研究所 Alfred Wegener Institute of Polar and Marine Research</td><td>166</td><td>5968</td><td>216531</td><td>1806</td><td>371</td><td>35</td><td>51</td></tr><tr><td>英国普利茅斯海洋实验室 Plymouth Marine Laboratory</td><td>143</td><td>3120</td><td>135224</td><td>6095</td><td>257</td><td>11</td><td>39</td></tr><tr><td>加拿大渔业及海洋部 Fisheries and Oceans Canada</td><td>138</td><td>3992</td><td>134537</td><td>1565</td><td>266</td><td>33</td><td>40</td></tr><tr><td>日本东京大学 University of Tokyo</td><td>126</td><td>4897</td><td>123326</td><td>1851</td><td>188</td><td>22</td><td>33</td></tr><tr><td>德国亥姆霍兹海洋研究中心 GEOMAR Helmholtz Centre for Ocean Research Kiel</td><td>108</td><td>3580</td><td>89388</td><td>1556</td><td>124</td><td>14</td><td>29</td></tr><tr><td>法国海洋开发研究院 French Research Institute for the Exploration of the Sea</td><td>108</td><td>3084</td><td>84688</td><td>3971</td><td>130</td><td>16</td><td>6</td></tr><tr><td>澳大利亚联邦科学与工业组织 Commonwealth Scientific and Industrial Research Organisation</td><td>107</td><td>2035</td><td>73325</td><td>1990</td><td>121</td><td>3</td><td>20</td></tr><tr><td>日本北海道大学 Hokkaido University</td><td>98</td><td>3198</td><td>82329</td><td>1422</td><td>94</td><td>4</td><td>2</td></tr><tr><td>英国国家海洋研究中心 National Oceanography Centre，Southampton</td><td>94</td><td>3035</td><td>59608</td><td>1789</td><td>81</td><td>25</td><td>48</td></tr><tr><td>中国科学院海洋研究所 InstituteofOceanology， Chinese Academy of Sciences</td><td>79</td><td>5147</td><td>55438</td><td>581</td><td>39</td><td>2</td><td>3</td></tr><tr><td>中国科学院南海海洋研究所 South China Sea Institute of Oceanology ， Chinese Academy of Sciences</td><td>63</td><td>3104</td><td>32762</td><td>428</td><td>21</td><td>0</td><td>0</td></tr><tr><td>俄罗斯希尔绍夫海洋研究所</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P. P. Shirshov Institute of Oceanology of the Russian Academy of Sciences</td><td>38</td><td>1361</td><td>7786</td><td>462</td><td>4</td><td>0</td><td>0</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.9 国际海洋科学领域当前热点问题",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "关键词能够对文章主题进行高度概括和精炼,高频次的关键词可以看作是该领域最新的研究热点。利用TDA 分析工具对近期(2014—2017年)各海洋研究机构发表文章的关键词进行计量分析,并对意义重复的关键词进行数据清洗,筛选出各机构排名前10位的发文高频关键词（附录2)。对15个海洋机构的高频共现关键词(在3个以上的机构中出现)进行统计,得到国际海洋科学领域近期共同的研究热点如表6所示。按照高频词汇的属性可将当前海洋领域的热点问题归为4类： \\~y",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1)热点海洋区域：北冰洋、南大洋、北极、南极洲。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "北冰洋被亚欧和北美大陆所包围,涉及的国家及地区众多；且北冰洋终年积冰,对全球气候有着重要影响[7]。南大洋占全球海洋面积的1/6,是全球海洋生态系统中海盐环流的调控枢纽中心,同时对全球碳氮循环具有重要的调控作用[8]。北极地区能够平衡全球冷暖交换,是影响全球气候变化的主要驱动力。近期研究表明,北极海洋变化与全球气候变化密切相关,这种快速响应引起的极区海洋环境迁移和海洋生态系统变异也将对全球气候变化产生强烈反馈作用[9]。南极洲海冰加速融化是导致全球海平面上升的最主要因素之一,基于气候变化-碳循环-海洋环流交互作用模型的最新研究表明,由深层海洋变暖引发的南极海冰融解现象可能在全球尺度内被放大,相对年际气候波动而言,未来南极冰盖消融将更多地受到人为因素导致的全球变暖的影响[1011]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2)海洋监测技术：遥感技术、稳定同位素。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "海洋遥感技术是利用导航卫星反射的载波信号,通过码延迟和波形分析,提取反射信号中携带的目标反射面特性信息,从而实现对海洋的实时监测。目前,海洋遥感技术已经广泛运用于海洋水色、浮游植物藻华、海面风场、海冰密集度和洋面溢油检测等多个方面[12-13]。近年来,国内外科研人员已利用稳定同位素技术研究了海洋生物地球化学循环、全球海洋通量等科学问题。稳定同位素的介质包含了碳、溶解氧、氮和特定化合物等多种物质。例如：利用碳稳定同位素研究海洋系统中的能量流动和动物食性、利用氧稳定同位素研究海洋初级生产力,利用氮稳定同位素重构古海洋生物地球化学循环、利用特定化合物同位素示踪海洋食物网[14-17]。相对传统手段而言,稳定同位素技术还具备客观反映动物能量来源而无需任何校正的优点,可为研究海洋食物网碳来源、能量流动、营养级结构提供可靠数据;稳定同位素法也为探讨海洋 ${ \\mathrm { N } } _ { 2 } \\mathrm { O }$ 形成机制提供了新途径[18]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3)海洋生态系统结构：浮游植物、浮游动物、沉积物。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（浮游植物是海洋生态系统的初级生产者,在全球尺度上影响海洋碳循环。它们虽只占地球生物圈初级生产者生物量的 $0 . 2 \\%$ ,却提供了近 $5 0 \\%$ 的地球初级生产量。早期研究者认为深层海洋浮游植物需要阳光进行光合作用,其沉降后很快降解;但近期研究表明在深海也存在活性浮游植物(硅藻、橄榄绿细胞等）[9-20]。此外,某些浮游植物(如:甲藻)还具备快速响应海水动荡的能力,它们可通过改变迁移方向及种群分化来主动适应和缓冲海洋湍流造成的破坏[21]。海洋浮游动物种类繁多,充当次级生产者角色，是海洋食物网中关键环节。目前国际上海洋浮游动物研究主要集中于以下方向;种群分布和扩散动力学、群落结构和多样性、浮游动物对全球气候变化的响应、极端生境的浮游动物生态学等[22]。海洋沉积物通常由硅质碎屑、碳酸盐、钙质生物和硅质生物等沉积物组成,其化学成分极其复杂,目前关于海洋沉积物的研究集中于同位素测定、污染指示物、重金属污染等方面[23」。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn(4)海洋环境变化：气候变化、海洋酸化、海冰。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "当前全球面临急速的气候变化,大量研究表明全球变暖已引起南、北极地区温度明显升高,这将直接影响全球海洋温盐循环、海平面升高等进程[24]。气候变暖导致海水溶解氧浓度下降,破坏海洋营养循环及海洋生境稳定性,并将制约海洋渔业及沿海经济发展[25];研究人员近期还发现太平洋海域珊瑚礁出现大面积的反复性漂白化,其主要原因就是海水变暖导致海藻死亡,使珊瑚失去食物及色彩来源[26]。工业革命以来,人类活动导致大气 $\\mathrm { C O } _ { 2 }$ 浓度由 $2 8 0 \\mu \\mathrm { L } / \\mathrm { L }$ 迅速上升至 $4 0 0 \\mu \\mathrm { L } / \\mathrm { L }$ ,而海洋由于大量吸收 $\\mathrm { C O } _ { 2 }$ 而出现海水酸化。海洋酸化会损害海洋钙质动物的骨骼形成,同时也导致浮游植物细胞内的 $\\mathrm { \\ p H }$ 值降低,从而制约其生长发育并削减种群丰度,进而影响整个海洋生态系统[27-29]。海冰是海洋生态系统中的特殊生境,它能够支持极富生产力的海冰生物群落,也为海豹、北极熊及众多鸟类提供了栖息和繁殖场所[7]。但自 20 世纪70年代以来,全球气温持续增高对海冰产生了深刻影响。如;北极海冰覆盖范围不断减小,截止2012年北极海冰已经不足原来的$4 0 \\%$ [30];而在南极地区,即使在气候压力减弱的情况下,南极冰盖面积的消退仍在持续进行[10,31]。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/ecfba873001364d5bdcaee827ffc618e38569319a4cfadc8c1f5ea14f87c8ec7.jpg",
+        "table_caption": [
+            "表6国际海洋科学研究的热点关键词",
+            "Table 6The hot keywords of international oceanographic study "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>累计频次 Total frequency</td><td>关键词 Key word</td><td>中文释义 Chinese means</td><td>累计频次 关键词 Total frequency Key word</td><td>中文释义 Chinese means</td></tr><tr><td>172</td><td>climate change</td><td>气候变化</td><td>41</td><td>南大洋</td></tr><tr><td>90</td><td>phytoplankton</td><td>浮游植物</td><td>sediment</td><td>沉积物</td></tr><tr><td>62</td><td>ocean acidification</td><td>海洋酸化</td><td>Arctic</td><td>北极</td></tr><tr><td>61</td><td>remote sensing</td><td>遥感技术</td><td>stable isotopes</td><td>稳定同位素</td></tr><tr><td>48</td><td>Arctic Ocean</td><td>北冰洋</td><td>19 zooplankton</td><td>浮游动物</td></tr><tr><td>41</td><td>sea ice</td><td>海冰</td><td>Antarctica</td><td>南极洲</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.10 海洋科学未来重要研究方向",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1)海洋生态系统与气候变化耦合关系",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "近60年以来,海洋生态系统对全球气候变化产生了明显响应,海洋物理和化学环境的快速变化（海水变暖、层化、混合和酸化)严重影响海洋生物和生态系统[32-33]。如：温室气体 $\\mathrm { C O } _ { 2 }$ 已显著破坏海洋系统平衡（导致海水酸化等),海洋问题甚至延伸至经济、政治、文化等各个领域[9]。气候变暖导致极地冰盖融化趋势加剧、海冰面积缩小、海洋碳吸收能力减弱[34-35]。更为重要的是海洋在地球系统的热量分配中扮演着缓冲器的角色,深入理解气候变化与海洋系统功能的关系有助于维护全球可持续发展。另外,海洋气候环境自身也在发生快速的变化。根据模型预测,到2070年南极臭氧洞的作用将完全消失,导致南极快速升温并将引发东南极冰盖融化及海冰覆盖面积锐减。这种大规模海洋环境变化将对地球化学过程产生怎样影响，以及是否会导致海水酸化加剧等问题现在依然未知[36]。因此,进一步探讨全球气候变化对海洋生态系统的效应及其影响机制,对于海洋科学研究具有重要意义。未来的主要研究方向包括： $\\textcircled{1}$ 开发和测试与全球变化、局地压力有关的海洋系统预测模型； $\\textcircled{2}$ 在全球海洋范围内推广自动气候监测系统； $\\textcircled{3}$ 明晰海洋生态系统中关键物种和群落对气候变化的脆弱性和适应力; $\\textcircled{4}$ 模拟关键区域海洋系统与全球变化压力的耦合作用; $\\textcircled{5}$ 人类活动对海洋气候环境及其生态功能的影响[113,3]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2)利用新兴技术监测海洋动态",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "旻海洋动态监测是一切海洋工作的基础,研究人员积极探讨利用新兴技术监测海洋动态。如:欧空局运用BEST软件和SAR 图像技术来区分油膜、海水与海浪,以精确监测海洋溢油事故[40];中国国家海洋局利用高分三号卫星实现了海洋内波的首次定量遥感,并对黄海进行定量分析和反演研究[41]。新兴海洋监测技术可归于以下几类： $\\textcircled{1}$ 海洋浮标监测系统：由浮标系统、锚泊系统和岸站系统3部分组成。该系统采用高可靠性、低能耗微处理机作为数据采集的核心，能自动、连续采集海洋数据[42-43]； $\\textcircled{2}$ 海洋分子生物学技术：如利用藻体中的特异功能基因分析浮游植物种群动态、利用核酸探针和实时荧光定量PCR等技术监测海洋浮游病毒的生态分布、利用DNA条形码分析海域浮游动物、通过测定海洋真核生物溶酶体的异噬、自噬和自溶作用来持续监测海洋污染动态等[44-46]； $\\textcircled{3}$ 基于大数据的海洋环境监测体系建设：在云计算环境下,针对海洋监测大数据特点,综合考虑监测任务、监测点和监测数据之间的关联,应用大数据技术实现多源异构的海洋环境监测数据集成,有利于海洋环境监测数据共享[47-48]。随着科技的迅猛发展,未来将有更多先进技术应用于海洋研究中。 2",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(3)深海生态系统结构与功能",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "全球海洋平均水深为 $3 8 0 0 \\mathrm { m }$ ,其中超过 $2 0 0 0 \\mathrm { { m } }$ 的深海区占据海洋总面积的 $6 5 \\%$ 以上，海洋通过生物炭泵作用将大气中的颗粒有机碳(POC)输送到深海[49]。前人认为,POC 因具备抗微生物分解功能可以长期存在;最新研究表明,深海 POC 浓度过低导致深海微生物生长缓慢,这才是POC 得以长期储存的机制[50-51]。海底热液铁循环、海洋噬菌体丰度以及底栖病毒的分解作用也在深海 POC 传递过程中扮演重要角色[52-54]。伴随气候变暖,浅海区POC 将会发生再矿化现象,从而减少深海 $\\mathrm { C O } _ { 2 }$ 的储存能力[51]。深海生物多样性分布模式异于陆生系统,资源可利用性(如:海水有机碳含量)是制约其生物多样性的主要因素;在局部沉积环境的水动力驱动下,深海丘陵等异质性生境有助于维持较高的深海生物多样性水平[5-56]。此外,海水深度、海底硫酸盐浓度也影响深海新物种分布及底栖动物群落演替[57-58]。随着深海工业发展及资源开采力度的增大,深海环境遭到严重破坏(如：尾矿释放毒性物质、海水浊度改变等),《联合国气候变化框架公约》（UNFCCC)已颁布条约,呼呼采取有效措施减缓气候变化及人类活动对深层海洋的影响,以保持全球深海生态系统功能完整性[59-61]。未来深海领域的研究有望从以下4个方向进行突破： $\\textcircled{1}$ 深海动力机制与数值模拟； $\\textcircled{2}$ 深海生态系统结构与新物种分布； $\\textcircled{3}$ 海底地质地貌勘探； $\\textcircled{4}$ 深海探测技术及仪器设备研究。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(4)多领域涉海学科交叉融合",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "近年来，人类围绕海洋开发利用、资源环境保护、海洋权益分割等发面做了大量工作,既取得了诸多研究成果,同事也滋生矛盾与冲突。海洋研究不仅包含自然科学理论与技术,同时更涉及管理学、社会学等其他学科[62」,甚至上升至国际政治议题,因此解决海洋问题亟需多学科融合,起头并举。此外,其他相关学科的发展也为海洋研究提供了新思路、新技术,如：流体力学在海洋研究中的应用、声学与海洋热力学、生物地球化学等学科的交叉应用也应引起科研工作者的重视[63]。未来海洋科学将可能涵盖由近海到大洋、由表层到深层、由宏观到微观,多学科交叉融合,进一步推进海洋科学的飞跃发展。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "利用文献计量法对国际海洋科学的发展历程、现状及态势进行了研究，并对比分析了相关科研机构的学术影响力,主要结论如下：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1)美国是发文量最多的国家，而中国科学院是发文量最多的国际科研机构;(2)Joumal of Geophysical Research Oceans 是国际刊文量最大的 SCI期刊;中国在 Acta Oceanologica Sinica的发文量最多，其高水平海洋科学论文的数量需进一步突破；（3)h指数结果表明,美国伍兹霍尔海洋研究所和美国斯克里普斯海洋学研究所的学术影响力在国际15个主要海洋机构中分别居于第1、2位,中国的国际学术影响力亟待提升;(4)当前研究的主要关注点为：热点海洋区域、海洋监测技术、海洋生态系统结构、海洋环境变化;(5)未来重要的研究方向有：海洋生态系统-气候变化耦合关系、利用新兴技术监测海洋动态、深海生态系统结构与功能、多领域涉海学科的交叉融合等。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1］傅明珠，张朝晖，王宗灵，姜美洁，王炜.海洋生态重要性区域的内涵与识别方法研究——以黄河口为例.海洋学报，2016，38（10)：22-33.[2]Cheung WWL,Reygondeau G,Frolicher TL.Large benefits to marine fisheries of meeting the $1 . 5 ^ { \\circ } \\mathrm { C }$ global warming target. Science，2016,354",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(6319）:1591-1594.[3] Notz D,Stroeve J. Observed Arctic sea-ice loss directly folows anthropogenic $\\mathrm { C O } _ { 2 }$ emission.Science，2016,354(6313）: 747-750.[4] 陈晶，朱元贵，雍武，曹河圻，董尔丹.中国神经科学领域发展态势;基于WOS 数据库10年文献计量分析.科学通报，2014，59（23)：2310-2319.[5]Hirs.Aetatifdial'sticeatputPrcefthatalaesftidatesfAmerica，2005，102(46）:16569-16572.[6] Wilson H V.Marine biologyat beaufort.The American Naturalist，1900,34(401): 339-360.[7] 王桂忠，何剑锋，蔡明红，李少菁，戴聪杰.北冰洋海冰和海水变异对海洋生态系统的潜在影响.极地研究，2005，17（3)：165-172[8] CarterL,McCaveINWillasJ.Cirulationdwatesoftesouthean；ArevieDevelopentsinEarthndEtalSciences，2008，8: 85-114.[9] 陈立奇，高众勇，詹力扬，许苏清，汪建君，张远辉，何建华.极区海洋对全球气候变化的快速响应和反馈作用.应用海洋学学报,2013，32(1) : 138-144.[10] NaveiraGrabatC,Fa,trrganLdeC,odKJki,igYimuaSVgouof the meltwater outflow from beneath an Antarctic ice shelf.Nature，2017,542(7640)：219-222.[11] BakkerP，ClarkPU,GoledgeNR,chiterA，WeberME.Ceteial-scaleloceneiatevariatiosamplifiedbyAntarcticeSeetdischarge.Nature，2017,541(7635）： 72-76.[12] 李颖，朱雪瑷，曹妍，刘丙新，杨勇虎.GNSS-R 海洋遥感监测技术综述.海洋通报，2015,34（2)：121-129.[13] Wang ZX,ZaoCF,ZuJH,XieXT,ZangY,LinMS.AniprovedwindretrievalalgoritfortheH-2Asaeroeter.ChseJoualof Oceanology and Limnology，2015,33(5）：1201-1209.[14] 高全贺，高孟春，彭艳超，吴斌斌.稳定碳同位素在海洋生态学上的应用.中国新技术新产品，2010，4：14.[15] FinkP，HarodCarbadrogablesotosevealteuseofpelagicesousbyeiasivet-CspanysidLimomisde.Isotopes in Environmental and Health Studies,2013,49(3）：312-317.[16] 叶丰，贾国东，韦刚健.海洋环境中溶解氧稳定氧同位素研究进展.海洋环境科学，2014，33(4)：636-642.[17] 洪义国，徐向荣，岳维忠.利用氮稳定同位素记录重构古海洋氮素生物地球化学循环.自然杂志，2014，36(6)：431-436.[18] RandallK,Scaratt,LevasseurMMichaudS,XieHX，Goselin.FrstmeasurementsofnitrousoxideinArcticSeaice.JoualfGeophysical Research，2012，117（C9）: C00G15.[19] 孙军.海洋浮游植物与生物碳汇.生态学报，2011，31(18)：5372-[20] 张武昌，李海波，丰美萍，于莹，赵苑，赵丽，肖天，孙军.深层海洋浮游植物研究综述.生态学报，2014，34(14)：3820-3826.[21] SenguptaA，CarraF，toerRyoplaktoncactivelyvesifyrgratiostrateinesposetobuletcsatue,4(7646) : 555-558.[22] 刘镇盛，杜明敏，章菁.国际海洋浮游动物研究进展.海洋学报，2013,35(4)：1-10.[23] 余涛，姜涛.光释光测年技术在海洋沉积物研究中的应用现状与展望.地质科技情报，2014，33（2)：38-44.[24] Quadfasel D. Oceanography: The Atlantic heat conveyor slows. Nature,2005，438(7 068）: 565-566.[25] SchmidtkoS，tramaL,VisbeckM.Deieigobaleanoygencotentduringthepastfiedecades.Nature,7,5（764）39.[26] Hughes TP，KerryJT，Alvarez-Noriega M，Alvarez-RomeroJG，AndersonKD，BairdAH，Babcock RC，Beger M,Bellod DR,Berkelmans R,BridgeTC，ButlerIR,BymeM,CantinNE,ComeauS,CoolySR,CummingGS,DaltonSJ,Diaz-PulidoG,EakinCM,Figueira WF,GlourJP,HarisonHB,HeronSF,HeyAS,HbsJP,HoogenboomMO,KenedyEV,KuoCY,LoughJ,LoweRJ,Liu G,McCulloch MT,Malcolm HA，MeWilliam MJ,Pandolfi $\\mathrm { ~ J ~ M ~ }$ ，Pears R J,Pratchett M S,Schoepf V, Simpson T,Skirving WJ,SommerB,TordaG，WachenfeldDR，WilisBL，WilsonSK.Global warmingandrecurent massbleachingofcorals.Nature，017,543(7645): 373-377.[27]SabineCL,FeelyRA,GruberN,KeyRM,LeeK,BulliserJL,WainkhfR,WongCS,WllceDWR,bok B,MilerFJ,PengH, Kozyr A, Ono T,Rios A F. The oceanic sink for anthropogenic $\\mathrm { C O } _ { 2 }$ .Science，2004,305(5682）: 367-371.[28]OrrJCFbryVJ,onOpLDeySCFelR,aadesika,GruberdaA,JosFKyR,LdsaK,eE,MatearR,MonfryochtA,jRG,laerGK,RogersKB,bineCLaentJLhlieR,laterRD,ToerdeJMF,YamanaaY，YlAntogcanidiatioertetetfrstnturyndisipctoalfgansmau0，437(7059) : 681-686.[29]Hong HZ,ShenR,ZhangFT,Wen ZZ,ChangSW,LinWF,KranzSA,LuoYW,KaoSJ,MorelFMM,ShiDL.Thecomplexffetsfocean acidification on the prominent $\\Nu _ { 2 }$ -fixing cyanobacterium Trichodesmium.Science，2017,356(6337）：527-530.[30] Screen $\\mathrm { ~ J ~ A ~ } ,$ SimmondsI.ThecentralroleofdiminishingseaiceinreentArctictemperatureamplification.Nature,2O10,464（7293）：1334-137.SmithJA,Adersen,ort,GfyA,uffr,tanon,scrR,utreu,JeinsA,HlenbraC,W,CorHFJ,FrleyN,oustS,VauganDG.SubceshelfsedientsrecodistoryftentietetuyretreatofinesandlacieNature,2017,541(7635）: 77-80.[32] Cheung WWL,LamVWY,SarientoJL,KeareyK，WatsonR,ZellrD,PaulyD.Large-scaleredistrbutionof maximumfisheriscatchpotential in the global ocean under climate change.Global Change Biology，2010,16(1）：24-35.[33] 蔡榕硕，齐庆华.气候变化与全球海洋;影响、适应和脆弱性评估之解读.气候变化研究进展，2014，10(3)：185-190.[34] LiuJP,CuryJA,angHog,HoroRImpctofircticcetesoallProceingsoftetioayof Sciences of the United States of America.2012，109(11)：4074-4079.[35] DeVriesT，HolzerM，PrimeauF.Recentincreaseinoceaniccarbonuptakedriven byweakeruperoceanoverturning.Nature，2017，542(7640): 215-218.[36］汪燕敏，祁第，陈立奇.南大洋酸化指标——海水文石饱和度变异的研究进展.地球科学进展，2016,31（4)：357-364.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[37]Strategic Plan. The Australian Institute of Marine Science.(2015-02-25).http://www.aims.gov.au.  \n[38]TomasiaDStockbCA,HbdaAJMethotR,KaplanICEvesonJP,HsmanK,MilerJ,GichasS,GehlenM,PershingA,VeciGA,Msadek R,DelworthT,EakinCM,HaltuchMA,SeferianR,SpllmanCM,HartogJR,SedeckiS,SamhouriJF,MuhlingB,AschRG,PinskyML,SabaVS,KapnickSB,GaitanCF,RykaczewskiRR,AlexanderMA,XueY,PegionKV,LynchP,PayeMR,isiasenT,LehodeyPWerFE.agilivingarisosindcvirotfaaltcaalatefrestsrin Oceanography，2017,152：15-49.  \n[39] Ren HJ,ChenYC,Wang XT,WongGTF,CohenAL,DecarloTM,WeigandMA,MiHS,SigmanDM.21st-centuryiseinantopogeninitrogen deposition on a remote coral reef. Science，2017,356(6339）：749-752 .  \n[40] 李淑清，李瑞华，王潇.基于 SAR 图像的海洋溢油分割方法研究.测绘工程，2017，26(2)：37-41.  \n[41] 杨劲松，王隽，任林.高分三号卫星对海洋内波的首次定量遥感.海洋学报，2017，39(1)：148-148.  \n[42] Evangeliou N,Florou H,Bokoros P,Scoullos M.Temporal and spatial distributionof $^ { 1 3 7 } \\mathrm { C s }$ in Eastern Mediterranean Sea:Horizontal and verticaldispersion in two regions.Journal of Environmental Radioactivity,20o9,100(8）：626-636.  \n[43] 赵聪蛟，周燕.国内海洋浮标监测系统研究概况.海洋开发与管理，2013，30(11)：13-18.  \n[44] 翁幼竹，方永强，张玉生.溶酶体检测在海洋污染监测中的应用研究进展.应用生态学报，2013，24（11)：3318-3324.  \n[45] ClerisiC，GrimsleyN，SubiranaI，MariaE，OriolL，OgataH，MoreauH，DesdevisesY.PrasinovirusdistrbutionintheNorthwestMediterranean Seaisafectedbytheenvironmentandparticularlybyphosphateavailability.Virology，2014,466-467：46-157.  \n[46] SufrediniE，MioniR，MazzeteR，BordinP，SeratoreP，FoisF，PianoA，Cozzi，rociLDetectionandquantifcationofbrioparahaemolyticus inshelfishfrom Italianproductionareas.International JournalofFood Microbiology，2014,184：14-20.  \n[47] Graybeal J,Isenor AW，Rueda C.Semantic mediation of vocabularic n observing systems.Computers& Geosciences，2012,40：120-131.  \n[48] 解鹏飞，刘玉安，赵辉，朱容娟.基于大数据的海洋环境监测数据集成与应用.海洋技术学报，2016，35(1)：93-101.  \n[49] AgustiS,Gonzalez-GodilJVaqueD,stradaerlaarG,sJuarteCUiqitoushealatosiconfirm deep carbon injection by the biological pump.Nature Communications，2015,6：7608.  \n[50]ArietaJ M,Mayol E,Hansman RL,Herndl G J,Ditmar T,DuarteC M.Dilution limits dissolved org carbon utilization in the deep ocean.Science，2015，348(6232）：331-333.  \n[51]MarsayCdsRSbosK,cheEeafigartiatebthe mesopelagicocean.ProceeingsoftheNationalAcademyofSiencesoftheUnited StatesofAmerica，2015,112（4):1089-1094.  \n[52]GuidiL,afroS,itr,EveilldD,,ouS,DYd,ereL,rJ,eLspioli,SunagawaS,DimierC,Kndels-Lewi,ichral,PoulainJearsonS,TaraceasCoators，StemaL,otF,ngeichS,Follws M,Karp-BossL,BossE，gataH,PesantS，WeissenbachJ，WinckerP,AcinasSG,BorkP,DeVargasC,udiconeD,livanMB,RaesJ,arsentiE,BowlerC，GorskyG.lanktonnetwoksdiingcarboexportintheligotrohicocan216,Nture,3（700）：465-470.  \n[53] Del'AnnoA，CorialdesiC，DanoaroR.Viusdecompositionprovidesaniportantontributiontbenticdep-seaosstefunctioing.Proceedings of the National Academy of Sciences of the United States of America,2015,112(16): E2014-E2019.  \n[54]GermanCR,LegendreLL,SnderSG,NiquilN,LutherIGW,BaratiL,HanX,LeBrisN.HydrotheralFecyclingadepanorganiccarbonscavenging:Model-basedevidenceforsignificantPOCsuplytoseaflorsedimentsEarthandlanetaryScienceLeers01,419:143-153.  \n[55] Wolley S NC,TitensorDP,DunstanPK，Guillra-Aroita G,Lahoz-Monfor JJ，WintleBA，WormB,O'Hara TD.Dep-seadiversitypatterns are shaped by energy availability.Nature，2016,533(7603）: 393- 396.  \n[56]Durden JM,Bett BJ,Jones DO B,Huvenne V A I,Ruhl HA. Abyssal hills- -hidden source of increased habitat heterogeneity，benthicmegafaunal biomass and diversity in the deep sea.Progress in Oceanography,2015，137: 209-218.  \n[57] RouseGW，WiloNGrajalJVieekCewep-saseciesofeoturbelldhetioofXeaceloop.ture,530(7588) : 94-97.  \n58]KiedaeeceatsdriveoutofepeorofBiological Sciences，2015，282（1804）: 20142908.  \n[59]Levin L A,Le Bris N. The dep ocean under climate change.Science,2015,350（6262）: 766-768.  \n[60] Ramirez-LlodraE，Trannum HC，Evenset A，LevinLA，Anderssn M，Finne TE，HilarioA，FlemB，Christensen G,Schaaing M,VanreuselA.ubainddepinalgplacemets：vfentpractisviroetaliss，aturalalodolegaps in Norway and internationally.Marine Pollution Bulletin,2015,97(1/2）：13-35.  \n61 DanovaroRAgiJ,FaeliE,llDerdK,Jesn,mire-LlodraE,SmithC,elgroveV,oen,VrL.An ecosystem-based deep-ocean strategy. Scienc ，2017，355(6324):452-454.  \n[62] 苟朝霞，刘小明.海洋交叉类学科对高校学科建设的影响.科技创新导报，2014(33)：103-103.  \n[63 王东晓，刘钦燕，谢强，贺志刚，庄伟，舒业强，肖贤俊，宏波，吴湘玉，隋丹丹.与南海西边界流有关的区域海洋学进展.科学通报，2013,58(14):1277-1288.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "附录115个国际海洋研究机构的检索式",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Appendix1 Retrieval types of15 international oceanographic research institutions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "（1)美国伍兹霍尔海洋研究所（Woods Hole Oceanographic Institution,WHOI）：AD $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ （（（Dept Appl Ocean Phys& Engn）or（Dept Marine Chem &Geochem）or（Dept Geol&Geophys）or（Dept Biol）or（Joint Program Biol Oceanog））and（Woods HoleOceanog Inst））；（2)美国斯克里普斯海洋学研究所（Scripps Institution of Oceanography）（隶属于美国加利福尼亚大学）：AD $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ （（Scripps Inst Oceanog）AND（Univ Calif San Diego））；（3）美国海洋与大气管理局（National Oceanic and Atmospheric Administration,NOAA）：AD $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ （（（Earth Syst Res Lab）OR（Natl Marine FisheriesServ）OR（Pacific Isl Fisheries Sci Ctr）） AND（（NOAA） OR（National Oceanic Atmospheric Admin）））;（4）日本东京大学（University of Tokyo）：AD $\\mathbf { \\tau } = \\mathbf { \\tau }$ （Ocean Res Inst AND Univ Tokyo）;（5）日本北海道大学（Hokkaido University）：AD $\\mathbf { \\tau } = \\mathbf { \\tau }$ （（（Grad Sch Environm Earth Sci）OR（Grad Sch Fisheries Sci)）AND（Hokkaido Univ)）;（6）德国极地与海洋研究所（Alfred Wegener Institute of Polar and Marine Research,AWI）:AD $\\ c =$ ( Alfred Wegener Inst Polar & Marine Res）);（7）德国亥姆霍兹海洋研究中心（GEOMAR Helmholtz Centre for Ocean Research Kiel）：AD $\\mathbf { \\tau } = \\mathbf { \\tau }$ （（Helmholtz Ctr Ocean Res Kiel） OR（GEOMARHelmholtz Ctr OceanRes）OR（GEOMAR Helmholtz CtrOcean Res Kiel）OR（IFMGEOMAR）OR（LeibnizInst MarineSci）or（Leibniz InstMeereswissensch））;（8）法国海洋开发研究院（FrenchResearchIstitutefortheExplorationofteSea,IFREMER):AD=（（Biotechnol&MarineMol）OR（LabPhysOceans）OR（Dept Geosci Marines） OR（Lab Biotechnol & Marine Mol）OR（Lab Ecotoxicol）AND IFREMER）;（9）英国普利茅斯海洋实验室（Plymouth Marine Laboratory）：AD $\\mathbf { \\varepsilon } =$ （Plymouth Marine Lab）；（10）英国国家海洋研究中心（NationalOceanography Centre,NOC）:AD $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ （（Natl Oceanog Ctr Southampton） OR（NOC））;（10)英国国家海洋研究中心（National Oceanography Centre,NOC）：AD $\\mathbf { \\tau } = \\mathbf { \\tau }$ （（Natl Oceanog Ctr Southampton） OR（NOC））;（11）加拿大渔业及海洋部（Fisheries and Oceans Canada,FOC）:AD $\\ c =$ （（Fisheries Oceans Canada） AND（（Inst Ocean Sci） OR（Bedford InstOceanog)））;（12）澳大利亚联邦科学与工业组织（Commonwealth Scientific and Industrial Research Organisation,CSIRO）：AD $\\ c =$ （（（Div Oceanog）OR（DivMineral）OR（Div Fisheries））AND CSIRO AND Australia）；（13）俄罗斯科学院希尔绍夫海洋研究所（P.P.Shirshov Institute of Oeanology of the Russan Academy of Sciences,IORAS）：AD $\\mathbf { \\tau } = \\mathbf { \\tau }$ （（ShirshovInst Oceanol）OR（Shirshov Inst Oceanog））；（14）中国科学院海洋研究所（(InstituteofOceanology，CAS）:AD=（Chinese Acad Sci）SAME（Inst Oceanol)）AND（Qingdaoor266071））；（15）中国科学院南海海洋研究所（South China Sea Institute of Oceanology，CAS）：AD $\\mathbf { \\tau } = \\mathbf { \\tau }$ （（（Chinese Acad Sci） SAME（ $\\mathrm { ~ S ~ } *$ China Sea InstOceanol））AND（Guangzhou or 510301））。",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/c95c7ca37f9a70a446da292805ab2014d2b09f293d46db7afdfaff2036da08df.jpg",
+        "table_caption": [
+            "rrr rrinrrnlilieiligi rnrginelilrrrrirrriri ",
+            "密"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>频次</td><td>关键词</td><td></td><td>中文释义 Chinese means</td><td>频次</td><td>关键词</td><td>中文释义 Chinese means</td><td>频次</td><td>关键词</td><td>中文释义</td></tr><tr><td>Frequency</td><td colspan=\"3\">Key word 美国伍兹霍尔海洋研究所</td><td>Frequency Key word</td><td colspan=\"2\">美国斯克里普斯海洋学研究所</td><td>Frequency</td><td colspan=\"2\">Key word Chinese means 美国海洋与大气管理局</td></tr><tr><td>14</td><td>Gulf of Maine</td><td>缅因湾</td><td>14</td><td>phytoplankton</td><td>浮游植物</td><td></td><td>53 climate change</td><td></td><td>气候变化</td></tr><tr><td>14</td><td>phytoplankton</td><td>浮游植物</td><td></td><td>13 circulation</td><td></td><td>环流</td><td>26</td><td>fisheries</td><td>渔业</td></tr><tr><td>13</td><td>climate change</td><td></td><td>气候变化</td><td>10</td><td>remote sensing</td><td>遥感技术</td><td>25</td><td>Bering Sea</td><td>白令海</td></tr><tr><td>12</td><td>GEOTRACES</td><td></td><td>海洋生化研究计划</td><td></td><td>ocean color</td><td>海洋水色</td><td>22</td><td> salmon</td><td>鲑鱼</td></tr><tr><td>11</td><td>isotopes</td><td>同位素</td><td></td><td>7</td><td>climate change</td><td>气候变化</td><td>21</td><td> stock assessment</td><td>现存量评估</td></tr><tr><td>9</td><td>stable isotopes</td><td></td><td>稳定同位素</td><td>6</td><td>ocean structure</td><td>海洋结构</td><td>21</td><td>temperature</td><td>温度</td></tr><tr><td>9</td><td>subduction</td><td>俯冲</td><td></td><td>6</td><td>ceanacidification</td><td>海洋酸化</td><td>20</td><td>Alaska</td><td>阿拉斯加</td></tr><tr><td>8</td><td>carbon cycle</td><td>碳循环</td><td></td><td>6 sea ice</td><td></td><td>海冰</td><td>19</td><td>migration</td><td></td></tr><tr><td>7</td><td>Alexandrium fundyense</td><td></td><td>芬地亚历山大藻</td><td>upwelling 6</td><td></td><td>上升流</td><td>19</td><td>precipitation</td><td>迁移 降雨量</td></tr><tr><td>7</td><td>Aryl hydrocarbon receptor</td><td></td><td>芳香烃受体</td><td>5 Antarctica</td><td></td><td>南极洲</td><td>17</td><td>growth</td><td>增长</td></tr><tr><td></td><td colspan=\"3\">德国极地与海洋研究所</td><td></td><td colspan=\"2\">英国普利茅斯海洋实验室</td><td></td><td colspan=\"2\"></td></tr><tr><td>13</td><td>Arctic</td><td>北极</td><td>26</td><td>climate change</td><td>气候变化</td><td></td><td>18 climate change</td><td>加拿大渔业及海洋部</td><td></td></tr><tr><td>11</td><td>Southern Ocean</td><td>南大洋</td><td></td><td>25</td><td>ocean acidification</td><td>海洋酸化</td><td>15</td><td>Arctic Ocean</td><td>气候变化</td></tr><tr><td>10</td><td>sea ice</td><td>海冰</td><td></td><td>20</td><td>remote sensing</td><td>遥感技术</td><td></td><td>Arctic</td><td>北冰洋</td></tr><tr><td>9</td><td>ocean acidification</td><td>海水酸化</td><td></td><td>16</td><td>phytoplankton</td><td>浮游植物</td><td>12</td><td></td><td>北极</td></tr><tr><td>7</td><td>Antarctica</td><td>南极洲</td><td></td><td>15</td><td>ecosystem services</td><td>生态系统服务</td><td>12</td><td>sea ice</td><td>海冰</td></tr><tr><td>7</td><td>climate change</td><td>气候变化</td><td></td><td>13 ocean color</td><td></td><td>海洋水色</td><td>7</td><td>Scotian Shelf</td><td>斯科舍大陆架</td></tr><tr><td>6</td><td>Arctic Ocean</td><td>北冰洋</td><td></td><td>12</td><td>chlorophyll</td><td>叶绿素</td><td>7</td><td>sediment</td><td>沉积物</td></tr><tr><td>6</td><td>phytoplankton</td><td>浮游植物</td><td></td><td>10</td><td>primary production</td><td>初级生产力</td><td>6</td><td>Beaufort Sea</td><td>波弗特海</td></tr><tr><td>5</td><td>remote sensing</td><td>遥感技术</td><td></td><td>8 microalgae</td><td></td><td></td><td></td><td>zooplankton</td><td>浮游动物</td></tr><tr><td>5</td><td> stable isotopes</td><td>稳定同位素</td><td>7</td><td>zooplankton</td><td></td><td>微藻</td><td>5 circulation</td><td></td><td>环流</td></tr><tr><td></td><td>日本东京大学</td><td></td><td></td><td></td><td>德国亥姆霍兹海洋研究中心</td><td>浮游动物</td><td>5 SAR</td><td></td><td>合成孔径雷达</td></tr><tr><td>13 ENSO</td><td colspan=\"2\"></td><td>厄尔尼诺-南方涛动</td><td></td><td colspan=\"2\">ocean acidification</td><td></td><td></td><td>法国国家海洋开发研究院</td></tr><tr><td>12</td><td>Pacific Ocean</td><td>太平洋</td><td></td><td>22 19</td><td>phytoplankton</td><td>海洋酸化</td><td>19</td><td>Mediterranean Sea</td><td>地中海</td></tr><tr><td>11</td><td>climate change</td><td>气候变化</td><td></td><td>15</td><td>climate change</td><td>浮游植物</td><td>13</td><td>Bay of Biscay English Channel</td><td>比斯开湾</td></tr><tr><td>10</td><td>Indian Ocean</td><td>印度洋</td><td></td><td>14</td><td>Baltic Sea</td><td>气候变化 波罗的海</td><td>11</td><td>conneetivity</td><td>英吉利海峡</td></tr><tr><td>10</td><td>osmoregulation</td><td>渗透调节</td><td></td><td>13</td><td>Arctic Ocean</td><td>北冰洋</td><td>10</td><td></td><td>连通性</td></tr><tr><td>9</td><td>tsunami</td><td>海啸</td><td></td><td>12</td><td>methane</td><td>甲烷</td><td>10 10</td><td>phytoplankton</td><td>浮游植物</td></tr><tr><td>7</td><td> global warming</td><td></td><td>全球变暖</td><td>10</td><td>Southern ocean</td><td>南大洋</td><td>9</td><td>taxonomy Crassostrea gigas</td><td>分类 长牡蛎</td></tr><tr><td>7</td><td>Japan Sea</td><td>日本海</td><td></td><td></td><td>subduction</td><td>俯冲</td><td>9</td><td></td><td>形态学</td></tr><tr><td></td><td></td><td></td><td></td><td>10</td><td></td><td></td><td></td><td>morphology</td><td></td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/7fb769c98aacc266cbfc0088a6b7c717a5a196a3a334a281909909e886c31513.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>频次 Frequency</td><td>关键词 Key word</td><td></td><td>中文释义 Chinese means</td><td>Frequency</td><td>频次 关键词</td><td></td><td>中文释义</td><td>频次</td><td>关键词</td><td>中文释义</td></tr><tr><td>7</td><td>phytoplankton</td><td></td><td>浮游植物</td><td></td><td>Key word 9 biogeochemistry</td><td></td><td>Chinese means 生物地球化学</td><td>Frequency 9</td><td>Key word remote sensing</td><td>Chinese means 遥感技术</td></tr><tr><td>7</td><td>sediment</td><td></td><td>沉积物</td><td></td><td>9 global warming</td><td></td><td>全球变暖</td><td>8</td><td>stable isotopes</td><td>稳定同位素</td></tr><tr><td></td><td></td><td>澳大利亚联邦科学与工业组织</td><td></td><td></td><td></td><td>日本北海道大学</td><td></td><td></td><td>英国国家海洋研究中心</td><td></td></tr><tr><td>15</td><td>seagrass</td><td></td><td>海草</td><td></td><td>6 distribution</td><td>分布</td><td></td><td>22</td><td>climate change</td><td>气候变化</td></tr><tr><td>13</td><td>mariculture</td><td></td><td>海水养殖</td><td></td><td>6 kinetics</td><td></td><td>动力学</td><td>20</td><td>Southern Ocean</td><td>南大洋</td></tr><tr><td>10</td><td>sterols</td><td></td><td>甾醇类</td><td>S</td><td>6 zooplankton</td><td></td><td>浮游动物</td><td>17</td><td>deep sea</td><td>深海</td></tr><tr><td>9</td><td>fatty acids</td><td></td><td>脂肪酸</td><td></td><td>5 adsorption</td><td></td><td>吸附作用</td><td>15</td><td>iron</td><td>铁</td></tr><tr><td>9</td><td>microalgae</td><td></td><td>微藻</td><td></td><td>5 hermit crab</td><td></td><td>寄居蟹</td><td>14</td><td>Arctic Ocean</td><td>北冰洋</td></tr><tr><td>8</td><td>biomarkers</td><td></td><td>生物标志物</td><td></td><td>5 mitochondrial DNA</td><td></td><td>线粒体 DNA</td><td>13</td><td>sea ice</td><td>海冰</td></tr><tr><td>7</td><td>chemotaxonomy</td><td></td><td>化学分类学</td><td></td><td>5 neon flying squid</td><td></td><td>柔鱼</td><td>12</td><td>biodiversity</td><td></td></tr><tr><td>6</td><td>Antarctica</td><td></td><td>南极洲</td><td></td><td>5 North Pacifiec</td><td></td><td>北太平洋</td><td>12</td><td>sea level</td><td>生物多样性</td></tr><tr><td>5</td><td>cyanobacteria</td><td></td><td>蓝细菌</td><td></td><td>4 algicidal bacteria</td><td></td><td>溶藻细菌</td><td>11</td><td>Arctic</td><td>海平面 北极地区</td></tr><tr><td>5</td><td>diatoms</td><td></td><td>硅藻</td><td></td><td>4 carbon material</td><td></td><td>碳材料</td><td>11</td><td>North Atlantic</td><td>北大西洋</td></tr><tr><td></td><td></td><td>中国科学院海洋研究所 南海</td><td></td><td></td><td></td><td>中国科学院南海海洋研究所</td><td></td><td></td><td>俄罗斯希尔绍夫海洋研究所</td><td></td></tr><tr><td colspan=\"5\">72 South China Sea</td><td>119 South China Sea</td><td>南海</td><td></td><td>9</td><td colspan=\"2\">Black Sea 黑海</td></tr><tr><td>52</td><td>Crassostrea gigas</td><td></td><td>长牡蛎</td><td>25 21</td><td>Northern South China Sea</td><td>南海北部</td><td></td><td>8</td><td>taxonomy</td><td>分类学</td></tr><tr><td>48</td><td>new species</td><td></td><td>新物种</td><td></td><td></td><td>Crassostrea hongkongensis</td><td>香港巨牡蛎</td><td>7</td><td>bottom sediments</td><td>海底沉积物</td></tr><tr><td>30</td><td>innate immunity</td><td></td><td>先天性免疫</td><td>18</td><td>grouper</td><td>石斑鱼</td><td></td><td>5</td><td>Baltic Sea</td><td>波罗的海</td></tr><tr><td>28</td><td>East China Sea</td><td></td><td>东海</td><td>17</td><td>remote sensing</td><td></td><td>遥感技术</td><td>5</td><td>climate</td><td>气候</td></tr><tr><td>27</td><td>Apostichopus japonicus</td><td></td><td>仿刺参</td><td>16</td><td>Epinephelus coioides</td><td></td><td>点带石斑鱼</td><td>5</td><td>distribution</td><td>分布</td></tr><tr><td>26</td><td>Cynoglossus semilaevis</td><td></td><td>半滑舌鳎</td><td>16</td><td>flatfish</td><td></td><td>鲆鲽鱼</td><td></td><td>Kara Sea</td><td>喀拉海</td></tr><tr><td>25</td><td>sediment</td><td></td><td>沉积物</td><td>15</td><td>upwelling</td><td></td><td>上升流</td><td>4</td><td>benthos</td><td>底栖生物</td></tr><tr><td>24</td><td>immune response</td><td></td><td>免疫反应</td><td>14</td><td>bioaccumulation</td><td></td><td>生物富集</td><td>4</td><td>numerical modeling</td><td>数值模拟</td></tr><tr><td>24</td><td>mitochondrial genome</td><td></td><td>线粒体基因组</td><td>14</td><td>Daya Bay</td><td></td><td>大亚湾</td><td>4</td><td>phytoplankton</td><td>浮游植物</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 13
+    }
+]

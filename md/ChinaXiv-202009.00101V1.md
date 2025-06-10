@@ -1,0 +1,388 @@
+# 罚函数凸优化迭代算法及其在无人机路径规划中的应用
+
+胡锟，张亮(武汉理工大学 理学院，武汉 430070)
+
+摘要：针对无人机路径规划问题，建立了具有定常非线性系统、非仿射等式约束、非凸不等式约束的非凸控制问题模型，并对该模型进行了算法设计和求解。基于迭代寻优的求解思路，提出了凸优化迭代求解方法和罚函数优化策略。前者利用凹凸过程(CCCP)和泰勒公式对模型进行凸化处理，后者将经处理项作为惩罚项施加到目标函数中以解决初始点可行性限制。经证明所提方法严格收敛到原问题的Karush-Kuhn-Tucker(KKT)点。仿真实验验证了罚函数凸优化迭代算法的可行性和优越性，表明该算法能够为无人机规划出一条满足条件的飞行路径。
+
+关键词：无人机；路径规划；线性化；凸优化；迭代；罚函数 中图分类号：TP301.6 doi: 10.19734/j.issn.1001-3695.2020.02.0047
+
+Penalty function convex optimization iterative algorithm and its application in UAV path planning
+
+Hu Kun, Zhang Liang† (Schoolof Science,Wuhan Universityof Technology,WuhanHubei 43o070,China)
+
+Abstract:This paper establishedanon-convexcontrolmodelconsistsoftime-invariant nonlinearsystem,non-afine equality constraint andnon-convex inequalityconstrain aiming athe path planning problemofunmannedaerialvehicle (UAV),along with an algorithm designed for solving theaforementioned model.Basedon iterativeoptimization,it proposed the convex optimizationiteration methodand penalty functionoptimization strategy.The formeruses theconcave-convex proces (CCCP) andTaylorformulatoconvexityte model,whilethelateradds theprocessedtertotheobjectivefunctionasapenaltyterm to solve the feasibilitylimit of the initial point.Itis provedthatthe proposed method strictlyconverges toaKarush-KuhnTucker(KKT)pointof the original problem.Simulation experimentsresultverifiedthe feasibilityandsuperiorityofthe penalty function convex optimization iteration algorithm,and it indicates that the proposed algorithmcan provide aflight path satisfying the conditions for the unmanned aerial vehicle.
+
+Keywords:unmannedaerial vehicle(UAV);path planning;linearization;convexoptimization; terative; penalty function
+
+# 0 引言
+
+无人机在空中航行障碍少、效率高、成本低，可广泛应用于民用以及军事领域，譬如通信、物流、导弹等[1]。无人机的路径规划问题是其中的核心问题，目标是生成从起点到目标点的实时全局路径，避免与障碍物的碰撞，并在运动动力学约束下使性能指标达到最优[2]。
+
+无人机的自限条件、大气湍流、环境局部信息和传感器能力限制给无人机路径规划和优化带来了诸多挑战。国内外专家学者针对上述问题从不同方向提出和改进了航迹规划算法[3]。目前主要有两大类算法：智能算法和数值算法。智能算法如遗传算法[4]、蚁群算法[5]、粒子群优化算法[6、动态规划算法[7等都能在各自方面达到所需的最优，但也存在各自的缺陷。比如，多数智能算法的计算量、编码难度、时间复杂度将随着搜索空间的增大、网格步长的缩小、节点数目的增加等因素呈指数增长[8]。
+
+相比而言，数值算法所取得的结果具有更高的精确度。大部分数值方法把无人机路径规划建模为非凸规划问题。而由于非凸问题的复杂性，传统的庞特里亚金最小值原理并不能有效解决[9]。随着DC规划和DCA算法[10]的提出，越来越多的学者将视线投向了对凹凸性方面的研究。凸问题可以在多项式时间内可靠地解出全局最优解[11]。常见的凸问题求解器有MISER3[12]、ECOS[13]等。通常来说，非凸性是由非线性动力学、非凸状态、非凸控制约束引起的。对于非线性系统，可以通过逐次凸化[14的方式解决；对于某些非凸控制约束的问题，可以通过无损凸化[15]进行凸化处理；而对于某些非凸状态约束问题，也可以用连续线性化逼近[16的方式来凸化。
+
+为了解决无人机的路径规划问题，本文考虑具有定常非线性系统、非仿射等式约束、非凸不等式约束的最少燃耗控制问题模型。在本文中，本文的工作主要分为三部分：
+
+a）为了求解原问题的非凸最优控制模型，利用凹凸过程(concave-convexprocedure,CCCP)和泰勒公式进行凸优化处理；b）为了解决泰勒展开线性化过程所产生的初始点可行性限制，将经处理项作为惩罚项施加到目标函数中进行罚函数优化，从而提出罚函数凸优化迭代算法；c）对算法的处理和优化过程进行收敛性分析，证明所提算法收敛到原问题的Karush-Kuhn-Tucker(KKT)点，且对非凸最优控制问题的求解具有普适性。
+
+最后通过对无人机路径规划模型进行仿真实验，表明了所提算法能够收敛于一条满足要求的最优路径，适合复杂地形下自动驾驶机器的路径规划问题。
+
+# 1 罚函数凸优化迭代算法
+
+# 1.1非凸最优控制模型
+
+本文考虑非凸最优控制模型如下：
+
+$$
+\operatorname* { m i n } _ { \boldsymbol { x } , \boldsymbol { u } } \quad J \left[ \boldsymbol { u } \left( \boldsymbol { t } \right) \right] = \int _ { t _ { 0 } } ^ { t _ { f } } \sum _ { j = 1 } ^ { m } C _ { j } \left\| \boldsymbol { u } _ { j } \left( \boldsymbol { t } \right) \right\| d t ,
+$$
+
+s.t.
+
+$$
+\dot { x } ( t ) = A ( t ) x ( t ) + B ( t ) u ( t ) ,
+$$
+
+$$
+x _ { j } \left( t \right) \in X _ { j } \subseteq R ^ { n } , u _ { j } \left( t \right) \in U _ { j } \subseteq R ^ { m } ,
+$$
+
+$$
+x \left( t _ { 0 } \right) = x _ { 0 } , \quad x \left( t _ { f } \right) = x _ { f } ,
+$$
+
+$$
+s _ { i } \left[ \left( x \left( t \right) , u \left( t \right) , t \right) \right] \leq 0 .
+$$
+
+其中，式(1)表示燃料总量， $u _ { j } \left( t \right)$ 为 $m$ 维控制向量 $u ( t )$ 的各个分量 $( j = 1 , 2 , . . . , m )$ ， $C _ { j }$ 为比例系数 $( C _ { j } \geq 0 )$ 。式(2)表示非线性时不变系统的状态方程， $x ( t )$ 为 $n$ 维状态向量， $A$ 为 $\scriptstyle n \times n$ 矩阵，$B$ 为 $\scriptstyle n \times m$ 矩阵。式(3)表示状态和控制约束， $x _ { j } \left( t \right)$ 为 $x ( t )$ 的各个分量 $( j = 1 , 2 , . . . , n )$ 。式(4)表示初始和终端状态。式(5)表示非线性非凸不等式约束，函数 $s _ { i }$ 至少二阶连续可微， $i = 1 , . . . , n _ { s }$ 。
+
+# 1.2凸化处理
+
+已知凸优化问题需满足三个要求：目标函数为凸的；不等式约束函数为凸的；等式约束函数为仿射的[16]。
+
+不失一般性，问题(P0)可以写成标准形式的非线性优化问题：
+
+$$
+\begin{array} { r l } { \operatorname* { m i n } } & { { } f _ { 0 } \left( z \right) , } \end{array}
+$$
+
+S.t.
+
+$$
+f _ { i } \left( z \right) \leq 0 , \quad i = 1 , . . . , q ,
+$$
+
+$$
+h _ { i } \left( z \right) = 0 , \quad i = 1 , . . . , p ,
+$$
+
+$$
+z \in Z .
+$$
+
+其中， ${ \boldsymbol { z } } = \left[ { \boldsymbol { x } } , { \boldsymbol { u } } \right] ^ { \mathrm { T } } \in X \times U$ ，式(6)是仿射的；式(7)是非凸的；式(8)是非仿射的。并且 $f _ { i }$ 与 $h _ { i }$ 均为二阶可微，式(9)是可行域约束。
+
+对于非凸不等式约束，根据凹凸过程(CCCP)[18]的思想，将具有有界Hessian矩阵的函数 $f _ { i } \left( z \right)$ 表示为凸函数 $f _ { i , \nu e x }$ 与凹函数 $f _ { i , c a v e }$ 的和：
+
+$$
+f _ { i , \nu e x } \left( z \right) + f _ { i , c a v e } \left( z \right) \leq 0 , \quad i = 1 , . . . , q .
+$$
+
+这个分解不唯一。当 $f _ { i , c a v e }$ 在第 $k$ 次迭代解、参数向量 $z _ { k }$ 附近二阶连续可微时，基于迭代寻优的求解思路，在 $z _ { k }$ 处一阶泰勒展开线性化处理，得到如下不等式约束：
+
+$$
+f _ { i , \nu e x } \left( z \right) + f _ { i , c a n e } \left( z _ { k } \right) + \nabla f _ { i , e a n e } ^ { T } \left( z _ { k } \right) \left( z - z _ { k } \right) \leq 0 , \quad i = 1 , . . . , q .
+$$
+
+其中， $f _ { i , v e x } \left( z \right)$ 为凸函数， $f _ { i , c a v e } ( z _ { k } ) + \nabla f _ { _ { i , c a v e } } ^ { T } ( z _ { k } ) \big ( z - z _ { k } \big )$ 为仿射函数，则式(11)为凸不等式约束。
+
+对于非仿射函数 $h _ { i } \left( z \right)$ ，当其在 $z _ { k }$ 附近二阶连续可微时，应用泰勒公式得到线性近似项：
+
+$$
+h _ { i } ( z _ { k } ) + \nabla h _ { i } ^ { T } ( z _ { k } ) \big ( z - z _ { k } \big ) = 0 , \quad i = 1 , . . . , p .
+$$
+
+$$
+F _ { i } \left( z ; z _ { k } \right) = f _ { i , v e x } \left( z \right) + f _ { i , c a v e } \left( z _ { k } \right) + \nabla f _ { i , c a v e } ^ { T } \left( z _ { k } \right) \left( z - z _ { k } \right) , \quad H _ { i } \left( z ; z _ { k } \right) =
+$$
+
+$\tilde { z }$ ，则有如下迭代优化处理模型：
+
+$$
+\operatorname* { m i n } \quad \quad f _ { 0 } ( z ) ,
+$$
+
+s.t.
+
+$$
+F _ { i } \left( z ; z _ { k } \right) \leq 0 , \quad i = 1 , . . . , q ,
+$$
+
+$$
+H _ { i } \left( z ; z _ { k } \right) = 0 , \quad i = 1 , . . . , p ,
+$$
+
+$$
+z \in Z ,
+$$
+
+$$
+\left\| z - z _ { k } \right\| \leq \varepsilon .
+$$
+
+其中，目标函数 $f _ { 0 } \left( z \right)$ 是仿射的，不等式约束函数 $F _ { i } \left( z ; z _ { k } \right)$ 是凸的，等式约束函数 $H _ { i } \left( z ; z _ { k } \right)$ 是仿射的，式(16)为可行域约束，式(17)为信赖域约束， $\varepsilon$ 为常数。因此，问题(P2)是凸优化问题。
+
+# 1.3收敛性分析
+
+引理1若凸问题(P2)有极小点 $z ^ { * }$ ，则迭代过程单调非增且收敛。
+
+证明因为问题(P2)有极小点 $z ^ { * }$ ，即对任意 $k$ ，有$f _ { 0 } \left( z _ { k } \right) \geq \operatorname* { i n f } f _ { 0 } \left( z \right) = f _ { 0 } \left( z ^ { \ast } \right)$ ，所以 $\{ f _ { 0 } \left( z _ { k } \right) \}$ 有下界。又知 $z _ { k }$ 是第 $k - 1$ 次迭代的最优解，是第 $k$ 次迭代的初始解，而 $z _ { k + 1 }$ 是第 $k$ 次迭代的最优解，因此有 $f _ { 0 } \left( z _ { k + 1 } \right) \leq f _ { 0 } \left( z _ { k } \right)$ 。所以 $\{ f _ { 0 } \left( z _ { k } \right) \}$ 单调非增，且有下界，得 $\left\{ f _ { 0 } \left( z _ { k } \right) \right\}$ 单调非增且收敛。
+
+引理2凸问题(P2)的迭代序列 $\left\{ { z } _ { k } \right\}$ 收敛到其 KKT 点 $z ^ { * }$ ，即 $z _ { k } \to z ^ { * }$ 。
+
+证明因为凸问题必然有且仅有一个极小点 $z ^ { * }$ ，结合引理1知凸问题(P2)单调非增且收敛，并且收敛到这个KKT点。
+
+定理1原问题(P1)的全局极小点也是凸问题(P2)的全局极小点；凸问题(P2)的全局极小点是原问题(P1)的KKT点。
+
+证明a)若 $z _ { k }$ 是原问题(P1)的全局极小点，则对 $\forall z \in Z$ ，有 $f _ { i } \left( z _ { k } \right) \leq f _ { i } \left( z \right)$ ，即：
+
+$$
+f _ { i , \nu e x } \left( z _ { k } \right) + f _ { i , c a v e } \left( z _ { k } \right) \leq f _ { i , \nu e x } \left( z \right) + f _ { i , c a v e } \left( z \right) .
+$$
+
+因为 $f _ { i , c a v e }$ 有半负定Hessian 矩阵，所以：
+
+$$
+z ^ { * }
+$$
+
+于是有：
+
+$$
+\begin{array} { r l } & { F _ { i } \left( z _ { k } ; z _ { k } \right) = f _ { i , \nu e x } \left( z _ { k } \right) + f _ { i , c a v e } \left( z _ { k } \right) + \nabla f _ { i , \mathrm { c o v e } } ^ { T } \left( z _ { k } \right) \left( z _ { k } - z _ { k } \right) } \\ & { \qquad = f _ { i , \nu e x } \left( z _ { k } \right) + f _ { i , \mathrm { c a v e } } \left( z _ { k } \right) \leq f _ { i , \nu e x } \left( z \right) + f _ { i , \mathrm { c a v e } } \left( z \right) } \\ & { \qquad \leq f _ { i , \nu e x } \left( z \right) + f _ { i , \mathrm { c a v e } } \left( z _ { k } \right) + \nabla f _ { i , \mathrm { c a v e } } ^ { T } \left( z _ { k } \right) \left( z - z _ { k } \right) = F _ { i } \left( z ; z _ { k } \right) . } \end{array}
+$$
+
+因此， $z _ { k }$ 是凸问题(P2)的全局极小点。
+
+b)假设凸问题(P2)的全局极小点为 $z _ { k }$ ， $( z ^ { \ast } , \lambda ^ { \ast } , \upsilon ^ { \ast } )$ 为其KKT点，则满足KKT条件：
+
+7
+
+又因为全局极小点必为KKT点，即 $z _ { k } = z ^ { * }$ ，结合$f _ { i , \nu e x } \left( z \right) + f _ { i , c a v e } \left( z \right) = f _ { i } \left( z \right)$ 可得：
+
+$$
+\begin{array} { r } { f _ { i } \left( z _ { k } \right) \leq 0 , \quad i = 1 , . . . , q , } \\ { h _ { i } ( z _ { k } ) = 0 , \quad i = 1 , . . . , p , } \\ { \lambda _ { i } ^ { * } \geq 0 , \quad i = 1 , . . . , q , } \\ { \lambda _ { i } ^ { * } f _ { i } \left( z _ { k } \right) = 0 , \quad i = 1 , . . . , p , } \end{array}
+$$
+
+$$
+\nabla f _ { 0 } \left( z _ { k } \right) + \sum _ { i = 1 } ^ { q } \lambda _ { i } ^ { * } \nabla \left( f _ { i } \left( z _ { k } \right) \right) + \sum _ { i = 1 } ^ { p } \upsilon _ { i } ^ { * } \nabla \left( h _ { i } ( z _ { k } ) \right) = 0 .
+$$
+
+此即为原问题(P1)的KKT条件，因此 $z _ { k }$ 是原问题(P1)的KKT点。
+
+定理2凸优化过程(P2)全局收敛到原非凸最优控制问题(P1)的一个KKT点。
+
+证明从初始点 $z _ { 0 } \in Z$ 出发，凸问题(P2)会得到一个迭代点列 $\left\{ z _ { n } \right\}$ 。
+
+a）若 $\left\{ z _ { n } \right\}$ 收敛，假设m $z _ { n } = z ^ { * }$ 。第 $n$ 次迭代$f _ { i , v e x } \left( z \right) + f _ { i , c a v e } \left( z _ { n } \right) + \nabla f _ { i , c a v e } ^ { T } \left( z _ { n } \right) \left( z - z _ { n } \right) \leq 0$ ，假设 $z _ { n + 1 }$ 是其全局最优点，则：
+
+$$
+\begin{array} { r l } & { f _ { i , \nu e x } \left( z _ { n + 1 } \right) + f _ { i , c a \nu e } \left( z _ { n } \right) + \nabla f _ { i , e a \nu e } ^ { T } \left( z _ { n } \right) \left( z _ { n + 1 } - z _ { n } \right) } \\ & { \leq f _ { i , \nu e x } \left( z \right) + f _ { i , c a \nu e } \left( z _ { n } \right) + \nabla f _ { i , c a \nu e } ^ { T } \left( z _ { n } \right) \left( z - z _ { n } \right) . } \end{array}
+$$
+
+不等式两边同时取极限 $n  + \infty$ ，得：
+
+$$
+\begin{array} { r l } & { f _ { i , \nu e x } \left( z ^ { * } \right) + f _ { i , c a \nu e } \left( z ^ { * } \right) + \nabla f _ { i , \mathrm { c a n e } } ^ { T } \left( z ^ { * } \right) \left( z ^ { * } - z ^ { * } \right) } \\ & { \leq f _ { i , \nu e x } \left( z \right) + f _ { i , c a \nu e } \left( z ^ { * } \right) + \nabla f _ { i , \mathrm { c a n e } } ^ { T } \left( z ^ { * } \right) \left( z - z ^ { * } \right) . } \end{array}
+$$
+
+对任意 $z \in Z$ 成立，因此 $z ^ { * }$ 是凸问题(P2)的全局极小点，结合定理1， $z ^ { * }$ 是原问题(P1)的KKT点。
+
+b)若 $\left\{ z _ { n } \right\}$ 发散，由于凸问题(P2)有下界，根据魏尔斯特拉斯聚点定理，在有界点集 $\left\{ z _ { n } \right\}$ 内至少有一个聚点，假设为$z ^ { * * }$ 。由此在 $\left\{ z _ { n } \right\}$ 中存在子列 $\left\{ z _ { n _ { k } } \right\}$ 收敛于 $z ^ { * * }$ ，且 $z ^ { * * }$ 是凸问题(P2)在 $\left\{ z _ { n _ { k } } \right\}$ 内的最优点。此问题通过反证法证明：假设 $z ^ { * * }$ 不是原问题(P1)的KKT点，则对任意充分小 $\delta > 0$ ，存在原问题(P1)的可行点，有 $\left| \tilde { z } - z ^ { * * } \right| < \delta$ ，且 $f _ { i } \left( \tilde { z } \right) < f _ { i } \left( z ^ { * * } \right)$ 成立。因此有$f _ { i } \left( \tilde { z } \right) - f _ { i } \left( z ^ { * * } \right) = \nabla f _ { i } \left( z ^ { * * } \right) \left( \tilde { z } - z ^ { * * } \right) < 0$ ，即：
+
+$$
+\begin{array} { r l } & { \nabla f _ { i , \nu e x } \left( z ^ { * * } \right) \left( \tilde { z } - z ^ { * * } \right) + \nabla f _ { i , c a v e } \left( z ^ { * * } \right) \left( \tilde { z } - z ^ { * * } \right) } \\ & { = f _ { i , \nu e x } \left( \tilde { z } \right) - f _ { i , \mathrm { v e x } } \left( z ^ { * * } \right) + \nabla f _ { i , c a v e } \left( z ^ { * * } \right) \left( \tilde { z } - z ^ { * * } \right) < 0 . } \end{array}
+$$
+
+从而：
+
+$$
+\begin{array} { r l } & { F _ { i } \left( \tilde { z } ; z ^ { \ast \ast } \right) - F _ { i } \left( z ^ { \ast \ast } ; z ^ { \ast \ast } \right) = f _ { i , \nu e x } \left( \tilde { z } \right) + f _ { i , c a v e } \left( z ^ { \ast \ast } \right) } \\ & { + \nabla f _ { i , c a v e } \left( z ^ { \ast \ast } \right) \left( \tilde { z } - z ^ { \ast \ast } \right) - f _ { i , \nu e x } \left( z ^ { \ast \ast } \right) - f _ { i , c a v e } \left( z ^ { \ast \ast } \right) < 0 . } \end{array}
+$$
+
+这表明存在一个充分靠近 $z ^ { * * }$ 的点，使得在凸问题(P2)内的值小于 $z ^ { * * }$ ，这与 $z ^ { * }$ 是凸问题(P2)的最优点矛盾，因此假设不成立， $z ^ { * * }$ 是原问题(P1)的KKT点。
+
+综上所述，凸优化过程(P2)全局收敛到原非凸最优控制问题(P1)的一个KKT点。
+
+# 1.4 罚函数优化
+
+凸优化过程采用了泰勒公式近似线性化的方式，在约束函数尤其是等式约束中进行了二阶项舍弃。因此存在着一些不可行初始解导致无法收敛的情况。为了解决上述问题，本文对凸优化问题(P2)进行罚函数优化。通过对不可行迭代点施加惩罚迫使迭代点向可行域靠近，从而降低对初始点选取的可行性要求。
+
+对于凸问题(P2)，令 $F _ { i } \left( z ; z _ { k } \right) _ { + } = \operatorname* { m a x } \left\{ 0 , F _ { i } \left( z ; z _ { k } \right) \right\}$ ，将经处理项作为惩罚项施加到目标函数中得到罚问题：
+
+$$
+\quad \mathrm { m i n } \quad f _ { 0 } ( z ) + \sigma \{ \sum _ { i = 1 } ^ { q } \lbrack F _ { i } ( z ; z _ { k } ) _ { + }  ^ { \alpha } + \sum _ { i = 1 } ^ { p } \vert H _ { i } ( z ; z _ { k } ) \vert ^ { \beta } \} ,
+$$
+
+s.t.
+
+$$
+\left\| z - z _ { k } \right\| \leq \varepsilon .
+$$
+
+其中， $\sigma > 0$ 为惩罚因子， $\alpha , \beta \ge 1$ 。对于罚问题与原约束优化问题的关系，有如下定理：
+
+定理3设 $z ^ { * }$ 是凸问题(P2)的全局极小点，罚因子序列$\left\{ \sigma _ { k } \right\}$ 发散到 $+ \infty$ ，若 $z _ { \sigma _ { k } }$ 是罚问题(P3)的全局极小点，则罚问题(P3)的聚点 $\overline { z }$ 收敛到原问题(P1)的KKT点。
+
+证明令 $\tilde { P } ( z _ { \sigma } ) = \sum _ { i = 1 } ^ { q } [ F _ { i } ( z ; z _ { k } ) _ { + } ] ^ { \alpha } + \sum _ { i = 1 } ^ { p } | H _ { i } ( z ; z _ { k } ) | ^ { \beta } ~ , ~ P ( z , \sigma ) = f _ { 0 } ( z _ { \sigma } ) + \sigma \tilde { P } ( z _ { \sigma } ) ~ \mathrm { ~ o ~ n ~ } ~ r  ~ \infty ,$ 对任意 $\sigma _ { 2 } > \sigma _ { 1 } > 0$ ，设 $z _ { \sigma _ { 1 } }$ 和 $z _ { \sigma _ { 2 } }$ 分别是罚函数 $P ( z , \sigma )$ 对应于 $\sigma _ { 1 }$ 和 $\sigma _ { 2 }$ 的最优解，则：
+
+$$
+\left\{ f _ { 0 } \left( z _ { \sigma _ { 1 } } \right) + \sigma _ { 2 } \tilde { P } \left( z _ { \sigma _ { 1 } } \right) \geq f _ { 0 } \left( z _ { \sigma _ { 2 } } \right) + \sigma _ { 2 } \tilde { P } \left( z _ { \sigma _ { 2 } } \right) , \right.
+$$
+
+两式相加得 $( \sigma _ { 2 } - \sigma _ { 1 } ) \big [ \tilde { P } \big ( z _ { \sigma _ { 1 } } \big ) - \tilde { P } \big ( z _ { \sigma _ { 2 } } \big ) \big ] \geq 0$ ，由 $\sigma _ { 2 } > \sigma _ { 1 }$ 知$\tilde { P } \big ( z _ { \sigma _ { 1 } } \big ) \geq \tilde { P } \big ( z _ { \sigma _ { 2 } } \big )$ ，因此 $\tilde { P } \big ( z _ { \sigma } \big )$ 关于 $\sigma$ 单调不增。由上面第二式得：
+
+$$
+\begin{array} { r } { \left\{ { \begin{array} { l } { f _ { 0 } \left( { \boldsymbol { z } } _ { \sigma _ { 2 } } \right) - f _ { 0 } \left( { \boldsymbol { z } } _ { \sigma _ { 1 } } \right) \geq { \boldsymbol { \sigma } } _ { 1 } \left[ { \tilde { P } } \left( { \boldsymbol { z } } _ { \sigma _ { 1 } } \right) - { \tilde { P } } \left( { \boldsymbol { z } } _ { \sigma _ { 2 } } \right) \right] \geq 0 , } \\ { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad = f _ { 0 } \left( { \boldsymbol { z } } _ { \sigma _ { 2 } } \right) + { \boldsymbol { \sigma } } _ { 1 } { \tilde { P } } \left( { \boldsymbol { z } } _ { \sigma _ { 2 } } \right) + \left( { \boldsymbol { \sigma } } _ { 2 } - { \boldsymbol { \sigma } } _ { 1 } \right) { \tilde { P } } \left( { \boldsymbol { z } } _ { \sigma _ { 2 } } \right) } \\ { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \geq f _ { 0 } \left( { \boldsymbol { z } } _ { \sigma _ { 1 } } \right) + { \boldsymbol { \sigma } } _ { 1 } { \tilde { P } } \left( { \boldsymbol { z } } _ { \sigma _ { 1 } } \right) = P \left( { \boldsymbol { z } } _ { \sigma _ { 1 } } , { \boldsymbol { \sigma } } _ { 1 } \right) . } \end{array} } \right. } \end{array}
+$$
+
+因此 $f _ { 0 } \left( z _ { \sigma } \right)$ 和 $P ( z _ { \sigma } , \sigma )$ 关于 $\sigma$ 单调不减。
+
+由 $z ^ { * }$ 是凸问题(P2)的全局极小点及 $z _ { \sigma _ { k } }$ 是罚问题(P3)的全局极小点知 $z ^ { * }$ 与 $z _ { \sigma _ { k } }$ 均为可行点，即 $\tilde { P } ( z ^ { * } ) = 0$ ， $\tilde { P } \big ( z _ { \sigma _ { k } } \big ) = 0$ 。于是有：
+
+$$
+\begin{array} { r l } & { f _ { 0 } \left( z _ { \sigma _ { k } } \right) = f _ { 0 } \left( z _ { \sigma _ { k } } \right) + \sigma _ { k } \tilde { P } \left( z _ { \sigma _ { k } } \right) = P \left( z _ { \sigma _ { k } } , \sigma _ { k } \right) } \\ & { \qquad \leq P \left( z ^ { * } , \sigma _ { k } \right) = f _ { 0 } \left( z ^ { * } \right) + \sigma _ { k } \tilde { P } \left( z ^ { * } \right) = f _ { 0 } \left( z ^ { * } \right) . } \end{array}
+$$
+
+则 $f _ { 0 } \left( z _ { \sigma } \right)$ 和 $P ( z _ { \sigma } , \sigma )$ 关于 $\sigma$ 有界，因此极限均存在，设为$f ^ { 0 }$ 和 $p ^ { \scriptscriptstyle 0 }$ 。由于 $\sigma _ { k } \to + \infty$ ，得：
+
+$$
+\operatorname* { l i m } _ { k  + \infty } \tilde { P } \big ( z _ { \sigma _ { k } } \big ) = \operatorname* { l i m } _ { k  + \infty } \frac { P \big ( z _ { \sigma _ { k } } , \sigma _ { k } \big ) - f _ { 0 } \big ( z _ { \sigma _ { k } } \big ) } { \sigma _ { k } } = 0 .
+$$
+
+对于聚点，有 $z _ { \sigma _ { k } }  \overline { { z } }$ ，则 $\tilde { P } ( \overline { { z } } ) = 0$ ，因此 $\overline { z }$ 为可行点。又因为 $z ^ { * }$ 是凸问题(P2)的全局极小点，所以 $f _ { 0 } \left( z ^ { * } \right) \leq f _ { 0 } \left( { \overline { { z } } } \right)$ 。再对$f _ { 0 } \left( z _ { \sigma _ { k } } \right) \leq f _ { 0 } \left( z ^ { \ast } \right)$ 两端取极限得 $f _ { 0 } \left( \overline { { z } } \right) \leq f _ { 0 } \left( z ^ { * } \right)$ 。因此 $f _ { 0 } \left( \overline { { z } } \right) = f _ { 0 } \left( z ^ { \ast } \right)$ ，即聚点 $\overline { z }$ 是凸问题(P2)的全局极小点。结合定理2 知 $\overline { z }$ 收敛到原问题(P1)的一个KKT点。
+
+下面给出基于上述过程的罚函数凸优化迭代算法伪代码：
+
+算法1罚函数凸优化迭代算法
+
+a)输入参数：终止时刻 $t _ { f }$ ，约束参数，容许误差 $\varepsilon$ ，惩 罚因子 $\sigma$ ，最大迭代次数 $k _ { \mathrm { m a x } }$ ;
+
+b)离散化：对模型总时长 $t _ { f }$ 关于时间步长 $\Delta t$ 划分为 $N$ 个离散节点 $N = t _ { f } / \Delta t$ ;
+
+c）初始化：选取任意初始点 $x _ { 1 }$ ：  
+d）线性化：式(14)(15);  
+e）迭代寻优： $k = 1 \colon k _ { \operatorname* { m a x } }$ ：求得相应的目标泛函;  
+f)循环：若 $\left\| { \boldsymbol x } _ { k + 1 } - { \boldsymbol x } _ { k } \right\| > \varepsilon$ ，则转步驟 g)，否则转步驟 h);g）更新： $k \gets k + 1$ ，转步驟f);  
+h）输出：最优值 $x _ { k }$ □
+
+# 2 仿真实验与结果分析
+
+将总时长 $t _ { f }$ 按照节点间距 $\Delta t = t _ { f } \mathrm { \Omega } / \mathrm { \Omega } N$ 离散化为 $N$ 个节点，建立无人机的路径规划模型：
+
+$$
+\operatorname* { m i n } \quad \sum _ { i = 1 } ^ { N } \left( w _ { u } \left\| u ( i ) \right\| _ { 2 } + w _ { x } \left\| x ( i ) \right\| _ { 2 } \right) + \sigma F \left( x ; x _ { k } \right) _ { + } ,
+$$
+
+$s . t$
+
+$$
+\dot { y } \left( i \right) = A y \left( i \right) + B \left( u \left( i \right) + g \right) , i = 1 , . . . , N ,
+$$
+
+$$
+y ( i ) \in X \subseteq R ^ { N } , u ( i ) \in U \subseteq R ^ { N } , i = 1 , . . . , N ,
+$$
+
+$$
+y \left( 1 \right) = y _ { 0 } , \ y \left( N \right) = y _ { f } .
+$$
+
+其中， $\omega _ { u }$ 和 $\omega _ { x }$ 分别对应燃耗和路径长度的权重系数，$F _ { i } \left( x ; x _ { k } \right) _ { + } = \operatorname* { m a x } { \left\{ 0 , F _ { i } \left( x ; x _ { k } \right) \right\} }$ ， $\sigma$ 为惩罚因子，
+
+$$
+y \left( i \right) = { \left[ \begin{array} { l } { x \left( i \right) } \\ { \nu \left( i \right) } \end{array} \right] } , A = { \left[ \begin{array} { l l } { 0 } & { 1 } \\ { 0 } & { 0 } \end{array} \right] }
+$$
+
+$$
+B = \left[ \begin{array} { l } { 1 } \\ { 2 } \\ { 1 } \end{array} \right] , \quad H = \left[ \begin{array} { l l l } { 1 } & { 0 } & { 0 } \\ { 0 } & { 1 } & { 0 } \end{array} \right] .
+$$
+
+本文将障碍物视作圆柱状，只考虑从圆形侧面绕过，而不从顶部飞越。
+
+$$
+F \left( \boldsymbol { x } ; \boldsymbol { x } _ { k } \right) = r ( j ) - \left\| H \boldsymbol { x } _ { k } \left( i \right) - c \left( j \right) \right\| - \frac { \left[ H \boldsymbol { x } _ { k } \left( i \right) - c \left( j \right) \right] ^ { \top } H } { \left\| H \boldsymbol { x } _ { k } \left( i \right) - c \left( j \right) \right\| } [ x ( i ) - \boldsymbol { x } _ { k } \left( i \right) ] ,
+$$
+
+$$
+i = 1 , . . . , N , \ j = 1 , . . . , M .
+$$
+
+表示将非凸避障约束 $\| H x ( i ) - c ( j ) \| \geq r ( j )$ 通过所提算法优化后的不等式约束函数， $c ( j ) , r ( j )$ 分别表示第 $j$ 个障碍物的坐标和半径， $M$ 是障碍物总数。
+
+$$
+X = \left\{ ( x ( i ) , \nu ( i ) ) ^ { T } \in R ^ { \mathrm { e x } \backslash } \left. \left. \nu ( i ) \right. _ { 2 } \leq V _ { \mathrm { m a x } } \right\} \right.
+$$
+
+$$
+U = \{ u \in R ^ { N } | \hat { n } ^ { T } u ( i ) \geq \| u ( i ) \| _ { 2 } \cos \theta , \| u \| _ { 2 } \leq U _ { \operatorname* { m a x } } \}
+$$
+
+其中， $V _ { \operatorname* { m a x } }$ 和 $U _ { \mathrm { m a x } }$ 分别表示为速度上限和加速度上限，并且$U _ { \mathrm { m a x } } = F _ { \mathrm { m a x } } / m$ ， $F _ { \mathrm { m a x } }$ 为最大推力、 $m$ 为飞行器质量；$\hat { n } ^ { T } u \left( i \right) \geq \left. u \left( i \right) \right. _ { 2 } \cos \theta$ 表示推力角约束， $\theta$ 为推力角， $\boldsymbol { \hat { n } } = \left[ 0 , 0 , 1 \right] ^ { \mathrm { T } }$ 为指向 $z$ 轴正方向的单位向量。 $y ( 1 ) = y _ { 0 }$ ， $y ( N ) = y _ { f }$ 为起始和终止状态。
+
+下面通过仿真实验验证所提算法在无人机路径规划模型中的可行性和优越性。仿真实验均在Windows7操作系统中的Matlab R2017b环境下进行，硬件环境为Intel(R)Core(TM)i3-5005U CPU $@ 2 . 0 0 \mathrm { G H Z }$ 处理器且安装内存为4GB的PC机，并且在求解过程中调用了CVX[19]工具箱。
+
+对于所提算法的可行性问题，设置实验参数如表1所示。
+
+表1实验参数表  
+Tab.1Experimental parameter table   
+
+<html><body><table><tr><td>参数</td><td>值</td><td>参数</td><td>值</td></tr><tr><td>N</td><td>100</td><td>△t</td><td>1s</td></tr><tr><td>Vmax</td><td>50m/s</td><td>Fmax</td><td>40N</td></tr><tr><td>m</td><td>4kg</td><td>Kmax</td><td>10</td></tr><tr><td></td><td>100</td><td>θ</td><td>30°</td></tr><tr><td>n</td><td>[0,0,1]T</td><td>g</td><td>[0,0,-9.81]Tm²/s</td></tr><tr><td>のu</td><td>1</td><td>Ox</td><td>1</td></tr><tr><td></td><td>10³</td><td></td><td></td></tr></table></body></html>
+
+规划空间 $D = \{ ( x , y , z ) | 0 \leq x , y \leq 1 0 0 0 \mathrm { m } \}$ ，起始点为$x ( 1 ) = ( 0 , 0 , 0 )$ ，终止点为 $x ( N ) = ( 1 0 0 0 , 1 0 0 0 , 2 . 4 )$ ，并选择起、止点的连线作为初始路径。令初始速度为 $\nu ( 1 ) = ( 0 , 0 , 0 )$ ，终止速度为 $\nu \big ( N \big ) = ( 0 , 0 , 0 )$ ，起始点仅有向上的加速度 $u ( 1 ) = \left( 0 , 0 , U _ { \operatorname* { m a x } } \right)$ ，燃耗量用加速度的二范数 $\sum _ { l = 1 } ^ { i } \bigl \| u \left( l \right) \bigr \| _ { 2 }$ 等比替换。实验结果如图1和2。
+
+由图1可知，所提算法可以在复杂环境下实现无人机的二维、三维路径规划，并且不受初始路径可行性限制。观察图2发现，在第二次迭代时，路径长度和燃耗都已经接近最优了，所以在实际处理时可以适当增大容许误差 $\varepsilon$ 或者降低迭代次数上限 $k _ { \mathrm { m a x } }$ 以节省时间成本。
+
+![](images/bc1f02bbab4760e3720b891e44d099526e89c37a70478478d73a28491d2cfadc.jpg)  
+图1无人机罚函数凸优化迭代算法的规划路径
+
+![](images/45f8df2c8aaaaebc442620343b1f9c3b3a346012685ba5bd49ccb42c239bb184.jpg)  
+Fig.1The planning path of penalty function convex optimization iterative algorithm forUAV
+
+为体现算法优越性，本文将对比三个常见的路径规划智能算法：遗传算法、蚁群算法和动态规划算法。为满足对比算法可行性需求，对起始点作出调整，相应的缩小了第一个圆形障碍物的半径，并对各项数值等比调整。在设置相同节点数的情况下进行实验，网格步长为 $0 . 2 5 \mathrm { k m }$ ，节点数均为37，实验结果如图3。
+
+![](images/16e6fdecc7430bd384cc342bd58b66e0616c99461849a6fbb8595669ec64e194.jpg)  
+图2三维情况的路径长度与燃耗量随迭代次数变化图 Fig.2The path length and fuel consumption vary with the number of iterations in the three-dimensional case   
+图3对比实验  
+Fig.3Contrast experiment
+
+规划路径长度对应遗传算法、蚁群算法、动态规划算法、本文算法分别为 $1 5 . 9 5 4 1 ~ \mathrm { k m }$ 、 $1 3 . 6 7 2 5 \ \mathrm { k m }$ 、 $1 3 . 5 4 3 2 ~ \mathrm { k m }$ 、$1 3 . 3 2 5 5 ~ \mathrm { k m }$ 。结果表明，所提算法可以规划出更短的路径。并且，一方面，本文算法不需要如蚁群算法和动态规划算法一般将规划空间网格化，所规划出来的路线更加平滑，更符合实际飞行。另一方面，也不会如蚁群算法和遗传算法一般规划结果出现波动、存在随机性，所规划路径更加稳定，更适合实际应用。
+
+# 3 结束语
+
+为了解决无人机路径规划问题，本文从最优控制的角度出发，提出了求解非凸最优控制问题的罚函数凸优化迭代算法。所提算法经证明严格收敛到原问题的KKT点，并且不受初始点可行性限制。仿真实验验证了所提算法在无人机路径规划问题中的可行性和优越性。
+
+# 参考文献：
+
+[1] Xu Yunpeng,Che Chang.A brief review of the intelligent algorithm for traveling salesman problem in UAV route planning [C]//2019 IEEE 9th International Conferenceon Electronics InformationandEmergency Communication (ICEIEC).BeiJing: IEEE,2019: 705-711.   
+[2]Yang Liang,Qi Juntong,Xiao Jizhong,et al.ALiterature Review of UAV 3DPath Planing[C/ Procof the1th WorldCongressonIntelligent Control and Automation. ShenYang: IEEE,2014: 2376-2381.   
+[3]闫斌，石凯，叶润.禁飞区无人机预警算法研究[J].计算机应用研 究,2018,35 (09): 2651-2658.(Yan Bin, Shi Kai,Ye Run.Algorithm research on UAV’ s early warning for no-fly zone [J].Application Research of Computers,2018,35 (09): 2651-2658.)   
+[4]李楠，张建华．基于改进遗传算法的无人机航路规划[J].计算机仿 真，2016,33(4):91-94.(Li Nan, Zhang Jianhua.Path planning for unmanned aerial vehicles based on improved genetic algorithm [J]. Computer Simulation,2016,33 (4): 91-94.)   
+[5]李喜刚，蔡远利．基于改进蚁群算法的无人机路径规划[J]．飞行力 学,2017,35(1): 52-56.(Li Xigang,Cai Yuanli.UAV path planning based on improved ant colony algorithm [J]. Flight Dynamic,2017,35 (1): 52-56.)   
+[6] 张建南，刘以安，王刚．基于优化粒子群算法的无人机航路规划[J]. 传感器与微系统,2017,36(3):58-61.(Zhang Jiannan,Liu Yian,Wang Gang. UAV route planning based on PSO algorithm [J]. Transducer and Microsystem Technologies,2017,36 (3): 58-61.)   
+[7] 童玮，李业军，沈焕生，等．基于动态规划的无人机协同侦察路线规 划[J].军事通信技术,2016,37(03):11-14.(Tong Wei,LiYejun,Shen Huansheng,et al. Multi-UAV route optimization based on dynamic programming[J].JournalofMilitary Communications Technology,2016, 37 (03): 11-14.)   
+[8] 于振中，李强，樊启高．智能仿生算法在移动机器人路径规划优化 中的应用综述[J].计算机应用研究,2019,36(11):3210-3219.(Yu Zhenzhong,Li Qiang,Fan Qigao.Survey on application of bioinspired intellgent algorithms inpath planningoptimization ofmobilerobots[J]. Application Research of Computers,2019,36 (11): 3210-3219.)   
+[9] 杨军，朱学平，朱苏朋，等．飞行器最优控制[M]．西安：西北工业 大学出版社,2011: 87-102.(Yang Jun, Zhu Xueping,Zhu Supeng,et al. Optimal control of aircraft [M].Xi’an: Northwestern Polytechnical University Press, 2011: 87-102.)   
+[10] An L T H,Tao PD,Minh L H,et al. DC approximation approaches for sparse optimization [J]. Le Thi HA,Pham Dinh T,Le H M,et al. DC approximation approaches for sparse optimization [J]. European Journal of Operational Research,2015,244 (1): 26-46.   
+[11] Zhang Zhe,Li Jianxun, Wang Jun. Sequential convex programming for nonlinear optimal control problems in UAV path planning [J]. Aerospace Science and Technology,2018,76: 280-290.   
+[12] Jennings L S,Fisher M E,Teo K L,et al. MISER3 Optimal Control Software: Theory and User Manual [M]. Perth: University of Western Australia, 2004.   
+[13] Alexander D,Eric C, Stephen B.ECOS: An SOCP solver for embedded systems [C]//2013 European Control Conference (ECC) . Zurich: IEEE, 2013: 3071-3076.   
+[14] Mao Yuanqi, Dueri D, Szmuk M,et al. Successive convexification of non-convex optimal control problems with state constraints [J]. IFACPapersOnLine,2017,50(1): 4063-4069.   
+[15] Lars B,Behc,et A, John M C II. Lossless convexification of control constraints for a class of nonlinear optimal control problems [J].Systems & Control Letters,2012,61(8): 863-870.   
+[16]Liu Xinfu,Lu Ping.Solving Nonconvex optimal control problems by convex optimization [J].Journal of Guidance,Control,and Dynamics, 2014,37 (3): 750-765.   
+[17] StephenB,LievenV.凸优化[M]．王书宁，许，黄晓霖，译．北京： 清华大学出版社，2013:121-153   
+[18] Sriperumbudur B K,Lanckriet G R G.On the convergence of the
+
+concave-convex procedure [J].Advances in Neural Information Processing Systems,2009,22:1759-1767. [19] Michael G and Stephen B.CVX:Matlab software for disciplined convex programming，version 2．0 beta [EB/OL].(2013）[2020-02-29]. http://cvxr. com/cvx.

@@ -1,0 +1,470 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201610272189 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "童笑笑,陈春娣,吴胜军,贾振毅，易雪梅,马茂华.三峡库区澎溪河消落带植物群落分布格局及生境影响.生态学报,2018,38（2）:571-580. TongXX,Daltiatcalyso of Pengxi River in the Three Gorges Reservoir.Acta Ecologica Sinica,2018,38(2）:571-580. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "三峡库区澎溪河消落带植物群落分布格局及生境影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "童笑笑1,²，陈春娣1，\\*，吴胜军}，贾振毅}³，易雪梅'，马茂华",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1中国科学院重庆绿色智能技术研究院，重庆400714  \n2 中国科学院大学,北京100049  \n3西南大学地理科学学院，重庆400716",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：三峡消落带是一条特殊的水—陆交错带,其生境的特殊性及对整个三峡库区的影响逐渐成为地学、环境科学、生态学等学科的研究热点。植被是消落带各项生态功能的载体。然而,三峡水库的运行使消落带原有植被遭到破坏。通过对澎溪河消落带植物群落及其生境的实地调查,采用双向指示种法（TWINSPAN）划分植物群落类型,并结合方差分解和CCA 排序法研究4类生境影响因素组14个生境影响因子与植物群落空间分布的关系,探讨生境对消落带植物群落组成、结构及多样性的影响。结果表明：（1）消落带植物群落包括5种类型：狗牙根 $^ +$ 雀稗群落、狗尾草 $^ +$ 狗牙根群落、黄荆群落、白茅 $^ +$ 鬼针草群落、苔草群落；（2）CCA排序中,第1排序轴对消落带植被空间变化的累计解释量为 $6 . 8 3 \\%$ ，占生境条件总解释量的 $4 4 . 7 3 \\%$ ,能很好地解释消落带植物群落与生境的相互关系,植物群落类型沿排序轴呈梯度分布;（3）土壤是影响消落带植被空间分布格局的主要影响因素组,各影响因素组间交互作用明显。淹水时间、海拔、土壤含水量是植物群落空间分布的主要影响因子,解释量分别为$5 . 3 \\% , 3 . 0 \\% \\ , 2 . 9 \\%$ ;（4）4类影响因素组共解释消落带植物群落空间格局变化的 $4 4 . 6 \\%$ ,未解释部分所占比例较大,可能是由于消落带内生境条件复杂,影响其群落组成及空间分布的潜在因素较多,如各种土地利用政策、人类活动干扰及景观组成等因素也可能对消落带植物群落构成有影响。研究消落带植物空间分布及其与生境的关系,以期为科学认识消落带、保护水库环境提供依据。 ）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：水库岸带;植被；土壤特性；水位波动；土地利用类型；方差分解",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Spatial distribution pattern of plant community and habitat impact analysis of the drawdown zone of Pengxi River in the Three Gorges Reservoir ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TONG Xiaoxiao1,²，CHEN Chundi1,\\*，WU Shengjun'， JIA Zhenyi1,3，YI Xuemei1，MA Maohual   \n1 Chongqing Instituteof Greenand Inteligent Technology，Chinese Academy of Sciences， Chongqing 40o714，China   \n2 University of Chinese Academy of Sciences， Beijing 10o049，China   \n3 College of Geographical Science， Southwest University，Chongqing 40o716,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Riparian vegetation has importantecological functions in protectingthe waterquality，stabilizing thebank and maintaining the habitatsconnectivity.The impoundment of the Three Gorges Reservoir hasdestroyedtheoriginal iparian vegetation and potentiall threatens thereservoir ecosystem'shealthandstability in the Three GorgesReservoir.This research study explored theriparian vegetationcommunityofthenewly formed drawdownzoneofthe ThreeGorges Reservoir and the relationship between the spatial distribution paterns of plantcommunityand the habitat influences.Afield survey was carridout from August to September 2015，and93 plantquadrats were investigated.At thesame time，14 factors including threetopographic（slope，exposure，and elevation），threehydrology（flooding time，frequency，and depth）， seven soil（pH，moisturecontent，organicmatter，available nitrogen，phosphorus，and potassium，and slow-release potassium）andone historical landuse（historical landuse）factor were measured.These habitatfactors wereclasified into fourgroups:topographic，hydrology，soil，and historical landuse factor groups.Thecommunitytypes were identifiedusing atwo way indicator speciesanalysis（TWINSPAN).Aditionally，theefectsof the four habitat factor groupsand their interactiononthetotal variationof drawdownvegetation werepartitionedusingvariance decomposition.Theefects of14 habitat factorson the drawdown plantcommunities were analyzed usingthecanonical correspondence analysis（CCA）.The main results were as follows.（1）The drawdown plantcommunities were clasified into five types，which were a Cynodon dactylon plus Paspalum thunbergii，Setaria viridis plus Cynodon dactylon，Vitex negundo，Imperata cylindrica plus Bidens pilosa，and Carex tristachya communities.（2）Theresultsof the CCA indicated that drawdown vegetation and habitat factorshadasignificantcorrelation.Thecumulative interpretationofthefirstordinationaxisonvegetationspatialvariation was $6 . 8 3 \\%$ ，accounting for $4 4 . 7 3 \\%$ of the total interpretation of the habitat. Five types of plant communities were distributed alongthefirstordinationaxis folowing the altitude gradient.（3）Theresultsofthevariance decomposition showed thatthe soil factors group had only a $1 0 . 1 \\%$ contribution.It played a major role in the spatial distribution of the drawdown plant community among the four habitat factor groups.There was a significant interaction between the four/habitat factor groups. The CCAalsoshowedthatthehabitat factorsofflooding time,elevation,andsoil moisturecontent playedadominantrole in the spatial distribution of the drawdown plant community and their contribution were $5 . 3 \\% , 3 . 0 \\%$ ，and $2 . 9 \\%$ respectively. (4） Our results demonstrated that the explanatory power of all four habitat factor groups was low ( $\\dot { 1 } 4 . 6 \\%$ ). This may be because thedrawdown zone isa newly established，complex ecotone，where habitatsand landscapes are highly heterogeneous.The unexplained portion maycome from the influence of anthropogenic activity，various disturbances，and large-scale landscape context. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words:reservoir riparian zone；vegetation；soil properties；water fluctuation；land use；variance decomposition ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着国内经济发展对水资源和清洁能源的需求,大坝与水库建设数量不断增长。据统计,我国目前现有大小水库八万余座,而建国初期仅有 23座[]。其中,横跨重庆市到湖北省宜昌市之间长江上的三峡水库,是目前我国也是世界上最大的人工水库之一,承担重要的防洪、清淤、航运、发电等功能,满足社会经济发展需求。然而,筑坝建库改变了原有区域的生态系统,例如河相变湖相,水流速度降低、滞留时间增加[2],水一土环境条件发生了巨大变化[3]。同时水库岸带周边也形成了环库水陆交错带—消落带。消落带是水陆两类生态系统的过渡地带[4],具有保持水土、截留污染和维持生物多样性等生态功能[5-6],是库岸稳定、水库安全运行的重要保障]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "三峡水库自2010 年完成 $1 7 5 \\mathrm { ~ m ~ }$ 水位蓄水后,季节性淹没原有陆地生态系统（土地利用类型主要包括耕地、自然地、建成区等，分别占淹没区域的 $4 3 . 7 \\% . 3 5 . 9 \\% . 1 3 \\% )$ ,形成消涨幅度为 $3 0 \\mathrm { ~ m ~ }$ 、面积达 $3 4 8 . 9 \\ \\mathrm { k m } ^ { 2 }$ 的水库消落带[8]。反复的淹没一出露使消落带原有陆地生态系统植被大幅减少,逐渐形成新的植物群落[9]。Yang 等对三峡水库建库前后消落带植物群落的研究表明,维管植物由405 种减少到231种,减少了 $43 \\%$ ；木本植物由108 种减少到39 种,减少了 $6 4 \\%$ ;优势生活型由多年生草本转变为一年生草本,优势植物群落类型也明显改变[10]。New 等认为三峡水库消落带植物群落的变化是对水位升高、水文特征改变的响应[11]。王强等发现,较三峡大坝建设前,消落带植物物种减少,单属单种现象明显,水库水位的高低、涨落、变动频率、持续时间、发生时间等特征均可能影响植物群落的种类组成及空间分布[12-3]。也有其他研究表明,坡度、海拔等地形因子和土壤养分因子也对消落带植被生物量、物种组成等有显著影响[3.14]。此外,原有陆地生态系统急剧转变为水—陆交错带,原生态系统的农业耕作、城市建设等人类活动的影响并不会瞬间消失,其历史土地利用类型可能影响土壤种子库的种子数量和种类[15],而土壤种子库又在一定程度上干预了未来该地区的植物群落组成、结构和演替动态[16]。因此,受库区消落带生态系统内生境变化（水文情势、地形特征、土壤特性及历史土地利用等)的影响,原生态系统的物种多样性、群落类型、群落结构及空间分布格局都将发生显著变化。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目前有关消落带植被研究刚刚起步,影响因素及其机制尚需探索。开展消落带植物空间分布格局与生境关系的研究,寻找影响植被分布的主要影响因素组和因子,对于认识和预测消落带植被演替趋势,制定有效的库岸带规划和管理政策,改善区域生态环境、提高系统生态服务功能、维护三峡库区生态安全和水库安全运行具有重要的理论与实践意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究区澎溪河 $( 3 0 ^ { \\circ } 4 1 ^ { \\prime } - 3 1 ^ { \\circ } 4 2 ^ { \\prime } \\mathrm { ~ N ~ } , 1 0 7 ^ { \\circ } 4 2 ^ { \\prime } - 1 0 8 ^ { \\circ } 5 4 ^ { \\prime } \\mathrm { ~ E ~ } )$ 位于三峡水库腹心地带，是长江左岸一级支流。主河长 $1 8 2 . 4 ~ \\mathrm { k m }$ ,流域面积 $5 2 7 6 ~ \\mathrm { k m } ^ { 2 }$ ,其中库区部分长 $1 1 7 . 5 ~ \\mathrm { k m }$ ,消落带面积约 $4 8 ~ \\mathrm { k m } ^ { 2 }$ ,占三峡水库消落带总面积的 $1 6 \\%$ 。消落带平均宽度 $1 . 0 6 ~ \\mathrm { k m }$ ,是三峡水库消落带面积最大、消落带类型最多的支流,在三峡水库消落带研究中具有典型性和代表性[17]。已有研究表明,澎溪河消落带植被以草本为主,乔木和灌木较少,植被分布特征符合中度干扰理论[17]。Zhang 等[9]对澎溪河消落带植被特征及其对环境变量的响应的研究结果表明,消落带植被以一年生草本植物为主,海拔、坡度、 $\\mathrm { \\ p H }$ 和土壤有效磷含量对消落带植被物种组成有重要影响。本文以库区澎溪河消落带为研究对象,研究植物群落组成、结构与多种生境因素之间的关系,初步探索影响消落带植物群落空间分布的主要影响因素组及因子,为消落带植被保护{修复和管理提供科学依据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "三峡水库运行时在澎溪河的回水止于汉丰湖调节坝[18]。本研究选取澎溪河开县汉丰湖调节坝至云阳段（受三峡水库水位调节的影响)。研究区处于亚热带湿润季风气候区,温和湿润。年平均气温 $1 8 . 6 ~ \\mathrm { { ^ { \\circ } C } }$ ,年平均降水量1100— $1 5 0 0 ~ \\mathrm { m m }$ ,年平均径流量35.8亿 $\\mathbf { m } ^ { 3 }$ 。该流域现有人口约196万人,其中农业人口172万人，人口密度为369人 $\\mathrm { \\ k m } ^ { 2 }$ 。土壤类型主要有黄壤土、紫色土、冲积土和水稻土。根据已有研究[13,17],消落带内植物以草本植物为主，主要有狗牙根（Cynodondactylon）、雀稗（Paspalum thunbergii）、苍耳（Xanthiumsibiricum）等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2调查分析方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 样地调查",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在前期调查的基础上,于2015年8—9月采用样带样方相结合的方法进行植被调查。此时水库水位较低（ $1 5 3 \\mathrm { ~ m } )$ ,消落带出露面积较大,同时消落带出露时间较长,植被恢复较好。根据水库河道纵向特征,沿澎溪河均匀设置24 条样带。由于库岸带、河岸带等水陆交错带边界模糊,尤其是与陆岸交界的一边。水库环境介于自然与人工景观之间,并不像人工景观有明晰的斑块界限。因此有研究指出,库岸带、河岸带除了明显界定的水位线之间的范围,还需延伸到不受库区水位、河水等影响的范围[19],即还包括周边其上水位潜在影响区域。因此,每条样带垂直于河岸从库区水位线( $1 5 3 \\mathrm { ~ m ~ }$ 左右)延伸到 $1 8 0 \\mathrm { ~ m ~ }$ 高程,宽度为 $5 \\mathrm { ~ m ~ }$ ,其中175— $1 8 0 \\mathrm { ~ m ~ }$ 为水库水位潜在影响区。考虑到消落带内可能存在一些大型草本,且在水位潜在影响区可能存在灌木和乔木。因此结合样带长度和宽度,沿样带在1一 ${ \\cdot } 5 \\mathrm { ~ m ~ }$ 间隔范围内随机选取4—6个 $1 ~ \\mathrm { m } \\times 5 ~ \\mathrm { m }$ 的植物样方,共93个样方(图1)。样地调查包括：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)群落结构 记录每个样方内的植物种名、盖度、高度和长势情况等。植物种名鉴定依据中国植物图像库(http://www.plantphoto.cn/）,《中国植物志》[2]和《四川植物志》[21]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)地形因素 记录样方的海拔、坡度、坡向等地形特征。坡向划分为5个等级并分别赋值,北坡为1,东北坡和西北坡为2,东坡和西坡为3,东南坡和西南坡为4,南坡为5。数值越小表示生境条件越冷湿,光照条件越差,数值越大表示生境条件越干热,光照条件越好[22]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)土壤因素 用土钻在调查过植被的样方表层( $\\mathrm { ' } 0 { - } 1 0 \\ \\mathrm { c m } \\ \\cdot \\mathrm { }$ )取土壤,采用多点混合取样法,并装袋编号，带回实验室,根据《土壤农化分析与环境监测》[23]和《土壤农业化学分析方法》[24]进行土壤化学性质的测定，共93袋土样。分析指标包括： $\\mathrm { \\ p H }$ 、含水量、有机质、有效氮、有效磷、速效钾及缓效钾。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ddac0112a10a4bef849912edec9952eb54b30b8aa1f4049c9281320e90ec8452.jpg",
+        "img_caption": [
+            "图1研究区域及样带位置图",
+            "Fig.1Location of study area and transects "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(4)水文因素 根据中华人民共和国长江海事局(htp://www.cjmsa.gov.cn/9/368/2/39/312/index.html的逐日库区水位数据（2014年9月至2015年8月），统计各样方的最大淹水深度、频率及时间。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(5)历史土地利用类型 通过重庆市天地图 $0 . 5 \\mathrm { ~ m ~ }$ 精度航拍影像获得水库修建前样带所在地的土地利用类型。并结合实地调查,最终确定样方历史土地利用类型,如居民点,调查时会发现残存的院墙、碎瓦片等;农用地,低山丘陵区耕地类型以梯田为主（保水保肥),因此调查时会发现沿等高线方向的条状阶台式或波浪式断面的地形。历史土地利用类型划分为3个等级并分别赋值,自然地为0,农用地为1,居民点为2。数值越小表示水库修建前样方受人类活动干扰的程度越小,土壤种子库越丰富,水库建立后,自然植被的恢复越容易。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2数量分析方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以93 个样方各物种的覆盖度为基础,为了最小化偶见种的影响[25],仅保留在样方中出现两次以上的物种，构成样方 $\\mathrm { \\Phi ^ { \\cdot } x }$ 物种覆盖度矩阵,用于植被—生境关系分析。生境因子矩阵包含地形、水文、土壤、历史土地利用类型4类因素组,共14个生境因子(表1)。为了消除各因子取值范围与量纲不同的影响,统一进行标准化转换（对数转换）。根据样方内物种的构成用双向指示种法（TWINSPAN)对群落进行类型划分。利用R中vegan 程序包的varpart函数进行方差分解,分离不同生境因素组对植物群落分异格局的贡献。对物种数据进行 DCA 分析,最大轴的梯度长度为7.0,大于3,选择单峰模型比较合理。本研究选择单峰模型CCA对物种与生境因子的关系进行分析,解释和分离各生境因子对群落格局的影响。TWINSPAN分析由PC-ORD $5 . 0 ^ { [ 2 6 ] }$ 完成,方差分解由R2.11.1[7完成,CCA排序由CANOCO $5 . 0 ^ { [ 2 8 ] }$ 完成。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/6ec7b1a7a3ed49bc9305d86dc641e1644008731ed29eaacf6c05ee8ba831185c.jpg",
+        "table_caption": [
+            "表1生境变量",
+            "Table 1 Habitat variables "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>因素组 Factor group</td><td>因子 Factor</td><td>缩写 Abbreviation</td><td>因素组 Factor group</td><td>因子 Factor</td><td>缩写 Abbreviation</td></tr><tr><td>地形 Topography</td><td>坡度/(°)</td><td>Slop</td><td>土壤 Soil</td><td>pH</td><td>pH</td></tr><tr><td></td><td>坡向</td><td>Expo</td><td></td><td>含水量t/%</td><td>MC</td></tr><tr><td></td><td>海拔/m</td><td>Elev</td><td></td><td>有机质/（g/kg)</td><td>OM</td></tr><tr><td rowspan=\"3\">水文Hydrology</td><td>时间/天</td><td>Time</td><td></td><td>有效氮/（mg/kg)</td><td>AN</td></tr><tr><td>频率/次</td><td>Freq</td><td></td><td>有效磷/（mg/kg)</td><td>AP</td></tr><tr><td>淹水深度/m</td><td>Dept</td><td></td><td>速效钾/（mg/kg)</td><td>AK</td></tr><tr><td>历史土地利用类型 Historical land use</td><td>历史土地利用类型</td><td>HLU</td><td></td><td>缓效钾/（g/kg)</td><td>SK</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1消落带植物群落类型划分",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本次调查24条样带中共发现和确认植物134种，去除偶见种后，研究区内维管植物为67种，利用双向指示种法（TWINSPAN)对样方进行分类，得到根据不同优势种确定的植物群落类型。根据TWINSPAN的结果（图2），采取第4级水平的划分，结合生态学意义，将93个样方分为5种植物群落类型：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "I.狗牙根（Cynodon dactylon） $^ +$ 雀稗（Paspalumthunbergii)群落( $N = 5 5$ ）",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/307bb788b61ccfac748e7f3028f0d8dce2343047348e296f0a2c1913a8af5735.jpg",
+        "img_caption": [
+            "图293个植物样方TWINSPAN分类图Fig.2TWINSPAN dendrogram of 93 plant plots"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "狗牙根和雀稗是最具优势的物种,平均覆盖度大于 $4 0 \\%$ 。伴生种有鬼针草（Bidenspilosa）和苍耳（Xanthium sibiricum)等。在消落带内分布广泛,主要分布在消落带受水位波动干扰剧烈中低海拔处（海拔153— $1 6 5 \\mathrm { ~ m ~ }$ )，包括55个植物样方，物种共计39种。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "II.狗尾草(Setaria viridis) $^ +$ 狗牙根群落( $N = 2 5$ ）",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "狗尾草和狗牙根是最具优势的物种,平均覆盖度大于 $20 \\%$ 。伴生种有小白酒草（Conyza canadensis）、鬼针草和苍耳等。主要分布在消落带受水位波动中度干扰的中高海拔处（海拔165—175m）,包括25个植物样方,物种共计52种。 > C",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "III.黄荆(Vitex negundo)群落( $N = 5$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "黄荆是最具优势的物种,平均覆盖度大于 $3 0 \\%$ 。伴生种有鬼针草、苍耳和千金子（Leptochloachinensis）等。主要分布在消落带受水位波动干扰较少的高海拔处（海拔 $1 7 5 \\mathrm { ~ m ~ }$ 左右）,包括5个植物样方，物种共计30种。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "IV.白茅(Imperatacylindrica) $^ +$ 鬼针草群落( $N = 5 )$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "白茅和鬼针草是最具优势的物种,平均覆盖度大于 $30 \\%$ 。伴生种有草（Arthraxon hispidus）等。主要分布在消落带受水位波动干扰较少的高海拔处（海拔 $1 7 5 \\mathrm { ~ m ~ }$ 左右）,包括5个植物样方,物种共计33 种。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "V.苔草(Carex tristachya)群落 $\\textcircled { M } = 3 )$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "苔草是最具优势的物种,平均覆盖度小于 $10 \\%$ 。伴生种有活血丹(Glechoma longituba)等。主要分布在消落带水位波动潜在影响区（海拔 $1 7 5 { \\mathrm { - } } 1 8 0 ~ \\mathrm { m }$ ）,包括3个植物样方,物种共计17种。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2消落带生境特征 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究调查的24 条样带中,各生境因子最大值和最小值相差较大,甚至达几十倍,如速效钾、有效氮、淹水时间等,土壤pH从弱酸性过渡到中性;除土壤 $\\mathrm { \\ p H }$ 、淹水时间和深度外,其他生境因子均表现为平均值大于中位数;除土壤 pH外,其他土壤因子和水文因子变异系数均大于 $3 0 \\%$ ,其中有效磷变异系数最大,达$1 1 4 . 3 9 \\%$ ,其次为速效钾和淹水深度（表2）。表明研究区内土壤理化性质及水文特征差异较大,消落带生境条件复杂。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3消落带植物群落的CCA排序分析",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "三峡库区澎溪河消落带植物群落与生境因子的CCA排序结果见表3。前4个典范轴解释了植被变化的$1 5 . 2 7 \\%$ 。由于CCA排序前两轴的特征值之和占全部排序轴特征值总和的 $7 0 . 8 0 \\%$ ,包含了排序的绝大部分信息,因此采用前两轴的数据来分析植物群落与生境因子的关系（图3）。根据14个生境因子与CCA排序轴的相关性分析可知（表4）,海拔、淹水时间和深度与CCA第1轴相关性最强。但这3个因子彼此存在一定的相关性且均与淹水干扰有关,如随海拔增加,淹水时间减少,水淹深度也降低。表明与淹水干扰有关的因子在决定消落带植物群落结构的诸多生境因子中起着主导作用。土壤含水量和坡度与CCA第2轴相关性较高,表",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "明土壤含水量和坡度对于消落带植物群落的空间分布也至关重要。",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/aa6b220f7472e9c4b911fc5fd3d91249fe0194800a2e81f69313dd511b3c41f5.jpg",
+        "table_caption": [
+            "Table 2Statistic analysis of soil factors and hydrology factors ",
+            "表3澎溪河消落带植物群落CCA排序"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>因子 Factor</td><td>最小值 Minimum</td><td>最大值 Maximum</td><td>中位数 Median</td><td>平均值 Mean</td><td>标准偏差 SD</td><td>变异系数/%</td></tr><tr><td></td><td>5.20</td><td>8.70</td><td>8.10</td><td>7.81</td><td>0.69</td><td>CV 8.84</td></tr><tr><td>pH MC</td><td>3.88</td><td>41.27</td><td>16.73</td><td>17.52</td><td>7.79</td><td>44.49</td></tr><tr><td>OM</td><td>2.34</td><td>53.46</td><td>14.26</td><td>15.70</td><td>8.70</td><td>55.44</td></tr><tr><td>AN</td><td>8.46</td><td>177.72</td><td>66.86</td><td>68.13</td><td>32.11</td><td>47.13</td></tr><tr><td>AP</td><td>0.56</td><td>80.49</td><td>5.87</td><td>7.59</td><td>8.68</td><td>114.39</td></tr><tr><td>AK</td><td>31.50</td><td>820.00</td><td>85.00</td><td>104.22</td><td>87.91</td><td>84.36</td></tr><tr><td>SK</td><td>0.20</td><td>1.23</td><td>0.42</td><td>0.45</td><td>0.15</td><td>33.92</td></tr><tr><td>Time</td><td>0.00</td><td>275.00</td><td>241.00</td><td>178.93</td><td>108.89</td><td>60.86</td></tr><tr><td>Freq</td><td>0.00</td><td>4.00</td><td>2.00</td><td>2.32</td><td>1.30</td><td>56.25</td></tr><tr><td>Dept</td><td>0.00</td><td>22.75</td><td>12.75</td><td>12.27</td><td>8.65</td><td>70.50</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/fabf2810a628412653791b3673ba82ceb260024545688f60bf32f79a2104894c.jpg",
+        "table_caption": [
+            "表2土壤理化性质及水文特征统计分析",
+            "表414个生境因子与CCA排序轴的相关性"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>CCA 排序CCA ordination</td><td>轴1Axis 1</td><td>轴2 Axis 2</td><td>轴3 Axis 3</td><td>轴4 Axis 4</td></tr><tr><td>特征值Eigenvalues</td><td>0.5524</td><td>0.3220</td><td>0.2051</td><td>0.1555</td></tr><tr><td>累计解释量 Explained variation（cumulative）</td><td>6.83</td><td>10.81</td><td>13.35</td><td>15.27</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/aae1d649a70da008c61b76614d677d69d906a06c08382c668bb9864695d77131.jpg",
+        "table_caption": [
+            "Table 3CCA ordination of plant communities in the drawdown zone of Pengxi River ",
+            "Table 4Correlation coefficients between 14 habitat factors and CCA ordination axes "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>因子 Factor</td><td>轴1 Axis 1</td><td>轴2 Axis 2</td><td>轴3 轴4 Axis 3 Axis 4</td><td>因子 Factor</td><td>轴1 Axis 1</td><td>轴2 Axis 2</td><td>轴3 Axis 3</td><td>轴4 Axis 4</td></tr><tr><td>Slop</td><td>0.1909</td><td>-0.3760</td><td>-0.2371 0.2804</td><td>AK</td><td>0.3188</td><td>-0.0826</td><td>-0.4396</td><td>-0.1408</td></tr><tr><td>Expo</td><td>-0.0396</td><td>0.0287</td><td>-0.1214 0.4148</td><td>SK</td><td>0.2215</td><td>-0.0741</td><td>-0.0290</td><td>-0.4582</td></tr><tr><td>Elev</td><td>0.8427</td><td>-0.0387</td><td>0.0029 -0.0662</td><td>MC</td><td>-0.7667</td><td>0.3803</td><td>-0.0879</td><td>0.0380</td></tr><tr><td>pH</td><td>-0.4739</td><td>-0.0098</td><td>-0.6197 -0.4271</td><td>Dept</td><td>-0.8286</td><td>0.0848</td><td>-0.0204</td><td>0.0790</td></tr><tr><td>OM</td><td>0.1953</td><td>-0.0350</td><td>-0.3730 0.3751</td><td>Freq</td><td>-0.1359</td><td>-0.0565</td><td>0.0924</td><td>0.0603</td></tr><tr><td>AN</td><td>0.0569</td><td>-0.0003</td><td>-0.2817 0.3736</td><td>Time</td><td>-0.8461</td><td>-0.0142</td><td>0.0487</td><td>-0.0012</td></tr><tr><td>AP</td><td>-0.3044</td><td>0.0538</td><td>-0.1200 -0.0318</td><td>HLU</td><td>0.0028</td><td>0.0111</td><td>0.0619</td><td>-0.2979</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据CCA排序图可知（图3）,各植物群落在排序空间中的位置反映了群落的生态学特征。沿第1轴从左到右,海拔逐渐升高,淹水时间减少、淹水深度降低,植物群落类型从狗牙根 $+$ 雀稗群落过渡到苔草群落。群落类型沿海拔和水淹影响从左至右依次分布，分别为狗牙根 $+$ 雀稗群落、狗尾草 $^ +$ 狗牙根群落、黄荆群落、白茅+鬼针草群落和苔草群落,各类型之间存在着不同程度的重叠。其中狗牙根 $+$ 雀稗群落分布在消落带低海拔处,受水淹的时间长、深度深;苔草群落分布在消落带高海拔处,较少或几乎不受水淹的影响。沿第2轴从下到上,土壤含水量增加,坡度减少。植物群落在第2轴上变化没有第1轴明显,这一结果与表4所反映的规律基本一致,说明海拔和水淹影响对消落带植物群落分布格局的形成所起的作用远远大于土壤含水量和坡度的作用,第1轴能很好地解释消落带植物群落与生境的相互关系。也就是说,尽管植物群落的空间分布是多种因子综合作用的结果,但在消落带上海拔和水淹影响在植物群落空间格局的形成中起着主导作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4消落带植物群落分布的主要影响因素组和因子",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "植物群落与生境因素组的方差分解结果表明,4类生境因素组共解释消落带植物群落空间格局变化的$1 4 . 6 \\%$ ,剩下的 $8 5 . 4 \\%$ 属于未解释部分。从生境因素组对消落带植物群落空间分布的解释能力(表5)可以看出，由土壤因素引起的植物群落空间格局变化最大0 $( 1 0 . 1 \\% )$ ，历史土地利用类型对消落带植物群落组成及分布的影响最小 $( 5 . 9 \\% )$ ，而水文因素与其他因素组的交互作用最强(交互作用解释量达 $8 . 3 \\%$ )，同时地形因素也与其他因素组有较强的交互作用(解释量 $7 . 8 \\%$ ）。结果表明，土壤是影响消落带植物群落空间分布的主要因素组，地形和水文因素对消落带植被分布也有重要影响，历史土地利用类型的影响较小;4类因素组间有强烈的交互作用，尤其是水文因素，几乎是全部通过与其他因素组的交互作用对植物群落产生影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据植物群落与生境因子CCA排序结果中14个生境因子对消落带植物群落空间分布格局变化的解释力分析(表6)看出，淹水时间、海拔、土壤含水量3个因子对消落带植被变化的解释量最大,分别为 $5 . 3 \\%$ 、$3 . 0 \\% . 2 . 9 \\%$ ;土壤 $\\mathrm { \\ p H }$ 、坡向和坡度也对消落带植物群落组成及分布有显著影响( $P { < } 0 . 0 5 )$ ；而与土壤养分有关的因子(如有效氮、有效磷等)对植被变化的解释量较三角形：狗牙根 $^ +$ 雀稗群落，X标志：狗尾草 $^ { + }$ 狗牙根群落，正方形：黄荆群落，菱形：白茅 $^ +$ 鬼针草群落，圆圈：苔草群落。图中生境变量缩写对应名称和含义详见表1",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e7a11dcfae90e4a15f7bd496512e87fd682db06e2951df56966972ba0a3eada.jpg",
+        "img_caption": [
+            "图3消落带植物群落的CCA排序图",
+            "Fig.3CCA ordination of 93 plant communities in drawdown zone "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "小。表明消落带植被分布的主要影响因子为:淹水时间、海拔及土壤含水量,生境中土壤养分的变化对其影响不明显。 >",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/ca57c59bab72162cb36a6ccbcdbf78584601df4c9f60f4813870d69673244d01.jpg",
+        "table_caption": [
+            "表5生境因素组的解释能力",
+            "Table 5Interpretability of 4 habitat factor types "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>因素组 Factor group</td><td>纯因素组解释量/% Explatio ra pure</td><td>因素组与其他因素组交互作用解释量/% Explather a by rgsd</td></tr><tr><td>地形 Topography</td><td>0.3</td><td>7.8</td></tr><tr><td>土壤 Soil</td><td>5.8</td><td>4.3</td></tr><tr><td>水文 Hydrology</td><td>0.1</td><td>8.3</td></tr><tr><td>历史土地利用类型 Historical land use</td><td>0.1</td><td>5.8</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/46a683a8633c30fd7fe418fd8614b9f48ee6690e224005cc9fd9b3cd222220e3.jpg",
+        "table_caption": [
+            "表614个生境因子对消落带植被变化的解释能力",
+            "Table 6Interpretability of14 habitat factors on drawdown vegetation variatiol "
+        ],
+        "table_footnote": [
+            "\\*、 $^ { * * }$ 和 $* * *$ 分别表示0.05、0.01和0.001水平上的显著性"
+        ],
+        "table_body": "<html><body><table><tr><td>因子 解释量/% Factor Explanation</td><td>贡献率/% Contribution</td><td>因子 Factor</td><td>解释量/% Explanation</td><td>贡献率/% Contribution</td></tr><tr><td>Time 5.3***</td><td>21.0</td><td>Elev</td><td>3.0**</td><td>12.0</td></tr><tr><td>2.9 *** MC</td><td>11.5</td><td>AK</td><td>1.3</td><td>5.0</td></tr><tr><td></td><td>7.9</td><td>AP</td><td>1.2</td><td>4.9</td></tr><tr><td>pH 2.0 **</td><td></td><td>OM</td><td>1.2</td><td>4.7</td></tr><tr><td>AN 1.5</td><td>5.9 5.9</td><td>SK</td><td>1.1</td><td>4.2</td></tr><tr><td>Expo 1.5 *</td><td>5.6</td><td>HLU</td><td>0.8</td><td>3.3</td></tr><tr><td>Slop 1.4 * Dept 1.3</td><td>5.2</td><td>Freq</td><td>0.7</td><td>2.9</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1消落带植物群落的空间分布特征应用TWINSPAN对长江左岸一级支流澎溪河消落带的植物群落进行分类,得到5种植物群落类型。从优势种和常见种的种类组成看，各群落类型之间存在着一定的相似性,在排序图3中也表现出部分重叠,说明各植物群落有相似的生境需求;从物种多度、覆盖度等群落结构特征来看,各群落类型之间又体现出区别（图3),不同群落类型在各种影响的综合作用下呈有规律的分布,表明大部分物种对生境的需求又存在一定差异。从总体上看,整个澎溪河消落带植物以狗牙根、雀稗、苍耳、鬼针草和狗尾草为主,且在消落带内分布广泛。这可能与这些植物的生长繁殖策略有关。这类物种多以大量细小种子繁殖或以耐无氧呼吸的茎段进行营养繁殖,能够在退水后、蓄水前较短的时间内(夏季和秋季)完成生活史[29],次年依靠临近种源或者土壤种子库[30-33]开始新的生命周期。加之消落带退水正值夏初,光热雨资源丰富,使其快速生长、覆盖大面积裸露土地。 八））",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "三峡水库蓄水后,消落带植物种类明显减少,尤其是乔木和灌木[10.34]。本研究调查的93 个样方中,绝大部分为草本植物群落,乔木和灌木在消落带水位波动潜在影响区（海拔 $1 7 5 \\mathrm { ~ m ~ }$ 以上)有少量分布。这一分布特征可能会在消落带演替初级阶段一直处于主导地位。样方内物种组成简单,优势种占绝对优势,表明在目前状态下，水库的 $3 0 \\mathrm { ~ m ~ }$ 水位波动和半年水淹一半年干旱的模式产生极其剧烈的干扰,在短时间内只有少数物种适应消落带这一新生生态系统。这也符合 Nilsson 等[35]的观点,河道型水库岸边植被退化,其恢复则需要较长时间。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2生境因素组的相对重要性",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "生境因素对消落带植物群落空间格局变化的解释能力较少。可能是由于生境因素中只考虑了水文、土壤、地形和历史土地利用类型这些本地的小栖息地生境的影响因素,而没有考虑更大范围内其他潜在影响因素,如：周边城市或者农业景观中道路的密度、斑块的大小、景观的破碎度等景观因素及土地利用政策、人类活动干扰等人为因素。已有研究表明这些景观因素和人为因素也能影响植物群落的组成和结构[36-37]。Chen等[38]对澎溪河消落带外来植物存在状况对本地生境因素和景观因素的响应的研究结果表明,更大尺度上景观基质比本地生境因素对消落带植被的格局与分布有更多影响,并且景观因素中景观组成比景观构型贡献更大。Wen等[39]对三峡库区植被变化及其对气候和人为因素的响应的研究认为,人为因素如人口密度、人工生态修复和城镇化等因素均能引起三峡库区植被变化。因此,在后续的研究中加入景观因素和人为因素可能提高生境因素的解释量,更好的描述消落带植物群落空间格局变化。另一种可能是由于消落带处于水陆两生态系统的过渡带,生境条件复杂,各种影响因素间交互作用明显,使得生境因素的总体解释量较低。总之,这些原因可能共同造成了生境因素的未解释部分较高。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4类因素组中土壤对植物群落分布的解释量最大,水文和地形次之,历史土地利用类型最小,而植物群落与影响因子的分析结果表明淹水时间、海拔、土壤含水量是植物群落分布的主要影响因子。出现这种现象的原因可能是每个因素组所包含的因子数目不同[22]。土壤中包含的因子多（7个）,累计影响比较大,解释能力远高于历史土地利用类型(1个)。历史土地利用类型的解释量最小,除了由于其所包含的因子较少以外,还可能是由于研究对象为植物样方,尺度相对较小,同一条样带内多个样方的历史土地利用类型基本相同,不能较好的反映植物群落的空间变化,因此解释能力较小。根据表5可知,4因素组间交互作用明显,因素组的独立解释能力低于其与其他因素组交互作用的解释能力,尤其是水文因素。这也充分印证了,在水一陆交错环境下,消落带生境条件复杂。而这种交互作用可能才是引起群落结构变化的主要原因,这一结论与 Banks-Leite 等[40]对多尺度下大西洋沿岸森林林下层鸟类受生境干扰的综合影响研究观点一致。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.3 生境因子的相对重要性",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "研究发现,影响消落带植物群落空间分布的主要影响因子(淹水时间、海拔、土壤含水量)之间存在一定的相关性且均与水库水文特征有关。随着海拔的增加,淹水时间、频率、深度等减少[41]。土壤含水量也与淹水时间、频率、深度等水文因子相关性较强,相关系数分别为-0.853( $P = 0 . 0 0 0$ ）、-0.295( $P = 0 . 0 0 4$ ）、 $- 0 . 9 5 2$ （ $P { = } 0 . 0 0 0 \\rangle$ 。可见消落带植物群落格局主要受水干扰的影响。这一结果与其他研究基本一致,如:孙荣等[17]对澎溪河消落带植物群落物种丰富度格局的研究表明,淹水时间、土壤含水量和底质异质性对植物群落的分布格局有重要影响;王强等[13]对澎溪河湿地自然保护区的植物群落研究表明,土壤含水量的变化及分布格局对消落带植物带状分布有较大影响;Kellogg 等[42]对三峡大坝建设对消落带不同海拔植被覆盖度的影响的研究发现,水库水位升高对海拔 $1 7 5 \\mathrm { ~ m ~ }$ 以下消落带植被覆盖度有消极影响。Wang 等[43]对三峡水库蓄水后消落带维管植物多样性和地上生物量格局的研究认为,水文条件决定了消落带海拔梯度上的植被多样性和地上生物量格局。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "土壤养分决定着植物覆盖度和生物量的大小,同时影响着植物群落的组成、结构等特征[3」。张全军等研究表明,土壤养分元素含量及其分布特征对鄱阳湖湿地优势植物群落分布有重要影响[44]。张志永等研究也表明,植物鲜重与土壤养分含量呈正相关,高程和土壤有效氮是影响植物重要值的主要生境因子[]。Zhang等[9]研究发现, $\\mathrm { \\ p H }$ 和土壤有效磷是影响消落带植被物种组成的重要因子。本研究结果显示,虽然三峡水库消落带由于受到冬季蓄水淹没和夏季洪水冲刷,土壤理化性质及水文特征等生境要素在空间和时间分布上具有较高的异质性[45-46],但其对消落带植物群落分布的解释量较低且均未达到显著水平(表6)。推测可能原因包括：(1)虽然反复的淹没—出露过程导致土壤氮、磷等养分从土壤向水体转移,造成土壤养分流失[45],但是土壤养分并不贫瘠(除缓效钾外,其他养分含量均在中等水平以上,表2),并未成为消落带植物生长、繁殖的限制因子;(2)消落带植物以狗牙根、雀稗、苍耳等农田杂草为主。这些植物一般对生境的适应性强、生态位宽,能够更加有效的利用土壤养分,对土壤养分含量要求低,土壤养分含量对其生长、繁殖影响不大。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "三峡水库的建设和运行使消落带内原有陆地生态系统向季节性湿地生态系统转变,消落带内植物群落组成、结构及多样性等特征也明显改变。消落带植被特征受诸多生境因素的影响,如水文、地形、土壤及历史土地利用类型等,其中与水干扰有关的因子是消落带植物群落空间分布的主要影响因子。但是,截止到 2015 年8月,三峡库区消落带才经历7次完整的干湿交替周期,消落带植物群落演替尚处于初始阶段。随着三峡水库的调度运行,植物群落特征及生境因素将会逐渐呈现差异,影响消落带植被特征的主要生境因子也可能发生改变。因此,为了正确理解和预测大型水利水电工程建设运行对植物群落特征的累积效应及其影响机制，需要继续监测消落带植物群落特征及其生境的时空变化。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "［1］刘宝军，张金宏.我国的水库工程建设与防洪．人民长江，1999，30(S1)：1-3，10-10.  \n[2］储立民，常超，谢宗强，熊高明.三峡水库蓄水对消落带土壤重金属的影响.土壤学报，2011，48(1)：192-196.  \n[3］张志永，程郁春，程丽，万成炎，李金波.三峡库区万州段消落带植被及土壤理化特征分析.水生态学杂志，2016，37（2）：24-33.  \n[4]GregorySV，SwansonFJMcKeeW，umminsKW.Anecosystemperspecieofriparianzes:focusonlinksbetweelandadwater.BioScience，1991，41(8): 540-551.  \n[5］张光富，陈会艳，陈瑞冰，高邦权.南京近郊自然湿地维管植物群落特征.生态学杂志，2007,26(2）：145-150.  \n[6] 谭淑端，王勇，张全发.三峡水库消落带生态环境问题及综合防治.长江流域资源与环境，2008，17(S1)：101-105.  \n［7］张虹.三峡库区消落带土地资源特征分析.水土保持通报，2008，28（1）：46-49.  \n[8] 刁承泰，黄京鸿.三峡水库水位涨落带土地资源的初步研究.长江流域资源与环境，1999,8（1)：75-80.  \n9 ZhangZY,WanC,gZW,HuengK,agJBie.toityaacteristisdrespoesioactointhewaterlevelfluctuationzoneofthethreegorgesreservoirinChina.EnvironmentalScienceandPolutionResearch，2O13，20（10）：7080-7091.  \n[10 YangF,LiuWginggeatiosspestodolfroGotCto revegetation in reservoir water-level-fluctuation zone.Acta Ecologica Sinica，2O12,32(2）：89-98.  \n[11]NewT,XieIactsfldsoarangeaioalngobalexpeoaseof'seorgsisand Conservation，2008，17(13）：3149-3163.  \n[12］王强，袁兴中，刘红，张跃伟，陈忠礼，李波.三峡水库初期蓄水对消落带植被及物种多样性的影响．自然资源学报，2011，26(10)：1680-1693.  \n[13］王强，刘红，袁兴中，孙荣，王建修.三峡水库蓄水后澎溪河消落带植物群落格局及多样性.重庆师范大学学报：自然科学版，2009，26(4): 48-54.  \n[14］张志永，万成炎，郑志伟,邹曦，潘晓洁，胡莲，冯坤，陈小娟.三峡水库小江消落区生境异质性对植物群落影响.长江流域资源与环境，2013，22(11)：1506-1513.  \n[15］李生，姚小华，任华东，张守攻.黔中石漠化地区不同土地利用类型土壤种子库特征.生态学报，2008，28（9)：4602-4608.  \n[16] 王晓荣，程瑞梅，肖文发，郭泉水，封晓辉，王瑞丽.三峡库区消落带水淹初期地上植被与土壤种子库的关系.生态学报，2010，30(21):5821-5831.  \n[17] 孙荣，袁兴中，陈忠礼，张跃伟，刘红.三峡水库澎溪河消落带植物群落物种丰富度格局.环境科学研究,2010，23（11)：1382-1389.  \n[18] 张志永，程丽，郑志伟，万成炎，王忠，胡红青，李春辉.汉丰湖入湖支流河岸带植物群落特征及其环境影响分析.水生态学杂志,2015,36(1) : 9-18.  \n[19] Nilsson C，Berggen K.Alterations ofriparianecosystems caused byriver regulation.BioScience，20o,5O(9）：783-792.  \n[20] 中国科学院中国植物志编辑委员会.中国植物志.北京：科学出版社，1982.  \n[21] 四川植物志编辑委员会.四川植物志.成都：四川科学技术出版社，2012.  \n[22] 刘瑞雪，陈龙清，史志华.丹江口水库水滨带植物群落空间分布及环境解释.生态学报，2015，35(4)：1208-1216.  \n[23] 杨剑虹，王成林，代亨林.土壤农化分析与环境监测.北京：中国大地出版社，2008.  \n[24] 鲁如坤.土壤农业化学分析方法.北京：中国农业科技出版社，2000.  \n[25] 刘瑞雪.丹江口水库水滨带植被特征及其与环境因素的关系[D].武汉：华中农业大学，2013.  \n[26] McCune B，Meford MJ.PC-ORD:multivariate analysis of ecological data.Gleneden Beach:MjMsoftware design,1999.  \n[27] Murdoch D.Index of /src/base/R-2.[2015-10-25]. https://cran.r-project.org/src/base/R-2/.  \n[28] TerBraakCJF,SmiluerP.Caocoreferencemanualanduser'sgude：softwareforodinationversion5.ONewYorkMicroomputerowerIthaca，2012.  \n[29] 杨朝东，张霞，向家云.三峡库区消落带植物群落及分布特点的调查.安徽农业科学，2008，36(31)：13795-13796，13866-13866.  \n[30] Favre-Bac L，Ernoult A，Mony C，Rantier Y，Nabucet J，Burel F.Connectivity and propagule ces composition drive ditch plantmetacommunity structure.Acta Oecologica，2014,61:57-64.  \n[31] MeritDM，WhlEE.roceegovenghdrochorylogrivers：Hydrals，drolgnddispesalpenologEcologallo，2002，12(4)：1071-1087.  \n[32] Säumel I,Kowarik I.Urban rivers as dispersal corridors for prin narilywind-disper species.Landscape and Urban Planning,2010,94(3/4) : 244-249.  \n[33] SchmiedelD，TackenbergO.HydrochoryandwateriducedgerminationenhanceinvasionofFraxinuspennsylanica.ForestEcologyandManagement，2013，304: 437-443.  \n[34]SuXL,ZengB,HuangWJ，YuanSH,XuSJ,LeiST.Theefetof winterimpoundmentoftheThre GorgesDam:Thedegradationdconvergence of pre-upland vegetation. Ecological Engineering，2013, 61: 456-459.  \n35]NlssoUsfeeatteeae9）  \n[36]LauranceWF,NascimentoHEM,LauranceSG,AndradeA,RibeiroJELS,GiraldoJP,LovejoyTE,ConditR,ChaveJ,HarsKE,D'AngelS.apidecaoftrecouitymposiiazforstfragentsProcdigofhatioalcadeyofSiecsofUiStates of America，2006，103(50）:19010-19014.  \n[37]SntosB,erC，eraillosaCarelitrsioifartesftrsinAtlantic forest fragments of northeastern Brazil. Biological Conservation，2008,141（1）:249-260.  \n[38]Chen C D, Wu SJ, Meurk C D, $\\mathbf { M a } \\mathbf { \\overline { { M } } H }$ , Zhao JJ,Lv MQ,Tong X X.Efects of local andlandscapefactors on exotic vegetation in the riparianzone of aregulated river:Implications for reservoirconservation.Landscape and Urban Planing，2O17,157:45-55.  \n[39]WenZF，SJenJL,.ateteaalgsivegeatactidthespostadanthropogenicfactors intheThreeGorges ReservoirRegion，China.ScienceofThe TotalEnvironment，2017,574：947-959.  \n[40]Ban-ifodofabeatcalaaeeoftheAtlanticForest：Implicationsforthedevelopmentoflndscapebasedindicators.EcologicalIndicators，O13,1：8-88.  \n[41］孙荣，袁兴中，刘红，陈忠礼，张跃伟.三峡水库消落带植物群落组成及物种多样性.生态学杂志，2011，30（2）：208-214.  \n[42] KellggCH，ouXImpactoftostructioofgedamoipaanegeatiocoveatdifentlevatiozosasseedfrootely  \n2 sensed data.International Journal of Applied Earth Observation and Geoinformation,2014，32：19-34.[43] WangQ,YuanXZ，WillsonJH,ZangYWLiuH.Diversityndbove-GrounomassPtesofVascuarFoadudbyingithe Drawdown Area of China's Three Gorges Reservoir.PloS One,2014,9(6): e100889.  \n[44] 张全军，于秀波，钱建鑫，熊挺.鄱阳湖南矶湿地优势植物群落及土壤有机质和营养元素分布特征.生态学报，2012，32（12)：3656-3669.  \n[45] 郑志伟,邹曦，安然，张志永，胡莲，万成炎，胡红青.三峡水库小江流域消落区土壤的理化性状.水生态学杂志，2011，32（4)：1-6.  \n[46] 王俊，程海云.三峡水库蓄水期长江中下游水文情势变化及对策.中国水利,2010，（19)：15-17，14-14.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

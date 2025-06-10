@@ -1,0 +1,362 @@
+[
+    {
+        "type": "text",
+        "text": "分类学、生活型及土壤特性对温带荒漠植物叶元素浓度的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "宋晓倩，张衷华，唐中华(东北林业大学化学化工与资源利用学院，黑龙江 哈尔滨150040)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：陆地生态系统的功能和生物地球化学循环与叶片元素浓度紧密相关，因此，了解影响叶元素浓度的生物和生态因素对于模拟生态系统的生产力和养分通量及其对全球变化的响应非常重要。通过对15科79种荒漠植物叶片中的10种元素 $( \\mathrm { N . P . K . C a . M g . N a . C u . F e . M n . Z n } )$ 含量特征进行了研究。结果表明：禾本科、藜科、豆科、莎草科、菊科、麻黄科、十字花科、紫草科、牛儿苗科属于 $\\mathrm { K } { > } \\mathrm { C a }$ 型，鸢尾科、蔷薇科、蒺藜科、怪柳科、百合科、旋花科属于 $\\mathrm { K } { < } \\mathrm { C a }$ 型。一年生草本植物中的 $\\mathrm { P } \\cdot \\mathrm { K } \\cdot \\mathrm { C a } \\cdot \\mathrm { M g }$ 和 $\\mathrm { { N a } }$ 元素浓度最高,灌木中的N浓度最高,多年生草本中的Fe浓度最高,这体现不同生活型植物对矿质元素的吸收偏好性。但总的来说,土壤特性对叶元素浓度的影响大于分类学和生活型。因此,分类学、生活型及土壤特性对荒漠植物叶元素浓度具有一定影响,其中土壤特性的影响最大。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：荒漠植物；矿质元素；分类学；逆境；生活型",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "植物生长的自然环境是由一系列复杂的生物胁迫和非生物胁迫构成，且植物对这些胁迫的反应同样复杂，其中，干旱、高盐等非生物胁迫对植物的危害尤为严重。植物需要大量元素才能完成其生命周期。植物叶片对环境变化敏感且可塑性大[2],叶片营养元素组成及结构不仅能够反映植物的生态策略[3],也是适应生境条件的一种表征[4]。所以，研究植物叶元素的特征，是分析植物适应环境（尤其是适应逆境)的重要途径，对进一步了解植物生长的生物地球化学过程5，以及退化草地的保护和恢复有重要的理论和实践意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作为荒漠生态系统的重要组成部分，荒漠植物不仅在维持生态系统功能和结构中起着必不可少的作用,而且对养分循环起着重要作用[。为了在干旱和土壤养分利用率低的环境中生存],荒漠植物采取各种策略提高养分吸收效率和减少水分或养分损失；这些策略包括深根，叶面积减少，叶片肉质化，降低气孔导度，降低组织营养元素浓度，减慢组织更新速率和提高营养物质再吸收效率等[8]。荒漠植物具有一定程度的化学计量灵活性，以响应水分和土壤养分供应的波动，通常还需要在特定边界内保持体内营养元素的浓度，实现最佳生长和功能[10]。关于植物营养元素含量变化及其驱动因素的研究多集中于 $\\mathrm { N } _ { \\mathrm { \\ell } } \\mathrm { P } ^ { [ 1 1 ] }$ ,这些研究更好的帮助我们理解植物与养分之间的相互关系[12-13],尤其是根据化学计量学对植物元素进行的定量化研究[14-15]。但到目前为止，对N、P之外的其他营养元素研究鲜有报道。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "根据现有文献资料，对温带荒漠区的15科79种植物叶片 $\\mathrm { { N } , \\mathrm { { P } , K , C a , M g , N a , C u , F e , M n , Z n } }$ 含量特征进行统计，分析了以下几方面的内容：（1）各元素在不同科之间的差异；（2）各元素在不同生活型间的差异；(3）各元素受分类学、生活型和土壤养分的影响程度。旨在探索温带荒漠植物元素在不同科、不同生活型之间产生差异的机理以及影响因素，以期为生物地球化学循环、景观化学和生态化学计量学研究提供基础数据和理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1研究资料",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "数据建立在已公开发表的文献资料基础上。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "通过知网和WebofScience查找温带荒漠植物叶元素的含量特征，温带荒漠范围涵盖了内蒙古、宁夏西部地区、甘肃、青海和新疆等地，属于中国的西北地区[16]。本研究收集的数据占已报道荒漠植物叶元素的 $8 0 \\%$ 左右，包括新疆、青海、内蒙古等荒漠地区生长的绝大部分植物，在其生长季节采集成熟的功能叶,烘干后测元素的含量[17-29]（单位统一为 $\\mathbf { m g \\cdot g ^ { - 1 } } .$ ）获得了79种荒漠植物，按分类划分为15科：禾本科（Gramineae）藜科（Chenopodiaceae）、豆科（Legumi-nosae）莎草科（Cyperaceae）、鸢尾科（Iridaceae）、菊科（Compositae）、百合科（Liliaceae）蔷薇科（Rosace-ae）、旋花科（Convolvulaceae）、怪柳科（Tamaricace-ae）、蒺藜科（Zygophyllaceae）、麻黄科（Ephedrace-ae）、十字花科（Cruciferae）、紫草科（Boraginaceae）、牛儿苗科(Geraniaceae）（图1)。按生活型划分为3种：一年生草本植物、多年生草本植物及灌木。统计数据包括植物叶片10种元素： $\\mathrm { { N , P , K , C a , M g } }$ $\\mathrm { N a } \\operatorname { c u } \\operatorname { F e } \\operatorname { \\lrcorner } \\mathrm { M n } \\operatorname { \\_ } { Z n }$ 的含量及土壤性质(有机碳、全量 $: \\mathrm { N } , \\mathrm { P } , \\mathrm { K } , \\mathrm { C a } , \\mathrm { M g } , \\mathrm { N a } , \\mathrm { C u } , \\mathrm { F e } , \\mathrm { M n } , \\mathrm { Z n }$ 和pH)[30-32]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2数据分析 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由表1可知，各种元素的频度分布均呈现明显的偏态分布，故采用几何平均值对样本总体大小进",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/50bd684955da47787e4cd9ffb9f595d5fb621a702bf3ea64bc720d6f925ff9b1.jpg",
+        "img_caption": [
+            "图115科荒漠植物及每科的物种数",
+            "Fig .1The15 families of desert plants and species of each family "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表179种荒漠植物的元素含量的变异量",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/01aead23175313a38f5d582db4f2429f4ea8fe60d23e03e90f57c581ef8cb85c.jpg",
+        "table_caption": [
+            "Tab.1 Variation of elemental contentof79 desert plants "
+        ],
+        "table_footnote": [
+            "注 $: n$ 为样本数 $\\mathcal { L } v$ 为变异系数。"
+        ],
+        "table_body": "<html><body><table><tr><td>元素</td><td>n</td><td>最大值</td><td>最小值</td><td>最大值/ 最小值</td><td>算术平 均值</td><td>标准误</td><td>Cv</td><td>几何平 均值</td><td>标准误</td><td>偏度</td><td>峰度</td><td>陆生维管 植物</td><td>高等植物 所需</td></tr><tr><td>N</td><td>82</td><td>45.92</td><td>4.76</td><td>9.65</td><td>20.68</td><td>0.25</td><td>0.44</td><td>18.76</td><td>0.02</td><td>0.80</td><td>0.26</td><td>12.00~75.00</td><td>15.00</td></tr><tr><td>P</td><td>104</td><td>13.10</td><td>0.02</td><td>655.00</td><td>1.33</td><td>0.04</td><td>1.16</td><td>0.72</td><td>0.05</td><td>4.50</td><td>29.99</td><td>0.12~10.00</td><td>2.00</td></tr><tr><td>K</td><td>109</td><td>72.87</td><td>1.58</td><td>46.12</td><td>9.48</td><td>0.32</td><td>1.25</td><td>5.90</td><td>0.04</td><td>3.05</td><td>10.63</td><td>1.00~68.00</td><td>10.00</td></tr><tr><td>Ca</td><td>109</td><td>33.00</td><td>0.31</td><td>106.45</td><td>9.96</td><td>0.28</td><td>1.02</td><td>5.74</td><td>0.04</td><td>1.27</td><td>0.34</td><td>0.40~50.00</td><td>5.00</td></tr><tr><td>Mg</td><td>109</td><td>20.24</td><td>0.76</td><td>26.63</td><td>4.73</td><td>0.10</td><td>0.81</td><td>3.63</td><td>0.04</td><td>1.69</td><td>2.62</td><td>0.70~9.00</td><td>2.00</td></tr><tr><td>Na</td><td>73</td><td>146.20</td><td>0.03</td><td>5848.00</td><td>12.57</td><td>0.68</td><td>1.89</td><td>2.44</td><td>0.11</td><td>3.38</td><td>13.66</td><td>0.002~1.5</td><td>0.01</td></tr><tr><td>Cu</td><td>100</td><td>0.21</td><td>0.002</td><td>105.00</td><td>0.02</td><td>0.00</td><td>1.76</td><td>0.01</td><td>0.04</td><td>5.28</td><td>30.01</td><td>0.004~0.02</td><td>0.006</td></tr><tr><td>Fe</td><td>91</td><td>11.32</td><td>0.08</td><td>141.50</td><td>0.76</td><td>0.03</td><td>1.42</td><td>0.51</td><td>0.06</td><td>7.83</td><td>73.66</td><td>0.002~0.7</td><td>0.1</td></tr><tr><td>Mn</td><td>92</td><td>0.40</td><td>0.02</td><td>20.10</td><td>0.10</td><td>0.00</td><td>0.72</td><td>0.08</td><td>0.04</td><td>1.87</td><td>4.61</td><td>0.0003~1</td><td>0.05</td></tr><tr><td>Zn</td><td>94</td><td>0.74</td><td>0.003</td><td>246.67</td><td>0.09</td><td>0.00</td><td>2.00</td><td>0.03</td><td>0.05</td><td>2.78</td><td>6.19</td><td>0.001~0.4</td><td>0.02</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "行表示。在对不同科及不同生活型进行元素含量差异性检验时，首先计算每科及每种生活型中所有样本的几何平均值，然后进行单因素方差分析；土壤性质和植物叶片元素含量进行Person相关分析；使用一般的线性模型(GLM)来探究植物叶元素含量的变化如何依赖于分类学、生活型和土壤性质。每个元素的总方差分为分类(科）生活型和土壤性状(元素和pH)。线性模型中的所有因素都被划分为独立因素。植物叶片元素含量均采用质量含量，元素比值均采用质量比。所有数据均使用SPSS统计软件（SPSS19,Chicago,USA)统计分析，OriginPro2017进行绘图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1植物元素含量的总体特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对植物叶片的10种元素进行统计分析发现：叶元素的几何平均值依次为： $\\mathrm { N { > } K { > } C a { > } M g { > } N a { > } P { > } F e { > } }$ $\\mathrm { M n } { > } \\mathrm { Z n } { > } \\mathrm { C u }$ ，属于 $\\mathrm { K { > } C a { > } M g { > } N a }$ 型，而算术平均值为： $\\mathrm { N > N a > C a > K > M g > P > F e > C u > M n > Z n }$ ，显示少数地区属于 $\\mathrm { N a { > } C a { > } K { > } M g }$ 型(表1)。与陆生维管植物的元素含量[33]相比较，中国荒漠植物叶中的Na含量偏高，Na属于微量元素，平均含量却高于大量元素K，表示我国荒漠地区存在不同程度的盐渍化特征[34]，这些地区土壤中的Na含量高，说明植物对Na有较强的吸收能力[35]。除了Na外，其他元素的含量则都在正常范围内，说明含Na高的荒漠植物种类占很大比例。Ca含量与已报道的高等植物所需元素3浓度相当。Na、P和 $Z _ { \\mathrm { { n } } }$ 含量的最大值/最小值最高，分别为5848倍、655倍、246倍，说明这3种元素的变异程度很大，可能是因为不同物种对这些元素的选择吸收能力有很大差异。N元素的最大值/最小值以及变异系数是最小的，显示叶片中的N元素具有相",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a14bef94b7e6e635425c52d2e1e16398eb536d2fa209b1d01ca058d655f53746.jpg",
+        "table_caption": [
+            "表2荒漠植物叶片元素含量不同科之间的比较",
+            "Tab.2The comparison of leaf element content in desert plants between different families $/ ( \\mathrm { m g \\cdot g ^ { - 1 } } )$ "
+        ],
+        "table_footnote": [
+            "注：不同字母表示不同科之间存在显著的统计学差异 $\\cdot P < 0 . 0 5$ )。-表示缺失的数据。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">科</td><td colspan=\"10\">元素</td></tr><tr><td>N</td><td>P</td><td>K</td><td>Ca</td><td>Mg</td><td>Na</td><td>Cu</td><td>Fe</td><td>Mn</td><td>Zn</td></tr><tr><td>禾本科</td><td>12.54±</td><td>0.69±</td><td>4.63±0.88c 4.38±</td><td></td><td>2.06±0.17d</td><td>0.61±</td><td>0.01±</td><td>0.55±0.1a</td><td>0.07±</td><td>0.03±</td></tr><tr><td>Gramineae</td><td>1.32ab</td><td>0.41cde</td><td></td><td>0.92ab</td><td></td><td>0.63a</td><td>0.001a</td><td></td><td>0.01b</td><td>0.03a</td></tr><tr><td>藜科</td><td>15.55±</td><td>1.7±</td><td>13.4±</td><td>12.66±</td><td>7.48±0.88bc</td><td>25.29±</td><td>0.01±</td><td>0.3±0.1a</td><td>0.08±</td><td>0.04±</td></tr><tr><td>Chenopodiaceae</td><td>1.44ab</td><td>0.29bcde</td><td>3.74bc</td><td>2.49a</td><td></td><td>8.46a</td><td>0.003a</td><td></td><td>0.01b</td><td>0.04a</td></tr><tr><td>豆科Leguminosae</td><td>18.49±</td><td>0.6±</td><td>4.81±1.31c 3.36±</td><td></td><td>3.96±0.76cd</td><td>0.74±</td><td>0.01±</td><td>0.8±1.19a</td><td>0.09±</td><td>0.04±</td></tr><tr><td></td><td>5.1ab</td><td>0.24de</td><td></td><td>1.39ab</td><td></td><td>1.62a</td><td>0.01a</td><td></td><td>0.02b</td><td>0.07a</td></tr><tr><td>莎草科</td><td>28</td><td>0.2±0.64e</td><td>5.71±5.04c 2.54±</td><td></td><td>2.36±0.35d</td><td></td><td>0.01±</td><td>0.7±0.45a</td><td>0.07±0b</td><td>0.04±</td></tr><tr><td>Cyperaceae</td><td></td><td></td><td></td><td>1.47ab</td><td></td><td></td><td>0.002a</td><td></td><td></td><td>0.01a</td></tr><tr><td>鸢尾科Iridaceae</td><td>14.2</td><td>0.17±0.58e</td><td>3.88±1.33c 3.9±3ab</td><td></td><td>2.4±0.29d</td><td>0.46</td><td>0.01</td><td>0.4</td><td>0.03</td><td>0.01</td></tr><tr><td>蔷薇科 Rosaceae</td><td></td><td>0.19±</td><td>2.67±0.1c</td><td>2.25±0.1b</td><td>2.66±0.09d</td><td>0.23±</td><td>0.01±</td><td>0.3±0.04a</td><td>0.23±</td><td>0.09±</td></tr><tr><td rowspan=\"3\">菊科Compositae</td><td></td><td>0.01e</td><td></td><td></td><td></td><td>0.02a</td><td>0.002a</td><td></td><td>0.13a</td><td>0.01a</td></tr><tr><td>14.36±</td><td>1.86±</td><td>8.92±2.61c 7.22±</td><td></td><td>2.29±0.56d</td><td>0.72±</td><td>0.02±</td><td>0.56±0.26a</td><td>0.09±</td><td>0.05±</td></tr><tr><td>2.07ab</td><td>0.23bcde</td><td></td><td>2.19ab</td><td></td><td>0.22a</td><td>0.03a</td><td></td><td>0.02b</td><td>0.13a</td></tr><tr><td>蒺藜科</td><td>20.87±</td><td>1±0.18de</td><td>4.13±0.83c 9.61±</td><td></td><td>8.29±1.62b</td><td>13.9±</td><td>0.003±</td><td>0.71±0.07a</td><td>0.05±</td><td>0.01±</td></tr><tr><td>Zygophyllaceae</td><td>6.6a</td><td></td><td></td><td>2.64ab</td><td></td><td>5.88a</td><td>0.001a</td><td></td><td>0.005b</td><td>0.001a</td></tr><tr><td>柽柳科 Tamaricaceae</td><td>17.28±</td><td>0.63±0.1e</td><td>5.31±0.83c 7.18±</td><td></td><td>14.94±4.51a</td><td>20.83±</td><td>0.004±</td><td>1.09±0.02a</td><td>0.03±</td><td>0.02±</td></tr><tr><td rowspan=\"3\">百合科Liliaceae</td><td>6.73ab</td><td></td><td></td><td>0.89ab</td><td></td><td>6.49a</td><td>0.001a</td><td></td><td>0.01b</td><td>0.003a</td></tr><tr><td>13.09±</td><td>1.38±</td><td>8.22±3.12c 10.29±</td><td></td><td>3.44±0.45d</td><td>0.68±</td><td>0.01±</td><td>0.79±0.38a</td><td>0.03±</td><td>0.02±</td></tr><tr><td>3.79ab</td><td>0.12cde</td><td></td><td>3.47ab</td><td></td><td>0.001a</td><td>0.001a</td><td></td><td>0.01b</td><td>0.001a</td></tr><tr><td>旋花科</td><td>23.1±0ab</td><td>1.55±0cde</td><td>10.7±0c</td><td>11.3±0ab</td><td>3.62±0d</td><td></td><td>0.02±0a</td><td>1.86±0a</td><td>0.11±0b</td><td>0.02±0a</td></tr><tr><td>Convolvulaceae</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>麻黄科</td><td>14.78±</td><td>6.57±0.6a</td><td>6.06±1.09c 4.09±</td><td></td><td>0.29±0.04d</td><td></td><td>0.001±</td><td>0.01±0.01a</td><td>0.01±</td><td>0.02±</td></tr><tr><td>Ephedraceae</td><td>1.14ab</td><td></td><td></td><td>1.36ab</td><td></td><td></td><td>0.0005a</td><td></td><td>0.002b</td><td>0.001a</td></tr><tr><td>十字花科</td><td>18.96±</td><td>4.15±</td><td>52.26±</td><td>4.44±</td><td>1.4±0.07d</td><td>1.5±0.09a</td><td>0.003±0a</td><td>0.18±0.02a</td><td>0.02±</td><td>0.24±</td></tr><tr><td>Cruciferae</td><td>1.48ab</td><td>0.1abc</td><td>1.25a</td><td>0.29ab</td><td></td><td></td><td></td><td></td><td>0.001b</td><td>0.03a</td></tr><tr><td>紫草科</td><td>18.1±</td><td>3.21±</td><td>32.67±</td><td>8.9±3.93ab</td><td>2.34±0.37d</td><td>1.02±</td><td>0.01±</td><td>0.29±0.14a</td><td>0.06±</td><td>0.03±</td></tr><tr><td>Boraginaceae</td><td>4.59ab</td><td>1.08bcd</td><td>8.95ab</td><td></td><td></td><td>0.34a</td><td>0.003a</td><td></td><td>0.06b</td><td>0.002a</td></tr><tr><td>牛儿苗科</td><td>11.5±1.2b</td><td>1.97±</td><td>18.99±</td><td>4.34±</td><td>2.14±0.86d</td><td>0.74±</td><td>0.01±</td><td></td><td></td><td></td></tr><tr><td>Geraniaceae</td><td></td><td>0.18bcde</td><td>3.75bc</td><td>2.08ab</td><td></td><td>0.25a</td><td>0.005a</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对稳定性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2植物元素含量在不同科间的比较",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对15科荒漠植物叶元素进行差异分析(表2），结果表明：不同科间叶元素 $\\mathrm { ~ N , P , K , C a , M g }$ 和Mn有显著差异，其他元素没有差异。N在旋花科、豆科、十字花科、莎草科和蒺藜科中含量最高，P在麻黄科、紫草科和十字花科中含量最高，K在牛儿苗科、十字花科和紫草科中含量最高，Ca在藜科、百合科和旋花科中含量最高， $\\mathbf { M } \\mathbf { g }$ 在藜科、蒺藜科和柽柳科中含量最高，Na在藜科、蒺藜科和怪柳科中含量最高。总体而言，禾本科、藜科、豆科、莎草科、菊科、麻黄科、十字花科、紫草科、牛儿苗科属于 $\\mathrm { K } >$ Ca型，鸢尾科、蔷薇科、蒺藜科、怪柳科、百合科、旋花科属于 $\\mathrm { K } { < } \\mathrm { C a }$ 型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3植物叶元素含量在不同生活型间的比较",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "按生活型将79种荒漠植物划分为多年生草本植物、一年生草本植物和灌木。由表3可知，在不同生活型中除了 $\\mathrm { { C u } , \\mathrm { { M n } } }$ 和 $Z _ { \\mathrm { { n } } }$ 元素没有差异，其他元素都有差异,其中一年生草本植物中的 $\\mathrm { P , K , C a , M g }$ 和Na元素浓度最高，灌木中的N浓度最高，多年生草本中的Fe浓度最高，这反映出不同生活型植物对矿质元素的吸收和累积特点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4植物叶元素含量与土壤之间的关系",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "各元素与土壤因子之间的相关性如表4所示，植物叶片中的N含量与土壤中的N呈显著负相关，叶片中的P含量与土壤中的Fe、 $\\scriptstyle \\mathrm { M n } , Z _ { \\mathrm { n } }$ 呈显著正相关;叶片中的K含量与土壤中的K呈显著负相关;叶片中的Ca含量与土壤中的C、N呈显著负相关，与",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/bfba889426967760164c00e0e7c90111b8f1f66342f60d33dcd67885b4cd673a.jpg",
+        "table_caption": [
+            "表3荒漠植物叶元素含量在不同生活型间的比较"
+        ],
+        "table_footnote": [
+            "注 $: n$ 为样本数，不同字母表示不同生活型间存在显著的统计学差异（ $\\cdot P < 0 . 0 5$ 。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">元素</td><td colspan=\"2\">多年生草本植物</td><td colspan=\"2\">-年生草本植物</td><td colspan=\"2\">灌木</td></tr><tr><td>n</td><td>几何平均值±SD</td><td>n</td><td>几何平均值±SD</td><td>n</td><td>几何平均值±SD</td></tr><tr><td>N</td><td>40</td><td>14.15±1.11b</td><td>30</td><td>15.9±1.29ab</td><td>11</td><td>18.45±3.6a</td></tr><tr><td>P</td><td>60</td><td>0.57±0.23b</td><td>30</td><td>2.21±0.28a</td><td>14</td><td>1.26±0.33b</td></tr><tr><td>K</td><td>61</td><td>4.78±0.77c</td><td>33</td><td>16.07±3.32a</td><td>15</td><td>9.74±4.09b</td></tr><tr><td>Ca</td><td>61</td><td>4.91±0.77b</td><td>33</td><td>10.51±2.06a</td><td>15</td><td>5.03±1.86b</td></tr><tr><td>Mg</td><td>61</td><td>2.55±0.26b</td><td>33</td><td>5.34±0.86a</td><td>15</td><td>4.81±1.31a</td></tr><tr><td>Na</td><td>32</td><td>0.71±0.84a</td><td>27</td><td>9.4±6.7a</td><td>15</td><td>4.86±4.2a</td></tr><tr><td>Cu</td><td>57</td><td>0.01±0.004a</td><td>28</td><td>0.01±0.002a</td><td>15</td><td>0.01±0.001a</td></tr><tr><td>Fe</td><td>55</td><td>0.57±0.07b</td><td>24</td><td>0.31±0.1b</td><td>12</td><td>0.88±0.88a</td></tr><tr><td>Mn</td><td>53</td><td>0.08±0.01a</td><td>24</td><td>0.07±0.01a</td><td>15</td><td>0.05±0.01a</td></tr><tr><td>Zn</td><td>55</td><td>0.03±0.02a</td><td>24</td><td>0.06±0.04a</td><td>15</td><td>0.03±0.02a</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f60ee486db0a4d31137cce316a0ece1a6b0a0a875dfcf78794273869df9908ce.jpg",
+        "table_caption": [
+            "Tab.3 The comparison of leaf element content in desert plants among different life forms $/ ( \\mathrm { m g } \\cdot \\mathrm { g } ^ { - 1 } )$ ",
+            "表4植物叶片元素含量与土壤矿质元素之间的相关关系",
+            "Tab.4 Relationship between leaf element content and soil mineral elements "
+        ],
+        "table_footnote": [
+            "注：\\*表示 $P { < } 0 . 0 5$ 水平上显著，\\*\\*表示 $P { < } 0 . 0 1$ 水平上显著。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">叶元素</td><td colspan=\"10\">土壤性质</td></tr><tr><td>C</td><td>N</td><td>P</td><td>K</td><td>Ca</td><td>Mg</td><td>Na</td><td>Cu</td><td>Fe</td><td>Mn</td><td>Zn</td><td>pH</td></tr><tr><td>N</td><td>0.05</td><td>-0.24*</td><td>0.08</td><td>-0.05</td><td>-0.02</td><td>0.06</td><td>0.18</td><td>-0.18</td><td>0.04</td><td>0.04</td><td>0.04</td><td>0.01</td></tr><tr><td>P</td><td>-0.09</td><td>-0.10</td><td>-0.10</td><td>-0.05</td><td>-0.12</td><td>-0.02</td><td>-0.38</td><td>0.38</td><td>0.30*</td><td>0.30*</td><td>0.30°</td><td>0.16</td></tr><tr><td>K</td><td>-0.18</td><td>-0.09</td><td>-0.06</td><td>-0.22*</td><td>-0.05</td><td>-0.12</td><td>-0.22</td><td>0.22</td><td>0.00</td><td>0.00</td><td>0.00</td><td>-0.13</td></tr><tr><td>Ca</td><td>-0.31*</td><td>-0.23*</td><td>0.06</td><td>-0.14</td><td>-0.17</td><td>0.05</td><td>-0.75**</td><td>0.75**</td><td>0.42**</td><td>0.42**</td><td>0.42**</td><td>0.15</td></tr><tr><td>Mg</td><td>-0.29*</td><td>-0.24*</td><td>-0.17</td><td>-0.21</td><td>-0.08</td><td>-0.19</td><td>-0.30</td><td>0.30</td><td>0.15</td><td>0.15</td><td>0.15</td><td>-0.04</td></tr><tr><td>Na</td><td>-0.14</td><td>-0.29*</td><td>-0.11</td><td>-0.15</td><td>-0.18</td><td>0.19</td><td>-0.83**</td><td>0.83**</td><td>0.21</td><td>0.21</td><td>0.21</td><td>0.14</td></tr><tr><td>Cu</td><td>0.01</td><td>0.10</td><td>0.16</td><td>0.02</td><td>0.03</td><td>-0.01</td><td>-0.01</td><td>0.01</td><td>0.18</td><td>0.18</td><td>0.18</td><td>0.12</td></tr><tr><td>Fe</td><td>-0.2*</td><td>-0.04</td><td>0.28*</td><td>0.01</td><td>-0.12</td><td>0.32*</td><td>-0.50*</td><td>0.50°</td><td>0.14</td><td>0.14</td><td>0.14</td><td>0.05</td></tr><tr><td>Mn</td><td>-0.02</td><td>0.26*</td><td>0.28*</td><td>0.13</td><td>-0.08</td><td>-0.11</td><td>0.07</td><td>-0.07</td><td>0.02</td><td>0.02</td><td>0.02</td><td>0.07</td></tr><tr><td>Zn</td><td>-0.03</td><td>0.41**</td><td>0.02</td><td>0.15</td><td>0.00</td><td>-0.22</td><td>0.30</td><td>-0.30</td><td>0.00</td><td>0.00</td><td>0.00</td><td>-0.04</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Na呈极显著负相关，与 $\\mathrm { C u } \\mathrm { , F e } \\mathrm { , M n \\mathrm { , } Z n }$ 呈极显著正相关；叶片中的 $\\mathbf { M } \\mathbf { g }$ 含量与土壤中的C、N呈显著负相关;叶片中的Na含量与土壤中的N呈显著负相关，与Na呈极显著负相关，与 $\\mathrm { C u }$ 呈极显著正相关;叶片中的Fe含量与土壤中的C、Na呈显著负相关，与$\\mathrm { { C u } , M g , P }$ 呈显著正相关;叶片中的 $\\mathbf { M } \\mathbf { n }$ 含量与土壤中的P、N呈显著正相关;叶片中的 $Z _ { \\mathrm { { n } } }$ 与土壤中的N呈极显著正相关；而其他元素与土壤元素相关性不显著。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5分类学、生活型和土壤对植物叶元素浓度的相对重要性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "使用一般线性模型来模拟分类学、生活型和土壤性质的影响。结果发现：土壤性质、分类学和生活型解释了植物叶元素浓度差异的很大一部分（表5)，该模型占总变异的 $3 6 \\% \\sim 9 5 \\%$ ,其中分类、生活型和土壤性质分别解释了 $0 . 1 \\% \\sim 1 2 \\%$ 、 $0 . 6 \\%$ \\~$1 2 . 5 \\%$ 和 $3 2 . 2 \\% \\sim 8 8 . 3 \\%$ 。此外,土壤对叶片N、P、K、$\\mathrm { N a } \\operatorname { c a } \\mathrm { , M g } \\mathrm { , M n \\mathrm { , F e } \\Omega \\mathrm { C u } }$ 和 $Z _ { \\mathrm { { n } } }$ 含量的影响大于分类学和生活型。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表5分类、生活型和土壤因子对草本植物叶片矿质元素浓度影响的一般线性模型",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/4b6d66ef93a6ed381893a22b9ec71cbe57f60606c2aa87888a9454f353193d77.jpg",
+        "table_caption": [
+            "Tab.5Summary of general linear models of classification, life form and soil factors on the :oncentrationofmineral elementsinherbaceous leaves "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">叶元素</td><td colspan=\"3\">总解释率(R²)/%</td></tr><tr><td>总贡献率</td><td>分类 生活型</td><td>土壤</td></tr><tr><td>N</td><td>56.1</td><td>3.6</td><td>5 47.5</td></tr><tr><td>P</td><td>71.7</td><td>5.4 6.3</td><td>60</td></tr><tr><td>K</td><td>94.9</td><td>12 12.5</td><td>70..4</td></tr><tr><td>Ca</td><td>94.7</td><td>0.1 6.3</td><td>88.3</td></tr><tr><td>Mg</td><td>38.1</td><td>0.4 5.5</td><td>32.2</td></tr><tr><td>Na</td><td>66.7</td><td>9.1 9.1</td><td>48.5</td></tr><tr><td>Cu</td><td>36.1</td><td>0.6 1.8</td><td>33.7</td></tr><tr><td>Fe</td><td>54.6</td><td>1.9 2.2</td><td>50.5</td></tr><tr><td>Mn</td><td>78.5</td><td>4.5 4.7</td><td>69.3</td></tr><tr><td>Zn</td><td>72.7</td><td>0.1</td><td>0.6 72</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1植物元素含量在不同科间的差异分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "植物体内的正常代谢需要各元素按一定的比例吸收利用，并在体内保持相对平衡。而元素的供应过量或不足会改变这种平衡[37。N和P都是必需的核酸和蛋白质元素，K，Ca和 $\\mathbf { M } \\mathbf { g }$ 与光合作用结构和活动有关，而Fe, $Z _ { \\mathrm { { n } } }$ 和 $\\mathrm { C u }$ 是酶活性的关键[38]。叶片中的 $\\mathrm { N , P , M g }$ 和K与许多基本生物学功能紧密相关,例如光合作用,水分利用,呼吸作用和繁殖分配等[39]。在这项研究中,15科荒漠植物叶片中P含量（2 $( 0 . 7 2 \\mathrm { m g } \\cdot \\mathrm { g } ^ { - 1 } ) $ 和K含量 $( 5 . 9 \\mathrm { m g \\cdot g ^ { - 1 } } )$ 的几何平均值均低于高等植物所需的I $\\mathbf { \\mu } ^ { \\mathsf { p } } ( 2 \\mathrm { m g } \\cdot \\mathbf { g } ^ { - 1 } ) .$ ）、K的含量( $1 0 ~ \\mathrm { m g }$ $\\mathbf { g } ^ { - 1 } ) ^ { [ 4 0 ] }$ ,其原因是干旱高盐生境中土壤的平均养分含量 $( \\mathrm { N } { : 0 . 3 } \\ \\mathrm { m g } { \\bullet } \\mathrm { g } ^ { - 1 } \\mathrm { , P } { : 0 . 4 6 } \\ \\mathrm { m g } { \\bullet } \\mathrm { g } ^ { - 1 } )$ 含量均低于全国土壤平均N含量 $\\left( 0 . 6 4 \\mathrm { m g \\cdot g ^ { - 1 } } \\right) ^  [ 4 1 \\$ 和平均P含量(0.5$\\mathrm { m g } \\cdot \\mathrm { g } ^ { - 1 } \\big ) ^ { [ 4 2 ] }$ ,所以,土壤中养分的利用率低[43]。还有一些研究表明,植物养分浓度的显著变化可以联系分类学进行解释[44]。一些植物物种会大量积累某些元素[45]。例如，不同被子植物科和目的植物可能在其叶片中积累不同浓度的 $\\mathrm { K , C a }$ 和 $\\mathbf { M } \\mathbf { g }$ 。本文的研究发现(表2)：十字花科植物叶片中积累了较高浓度的K,因为在干旱的条件下，叶片中积累更多的K可以提高植物的水分利用效率[46-47]；而藜科植物叶片中积累了较高浓度的Na,这很可能是由于逆境环境中土壤K的有效性较低，而较高的Na含量可以替代某些K功能(如：渗透调节)[48]。与十字花科植物不同，藜科植物通过将Na转移到液泡或叶片囊泡细胞中来减少Na毒害,通过改变叶片的薄壁组织来减少水分的蒸发。因此，分类学间叶元素浓度的变化可能与叶组织结构或渗透部分的差异以及植物对某些营养物质的选择性吸收有关[45]。本研究中分类学解释了叶元素浓度的 $3 . 1 \\% \\sim 4 4 \\%$ ,然而,不同叶元素间分类学的解释程度不同。对叶片元素 $\\mathbf { M } \\mathbf { g }$ 的解释程度显著高于土壤解释程度，而土壤对叶片 $\\mathrm { ~ N ~ }$ /$\\mathrm { P , K , N a , C a , M n , F e , C u }$ 和 $Z _ { \\mathrm { { n } } }$ 含量的解释程度显著大于分类解释程度。我们的结果进一步表明,与光合能力（ $\\mathbf { \\nabla } \\cdot \\mathbf { M } \\mathbf { g } _ { \\mathbf { \\lambda } } )$ 有关的元素变异的很大一部分可以用分类学来解释,这表明遗传控制 $\\mathbf { M } \\mathbf { g }$ 元素的重要性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2植物元素含量在不同生活型间的差异分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "一年生草本植物叶片中的 $\\mathrm { P } , \\mathrm { C a } , \\mathrm { M g } , \\mathrm { K }$ 和 $\\mathrm { { N a } }$ 含量显著高于多年生草本植物和灌木(表3)。是因为一年生草本植物的生长速度非常快,从种子的萌发到生命周期的完成仅需要几周的时间[49],而这个过程中需要充足的水分和养分（包括K、P、Ca和 $\\mathrm { { N a } }$ 。另一方面，一年生荒漠植物包含大量短命植物，生长较快,所以具有更高的养分水平[50]。在石灰性土壤中，Ca以碳酸钙的形式溶解较少，易于沉淀。然而，钙在细胞壁的稳定和膜稳定性的维持中起着重要的作用，提高了抗旱性和耐热性[40],这对快速生长的一年生荒漠植物是有非常利的。一般来说，一年生草本植物比多年生草本植物和灌木根的分布浅[51],因此，一年生草本植物很容易受到水分波动和浅层土壤养分供应的影响。 $\\mathbf { M } \\mathbf { g }$ 是叶绿素的一种成分,在光合作用和酶的活化中起着重要作用[52],并优先与氮和磷基团结合，叶中的 $\\mathbf { M } \\mathbf { g }$ 可以为快速生长的一年生荒漠草本植物提供所需的高光合作用[39]。相比之下,多年生草本植物可以利用深层土壤中的水分和养分，也可以在多年生根中储存一些养分，以便在养分贫瘠恶劣环境中生长。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3土壤环境对叶元素浓度的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "土壤养分有效性是影响某些叶元素浓度的主要因素之一[53]。在这3个因素中，土壤性质解释了植物叶片全部元素 $\\mathrm { ~ N ~ } , \\mathrm { ~ P ~ } , \\mathrm { ~ K ~ } , \\mathrm { M g ~ } , \\mathrm { C a } , \\mathrm { N a } , \\mathrm { Z n } , \\mathrm { C u } , \\mathrm { F e }$ 和Mn的大部分变异。这些元素的可用性在很大程度上取决于土壤水分条件。该研究区是在内蒙古、新疆等干旱地区,干旱和石灰性土壤中的 $\\mathrm { K , M n , Z n }$ 、Cu和Fe主要以不可交换的形式存在，限制了其对荒漠植物的供应。该地区中荒漠植物Na的含量高，一方面是因为这些地区土壤Na含量高;另一方面是生长在这里的植物多为聚 $\\mathrm { { N a } }$ 植物，例如星星草[Puccinellia tenuiflora (Griseb.）Scribn.et Merr.]、珍珠猪毛菜(Salsola passerina Bunge）碱蓬[Suaeda glau-ca (Bunge)Bunge]等。根据一般线性模型的结果发现(表5)，除了 $\\mathbf { M } \\mathbf { g }$ 和 $\\mathrm { C u }$ 以外,分类学和土壤性质共同解释了其他叶元素浓度变异的 $5 0 \\%$ 以上，说明叶片元素含量的变化更多地归因于分类、生活型和土壤养分状况，该结果与He等[54的研究一致：沙漠草本植物在长期的适应过程中，进化出了特殊的生存策略，植物地上部元素浓度的变化主要是由分类和土壤养分状况引起。在我们的研究中，每个叶元素仍有很少一部分无法解释。这些无法解释的变化可能与气候和纬度有关。但是我们收集的没有气候和纬度的数据，也无法评估它们与叶元素的相关性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "生态系统中荒漠植物的组成和功能受土壤性质和元素分配的影响。本研究中的荒漠植物元素组成总体上属于 $\\mathrm { K { > } C a { > } M g > N a }$ 型。一年生荒漠草本植物比多年生植物和灌木更容易富集参与光合作用和渗透调节 $( \\mathrm { P } , \\mathrm { C a } , \\mathrm { M g } , \\cdot $ K和Na)的元素。元素水平和组成与分类、生活型和土壤性质有关，除植物的内在特征外，植物元素含量还取决于植物所处的土壤因素。长期干旱可以降低土壤N和P的养分利用率，增加某些元素的流失(如气态氮流失）。因此，本研究为逆境条件下引起的多种养分供应对荒漠植物营养状况和荒漠生态系统生物地球化学循环的影响提供了理论依据。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References):",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]于新海,李濛,周红昕.植物非生物胁迫的研究进展[J].农业与 技术,2016,36(9):51-53.[Yu Xinhai,Li Meng,Zhou Hongxin. Research progress of plant abiotic stress[J]. Agriculture and Technology,2016,36(9): 51-53.]   \n[2]Vile D,Garnier E,Shipley B,et al. Specific leaf area and dry matter content estimate thickness in laminar leaves[J].Annals of Botany,2005,96(6): 1129-1136.   \n[3]Niinemets U, Kull K. Leaf structure vs. nutrient relationships vary with soil conditions in temperate shrubs and trees[J].Acta Oecologica,2003,24(4): 209-219.   \n[4]Zhang S B, Zhang JL, Ferry JW,et al. Leaf element concentrations of terrestrial plants across China are influenced by taxonomy and the environment[J]. Global Ecology and Biogeography,2012, 21(8): 809-818.   \n[5]袁吉有,欧阳志云,郑华,等.科尔沁沙地不同恢复方式下生态 系统营养元素积累与分配特征[J].云南大学学报(自然科学 版),2018,40(4): 795-803.[Yuan Jiyou,Ouyang Zhiyun, Zheng Hua,et al. Nutrient elements'accumulation and distribution pattern of different grassland restoration approaches in Horqin Sandy Land[J]. Journal of Yunnan University(Natural Science Editon), 2018,40(4): 795-803.]   \n[6]何茂松,罗艳,彭庆文,等.新疆67种荒漠植物叶碳氮磷计量特 征及其与气候的关系[J].应用生态学报,2019,30(7):2171- 2180.[He Maosong,Luo Yan,Peng Qingwen, et al. Leaf C: N: P stoichiometry of 67 plant species and its relations with climate factors across the deserts in Xinjiang,China[J].Journal of Applied Ecology,2019,30(7): 2171-2180.]   \n[7]龚子同,陈鸿昭,杨帆,等.中亚干旱区土壤地球化学和环境[J]. 干旱区研究,2017,34(1):1-9.[Gong Zitong,Chen Hongzhao, Yang Fan,et al. Pedogeochemistry and environment of aridisol regions in Central Asia[J]. Arid ZoneResearch,2017,34(1): 1-9.]   \n[8]He M, Xin S,Tian F,et al. Divergent variations in concentrations of chemical elements among shrub organs in a temperate desert[J]. Scientific Reports,2016,6(1): 20124.   \n[9]安钰,安慧,李生兵.放牧对荒漠草原土壤和优势植物生态化学 计量特征的影响[J].草业学报,2018,27(12):94-102.[An Yu, An Hui,Li Shengbing. Effects of grazing on ecological stoichiometry of soil and dominant plants in desert grassland[J].Acta Prataculturae Sinica,2018,27(12): 94-102.]   \n[10] Han W X,FangJY,Reich PB,et al. Biogeography and variability of eleven mineral elements in plant leaves across gradients of climate,soil and plant functional type in China[J]. Ecology Letters, 2011, 14(8): 788-796.   \n[11]苏原,罗艳,耿凤展,等.天山高寒草原植物叶片氮磷化学计量 特征对氮沉降的响应[J].干旱区研究,2019,36(2):430-436. [Su Yuan,Luo Yan,Geng Fengzhan, et al. Response of stoichiometric characteristics of nitrogen and phosphorus in plant leaves in an alpine grassands to nitrogen deposition in the Tianshan Mountains[J].Arid Zone Research,2019,36(2): 430-436.]   \n[12]Wassen M J,Venterink HO,Lapshina E D,et al. Endangered plants persist under phosphorus limitation[J]. Nature,2005,437 (7058): 547-550.   \n[13]Jing Z, Cheng J, Jishuai S U,et al. Changes in plant community composition and soil properties under 3-decade grazing exclusion in semiarid grassland[J].Ecological Engineering,2014,64(3): 171-178.   \n[14]Raynal D J,Tessier JT. Use of nitrogen to phosphorus ratios in plant tissue as an indicator of nutrientlimitation and nitrogen saturation[J]. Journal of Applied Ecology,2003,40(3): 523-534.   \n[15]Yan Z,Tian D,Han W,et al.An assessment on the uncertainty of the nitrogen to phosphorus ratio as a threshold for nutrient limitation in plants[J]. Annals of Botany,2017,120(6): 937-942.   \n[16] 尹林克.中国温带荒漠区的植物多样性及其易地保护[J].生物 多样性,1997,5(1): 40-48.[Yin Kelin. Diversity a ex-situconservation or plants in the desert region of temperate zone in China[J]. Chinese Biodiversity,1997,5(1): 40-48.]   \n[17]罗艳,贡璐,朱美玲,等.塔里木河上游荒漠区4种灌木植物叶 片与土壤生态化学计量特征[J].生态学报,2017,37(24): 8326- 8335.[Luo Yan,Gong Lu, Zhu Meilin,etal. Stoichiometrycharacteristics of leaves and soil of four shrubs in the upper reaches of the Tarim River Desert[J].Acta Ecologica Sinica,2O17,37(24): 8326-8335.]   \n[18] 李天才,陈桂琛,曹广民,等.青海湖北岸退化草地和封育草地 中钾、钙、镁等矿质常量元素特征[J].草地学报,2011,19(5): 752-759.[Li Tiancai, Chen Guichen, Cao Guangmin,et al. Characteristics of mineral elements K,Ca,Mg in degraded grassland and enclosure grasslandon the North bank of Qinghai Lake[J]. Acta Agrestia Sinica,2011,19(5): 752-759.]   \n[19] 任运涛,韩炳宏,张宝林,等.阿拉善荒漠植物叶片矿质元素含 量的季节变化[J].中国沙漠,2016,36(2):140-148.[Ren Yuntao,Han Binghong, Zhang Baolin,et al. Seasonal variations of leaf mineral elements of nine desert plants in the Alxa Desert[J]. Journal of Desert Research,2016,36(2): 140-148.]   \n[20] Hui CY,Feng JC,Shi S.Study on the determination of mineral elements in three Caragana Fabr. species in Inner Mongolia by inductively coupled plasma mass spectrometry[J]. Spectroscopy and Spectral Analysis, 2018,38(4): 1240-1244.   \n[21] 张科,田长彦,李春俭.盐土和沙土对新疆常见一年生盐生植物 生长和体内矿质组成的影响[J].生态学报,2012,32(10):3069- 3076.[Zhang Ke,Tian Changyan,Li Chunjian. Influence of saline soil and sandy soil on growth and mineral constituents of common annual halophytes in Xinjiang[J].Acta Ecologica Sinica,2012,32 (10): 3069-3076.]   \n[22] 孔令韶,马茂华.新疆呼图壁绿洲荒漠草地优势植物体内元素 含量和季节变化的研究[J].中国草地,1995(5):23-28.[Kong Lingshao,Ma Maohua.The research of element contens in diferent partsand seasonal changes of dominant plants on desert grasland at the edge of oasis,Hutubi, Xinjiang[J]. Grassland of China, 1995(5): 23-28.]   \n[23] 徐晶,武瑞亮,戴曰慧,等.不同生长阶段盐地碱蓬矿物质元素 和重金属含量分析[J].山东农业科学,2019,51(3):79-82. [Xu Jing,Wu Ruiliang,Dai Rihui,etal.Analysis of contents of mineral elements and heavy metals in Suaeda salsa at different growth phase[J]. Shandong Agricultural Sciences,2019,51(3): 79-82.]   \n[24] 张元明,聂华丽.生物土壤结皮对准噶尔盆地5种荒漠植物幼 苗生长与元素吸收的影响[J].植物生态学报,2011,35(4):380- 388.[Zhang Yuanming,Nie Huali. Efects of biological soil crusts on seedling growth and element uptake in five desert plants in Junggar Basin,western China[J].Acta Phytoecologica Sinica,2011,35 (4): 380-388.]   \n[25] 庄伟伟,周晓兵,张元明.生物结皮对古尔班通古特沙漠3种荒 漠草本植物生长特性与元素吸收的影响[J].植物研究,2017, 37(1): 37-44. [Zhuang Weiwei, Zhou Xiaobing, Zhang Yuanming. Effects of biological soil crusts on growth and nutrient uptake in three desert herbs in the Gurbantunggut Desert, northwestern China[J]. Bulletinof Botanical Research,2017,37(1): 37-44.]   \n[26]He MZ,DijkstraFA,Zhang K,etal. Influence of life form, taxon omy,climate,and soil properties on shoot and root concentrations of 11 elements in herbaceous plants in a temperate desert[J].Plant Soil, 2016,398(2): 339-350.   \n[27] 惠岑怪,石莎,冯金朝,等.内蒙古地带性针茅植物15种营养元 素含量及化学计量特征分析[J].云南大学学报:自然科学版, 2019,41(2): 380-389.[Hui Cenyi, Shi Sha,Feng Jinchao,et al. Analysis on the content and stoichiometry of 15 nutrient elements of zonal Stipa plants in Inner Mongolia[J]. Journal of Yunnan University: Natural Science Edition,2019,41(2): 380-389.]   \n[28] 乌兰,范丽,王海,等.苏尼特右旗草原主要植物矿质营养元素 含量特征[J].饲料研究,2010(2): 41-43.[Wu Lan,Fan Li,Wang Hai,et al. Characteristics of mineral nutrient elements in main plants of Sunitou Banner[J].Feed Research,2O1O(2): 41-43.]   \n[29]任运涛,张晨曦,尚占燕,等.阿拉善荒漠区5种植物叶片性状 的季节动态[J].干旱区研究,2017,34(4):823-831.[Ren Yuntao, Zhang Chenxi,Shang Zhanyan,et al. Seasonal variation of leaf traits of five eremophyte species in the Alxa Desert[J].Arid Zone Research,2017,34(4): 823-831.]   \n[30] 安申群,贡璐,朱美玲,等.塔里木盆地北缘典型荒漠植物根系 化学计量特征及其与土壤理化因子的关系[J].生态学报, 2017,37(16): 5444-5450.[An Shenqun, Gong Lu, Zhu Meiling,et al.Root stoichiometric characteristics of desert plants and their correlation with soil physicochemical factors in the northern Tarim Basin[J]. Acta Ecologica Sinica,2017,37(16): 544-5450.]   \n[31]任运涛.阿拉善荒漠区典型植物叶片功能性状研究[D].兰州: 兰州大学,2017.[Ren Yuntao.Studies on Leaf Functional Traits of Typical Plants in Alashan Desert Area[D]. Lanzhou: Lanzhou University,2017.]   \n[32] 塔娜,那日苏,王海,等.内蒙古苏尼特右旗草原土壤营养元素 有效态含量分析[J].草业学报,2013,22(5):37-43.[Ta Na,Na Risu,Wang Hai, et al.Analysis of available nutrients contents in Suniteyou Banner pasture soils[J].Acta Prataculturae Sinica,2013, 22(5): 37-43.]   \n[33]Lindsay WL,Doxtader K G.Environmental chemistry of the elements[J]. Journal of Environmental Quality,1981,10(2): 249.   \n[34] 王巧焕,卢玉东,赛佳美,等.干旱区绿洲土壤盐分特征分析[J] 干旱区研究,2018,35(3):503-509.[Wang Qiaohuan,Lu Yudong, Sai Jiamei,et al.Analysis of characteristics of soil salinity in the oasis of arid area[J].Arid Zone Research,2018,35(3): 503-509.]   \n[35] 秦海,李俊祥,高三平,等.中国660种陆生植物叶片8种元素含 量特征[J].生态学报,2010,30(5):1247-1257.[Qin Hai,Li Junxiang,Gao Sanping,et al. Characteristics of leaf element contents for eight nutrients across 66O terrestrial plant species in China[J]. Acta Ecologica Sinica,2010,30(5): 1247-1257.]   \n[36]管东生,罗琳.海南热带植物叶片化学元素含量特征[J].林业科 学,2003,39(2): 28-32.[Guan Dongsheng,Luo Lin. Chemical element concentrations of tropical plant leavesin Hainan province[J]. Scientia Silvae Sinicae,2003,39(2): 28-32.]   \n[37] 皮发剑,袁丛军,喻理飞,等.黔中天然次生林主要优势树种叶 片生态化学计量特征[J].生态环境学报,2016,25(5):801-817. [Pi Fajian,Yuan Congjun, Yu Lifei,etal.Ecological stoichiometry characteristics of plant leaves from the main dominant species of natural secondary forest in thecentral of Guizhou[J]. Ecology and Environmental Sciences,2016,25(5): 801-817.]   \n[38]Agren G I,Weih M.Plant stoichiometry at different scales: element concentration patterns reflect environment more than genotype[J].New Phytologist,2012,194(4): 944-952.   \n[39]Thompson K.Plant physiological ecology[J].2ndEd.Annals of Botany,2009,103(1): viii-ix.   \n[40] Hawkesford M, Horst W, Kichey T,et al. Chapter 6: Functions of macronutrients[C]/Marschner Pe.Marschner's Mineral Nutrition of Higher Plants (Third Edition). San Diego: Academic Press, 2012. 135-189.   \n[41] 王国伟.土壤全氮含量和分布特征研究[J].安徽农学通报, 2019,25(14): 99-100,120.[Wang Guowei. Research on soil total nitrogen content and distribution characteristics[J].Anhui Agricultural Science Bulletin,2019,25(14): 99-100,120.]   \n[42] 高照琴,白军红,温晓君,等.珠江河口新、老围垦区湿地土壤全 磷含量分布特征[J].湿地科学,2015,13(6):122-127.[Gao Zhaoqin,Bai Junhong,Wen Xiaojun,et al.Distribution of total phosphorus in soils ofthe young and oldreclaimed regions in the pearl river estuary[J]. Wetland Science,2015,13(6): 122-127.]   \n[43]He M, Dijkstra F A, Zhang K,et al. Leaf nitrogen and phosphorus of temperate desert plants in response to climate and soil nutrient availability[J]. Scientific Reports,2014,4(1): 6932.   \n[44]Willey N,Fawcett K.A phylogenetic effect on strontium concentrations in angiosperms[J]. Environmental & Experimental Botany, 2006,57(3): 258-269.   \n[45]White PJ,Bowen HC,MarshallB,et al.Extraordinarily high leaf selenium to sulfur ratios define‘Se-accumulator’plants[J].Annals of Botany,2007,100(1): 111-118.   \n[46]Koch M S,Reddy K R. Distribution of soil and plant nutrients along a trophic gradient in the florida everglades[J].Soil Science Society of America Journal,1992,56(5): 1492.   \n[47]Oertli JJ.Plant Nutrients[M]. Springer Netherlands: Encyclopedia of Soil Science,2008: 22-34.   \n[48]Pilon-Smits EA, Quinn C F,Tapken W,etal.Physiological functions of beneficial elements[J]. Current Opinion in Plant Biology, 2009,12(3): 267-274.   \n[49]Mooney HA,Ehleringer J,Berry JA.High photosynthetic capacityof a winter annual indeath valley[J].Science,1976,194(4262): 322-324.   \n[50] Thompson K,Parkinson JA,Band S R,et al. Acomparative study of leaf nutrient concentrations in a regional herbaceous flora[J]. New Phytologist,2010,136(4): 679-689.   \n[51]He M, Dijkstra F A.Drought effect on plant nitrogen and phosphorus:A meta-analysis[J].New Phytologist,2014,204(4): 924-931.   \n[52]Maathuis FJ.Physiological functions of mineral macronutrients[J]. Current Opinion in Plant Biology,2009,12(3): 250-258.   \n[53]Yan G,Wang Z, Liang C,et al. Effect of geographical range size on plant functional traits and the relationships between plant, soil and climate in Chinese grasslands[J]. Global Ecology & Biogeography,2012,21(4): 416-427.   \n[54]He M, DijkstraFA,Zhang K,et al.Influence of life form,taxonomy,climate,and soil properties on shoot and root concentrations of 11 elements in herbaceous plants in a temperate desert[J]. Plant and Soil,2016,398(1): 339-350. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Influence of life form, taxonomy, and soil properties on leaf concentrations of elements in a temperate desert plant ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "SONG Xiao-qian， ZHANG Zhong-hua, TANG Zhong-hua (Collegeofhemistry,ChemicalEngineeringndResource Utilization,NortheastForestryUnversityHarbin 150040,Heilongjiang, China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The functioning and biogeochemical cycles of terestrial ecosystems are closely related to leaf element concentrations.Understanding thebiologicaland ecologicalfactors afecting leaf element concentrations is therefore important for modeling the productivityand nutrient fluxes of ecosystems and their responses to global change.In thisstudy,theconcentrationscharacteristicsof1Oelements(N,P,K,Ca,Mg,Na,Cu,Fe,Mn,andZn) intheleaves of 79 species of desert plants in15 families were studied.The results showed that Gramineae,Chenopodiaceae,Leguminosae, Cyperaceae, Compositae, Ephedraceae, Cruciferae, Boraginaceae,and Geraniaceae have K $>$ Ca, and Iridaceae,Rosaceae,Zygophyllaceae,Tamaricaceae,Liliaceae,and Convolvulaceae have K<Ca.The concentrations of P,K,Ca,Mg,and Na were highest inannual herbs,the highest concentrations of N were in shrubs,andthe highest concentrationsofFe were in perennial herbs,which reflected the absorption and accumulationof mineral elements byplants of diferentlife forms.In general,soil properties havea greater impacton leaf element concentration than taxonomy andlife forms.Assuch,taxonomy,life form,and soil properties have certain effctson leaf element concentrations in desert plants,of which soil properties have the greatest effect. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:desert plant; mineral element; taxonomy;adversity;life form ",
+        "page_idx": 8
+    }
+]

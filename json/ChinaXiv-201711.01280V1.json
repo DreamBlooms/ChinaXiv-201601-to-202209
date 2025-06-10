@@ -1,0 +1,414 @@
+[
+    {
+        "type": "text",
+        "text": "卫星轨道误差对定位精度影响的摄动分析方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘成」李芳 2\\*（1.北京跟踪与通信技术研究所，北京100094；2.中国科学院国家天文台，北京100012；\\*lifang@bao.ac.cn）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：卫星导航系统定位精度受伪距测量误差、大气时延误差、卫星原子钟钟差及卫星轨道误差等多方面因素综合影响。传统通常采用基于精度因子与用户等效伪距误差的方法对定位误差进行评估，但在其精度表征公式推导过程中需对测量方程组系数矩阵 $\\pmb { H }$ 及用卢等效伪距误差误差分布做若干假设条件，因此它实际上是一个近似评估公式。此外，各类误差源中的卫星轨道误差属于三维误差，需经过坐标转换，并利用经验参数模型才能换算至用户等效伪距误差。为此，提出采用矩阵摄动数学理论研究卫星轨道误差对定位方程组解的影响，利用谱范数条件数对方程组形态进行刻画。仿真结果表明，方法能够直接反映卫星轨道误差对定位精度的影响，无需进行轨道坐标及用户等效伪距误差换算，能够更加直接和准确地评估卫星轨道误差对定位解精度的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：卫星轨道误差；导航定位；用户等效伪距误差；范数；条件数中图分类号：TN961文献标识码：A 文章编号：1672-7673",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1概述",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "全球卫星导航系统(GlobalNavigationSatelliteSystem,GNSS)定位误差 $\\sigma _ { u }$ 通常由精度因子（Dilution of Precision，DOP）及用户等效伪距误差（User Equivalent Range Error，UERE）共同刻画，即[1-3]:",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { u } = \\mathrm { D O P } \\cdot \\sigma _ { \\mathrm { U E R E } } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "对于某一颗给定卫星而言，用户等效伪距误差被视为与该卫星相关联的各个误差源产生的影响的（统计）和，包括伪距测量误差、大气时延误差、卫星原子钟钟差及卫星轨道误差等。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在各全球卫星导航系统建设与发展过程中，上述误差评估方法发挥了重要的作用。它不仅是星座系统设计的重要依据，也是用户进行星座优选及定位精度预测和分析的重要指标。根据精度因子参数类型的不同，用户也能够快速地对各不同坐标方向上的未知量以及接收机钟差进行解算精度评估。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "然而，出于方便使用的考虑，基于精度因子与用户等效伪距误差的精度表征方法在理论上存在着一些不足。首先，精度因子与用户等效伪距误差的精度表征公式是基于两个假设条件推导得到的：（1）假设观测方程组系数矩阵 $\\pmb { H }$ 无随机分量，这样才能在推导过程中将系数矩阵 $\\pmb { H }$ 移除到期望算子之外；（2）假设所有的UERE均具有相同的均方差 $\\sigma _ { \\rho }$ ，且是互不相关的零均值，这样才能将期望算子简化为 $\\boldsymbol { \\sigma } _ { \\rho } ^ { 2 } \\boldsymbol { I }$ 。但是，只有当所有观测卫星都成正交分布关系时，观测方程组系数矩阵 $\\pmb { H }$ 才无随机分量，而用户等效伪距误差的构成十分复杂，除符合高斯白噪声的随机测量误差外，还有各类大气时延、硬件设备造成的偏差，以及接收端处的多径效应等误差。因此，在实际定位中，这两个假设条件都难以成立。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "其次，在各类定位误差源中，伪距测量误差、大气时延误差及卫星原子钟钟差等属于一维矢量,即卫星至用户视线方向上的误差，因而可以轻易地将其换算至用户等效伪距误差中。然而，卫星轨道误差（一般认为是卫星广播星历误差）属于三维方向上的误差量，难以直接换算至用户等效伪距误差。为此，为评估卫星轨道误差对定位精度的影响，一般需将卫星广播星历误差从地心地固坐标系（Earth-Centered Earth Fixed，ECEF）转换至该时刻的轨道坐标系（RTN坐标系）下，得到卫星轨道位置在径向（R）、横向（T）和法向（N）上的偏差[4-8]。在此基础上，认为径向方向轨道误差对用户定位精度的影响最大，再利用相关经验模型与参数计算得到卫星URE 值，并纳入用户等效伪距误差中进行综合考量[9-10]。对于我国北斗卫星导航系统（BeidouNavigationSatellteSystem，BDS）等由混合星座构成的全球卫星导航系统而言，还需要对MEO、GEO及IGSO 等不同轨道类型的卫星采用不同的经验参数，这增加了精度分析与评估过程的困难和繁琐性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为此，本文提出采用矩阵摄动数学理论研究和分析卫星轨道误差对定位观测方程组解的影响，并利用基于谱范数的条件数对测量方程组的形态进行刻画（实际上，精度因子的数学本质也即为矩阵范数中的Frobenius 范数)。仿真计算结果表明，基于矩阵摄动理论能够直接反映卫星轨道误差对定位精度的影响，无需进行等效伪距误差转换，从而能够更加直接和准确地研究定位方程组性能及其解的误差，以及卫星轨道误差对定位解精度的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2观测方程与误差方程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "全球卫星导航系统单点定位解的线性方程组矩阵形式可表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { H \\Delta X } = \\Delta \\pmb { \\rho } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\pmb { H }$ 为方向余弦矩阵：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH = \\left[ \\begin{array} { c c c c } { \\cos \\alpha _ { 1 } \\cos \\beta _ { 1 } \\cos \\gamma _ { 1 } } & { 1 } \\\\ { \\cos \\alpha _ { 2 } \\cos \\beta _ { 2 } \\cos \\gamma _ { 2 } } & { 1 } \\\\ { \\phantom { - } } \\\\ { \\cos \\alpha _ { n } \\cos \\beta _ { n } \\cos \\gamma _ { n } } & { 1 } \\end{array} \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\cos \\alpha _ { i }$ ，cos $\\beta _ { i }$ 和 $\\cos { \\gamma _ { i } } ( i = 1 , 2 , \\quad , n )$ 分别为用户估计位置指向第 $i$ 颗卫星的单位矢量方向余弦。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\Delta X$ 为近似解与真解之间的改正向量：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta { X } = [ \\Delta { x } \\Delta { y } \\Delta { z } - c \\Delta { t } ] ^ { \\mathrm { { T } } } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\Delta \\pmb { \\rho }$ 为由用户估计位置和钟差估计值计算得到的几何距离与观测伪距之差：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\pmb { \\rho } = [ \\Delta \\rho _ { 1 } \\Delta \\rho _ { 2 } \\Delta \\rho _ { n } ] ^ { \\mathrm { T } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当 $\\scriptstyle { \\mathrm { n = 4 } }$ 时，(2)式为正定方程。其解为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta { X } = { H } ^ { - 1 } \\Delta { \\rho } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当 $\\mathrm { n } { > } 4$ 时，(2)式为超定方程。采用最小二乘法获得其冗余解：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\mathbf { X } = ( \\pmb { H } ^ { \\mathrm { T } } \\pmb { H } ) ^ { - 1 } \\pmb { H } ^ { \\mathrm { T } } \\Delta \\pmb { \\rho }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据文[1-3]中对最小二乘解算值协方差矩阵的推导，可得用户坐标位置误差的协方差为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\operatorname { c o v } ( \\boldsymbol { \\sigma } _ { u } ) = \\pmb { H } ^ { - 1 } \\cdot \\boldsymbol { E } [ \\Delta \\boldsymbol { \\rho } \\cdot \\Delta \\boldsymbol { \\rho } ^ { \\mathrm { T } } ] \\cdot \\pmb { H } ^ { - T } } & { n = 4 } \\\\ { \\operatorname { c o v } ( \\boldsymbol { \\sigma } _ { u } ) = ( \\pmb { H } ^ { T } \\pmb { H } ) ^ { - 1 } \\pmb { H } ^ { T } \\cdot \\boldsymbol { E } [ \\Delta \\boldsymbol { \\rho } \\cdot \\Delta \\boldsymbol { \\rho } ^ { \\mathrm { T } } ] \\cdot \\pmb { H } ( \\pmb { H } ^ { T } \\pmb { H } ) ^ { - 1 } } & { n > 4 } \\end{array} \\right. ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $E$ 为期望算子； $\\sigma _ { u }$ 为用户位置误差均方差； $\\Delta \\pmb { \\rho }$ 为伪距观测误差向量； $n$ 为观测卫星",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在上述推导过程中，曾假设系统矩阵 $\\pmb { H }$ 无随机分量，因此可被移到期望算子之外。再进一步假设所有的用户等效伪距误差均有相同的方差 $\\sigma _ { \\rho }$ ，且是互不相关的零均值，则(8)式中的期望算子可简化为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE [ \\Delta \\pmb { \\rho } \\cdot \\Delta \\pmb { \\rho } ^ { \\mathrm { T } } ] = \\sigma _ { \\rho } ^ { 2 } \\pmb { I } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\boldsymbol { { \\cal I } }$ 为 $4 { \\times } 4$ 的单位矩阵。于是，(8)式中的两个方程可简化为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { c o v } ( \\sigma _ { u } ) = \\sigma _ { \\rho } ^ { 2 } ( H ^ { \\mathrm { T } } H ) ^ { - 1 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\left( \\pmb { H } ^ { \\operatorname { T } } \\pmb { H } \\right) ^ { - 1 }$ 为用户等效伪距误差换算至用户位置误差时的误差放大因子精度因子，它与用户至卫星的单位矢量所勾勒的立体体积成反比。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据用户所在坐标参考系的不同，精度因子可以表征不同方向上的位置误差。当用户位于用户等效伪距误差坐标系时，其实际含义为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( H ^ { \\mathrm { T } } H ) ^ { - 1 } = \\left[ \\begin{array} { c c c c } { \\mathrm { X D O P ^ { 2 } } } & { \\mathrm { f 3 h } \\mathcal { \\hat { H } } \\Xi \\Xi \\left[ \\hat { \\mathcal { Z } } \\right] } & { } \\\\ { \\mathrm { Y D O P ^ { 2 } } } & { } \\\\ { \\mathrm { Z D O P ^ { 2 } } } & { } \\\\ { \\mathrm { f 3 h } \\mathcal { \\hat { H } } \\Xi \\Xi \\left[ \\hat { \\mathcal { Z } } \\right] \\hat { \\mathcal { Z } } } & { } \\\\ { \\mathrm { T D O P ^ { 2 } } } & { } \\end{array} \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其对角线元素的平方根分别对应三维方向坐标位置及接收机钟差的误差放大因子精度因子。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于在精度因子的推导过程中，曾假设系数矩阵 $\\pmb { H }$ 无随机分量，所以(11)式中矩阵$( \\pmb { H } ^ { \\operatorname { T } } \\pmb { H } ) ^ { - 1 }$ 的协方差阵也被认为是零值。由此可以发现，精度因子的定义与矩阵范数中的Frobenius 范数（即F-范数，矩阵中各元素平方和的平方根）一致，其数学本质即为矩阵 F-范数。这也说明，可以利用矩阵范数摄动理论进一步开展对测量方程组定位误差解的深入研究。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3轨道误差摄动分析方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从以上误差方程推导可知，基于精度因子的分析方法对测量值的误差统计情况及系数矩阵 $\\pmb { H }$ 的随机分量情况均做了条件假设（假设测量值误差均符合高斯分布且相互独立、系统矩阵 $\\pmb { H }$ 无随机分量)。而在实际情况下，卫星导航定位的过程很难符合上述理想条件。相较之下，基于范数概念的摄动分析理论可对测量方程组的实际形态进行研究，并对卫星轨道误差的影响程度进行更加直接和真实的评估。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当考察卫星轨道误差对定位解的影响时，认为对方程组左端系数矩阵 $\\pmb { H }$ 带来摄动误差$\\delta { \\pmb H }$ ，并给坐标及钟差未知数向量 $\\Delta X$ 造成摄动 $\\delta \\mathbf { X }$ 。即有",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( { \\pmb H } + \\delta { \\pmb H } ) ( \\Delta { \\pmb X } + \\delta { \\pmb X } ) = \\Delta { \\pmb \\rho } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "可以证明，由于矩阵 $\\pmb { H }$ 非奇异，而由卫星轨位误差等造成的摄动误差 $\\delta \\pmb { H }$ 甚小，故矩阵${ \\pmb { H } } + \\delta { \\pmb { H } }$ 仍然可以保持它的非奇异性[12]。因此，将(12)式减去(2)式可得：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta { \\cal X } = - ( { \\cal H } ^ { - 1 } \\delta { \\cal H } \\Delta { \\cal X } + { \\cal H } ^ { - 1 } \\delta { \\cal H } \\delta { \\cal X } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从而，对(12)式左右两端进行范数表达可得：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\| \\delta \\boldsymbol { X } \\| \\leq \\left\\| \\boldsymbol { H } ^ { - 1 } \\right\\| \\| \\delta \\boldsymbol { H } \\| \\| \\Delta \\boldsymbol { X } \\| + \\left\\| \\boldsymbol { H } ^ { - 1 } \\right\\| \\| \\delta \\boldsymbol { H } \\| \\| \\delta \\boldsymbol { X } \\| , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "进一步地有",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\left\\| \\delta \\boldsymbol { X } \\right\\| } { \\left\\| \\Delta \\boldsymbol { X } \\right\\| } \\leq \\frac { \\left\\| \\boldsymbol { H } ^ { - 1 } \\right\\| \\left\\| \\delta \\boldsymbol { H } \\right\\| } { 1 - \\left\\| \\boldsymbol { H } ^ { - 1 } \\right\\| \\left\\| \\delta \\boldsymbol { H } \\right\\| } = \\frac { \\left\\| \\boldsymbol { H } \\right\\| \\left\\| \\boldsymbol { H } ^ { - 1 } \\right\\| \\frac { \\left\\| \\delta \\boldsymbol { H } \\right\\| } { \\left\\| \\boldsymbol { H } \\right\\| } } { 1 - \\left\\| \\boldsymbol { H } \\right\\| \\left\\| \\boldsymbol { H } ^ { - 1 } \\right\\| \\frac { \\left\\| \\delta \\boldsymbol { H } \\right\\| } { \\left\\| \\boldsymbol { H } \\right\\| } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "这里， $\\left\\| \\pmb { H } \\right\\| \\left\\| \\pmb { H } ^ { - 1 } \\right\\|$ 是误差放大率，即解的相对误差为测量数据相对误差的 $\\left\\| \\pmb { H } \\right\\| \\left\\| \\pmb { H } ^ { - 1 } \\right\\|$ 倍。$\\left\\| \\pmb { H } \\right\\| \\left\\| \\pmb { H } ^ { - 1 } \\right\\|$ 又称为矩阵的条件数，记为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc o n d ( { \\pmb H } ) = \\left\\| { \\pmb H } \\right\\| \\left\\| { \\pmb H } ^ { - 1 } \\right\\| ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因此，(15)式可记为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\| \\delta { \\pmb X } \\right\\| \\leq \\frac { c o n d ( { \\pmb H } ) \\displaystyle \\frac { \\left\\| \\delta { \\pmb H } \\right\\| } { \\left\\| { \\pmb H } \\right\\| } } { 1 - c o n d ( { \\pmb H } ) \\displaystyle \\frac { \\left\\| \\delta { \\pmb H } \\right\\| } { \\left\\| { \\pmb H } \\right\\| } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于 $\\| \\delta \\pmb { H } \\|$ 相对 $\\left\\| \\pmb { H } \\right\\|$ 而言一般已经充分小，因此(17)式通常可以近似为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\left\\| \\delta \\boldsymbol { X } \\right\\| } { \\left\\| \\Delta \\boldsymbol { X } \\right\\| } \\leq c o n d ( \\boldsymbol { H } ) \\frac { \\left\\| \\delta \\boldsymbol { H } \\right\\| } { \\left\\| \\boldsymbol { H } \\right\\| } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "这说明当 $\\pmb { H }$ 具有扰动 $\\delta { \\pmb H }$ 时，引起的解的相对误差不超过 $\\pmb { H }$ 的相对误差的 $c o n d ( H )$ 倍[1-14]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从上述分析可以看出，当方程组中的 $\\pmb { H }$ 具有扰动误差时，方程组解的误差可以由条件数 $c o n d ( H )$ 决定，其作用可视为误差传递的放大因子，起到类似于精度因子的作用。条件数与所取的矩阵范数有关，数学上一般采用谱范数（即2-范数）进行表征：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc o n d ( { \\pmb H } ) _ { 2 } = \\left\\| { \\pmb H } \\right\\| _ { 2 } \\left\\| { \\pmb H } ^ { - 1 } \\right\\| _ { 2 } = \\sqrt { \\frac { \\lambda _ { \\operatorname* { m a x } } \\left( { \\pmb H } ^ { \\top } { \\pmb H } \\right) } { \\lambda _ { \\operatorname* { m i n } } \\left( { \\pmb H } ^ { \\top } { \\pmb H } \\right) } } \\mathrm { ~ , ~ }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "此时，cond $( H )$ 又称为矩阵的谱条件数[I1-12.14]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "条件数 $c o n d ( H )$ 同时刻画了方程组的形态，反映了方程组解对误差的敏感程度。当cond $( H )$ 相对较大时，称测量方程组为病态方程；当 $c o n d ( H )$ 相对较小时，则可称为良态方程。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4仿真实验与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为分析和验证基于范数的摄动分析方法的可行性，采用了实测与仿真相结合的方法。首先，利用全球卫星导航系统接收机在某一已知坐标的固定位置测量了一段历元时长的全球定位系统卫星轨道坐标数据，并且为了便于分离和控制误差，仿真生成了对应的全球定位系统伪距数据，其中含有 $1 \\sigma { = } 3 \\mathrm { m }$ 的伪距误差。其次，为考察卫星轨道误差对定位精度的影响，在卫星位置的 $X , Y , Z$ 三维坐标方向上又分别生成和添加了 $1 \\sigma { = } 3 \\mathrm { m }$ 的轨道坐标均方误差（因此轨道的三维误差为 $1 \\sigma { = } 5 . 1 9 6 \\mathrm { m }$ )。通过计算添加轨道误差前后的定位结果，得到由卫星轨道误差造成的实际解算误差，并与基于范数的摄动分析方法估计得到的误差进行对比，结果如图1。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "30  \n25 实际误差  \n20 实际误差-估计误差  \n10505 WMwwmwwMAMwMWMwmMM  \n-10  \n-150 100 200 300  \n30实际误养  \n1050-5 mmAMM  \n-10300 400 500 600历元（秒）",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "可以看出，基于矩阵范数摄动分析理论，能够不依赖误差分布假设条件、不通过轨道坐标分解与转换，直接评估和分析卫星轨道误差对全球卫星导航系统定位解的影响。并且，由范数摄动分析方法计算得到的误差上限均恰好位于实际解算误差之上，两者吻合情况良好（之间差异保持在数米以内)，说明范数摄动分析方法能够准确、可靠地对全球卫星导航系统定位解算误差情况进行刻画和评估。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5总结 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于精度因子与用户等效伪距误差的精度表征方法在星座优选、定位精度预测与分析等方面发挥了重要作用。但是，精度因子与用户等效伪距误差的精度表征公式基于若干假设条件推导得到，因此严格意义上只能作为近似评估手段，在理论上仍欠严谨。同时，将所有定位误差源折算至用户等效伪距误差概念中进行评估，也为卫星轨道误差对用户定位精度影响的评估工作带来了一定的困难，增加了评估过程的繁琐性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文提出基于范数数学概念，采用矩阵摄动分析方法对卫星轨道误差影响进行研究，提供了一种新的理论和实用方法，以丰富和弥补传统以来基于精度因子与用户等效伪距误差的精度表征方法。当已知卫星轨道误差先验统计信息时，即可利用方法对卫星轨道误差影响程度进行预测和评估，或在利用事后精密星历计算得到真实卫星轨道误差后，对卫星系统星座性能进行更加准确和便捷的分析。该方法能够避免对测量值误差统计情况及观测方程组系数矩阵随机分量情况的条件假设，无需进行卫星轨道误差的解析与坐标转换，并且不依赖统计意义，能够对单次定位解的误差摄动进行细致描述。因此，能够更加全面和直接地评估与分析卫星轨道误差对用户定位精度的影响。仿真实验与分析表明，基于矩阵范数的摄动分析方法计算过程简洁，评估结果准确可靠，具有理论意义与应用价值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Misra P, Enge P. Global Positioning System - signals,measurements,and performance[M]. Lincoln: Ganga - Jamuna Press, 2001.  \n[2] Parkinson B W, Spilker J J， Axelrad P, et al. Global PositioningSystem: theory and applications[M]. Washington: American Institute ofAeronautics and Astronautics, 1996.  \n[3] 谢钢.GPS 原理与接收机设计[M]．北京：电子工业出版社,2009.[4]施闯，赵齐乐，李敏，等．北斗卫星导航系统的精密定轨与定位研究[J]．中国科学:地球科学,2012,42(6): 854-861.  \nShi Chuang, Zhao Qile,Li Min, et al. Precise orbit determination of Beidou Satellites with precisepositioning[J]. Scientia Sinica: Terrae, 2012, 42(6):854-861.  \n[5]刘伟平，郝金明，李建文，等．一种北斗卫星精密定轨方法[J]．测绘科学技术学报,2013,30(3):247-250.  \nLiu Weiping, Hao Jinming,Li Jianwen ,et al. A method of precise orbit determination of BeiDounavigation satellite[J]. Journal of Geomatics Science and Technology, 2013, 30(3): 247-250.[6] 李征航，丁文武，李昭.GPS广播星历的轨道误差分析[J]．大地测量与地球动力学,2008,28(1): 50-54.  \nLi Zhenghang， Ding Wenwu, Li Zhao. Error analysis of orbit determined by GPS broadcastephemeris[J]. Journal of Geodesy and Geodynamics, 2008, 28(1): 50-54.  \n[7]李济生．人造卫星精密轨道确定[M]．北京：解放军出版社,1995.[8] 徐小钧，艾国祥，马利华，等．基于不同轨道高度iHCO 通信卫星的 CAPS 星座优化研究[J]．天文研究与技术一国家天文台台刊，2014,11(4): 350-355.  \nXu Xiaojun, Ai Guoxiang, Ma Lihua, et al. A study of optimization of a CAPS constellation ofiHCO communication satelites of different orbit heights[J]. Astronomical Research&Technology—Publications of National Astronomical Observatories of China, 2014,11(4):350-355.  \n[9]高为广，苏牡丹，郭树人，等．北斗系统空间信号精度测试与评估[C]//第四届中国卫星导航学术年会电子文集.2014.  \n[10]罗璠,李建文，黄海，等.BDS广播星历的轨道误差分析[C]//第五届中国卫星导航学术年会电子文集.2015.  \n[11]何旭初，苏煜城，包雪松．计算数学简明教程[M]．北京：人民教育出版社,1980.  \n[12]数学手册编写组．数学手册[M]．北京：高等教育出版,1979.[13]施浒立，孙希延，李志刚．转发式卫星导航原理[M]．北京：科学出版社,2009.  \n[14]王世儒，王金金，冯有前，等．计算方法[M]．西安：西安电子科技大学出版社,2004",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Studyon Perturbation Analysis Method of the Influence of Satellite Orbit Error on Positioning Accuracy ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Liu Cheng1,Li Fang² (1.Beijing Institute of Tracking and Telecommunication Technology,Beijing 100094; 2.National Astronomical Observatories, Chinese Academy of Sciences,Beijing 100190) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract: GNSS positioning accuracy is affected by pseudo-range measuring error, atmospheric time-delay error, satellite atomic clock error and satellite orbit error, et al. Traditionally, the DOP and UERE parameters are used to estimate positioning error. However, several assumptions are needed to make in the derivation process of precision representation formula, thus it is actually an approximate estimate formula.In addition,the satellite orbit error of various error sources belongs to three-dimensional error, which requires coordinate transformation and experience parameter model to switch to UERE. Therefore， the paper proposes using matrix perturbation mathematicaltheory to study the influence of satellite orbit error on positioning accuracy； and describes equation form by conditional number using spectral norm. The simulation result demonstrates that this method can reflect the influence directly without transformation of orbit coordinate and UERE error so that it is more direct and precise to assess the influence of satellite orbit error on positioning accuracy. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Satelite Orbit Error; Navigation and Positioning; UERE; Norm; Condition Number ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "基金项目：国家自然科学基金(61601009)  \n收稿日期: ;修订日期:  \n作者简介：刘成，男，博士.研究方向:卫星导航与天文导航.E-mail: liucheng@beidou.gov.cn  \n通信地址：北京市海淀区5131信箱11号，邮编100190  \n手机：15110148799  \n单位：北京跟踪与通信技术研究所",
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,520 @@
+[
+    {
+        "type": "text",
+        "text": "基于DEA-Malmquist指数的河北省耕地利用效率及其影响因素研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵倩石¹²，潘佩佩¹²，王晓旭³，王雪然¹²，王晓萌¹²，李宁4，王新云5(1.河北师范大学资源与环境科学学院,河北 石家庄050024；2.河北省环境演变与生态建设实验室,河北 石家庄050024；3.河北雄安新区管理委员会规划建设局,河北 保定071799；4.黑龙江省农垦科学院,黑龙江 哈尔滨150038；5.宁夏大学西北土地退化与生态恢复省部共建国家重点实验室培育基地,宁夏 银川 750021)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：城镇化带来的耕地快速非农化背景下耕地利用效率提高对确保粮食主产区粮食安全意义重大。运用Da-ta Envelopment Analysis (DEA)模型、Malmquist指数和Geographically Weighted Regression(GWR)模型,从县域尺度分析了2000—2015年河北省耕地利用效率的时空特征、动态规律及影响因素。结果表明：从时间上看,2000年以来河北省耕地利用综合效率、纯技术效率和规模效率均处于0.8\\~1,保持较高水平，其中耕地利用综合效率先由0.9减少到0.8,2003年后波动上升,在2015年其值达到1。从空间上看,区域间耕地利用综合效率空间变化明显,区域同质性增强。从动态变化看，河北省耕地利用全要素生产率指数由1.03波动上升到1.18,其中耕地利用综合提高型主要分布在省域北部,技术进步提高型分布于冀中南部地区,技术变化提高型仅存在于衡水市辖区,综合下降型零散分布在中南部区域。从影响因素看，在一定概率水平下,河北省耕地利用综合效率与农业产值占比和复种指数呈正相关,与高程、坡度、农业人口占比以及非粮占比呈负相关。其中高程、坡度、复种指数和农业人口占比影响较小,农业产值占比和非粮占比影响较为明显,非粮占比影响最为显著，其相关系数为-0.520249。最后从耕地利用影响因素出发依据不同区域情况对如何提高耕地利用效率提出优化建议。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：耕地利用效率；DEA-Malmquist；时空格局；影响因素；河北省",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "耕地是人类赖以生存和发展的关键要素，也是粮食安全与社会经济可持续发展的基础。随着城镇化快速推进，耕地非农化速度加快，耕地资源日益紧张，对此国家政府持续提出一系列耕地保护政策，2021年中央一号文件中再次强调要坚决守住18亿亩耕地红线。当前中国人均耕地面积仅占世界平均水平的 $4 0 \\% ^ { [ 1 ] }$ ，且2000年以来中国传统农区每年耕地面积减少超过 $2 { \\times } 1 0 ^ { 5 } \\mathrm { h m } ^ { 2 }$ ,尤其是优质耕地快速减少[2]。同时生态退耕[3]、耕地污染[4]和耕地质量下降[5-6等问题也导致耕地产出下降，人地矛盾增加。现有耕地保护政策虽起到一定积极作用，但并未切实解决中国耕地利用存在的问题，在此背景下提高耕地利用效率对耕地资源优化利用及粮食安全意义重大[7]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来关于耕地利用效率方面取得了丰富的研究成果。从研究内容看主要包括以下几个方面：一是效率测算方面,学者们利用DataEnvelopmentAnalysis(DEA)模型[8-9]、Slack Based Model(SBM)方向性距离函数\"以及决策分析\"等方法对区域耕地效率值进行测算；二是时空分析方面，从全局和局部两个视角出发利用ArcGIS等工具分析耕地利用效率的时空变化特征[12-13];三是成因机制方面,学者们在测算耕地利用效率的基础上基于线性回归模型[14]、Geographically Weighted Regression(GWR)地理加权回归模型[15]以及其他经济指数[]开展其影响因素研究。从研究尺度看，耕地利用效率涉及省域[17]、市域[18]和县域[19]等各个尺度。从研究方法看,早期耕地利用效率以静态研究为主[8.12],之后学者们不仅开始关注耕地利用效率的动态变化，同时也不断对传统方法进行改进，例如将DEA和",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Malmquist指数(经济指数)与bootstrap方法相结合，增加了对研究结果重要性的统计推断[20],或者采用非期望的超效率SBM模型来解决传统模型无法充分考虑投入或产出的非零松弛问题[2]。总体上，关于耕地利用效率研究的方法存在差异，DEA是典型的非参数方法，不需要预设生产函数就可以处理多投入多产出问题，所以本文选择DEA模型。由于DEA只可以计算同一时期内各区域的耕地利用效率相对大小，因此，本研究引入Malmquist指数来计算不同时段内的动态耕地利用效率，同时结合地理相关性使用GWR地理加权回归模型计算其影响因素。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "河北省是华北平原典型粮食主产区之一，在维护京津冀及全国粮食安全方面承担着重要的责任。但同时该区水资源短缺、资源分布和经济发展水平不均衡等问题突出。2019年国务院在《关于切实加强高标准农田建设提升国家粮食安全保障能力的意见》中明确提到要按照农业高质量发展要求，以提升粮食产能为首要目标，提高水土资源利用效率，为保障国家粮食安全提供坚实基础。因此，从耕地投入产出的角度，结合DEA模型和Malmquist指数从静态和动态两个方面开展对2000一2015年河北省县域耕地利用效率时空变化、动态规律及影响因素的研究，不仅可以科学合理的探明耕地利用效率变化的内在机制为国土空间规划提供参考，同时也为如何提高耕地利用效率、缓解耕地压力并保障粮食安全提供依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据来源与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "社会经济数据来源于河北省统计年鉴、各地市统计年鉴、中国经济与社会发展统计数据库，包括2000一2015年河北省粮食总产量、农业总产值（采取的农业总产值是种植业部分，不包括农业、林业、牧业、渔业以及农林牧渔服务业等）耕地面积、复种指数、第一产业从业人员、农用化肥施用量和农用机械总动力等。DEM（分辨率 $3 0 ~ \\mathrm { m }$ 高程和坡度数据来源于地理空间数据云(www.gscloud.cn）。上述数据以2015年行政区划为基础，将各市辖区合并为市区，共包括11个地级市，139个县级行政区划单位。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2DEA模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1相关概念及指标选取耕地利用效率是对耕地资源利用程度的反映，表现为耕地利用过程中各项投入与产出之间的关系，体现了耕地资源的配置状况，主要指在一定要素投入条件下，耕地获得的实际产出与最大可能产出的比率。本文耕地利用效率包括耕地利用综合效率(反映耕地资源利用的综合情况，是纯技术效率和规模效率的综合体现）、纯技术效率（反映对资源的利用能力和整体管理水平)和规模效率(反映规模是否达到最优状态)等[15],主要侧重于土地生产率的效率值。基于现有研究和数据可获得性，建立耕地利用指标，其中投入指标包括耕地面积、第一产业从业人员、农用化肥施用量和农用机械总动力，产出指标包括粮食产量和农业产值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2模型 构建数据包络分析(Data EnvelopmentAnalysis，DEA)是根据多项投入指标和多项产出指标，利用线性规划方法，比较生产的前沿面和决策单元两者的相对有效性，以此测算决策部门的生产效率，优点是不需要预设生产函数就可以处理多投入多产出的问题。使用DEA模型计算得出的耕地利用综合效率反映的是某一年份河北省各县域内耕地利用效率的相对大小。目前DEA已有CCR、BCC和FG等多个模型，本文使用CCR和BCC两种模型。其中CCR模型用于计算河北省耕地利用综合效率，其模型规划式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l } { \\displaystyle \\mathrm { M i n } \\Big [ \\theta - \\varepsilon \\Big ( e ^ { T } s ^ { + } + \\hat { e } ^ { T } s ^ { - } \\Big ) \\Big ] } \\\\ { \\displaystyle \\mathrm { s . t . } \\sum _ { j = 1 } ^ { n } X _ { j m } \\lambda _ { j } + s ^ { - } = \\theta X _ { 0 } , ( m = 1 , ~ 2 , ~ \\cdots , ~ { M } ) } \\\\ { \\displaystyle \\sum _ { j = 1 } ^ { n } Y _ { j } \\lambda _ { j } - s ^ { + } = Y _ { 0 } , ( r = 1 , ~ 2 , ~ \\cdots , ~ { R } ) } \\\\ { \\displaystyle \\lambda _ { j } \\geqslant 0 , ~ s ^ { + } \\geqslant 0 , ~ s ^ { - } \\geqslant 0 } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中：一共有 $j$ 个决策单元(DUM)，每一个DUM中包括 $m$ 个投入变量和 $\\boldsymbol { r }$ 个产出变量。第 $j$ 个决策单元的第 $m$ 个投入变量为 $X _ { j m }$ ，第 $j$ 个决策单元的第 $\\mid r \\mid$ 个产出变量为 $Y _ { j r }$ 。 $s ^ { + }$ 和 $s ^ { - }$ 分别表示剩余变量和松弛变量， $\\boldsymbol { \\varepsilon }$ 表示非阿基米德无穷小量， $e ^ { T }$ 和 $\\hat { e } ^ { T }$ 为 $E ^ { r }$ 和 $E ^ { m }$ 的空间单位向量， $\\lambda _ { j }$ 为权重变量， $\\theta$ 为耕地利用综合效率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "BCC模型用于计算河北省耕地利用纯技术效率，BCC模型的规划式是在上文CCR模型规划式的基础上增加了 $\\sum _ { j = 1 } ^ { n } \\lambda _ { j } = 1$ 的约束条件,BCC模型与CCR模型相比由规模报酬不变转化为规模报酬可变",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据CCR和BCC模型结果计算得出耕地利用规模效率,计算公式如下[12]：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS E = T E / P T E\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $S E$ 表示耕地利用规模效率； $T E$ 表示耕地利用综合效率; $P T E$ 表示耕地利用纯技术效率。各效率值在0\\~1,越大表示效率越高，当效率值等于1时表示达到最优。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3热点分析方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "热点分析是空间自相关分析的一种，可识别某项指标是否有显著空间聚类特征。运用热点分析指数(Getis-OrdGi)分析河北省耕地效率局部空间分异规律，公式如下[23]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { i } ^ { * } ( d ) = \\sum _ { j = 1 } ^ { n } W _ { i j } ( d ) X _ { j } / \\sum _ { j = 1 } ^ { n } X _ { j }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "标准化处理后：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ { \\left( { { G _ { i } ^ { * } } } \\right) } = \\frac { { G _ { i } ^ { * } } - E ( G _ { i } ^ { * } ) } { \\sqrt { \\operatorname { V a r } ( G _ { i } ^ { * } ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\textstyle \\mathbf { \\big . W } _ { i j }$ 为空间权重矩阵； $X _ { j }$ 为各区域的地理属性值； $E ( G _ { i } ^ { * } )$ 和 $\\mathrm { V a r } ( G _ { i } ^ { * } )$ 分别为 $\\boldsymbol { G } _ { i } ^ { * }$ 的数学期望和方差。当 $Z ( G _ { i } ^ { * } ) { > } 0$ 且显著时为热点区，即高值集聚区；当 $Z$ $( G _ { i } ^ { * } ) { < } 0$ 且显著时为冷点区，即低值集聚区。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4Malmquist指数模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Malmquist指数模型可比较研究单元在不同时期的动态效率值，即两个年份之间耕地利用效率的相对变化，弥补DEA模型静态分析的不足。Malmquist指数模型是利用距离函数的比率来计算效率指数，同时还可以对耕地全要素生产率(Tfpch)的变化量进行分解，以此反映耕地利用效率及其变化的原因[24]。公式如下[25]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { 0 } ^ { t } = D _ { 0 } ^ { t } \\big ( x ^ { t + 1 } , ~ y ^ { t + 1 } \\big ) / D _ { 0 } ^ { t } \\big ( x ^ { t } , ~ y ^ { t } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\boldsymbol { M } _ { 0 } ^ { t + 1 } = \\boldsymbol { D } _ { 0 } ^ { t + 1 } \\big ( \\boldsymbol { x } ^ { t + 1 } , ~ \\boldsymbol { y } ^ { t + 1 } \\big ) / \\boldsymbol { D } _ { 0 } ^ { t + 1 } \\big ( \\boldsymbol { x } ^ { t } , ~ \\boldsymbol { y } ^ { t } \\big ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathit { T f p c h } = \\mathit { M } _ { 0 } = \\left( \\mathit { M } _ { 0 } ^ { t } \\times \\mathit { M } _ { 0 } ^ { t + 1 } \\right) ^ { \\frac { 1 } { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { \\Psi } = E f f c h \\times T e c h c h\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= P e c h \\times S e c h \\times T e c h c h\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\boldsymbol { x } ^ { t }$ 和 $x ^ { t + 1 }$ 分别为 $\\mathbf { \\Phi } _ { t }$ 和 $_ { t + 1 }$ 时期的投入, $\\boldsymbol { y } ^ { t }$ 和 $y ^ { t + 1 }$ 分别为 $\\mathbf { \\Phi } _ { t }$ 和 $_ { t + 1 }$ 时期的生产， $M _ { 0 } ^ { \\ t }$ 表示在时间 $\\mathbf { \\Phi } _ { t }$ 的技术条件下，从 $\\mathbf { \\Phi } _ { t }$ 到 $_ { t + 1 }$ 的技术效率变化， $M _ { 0 } ^ { { t + 1 } }$ 表示在时间 $t +$ 1技术条件下从 $\\mathbf { \\Phi } _ { t }$ 到 $_ { t + 1 }$ 的技术效率变化。 $D _ { 0 } ^ { \\ t }$ 和 $\\boldsymbol { D _ { 0 } } ^ { t + 1 }$ 分别为 $\\mathbf { \\Phi } _ { t }$ 和 $_ { t + 1 }$ 时期的生产距离函数，分别表示全要素生产率在 $\\mathbf { \\chi } _ { t }$ 和 $_ { t + 1 }$ 时期的实际值与前沿生产面之间的比值，值越大表示实际生产越接近前沿生产面。Tfpch为全要素生产率指数，Techch为技术进步指数（表示前沿生产面的变动情况），Effch为技术变化指数(表示对前沿生产面的追赶情况）， $P e c h$ 为纯技术效率变化指数，Sech为规模效率变化指数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5地理加权回归(GWR)模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "地理加权模型是地理位置因素加入到回归系数中进行分析的一种方法(运用模型前需要计算Moran's $\\mathrm { I } ^ { [ 2 6 ] }$ 验证要素是否具有空间集聚性），实质是最小二乘法，具体公式如下[27]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { i } = \\beta _ { 0 } { \\left( u _ { i } , v _ { i } \\right) } + \\sum _ { k = 1 } ^ { p } \\beta _ { k } { \\left( u _ { i } , v _ { i } \\right) } x _ { i k } + \\varepsilon _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $y _ { i }$ 为因变量，表示耕地利用综合效率， $x _ { i k }$ 是自变量， ${ . \\beta _ { 0 } } ( u _ { i } , v _ { i } )$ 为第 $i$ 个采样点的常数估计， $\\beta _ { k } ( u _ { i } , v _ { i } )$ 为第 $i$ 个采样点的第 $k$ 个参数估计， $( u _ { i } , v _ { i } )$ 为第 $i$ 个采样点的坐标， $\\boldsymbol { \\varepsilon }$ 为随机误差,其中 $\\scriptstyle { i = 1 , 2 , 3 , \\ldots n }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1河北省耕地利用效率时空变化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从2000—2015年耕地利用效率变化可知（图1)，河北省不同时期耕地利用效率值均在 $0 . 8 \\mathord { \\sim } 1$ ，说明河北省耕地利用生产要素开发较为合理，农业生产技术水平得到较高程度应用。其中，河北省耕地利用综合效率先由0.9减少到0.8（2000—2003年）后波动上升到1（2000—2015年），这是由于2003年后随着政府积极落实粮食补贴政策以及进行农业科技推广等措施，促使耕地利用综合效率进一步提高。2010年耕地利用综合效率、纯技术效率和规模效率三者都达到最优(三者的值均为1)。整体来看，河北省耕地利用纯技术效率平均值为0.99，处于较高水平且变动较小，耕地利用规模效率成为影响综合效率的主要因素，因此，如何优化生产规模是河北省提高耕地利用效率的关键。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.05 \\*综合效率 纯技术效率 一规模效率用用 1.00 0.900.850.800.750.702000 2001 2202 2005 4404 2205 900 L007 8000 6000 2000 4001 2222 1255 4401 2555年份",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选取2000年、2005年、2010年和2015年4个时间截面计算了河北省139个县的耕地利用综合效率值，以0.4、0.8为界限划分为3个等级。结合已有规划和河北省实际将其划分为4个区域，分别是环京津冀核心功能区(保定和廊坊，共29个县）冀中南功能扩展区(石家庄、邯郸、邢台和衡水，共60个县）冀西北生态涵养区(张家口和承德，共23个县)和沿海率先发展区(秦皇岛、唐山和沧州，共27个县）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由耕地利用综合效率空间分布显示（图2），2000年环京津核心区和冀中南功能扩展区中有40个县为耕地利用综合效率高值区，主要分布在区域中部，如石家庄周边的正定县、新乐市和保定附近的定兴、容城县等;冀西北生态涵养区有4个县处于耕地利用综合效率高值区，分布在临近太行山的张家口南部，包括蔚县、涿鹿县等；沿海率先发展区内的高值区数量仅有2个，为青龙满族自治县和任丘市。2000年左右城镇化快速推进，中南部地区作为经济发展的中心，较高的技术水平以及完善的基础设施使高值区数量明显多于其他地区。2005年环京津核心功能区和冀中南功能扩展区高值区数量为22个，主要分布在易县、枣强县和宁晋县等;冀西北生态涵养区高值区数量为9个，分布于承德的东部地区包括平泉县、怀安县和承德市区等；沿海率先发展区的耕地利用综合效率高值区仍有2个，为青龙满族自治县和盐山县。2005年前后随着城镇差距扩大，农业生产比较收益逐渐降低，导致农业相对投入减少，因此各地区耕地利用综合效率高值区较少。2010年，环京津核心区和冀中南功能扩展区89个县中高值区数量为34个，冀西北生态涵养区23个县中高值区数量为5个，沿海率先发展区27个县的耕地利用综合效率高值区有6个，这是由于“十一五\"规划期内河北省经济增长平稳，2010年各地区出现明显的高值区集聚。2015年，环京津核心功能区和冀中南功能扩展区高值区数量为35个，冀西北生态涵养区高值区数量为16个，沿海率先发展区的耕地利用综合效率高值区有9个，总体上河北省耕地利用综合效率高值区除中南部地区外北部较为明显，这与高产示范县的建立、政府的管理加强以及农业生产技术的提高有关。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2耕地利用综合效率局部空间分异",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过计算2000年、2005年、2010年和2015年4个不同时期河北省县域耕地利用综合效率的Getis-OrdGi指数，并采用自然断点法，将其分为冷点显著区、一般冷点区、不显著区、一般热点区和热点显著区，其中，冷点代表低值集聚区，热点代表高值集聚区。由图3可以看出，2000年河北省耕地利用综合效率空间分异显著，高值集聚区分布在河北省中部的石家庄、保定等区域，低值集聚区则多分布在西北部地区。2005年耕地利用综合效率的空间集聚性下降，仅保定和承德有小部分高值集聚，低值集聚区分布在唐山地区，且原本的平泉县由低值转变为高值集聚区。到2010年，随着农业技术水平提高，低值集聚区基本消失，中西部地区重新出现高值集聚，但集聚程度和范围下降。至2015年，中部高值集聚消失，冀西北间山盆地以及承德地区成为新的高值集聚区，衡水南部的部分县域有小范围的低值集聚。上述研究表明相邻县域的耕地效率在空间上有自相关性,但近年来这一趋势明显减弱，各区域耕地利用综合效率出现同化现象。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/64a08e1a1a1cc04fa729d931cd0853af383f1f14a8807ba38d69cf5bbcf0faa2.jpg",
+        "img_caption": [
+            "注：数值表示各等级县域占总县域数量的百分比。",
+            "图2耕地利用综合效率空间分布",
+            "Fig.2Spatial distribution of overall efficiency of cultivated land use "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d8f1952d2ad77b03ba687e40e05351a7fed28bdbfa4f361d68a939ecdcd7f4ed.jpg",
+        "img_caption": [
+            "图3耕地利用综合效率空间集聚特征",
+            "Fig.3 Spatial aggregating feature of overall efficiency of cultivated land use "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bba03fa2cdf10d5f9ef59e579b5ad1f5ac4980b0d7558cb3f711f795a4fa8229.jpg",
+        "img_caption": [
+            "图4河北省耕地全要素生产指数变化 Fig.4 Changes in total factor production index for the cultivated land in Hebei Province "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3耕地Malmquist指数特征 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用DEA模型仅能评价静态耕地利用效率，不能反映耕地利用效率的动态变化特征。因此，本文引入Malmquist指数模型，以此反映部门的生产效率以及生产效率变化的原因[19]。河北省耕地利用全要素生产率指数(Tfpch)可以分解为技术进步指数（Techch)和技术变化指数(Effch），其中Techch表示生产技术的改变，Effch表示投人及规模的变化以及资源配置的改善。由图4可知,2000—2015年Tfpch的变化波动较大，2000—2010年整体呈上升趋势，由1.03增加到1.06;受农产品市场波动和自然灾害的影响[20],2010—2013年Tfpch 波动下降且幅度较大，由1.06下降到0.98;2013年后全省对小麦等农作物进行科学管理，实现了农民的增产增收，Tfpch又开始呈现缓慢上升的趋势，2015年时达到1.18。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Techch与Tfpch趋势相似而Effch与Tfpch趋势相反，说明这一时期内河北省耕地利用全要素生产率的提高主要动力是技术进步，由此表明资源配置优化和扩大耕作规模虽能对耕地利用产生一定的进步作用，但由于耕地后备资源有限，因此新型技术的开发和管理技术的增强才是今后耕地资源利用关注的重点。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4基于Malmquist指数计算的耕地利用分类",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Malmquist指数计算结果中(图5)，当各指数 $> 1$ 时表明有所提升， $\\Lt$ 时则表示不同程度的退步。其中技术变化指数的差别明显，南部地区大多数呈现退步状态，北部地区则多为提升状态；技术进步指数整体有所提升；全要素生产率指数除保定、邢台和衡水等的部分县域外大部分地区皆有所提升。依据Malmquist指数计算结果,从耕地利用效率的内在演化规律出发，依据技术变化指数、技术进步指数和全要素生产率指数的变化将河北省耕地利用效率分为4种类型(表1)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表1耕地利用分类",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c498d39b299a6b3467b1ad9a7ae3c4ac96428286b0a5edd323ab5a4dfc41ff10.jpg",
+        "table_caption": [
+            "Tab.1 Classification of cultivated land use "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>名称</td><td>技术变化指数 技术进步指数 (Effch)</td><td>(Techch)</td><td>全要素生产率 指数（Tfpech)</td></tr><tr><td>综合提高型</td><td>>1</td><td>>1</td><td>>1</td></tr><tr><td>技术进步提高型</td><td>≤1</td><td>>1</td><td>>1</td></tr><tr><td>技术变化提高型</td><td>>1</td><td>≤1</td><td>>1</td></tr><tr><td>综合下降型</td><td>二</td><td>一</td><td>≤1</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图6可知，综合提高型以省域北部为主，同时也包括中南部的石家庄、保定和邯郸等地区的84个县域，占总县域数的 $6 0 . 4 \\%$ 。这类县域耕地利用全要素生产率指数、技术进步指数和技术变化指数均有所提高，这与近年来农业生产技术的革新和生产管理水平的提高有关，一方面提升了耕作技术水平，另一方面优化了农业生产投入要素结构，使得现有资源下的耕地得到充分的利用和开发。技术进步提高型占总县域数的 $2 8 . 1 \\%$ ,主要分布于保定周边和邢台的北部地区，包括宁晋县、高阳县和平山县等39个县域。此区域耕地利用全要素生产率指数的提高主要是由于技术进步引起，新技术的开发和示范田的建立都加强了其耕地利用效率，但同时技术变化指数退步则表明该类型地区的农业管理水平还有待提高。位于保定地区的雄安新区，如何促进其耕地的科学管理，提高利用效率将成为之后关注的重点。技术变化提高型仅存在于衡水市辖区，但具有典型性，这一类型区域技术变化指数的提高弥补了进步指数上升乏力的问题，虽科学技术水平还相对滞后，但是在农业管理技术不断进步和优化的驱动下，充分发挥了地区农业生产优势，促进了耕地利用效率的提高，此区域之后要更多关注生产技术水平的发展。综合下降型以邢台和衡水的部分县为代表，这部分地区整体农业水平较低，今后不仅要提高耕地的规模化种植，合理配置各种要素的投人，还应提高技术和管理制度的适应性，确保现有耕地的科学利用。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/546e3e7fe29c9264b69f1a0d628a022ec9794c4ea42de03b0c02e5146f786d9d.jpg",
+        "img_caption": [
+            "图52000—2015年河北省空间耕地变化指数",
+            "Fig.5Spatial cultivated land change index in Hebei Province from 2ooo to 2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5河北省耕地利用综合效率影响因素分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "耕地利用综合效率变化受多种因素影响，利用GWR模型从自然、经济等方面选取高程、坡度、农业人口占比(农业人口占总人口比重）农业产值占比（农业产值占GDP比重）复种指数(指一定时期内同一地块耕地面积上种植农作物的平均次数，反映的是耕地利用制度)和非粮占比(非粮食作物播种面积占农作物总播种面积的比重)6种影响耕地利用效率的因子探讨其驱动机理。利用GWR模型之前首先需要计算河北省县域尺度下耕地利用综合效率的Moran'sI,结果显示其 $Z$ 值为 $1 . 7 8 , P$ 值为0.07，表示耕地利用综合效率在 $9 0 \\%$ 的置信度下呈现明显的聚类特征，可以利用GWR模型进行回归分析。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "河北省总体耕地利用综合效率回归模型参数显示， $R ^ { 2 }$ 为0.56,拟合度虽然整体偏小，但多数县域驱动因子回归结果显著性较高，因此，结果具有代表性。其中同一影响因子在不同县域的相关性有所不同，在部分县域呈现正相关而其他县域呈现负相关。选取中位数作为各因子的相关系数，原因是当中位数为负值时表明多数地区内该因子对耕地利用综合效率起负向作用，而当中位数为正值时则表示多数地区内该因子对耕地利用综合效率起正向作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "高程和坡度系数分别为-0.00001和-0.00329(表2)，两者与耕地利用综合效率均呈现负相关关系，主要由于海拔和坡度直接影响区域水热和耕作条件，且高海拔和较大坡度地区水土流失严重，土壤保持能力差，因此，对耕地投入相对较少，导致耕地产出受到限制。农业人口占比的系数为-0.064907，原因一方面是由于农业人口比重大的地区经济水平低，农业管理提升和技术发展水平也较低，导致耕地利用综合效率低；另一方面则是农业人口较多地区的户均耕地较小,零散和细碎化的耕地不利于农业的规模化生产。农业产值占比和复种指数的系数分别为0.193860和0.002937，表示农业产值和复种指数高的地区耕地利用综合效率相对较高。农业产值占比较高的地区农业贡献力强，具有农业生产优势，农户利用经验丰富，所以，耕地利用综合效率相对较高；复种指数较高的地区热量好，水分充足，适宜农作物生长，耕地利用综合效率也相对较高。非粮占比的系数为-0.520249，表示随着农业种植结构的改变，经济作物种植多的地区，耕地利用综合效率较低。表2中各因子系数值的大小表示影响程度高低，其中高程、坡度、复种指数以及农业人口占比对河北省耕地利用综合效率影响较小，农业产值占比以及非粮占比等条件影响较大，其中非粮占比影响最为显著。据此，提升地区经济状况、优化经济结构，提高科技水平改善耕作条件将有利于之后河北省耕地利用效率的提高。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/69805897eb09cff2e7e92ec2677424674ec1d5b4dd7ec9c801ff6800dd8db265.jpg",
+        "img_caption": [
+            "图6河北省耕地利用分类 Fig.6 Classification of the cultivated land use in Hebei Province "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "河北省耕地利用效率空间差异明显，西北部地区耕地利用效率多为低值区，此地区生态环境脆弱，自然条件差，未来提升耕地利用效率的同时需兼顾区域生态安全格局。高值区多分布于中南部地区，从长远来看，如何保障未来农业可持续发展是其关注的重点。近年来，在边际报酬递减规律的影响下，经济水平发达或自然条件较为优越区域耕地产能提高受到限制，甚至部分年份耕地利用效率出现下降，所以北部出现了耕地利用相对高值区。本研究发现河北省耕地利用规模是影响耕地利用效率的关键，在乡村振兴及雄安新区建设逐步推进的背景下，减少耕地破碎化程度、保护耕地面积仍不可松懈。基于河北省耕地利用效率的分类，对不同类型区域提出以下不同措施：石家庄等综合提高型应在强化科学性投入的同时关注“耕地疲劳\"现象，政府应建立相应的政策和法规以避免耕地过度使用，促进耕地资源持续发展。技术进步提高型，应重视其管理水平，积极推进技术进步和农业管理协调发展。以衡水为代表的技术变化提高型，未来应加大科技投入，加强耕地整治力度以增加耕地产出。综合下降型，不仅要提高农业生产技术水平、积极调整耕种结构，同时，鉴于技术变化型指数的影响，还应完善科学管理水平，推进农业产业升级。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/dc830152a422a364f85d183e8e7cb052f77fe608d025782d38e856aad25f23e3.jpg",
+        "table_caption": [
+            "表2基于GWR的耕地利用综合效率参数回归结果",
+            "Tab.2 Regression results of overall efficiency parameters of cultivated land use based on GWR "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>影响因子</td><td>最小值</td><td>上四分位值</td><td>中位数</td><td>下四分位值</td><td>最大值</td><td>平均数</td><td>标准差</td></tr><tr><td>高程</td><td>-0.000078</td><td>-0.000038</td><td>-0.00001</td><td>0.000049</td><td>0.000117</td><td>0.000006</td><td>0.000053</td></tr><tr><td>坡度</td><td>-0.002776</td><td>-0.001159</td><td>-0.00329</td><td>0.000347</td><td>0.001079</td><td>-0.000508</td><td>0.001012</td></tr><tr><td>农业人口占比</td><td>-0.197040</td><td>-0.089225</td><td>-0.064907</td><td>-0.03058</td><td>0.034840</td><td>-0.059553</td><td>0.043180</td></tr><tr><td>农业产值占比</td><td>-0.128603</td><td>0.139115</td><td>0.193860</td><td>0.262672</td><td>0.429362</td><td>0.201939</td><td>0.091901</td></tr><tr><td>复种指数</td><td>0.001081</td><td>0.002264</td><td>0.002937</td><td>0.003626</td><td>0.003984</td><td>0.002714</td><td>0.000804</td></tr><tr><td>非粮占比</td><td>-0.571803</td><td>-0.487234</td><td>-0.520249</td><td>-0.547638</td><td>-0.345963</td><td>-0.508701</td><td>0.047439</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "利用DEA指数和Malmquist指数从静态动态两个方面分析了2000—2015年河北省耕地利用效率，基于空间特征和指标结果对河北省耕地利用进行了分区及分类，其中基于功能分区的结果有利于分析河北省耕地利用的空间分异，而基于指标结果的分类则有益于分析耕地利用效率的动态变化规律，最后对河北省耕地利用综合效率的影响因素进行了探讨。本文在指标选取时仅考虑了土地、劳动力投入和资本投入3个方面，同时在计算2000—2015年Malmquist指数时,部分年份缺失指标使用插值法进行推算，以及在计算河北省耕地利用综合效率影响因素分析时得到的 $R$ 值较小，这些都可能对研究精度或产生一定的影响，后续将对上述问题进行深入研究，以便为河北省有限耕地资源持续有效利用及国土空间规划提供更合理的参考。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "利用DEA模型计算了2000年、2005年、2010年、2015年4个时间截面的耕地利用效率并分析了其空间变化特征，同时借助Malmquist指数研究了河北省耕地利用的动态变化情况且进行了影响因素分析。主要结论如下：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）从静态分析看，河北省耕地利用综合效率在波动中上升，其中规模效率是影响耕地利用综合效率的主要因素。2000年、2005年、2010年、2015年4个时期的高值区皆主要分布在环京津核心功能区和冀中南功能扩展区，而冀西北生态涵养区和沿海率先发展区高值区分布较少。河北省耕地利用综合效率呈现一定的空间自相关性，但近年来异质性有所减弱。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）从动态分析来看，全要素生产率指数在波动中上升，大部分区域呈现进步状态。综合提高型分布较广北部较为集中，技术进步提高型主要分布于中南部地区，技术变化提高型仅存在于衡水市辖区，综合下降型分布在中南部区域且较为分散。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3）河北省耕地利用综合效率影响因子分析结果表明，河北省农业产值占比与复种指数与河北省耕地利用综合效率呈现正相关;高程、坡度、农业人口占比和非粮占比与河北省耕地利用综合效率呈负相关。高程、坡度、复种指数以及农业人口占比对河北省耕地利用综合效率影响较小，农业产值占比以及非粮占比等条件影响较大，其中，非粮占比影响最为显著。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References):",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]胡琼,吴文斌,项铭涛,等.全球耕地利用格局时空变化分析[J]. 中国农业科学,2018,51(6):1091-1105.[Hu Qiong,Wu Wenbin,Xiang Mingtao, et al. Spatio-temporal changes in global cultivated land over 2000-2010[J]. Scientia Agricultura Sinica,2018, 51(6): 1091-1105.]   \n[2]赵晓丽,张增祥,汪潇,等.中国近30a耕地变化时空特征及其 主要原因分析[J].农业工程学报,2014,30(3):1-11.[Zhao Xiaoli, Zhang Zengxiang,Wang Xiao,et al. Analysis of Chinese cultivated land’sspatial-temporal changesand causes in recent 30 years[J]. Transactions of the Chinese Society of Agricultural Engineering,2014,30(3): 1-11.]   \n[3]何洪盛,田青,王理德,等.青土湖退耕地植被群落特征与土壤 理化性质分析[J].干旱区研究,2021,38(1):223-232.[He Hongsheng,Tian Qing, Wang Lide,et al. Study on vegetation community characteristics and soil physical and chemical properties of abandoned land in Qingtu Lake[J].Arid Zone Research,2021,38 (1): 223-232.]   \n[4]尚二萍,许尔琪,张红旗,等.中国粮食主产区耕地土壤重金属 时空变化与污染源分析[J].环境科学,2018,39(10):280-293. [Shang Erping,Xu Erqi,Zhang Hongqi,etal. Spatial- temporal trends and pollution source analysis for heavy metal contamination of cultivated soils in five major grain producing regions of China [J].Environmental Science,2018,39(10): 280-293.]   \n[5]欧阳玲,王宗明,贾明明,等.基于遥感的吉林省中西部耕地数 量和质量空间格局变化分析[J].农业工程学报,2016,32(13): 234-242.[Ouyang Ling, Wang Zongming, Jia Mingming, et al. Spatial pattern analysis on quantity and quality of cultivated land in mid- west Jilin Province based on remote sensing[J]. Transactions of the Chinese Society of Agricultural Engineering,2016, 32 (13): 234-242.]   \n[6]周利颖,李瑞平,苗庆丰,等.内蒙古河套灌区紧邻排干沟土壤 盐渍化与肥力特征分析[J].干旱区研究,2021,38(1):114-122. [Zhou Liying, Li Ruiping,Miao Qingfeng, et al. Characteristics of salinization and fertility of saline-alkali soil adjacent to drainage ditch in Hetao irrigation area of Inner Mongolia[J].Arid Zone Research,2021,38(1): 114 -122.]   \n[7]柯映明,沈占锋,白洁,等.水资源约束下的渭干河流域耕地适 宜规模[J].干旱区研究,2020,37(3):551-561.[Ke Yingming, Shen Zhanfeng,Bai Jie,et al. Suitable scale of arable land in the Weigan River Basin under the constraints of water resources[J]. Arid Zone Research,2020,37(3): 551-561.]   \n[8]陈晨,伍国勇.基于四阶段DEA的安徽省耕地利用效率分析 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[J].水土保持通报,2018,38(4):294-300.[Chen Chen,Wu Guoy",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ong.An analysis on efficiency of arable land utilization in Anhui Province based on four-stage DEA model[J]. Bulletin of Soil and Water Conservation,2018,38(4): 294-300.] [9]黄晶,马蓓蓓,薛东前.基于SE-DEA模型的西安市土地利用效 率及优化对策[J].干旱区研究,2015,32(3):630-636.[Huang Jing,Ma Beibei, Xue Dongqian.Research on land use efficiency and optimal strategies in Xi'an based on SE-DEA model[J].Arid Zone Research,2015,32(3): 630-636.] [10] 黄祥芳.面源污染视角下江西省耕地利用效率研究[J].中国农 业资源与区划,2018,39(12):177-183.[Huang Xiangfang.A study onefficiency of cultivated land use of JiangxiProvince from the perspective of non-point source pollution[J]. Chinese Journal of Agricultural Resources and Regional Planning,2018,39(12): 177-183.] [11] 陈丹玲,卢新海,匡兵.基于随机森林的耕地利用效率测度模型 构建及其应用[J].自然资源学报,2019,34(6):1331-1344. [ChenDanling,Lu Xinhai,Kuang Bing.Measurement ofcultivated land utilization efficiency: Construction and application of random forest[J]. Journal of Natural Resources,2019,34(6): 1331-1344.] [12] 徐秋,雷国平,杨厚翔.黑龙江省耕地利用效率时空差异及影响 因素研究[J].中国农业资源与区划,2017,38(12):33-40.[Xu Qiu,Lei Guoping,Yang Houxiang.Spatial- temporal difference and influencing factors of cultivated land use efficiency in Heilongjiang Province[J]. Chinese Journal of Agricultural Resources and Regional Planning,2017,38(12): 33-40.] [13] 谢花林,张道贝,王伟,等.鄱阳湖生态经济区耕地利用效率时 空差异及其影响因素分析[J].水土保持研究,2016,23(5):214-   \n221.[Xie Hualin,Zhang Daobei, Wang Wei, et al.Analysis of cultivated land use efciency and its influencing factors for Poyang Lake Ecological Economic Zone[J]. Research of Soil and Water Conservation,2016,23(5): 214-221.] [14]吴冬林,何伟,李政,等.基于DEA-ESDA的四川省耕地利用效 率时空分异及影响因素研究[J].四川师范大学学报(自然科学 版),2020,43(2):270-276.[Wu Donglin,He Wei,Li Zheng,et al. Research onthe spatial-temporal differentiation and influencing factors of cultivated land use efficiency in Sichuan Province based on DEA-ESDA[J]. Journal of Sichuan Normal University (Natural Science),2020,43(2): 270- 276.] [15]王海力,韩光中,谢贤健.基于DEA模型的西南地区耕地利用 效率时空格局演变及影响因素分析[J].长江流域资源与环境,   \n2018,27(12): 2784- 2795.[Wang Haili,Han Guangzhong,Xie Xianjian. Spatiotemporal pattrn evolvement based on the DEA model and its driving factors of arable land utilization effciency of the Southwest Region in China[J]. Resources and Environment in the Yangtze Basin, 2018,27(12): 2784-2795.] [16]盖兆雪,孙萍,张景奇.环境约束下的粮食主产区耕地利用效率 时空演变特征[J].经济地理,2017,37(12):163-171.[Gai Zhaoxue,Sun Ping,Zhang Jingqi.Cultivated landutilization effciency and its difference with consideration of environmental constraints in major grain producing area[J]. Economic Geography,2017,37 (12): 163-171.]   \n[17] 张荣天,焦华富.中国省际耕地利用效率时空格局分异与机制 分析[J].农业工程学报,2015,31(2): 277-287. [Zhang Rongtian, Jiao Huafu.Spatial-temporal pattern differentiation and its mechanism analysis of using efciency for provincial cultivated land in China[J]. Transactions of the Chinese Society of Agricultural Engineering,2015,31(2): 277-287.]   \n[18] 张立新,朱道林,谢保鹏,等.中国粮食主产区耕地利用效率时 空格局演变及影响因素——基于180个地级市的实证研究[J] 资源科学,2017,39(4): 608-619. [Zhang Lixin,Zhu Daolin,Xie Baopeng,etal.Spatiotemporalpattrn evolvementand driving factors of cultivated land utilization efficiency of the major grain producing area in China[J]. Resources Science,2017,39(4): 608-619.]   \n[19] 王刚,廖和平,李涛,等.精准扶贫背景下贫困农户识别对耕地 利用效率的影响——以重庆市石柱土家族自治县为例[J]. 西 南大学学报(自然科学版),2019,41(1):1-9.[Wang Gang,Liao Heping,Li Tao,et al.The impact of poor farmer household identification on cultivated land use efficiency under the background of targeted poverty alleviation: A case study of Shizhu County of Chongqing[J]. Journal of Southwest University (Natural Science Edition),2019,41(1): 1-9.]   \n[20]Odeck J. Statistical precision of DEA and Malmquist indices: A bootstrap aplication to Norwegiangrain producers[J]. Omega, 2009,37(5): 1007-1017.   \n[21] 盖兆雪,孙萍,张景奇.环境约束下的粮食主产区耕地利用效率 时空演变特征[J].经济地理,2017,37(12):163-171.[Gai Zhaoxue,Sun Ping,Zhang Jingqi. A study on with the cultivated land utilization efficiency and its difference with consideration of environmental constraints in major grain producing area[J]. Economic Geography,2017,37(12): 163-171.]   \n[22] Charnes A, Cooper W W,Rhodes E. Measuring the efficiency of decision making units[J]. European Journal of Operational Research,1978,2(6): 429-444.   \n[23] 彭建,刘志聪,刘焱序,等.京津冀地区县域耕地景观多功能性 评价[J].生态学报,2016,36(8): 2274-2285.[Peng Jian,Liu Zhicong,Liu Yanxu, et al. Assessment of farmland landscape multifunctionality at county level in Beijing-Tianjin-Hebei area[J].Acta Ecologica Sinica, 2016,36(8): 2274-2285.]   \n[24] 陈振,李佩华.基于灰色Malmquist-DEA的中国粮食生产效率 分析[J].数学的实践与认识,2017,47(15):155-162.[Chen Zhen,Li Peihua.Analysis of grain production eficiency in Chinese based on grey Malmquist- DEA[J]. Mathematics in Practice and Theory,2017,47(15): 155-162.]   \n[25] 王文刚,李汝资,宋玉祥,等.吉林省区域农地生产效率及其变 动特征研究[J].地理科学,2012,32(2):225-231.[Wang Wengang,Li Ruzi, Song Yuxiang,et al.The various components of agricultural land production efficiency in Jilin Province,China[J]. Scientia Geographica Sinica,2012,32(2): 225-231.]   \n[26] 马世五,谢德体,张孝成,等.三峡库区重庆段土地生态状况时 空格局演变特征[J].生态学报,2018,38(23):8512-8525.[Ma Shiwu, Xie Deti, Zhang Xiaocheng,et al. Spatiotemporal variation inthecologicalstatusoftheTe GorgesResevieaCng ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A study of cultivated land utilization efficiency and its influencing factors in Hebei Province based on DEA-Malmquist index ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ZHAO Qianshi1²， PAN Peipei'²,， WANG Xiaoxu³， WANG Xueran'²2, WANG Xiaomeng1²， LI Ning4， WANG Xinyun5   \n(1.College ofResourcesandEnvironmental Sciences,HebeiNormal University,ShijiazhuangO5o24,Hebei,China;   \n2.Hebei Laboratoryof Environmental Evolutionand Ecological Construction,Shijiazhuang O5oo24,Hebei,China; 3.Planning and Construction Bureau of Hebei Xiong'an New Area Management Commitee, Xiong'an 071799, Hebei, China; 4.Heilongjiang Academy ofLand Reclamation Science,Harbin 15oo38,Heilongjiang, China; 5. Breding Base for State Key Laboratoryof Land Degradation and Ecological Restoration in Northwest China, Ningxia University,Yinchuan 750O21,Ningxia, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The improvement of arable land use eficiency is of great significance to ensure food security in the main grain production areas,given the rapid non-agriculturalization of arable land brought on by urbanization. This study used the DEA model,the Malmquist index,and the GWR model to analyze the temporal and spatial characteristics,dynamics,and influencing factors of the cultivated land use efficiency in Hebei Province, China from 2000 to 2015 at the county scale. The results showed the comprehensive efficiency，pure technical efficiency，and scale efficiency of arable land use was maintained at a relatively high level of $0 . 8 – 1$ .The comprehensive effciencyof arable land use first decreased from O.9 to O.8 by 2Oo3,then had a volatility increase to reach1 in 2O15.From a spatial point of view,the overall efficiency of cultivated land utilization between regions changed significantly,and theregional homogeneity increased.In regards to dynamic changes,the total factor productivity index of arable land use fluctuated from 1.03 to 1.18.The comprehensive improvement of arable land use was mainly distributed in the northern part of the province，whereas the improvement of technological progress was distributed in central and southern Hebei,and the improvement of technological change only existed in the Hengshui City district,and the comprehensive descending type was scattered in the central and southern regions.From the perspective of influencing factors,the comprehensive efciency of arable land under a certain probability level was positively correlated with the proportion of agricultural output value and the multiple crop index,and was negatively correlated with the elevation，slope,proportion of agricultural population,and proportion of non-grain crops. Among them,elevation,slope,the multiple cropping index,and he proportion of agricultural population had litle influence.The proportion of agricultural output value and the proportion of non-grain were more obvious,with the proportion of non-grain having the most significant influence with a correlationcoeffcient of-0.520249. Based on these results,suggestions are given to improve the arable land use efficiency. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Keywords:cultivated land use efciency； DEA-Malmquist; spatiotemporal pattrn； influencing factors；HebeiProvince",
+        "page_idx": 9
+    }
+]

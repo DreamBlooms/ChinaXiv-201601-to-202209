@@ -1,0 +1,459 @@
+[
+    {
+        "type": "text",
+        "text": "基于BDD算法的故障诊断研究与应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李淑英」 汪培桢²　杨　春²(1.南宁轨道交通集团有限责任公司南宁 5300292.北京交通大学北京市轨道交通电气工程技术研究中心北京100044)",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/4c2b12914049451039a01ee234aac3db334f6c4da180d256941de6b8d245a0b0.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李淑英女 1989年生，硕士研究生，主要研究方向为车辆通信与故障诊断技术。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：故障树分析法在运用过程中容易产生“维数爆炸”等问题，本文重点研究基于BDD 算法的故障树分析法，分析故障树转化为BDD的方法，并基于BDD算法求解顶事件发生的概率以及底事件的结构重要度，最后采用该算法进行算例分析与应用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：故障树分析法BDD 算法故障诊断 结构重要度中图分类号：TP274",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research and Application of Fault Diagnosis Based on BDD ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Li Shuying'Wang Peizhen² Yang Chun2 (1.Nanning Rail Transit Co.,Ltd. Nanning530021 China 2.Beijing JiaotongUniversityBeijing100044 China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c09e07b4f77e024f5d535fb30160a44ec889805fbebdfa88c604e494236ca16.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The process of applying fault tree analysis easily lead to \"dimension explosion\" and other issues.The BDD-based algorithm of fault tree analysis is studied in the paper,and the method of transformation from fault tree to BDD is analyzed. The top event probability and structural importance of the end of the event based on BDD algorithm is solved. Finally using this algorithm analyze and apply to example. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Fault tree analysis, BDD algorithm, fault diagnosis, structure importance ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "汪培桢女 1993年生，硕士，主要研究方向为电力电子与电力传动。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "故障树分析法（FaultTreeAnflysis，FTA）于1961年由美国贝尔实验室的科研人员首先提出，最先运用于火箭发射安全评估系统，取得了良好的效果。随后波音公司分别在定性和定量上发展了故障树分析法[1]。故障树分析法采用图形演绎的方式清晰表达系统的内在联系，直观性强、灵活性高。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "故障树定性分析的目的是寻找故障树最小割集。最小割集是导致系统故障发生的基本原因的最小组合，描绘了系统的最薄弱环节。传统故障树定性分析最小割集主要采用下行法或上行法求解。但当系统故障树的复杂程度增加时，容易产生“组合爆炸”问题。为解决这一问题，可以采用BDD算法将故障树化成不交化形式，再做进一步分析[2]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 BDD算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "二元决策图（Binary Decision Diagram，BDD）[3]于1978 年由 Sheldon.B.Akers 首先提出，被广泛应用于故障诊断和可靠性领域。BDD是将所有节点通过0或者1标识连接起来的有向无环图，通过简化布尔函数的Shannon分解树得到，其实质是最小割集的和[4]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Shannon分解定理可以概括为：假设 $f ( x _ { 1 } , x _ { 2 } ;$ $\\cdots , x _ { n } )$ 是任一布尔函数， $x _ { i } ( i = 1 , 2 , \\cdots , n )$ 是 $f ( x )$ 的任一自变量， $f _ { 0 }$ 表示 $x _ { i }$ 取值为0时的表达式， $f _ { 1 }$ 表示 $x _ { i }$ 取值为1时的表达式，则 $f ( x )$ 可以表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( x _ { 1 } , x _ { 2 } , \\cdots , x _ { n } ) = x _ { i } \\cdot f _ { 1 } + { \\overline { { x } } } _ { i } \\cdot f _ { 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\overline { { x } } _ { i }$ 为 $x _ { i }$ 取非。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由式（1）可知， $f _ { 1 }$ 和 $f _ { 0 }$ 都是布尔函数，运用Shannon分解定理将原函数分解到不能再进行为止，即可得到不交化结果。将故障树向BDD转化的过程需要使用ite（if-then-else）规则，其实质是Shannon分解树表达式的转化形式，ite（if-thenelse）规则数学表达式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ni t e ( x _ { i } , f _ { 0 } , f _ { 1 } ) = x _ { i } \\cdot f _ { 1 } + \\overline { { x } } _ { i } \\cdot f _ { 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用ite（if-then-else）规则递归方式从故障树的最底事件开始逐层向上，每步置换均采用ite规则进行编码，直到使用底事件来替换所有逻辑门，最终求出顶事件的 ite 结构，即顶事件的BDD[5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设 $M = i t e ( x _ { i } , F _ { 1 } , F _ { 0 } )$ ， $N = i t e ( x _ { j } , \\ G _ { 1 } , \\ G _ { 0 } )$ 为两个BDD子结构，故障树底事件排序为 $x _ { 1 } < x _ { 2 } < \\cdots$ （20$< x _ { n } ( x _ { i } , x _ { j } \\in \\{ x _ { 1 } , x _ { 2 } , \\ \\cdots , x _ { n } \\} )$ ， $M$ 和 $N$ 经过规范后由含有“与”、“或”逻辑门和底事件构成，可以通过ite 结构连接，连接过程遵守如下规则。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1) 当 $x _ { i } = x _ { j }$ 时， $M < O P > N = i t e ( x _ { i } , F _ { 1 }$ $< O P > N _ { 1 } , F _ { 0 } < O P > N _ { 0 } ) _ { \\circ }$ (2) 当 $x _ { i } < x _ { j }$ 时， $M < O P > N = i t e ( x _ { i } , F _ { 1 }$ $< O P > N , F _ { 0 } < O P > N )$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3基于BDD算法的故障树顶事件发生概率及结构重要度分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1顶事件发生的概率",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "BDD分解后的结构函数积的和不相交，顶事件概率的求解过程不需要考虑化相交和为不交和的计算。求顶事件发生概率搜索是从根结点开始，通过从根结点向下回溯所有“1”终结点，写出故障树的对应不交化的表达式，再利用互斥事件概率和的算法求出顶事件发生的概率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2结构重要度分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "底事件结构重要度指部件在系统所处位置的重要程度，与部件本身故障概率无关[5]。通过故障树结构重要度分析，可对结构重要度较大的部件进行检测和试验，提前做出防范决策，对提高系统可靠性和安全性能有重要意义[]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "若故障树中有 $n$ 个底事件，第 $i$ 个部件从正常状态（记为 $x _ { i } = 0$ ）变为故障状态（记为 $x _ { i } = 1$ )，其他基本事件状态不变， $\\varPhi ( 0 _ { i } , X )$ 表示底事件 $i$ 处于正常状态 $\\left( x _ { i } = 0 \\right.$ )，其他基本事件为任意情况时顶事件的状态逻辑值， $\\phi ( 1 _ { i } , X )$ 表示基本事件 $i$ 处于故障状态 $\\left( x _ { i } = 1 \\right.$ )，其他基本事件为任意情况时顶事件的状态逻辑值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "系统顶事件可能有以下四种情况：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1) $\\varPhi ( 0 _ { i } , X ) = 0 \\longrightarrow \\varPhi ( 1 _ { i } , X ) = 1$ (2) $\\phi ( 0 _ { i } , X ) = 0 \\longrightarrow \\phi ( 1 _ { i } , X ) = 0$ (3) $\\phi ( 0 _ { i } , X ) = 1 \\ : \\longrightarrow \\ : \\phi ( 1 _ { i } , X ) = 1$ (4) $\\phi ( 0 _ { i } , X ) = 1 \\longrightarrow \\phi ( 1 _ { i } , X ) = 0$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以上四种情况中，情况（1）说明了底事件 $i$ 从0到1的变化，导致顶事件状态从 $\\varPhi ( 0 _ { i } , X ) = 0$ 变到$\\varPhi ( 1 _ { i } , X ) = 1$ ，其余的 $n - 1$ 个基本事件可能有 $2 ^ { n - 1 }$ 种状态。结构重要度将所有情况（1）的次数累加，再除以 $2 ^ { n - 1 }$ ，所得的数据用来表示基本事件 $i$ 对系统故障的贡献大小程度。结构重要度计算公式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { i } ^ { \\phi } = \\frac { 1 } { 2 ^ { n - 1 } } n _ { i } ^ { \\phi }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $n _ { i } ^ { \\phi } = \\sum \\Bigl [ \\phi ( 1 _ { i } , X ) - \\phi ( 0 _ { i } , X ) \\Bigr ] , i = 1 , 2 , \\cdots , n _ { \\circ }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4基于BDD算法的故障诊断逻辑推理流程",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "故障树转化成BDD采用ite（if-then-else）规则，为实现这一功能，先定义变量ITE_str和变量BDD_str。变量ITE_str存储 ite 结构，包括 ite结构名、结构中的三个元素，变量BDD_str存储二叉树形式的BDD。故障树转化成BDD的运算流程如图1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c3c5fbe3c2c797b6ec85cd99c4e5a33d9f843860058e06985ae8cb4730177ef3.jpg",
+        "img_caption": [
+            "图1故障树转化成对应BDD 的算法流程 Fig.1Algorithm process of fault tree turn into its corresponding BDD "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "运用故障树分析法对系统进行故障诊断，可使用BDD算法先将故障树不交化，再进行定性分析和定量分析。诊断流程如图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/870a3655a9bc09d7936f5b6b777f04b7e46e1a6062f4eb57f8cc2cfb673c9133.jpg",
+        "img_caption": [
+            "图2基于故障树分析法的故障诊断流程 Fig.2Flowchart of fault diagnosis based on fault tree analysis method "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5基于BDD算法的牵引变流器故障诊断应用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "牵引变流器综合逻辑判断实现列车牵引、制动功能，对其关键设备进行故障分析、提高系统可靠性、故障发生后快速定位故障原因并做出诊断措施尤为重要。如果出现模块故障，即进行快速诊断。牵引变流器模块正常工作温度在 $2 0 \\sim 8 5 \\mathrm { ^ circ C }$ 之间。图3所示为牵引变流器模块温度控制系统结构图，牵引变流器模块温度由温度传感器采集输入调理板，调理板将输入的电流信号转化成DSP可识别的电压信号，经过A-D采集模块进入DSP中换算成实际温度。若换算后的温度表明IGBT温度大于 $3 5 ^ { \\circ } \\mathrm { C }$ ，则发出D-A转速控制信号，起动风机为牵引变流器模块散热，风机的起停状态通过DI反馈至DSP主控板。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ef3c65d2ec43bacb36e1605f017a661c78ec6ec395038f362f20d079a7b7cf5.jpg",
+        "img_caption": [
+            "图3牵引变流器模块温度控制系统结构图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "牵引变流器模块过温故障为系统检测到模块温度高于 $8 5 \\mathrm { { ^ \\circ C } }$ ，模块立即封脉冲，等待系统恢复故障才能重新启动。根据图3所示的温度控制模块系统结构图，建立系统故障树，列出牵引变流器模块过温故障的故障树事件见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "牵引变流器模块温度控制系统功能进行分析后，建立故障树如图4所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/779aca2c0cc3fffa568c91e6ee765cfc8fe3e46a1abab6efce98564a958b3948.jpg",
+        "img_caption": [
+            "Fig.3Temperature control system structure of traction converter module ",
+            "图4牵引变流器模块温度控制系统结构图",
+            "Fig.4Temperature control system structure of traction converter module "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从底层逐步使用ite结构换算，最终得到如图5所示故障树对应的BDD。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从终结点开始，逐步向上搜索所有“1”分支，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1故障树事件",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/fffcfab26998277c326aa58937c63104d271b733adbefa7009bddcc73ad0f503.jpg",
+        "table_caption": [
+            "Tab.1 Fault tree events "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">顶事件</td><td colspan=\"3\">中间事件</td><td colspan=\"2\">底事件</td></tr><tr><td>编号</td><td>事件</td><td>编号</td><td>事件</td><td>编号</td><td>事件</td><td>编号</td><td>事件</td></tr><tr><td rowspan=\"10\"></td><td rowspan=\"10\"></td><td rowspan=\"10\"></td><td rowspan=\"10\"></td><td rowspan=\"2\">G4</td><td rowspan=\"2\">风机信号故障</td><td>E E</td><td>控制信号线路故障 反馈信号线路故障</td></tr><tr><td></td><td></td></tr><tr><td rowspan=\"2\">G5</td><td>风机故障</td><td>辅助供电系统故障导致谐波变大</td></tr><tr><td>E4</td><td>风机滤波装置故障</td></tr><tr><td rowspan=\"2\"></td><td rowspan=\"2\">G6 风机线路故障</td><td>E</td><td>风机内部线路故障</td></tr><tr><td>E E</td><td>风机外部接线故障</td></tr><tr><td rowspan=\"2\">G</td><td rowspan=\"2\"></td><td></td><td></td><td>调理板故障</td></tr><tr><td>Es</td><td>DSP 采样故障</td></tr><tr><td>G</td><td>温度传感器故障</td><td></td><td>E E10</td><td>温度传感器故障</td></tr><tr><td>G4</td><td>辅助系统故障引起锁机</td><td></td><td></td><td></td><td>辅助故障引起系统锁机，风机无法起动</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ed97fbe05e3ab7a3d445fec058a788934ec7eb59cd92762a4bc9a61ae889430f.jpg",
+        "img_caption": [
+            "图5牵引变流器模块过温故障BDDFig.5BDD of traction converter module overtemperature fault"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "代入结构式，牵引变流器模块过温故障全部最小割集为 $\\{ E _ { 1 } \\}$ ， $\\{ E _ { 2 } \\}$ ， $\\{ E _ { 3 } , E _ { 4 } \\}$ ， $\\{ E _ { 5 } \\}$ ， $\\{ E _ { 6 } \\}$ ， $\\{ E _ { 7 } \\}$ ， $\\{ E _ { 8 } \\}$ ，$\\{ E _ { 9 } \\}$ ， $\\{ E _ { 1 0 } \\}$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据全部最小割集可知，除最小割集 $\\{ E _ { 3 } , E _ { 4 } \\}$ 外，其他均为一阶最小割集，即其他底事件是系统的薄弱环节，每个底事件发生均会导致模块过温故障。在实际处理过程中，应该注意尽量降低一阶最小割集中事件发生的概率，例如，为调理板加上绝缘和抗干扰保护措施，降低调理板出现故障的概率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据BDD的性质可知，转化后的BDD反映了系统的所有故障模式，从根结点向下逐一搜索终结点为“1”的路径，就能写出顶事件发生的概率的表达式。将每一条路径用 $F _ { i }$ 来表达，则 $F _ { i }$ 的表达式见表2。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/65ffa200f1a18191cb3c36fd5303c3773b36a4ff543b638a62c24b48bd9fe739.jpg",
+        "table_caption": [
+            "表2 $F _ { i }$ 表达式",
+            "Tab.2Expression of $F _ { i }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>F=E</td><td>F=EE</td></tr><tr><td>F=EEEE5</td><td>F=EEEEE6</td></tr><tr><td>F=EEEEEE,</td><td>F=EEEEEE,E</td></tr><tr><td>F=EEEEEEEE</td><td>F=EEEEEEEEE0</td></tr><tr><td>F=EEEE4</td><td>F=EEEEE5</td></tr><tr><td>F=EEEEEE6</td><td>F=EEEEEEE</td></tr><tr><td>F=EEEEEEE,E8</td><td>F4=EEEEEEE,EE,</td></tr><tr><td>F5=EEEEEEEEEE0</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "牵引变流器模块过温故障的故障树结构函数不交化表达式为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT = \\sum _ { i = 1 } ^ { 1 5 } F _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对故障树进行定量分析，需要根据大量的数据理论和实验得出系统各个设备的故障概率。本示例在缺少可靠数据情况下，采用假设数据来进行计算和验证。假设本示例中 $E _ { i } ( i = 1 , 2 , \\cdots , 1 0 )$ 这10个底事件的故障概率均为 $0 . 2 \\%$ ，结合式 (4)，则有",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { p ( T ) = p ( E _ { 1 } ) + p ( \\overline { { { E } } } _ { 1 } ) p ( E _ { 2 } ) + \\cdots + } } \\\\ { { p ( \\overline { { { E } } } _ { 1 } ) p ( \\overline { { { E } } } _ { 2 } ) p ( E _ { 3 } ) p ( \\overline { { { E } } } _ { 4 } ) p ( \\overline { { { E } } } _ { 5 } ) p ( \\overline { { { E } } } _ { 6 } ) p ( \\overline { { { E } } } _ { 7 } ) p ( \\overline { { { E } } } _ { 8 } ) p ( \\overline { { { E } } } _ { 9 } ) p ( E _ { 1 0 } ) \\nonumber } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "求底事件结构重要度，首先根据故障树结构容易判断出 $E _ { 1 }$ ， $E _ { 2 }$ ， $E _ { 5 }$ ， $E _ { 6 }$ ， $E _ { 7 }$ ， ${ { E } _ { 8 } }$ ， ${ \\bf E } _ { 9 }$ ， $E _ { 1 0 }$ 的结构重要度一样， $\\boldsymbol { E } _ { 3 }$ 、 $E _ { 4 }$ 的结构重要度相等。然后各个底事件统计满足 $\\varPhi ( 0 _ { i } , X ) = 0 \\longrightarrow \\varPhi ( 1 _ { i } , X ) = 1$ 判断条件的情况，根据式（3）即可计算各个底事件的结构重要度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据故障树最小割集及对应的BDD可知， $E _ { 3 }$ 取值从0变化到1引起系统状态从0变化到1的情况总共有一种， $E _ { 1 }$ 取值从0变化到1引起系统状态从0变化到1的情况总共有3种， $E _ { 3 }$ 和 $E _ { 1 }$ 引起的系统状态值改变分别见表3、表4。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/e0d59bc7c84dbe25ef8e6c0da9c62667c51600fa446a2ecc2c6b69954c2aa205.jpg",
+        "table_caption": [
+            "Tab.3System change the status value by $E _ { 3 }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>底事件</td><td>E</td><td>E</td><td>E</td><td>E4</td><td>E</td><td>E6</td><td>E</td><td>E8</td><td>E9</td><td>E10</td></tr><tr><td>Φ(0, X)=0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Φ0, X)=1</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表4 $E _ { 1 }$ 引起系统状态值改变",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/ccbd237bea66244b1c2d832ec57345dfc4fb7fc100b2217ba03f8c3c361b7219.jpg",
+        "table_caption": [
+            "表3 $E _ { 3 }$ 引起系统状态值改变",
+            "Tab.4System change the status value by $E _ { 1 }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>情况</td><td>底事件</td><td>E</td><td>E</td><td>E</td><td>E4</td><td>E</td><td>E6</td><td>E7</td><td>E</td><td>E9</td><td>E10</td></tr><tr><td>1</td><td>Φ(0, X)=0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td></td><td>Φ(0,, X)= 1</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>2</td><td>Φ(0, X)=0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td></td><td>Φ(0, X)=1</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>3</td><td>Φ(0, X)=0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td></td><td>Φ(0,, X)=1</td><td>1</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据以上分析可计算出底事件的结构重要度为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { { \\displaystyle { \\left[ I _ { 1 } ^ { \\phi } = I _ { 2 } ^ { \\phi } = I _ { 5 } ^ { \\phi } = I _ { 6 } ^ { \\phi } = I _ { 7 } ^ { \\phi } = I _ { 8 } ^ { \\phi } = I _ { 9 } ^ { \\phi } = I _ { 1 0 } ^ { \\phi } = \\frac { 3 } { 2 ^ { 9 } } \\right. } } } } \\\\ { { { \\displaystyle { \\left. I _ { 3 } ^ { \\phi } = I _ { 4 } ^ { \\phi } = \\frac { 1 } { 2 ^ { 9 } } \\right. } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由计算结果可知， ${ E } _ { 1 \\setminus \\mathrm { ~ } } \\ { E } _ { 2 \\setminus \\mathrm { ~ } } \\ { E } _ { 5 \\setminus \\mathrm { ~ } } \\ { E } _ { 6 \\setminus \\mathrm { ~ } } \\ { E } _ { 7 \\setminus \\mathrm { ~ } } \\ { E } _ { 8 \\setminus \\mathrm { ~ } }$ （204${ \\bf E } _ { 9 }$ ， $E _ { 1 0 }$ 的结构重要度大于 $\\phantom { + } E _ { 3 }$ 和 $E _ { 4 }$ ，可见，前者这8个底事件对于系统发生牵引变流器模块过温故障的贡献程度更大，因此，在安排防范措施时优先考虑会有更好的效果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过对牵引变流器模块过温故障进行定性分析可知，系统的薄弱环节是一阶的割集，如果出现模块过温故障，优先考虑是薄弱环节引起，可以较快",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "地定位故障原因，对系统的维修和升级有重要指导意义。通过对模块过温故障顶事件发生的概率计算可以预测系统出现故障的频率，本文使用的假设数据计算结果表明顶事件出现概率 $1 . 5 8 9 \\%$ 较高，在使用前应该多次对各个底事件进行故障排查，例如，可以通过线路选择、安装工艺等方面严格要求尽量避免出现外部线路故障。对于本例来说，结构重要度结果表明割集中一阶割集的底事件对系统故障贡献最高，还是以降低一阶割集底事件发生的概率对提高系统安全可靠性更重要。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文重点研究基于BDD算法的故障诊断原理，包括故障树转化为BDD、顶事件发生概率计算以及底事件结构重要度分析，并通过算例说明该方法的运用过程。结果表明，基于BDD算法的故障树分析法对故障诊断具有重要的指导意义。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] Marvin Rausand. System reliability theory:models,statistical methods,and applications[M].2nd ed.郭强，等译.北京：国防工业出版社，2010.  \n[2] 徐忠昌．保障性工程[M]．北京：兵器工业出版，2005.  \n[3] Akers S.Binary decision diagrams[J].IEEETransactions on Computers,1978,27(6): 509-516.  \n[4] 陶勇剑，董德存，任鹏．故障树分析的二元决策图方法[J]．铁路计算机应用，2009，18(9)：4-7.Tao Yongjian,Dong Decun,Ren Peng.Binarydecision diagram of fault tree analysis[J].RailwayComputer Application,2009,18(9): 4-7.  \n[5] Zhou H,et al.The study on fault tree analysismethod for building height fall accident[J].CoastalEngineering,2008.  \n[6] 徐亨成，张建国．基于BDD技术下的故障树重要度分析[J]．电子机械工程，200319(6)：1-4.Xu Hengcheng,Zhang Jianguo.The importanceanalysis of fault tree based on the binary decisiondiagram[J].Mechatronic Engineering,20o3,19(6):1-4.",
+        "page_idx": 4
+    }
+]

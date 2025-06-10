@@ -1,0 +1,444 @@
+[
+    {
+        "type": "text",
+        "text": "跨国种业公司并购形成的国际种业竞争新格局变化趋势研究1------以知识产权为例任静 邹婉侬 宋敏  \n（中国农业科学院农业资源与农业区划研究所，北京100081)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：跨国种业企业第三次大规模的兼并重组形成了新一轮的国际种业竞争格局，而知识产权保护则是跨国种业公司兼并重组的最大动力之一。研究跨国种业公司并购形成的核心知识产权的积聚重组，更能深度考察国际种业竞争新格局的变化趋势。趋势之一，美日欧三国仍然是全球育种研发创新活动的主导者和垄断者，大规模的兼并重组，实现了技术和资源的整合，提升了国际种业集中度，全球种业 $4 2 . 7 5 \\%$ 的专利申请量集中在美国、日本和欧盟，并且掌握着全球 $6 4 . 6 8 \\%$ 的DNA重组技术专利。趋势之二，知识产权已经成为跨国种业公司保持市场竞争优势的有力武器，跨国种业公司是核心种业技术专利的拥有者，拜耳/孟山都、中国化工/先正达和杜邦先锋/陶氏的育种专利申请量占全球总育种专利申请量将近 $14 \\%$ ，全球农作物的转化体 $81 \\%$ 以上被跨国种业公司所掌握。对国际种业新格局的变化趋势进行研究分析，可以为我国种业兼并重组提供有价值的政策建议。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：跨国种业企业；育种技术专利；品种权；种业市场份额",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research on the Changing Trend of the New Patern of International Seed Industry Competition Formed by the Merger of Multinational Seed Industry Companies - Take intellectual property as an example ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ren JingZou WannongSong Min ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(Institute of Agriculture Resources and Regional Planning of CAAS， Beijing 10oo81,China) Abstract: The third large-scale merger and reorganization of multinational seed companies have formed a new international seed pattern.， intellectual property protection is one of the biggest drivers of cross-border seed mergers and acquisitions. Studying the accumulation and reorganization of the core intellectual property rights formed by the merger of multinational seed companies, it is possible to further examine the changing trend of the new pattern of international seed industry competition. One of the trends, the United States,Japan and Europe are still the leaders and monopolists of global breeding research and development innovation activities, large-scale mergers and acquisitions,achieving the integration of technology and resources,and promoting the concentration of international seed industry, $4 2 . 7 5 \\%$ of patent applications of the global seed industry is concentrated in the United States, Japan and the European Union,and holding $6 4 . 6 8 \\%$ of the global DNA recombination technology patents. Trend 2，intellectual property has become a powerful weapon for multinational seed companies to maintain market competitive advantage, and multinational seed companies is the owner of core technology patents. Bayer/Monsanto, China Chemical/Syngenta and DuPont Pioneer/Dow's seed patent applications for global breeding is nearly $14 \\%$ ，and more than $81 \\%$ of the global crop transformants are controlled by multinational seed companies. Research and analysis on the changing trend of the new pattern of international seed industry competition can provide valuable policy advice for China's seed industry mergers and acquisitions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Multinational Seed Companies; Breeding Technology Patent; Plant Variety Right; Seed Market Share ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2016年，跨国种业公司在全球农产品价格持续走低和农业紧缩政策的背景下，在全球范围内发起了世界种业第三次大规模收购兼并浪潮2，形成了新一轮的国际种业竞争格局。拜耳首席执行官Wermer Baumann曾言“拜耳与孟山都的结合，不仅能巩固拜耳在育种核心业务的地位，最重要的是能推动拜耳在育种核心领域的全球创新”。因此，跨国种业公司兼并重组是以全球战略为着眼点，希望通过兼并重组，有效配置全球种业优质资源，实现种业资源优势互补，突出种业优势核心业务，提高跨国种业公司创新能力和竞争实力，推动全球种业技术和市场资源整合，最终形成种业寡头垄断竞争格局。本文力图通过研究跨国种业公司兼并形成的核心知识产权积聚重组，考察新一轮的国际种业竞争格局的变化特点与趋势，总结对我国种业兼并重组具有借鉴意义的政策建议。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1数据来源与处理",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1专利数据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文专利数据来源于国家知识产权专利数据库（htp://www.pss-system.gov.cn/)，该数据库收录了103个国家、地区和组织的专利数据，以及引文、同族、法律状态等数据信息，足以分析本文所要阐述的内容和观点，因此选择该数据库作为本文数据样本的来源。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "专利检索按照国际专利分类号（IPC分类号）进行检索，对于育种专利的检索，本文依据OECD公布的《技术领域与IPC分类号对照表》进行检索，检索分类号分别为A01H和C12N15，然后将专利数据按照时间、国别、企业以及分类号进行归类整理。专利数据检索公开日截止到2017年12月31日。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2市场数据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）国际 种子联盟（ISF：International Seed Federation ·http://www.worldseed.org/resources/seed-statistics/",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（2）跨国种业公司2007年-2017年财务报表，包括孟山都、先正达、拜耳三家跨国种业公司。2全球种业知识产权布局",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1美日欧在全球种业专利技术研发中占主导地位，中国已成为主要研发国",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1985-2017年，全球种业专利申请量以每年 $8 . 6 2 \\%$ 的速度持续增长，已突破131万件，（图1)。这些种业专利主要在全球20多个国家和地区进行了申请，其中 $4 2 . 7 5 \\%$ 的专利申请量集中在美国、日本和欧盟（图2)。申请领域主要集中在DNA重组技术（C12N15/09)，其专利申请总量占全球该领域专利申请总量的 $5 7 . 0 2 \\%$ 。可见，无论全球种业格局怎样变化，这三个国家和地区在种业研发中仍然处于领先和主导地位。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，中国也逐步成为种业技术研发的主要国家之一。从1985年，中国专利制度建立，到1993年中国开始公开第一批种业技术专利，中国的种业技术研发每年都有新的突破，尤其是2011年国务院发布了《关于加快推进现代农作物种业发展的意见》之后，中国种业技术专利申请量更是突飞猛进，专利年申请总量占全球申请总量的比例已由1993年的 $0 . 9 1 \\%$ 上升到2017年 $4 1 . 3 8 \\%$ （图3）。在种业技术领域，专利申请主要集中在DNA或RNA片段（C12N15/11）以及使用载体引入外来遗传物质（C12N15/63）两个研究领域，这两个研究领域专利申请量已经占到了全球同领域专利申请总量的 $2 6 . 6 2 \\%$ ，高于欧盟和美国。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a50a6433977364a3a67e89668a605d40516405c6a2e3ec63d1774d21fa97dd7b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 Trends in the number of global seed patent applications from 1985 to 20 ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b559f22d4ef4a264f23892165086de0ee4b303f94aeebb027b449d46983bf75.jpg",
+        "img_caption": [
+            "图1 1985-2017年全球种业专利申请量变化趋势",
+            "图2各个国家种业技术专利申请总量占全球种业专利申请总量的百分比 Figure 2 Total seed industry patent applications in various countries as a Percentage of global total patent applications "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "0 41.3845.00中国专利申请量全球专利申请量 33.98 比  \n60000 百分比% 29. 48 35.0030.00  \n50000  \n40000 1 28 .64 25.00V 20.00  \n30000 13.20 15.00  \n20000 77%8 89310.004.78.99  \n10000 0.9@.68.6@.13.39.54.54.11 2.64 5.000 0.00£66 4664 1665 966 166 866T 666 2000 2001 2202 2205 4000 2055 900 2205 8000 6000 2020 202 2002 1122 4422 2025 205 2427 年",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 China's annual patent applications as a percentage of global annual patent applications ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2品种权已成为各国垄断种业市场的战略性资源",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "植物新品种是农业生产的核心要素，品种权是各国未来农业发展的战略性资源，全球品种权的申请授权量几乎呈直线增长（图4)，截止2016年底，全球品种权的申请量超过32万，有效量达11万以上。图5显示，美国是品种权申请量最多的国家，占全球品种权申请总量的 $1 1 . 5 9 \\%$ ，其次是日本和荷兰。中国品种权申请总量占 $6 . 2 3 \\%$ ，处于第五位。品种权申请总量处于前三位的国家和国际组织（欧盟、美国、荷兰）占据了全球四成以上的品种权申请量，可见，各国不断加大了植物新品种权保护力度，垄断全球种业市场。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从作物种类而言，其他国家的品种权申请主要集中在蔬菜花卉等其他作物，例如日本，仅花卉一种作物的品种权申请量就占据了其国家品种权申请总量的 $7 4 . 2 6 \\%$ ，而我们国家仅有蔬菜花卉的申请量还不到 $1 5 \\%$ ， $80 \\%$ 以上的品种权申请都集中在大田作物，所以发达国家加大在蔬菜花卉等领域拥有者绝对的创新优势和国际竞争力。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/62ff677dcff1bbadc2c7906aada909e8554bdba3e21736445d15b90d9fc96927.jpg",
+        "img_caption": [
+            "Figure 4 Global plant new variety rights application authorization "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6edfef756fda8cf26fe4342b4f16892ac91a7488282c84fb841c4d7929d7bafa.jpg",
+        "img_caption": [
+            "图4全球植物新品种权申请授权量",
+            "图5各国品种权申请量占全球品种权申请量百分比"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 5 Applications for national variety rights as a percentage of global variety rights applications ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3DNA重组技术是全球种业研发关注的热点领域",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表1可以看出，DNA重组技术领域的专利申请量最多，从1985年到 2017年，33 年间突破了58万件，占全球种业技术专利申请总量的 $6 4 . 6 8 \\%$ ，其次是有花植物领域，为70334件，第三位是专门适用于真核细胞宿主的载体或表达系统---用于植物细胞领域。可见，DNA重组技术是种业技术中最基础、最核心和最具竞争力的技术分支，并且创新主体主要通过专利来进行知识产权保护，故这个技术分支的申请量明显领先于其他技术分支。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/9ccb1b4d937859310ff17493439f40008eb5b925d7f0d2ecd0c6a1640ffd370f.jpg",
+        "table_caption": [
+            "表11985-2017年全球种业各技术领域专利申请量排名Table 1 Ranking of patent applications in various technical fields in the global seed industry from1985 to 2017"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>IPC分类号</td><td>技术领域</td><td>公开日</td><td>申请量 （件）</td></tr><tr><td>C12N15/09</td><td>DNA重组技术</td><td>1985-2017</td><td>584903</td></tr><tr><td>A01H5/00</td><td>有花植物，即被子植物</td><td>1985-2017</td><td>70334</td></tr><tr><td>C12N15/82</td><td>专门适用于真核细胞宿主的载体或表达系统 ---用于植物细胞</td><td>1985-2017</td><td>50026</td></tr><tr><td>C12N15/00</td><td>突变或遗传工程；遗传工程涉及的DNA或 RNA，载体（如质粒）或其分离、制备或纯</td><td>1985-2017</td><td>49781</td></tr><tr><td>C12N15/11</td><td>化 DNA或RNA片段</td><td>1985-2017</td><td>46918</td></tr><tr><td>C12N15/12</td><td>编码动物蛋白质的基因</td><td>1985-2017</td><td>40824</td></tr><tr><td>C12N15/63</td><td>使用载体引入外来遗传物质；载体；其宿主</td><td>1985-2017</td><td>37784</td></tr><tr><td>C12N15/113</td><td>的使用；表达的调节 调节基因表达的非编码核酸</td><td>1985-2017</td><td>19097</td></tr><tr><td>A01H4/00</td><td>通过组织培养技术的植物再生</td><td>1985-2017</td><td>1855</td></tr><tr><td>C12N15/10</td><td>分离、制备或纯化DNA或RNA的方法</td><td>1985-2017</td><td>1661</td></tr><tr><td></td><td>由两个或两个以上细胞融合，如原生质体融</td><td></td><td></td></tr><tr><td>C12N15/02 A01H1/02</td><td>合制备杂交细胞 杂交的方法或设备；人工授粉</td><td>1985-2017 1985-2017</td><td>730 423</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从图6可以看出,1985 年-2017年的33年间DNA重组技术一直是世界种业关注的热点领域，2003年DNA重组技术的研究达到高潮，专利申请量达到39000 件。2006年后，DNA重组技术的专利申请量开始下滑，但是有花植物、DNA或RNA片段、专门适用于植物真核细胞宿主的载体这三个技术领域的研究不断深入，专利申请量分别以 $14 . 5 9 \\%$ （2006-2017年）、 $5 3 . 2 0 \\%$ （2010-2017年）、 $2 7 . 0 4 \\%$ （2006-2017年）的速度增长，增长趋势明显。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ed67857e83b9480c94fa72e5c057b3f98bb215a6a11e7f2a4b663d696c95da35.jpg",
+        "img_caption": [
+            "图6种业不同技术分支的全球专利申请趋势"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 6 Trends in global patent applications for different technology branches of the seed industry ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3 跨国种业公司知识产权布局",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1跨国种业公司是全球育种创新成果的主要拥有者",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "育种技术专利最能反映育种创新的成果，表2汇总了8大跨国种业公司的育种技术专利，其中拜耳和孟山都的专利申请量占有绝对的优势，而且当两公司的合并案成功之后，拜耳/孟山都的专利申请量将占全球育种专利申请总量的 $10 . 4 3 \\%$ ，专利申请量全球领先。3大合并公司：拜耳/孟山都、中国化工/先正达和杜邦先锋/陶氏的育种专利申请量占全球总育种专利申请量将近 $14 \\%$ ，可见，跨国种业公司是全球育种创新成果的主要拥有者。另外，尽管各大跨国种业公司平均每项专利研发投入每年都在增加（图7），例如，先正达公司2007年研发一项育种专利所需费用仅为53万美元，但是2017年研发一项育种专利则需花费108万美元，10年间增加了 $1 0 3 . 7 7 \\%$ ，但是它们依然每年都在加大育种研发经费的投入，其目的无疑是要垄断全球育种研发技术领域，占领全球种业技术市场[1]。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/68149df38cce11babac6967f1039eeb21997fa32e7c562a817bc6e89c89329ed.jpg",
+        "table_caption": [
+            "表2跨国种业公司专利申请量",
+            "Table 2 Number of patent applications of multinational seed companies "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>公司名称</td><td>申请量（件）</td><td>所占全球 百分比%</td><td>近五年申请量 (2013-2017)</td><td>近五年所占百分比%</td></tr><tr><td>拜耳</td><td>74825</td><td>5.71</td><td>8808</td><td>11.77</td></tr><tr><td>孟山都</td><td>61973</td><td>4.73</td><td>5113</td><td>8.25</td></tr><tr><td>中国化工/先正达</td><td>24980</td><td>1.91</td><td>7363</td><td>29.48</td></tr><tr><td>杜邦先锋/陶氏</td><td>17477</td><td>1.33</td><td>6403</td><td>36.64</td></tr><tr><td>巴斯夫</td><td>7642</td><td>0.58</td><td>1866</td><td>24.42</td></tr><tr><td>瑞克斯旺</td><td>718</td><td>0.05</td><td>482</td><td>67.13</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/9ab6089b773ba65849effbd101ab0291afc69618f61788f015383ef62a289a81.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>KWS</td><td>340</td><td>0.02</td><td>164</td><td>48.24</td></tr><tr><td>利马格兰</td><td>152</td><td>0.01</td><td>64</td><td>42.11</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/43c174c0f484b0431e1f116bf5acd6e090ecd10d186c4e1b4ddb95c1f4adb0a7.jpg",
+        "img_caption": [
+            "图7跨国种业公司每项专利研发投入年度趋势图"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "跨国种业公司专利申请量增长的技术领域主要集中在突变与遗传工程、有花植物、含有杂环化合物的杀虫剂等领域，例如，孟山都、先正达和杜邦先锋主要专注于植物细胞宿主载体以及有花植物的研究，申请专利分布占其总申请专利的 $2 5 \\%$ 、 $2 7 . 2 3 \\%$ 、 $4 0 . 4 3 \\%$ ，而拜耳公司则专注于有杂环化合物的杀虫剂领域的研究，该领域的专利申请总量占其申请总量的$2 2 . 9 4 \\%$ 。这4大跨国种业公司3个领域的专利申请总量占全球3大领域专利申请总量的$4 1 . 5 4 \\%$ ，可见，跨国种业公司构建的种业技术壁垒以及垄断格局已经形成。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2跨国种业公司仍是全球主要农作物转化事件的垄断者",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "作为转基因育种研究的核心技术成果，转化体的研发与审批为转基因作物产业化提供了重要保障。目前世界农作物的转化体 $81 \\%$ 以上被跨国种业公司所掌握(表3)。孟山都转化体拥有量最多，占总转化体数量的 $2 6 \\%$ ，其次是先正达、拜耳公司。玉米仍然是跨国种业公司获批最多的转化体，例如先正达公司 $96 \\%$ 的转化体都是玉米转化体，可见转基因玉米仍然跨国种业公司研发以及控制全球农业的首选作物。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "另外，根据国际农业生物技术应用服务组织（ISAAA）2017简报显示[2]，截止2016年，复合性状转基因作物占全球转基因作物种植面积的 $41 \\%$ ，仅次于耐除草剂转基因作物（占比为 $47 \\%$ )，所以，具有复合性状的转基因作物转化体便成为了跨国种业公司研发和商业化的重点。表4所示，跨国种业公司具有复合性状的转化体数量占其总转化体数量的 $40 \\%$ 孟山都拥有的复合性状的转化体最多，69个，其次是杜邦先锋、陶氏。从商业化性状而言，耐除草剂和抗虫复合性状的转化体数量最多，占到了总复合性状的 $7 7 \\%$ ，主要集中在玉米、棉花两大作物上，其中玉米的耐除草剂和抗虫复合性状的转化体最多，占 $7 7 \\%$ ，可见，复合性状转基因作物不仅能得到全球农民更多的应用与推广，而且更是跨国种业公司关注的焦点和转基因作物性状发展的主要趋势。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "从以上的分析可以看出，跨国种业公司利用其先进转基因技术，尤其是基因挖掘技术、性状改良技术等垄断了全球农作物市场，使转基因作物的应用率不断提高，例如，从全球单个作物的种植面积来看，2016年转基因大豆的应用率为 $78 \\%$ 、转基因棉花的应用率为 $64 \\%$ ，转基因玉米的应用率为 $2 6 \\%$ ，转基因油菜的应用率为 $24 \\%$ 。所以，无论跨国种业公司的兼并状况如何，他们仍然是全球农作物市场的垄断者[3]。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/ed348734a206a124f0ffdd0c9d86d2759982b1ec691bf1b8bec4bf75d29b84fc.jpg",
+        "table_caption": [
+            "表3跨国种业公司各作物转化体数量",
+            "Table 3 Number of transformants of each crop in multinational seed companies "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>公司</td><td>Argentine Canola</td><td>Cotton</td><td>Maize</td><td>Soybean</td><td>Rice</td><td>Potato</td><td>Sugar Beet</td><td>Alfalfa</td><td>Tomato</td><td>Wheat</td><td>Creeping Bentgrass</td><td>Squash</td><td>Polish</td><td>总和</td></tr><tr><td>BASF</td><td>5</td><td></td><td></td><td>1</td><td></td><td>2</td><td></td><td></td><td></td><td></td><td></td><td></td><td>canola</td><td>8</td></tr><tr><td>Bayer</td><td>26</td><td>13</td><td>5</td><td>8</td><td>3</td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td><td>1</td><td>57</td></tr><tr><td>Bayer and MS</td><td></td><td></td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td></tr><tr><td>Bayer and Syngenta</td><td></td><td></td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td></tr><tr><td>Dow</td><td></td><td>7</td><td>22</td><td>5</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>34</td></tr><tr><td>Dow and DuPont</td><td></td><td></td><td>9</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>9</td></tr><tr><td>DuPont</td><td>3</td><td>1</td><td>32</td><td>7</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>43</td></tr><tr><td>Monsanto and BASF</td><td></td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td></tr><tr><td>Monsanto</td><td>6</td><td>26</td><td>48</td><td>16</td><td></td><td>28</td><td>1</td><td>1</td><td>3</td><td>1</td><td></td><td></td><td></td><td>130</td></tr><tr><td> Monsanto and BASF</td><td></td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td></tr><tr><td>Monsanto and Bayer</td><td></td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td></tr><tr><td>Monsanto and Dow</td><td></td><td>2</td><td>10</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>12</td></tr><tr><td>Monsanto and Dupont</td><td></td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td></tr><tr><td>Monsanto and Forage</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>4</td><td></td><td></td><td></td><td></td><td></td><td>4</td></tr><tr><td>Monsanto and Scotts</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td><td></td><td></td><td>1</td></tr><tr><td>Seminis and Monsanto</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>2</td><td></td><td>2</td></tr><tr><td>Syngenta</td><td></td><td>3</td><td>94</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>97</td></tr><tr><td>andMonsa</td><td></td><td>1</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>2</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/33f56c330d471a6554e925f13bff13985c661e6cee56bb0797c107f0c527e630.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>总计</td><td>40</td><td>53</td><td>225</td><td>39</td><td>3</td><td>30</td><td>2</td><td>5</td><td>3</td><td>1</td><td>1</td><td>2</td><td>1</td><td>405</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/9d890e13e4f4a9bb4a70253965394b80a98ffcfd8b43ab8908523abdf2b1971e.jpg",
+        "table_caption": [
+            "表4跨国种业公司不同作物复合商业化性状的转化体数量",
+            "Table 4 Number of transformants of multi-crop seed company complex commercialization traits "
+        ],
+        "table_footnote": [
+            "注：由于表格太长，本文将表头简化：HT：Herbicide Tolerance（耐除草剂）；PCS：Polinationcontrolsystem（人工控制授粉）；IR：Insect Resistance（抗虫）；AST：Abiotc StresTolerance（耐非生物逆境胁迫）；MPQ:Modified ProductQuality（改变产品质量）；DR：Disease Resistance（抗病）；AG/Y:Altered Growth/Yield（提高产量/高产）。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">公司</td><td colspan=\"2\">Argentine Canola</td><td rowspan=\"2\">cotton</td><td colspan=\"8\">maize</td><td colspan=\"2\"> patato</td><td rowspan=\"2\">总和</td></tr><tr><td>HT and</td><td>HT and HT IR</td><td></td><td>HT and</td><td>AST and</td><td>AST and</td><td>AST</td><td>IR and</td><td>HT</td><td>HT and</td><td>IR and</td><td>HT and IR</td></tr><tr><td>Bayer</td><td></td><td>PCS</td><td></td><td>and IR</td><td>PCS</td><td>HT and IR</td><td>HT</td><td>and IR</td><td>MPQ</td><td>and IR</td><td>MPQ</td><td>DR</td><td>and DR</td><td></td></tr><tr><td>Dow</td><td></td><td></td><td>7 3</td><td>1 20</td><td></td><td></td><td></td><td></td><td></td><td>1</td><td></td><td></td><td></td><td>8 24</td></tr><tr><td>Dow and DuPont-Pioneer</td><td></td><td></td><td></td><td>9</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>9</td></tr><tr><td>DuPont-Pioneer</td><td>1</td><td></td><td></td><td>27</td><td>3</td><td></td><td></td><td></td><td></td><td></td><td>4</td><td></td><td></td><td>35</td></tr><tr><td>Monsanto and BASF</td><td></td><td></td><td></td><td></td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td></tr><tr><td>Monsanto</td><td>1</td><td>12</td><td></td><td>30</td><td></td><td>3</td><td>1</td><td>1</td><td></td><td>2</td><td>5</td><td>10</td><td>4</td><td>69</td></tr><tr><td>Monsantoand Bayer</td><td></td><td></td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td></tr><tr><td>Monsanto and Dow</td><td></td><td></td><td>2</td><td>10</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>12</td></tr><tr><td> Syngenta</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>4</td><td></td><td></td><td></td><td></td><td>4</td></tr><tr><td>总和</td><td>2</td><td></td><td>24</td><td>98</td><td>3</td><td>4</td><td>1</td><td>1</td><td>4</td><td>3</td><td>9</td><td>10</td><td>4</td><td>163</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3跨国种业公司是全国专利种子市场的主导力量",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2016 年-2017年，世界种业进行了第三次的全球种业大并购，即美国杜邦（DuPont）和美国陶氏化学（Dow）两大公司合并、中国化工（Chemchina）以430亿美元收购了种子巨头瑞士先正达（Syngenta）、德国拜耳（Bayer）公司以660 亿美元收购美国孟山都（Monsanto）公司，在完成一系列复杂的资本运作之后，全球农资行业将呈现中、美、德三足鼎立之势。表5显示，三大合并公司占领全球商业化专利种子市场的 $61 \\%$ ，其中拜耳/孟山都和杜邦/陶氏占比分别为 $30 . 1 \\%$ 和 $2 2 . 7 \\%$ ，第三为中国化工/先正达，占 $7 . 9 \\%$ ，由此可见，全球商业化专利种子市场形成了非常明显的双寡头垄断模式[5]。",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/ce9133fed9921d1c6114d857d402c65fef4d9ee70426d4676d48feb539a68d01.jpg",
+        "table_caption": [
+            "表52017年全球专利种业市场分布格局",
+            "Table 5 Distribution pattern of global patent seed market in 2017 "
+        ],
+        "table_footnote": [
+            "资料来源：根据ETC group 和英国Phillips McDougall咨询公司整理得到"
+        ],
+        "table_body": "<html><body><table><tr><td>跨国公司</td><td>市场份额%</td><td>所在国家</td></tr><tr><td>拜耳/孟山都</td><td>30.1</td><td>德国</td></tr><tr><td>杜邦/陶氏</td><td>22.7</td><td>美国</td></tr><tr><td>中国化工/先正达</td><td>7.9</td><td>中国</td></tr><tr><td>利马格兰</td><td>3</td><td>法国</td></tr><tr><td>Land O'Lakes</td><td>3</td><td>美国</td></tr><tr><td>KWS</td><td>3</td><td>美国</td></tr><tr><td>日本坂田</td><td>1</td><td>日本</td></tr><tr><td>丹麦DLS</td><td>1</td><td>丹麦</td></tr><tr><td>其他</td><td>28.3</td><td></td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4结论分析与政策建议",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "知识产权保护已成为跨国种业兼并重组的最大动力之一，本文利用专利和品种权数据，对跨国种业公司并购形成的知识产权积聚重组进行了深入分析，考察了国际种业新格局的变化特点，以期为我国种业兼并重组提供有价值的政策建议。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "从以上的分析结果，可以得出，第一，跨国种业公司的兼并重组实现了技术和资源的整合，直接导致种业行业集中度快速提升，三大跨国种业并购巨头在国际种业市场上更加具有话语权，这成为国际种业新格局的变化特点之一。第二，知识产权已经成为跨国种业公司保持市场竞争优势的有力武器，通过跨国种业并购，实现知识产权整合，扫清种子产业化知识产权障碍，控制和垄断全国商业化种子市场。这是国际种业新格局的变化特点之二。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "面对国际种业新格局变化的形式与特点，我国种业要想在国际种业市场上占有一席之地，必须要加强资源整合和自主创新、大力培育自主知识产权。首先，推进种业资源整合，加快培育我国种业跨国公司。针对国际种业格局的变化趋势，以及外资对我国种业市场的冲击，我国种业公司自身的发展壮大才是保障我国种业安全的根本途径[5]。推进全国种业科研与经营资源整合，加快种子全产业链整合，全力打造中国种业航母，加快培育我国种业领域的跨国公司，提高企业的核心竞争力，增强我国种业企业在国际种业格局中的主导权和控制权。其次，提升种业自主创新能力，制定种业知识产权战略。中国种业企业要想突出重围，必须全面提升种业企业的自主创新能力，制定知识产权战略，有效配置各种知识产权要素，建立核心技术的知识产权防御策略，有能力面对跨国巨头展开知识产权攻势时，利用知识产权战略仍然能够获得全国乃至全球的竞争优势。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[1]吴斌娥.利马格兰种业集团的发展及其对我国种业的启示[J].种子，2015（1)：62-65.Wu Binge.Enlightenment of Limagrain Seed Industry's Development on China[J].seed, 2015(1): 62-65.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[2]国际农业生物技术应用服务组织.2017年全球生物技术/转基因作物商业化发展态势[J].中国生物工程杂志，2018,38（6)：1-8.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "ISAAA .global biotechnology /GM crop commercial development trend in 2017[J]. China Biotechnology,2018,38 (6): 1-8. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[3]王卫中.产业整合与我国种业发展的路径选择[J].农业经济问题，2005（6)：34-37.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Wang Zhongwei.Integration of the Seed Industry in China: A Path Option[J]. Issues In Agricultural Economy,2005 (6): 34-37. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[4] 黄毅，柳思维.国际种业垄断：理论解释、实证解释及趋势[J].华南农业大学学报（社会科学版），2015（1)：79-91.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Huang Yi,Liu Siwei.International Seed Monopoly:Theoretical Explanation, Empirical Study and Trend[J].Journal of South China Agricultural University (Social Science Edition),2015（1): 79-91. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[5] 张宁宁，潘勇辉.种业跨国公司并购与我国种业应对策略的均衡分析[J].农业技术经济，2014(12): 57-67.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Zhang Ningning,Pan Yonghui.Equilibrium Analysis of Transnational merger of Seed Industry and Coping Strategies of Seed Industry in China [J]. Journal of Agrotechnical Economics,2014, (2): 57-67. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[6]韩成英，齐振宇.生物种业发展背景下我国种业贸易现状及对策研究[J].科技管理研究，2015（14):105-109.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Han Chengying,Qi Zhengyu.Research on Trade Situation of Seed Industryand Countermeasures in China under the Biological Seed Industry Background[J]. Science and Technology Management Research,2015（14): 105-109. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[7]宋敏，刘丽军，苏颖异．主要农作物转化事件的专利保护及对我国的启示[J]．中国生物工程杂志,2010,30（11)：112-117.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Song Min, Liu Lijun, Su Yingyi. Patent Protection for Transgenic Events of Major Crops and Policy Implications for China[J]. China Biotechnology,2010,30 （11): 112-117. ",
+        "page_idx": 12
+    }
+]

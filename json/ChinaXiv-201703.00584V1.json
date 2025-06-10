@@ -1,0 +1,267 @@
+[
+    {
+        "type": "text",
+        "text": "Study of tunable monoenergy positron annihilation spectroscopy of polyethylene glycol thin-films\\* ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Peng Kuang(况鹏)1,²,Xiao-Long Han(韩小龙)³,Xing-Zhong Cao(曹兴忠)',Rui Xia(夏锐)',Peng Zhang(张鹏)',and Bao-YiWang(王宝义)1,2+ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Institute of High Energy Physics, Chinese Academy of Sciences, Beijing 100049, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 University of Chinese Academy of Sciences, Beijing 100039, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3 School of Chemical Engineering, Northwest University, Xi'an, Shan'xi 710069, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Doppler broadening and Coincidence Doppler broadening of annihilation radiation experiments have ben performed in three kinds of polyethylene glycol (PEG) membrane formed with different average molecular weight using the tunable monoenergy slow positron probe as a function of implantion energy. The obtained positron annihilation parameters are interpreted from two aspects: surface effect and differences in micro-structure or chemical environment of positron annihilation. The experimental results show that the regulation of densification of PEG molecular packing and distribution uniformity from the near surface layer to bulk region in film forming process can be well realized by changing its molecular weight. Combining a variable monoenergetic slow positron beam and these two positron annihilation spectroscopy methods are powerful tool to study positron annihilation characteristics and for polymeric thin-film fine structure analysis. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: slowpositron; Coincidence Doppler broadening; micro-structure; polyethylene glycol membranes ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS: 78.70.Bj; 61.05.-a; 68.47.Mn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In recent years,a slow positron beam technique with variable monoenergy has been successfully used to determine the free volume related atomic or nanoscale fine structure property in polymeric systems.[1-3] By tuning the incident energy of injected positrons,a variable energy positron beam with an adjustable energy and a narrow energy distribution allows depth-resolved measurements useful in thin film defect studies. Reported results using a variable monoenergetic slow positron probe show a great potential in studying bulk property correlated microstructure defect in polymer membrane materials,and this is important for many industrial applications,such as coatings， gasseparations， and pervaporation.[4-6] Doppler broadening energy spectroscopy (DBES),as a powerful technique to determine the fine layer structure in polymeric film system, has achieving great success in probing the relationship between the free volume related molecular chain packing density in polymers and macroscopic performance.[7-9] However, the analysis of positron annihilation parameter obtained from DBES is a challenge since the obtained positron annihilation spectroscopy signals was an integration of its dispersed depths in polymer samples,and contaminated in the beam chamber with the positrons reflected or back-diffuse to the surface. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "There exists a practical problem or drawback in using DBES for micro-structural analysis which are low momentum resolution due to the limitation of energy resolution of detector and interference of the background events.Therefore,an application of more sensitive physical method coupled with DBES could be developed to benefit more polymeric fine structure analysis,and positron Coincidence Doppler broadening(CDB) is such a complementary technique.[1O] Compared with traditional Doppler broadening spectroscopy, a use of CDB measurements is principally more valuable because it is capable of eliminating the background events to a great extent in data analysis,which will be also important for the understanding of basic principles of positron annihilation spectroscopy in polymeric application. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Combining DBES and CDB is a powerful tool to study more in-depth variation in the positron experimental data and for membrane fine structural analysis. In this paper, we report a combined study of the DBES and CDB methods coupled with variable monoenergy slow positron beams to study the positron annihilation characterization in PEG thin film formed with different average molecular weight and further for fine structural analysis. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.Experimental details ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Three kinds of PEG produced by the Sigma Aldrich, with weight average molecular weight (Mw) of 20 O00,35 O00,and100 o00, respectively, was dissolved in the solvent mixture (ethanol and water ratio of 1:1), by using a magnetic stirrer to form a 15wt $\\%$ homogeneous solution. Then 16 wt $\\%$ of maleic anhydride (MA) as crosslinking agent and 3wt $\\%$ trimethylamine as catalyst mixed with the solution. Next, the mixture covered on a polyvinylidene fluoride (PVDF) supporting membrane, with standing at room temperature for 12 hours. PVDF (PVDF-1015) support membrane was prepared using the non-solvent induced phase separation (NIPS） method[11]. Finally，the composite membranes were crosslinked at $8 0 ~ ^ { \\circ } \\mathrm { C }$ temperature for 6 hours.All the reagents were of analytical reagent grade and were used as-received. The as-obtained membranes with average molecular weight (Mw) of 20 O0o, 35 OO0,and 100 000 are designated as PEG-2, PEG-3.5,and PEG-10, respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The PEG/PVDF composite membrane samples were fractured in liquid nitrogen and coated with a conductive layer of sputtered gold. The cross-section morphologies of the PEG/PVDF membranes were investigated by a scanning electron microscopy (SEM, HITACHI S-4800). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Positron annihilation measurements were conducted with a magnetically guided variable-energy positron beam $( 0 . 0 1 2 - 2 0 \\mathrm { k e V } )$ accelerated by the negative high voltage on samples. About $1 0 ^ { 6 }$ positrons/s are generated with a $5 0 \\mathrm { { m C i } \\ ^ { 2 2 } \\mathrm { { N a } } }$ radiation source. Two positron annihilation spectrometers， Doppler broadening energy spectroscopy (DBES） and Coincidence Doppler broadening energy spectroscopy (CDB)，were installed in the beam for this study. After an injecting positron thermalized in matter, it annihilates with an electron and emits two $5 1 1 \\ \\mathrm { k e V }$ gamma quanta. The energy broadening of gamma quanta pair recorded by using an HPGe detector is described as Doppler broadening energy spectra (DBES). The signal of detector is fed into a multichannel analyzer (MCA) after get amplified, which had 16384 channels of 48.6 eV/Ch. calibrated using $^ { 1 3 6 } \\mathrm { C s }$ （ $6 6 1 . 7 \\mathrm { k e V } ,$ and $^ { 2 2 } \\mathrm { { N a } }$ （ $5 1 1 \\mathrm { \\ k e V } ,$ ） isotopes. The shape of the DBES curve is expressed in S and $\\mathbf { W }$ parameters. The S parameter was defined as a ratio of integrated counts in the central region (510.24-511.76 keV, as the area of A in Fig. 1) to the total counts of the peak relative $( 5 0 1 . 0 0  – 5 2 1 . 0 0 \\mathrm { k e V } )$ and the W parameter as the ratio of the sum of counts in the line wings (505.10-508.40 keV and 513.6-516.9 $\\displaystyle \\mathrm { k e V } ,$ as B and C area in Fig. 1) to the total counts. The S (W) parameter reflects positron annihilation with low-momentum valence electrons (high-momentum core electrons). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In measurement of CDB,coincidences between the two annihilation gamma rays (511keV） were detected by two HPGe detectors placed at $1 8 0 ^ { \\circ }$ to each other. Signals from the coincidence circuit is processed using double- analogue-to-digital converters (DADC),and the obtained data are fed into a two-dimensional MCA,which had 400 channels in both the X and Y directions,with focusing the peak of $5 1 1 \\mathrm { k e V }$ at the center of a $4 0 0 \\times 4 0 0$ matrix. It took $2 0 { - } 2 4 \\mathrm { h }$ to obtain a CDB spectrum for one sample with the integral number of total counts attained $1 \\times 1 0 ^ { 7 }$ .The three-dimensional CDB spectrum is shown in Fig.2,where the $\\mathbf { X }$ axis $( \\mathrm { E } _ { 1 } )$ and the y axis $( \\mathrm { E } _ { 2 } )$ represent the energy scales of the DBS of each Ge detector, respectively. The $\\mathrm { E } _ { 1 }$ and the $ { \\mathrm { E } } _ { 2 }$ are expressed as $\\mathrm { m o c } ^ { 2 } { \\pm } 0 . 5 \\mathrm { P } _ { \\mathrm { L } } \\mathrm { c }$ ，where $\\mathbf { m } _ { 0 }$ is the electron rest mass, c is the speed of light, and $\\mathrm { P _ { L } }$ is the longitudinal component of the positron-electron momentum along the direction of the detector. The coincidence curve, presented by the spectrum along the $1 3 5 ^ { \\circ }$ line from the left top to the right bottom,corresponds to the events which satisfy the energy condition $\\mathrm { E } _ { 1 } + \\mathrm { E } _ { 2 } { = } 2 \\mathrm { m o c } ^ { 2 }$ ， neglecting the electron binding energies here. CDB could achieve the discrimination of high-momentum region, just as the decrease of B and C part in Fig.1, where the background level of CDB is improved by more than 500 times compared to that of DBES $( \\sim 0 . 0 1 )$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/36b4a50b3287165a35aa09352c37983f3668c1ba87cb559f3ac7b3ff1e593ff1.jpg",
+        "img_caption": [
+            "Fig. 1. The result of CDB: the resolution of high momentum region improve due to the decrease of background "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d1167f8c478ecc2b959b68d8d88212ebea470cac6d57aa5f5dcf8440906e0ae.jpg",
+        "img_caption": [
+            "Fig.2.Three-dimensional spectrum of CDB "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Different crosslinked polymer skin layers were formed by changing the molecular weight of PEG (20 OO0, 35 O00,and 100 O00,respectively). The hierarchical structure of as-obtained membranes were measured using SEM. Fig. 3 shows two SEM images of the cross section for formed membranes prepared by polymerizing PEG with 16 wt $\\%$ maleic anhydride as crosslinking agent and 3 wt $\\%$ trimethylamine as catalyst.From Fig. 3,we observe that the formed composite membranes show a typical three-layer structure, the upper thickness about $6 \\mu \\mathrm { m }$ corresponding to crosslinked PEG active layer, the middle layer for approximately $2 0 \\mu \\mathrm { m }$ corresponding to porous support layer, and the substrate layer was polyester spinning. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0a93e34712daab4492d6f35a3c570e0163885287c2e7d8eb7498695a385b09fa.jpg",
+        "img_caption": [
+            "Fig.3.Cross-section SEM images of the membranes. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The sensitivity of positron probes to molecular dimensions, particularly free volume related microstructure in complex macromolecular system, has made it possible to use it extensively as a unique and valuable examination tool to probe the subnanometer regions and defects in a wide variety of polymer.[12] Within the last few years positron annihilation spectroscopy using low-energy positron beams become powerful tool in determining the layer structure in a hierarchical or multilayer polymeric system.[2, 3, 9,13] Therefore, the fine-microstructure of the above as-obtained three PEG membranes as a function of depth could be obtained with a variable monoenergy slow positron beam spectroscopy, and thus DBES experiments as a function of positron incident energy from O— $2 0 \\mathrm { k e V }$ were carried out. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "With DBES,which probes the energy broadening from electron motion of atoms or molecules in the annihilate site, it represents the momentum density in the longitudinal direction of annihilation radiation.[14，15] Fig. 4 shows the positron annihilation Doppler broadening S parameter versus the implanted energy of positron beam and corresponding mean positron implantation depth (calculated by experimental equation: $Z ( E ) = ( 4 0 / \\rho ) E ^ { 1 . 6 }$ , where $Z$ is depth expressed in units ofnm, $\\rho$ is the density in $\\mathrm { g } / \\mathrm { c m } ^ { 3 }$ ， and $E$ is the positron incident energy in $\\mathbf { k e V }$ ) is shown in the top axis.As discussed in many literature [15-17],the S parameter derived from DBES is a qualitative measurement of free-volume,and it indicates the relative change of molecular chains packing density (corresponding to mean free volume hole size） at the atomic scale, since relative increase of the low momentum electrons to the annihilation of positron in free volume holes in polymer causes a corresponding increase in the value of S parameter. It is seen that for all of the three PEG samples,the S parameter with increasing energy increases gradually from the surface state to the bulk state and then reaches a plateau value. From Fig. 3 and 4, we could conclude that when the positron implanted energy increases, the implanted depth increase but still within the crosslinked PEG active layer. The depth profile of the S parameter above shows that the stable S parameter in the bulk of crosslinked PEG active layer for PEG-2 is much higher than PEG-3.5,and lowest for PEG-10. This result provides a direct evidence that the greater molecular weight of the PEG raw material, the higher of the molecular chains packing density of formed membrane. That is to say, the regulation of densification of PEG molecular packing can be well realized by changing its molecular weight. It may be mentioned that the pervaporation performance of the as-obtained PEG membranes has been reported by Han et al.[18],and they have summarized that PEG with higher molecular weight was easier to entangle, which resulted in the decrease in fractional free volume of composite membrane, decreasing membrane permeability. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c2af3bc5fdd2a27b061ee85852f778dae3f434ca72afefa3d03054d71b6d78a8.jpg",
+        "img_caption": [
+            "Fig .4.Depth profile of S parameter for different PEG membranes. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "There is a practical problem in using S parameter for characterizing fine structure of ultrathin composite membrane which are usually scarcely discussed, that is the socalled surface effect [19-21]. It is interesting to see in Fig. 4 that S parameter near the surface presents the opposite status, with the positron incident energy from O—4 keV. At same depth of positron annihilation, the S parameter on the surface of crosslinked PEG active layer for PEG-1O is much higher than PEG-3.5,and lowest for PEG-2, which is opposite to the above result. As discussed in many articles [15,22,23],a large variation of S parameter at low energy （O— $4  { \\mathrm { \\ k e V } }$ in this case) represents the backdiffusion of the positron and also associated with the fine structure near the surface. Hence,it cannot be reasonably explained by using just the free-volume model of positron annihilation in this case. In our case, there is also an abrupt in the S parameter near the surface of all the obtained membranes,and the S-W plots indicated in Fig. 5 are able to distinguish two regions. The region of linear relationship between S and W indicates near the surface of PEG layer at S value of O.470-0.485,and the slopes of three straight lines are almost same, corresponding to PEG-2, PEG-3.5,and PEG-10, respectively， indicating similar positron annihilation behavior in near surface of membranes. The other one of spots aggregate region indicates the bulk of PEG active layer at S value of O.485-O.49O,and thus further support differentiation of positron annihilation characteristic in above three different PEG surface layer. To understand more in-depth the variations in the positron experimental data,a combination of DBES and simultaneous application of CDB technology are likely to cause us to the physical essence understanding carefully thorough,clearer was bright to the physical essence analysis of positron annihilation parameter. With CDB，which is a more sensitive positron annihilation spectroscopy technique, it is principally very valuable and able to supply complementary information since it involves quantitative information on the detailed electron momentum distribution at positron annihilation site,and thus can be further utilized to extract information on the chemical environment at the annihilation site.It is a well-established fact that CDB spectra are presented as a ratio to the reference sample,and the chemical surrounding or elemental specificity of the annihilation site could be extracted from the shape and magnitude of the CDB spectrum. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/9bc486d35106f63462f2c7a09641a1d9d9129e3eb1e71e61f84fa86efa928d44.jpg",
+        "img_caption": [
+            "Fig.5.S-W parameters of PEG/PVDF composite membrane change with the incident positrons energy "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Positron implanted energy-dependent CDB spectra of PEG-2, PEG-3.5,and PEG-10 relative to the low-density polyethylene (LDPE） spectrum are shown in Fig. 6.As is seen from the Fig. 6b, the shape and magnitude of peak centered around $1 6 { \\times } 1 0 ^ { - 3 } \\mathrm { m o c }$ is almost same,indicating that the chemical environment for positron annihilation in bulk region of above three PEG membrane are almost identity. However, as shown in Fig. 6a, for positron annihilate in near PEG surface layer with LDPE,somewhat different spectra with different magnitude of peak due to difference in positron annihilation of chemical environment were observed. The peak magnitude is systematically enhanced in the sequence of PEG-10, PEG-3.5, PEG-2,and combining the opposite status result of S parameter in near surface layer of PEG membrane, indicating that the opposite trend of S parameter can be atributed to the difference of positron annihilation with core electrons of oxygen atoms in near surface layer of thre PEG membrane. To further explore methodology of utilizing positron annihilation behavior in near surface and bulk layer of PEG membrane for microstructural difference ilustrations, more positron annihilation information in representing these microstructural information could be extracted from the as-obtained CDB spectrum. As shown in Fig. 7, Fig. 7a shows an evident difference of chemical environment for positron annihilation in near surface and bulk layer of PEG-2 membrane, since there shows amplify magnitude difference of positron annihilation in high momentum region. In contrast to that, the nearly coincident ratio curve of CDB spectra in high momentum region as shown in Fig. 7b for PEG-1O membrane, indicating similar chemical environment for positron annihilation in near surface and bulk layer of PEG-1O membrane.For various studies it is clear that the annihilation behavior of positron in polymeric material are closely related to its chemical environment and free volume related microstructure. Therefore, we attempt to analyze the difference of CDB experimental result considering LDPE as reference sample in PEG-2 and PEG-1O due to the microstructural difference in near surface and bulk layer. It is worth mentioning that polymer surface is much softer than bulk and exist some large holes as reported by Cao.et.al[24], which may lead to different positron annihilation characteristics in surface area compared with bulk. Combining with the above conclusion involving densification of PEG molecular packing with different molecular weight, it is assumed that the greater molecular weight of the PEG raw material, the thinner of the transition layer and the better of distribution uniformity from the near surface layer to bulk region in film forming process, and thus the less of surface effect reflecting on the positron annihilation parameters. This experimental result is consistent with DBES data of steeper increases of PEG-2 than PEG-1O in near surface of thin film at O- $4 \\mathrm { k e V } ,$ and hence further supports our conclusion. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/389643dfc2a0c5cec832ae37aa65ef48b32b5f5738d4578ac61606a8888da0e9.jpg",
+        "img_caption": [
+            "Fig. 6. CDB ratios of PEG/PVDF composite membrane to LDPE at the positron incident energy $1 \\mathrm { k e V }$ (a) and $5 \\mathrm { k e V }$ (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/e05e422b3c291402cece2a19a05459632f9b8deed271eaec7f678d3bb48d3d51.jpg",
+        "img_caption": [
+            "Fig. 7. CDB ratios of PEG-2 (a) and PEG-1O (b) to LDPE in the surface and bulk,at the positron incident energy $1 \\mathrm { k e V }$ and $5 \\mathrm { k e V } ,$ respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "It is found that simultaneous use of two positron techniques (DBES and CDB) based on available energy measurement can be efficiently used to extract microstructural and chemical information where the positron annihilation parameters of the polymer film can be reliably determined. Experimental results show that the variation of positron annihilation parameter as a function of incident energy is interpreted in terms of surface effect and differences in micro-structure or chemical environment of positron annihilation. Combined application of these two techniques to the analysis of positron annihilation data and correlated fine structure are promising in the near future. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This work is supported by NSFC under Grant Nos. 11575205, 11475197, 11675188, 11475193. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[1] Jean Y. C., G. H. Dai, H. Shi, R. Suzuki and Y. Kobayashi 1994 Aip Conf Proc 129- 139   \n[2] Kobayashi Y., I. Kojima, S. Hishita, T. Suzuki, E. Asari and M. Kitajima 1995 Phys Rev B 52 823-828   \n[3] Yang J., P. Zhang, G. D. Cheng, D. X. Li, H. B. Wu, Z. X. Li, X. Z. Cao, Q. J. Jia, R. S. Yu and B. Y. Wang 2013 Applied Surface Science 280 109-112   \n[4] An Q.-F., Y.-L. Ji, W.-S. Hung, K.-R. Lee and C.-J. Gao 2013 Macromolecules 46 2228-2234   \n[5] Chao W.-C., S.-H. Huang, S.-W. Wei, Y.-H. Huang, K.-S. Liao, C.-L. Lai, H.-A. Tsai and K.-R.Lee 2013 Journal of Membrane Science 429 34-43   \n[6] Chen Z., K. Ito,H. Yanagishita, N. Oshima, R. Suzuki and Y. Kobayashi 2011 Journal of Physics: Conference Series 262 O12013   \n[7] Djourelov N., T. Suzuki, R. S. Yu, V. Shantarovich and K. Kondo 2OO4 Chemical Physics 302 179-184   \n[8] Huang S.-H., W.-S. Hung, D.-J. Liaw, H.-A. Tsai, G. J. Jiang, K.-R. Lee and J.-Y. Lai 2010 Polymer 51 1370-1376   \n[9] Tung K.-L., Y.-C. Jean, D. Nanda, K.-R. Lee, W.-S. Hung, C.-H. Lo and J.-Y. Lai 2009 Journal of Membrane Science 343 147-156   \n[10] Djourelov N.,T. Suzuki, R. S. Yu and Y. Ito 2OO5 Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers,Detectors and Associated Equipment 540 487-494   \n[11] Han X. L., L. Wang, J. D. Li, X. Zhan, J. A. Chen and J. C. Yang 2O11 J Appl Polym Sci 119 3413-3421   \n[12] Xia R., X. Cao,M. Gao, P. Zhang, M. Zeng, B. Wang and L. Wei 2017 Physical chemistry chemical physics $\\because$ PCCP   \n[13] Yu R. S., X. P. Hao, Y. Y. Ma, P. Wang, X. B. Qin, Z. Zhang, B. Y. Wang, L. Wei, T. Suzuki, Y. Ito and V. P. Shantarovich 2008 Applied Surface Science 255 205-208 [14] Hirata K., Y. Kobayashi, Y. Saitoh and S.Hishita 2OOO Nucl Instrum Meth B 171 236-239 [15] Palacio C. A., N. Djourelov, J. Kuriplach, C. Dauwe, N. Laforest and D. Segers 2007 Phys Status Solidi C 4 3755-3758   \n[16] Djourelov N., C. Dauwe, C. A. Palacio, N. Laforest and C. Bas 2OO7 Phys Status Solidi C 4 3710-3713   \n[17] Scholes F. H., S.A. Furman, A. E. Hughes, A. J. Hill, F. Tuomisto, K. Saarinen and S.J.Pas 2006 Jct Res 3 105-108   \n[18] Hu W., X. Han, L. Liu, X. Zhang, J. Xue, B. Wang, P. Zhang and X. Cao 2017 The Canadian Journal of Chemical Engineering 95 364-371   \n[19] Bamford D., G. Dlubek, G. Dommet, S. Horing, T. Lupke, D. Kilburn and M. A. Alam 2006 Polymer 47 3486-3493   \n[20] Sato K., K. Ito, K. Hirata, R. S. Yu and Y. Kobayashi 2OO5 Phys Rev B 71 [21] Uedono A., R. Suzuki, T. Ohdaira, T. Uozumi, M. Ban, M. Kyoto, S. Tanigawa and T. Mikado 1998 JPolym Sci Pol Phys 36 2597-2605   \n[22] Gidley D. W., K. G. Lynn, M. P. Petkov, M. H. Weber, J. N. Sun and A. F. Yee 2001 New Directions in Antimatter Chemistry and Physics 151-171   \n[23] Hirata K., Y. Kobayashi, S. Hishita, X. Zhao, Y. Itoh, T. Ohdaira, R. Suzuki and Y. Ujihira 1997 Nucl Instrum Meth B 121 267-270   \n[24] Cao H., J. P. Yuan, R. Zhang, C.M. Huang, Y. He, T. C. Sandreczki, Y. C. Jean, B. Nielsen, R. Suzuki and T. Ohdaira 1999 Macromolecules 32 5925-5933 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

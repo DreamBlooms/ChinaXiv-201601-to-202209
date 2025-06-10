@@ -1,0 +1,215 @@
+# DOI:10.5846/stxb201703270526
+
+赵连春，赵成章，王小鹏，文军.秦王川湿地怪柳分布与环境因子的关系.生态学报,2018,38（10);3422-3431.ZhaoLCZCgXeetalcodistomsesisiicEcologica Sinica,2018,38(10):3422-3431.
+
+# 秦王川湿地柽柳分布与环境因子的关系
+
+赵连春，赵成章\*，王小鹏，文军西北师范大学地理与环境科学学院，甘肃省湿地资源保护与产业发展工程研究中心,兰州730070摘要：环境因子与植被分布的关系是生态学研究的重要内容,对揭示植物种群的形成机制和生态适应策略、预测植被的空间分布具有重要意义。为探究小尺度下干旱区湿地生境中环境因子对怪柳（Tamarix gansuensis H.Z.Zhang)空间分布的影响,在秦王川国家湿地保育区,基于遥感影像和数字高程模型,运用 Maxent模型分析了海拔、坡度、坡向、坡位、离河流距离、土壤含水量、土壤含盐量等7个环境变量对怪柳空间分布的影响。结果表明：怪柳在秦王川国家湿地保育区内呈聚集分布,多分布在土壤含水量 $1 5 \% - 3 0 \%$ 、土壤导电率 $\leqslant 5 ~ \mathrm { m s / c m }$ 、离河流18- ${ \cdot } 7 0 \mathrm { ~ m ~ }$ 海拔1890—1913 $\mathrm { ~ m ~ }$ 沟间地或沟坡地上;其空间分布主要受土壤含水量、含盐量和离河流距离3个环境变量的影响;海拔、坡度和离河流距离3个环境变量与土壤含水量、含盐量负相关( $P <$ 0.05）,坡位变量则与之相反。土壤水、盐含量等土壤因子是影响湿地植被分布格局形成的主要环境因子,水文因子和地形因子通过控制湿地土壤水、盐含量,改变局部环境条件,间接影响湿地植被的分布。（
+
+关键词：湿地植物;环境因子;数字高程模型;分布格局;Maxent 模型
+
+# Interrelations between environmental factors and distribution of Tamarix gansuensis in Qinwangchuan wetland
+
+ZHAO Lianchun,ZHAO Chengzhang\* ，WANG Xiaopeng，WEN Jun   
+ColegeflUie   
+Engineering of Gansu Province,Lanzhou 73oo7O,China
+
+Abstract:The interelations betwee environmentalfactorsandthe distrbutionof plants are important subjectsof ecological study，and playan importantrolein revealing formation mechanisms，ecologically adaptivestrategies，and spatial distributionsof plant populations.Inordertostudytheinfluenceof environmental factorsonthedistributionof Tamarix gansuensis in wetlands，the Maxent model wasused to analyze the impact of altitude，slope，aspect，location of slope, distance to the river，soil moisture，and soil salt on the spatial distribution of $T$ ， gansuensis in the Qinwangchuan wetland based on remote-sensing images and a digital elevation model. The results showed that $T$ gansuensis presented a clumped distribution in the conservation zone of Qinwangchuan wetland and was mainly distributed in $1 5 \%$ 一 $30 \%$ of soil moisture, 0- -5 ms/cmof soil electrical conductivity，1890—1913mof altitude，and inter furroworon sloped land.Spatial distributionofT.gansuensis wasaffected mainly bysoil moisture，soil salt，anddistance totheriver.Theenvironmental variablesof altitude，slope,anddistancetotheriver were negativelyrelated with soil moistureandsoil salt，whilethe slope location was positivelyrelated with soil moistureandsoil salt.Thesoil moistureandsoil salt werethe main environmental factors thataffectthedistributionof plantsinQinwangchuan wetland，whilethehydrologic factorsand thetopographic factorsindirectlyinfluencedthespatialdistributionof plantsbycontrollingthesoil waterandsaltcontent，which could
+
+change the local environmental conditions.
+
+KeyWords:wetland plant；environmental factor；digital elevation model；distribution pattern；Maxent model
+
+受地球表面不同环境因子的综合作用,植物种群形成了不同的空间分布格局[1],研究其空间分布格局及潜在机制有助于认识种群与环境因子的相互关系、种群的生态适应对策,并可以预测群落空间分布及动态变化,揭示群落结构与分布格局的形成机理和群落演替的生态学过程及其内在机制[2-3],是生态学和生物地理学领域的重要研究内容,对揭示种群的形成和维持机制有着重要的理论意义[4]。宏观尺度上气候因素（尤其是温度和降水)是决定植物分布的主要因素[5],也是影响生物繁衍生息的关键因素。随着空间尺度的减小，除气候以外的其他因子包括土壤环境因子、地形地貌因子、水文条件因子、人为干扰因素、物种自身扩散能力、生物间相互作用等对植物分布的影响逐渐凸显,亦会影响物种的地理分布[6-8]。地形地貌因子在一定程度上控制着太阳辐射和地表水分的空间再分配,形成局部生态环境的小气候条件,显著影响植被群落的空间分布和养分动态,是导致各种生态现象和过程发生变化的根本性因素[9-10]。土壤环境因子直接影响植物的生长发育,与植被类型具有较好的耦合关系[11],是植被分布的空间差异的主要驱动因子[12]。湿地水文条件则对土壤性状和土壤发育方向至关重要,影响地表植被的生长和发育,制约着景观类型的变动[8,13]。因此,空间尺度较小时,土壤因子、地形因子、水文因子可能成为影响植被分布的主要因子,研究小尺度下湿地植物的空间分布格局及其成因,对于理解干旱区湿地植物群落空间分布格局的形成机制具有重要意义。目前,植物空间分布格局的研究多从大尺度上定量研究气候条件变化与植物的适生分布关系,预测气候变化对植物分布的影响[1416],或从小尺度上,定量研究陆地生态系统中土壤环境、海拔、坡度、坡向变化对植物多样性、物种丰富度及分布格局的影响[1-19],湿地生态系统中土壤水分、土壤质地、人类活动等因子对湿地植物分布的影响[20-22]。小尺度上,湿地生态系统中局部微环境的变化是由地形因子、土壤因子、水文因子等多种环境因素组合形成的,可解释大尺度研究中无法解释的环境过滤效应,促使植物形成有效获取异质性资源的生态适应对策[23]。
+
+怪柳（Tamarix gansuensis）是怪柳科(Tamaricaceae）怪柳属（Tamarix）植物,在我国主要分布于沙荒地、干旱盐碱地及盐碱湿地。怪柳根部潜水较深、叶呈鳞片状、茎叶愈合、具发达的泌盐腺,耐盐碱,是典型的泌盐植物,可通过种子、营养两种方式繁殖,生态位较宽,具有较高的生态价值、药用价值[24],是秦王川湿地上的优势种群,在维护该处湿地生态系统方面发挥了重要作用。目前,对怪柳的研究集中在根冠构型[25-26]、水分利用策略[27-28]、生理特征[29-30]、分布特征[31-32]、资源价值[33]等方面,对湿地生态系统中怪柳分布的环境因子影响方面的研究不多,尤其是小尺度条件下,湿地生态系统中怪柳分布与环境因子的关系对湿地异质性微环境的响应机理尚不明晰。鉴于此,本文基于 Maxent模型用土壤因子、水文因子、地形因子表示环境因子,研究了秦王川国家湿地公园保育区内怪柳种群分布和环境因子的关系,旨在探索湿地植物的生态适应策略,小尺度条件下的环境过滤效应、环境因子变化对湿地植物分布格局的影响,为湿地遥感影像的解译、分类以及湿地生态系统的恢复和保护提供理论依据。
+
+# 1研究区概况和研究方法
+
+# 1.1研究区概况
+
+研究区位于甘肃省兰州市秦王川国家湿地公园内的保育区内（图1）,地理位置为 $1 0 3 ^ { \circ } 3 5 ^ { \prime } 3 8 ^ { \prime \prime } .$ 1 $1 0 8 ^ { \circ } 3 8 ^ { \prime }$ $3 7 ^ { \prime \prime } \mathrm { E } , 3 6 ^ { \circ } 2 3 ^ { \prime } 5 9 ^ { \prime \prime } - 3 6 ^ { \circ } 2 7 ^ { \prime } 5 6 ^ { \prime \prime } \mathrm { N }$ ，海拔 $1 8 7 2 - 1 9 2 8 \mathrm { ~ m ~ }$ ,属大陆性季风气候,年平均气温 $6 . 9 \%$ ,年均降水量 220$\mathbf { m } \mathbf { m }$ ,主要集中在6一9月,年均蒸发量为 $1 8 7 9 . 0 ~ \mathrm { m m }$ ,年日照时间 $2 7 0 0 \mathrm { ~ h ~ }$ ,平均无霜期 $1 2 6 \mathrm { ~ d ~ }$ 。土壤以淡灰钙土、次生盐渍土为主,含水层为砂碎石及中细砂层。常年受季节性水淹的影响,发育有水生和湿生植物群落,保育区内自然分布着大片怪柳（Tamarix gansuensis）林,保育区内主要植物有:芦苇（Phragmites australis（Cav.）Trin.ex Steud.）、枸杞（Lycium chinense Miler）、多枝怪柳、香蒲（Typha orientalis Presl）、灰绿藜（Chenopodium
+
+http://www.ecologica.cn
+
+glaucum Linn.）、紫菀（Aster tataricus Linn.f.）、假苇拂子茅（Calamagrostis pseudophragmites（Hall.F.）Koel.）、猪毛菜（Salsola collina Pall.）、苦苣菜（Sonchus oleraceus Linn.）、盐角草（Salicornia europaea Linn.）、早熟禾（Poaannua Linn.）等。
+
+![](images/297d9d5ac1f7f10c3db060c9cd12733cb9fef4c552ca6b86328e896edc7ca69d.jpg)  
+图1研究区地理位置及数据采集点分布图  
+Fig.1Location of the study area and data acquisition point
+
+# 1.2 数据来源及处理
+
+参照王旭东等[34]方法，野外选取实验区（面积约 $1 0 \ \mathrm { h m } ^ { 2 }$ ),布设控制点，用无人机（DJI大疆精灵3（Phantom 3）Standard)拍摄垂直影像,室内利用 Pix4D Mapper 软件进行空中三角加密,生成摄影测量点云和DOM(数字正射影像),然后利用 TerraScan 软件进行点云滤波,对植被等非地面数据进行剔除,得到地面点云数据,再通过ArcGIS 反距离加权法(Inverse distance weighted,IDW)进行插值运算,生成分辨率为 $0 . 1 0 \mathrm { ~ m ~ }$ 的高分辨率DEM（数字高程模型)。DEM空间分辨率过高会造成地形信息过多,导致“椒盐现象”,影响分析,在保证研究精度要求下,将该高分辨率DEM重采样成 ${ \mathrm { ~ 1 ~ m ~ } }$ 分辨率DEM（表1)。将生成的DOM数字正射影像和DEM数字高程数据作为数据源。
+
+表1DEM精度统计  
+Table1 Accuracy statistics of DEM   
+
+<html><body><table><tr><td>统计值</td><td colspan="3"></td></tr><tr><td>Statistics</td><td>经度误差△x/cm</td><td>坐标差 Coordinate difference 纬度误差△y/cm</td><td>高程误差z/cm</td></tr><tr><td>中误差 Mean error</td><td>4.52</td><td>4.10</td><td>10.26</td></tr><tr><td>最大误差 Maximum error</td><td>10.23</td><td>9.23</td><td>18.14</td></tr></table></body></html>
+
+# 1.2.1 地形因子数据
+
+ArcGIS 10.2软件中用3D Analyst工具,对 DEM数据进行分析,分别生成坡度、坡向、海拔分布图[35]。利用空间分析工具中的块统计工具先提取一定范围内的最大高程、最小高程值,然后利用栅格计算工具计算坡位临界值,获取坡位分布信息。
+
+# 1.2.2 土壤因子数据
+
+参照伍维模研究区域面积和土壤采集点数量布设方法,在研究区均匀取样[36]。在ArcGIS 10.2中生成大小为 $3 0 ~ \mathrm { m } { \times } 3 0 ~ \mathrm { m }$ 的网格,每隔3个网格取1个网格,在网格中取土样,共取139个土壤样点(图2),记录样方坐标值,在每个样方对角线各1/3处设3个点,取0一 $3 0 \ \mathrm { c m }$ 土样混合均匀,分装带回实验室分析土壤指标。其中土壤水分采用烘干法;含盐量采用5:1水土比电导法[37]。在 ArcGIS 中用 Kriging 法,插值生成该区域土壤的水、盐分布图。
+
+![](images/df685b258c774601ab3ebeb0d60e21136af404fb7c1ce5837ce522c7d92bd345.jpg)  
+图2柽柳分布图  
+Fig.2Spatial distribution of Tamarix gansuensis
+
+A.怪柳分布及土壤采样点；B.怪柳分布热点
+
+# 1.2.3 水文因子数据
+
+参照刘吉平研究方法,选取离河流距离作为水文因子中的主要变量,进行研究[35]。多次野外调研验证基础上,对遥感影像进行人工解译,制作秦王川湿地怪柳、河流分布矢量图,利用ArcGIS 10.2软件中的分析工具对河流分布矢量图进行分析，生成离河流距离图。
+
+# 1.3 研究方法
+
+# 1.3.1 模型数据准备
+
+运用网格分析法研究怪柳在区域内的分布[38],首先在ArcGIS10.2中生成大小为 $1 0 \ \mathrm { m } { \times } 1 0 \ \mathrm { m }$ 的网格,每个网格作为一个样方,共划分10665个样方,每个样方作为一个点数据,该样方内的环境变量及怪柳分布等数据值即该点数据的属性,然后在各网格中间建立一个点数据,网格中有怪柳分布则属性字段值为1,其他为0,再利用 ArcGIS 中的 Spatial Analyst 工具中的提取分析功能,对坡度、坡向、海拔、坡位、离水系距离等分布图进行数据提取,将上述环境变量数据自动提取到各点数据属性字段中,再将点数据属性值导出并转换为csv 格式数据。
+
+# 1.3.2 分布热点分析
+
+利用ArcGIS10.2热点分析工具,研究怪柳在该区域空间分布。热点分析是通过对某个要素计算 $\mathrm { G i } ^ { * }$ 统计值,得到Z得分,Z得分越高,高值(热点)的聚类就越紧密,负Z得分越低,低值(冷点)的聚类就越紧密[39]。通过热点分析,可以得到怪柳在空间上发生聚类的位置,以供模型分析。
+
+http://www.ecologica.cn
+
+# 1.3.3 环境变量分析
+
+Maxent 模型是把研究区所有像元作为构成最大熵的可能分布空间,将已知某些分布点的像元作为样点，根据样点像元的环境因子得出约束条件,探寻这些约束条件下的最大熵的可能分布情况（即探寻与物种分布点的环境变量特征相同的像元),可以表达为某个物种在没有约束的情况下,存在尽最大可能的扩散蔓延,接近均匀分布,据此来预测目标物种在研究区的生境分布[40],其预测的结果优于同类预测模型,能较好地吻合物种的实际分布[41-42]。本文利用 Maxent 3.3 模型软件对csv 格式数据进行分析,随机选取 $7 5 \%$ 分布点数据用作模型建立,剩下 $2 5 \%$ 数据用作模型验证,其他参数为默认值。用受试者工作特征曲线(ROC)对模型进行精度检验,并以AUC 值(ROC)曲线与横坐标围成的面积作为模型预测能力的准确性指标,AUC 值越大,则表示环境变量与预测物种的地理分布模型之间的相关性也就越大,越能将该物种在这一地区有分布和无分布的判别开,预测效果也就越好。AUC 值为0.5—0.7时模型的预测价值较低,0.7—0.9 时模型的预测价值中等,大于0.9时模型的预测价值优秀,利用刀切法(Jackknife test)计算每个环境变量在决定潜在分布区时的贡献量，了解各环境变量的重要性[43-44]。
+
+# 2结果与分析
+
+# 2.1秦王川湿地怪柳空间分布分析
+
+根据ArcGIS热点分析功能得到研究区域内怪柳的空间分布热点图（图2B），怪柳在该地分布聚集程度较高,成集群分布,热点分布区域有两个,分别位于区域的东北和东南部,冷点区域分布在研究区域的西侧,与热点区域以河流为界分开,高值聚类分布区( $_ { \mathrm { G i } \geqslant 5 }$ )面积占保育区面积的 $45 \%$ 以上,表明怪柳在该区域内是优势植物。
+
+# 2.2环境变量对怪柳分布的影响
+
+# 2.2.1 地形变量的影响
+
+随着海拔升高,怪柳分布先增加后减少,主要分布在海拔1890—1913m范围内,海拔1872— $1 8 7 8 \mathrm { ~ m ~ }$ 范围内怪柳分布较少或无怪柳分布;区域内地势平坦,坡度变化较小,坡向、坡度的变化对怪柳的分布影响较小;坡位对怪柳的分布有一定影响,随着坡位由沟间地、向沟坡地、沟底地变化,怪柳分布逐渐减少,沟底地分布最少。结果表明,在地势平坦的秦王川湿地保育区内,海拔、坡位2个地形因子是影响怪柳分布的主要地形因子,坡向、坡度因子对怪柳分布影响较小（图3）。
+
+# 2.2.2土壤变量的影响
+
+随着土壤含水量的增加,怪柳分布先增加后急剧减少,主要分布在土壤含水量 $1 5 \%$ 1 $3 0 \%$ 的范围内,当土壤含水量大于 $4 0 \%$ 后,其分布概率急剧减少;土壤导电率变化反映了土壤含盐量的变化,随着土壤含盐量的增大,柽柳分布概率也是逐渐减少,怪柳在土壤导电率在0一 $- 5 . 6 ~ \mathrm { m s } / \mathrm { c m }$ 范围内分布概率都较高，充分表明柽柳具有一定的耐盐性（图4）。
+
+# 2.2.3水文变量的影响
+
+湿地水文条件对土壤性状和土壤发育方向至关重要,进而影响地表植被的生长和发育[45]。怪柳的分布受河流、水洼地等水体分布的影响较大,随着离河流、水洼地等水体距离的增大,怪柳分布先增加后减少,在距离河流或水洼地 $1 8 { - } 7 0 \ \mathrm { m }$ 范围内,怪柳分布概率较大(图5)。由于离河流距离和土壤水分含量负相关（表2),因此随着离河流距离的增大,湿地土壤水分逐渐减少,这也说明湿地水文因子可通过控制湿地土壤水分条件而间接影响湿地植物的分布。
+
+# 2.3Maxent模型预测精度及检验结果
+
+Maxent运算结果表明,影响怪柳分布的主要环境变量依次为土壤含水量、土壤导电率、离河流距离,相对贡献率分别为 $3 9 . 5 \% . 2 7 . 6 \% \ . 2 0 . 1 \%$ 。其他环境变量影响较小,相对贡献率依次是海拔 $5 . 5 \%$ 、坡位 $5 . 2 \%$ 、坡向$1 . 4 \%$ 、坡度 $0 . 0 6 \%$ ,其中,地形变量中海拔、坡位对怪柳分布也起一定作用(图6)。该模型训练集和测试集的
+
+![](images/cdf2b7b6f1e680d1037b908f3ea4b405e60d4c01a261b62589ea594828bcde49.jpg)  
+Fig.3Response of the distribution of Tamarix gansuensis to the topographic variables
+
+![](images/ea606cd1faa2c5a423b68bf90374ce42b6ac543ccaece08002c1c58b4da5e94d.jpg)  
+图3地形变量对怪柳分布的影响  
+图4土壤变量对怪柳分布的影响  
+Fig.4Response of the distribution of Tamarix gansuensis to the soil variables
+
+AUC 值为0.926和0.921（图7）,预测价值优秀,表明模型对怪柳的适生分布范围预测结果可靠。根据环境变量相关性分析(表2),土壤含水量与坡位、土壤导电率显著正相关,与离水系距离、海拔、坡度显著负相关,表明地形因子与土壤水盐含量变化相关,可以通过控制地形因子的变化来控制土壤水盐空间异质性分布,影响湿地植被分布。
+
+![](images/2011af785f37a801999b4d2aaa9dc342520369a30b45087c7e735e0c0231e35e.jpg)  
+图5水文变量对怪柳分布的影响
+
+# 3讨论
+
+# 3.1怪柳分布与土壤因子的关系
+
+土壤环境直接影响植物的生长发育，在相似的气候条件下，土壤理化性质的空间差异决定了植被分布的空间差异[46]。本研究中,秦王川湿地保育区内柽柳的分布主要受土壤含水量和土壤含盐量的影响(图4)，因子贡献率达 $6 7 . 1 \%$ （图6），是主要影响因子，怪柳主要分布在土壤含水量 $1 5 \% - 3 0 \%$ 、土壤导电率在0—5.6ms/$\mathrm { c m }$ 的范围内(图4)。原因是：(1)怪柳属深根性潜水植物，可以利用深层地下水，怪柳的叶片外壁角质层厚、叶肉细胞具有大薄壁细胞，可有效防正干旱损伤、存储水分，在整个生长发育期间有具相对较低的水势和较高的持水力以及能够忍受较大幅度的水分饱和亏缺[47]，因此他可以在土壤含水量较低和较高的区域分布。（2)怪柳属于典型的泌盐植物，生态位宽，可分布在沙荒地、干旱盐碱地及盐碱地中,怪柳根系对土壤离子有很低的选择性,进入植株内部的盐分可通过导管运输至泌盐腺,通过分泌细胞排到体外[48],因此怪柳具有一定的耐盐性,在含盐量较高的地域仍能生存。这与赵锐锋等人的土壤含水量、地下水位和土壤含盐量等是影响湿地植物群落分布的主要因素研究结果基本一致[46]。
+
+![](images/de4c7ef1fab675188c97a76511dddfa918ad3916ac79fcb8211587d8d6004179.jpg)  
+图6环境变量重要性  
+Fig.6Importance of different environmental variables
+
+![](images/54f6792245be67f63ab16d1e0d2b8c79c9d50f6bd940f1119656f2df2760d915.jpg)  
+Fig.5Response of the distribution of Tamarix gansuensis to the distance to the river   
+图7 ROC曲线图Fig.7 ROC curve
+
+表2主要环境变量间的相关性  
+Table 2 Correlation among the main environmental variables   
+
+<html><body><table><tr><td colspan="5"></td><td rowspan="2">离水系距离</td><td rowspan="2">土壤含水量 Soil moisture</td></tr><tr><td>环境变量 Environmental variables</td><td>海拔 Altitude</td><td>坡度 Aspect</td><td>坡向 Slope</td><td>坡位</td></tr><tr><td></td><td></td><td></td><td></td><td>location</td><td>the river</td><td></td></tr><tr><td>离水系距离 Distance to the river</td><td>0.37</td><td>0.01</td><td>0.02</td><td>0.11</td><td>1 -0.82 *</td><td>-0.82 * 1</td></tr><tr><td>土壤含水量 Soil moisture</td><td>-0.63 *</td><td>-0.41*</td><td>-0.17</td><td>0.53 *</td><td></td><td>0.56 *</td></tr><tr><td>电导率 Electric conductivity</td><td>-0.36 *</td><td>-0.21*</td><td>-0.33</td><td>0.27 *</td><td>-0.35 *</td><td></td></tr></table></body></html>
+
+\*代表差异显著度水平( $\textstyle P < 0 . 0 5$ ）
+
+http://www.ecologica.cn
+
+# 3.2怪柳分布与水文因子的关系
+
+水文条件直接控制着湿地生态系统的形成与演化,是影响湿地分异的重要因子,制约着湿地土壤的诸多生物化学特性,从而影响到湿地生物区系的类型[49]。本研究中,水文因子是怪柳分布的主要环境变量,贡献率达 $2 0 . 1 \%$ （图6)，怪柳多分布在距离河流或水洼地18- ${ \cdot } 7 0 \mathrm { ~ m ~ }$ 范围内(图5)。原因如下：(1)湿地水文变化会影响湿地土壤水分的时空分异。秦王川湿地公园地势平缓、起伏度小,地面高差较小,根据土壤水分空间自相关关系[50],离水域(河流、水洼地、湖泊)距离近,则土壤中水分含量相对较高,距离远则水分相对含量较低。因此,水文因子可通过对土壤水分梯度影响,制约着怪柳的分布（图5)。这符合Wesche 提出的水资源的可利用性是决定植被存在与分布的最关键因素的观点[51]。（2)水是湿地生态系统中最重要的物质迁移的媒介,与其他生物因子、环境因子耦合作用于湿地的生物地球化学循环过程,影响着湿地生态系统中元素的循环与转化、物质的滞留和去除、污染物的净化、沉积物的拦截等,对湿地植被的分布造成一定影响。（3)湿地水文变化会对湿地水文周期、湿地表层水流模式、湿地水文季节性变化等因子造成影响[52],怪柳离水系距离近，受到湿地水文影响的几率也变大,因而怪柳随着离水系距离的远近形成了一定的分布模式。
+
+# 3.3怪柳分布与地形因子的关系
+
+地形因素是影响微气候和局部土壤特性空间变异的首要因素,地形特征如海拔、坡向、坡度、坡位等,是影响植被生长的主要地形因子,它们共同决定水热和土壤资源的重新分配,进而对植物分布格局产生影响[53]本研究中小尺度上海拔、坡位是影响怪柳在该区域分布的地形因子之一。怪柳在秦王川湿地分布在海拔$1 8 9 0 { - } 1 9 1 3 \mathrm { ~ m } .$ 沟间地或沟坡地上(图3),与坡度、坡向不相关(表2)。原因如下：(1)秦王川湿地相对海拔变化较小( $( 1 8 9 3 \pm 2 0 ) \ \mathrm { m } ;$ ,海拔在此梯度变化范围内,不会对气压、气温、土壤类型的差异等造成很大影响,应该是通过地形起伏或地面高度差异来影响该区域土壤水分、养分状况等局部微环境变化而形成异质性环境，形成怪柳空间分布的差异性。与赵锐锋等提出的在海拔相对高差小,无明显的气候垂直分布区域,造成植物群落在空间地理分布上的变化,主要取决于地下水位和土壤含水量研究结果一致[46]。（2)怪柳分布对坡度变化的响应度不大,原因一是该研究区域内地势较为平坦,坡度变化较小( $( \leqslant 1 8 ^ { \circ }$ ),较小的坡度变化对土壤入渗率、表面径流量的控制作用十分有限,无法有效控制土壤水分、养分等的空间分布,对怪柳的分布作用也就较小,二是该区域土壤水分含量普遍较高,已经形成了特殊的土壤环境条件,不同坡度下土壤水分的空间变化较小。因此,该区域坡度因子对怪柳分布作用较小,不是影响怪柳分布的主要地形影响因子。这也印证了王国宏等提出的对于不同物种、不同指标而言,不同地形因子对其分布的影响途径和方式也是不一样的观点[54]
+
+# 4结论
+
+环境因子和植物分布关系不仅是植物个体生态适应策略的表现,也体现了植物空间格局的形成机制。秦王川湿地保育区内,柽柳种群呈聚集分布，多分布在土壤含水量 $1 5 \% - 3 0 \%$ 、导电率 ${ \leqslant } 5 \ \mathrm { m s / c m }$ 、离河流18—$7 0 \mathrm { ~ m ~ }$ 海拔 $1 8 9 0 { \scriptstyle \{ 9 1 3 \mathrm { ~ m ~ } } $ 的沟间地或沟坡地上。在该局部尺度上和秦王川湿地特殊生境中,怪柳的分布主要受土壤水分、土壤盐分及离河流距离3个环境变量的影响,海拔、坡位等地形因子则是通过因子耦合改变该区域土壤水分、盐分含量,而间接的影响了怪柳的分布。由于怪柳的分布与地形因子、水文因子和土壤的水盐含量相关,因此可以利用地形因子、水文因子及土壤因子的差异性来预测怪柳种群在该区域的分布。本文仅从土壤因子、水文因子、地形因子等环境因子角度分析了怪柳分布的变化特征,怪柳的分布可能会受到林下植被、人为干扰、物种生物特性、土壤类型等因素的影响,还需进一步实验验证。
+
+# 参考文献（References）：
+
+[1]Greig-mithPeseofadoadcotigouquadatsintesudyoftheructureofplantcommutiesAalsfotay956（2)  
+293-316.[2］祝燕，白帆，刘海丰,李文超，李亮,李广起，王顺忠，桑卫国.北京暖温带次生林种群分布格局与种间空间关联性.生物多样性，2011,  
+19(2):252-259.
+
+http://www.ecologica.cn
+
+[3］郭屹立，王斌，向悟生，丁涛，陆树华，黄俞淞，黄甫昭，李冬兴，李先琨.广西弄岗北热带喀斯特季节性雨林监测样地种群空间点格局分析.生物多样性，2015，23(2）：183-191.  
+［4］张金屯.植物种群空间分布的点格局分析.植物生态学报，1998，22（4）：344-349.  
+[5］闻志彬，张杰，张明理.中国特有种天山猪毛菜的地理分布及潜在分布区预测.植物资源与环境学报，2016,25(1)：81-87.  
+[6]AndersonRP，PetesonAT,Gmez-LaverdeM.Usingnc-basedGSodelingtestgeogapcpredictiosfcompetiveecusiodcompetitive release in South American pocket mice. Oikos，2002，98(1）：3-16.  
+［7］火艳，李燕楠，祝遵凌.四种常绿乔木潜在及未来分布区模拟研究.中国野生植物资源，2015，34（4)：72-76.  
+[8］武小钢，杨秀云，边俊，朱烨，曹晔.长治城市湿地公园滨岸区植物群落特征及其与土壤环境的关系.生态学报，2015，35（7)：2048-2056.  
+［9］方精云，沈泽昊，崔海亭.试论山地的生态特征及山地生态学的研究内容.生物多样性，2004，12（1)：10-19.  
+[10]GongXseacinsptsuctidsin the Xilin River Basin，Inner Mongolia,China.Journal of Arid Environments,2OO8,72(4）：483-493.  
+[11]Torma A，Cs(szárP.Species richnessand compositionpaterns acrosstrophic levelsoftruebugs(Heteroptera）in the ricultural landscape of thelower reach of the Tisza River Basin.Journal of Insect Conservation，2O13,17(1）：35-51.  
+[12］钱亦兵，蒋进，吴兆宁.艾比湖地区土壤异质性及其对植物群落生态分布的影响.干旱区地理，2003，26(3)：217-222.  
+[13]PepperMKeoghJS.ogeogaphofheKimberleyWsteAustraliaarevieofladscapeevolutionadbioticesponseiacitrefugium. Journal of Biogeography，2014,41（8）:1443-1455.  
+[14]郝占庆，代力民，贺红士，MalandnoffDJ，邵国凡.气候变暖对长白山主要树种的潜在影响.应用生态学报,2001，,12(5)：653-658.  
+[15] 张清华，郭泉水，徐德应，阎洪.气候变化对我国珍稀濒危树种——琪桐地理分布的影响研究.林业科学,2000,36(2）：47-52.  
+[16] 李峰，周广胜，曹铭昌.兴安落叶松地理分布对气候变化响应的模拟.应用生态学报，2006，17（12）：2255-2260.  
+[17] 拉琼，扎西次仁，朱卫东，许敏，钟扬.雅鲁藏布江河岸植物物种丰富度分布格局及其环境解释.生物多样性，2014，22（3)：337-347.  
+[18］冯建孟，徐成东.云南南滚河自然保护区种子植物分布区类型多样性的垂直分布格局.西南大学学报：自然科学版，208，30（1)：46-50.  
+[19] 杜丽侠，邢韶华.北京八达岭地区灌木群落空间分布格局与土壤环境因子的关系分析.西北植物学报，2009，29（3）：601-607.  
+[20] 王雪宏，栗云召，孟焕，董洪芳，郭岳，佟守正.黄河三角洲新生湿地植物群落分布格局.地理科学,2015，35（8)：1021-1026.  
+[21] 赫晓慧，郑东东，郭恒亮，马国军.郑州黄河湿地自然保护区植物物种多样性对人类活动的响应.湿地科学，2014，12(4)：459-463.  
+[22] 李玉霞，周华荣.干旱区湿地景观植物群落与环境因子的关系.生态与农村环境学报，2011,27(6)：43-49.  
+[23] 董鸣.异质性生境中的植物克隆生长：风险分摊.植物生态学报，1996,20(6)：543-548.  
+[24] 孙丽坤，刘万秋，陈拓，刘光绣.怪柳属（Tamarix)植物生境适应机制与资源价值研究进展.中国沙漠，2016,36(2）：349-356.  
+[25] 李尝君，郭京衡，曾凡江，热甫开提，郭自春.多枝怪柳（Tamarix ramosissma）根、冠构型的年龄差异及其适应意义.中国沙漠，2015，35(2): 365-372.  
+[26］朱绪超，袁国富，邵明安，杜涛.塔里木河下游河岸怪柳林冠层导度变化特征及模拟.生态学报，2016，36(17)：5459-5466.  
+[27］吴桂林，蒋少伟，周天河，王丹丹，李君.不同地下水埋深胡杨与怪柳幼苗的水分利用策略比较.干旱区研究，2016,33(6)：1209-1216.  
+[28]XiaJaZXscerfcontents and salinity under saline mineralization conditions. CATENA,2016,142:166-176.  
+［29］郭自春，曾凡江，刘波，李尝君，张波.疏叶骆驼刺和多枝怪柳不同时期光合特性日变化及其与环境因子的关系.西北植物学报，2015，35(1) : 189-198.  
+[30] 孔庆仙，夏江宝，赵自国，屈凡柱.不同地下水矿化度对怪柳光合特征及树干液流的影响.植物生态学报，2016,40（12）：1298-1309.  
+[31] 冯威，赵成章，韩玲，徐婷，郑慧玲，段贝贝.张掖湿地宽苞水柏枝和多枝怪柳种群的空间分布格局与关联性分析.生态学杂志，2016,C 35(10) : 2583-2591.  
+32 LuQQ,BaiJGoZaQWangStiadasoaldistrbutiosesntsforetalsinmrinesd,China.Wetlands,2016,36(S1）: 125-136.  
+[33] Gao CQ,YangGYGuoYC,ZhaoY,YangCP.OverexpresioofZfromarixispidiprovestolerane txogeousBadmethyl viologen.Trees，2016，30(6）：1935-1944.  
+[34] 王旭东，段福洲，屈新原,李丹，余攀锋.面向对象和 SVM结合的无人机数据建筑物提取.国土资源遥感，2017,29（1)：97-103.  
+[35] 程维明，周成虎，柴慧霞，赵尚民，李炳元.中国陆地地貌基本形态类型定量提取与分析.地球信息科学学报，2009,11（6)：725-736.  
+[36] 伍维模，王家强，曹琦，吴嘉平.塔里木盆地北缘盐土有机碳含量的贝叶斯地统计预测.应用生态学报，2017，28（2)：439-448.  
+[37] 张雅琼，梁存柱，王炜，王立新，彭江涛，闫建成，贾成朕.芨芨草群落土壤盐分特征.生态学杂志，2010,29(12)：2438-2443.  
+[38］常伟，党坤良，武朋辉，李明雨.秦岭林区锐齿栎次生林种群空间分布格局.生态学报，2016，36(4)：1021-1029.  
+[39］刘吉平，董春月，刘家福，郑凯俊.三江平原孤立湿地空间分布及其影响因素.生态学报,2016,36(11)：3280-3291.  
+[40]PhiipsdeRhEoodeligfsacstrbolalel/4): 231-259.  
+[41]LiBNWeiW,MaJ，ZangRJaximtropichbsdmodeling(Maxent）fpotentialgeogapcaldistrbutiosoffruiteDcusbivitatus，D.ciliatusandD.vertebrates(Diptera：Tephritidae).Acta Entomologica Sinica,209,52（10)：1122-1131.  
+[42] 冯益明，刘洪霞.基于 Maxent与GIS 的锈色棕榈象在中国潜在的适生性分析.华中农业大学学报，2010,29(5)：552-556.  
+[43] McneilBJ,HanleyJA.Statisticalappoachesto theanalysisofROCcurves.MedicalDecision Making,1984,4（2)：136-149.  
+[44] 胡秀，吴福川，郭微，刘念.基于 Maxent 生态学模型的檀香在中国的潜在种植区预测.林业科学，2014，50(5）：27-3.  
+[45] 刘文治，李思悦，张全发.丹江口库区湿地生态系统的现状分析及研究展望.环境科学与管理，2009,34（12)：122-126.  
+[46] 赵锐锋，周华荣，钱亦兵，张建军.塔里木河中下游湿地及周边植物群落与环境因子的关系初探.应用生态学报，2006,17（6):955-960.  
+[47] 刘铭庭.新疆怪柳属植物研究及推广应用.中国沙漠，1996，16(4)：428-429.  
+[48] 张道远，尹林克，潘伯荣.怪柳泌盐腺结构、功能及分泌机制研究进展.西北植物学报，2003，23（1)：190-194.  
+[49] 游海林，徐力刚，刘桂林，吴永明，刘丽贞，姜加虎.鄱阳湖湿地景观类型变化趋势及其对水位变动的响应.生态学杂志，2016，35（9)：2487-2493.  
+[50］杨泉，赵成章，史丽丽，党晶晶，查高德.祁连山地甘肃臭草斑块土壤水分的空间自相关分析.生态学杂志，2014，3（3）：716-722.  
+[51]WescheK,ieheS,ieheG.PlancomuitiesoftheGoiGurvaSahaatioalPark(SouthobiAak,ongolia)adolla05,6(1):149-205.  
+[52］邓伟，胡金明.湿地水文学研究进展及科学前沿问题.湿地科学,2003，1（1)：12-20.  
+[53]WangQG,XuYZ,LuZJ,BaoDC,GuoYL,LuJM,ZhangKH,LiuHB,MengHJ,QiaoXJ,HuangHD,JiangMX.Disentangling heeffectsoftopogaphyandspaceonthedistributiosfdominantspeiesinasubtropicalforestChineseScienceuletin，2014，9（5）：5113-5122.  
+［54］王国宏.祁连山北坡中段植物群落多样性的垂直分布格局.生物多样性，2002，10(1)：7-14.

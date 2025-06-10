@@ -1,0 +1,246 @@
+# IDDS：一种双链结构传染病数据共享区块链模型
+
+刘炜ac，李阳b,c，田钊a，彭宇飞bc，佘维a,c+(郑州大学a.软件学院;b.信息工程学院;c.互联网医疗与健康服务河南省协同创新中心，郑州 450000)
+
+摘要：现有传染病预防信息系统在工作过程中存在数据难以流通和共享等问题。为了解决这些问题，借由区块链的去中心化、不可窜改和集体维护等特点，提出了一个基于DPoS 共识算法的传染病数据共享模型IDDS，该模型采用双链结构作为区块链架构，提高了工作效率；结合IPFS获得大容量存储空间，解决了区块数据存储面临的空间问题，保障了数据存储稳定性与共享安全性；提出了疾病防控共识算法，实现了传染病数据共享模型的高效运行。此外，通过与其他数据共享模型的对比，突出了该模型在数据存储与共享安全等方面的优势。
+
+关键词：区块链；双链；DPoS；IPFS；数据共享 中图分类号：TP393 doi:10.19734/j.issn.1001-3695.2020.01.0031
+
+IDDS: double-chain structure infectious disease data sharing blockchain model
+
+Liu Weia,c, Li Yangb,c, Tian Zhaoa, Peng Yufeib,c, She Weia, ct (a.SchoolofSoftware,b.SchoolofInformation Engineering,c.Collborative Innovation Centerfor Internet Healthcare, Zhengzhou University,Zhengzhou 450oo0,China)
+
+Abstract:Theinfectious disease preventioninformationsystem has the problems thatdataisdificult tocirculateand share between monitoring systems.To solve these problems,this paper based on Delegated Proof of Stake consensus algorithm combined with blockchain technology proposedan Infectious DiseaseData Sharing model.By virtue ofthecharacteristics of the blockchain,suchasdecentralization,non-tampering andcollctive maintenance,double-chain beusedas theblockchain architecture,which improves thework eficiency.Combined with Inter-PlanetaryFile System,largecapacitystorage spaceis obtained,which solves the space problem faced byblockdata storage and ensures the stabilityand sharing security ofdata storage.Aconsensus algorithmfordisease preventionandcontrol torealizethe efficient operationis proposed by this paper. In addition,bycomparing with otherdata sharing models,theadvantages ofthis model indata storage and sharing security are highlighted.
+
+Key words: blockchain; double chain; delegated-proof-of-stake; inter-planetary file system; data sharing
+
+# 0 引言
+
+随着信息化时代的发展，世界各国均已针对“区块链 $^ +$ 医疗”开展研究并进行广泛应用[I\~10]。区块链采用链式存储结构，具有去中心化、不可窜改、集体维护等特点，可以很好的解决现有传染病预防控制信息系统存在的数据共享安全等问题。传染病预防信息系统对于传染病的监测、预防起着非常重要的作用。我国在2003年首次提出并建设了一套传染病网络直报信息平台一一中国疾病预防控制信息系统[1]，极大地提高了报告的及时性和完整性。但在实践过程中，暴露出了现有传染病预防信息系统存在的一些问题，如在数据传输过程中，容易发生隐私数据泄露，存在安全风险；系统与系统之间的数据无法较好的进行流通，影响了疫情报告的有效性和即时性。
+
+区块链与医疗领域结合已有许多先例，如Azaria等人提出的MedRec健康记录管理系统，利用区块链的独特属性来保存和共享电子健康信息档案[12]；Xia等人提出的BBDS电子健康记录和共享系统[13]为敏感信息提出了一个安全、可扩展的访问控制系统；他们提出的另一个MeDShare 系统[14]解决了医疗大数据在无信任环境中医疗数据共享问题，其用于在云服务提供商之间共享医疗数据，同时提供数据访问控制、来源和审计；文献[15描述了一个分散的个人数据管理系统，确保用户拥有和控制他们的数据，并且实现了一个将区块链转换为自动访问控制管理器的同时不需要信任第三方的协议：文献[16]提出了一个管理和共享癌症患者护理的 EMR数据的框架，可以确保数据的隐私、安全、可用性以及对EMR数据的细粒度访问控制，显著缩短了EMR共享的周转时间，改善了医疗保健决策，降低了总体成本；Peterson等人提出了基于区块链的方法[17]来共享患者数据，在数据共享网络中可以高效和安全地共享医疗信息；Linn等人描述了一个基于区块链的健康记录访问控制管理器[18]，用户可以完全拥有其数据的权限并可以分配权限给不同的人。从目前国内外的研究可以看出，已有区块链与医疗数据共享结合的先例，但现有的区块链数据共享模型中，大多为采用单链结构私有链，工作效率低，节点权限难以控制，数据存储空间也较小，难以满足传染病数据共享平台的数据存储、节点权限控制等需求。
+
+针对以上问题，本文提出一种基于DPoS共识算法的传染病数据共享模型，利用联盟链的双链结构提高工作效率，结合IPFS(Inter-PlanetaryFile System)存储大容量医疗数据，改进DPoS共识算法，提高共识的安全性和投票节点积极性。
+
+# 1 相关技术
+
+# 1.1区块链
+
+区块链本质上是一种分布式数据库，由众多的数据区块按时间顺序连接而成[19\~24]。每个数据区块均由区块头(Header)和区块体(Body)两部分组成：a)Header包含的主要信息是上一区块的哈希散列值，用来实现区块的连接，保证了链式结构的完整性和可追溯性；b)Body包含一段时间内所有的交易信息，这些交易通过Merkle树的哈希过程生成唯一的Merkle根并记录在Header中。
+
+区块链主要有三种形式：公有链、联盟链和私有链。公有链具有完全去中心化、全网公开、数据透明等特点，分布式系统中所有节点均可参与链上数据的读写、验证和共识过程，并通过概率性共识机制(例如PoW、PoS)获得相应的经济激励。由于公有链的这些性质，使其在金融领域和数字货币方面得到了广泛的应用。私有链具有工作效率高、隐私保护性好、交易成本低等特点，但相比较于公有链和联盟链，其去中心化程度较低，对于节点权限控制严格。综上所述，由于医疗服务系统的特殊性，公有链与私有链并不适用于构建传染病数据共享模型。
+
+联盟链是一种有限去中心化区块链架构，系统中各个节点通常有与之对应的实体机构组织，通过授权之后才能加入或退出网络。各节点可根据具体的需求组成不同的利益联盟，共同维护联盟链系统的正常运转。联盟链在交易效率、隐私安全性等方面表现良好，同时可以更灵活的接入节点。
+
+# 1.2授权股份证明(DPoS)
+
+授权股份证明(DPoS，Delegated Proof of Stake)是一种投票机制，由全网中所有持有代币的节点进行投票，得票最多且愿意成为打包节点的前101个节点成为授权节点，进入打包队列，节点持有的代币相当于股份，持有代币越多，节点投票所占权重也越大。节点投票选出的101个节点将按照顺序对区块链中区块进行打包产生区块，打包过程将获得代币奖励。如果授权节点错过打包区块，系统将从打包队列中将其剔除。
+
+DPOS 算法可以将区块生成时间从10分钟减少至数秒，实现了区块生成效率的成倍增加，使得交易确认速度加快，但其对于故障及恶意节点的处理仍存在许多困难，存在安全隐患。
+
+# 2 传染病数据共享模型IDDS
+
+本文使用双链结构区块链作为模型架构，提出了一种基于DPoS共识算法的传染病数据共享模型IDDS(InfectiousDiseaseDataSharemodel)，解决系统数据共享安全问题，使得监测系统间的数据共享安全得以保证。
+
+# 2.1 IDDS架构
+
+传染病数据共享模型IDDS六元组定义如下：$\mathrm { I D D S } = ( H N , D N , E N , C _ { I D D S } , , \mathrm { D P C C } , T )$
+
+其中： $H N = \{ h n _ { i } | i \in N ^ { + } \}$ 为医疗机构节点有限集；$D N = \{ d n _ { i } \vert i \in N ^ { + } \}$ 为疾控中心节点有限集； $E N = \{ e n _ { i } | i \in N ^ { + } \}$ 为边缘节点有限集；CIDDs是IDDS区块链架构，包含快速病情收集链，实时病情分析链和用户系统三层；DPCC(DiseasePrevention and ControlAlgorithm)为疾病防控共识算法。$T = \{ t _ { f } \ | \ t _ { f } \in H N \times E N \cup E N \times D N , f \in N ^ { + } \}$ 是各个节点之间交易的有限集。其中， $H N \times E N$ 是 $H N$ 与 $E N$ 之间交易的有限集， $E N \times D N$ 是 $E N$ 与 $D N$ 之间交易的有限集。
+
+IDDS模型采用双链架构，共分为三层，分别为用户系统$( S y s )$ 、实时病情分析链Slowchain $( S C )$ 、快速病情收集链FastChain $( F C )$ ，如图1所示。
+
+a) $F C$ ：IDDS双链结构中的FastChain，为快速病情收集链， $F C$ 中包含区块fastblock $( \boldsymbol { \mathit { f b } } )$ 。 $f b$ 中存储病情数据摘要，由各个医疗机构主动生成并上传。
+
+b)SC：IDDS双链结构中的 SlowChain，为实时病情分析链， $S C$ 中包含区块slow block $( s b )$ ，对 $f b$ 中的病情数据分析后生成的数据报告将被存储在 $s b$ 中。
+
+c)Sys：获取 $s b$ 中的疫情分析报告，监控各地区疫情的实时数据，对于可能发生疫情的地区进行预警。
+
+![](images/48dc955236892d844336a86e4f11a8faa20810d79d6ae273cee28b209ea44a2b.jpg)  
+图1IDDS 基础架构图
+
+在双链结构中， $F C$ 链和SC 链通过基于hash 值的方式锚定连接。为了实现对大容量数据存储访问，减轻区块链打包压力，IDDS模型与IPFS相结合，将疫情数据data存储在IPFS 数据库中， $F C$ 链区块 $f b$ 中只存储data 在IPFS 中的hash值与数据摘要等信息； $S C$ 链中节点通过智能合约对FC中区块所对应的IPFS上疫情数据信息data 进行分析，将分析结果存储在 $S C$ 链的区块 $s b$ 上，结果公开可供Sys查看，使得疫情分析结果与隐私数据隔离，增强了对疫情数据安全性和隐私性的保护。
+
+IDDS模型中的节点分为3类：医疗机构节点 $( h n )$ 、疾控中心节点(dn)、边缘节点(en)。由这三类节点组成了IDDS区块链模型。hn、dn、en节点关系如图2所示。
+
+![](images/cf9e26a59c569bbe0d92de3d416b0f2d8746f86260133ddf914cdd0f67791022.jpg)  
+Fig.1Basic architecture of IDDS   
+图2IDDS节点间关系图
+
+节点各自职能定义如下：
+
+a)hn：医疗机构节点，用于上传实时疫情数据，负责 $F C$ 区块打包。
+
+b)dn：疾控中心节点，负责 SC区块打包。
+
+c) $e n$ ：边缘节点，用于连接 $h n$ 与 $d n$ ，由一部分疾控中心节点作为边缘节点。
+
+本文提出的CIDDs拓扑结构示意图如图3所示。在该方案中，每个医疗机构及疾病控制管理中心都具有其对应的节点。 $h n$ 与 $d n$ 分别属于 $F C$ 和SC，由 $e n$ 进行连接。其中hn属于 $F C$ ，而dn属于 $S C$ 。IDDS模型拓扑结构如图3所示。
+
+![](images/a5bcb1f98317971133ec0bcdbb5f3546cd0b63964e0fa4832f281c460c85808b.jpg)  
+Fig.2IDDS node relationship diagram   
+图3IDDS 拓扑结构示意图Fig.3Schematic diagram of IDDS topology
+
+# 2.2 数据传输与处理
+
+在IDDS 模型中，hn 调用智能合约将疫情数据(data)加密后上传至IPFS数据库，IPFS对data进行加密后返回的hash值与病情数据摘要一同保存在 $f b$ 中；每生成3个 $f b$ ，dn将通过 $f b$ 中的hash值从IPFS中索引到对应的数据，对数据处理后得到分析结果，打包到 $s b$ 中，最终 $s b$ 中的分析结果将被上传至 Sys 中。
+
+IDDS模型的数据流图如图4所示。此时各个医疗机构上传的疫情数据经由智能合约分析后被上传至疾病控制管理中心。由现行传染病爆发判定标准[25]，当发生传染病疫情时，该方案建立了基于区块链的信息共享模型，确保了疫情数据传输过程的即时有效，由智能合约分析得到有效数据后将数据上传至疾病控制管理中心，实现对传染病疫情的实时监测。
+
+![](images/35fc162bcb54492dd7c5304a550dd8e09516b830cb8d1c5d474846b995d0ef61.jpg)  
+图4IDDS 数据流图  
+Fig.4IDDS data flow diagram
+
+# 2.3疾病防控共识算法DPCC
+
+针对共识过程中恶意节点和投票积极性等问题，本文在DPoS共识机制的基础上，从信誉积分、投票机制、奖励与阈值等三个方面提出了一种新的改进方案一一疾病防控共识算法DPCC(Disease Prevention and Control Algorithm)，解决了DPoS算法中存在的对恶意节点处理不及时，节点投票积极性不高等问题。
+
+# 2.3.1信誉积分Reputation Credit
+
+在DPCC中，提出了信誉积分RC(Reputation Credit)的概念。RC作为一种节点评价指标，用于评价节点的好坏。信誉积分越高，表示节点在之前的区块打包过程中表现良好，值得信任；信誉积分低则表示节点可能为恶意节点。对于表现良好的节点，将根据其对于区块打包的贡献程度，分别奖励其不等的RC。而对于故障节点或恶意节点，无法完成打包操作或打包错节点时，DPCC将扣除节点的RC，同时为其投赞成票的节点RC也将被扣除。扣除RC将意味着节点成为打包节点的难度加大，在为其他节点投票时所占权重更小，无法获得更多的奖励。
+
+# 2.3.2投票机制
+
+在DPoS共识算法中，通过计算该节点获得的投票数来选择进入打包队列(hlist)的节点。DPCC中对传统的DPoS共识算法的投票机制进行了改进，普通节点向自己所信任的节点投赞成票PV(PositiveVote)，而向信任的节点投反对票$D V$ (DisagreeVote)，在选举打包节点时即预防恶意节点进入hlist。
+
+本文结合信誉积分提出了一种新的计算节点总得票数(Total)的公式：
+
+$$
+T o t a l = ( \sum _ { 1 } ^ { \mathrm { m } } P V _ { i } - \sum _ { 1 } ^ { n } D V _ { i } ) / ( m + n ) + R C
+$$
+
+在式 $( 1 ) { \sim } ( 3 )$ 中， $P V _ { i }$ 为投 $P V$ 的第 $\mathrm { ~ i ~ }$ 个节点所拥有的 $R C$ 值， $D V _ { i }$ 为投 $D V$ 的第i个节点所拥有的 $R C$ 值， $\mathbf { \nabla } _ { m }$ 为向该节点投 $P V$ 的节点个数， $n$ 为向该节点投 $D V$ 节点个数。通过求出所有投赞成票节点的 $R C$ 值之和，减去向该节点投反对票节点的 $R C$ 值之和后求平均值，与该节点自身所拥有的 $R C$ 相加，得到Total，取Total值最高的前百分之10的节点进入hlist，对区块进行打包。当Total值小于0时，将Total值计为0。在一轮投票中，对节点所获Total值由高到低进行排序，根据Total的高低，将节点分为不同类型：
+
+a）打包节点：Total值为最高的前 $10 \%$ 的节点；  
+b）普通节点：Total值位于由高到低 $10 \%$ 到 $90 \%$ 的节点;  
+c）恶意节点：Total值位于最后 $10 \%$ 的节点。
+
+# 2.3.3奖励与阈值
+
+DPoS算法对于成功打包区块的节点和投票选举这些打包节点的普通节点会给予一定的奖励Reward $( R e )$ 。这些奖励可以增加普通节点的投票积极性，避免投票率低和无人投票等问题。其他节点投票时通过该节点在之前打包过程中的表现可以自由选择赞成票还是反对票，当其投给赞成票的节点进入hlist并成功打包节点，该节点将根据信誉积分的多少获得相应的奖励；相应的，当节点为恶意节点时，向该节点投反对票的节点将得到奖励，用以激励节点向潜在的恶意节点投反对票。
+
+随着节点 $R C$ 的增加，节点自身的权重也越来越大，所以当 $R C$ 增加到一定值时，需要削减以平衡该节点与网络中其他节点的关系。设 $\boldsymbol { a }$ 为 $R C$ 阈值， $\beta$ 为 $R C$ 最大值， $R e _ { i }$ 为参与投票或进行打包的第i个节点所得奖励。式(2)以成功打包区块的打包节点为例，考虑了节点 $R C$ 值小于 $\boldsymbol { a }$ 和处于 $\boldsymbol { a }$ 到 $\beta$ 之间时，节点所获 $R e$
+
+$$
+R e _ { i } = \left\{ \begin{array} { c c } { { P V _ { i } / ( \sum _ { 1 } ^ { \mathrm { m } } P V _ { i } + R C ) ^ { * } R e } } & { { R C \leq \alpha } } \\ { { } } & { { } } \\ { { P V _ { i } / ( \sum _ { 1 } ^ { \mathrm { m } } P V _ { i } + R C ) ^ { * } R e ^ { * } ( \alpha / R C ) } } & { { \alpha < R C < \beta } } \end{array} \right.
+$$
+
+当节点 $R C$ 达到最大值 $\beta$ 时，节点 $R C$ 值将被重置为阈值 $\scriptstyle a$ ，即使得节点在hist的选举中保持优先，又维护了网络中各节点的被选举公平性，防止了节点 $R C$ 值持续升高，保证了其他节点的选举积极性。
+
+节点信誉积分越高，表示该节点在区块打包过程中的表现越好，其他节点投票给它更有可能获得 $R e$ ，避免惩罚；而它向其他节点投票时，所占权重越大，越具有代表性。
+
+# 2.3.4信誉积分惩罚机制
+
+而当节点为故障节点或恶意节点，并未成功打包区块时，该节点将被扣除信誉分并将其从hlist中剔除，设 $\gamma$ 为惩罚系数， $P U$ 为节点被惩罚时所扣除的 $R C$ 值，向恶意节点投赞成票选举其进入hlist 的节点及向成功打包区块的打包节点投反对票的节点将被扣除 $P U$ ，以向恶意节点投 $P V$ 为例，如式(3)所示。
+
+$$
+P U = \left\{ { { P V _ { i } } / { \sum _ { 1 } ^ { n } { P V _ { i } * \gamma * R e } } } \right. \quad R C > \theta
+$$
+
+在DPCC共识算法中，将按照式(1)得到区块链网络中所有节点的Total值，对其进行排序，取最高的前百分之10的节点组成hlist，对区块进行打包。若hlist中的节点成功打包区块，该节点及为其投 $P V$ 的节点将获得相应 $R e$ ；若hlist中的节点为恶意节点，无法正常打包区块，由式(3)扣除该节点及为其投赞成票节点的 $R C$ ，扣除值为 $P U _ { \circ }$ 设 $\theta$ 为 $R C$ 最小值，当 $R C$ 被扣除至 $\theta$ 以下时， $R C$ 值将不再变化。
+
+以 $f b$ 的打包过程为例，DPCC工作过程如下所示。
+
+输入：疫情数据输出： $_ { f b }$
+
+1由式(1)计算得Total值序列  
+2将TotaL值降序排序  
+3取前百分之10节点为组成hlist;  
+4 while(i<hlist.length()){//对hlist列表进行遍历  
+5if( $h n _ { i }$ 无法正常打包区块){  
+/\*若hList中第i个节点为恶意节点\*/  
+6 由式(2)(3)计算得 $R e _ { i , } P U ; / { ^ * }$ 计算相应 $R e _ { i , } P U ^ { * } /$   
+） ${ \textsc { 7 } } R C { = } R C { - } P U$ ；//扣除恶意节点及为该节点投赞成票  
+8 $P V _ { i } = P V _ { i } - P U$ ；//的节点信誉积分  
+9 $D V _ { i } = D V _ { i } + R e _ { i }$ ；//奖励向恶意节点投反对票的节点  
+10 将恶意节点从hList中踢除;  
+11 $\mathbf { i } \gets \mathbf { i } + \mathbf { 1 }$   
+12}  
+$1 3 h { { n } _ { i } }$ 对区块进行打包；  
+14由式(2)(3)计算得 $R e _ { i } , P U ; / { ^ * }$ 计算相应 $R e _ { i , } P U ^ { * } /$   
+15 $R C = R C + R e$ ；//打包节点获得奖励，信誉值增加  
+16 $P V _ { i } = P V _ { i } + R e$ ；//奖励向打包节点投赞成票的节点  
+17 $\scriptstyle D V _ { i } = D V _ { i } - P U$ ；//惩罚向打包节点投反对票的节点  
+18返回 $_ { f b }$ （204号  
+19}
+
+# 3 实验验证及分析
+
+通过仿真实验对DPCC共识算法进行模拟并对其有效性及安全性进行分析。实验基于python语言模拟100个网络节点进行投票，其中设置恶意节点比率为百分之10，α为80,β为100，0为20，共进行了200轮。
+
+# 3.1投票节点总得票数的合理性验证
+
+由于节点所拥有的信誉积分不同，投票阶段所得到的赞成票和反对票也不同。实验主要分析在同一轮投票过程中，拥有不同 $R C$ 的节点所获得的 $P V$ 以及Total比较，实验结果如图5所示。
+
+![](images/30cae0df1164ee09f5bd57e4c425ac795052e2705dce1246512dd55dd4353bb1.jpg)  
+图5节点Total值变化趋势图  
+Fig.5Total value change trend graph of nodes
+
+由投票结果可以看出，当节点的 $R C$ 值较小时，所得到的赞成票较少，因此Total值也越少。而随着节点 $R C$ 值的增大，节点得到的 $P V$ 也随之增加，拥有最多 $R C$ 的节点所得到Total值最多，即信誉积分越多的节点进入hlist的机会也越大。在投票过程中，节点也会倾向于向RC值大的节点进行投票，有助于自己获得更多 $R e _ { \circ }$ 节点Total值不会一直增加，当节点自身的 $R C$ 达到最大值时会被重置为阈值，节点Total值也会随之下降。
+
+# 3.2多轮投票中不同类型节点的比较
+
+本文比较了在多轮投票中，打包节点、普通节点与恶意节点所得票数的不同。本文记录了200次投票中普通节点与恶意节点的得票数，通过绘制折线图来体现在200次投票过程中不同类型节点所得票数趋势，如图6所示。
+
+通过对比分析，在多轮投票过程中，打包节点所得票数明显逐渐升高并在接下来投票过程中保持领先，表示打包节点由于自身表现稳定，无不良记录，使得其他节点更倾向于投给它来获得 $R e$ ；普通节点通过正确的投票，整体呈现稳定上升趋势；而对于恶意节点，初始时与普通节点所获票数相似，随着轮数的增加，其他节点将向恶意节点投反对票来获得Re，恶意节点所得票数逐渐减少，有效防止了恶意节点进入hlist。
+
+![](images/e2a31f9f6c599e083a3b38a95cb67f83383ef1ad99e4727f67e49e6408d1647f.jpg)  
+图6200轮投票结果
+
+# 3.3多轮投票中打包节点RC值变化趋势
+
+在多轮投票中，打包节点由于表现良好， $R C$ 值将持续升高，达到阈值80后，根据式(2)，将改变增加速度直到达到最大值100。达到最大值后，系统将节点 $R C$ 重置为阈值，RC继续按照式(2)增加，达到最大值之后将再次被重置，以循环50轮为例，如图7所示。
+
+![](images/ca2e8c08114608b30f8bd7acfb49c8758551ae44234e81bcfd3978a377f3584a.jpg)  
+Fig.620o rounds of voting results   
+图7打包节点RC变化趋势图  
+Fig.7RC change trend graph of package nodes
+
+# 3.4模型分析
+
+本文从共识机制、安全性和效率等方面与其他模型进行了对比，如表1所示，IDDS模型采用基于联盟链的双链结构可以减轻主链压力，提高系统工作效率，更好的实现数据安全共享。同时，分析了当前传染病预防信息系统面临的隐私安全、数据存储和工作效率等方面的问题以及IDDS所具有的优势(如表2所示)。当面临大容量存储问题时，IDDS 模型结合IPFS文件系统来实现对大规模数据的存储及便捷访问，有效解决已有基于区块链模型存在的区块容量小等问题；节点将数据存储在IPFS中，IPFS返回的hash值被存储在FC的区块fb中，可以有效保护医疗数据泄露和隐私安全；双链架构保证了区块的打包效率，DPCC共识算法使得在数据传输及区块打包过程中有效减少了资源浪费。但本模型仍有需要改进的地方，在未来的工作中将对模型做进一步的改进，提高工作效率，完善共识算法。
+
+# 4 结束语
+
+随着区块链技术的发展，区块链与医疗领域的结合将越来越多，医疗领域的隐私安全、数据共享等问题已经得到越来越多的关注。本文研究了现有传染病预防信息系统中存在的数据难以共享等问题，提出了具有去中心化、工作效率高、存储空间大的传染病数据共享模型，满足越来越多的医疗数据安全共享与大量医疗数据存储需求。本文希望为未来的智慧医疗研究提供新的思路，推动智慧医疗与区块链的结合，共同向前发展。
+
+表1IDDS 与其他解决方案对比  
+Tab.1IDDS compare with other solutions   
+
+<html><body><table><tr><td>共识机制</td><td></td><td>安全性</td><td>效率</td></tr><tr><td>IDDS</td><td>DPCC</td><td>在 DPoS 的基础上对其进行了改进，提高节点活跃 度，剔除恶意节点，确保系统安全性</td><td>效率高</td></tr><tr><td>MedRec</td><td>PoW</td><td></td><td>效率低</td></tr><tr><td rowspan="2">MeDShare</td><td rowspan="2"></td><td>通过智能合约和访问控制机制跟踪数据行为，并在</td><td>元组的大小以及数据的处理和匿名化都会增加延</td></tr><tr><td>检测到违反数据权限行为时撤销访问权限</td><td>迟，注重安全性</td></tr></table></body></html>
+
+表2当前面临的问题及IDDS 解决方案
+
+Tab.2Current problems and solutions for IDDS   
+
+<html><body><table><tr><td>类型</td><td>面临问题</td><td>IDDS应对方法及分析</td></tr><tr><td rowspan="2">隐私和安全</td><td>可窜改</td><td>采用基于区块链的底层架构，利用区块链的去中心化、不可窜改等特</td></tr><tr><td>数据泄露</td><td>点保证数据安全；DPCC共识算法有效对恶意节点进行了处理，保障</td></tr><tr><td rowspan="4">数据存储</td><td>黑客攻击和数据安全</td><td>了IDDS的有效运行</td></tr><tr><td>区块容量小</td><td>将数据存储在IPFS文件系统中，实现了对大规模数据的存储及便捷</td></tr><tr><td>访问便捷性</td><td></td></tr><tr><td>大容量数据存储</td><td>访问</td></tr><tr><td rowspan="2">工作效率</td><td>所需时间长</td><td>IDDS采用双链架构提高工作效率；</td></tr><tr><td>浪费算力资源</td><td>DPCC 相较于PoW共识算法减少了资源浪费</td></tr></table></body></html>
+
+# 参考文献：
+
+[1]Li C,Cao Y,Hu Z,et al.Blockchain-based Bidirectional Updates on Fine-grained Medical Data [C]// 2019 IEEE 35th International Conference on Data Engineering Workshops (ICDEW).IEEE,2019: 22- 27.   
+[2]Chen Y,Ding S,Xu Z,et al.Blockchain-based medical records secure storage and medical service framework [J]. Journal of medical systems, 2019,43 (1): 5.   
+[3]JamilF,HangL,KimKH,et al.ANovel Medical Blockchain Model for Drug Supply Chain Integrity Management in a Smart Hospital [J]. Electronics,2019,8(5):505.   
+[4]Patel V.A framework for secure and decentralized sharing of medical imaging data via blockchain consensus [J].Health informatics journal, 2019,25 (4): 1398-1411.   
+[5]Tian H,He J,Ding Y.Medical data management on blockchain with privacy [J].Journal of medical systems,2019,43 (2): 26.   
+[6]Dwivedi A D,Srivastava G,Dhar S,et al.A decentralized privacypreserving healthcare blockchain for IoT[J]. Sensors,2019,19 (2): 326.   
+[7]de Oliveira MT,Reis LHA,Carrano RC,et al. Towards a blockchainbased secure electronic medical record for healthcare applications [C]// ICC 2019-2019 IEEE International Conference on Communications (ICC).IEEE,2019:1-6.   
+[8]Shen M,Deng Y, Zhu L,et al. Privacy-preserving image retrieval for medical iot systems:A blockchain-based approach [J].IEEE Network, 2019,33 (5): 27-33.   
+[9]Cheng X,Chen F,Xie D,et al. Design of a Secure Medical Data Sharing Scheme Based on Blockchain [J]. Journal of Medical Systems,2020,44 (2): 52.   
+[10] Wu S,Du J.Electronic medical record security sharing model based on blockchain [C]/ Proceedings of the 3rd International Conference on Cryptography, Security and Privacy.2019:13-17.   
+[11]熊玮仪，冯子健．中国传染病监测的发展历程、现状与问题[J]．中 华流行病学杂志,2011,32(10):957-960.(XiongWeiyi,FENG Zijian, The development, status and problems of infectious disease monitor in China [J],Chinese Journal of Epidemiology,2011,32 (10): 957-960.)   
+[12]AzariaA,EkblawA,Vieira T,et al.Medrec:Using blockchain for medical data access and permission management [Cl// 2016 2nd International Conference on Open and Big Data(OBD).IEEE,2016:25- 30.   
+[13] Xia Q,Sifah EB,Smahi A,et al. BBDS: Blockchain-based data sharing for electronic medical records in cloud environments [J]. Information, 2017,8 (2): 44.   
+[14] Xia QI, Sifah E B,Asamoah KO,et al. MeDShare: Trust-less medical data sharing among cloud service providers via blockchain [J].IEEE Access,2017,5: 14757-14767.   
+[15] Zyskind G,Nathan O.Decentralizing privacy:Using blockchain to protect personal data [C]// 2O15 IEEE Security and Privacy Workshops. IEEE,2015:180-184.   
+[16] Dubovitskaya A,Xu Z,Ryu S,et al. Secure and trustable electronic medical records sharing using blockchain [C]//AMIA annual symposium proceedings.American Medical Informatics Association,2017,2017: 650.   
+[17] Peterson K,Deeduvanu R,Kanjamala P,et al.A blockchain-based approach to health information exchange networks [C]// Proc.NIST Workshop Blockchain Healthcare.2016,1:1-10.   
+[18] Linn LA,Koo MB.Blockchain for health data and its potential use in health it and health care related research [C]// ONC/NIST Use of Blockchain for Healthcare and Research Workshop.Gaithersburg, Maryland, United States: ONC/NIST.2016: 1-10.   
+[19] Cong L W,He Z.Blockchain disruption and smart contracts [J]. The Review of Financial Studies,2019,32 (5): 1754-1797.   
+[20]王继业，高灵超，董爱强，等．基于区块链的数据安全共享网络体系 研究[J].计算机研究与发展,2017,54(04):742-749.(Wang Jiye,Gao Lingchao,Dong Aiqiang,et al. Block chain based data security sharing network architecture research [J]. Journal of Computer Research and Development,2017,54 (4): 742-749.)   
+[21] Dagher G G,Mohler J,Milojkovic M,et al.Ancile: Privacy-preserving framework for access control and interoperability of electronic health records using blockchain technology[J]. Sustainable Cities and Society, 2018,39:283-297.   
+[22]袁勇，王飞跃．区块链技术发展现状与展望[J]．自动化学报,2016, 42 (4): 481-494.(Yuan Yong,Wang Feiyue.Blockchain: the state of the art and future trends [J].Acta Automatica Sinica,2016,42 (4): 481-494.)   
+[23]袁勇，王飞跃．平行区块链：概念、方法与内涵解析[J]．自动化学 报，2017,43(10):1703-1712.(Yuan Yong，Wang Feiyue.Parallel
+
+blockchain: concept,methods and issues [J].Acta Automatica Sinica, 2017,43(10):1703-1712.) [24] Leng K,Bi Y,JingL,et al. Research on agricultural supply chain System with double chain architecture based on blockchain technology [J]. Future Generation Computer Systems,2018,86:641-649.
+
+[25]徐春华，马家奇．现行传染病爆发判定标准与方法[J].疾病监测， 2007(11):777-780.(XU Chunhua,MA Jiaqi,Current standards and methods to judge the outbreak of infectious diseases [J]，Disease Surveillance,2007 (11): 777-780.)

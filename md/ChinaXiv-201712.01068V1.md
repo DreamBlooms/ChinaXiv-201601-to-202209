@@ -1,0 +1,123 @@
+基础研究
+
+# 雷公藤甲素通过抑制逆转录病毒HERV-KNp9基因转录诱导人急性T淋巴细胞白血病Jurkat细胞凋亡
+
+陈将华，郑维威，姜旭东，陆晓雅，徐荣臻浙江大学医学院附属第二医院血液科，浙江杭州310009摘要：目的探讨雷公藤甲素诱导人急性T淋巴细胞白血病Jurkat细胞凋亡分子机制。方法 MTT检测雷公藤甲素对Jurkat细胞的增殖抑制作用,然后用OriginPro8计算出 $\mathrm { I C } _ { 5 0 \odot }$ 按照 $0 . 2 { \sqrt { \hphantom { 0 } 4 \hphantom { 0 } 8 \hphantom { 0 } } } . 1 6 ~ \mathrm { n m o l / L }$ 浓度雷公藤甲素处理Jurkat细胞 $4 8 \mathrm { ~ h ~ }$ ，然后用流式细胞仪检测细胞凋亡变化。用半定量RT-PCR法检测加药处理后各组 $\mathrm { N p 9 }$ 基因mRNA的表达水平变化并用Kodak $\mathrm { 1 D } 3 . 6$ 软件对条带进行定量分析。采用统计软件分析 $\mathrm { N p 9 }$ 转录抑制与细胞凋亡的相关性。Western Blotting检测 $\mathrm { N p 9 }$ 下游信号分子c-myc,$\beta \mathrm { . }$ catenin,ERK,AKT和Notch1蛋白的变化。结果 雷公藤甲素呈剂量依赖性抑制Jurkat细胞的增殖,其 $\mathrm { I C } _ { 5 0 }$ 为 $1 2 . 7 \mathrm { n m o l } / \mathrm { L }$ 。雷公藤甲素呈剂量依赖诱导Jurkat细胞凋亡。进一步实验研究结果显示,雷公藤甲素呈剂量依赖方式抑制Jurkat细胞中Np9基因的mRNA的转录水平。经统计分析发现Np9转录抑制与细胞凋亡之间具有显著的相关性( $\scriptstyle \mathrm { \mathrm { R } } ^ { 2 } = 0 . 9 0 7$ )。WesternBlotting方法结果发现雷公藤甲素在抑制 $\mathrm { N p 9 ~ m R N A }$ 转录同时伴有其下游信号分子c-myc， $\beta \mathrm { . }$ catenin,ERK,AKT和Notch1蛋白表达水平降低。结论下调HERV-K Np9 mRNA及其下游信号分子c-myc,β-catenin,ERK,AKT和Notch1蛋白水平是雷公藤甲素诱导人急性T淋巴细胞白血病Jurkat细胞凋亡的重要分子机制之一。
+
+关键词：雷公藤甲素；急性T淋巴细胞白血病Jurkat细胞;凋亡;HERV-KNp9基因
+
+# Triptolide induces apoptosis of human acute T lymphocytic leukemia Jurkat cells via inhibiting transcription of human endogenous retrovirus HERV-K Np9 gene
+
+CHENJianghua,ZHENGWeiwei,JIANGXudong,LUXiaoya,XURongzhen Departmentlocdtedaloolicinesyo
+
+Abstract: Objective To investigate the molecular mechanisms by which triptolide induces apoptosis of human acute T lymphocytic leukemia Jurkatcels. Methods MTTassay was employed todetect the proliferation inhibition ofJurkat cels by triptolide,and the IC50 wascalculated by OriginPro8.Flow cytometry was used toanalyze apoptosisofJurkat cells.Np9 mRNA levels were detected by RT-PCR and analyzed quantitatively by Kodak 1D3.6 software.Corelation between the inhibitioofNp9transcriptionandthecellapoptosis wasanalyzedbySPSS19.0.Western bloting wasemployed todetermine Np9 downstream signaling molecules c-myc, $\beta$ catenin, ERK, AKT and Notch1 protein level in Jurkat cells after exposure to diferentconcentrationsof triptolidefor48h.ResultsTiptolidetreatmentresultedindose-dependentinhbitionofJurkatels proliferation and its $\mathrm { I C } _ { 5 0 }$ was $1 2 . 7 \mathrm { n m o l / L }$ . Triptolide induced apoptosis of Jurkat cells in dose- dependent manner. Furthermore, triptolideinhibitedNp9mRNA transcription level in Juraktcelsinadose-dependentmanner.There wasacorrelation between the triptolide-mediated the apoptosis and the inhibition of $\mathrm { N p 9 }$ transcription of Jurkat cells $( \mathrm { R } ^ { 2 } { = } 0 . 9 0 7 )$ . Western blotting results displayed that triptolide inhibited transcription levels of $\mathrm { N p 9 ~ m R N A }$ with a concomitant decrease of its downstream signaling molecules c-myc, $\beta$ catenin, ERK, AKT and Notch1 at protein levels. Conclusion Inhibition of HERV-K Np9 mRNA and its downstream signaling molecules c-myc, $\beta$ catenin, ERK,Akt and Notch1 protein might be one of important molecular mechanisms bywhich triptolideinduces apoptosis of humanacute Tlymphocyticleukemia Jurkat clls. ey words: Triptolide; acute T lymphocytic leukemia Jurkat cells; apoptosis; HERV-K Np9 gene;
+
+急性T淋巴细胞白血病是一种来源于T淋巴细胞的恶性程度高，预后差的恶性克隆性疾病，大约占成人急性淋巴细胞白血病的 $2 5 \%$ 。儿童急性淋巴细胞白血病的 $1 0 \% { \sim } 1 5 \% ^ { [ 1 ] }$ 。随着新的化疗药物和方案的应用，其预后有了很大改善，但其耐药和复发仍是临床治疗面临的难题。
+
+成人T细胞白血病/淋巴瘤(adultT-cellleukemia/lymphoma)是由HTLV-1感染引起,但普通型急性T淋巴细胞白血病的确切病因迄今不明。我们前期研究发现，人内源性逆转录病毒HERV-K编码的Np9基因在人急性T淋巴细胞白血病中呈异常激活状态，具有促进白血病细胞增殖的作用,该结果提示抑制HERV-KNp9基因表达可能为治疗人急性T淋巴细胞白血病提供一种新的希望[2]。因此,筛选具有抑制HERV-KNp9基因功能的药物有可能为寻找新的抗白血病药提供新的方向。
+
+雷公藤甲素是从中草药雷公藤中提取出来的一种环氧二萜内酯成分[3],具有抗炎、免疫调节[4-5]抗肿瘤等作用。已有研究表明雷公藤甲素能够活化抑癌基因p53促进肿瘤细胞凋亡[7],诱导Bcl-2剪切和线粒体依赖的途径导致凋亡[8],并且能够下调周期相关因子cyclinD1 和Bcl-x[9]。Titov 等[10]研究发现,抑制肿瘤细胞RNA聚合酶Ⅱ转录作用是雷公藤甲素发挥抗癌作用的重要机制之一，而RNA聚合酶Ⅱ已被证实是所有已知逆转录病毒基因转录必需的[]。因此，,我们推测雷公藤甲素可能是一种HERV-KNp9mRNA基因转录抑制剂，通过抑制RNA聚合酶ⅡI而抑制 $\mathrm { N p 9 ~ m R N A }$ 的表达，进而抑制其下游信号通路发挥抗肿瘤作用。本研究通过检测雷公藤甲素作用于Jurkat细胞后细胞凋亡、$\mathrm { N p 9 }$ 基因转录水平及其下游信号分子c-myc， $\beta$ -catenin,ERK，AKT和Notch1蛋白水平的变化，探讨雷公藤甲素诱导Jurkat细胞调亡的可能分子机制，为人T淋巴细胞白血病的治疗提供新的科学依据。
+
+# 1材料和方法
+
+1.1 材料
+
+1.1.1JurKat细胞米目丁浙江大字肿瘤叶九所细胞库
+
+1.1.2 试剂及抗体 RPMI1640细胞培养基购于Gibco;胎牛血清购于BiologicalIndustries;MTT粉剂购于Sigma; $\mathrm { N p 9 }$ 全长上游引物：5-ATGAACCCATCGGAGATGCAA-3，下游引物:5-ACAGAATCTCAAGGCAGAAG-3；内参 $\beta$ -actin上游引物：5-GGATCCGACTTCGAGCAAGAGATGGCCAC-3，下游引物:5-CAATGCCAGGGTACATGGTG-3;上述引物均由Invitrogen上海合成部合成。RNA提取试剂购于Invitrogen;逆转录酶试剂 盒 购 于 Promega；DL200O DNA ladder、Taqpolymerase购于Takara公司;琼脂糖购于生工生物工程公司，Gelred核酸凝胶染料购于美国Biotium公司，一抗： $\beta$ -catenin,p-ERK,ERK,p-AKT,AKT和Notch1,c-myc购于CST;GAPDH购于康成生物;二抗:HRP偶联的抗兔、抗鼠购于康成生物；PVDF膜购于BIO-RAD;ECL购于PIERCE。AV/PI细胞凋亡试剂盒购于美国BD公司。
+
+# 1.2 方法
+
+1.2.1细胞培养Jurkat细胞用含有 $10 \%$ 胎牛血清， $1 \%$ 青-链霉素的RPMI1640培养，置于 $3 7 \ \mathrm { ^ { \circ } C } , 5 \% \mathrm { C O } _ { 2 }$ ，饱和 湿度培养箱，实验所用细胞均处于对数期。
+
+1.2.2MTT法检测雷公藤甲素对Jurkat细胞的增殖抑制率将细胞悬液 $\left. 5 \times 1 0 ^ { 4 } / \mathrm { m l } \right.$ 加入到96孔培养板中，每孔 $1 0 0 ~ \mu \mathrm { l }$ ，培养4h后，根据实验要求加入不同浓度的雷公藤甲素 $1 0 0 ~ \mu \mathrm { l }$ ，另设空白孔(只有培养基，无细胞),不加药对照，每组6个复孔。培养72h后，每孔加入 $2 0 \mu \mathrm { l }$ 的 $5 \mathrm { m g / m l }$ 的MTT溶液，反应 $4 \mathrm { h }$ ，离心吸去培养基，每孔加 $2 0 0 ~ \mu \mathrm { l }$ DMSO摇匀后酶标仪（波长 $5 7 0 \mathrm { n m }$ 测其吸光度值(A)。利用公式测定抑制率 $\scriptstyle ( \% ) = ( 1 - \mathrm { A } _ { \overrightarrow { 3 \cdot 4 \cdot 4 \cdot 4 \cdot 5 \cdot 6 } } / \mathrm { A } _ { \overrightarrow { 3 \cdot 4 \cdot 1 1 4 \cdot 5 \cdot 6 } } ) \times$ $100 \%$ ,然后用OriginPro8计算出 $\mathrm { I C } _ { 5 0 \odot }$
+
+1.2.3流式细胞仪检测雷公藤甲素诱导Jurkat细胞凋亡Jurkat细胞( $\mathrm { 1 } { \times } \mathrm { 1 0 ^ { 5 } / m l } )$ ，按照 $0 . 2 { \cdot } 4 . 8 \mathrm { , 1 6 ~ n m o l / L }$ 浓度，加入雷公藤甲素处理， $4 8 \mathrm { ~ h ~ }$ 后收集细胞，用冷的PBS洗两遍，取 $1 \times 1 0 ^ { 6 }$ 个细胞加入 ${ 1 \mathrm { m l } }$ 结合缓冲液重悬，取$1 0 0 \mu \mathrm { l }$ 加入AnnexinV/FITC ${ 5 \mu \mathrm { l } }$ 和 $\mathrm { P I } 5 \mu \mathrm { l }$ ，混匀室温避光孵育 $1 5 \mathrm { m i n }$ ，然后加入 $4 0 0 ~ \mu \mathrm { l }$ 结合缓冲液，采用流式细胞仪进行细胞凋亡检测。
+
+1.2.4雷公藤甲素Jurkat细胞Np9mRNA表达水平的影响Jurkat细胞( $\mathrm { 1 } { \times } \mathrm { 1 0 ^ { 5 } / m l } )$ ，按照 $0 . 2 { \cdot } 4 . 8 { \cdot } 1 6 ~ \mathrm { n m o l / L }$ 浓度，加入雷公藤甲素处理， $4 8 \mathrm { ~ h ~ }$ 后收集细胞，按Trizol说明书方法提取总RNA，以 $2 ~ { \mu \mathrm { g } }$ 总RNA为模板逆转录成cDNA,按照Taqpolymerase说明书进行半定量RT-PCR,PCR产物 ${ 5 \mu \mathrm { l } }$ 进行琼脂糖电泳，紫外灯下显像。用Kodak1D3.6软件对条带进行定量。mRNA相对含量 $\varXi$ 目的基因条带积分吸光度值/内参照 $\beta$ -actin,基因条带积分吸光度值。采用统计软件SPSS19.0分析$\mathrm { N p 9 }$ 转录抑制与细胞凋亡的相关性。
+
+1.2.5Western blotting 检测雷公藤甲素对 c-myc,$\beta$ -catenin,p-ERK,ERK,p-AKT,AKT和Notch1等蛋白的影响Jurkat细胞 $( 1 { \times } 1 0 ^ { 5 } / \mathrm { m l } )$ ，按照 $0 . 2 { \cdot } 4 { \cdot } 8 \mathrm { , } 1 6 \mathrm { n m o l / L }$ 浓度，加入雷公藤甲素处理， $4 8 \mathrm { ~ h ~ }$ 后收集细胞，冷PBS洗2遍，用M-PER(PIERCE)裂解液冰上裂解 $2 0 \mathrm { m i n } , 4 \mathrm { ~ \textdegree C }$ $1 4 0 0 0 g$ 离心 $1 5 \mathrm { m i n }$ ,提取上清总蛋白。BCA法测蛋白浓度，取 $4 0 ~ { \mu \mathrm { g } }$ 总蛋白进行SDS-PAGE电泳,转膜,用含$5 \%$ 奶粉的TBST室温 $\boldsymbol { 1 } ~ \mathrm { h } _ { \mathrm { o } }$ 一抗 $4 \ \mathrm { { ^ circ C } }$ 过夜，二抗室温 $^ { \textrm { 1 h } }$ ECL显影，胶片曝光成像。
+
+# 1.3统计学处理
+
+统计分析，多个样本均数的比较采用方差分析，统计软件为SPSS19.0,数据以均数 $\stackrel { \cdot } { \_ }$ 标准差表示， $P { < } 0 . 0 5$ 认为差异有统计学意义。
+
+# 2结果
+
+2.1雷公藤甲素对Jurkat细胞的增殖抑制作用
+
+$( 0 . 5 { \sim } 6 4 ) \mathrm { n m o l / L }$ 浓度范围内的雷公藤甲素对Jurkat细胞具有增殖抑制作用，随着浓度的增高，抑制作用增强，提示雷公藤甲素对Jurkat细胞的增殖抑制作用呈剂量依赖关系。 $0 . 5 { \sim } 6 4 ~ \mathrm { n m o l / L }$ 浓度雷公藤甲素对Jurkat细胞的增殖抑制率与阴性对照组相比均具有显著统计学差异(图 $1 , P { < } 0 . 0 5 \$ ）
+
+![](images/5691a46628e93ba67eb18ae1a9d23b03d356f1f3afa81f3680af25d89c5c9495.jpg)  
+图1不同浓度雷公藤甲素对Jurkat细胞增殖抑制率的影响 Fig.1 Effects of triptolide at different concentrations on the proliferation of Jurkat cells.
+
+# 2.2雷公藤甲素诱导Jurkat细胞凋亡
+
+$0 . 2 { \cdot } 4 . 8 \mathrm { , 1 6 n m o l / L }$ 的雷公藤甲素处理Jurkat细胞$^ { 4 8 \mathrm { ~ h ~ } }$ 后，细胞的凋亡比例分别为 $5 . 2 \% , 1 6 . 3 \% , 2 3 . 5 \%$ ，$2 9 . 9 \%$ $5 7 . 3 \%$ ，随着药物浓度的上升而增加，呈剂量依赖(图2)，提示雷公藤甲素能够诱导Jurkat细胞凋亡。
+
+# 2.3雷公藤甲素对 $\mathrm { N p 9 }$ 基因mRNA的表达水平影响
+
+$0 . 2 { \cdot } 4 . 8 \mathrm { , 1 6 ~ n m o l / L }$ 的雷公藤甲素处理Jurkat细胞$^ { 4 8 \mathrm { ~ h ~ } }$ 后，随着药物浓度的升高， $\mathsf { N p 9 }$ 的mRNA表达水平降低，各组 $\mathrm { { N p 9 } \ m R N A }$ 表达水平分别为1.23,0.94,0.57，0.34，0.03，加药组和对照组比较，差异具有统计学意义 $( P { < } 0 . 0 5 )$ ，(图3),说明雷公藤甲素能够下调Np9基因的mRNA表达水平，呈剂量依赖。
+
+![](images/f8d71063a7a9cfd20c4fb89e1ab20889f35af29b383c840cefaa9acad53209a1.jpg)
+
+# $2 . 4 ~ \mathrm { N p ^ { 9 } }$ 转录抑制与细胞调亡的相关性
+
+由于 $\mathrm { N p 9 }$ 是白血病的可能的致病基因，而0、2、4、8、16nmol/L的雷公藤甲素抑制Jurkat细胞中 $\mathrm { N p 9 }$ 转录的同时导致Jurkat细胞调亡，所以采用统计软件SPSS19.0进行分析 $\mathrm { N p 9 }$ 转录抑制与细胞凋亡的相关性。结果显示两者之间具有显著的相关性， $\scriptstyle \mathbf { R } ^ { 2 } = 0 . 9 0 7$ ，（ $\scriptstyle ( P <$ 0.05，图4)。提示 $0 . 2 , 4 , 8 , 1 6 \mathrm { n m o l / L }$ 的雷公藤甲素抑制Np9转录可能是诱导细胞凋亡的重要机制之一。
+
+# $2 . 5 ~ \mathrm { N p } 9$ 下游信号分子c-myc, $\beta$ -catenin,p-ERK,ERK,p-AKT,AKT和Notch1蛋白的变化
+
+Westernblotting结果显示, $0 . 2 { \cdot } 4 . 8 \mathrm { , 1 6 n m o l / L }$ 雷公藤甲素处理 $4 8 \mathrm { ~ h ~ }$ 后,c-myc, $\beta$ -catenin,p-ERK,p-AKT和Notch1蛋白，随着药物浓度的上升，表达水平降低越
+
+明显。提示 $0 . 2 { \cdot } 4 . 8 . 1 6 \ \mathrm { n m o l / L }$ 雷公藤甲能够下调Np9下游信号分子c-myc, $\beta$ -catenin,p-ERK,p-AKT 和Notch1的蛋白表达水平(图5)。
+
+# 3讨论
+
+目前临床治疗白血病主要面临的问题仍是复发和耐药，所以寻找新的治疗靶点，开发新的治疗药物，对于提高白血病的治疗效果十分必要。白血病发病机制不明导致缺乏有效的靶向病因治疗方法， $\mathrm { N p 9 }$ 蛋白特异性表达于白血病人中，而正常人中却没有，并且在急性早幼粒白血病中,Np9蛋白解除PLZF(promyelocyticleukemiazinc finger)对原癌基因c-myc 的抑制,促进白血病的发生和发展[12]。我们前期研究提示：人内源性逆转录病毒HERV-KNp9基因高表达于白血病人中，通过激活其下游c-myc, $\beta \cdot$ -catenin,ERK,AKT和Notch1等多条信号通路促进白血病细胞增殖，可能是白血病发病的机制之一[2]。因此寻找针对 $\mathrm { N p 9 }$ 基因的抑制剂,有希望能够从病因上抑制甚至消除白血病。已有研究提示雷公藤甲素具有抑制RNA聚合酶Ⅱ的作用["%，因而推测雷公藤甲素能够抑制 $\mathrm { N p 9 }$ 基因，从而起到靶向治疗白血病的潜在价值。目前尚无相关的研究报道。
+
+![](images/7bb4abcb3c59eda44d02a4b8c8418ecb9d2a738b0c9d02ad2d239d8bb093aae4.jpg)  
+图3不同浓度雷公藤甲素对Jurkat细胞 $\mathrm { N p 9 }$ mRNA转录的影响Fig.3 Effects of triptolide at different concentrationson levels of $\mathrm { N p 9 }$ mRNA of Jurkat cells.
+
+![](images/1f50ce00bab3259de59ac92c650d62a107635026d2bc788f2fe9cd4eb3c6a320.jpg)  
+图4Np9mRNA转录抑制与细胞调亡的相关性 Fig.4 Correlation analysis between the inhibition ofNp9 mRNA transcription and thecell apoptosis( $\scriptstyle ( 1 ^ { 2 } = 0 . 9 0 7$ $\scriptstyle P < 0 . 0 5 { \mathrm { , } }$ .
+
+本研究中首先通过雷公藤甲素处理人T淋巴细胞白血病Jurkat细胞，结果导致Jurkat细胞增殖抑制和凋亡，呈剂量依赖，说明雷公藤甲素具有抑制和杀伤白血病细胞的作用,与Carter等[13]报道结果相吻合。雷公藤甲素抑制和杀伤白血病细胞，其分子机制是否涉及
+
+![](images/b6354a30950e12c93df3ef43182caa7c3b9733d0b5737b0c99ca193e4feb94fc.jpg)  
+图5不同浓度雷公藤甲素对 $\mathrm { { N p 9 } }$ 下游信号分子 c-myc, $\beta$ -catenin,p-ERK,ERK,p-AKT,AKT和 Notch1蛋白表达的影响 Fig.5Effectsoftriptolideatdifferent concentrations on the protein levels of c-myc, $\beta$ -catenin,p-ERK,ERK,p-AKT,AKTandNotch1.
+
+HERV-K $\mathsf { N p 9 }$ 基因的变化？因而检测雷公藤甲素处理Jurkat细胞之后，HERV-K $\mathrm { N p 9 }$ 基因的表达变化。结果发现HERV-KNp9基因表达水平降低,呈剂量依赖，说明雷公藤甲素可能是 $\mathrm { N p 9 }$ 基因的抑制剂,与我们的推断相符。雷公藤甲素诱导白血病细胞凋亡与其下调HERV-KNp9基因表达水平之间的关系呢？采用相关性分析发现，雷公藤甲素抑制 $\mathrm { N p 9 }$ 基因转录与诱导细胞凋亡之间具有显著的相关性( $\scriptstyle \mathrm { \mathrm { R } } ^ { 2 } = 0 . 9 0 7 ,$ )。提示雷公藤甲素抑制 $\mathrm { N p 9 }$ 基因转录可能是其诱导白血病细胞凋亡的分子机制之一。如前所述,HERV-KNp9基因通过激活其下游c-myc, $\beta$ -catenin,ERK,AKT和Notch1等多条信号通路促进白血病细胞增殖。由于雷公藤甲素能够抑制 $\mathrm { N p 9 }$ 基因转录，推测雷公藤甲素也能够影响Np9激活的c-myc, $\beta \mathrm { . }$ -catenin等下游信号分子的表达水平。进一步研究发现,雷公藤甲素处理细胞之后， $\mathrm { N p 9 }$ 下游的信号分子c-myc、 $. \beta$ -catenin、ERK、Akt和Notch1蛋白表达水平同时降低。与我们前期研究采用shRNA下调$\mathrm { N p 9 }$ 基因所观测到的其下游的这些信号分子的表达水平降低一致[2]。而且雷公藤甲素下调c-myc $\beta$ -catenin等信号分子,与其他的研究[1417]中报道一致。c-myc在急性T淋巴白血病过度激活，活化下游Notch1,阻遏抑癌基因pten[18]。 $\beta$ -catenin在急性髓系白血病中高表达，介导混合系白血病干细胞的产生和耐药[19]。ERK促进白血病细胞生长和诱导产生耐药[20]。Akt见于大量白血病人中，其激活可以导致恶性血液系统肿瘤[21-22]。
+
+Notch1是调节干细胞功能的重要调节分子，阻断Notch1能够部分抑制甚至消除白血病干细胞的活性[23]。因此，雷公藤甲素抑制Np9基因转录的同时下调这些信号分子，对于抗白血病具有重要作用。
+
+综上所述，我们认为雷公藤甲素通过抑制逆转录病毒HERV-KNp9基因转录并同时下调其下游信号分子c-myc、 $\beta$ -catenin、p-ERK、p-AKT和Notch1蛋白水平，可能是诱导人急性T细胞淋巴白血病Jurkat细胞凋亡的重要分子机制之一。
+
+雷公藤甲素抑制 $\mathrm { N p 9 }$ 基因转录是否具有特异性，其详细的分子机制等问题仍需要进一步的研究。
+
+# 参考文献：
+
+[1]Ferrando AA,Neuberg DS,Staunton J,et al.Gene expression signatures define novel oncogenic pathways in T cell acute lymphoblastic leukemia[J].Cancer Cell, 2002,1(1): 75-87.   
+[2]Chen T,Meng Z,Gan Y,et al. The viral oncogene Np9 acts as a critical molecular Switch for co-activating beta-catenin,ERK,Akt and Notchl and promoting the growth of human leukemia stem/ progenitor cells[J].Leukemia,2013,27(7):1469-78.   
+[3]Kupchan SM, Court WA,Dailey RJ,et al. Triptolide and tripdiolide, novel antileukemic diterpenoid triepoxides from Tripterygium wilfordii[J].Am Chem Soc,1972,94(20):7194-5.   
+[4]Chen BJ. Triptolide，a novel immunosuppressive and antiinflammatory agent purified from a Chinese herb Tripterygium Wilfordii Hook F[J].Leuk Lymphoma,2001,42(3): 253-65.   
+[5]Qiu D，Kao PN. Immunosuppressive and anti-inflammatory mechanismsoftriptolide, the principal activediterpenoid from the Chinese medicinal herb Tripterygiumwilfordii Hook.f [J]. Drugs RD,2003,4(1): 1-18.   
+[6]Yang SM,Chen JG,Guo Z,et al. Triptolide inhibits the growth and metastasis of solid tumors[J].Mol Cancer Ther,2003,2(1):65-72.   
+[7]Carter BZ,Mak DH, Schober WD,et al. Triptolide sensitizes AML cells to TRAIL-induced apoptosis via decrease of XIAP and p53-mediated increase of Dr5[J].Blood,2008,111(7): 3742-50.   
+[8]Wan CK,Wang C,Cheung HY,et al. Triptolide induces Bcl-2 cleavage and mitochondria dependent apoptosis in p53-deficient HL-60 cells[J].Cancer Lett,2006,241(1): 31-41.   
+[9]Zhao G, Vaszar LT,Qiu D,et al.Anti-inflammatory effects of triptolide in human bronchial epithelial cells[J].Am JPhysiol Lung Cell Mol Physiol,2000,279(5): 958-66.   
+[10] Titov DV,Gilman B,He QL,et al.XPB,a subunit of TFIIH, is a target of the natural product triptolide[J].Nat Chem Biol, 2011,7 (3): 182-8.   
+[11]Menéndez-Arias L.Molecular basis of fidelity of DNA synthesis and nucleotide specificity of retroviral reverse transcriptases [J]. Prog Nucleic Acid Res Mol Biol,2002,71: 91-147.   
+[12] Denne M, Sauter M,Armbruester V,et al. Physical and functional interactions of human endogenous retrovirus proteins Np9 and rec with the promyelocytic leukemia Zinc finger protein[J].J Virol, 2007,81(11): 5607-16.   
+[13]Carter BZ,Mak DH, Schober WD,et al. Triptolide induces caspasedependent cell death mediated via the mitochondrial pathway in leukemic cells[J].Blood,2006,108(2): 630-7.   
+[14]Vispé S,Devries L,CréancierL,et al. Triptolide is an inhibitor of RNA polymerase I and II-dependent transcription leading predominantly to down-regulation of short-lived mRNA[J]. Mol Cancer Ther,2009,8(10): 2780-90.   
+[15]Shao H,Ma J,Guo T.Triptolide induces apoptosis of breast cancer cells via a mechanismassociated with the $\mathrm { { W n t / \beta } }$ -catenin signaling pathway[J].Exp Ther Med,2014,8(2): 505-8.   
+[16] Kim MJ,Lee TH,Kim SH,et al. Triptolide inactivates Akt and induces caspase-dependent death in cervical cancer cells via the mitochondrial pathway[J].Int JOncol,2010,37(5):1177-85.   
+[17] Shi XP,Jin YL,Cheng C,et al.Triptolide inhibits Bcr-Abl transcription and induces apoptosis in STI571-resistant chronic myelogenous leukemia cells harboring T315I mutation [J].Clin Cancer Res,2009,15(5): 1686-97.   
+[18] Gutierrez A,Grebliunaite R,Feng H,et al.Pten mediates Myc oncogene dependnce in a conditional zebrafish model of Ta cell acute lymphoblastic leukemia[J].J Exp Med,2011,208(8): 1595-603.   
+[19]Yeung J,Esposito MT, Gandillet AA,et al.beta-Catenin mediates the establishment and drug resistance of MLL leukemic stem cells [J].Cancer Cell,2010,18(6): 606-18.   
+[20]Steelman LS,Franklin RA,Abrams SL,et al. Roles of the Ras/Raf/ MEK/ERK pathway in leukemia therapy[J]. Leukemia,2011,25 (7): 1080-94.   
+[21]Polak R,Buitenhuis M.The PI3K/PKB signaling module as key regulator of hematopoiesis:implications for therapeutic strategies in leukemia[J].Blood,2012,119(4):911-23.   
+[22] Sykes SM, Lane SW, Bullinger L,et al. AKT/FOXO signaling enforces reversible differentiation blockade in myeloid leukemias [J]. Cell, 2011,146(5): 697-708.   
+[23]Tatarek J,Cullion K,Ashworth T,et al. Notchl inhibition targets the leukemia-initiating cells in a Tall/Lmo2 mouse model of T-ALL [J]. Blood,2011,118(6): 1579-90.
+
+(编辑：吴锦雅）

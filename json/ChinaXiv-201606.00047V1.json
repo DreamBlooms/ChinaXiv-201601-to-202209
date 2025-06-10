@@ -1,0 +1,416 @@
+[
+    {
+        "type": "text",
+        "text": "机构合作的科研生产力观测一一对灰色文献的文献计量与内容分析实证研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "顾立平",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "香港城市大学邵逸夫图书馆 九龙",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(摘要）采用文献计量法和内容分析法,对“中华经济研究院\"（台北)的研究报告和工作报告进行分析，评估馆藏合作对象的科研生产力,用以规划数字资源保存的数据库系统以及促进资源共建共享。提出“文献计量－内容分析－信息系统－沟通－送存\"的简洁思路研究传统科学计量学所不能检测的灰色文献评量方法,是一项可继续发展的初探性研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（关键词）合作馆藏 资源共享 经济政策 产业情报 信息交流（分类号）G252",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Insight of Scientific Produce for Institutional Collaboration An Empirical Study of Biblometric and Content Analysis for Grey Literature ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Gu Liping ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Run Run Shaw Library of City University of Hong Kong ,HK SAR ,Kowloon (Abstract）Byusingbothbiblometricandcontentanalysisthispaperdeseribes thephonenmenof the“Chung-HuaInstitutionforEconomic Research\"(Taipei)through analysing itsresearch papersand working papersinorder to evaluate theR&Dproductivityof the colaborativeinstitutionandfordesigningthedatabaseofdigitalresourcepresevationandfacilatestheco-developmentandresource sharig.Theproessof“blometricontentaalysisforationssteommucatio-deposit”isproped.Tisxploratoystudy canbe developed infuture,becauseitevaluates the greyliterature,whichhas neverbeen studied inthetraditionalscienometric. (Keywords） collaborative collection resources sharing economic policyindustry information information communication ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究背景与目的",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在“两岸三通”以及相关经贸合作协议下,两岸三地的经贸往来势必更加频繁，这就需要搜集、分析与使用两岸的产业讯息。在此需求面上，信息服务机构将顺应时势、逐步发展： $\\textcircled{1}$ 两地的产亚讯息汇集(两地共同发展寄存、数位化与知识管理的合作)； $\\textcircled{2}$ 两地的产业资料整理(识别不同可信度、专业度、影响程度与质量等级的资料)； $\\textcircled{3}$ 建立两地的产业研究基地(让两地专家学者能够方便的获取、交流、共享信息)等机制",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "合作馆藏建设是发展特色馆藏、馆际合作、资源共建共享的一种有效方式 海峡两岸图书情报学界各有不少相关研究。例如:张秋比较台湾地区的藏书发展政策[1]；索传军和袁静研究电子馆藏发展政策[21；罗莹研究非资金购买的高校文库发展策略[3]；邱子恒研究文献使用率在馆藏经费的案例4'；吴明德建议除了加强馆际间的资源共享也要提升彼此支援能力['；林巧敏和陈雪华梳理了电子资源馆藏的5个发展方面[6。这些研究不仅使得作者产生上述需求面与供给面可能交会在合作馆藏的想法也为本文进行了大量理论奠基工作。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "但是，目前两地合作存在许多实践难题: $\\textcircled{1}$ 有合作意愿与需要的双方缺乏彼此认识; $\\textcircled{2}$ 可供参考的两地合作经验较少; $\\textcircled{3}$ 上述两项原因使得合作模式较难建立。针对上述困难本文提出:使用文献计量法来了解双方供需面；在第三地的非营利和非官方机构进行合作(例如:香港城市大学图书馆)；从馆藏建设与信息服务，逐步发展两地合作模式的方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在传播学中，有所谓“内容分析法\"的社会科学研究与应用[主要是针对新闻进行词语的量化分析，在图书馆学中,有所谓“文献计量法”[8],主要是针对图书和文章进行作者数量、词频统计、引文数量等分析和模型验证(关于文献计量、信息计量、科学计量的定义和区分，请参考Tague-SutcliffeJ相关论述[9）。在信息交流学中，为求理解传播者、被传播者、信息、噪音和环境等信息交流五要素的目的[1°],这两种方法被用作文本挖掘(textmining)的最基本手段",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究原先计划采用科学计量方法。科学计量学是基于引文分析的领域可视化研究所衍生出来的新学科，采用文献计量学的方法分析科学文献，对科技交流进行量化研究[]。通过一些特殊方法 科学计量学已经广泛应用于测量科学进步与科学家行为的研究中[12]。然而，自前的科学计量学尚未有针对没有引文数据库的灰色文献进行内容评量和分析采用科学计量法并不能满足本研究欲达成合作馆藏的研究背景与目的",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "故此，本文对“中华经济研究院”（以下简称 $^ { 6 6 } \\mathrm { C I - }$ ER\"）这一对台湾地区经济政策发展提供研究报告之一的情报机构进行其研究计划报告的文献计量与内容分析。在此基础上提出大学图书馆与经济政策研究所的共建共享馆藏计划。使用文献计量与内容分析来促进馆藏发展的过程，可以作为其他图书情报工作的参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 研究设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 研究对象",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CIER的研究计划成果报告偏重: $\\textcircled{1}$ 台湾经济发展的政策研究; $\\textcircled{2}$ 台湾重大经济与产业政策的议题倡导;$\\textcircled{3}$ 台湾产业发展策略的知识与分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献计量是根据元数据格式，对其元数据内容的描述统计分析，其研究范围为特定数据库或特定文献表格。CIER的研究计划清单即研究范围，在CIER 研究计划清单中的计划编号、所、计划名称、委托单位、出版年、空白栏位(备注)等，即元数据。元数据下方所标示内容如表1所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/4bf226f041bdc9ff3b48ed57a5d0c11e69511f587c0a8b44f94c4aac211e8247.jpg",
+        "table_caption": [
+            "表1 CIER的研究计划数据格式"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>001-2</td><td>3</td><td>中国石油公司营运之研究</td><td>中国石油股份有限公司</td><td>7202</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "注:7202 为日期码，日期码 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 号码+1911",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1即元数据内容，亦即本项文献计量的分析单位；而内容分析则着重对关键词语的抽取和统计，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3 研究过程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "按照研究目的对CIER的研究计划清单先进行文献分析(量化分析），再对网络资料进行内容分析，最后进行合作案建议。研究步骤如下： $\\textcircled{1}$ 数据收集对网络上已有的CIER研究计划清单下载; $\\textcircled{2}$ 数据清理，在网络上一一核对1232项元数据内容，并补充”备注”栏位; $\\textcircled{3}$ 数据分析，对CIER研究计划清单和已公开报告进行分析; $\\textcircled{4}$ 图表生成，对分析结果用直方图描绘并予以解释; $\\textcircled{5}$ 提出建议根据分析结果提出发展合作的政策建议。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文采用文献计量法与内容分析法，但研究定位是案例研究(香港城市大学图书馆的数据库系统与CI-ER 的研究计划报告）。另,数据源（http://www.cier.edu. tw/sp. asp?xdurl $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ publish/web/plan _ list.asp&ctNode ${ \\bf \\Pi } = 9 9 { \\bf \\Pi }$ )是支持Open Access的机构网址。数据采集日期为 2009 年9月24日，最后访问日期为2010年1月10日，后续研究人员可重复验证，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据研究方法与研究过程，分述如下:",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 累计30 年来的文献增长",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据CIER所提供的网络资料，经过计算后，有几项值得注意的结果。计算结果可以作为讨论合作计划的思考点如表2所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/ed3554c69df4eb5413776c1384e6cd90753e1f1f0ba249fd8f411a9a5c0f6ec0.jpg",
+        "table_caption": [
+            "表2　累计30 年来的文献增长"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>1981年</td><td>1982年</td><td>1983年</td><td>1984年</td><td>1985年</td><td>1986年</td><td>1987年</td><td>1988年</td><td>1989年</td><td>1990</td></tr><tr><td>篇</td><td>1篇</td><td>4篇</td><td>4篇</td><td>12篇</td><td>6篇</td><td>33篇</td><td>15篇</td><td>15篇</td><td>12</td></tr><tr><td>1991</td><td>1992年</td><td>1993年</td><td>1994</td><td>995 中</td><td>1996年</td><td>997年</td><td>1998年</td><td>1999 年</td><td>200</td></tr><tr><td>27</td><td>29篇</td><td>31篇</td><td>33篇</td><td>40篇</td><td>50篇</td><td>53篇</td><td>55篇</td><td>106</td><td></td></tr><tr><td>200</td><td>2002 年</td><td>2003年</td><td>2004</td><td>2005 年</td><td>2006年</td><td>2007年</td><td>2008 年</td><td>2009</td><td></td></tr><tr><td>03</td><td>10</td><td>170</td><td>113</td><td>103</td><td>127 篇</td><td>143篇</td><td>122</td><td>130</td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从表2可以看出最近10年CIER的研究报告，每年大约生产120 篇左右，因此未来合作计划中可以注意每年120 篇的工作量和预算。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2 累计30年来每月出版量",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CIER 累计30 年每月出版量如图1所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/980bedd0c71d9d028efaa35b71abbb17e5deb34519ba29a5496aded2f50f2dd4.jpg",
+        "img_caption": [
+            "图1 累计30年来每月出版量"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从图1可以看出报告截止日（同时也是提交CIER图书室的日期)集中在6月、7月与12月，未来合作计划",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "可以考虑在每年2月和8月进行报告寄存的工作。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3 主题类别及其政策建议模式",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据CIER的特性：对照不同类别的研究所可将研究主体划分区域类别对照经济类别的分类可将研究主题划分为主题类别，对照研究方法可将研究主题划分为报告形式，对照委托单位的性质可将研究主体划分为若干其他政策。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "结果显示CIER交付的报告中，区域类别依次为：台湾、大陆、美国、日韩、亚太、欧盟和中美洲等。主题类别依次为：贸易、税、农业、服务、能源、科技、国际经贸、技术、创新、金融证券、信息、电力、电子、商业、绿色环保等。报告形式依次为:XX 研究、XX计划、XX的影响、XX分析、XX政策、XX策略、XX评估、XX调查、XX措施、对XX的探讨、XX 专案、对XX的对策等。其他政策有:产业、中小企业、WTO、台商、外商、知识经济、产值、海关、国营事业等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "按照清单上的计划名称进行分析，获得如上结果。数量和累积数量的排名，虽不能全然代表CIER的研究方向与方式，但可反映若干类别与偏好，本项分析值得作为图书馆导航的参考，以利学者使用此类文件。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.4 研究所报告占有率及其研究价值",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据清单上的研究所代号:0-院方名义、1-第一研究所、2-第二研究所、3-第三研究所、4-能源与环境研究中心(曾废止，近年复设立)、5-经济展望中心、6-财经策略中心、7-日本中心、W-台湾 WTO 中心。计算1214笔报告如表3所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/05beff753f02e6fe3ccc77f11d0a062386f2e3d2e675e5950a4c1c379764f944.jpg",
+        "table_caption": [
+            "表3 研究所报告占有率"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>研究所</td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>W</td></tr><tr><td>报告量</td><td>62</td><td>146</td><td>322</td><td>387</td><td>66</td><td>36</td><td>53</td><td>15</td><td>127</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据分析结果所显示的报告数量比重依次为：第三研究所、第二研究所、第一研究所与台湾WTO中心。第三经济研究所是以台湾地区的总体经济、货币金融、财税、经济发展、产业经济、人力资源、自然资源、社会福利等为主。第二经济研究所是台湾及中国大陆以外世界各地区的区域研究。第一经济研究所是大陆地区的经济研究、学术活动与经济信息服务。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "相对于1981年所成立的三个研究所，中华经济研究院的台湾WTO中心始自2003年9月，受经济部委托办理“国际经贸事务研究及培训中心（简称WTO中心)”计划 其报告数量近5年来大幅增长,也反映了台湾近年来所关心的对外经贸政策走向。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "此项排名虽不能代表台湾经济政策的优先顺序但可反映若干台湾经济政策的偏好，本项分析值得作为图书馆导航的参考，以利学者使用此类文件。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.5 计划主持人及其研究方向",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究计划报告的合作需要研究人员的同意，在此需要主要研究人员的资料和对个别分析其影响力因此针对计划主持人进行分析，如表4所示:",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/27b2b32e1f08f2bd6a3770cd9f6c4908b708ac4f9dc1baa7bc7d3d0af6d8a6f8.jpg",
+        "table_caption": [
+            "表4计划主持人"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>计划主持人</td><td>数量</td><td>研究方向</td></tr><tr><td>王健全(第三所)</td><td></td><td>133篇产业经济、产业科技政策</td></tr><tr><td>刘大年(第二所)</td><td>95篇</td><td>国际贸易投资、产业经济</td></tr><tr><td>吴惠林(第三所)</td><td></td><td>77篇|劳动经济、经济发展、产业经济</td></tr><tr><td>王素弯(第三所)</td><td>72篇</td><td>经济发展、人力资源</td></tr><tr><td>陈信宏(第二所)</td><td>69篇</td><td>产业经济、高科技产业、信息科技经济学</td></tr><tr><td>顾莹华(第二所)</td><td>55篇</td><td>国际贸易、国际投资</td></tr><tr><td>萧代基（经济展望；财</td><td>54篇</td><td>环境与资源经济学，自然资源经济、政策与管理，计量</td></tr><tr><td>杨雅惠(第三所)</td><td>45篇</td><td>货币银行、金融制度、产业金融</td></tr><tr><td></td><td></td><td>环境经济学、法律经济学、公共经济学</td></tr><tr><td>温琪（第二所;能源</td><td>41篇</td><td></td></tr><tr><td>刘孟俊(第一所) 杜巧霞(WTO)</td><td>40篇 36篇</td><td>国际贸易投资、产业经济 国际贸易、国际组织、农业经济</td></tr><tr><td>王京明（第二所;能源</td><td></td><td>农业经济、资源、能源、环保</td></tr><tr><td>环境)</td><td>31篇</td><td></td></tr><tr><td>王俪容(经济展望) 连文荣(第二所)</td><td>30篇 30篇</td><td>期货市场、国际金融、一般金融 国际贸易投资、计量经济学</td></tr><tr><td></td><td></td><td>产业经济、大陆经济改革、两岸产业及科技交流、区域</td></tr><tr><td>史惠慈(第一所)</td><td>28篇</td><td>经济</td></tr><tr><td>陈章真(第三所)</td><td>27篇</td><td>农业经济、产业经济</td></tr><tr><td>欧阳承新(第二所)</td><td>25篇</td><td>总体经济理论、转中经与济改革模式、国际能源、俄罗</td></tr><tr><td>温蓓章(第二所)</td><td>21篇</td><td>空间规划政策与管理、交通运输与地区发展</td></tr><tr><td>张荣丰(第一所)</td><td>18篇</td><td>危机管理、国家安全、理、中国美係、情报研析、</td></tr><tr><td>王文娟(第二所)</td><td>17篇</td><td>国际经济、外人直接投资、区域经济、产业经济</td></tr><tr><td>田君美(第一所)</td><td>17篇</td><td>农业经济、中国经济、农产品贸易及投资</td></tr><tr><td>刘碧珍(WTO)</td><td>17篇</td><td>国际贸易、对外投资、贸易政策</td></tr><tr><td>林昱君(第一所)</td><td>14篇</td><td>经济发展、贸易理论、两岸贸易、香港经济</td></tr><tr><td>蔡慧美（第一所;经济 展望;财经策略)</td><td>14篇</td><td>国际金融、产业经济、体济、专按管理会划并办理</td></tr><tr><td>靖心慈(WTO)</td><td>13篇</td><td>讲座活动 国际贸易投资、计量经济学、总体经济学</td></tr><tr><td>徐遵慈(WTO)</td><td>13篇</td><td>国际组织、国际经贸法、亚太区域研究、性别议题</td></tr><tr><td>苏显扬（第二所；经济 展望)</td><td>12篇</td><td>产业经济、中小企业、国际贸易</td></tr><tr><td>林俊旭（第二所;能源 环境)</td><td>10篇</td><td>资源回收、土壤冲蚀模式、环境规划</td></tr><tr><td>彭素玲(经济展望)</td><td>9篇</td><td>景气与预测、经济发展、产业经济</td></tr><tr><td>罗时芳（第二所;能源 环境)</td><td>8篇</td><td>绩效评估、金融市场与投资、永续发展</td></tr><tr><td>李淳(WTO)</td><td>8篇</td><td>服务贸易法、经济管制与竞争政策、电子通讯汇流</td></tr><tr><td>颜慧欣(W TO)</td><td>7篇</td><td>国际经济法、国际租税法、贸易救济制度</td></tr><tr><td>马道(第三所)</td><td>4篇</td><td>产业组织、市场结构、赛局理论、市场集中度</td></tr><tr><td>陈建勳(第一所)</td><td>4篇</td><td>货币金融、经济发展</td></tr><tr><td>杜英仪(第三所)</td><td>3篇</td><td>产业组织</td></tr><tr><td>简台珍（WTO;能源环</td><td>3篇</td><td>环境经济学、能源经济学、计量经济学</td></tr><tr><td>温芳宜(第一所)</td><td>2篇</td><td>农业经济、生产效率分析</td></tr><tr><td>洪铭（第三所;能源</td><td>1篇</td><td>产业经济、环境与自然资源经济</td></tr><tr><td>陈笔（第二所；展望中</td><td>1篇</td><td>经济成长理论、能源经济、经济预测</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，主持研究计划超过20 篇报告产量的作者依序是:王建全、刘大年、吴惠林、王素弯、陈信宏、顾莹华、萧代基、杨雅惠、温丽琪、刘孟俊、杜巧霞、王京明、王俪容、连文荣、史惠慈、陈章真、欧阳承新、温蓓章，这18位学者各有不同的研究方向。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4 讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上所述，合作案的建立有助于获得CIER优质文献： $\\textcircled{1}$ 台湾区域经济的发展; $\\textcircled{2}$ 台湾产业政策的制定；$\\textcircled{3}$ 两岸经贸政策的走向; $\\textcircled{4}$ 台湾对美日韩的研究; $\\textcircled{5}$ 台湾参与国际上经济贸易组织的评估与策略。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据产业讯息汇集、产业资料整理及产业研究基地的行动目标拟定3个步骤与9个细节，分述如下:",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "步骤一:两地出版品交付。包括: $\\textcircled{1}$ 整理历年研究报告的文献记录(作者、出版日期、主题、关键字、专桉编号、摘要、密级时间); $\\textcircled{2}$ 标示文献的使用对象限制和推荐; $\\textcircled{3}$ 分阶段地传送文献。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "步骤二：出版品数字化建档。包括： $\\textcircled{1}$ 编辑文献数据与使用权限数据(文献数据包括:作者、出版日期、主题、关键字、专桉编号、摘要;使用权限数据包括:密级、密级时间、允许存取号码)； $\\textcircled{2}$ 扫描、建档、保护、保存、监督和检查; $\\textcircled{3}$ 数子化档案交付和信息系统规划，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "步骤三:两地信息系统管理。包括: $\\textcircled{1}$ 抽查数字化档案的完整性(是否缺页扫描、扫描不清楚、输入档名错误、输入档名不完整、新增条目的用语统一、条目的正确性)； $\\textcircled{2}$ 开发检索和流览系统; $\\textcircled{3}$ 同时启用并妥善保管。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "未来研究，建议在实践经验的基础上，着重: $\\textcircled{1}$ 完成纸本研究报告的数字出版品典藏; $\\textcircled{2}$ 完成文献及检索系统建置; $\\textcircled{3}$ 完成数据库的更新与使用规范。使得双方共同达到出版品异地寄存、数字资源典藏、资料库建档与管理。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5结语 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如上文所述，信息传播学是图书馆学和新闻传播学的交叉学科主要探讨信息在传播过程中的作用以及透过量化的信息分析来解读传播5要素的本质。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在本研究中包括:合作双方，即指传播主体(CI-ER)和客体(香港城市大学)；传播内容(研究报告);情境(合作馆藏的共识)；噪音(合作馆藏的障碍）。传播主体与客体双方，相隔两地需要先从表面的了解，挖掘可能存在的现象再进一步洽谈合作，并据此发展属于双方相互信任的友谊关系。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "欲从传播客体的角度消除传播情境中的噪音，达成传播内容的有效互动 需要从客体(哲学中又称之为“他者”)理解主体和传播内容。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CIER台湾著名智库，集聚许多学者专家，名声显著。但是鲜少有人对它进行深度研究，而且因为其神秘感 甚至被误解为间谍机构;其实不然，它是一间汇聚众多资深学者（这些学者往往是大学教授和企业家)的研究机构。其成员在台湾社会里并非隐而不显，反而经常出席各种研讨会，在各种学术性、政策性、公共服务性的公开场合均可与这些学者直接交流",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "正因如此，与之进行合作馆藏，不仅有助于发展大学图书馆馆藏，也有助于该院向外传播其研究成果。在这个过程中，由于初次合作的陌生和误解，产生了许多不必要的传播噪音透过文献计量和内容分析，在从客体角度(object)进行对主体的理解过程中,排除了这些噪音抽取了明确的传播内容（又称为“讯息”）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "信息交流学借用图书馆学和新闻传播学的方法但是这里笔者用信息交流学的方法来解决图书馆实务的问题。根据笔者分析的结果，验证了外界对CIER高素质研究的评价。所以，采用文献计量与内容分析被证实：可以观测科研生产力，特别是传统科学计量学所不能检测的灰色文献(报告白皮书等）。然而，这套方法还有许多不足之处，值得后续发展。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1］张秋.台湾地区图书馆馆藏发展政策实践研究.图书情报工作2004 48(4) :19 - 23.  \n[2］索传军,袁静.论数字馆藏发展政策的框架与内容.中国图书馆学报 2007 33(2) :65 -69.  \n[3］罗莹.基于高校文库可持续发展要求的合作关系研究.图书馆建设 2010(2):28 -30.  \n［4］邱子恒.引用文献分析在健康科学馆藏经费分配之应用：以台北医学大学图书馆为例.图书信息学刊 2004 1(2):19 -33.  \n[5］吴明德.大学图书馆馆藏发展的再省思.图书与信息学刊，2006 59:1 -15.  \n[6］林巧敏 陈雪华.“国家图书馆\"电子馆藏发展政策之研究.“国家图书馆\"馆刊 2008(1):25 -61.  \n[7］王梅玲 蔡佳萦.台湾图书资讯学教育指南发展之研究.大学图书馆(台） 2009 13(1) :58 -84.  \n[8］顾敏.广域图书馆时代的大学图书馆.“国家图书馆”馆刊，2009(2) :1 - 25.  \n[9]Tague-Sutcliffe J. An introduction to informetrics. Information Pro-cessing and Management,1992 ,28(1) :1 -3.  \n[10]张晓林.信息交流理论对图书馆工作的提示.图书馆学刊，1985(2):9 -13.  \n[11]Boerner K，Chen C M，Boyack KW. Visualizing knowledge do-mains. Annual Review of Information Science & Technology 2003,37(5) : 179 -155.  \n[12]陈云伟.科学计量学的发展与布局：1978-2008.现代图书情报技术 2010(1) :71 -76.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（作者简介）顾立平男1978年生，博士，博士后研究(专任研究助理）发表论文27 篇",
+        "page_idx": 3
+    }
+]

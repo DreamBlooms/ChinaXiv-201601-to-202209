@@ -1,0 +1,176 @@
+[
+    {
+        "type": "text",
+        "text": "Depletion of tyrosyl-DNA phosphodiesterase 1α (MtTdp1α) affects transposon expression in Medicago truncatula ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SummaryThe role of plant tyrosyl-DNA phosphodiesterase 1α in genome stability is studied using a Medicago truncatula MtTdp1α-depleted line.Lack of MtTdp1α results in a $3 9 \\%$ reduction of methylated cytosines as compared to control. RNA-Seq analyses revealed that 11 DNA transposons and 22 retrotransposons were differentially ex pressed in the Tdp1α-2a line. Among them all, DNA transposons (MuDR,hAT, DNA3-11_Mad) and seven retrotransposons (LTR (Long Terminal Repeat)/Gipsy, LTR/Copia, LTR and NonLTR/L1) were down-regulated， while the 15 retrotransposons were up regulated. Results suggest that the occurrence of stress-responsive cis-elements as well as changes in the methylation pattern at the LTR promoters might be responsible for the enhanced retrotransposon transcription. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MtTdp1α (tyrosyl-DNA phosphodiesterase）gene depletion affects Medicago truncatula genome stability,as reported in the present work.The MtTdp1α-depleted line Tdp1α-2a showed $3 9 \\%$ reduction in overall methylated cytosines, compared to the control (CTRL) line.According to RNA-Seq, 33 transcripts resulting from 11 DNA transposons and 22 retrotransposons,respectively,were differentially expressed in the Tdp1α-2a line.All DNA transposons (MuDR,hAT,DNA3- 11_Mad) and eight retrotransposons,namely LTR/Gipsy,LTR/ Copia， LTR and NonLTR/L1， were down-regulated.The remainingLTR/Gipsy,LTR/Copia,LTR and NonLTR/SINE(Short Interspersed Nuclear Element） retrotransposons were upregulated.Reduced methylation levels were observed at the GYPSY-LTR_MT sequence hereby analyzed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Transposable elements (TEs） excision causes Double Strand Breaks (DSBs) which activate DNA damage sensing/ signaling mechanisms; however， the choice of the proper repair pathway for the removal of transposition-mediated DSBs is dependent on host-specific repair factors and cell cycle phase (lzsvak et al.2oo9). In a recent report,Dinh et al.(2o14) demonstrated that the Arabidopsis thaliana DNA topoisomerase (topo) lα participates in the transcriptional silencing of TEs since this function was required to inhibit RNA-directed DNA methylation，one of the main factors controlling TEs silencing.DNA topoisomerases are key regulators of DNA topology in the early steps of DNA repair (Balestrazzi etal.2o1o). In the presence of damaged DNA sites or topoldrugs,the transient covalent complexes topo I/DNA formed during the catalytic cycle are stabilized,resulting in cytotoxic DSBs.Tyrosyl-DNA phosphodiesterase I (Tdp1) enzyme is able to break the covalent linkage between the DNA termini and the catalytic tyrosine residue of topo I, thus releasing the enzyme trapped on the double helix (Interthal et al.2oo1).The Tdp1 gene family from Medicago truncatula Gaertn.，including MtTdp1α and MtTdp1β genes，has been characterized (Macovei etal.2o1o).RNA-Seq analysis,carried out in the MtTdp1α-depleted M. truncatula plants，has identified gened differentially expressed that are involved in DNA damage sensing,DNA repair and chromatin remodelling (Dona et al. 2013b). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "There is still limited information on TEs mobilization profiles occurring in planta in presence of defective DNA repair.In this work，the molecular characterization of the M.truncatula MtTdp1α-depleted line Tdp1α-2a (Dona et al. 2013b）has been expanded，assessing the global cytosine methylation profile,TEs expression patterns,occurrence of TEs-associatedstress-responsivecis-regulatory elements and possible changes in the methylation patterns at their promoter regions.In our opinion，the reported data add novel information concerning the role of Tdp1 in relation to genome stability issues in plants，expanding the current knowledge on a crucial, still uncovered,molecular aspect of plant physiology. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the present work,the link between the lack of MtTdp1α gene function and TEs transcriptional profiles has been investigatedin the model legumeM.truncatula,in order to provide novel insights into the role played by the DNA repair enzyme Tdp1α in safeguarding the plant genome.The RNA-Seq database used in the present work has been produced in a previous study (Dona et al. 2013b). The sequencing data used in this work are deposited to the NCBl Short Read Archive and are accessible through SRA accession number SRPo13555 (http://www.ncbi.nlm.nih.gov/Traces/sra/ sra.cgi). Gene sequences were obtained from http:// medicagohapmap.org based on genome release Mt3.5.Amino acid sequences were compared using the Expasy SIB BLAST Network Service (http://www.expasy.ch/tools/blast//).TopHat software (tophat.cbcb.umd.edu) was used fordata assembly. Data available from RNA-Seq were assembled using the TopHat software (tophat.cbcb.umd.edu) and subsequently analyzed using the Cufflinks v.1.3.o (Trapnell et al.2010) program for the identification of unannotated transcripts.As a result,1,48o putative new transcripts were identified,among which 15o showed differential expression in the Tdp1α-2a line compared to CTRL line.BLAST alignments revealed that 33 out of the 15o differentially expressed genes contained TE-related sequences.A detailed list of the 33 sequences is provided in Tables S1, S2 and S3. Each sequence was classified using the RepBase alignment tool (www.girinst.org/repbase/ index.html). Eleven sequences were DNA transposons while the remaining 22 sequences were retrotransposons (Figure 1A). DNA transposons were assigned to MuDR,the autonomous element of the Mutator transposon family and to hAT(Hatvine) DNA transposon superfamily (Table S1). The 22 differentially expressed retrotransposons，were assigned to nine different groups (Tables S2，S3）which include LTR retroelements belonging to the main plant superfamilies,Gypsy and Copia,and non-LTR retrotransposons with LINE(Long Interspersed Element) and SINE components (Table S3). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Since it is known that in yeast the Tdp1 gene is required to ensure the accurate processing of DNA ends during nonhomologous end joining(NHEJ) (Bahmed et al.2o1o),it is possible that the impairment of DNA transposon mobility in the MtTdp1α-depleted cells might be caused by defective NHEJ.Although no significant differences were evidenced by RNA-Seq analysis in the expression profiles of M. truncatula genes involved in the NHEJ pathway (Dona et al.2o13b), the occurrence of post-transcriptional regulation of NHEJ proteins cannot be ruled out.To date,no direct evidence of the involvement of Tdp1 enzyme in the resolution of specific DNA structures that mediate TE transposition isavailable.However Heo et al. (2o15) recently demonstrated that hTdp1 physically interacts with NHEJ proteins recruited at DSBs sites during the early step of this repair.The overall perturbations of the DNA repair response affecting Nucleotide Excision Repair (NER） and Base Excision Repair(BER) pathways might be partially responsible for the enhanced mobilization of LTR and non-LTR retrotransposon.It is known that the yeast RAD27/FEN(FLAP ENDONUCLEASE）1 nuclease activated during the BER process,is able to affect the stability of complementary DNA(cDNA) intermediates produced during the retrotransposition of Ty1 element (Sundararajan et al.2oo3). In animal cells,the NER component ERCC(EXCISION REPAIR CROSSCOMPLEMENTATION GROUP)1/XPF(XERODERMA PIGMENTOSUM GROUP F) is required to limit the mobility of the non-LTR retrotransposon LINE-1 (Gasior and Deininger 2008). The involvement of NHEJ pathway in LINE-1 retrotransposition is currently discussed since in animal cells with defective NHEJ,a decrease in mobility of LINE-1 has been demonstrated (Suzuki et al. 2009). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All DNA transposons were down-regulated at the transcriptional level in the Tdp1α-2a line while15 out of the 22 retrotransposons were up-regulated (Figure 1B). LTRs, accounting for 20 out of the 22 retrotransposons retrieved, include 14 out of the 15 up-regulated TEs.To find out factors responsible for enhanced retrotransposon transcription, the promoter region of each LTR retroelement (LTR/Gipsy,LTR/ Copia,LTR; Table S2) was retrieved and analyszed for putative cis-acting regulatory elements.The search for putative cisacting regulatory elements was performed using the PlantCARE database(bioinformatics.psb.ugent.be/webtools/ plantcare/html/).The graphical representation of cis-element abundance in the promoter region of the differentially expressed LTR retroelements is shown in Figure 1C,where data are expressed as percentage of occurrence of a single hit on the total number of 69 cis-elements identified.The most abundant cis-elements include TGACG and CGTCA (methyljasmonate responsive)，TC-rich (defense and stress responsive)，and ARE (Anaerobic Responsive）elements (7/69, $1 0 . 1 4 \\%$ )，followed by HSE (Heat Stress Responsive) (6/69, $8 . 6 9 \\%$ .GC (anoxic specific inducibility enhancer)，TCA (salycilicacid responsive) and ABRE(ABA responsive) motifs were less frequent elements $( 5 / 6 9 , ~ 7 . 2 4 \\% )$ .Other motifs related to pathogen interaction were poorly represented (Figure 1C).The LTR promoters harboring stress-responsive regulatory elements might undergo constitutive activation in the MtTdp1α-depleted cells，possibly contributing to TEmediated genome destabilitation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It has been reported that TE may contain cis-regulatory elements that act as binding sites for stress-inducible transcription factors. Indeed,Makarevitch et al.(2o15) found the DRE (Dehydration Responsive Element） consensus sequence in most of the TEsassociated with stress-responsive genes in maize.The stress-related cis-regulatory elements Were found in the main TE families,including LTR/Gipsy, LTR/ Copia and LINE,spread uniformly across the maize genome (Makarevitch etal.2o15).Stress-responsive cis-elements were also detected in the retrotransposons activated in the MtTdp1α-depleted cells.It is possible that these regulatory elements might have contributed to enhance the expression of the stress-responsive genes,as highlighted by RNA-Seq (Dona et al. 2013b). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All the reported analyses were carried out using 2o-d-old M.truncatula Gaertn.(cv.Jemalong,M9-1oa genotype) plants (Tdp1α-2a and CTRL lines) grown in vitro as described by Dona etal. (2o13b).The global 5-methylcytosine (5-mC) levels were assessed in genomic DNA extracted from leaves using the 5- mC DNA ELISA kit D5325 (Zymo Research Corporation, Irvine, California，U.S.A.）according to supplier's indications.DNA aliquots (1oo ng)were denaturated and incubated with amix consisting of anti-5-methylcytosine and secondary (horseradish peroxidase conjugate) antibodies.For each DNA sample, the percentage of 5-mC was quantified by plotting absorbance versus $5 - m c$ percentage in the standard curve.For each M. truncatula line,duplicated DNA samples for two independent replications were analyzed.As shown in Figure 1D,a significant ${ \\big ( } P < 0 . 0 0 1 { \\big ) }$ reduction of $3 9 . 0 \\pm 2 . 0 \\%$ in the $5 - m c$ amount was observed in the MtTdp1α-depleted line,compared to CTRL line. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Theglobal loss of methylated cytosine residues detected in the Tdp1α-2a line and the loss of methylation observed at one of the LTR sequences that were transcriptionally upregulated are in agreement with the expression profiles of key genes involved in DNA methylation provided by RNA-Seq analysis (Dona et al. 2o13b).Thus， the observed DNA hypomethylation might have contributed to retrotransposon deregulation.Although this investigation does not provide direct evidence of TE excision，it is acknowledged that transcriptionisthefirststepofretrotransposition (Casacuberta and Santiago 2oo3);however,in-depth studies will be necessary to disclose this specific aspect. Changes in the methylation patterns at the LTR promoter regions might be responsible for the enhanced retrotransposon transcription.In order to assess the methylation state at LTR promoters,genomic DNA digestion with methylation-sensitive endonucleases followed by PCR-mediated amplification was carried out on a single LTR sequence(GYPSY-LTR_MT, Table S2,TCONS_ooo84148) selected as representative of the differentially expressed LTR retrotransposons previously described.As shown in Supplemental Figure S1,in the CTRL line the target LTR region wasnot cleaved by the methylationsensitive endonucleases Hpall and Sacl,due to the presence of methylated cytosine residues，while the low amplification efficiency observed with the DNA from Tdp1α-2a line possibly resulted from the Hpall- and Sacl-mediated cleavage at demethylated LTR sites. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/feacc1ad880391d36a681b1153584e1837ebc00cb5ad93c43fd227ff0b494067.jpg",
+        "img_caption": [
+            "igure1.Effects of MtTdp1α gene depletionon DNA transposonand retrotransposon expresionand global cytosine nethylation "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(A)Transposable elements (TEs)-related genesequences diferentialy expressed in the M.truncatula MtTdplα-depletedline Tdp1α-2a compared to control (CTRL)line included two major classes,DNA transposons and retrotransposons.A more accurate classification was obtained using the RepBase alignment tool (www.girinst.org/repbase/index.html).(B) DiferentialregulationofTEsintheMtTdplα-depletedlineTdp1α-2aas highlightedbyRNA-Seqanalysis.Allthe DNA transposons weredown-regulatedwhilemostoftheretrotransposon(15outof 2)wereup-regulated.MuDR,autonomous element of the Mutator transposon family.LTR,Long Terminal Repeat. (C)Radar chart of cis-element distribution in the promoterregionsof the LTRretroelements diferentially expressed in the MtTdp1α-depletedline Tdp1α-2a,compared to CRTLIine.Dataare expressedas percentageofocurence ofasingle hitonthetotalnumberofrecorded cis-element.ABRE, ABA Responsive Element.ARE,Anaerobic Responsive Element.AT-rich,ATBP-1 Binding site.AuxRE,Auxin Responsive Element.Box-W1,Responsive to Fungal Elicitor.CGTCA motif,Methyl-Jasmonate (MeJA) Responsiveelement.GC-motif, Anoxic Specific Inducibility Enhancer.EIRE，Elicitor Responsive Element.ERE，Ethylene Responsive Element.GARE, Gibberellin Responsive Element.HSE,Heat Stress Responsive Element.LTR,LowTemperature Responsive.MBSand MBSI, Myb-BindingSite.TCA-element,SalicylicAcid (SA)ResponsiveElement.TC-rich,Defenseandstress responsive.TGACGmotif, MeJA Responsive Element. (D)Quantificationof global 5-methylcytosine (5-mC)levels in genomic DNA from leaves of 20-dold M.truncatula plants grown in vitro by enzyme-linked immunosorbent assay-basedimmunoassy.For each DNA sample (MtTdp1α-depletedlineTdp1α-2aandcontrollineCTRL,respectively),thepercentageof5-mCwasquantifiedbyploting absorbance versus $5 - m c$ percentage in the standard curve.For each M.truncatula line,duplicated DNA samples for twoindependent replications were analysed.Asterisks indicate statistical significance of diferences determined using Student's t-test ( $\\left( P < 0 . 0 5 \\right)$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Genome stability is an absolute requirement for plant survival under adverse environmental conditions and a main challenge for preserving high crop productivity in the context of global climate change.Physiology of DNA repair and transposon control deserves attention，being a source of information for crop genetic improvement as well as for designing novel breeding strategies. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGEMENTS ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This Work was supported by Agricultural Research Council (C.R.A.), University of Pavia and by SaVeGralNPuglia-Progetto Integrato per la Biodiversita PSR Regione Puglia FEASR 2007- 2013 Re (CE) 1698/2005. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Maria Elisa Sabatini',Mattia Dona1†,Paola Leonetti² AndreaMinio³,MassimoDelledonne³,Daniela Carbonera1 Massimo Confalonieri4, Giorgio Giraffa4 and Alma Balestrazzi1\\* 'Department of Biology and Biotechnology‘L.Spallanzani’ via Ferrata1,271oo Pavia, Italy   \n²Institute for Sustainable Plant Protection, National Research Council (CNR),Via Amendola $1 6 5 / \\mathsf { a }$ ，70126 Bari,Italy   \n3Department of Biotechnology, University of Verona, Strada Le Grazie 15,37134 Verona, Italy 4Fodder and Dairy Production Research Centre, Viale Piacenza 29,296oo Lodi, Italy +Present address: Gregor Mendel Institute (GMl), Austrian Academy of Sciences,Vienna Biocenter (VBC),Dr.Bohr Gasse 3,103o Vienna,Austria \\*Correspondence:alma.balestrazzi@unipv.it Keywords: DNA methylation; Medicago truncatula; RNA-Seq; transposable elements;tyrosyl-DNA phosphodiesterase Citation: Sabatini ME,Dona M,Leonetti P,Minio A, Delledonne M,   \nCarboneral D,Confalonieri M,Giraffa G,Balestrazzi A(2o16) Depletion   \nof tyrosyl-DNA phosphodiesterase 1α (MtTdp1α) affects transposon expression in Medicago truncatula.J Integr Plant Biol XX:XX-XX doi: 10.1111/jipb.12457 Edited by: Jan Traas,University of Lyon,France Received Apr.20,2015;Accepted Dec.18,2015 Available online on Dec.23,2015 at www.wileyonlinelibrary.com/ journal/jipb $\\mathfrak { O }$ 2015 Institute of Botany,Chinese Academy of Sciences ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "AUTHOR CONTRIBUTIONS ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "M.E.S.and M.D.performed mostof the research and A.B.drafted the manuscript.P.L.carried out methylated cytosine analysis, A.M.and M.D.performed RNA-Seq and bioinformatics.M.C.and G.G.carried out in vitro work with M.truncatula lines.D.C., P.L.and A.B.revised the manuscript.M.D.and M.E.S.designed the experiment.A.B.supervised the study，and revised the manuscript. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Bahmed K,Nitiss KC,Nitiss JL(2o1o) Yeast Tdp1 regulates the fidelity of non homologous end joining.Proc Natl Acad Sci USA 107: 4057-4062 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Balestrazzi A，Locato V，Bottone MG，De Gara L，Biggiogera M, Pellicciari C,Botti S,Di Gesu D,Dona M,Carbonera D (2010) Response to UV-C radiation in topo I-deficient carrot cells with low ascorbate levels.JExp Bot 61: 575-585   \nCasacuberta JM,Santiago N (2oo3) Plant LTR-retrotransposons and MITEs: Control of transposition and impact on the evolution of plant genes and genomes. Gene 31: 1-11   \nDinh TT, Gao L, Liu X, Li XD,Li S,Zhao Y,O'Leary M,Le B,Schmitz RJ, Manavella P,Li S,Weigel D,Pontes O,Ecker JR,Chen X(2014) DNA topoisomerase 1a promotes transcriptional silencing of transposable elements through DNA methylation and histone lysine 9 dimethylation in Arabidopsis. PLoS Genet 10: e1004446   \nDona M，Confalonieri M，Minio A，Biggiogera M，Buttafava A, Raimondi E, Delledonne M, Ventura L, Sabatini ME, Macovei A, Giraffa G, Carbonera D,Balestrazzi A (2o13b) RNA-Seq analysis discolses early senescence and nucleolar dysfunction triggered by Tdp1α depletion in Medicago truncatula.J Exp Bot 64: 1941-1951   \nGasior SL, Deininger PL(2oo8) ERCC1/XPF limits L1 retrotransposition. DNA Repair (Amst) 87: 93-989   \nHeo J,Li J, Summerlin M, Hays A, Katyal S,McKinnon PJ, Nitiss KC, Nitiss JL,Hanakahi LA (2o15) TDP1 promotes assembly of nonhomologous end joining protein complexes on DNA. DNA Repair 30: 28-37   \nInterthal H，Pouliot JJ，Champoux JJ (2oo1） The tyrosyl-DNA phosphodiesterase Tdp1 is member of the phospholipase D superfamily. Proc Natl Acad Sci USA 98: 12009-12014   \nIzsvak Z,Wang Y,Ivic Z (2oo9) Interactions of transposons with the cellular DNA repair machinery.In: Lankenau DH,Volff JN,eds. Transposons and the Dynamic Genome.Springer-Verlag Berlin Heidelberg, Germany. pp. 133-176   \nMacovei A, Balestrazzi A,Confalonieri M, Carbonera D (201o） The tyrosyl-DNA phosphodiesterase gene family in Medicago truncatula Gaertn.: Bioinformatic investigation and expression profiles in response to copper- and PEG-mediated stress. Planta 232: 303-407   \nMakarevitch I，Waters AJ，West TP，Stitzer MC，Ross-lbarra J, Springer NM (2015） Transposable elements contribute to activation of maize genes in response to abiotic stress. PLoS Genet 11: e1004915   \nSkipper KA，Andersen PR，Sharma N，Mikkelsen JG (2013）DNA transposon-based gene vehicles-scenes from an evolutionary drive. J Biomed Sci 20: 92   \nSundararajan A，Lee BS,Garfinkel DJ (2oo3） The Rad27 (Fen-1) nuclease inhibits Ty1 mobility in Saccharomyces cerevisiae. Genetics 163: 55-67   \nSuzuki J，Yamaguchi K，Kajikawa M，Ichiyanagi K，Adachi N, Koyama H，Takeda S，Okada N (2oo9）Genetic evidence that the Non-Homologous End Joining Repair Pathway is involved in LINE retrotransposition.PLoS Genet 5:e1000461   \nTrapnell C,Williams BA,Pertea G,Mortazavi A, Kwan G,vanBaren MJ, Salzberg SL,Wold BJ,Patcher L(2o1o) Letters transcript assembly and quantification by RNA-seq reveals unannotated transcripts and isoform switching during cell differentiation. Nat Biotech 28: 516-520 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SUPPORTING INFORMATION ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Additional supporting information may be found in the online version of this article at the publisher's web-site. File S1.Analysis of methylation patterns at LTR promoter regions ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(A) Distribution of LTR (Long Terminal Repeat) regions within the retrotransposon of the Copia and Gypsy plant superfamilies (modified from Pearce et al.2ooo). gag,core particle components.Int, integrase.RT,reverse transcriptase.(B) The LTR region of the GYPSY-LTR_MT sequence(TCONS_ooo84148, Supplementary Table S2) selected in this study contains two Hpall sites and a unique Sacl site. In case of cytosine methylation,the Hpall and Sacl endonucleases are inhibited, thus the LTR region remains intact and the PCR-based amplification with the LTR-specific oligonucleotide primers (FWand REV) takes place.In case of demethylation,the Hpalland Sacl-mediated restriction will occur and no LTR template will be available for amplification.(C) Results of PCR amplification carried out on the Hpall/Sacl-digested DNA extracted from Tdp1a-2a and CTRL lines,using the LTR-specific oligonucleotide primers.The expected amplification product (569 bp，spanning from nt 752 to nt 1321 of the LTR region） corresponding to cycles 25，26，27，28 and 29 was visualized by agarose gel electrophoresis.M,molecular weight marker (GeneRulerTM 5o bp DNA Ladder，MBl Fementas). (D) Densitometric analysis of the amplification product. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Table S1. List of gene sequences related to DNA transposons differentially expressed in the Tdp1α-2a line compared to CTRL Fold-Change represents the ratio of transcript values of the Tdp2α-2a line over the CTRL line Each gene has been classified using the RepBase alignment tool(www.girinst.org/repbase/index.html). For each DNA transposons,theinformationcurrently availableand referencesare indicated.hAT,Hatvine.IR,Inverted Repeats. Mad,Malus × domestica Borkh.MT，Medicago truncatula. TIRs,Terminal Inverted Repeats.TSDs,Target Site Duplications.VV,Vitis vinifera.(\\*) Sequences are accessible at http:// www.ncbi.nlm.nih.gov/Traces/sra/sra.cgiunderaccession number SRP013555. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Table S2. List of LTR Retrotransposons (Gypsy，Gypsy-like, Copia) differentially expressed in the Tdp1α-2a line compared to CTRL ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Retrotransposons are shown as groups.The Fold-Change represents the ratio of transcript values of the Tdp2α-2a line over the CTRL line.Each gene has been classified using the RepBasealignment tool (www.girinst.org/repbase/index. html).For each DNA transposons,the information currently available and references are indicated.LTR,Long Terminal Repeat.MT,Medicago truncatula.ORF,Open Reading Frame. PD,Phoenix dactylifera.VV,Vitis vinifera. $( ^ { * }$ )Sequencesare accessible at http://www.ncbi.nlm.nih.gov/Traces/sra/sra.cgi under accession number SRPo13555. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Table S3. List of LTR and NonLTR Retrotransposons differentially expressed in the Tdp1α-2a line compared to CTRL Retrotransposons are shown as groups The Fold-Change represents the ratio of transcript values of the Tdp2α-2a line over the CTRL line.Each gene has been classified using the RepBase alignment tool (www.girinst.org/ repbase/index.html).For each DNA transposons,the information currently available and references are indicated.LINE, Long Interspersed Element.LTR,Long Terminal Repeat.MT, Medicago truncatula.SINE,Short Interspersed Element.(\\*) Sequences are accessible at http://www.ncbi.nlm.nih.gov/ Traces/sra/sra.cgi under accession number SRP013555. ",
+        "page_idx": 4
+    }
+]

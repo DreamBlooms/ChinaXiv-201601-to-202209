@@ -1,0 +1,509 @@
+[
+    {
+        "type": "text",
+        "text": "Targeting pan-tumor antigens to activating Fcy receptors generates a novel dendritic cell tumor vaccine ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hui SHENG',Pan WANG², Guoxiu ZHANG1, Xiao ZHANG², Zhongjun $\\mathrm { L I } ^ { 2 * }$ & Zhihui ZHAO1\\* Jiangsu Province Key Laboratory for Molecular and Medicine Biotechnology, College of Life Science,Nanjing Normal University,Nanjing,Jiangsu, China. ²State KeyLaboratoryof Natural and Biomimetic Drugs,Schoolof Pharmaceutical Sciences,Peking University,Beijing, China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Author contributions: Z. Z. and Z.L. participated in research design; H. S.and G. Z. conducted experiments; P.W., X. Z. and Z.L. contributed new reagents; Z. Z.and H. S. performed data analysis; Z. Z. and H. S. wrote the manuscript. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Objective: Therapeutic tumor vacines areeagerly awaited inclinic bypatients withhigh expectations; however,very few clinically succesful tumor vaccine has been developedthus far,and there remains no consensus on the generation of tumor vaccines.We hypothesized thattargeted deliveryof pan-tumor antigens instead of individual tumor-associated antigen (TAA)to dendritic cells via the activating receptor endocytic pathway (AREP) would provide an alternative avenue to develop potent personalized tumor vaccines. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Methods:We first prepared biotin-tagged tumor antigens (B-TAgs)with mouse CT26.WTcolorectalcancer cels by exploiting metabolic glycan labelingand bioorthogonalreaction methods; then,we prepareda bifunctional fusion protein containing streptavidin and a mouse IgG2aFc fragment (SA-Fc),in which streptavidin was used for conjugation with BTAgs,andFc for mediating the interaction with the Fcy receptor.Finally,conjugates (Fc-TAgs)of SA-Fc with B-TAgs were prepared based onafinity-guided noncovalent reaction.The phenotype ofFc-TAgs pulsed bone marrow-derived dendritic cels (BMDCs) was examined by flow cytometry.The therapeutic effects ofFc-TAgs pulsed BMDCs were observed in an established mouse CT26.WT colorectal cancer model. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results: The prepared B-TAgs covers almost allglycosylated tumor antigens.SA-Fc fusion protein exhibits biotinbinding activity asa homodimer.SA-Fccan effectively conjugate withB-TAg at a mixing ratioof 1:96 (w/w).Data of flow cytometry revealed that on Fc-TAgs pulsed BMDCs,the expresion levels of surface molecules,such as CD80 and MHC II,were greatly increased.Inthe established murine colorectalcancer model,combination treatments withFc-TAgs pulsed BMDCs and PD-1 blockade achieved significant therapeutic effects. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Limitations: The strategy we proposed for the preparationof personalized tumor vaccine requires that the tumor be surgicallyremoved from the patient.Therationalityand validityof this strategy needtobe proven by more preclinical investigations. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Conclusions: The novel strategy we proposed circumvents the necesities for neoantigen prediction and provides an alternative pathwayto establishaflexiblesystem for the preparation ofpersonalized dendritic celltumor vaccines.In the setting ofcheckpoint blockade-based immunotherapy,a novel DCV would improve antitumor immunityand benefit the eradication of tumor residues within the body of the cancer patients. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords:[Dendriticcell tumorvaccinel]; [Fcyreceptor];[Metaboliclabeling]; [Bioorthogonalreaction];[Colorectal cancer]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1．Introduction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For several decades,dendritic cell tumor Vaccines (DCVs) have been a tantalizing strategy for the eradication of malignancies.Many clinical trials have been conducted in the hope of benefiting from such an approach,and a myriad of data has established the safety,immunogenicityand relevance to clinical outcomes (1-4). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Currently, it is widely accepted that cancer is a personalized disease with high heterogeneity; hence,DCVs for cancer patients should also be personalized (5-8). To date, there remains no consensus on the generation of DCVs,and the fact that there are few accepted successful DCVs in clinic highlights the need to refine the strategy for making DCVs and to reconsider the treatment regimen of immunotherapy. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Previously, Gil M. et al. generated a recombinant protein containing the IgG2a Fc fragment and a mimotope of the GD2 ganglioside to deliver the antigenic cassete to the activating Fcy receptors on DCs,and thus, the DCV resulted in antitumor immune responses (9). Kato Y. et al. and Li J. et al. showed that targeting antigen to Clec9a (DC NK lectin group receptor-1) in animal models induced celular and humoral immune responses (10,11). In addition, studies using DEC205-targeting antibodies have successfully induced immune responses to cancer antigens as wel as pathogen antigens (l2,13).These encouraging findings,although focused on the individual tumor-associated antigen (TAA), strongly suggested that targeting antigens to DCs could be a potential strategy for DCbased vaccination. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Moreover,Wendy W.J. Unger et al. demonstrated that sialic acid-modified tumor antigens (SiaTAgs) impose tolerance via inhibition of T-cell proliferation and de novo induction of regulatory T cells.The interaction of sialic acid capped on the glycan of glycosylated TAg with Siglecs (sialic acidbinding Ig-type lectins) mediates the uptake of TAg by DCs and thus endows DCs with regulatory properties (14). Presumably, preventing TAgs from entering DCs via the Siglec pathway would improve the antitumor immunity of the body. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Here,we aimed to deliver TAgs,as much as possible, to DCs via the activating receptormediated endocytic pathway (AREP) and to avoid the entrance of TAgs by the Siglec pathway. To our knowledge, no such attempt has been made before. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We addressed this issue on the basis of the following rationale: the affinity-guided noncovalent interaction of streptavidin (SA) with biotin, metabolic glycan labeling and bioorthogonal reaction (click reaction) (15-18). We firstly prepared a recombinant protein SA-Fc that contained SA and a mouse IgG2aFc (Fc) fragment; and then we prepared biotin-tagged TAgs (B-TAgs), on which biotin was labeled at the terminal end of the glycan; finally, the conjugates of SA-Fc and B-TAgs (Fc-TAgs) were exploited as loading antigens to make the DCV. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In a combination immunotherapy with PD-1 blockade, the DCV we prepared conferred significant therapeutic efficacy on murine colorectal cancer, demonstrating that the strategy we proposed might be applied for making personalized DCVs, especially for those patients whose tumor can be surgically removed. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2． Methodology (Design/Approach) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The objectives of this study were to prepare a new dendritic cel tumor vaccine by delivering tumor antigens to DCs via the activating Fc receptor endocytic pathway and to evaluate the therapeutic potency of this new DCV in an implanted animal tumor model. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "First, we made the following preparations: 1. Based on metabolic glycan labeling and click chemistry strategies, we prepared biotin-tagged tumor antigens (B-TAgs) by tagging biotin with sialic acid residue displayed at the nonreducing termini of cel-surface glycans on mouse CT26. WT cells; 2.We prepared a bifunctional linker-bridged fusion protein containing streptavidin (SA) and mouse IgG2a Fc (Fc) segments; 3.Since the conjugates of B-TAgs with SA-Fc were to be used as a source of antigens for DC loading, we analyzed the conjugating ratio of these two reagents. 4. We examined the phenotype of bone marrow-derived dendritic cells pulsed by the conjugates, SA-Fc and B-TAg. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Next, we established a murine CT26.WT colorectal cancer model by injecting tumor cells subcutaneously into one flank of each mouse.One week after tumor inoculation, when the tumor size became measurable, the tumor-bearing mice were equally randomized to different groups ( $\\mathrm { \\hbar } { = } 5$ per group). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Our immunotherapy plan consisted of two parts: monotherapy with the DCV and combination therapy with the DCV plus anti-PD-1 antibody. Unaltered tumor antigens were used to prepare control DCVs. The DCV was administered to mice subcutaneously by peritumoral injection, while anti-PD-1 antibody was given to mice by intraperitoneal injection. Mice in different groups received the respective treatments according to the same time schedule, and the dynamics of tumor growth were individually recorded.To evaluate whether our immunotherapy impacted antitumor immunity in the tested animals,we examined the subsets of lymphocytes in the peripheral blood and spleens of the animals. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For each experiment, animal numbers, statistical tests,and numbers of experimental replicates are described in the figure legends.Data include all outliers.The researchers were not blinded during the data collection or analysis. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SA-Fc fusion proteinexhibited biotin-bindingactivityasa homodimer ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To deliver TAgs to DCs via AREP,we have to prepare a complex guider that can both interact with a specific activating receptor on DCs and can conjugate with pretagged tumor antigens as well. For this reason, we chose mouse FcyIIa receptor,a confirmed activating endocytic receptor, as the “door” for the entrance of tumor antigens into DCs.Meanwhile, we chose streptavidin, which is known to possess potent capacity for biotin-binding, as an ideal component for conjugation with BTAgs.Therefore, we constructed a recombinant pFUSE plasmid containing the coding sequence of the mouse IgG2aFc segment, streptavidin,and a flexible linker sequence between the two (Fig.1 A, upper and left, and Fig. S1),and expressed the fusion protein in a eukaryotic expression system. The results of Coomassie blue staining showed that the molecular weight of nonreduced protein was almost twice that of the reduced protein, indicating that the fusion protein existed as a homodimer in the native state (Fig.1 A, middle). The Fc component within the protein was characterized by Western blotting, as shown in Fig.1 A (right).Furthermore,data of fluorescence microscopy demonstrated that the fusion protein could effectively bind with biotin (Fig.1 B).These results indicated that the protein obtained can meet the requirements of our experiments. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "SA-Fc can effectively conjugate with B-TAg ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Next, we planned to add a biotin label at the terminal end of the glycan that was modified on glycosylated TAg (18). A two-step strategy was applied for the preparation of B-TAgs (Fig. 2 A). TAg Would be first labeled with azido-sugar by unnatural sugar metabolic incorporation, and azido TAg would be further labeled with biotin by a click reaction. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We used Ac4ManNAz as a precursor for selective replacement of sialic acid residue (Sia) at the terminal end of the glycan on TAg with azido-sialic acid (azido-Sia).To ensure the efficiency of metabolic incorporation, we dynamically investigated the expression of azido-Sia on CT26.WT cells with DIBO-FITC under different conditions.We found that the FITC signal was enhanced with the increasing Ac4ManNAz concentration in culture medium, but the number of positive cells was reduced when the Ac4ManNAz concentration reached $3 \\mathrm { m M }$ (Fig. 2 B), suggesting that the proliferation of the cels might be affected by treatment with Ac4ManNAz at high concentration; flow cytometry analysis revealed that the optimal time duration for incorporation was approximately $1 6 \\mathrm { h }$ （20 (Fig.2 C). In addition, fluorescence microscopy assay also identified the expression of azido-sugar on CT26.WT cells (Fig. 2 D). Based on the observations above, we decided to adopt the following protocol for the subsequent preparations: the tumor cells were first preconditioned for $2 4 \\mathrm { h }$ with 0.5 mM Ac4ManNAz, followed by another $2 4 \\mathrm { h }$ culture with 2.0 mM Ac4ManNAz. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To obtain B-TAgs,we used thermally denatured cellysates of CT26.WT labeled with azidosugars reacts with DIBO-biotin. The formation of B-TAgs was identified by Western blot analysis (Fig.2 E). Furthermore, we examined several representative cell surface glycoproteins within the BTAg precipitates pooled by streptavidin resins, including CCR6,E-cadherin and IGF-1R.The results showed that the amounts of the detected glycoproteins within the B-TAgs sample were almost equal to those within the control TAgs sample (Fig.2F). This implies that the methodology we exploited could result in selective labeling of biotin on most of the glycosylated TAgs. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For the preparation of Fc-TAg conjugates, we investigated the optimal mixing ratio of SA-Fc to BTAgs by using immunoprecipitation and Western blot assays. Our results suggested that the ratio of 1:96 (SA-Fc:B-TAgs, w/w） should be the best, since under such a mixing ratio, the inputted B-TAgs were maximally conjugated by SA-Fc， while the remaining unconjugated B-TAgs were less than 1/8 of the input (Fig. 2 G). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Up to this point, we have addressed the key steps concerning the preparation of antigens for further investigations. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DCs pulsed by Fc-TAgs displayed a phenotype that favors the immune response ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Dendritic cells are the most potent antigen-presenting cells (APCs) responsible for priming of the immune response.It is believed that a specific adaptive immune response is determined by three kinds of signals: the interaction between antigen peptide presented by major histocompatibility complex (MHC) on APCs and the corresponding T cell receptor (TCR) expressed on T cells provides the first kind of signal; the interaction between costimulatory molecules on APCs and their corresponding ligands on Tcells provides the second kind of signal; and the participation of some cytokines provides the third kind of signal (19). These signals could be generally assessed by detecting the levels of the associated molecules or the secretion of cytokines.Here,by flow cytometry, we found that the expression profile of immune-associated molecules on the DCs pulsed by Fc-TAgs is quite different from that on DCs pulsed with unaltered TAgs. In comparison with nonstimulated DCs, the former showed significantly increased expression of CD80 and MHC II, while CD86, CD64, CCR7 and MHC Iremained unchanged; in contrast, the lattr showed significantly increased expression of CD64 and CCR7,and significantly decreased expression of CD86,and unchanged MHC I, MHC II and CD80. These results indicated that the DCs pulsed by Fc-TAgs might evoke effective antitumor responses when provided as a vaccine. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Combination therapy with Fc-TAg DCs and PD-1 blockade achieved potent therapeutic effects in a murine colorectal cancer model ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In view of the phenotype ofFc-TAg pulsed DCs (Fc-TAg DCs), we thought that such mature cells might act as a novel vaccine to induce antitumor immune responses.To test this idea, we inoculated CT26.WT cells on BALB/c mice to establish a tumor model. When the tumors became measureable, the tumor-bearing mice were randomized to six groups. Three of the groups received monotherapy with PBS,TAg pulsed DCs (TAg DCs) or Fc-TAg DCs; the other three groups received combination therapy with PBS $^ +$ anti-PD-1 antibody, TAg DCs $^ +$ anti-PD-1 antibody or Fc-TAg DCs $+$ anti-PD-1 antibody (the schedule of treatments is shown in Fig. 4 A). The animals were monitored for tumor growth by calculating the tumor volume every three days. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The tumors of the mice in all monotherapy groups grew progressively (Fig. 4 B, upper three rows), and statistical analysis of the tumor volume at day 29 showed that there were no significant differences between these three groups (Fig. 4 C, left). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In PBS $+$ anti-PD-1 antibody treatment group, complete regression of tumors occurred in only one mouse,and the tumors of the other four mice continued to grow in a manner similar to those of mice in the monotherapy groups. TAg DCs $+$ anti-PD-1 antibody treatment also showed complete regression of tumors in one mouse within the group,and the growth of tumor in the other four mice was slightly delayed; however, the trend of expanding tumor growth was not significantly altered. It was interesting and noteworthy that Fc-TAg DCs $^ +$ anti-PD-1 antibody treatment caused complete regression of tumors in three mice within the group; and the tumor growth of the other two mice was remarkably delayed (Fig. 4B,lower three rows).Results from the statistical analysis of the tumor volume at day 29 showed that there were significant differences between the combination therapy groups (Fig. 4 C, right). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Combination therapy with Fc-TAg DCs and PD-1 blockade restored the balance of circulating Tregs in tumor-bearing mice ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Adequate and sufficient antitumor immune responses underlie the therapeutic effects of immunotherapy.Therefore, we analyzed and compared the differences in lymphocyte subsets in peripheral blood mononuclear cells (PBMCs) and spleens of each group. The results of PBMC analysis showed that the established CT26.WT colorectal cancer in mice had no significant effect on the general proportions of $\\mathrm { C D 3 + C D 4 + }$ or $\\mathrm { C D 3 + C D 8 + }$ T cells (Fig. S4. C and D). However, the percentages of $\\mathrm { C D 4 + C D 2 5 + }$ and $\\mathrm { C D 4 + F o x p 3 + }$ subpopulations were reduced significantly (Fig. 4. D), manifesting the imbalance of regulatory T cells (Tregs) in circulation.Fc-TAg DCs $^ +$ anti-PD-1 treatment greatly prevented the decline in circulating Tregs,which was likely correlated with the regression of tumors. In contrast, the other treatments, whether monotherapy or combined therapy, failed to do so.In the spleen, there was no significant difference in lymphocyte populations detected between the experimental groups (Fig. S4). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4．Discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We have developed a novel strategy to make personalized DCVs for cancer immunotherapy. Compared with DCVs prepared by conventional methods, the novel DCV possesses more potential to induce antitumor immunity within the body.The novel DCV takes its advantages in the presence of immune checkpoint inhibitor,such as anti-PD-1 antibodies. It is easy to make such DCVs,and it is not necessary to predict specific tumor antigens, which was usually expensive, time-consuming and laborious (20,21). However, this preparation requires that the tumor be surgically removed from the patient. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In this study, we chose the whole tumor cells as the source to prepare antigens for DC loading, because such performance would cover a wide spectrum of antigens, including unknown neoantigens, together with damage-associated molecular patterns (DAMPs) derived from tumor cells (22-24). By exploiting metabolic incorporation and click reaction methodologies, we prepared B-TAgs. The sialic acid that originally capped on TAg mediates the internalization of TAg by DC via Siglec pathway and leads to the occurrence of the inhibitory immune responses (I4). The modification by our approach would most likely drive the internalization of TAg through the pathway we set, and the inhibitory effects induced by sialic acid should be largely abolished. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "As we know, the candidate AREP for the delivery of tumor antigens include Fc receptors (Fcy receptor type I or CD64 and Fcy receptor type II or CD32), integrins ( $( \\alpha \\nu \\beta$ or αvβ5), Clec9A, C-type lectin receptors (CLRs, including mannose receptor and DEC2o5), apoptotic cell receptors, and scavenger receptors (25-28). Here, we selected mouse FcyIIa receptor as the target to prove our hypothesis. Therefore, we prepared bifunctional SA-Fc that can both act as a ligand for the Fcy receptor and conjugate with B-TAgs as well. Of course, there are other and more direct options for the conjugation ofFc with tumor antigens; for example, azido tumor antigens covalently interact with alkyne-modified Fc or other similar ligands. Such investigations are ongoing in our lab. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The effects of our prepared DCV based on the present strategy was proven in a murine colorectal cancer model. We found that treatment with Fc-TAg DCs plus PD-1 blockade caused complete regression of tumors in three of the five tested mice, while the growth of tumors in the other two mice in the same group was significantly delayed. Interestingly,the body coat on the surface of the tumor remained intact, and no ulceration occurred. In contrast, tumors in all mice of the monotherapy groups and in most mice of the other two combination therapy groups exhibit expansive growth, and all tumors present a central crater-like ulceration.These results suggested that the novel DCV has an advantage in the presence of checkpoint inhibitors, but not alone. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the present colorectal cancer model, the established tumor obviously change the distribution of the lymphocyte populations. In peripheral blood, the proportion of $\\mathrm { C D 4 + C D 2 5 + }$ or $\\mathrm { C D 4 + F o x p 3 + }$ subpopulations (generally taken as regulatory Tcells,Tregs) was significantly lower than that of the normal population, but the proportion of $\\mathrm { C D 3 + C D 4 + }$ or $\\mathrm { C D 3 + C D 8 + }$ subpopulations was not apparently disturbed. These data highlight the importance of Treg imbalance in the pathology of colorectal cancer (29,3O).Although the role of Tregs in cancer remains a topic of controversy (31, 32), it is clear that in the present context,the loss of Tregs leads to anergy in tumor surveillnce of the immune system. It may be interesting to understand the mechanism underlying the decline in Tregs, even if it is beyond the scope of this study. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the setting of combination therapy with PD-1 blockade,Fc-TAg DCs successfully prevented the loss of Tregs, whereas treatment with TAg DCs only partly restore Tregs. In contrast, neither TAg DCs nor PD-1 blockade alone restored Treg balance in tumor-bearing mice.It should be pointed out that Fc-TAg DCs alone also failed to prevent the decline of Tregs.In terms of its mechanism, it has been shown that PD-1 blockade could abrogate the inhibition of immune cells caused by PD-1/PD-L1 interaction,and thus uninhibited cels would perform their principle functions.A possible explanation for the therapeutic failure of PD-1 blockade alone in the current seting is the lack of effector immune cells in tumor bearing mice,which is probably due to the incapability of dendritic cells to prime protective antitumor responses or even the opposite. In addition, the failure of monotherapy with TAg DCs or Fc-TAg DCs may partly be atributed to the involvement of PD-1/PD-L1 interaction,because when an anti-PD-1 antibody was applied,both DCVs manifested therapeutic effects, especially FcTAg DCs. Thus, based on our findings, we presume that restoration of Tregs (or prevention of Treg decline) might contribute to the therapeutic efficacy of the combination immunotherapy on colorectal cancer,and it could only be achieved under the seting of combination immunotherapy.Nevertheless, further investigations need to be performed to elucidate the underlying mechanism of successive treatment. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Although the novel strategy we proposed is preliminarily verified in a murine colorectal cancer model,and the rationality and validity of this strategy need to be proven by more preclinical investigations, our roadmap for the preparation of DC-based tumor vaccines may be useful in making personalized DCVs.Most likely, in view of tumor heterogeneity, the personalized DCV produced by our method may result in different phenotypes regarding the molecular pattern of immune cells and cytokine profile within the body fluid or the tumor microenvironment (TME), but in the setting of checkpoint blockade-based immunotherapy,a novel DCV would improve antitumor immunity and benefit the eradication of tumor residues within the body of the cancer patients. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGEMENTS ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We thank Dr. Qi Wang,PPL,Public Protein/Plasmid Library, China,for his assistance with protein purification; we thank Dr. Zhiming Hu, Southern Medical University, China,for providing us streptavidin plasmid; we thank Dr. Zhengping Zhang, Jiangsu Simovay Pharmaceutical Co., Ltd., Dr. Xinyi Xia and Dr.Peiran Zhu, Nanjing General Hospital of NJMilitary Command,for their kind assistance with flow cytometry; we thank Prof. Ping Liu, College of Life Science, Nanjing Normal University, for his revision of this manuscript. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1. R.L. Sabado, S. Balan, N. Bhardwaj, Dendritic cell-based immunotherapy. Cell research 27,74- 95 (2017); published online EpubJan (10.1038/cr.2016.157).   \n2. J. Zhao, Y. Chen, Z.Y.Ding,J.Y.Liu, Safety and Eficacy of Therapeutic Cancer Vaccines Alone or in Combination With Immune Checkpoint Inhibitors in Cancer Treatment. Frontiers in pharmacology10,1184 (2019)10.3389/fphar.2019.01184).   \n3. W. Luo, G. Yang,W.Luo, Z. Cao, Y. Liu, J. Qiu, G. Chen,L. You,F. Zhao,L. Zheng, T. Zhang, Novel therapeutic strategies and perspectives for metastatic pancreatic cancer: vaccine therapy is more than just a theory. Cancer cell international 20,66 (2020)10.1186/s12935-020-1147-9).   \n4. B.M. Carreno, V.Magrini, M. Becker-Hapak, S. Kaabinejadian, J. Hundal, A. A. Petti, A. Ly,W. R.Lie,W.H.Hildebrand, E.R.Mardis,G.P.Linette, Cancer immunotherapy.A dendritic cell vaccine increases the breadth and diversity ot melanoma neoantigen-specitic T cels. Sctence 348, 803-808 (2015); published online EpubMay 15 (10.1126/science.aaa3828).   \n5. L.Aurisicchio,M.Pallocca, G. Ciliberto,F.Palombo, The perfect personalized cancer therapy: cancer vaccines against neoantigens. Journal of experimental & clinical cancer research : CR 37, 86 (2018); published online EpubApr 20 (10.1186/s13046-018-0751-1).   \n6. C. Boudousquie,V. Boand,E. Lingre,L. Dutoit, K. Balint, M. Danilo,A. Harari, P.O. Gannon, L. E. Kandalaft, Development and Optimization of a GMP-Compliant Manufacturing Process for a Personalized Tumor Lysate Dendritic Cell Vaccine. Vaccines 8, (2020); published online EpubJan 14 (10.3390/vaccines8010025).   \n7. Q.T. Wang, Y. Nie, S.N. Sun, T. Lin,R. J. Han, J. Jiang, Z. Li,J. Q. Li, Y.P. Xiao,Y. Y. Fan, X. H. Yuan, H. Zhang,B.B. Zhao,M. Zeng, S.Y.Li,H. X. Liao, J. Zhang, Y.W.He, Tumorassociated antigen-based personalized dendritic cell vaccine in solid tumor patients. Cancer immunology, immunotherapy : CI 69,1375-1387 (2020); published online EpubJul (10.1007/s00262-020-02496-w).   \n8. U. Sahin, O. Tureci, Personalized vaccines for cancer immunotherapy. Science 359,1355-1360 (2018); published online EpubMar 23 (10.1126/science.aar7112).   \n9. M. Gil,M. Bieniasz, A. Wierzbicki, B.J.Bambach, H. Rokita,D.Kozbor,Targeting a mimotope vaccine to activating Fcgamma receptors empowers dendritic cells to prime specific $\\mathrm { C D 8 + }$ T cell responses in tumor-bearing mice. Journal of immunology 183, 6808-6818 (2009); published online EpubNov 15 (10.4049/jimmunol.0900364).   \n10. Y. Kato,A. Zaid, G. M. Davey, S.N. Mueller, S.L. Nut, D. Zotos,D.M. Tarlinton, K. Shortman, M. H. Lahoud, W.R. Heath,I. Caminschi, Targeting Antigen to Clec9A Primes Follicular Th Cell Memory Responses Capable of Robust Recall. Journal of immunology 195,1006-1014 (2015); published online EpubAug 1 (10.4049/jimmunol.1500767).   \n11. J. Li,F.Ahmet,L. C. Sullivan,A.G. Brooks, S.J. Kent,R. De Rose,A.M. Salazar, C. Reis e Sousa,K. Shortman,M. H. Lahoud, W.R. Heath,I. Caminschi, Antibodies targeting Clec9A promote strong humoral immunity without adjuvant in mice and non-human primates. European journal of immunology 45, 854-864 (2015); published online EpubMar (10.1002/eji.201445127).   \n12. B. Wang, N. Zaidi,L. Z. He,L. Zhang, J. M. Kuroiwa, T. Keler,R. M. Steinman, Targeting of the non-mutated tumor antigen HER2/neu to mature dendritic cells induces an integrated immune response that protects against breast cancer in mice. Breast cancer research : BCR 14, R39 (2012); published online EpubMar 7 (10.1186/bcr3135).   \n13. A. Silva-Sanchez, S.Meza-Perez,A. Flores-Langarica,L.Donis-Maturano,I. Estrada-Garcia, J. Calderon-Amador,R. Hernandez-Pando, J.Idoyaga, R. M. Steinman,L. Flores-Romo, ESAT-6 Targeting to $\\mathrm { D E C } 2 0 5 +$ Antigen Presenting Celis Induces Specific-T Cell Responses against ESAT-6 and Reduces Pulmonary Infection with Virulent Mycobacterium tuberculosis. PloS one 10, e0124828 (2015)10.1371/journal.pone.0124828).   \n14. M.Perdicchio, J. M. Ilarregui, M. I. Verstege,L.A. Cornelissen, S.T. Schetters, S. Engels,M. Ambrosini, H. Kalay,H. Veninga,J. M.den Haan, L.A. van Berkel, J.N. Samsom, P.R. Crocker, T. Sparwasser,L. Berod, J. J. Garcia-Vallejo, Y. van Kooyk, W. W. Unger, Sialic acid-modified antigens impose tolerance via inhibition of T-cel proliferation and de novo induction of regulatory Tcells. Proceedings of the National Academy of Sciences of the United States of America 113, 3329-3334 (2016); published online EpubMar 22 (10.1073/pnas.1507706113).   \n15. J. M. Baskin,J. A. Prescher, S. T.Laughlin, N. J. Agard, P.V. Chang,I. A. Miller,A. Lo, J. A. Codelli, C.R. Bertozzi, Copper-free click chemistry for dynamic in vivo imaging. Proceedings of the National Academy of Sciences of the United States of America 104,16793-16797 (2007); published online EpubOct 23 (10.1073/pnas.0707090104).   \n16. P. V. Chang, J. A. Prescher, M. J. Hangauer, C.R. Bertozzi, Imaging cellsurface glycans with bioorthogonal chemical reporters. Journal of the American Chemical Society 129, 8400-8401 (2007); published online EpubJul11(10.1021/ja070238o).   \n17. S.T.Laughlin, C.R.Bertozzi, Metabolic labeling of glycans with azido sugars and subsequent glycan-profiling and visualization via Staudinger ligation. Nature protocols 2, 2930-2944 (2007)10.1038/nprot.2007.422).   \n18. J. Rong, J. Han,L. Dong, Y. Tan, H. Yang,L. Feng, Q. W. Wang, R. Meng, J. Zhao, S. Q. Wang, X. Chen, Glycan imaging in intact rat hearts and glycoproteomic analysis reveal the upregulation of sialylation during cardiac hypertrophy. Journal of the American Chemical Society 136,17468- 17476 (2014); published online EpubDec 17 (10.1021/ja508484c).   \n19. Z. Hu,P.A. Ott, C. J. Wu, Towards personalized, tumour-specific, therapeutic vaccines for cancer. Nature reviews. Immunology 18,168-182 (2018); published online EpubMar (10.1038/nri.2017.131).   \n20. A. R.Aldous, J. Z. Dong, Personalized neoantigen vaccines: A new approach to cancer immunotherapy. Bioorganic & medicinal chemistry 26,2842-2849 (2018); published online EpubJun 1(10.1016/j.bmc.2017.10.021).   \n21. T.N.Schumacher,R.D. Schreiber, Neoantigens in cancer immunotherapy. Science 348, 69-74 (2015); published online EpubApr 3(10.1126/science.aaa4971).   \n22. P.Hatfield, A.E. Merrick,E. West,D. O'Donnell,P. Selby,R. Vile,A. A. Melcher, Optimization of dendritic cell loading with tumor cell lysates for cancer immunotherapy.Journal of immunotherapy 31, 620-632 (2008); published online EpubSep (10.1097/CJI.0b013e31818213df).   \n23. M. Schnurr,Q. Chen, A. Shin,W. Chen,T.Toy, C.Jenderek, S.Green,L.Miloradovic,D.Drane, I. D.Davis, J. Villadangos,K. Shortman, E.Maraskovsky,J. Cebon, Tumor antigen processing and presentation depend critically on dendritic celltype and the mode of antigen delivery. Blood 105,2465-2472 (2005); published online EpubMar 15 (10.1182/blood-2004-08-3105).   \n24. P. Thumann,I. Moc,J. Humrich, T.G. Berger, E. S. Schultz, G. Schuler,L. Jenne, Antigen loading of dendritic cels with whole tumor cell preparations.Journal of immunological methods 277,1-16 (2003); published online EpubJun 1(10.1016/s0022-1759(03)00102-9).   \n25. D. J. DiLillo, J. V. Ravetch, Differential Fc-Receptor Engagement Drives an Anti-tumor Vaccinal Effect. Cell 161,1035-1045 (2015); published online EpubMay 21(10.1016/j.cell.2015.04.016).   \n26. J. H. Kim, Y.M. Kim, D. Choi, S.B.Jo,H. W.Park, S.W.Hong, S.Park, S. Kim, S. Moon, G. You,Y.W.Kang, Y.Park,B.H.Lee,S.W.Lee,Hybrid Fc-fused interleukin-7 induces an inflamed tumor microenvironment and improves the efficacy of cancer immunotherapy. Clinical & translational immunology 9,e1168 (2020)10.1002/cti2.1168).   \n27. M. Skoberne, S. Somersan, W.Almodovar,T. Truong,K.Petrova, P.M.Henson, N. Bhardwaj, The apoptotic-cel receptor CR3, but not alphavbeta5, is a regulator of human dendritic-cell immunostimulatory function. Blood 108, 947-955 (2006); published online EpubAug 1 (10.1182/blood-2005-12-4812).   \n28. K. M. Tullet, I. M. Leal Rojas, Y. Minoda, P. S. Tan, J. G. Zhang, C. Smith, R. Khanna, K. Shortman,I. Caminschi,M.H.Lahoud,K.J.Radford,Targeting CLEC9A delivers antigen to human $\\mathrm { C D 1 4 1 ( + ) }$ DC for $\\mathrm { C D 4 ( + ) }$ and $\\mathrm { C D 8 ( + ) T }$ cell recognition. JCI insight 1, e87102 (2016); published online EpubMay 19 (10.1172/jci.insight.87102).   \n29. D. M.Frey,R. A. Droeser, C.T. Viehl,I. Zlobec,A. Lugli, U. Zingg, D. Oertli, C. Ketelhack,L. Terracciano,L.Tornillo,High frequency of tumor-infiltrating FOXP3( $^ { ( + ) }$ regulatory T cells predicts improved survival in mismatch repair-proficient colorectal cancer patients.International journal of cancer 126,2635-2643 (2010); published online EpubJun 1(10.1002/ijc.24989).   \n30. F. A. Sinicrope,R.L. Rego, S. M. Ansell, K.L. Knutson, N. R. Foster, D. J. Sargent, Intraepithelial effector $( \\mathrm { C D } 3 + )$ /regulatory $\\left( \\mathrm { F o x P 3 + } \\right)$ T-cell ratio predicts a clinical outcome of human colon carcinoma. Gastroenterology 137,1270-1279 (2009); published online EpubOct (10.1053/j.gastro.2009.06.053).   \n31. T.L. Whiteside, Human regulatory T cells (Treg) and their response to cancer. Expert review of precision medicine and drug development 4, 215-228 (2019)10.1080/23808993.2019.1634471).   \n32. A. Tanaka, S. Sakaguchi, Regulatory Tcels in cancer immunotherapy. Cell research 27,109-118 (2017); published online EpubJan (10.1038/cr.2016.151). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Fig.1.Expression and characterization of the bifunctional protein of interest. (A) The proteins of interest contains two functional domains, streptavidin and the mouse IgG2a Fc fragment, which were bridged by a linker (top). The expression plasmid that harbored the coding gene was constructed by using pFUSE (left). The protein expressed in Expi293 cells was purified with Protein A/G resins. The reduced and nonreduced protein samples were dissolved by SDS-PAGE,followed by Coomasie blue staining (middle).The Fc domain within the protein was characterized by Western blot analysis (right). (B) Observation of the binding ofFITC-biotin with the protein of interest on Protein A/G resins by fluorescence microscopy (magnification, $\\times 2 0 0 \\$ ） ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Fig.2.Preparation and characterization of Fc-TAg conjugates. (A) Schematic of the strategy for the preparation of Fc-TAg conjugates. (B) Dynamic observation of metabolic glycan labeling on CT26.WT.Cells were either cultured with Ac4ManNAz at the indicated concentration for $2 4 \\mathrm { h }$ (left) or cultured with 3 mM Ac4ManNAz for the indicated time (right). After labeling with DIBO-FITC, the percentage of positive cels and the mean fluorescence intensity (MFI) were quantified by flow cytometry. (C) CT26.WT cells were cultured on a coverslip with Ac4ManNAz or sialic acid (Sia) for $2 4 \\mathrm { h }$ , follwed by DIBO-FITC labeling and observation with fluorescence microscopy (magnification, $\\times 4 0 0 ^ { \\cdot }$ . (D) Characterization of biotin-labeled TAg (B-TAg). Thermal-denatured cell lysates from azido-sugar-labeled CT26.WT was reacted with DIBO-biotin,and after ethanol sedimentation, the sample was subjected to Western blotting using an antibiotin antibody. Nontreated cell lysates of CT26.WT were taken as the control(TAg). (E) Detection of representative glycosylated antigens by Western blotting. The indicated antigens within samples from streptavidin resin-pooled precipitates or from nontreated cell lysates from CT26.WT were examined with respective antibodies. The inputs were assessed by anti- $\\beta$ -actin antibody. (F) Analysis of the optimal mixing ratio of SA-Fc and BTAgs. SA-Fc and B-TAgs were mixed at ratios of 1:96,1:48,1:24 or 1:12 (w/w),and the formed conjugates were pooled with protein A/G resins. B-TAgs within the precipitates and supernatants were examined by Western bloting. The inputs of SA-Fc were assessed by anti-streptavidin antibody. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Fig.3.DCs pulsed with Fc-TAgs displayed a phenotype that favors the immune response. (A) ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Schematic of the process for the isolation, activation, antigen loading and maturation of DCs. (B) Detection and analysis of cell surface markers on DCs by flow cytometry. Aliquots ofcels from either TAg-pulsed DCs or Fc-TAg-pulsed DCs or nonpulsed DCs (normal control) were stained with the respective antibodies.Flow cytometry histograms of the tested DCs were displayed in the left four columns,and the results of statistical analysis of the mean fluorescence intensity (MFI) of positive ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "cels are displayed as bar graphs in the right column. Data shown are representative of three independent experiments.\\*, $\\mathfrak { p } < 0 . 0 5$ ; ns, not significant. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Fig. 4. Combination immunotherapy with Fc-TAg-pulsed DCs and PD-1 blockade achieved significant therapeutic efficacy in a murine colorectal cancer model. (A) Schematic of the time and treatment schedules for animal experiments. (B) Morphology and dynamic tumor growth of the tested mice.The photos were taken on day 29 and were arranged according to the tumor size. The number in each photo represents the random number of each mouse in the corresponding group (left columns). The volume of the tumors was measured and calculated every three days.Tumor growth curves of mice in the same group are shown in one panel (right column). (C) Comparison of tumor volumes between the monotherapy groups (left) or the combination therapy groups (right). Tumor volume data were collected from five mice in each group on day 29.Statistical analyses were calculated by one-way ANOVA with a Newman-Keuls multiple comparison test. $\\ast _ { \\mathrm { p } } < 0 . 0 5$ ,vs. TAg DC+anti-PD-1group. (D) Flow cytometry analysis of lymphocyte subsets in the peripheral blood from tested mice. Lymphocytes from the peripheral blood of mice (day 50, $\\scriptstyle 1 = 4$ per group) were isolated by Mouse Lymphocyte Separation Solution. The cell aliquots were subjected to staining with the corresponding antibodies, followed by detection with flow cytometry. Statistical analyses were calculated by one-way ANOVA with a Newman-Keuls multiple comparison test. $\\ast _ { \\mathrm { p } } < 0 . 0 5$ , vs. PBS group ( $\\scriptstyle \\mathrm { C D 4 + C D 2 5 + }$ subset) or vs. TAg DC+anti-PD-1 group ( $\\mathrm { C D 4 + F o x p 3 + }$ subset). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Supplementary Figure Legends ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Fig.S1.The sequence of the gene that encodes streptavidin-mIgG2aFc (SA-Fc) fusion protein. The illustrated sequence contains four domains,including the sequence encoding an interleukin-2 (IL2) signal peptide, streptavidin, a linker and a mouse IgG2aFc fragment. The domains are marked by different colorsas indicated. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Fig.S2.The structures of the synthetic regents.(A) Ac4ManNAz (tetraacetylated N-AzidoacetylD-Mannosamine). (B) DIBO-FITC (Dibenzocyclooctynol Fluorescein Isothiocyanate).(C) DIBObiotin (Dibenzocyclooctynol-biotin). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Fig.S3.Flow cytometry analysis of lymphocyte subsets in the peripheral blood from tested mice. Lymphocytes from the peripheral blood of mice (day 50) were isolated with Mouse Lymphocyte Separation Solution. The cell aliquots were subjected to staining with the corresponding antibodies, followed by detection with flow cytometry. The data shown in the left panels of A,B, C and D ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "represent the percentage of double-stained cells in the corresponding groups ( $\\scriptstyle \\mathbf { \\tilde { n } } = 4$ per group). Results of one-way ANOVA with a Newman-Keuls multiple comparison test are shown in the tables on the right. $\\ast _ { \\mathrm { p } } < 0 . 0 5$ ， ${ } ^ { * * } \\mathrm { p } { < } 0 . 0 1 \\ { } ^ { * * * } \\mathrm { p } { < } 0 . 0 0 1$ ： ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Fig.S4.Flow cytometry analysis of lymphocyte subsets in spleens from tested mice.Spleens from mice (day 5O) were first mechanically processed into single-cell suspensions,and then the lymphocytes within the suspensions were isolated by Mouse Lymphocyte Separation Solution. The cell aliquots were subjected to staining with the corresponding antibodies, followed by detection with flow cytometry. The data shown in the left panels of A,B, C and D represent the percentage of double-stained cells in the corresponding groups ( $\\scriptstyle \\mathbf { \\tilde { n } } = 4$ per group). The results of one-way ANOVA with a Newman-Keuls multiple comparison test are shown in the tables on the right. $\\ast _ { \\mathrm { p } } < 0 . 0 5$ ， ${ } ^ { * * } \\mathrm { p } { < } 0 . 0 1 \\ { } ^ { * * * } \\mathrm { p } { < } 0 . 0 0 1$ ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f366defa7158ffba53433be128d90b8581b31a65d6ad78f02b0ae23c6d6603b.jpg",
+        "img_caption": [
+            "Figure 1. "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/4a41fe49420e359b4cb9f689e221297695c86428b2b32c327417608c47e90999.jpg",
+        "img_caption": [
+            "Figure 2. "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/dfe96a8fada986fdd9c0a9e5d6bf6e3fbf2f1f838b0c6a567350690f5a33b8b9.jpg",
+        "img_caption": [
+            "Figure 3. "
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "A Time- → D0 D7 D10 D13 D16 D21 D25 Treatments- → CT26.WT implant 5×10,s.c. DCs, s.c./anti-PD-1,i.p. anti-PD-1,i.p.   \nB PSS m m 车 No.1 No.2 No.5 No.3 L u 1 MI L --11 具 1 No.3 No.1 No.5 No.2 No.4 s Combination Therapy No.2 No.3 No. No.5 最 m m No.5 No.3 No.4 No.2 No.1 Dapsto   \nC D PBMCCD4+CD25+ PBMCCD4+Foxp3+ 中 专 ： 年 壬 中 云 Pos 8 TAgDC DC ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Supplementary Figure S1. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "ATG+ Signal peptide (lnterleukin-2signal peptide)   \nStreptavidin   \nLinker   \nmouse IgG2aFc+TGA ",
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/f6e2db86f616437be15a93f407de0ceb7e7b8ccfa4fb6947011a8bf4260fc469.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>ATGTACAGGA TGCAACTCCT GTCTTGCATT GCACTAAGTC TTGCACTTGT CACAAACAGT</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>61</td><td>GAGGCCGGCA TCACCGGCAC</td><td></td><td></td><td>CTGGTACAAC CAGCTCGGCT CGACCTTCAT</td><td></td><td>CGTGACCGCG</td></tr><tr><td>121</td><td>GGCGCCGACG GCGCCCTGAC</td><td></td><td>CGGAACCTAC</td><td>GAGTCGGCCG TCGGCAACGC</td><td></td><td>CGAGAGCCGC</td></tr><tr><td>181</td><td>TACGTCCTGA CCGGTCGTTA</td><td></td><td></td><td>CGACAGCGCC CCGGCCACCG ACGGCAGCGG</td><td></td><td>CACCGCCCTC</td></tr><tr><td>241</td><td>GGTTGGACGG TGGCCTGGAA GAATAACTAC CGCAACGCCC ACTCCGCGAC</td><td></td><td></td><td></td><td></td><td>CACGTGGAGC</td></tr><tr><td>301</td><td>GGCCAGTACG TCGGCGGCGC</td><td></td><td></td><td>CGAGGCGAGG ATCAACACCC AGTGGCTGCT</td><td></td><td>GACCTCCGGC</td></tr><tr><td>361</td><td>ACCACCGAGG CCAACGCCTG</td><td></td><td></td><td>GAAGTCCACG CTGGTCGGCC ACGACACCTT</td><td></td><td>CACCAAGGTG</td></tr><tr><td>421</td><td>AAGCCGTCCG CCGCCTCCAT</td><td></td><td></td><td>CGACGCGGCG AAGAAGGCCG GCGTCAACAA</td><td></td><td>CGGCAACCCG</td></tr><tr><td>481</td><td>CTCGACGCCG TTCAGCAGTC GAGCGGGGGC AGCGGGGGCG GAGGCAGCGG</td><td></td><td></td><td></td><td></td><td>GGGGGCGGA</td></tr><tr><td>541</td><td>TCCCCCAGAG GGCCCACAAT CAAGCCCTGT CCTCCATGCA AATGCCCAGC ACCTAACCTO</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>601</td><td>TTGGGTGGAC CATCCGTCTT CATCTTCCCT CCAAAGATCA AGGATGTACT</td><td></td><td></td><td></td><td></td><td>CATGATCTCO</td></tr><tr><td>661</td><td>CTGAGCCCCA</td><td>TAGTCACATG</td><td>GGTG</td><td>GATGTGAGCG</td><td>AGGATGACCC</td><td>AGATGT CA</td></tr><tr><td>721</td><td>ATCAGCTGGT TTGTGAACAA CGTGGAAGTA CACACAGCTC AGACACAAAC</td><td></td><td></td><td></td><td></td><td>CCATAGAGAG</td></tr><tr><td>781</td><td>GATTACAACA GTACTCTCCG GGTGGTCAGT GCCCTCCCCA TCCAGCACCA</td><td></td><td></td><td></td><td></td><td>GGACTGGATC</td></tr><tr><td>841</td><td>AGTGGCAAGG AGTTCAAATG CAAGGTCAAC AACAAAGACC TCCCAGCGCC CATCGAGAGA</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>901</td><td>ACCATCTCAA AACCCAAAGG GTCAGTAAGA GCTCCACAGG TATATGTCTT</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>961</td><td></td><td>GAAGAAGAGA TGACTAAGAA ACAG</td><td></td><td></td><td></td><td></td></tr><tr><td>1021</td><td>GAAGACATTT ACGTGGAGTG</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1081</td><td>GAACCAGTCC TGGACTCTGA TGGTTCTTAC TTCATGTACA GCAAGCTGAG AGTGGAAAAG</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1141</td><td></td><td></td><td></td><td>AAGAACTGGG TGGAAAGAAA TAGCTACTCC TGTTCAGTGG TCCACGAGGG TCTGCACAAT</td><td></td><td></td></tr><tr><td>1201</td><td>CACCACACGA CTAAGAGCTT CTCCCGGACT CCGGGTAAAT GA</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Supplementary Figure S2. ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/cee76183f6e4f9c9690d117df0c19ef83c843fa9bfbe51ae01ab63b18ffc7ef4.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 19
+    },
+    {
+        "type": "table",
+        "img_path": "images/d12ddd04c05719374989847b454fa97eb379c7995b01ef19bc82880e5d3238d5.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>PBS</td><td>TAgDC</td><td>Fc-TAg DC</td><td>PBS+anti-PD.1</td><td>TAg DC+ anti-PD-1</td><td>Fc-TAgDC+ anti-PD-1</td><td>normal</td></tr><tr><td>PBS</td><td></td><td>**</td><td>ns</td><td>*</td><td>ns</td><td></td><td>*</td></tr><tr><td>TAg DC</td><td></td><td>1</td><td>**</td><td>*</td><td>***</td><td>***</td><td>***</td></tr><tr><td>Fc-TAgDC</td><td></td><td></td><td>/</td><td>ns</td><td>ns</td><td>*</td><td>*</td></tr><tr><td>PBS+anti-PD-1</td><td></td><td></td><td></td><td></td><td>***</td><td>***</td><td>***</td></tr><tr><td>TAg DC+anti-PD-1</td><td></td><td></td><td></td><td></td><td>/</td><td>ns</td><td>ns</td></tr><tr><td>Fc-TAg DC+anti-PD.1</td><td></td><td></td><td></td><td></td><td></td><td>/</td><td>ns</td></tr><tr><td>normal</td><td></td><td></td><td></td><td></td><td></td><td></td><td>/</td></tr></table></body></html>",
+        "page_idx": 20
+    },
+    {
+        "type": "table",
+        "img_path": "images/75bff5b9d694a455eab4f06f873e2c8e83799b0c2f23a84a67d7394ab9494117.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>PBS</td><td>TAgDC</td><td>Fc-TAg DC</td><td>PBS+anti-PD-1</td><td>TAg DC+ anti-PD-1</td><td>Fc-TAg DC+ anti-PD.1</td><td>normal</td></tr><tr><td>PBS</td><td>/</td><td>ns</td><td>ns</td><td>ns</td><td>·</td><td>***</td><td>**</td></tr><tr><td>TAgDC</td><td></td><td>/</td><td>ns</td><td>ns</td><td></td><td></td><td>+**</td></tr><tr><td>Fe-TAgDC</td><td></td><td></td><td>/</td><td>ns</td><td></td><td></td><td>+**</td></tr><tr><td>PBS+anti-PD-1</td><td></td><td></td><td></td><td>1</td><td>·</td><td></td><td></td></tr><tr><td>TAg DC+anti-PD.1</td><td></td><td></td><td></td><td></td><td>1</td><td></td><td>ns</td></tr><tr><td>Fe-TAg DC+anti-PD.1</td><td></td><td></td><td></td><td></td><td></td><td></td><td>ns</td></tr><tr><td>normal</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "A PBMCCD4+CD25+ 20- 生 ? PBS G 8 L.PD DC+a DC+ TAg TAg FC   \nB PBMCCD4+Foxp3+ ee 专 : 第 号 A 王 新 A 3 PBS DC DC i-PD-1 anti-PD-1 FG BS DC+a 0 -TAg FC  \nC PBMCCD3+CD4+ ee ： 美主王 4□ 苦 + 。 △ 8 G DC ti-PD-1 P nt 3 DC TA9 FC   \nD PBMCCD3+CD8+ peoee 0 干 ￥ H H 中 4 中 PBS DC DC -PD-1 -PD-1 -TAg artF DC+ DC+ AB c-TAg EC ",
+        "page_idx": 20
+    },
+    {
+        "type": "table",
+        "img_path": "images/5d17057ec5192c23e0d2313a67a11d346be77a720084f2a3cc09fcf8d562877a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>PBS</td><td>TAgDC</td><td>Fc-TAgDC</td><td>PBS+anti-PD-1</td><td>TAgDC+ anti-PD-1</td><td>Fc-TAgDC+ anti-PD-1</td><td>normal</td></tr><tr><td>PBS</td><td></td><td>ns</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td>TAgDC</td><td></td><td></td><td>ns</td><td>ns</td><td>ns</td><td></td><td>ns</td></tr><tr><td>Fc-TAgDC</td><td></td><td></td><td></td><td>ns</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td>PBS+anti-PD-1</td><td></td><td></td><td></td><td>1</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td>TAg DC+anti-PD.1</td><td></td><td></td><td></td><td></td><td>1</td><td>ns</td><td>ns</td></tr><tr><td>Fc-TAg DC+amti-PD-1</td><td></td><td></td><td></td><td></td><td></td><td></td><td>ns</td></tr><tr><td>normal</td><td></td><td></td><td></td><td></td><td></td><td></td><td>/</td></tr></table></body></html>",
+        "page_idx": 20
+    },
+    {
+        "type": "table",
+        "img_path": "images/236ef06265694686e103885db272f97c82d331636370bdc121a9b88e72b7bc79.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>PBS</td><td>TAgDC</td><td>Fc-TAg DC</td><td>PBS+anti-PD-1</td><td>TAgDC+ anti-PD-1</td><td>Fc-TAgDC+ anti-PD-1</td><td>normal</td></tr><tr><td>PBS</td><td>1</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td>TAgDC</td><td></td><td>/</td><td>ns</td><td>ns</td><td>ns</td><td>n5</td><td>ns</td></tr><tr><td>Fc-TAgDC</td><td></td><td></td><td></td><td>ns</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td>PBS+anti-PD-1</td><td></td><td></td><td></td><td>1</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td>TAg DC+ant-PD.1</td><td></td><td></td><td></td><td></td><td>/</td><td>ns</td><td>ns</td></tr><tr><td>Fe-TAg DC+anti-PD-1</td><td></td><td></td><td></td><td></td><td></td><td></td><td>ns</td></tr><tr><td>normal</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Supplementary Figure S4 ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "table",
+        "img_path": "images/eddaedead3e4fc682a05b55f65c3ea5ede4e16074ce4ec985ab1e331c0411d70.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>PBS</td><td>TAgDC</td><td>Fc-TAg DC</td><td>PBS+anti-PD-1</td><td>TAg DC+ anti-PD.1</td><td>Fc-TAgDC+ anti-PD-1</td><td>normal</td></tr><tr><td>PBS</td><td>1</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td><td>**</td></tr><tr><td>TAg DC</td><td></td><td></td><td>ns</td><td>ns</td><td>ns</td><td>ns</td><td>**</td></tr><tr><td>Fc-TAgDC</td><td></td><td></td><td>/</td><td>ns</td><td>ns</td><td>ns</td><td>*</td></tr><tr><td>PBS+anti-PD-1</td><td></td><td></td><td></td><td></td><td>ns</td><td>ns</td><td></td></tr><tr><td>TAg DC+anti-PD-1</td><td></td><td></td><td></td><td></td><td>/</td><td>ns</td><td>**</td></tr><tr><td>Fc-TAg DC+arti-PD-1</td><td></td><td></td><td></td><td></td><td></td><td>1</td><td>**</td></tr><tr><td>normal</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "A spleen CD4+CD25+ 30- 中 1 20- 10- 天 于 美 。 品 0 nal OBS G Ssta F DC+a 2 Fc-TAg   \nB spleen CD4+Foxp3+ 中 20- 1 10 王 美 0 · 中 0 nal PBS DC PDC ti-PD-1 ti-PD-1 Nor TAg -TAgD nit anti-F +anti-PD-1 2 DC+a gDC+ TA9 Fc-TAgD FC   \nC spleen CD3+CD4+   \need 16 1 0 士二 1 人 1 善 王 士 + 。 I2I PBS DG DC 1-PD-1 i-PD-1 Fc -TAg Fant PB TAg c-TAg   \nD F   \nspe e spieenCDs+Uv8T ■ 1 X / 美。 星 来 □ 票 P nal PBS DC IDC C-TAg anti-PD-1 anti-PD-1 anti-PD-1 Fc- PBS DC+ DC+ TA9 C-TAg F ",
+        "page_idx": 21
+    },
+    {
+        "type": "table",
+        "img_path": "images/1551a9a1ce747bc9bb20eab7a28399ed8fbb46b89f244b58b0159129950da028.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>PBS</td><td>TAgDC</td><td>Fc-TAg DC</td><td>PBS+anti-PD-1</td><td>TAg DC+ anti-PD-1</td><td>Fc-TAgDC+ anti-PD-1</td><td>normal</td></tr><tr><td>PBS</td><td>/</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td><td>**</td></tr><tr><td>TAg DC</td><td></td><td></td><td>ns</td><td>ns</td><td>ns</td><td>ns</td><td>*</td></tr><tr><td>Fc-TAgDC</td><td></td><td></td><td>1</td><td>ns</td><td>ns</td><td>ns</td><td>*</td></tr><tr><td>PBS+anti-PD-1</td><td></td><td></td><td></td><td></td><td>ns</td><td>ns</td><td>**</td></tr><tr><td>TAg DC+anti-PD-1</td><td></td><td></td><td></td><td></td><td>/</td><td>ns</td><td>**</td></tr><tr><td>Fc-TAg DC+anti-PD-1</td><td></td><td></td><td></td><td></td><td></td><td></td><td>**</td></tr><tr><td>normal</td><td></td><td></td><td></td><td></td><td></td><td></td><td>/</td></tr></table></body></html>",
+        "page_idx": 21
+    },
+    {
+        "type": "table",
+        "img_path": "images/e9b5b5ceb73f78ecdea21710bf235f6ba216717a07db554a377a39dcfdb09bc9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>PBS</td><td>TAgDC</td><td>Fc-TAg DC</td><td>PBS+anti-PD.1</td><td>TAgDC+ anti-PD-1</td><td>Fc-TAgDC+ anti-PD-1</td><td>normal</td></tr><tr><td>PBS</td><td>1</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td><td></td></tr><tr><td>TAg DC</td><td></td><td></td><td>ns</td><td>ns</td><td>ns</td><td>ns</td><td>*</td></tr><tr><td>Fc-TAgDC</td><td></td><td></td><td>/</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td>PBS+anti-PD-1</td><td></td><td></td><td></td><td>1</td><td>ns</td><td>ns</td><td></td></tr><tr><td>TAg DC+anti-PD-1</td><td></td><td></td><td></td><td></td><td>/</td><td>ns</td><td>ns</td></tr><tr><td>Fc-TAg DC+anti-PD-1</td><td></td><td></td><td></td><td></td><td></td><td>1</td><td></td></tr><tr><td>normal</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 21
+    },
+    {
+        "type": "table",
+        "img_path": "images/7d8b4459a7982f0a9a70a89bffe3567c3f19f4838c396c93ebe4d9b266c6111b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>PBS</td><td>TAgDC</td><td>Fc-TAg DC</td><td>PBS+anti-PD-1</td><td>TAgDC+ anti-PD-1</td><td>Fe-TAgDC+ anti-PD-1</td><td>normal</td></tr><tr><td>PBS</td><td>/</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td>TAg DC</td><td></td><td>1</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td>Fc-TAgDC</td><td></td><td></td><td>1</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td>PBS+anti-PD-1</td><td></td><td></td><td></td><td></td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td>TAg DC+anti-PD-1</td><td></td><td></td><td></td><td></td><td>/</td><td>ns</td><td>ns</td></tr><tr><td>Fc-TAg DC+anti-PD-1</td><td></td><td></td><td></td><td></td><td></td><td>/</td><td>ns</td></tr><tr><td>normal</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 21
+    }
+]

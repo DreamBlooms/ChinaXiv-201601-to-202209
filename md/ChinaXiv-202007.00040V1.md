@@ -1,0 +1,156 @@
+# 利用halo轨道仿真开展嫦娥四号中继星与月面设备干涉基
+
+# 线的研究
+
+武宇翔1²，温卫斌¹，平劲松¹²，朱新颖¹，张洪波¹²，孔德庆}²，戴舜1，薛喜平1，李臣1
+
+(1.中国科学院国家天文台中国科学院月球与深空探测重点实验室，北京100101;
+
+2.中国科学院大学，北京 100049)
+
+摘要：初步建立了嫦娥四号中继星的Ha1o数值轨道模型，将其应用于空间低频射电天文观测的干涉测量仿真，以地月拉格朗日平动点L2区域的Hal0轨道为基础，以发布的嫦娥四号中继星理论轨道为参考，校准和调整模型参数，通过时间和空间参考系统的变换，把轨道数据转换到L2点旋转坐标系。然后，对比Hal0轨道模型与理论轨道数据之间的差别，对比模拟和理论数据分别与月面设备形成基线的长度，并对结果进行分析。两者在所分析的运行阶段中，与月面设备联成基线的长度差在60km之内，在HF频带基本满足干涉测量条纹搜索对基线初值精度的需求。
+
+关键词：Halo轨道; 平动点；坐标转换；仿真 中图分类号：P171.4 文献标识码：x 文章编号：xXXX
+
+# 1Halo轨道和中继卫星
+
+我国的嫦娥工程已经进行了多次任务，嫦娥四号探测器实现了人类首次月球背面着陆探测。月球背面的着陆器无法与地面直接进行通信。嫦娥四号月球着陆探测任务为此发射使用一颗中继通信卫星“鹊桥”号，建立了着陆器、巡视器与地球之间的联系，把获得的科学数据传回地球。这颗中继星运行在地月拉格朗日点L2点附近的使命轨道上[1-4]。中继通信卫星搭载的低频射电探测仪和月球着陆器上搭载的射电频谱仪为空间低频射电干涉测量创造了条件[5]。
+
+月球背面屏蔽了来自地球的各种人工信号的干扰，给低频射电观测提供了宁静的环境，在 $0 . 1 { \sim } 4 0 \mathrm { M H z }$ 的频段开展低频射电天文观测[。由于低频射电波的波长较长，为达到较高的空间分辨率，可参照甚长基线干涉测量（Very Long Baseline Interferometry,VLBI）技术，考虑借助月面、中继星和地面的低频射电观测设备联合进行协同观测，甚至是干涉测量。为了考察这种空间干涉测量的可行性，建立理论和仿真模型进行模拟实验是有意义的，其中的一个重点是模拟中继星到月面设备的基线并计算其长度。为此本文讨论Halo 轨道模型在空间低频射电干涉测量模拟中的适用性。
+
+嫦娥四号任务选择了南极-艾特肯盆地（Southpole-Atiken）作为着陆区，着陆器及巡视器在这一地区开展科学探测，并获得了有关月幔物质的探测数据7。通过开展形貌分析、物质组成、月壤和月表浅层结构的就为综合探测，有望获得诸多有关月球形成的新证据[。2018年5月21日，中继通信卫星“鹊桥号”成功发射，进入地月L2 点附近的使命轨道，其中L2 点指的是限制性三体问题（Restricted Three Body Problem,RTBP）的五个特解，被称作拉格朗日平动点当中位于较小大天体外侧的共线点，Szebehely 进行过系统性的总结[9]。利用地月L2 点附近轨道部署中继卫星开展月球背面的探索这一构想早在1970 年便被 Farquhar提出，且与 Howell、Breakwell 等的研究丰富了平动点轨道力学的理论体系[10-12]。Richardson则给出了Halo 轨道的三阶近似解析解，被广泛的应用于三体问题研究[13-15]。在 Farquhar 提出有关平动点建立空间站的设想之后[16]，还有Lo等提出的中继通信链路和月球采样高速公路[17]。第一次平动点轨道探测是日地L1的 ISEE-3，美国的ARTEMIS 任务首先进行了地月平动点的验证飞行；“嫦娥二号”则探访了日地L2点的Lissajou轨道；嫦娥 5T1月球再入返回试验任务进入了地月L2点Lissajous 轨道；嫦娥四号中继星则会使用地月L2点附近的Halo 轨道[18,19]，国内也有多项与中继星使命轨道相关的建模仿真以及实际测量研究[20.21]。
+
+为了开展空间低频射电干涉测量系统的相关研究，构建了地月L2点附近的Halo轨道，并比较模型与中继星实际使用的理论轨道之间的关系，对模型与理论轨道的偏差进行了比较，并分析了模型对星上设备与月面设备形成基线长度的影响，评价模型的仿真效果。
+
+# 2平动点轨道的相关理论
+
+限制性三体问题描述了一个质量小的物体在两个大天体附近的空间中受万有引力作用的情况，在一些特殊情况下小物体受到来自大天体的引力能满足自身向心加速度所需，从而稳定运行。这种稳定平动的五个特解被称为“拉格朗日平动点”，其中L2点是位于两个大天体连线上，较小的天体外侧的平动点。在这一点上，可以找到一些轨道使得小物体能以较低的能耗，在较长的时间内维持稳定的位置。然而L2点并不是一个稳定点，所以这类轨道都不是完美的周期轨道，依然需要时常进行轨道维持机动，常见的L2 点轨道有Lyapunov轨道、Lissajou 轨道和Halo 轨道。
+
+在地月系空间中定义一个右手直角坐标系，并称之为“旋转坐标系（Roatation System)”,它的原点始终是地月连线的瞬时平动点L2点， $\mathbf { x }$ 轴方向与地球指向月球的方向相同，z 轴与地月之间的旋转角速度方向相同。在这个坐标系内Lissajous 轨道和Halo 轨道的运动都可以被描述为“ $\mathbf { A } \mathbf { z } = 0 { \mathrm { : } }$ ’的平面内与平面外的两种振动的叠加。平动点轨道的一般表达式为
+
+$$
+\left\{ \begin{array} { c } { x = - A _ { x } \cos ( \lambda t + \phi ) } \\ { y = A _ { x } \sin ( \lambda t + \phi ) } \\ { z = A _ { z } \sin ( \nu t + \psi ) } \end{array} \right.
+$$
+
+其中 $A _ { y }$ 和 $A _ { z }$ 分别表示旋转坐标系下面内和面外振幅， $\lambda$ 为面内振动频率， $\nu$ 为垂直于面的振动频率， $\phi$ 和 $\psi$ 分别是面内外振动的初始相位。
+
+![](images/27fbb32989da806bb3edb26c9ae1754f1331caa88a830bbc89ca421491197105.jpg)  
+图1Lissajous 轨道(左)和Halo 轨道（右）示例  
+Fig.1 Examples of Lissajous orbit (left) and Halo orbit (right)
+
+一种Lissajous 轨道的示例如图1（左）所示，这种轨道在地月旋转面内的周期与面外振动周期并不相同，所以轨道会呈现Lissajous 曲线的形式，卫星在经过中央位置时，有可能会被月球遮挡，不能建立起对地球的联系。而Halo轨道（如图1（右)）的尺寸较大，且面内周期与面外周期相同，它不会被遮挡，能够保证在全程保持同时对月背和地球的直视，保证地面-中继星-月球背面的通讯连续性。Halo 轨道中的一般公式为
+
+$$
+\left\{ \begin{array} { c } { x = - A _ { x } \cos ( \lambda t + \phi ) } \\ { y = A _ { x } \sin ( \lambda t + \phi ) } \\ { z = A _ { z } \sin ( \lambda t + \phi ) } \end{array} \right.
+$$
+
+此时，面内振动和面外振动的频率相等且为 $\lambda$ 。描述 Halo 轨道的尺寸一般用 $\textstyle A _ { x }$ 和 $A _ { z }$ 两个参数，分别是面内振幅和面外振幅。Halo 轨道实际上是一个集合，被称为轨道族（family)，因此对Halo轨道的模拟还需要进一步地简化。并且，Halo 轨道的稳定性有限，随着时间的变化，航天器会逐渐偏离标称轨道（standard orbit)。文献[12]给出了一个用准周期（quasi-periodic）轨道描述Halo 轨道的数值构造方法，这种方法计算量较小，且能够较好的描述Halo 轨道的特征。它的基本形式是
+
+$$
+\left\{ \begin{array} { c } { x = m ^ { 1 / 2 } x _ { 1 } + m x _ { 2 } + m ^ { 3 / 2 } x _ { 3 } + m ^ { 2 } x _ { 4 } } \\ { y = m ^ { 1 / 2 } y _ { 1 } + m y _ { 2 } + m ^ { 3 / 2 } y _ { 3 } + m ^ { 2 } y _ { 4 } } \\ { z = m ^ { 1 / 2 } z _ { 1 } + m z _ { 2 } + m ^ { 3 / 2 } z _ { 3 } + m ^ { 2 } z _ { 4 } } \end{array} \right.
+$$
+
+在描述振幅时，也可以用 $\mathrm { \Delta y }$ 方向的面内振幅 $A _ { y }$ 与面外振幅 $A _ { z }$ 两个参数。为了保证面内与面外的频率相等， $A _ { y }$ 和 $A _ { z }$ 应该有以下关系[12]：
+
+$$
+A _ { y } ^ { 2 } = 1 . 1 7 6 7 2 6 A _ { z } ^ { 2 } + 3 . 3 6 1 3 3 0
+$$
+
+使用这个关系式可以得到 $A _ { y }$ 的最小值是 $4 6 7 9 3 \mathrm { k m }$ 。由此可以得到Halo 轨道的一般表达式与 $A _ { z }$ 之间的关系。
+
+# 3利用中继星星历的验证实验
+
+为检验Halo 轨道模型，选取了嫦娥四号中继星“鹊桥”于2019 年12月22日0时0分0秒到12月23日23时59分59秒的实际使用的理论轨道[19]（下简称为“实际轨道”或“实际数据")，每个数据点的间隔为一秒。实际轨道数据包含北京时间，地心坐标系统下中继星的位置坐标（ $\mathrm { k m } .$ )，以及其速度矢量（ $\mathrm { k m / s } \mathrm { \dot { \Omega } }$ 。根据嫦娥四号中继星所在使命轨道的相关参数，调整了模型内的面外振幅 $A _ { z }$ 、初始相位 $\theta$ ，使得模型与实际轨道能够匹配[20.21]。对Halo 轨道的模拟实际上是对使命轨道的标称轨道进行模拟，卫星在轨道上会进行多次进行机动（orbitmaneuver）以维持卫星不远离标称轨道，但综合考虑轨道稳定性与节省推进剂延长任务寿命，实际轨道与标称轨道也会有所差别。
+
+为了清晰地表现轨道的特征，选择旋转坐标系对实际轨道数据和模型数据进行对比。首先将实际数据的时间系统和空间坐标系进行转换。时间会被统一到地球时（Terrestrial Time，TT)，能够兼顾地球附近时间和行星历表的精度需求[22]。在进行空间坐标系转换时选用 JPL的 DE430 行星历表。
+
+首先，将时间统一至TT。由于中继星轨道处于地月附近的空间，为获取相应时刻的行星历表数据，应当采用TT代替历书时读取历表，在保证精度的前提下统一模型和实际轨道数据的时间基准。首先将BST北京时间转换到格林尼治时间的UTC；然后使用国际地球自转服务（International Earth Rotation Service，IERS）发布的地球指向参数（Earth Orientation
+
+Parameters，EOP）将UTC 时间转换到UT1时间，计算跳秒（leap seconds）后再将时间转换到TT 即可。
+
+![](images/51a7c371e449bd439792e343696e2ecd834dd3556b077ce38c1b98718957d35e.jpg)  
+Fig.2 Transforming of time system
+
+中继星的实际轨道，可以通过地面深空站测距、测速和VLBI测量数据，估算和预报出卫星的轨道位置和速度，这种信息将会采用的参考系应为地心地固坐标系。若要使用实际的测量数据，应该将这种坐标转化到合适的空间坐标系。地心地固坐标系包含了地球自转、章动岁差等因素，且这些因素与月球附近卫星运动以及月球本身的天平动无关。在地心地固坐标系中描述中继卫星平台和月面着陆器平台的运动规律复杂且不能体现特征，需要将其转换到合适的坐标系。为了呈现Halo 轨道主要特征（近似于一个竖立的圆环)，应将轨道数据转换到上文所述的旋转坐标系当中，直观地对轨道数据和模型进行比较。
+
+![](images/03ad6c61343d8a8636407b38272b64d2021f0b6d1e2cc4bf03117b405f1b12fa.jpg)  
+图3空间坐标系统转换  
+Fig.3Transformingof reference system
+
+![](images/590c05febc35e3b62284d1f1bd634094401d2c0b86a33523338b9db824760a94.jpg)  
+图2时间系统转换
+
+地固坐标系是原点位于地球质心，且固结于地球，随地球一齐运动的坐标系。首先将地心坐标系（DX-2）坐标转换到国际地球参考系（International Terrestrial Reference System，ITRS）坐标系；再利用IERS发布的EOP 数据，调整极移，地球自转角和章动-岁差，转换坐标到地心天球参考系（Geocentric Celestial Reference System，GCRS）以及国际天球参考系（International Celestial Reference System）。
+
+下一步是转换坐标到旋转坐标系。由于旋转坐标系与地月有关，首先得到某时刻地球质心和月球质心，由两者连线得到旋转坐标系的x轴，月球围绕地球进行公转的角速度方向即为z轴，根据右手螺旋即可得到y轴的方向。可以由此将ICRS坐标系下，中继星的位置转换到旋转坐标系当中。转化的结果如下图
+
+图4中，蓝色粗线是实际轨道数据，从12月22日0时至12月23日24时中继星在旋转坐标系中的轨迹，或称为观测数据（图中“O")；红色细线则是与这段时间的实际轨道对应的 Halo 轨道模型在一整个周期内的轨迹，或称为计算数据（图中“C")。可以看到，在这段时间内，实际轨道与Halo 轨道模型符合较好。如果使得实际数据与Halo 轨道模型重合的部分做差，并对差值取模，则可以看到下图：
+
+![](images/bae9b43cf4842e21e2335001f3e5f8eaff206c6c1fc836027811681d96c89c3c.jpg)  
+图4Halo轨道模型与部分中继星轨迹  
+Fig.4Halo model and part of relay satellite orbit   
+图5观测与模型轨道的差  
+Fig.5Differencesbetween observationand model orbits
+
+从图5可以看到，这段数据总体符合较好，总的误差值不超过 $7 0 0 \mathrm { k m }$ ，说明模型的参数与实际情况接近。但观测数据和模型数据之差在中段的变化趋势发生了变化，说明实际轨道有更加复杂的运动形式没有被模型完全描述。
+
+这里的Halo 轨道模型将被应用于空间射电干涉测量的研究中，所以考察模型与星历在干涉测量中的差别。首先考察中继星与月面设备干涉时形成的基线。基线指的是干涉测量中两个天线单元之间的距离，随着基线的变化，两个天线单元对同一目标的观测信号能够形成干涉，为了达成干涉测量，需要基线的长度以及基线与目标源的方向关系。
+
+如果在月球背面，位于地月连线上的一点，有一个低频探测设备，它与中继卫星上的低频探测设备进行干涉测量，那么它们之间的基线就是从月面设备指向中继卫星的向量，长度就是这个向量的模。利用观测数据和模型数据可以分别求出这段时间内的基线及其长度，基线长度随着时间的变化如下图所示：
+
+![](images/f1b27b6460f933ad40dc432da5b7b31e3d8e7ec775f028024d96e0c67bb5e3e5.jpg)  
+图6观测值基线与模型基线长度
+
+图6是从2019年12月22日开始，基于观测数据和模型数据分别计算出基线长度随时间变化的情况。其中横坐标是从12月22日0时起经过的时间（单位：小时)，纵坐标则是此时刻基线的长度。蓝色线条代表观测数据得到的基线长度，红色线条代表模型数据得到的基线长度。总体来说它们的变化趋势一致，为了比较两者的差异，对其做差可以得到图7。
+
+![](images/0b5aaa9481b9992b00a6d33ce9d27b7e884db577cdcd3f374ab07f7c02f2f581.jpg)  
+Fig6Baseline lengths of observationand calculation   
+图7两种基线长度之差  
+Fig.7Differences of baseline lengths
+
+图7是对上述两条基线的长度做差，得到观测和模型的基线长度之差随时间的变化图。可以看到，两种情况下基线长度的差距不大，普遍在几十千米的范围内。VLBI的相关处理需要时延的误差在一定范围内，时延误差的重要组成部分是几何时延误差，即对基线长度的计算应与真实值保持尽可能的一致。相关处理对时延误差的要求可以描述为[23]：
+
+$$
+\Delta \tau \le \frac { N } { 2 \cdot B }
+$$
+
+其中，N是谱通道个数，B是带宽。如果按照嫦娥四号着陆器低频射电频谱仪的相关性能参数为参照，则进行VLBI处理所需要的时延误差应低于0.819毫秒，对应的基线长度误差应该低于 $2 4 5 \mathrm { k m }$ 。几何时延虽然是总时延中的主要部分，其他的因素（如传播介质造成的时延）也会对最终时延的估计产生影响。所以，基线长度估计误差造成的时延估计误差应该小于上述计算值。又如图7所示，随着卫星继续运行，它的轨道逐渐回到标称轨道附近，后半段的差值最大只有 $5 0 . 9 4 \mathrm { k m }$ ，平均值 $3 0 . 0 0 \mathrm { k m }$ 。可以认为在这一阶段中时，模型对实际轨道的符合效果较好。
+
+# 4讨论和展望
+
+数据显示模型与中继卫星的星历之间存在着一定的差距，可能的原因有两个：1、出于计算简便的考虑，这个模型实际上是为了特定的目的，利用一个周期化的Halo轨道代替实际上的使命轨道，在满足问题探究的需求的前提下，Halo轨道模型与理论轨道之间会存在较小的差异；2、中继卫星实际运行的使命轨道并非Halo轨道族，而是以理论轨道为标称轨道设计的运行轨道，在保证位置稳定且符合功能需求的同时力求尽可能地降低推进剂消耗，延长任务寿命，同时轨道维持控制易于进行。这两个因素会显著地影响模型与实际轨道的符合程度。
+
+本文采用一个准周期的Halo 轨道模型，与嫦娥四号中继卫星“鹊桥”的理论轨道数据进行了比对，两者与月面着陆器形成的基线长度的差异较小，两种基线长度差平均值为$3 0 . 0 0 \mathrm { k m }$ 。
+
+在HF频带，干涉测量拟采用条纹搜索办法，对基线精度需求是波长的数千倍，即百公里左右。可以认为这种模型基本满足进行空间低频射电干涉模拟实验的要求。在空间低频射电干涉测量得以实施之前，可以通过建立模型，数值模拟的方法对干涉测量系统的组成、方法和性能进行计算和预测。计算结果将会为实施空间低频射电干涉测量提供初步的参考。
+
+# 参考文献
+
+[1]吴伟仁,刘继忠,唐玉华,于登云,于国斌,张哲.中国探月工程[J].深空探测学报,2019,6(05):405-416.  
+[2]张立华,熊亮,王鹏,孙骥,周文艳,高珊,刘适,王晓磊,关轶峰,张爱兵,徐进,陈国辉.“嫦娥4号"中继星任务分析与系统设计[J].深空探测学报,2018,5(06):515-523.  
+[3]段建锋,李勰,李翠兰,王兆魁“嫦娥4号"中继星使命轨道段定轨计算与分析[J].深空探测学报,2019,6(03):247-253.  
+[4]叶培建,孙泽洲,张熇,张立华,吴学英,李飞.嫦娥四号探测器系统任务设计[J].中国科学:技术科学,2019,49(02):124-137.[5]贾瑛卓,邹永廖,薛长斌,平劲松,严俊,宁远明.嫦娥四号任务科学目标和有效载荷配置[J].空间科学学报,2018,38(01):118-130.[6]梅丽，苏彦，周建锋．极低频射电天文观测现状与未来发展[J].天文研究与技术,2018,15(2):127-149.  
+[7]LiCuuEtroociiftedtealsJ]569(7756)：378-382.  
+[8]吴伟仁,王琼,唐玉华,于国斌,刘继忠,张玮,宁远明,卢亮亮“嫦娥4号"月球背面软着陆任务设计[J].深空探测学报,2017,4(02):111-117.  
+[9]VICTOR SZEBEHELY,Theory of Orbit,Academic Press,1967  
+[10]K.C.Howel,J.VreaklllmosteciearlbitsJ].elestiaehicacalstron():-.[11JohnV.BreakwellJohnV.Brown.The‘Halo’familyof-dimensionalperiodicorbitsinthearth-Moonrestricted-bodyproblem[J].CelestialMechanics,1979,20(4):389-404.  
+[12]RobertW.Farquhar,AhmedA.Kamel.Quasi-periodicorbitsaboutthetranslunarlibrationpoint[J].CelestialMechanics&Dynamical Astronomy,7(4):458-473.  
+[13]Richardso,DavidL.HalorbitormulationfortheIEE-3ision[J].JouralofGuidanceControl&Dynamics,3(6):54-48.[14]DavidL.ichardso.Analyticonstructionofperodicbitsboutthecolinearpoints[J].CelestialMechanic,2()4-5[15]卢松涛,赵育善.Halo 轨道 Richardson 三阶近似解析解的改进[J].宇航学报,2009,30(03):863-869.  
+[16]RobertWFarquaranielPuhon,DavidLharso.isionsigfoalobiterofthearthJ].Joualofacat& Rockets,1976,14(3):170 - 177.[17]Lo MW.The InterPlanetary Superhighway and the Origins Program[C]// 2002.  
+[18]曹鹏飞,李维国,王俊彦,李海阳.高精度模型下Halo轨道设计研究[J].深空探测学报,2019.6(03):277-283.  
+[19]刘磊,陈明,张哲,刘勇,马传令.地月平动点轨道应用与研究进展[J].宇航学报,2019,40(08):849-860.  
+[20]高珊,周文艳,张磊,梁伟光,刘德成,张熵.嫦娥四号中继星任务轨道设计与实践[J].中国科学:技术科学,2019,49(02):156-165.[21]高清鹏，李春晓，李荣旺，段建锋，李语强．鹊桥卫星激光测距时间窗口及测距成功概率分析[J].天文研究与技术，2019,16(4): 422-430.  
+[22]Software Routines from the IAU SOFA Collection were used.Copyright $\circledcirc$ International Astronomical Union Standards ofFundamental Astronomy (http://www.iausofa.org)  
+[23]舒逢春，张秀忠．相关处理软件系统中模型计算的精度分析[J].中国科学院上海天文台年刊,2001,0(001):100-106.
+
+# Research of interferometry baselines between CE-4 rover and lunar facility using Halo orbit simulation
+
+Wu Yuxiang1²， Wen Weibin'， Ping Jinsong'²,Zhu Xinying’， Zhang Hongbo,2,Kong Deqing'²， Dai Shun'， Xue Xiping'，Li Chen'
+
+1.KeyLaboratoryofLunarandDeepSpaceExploratio,National AstronomicalObservatories,ChineseAcademyofSciences,Beijing
+
+100101,China 2.University of Chinese Academy of Sciences,Beijing 1Ooo49,China)
+
+Abstract: An orbit model for Chang'E-4 relay satelite is established. This orbit model is supposed to be used in a simulation of space low-frequency radio interferometry. The orbit model is based on classic Lagrange libration point L2 Halo orbit; some parameters of the model were calibrated and modified by the theoretical orbit of Chang'E-4 relay satelite. Transfer theoretical orbit to a rotation orbit in the vicinity of L2 point through time and coordinate reference transferring.By contrasting the diferences of the Halo orbit model and theoretical orbit, the baselines from model and theoretical orbit to a lunar facility were analyzed. During the analyzed period in the orbiting，the differences of baselines are below 6Okm. Such baseline length precisions satisfied interferometry fringe searching in the HF band.
+
+Key words: Halo orbit; Libration point; Reference system; Simulation

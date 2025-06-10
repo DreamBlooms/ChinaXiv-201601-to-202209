@@ -1,0 +1,494 @@
+[
+    {
+        "type": "text",
+        "text": "Spatial-temporal characteristics and influencing factors of relative humidity in arid region of Northwest China during 1966-2017 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CHEN Ditao1,2.3， LIU Wenjiang4， HUANG Farong1,2.4， LI Qian1.2.3， Friday UCHENNA-OCHEGE1,3.5, LI Lanhai1,2,3,4,6.7\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1StateKeyLaboratoryofDesertandOasis Ecology,XinjiangInstituteofEcologyandGeography,ChineseAcademyofSciences, Urumqi 830011, China;   \n2 Ili Station for Watershed Ecosystem Research, Chinese Academy of Sciences, Xinyuan 8358oo,China;   \n3 University of Chinese Academy of Sciences,Beijing 10oo49, China;   \n4 CAS Research Center for Ecology and Environment in Central Asia, Urumqi 830011, China;   \n5DepartmentofGeogaphandEnvironmentalManagement,UniversityofPortHarcourt,PortHarcount502igeria; 6XinjiangRegionalCenterofResourcesandEnvironmentalScience Instrument,Chinese AcademyofSciences,Urumqi830011, China;   \n7 Xinjiang Key Laboratory of Water Cycle and Utilization in Arid Zone, Urumqi 830011, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Playing an important role in global warming and plant growth, relative humidity (RH) has profound impacts on production and living,and can be used as an integrated indicator for evaluating the wet-dry conditions in the arid and semi-arid area. However, information on the spatial-temporal variation and the influencing factors of RH in these regions is stillimited. This study atempted to use daily meteorological data during 1966-2017 to reveal the spatial-temporal characteristics of RH in the arid region of Northwest China through rotated empirical orthogonal function and statistical analysis method,and the path analysis was used to clarify the impact of temperature (T), precipitation (P),actual evapotranspiration $\\left( \\mathrm { E T _ { a } } \\right)$ , wind speed (W) and sunshine duration (S) on RH. The results demonstrated that climatic conditions in North Xinjiang (NXJ was more humid than those in Hexi Corridor (HXC) and South Xinjiang (SXJ). RH had a less significant downtrend in NXJ than thatin HXC, but an increasingly rising trend was observed in SXJ during the last five decades,implying that HXC and NXJ were under the process of droughts, while SXJ was getting wetter. There was a turning point for the trend of RH in Xinjiang, which occurred in 2000. Path analysis indicated that RH was negatively correlated to T, $\\mathrm { E T _ { a } }$ ,W and S,but it increased with increase of P. S, T and W had the greatest direct effects on RH in HXC, NXJ and SXJ, respectively. $\\mathrm { E T _ { a } }$ was the factor which had the greatest indirect effect on RH in HXC and NXJ, while $\\mathrm { \\Delta T }$ was the dominant factor in SXJ. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: relative humidity; spatial-temporal characteristics; path analysis; influencing factor; arid region ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Water vapor is one of the most vital components in the atmosphere for it is not only a necessary condition for the formation of precipitation, but also an important greenhouse gas, which is a key driving force of climate change (Held and Soden, 2O06; Dessler et al., 2OO8; Li and Zha, 2018). There were many climatic prediction models possessing strong water vapor feedback (Held and Soden, 2Oo0). However, most of them did not give an atention to water vapor component in the models, as most researchers atribute changes of water vapor to its natural dynamics. Previous studies mainly focused on dew-point temperature (Robinson, 1998, 2000)， specific humidity (Willet et al., 2007; Iwasaki, 2016) and wet-bulb temperature (Moratiel et al., 2017; Kang and Eltahir, 2O18). In contrast, relative humidity (RH), as a parameter from direct observation, can reflect the combined effect of other meteorological variables (e.g., precipitation and temperature) which may be used to assess regional wet-dry conditions (Gaffen and Ross, 1999; Lu and Takle, 2010). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Only a few studies focused on RH over China, even all over the world (Li and Zha, 2018). Although there were different trends of RH among different regions, it kept globally unchanged (Dessler et al., 2018). Dai (2006) opined that upon the application of grid dataset, the global trend of near-surface RH was insignificant, but it showed a remarkably positive trend in western China, United States and India. It is similar to the finding from Willett et al. (2OO8) that changes in RH were not significant except for some seasonal changes over the globe, tropics and Northern Hemisphere during 1973-2003. Surratt et al. (2004) and Vincent et al. (2007) systematically analyzed long-term tendency of RH over the United States and Canada. Results indicated that RH showed a downward trend in some areas, but overall, RH was significantly rising over the North America. A significant downward trend of RH was observed in North China, Northeast China and the eastern Northwest China. Likewise, a notable upward trend was eminent in the Qinghai-Tibet Plateau and the western Northwest China during the last 5O years (Song et al., 2012). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Researches on the variations of RH in lower atmosphere are essential to eco-geographical environment, as RH is closely related to the hydrological circulations (Gedney et al.,2O6) and the surface energy exchanges (Xie et al., 2O11). The significant increase of temperature in arid and semi-arid areas, especially in semi-arid regions, contributes about $44 \\%$ of the global land-surface warming (Huang et al., 2012). Trenberth et al. (2003) indicated that atmospheric moisture is expecting to rise with temperature, which is the same as the research that lower-tropospheric temperature has increased with RH holding steady in the United States (Wang et al., 2OO8). With climatic warming, the amount of moisture in the atmosphere is expected to increase much faster than the total precipitation amount (Xie et al., 2O11). Therefore, studies on climate change in arid and semi-arid regions are the non-negligible part of the global change research. RH, as a comprehensively meteorological factor, plays a critical role in climate change in the arid region of Northwest China (ANC). However, the dynamics of near-surface RH over ANC under climatic change and its influencing factors remain unclear. The direct effect and indirect effect of precipitation, temperature, wind speed and sunshine duration on RH are still not clearly clarified. It focused on one-dimensional or multi-dimensional statistical methods and lacked analyses about the impact path in previous researches. The direct effect of a factor on RH may be positive, but it may turn into a negative effect through other factors.To further explore the interactive relationship of climatic parameters with RH, path analysis method was used in this study to investigate the role of the climatic factors on RH in the study area. The findings of the study are able to provide evidences for water resources management and agricultural practices. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The objectives of this study were as follows: (1) to reveal the spatial-temporal characteristics of RH over ANC by using rotated empirical orthogonal functions (REOF) from 1966 to 2017; (2) to identify intra-annual variation of RH in sub-region scale through heat map; and (3) to clarify the impacts of meteorological variables on RH in each sub-region by path analysis. Some different spatial distributions and temporal characteristics between these sub-regions result from REOF analysis may be obtained from these analyses. Except that, it can get how temperature, precipitation and wind speed affect RH, positive or negative effect? There are some new research conclusions which will lay a scientific foundation for revealing the variations of atmospheric water vapor content under the global climate change. And they have certain scientific guiding significance for regional water resources management and spatial layout of ecological construction. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Study area and data ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This study takes ANC as the study area $( 3 4 ^ { \\circ } - 5 0 ^ { \\circ } \\mathrm { N }$ $7 2 ^ { \\circ } { - } 1 0 8 ^ { \\circ } \\mathrm { E }$ ), including Xinjiang, the western Inner Mongolia, northwestern Gansu and part of Ningxia (Fig. 1). It covers an area of $2 . 9 { \\times } 1 0 ^ { 6 } \\mathrm { k m } ^ { 2 }$ accounting for about $27 \\%$ of total Chinese terrestrial area. As one of the driest areas in the world (Yao et al., 2O18),ANC has a typical continental climate with low annual precipitation (less than $2 0 0 . 0 \\ \\mathrm { m m } ,$ (Chen et al., 2O14; Deng et al., 2O14) and a wide range of annual mean temperature in different area (from $- 2 ^ { \\circ } \\mathbf { C }$ to $1 9 ^ { \\circ } \\mathrm { C }$ ) (Liu et al., 2O1O). The precipitation exhibited an increasing trend in ANC in recent years, with a rate of $7 . 7 \\ \\mathrm { m m } / 1 0 \\mathrm { a }$ . The maximum precipitation occurred in 2016 $( 2 0 0 . 2 ~ \\mathrm { m m } )$ , while the minimum in 1997 $( 9 9 . 8 ~ \\mathrm { m m } )$ . Complex topographic components including desert, forest, farmland, grassland and mountain glaciers. There are three main sources of water vapor, which are Arctic Ocean, Atlantic Ocean and Indian Ocean (Wang and Ren, 2Oo5). The 'V'- shaped terrain towards the west catches more moisture content in air from Atlantic Ocean through westerly jet, which forms rainfall or snowfall on the windward slope (Guo and Li, 2O15). ANC is in the transitional zone between humidification in eastern Eurasian continent and drying in western continent, which is sensitive to the climate change (IPCC, 2O07). The Tianshan Mountains, Altay Mountains, Kunlun Mountains and the north Qilian Mountains are located in the study area. The Tarim Basin, Junggar Basin and Hexi Corridor (HXC) are distributed among these mountains. Tianshan Mountains plays an important role in natural conditions in this area. Precipitation in the North Xinjiang (NXJ; north of Tianshan Mountains) is greater than that in the South Xinjiang (SXJ; south of Tianshan Mountains) (Guo and Li, 2015). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/04e27226785c29255c338233096a116ca0975577fdd41cd8231b22392f34260f.jpg",
+        "img_caption": [
+            "Fig. 1 Distribution of meteorological stations in the arid region of Northwest China "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Data ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Daily meteorological records were selected for a 52-a period from January 1966 to December 2017 in this study. Collected data comprised daily mean RH, mean temperature , mean wind speed at 10 m height, precipitation and sunshine duration, as well as maximum temperature, minimum temperature， mean atmospheric pressure， which were provided by National Meteorological Information Center (http://data.cma.cn/). The data consistency was checked by the double mass curve method (Zhang et al., 2012). There are more than 10O meteorological stations in ANC, but some of them exist missing data. Stations with the missing data sets which were over $5 \\%$ or more than $5 \\mathrm { d }$ in a month were removed in this study. After this process, only 81 stations (Tables S1-S3) are available in this study (Fig. 1). In other cases, missing data were interpolated by their neighboring days or the neighboring stations of the same dates. Daily actual evapotranspiration $\\mathrm { ( E T _ { a } ) }$ was calculated by Advection-Aridity (AA) model. The monthly and annual data were then obtained by these variables. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Methods ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 AA model ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "AA model, which was based on the complementary theory, was applied to estimate the actual evapotranspiration in this study. In the AA model, potential evapotranspiration was calculated through the Penman method (Penman, 1948),and the evapotranspiration in wet environment was obtained by the Priestley-Taylor equation (Priestley and Taylor,1972; Brutsaert and Stricker, 1979). The equation (Su et al., 2017; Jian et al., 2018) for AA model was as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E T _ { a } } = { \\left( 2 \\alpha - 1 \\right) } \\frac { k } { k + \\gamma } ( R _ { n } - G ) { - } \\frac { k } { k + \\gamma } E _ { a } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathrm { E T _ { a } }$ is the daily actual evapotranspiration (mm); $ { \\boldsymbol { a } }$ is the Priestley-Taylor evaporation coefficient that varies spatially in relation to the characteristic of the underlying surface; $k$ is the slope of the saturation vapor pressure curve at the air temperature $( \\mathrm { { k P a } } / { } ^ { \\circ } \\mathrm { { C } ) }$ $\\gamma$ is the psychometric constant; $R _ { \\mathrm { n } }$ is the net radiation near the surface expressed as the equivalent vaporization rate $\\left( \\mathbf { M J } / ( \\mathbf { m } ^ { 2 } { \\cdot } \\mathbf { d } ) \\right)$ 5 $G$ is the soil heat flux $\\mathrm { ( m m / d ) }$ ; and $E _ { a }$ is the drying power of the air $\\mathrm { ( m m / d ) }$ which represents the capacity of the ambient air to extract water from the surface and is an increasing function of the vapor pressure deficit of the air and of wind speed. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "AA model can achieve highly accurate results only based on relatively few parameters and a simple algorithm. It has been widely used in different climatic regions, including arid and semiarid regions (Haque, 2003; Liu et al., 2010). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2Rotated empirical orthogonal function (REOF) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In statistics, the empirical orthogonal function (EOF) analysis is known as the principal component analysis, but the EOF method can find both time and spatial patterns. The first a few eigenvectors of EOF can represent the variability structure of the fields of climatic variable (Lorenz, 1956). ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { m \\times n } = \\mathrm { E O F } _ { m \\times ~ p } \\times \\mathrm { P C } _ { p \\times n } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $X$ is the matrix of empirical orthogonal function; $m$ is the number of points in the study area; $n$ is the number of days which starts from 1966 to 2017; EOF is the matrix of the spatial pattern; PC is the matrix of temporal coefficients; and $p$ is the number of spatial patterns or temporal coefficients of EOF analysis. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "However, it is difficult to interpret the spatial characteristics of the different regions through EOF analysis. Thus, REOF was introduced to circumvent these problems (Richman, 1986). The most popular type of REOF is the varimax REOF analysis (Kaiser, 1958). Spatial field decomposed by REOF would concentrate the high values of loading factors in a small region, while loading factors in most of regions are close to zero. As a result, it wil make spatial structure clear and can be used for geographical zoning. Based on results from its strong spatial interpretation, REOF has been extensively used in atmospheric, oceanic and climatic researches (Lian and Chen, 2O12; Wang et al., 2014, 2015). More information on REOF analysis and its detailed algorithm can be found in Hannachi et al. (2007). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this study, after rotating the first 11 spatial modes and their time functions which variance contributions occupy more than $8 5 \\%$ of the total variance contributions, it can get the rotated component loading patterns (REOFs) and rotated principal components (RPCs),， which reflect spatial pattern and time evolution of a variable, respectively. Then the first four REOFs, which occupied about $6 4 . 8 1 \\%$ of the total variance, were shown by the inverse distance weighting interpolation with GIS technique， and sub-regions were then divided based on the spatial characteristics. Only REOF spatial weights above 0.30-0.35 could be interpreted as remarkable signals and then used to reveal the spatial features (Richman and Gong, 1999). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3 Pathanalysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Path analysis,as an extension of multi-regression method, was introduced to differentiate between correlation and causation, and clarify the direct and indirect efects of independent variables on dependent variable (Wright,1934). Initially, path analysis focused on the field of disease of multifactorial inheritance, but it was extensively applied in geographical and ecological studies for the past few years (Li et al., 2O11; Zhang et al.,2014). The structure of data could be comprehended through path analysis (Kozak and Kang， 2Oo6)， thus it can be used to assess effects of meteorological factors on RH in this study. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Path coefficients were defined as a version of standardized linear regression weights by Wright (1921), which can be applied to verify causation between causal factors of structural equation model. Assumed that there are $n$ independent variables, $x 1 , x 2 , . . . , x _ { n }$ , and a dependent variable $y$ correlation coefficient between $x _ { i }$ and $y$ is equal to the sum of the direct coefficient and indirect coefficient of $x _ { i }$ to $y$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr _ { y i } = p _ { y i } + \\sum _ { j = i + 1 } ^ { n } r _ { i j } p _ { y j } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $r _ { y i }$ and $r _ { i j }$ are the correlation coefficients between $x _ { i }$ and $y$ ,and between $x _ { i }$ and $x _ { j }$ ,respectively; and $p _ { y i }$ is the direct coefficient of $x _ { i }$ to $y$ .Meanwhile, coefficient of residual term was calculated to indicate if the effect of these factors is strong enough. ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho = \\sqrt { 1 - D ^ { 2 } } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { D ^ { 2 } = \\sum _ { k = 1 } ^ { i } p _ { y k } r _ { y k } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\rho$ is the residual path coefficient; $D ^ { 2 }$ is the coefficients of determination; $p$ is the path coefficient; and $r$ is the correlation coefficient. Additional details about this method are described in Wright (1934). The method used here for assessing the influencing meteorological factors of RH, which was based on daily meteorological records, can help in geting stronger appreciation of the internal relationships of selected variables, especially their indirect connections. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1Spatial and temporal characteristics of RH using REOF ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It required a dimensionality reduction through EOF analysis before applying REOF. The first 11 EOF modes, which occupied more than $8 5 \\%$ of the total variance contribution, were selected as inputs for the REOF (Table 1). After the orthogonal varimax rotations of the loading factors, the first four modes of REOFs (REOF-1,REOF-2, REOF-3 and REOF-4; Figs.2a-d) and RPCs (RPC1, RPC-2, RPC-3 and RPC-4; Figs. 3a-d) were used to analyze the spatial and temporal patterns. The results showed that there were positive and negative loading factors caused by the decomposition of the RH field, implying that the distributions of RH were opposite phase. The variation trend of RH was opposite in HXC and Xinjiang (Figs. 2 and 3). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 2a showed that the greatest value area of the REOF-1 was located in HXC. Combined with the downward trend in RPC-1 (Fig. 3a), there was a tendency of dryness during 1966-2017 in HXC. However, the REOF-2 (Fig. 2b) had positive values in most parts of the study area, and the highest value was in SXJ, indicating a gradual increase in wetness occurred with a corresponding rise of RCP-2 in this sub-region (Fig. 3b). Figure 2c exhibited larger values in NXJ than those in other two sub-regions. Overall,there was no significant upward trend in the last five decades (Fig. 2c). Figures 2d and 3d showed that there were high negative value and fluctuating uptrend in southwest Xinjiang. It was almost the same as the REOF-2 and RPC-2, which implied that these two regions have similar spatial and temporal patterns for RH. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The year 2OoO was detected as the turning point for RH in Xinjiang. For the period before 2000, the temporal coefficient of RH was obviously decreasing,but after 2OOO, it started increasing in SXJ (Fig. 3b). The temporal coefficient of RH in NXJ showed a reverse trend (Fig. 3c). It implied that it exhibited a wetting trend before 2OOo, but it got drier after 2OOO in Xinjiang. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a4191459216e020d30258c831c1eff72111a3a4175dc840d9a948e63229e8ab7.jpg",
+        "table_caption": [
+            "Table1Variance contributions $( \\% )$ of the empirical orthogonal function (EOF) and rotated empirical orthogoanl function (REOF) analyses of annual average relative humidity "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Mode</td><td colspan=\"2\">EOF</td><td colspan=\"2\">REOF</td></tr><tr><td>Variance contribution (%)</td><td>Accumulated variance contribution (%)</td><td>Variance contribution (%)</td><td>Accumulated variance contribution (%)</td></tr><tr><td>1</td><td>30.22</td><td>30.22</td><td>21.11</td><td>21.11</td></tr><tr><td>2</td><td>15.56</td><td>45.78</td><td>15.50</td><td>36.61</td></tr><tr><td>3</td><td>12.76</td><td>58.54</td><td>14.21</td><td>50.82</td></tr><tr><td>4</td><td>9.25</td><td>67.79</td><td>13.99</td><td>64.81</td></tr><tr><td>5</td><td>4.44</td><td>72.23</td><td>5.19</td><td>70.00</td></tr><tr><td>6</td><td>3.64</td><td>75.87</td><td>4.42</td><td>74.42</td></tr><tr><td>7</td><td>2.73</td><td>78.60</td><td>3.19</td><td>77.61</td></tr><tr><td>8</td><td>2.25</td><td>80.85</td><td>2.51</td><td>80.12</td></tr><tr><td>9</td><td>2.12</td><td>82.97</td><td>2.29</td><td>82.41</td></tr><tr><td>10</td><td>1.91</td><td>84.88</td><td>2.25</td><td>84.66</td></tr><tr><td>11</td><td>1.63</td><td>86.51</td><td>1.85</td><td>86.51</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9f4b314f0fb284d17fec8cb98ce69dbf95ae112f4b74338e61c781f49e02e645.jpg",
+        "img_caption": [
+            "Fig. 2Spatial paterns of the first four loading factors of the rotated empirical orthogonal function (REOF) of relative humidity (RH) "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2Mean monthly variations of RH ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The study area was divided into three sub-regions resulting from the first four spatial-temporal patterns of REOF analysis: NXJ, including 26 stations; SXJ, including 36 stations; and HXC, including 19 stations. The annual average RH in each sub-region was significantly different. The highest value of RH took place in Ili River Valley and Altay Mountains due to the'V'-shaped terrain and windward slope, respectively. RH decreased from north to south and from west to east over the whole ANC. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 exhibited mean monthly variations of RH in each sub-region. Monthly average RH was less than $40 \\%$ between March and June (Fig. 4a) in HXC. The highest value of RH occurred in winter (from December to January of the next year). The NXJ had a higher RH than the other two sub-regions (Fig. 4b). The RH from November to March of the next year was larger than that from April to October and was higher than $70 \\%$ in winter in NXJ. SXJ was the driest in the study area, especially during April and May (Fig. 4c). There were eight months in which RH was under $50 \\%$ in a year. The lowest value of RH was centered in April and May in the study area (Fig. 4d). RH exhibited strong annual fluctuations, consistent with the former result which indicated that variations in RH has no significant trend in NXJ.The reason for the results is that NXJ was located on the windward slope of the Tianshan Mountains, while SXJ lied on the leward slope and HXC was far from the source of water vapor. As a result, the moisture in NXJ was higher than those in SXJ and HXC. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/41afd04dae727dc9e1d9d448882158021897ca60f7be9af6ed9ca13df15a1da4.jpg",
+        "img_caption": [
+            "Fig.3Temporal paterns of the first four rotated principal components (RPC) of RH. The time series is represented by black solid line,5-a moving average by red solid line and the linear trend by yelow solid line. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b33d701d7e92b970dcc8536aac6e3abec20a8ad1fb423074e8381ca656db806.jpg",
+        "img_caption": [
+            "Fig.4Mean monthly variations ofRH through heat-map in(a), Hexi Corrdor(HXC); (b), North Xinjiang (NXJ); (c), South Xinjiang (SXJ); and (d), the arid region of Northwest China (ANC) during 1966-2017 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.3Impacts of meteorological factors on RH ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Path coeficients were calculated to analyze the impact of temperature (T), precipitation (P), actual evapotranspiration $\\left( \\mathrm { E T _ { a } } \\right)$ ,wind speed (W) and sunshine duration (S) on RH. Before applying the path analysis to assess the impact of independent variables on dependent variable, $F$ -test was used to verify the linear significance of these variables. As shown in Tables 2-4, al the variables had significant correlations with RH (significant at O.O1 level). RH was significantly related with S in HXC and NXJ, in which correlation coefficients reached $- 0 . 5 3$ and $- 0 . 7 7$ , respectively. For SXJ, RH was highly correlated with $\\mathrm { E T _ { a } }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "S and $\\mathrm { \\bf P }$ influenced RH with direct effects of $- 0 . 3 9$ and 0.35 in HXC (Table 2), respectively. As S decreased or P increased, RH increased. It can be seen that indirect path efect from all factors to RH existed. For direct effects, the greatest influencing factor was S. The indirect effects of $\\mathrm { E T _ { a } }$ and T through S accounted for $6 9 . 4 \\%$ and $6 8 . 6 \\%$ of the total influence of $\\mathrm { E T _ { a } }$ and $\\mathrm { T }$ on RH, respectively. As the only factor with positive effect, direct path coefficient of $\\mathrm { \\bf P }$ was larger than its indirect path coefficient. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/c91b9ed7906380087d495fbb6cef91ed816e5f22bb1b095693431be267e50252.jpg",
+        "table_caption": [
+            "Table 2 Path analysis among $\\mathrm { E T _ { a } }$ ,P, S,T, W and RH in Hexi Corridor from 1966 to 2017 "
+        ],
+        "table_footnote": [
+            "Note:\\*eastorrtointicatattvel;maeotisitael;- means no value. $\\mathrm { E T _ { a } }$ ,actual evapotranspiration; P,precipitation; S,sunshine duration; T, temperature;W,wind speed;andRHrelative humidity. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Meteorological factor</td><td rowspan=\"2\">Correlation coefficient</td><td rowspan=\"2\">Direct path coefficient</td><td colspan=\"5\">Indirect path coefficient</td></tr><tr><td>ETa</td><td>P</td><td>S</td><td>T</td><td>W</td></tr><tr><td>ETa</td><td>-0.38**</td><td>-0.05##</td><td>-</td><td>0.010</td><td>-0.26</td><td>-0.06</td><td>-0.010</td></tr><tr><td>P</td><td>0.44**</td><td>0.35##</td><td>-0.001</td><td></td><td>0.14</td><td>-0.02</td><td>-0.030</td></tr><tr><td>S</td><td>-0.53**</td><td>-0.39##</td><td>0.030</td><td>-0.130</td><td>-</td><td>-0.03</td><td>0.050</td></tr><tr><td>T</td><td>-0.20**</td><td>-0.08##</td><td>-0.040</td><td>0.070</td><td>-0.14</td><td>-</td><td>-0.020</td></tr><tr><td>W</td><td>-0.15**</td><td>-0.26*#</td><td>-0.002</td><td>0.040</td><td>0.08</td><td>-0.01</td><td>-</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For NXJ (Table 3), the direct path coefficient of $\\mathrm { \\Delta T }$ on RH was the largest $( - 0 . 6 1 )$ , while W was the lowest $( - 0 . 0 7 )$ . All factors can affect humidity through T except P. The indirect path coefficient from $\\mathrm { E T _ { a } }$ through T to RH was the biggest $( - 0 . 4 7 )$ , implying that $\\mathrm { E T _ { a } }$ can indirectly influence RH by means of T. The smallest indirect path coefficient of $\\mathrm { \\bf P }$ from $\\mathrm { E T _ { a } }$ to RH was the lowest, which illustrated that precipitation had almost no impact on humidity in NXJ. This meant that evapotranspiration had the biggest impact on RH through S and $\\mathrm { \\Delta T _ { \\Omega } }$ ，which occupied $5 3 . 1 \\%$ and $6 2 . 1 \\%$ , respectively. The rate of the indirect path coefficient of W though $\\mathrm { \\Delta T }$ on RH to the total indirect path coefficient of W was $8 4 . 2 \\%$ . P was also the only factor which had positive effect on RH, but it was not significant. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/93559b81277fa1783da25bce3a17765367a8a3a2036f9ae98c474afbc186740a.jpg",
+        "table_caption": [
+            "Table 3 Path analysis among $\\mathrm { E T _ { a } }$ ,P, S, T,Wand RH in North Xinjiang from1966 to 2017 "
+        ],
+        "table_footnote": [
+            "Note:\\*meanstoetiooefitisicantatthevel;maepathoentisigaaleel;- means no value. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Meteorological factor</td><td rowspan=\"2\">Correlation coefficient</td><td rowspan=\"2\">Direct path coefficient</td><td colspan=\"5\">Indirect path coefficient</td></tr><tr><td>ETa</td><td>P</td><td>S</td><td>T</td><td>W</td></tr><tr><td>ETa</td><td>-0.76**</td><td>0.13*#</td><td>-</td><td>-0.001</td><td>-0.41</td><td>-0.47</td><td>-0.010</td></tr><tr><td>P</td><td>0.21**</td><td>0.19##</td><td>0.00</td><td>-</td><td>0.14</td><td>-0.11</td><td>-0.020</td></tr><tr><td>S</td><td>-0.77**</td><td>-0.46##</td><td>0.11</td><td>-0.060</td><td>-</td><td>-0.36</td><td>-0.003</td></tr><tr><td>T</td><td>-0.76**</td><td>-0.60#</td><td>0.10</td><td>0.030</td><td>-0.28</td><td>-</td><td>-0.012</td></tr><tr><td>W</td><td>-0.15**</td><td>-0.07##</td><td>0.02</td><td>0.040</td><td>-0.02</td><td>-0.13</td><td>-</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The absolute values of correlation coefficients between selected variables and RH were more than 0.50,except $\\mathrm { \\bf P }$ in SXJ (Table 4). W had a significant direct effect on RH, which with direct path coefficient of $- 0 . 4 5$ . T had the greatest indirect influence on RH with total indirect path coefficient of $- 0 . 4 6$ . The indirect influence of S through $\\mathrm { E T _ { a } }$ on RH with an indirect path coefficient of $- 0 . 2 5$ accounted for $4 8 . 4 \\%$ of its total coefficient, while T's effect through $\\mathrm { E T _ { a } }$ was $- 0 . 2 8$ ， accounting for $4 1 . 6 \\%$ . The total indirect path coefficient of $\\mathrm { \\bf P }$ was negative, resulting in a weak correlation to RH in this sub-region. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The residual path coefficient was significant (O.75) in HXC, which was more than that in the whole Xinjiang (0.57). The result indicated that the interpretation rate of selected factors in HXC was less than that in Xinjiang $( 2 4 . 7 \\%$ and $4 3 . 2 \\%$ , respectively), implying that other underlying factors also influenced RH in this study area. Further studies are required to beter understand the impact of meteorological factors on RH. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/f94ccb65a91a530bc7f18b545bb0f41571cddb1bf98584b64c6b0f406c0ab236.jpg",
+        "table_caption": [
+            "Table 4 Path analysis among ETa, P, S, T, W and RH in South Xinjiang from 1966 to 2017 "
+        ],
+        "table_footnote": [
+            "Note:meansthoelaioceitissatatthevel;matepathentisiaaleel meansno value. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Meteorological factor</td><td rowspan=\"2\">Correlation coefficient</td><td rowspan=\"2\">Direct path coefficient</td><td colspan=\"5\">Indirect path coefficient</td></tr><tr><td>ETa</td><td>P</td><td>S</td><td>T</td><td>W</td></tr><tr><td>ETa</td><td>-0.67**</td><td>-0.31##</td><td>-</td><td>0.080</td><td>-0.07</td><td>-0.18</td><td>-0.190</td></tr><tr><td>P</td><td>0.07**</td><td>0.34##</td><td>-0.07</td><td>-</td><td>0.01</td><td>-0.06</td><td>-0.150</td></tr><tr><td>S</td><td>-0.51**</td><td>-0.09##</td><td>-0.24</td><td>-0.030</td><td>-</td><td>-0.13</td><td>-0.020</td></tr><tr><td>T</td><td>-0.66**</td><td>-0.20##</td><td>-0.28</td><td>0.100</td><td>-0.06</td><td>-</td><td>-0.220</td></tr><tr><td>W</td><td>-0.58**</td><td>-0.45##</td><td>-0.13</td><td>0.110</td><td>0.00</td><td>-0.10</td><td>-</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5 Discussion ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Compared with temperature and precipitation, RH was more sensitive to local climate change (Gaffen and Ross,1999; Lu and Takle, 2O10). It can accurately and objectively describe the features of climate change in a region because it had a notable relationship with some extreme weather conditions like heavy rainfalls and droughts (Song et al.， 2O12). RH had obvious regional characteristics because of differences in natural conditions, especially climatic conditions, in the different areas. Three major sub-regions in this study, Hexi Corridor (HXC), North Xinjiang (NXJ) and South Xinjiang (SXJ), experienced regular fluctuations in RH. Several studies applied the Palmer drought severity index (PDSI) (Wang et al.， 2O15)， standardized precipitation evapotranspiration index (SPEI) (Yu et al., 2O14), aridity index (Huo et al., 2013) and surface humidity index (Ma and Fu, 2OO3) to evaluate the wetness/dryness conditions and their results showed that the weter trend over the Northwest China was observed in the past half century. However, there were different variations not only in RH but also in SPEI of 3-month time scale in different sub-regions based on REOF analysis (Wang et al., 2O17). Xinjiang exhibited a significant wetting trend, while HXC was increasingly dry. Another result opined that NXJ was more humid than HXC and SXJ, because NXJ is closer to the Arctic Ocean and Atlantic Ocean. Water vapor from ocean are blocked by Altay Mountains and Tianshan Mountains. Ii valley and the south slope of Altay Mountains are the most humid areas because they are located in the windward slope of the Tianshan Mountains and Altay Mountains, while SXJ and HXC lie in the leeward slope that water vapor cannot reach easily. The drying conditions in HXC was largely because of the influence of East Asian monsoon with increasingly weakening trend since the early 198Os (Xu et al., 2010). That was the reason why it exhibited opposite trend between Xinjiang and HXC. It was more humid before 2OOO, resulted from the enhanced westerly which brought more water vapor to Xinjiang (You et al., 2011). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "There were other circulation effects that influenced the dryness/wetness conditions in this study area, other than the prevailing westerly and East Asian monsoon. Wang et al. (2O15) was of the view that the area of Northern Hemisphere polar vortex, in addition to the Arctic Oscillation and the North Atlantic Oscillation exerted certain influence on moisture in ANC. More recently, it was also discovered that the Pacific Decadal Oscillation exert a somewhat similar influence on drought evolution in Northwest China (Wang et al., 2O17). Variations in RH in SXJ and HXC were also affected by the Tibetan Plateau High (Wang et al.,2O15). Furthermore, in the drought years of 1970, 1985 and 1997 in Xinjiang, updraft was prevalent in south of $3 7 ^ { \\circ } \\mathrm { N }$ and downdraft in north of $3 7 ^ { \\circ } \\mathrm { N }$ ， while it experienced a circulation reversal in wet years of 1969,1987 and 2002 (Xing et al., 2010). Liu et al. (2O16) considered that there were negative relationships between PDSI and the Nino 3.4 index in the eastern Northwest China. It was reported that the strong El Nino events happened in 1987, 1998,2O03 and 2016,and it also showed higher RH during these years, indicating that El Nino had an obviously increasing impact on RH in ANC. Variations in the westerly circulation, ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "South Asian High and Western Pacific Subtropical High also played a major role in other meteorological factors like temperature (Yuan et al., 2009; Yuan et al., 2010) and precipitation (Zhao et al., 2014; Li et al., 2016; Wei et al., 2017), which are of importance on the change of RH. Under the comprehensive influence of various circulations, the whole arid and semi-arid region of Northwest China is likely to get wet in the coming years (Peng and Zhou, 2017). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A significant upward trend for precipitation and temperature was exhibited in Northwest China (Shi et al.,2007; Li et al., 2013; Han et al., 2016). Several studies attributed the weter trend to the increasing precipitation in the Northwest China during the past 50 years (Piao et al., 2O10; Deng et al., 2014; Li et al., 2016). However, according to a more recent study (Chen et al., 2018), precipitation had less contribution than evapotranspiration, temperature and wind speed to surface RH in the Tianshan Mountains. The increasing precipitation had little positive efects on RH, but temperature (Dai, 2Oo6), wind speed and evapotranspiration had negative effects on RH from the path analysis.So that there was trend of humidification from increasing precipitation only,but from RH, it can get that it was not more humid in the large area of Northwest China. There were many theoretical and modelling studies that predicted that RH will remain approximately stable globally as the climate warms (Held and Soden, 20O0; Sherwood and Meyer, 20O6; Simmons et al., 2010; Willett et al.， 201O). The drought trend occurred in HXC, which was due to the decreasing precipitation and increasing temperature (Yu et al., 2O14). Impacts of reference evapotranspiration on wet/dry conditions and drought should be given more atention (Sun et al., 2O16). It was found that notable reduction of evapotranspiration offsets the drying tendency caused by the decrease of precipitation in ANC, so that it exhibited a trend of humidification (Su et al.,2O18). Besides these factors, sunshine duration and wind speed played important roles in HXC and SXJ, respectively, on the basis of results of path analysis in this study. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "6Conclusions ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Based on the daily data from 81 stations in ANC over the period 1966-2O17, we analyzed the spatial and temporal patterns of trends in RH and its influencing factors.The main findings of this study were summarized below. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "HXC and NXJ were observed to exhibit a drying tendency, but SXJ was geting increasingly but not significantly weter. It may be caused by a limited moisture supply from the oceans where evaporation has been limited by sea surface temperature that have not risen with the temperature over land (Simmons et al., 2O10). NXJ was more humid than SXJ and HXC. The reason is that water vapor from Atlantic Ocean and Arctic Ocean was blocked by Tianshan Mountains so that SXJ was drier than NXJ. For HXC, it is farther away from the source of water vapor than NXJ so that the water vapor can't reach HXC. The most humid season was winter, while the driest season is spring in the region. It exhibited more distinct wet and dry season in Xinjiang than that in HXC. Only precipitation could promote the growth of RH over the whole region. That is why some previous researchers considered that ANC exhibited tendency of humidification based on precipitation (Shi et al., 2OO7). However, RH was influenced by other meteorological factors, especially actual evapotranspiration, which was the most important indirect influencing factor on RH in HXC and NXJ, whereas temperature had the greatest indirect eect on RH in SXJ. The impacts of precipitation on RH was offset largely by the variation in other factors, especially wind speed based on the results from path analysis. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "RH is a product generated by not only climatic factors, but also land surface properties and human activities. Differences in properties of the underlying surface, human activities and increasing glacier melting caused by warming will exert influences on RH. Thus, the study on influencing factors of RH in this work is still uncertain, and more profound researches would be needful in future works. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This study was supported by the National Natural Science Foundation of China (U1703241),the Key International ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Cooperation Project of Chinese Academy of Sciences (121311KYSB20160005)and the Open Project of Xinjiang Uygur Autonomous Region Key Laboratory of China (2017D04010). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References   \nBrutsaert W,Stricker H.1979.Anadvection-aridityapproach toestimate actualregional evapotranspiration.Water Resources Research,15(2): 443-450.   \nChenD,HuangF,Li Q,etal.2O18.Spatialvarationof humidityandits influencingfactors inthe north andsouth slopesofthe Tianshan Mountains, China during 1966-2015. Climate Change Research, 14(6): 562-572.   \nChen Y,DengH,LiB,etal.2O14.Abruptchangeof temperatureand precipitationextremes inthearidregionof Northwest China. Quaternary International, 336: 35-43.   \nIPCC.2007.Climate Change 2007: The Physical Science Basis: Contributionof working Group Ito the Fourth Assessment Reportof the Intergovernmental Panel on Climate Change (IPCC). Cambridge: Cambridge University Press,95-123.   \nDai A. 2006.Recentclimatology,variability,and trends in global surface humidity.JouralofClimate,19(15): 3589-3606.   \nDengH,Chen Y,ShiX,etal.2O14.Dynamics of temperature and precipitation extremes andtheirspatial variation inthearid region of northwest China. Atmospheric Research, 138: 346-355.   \nDesler AE,Zhang Z,YangP.2008. Water-vapor climatefedback inferred from climate fluctuations,203-2008. Geophysical Research Letters, 35(20): 293-310.   \nGaffen DJ,Ross RJ.1999Climatologyand trends of U.S.surfacehumidityand temperature.Journal of Climate,12(3): 811- 828.   \nGedneyN,CoxPM,BettsRA,etal.2O6Detectionofadrectcarbondioxideeffectincontinentalrverrunoffrcods.Nature, 439(7078): 835-838.   \nGuoL,LiL.2O15.VarationoftheproportionofprecipitationoccuingassowintheTanShanMountains,China.Itetioal Journal of Climatology, 35(7): 1379-1393.   \nHan X,Xue H,ZhaoC,etal.2016.Therolesofconvectiveandstratiform precipitationinthebserved precipitation trendsin Northwest China during 1961-2000. Atmospheric Research, 169: 139-146.   \nHannachi A,JolieITtepensonD.O7.Empicalotogoaluctionsdrelatedtchiquesinatmosphericsiece: A review. International Journal of Climatology, 27(9): 1119-1152.   \nHaque A. 2Oo3.Estimating actual areal evapotranspiration from potential evapotranspirationusing physical models based on complementaryrelationshipsand meteorologicaldata.Buletinof Engineering GeologyandtheEnvironment,62(1):57-63.   \nHeld IM,Soden BJ.2Ooo. Water vapor fedbackand global warming.Annual Reviewof Energyand the Environment,25(1): 441-475.   \nHeld IM,Soden BJ.206.Robustresponses of the hydrologicalcycle to global warming.Joural ofClimate,19(21):5686- 5699.   \nHuang J,Guan X,JiF.2012.Enhancedcold-seasonwarming insm-aridregions.AtmosphericChemistryandPhsics,(12): 5391-5398.   \nHuo Z,Dai X,FengS,etal.2O13.Effectofclimatechange onreferenceevapotranspirationandaridity index inaridregionof China. Journal of Hydrology, 492: 24-34.   \nIwasaki H.2016.Recent variations in surface specific humidityin the warm season over Japan. Theoretical and Applied Climatology, 123(3-4): 845-858.   \nJian D,LiX,SunH,etal.218.Estimationofactualevapotransprationbytecomplementarytheorybasedadvectioardity model in the Tarim River Basin, China. Journal of Hydrometeorology, 19(2): 289-303.   \nKaiser HF.1958.The varimax criterion for analytic rotation in factor analysis.Psychometrika,23(3): 187-200.   \nKang S,EltahirEAB.218.North China Plain threatenedbydeadly heatwaves duetoclimatechange and irigation.Nature Communications, 9(1): 2894.   \nKozak M,Kang M S.2006.Note on modern path analysis in application tocrop science.Communications inBiometry and Crop Science,1(1): 32-34.   \nLi B,CenY,ShiX,etal.203.Tmperatureandprecipitatiocangesidierenteviomentsintearidegonofotest China. Theoretical and Applied Climatology, 112(3-4): 589-596.   \nLi B,Chen Y,Chen Z,etal.2016.Whydoes precipitation in northwest China showa significant increasing trendfrom1960 to 2010?. Atmospheric Research, 167: 275-284.   \nLiL,Zha Y.2018.Mappingrelative humidityaverage andextreme temperature inhotsummeroverChina.ScienceofTheTotal Environment, 615: 875-881. eaiuaia Journal of Arid Land, 3(2): 132-140.   \nLian T,ChenD.2012.An evaluation ofrotated EOFanalysis anditsapplication totropical Pacific SSTvariability.Journal of Climate,25(15): 5361-5373.   \nLiu C,ChenY,Xu Z.2010.Eco-hydrologyand sustainabledevelopmentin thearid regionsof China. Hydrological Processes: An International Journal, 24(2): 127-128.   \nLiu S,Bai J,Jia Z,etal.200.Estimationof evapotranspration in the Mu Us Sandlandof China. HydroogyandEarth System Sciences,14(3): 573-584.   \nLiu Z,MenzelL,Dong C,etal.2016.Temporal dynamics and spatial paterns of droughtandthe relationtoENSO: acase study in Northwest China. International Journal of Climatology, 36(8): 2886-2898.   \nLorenzEN.1956.Empiricalorthogonalfunctions and statistical weatherprediction. Maschusets: Massachusets Istituteof Technology.   \nLuE,TakleES.2Ol0.Spatialvariabilitiesandtheirelationshipsof tetrendsoftemperature,watervapor,andprecipiationin the North American Regional Reanalysi. Journal of Geophysical Research: Atmospheres,115(D6): 620-631.   \nMa Z,FuC.2o3.Interanualcharacteristicsof thesurfacehydrologicalvariablesoverthearidandsem-aridareasoforther China. Global and Planetary Change,37(3-4): 189-200.   \nMoratielR,SorianoB,CentenoA,ealOl7.Wet-bulb,dewpont,andir temperaturetrendsinSain.oreticaladlid Climatology, 130(1-2): 419-434.   \nPeng D,Zhou T.2O17. Why was the arid and semiarid northwest China getting weterin therecent decades?.Journal of Geophysical Research: Atmospheres, 122(17): 9060-9075.   \nPenman HL.1948. Natural evaporation from open water,bare soil and gras.Proceedings of theRoyal SocietyofLondon.Series A. Mathematical and Physical Sciences,193(1032): 120-145.   \nPiao S,Ciais P,Huang Y,et al.2010.The impacts of climatechange on waterresourcesand agriculture inChina.Nature, 467(7311): 43-51.   \nPriestleyC HB,TaylorRJ.1972.On theasessmentofsurface heat flux and evaporation using large-scale parameters. Monthly Weather Review, 100(2): 81-92.   \nRichman M B. 1986. Rotation of principal components. Journal of Climatology, 6(3): 293-335.   \nRichman MB,Gong X.1999.Relationships between thedefinitionofthe hyperplane width tothefidelityofprincipalcomponent loading patterns. Journal of Climate,12(6): 1557-1576.   \nRobinson PJ.1998. Monthly variations of dew point temperature inthecoterminous United States. International Journal of Climatology, 18(14): 1539-1556.   \nRobinsonPJ.oo.Tmporaltrends inUnitedStatesdewointemperatures.InternationalJournalofClimatology(9):985 1002.   \nSherwood SC,MeyerCL.20o6.The generalcirculationand robust relative humidity.Journalof Climate,19(24): 6278-6290.   \nShi Y,Shen Y,KangE,etal.2O.RecentandfutureciatechangeinorthwestChina.CmaticChange,0(3-4):379-393.   \nSimmonsAJ,WilettKM,JonesPD,etal.O0.Low-frequencyvariationsinsurfaceatmosphericumiditytemperatue,ad precipitation: Inferences from reanalyses and monthly gridded observational data sets.Journal of Geophysical Research: Atmospheres,115(D1), doi: 10.1029/2009JD012442.   \nSong Y,Liu Y,Ding Y. 2012.Astudy of surface humidity changes inChina during therecent 50 years.Acta Meteorologica Sinica, 26(5): 541-553.   \nSu B,Jian D,Li X,et al.2017.Projectionof actual evapotranspiration usingtheCOSMO-CLMregional climate modelunder global warming scenarios of $1 . 5 ^ { \\circ } \\mathrm { C }$ and $2 . 0 ^ { \\circ } \\mathrm { C }$ in the Tarim River basin, China. Atmospheric Research,196: 119-128.   \nSu B,Huang J,Fischer T,et al. 2018. Drought losses in China might double between the $1 . 5 ^ { \\circ } \\mathrm { C }$ and $2 . 0 ^ { \\circ } \\mathrm { C }$ warming. Proceedings of the National Academy of Sciences,115(42): 10600-10605.   \nSunS,ChenH,WangG,etal.26.Shiftinotentialevapotraspiratinnditsimplatiosfordryess/wetnsoverouthest China. Journal of Geophysical Research: Atmospheres,121(16): 9342-9355.   \nSurrattG,AronowiczJ,Shie Wetal.2o4.Change inaqueous tearevaporationwithchange inrelative humidity.Ivstigatie Ophthalmology & Visual Science, 45(13): 92-92.   \nTrenberth KE,DaiA,Rasmussen RM,etal.2O03.Thechanging characterof precipitation.Bulletinof theAmerican Meteorological Society, 84(9): 1205-1218.   \nVincent LA,van Wijngaarden WA,Hopkinson R.2Oo7.Surface temperature and humidity trends in Canada for1953-2005. Journal of Climate, 20(20): 5100-5113.   \nWang H,ChenY,PanY,etal.2O15.Spatialand temporalvarabilityof droughtinthearidregionofChinaanditsrelatisips to teleconnection indices. Journal of Hydrology, 523: 283-296.   \nWang J,Ren Y20o5.Studyon the change of precipitation and general circulation in Xinjiang. Arid Zone Research,(3): 326- 331. (in Chinese)   \nWangJW, Wang K,PielkeRA,etal.28.TowardsarobustestonNorth Americawarming trendandprecipitablewatercontent increase. Geophysical Research Letters,35(18), doi: 10.1029/2008GL034564.   \nWang X,Liang P,Li C,etal.2O14. Analysisofregionaltemperature variationcharacteristics inthe LancangRiverBasinin southwestern China. Quaternary International, 333: 198-206.   \nWang X,CuiG,WuF,etal.2O15.Analysisof temporal-spatial precipitation variationsduringthecropgrowth priod inthe Lancang River basin, southwestern China. Ecological Engineering, 76: 47-56.   \nWang Z,LiJ,LaiC,etal.2017.Does droughtinChina showasignificantdecreasing trendfrom1961 to209?.Scienceofthe Total Environment, 579: 314-324.   \nWei W,ZhangR,WenM,etal.2O17.RelationshipbetweentheAsianwesterlyjetstreamandsummerrinfalloverCentralAsia and North China: Roles of the Indian monsoon and the South Asian High. Journal of Climate,30(2): 537-552.   \nWilett KM,GilettNP,Jones PD,etal.O7.Atributionofbserved surface humditychanges toumaninfluene.Nature, 449(7163): 710-712.   \nWilett K M,Jones PD,GilettNP,etal.208.Recentchangesinsurface humidity: Developmentof the HadCRUHdataset. Journal of Climate, 21(20): 5364-5383.   \nWilett KM,JonesPD,ThornePW,etal.20l0.Acomparisonoflargescalechangesinsurfacehumidityoverlandinberations and CMIP3 general circulation models. Environmental Research Letters, 5(2): 025210.   \nWright S. 1921. Correlation and causation. Journal of Agricultural Research, 2O(7): 557-585.   \nWright S.1934. The method of path coeficients. The annals of mathematical statistics,5(3): 161-215.   \nXie B, Zhang Q, Ying Y.2011Trends in precipitable water and relative humidity in China: 1979-2005.Journal of Applied Meteorology and Climatology,50(10): 1985-1994.   \nXing N,Zhou H,Shang K,etal.2O10.Therelationshipbetweendroughti Xinjiangandupper-air meridionalcirculationover the Tibetan Plateau. Journal of Arid Land Resources and Environment,24(12): 121-127. (in Chinese)   \nXuL, ZhouH,Liang C,etal.2l.Spatialandtemporalvariabilityofanualandseasonalprecipitatiooverthedsertregion of China during 1951-2005. Hydrological Processes, 24(20): 2947-2959.   \nYao J, Zhao Y,Chen Y,etal.2O18.Multi-scaleassssmentsof droughts:acasestudyin Xinjang,China.ScienceofeTotal Environment, 630: 444-452.   \nYou Q,Kang S,Aguilar E,etal.2O11. Changes in dailyclimate extremes in Chinaand theirconnection to the large scale atmospheric circulation during 1961-2003. Climate Dynamics,36(11-12): 2399-2417.   \nYu M,Li Q, Hayes M J, et al. 2O14. Are droughts becoming more frequent or severe in China basedon the standardized precipitation evapotranspiration index: 1951-2010?. International Journal of Climatology, 34(3): 545-558.   \nYuanH,TengJ,LiJ,etal.2O10.Spati-temporalfeaturesofhightemperatureanddroughtinsouther Xinjiangisumerand its anomalous circulation paterns.Journalof AridLand Resources and Environment,24(12):73-79.(inChinese)   \nYuan W,Zou L,Sun J.2O09.Temporaland spatialvariations of thesummer air temperature in Xinjiang Regionand their relationshipswithatmosphericcirculationin1961-2005.JoualofGacilogyandGeocryology31(5):801-807.(inChiese)   \nZhang F,LiL,Ahmad S,et al.2014.Usingpath analysis to identifytheinfluenceof climatic factors on spring peak flow dominated by snowmelt in an alpine watershed. Journal of Mountain Science,11(4): 990-1000.   \nZhang Z,LiuL,Tang X.2O12.Theregionaldiferenceandabrupteventsofclimaticchange inTianshanMountainsduring196 2010. Progress in Geography, 31(11): 1475-1484.   \nZhao Y,Wang M Z, Huang A N,etal.2O14.Relationships between the West Asian subtropical westerly jet and summer precipitation in northern Xinjiang. Theoretical and Applied Climatology, 116(3-4): 403-411. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Appendix ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/842aa5b1781d4d59fe65f93d2b64bbfc37c0c52334aebf4b5bdda908b4a7e892.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Appendix</td><td colspan=\"4\"> Details of meteorological stations in Hexi Corridor</td></tr><tr><td>Table S1</td><td>Latitude (oN)</td><td>Longitude (E)</td><td>Elevation (m)</td></tr><tr><td>Station number</td><td>Station name</td><td></td><td></td><td></td></tr><tr><td>52267</td><td>Ejin Banner</td><td>41.95</td><td>101.07</td><td>940.5</td></tr><tr><td>52323</td><td> Mazongshan</td><td>41.80</td><td>97.03</td><td>1770.4</td></tr><tr><td>52418</td><td> Dunhuang</td><td>40.15</td><td>94.68</td><td>1139.0</td></tr><tr><td>52424</td><td>Anxi</td><td>40.53</td><td>95.77</td><td>1170.9</td></tr><tr><td>52436</td><td>Yumenzhen</td><td>40.27</td><td>97.03</td><td>1526.0</td></tr><tr><td>52446</td><td>Dingxin</td><td>40.30</td><td>99.52</td><td>1177.4</td></tr><tr><td>52447</td><td> Jinta</td><td>40.00</td><td>98.90</td><td>1270.5</td></tr><tr><td>52495</td><td>Bayan Nuru</td><td>40.17</td><td>104.80</td><td>1323.9</td></tr><tr><td>52533</td><td> Jiuquan</td><td>39.77</td><td>98.48</td><td>1477.2</td></tr><tr><td>52546</td><td>Gaotai</td><td>39.37</td><td>99.83</td><td>1332.2</td></tr><tr><td>52576</td><td>Alagxa Right Banner</td><td>39.22</td><td>101.68</td><td>1510.1</td></tr><tr><td>52652</td><td> Zhangye</td><td>38.93</td><td>100.43</td><td>1482.7</td></tr><tr><td>52661</td><td> Shandan</td><td>38.80</td><td>101.08</td><td>1764.6</td></tr><tr><td>52674</td><td>Yongchang</td><td>38.23</td><td>101.97</td><td>1976.9</td></tr><tr><td>52679</td><td>Wuwei</td><td>37.92</td><td>102.67</td><td>1531.5</td></tr><tr><td>52681</td><td>Minqin</td><td>38.63</td><td>103.08</td><td>1367.5</td></tr><tr><td>52787</td><td>Wushaoling</td><td>37.20</td><td>102.87</td><td>3045.1</td></tr><tr><td>53502 53602</td><td> Jilantai</td><td>39.78</td><td>105.75</td><td>1031.8</td></tr><tr><td></td><td>Alagxa Left Banner</td><td>38.83</td><td>105.67</td><td>1561.4</td></tr><tr><td></td><td>Table S2</td><td>Details of meteorological stations in North Xinjiang</td><td></td><td></td></tr><tr><td>Station number</td><td> Station name</td><td>Latitude (oN)</td><td>Longitude (°E)</td><td>Elevation (m)</td></tr><tr><td>51053</td><td>Habahe</td><td>48.05</td><td>86.40</td><td>532.6</td></tr><tr><td>51059</td><td> Jeminay</td><td>47.45</td><td>85.88</td><td>968.2</td></tr><tr><td>51060</td><td> Burqin</td><td>47.70</td><td>86.87</td><td>473.9</td></tr><tr><td>51068</td><td>Fuhai</td><td>47.12</td><td>87.48</td><td>497.0</td></tr><tr><td>51076</td><td> Altay</td><td>47.73</td><td>88.08</td><td>735.3</td></tr><tr><td>51087</td><td> Fuyun</td><td>46.98</td><td>89.52</td><td>860.4</td></tr><tr><td>51133</td><td>Tacheng</td><td>46.73</td><td>83.00</td><td> 534.9</td></tr><tr><td>51137</td><td>Yumin</td><td>46.20</td><td>82.93</td><td>715.7</td></tr><tr><td>51145</td><td>Emin</td><td>46.55</td><td>83.65</td><td>523.6</td></tr><tr><td>51156</td><td>Hefeng</td><td>46.82</td><td>85.75</td><td>1322.1</td></tr><tr><td>51186</td><td>Qinghe</td><td>46.07</td><td>90.38</td><td>1218.2</td></tr><tr><td>51232 51238</td><td>Alashankou Bole</td><td>45.18</td><td>82.57</td><td>369.8</td></tr><tr><td>51241</td><td>Tuoli</td><td>44.90 45.93</td><td>82.07 83.60</td><td>532.2</td></tr><tr><td>51243</td><td> Karamay</td><td>45.62</td><td>84.85</td><td>1094.2</td></tr><tr><td>51288</td><td>Beitashan</td><td></td><td>90.53</td><td>450.3</td></tr><tr><td>51330</td><td></td><td>45.37</td><td></td><td>1653.7</td></tr><tr><td></td><td>Wenquan</td><td>44.97</td><td>81.02</td><td>1357.8</td></tr><tr><td>51334</td><td> Jinghe</td><td>44.57</td><td>82.82</td><td>329.2</td></tr><tr><td>51346</td><td>Wusu</td><td>44.43</td><td>84.07</td><td>478.7</td></tr><tr><td>51352</td><td>Paotai</td><td>44.85</td><td>85.25</td><td>337.1</td></tr><tr><td>51356</td><td>Shihezi</td><td>44.32</td><td>86.05</td><td>444.2</td></tr><tr><td>51357</td><td> Shawan</td><td>44.33</td><td>85.62</td><td>347.9</td></tr><tr><td>51365</td><td>Caijiahu</td><td>44.20</td><td>87.53</td><td>440.5</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/b3605389f550710b9dbdb6fdd18dc9418ef8a45c508500a79f50dbdeb4006e9f.jpg",
+        "table_caption": [
+            "CHEN Ditao et al.: Spatial-temporal characteristics and influencing factors of relative humidity in.. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">Continued</td></tr><tr><td>Station number</td><td>Station name</td><td>Latitude (°N)</td><td>Longitude (E)</td><td>Elevation (m)</td></tr><tr><td>51378</td><td> Jimsar</td><td>44.02</td><td>89.17</td><td>735.9</td></tr><tr><td>51379</td><td>Qitai</td><td>44.02</td><td>89.57</td><td>793.5</td></tr><tr><td>51430</td><td>Qapqal</td><td>43.83</td><td>81.15</td><td>605.4</td></tr><tr><td>51431</td><td>Yining</td><td>43.95</td><td>81.03</td><td>662.5</td></tr><tr><td>51433</td><td>Nilka</td><td>43.80</td><td>82.52</td><td>1105.3</td></tr><tr><td>51437</td><td>Zhaosu</td><td>43.15</td><td>81.13</td><td>1851.0</td></tr><tr><td>51463</td><td>Urumqi</td><td>43.78</td><td>87.65</td><td>935.0</td></tr><tr><td>51465</td><td>Xiaoquzi</td><td>43.48</td><td>87.10</td><td>1874.7</td></tr><tr><td>51468</td><td>Daxigou</td><td>43.10</td><td>86.83</td><td>3539.0</td></tr><tr><td>51470</td><td>Tianchi</td><td>43.88</td><td>88.12</td><td>1942.5</td></tr><tr><td>51477</td><td>Dabancheng</td><td>43.35</td><td>88.32</td><td>1103.5</td></tr><tr><td>51482</td><td>Mori</td><td>43.83</td><td>90.28</td><td>1272.3</td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/aaa3b2b13f118b2c49867b8b25097e6b7e9255145d8973b83693ac651cfe14b5.jpg",
+        "table_caption": [
+            "Table S3 Details of meteorological stations in South Xinjiang "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">fabicbs ororoglcarst SoutnAnjiang</td></tr><tr><td>Station number</td><td>Station name</td><td>Latitude (°N) 42.77</td><td>Longitude (E) 86.03</td><td>Elevation (m) 1732.4</td></tr><tr><td>51467 51495</td><td>Balguntay</td><td>43.22</td><td>91.73</td><td>721.4</td></tr><tr><td></td><td>Shisanjianfang</td><td></td><td>88.22</td><td>922.4</td></tr><tr><td>51526 51542</td><td>Kumux Bayanbulak</td><td>42.23 43.03</td><td>84.15</td><td>2458</td></tr><tr><td>51567</td><td>Yanqi</td><td>42.08</td><td>86.57</td><td>1055.3</td></tr><tr><td>51573</td><td>Turpan</td><td>42.95</td><td>89.23</td><td>39.3</td></tr><tr><td>51581</td><td>Shanshan</td><td>42.85</td><td>90.23</td><td>398.6</td></tr><tr><td>51628</td><td>Aksu</td><td>41.12</td><td>80.38</td><td></td></tr><tr><td>51633</td><td>Baicheng</td><td>41.78</td><td>81.90</td><td>1107.1 1229.2</td></tr><tr><td>51639</td><td>Xayar</td><td>41.23</td><td>82.78</td><td></td></tr><tr><td>51642</td><td>Luntai</td><td>41.82</td><td>84.27</td><td>980.4</td></tr><tr><td>51644</td><td>Kuqa</td><td>41.72</td><td>82.97</td><td>982.0</td></tr><tr><td>51655</td><td>Yuli</td><td>41.35</td><td></td><td>1081.9</td></tr><tr><td>51656</td><td>Korla</td><td>41.73</td><td>86.27</td><td>884.9</td></tr><tr><td>51701</td><td>Tuergate</td><td>40.52</td><td>85.82</td><td>899.8</td></tr><tr><td>51704</td><td>Artux</td><td>39.72</td><td>75.40</td><td>3504.4</td></tr><tr><td>51705</td><td>Wuqia</td><td>39.72</td><td>76.02</td><td>1298.7</td></tr><tr><td>51709</td><td>Kashi</td><td></td><td>75.25</td><td>2175.7</td></tr><tr><td>51711</td><td></td><td>39.48</td><td>75.75</td><td>1385.6</td></tr><tr><td>51716</td><td>Akqi</td><td>40.93</td><td>78.45</td><td>1985.1</td></tr><tr><td>51720</td><td>Bachu</td><td>39.80</td><td>78.57</td><td>1116.5</td></tr><tr><td>51730</td><td>Kalpin</td><td>40.05</td><td>79.05</td><td>1161.8</td></tr><tr><td>51765</td><td>Aral</td><td>40.55</td><td>81.27</td><td>1012.2</td></tr><tr><td>51777</td><td>Tikanlik</td><td>40.63 39.03</td><td>87.70 88.02</td><td>846.0</td></tr><tr><td>51804</td><td>Ruoqiang Taxkorgan</td><td>37.77</td><td>75.23</td><td>887.7 3090.1</td></tr><tr><td>51811</td><td>Shache</td><td>38.43</td><td>77.27</td><td>1231.2</td></tr><tr><td>51818</td><td>Pishan</td><td>37.62</td><td>78.28</td><td>1375.4</td></tr><tr><td>51828</td><td>Hotan</td><td>37.13</td><td>79.93</td><td>1375.0</td></tr><tr><td>51839</td><td>Minfeng</td><td>37.07</td><td>82.72</td><td>1409.5</td></tr><tr><td>51855</td><td>Qiemo</td><td>38.15</td><td>85.55</td><td>1247.2</td></tr><tr><td>51931</td><td>Yutian</td><td>36.85</td><td>81.65</td><td>1422.0</td></tr><tr><td>52101</td><td>Barkol</td><td>43.60</td><td>93.05</td><td>1679.4</td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/7c2ffcedafa1237b752b585a764ff7d4d927eb0cb625c3822e9fc26d7a61e5d2.jpg",
+        "table_caption": [
+            "JOURNALOFARIDLAND "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Station number</td><td>Station name</td><td>Latitude (°N)</td><td>Longitude (E)</td><td>Elevation (m)</td></tr><tr><td>52112</td><td>Naomaohu</td><td>43.75</td><td>94.98</td><td>479.0</td></tr><tr><td>52118</td><td>Yiwu</td><td>43.27</td><td>94.70</td><td>1728.6</td></tr><tr><td>52203</td><td>Hami</td><td>42.82</td><td>93.52</td><td>737.2</td></tr><tr><td>52313</td><td>Hongliuhe</td><td>41.53</td><td>94.07</td><td>1573.8</td></tr><tr><td>51571</td><td>Toksun</td><td>42.80</td><td>88.63</td><td>2.0</td></tr><tr><td>51636</td><td>Xinhe</td><td>41.53</td><td>82.62</td><td>1014.5</td></tr><tr><td>51707</td><td>Jiashi</td><td>39.50</td><td>76.73</td><td>1208.6</td></tr><tr><td>51717</td><td>Yopurgha</td><td>39.25</td><td>76.78</td><td>1206.3</td></tr><tr><td>51802</td><td>Yengisar</td><td>38.93</td><td>76.17</td><td>1297.5</td></tr><tr><td>51810</td><td>Markit</td><td>38.92</td><td>77.63</td><td>1177.6</td></tr><tr><td>51826</td><td>Qira</td><td>37.02</td><td>80.80</td><td>1336.5</td></tr></table></body></html>",
+        "page_idx": 15
+    }
+]

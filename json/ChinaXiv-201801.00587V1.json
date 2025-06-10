@@ -1,0 +1,495 @@
+[
+    {
+        "type": "text",
+        "text": "Weighted Sum of Gray Gases Model Optimization for Numerical Investigations of Processes inside Pulverized Coal-Fired Furnaces ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nenad Crnomarkovic\\*, Srdjan Belosevic, Ivan Tomanovic, Aleksandar Milicevic ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "University of Belgrade,Vinca Institute of Nuclear Sciences,P. O.Box 522,11001 Belgrade, Serbia ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The effects of the numberof significant figures (NSF) in the interpolation polynomial coeffcients (IPCs) of the weighted sum of gray gases model(WSGM) on results of numerical investigations and WSGM optimization were investigated.The investigation was conducted using numerical simulations of the processes inside a pulverized coal-fired furnace.The radiative properties of the gas phase were determined using the simple gray gas model (SG),two-term WSGM(W2),and three-term WSGM(W3).Ten sets of the IPCs with the same NSF were formed for every weighting coeficient in both W2 and W3.The average and maximal relative diference values of the flame temperatures,walltemperatures,and wall heat fluxes were determined. The investigation showed that the results of numerical investigations were affected by the NSF unlessit exceeded certain value.The increase in the NSF did not necessarily lead to WSGM optimization.The combination of the NSF(CNSF） was the necessary requirement for WSGM optimization. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Furnace,Numerical simulation,Significant figure, Weighted sum of gray gases model, Optimization ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In numerical investigations of the processes taking place inside pulverized coal-fired furnaces,the radiative properties of the gas-phase combustion products are often modeled using the weighted sum of gray gases model (WSGM) [1, 2], by which the real gas is replaced by a mixture consisting of several gray gases plus one clear gas. The radiative properties of every gray gas are defined by a temperature-dependent weighting coeficient and constant absorption coefficient. The form of the weighting coefficient dependence on temperature is a polynomial of selected order. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SeveralWSGMs have been developed so far,inclu ding spectral line based WSGM[3], narrow band based WSGM [4],and WSGM based on total radiative properties [5]. The effects of the number of gray gases in the ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WSGM on thecalculationoftheradiative heattransfer for the spectral line based WSGM was described by Coelho [6],who used 3 and 2O gray gases to evaluate perfor mances of two radiation models for the calculation of wall fluxes and radiative heat sources inside a rectangular 3-D enclosure with fixed temperature and concentration distributions.The exact solution was obtained using the statistical narrow-band model [7].An increase in the number of gray gases from 3 to 20 reduced the average and maximal relative errors,but in many cases the level of reduction was small. Park and Kim [8] used the regrouping technique to investigate the possibility of reducing the number of gray gases of the narrow band based WSGM. The exact values of the wall fluxes and average intensity of radiation inside the cubic 3-D enclosure with fixed temperature and concentration spatial distributions were found using the statistical narrow-band model. ",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/7e1e03dff2ec66214b5dd20de4bac631edf045e334aa0112de2ab071f7fe8f5b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">Nomenclature</td></tr><tr><td>A</td><td>surface area [m²]</td><td></td><td>dissipation of the turbulent kinetic energy [m²s3]</td></tr><tr><td>a</td><td>weighting coefficient [-]</td><td>p</td><td>density [kg m-3]</td></tr><tr><td>B</td><td>polynomial coefficient [-]</td><td>Φ</td><td>time-averaged general variable</td></tr><tr><td>Eb</td><td>blackbody emissive power [W m-2]</td><td>Subscripts</td><td></td></tr></table></body></html>",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/4bc3ae0513b421c510337b047fc6c6cbce5c77eea0104b9bcb7738daa7b11165.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>GiG</td><td>volume-volume total exchange area [m²]</td><td>al</td><td>ash layer</td></tr><tr><td>GGj</td><td>volume-volume directed flux area [m²]</td><td>bw</td><td>boiling water</td></tr><tr><td>GS</td><td>volume-surface total exchange area [m²]</td><td>dp</td><td>dispersed phase</td></tr><tr><td>GS</td><td>volume-surface directed flux area [m²]</td><td>gp</td><td>gas phase</td></tr><tr><td>H</td><td>enthalpy[Jkg-1]</td><td>gg</td><td>gray gas</td></tr><tr><td>H</td><td>convection heat transfer coefficient [W m² K-1]</td><td>f</td><td>flame</td></tr><tr><td>k</td><td>turbulent kinetic energy [m² s2]</td><td>ml</td><td>metal layer</td></tr><tr><td>k</td><td>thermal conductivity [W m-1 K-1]</td><td>p</td><td>particle</td></tr><tr><td>K</td><td>absorption coefficient [m-1]</td><td>r</td><td>total number of significant figures</td></tr><tr><td>Ks</td><td>scattering coefficient [m-1]</td><td>rad</td><td>radiation</td></tr><tr><td>1</td><td>layer thickness [m]</td><td>SZ</td><td>surface zones</td></tr><tr><td>N</td><td>total number [-]</td><td>VZ</td><td>volume zones</td></tr><tr><td>q</td><td>heat flux [W m2]</td><td>W</td><td>wall</td></tr><tr><td>Q</td><td>heat transfer rate [W]</td><td>Φ</td><td>related to variable Φ</td></tr><tr><td>sS,</td><td> surface-surface total exchange area [m²]</td><td>Abbreviations</td><td></td></tr><tr><td>s.s</td><td>surface-surface directed flux area [m²]</td><td>CNSF</td><td>combination of the number of significant figures</td></tr><tr><td>sG</td><td>surface-volume directed flux area [m²]</td><td>IPC</td><td>interpolation polynomial coefficient</td></tr><tr><td>S</td><td> source term for the gas-phase variable Φ</td><td>NSF</td><td>number of significant figures</td></tr><tr><td>T</td><td>temperature [K]</td><td>RPM</td><td>radiative property model</td></tr><tr><td>U</td><td> time-averaged velocity vector [m s-1]</td><td>SG</td><td> simple gray gas model</td></tr><tr><td>V</td><td>volume [m³]</td><td>TEA</td><td>total exchange area</td></tr><tr><td>Greek symbols</td><td></td><td>WSGM</td><td>weighted sum of gray gases model</td></tr><tr><td></td><td>transport coefficient [kg m-1 s-1]</td><td>W2</td><td>two-terms WSGM</td></tr><tr><td>8</td><td>relative difference [%]</td><td>W3</td><td>three-terms WSGM</td></tr><tr><td>0</td><td>total emissivity [-]</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Nine hundred gray gases were replaced by 3, 5,7,10, 15, and 2O gray gases. The average and maximal relative errors generally decreased with the increase in the number of gray gases and when the number of gray gases became bigger than 5,the reduction of the average and maximal relative errors became small. Investigations reported in[7,8] showed that the increase in the number of gray gases in WSGM led to exact solution, and also showed that the average and maximal errors were not considerably reduced when the number of gray gases exceeded a certain number. That results,obtained for enclosures with fixed temperature and concentration fields,indicated the possibilities of the optimization of the number of gray gases in WSGM, that is WSGM optimization. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Crnomarkovic et al.[9] investigated the optimization ofWSGM basedon total radiativeproperties. Investigations were carried out for the process inside a pulverized coal-fired furnace of a utility scale boiler. All variables of the flow field were obtained from the numerical simulations. Gas-phase radiative properties were determined by the simple gray gas model (SG), two-term (one gray gas plus one clear gas) WSGM(W2), and three-term (two gray gases plus one clear gas) WSGM (W3). Three sets of the flame radiative properties were formed. The interpolation polynomial coefficients (IPCs) were determined with seven significant figures. The investigation showed that WSGM could be optimized for one set of the flame radiative properties. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This research was conducted to further elucidate the effects of the number of significant figures (NSF) in the IPCs on numerical investigations. Objectives of the in vestigation were twofold: ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1) To find effects of the NSF on results of numerical investigations. This research was expected to reveal possible limitation in the NSF. (2) To find effects of the NSF on WSGM optimization. This research was expected to show if the increase in the NSF necessarily led to WSGM optimization. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This research used the gas-phase radiative property models from previous one [9].Ten sets of the IPCs with the same NSF for each weighting coefficient in W2 and W3 were formed and numerical simulations were run for every set of the IPC.As the exact values of variables werenot known,the relative differences of the selected variables were used insteadofrelative errors.The term WSGM optimization implied the decrease of the relative differences of variableswiththe increase in thenumber of gray gases. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The investigation was conducted using an in-house developed computer code.The shape and dimensions of the case-study furnace and coal properties are described in [1O]. The furnace of a $2 1 0 ~ \\mathrm { M W }$ monoblock unit is tangentially fired with domestic lignite Kolubara. The furnace is $4 5 . 0 \\mathrm { ~ m ~ }$ high, $1 6 . 5 \\mathrm { ~ m ~ }$ wide, and $1 4 . 5 \\mathrm { ~ m ~ }$ deep. The furnace is equipped with six jet burners,five of which being in constant operation in the test-cases considered.The following three sections outline the mathematical model with the method of analysis,obtained results with discussion, and conclusions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Mathematical model and determination of the relativedifferences ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A description of the mathematical model of the reactive turbulent two-phase flow with radiative heat exchange process taking place inside the furnace can be found in [9-12].Here, the most important model characteristics are described. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The gas phase is described by the time-averaged partial differential equations for the conservations of momentum, enthalpy, gas-phase concentrations,turbulent kinetic energy,and its dissipation rate in the Eulerian reference frame. The general form of the gas-phase equation is the following: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { d i v } \\big ( \\rho \\mathbf { U } \\phi \\big ) = \\mathrm { d i v } \\big ( \\varGamma _ { \\phi } \\mathrm { g r a d } \\phi \\big ) + S _ { \\phi } + S _ { \\phi , \\mathrm { p } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $S _ { \\phi , \\mathfrak { p } }$ is the source term for $\\phi$ due to presence of particles.The set of equations is closed by $k { - } \\varepsilon$ turbulence model. The pressure field is solved using the SIMPLE algorithm.The flame temperature distribution is obtained for the condition of thermodynamic equilibrium between the gas and dispersed phases [11]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The dispersed phase is described bythe differential equations for motion and changes in mass and energy in the Lagrangian reference frame,with PSI-Cell method for influence on the gas phase.Heterogeneous reactions taking place during coal combustion are modeled in the kinetic-diffusion regime,with the combustion model as described in [12]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Radiative heat exchange is determined by the Hottel's zonal model, by which furnace space and walls are divided into volume and surface zones,respectively. The purpose of radiation model in numerical simulations is to find the source term due to radiation for the enthalpy equation as well as wall heat fluxes.When WSGM is used,the source term for the enthalpy equation is the following [13]: ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle S _ { H , \\mathrm { r a d } , i } = \\sum _ { m = 1 } ^ { N _ { \\mathrm { v z } } } \\overrightarrow { G _ { m } G _ { i } } E _ { \\mathrm { b } , m } + \\sum _ { n = 1 } ^ { N _ { \\mathrm { s z } } } \\overrightarrow { S _ { n } G _ { i } } E _ { \\mathrm { b } , n } } } \\\\ { { \\displaystyle ~ - 4 \\sum _ { j = 0 } ^ { N _ { \\mathrm { g z } } } a _ { g } \\left( T \\right) K _ { a , g } V _ { i } E _ { \\mathrm { b } , i } } , \\left. i = 1 , . . . , N _ { \\mathrm { v z } } \\right. }  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\overrightarrow { G _ { m } G _ { i } } = \\sum _ { g = 0 } ^ { N _ { \\mathrm { g g } } } a _ { g } \\left( T _ { m } \\right) \\overrightarrow { G _ { m } G _ { i } } \\mathrm { a n d } } \\\\ & { \\overrightarrow { S _ { n } G _ { i } } = \\sum _ { g = 0 } ^ { N _ { \\mathrm { g g } } } a _ { g } \\left( T _ { n } \\right) \\overrightarrow { S _ { n } G _ { i } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The index $j = 0$ designates the clear gas. TEAs are determined for the radiative properties of the gray gases. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The wall heat flux of a surface zone $s _ { i }$ is the difference between energy absorbed and lost divided by the surface area.When WSGMisused,itis expressed as: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { q _ { \\mathrm { w } , i } = \\frac { \\displaystyle \\sum _ { m = 1 } ^ { N _ { \\mathrm { v } 2 } } \\overrightarrow { G _ { m } S _ { i } } E _ { \\mathrm { b } , m } + \\sum _ { n = 1 } ^ { N _ { \\mathrm { s z } } } \\overrightarrow { S _ { n } S _ { i } } E _ { \\mathrm { b } , n } - A _ { i } \\partial _ { i } E _ { \\mathrm { b } , i } } { A _ { i } } } \\\\ { i = 1 , \\dots , N _ { \\mathrm { s z } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\overrightarrow { G _ { m } S _ { i } } = \\sum _ { g = 0 } ^ { N _ { \\mathrm { g g } } } a _ { g } \\left( T _ { m } \\right) \\overrightarrow { G _ { m } S _ { i } } \\mathrm { a n d } } \\\\ & { \\overrightarrow { S _ { n } S _ { i } } = \\sum _ { g = 0 } ^ { N _ { \\mathrm { g g } } } a _ { g } \\left( T _ { n } \\right) \\overrightarrow { S _ { n } S _ { i } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Heat transfer rate through a surface zone $s _ { i }$ is a product of the wall heat flux and surface area: $\\dot { Q } _ { i } = q _ { \\mathrm { w } , i } A _ { i }$ whereas the rate at which heat is absorbed by boiling water is a summation of a heat transfer rates through all surfacezoneswhich represented thesolidwall: $\\dot { Q } _ { \\mathrm { b w } } = \\sum \\dot { Q } _ { i }$ ， ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "When SG is used, the directed flux areas in eqs. (2) and(3)are replaced by TEAs determined for one set of the flame radiative properties (absorption and scattering coefficients). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The absorption coefficients of the gas phase were calculated from total emissivities data and for temperature $T = 1 5 0 0 \\mathrm { ~ K ~ }$ . The gas-phase emissivities were found in temperature range of $6 0 0 { - } 2 4 0 0 \\mathrm { ~ K ~ }$ with a step of $5 0 ~ \\mathrm { K }$ using Leckner's model [14]. The absorption coefficient for the SG was $K _ { \\mathrm { a , g p } } = 0 . 0 7 ~ \\mathrm { m } ^ { - 1 }$ ，The absorption coefficients for the W2 and W3 were determined by the method described in [5]. For a two-phase mixture of gas with particles, each gray gas in WSGM actually becomes a gray medium whose absorption coefficient is the sum of absorption coefficients of the gray gas and dispersed phase and whose scattering coefficient is that of the dispersed phase [15]. The radiative properties of the gray gases for the W2 and W3 are given in Table 1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/afc8e5fb0900f8fe2cdae5a592f21fe74a58c33e3a27cda526516293c7d82e5e.jpg",
+        "table_caption": [
+            "Table1Radiative properties for the W2 and W3 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">gg</td><td colspan=\"2\">W2</td><td colspan=\"2\">W3</td></tr><tr><td>Ka</td><td>Ks</td><td>K</td><td>Ks</td></tr><tr><td>0</td><td>1.0</td><td>1.0</td><td>1.0</td><td>1.0</td></tr><tr><td>1</td><td>1.23</td><td>1.0</td><td>1.014</td><td>1.0</td></tr><tr><td>2</td><td></td><td></td><td>1.41</td><td>1.0</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The weighting coefficients were determined by fitting the emissivities data [5]. On the basis of previous investigation [9], the values of the weighting coefficients were interpolated using the third order polynomial: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\na _ { g } \\left( T \\right) = \\sum _ { j = 0 } ^ { 3 } b _ { g , j } \\left( \\frac { T } { 1 0 0 0 } \\right) ^ { j }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Thecoefficients $b _ { g , j }$ were determined with 10 significant figures via the least-squares method[16]. The coefficients are presented in Table 2 in normalized decimal floating-point form: $\\pm 0 . d _ { 1 } d _ { 2 } . . . d _ { r } { \\times } 1 0 ^ { - n }$ [17], ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The integer $n \\geq 0$ ,as well as $1 \\leq d _ { 1 } \\leq 9$ and $0 \\leq d _ { k } \\leq 9$ for each $k = 2 , . . , r$ ，The coefficient $a _ { 0 } = 1 . 0 - \\sum _ { g = 1 } ^ { N _ { \\mathrm { g g } } } a _ { g }$ The subscript $r$ designates the total NSF [18] and each digit $d _ { k }$ $( k = 1 , . . . , r )$ is a significant figure. The NSF in every coefficient was reduced by one using the rounding method until the polynomial coefficients with the single NSF were obtained. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The furnace walls consisted of two layers: a $4 . 0 \\ \\mathrm { m m }$ thick metal wall layer and a $0 . 3 \\ \\mathrm { m m }$ thick ash deposit layer.Wall temperatures are determined on the basis of $q _ { \\mathrm { w } }$ and conductive and convective heat transfer: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { \\mathrm { w } , i } = T _ { \\mathrm { b w } } + q _ { \\mathrm { w } , i } \\left( \\frac { 1 } { h } + \\frac { l _ { \\mathrm { m l } } } { k _ { \\mathrm { t , m l } } } + \\frac { l _ { \\mathrm { a l } } } { k _ { \\mathrm { t , a l } } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $T _ { \\mathrm { b w } } = 6 1 5 ~ \\mathrm { K }$ . The value of the convective heat transfer coefficient $( h = 1 4 . 0 \\mathrm { k W } \\mathrm { m } ^ { - 2 } \\mathrm { K } ^ { - 1 } )$ ）on the side of boiling water was adopted from [19]. The thermal conductivity of ash deposit layer is actually the effective thermal conductivity and its dependence on temperature is that from [20] (the sample whose silica ratio is 62), whereas the thermal conductivity of the metal layer is that of carbon steel [21,22].Wall emissivity is O.8. The gas-phase thermophysical properties are determined from the equation of state,tabulated values,and empirical relaions.The set of equations is solved by the finite-difference method. Discretization and linearization of the gas-phase equations are achieved using the control volumesandhybriddifferenceschememethods.Iterative procedure stability is provided by the under-relaxation ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "method. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b02d0e5c944f7ca39335fd9add9e4e9688fc10993bb8ce01d270c36037d055b7.jpg",
+        "table_caption": [
+            "Table 2Coefficients in the interpolation polynomials "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">j</td><td>W2</td><td colspan=\"2\">W3</td></tr><tr><td>a1</td><td>a1</td><td>a2</td></tr><tr><td>0 0.4246901182</td><td>0.3659433153</td><td>0.5638441144×10-l</td></tr><tr><td>1</td><td>0.4030451291</td><td>0.4457903327</td><td>-0.1790604993</td></tr><tr><td>2</td><td>-0.2618388217</td><td>-0.3326471831</td><td>0.2368749224</td></tr><tr><td>3</td><td>0.4089782078x10</td><td>0.5355003890×10-</td><td>-0.4040215113×10-l</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The relative differences are determined for the following variables: flame temperature $T _ { \\mathrm { f } } ,$ wall heat flux $q _ { \\mathrm { w } } ,$ and wall temperature $T _ { \\mathrm { w } }$ .To find effects of the NSF on results of numerical investigations,the relative differences were determined taking the values of the variables obtained with 1O significant figures as the reference values: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta _ { r , i } = \\frac { \\left| \\eta _ { r , i } - \\eta _ { 1 0 , i } \\right| } { \\eta _ { 1 0 , i } } \\times 1 0 0 . 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\eta$ stands for a variable.The subscripts $r$ and 10 in eq.(6) designate the NSF in the IPCs for which the variables were determined. Equation (6) was used to determine the relative differences of the rate of the absorbed heat. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To find effects of the NSF on WSGM optimization, the relative differences in the considered variables between W3 (on one side) and SG or W2 (on the other side) were determined taking thevaluesobtainedbytheW3 as thereferencevalues: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta _ { \\mathtt { R P M } , i } = \\frac { \\left| \\eta _ { \\mathtt { R P M } , i } - \\eta _ { \\mathtt { W 3 } , i } \\right| } { \\eta _ { \\mathtt { W 3 } , i } } \\times 1 0 0 . 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where the subscript RPM designates SG or W2.The relative differences were determined for the same and different NSF in the W2 and W3. The pair of the NSF used in both W2 and W3 composed the combination of the NSF (CNSF). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Average values of the relative differences were determined as the arithmetic mean of the values over all control volumes (for $T _ { \\mathrm { f } } )$ and all surface zones (for $q _ { \\mathrm { w } }$ and $T _ { \\mathrm { w } } )$ 1 For WSGM optimization, the investigation included both average and maximal values of relative differences and alsorelativedifferencesof the rate ofabsorbed heat. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Results and discussion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Radiative heat exchange was solved on the coarse numerical grid composed of the cubic volume zones with edge dimensions of $1 . 0 \\mathrm { ~ m ~ }$ 、The total numbers of volume and surface zones were 7956 and 2712,respectively. Direct exchange areas of the close zones were determined using the correlations given in [13]. TEAs were determined using the original emitters of radiation method [6],with the values of the TEAs then improved via the generalized Lawson's smoothing method [23]. The flow field was determined on the fine numerical grid, which was obtained by dividing each volume zone into 64 control volumes. The radiative energy source term of enthalpy equation, determined for every volume zone, was divided equally to all of its 64 control volumes. The total number of control volumes was 620 136.Agreement with experimental data and grid independence study were proved in [11],with the gas-phase radiative properties determined by the SG model.All results were obtained after 4000 iterations. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The effects of the NSF on the results of numerical investigations through the average values of the relative differencesinthevariablesareillustratedin Table3.The results are not changed when the NSF is greater than 9 for W2 and when the NSF is greater than 8 for W3.Thus, totally $9 \\times 8 = 7 2$ combinations should be used to examine WSG optimization.For that,it is necessary to find all CNSFs for which the average and maximal relative differences decrease with the increase in the number of graygases. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b2b303bdb1d3700321889bd9f425db0da741fc0644a56c14e2b4a8293366f040.jpg",
+        "table_caption": [
+            "Table 3Effects of the NSF on average values of relative differences $[ \\% ]$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">r</td><td colspan=\"2\">qw</td><td colspan=\"2\">Tw</td><td colspan=\"2\">Tf</td></tr><tr><td>W2</td><td>W3</td><td>W2</td><td>W3</td><td>W2</td><td>W3</td></tr><tr><td>1</td><td>1.37</td><td>3.07</td><td>0.21</td><td>0.51</td><td>0.43</td><td>0.37</td></tr><tr><td>2</td><td>0.91</td><td>1.72</td><td>0.13</td><td>0.27</td><td>0.27</td><td>0.36</td></tr><tr><td>3</td><td>0.93</td><td>1.11</td><td>0.13</td><td>0.16</td><td>0.28</td><td>0.40</td></tr><tr><td>4</td><td>0.98</td><td>0.85</td><td>0.15</td><td>0.12</td><td>0.36</td><td>0.26</td></tr><tr><td>5</td><td>1.11</td><td>1.55</td><td>0.15</td><td>0.20</td><td>0.36</td><td>0.46</td></tr><tr><td>6</td><td>0.88</td><td>1.09</td><td>0.13</td><td>0.14</td><td>0.25</td><td>0.35</td></tr><tr><td>7</td><td>0.72</td><td>0.86</td><td>0.10</td><td>0.12</td><td>0.20</td><td>0.23</td></tr><tr><td>8</td><td>1.02</td><td>0.00</td><td>0.14</td><td>0.00</td><td>0.39</td><td>0.00</td></tr><tr><td>9</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Among 72 combinations, three of them satisfy the requirement for WSGM optimization,and they are shown in Tables4 and5.Table6showsrelativedifferences of the rate of the absorbed heat. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Every CNSF is represented by a pair $^ { r , r }$ ，where the first $r$ designates the NSF in the W2 and the second $r$ designates the NSF in the W3.The results presented in Tables 4-6 show that the best results is obtained for CNSF 7,7. The average value of the relative difference $\\delta _ { \\mathrm { S G } }$ indicates the agreement of the results obtained for W3 with 7 significant figures with the experimental data. The average value of the relative difference $\\delta _ { \\mathrm { W } 2 }$ shows that the values of the selected variables are changed very little with the increase in the number of gray gases. On the other hand,calculation time is shorter by about 24 hours if W2 is used instead of W3 [9].On the basis of this investigation,application of the W2 model with the polynomial coefficients determined with 7 significant figures for numerical investigations would be optimal. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The increase in the NSF in both W2 and W3 does not necessarily lead to WSGM optimization. CNSF for which the number of gray gases in WSGM can be optimized must be found by numerical simulations and comparing the relative differences.Until establishing some shorter procedure, the only way to find the CNSF for WSGMoptimization is as outlined in this research. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figs.1-3 show the distribution of the selected variables and their relative differences for CNSF 7,7.Fig. la-c shows the flame temperatures in the vertical middle cross-section and the corresponding relative differences. The distribution of the relative difference $\\delta _ { \\mathrm { w } 2 }$ resembles that of the $\\delta _ { \\mathrm { S G } }$ with the reduced values of the relative differences.Figs. $2 \\mathrm { a - c }$ and 3a-c show the wall fluxes and surface temperatures over the rear furnace wall with the corresponding relative differences.The relative differences $\\delta _ { \\mathrm { W } 2 }$ are much smaller than $\\delta _ { \\mathrm { S G } }$ so that no resemblance is found. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This investigation shows that the NSF in the polynomial coefficients affects the results of numerical investigations.For the selected furnace and processes inside it, WSGMs with more than three terms (two gray gases plus one clear gas) are not needed. After the optimization is proved,it is enough to use two-terms WSGM. That number of gray gases is smaller than proposed for radiation of the gaseous medium [24, 25], probably because of the presence of dispersed gray particles,which contribute to the grayness of the medium.It does not mean that WSGM with more than three terms is not needed for other pulverized coal-fired furnaces under different operating conditions.Whenever the WSGM is used, the number of gray gases should be somehow justified. If WSGM optimization cannot be proved, number of gray gases should be selected using other criteria or assumptions.In that case, the number of gray gases could be chosen on the basis of the agreement with experimental data. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3ec3b1c520b6bc60e37b2776c2a8bb4272b931999d926be49b7b8866b02a9dc6.jpg",
+        "img_caption": [
+            "Fig.1The flame temperature for CNSF 7,7 in the vertical middle cross-section, $y =$ const.: a) $T _ { \\mathrm { f } }$ obtained for the W3, b) $\\delta _ { \\mathrm { S G } }$ c） $\\delta _ { \\mathrm { W } 2 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e6569f6bf4c06e586c5e00ed2e47aaa0b57cfb6cf727d743a61199c31046f60.jpg",
+        "img_caption": [
+            "Fig.2The wall flux for CNSF 7,7 over the rear furnace wall: a) $q _ { \\mathrm { w } }$ obtained for the W3,b) $\\delta _ { \\mathrm { S G } } ,$ c) $\\delta _ { \\mathrm { w } 2 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c3ebf17731c8111d82dabb8d73dcbc243ceeac86872bcc9201860359ac15b92a.jpg",
+        "img_caption": [
+            "Fig.3The wall temperature for CNSF 7,7 over the rear furnace wall: a) $T _ { \\mathrm { w } }$ obtained for the W3, b) $\\delta _ { \\mathrm { S G } } .$ c） $\\delta _ { \\mathrm { W } 2 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The zonal model of thermal radiation with homogeneous radiative properties of the flame is rarely used in numerical simulations.Instead of it,discrete ordinate model, model of spherical harmonics and discrete transfer model are used. All these models were developed with some assumptions,which simplify the method of Table 4The average values of the relative differences $[ \\% ]$ for the selected CNSFs ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/6774080d8f86bc53ad111010e4b443d69d614f626b7c1dbef20c295ac7768e59.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">r,r</td><td colspan=\"2\">qw</td><td colspan=\"2\">Tw</td><td colspan=\"2\">Tf</td></tr><tr><td>SG</td><td>W2</td><td>SG</td><td>W2</td><td>SG</td><td>W2</td></tr><tr><td>74</td><td>2.46</td><td>0.82</td><td>0.38</td><td>0.11</td><td>0.44</td><td>0.23</td></tr><tr><td>7,7</td><td>2.19</td><td>0.61</td><td>0.36</td><td>0.08</td><td>0.36</td><td>0.19</td></tr><tr><td>9,7</td><td>2.19</td><td>0.60</td><td>0.36</td><td>0.08</td><td>0.36</td><td>0.19</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/77414448dd06e3c5ba77dd40286884b350f1acd997cc371b658718fa36ad4685.jpg",
+        "table_caption": [
+            "Table 5The maximal values of the relative differences $[ \\% ]$ for the selected CNSFs "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">r,r</td><td colspan=\"2\">qw</td><td colspan=\"2\">Tw</td><td colspan=\"2\">Tf</td></tr><tr><td>SG</td><td>W2</td><td>SG</td><td>W2</td><td>SG</td><td>W2</td></tr><tr><td>7,4</td><td>12.24</td><td>9.94</td><td>1.93</td><td>1.24</td><td>56.47</td><td>48.85</td></tr><tr><td>7,7</td><td>9.36</td><td>6.15</td><td>2.16</td><td>1.39</td><td>56.49</td><td>25.54</td></tr><tr><td>9,7</td><td>9.36</td><td>4.15</td><td>2.16</td><td>0.63</td><td>56.49</td><td>25.49</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/4d01493ffc3b5b298194d84b89daf0f3a42e8cbf4cec29c36778d8bd570750e9.jpg",
+        "table_caption": [
+            "Table 6Relative differences $[ \\% ]$ of the rate of absorbed heat for the selected CNSFs "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>r,r</td><td>SG</td><td>SW2</td></tr><tr><td>7,4</td><td>1.59</td><td>0.04</td></tr><tr><td>7,7</td><td>1.63</td><td>0.007</td></tr><tr><td>9.7</td><td>1.63</td><td>0.05</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "radiative transfer solution.This research was conducted with zonal model to exclude the influences of the model assumptions on the results.Nevertheless,the procedure described in this paper can be used to prove WSGM op timization with some other radiation model and with nonhomogeneous radiative properties. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In order to find the effectsof the NSF inIPCs of the weighting coefficients on results of numerical investigations and WSGM optimization, the computer code that solved the set of equations of the mathematical model describing the process inside the pulverized coal-fired furnace was used. Three gas-phase radiative properties models were employed:SG, W2,and W3.For W2 and W3, ten sets of the IPCs with the same NSF were formed. The numerical simulations were run for every set ofIPCs and the relative differences in the selected variables were found. The conclusions can be generalized in the following way: ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "- When the gas-phase radiative properties are determined by WSGM, there is a specific NSF over which the results of numerical investigations of processes inside pulverized coal-fired furnaces are not changed further. Values of the average relative difference do not gradually decrease with an increase in NSF. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "- CNSF is the necessary requirement for WSGM optimization. The increase in the NSF does not necessarily lead to WSGM optimization. CNSFs for which the number of gray gases in WSGM can be optimized must be found by numerical simulations in every individual case, which is a time-consuming procedure. Further work is needed to find more efficient numerical procedure for the task. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This work is a result of the project “Increase in energy and ecology efficiency of processes in pulverized coalfired furnace and optimization of utility steam boiler air preheater by using in-house developed software tools\", supported by the Ministry of Education，Science and Technological Development of the Republic of Serbia (project No.TR-33018). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Filkoski,R.，Petrovski,I.，Karas,P.,Optimisation of Pulverized Coal Combustion by means of CFD/CTA Modelling,Thermal Science,2006,10 (3):161-179.   \n[2]Schuhbauer, C.,Angerer, M.,Spliethoff, H.,Kluger, F., Tschaffon,H.,Coupled Simulation of a Tangentially Hard Coal Fired $7 0 0 ^ { \\circ } \\mathrm { C }$ Boiler,Fuel,2014,122:149-163.   \n[3]Denison,M.K.，Webb,B.W.，A Spectral Line-Based Weighted-Sum-of-Gray-Gases Model for Arbitrary RTE Solvers,Journal of Heat Transfer,1993,115 (4):1004- 1012.   \n[4]Kim,O.J.,Song,T. H.,Database of WSGGM-Based Spectral Methods for the Radiation of Combustion Products,Journal of Quantitative Spectroscopy & Radiative Transfer,2000,64(4): 379-394.   \n[5]Hottel，H.C.，Sarofim，A.F.，Radiative Transfer, McGraw-Hill,New York,USA:1967.   \n[6]Liu,F.，Numerical Solutionsof Three-Dimensional Non-Gray Gas Radiative Transfer Using the Statistical Narrow-Band Model, Journal of Heat Transfer,1999,121 (1): 200-203.   \n[7]Coelho,P. J.，Numerical Simulation of Radiative Heat Transfer from Non-Gray Gases in Three-Dimensional Enclosures, Journal of Quantitative Spectroscopy & Radiative Transfer, 2002,74 (3): 307-328.   \n[8]Park, W. H., Kim, T. K., Numerical Solution of Radiative Transfer within a Cubic Enclosure Filled with Nongray Gases Using the WSGGM,Journal of Mechanical Science and Technology,2008,22(7): 1400-1407.   \n[9]Crnomarkovic,N.，Belosevic, S.， Tomanovic,I.,Milicevic,A.,Influence of the Number of Gray Gases in the Weighted Sum of Gray Gases Model on the Calculation of the Radiative Heat Exchange inside Pulverized Coal Fired Furnaces,Thermal Science,2016,20 (Suppl.1): S197-S206.   \n10]Crmomarkovic,N., Sijercic,M.,Belosevic, S., Stankovic, B.，Tucakovic,D.,Zivanovic,T.，Influence ofForward Scattering on Prediction of Temperature and Radiation Fields inside the Pulverized Coal Furnace,Energy, 2012, 45 (1): 160-168.   \n[11] Crnomarkovic,N., Sijercic,M.,Belosevic, S., Tucakovic, D.,Zivanovic,T.,Radiative Heat Exchange Inside the Pulverized Lignite Fired Furnace for the Gray Radiative Propertieswith Thermal Equilibrium between Phases, International Journal of Thermal Sciences,2O14,85: 21-28.   \n[12]Belosevic,S., Sijercic,M., Crnomarkovic,N., Stankovic, B.,Tucakovic,D.,Numerical Prediction of Pulverized Coal Flame in Utility Boiler Furnaces,Energy& Fuels, 2009,23 (11): 5401-5412.   \n[13]Rhine,J.M., Tucker,R.J.,Modelling of Gas-Fired Furnaces and Boilers,McGraw Hill,New York,USA:1991.   \n[14] Modest,M.F.,Radiative Heat Transfer,Academic Press, New York,USA: 2013.   \n[15] Yu,M. J.,Baek, S.W.,Park, J.H.,An Extension of the Weighted Sum of Gray Gases Non-Gray Gas Radiation Model to a Two Phase Mixture of Non-Gray Gas with Particles,International Journal of Heat and Mass Transfer, 2000,43 (10): 1699-1713.   \n[16]Sastry,S.S.，IntroductoryMethodsof Numerical Analysis,PHI Learning Private Limited,Delhi, India,: 2013.   \n[17]Burden,R.L., Faires,J.D.,Numerical Analysis,Brooks/ Cole, Cengage Learning, Boston, USA: 2011.   \n[18]Hildebrand,F.B.， Introduction to Numerical Analysis, Dover publications,New York,USA:1987.   \n[19]Wall,T.F.,Lowe,A.,Wibberley,L.J., Stewart, I.McC., Mineral Matter in Coal and the Thermal Performance of Large Boilers,Progress in Energy and Combustion Science,1979,5(1): 1-29.   \n[20]Boow,J.,Goard,P.R.C.,Fireside Deposits and Their Effect onHeat Transferina Pulverized-Fuel-Fired Boiler. Part III: The Influence of the Physical Characteristics of the Deposit on Its Radiant Emittance and Effective Thermal Conductance,Journal of the Institute of Fuel, 1969,42 (346): 412-419.   \n[21]Singer,H.C,Combustion，Fossil Power,Combustion Engineering, Connecticut, USA:1991.   \n[22]Kaye,G. W.,Laby, T.H., Tables of Physical and Chemical Constants,Longman,London,UK: 1995.   \n[23]Mechi, R., Farhat, H.,Guedri, K., Halouani, K., Said, R., Extension of the Zonal Method to Inhomogeneous NonGray Semi-Transparent Medium, Energy,2010,35(1): 1-15.   \n[24]Taylor,P. B.，Foster，P.J.，The Total Emissivities of Luminousand Non-Luminous Flames, International Journal ofHeat and Mass Transfer, 1974,17(12):1591- 1695.   \n[25]Dorigon,L.J.,Duciak,G,Brittes,R.,Cassol,F.,Galarca, M.,Franca,F.H. R.，WSGG Correlations Based on HITEMP2010 for Computation of Thermal Radiation in Non-Isothermal, Non-Homogeneous $\\mathrm { H } _ { 2 } \\mathrm { O } / \\mathrm { C O } _ { 2 }$ Mixtures, International Journal ofHeat and Mass Transfer,2O13,64: 863-873. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

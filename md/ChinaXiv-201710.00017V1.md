@@ -1,0 +1,179 @@
+# Low-T Thermo: a new program for arbitrarily combining low-T thermochronological data to model thermal history
+
+Ruxin Dinga, b, c,\*
+
+a School of Earth Science and Engineering, Sun Yat-sen University, Guangzhou 510275, China   
+b Guangdong Provincial Key Laboratory of Mineral Resources & Geological Processes,   
+Guangzhou 510275, China   
+c Low-T Lab, Shanghai 201101, China
+
+\*Corresponding author: dingrux@mail.sysu.edu.cn
+
+Abstract: A robust code，calld Low-T Thermo，has been developed to combine low-T thermochronological data arbitrarily to model thermal history. After apatite fision-track age and confined length are decoupled into two completely independent data to inverse thermal history and thermal history inversion using mica Ar-Ar age or bedrock quartz optically stimulated luminescence age are developed, there are eight kinds of low-T thermochronological data used to inverse thermal history including apatite fisson-track age,apatite fission-track confined length, zircon fisson-track age, apatite (U-Th)/He age, zircon (U-Th)/He age,mica Ar-Ar, bedrock quartz optically stimulated luminescence age and vitrinite reflectance. A total of 247 kinds of combination modes can be used to jointly inverse thermal history in theory (except the eight single methods modelling). These arbitrary combinations are helpful to model thermal history with the "incomplete” low-T thermochronological data set regarded to be unuseful for thermal history modelling and reduce experimental cost. For arbitrary combination of different low-T thermochronological data, each low-T thermochronological method is independent incompletely and the equivalent p-value is used to be the identical evaluation indicator in the inverse process.
+
+The usefulness of the code is demonstrated by modelling thermal history of existing low-T thermochronological data in the areas of Dabie Mountain, Ahimanawa Range and Southern Alps.
+
+Keywords: Low-T Thermo; Thermal history modelling; Low temperature thermochronology
+
+# 1Introduction
+
+Low-T thermochronology (including apatite and zircon fission track analysis,(U-Th)/He dating and ${ } ^ { 4 0 } \mathrm { A r } / { } ^ { 3 9 } \mathrm { A r }$ etc.） is a widely used tool for investigating tectonics and surface processes, providing quantitative thermal history information of a rock sample. Over the years, a number of increasingly excellent programs have been developed to extract thermal history from low-T thermochronological data (e.g., Corrigan,1991; Gallagher,1995; Willett 1997; Ketcham et al., 2000; Ketcham et al., 2005; Gallagher, 2012). Except using apatite fission track (AFT) to inverse thermal history, some different low-T thermochronological combinations have been used to jointly inverse thermal history (Ketcham, 20o5). For example,combining (U-Th)/He and fission track to inverse thermal history, instead of using (U-Th)/He age to be a constraint box and only inverse by fission track. However, the combinations modes are very limited and the numbers of combinations modes are very few.
+
+Here,a new program is presented to model thermal history by low-T thermochronology. In this program, eight kinds of low-T thermochronological data can be combined arbitrarily to jointly inverse thermal history. These eight kinds of data include AFT age,AFT confined length, zircon fission-track (ZFT) age, apatite (U-Th)/He age (AHe), zircon (U-Th)/He (ZHe) age, mica Ar-Ar, optically stimulated luminescence (OSL) age of bedrock quartz and vitrinite reflectance $\left( \mathrm { R } _ { \mathrm { 0 } } \right)$ . AFT age and confined length are decoupled into two completely independent data (Ding,2017). In addition, mica Ar-Ar and bedrock quartz OSL age are added to model thermal history. Therefore, there are 247 kinds of combination modes in theory (except the eight single methods modelling) without considering the local geological situation.These arbitrary combinations are helpful to model thermal history with the “incomplete” data set regarded to be unuseful for thermal history modelling and reduce experimental cost.
+
+The program has been designed for ease-of-use by non-specialists. The program is available by contacting the author and is free for academic, non-profit research.The operating instruction and update information is on the website: http://low-T.me.
+
+# 2 Thermal history modelling method
+
+# 2.1 Forward modelling
+
+In the forward modelling procedure,the thermal history is firstly discretized into 100 evenly spaced time steps except that time step of OSL is $1 \ \mathrm { k a }$ ,then the thermal history is transferred into a modeled age or the reduced length distribution of the confined tracks.
+
+# Apatite fission track age or confined length
+
+The fanning curvilinear fit annealing model of Ketcham et al. (2OO7) is used for C-axis projected track-lengths,assuming that $\mathbf { r } _ { \mathrm { m r 0 } }$ value is O.83.The equation for the fission-track length for C-axis projected track-lengths is from Ketcham et al. (2007). The initial C-axis projected track length is $1 6 . 6 2 ~ { \mu \mathrm { m } }$ (Ketcham et al.,20o9). It is assumed that a minimum detectable length is $7 . 3 1 \mu \mathrm { m }$ for C-axis projected track-length (Donelick et al.，1999). The relationship of C-axis （20 $\sigma _ { { \mathrm { c , m o d } } } = 0 . 0 0 6 1 5 \times { \mathrm { l } _ { { \mathrm { c } } , { \mathrm { m o d } } } } ^ { 2 } - 0 . 1 7 7 1 9 4 \times { \mathrm { l } _ { { \mathrm { c } } , { \mathrm { m o d } } } } + 1 . 8 2 9 9 7 5 \ \cdot$ which is obtained by fiting the data from Carlson et al. (1999) based on the projection model of Ketcham (2007) (Appendix: Ketcham et al.,20o7). The fission-track modeled date is calculated by the cumulated track density in each time step divided by 0.893 (Ketcham et al.,2000). The conversion model from fisson-track length to density presented by Donelick et al. (1999) is used here.The Kolmogorov-Smirnov (K-S) test probability, i.e. p-value (Marsaglia et al.， 2O03), is calculated based on the C-axis projected confined track-length distribution. The forward modeled age and AFT length distribution is statistically consistent with HeFTy (Ketcham, 2005).
+
+# Zircon fission track age
+
+$r = [ ( 6 . 2 4 5 3 4 - 0 . 1 1 9 7 7 \frac { \ln ( t ) + 3 1 4 . 9 3 7 } { \ln ( 1 / T ) + 1 4 . 2 8 6 8 } ) ^ { - 1 / 0 . 0 5 7 2 1 } + 1 ] ^ { - 1 }$ Annealing model formula is Guenthner et al. (2013). Therelation P=1.25(r-0.2)(r≥0.6) (Tagami et al., 1990; Guenthner et al.,2013) is used to convert reduced length (r) to reduced density (p). KT06 zircon can be used as the age standard for calibration which has $1 0 . 8 9 ~ \mu \mathrm { m }$ unannealed spontaneous track length and $1 0 . 9 4 ~ \mu \mathrm { m }$ induced track length respectively(Tagami et al.,199O). Therefore,the ratio of spontaneous track length to induced track length in the standard is O0.995.Because it is closed to 1, the ratio is also can be set 1.
+
+# Apatite and zircon (U-Th)/He
+
+The spherical diffusion equation (Carslaw and Jaeger 1959),Arrhenius formula, (U-Th)/He age calculation formula (Farley, 2Oo2） and the radiation damage accumulation and annealing model for apatite (RDAAM: Flowers et al, 2009) and for zircon (ZrRDAAM: Guenthner et al., 2013)are used to represent the relationship between (U-Th)/He age and the thermal history. For (U-Th)/He, the alpha stopping distance can be defined by Farley et al. (1996) or Ketcham et al. (2011).The finite difference method (Ketcham, 20o5) is used to calculate (U-Th)/He modeled age from the thermal history. The forward modeled AHe age is statistically concordant with the AHe modeled age calculated by HeFTy (Ketcham, 2005).
+
+# Vitrinite reflectance
+
+There are currently three vitrinite reflectance calibrations in Low-T Thermo,the widely used EASY $\% \mathrm { { R o } }$ method of Sweeney and Burnham (199O), the “IKU” calibration described by Ritter et al. (1996), and “basin $\scriptstyle \% { \mathrm { R o } } ^ { , , }$ calibration of Nielsen et al. (2016). Low-T Thermo begins the $\mathrm { R } _ { \mathrm { 0 } }$ value calculation since the given deposition time (Stratigraphic Age) of the sample and assumes ${ \mathrm { R } } _ { 0 }$ value formed after the deposition event. If Stratigraphic Age $>$ modelling duration or Stratigraphic Age is not input, the modelling duration wil be as Stratigraphic Age.
+
+# Bedrock quartz OSL
+
+Following Herman et al. (2O10), the formula describing accumulation of trapped electrons with decreasing temperature $\frac { d N } { d t } = ( P - \frac { N } { A _ { s a t } } ) - N * D _ { 0 } * e ^ { \frac { - E _ { a } } { R T } }$ (Randall and Wilkins,1945） is used. Where $N$ is the number of trapped electrons, $t$ is the time (a), $E _ { a }$ is the activation energy $\mathrm { ( J / m o l ) }$ ， $D _ { 0 }$ is the frequency factor $( \mathrm { m } ^ { 2 } / \mathrm { s } )$ in the Arrhenian expression of diffusion coefficient, $R$ is the gas law constant $( 8 . 3 1 4 5 ~ \mathrm { J / ( m o l { \cdot } K ) } )$ ， $T$ is the absolute temperature (K), $P$ is a filling rate $( \mathfrak { a } ^ { - 1 } )$ and $A _ { s a t }$ is the saturation age (a). The finite difference method is used to calculate OSL
+
+modeled age from the thermal history.
+
+# Mica Ar-Ar
+
+The spherical diffusion equation (Carslaw and Jaeger 1959) is used to represent the relationship between Ar-Ar age and the thermal history without considering pressure factor etc. The sphere radius is calculated using the closure temperature expression given by Dodson (1973): $T _ { c } = \frac { E _ { a } \mathrm { \langle } R } { \mathrm { l n } ( \frac { - A R { T _ { c } } ^ { 2 } D _ { 0 } \mathrm { \langle } a ^ { 2 } } { E _ { a } d T \mathrm { \langle } d t } ) } )$ ，where $a$ is the radius for sphere $( \mu \mathrm { m } )$ ,A is a geometric factor (55 for the sphere), and $T _ { c }$ is the closure temperature (K)，dT /dt is the cooling rate $\mathrm { ( ^ { \circ } C / M a ) }$ After mica Ar-Ar closure temperature at the cooling rate is assumed, the sphere radius can be calculated.Then the finite difference method is used to solve the diffusion equation.In Low-T Thermo v1.0,after the widely acceptable $T _ { c }$ range at $1 0 \mathrm { ~ \~ } \mathrm { ~ \textdegree ~ }$ /Ma is given,a range can be calculated. Therefore,at a given thermal history, the modeled result is an age range.
+
+# 2.2 Inverse modelling
+
+In this inverse process，we used the Monte Carlo method to randomly search thermal histories (e.g.，10,0oo) where time-temperature points are not regularly distributed and can be randomly perturbed.
+
+For comparison of different methods, p-value is used to be the identical factor to evaluate misfit.For apatite fission-track length, p-value is K-S test p-value. For ages, equivalent p-values are taken by assuming the grain ages have a normal distribution:
+
+$p \cdot \nu a l u e = 1 - \int _ { O - | O - M | } ^ { O + | O - M | } \frac { e ^ { - \frac { ( x - O ) ^ { 2 } } { 2 \sigma ^ { 2 } } } } { \sqrt { 2 \pi } \sigma } d x$ .Where $O$ is the measured age, $M$ is the modeled age and $\sigma$ is the standard deviation of measured age. The $1 \sigma$ age standard deviation is equivalent to K-S test p-value 0.32. When different methods are combined to model the thermal history, the minimum p-value of different methods is used to be the result.
+
+The mean value of thermal histories is selected within a threshold equivalent p-value as the result of the thermal modelling. The threshold equivalent p-value,i.e., the acceptable goodness of fit (GOF) can be set as 0.5, 0.32, 0.05 etc. according to the data set. Because the time-step size is variable,each selected thermal history is subdivided into 1O0 evenly spaced time steps to calculate the mean temperature value at each time node.
+
+For multiple grains (U-Th)/He ages, "Using multiple ages" is used to inverse each grain one by one."Using mean age" is used to inverse using the mean age of multiple grains considering the error propagation. When "Using mean age" is used,each grain Helium content and its error are calculated from the $^ { 2 3 5 } \mathrm { U }$ $^ { 2 3 8 } \mathrm { U }$ and $^ { 2 3 2 } \mathrm { T h }$ content and their errors by age calculation formula (Farley, 2002). Then the mean $^ { 2 3 5 } \mathrm { U }$ $^ { 2 3 8 } \mathrm { U }$ ， $^ { 2 3 2 } \mathrm { T h }$ and He content and their errors of multiple grains are used to calculate mean (U-Th)/He age and its error by age calculation formula (Farley, 2002).
+
+Because OSL method needs more accurate modeling than other methods between O and 0.5-1 million years, at least one constraint box between O\~l million years is needed. In addition, when Bedrock Quartz OSL is selected, the order of magnitude of "Duration” should be single digit $( < 1 0 \ : \mathrm { M a } )$ as far as possible and smaller is better.
+
+Mica Ar-Ar method uses the modeled age range as modeled result and the measured age within the acceptable GOF is also an range. Therefore, if there is a cross between the two ranges, the assumed thermal history is thought to be acceptable.
+
+# 3 General workflow
+
+Low-T Thermo is written for the Microsoft Windows operating system, mainly using Mathematica. Therefore， it needs to install Mathematica 9 or 8 firstly and copy the Wolfram.NETLink.dll into the same directory with main program， Low.exe. In addition, Microsoft .NET Framework 2.0 is also needed to install.
+
+The workflow within Low-T Thermo is asshown in Fig. 1. Different low-T thermochronological methods are firstly need to be selected, then the corresponding data (e.g., age) can be easily to copy and paste for input. Some parameters are needed to be input such as the surface temperature at sea level, the elevation, the atmospheric lapse,the maximum temperature value for the temperature axis, the maximum time value for the time axis,the number of paths tried during inversion, the acceptable GOF,and the boxes for geological constraint.
+
+After modelling，modeled thermal history，modeled ages or values of different low-T thermochronological methods selected are displayed."Modeled AFT length distribution" form is used to show the AFT confined track length distribution. "Modeled He age distribution" form is used to show the He age distribution with effective U concentration (eU) according the radiation damage accumulation and annealing model for apatite (RDAAM: Flowers et al, 2O09) and for zircon (ZrRDAAM: Guenthner et al., 2013).
+
+All output graphs and data can be exported to working directory. The graphs are saved as PDF-format files which can be edited in a variety of graphics packages,such as Adobe Ilustrator, CorelDRAW.
+
+![](images/05b7b975c24072253af7d08bf0d9cef71e2926dab7370c3dfeeaa91117cd4197.jpg)  
+Fig 1.Flow chart describing various input options and parameters ofLow-TThermo as wellas output fields.
+
+# 3 Real examples
+
+Examples are now presented to test the different combinations.DB40 is from Reiners et al. (2003) and Zhou et al. (2003), JR11-08 from Jiao et al. (2014),and the mean age value of samples in Southern Alps (MSA) (Herman et al., 2009; 2010) are chosen as test cases. The present day surface temperature $\begin{array} { r l } { T _ { s = } } & { { } T _ { s \theta } – \beta { \times } h } \end{array}$ ，where $T _ { s 0 }$ is the surface temperature at sea level, $\beta$ is the atmospheric lapse rate and $h$ is the elevation.
+
+# Example 1
+
+DB40 is located in Tiantangzhai peak, Dabie Mountain, China,which experienced rapid exhumation in the Late Cretaceous. For modelling test, AFT age, ZFT age and biotite ${ } ^ { 4 0 } \mathrm { A r } / { } ^ { 3 9 } \mathrm { A r }$ （204号 age of DB4O are used to model thermal history. The age data is shown in Table 1. $T _ { s 0 }$ is $1 5 \mathrm { ~ } ^ { \circ } \mathrm { C }$ .βis assumed as 6 ℃ /km. The ratio of ZFT spontaneous track length to induced track length in the standard is 1.The closure temperature of biotite ${ ^ { 4 0 } \mathrm { A r } ^ { / 3 9 } } \mathrm { A r }$ age is 350-400 $\mathrm { { ^ \circ C } }$ for $1 0 \mathrm { ~ ~ } ^ { \circ } \mathrm { ~ C ~ }$ /Ma cooling rate (Grove and Harrison,1996; Harrison et al.,1985) at .Activation energy is $2 1 0 \mathrm { k J / m o l }$ frequency factor is $0 . 4 0 \mathrm { c m } ^ { 2 } / \mathrm { s }$ (Grove and Harrison, 1996).
+
+In this inverse process,lO,Ooo thermal histories were used to randomly search.The thermal history modelling result is as shown in Fig.2.The resulting models are very similar to those determined by Zhou et al. (2003) based on both AFT age and confined length using AFTSolve software (Ketcham et al.,2000).
+
+Table 1.The age data of DB40   
+
+<html><body><table><tr><td>Name</td><td>Sample Elevation AFT age (m)</td><td>(Ma)</td><td>1σ (Ma)</td><td>ZFT age (Ma)</td><td>1σ (Ma)</td><td>40Ar/39Ar age (Ma)</td><td>10 (Ma)</td></tr><tr><td>DB40</td><td>1729</td><td>69.5</td><td>3.8</td><td>109</td><td>9</td><td>121.5</td><td>2.3</td></tr></table></body></html>
+
+Note: AFT age and ZFT age of DB40 are from Reiners et al.(2003)and Zhou et al. (2003),and biotite ${ ^ { 4 0 } \mathrm { A r } ^ { / 3 9 } \mathrm { A r } }$ age is plateau age from Chen et al. (1995).
+
+![](images/7ee7541e692fc6a07a86df7f61d5d0105206a0e9e0a5e29c2a4a666dd4ea9c95.jpg)  
+Fig2. Model result ofAFT age $^ +$ ZFT age $^ +$ biotite ${ } ^ { 4 0 } \mathrm { A r } / { } ^ { 3 9 } \mathrm { A r }$ age of DB40 in Dabie Mountain, China. 10,000
+
+thermal histories are used for the Monte Carlo random search.The green range is more than Acceptable Fit.The pink range is more than high GOF $( \geq 0 . 5 )$ . The black line,the mean history of all paths with high GOF $( \geq 0 . 5 )$ is as modeled result.The corresponding modeled age results are also shown in textboxes.
+
+# Example 2
+
+JR12-14 is from Ahimanawa Range,central North Island, New Zealand, where the basement rocks were exhumed to shallow depths of the crust in the Early Cretaceous then followed by reheating before a second exhumation to shallow depths of the crust again.For modeling test, AFT confined length,AHe age of JR12-14 are used to model thermal history. The age data is shown in Table 2. $T _ { s 0 }$ is $1 1 ~ \mathrm { { ^ { \circ } C } }$ $\beta$ is assumed as $5 ~ \mathrm { { ^ { \circ } C / k m } }$
+
+In this inverse process,1Oo,0oo thermal histories were used to randomly search.The thermal history modelling result is as shown in Fig. 3a. The resulting models are similar to those of Jiao et al. (2014) by QtQt software (Gallagher, 2012) based on AFT (both age and confined length) and AHe age from a vertical profile. However, it must be mentioned that QtQt doesn't need the constraint box, the constraint box is needed by Low-T Thermo for reheating modelling. Modeled He age distribution (Fig.3b) shows the He age distributions of two grains with eU.
+
+Table 2.AHe data and AFT length data of JR12-14   
+
+<html><body><table><tr><td>Sample name</td><td>Elevation (m)</td><td>Grain</td><td>U</td><td>Th (ppm)</td><td>FT</td><td>AHe age</td><td>1g</td><td>AFT length</td></tr><tr><td rowspan="3">JR12-14</td><td rowspan="3">916</td><td>No. 1</td><td>(ppm) 6.8</td><td>29.5</td><td>0.67</td><td>(Ma) 36.5</td><td>(Ma) 2.7</td><td></td></tr><tr><td></td><td>7.0</td><td>9.9</td><td>0.71</td><td>30.6</td><td>2.4</td><td></td></tr><tr><td>2</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+![](images/60d108eeb16f94a8d859f3f369f6e9cce494c66795f83b3caf6d5c18f126c534.jpg)
+
+Fig. 3 The thermal history modeling using different AHe grain-age data and confined track lengths (AHe age
+
+$^ +$ AFT length)of JR12-14 in Ahimanawa Range,New Zealand.a) JR12-14 thermal history modelling based on combining three AHe grain ages and the AFT confined track lengths.All the thermal histories have ${ \ge } 0 . 0 5 \mathrm { ~ f ~ }$ -values. 100,000 thermal histories are used for the Monte Carlo random search.The minimum equivalent p-values is taken as the evaluating parameter.The green range is more than Acceptable Fit.The pink range is more than high GOF $( \geq 0 . 5 )$ .The black line,the mean history of all paths with high GOF $( \geq 0 . 5 )$ is as modeled result. The corresponding modeled age results are also shown in textboxes.b)The corresponding modeled He age distribution with eU according RDAAM(Flowers et al, 2Oo9) and AFT length distribution.
+
+# Example 3
+
+The samples in the central Southern Alps of New Zealand experienced cyclic glaciations that were initiated in the Pliocene around $2 . 5 { \pm } 0 . 1 \ \$ Ma (Suggate, 1990) and an extreme exhumation happened in O.1 Ma (Herman et al., 2010). For modeling test, AHe age, ZHe age and Bedrock Quartz OSL of MSA are used to model thermal history. The age data is shown in Table 3. TsO andβis same as Example 2.
+
+In this inverse process,1oo,0oo thermal histories were used to randomly search.A box from 0.1 to $0 . 5 \ \mathrm { M a }$ is used. The thermal history modelling result is as shown in Fig. 4. The resulting models are very concordant with that estimated by Herman et al. (2010).
+
+Table 3.AHe, ZHe and Bedrock Quartz OSL age of MSA   
+
+<html><body><table><tr><td>Sample Elevation</td><td></td><td>U</td><td>Th</td><td>FT</td><td>AHe age</td><td>1σ</td><td>ZHe age</td><td>1σ</td><td>total dose</td><td>Equivalent OSL age</td><td></td><td>1g</td></tr><tr><td>name</td><td>(m)</td><td>(ppm) 5.08</td><td>(ppm) 3.14</td><td>0.75</td><td>(Ma) 0.47</td><td>(Ma) 0.11</td><td>(Ma)</td><td></td><td>(Ma) rate (mGy/a) dose (Gy)</td><td></td><td>(ka)</td><td>(ka)</td></tr><tr><td>MSA</td><td>1454</td><td>315.98</td><td>74.13</td><td>0.79</td><td></td><td></td><td>1.58</td><td>0.06</td><td>3.27</td><td>251.23</td><td>81.62</td><td>13.46</td></tr></table></body></html>
+
+Note:All of the data are the mean value of samples in Southern Alps (Herman et al.,2O09; 2010)
+
+![](images/dd8a07ca203d6213b82135ee5b0300bcfd8253709ee582ee890c14735051e309.jpg)  
+Fig 4. Model result of mean AHe age $^ +$ ZHe age $^ +$ Bedrock Quartz OSL age of the samples in Southern Alps,
+
+New Zealand.1Oo,0oo thermal histories are used for the Monte Carlo random search.The green range is more than Acceptable Fit. The pink range is more than high GOF $( \geq 0 . 5 )$ . The black line,the mean history of all paths with high GOF $( \geq 0 . 5 )$ is as modeled result.The corresponding modeled age results are also shown in textboxes.
+
+# 4. Conclusions
+
+A new,user-friendly,code (called Low-T Thermo) has been developed to combine low-T thermochronological data arbitrarily to model thermal history. These low-T thermochronological data include AFT age, AFT confined length, ZFT age,AHe age, ZHe age, ${ \bf R } _ { 0 }$ , mica Ar-Ar age and bedrock quartz OSL age. They are independent incompletely. Although different combination has differentadvantage inthermal historymodelling because everykind oflow-T thermochronological data has its own advantage in constraining thermal evolution, these arbitrary combinationsare useful tomodel thermal history with the “incomplete” low-T thermochronological data set regarded to be unuseful for thermal history modelling in the past and reduce experimental cost.
+
+# References
+
+Carlson W.D., Donelick R.A., Ketcham R.A., 1999. Variability of apatite fission-track annealing kinetics I: Experimental results. American Mineralogist, 84, 1213-1223.   
+Carslaw H., Jaeger J., 1959. Conduction of Heat in Solids. Clarendon Press, Oxford.   
+Chen JF, Xie Z, Liu S S, Li X M, Foland K A., 1995. Cooling age of Dabie orogen, China, determined by $^ { 4 0 } \mathrm { A r } ^ { 3 9 } \mathrm { A r }$ and fission track techniques. Sci China Ser B,38: 749-757   
+Corrigan J.,1991. Inversion of apatite fisson track data for thermal history information, Journal of Geophysical Research 96 (B6) 10347-10.   
+Ding R., 2017. Low temperature thermal history reconstruction using apatite fission-track length distribution and apatite (U-Th)/He age. arXiv:1706.03663   
+Dodson, M.H.,1973. Closure temperature in cooling geochronological and petrological systems. Contrib. Mineral. PetroL 40,259-274.   
+Donelick R.A., Ketcham R.A., Carlson W.D., 1999. Variability of apatite fission-track annealing kinetics I: Crystallographic orientation effects.American Mineralogist 84,1224-1234.   
+Farley K.A.， 2002. (U-Th)/He dating: Techniques， calibrations， applications. Rev Mineral Geochem 47, 819-844.   
+Farley K.A.， Wolf R.A.， Silver L.T.，1996. The effects of long alpha-stopping distances on (U-Th)/He ages. Geochim Cosmochim Acta, 60, 4223-4229.   
+Flowers R.M.， Ketcham R.A.， Shuster D.L.， Farley K.A.， 2009. Apatite (U-Th)/He thermochronometry using a radiation damage accumulation and annealing model Geochim. Cosmochim. Acta 73, 2347-2365.   
+Gallagher K.，1995. Evolving temperature histories from apatite fission-track data. Earth and Planetary Sci. Lett., 136, 421-435.   
+Gallagher K.， 2012. Transdimensional inverse thermal history modelling for quantitative thermochronology.J. Geophys Res.,117(B2):373-393.   
+Grove M., Harrison T.M.,1996. $^ { 4 0 } { \mathrm { A r } } ^ { * }$ diffusion in Fe-rich biotite.Am Mineral 81:940-951.   
+Guenthner W.R., Reiners W.P., Ketcham R.A., Nasdala L., Giester G., 2013. Helium diffusion in natural zircon: radiation damage,anisotropy, and the interpretation of zircon (U-Th)/He thermochronology. American Journal of Science 313, 145-198.   
+Harrison T.M., Duncan, I, Mcdougall,1.,1985. Diffusion of $^ { 4 0 } \mathrm { A r }$ in biotite: Temperature, pressure and compositional effects. Geochimica Et Cosmochimica Acta - GEOCHIM COSMOCHIM ACTA. 49. 2461-2468.10.1016/0016-7037(85)90246-7.   
+Herman F.， Cox S.C.， Kamp P.J.J.， 2009. Low-Temperaturethermochronologyand thermokinematic modeling of deformation, exhumation,and development of topography in the central Southern Alps, New Zealand. Tectonics 29. doi:10.1029/2008TC002367.   
+Herman F.,Rhodes E., Braun J., Heiniger L., 2O10. Uniform erosion rates and relief amplitude during glacial cycles in the Southern Alps of New Zealand， as revealed from OSL-thermochronology.EarthandPlanetaryScienceLetters.297.183-189. 10.1016/j.epsl.2010.06.019.   
+Jiao R., Seward D., Litle T.A., Kohn B. P., 2014. Thermal history and exhumation of basement rocks from Mesozoic to Cenozoic subduction cycles, central North Island, New Zealand, Tectonics,33,1920-1935.   
+Ketcham R. A., Carter A., Donelick R.A., Barbarand J. Hurford A. J., 2007. Improved modeling of fission-track annealing in apatite. American Mineralogist 92, 799-810.   
+Ketcham R.A., 20o5. Forward and inverse modeling of low-Temperature thermochrometry data. Reviews in Mineralogy & Geochemistry 58(1),275-314.   
+Ketcham R.A.， Donelick R.A. Donelick M.B.， 2000. AFTSolve: a program for multikinetic modeling of apatite fission-track data. Geol.Mater. Res.2, 1-32.   
+Ketcham R.A.，Donelick R.A.，Balestrieri M.-L.， Zattin M.， 2009.Reproducibility of apatite fission-track length data and thermal history reconstruction. Earth and Planetary Science Letters, 284 (3-4), 504-515.   
+Ketcham R.A., Gautheron C., Tassan-Got L., 2011. Accounting for long alpha-particle stopping distances in (U-Th-Sm)/He geochronology: Refinement of the baseline case, Geochimica et Cosmochimica Acta, 75,24, 7779-7791.   
+Marsaglia G.， Tsang W. W.， Wang J.， 2003.Evaluating Kolmogorov's Distribution. Journal of Statistical Software, 8 (18), 1-4.   
+Nielsen S.B., Clausen O.R., McGregor E., 2015.Basin%Ro: a vitrinite reflectance model derived from basin and laboratory data,Basin Res.,1-22.doi:10. 1111/bre. 12160   
+Randall J., Wilkins M.,1945. Phosphorescence and electron traps i. The study of trap distribution. Proc.R. Soc.Lond.A184,366-389.   
+Reiners W.P., Zhou Z.Y., Ehlers T.A., Xu C.H., Brandon M.T.,Donelick R.A., Nicolescu S.,2003. Post-orogenic evolution of the Dabie Shan, eastern China, from (U-Th)/He and fission-track thermochronology. American Journal of Science 303,489-518.   
+Riter U.,Duddy I.，Mork A., Johansen H.,Arne D.，1996. Temperature and uplift history of Bjornoya (Bear Island), Barents Sea. Petroleum Geoscience,2,133-144.   
+Suggate R.P.,1990. Late Pliocene and Quaternary Glaciations of New Zealand. Quatern. Sci. Rev. 9, 175-197.   
+Sweeney J.J., Burnham A.K.,1990. Evaluation of a simple model of vitrinite reflectance based on chemical kinetics.American Association of Petroleum Geologists Bulletin,74,1559-1670.   
+Tagami T., Ito H., Nishimura S.,1990. Thermal annealing characteristics of spontaneous fission tracks in zircon. Chemical Geology: Isotope Geoscience Section 80, 159-169.   
+Willett S.D.，1997. Inverse modeling of annealing of fisson tracks in apatite;1,A controled random search method, American Journal of Science 297 (10), 939-969.   
+Zhou Z.Y.， Xu C.H., Reiners W.P., Yang F.L., Donelick R.A., 2003.Late Cretaceous-Cenozoic exhumation of Tiantangzhai region of Dabieshan orogen: constraints from (U-Th)/He and fission track analysis. Chinese Science Bulletin, 48 (11),1151-1156.

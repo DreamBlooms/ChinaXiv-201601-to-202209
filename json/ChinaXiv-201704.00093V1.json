@@ -1,0 +1,333 @@
+[
+    {
+        "type": "text",
+        "text": "Janus Polymer/Carbon Nanotube Hybrid Membranes for Oil/Water Separation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jincui Gu, Peng Xiao, Jing Chen, Jiawei Zhang,\\* Youju Huang, and Tao Chen\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DivisionofPolymerandComposite Materials,Ningbo InstituteofMaterialTechnologyandEngineering,ChineseAcademyof Science, Ningbo 315201, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SupportingInformation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT: A robust and simple method is provided to fabricate Janus polymer/carbon nanotube (CNT） hybrid membranes for oil/water separation. Starting from CNT membranes formed by dispensing, hydrophobic poly(styrene) (PS) and hydrophilic poly(N,N-dimethylaminoethyl methacrylate) (PDMAEMA) were grated from different sides of the photoactive CNT membranes via self-initiated photografting and photopolymerization (SIPGP) to achieve Janus polymer/CNTs hybrid membranes. The obtained membranes have excellent oil/water selectivity in the removal of oil from water. Moreover, they can effectively separate both surfactant-stabilized oil-in-water and water-inoil emulsions because of the anisotropic wettability of the membranes. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/6249418d6e5e3b6e2efbeaa462c2ecf64ad6216c902d3e6981782f8e72f3465b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KEYWORDS: Janus polymer/CNT membrane, SIPGP, superhydrophobic, hydrophilic, oil/water separation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "With increasing industrial oily wastewater and frequent oil spill accidents，oil-contaminated water has become a worldwide problem. Oil/water separation,especially emulsified oil/water separation，is a significantly urgent task because of the environmental and economic demands.1 Materials with special wettability,which could effectively separate oil/water mixtures, havereceivedbroadatentioninrecent year2However most of these materials can realize immiscible oil/water separation but are not effective in separating oil/water emulsions,especially for surfactant-stabilized emulsions with droplet sizes below $2 0 ~ \\mu \\mathrm { m }$ 11For selective and effective separation of oil/water emulsions,materials that are capable of separating both oil-in-water and water-in-oil emulsions with high separation efficiency and good recyclability are highly desired. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Janus materials,with different properties on the same object, have attracted tremendous attention in the past 2O years because of their remarkably interesting surface activities and potential applications as novel sensors，optical probes，and surfcantsmonvrioJaumaterastdien sional (2D） Janus nanosheets or membranes deserve more attention due to their highly anisotropic shape and asymmetric chemistry.For instance,inorganic Janus nanosheets can serve assolidsurfactantstostabilizeemulsiondroplets.17art from remarkable their stabilization effect，the anisotropic wettability of Janus membranes makes them attractive candidates in potential applications such as oil/water separation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Carbon nanotubes (CNTs)，with three-dimensional (3D) network structures and outstanding mechanical, thermal,and electrical properties，have been extensively investigated and have shown promising applications in catalyst supports, supercapacitors， sensors，and so on.19-22 Recently，the application of CNTs as oil/water separation material has attracted extensive attention because of their low density,high porosity，and hydrophobic properties.For instance，singlewalled CNT network films could be used for the separation of emulsified oil/water mixtures with a higher flux than commercial filtration membranes;11 the hybrid foam of graphene and CNTs can selectively remove oils and organic solvents from water with high absorption capacity.23 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "By taking advantage of Janus materials and CNTs,herein, we represent a broadly applicable method toward designing Janus polymer/CNT hybrid membranes for highly effective removal of oils and separation of various surfactant-stabilized oil-inwater and water-in-oil emulsions.There are many methods to grow polymers from CNTs.24-26 Inthis work, theJanus hybrid membranes were fabricated by respectively grafting hydrophobic polymer such as poly(styrene）(PS）and hydrophilic polymer such as poly(N,N-dimethylaminoethyl methacrylate) (PDMAEMA) from different sidesof CNT membranes via selfinitiated photografting and photopolymerization (SIPGP; Figure 1).27-30 The obtained Janus PS-CNT-PDMAEMA hybrid membranes can selectively absorb a wide range of organic solvents and maintain high sorption capacity even after 10 repeated separating experiments. The unique Janus wettability endows the membranes with switchable transport performance,and they can effectively separate both surfactantstabilized oil-in-water and water-in-oil emulsions.The Janus hybrid membranes have great potential for practical oil/water separation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ea229de10769cddbb3ec62534476816e186a4bc19627471280711898cf7ceed.jpg",
+        "img_caption": [
+            "Figure1.(a)CNTswerecoatedonthesurfceoflassubstratebydispesing.()PSwasgraftedfromCNTsbyIGP.(c）TheSaftdCT membrane was released from the substrate by heating in $\\mathrm { \\Delta N a O H }$ solution (10 wt $\\%$ ).(d) Free-standing PS-grafted CNT membrane was turned over anddepositedontoanotherassubstrate.(e)PDMAEMAwasthengraftedfromoppositesideofCNTmembrane toachieveaJanusP-CNTPDMAEMA hybrid membrane. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.EXPERIMENTAL SECTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Materials.General chemicals in chemical reagent grade were used as received from Sinopharm Chemical Reagent. Styrene $( 9 9 \\% )$ （204号 and $N , N .$ -dimethylaminoethyl methacrylate (DMAEMA）were obtained from Alfa Aesar China (Tianjin) Co.,Ltd.,and were purified by neutral $\\mathrm { { A l } } _ { 2 } \\mathrm { { O } } _ { 3 }$ column and dried with $0 . 4 ~ \\mathrm { n m }$ molecular sieves at room temperature for 3 days.The raw multiwall CNTs (diameter,about $1 0 { - } 3 0 \\ \\mathrm { n m }$ ；length，about $1 0 - 3 0 \\ \\mu \\mathrm { m } ;$ $- \\mathrm { O H } ~ \\%$ ，about $2 \\%$ ）witha purity of over $90 \\%$ were purchased from Chengdu Organic Chemistry Co.,Ltd.,and were rinsed thoroughly with anhydrous ethanol and dried in a stream of nitrogen before use.Glass substrates were cleaned in a mixture of $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 } / \\mathrm { H } _ { 2 } \\bar { \\mathrm { S O } } _ { 4 }$ （20 $\\left( 1 { : } 3 , \\mathbf { v } / \\mathbf { v } \\right)$ at $8 0 ~ ^ { \\circ } \\mathrm { C }$ (\"piranha solution\") for $^ \\textrm { \\scriptsize 2 h }$ and washed thoroughly with Mili-Q-grade water.(Caution: Piranha solution reacts violently with organic matter!). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Preparationof JanusPolymer/CNTsHybridMembranes. First, $2 ~ \\mathrm { m g }$ of purified CNTs was dispersed in $1 ~ \\mathrm { m L }$ of ethanol and sonicated for $3 { \\mathrm { ~ h } }$ ，The mixture was then dropped uniformly onto a glass substrate.After drying,the membrane was placed ina glass tube containing degassed styrene monomer and irradiated with a UV fluorescent lamp with a spectral distribution between 300 and $4 0 0 \\ \\mathrm { n m }$ $( \\lambda _ { \\operatorname* { m a x } } = 3 5 0 ~ \\mathrm { n m } ,$ $2 1 0 \\mathrm { \\ m W / c m } ^ { 2 }$ ）under ${ \\bf N } _ { 2 }$ atmosphere for $^ \\textrm { \\scriptsize 1 h }$ After SIPGP,the as-prepared membrane was rigorously rinsed with toluene and ethyl acetate to remove the physisorbed polymer and monomer; the PS-grafted CNT membrane was then etched from the glass substrate by $\\mathrm { \\Delta N a O H }$ (10 wt $\\%$ ).Thereleased membranewas turned over and deposited onto another glass substrate.The subsequent photografting followed the steps of PS grafting in which styrene was replaced by DMAEMA.After SIPGP，the Janus polymer/CNT membrane was rinsed with ethanol to remove the physisorbed polymer and monomer. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.Sorption of Organic Solvents.First, $4 ~ \\mathrm { m g }$ of oil red (an organic dye, the organic solvent can be dyed red with oil red) was added to $1 5 ~ \\mathrm { m L }$ of hexane,and the mixture was sonicated for $1 0 ~ \\mathrm { { m i n } }$ to form a homogeneous solution. Second, $1 ~ \\mathrm { m L }$ of hexane dyed with oil red was added to water surface.The oil droplet was in the upper layer of water because of its lower density，which can form a homogeneous oil layer.Lastly，a Janus PS-CNT-PDMAEMA membrane was placed in contact with hexane dyed with oil red until the hexane was completely absorbed by the membrane.In this process, the PS side of the Janus CNT membrane was on the upper side,and the PDMAEMA side was in contact with water.The sorption of other organic solvents was performed following the same procedure.We should emphasize that the test should be done quickly in order to avoid evaporation of the absorbed organic solvents,especially for those with low boiling points.After the absorption process,the Janus $\\mathrm { P S - }$ CNT-PDMAEMA membrane was immersed in ethanol for $^ \\textrm { \\scriptsize 1 h }$ to extract the organic solvent from the membrane. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4.Preparation of the Oil-in-Water and Water-in-Oil Emulsions.For oil-in-water emulsions,tween 80 $\\mathrm { ^ { \\prime } H L B } \\ = \\ 1 5 ,$ an emulsifier of the oil-in-water type;1.2,1.1 and $_ { 0 . 8 \\mathrm { ~ g ~ } }$ of tween 80 for toluene-in-water,chloroform-in-water,and hexane-in-water emulsions, respectively）was added into $1 2 0 ~ \\mathrm { m L }$ of water,and then $4 ~ \\mathrm { m L }$ ofoil was added.The mixture was stirred for $3 \\mathrm { { h } } .$ For water-in-oil emulsions, a certain amount of span 80 ( $\\mathrm { ^ { \\prime } H L B } = 4 . 3$ ,an emulsifier of the water-inoil type;0.8,1.2,and $1 . 0 ~ \\mathrm { g }$ of span 8O for water-in-toluene,water-inchloroform,and water-in-hexane emulsions，respectively）was added into $\\mathrm { 1 1 4 ~ m L }$ of oil,and then $1 { \\mathrm { ~ m L } }$ of water was also added. The mixture was stirred for $3 \\mathrm { { h } }$ 、All the prepared emulsions were stable for $2 4 \\mathrm { h } ,$ and no demulsification was observed.The composition of various emulsions is summarized in Table S1 (Supporting Information).The densityand viscosity of all the oils used in thiswork are summarized in Table S2 (Supporting Information). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.5.Separation of Oil-in-Water and Water-in-Oil Emulsions. The separation experiments were carried out with a vacuum driven filtration system with the vacuum degree at $0 . 0 9 \\ \\mathrm { M P a }$ (Figure S1, Supporting Information).The diameter of the flter is $1 0 \\ \\mathrm { m m }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.6.Characterizations. Static water contact angles (WCA) measurements were measured at room temperature using an OCA20 DataPhysics instrument.The water(Milli-Q) droplet volume was 3 $\\mu \\mathrm { L } ,$ and an average of three measurements was made to determine the surface wettability. Transmission electronic microscopy (TEM) measurements were performed with a JEOL JEM-2100F microscope. Scanning electronic microscopy (SEM） measurements were carried out using a JEOL JMS-670oF scanning microscope.X-ray photoelectron spectroscopy (XPS）analysis was performed on a Shimadzu Axis Utltra DLD spectroscope,using $\\mathbf { M g \\ K } \\alpha$ as radiation resource. Thermogravimetric analysis (TGA）measurements were conducted with aNetzsch TG 209F1 instrument with a heating rate of $1 0 ~ { ^ \\circ } \\mathrm { C } / \\mathrm { m i n }$ under $\\mathbf { N } _ { 2 }$ atmosphere.The Raman measurements were recorded on a ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Dilor LabRam-1B multichannel confocal microspectrometer with 532 nm laser excitation. Optical microscopy images were taken on BX 51TF Instec H601.Dynamic light scattering(DLS）measurements were performed on a Zetasizer Nano ZS.The water contents in collected filtrates were determined using a Karl Fischer moisture titrator (KF831).UV-vis spectra were conducted with spectrometer Lambda 950. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.RESULTS AND DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.Wetting Behavior.To test preliminarily whether there was a successful attachment of hydrophobic PS and hydrophilic PDMAEMA on the opposite sites of the CNT membrane, we performed WCA measurement to investigate the surface wettability of the hybrid membrane.As shown in Figure 2A, the WCA of the original CNT membrane is ${ \\sim } 6 2 ^ { \\circ }$ After modification with PS, the WCA of the PS-CNT membrane increases to ${ \\sim } 1 5 3 ^ { \\circ }$ (Figure 2B).Grafting PDMAEMA from the lower surface (opposite side of the PS brushes） leads to WCA decreasing to ${ \\sim } 1 7 ^ { \\circ }$ (Figure 2C). To exhibit the Janus membrane's anisotropic surface wettability more directly，two drops of water were applied to two sides of the Janus membrane,respectively.The difference of WCA reaches as high as ${ \\sim } 1 3 0 ^ { \\circ }$ ，which demonstrates dramatic disparity between the surface properties of the two sides (Figure 2C). The anisotropic surface wettability of the obtained membrane suggests that PS and PDMAEMA were successfully grafted from the upper and lower surfaces of the CNT membrane,respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/98a713d0a559833688837b00718bdc4cb93ebaa453e72475a01d3da5a4760dbf.jpg",
+        "img_caption": [
+            "Figure 2. Static WCA measurements for (A) the CNT membrane,(B) PS brushes grafted from the CNT membrane,and (C） upper and lower surfaces of the PS-CNT-PDMAEMA membrane. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.Surface Morphology. SEM and TEM were applied to further characterize the surface morphology of the Janus $\\mathrm { P S - }$ CNT-PDMAEMA membrane. The cross-sectional SEM image of polymer brushes grafted onto a Janus CNT hybrid membrane is shown in Figure 3A. The thickness of the asprepared hybrid membrane is about $5 ~ \\mu \\mathrm { m }$ ，Though the presence of PS and PDMAEMA brushes cannot be seen clearly in Figure 3A,the attachment of PS and PDMAEMA onto CNTs can be observed by further amplification of the surface of the hybrid membrane. After modification with PS and PDMAEMA, the average diameter of PS grafted from CNTs (Figure 3C) and PDMAEMA grafted from CNTs (Figure 3D) arerelatively larger than that of original CNTs,indicating PS and PDMAEMA were grafted from CNTs. The TEM results are consistent with the SEM results (Figure S3, Supporting Information).Theseresultsillustrate thatPSandPDMAEMA were uniformly grafted from the upper and lower surfaces of the CNT membrane by SIPGP，respectively，and there is almost no agglomeration among CNTs. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3.Chemical Composition.The attachment of PS and PDMAEMA was further confirmed by XPS.As shown in Figure 4,XPS survey spectrum of PDMAEMA-grafted surface reveals N 1s peak at $3 9 8 \\ \\mathrm { e V } ,$ ，which can be assigned to the tertiary amine group in PDMAEMA. Because $\\mathbf { N }$ is the characteristic element to distinguish PS and PDMAEMA,the two sides can be determined by content of N.C 1s spectra for both surfaces of Janus membrane are shown in Figure 4B,C. The C 1s spectrum of the PDMAEMA-grafted surface is deconvoluted into five component peaks.31 The intensity ratios of these peaks are about [A]:[B]:[C]:[D]: $[ \\mathrm { E } ] = 2 { : } 1 { : } 3 { : } 1 { : } 1$ ，which is in good agreement with the stoichiometric ratio of the corresponding carbon atoms in the chemical structure of PDMAEMA.The C lsspectrum of the PS-grafted surface includes a main hydrocarbon peak at a binding energy of $2 8 4 . 8 ~ \\mathrm { e V }$ and $\\pi { - } \\pi ^ { * }$ shakeup satellites at $2 9 1 . 5 \\ \\mathrm { e V } .$ 32 In addition, the mass content of both surfaces is comparable with the theoretical atomic content (Table S3, Supporting Information). The XPS results provide direct evidence of the successful covalent attachment of PS and PDMAEMA brushes to the CNT membrane.The attachmentofPSandPDMAEMAon CNTsisalso confirmed by Raman and TGA results (Figure S4， Supporting Information). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c8d6c7cf054106b24b805fac02f4cfddedf70da1889e79fce60e407e0481947.jpg",
+        "img_caption": [
+            "Figure 3.SEM images of (A）a cross-section of the PS-CNTPDMAEMA hybrid membrane,(B) CNTs (on top)，(C） PS-grafted CNT membrane (on top).(D) PDMAEMA-grafted CNT membrane (on top). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.4.Sorption of Organic Solvents. The Janus polymer/ CNT membranes show great potential in the removal of organic contaminants from water.As shown in Figure SA, hexane dyed with oil red was dropped onto the water surface, and a piece of the Janus polymer/CNT membrane was then brought into contact with the hexane layer.Hexane was fully absorbed within a few seconds,leaving an almost transparent region on the water surface.In order to study the sorption capacity quantitatively，we defined the weight gain (wt $\\%$ as the weight of absorbed substance to the dried Janus polymer/ CNT membrane.Various kinds of organic liquids were studied. As shown in Figure SB, the Janus polymer/CNT membrane can uptake these organic liquids at 200-45O times its own weight.Moreover,the recyclability of the Janus polymer/CNT membrane was evaluated.As shown in Figure 4C, the sorption capacity for chlorobenzene varies slightly during the repeated experiments and always stays above 3oo times of the original Janus polymer/CNT membrane, indicating good recyclability of our material. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.5.Separation of Oil/Water Emulsions.Besides its absorption of organic liquids,the simultaneous superhydro phobicity and hydrophilicity makes the Janus polymer/CNT membrane a very promising candidate for oil/water separations. The water-repellency and oil-repellency of the Janus membrane ina complex under-oil or under-water environment was evaluated (Figure S5,Supporting Information).The observed distinct oleophobicity and superhydrophobicity of the membrane provides an excellent basis for its application in separating both oil-in-water and water-in-oil emulsions.Due to CNT dispersion,the solution could easily form a uniform CNT membrane in a large area by dropping or spin coating; the polymer/CNT hybrid membrane was thus designed to match the size and shape of a filter. The subsequent separation was carried out at $0 . 0 9 \\mathrm { M P a }$ by using a filter with a diameter of $1 0 ~ \\mathrm { m m }$ (Figure S1, Supporting Information).A series of oil/ water mixtures,including surfactant-stabilized oil-in-water and water-in-oil emulsions were prepared to evaluate the separation capability of the membrane.For separating oil-in-water emulsions,the PDMAEMA side(hydrophilic） was in contact with the feed emulsions，and the membrane only allows continuous water phase to pass through because of the oilrepellency of the PDMAEMA side.For separating water-in-oil emulsions,the PS side (superhydrophobic) was in contact with the feed emulsions，and only oil could pass through the membrane due to the water-repellency of the PS side.Figure 6 gives the separating results of tween-8O-stabilized toluene-inwater and span-8O-stabilized water-in-toluene emulsions as examples.In either case, the collected filtrate (Figure 6C, right) is transparent compared with the original milky white feed emulsion (Figure 6C, left). Optical microscopy was applied to examine the separation effectiveness by comparing the feed with the collected fltrate (Figure 6C).It can be seen that in the feed solution, there are numerous densely packed droplets, but no droplets are observed in the collected filtrate in the whole view, indicating the excellent separating properties of the Janus polymer/CNT membrane. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9a7e04235218e61e74c350111b3a0495ce3bacddc5cf91fb725322ee2327edb.jpg",
+        "img_caption": [
+            "Figure4.(A)XPSspectraof(red)thePDMAEMAsideand(blue)thePSsideofJauspoler/CNTmembrae.(B)C1sspectrumofPgrafted surface. (C) C 1s spectrum of PDMAEMA-grafted surface. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/222b2c2d7ff588a61950b49e896b5ec9500a0a0df74e1aa7dcada5b0010327db.jpg",
+        "img_caption": [
+            "Figure 5.(A）Photographsof theremovalofhexanebyJanuspolymer/CNTmembrane.(B）SorptioncapacityoftheJanuspolymer/CNT membraneforvariousorganicliquids.(C)SorptioncapacityforchlorobenzeneoftheJanuspolyer/CNTmembraneversus terecyceumbersof sorption process. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/035cebe41d633d54b13d624a6e178212f637ec101f2599c9e72c66bd454a436a.jpg",
+        "img_caption": [
+            "Figure 6.(A)SchematicilustrationoftheJausPS-CNT-PDMAEMAmembraneforseparatigol-n-wateremulsioswithteDMEMside towardthefedmulsios.(B)ShematicilustratioofteJanusPS-CN-PDMAEMmembraneforseparatigwater-inileulsiosithte PS sidetoward thefed emulsions.(C)Separationresults for (top)toluene-in-waterand (bottom)water-in-toluene emulsions. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Membrane permeability was comprehensively investigated (Figure 7).For oil-in-water emulsions,because our membrane only allows continuous water phase to pass through，if the density of the oil is higher than that of water,the rejected oil droplets will accumulate and form a barrier layer on the membrane surface and impede water permeation. Therefore, the permeate flux of the membrane heavily depends on the oil's density.For water-in-oil emulsions,our membrane only allows continuous oil phase to pass through,so it is reasonable that membrane flux is higher for oils with lower viscosity.Because chloroform is the densest oil and toluene is the most viscous oil that were studied in oil/water separation in this work(Table S1, Supporting Information),chloroform-in-water presents the lowest flux in oil-in-water emulsions,and water-in-toluene presents the lowest flux in water-in-oil emulsions. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6b64994a8a55561460fcece85625222266a764ff1d07f148921b2ba422afe08.jpg",
+        "img_caption": [
+            "Figure 7.Permeate flux for various emulsions of the Janus polymer/ CNT membrane;(S-1） toluene-in-water,(S-2）chloroform-in-water, (S-3）hexane-in-water,(S-4）water-in-toluene,(S-5）water-in-chloroform,and(S-6) water-in-hexane. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The purity of purified water and oil were investigated by UV-vis spectrometer and coulometer, respectively (Figure S6 and Table S4,Supporting Information).For toluene-in-water emulsion, the characteristic peak of toluene was not observed in the filtrate spectrum (Figure S6A, Supporting Information).33 For water-in-toluene emulsion, the purity of generated toluene was above $9 9 . 9 8 \\%$ ，The separating results of toluene-in-water and water-in-toluene emulsions effectively illustrate the high separation efficiency of our membrane.Similar effective separations are also achieved for other emulsion systems, including chloroform-in-water (S-2)，hexane-in-water (S-3), water-in-chloroform (S-S) and water-in-hexane(S-6; Figures S7 and S8, Supporting Information). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.CONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In summary，we have demonstrated a facile and versatile approach to prepare Janus polymer/CNT hybrid membranes for emulsified oil/water separation.The polymer/CNT hybrid membranes were constructed by SIPGP using graft hydrophobic PS and hydrophilic PDMAEMA from different surfaces of the CNT membranes.The obtained Janus polymer/CNT membranes can selectively remove a wide range of organic solvents from water with high absorption capacity and good recyclability. Furthermore， the Janus polymer/CNT membranes can effectively separate both surfactant-stabilized waterin-oil emulsions and oil-in-water emulsions due to the anisotropic wettability of the membranes，and they display high separation efficiency and promising flux.The high sorption capacity and remarkable recyclability of the membranes make them promising candidates for various practical applications such as controllable oil/water separation and selective oil absorption. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ASSOCIATEDCONTENT ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\otimes$ Supporting Information ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "SIPGP,figures,tables,and calculation of flux. This material is available free of charge via the Internet at http://pubs.acs.org. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "AUTHORINFORMATION ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Corresponding Authors ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$^ { * } \\mathrm { E }$ -mail: tao.chen@nimte.ac.cn.   \n$^ { * } \\mathrm { E }$ mail: zhangjiawei@nimte.ac.cn.   \nNotes   \nThe authors declare no competing financial interest. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We thank the Chinese Academy of Science for Hundred Talents Program， the Chinese Central Government for Thousand Young Talents Program， the National Natural Science Foundation of China (51303195,21304105)，and the Excellent Youth Foundation of Zhejiang Province of China (LR14B040001) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1）Wang,L.K.；Chen, J. P.；Hung, Y.；Shammas,N.K.，Eds. Membrane and Desalination Technologies.In Handbook of Environmental Engineering,Vol.13;Humana Press:New York,2010.   \n(2) Zhou,X.Y.; Zhang, Z. Z.; Xu,X.H.; Guo,F.; Zhu,X.T.; Men,X. H.; Ge,B.Robust and Durable Superhydrophobic Cotton Fabrics for Oil/Water Separation.ACS Appl.Mater. Interfaces 2013，5,7208- 7214.   \n(3）Zhang, J.P.； Seeger, S.Polyester Materials with Superwetting Silicone Nanofilaments for Oil/Water Separation and Selective Oil Absorption.Adv.Funct.Mater.2011,21,4699-4704.   \n(4) Zhu, $\\mathrm { Q . ; }$ Chu, Y.; Wang, Z. K; Chen, N.; Lin, L.; Liu, F. T.; Pan, $\\mathsf { Q } .$ M.Robust Superhydrophobic Polyurethane Sponge as a Highly Reusable Oil-Absorption Material.J.Mater. Chem.A 2013,1,5386- 5393.   \n(5) Zhu, $\\mathrm { Q . ; }$ Pan, Q.M.; Liu, F.T.Facile Removal and Collection of Oils from Water Surfaces through Superhydrophobic and Superoleophilic Sponges.J.Phys.Chem.C 2011,115,17464-17470. (6) Wang,B.; Li,J.; Wang, G.; Liang,W.; Zhang, Y.; Shi, L.; Guo, Z.; Liu，W.Methodology for Robust Superhydrophobic Fabricsand Sponges from in Situ Growth of Transition Metal/Metal Oxide Nanocrystals with Thiol Modification and Their Applications in Oil/ Water Separation.ACSAppl.Mater.Interfaces 2013,S,1827-2022. (7) Cao,Y.Z.; Zhang,X.Y.; Tao,L.; Li, K.; Xue, Z.X.; Feng,L.; Wei, Y.Mussel-Inspired Chemistry and Michael Addition Reaction for Effcient Oil/Water Separation.ACS Appl.Mater. Interfaces 2013，5, 4438-4442.   \n(8) Li,A.; Sun,H.X.; Tan, D. Z.; Fan,W.J.; Wen, S.H.; Qing, X.J. G.；Li，X.；Li，S.Y.；Deng,W.Q. Superhydrophobic Conjugated Microporous Polymers for Separation and Adsorption.Energy Environ. Sci. 2011,4, 2062-2065.   \n(9) Zhang, J.P.； Seeger， S. Polyester Materials with Superweting Silicone Nanofilaments for Oil/Water Separation and Selective Oil Absorption.Adv.Funct. Mater. 201, 21, 4699-4704.   \n(10) Li, A.; Sun,H. X.; Tan, D. Z.; Fan, W.J.; Wen,S.H.; Qing, X J. G.； Li, X.；LiS. Y.； Deng, W. $\\mathsf { Q } .$ Superhydrophobic Conjugated Microporous Polymers for Separation and Adsorption. Energy Environ. Sci. 2011,4,2062-2065.   \n(11)Shi, Z;Zhang,W.B.;Zhang,F.;Liu,X.; WangD.;Jin,JJiang L. Ultrafast Separation of Emulsified Oil/Water Mixtures by Ultrathin Free-Standing Single-Walled Carbon Nanotube Network Films. Adv. Mater. 2013,25,2422-2427.   \n(12) De Gennes, P. G.Soft Mater (Nobel Lecture). Angew.Chem., Int.Ed. 1992,31, 842-845.   \n(13）Liang, F.X.； Zhang,C.L.; Yang, Z. Z. Rational Design and Synthesis of Janus Composites. Adv. Mater. 2014, DOI: 10.1002/ adma.201305415.   \n(14）Lattuada，M.；Hatton，T.A. Synthesis，Properties，and Applications of Janus Nanoparticles.Nano Today. 2011, 6,286-308. (15)Hu,J.； Zhou，S. X.； Sun, Y.Y.；Fang, X.S.；Wu,L. M. Fabrication,Properties,and Applications of Janus Particles.Chem.Soc. Rev. 2012,41, 4356-4378.   \n(16)Jiang, S.； Granick, S.Janus Particles Synthesis, Self-Assembly,and Applications.RSC: London, England,2012.   \n(17) Yang, H.; Liang, F.; Wang, X.; Chen, Y.; Zhang, C.；Wang, $\\mathrm { Q . ; }$ Qu,X.；Li, J.；Wu, D.； Yang, Z.Z. Responsive Janus Composite Nanosheets.Macromolecules 2013,46,2754-2759.   \n(18) Liang, F.X.; Shen, K.; Qu, X. Z.; Zhang, C.L.; Wang, $\\mathrm { Q . ; }$ Li, J L.; Liu, J. G.; Yang, Z. Z. Inorganic Janus Nanosheets.Angew. Chem., Int.Ed.2011,50,2379-2382.   \n(19) De Volder,M.F.L.; Tawfick,S.H.; Baughman,R H.; Hart,A J. Carbon Nanotubes:Present and Future Commercial Applications. Science 2013,339, 535-539.   \n(20) Cao, $\\mathrm { Q . ; }$ Rogers,J. A. Ultrathin Films of Single-Walled Carbon Nanotubes for Electronics and Sensors:A Review of Fundamental and Applied Aspects.Adv.Mater.2009,21,29-53.   \n(21）Hu, L.B.； Hecht, D.S.；Griner, G.Carbon Nanotube Thin Films:Fbatio,ts.eev 5790-5844.   \n(22)Schnorr, J. M.; Swager, T.M. Emerging Applications of Carbon Nanotubes. Chem.Mater. 2011,23,646-657.   \n(23) Dong, X. C.; Chen,J.; Ma, Y.W.; Wang,J.; Chan-Park, Mary B.; Liu,X.M.; Wang,L.H.; Huang,W.; Chen, P.Superhydrophobic and Superoleophilic Hybrid Foam of Graphene and Carbon Nanotube for Selective Removal of Oilsor Organic Solvents from the Surface of Water. Chem. Commun. 2012, 48,10660-10662.   \n(24)Homenick, C. M.; Lawson, G.; Adronov, A. Polymer Grafting of Carbon Nanotubes Using Living Free-Radical Polymerization.Polym. Rev. 2007,47, 265-290.   \n(25）Paul,A.； Grady,B.P.；Ford,W.T.PMMA Composites of Single-Walled Carbon Nanotubes-Graft-PMMA.J. Appl.Polym. Sci. 2014, DOI: 10.1002/app.39884.   \n(26) Jia, X.; Zhang, G.X.; Li, W.; Sheng, W.B.; Li,C.H. Tuning the Low Critical Solution Temperature of Polymer Brushes Grafted on Single-Walled Carbon Nanotubes and Temperature Dependent Loading and Release Properties. J. Polym. Sci, Part A: Polym.Chem. 2014, 52, 1807-1814.   \n(27) Xiao,P.; Gu,J. C.; Chen,J.; Han,D.; Zhang,J. W.; Cao,H. T.; Xing, B.R； Han, Y.C.； Wang,W. $\\mathrm { Q . ; }$ Chen, T.A Microcontact Printing Induced Supramolecular Self-Assembled Photoactive Surface for Patterning Polymer Brushes.Chem. Commun. 2013,49,11167- 11169.   \n(28) Steenackers, M.; Lud, S. $\\mathrm { Q . ; }$ Niedermeier, M.; Bruno,P.; Gruen, D. M.; Feulner,P.; Stutzmann, M.J.; Garrido,A.; Jordan,R Structured Polymer Grafts on Diamond. J. Am. Chem. Soc.2007,129,15655- 15661.   \n(29) Xiao,P.; Gu, J. C.; Chen,J.; Zhang, J. W.; Xing, R B.; Han, Y. C.; Fu,J.; Wang, W. Q.; Chen, T.Micro-Contact Printing of Graphene Oxide Nanosheets for Fabricating Patterned Polymer Brushes.Chem. Commun. 2014, 50, 7103-7106.   \n(30) Chen, J.; Xiao,P.; Gu, J. C.; Han,D.; Zhang, J.W.; Sun,A.H.; Wang,W. $\\mathrm { Q . ; }$ Chen,T.A Smart Hybrid System of Au Nanoparticle Immobilized PDMAEMA Brushes for Thermally Adjustable Catalysis. Chem. Commun.2014, 50, 1212-1214.   \n(31）Gupta, S.；Agrawal，M.； Conrad,M.；Hutter,N.A.； Olk,P.; Simon，F.；Eng，L.M.；Stamm，M.；Jordan，R.Poly(2- (dimethylamino)ethyl methacrylate）Brushes with Incorporated Nanoparticles as a SERS Active Sensing Layer.Adv.Funct.Mater. 2010,20,1756-1761.   \n(32) Ton-That,C.; Shard,A.G.; Teare,D. O.H.; Bradley,R H.XPS andAFMSurface Studiesof Solvent-CastPS/PMMABlends.Polymer 2001,42,1121-1129.   \n(33）Tao，M.M.；Xue，L.X.；Liu，F.；Jiang,L.An Intelligent Superwetting PVDF Membrane Showing Switchable Transport Performance for Oil/Water Separation.Adv.Mater.2014,26,2943- 2948. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

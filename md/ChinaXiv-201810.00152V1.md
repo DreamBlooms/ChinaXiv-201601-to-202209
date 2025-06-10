@@ -1,0 +1,173 @@
+# 河西走廊干旱区春季沙尘气溶胶对辐射的影响初步研究
+
+田 磊¹,，张武’，常倬林2²，穆建华2,³，曹宁²,3， 马思敏2,3(1 兰州大学大气科学学院半干旱气候变化教育部重点实验室,甘肃兰州73000；2中国气象局旱区特色农业气象灾害监测预警与风险管理重点实验室,宁夏银川75002；3宁夏气象防灾减灾重点实验室,宁夏银川750002）
+
+摘要：利用2008年春季中美沙尘暴联合观测实验中张掖站晴朗少云天正午的地表辐射和太阳光度计资料，计算分析了沙尘气溶胶对太阳辐射和大气逆辐射的影响，结果表明：沙尘对太阳总辐射有一定程度的削弱作用,经估算,大气浑浊度每增加0.1,太阳总辐射平均减少约 $1 0 . 4 5 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ;当大气浑浊度一定时,沙尘粒子越小，对太阳总辐射的削弱效率就越高;大气浑浊度小于0.3时，大气逆辐射有随大气浑浊度的增加而增加的趋势，大气浑浊度大于0.3时，大气逆辐射随大气浑浊度增加有减小的趋势。
+
+关键词：沙尘气溶胶；辐射；大气透过率；光学厚度中图分类号：X513 文献标识码：A 文章编号：
+
+大气气溶胶可以吸收和散射太阳短波、长波辐射，影响地气系统的辐射收支并进而影响地球气候，气溶胶粒子的存在还将引起大气加热率和冷却率的变化，直接影响大气动力过程[1]。IPCC 报告(2007)显示，人为贡献的气溶胶（硫酸盐、有机碳、黑炭、硝酸盐和沙尘)对气候有变冷效应，其直接辐射强迫总量平均为-0.5W·m-²。
+
+沙尘气溶胶，又称为矿物气溶胶，是对流层气溶胶的主要成分之一，其来源主要是自然生成，受下垫面和天气状况影响较大，尤其是沙尘暴天气发生时，大量沙尘将滞留在大气中[2-3]。沙尘气溶胶的地域性强、时空变率大，它对气候的辐射强迫效应也越来越受国内外研究者的关注。
+
+HAYWOOD等[4]通过在撒哈拉西海岸飞机观测得出，沙尘事件过程中，无云的情况下，该地区沙尘对太阳短波辐射的强迫为 $- 6 0 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,对长波辐射的强迫很弱；一年(无云情况下)平均的太阳短波辐射强迫为 $- 1 5 \sim - 2 0 \textrm { W } \cdot \textrm { m } ^ { - 2 }$ ,而一年全球平均的太阳短波辐射强迫几乎为零（-0.02W·$\mathrm { ~ m ~ } ^ { - 2 }$ )。GUNNARMyhre等[5]用两种全球沙尘气溶胶数据做了全球沙尘气溶胶辐射强迫敏感度实验，得出沙尘气溶胶辐射强迫对气溶胶空间分布、高度、尺度谱和折射指数非常敏感，计算得出总的沙尘的辐射强迫(长波和短波)的范围从 $- 1 . 3 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ 到$2 . 6 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ 。SPYROU等[6]研究了沙尘气溶胶短期内对区域气候的影响，导致对流层低层大气温度廓线改变。
+
+在国内,韩晶晶等[7]得出在沙尘天气多发区，气溶胶光学厚度与沙尘天气有较好的相关关系。沈志宝等[8]利用张掖绿洲和沙漠站大气浑浊度和地面辐射平衡各分量观测资料，分析和估算了大气沙尘对地面辐射能收支的影响。石广玉等研究发现源于中国沙漠的沙尘气溶胶对太阳辐射的吸收性较弱，散射较强，前向散射偏弱，后向散射偏强。白鸿涛等[10]利用AERONET气溶胶资料,研究得出黄土高原干旱半干旱区气溶胶特性参量均具有明显的季节变化且呈现出明显的受沙尘影响的特征，春季受沙尘影响最明显，光学厚度最大。王宏等[1计算了沙尘气溶胶对沙漠和海洋大气的辐射加热（冷却)率并讨论了不同高度云对辐射加热率的影响，得出春季中国沙漠和太平洋上空的沙尘层对大气具有明显的加热作用。HUANG等[12]研究发现,塔克拉玛干沙漠的沙尘气溶胶对大气有加热作用，在离地面 $3 \sim 6 ~ \mathrm { k m }$ 高度上气溶胶的消光系数最大;在有沙尘的大气层结中，沙尘对大气层结的加热可达每天 $1 \sim 3 \mathrm { ~ K ~ }$ ;日平均辐射加热最大可达每天5.5K；在地表，1/3的沙尘气溶胶对太阳辐射的冷却效应被沙尘气溶胶的长波加热效应所抵消。
+
+在我国西北地区，生态脆弱，下垫面植被覆盖较差,春季(3～5月)是沙尘天气多发的季节[13-14] 。频繁发生的沙尘暴及局地扬沙把大量的沙尘带入空中，并随风飘到下游地区，从而导致西北大部分地区的沙尘气溶胶浓度持续较高[15-18]。沙尘暴的频发不仅严重影响着居民的正常生活，给人民和社会财产带来巨大损失，而且沙尘暴及扬沙带到空中的沙尘还通过直接或半直接辐射效应影响地气系统的辐射收支并进而影响区域乃至全球的气候。本文利用2008年春季由兰州大学与美国马里兰大学等单位联合举行的为期三个月的西北沙尘暴联合观测实验中张掖国家气候观象台4月18日\~6月15日的太阳总辐射、大气逆辐射及光学厚度等资料，分析了大气中沙尘对太阳总辐射、大气逆辐射的影响。
+
+# 站点及仪器介绍
+
+# 1.1 观测站点
+
+张掖市地处甘肃省西部，位于河西走廊腹地，北接合黎山、龙首山，南靠祁连山。地形为中间低，南北高，风经过时容易形成“狭管效应”；北部有巴丹吉林沙漠，西北部为大片戈壁荒漠，春季常发生沙尘暴，是我国沙尘暴输送的主要路径和源区之一。张掖观测站设在张掖市国家气候观象台，位于张掖市区西北部大约 $3 0 ~ \mathrm { k m }$ 处，地理坐标为 $1 0 0 ^ { \circ } 1 6 ^ { \prime } \mathrm { E }$ ，$3 9 ^ { \circ } 0 6 ^ { \prime } \mathrm { N }$ 。
+
+# 1.2 仪器简介
+
+此次观测实验中，测太阳总辐射的仪器为Kipp&Zonen公司生产的CM21型短波辐射表;测大气逆辐射的仪器为Kipp&Zonen公司生产的CG4型长波辐射表。太阳直接辐射采用NIP和CH1两种直接辐射表来测量；测光学厚度的仪器为CE－318型多波段太阳光度计;同期地面常规气象资料来自于Vaisala公司生产的WTX510便携式气象站，它可以提供连续的温、压、湿、风及降水的资料。
+
+# 2 数据分析
+
+# 2.1太阳总辐射和大气逆辐射的变化特征
+
+从图1可以看出，观测期内，张掖晴天较多，太阳总辐射较强,日极值基本在 $9 0 0 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ 以上，日极值的波动主要受云和沙尘气溶胶的影响。大气逆辐射的波动相对比较剧烈。太阳总辐射及大气逆辐射都有一个随季节变化而增加的趋势。观测期内太阳总辐射小时平均最大值出现在6月1日13时，为$1 ~ 1 0 6 ~ \mathrm { W } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ;大气逆辐射最大值出现在6月13日17时,为388W·m−²。
+
+# 2.2 理论基础
+
+大气浑浊度是在晴空、无云的情况下反映垂直大气柱中气溶胶消光能力的一个参数。光学厚度可
+
+![](images/ae56b24cf37f311bd71ade0f57cdd0931c46b938f360d2e52d89d4c4b4dc233f.jpg)  
+图1张掖太阳总辐射、大气逆辐射变化  
+Fig.1Variation of total solar radiation and atmospheric counter radiation in Zhangye
+
+由下式表示：
+
+$$
+T ( \lambda ) = \beta \cdot \lambda ^ { - \alpha _ { s } }
+$$
+
+式中： $T ( \lambda )$ 为大气气溶胶光学厚度，又称大气沙尘粒子的消光系数 $_ { ; \beta }$ 是大气浑浊度系数; $\alpha _ { s }$ 是大气气溶胶的波长指数，它可以反映气溶胶粒子的谱分布，当大气气溶胶中大粒子较多的时候，波长指数就比较小;反之，波长指数就大。一般来说，沙尘气溶胶粒径较大，对应的波长指数较小。煤烟及气粒转换形成的气溶胶粒径较小，对应的波长指数就较大。城市、工业气溶胶一般为 $1 . 1 \leqslant \alpha _ { s } \leqslant 2 . 4$ ，生物质燃烧气溶胶为 $1 . 2 \leqslant \alpha _ { s } \leqslant 2 . 3$ ,沙尘气溶胶一般为-1$\leqslant \alpha _ { s } \leqslant 0 . 5$ ,海盐气溶胶为 $1 . 1 \leqslant \alpha _ { s } \leqslant 1 . 8$ 。我们可以通过两个不同波段的气溶胶光学厚度来得到波长指数 $\alpha _ { s }$ ,然后代入上式求出大气浑浊度系数 $\beta$ 。
+
+入射到大气层顶的太阳天文总辐射经过大气分子及气溶胶等的吸收、散射后被地面接收到的辐射是太阳总辐射。我们定义参数 $Q$ 是太阳总辐射 $L _ { \mathrm { { F } } }$ 和天文总辐射 $R _ { 0 }$ 的比值( $\{ L _ { \mathrm { \vec { r } } } / \ R _ { \mathrm { 0 } } \}$ ，它相当于整层大气的透过率,也称晴空指数。在本文中这个参数称为大气透过率。大气透过率与大气光学厚度 $T$ 之间的关系可由下式表示：
+
+$$
+Q = \mathbf { e } ^ { ( { - T _ { \lambda } } ) }
+$$
+
+由公式1和公式2可得大气透过率 $Q$ 与大气浑浊度$\beta$ 的关系：
+
+$$
+Q = { \mathrm e } ^ { ( { \bf \theta } - { \boldsymbol { \beta } } \cdot { \lambda } { \alpha } _ { s } ) }
+$$
+
+因此，我们通过分析 $Q$ 和 $\beta$ 的统计关系，然后再估算大气中沙尘对到达地表的辐射的影响。
+
+![](images/25e72b096e442fd8345fffede4be1689851ffb5fcf34ecc3294338c10bede480.jpg)  
+图2张掖正午时刻大气逆辐射和气溶胶光学厚度( $5 0 0 \ \mathrm { n m }$ )的逐日变化
+
+春季，随着气温的季节性升高，大气逆辐射也随之增加。为了估算大气沙尘对大气逆辐射的影响，首先必须要去除这种季节性变化的影响。为了尽量减小计算误差，我们选取资料时选择晴朗、少云的正午（张掖地区为北京时间13：18)时刻的大气逆辐射和太阳光度计资料。从4月17日开始，此后以此类推,无太阳光度计观测资料的日子空缺,定义 $L _ { \mathrm { { F } } }$ $( d )$ 表示第 $d$ 天的大气逆辐射。图2为大气逆辐射和 $5 0 0 \ \mathrm { n m }$ 处光学厚度随时间的变化。大气逆辐射随时间变化的拟合曲线为：
+
+$$
+L _ { ☉ } ( d ) = 2 . 2 1 \cdot d + 2 5 7 . 9 2
+$$
+
+拟合函数式4的线性相关系数为0.75，超过了0.01的信度检验，可以视为晴天大气平均状态下的大气逆辐射逐日变化情况，观测值与拟合值的差值即为天气(气温、云量)和大气状态变化下的扰动。因所选的都是晴天、少云情况下的观测资料，所以这种扰动可以视为大气中沙尘的贡献。实际上，气温变化很大时也有一定的影响。
+
+图3反映了张掖站2008年4月17日\~6月13日晴天正午时刻的大气透过率与大气浑浊度的关系。从图3可以看出，大气透过率随大气浑浊度的增加而减小，两者呈负相关关系，相关系数为-0.5，达到了0.01的信度检验。两者之间的拟合函数为：
+
+$$
+\mathrm { L n } Q = - 0 . 1 1 1 1 \beta - 0 . 2 0 4 7
+$$
+
+通常，在晴天、无云的情况下影响大气透过率的因素有：大气分子(臭氧、氧气等)的散射和吸收，大气中水汽对某些波段的太阳辐射的吸收，大气气溶胶的散射和吸收，大气压强的变化等。在这些因素中，就一个地方来说，大气分子在短时间内不会发生大的变化，对大气透过率的变化影响很小。在晴天正午，大气压强的逐日序列不会发生很大的波动，在春季它会随气温的升降而做一些变化，但总体变化不大。相比之下，时间变率较大的就是大气中的水汽和气溶胶。张掖春季比较干旱，大气中的水汽含量较少，据观测资料分析在这期间张掖站的相对湿度大多在 $2 0 \% \sim 3 5 \%$ 之间浮动，除雨天外,相对湿度很少超过 $60 \%$ 。
+
+![](images/63493befc47b9b21bcdc2a5aa66916f31d644e61375ba51ac2bb700d4f9c0797.jpg)  
+Fig.2Daily variations of atmospheric reverse radiation and aerosol optical thickness ( $5 0 0 ~ \mathrm { n m }$ )in Zhangye at noon   
+图3张掖晴天正午时刻大气透过率与大气浑浊度的关系 Fig.3Relationship between atmospheric transmittance and atmospheric turbidity in Zhangye at sunny noon
+
+钟强[19]等研究得到张掖4月份大气可降水量的变化很小,在 $1 \%$ 以下。沈志宝[8]等对张掖地区的地面水汽压和大气透过率做了相关性分析，结果表明水汽和大气透过率之间有弱的负相关性，但显著性并不高。考虑张掖水汽含量较低，可以得出春季张掖地区大气水汽对大气透过率的影响较小，并不显著。综合上述情况,影响张掖地区春季大气透过率变化的主要因素是大气气溶胶，而影响张掖大气气溶胶浓度变化的主要原因是沙尘天气带来的大气沙尘。因此,大气沙尘是影响晴空、无云情况下大气透过率变化的最主要原因。
+
+# 2.3沙尘对太阳总辐射的影响
+
+从图4可以看出，张掖晴天的太阳总辐射 $S _ { \mathrm { { F } } }$ 较强,基本在 $9 0 0 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ 以上。最大值出现在6月7日，为 $1 ~ 0 9 3 . 7 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ 。逐日变化的波动也比较大，尤其在5月，因几次强沙尘天气的影响，波动相对比较大。整体来看，有明显的随季节增加的趋势，拟合函数为：
+
+![](images/3e9fb3b4df815eaaf6d26e30344f6b52a6efd3a77fee7d034683054466276935.jpg)  
+图4张掖站晴天正午时刻(13：18)太阳总辐射和大气浑浊度逐日变化  
+Fig.4Daily variations of total solar radiation and atmospheric turbidity in Zhangye at sunny noon(13:18)
+
+$$
+S _ { \scriptscriptstyle  { F } } ( d ) = 2 . 6 0 2 \ 9 \ \cdot \ d + 9 5 6 . 3 1 6 \ 2
+$$
+
+因所选的都是晴天、少云情况下的观测资料，所以太阳总辐射实际值和拟合值的差值就可以视为大气沙尘对太阳总辐射所做的贡献。用拟合函数式6可以估算出在大气平均状态下（不受天气、气溶胶含量波动的影响），即只受季节变化影响下的每一天正午的太阳总辐射；拟合函数式6的线性相关系数为0.54，超过了0.01的信度检验。
+
+为了估算张掖站大气沙尘对太阳总辐射的影响，我们选择2008年4月22日为例，这天正午时太阳高度角为63.18°，此时入射到大气层顶的太阳天文总辐射 $R _ { 0 }$ 为 $1 ~ 2 1 9 . 9 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ 。然后由公式5,可以计算得到不同大气浑浊度下的大气透过率 $Q$ ，通过大气透过率又可以的到此刻的太阳总辐射 $S _ { \mathrm { { F } } }$ 的计算值。结果见下表。
+
+与4月22日相比，扣除季节变化后，4月29日正午的太阳总辐射为 $9 5 6 . 1 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,大气浑浊度为0.445；5月2日正午的太阳总辐射为882.0W·$\mathrm { m } ^ { - 2 }$ ,大气浑浊度为0.885;5月15日正午的太阳总辐射为 $9 7 4 . 2 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,大气浑浊度为0.195;6月4日正午的太阳总辐射为 $9 7 2 . 2 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,大气浑浊度为0.3；与表1所计算得到的太阳总辐射值相差不大,观测值和计算值的平均误差在 $1 \%$ 以下。因此，用上表来估算大气沙尘对太阳总辐射的贡献是合理的。通过表1看出，随着大气浑浊度的增加，太阳总辐射递减，大气沙尘对太阳总辐射有削弱作用。经计算，大气浑浊度每增加0.1，太阳总辐射平均减少约 $1 0 . 4 5 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ 。5月2日张掖站发生了一次很强的沙尘暴过程，这次沙尘暴使大气中沙尘浓度迅速增加，沙尘暴过后的两三天内，沙尘浓度居高不
+
+# 表1张掖站不同大气浑浊度下的大气透过率和太阳总辐射的计算值 $\mathbf { \nabla } / \mathbf { \nabla } \mathbf { W } \cdot \mathbf { m } ^ { - 2 }$ （204号
+
+Tab.1Calculated values of atmospheric transmittance and total solar radiation in different atmospheric turbidity in Zhangye / $\mathbf { W } \cdot \mathbf { m } ^ { - 2 }$ （20   
+
+<html><body><table><tr><td>阝</td><td>0.1</td><td>0.2</td><td>0.3</td><td>0.4</td><td>0.5</td><td>0.6</td><td>0.7</td><td>0.8</td><td>0.9</td></tr><tr><td>Q</td><td>0.806</td><td>0.797</td><td>0.788</td><td>0.78</td><td>0.771</td><td>0.762</td><td>0.754</td><td>0.746</td><td>0.737</td></tr><tr><td>S下</td><td>983.1</td><td>972.3</td><td>961.5</td><td>950.9</td><td>940.4</td><td>930.0</td><td>919.7</td><td>909.6</td><td>899.5</td></tr></table></body></html>
+
+下。受此影响，5月3日正午、5月4日正午、5月5日正午的大气浑浊度分别为：0.679、0.833、0.439，太阳总辐射值为（扣除季节变化倾向后）：937.8W·$\mathrm { m } ^ { - 2 } \ 、 9 1 2 . 3 \mathrm { ~ W } \cdot \mathrm { m } ^ { - 2 } \ 、 9 6 0 . 2 \mathrm { ~ W } \cdot \mathrm { m } ^ { - 2 }$ 。大气相对清洁的4月27日，大气浑浊度为0.108，太阳总辐射值为 $1 ~ 0 0 0 . 8 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ 。相比之下,太阳总辐射被沙尘的削弱的量分别为： $6 2 . 9 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 } , 8 8 . 4 \mathrm { ~ W ~ } \cdot$ （20$\mathrm { ~ m ~ } ^ { - 2 } \cdot 4 0 . 5 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ;分别削弱了 $6 . 3 \% . 8 . \ 8 \%$ 、$4 . 1 \%$ ;大气浑浊度每增加0.1，太阳总辐射被削弱量为： $1 1 . 0 3 \mathrm {  ~ W ~ } \cdot \mathrm {  ~ m ~ } ^ { - 2 } , 1 2 . 1 9 \mathrm {  ~ W ~ } \cdot \mathrm {  ~ m ~ } ^ { - 2 } , 1 2 . 2 4 \mathrm {  ~ W ~ } \cdot \mathrm {  ~ m ~ } ^ { - 2 } , 1 2 . 1 \rule { 0 ex } { 5 ex } .$ （20$\mathrm { ~ m ~ } ^ { - 2 }$ 。这三天正午的大气波长指数分别为:0.095、0.102、0.25。由此可见，当大气浑浊度一定时，沙尘粒子越小，对太阳总辐射的削弱效率就越高。
+
+# 2.4沙尘对大气逆辐射的影响
+
+大气逆辐射除了受大气沙尘影响以外，剧烈的气温变化也会对大气逆辐射造成一定影响。对于张掖地区，沙尘往往是伴着大风降温天气而来，因此在考虑对大气逆辐射的影响时，气温变化和大气沙尘浓度都不可忽略。
+
+从大气逆辐射与大气浑浊度的拟合曲线来看，当大气浑浊度小于0.3时，大气逆辐射有随大气浑浊度的增加而增加的趋势，两者相关系数为0.61，达到了0.05的信度检验。张掖受山谷风的影响，一般情况下，每天中午到傍晚吹西北风，风力较大时可带来西北方戈壁沙漠的沙尘或将本地沙尘吹起，形成局地的弱扬沙天气。在这种情况下，气温也不会剧烈变化，影响大气逆辐射的主要因素是沙尘。由此分析，大气沙尘可以使大气逆辐射增加。当大气浑浊度大于0.3时，大气逆辐射有随大气浑浊度增加而减小的趋势，两者相关系数为-0.44，达到了0.05的信度检验。这是因为强沙尘天气（如沙尘暴)的出现往往跟大范围的大风降温天气联系在一起。这种情况下，虽然大气沙尘增加了大气逆辐射，但由于气温急剧下降，由气温下降而引起的大气逆辐射减少的量要多于因大气沙尘增加的量，从而在整体上表现为大气逆辐射随大气浑浊度的增加而下减的趋势。
+
+![](images/894528795d0cbe0d9e367fa8e2f43e6160feb1be433f8ce3cd06e868cee974a5.jpg)  
+注：方块为观测值、黑圆点为拟合值   
+图5张掖正午大气逆辐射和大气浑浊度关系 Fig.5Relationship between atmospheric counter radiation and atmospheric turbidity in Zhangye at noon
+
+# 3结论
+
+本文选择了张掖站晴朗少云天正午的地表辐射和太阳光度计资料，通过不同波段的光学厚度插值得到大气浑浊度，然后由大气浑浊度和大气透过率的函数求出大气透过率，进而求出太阳总辐射的计算值。经过比较，计算值与观测值基本吻合，误差在$1 \%$ 以下。得出：
+
+（1）沙尘对太阳总辐射有削弱作用，计算结果表明，大气浑浊度每增加0.1，太阳总辐射平均减少约 $1 0 . 4 5 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ 。当大气浑浊度一定时,沙尘粒子越小，对太阳总辐射的削弱效率就越高。
+
+(2）当大气浑浊度小于0.3时，大气逆辐射有随大气浑浊度的增加而增加的趋势，此过程中起主要作用的是沙尘，其有增加大气逆辐射的作用；当大气浑浊度大于0.3时，大气逆辐射随大气浑浊度增加有减小的趋势；此过程中气温的骤降是主要的因素，由气温下降而引起的大气逆辐射减少的量要多于因大气沙尘而增加的量，从而在整体上表现为大气逆辐射随大气浑浊度的增加而下减的趋势。
+
+# 4讨论
+
+本文得出的沙尘气溶胶对辐射的定量及定性的结论在进一步分析及模拟沙尘气溶胶的气候效应时可作为参考;因资料及学识的限制，本文还有许多未尽之处，现将一些想法总结如下：
+
+（1）如果能获得长期的地表辐射和太阳光度计观测资料，并对沙尘天气进行分型，分析不同天气背景下沙尘对辐射的影响，代表性会更强。
+
+（2）如果能在计算大气透过率时考虑地形、下垫面等条件，并能利用该地区沙尘气溶胶光散射、吸收特性的观测资料，通过辐射传输模式计算大气透过率，会得到精度更高的结果。
+
+（3）在分析沙尘对大气逆辐射影响时，若能获得更多样本，并对比分析沙尘天气中沙尘浓度与气温的变化特征，将会得到更好的结果。
+
+参考文献（References）   
+[1]石广玉,王标,张华,等.大气气溶胶的辐射与气候效应[J].大 气科学,2008,32（4）:826-840.[SHI Guangyu,WANG Biao, ZHANG Hua,etal.The radiative and climatic effects ofatmospheric aerosols[J].Chinese Journal of Atmospheric Sciences,2008,32 (4) :826 -840.]   
+[2］王式功,杨民,祁斌,等.甘肃河西沙尘暴对兰州市空气污染的 影响[J].中国沙漠,1999,19（4）:354-358.[WANG Shigong, YANG Min,QI Bin,et al.Influence of sand-dust storms occuring over the Gansu Hexi district on the air pollution in Lanzhou City [J].Journal of Desert Research,1999,19(4）:354 -358.]   
+[3］盛立芳,耿敏,王园香,等.2002 年春季沙尘暴对青岛大气气溶 胶的影响［J].环境科学研究,2003,16（5）： $1 1 - 1 3 + 1 7$ [SHENG Lifang,GENG Min,WANG Yuanxiang,et al. Effects of dust storms on atmospheric aerosols in Qingdao in spring 2002 [J].Research of Environmental Sciences,2003,16(5）： $1 1 - 1 3 +$ 17.]   
+[4]HAYWOOD JM,FRANCIS P N,GLEW M D.Optical properties and direct radiative effect of Saharan dust:A case study of two Saharan dust outbreaks using aircraft data[J].Geophys Res,2003, 108（D16）:18417-18430 .   
+[5]GUNNAR Myhre,FRODE Stordal. Global sensitivity experiments of the radiative forcing due to mineral aerasols[J]. Journal of Geophysical Research,2001,（18）:193-204.   
+[6]SPYROU C,KALLOS G,MITSAKOU C,et al. Radiation effects of desert dust on weather and regional climate［J].Atmospheric Chemistry& Physics,2013,13（11）:1327 -1365.   
+[7］韩晶晶,王式功,祈斌,等.气溶胶光学厚度的分布特征及其与 沙尘天气的关系[J]中国沙漠,2006,26(3）：362-369.［HAN Jingjing,WANG Shigong,QI Bin,et al. Distribution of aerosol optical thickness and its relation with dusty weather in China[J].Journal of Desert Research,2006,26(3）:362 -369.]   
+[8］沈志宝,魏丽.黑河地区大气沙尘对地面辐射能收支的影响 [J].高原气象,1999,18（1）:2-8.[SHEN Zhibao,WEI Li.The influence of atmospheric dust on the surface radiative energy budget in the Heihe area[J].Plateau Meteorology,1999,18（1）:2- 8.]   
+[9]SHI G Y,WANG H,WANG B,et al. Sensitivity experiments on the effects of optical properties of dust aerosols on the radiative forcing under clear sky condition[J]. Journal of the Meteorological Society of Japan,2005,83:333-346.   
+[10］白鸿涛,陈勇航,王洪强,等.黄土高原半干旱区气溶胶光学特 性季节变化特征[J].干旱区地理,2011,34（2)：292－299. [ BAI Hongtao,CHEN Yonghang, WANG Hongqiang,et al. Seasonal variation of aerosol optical properties at AERONET of the semiaridregion inLoess Plateau[J].AridLand Geography,2011,34 (2) :292 -299.]   
+[11］王宏,石广玉,王标,等.中国沙漠沙尘气溶胶对沙漠源区及北 太平洋地区大气辐射加热的影响[J].大气科学，2007,31(3) :515-526.[WANG Hong,SHI Guangyu,WANG Biao,et al. The impacts of dust aerosol from deserts of China on the radiative heating rate over desert sources and the north pacific region[J].Chinese Journal of Atmospheric Sciences,2007,31(3）:515-526.]   
+[12]HUANG J,FU Q,SU J. Taklimakan dust aerosol radiative heating derived from CALIPSO observations using the Fu-Liou radiation model with CERES constraints[J].Atmos Chem Phys,2009,（9）： 4011-4021.   
+[13］韩兰英,万信,方峰,等.甘肃河西地区沙漠化遥感监测评估 [J].干旱区地理,2013,36（1）:131－138.[HAN Lanying, WAN Xin,FANG Feng,et al. Desertification assessments of Hexi regions in Gansu Province by remote sensing[J]. Arid Land Geography,2013,36(1) :131-138.]   
+[14］陈亚宁,杨青,罗毅,等.西北干旱区水资源问题研究思考［J]. 干旱区地理,2012,35(1）:1-9.[CHEN Yaning,YANG Qing, LUO Yi,et al.Ponder on the issues of water resources in the arid region of northweat China[J].Arid Land Geography,2012,35 (1) :1-9.]   
+[15］刘明哲,魏文寿.南疆近60 年来的气候变化及其对沙尘暴发 生条件的影响[J].干旱区地理,2005,28(4)：479-483.［LIU Mingzhe,WEI Wenshou.Effect of climate change on the occur rence of dust storms in south Xinjiang since recent 6O years[J]. Arid Land Geography,2005,28（4）:479-483.]   
+[16］魏文寿,高卫东,史玉光,等.新疆地区气候与环境变化对沙尘 暴的影响研究[J].干旱区地理,2004,27（4）：137-141.［WEI Wenshou,GAO Weidong,SHI Yuguang,et al. Influence of climate and environment change on dust storms in Xinjiang[J].Arid Land Geography,2004,27(4) :137 -141.]   
+[17］霍文,杨青,何清,等.新疆大风区沙尘暴气候特征分析[J].干 旱区地理,2011,34(5）:753-761.[HUO Wen,YANGQing,HE Qing,et al. Climate characteristics of sandstorm of strong wind area in Xinjiang[J].Arid Land Geography,2011,34(5）:753-761.]   
+[18］王汝佛,冯强,尚可政.2010 春季我国一次强沙尘暴过程分析 [J].干旱区地理,2014,37（1）:31-44.[WANG Rufo,FENG Qiang,SHANG Kezheng.A severe sand-dust storm over China in the spring of 2010[J].Arid Land Geography,2014,37(1）:31-44.]   
+[19]ZHONG Qiang,WU Aishen.On the relationship between planetary and surface albedo: Model's comparison and validation[J].Acta
+
+Meteorological Sinica,1995,9(4）：402-411.
+
+# Influence of spring dust aerosol on radiation over the arid area in Hexi Corridor
+
+TIAN Lei1,23，ZHANG Wu1，CHANG Zhuo-lin23，MU Jian-hua23，CAO Ning $^ { 2 , 3 }$ ,MA Si-min2.3 (1Key-LaboratoryofSm-AridClimateChangeofMinistryofEducation,CollgeofAtmospheric Siences,LanzhouUniesity， Lanzhou73oo0,Gansu,China；2KeyLaboratoryforMeteorological Disaster MonitoringandEarly Warning andRisk ManagementofharacteristicAgricultureinAridRegions,CMA,Yinchuan750o2,Ningxia,China；3NingxiaKeyLabof Meteorological Disaster Prevention and Reduction,Yinchuan 75ooO2,Ningxia,China)
+
+Abstract：Dust aerosol,naturally generated and affected bytheunderlying surface and weather,isoneof the main components of tropospheric aerosols.It also leads to severe dust retention in a storm.In northwest China,spring (from March to May）is thedust stormseason.Sandstormsand local sandstorms liftlarge quantities of dust into the air and bring them to downstream area.This would cause acontinuous high concentration of dust aerosols in northwest China.The frequent occurrence of sandstorm severely affects the normal lifeof theresidents and causes great losses to property of residence and society as a whole.Moreover,dustcarried bysandstorms also has impact on he radiationbalance of theearth'satmosphere system through direct or semi-directradiation,and then afects the regionaland global climate.Inorder to analyze the influenceof sandandduston total solar radiationand atmospheric inverse radiation,the data of the surface radiation and solar photometer were obtained by both Lanzhou University and Maryland Universityat Zhangye station from April18 to June15 in2Oo8.The surface radiation and solar photometric data at cloudless and sunny noon was chosen to eliminate the influence of cloudon atmospheric transmittance.The atmospheric turbidity isobtainedbyoptical thickness interpolationof diferent wavebands.The atmospherictransmittance iscalculated bythe functionof atmospheric turbidityand atmospheric transmitance.Then,the value of total solarradiation is calculated.Aftercomparison,thecalculatedvalue is basically in line with the observed value,and the error is below $1 \%$ .The results showed that dust in the air can reduce the solar radiation reached to the surface,the estimation of reduction is $1 0 . 4 5 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ while O.1 atmospheric turbidity is added.If the atmospheric turbidity isconstant,thesmallerthedustparticlesare,the highertheeficiencyofreductionofdust will be.By analyzingthe trendof the inversionof thegasandthe atmospheric turbidity,it indicated that when atmospheric turbidityvalue is lessthan O.3,there isatrend that atmospheric inverseradiation increases withthe atmospheric turbidity；when atmospheric turbidity value is greater than O.3,the atmospheric inverse radiation decreases with theatmospheric turbidity.In the processof atmospheric turbidity,the decrease of temperature is a main factor. The decrease amount of atmospheric inverse radiation caused by temperature is greater than that by dust.Therefore, there is an inverse relationship between atmospheric inverse radiation and atmospheric turbidity.
+
+Key words:dust aerosols ；radiation；atmospheric transmittance；optical thickness

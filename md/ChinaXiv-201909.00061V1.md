@@ -1,0 +1,121 @@
+# 塔克拉玛干沙漠西南部的短命植物及其新记录种
+
+艾沙江·阿不都沙拉木1,²，帕太木·依明²，卡迪尔·阿布都热西提1,²，张凯1,2（1．喀什大学叶尔羌绿洲生态与生物资源自治区高校重点实验室，新疆 喀什844006;2．喀什大学生命与地理科学学院，新疆 喀什844006)
+
+摘要：本文采用野外实地调查、标本整理及资料查阅的方法,研究塔克拉玛干沙漠西南部荒漠环境的短命植物，分析其种类组成、生活型特征(物候特性)和植物区系类型。结果： $\textcircled{1}$ 研究区的短命植物种类有十字花科、禾本科、菊科、紫草科、茄科、车前科、罂粟科及牛儿苗科等8科21属的27种,其中十字花科有15种。新记录种有卷果涩荠、大蒜芥、蝎尾菊、偏穗雀麦、旱麦草、中亚天仙子、牛儿苗、垂果大蒜芥及砂蓝刺头等10种,占该区域短命植物的 $3 7 \%$ 。 $\textcircled{2}$ 该区域短命植物生活史特征有夏性、冬性及春性。 $\textcircled{3}$ 该区域短命植物分别属于北温带分布、地中海-西亚至中亚分布、旧世界温带分布、世界分布及中亚分布,其中北温带分布及地中海－西亚至中亚分布的植物有15种，占研究区统计种类的 $5 1 . 8 6 \%$ 。该研究结果丰富了新疆南部特殊生境下的短命植物类群,为开发和保护该地区植物种质资源及揭示短命植物对不同生态环境的响应具有重要意义。
+
+关键词：生境；短命植物；种类组成；植物区系；生活史；新疆南部
+
+短命植物是生长在干旱荒漠地带的一类生活周期或年生长期很短，且在第三纪末第四纪初为适应干热环境才大量发育形成的年轻植物类群(1-6。该植物类群广泛分布在中亚、西亚、北非、北美、南美和地中海沿岸等地区的荒漠地带[4,7-8],中亚是其分布中心之一[6.9-10]。据报道,我国的短命植物主要分布在新疆北部及东北荒漠环境，其中新疆北部分布的短命植物有百合科、十字花科、菊科等27科97属205 种,占全国已报道种类的90%以上[2,9,11] O
+
+自刘慎谔先生1934年报道新疆北部荒漠环境分布有短命植物荒漠庭荠以后[2.9],有关学者对北疆温带气候类型准噶尔荒漠分布的短命植物的区系特点[9,12-13]、开花物候[14]、繁殖分配[15-16]、繁育系统[17]、解剖学和胚胎学(18]、结实和扩散特性[19]、光合生理特性(20-21]以及水分的响应[6,22]等方面开展了深入的研究，并产生了许多具有国际先进水平的研究成果。研究表明，我国短命植物的生活型属于春季和秋季降雨量增多时萌动的春性短命植物、冬性短命植物〔6,18]及夏性短命植物3种类型[5,23-24]；
+
+至今，新疆南部暖温带荒漠环境是否存在短命植物？如果存在，该类群的生活型等问题鲜有报道。
+
+陈灵芝等[25]认为,我国新疆南部暖温带大陆干旱性荒漠环境中可能分布有夏性短命植物。为了证实该推测，在2016年和2017年5—11月上旬对塔克拉玛干沙漠西南部荒漠环境的短命植物种类及生活史特性以及植物区系特点进行了初步的调查。本研究不仅揭示了该地区的短命植物资源及植物区系特点，而且为进一步研究该区域物种的形成和演化过程及其对温带荒漠环境的响应提供了理论依据。
+
+# 研究材料与方法
+
+# 1.1 研究区概况
+
+研究区位于塔克拉玛干沙漠的西南部，新疆南部天山山脉与昆仑山山脉相交叉的喀什市和阿图什格达良及乌恰县波斯坦铁列克乡等区域，是典型的荒漠-绿洲及荒漠－草原带;该区域属于暖温带荒漠气候，年降雨量不足 $1 0 0 ~ \mathrm { { m m } }$ ,蒸发量大。
+
+# 1.2 研究方法
+
+2016年6月至2018年6月，对塔克拉玛干沙漠西南部的喀什市周围( $3 9 ^ { \circ } 2 8 ^ { \prime } \mathrm { N } , 7 5 ^ { \circ } 5 9 ^ { \prime } \mathrm { E }$ ;海拔1200m）、阿图什格达良 $\langle 3 9 ^ { \circ } 4 4 ^ { \prime } \mathrm { N } , 7 6 ^ { \circ } 3 6 ^ { \prime } \mathrm { E }$ ;海拔1200m）、乌恰县波斯坦铁列克乡 $( 3 9 ^ { \circ } 1 4 ^ { \prime } 5 0 ^ { \prime \prime } \mathrm { N } , 7 5 ^ { \circ } 0 4 ^ { \prime } 3 0 ^ { \prime \prime } \mathrm { E }$ 海拔 $2 2 0 0 \ \mathrm { m } \$ )等区域的荒漠植物类型进行了调研，并对各观测地点的植物进行了标本采集制作。通过查阅及核对中国植物数字标本馆及喀什大学标本馆已整理的标本,并借助《新疆植物志》[26]和毛祖美等[27]的有关的短命植物文献及工具书的描述来准确鉴定[1-2]。同时,在2017年4月至2018年9月，在阿图什格达良及喀什市周围的自然环境中，对已确定的短命植物的萌动时间、开花时间、果实成熟时间及生活周期进行了观察并记录;按植物的萌动时间来判断短命植物生活型（春性、夏性或冬性短命植物);最后,参考吴征镒院士[28 编著的《中国种子植物区系地理》和孙航编著的《中国植物区系与植被地理》[25],对已鉴定的短命植物种类进行了区系分析。
+
+# 2 研究结果法
+
+# 2.1塔克拉玛干沙漠西南部的短命植物类群
+
+在该区域初步鉴定的短命植物有十字花科、紫草科、茄科、车前科、禾本科、辊牛儿苗科、菊科及罂粟科等8科21属的27个种;其中十字花科及禾本科的种类最多，而茄科、车前科、罂粟科及拢牛儿苗科均有1个种(图1及表1)。十字花科植物的属和种在该区域短命植物中占 $5 5 . ~ 5 6 \%$ 和52. $3 8 \%$ （图2）。
+
+![](images/daecb84b54a25e4c791c994250df211f6787ad066682f5a2894d663f082f2726.jpg)  
+图1塔克拉玛干沙漠西南部分布的短命植物种类及其自然环境
+
+注：（a）西伯利亚离子芥；(b）牛儿苗；(c）独行菜；(d）大蒜芥；（e）四齿芥；(f）砂蓝刺头；（g）两形果鹤虱；（h）垂果大蒜芥；(i）卷果涩荠；（j）旱麦草；(k）中亚天仙子；(1）蝎尾菊。
+
+Fig.1The ephemeral plant species and their growth natural environment in the Southwest Taklimakan Desert
+
+表1塔克拉玛干沙漠西南部短命植物类群及基本特征  
+Tab.1Basic characters and phytogroups of the ephemeral plants in the Southwest Taklimakan Desert   
+
+<html><body><table><tr><td>科名 属名</td><td></td><td>种名</td><td>分布区</td><td>新疆植物志 是否记载过</td><td>新疆植物志 卷册页码</td><td>生长环境</td><td>标本来源</td></tr><tr><td>十字花科 Brassicaceae</td><td>涩荠属 Malcolmia</td><td>卷果涩荠 Malcolmia scorpioides</td><td>乌恰县荒漠环境</td><td>否</td><td></td><td>干旱山坡</td><td>喀什大学标本馆</td></tr><tr><td rowspan="9"></td><td></td><td>Macolmia fiana</td><td>乌恰县荒漠环境</td><td>是</td><td>新二物第第二</td><td>荒漠化草原</td><td>喀什大学标本馆</td></tr><tr><td>四棱荠属 Gldbachia</td><td>四棱荠 Goldbachia Laevigata</td><td>库车,乌恰</td><td>是</td><td>新疆植物志第二卷 第二分册第189 页</td><td>荒漠化草原</td><td>喀什大学标本馆</td></tr><tr><td>大蒜荠属 Sisymbrium</td><td>大蒜芥 Sisymbrium altissimum</td><td>阿图什</td><td>香</td><td></td><td>荒漠化草原</td><td>喀什大学标本馆</td></tr><tr><td></td><td>垂果大蒜芥 Sisymbrium heteromallum</td><td>乌恰县</td><td>香</td><td></td><td>荒漠化草原</td><td>喀什大学标本馆</td></tr><tr><td>离子养属</td><td>离子ora enela</td><td>乌恰县荒漠环境</td><td>是</td><td>新二物第二</td><td>山地荒漠草甸</td><td>喀什大学标本馆</td></tr><tr><td></td><td>西伯利亚离子</td><td>喀什市</td><td>是</td><td>新二物第二</td><td>荒地</td><td>喀什大学标本馆</td></tr><tr><td>独行属 播娘蒿属</td><td>Lepaun pgea</td><td>喀什,乌恰</td><td>是</td><td>新二物志第二</td><td>山地及，平的</td><td>喀什大学标本馆</td></tr><tr><td>Descurainia</td><td>播娘蒿 Descurainia sophia</td><td>喀什,阿图什,乌恰</td><td>是</td><td>新疆植物志第二卷 第二分册第225页</td><td>荒漠化的草原</td><td>喀什大学标本馆</td></tr><tr><td>群心属</td><td>群aridradb</td><td>乌恰县荒漠环境</td><td>否</td><td></td><td>荒漠化的草原</td><td>喀什大学标本馆</td></tr><tr><td></td><td></td><td>musi arense</td><td>喀什,阿图什</td><td>是</td><td>新二第二</td><td>荒漠化的草原</td><td>喀什大学标本馆</td></tr><tr><td></td><td>葶芳属 四齿芥属</td><td></td><td>和静、库车</td><td>是</td><td>新二物第二</td><td>荒漠化的草原</td><td>喀什大学标本馆</td></tr><tr><td></td><td>Tetracme</td><td>四齿芥 Tetracme quadricornis</td><td>乌恰、阿图什</td><td>是</td><td>新疆植物志第二卷 第二分册第162页</td><td>荒漠及戈壁滩</td><td>喀什大学标本馆</td></tr><tr><td>菊科</td><td></td><td>扭果四齿芥 Tetracme contorta</td><td>乌恰、阿图什</td><td>是</td><td>新疆植物志第二卷 第二分册第163页</td><td>荒漠及戈壁滩</td><td>喀什大学标本馆</td></tr><tr><td>蝎尾菊属</td><td>芸苔属</td><td></td><td>乌恰、阿图什</td><td>是</td><td>新二物第二卷</td><td>荒漠及戈壁滩</td><td>喀什大学标本馆</td></tr><tr><td>Asteraceae</td><td>Koelpinia</td><td>蝎尾菊 Koelpinia linearis</td><td>乌恰县荒漠环境</td><td>否</td><td></td><td>荒漠及戈壁滩</td><td>喀什大学标本馆</td></tr><tr><td></td><td>蓝刺头属</td><td>砂ngmli</td><td>阿图什</td><td>香</td><td></td><td>荒漠及戈壁滩</td><td>喀什大学标本馆</td></tr><tr><td>茄科 Solanaceae</td><td>天仙子属 Hyoscyamus</td><td>中亚天仙子 Hyoscyamus pusillus</td><td>乌恰县荒漠环境</td><td>香</td><td></td><td>荒漠及戈壁滩</td><td>喀什大学标本馆</td></tr><tr><td>特牛儿苗科</td><td>拢牛儿苗属</td><td></td><td>阿图什</td><td>否</td><td></td><td>荒漠及戈壁滩</td><td>喀什大学标本馆</td></tr><tr><td>科cae</td><td></td><td>Huanigerum</td><td>乌恰县</td><td>是</td><td>新二物第二卷</td><td>荒漠及戈壁滩</td><td>喀什大学标本馆</td></tr><tr><td>a前naceae</td><td>车前属 Plantago</td><td>小车tgminta</td><td>乌恰县、库车县</td><td>是</td><td>新疆植物志第四卷</td><td>路边或荒漠化草原</td><td>喀什大学标本馆</td></tr><tr><td>紫草科 Boraginaceae</td><td>鹤虱属 Lappula</td><td>两形果鹤虱 Lappula duplicicarpa</td><td>阿图什、叶城</td><td>是</td><td>新疆植物志第四卷 第187页</td><td>荒漠及戈壁滩</td><td>喀什大学标本馆</td></tr><tr><td rowspan="4">禾本科</td><td></td><td></td><td>乌恰县</td><td>是</td><td>新疆物志第四卷</td><td>荒漠及戈壁滩</td><td>喀什大学标本馆</td></tr><tr><td>雀麦属</td><td></td><td>乌恰县</td><td>是</td><td>新疆物志第六卷</td><td>荒漠化草原</td><td>喀什大学标本馆</td></tr><tr><td></td><td>偏穗雀麦osus</td><td>喀什、乌恰</td><td>香</td><td></td><td>荒漠化草原</td><td>喀什大学标本馆</td></tr><tr><td>早麦草</td><td></td><td>乌恰</td><td>香</td><td></td><td>荒漠化草原</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>喀什大学标本馆</td></tr><tr><td></td><td>芨草rum</td><td>herm slendens</td><td>阿克苏，阿图什，塔</td><td>是</td><td>新疆物志第六卷</td><td>路边或荒漠化草原</td><td>喀什大学标本馆</td></tr></table></body></html>
+
+![](images/733ea4356d4b59b06c0eac1cfd3c6ed9f5e24b9b5e783d2a1c0dd99a816d86c0.jpg)  
+图2塔克拉玛干沙漠西南部短命植物在总属及总种中所占比例  
+Fig.2Proportions ofthe ephemeral plants inthetotal genusandtotal species inthe SouthwestTaklimakan Desert
+
+该区域已发现的短命植物中，塔克拉玛干沙漠西南部新纪录的短命植物种类有卷果涩荠（Malcol-miascorpioides）大蒜芥（Sisymbriumaltissimum）蝎尾菊（Koelpinia linearis）、偏穗雀麦（Bromussquarro-sus）、旱麦草（Eremopyrumtriticeum）、中亚天仙子(Hyoscyamuspusillus）垂果大蒜芥（Sisymbrium hete-romallum）及砂蓝刺头（Echinopsgmelinii）牛儿苗(Erodium stephanianum）群心菜(Cardariadraba)等10 种;其中卷果涩荠、大蒜芥、砂蓝刺头、蝎尾菊、旱麦草及中亚天仙子在不同海拔的荒漠环境中均有出现，而垂果大蒜芥、偏穗雀麦在荒漠化草原中出现。新纪录植物主要分布于克孜勒苏柯尔克孜自治州的阿图什及乌恰县。
+
+# 2.2短命植物物候特点
+
+该区域分布的短命植物的生活史特征属于冬性、夏性及春性3种类型。（1）冬性与夏性生活史特征：格达良荒漠环境生长的大蒜芥、四齿芥、旱麦草、两形果鹤虱、狭果鹤虱、蝎尾菊、砂蓝刺头、薪蓂、旱麦草及芨芨草等植物在生活史上表现出以冬性为主的特点;观察过程中发现，该区域的一部分短命植物主要在9—10月降雨量增多时萌动，第2年5-6月完成生活周期；但在高海拔荒漠戈壁滩生长的短命植物可能在夏季降雨量增多时开始萌动，同年8—9月完成生活周期。（2）冬性与春性生活史特征：乌恰县荒漠环境生长的卷果涩荠、涩荠、离子芥、西伯利亚离子芥、中亚天仙子、小车前、雀麦及偏穗雀麦等植物，在该区域表现出冬性与春性短命植物的特征。（3）春性生活史特征：独行菜、群心菜、牛儿苗、小车前、芨芨草及旱麦草在喀什周围的荒漠环境中表现出春性短命植物的特点；但该结果需要进一步的验证。
+
+# 2.3短命植物的区系特点
+
+该区域短命植物的主要植物区系为地中海－西亚至中亚分布成分及北温带分布为主。塔克拉玛干沙漠西南部的新纪录中有地中海－西亚至中亚成分的卷果涩荠、蝎尾菊和拢牛儿苗3种，而世界分布成分的有大蒜芥和垂果大蒜芥2种，在其他3个区域成分各有1种（表2，图3）。
+
+# 3讨论
+
+毛祖美等[27]和李世英[29]认为,新疆南部的短命植物是随干旱气候的逐步加强而逐渐消失的。但荒漠生态系统具有的特殊生境条件[30],在南北疆具有某些相似性。研究发现，新疆南部发现的短命植物无论是科、属还是种数，都远低于降雨量较多的新疆北部;塔克拉玛干沙漠西南部已发现的8科21属的27种短命植物主要生长于海拔 $1 \ 0 0 0 \sim 2 \ 0 0 0 \ \mathrm { m }$ 的荒漠或戈壁滩，其中的10种植物是该区域新记录种。这也使得该区域的短命植物种类和生活史特征与北疆地区间有明显的差异。因此，该区域的植物多样性及种质资源需要进一步调研。
+
+表2塔克拉玛干沙漠西南部短命植物的区系特点  
+Tab.2Plant flora characters of the ephemeral plants in the Southwest Taklimakan Desert   
+
+<html><body><table><tr><td colspan="2">分布区</td><td>物种</td></tr><tr><td>世界分布</td><td></td><td>大蒜荠、独行菜、小车前、垂果大蒜荠</td></tr><tr><td rowspan="5">北温带分布 旧世界温带分布</td><td>北温带和南温带间断</td><td>遏蓝菜、旱雀麦、偏穗雀麦、两形果鹤虱、卵果鹤虱、播娘蒿、四棱荠</td></tr><tr><td>欧亚和温带南美洲间断</td><td>锥果葶苈</td></tr><tr><td>地中海和喜马拉雅间断</td><td>中亚天仙子、荠菜、芨芨草、麟果海罂粟、砂蓝刺头</td></tr><tr><td>地中海、西亚至中亚分布</td><td>西伯利亚离子荠、离子荠、群心菜、涩荠、卷果涩荠、蝎尾菊、牛儿苗</td></tr><tr><td>准噶尔地区</td><td></td></tr><tr><td colspan="2">中亚分布 中亚东部(中部亚洲) 旱麦草</td><td>四齿芥、扭果四齿芥</td></tr></table></body></html>
+
+![](images/29cbd2ace667227682d157eab7772b2698b4802bf81bbd208bd4974953fe2f6b.jpg)  
+图3研究区不同分布的短命植物所占比例Fig.3Proportions of the ephemeral plants in differentdistribution areas
+
+虽然该区域位于亚洲大陆腹地，地形封闭，气候极端干旱，气温高，雨季来得较晚，但年降水量比塔克拉玛干沙漠( $2 0 \sim 4 0 ~ \mathrm { m m }$ )多2倍;其独特的地理位置以及受西风带和北冰洋水汽的影响，自然地理条件为我国其他荒漠所罕见[10]。因此,该区域的暖温气候特征形成了独特的暖温带气候类型，即利用夏季降水生长的夏性一年生植物和与秋季降雨量有关的冬性一年性植物。新疆塔克拉玛干沙漠西南部的短命植物在生活史特征上与相似气候条件的美国Sonoran 沙漠夏季、早秋完成生活周期[24]及南非的Namaqualand地区和以色列的Negev 沙漠的[23冬性一年性短命植物相似;这需要进一步控制性实验的验证。
+
+因塔克拉玛干沙漠西南部的古地中海植物区属于Takhtajan的马卡罗尼亚地区及地中海地区的暖温带荒漠性质，与古地中海联系在一起形成了独特的短命植物[25]。本区域发现的短命植物以地中海一西亚至中亚及温带(北温带及旧温带)的科属为主，并形成了春雨型一年生植物，其代替了夏雨型或秋雨型一年生短命植物。另外,塔克拉玛干沙漠西南部新记录的10种短命植物主要分布于两大山脉(天山和昆仑山山脉)交叉地乌恰县。乌恰县属于山地荒漠和高山荒漠气候，西昆仑东段南翼以高山草原为基带，其上有高山草甸带。所以，该县周围不仅有北温带及地中海成分的植物类群，而且有受中亚区系深刻影响而形成的独特的植物资源，还有因历史地理等原因经过热带高山而跨入的植物类群[25]。因此,乌恰周围的阿图什及喀什等地区短命植物区系特征表现出以旧世界温带分布、地中海-西亚至中亚分布及中亚分布区为主的独特植物区系特点。
+
+# 4结论
+
+本研究发现的27种短命植物以及其中的10种新记录种，主要分布在塔克拉玛干沙漠西南部的暖温带荒漠环境中，该区域的短命植物在物候类型上以有独特的夏性短命植物为主；新发现的短命植物类群在新疆南部种子植物演化及该区域植物区系研究中具有重要的科学意义。
+
+# 参考文献(References）：
+
+[1]Risser PG,Cottan G.Carbohydrate cycle in the bulbs of some spring ephemerals[J].Bulletin of the Torrey Botanical Club, 1968,95(4) :359 -369.   
+[2]张立运.新疆莫索湾地区短命植物的初步研究[J].植物生态 学与地植物学丛刊,1985,9（3）:213-221.［Zhang Liyun.A preliminary study on the ephemerals in the Mosowan District,Xinjiang[J].Acta Phytoecologica Et Geobotanica Sinica,1985,9 (3):213 -221.]   
+[3]Wilby A,Shachak M.Harvester ant response to spatial and temporal heterogeneity in seed availability:Pattern in the process of granivory[J].Oecologia,2000,125（4）:495-503.   
+[4] Gutterman Y. Short communication:Phenotypic germination plasticity related to caryopsis size in Schismus arabicus[J].Seed Science Research,2001,11(2):173-178.   
+[5]Lu JJ,Tan DY,Baskin JM,et al.Fruit and seed heteromorphism in the cold desert annual ephemeral Diptychocarpus strictus（Brassicaceae）and possible adaptive significance[J].Annals of Botany,2010,105(6):999-1 014.   
+[6]袁素芬,唐海萍,张宏锋.短命植物层群落年内变化与水热条 件的关系［J].干旱区研究,2015,32（5）：941-946.［Yuan Sufen,Tang Haiping,Zhang Hongfeng. On the relationships between intra-annual variation of ephemeral synusia and hydrothermal conditions[J].Arid Zone Research,2015,32（5）:941 - 946.]   
+[7]Telenius A.The demography of the short-lived perennial halophyte spergularia maritime in a sea-shore meadow in south-western Sweden[J]. Journal of Ecology,1993,81(1）:61-73.   
+[8] Baskin C C,Baskin JM,Elmoursey S A.Seasonal changes in germination responses of buried seeds of the weedy summer annual grass[J].Weed Research,2010,36(4）:319-324.   
+[9] 毛祖美,张佃民.新疆北部早春短命植物区系纲要[J].干旱区 研究,1994,11（3）:1-26.[Mao Zumei,Zhang Dianmin.The conspectus of ephemeral flora in Northern Xinjiang[J].Arid Zone Research,1994,11(3):1 - 26.]   
+[10］黄培祐.准噶尔盆地荒漠生物类群与环境的关系[J].生态学 杂志,1991,10(1）:6 -10.[Huang Peiyou.Relationship between living things and environment in desert of Zhungeer Basin[J]. Chinese Journal of Ecology,1991,10(1）:6 -10.]   
+[11］张立运.新疆天然草场上的短命和类短命植物及其饲用评价 [J].中国草地学报,1983（2）:28-32.[Zhang Liyun.Ephemeral and ephemeral plants in natural grassands of Xinjiang and their feeding evaluation[J]. Chinese Journal of Grassand,1983（2）： 28-32.]   
+[12］王雪芹,蒋进,雷加强,等.古尔班通古特沙漠短命植物分布及 其沙面稳定意义[J].地理学报,2003,58（4）：598－605. [Wang Xueqin,Jiang Jin,Lei Jiaqiang,et al.The distribution of ephemeral vegetation on the longitudinal dune surface and its stabilization significance in the Gurbantunggut Desert[J].Acta Geographica Sinica,2003,58(4） :598-605.]   
+[13］钱亦兵,吴兆宁,张立运,等.古尔班通古特沙漠短命植物的空 间分布特征[J].科学通报,2007,52（19）:2 299-2 306.[Qian Yibing,Wu Zhaoning,Zhang Liu,etal.Spatialdistributioncharacteristics of short-lived plants in Gurbantunggut Desert[J].Chinese Science Bulletin,2007,52(19):2299-2 306.]   
+[14］马生军,谭敦炎.短命植物甘新念珠芥（Neotorularia korolkovii） 和宽翅菘蓝（Isatis violascens）的物候与性表达特征[J].生态 学报,2007,27(2）:486-496.[Ma Shengjun,Tan Dunyan.Phenology and sex expression of Junggar desert ephemerals Neotorularia korolkovii and Isatis violascens（Brassicaceae）[J].Acta Ecologica Sinica,2007,27(2) :486-496.]   
+[15］艾沙江·阿不都沙拉木,谭敦炎,吾买尔夏提·塔汉.新疆郁 金香营养生长、个体大小和开花次序对繁殖分配的影响[J]. 生物多样性,2012,20（3）:391-399.[Aysajan Abdusalam,Tan Dunyan,Wumaierxiati Tahan.Effects of vegetative growth,individual size and flowering order on sexual reproduction allcation of Tulipa sinkiangensis[J].Biodiversity Science,2012,20（3）:391 -399. ]   
+[16]丁俊祥,范连连,李彦,等.古尔班通古特沙漠6 种荒漠草本植 物的生物量分配与相关生长关系〔J].中国沙漠,2016,36 (5）:1 323-1330.[Ding Junxiang,Fan Lianlian,Li Yan,et al. Biomass allocation and allometric relationships of six desert herbaceous plants in the Gurbantunggut Desert[J].Journal of Desert Research,2016,36(5):1 323-1 330.]   
+[17］赵学杰,谭敦炎,李新蓉.两种鹤虱属短命植物的繁育系统及 其对荒漠环境的适应[J].中国沙漠,2008,28（2）：294-300. [Zhao Xuejie,Tan Dunyan,Li Xinrong. Breeding systems of two ephemeral plants of the genus Crane Louse and their adaptation to desert environments[J].Journal of Desert Research,2008,28 (2):294-300.]   
+[18］吴雪莲,谭敦炎.异果芥的花部综合征及其繁育系统[J].植物 分类学报,2007,45（4）:538-550.[Wu Xuelian,Tan Dunyan. Floral characters and breeding systems in the dimorphic annual plant Diptychocarpus strictus(Cruciferae）[J].Acta Phytotaxonomica Sinica,2007,45(4) :538-550.]
+
+[19]刘晓风，谭敦炎.24种十字花科短命植物的扩散体特征及其扩
+
+散对策[J].植物生态学报,2007,31（6）:1019-1027.[Liu Xiaofeng,Tan Dunyan.Diaspore characteristics and dispersal strategies of 24 ephemeral species of Brassicaceae in the Junggar Desert of China[J]. Journal of Plant Ecology,2007,31(6）:1 019 - 1 027.]   
+[20］李薇,唐海萍.准噶尔盆地荒漠区短命植物光合蒸腾特性及影 响因素研究[J].西北植物学报,2006,26(12）:2 517-2 522. [Li Wei,Tang Haiping.Photosyntheticand transpiration characteristics and their affecting factors of ephemeral plant in the desert area of the Junggar Basin[J].Acta Botanica Boreali-Occidentalia Sinica,2006,26(12):2 517 -2 522.]   
+[21]邱娟,樊大勇,谭敦炎.准噶尔荒漠早春短命植物光合特性及 生物量分配特点[J].植物生态学报,2007,31（5）:883－891. [Qiu Juan,Fan Dayong,Tan Dunyan. Characteristics of photosynthesis and biomass allocation of spring ephemerals in the Junggar Desert[J].Journal of Plant Ecology,2007,31(5）:883-891.]   
+[22］李巧梅,曾勇,孙钦明,等.决定古尔班通古特沙漠短命植物分 布的关键因子是5月降水[J].生态学杂志,2014,33（8）： 2 038 -2 045.[Li Qiaomei,Zeng Yong,Sun Qinming,et al.Precipitation in May is a key factor to determinate the distribution of ephemeral plants in Gurbantunggut Desert[J]. Chinese Journal of Ecology,2014,33(8) :2 038 -2 045.]   
+[23]Pemadasa MA,LovellPH. Factors controlling germination of some dune annuals[J]. Journal of Ecology,1975,63(1）:41 -59.   
+[24]Mulroy TW,Rundel P W.Annual plants:Adaptations to desert environments[J].Bioscience,1977,27(2）:109-114.   
+[25]陈灵芝,孙航,郭柯.中国植物区系与植被地理[M].北京：科 学出版社,2014.[Chen Lingzhi,Sun Hang,Guo Ke.Chinese Floraand Vegetation Geography[M].Beijing:Science Press,2014.]   
+[26]新疆植物志编辑委员会.新疆植物志[M].乌鲁木齐：新疆科 技卫生出版社,1988-2014.[Xinjiang Botanical Flora Editorial Committe.Flora Xinjiangensis[M].Urumqi: Xinjiang Science and Technology Health Publishing House,1988-2014.]   
+[27］毛祖美,冯惠兰.新疆短命植物区系的研究[C]//中国科学院 新疆生态与地理研究所.新疆植物学研究文集.北京;科学出 版社,1991:93-101.[Mao Zumei,Feng Huilan.Studies on Ephemeral Flora in Xinjiang[C]//Xinjiang Institute of Ecology and Geography,Chinese Academy of Sciences.Collection of Botanical Studies in Xinjiang.Beijing:Science Press,1991:93-101.]   
+[28]吴征镒,孙航,周浙昆,等.中国种子植物区系地理[M].北京： 科学出版社,2010.[Wu Zhengyi,Sun Hang,Zhou Zhekun,et al. Floristics of Seed Plants from China[M].Beijing:Science Press, 2010.]   
+[29]李世英.北疆荒漠植被的基本特征[J].植物学报,1961,9（3- 4）:287 -312.[Li Shiying.Basic characteristics of desert vegetation in North Xinjiang[J].Acta Botanica Sinica,1961,9(3-4）： 287-312.]   
+[30］庄伟伟,张元明.生物结皮对荒漠草本植物群落结构的影响 [J].干旱区研究,2017,34(6）:1 338-1 344.[Zhuang Weiwei,Zhang Yuanming.Eect of soil microbiotic crust onplant community in the Gurbantunggut Desert[J].Arid Zone Research, 2017,34(6) :1 338 -1 344.]
+
+# Ephemeral Plants and Their Newly Recorded Species in the Southwest Taklimakan Desert
+
+Aysajan Abdusalam1,²，Pataimu Yiming²，Kadir Abdurixit $^ { 1 , 2 }$ ，ZHANG Kai $^ { 1 , 2 }$ (1.KeyLaboratoryofOasis EcologyandBiologicalResources inYarkandOasisatCollges &Universitiesunderthe Departmentof Education of Xinjiang Uygur Autonomous Region,Kashi University,Kashi 844OO6,Xinjiang,China; 2.College of Life and Geographic Sciences,Kashi University,Kashi 8440O6,Xinjiang,China)
+
+Abstract:In this paper,the ephemeral plants growing in desert environment in the southwest Taklimakan Desert were studied by the means offield investigation,specimens of finishing and data access,and their species compositions,life history characters（phenological characters）and flora characteristics wereanalyzed.The results showed that : $\textcircled{1}$ The ephemeral plants including 27 species in 21 genera and 8 families in the study area were preliminarily identified,whichwere Brassicaceae，Asteraceae,Solanaceae,Geraniacee,Papaveraceae,Plantaginaceae,Boraginaceae,and Poaceae,in which there were 15 species in Brassicaceae.There were also 10 newly recorded species,i. e.,the Malcolmia sorpiides,ismbriumaltissimum,Koelpinia linearis,Rromussquarosus,Eremoprumtceum, Hyoscyamus pusillus,Sisymbrium heteromallum,Echinops gmelinii,Erodium stephanianum and Cardaria draba,accounting for $37 \%$ of the ephemeral species in the study area. $\textcircled{2}$ The life cycle of the ephemeral plants in this area was characterized by spring ephemeral plant type,winter ephemeral plant type and summer ephemeral plant type. The low-altitude environment was mainly expressed by the winter ephemeral plant type and spring ephemeral plant type,and the high-altitude environment was expressed by the winter ephemeral plant typeand summer ephemeral plant type. $\textcircled{3}$ The ephemeral plants in the study area belonged to the distribution patterns of northern temperate zone,the zone from Mediterrnean-West Asia to Central Asia,Old World temperate zone,world temperateand Central Asia.Among them15 species belonged tothe distribution patterns of northern temperate zoneandthe zone from Mediterranean-West Asia to Central Asia,and they accounted for $5 1 . 8 6 \%$ of the total in the study area. Accordingly,especially the newly recorded species,enriched thedatabase of plant genetic diversity in thespecial habitatof south Xinjiang,andalso were of the importantscientificsignificance forresearchingthe responseof ephemeral plants to different ecological environments.
+
+Key words:habitat；ephemeral plant；species composition； flora； life history； South Xinjiang

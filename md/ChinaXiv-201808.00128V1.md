@@ -1,0 +1,323 @@
+# 基于用户扩展兴趣的微博推荐方法\*
+
+徐建民，刘明艳，王苗(河北大学 网络空间安全与计算机学院，河北 保定 071002)
+
+摘要：为解决微博用户兴趣提取不准确的问题，提出一种基于用户扩展兴趣的微博推荐方法。该方法将用户个体兴趣与关联兴趣结合为用户扩展兴趣进行微博推荐。其中，用户个体兴趣从用户标签、发布微博及交互微博中提取；用户关联兴趣通过用户与其关注用户间的关注关系强度、交互频繁程度和个体兴趣相似度获取。最后，计算用户扩展兴趣与待推荐微博的相似度，对相似度降序排列产生推荐列表。实验结果表明，新方法较传统方法更具有效性和准确性。
+
+关键词：个体兴趣；关联兴趣；扩展兴趣；微博推荐 中图分类号：TP393.02 doi:10.3969/j.issn.1001-3695.2018.05.0264
+
+# Microblog recommendation method based on extended interest of users
+
+Xu Jianming, Liu Mingyan, Wang Miao† (SchoolofCyber Security&Computer,Heibei University,BaodingHebei O71o02,China)
+
+Abstract:In order todeal with theproblem of extracting interestof microblog users inaccurately,this paper proposeda microblogrecommendation methodbasedonextended interestofusers.This methodcombined individualinterestandassociated interesttorepresent extended interest forrecommending microblogs.It extracted individual interestof users fromtheir tags, posted microblogsand interactedmicroblogs.Then it got associated interestbythe strengthoffollowing/followed links, interaction frequencyandindividualiterestsimilaritybtweenusersandtheirfolow.Finallycalculate thesimilaritybetwen extended interestofusersandthemicroblogstoberecommended,itgeneratedtherecommendationlistsbydescendingtherder of similarity.Experimental results show the method is more effective and precise than the traditional methods.
+
+Key words: individual interest; associated interest; extended interest; microblog recommendation
+
+# 0 引言
+
+随着新兴社交媒体的流行，微博已经成为人们分享、传播、获取信息的重要平台[1。用户的爆炸式增长导致微博平台产生的信息呈指数级增长，信息过载问题日益加剧[2。因此，针对微博用户的潜在需求，推荐其感兴趣的微博变得尤为重要。
+
+实现微博推荐的关键是提取用户兴趣[3]。高明等人[4]利用LDA主题模型推断用户发布微博的主题分布获取用户兴趣；王宁宁等人[5]利用TextRank排序方法提取用户发布微博中的关键词作为用户兴趣；Zhou等人[通过构建用户标签图表示用户兴趣。上述方法从用户自身信息中提取用户兴趣，取得了一定的推荐效果，但均未考虑用户间的关注关系。理论上，关注行为可直接反映用户的兴趣导向[，将其用于用户兴趣的挖掘是可行的。例如，谭晋秀等人[8使用K-means聚类方法对“特别关注”用户发布的微博进行聚类，提取每类微博中的关键词作为用户兴趣；Ma等人[从用户发布的微博中提取关键词，将关键词与用户在微博系统中选择的标签结合构建用户标签矩阵，并利用标签关联度和用户的关注关系更新用户标签矩阵，得到最终的用户兴趣。上述方法仅考虑了用户间静态的关注关系，不能准确衡量用户与其关注用户的关系强度，并且关注用户存在与用户不同的兴趣，导致提取的用户兴趣不准确。微博用户除关注行为外，还常常对喜爱的微博进行点赞、转发和评论等动态的交互行为，将这些行为用于提取用户兴趣，一方面能较准确地反映用户的兴趣，另一方面相对于静态的关注关系能较好地体现用户之间的关联程度。
+
+针对以上问题，本文考虑了用户间的关注关系和交互行为，提出一种基于用户扩展兴趣的微博推荐方法。该方法通过引入开关变量、调和参数，将用户个体兴趣和用户关联兴趣融合得到用户扩展兴趣。用户个体兴趣从用户自身信息中提取，所用信息包括用户标签、用户发布的微博及交互微博；用户关联兴趣通过用户间的关联度和关注用户的个体兴趣计算得到。
+
+# 1 用户扩展兴趣
+
+# 1.1用户个体兴趣
+
+用户个体兴趣普遍被描述为用户对各个兴趣词的喜好程度[10]，可从用户标签、用户发布的微博及交互微博中提取关键词来表示用户的个体兴趣词，并用关键词的权重表示用户的喜好程度。
+
+# 1.1.1用户标签表示
+
+用户依据其所在领域或兴趣爱好给自己添加标签[II]，可以选择添加微博系统中提供的标签，也可以自定义输入。标签的内容包含一些标识兴趣和身份的短语，如“旅行”“音乐迷”“篮球爱好者”等。用户 $u _ { i }$ 的标签 $P t _ { i }$ 表示为
+
+$$
+P t _ { i } = ( ( t _ { i 1 } : f t _ { i 1 } ) , ( t _ { i 2 } : f t _ { i 2 } ) , \cdots , ( t _ { i h } : f t _ { i h } ) )
+$$
+
+其中： $t _ { i k }$ 为用户 $u _ { i }$ 的第 $k$ 个标签， $\mathcal { \hat { H } } _ { i k }$ 为 $t _ { i k }$ 的权重。对于同一个用户，认为用户的每个标签同等重要，即 $f { _ { i k } } = 1 / h  , \mathrm { \Delta } _ { h }$ 为用户 $u _ { i }$ 的标签总数。
+
+# 1.1.2用户发布的微博表示
+
+微博用户通过发布微博记录日常生活、表达自己的观点，在一定程度上，用户发布的微博可以表明其个体兴趣[12]。而微博是典型的短文本，若使用词频统计关键词，效果并不理想。因此，本文将用户近期发布的所有微博拼接为一个长文本，然后提取关键词。
+
+用户 $u _ { i }$ 近期发布的微博拼接的长文本 $P p _ { i }$ 表示为
+
+$$
+P p _ { i } = ( ( p _ { i 1 } : f p _ { i 1 } ) , ( p _ { i 2 } : f p _ { i 2 } ) , \cdots , ( p _ { i l } : f p _ { i l } ) ) ,
+$$
+
+其中： $p _ { i k }$ 为从长文本中提取的第 $k$ 个关键词， $\mathbf { \xi } _ { l }$ 为关键词总数,$f { { p } _ { i k } }$ 为 $p _ { i k }$ 的权重，采用式（1）计算。
+
+$$
+f p _ { i k } = \frac { N ( p _ { i k } ) } { \displaystyle \sum _ { k = 1 } ^ { l } N ( p _ { i k } ) }
+$$
+
+其中： $N \big ( p _ { i k } \big )$ 为 $p _ { i k }$ 在长文本中出现的次数。
+
+1.1.3用户的交互微博表示
+
+用户的交互微博指其点赞、转发和评论的微博。不同交互行为可反映用户对微博的喜爱程度，将用户近期点赞、转发和评论的微博分别拼接为三个长文本 $P Z _ { i }$ 、 $P r _ { i }$ 和 $P { c _ { i } }$ ，表示为
+
+$$
+P Z _ { i } = ( ( \boldsymbol { z } _ { i 1 } : f \boldsymbol { z } _ { i 1 } ) , ( \boldsymbol { z } _ { i 2 } : f \boldsymbol { z } _ { i 2 } ) , \cdots , ( \boldsymbol { z } _ { i a } : f \boldsymbol { z } _ { i a } ) )
+$$
+
+$$
+P r _ { i } = \left( ( r _ { i 1 } : f r _ { i 1 } ) , ( r _ { i 2 } : f r _ { i 2 } ) , \cdots , ( r _ { i f } : f r _ { i f } ) \right)
+$$
+
+$$
+P C _ { i } = ( ( c _ { i 1 } : f c _ { i 1 } ) , ( c _ { i 2 } : f c _ { i 2 } ) , \cdots , ( c _ { i m } : f c _ { i m } ) )
+$$
+
+其中： $z _ { i k }$ ， $r _ { i k }$ ， $c _ { i k }$ 分别为从 $P z _ { i } , P r _ { i }$ 和 $P { { c } _ { i } }$ 中提取的第 $k$ 个关键词， $\mathrm { ~ \boldsymbol ~ { ~ a ~ } ~ } , \mathrm { ~ \boldsymbol ~ { ~ f ~ } ~ }$ ， $\mid m$ 分别为从 $P z _ { i }$ ， $P r _ { i }$ 和 $P { c _ { i } }$ 中提取的关键词总数， $f { \cal Z } _ { i k }$ ， $f r _ { i k }$ ， $f c _ { i k }$ 分别为 $z _ { i k }$ （204 $, \quad r _ { i k } \ , \ c _ { i k }$ 的权重，采用式（1)计算。
+
+将 $P Z _ { i } \cdot P r _ { i }$ 和 $P { c _ { i } }$ 中的关键词进行合并，并赋予不同权重，则用户 $u _ { i }$ 的交互微博 $P b _ { i }$ 表示为
+
+$$
+P b _ { i } = ( ( b _ { i 1 } : f b _ { i 1 } ) , ( b _ { i 2 } : f b _ { i 2 } ) , \cdots , ( b _ { i s } : f b _ { i s } ) )
+$$
+
+其中： $b _ { i k }$ 为用户 $u _ { i }$ 交互微博中的第 $k$ 个关键词， $s$ 为关键词总
+
+数， $0 < s \leq a + f + m$ ， $f b _ { i k }$ 为 $b _ { i k }$ 的权重，采用式（2）计算。
+
+$$
+{ f b } _ { i k } = \alpha _ { 1 } \times w l \times { f z } _ { i k } + \alpha _ { 2 } \times w r \times { f r } _ { i k } + \alpha _ { 3 } \times w c \times { f c } _ { i k } \ ( 2 )
+$$
+
+其中： $_ { w l } \ , \ w r \ , \ w c$ 为点赞、转发和评论的权重， $w l + w r + w c = 1$ □α，α，α是开关变量。若bk是从用户ui点赞的微博中提取的关键词，则 $\alpha _ { \mathrm { { \scriptscriptstyle 1 } } }$ 取1，否则取0；若 $b _ { i k }$ 是从用户 $u _ { i }$ 转发的微博中提取的关键词，则 $\alpha _ { 2 }$ 取1，否则取0；若 $b _ { i k }$ 是从用户 $u _ { i }$ 评论的微博中提取的关键词，则 $\alpha _ { 3 }$ 取1，否则取0。
+
+# 1.1.4用户个体兴趣表示
+
+定义1用户个体兴趣。用户个体兴趣是从用户自身信息中挖掘的兴趣，表示为用户的个体兴趣词与其对个体兴趣词的喜好程度所构成的二元组向量：$P _ { i } = ( ( w _ { i 1 } : f w _ { i 1 } ) , ( w _ { i 2 } : f w _ { i 2 } ) , \cdots , ( w _ { i e } : f w _ { i e } ) )$ 。其中， $w _ { i k }$ 为用户 $u _ { i }$ 的个体 兴趣 词 ，$w _ { i k } \in \{ t _ { i 1 } , t _ { i 2 } , \cdots , t _ { i h } \} \cup \{ p _ { i 1 } , p _ { i 2 } , \cdots , p _ { i l } \} \cup \{ b _ { i 1 } , b _ { i 2 } , \cdots , b _ { i s } \}$
+
+， $\mathcal { \displaystyle f w _ { i k } }$ 为 $w _ { i k }$ 的权重，计算公式如（3）所示， $\mathbf { \Psi } _ { e }$ 为用户 $u _ { i }$ 的个体兴趣词总数，0<e≤h+l+s。
+
+$$
+f w _ { i k } = \beta _ { 1 } \times f t _ { i k } + \beta _ { 2 } \times f p _ { i k } + \beta _ { 3 } \times f b _ { i k }
+$$
+
+其中： $\beta _ { 1 }$ $\beta _ { _ 1 } , \ \beta _ { _ 2 } , \ \beta _ { _ 3 }$ 是开关变量，分别标志 $w _ { i k }$ 是否为用户 $u _ { i }$ 的标签，从发布微博中提取的关键词和从交互微博中提取的关键词。
+
+对 $f w _ { i k }$ 归一化处理，最终用户 $u _ { i }$ 的个体兴趣词 $w _ { i k }$ 的权重$\mathcal { \boldsymbol { f w } } _ { i k } ^ { \prime }$ 计算公式如式（4）所示。
+
+$$
+f w _ { i k } ^ { \cdot } = \frac { f w _ { i k } } { \operatorname* { m a x } \left\{ f w _ { i 1 } , f w _ { i 1 } , \cdots , f w _ { i e } \right\} }
+$$
+
+# 1.2用户关联兴趣
+
+用户关联兴趣受其关注用户的影响，影响程度通过用户与其关注用户的关联度量化。
+
+# 1.2.1用户间的关联度
+
+用户 $u _ { i }$ 与用户 $\boldsymbol { u } _ { j }$ 的关联度是彼此关联程度的体现，由两者的关系紧密度和个体兴趣相似度共同决定，计算公式如（5）所示。
+
+$$
+F _ { _ { i j } } ^ { \ast } = \frac { 1 } { 2 } \big ( G _ { i j } ^ { \ast } + I _ { _ { i j } } ^ { \ast } \big )
+$$
+
+其中： $G _ { i j }$ 为用户 $u _ { i }$ 与用户 $\boldsymbol { u } _ { j }$ 的关系紧密度，由用户 $u _ { i }$ 与用户$\boldsymbol { u } _ { j }$ 的关注度和交互度共同决定，计算公式如式（6）所示。 $I _ { { \scriptscriptstyle i j } }$ 为用户 $u _ { i }$ 与用户 $\boldsymbol { u } _ { j }$ 的个体兴趣相似度，采用余弦相似度公式计算。
+
+$$
+G _ { i j } = \frac { 1 } { 2 } \big ( A _ { i j } + S _ { i j } \big )
+$$
+
+其中： $A _ { i j }$ 为用户 $u _ { i }$ 与用户 $\boldsymbol { u } _ { j }$ 的关注度，反映了彼此间的关注关系强度，计算公式如式（7）所示。
+
+$S _ { i j }$ 为用户 $u _ { i }$ 与用户 $\boldsymbol { u } _ { j }$ 的交互度,表现为用户间点赞、转发和评论的频繁程度,计算公式如式(8)所示。
+
+$$
+A _ { i j } = \left\{ \begin{array} { l l } { 0 } & { , u _ { i } \Xi u _ { j } \underline { { \mathbb { H } } } \bar { \mathcal { K } } \tilde { \mathcal { K } } \tilde { \mathcal { Z } } \underline { { \ddot { \mathcal { K } } } } \tilde { \mathcal { Z } } \underline { { \ddot { \mathcal { K } } } } } \\ { 0 . 5 } & { , u _ { i } \Xi u _ { j } \underline { { \breve { \mathbb { H } } } } \bar { \mathcal { P } } \tilde { \mathcal { K } } \tilde { \mathcal { Z } } \underline { { \ddot { \mathcal { K } } } } } \\ { 1 } & { , u _ { i } \Xi u _ { j } \bar { \mathcal { K } } \tilde { \mathcal { K } } \tilde { \mathcal { P } } \tilde { \mathcal { K } } \tilde { \mathcal { Z } } \underline { { \ddot { \mathcal { K } } } } } \end{array} \right.
+$$
+
+直观上，在微博中，三种关注关系下用户间的关注度从小到大的次序为：用户间互不关注的关注度，用户间单向关注的关注度，用户间双向关注的关注度，据此，本文将 $A _ { i j }$ 在三种情况下的值分别定为0，0.5和1。
+
+$$
+S _ { i j } = w l \times S L _ { i j } + w r \times S R _ { i j } + w c \times S C _ { i j }
+$$
+
+其中： $S L _ { i j }$ ， $S R _ { i j }$ ， $S C _ { i j }$ 分别表示用户 $u _ { i }$ 与用户 $\boldsymbol { u } _ { j }$ 的点赞交互度、转发交互度和评论交互度，计算方法如式（9）～（11）所示。
+
+$$
+S L _ { i j } = \frac { 1 } { 2 } \times \left( \frac { N L _ { i j } } { \displaystyle \sum _ { j = 1 } ^ { n _ { i 1 } } N L _ { i j } } + \frac { N L _ { j i } } { \displaystyle \sum _ { i = 1 } ^ { n _ { j 2 } } N L _ { j i } } \right)
+$$
+
+$$
+S R _ { i j } = \frac { 1 } { 2 } \times \left( \frac { N R _ { i j } } { \displaystyle \sum _ { j = 1 } ^ { n _ { i 3 } } N R _ { i j } } + \frac { N R _ { j i } } { \displaystyle \sum _ { i = 1 } ^ { n _ { j 4 } } N R _ { j i } } \right)
+$$
+
+$$
+S C _ { i j } = \frac { 1 } { 2 } \times \left( \frac { N C _ { i j } } { \displaystyle \sum _ { j = 1 } ^ { n _ { i s } } N C _ { i j } } + \frac { N C _ { j i } } { \displaystyle \sum _ { i = 1 } ^ { n _ { j 6 } } N C _ { j i } } \right)
+$$
+
+其中： $N L _ { i j }$ ， $N R _ { i j }$ ， $N C _ { i j }$ 为用户 $u _ { i }$ 对用户 $\boldsymbol { u } _ { j }$ 点赞、转发和评论的次数， $n _ { i 1 }$ ， $n _ { i 3 }$ ， $n _ { i 5 }$ 为用户 $u _ { i }$ 点赞、转发和评论的用户总数，nj，nj4，nj分别为用户uj点赞、转发和评论的用户总数。
+
+# 1.2.2用户关联兴趣表示
+
+利用1.2.1节中的方法计算用户 $u _ { i }$ 与其关注用户的关联度，筛选出与其关联度大于一定阈值的关注用户 $u _ { 1 } , u _ { 2 } , \cdots , u _ { n }$ ，其中用户 $\boldsymbol { u } _ { j }$ 的个体兴趣表示为
+
+$$
+P _ { j } = \left( \left( w _ { j 1 } : f w _ { j 1 } ^ { ' } \right) , \left( w _ { j 2 } : f w _ { j 2 } ^ { ' } \right) , \cdots , \left( w _ { j s u m _ { j } } : f w _ { j s u m _ { j } } ^ { ' } \right) \right) \circ
+$$
+
+定义2用户关联兴趣。用户关联兴趣是从与用户关联度大于一定阈值的关注用户中挖掘的兴趣，表示为用户的关联兴趣词与其对关联兴趣词的喜好程度所构成的二元组向量：
+
+$$
+\pmb { Q } _ { i } = \left( ( q _ { i 1 } : f q _ { i 1 } ) , ( q _ { i 2 } : f q _ { i 2 } ) , \cdots , ( q _ { i g } : f q _ { i g } ) \right)
+$$
+
+其中： $q _ { i k }$ 为用户 $u _ { i }$ 的关联兴趣词， $q _ { i k } \in \bigcup _ { j = 1 } ^ { n } \Bigl \{ w _ { j 1 } , w _ { j 2 } , \cdots , w _ { j s u m _ { j } } \Bigr \} \ ,$ $f q _ { i k } ^ { \phantom { \dagger } }$ 为 $q _ { i k }$ 的权重，计算公式如（12）所示， $g$ 为用户 $u _ { i }$ 的关联兴趣词总数，并且0<g≤sum+sum++sumn。
+
+$$
+f q _ { i k } = \sum _ { j = 1 } ^ { n } \gamma F _ { i j } f w _ { j k } ^ { ' }
+$$
+
+其中： $\gamma$ 是开关变量，若 $q _ { i k }$ 与 $w _ { j k }$ 表示同一个词，则 $\gamma$ 取1，否则取0。
+
+对 $f q _ { i k } ^ { \phantom { \dagger } }$ 归一化处理，最终用户 $u _ { i }$ 的关联兴趣词 $q _ { i k }$ 的权重
+
+fq'k计算公式如式（13）所示。
+
+$$
+f \dot { q _ { i k } } = \frac { f q _ { i k } } { \operatorname* { m a x } \left\{ f q _ { i 1 } , f q _ { i 2 } , \cdots , f q _ { i g } \right\} }
+$$
+
+# 1.3用户扩展兴趣表示
+
+定义3用户扩展兴趣。用户扩展兴趣是用户个体兴趣和关联兴趣的调和结果，表示为用户的扩展兴趣词与其对扩展兴趣词的喜好程度所构成的二元组向量：
+
+$$
+T _ { i } = ( ( d _ { i 1 } : f d _ { i 1 } ) , ( d _ { i 2 } : f d _ { i 2 } ) , \cdots , ( d _ { i \nu } : f d _ { i \nu } ) )
+$$
+
+其中， $d _ { i k }$ 为用户 $u _ { i }$ 的扩展兴趣词，$d _ { i k } \in \{ w _ { i 1 } , w _ { i 2 } , \cdot \cdot \cdot , w _ { i e } \} \cup \left\{ q _ { i 1 } , q _ { i 2 } , \cdot \cdot \cdot , q _ { i g } \right\} , \ f d$ 为 $d _ { i k }$ 的权重，计算公式如式(14)所示， $\nu$ 为用户 $u _ { i }$ 的扩展兴趣词总数， $0 < \nu \leq e + g$ 口
+
+$$
+f d _ { i k } = \gamma _ { 1 } \lambda f w _ { i k } ^ { ' } + \gamma _ { 2 } ( 1 - \lambda ) f \dot { q _ { i k } }
+$$
+
+其中： $\gamma _ { _ 1 } , \quad \gamma _ { _ 2 }$ 为开关变量， $\gamma _ { 1 }$ 标志 $d _ { i k }$ 是否为用户 $u _ { i }$ 的个体兴趣词， $\gamma _ { _ 2 }$ 标识 $d _ { i k }$ 是否为用户 $u _ { i }$ 的关联兴趣词。 $\lambda$ 为调和参数，$\lambda \in [ 0 , 1 ]$ ，由式（14）可知， $\lambda$ 取0时， $f \ * { d _ { i k } } = f \ * { \stackrel { \cdot } { q } _ { i k } } $ ，即用户 $u _ { i }$ 的扩展兴趣词的权重与关联兴趣词的权重相等，此时 $T _ { _ i }$ 表示用户 $u _ { i }$ 的关联兴趣； $\lambda$ 取1时， $f d _ { i k } = f w _ { i k } ^ { ' }$ ，即用户 $u _ { i }$ 的扩展兴趣词的权重与个体兴趣词的权重相等，此时 ${ { T } _ { i } }$ 表示用户 $u _ { i }$ 的个体兴趣词。
+
+# 2 微博推荐方法
+
+对于新发布的微博，计算用户扩展兴趣与微博的余弦相似度，通过相似度对微博降序排列，将排名TOP-N条微博推荐给用户。微博表示为
+
+$$
+M _ { t } = ( ( m _ { t 1 } : f m _ { t 1 } ) , ( m _ { t 2 } : f m _ { t 2 } ) , \cdots , ( m _ { t o } : f m _ { t o } ) )
+$$
+
+其中： $m _ { t k }$ 为从微博中提取的第 $k$ 个关键词， $f m _ { t k }$ 为 $m _ { t k }$ 的权重，计算方法如式（1）所示， $\mathbf { \sigma } _ { o }$ 为关键词总数。
+
+本文微博推荐方法（UEI）的具体过程如算法1所示。
+
+算法1为用户推荐TOP-N条微博输入：用户的标签向量 $P t _ { i }$ 、发布微博向量$P p _ { i }$ 、交互微博向量 $P b _ { i }$ ，待推荐微博向量$M _ { \scriptscriptstyle t }$ ，阈值 $\delta$ ，用户的关注用户总数 $A ( u _ { i } )$ ，参数λ。
+
+输出：用户的TOP-N推荐列表。
+
+1. for $i = 1$ t0 $n$ （204  
+2．计算用户 $u _ { i }$ 的个体兴趣 $P _ { _ i }$   
+3. for （204号 $i = 1$ to $n$ （20  
+4. for $j = 1$ t0 $A ( u _ { i } )$ （20  
+5. $Q _ { i } = \left( ( 0 { : } 0 ) \right)$ （204号  
+6. 计算用户 $u _ { i }$ 与 $\boldsymbol { u } _ { j }$ 的关联度 $F _ { i j }$   
+7. if( $F _ { i j } >$ 阈值 $\delta$ ）  
+8. 计算用户 $\boldsymbol { u } _ { j }$ 的个体兴趣 $p _ { j }$ （204号  
+9. 用户 $u _ { i }$ 的关联兴趣 $Q _ { i } \mathrm { \mathrm { \Sigma } } ^ { + = } F _ { i j } \times P _ { j }$
+
+10.for i=1 to n
+
+<html><body><table><tr><td>11. for t=1 to K</td><td></td></tr><tr><td>12.</td><td>用户u的扩展兴趣Ti=λP+(1-λ)Q</td></tr><tr><td>13.</td><td>计算T与待推荐微博M,的相似度</td></tr><tr><td>14.</td><td>为用户ui产生推荐列表Hi</td></tr><tr><td>15. return</td><td>{H,H,,H}</td></tr></table></body></html>
+
+# 3 实验及分析
+
+# 3.1实验数据
+
+因为目前没有统一、权威的微博数据集可供使用，本文的实验数据通过爬虫工具进行抽取和采集。首先选取来自电影、游戏、音乐、美食、财经、房产、赛事和汽车八个领域的40个微博认证用户作为目标用户，利用雪球采样的爬行策略，顺着目标用户的关注用户链向外爬行扩展一层，最终获取3087个微博用户自2018年3月22日到2018年6月21日发布、点赞、转发和评论的微博数据，共计137945条。此外，实验数据还包括这些用户的标签及用户之间的关注关系。为实现最终的微博推荐，搜集了2018年6月22日到2018年6月24日的300条热门微博作为待推荐微博。
+
+# 3.2评价标准
+
+本文采用平均倒数排名MRR和查准率P作为评价推荐方法性能的标准。
+
+平均倒数排名 MRR 表示 top-N 推荐列表中第一条正确微博所在位置的倒数均值，MRR值越高，表示用户感兴趣的微博在推荐列表中的排名越靠前，推荐顺序越合理，计算公式如式（15）所示。
+
+$$
+M R R = \frac { 1 } { n } \sum _ { i = 1 } ^ { n } \frac { 1 } { r a n k _ { i } }
+$$
+
+其中： $\mathbf { \Omega } _ { n }$ 为目标用户总数，rank为用户 $u _ { i }$ 的推荐列表中第一条正确微博所在位置。
+
+查准率P为用户感兴趣的微博在推荐列表中所占比例，P值越高，表示推荐方法的准确率越高。
+
+# 3.3参数及阈值设置
+
+# 1）交互行为权重
+
+点赞、转发和评论的权重采用层次分析法（AHP）中成对比较矩阵和一致性检验的方法确定。对 ${ \bf \Psi } _ { w l } \ , \quad { \bf \Psi } _ { w r }$ ， $w c$ 进行两两比较，得到的判定矩阵如表1所示。判定矩阵的最大特征值为3.0183，对应的特征向量为： $U = ( 0 . 1 8 6 2 , 0 . 8 5 2 7 , 0 . 4 8 8 1 )$ ，将该向量标准化，得到标准化后的向量为u=(0.1219,0.5584,0.3197)，其每一维的值分别对应点赞、转发和评论的权重，即 $w l = 0 . 1 2 1 9 , w r = 0 . 5 5 8 4 , w c = 0 . 3 1 9 7$ 。
+
+表1判定矩阵  
+
+<html><body><table><tr><td>影响因素</td><td>wl</td><td>wr</td><td>wc</td></tr><tr><td>wl</td><td>1</td><td>1/4</td><td>1/3</td></tr><tr><td>wr</td><td>4</td><td>1</td><td>2</td></tr><tr><td>wc</td><td>3</td><td>1/2</td><td>1</td></tr></table></body></html>
+
+# 2）关联度阈值
+
+将用户与其关注用户的关联度最小值作为关联度阈值 $\delta$ □若用户 $u _ { i }$ 与用户 $\boldsymbol { u } _ { j }$ 是单向关注关系，没有点赞、转发和评论的交互行为，个体兴趣完全不同时，两者的关联度最小。首先，由式（7）（8）分别计算可得上述情况下两者的关注度为0.5，交互度为0；然后，将上述结果代入式（6）计算得到用户 $u _ { i }$ 与用户 $\boldsymbol { u } _ { j }$ 的关系紧密度为0.25；最后，将用户 $u _ { i }$ 与用户 $\boldsymbol { u } _ { j }$ 的关系紧密度0.25和个体兴趣相似度0代入式（5）可得两者的关联度为0.125，故将用户间的关联度阈值 $\delta$ 设置为0.125。
+
+# 3）调和参数
+
+参数 $\lambda$ 用于调和用户个体兴趣和关联兴趣所占比重。 $\lambda$ 越大，用户个体兴趣所占比重越大； $\lambda$ 越小，用户关联兴趣所占比重越大。不同的数据集下参数 $\lambda$ 的取值应该不同，针对本文的实验数据集，通过反复实验来确定参数 $\lambda$ 的取值。采用人工标注法，对40个目标用户感兴趣的微博进行标注，计算$\lambda = 0 , 0 . 1 , 0 . 2 , \cdots , 0 . 9 , 1$ 时本文的推荐方法在top-20推荐结果下的性能指标，结果如图1所示。
+
+![](images/11ef2f4a228718f1611057a3eb7ddd57564b7f985be686a8cfcdd115128c4300.jpg)  
+图1不同 $\lambda$ 下MRR值和P值的对比
+
+从图1可以看出，当 $\lambda = 0 . 7$ 时，MRR值和P值均达到最大，故后续实验中将 $\lambda$ 设置为0.7。当 $\lambda = 0$ 时，用户的扩展兴趣完全取决于关联兴趣；当 $0 < \lambda \leq 0 . 7$ 时，随着 $\lambda$ 的增大，个体兴趣所占比重增大，关注用户的个体兴趣对用户个体兴趣的干扰逐渐减小，P值和MRR值逐渐增大，即推荐效果逐渐提升；当 $0 . 7 < \lambda \leq 1$ 时，随着 $\lambda$ 的增大，用户自身数据不足表现越来越明显，导致推荐结果逐渐降低。
+
+# 3.4 实验对比结果
+
+为验证微博推荐方法的有效性和准确性，在本文数据集上进行两项对比实验，第一项实验用于比较单独基于用户个体兴趣（UPI）、用户关联兴趣（UAI）和两者融合（UEI）的微博推荐方法的性能。考虑到推荐微博数的不同会对推荐的性能造成影响，实验在推荐列表长度为5、10、15和20时观察推荐方法的性能。图2和3为三种方法在 top-5，top-10，top-15 和 top20推荐结果下的MRR值和P值。
+
+![](images/0c870d4319bba05e44f886a92ce903ea06c9a8583060336db899524438176e4f.jpg)  
+图2不同推荐结果下MRR值的对比
+
+![](images/6fd25a1845f2a82adcd92aba4fc0f1ed3b6a869e1f6c5c8648727219441e12a4.jpg)  
+图3不同推荐结果下P值的对比
+
+从实验结果可以看出：a）采用基于用户个体兴趣（UPI)较基于用户关联兴趣（UAI)的微博推荐方法性能较优，说明用户的关联兴趣只是作为用户个体兴趣的补充，忽略个体兴趣会导致推荐效果不理想；b)本文提出的基于用户扩展兴趣的微博推荐方法（UEI）相对于其他两种方法性能较优，说明将用户个体兴趣和关联兴趣结合可以较为准确地挖掘用户兴趣，缓解提取不活跃用户兴趣困难的问题，进而得到更符合用户兴趣的推荐结果。
+
+第二项实验比较传统的基于内容的微博推荐方法（CB）、文献[13]提出的基于标签的微博信息推荐方法（ITCAUSR）以及本文方法（UEI）的性能。其中，基于内容的推荐方法是通过用户发布的微博建立用户兴趣向量；文献[13]通过用户标签与发布微博构建用户初始标签矩阵，利用标签相关性和用户间的关注关系更新初始矩阵，得到用户兴趣。图4和5为三种方法在 top-5，top-10，top-15 和 top-20 推荐结果下的 MRR 值和 P值。
+
+![](images/b59b7a99cd6c04edea2110200606b8a1d369866cff3a748ff73209d8d465700e.jpg)  
+图4不同推荐结果下MRR值的对比
+
+![](images/87298afc8ee38b656ddfaae24e831ff206a190f57273f4abe0b03a0a055fd29e.jpg)  
+图5不同推荐结果下P值的对比
+
+由图3和4的结果可以看出：a)基于标签的微博信息推荐方法(ITCAUSR)较基于内容的微博推荐方法(CB)性能较优，说明在提取用户兴趣时，考虑用户间的关注关系可以使推荐效果得以提升；b)本文提出的基于用户扩展兴趣的微博推荐方法（UEI）相对于基于标签的微博信息推荐方法（ITCAUSR）性能较优，说明考虑用户的交互行为，可以较为准确地提取用户兴趣和区分关注用户与用户的关联程度，达到更好的推荐效果。
+
+# 4 结束语
+
+本文对微博推荐方法进行了研究，在考虑用户个体兴趣的基础上，结合用户关联兴趣，提出一种基于用户扩展兴趣的微博推荐方法。该方法使提取的用户兴趣更加准确，并在一定程度上解决了提取不活跃用户兴趣困难的问题。实验表明，本文提出的方法相对于以往的CB算法和ITCAUSR算法有较优的性能。然而，本文仅结合关注用户的兴趣来获取用户扩展兴趣，没有考虑用户的粉丝、与其存在交互行为的非关注用户对其兴趣的影响。因此，确定上述用户的兴趣是否可以作为用户扩展兴趣的一部分将是下一步研究工作中的重点。
+
+# 参考文献：
+
+[1]Ye Peng,Wang Changbo,Liu Yuhua, et al. Visual analysis of micro-blog retweeting using an information difusion function [J].Journal of Visualization,2016,19 (4): 82-38.   
+[2]Xu Yan,Zhou Meilin,Han Siyao. Feature representation for microblog followee recommendation in classification framework [C]// Proc of the 7th International Conference on Advanced Computational Intelligence. Piscataway, NJ: IEEE Press,2015: 318-322.   
+[3]Zhang Junjie,Lei Yongmei. Improving content recommendation in social streams via interest model[J].Computer and Information Science,2015,566 (1): 57-70.   
+[4] 高明，金澈清，钱卫宁，等．面向微博系统的实时个性化推荐[J].计 算机学报,2014,37(4): 963-975.(Gao Ming,Jin Cheqing,Qian Weining, et al. Real-time and personalized recommendation on microblogging system [J]. Chinese Journal of Computers,2014,37 (4): 963-975.)   
+[5]王宁宁，鲁燃，王智昊，等．基于用户标签的微博推荐算法[J].计算 机应用研究,2017,34(1): 58-61.(Wang Ningning,Lu Ran,Wang Zhihao, et al.Microblog recommendation algorithm based on usrs’tag [J]. Application Research of Computers,2017,34(1): 58-61. ）   
+[6] Zhou Xianke,Wu Sai, Chun Chun,et al. Realtime recommendation for microblog [J].Information Sciences,2014,279:301-325.   
+[7]赵玲，张静．微博用户行为研究的多维解析[J].情报资料工作，2013 (5):65-70.(Zhao Ling，Zhang Jing.Multi-dimensional analysis of microblog behavior research [J]. Information and Documentation,2013 (5): 65-70.)   
+[8] 谭晋秀，何跃．基于K-means 文本聚类的新浪微博个性化博文推荐研 究[J].情报科学,2016,34(4):74-79.(Tan Jinxiu,He Yue.Study on sina microblog personalized recommendation based on K-means t-ext clustering [J].Information Science,2016,34 (4): 74-79.)   
+[9]Ma Huifang,Jia Meihuizi, Zhang Di,et al. Comb-ining tag correlation and user social relation for microblog recommendation [J]. Information Sciences, 2017,385-386:325-337.   
+[10]仲兆满，管燕，胡云等．基于背景和内容的微博用户兴趣挖掘[J]．软 件学报,2017,28(2): 278-291.(Zhong Zhaoman,Guan Yan,Hu Yun,et al.
+
+Mining user interest on microblog based on profile and content [J].Journal of Software,2017,28 (2): 278-291.)
+
+[11] Zhu Peisong,Qian Tieyun,Zhong Ming,et al. Inferring users'gender from interests:A tag embedding approach [J].Neural Information Processing, 2016,9950: 86-94.
+
+[12]Liu Zhiyuan, Chen Xinxiong, Sun Maosong.Mining the interests ofChinese microblogs via keyword extraction [J].Frontiers ofComputer Science,2012, 6(1): 76-87.
+
+[13]贾美惠子．基于标签的微博信息推荐技术研究[D].兰州：西北师范大 学,2016.(Jia Meihuizi. Research on microblog recommendation based on tags [D]. Lanzhou: Northwest Normal University,2016.)

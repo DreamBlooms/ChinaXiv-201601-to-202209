@@ -1,0 +1,325 @@
+# MIMO-PLC系统中基于条件数阀值选择的信号检测算法
+
+聂熊波1，李想²，林欢²
+
+(1．中国长江三峡集团有限公司，昆明 650224;2．重庆邮电大学 新一代宽带移动通信重点实验室，重庆 400065)
+
+摘要：为了满足电力线通信(power line communication，PLC)对更大容量和更广覆盖范围的需求，多输入多输出(multiple-input multiple-output，MIMO)技术已逐渐应用于PLC 中，实现了高速率的数据传输，但MIMO-PLC 信道具有严重的多径效应和频率选择性衰减的特性，而且不同子载波的信道质量差异性大，使现有的信号检测算法不能获得良好的性能。提出一种基于条件数阈值选择的检测算法，该算法利用信道矩阵的条件数来衡量信道质量的好坏，设置最佳条件数阈值，在信道条件数小于或者等于阈值时，选择CLLL-MMSE-SQRD检测算法，而在信道条件数大于阈值时，选择QRD-M检测算法。通过仿真验证，所提算法能够达最优检测算法的性能，而且在16QAM调制方式下，该算法复杂度相比于QRD-M检测算法降低了 $44 \%$ ，且随着调制阶数的增加，复杂度降低更为明显。关键词：电力线通信；多输入多输出；格基规约；条件数；基于虚实分解的宽度优先算法中图分类号：TN911.7doi:10.19734/j.issn.1001-3695.2018.05.0455
+
+# Signal detection algorithm based on threshold selection of conditional number in MIMO-PLC system
+
+Nie Xiongbo1,Li Xiang²,Lin Huan² (1.China Three Gorges Corporation,Kunming 650224,China;2.Chongqing KeyLaboratoryofNew Generation Brodband MobileCommunication Technology, University of Posts &Telecommunications,Chongqing 40o065,China)
+
+Abstract: Multiple-input multiple-output (MIMO)technologyhasbeenapplied topowerlinecommunication (PLC)tomethe demandofPLCforlargercapacityand widercoverage,anditcanachieve high-speeddata transmision.However,thechanel ofMIMO-PLCsystem has thecharacteristicsofserious multipath efect and frequencyselective fading,ndthechanel quality ofdifferentsubcarrersisquitediferent.Therefore,theexistingsignaldetectionalgorithms cannotachievegood performance. A scheme of detection algorithm based oncondition number threshold selection is proposed,and thecondition numberof the channel matrix isusedtomeasurethequalityoftechannelandthe thresholdof theoptimalcondition numberisset.The CLLMMSE-SQRDdetectionalgorithmisselectedwen thecondition numberofchannelisless thanorequal tothe threshold,and the QRD-Mdetectionalgorithm is selected whentheconditionnumberofchanel is greaterthanthe threshold.The simulation results prove that the proposed algorithm scheme canreach the performance of optimal detection algorithm.Inthe 16QAM modulation mode, the complexity of the proposed algorithm is reduced by $44 \%$ compared with the QRD-M detection algorithm, and with the increase of modulation order, the complexity is reduced more obviously.
+
+Key Words: power line communication; multiple-input multiple-output; lattice reduction; condition number; QRD-M
+
+# 0 引言
+
+电力线通信(PLC)系统充分的利用现存的电力线资源实现数据通信，建设方便、成品低廉、覆盖范围广、无须重新布线，已经成为极具应用前景的通信技术I。随着多输入多输出(MIMO)技术引入电力线通信系统，实现更大数据量的传输，未来的电力线通信必然成为物联网应用之一。目前ITU-TG.hn、
+
+IEEE1901和HomePlugAV2标准中已经采用了MIMO技术[2]。但是MIMO-PLC信道存在严重的多径效应及频率选择性衰减，为了保证通信的可靠性，需要性能更好的检测算法来适应这种信道环境。而且MIMO-PLC系统的天线数目少，是通过高阶调制来满足大数据量的传输，随着调制阶数的增加，信号检测算法的计算复杂度也随之增加。因此选择性能与复杂度能良好折中的信号检测算法是极具研究价值的。
+
+近年来，国内外一些学者针对MIMO系统中的信号检测算法进行了深入研究。格基规约作为密码学中一个重要的工具，它通常用于搜索格中最短矢量[3]，已经被广泛的用于MIMO 检测中。文献[4]提出格基规约准则来对信道矩阵预处理，改善信道矩阵的质量，使传统的线性检测算法的性能能够大幅度提升，但是该算法只能针对实数域的LLL(Lenstra-Lenstra-Lovasz)格基规约且复杂度高，所以文献[5]提出复数域的CLLL(ComplexLLL)格基规约检测算法，性能与LLL格基规约算法保持一致，但复杂度降低了一半。由于电力线信道为复数，因此CLLL格基规约检测算法更加适用，采用CLLL格基规约准则对信道预处理后，再进行MMSE-SQRD(MinimumMean SquareErrorSorted QRDecomposition)算法，CLLL-MMSE-SQRD 检测算法性能优于一般格基规约的检测算法。为了获得性能与计算复杂度的折中，本文引入条件数来衡量信道质量的好坏[]，在信道条件好时，次优检测算法也能达到最优算法的性能。所以对于每个子载波来说，可根据信道矩阵的条件数值大小来选择合适的信号检测算法。在前人的研究基础之上，本文提出一种基于条件数阈值选择的检测算法的方案应用于MIMO-PLC系统，由于MIMO-PLC系统信道存在严重的多径效应和频率选择性衰减，不同的子载波的信道质量差异大，因此可设置条件数阈值，在信道条件较好时，采用CLLL-MMSE-SQRD来进行检测，这样的优点是复杂度低且能达到最优的性能。在信道条件差时，采用QRD-M(QRdecompositionwithM-algorithm，基于虚实分解的宽度优先算法)检测算法，该算法复杂度低于ML检测算法而且在保留节点较多时，性能与ML检测算法相同。
+
+# 1 MIMO-PLC信道模型
+
+# 1.1系统模型
+
+家庭的电力线结构是三制线结构，包括相线(phase，P)、中线(neutral，N)和保护地线(protective earth，PE)[7]。传统的 PLC系统采用PN-PN信道来传递信息，而MIMO-PLC系统充分利用三线制的特点，构成了多端输入输出的系统结构。MIMO-PLC系统模型如图1所示[8]。
+
+![](images/1989937ea83a8c7abaef71ee18a476944f8a35bd2553bf09257029e129d953e5.jpg)  
+图1 MIMO-PLC系统模型  
+Fig.1MIMO-PLC System Model
+
+根据电力线耦合的原理，理论上能构成三个不同发射端口，由于需要满足基尔霍夫定律，三个发射端中最多只有两个可以同时传输[9]。当数据网络传输信号不平衡时可以产生共模(commonmode，CM)接收端，构成第四个端口[l0]，因此系统最多支持四个端口的接收。
+
+# 1.2MIMO-PLC信道建模
+
+在文献[11]提出MIMO-PLC系统的信道模型，该模型是在分析了 Zimmermann 的 SISO 多径信道模型和 Tonello[2]的MIMO 模型的基础之上，提出的随机相位多径 $2 \times 2$ 的MIMO信道模型。 $2 \times 2$ 信道传递函数 $H ( f )$ 可以表示为
+
+$$
+H ( f ) = \left[ \begin{array} { l l } { h _ { S 1 , D 1 } ( f ) } & { h _ { S 1 , D 2 } ( f ) } \\ { h _ { S 2 , D 1 } ( f ) } & { h _ { S 2 , D 2 } ( f ) } \end{array} \right]
+$$
+
+其中：S1表示P-N，S2 表示N-PE，D1表示P-N，D2 表示N-PE。
+
+根据Zimmermann 提出的 SISO 信道模型的频域传递函数hs1,D1(f)，即
+
+$$
+h _ { S 1 , D 1 } ( f ) = A \sum _ { i = 1 } ^ { N } g _ { i } e ^ { - ( \alpha _ { 0 } + \alpha _ { 1 } f ^ { K } ) d _ { i } } e ^ { - j 2 \pi f ( d _ { i } / \nu ) }
+$$
+
+考虑到路径之间的相关相位，文献[13]提出了MIMO模型所有路径总的信道表达式：
+
+$$
+h _ { { S m } , { D n } } ( f ) = A ^ { { m } , { n } } \sum _ { p = 1 } ^ { N ^ { { m } , { n } } } g _ { p } ^ { { m } , { n } } e ^ { - j \varphi _ { p } ^ { { m } , { n } } } e ^ { - ( \alpha _ { 0 } + \alpha _ { 1 } f ^ { K } ) d _ { p } ^ { { m } , { n } } } e ^ { - j 2 \pi f ( d _ { p } ^ { { m } , { n } } / { \nu } ) }
+$$
+
+其中： $A ^ { m , n }$ ， $N ^ { m , n }$ ， ${ \boldsymbol g } _ { p } ^ { m , n }$ ， $\varphi _ { p } ^ { m , n }$ 和 $d _ { p } ^ { m , n }$ 这五个参数与信道索引有关，具体参见文献[11]。
+
+# 2 格基规约技术
+
+格基规约算法通过对信道矩阵预处理来改善信道的正交性，使传统的检测算法的性能能够接近于ML检测算法。格基规约技术的原理通过对信道矩阵的长度约减和列交换来降低列之间的相关性。LLL算法是最著名的格基规约算法，其主要是用于实数格的规约。由于MIMO-PLC信道为复数，LLL格基规约算法是将复数域转换为实数域再处理，其复杂度过高，于是文献[5]提出复数域的CLLL格基规约算法，其复杂度相比于LLL格基规约算法降低了近 $50 \%$ ，而性能趋于一致。
+
+通过CLLL格基规约算法，格的基矩阵进行QR分解：
+
+$$
+\tilde { H } = \tilde { Q } \tilde { R }
+$$
+
+式(4)的上三角矩阵 $\tilde { R }$ 的长度规约和列变换满足下面两个条件：
+
+$$
+\begin{array} { c } { | \Re ( \tilde { R } ( i , k ) ) | \leq 0 . 5 | \tilde { R } ( i , i ) | } \\ { | \Im ( \tilde { R } ( i , k ) ) | \leq 0 . 5 | \tilde { R } ( i , i ) | } \\ { 1 \leq i < k \leq m } \end{array}
+$$
+
+$$
+\delta \vert \tilde { R } ( \mathrm { k - 1 } , \mathrm { k - 1 } ) \vert ^ { 2 } \leq \vert \tilde { R } ( k , k ) \vert ^ { 2 } + \vert \tilde { R } ( k { - } 1 , k ) \vert ^ { 2 }
+$$
+
+$$
+k = 2 , . . . , m
+$$
+
+其中： $\left| \mathfrak { R } ( \tilde { R } ( i , k ) ) \right|$ 表示上三角矩阵 $\tilde { R }$ 中第 $i$ 行的第 $k$ 列元素的实数部分的绝对值，规约参数 $\delta \in ( 1 / 2 , 1 )$ ， $\delta$ 通常取0.75。
+
+CLLL格基规约算法生成的幺模矩阵 $\tau$ 的元素均为复数整数，初始基矩阵和规约后的新基矩阵关系如下：
+
+$$
+\tilde { H } = H T H = \tilde { H } T ^ { - 1 }
+$$
+
+# 3 基于条件数阈值选择的检测算法
+
+检测算法的性能与复杂度是一对矛盾关系，性能好的算法其复杂度高，复杂度低的算法其性能欠佳。在信道质量差的情况下，需要采用性能好的检测算法来提升性能；而在信道质量好的情况下，采用次优性能的检测算法也能达到最优的性能，这样在一定程度上降低了检测算法的复杂度。本文提出一种基于条件数阈值选择的检测算法：在信道条件数小于或等于最优阈值 $k _ { t h }$ 时，采用CLLL-MMSE-SQRD 检测算法，该算法利用CLLL 格基规约技术能改善MIMO-PLC 信道质量，而且与SQRD 算法结合，能够获得不错的性能，且复杂度低；在信道条件数大于最优阈值 $k _ { t h }$ 时，采用QRD-M检测算法，该算法复杂度比ML检测算法低且随着保留节点增加，算法性能接近最优。
+
+基于条件数阈值选择检测算法可表示为：
+
+$$
+\hat { x } _ { _ { T H } } = \left\{ \begin{array} { l l } { \hat { x } _ { _ { C L L L - M M S E - S Q R D } } } & { k \leq k _ { _ { t h } } } \\ { \hat { x } _ { _ { Q R D - M } } } & { k > k _ { _ { t h } } } \end{array} \right.
+$$
+
+其中： $\hat { x } _ { { \scriptscriptstyle T H } }$ 表示采用基于条件数阈值选择的检测算法的发射信号的估计值， $\hat { x } _ { C L L L - M M S E - S Q R D }$ 表示采用 CLLL-MMSE-SQRD 检测算法的发射信号的估计值， $\hat { x } _ { \scriptscriptstyle Q R D - M }$ 表示采用QRD-M检测算法的发射信号的估计值。具体算法流程框图如图2所示。
+
+![](images/3ca89c105e37120b53b454f06087452521c64b43bed8ff15a6fdffdf736c47a1.jpg)  
+图2基于条件数阈值选择的检测算法流程  
+Fig.2Detection algorithm flow based on conditional number threshold
+
+selection
+
+# 3.1MIMO-PLC信道条件数确定
+
+基于条件数阈值选择检测算法的计算复杂度与最优阈值$k _ { t h }$ 的设定相关，当设定的最优阈值 $k _ { t h } = 1$ ，则计算复杂度等于QRD-M检测算法的复杂度；而设定最优阈值 $k _ { t h }$ 趋于无穷大时，则计算复杂度等于CLLL-MMSE-SQRD检测算法的复杂度。为了获得性能和计算复杂度的折中，设定最优阈值 $k _ { t h }$ 为中间值，算法的复杂度由选择的概率决定，定义选择QRD-M检测的算法概率为：
+
+$$
+\operatorname* { P r } \{ k > k _ { t h } \} = 1 - p _ { k _ { t h } }
+$$
+
+其中： $p _ { k _ { t h } }$ 表示选择CLLL-MMSE-SQRD 检测算法的概率。
+
+当 $N _ { t } = N _ { r }$ 时， $N _ { t }$ 表示发射天线数， $N _ { r }$ 表示接收天线数，信道矩阵条件数的累积概率分布函数为[14]
+
+$$
+F _ { \nu } ( k _ { \scriptscriptstyle t h } ) = \int _ { 1 } ^ { k _ { \scriptscriptstyle t h } } f _ { k } ( k ) d k \approx \exp ( - \frac { 4 N _ { t } ^ { 2 } } { k _ { \scriptscriptstyle t h } ^ { 2 } } )
+$$
+
+即选择CLLL-MMSE-SQRD检测算法的概率为
+
+$$
+p _ { k _ { t h } } = F _ { k } ( k _ { t h } ) \approx \exp ( - \frac { 4 N _ { t } ^ { 2 } } { k _ { t h } ^ { 2 } } )
+$$
+
+根据公式(11)，可以获得信道矩阵条件数的表达式为
+
+$$
+k _ { t h } \approx \frac { 2 N _ { t } } { \sqrt { \log ( \frac { 1 } { p _ { k _ { t h } } } ) } }
+$$
+
+从式(12)可知，信道矩阵条件数与发射天线数和选择CLLL-MMSE-SQRD 检测算法的概率 $p _ { k _ { t h } }$ 有关，由于 MIMO-PLC 系统的发射天线固定为2，所以只受 $p _ { k _ { t h } }$ 的影响。当 $p _ { k _ { t h } }$ 增大，条件数的阈值将增大；而 $p _ { k _ { t h } }$ 减小，条件数的阈值也将减小，这样算法的性能和计算复杂度都将发生变化，所以需要根据不同的通信需求确定Pk。
+
+# 3.2 CLLL-MMSE-SQRD检测算法
+
+由于排序QR分解(SQRD)检测算法具有较好的性能，本节介绍基于格基规约的SQRD 检测算法，将格基规约技术和排序QR分解检测相结合，首先对扩展信道矩阵 $\underline { { \boldsymbol { H } } }$ 进行排序QR 分解，然后再进行CLLL格基规约，最后进行串行干扰消除。具体步骤如下：
+
+a)将信道矩阵扩展成扩展信道矩阵 $\underline { { \boldsymbol { H } } }$ 和将接收信号扩展为扩展接收信号y：
+
+$$
+\underline { { H } } = \left[ \begin{array} { c c c c c c } { H } \\ { \sigma _ { \underline { { w } } } } & { I _ { N _ { t } } } \\ { \sigma _ { x } } & { } \end{array} \right] , \quad \underline { { y } } = \left[ \begin{array} { c c c c c } { y } \\ { 0 } \end{array} \right]
+$$
+
+b)对扩展信号矩阵进行排序QR分解，根据列的二范数大小来排序，使所有层按照可靠性从大到小排序，确定检测层顺序。
+
+c)对分解后的 $\boldsymbol { Q }$ 矩阵和 $\boldsymbol { R }$ 矩阵进行CLLL格基规约得到新$\tilde { Q }$ 矩阵和 $\tilde { \cal R }$ 矩阵。
+
+d)将扩展接收信号左乘以 $\tilde { Q } ^ { \scriptscriptstyle H }$ ，得到：
+
+$$
+\begin{array} { c } { { \tilde { y } = \tilde { Q } ^ { H } ( \tilde { Q } \tilde { R } z + w ) } } \\ { { = \tilde { R } z + \tilde { Q } ^ { H } w } } \end{array}
+$$
+
+e)串行干扰消除，根据上三角矩阵的性能，从最低层开始进行逐层检测，得到等效的发射信号估计值：
+
+$$
+\hat { z } _ { 2 } = Q \left( \frac { \tilde { y } _ { 2 } } { \tilde { r } _ { 2 , 2 } } \right)
+$$
+
+通过得到 $\hat { z } _ { 2 }$ 来检测 $\hat { z } _ { \scriptscriptstyle 1 }$ ：
+
+$$
+\hat { z } _ { 1 } = Q \left( \frac { \tilde { y } _ { 1 } - \tilde { r } _ { 1 , 2 } \hat { z } _ { 2 } } { \tilde { r } _ { 1 , 1 } } \right)
+$$
+
+f)将等效发射信号估计值 $\hat { z }$ 乘以幺模矩阵 $\tau$ ，得到发射信号估计值：
+
+$$
+\hat { X } = T \hat { Z }
+$$
+
+CLLL-MMSE-SQRD检测算法的性能要优于基于CLLL格基规约的线性检测算法，利用QR分解，复杂度明显低于ML检测算法，因此该算法在性能和复杂度之间具有较好的折中。
+
+# 3.3 QRD-M检测算法
+
+QRD-M 检测算法是最大似然检测算法的一种简化算法。为了简化最大似然检测算法的计算复杂度，采用QR分解和 M算法，其性能和复杂度的折中通过对每一层的幸存星座点个数$M$ 和已经搜索集合 $\mathbf { \Omega } _ { L }$ 的限制实现。
+
+QRD-M检测算法的实现过程分为以下四步：
+
+a)进行排序QR 分解。将一个 $N _ { \mathrm { \ell } _ { t } } \times N _ { \mathrm { \ell } _ { r } }$ 的信道矩阵 $H$ 分解成$N _ { { t } } \times N _ { { r } }$ 的酉矩阵 $\boldsymbol { Q }$ 和一个 $N _ { \mathrm { \it t } } \times N _ { \mathrm { \it { r } } }$ 的上三角矩阵 $\boldsymbol { R }$ 。
+
+接收信号重写为
+
+$$
+y = Q R x + w
+$$
+
+b)将式(18)左乘 $Q ^ { H }$ 得：
+
+$$
+{ \pmb v } = { \pmb R } { \pmb x } + \tilde { { \pmb w } }
+$$
+
+其中： $\boldsymbol { v } = \boldsymbol { Q } ^ { H } \boldsymbol { y }$ ， $\tilde { w } = Q ^ { H } w$ 为等效的接收信号矢量和噪声矢量。然后，将式(19)展开为
+
+$$
+\left[ \begin{array} { c } { \nu _ { 0 } } \\ { \vdots } \\ { \nu _ { N _ { t } - 1 } } \end{array} \right] = \left[ \begin{array} { c c c c } { r _ { 0 , 0 } } & { \cdots } & { r _ { 0 , N _ { t } - 1 } } \\ { \vdots } & { \ddots } & { \vdots } \\ { 0 } & { \cdots } & { r _ { N _ { t } - 1 , N _ { t } - 1 } } \end{array} \right] \left[ \begin{array} { c } { x _ { 0 } } \\ { \vdots } \\ { x _ { N _ { t } - 1 } } \end{array} \right] + \left[ \begin{array} { c } { \tilde { w } _ { 0 } } \\ { \vdots } \\ { \tilde { w } _ { N _ { t } - 1 } } \end{array} \right]
+$$
+
+c)将空间搜索方式转换为树搜索的方式，从上三角矩阵的最底层开始依层的顺序估计每一层的发射信号值，具体估计方法如下：
+
+$$
+\hat { x } _ { i } = \frac { \nu _ { i } - \displaystyle \sum _ { j = i + 1 } ^ { N _ { t } } r _ { i , j } \hat { x } _ { j } } { r _ { i i } }
+$$
+
+然后每一层计算保留的节点的累计度量值，第 $k$ 层的 $m$ 个节点的累计度量值为
+
+$$
+\begin{array} { l } { { \displaystyle E _ { k , m } = \| { \boldsymbol v } - { \boldsymbol R } { \boldsymbol x } \| ^ { 2 } } } \\ { { \displaystyle \quad = \sum _ { i = 0 } ^ { N _ { r } - 1 } \left| \nu _ { i } - r _ { i , j } \hat { x } _ { i } - \sum _ { j = i + 1 } ^ { N _ { r } - 1 } r _ { i , j } \hat { x } _ { j } \right| ^ { 2 } } } \\ { { \displaystyle \quad = E _ { k + 1 } + \left| \nu _ { k } - r _ { k , k } \hat { x } _ { k , m } - \sum _ { j = i + 1 } ^ { N _ { r } - 1 } r _ { k , j } \hat { x } _ { j } \right| ^ { 2 } } } \end{array}
+$$
+
+其中： $\hat { x } _ { k , m }$ 表示标准星座点。
+
+d)QRD-M检测算法是从最后一层开始检测，每一层计算累计度量值，并保留 $M$ 个累计度量值最小的节点作为后一层的父亲节点。采用逐层限制保留星座点的个数的方式，减少遍历的计算复杂度，最终在顶层中找到累计度量最小的节点，作为最优解。
+
+如图3所示，以 $2 \times 2$ MIMO-PLC系统QPSK 调制方式下的QRD-M $( \mathrm { M } { = } 3 )$ 检测算法为例。
+
+QRD-M 检测算法在保留节点数较多的情况下，其算法的性能接近最优检测。在MIMO-PLC系统中，其天线数目较少，对于遍历搜索所有的星座点的方式，复杂度增加主要由调制方式造成，所以在高阶调制时，能够获得接近ML检测算法的性能，同时降低了复杂度。
+
+![](images/1cf02d2db616235149c43defd02e40a9325448e7c0356bf1cec6eba3ca1aba43.jpg)  
+图3QRD-M $( \mathrm { M } { = } 3 )$ 的树型结构  
+Fig .3 Tree-type structure of QRD-M $\mathrm { ( M } { = } 3$ 1
+
+# 4 性能仿真
+
+# 4.1 复杂度分析
+
+CLLL-MMSE-SQRD检测算法的复杂度主要包括CLLL格基规约算法的复杂度和MMSE-SQRD算法的复杂度。CLLL 格基规约算法的复杂度主要受迭代次数影响，其迭代次数的上界为 $o ( N _ { t } ^ { 2 } \log { N _ { t } } )$ ，而在CLLL 格基规约的每次迭代都需要进行长度约减和列向量交换，其复杂度为 $o ( N _ { t } N _ { r } )$ ，因此 CLLL 格基规约算法复杂度为 $o ( N _ { t } ^ { 3 } N _ { r } \log N _ { t } ^ { . }$ );MMSE-SQRD 算法的复杂度为 $o ( N _ { t } ^ { 4 } )$ 。所以CLLL-MMSE-SQRD 检测算法的平均复杂度为
+
+$$
+\delta _ { \substack { C L I L - M M S E - S Q R D } } = o ( N _ { t } ^ { 3 } N _ { r } \log N _ { t } ) + o ( N _ { t } ^ { 4 } )
+$$
+
+QRD-M检测算法的平均复杂度为
+
+$$
+\delta _ { Q R D \cdot M } = o ( 2 ^ { K } + ( N _ { r } - 1 ) \cdot M \cdot 2 ^ { K } ) 
+$$
+
+其中： $M$ 表示每一层保留的节点数。
+
+由于基于条件数阈值选择检测算法的复杂度与选择的算法的概率有关，所以该算法的平均复杂度为
+
+$$
+\delta _ { \scriptscriptstyle T H } = p _ { \scriptscriptstyle k _ { t h } } \delta _ { \scriptscriptstyle C L L L - M M S E - S Q R D } + ( 1 - p _ { \scriptscriptstyle k _ { t h } } ) \delta _ { \scriptscriptstyle Q R D - M }
+$$
+
+对于QRD-M检测算法来说，可以根据不同的调制方式以及保留节点个数 $M$ 来得到算法的计算复杂度 $\delta _ { Q R D - M }$ 。而对于基于条件数选择检测算法的复杂度，根据式(11)可以得到选择CLLL-MMSE-SQRD 检测算法的概率 $p _ { k _ { t h } }$ ，并代入式(25)得到算法复杂度δTH°
+
+# 4.2参数设置
+
+下面对本文提出的基于条件数阈值选择的检测算法进行仿真分析，通过条件数判断信道质量并选择适合的检测算法。为了验证算法在MIMO-PLC系统中的性能，分别对QRD-M不同$M$ 取值及提出算法在不同条件数门限进行了MATLAB 仿真。具体仿真参数如表1所示。
+
+表1仿真参数  
+Table 1Simulation parameters   
+
+<html><body><table><tr><td>仿真参数</td><td>参数内容</td><td>仿真参数</td><td>参数内容</td></tr><tr><td>仿真平台</td><td>MIMO-PLC</td><td>调制方式</td><td>QPSK/16QAM</td></tr></table></body></html>
+
+<html><body><table><tr><td>天线配置</td><td>2x2</td><td>信道编码</td><td>Turbo 编码</td></tr><tr><td>噪声环境</td><td>高斯噪声</td><td>信道估计</td><td>理想</td></tr><tr><td>信道环境</td><td>MIMO-PLC信道</td><td>仿真帧数</td><td>1000</td></tr></table></body></html>
+
+如图4所示，MIMO-PLC信道具有频域选择性衰落的性质，而且每个子信道的接入负载情况不同使其衰减情况和相位变化也不一致，在一些子载波上信道幅度衰减至-50dB以下。综上所述，MIMO-PLC系统虽然通过增加子信道的个数来提高频带利用率和容量，但是不同子载波信道质量存在的严重的差异。
+
+图5表示MIMO-PLC信道条件数，仿真样本数为511个子载波，由于条件数为信道矩阵的最大奇异值与最小奇异值之比，所以其最小值取为1。从图5可知，条件数20以下，其出现的样本数较多，超过总数的 $7 5 \%$ ，而条件数在20以上的信道质量较差，因此以这个范围设置最优门限能够保证足量的质量较优的信道能够选择复杂度较低的次优算法，避免不必要的复杂度开销。
+
+![](images/29d6f7afcdf34fb064e73f9f526c8b8f799ae1c4ee19bfd891a7966d3a29ae49.jpg)  
+图4频域MIMO-PLC信道幅度
+
+![](images/22d161c96de2c3d62101420d15f39f483f6e1147d33847faa3793c4a9d122515.jpg)  
+Fig.4Channel amplitude of frequency domain MIMO-PLC
+
+Fig.5Matrix condition numberof MIMO-PLC channel
+
+对比图6和7,在QPSK调制 $\mathbf { S N R } = 2 4 \mathbf { d B }$ 时,QRD-M $\scriptstyle \mathbf { M } = 3$ 的检测算法性能已经和 ML 检测算法一样到达了 $1 0 ^ { - 3 }$ 以下，因此在QPSK 调制方式下本文所提算法选择QRD-M $\mathbf { M } { = } 3$ 。在图6 中，分别对在条件数阈值 $k _ { t h } = 5 \ , \ k _ { t h } = 1 0$ 和 $k _ { t h } = 1 5$ 下的本文所提算法与QRD-M $\scriptstyle \mathbf { M } = 3$ 算法和CLLL-MMSE-SQRD 算法性能对比，本文所提算法 $k _ { t h } = 5$ 性能最好，且与QRD-M $\mathbf { M } { = } 3$ 算法性能接近，随着条件数阈值增大，算法的性能将下降，是因为CLLL-MMSE-SQRD算法只在一些信道质量较好的信道上获得最佳的性能，随着条件数阈值增大使部分信道质量较差的信道也采用CLLL-MMSE-SQRD算法来检测，并不能获得较好的性能。
+
+从图8\~10可知，在16QAM调制下选择QRD-M $\scriptstyle \mathbf { M } = 8$ 算法作信道质量差时选择的检测算法。通过条件数阈值 $k _ { t h } = 5$ 、$k _ { _ { t h } } = 1 0$ 和 $k _ { t h } = 1 5$ 下的本文所提算法与QRD-M $\scriptstyle \mathbf { M } = 8$ 算法和CLLL-MMSE-SQRD 算法性能对比，本文提出算法 $k _ { t h } = 5$ 算法性能已经接近ML算法，并结合图10得到选择CLLL-MMSE-SQRD 检测算法的概率为 $p _ { t h } = 0 . 5 2 7$ ，本文提出算法 $k _ { t h } = 5$ 算法复杂度相比 $\scriptstyle \mathrm { Q R D - M M = } 8$ 算法复杂度降低了约 $44 \%$ ，而最优阈值在小于5时，选择QRD-M算法的概率增加，算法复杂度也随着增加，为了获得较为适合的性能与复杂度的平衡，本文选择 $k _ { t h } = 5$ ，而且所提算法在性能损失较小的情况下，复杂度明显降低，并随着调制阶数增加，复杂度降低更加明显。
+
+![](images/cd60c16257efc4e1a18502619e708b52b6b2a41859f7319b1dde546ad4e1df27.jpg)  
+图6QPSK调制方式下几种检测算法的性能比较
+
+![](images/ca641e623ef5917901a0b2a5d29c70e23cd630c509b4608164c64fe2540c4eab.jpg)  
+图5MIMO-PLC信道矩阵条件数  
+Fig.6Performance comparison of several detection algorithms under   
+图7QPSK调制方式下本文所提算法性能比较  
+Fig.7Performance comparison of proposed algorithms under QPSK
+
+modulation mode
+
+![](images/ce9fd10556a6d034467bc8ef1e67d428851648e81eeab655b28e1a6e677bc7fe.jpg)  
+图816QAM调制方式下几种检测算法的性能比较
+
+![](images/acb3c9ebed0b76e6c43e37bb6543081698dffe0e2550ca3ab6a5b19780569c66.jpg)  
+Fig.8Performance comparison of several detection algorithms under   
+图916QAM调制方式下本文所提算法性能比较
+
+![](images/76611673fb678a705f0de76da5728f6ee31f471486b6649a322ea9b2dea57ab7.jpg)  
+Fig.9Performance comparison of proposed algorithms under 16QAM   
+图10选择CLLL-MMSE-SQRD检测算法的概率   
+Fig.10Probability ofCLLL-MMSE-SQRD detectionalgorithm
+
+# 5 结束语
+
+本文提出一种基于条件数阈值选择的检测算法，在当前信道矩阵条件数低于或等于阈值时，采用CLLL-MMSE-SQRD 检测算法，该算法复杂度较低，但在信道质量好情况下能获得最优性能；而信道条件数高于阈值时，采用QRD-M检测算法，该算法在保留节点数较高时能获得最优的检测性能，相比ML复杂度低。通过选择策略保证了算法的复杂度开销，在16QAM调制方式下，本文所提算法在 $k _ { t h } = 5$ 时，复杂度较QRD-M $\scriptstyle \mathbf { M } = 8$ 算法降低了约 $44 \%$ ，在性能仿真验证中，其性能与QRD-M $\scriptstyle \mathbf { M } = 8$ 算法趋于一致，验证了本文所提算法在高阶调制时，其复杂度将明显低于QRD-M 算法。
+
+参考文献：   
+[1]Hrasnica H,Haidine A，Lehnert R,et al.Broadband powerline communications: network design [M]. Hoboken: Wiley,2004.   
+[2]Berger LT,Schwager A,Pagani P,et al. MIMO power line communications: narrow and broadband standards，emc,and advanced processing [M]. Germany: CRC Press, Inc. 2014.   
+[3]AgrellE,Eriksson T,VardyA,etal.Closest point search inlattices[J].IEEE Trans. inf. theory,2002,48 (8): 2201-2214.   
+[4]Yao H,Wornell G W.Lattice-reduction-aided detectors for MIMO communicationsystems [C]//Proc of Global Telecommunications Conference.Piscataway,NJ:IEEE Press,2002:424-428.   
+[5]Ma X, Zhang W. Performance analysis for MIMO systems with laticereduction aided linear equalization [J]. IEEE Transon Communications, 2008,56 (2): 309-318.   
+[6]Maurer J, Matz G,Sethaler D.Low-complexity and full-diversity MMO detection based on condition number thresholding [C]// Proc of IEEE International Conference on Acoustics, Speech and Signal Processing. Piscataway,NJ: IEEE Press,2007: II-61-I-64.   
+[7]Hashmat R,Pagani P, Zeddam A,et al. MIMO communications for inhome PLC networks: Measurements and results up to 100 MHz [C]// Proc of IEEE International Symposium on Power Line Communicationsand ITS Applications.Piscataway,NJ: IEEE Press,2010:120-124.   
+[8]Schneider D,Speidel J,StadelmeierL,et al. Precoded spatial multiplexing MIMO for inhomepower line communications [C]// Proc of Global Telecommunications Conference.Piscataway,NJ: IEEE Press,2008:1-5.   
+[9]Schwager A,Schneider D，Bäschlin W,et al. MIMO PLC:theory, measurementsand system setup [C]// Proc of IEEE International Symposium on Power Line Communications and ITS Applications. Piscataway,NJ: IEEE Press,2011: 48-53.   
+[10] Berger L T, Schwager A,Pagani P,et al. MIMO power line communications [J]. Communications Surveys & Tutorials IEEE,2015,17(1):106-124.   
+[11] Hashmat R,Pagani P, Zeddam A,et al. Achannel model for multiple input multiple output in-home power line networks[C]// Proc of IEEE International Symposium on Power Line Communications and ITS Applications.OiscatawayNJ: IEEEPres,21:35-41.   
+[12] .Versolatto F, Tonello A M.An MTL theory approach for the simulation of MIMO power-line communication channels [J].IEEE Trans on Power Delivery,2011,26 (3): 1710-1717.   
+[13].Zimmermann M, Dostert K.A multipath model for the powerline channel [J]. IEEE Trans on Communications,2002,50(4): 553-559.   
+[14]．Szarek SJ.Condition numbers of random matrices.[J].Journal of Comnlexitv. 1991.7(2): 131-149.

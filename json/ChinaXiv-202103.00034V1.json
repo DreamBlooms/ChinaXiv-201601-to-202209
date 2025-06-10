@@ -1,0 +1,684 @@
+[
+    {
+        "type": "text",
+        "text": "基于FSDAF模型的干旱区典型绿洲城市夏季地表热岛效应时空演变研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王爽，王承武，张飞云（新疆农业大学管理学院，新疆 乌鲁木齐830052)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：全球城市化进程加快引起的干旱区绿洲城市热岛效应变化及其生态环境问题已成为当前国内外城市气候、环境和生态等领域的研究热点之一。基于遥感热红外通道反演的地表温度(Land surface temperature,LST)是开展城市地表热岛（Surface urban heat island,SUHI)效应监测研究的关键参数。然而，受热红外遥感数据“时空矛盾”的制约，目前在单一星载卫星传感器下尚不存在同时具有高时间分辨率和高空间分辨率的热红外遥感数据源，因而制约了在干旱区绿洲城市范围内开展高精度地表热岛效应监测研究。针对上述问题，以干旱区典型绿洲城市——乌鲁木齐市为研究区域，以Landsat系列影像和MODIS地表温度产品为基础数据源，基于FSDAF（Flexiblespatiotemporal data fusion method)时空融合模型分析了2001—2018年乌鲁木齐市在城市扩张背景下夏季地表热岛效应的时空变化特征以及夏季LST与城市地表参数之间的关系。研究结果表明：(1）乌鲁木齐市夏季热岛强度(SUHIintensity,SUHII)在不同的郊区范围内均呈现增加的趋势。在较小的郊区范围内，SUHII从2001年的 $1 . 2 4 ^ { \\circ } \\mathrm { C }$ 增加到了2018年的 $2 . 8 3 ~ \\mathrm { ‰}$ ;在较大的郊区范围内，$\\mathrm { \\ S U H I I _ { 2 } }$ 从2001年的 $1 . 4 4 ^ { \\circ } \\mathrm { C }$ 增加到了2018年的 $2 . 8 8 ^ { \\circ } \\mathrm { C }$ ;(2）在研究区各土地利用类型中，裸地的夏季LST最高，水体最低；(3)研究区地表反照率和不透水面的增加与城市夏季LST升高呈正相关，而植被指数与植被覆盖度则与LST呈负相关关系;(4)在干旱区绿洲城市,城区内部植被面积的增加有助于缓解城市热岛效应，而仅郊区植被的增加则会导致SUHII的进一步增强。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：地表热岛；时空融合模型；干旱区绿洲城市",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，热岛效应随着全球城市化进程的不断加快，目前已成为一个影响城市居民身心健康、城市空气质量、水资源消耗和城市生态系统可持续发展的重要生态环境问题[1]。相对于利用传统气象站观测数据和数值模拟开展的城市大气热岛监测，星载和机载等遥感热红外传感器因其具有覆盖面广、获取数据成本低等优势目前已广泛用于城市地表热岛（Surface urban heat island,SUHI)监测研究[2]。地表温度(Land surface temperature,LST)是基于热红外传感器反演得到的，可以实现城市地表热岛高精度监测的关键参数。然而由于星载热红外传感器设计和研发技术的瓶颈限制，目前尚不存在同时满足高时间和高空间分辨率的热红外遥感影像[3]例如：目前常见的高时间分辨率MODIS地表温度产品的空间分辨率较低( $\\mathrm { ~ ( ~ 1 ~ k m ) ~ }$ ，而高空间分辨率的Landsat系列卫星数据的重返周期则长达16d,这种遥感数据的“时空矛盾”不仅导致了高时空分辨率LST数据的缺失，还严重限制了遥感数据在区域地表热岛效应监测中的应用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，地表温度时空融合模型已成为解决上述问题的有效手段，其主要原理在于融合高空间分辨率地时间分辨率LST数据和低空间分辨率高时间分辨率LST数据的特征，从而生成高时空分辨率的LST数据。Liu和Weng[4]采用时空自适应反射率融合模型（Spatio temporal adaptive reflectivity fusionmodel,STARFM）,将MODISLST数据和ASTERLST数据相结合，预测生成的高时空分辨率LST影像与真实影像的差值小于 $1 \\ { } ^ { \\circ } \\mathrm { C }$ 。 ${ { \\mathbb { W } } _ { \\mathrm { } } } \\mathrm { { u } }$ 等[5]将Landsat LST数据、MODISLST数据和GEOS/SEVIRI数据相结合构建了 STITFM（Spatio-temporal integrated tempera-turefusionmodel)模型，预测生成了高时空分辨率的LST数据。郑明亮等[]基于TsHARP（ThermalsHARPening)模型和STITFM模型预测生成了 $3 0 \\mathrm { ~ m ~ }$ 空间分辨率的LST数据，其均方根误差小于1.33K。魏然和单杰[]基于ESTARFM(Enhanced spatialand temporal adaptive reference fusion model)模型和非线性辐射温度分解法融合生成了 $6 0 \\mathrm { ~ m ~ }$ 空间分辨率的逐日LST影像。Zhu等[8提出了可以有效减小误差，从而预测时序高分辨率LST数据的FSDAF(Flexible spatiotemporal data fusion method)模型。研究结果表明，FSDAF模型不仅运行效率较高，数据源输入需求较小，预测生成的LST数据也具有较高精度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于此，本研究以近20a来受经济快速发展影响，城市化进程最为明显的干旱区典型绿洲城市—乌鲁木齐市为研究区，基于FSDAF模型将反演获取的LandsatLST数据和MODISLST数据相结合，预测生成高时空分辨率的LST数据。在此基础上，开展了2001—2018年乌鲁木齐市夏季地表热岛时空变化特征进行研究，重点探讨了研究区夏季LST与土地利用类型和城市地表参数之间的关系，以期为今后于旱区绿洲城市的地表热岛效应研究提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "乌鲁木齐市位于我国西北部，是新疆维吾尔自治区的首府 $( 8 6 ^ { \\circ } 3 7 ^ { \\prime } 3 3 ^ { \\prime \\prime } { \\sim } 8 8 ^ { \\circ } 5 8 ^ { \\prime } 2 4 ^ { \\prime \\prime } \\mathrm { E }$ $4 2 ^ { \\circ } 4 5 ^ { \\prime } 3 2 ^ { \\prime \\prime } \\mathrm { N } \\sim$ $4 5 ^ { \\circ } 0 0 ^ { \\prime } 0 0 ^ { \\prime \\prime } \\mathrm { N } \\rrangle$ )，城市北部为河流冲击平原，南部与天山中段北麓相接,东北部与西南部也均为山地，形成三面环山的格局(图1)[9]。乌鲁木齐市平均海拔在 $8 0 0 \\mathrm { ~ m ~ }$ 左右，属于中温带大陆性干旱气候,年均降水量为 $1 4 5 ~ \\mathrm { m m }$ ，四季差异明显，夏季为每年6月中旬一9月中旬，夏季持续时间长、昼夜温差大且炎热干燥，是典型的干旱区绿洲城市。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "乌鲁木齐市作为中亚最大的干旱区绿洲城市之一，近20a来经济快速发展，GDP由2001年的$3 1 5 \\times 1 0 ^ { 8 }$ 元增加到了2018年的 $3 0 9 9 \\times 1 0 ^ { 8 }$ 元。同期常住人口数量也由 $1 6 9 . 0 3 \\times 1 0 ^ { 4 }$ 人快速增长到 $3 5 0 . 5 8 \\times$ $1 0 ^ { 4 }$ 人。人口数量激增、原有自然表面大量被人工不透水面所替代、城市整体热排放水平的不断增加均造成了城市热环境问题的逐步加剧。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2数据来源和研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1LandsatLST数据获取",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究采用的Landsat系列数据(path/row:143/29;path/row:143/30)的时间分辨率均为 $1 6 \\mathrm { ~ d ~ }$ 。其",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c25659c36e0bc275c9a540b1d154457bfa1f7805e12bd92d9909e4f9962c540e.jpg",
+        "img_caption": [
+            "图1研究区概况",
+            "Fig.1 Location of the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f906c35c9a374a11ac4435106ddd8381184515efe76b5b7ec4af2d5ec1e9cf01.jpg",
+        "table_caption": [
+            "Tab.1 Selected Landsat TM,Landsat 8 and MODl1A1 data for the testing experiment in the study "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>卫星数据</td><td>数据获取日期 (年-月-日）</td><td>数据获取 时间（UTC)</td><td>已知时刻(ti)基础 输入LST影像</td><td>预测时刻(tm)基础 输入LST影像</td><td>验证数据</td></tr><tr><td>Landsat TM</td><td>2001-05-23</td><td>04:36</td><td>√</td><td></td><td></td></tr><tr><td>MOD11A1</td><td>2001-05-23</td><td>04:30</td><td>√</td><td></td><td></td></tr><tr><td>MOD11A1</td><td>2001-07-10</td><td>04:30</td><td></td><td>√</td><td></td></tr><tr><td>Landsat TM</td><td>2001-07-10</td><td>04:36</td><td></td><td></td><td>√</td></tr><tr><td>MOD11A1</td><td>2001-09-12</td><td>04:30</td><td></td><td>√</td><td></td></tr><tr><td>Landsat TM</td><td>2001-09-12</td><td>04:36</td><td></td><td></td><td>√</td></tr><tr><td>Landsat TM</td><td>2011-06-04</td><td>04:45</td><td>√</td><td></td><td></td></tr><tr><td>MOD11A1</td><td>2011-06-04</td><td>04:20</td><td>√</td><td></td><td></td></tr><tr><td>MOD11A1</td><td>2011-08-07</td><td>04:20</td><td></td><td>√</td><td></td></tr><tr><td>Landsat TM</td><td>2011-08-07</td><td>04:44</td><td></td><td></td><td>√</td></tr><tr><td>Landsat 8</td><td>2018-05-22</td><td>04:55</td><td>√</td><td></td><td></td></tr><tr><td>MOD11A1</td><td>2018-05-22</td><td>04:25</td><td>√</td><td></td><td></td></tr><tr><td>MOD11A1</td><td>2018-06-23</td><td>04:55</td><td></td><td>√</td><td></td></tr><tr><td>Landsat 8</td><td>2018-06-23</td><td>04:55</td><td></td><td></td><td>√</td></tr><tr><td>MOD11A1</td><td>2018-08-26</td><td>04:55</td><td></td><td>√</td><td></td></tr><tr><td>Landsat 8</td><td>2018-08-26</td><td>04:55</td><td></td><td></td><td>√</td></tr><tr><td>MOD11A1</td><td>2018-09-11</td><td>04:55</td><td></td><td>√</td><td></td></tr><tr><td>Landsat 8</td><td>2018-09-11</td><td>04:55</td><td></td><td></td><td>√</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "中，LandsatTM和Landsat8热红外波段的空间分辨率分别为 $1 2 0 \\mathrm { m }$ 和 $1 0 0 \\mathrm { m }$ 。数据来源于U.S.Geologi-cal Survey 网站(http://earthexplorer.usgs.gov/）,热红外波段的空间分辨率已经在下载后重采样到了30m，研究所采用的的Landsat数据清单如表1所示。在预处阶段，数据本身已经进行过了几何校正，并在此基础上完成了辐射校正和大气校正。最后分别基于LandsatTM热红外第6波段和Landsat8热红外第10波段，采用单窗算法反演获取了LandsatLST数据。具体的单窗算法反演的详细步骤见Qin等[10]的研究成果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2MODIS地表温度数据预处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究同时采用当地时间10：30过境的每日合成MODISLST产品MOD11A1和8d合成MODISLST产品MOD11A2（表2），二者的空间分辨率均为$1 ~ \\mathrm { k m }$ ，数据来源于美国NASA的对地观测数据和信息系统（https://earthdata.nasa.gov）。 MOD11A1和MOD11A2是目前应用于大区域尺度下垫面地表温度监测适用性最好的产品，目前已广泛用于城市地表热岛监测研究。首先，本研究利用MODIS数据预处理工具MRT将MODISLST数据的坐标系统转换成与Landsat数据一致的UTM坐标系。其次，以LandsatLST数据为基准，对MODISLST数据进行几何校正，消除不同传感器数据源之间的几何误差。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e540fccf36ce35ab968efcf17405cf8dda977913abc153b8ce913b34ee19a4f7.jpg",
+        "table_caption": [
+            "表1本研究在测试实验阶段选用的LandsatTM、Landsat8和MOD11A1数据",
+            "表2本研究在融合实验阶段选用的MOD11A2数据",
+            "Tab.2 Selected MOD11A2 data for the fusion experiment in the study "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">实验</td><td rowspan=\"2\">年中天数/d</td><td rowspan=\"2\">数据获取日期</td><td colspan=\"3\">预测时刻(tn)的LST影像</td></tr><tr><td>2001年</td><td>2011年</td><td>2018年</td></tr><tr><td>融合实验</td><td>169~176</td><td>6月18—25日</td><td></td><td>√</td><td>√</td></tr><tr><td rowspan=\"10\"></td><td>177~184</td><td>6月26日—7月3日</td><td></td><td>√</td><td>√</td></tr><tr><td>185~192</td><td>7月4—11日</td><td>√</td><td>√</td><td>√</td></tr><tr><td>193~200</td><td>7月12—19日</td><td>√</td><td>√</td><td>√</td></tr><tr><td>201~208</td><td>7月20—27日</td><td>√</td><td>√</td><td>√</td></tr><tr><td>209~216</td><td>7月28日—8月4日</td><td>√</td><td>√</td><td>√</td></tr><tr><td>217~224</td><td>8月5—12日</td><td>√</td><td>√</td><td>√</td></tr><tr><td>225~232</td><td>8月13—20日</td><td>√</td><td>√</td><td>√</td></tr><tr><td>233~240</td><td>8月21—28日</td><td>√</td><td>√</td><td>√</td></tr><tr><td>241~248</td><td>8月29日—9月5日</td><td>√</td><td>√</td><td>√</td></tr><tr><td>249~256</td><td>9月6日—9月13日</td><td>√</td><td>√</td><td>√</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3FSDAF模型原理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Zhu等[8提出的FSDAF模型，由于仅需要在已知时刻的一对高、低空间分辨率遥感数据和预测时刻的一景低空间分辨率遥感数据，就可以有效融合生成预测时刻的高空间变率影像，因而目前被国内外学者应用于LST数据的时空融合研究。Zhang等[1利用FSDAF模型预测生成了时序高空间分辨率LST数据集。杨敏等利用覆盖黑河中游盈科灌区的ASTERLST和MODISLST数据，基于FSDAF模型预测生成了与ASTER相同空间分辨率的LST数据集。因此，本研究基于FSDAF模型将高空间分辨率的LandsatTM和Landsat8LST数据与低空间分辨率的MOD11A1和MOD11A2数据相结合，以期预测生成高时空分辨率的LST数据。本研究将基于FSDAF模型融合生成的高时空分辨率LST数据称为“LST预测数据”，将基于MODIS和Landsat卫星反演生成的LST数据称为“LST观测数据”。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究有2个重要步骤：测试实验和融合处理。（1）测试实验：为了验证FSDAF模型融合LST数据的精度能够满足研究需要，本研究首先利用2001、2011年和2018年夏季开始前1个月内的LandsatLST和MOD11A1数据为FSDAF模型基础时刻 $\\left( { { t } _ { 1 } } \\right)$ 的输入影像(表1)，在此基础上利用夏季预测时刻 $\\left( { { t } _ { m } } \\right)$ 的MOD11A1数据融合生成夏季不同预测时刻的高空间分辨率“LST预测数据”。最后，利用基于Landsat影像反演得到的预测时刻\"LST观测数据\"对\"LST预测数据\"的精度进行验证。FSDAF模型的具体处理步骤如下所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { L } \\hat { \\mathbf { S } } \\mathbf { t } _ { t _ { m } } \\bigl ( x _ { i j } , y _ { i j } \\bigr ) = \\mathrm { L S T } _ { t _ { 1 } } \\bigl ( x _ { i j } , y _ { i j } \\bigr ) + \\sum _ { k = 1 } ^ { n } W _ { k } \\times \\Delta \\mathrm { L S T } ( x _ { k } , y _ { k } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\mathrm { L S T } \\big ( x _ { i j } , y _ { i j } \\big ) = \\varepsilon _ { \\mathrm { h i g h } } \\big ( x _ { i j } , y _ { i j } \\big ) + \\Delta \\mathrm { L S T } ( c )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mathrm { L } \\hat { \\bf s } \\mathrm { t } _ { t _ { m } } ( x _ { i j } , y _ { i j } )$ 表示预测时刻 $t _ { m }$ 的高空间分辨率“LST预测数据”; $\\mathrm { L S T } _ { t _ { 1 } } ( x _ { i j } , y _ { i j } )$ 表示基础时刻 $t _ { 1 }$ 的高空间分辨率LST输人数据； $\\textstyle \\ W _ { k }$ 表示第 $k$ 个相似像元的权重； $\\Delta \\mathrm { L S T } ( x _ { k } , y _ { k } )$ 表示 $t _ { 1 }$ 到 $t _ { m }$ 时刻相似像元LST的变化值; $\\Delta \\mathrm { L S T } ( x _ { i j } , y _ { i j } )$ 表示目标像元 $( x _ { i j } , y _ { i j } )$ 在 $t _ { 1 }$ 到 $t _ { m }$ 时刻的变化值; $\\varepsilon _ { \\mathrm { h i g h } } ( x _ { i j } , y _ { i j } )$ 表示第 $j$ 个高空间分辨率像元与第 $i$ 个低空间分辨率像元之间的残差；△LST(c)表示高空间分辨率LST数据在第 $\\mid c \\mid _ { }$ 类别上从 $t _ { 1 }$ 到 $t _ { m }$ 时刻的变化值。更多FSDAF模型权重的计算步骤和细节请参考 $\\mathrm { \\Delta Z h u }$ 等8的研究成果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "可以用于计算残差的TPS（The thin platespline)函数求解方法如下所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varepsilon _ { \\mathrm { h i g h } } ( x _ { i j } , y _ { i j } ) { = } m \\times L ( x _ { i } , y _ { i } ) \\times W ( x _ { i j } , y _ { i j } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL ( x _ { i } , y _ { i } ) = \\Delta L ( x _ { i } , y _ { i } ) -\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 } { m } { \\sum _ { j = 1 } ^ { m } } \\mathrm { L S T } _ { t _ { m } } ^ { \\mathrm { T P } } ( x _ { i j } , y _ { i j } ) { - \\sum _ { j = 1 } ^ { m } \\mathrm { L S T } _ { t _ { 1 } } ( x _ { i j } , y _ { i j } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { L W } ( x _ { i j } , y _ { i j } ) { = } E _ { h 0 } ( x _ { i j } , y _ { i j } ) \\times\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { H I } ( x _ { i j } , y _ { i j } ) + E _ { h e } ( x _ { i j } , y _ { i j } ) \\times [ 1 \\mathrm { - H I } ( x _ { i j } , y _ { i j } ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { h 0 } ( x _ { i j } , y _ { i j } ) { = } \\mathrm { L S T } _ { t _ { m } } ^ { \\mathrm { S P } } ( x _ { i j } , y _ { i j } ) { \\mathrm { - } } \\mathrm { L S T } _ { t _ { m } } ^ { \\mathrm { T P } } ( x _ { i j } , y _ { i j } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { L S T } _ { t _ { m } } ^ { \\mathrm { S P } } ( x _ { i j } , y _ { i j } ) { = } f _ { \\mathrm { T P S - b } } ( x _ { i j } , y _ { i j } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $L ( x _ { i } , y _ { i } )$ 表示高空间分辨率\"LST观测数据\"和\"LST预测数据\"之间的残差值; $m$ 表示低空间分辨率影像的亚像元数量； $\\Delta L ( x _ { i } , y _ { i } )$ 表示LST在低空间分辨率影像从 $t _ { 1 }$ 到 $t _ { m }$ 时刻的变化值; $\\mathrm { L W } ( x _ { i j } , y _ { i j } )$ 表示残差分配的权重; $W ( x _ { i j } , y _ { i j } )$ 表示 $\\mathrm { L W } ( x _ { i j } , y _ { i j } )$ 的归一化权重; $\\mathrm { L S T } _ { t _ { m } } ^ { \\mathrm { T P } }$ 为基于时间变化预测生成的 $t _ { m }$ 时刻LST值; $E _ { _ { h 0 } } ( x _ { _ { i j } } , y _ { _ { i j } } )$ 为时间的预测误差; $\\mathrm { H I } ( x _ { i j } , y _ { i j } )$ 为同质系数; $E _ { \\it { h e } } ( x _ { { \\it i } { \\it j } } , y _ { { \\it i } { \\it j } } )$ 表示在低空间分辨率像元中的等误差； $\\mathrm { L S T } _ { t _ { m } } ^ { \\mathrm { S P } } \\Big ( x _ { i j } , y _ { i j } \\Big )$ 为基于优化参数后的TPS函数融合生成的 $t _ { m }$ 时刻高空间分辨率LST影像；fTPs-b(xij,yij)为TPS函数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究采用预测时刻反演获取的高空间分辨率\"LST观测数据”作为参考影像，选用决定系数$\\left( R ^ { 2 } \\right)$ 、均方根误差(RMSE)和绝对平均差(AAD)等3个定量评价指标验证\"LST预测数据\"的精度。如果本研究在测试实验阶段预测生成的LST数据的精度能够满足研究需要，研究再进行融合处理。(2）融合处理：研究同样利用2001、2011年和2018年夏季开始前1个月内的LandsatLST和MOD11A1遥感数据为FSDAF模型基础时刻 $\\left( { { t } _ { 1 } } \\right)$ 的输入影像，将夏季预测时刻 $\\left( { { t } _ { n } } \\right)$ 8d合成的MOD11A2数据替换原有预测时刻 $\\left( { { t _ { m } } } \\right) \\mathrm { { M O D 1 1 A 1 } }$ 数据，从而预测生成时间分辨率为 $8 \\textup { d }$ 覆盖研究区的夏季高空间分辨率LST数据集，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "并分别将该数据集内2001、2011年和2018年的夏季LST数据之和求平均，从而最终获取研究区各年份夏季平均LST数据。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4热岛强度(SUHIIntensity,SUHII)计算 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "研究采用 $\\mathrm { S U H I I _ { 1 } }$ 和 $\\mathrm { S U H I I } _ { 2 }$ 等2个热岛强度指标计算研究区热岛强度。 $\\mathrm { S U H I I _ { 1 } }$ 定义为市区与郊区（面积占市区面积的 $100 \\%$ )夏季平均LST温度差；$\\mathrm { S U H I I } _ { 2 }$ 定义为市区与郊区（面积占市区面积的$1 5 0 \\%$ )夏季平均LST温度差，以此验证研究区不同郊区范围对地表热岛效应变化的影响。郊区范围的界定参考Peng等[13]的研究成果。SUHII的计算公式如下所示：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S U H I I _ { 1 } { = } L S T _ { \\ u r b a n } { - } L S T _ { \\ u r a l 1 0 0 \\% } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S U H I I _ { 2 } } = \\mathrm { L S T _ { \\ u r b a n } } \\mathrm { - L S T _ { \\ u r a l \\ 1 5 0 \\% } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5城市地表参数计算",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了进一步探索研究区夏季LST与城市地表参数变化之间的关系，研究采用了增强植被指数(Enhancedvegetation index,EVI）植被覆盖度(Fraction-al vegetation cover,FVC）、不透水面（Impervious sur-facearea,ISA)和地表反照率(Albedo)4个城市地表参数用于研究。其中，EVI和归一化植被指数（Nor-malized difference vegetation index,NDVI)是当前监测地表植被变化最常用的2种植被指数，大量研究结果表明EVI对于稀疏植被的监测效果优于NDVI,因而更适用于城市区域植被监测[14-15]。其计算公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E V I } = 2 . 5 \\times { \\frac { ( \\mathrm { N I R } - \\mathrm { R E D } ) } { ( \\mathrm { N I R } + C _ { 1 } \\times \\mathrm { R E D } - C _ { 2 } \\times \\mathrm { B L U E } + L ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中：BLUE、RED和NIR为Landsat影像的蓝光、红光和近红外反射率波段； $L$ 为土壤背景调节参数; $C _ { 1 }$ 和 $C _ { 2 }$ 为气溶胶阻抗系数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "FVC是衡量区域城市地表植被状况的另一个重要指标[16],本研究拟将其与EVI相结合一同用于城市夏季地表温度变化分析。FVC的计算公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { F V C = \\left[ \\frac { \\left( N D V I - N D V I _ { m i n } \\right) } { \\left( N D V I _ { m a x } - N D V I _ { m i n } \\right) } \\right] ^ { 2 } , }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { N D V I } = { \\frac { \\left( { N I R - R E D } \\right) } { \\left( { N I R + R E D } \\right) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ISA作为城市最主要的地表覆盖类型之一，是城市地表热环境研究的关键参数。研究选用3期覆盖研究区的夏季末期或秋季初期Landsat遥感影像，获取日期分别为2001年9月12日、2011年10月3日和2018年9月11日，以此避免夏季高植被覆盖度影响城区内部ISA的提取精度。本研究基于归一化光谱混合分析（Normalized spectral mixture analysis,NSMA）[17]和线性光谱混合分析（Liner spectral mix-tureanalysis,LSMA)[18]提取了研究区ISA信息。首先,利用NSMA减少不同用地类型端元的光谱差异，其计算公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { R _ { b } } } = \\frac { R _ { b } } { \\mu } \\times 1 0 0 , \\sharp \\sharp \\sharp \\mu = \\frac { 1 } { n } \\sum _ { b = 1 } ^ { N } R _ { b }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\overline { { R _ { b } } }$ 表示在波段 $b$ 上像元的归一化反射率； $\\mu$ 为像元的平均反射率； $R _ { b }$ 表示像元 $b$ 的原始反射率； $N$ 表示波段数量。其次，研究利用线性光谱解混办法(LSMA)计算城市内部像元组分，其计算公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { R _ { b } } } = \\sum _ { i = 1 } ^ { N } \\bar { f } _ { i } \\times \\bar { R } _ { i , b } + e _ { b } \\ , \\ \\sharp : \\sharp \\pm \\sum _ { i = 1 } ^ { N } \\bar { f } _ { i } = 1 \\ ; \\bar { f } _ { i } \\leqslant 1\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\bar { R } _ { i , b }$ 表示在波段 $b$ 中端元 $i$ 的的归一化反射率值； $\\boldsymbol { e } _ { b }$ 表示拟合误差； $\\overline { { f } } _ { i }$ 表示端元 $i$ 的权重; $N$ 表示端元数量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "反照率是影响城市净辐射以及能量平衡的一种重要因素，Mackey等[9]研究结果表明城市地表下垫面反射率越低其LST值越高。本研究运用Li-ang[20]基于Landsat卫星数据提出的算法提取研究区反照率，其计算公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\alpha _ { \\mathrm { s h o r t } } = 0 . 3 5 6 \\times \\mathrm { B L U E } + 0 . 1 3 0 \\times \\mathrm { R E D } + 0 . 3 7 3 \\times \\mathrm { N I R } +$ $0 . 0 8 5 \\times \\mathrm { S W I R 1 } + 0 . 0 7 2 \\times \\mathrm { S W I R 2 } - 0 . 0 1 8$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $ { a _ { \\mathrm { s h o r t } } }$ 表示Landsat数据短波反射率;BLUE、RED、NIR、SWIR1、SWIR2分别表示Landsat数据蓝光、红光、近红外、短波红外1波段和短波红外2波段。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1城区和郊区范围的界定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "SUHII指的是城区与郊区温度的差值，因而计算研究区夏季SUHII变化的前提是定义研究区的城区范围和郊区范围。本研究利用2001、2011年和2018年获取的LandsatTM和Landsat8遥感影像（云覆盖度 $< 1 \\%$ ）,基于支持向量机（Support vector ma-chine，SVM)分类方法[提取2001—2018年研究区城区和郊区的范围变化信息，影像获取时间均为9月，因为这一时期研究区地表反射率变化较其它时间段更小，因而更有利于界定城区界限。首先将乌鲁木齐市的土地利用类型划分为植被、水体、裸土和建设用地等4类，并基于SVM分类方法提取了研究区2001、2011年和2018年的土地利用信息。其次，利用2018年的谷歌高分影像作为验证数据，随机选取1400个验证点评价基于SVM分类方法提取的2018年土地利用分类信息精度(表3)。研究结果表明基于SVM提取的研究区土地利用信息精度能够满足后续研究需要。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在分类工作完成的基础上，乌鲁木齐市历年城区界限均以高密度且集中的建设用地为划分依据，郊区界限则在城区界限确定后分别围绕城区设定一个较小的缓冲区范围（面积占市区面积的 $100 \\%$ ））",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "表3基于支持向量机(SVM)提取的2018年土地利用信息精度",
+            "Tab.3 Accuracy of support vector machine classification in 2018 "
+        ],
+        "table_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e1671f477e60c74d010c70c2a17d430e7e3fa59a2a3b5197dba25b5803df9b78.jpg",
+        "img_caption": [
+            "图2乌鲁木齐市2001、2011年和2018年城区和郊区的范围Fig.2Urban and rural areas ofUrumqi in the years 2oo1,2011,and 2018"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "和较大的缓冲区范围（面积占市区面积的 $1 5 0 \\%$ ），以此作为2个不同郊区范围的界限，从而开展不同郊区界限下的地表热岛强度变化监测研究。如图2所示，在城区和郊区范围确定后，最终确定了一个面积为 $5 0 \\mathrm { k m } { \\times } 5 0 \\mathrm { k m }$ 的研究区范围。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2LandsatLST和MODISLST数据的融合",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "研究首先通过测试实验验证FSDAF模型用于研究区LST时空融合的实际效果。图3所展示的为用于时空融合及精度验证的LandsatLST和MOD11A1，以及基于FSDAF模型融合生成的“LST预测数据”。图3a\\~b、i\\~j、n\\~o为用于模型输入的基础时刻LandsatLST和MOD11A1影像对，获取时间分别为2001年5月23日、2011年6月4日和2018年5月22日，图3c、f、k、p、s、v为预测时刻的MOD11A1输入数据，以此融合生成2001年7月10日、2001年9月12日、2011年8月7日、2018年6月23日、2018年8月26日和2018年9月11日高空间分辨率的“LST预测数据\"（图 $3 \\mathrm { e } \\sinh \\ 、 \\mathrm { m } \\ 、 \\mathrm { r } \\ 、 \\mathrm { x } )$ 。研究采用预测时刻高空间分辨率\"LST观测数据\"（图 $3 \\mathrm { d } , \\mathbf { g } , \\mathrm { l } , \\mathbf { q } , \\mathbf { t } , \\mathbf { w } )$ 用于验证\"LST预测数据\"的精度。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "如图3所示，基于FSDAF模型生成的\"LST预测数据”与同期真实获取的高空间分辨率“LST观测数据\"在LST总体空间分布上较为一致。从表4可以看出，二者之间的 $R ^ { 2 }$ ,AAD和RMSE值域范围分别在$0 . 8 6 { \\sim } 0 . 9 4 \\mathrm { K } . 2 . 1 5 { \\sim } 2 . 5 9 \\mathrm { K }$ 和 $2 . 3 8 { \\sim } 2 . 7 6 \\mathrm { K }$ 之间。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "综上，基于FSDAF模型融合生成高时空分辨率“LST预测数据\"的精度能够满足后续研究需要。因此,本研究同样利用测试实验中用于模型输入的基",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c1e8d9248426298a4df50f49e49320e55d6c47e0801c3b5d877315804cf61e57.jpg",
+        "img_caption": [
+            "图3“LST观测数据\"与基于FSDAF模型生成的\"LST预测数据\"",
+            "Fig.3Observed and predicted LST "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/ef768efe477e20c1a2130890beb61bf72d776f9add9dbc0d086db9079b131d48.jpg",
+        "table_caption": [
+            "表4测试实验中\"LST\"预测数据与高空间分辨率\"LST观测数据\"之间的 $R ^ { 2 }$ ,AAD和RMSE值 Tab. 4 $R ^ { 2 }$ ,AAD,RMSE values between the predicted LSTand the actually observed Landsat LSTof the testing exper "
+        ],
+        "table_footnote": [
+            "注： $: R ^ { 2 }$ ，决定系数;AAD,绝对平均差;RMSE，均方根误差。通过0.01水平显著性检验 $( P { < } 0 . 0 0 1 \\$ ）"
+        ],
+        "table_body": "<html><body><table><tr><td>日期(年-月-日)</td><td>2001-6-10</td><td>2001-9-12</td><td>2011-8-7</td><td>2018-6-23</td><td>2018-8-26</td><td>2018-9-11</td></tr><tr><td>R</td><td>0.93</td><td>0.88</td><td>0.94</td><td>0.91</td><td>0.90</td><td>0.86</td></tr><tr><td>AAD/K</td><td>2.16</td><td>2.44</td><td>2.15</td><td>2.27</td><td>2.30</td><td>2.59</td></tr><tr><td>RMSE/K</td><td>2.38</td><td>2.66</td><td>2.38</td><td>2.43</td><td>2.47</td><td>2.76</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "础时刻LandsatLST和MOD11A1影像对作为FSDAF模型基础时刻 $\\left( t _ { 1 } \\right)$ 的输入影像，将8d合成的夏季MOD11A2数据（获取年中天数分别为每年的第$1 6 9 \\sim 1 7 6 \\textrm { d } , \\ 1 8 5 \\sim 1 9 2 \\textrm { d } , \\ 1 9 3 \\sim 1 2 0 0 \\textrm { d } , \\ 2 0 1 \\sim 1 2 0 8 \\textrm { d } ,$ （204$2 0 9 \\sim 1 2 1 6 \\textrm { d . } 2 1 7 \\sim 1 2 2 4 \\textrm { d . } 2 2 5 \\sim 1 2 3 2 \\textrm { d . } 2 3 3 \\sim 1 2 4 0 \\textrm { d . }$ 241\\~1248d和249\\~1256d)替换原有预测时刻 $\\left( { { t } _ { m } } \\right)$ 的MOD11A1数据，从而预测生成时间分辨率为8d覆盖研究区的高空间分辨率夏季LST数据集。最后，通过各年份夏季LST数据之和求平均，获取2001、2011年和2018年的最终夏季LST空间分布特征(图4)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "如图4所示，乌鲁木齐市区面积由2001年的$2 1 3 . 6 8 ~ \\mathrm { k m } ^ { 2 }$ 增加至2011年的 $3 0 4 . 8 8 ~ \\mathrm { k m } ^ { 2 }$ ,最终在2018年达到了 $5 3 3 . 3 3 \\ \\mathrm { k m } ^ { 2 }$ 。随着城市化进程加快，特别是“乌昌一体化\"战略的执行，城市的经济快速发展，人口和大型工业企业逐步开始向城市北部迁移。因而在2001年，乌鲁木齐市夏季LST高值集中在城市中心区域。而在2011—2018年，夏季LST高值则主要集中在城市北部，并且逐渐向东北和西北2个方向扩张。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3夏季热岛强度和LST变化分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "研究采用SUHII和 $\\mathrm { S U H I I } _ { 2 }$ 等2个热岛强度指标计算研究区热岛强度(图5)。如图5a所示，2001—2018年研究区的热岛强度呈现增加的趋势。其中，$\\mathrm { S U H I I _ { 1 } }$ 由2001年的 $1 . 2 4 ^ { \\circ } \\mathrm { C }$ 增加到2011年的 $2 . 3 6 ^ { \\circ } \\mathrm { C }$ ，2018年为 $2 . 8 3 \\ { } ^ { \\circ } \\mathrm { C } _ { \\circ }$ $\\mathrm { S U H I I } _ { 2 }$ 则由2001年的 $1 . 4 4 ^ { \\circ } \\mathrm { C }$ 增加到2011年的 $2 . 5 8 \\ ^ { \\circ } \\mathrm { C } , 2 0 1 8$ 年为 $2 . 8 8 \\ ^ { \\circ } \\mathrm { C }$ （图5b），表明研究区郊区范围设定的越大，热岛强度就越高。这主要是由于乌鲁木齐市远郊的土地利用类型以植被为主，植被面积占比随着郊区范围的扩大而增长。在干旱区绿洲城市，城区内部植被面积的增加有助于缓解城市热岛效应。而在城区植被条",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/aaacb91fef20d6fc0b954eeeb017d2b2a662ebb21e6ff59c87354a6a15b14391.jpg",
+        "img_caption": [
+            "图42001—2018年研究区夏季LST时空分布特征 Fig.4 Spatial distribution of predicted summer daytime LST during 2001—2018 ",
+            "图5研究区2001、2011年和2018年夏季热岛强度(SUHII)变化",
+            "Fig.5Temporal changes of summer SUHII in the study area for the year 2O01,2011,and 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.0 (a)夏季热岛强度变化箱线图 3.0 三  \n49an SUHII, 2 20 1 SUHII  \n201510 1055  \n0.5  \n0.0 0.0  \n2001 2011 2018 2001 2011 2018  \n年份 年份",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/0fe3795e0fb4a688a30c37a271e7fd39c496664903dc22816fbac6dbf3011c9b.jpg",
+        "img_caption": [
+            "图6研究区2001、2011年和2018年夏季不同土地利用类型的地表温度(LST)变化",
+            "Fig.6Mean summer daytime LSTby different land cover types in 2001,2011,and 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "件不变的前提下，仅郊区植被增加则会导致城市地表热岛强度增加。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "如图6所示，乌鲁木齐市夏季LST值在不同土地利用类型上的变化由高到低排序依次为：裸土>建设用地 $>$ 植被 $>$ 水体。其中，裸土LST值最高是由于裸地的土壤水分含量低因而造成热惯量低。相比建设用地，裸地显热更容易消散且有效存储的能量较少，因而夏季LST值最高。植被的LST值较低是因为植被能够通过冠层蒸腾作用有效释热量。水体由于具有较强的蓄热能力因而LST值最低。在2001年和2011年，研究区建设用地的LST值随着郊区范围的扩大略有下降，而在2018年则呈现增长。这表明随着城市化进程的加快，城市远郊的乡镇经济在近10a快速发展，远郊乡镇建设用地面积的增加进一步导致了研究区建设用地LST的升高。在2001一2018年，研究区植被的LST值随着郊区范围的扩大而降低，裸土的LST值同期升高，水体则稳定不变，这表明乌鲁木齐市远郊的土地利用类型以植被和裸土为主。因此，在干旱区绿洲城市城区面积及内部各用地组分稳定的情况下，当城市郊区的土地利用类型以植被为主则会出现热岛效应，而当郊区土地利用类型以裸地为主则会出现冷岛效应。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.4夏季LST与城市地表参数之间的定量关系",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "城市地表参数变化是导致干旱区绿洲城市夏季LST变化的主要因素之一。本研究基于2001、2011年和2018年夏季Landsat无云影像分别提取了",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/9c31a9f65ed13f672b31ce28a827d692efe356bd1111765b9aa3a4d7efa0fdab.jpg",
+        "img_caption": [
+            "干旱区地理",
+            "图7研究区2001、2011年和2018年夏季增强植被指数(EVI)空间分布",
+            "Fig.7Spatial distribution of EVI in 2001,2011,and 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "EVI（图7）、FVC（图8)和Albedo（图9），基于秋季Landsat无云影像提取了ISA(图10)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "研究首先在研究区城区和较小郊区范围内随机选取1000个采样点。其次，在较大郊区范围内再随机增选250个采样点(共计1250个点）。最后，利用Pearson相关系数分析研究乌鲁木齐市2001—2018年夏季LST和城市地表参数的定量关系（表",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac27be1e2939149b964c14fb72f0638bbd094786446d4e348b73d31128658946.jpg",
+        "img_caption": [
+            "图8研究区2001、2011年和2018年夏季植被覆盖度(FVC)空间分布",
+            "Fig.8Spatial distribution of FVC in 2001,2011,and 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5)。如表5所示，乌鲁木齐市夏季LST和EVI、FVC呈负相关，表明植被的增加可以有效降低城市地表温度，改善研究区整体热环境。由于乌鲁木齐市的东部为林地，南部为草地，北部多为耕地，因而随着城区的扩张和郊区范围的扩大LST与植被之间负相关性更为显著。另一方面，乌鲁木齐市夏季LST和ISA呈正相关，在2001年和2011年二者之间的Pear-son相关系数随着郊区范围的扩大而降低，在2018年则呈现增加的趋势，这主要是由于近年来城市远郊乡镇城市化进程加快导致不透水面面积呈快速增加。最后，由于研究区不同郊区范围内均有大量裸土，干旱区裸土含水量低且反照率高，因而与LST呈正相关，且相关性随着郊区范围的扩大而增强。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/c1e57357b4e14a1fca78c10c369ad5e0705f7a193d521672db42109d1d56ce15.jpg",
+        "img_caption": [
+            "图9研究区2001、2011年和2018年夏季地表反照率(Albedo)空间分布",
+            "Fig.9Spatial distribution of Albedo in 2001,2011,and 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/fd9c7858c9c4adaa8466e2d5e4cae773acd5f9e01cb9b9ddde58dbe0d860930a.jpg",
+        "img_caption": [
+            "图10研究区2001、2011年和2018年夏季不透水面(ISA)空间分布Fig.10 Spatial distribution ofISA in 2001,2011,and 2018"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/ad3aee637bd8499ffa84dfd5af4894e4d8595a18cd6deed72e411c500ba52593.jpg",
+        "table_caption": [
+            "表52001、2011年和2018年研究区夏季LST和EVI、FVC、ISA、AIbedo的Pearson相关系数ab.5PearsoncorrelationcoeficientsbetwesummerdaytieLSTandEVI,FVC,IS,ndAbedoinO0,nd2018"
+        ],
+        "table_footnote": [
+            "注：EVI为增强植被指数;FVC为植被覆盖度;ISA为不透水面;AIbedo为地表反照率；Area1表示城区和较小郊区范围;Area 2表示城区和较大郊区范围。通过0.01水平显著性检验( $_ { \\cdot } P { < } 0 . 0 0 1$ ）。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\"></td><td colspan=\"2\">2001年</td><td colspan=\"2\">2011年</td><td colspan=\"2\">2018年</td></tr><tr><td>Area 1</td><td>Area 2</td><td>Area 1</td><td>Area 2</td><td>Area 1</td><td>Area 2</td></tr><tr><td>EVI</td><td>-0.79</td><td>-0.81</td><td>-0.81</td><td>-0.82</td><td>-0.84</td><td>-0.85</td></tr><tr><td>FVC</td><td>-0.67</td><td>-0.68</td><td>-0.73</td><td>-0.77</td><td>-0.74</td><td>-0.80</td></tr><tr><td>ISA</td><td>0.85</td><td>0.82</td><td>0.88</td><td>0.86</td><td>0.88</td><td>0.89</td></tr><tr><td>albedo</td><td>0.86</td><td>0.88</td><td>0.86</td><td>0.89</td><td>0.91</td><td>0.92</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本研究以干旱区典型绿洲城市——乌鲁木齐市为研究区，基于FSDAF模型生成了2001、2011年和2018年夏季高时空分辨率LST数据集，并据此开展了乌鲁木齐市夏季地表热岛效应变化研究。研究结果表明：（1）基于FSDAF模型融合生成的“LST预测数据\"精度较高，能够满足研究需要；（2）乌鲁木齐市夏季热岛强度在不同的郊区范围内均呈现增加的趋势，且郊区范围越大,热岛效应越明显;(3）在各土地利用类型中，裸地的夏季LST最高，其次为建设用地和植被，水体最低；（4）研究区夏季LST升高与地表反照率和ISA的增加呈正相关，与植被因子呈负相关；(5）在干旱区绿洲城市，城区内部植被面积的增加有助于缓解城市热岛效应，而仅郊区植被的增加则会导致城市地表热岛强度增加。因此，当地政府绿化部门应在保证郊区植被数量的前提下，不断提升城市内部的植被种植数量，提高植被覆盖度，以此减缓城市热岛效应的发生发展。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1]Zhou X F,Chen H. Impact of urbanization-related land use land cover changes and urban morphology changes on the urban heat island phenomenon[J]. Science of the Total Environment,2018, 635: 1467-1476.   \n[2]Ren P, Zhang X,Liang H, et al. Assessing the impact of land cover changes on surface urban heat islands with high-spatial-resolution imagery on a local scale: Workflow and case study[J]. Sustainability,2019,11(19): 5188.   \n[3]Huang B,Wang J,Song H,et al. Generating high spatiotemporal resolution land surface temperature for urban heat island monitoring[J].IEEE Geoscience and Remote Sensing Letters,2O13,10(5): 1011-1015.   \n[4]Liu H, Weng Q. Enhancing temporal resolution of satelite imagery for public health studies: A case study of west Nile virus outbreak inLos Angeles in 2OO7[J].Remote Sensing of Environment,2012, 117: 57-71.   \n[5]Wu P,Shen H, Zhang L, et al. Integrated fusion of multi-scale polar-orbiting and geostationary satelite observations for the mapping of high spatial and temporal resolution land surface temperature [J]. Remote Sensing of Environment, 2015,156: 169-181.   \n[6]郑明亮,黄方,张鸽.基于TsHARP模型和 STITFM 算法的地表 温度影像融合研究[J].遥感技术与应用,2018,33(2):275-283. [Zheng Mingliang, Huang Fang, Zhang Ge.Land surface temperature data fusion of Landsat ETM and MODIS bycombining TsHARP and STITFM mode[J].Remote Sensing Technology and Application,2018,33(2): 275-283.]   \n[7]魏然,单杰.城市地表温度影像时空融合方法研究[J].武汉大学 学报·信息科学版,2018,43(3):428-435.[Wei Ran,Shan Jie. Spatial and temporal fusion of urban land surface temperature image mapping[J]. Geomatics and Information Science of Wuhan University,2018,43(3): 428-435.]   \n[8]Zhu X,Hekmer E H, Gao F,et al.A flexible spatiotemporal method for fusing satellite images with different resolutions[J].Remote Sensing of Environment, 2016,172: 165-177.   \n[9]李振杰,金莉莉,何清,等.乌鲁木齐市城区和郊区气温分布及 廓线特征[J].干旱区地理,2019,42(6):1273-1281.[Li Zhenjie, Jin Lili, He Qing,et al. Characteristics of temperature distribution and profiles in Urumqi City and its suburb[J].Arid Land Geography,2019,42(6): 1273-1281.]   \n[10]Qin Z,Karnaeli A,Berliner P.A mono-window algorithm for retrieving land surface temperature from Landsat TM data and its application to the Israel-Egypt borderregion[J].International Journal of Remote Sensing,2001,22(18): 3719-3746.   \n[11] Zhang Y,Balzter H, Liu B,et al.Analyzing the impacts of urbanization and seasonal variation on land surface temperature based on subpixel fractional covers using Landsat images[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing,2016,10(4): 1344-1356.   \n[12] 杨敏,杨贵军,陈晓宁,等.基于FSDAF 方法融合生成高时空分 辨率地表温度[J].国土资源遥感,2018,30(1):54-62.[Yang Min,Yang Guijun, Chen Xiaoning,et al.Generation of land surface temperature with high spatial and temporal resolution based on FSDAF method[J]. Remote Sensing for Land and Resources, 2018,30(1): 54-62.]   \n[13] Peng S,Piao S, Ciais P,et al. Surface urban heat island across 419 global big cities[J]. Environmental Science & Technology，2011, 46,696-703.   \n[14] Dallimer M,Tang Z, Bibby PR,et al.Temporal changes in greenspace in a highly urbanized region[J]. Biology Lettrs,2011,7(5): 763-766.   \n[15] Zhou D, Zhao S,Zhang L, et al. Remotely sensed assessment of urbanization effects on vegetation phenology in China's 32 major cities[J]. Remote Sensing of Environment,2016,176: 272-281.   \n[16]Cai Y T, Zhang M,Lin H. Estimating the urban fractional vegetation cover using an object-based mixture analysis method and Sentinel-2 MSI imagery[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing,2020,13: 341-350.   \n[17] Yang F, Matsushita B,Fukushima T.A pre-screened and normalized multiple endmember spectral mixture analysis for mapping impervious surface area in Lake Kasumigaura Basin, Japan[J]. ISPRS Journal of Photogrammetry and Remote Sensing,2010,65(5): 479-490.   \n[18]Wang J, Wu Z,Wu C,et al. Improving impervious surface estimation: An integrated method of classification and regression trees (CART) and linear spectral mixture analysis (LSMA) based on error analysis[J]. GIScience & Remote Sensing,2018,55(4): 583- 603.   \n[19]Mackey C W,Lee X, Smith R B.Remotely sensing the cooling effects of city scale efforts to reduce urban heat island[J]. Building and Environment, 2012,49: 348-358.   \n[20] Liang S.Narrowband to broadband conversions of land surface albedo I:Algorithms[J]. Remote Sensing of Environment, 2001,76 (2): 213-238.   \n[21]Knorn J, Rabe A,Radeloff V C,et al.Land cover mapping of large areas using chain classification of neighboring Landsat satellite images[J]. Remote Sensing of Environment,2009,113: 957-964. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Spatiotemporal variations of the summer daytime surface urban heat island of oasis city in arid area based on FSDAF model ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "WANG Shuang， WANG Chengwu, ZHANG Feiyun (School of Management,Xinjiang Agricultural University, Urumqi 83oo52,Xinjiang, China) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The urban heatisland effect and ecological and environmental problems ofan oasis city in an arid area resulting from the acceleration of the global urbanization process have become one of the current research hotspots worldwide.As a critical parameter in investigating the surface urban heat island (SUHI), the land surface temperature (LST)retrieved from thermal infrared images is,to some extent,inaccurate because there is no single sensor that can capture real-time LST at both high spatial and temporal resolutions.This paper used the flexible spatiotemporal data fusion method to generate high spatiotemporal resolution summer daytime LSTdata in 2001, 2011,and 2018. Spatiotemporal variations of the summer daytime SUHI over Urumqi,an oasis city in the arid areaof western China,were assessed based onseveralurban surface biophysical variables.The results show that the SUHI intensity (SUHII) in Urumqi during the study period was calculated using two indicators of $\\mathrm { S U H I I _ { 1 } }$ (the urban and smaller rural area difference in the average LST) and ${ \\mathrm { S U H I I } } _ { 2 }$ (the urban and larger rural area difference in the average LST). Significantly increasing trends of SUHI in the study area were observed. $\\mathrm { S U H I I _ { 1 } }$ increased from $1 . 2 4 ^ { \\circ } \\mathrm { C }$ in 2001 to $2 . 3 6 ^ { \\circ } \\mathrm { C }$ in 2011 and $2 . 8 3 ~ ^ { \\circ } \\mathrm { C }$ in 2018,whereas ${ \\mathrm { S U H I I } } _ { 2 }$ increased from $1 . 4 4 ^ { \\circ } \\mathrm { C }$ to $2 . 5 8 ^ { \\circ } \\mathrm { C }$ and $2 . 8 8 \\ ^ { \\circ } \\mathrm { C }$ in the same periods.The highest and lowest summer daytime LST values were observed over areas of bare soil and water,respectively.The distribution of the summer daytime LST correlated positively with the albedo，the impervious surface area,and it correlated negatively with the enhanced vegetation index and fractional vegetation cover. The results emphasize the role of bare soils in aggravating the SUHI in cities in arid areas.Finally，we find that in oasis cities in arid areas,such as Urumqi,although increasing the amount of vegetation covering the urban area may be an effctive way to mitigate the SUHI, more profuse vegetation coverage within a larger rural area will increase the SUHII during the summer daytime. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Key words: surface urban heat island; spatiotemporal fusion model; oasis city in arid area ",
+        "page_idx": 12
+    }
+]

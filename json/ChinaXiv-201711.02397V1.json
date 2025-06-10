@@ -1,0 +1,387 @@
+[
+    {
+        "type": "text",
+        "text": "传统中药黑白二丑离体培养 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陆明钰1a,沈慧瑾1a，赵姗姗²，杨俊² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1上海市松江一中，高一（10）班，上海市松江区松汇中路601号，201699  \n2上海辰山植物园，上海市辰花路3888号，201602  \na 共同第一作者  \n\\*通讯作者（yangjun@csnbgsh.cn）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为筛选更优良的实验用牵牛品种，本文研究了黑白二丑的发芽率和早期生长发育过程。在离体条件下和温室中培育观测了黑白二丑的种子萌发和早期苗长数据，结果发现在供试的A19、G12和G14三个品种中，以G12的发芽率为最高，A19 其次，G14 的发芽率最低；G12的早期生长势也略优于其他两个品种。通过本研究发现G12可以在实验室条件下快速完成世代更替，是后续研究世代间平均突变率的较好材料。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 牵牛，早期生长，世代更替",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In vitro cultivation of Chinese traditional medicine Ipomoea nil ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mingyu Lula, Huijin Shen1a, Shanshan Zhao², Jun Yang² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Shanghai Songjiang No.1 High School,601 Songhui Middle Road,201699 2 Shanghai Chenshan Botanical Garden, 3888 Chenhua Road, 201602 a Mingyu Lu and HuijinShen contributed equally to this work. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$^ { \\star } \\mathsf { e }$ -mail: yangjun@csnbgsh.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract To select a better cultivar of morning glory for scientific studies,we investigated the germination rate of three cultivars and monitored the early growth of three cultivars of this plant. The germination process of cultivars A19,G12 and G14 has been observed in time course.The early growth of these cultivars was also analyzed via measurements of the length between the root tip and the shoot tip.The highest germination rate has been found in G12,the lowest in G14. Moreover, the early vigorous growth phenomenon seems more obvious in G12 rather than the other two cultivars.The results suggest that cultivar G12 has a rapid seed-to-seed cycle that should be a superior material to study the average mutation rate along the generations. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords morning glory, early growth, seed-to-seed cycle ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "牵牛（Ipomoeanil）为旋花科番薯属中的一种植物，多在春天发芽，夏秋开花，其栽培品种多达1500 种以上，花的颜色有蓝、绯红、桃红、紫等，亦有混色的，花瓣边缘的变化较多，是常见的观赏植物，花期以夏季最盛。其种子具有药用价值[。牵牛子作为传统中药始载于《名医别录》，又名黑丑、白丑，统称二丑、牵牛子。研究表明，牵牛子中含有的化学成分为苷类，糖类和生物碱类，未成熟的种子中还含有赤霉素，蛋白质，色素，脂肪等[2]。其中牵牛子素的化学性质与泻根苷（Jalapin $\\mathsf { C } _ { 3 4 } \\mathsf { H } _ { 5 6 } \\mathsf { O } _ { 1 6 }$ ）相似，牵牛子脂在哺乳动物肠道内遇到胆汁及肠液分解出牵牛子素[3]，刺激肠道，促进肠蠕动导致泻下,可引起呕吐、腹痛、腹泻等症状[4]。另有学者研究表明牵牛子能加速菊糖(Inulin)在肾脏中的排出，可能有利尿作用，牵牛子还有一定的驱虫功效[5]。在临床应用上牵牛子可用于治疗便秘[]，水肿[7]，单纯性肥胖[8]，精神病[9]，癫痫[10]，小儿肺炎[11]，小儿高热[12]等诸多病症。而关于牵牛子生长发育的研究仅有少量报道[13]，因此本研究通过对三种牵牛子（A19、G12和G14）的种子萌发和早期生长过程的观察，发现其中G12的发芽率为最高，A19 其次，G14 的发芽率最低；G12的早期生长势也略优于其他两个品种。试验说明G12可以在实验室条件下快速完成世代更替，是后续研究世代间平均突变率的较好材料。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1．材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1植物材料与前期准备",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "三种不同的番薯属的牵牛花种子，收获自上海辰山植物园园内试验地，标号为A19、G12和G14，其中G12为白丑，其他为黑丑。A19 和G12各取100 粒种子，G14 取200 粒种子作为实验材料。将A19、G12和G14各100 粒放置于 $5 0 ~ \\mathsf { m l }$ 离心管中，加入 $5 \\mathsf { m l }$ 去离子水浸泡30至60分钟。另取100 粒G14于 $5 0 ~ \\mathsf { m l }$ 离心管中，加入5mI浓硫酸。待浓硫酸腐蚀掉种子表层的致密结构后，表现为原本透明的浓硫酸液体变黑，用移液器将已经变黑的浓硫酸移除至废液罐中，再一次性加入 $4 0 ~ \\mathsf { m l }$ 去离子水洗去种子表面残留废酸。准备4个 $1 0 \\mathsf { c m } \\mathsf { x } 1 0 \\mathsf { c m }$ 方形平皿，底皿垫上吸水纸，分别标注A19、G12、G14和 $\\mathsf { G } 1 4 \\mathsf { - H } _ { 2 } \\mathsf { S } 0 _ { 4 }$ ，将浸泡洗净的四组种子各80粒依次分别放入平皿中，9X9摆放整齐。各组剩余的20粒，在超净台内先用 $8 \\%$ 的消毒水浸泡5分钟，随后用 $7 5 \\%$ 的酒精和 $2 \\%$ 的NaCIO清洗消毒三遍，无菌水洗净后放入预先准备的60mm 培养皿内，每皿1粒种子，皿内培养基为 $3 \\%$ 的Gelrite固体培养基（每升自来水加入3克Gelrite高温灭菌后分装至培养皿内，Gelrite产品编号G1910I CAS 号 71010-52-1|SIGMA）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2黑白丑生长发育的观察及时期的划分",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对方形平血内黑白丑的生长发育的过程进行定期观察，一般为每日早9点至10点之间计数测量。记录下种子的发芽情况，用5mmX5mm 的方格纸估测根茎长度，并用相机拍下每天的生长情况。当平皿中的种子子叶张开而脱离种皮时，将其转移到人工气候室的花盆中栽培，并每天观察其生长情况。无菌培养基中的种子则需要在露白之后转移入培养瓶中，等其叶片茂密时，进行继代培养，全程需要在超净台内无菌操作，培养基为标准含糖MS 培养基[14]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3平血中苗的每天生长长度的推算与比较 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据每天在方格纸上对种子苗长的测量记录，可以推算出每组种子在一天内的生长情况，并比较每组种子的苗长平均值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4花盆中子叶与真叶的形状观察及差异区分",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分别对人工气候室各花盆中的子叶与真叶进行观察拍照，描述品种间叶片的形状大小的区别。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5A19、G12、G14的花卉形状观察及差异区分",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从试验地和温室花盆中分别采摘之前种植已开花的A19、G12、G14的花朵，观察描述各个品种间花朵颜色、大小、花苞数量等等的不同。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.6蒴果的外形差异和种子平均质量",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "观察对比不同品种蒴果的外形差异，并与之前收获的干燥材料进行对比，评价蒴果性状稳定性。将干燥的A19、G12和G14蒴果破碎，各取100 粒种子，每十粒称一次重量，然后将这十次的重量取平均值进行对比。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2．结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1黑白二丑种子的观察与比较 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图1可以看出A19、G12、G14的种子质量差别较为明显。其中G12质量最大，是A19 的平均质量的约1.64倍，G14质量最轻，A19的平均质量约为G14的1.40倍。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f303cbad7d544d8ba04598f2d87798d6ceeeffedd76f8639564598ecda73147.jpg",
+        "img_caption": [
+            "图1、种子（10个）平均质量",
+            "图2、供试材料：A19（a，蒴果；d，种子）、G12（b，蒴果；e，种子）和G14（c,蒴果；f，种子)"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过肉眼及显微镜下的对比，发现了不同品种牵牛的种子，果荚，叶片和花序都存在明显的区别。A19 和G14种子呈黑褐色，G12种子呈黄白色，镜检发现 A19的种子覆盖着十分明显的表皮毛，而G12和G14 都种子表面都相对较光滑，A19 蒴果外被大量表皮毛，另外两个品种蒴果的表皮毛则不明显（图2)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ve b 咖 # e f 发 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3黑白丑生长发育的观察与时期的划分",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过每天的苗长记录和数据分析可以得出A19、G12和G14在露白后每一天的平均苗长（图3)。可以发现，A19 在露白后的第一天到第四天内苗长呈直线上升趋势，第四天时平均苗长达到 $8 . 5 c m$ 。G12在第二到三天生长速度最快，在第四天上升速度趋缓，但平均苗长已达 $1 0 \\ c m$ 以上。G14未经浓硫酸处理的种子在两周的观察期内均未发芽露白，而 $\\mathsf { G } 1 4 \\mathsf { - } \\mathsf { H } _ { 2 } \\mathsf { S } 0 _ { 4 }$ （浓硫酸处理）在第二到三天生长速度最快，在第四天速度趋缓，平均苗长在 $7 . 5 c m$ 左右。分析发现，三个品种的早期生长都可细分为四个时期，在第一个时期，种子刚刚露白，生长速度较平缓，在第二个时期也就是下胚轴发育的时期，种子生长速度最快，这也符合种子发芽后需要尽快破土的生理特征。第三个时期种子子叶开始伸展，生长速度趋缓。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/844a4bfbd01d4cfa9262c17dfda345772cc3b9453d6cb88e521ddfaddc1760c3.jpg",
+        "img_caption": [
+            "图3、露白发芽后苗长统计数据"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4花盆中A19、G12、G14的子叶与真叶的形状观察及差异区分",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "经过观察可以发现A19、G12、G14子叶的形状是类似的（图4)。A19 同时期茎的颜色更深，G12同时茎的颜色为嫩绿色， $\\mathsf { G 1 4 - H } _ { 2 } \\mathsf { S O } _ { 4 }$ 子叶刚展开时叶片和茎颜色较深。A19 的真叶表皮毛较G12和G14更为明显，这与之前在A19 种子和蒴果表面观察到的多表皮毛现象较为一致。此外，A19 真叶与子叶都较圆润，G12的叶片较大， $\\mathsf { G } 1 4 \\mathrm { - } \\mathsf { H } _ { 2 } \\mathsf { S } 0 _ { 4 }$ 的子叶较细长。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "江#一杯 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5三个品种A19、G12、G14花卉的差异",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A19 在试验地开出的花朵清晨呈蓝色，响午却成蓝紫相间，下午开始有偏紫色的趋势。花芽位于叶腋处，单个叶腋处可见多个花苞，附有明显表皮毛。G12花朵较大，纯白色，单个叶腋处通常只见一朵花。人工温室中培养的G14花型较小，白色，单个叶腋处只见一个花苞，叶片较光滑。试验地生长的G14叶片比温室内的G14叶片颜色更深，有大量花青素的积累，试验地生长的G14未在花期（图5)。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac93581934167bf6129613e8c7eb5f018062d012c6f179f4669106b63daaa8ee.jpg",
+        "img_caption": [
+            "图5、三种供试牵牛花序与成熟叶片的比较（a，A19；b，G12；c，试验地G14；d,"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.6A19、G12、G14蒴果的差异",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从图6可以看出A19、G12、G14 的蒴果平均质量。其中G12蒴果平均质量最大，约是A19的1.43倍，G14蒴果质量最轻，A19 的平均质量为G14的1.28倍，各蒴果一般含种子4至6粒。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对比图1结果，G12种子平均质量A19的约1.64倍，A19 种子平均质量约为G14 的1.40倍，二者具有较高的一致性。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0ff88991b4ca48fc76a7ba6890d924b97972e135be2aee344f7498ee75a6a2d.jpg",
+        "img_caption": [
+            "图6、蒴果（10个）平均质量"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.7蒴果的长期存储方式",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "利用 $1 . 5 \\ : \\mathsf { m l }$ 离心管代表蒴果，试验用棉绳代表藤蔓，用结绳法可以简单方便地记录果所收获牵牛全株的株型结构、蒴果的位置以及种子的数量。在装有种子的离心管中填入变色硅胶，置于低湿柜中可以长期存储，定期检查硅胶颜色以防种子受潮。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.8发芽率",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "置于方形平血的4份种子均有80颗，观察两周后发现：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A19 种子80颗，两周内一共发芽20颗，发芽率为 $2 5 \\%$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "G12 种子80颗，其中7颗为已发芽种子，需要扣除，剩余73 粒种子两周内一共发芽27颗，发芽率约为 $3 7 \\%$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\mathsf { G } 1 4 \\mathsf { - H } _ { 2 } \\mathsf { S } 0 _ { 4 }$ 种子80 颗，一共发芽13颗，发芽率为 $1 6 . 2 5 \\%$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "G14种子80颗，两周内未见发芽。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "此外，灭菌的20 粒A19 第二天即露白，G12第三天露白， $\\mathsf { G } 1 4 \\mathsf { - } \\mathsf { H } _ { 2 } \\mathsf { S } 0 _ { 4 }$ 第四天露白，G14两周内未见露白发芽。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "经过两周的观察记录，G12的发芽率为最高，A19其次，G14的发芽率最低；G12的早期生长势也略优于其他两个品种，比较适合用于后续的相关实验。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.总结与讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1种子预处理",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在显微镜下分别观察A19、G12、G14的种子，可以发现A19 的种子上附有表皮毛，这与其蒴果以及叶片表面的特征是一致的，由此可以说明表皮毛在A19 上是一个广泛分布的全株性状。G12种子表面可以观察到凹凸不平状，但无表皮毛。G14 种子表面光滑，有一层致密成分，可能不易吸水膨大发芽。浓硫酸的腐蚀作用可以较好地破坏该表层结构，达到催芽的目的，该点可由试验中观察到的发芽率从0提升到 $1 6 . 2 5 \\%$ 得到证明。至于浓硫酸处理的最优时间是后续可以进一步研究和明确的问题。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "无论是方形平皿保湿状态下，还是消毒灭菌后转移到培养基上，A19 种子总在第二天即露白发芽，G12种子总在第三天发芽， $\\mathsf { G 1 4 - H } _ { 2 } \\mathsf { S O } _ { 4 }$ 随后，而G14在两周的观察中始终未露白发芽。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2G14试验地与人工温室叶片不同的讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参看图5，可发现试验地中G14叶片普遍比人工气候室内的缺刻更深，叶片颜色也更深，可能的原因是叶片在试验地中受到高光、高温等非生物胁迫影响，叶片中积累粒较多的花青素。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3后续问题",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "试验地中A19的花朵清晨呈蓝色，响午却成蓝紫相间，下午开始有偏紫色的趋势。依据花青素颜色随酸碱度改变的特性，我们推测变色牵牛的内在原因是细胞内酸碱度随光照和吸收二氧化碳的多少而变化，但需要在后续研究中进一步阐明。此外我们还发现盆栽 G14 叶片在早上八点偏上指向上和晚上八点偏下指向下的现象；四盆G14都是按右手螺旋法则向上缠绕的特点。这些现象背后的生物学机制都需要在后续研究中进一步深入探索。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]https://baike.baidu.com/item/%E7%89%B5%E7%89%9B/79184?fr=aladdin&fromid=995& fromtitle=%E7%89%B5%E7%89%9B%E8%8A%B1 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[2] 黄泰康.常用中药成分与药理手册．北京：中国医药科技出版社,1994.1400  \n[3] 孙方成.牵牛子及其所致副作用.中医杂志,1964,(5)：29  \n[4] 敖冬梅，魏群，牵牛子的研究进展,中国中医药信息杂志,2003,10:77-78  \n[5] 张颂,陈昭文,强美玉,等.牵牛子的研究.南京药学院学报,1959,(4)：36  \n[6] 燕玉芹.牵牛子粉治疗顽固性便秘 25 例.四川中医,2002,20(2)：33  \n[7] 福安地区医院.福安地区医学科学研究所.二丑黄豆汤治疗腹水22 例.福建中医  \n药,1962,7(2): 44  \n[8] 方小强.牵牛子粉治疗单纯性肥胖症64 例临床观察.湖南中医杂志,1996,12(6)：4  \n[9]北京市安定医院总院科研小组.应用牵牛子合剂与盐酸氯丙嗪综合治疗精神病 150  \n例疗效分析.中医杂志,1959,第9号  \n[10] 中国医学科学院首都医院神经科癫痫小组.黑白二丑丸治疗癫痫的临床观察.中华内  \n科杂志,1977,(6):323  \n[11]李淑婵.一捻金治疗小儿肺炎.四川中医,1988,(9)：12  \n[12]陈先泽.双解降热散治小儿高热急症100 例临床观察.新中医,1988,(3)：29  \n[13]蒋雪,陈洪,胡庭兴,汤长潇,王茜,胡红玲,谢权.香樟凋落叶分解对牵牛花生长发育的影  \n响及施氮的缓解效应．应用与环境生物学报,2015.10.25.Jiang X,Chen H,Hu TX,Tang  \nCX,Wang X,Hu HL,Xie Q. Effects of decomposition of Cinnamomumcamphora leaf litter on the  \ngrowth oflpomoea nil and the mitigation effect of nitrogen application, Chin J Appl Environ  \nBiol,2015.10.25  \n[14] Murashige,T; Skoog, F (1962). A Revised Medium for Rapid Growth and Bio Assayswith",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Tobacco TissueCultures. PhysiologiaPlantarum. 15 (3): 473-497. doi:10.1111/j.1399-3054.1962.tb08052.x ",
+        "page_idx": 9
+    }
+]

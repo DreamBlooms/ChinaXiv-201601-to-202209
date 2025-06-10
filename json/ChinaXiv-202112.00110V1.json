@@ -1,0 +1,381 @@
+[
+    {
+        "type": "text",
+        "text": "基于GEV分布的西营河流域洪水特性分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈庭兴²，吕海深}²，朱永华1.2（1.河海大学水文水资源与水利工程科学国家重点实验室,江苏 南京210098;2.河海大学水文水资源学院,江苏 南京 210098)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：根据西营河九条岭水文站1972—2019年逐年洪水水文要素摘录表,采用年最大值抽样法得到年最大日流量、春、夏季最大日流量共3个样本序列,用M-K检验法分析其变化趋势,并采用GEV分布对3组序列进行拟合分析,使用K-S法与PPCC检验法评价理论分布与实测序列的拟合精度。结果表明：GEV分布能够很好的拟合九条岭水文站的最大日流量序列。根据理论重现期分析,流域内春季发生洪水的次数在减少,夏季发生洪水的次数自1980s以来呈先减少后增加的趋势。山区径流受气候变化影响显著,增温变枯现象普遍。春季高频次的发生温度骤升现象,使得春季洪水发生时间提前,雪冰融水补给比例减少导致西营河流域春季发生洪水次数减少,夏季汛期降水量很大程度决定着流域内洪水大小,流域内年降水总量变化趋势与发生洪水事件的次数的年际变化趋势一致，均呈先升后降再升的波动趋势。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：GEV分布；洪水频率；温度骤升；气候变化；西营河流域；西北地区",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "联合国政府间气候变化专门委员会(IPCC）第五次评估报告指出，全球气温上升是必然趋势。且由于人类活动的影响愈发明显，全球水循环速率加快，部分地区发生极端降水与极端干旱事件的频次急剧增加[2]。针对气候变化对水文要素影响的研究也受到广大学者的密切关注，根据已有研究表明，气候变化引起的极端降水和极端增温使得洪水事件多发，给人们的生产生活以及经济发展带来了极大的危害。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "国内外学者对气候变化下洪水成因及其变化规律的研究颇多，从分析方法来看可分为两大类[3]，一是结合水文统计模型对水文序列进行频率计算，通过控制降水和温度等参数分析洪水频率的变化，如Beldring等4将气候模型与HBV模型耦合，分析气候变化对挪威水文过程的影响；二是通过历史洪水资料重构水文序列，使用数理统计的方法计算洪水频率：如杜鸿等5运用GEV和GPD分布对淮河流域极端径流事件进行统计模拟并分析其时空变化规律，El-Jabi等利用GEV分布，Meyers等7用小波和交叉小波分析法分别研究了加拿大不同区域气候变化下洪水频率特征与洪水预报。基于水文模型和气候模型耦合的频率计算方法，将降水和气温等影响因素作为控制变量，且充分考虑植被、土壤等变化因素，可以精确的拟合气候变化对洪水的影响，延长洪水预报期，但多存在时空尺度反馈受到限制的问题。基于历史洪水资料重构序列，对样本序列进行分布函数加权拟合，得到与序列高度相关的条件概率分布函数，则可根据已有资料实现对洪水序列过去、现在和未来进行分析和预报8，但此类方法没有考虑环境变化对水文序列的直接影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于西营河流域的特性，本文对西营河九条岭水文站洪水水文要素采用混合分布函数进行拟合分析，以辨析气候变化下研究区径流的变化趋势，并从降水和气温两方面分析洪水发生变化的原因，为干旱区水资源的合理调配和应对气候变化提供理论依据，同时根据洪水频率的统计计算，为防洪工程提供参考依据，对该地区防灾减灾、保障民生发展具有重要的意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "西营河发源于祁连山的冷龙岭(图1)，是甘肃省境内石羊河流域的第一大支流，位于石羊河另外两条支流东大河与杂木河之间。其上游由宁昌河与水管河两条支流汇成，下游有响水河与塔河两条小支流汇入。西营河流域介于 $1 0 1 ^ { \\circ } 4 1 ^ { \\prime } { \\sim } 1 0 2 ^ { \\circ } 2 3 ^ { \\prime } \\mathrm { E }$ $3 7 ^ { \\circ } 3 0 ^ { \\prime } { \\sim } 3 8 ^ { \\circ } 0 0 ^ { \\prime } \\mathrm { N }$ 之间，流域面积约为 $1 7 2 7 . 5 \\ \\mathrm { k m } ^ { 2 }$ ，海拔 $1 8 8 0 { \\sim } 4 8 5 4 \\ \\mathrm { m }$ ,地处祁连山高寒半干旱地区，以温带大陆性气候为主。西营河山区流域海拔较高，所受太阳辐射强烈，日照时间充足，但昼夜温差较大。上游山区多年平均降水量为 $5 4 2 . 9 4 ~ \\mathrm { m m }$ ,年潜在蒸发量在 $7 0 0 { \\sim } 1 2 0 0 ~ \\mathrm { m m }$ 之间。上游山区有冰川分布，年平均气温为 $- 0 . 3 8 3 \\mathrm { ~ } \\mathrm { \\textdegree C }$ 。径流来源以山区降水补给为主，且径流主要集中在夏季，多年平均径流量为 $3 . 8 8 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ 。流域降水量较少，蒸发强烈,西营河流域内年径流量分配不均，受雪冰融水和山区降水的影响，主要形成以融雪径流为主的春汛和以降水径流为主的夏汛。甘肃西营河九条岭水文站建于1972年，属国家基本水文站，测验断面位于甘肃省肃南裕固族自治县铧尖乡九条岭煤矿，系西营河出山口控制断面，站点有西营河流域1972年至今的实测水文资料。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2数据来源与分析方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文根据西营河九条岭水文站1972—2019年逐年洪水水文要素摘录表，分别得到九条岭水文站年最大日流量、春季最大日流量、夏季最大日流量共3个样本序列。根据九条岭水文站的径流差积曲线可得，1972—2019年至少包含了1个丰水期、1个枯水期和1个平水期，九条岭水文站的资料序列满足一致性、可靠性和代表性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用来自中国气象数据网的中国地面降水日值 $0 . 5 ^ { \\circ } \\times 0 . 5 ^ { \\circ }$ 格点数据集(V2.0）、中国地面气温日值$0 . 5 ^ { \\circ } { \\times } 0 . 5 ^ { \\circ }$ 格点数据集（V2.0）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2分析方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.1洪水序列变化趋势分别计算年最大日流量、春、夏季最大日流量序列的基本矩，即均值、标准差、离散系数和峰度系数，采用线性趋势法分析3个样本序列的趋势变化，用Mann-Kendall法进行序列的趋势检验[9],并对西营河流域48a的3组最大日流量序列在 $9 5 \\%$ 置信水平上进行变化趋势的显著性检验，判断样本序列的变化趋势是否显著。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3569574f8d83bf1c71b3c8d42daee7383b7c5601679fd5bc3faa437ab23cded5.jpg",
+        "img_caption": [
+            "图1西营河流域概况",
+            "Fig.1The study of Xiying Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.2广义极值模型及其参数估计极值分布是指观测值中极大值或极小值的概率分布[\"，Jenkin-son[]和Coles[12]根据极值分布理论,将3种极值分布合并为一种分布，即广义极值分布(Generalizedex-tremevaluedistribution，GEV）。广义极值分布的分布函数为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG ( x , \\mu , \\sigma , \\xi ) = \\exp \\left\\{ - \\left[ 1 + \\xi { \\left( \\frac { x - \\mu } { \\sigma } \\right) } \\right] ^ { - \\frac { 1 } { \\xi } } \\right\\} , \\left[ 1 + \\xi { \\left( \\frac { x - \\mu } { \\sigma } \\right) } \\right] > 0\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mu$ 为位置参数； $\\sigma$ 为尺度参数； $\\xi$ 为形状参数，当 $\\xi < 0$ 时,符合Weibull分布,当 $\\xi = 0$ 时,符合Gumbel分布,当 $\\xi > 0$ 时,符合Frechet分布。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文采用极大似然估计法对GEV进行参数估计，广义极值分布的似然函数为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL ( \\mu , \\sigma , \\xi ) = - n \\ln \\sigma -\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { i = 1 } ^ { n } \\left[ 1 + \\xi { \\left( \\frac { x _ { i } - \\mu } { \\sigma } \\right) } \\right] ^ { - { \\frac { 1 } { \\xi } } } - \\left( 1 + { \\frac { 1 } { \\xi } } \\right) \\sum _ { i = 1 } ^ { n } \\ln \\left[ 1 + \\xi { \\left( \\frac { x _ { i } - \\mu } { \\sigma } \\right) } \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "得到广义极值分布的3个参数后，采用K-S检验法进行分布的拟合优度检验，并采用PPCC检验对经验分布线型与理论分布线型的相似程度进行评价。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.3计算理论重现期在洪水过程分析等实际问题中，计算 $T$ 年一遇的洪水 $X _ { _ p }$ 十分必要，计算公式为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { _ { p } } = \\mu - { \\frac { \\sigma } { \\xi } } { \\Bigg \\{ } 1 - { \\Bigg [ } { - } \\mathrm { l n } { \\Bigg ( } 1 - { \\frac { 1 } { T } } { \\Bigg ) } { \\Bigg ] } { \\Bigg \\} }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将极大似然估计参数代入公式中，即可求得理论重现期T对应下的不同量级的洪水极值 $X _ { _ p }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1洪水序列的变化趋势特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图2可以看出，西营河流域1972—2019年的年最大日流量、春、夏季洪水最大日流量均呈下降趋势，夏季洪水流量总体比春季洪水流量大，说明流域内夏季降雨洪水占流域洪水的主要地位，且受气候变暖的影响，春季洪水发生时间有提前趋势。48a来年最大日流量序列，春、夏季最大日流量序列$C V$ 值分别为 $0 . 2 9 6 , 0 . 4 2 3 , 0 . 3 3 4$ ，表明年序列的波动较小，春季洪水序列波动较大，春季洪水序列受气温等因素影响较大。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对3组洪水系列进行M-K趋势检验，发现这些流量序列的Z值均小于 $9 5 \\%$ 显著性水平下的临界值，即 ${ | Z | } { < } 1 . 9 6$ ,未通过 $9 5 \\%$ 的显著性检验，说明它们不存在显著性变化趋势，且认为3组最大日流量序列均基本服从平稳性假定，可直接对其进行后续的洪水特征分析[13]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2广义极值分布对洪水序列的拟合分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用广义极值分布对3组流量序列进行拟合，采用极大似然法估计3个参数，并用K-S法检验GEV对3组流量序列的拟合优度。结果表明，年最大日流量序列和春季最大日流量序列服从Weibull分布，夏季最大日流量序列服从Frechet分布。九条岭水文站年最大日流量，春、夏季最大日流量序列拟合参数与检验值见表1。3组流量序列在GEV分布下的K-S检验值均小于 $9 5 \\%$ 显著性水平的临界值0.196,说明拟合效果较优;经PPCC检验计算出的相关系数均在0.95以上，说明西营河九条岭水文站所取得最大日流量序列与广义极值分布高度相关，GEV分布理论值对分析西营河流域的洪水特征有很好的可靠性和代表性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3计算理论重现期",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将3组流量序列对应的GEV分布拟合参数代入公式中，计算得到西营河流域的洪水的理论重现期。综合考虑西营河洪水流量的特性，本文分别计算了洪水的理论重现期为5a一遇和10a一遇洪水的年、春季、夏季最大日流量，并得到在不同年代中发生洪水事件的次数(表2)。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2010e9922628c0c706c08e2045dd28dcc031c2ff65bec67be7e7e68782481acc.jpg",
+        "img_caption": [
+            "图2西营河流域年最大日流量(a) 春夏季最大日流量(b)和春季洪水出现时间(c) Fig.2 Annual maximum daily discharge,spring and summer maximum daily discharge and spring flood occurrence time in Xiying River Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/6781e28e76362a4de99ea2ce03a495bf828e63e7e8f2c1f305df3f480443f612.jpg",
+        "table_caption": [
+            "Tab.1Fiting parametersand test valuesofannual,springandsummerdailydischargeofJiutiaoling hydrologicalstatic "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>形状参数</td><td>尺度参数σ</td><td>位置参数u</td><td>拟合分布</td><td>K-S</td><td>PPCC</td></tr><tr><td>年最大日流量</td><td>-0.104</td><td>32.945</td><td>111.835</td><td>Weibull</td><td>0.083</td><td>0.983</td></tr><tr><td>春季最大日流量</td><td>-0.205</td><td>34.479</td><td>67.001</td><td>Weibull</td><td>0.046</td><td>0.984</td></tr><tr><td>夏季最大日流量</td><td>0.008</td><td>31.898</td><td>101.135</td><td>Frechet</td><td>0.071</td><td>0.971</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据计算结果可知，在1972—2019年间，西营河流域5a一遇和10a一遇的洪水基本发生在20世纪80年代，且多发生春季洪水，90年代发生洪水次数最少。1972—2019年48a中发生洪水事件的次数经历先增后减再增的过程，春季发生洪水的次数明显减少，夏季发生洪水的次数呈先减后增的趋势。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4洪水序列对气候变化的响应",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1洪水序列对气温变化的响应",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "西营河流域年平均气温在1972—2019年持续上升，且在1998年首次高于 $0 \\%$ ，是近 $4 2 \\mathrm { ~ a ~ }$ 内的最大值(图3b)。各季平均气温均呈上升趋势，其中冬季增温趋势最大，上升速率达 $0 . 4 3 ~ \\mathrm { { ^ circ C } \\cdot ( 1 0 a ) ^ { - 1 } }$ ,为全国平均增温速度 $0 . 0 4 4 ~ \\mathrm { { ^ circ C } \\cdot ( 1 0 a ) ^ { - 1 } }$ 的近10倍[14]。西营河流域气温的变化趋势与我国西北地区冬季升温显著的趋势基本一致，且与全球气温变化的趋势也存在一定的联系。本文还分析了西营河流域内年最大日升温与年最大3d升温发生的时间(图3a)。结合本研究区内气温上升的幅度，区域内温度骤升定义为日平均气温在 $2 4 \\mathrm { h }$ 或连续 $7 2 \\mathrm { { h } }$ 内上升在 $6 \\%$ 以上的天气。西营河流域在1972—2019年中，有37a在春季发生了温度骤升现象，有 $4 0 \\mathrm { ~ a ~ }$ 在春季发生最大3d温度骤升现象，升温幅度最大的一年发生在2012年， $2 4 \\mathrm { h }$ 内温度骤升 $1 5 . 7 \\mathrm { { ^ { \\circ } C } }$ 。春季洪水序列与温度骤升呈显著正相关，说明春季多发生融雪性洪水，这也是春季洪水发生时间有提前趋势的原因。且1980s温度骤升时间均在春季，发生时间与该年代内最大洪水出现的时间相近，这与1980s多发生春季洪水事件相符。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "又随着气温的升高，流域内的蒸发强度增大，水分损失严重，降水量呈微弱增加趋势，但不足以弥补气温升高所导致的水分损耗增加，更加不利于径流量的增加，增温变枯现象普遍，所以西营河流域的径流量均呈持续减少状态，又因为冬季的大幅升温使得冬季更难形成积雪，这与石羊河流域上游祁连山区冬季积雪减少，雪线上升和许多小冰川消失的事实相对应[14]。故春季的积雪融水对春季的径流补给比例在减少，这也解释了春季发生融雪洪水的次数在减少的现象。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2洪水序列对降水变化的响应",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "西营河流域内的洪水多以夏季暴雨洪水为主，全球气候变暖使得大气中水汽含量增加，流域内发生暴雨事件也在增多。1972—2019年西营河流域年降水总量总体呈微弱增加趋势，但从年代际来看，降水量变化呈先升后降再升的波动趋势，与发生洪水事件的次数的年际变化趋势一致，如图4a所示。但是其变化倾向率为 $1 4 . 6 ~ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 } ( P \\mathrm { = }$ $0 . 0 6 7 4 > 0 . 0 5$ ),未通过任何显著性水平的检验，增加趋势不明显，特别是对径流形成贡献最大的夏季降水（ $\\scriptstyle P = 0 . 5 9 5 4 ,$ 增幅不明显。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0ceee860a346d4f39250c37d83223d33f77f39b5f8f71c02492d0d02ac95767e.jpg",
+        "table_caption": [
+            "表1九条岭水文站年最大日流量和春、夏季日流量拟合参数与检验值",
+            "表2不同重现期下不同年代发生洪水事件的次数",
+            "Tab.2The number of flood events in different years under different return periods "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">重现期</td><td rowspan=\"2\">序列</td><td rowspan=\"2\">流量 /(m²·s-1)</td><td colspan=\"6\">发生次数/次</td></tr><tr><td>1972—1979年</td><td></td><td>1980—1989年</td><td>1990—1999年</td><td>2000—2009年</td><td>2010—2019年</td></tr><tr><td>5a一遇</td><td>年</td><td>157.59</td><td>2</td><td></td><td></td><td></td><td>2</td><td>2</td></tr><tr><td></td><td>春季</td><td>111.53</td><td>0</td><td></td><td></td><td></td><td>2</td><td>0</td></tr><tr><td></td><td>夏季</td><td>149.26</td><td>3</td><td></td><td></td><td>0</td><td>2</td><td>2</td></tr><tr><td>10a一遇</td><td>年</td><td>177.94</td><td>2</td><td></td><td></td><td>1</td><td>1</td><td>2</td></tr><tr><td></td><td>春季</td><td>129.16</td><td>0</td><td></td><td></td><td>0</td><td>1</td><td>0</td></tr><tr><td></td><td>夏季</td><td>173.54</td><td>2</td><td></td><td></td><td></td><td></td><td>2</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4d90767efe064c149109ca8c1377f341124e09394c8973a5f5166c40a060343e.jpg",
+        "img_caption": [
+            "图3温度骤升发生时间与年平均气温及变化趋势"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "夏季降水历时短，强度大，因此本文分析了西营河流域夏季最大日降水量和最大3d降水量与出现的时间，结果表明，洪水发生的时间与夏季最大日降水或最大3d降水出现的时间高度相关，但夏季最大日降水量（ $P { = } 0 . 0 6 2 3 \\$ 也呈不明显增加趋势（图4b），且在1981年出现日降水量最大值达55$\\mathbf { m } \\mathbf { m }$ ,此后的最大日降水量均在波动中下降，这与年最大径流呈递减趋势相符合，与夏季洪水发生次数先减少后增加的变化情况也相符合。而冬季降水量相对其他季节来说极小，年平均降水总量仅8.80$\\mathbf { m } \\mathbf { m }$ ,夏季年平均降水总量达 $3 1 9 . 5 5 ~ \\mathrm { m m }$ ,冬季降水少使得流域内积雪覆盖得不到满足，这也是径流量减少的主要原因之一；且径流量与最大日降水量两者之间存在较好的一致性 $\\stackrel { \\prime } { } _ { r = 0 . 4 6 3 > r _ { 0 . 0 5 } } = 0 . 2 7 9$ ，通过了 $9 5 \\%$ 显著性水平检验，说明夏季汛期降水量很大程度决定着流域内洪水大小。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c03aa637e5d3aab1eeffbc1d4b2dcb14031ab4dd8a31c89ab924d85eb65557b.jpg",
+        "img_caption": [
+            "Fig.3Time of temperature soared and annual mean temperature and trend ",
+            "图4降水量年代变化与夏季最大日降水及其变化趋势 Fig.4 Decadal variation of precipitation and maximum daily precipitation in summer and its variation trend "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过对西营河流域最大日流量序列及气候变化下流域内洪水特征发生改变的原因的拟合分析，对于西营河流域的洪水特性分析得出如下结论：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）西营河流域自1972—2019年来，年最大日流量，春、夏季最大日流量序列均呈持续下降趋势，且与GEV分布高度相关，其中年、春季最大日流量序列服从Weibull分布，夏季最大日流量序列服从Frechet分布。48a来，流域内春季发生洪水的次数显著减少，夏季发生洪水的次数呈先减后增的趋势。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）西营河流域山区径流受气候变化影响显著，且降水量对流域内的洪水起着关键性作用。流域内气温显著上升，蒸发强度增大，由于降水量的增加不能弥补增温所导致的水分损耗,故增温变枯现象普遍。春季高频次的发生温度骤升现象使得春季融雪洪水发生时间提前，冬季的显著增温和降水量少使得冰雪融水补给比例与春季发生洪水的次数均减少。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）随着气温的持续升高，未来一段时间内，山区降水会有所增加，夏季发生洪水的次数也会相应增加，但降水的增加无法满足径流量和山区积雪覆盖的补给，流域储水量仍在减少，径流量还将呈现缓慢减少的趋势。山区暴雨洪水来势凶猛，且易引发泥石流等自然灾害，春季还将有冰川和积雪消融，因此流域内要加强夏季防洪防汛管理，预防春季融雪洪水的提前爆发，合理调度水库调蓄，确保下游防洪安全。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References):",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] IPCC.Climate changge 2O13:The Physical Science Basis[M]. Cambridge,United Kingdom and New York,NY,USA: Cambridge University Press,2013.   \n[2] 戴升,保广裕,祁贵明,等.气候变暖背景下极端气候对青海祁 连山水文水资源的影响[J].冰川冻土，2019,41(5):1053-1066. [Dai Sheng,Bao Guangyu,Qi Guiming,et al. Impacts of extreme climatic events under the context of climate warming on hydrology and water resources in the Qinghai Qilian Mountains[J]. Journal of Glaciology and Geocryology,2019,41(5): 1053-1066.]   \n[3]宁迈进,孙思瑞,吴子怡,等.趋势变异条件下非一致性洪水频 率计算方法的择优比较分析—以洞庭湖区弥陀寺站为例 [J].水文,2019,39(6):14-19.[Ning Maijin,Sun Sirui,Wu Ziyi, et al. Comparative analysis of inconsistent hydrological frequency calculation methods based on trend alteration: Taking Mituosi station in Dongting Lake Area as a case[J]. Journal of China Hydrology,2019,39(6): 14-19.]   \n[4]Beldring S,Torill Engen-Skaugen,Frland EJ,et al. Climate change impacts on hydrological processes in Norway based on two methods for transferring regional climate model results to meteorological station sites[J]. Tellus A,2008,60(3): 439-450.   \n[5]杜鸿,夏军,曾思栋,等.淮河流域极端径流的时空变化规律及 统计模拟[J].地理学报,2012,67(3):398-409.[Du Hong, Xia Jun,Zeng Sidong,et al.Temporal and spatial variations and statistical models of extreme runoff in Huaihe River Basin[J].Acta Geographica Sinica,2012, 67(3): 398-409.]   \n[6]El-Jabi N, Caissie D,Turkkan N.Flood analysis and flood projections under climate change in New Brunswick[J]. Canadian Water Resources Journal,2015,41(1-2): 319-330.   \n[7] Meyers E M, Dobrowski B,Tague C L. Climate change impacts on flood frequency,intensity,and timing May affect trout species in Sagehen Creek, California[J]. Transactions of the American Fisheries Society,2010,139(6): 1657-1664.   \n[8]刘志斌,黄粤,刘铁,等.开都河源区径流变化的气候响应[J].干 旱区研究,2020,37(2): 418-427.[Liu Zhibin, Huang Yue, Liu Tie,et al. Climate response of runoff variation in the source area of the Kaidu River[J].Arid Zone Research,2020,37(2): 418-427.]   \n[9]余其鹰,张江辉,白云岗,等.1957—2018年和田河源流径流演 变特征[J].干旱区研究,2021,38(2): 494-503.[Yu Qiying, Zhang Jianghui, Bai Yungang,et al. Evolution characteristics of the headstream of the Hotan River headstream from 1957 to 2018[J]. Arid Zone Research,2021,38(2): 494-503.]   \n[10] 刘聪,秦伟良,江志红.基于广义极值分布的设计基本风速及其 置信限计算[J].东南大学学报(自然科学版),2006,36(2):331- 334.[Liu Cong,Qin Weiliang,Jiang Zhihong.Computationof designbasic windvelocityanditsconfidencelimits basedongeneralized extreme value distribution[J]. Journal of Southeast University(Natural Science Edition),2006,36(2): 331-334.]   \n[11] Jenkinson A F. The frequency distribution of the annual maximum (or minimum) values of meteorological elements[J]. Quarterly Journal of the Royal Meteorological Society 2010,81(348): 158-171.   \n[12] Coles SG .An Introduction to Statistical Modeling of Extreme Values[M]. New York: Springer Verlag,20O1: 36-78.   \n[13] 黄粤,陈曦,刘铁,等.基于GEV分布的天山开都河洪水频率特 征分析[J].气候变化研究进展,2016,12(1):37-44.[Huang Yue, Chen Xi,Liu Tie,etal.Flood frequency analysis for Kaidu Watershed in Tianshan Mountains[J]. Climate Change Research,2016, 12(1): 37-44.]   \n[14] 刘明春,李玲萍,史志娟,等.石羊河流域径流量分布特征及对 气候变化的响应——以西营河为例[J].干旱地区农业研究, 2013,31(1): 193-198.[Liu Mingchun,Li Lingping, Shi Zhijuan, et al.Distribution characteristics of runoff in Shiyang River basin and its responses to climate change: The case study of Xiying River[J].Agricultural Research in the Arid Areas,2013,31(1): 193- 198.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Analysis of flood characteristics in Xiying River Basin based on GEV distribution ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "CHEN Tingxing1²， LYU Haishen1²， ZHU Yonghual2   \n(1. State Key Laboratory of Hydrology-Water Resources and Hydraulic Engineering, Hohai University,   \nNanjing 210o98,Jiangsu, China; 2. College of Hydrology and Water Resources,Hohai University, Nanjing 210098,Jiangsu, China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Scholars have paid close attntion to the phenomenon of frequent flood events caused by climate change.Using the data from the annual flood hydrological elements extract table of Jiutiaoling hydrological station of the Xiying River from 1972 to 2019, we applied the annual maximum sampling method to obtained the anual maximum daily discharge and spring and summer maximum daily discharges.We calculated the respective basic moments ofthe three sample series and analyzed the trend change using the lineartrend method. The M-K test method was used to test the trend of the series,the GEV distribution was used to analyze the trend, and the K-S method and PPCC test were used to evaluate the accuracyoffit of the theoretical distribution and the measured series.The results of the analysis revealed that from 197 to 2019,there was a downward trend n the annual maximum daily discharge and the maximum daily discharge series in spring and summer,and the spring floods tended to occur earlier.The M-K test revealed thatthere was no significant change trend in the thre sequences.The GEV distribution can wellfit the maximum daily discharge series of Jiutiaoling hydrological station. The annual maximum daily discharge series and spring maximum daily discharge series followed the Weibull distribution,and the summer maximum daily discharge series followed the Frechet distribution.The analysis of the theoretical return period showed that the number offloods in spring has been decreasing, whereas the number offloods in summer first decreased and then increased since the 198Os.The runoffin the mountainous area of the Xiying River Basin is affected significantly by climate change,and the phenomenon of increasing temperature and consequent drying up is common. The increase of precipitation cannot met the supply of runoff and snow cover inthe mountainous area,which causes a year by year decline of the runoff in the basin.The high frequency of sudden temperature rises in spring causes the spring flood to occur earlier,and the large temperature rise in winter hinders the formation of snow.The reduction of the proportion of ice and snow melt in the water supply reduces the frequency of spring floods in the Xiying River Basin.The precipitation in the summer flood season largely determines the size offloods in the basin,and the trend of variation ofannual precipitation in the basin is closely related to the number of flood events.The change trend first increased,then decreased,and then increased. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Keywords: generalized extreme value distribution; flood frequency； temperature soared; climate change； Xiying River Basin; Northwest China ",
+        "page_idx": 6
+    }
+]

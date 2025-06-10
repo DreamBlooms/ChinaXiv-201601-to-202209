@@ -1,0 +1,183 @@
+# 陕西暖季降水的日变化特征及南北差异
+
+张宏芳¹，李建科¹，潘留杰²，卢珊1（1陕西省气象服务中心,陕西西安710014；2 陕西省气象台，陕西西安710014）
+
+摘要：利用2008—2015年CMORPH卫星与自动观测站的逐时降水量融合产品，分析了陕西地区$5 \sim 1 0$ 月降水量、降水频次、降水强度的日变化特征，以及陕西南北降水日变化上的差异。结果表明：(1)降水量和降水频次从南向北明显递减,地形作用下的纬向变化是陕西地区降水最重要的特征,但降水强度呈现出南北高、中间低的分布特征，两个高值中心分别位于陕南南部和陕北的东北部,EOF分析表明陕西南部夜雨特征明显。(2)陕西南部降水量和降水频次、降水强度日变化特征一致,均以夜晚至次日清晨为高值区，而在中午前后达到最低值。陕西北部降水量、降水频次峰值则主要出现在上午，降水强度峰值出现在傍晚。区域对比分析表明，陕西南部降水量日变化主要来自于降水强度的贡献，而陕西北部日变化以降水频次的贡献为主。(3)陕西降水的南北分界线特征明显， $3 4 ~ { ^ \circ \mathrm { N } }$ 以南地区降水日变化明显且降水主要集中在夜间。 $3 4 \sim 3 7 ~ ^ { \circ } \mathrm { N }$ 之间的中部地区降水日变化较弱， $3 7 ~ \mathrm { ^ { \circ } N }$ 以北地区降水的日变化特征和陕西南部相反。(4)除榆林、渭南和商洛东部地区外，其他大部分地方白天的降水量都明显低于夜间的降水量，特别是陕南秦巴山区夜间降水量超过白天的一倍以上。
+
+关键 词：陕西；暖季降水；日变化；南北差异文章编号： $1 0 0 0 - 6 0 6 0 \mathopen { } \mathclose \bgroup \left( 2 0 2 0 \aftergroup \egroup \right) 0 4 - 0 8 8 9 - 1 0 \mathopen { } \mathclose \bgroup \left( 0 8 8 9 \sim 0 8 9 8 \aftergroup \egroup \right)$
+
+降水日变化是研究大气时空表现，认知精细化降水可预报能力的另一个重要方面，它不仅能够综合反映大气热力、动力过程对水汽循环的影响，而且对天气和气候有重要反馈[1]。通过对降水日变化的研究，一方面可以深入理解触发降水的物理机理，认识区域天气和气候的特征；另一方面有助于改进天气、气候模式的参数化方案，为提高数值模式的预报性能建立有效的客观依据[2]。正是由于降水日变化研究的科学意义显著，早在20世纪初期，降水日变化就引起了国内外气象学家的关注[3-4]WILLIAMS等[5]指出暖季降水日变化受地形影响较大，地形坡度造成的热力差异和日变化强迫会激发出不同的局地环流，进而引起伴随有明显日变化的云团产生，使降水日变化呈现出区域性差异。而中国降水日变化的系统研究始于21世纪，YU等利用全国逐时降水观测资料，首次全面揭示了中国夏季降水日变化特征及区域差异。ZHOU等7也对比了卫星反演和台站观测的夏季降水量、频次和强度的日变化特征，指出受东亚季风影响显著的中国区域，特别是东部地区，降水的日变化特征存在明显的区域性和季节性差异。CHEN等[8分析了长江流域长时降水一般发生在凌晨，并经过数小时后达到日峰值。曹永强等9运用线性倾向估计、滑动平均、累积距平、小波分析以及普通克里金空间插值等方法对辽宁省夏季降水量和极端雨量日进行时空变化分析。近年来随着气象卫星探测技术的迅速发展，各类卫星降水产品的应用增加了对我国降水日变化特征的认识。白爱娟等[0-]采用夏季TMPA每小时降水量资料，研究了青藏高原及其周边地区夏季降水的日变化特征以及高原中部与四川盆地两个特殊地形区降水日变化上的差异。毛江玉等[2]也利用1998—2008年间热带测雨卫星TRMM3B42
+
+# 干旱区地理
+
+降水率资料，揭示了亚洲季风区夏季降水日变化特征。李芳洲等[13利用1998—2012年TRMM卫星资料，对南海及周边地区春季和夏季的降水日变化特征进行了研究。尽管前人对降水日变化特征的研究取得了一定的成果，但前期研究资料多取自气象台站观测、卫星直接观测的云顶亮温、水汽数据或通过卫星观测反演的降水资料[4],受资料的较低空间分辨率的限制，不能有效的描述区域气候精细特征。
+
+近年来中国气象局建立了稠密的气象观测网，降水观测也从过去的全国2400个县级观测站转换为4万多个自动气象观测站、天气雷达观测和卫星反演相结合的方式。潘肠等[15]、沈艳等[16]研究表明，CMORPH卫星与自动站降水融合资料在我国夏季 $2 4 \mathrm { ~ h ~ }$ 累计降水平均偏差为 $- 0 . 0 3 5 ~ \mathrm { m m }$ ，相关系数达0.908，均方根误差为 $4 . 4 0 4 \ \mathrm { m m }$ ，能够真实的表现实际降水分布。新的CMORPH卫星与自动站降水融合资料空间分辨率高，资料质量可靠，为研究精细化的降水日变化特征提供了支撑。
+
+陕西处于中纬度地区，秦岭山脉横贯陕西中南部，秦岭独特的地理位置和气候特征使得其成为亚热带与暖温带、湿润与半湿润气候的分界线，同时也是中国重要的地理分界线，这里地貌类型多样，既有高原又有盆地和丘陵，是世界上地形最复杂的地区之一[17-18]。独特的地理位置和气候特征使陕西南北地区降水的变化差异巨大，南部年平均降水量达 $1 0 0 0 { \mathrm { m m } }$ 以上，而北部的长城沿线年均降水量仅为 $3 0 0 ~ \mathrm { m m }$ 左右[19]。分析陕西南北地区暖季降水的变化特征不仅有利于了解复杂地形条件下，陕西南北的降水差异，为数值模式参数化方案调整提供参考；而且可以深入了解降水的演变特征和触发机理，直接为该地区气象防灾减灾提供重要的业务支撑。本文利用中国气象局最新发布的自动气象观测站，CMORPH[CPC (Climate Prediction Center)morphingtechnique」卫星与雷达反演的三源融合逐时降水量资料，分析暖季陕西地区的降水日变化特征及南北的降水日变化差异，试图为深人研究秦岭南北侧降水变化机理及气候评估提供依据。
+
+# 1资料与方法
+
+本文采用中国气象科学数据信息网发布的全国4万多个自动观测站、CMORPH卫星与雷达的逐时降水量融合产品（http://www.escience.gov.cn/met-data/page/index.html［2014-12-01|）,时段为2008—2015年的 $5 \sim 1 0$ 月，空间分辨率 $0 . 0 5 ^ { \circ } { \times } 0 . 0 5 ^ { \circ }$ ，时间分辨率为 $1 \mathrm { { h } }$ ，该资料的高时空分辨率可为降水日变化分析提供更加精细的信息。分析的时间为2008—2015年 $5 \sim 1 0$ 月，所用的时间为北京时
+
+在分析陕西地区的降水日变化差异时，首先通过分析陕西暖季不同地区降水日变化的整体特征（图略），可以看出陕南降水呈现出一致的夜晚至清晨的降水峰值，而关中和陕北地区的日变化演变具有较好的一致性。考虑陕南地区和关中、陕北地区降水日变化的显著差异，所以本文以秦岭为分界线把陕西分成南北两部分进行详细分析，具体划分如图1，图中标示出了自动观测站和秦岭山脉的位置分布。
+
+在考察陕西地区降水的日变化及南北差异特征时,依据前人提出的降水统计方法(宇如聪等[14],唐玉红等[20]），具体定义如下：
+
+降水量：大于等于 $0 . 1 \ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ 的累计降水量。
+
+降水频次：统计时间内发生降水的总次数。
+
+降水强度：不同时次的降水强度通过累积降水量除以降水时数。
+
+![](images/d4c22a2a5b68b68a4b0305b72666973c3cda87e6a1e5c068e82b593f01100810.jpg)  
+图1研究范围和区域内自动观测站点分布 Fig.1Study area and the distribution of meteorological stations,the Qinling Mountains are marked by black lines
+
+# 2陕西暖季降水的总体分布特征
+
+图2给出了陕西地区2008—2015年 $5 \sim 1 0$ 月多年平均的累积降水量、降水频次、降水强度的空间分布，从多年降水量的气候学特征来看，陕西地区暖季总降水量分布主要表现为从南到北明显的递减特征，南部暖季年平均降水量大于 $1 \ 0 0 0 \ \mathrm { m m }$ ，而榆林的西北部仅在 $4 0 0 \ \mathrm { m m }$ 以下，存在较大的差异，这和张宏芳等原来的研究一致。暖季年平均降水频次也表现为南高北低，不同的是降水频次高值中心除了在陕南南部外，在秦岭周边地区周至、户县、佛坪、宁陕一带还有一个明显的高值中心，两个地区的多年平均暖季降水频次都在 $6 0 0 \mathrm { ~ h ~ }$ 以上，最高达到了 $8 0 0 \mathrm { { h } }$ 以上。关中地区暖季年平均降水频次在 $4 0 0 \sim 6 0 0 \mathrm { ~ h ~ }$ 之间，其中渭南地区为相对低值区，降水频次在 $4 0 0 \mathrm { { h } }$ 以下。陕北地区仅为 $5 0 0 \mathrm { { h } }$ 以下。降水强度的分布以陕南和陕北的东北部为两个高值中心,强度大于 $1 \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ ，呈现为两边高中间低的分布特征，低值中心位于陕北西部的定边、靖边一带,强度低于 $0 . 8 ~ \mathrm { { m m } \cdot \mathrm { { h } ^ { - 1 } } }$ 。蔡新玲等[21]利用陕西省23个气象站的逐时降水资料研究陕西汛期降水的时空变化，发现陕西降水总时数由北向南增多，且南北差异较大,平均雨强一般在 $1 . 0 \sim 1 . 8 ~ \mathrm { m m } \cdot$ $\ln ^ { - 1 }$ ,其中陕北黄土高原和陕南秦巴山区的平均雨强要大于关中平原地区。本文指出的多年暖季平均降水量、降水频次、降水强度的空间分布特征，进一
+
+![](images/e5a2ad645aca8e6118183575294c13c4c62ea1f451d1243222453cd106ed9cb9.jpg)  
+图22008—2015年多年平均的 $5 \sim 1 0$ 月累积降水量、降水频次、降水强度的空间分布  
+Fig.2Spatial distribution of Shaanxi precipitation from May to October averaged from 2O08 to 2015
+
+步验证了上述结论。
+
+从 $5 \sim 1 0$ 月逐月曲线变化来看(图3)，陕西南部地区各月累计降水量由高到低的顺序为7、9、8、5、6、10月，7月降水量最多，为 $1 8 3 ~ \mathrm { m m }$ 。降水频次由高到低的顺序为9、7、8、5、6、10月，其中9月最大，降水频次为 $1 2 7 \mathrm { h }$ 。降水强度最大也出现在7月，为$1 . 5 \ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ ,其次由高到低的顺序为8、9、6、5、10月。陕西北部地区 $5 \sim 1 0$ 月的各月累计降水量由高到低的顺序为 $7 、 9 、 8 、 6 、 5 、 1 0$ 月，最高也出现在7月，为 $9 9 \mathrm { m m }$ ;降水频次由高到低的顺序为9、7、8、6、5、10月；降水强度由高到低的顺序为7、8、9、6、5、10月，最大降水强度为 $1 . 1 ~ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ 。整体来看，7月为陕西降水量和降水强度最大的月份。9月降水日数最多，主要原因为9月为陕西的华西秋雨时段，雨日
+
+多，降水强度不大。
+
+# 3陕西暖季降水日变化的基本特征
+
+# 3.1 日变化的两个模态
+
+对2008—2015年 $5 \sim 1 0$ 月陕西地区降水量的逐时变化做EOF分析，便可得到逐时降水的主要空间模态及各模态的时空变化特征。前两个主要模态解释的方差分别为 $6 9 . 6 \%$ 和 $1 1 . 3 \%$ ，方差解释总贡献达到 $8 0 \%$ 以上，具有代表性。按照NORTH等[22]的标准，这两个模态可以同其他模态区分开，并且是彼此可分的。
+
+陕西地区降水量日变化的前2个模态的空间分布及其对应的标准化的时间序列如图4所示，EOF1表现为汉中、安康、宝鸡的负异常和榆林、延安、渭南的正异常，负的大值中心在陕南西南部的宁强、南郑、镇巴一带，然后再向北依次递减（图4a)，这一空间形态与降水的年平均累积降水量分布非常相似，但位相相反。位相相反的原因主要是EOF空间型与其时间系数有关，表明EOF1反映了陕西地区降水逐时变化的主要特征。EOF1对应的逐时变化的时间系数有明显的变化（图4c），$1 8 : 0 0 \sim$ 次日04：00为负位相，陕南西南部降水偏多,表现为明显的夜雨特征。 $0 5 { : } 0 0 \sim 1 7 { : } 0 0$ 为正位相，这个时段陕南西南部降水相对偏少，而为关中东部、陕北西北部降水集中的时段。
+
+![](images/099d0072554c0eaed499513aa788d8ffd0ec656ceb18a9a3b553a9e6a439d938.jpg)  
+干旱区地理  
+图32008—2015年多年平均的 $5 \sim 1 0$ 月逐月降水量、降水频次、降水强度  
+ig.3Monthlyprecipitationamount，precipitationfrequency，andprecipitationintensityvariationsinMayOctoberof28-201
+
+第二模态空间型解释的降水方差贡献相对较小，主要表现为陕西大部分地区一致的负异常，有3个中心，一个在汉中、安康的南部，另外2个中心一个在秦岭北麓地区宝鸡、西安的南部，一个在延安中部。相应的时间系数也有明显的变化(图4d)，$0 0 { : } 0 0 \sim$ 中午12：00负位相，全省大部分地方降水偏多，陕南南部偏多更加明显； $1 3 : 0 0 \sim 2 2 : 0 0$ 为正位相，这一时段全省大部分地方降水偏少。
+
+# 3.2 南北特征
+
+降水的日变化特征反映了大气热力和动力过程对水汽循环的综合影响，同时局地尺度环流对大气和气候的影响也很重要。受秦岭特殊地形的影响，以秦岭为分界线，陕西南北降水表现出截然不同的日变化特征。为了更加精细地了解陕西南北部降水的日变化差异，图5首先给出了 $5 \sim 1 0$ 月陕西南北地区区域平均的降水量、降水频次、降水强度各月的逐时变化曲线，从图中可知，各月降水量、降水频次、降水强度曲线变化较为一致，南北地区差异较大且存在明显的峰谷区。陕西南部地区的平均逐时降水量、降水频次、降水强度均在夜间达到峰值，呈现出一致的午夜至清晨的降水峰值，早晨至中午为低值，全体演变呈现一峰一谷型（图5a）。 $0 5 : 0 0 \sim 1 7 : 0 0$ 为降水量的低值时段，一天中降水量最小的时次为中午的13：00。18：00到次日04：00为高值时段，峰值出现在23：00。这和YU等揭示的青藏高原东部和四川盆地的降水特征一致。降水频次的高值区为19： $0 0 \sim$ 次日04:00,与降水量不同的是， $0 7 : 0 0 \sim 0 9 : 0 0$ 存在一个降水频次的另一个次高值区， $0 5 \{ 0 0 \sim 1 8 \colon 0 0$ 为低值谷区。降水强度呈现的变化特征与降水量较为一致，高值也在夜间,午后为低值区，不同的是日最大降水强度出现在22：00，最小强度出现在12：00，日位相超前于降水量日位相 $^ { \textrm { 1 h } }$ 。陕西降水最主要特征是纬向差异明显。其次受复杂下垫面影响，地形作用十分显著。秦岭南部四川盆地、大巴山，秦岭北部，关中平原、河套平原、关中平原北部黄土高原地形抬升对降水的局地空间分布都有重要影响。卢萍等[23]研究认为夜雨触发有两个方面：一是西南地区四川盆地的特殊地形，使得盆地西部易于形成沿坡地的辐合上升运动；二是下垫面提供给低层大气的热通量，能够进一步增强那里大气层结的不稳定性。
+
+从陕西南部各月降水分布来看， $5 \sim 1 0$ 月降水量均集中在18：00到次日04：00，降水低值出现在$0 9 : 0 0 \sim 1 5 : 0 0$ ；降水频次各月分布却有较大差异，5月、9月、10月降水频次表现为一峰一谷型，最大值出现在夜间，低值区在午后 $1 4 : 0 0 \sim 1 5 : 0 0$ 。6月开始降水频次调整为双峰型，在上午出现了一个降水频次高值区，且7月表现的最明显，9月后又重新调整为单峰型。其中6月降水频次最大出现在09：00,7月降水频次最大出现在06：00，8月在09：00也有一个降水频次的次大值。 $5 \sim 1 0$ 月降水高强度时段均在夜间至凌晨，而白天为降水强度较小时段，5月、6月、8月、9月降水强度最小时段为 $0 8 : 0 0 \sim 1 3 : 0 0$ ，但7月降水强度最小值出现在上午06：00，10月$1 2 : 0 0 \sim 1 5 : 0 0$ 为低降水强度时段，这可能是由于10月对流天气减弱，所以降水强度偏小。
+
+陕西北部降水量、降水频次日变化也呈现了较为一致的特征,均为一峰一谷型， $0 6 { : } 0 0 \sim 1 3 { : } 0 0$ 为降水峰值, $1 4 { : } 0 0 \sim$ 次日05：00为降水的较少时段（图5b)。降水频次高值峰区在 $0 5 : 0 0 \sim 1 4 : 0 0$ ,低值谷区位于为下午 $1 4 { : } 0 0 \sim$ 次日05：00,最小值在19：00，年平均降水频次为 $1 5 . 6 \mathrm { ~ h ~ }$ 。而降水强度与之不同的是，高值时段为 $1 8 : 0 0 \sim$ 次日01:00，峰值出现在
+
+19：00，这与陕西南部的降水特征差异较大。这说明陕西北部发生在午后的短时强降水虽然次数少，但强度较大。主要是午后地表辐射增温，上升运动强烈，与高原上空西风气流形成正反馈上升机制，形成铅直的环流，导致午后陕西北部短历时强降水发生时段集中、雨强大。还值得注意的是陕西南部的降水量与降水强度的变化基本一致，说明降水强度对降水量贡献较大。而陕西北部降水量峰值则与降水频次峰值高度相关。
+
+陕西北部各月降水量逐时分布差异较大，5月、6月、7月、8月逐时降水时间都在上午有一个高值中心，5月在11：00最大，6月、7月、8月在09：00最大；9月、10月降水减小，降水分布高值时段主要集中在$0 0 { : } 0 0 \sim 1 1 { : } 0 0$ 。各月降水频次变化与降水量变化基本对应，降水时次多发在 $0 8 { : } 0 0 \sim 1 1 { : } 0 0$ 之间,尤其
+
+![](images/3edd3c2ed587d84e5f78253bec77daf669ae537c15ec23a3b20c811815fcd607.jpg)  
+图4陕西2008—2015年5\~10月平均降水量逐时变化的EOF空间分布型及时间系数  
+Fig.4Spatial distributionandtime coefcientofShaanxi hourly precipitation amount inMay-Octoberof 2008—2015
+
+09：00最多。各月逐时降水强度变化与降水量和降水频次不同，5月强度最大时段为 $1 1 { : } 0 0 \sim 1 4 { : } 0 0$ ，次大值时段为 $1 9 { : } 0 0 \sim 2 0 { : } 0 0 , 6$ 月高强度主要集中在$0 6 { : } 0 0 \sim 1 2 { : } 0 0$ 和 $1 9 { : } 0 0 \sim 2 3 { : } 0 0 , 7$ 月高强度主要时段为下午 $1 7 { : } 0 0 \sim$ 次日02:00,8月为 $1 7 : 0 0 \sim 2 3 : 0 0 , 9$ 月为 $0 0 \colon 0 0 \sim 0 7 \colon 0 0 , 1 0$ 月降水强度分布不集中。$5 \sim 8$ 月降水强度在下午均存在一个高值时段,尤其
+
+7月和8月的盛夏时节，一日中最强降水主要集中在下午，这与暖季多短时强对流天气有关。
+
+2008—2015年 $5 \sim 1 0$ 月平均逐时降水随纬度分布(图6)呈现了一致的从南向北减少的特征，可以明显的看到以秦岭为界陕西南北部地区的降水差异。在 $3 4 ^ { \circ } \mathrm { N }$ 以南的陕西南部降水的逐时变化明显，降水量在下午 $1 6 : 0 0 \sim$ 次日09：00较大，中午
+
+![](images/e90eb114b77606ab7b29386eae6cee6d0e0bdd7f3c76664b948dba560c0a95e4.jpg)  
+图5标准化的逐时区域平均降水量、降水频次、降水强度的日变化
+
+![](images/bc3426261a7663e593143023cbe7735128f7d61de6e2b6c325b476f8b0d51915.jpg)  
+Fig.5Diualvaationsofthenomalizedaverageregionalprecipitationamount，precipitatonfrequencyandprecipitatioitesity   
+图62008—2015年 $5 \sim 1 0$ 月的平均降水量、降水频次和降水强度的时间－纬度分布图  
+Fig.6Time-ltitudedistributionsofaveragedprecipitationinMay-Octoberof2Oo8—20l5precipitationamount,precipitation frequency,andprecipitation intensity
+
+$1 2 : 0 0 \sim 1 5 : 0 0$ 降水量最小。降水中心主要集中在$3 1 ^ { \circ } \sim 3 3 ^ { \circ } \mathrm { N }$ 之间。陕西北部各时次的降水变化不大，降水的低值区主要位于 $3 7 . 5 ^ { \circ } \sim 3 8 . 5 ^ { \circ } \mathrm { N }$ 之间。平均的降水频次逐时变化也是由南向北减少，陕西南部降水频次也主要集中在夜间，降水多发时次为 $2 1 : 0 0 \sim$ 次日09：00，尤其是22：00至次日凌晨02：00最多，这与该时次降水量高值分布相对应。而在陕西北部 $0 6 { : } 0 0 \sim 1 4 { : } 0 0$ 之间为主要降水时段，其中高值中心位于 $3 5 . 5 ^ { \circ } \sim 3 7 ^ { \circ } \mathrm { N }$ 之间。低值中心主要出现在夜间,位于 $3 7 . 5 ^ { \circ } \sim 3 8 . 5 ^ { \circ } \mathrm { N }$ 之间。图6c为逐时降水强度随纬度的分布，陕西南部的一高一低特征还是非常明显，与降水量的高值中心吻合，这说明陕西南部降水主要发生在夜间，降水过程多，强度大。陕西北部强度分布不集中，几个低值中心分布在 $0 0 { : } 0 0 \sim 1 6 { : } 0 0$ ，而 $1 7 : 0 0 \sim 2 3 : 0 0$ 为高强度集中时段，与降水量、降水频次分布不同。由此可以看出，陕西北部的日降水特征分为3个时段：一个时段是 $0 0 { : } 0 0 \sim 0 5 { : } 0 0$ 时，降水量、降水频次、降水强度均为低值;第二个时段为 $0 6 { : } 0 0 \sim 1 4 { : } 0 0$ 时,平均降水量相对较多，降水过程多，短时强降水少发;第三个时段为 $1 5 : 0 0 \sim 2 3 : 0 0$ 时，降水强度较大，但降水频次少，降水量也较小，这主要是陕西北部午后短时强降水过程少，但强度较大。
+
+# 3.3 昼夜差异
+
+图7给出了白天 $( 0 9 { : } 0 0 \sim 2 0 { : } 0 0 )$ 和夜间 $( 2 1 { : } 0 0 \sim$ 08：00)平均的降水量、降水频次、降水强度以及白天与夜间之比的空间分布。尽管白天和夜间的降水分布形态是相似的，但是区域的昼夜差异还是很明显，昼夜差异的幅度不同地区也有较大不同。由图 $\mathrm { 7 a }$ 可见，除榆林、渭南、商洛的部分地方外，陕西的大部分地方白天的降水量都明显低于夜间的降水量，两者的比值小于1.0(即白天降水少于夜间），这与EOF1反映的降水整体特征一致。特别是陕西南部的安康、汉中地区白天的降水量仅为夜间降水量的 $0 . 5 \sim 0 . 9$ 倍，夜间的平均降水量为 $3 5 0 \sim$ $7 5 0 ~ \mathrm { m m }$ ，白天的降水量为 $2 5 0 \sim 4 5 0 ~ \mathrm { m m }$ ，夜雨特征明显。而陕西北部的榆林及陕西东部的渭南和商洛的部分地方白天降水量与夜间降水量的比值大于1.0(即白天降水多于夜间)，比值最大的地区在榆林的中西部，为1.5倍，这些地区虽然整体降水量不大，但白天的量级明显大于夜间。降水频次的分布特征基本上和降水量的分布特征类似，但昼夜差异的幅度小于降水量。陕西北部和东部部分地方白天的降水频次高于夜间的降水频次，其他地方的降水频次都为夜间偏多。而陕西西部汉中、宝鸡地区夜间降水频次偏多的情况最为明显，降水频次白天与夜间之比为 $0 . 7 \sim 0 . 9$ 。白天降水强度的分布略有不同，全省有两个高值中心，一个在陕西南部镇巴、紫阳一带，一个在陕西北部榆林、佳县附近，日平均降水强度达到 $1 6 \mathrm { m m ^ { \cdot } d ^ { - 1 } }$ 。而在秦岭周边地区周至、户县、佛坪、宁陕一带有一个低值区。夜间降水强度高值中心在陕西南部有明显的高值中心，大于20$\mathrm { m m \cdot d ^ { - 1 } }$ ，也远大于白天的降水强度，降水强度的比值小于0.8。
+
+# 4结论
+
+本文利用2008—2015年CMORPH卫星与自动观测站的逐时降水量融合产品，分析了陕西地区暖季降水量、降水频次、降水强度的日变化特征，并对陕西南北的降水日变化差异进行了比较，主要结论如下：
+
+（1）陕西地区2008—2015年 $5 \sim 1 0$ 月平均总降水量、降水频次分布为自南向北递减特征，陕西南部最大。降水强度以陕南南部和陕北的东北部为两个高值中心，呈现了南北高中间低的分布特征。其中7月为陕西降水量和降水强度最大的月份，9月降水日数最多。
+
+（2）EOF1反映了陕西逐时降水变化的主要特征，解释方差总贡献为 $6 9 . 6 \%$ 。 $1 8 : 0 0 \sim$ 次日04：00为负位相，陕南西南部降水偏多，表现为明显的夜雨特征。 $0 5 : 0 0 \sim 1 7 : 0 0$ 为正位相,这个时段陕南西南部降水相对偏少，而为关中东部、陕北北部降水集中的时段。
+
+（3）陕西各月降水量、降水频次、降水强度曲线变化较为一致，南北地区差异较大且存在明显的峰谷区。整体来看，陕西南部地区的降水量、降水频次、降水强度均在夜间达到峰值，呈现出一致的晚上至清晨的降水峰值，早晨至中午为低值，全体演变呈现一峰一谷型。陕西北部降水量、降水频次日变化较为一致， $0 6 { : } 0 0 \sim 1 3 { : } 0 0$ 为降水峰值,其他时间降水较少。而降水强度的高值时段为 $1 8 \colon 0 0 \sim$ 01:00，峰值出现在19：00。陕西南部降水量的变化与降水强度有直接关系，而陕西北部降水量变化则与降水频次高度相关。
+
+z 105°E 107°E 109°E 111° E N z 105°E 107°E 109°E 111°E N z 105°E 107°E 109°E 111°Ez   
+0 40 0 0 0 0 (a)白天累计降水量／mm (b)夜间累计降水量/mm (c)白天与夜间累积降水量比 N N N   
+N A N88 N N.88 N N.88   
+88N > 88N 8 8εN。   
+3 N.98 3 N.98 3 1.2 N.98 0.8   
+N 100- N N N N 0.6 N 7   
+N 0 100200 N N 0100200 N N 0100200 N   
+32 km 3 3 km 3 3 km 2 105°E 107°E 109°E 111°E 105°E 107°E 109°E 111°E 105°E 107°E 109°E 111°E   
+z105°E 107°E 109°E 111Ez z 105°E 107°E 109°E 111Ez z105°E 107°E 109°E 111°Ez   
+0 (d)白天累计降水频次/h 0 40 (e)夜间累计降水频次/h 0 0 (f)白天与夜间累积降水频次比 0 N N N   
+N A N.88 N T N.88 N N.88   
+8 8 品 8 1.2   
+N.98 N.98 N.98 N.98 N.98 N 1.0 3 0.8   
+N N N N N 0.6 N   
+N 0100200 N 010020 N N 0100200 N   
+3 km 2 3 km 2 32 km 3 105°E 107°E 109°E 111°E 105°E 107°E 109°E 111°E 105°E 107°E 109°E 111°E 107°E 109°E 111Ez z105°E 107°E 109°E 111Ez z105°E 107°E 109°E 111°Ez (g白天降水强度/mm·h 0 40 (h)夜间降水强度/mm·h 0 0 ①白天与夜间降水强度比 10 N N N   
+N N.88 N N N A N.88   
+3 mm·h−1 38 A 88 3 1 20 18 18 1.2   
+N98 16 N.98 N Z N N 14210 3 3 98 1.0 3 2 0.8   
+N 8 N N N N 0.6 N 3   
+N 0100200 N N 0100200 N N 0100200 N   
+3 km 2 32 km 3 3 km 3 105°E 107°E 109E111°E 105°E 107°E 109°E 111°E 105°E 107°E 109°E 111°E 注：白天为 $0 9 : 0 0 \sim 2 0 : 0 0$ ，夜间为 $2 1 : 0 0 \sim 0 8 : 0 0$
+
+(4）陕西逐时降水随纬度分布呈现了一致的从南向北减少的特征，在 $3 4 ^ { \circ } \mathrm { N }$ 以南的陕西南部地区降水量、降水频次、降水强度的逐时变化明显且较为一致,高值主要在下午 $1 6 { : } 0 0 \sim$ 次日09:00,中午前后为降水较少时段，且降水中心主要集中在 $3 1 \sim$
+
+$3 3 ^ { \circ } \mathrm { N }$ 之间的秦巴山区。陕西北部各时次的降水变化不大，降水的低值区主要位于 $3 7 . 5 ^ { \circ } \sim 3 8 . 5 ^ { \circ } \mathrm { N }$ 之间的陕北北部地区。
+
+（5）虽然白天和夜间的降水分布形态是相似的，但在不同地区昼夜差异的幅度有较大不同。除榆林、渭南、商洛的部分地方外，陕西的大部分地方白天的降水量、降水频次、降水强度都明显低于夜间的降水量，两者的比值小于1.0。特别是陕西南部的安康、汉中地区白天的降水量仅为夜间降水量的$0 . 5 \sim 0 . 9$ 倍。
+
+本文仅对陕西地区及陕西南北降水的日变化特征进行了初步的分析和比较，对陕西地区精细化降水预报有一定的参考作用。但由于陕西地区降水形成的机理复杂，加上受资料长度限制，更加精细的研究及机理探讨值得后续开展。
+
+# 参考文献(References)
+
+[1］原韦华,宇如聪,傅云飞.中国东部夏季持续性降水日变化在 淮河南北的差异分析[J].地球物理学报,2014,57(3)：752- 759.[YUAN Weihua,YU Rucong，FU Yunfei. Study of different diurnal variations of summer long-duration rainfall between the southern and northern parts of the Huai River[J]. Chinese J. Geophys.,2014,57(3):752-759.]   
+[2]韩函,吴昊旻,黄安宁.华北地区夏季降水日变化的时空分布 特征[J].大气科学,2017，41(2)：263-274.[HANHan，WU Haomin,HUANG Anning.Temporal and spatial distributions of the diurnal cycle of summer precipitation over North China ［J]. Chinese Journal of Atmospheric Sciences，2017,41(2）:263 - 274.]   
+[3]吕炯.巴山夜雨[J].气象学报,1942,16(Z1)：36－53.[LU Jiong.The Nightime precipitation in the red Basin of Szechuan [J].Acta Meteorologica Sinica,1942,16(Z1):36-53.]   
+[4］WALLACE JM. Diurnal variations in precipitation and thunderstorm frequency over the conterminous United States［J].Mon Wea Rev,1975,103(5):406-419.   
+[5]WILLIAMS M,HOUZE R A. Satellite-observed characteristics of winter monsoon cloud clusters[J].Mon Wea Rev，1987,115 (2):505-519.   
+[6]YUR C, ZHOU TJ,XIONG AY,et al. Diurnal variations of summer precipitation over contiguous China［J].Geophys Res Lett，2007，34(1):L01704,doi:10.1029/2006GL028129.   
+[7]ZHOU TJ,YU R C,CHEN H M,et al. Summer precipitation frequency，intensity，and diurnal cycle over China:A comparison of satellite data with rain gauge observations ［J].Journal of Climate,2008,21(16):3997-4010.   
+[8］CHENHM,YURC,LIJ,et al.Why nocturnal long-duration rainfall presents an eastward-delayed diurnal phase of rainfall down the Yangtze River Valley[J]. Journal of Climate,2010,23 (4):905-917.   
+[9］曹永强,张亮亮,王学凤,等.辽宁省夏季降水量和极端雨量日 时空变化特征分析[J].干旱区地理,2017,40(2)：266－275. [CAO Yongqiang, ZHANG Liangliang,WANG Xuefeng,et al. Characteristics of spatio-temporal variation of summer precipitation and extreme rainfall days in Liaoning Province in recent 54 years[J].Arid Land Geography,2017,40(2):266-275.]   
+[10］白爱娟,刘长海,刘晓东.TRMM多卫星降水分析资料揭示的 青藏高原及其周边地区夏季降水日变化[J].地球物理学报, 2008,51(3):704-714.[BAI Aijuan,LIU Changhai,LIU Xiaodong.Diurnal variation of summer rainfall over the Tibetan Plateau and its neighboring regions revealed by TRMM multi-satellite precipitation analysis[J].Chinese Journal of Geophysics, 2008,51(3):704-714.]   
+[11］白爱娟,刘晓东,刘长海.青藏高原与四川盆地夏季降水日变 化的对比分析[J].高原气象，2011,30(4):852－859.[BAI Aijuan,LIU Xiaodong,LIU Changhai. Contrast of diurnal variations of summer precipitation between the Tibetan Plateau and Sichuan Basin[J].Plateau Meteorology,2011,30(4):852-859.]   
+[12］毛江玉,吴国雄.基于TRMM卫星资料揭示洲季风区夏季降 水日变化[J].中国科学：地球科学,2012,42(4)：564－576. [MAO Jiangyu,WU Guoxiong.Diurnal variations of summer precipitation over the Asian monsoon region as revealed by TRMM satellite data[J].Scientia Sinica(Terrae),2012,42(4):564-576.]   
+[13］李芳洲,李江南.基于TRMM卫星探测的南海及周边地区春 夏季降水日变化特征[J].热带地理,2017,37(5)：728－737. [LIFangzhou,LI Jiangnan. Characteristics of diurnal variations of precipitation in spring and summer over the South China Sea and its surrounding areas based on TRMM[J]. Tropical Geography,2017,37(5):728-737.]   
+[14］宇如聪,李建,陈昊明,等.中国大陆降水日变化研究进展[J]. 气象学报,2014,72（5）:948－968.[YU Rucong，LI Jian, CHEN Haoming,et al.Progress in studies of the precipitation diurnal variation over contiguous China［J].Acta Meteorologica Sinica,2014,72(5):948-968.]   
+[15］潘肠，沈艳，宇婧婧，等.基于最优插值方法分析的中国区域 地面观测与卫星反演逐时降水融合试验[J].气象学报,2012, 70(6):1381- 1389.[PAN Yang，SHEN Yan,YU Jingjing，et al.Analysis of the combined gauge-satellite hourly precipitation over China based on the OI technique[J].Acta Meteorologica Sinica,2012,70(6):1381-1389.]   
+[16］沈艳,潘肠,宇婧婧,等.中国区域小时降水量融合产品的质量 评估[J].大气科学学报，2013，36(1):37－46.[SHEN Yan, PAN Yang，YU Jingjing，et al. Quality assessment of hourly merged precipitation product over China[J]. Transactions of Atmospheric Sciences,2013,36(1):37-46.]   
+[17］卓静,朱延年.秦岭主脊区年降水量空间插值最优方法研究 [J].干旱区地理,2017,40(3):555-563.[ZHUO Jing，ZHU Yannian. Spatial interpolation methods of annual average precipi tation on Qinling Mountains[J].Arid Land Geography,2017,40 (3):555-563.]   
+[18］曾昭昭,王晓峰,任亮.基于GWR模型的陕西秦巴山区TRMM 降水数据降尺度研究[J].干旱区地理,2017,40(1):26－36. [ZENG Zhaozhao,WANG Xiaofeng,REN Liang. Spatial downscaling of TRMM rainfall data based on GWR model for Qinling-Daba Mountains in Shaanxi Province［J]. Arid Land Geography,2017,40(1):26-36.]
+
+[19］张宏芳，潘留杰,卢珊，等.1901—2012年陕西降水、气温变化
+
+# 干旱区地理
+
+特征[J].中国沙漠,2015,35(6):1674-1682.[ZHANG Hongfang，PAN Liujie，LU Shan,et al.Variation characteristics of precipitation and air temperature from 1901 to 2012 in Shaanxi [J].Journal ofDesert Research，2015,35(6):1674-1682.]
+
+[20］唐红玉，顾建峰，张焕，等.西南地区降水日变化特征分析[J].高原气象，2011,30(2):376-384.[TANGHongyu，GUJian-feng，ZHANG Huan,et al.Analysis on diurnal variation of pre-cipitation in southwest China[J].Plateau Meteorology,2011,30(2):376-384.]
+
+[21」蔡新玲，叶殿秀，孙娴，等.1961—2011年陕西省汛期短时降水变化特征[J].高原气象，2014,33(6)：1618-1626.[CAIXin-
+
+ling,YE Dianxiu,SUNXian,etal.Hourly precipitation variabili ty features in Shaanxi Province in flood season during 1961 - 2011[J].Plateau Meteorology，2014，33(6):1618-1626.]   
+[22]NORTHGR,BELLTL,CAHALANRF,et al. Sampling errors in the estimation of empirical orthogonal function[J].Mon Wea Rev，1982,110(7):699-706.   
+[23］卢萍,宇如聪,周天军.2003年8月“巴蜀夜雨"过程的模拟和 分析研究[J].气象学报,2008，66(3)：371－380.[LUPing, RU Yucong，ZHOU Tianjun.Numerical simulation of the mid-night rainfall over Sichuan Basin during August 2O03［J]. Acta Meteorologica Sinica,2008,66(3):371-380.]
+
+# Diurnal variation characteristics and north-south differences of precipitation in warm season in Shaanxi Province
+
+ZHANG Hong-fang'， LI Jian- $\cdot \mathrm { k e } ^ { 1 }$ ， PAN Liu-jie²， LU Shan¹(1Shaanxi Meteorological Service Centre,Xi'an 710o14,Shaanxi,China;2Shaanxi Meteorological Observatory,Xi'an71oo14,Shaanxi,China）
+
+Abstract：Using the combination of data on hourly rainfallfrom automatic stations and Climate Prediction Center morphing method satelite data from 2O08 to 2O15,the diurnal variations and differences between the amount of precipitation as well as the frequencyand intensityof precipitation in southern and northern Shaanxi Province,China from May to October were studied.Results show as follows:(1） From south to north,both rainfallfrequency and amount decreased,with the zonalchange under the topography being the most important feature.However,statistics show that precipitation intensity is higher in southwestern and northern Shaanxi and lower in central Shaanxi.The empirical orthogonal function analysis revealed that precipitation in southwestern Shaanxi showed clear night rain characteristics.（2）The diurnal variations of precipitation intensityandfrequency were similarto the amount of precipitation amount southern Shaanxi.Both regions display high values from night toearly morning and the lowest value around noon.The peak in precipitation amount and precipitation frequencyin northern Shaanxi was primarily in the morning,while the peak in precipitation intensityappeared in the lateafternoon.Diurnal variations inrainfall amountmainlycame from precipitation intensity in southern Shaanxi,while diurnal variations in the north resulted from precipitation frequency.（3）Precipitation in Shaanxi varies greatly depending on what sideof the north-south boundary line it falls.Precipitation south of $3 4 ^ { \circ } \mathrm { N }$ displays obvious diurnal variation characteristics,and the precipitation is predominantly concentrated at night.There is litle variation for precipitation inthe central region between （204 $3 4 ^ { \circ } \mathrm { N }$ and $3 7 ^ { \circ } \mathrm { N }$ ,and the diurnal variation of precipitation north of the $3 7 ^ { \circ } \mathrm { N }$ is opposite of that in southwestern Shaanxi.（4）Excluding Yulin,eastern Weinan,and Shangluo,the daytime precipitation is higher than nightime precipitation.Precipitation in therest of Shaanxi was significantly lower thanthat inthe nightime,especially in he Qinling-Daba mountainous area in southern Shaanxi,where nightime precipitation was more than double daytime precipitation.
+
+Key words:Shaanxi; warm season precipitation;diurnal variation;regional differences

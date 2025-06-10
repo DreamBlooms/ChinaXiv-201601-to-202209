@@ -1,0 +1,401 @@
+[
+    {
+        "type": "text",
+        "text": "不同天气条件下近地层风速脉动特征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "郑先念1,2,3，杨兴华2,³，何清2,³，艾力·买买提依明2,3，金莉莉2.3(1．新疆师范大学地理科学与旅游学院,新疆 乌鲁木齐830054；2．中国气象局乌鲁木齐沙漠气象研究所，新疆 乌鲁木齐830002；3．中国气象局塔克拉玛干沙漠气象野外科学试验基地,新疆 塔中841000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：利用塔克拉玛干沙漠腹地－塔中地区的风速、风向观测资料,分析晴天、沙尘暴和扬沙天气条件下不同高度平均风速、风速脉动和风向脉动特征,探讨沙尘天气对近地层风速和风向脉动的影响。结果表明： $\\textcircled{1}$ 3种天气条件下，地表 $0 . 5 \\mathrm { ~ m ~ }$ 以上各高度层的脉动风速具有较好的相关性,且相邻高度脉动风速的相关性更加显著,相关系数均大于0.68;脉动风速的波动范围与高度呈正比例关系。 $\\textcircled{2}$ 随着高度的增加,沙尘暴和扬沙天气条件下的风速脉动强度呈增大趋势，而晴天时则是先增大后减小;风速脉动强度在沙尘暴天气时最大，扬沙天气次之，晴天最小;不同天气条件下 $2 \\mathrm { ~ m ~ }$ 高度范围内风速脉动强度的增长速度大于 $2 \\sim 1 0 \\mathrm { ~ m ~ }$ 高度。 $\\textcircled{3}$ 不同天气条件下风向脉动幅度均较小,且基本不随高度的改变而变化。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：流沙地表；近地层；风速脉动；脉动强度；风向脉动；塔克拉玛干沙漠",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "风速脉动是指短时间内风速随时间的变化，是瞬时风速对平均风速的偏差。低层大气中风的运动始终具有湍流的特点，风速的大小和方向都随时间脉动,表现出一定的阵性特征[1]。风沙运动与风速脉动关系密切，研究表明风速的脉动不仅引发沙粒振动和起动[2-3],还影响沙粒的跃移轨迹[4-6],且与输沙率之间具有良好的相关关系[7-8];反之,沙粒运动亦可影响风速脉动，进而影响沙粒自身的输移[9-10]。王萍等[1]发现,风沙流的输沙率脉动特征和间歇特征明显，输沙率随风速统计量变化的规律并非仅采用平均廓线或摩阻风速就能完全描述，需要考虑风速脉动特征，尤其是脉动标准差或湍流度的影响。陈万隆等[12]发现,植被内水平风速脉动具有比裸地湍流度大、脉动强度小、短周期振动强、湍流积分尺度小的特征。胡永峰等[13]发现,古尔班通古特沙漠半固定沙垄表面的风速脉动强度具有迎风坡渐增、垄顶最大和背风坡中上部最小的变化特征，且随着距地表高度的增加风速脉动值也逐渐再增大。王雪芹等[14]分析了沙漠－绿洲过渡地带典型下垫面(裸样沙地、柽柳样地和骆驼刺样地)风速脉动特征，结果发现：3个样地脉动风速都近似服从高斯分布，风速脉动规律没有因植被的存在而发生改变。3个样地风速脉动强度都随指示风速的增大而增大，随距地表高度的增加而增加;风速脉动相对值总体上呈现随植物密度增大而增大的趋势，植物群落的结构差异会增加相对风速脉动垂直分布的复杂性；风向脉动强度也随植物密度增加而增加，但同一样地内风向脉动幅度不随指示风速的变化而发生明显改变。另基于春季大风天气的观测，对老哈河下游迎风和背风坡谷与坡顶的风速脉动特征进行了分析，加深了对风力与河谷谷坡相互作用机制的理解[15-16]。安志山等[17]以敦煌黑山嘴沙漠—绿洲过渡带为例，获取了晴天和沙尘暴天气过程中沙漠一绿洲过渡带近地表风速脉动特征，揭示了沙尘天气对近地表风速脉动的影响。毛东雷等[18]对流沙地、半固定沙地、固定沙地和绿洲内部4个下垫面平均风速、风速脉动和风向脉动特征进行了分析，探讨了风速、风向脉动差异原因。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "塔克拉玛干沙漠是我国第一大沙漠，是我国的沙尘暴中心和亚洲沙尘暴产生的重要源地[19],该地区沙尘暴扬起的沙尘以气溶胶的形态随高空西风环流远距离输送数千公里，影响范围极其广泛。鉴于此，通过野外实测塔克拉玛干沙漠腹地塔中地区不同天气条件下的风速和风向资料，获得野外实际风场条件下不同高度风速和风向的脉动特征，进一步完善了沙漠腹地风与沙粒运动的关系、防沙治沙以及风沙互馈机制等方面的研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况与研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区位于塔克拉玛干沙漠腹地塔中地区$( 8 3 ^ { \\circ } 3 9 ^ { \\prime } \\mathrm { E } , 3 8 ^ { \\circ } 5 8 ^ { \\prime } \\mathrm { N } )$ 。该地区气候极端干旱，植被稀少，地表为流沙覆盖，只在垄间地有零星的怪柳灌丛和芦苇分布。研究区年平均气温 $1 3 . 6 ~ \\mathrm { { ^ { c } C } }$ ,极端最高气温达 $4 6 . 0 \\ \\mathrm { { ^ { d } C } }$ ,极端最低气温达 $- 3 2 . 0 \\mathrm { ~ \\textdegree C }$ ;年平均降水量 $2 5 . 9 \\ \\mathrm { { \\ m m } }$ 左右，年均蒸发量高达3812.3$\\mathbf { m } \\mathbf { m }$ ;年平均风速为 $2 . 3 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,年平均大风日数为10.5d,以 NE、NNE 风向为主;年平均扬沙日数为59.6 d,年平均沙尘暴日数为 $1 5 . 8 \\mathrm { ~ d } ^ { [ 2 0 ] }$ 。图1a为塔中的地理位置，图1b为观测场的地貌，来源于GoogleEarth",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/bf2436179cf4263b2e7fd37f415e2b4a682cbde9b937c2e2ce8a563280784785.jpg",
+        "img_caption": [
+            "图1研究区位置",
+            "Fig.1Geographical location of the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "所用风速和风向资料来自于安装在平坦沙地的$1 0 \\mathrm { ~ m ~ }$ 铁塔梯度探测系统，铁塔共有5个测量梯度，高度分别为 $0 . 5 \\textrm { m } , 1 \\textrm { m } , 2 \\textrm { m } , 4 \\textrm { m }$ 和 $1 0 \\mathrm { ~ m ~ }$ 。探测要素为：水平风向和风速。其中风速仪采用芬兰VAISALA公司生产的WAA151型风速传感器，风速量程为 $0 \\sim 6 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,风杯启动风速 $\\geqslant 0 . 3 5 \\mathrm { ~ m ~ }$ ：$\\mathrm { ~ s ~ } ^ { - 1 }$ ,测量精度为 $\\pm 0 . 1 7 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ;观测的风速和风向数据有秒数据、分钟平均数据和小时平均数据。本文采用1s间隔观测的数据，分别选取了2015年5月18日16：05—16：14（地方时)沙尘暴天气时段、2015年5月20日16：11—16：20(地方时)晴天时段（作为净沙天气的数据，以便与沙尘暴和扬沙天气进行对比分析)和2015年6月21日16：05—16：14(地方时)扬沙天气时段。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "脉动风速以瞬时风速与平均风速之差表示，用以反映风速波动幅度；以脉动风速的均方根表示风速脉动强度 $\\left( u _ { v } \\right)$ ：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { v } \\ = \\ { \\sqrt { { \\frac { 1 } { n } } \\sum _ { i \\ = 1 } ^ { n } \\left( u \\ - \\ { \\bar { u } } \\right) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $u ( \\mathbf { m } \\cdot \\mathbf { s } ^ { - 1 } ) ,$ 为瞬时风速（阵风风速）; $\\bar { u } ( \\mathbf { \\nabla } _ { \\mathbf { m } } \\cdot \\mathbf { \\nabla } _ { \\mathbf { \\Gamma } }$ $\\mathrm { ~ \\bf ~ s ~ } ^ { - 1 }$ )为平均风速; $n$ 为采集风速的样本数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由上式可以看出，脉动强度实际上就是瞬时风速概率分布函数的标准差，它反映某一高度层瞬时风速波动范围的宽窄[17]。为了比较不同风速下脉动强度随高度的变化，用各高度层风速脉动的均方根与平均风速之比表示风速脉动相对值（湍流度）。风向脉动以风向与指示风向的差值来描述，表示该时段风向的变化幅度。利用Excel和SPSS20.0软件进行统计分析，利用Origion9.0进行绘图。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1不同天气条件下的脉动风速",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如图2所示，沙尘暴天气时最大风速脉动值超过 $4 . 0 \\ \\mathrm { m } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,说明风速脉动值很大,不可忽视[16]且不同高度之间具有很好的相关性，相关系数均大于0.68，相邻高度脉动风速的相关性更显著。随着高度的降低，脉动风速在时间序列上的波动均一性呈递减趋势，相关系数增大。例如， $4 \\mathrm { ~ m ~ }$ 和 $1 0 \\mathrm { ~ m ~ }$ 高度层脉动风速之间的相关性系数为0.70，而 $0 . 5 \\mathrm { ~ m ~ }$ 与 $1 0 ~ \\mathrm { ~ m ~ }$ 高度层脉动风速之间的相关系数仅为0.55。脉动风速的波动范围与高度成正比，高度越大，波动范围越大， $1 0 \\mathrm { ~ m ~ }$ 高度层脉动风速的波动范围为 $- 3 . 0 0 \\sim 4 . 0 8 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ，而 $0 . 5 \\mathrm { ~ m ~ }$ 高度层脉动风速波动范围为 $- 2 . 1 6 \\sim 3 . 7 2 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 。原因在于高度越高，气流受下垫面影响越小，风速越大，故波动范围增大。同样由概率分布图可以发现，各高度脉动风速概率分布近似符合高斯函数，风速的间歇性小，此结论与前人观测结论相同,且高度越高，概率分布拟合曲线越陡，脉动风速分布越集中（图3）。同时，结合各高度脉动风速的波动范围，可以发现高度并不能改变脉动风速的分布规律，仅改变脉动风速的波动范围和概率分布的集中性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "与沙尘暴天气条件下脉动风速分布规律相比，扬沙天气条件下脉动风速分布规律与其相似，概率分布也近似符合高斯函数，且变化规律也基本类似，如相邻高度脉动风速之间的相关性依然显著，随高度的降低，不同高度的脉动风速随时间的变化波动均一性呈递减趋势（图4)。不同点是：扬沙天气脉动风速的波动范围相对较小，如沙尘暴天气条件下$0 . 5 \\mathrm { ~ m ~ }$ 高度层脉动风速的波动范围为 $- 2 . 1 6 \\sim 3 . 7 2$ $\\mathbf { m } \\cdot \\mathbf { s } ^ { - 1 }$ ,而扬沙天气 $0 . 5 \\mathrm { ~ m ~ }$ 高度层脉动风速的波动范围仅为 $- 0 . 9 6 \\sim 1 . 8 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,这与沙尘暴天气时瞬时风速较大有关。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "晴天条件下风速脉动与沙尘天气条件下的分布规律相似，概率分布同样符合高斯分布，且在时间序列上的变化规律也与沙尘天气条件下类似，如相邻高度脉动风速之间的相关性均大于0.80。随着高度的降低，不同高度层的脉动风速在时间序列上波动均一性呈递减趋势。 $4 \\mathrm { ~ m ~ }$ 与 $1 0 \\mathrm { ~ m ~ }$ 高度层脉动的相关系数为0.80，而 $0 . 5 \\mathrm { ~ m ~ }$ 与 $1 0 \\mathrm { ~ m ~ }$ 高度层脉动风速之间的相关系数仅为0.65（图3）。与沙尘天气条件相比，沙尘暴环境下脉动风速的波动范围总体上大于晴天条件，沙尘暴天气条件下 $1 0 \\mathrm { ~ m ~ }$ 高度层脉动风速的波动范围为 $- 3 . 0 \\sim 4 . 0 8 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,而晴天条件下 $1 0 ~ \\mathrm { ~ m ~ }$ 高度层脉动风速的波动范围为$- 1 . 2 0 \\sim 2 . 1 1 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,较前者显著偏小,这与沙尘暴天气条件下风速较高有关。 $1 0 \\mathrm { ~ m ~ }$ 高度层扬沙天气条件的风速脉动波动范围为 $- 1 . \\ 1 7 \\sim 1 . 9 6 \\mathrm { ~ m ~ } ^ { . }$ $\\mathrm { ~ s ~ } ^ { - 1 }$ ,小于晴天,这是因为晴天瞬时风速随机性较强,进而增强了近地表风速脉动的随机性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2平均风速与风速脉动强度和湍流度的变化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在5月18日沙尘暴天气过程中，不同时段的风速脉动强度在 $0 . 5 \\sim 2 \\mathrm { ~ m ~ }$ 高度范围内均随高度和平均风速的增大而增大，且增加幅度最大，在 $2 \\sim 4 \\mathrm { ~ m ~ }$ 高度范围内呈减小趋势，然后在 $4 \\sim 1 0 \\mathrm { ~ m ~ }$ 范围内又呈缓慢增大趋势（表1）。总体上 $0 . 5 \\sim 1 0 \\mathrm { ~ m ~ }$ 高度范围内的风速脉动强度随高度和平均风速的增大而波动增大，仅在 $2 \\sim 1 0 \\mathrm { ~ m ~ }$ 高度层的 $1 ~ \\mathrm { m i n }$ 和 $2 ~ \\mathrm { m i n }$ 时段内随着高度和平均值的增大而减小（图5）。因为不同高度间风速增加的幅度不同，使得不同高度间风速脉动强度变化趋势不同。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f36d520b87abfd8eeed10e355826afcb34a28c90388c95530e3d9866be82b09.jpg",
+        "img_caption": [
+            "图2沙尘暴天气下风速脉动"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/301df1c1f1a438a2a78973a61a89cef2cb867e843bbf499bd0904ca588c976fb.jpg",
+        "img_caption": [
+            "Fig.2Wind speed fluctuation during sandstorm ",
+            "图3晴天天气下风速脉动"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/25fa955dd42e0519bbf258672ad3b4fb233fb8e644da95f0f076622059047e84.jpg",
+        "img_caption": [
+            "Fig.3Wind speed fluctuation on sunny day ",
+            "图4扬沙天气下风速脉动",
+            "Fig.4Wind speed fluctuation during blowing sand weather "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "与沙尘暴天气相似，6月21日的扬沙天气过程中不同时段的风速脉动强度随着高度和平均风速的增加均呈波动增大趋势（表2），除 $1 ~ \\mathrm { m i n }$ 与 $2 ~ \\mathrm { m i n }$ 时段外其他时段在 $0 . 5 \\sim 2 \\mathrm { ~ m ~ }$ 高的范围内呈增大趋势且增幅最大，而在 $2 \\sim 4 \\mathrm { ~ m ~ }$ 高的范围呈减小趋势，在$4 \\sim 1 0 \\mathrm { ~ m ~ }$ 范围内又呈缓慢增大趋势(图6)。但两者之间也存在差异，如沙尘暴天气条件下脉动强度明显高于扬沙天气;在 $1 ~ \\mathrm { m i n }$ 和 $2 \\ \\mathrm { m i n }$ 时段内，扬沙天气条件下的风速脉动强度随高度的升高呈波动增长趋势。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从表3可以看出，晴天条件下的风速脉动强度在 $1 ~ \\mathrm { m i n }$ 时段内，在 $0 . 5 \\sim 2 \\mathrm { ~ m ~ }$ 高度范围内增大、在$2 \\sim 1 0 \\mathrm { ~ m ~ }$ 间高度逐渐减小的趋势，而其他时段的风速脉动强度在 $0 . 5 \\sim 1 0 \\mathrm { ~ m ~ }$ 高度与沙尘暴、扬沙天气相似，均随着高度和平均风速的增大而增大（图7）。除此还有以下差异：如风速脉动强度沙尘暴最大，晴天比扬沙大；不同时间段沙尘天气的风速脉动强度均在 $2 \\mathrm { ~ m ~ }$ 和 $4 \\mathrm { ~ m ~ }$ 高度时出现转折，晴天是在 $4 \\mathrm { ~ m ~ }$ 达到最大值并出现转折。不同天气条件下相同高度的风速均值在不同时段大小不同，时段越长，均值越小，如在沙尘暴天气条件下同为 $2 \\mathrm { ~ m ~ }$ 高度， $1 ~ \\mathrm { m i n }$ 时段的平均风速为 $7 . 9 3 \\ \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ，到 $4 ~ \\mathrm { m i n }$ 时段为7.20$\\mathbf { m } \\cdot \\mathbf { s } ^ { - 1 }$ ，到 $1 0 ~ \\mathrm { m i n }$ 时段为 $7 . 3 1 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,由此可以初步证明计算平均风速的时间段越小，算出的输沙率越精确。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从表1、表2和表3可以看出，沙尘暴天气条件下不同时间段的湍流度为 $0 . 0 9 \\sim 0 . 2 5$ ,变化范围相对较小;扬沙天气条件下湍流度为 $0 . 0 7 \\sim 0 . 2 0$ ，变化范围小于沙尘暴天气；晴天不同时段不同高度的湍流度为 $0 . 1 2 \\sim 0 . 3 7$ ,大于沙尘天气。不同天气条件下不同时段的阵性度随高度、平均风速总体上呈先增后减最后趋于稳定的变化趋势。另外，同一时段各高度层间的差距不大，这也充分验证了各高度风速波动的均一性、脉动频率的一致性特点。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5b058a63be1e506b810cd00d22d978a85485684bf44cf73e09dda79a3b466f73.jpg",
+        "table_caption": [
+            "Tab.1Variation of theaverage wind velocity，fluctuation intensityand turbulence intensityat diferent heights with the time during sandstorm ",
+            "表2扬沙天气下不同高度平均风速、脉动强度和湍流度随时间的变化"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">时间 /min</td><td colspan=\"5\">平均风速/(m·s-1)</td><td colspan=\"5\">脉动强度/(m·s-1)</td><td colspan=\"5\">湍流度</td></tr><tr><td>0.5m</td><td>1m</td><td>2m</td><td>4m</td><td>10m</td><td>0.5m</td><td>1m</td><td>2m</td><td>4m</td><td>10m</td><td>0.5m</td><td>1m</td><td>2m</td><td>4m</td><td>10m</td></tr><tr><td>1</td><td>5.98</td><td>6.03</td><td>7.93</td><td>9.09</td><td>10.00</td><td>1.10</td><td>1.31</td><td>1.44</td><td>0.97</td><td>0.93</td><td>0.18</td><td>0.22</td><td>0.18</td><td>0.11</td><td>0.09</td></tr><tr><td>2</td><td>6.02</td><td>6.17</td><td>8.08</td><td>9.54</td><td>10.37</td><td>1.03</td><td>1.28</td><td>1.35</td><td>1.02</td><td>0.99</td><td>0.17</td><td>0.21</td><td>0.17</td><td>0.11</td><td>0.10</td></tr><tr><td>3</td><td>5.51</td><td>5.67</td><td>7.54</td><td>9.10</td><td>9.89</td><td>1.19</td><td>1.38</td><td>1.49</td><td>1.13</td><td>1.23</td><td>0.22</td><td>0.24</td><td>0.20</td><td>0.12</td><td>0.12</td></tr><tr><td>4</td><td>5.23</td><td>5.39</td><td>7.20</td><td>8.63</td><td>9.37</td><td>1.17</td><td>1.31</td><td>1.48</td><td>1.31</td><td>1.45</td><td>0.22</td><td>0.24</td><td>0.21</td><td>0.15</td><td>0.16</td></tr><tr><td>5</td><td>5.10</td><td>5.29</td><td>7.14</td><td>8.57</td><td>9.25</td><td>1. 15</td><td>1.27</td><td>1.47</td><td>1.32</td><td>1.51</td><td>0.23</td><td>0.24</td><td>0.21</td><td>0.15</td><td>0.16</td></tr><tr><td>6</td><td>4.95</td><td>5.12</td><td>6.96</td><td>8.42</td><td>9.12</td><td>1.14</td><td>1.26</td><td>1.44</td><td>1.31</td><td>1.46</td><td>0.23</td><td>0.25</td><td>0.21</td><td>0.16</td><td>0.16</td></tr><tr><td>7</td><td>4.98</td><td>5.14</td><td>7.00</td><td>8.34</td><td>9.08</td><td>1.11</td><td>1.21</td><td>1.42</td><td>1.30</td><td>1.46</td><td>0.22</td><td>0.24</td><td>0.20</td><td>0.16</td><td>0.16</td></tr><tr><td>8</td><td>5.05</td><td>5.21</td><td>7.09</td><td>8.35</td><td>9.09</td><td>1.08</td><td>1.16</td><td>1.39</td><td>1.25</td><td>1.39</td><td>0.21</td><td>0.22</td><td>0.20</td><td>0.15</td><td>0.15</td></tr><tr><td>9</td><td>5.13</td><td>5.32</td><td>7.25</td><td>8.42</td><td>9.17</td><td>1.10</td><td>1.18</td><td>1.45</td><td>1.25</td><td>1.39</td><td>0.21</td><td>0.22</td><td>0.20</td><td>0.15</td><td>0.15</td></tr><tr><td>10</td><td>5.15</td><td>5.35</td><td>7.31</td><td>8.41</td><td>9.15</td><td>1.06</td><td>1.13</td><td>1.40</td><td>1.21</td><td>1.36</td><td>0.21</td><td>0.21</td><td>0.19</td><td>0.14</td><td>0.15</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/1779ceb38328f6c8185d2c95eed9e5331f131da7dd902bb349442c36e1dfec4d.jpg",
+        "table_caption": [
+            "表1沙尘暴天气下不同高度平均风速、脉动强度和湍流度随时间的变化",
+            "Tab.2Variationof the average wind velocity，fluctuation intensityand turbulence intensityat diferent heights with the time during blowing sand weather "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">时间 /min</td><td colspan=\"5\">平均风速/(m·s-1)</td><td colspan=\"5\">脉动强度/(m·s-1)</td><td colspan=\"5\">湍流度</td></tr><tr><td>0.5m</td><td>1m</td><td>2m</td><td>4m</td><td>10m</td><td>0.5m</td><td>1m</td><td>2m</td><td>4m</td><td>10m</td><td>0.5m</td><td>1 m</td><td>2m</td><td>4 m</td><td>10m</td></tr><tr><td>1</td><td>2.84</td><td>3.02</td><td>3.59</td><td>3.85</td><td>4.41</td><td>0.41</td><td>0.37</td><td>0.38</td><td>0.29</td><td>0.31</td><td>0.14</td><td>0.12</td><td>0.11</td><td>0.08</td><td>0.07</td></tr><tr><td>2</td><td>2.65</td><td>2.90</td><td>3.46</td><td>3.73</td><td>4.09</td><td>0.43</td><td>0.40</td><td>0.43</td><td>0.38</td><td>0.55</td><td>0.16</td><td>0.14</td><td>0.12</td><td>0.10</td><td>0.13</td></tr><tr><td>3</td><td>2.44</td><td>2.66</td><td>3.14</td><td>3.41</td><td>3.77</td><td>0.49</td><td>0.50</td><td>0.61</td><td>0.59</td><td>0.66</td><td>0.20</td><td>0.19</td><td>0.20</td><td>0.17</td><td>0.18</td></tr><tr><td>4</td><td>2.44</td><td>2.65</td><td>3.13</td><td>3.43</td><td>3.69</td><td>0.50</td><td>0.50</td><td>0.60</td><td>0.55</td><td>0.61</td><td>0.20</td><td>0.19</td><td>0.19</td><td>0.16</td><td>0.17</td></tr><tr><td>5</td><td>2.45</td><td>2.63</td><td>3.10</td><td>3.37</td><td>3.61</td><td>0.46</td><td>0.46</td><td>0.55</td><td>0.53</td><td>0.59</td><td>0.19</td><td>0.18</td><td>0.18</td><td>0.16</td><td>0.16</td></tr><tr><td>6</td><td>2.47</td><td>2.65</td><td>3.10</td><td>3.38</td><td>3.60</td><td>0.44</td><td>0.44</td><td>0.51</td><td>0.49</td><td>0.56</td><td>0.18</td><td>0.17</td><td>0.17</td><td>0.15</td><td>0.16</td></tr><tr><td>7</td><td>2.42</td><td>2.59</td><td>3.03</td><td>3.31</td><td>3.51</td><td>0.44</td><td>0.44</td><td>0.53</td><td>0.50</td><td>0.58</td><td>0.18</td><td>0.17</td><td>0.17</td><td>0.15</td><td>0.17</td></tr><tr><td>8</td><td>2.37</td><td>2.54</td><td>2.97</td><td>3.25</td><td>3.45</td><td>0.45</td><td>0.45</td><td>0.54</td><td>0.51</td><td>0.58</td><td>0.19</td><td>0.18</td><td>0.18</td><td>0.16</td><td>0.17</td></tr><tr><td>9</td><td>2.43</td><td>2.60</td><td>3.03</td><td>3.31</td><td>3.51</td><td>0.49</td><td>0.49</td><td>0.57</td><td>0.56</td><td>0.59</td><td>0.20</td><td>0.19</td><td>0.19</td><td>0.17</td><td>0.17</td></tr><tr><td>10</td><td>2.39</td><td>2.56</td><td>3.00</td><td>3.27</td><td>3.46</td><td>0.49</td><td>0.48</td><td>0.56</td><td>0.55</td><td>0.59</td><td>0.20</td><td>0.19</td><td>0.19</td><td>0.17</td><td>0.17</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/97c151a4db11acfc3638f36a35a45800299f3e88ba4fe4c14b41f43f6b223b57.jpg",
+        "table_caption": [
+            "表3晴天天气下不同高度平均风速、脉动强度和湍流度随时间的变化",
+            "Tab.3Variation of theaverage wind velocity,fluctuation intensityand turbulence intensityat diferent heights with the time on sunny day "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">时间 /min</td><td colspan=\"5\">平均风速/(m·s-1)</td><td colspan=\"5\">脉动强度/(m·s-1)</td><td colspan=\"5\">湍流度</td></tr><tr><td>0.5m</td><td>1m</td><td>2m</td><td>4m</td><td>10m</td><td>0.5m</td><td>1m</td><td>2m</td><td>4m</td><td>10m</td><td>0.5m</td><td>1m</td><td>2m</td><td>4m</td><td>10 m</td></tr><tr><td>1</td><td>1.76</td><td>1.84</td><td>2.26</td><td>2.39</td><td>2.55</td><td>0.35</td><td>0.40</td><td>0.50</td><td>0.45</td><td>0.31</td><td>0.20</td><td>0.21</td><td>0.22</td><td>0.19</td><td>0.12</td></tr><tr><td>2</td><td>1.84</td><td>1.88</td><td>2.26</td><td>2.50</td><td>2.72</td><td>0.36</td><td>0.39</td><td>0.38</td><td>0.44</td><td>0.47</td><td>0.19</td><td>0.21</td><td>0.17</td><td>0.18</td><td>0.17</td></tr><tr><td>3</td><td>2.07</td><td>2.12</td><td>2.44</td><td>2.72</td><td>2.95</td><td>0.50</td><td>0.54</td><td>0.53</td><td>0.53</td><td>0.58</td><td>0.24</td><td>0.25</td><td>0.22</td><td>0.19</td><td>0.20</td></tr><tr><td>4</td><td>2.12</td><td>2.18</td><td>2.56</td><td>2.82</td><td>2.97</td><td>0.47</td><td>0.50</td><td>0.55</td><td>0.59</td><td>0.62</td><td>0.22</td><td>0.23</td><td>0.22</td><td>0.21</td><td>0.21</td></tr><tr><td>5</td><td>1.99</td><td>2.06</td><td>2.41</td><td>2.66</td><td>2.81</td><td>0.52</td><td>0.54</td><td>0.60</td><td>0.64</td><td>0.65</td><td>0.26</td><td>0.26</td><td>0.25</td><td>0.24</td><td>0.23</td></tr><tr><td>6</td><td>1.86</td><td>1.92</td><td>2.24</td><td>2.51</td><td>2.70</td><td>0.57</td><td>0.60</td><td>0.68</td><td>0.69</td><td>0.65</td><td>0.26</td><td>0.26</td><td>0.25</td><td>0.24</td><td>0.23</td></tr><tr><td>7</td><td>1.75</td><td>1.81</td><td>2.11</td><td>2.36</td><td>2.57</td><td>0.60</td><td>0.64</td><td>0.72</td><td>0.74</td><td>0.68</td><td>0.31</td><td>0.31</td><td>0.30</td><td>0.27</td><td>0.24</td></tr><tr><td>8</td><td>1.71</td><td>1.79</td><td>2.08</td><td>2.31</td><td>2.47</td><td>0.59</td><td>0.63</td><td>0.70</td><td>0.72</td><td>0.70</td><td>0.34</td><td>0.35</td><td>0.34</td><td>0.31</td><td>0.27</td></tr><tr><td>9</td><td>1. 65</td><td>1.73</td><td>2.01</td><td>2.23</td><td>2.40</td><td>0.59</td><td>0.63</td><td>0.71</td><td>0.73</td><td>0.69</td><td>0.35</td><td>0.35</td><td>0.34</td><td>0.31</td><td>0.28</td></tr><tr><td>10</td><td>1.64</td><td>1.70</td><td>1.97</td><td>2.18</td><td>2.34</td><td>0.59</td><td>0.63</td><td>0.70</td><td>0.73</td><td>0.69</td><td>0.36</td><td>0.37</td><td>0.36</td><td>0.33</td><td>0.29</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/471a263ba0a92da67bd2cd7478f271fdbe32c505f16316ac3a4dcb50ee1acba5.jpg",
+        "img_caption": [
+            "图55月18日不同时段脉动强度与高度间的特征Fig.5Fluctuation intensities and heights in differentperiods on May 18"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e6a36a72a7c913452ab80b65725dd91a7ef1aeb9495793c320ea3586bdc38fe9.jpg",
+        "img_caption": [
+            "图66月21日不同时段脉动强度与高度间的特征 Fig.6Fluctuation intensities and heights in different periods on June 21 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3bdd0845e32f69f35a437d9288c84b75d6eaa8fa6960671e1dae00446b0eebd5.jpg",
+        "img_caption": [
+            "图75月20日不同时段脉动强度与高度间的特征Fig.7Fluctuation intensities and heights in differentperiods on May 20"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 风向脉动",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于湍流与地面起伏的共同作用，使得气流在发生风速脉动的同时，风向也发生明显的变化。选取沙尘暴与晴天条件下 $2 \\mathrm { ~ m ~ }$ 和 $1 0 \\mathrm { ~ m ~ }$ 高度的风向数据进行风向脉动特征分析。总体上看，沙尘暴和晴天条件下同时段不同高度间的风向脉动在时间序列上一致性较好，两种天气条件下的相关系数分别为0.64、0.77，说明风向的脉动仅与下垫面状况有关，与高度变化关系较小。风向脉动的波动范围沙尘暴天气小于晴天（图8），这与晴天条件下风多为局地阵性，且受到湍流影响有关。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e0940bbd881f6fa7e92b638b5ee121ad6e422358dcff3c6356f347bd426f6ba.jpg",
+        "img_caption": [
+            "图8晴天与沙尘暴天气下风向脉动",
+            "Fig.8Wind direction fluctuations on sunny day and during sandstorm "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论与结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过对塔克拉玛十沙漠腹地塔中地区流沙地表的风速脉动特征分析发现，在风速脉动强度方面，晴天条件下的脉动强度在所选时段的 $2 \\mathrm { ~ m ~ }$ 高度范围内达到最大值， $2 \\sim 1 0 \\mathrm { ~ m ~ }$ 高度呈减小趋势，而沙尘天气随高度的增加则呈波动增大,这与毛东雷等[18]在塔克拉玛干沙漠南缘分析得出的随距离地表高度的增大，风速脉动强度呈现先增大后减小的趋势，风速脉动相对值呈减小的趋势的结果不同。笔者认为，这一方面是由于所选的天气条件不同而引起的，本文选取沙尘暴、扬沙和晴天3种天气进行分析，而毛东雷等仅选取了扬沙天气的数据。另一方面二者研究区下垫面不同，本文研究区的下垫面为无植被覆盖的平坦流沙地表，而毛东雷等所选的流沙观测点周边有平均高度为 $2 . 0 \\sim 3 . 5 \\mathrm { ~ m ~ }$ 的稀疏怪柳沙堆。本文研究结果与尚河英[19]等在戈壁的研究结果也不同，这与二者所选研究高度不同有关，尚河英等选取的是 $2 \\mathrm { ~ m ~ }$ 高度的数据，而本文所选则是 $1 0 \\mathrm { ~ m ~ }$ 高度范围的数据。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "今后需要进一步探究分析的问题是扬沙天气的$1 ~ \\mathrm { m i n }$ 和晴天的 $2 ~ \\mathrm { m i n }$ 风速脉动强度与其他高度在同时段变化趋势不同等问题。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）在距地表 $0 . 5 \\mathrm { ~ m ~ }$ 以上，各高度层脉动风速在时间序列上的波动具有均一性和较好的相关性，且相邻高度层脉动风速的相关性更加显著，相关系数均大于0.68；脉动风速的波动范围与高度成正比，高度越高，脉动风速的波动范围越大，高度越低，脉动风速的波动范围越小。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）沙尘天气条件下的风速脉动强度基本一致，随高度的增加呈波动增大，而晴天的风速脉动则是随高度的增加先增后减；风速脉动强度符合沙尘暴天气大于晴天，晴天大于扬沙天气的分布规律。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）3种天气条件的风速脉动的阵性度都比较小，符合沙尘暴天气大于扬沙天气、扬沙天气大于晴天天气的分布规律；不同天气条件下不同时段的阵性度随高度、平均风速总体上呈先增大后减小最后趋于稳定的变化趋势，且同一时段各高度层间的差距不大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（4）同一天气条件不同高度的风向脉动高度相关，不同天气条件下风向脉动的变化幅度不随风速的变化而发生显著变化，说明近地层风向脉动和下垫面相关，与风速和高度的相关性较小。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）:",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] 吴正.风沙地貌与治沙工程程学[M].北京：科学出版社， 2003:16-21.[Wu Zheng.Science of Aeolian Morphology and Sand Prevention Engineering[M].Beijing: Science Press,2003： 16 -21.]   \n[2] Bisal，F,NielsenKF.Movement of soil particles in saltation[J]. Revue Canadienne DeLa ScienceDu Sol,1962,42(1):81-86.   \n[3] Lyles L,Krauss R K.Threshold velocities and initial particle motion as influenced by air turbulence[J].Transactions of the ASAE,1971,14(10):584.   \n[4]邢茂,郭烈锦.紊流风场中起跳沙粒的轨迹特征[J].中国沙 漠,2003,23(6）:25-28.[Xing Mao,Guo Liejin.The trajectory characteristics of jumped sand particles in turbulent air flow[J]. Journal of Desert Research,2003,23(6）:628 -631.]   \n[5]Anderson R S.Eolian sediment transport as a stochastic process ; The effects of a fluctuating wind on particle trajectories[J]. Journal of Geology,1987,95(4) :497 -512.   \n[6]闫光虎,武建军.脉动风场下风沙流结构的数值模拟[J].中国 沙漠,2011,31(3）:602-606.[Yan Guanghu,Wu Jianjun.Numerical simulation on windblown sand cloud in the fluctuating wind field[J]. Journal of Desert Research,2011,31(3）:602 -606.]   \n[7]Buterfield G R. Transitional behavior of saltation :Wind tunnel observation of unsteady wind[J]. Journal of Envionments,1998,39 (3):377 -394.   \n[8]张克存,屈建军,董治宝,等.风沙流中风速脉动对输沙量的影 响[J].中国沙漠,2006,26(3）:336-340.[Zhang Kecun,Qu Jianjun,Dong Zhibao,et al.Effect of wind speed fluctuation on sand transport rate[J]. Journal of Desert Research,2006,26(3）: 336 -340.]   \n[9]李振山,倪晋仁.风沙流中风速脉动的实验测量[J].应用基础 与工程科学学报,2003（4）:352-360.[Li Zhenshan,Ni Jinren. Experimental measurement of air flow velocity fluctuation of windsand flux[J]. Journal of Basic Science and Engineering,2003,11 (4) :352 -360.]   \n[10］包慧娟,李振山.风沙流中风速纵向脉动的实验研究[J].中国 沙漠,2004,24(2）:132-135.[Bao Huijuan,Li Zhenshan.Longitudinal intensity of airflow turbulence with sand grain saltation in a wind tunnel[J].Journal of Desert Research,2004,24（2）： 244 - 247. ]   \n[11］王萍,郑晓静.野外近地表风沙流脉动特征分析[J].中国沙 漠,2013,33（6）:1 622-1 628.[Wang Ping,Zheng Xiaojing. Fluctuating of wind-blown sand flux in filed wind condition[J]. Journal of Desert Research,2013,33(6):1 622-1 628.]   \n[12]陈万隆,翁笃呜,丁裕国,等.植被内水平风速脉动特征[J].南 京气象学院学报,1981（1）:57-56.[Chen Wanlong,Weng Duming,Ding Yuguo,et al.Characters of pulsation of horizontal wind in a crop field[J].Journal of Nanjing Institute of Meteorology,1981(1) :57 -56.]   \n[13］胡永锋,王雪芹,郭洪旭,等.古尔班通古特沙漠半固定沙垄表 面风的脉动特征[J].中国沙漠,2011,31（2)：393-399.[Hu Yongfeng,Wang Xueqin,Guo Hongxu,et al.Wind fluctuation over semi-fixed longitudinal dune in Gurbantunggut Desert[J]. Journal of Desert Research,2011,31(2）:393-399.]   \n[14]杨林,韩广，杨济,等.大风天气老哈河下游迎风侧谷坡的风速 脉动特征[J].中国沙漠,2014,34（6）:1 469-1 474.[Yang Lin,Han Guang,Yang Ji,et al.Characteristics of wind velocity fluctuation on the intensive windy days at windward slope of the downstream of the Laoha River[J]. Journal of Desert Research, 2014,34(6) :1 469 -1 474.]   \n[15]杨林,韩广,胡孟春，等.老哈河下游背风侧谷坡的风速脉动特 征[J].干旱区研究,2015,32（3）:579-584.[Yang Lin,Han Guang,Hu mengchun,et al.Wind velocity fluctuation characteristics at valley slope of the lee side in the downstream of the Laoha River[J].Arid Zone Research,2015,32(3）:579-584.]   \n[16]王雪芹,杨东亮,马洋,等.沙漠-绿洲过渡带典型下垫面风速 脉动特征——以塔克拉玛干沙漠南缘策勒绿洲为例[J].中国 沙漠,2015,35(3）:542-548.[Wang Xueqin,Yang Dongliang, Ma Yang,et al. Wind fluctuation over three typical ground surfaces in desert-oasis ecotone:A case at the southern rim of the Taklimakan Desert[J]. Journal of Desert Research,2015,35(3）:1-7.]   \n[17］安志山,张克存,谭立海,等.晴天和沙尘天气下沙漠绿洲过渡 带近地表风速脉动特征[J].中国沙漠,2017,37（3）：414- 420.[An Zhishang,Zhang Kechun,Tan Lihai,et al. The wind speed fluctuation over the desert-oasis ecotone during sunny and duststorm weather processes[J]. Journal of Desert Research, 2017,35(3) :414 -420.]   \n[18］毛东雷,蔡富艳,杨余辉,等.新疆策勒4个典型下垫面近地层 风速脉动特征[J].干旱区研究,2017,34（1)：126-135.[Mao Donglei,Cai Fuyan,Yang Yuhui,et al.Wind speed fluctuation near ground surface over four typical underlying surfaces in Qira, Xinjiang[J].Arid Zone Research,2017,34(1):126-135.]   \n[19］尚河英,尹忠东,张鹏,等.戈壁地表野外风速脉动特征[J].南 京林业大学学报（自然科学版）,2017,41（1)：123－128. [Shang Heying,Yin Zhongdong,Zhang Peng,et al. Characteristics of wind velocity fluctuation over Gobi underlying surface[J].Journal of Nanjing Forestry University（Natural Sciences Edition）, 2017,41(1) :123-128.]   \n[20]何清,杨兴华,艾力·买买提明,等.塔克拉玛干沙漠风蚀起沙 观测研究——试验介绍与观测结果初报[J].中国沙漠,2011， 31(2）:315-322.[He Qing,Yang Xinghua,Ali Mamtimin,et al. Observation of dust emission by wind erosion in Takalimakan Desert[J].Journal of Desert Research,2011,31(2）:315-322.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Wind Speed Fluctuation near the Ground Surface over the Hinterland of the Taklimakan Desert under Different Weathers ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ZHENG Xian-nan23，YANGXingua3，HEQing²，Elmaiti $^ { 2 , 3 }$ ， JIN Li-li $^ { 2 , 3 }$ （ (1.Collage of Geographical Science and Tourism,Xinjiang Normal University,Urumqi 830o54,Xinjiang,China; 2.Institute Desert Meteorology,China Meteorological Administration,Urumqi 830002,Xinjiang,China; ．TaklimakanDesertAtmosphereandEnvironmentObservingandExperimental Station,Tazhong841o,Xinjiang,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract：This study was based on the field observationand meteorological data at Tazhong in the Taklimakan Desert.The purposes of the study were to investigate the characteristics of wind velocity fluctuation over the quicksand surface in the desert hinterland,analyze the average wind speed and wind direction fluctuation on sunny day， in sandstorm and under blowing sand weather,and lucubrate the efects of sandstorm on the wind speed and wind direction fluctuation near the ground surface. The results are as follows : $\\textcircled{1}$ There was a good correlation of wind speed fluctuation at different heights higher than $0 . 5 \\mathrm { ~ m ~ }$ from the ground surface,especially there was a significant correlation of wind speed between theadjacent heights,and the correlation coefficient was higher than O.68.The wind speed fluctuation range was proportional to the height ; $\\textcircled{2}$ With the increase of height from the ground surface, the intensity of wind speed fluctuation was in an increase trend in sandstorm and under blowing sand weather,but it was increased at first and then decreased on sunny day.The increase of wind speed fluctuation intensity within $2 \\textrm { - }$ m height was higher than that at height range of $2 - 1 0 \\mathrm { ~ m ~ }$ under different weather conditions ; $\\textcircled{3}$ The wind direction fluctuation under different weather conditions was low and did not basically change with the height. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key Words:quicksand surface；airlayer near ground surface；wind speed fluctuation；fluctuation intensity；wind direction fluctuation；Taklimakan Desert ",
+        "page_idx": 7
+    }
+]

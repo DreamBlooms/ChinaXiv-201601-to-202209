@@ -1,0 +1,328 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "雌性生殖干细胞全基因组范围选择性多聚腺苷酸化位点分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "沈挺挺1，张晓丽²，张盼，康亚妮²，田静，赵小东²  \n上海交通大学'系统生物医学教育部重点实验室,生物医学工程学院Bio-ID研究中心,上海 200240;西北大  \n学生命科学学院,陕西 西安 710069",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的 描绘小鼠雌性生殖干细胞(FGSCs)和胚胎干细胞(ESCs)全基因组范围内选择性多聚腺苷酸化(APA)位点,通过细胞间的比较，分析生殖干细胞特异性的APA位点对其生物学特性的影响。方法 利用本实验室之前建立的基于高通量测序的转录本3'末端poly(A)位点捕获方法3T-seq确定并比较两个细胞系中所有APA位点，通过DAVID对具有APA位点差异的基因进行Gene Ontology分析。结果 在两种细胞系中共确定16973个基因的50243个APA位点,发现FGSCs中相较于ESCs 3'UTR发生长度变化的基因1148个，其中795个( $6 6 \\%$ )3'UTR变短，353个（ $34 \\%$ )基因3'UTR变长，与生殖发育密切相关的基因3'UTR存在显著的缩短现象。结论FGSCs存在与ESCs不同的APA谱,APA介导的3'UTR变化参与生殖发育相关的生物学过程，揭示了生殖干细胞的基因转录后调控机制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：雌性生殖干细胞;小鼠胚胎干细胞;全基因组APA谱 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Genome-wide profiling of alternative polyadenylation in mouse female germline stem cells ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SHEN Tingting1, ZHANG Xiaoli², ZHANG Pan³,KANG Yani², TIAN Jing?,ZHAO Xiaodong²   \nShanghaiCenterofSystemsBiomedicineKeyLboratoryfSystemsBomedicineofMinistryofEducationSchoolofiomedicine EngineeringdeseacnteragiJtongesityagin;holofifeience,t University,Xi'an710069,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective To perform a genome-wide alternative polyadenylation (APA) profilingin both mouse female germline stemcells(FGSCs)and embryonic stem cells (ESCs)and explore theroleof germline-specific APAin thebiological behaviors of FGSCs. Methods We used a high-throughput sequencing-based method 3T-Seq to profile the genome-wide $3 ^ { \\prime }$ termini of the transcripts and delineate allthe APA sites in mouse FGSCsand ESCs.The genes with altered APA sites inFGSCscompared withESCs wereanalyzed with DAVIDGeneOntology tolfor theirbiologicalroles.Results Weidentifiedatotalof50243 APA sites in 16973 genes. InFGSCs,1148 genes were shown to have alterations in 3'UTR length,among which 795 ( $6 6 \\%$ geneshad shortened and 353 $( 3 4 \\%$ )had lengthened 3'UTR. Some of the genes with shortened 3'UTR were involved in germ cell development.ConclusionsOur genome-wide APA profiling analysis reveals acel type-specificAPA alternation inFGSCsand APA-mediated3'UTR alteration contributestogermline-related biological process.Thisstudy providesaframework for understanding the post-transcriptional regulation mechanisms in FGSCs. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: female germline stem cells; embryonic stem cells; genome-wide APA profiling ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "选择性多聚腺苷化(APA)是一类很重要的基因转录后表达调控方式，通过调节转录本3'非翻译区(3untranslatedregion,UTR)的长度来影响包括mRNA的稳定性、亚细胞定位和翻译效率等在内的多个生物学过程[-3]。APA在生物体生长发育和疾病发生发展过程中受到高度有序的调控[45]。在发育生物学领域,全基因组范围内的APA谱表现出细胞类型特异性：在多能性的胚胎干细胞中，基因倾向于选取近端的多聚腺苷酸位点(PAS)而产生更短的3'UTR来维持干细胞特性;而终端分化细胞更多取用远端PAS[67]；由APA调控的3'UTR的长短也呈现发育阶段性：小鼠胚胎发育伴随着全局3UTR的逐步增长[4；果蝇胚胎发育过程中的3'UTR变化趋势与之相似8；而斑马鱼的胚胎发育中mRNA的3'UTR呈现\"V\"字形的动态变化，在合子形成后基因组被活化表达的短时间内3'UTR缩短，之后迅速变长，且伴随着3'UTR多样性的由丰到简[9]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "小鼠雌性生殖十细胞(mFGSCs)是一类单能性成体干细胞,能在保持自我更新同时定向分化为卵细胞[10-12]，是生殖医学和干细胞研究领域的重要研究对象。虽然从小鼠体内成功分离并建立细胞系[，但FGSCs的分子生物学研究目前仍处于起步阶段，其分子水平上的调控机理至今尚不清晰。APA所产生的不同3'UTR作为一种重要的表观遗传调控手段在生殖干细胞中所发挥的作用也未被深入研究。本文应用本实验室建立的基于高通量测序的3'端poly(A)位点捕获技术3T-seq[13],在全基因组范围内分别对小鼠雌性生殖干细胞和胚胎干细胞(ESCs)APA谱图进行了分析比较，以探讨该转录后修饰对FGSCs特性的影响，为进一步丰富和完善生殖干细胞分子生物学研究提供新的内容。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 材料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 细胞培养 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "小鼠雌性生殖干细胞(由上海交通大学吴际教授惠赠),小鼠胚胎干细胞J1均培养于用 $0 . 1 \\%$ 明胶包被的6孔板培养皿(Corning),FGSC培养基为MEM- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ (Gibco),含有终浓度为 $10 \\%$ 胎牛血清(Gibco)，1mmol/L丙酮酸钠,1mmol/L非必需氨基酸(Gibco),1mmol/LL-谷氨酰胺， $0 . 1 \\mathrm { m m o l } \\mathrm { / L } \\mathrm { \\beta }$ 巯基乙醇， $2 0 \\mathrm { n g / m L }$ LIF(Peprotech）,$1 0 \\mathrm { \\ n g / m L }$ 的EGF（Peprotech）， $1 0 ~ \\mathrm { \\ n g / m L }$ GDNF(Peprotech), $1 0 ~ \\mathrm { \\mathrm { n g / m L } }$ bFGF(Peprotech);ESC培养基为：高糖型DMEM(Gibco) $, 1 5 \\%$ 胎牛血清 $\\ 、 1 0 0 \\ \\mathrm { U / m L }$ 青链霉素(Gibco) $\\ 、 1 0 0 0 \\mathrm { U / m L }$ LIF(Chemicon) $\\mathrm { . 0 . 1 \\ m m o l { L } }$ $\\beta$ 巯基乙醇、 $1 \\%$ 非必需氨基酸；新鲜配制的培养基用$0 . 2 2 ~ { \\mu \\mathrm { m } }$ 的滤器(Millipore)过滤后 $4 \\mathrm { { ^ { \\circ } C } }$ 保存。细胞培养置于 $5 \\%$ $\\% \\mathrm { C O } _ { 2 } , 3 7 \\ \\mathrm { ^ { \\circ } C }$ 培养箱培养，每2d更换培养基。细胞生长至 $80 \\% { \\sim } 9 0 \\%$ 密度时，以1:2\\~3的比例传代，经 $3 \\sim$ 4代收集细胞用于提取总RNA。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2细胞总RNA的提取 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将生长状况良好的细胞弃去培养基，用PBS洗1次,每个6孔板加入1mLTrizol regent(Invitrogen)收集细胞，反复吹打使贴壁细胞破碎溶于Trizol后转移至新的RNase-free的 $1 . 5 ~ \\mathrm { m L }$ 离心管中，用于立即抽提总RNA或者冻于 $- 8 0 \\mathrm { { ^ { \\circ } C } }$ 保存。总RNA抽提参照试剂盒说明书，RNA沉淀溶于RNaseFree水（Invitrogen）,用Nanodrop2000(Thermo)定量并在 $1 . 5 \\%$ 琼脂糖凝胶中检验RNA完整度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.33T-seq文库构建 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文库构建参照本实验室之前报道的方法[13]，简单来说： $5 0 ~ { \\mu \\mathrm { g } }$ 总RNA与预先包被了带生物素(Biotin)修饰的反转录引物GsuI-Oligo $\\left( \\mathrm { d T } \\right) _ { 2 0 }$ 的链霉亲和素磁珠M-280(Invitrogen)孵育,在Super Script II (Invitrogen)反转录酶的作用下,用含有5-methylated-dCTP的dNTPMix合成第1链cDNA,5m-dCTP封闭新合成的一链cDNA内部GsuI的识别和切割位点;经过二链合成后在磁珠上将双链cDNA用片段化酶(NEB)随机打断为200\\~400bp，只留下与磁珠相连的近3'端的DNA标签片段，用GsuI(Fermentas)来酶切释放。纯化后将3'UTR标签文库末端补平和3'端加A,连接Illumina公司的P5/P7测序接头，高保真酶PCR放大，筛选200\\~500bp大小DNA作为测序文库经IlluminaHiseq2500进行高通量测序,测序数据已上传至EMBL-EBIArrayExpres数据库(accession number:E-MTAB-4038)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4数据分析 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据处理方法参照之前的报道14，将原始数据经过$\\mathrm { C } { + } { + }$ 脚本的过滤和筛选得到的可用有效的数据，应用bowtie2软件比对到UCSC的小鼠参考基因组 $\\mathrm { m m } 1 0$ APA位点由迭代聚类方法鉴定。两种细胞系之间的$_ 3 \\cdot$ UTR的变化用线性趋势分析方法进行比较。FDR由R软件估计，基因功能分析GeneOntology由DAVID(https://david.ncifcrf.gov)完成。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1FGSCs和ESCs细胞内基于3T-seq的全基因组范围APA位点的定位",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "高质量的总RNA提取之后按照我们最近报道的方法3构建3T-seq文库(图1A)并进行高通量测序。对测序数据进行生物信息学处理，两个样品共得到约 $9 . 2 \\mathrm { ~ M ~ }$ reads作为cleandata,其中 $7 . 7 \\mathrm { { M } }$ （约 $84 \\%$ )reads能够比对到基因组上，包含 $3 . 8 8 \\mathrm { M }$ 特异性reads（占 $5 0 \\%$ )。基因Poly(A)位点下游 $2 0 ~ \\mathrm { n t }$ 序列若出现连续8个A或含有12个或以上的A,则作为InternalPriming被滤掉15以减少对真实APA位点鉴定的影响，最终过滤得到 $3 . 1 \\mathrm { ~ M ~ }$ 有效reads,这些reads有接近 $8 9 . 7 \\%$ （曲线下方的面积）集中在已注释的转录终止位点(Transcription Terminalsite,TTS)附近，如图2A所示。APA位点鉴定方法根据之前报道[14],最后共确定50243个APA位点:FGSCs细胞系25431个，ESCs细胞系24812个。在全基因组范围内位点如图1B所示，具体统计数据见表1。在APA位点上游 $2 0 { \\sim } 3 0 ~ \\mathrm { n t }$ 范围内搜索以AAUAAA为序列的PAS六聚体，如图2B所示，除了CDS区的APA位点外均能找到该motif,表明定义APA位点的高效性。APA位点在基因组中的具体分布如图 $2 \\mathrm { C } , 4 2 . 7 \\%$ 位于已知 $_ 3 \\mathrm { ^ \\bullet }$ UTR区， $2 9 . 7 \\%$ 落在转录终止位点(TTS)，剩余的分别比对到TTS下游 $1 0 0 0 \\ \\mathrm { n t } ; 4 . 3 \\%$ ,编码区(CDS)： $1 1 . 2 \\%$ ，内含子区(Intron): $2 . 9 \\%$ ,非编码区（Noncoding gene）:$1 . 8 \\%$ 和基因间隔(Intergenic)： $7 . 5 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2FGSCs与ESCs之间3'UTR的差异分析 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了方便进行比较，我们采用线性趋势分析(Testoflineartrend)方法[14对含有多个APA位点的基因均一化处理后引入3'UTR长度指数(3'UTRlengthindex,ULI)来定量指征同一个基因 $_ 3 \\mathrm  ^ { \\bullet }$ UTR的长度变化，若ULI为正值，则表示FGSC细胞系的3'UTR相对于ESC的变长，反之变短。结果有1148个基因3'UTR长度发生明显变化，其中ULI为负795个( $6 6 \\%$ )，ULI为正353个 $( 3 4 \\% )$ )。整体的变化趋势如图3A所示。拥有不同APA位点的基因个数代表着细胞APA的多样性，图2D展示了这一分布情况。在FGSCs和ESCs中拥有1或2个APA位点的基因占最大比例，总和占总体 $4 5 . 2 \\%$ ,其次是3个和4个，总和为 $2 3 . 4 \\%$ ，拥有多至12个位点的基因也占 $10 \\%$ ,整体上看，两者在APA丰度上的差异并不显著。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5523e63de8092e14ce2dd5a5f5fea4401bc3a78a9294f2a94f75208a2b7b5cf.jpg",
+        "img_caption": [
+            "图1FGSCs和ESCs中APA位点的研究 Fig.1 Identification of APA sites in FGSCs and ESCs.A: Gel electrophoresis of the total RNA and 3T-seq library for NGS.Lane 1: FGSCs; Lane 2: ESCs. M: 100 bp DNA Ladder; B: A genomic view of APA sites defined by 3T-seq in IGV genome browser. Blue track: ESCs; Yellow track: FGSCs. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/953d29123a7c866f1c1ea10e4db6f09c58c9713e1469eb03add6effd2e319250.jpg",
+        "table_caption": [
+            "表1高通量测序数据处理和比对结果汇总 Tab.1 Summary statistics of sequencing data from Illumina Hiseq2500 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>FGSCs</td><td>ESCs</td><td>Combined</td></tr><tr><td>Total reads after trimming</td><td>5332 614</td><td>3 956 321</td><td>9 288 935</td></tr><tr><td>ReadsMapped to genome</td><td>4 189 582</td><td>3 579 438</td><td>7 769 020</td></tr><tr><td>Reads Uniquely mapped to genome</td><td>2 215 930</td><td>1672 353</td><td>3 888 283</td></tr><tr><td>Reads Passed internal priming filter</td><td>1 746 257</td><td>1 346 373</td><td>3 092 630</td></tr><tr><td>Identified Poly(A) sites</td><td>25 431</td><td>24 812</td><td>50243</td></tr><tr><td>Genes hit by poly(A) sites</td><td>8464</td><td>8509</td><td>16973</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.33'UTR变化基因的功能分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如上文所述，共有795个基因(图3)在FGSCs中呈现出相比于ESCs的3'UTR变短的趋势，应用DAVID(https://david.ncifcrf.gov）的 Gene Ontology 和KEGG对基因进行功能和信号通路分析，这些基因多富集在蛋白质转运，定位，胞内运输等生物学过程，伴随着一些胚胎发育后期出现的与中胚层发育和原肠胚形成的基因富集条目；在细胞内的定位主要位于胞内腔(Intracellularlumen)，细胞器内腔，核内腔和核质中，以及非膜结合细胞器;从分子功能上主要作用在与核苷酸结合，主要是嘌呤中的腺嘌呤核苷酸以及一部分与核糖核苷酸和ATP的结合。在通路分析方面，这些基因集中于粘着链接，细胞周期以及与卵细胞减数分裂相关的信号通路。GO分析条目如图4A所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4FGSCs细胞内与生殖细胞发育相关的基因发生 3'UTR缩短 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3'UTR变短的基因，因为其较短的3'UTR增加了mRNA本身的稳定性，减少了能与转录后调控的反式作用因子(如RNA结合蛋白)或者microRNA相互结合的顺式作用元件，更有可能逃逸细胞中microRNA介导的基因沉默，导致更高的表达水平[3],对于在FGSCs中的3'UTR变短伴随着表达量上升的262个基因，如图3B中所示，在蛋白质转运和定位等生物学过程上有着富集，深入分析发现在FGSCs中，与生殖细胞发育密切相关的基因kitl发生显著的3'UTR缩短。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Kitl基因编码的KITL是一个干细胞因子（也被称为SCF),作为配体与跨膜酪氨酸激酶受体KIT结合，两者形成kit/kitl信号系统共同调控着出生前后卵巢中卵细胞和卵泡的发育，也有很多报道在精子发生中，kitl会促进A型精原细胞的DNA合成从而促进细胞增殖[16-17]。它在FGSCs中存在着明显的3'UTR缩短现象，在距离TTS位点更近的地方存在APA位点，如图4B所示，对近端APA位点的取用伴随着该基因表达量的升高，表明kit基因作为一个参与生殖细胞发育的基因在FGSCs中有特异的表达模式。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/43eb52351d3d52e948737da57127bf97496590aeb0d798527011837a9917471d.jpg",
+        "img_caption": [
+            "图2APA位点的鉴定和比对分析 Fig.2 Characterization and comparative analysis of APA sites in FGSCs and ESCs.A: Distribution of 3T-seq reads across the gene body;B:Position-specific distributions of PAS signal hexamer for poly(A) sites; C: Genomic locations of poly(A) sites; $D$ : Statistics of genes with various number of detected poly(A) sites. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a00e1f32d3575ecd4f1e8d16d07af5c5675be3d04f9b719ae31db8986ef5cfcf.jpg",
+        "img_caption": [
+            "图3FGSC和ESC中3'UTR长度变化趋势 Fig.3 APA sites variations in FGSCs compared to ESCs.A: Scatter diagram of genes with differential APA defined by ULI; B: Composition of down-regulated and upregulated genes in FGSCs. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "生殖细胞的发育是一个复杂而高度有序的过程，受基因调控网络精确和稳定的调控[18]。雌性生殖干细胞作为一种单能性的成体干细胞，处于生殖发育进程中一个很特殊的环节：它们处于原始生殖细胞(PGC)发育下游，负责分化成成熟的生殖细胞。近年来越来越多的研究显示APA在发育过程中发挥重要的作用，比如多能性的胚胎于细胞更倾向于采用更短的3'UTR，使细胞能维",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ba73fa977b1570b9cdb55c1781a1f4ca0fb6b5754399145a63c80f73fdb5306b.jpg",
+        "img_caption": [
+            "GO of biological process analysis "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b0c862e9eb68787592cfb7d176e2c62e51b62be970124ee04f10f01ede2814b5.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/08daf51493680ec6c5d024a3a8ca9ab201ef491d36015446e028fd7f50097b3d.jpg",
+        "img_caption": [
+            "图4APA差异位点基因功能分析 Fig.4Gene function analysis of differential 3'UTR genes.A: GO and KEGG pathway analysis using DAVID; B: 3'UTR shortening in $k i t l$ gene shown in IGV genome browse. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "持自身的干细胞特性,保持自我更新和较快的增殖[47]。而对于生殖干细胞的转录后调控的研究仍处于空白，在此我们利用基于高通量测序的组学研究方法获得了小鼠FGSCs在全基因组范围内的APA谱，使我们能对生殖干细胞中的APA取用模式有了更全面的认识，我们的工作填补了生殖细胞领域转录后调控机制研究的空白，为今后对某些特定基因APA的深入研究提供了重要参考。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过与小鼠ESCs中APA比较分析，发现FGSCs有着与ESCs显著区别的APA谱，具有生殖干细胞的特异性：在我们的数据中发现有1148个基因相对于ESCs发生了3'UTR的变化，其中 $34 \\%$ 的基因存在3'UTR变长现象， $6 6 \\%$ 的基因3'UTR缩短，如图3A所示。对于3’UTR缩短的基因，在基因功能上多富集在与蛋白质转运和定位等生物学功能上，这与APA所介导的与蛋白质细胞定位相关功能相一致，在一些胚胎发育后期出现的与中胚层发育相关基因条目也有富集(图4A)，表明这些在胚胎发育阶段发挥作用的基因可能在生殖干细",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "胞里也发挥一定的作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "变短的3'UTR能导致更高的转录活性，其转录激活是通过顺式作用元件的缺失，逃逸microRNA介导的负调控来实现[3]。针对雌性生殖干细胞中3'UTR缩短的基因我们展开进一步分析，发现其中包含一些与生殖发育密切相关的基因，比如kitl基因(图4B)，该基因编码蛋白作为III型跨膜酪氨酸激酶受体KIT蛋白的配体[16],参与生殖发育调控中多个重要的信号通路[16-17.19]。在FGSCs中，该基因产生了APA介导的3'UTR缩短转录子，而且表达量较高，推测缩短的3'UTR导致该基因的转录激活而参与生殖发育相关的生物学活动。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "尽管3'UTR缩短导致转录激活，我们在FGSCs中也发现3'UTR变短的基因并不总是伴随着高表达量：795个3'UTR缩短的基因中，其表达量较ESCs上升的只有262个，剩余的533个基因没有明显上调甚至表现出表达下调的趋势，如图3B所示，这提示3'UTR的长短与表达量不仅仅是简单的负相关。除了我们的结果外,之前的一些报道也发现类似的现象[14.20-21],我们推测对于那些3'UTR缩短但是表达量没有升高的基因来说，可能是细胞内的microRNA没有表达，从而不能有效的通过与3'UTR靶区域结合抑制靶基因的表达所致。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本文首次详细描绘了小鼠FGSCs在全基因组范围内的APA谱，通过和小鼠胚胎干细胞进行系统性的比较，为从转录后调控水平更深入地了解生殖干细胞的基因调控机制提供了基础,从而进一步丰富了生殖干细胞生物学研究内容。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Vinciguerra P, Stutz F. mRNA export: an assembly line from genes to nuclear pores[J].Curr Opin Cell Biol, 2004,16(3):285-92.   \n[2]Berkovits BD,Mayr C.Alternative 3'UTRs act as scaffolds to regulate membrane protein localization [J].Nature,2O15,522 (7556): 363-7.   \n[3]Sandberg R,Neilson JR, Sarma A,et al.Proliferating cells Express mRNAswithshortened 3'untranslated regionsand fewer microRNA target sites[J].Science,2008,320(5883):1643-7.   \n[4] Ji Z,Lee JY,Pan Z,et al.Progressive lengthening of 3' untranslated regions of mRNAs by alternative polyadenylation during mouse embryonic development[J].Proc Natl Acad Sci USA,2OO9,106 (17): 7028-33.   \n[5]Mayr C,Bartel DP.Widespread shortening of 3'UTRs by alternative cleavage and polyadenylation activates oncogenes in cancer cells [J].Cell,2009,138(4): 673-84.   \n[6]Lackford B,Yao C,Charles GM,et al.Fipl regulates mRNA alternative polyadenylation to promote stem cell self-renewal[J]. EMBO J,2014,33(8): 878-89.   \n[7]Ji Z,Tian B.Reprogramming of $3 ^ { \\prime }$ untranslated regions of mRNAs by alternative polyadenylation in Generation of pluripotent stem cells from different cell types[J].PLoS One,2009,4(12): e8419.   \n[8]Hilgers V, Perry MW,Hendrix D,et al. Neural-specific elongation of $3 ^ { \\prime }$ UTRs during Drosophila development[J].Proc Natl Acad Sci USA,2011,108(38): 15864-9.   \n[9]Li Y, Sun Y,Fu Y,et al.Dynamic landscape of tandem 3' UTRs during zebrafish development [J].Genome Res，2012,22(10): 1899-906.   \n[10] Zou K,Yuan Z, Yang Z,et al. Production of offspring from a germline stem cell line derived from neonatal ovaries[J].Nat Cell Biol,2009,11(5): 631-6.   \n[11]Johnson J,Canning J,Kaneko T,et al.Germline stem cells and follicular renewal in the postnatal mammalian ovary［J].Nature, 2004,428(6979): 145-50.   \n[12] Johnson J,Bagley J, Skaznik-Wikiel M,et al. Oocyte Generation in adult mammalian ovaries by putative germ cells in bone marrow and peripheral blood[J]. Cell,2005,122(2): 303-15.   \n[13]Lai DP, Tan S,Kang YN,et al.Genome-wide profiling of polyadenylationsitesrevealsaLinkbetweenselective polyadenylation and cancer metastasis[J].Hum Mol Genet,2015, 24(12): 3410-7.   \n[14]Fu Y,Sun Y,Li Y,et al.Differential genome-wide profilingof tandem 3' UTRs among human breast cancer and normal cells by high-throughput sequencing[J]. Genome Res,2011,21(5): 741-7.   \n[15]Beaudoing E,Freier S,Wyatt JR,et al.Patterns of variant polyadenylation signal usage in human genes [J].Genome Res, 2000,10(7): 1001-10.   \n[16] Driancourt MA,Reynaud K, Cortvrindt R,et al. Roles of KIT and KIT LIGAND in ovarian function [J].Rev Reprod,2000,5(3): 143-52.   \n[17]Hutt KJ,Mclaughlin EA,Holland MK. Kit ligand and c-Kit have diverse roles during mammalian oogenesis and folliculogenesis[J]. Mol Hum Reprod,2006,12(2): 61-9.   \n[18] Lesch BJ,Page DC. Genetics of germ cell development[J]. Nat Rev Genet,2012,13(11): 781-94.   \n[19]Mithraprabhu S,Loveland KL.Control of KIT signalling in male germ cels: what can we learn from other systems[J]. Reproduction, 2009,138(5): 743-57.   \n[20]Wu CI, Shen Y,Tang T. Evolution under canalization and the dual roles of microRNAs:a hypothesis[J].Genome Res,2009,19(5): 734-43.   \n[21]Morrs AR,Bos A,Diosdado B,et al. Alternative cleavage and polyadenylation during colorectal cancer development ［J].Clin Cancer Res,2012,18(19): 5256-66. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(编辑：孙昌朋)",
+        "page_idx": 5
+    }
+]

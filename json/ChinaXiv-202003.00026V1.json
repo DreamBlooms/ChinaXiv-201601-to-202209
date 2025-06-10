@@ -1,0 +1,368 @@
+[
+    {
+        "type": "text",
+        "text": "Effective Treatment of Severe COVID-19 Patients with Tocilizumab Xiaoling $\\mathrm { X u } ^ { 1 , \\# ^ { * } }$ , Mingfeng $\\mathrm { H a n } ^ { 2 , \\# }$ , Tiantian $\\mathrm { L i } ^ { 1 }$ ,Wei $\\mathrm { S u n } ^ { 2 }$ ,Dongsheng Wangl, Binqing $\\mathrm { F u } ^ { 3 , 4 }$ , Yonggang Zhou34, Xiaohu Zheng3,4, $\\mathrm { Y u n } \\mathrm { Y a n g } ^ { 5 }$ , Xiuyong ${ \\mathrm { L i } } ^ { 6 }$ , Xiaohua Zhang², Aijun Pan5, Haiming Wei34\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "lRespiratory and Critical Care Medicine,The First Affiliated Hospital of University of Science and Technology of China (Anhui Provincial Hospital), Hefei, Anhui, People's Republic of China 2Respiratory and Critical Care Medicine, Anhui Fuyang Second People's Hospital, Fuyang, Anhui, People's Republic of China   \n3Institute of Immunology and the CAS Key Laboratory of Innate Immunity and Chronic Disease, School of Life Science and Medical Center, University of Science and Technology of China,Hefei, Anhui,People'sRepublic of China   \n4Hefei National Laboratory for Physical Sciences at Microscale,University of Science and Technology of China,Hefei,Anhui,People's Republic of China   \n5Intensive Care Unit, The First Afliated Hospital of University of Science and Technology of China (Anhui Provincial Hospital), Hefei,Anhui, People's Republic of China   \nHemodialysis Center, Anhui Fuyang Second People's Hospital, Fuyang, Anhui, People's Republic of China   \n#These authors contributed equally to this work   \n\\*Correspondence:   \nXiaoling Xu, M.D,Respiratory and Critical Care Medicine,The First Affiliated Hospital of University of Science and Technology of China (Anhui Provincial Hospital),No 17Lujiang Road, Hefei 230001, Anhui, People's Republic of China   \nTel +86-189-6378-9002,Email: xxlahh08 $@$ 163.com.   \nHaiming Wei, M.D,Ph.D., School ofLife Sciences, University of Science and Technology of China, No 443 Huangshan Road, Hefei 230027,Anhui, People's Republic of China   \nTel: +86-551-360-7379; Fax: 86-551-360-6783; E-mail: ustcwhm@ustc.edu.cn. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Background: In December 2019, severe acute respiratory syndrome coronavirus 2(SARS-CoV-2) was identified in Wuhan, China, which spread rapidly and has become a world-wide public health challenge. We aimed to assess the eficacy of tocilizumab in severe patients with Corona Virus Disease19 (COVID-19) and seek a new therapeutic strategy. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Methods: The patients diagnosed as severe or critical COVID-19 in The First Affiliated Hospital of University of Science and Technology of China (Anhui Provincial Hospital) and Anhui Fuyang Second People's Hospital were given tocilizumab in addition to routine therapy between February 5 and February 14, 2O20. The changes of clinical manifestations, CT scan image,and laboratory examinations were retrospectively analyzed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Findings: Within a few days, the fever returned to normal and all other symptoms improved remarkably. Fifteen of the 20 patients $( 7 5 . 0 \\% )$ had lowered their oxygen intake and one patient need no oxygen therapy. CT scans manifested that the lung lesion opacity absorbed in 19 patients $( 9 0 . 5 \\% )$ . The percentage of lymphocytes in peripheral blood, which decreased in $8 5 . 0 \\%$ patients (17/20) before treatment (mean, $1 5 . 5 2 \\pm 8 . 8 9 \\%$ ),returned to normal in $5 2 . 6 \\%$ patients (10/19) on the fifth day after treatment.Abnormally elevated C-reactive protein decreased significantly in $8 4 . 2 \\%$ patients (16/19). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "No obvious adverse reactions were observed.Nineteen patients $( 9 0 . 5 \\% )$ have been discharged on average l3.5 days after the treatment with tocilizumab and the rest are recovering well. Interpretation: Tocilizumab is an eective treatment in severe patients of COVID-19,which provided a new therapeutic strategy for this fatal infectious disease. Funding: This work was supported by Department of Science and Technology of Anhui Province and Health Commission of Anhui Province (grant number: 202004a07020001) and the China National Center for Biotechnology Development 175 (grant number: 2020YFC0843800). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the past decades, two known zoonotic coronaviruses,SARS-CoV and MERS-CoV,have been reported to damage the respiratory tract and cause severe outbreaks.1-3 Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)4 is a newly discovered coronavirus, which was first discovered in Wuhan, China in December 2019.The disease was officially named Corona Virus Disease-19 (COVID-19) on 11 February, 2020.5 Epidemiological data have basically determined the route of person-to-person transmission in COVID-19.6.7 According to the Chinese Center for Disease Control and Prevention (CDC),as of March 1,2020, there were accumulatively confirmed 80,174 patients in China, including 2,915 cases of deaths.Most of the patients developed pneumonia, which can worsen rapidly into respiratory failure.8 The elderly and patient with low immune function have a higher susceptibility and mortality.1 One study reported that patients usually have pneumonia with abnormal findings on chest CT scan.9 Common symptoms at onset include fever, cough,and myalgia or fatigue. A large part of patients experienced severe complications including acute respiratory distress syndrome (ARDS) $( 2 9 \\% )$ ,and $32 \\%$ patients need an intensive care unit (ICU) admission and six $( 1 5 \\% )$ died.9 In another report of 99 cases,17 ( $( 1 7 \\% )$ patients developed ARDS. Of which, 11 $( 1 1 \\% )$ worsened within a few days and died.7 According to a new report, the mortality for critical cases reached $60 . 5 \\%$ .10 Unfortunately, the pathogenesis of COVID-19 still remains unclear, and there is no efficient therapeutics. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Study demonstrated that in the pathogenesis of SARS,a cytokine storm occurred , involving a considerable release of proinflammatory cytokine including interleukins (IL) -6, tumour necrosis factor α (TNF-α),and IL-12.1 In the research of Middle East respiratory syndrome,caused by another coronavirus (MERS-CoV), cytokine genes of IL-6, IL- $\\lvert 1 \\beta \\rvert$ ,and IL-8 can be markedly high.A delayed proinflammatory cytokine induction by MERS-CoV was also confirmed.12 Similar to the changes in SARS and MERS, in COVID-19,higher plasma levels of cytokines including IL-6,IL-2,IL-7, IL-10, granulocyte-colony stimulating factor (G-CSF), interferon $\\cdot \\gamma$ -inducible protein (IP10), monocyte chemoatractant protein (MCP1), macrophage inflammatory protein 1 alpha (MIP1A),and TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ were found in ICU patients, which implied a cytokine storm occurred7.9 and related to the severity and prognosis of the disease.In the biopsy samples at autopsy from a patient who died from the severe infection with COVID-19, histological examination showed bilateral diffuse alveolar damage with cellular fibromyxoid exudates. Mononuclear inflammatory lymphocytes were sen in both lungs.13 These studies suggested that an inflammatory factor or a cytokine storm have occurred. In our previous research,after analyzing the immune characteristics of patients with COVID-19,we found that aberrant pathogenic T cells and inflammatory monocytes are rapidly activated and then producing a large number of cytokines and inducing an inflammatory storm. Among them, GM-CSF and IL-6 are the key cytokines leading to inflammatory storm which may result in increased alveolar-capillry blood-gas exchange dysfunction, especially impaired oxygen diffusion, and eventually lead to pulmonary fibrosis and organ failure.14 Therefore we suggested that IL-6 might play a key role in the cytokine storm and interfering of IL-6 might be a potentially therapeutic for severe and critical COVID-19. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "IL-6 receptor has two forms: membrane bound IL-6 receptor (mIL6R) and soluble IL-6 receptor (sIL6R).IL-6 binds to sIL-6R to form a complex,which then binds to $\\mathrm { g p } 1 3 0$ on the cell membrane to complete trans-signal transduction and play a pro-inflammatory role.15-18 As a recombinant humanized anti-human IL-6 receptor monoclonal antibody,Tocilizumab can specifically bind sIL-6R and mIL-6R and inhibit signal transduction. It is currently used mainly for rheumatoid arthritis.18 The results of long-term toxicity tests on animals showed that tocilizumab was welltolerated, and no significant abnormalities were observed in other clinicopathological studies or histopathological evaluations.18-20 In this study, we retrospectively observed tocilizumab in treating severe or critical COVID-19 patients to see if IL-6 plays a pivot role in the parthenogenesis and the efficacy of the tocilizumab interference of IL-6,in order to provide new therapeutic strategy for this fatal disease. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Patients ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A total of 21 patients met the study conditions who were treated with tocilizumab between February 5 and February14,2020.Seven of the patients were treated in The First Afiliated Hospital of University of Science and Technology of China (Anhui Provincial Hospital) and 14 in Anhui Fuyang Second People's Hospital.Allpatients enrolled met the severe or critical criteria defined by the Diagnosis and Treatment Protocol for Novel Coronavirus Pneumonia ( $6 ^ { \\mathrm { { t h } } }$ interim edition) sponsored by National Health Commission of the People's Republic of China.21 For diagnosis, specimens were obtained by throat swabs under aseptic operation and tested with real-time reverse-transcriptase-polymerase-chainreaction (RT-PCR) assay that was developed from the publicly released virus sequence.The diagnose of severity was defined if any of the following conditions was met: (1) respiratory rate $\\geq 3 0$ （204号 breaths/min; (2) $S \\boldsymbol { \\mathrm { p O } } 2 \\leq 9 3 \\%$ while breathing room air; (3) $\\mathrm { P a O 2 / F i O 2 } \\leq 3 0 0 \\ \\mathrm { m m H g } .$ A critical case was diagnosed if any of: (1) respiratory failure which requiring mechanical ventilation; (2) shock; (3) combined with other organ failure, need to be admitted to ICU. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Medical Research Ethics Commitee of the Anhui Provincial Hospital approved the study. All patients had signed informed consent before using tocilizumab and agreed to publish this case series. We are commited to protecting patient privacy and complying with the Helsinki Declaration. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "IL-6 Test ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The value of IL-6 is measured by electrochemical luminescence method (Roche Diagnostics GmbH) or FACS analysis. Intracellular staining of IL-6 was performed without adding any re-stimulation. The cells were then collected, washed,and blocked according to instructions of eBioscience.The normal range of IL-6 is less than $7 \\mathrm { p g / m l }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Treatment and observation ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "All patients received standard care according to the Diagnosis and Treatment Protocol for Novel Coronavirus Pneumonia ( $\\mathit { \\Delta } ^ { ' } 6 ^ { \\mathrm { { t h } } }$ interim edition),21 including lopinavir, methylprednisolone, other symptom relievers and oxygen therapy,and added with tocilizumab (Roche Pharma (Schweiz) Ltd, B2084B21), prescribing $4 0 0 \\mathrm { m g }$ once through an intravenous drip. Clinical features including body temperature, oxygen saturations, etc, were recorded. A whole blood white cell count was performed repeatedly. All patients had been spiral computerized tomography (CT) scanned on admission and a week later after the beginning of tocilizumab treatment, using a 64-row spiral Optima CT680 scanner (GE Healthcare, USA) in a whole-lung, low-dosage exposure, scanning with $5 \\mathrm { m m }$ slices. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Datacollection ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Treatment data were collected through chart and figure review, including gender, age,coexisting diseases,clinical symptoms, peripheral oxygen saturations.This study focused on changes in body temperature, respiratory function,and CT findings before and after treatment with tocilizumab. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Statistical Analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "All statistical data were analyzed by IBM SPSS software v.16.0 (Chicago,IL, USA),and are expressed as means $\\pm$ standard deviation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Demographiccharacteristics ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The average age of the subjects was $5 6 . 8 \\pm 1 6 . 5$ years,ranged from 25 to 88 years (Table 1). Of the 21 patients,18 were males $( 8 5 . 7 \\% )$ and 3 females ( $1 4 . 3 \\%$ ).17 patients $( 8 1 . 0 \\% )$ were assessed as severe and 4 $( 1 9 . 0 \\% )$ critical.Among them, 5 patients $( 2 3 . 8 \\% )$ had a history of exposure to Wuhan and 6 $( 2 8 . 6 \\% )$ exposure to patients who have confirmed COVID-19. Eighteen patients $( 8 5 . 7 \\% )$ received tocilizumab once,and 3 patients $( 1 4 . 3 \\% )$ had another one at the same dose due to fever within 12 hours. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Clinicalpresentations ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "All patients presented with fever as the first symptom, followed by dry cough $( 1 4 / 2 1 , 6 6 . 7 \\% ) .$ ,a small amount of white phlegm (9/21, $4 2 . 9 \\%$ ), fatigue (6/21, $2 8 . 6 \\%$ ）and dyspnea $( 6 / 2 1 , 2 8 . 6 \\%$ ). Four patients （20 $( 1 9 . 0 \\% )$ had nausea. Other symptoms including rhinorrhea and chest pain were rare $( 4 . 8 \\% )$ . Among all patients,there was a median interval of six days (range,two to fourteen) from the onset offever to the occurrence of dyspnea. Twenty patients need an oxygen therapy, including high-flow oxygen therapy in 9 patients $( 4 5 . 0 \\% )$ , nasal cannule in 7 patients $( 3 5 . 0 \\% )$ , mask oxygen in 1 patient $( 5 , 0 \\% )$ , noninvasive ventilation in 1 patients $( 5 . 0 \\% )$ and invasive ventilation in 2 patients $( 1 0 . 0 \\% )$ . (Table 1) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Laboratory examinations ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "White blood cell count showed that 4 patients $( 4 / 2 0 , 2 0 . 0 \\% )$ have an abnormal value (mean, $6 . 3 0 \\pm$ $2 . 7 7 \\times 1 0 ^ { 9 } \\mathrm { / L }$ ) in peripheral blood. (Table 2) The percentage of lymphocytes was decreased in $8 5 . 0 \\%$ （204号 patients (17/20, mean, $1 5 . 5 2 \\pm 8 . 8 9 \\%$ ). C-reactive protein (CRP) levels increased in all 20 patients (mean, $7 5 . 0 6 \\pm 6 6 . 8 0 \\mathrm { m g / L }$ ). The median procalcitonin (PCT) value was $0 . 3 3 \\pm 0 . 7 8 ~ \\mathrm { n g / m L }$ ,and only 2 of 20 patients $( 1 0 . 0 \\% )$ presented an abnormal value. Besides,all patients have been analyzed IL-6 expression levels before tocilizumab with a mean of $1 3 2 . 3 8 \\pm 2 7 8 . 5 4 \\mathrm { p g / m l } .$ ，showing IL-6 upregulation in these severe and critical COVID-19 patients. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Imaging features ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "All patients had abnormal chest CT on presentation.The primary abnormality on the initial chest CT was plaque-like, ground-glass opacities and focal consolidation, mainly distributed in the peripheral, especially the subpleural region (Figure 1 A-C).The ground-glass opacities increased in size, extent, and severity in 21 patients within the first seven days after admission.No pleural effusions,mediastinal nodes, or central pulmonary emboli were found. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Treatment outcomes ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The body temperature of all patients dramatically return to normal on the first day after receiving tocilizumab and remained stable then after (Figure 2B). Clinical symptoms were significantly relieved synchronously in the following days. The peripheral oxygen saturation improved remarkably (Figure 2 C-D). One patient needed not further oxygen therapy. There were fifteen patients $( 1 5 / 2 0 , 7 5 . 0 \\% )$ had lowered their oxygen intake. One patient was taken off the ventilator on the first day after tocilizumab. One critical patient had tracheal extubated and regained consciousness on the fifth day. Another one who had previously been given invasive ventilation had lowered the parameters of the ventilator and expected to be off the ventilator shortly. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A significant change of the percentage of lymphocytes and CRP levels was observed after tocilizumab treatment,as shown in Table 2 and Figure 2 A. On the fifth day after treatment, only two patients (2/19, $10 . 5 \\%$ ) had an abnormal value in white blood cell count with a mean of $5 . 2 5 \\pm 2 . 1 1 \\times 1 0 ^ { 9 } / \\mathrm { L }$ .The percentage of lymphocytes in 10 patients (10/19, $5 2 . 6 \\%$ )returned to normal (mean, $2 2 . 6 2 \\pm 1 3 . 4 8 \\%$ ） CRP decreased significantly and returned to normal in $84 . 2 \\%$ patients (16/19,mean, $2 . 7 2 \\pm 3 . 6 0 \\mathrm { m g / L } \\rangle$ after treatment on the fifth day.After treatment, CT scans showed that the lesions were absorbed in 19 patients $( 9 0 . 5 \\% )$ and a little improvement in the others.(Figure 1D-F) Nineteen patients $( 9 0 . 5 \\% )$ have been discharged including two critical patients and the rest remained under hospital observation, but there body temperatures remained normal and all symptoms improved remarkably. The mean hospitalization time was $1 3 . 5 \\pm 3 . 1 \\$ d after the treatment with tocilizumab. (Table 1) There have been no reports of subsequent pulmonary infection and deterioration of ilness or death. During the treatment with tocilizumab, no adverse drug reactions were reported. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this study, we retrospectively observed tocilizumab,an IL-6 blocker,in treatment of 21 patients with severe and critical COVID-19. Clinical data showed that the symptoms, hypoxygenmia, and CT opacity changes were improved immediately after the treatment with tocilizumab in most of the patients,suggesting that tocilizumab could be an efcient therapeutic for the treatment of COVID-19. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "COVID-19 is a newly occurred infectious respiratory disease with mild symptoms at the beginning. However, in a considerable amount of patients, the symptoms deteriorate rapidly, manifested as chest tightness, shortness of breath,and even respiratory failure. CT scans often show rapid enlarged opacities. These patients usually need oxygen therapy and even assistant ventilation in ICU. Unfortunately, $4 . 3 \\%$ of them died finally even after recommended standard treatment,7,8 as no effective therapeutics could be achieved.And the mortality for critical cases reached as high as $60 . 5 \\%$ 10 In this research, all 21 patients had a history of routine treatment for a week before tocilizumab,but deteriorated with sustained fever, hypoxygenmia and CT image worsening. After the treatment with tocilizumab, in addition to the improvement of body temperature, the respiratory function was improved to some degrees in most of the patients. Chest tightness was relieved. Fifteen patients $( 7 5 . 0 \\% )$ lowered their oxygen intake flow and the oxygen saturation remained stable. Two patients were taken off the ventilator within five days after the treatment with tocilizumab and another critical one is expected to abandon the ventilator in a short time. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The decrease of the percentage of lymphocyte has been considered an important indicator for diagnosis and severity judgment in COVID-19 patients.8 In our study, a lowered percentage of lymphocytes was found in $8 5 . 0 \\%$ patients (17/20) and returned to normal in $5 2 . 6 \\%$ patients (10/19) within five days when tocilizumab was given. At the same time, elevated CRP also returned to normal. The lung opacities on CT scans were absorbed in 19 patients $( 9 0 . 5 \\% )$ . Considering the lung tissue damage need a sufficient time for repairing, remission delay in CT scan can be anticipated. During the treatment, no adverse drug reactions and subsequent pulmonary infection were reported. Clinical symptoms of all patients improved remarkably with good prognosis after the treatment. Nineteen patients $( 9 0 . 5 \\% )$ have been discharged including two critical patients.Therefore, tocilizumab can effectively treat severe patients of COVID-19, which might be explained by the blocking of IL-6-associated febrile and inflammatory storm response. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Nevertheless,there are several shortcomings in this study.The number of patients were rather limited. It was a single observation study and a significant bias could possibly be existed. Apparently, the evidence strength need to be enhanced.To confirm the conclusions of our observation,a randomized controlled trial and a study on the mechanism of IL-6 in COVID-19 are being under performing. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Conclusion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In summary,tocilizumab effectively improve clinical symptoms and repressthe deterioration of severe COVID-19 patients.Therefore, tocilizumab is an effective treatment in severe patients of COVID-19, which provided a new therapeutic strategy for this fatal infectious disease. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Contributors ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "X.X.and H.W. conceived and designed the study and took responsibility for the integrity of the data and the accuracy of the data analysis. M.H.,T.L., W.S., D.W., Y.Y., X.L., X.Z. and A.P. collected the epidemiological and clinical data.B.F., Y.Z.and X.Z. performed basic experiments and collected data. X.X.,H.W.,T.L.and B.F. processed statistical data.T.L. and B.F. drafted the manuscript. X.X. and H.W. revised the final manuscript. All authors contributed to data analysis and approved the final version. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Declarationofinterests ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The author reports no conflicts of interest in this work. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Data sharing ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Correspondence and requests for materials should be addressed to the corresponding author. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References: ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.Hu B,Zeng L-P, Yang X-L,et al. Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus. PLoS Pathog 2017;13:e1006698. 2.Song H-D,Tu C-C, Zhang G-W, et al. Cross-host evolution of severe acute respiratory syndrome coronavirus in palm civet and human. Proc Natl Acad Sci U S A 2005;102:2430-5. 3.Haagmans BL,Al Dhahiry SHS,Reusken CBEM, et al. Middle East respiratory syndrome coronavirus in dromedary camels: an outbreak investigation.Lancet Infect Dis 2O14;14:140-5. 4.Gorbalenya AE, Baker SC, Baric RS, et al. Severe acute respiratory syndrome-related coronavirus: The species and its viruses - a statement of the Coronavirus Study Group.BioRxiv ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2020:2020.02.07.937862. DOI: https://doi.0rg/10.1101/2020.02.07.937862.   \n5.WHO Director-General's remarks at the media briefing on 2019-nCoV on 11 February 2020. (https://www.who.int/dg/speeches/detail/who-director-general-s-remarks-at-the-media-briefing-on2019-ncov-on-11-february-2020)   \n6.Chan JF-W, Yuan S,Kok K-H, et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study ofa family cluster. Lancet 2020;395(10223):514-523.   \n7.Chen N, Zhou M,Dong X,et al. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet 2020; 395(10223):507-513. 8.Wang D,Hu B,Hu C,et al. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA 2020. DOI: 10.1001/jama.2020.1585 9.Huang C, Wang Y,Li X, et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet 2020;395:497-506.   \n10.Yang X, Yu Y, Xu J, et al. Clinical course and outcomes of critically ill patients with SARS-CoV2 pneumonia in Wuhan, China: a single-centered,retrospective, observational study. Lancet Respir Med 2020; Published Online February 21. (htps:/doi.org/10.1016/S2213-2600(20)30079-5)   \n11．Li Y, Chen M, Cao H, Zhu Y, Zheng J, Zhou H. Extraordinary GU-rich single-strand RNA identified from SARS coronavirus contributes an excessive innate immune response. Microbes Infect 2013;15:88-95.   \n12.Lau SK, Lau CC, Chan KH, et al. Delayed induction of proinflammatory cytokines and   \nsuppression of innate antiviral response by the novel Middle East respiratory syndrome coronavirus: implications for pathogenesis and treatment. J Gen Virol 2013;94:2679-90.   \n13.Xu Z, Shi L, Wang Y, et al. Pathological findings of COVID-19 associated with acute acute respiratory distress syndrome. Lancet Respir Med 2020; Published Online February 17.   \nDOI:https://doi.0rg/10.1016/S2213-2600(20)30076-X.   \n14. Zhou Y,Fu B, Zheng X, et al. Aberrant pathogenic GM-CSF+ T cells and inflammatory   \n（204 $\\mathrm { C D } 1 4 ^ { + } \\mathrm { C D } 1 6 ^ { + }$ monocytes in severe pulmonary syndrome patients of a new coronavirus. BioRxiv 2020:2020.02.12.945576. DOI: htps://oi.0rg/10.1101/2020.02.12.945576.   \n15.Davies R, Choy E. Clinical experience of IL-6 blockade in rheumatic diseases - implications on IL-6 biology and disease pathogenesis. Semin Immunol 2014;26:97-104.   \n16.Wolf J, Rose-John S, Garbers C. Interleukin-6 and its receptors: a highly regulated and dynamic system. Cytokine 2014;70:11-20.   \n17． Jones SA, Scheller J,Rose-John S. Therapeutic strategies for the clinical blockade of IL ${ \\cdot } 6 / \\mathrm { g p } 1 3 0$ （204号 signaling. J Clin Invest 2011;121:3375-83.   \n18.Kaly L, Rosner I. Tocilizumab - a novel therapy for non-organ-specific autoimmune diseases. Best Pract Res Clin Rheumatol 2012;26:157-65.   \n19.Yokota S, Imagawa T,Mori M, et al. Efficacy and safety of tocilizumab in patients with systemiconset juvenile idiopathic arthritis: a randomised, double-blind, placebo-controlled, withdrawal phase III trial. Lancet 2008;371:998-1006.   \n20．Gabay C,Emery P, van Vollenhoven R,et al. Tocilizumab monotherapy versus adalimumab monotherapy for treatment of rheumatoid arthritis (ADACTA): a randomised,double-blind, controled phase 4 trial. Lancet 2013;381:1541-50.   \n21．Diagnosis and treatment protocol for novel coronavirus pneumonia ( $6 ^ { \\mathrm { { t h } } }$ interim edition). China NHCOTPSRO. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(http://www.nhc.gov.cn/yzygj/s7653p/202002/8334a8326dd94d329df351d7da8aefc2/files/b218cfeb1bc 54639af227f922bf6b817.pdf.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Figure1 Chest CT scans showed significant remission in both lungs in patients after the treatment of tocilizumab. (A-C) Computed tomography (CT) showed plaque-like and ground-glass opacities before the treatment with tocilizumab.(D-F) Chest CT showed difuse infiltration in both lungs but the lesions were clearly absorbed after the treatment with tocilizumab.Panel A,Dbelongs to a 55-year-old male patient, presented with fever, cough and phlegm as the first symptom and the lesions were absorbed on the fifth day after tocilizumab.Panel B,E belongs to a 82-year-old male patient,presented with fever as the first symptom and the lesions were absorbed on the fifth day after tocilizumab.Panel C,F belongs to a 32-year-old male patient, presented with fever, cough and phlegm as the first symptom and the lesions were absorbed on the fourth day after tocilizumab. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 The Values of CRP,Body Temperature, Concentration of Oxygen Inhalation and Oxygen Saturation before and after the Treatment with Tocilizumab for the 21 Patients with COVID-19.(A) C-reactive protein (CRP) decreased significantly after the treatment with tocilizumab and returned to normal in majority of the patients $( 1 6 / 1 9 , 8 4 . 2 \\%$ ). (B) The fever returned to normal in all 21 patients after tocilizumab. (C-D) Before the treatment, twenty patients need an oxygen therapy, including high-flow oxygen therapy in 9 patients $( 4 5 . 0 \\% )$ , nasal cannule in 7 patients $( 3 5 . 0 \\% )$ ,mask oxygen in1 patient $( 5 , 0 \\% )$ ,noninvasive ventilation in 1 patients $( 5 . 0 \\% )$ and invasive ventilation in 2 patients $( 1 0 . 0 \\% )$ . After tocilizumab, fifteen patients $( 7 5 . 0 \\% )$ had lowered their oxygen intake after tocilizumab and the oxygen saturation remained stable. Among them, one patient need not further oxygen therapy on the third day so that the concentration of oxygen inhalation has marked as $21 \\%$ 5 similar as oxygen content in normal air. Paired t tests analysis have been used in Fig 2 B-D. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/31b28acae136de6716982210c0b5058c38cf46df07c198fffc54c273d9445360.jpg",
+        "table_caption": [
+            "Table1 Demographic Characteristics of the Patients on Presentation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Characteristic</td><td>Patients (N=21)</td></tr><tr><td>Age (range)- years</td><td>56.8 ± 16.5 (25-88) †</td></tr><tr><td>Gender</td><td></td></tr><tr><td>Male</td><td>18/21 (85.7%)</td></tr><tr><td>Female</td><td>3/21 (14.3%)</td></tr><tr><td>Chronic medical illness</td><td></td></tr><tr><td>Hypertension</td><td>9/21 (42.9%)</td></tr><tr><td>Diabetes</td><td>5/21 (23.8%)</td></tr><tr><td>CHD</td><td>2/21 (9.5%)</td></tr><tr><td>COPD</td><td>1/21 (4.8%)</td></tr><tr><td>Brain Infarction</td><td>1/21 (4.8%)</td></tr><tr><td>Bronchiectasis</td><td>1/21 (4.8%)</td></tr><tr><td>Auricular fibrillation</td><td>1/21 (4.8%)</td></tr><tr><td>CKD</td><td></td></tr><tr><td>Exposure</td><td>1/21 (4.8%)</td></tr><tr><td>Exposure to Wuhan</td><td></td></tr><tr><td>Exposure to patients‡</td><td>5/21 (23.8%)</td></tr><tr><td>Symptoms</td><td>6/21 (28.6%)</td></tr><tr><td>Fever</td><td>21/21 (100%)</td></tr><tr><td>Cough</td><td>14/21 (66.7%)</td></tr><tr><td>Phlegm</td><td>9/21 (42.9%)</td></tr><tr><td>Fatigue</td><td>6/21 (28.6%)</td></tr><tr><td>Dyspnea</td><td>6/21 (28.6%)</td></tr><tr><td>Nausea</td><td></td></tr><tr><td>Rhinorrhea</td><td>4/21(19.0%)</td></tr><tr><td>Chest pain</td><td>1/21 (4.8%)</td></tr><tr><td>State of illness</td><td>1/21 (4.8%)</td></tr><tr><td></td><td></td></tr><tr><td>severe critical</td><td>17/21 (81.0%)</td></tr><tr><td>Oxygen therapy</td><td>4/21 (19.0%)</td></tr><tr><td>High-flow oxygen</td><td></td></tr><tr><td>Nasal cannula</td><td>9/20 (45.0%)</td></tr><tr><td></td><td>7/20 (35.0%)</td></tr><tr><td>Invasive ventilation</td><td>2/20 (10.0%)</td></tr><tr><td>Noninvasive ventilation</td><td>1/20 (5.0%)</td></tr><tr><td>Mask oxygen</td><td>1/20 (5.0%)</td></tr><tr><td>Tocilizumab adverse events</td><td>0</td></tr><tr><td>Hospitalization days (range)-days* Clinical outcome</td><td>13.5 ± 3.1 (10-19) †</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/86ff95e146fbb8529b67506659b03d65925267e4a42ba5f67f321c3d82e90aa3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Discharge from hospital</td><td>19/21 (90.5%)</td></tr><tr><td>Hospitalization</td><td>2/21 (9.5%)</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "CHD,coronary heart disease; COPD, chronic obstructive pulmonary disease; CKD,chronic kidney disease.Data are $\\mathrm { n / N } \\left( \\% \\right)$ unless specified otherwise. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$\\dagger$ Plus-minus values are means $\\pm \\operatorname { S D }$ $\\ddagger$ Patients who have confirmed COVID-19. \\* Hospitalization days after the treatment with tocilizumab. ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/86d426c0b42be5165d282ef30c085625b50bae5d0faec45a89aaf65cce81103c.jpg",
+        "table_caption": [
+            "Table2Laboratory Tests before and after Tocilizumab "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Range</td><td>Before the tocilizumab</td><td colspan=\"3\">After the tocilizumab</td></tr><tr><td></td><td></td><td></td><td>D1</td><td>D3</td><td>D5</td></tr><tr><td rowspan=\"2\">White-cell count, ×109/L</td><td rowspan=\"2\">3.5-9.5</td><td>6.30 ± 2.77</td><td>8.05 ± 4.39</td><td>6.02 ± 3.05</td><td>5.25 ± 2.11</td></tr><tr><td>(4/20,20.0%)</td><td>(8/18, 44.4%)</td><td>(9/21,42.9%)</td><td>(2/19,10.5%)</td></tr><tr><td rowspan=\"2\">Lymphocyte percentage, %</td><td rowspan=\"2\">20-50</td><td>15.52 ± 8.89</td><td>11.78 ± 11.36</td><td>16.93 ± 13.59</td><td>22.62 ± 13.48</td></tr><tr><td>(17/20,85.0%)</td><td>(16/18,88.9%)</td><td>(14/21,66.7%)</td><td>(9/19, 47.4%)</td></tr><tr><td rowspan=\"2\">C-reactive protein, mg/L</td><td rowspan=\"2\">0-5</td><td>75.06 ± 66.80</td><td>38.13 ± 54.21</td><td>10.61 ± 13.79</td><td>2.72 ± 3.60</td></tr><tr><td>(20/20,100%)</td><td>(17/18,94.4%)</td><td>(10/20,50.0%)</td><td>(3/19,15.8%)</td></tr><tr><td rowspan=\"2\">Procalcitonin, ng/ml</td><td rowspan=\"2\">0-0.5</td><td>0.33 ± 0.78</td><td>0.21 ± 0.35</td><td>0.09 ± 0.13</td><td>0.12 ± 0.15</td></tr><tr><td>(2/20,10.0%)</td><td>(2/16,12.5%)</td><td>(1/19,5.3%)</td><td>(1/18,5.6%)</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Data are means $\\pm$ SD (abnomal no./total no., $\\%$ ！ ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea6e5341abf79075c7ca330f233288703adf947f22542b5ec32759212e8bc0ee.jpg",
+        "img_caption": [
+            "Figure 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/69091c679bee8e3eef141583a65b55a75f39e282534445786496626135c692d3.jpg",
+        "img_caption": [
+            "Figure 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    }
+]

@@ -1,0 +1,175 @@
+# 塔克拉玛干沙漠南缘策勒流沙前缘与绿洲内部近地面逆温逆湿特征研究
+
+毛东雷}²，蔡富艳³，李新国¹，雷加强24，来风兵'，薛杰2,4(1新疆师范大学地理科学与旅游学院/新疆干旱区湖泊环境与资源重点实验室，新疆乌鲁木齐830054;2中国科学院新疆生态与地理研究所,新疆乌鲁木齐830011；3乌鲁木齐职业大学应用工程学院,新疆乌鲁木齐830002；4 新疆策勒荒漠草地生态系统国家野外科学观测研究站,新疆策勒848300)
+
+摘要：利用新疆策勒流沙前缘及绿洲内部的野外气象观测数据，运用同步对比与统计分析方法，分析塔克拉玛干沙漠流沙前缘及绿洲内部近地表 $0 . 5 \mathrm { ~ m ~ }$ 和 $2 \mathrm { ~ m ~ }$ 高度之间逆温逆湿特征，揭示不同时期、典型天气状况下的逆温逆湿特征，为沙漠与绿洲内部的热量和水汽运移交换提供理论依据。结果表明：流沙前缘月平均相对湿度最大值出现在10月，最小值出现在4月，气温最高出现在8月，最低出现在1月。2011年7月逆温逆湿强度最大，逆湿日数占总逆湿日数的 $3 8 . 7 1 \%$ ，逆温日数占总逆温日数的 $3 . 7 6 \%$ 。逆温时间集中在傍晚19：00至上午10：00之间，逆湿出现在上午10：00至晚上21:00之间。绿洲内部月最低气温出现在2011年1月，最高气温出现在2011年7月，相对湿度最小值出现在2011年4月，最大值 $( 7 4 . 9 1 \%$ )出现在2010年9月。最强逆温逆湿现象出现在2010年的11月，平均日温差 $3 . 4 8 ~ \mathrm { { ^ { \circ } C } }$ ，垂直高度湿差达 $2 . 2 7 \%$ 。总体上，在流沙前缘与绿洲内部，冬季的相对湿度整体上大于夏季的相对湿度，而气温整体上表现为夏季高冬季低，同一高度的温度与湿度呈现较好的负相关性。在4种典型天气情况下，流沙前缘与绿洲内部出现的温湿度变化和逆温逆湿特征变化趋势基本一样,但出现的时间上基本存在绿洲内部提前流沙前缘滞后的现象，但在晴天和扬沙天气下，逆湿在流沙地出现的时间提前而流沙前缘滞后。绿洲内部出现的逆温逆湿持续时间一般比流沙地持续的时间较长。
+
+关键 词：逆温；逆湿；特征；流沙前缘；绿洲；策勒
+
+在对流层中，大气温度一般情况下会随着海拔高度的增加而下降。逆温现象则是指大气温度随着高度的增加而发生温度随之上升的一种现象[1。同样的，逆湿现象是随着高度的上升空气相对湿度不降低,而随着高度的上升而上升的一种现象[2-3]从热力学上来说，有逆温现象存在说明大气处于稳定状态。逆温层的出现会阻碍近地面大气与高空大气的对流运动，阻止近地面产生的污染物向高空运输和扩散[4-7],使污染物在近地面不断聚集,加剧空气的污染程度,从而危害人体健康[8]。相关学者对干旱区的气温和湿度特征进行了研究,姚玉璧等[9]对近50a来西北半干旱区气候变化特征进行了研究，指出近50a来西北干旱半干旱区的相对湿度呈波动变化,而平均气温呈上升趋势。张强等[1]通过分析西北干旱区邻近绿洲的荒漠戈壁大气湿度的变化特征，揭示了绿洲对其临近荒漠戈壁大气水分输送的影响。张凯等[1对绿洲荒漠过渡带夏季晴天地表辐射和能量平衡及小气候特征进行了研究，揭示近地层空气温度和湿度变化呈负相关性。范丽红等[12]对绿洲一过渡带—荒漠气候特征日变化分析，揭示了绿洲的气温日变化值一直低于荒漠，体现了绿洲的“冷岛效应”，相对湿度的日变化值绿洲一直比荒漠大,体现了绿洲的“湿岛效应”。王敏仲等[3]对南疆沙漠腹地夏季晴天与沙尘日小气候观测对比分析，表明晴天夜间近地层有逆温现象，晴天比湿在白天较小夜间较大。策勒绿洲近50a气温无显著变化,而相对湿度呈缓慢下降趋势[13]。相关学者对绿洲和城市逆温逆湿特征展开了研究，分析了绿洲沙漠边缘逆湿数字模拟、低空逆温特征[14-16]。毛东雷等[17]通过研究策勒绿洲一沙漠过渡带及绿洲内部小气候特征，指出地表植被和地形可以影响局地小气候,王惠等[18]研究了荒漠绿洲过渡带土壤湿度对植被空间变异的影响，也有相关学者研究了策勒地区的防风阻沙等问题[19-20]。但针对沙漠与绿洲内部近地表逆温逆湿特征的研究较少，本文希望通过此研究探明塔克拉玛干沙漠边缘与绿洲内部逆温逆湿分布的时空特点及差异，从而为沙漠与绿洲内部的水汽运移与热量交换提供重要的理论依据和科学支撑。
+
+# 1材料与研究方法
+
+# 1.1 研究区概况
+
+策勒县位于我国西北干旱地区的新疆维吾尔自治区和田地区境内。区域位置为 $8 0 ^ { \circ } 0 3 ^ { \prime } 2 4 ^ { \prime \prime } \sim 8 2 ^ { \circ } 1 0 ^ { \prime }$ $3 4 ^ { \prime \prime } \mathrm { E } , 3 5 ^ { \circ } 1 7 ^ { \prime } 5 5 ^ { \prime \prime } \sim 3 9 ^ { \circ } 3 0 ^ { \prime } 0 0 ^ { \prime \prime } \mathrm { N }$ （图1），位于塔克拉玛干沙漠的最南缘，和昆仑山相邻,整体地势南部高北部低，生态环境脆弱，属于大陆型极端干旱荒漠气候，年平均降水量为 $3 5 . 1 \mathrm { m m }$ 。地处塔里木盆地的下风区，受风害影响较大，主导风向为NE和NW，多年平均沙尘天气达25.2d,最多达59d,大气平均相对湿度为 $3 7 \%$ ,无霜期 $2 3 1 \mathrm { ~ d } ^ { [ 1 9 ] }$ 。由于风沙的侵袭,在历史上策勒县曾多次搬迁。策勒县光热资源丰富，全年日照大于 $1 0 \ \%$ 以上的时数为 $1 \ 7 0 5 \ \mathrm { h }$ ,大于$1 0 \ \mathrm { { ^ { c } } }$ 的有效积温为 $4 3 7 5 ^ { \circ } \mathrm { { ^ C } }$ ，年均气温 $1 1 . 9 ~ \mathrm { { ^ { \circ } C } }$ ，极端最低气温为-23.9℃,最高气温为41.9℃[21] 。
+
+![](images/ad5bb3d06b55e36a2e7de99eab1b525f889de0dca458889e81c0b13414071d35.jpg)  
+图1研究区气象观测站区位图  
+Fig.1Graph of distribution of meteorological stations in the study area
+
+# 1.2 数据来源与方法
+
+在2010年9月 $\sim 2 0 1 1$ 年8月，在塔克拉玛干沙漠南缘策勒流沙前缘与绿洲内部气象站测定近地面$0 . 5 \mathrm { ~ m ~ }$ 和 $2 \mathrm { ~ m ~ }$ 高处的温度和大气相对湿度等指标，每隔 $1 ~ \mathrm { m i n }$ 或 $5 ~ \mathrm { m i n }$ 观测1个数据。分析大气温度和相对湿度日变化时采用的数据，均为全天完整观测的数据，以计算每小时的平均值为依据。在表现年变化时采用全年完整的数据，以计算月平均值为依据。策勒地区典型天气有晴天、阴天、沙尘暴和扬沙天气，4种天气的总数约占年总数的 $9 2 . 1 8 \%$ ，本文以2011年的5月16日、1月14日、3月12日、8月8日作为这4种天气的具体研究对象，分析流沙前缘与绿洲内部在这4种典型天气下的逆温逆湿特征。按季节划分，春季为3、4、5月，夏季为6、7、8月，秋季为9、10、11月，冬季为12、1、2月。温度差为 $2 . 0 \mathrm { ~ m ~ }$ 高处的温度与 $0 . 5 \mathrm { ~ m ~ }$ 高处的温度之差，湿度差为 $2 . 0 \mathrm { ~ m ~ }$ 高处的相对湿度与 $0 . 5 \mathrm { ~ m ~ }$ 高处的相对湿度之差。所有的时间均采用北京时间，运用Excel2016和Origin9.0分析软件分析数据并绘制相关图件。
+
+# 2 结果和分析
+
+# 2.1 流沙前缘与绿洲内部的温度与相对湿度月变化
+
+2010年9月 $\sim 2 0 1 1$ 年8月，流沙前缘的月最低气温出现在2011年1月 $0 . 5 ~ \mathrm { ~ m ~ }$ 的高度，温度为$- 1 1 . 0 4 \mathrm { ~ \textdegree C }$ ，最高平均气温出现在2011年8月$0 . 5 \mathrm { ~ m ~ }$ 的高度，月平均温度为 $2 6 . 6 7 \mathrm { ~ \textdegree C }$ ;相对湿度的值在2011年4月发生了显著变化，较前后月都偏小，在2011年4月 $2 \mathrm { ~ m ~ }$ 的高度,月平均相对湿度为$1 7 . 4 6 \%$ ,大气湿度降低到了最低，最大值在2010年的10月 $0 . 5 \mathrm { ~ m ~ }$ 的高度,月平均相对湿度为 $5 0 . 9 5 \%$ （图2a）。
+
+2010年9月 $\sim 2 0 1 1$ 年8月，绿洲内部的月最低气温出现在2010年1月， $0 . 5 \mathrm { ~ m ~ }$ 高度的月平均温度为 $- 9 . 9 9 \mathrm { ~ } \mathrm { } ^ { \circ } \mathrm { C }$ ,最高气温出现在2011年7月 $0 . 5 \mathrm { ~ m ~ }$ 的高度上，月平均温度为 $2 3 . 7 6 ~ \mathrm { ^ { \circ } C }$ ；相对湿度最小值出现在2011年4月， $2 ~ \mathrm { ~ m ~ }$ 高月平均相对湿度为$3 0 . 5 3 \%$ ,相对湿度最大值为 $7 4 . 8 7 \%$ ，发生在2010年9月 $0 . 5 \mathrm { ~ m ~ }$ 的高度上（图2b）。
+
+从整体上来看，2010年9月 $\sim 2 0 1 1$ 年8月，策勒流沙前缘与绿洲内部的月平均气温都呈现出先减小后增大的趋势，而相对湿度在2011年4月发生了显著变化，4月的前后月相对湿度呈现先减小后上升的趋势，最低值出现在4月，这主要是由于气温的变化引起的，气温整体上呈现夏季高于冬季，而相对湿度整体上秋冬季高、春夏季低（图2）。
+
+# 2.2流沙前缘与绿洲内部的逆温逆湿特征月变化差异分析
+
+2010年9月～2011年8月，在流沙前缘，2010年10、11、12月和2011年1、2、3、4月均存在逆温现象,2011年12月逆温强度达到最大，平均日温差为 $0 . 9 2 \mathrm { ~ \textdegree C }$ ，在2011年的7月存在逆湿现象，日均高度湿差为 $0 . 8 2 \%$ （图3a）。在绿洲内部,2010年10、11、12月和2011年1、2、3月存在的逆温现象，最强逆温出现在2010年的11月，平均日温差$3 . 4 8 \mathrm { ~ } \mathrm { { ^ { \circ } C } }$ ,在2010 年11月存在最强逆湿现象，垂直高度湿差达 $2 . 2 7 \%$ （图3b）。总体来看，流沙前缘与绿洲内部在2010年9月 $\sim 2 0 1 1$ 年8月中,2010年10、11、12月和2011年1、2、3月均存在逆温现象，逆温现象在冬季较强，而逆湿现象分别在7月和11月较强（图3）。策勒流沙前缘3月开始沙尘天气频发，逆温现象会不利于春季气流水平和垂直方向上的运动，有利于减少塔克拉玛干的沙尘输入到绿洲内部。
+
+![](images/869dc085a1a42abc028d21ffe0ebe120b0feef967a6d81aeaa88ba93a061fb34.jpg)  
+图2流沙前缘与绿洲内部的温湿度变化特征
+
+Fig.2Variation characteristicsof air temperature and relative humidity in the margin ofquicksand and inner oasis
+
+![](images/5efaa382abc4b7dc3e2bf4868769c8c4553569835f04289717e6bb76f5f00bfb.jpg)  
+图3流沙前缘与绿洲内部的近地面逆温逆湿特征
+
+Fig.3Characteristicsofairtemperature inversionandrelative humidity inversionnear theground surfaceinthefrontierof shifting sandy land and inner oasis
+
+# 2.3流沙前缘与绿洲内部的逆温逆湿特征日变化差异分析
+
+在策勒流沙前缘，2010年9月和2011年5～8月逆温日数较少，最少为6月和7月，逆温日数均为2 d,2010年 $1 0 \sim 1 2$ 月和2011年1\~4月逆温日数最多，2010年12月逆温天数最多，为31d，占全年总逆温数的 $1 6 . 6 7 \%$ ,2010年11月和2011年1月逆温日数也较多，均为 $2 9 \mathrm { ~ d ~ }$ ,该年总逆温日数为186d（图4a）。从图 $4 \mathrm { a }$ 中还可以看出，7月的逆湿日数最多，逆湿日数为12d,该年总逆湿日数为31d,占总逆湿日数的 $3 8 . 7 1 \%$ 。在策勒绿洲内部,2010 年9月和2011年3\~8月逆温日数较少，最少为6月和7月，逆温日数均为 $^ { 2 } \mathrm { ~ d ~ } , 2 0 1 0$ 年 $1 0 \sim 1 2$ 月和2011年1\~3月逆温日数最多,2010年12月逆温天数最多，为30d，占全年总逆温日数的 $1 7 . 5 4 \%$ ,2010年11月和2011年1月逆温日数也较多，均为 $2 8 \mathrm { ~ d ~ }$ ,该年总逆温日数为158d（图4b）。从图4b还可以看出，2010年9月的逆湿日数最多，逆湿日数为 $^ { 7 \mathrm { ~ d ~ } }$ ，该年总逆湿日数为27d,占总逆湿日数的 $2 5 . 9 3 \%$ 。总体来看，流沙前缘与绿洲内部在2010 年12月的逆温强度最大，最大逆湿强度分别出现在2011年7月流沙前缘和2010年9月绿洲内部（图4）。逆温现象在冬季较为多发的原因为冬季陆地表面逆辐射较强，温度较低，接近地面的空气温度低，而高处大气损失热量较少，温度高，从而出现上暖下冷的逆温现象；逆湿现象分别出现在7、9月的原因是两者下垫面性质不一样，绿洲内部有植被覆盖、农田灌溉，使空气中的水蒸气含量更多。
+
+从整体来看，流沙前缘逆温强度最大分布在2010年11、12月和2011年1、2月，2010年10月和2011年3、4月，逆温强度波动较大，而逆湿强度较小。2010年9月和2011年5、6、7、8月，逆温强度整体上较小,其中逆温特征在7月最大，而逆湿强度整体上较大，其中逆湿强度最大在7月（图5a）。从整
+
+![](images/f2c93ab3b55aea48da6ff776246f06068ffeb5fe5172d1eee55e9cd97721c742.jpg)  
+图4流沙前缘与绿洲逆温逆湿日数对比图  
+图5流沙前缘与绿洲逆温逆湿日变化
+
+Fig.4Comparisonof daysof airtemperature inversionandrelativehumidityinversion inthemarginofquicksandandoasis
+
+温度差/℃---湿度差/% 温度差/℃ ---湿度差/%2.0 8 3.0 41.5 (a)流沙前缘 二 6 2.5 部 201.0 4 1510 -2  
+℃ 0.5 2 0% 3/ 0.5 1 -4 10%  
+/美票 0 美票 美圳票 0.5 68 美圳票0-2 -1.0-0.5 -10-4 -1.5 二 -12-1.0-6 -2.5 -14020103010929187727198281807271706265 01201030199291872719828187277062650901010112202284456678809 001010122022844566788日期/月-日 日期／月-日
+
+Fig.5Diurnal change of air temperature inversionandrelative humidityinversion inthe marginof quicksand and oasis体上看，绿洲内部最大逆温强度出现在2010 年11、12月和2011年1、2月，而逆湿强度整体较小。2010年10月和2011年3、4月，逆温强度波动较大，其中最多逆温日数出现在3月，而逆湿强度较小。2010年9月和2011年5、6、7、8月，逆温强度整体上较小，其中逆温强度在8月最大，而逆湿强度整体上较大，其中逆湿强度最大在9月（图5b）。
+
+流沙前缘与绿洲内部的逆温特征在2010年的11、12月份和2011年的1月份较显著（图5）。流沙前缘和绿洲内部最强的逆温现象分别出现在2011年1月2日和2011年11月17日，垂直温差分别为$1 . 5 7 ~ \mathrm { { ^ { \circ } C } }$ 和 $2 . 4 0 \ \mathrm { ^ { \circ } C }$ ，流沙前缘和绿洲内部最强逆湿现象分别出现在2011年6月28日和2011年9月25日，垂直湿差分别为 $7 . 1 7 \%$ 和 $2 . 2 8 \%$ 。流沙前缘与绿洲相比较来说,冬季逆温特征较春、夏、秋季更为明显，而逆湿特征分别则在7月和9月更为明显。
+
+# 2.4流沙前缘与绿洲内部在典型天气下的逆温逆 湿特征
+
+2.4.1 晴天天气状况下逆温逆湿特征在流沙前缘晴天天气下，晚上20：00左右出现逆温现象，并且逆温程度不断加强，到早上08：15左右结束，最强逆温现象出现在凌晨 $0 3 : 3 5 \sim 0 3 : 5 0$ 之间， $0 . 5 \mathrm { ~ m ~ }$ 和$2 . 0 \mathrm { ~ m ~ }$ 高度之间的垂直温度差为 $2 . 9 1 ~ \mathrm { { ^ { \circ } C } }$ ,逆湿现象出现在上午09：00左右至晚上20：00左右，最强逆湿现象发生在凌晨 $0 4 : 2 0 \sim 0 4 : 3 5$ 左右，垂直高度湿度差为 $5 \%$ （图6a）。在绿洲内部，逆温现象出现在下午18：30左右至上午10：00左右，最强的逆温现象发生在凌晨 $0 3 : 3 5 \sim 0 3 : 5 0$ 之间,垂直温度差为$4 . 8 7 ~ \mathrm { { ^ { 9 C } } }$ ,最强的逆湿现象发生在上午 $1 1 { : } 0 0 \sim 1 1 { : } 2 0$ 左右，垂直湿度差为 $1 . 6 0 \%$ ，逆湿出现在上午11：00左右至下午17：30左右结束（图6b）。总体来看，在晴天天气状况下，流沙前缘与绿洲的逆温持续时间分布在深夜20：00至上午09：00之间，最强逆温现象发生在同一个时间段 $0 3 : 3 5 \sim 0 3 : 5 0$ 左右,逆湿主要分布在上午11：00至下午18：00之间，最强逆湿现象出现的时间不一样。流沙前缘与绿洲温度与湿度在相同的高度体现出良好的负相关性。两者温湿度变化及逆温逆湿变化时间上存在提前和滞后现象，这主要是因为白天流沙前缘与绿洲内部受到的太阳辐射强弱不一样，流沙地近地表吸收热量快、升温快、温度高、相对湿度低，而绿洲有植被覆盖和农业灌溉，存在植物水分蒸腾和灌溉水分蒸发作用，使空气的热量被水分吸收因此减少，从而降低空气温度，增加大气相对湿度。夜间因为地面辐射而散失热量，流沙地植被少，散失热量快，绿洲植被覆盖率高且有建筑物，散失热量较慢，则绿洲的温度高于流沙前缘的温度（图6）。
+
+2.4.2阴天天气状况下逆温逆湿特征在流沙前缘，逆温现象出现在傍晚19：00左右至上午11：00左右结束，最强逆温出现在晚上21：20左右，垂直温度差为 $3 . 8 6 ~ \mathrm { ^ { 9 } C }$ ,逆湿现象出现在上午12：00左右至傍晚19：00左右结束，最强逆湿现象发生在下午$1 5 : 3 5 \sim 1 6 : 0 0$ 之间,垂直湿度差为 $2 . 6 0 \%$ （图7a）。在绿洲内部，逆温现象出现在傍晚18：30左右至上午11;00左右结束，最强逆温现象在凌晨 $0 6 : 3 0 \sim$ 06：55之间，垂直温差为 $4 . 7 5 \mathrm { ~ \textdegree C }$ ,逆湿现象出现在上午11：00左右至傍晚19：00左右结束，最强逆湿现象发生在中午 $1 3 : 3 5 \sim 1 4 : 0 0$ 之间，垂直湿度差为
+
+![](images/5e2154e449c301e50becd873ebf26e87d830fa7a4ee28f10f94a8e73390c383e.jpg)  
+图6晴天天气下的温湿度变化  
+Fig.6Changes in air temperature and relative humidity during sunny weather
+
+![](images/1ef42f1666ede919f6bfc901d5cee5deeb8f002b96bb6f73ca27d6aa75eea5e1.jpg)  
+图7阴天天气下的温湿度变化  
+Fig.7Changes in air temperature and relative humidity during cloudy weather
+
+$4 . 5 0 \%$ （图7b）。总体来看，阴天天气状况下，流沙前缘与绿洲的逆温持续时间基本分布在傍晚19：00左右至上午11：00左右，但最强的逆温发生在不同的时间段，两者逆湿分布在上午11：00至傍晚19：00之间。在阴天天气下，流沙前缘与绿洲温湿度变化和逆温逆湿特征变化趋势基本一致，这主要是由于白天云层通过对太阳辐射的削弱作用，消耗掉部分热量，以致白天的气温不高，夜间的时候，云层通过保温作用,把大部分地面辐射反射回地面，补充地面损失的热量，以致夜间的气温较高（图7）。
+
+2.4.3 沙尘暴天气情况下逆温逆湿特征在流沙前缘，逆温现象出现在下午18：00至早上10：00左右,最强逆温发生在 $0 7 : 0 0 \sim 0 7 : 1 5$ 左右,垂直温度差为 $5 . 8 4 ~ \mathrm { ^ { \circ } C }$ ；逆湿现象出现在上午11：00至傍晚19：00左右，最强逆湿现象发生在夜间00：45\~01：00之间，垂直湿度差为 $3 . 8 0 \%$ （图8a）。在绿洲内部，逆温现象出现在下午18：00左右至早上10：00左右,最强逆温发生在早上 $0 8 : 4 5 \sim 0 9 : 0 0$ 左右，垂直温度差为 $6 . 1 3 \mathrm { ~ \textdegree C }$ ;逆湿现象出现在上午11：00左右至夜晚23：00左右，最强逆湿现象发生在中午$1 3 : 0 0 \sim 1 3 : 2 0$ 之间，最强湿度差高达 $4 . 5 0 \%$ （图8b)。总体上，在沙尘暴的天气情况下，流沙前缘与绿洲的逆温现象持续时间基本分布在下午18：00 左右到早上10：00左右，逆温持续时间较长，达16个小时，最强逆温出现在绿洲内部，垂直温差为$6 . 1 3 \mathrm { ~ \textdegree C }$ ,最强逆湿现象出现在流沙前缘，垂直湿差达 $3 . 8 0 \%$ 。白天沙尘天气下的流沙前缘和绿洲的温湿度变化趋势基本一致，夜间温湿度变化和逆温现象出现的时间上存在绿洲提前流沙前缘滞后现象。
+
+这主要是因为流沙前缘与绿洲下垫面性质不一样，绿洲比流沙地植被覆盖度高，且表明地表空气湿度俞加显著，同时植被覆盖度增加导致植物蒸腾作用加强,消耗大量热量,也会使气温降低[22],则存在绿洲提前流沙前缘滞后现象（图8）。
+
+2.4.4扬沙天气情况下逆温逆湿特征在流沙前缘，夜晚21：00左右至早上09：00左右，近地面出现了逆温现象，最强逆温出现在 $0 2 : 2 0 \sim 0 2 : 4 0$ 之间，垂直温度差为 $2 . 5 1 \ { } ^ { \circ } { \mathrm { C } }$ ;在早上10：00左右至夜晚21：30左右存在逆湿现象，最高湿差为 $1 . 6 0 \%$ ，最强逆湿现象出现在 $1 1 { : } 4 0 \sim 1 2 { : } 0 0$ 之间（图 $9 \mathrm { a }$ )。在绿洲内部，逆温现象出现在夜晚21：00至早上08：30左右,最强逆温发生在 $0 3 : 0 0 \sim 0 3 : 2 0$ 之间,最高温差为 $0 . 6 9 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ ；逆湿现象出现在上午11：00至晚上20:00 左右，最强逆湿现象在 $1 4 : 1 0 \sim 1 4 : 3 0$ 左右达到最强，垂直高度湿差高达 $7 . 6 0 \%$ （图9b）。总体来看，在扬沙天气情况下，流沙前缘与绿洲的逆温现象持续时间基本分布在夜晚21：00左右至早上09：00左右，逆温持续时间较长，达 $1 2 \mathrm { ~ h ~ }$ ,最强逆温出现在流沙前缘，垂直温差高达 $2 . 5 1 \ \mathrm { { ^ { \circ } C } }$ ,最强逆湿现象出现在绿洲，垂直湿差为 $7 . 6 0 \%$ 。白天扬沙天气下的流沙前缘与绿洲的温湿度变化趋势基本一样，夜间具有明显的变化，流沙地湿度变化比绿洲提前$1 . 5 \mathrm { ~ h ~ }$ 左右，这主要是由于流沙地与绿洲下垫面性质不一样，由于绿洲植被覆盖高，地表空气湿度增加，流沙地植被覆盖低，空气湿度降低，且空中的沙粒阻碍了夜间地面长波辐射冷却效应，减弱了由近地气层输送给地面的热量[3],则出现温湿度变化流沙地提前绿洲滞后现象（图9）。
+
+![](images/d14ee796233c33e9743e87603f9054104964c68c1eb743d17c9080dca0e113bf.jpg)  
+Fig.8Changes in air temperature and relative humidity during dust storm weather
+
+![](images/211dccf922be60aa8299f4c3f55887d65e497441c3af3332f6ae76c298be4b44.jpg)  
+图8沙尘暴天气下的温湿度变化  
+图9扬沙天气下的温湿度变化  
+Fig.9Changes in air temperature and relative humidity during blowing sand weather
+
+# 3讨论
+
+在绿洲系统内，由于受到边缘沙漠的影响，绿洲一沙漠(戈壁)系统之间会产生次一级的环流，沙漠(戈壁)上干热的空气通过平流作用输送到绿洲上空，使绿洲上空的空气温度上升，出现逆温现象;而绿洲近地面的冷湿空气又通过平流作用运输到沙漠(戈壁)的近地面，使绿洲近地面湿度下降，出现逆湿现象[23-25]。在沙漠地区,逆湿大多发生在白天，这是由于白天沙漠增温快，地表温度高，而绿洲由于植被的覆盖温度较低，沙漠地区受到绿洲“冷岛效应"的影响[26]，白天近地面大气主要由绿洲向沙漠运动，使沙漠地区近地表大气的相对湿度上升，温度下降。在夜晚,沙质地表相对于大气来说降温快，所以越接近地表的大气温度越低，发生逆温现象[3]。由于饱和水汽压受温度的影响最大,且随着温度的上升而上升，在空气中水汽压不变的情况下，空气中的饱和水汽压越高，其相对湿度也越小，即同等高度下,温度和相对湿度呈现出负相关性[1],温度越高大气相对湿度越低。本文研究表明：流沙前缘与绿洲逆温大多发生在夜间，而逆湿大多发生在白天，在逆温时段有利于减少沙尘气流的水平和垂直方向上的扩散，而白天不利于沙漠和绿洲之间的水汽运移和扩散。
+
+在流沙前缘与绿洲，不同时期、不同典型天气下出现的温湿度变化和逆温逆湿特征变化趋势基本一样，但出现的时间上都存在绿洲提前流沙前缘滞后现象。这主要是由于太阳辐射强弱、下垫面性质不一样等原因引起的。流沙地比绿洲吸收热量快、升温快、温度高、相对湿度低，而绿洲比流沙地植被覆盖度高，植被覆盖越高，地表空气湿度增加的越显著，同时植被覆盖度增加导致植物水分蒸腾和灌溉水分蒸发作用加强，使空气的热量被水分吸收因此减少，从而降低空气温度，提高大气相对湿度，
+
+风速和风向也会影响当地的温度和相对湿度，并影响逆温逆湿现象的时空分布和强度，气压的高低也会影响当地的风速和风向，进而影响气温和相对湿度，通过本文研究对流沙前缘与绿洲近地表上空的温湿度进行对比分析，后续研究可以结合风速、风向、气压等因素，并增加观测高度，结合流沙前缘一绿洲一沙漠过渡带一绿洲内部的逆温逆湿情况进行对比分析，并进一步揭示沙漠和绿洲之间的水热运移规律。
+
+# 4结论
+
+（1）策勒流沙前缘与绿洲内部，月平均相对湿度在2011年4月发生了显著变化，较前后月的平均相对湿度都小，使大气湿度降到了最低，最高气温分别出现在7、8月。
+
+（2）流沙前缘与绿洲的冬季逆温强度大于夏季，冬季逆温日数占年逆温日数的 $4 5 . 6 9 \%$ ,12月的逆温强度最大，逆温天数为 $3 1 \mathrm { ~ d ~ }$
+
+（3）2011年7月流沙前缘逆温逆湿强度最大，逆湿日数占总逆湿日数的 $3 8 . 7 1 \%$ ,逆温日数占总逆温日数的 $3 . 7 6 \%$ ,绿洲内部的最强逆温逆湿现象出现在2010年的11月，流沙前缘与绿洲逆温大多发生在夜间19：00至早上10：00之间，而逆湿大多发生在白天10：00至晚上21：00之间。
+
+（4）在晴天、阴天、沙尘暴、扬沙天气下，流沙前缘与绿洲出现的温湿度变化和逆温逆湿特征变化趋势基本一样，但出现的时间上存在绿洲提前流沙前缘滞后现象，而且绿洲内部出现的逆温逆湿持续时间一般比流沙地持续的时间较长。
+
+# 参考文献(References)
+
+[1]黄景,徐伟萍,金小城.台州低空逆温层特征分析[J].气象与 环境科学,2016,39(2）:113-118.[HUANG Jing,XU Weiping, JIN Xiaocheng. Characteristics analysis of low-altitude temperature inversion layer over Taizhou[J].Meteorological and Environmental Sciences,2016,39(2):113-118.]
+
+[2］曲绍厚,胡非,李亚秋,等.北冰洋及其邻近海域极昼期间大气 边界层结构特征试验研究[J].物理学报，2002，45（1）：8-16. [QU Shaohou,HUFei,LI Yaqiu,etal.Experiment research on the characteristics of ABL structure over the arctic ocean and adjacent sea area during the polar day period[J].Chinese Journal of Geo
+
+physics,2002,45(1) :8-16.]
+
+[3］王敏仲,魏文寿,何清,等.南疆沙漠腹地夏季晴天与沙尘日小气候观测对比分析[J].气象，2008，34（11）：7-14.［WANGMinzhong,WEIWenshou,HE Qing,etal.Contrast analysis on mi-croclimate characteristic of clear day and sand-dust day in Tazhongstation of desert hinterland of South Xinjiang in summer[J].Mete-orological Monthly,2008,34（11） :7-14.]
+
+[4］刘立忠.南京地区贴地逆温的天气气候特征[J].气象科学, 1985,(2）:69-76.［LIU Lizhong.Synoptic and climatic characteristics of the surface inversion in Nanjing region[J].Scientia Meteorologica Sinica,1985,（2）:69-76.]
+
+[5］何永晴,赵玉成,冯蜀青.西宁市逆温特征及其与空气污染物 浓度的相关分析[J].冰川冻土，2014，36(3）：608-613.［HE Yongqing,ZHAO Yucheng,FENG Shuqing. Temperature inversion in Xining City:Characteristics and correlation with air pollutant concentrations[J].Journal of Glaciology and Geocryology,2O14,36 (3):608-613.]
+
+[6]程刚,高志球,郑友飞,等.北极低空急流和低层逆温特征观测分析[J].气候与环境研究，2013，18（1）：23-31.［CHENGGang,GAO Zhiqiu,ZHENG Youfei,etal.A study onlow-level jetsand temperature inversion over the arctic ocean by using SHEBAdata[J].Climatic and Environmental Research,2013,18（1）：23-31.]
+
+[7］王晓明,云天,张志勇,等.吉林省冬季逆温天气特征分析[J]. 气象,2009,35（8）:91-97.[WANG Xiaoming,YUN Tian, ZHANG Zhiyong,et al.Analysis on synoptic and climate features of temperature inversion under different conditions of geographical environment in winter[J].Meteorological Monthly,2Oo9,35（8）： 91-97.]
+
+[8］汤愁苍,王敬香,张建.利用冬季0.8米地温距平场预报春季降水场的初步方法[J].高原气象，1987，6（3）：244-255.[TANG Choucang，WANG Jingxiang,ZHANG Jian．A primarymethod for predicting the spring rainfall by the winter soil tempera-ture depth $8 0 \ \mathrm { c m } \ [ \mathrm { \ J } ]$ .Plateau Meteorology,1987,6（3）:244-255.]
+
+[9]姚玉璧,肖国举,王润元,等.近50 年来西北半干旱区气候变化特征[J].干旱区地理,2009，32（2）：159-165.［YAOYubi，XIAOGuoju,WANG Runyuan,et al.Climate changes of semi-aridregion over the Northwest China in recent 5O a[J].Arid Land Ge-ography,2009,32(2):159-165.]
+
+[10］张强，卫国安，黄荣辉.绿洲对其邻近荒漠水分循环的影响——敦煌试验数据分析[J].自然科学进展,2002,12（2）：60-65.[ZHANGQiang，WEI Guoan,HUANG Ronghui.Influ-ence of oasis on water cycle in adjacent desert-analysis on Dun-huang experimental data[J].Progress in Natural Science,2002,12(2):60-65.]
+
+[11］张凯，张强，王润元,等.绿洲荒漠过渡带夏季晴天地表辐射和 能量平衡及小气候特征[J].中国沙漠，2007，27（6)：1055- 1061.[ZHANGKai,ZHANG Qiang,WANG Runyuan,et al.Characteristics of surface radiation and energybalance as well microclimate within oasis-desert ecotone of Zhangye on typical clear days in summer[J].Journal of Desert Research,2007,27（6）:1055-
+
+1061. ]   
+[12］范丽红,格丽玛,何清,等.绿洲一过渡带一荒漠气候特征日变 化分析[J].新疆农业大学学报,2006,29（1）:5-9.[FANLihong,GE Lima,HE Qing,et al.Analysis on daily change of climate characteristics about oasis intermediate belt-desert[J]. Journal of Xinjiang Agricultural University,2006,29(1）:5-9.]   
+[13］曾佳,郭峰,赵灿,等.塔克拉玛干沙漠南缘小绿洲近50 a来气 候变化特征[J].干旱区地理,2014,37(5）：948-957.[ZENG Jia,GUO Feng,ZHAO Can,et al. Climate change of small oases in the southern margin of Taklimakan Desert in recent 5O years[J]. Arid Land Geography,2014,37(5):948-957.]   
+[14］陈世强,吕世华,奥银焕,等.绿洲沙漠边缘拟湿的数值模拟 [J].干旱区研究,2009,26（2）:277－281.[CHEN Shiqiang, LYU Shihua,AO Yinhuan,et al.Numerical study of inverse humidity over the marginal zone between oasis and desert[J].Arid Zone Research,2009,26(2) :277 -281.]   
+[15］郑玉萍,李景林,刘增强,等.乌鲁木齐冬季大雾与低空逆温的 关系[J].沙漠与绿洲气象,2007,1（3）:21-25.[ZHENG Yuping,LI Jinglin,LIU Zengqiang,etal.The relation between heavy fog and low temperature inversion in winter in Urumqi[J].Desert and Oasis Meteorology,2007,1(3）:21-25.]   
+[16］曹雪梅,雷延鹏,王鹏,等.洛川近地面夜间气温逆温特征及空 气扰动防霜可行性分析[J].农学学报,2016,6（5）：82－86. [CAO Xuemei,LEI Yanpeng,WANG Peng,et al. Feasibility analysis of frost protection and characteristics of nighttime inversion on the surface layer of Luochuan County[J]. Journal of Agriculture, 2016,6(5) :82 -86.]   
+[17］毛东雷,雷加强,李生宇,等.策勒绿洲一沙漠过渡带小气候的 空间差异［J].中国沙漠,2013,33（5）：1501－1510.［MAO Donglei,LEI Jiaqiang,LI Shengyu,et al. Spatial difference of microclimate in the oasis-desert ecotone in Cele,Xinjiang,China[J]. Journal of Desert Research,2013,33（5）:1501-1510.]   
+[18］王惠,赵文智,常学向.黑河中游荒漠绿洲过渡带土壤水分与 植被空间变异［J].生态学报,2007,27（5）：1731-1739. [WANG Hui,ZHAO Wenzhi,CHANG Xuexiang. Spatial variability of soil moisture and vegetation in in desert-oasis ecotone in the middle reaches of Heihe River Basin[J].Acta Ecologica Sinica, 2007,27(5):1731-1739.]   
+[19］杨佐涛.戈壁与绿洲内的风向风速关系——以新疆策勒县为 例[J].中国沙漠,1990,10（3）:36-42.[YANG Zuotao.Rela
+
+tions between wind velocity and direction in gobi area and oasis [J].Journal ofDesertResearch,1990,10(3）:36-42.]
+
+[20］王翠,李生宇，雷加强,等.近地表风沙结构对过渡带不同下垫面的响应[J].水土保持学报，2014，28（3）：52－56，71.[WANG Cui,LI Shengyu,LEI Jiaqiang,et al. Near-surface sandflux structure responses to different underlying surface in oasis-des-ert ecotone[J].Journal of Soil and Water Conservation,2O14,28(3)：52-56,71.]
+
+[21］邢文娟，雷加强，王海峰,等.荒漠一绿洲过渡带风况及输沙势 分析——以策勒县为例[J].干旱区研究，2008，25（6)：894- 898.[XINGWenjuan,LEI Jiaqiang,WANGHaifeng,etal.Analysis on wind regime and wind borne sand potential in a desert-oasis ecotone:A case study in Qira County,Xinjiang[J].Arid Zone Research,2008,25(6) :894-898.]
+
+[22］刘树华,辛国君，陈荷生，等.沙漠人工植被和流动沙丘的小气候特征观测研究[J].干旱区地理，1994，17（1)：16-23.［LIUShuhua,XIN Guojun,CHEN Hesheng,et al. Study on microclimateon the artificial vegetation over sand dunes in Shapotou area[J].AridLand Geography,1994,17（1）:16-23.]
+
+[23］吕世华，尚伦宇.金塔绿洲风场与温湿场特征的数值模拟[J]. 中国沙漠,2005,25（5）:623-628.[LYU Shihua,SHANG Lunyu.Numerical simulation of characteristics of wind field,air temperature and humidity in Jinta Oasis,Hexi Corridor[J]. Journal of Desert Research,2005,25(5） :623-628.]
+
+[24］左洪超，吕世华，胡隐樵，等.非均匀下垫面边界层的观测和数值模拟研究（I）：冷岛效应和逆湿现象的完整物理图像［J].高原气象,2004,23（2）：155-162.[ZUO Hongchao,LYU Shi-hua,HU Yinqiao,et al.Observation and numerical simulation ofheterogenous underlying surface boundary layer（I）:The wholephysical picture of cold island effect and inverse humidity[J].Plateau Meteorology,2004,23（2）:155-162.]
+
+[25］左洪超，吕世华，胡隐樵，等.非均匀下垫面边界层的观测和数 值模拟研究（Ⅱ)：逆湿现象数值模拟研究[J].高原气象， 2004,23(2）:163-170.[ZUO Hongchao,LYU Shihua,HU Yinqiao,et al. Observation and numerical simulation of heterogenous underlying surface boundary layer（I）:numerical simulation of inverse humidity phenomenon[J].Plateau Meteorology,2O04,23 (2):163-170.]
+
+[26]张强,胡隐樵.干旱区的绿洲效应[J].自然杂志,2001,23（4）：234-236.［ZHANG Qiang,HU Yinqiao.Oasis effect in arid re-gions[J].Chinese Journal of Nature,2001,23（4）:234-236.]
+
+# Characteristics of air temperature inversion and relative humidity inversion between the near ground surface in the oasis and the leading edge of shifting sandy land of Cele in the southern margin of Taklimakan Desert
+
+MAO Dong-lei $^ { 1 , 2 }$ ，CAI Fu-yan³，LI Xin-guo’，LEI Jia-qiang24，LAIFeng-bing¹，XUE Jie2,4 (1CollegeofGeographyScienceandTourism,Xinjiang Normal University/TheKeyLaboratory"XinjiangLaboratoryofLake EnvironmentandResources inArid Zone”,Urumqi83oo54,Xinjiang,China；2Xinjiang InstituteofEcologyandGeography， Chinese AcademyofSciencesUrumqi830l1,Xinjiang,China；3CollgeofAplicationEnginering,UrumqiVocational University,Urumqi83o,Xinjiang,China；4CeleNational StationofObservationandResearchforDesert-Grasand Ecosystemin Xinjiang,Cele 84830O,Xinjiang,China)
+
+Abstract：The study of the characteristics of near-surface inverse temperature and inverse humidity between the quicksand frontand theoasis providesa basis forthe transferof heatand vapor between the desertand its inner oasis.Utilizing the methodof synchronous contrastand statistical analysis,this paper investigatedthe characteristics of inverse temperature and inverse humidity between the height of $0 . 5 \mathrm { ~ m ~ }$ and $2 \mathrm { ~ m ~ }$ near the ground surface between the quicksand frontier and the inneroasis of CeleCounty,Xinjiang,China basedon the fieldobservation data.The results show thatthe average monthly relative humidity in thequicksand frontier hitthe maximum value in October, and the minimum in April.The highest temperature appeared in August and the lowest in January.In July 2011,the intensityof inverse temperature and humidity was the highest,and thenumber of inverse humidity days in this month was accounted for $3 8 . 7 1 \%$ of the total inverse humidity days.The number of inverse temperature days was accounted for $3 . 7 6 \%$ of the total temperature inversion days.The temperature inversion time was between 19:00 PM and 10:00O AM next morning,the inverse humidity appeared between 10:00 AM.and 21:00 PM.From the month perspective,the lowest temperature in the oasis occured in January 2O11,the highest in July 2011.The minimum relative humidity occured in April 2011.The maximum relative humidity appeared in September 2010 with the value being $7 4 . 9 1 \%$ . The strongest inverse temperature and inverse humidity appeared in November 2O10,with an average daily temperature difference of $3 . 4 8 \mathrm { ^ { \circ } C }$ and a high humidity difference of $2 . 2 7 \%$ . In general,between the leading edge of thequicksandand the inner oasis,therelative humidityin winteris greaterthan the relative humidity in summer,while the temperatureis high in summer and low in winter.The air temperature and humidity at the same height showed a good negative correlation.In the four typical weatherconditions,the temperature and humidity changes shared the same pattern as thechange characteristics of the inverse temperatureand inverse humidity between thequicksand frontier and the inner oasis,but the changes happened firstin theoasis followed bythe shifting sandyland.However,in the conditions of cloudy weatherand blowing sand weather,the inverse humidity happened firstinthe shiftingsandylandfolowed bythe inner oasis,andthe lasttime for inverse temperatureand inverse humidity in the oasis is primarily longer than that in shifting sandy land.
+
+KeyWords：air temperature inversion；relativehumidity inversion；characteristics；shifting sandyland；ineroa-sis； Cele

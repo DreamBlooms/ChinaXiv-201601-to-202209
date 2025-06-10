@@ -1,0 +1,263 @@
+# DOI: 10.5846/stxb201709031589
+
+温清,杨卫诚,陶红梅,周旭林,余源婵.贵州省松桃县锰矿区洞穴动物群落结构与环境因子的关系.生态学报,2018,38(10);3718-3728. WenQ,YangWC,TaoH,ZouXL,YuYStdyontheelatoshipetwenaialouitystructureandcveeviroentfctosiha and Xia caves of the Songtao manganese mine，Guizhou.Acta Ecologica Sinica,2O18,38(1O):3718-3728.
+
+# 贵州省松桃县锰矿区洞穴动物群落结构与环境因子的关系 1
+
+温清}，杨卫诚1,2,\*,陶红梅',周旭林',余源婵
+
+1贵州师范大学生命科学学院，贵阳550031  
+2贵州师范大学喀斯特洞穴研究中心，贵阳550031
+
+摘要：主要选取松桃锰矿区周边大洞、下洞为对象,研究洞穴环境因子与洞穴动物群落的关系,探索两洞穴环境中是否存在重金属 $\mathbf { M } \mathbf { n }$ 污染,对比分析两洞穴动物群落结构,探讨不同重金属、环境因子与两洞穴动物群落之间的相关性是否一致。通过采集，共获标本1274号,其中大洞660号,隶属于5门10纲21目24科26种，下洞614号,隶属于4门7纲15目21科26种。群落多样性分析结果显示，多样性指数由高到底的顺序为群落 $\textrm { D } ( 2 . 4 7 4 5 ) > \textrm { C } ( 1 . 4 0 3 6 ) > \textrm { A } ( 1 . 3 5 4 9 ) > \textrm { B } ( 1 . 1 9 3 5 ) > \textrm { E } ( 1 . 1 3 8 4 ) > \textrm { D } ( 1 . 1 4 5 )$ F(0.7265）。分析大洞、下洞洞穴群落多样性与环境因子Pearson 相关系数矩阵得出,大洞土壤中 As $. \mathrm { M n }$ 与物种数均呈显著正相关， $P$ 值分别为0.039、0.029,下洞水体中重金属As与物种优势度呈显著正相关(0.021），重金属 $\mathbf { M } \mathbf { n }$ 与多样性指数呈显著负相关(0.044),温度是影响下洞洞穴群落数量、分布的主要原因。重金属污染评价显示,两洞穴水质污染小,土壤中的重金属除$\mathrm { H g }$ 达到极严重污染外，其余重金属均未超过中度污染等级。
+
+关键词：洞穴生物;群落多样性;对比分析;重金属; $\mathbf { M } \mathbf { n }$ ; As
+
+# Study on the relationship between animal community structure and cave environment factors in the Da and Xia caves of the Songtao manganese mine, Guizhou 0
+
+WEN Qing1， YANG Weicheng1,2\*，, TAO Hongmei1， ZHOU Xulin'， YU Yuanchan1   
+1School ofLife sciences，Guizhou Normal University，Guiyang 55Oo31,China   
+2Institute of Karst Caves，Guizhou Normal University，Guiyang 55OO31,China
+
+Abstract:We investigated the Da and Xia caves ina manganese mine at Songtao County to evaluate the relationship between animal communityandcave habitat factors.The heavy metal,manganese（Mn），was tested to verify Mn polution in the two caves.The animal communitystructures and their relationships with thecave habitat factors were analyzed and compared between the two caves.A totalof 1274 specimens were collcted,660（5 phyla,10 classes，21 orders，and 26 species）from the Da cave and 614（4 phyla,7classes，15orders，and 26 species）from the Xia cave.Six communities were grouped（A-F），and their diversity indices were ranked 2.4745（D），1.4036（C)，1.3549（A），1.1935（B），1. 1384（E），andO.7265（F).The results of Pearson corelation revealed thatthe content of arsenic（As）and Mn in soil corelated positively with species richness in the Da cave.Furthermore，Ascontent was positivelycorelated with species dominance，and Mncontent wasnegativelycorrelated with thespecies diversity index.Temperaturewas found tobe the major factorforanimalabundanceanddistribution.Theresults indicatethatno heavymetal exceeded the moderatepolution level in the water of the two caves，except $\mathrm { H g }$ ，which reached high pollution levels.
+
+Key Words:cave animal； community diversity；comparative analysis； heavy metal； Mn；As
+
+贵州省溶洞众多,有记载的洞穴数目高达 $6 5 7 ^ { [ 1 ] }$ 。目前,有关于洞穴调查研究成果丰富,国外研究内容包括洞穴动物粪便、微生物体内重金属追踪[24]等,国内主要研究洞穴环境因子对洞穴动物群落结构的影响,如$\mathrm { C O } _ { 2 } \ 、 \mathrm { O } _ { 2 }$ 、温度等与动物群落的相关性[5-8],光照强度对洞穴生物分布、形态的影响以及重金属在生物体内的富集研究[8-10],常见重金属研究主要针对于 $\mathrm { Z n } \mathrm { , C u } \mathrm { , N i } \mathrm { , A _ { s } \setminus } \mathrm { C r } \mathrm { , H } \mathbf { g } ^ { \left[ 5 \mathrm { , 7 } \mathrm { - } 8 \mathrm { , 1 1 - } 1 4 \right] }$ ， $\mathbf { M } \mathbf { n }$ 作为微量元素,极少出现在与洞穴动物群落结构相关性的研究中。贵州省松桃县地属典型喀斯特地貌,溶洞众多,且该地区锰矿资源丰富,为特殊"寒武统黑色岩系区”[15],土壤中重金属含量普遍较高。通过调查发现,松桃县李家湾-杨立掌锰矿区附近的大洞、下洞生境条件良好,且两者相隔较近,具有较强的可比性。因此,本文以大洞、下洞为研究对象,进行对比分析,研究两洞洞穴动物群落之间是否存在相似性,锰矿区周边洞穴土壤中 $\dot { { \mathrm { M n } } }$ 含量是否存在重金属污染,对两洞穴内土、水样品进行重金属污染评价,分析环境中重金属对大洞、下洞洞穴动物群落结构、分布是否存在影响，且影响程度是否相同。 2
+
+# 1洞穴概况
+
+大洞、下洞位于贵州省松桃县乌罗镇岩口村,距洞穴约1km 距离为松桃李家湾-杨立掌锰矿区,该区属成锰沉积盆地[16]，两洞穴直线距离约 $4 0 0 \mathrm { ~ m ~ }$ ,相互独立。
+
+# 1.1大洞
+
+洞口呈三角形，宽 $1 5 \mathrm { ~ m ~ }$ ,高 $1 8 \mathrm { ~ m ~ }$ ,地理坐标 $2 8 ^ { \circ } 0 8 ^ { \prime } \mathrm { N } , 1 0 8 ^ { \circ } 4 8 ^ { \prime } \mathrm { E }$ ,海拔 $8 7 8 \mathrm { ~ m ~ }$ ,洞口位于山底部,在乡村公路左侧,洞口右侧为小型山涧溪流,由洞内流出。洞口周围植被茂盛,布满棕榈、五节芒、裂叶荨麻等。入口为一人造石墙,左侧有口,曾用于圈养牲口,洞口、有光带、弱光带布满家禽排泄物。有光带长 $6 2 \mathrm { ~ m ~ }$ ,最宽处达13$\mathbf { m }$ ,温度 $1 9 \%$ ,湿度 $8 0 \%$ ,空间开阔,有少量碎石,洞底为黄土较平坦,分布大量裂叶荨麻,暗河由光带左侧流向右侧。弱光带长 $8 \mathrm { ~ m ~ }$ ,温度 $1 7 \%$ ,湿度 $8 3 \%$ ，向内延伸洞宽逐渐缩短,最窄处约 $3 \mathrm { ~ m ~ }$ ,洞顶高而狭窄,洞底较平坦。黑暗带长 $1 6 7 \mathrm { ~ m ~ }$ （由于暗河覆盖面积大,无法深入调查,此数据为实际探测值),平均宽度约 $6 \mathrm { ~ m ~ }$ ,温度$1 5 \mathrm { ^ { \circ } C }$ ,湿度 $8 6 \%$ ,最深处暗河几乎覆盖整个洞底,水流速度慢,水质清澈。
+
+# 1.2 下洞
+
+洞口呈半圆形，宽 $1 0 \mathrm { ~ m ~ }$ ，高 $7 \mathrm { ~ m ~ }$ ,位于山底,两侧岩壁呈 $8 0 ^ { \circ }$ 夹角。地理坐标 $2 8 ^ { \circ } 0 8 ^ { \prime } \mathrm { N } , 1 0 8 ^ { \circ } 4 8 ^ { \prime } \mathrm { E }$ ,海拔868$\mathrm { ~ m ~ }$ ,洞穴不远处有农田。洞口布满草本、灌木丛和小型棕榈,洞壁及洞顶凹凸不平,且极湿润,有滴水,在洞底形成小水洼。有光带长 $2 8 \mathrm { ~ m ~ }$ ,最宽处约 $7 \mathrm { ~ m ~ }$ ,向内逐渐变窄,高约 $4 \mathrm { ~ m ~ }$ ,温度 $1 8 ^ { \circ } \mathrm { C }$ ,湿度 $70 \%$ ,光带内较宽阔,有碎石。光带向左延伸且倾斜向下，坡度小。弱光带长 $3 \mathrm { ~ m ~ }$ ,光带较短,温度 $1 4 ^ { \circ } \mathrm { C }$ ,湿度 $8 4 \%$ ,有碎石且湿润。黑暗带温度较低,为 $1 4 ^ { \circ } \mathrm { C }$ ,湿度 $8 4 \%$ ,光带走势呈阶梯状,分为两层,洞底土壤湿软,疑似曾有暗河,上层长度约40 m,上下层衔接处光带变窄,下层为峡谷状,继续向内延伸,可探测距离为 $1 3 \mathrm { ~ m ~ }$ ,两层之间水平落差为 $7 \mathrm { ~ m ~ }$ ，且垂直向下。
+
+# 2研究方法
+
+# 2.1样品采集与环境调查
+
+# 2.1.1 环境调查
+
+野外采集前,用CEM华盛昌公司生产的LDM-70 红外激光测距仪测定洞口宽、高度以及各光带的长度，利用美国生产的奇遇（eTrex Venture）GPS 定位仪测定海拔高度,利用北京亚光仪器有限责任公司生产的
+
+JWSA2-2型温湿度计测定各洞段温湿度。各光带气体检测用青岛陆博建业环保科技有限公司生产的便携式气体检测仪（LB-MS4X），主要检测 $\mathrm { C O } _ { 2 }$ ， $\mathbf { 0 } _ { 2 }$ 的含量,光照度的测量用泰仕电子公司生产的光照度计（TES-1339R）,光带划分参照黎道洪[13]。
+
+# 2.1.2 样品采集
+
+动物样品：在每个洞段对洞底和洞壁进行采集工作,由于洞较高,所以洞顶区域仅对较大型的脊索类动物进行采集。将肉眼能见的动物采集装瓶， $7 5 \%$ 酒精浸泡，最后换用无水乙醇进行密封保存。
+
+水样品：对各光带内的水样进行瓶装采集,每瓶水样含量不低于 $1 0 0 0 ~ \mathrm { { m L } }$ 。
+
+土壤样品：在各光带底部分别进行梅花点混合采样,约每袋土样约 $0 . 5 ~ \mathrm { k g }$ ,湿润土样进行干燥处理之后,密封保存。
+
+# 2.2 样品处理
+
+用OLYMPUS(SZ51)解剖镜对标本进行分类鉴定。对洞内土、水样进行分析,具体步骤参照黎道洪等[17]。用AF-640 原子荧光光度仪测定水、土样中 $\mathrm { { H g } , \mathrm { { A s } } }$ 的平均含量,测定水、土样中重金属 Mn 含量分别采用ICP 光谱法、火焰原子吸收法。 C
+
+# 2.3 数据处理
+
+对群落各项多样性指数、相似性指数等进行分析,具体方法参照黎道洪等[14],按照 Margalf 的 richness2index 公式计算物种的丰富度， ）
+
+$$
+D = ( S - 1 ) / \mathrm { l n } N
+$$
+
+式中， $D$ 表示物种丰富度,S表示物种数， $\ln$ 为自然对数， $N$ 为各群落所有动物的总数。根据香农一维纳指数（Shannon—Weiner index）公式计算群落多样性，
+
+$$
+H ^ { \prime } = - \sum _ { \stackrel { i = 1 } { i = 1 } } ^ { s } ( P i ) \left[ \ln ( P i ) \right] ;
+$$
+
+Pielou均匀性指数计算群落均匀度，
+
+式中， $H ^ { \prime }$ 为物种多样性指数,S为组成群落的物种或类群数， $P _ { i }$ 为第 $i$ 种物种的个体比， $J ^ { \prime }$ 为均匀性指数。
+
+用Simpson优势度指数公式计算群落优势度，
+
+$$
+\boldsymbol { C } = \sum { \left( n _ { i } / N \right) } ^ { 2 }
+$$
+
+式中， $C$ 为优势度指数， $n _ { i }$ 为第 $\mathbf { \chi } _ { i }$ 种的个体数， $N$ 为洞内所有物种的个体数。
+
+按Whittaker的相似性指数公式分析群落的相似度，
+
+$$
+I = 1 - 0 . 5 ( \sum _ { i = 1 } ^ { s } \mid a _ { i } - b _ { i } \mid )
+$$
+
+式中，1为两群落的相似性指数， $s$ 为群落中相对应的种数， $a _ { i }$ 和 $b _ { i }$ 为物种或类群 $i$ 的个体数分别在 $\mathbf { \Omega } _ { a }$ 和 $b$ 群落中的比例。洞穴土壤中重金属污染评价方法及Muler地积累指数分级参照李金城等[19],利用地质累积指数评价沉积物中重金属污染，该指数综合考虑人为污染因素、环境地球化学背景值以及因造岩运动可能引起的背景值的变动等因素,具体分级见表1。其计算公式如下：
+
+$$
+I _ { \mathrm { g e o } } = \log _ { 2 } [ \textit { C } _ { n } / ( K \times B _ { n } ) ]
+$$
+
+式中， ${ \bar { C } } _ { n }$ 为元素 $n$ 的实测含量; $B _ { n }$ 为元素 $n$ 的背景值; $K$ 是考虑各地岩石差异可能会引起的背景值的变动而取的系数（经验值为1.5）。
+
+# 3结果与分析
+
+# 3.1洞穴动物种类组成及相对数量
+
+通过对大洞、下洞洞穴动物进行调查、采集,共获标本1274号,其中大洞660号,隶属于5门10纲21目
+
+24科26种，下洞614号，隶属于4门7纲15目21科26种。
+
+大洞、下洞均是有光带动物种类最多,黑暗带仅次于有光带,弱光带最少,下洞弱光带、黑暗带物种数较少。由于大洞洞穴较下洞更为开阔,大洞中的暗河给洞穴生物提供了更多种类的食源[20],总体而言大洞洞穴动物捕获总数多于下洞,详细见表2。
+
+Table 1 Grading of index of geoaccumulation   
+表2大洞、下洞洞穴动物类群组成比较  
+
+<html><body><table><tr><td>地积累指数（Igeo） Geoaccumulation Index</td><td>分级 Classification</td><td>污染程度 Pollution level</td><td>地积累指数（Igeo） Geoaccumulation Index</td><td>分级 Classification</td><td>污染程度 Pollution level</td></tr><tr><td>Igeo≤0</td><td>0</td><td>无污染</td><td>3<Igeo ≤4</td><td>4</td><td>强污染</td></tr><tr><td>0<Igeo ≤1</td><td>1</td><td>轻度-中等污染</td><td>4<Igeo≤5</td><td>5</td><td>强-极严重污染</td></tr><tr><td>1<lgeo≤2</td><td>2</td><td>中等污染</td><td>5<Igeo≤10</td><td>6</td><td>极严重污染</td></tr><tr><td>2<1geo≤3</td><td>3</td><td>中等-强污染</td><td></td><td></td><td></td></tr></table></body></html>
+
+Table 2The category components of animals in Da cave and Xia cave   
+
+<html><body><table><tr><td>光带 Ray belt</td><td>门 Phyla</td><td>纲 Claaes</td><td>目 科 Orders Families</td><td>种 Species</td></tr><tr><td></td><td>4</td><td>8</td><td></td><td>16</td></tr><tr><td>LB1 RLB1</td><td>2</td><td>3</td><td>14 15 4</td><td>4</td></tr><tr><td>DB1</td><td>4</td><td>7</td><td>13 14</td><td>15</td></tr><tr><td>LB²</td><td>4</td><td>6</td><td></td><td>19</td></tr><tr><td>RLB²</td><td>2</td><td>3</td><td>11 15 6 5</td><td>6</td></tr><tr><td>DB²</td><td>2</td><td>4</td><td>5 6</td><td>6</td></tr></table></body></html>
+
+LB:有光带lightbelt;LB:弱光带reflectionlightbelt;DB:黑暗带darkbelt;:大洞光带RaybeltiDacave;：下洞光带Raybeltin Xia cave
+
+大洞中优势种为雕饰姬马陆 Glyphiulus valgatus 、宽跗陇马陆 Kronopolites svenhedini,分别占捕获总数的$3 0 . 4 5 \%$ ： $3 3 . 0 3 \%$ ,普通种为三角涡虫Ougesia japonica、粗糙鼠妇Porcellio scaber,分别占捕获总数的 $6 . 5 2 \%$ 、$6 . 3 6 \%$ 。下洞中优势种为雕饰姬马陆，占捕获总数的 $4 6 . 7 4 \%$ ,普通种为棘刺真管螺Euphaedusa spinula 华肢雕马陆Podoglyphiulus sinensis,分别占捕获总数的 $8 . 4 7 \%$ ， $9 . 2 8 \%$ ,两洞穴优势类群较为突出,见表3。
+
+表1Muller地积累指数分级  
+表3大洞、下洞洞穴动物种类(或类群)组成和相对数量  
+Table 3The species and relative number of animals in Da cave and Xia cave   
+
+<html><body><table><tr><td rowspan="2">物种 Species</td><td rowspan="2"></td><td colspan="4">大洞 Da cave</td><td colspan="4">下洞 Xia cave</td></tr><tr><td>LB</td><td>RLB</td><td>DB</td><td>%</td><td>LB</td><td>RLB</td><td>DB</td><td>%</td></tr><tr><td colspan="2">扁形动物门Platyhelminthes 涡虫纲 Turbellaria</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="2">三角涡虫科 Dugesiidae 三角涡虫 Ougesia japonica</td><td>38</td><td></td><td>5</td><td>6.52</td><td>9</td><td></td><td></td><td>1.47</td></tr><tr><td colspan="2">环节动物门 Annelida 蛭纲 Hirudinea</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="2">水蛭科 Hirudinidae</td><td></td><td></td><td></td><td>0.15</td><td></td><td></td><td></td><td></td></tr><tr><td colspan="2">水蛭 Whitmania pigra</td><td></td><td></td><td>1</td><td></td><td>1</td><td></td><td></td><td>0.16</td></tr><tr><td colspan="2">软体动物门Mollusca</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="2">腹足纲Castropoda</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="2">拟阿勇蛄蝓科 Ariophantidae</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="2">迟缓巨楯蛞蝓 Macrochlamys segnis</td><td>1</td><td></td><td></td><td></td><td>5</td><td></td><td></td><td>0.81</td></tr><tr><td colspan="2">中华巨楯蛞蝓 Macrochlamys sinensis</td><td></td><td></td><td></td><td>0.15</td><td>1 1</td><td></td><td></td><td>0.16</td></tr><tr><td colspan="2">穴恰里螺 Kaliella caricola</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.16</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="9">续表</td></tr><tr><td colspan="2">物种</td><td colspan="7"></td></tr><tr><td>Species</td><td>LB</td><td>大洞 Da cave RLB</td><td>DB</td><td>%</td><td>LB</td><td>RLB</td><td>下洞 Xia cave DB</td><td>%</td></tr><tr><td>烟管螺科 Clausiliidae</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>棘刺真管螺 Euphaedusa spinula</td><td></td><td></td><td></td><td></td><td>43</td><td>9</td><td></td><td>8.47</td></tr><tr><td>尖真管螺 Euphaedusa aculus</td><td></td><td></td><td></td><td></td><td></td><td></td><td>5</td><td>0.81</td></tr><tr><td>环口螺科 Cyclophoridae</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>圆摺口螺 Ptychopoma cycloteum</td><td></td><td></td><td></td><td></td><td>2</td><td></td><td></td><td>0.33</td></tr><tr><td>节肢动物门 Arthropoda</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>昆虫纲 Insecta</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>驼螽科 Rhaphidophoridae</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>圆锯裸灶螽 Diestrammena crenata</td><td></td><td>1</td><td>13</td><td>2.12</td><td></td><td></td><td></td><td>1.30</td></tr><tr><td>实心裸灶螽 Diestrammena solida</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>黾蝽科 Gerridae 水黾Aquarlus elongatus</td><td></td><td></td><td>3</td><td>0.45</td><td></td><td></td><td></td><td>0.16</td></tr><tr><td>大蚊科 Tipulidae</td><td></td><td></td><td>24</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>大蚊 Tipula sp.</td><td></td><td></td><td></td><td>3.64</td><td></td><td></td><td></td><td>4.40</td></tr><tr><td>食蚜蝇科 Syrphidae 黑带食蚜蝇 Epistrophe balteata</td><td>1</td><td></td><td>10</td><td>1.67</td><td></td><td></td><td></td><td>0.81</td></tr><tr><td>蕈蚊科 Mycetophilidae</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>扁尾蕈蚊属 Platyura sp.</td><td></td><td></td><td></td><td></td><td>25</td><td></td><td></td><td>4.07</td></tr><tr><td>蚁科 Formicidae</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>嗜血蚊属 Hemagogus sp.</td><td>4</td><td></td><td></td><td>0.61</td><td>4</td><td></td><td></td><td>0.65</td></tr><tr><td>步甲科 Carabidae</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>中华婪步甲 Harpalus sinicus</td><td>3</td><td></td><td></td><td></td><td>1</td><td></td><td></td><td>0.16</td></tr><tr><td>三齿婪步甲 Harpalus tridens</td><td></td><td></td><td></td><td>0.45</td><td></td><td></td><td></td><td></td></tr><tr><td>尺蛾科 Geometridae 盛光尺蛾 Triphosa largeteauaria</td><td></td><td></td><td>26</td><td>4.55</td><td>22</td><td>3</td><td>4</td><td>4.72</td></tr><tr><td>蜻蜓目 Odonata 水虽 Odonata sp.</td><td></td><td></td><td>1</td><td>1.97</td><td></td><td></td><td></td><td></td></tr><tr><td>隐翅虫科 Staphylinidae 青翅隐翅虫 Paederus fuscipes</td><td></td><td></td><td></td><td>1.06</td><td></td><td></td><td></td><td></td></tr><tr><td>甲壳纲 Crustacea</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>溪蟹科 Potamidae 小戴溪蟹 Daiptamon minos</td><td></td><td></td><td></td><td></td><td>6</td><td></td><td></td><td>0.98</td></tr><tr><td>潮虫科Oniscidae 粗糙鼠妇 Porellio scaber</td><td>42</td><td></td><td></td><td>6.36</td><td>22</td><td></td><td></td><td>3.58</td></tr><tr><td>倍足纲 Diplopoda</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>交翅马陆科 Cambalopsidae 华肢雕马陆 Podoglyphiulus sinensis</td><td></td><td></td><td></td><td></td><td></td><td>2</td><td>55</td><td>9.28</td></tr><tr><td>雕饰姬马陆科 Glyphiulidae</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>雕饰姬马陆 Glyphiulus valgatus</td><td></td><td></td><td>201</td><td>30.45</td><td></td><td>26</td><td>261</td><td>46.74</td></tr><tr><td>仿角囊马陆科 Cambalopsidae</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>颗粒雕囊马陆 Glyphiulus granulatus</td><td>1</td><td></td><td></td><td>0.15</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>奇马陆科 Paradoxosomatidae</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>宽跗陇马陆 Kronopolites svenhedini</td><td>215</td><td></td><td>3</td><td>33.03</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>10</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>雅丽酸马陆 Oxidus grasilis</td><td></td><td></td><td></td><td>1.52</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>陇马陆属 Kronopolites sp.</td><td>2</td><td></td><td></td><td>0.30</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+续表  
+
+<html><body><table><tr><td rowspan="2">物种 Species</td><td colspan="4">大洞 Da cave</td><td colspan="4">下洞 Xia cave</td></tr><tr><td>LB</td><td>RLB</td><td>DB</td><td>%</td><td>LB</td><td>RLB</td><td>DB</td><td>%</td></tr><tr><td>蛐蜒科 Scutigeridae</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>花蛐蜒 Theteuonema tuberculata</td><td>1</td><td></td><td>1</td><td>0.30</td><td></td><td></td><td></td><td></td></tr><tr><td>蜈蚣科 Scolopendridae</td><td></td><td></td><td>3</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>蜈蚣属 Scolopendra sp.</td><td></td><td></td><td></td><td>0.45</td><td></td><td></td><td></td><td></td></tr><tr><td>石蜈蚣科 Lithobiidae</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>糙背石蜈蚣 Bothropolys Rugosus</td><td>3</td><td></td><td></td><td>0.45</td><td></td><td></td><td></td><td></td></tr><tr><td>蛛形纲 Arachnida</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>长奇盲蛛科 Phalangidae</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>盲蛛 Opilio sp.</td><td>1</td><td></td><td>7</td><td>1.21</td><td></td><td></td><td></td><td>0.33</td></tr><tr><td>弱蛛科 Leptonetidae</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>徐氏弱蛛 Leptoneta xui</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>漏斗蛛科 Agelenidae</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>家隅蛛Tegenaria domestica</td><td>9</td><td></td><td></td><td>1.36</td><td></td><td></td><td></td><td>0.98</td></tr><tr><td>机敏漏斗蛛 Agelena difficilis</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.14</td></tr><tr><td>球蛛科 Theridiidae</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>温室希蛛 Achaearanea tepidariorum</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>5.21</td></tr><tr><td>温室拟肥腹蛛Parasteatodatepidariorum</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>3.09</td></tr><tr><td>脊椎动物亚门Vertebrate</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>两栖纲Amphibia</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>角蟾科 Megophryidae</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>红点齿蟾 Oreolalax rhodostigmatus</td><td>1</td><td>4</td><td></td><td>0.91</td><td></td><td></td><td></td><td></td></tr><tr><td>爬行纲Reptilia</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>游蛇科 Colubridae</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>赤链蛇指名亚种 Lycodon rufozonatus</td><td></td><td></td><td></td><td>0.15</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总计Total</td><td>341</td><td>10</td><td>309</td><td>660</td><td></td><td></td><td>335</td><td>614</td></tr></table></body></html>
+
+# 3.2群落组成及多样性分析
+
+# 3.2.1 群落组成
+
+根据动物数量、分布以及环境因子的差异,将大洞、下洞不同光带内软体动物、节肢动物、脊索动物划分为以下6个动物群落。
+
+群落A：宽跗陇马陆+粗糙鼠妇 $+$ 三角涡虫群落,分布在大洞有光带,前者为优势种,优势度明显,占该光带总捕获数的比值同为 $6 3 . 0 5 \%$ ,后两者为普通种,分别占该光带总捕获数的 $1 2 . 3 2 \% . 1 1 . 1 4 \%$ 。
+
+群落B：雕饰姬马陆 $^ +$ 大蚊Tipula sp. $^ +$ 盛光尺蛾群落,分布在大洞弱光带,前者为优势种,优势度明显，占该光带总捕获数的 $6 5 . 0 5 \%$ ,后两者为普通种,分别占该光带总捕获数的 $7 . 7 7 \% . 8 . 4 1 \%$ 。
+
+群落C:红点齿蟾Oreolalax rhodostigmatus $^ +$ 盛光尺蛾 $^ +$ 实心裸灶螽Diestrammena solida $^ +$ 赤链蛇指名亚种Lycodon rufozonatus 群落,该群落物种数稀少,分布在大洞黑暗带,前两者为优势种,皆占该光带总捕获数的$4 0 . 0 0 \%$ ,后两者为普通种,皆占该光带总捕获数的 $1 0 . 0 0 \%$ 。
+
+群落D;棘刺真管螺 $^ +$ 大蚊 $^ +$ 温室希蛛Achaearanea tepidariorum 群落,分布在下洞有光带,前为优势种,占总捕获数的 $1 8 . 1 4 \%$ ,后两者为普通种,分别占该光带总捕获数的 $1 1 . 3 9 \% . 1 3 . 5 0 \%$ 。
+
+群落E：雕饰姬马陆 $^ +$ 棘刺真管螺 $+$ 盛光尺蛾群落,分布在下洞弱光带，前两者均为优势种,分别占该光带总捕获数的 $6 1 . 9 0 \% . 2 1 . 4 3 \%$ ,后者为普通种,占该光带捕获总数的 $7 . 1 4 \%$ 。
+
+群落F：雕饰姬马陆 $^ +$ 华肢雕马陆群落,分布在下洞黑暗带,均为优势种,分别占该光带总捕获数的
+
+$7 7 . 9 1 \%$ 、 $1 6 . 4 2 \%$ 。
+
+# 3.2.2 群落的多样性分析
+
+根据各指数公式计算出大洞、下洞中6个群落的多样性指数，见表4。
+
+表4不同光带内群落的多样性、均匀性和优势度指数  
+Table 4 Diversity,evenness and dominance indices of different communities   
+
+<html><body><table><tr><td rowspan="2">群落 Community</td><td rowspan="2">S Species</td><td rowspan="2">H Community diversity</td><td rowspan="2">Maximum H'max</td><td rowspan="2">D Species</td><td rowspan="2">J' Community</td></tr><tr><td>C Species</td></tr><tr><td>A</td><td>16</td><td>1.3549</td><td>of H' 2.7726</td><td>richness 2.5721</td><td>uniformity 0.4887</td><td>dominance 0.4279</td></tr><tr><td>B</td><td>4</td><td>1.1935</td><td>1.3863</td><td>1.3029</td><td>0.8610</td><td>0.3400</td></tr><tr><td>C</td><td>15</td><td>1.4036</td><td>2.7081</td><td>2.4419</td><td>0.5183</td><td>0.4412</td></tr><tr><td>D</td><td>19</td><td>2.4745</td><td>2.9444</td><td>3.2918</td><td>0.8404</td><td>0.1037</td></tr><tr><td>E</td><td>6</td><td>1.1384</td><td>1.7918</td><td>1.3377</td><td>0.6354</td><td>0.4376</td></tr><tr><td>F</td><td>6</td><td>0.7265</td><td>1.7918</td><td>0.8600</td><td>> 0.4055</td><td>0.6349</td></tr></table></body></html>
+
+注;A:群落AcommunityA;B:群落BcmmunityB;C：群落CcommunityC;D:群落DcommunityD;E:群落EcommunityE;F:群落FcommunityF;S:物种数 species; $H ^ { \prime }$ ：群落多样性 community diversity; $H _ { \mathrm { \ m a x } } ^ { \prime }$ :群落最大多样性 maximum of H';D:物种丰富度 species richness; $J ^ { \prime }$ ：群落均匀度communityuniformity;C：物种优势度 species dominance 22
+
+由于有光带光照充足、食源丰富,因此群落A(16)与群落 D(19)物种数最大,两者丰富度指数也最高,分别为2.5721、3.2918,可以看出群落物种数越多丰富度指数也越高,这一规律与多位学者研究结果一致[0-2]。优势度从高到低的顺序是群落 $\mathrm { F } ( 0 . 6 3 4 9 ) > \mathrm { C } ( 0 . 4 4 1 2 ) > \mathrm { E } ( 0 . 4 3 7 6 ) > \mathrm { A } ( 0 . 4 2 7 9 ) > \mathrm { B } ( 0 . 3 4 0 0 ) > \mathrm { D } ( 0 . 1 0 3 7 )$ ,群落F分布于下洞黑暗带,形成了所有群落中数量最庞大的雕饰姬马陆类群,该物种集中分布在洞壁、洞底,调查发现曾有水流由光带下层蔓延至上层,残留大量淤泥沉积物,Chelius 等专门研究了美国洞穴中微生物多样性,认为流水带来的沉积物中含有大量微生物[20],马陆是洞穴食物链的最初分解者[21],食源充沛使得雕饰姬马陆形成最大的类群,因此群落F优势度最大。群落多样性指数由高到低的顺序是群落 $\mathrm { ~ D ~ } ( 2 . 4 7 4 5 ) >$ $\mathbf { C } ( 1 . 4 0 3 6 ) > \mathbf { A } ( 1 . 3 5 4 9 ) > \mathbf { B } ( 1 . 1 9 3 5 ) > \mathbf { E } ( 1 . 1 3 8 4 ) > \mathbf { F } ( 0 . 7 2 6 5 )$ ,群落D分布于下洞有光带,由于该光带生境良好,食源种类丰富,因此物种数最大(19),其物种丰富度（3.2918）、多样性指数(2.4745)也最大,符合物种数越大,多样性指数越高这一常规结论[7.910.12]。多样性指数与优势度指数两者之间的关系与黎道洪学者 2006年研究的结论相同,两者大小呈相反趋势[14]。
+
+就单个洞穴而言,群落B、C 的相似性最高,两者分别位于大洞的弱光带、黑暗带。群落E、F相似性最高，两者分别分布于下洞的弱光带、黑暗带,同一洞穴相邻光带环境因子差异小,从而导致其相似性较高,符合相邻群落间相似性指数最高的理论[18],然而群落A、B之间的相似性指数却不符合,两者分别位于大洞有光带、弱光带,属相邻群落,但相似性指数最低,为0.0029。原因可能是由于人为干扰过重,大洞有光带、弱光带地面有大量牛、羊类家禽排泄物和生活垃圾,由于喀斯特洞穴生态敏感度高、抗干扰能力弱等一系列生态脆弱性特征[20],有学者在对贵州织金莲花洞调查中也曾发现由于人为干扰严重,导致物种数减少的现象[],与本研究同是弱光带物种数最少。从整体上看,群落C与群落E相似性指数最高,为0.7239,两者分别来自大洞黑暗带、下洞有光带,属不同洞穴相邻光带相似性指数较高,该结论符合一般规律[5-6,10.17,23],原因在于大洞、下洞地理位置间距较近,植被种类、土壤条件等环境因子相似,导致两洞穴生物种类相似度较高。不同洞穴相同光带(C—F;A—D)之间相似性同样较高,相似性指数分别为0.6684、0.1737,群落A、D都位于两洞穴的有光带且均有大量石刺,其上存在大量以蓝藻、蓝细胞为主的生物群落[24], $\mathrm { S m r \check { z } \ J }$ 等学者曾在某些洞穴生物肠道内发现大量蓝藻细胞[25],证明某些洞穴生物以蓝藻、蓝细胞为食,相同的环境存在着相同的食物类群,吸引了某些食性相同的生物,因此会出现不同洞穴相邻、相同光带内动物群落相似性较大的情况,具体见表5。
+
+Table 5Similarity indices between every two communities   
+
+<html><body><table><tr><td>群落 Community</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td></tr><tr><td>B</td><td>0.0029</td><td></td><td></td><td></td><td></td></tr><tr><td>C</td><td>0.0409</td><td>0.1294</td><td></td><td></td><td></td></tr><tr><td>D</td><td>0.1737</td><td>0.0928</td><td>0.1981</td><td></td><td></td></tr><tr><td>E</td><td>0.0029</td><td>0.0714</td><td>0.7239</td><td>0.1797</td><td></td></tr><tr><td>F</td><td>0.0029</td><td>0.0119</td><td>0.6684</td><td>0.0119</td><td>0.6786</td></tr></table></body></html>
+
+# 3.3洞穴环境因子测定值及相关性分析
+
+对大洞、下洞各光带的部分环境因子进行统计、测定,整理结果见表6。
+
+表5不同群落间的相似性指数  
+表6各群落中部分环境因子的测定值  
+
+<html><body><table><tr><td>群落 Community</td><td>WHg/ (ug/L)</td><td>WAs/ (ug/L)</td><td>WMm/ (mg/L)</td><td>SHg/ （mg/kg)</td><td>SAs/ (mg/kg)</td><td>SM/O （mg/kg)</td><td>（%Vol) 0</td><td>C0/ （mg/kg)</td><td>AT/C</td></tr><tr><td>A</td><td>0.02</td><td>10.0046</td><td>0</td><td>14.353</td><td>52.3527</td><td>1155.4596</td><td>20.45</td><td>499</td><td>19</td></tr><tr><td>B</td><td>0.018</td><td>12.8493</td><td>0.009</td><td>12.3669</td><td>41.7627</td><td>1012.7035</td><td>20.46</td><td>569</td><td>17</td></tr><tr><td>C</td><td>0.025</td><td>14.0852</td><td>0.013</td><td>9.944</td><td>50.802</td><td>1136.8557</td><td>20.49</td><td>591</td><td>15</td></tr><tr><td>D</td><td>1</td><td>12.4371</td><td>0.005</td><td>9.1981</td><td>38.4887</td><td>1320.5207</td><td>20.59</td><td>360</td><td>18</td></tr><tr><td>E</td><td>1</td><td>13.3425</td><td>0.012</td><td>10.5338</td><td>39.4995</td><td>1008.5312</td><td>20.59</td><td>360</td><td>14</td></tr><tr><td>F</td><td>二</td><td>13.8145</td><td>0.015</td><td>18.6687</td><td>24.7672</td><td>1313.3380</td><td>20.58</td><td>395</td><td>13</td></tr></table></body></html>
+
+$\mathbb { W } _ { \mathrm { H g } }$ ：水样中 $\mathrm { H g }$ 的含量the content of Hg in water; $\mathbb { W } _ { \mathrm { A s } }$ :水样中As 的含量 the content of As in water; $\mathbb { W } _ { \mathrm { M n } }$ ：水样中 $\mathbf { M } \mathbf { n }$ 的含量 the content of $\mathbf { M } \mathbf { n }$ inwater; $\mathrm { S _ { H g } }$ ：土壤中 $\mathrm { H g }$ 的含量 the content of $\mathrm { H g }$ in soil; $\mathrm { \Delta S _ { A s } }$ :土样中As 的含量 the content of As in soil; $ { \mathrm { \Delta S _ { M n } } }$ :土壤中的 $\mathbf { M } \mathbf { n }$ 含量 the content of $\mathbf { M } \mathbf { n }$ in soil;$\mathbf { 0 } _ { 2 }$ ：空气中 $\mathbf { 0 } _ { 2 }$ 的含量 the content of oxygen in air; $\mathrm { C O } _ { 2 }$ ：空气中 $\mathrm { C O } _ { 2 }$ 的含量the content of carbon dioxide in air;AT:温度 air temperature;—:无该因子值 there is no 八
+
+由于各项环境因子和多样性指数单位不统一,因此对表4、表6中的数据进行标准差标准化处理后利用SPSS 17.0分别对大洞、下洞洞穴动物群落多样性和环境因子进行相关性分析,结果见表7、8。
+
+Table 6Measure value on part of environmental factors in different community   
+表7大洞洞穴群落多样性与环境因子的Pearson相关系数矩阵  
+Table7Pearson correlation coefficient Matrix between community diversityand environmental index of Da cave   
+
+<html><body><table><tr><td></td><td>S</td><td>H'</td><td>H'max</td><td>D</td><td>J</td><td>C</td><td></td><td>WHg</td><td>WAs</td><td>WMn</td><td>SHg</td><td>SAs</td><td>SMn</td><td>02</td><td>CO2</td></tr><tr><td>H'</td><td>0.19</td><td></td><td></td><td>O</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>H'max</td><td></td><td>0.022*0.168</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>D</td><td></td><td>0.012* 0.201</td><td>0.033 *</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>J</td><td>0.002 ** 0.188</td><td></td><td>0.019 *</td><td>0.014 *</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>C</td><td>0.125</td><td>0.064</td><td>0.104</td><td>0.137</td><td>0.123</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>WH</td><td>0.536</td><td>0.346</td><td>0.514</td><td>0.547</td><td>0.533</td><td>0.41</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.81</td><td>0.999</td><td>0.831</td><td>0.798</td><td>0.812</td><td>0.935</td><td>0.655</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>WMn</td><td>0.813</td><td>0.997</td><td>0.835</td><td>0.801</td><td>0.815</td><td>0.938</td><td></td><td>0.651</td><td>0.003 **</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SA</td><td>0.989</td><td>0.822</td><td>0.99</td><td>0.977</td><td>0.991</td><td>0.886</td><td></td><td>0.476 0.179</td><td></td><td>0.175</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.039 *</td><td>0.229</td><td>0.06</td><td>0.027 *</td><td>0.041*</td><td>0.164</td><td>0.574</td><td>0.771</td><td></td><td>0.774</td><td>0.95</td><td></td><td></td><td></td><td></td></tr><tr><td>Sn</td><td>0.029 *</td><td>0.218</td><td>0.05</td><td>0.017 *</td><td>0.031*</td><td>0.154</td><td>0.564</td><td>0.781</td><td></td><td>0.784</td><td>0.96</td><td>0.01</td><td></td><td></td><td></td></tr><tr><td></td><td>0.869</td><td>0.679</td><td>0.847</td><td>0.881</td><td>0.867</td><td>0.744</td><td>0.333</td><td>0.321</td><td></td><td>0.318</td><td>0.143</td><td>0.908</td><td>0.898</td><td></td><td></td></tr><tr><td></td><td></td><td>0.956</td><td>0.787</td><td>0.754</td><td>0.768</td><td>0.891</td><td>0.699</td><td>0.044 *</td><td></td><td>0.047 *</td><td>0.223</td><td>0.727</td><td>0.737</td><td>0.365</td><td></td></tr><tr><td>CO2</td><td>0.766</td><td>0.858</td><td>0.974</td><td>0.941</td><td>0.954</td><td>0.922</td><td>0.512</td><td>0.142</td><td></td><td>0.139</td><td>0.036 *</td><td>0.913</td><td>0.924</td><td>0.179</td><td>0.186</td></tr></table></body></html>
+
+$P$ 值，\*\*在.01水平(双侧)上显著相关；\*在0.05 水平(双侧)上显著相关
+
+Table 8Pearson correlation coefficient Matrix between community diversity and environmental index of Xiaca   
+
+<html><body><table><tr><td></td><td>S</td><td>H</td><td>H'max</td><td>D</td><td>J'</td><td>C</td><td>WAs</td><td>WMn</td><td>SHg</td><td>SAs</td><td>SMn</td><td>02</td><td>C02</td></tr><tr><td>H</td><td>0.145</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>H'max</td><td>0.002 **</td><td>0.145</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>D</td><td>0.119</td><td>0.026 *</td><td>0.119</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>J'</td><td>0.354</td><td>0.21</td><td>0.354</td><td>0.236</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>C</td><td>0.239</td><td>0.095</td><td>0.239</td><td>0.121</td><td>0.115</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>WAs</td><td>0.219</td><td>0.074</td><td>0.219</td><td>0.1</td><td>0.135</td><td>0.021*</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>WMn</td><td>0.189</td><td>0.044 *</td><td>0.189</td><td>0.07</td><td>0.166</td><td>0.051</td><td>0.03 *</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SHg</td><td>0.583</td><td>0.439</td><td>0.583</td><td>0.465</td><td>0.229</td><td>0.344</td><td>0.365</td><td>0.395</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SAs</td><td>0.706</td><td>0.561</td><td>0.706</td><td>0.587</td><td>0.351</td><td>0.466</td><td>0.487</td><td>0.517</td><td>0.122</td><td></td><td></td><td></td><td></td></tr><tr><td>SMn</td><td>0.654</td><td>0.799</td><td>0.654</td><td>0.773</td><td>0.992</td><td>0.893</td><td>0.873</td><td>0.843</td><td>0.763</td><td>0.64</td><td></td><td></td><td></td></tr><tr><td>02</td><td>0.667</td><td>0.522</td><td>0.667</td><td>0.548</td><td>0.312</td><td>0.427</td><td>0.448</td><td>0.478</td><td>0.083</td><td>0.039 *</td><td>0.68</td><td></td><td></td></tr><tr><td>CO2</td><td>0.667</td><td>0.522</td><td>0.667</td><td>0.548</td><td>0.312</td><td>0.427</td><td>0.448</td><td>0.478</td><td>0.083</td><td>0.039 *</td><td>0.68</td><td>0</td><td></td></tr><tr><td>AT</td><td>0.002**</td><td>0.145</td><td>0.002 **</td><td>0.119</td><td>0.354</td><td>0.239</td><td>0.219</td><td>0.189</td><td>0.583</td><td>0.706</td><td>0.654</td><td>0.667</td><td>0.667</td></tr></table></body></html>
+
+综合表7、8分析,大洞、下洞各项多样性指数之间均存在显著、极显著相关。就环境因子而言,大洞洞穴土壤中的As、 $\mathbf { \mathrm { { M n } } }$ 与物种数均呈显著正相关， $P$ 值分别为0.039、0.029,土壤中重金属Mn还与物种丰富度、均匀度指数呈显著相关。出现这一结果与 $\mathbf { M } \mathbf { n }$ 的生理功能有关,Mn 在植物进行光合作用、活化酶活性等方面具有不可替代的作用[19],植被的正常生长,为大洞洞穴生物提供了直接的食物来源,因此物种大量集中于有光带,从而导致物种丰富度指数与土壤中 Mn含量呈正相关， $P$ 值为0.017;均匀度指数与其呈负相(0.031）。大洞水体污染程度低,故无明显相关,经对比分析，下洞则是水体中重金属与多样性指数存在显著相关,如As 与物种优势度呈显著正相关, $\mathbf { M } \mathbf { n }$ 与多样性指数呈显著负相关,而土壤中重金属与多样性指数并无明显相关。原因见表8,AT是影响下洞洞穴生物分布的最主要因素,其直接影响了该洞穴动物多样性,即与物种数、最大多样性之指数均呈极显著正相关， $P$ 值皆为0.002。由表6可知,下洞温度较低,导致部分动物向弱光带或有光带迁移,如涂闪夜蛾 Sypna picta,黎道洪等学者曾对贵州安顺的龙天洞、郑家大洞内的动物群落进行了研究,发现一年四季中,夏季动物类群和数量最高,冬季随着温度下降一些动物从有光带退缩至弱光带或黑暗带[26],由此可见,适宜的温度是影响洞穴动物分布的重要因素。
+
+# 3.4 重金属污染评价
+
+# 3.4.1土壤重金属污染评价
+
+根据《国家土壤环境质量评价标准》、《中华人民共和国土壤环境背景值图集》对大洞、下洞洞穴土壤中重金属进行污染评价。
+
+表8下洞洞穴群落多样性与环境因子的Pearson相关系数矩阵  
+表9大洞、下洞土壤重金属污染级别  
+Table 9 Heavy metal pollution of the soil samples from Da cave and Xia cave   
+
+<html><body><table><tr><td>光带 4 Ray belt</td><td>汞 Hg</td><td>级别 Classification</td><td>砷 As</td><td>级别 Classification</td><td>锰 Mn</td><td>级别 Classification</td></tr><tr><td>LB</td><td>6.00</td><td>6</td><td>1.22</td><td>2</td><td>0.40</td><td>1</td></tr><tr><td>RLB1</td><td>5.78</td><td>6</td><td>0.89</td><td>1</td><td>0.21</td><td>1</td></tr><tr><td>DB1</td><td>5.47</td><td>6</td><td>1.17</td><td>2</td><td>0.38</td><td>1</td></tr><tr><td>LB²</td><td>5.35</td><td>6</td><td>0.77</td><td>1</td><td>0.59</td><td>1</td></tr><tr><td>RLB²</td><td>5.55</td><td>6</td><td>0.81</td><td>1</td><td>0.21</td><td>1</td></tr><tr><td>DB²</td><td>6.37</td><td>6</td><td>0.14</td><td>1</td><td>0.59</td><td>1</td></tr></table></body></html>
+
+虽然相隔李家湾-杨立掌锰矿区的直线距离较近，但两洞穴土壤中 $\mathbf { M } \mathbf { n }$ 的污染级别仅属于1级，具体原因是锰矿产于华南纪地质层[27],大洞、下洞所在的松台地区则属于寒武系岩层[15],时间上相隔约2.5 亿年,两岩层之间相距厚度近 $1 0 ~ \mathrm { k m } ^ { \left[ 1 6 \right] }$ ,因此两洞穴土壤中的 $\mathbf { M } \mathbf { n }$ 并不来自同一地层,相关性不大。大洞、下洞土壤中的重金属主要来自于其原生母岩,即寒武系区特有的"多元素富集”土壤[15]。 $\mathrm { H g }$ 的污染级别较As、 $\mathbf { M } \mathbf { n }$ 要高,但在相关性分析中与物种多样性指数之间关系并不明显,原因可能与 $\mathrm { H g }$ 的化学形态、富集程度有关，可交换态的重金属才是引起污染、危害生物体的主要给源[14],而大洞、下洞地区土壤层中 $\mathrm { H g }$ 多数为碳酸盐结合态、残留态[16],生物可利用性不大。另外,曾有学者分析过Pb、Hg、As 等重金属在洞穴动物体内的富集作用,发现$\mathrm { H g }$ 在生物体内含量较低,因其不易被动物主动吸收[10]。综合可得,重金属 $\mathbf { M } \mathbf { n }$ 、As从一定程度上影响着大洞、下洞中洞穴动物群落的分布，详情见表9。 （））
+
+# 3.4.2水体重金属污染评价
+
+根据《地下水环境质量标准GB-T14848-93》对大洞、下洞洞穴水体进行污染评价,结果如下。
+
+表10大洞、下洞水体重金属污染情况   
+Table 10 Heavy metal pollution of the water samples from Da cave and Xia cave   
+
+<html><body><table><tr><td>光带 Ray belt</td><td>WHg/(mg/L) The content of</td><td>水质标准 Water quality</td><td>WAs g/(mg/L) The content of</td><td>WMng/(mg/L) 水质标准 The content of Water quality Mn in wate standard</td></tr><tr><td>LB1</td><td>Hg in wate 0.00002</td><td>standard I</td><td>As in wate 0.0100046</td><td></td></tr><tr><td>RLB1</td><td>0.000018</td><td>I</td><td>0.0128493</td><td>I I</td></tr><tr><td>DB1</td><td>0.00025</td><td>Ⅱ</td><td>0.0140852</td><td>I</td></tr><tr><td>LB²</td><td>1</td><td>1</td><td>0.0124371</td><td>I</td></tr><tr><td>RLB²</td><td></td><td>1</td><td>0.0133425</td><td>I</td></tr><tr><td>DB²</td><td>1</td><td>1</td><td>0.0138145</td><td>I</td></tr></table></body></html>
+
+虽然在土壤重金属污染分析中,大洞、下洞土壤重金属污染级别均达到轻度-中等污染及以上的水平,但水体重金属污染评价显示,两洞穴的水源仍污染较小,可用于作为集中式生活饮用水源,这可能与两洞穴的土壤有关,大洞、下洞洞穴土壤属常见黄土,研究表明黄壤对重金属的吸附性较强,且吸收速率随着温度升高成递增趋势[28],因黄土具有较好的吸附能力，故水体重金属污染并不高。综合表9,可以看出下洞水体中的 As、Mn 对洞穴动物的多样性、优势度存在着显著相关性,水体中 $\mathrm { H g }$ 含量较小,因此与水生种类的相关性并不明显，见表10。
+
+# 4结论
+
+通过对锰矿区附近的大洞、下洞进行调查研究,发现两洞穴均为有光带物种数最多。除单个洞穴相邻光带之间相似性指数较高外,不同洞穴的相邻光带(C-E)以及相同光带(C-F,A-D)间相似性较大。另外,对于洞穴生物而言,环境条件相似会生成相同的食物种类,如有光带、弱光带石刺上存在大量以蓝藻、蓝细胞,黑暗带则是细菌、古细菌等[24],相同的食物类群吸引了食性相同的生物,致使不同洞穴相邻、相同光带内动物群落相似性较大。由于大洞人为干扰严重,研究表明圈养牲口引起的生境破坏会导致洞穴物种数减少[23],因此相邻群落(A-B)相似性指数较低。在相关性分析中可以看出土壤、水体中重金属 $ { \mathrm { M n } } _ { \cdot }  { \mathrm { A s } }$ 对大洞、下洞洞穴物种多样性之间存在着各种显著相关,如重金属 Mn与多样性指数呈显著负相关,可见重金属对洞穴动物的群落结构仍存在一定的负面影响,与某些学者研究结构一致[29-30]。从土壤中重金属分析来看,大洞、下洞土壤中的重金属仅 $\mathrm { H g }$ 达到极严重污染。在本研究中,锰矿区周围洞穴土壤中并无严重锰污染,分析对比洞穴群落多样性与环境因子的Pearson 相关性结果可得,几种重金属与大洞、下洞洞穴动物的相关性并不一致,大洞洞穴土壤中重金属与群落多样性指数之间相关性明显，而两者在下洞中则无明显相关,温度成为影响下洞洞穴动物分布的重要因素。从水体、土壤重金属污染评价可以看出,大洞、下洞土壤虽存在轻、中度重金属污染,但水质基本无污染,笔者曾对贵州松桃腊山河洞进行研究分析也出现这一情况,即土壤母质重金属含量较高，此类重金属不宜利用和转移，加上土壤层的吸附作用,水质污染极小。本研究仅对松桃县李家湾-杨立掌锰矿区附近大洞、下洞洞穴环境中重金属的污染程度、不同重金属对动物群落的影响进行了对比浅析,若要深入研究重金属对整个洞穴动物的影响还需要进行重金属追踪调查。
+
+# 参考文献（References）：
+
+［1］张远海，朱德浩.中国大型岩溶洞穴空间分布及演变规律.桂林理工大学学报，2012，32(1)：20-28.  
+[2]MikoS,KuhtaM,apeljSBatguanoinfluenceonthegeochemistyofcavesedientsfroModriCave；Croatia//ProceedingoftethInteratioaloesSelel4elelalogestidrathraagessofeleSociedade Brasileira de Espeleologia,2001.  
+[3]ChrokovA,orakA,ooD,istfekViversearealouityfbatguanopileimicacave（vakKast，okia)Folia Microbiologica，2009,54(5）：436-446.  
+[4]CuculicVukkal,aristbofreealscalieesfriatiatistaefScience，2011,95(1):253-263.  
+[5］黎道洪.喀斯特洞穴内部分环境因子与动物群落结构的相关性研究——以贵州省波多洞和甲良洞为例//现代地理科学与贵州社会经济.现代地理科学与贵州社会经济，2009.  
+[6」黎道洪，罗蓉.贵州和尚洞不同光带内软体动物、节肢动物和脊索动物的多样性及分布研究．中国岩溶，199,18（2)：134-150.  
+[7］杨卫诚，黎道洪.广西大岩洞洞穴动物体与环境中重金属含量关系.生态学杂志，2010,29（8)：1554-1558.  
+[8］叶子鄰，黎道洪.贵州屯上洞洞穴动物对5种重金属富集的研究.四川动物，2011，30(3）：372-376.  
+[9] 徐承香，李子忠，黎道洪.贵州织金洞洞穴动物群落多样性与光照强度及土壤重金属含量的关系.生物多样性，2013,21（1)：62-70.  
+[10]徐承香，李子忠，黎道洪.喀斯特洞穴动物与部分生态环境因子的关系，湖北农业科学，2012，51（6)：1081-1084，1092-1092.  
+[11] 杨卫诚，黎道洪，徐承香.广西大岩洞和岩头2号洞洞穴动物群落结构及其与环境因子关系分析.四川动物，2013，32（3）：442-448.  
+[12］叶子鄰，黎道洪.贵州屯上洞内动物群落结构与部分环境因子的相关性研究.贵州师范大学学报（自然科学版），2011,29（3):3-8.  
+[13］张广，杨卫诚，梁云，付文泽，张荣献，周小利.贵州白云岩喀斯特洞穴动物群落结构及其与环境因子关系研究.四川动物，2015，34(3): 375-382.  
+[14］肖智.海南岛砖红壤中 $\mathrm { M n } \sqrt \mathrm { z n } \sqrt \mathrm { z u } \sqrt \mathrm { i }$ 含量、分布及污染评价研究.海口：海南师范大学,2011：10-11.  
+[15］王兴富，顾秉谦.贵州地区下寒武统黑色岩系区“多元素"富集矿层分析及土壤重金属污染研究进展.贵州科学，2016,34（5）：63-68.  
+[16] 姚希财，温官国，谢小峰，张伍林，张仁彪.黔东地区杨立掌锰矿床李家湾锰矿段地质特征浅析.地质调查与研究，2015,38（1）：35-40,80-80.  
+[17］黎道洪.贵州波多洞和甲良洞内部分环境因子与动物群落结构的相关性.生态学报，2007，27(6)：2167-2176.  
+[18] 黎道洪.贵州水拔洞内动物群落结构与部分环境因子的相关性研究.中国岩溶，2006，25（3）：256-262.  
+[19］李金城，尹仁湛，罗亚平，陆义林，张露丹.广西大新锰矿区土壤重金属污染评价.环境科学与技术，2010,33（7）：183-185，190-190.  
+20]Celis,oeagalscteiduthotaua(2): 123-134.  
+[21］蒋鸿，陈会明.洞穴平带马陆研究进展//全国第十七届洞穴学术会议论文集.通山：中国地质学会洞穴专委会，2011.  
+[22] 曾晓燕，牟瑞芳，许顺国.岩溶生态脆弱性研究.环境科学与管理，2006,31(1)：86-88.  
+[23］苏晓梅，黎道洪，杨卫诚.贵州紫烟洞和莲花洞动物群落结构及环境因子的影响.生态学杂志，2007,26(12)：1981-1987.  
+[24］王福星，曹建华，黄俊发.洞穴弱光带的生物岩溶.中国岩溶，1998,17(1)：41-48.  
+[25 SmrJKovLikeJ，ustrV,ukeoA,jokK,vkoA，kP.Fdsosofelecedtestaleds.Subterranean Biology，2015，16:37-46.  
+[26 黎道洪，罗蓉，宋锡章.贵州龙天洞和郑家大洞内软体动物、节肢动物和脊索动物群落的比较研究.中国岩溶，1999，18（1)：80-88.  
+27 覃英，周琦，张遂.黔东北地区南华纪锰矿基本特征.贵州地质，2005，22(4)：246-251.  
+[28] 王艳，唐晓武，王恒宇，刘维.重金属 $\mathrm { { M n } ( \mathbb { I } ) }$ 在黄土上的吸附和解吸特性研究.岩土工程学报，2011，33（S1)：376-380.  
+[29] GutierezM,NeillH,GrandRVMetalsinsimentsfspringsndavestreamsasenviroentalindicatorsinarstareasEnviotalGeology，2004,46(8）:1079-1085.  
+[30]XuCX,LiDH,LiZZoacculatiofhtetalsiaveaialsfroshdMalagaves，ouPrvc,ChAJournal of Biotechnology，2012,11（92）：15931-15935.

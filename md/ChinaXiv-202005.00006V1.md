@@ -1,0 +1,161 @@
+# 黄土高原藓结皮覆盖土壤导水性能和水流特征
+
+李渊博1²，李胜龙¹²，肖波2.3，张鑫鑫²，姚小萌}²，王国鹏1.2(1．中国农业大学土地科学与技术学院,北京100193；2．农业部华北耕地保育重点实验室,北京100193;3．中国科学院水土保持研究所黄土高原土壤侵蚀与旱地农业国家重点实验室,陕西 杨凌712100)
+
+摘要：生物结皮具有特殊的水文物理性质,为探究其对土壤水分渗透性和水流特征的影响,以黄土高原风沙土和黄绵土上3种典型地表覆盖类型(裸地、藓结皮、藓结皮-草本植物混合)为对象,采用环刀法和染色示踪法对其导水性质与水流特征进行探究。结果表明：藓结皮对2种土壤类型 $0 \sim 5 ~ \mathrm { c m }$ 土层土壤理化性质影响较大,与裸地相比土壤容重降低了 $9 . 8 5 \% \sim 1 0 . 0 0 \%$ ,土壤黏粒含量增加了 $1 . 0 1 \sim 1 . 2 9 \$ 倍,表层有机质含量提高了 $2 . 7 3 \sim 3 . 0 2$ 倍；藓结皮使 $0 \sim 5 ~ \mathrm { c m }$ 土层土壤饱和导水率降低了 $6 1 . 3 2 \% \sim 8 8 . 8 9 \%$ ，而在 $5 \sim 1 0 ~ \mathrm { c m }$ 土层饱和导水率则有明显上升。另外,由于草本植物的影响,藓结皮-草本植物 $0 \sim 5 ~ \mathrm { c m }$ 土层与藓结皮土壤相比土壤饱和导水率提高了 $1 . 3 2 \sim 6 . 4 3 \$ 倍;黄绵土藓结皮与藓结皮－草本植物的染色面积比均高于裸地,且水分下渗深度增加了 $1 0 \ \mathrm { c m }$ ,而风沙土藓结皮与风沙土裸地的染色面积比差异不明显。综上所述,藓结皮和藓结皮－草本植物的存在改变了表层土壤水分渗透性以及水流运动特征和水分下渗深度,影响着黄土高原土壤水分保持和生态恢复。
+
+关键词：藓结皮；饱和导水率；染色示踪；染色面积比；风沙土；黄绵土；神木市；黄土高原
+
+黄土高原地处半干旱半湿润气候带，经过长期的自然演变，该区逐渐产生了以干旱缺水和水土流失等为主的环境问题，水分成为了该区环境恢复的关键因素[1]。近40a来,黄土高原在退耕还林(草)工程的实施下，区域内地表覆被（林地、灌丛及草地)面积增加明显，然而各区域中水分依旧存在不同程度的亏缺，水分严重制约着黄土高原的生态环境恢复[2]。基于此,如何进行有效的区域水土保持及生态恢复重建，是目前黄土高原地区综合治理的主要难题。
+
+降水是干旱和半干旱区土壤水分的重要来源，生物结皮则是该区域地表水文过程的重要影响因子。生物结皮是真菌、细菌、藻类、地衣和苔藓等微小生物与土壤颗粒相互作用而形成的复杂复合体[3-4],其生理特性能够明显改变土壤表层的理化性质,进而影响土壤的水分入渗[5]。此外,草地作为黄土高原的植被主体,其面积约占区域土地总面积的 $3 3 \%$ [6],草地根系在土壤中的生长延伸、生死交替，能够提高土壤团聚体及有机质含量，同时生物结皮的生态结构及物种组成可能改变并影响草本植物的生长，而生物结皮与草本植物的紧密关系对区域水土保持和气候调节等方面具有重要意义[7-8] 。
+
+目前，有关生物结皮对土壤水分入渗过程的影响已有大量研究,但是争议依旧较大：一方面，生物结皮通过假根和菌丝增加表层土壤大孔隙数量和总孔隙度，促进土壤结构形成，从而提高土壤导水率[9];另一方面,生物结皮的特殊生理活性会使其遇水膨胀，阻塞土壤孔隙，改变土壤表面的粗糙度，延长水分在土壤表面的停留时间，从而降低土壤入渗[10]。Chamizo 等[1]研究表明,荒漠地区生物结皮的存在可以提高土壤入渗速率和增加地表径流，且入渗速率随着生物量的增大而增加;而Wang 等[12]通过对比去除生物结皮前后的土壤入渗速率，发现两者并无显著差异。因此，如何量化生物结皮影响下的土壤水分渗透性依旧是目前研究的重点。
+
+草地等植物根系在生长、死亡过程中能够在土壤中产生孔隙通道[13],而土壤孔隙可使水分和溶质快速通过或绕过土壤基质运移至土壤深部和地下水层，这一非均匀快速运动形式称为土壤优先流[14-15]。优先流现象对于土壤水分运动规律、植物生长及表层水和地下水污染等研究具有重要价值，而土壤物理性质、生物结皮、枯落物和根系等则是优先流产生的重要影响因子之一。目前，有大量研究通过染色示踪法观测野外土壤优先流。田香姣等[16通过研究发现,草地土壤优先流主要位于根系及土壤裂隙周围,且半径大于 $1 . 3 \ \mathrm { m m }$ 的大孔隙是水流优先运移的主要通道;Devitt等[17]对不同植被根系对土壤水流的变化进行研究，表明灌木根系可以形成水分优先人渗的路径，而且根系越大土壤水分入渗深度更深;在干旱和半干旱地区，生物结皮作为特殊的地表覆被物，能够在土壤表面产生裂隙，进而可能产生优先水流路径[18-19]。目前,对于生物结皮与草本植物混合覆盖下的土壤入渗性能及水流特征的研究较少，而利用染色示踪法对生物结皮及草本植物优先流的分析更是鲜有报道。
+
+基于此，为探究黄土高原地区生物结皮覆盖对土壤水分渗透性的影响，对比以藓结皮为主不同地表覆被的土壤水流特征差异，揭示藓结皮在区域生态环境改善中的作用。本文以黄土高原典型藓结皮为研究对象，通过室内环刀法及野外染色示踪实验，研究以藓结皮为主的不同地表覆被(裸地、藓结皮、藓结皮与草本植物混合）土壤导水率与水流特征。实验结果可为黄土高原藓结皮覆盖下土壤水分运动数值模拟提供基础数据，为区域水分调节及生态恢复决策提供科学依据。
+
+# 1 材料与方法
+
+# 1.1 研究区概述
+
+研究区位于中国科学院水土保持研究所侵蚀与环境试验站，地处神木市以西 $1 4 ~ \mathrm { k m }$ 处的六道沟流域 $( 1 1 0 ^ { \circ } 2 1 ^ { \prime } \sim 1 1 0 ^ { \circ } ~ 2 3 ^ { \prime } \mathrm { E }$ ， $3 8 ^ { \circ } 4 6 ^ { \prime } \sim 3 8 ^ { \circ } 5 1 ^ { \prime } \mathrm { N } )$ 。该流域海拔 $1 ~ 0 9 4 . 0 \sim 1 ~ 2 7 3 . 9 ~ \mathrm { m }$ ，年平均气温 $8 . 4 ~ \mathrm { { ^ { 8 } C } }$ ，年平均降水量 $4 3 7 . 4 ~ \mathrm { m m }$ ,降雨多集中在6一9月，其降水量占全年降水的 $7 0 \% \sim 8 0 \%$ [20]。流域东部土壤大部分以黄土覆盖为主,占流域总面积的 $8 6 . 5 \%$ ，而西部大部分是以风沙土为主，为流域总面积的$1 3 . 5 \%$ 。地理位置极其特殊，处于毛乌素沙漠的边缘地带，并为森林草原向干旱草原过渡的地带,属于典型的黄土丘陵区及水蚀风蚀交错带。多年退耕还林(草)过程中,该区域林地、灌木、草地恢复较好，如油松（Pinustabulaeformis）、苜蓿（Medicago）及柠条（Caraganakorshinskii）等分布较广。流域内的生物结皮未受到人为干扰，发育良好，易于观测，主要生物结皮类型有藻结皮、藻与藓混生结皮和藓结皮，其中藓结皮多集中分布在草地及乔灌木中，呈绿色或深褐色毡状片层。
+
+# 1.2样品采集与测定
+
+1.2.1实验设计于2018 年8—9月进行采样与实验，实验前调查流域内土壤类型及生物结皮分布情况。该区内典型的土壤类型为风沙土与黄绵土，典型的生物结皮类型为藓结皮。实验点选取在人为干扰少、藓结皮覆盖度高以及草本植物与藓结皮混生状况良好的区域。在野外染色示踪实验中，设置无生物结皮的土壤(裸地）、有完全生物结皮覆盖的土壤(藓结皮）及生物结皮与草本植物混生覆盖的土壤(藓结皮-草本植物)3种地表覆盖类型以及风沙土与黄绵土2种土壤类型，共6个处理(风沙土裸地、风沙土藓结皮、风沙土藓结皮-草本植物以及黄绵土裸地、黄绵土藓结皮、黄绵土藓结皮-草本植物)。室内实验,则使用环刀法测量上述6种处理的 $0 \sim 5 ~ \mathrm { c m }$ 和 $5 \sim 1 0 ~ \mathrm { c m }$ 土层的导水性能，每个土层6个重复，所取藓结皮表层均完整无裂隙。实验点附近取相应扰动土壤，带回实验室风干过筛后测定其基本理化性质。
+
+1.2.2藓结皮特征和理化性质的测定使用游标卡尺测量藓结皮的厚度，用烘干法测量土壤容重（pb），总孔隙度的计算方法采用 $( 1 - \mathsf { p b } / 2 . 6 5 ) \times$ $100 \%$ ,以重铬酸钾外加热法测定土壤有机质含量和吸管法测定土壤机械组成（国际制分类）。
+
+1.2.3室内土壤导水性实验室内使用环刀法[21]测量原状土壤导水性能。本实验在装有土样的100$\mathrm { c m } ^ { 3 }$ 环刀上方叠放一个相同的空环刀,在两环刀的交界处用石蜡密封，并用皮套固定，随后将其置于装有漏斗的铁架台，固定后保持环刀口平稳，利用马氏瓶向空环刀供水，在漏斗下方放置烧杯用以在固定时间内收集渗出水分，使用百分之一天平称量并记录重量，并且使用游标卡尺测量水头高度。计算在实验开始后环刀下方出水后的第 $1 ~ \mathrm { m i n }$ 第 $4 ~ \mathrm { m i n }$ 第$3 0 ~ \mathrm { m i n }$ 后的 $3 \ \mathrm { m i n }$ 内的导水率，并且在第 $5 0 ~ \mathrm { m i n }$ 后连续测定直至水流稳定后的导水率，并定义为饱和导水率 $( K _ { \mathrm { s } } )$ ,以表征土壤在饱和状态下的土壤导水速率。导水率的计算为：
+
+$$
+K = \frac { Q L } { A t \Delta H }
+$$
+
+式中： $K$ 为导水率, $\mathrm { c m } \cdot \mathrm { h } ^ { - 1 }$ $Q$ 为流量, $\mathrm { c m } ^ { 3 }$ $L$ 为样品高度， $\mathrm { c m } ; \Delta H$ 为水头高差， $\operatorname { c m } ; A$ 为土壤横截面积， $\mathrm { c m } ^ { 3 } ; t$ 为测定时间,h。
+
+1.2.4土壤水流特征测定为对比土壤水分入渗后的水流类型差异，揭示藓结皮对土壤水分再分布的影响，本研究采用野外染色示踪方法定量分析裸地、藓结皮及藓结皮-草本植物覆盖下土壤水流类型差异。染色前清理各实验区地表杂物，藓结皮-草本植物样地则剪去地表杂草且不破坏藓结皮，并将 $1 0 0 \ \mathrm { c m } \times 1 0 0 \ \mathrm { c m } \times 3 3 \ \mathrm { c m }$ 的4面铁板垂直嵌入土壤 $1 5 \ \mathrm { c m }$ ,同时在铁板与土壤接触面之间填充泥土，以防止染液沿铁板与土壤间的缝隙快速下渗。由于研究区降雨多集中于夏、秋季，单次降雨量超过30$\mathbf { m } \mathbf { m }$ 的强降雨时有发生，故本实验主要对强降雨事件后的水分分布的测定。试验中对每个样地均匀喷洒 $4 0 \mathrm { ~ L ~ }$ 浓度为 $4 \ \mathrm { g \cdot L ^ { - 1 } }$ 的亮蓝溶液，之后用塑料膜完全覆盖在铁板之上，以减少水分蒸发。 $2 4 \mathrm { ~ h ~ }$ 后抽出铁板，以 $1 0 \ \mathrm { c m }$ 的间隔垂直挖取5个土壤剖面，再以 $5 \ \mathrm { c m }$ 为间隔挖取水平剖面（直至无染色情况），同时用数码相机对染色剖面进行遮光拍照。
+
+1.2.5数据与图像处理实验数据运用MicrosoftExcel2016进行处理与分析，用IBMSPSSStatistics22进行单因素方差分析（One-WayANOVA），以Ori-gin 2019进行作图并以模型模拟;染色图像的处理参照文献[22-23],每个剖面处理5张典型图像并求平均值,以获取土壤染色面积比（stained area ratio,SAR）和水平染色面积比（horizontal stained area
+
+ratio，SARh）。
+
+# 2结果与分析
+
+# 2.1藓结皮覆盖对土壤理化性质的影响
+
+如表1所示，受藓结皮的影响，土壤表层理化性质变化明显。在 $0 \sim 5 ~ \mathrm { c m }$ 土层，藓结皮不仅能够降低容重，而且明显提高了表层土壤的黏粒及有机质含量。其中,藓结皮覆盖下的风沙土与黄绵土的表层土壤容重相比，土壤裸地分别下降了 $1 0 . 0 0 \%$ 与9. $8 5 \%$ ，相比藓结皮－草本植物则分别下降了$4 . 6 4 \%$ 与 $9 . 8 5 \%$ ;风沙土藓结皮的黏粒与有机质含量是风沙土裸地的1.26倍和3.02倍，并且是藓结皮-草本植物的1.02 倍和1.25倍;在黄绵土中，藓结皮和藓结皮-草本植物的有机质含量分别是裸地土壤的2.73 倍和4.27倍。 $5 \sim 1 0 ~ \mathrm { c m }$ 土层中,各土壤理化性质差异不大。由于土壤类型不同，藓结皮对土壤理化性质的影响会产生差异，如风沙土受藓结皮的影响，其黏粒与有机质含量增加明显，其中黏粒含量提高了1.26倍;而藓结皮对黄绵土的黏粒含量影响较小，黄绵土裸地与藓结皮覆盖的表层土壤黏粒含量在 $1 6 . 5 2 \sim 1 6 . 6 5$ 之间波动。
+
+# 2.2藓结皮覆盖对土壤导水特征的影响
+
+土壤的各层导水率均随着时间的增加而逐渐降低且趋于稳定（表2）。其中，第 $1 ~ \mathrm { m i n }$ 处的导水率最高，随着时间的推移，导水率逐渐降低并趋于 $K _ { \mathrm { s } }$ ，风沙土各土层的导水率趋于饱和的时间较长，而黄绵土的第 $3 0 ~ \mathrm { m i n }$ 导水率则近似于 $K _ { \mathrm { s } }$ 。在导水过程中，不同植被覆盖下 $0 \sim 5 ~ \mathrm { c m }$ 土层导水率差异较大,第 $1 ~ \mathrm { m i n }$ 导水率表现为：裸地 $>$ 藓结皮－草本植物 $>$ 藓结皮，其中风沙土藓结皮表层土壤的第 $1 ~ \mathrm { m i n }$ 导水率为 $2 . 3 1 \ \mathrm { c m } \cdot \mathrm { h } ^ { - 1 }$ ,只占风沙土裸地和藓结皮-草本植物的 $1 4 . 6 0 \% \sim 3 1 . 2 6 \%$ ;黄绵土藓结皮表层土壤导水率仅占黄绵土裸地和藓结皮－草本植物的 $7 1 . 1 9 \% \sim 8 7 . 5 0 \%$ 。在 $5 \sim 1 0 ~ \mathrm { c m }$ 土层中，导水率则表现为：裸地 $>$ 藓结皮 $>$ 藓结皮-草本植物，风沙土与黄绵土裸地的第 $1 ~ \mathrm { m i n }$ 导水率是藓结皮和藓结皮－草本植物的 $1 . 5 5 \sim 3 . 4 3$ 倍。
+
+表1不同覆被类型土壤理化性质  
+Tab.1Soil physicochemical properties of different cover types   
+
+<html><body><table><tr><td rowspan="2">处理</td><td rowspan="2">土壤深度 /cm</td><td rowspan="2">容重 /(g·cm-3)</td><td colspan="3">机械组成/（g·kg-1)</td><td rowspan="2">有机质 /（g·kg-1)</td><td rowspan="2">总孔隙度 1%</td><td rowspan="2">结皮厚度 /mm</td></tr><tr><td>黏粒</td><td>粉粒</td><td>砂粒</td></tr><tr><td>风沙土裸地</td><td>0~5</td><td>1.60 ±0.02a</td><td>9.67</td><td>4.84</td><td>85.49</td><td>6.94 ±2.28bc</td><td>39.73 ±0.01e</td><td>一</td></tr><tr><td rowspan="2">风沙土藓结皮</td><td>5~10</td><td>1.57 ±0.05a</td><td>8.65</td><td>2.16</td><td>89.18</td><td>5.17 ±2.96a</td><td>40.77 ±0.02e</td><td>1</td></tr><tr><td>0~5</td><td>1.44 ±0.02c</td><td>12.49</td><td>4.89</td><td>82.88</td><td>20.93 ±9.37a</td><td>45.73 ±0.01c</td><td>9.39 ± 1.04a</td></tr><tr><td rowspan="2">风沙土藓结皮-草本植物</td><td>5~10</td><td>1.48±0.05b</td><td>8.38</td><td>4.19</td><td>87.43</td><td>8.24 ±4.14a</td><td>44.16 ±0.02c</td><td>一</td></tr><tr><td>0~5</td><td>1.51 ±0.01b</td><td>12.23</td><td>4.08</td><td>83.43</td><td>16.78 ±5.67ab</td><td>43.18±0.01d</td><td>10.26 ±1.18a</td></tr><tr><td rowspan="2">黄绵土裸地</td><td>5~10</td><td>1.56 ±0.03a</td><td>9.34</td><td>1.87</td><td>88.79</td><td>5.85 ±2.54a</td><td>41.04±0.01d</td><td>一</td></tr><tr><td>0~5</td><td>1.32 ±0.04d</td><td>16.52</td><td>22.60</td><td>60.89</td><td>4.56 ±0.17</td><td>50.07±0.02b</td><td>一</td></tr><tr><td rowspan="2">黄绵土藓结皮</td><td>5~10</td><td>1.42 ±0.02bc</td><td>14.57</td><td>19.03</td><td>66.40</td><td>5.23 ±0.16a</td><td>46.47 ±0.01b</td><td>一</td></tr><tr><td>0~5</td><td>1.19 ±0.03e</td><td>16.65</td><td>18.34</td><td>65.01</td><td>12.44 ±5.30abc</td><td>54.97 ±0.01a</td><td>10.28 ±1.01a</td></tr><tr><td rowspan="2">黄绵土藓结皮-草本植物</td><td>5~10</td><td>1.38 ±0.03c</td><td>14.21</td><td>20.37</td><td>65.41</td><td>5.85 ±0.04a</td><td>47.94 ±0.01a</td><td>一</td></tr><tr><td>0~5</td><td>1.32 ±0.05d</td><td>12.61</td><td>21.02</td><td>66.37</td><td>19.49 ±4.20a</td><td>50.22 ±0.02b</td><td>6.71 ±1.35b</td></tr><tr><td></td><td>5~10</td><td>1.42 ±0.07bc</td><td>11.52</td><td>20.74</td><td>67.73</td><td>5.62 ±0.03a</td><td>46.39 ±0.03b</td><td>二</td></tr></table></body></html>
+
+注：土壤质地分类采用国际制,即黏粒 $< 0 . 0 0 2 \ \mathrm { m m }$ ,粉粒为 $0 . 0 0 2 \sim 0 . 0 2 ~ \mathrm { m m }$ ,砂粒为 $0 . 0 2 \sim 2 \ \mathrm { m m }$ ;字母a\~e,表示各土层间的差异。
+
+表2不同覆被类型土壤导水参数  
+Tab.2Soil hydraulic conductivity of different cover types   
+
+<html><body><table><tr><td>处理</td><td>土壤深度/cm</td><td>第1min 导水率 /(cm·h-1)</td><td>第4 min 导水率 /(cm·h-1)</td><td>第30 min导水率 /(cm·h-1)</td><td>饱和导水率 /(cm·h-1)</td></tr><tr><td>风沙土裸地</td><td>0~5</td><td>15.82 ±7.81a</td><td>11.98 ±6.84a</td><td>9.78 ±6.55a</td><td>9.54 ±6.70a</td></tr><tr><td rowspan="2">风沙土藓结皮</td><td>5~10</td><td>34.44 ±4.02a</td><td>22.81 ±1.77a</td><td>19.15 ±1.84a</td><td>14.98 ±2.36a</td></tr><tr><td>0~5</td><td>2.31 ±1.60c</td><td>1.14 ±0.55c</td><td>1.06 ±0.54c</td><td>1.06 ±0.60c</td></tr><tr><td rowspan="2">风沙土藓结皮-草本植物</td><td>5~10</td><td>22.19 ±13.86b</td><td>11.20 ±6.56b</td><td>10.75 ±6.64b</td><td>10.43 ±6.75b</td></tr><tr><td>0~5</td><td>7.39 ±0.91b</td><td>7.09 ±1.18b</td><td>6.96 ±1.30b</td><td>6.82 ±1.35b</td></tr><tr><td rowspan="2">黄绵土裸地</td><td>5~10</td><td>11.68 ±4.51c</td><td>10.15 ±1.83b</td><td>10.07 ±0.48b</td><td>10.05 ±0.50b</td></tr><tr><td>0~5</td><td>1.18 ±0.53c</td><td>1.06 ±0.10c</td><td>1.06 ±0.09c</td><td>1.06 ±0.05c</td></tr><tr><td rowspan="2">黄绵土藓结皮</td><td>5~10</td><td>2.37 ±0.94d</td><td>0.96 ±0.33c</td><td>0.84 ±0.24c</td><td>0.83 ±0.24c</td></tr><tr><td>0~5</td><td>0.84 ±0.05c</td><td>0.52 ±0.04c</td><td>0.46 ±0.04c</td><td>0.41 ±0.02c</td></tr><tr><td rowspan="2">黄绵土藓结皮-草本植物</td><td>5~10</td><td>1.23 ±0.44d</td><td>0.94 ±0.24c</td><td>0.90 ±0.34c</td><td>0.88 ±0.32c</td></tr><tr><td>0~5</td><td>0.96 ±0.16c</td><td>0.62 ±0.16c</td><td>0.58 ±0.19c</td><td>0.54±0.21c</td></tr><tr><td></td><td>5~10</td><td>0.69 ±0.17d</td><td>0.33 ±0.04c</td><td>0.32 ±0.05c</td><td>0.28 ±0.03c</td></tr></table></body></html>
+
+注：字母a\~d,表示各土层间的差异。
+
+在 $K _ { \mathrm { s } }$ 上， $0 \sim 5 \ \mathrm { c m }$ 土层存在较大差异。风沙土裸地的 $K _ { \mathrm { s } }$ 是藓结皮与藓结皮-草本植物的 $1 . 4 0 \sim$ 9.00倍;在黄绵土上，裸地的 $K _ { \mathrm { s } }$ 是藓结皮和藓结皮－草本植物的 $1 . 9 6 \sim 2 . 5 9$ 倍。而在 $5 \sim 1 0 ~ \mathrm { c m }$ 的土层中，除了黄绵土的裸地及藓结皮-草本植物覆盖之外，其余各覆盖下土层的 $K _ { \mathrm { s } }$ 较 $0 \sim 5 ~ \mathrm { c m }$ 有明显的上升趋势。整体上，风沙土的 $K _ { \mathrm { s } }$ 较高，而黄绵土的 $K _ { \mathrm { s } }$ 较低;藓结皮覆盖使风沙土在 $0 \sim 5 ~ \mathrm { c m }$ 处的 $K _ { \mathrm { s } }$ 降低了 $8 8 . 8 9 \%$ ,对黄绵土表层土壤 $K _ { \mathrm { s } }$ 影响较小,仅为 $6 1 . 3 2 \%$ ;另外,受草本植物的影响,风沙土藓结皮-草本植物的 $K _ { \mathrm { s } }$ 是风沙土藓结皮的6.43倍，而在黄绵土中,藓结皮－草本植物的 $K _ { \mathrm { s } }$ 为藓结皮的1.32倍。
+
+# 2.3藓结皮覆盖对土壤水流特征的影响
+
+如图1所示，各位点剖面垂直染色面积比(SAR)随着深度的增加而逐渐减低。在 $0 \sim 1 5 \ \mathrm { c m }$ 土层，风沙土各位点的SAR均高于 $80 \%$ ,而黄绵土各覆盖位点的SAR从 $100 \%$ 迅速下降至 $2 \%$ ,并且黄绵土藓结皮和藓结皮－草本植物的SAR始终大于黄绵土裸地；在 $1 5 \ \mathrm { c m }$ 以下土层，风沙土各覆盖的SAR随着深度的增加均匀下降，而黄绵土裸地在15cm 处的SAR已趋近于0，几乎无染色痕迹，黄绵土藓结皮和藓结皮－草本植物在 $2 0 \sim 3 0 ~ \mathrm { c m }$ 土层的SAR有上升趋势,其中黄绵土藓结皮覆盖在 $2 5 \ \mathrm { c m }$ 的SAR超过 $20 \%$ ,显著高于黄绵土藓结皮-草本植物覆盖的位点。
+
+在藓结皮的影响下，不同质地土壤的SAR存在较大差异。其中 $0 \sim 2 0 ~ \mathrm { c m }$ 土层中风沙土各位点SAR显著高于黄绵土，该区域 SAR均在 $80 \%$ 以上且各位点水流特征变化差异不明显。而黄绵土SAR仅在表层 $0 \sim 5 ~ \mathrm { c m }$ 较高，随着深度的增加，其SAR下降剧烈，且各位点水流特征与风沙土相比差异明显；在 $2 0 \sim 3 0 ~ \mathrm { c m }$ 土层中，黄绵土藓结皮与藓结皮-草本植物的各位点SAR仅有风沙土藓结皮和藓结皮－草本植物的 $0 . 1 2 \sim 0 . 5 3$ 倍。
+
+各位点的水平染色面积比（ $\mathrm { S A R } _ { \mathrm { h } }$ )与垂直剖面SAR能较好的对应，随着土壤深度增加，风沙土各位点出现先缓慢降低后急剧降低，而黄绵土各位点$\mathrm { S A R } _ { \mathrm { h } }$ 急剧降低，且 $2 0 \ \mathrm { c m }$ 以下各位点 $\mathrm { S A R } _ { \mathrm { h } }$ 均低于$10 \%$ （图2）。风沙土 $0 \sim 2 0 \ \mathrm { c m \ S A R _ { h } }$ 最高,其中藓结皮与藓结皮－草本植物覆盖的风沙土位点 $\mathrm { S A R } _ { \mathrm { h } }$ 达到 $1 0 \% \sim 1 0 0 \%$ $2 0 ~ \mathrm { c m }$ 以下土层为 $0 \sim 9 0 \%$ ，且染色位点呈连续面状分布为主，直至 $1 5 \ \mathrm { c m }$ 以下才逐
+
+![](images/259b560126affc0073dacbeba1430133873b5169bc89fb14d9741a2ab711b93f.jpg)  
+图1不同覆盖下土壤垂直剖面染色面积比及水流形态
+
+Fig.1Stained area of soil vertical profile ratio and flow pattern with each experimental treatme渐出现斑点状水流痕迹。黄绵土 $\mathrm { S A R } _ { \mathrm { h } }$ 也显示剧烈下降，在 $5 \ \mathrm { c m }$ 以下染色区域多以不连续点状分布为主,藓结皮和藓结皮－草本植物的 $\mathrm { S A R } _ { \mathrm { h } }$ 是黄土裸地的 $3 . 2 2 \sim 9 . 8 7 \$ 倍。
+
+![](images/c132a156e32d53f6276d74fb980219dfe80c9c452d55a63edc883de1853397c6.jpg)  
+图2不同覆盖下土壤水平剖面染色面积比及水流形态  
+Fig.2Stained area of soil horizontal profile ratio and flow pattern with each experimental treatment
+
+# 3讨论
+
+藓结皮是一种复杂的地表复合体，具有特殊的生理活性。研究区藓结皮覆盖下的风沙土及黄绵土的有机质和黏粒含量均有较为明显的提高，同时土壤容重降低明显，由于藓结皮层自身较薄，导致其对表层土壤理化作用明显，对较深土壤的理化性质影响有限。这与赵允格等[24]和肖波等[25]研究结果相似：在生物结皮形成过程中，一方面，其易于分布在黏粒含量较高的土壤表层，并且能促进土壤团聚体的形成,改善土壤结构[26];另一方面,生物结皮具有明显的固碳功能[27],为微生物的生长提供碳源,并且草类植物的根系在衰亡后，经过微生物的分解也能提高土壤有机质含量。何芳兰等[28]研究表明,生物结皮形成与发育能显著提高土壤细砂粒含量、降低粗砂粒含量,从而改善了土壤质地;Belnap 等[29]通过对荒漠地区生物结皮成土过程研究显示，生物结皮易于形成粉粒及微团粒含量较多的土壤表层，同时改善土壤结构。
+
+藓结皮改变土壤表层的理化性质，进而影响土壤导水性能。本研究表明，藓结皮及藓结皮－草本植物的土壤导水率均低于裸地。该结果可能与藓结皮能够增加表层土壤黏粒含量并改善土壤结构有关：黏粒较大的比表面积会使土壤具有较强的吸附能力，从而影响水分在土壤中的下降速度。此外，随着结皮发育程度的提升，其厚度不断提高，其产生的分泌物均能堵塞地表孔隙，减少水分在土壤孔隙中的流通量,最终降低土壤渗透性能[30-31]。吴永胜等[32]认为,生物结皮在形成和发育过程中,改变土壤表层的物理、化学和生物特性，进而降低土壤入渗速率;肖波等[25.33]通过盘式入渗仪对黄土高原生物结皮水分入渗研究显示，生物结皮水分入渗速率号 $( 0 . 1 8 \sim 0 . 2 7 ~ \mathrm { c m } ~ \cdot ~ \mathrm { m i n } ^ { - 1 }$ )显著低于无结皮土壤$( 0 . 3 7 ~ \mathrm { c m } \cdot \mathrm { m i n } ^ { - 1 }$ ),并且与裸地土壤相比,生物结皮显著降低土壤 $K _ { \mathrm { s } }$ ，这与本研究所得结果基本一致，表明该区域内生物结皮覆盖减缓土壤表层的水分入渗速率，在一定程度上会增加土壤径流的风险。
+
+藓结皮在土壤表面形成的特殊结构层以及表层裂隙，改变了土壤表层不同区域的渗透性，藓结皮裂隙和孔隙状况使土壤深层呈现出不同的水流特征（图1，图3）。本研究在野外染色示踪条件下，可以明显观测到剖面各位点的水流特征，藓结皮能够改变水分在土壤内的下渗深度，并且影响深层区域内的水分入渗量。在降雨过程中，藓结皮表层完整处，由于其较高的持水特性，藓结皮在短时间内吸水形成地被物，增大土壤表面的粗糙度，改变土壤表面的微地形，拦截部分降水，并增加藓结皮层中的水分，延缓部分水分的下渗运动["0],导致部分水分下渗过程中具有浅层化趋势。藓结皮受地形、干湿交替及外界干扰等因素影响会产生裂隙和破碎现象[18-19]（图3），裂隙打破了藓结皮的完整性，增加了土壤的透水性，水分通过土表间的裂隙快速运移到下层土壤，从而造成区域内水分下渗的速度及深度的差异（图4路径 $\textcircled{1}$ )，并且产生了指状的优先流现象（图1）。在藓结皮盖度高的区域，其表面的孔隙会降低藓结皮对水分入渗速率的影响，水分可以有效地穿过结皮层进人土壤。所以，当降雨频繁，降水入渗较多时，藓结皮因其较强的持水性以及表面裂隙，会引起水分再分配格局及过程的变化。乔宇等[34]研究表明，生物结皮 $0 \sim 2 0 ~ \mathrm { c m }$ 土层的水分入渗占入渗总量的 $90 \%$ 以上，导致水分的再分配过程具有明显的浅层化趋势。石亚芳等[18]对通过踩踏干扰降低生物结皮的完整性，生物结皮受干扰产生的破碎及裂隙，其稳定入渗率 $( 1 . 9 3 \ \mathrm { m m } \cdot \mathrm { m i n } ^ { - 1 } \$ )较未经干扰生物结皮增加 $5 6 . 5 \%$ ，能够延长坡面产流时间，增加水分人渗，降低径流系数度，减少径流风险。生物结皮影响着土壤中水流的运动过程，因其较强的持水性及表面裂隙，造成了区域水分入渗速度的差异，进而产生水分快速入渗现象。
+
+![](images/83430ea35b980ed5cec8abacdaae15ee285b5b3cf8a0c922796b941683a8905f.jpg)  
+图3藓结皮表层裂隙与土壤中的植物根系(黄绵土)Fig.3Surface cracks and soil roots of biocrusts (Loessal soil)
+
+![](images/fdd7d3000161785ed5e62e1a1640ab7050ebd87fec0d91612e837a5e70247834.jpg)  
+图4藓结皮裂隙与根系处的水分快速流失路径  
+Fig.4Rapid water loss path between biocrusts cracks and roots
+
+草本植物能够提高藓结皮表层土壤的饱和导水率，并且根系在土壤水分运移中也起着至关重要的作用（图3），影响着染液在土壤剖面的下渗深度。根系是提高土壤渗透性能以及产生优先流的重要因素：根系在土壤中穿插、交织和缠绕等错综复杂的分布,影响着土壤大孔隙的形成[35]（微生物孔隙、裂隙等），使水分在下渗时能够沿着孔隙通道集中流动，从而增加土壤的渗透性能[36]（图4路径 $\textcircled{2}$ )；根系向周围土壤释放的复杂有机物质[37],可以改变土壤结构并促进根系的生长，在大孔隙的形成中起到间接作用。张侃侃等[38]研究表明,在有长芒草及柠条与生物结皮混合覆盖时，生物结皮依然表现抑制水分入渗的特性，其中长芒草和柠条覆被的稳定入渗率是与生物结皮混生的1.52倍和1.63倍。这与本研究结果相似，当藓结皮与草本植物混合生长时，藓结皮对水分入渗起到主导的抑制作用，但由于草本植物的影响，则会降低藓结皮的抑制作用。此外，Jorgensen等[39]的研究表明，入渗水流有 $94 \%$ 通过根系通道运移，仅有 $6 \%$ 的水分未流经根系；田香姣等[16]得出,根系的生物量与染色示踪面积比呈正相关关系，且相关系数在0.95以上的结论，说明土壤中的植物根系明显影响着水流的运动过程;王鑫浩等[40]通过对有根系土壤与无根土进行对比得出根系的存在能够提高土壤的稳渗速率2～5.23倍。本研究区域内，藓结皮-草本植物使风沙土水流运动趋于 $2 5 ~ \mathrm { c m }$ 以上的浅层，增加了黄绵土在 $2 0 \sim 3 0 ~ \mathrm { c m }$ 的下渗量，说明草本植物根系在黄绵土的水流作用明显。
+
+# 4结论
+
+藓结皮与藓结皮-草本植物均能降低土壤表层容重以及增加黏粒与有机质含量，并且对风沙土表层黏粒含量的影响程度大于黄绵土。由于藓结皮的影响，藓结皮-草本植物导水速率明显低于裸地，而根系的存在，则会使藓结皮层的饱和导水率提高$1 . 2 0 \sim 6 . 5 7$ 倍。此外,藓结皮表面的不完整性、土壤裂隙及土体根系均能改变土壤孔隙结构，藓结皮-草本植物提高黄绵土的染液入渗深度以及在$2 0 \sim 3 0 ~ \mathrm { c m }$ 的水分入渗量，甚至伴有明显的水分快速入渗现象出现。因此，藓结皮覆盖虽会降低土壤水分入渗速率，但藓结皮所产生的裂隙及草地根系会促进水分的快速下渗，并影响区域内土壤水分的运动过程。基于此，为量化该土壤持水能力，需要通过开展生物结皮覆盖下土壤剖面水分监测和模型模拟的方法实现。
+
+# 参考文献（References）:
+
+[1］郭忠升,邵明安.半干旱区人工林草地土壤旱化与土壤水分植 被承载力［J].生态学报,2002,23（8）：1640－1647.［Guo Zhongsheng,Shao Ming'an.soil water carrying capacity of vegetation and soil desiccation in artificial forestry and grassland in semiarid regions of the Loess Plateau[J].Acta Ecologica Sinica,2002, 23(8) :1640 -1647.]   
+[2］李裕元,邵明安.黄土高原气候变迁、植被演替与土壤干层的 形成［J].干旱区资源与环境,2001,15（1）：72-77.［Li Yuyuan,Shao Ming'an.Climatic change vegetation evolution and low moisture layer of soil on the Loess Plateau［J]. Journal of Arid Land Resources and Environment,2001,15(1）:72-77.]   
+[3]Kidron G,Tal S Y.The effect of biocrusts on evaporation from sand dunes in the Negev Desert[J].Geoderma,2012,17（9）:104- 112.   
+[4]Belnap J,Gilette D A. Disturbance of biological soil crusts ; Impacts on potential wind erodibility of sandy desert soils in southeastern Utah［J].Land Degradation and Development,2015,8 (4) :355 -362.   
+[5]Xiao B,Wang Q H,Zhao Y G,et al.Artificial culture of biological soil crusts and its effects on overland flow and infiltration under simulated rainfall[J].Applied Soil Ecology,2011,48(1):11-17.   
+[6]Lv YH,Fu B,Feng X,et al.A Policy-driven large scale ecological restoration:quantifying ecosystem services changes in the Loess Plateau of China[J].Plos One,2012,7(2）:1-10.   
+[7]Sedia E G,Ehrenfeld JG.Lichens and mosses promote alternate stable plant communities in the New Jersey Pinelands[J].Oikos, 2003,100(3):447 -458.   
+[8]Soudzilovskaia N A,Graae B J,Douma JC,et al. How do bryophytes govern generative recruitment of vascular plants[J].New Phytologist,2011,190(4）:10-19.   
+[9]Eldridge D J,Greene R S B. Microbiotic soil crusts: A review of their roles in soil and ecological processes in the rangelands of Australia[J].Soil Research,1994,32(3）:389-415.   
+[10］王新平,肖洪浪,张景光,等.荒漠地区生物土壤结皮的水文物 理特征分析[J].水科学进展,2006,17（5）:592-598.[Wang Xinping,Xiao Honglang,Zhang Jingguang,et al.Hydrophysical characteristics of biological soil crust in an arid desert area[J]. Advances in Water Science,2006,17(5）:592-598.]   
+[11]Chamizo S,Yolanda C,Roberto L,et al.Crust composition and disturbance drive infiltration through biological soil crusts in semiarid ecosystems[J].Ecosystems,2012,15(1）:148-161.   
+[12]Wang XP,Li XR,Xiao HL,et al.Effects of surface characteris
+
+tics on infiltration patterns in an arid shrub desert[J].Hydrological Processes,2010,21(1):72-79.
+
+[13］余凯,赵传燕,荐圣淇,等.黄土丘陵区典型植物种群下土壤大 孔隙特征及其影响因素研究[J].干旱区资源与环境,2013,27 (6）:67-74.[Yu Kai,Zhao Chuanyan,Jian Shengqi,et al. Soil macropore characteristics under typical vegetations and their affecting factors in Loss hilly region[J]. Journal of Arid Land Resources and Environment,2013,27(6):67 -74.]   
+[14]Jarvis N J.A review of non-equilibrium water flow and solute transport in soil macropores :principles,controlling factors and consequences for water quality[J]. European Journal of Soil Science, 2010,58(3) :523 -546.   
+[15］牛健植,余新晓,赵玉涛,等.贡嘎山暗针叶林土壤优先流形成 因素的初步研究[J].植物生态学报,2006,30（5）:732－742. [Niu Jianzhi,Yu Xinxiao,Zhao Yutao,etal.Study of soil preferentialflowinthedarkconiferous forestofGongga mountain,China [J].Journal of Arid Land Resourcesand Environment,2006,30 (5):732 -742.]   
+[16］田香姣,程金花,杜士才,等.重庆四面山草地土壤大孔隙的数 量和形态特征研究［J].水土保持学报,2014,28（2）:292－ 296.[Tian Xiangjiao,Cheng Jinhua,Du Shicai,etal. Study on number and morphological characteristics of soil macropores in grass land in Simian mountain of Chongqing[J]. Journal of Soil and Water Conservation,2014,28(2）:292-296.]   
+[17］Devitt D A,Smith S D.Root channel macropores enhance downward movement of water in a Mojave Desert ecosystem[J]. Journal of Arid Environments,2002,50(1）:99-108.   
+[18］石亚芳,赵允格,李晨辉,等.踩踏干扰对生物结皮土壤渗透性 的影响[J].应用生态学报,2017,28（10）：3227－3234.［Shi Yafang,Zhao Yunge,Li Chenhui,etal.Efect of trampling disturbance on soil infiltration of biological soil crusts[J].Chinese Journal of Applied Ecology,2017,28（10）:3227 -3234.]   
+[19］李金峰,孟杰,叶菁,等.陕北水蚀风蚀交错区生物结皮的形成 过程与发育特征[J].自然资源学报,2014,29（1）:67-79.[Li Jinfeng,Meng Jie,Ye Jing,et al.The development characteristics and formation process of biological soil crusts in wind-water erosion crisscross region,Northern Shaanxi Province,China[J]. Journal of Natural Resources,2014,29(1）:67-79.]   
+[20］傅子洹,王云强,安芷生.黄土区小流域土壤容重和饱和导水 率的时空动态特征［J].农业工程学报,2015,31（13）：128- 134.［Fu Ziheng,Wang Yunqiang,An Zhisheng. Spatio-temporal characteristics of soil bulk density and saturated hydraulic conductivity at small watershed scale on Loess Plateau [J].Transactions of the Chinese Society of Agricultural Engineering,2015,31（13）: 128 - 134.]   
+[21］胡顺军,田长彦,宋郁东,等.土壤渗透系数测定与计算方法的 探讨[J].农业工程学报,2011,27(5）:68-72.[Hu Shunjun, Tian Changyan,Song Yudong,et al. Determination and calculation of soil permeability coeficient[J].Transactions of the Chinese Society of Agricultural Engineering,2011,27(5）:68-72.]   
+[22]Janssen M,Lennartz B.Characterization of preferential flow pathways through paddy bunds with dye tracer tests [J].Soil Science Society of America Journal,2008,72(6）:106-115.   
+[23］李胜龙,易军,刘目兴,等.稻田-田埂过渡区土壤优先流特征 研究[J].土壤学报,2018,55（5）:1131-1142.[Li Shenglong, Yi Jun,Liu Muxing,et al.Characteristics of preferential flow in the intermediate zone between paddy field and ridge[J].Acta Pedologica Sinica,2018,55(5）:1131-1142.]   
+[24］赵允格,许明祥,王全九,等.黄土丘陵区退耕地生物结皮对土 壤理化性状的影响[J].自然资源学报,2006,21（3）：441- 448.[Zhao Yunge,Xu Mingxiang,Wang Quanjiu,et al. Impact of biological soil crust on soil physical and chemical properties of rehabilitated grassland in hilly Loess Plateau,China[J]. Journal of Natural Resources,2006,21(3） :441 -448.]   
+[25］肖波,赵允格,邵明安.陕北水蚀风蚀交错区两种生物结皮对 土壤理化性质的影响[J].生态学报,2007,27（11)：4662- 4670.[Xiao Bo,Zhao Yunge,Shao Ming'an.Effects of biological soil crust on soil physicochemical properties in water-wind erosion crisscross region,northern Shaanxi Province,China[J].Acta Ecologica Sinica,2007,27（11） :4662-4670.]   
+[26]Kidron G J,Benenson I. Biocrusts serve as biomarkers for the upper 30 cm soil water content[J]. Journal of Hydrology,2014,509（2）: 398-405.   
+[27]Thomas A D,Hoon S R,Linton PE. Carbon dioxide fluxes from cyanobacteria crusted soils inthe Kalahari[J].Applied Soil Ecology, 2008,39(3):254 -263.   
+[28］何芳兰,郭春秀,吴昊,等.民勤绿洲边缘沙丘生物土壤结皮发 育对浅层土壤质地、养分含量及微生物数量的影响[J].生态 学报,2017,37（18）:6064-6073.[He Fanglan,Guo Chunxiu, Wu Hao,et al.Effect of biological soil crust succession on soil texture,nutrient contents,and microbial populations of dune surfaces at the edge of the Minqin Oasis[J].Acta Ecologica Sinica,2017, 37(18) :6064 -6073.]   
+[29]Belnap J,Gillete D A.Disturbance of biological soil crusts : Impacts on potential wind erodibilityof sandy desert soils in southeastern Utah[J].Land Degradation and Development,2015,8 (4) :355 -362.   
+[30］肖波,赵允格,邵明安.陕北水蚀风蚀交错区两种生物结皮对 土壤饱和导水率的影响[J].农业工程学报,2007,23（12）：35 -40.［Xiao Bo,Zhao Yunge,Shao Ming'an.Effects of biological soil crust on saturated hydraulicconductivityin water-wind erosion crisscross region,North of Shaanxi Province,China[J].Transactions of the Chinese Society of Agricultural Engineering,2007,23 (12) :35-40.]   
+[31]Eldridge D J,Zaady E,Shachak M.Infiltration through three contrasting biological soil crusts in patterned landscapes in the Negev, Israel[J].Catena,2000,40(3）:323-336.   
+[32］吴永胜,尹瑞平,何京丽,等.毛乌素沙地南缘沙区水分入渗特 征及其影响因素[J].干旱区研究,2016,33(6）：1318－1324. [Wu Yongsheng,Yin Ruiping,He Jingli,et al.Soil infiltration and its affecting factors in sandy area[J].Arid Zone Research,2016, 33(6) :1318 -1324.]   
+[33]Xiao B,Sun FH,Hu KL,et al. Biocrusts reduce surface soil infiltrability and impede soil water infiltration under tensionand ponding conditions indryland ecosystem[J]. Journal of Hydrology, 2019,568(1) :792 -802.   
+[34］乔宇,徐先英,付贵全,等.民勤绿洲边缘不同年代土壤结皮特 性及对水文过程的影响[J].水土保持学报,2015,29（4）：1- 6.[Qiao Yu,Xu Xianying,Fu Guiquan,et al. Characteristics of soil crusts of diffrent development years and their impact on soil hydrological processes in Minqin Oasis fringe[J]. Journal of Soil and Water Conservation,2015,29(4）:1-6.]   
+[35]Devitt D A,Smith S D.Root channel macropores enhance downward movement of water in a Mojave Desert ecosystem[J]. Journal of Arid Environments,2002,50(1）:99-108.   
+[36］李建兴,何丙辉,谌芸.不同护坡草本植物的根系特征及对土 壤渗透性的影响[J].生态学报,2013,33（5）：1535-1544.［Li Jianxing,He Binghui,Chen Yun.Root features of typical herb plants for hillslope protectionand their effectsonsoil infiltration [J].Acta Ecologica Sinica,2013,33(5）:1535-1544.]   
+[37］吴林坤,林向民,林文雄.根系分泌物介导下植物－土壤－微 生物互作关系研究进展与展望［J].植物生态学报,2014,38 (3）:298-310.[Wu Linkun,Lin Xiangmin,Lin Wenxiong.Advances and perspective in research on plant-soil-microbe interactions mediated by root exudates[J]. Chinese Journal of Plant Ecology,2014,38(3) :298-310.]   
+[38］张侃侃,卜崇峰,高国雄.黄土高原生物结皮对土壤水分入渗 的影响[J].干旱区研究,2011,28（5）:808-812.[Zhang Kankan,Bu Chongfeng,Gao Guoxiong.Effect of microbiotic crust on soil water infiltration in the LoessPlateau[J].Arid Zone Research,2011,28(5） :808-812.]   
+[39]Jorgensen PR,Hoffmann M,Kistrup JP,et al.Preferential flow and pesticide transport in a clay-rich till:Field,laboratory,and modeling analysis[J]. Water Resources Research,2002,38（11）: 1-15.   
+[40］王鑫皓,王云琦,马超,等.根系构型对土壤渗透性能的影响 [J].中国水土保持科学,2018,16(4）:73－82.[Wang Xinhao, Wang Yunqi,Ma Chao,et al.Efectof root architecture on soil permeability[J].Science of Soil and Water Conservation,2018,16 (4):73 -82.]
+
+# Study of soil water permeability and water flow characteristics under moss crusts covering the Loess Plateau
+
+LI Yuan-bo1²，LISheng-long²，XIAO Bo1,23，ZHANG Xin-xin $^ { 1 , 2 }$ ， YAO Xiao-meng2，WANG Guo-peng2 (1.Colege of Land Science and Technology,China Agricultural University,Beijing 1Oo193,China 2.KeyLaboratoryof CultivatedLand Conservationof North China,Ministryof Agriculture,Beijing 1Oo193,China 3.State KeyLaboratoryofSoilErosionandDrylandFarmingontheLoess Plateau,Yangling7210,Shaanxi,China)
+
+Abstract：Biological soil crusts are assumed to greatly afect soil hydraulic conductivityand flow characteristics owing to their unique hydrophysical properties.Many studies have reported the efect of biocrust cover in soil water movement in arid and semi-arid areas and noted that the physicochemical properties(i.e.,bulk density,organic mater,and soil particle distribution）oftopsoilare diffrent than those ofbare soil,which may have positive or negative impacts onsoil water infiltration,evaporation andother properties that playan important role in the waterand heat balance of arid and semi-arid areas.However,biocrust/grass mixed into soil isa common surface cover type in Loess Plateau,China,whereas the differencesbetween biocrust coverand biocrust/grass mixed into soil areunknown in terms of water infiltrationand water flow characteristics.In thisstudy,three typical soil cover types（bare soil, soil with mosscrusts,and soil with a mixture of mosscrustsand grass）were selected for aeolian sandysoil and loessal soil.Their hydraulic conductivityand water flow characteristics were measured using the constant-head method inundisturbed soil samplesand thedye tracing method in the field.Theresults show that the mosscrusts hada marked influenceon thephysiochemical properties of surface soil.Ascompared with bare soil,the bulk densityof the moss crust layer decreased by $9 . 8 5 \% - 1 0 . 0 0 \%$ ,and the clay content and organic matter content of the moss crusts layer were 1.01-1.29 times and 2.72-3.02 times thatof the bare soil,respectively.Moreover,the moss crustsreduced thesaturated hydraulicconductivityof thesurfacesoil,especiallyforaeoliansandysoil where the value was over $8 8 . 8 9 \%$ that of bare soil. The moss crust/grass mix would reduce the water loss;； however,grass roots can create a number of preferential flow paths.This significant efect ultimately increased the surface soil hydraulic conductivity by1.32-6.43 times.The stained area ratios of the moss crusts cover type and moss crust/ grass mix were higher than that of the bare soil at the same soil depths for the loessal soil.Moreover,the soil water infiltration depth was increased by $1 0 \ \mathrm { c m }$ under moss crust cover.However,the stained area of the moss crusts cover type and thebare soil was similar for the aeolian sandy soil.More importantly,soil cracks and macropores caused by the swelling and shrinking of the moss crustsand the penetration of grass rots were important preferential flow channels forsoil water infiltrationandconduction；therefore,finger flow was clearlyobserved in the procesof soil water infiltration,promoting rapid soil water infiltration and ultimatelyaffcting thecharacteristics ofsoil water flow. In conclusion,the moss crusts cover type and moss crust/grass mix inthe Loess Plateau significantly altered surface soil water permeability and water flow characteristics.Therefore,their efectsonsoil water conservationand vegetation restoration should be considered in arid and semi-arid climate regions.
+
+Key words:moss crusts；saturated hydraulic conductivity；dye tracer； stained area ratio；aeolian sandy soil; lo-essal soil；Shenmu；Loess Plateau

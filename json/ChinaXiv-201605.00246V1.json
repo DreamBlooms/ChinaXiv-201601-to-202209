@@ -1,0 +1,428 @@
+[
+    {
+        "type": "text",
+        "text": "沈晓飞，倪彬彬，顾旭东等.2015.第23太阳活动周期太阳风参数及地磁指数的统计分析.地球物理学报，58（2)：362-370，doi:10.6038/cjg20150202.  \nShenXF,NiBB,Gu XD,etal.2Ol5.A statisticalanalysisof solar wind parametersand geomagnetic indices forthe SolarCycle 23.ChineseJ.Geophys.(in Chinese),58(2):362-370,doi:10.6038/cjg20150202.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "第23太阳活动周期太阳风参数及地磁指数的统计分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "沈晓飞1，倪彬彬²＊，顾旭东²，周晨²，刘勇，项正²，赵正予²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1武汉大学物理科学与技术学院，武汉430072  \n2 武汉大学电子信息学院空间物理系，武汉430072  \n3中国科学院空间天气国家重点实验室，北京100190",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要日冕物质抛射(Coronal Mass Ejection,简称 CME)和共转相互作用区(Corotating Interaction Region,简称CIR)是造成日地空间行星际扰动和地磁扰动的两个主要原因,提供了地球磁暴的主要驱动力，进而显著影响地球空间环境.为深入研究太阳风活动及受其主导影响的地磁活动的时间分布特征，本文对大量太阳风参数及地磁活动指数的数据进行了详细分析.首先,采用由 NASA OMNIWeb 提供的太阳风参数及地磁活动指数的公开数据,通过自主编写 matlab 程序对第 23 太阳活动周期(1996-01-01—2008-12-31)的数据包括行星际磁场 $B _ { z }$ 分量、太阳风速度、太阳风质子密度、太阳风动压等重要太阳风参数及 $D \\mathrm { s t }$ 指数、AE指数、 $K \\rho$ 指数等主要的地磁指数进行统计分析，建立了包括 269个CME事件和456个CIR 事件列表的数据库.采用事例分析法和时间序列叠加法分别对两类太阳活动的四个重要太阳风参数（IMF $B _ { z }$ 、太阳风速度、太阳风质子密度、太阳风动压)和三个主要地磁指数$( D \\mathrm { s t } , \\mathrm { A E } , K \\rho )$ 进行统计分析，并研究了其统计特征.其次，根据 $D \\mathrm { s t }$ 指数最小值确定了第 23太阳活动周期内的355 个孤立地磁暴事件，并以 $D \\mathrm { s t }$ 指数最小值为标准将这些磁暴进一步分类为145个弱磁暴、123个中等磁暴、705个强磁暴、12个剧烈磁暴和5个巨大磁暴.最后，采用时间序列叠加法对不同强度磁暴的太阳风参数和地磁指数进行统计分析.统计分析表明，对于CME事件， $N _ { \\mathrm { s w } } / P _ { \\mathrm { d y n } } ( N _ { \\mathrm { s w } }$ 表示太阳风质子密度， $P _ { \\mathrm { d y n } }$ 表示太阳风动压)线性拟合斜率一般为正;对于CIR事件， $N _ { \\mathrm { { s w } } } / P _ { \\mathrm { { d y n } } }$ 线性拟合斜率一般为负，这可作为辨别CME和CIR事件的一种有效方法.从平均意义上讲,相较于CIR事件,CME 事件有更大的南向 IMF $B _ { z }$ 分量、太阳风动压 $P _ { \\mathrm { d y n } }$ 、AE指数、 $K \\rho$ 指数以及更小的 $D \\mathrm { s t } _ { \\mathrm { m i n } }$ .一般情况下,CME事件有更大的可能性驱动极强地磁暴.总体而言，对于不同强度的地磁暴， $D \\mathrm { s t }$ 指数的变化呈现出一定的相似性，但随着地磁暴强度的增强， $D \\mathrm { s t }$ 指数衰减的速度变快.CME 和CIR 事件以及其各自驱动的地磁暴事件有着很多不同，因此,需要将CME事件驱动的磁暴及CIR 事件驱动的磁暴分开研究.建立CME、CIR事件及地磁暴的数据库以及获取的统计分析结果,将为深人研究地球磁层等离子体片、辐射带及环电流对太阳活动的响应特征提供有利的帮助.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词太阳风；日冕物质抛射；共转相互作用区；地磁暴；统计分析",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A statistical analysis of solar wind parameters and geomagnetic indices for the Solar Cycle 23 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SHEN Xiao-Fei1，NI Bin-Bin²\\*，GU Xu-Dong²，ZHOU Chen² , LIU Yong³，XIANG Zheng²，ZHAO Zheng-Yu² 1 SchoolofPhysical Science and Technology，Wuhan Uniuersity，Wuhan 43oo72，China 2 Departmentof SpacePhysics，SchoolofElectronic Information，Wuhan Uniersity，Wuhan 430o72，China 3 State Key Laboratory of Space Weather，Chinese Academy of Sciences，Beijing lOol9o,China ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract Coronal mass ejections （CMEs） and corotating interaction regions （CIRs） are two significant contributors to interplanetary disturbances and geomagnetic disturbances，which also play as major drivers of geomagnetic storms to modulate the geo-space environment. In order to comprehensively investigate the characteristic temporal features of the solar wind activity and associated geomagnetic activity， a large amount of solar wind data and geomagnetic activity indices are analyzed in detail. Firstly，using the public data of solar wind parameters and geomagnetic activity indices provided by the NASA OMNIWeb， the MATLAB codes are developed to deal with a number of key parameters including IMF $B _ { z }$ ，solar wind velocity，solar wind proton density，solar wind dynamic pressure, $D \\mathrm { s t }$ ，AE，and $K _ { \\ P }$ for the entire Solar Cycle 23 from 1996 to 2008. The complete database with a full list of 269 CME events and 456 CIR events is identified. Case event studies and superposed epoch analyses are implemented to carefully investigate the statistical features of four important solar wind parameters (IMF $B _ { z }$ ， solar wind speed，solar wind proton density，and solar wind dynamic pressure） and three major geomagnetic indices （ $D \\mathrm { s t }$ ，AE，and $K \\rho$ ） associated with the two types of solar disturbances. Secondly，the minimum of Dst index is utilized to differentiate 355 isolated geomagnetic storms Occurring during the Solar Cycle 23. These storms are further categorized according to the magnitude of Dst minimum into 145 weak storms，123 moderate storms，70 strong storms，12 severe storms, and 5 extreme storms. Finally，superposed epoch analysis is applied to evaluate the statistics of solar wind parameters and geomagnetic indices corresponding to magnetic storms with different intensities. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It is found that in general the linearly fitted slope of $N _ { \\mathrm { s w } } / P _ { \\mathrm { d y n } }$ (where $N _ { \\mathrm { { s w } } }$ is the solar wind proton density and $P _ { \\mathrm { d y n } }$ the dynamic pressure）with respect to epoch time remains positive for CME events but negative for CIR events，which can act as a feasible means to distinguish CME and CIR events. On average，compared to CIR events，CME events have larger magnitudes of southward IMF $B _ { z }$ ， solar wind dynamic pressure，AE and $K \\rho$ indices but smaller $D \\mathrm { s t } _ { \\mathrm { m i n } }$ .In principle，CMEs bear higher possibility to drive extremely intense （i. e.，super） geomagnetic storms.The overall variations of Dst tend to be similar to some extent for different levels of geomagnetic storms， however，Dst decreases faster for stronger storms. There are a large number of differences between CME and CIR events and their driven geomagnetic storms as well. Therefore，CME-driven storms and CIR-driven storms should be studied separately. The established database of CME and CIR events and geomagnetic storms and the quantitative statistical information in combination can provide a useful aid for better understanding the responses of Earth's plasma sheet， radiation belts，and ring current to various solar activities. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeywordsSolar wind；Coronal mass ejection； Corotating interaction region；Geomagnetic storms;Statistical analysis",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "太阳风是由源于太阳的等离子体流以及随着等离子体流一起流动的行星际磁场构成的.太阳风经过地球时，地磁场阻挡太阳风，并形成地球弓激波、磁鞘和磁层顶.太阳风和地球磁层的耦合导致在后者区域产生电流、电场，并驱动磁层中大尺度对流，造成磁层顶位形变化，驱使着地球磁层的内部变化，产生磁暴或者亚暴；也影响着磁层内部各电流体系及各区域空间的分布状况，如环电流、辐射带等（苑顺周，2011).",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "地磁活动是受太阳风影响很大的空间天气中的一种重要现象.地磁环境发生变化时，特别是巨大磁暴期间，电离层、高层大气和高能粒子环境都会出现强烈的响应，空间环境变得非常恶劣，会对各种航天器以及宇航员安全构成极大威胁.日冕物质抛射(CME)和共转相互作用区(CIR)是影响地磁活动的主要因素（Heber et al.，1999;Cane and Richardson,2003;Zhangetal.，2008).其中CME 事件是大尺度的太阳活动，主要发生在太阳活动极大期，持续时间较短，但经常伴有磁暴急始，且强度很大；与此相反的是，CIR事件往往较温和，主要发生在太阳活动极小期，持续时间较长，很少出现磁暴急始，且强度较小，很少出现Dst值小于一 $1 0 0 ~ \\mathrm { n T }$ 的情况.地磁暴的产生与CME和CIR事件有着密切关系（Turneretal.，2009)；而地磁暴的产生又能对地球磁层的粒子动力学过程以及等离子体波扰动产生显著的影响（Reevesetal.，2003），并随着时间的长短表现出不同时间尺度的变化特征.因此，深入、细致地了解太阳风以及地磁活动的时变特性对全面、系统地认知地球磁层对太阳活动的响应特性以及太阳风-磁层的粒子、能量耦合过程具有重要的价值.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文通过对第23太阳活动周期（1996—2008)太阳风参数以及地磁指数的详细分析，构造可靠的CME事件、CIR事件以及地球磁暴的数据库，进而细致、定量地研究多个重要的太阳风参数与地磁水平指数的统计与平均特性.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 数据与分析方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 数据说明",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文用于研究的太阳风及地磁活动的数据均来源于美国NASA的OMNIWeb公开数据（http：//omniweb.gsfc.nasa.gov/).主要分析的参量与指数包括行星际磁场 $B _ { z }$ 分量（IMF $B _ { z }$ ）、太阳风质子密度 $( N _ { \\mathrm { s w } }$ )、太阳风速度 $( V _ { \\mathrm { s w } }$ ）、太阳风动压( $ { P _ { \\mathrm { d y n } } } = 2 \\times$ $1 0 ^ { - 6 } N _ { \\mathrm { s w } } V _ { \\mathrm { s w } } ^ { 2 }$ ）、地磁Dst、AE以及 $K \\rho$ 指数.采用数据的时间分辨率为 $^ \\textrm { \\scriptsize 1 h }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 数据分析方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文主要采用事例分析法和时间序列叠加法详细分析1996—2008年的三类重要事件：日冕物质抛射、共转相互作用区以及孤立地磁暴.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于事例分析法，对第23太阳活动周期所有CME事件、CIR事件和孤立地磁暴事件进行判别，确定各个事件的起始与结束时间，建立CME、CIR以及磁暴事件的完整列表，绘制每个事件重要太阳风与地磁参数的时间变化图，并分析具体事例参数间的潜在联系.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "时间序列叠加方法则对某一类事件按照相同标准选择时间零点，晚于时间零点记为正，早于时间零点记为负.例如，将发生于2002年5月23日10时16分选为时间零点，则2002年5月24日10时16分记为 $+ 1$ 天，2002年5月22日10时16分记为一1天，以此类推.然后将待分析的参量数据依据相同的时间序列描述，在感兴趣的代表性时间序列长度内对各个参数的变化特征及平均特性进行详细的量化分析，以求获取一般性的时变规律.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文在分析CME及CIR事件时选取事件的起始时间为时间零点，CME及CIR事件的起始时间依据行星际激波的到达时间或行星际磁场南向开始时间进行选取，结束时间依据太阳风参数及地磁指数恢复平静的时间进行选取（Chenetal.，2012）.其优势在于可以获取CME及CIR事件随时间变化的一般性规律，为研究和辨识CME及CIR事件提供依据.在分析地磁暴时选取Dst指数达到最小值的时刻为时间零点，其优势在于便于对地磁暴进行分类，获取不同类型地磁暴的发生规律，也便于研究地磁暴期间Dst指数与其他地磁指数的关系.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 分析结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1CME与CIR事件举例及其磁暴 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图1中左图给出一个CME事件及其对应的磁暴现象.CME事件如图中两条竖虚线所示，其起始时间为1998年第267天（9月24日)2321UT，结束时间为1998年第269天（9月26日）1142UT，持续时间约为1.5天.而磁暴发生的时间更长，其结束时间一般选择为 $D \\mathrm { s t }$ 指数基本恢复到暴前水平的时刻.在这期间，太阳风参数与地磁指数有以下的变化：（1）初始有一个较大的南向IMF $B _ { z }$ 分量，约为$- 1 7 . 7 ~ \\mathrm { n T }$ ，发生在第268天 ${ 0 2 0 0 } \\mathrm { U T }$ .对应着IMF$B _ { y }$ 的增大、持续为正及IMF $B _ { z }$ 的南向偏转，在5小时内，太阳风速度从 $4 3 3 \\ \\mathrm { k m \\cdot s ^ { - 1 } }$ 增加到 $8 0 9 ~ \\mathrm { k m } \\cdot \\mathrm { s } ^ { - 1 }$ ，太阳风质子密度从 $7 . 6 ~ \\mathrm { c m } ^ { - 3 }$ 上升到 $1 2 . \\ 0 \\ \\mathrm { c m } ^ { - 3 }$ ，太阳风动压从 $2 . 6 7 \\ \\mathrm { n P a }$ 上升到 $8 . \\ 0 6 \\ \\mathrm { n P a }$ ，随后，IMF$B _ { z }$ 北向偏转，幅度最高达到 $7 . 5 ~ \\mathrm { n T }$ .IMF $B _ { z }$ 最终在 $0 ~ \\mathrm { n T }$ 附近小幅度变化.太阳风速度降低缓慢，太阳风质子密度与动压降低速度相对更快，说明这是一个密度增强主导的动压脉冲事件；（2）对应着南向IMF $B _ { z }$ ，地磁暴初相有一个最大幅度为一 $4 ~ \\mathrm { n T }$ 的磁暴急始.地磁 $D \\mathrm { s t }$ 指数最小值为一 $2 0 7 \\mathrm { ~ n T }$ ，这是一个剧烈磁暴，发生在第268天 ${ 0 9 0 0 } \\mathrm { U T }$ ，对应着较小南向IMF $B _ { z }$ ;AE指数最大值可达 $1 6 1 6 ~ \\mathrm { n T }$ ，发生在第268天 $1 2 0 0 \\mathrm { U T }$ $K \\rho$ 指数最大可达8.3，发生在第268天 $0 6 0 0 \\mathrm { U T }$ .磁暴恢复相持续大约1天半的时间；AE峰值后出现较多极值幅度为几百 $\\mathrm { n T }$ 的振荡，表明亚暴的持续发生； $K \\rho$ 则在1天的时间内降低到3.磁暴急始的出现和 $K \\rho$ 指数迅速恢复平静都是CME激发磁暴的典型特征（BorovskyandDenton，2006;Chen et al.，2012).",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d1afa5395b40f7d0ac5b4c425b87b788ada34c22a38e38a78c8ad9528f1536a4.jpg",
+        "img_caption": [
+            "图1CME与CIR事件举例及与其对应的磁暴",
+            "Fig.1Examples of CME and CIR events and associated geomagnetic storms "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图1右图给出一个CIR事件及其对应的磁暴现象.如图中两条竖虚线所示，其起始时间为1996年第80天（即3月20日） ${ 0 0 0 0 } \\mathrm { U T }$ ，结束时间为1996年第84天（即3月24日） $0 0 0 0 \\mathrm { U T }$ ,持续时间约达4天.在这期间，太阳风参数与地磁指数表现出以下的变化：（1）南向IMF $B _ { z }$ 值更小,仅为一 $5 . 8 ~ \\mathrm { n T }$ 发生在第80天 ${ 0 7 0 0 } \\mathrm { U T }$ ，但是 $B _ { y }$ 与 $B _ { z }$ 分量均表现出更频繁的振荡.太阳风速度从 $3 9 7 ~ \\mathrm { k m } \\cdot \\mathrm { s } ^ { - 1 }$ 增加到 $6 5 3 ~ \\mathrm { k m } \\cdot \\mathrm { s } ^ { - 1 }$ ,于第81天 $2 3 0 0 \\mathrm { U T }$ 达到最大值，随后缓慢降低.太阳风质子密度与动压变化也非常缓慢，最大质子密度为 $1 5 . 5 ~ \\mathrm { c m } ^ { - 3 }$ ，而太阳风动压不超过 $6 ~ \\mathrm { { n P a } }$ ；(2) $D \\mathrm { s t }$ 指数最小值仅为一 $6 6 ~ \\mathrm { n T }$ ，发生在第81天 $2 2 0 0 \\mathrm { U T }$ ,属于一个中等磁暴，而且没有磁暴急始现象.AE指数最大值为 $8 4 4 ~ \\mathrm { n T }$ ，同样发生在第80天1900UT；AE指数振荡比较明显，说明亚暴事件比较频繁. $K \\phi$ 指数峰值仅为5.7，并在 $K \\rho = 3$ 附近保持很长时间，对应着持续一天多的磁暴恢复相.引发地磁暴强度较弱和 $K _ { \\ P }$ 指数恢复平静时间较长都是CIR事件激发磁暴的典型特征（BorovskyandDenton，2006;Chen et al.，2012).",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2CME与CIR事件完整列表",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于3.1节展示的对CME与CIR事件的判断，同时依据Borovsky等总结出的CME与CIR事件特征的主要差别（BorovskyandDenton，2O06），本文分析了1996—2008年太阳风参数以及地磁指数的OMNIWeb数据库，共判定269个CME事件和456个CIR事件及其起始与结束时间.下面对这些CME与CIR事件进行分析.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3CME与CIR事件的太阳风参数统计分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 时间序列叠加法分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文采用时间序列叠加方法对269个CME事件和456个CIR事件（少数CME事件及CIR事件因跨越年份或数据缺失严重等原因未纳入分析)对应的IMF $B _ { z }$ 、太阳风速度 $( V _ { \\mathrm { s w } }$ )、太阳风质子密度（204 $( N _ { \\mathrm { s w } }$ ）、太阳风动压 $( \\boldsymbol { P } _ { \\mathrm { d y n } } ) \\boldsymbol { \\cdot } \\boldsymbol { D } \\mathrm { s t }$ 指数、AE指数及 $K \\rho$ 指数7个参量进行分析.选取CME或CIR事件的起始时间为时间零点，对于CME事件，时间范围选取为起始时间前一天及后两天，共三天数据；对于CIR 事件，时间范围选取为起始时间前一天及后四天，共五天数据.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图2左右两列图分别是1996—2008年所有CME事件和CIR事件的太阳风参数（IMF $B _ { z }$ 分量、太阳风速度、太阳风质子密度、太阳风动压)采用时间序列叠加分析得到的统计结果.其中黑色“ $+$ ”号表示每个CME或CIR事件的数据点，红线表示采用时间序列叠加分析后得到的算术平均时变曲线.从统计意义上讲，CME事件比CIR事件表现出跨越度更大的IMF $B _ { z }$ 、太阳风速度与太阳风动压数值区间，而CIR事件对应的太阳风质子密度数值区间更大.比如，有的CME事件对应着 ${ > } 1 0 0 0 \\ \\mathrm { k m } \\bullet \\mathrm { s } ^ { - 1 }$ 太阳风速度，而CIR事件的太阳风速度普遍 $< 1 0 0 0 \\ \\mathrm { k m } \\bullet \\mathrm { s } ^ { - 1 }$ ：另外，太阳风动压峰值大于 $3 0 \\mathrm { \\ n P a }$ 的CME事件甚多于相应的CIR事件.CME事件的太阳风质子密度均不超过 $6 0 ~ \\mathrm { { c m } ^ { - 3 } }$ ，而CIR事件的质子密度峰值可达 $1 0 0 ~ \\mathrm { { c m } ^ { - 3 } }$ .时间序列叠加后的平均结果显示，CME与CIR事件对应的IMF $B _ { z }$ 分量相差不大.虽然CME与CIR事件对应的平均太阳风速度在时间零点都表现出显著的增大，但前者的变化更迅速，且在零点后几个小时内随时间明显降低，后者的变化相对平缓，且在零点后 $1 \\sim 2$ 天时间内缓慢增大.另外，CME事件对应的平均动压变化比CIR事件明显，但CIR事件对应的平均质子密度比CME事件略强.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图3左右两列图则给出1996—2008年所有CME事件和CIR 事件的 $D \\mathrm { s t }$ 指数、AE指数和 $\\kappa _ {  { P } }$ 指数采用时间序列叠加分析得到的结果.很明显，CME事件导致的强磁暴更多，在时间零点前的地磁扰动更明显，磁暴急始发生的概率更高.相对而言，CIR 事件也能触发少数的 $D \\mathrm { s t } _ { \\mathrm { m i n } }$ 可达一 $3 5 0 ~ \\mathrm { n T }$ 以下的巨大磁暴，AE指数最高也能达到 $1 5 0 0 ~ \\mathrm { n T }$ 以上，$K _ { \\ P }$ 指数最高也能达到9左右，但AE与 $K _ { \\ P }$ 指数在时间零点以后的变化没有CME事件明显.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表1给出了IMF $B _ { z }$ 、太阳风速度、太阳风质子密度、太阳风动压、 $D \\mathrm { s t }$ 指数、AE指数及 $\\kappa _ {  { P } }$ 指数的平均最大(或小)值及该值相较于时间零点的时间间隔.其中负值表示早于时间零点达到最值，正值表示晚于时间零点达到最值.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表11996一2008年所有CME及CIR事件对应的各参数平均最值及相较于时间零点的时间间隔",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/097c12f85b7a07c63dfbf54f657383b8edd54401f0e245f0ca0d35f368793225.jpg",
+        "table_caption": [
+            "Table1Min or max of average values of various parameters corresponding to all CME and CIR events of 1996—2008 and associated time distances to zero epoch time "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"2\">CME事件</td><td colspan=\"2\">CIR事件</td></tr><tr><td>最值</td><td>时间 间隔/h</td><td>最值</td><td>时间 间隔/h</td></tr><tr><td>min Bz/nT</td><td>-0.870</td><td>-2</td><td>-0.827</td><td>7</td></tr><tr><td>maxVsw/(km·s-1)</td><td>524.6</td><td>4</td><td>541.3</td><td>39</td></tr><tr><td>max Nsw/cm-3</td><td>11.88</td><td>2</td><td>13. 79</td><td>4</td></tr><tr><td>max Pdyn /nPa</td><td>6.714</td><td>3</td><td>4.750</td><td>8</td></tr><tr><td>min Dst/nT</td><td>-46.84</td><td>15</td><td>-26.72</td><td>28</td></tr><tr><td>max AE/nT</td><td>445.5</td><td>3</td><td>338.5</td><td>10</td></tr><tr><td>max K p</td><td>4.0</td><td>2</td><td>3.3</td><td>11</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于CME事件，起始时间后各参数均很快达到最值；而CIR事件，各参数达到最值的时间往往较长.结合表1，可以获知，从平均意义上讲，CME事件有更大的南向IMF $B _ { z }$ 分量、太阳风动压 $P _ { \\mathrm { d y n } }$ 、AE指数、 $K \\rho$ 指数与更小的 $D \\mathrm { s t } _ { \\mathrm { m i n } }$ ，说明CME事件往往比CIR事件更加剧烈，激发的磁暴与亚暴也更强（Dentonetal.，2006)；而CIR事件的太阳风速度和太阳风质子密度值更大，则是因为CIR事件常与太阳风质子高速流有关.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.2 $N _ { \\mathrm { { s w } } } / P _ { \\mathrm { { d y n } } }$ 斜率的线性拟合",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于图2给出的时间序列叠加分析结果，本文对1996—2008年所有CME及CIR事件的 $N _ { \\mathrm { s w } }$ 与$P _ { \\mathrm { d y n } }$ 参数进行了相关分析：用 $N _ { \\mathrm { s w } }$ 除以 $P _ { \\mathrm { d y n } }$ ,并对该曲线随时间的变化趋势进行线性拟合获取直线斜率，拟合区域为时间零点后整个CME或CIR事件的持续时间.图4给出第23太阳活动周期所有CME和CIR事件 $N _ { \\mathrm { { s w } } } / P _ { \\mathrm { { d y n } } }$ 线性拟合斜率的分布，其中红色“ $+$ ”号代表CME事件，蓝色“＊”代表CIR 事件.",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/79abfe1eb62ae276f3da88efac9c501ecda5e9bf31fcaeb1e3c012d44c9b6fc5.jpg",
+        "img_caption": [
+            "图21996—2008年所有CME及CIR事件对应的四个主要太阳风参数中 $\\mathrm { I M F } \\ B _ { z } , V _ { \\mathrm { s w } } , N _ { \\mathrm { s w } } , P _ { \\mathrm { d y n } } )$ 的时间序列叠加分析结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ffc23cb52a3749522afa91f3fbcd39d261c125da041e1e5cb42f12dbddb2dc2.jpg",
+        "img_caption": [
+            "Fig.2Superposed epoch analysis results of four important solar wind parameters（IMF $B _ { z }$ ， $V _ { \\mathrm { s w } }$ . $N _ { \\mathrm { { s w } } }$ $P _ { \\mathrm { d y n } }$ ） corresponding to all CME and CIR events of 1996—2008 ",
+            "图31996—2008年所有CME及CIR事件对应的三个主要地磁活动指数 $( D _ { \\mathrm { { S t } } } , \\mathrm { { A E } } , K _ { \\phi } )$ 的时间序列叠加分析结果Fig.3Superposed epoch analysis results of three major geomagnetic indices ( $D \\mathrm { s t }$ ，AE, $K \\rho$ ）corresponding to all CME and CIR events of 1996—2008"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "分析发现，CME事件和CIR事件发生期间的$N _ { \\mathrm { s w } } / P _ { \\mathrm { d y n } }$ 曲线线性拟合斜率正负相反， $89 . 6 \\%$ 的CME事件对应的线性斜率 $k$ 值为正， $9 9 . 8 \\%$ 的CIR事件对应 $k < 0$ .由于 $N _ { \\mathrm { s w } } / P _ { \\mathrm { d y n } } = 5 \\times 1 0 ^ { 5 } / V _ { \\mathrm { s w } } ^ { 2 }$ (http://omniweb.gsfc.nasa. $\\mathrm  g o v / h t m l / o w \\mathrm  \\_$ data.$\\mathbf { h t m l } \\ 3 ;$ ，其中 $P _ { \\mathrm { d y n } } \\setminus N _ { \\mathrm { s w } } \\setminus V _ { \\mathrm { s w } }$ 单位分别为 $\\mathrm { n P a , c m ^ { - 3 } }$ 、$\\mathrm { k m } \\cdot \\mathrm { s } ^ { - 1 }$ ,CME与CIR 事件期间 $N _ { \\mathrm { s w } } / P _ { \\mathrm { d y n } }$ 曲线线性拟合斜率的显著差异体现了CME、CIR发生期间太阳风速度不同的变化特征.CME期间，太阳风速度先在较短时间内大幅上升，然后缓慢下降，下降持续时间比上升时间长，对应到 $N _ { \\mathrm { s w } } / P _ { \\mathrm { d y n } }$ 曲线表现为：曲线先急剧下降再缓慢上升，因此总体的 $N _ { \\mathrm { s w } } / P _ { \\mathrm { d y n } }$ 拟合曲线斜率为正.CIR期间，由于高速质子流的影响，太阳风速度持续增强并维持较长时间，使得$N _ { \\mathrm { s w } } / P _ { \\mathrm { d y n } }$ 曲线拟合斜率为负.图4结果表明，太阳风速度的整体变化趋势是辨别CME和CIR事件的有效、合理参量.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4地磁暴的地磁指数统计分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "确定地磁暴的发生必须满足两个基本条件：（1)具有较大的地磁扰动强度，即Dst指数最小值小于$- 3 0 \\ \\mathrm { n T }$ ;（2）有明显的起始相、主相和恢复相.其中，孤立地磁暴具有重要的研究价值.本文着重于研究孤立地磁暴事件，其判断标准是：（1）Dst指数下降和上升过程中扰动较小，Dst时变曲线比较平滑或可用平滑曲线拟合；（2）起始时间和结束时间对应的Dst值接近于磁静状态.通过对1996—2008年的 $D \\mathrm { s t }$ 指数曲线图逐一进行目测分析，最终确定355个孤立地磁暴事件，平均每年约27个.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "地磁暴强度分类标准有很多种，本文采用Loewe等给出的利用 $D \\mathrm { s t } _ { \\mathrm { m i n } }$ 的分类标准(LoeweandProlss，1997)，如表2所示，同时也给出按此标准分类得到的1996—2008年各类强度的孤立磁暴总数.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "选取 $D \\mathrm { s t }$ 指数最小值(对应于磁暴主相峰点)为时间零点，向前取两天，向后取五天，共七天数据，对不同强度地磁暴事件对应的主要太阳风参量与地磁水平指数进行时间序列叠加分析，其平均结果如图5所示.可以看出，地磁暴主相期间 $D \\mathrm { s t }$ 指数衰减很快.随着地磁暴强度的增强， $D$ st衰减的速度变快，并且恢复相的持续时间变长.但总体而言，对于不同强度的地磁暴， $D \\mathrm { s t }$ 指数的变化呈现出一定的相似性.对于其他六个参数，也有类似结果.另外，需要说明的是：由于巨大磁暴样本非常少，叠加平均后仍有较大波动.",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/4cdb9a90efa7a7e69cd0c10618520a65c0b33e88000fd49dcd963bf8a802493e.jpg",
+        "img_caption": [
+            "图41996—2008年所有CME及CIR事件 $ { N _ { \\mathrm { s w } } } /  { P _ { \\mathrm { d y n } } }$ 线性拟合斜率(k)分布图\\`ig.4Scatter plot of the linear fitting slope of $N _ { \\mathrm { s w } } / P _ { \\mathrm { d y n } }$ corresponding to all CME and CIR events of 1996—200"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/8986e864d48674b249fc6c43d03f8f80d39252e846d00ce31bc6c72ae3541540.jpg",
+        "table_caption": [
+            "表2地磁暴强度分类及1996一2008年各类孤立磁暴总数",
+            "Table 2Classification of geomagnetic storm intensity and the total number of different classes of geomagnetic storms of 1996-2008 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>磁暴级别</td><td>弱(weak)</td><td>中等(moderate)</td><td>强（strong)</td><td>剧烈(severe)</td><td>巨大(great)</td></tr><tr><td>Dstmin范围（nT)</td><td>-50~-30</td><td>-100~-50</td><td>-200~-100</td><td>-350~-200</td><td>≤-350</td></tr><tr><td>总数</td><td>145</td><td>123</td><td>70</td><td>12</td><td>5</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f517f24a3c485c5080d3b0f1c1f93d9e5ad8e5655be8351bcd1a1f62441f119.jpg",
+        "img_caption": [
+            "图51996—2008年所有孤立地磁暴事件的时间序列叠加分析结果",
+            "Fig.5Superposed epoch analysis results of all isolated geomagnetic storms of 1996—2008 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4总结与讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CME事件和CIR事件是造成日地空间行星际扰动和地磁扰动的两个主要原因，提供了地球磁暴的主要驱动力，进而显著影响了地球空间环境.在深入研究1996—2008年(第23太阳活动周期)太阳风活动及受其影响的地磁活动的时间分布特征后，本文得到以下主要结论：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）第23太阳活动周期共发生269个CME事件与456个CIR 事件.从统计意义上讲，CME事件比CIR事件表现出跨越范围更大的IMF $B _ { z }$ 、太阳风速度与太阳风动压数值区间，而CIR事件对应的太阳风质子密度数值区间更大.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（2）从平均意义上讲，CME事件有更大的南向IMF $B _ { z }$ 分量、太阳风动压 $P _ { \\mathrm { d y n } }$ 、AE指数、 $K _ { \\ P }$ 指数与更小的 $D \\mathrm { s t } _ { \\mathrm { m i n } }$ .CME 事件往往比CIR事件更加剧烈，激发的磁暴也更强.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3） $89 . 6 \\%$ 的CME事件对应的 $N _ { \\mathrm { s w } } / P _ { \\mathrm { d y n } }$ 曲线线性拟合斜率 $k$ 值为正， $9 9 . 8 \\%$ 的CIR事件对应的$N _ { \\mathrm { { s w } } } / P _ { \\mathrm { { d y n } } }$ 曲线线性拟合斜率 $k$ 值为负，体现了CME、CIR发生期间太阳风速度不同的变化特征，因此太阳风速度的整体变化趋势是辨别CME与CIR 事件的有效、合理参量.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（4）1996—2008年共有355个孤立地磁暴.随着地磁暴强度的增强， $D \\mathrm { s t }$ 衰减的速度变快，并且恢复相的持续时间变长.但总体而言，对于不同强度的地磁暴， $D \\mathrm { s t }$ 指数的变化呈现出一定的相似性.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文的研究专注于第23太阳活动周期，对第",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "24太阳活动周期的研究将在后续的工作中展开.本文工作集中统计分析了期间的CME事件、CIR事件及孤立地磁暴事件特征，对于太阳风参数及地磁指数表现出来的统计性特征或差异性并未深入探讨.下一步的工作也将包括通过AE-Dst双指数间的比较考察磁层亚暴与磁暴之间的关联性，定量分析驱动不同强度磁暴的太阳风条件及参数特征，以及将CME事件和CIR事件引起的磁暴分立开分别进行更细致、更本质的分析.另外，把太阳风以及地磁活动的详细分析与地球磁层的粒子动力学过程以及波场时空分布数据系统地结合起来，将大大有助于更深入地认识地球磁层包括等离子体片、环电流、辐射带对太阳活动的时变响应特性，从而更有效、合理地建立太阳风-磁层-电离层的全球耦合模型.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "致谢感谢UCLA 大学的 Tung-Shin Tsu 博士以及NASA的LanJian博士给予的帮助与讨论.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "BorovskyJE，Denton M H. 20o6． Differences between CMEdriven storms and CIR-driven storms.Journal of Geophysical Research：SpacePhysics，111(A7)，doi：10.1029/2005JA011447.   \nCane H V，Richardson I G. 2oo3．Interplanetary coronal mass ejections in the near-Earth solar wind during l996—2002. Journal ofGeophysical Research：Space Physics，1o8（A4), doi:10.1029/2002JA009817.   \nChenGM，XuJY，WangWB，etal.2012.Acomparison of the effects of CIR-and CME-induced geomagnetic activityon thermospheric densities and spacecraft orbits：Case studies. Journal of Geophysical Research：Space Physics，117(A8), doi：10.1029/2012JA017782.   \nDenton MH，BorovskyJE，SkougRM，etal.2006.Geomagnetic storms driven by ICME- and CIR-dominated solar wind. JournalofGeophysical Research：SpacePhysics，1ll（A7）, doi：10.1029/2005JA011436.   \nHeber B，Sanderson T R，Zhang M.1999.Corotating interaction regions.Aduancesin SpaceResearch，23(3)：567-579.   \nLoeweCA，ProlssGW.1997.Classification and mean behavior of magnetic storms.Journal of Geophysical Research：Space Physics，102(A7)：14209-14213.   \nReeves G D，McAdams K L，Friedel R H W，et al. 2003. Acceleration and loss of relativistic electrons during geomagnetic storms.Geophysical Research Letters，30(10)：1529-1533.   \nTurner NE,Cramer WD，Earles SK，et al. 2009.Geoefficiency and energy partitioning in CIR-driven and CME-driven storms. JournalofAtmospheric and Solar-Terrestrial Physics，71(10- 11)：1023-1031.   \nYuan S Z. 2o11.The study on several problems of geomagnetic activity [Master thesis]. Nanjing： Nanjing University of Information Science and Technology   \nZhang Y，Sun W，Feng X S，et al. 2Oo8.Statistical analysis of corotating interaction regions and their geoeffectiveness during solarcycle 23.JournalofGeophysicalResearch：SpacePhysics，113 (A8)，doi：10.1029/2008JA013095. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "附中文参考文献",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "苑顺周．2011.地磁活动相关问题研究[硕士论文]．南京：南京信息工程大学.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(本文编辑胡素芳)",
+        "page_idx": 8
+    }
+]

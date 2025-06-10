@@ -1,0 +1,531 @@
+[
+    {
+        "type": "text",
+        "text": "基于加权Topsis法综合评价典型围垦区土壤质量演变",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孙蓓婷;高超;张燕(南京大学地理与海洋科学学院南京210046)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：滩涂是我国重要的后备耕地资源，为探究围垦开发对沿海滩涂土壤环境的影响，对浙江省慈溪市不同围垦年限多种土地利用方式下的276个土壤/沉积物样品试验检测，结合Nom值优化主成分分析，筛选出有机质(OM)、氧化钙(CaO)、硫(S)、溴(Br)、硼(B)、铅(Pb)、镉(Cd)7项指标的最小数据集，采用极差标准化和变异系数定权的Topsis 法评价土壤质量，为揭示阻碍研究区土壤质量提升的障碍因子提供参考。结果显示:276个土壤/沉积物样本土壤质量综合指数为44.6\\~74.1，受围垦时间影响差异显著，呈前20a逐步提高—20\\~30a相对平稳—30\\~50a急剧提高的趋势。从利用方式来看，土壤质量呈菜地>果园>农田>林地>养殖>潮滩>荒地的趋势。农业活动导致的增肥脱钙脱盐是围垦区土质提升的根本原因，但研究区土壤质量整体仍处于中度贫瘠水平，一级土壤仅占研究区总面积的 $7 . 1 \\%$ ，质量较差的四、五级土壤面积超一半。较低的OM和较高的CaO、Cd是限制垦区土质提升的主要障碍因子，因此，土壤培肥时，合理施用化肥农药是进一步提升滩涂围垦区土壤质量的关键。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：滩涂围垦区；土壤质量；土地利用方式；围垦时间；最小数据集;Topsis；障碍因子中图分类号：K903;S15",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Soil quality evaluation in typical coastal reclamation zones based on weighted Topsis method\\* ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SUN Beiting, GAO Chao, ZHANG Yan\\*\\* (College of Geographic and Oceanographic Sciences,Nanjing University,Nanjing 21O046, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:TidalflatisanmportantreserveofcultivatedlandesourceinChina.Thereisighspatialheterogeneitypropertisand environmentchangesofsoil inthetransformationfromwetlandtoagriculturalsoil.Inordertoevaluatetheefectofsoilquality underdiffrentreclamationdurationsandmultiplelanduseinatypicalcoastalareainCixi County,ZhejiangProvince,276 soil/sedimentsmplesfrofrland,egetableland,hard,forestandqfa,astelandndidalfatclad years werecollctedandanalyzed.Consideringthespatialheterogeeityprincipalcomponentanalysiswasusedincombination with Norm Value,then MinimumData Set (MDS)withsevenindexes wasputforward.This includedorganic mater(OM),calciumoxide (CaO),sulfur (S),bromine (Br),boron (B),plumbum $( \\mathrm { P b } )$ and cadmium (Cd) under six reclamation duration and seven utility patterns.About $2 9 . 2 \\%$ of the index accounted for $8 0 . 3 \\%$ of the information.The Topsis method,which combined Maximum Diference Normalization methodand Variable CoeficientFixing Weightmethod,wasused toasessthesoilqualityComparison withthe Traditional Membership Function method,theused methodamuch more efectiveone.Besides,thedistancetooptimal vectordirectlyexplainedtheobstructionfactor,which showedthe primaryobstacle wasaplicableinsupervising soil environment and improvingsoil qualitybythelocal government.Theresultssuggested thattherangeofsoil qualitycomprehensiveindexes for the276 soilsedimentsamples was 4.6-74.1.Thetrendintheindexesincreasedsharplyinfirst2Oyearsandthenstabilized inthe other2O-3Oyears,beforeitagainincreasedfor3O5Oyarsofrclamation.Ingeneral,theoverallsolqualityinthestudyareawas moderate to infertile.The class I soil quality was only $7 . 1 \\%$ of the samples.More than half of the soil samples belonged to classes IV or V. Based on land use types, soil quality was ranked in the following order: vegetable field $>$ orchard $>$ farmland $>$ forest $>$ （20 aquafarm $>$ tidal flat $>$ wasteland.Paddy field was better than dry land for the same reclamation period,which indicated that basic paddyfarmlandwasmuch moreenvironmentalfriendlyin Cixireclamationdistrict.Irigation-induceddecalcificationand desalination effectively improved the quality of reclaimed soil. Meanwhile,low OM and high $\\mathrm { C a O }$ and Cd primarily limited soil quality.extweresaltcontentasBr,SandB,followedbyheavymetalasPb.oilcontentofCdincreasedquicklytocriticalpontof pollution,which waseasilyenrichedinpaddyandcauseddiseases.Reasonableuseofchemicalfertilizerswasakeyto further promotion of soil quality in reclaimed tidal areas. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keyword: Reclamation district; Soil quality;Land use; Reclamation period; Minimum data set; Topsis; Obstruction factor ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "滩涂围垦区是受海陆交互影响的半人工半自然生态系统，是我国重要的后备土地资源，具有很强的开发利用潜力。围垦在缓解人口压力、保持耕地动态平衡等方面起着重要作用[l-2]。近 $5 0 \\mathrm { a }$ ，我国滩涂围垦总面积达 $1 . 1 { \\times } 1 0 ^ { 4 } { \\sim } 1 . 2 { \\times } 1 0 ^ { 4 } \\mathrm { k m } ^ { 2 }$ ，成为滨海围垦力度最大的国家[3]。土壤质量是\"土壤实现各种功能的能力\"[4-6],农学上侧重维持自然植物生长的能力7，评价土壤质量是研究农业可持续发展的重点之一。滨海滩涂土壤具有高盐低养、地下水矿化程度高等特点，不适宜种植农作物，需要在围垦前期实施脱盐补肥措施人为提高土壤质量[8]。这种人为干扰极大地改变着垦区环境。垦区土壤质量偏低制约了土地的开发利用[9]，滩涂围垦之后的土壤质量演变倍受关注[3,10]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "受土壤空间变异性影响，评价土壤质量时，参评因子的取舍至关重要。Andrews 等[1和 Yemefack 等[12]首次提出以主成分分析中最高因子荷载值选取最小数据集(MDS)作为评价最小单元，广受学者认可。李桂林等[13-14]在 MDS 基础上引入矢量常模(Norm 值)，既能最大程度代表所选参数又尽可能减少信息损失，但指标仅包括土壤物理性质和养分，涵盖信息较单一。贡璐等[15]、邓绍欢等[16]引入生物指标丰富了最小数据集，但未全面涉及土壤基本理化性质。岳西杰等7依托GIS 叠加多种地形部位、植被覆盖和施肥等构建了土壤质量评价MDS，却忽视了时间因素的影响。已有研究建立的最小数据集多集中于土壤元素和地形地貌因素，而参评因子随围垦时间和土地利用的变化与轨迹等方面的研究甚少。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "评价土壤质量多基于隶属函数[3.10]，但隶属函数中指标同一化转折点的取值均由专家打分确定，存在明显的主观性；且在计算土壤质量综合指数时，多采用层次分析法或主成分法来确定权重，其中两两判断矩阵的建立由专家确定，主成分定权通常只取荷载较高的若干因素，因此，定权也具有一定主观性。已有研究对于内部参数的选择仅通过公式换算稍加完善，鲜有学者引入新的模型进行评价。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文选用综合荷载 Norm 值并引入浙江省慈溪市海涂围垦区土地利用和年限变化计算综合得分，筛选出评价最小单元MDS，结合滩涂围垦区受自然演替和人为活动影响强烈的特点，丰富指标体系，以达到既最大程度代表所选参数又尽可能减少信息损失的目的，并采用变异系数加权Topsis 方法，从时空二维角度客观评价围垦区土壤质量，揭示阻碍研究区土壤质量提升的障碍因子。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "浙江省慈溪市共修筑11 条围垦海堤[18-19]。本文研究垦区位于慈溪市东南部 $( 3 2 ^ { \\circ } 0 7 ^ { \\prime } { \\sim } 3 2 ^ { \\circ } 1 9 \\mathrm { { T } } )$ $1 2 1 ^ { \\circ } 2 2 ^ { \\prime } { \\sim } 1 2 1 ^ { \\circ } 3 4 ^ { \\prime } \\mathrm { E } )$ ，面积约 $1 1 4 \\mathrm { k m } ^ { 2 }$ ，包含5条主要围垦海堤。该区属北亚热带南缘季风季候，温和湿润，光热充足，年均气温 $1 6 . 3 ~ \\mathrm { { ^ \\circ C } }$ ，年均日照 $1 9 3 3 . 5 \\mathrm { h }$ ，年均降水量 $1 3 2 5 \\mathrm { m m }$ 。主要土壤类型为滨海盐土、灰潮土和水稻土，母质为滨海相沉积物。研究区地理位置及土地利用情况见图1。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/69a3f79a39ecf7ace75ec8aac760b65d27cb3d4a3fc38c9d1c406643c3e420ec.jpg",
+        "img_caption": [
+            "图1研究区地理位置及土地利用情况",
+            "Fig.1Geographical location and land use types of the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据获取",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "野外采样于2013年7月完成，按研究区面积通过网格法均匀布点，共采集276个土壤/沉积物样品。采样时使用手持GPS定位，在目标点 $1 0 \\mathrm { ~ m ~ }$ 范围内，五点法采集 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 的表层土壤/沉积物，混合后形成一个土壤样品。土壤样品经自然风干后过10 目筛储存备用。根据遥感影像上不同时期的海堤海岸线确定围垦分区，按围垦年限自海洋向陆地方向分别标记为I区、ⅡI区、III区、IV区、V区、VI区；按照土地利用方式，样品取自农田111个、菜地47个、果园48个、林地17个、养殖27个、荒地21个、潮滩5个（图1,表1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/8748dcba98824193a8abba263e8f471c207b2409b5a412ab268a085f21073d7a.jpg",
+        "table_caption": [
+            "Table1Land use and distribution of soil samples in the study area "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>年限编号 District</td><td>样点数 Numbers of</td><td>海堤修筑年份 Year for building</td><td>围垦年限 Years of reclamation</td></tr><tr><td>number</td><td>samples</td><td>dams</td><td>(a)</td></tr><tr><td>I</td><td>21</td><td>未围垦 Tidal flat</td><td>0</td></tr><tr><td>II</td><td>49</td><td>2002—2012</td><td>10</td></tr><tr><td>IⅢI</td><td>25</td><td>1990—2002</td><td>20</td></tr><tr><td>IV</td><td>13</td><td>1980—1990</td><td>30</td></tr><tr><td>V</td><td>35</td><td>1970—1980</td><td>40</td></tr><tr><td>VI</td><td>133</td><td>-1970</td><td>50</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤样品理化测试项目包括粒径比(粉砂粒/黏粒)、pH、有机质(OM)、N、P、 $\\mathbf { K } _ { 2 } \\mathbf { O }$ 、 $\\mathbf { C a O }$ 、 $\\mathrm { N a } _ { 2 } \\mathrm { O }$ 、MgO、${ \\bf A l } _ { 2 } { \\bf O } _ { 3 }$ 、 $\\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ 、 $\\mathrm { S i O } _ { 2 }$ 、Cl、S、Mn、Br、B、Cu、Zn、Pb、Cd、As、Hg 和Cr。采用多目标区域地球化学调查规定的分析方法及质量监控方案[20]，由江苏省地质调查研究院测试应用研究所、安徽省地质实验研究所承担分析测试。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3土壤质量评价体系建立",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据慈溪市滩涂围垦区土壤理化性质(养分、常量与微量元素、土壤质地等)，通过主成分分析(PCA 法)提取因子荷载，计算矢量常模(Norm 值)，通过多变量方差分析(MANOVA)、均值多重比较(S-N-K 比较法)等方法结合围垦年限和土地利用方式建立围垦区土壤质量的最小数据集。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综合荷载 Norm 值可弥补PCA中单一化导致的信息缺失。Norm 值的几何意义为变量在多维空间中矢量常模的长度,Norm 值越大，表明变量对所有主成分的综合荷载越大[1]，涵盖信息就越综合。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN _ { i k } = \\sqrt { \\sum _ { 1 } ^ { k } \\left( u _ { i k } ^ { 2 } \\times \\lambda _ { k } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中: $N _ { i k }$ 为第 $i$ 个变量的Norm值，指在特征值 $\\lambda { > } 1$ 的前 $k$ 个主成分上的综合荷载; $u _ { i k }$ 为第 $i$ 个变量在第 $k$ 个主成分上的荷载； $\\lambda _ { k }$ 为第 $k$ 个主成分的特征值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用多变量方差分析(MANOVA)衡量土地利用变化对各土壤参数的影响，调整后的决定系数 $R ^ { 2 }$ 表征利用方式对各参数的影响大小。均值多重比较(S-N-K比较法)估算围垦年限对各土壤参数的影响，用最早产生显著影响的年限 $T$ 作为时间对研究区土壤理化性质产生影响的界限[14]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为使最终因子得分具有可比性，对Norm 值 $. R ^ { 2 } . T$ 进行简单线性变换，其中Norm值和 $R ^ { 2 }$ 为正指标，其值越大表明对土壤参数的影响越大，因此，最大值赋为1，其他变量除以相应的最大值; $T$ 为逆指标，进行相反转化。求和得到每个土壤参数的总分值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "特征值 $\\lambda { > } 1$ 的各个主成分中，若某因子荷载 $> 0 . 5$ 则归为该主成分组，若某参数同时在两个主成分中载荷 ${ \\mathrm { \\cdot } } { \\mathrm { > } } 0 . 5$ ，或在每一个主成分中荷载都 $< 0 . 3$ ，则单独归为新的一组。为进一步减少数据冗余，抽取分组后在最高得分 $10 \\%$ 范围内的参数，观察其与小组间其他参数的相关性 $( r )$ ，若高度相关 $( r { > } 0 . 5 )$ 且在0.01置信水平下显著 $( ^ { * * } )$ ，则只选取得分最高的进入MDS，反之则全部进入MDS。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4土壤质量评价方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Topsis 法是一种逼近理想解的多属性排序法[21]，它根据比较样本与最佳解和最劣解的相对距离来评价样本的优劣。该方法对样本容量无特殊要求，且不受参考序列选择的干扰，已广泛应用于水质综合评价和农业综合开发项目评价[21-25]，但在土壤质量评价中应用甚少。Topsis 法主要步骤为:",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 指标极差标准化",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { a _ { i j } = \\displaystyle \\frac { x _ { i j } - \\operatorname* { m i n } \\{ x _ { i j } \\} } { \\operatorname* { m a x } \\{ x _ { i j } \\} - \\operatorname* { m i n } \\{ x _ { i j } \\} } } } \\\\ { { a _ { i j } = \\displaystyle \\frac { \\operatorname* { m a x } \\{ x _ { i j } \\} - x _ { i j } } { \\operatorname* { m a x } \\{ x _ { i j } \\} - \\operatorname* { m i n } \\{ x _ { i j } \\} } } } \\\\ { { a _ { i j } = \\displaystyle \\frac { \\operatorname* { m a x } \\{ x _ { i j } \\} - \\left| x _ { i j } - x _ { 0 j } \\right| } { \\operatorname* { m a x } \\{ x _ { i j } \\} } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "逆指标: ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "适中指标: ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\operatorname* { m a x } \\{ x _ { i j } \\}$ 、 $\\operatorname* { m i n } \\{ x _ { i j } \\}$ 、 $x _ { 0 j }$ 分别为 $j$ 指标中的最大值、最小值、适中值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 确定最优与最劣样本",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据标准化矩阵A所有样本实际数据，由各指标的最优值与最劣值，确定最优样本 $A ^ { + }$ 与最劣样本 $A ^ { - }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA ^ { + } = ( a _ { i 1 } ^ { + } , a _ { i 2 } ^ { + } , . . . , a _ { i n } ^ { + } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA ^ { - } = ( a _ { i 1 } ^ { - } , a _ { i 2 } ^ { - } , . . . , a _ { i n } ^ { - } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\boldsymbol { a } ^ { + }$ 、 $\\boldsymbol { a }$ -分别为正、负理想解。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{3}$ 变异系数定权 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\omega _ { j } = \\frac { \\nu _ { j } } { \\displaystyle \\sum _ { j = 1 } ^ { n } \\nu _ { j } } , \\nu _ { i } = \\frac { s _ { j } } { x _ { j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中: $V _ { j }$ 为第 $j$ 个指标的变异系数, $S _ { j }$ 为第 $j$ 个指标的标准差， $\\overline { { x } } _ { j }$ 为第 $j$ 个指标的平均值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{4}$ 计算各土壤样本与最优及最劣样本的加权欧氏距离 $D ^ { + }$ 与 $D ^ { - }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { i } ^ { + } = \\sqrt { \\sum _ { j = 1 } ^ { n } \\omega _ { j } ( a _ { i j } ^ { + } - a _ { i j } ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { i } ^ { - } = \\sqrt { \\sum _ { j = 1 } ^ { n } \\omega _ { j } ( a _ { i j } ^ { - } - a _ { i j } ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $D ^ { + }$ 与 $D$ 分别表示第 $i$ 个评价对象与最优方案及最劣方案的距离， $\\alpha _ { i j }$ 表示第 $i$ 个评价对象在第 $j$ 个评价指标上经极差标准化后的取值， $\\omega _ { j }$ 表示第 $j$ 个指标的权重。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{5}$ 计算土壤质量综合指数 $C _ { i }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { i } = k \\times \\frac { D _ { i } ^ { - } } { D _ { i } ^ { + } + D _ { i } ^ { - } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中: $C _ { i }$ 表示第 $i$ 个样本土壤质量综合指数，即每个土壤样本与最优土壤样本的接近程度; $k$ 取100。 $C _ { i }$ 取值便在0到100之间, $C _ { i }$ 越接近100，说明该土壤样本越接近最优土壤质量，土壤质量越高，反之，土壤质量越差。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5 障碍因子诊断模型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "评价土壤质量可直观反映围垦对土壤的改良效果，有针对性地消除阻碍土质提高的障碍因子对促进围垦区土壤发育有重要意义。本文用Topsis评价公式(8)中\"与最优方案的距离 $D ^ { + }$ 即可表示第 $i$ 个土壤样本的障碍度，几何意义直观, $D ^ { + }$ 越大则障碍度越高，越需对该样本进行改良。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 围垦区土壤基本属性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究区土壤总体呈弱碱性, $\\mathsf { p H }$ 均值8.3，随围垦时间呈先上升之后陆续下降的趋势，变异系数 $( \\mathrm { C V } ) 3 . 8 \\%$ 表明在人工围垦后土壤 $\\mathrm { \\ p H }$ 变化不大。 $\\mathrm { A l } _ { 2 } \\mathrm { O } _ { 3 }$ 、 $\\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ 、 $\\mathrm { S i O } _ { 2 }$ 的平均含量分别为 $1 2 8 . 9 0 \\ \\mathrm { g { \\cdot } k g ^ { - 1 } }$ 、 $5 0 . 3 9 \\ \\mathrm { g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ 、$6 3 6 . 8 9 \\mathrm { g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ ，符合弱碱性土壤特性。选取粉砂粒与黏粒的比值作为土壤机械组成参数[13]，其变异系数高达$5 5 . 1 1 \\%$ ，差异较大，表明研究区土壤机械组成受人为活动影响显著。参考土壤比重换算方法[26，土壤容重均值为 $1 . 4 7 4 \\ \\mathrm { g } { \\cdot } \\mathrm { c m } ^ { - 3 }$ ，略高于全国大多数农用地区，但仍属于结构较好的土壤，适宜发展农业。有机质平均含量 $1 3 . 4 ~ \\mathrm { g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ ，参照全国第2次土壤普查土壤肥力分级[27]，肥力状况属中低等水平。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Cl 受海水影响极大，具有高度变异性 $( \\mathrm { C V } { > } 2 0 0 \\%$ ，且含量与围垦时间高度相关，沿海堤逐步变化，说明以农业为主的人类活动加速了滩涂沉积物脱盐过程。受海相动力作用主导,S和Br含量高于全国平均水平，由海向陆存在较大的差异。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究区Cu、Zn、Pd、Cd、As、 $\\mathrm { H g }$ 、 $\\mathrm { C r }$ 七大主要重金属含量略高于全国土壤背景值，虽未达到污染水平，但 Cu、Pd、Cd、As、 $\\mathrm { H g }$ 变异系数超 $1 5 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2最小数据集选取",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "构建合理的指标体系是Topsis 法的关键。在主成分分析(PCA)基础上，叠加多元方差分析(MANOVA)、均值多重比较(S-N-K 比较法)和 Spearman 相关分析等，得到最小数据集。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "主成分特征值 $\\lambda { > } 1$ 的4项主成分累积贡献率高达 $8 0 . 2 9 \\%$ ，可解释绝大部分指标的变异性，按每个参数在各主成分的载荷分成5组。运用公式(1)计算各参数的 Norm值，经线性变化后求和得到综合分值(表2)。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8905455102cd74fe93dde3dda374f4bd3c3b3fc086426b0db31bdac78ed05e9e.jpg",
+        "table_caption": [
+            "表2各参数综合得分及土壤质量评价最小数据集确定",
+            "Table 2Scoring of soil parameters and determining of Minimum Data Set for soil quality assessment "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">土壤因子</td><td rowspan=\"2\">分组</td><td colspan=\"2\">初始分值 Initial value</td><td colspan=\"3\">线性变换 Linear transformation</td><td rowspan=\"2\">综合得分</td></tr><tr><td>Norm值</td><td>调整R</td><td></td><td>Norm值</td><td>调整R</td></tr><tr><td>Soil parameter</td><td>Group</td><td>Norm value</td><td>Adjusted R²</td><td>T</td><td>Norm value</td><td>T Adjusted R²</td><td>Scoring</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b009f341c8232aebc0b0c67677209871144169b10650b5d3af0c957c7d25e215.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>粉粒/黏粒 Silt/clay</td><td>1</td><td>2.136</td><td>0.158</td><td>4</td><td>0.685</td><td>0.213</td><td>0.25</td><td>1.147</td></tr><tr><td>KO</td><td>1</td><td>3.092</td><td>0.291</td><td>5</td><td>0.991</td><td>0.391</td><td>0.20</td><td>1.583</td></tr><tr><td>AlO3</td><td>1</td><td>3.120</td><td>0.338</td><td>3</td><td>1.000</td><td>0.455</td><td>0.33</td><td>1.788</td></tr><tr><td>Fe2O3</td><td>1</td><td>3.120</td><td>0.332</td><td>5</td><td>1.000</td><td>0.447</td><td>0.20</td><td>1.647</td></tr><tr><td>Mn</td><td>1</td><td>3.020</td><td>0.292</td><td>5</td><td>0.968</td><td>0.393</td><td>0.20</td><td>1.561</td></tr><tr><td>Cu</td><td>1</td><td>2.800</td><td>0.189</td><td>5</td><td>0.897</td><td>0.254</td><td>0.20</td><td>1.352</td></tr><tr><td>Zn</td><td>1</td><td>2.805</td><td>0.183</td><td>6</td><td>0.899</td><td>0.246</td><td>0.17</td><td>1.312</td></tr><tr><td>Pb</td><td>1</td><td>2.314</td><td>0.057</td><td>1</td><td>0.741</td><td>0.077</td><td>1.00</td><td>1.818</td></tr><tr><td>As</td><td>1</td><td>2.700</td><td>0.283</td><td>5</td><td>0.865</td><td>0.381</td><td>0.20</td><td>1.446</td></tr><tr><td>Cr</td><td>1</td><td>3.022</td><td>0.332</td><td>5</td><td>0.968</td><td>0.447</td><td>0.20</td><td>1.615</td></tr><tr><td>pH</td><td>2</td><td>1.869</td><td>0.516</td><td>4</td><td>0.599</td><td>0.695</td><td>0.25</td><td>1.543</td></tr><tr><td>P</td><td>2</td><td>1.992</td><td>0.458</td><td>4</td><td>0.638</td><td>0.616</td><td>0.25</td><td>1.505</td></tr><tr><td>CaO</td><td>2</td><td>2.040</td><td>0.743</td><td>5</td><td>0.654</td><td>1.000</td><td>0.20</td><td>1.854</td></tr><tr><td>Cd</td><td>2</td><td>2.289</td><td>0.477</td><td>1</td><td>0.734</td><td>0.642</td><td>1.00</td><td>2.376</td></tr><tr><td>Hg</td><td>2</td><td>1.758</td><td>0.223</td><td>6</td><td>0.563</td><td>0.300</td><td>0.17</td><td>1.030</td></tr><tr><td>S</td><td>3</td><td>1.731</td><td>0.457</td><td>3</td><td>0.555</td><td>0.615</td><td>0.33</td><td>1.503</td></tr><tr><td>B</td><td>4</td><td>1.022</td><td>0.1</td><td>2</td><td>0.327</td><td>0.135</td><td>0.50</td><td>0.962</td></tr><tr><td>OM</td><td>5</td><td>2.319</td><td>0.333</td><td>1</td><td>0.743</td><td>0.448</td><td>1.00</td><td>2.191</td></tr><tr><td>N</td><td>5</td><td>2.326</td><td>0.338</td><td>4</td><td>0.745</td><td>0.455</td><td>0.25</td><td>1.450</td></tr><tr><td>Na2O</td><td>5</td><td>2.481</td><td>0.388</td><td>3</td><td>0.795</td><td>0.522</td><td>0.33</td><td>1.651</td></tr><tr><td>MgO</td><td>5</td><td>2.702</td><td>0.585</td><td>5</td><td>0.866</td><td>0.787</td><td>0.20</td><td>1.853</td></tr><tr><td>SiO2</td><td>5</td><td>2.942</td><td>0.466</td><td>4</td><td>0.943</td><td>0.627</td><td>0.25</td><td>1.820</td></tr><tr><td>Cl</td><td>5</td><td>1.967</td><td>0.721</td><td>2</td><td>0.630</td><td>0.970</td><td>0.50</td><td>2.101</td></tr><tr><td>Br</td><td>5</td><td>2.123</td><td>0.543</td><td>5</td><td>0.680</td><td>0.731</td><td>0.20</td><td>1.611</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，第1组中 $\\mathrm { \\sf P b }$ 综合得分最高，且与组内其他参数相关度高，因子得分前 $10 \\%$ 的$\\mathrm { A l _ { 2 } O _ { 3 } } ( r { = } 0 . 8 3 2 ^ { * * } )$ ）、 $\\mathrm { F e _ { 2 } O _ { 3 } } ( r { = } 0 . 8 1 5 ^ { * * } )$ 与 $\\mathrm { \\sf P b }$ 高度相关，结合Norm 值大小需剔除冗余，故第1组中只选取 $\\mathrm { \\sf P b }$ 进入MDS；第2组类似，只选取Cd参评；第3、4组都只含1个参数，则S和B均进入MDS；OM在第5组中综合得分最高，与前 $10 \\%$ 的 ${ \\mathrm { C l } } ( r { = } { - } 0 . 5 1 5 ^ { { \\ast } { \\ast } } ) ~ ,$ 高度相关，但与 $\\mathrm { M g O } ( r { = } { - } 0 . 1 6 2 ^ { * * } )$ 和 $\\mathrm { B r } ( r { = } 0 . 3 4 3 ^ { \\ast \\ast } )$ 的相关度较低，故在选取OM的同时，添加 $\\mathbf { M g O }$ 和Br进入MDS，但 $\\mathbf { M g O }$ 存在较弱的变异性 $( \\mathrm { C V } { < } 1 0 \\% )$ ，盐渍土壤脱碱过程中 $\\mathrm { C a }$ 与 $\\mathbf { M g }$ 之间有很高的相似性[19]，因此用 $\\mathrm { C a O }$ 替代 $\\mathbf { M g O }$ 更符合围垦区土壤实际状况。综上所述，最终进入研究区土壤质量评价最小数据集的有效参数为 $\\mathrm { P b }$ 、Cd、S、B、OM、CaO 和Br等7项指标。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "经围垦年限差异性显著检验，MDS7项参数的组内变异均小于组间变异，说明人为围垦对土壤理化性质的影响远大于内部随机误差。结合MDS中不同围垦年限土壤化学性质特征(图2)，围垦后有机质含量整体呈先下降后上升的变化趋势，滩涂沉积物有机质平均含量为 $1 2 . 0 \\ \\mathrm { g {cdot } k g ^ { - 1 } }$ ，属轻度贫瘠[27]，围垦后，土壤有机质含量降低至围垦10a后的 $8 . 8 ~ \\mathrm { g { \\cdot k g ^ { - 1 } } }$ ，之后逐步增至围垦50a后的 $1 5 . 2 ~ \\mathrm { g { \\cdot k g ^ { - 1 } } }$ 且增速趋缓。CaO 平均含量整体呈先上升后下降又上升再下降的波动变化趋势，由沉积物中的 $4 0 . 8 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ 波动上升至围垦 $3 0 \\mathrm { a }$ 的$4 3 . 4 ~ \\mathrm { g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ 后速降至围垦 $5 0 \\mathrm { a }$ 的 $2 9 . 4 ~ \\mathrm { g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ ，脱钙脱碱高肥现象显著，适宜作物生长。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d2e70ad26dc19bd65d567f2f0f63eb03840092a7b54a992c6f97f0335a65a37d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/97946ce3a189e03de7d73e9089ec67ba9fd5d3235793d1242c4e7ea76ace2aaf.jpg",
+        "img_caption": [
+            "图2最小数据集参数在不同围垦年限下的土壤化学性质特征图",
+            "Fig.2Chemical characteristics of soil under different reclamation years in the Minimum Data Set "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "常微量元素 S和Br 的变化相似，在围垦前后呈先下后升再下的\"S 型\"波动，组间差异明显，均值分别从滩涂时期的 $0 . 4 4 ~ \\mathrm { g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ 和 $1 8 . 5 2 ~ \\mathrm { m g { \\cdot } k g ^ { - 1 } }$ 降至围垦 $5 0 \\mathrm { ~ a ~ }$ 的 $0 . 2 1 ~ \\mathrm { g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ 和 $7 . 2 2 ~ \\mathrm { m g { \\cdot } k g ^ { - 1 } }$ ，减少了近一半。B的变化恰相反，呈\"反S型\"波动，但总体平稳，围垦前后从 $6 6 . 8 1 \\ \\mathrm { m g { \\cdot } k g ^ { - 1 } }$ 小幅升至 $6 8 . 7 6 \\mathrm { m g \\cdot k g ^ { - 1 } }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "围垦 $1 0 \\mathrm { ~ a ~ }$ 后，重金属元素 $\\mathrm { P b }$ 平均含量从滩涂沉积物时 $3 2 . 6 ~ \\mathrm { m g { \\cdot k g ^ { - 1 } } }$ 下降至 $2 2 . 2 ~ \\mathrm { m g { \\cdot } k g ^ { - 1 } }$ ，减少 $3 1 . 9 \\%$ 之后的 $4 0 \\mathrm { a }$ 间略升至 $2 6 . 7 \\ \\mathrm { m g { \\cdot } k g ^ { - 1 } }$ 。Cd 虽也在围垦 $1 0 \\mathrm { a }$ 出现最低值 $0 . 1 2 \\mathrm { m g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ ，但在之后 $4 0 \\mathrm { a }$ 间波动上升至 $0 . 2 0 \\mathrm { m g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ ，比潮滩时期增加 $3 6 . 2 \\%$ ，临近土壤环境质量(GB15618—2008)一级标准[28]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3 土壤质量评价 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "最终进入MDS 的7项参数按照土壤理化性质可分成肥力指标(OM)、常量及微量元素 $\\mathrm { ( C a O \\Omega \\Omega }$ 、S、Br、B)和重金属指标(Pb、Cd)(表3)。其中，OM是正指标，其值越大，土壤质量越高; $\\mathrm { P b }$ 与Cd为逆指标，其值越高，污染越严重，土壤质量越差；其余指标均为适度指标，适中值的确定在研究区元素理化性质的基础上综合考虑包括中长江平原区(GBW07429-GSS15)[29]、土壤成分分析元素含量参考值(GSS1-16)[29]、浙江省和全国土壤元素背景值[30]在内的国家标准。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过Microsoft Excel 2013 进行 Topsis 评价，先对MDS 中的7项指标按式(2)-(4)进行极差标准化，转化至0\\~1 范围内，使评价模型低敏感高稳健便于操作。围垦活动受时间影响强烈，不同海堤内元素含量变化大，选用变异系数按式(8)定权既能保持客观公正，又能增强分区内指标的可比性。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/3723fbf6523c4e740125894b1d2d250dac0185cc6d394bf0f7d1d2f91c58d1ce.jpg",
+        "table_caption": [
+            "表3研究区土壤质量评价体系",
+            "Table 3Evaluation system of soil quality in the study area "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>目标层 Target layer</td><td>准则层 Criterion layer</td><td>指标层 Factor layer</td><td>权重 Weight</td><td>属性 Attribute</td><td>适中值 Modest value (mg·kg-1)</td></tr><tr><td rowspan=\"7\">土壤质量 Soil quality</td><td>肥力Fertility</td><td>OM</td><td>0.338</td><td>正Positive</td><td>/</td></tr><tr><td>常、微量</td><td>CaO</td><td>0.194</td><td>适中Modest</td><td>1530</td></tr><tr><td>Macro-element and</td><td>S</td><td>0.082</td><td>适中Modest</td><td>176</td></tr><tr><td>mcro-element</td><td>Br</td><td>0.097</td><td>适中 Modest</td><td>6.25</td></tr><tr><td></td><td>B</td><td>0.059</td><td>适中Modest</td><td>63</td></tr><tr><td>重金属</td><td>Pb</td><td>0.070</td><td>逆Inverse</td><td>/</td></tr><tr><td>Heavy mental</td><td>Cd</td><td>0.160</td><td>逆Inverse</td><td>/</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "采用式(5)-(9)计算每个样本土壤质量综合评价值 $C _ { i }$ ，值越高表示土壤质量越高。研究区276个样本点的土壤质量综合评价值在44.6至74.1之间，平均值 56.1，最优土壤质量样本是种植水稻(Oryza sativa)的农田，而最劣土壤质量样本为跳跳鱼养殖塘。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "土壤质量整体变化趋势受年限主导，局部变化特征受利用方式影响(图3)。研究区土壤质量与年限高度相关 $( R ^ { 2 } { = } 0 . 9 8 )$ ,50a间提高 $20 \\%$ ，呈“前 $2 0 \\mathrm { a }$ 逐步提高一 $2 0 { \\sim } 3 0 \\mathrm { a }$ 相对平稳—30\\~50a急剧提高\"的轨迹变化。从利用方式来看，土壤质量菜地>果园 $>$ 农田>林地>养殖 $>$ 潮滩 $>$ 荒地。农田、菜地和果园的土壤质量综合评价均值达57.6，由于人为施肥量大，利用效益明显高于养殖、荒地和潮滩，说明开发农业对滩涂土壤脱碱增肥有较好的改良作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c8379b902b088bd9019ef14cbcf0819a7791a256e39c55ac95a70c7915b0608e.jpg",
+        "img_caption": [
+            "图3不同围垦年限和利用方式下研究区土壤质量综合评价值Fig.3Comprehensive indexes of soil quality under different reclamation years and land-usetypes in the study area"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "进一步按作物细分为种植瓜果蔬菜[西瓜(Citrullus lanatus)、葡萄(Vitis vinifera)、桃子(Amygdalus persica)、南瓜(Cucurbita moschata)、毛豆(Glycine max)、油菜(Brassca campestris)、韭菜(Allium ordorum)等]的旱地和种植水稻的水田两种。以既有水田又有旱地的Ⅱ区为例，在时间固定条件下，水稻田平均土质( $\\scriptstyle { C _ { i } = 5 2 . 1 } )$ 优于旱地平均土质 $\\scriptstyle ( C _ { i } = 5 1 . 9 )$ ，恰与研究区整体水田劣于旱地的结果相反(图3)，且在IV区出现类似情况，表明在同一时间内种植水稻的环境效益更优。因此，当地农民在种植瓜果以追求经济利益的情况下，应重视保护环境，合理施用化肥农药，避免人为输入过量的重金属元素Cd诱发地方性骨痛病等。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "林地土壤质量呈现较高均值是因为种植的万年青(Ilex chinensis)、苦楝(Melia azedarach)等绿化树相比于苗圃树花更成熟，不需要过多的人为照料，肥力不及农用地，重金属含量也相对少。土壤质量潮滩略高于荒地，说明围垦后的土地应充分合理利用，避免空地荒废，政府应出台鼓励及补助政策减少土地资源的浪费。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c4dd2aa169e3631fdb08d299ca4d3964c0c10de6dc2ae64f803e811a3b95d64.jpg",
+        "img_caption": [
+            "图4研究区土壤质量分布情况",
+            "Fig.4Distribution of soil quality in the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在全国范围内比较，研究区土壤质量仍呈中度贫瘠状态[29]。对样本点插值后参考 ArcGIS 中自然断点法(Jenks)，将土壤质量等级分成5种(图4):一级土壤最少，仅 $8 . 0 9 \\mathrm { k m } ^ { 2 }$ ，占总面积的 $7 . 1 \\%$ ，大多分布在围垦时间最长的V区，以农田和菜地为主；二级土壤占 $1 9 . 5 \\%$ ，广泛分布于最早的3条围垦海堤内，以菜地、果园、林地为主，辅之以少量农田和养殖用地；三级土壤占总面积的 $2 0 . 7 \\%$ ，主要是农田，散布于IⅢ区和VI区;占 $2 7 . 4 \\%$ 的四级土壤和 $2 5 . 2 \\%$ 的五级土壤分布在最新修筑的两条海堤内，为少量农田、林地加上绝大多数养殖、荒地和潮滩。农用地的土壤质量远高于养殖和荒地，说明近 $5 0 \\mathrm { a }$ 间的围海造田不仅缓解了粮食和人口的压力，带动了当地的经济，且对土壤环境以及促进生态系统的发育都有积极影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4土壤质量障碍因子诊断 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "基于Topsis改进后的障碍因子诊断模型，计算MDS 中土壤各项指标的障碍度。研究区整体因子障碍程度排序为 $\\mathrm { O M { > } C a O { > } C d { > } B r { > } S { > } B { > } P b }$ ，结合表4的分区情况可知，在不同年限和利用方式下，主要障碍因子不尽相同。总体来看，OM对土壤质量的阻碍占主导；海相沉积物受OM、CaO 和 Br 影响较大，围垦前10a呈现出短暂的低肥高钙变化,OM和CaO阻碍加剧，土壤逐渐脱离海水环境,Br含量下降不再成为主要障碍；围垦20\\~40a,Cd的负面作用持续加剧，成为阻碍土质的主要因素;50a垦区土壤完成脱盐脱钙达到稳定状态，肥力持续提高,Cd成为仅次于OM的第2障碍因子，比上一个10a提高 $5 2 . 9 \\%$ ，是未围垦时期的2.9 倍，需引起重视。叠加土地利用方式来看，旱地虽提高了肥力但Cd含量也随之增加。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/e18a3fd41e4309933a3be92c04b1586bc134c0692bf8a41c7c86715ccc69b5b4.jpg",
+        "table_caption": [
+            "表4研究区土壤质量指标障碍度",
+            "Table 4Limiting degree of soil quality indexes in the study area "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>土地利用方式 Land use type</td><td>OM</td><td>CaO</td><td>S</td><td>Br</td><td>B</td><td>Pb</td><td>Cd</td></tr><tr><td>滩涂Tidal flat</td><td>0.163</td><td>0.056</td><td>0.01</td><td>0.022</td><td>0.001</td><td>0.003</td><td>0.009</td></tr><tr><td>围垦10 a Reclamation for 10 a</td><td>0.223</td><td>0.061</td><td>0.002</td><td>0.003</td><td>0.002</td><td>0.001</td><td>0.005</td></tr><tr><td>围垦20 a Reclamation for 20 a</td><td>0.166</td><td>0.057</td><td>0.002</td><td>0.002</td><td>0.002</td><td>0.001</td><td>0.011</td></tr><tr><td>围垦30 a Reclamation for 30 a</td><td>0.139</td><td>0.068</td><td>0.008</td><td>0.001</td><td>0.001</td><td>0.001</td><td>0.010</td></tr><tr><td>围垦 40 a Reclamation for 40 a</td><td>0.124</td><td>0.045</td><td>0.001</td><td>0.004</td><td>0.001</td><td>0.001</td><td>0.017</td></tr><tr><td>围垦 50 a Reclamation for 50 a</td><td>0.115</td><td>0.019</td><td>0.001</td><td>0.002</td><td>0.002</td><td>0.002</td><td>0.026</td></tr><tr><td>水田Paddy field</td><td>0.188</td><td>0.06</td><td>0.004</td><td>0.005</td><td>0.002</td><td>0.001</td><td>0.008</td></tr><tr><td>旱地Dry land</td><td>0.117</td><td>0.027</td><td>0.001</td><td>0.003</td><td>0.001</td><td>0.002</td><td>0.025</td></tr><tr><td>整体 Total</td><td>0.145</td><td>0.038</td><td>0.002</td><td>0.004</td><td>0.002</td><td>0.001</td><td>0.018</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论与结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "采用主成分分析、多元方差分析等方法，结合Norm值、围垦年限和利用方式，从24项土壤常规理化性质中筛选出OM、CaO、S、Br、B、Pb、Cd7项指标作为衡量研究区土壤质量的最小数据集 MDS。7项指标全面覆盖肥力、常微量元素和重金属三大方面，仅用 $2 9 . 2 \\%$ 的指标就包含了 $8 0 . 3 \\%$ 的信息，既减少了工作量又降低了测试成本，为后续评价围垦区土壤质量提供了一个简洁全面的模型框架。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "滩涂围垦活动下，土壤性质受人为影响发生明显变化。OM含量先下降后上升的变化趋势,CaO含量在30a急剧下降后至50a趋于稳定，这与已有研究相符。垦区整体仍属轻度贫瘠状态，说明围垦后开发需经历较长的脱碱增肥阶段，实现滩涂向农田的转换还需一定的时间积累和人为改良。Cd含量在开发后期快速上升甚至接近污染临界点，这是已有探究围垦区土壤所忽略的一点，易富集于水稻的Cd元素需引起广泛的重视，应从种植区的选择到撒药施肥等阶段全面监测农作物中Cd含量。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "相比于传统基于隶属函数计算加权关联度的诊断模型，变异系数定权的Topsis 法减少主观打分且几何意义更加直观。研究区土壤质量与围垦年限高度相关，呈\"前 $2 0 \\mathrm { a }$ 逐步提高一 $2 0 \\sim 3 0 \\mathrm { a }$ 相对平稳一 $3 0 { \\sim } 5 0$ a急剧提高\"的趋势。从土地利用方式来看，土壤质量为菜地>果园>农田 $>$ 林地>养殖>潮滩>荒地，说明开发农业对滩涂土壤脱钙增肥有明显改良作用。同一围垦年限下水田土质优于旱地，表明慈溪滩涂更适宜种植水稻以保护基本农田建设。农业活动导致的增肥脱钙脱盐是围垦区土质提升的根本原因，但研究区整体土质仍属于中度贫瘠水平，一级土壤最少，仅占总面积的 $7 . 1 \\%$ ，质量最差的四、五级土壤超一半。MDS中，因子障碍程度排序为 $\\mathrm { O M { > } C a O { > } C d { > } B r { > } S { > } B { > } P b }$ ，较低OM含量和较高的CaO、Cd含量是垦区土质提升的主要限制因子。淡水浇灌是初期土壤质量提升的根本原因，养分提高以及脱钙加剧是后期继续提升的关键但50a间Cd含量增加了近3倍。因此在增加土壤培肥的同时，合理施用化肥农药是进一步提升滩涂围垦区土壤质量的有效措施。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "土壤最小数据集因子的选定目前仍处于摸索阶段，本文指标选取时未包含生物指标，也未考虑农业生产过程(如灌溉与施肥)的影响。随年限增加和土地利用变化，土壤的空间变异性将加强，因此，建立一个全面评价围垦区土壤质量演变的指标体系，以及采样密度对模型稳健性的影响还有待后期深入研究。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献 References   \n[1]许艳，濮励杰．江苏海岸带滩涂围垦区土地利用类型变化研究——以江苏省如东县为例[J]．自然资源学报，2014，29(4): 643-652 Xu Y,Pu LJ.The variationoflanduse pattrnintidalflatreclamation zones inJiangsu coastalarea: Acase studyof Rudong County of Jiangsu Province[J]. Journal of Natural Resources,2014,29(4): 643-652   \n[2] 赵海迪，刘世梁，董世魁，等.三江源区人类干扰与湿地空间变化关系研究[J]．湿地科学,2014,12(1):22-28 Zhao HD,LiuSL,Dong SK,et al.Relationshipbetween human interferenceand wetlandspatial variationin Thr-River Headwaters Region[J]. Wetland Science,2014,12(1): 22-28   \n[3]王琪琪，濮励杰，朱明，等．沿海滩涂围垦区土壤质量演变研究——以江苏省如东县为例[J].地理科学,2016,36(2):256- 264 Wang QQ,Pu LJ, Zhu M, et al. Soil quality evolution in coastal reclamation zones: Acase studyof Rudong Countyof Jiangsu Province[J]. Scientia Geographica Sinica, 2016,36(2): 256-264   \n[4]KarlenDL,Andrews SS,DoranJW.Soilquality:Currntconceptsandaplications[J].Advances in Agronomy,1,74:1- 40   \n[5] 张贞，魏朝富，高明，等．土壤质量评价方法进展[J]．土壤通报,2006,37(5):999-1006 Zhang Z,WeiCF,GaoM,etal.Aessmentmethodsforsoilquality:Areview[J].Chinese JoualofSoilSience,206,37(5): 999-1006   \n[6] 张心昱，陈利顶．土壤质量评价指标体系与评价方法研究进展与展望[J]．水土保持研究,2006,13(3):30-34 Zhang XY,ChenLD.Theprogress and prospect of soil quality indicators and evaluationmethods[J].Research of Soiland Water Conservation,2006,13(3): 30-34   \n[7]刘世梁，傅伯杰，刘国华，等．我国土壤质量及其评价研究的进展[J].土壤通报,2006,37(1):137-143 Liu SL,FuBJ,LuGH,etal.Researchreviewofquantitativeevaluationof soilqualityinChina[J]. Chinese Journalof Soil Science,2006,37(1): 137-143   \n[8]许明祥，刘国彬，赵允格．黄土丘陵区侵蚀土壤质量评价[J]．植物营养与肥料学报,2005,11(3):285-293 Xu MX,Liu GB,ZhaoYG.Qualityassessmentof erosionsoilonhillyLoess Plateau[J].Plant NutritionandFertilizer Science,2005,11(3): 285-293   \n[9] 黄婷，岳西杰，葛玺祖，等．基于主成分分析的黄土沟壑区土壤肥力质量评价——以长武县耕地土壤为例[J].干旱地区农 业研究,2010,28(3): 141-147 Huang T,Yue X J,Ge X Z,et al. Evaluationof soil qualityon gullyregion of Loess Plateaubased on principal component analysis[J]. Agricultural Research in the Arid Areas, 2010,28(3): 141-147   \n[10]姚荣江，杨劲松，陈小兵，等．苏北海涂围垦区土壤质量模糊综合评价[J]．中国农业科学,2009,42(6):2019-2027 YaoRJ,Yang JS,Chen XB,etal.Fuzzysyntheticevaluationofsoilquality incoastalreclamationregionof NorthJiangsu Province[J]. Scientia Agricultura Sinica,2009,42(6): 2019-2027   \n[11]AndrewsS S, Karlen DL, Mitchel JP.Acomparison of soil quality indexing methods forvegetable productionsystems in Northern California[J]. Agriculture,Ecosystems & Environment, 2002, 90(1): 25-45   \n[12] Yemefack M,Jeten VG,Rositer DG.Developingaminimumdatasetforcharacterizingsoil dynamics in shifting cultivation systems[J]. Soil and Tillage Research,2006, 86(1): 84-98   \n[13]李桂林，陈杰，檀满枝，等．基于土地利用变化建立土壤质量评价最小数据集[J].土壤学报,2008,45(1):16-25 Li GL, Chen J,Tan M Z,etal. Establishment of a minimum dataset for soil quality assessment based onland usechange[J]. Acta Pedologica Sinica, 2008,45(1): 16-25   \n[14] 李桂林，陈杰，孙志英，等．基于土壤特征和土地利用变化的土壤质量评价最小数据集确定[J]．生态学报，2007,27(7): 2715-2724 Li GL,ChenJ,SunZY,etal.Establishingaminimumdatasetforsoilqualityassssmentbasedonsoilpropertiesandlanduse change[J]. Acta Ecologica Sinica,2007,27(7): 2715-2724   \n[15] 贡璐，张雪妮，冉启洋．基于最小数据集的塔里木河上游绿洲土壤质量评价[J].土壤学报,2015,52(3):682-689 Gong L,Zhang XN,Ran QY.Qualityassssment of oasis soil in the upper reaches of TarimRiver based on minimumdata set[J]. Acta Pedologica Sinica, 2015,52(3): 682-689   \n[16] 邓绍欢，曾令涛，天强，等．基于最小数据集的南万地区冷浸出土壤质量评价[J.土壤字报,2016,53(5):1326-1333 Deng SH, ZengLT,Guan Q,et al.Minimum dataset-based soil qualityassessment of waterlogged paddy field in South China[J]. Acta Pedologica Sinica,2016,53(5): 1326-1333   \n[17]岳西杰，葛玺祖，王旭东．基于GIS 的黄土丘陵沟壑区土壤质量评价研究——以陕西省长武县为例[J].干旱地区农业研 究,2011,29(3): 144-149 Yue X J,Ge X Z, Wang X D. GIS-based research on soil quality evaluation in the Loess Hilly Gullyregion一Acase studyof Changwu County[J]. Agricultural Research in the Arid Areas,2011, 29(3): 144-149   \n[18] 高宇，赵斌．人类围垦活动对上海崇明东滩滩涂发育的影响[J]．中国农学通报,2006,22(8):475-479 Gao Y,ZhaoB.Theefectofreclamationonmud flatdevelopmentin Chongming Island,Shanghai[J].ChineseAgricultural Science Bulletin,2006,22(8): 475-479   \n[19]张徐，张明，吴鹏豹，等．典型滩涂围垦区土壤化学性质的短期变化特征[J].土壤通报,2016,47(2):346-352 Zhang X,Zhang M,WuPB,et al.Short-term variation of soil chemical properties after tidal flatreclamation ina typical coastal area[J]. Chinese Journal of Soil Science,2016,47(2): 346-352   \n[20]张明，陈国光，高超，等．华东多目标区域地球化学调查区土壤常量元素地球化学特征[J].吉林大学学报：地球科学版， 2014,44(3): 995-1002 Zhang M,Chen GG,Gao C,et al.Geochemical characteristics of macro elements in soils in theregion covered by multi-purposegeochemicalsurvey ineastemChina[J].Journalof Jilin University:Earth ScienceEdition,2O14,4(3):995 1002   \n[21]张先起，梁川，刘慧卿．基于熵权的改进 TOPSIS 法在水质评价中的应用[J]．哈尔滨工业大学学报，2007，39(10)：1670- 1672 Zhang X Q, Liang C,Liu HQ. Application of improved TOPSIS method based on coeficient of entropyto comprehensive evaluating water quality[J]. Journal of Harbin Institute of Technology, 2007,39(10): 1670-1672   \n[22] 刘明宇，华珞，王世岩，等．基于改进 TOPSIS 方法的温榆河水环境质量综合评价研究[J]．南水北调与水利科技，2007, 5(3): 57-60 Liu MY, Hua L, Wang SY,etal.Comprehensive evaluation on water environmentquality in the Wenyu River by improved TOPSIS[J]. South-to-North Water Transfers and Water Science & Technology, 2007,5(3): 57-60   \n[23] 刘文新，栾兆坤，汤鸿霄．乐安江沉积物中金属污染的潜在生态风险评价[J]．生态学报,1999,19(2):206-211 Liu W X,Luan Z K,Tang H X.Environmental assessment on heavymetal pollution inthesedimentsofLe'anRiver with potential ecological risk index[J]. Acta Ecologica Sinica,1999,19(2): 206-211   \n[24] 陈宁丽，张红方，张合兵，等．基于熵权 TOPSIS 法的耕地生态质量空间分布格局及主控因子分析——以河南省新郑市 为例[J]．浙江农业学报,2015,27(8): 1444-1450 Chen NL,ZhangHF,ZhangHB,etal.Spatial distributionanddomnating factors analysisofecological qualityofcultivated landbasedonentropy-weighting TOPSIS method:Acase studyof Xinzheng City,Henan Province[J].Acta Agriculturae Zhejiangensis, 2015, 27(8): 1444-1450   \n[25]陈伯扬.TOPSIS 法在土壤环境质量评价中的应用[J].现代地质,2008,22(6):1003-1009 ChenBY.Appicationof TOPSIS method totheenvironment quality evaluationof soil[J]. Geoscience,2008,22(6):1003- 1009   \n[26]Zhang H,WuB,YinAJ,etal.PredictionofsoilorganiccarboninanintensivelymanagedreclamationzoneofeasteCina: Acomparisonofmultiplelinearregresionsandtherandomforestmodel[J].Scienceof theTotalEnvironment,2Ol792:704 713   \n[27] 吴乐知，蔡祖聪．中国土壤有机质含量变异性与空间尺度的关系[J].地球科学进展,2006,21(9):965-972 Wu LZ,Cai ZC.The relationshipbetween the spatial scale andthe variationof soil organic materin China[J].Advances in Earth Science,2006,21(9): 965-972   \n[28]环境保护局，国家质量监督检验检疫总局.GB 15618—2008 土壤环境质量标准[S].北京：中国标准出版社,2008 Environmental Protection Agency,General Administration of Quality Supervision, Inspection and Quarantine.GB 15618一 2008 Environmental Quality Standard for Soils[S]. Beijing: China Standards Press,2008   \n[29]魏复盛，杨国治，蒋德珍，等．中国土壤元素背景值基本统计量及其特征[J]．中国环境监测,1991,7(1):1-6 WeiFS,YangGZ,Jiang DZ,etal.Statisticsandcharacteristicinbackgroundvalueof soil elementsin China[J]. Environmental Monitoring in China,1991,7(1): 1-6   \n[30] 范允慧，王艳青．浙江省四大平原区土壤元素背景值特征[J]．物探与化探,2009,33(2):132-134 FanYH,Wang YQ.Backgroundcharacteristicsof soil elements in four plains of Zhejiang Province[J]. Geophysical& ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

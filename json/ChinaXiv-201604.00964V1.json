@@ -1,0 +1,145 @@
+[
+    {
+        "type": "text",
+        "text": "Astronomical DataAnalysisSoftware and Systems:XXIV ASPConference Series,Vol.495   \nA.R.TaylorandE.Rosolowsky,eds.   \n（204号 $\\wp$ 2015Astronomical Society of the Pacific ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AstroCloud, a Cyber-Infrastructure for Astronomy Research: Overview ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chenzhou Cui,1 Ce Yu,² Jian Xiao,² Boliang He,1 Changhua Li,1 Dongwei Fan,1 Chuanjun Wang, Zhi Hong,² Shanshan Li,1 Linying Mi,1 Wanghui Wan,1.4 Zihuang Cao,1 Jiawei Wang,1 Shucheng Yin,2 Yufeng Fan,³ and Jianguo Wang3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1National Astronomical Observatories, Chinese Academy of Sciences (CAS),   \n20A Datun Road,Beijing 1000l2, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2Tianjin University, 92 Weijin Road, Tianjin 300072, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3 Yunnan Astronomical Observatory, CAS,P.0.Boxl10, Kunming 650011,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4Central China Normal University, 152 Luoyu Road, Wuhan 430079, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract. AstroCloud is a cyber-Infrastructure for Astronomy Research initiated by Chinese Virtual Observatory (China-VO) under funding support from NDRC (National Development and Reform commission） and CAS (Chinese Academy of Sciences). Tasks such as proposal submission,proposal peer-review, data archiving,data quality control, data release and open access, Cloud based data processing and analyzing,will be all supported on the platform.It will act as a full lifecycle management system for astronomical data and telescopes.Achievements from international Virtual Observatories and Cloud Computing are adopted heavily. In this paper, backgrounds of the project, key features of the system,and latest progresses are introduced. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Astronomy in China has been developing fast in the last decades.LAMOST was completed in 2OO8 and started sky survey observation since 2O09.The construction of FAST radio telescope is underway,and will be completed in about 3 years. As the initial test of ambitious plan of Chinese Antarctic Observatory,2 telescopes have already been established at Doom A.In additional to the above several key projects,a dozen astronomical observatories with middle-size or small-size telescopes were constructed. Locations of these recent built facilities are largely distributed,across the whole scope of Chinese mainland and even to Argentina and Antarctic. With the requirements of multi-waveband astronomy and time-domain astronomy, big challenges are facing the astronomical community to harvest and utilize data of these facilities. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chinese Virtual Observatory (China-VO) is the national VO project in China initiated in 2002(CUI & ZHAO 2O08).AstroCloud is a cyber-Infrastructure for Astronomy Research initiated by the China-VO under funding support from NDRC (National Development and Reform commission) and CAS (Chinese Academy of Sciences). Taking advantages of Cloud Computing and achievements of Virtual Observatories, functions such as proposal submission,proposal peer-review, observation data archiving,data quality control, data release and open access, Cloud based data processing and analyzing,are supported on the platform. Basing on the Internet and virtualization technologies, research resources including storage, scientific data, computing,software and tools are integrated into an online cyber-infrastructure(Xiao et al. 2014). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/67312fde52eefcfb329729109e0b4ed68bf5354180f2f2f3c947509907ba290e.jpg",
+        "img_caption": [
+            "Figure 1.Basing on virtualization technologies,research resources including storage,scientific data, computing,software and tools are integrated into the AstroCloud "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Major Channels and Key Features ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For professional end users,i.e.astronomers,5 channels are designed, including Telescope,Data, Computing,Tools and Cloud. Observation time application for astronomical telescopes is serving in the Telescope channel. Features such as proposal submission,peer-review, time allocation,are provided. Data channel is the portal for data exploration to access to both public data and data still in PI period (Fan et al.2014). Computing channel is the entrance to HPC facilities hosted by several observatories of Chinese Academy of Sciences. Well known and frequently used tools, packages, services,and source codes are collected into the Tools channel. Virtual Machines with preinstalled data processing and analyzing software environments are available for users to apply for in Cloud channel (Li et al.2O14). In additional to the above channels for professional users,a Public channel is under design and development, which will provide real time video streams of observatory cameras and all sky cameras.Furthermore, remote observation with amateur telescopes is also planned. For special roles,such as telescope manager and PIs,further functions are provided to them to manage proposals, time allocation committee and observation time,or to control their observation data. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/385b6d82e1cef1ef0b87dbbfef70aeb02516015806bff1a4b01e74174ac332da.jpg",
+        "img_caption": [
+            "Figure 2.Frontpage of AstroCloud,5 channels are designed for professional users. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.Current Status ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A trial version was released to the public on May 15,2O14. Cloud nodes cover three observatories located in Beijing,Kunming and Urumqi. In the last several months, call for proposal, proposal submission, on-line peer-review and time allocation for the $2 . 4 \\mathrm { m }$ Optical Telescope of Yunnan Astronomical Observatories have been completed. Raw data and data products of 7 telescopes, such as LAMOST, CSTAR,BOOTES-4, have been managed in the platform. About 2OO users registered and sent back positive feedback. The whole system is planned to be put into operation by the end of 2015. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4. Whole Lifecycle Management ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Through dedicatedly designed database and metadata management (He et al.2O14), the AstroCloud becomes a whole lifecycle management platform for astronomical observation data, see Figure 3. Scientific outputs covering the whole cycle of an astronomical observation,including proposal, observation log,raw data and data products are interconnected.Additionally, software tools and computing abilities are also provided to retrieve and analyze these data. Only thin or even mobile clients are enough to do science on the platform. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/47039a29159c1817bcd5564ae1ee3c8a1d1f3aa5ac17dc996811c8786e5d7440.jpg",
+        "img_caption": [
+            "Figure 3.AstroCloud acts as a whole lifecycle management platform for astronomical observation data "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments. This paper is funded by National Natural Science Foundation of China (U1231108),Ministry of Science and Technology of China (2012FY120500), Chinese Academy of Sciences (XXH12503-05-05). Data resources are supported by Chinese Astronomical Data Center. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CUI, C.,& ZHAO, Y.2008,in A Giant Step: from Mili- to Micro-arcsecond Astrometry, edited byI.P..M. P.W.J.Jin, vol. 3 ofIAU Symp.248, 563   \nFan,D., He, B., Xiao,J.,Li, S.,Li, C., Cui, C., Yu, C., Hong, Z., Yin, S., Wang, C., Cao, Z, Fan, Y.,Mi,L., Wan,W.,& Wang,J.2014, in ADASS XXIV, edited by A.R. Taylor, & E.Rosolowsky (San Francisco: ASP), vol. TBD of ASP Conf. Ser., TBD   \nHe,B.,Cui, C.,& D.W.,F.2014, in ADASS XXIV,edited by A. R. Taylor,& E. Rosolowsky (SanFrancisco:ASP),vol.TBDofASP Conf.Ser., TBD   \nLi, C.,Wang, J., Cui, C.,He, B., Fan, D., Yang, Y., Chen, Y., Zhang, H., Yu, C., Xiao, J.,Li, S.,Mi, L.,Wang, C., Cao, Z., Fan, Y., Hong, Z.,Wan,W.,Wang, J.,& Yin, S. 2014, in ADASS XXIV, edited by A.R. Taylor,& E. Rosolowsky (San Francisco: ASP), vol. TBD of ASP Conf. Ser., TBD   \nXiao,J.,Yu, C.,& Cui, C.2014, in ADASS XXIV, edited by A. R. Taylor,& E. Rosolowsky (San Francisco:ASP), vol.TBD of ASP Conf. Ser., TBD ",
+        "page_idx": 3
+    }
+]

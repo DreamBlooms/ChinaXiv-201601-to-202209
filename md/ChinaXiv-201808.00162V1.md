@@ -1,0 +1,113 @@
+# ANN 在铝模施工中的应用
+
+丘衍航
+
+(中国建筑科学研究院深圳分院，深圳518057)
+
+摘要：铝模板，全称为建筑用铝合金模板系统，是新一代模板支撑系统。铝模板系统在建筑行业的应用，提高了建筑行业的整体施工效率，包括在建筑材料，人工安排上都大大的节省很多。铝模板设计研发及施工应用，是建筑行业一次大的发展。
+
+然而铝模板存在现场变更困难的问题，要求模板严丝合缝。本文探讨采用人工智能算法找出最优的施工顺序，以节省时间，并在虚拟环境中模拟施工的方法来降低出错的概率。
+
+关键词：ANN；铝模板；工程管理
+
+【基金项目】：中国建筑科学研究院应用技术研究课题“基于BIM技术的铝模板施工智能设计软件研究与开发“（编号：201601200330730035）
+
+# Application of ANN in aluminum formwork construction
+
+Qiu Yanhang
+
+（China Academy of Building Research Shenzhen Institute,Shenzhen 518057，China）
+
+Abstract:Aluminum formwork，calledthebuilding Aluminum formwork system,isanewgenerationof formwork support system.Applicationof aluminum formwork system in theconstruction industry,improve the overalleffciency of theconstruction industry,including save theconsumptionof constructionmaterialsandlabour expenses.Research and application of aluminum formwork,is a major step forward of construction industry. However，aluminum formwork encounters on site design modification problem,and requires formwork Join tightly. Thispaperdiscusses theapplicationofartficial inteligencealgorithms tofindtheoptimalconstructionorder,tosave time,and in the virtual environmentto simulate theconstructionmethod toreduce theprobabilityof mistakes.
+
+Keywords:ANN; Aluminum Formwork;Project Management
+
+# 1.引言
+
+铝模板自1962年在美国诞生以来，已有55年的应用历史。在美国、加拿大等发达国家，以及像墨西哥、巴西、马来西亚、韩国、印度这样的新兴工业国家的建筑中，均得到了广泛的应用。铝模板在中国发展了仅仅几年，就已经受到了许多建筑商的青睐，例如万科、中建集团都在使用铝模板系统。
+
+人工神经网络（ArtificialNeuralNetwork，即ANN），是20世纪80年代以来人工智能领域兴起的研究热点。它从信息处理角度对人脑神经元网络进行抽象，建立某种简单模型，按不同的连接方式组成不同的网络。在工程与学术界也常直接简称为神经网络或类神经网络。
+
+神经网络技术与建筑行业各专业领域知识相结合，使得该技术在建筑行业中取得了非常广泛的应用。已有许多ANN系统应用在建筑行业取得了很好的经济效益和社会效益。本文利用ANN对铝模的使用顺序进行最优化选择以达到最优的效果。
+
+【作者简介】：丘衍航（1982—），男，硕士研究生。主要研究方向：BIM、铝模板设计。
+
+# 2．研究现状
+
+目前，建筑施工过程中管理现场施工流程时，一般使用甘特图，这对提供整个流程的总体视图是有用的。这种方法缺少空间上的总体规划。但如果要将不同空间内的大量类似的工作分配给同一专业工作团队执行时，并不能体现调配的方法。这种的规划方法缺少自动化，以及对缺少对资源的统一调配，不同人员之间的操作冲突导致时间的浪费。
+
+规划方法是将复杂的工作分解为更简单的子问题，即工作分解结构（Work BreakdownStructure－WBS)。工作分解结构后的流程使用了计划评估和审查技术（PERT）和关键路径方法（CPM）[6]。
+
+在工程管理领域，工程管理者有些工具，可以帮助他们确定工作流程，最近研究者已经使用人工智能（AI）技术来管理和建立流程。[8]中使用BIM 模型和数据库运用来自动找到近乎最优的时间安排表；更近一步，[9]中使用代理模型的来模拟施工；[5]中使用ANN 学习技术来达到这种目的。
+
+这种趋势正在从反应行为转变为预测行为模型，以尽早识别工程中存在的风险。而通过模拟施工过程活动中，如果发生了意料之外的情况，这时，就能提出一套可能的预案，以减轻对最终产品（模板的排布效果，乃至杆件甚至建筑的结果）的影响。
+
+# 3．本文的研究方法
+
+# 3.1基于代理的模型（ABM）
+
+在铝模施工现场的构建是一项复杂的活动。然而，这种复杂性是许多简单问题的总和。这些问题通常由小的工人团队解决，在许多情况下，可能由单个工人解决。基于这个原因，基于代理的模型，非常接近真实的现象，可以精确地表达他们之间互动，以及他们和工程内容的互动。工程内容即我们的数据模型（如BIM模型）。
+
+此外在ABM中，计算机中的代理和真实世界中的排模工人之间的对应关系[2]，使他容易并且清晰的表示排模工人和周围环境，以及他们之间的关系。无论是对刺激反应模式，还是高级的主动反应模式都是有效的。
+
+工程施工管理是一个非常接近ABM 建模能力的领域，因为这个领域是一个跨学科的领域，比如社会和人方面的问题，以及不同参与团队之间的空间和时间交互作用。另一方面，目前的BIM和施工管理工具提供了嵌入式代理推理引擎：当设计者根据模型内含的知识建立数据时，这些工具才能表示工作阶段持续时间（BIM4D）或成本（BIM5D)。事实上，这里描述的方法只解决问题的一部分。我们的ABM模型中的代理自动推理算法可以为管理人员提供了工人需要多大的空间来达到他们的目标。
+
+在我们的系统中，每个代理就是一项任务，我们的划分方法是一个房间排满模板的结果，有代理指派相关的排模工人参与完成相应的工作。整层的模板排布完成就是我们需要的结果，我们通过ABM建立起了一个神经网络。网络得到的最优解，多少个工人参与，排模的顺序是什么就是我们接下来要讨论的。
+
+# 3.2逐步人工神经网络（GANN）
+
+持续学习是机器学习的一个长期目标，在这种学习中，ABM中代理人不仅学习（记住）一系列的任务，而且有能力从以前的任务中转移为知识，以提高收敛速度。逐步人工神经网络将这些需求直接整合到网络的结构中：通过对每个任务实例化一个新的神经网络（列神经元）来防止灾难性的遗忘的发生[7]。
+
+基于代理的系统以及相关的信息，可以被认为是这样一种人工神经网络，每个代理代表一个神经元和代理间交换的信息可以认为是神经元之间的突轴[1]。
+
+嵌入到“神经-参与者”中的信息频度和选择的统计因子可以描述为通过神经网络获取的“经验”。在使用过程中，如果设计者认为选中的参数是有效的，这个网络的结果就会被分类到正确的结果库中。
+
+当设计者或BIM环境要求对网络的结果进行改善时，这个网络的结果就会被分类到错误的结果库中。当决策者采用的施工方案接近过去错误结果库中的结果时，网络将警告决策者。
+
+网络的训练方法，即调整突轴的因子值，以及结束的标志，是使用分布约束优化，以及其变种算法确定。
+
+# 3.3分布约束优化DCOP
+
+在多代理系统中，协调起着基础性的作用，因为协调率度量表示的是代理有多像一个统一整体。为此，管理代理的活动之间的内部依赖性是非常必要的。
+
+代理的协调策略有许多种方法。一般是转化为约束满足问题（CSP)，采用深度优先算法来搜索代理之间的最优路径[4]。在我们的系统中采用的技术，是由分布式约束优化DCOP[17]算法启发的异步DCOP 算法（Adopt）[3]。
+
+为了优化模型的目标函数，参与者（排模工人）必须协调他们的选择。每个代理都知道影响它的约束并异步地进行操作。这个问题要求，全局目标函数，即逐步神经网络的输出，为带约束的值的集合。算法返回的在范围内的一组值，而非0或者1。
+
+# 3.4模拟方法
+
+两个系统（ABM和BIM）能够正确地通信，实现本算法地基本要求。代理们同时动作得到的计算结果要在建筑模型中更新。
+
+由于我们的系统是异步访问建筑信息模型系统（BIM）的，有可能会在修改时，出现访问冲突。为了避免这些冲突情况，ABM 和 BIM之间的通信采用 BIM事件管理器（BEM）来进行。当需要新增，修改，删除的BIM中的对象时，BEM就会产生一个事件。
+
+BIM系统的空转（Idling）对事件的处理起着主要的作用。BIM在用户的互动的间隔就会产生空转事件，出现在外部系统成功的访问完模型之后。
+
+BEM首先产生一个特殊的代理系统称为主参与者（MasterActor－MA)。MA广播或者时给特定的参与者发送相关的消息。
+
+代理系统的每个修改活动都由（MA）来激活并记录，记录方式是先进先出（FIFO）的队列来处理。如果是查询的信息，我们通过BEM系统直接用，而绕过MA。
+
+在我们的模拟过程首先用 BEM系统产生一个MA，然后产生已有的任务（Agent)，通过MA来广播消息再由参与者接到任务后到处理完成。然后参与者去接下一个任务，直至整层的任务完成。这时，模拟整层的配模任务就完成了，我们采用异步分布式约束优化，找出最优的完成顺序，以及参与的人数。这些信息将以逐步人工神经网络的形式存储我们的系统中。在模拟过程中，如果设计者认为这个过程（网络中的参数）是否有效，并分别存储到库中。并在以后的施工过程中指导排模。
+
+当最终选定了排模方案后，排模的顺序已经确定，我们可以生成排模的虚拟三维动画让设计者对整个工作有更直观的了解。
+
+# 4.结束语
+
+我们的设计的系统是一个主动持续学习地ANN系统，它使得设计人员在设计的初期阶段就可以动态选择最优的施工方案。该方案减少时间的浪费，并促进施工的可持续性。
+
+为了设计师能按照已定义好的、可靠的调度计划来完成铝模装配的施工任务，本文提出的将WBS定义为一个多代理系统相互作用的结果，它能动态确定最合适的施工顺序。
+
+在设计过程中我们的系统和设计师一起，评估施工时间最有的情况下，所需要的参与者类型和数量选择带来的结果，同时，确保团队工作的连续性以及所需资源的恰当性。
+
+未来可以考虑将我们的系统和模板采购，以及后面运维等活动联系起来，以期得到更好的效果。
+
+# 【参考文献】
+
+1.Rossini,FL,Novembri, G,and Fioravanti,A: AS&BIM-A Unified Model of Agent Swarm and BIM to Manage the Complexity of the Building Process,CAAD Futures 2017 pp.321-332.(2017)   
+2.Rossini,FL,Novembri, G,and Fioravanti,A :“BIMand Agent-based Model Integration for Construction Management Optimization”In: LC3 2017 Volume II- Proceedings of the 25th Annual Conference of the International Group for Lean Construction (IGLC), pp.111-118.   
+3.Modi,P.J.， Shen,W.-M.,Tambe,M.，& Yokoo,M.: An asynchronous complete method for distributed constraint optimization. In proceedings of the 2nd AAMAS, Autonomous Agents and Multi-Agents Systems, 161-168 (2003)   
+4.Freuder,E.C.,Mackworth A.,K.: Constraint Satisfaction: an emerging paradigm,in Handbook of constraint programming,Chapter 2,Rossi,F.,Van Beek,P.,Walsh,T.,eds.,Elsevier (2008)   
+5．Mirahadi,F., Zayed,T.: Simulation-based construction productivity forecast using Neural Network-Driven Fuzzy Reasoning,in Automation in Construction, 65,102-115 (2016).   
+6. PMI (Project Management Institute) PMBOK.A guide to the Project Management Body of Knowledge, V edition,PMI Editor (2013).   
+7. Andrei A.Rusu,Neil C.Rabinowitz, Guillaume Desjardins,Hubert Soyer,James Kirkpatrick，Koray Kavukcuoglu,Razvan Pascanu,Raia Hadsell: Progressive Neural Networks,arXiv:16O6.04671v1[cs.LG] 15 Jun 2016.   
+8. Chena S.-M., Griffs,F.H., Chen,PH., Chang,L.M.: A framework for an automated andintegrated project scheduling and management system,in Automation in Construction, 35,89-110 (2013).   
+9. Tailandier,F.,Taillandier,P.,Tepeli,E.,Breyse,D.,Mehdizadeh,R.,Khartabil,F.Amulti-agentmodelto manage risks in construction project (SMACC) in Automation in Construction,58,1-18 (2015).

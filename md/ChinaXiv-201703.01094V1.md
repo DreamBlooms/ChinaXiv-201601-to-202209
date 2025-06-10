@@ -1,0 +1,246 @@
+# 核电站316L不锈钢弯头应力腐蚀行为的寿命预测
+
+# 郭 舒韩恩厚 王海涛 张志明 王俭秋
+
+(中国科学院金属研究所中国科学院核用材料与安全评价重点实验室沈阳110016)
+
+摘 要采用数值模拟方法对核电站 316L 不锈钢弯头的应力腐蚀裂纹扩展行为进行了研究。首先针对不锈钢厚壁弯头(外径 $3 5 5 . 6 \mathrm { { m m } }$ ，内径275.6mm)进行有限元建模,在弯头内壁上创建出与实际裂纹相符的半椭圆状3D 缺陷作为裂纹形状,其裂纹张开位移 $( \delta _ { i } )$ 由Dugdale模型计算确定;然后根据有限元计算结果,建立裂纹应力强度因子（K）随裂纹深度（d）及附加应力（P）变化的拟合公式,结合实验数据得到管材在2种冷变形量下的应力腐蚀裂纹扩展速率( $. d a / d t )$ 拟合公式,利用迭代方法计算了裂纹穿透管壁所需的时间，为核电站安全评估提供了有效依据.研究显示，当弯头部位的冷变形量较小（硬度为 $2 3 0 { \sim } 2 4 5 \ \mathrm { H V }$ ）且在理想情况下（无初始附加应力）弯头被应力腐蚀裂纹穿透耗时最长(约57a)，当初始附加应力增加至 $2 0 0 \ \mathrm { { M P a } }$ 此失效时间约缩减至前者的1/5(无应力释放)、2/7(应力释放一半）以及3/7 (应力完全释放)；保持初始附加应力不变 $( 2 0 0 ~ \mathrm { { M P a } , } )$ 并提高弯头部位冷加工变形量(由硬度为230\~245 HV提高到275\~300HV)，弯头的大变形部位被穿透时间约缩短至小变形部位失效时间的2/5（无应力释放）、3/8（应力释放一半）以及1/3(应力完全释放)，由此可见应力释放程度的降低和冷加工变形量的增加均导致了核电站316L不锈钢弯头剩余寿命的缩短。
+
+关键词 316L不锈钢弯头，应力腐蚀裂纹扩展，裂纹张开位移(δi)，有限元分析，应力释放，冷加工变形
+
+中图分类号 TG172文章编号 0412-1961(2017)00-0000-00
+
+# Life Prediction for Stress Corrosion Behavior of 316L Stainless Steel Elbow of Nuclear Power Plant
+
+GUO Shu, HAN En-Hou, WANG Haitao, ZHANG Zhiming, WANG Jianqiu KeyLaboratoryof uclearaterialsandSafetyAsessment,InstituteofMetalResearch,ChineseAcademyofcience,eyng 110016, China Correspondent: HAN En-Hou, professor, Tel: (024)23893841, Email: ehhan @imr.ac.cn Supported by National Basic Research Program of China (No.2O11CB610500) Manuscript received 2016-10-18， in revised form 2016-11-27
+
+ABSTRACTStress corrosion cracking (SCC) is one of the main aging mechanism in LWR (light water reactor). 316LN austeniticstainlessteel wasadoptedinnuclearindustryforitsrelativelyhighcorosionresistane.TheSCCofausteniticstainless steelmayocur as itissubjectedtoboththe tensilestressand thecaustic medium,Withregardtomaintainingthestructuralintegrity of componentsinnuclearpowerplant,anaccratepredictionandeficientasessmentof thecomponentlifetimeissigniicantnd necessary.The stress corrosioncrack propagation behaviorofte316Lstainlesstelelbowofnuclear powerplant wasinvestigated throughanumericalsimulationmethod.FirstlyaFiniteElement(FE)modelwasreatedforthestainlessstelthick-walledelbow (the outer diameter is $3 5 5 . 6 ~ \mathrm { m m }$ ,the inner diameter is $2 7 5 . 6 \ \mathrm { m m }$ ),with a semi-elliptical shaped 3D defect introduced at the internal surface ofthe elbowas the geometryof thecrack,which was consistent witha practical crack,thecrack opening displacement $( \delta _ { i } )$ （204号 wasdeterminedbythecalculationsthroughtheDugdalemodel;subsequentlyacordingtotheFEcalculationresults,stablishthe fitting formula of the stress intensity factor $( K )$ varying with the crack depth $( d )$ and additional stress $( P )$ ,and the fitting formula of the stresscorosioncrack propagationrate(da/dt)forelbows under two typesofcold work deformation was deduced through the combination with theexperimentaldata,thecrack propagation timewas thencalculated usingaiterative methodforcracks which evolvefromdiferent initialcrackdepth values tocertaincrack depthvalues.Thecalculationresultsprovidedefectivereference criterionforthenuclearpowerplantsafetyassesment.This investigationdemonstratedthat,whenthecolddeformationextentof te elbow
+
+part is relatively small （with the hardness of $2 3 0 { \sim } 2 4 5 \ \mathrm { H V }$ ）and it is under the ideal condition (no initial additional stress),it takes around 57 aforthe stresscorrosion crack to penetrate the elbow,when the initial additional stress was elevated to $2 0 0 ~ \mathrm { { M P a } }$ ，the elbowfailuretieasredto/5(trseease),2/(alfstrselease)d3/(totaltrsrelease)ofth same initial additional stress $( 2 0 0 ~ \mathrm { M P a } )$ ）and increase the cold work deformation extent (the hardness was increased from 230\~245 HV to $2 7 5 { \sim } 3 0 0 ~ \mathrm { H V }$ ),the elbow failure time was shortened to 2/5 (no stress release),3/8 (half-stress release) and $1 / 3$ (total stress release)fortheelbowpartwithhighercolddeformationextentcomparedtothepartwithlowercolddeformationextent,thus itwas observedthatbothtedecreaseoftheextentofstressrelaxationandtheincreaseoftheextentofcoldworkdeformationcontributed to the reduction of the residual life of the nuclear power plant 316L stainless steel elbow.
+
+KEY WORDS 316L stainless steel elbow, stress corrosion crack propagation,crack opening displacement $( \delta _ { i } )$ finite element analysis,stress relaxation,cold work deformation
+
+316L奥氏体不锈钢属于核电站常用金属材料[1。由于核电站一回路主管道内承载高温、高压、高流速以及含放射性物质的水介质[2]，在这种复杂工作环境下[3]，奥氏体不锈钢会发生应力腐蚀开裂(SCC)[1,2.4.5]。核电材料的失效可能引起严重的安全、环境、经济问题[1,3,5]。在过去几十年中，已经出现过多起核电站不锈钢应力腐蚀开裂事件，而随着核电反应堆的持续运行，这一问题需要被更加密切地关注与研究。
+
+核电环境下奥氏体不锈钢的应力腐蚀开裂行为已经被进行过大量研究[1-9]，近年来，Zhang等[5]采用直流电位降(DCPD)方法，实时监测了锻造态核级管材316L不锈钢在模拟高温高压水环境中的应力腐蚀裂纹扩展速率，观察到管材在模拟核电环境下显示出明显的沿晶应力腐蚀开裂行为，且随着降低溶解氧含量，增加溶解氢含量，能够明显减缓应力腐蚀裂纹扩展。Huang等使用高分辨透射电镜研究了压水堆环境中316不锈钢裂纹周边腐蚀产物的结构形貌，观察到裂尖被氧化并且具有三层的组织结构，这些腐蚀产物的特征可以用于辨识复杂服役环境中的局部腐蚀以及促进沿晶应力腐蚀开裂的电化学过程。Fujii等通过实验与数值计算方法研究了在沸水反应堆模拟环境下敏化304不锈钢的应力腐蚀开裂。在高温纯水中进行恒载荷拉伸实验观察到裂纹数目与最大长度随外加应力与实验时间增加而上升，垂直分布的微裂纹长度均值为54$\mu \mathrm { m }$ (标准偏移为 $1 2 0 ~ \mu \mathrm { m } )$ ，近似晶粒直径长度。最后根据实验结果进行MonteCarlo模拟并讨论其适用性，模拟结果的初期阶段良好呈现了实验观察到的应力腐蚀开裂(SCC)行为。
+
+在核电站服役环境下，不锈钢弯头上一旦有表面微裂纹萌生，极有可能在工作压力及附加应力作用下导致裂纹迅速扩展直至弯头失效。其中工作压力来自服役环境，而附加应力的来源比较复杂，包括工装应力、加工残余应力及热应力等，其对结构性能的影响难以通过实际测量手段来界定。因此，对关键结构部件建立相应的数值模型，以模拟应力腐蚀裂纹扩展过程，对于解决相关的工程实际问题极其必要。在研究应力腐蚀开裂的诸多计算模拟方法当中，使用有限元(FE)方法模拟应力腐蚀裂纹扩展的研究工作已有文献报道。Jivkov 等最早尝试用FE方法模拟沿晶应力腐蚀开裂的力学效应，通过模拟304奥氏体不锈钢在介观尺度下的晶界，并在晶界上设置不同大小的应力来预测裂纹扩展。Wenman等9通过FE描述氯化物导致的穿晶应力腐蚀开裂，结果显示模型与在沸腾 $\mathrm { \bf M g C l } _ { 2 }$ 环境中生长出的真实穿晶应力腐蚀裂纹关联的很好，能为实验观察到的裂纹形貌提供解释。李永奎等[3通过有限元模拟与实验验证结合的方法，对核反应堆关键焊接结构的应力腐蚀裂纹扩展进行模拟，理论预测了构件的可能寿命。
+
+如上所述，尽管核电SCC安全评价引起了研究者的注意，但是，关于核电站真实弯头SCC寿命预测工作仍然尚未见报道。本工作结合有限元模拟、理论公式计算以及实验数据对国内某核电站316L不锈钢弯头的应力腐蚀裂纹扩展行为进行数值模拟研究。首先，为不锈钢弯头进行有限元建模，创建含有三维裂纹的弯头模型；为模拟实际裂纹扩展过程，创造出若干典型裂纹，裂纹形状通过裂纹张开位移 $( \delta _ { i } )$ 进行构建。然后，通过有限元计算获得裂纹尖端应力场，结合预设的附加应力值计算出相应的应力强度因子。最后建立裂纹应力强度因子随裂纹深度及附加应力变化的拟合公式，结合实验数据得到管材应力腐蚀裂纹扩展速率的拟合公式，采用迭代方法计算出微裂纹扩展至一定深度所需的时间，从而对含裂纹弯头的剩余寿命做出有效评估，同时研究了应力释放效应与冷加工变形量的影响。首次实现了国内百万千瓦大型商用堆一回路弯头的安全评价与寿命评估。
+
+# 13D有限元模型模拟裂纹扩展
+
+# 1.1裂纹形状以及网格划分
+
+本研究拟针对某核电站 316LN (Z2CND 18.12)的 $9 0 ^ { \circ }$ 不锈钢厚壁弯头(外径为 $3 5 5 . 6 \ \mathrm { m m }$ ，内径为$2 7 5 . 6 \mathrm { m m }$ 进行有限元建模，创建一系列带有不同深度裂纹的 3D 弯头部件，在弯头内壁上设置均匀的压力 $1 0 \mathrm { { M P a } }$ ，同时在弯头两个端面上设置相应边界条件，以模拟弯头内壁表面裂纹扩展行为。其中，裂纹位置靠近弯头端口，与轴线呈 $4 5 ^ { \circ }$ 角，深度/长度比为1/2，具有上厚下薄的半椭圆几何形状(见图1a)，与实际观察到的核电站弯头裂纹形状相符。
+
+建模过程中，在弯头内壁的同一位置处，创造出长度、深度与 $\delta _ { i }$ 均在变化的半椭圆缺陷(见图1b)，从而反映出弯头内壁上的裂纹扩展过程。裂纹从内表面萌生，扩展至外表面。本工作研究在不同附加应力下裂尖应力强度因子 $( K )$ 随裂纹深度 $\mathbf { \Pi } _ { a }$ 的变化，为此取 $\scriptstyle a = 2 0$ 、22、25、27和 $3 0 ~ \mathrm { m m }$ 为例进行计算，而 $\delta _ { i }$ 则通过Dugdale模型[10]计算裂尖张开位移(δ)来确定。
+
+![](images/d42f9adf87a948109ed232e8c4b78cd2eaa4449692c3947a9ef9ade3df3a5a5f.jpg)  
+图1裂纹几何形状示意图和弯头内壁上裂纹扩展示意图
+
+Fig.1 Schematic geometry of a crack (a)and schematic for crack propagation at the inner surface of the elbow (b) （ $a$ —crack depth, $\delta _ { i }$ —crack opening displacement at the middle of the crack)
+
+根据文献[10]中Irwin对裂纹尖端塑性区尺寸 $( r _ { \mathrm { y } } )$ 的估计，平面应变时：
+
+$$
+r _ { y } = \frac { 1 } { 6 \pi } ( \frac { K } { \sigma _ { _ Y } } ) ^ { 2 }
+$$
+
+式中， $K$ 代表应力强度因子， $\sigma _ { Y }$ 代表屈服强度。
+
+此外，文献[1中Dugdale 认为裂纹的有效半长度是 $a { + } r _ { \mathrm { y } }$ ，原裂尖的张开量就是 $\delta$ 。平面应力下， $\delta$ 表达式为： $\delta = \frac { K ^ { \ 2 } } { E \sigma _ { _ Y } }$ （其中， $E$ 为弹性模量)。写为一般式：
+
+$$
+\delta = \beta \frac { K ^ { 2 } } { E \sigma _ { Y } }
+$$
+
+式中，对于平面应变，系数 $\beta { = } 0 . 5$ 。
+
+忽略弯头曲率的影响 (裂纹相对于弯头尺寸很小)，视为无限大中心裂纹板平板，则本研究可借助式(2)求解 $\delta$ 。参照图 $2 ^ { [ 1 1 ] }$ ， $\delta _ { i }$ 与 $\delta$ 之间存在比例关系： $\delta _ { \mathrm { i } } = ( \frac { r _ { y } + l } { r _ { y } } ) \delta$ $l$ 代表裂纹长度，依此可求得不同裂纹长度下的 $\delta _ { i }$ ，再依据计算值在弯头内壁上做出不同尺寸的裂纹。
+
+![](images/f373c1a5dd3feb866123b8bef3b32adaa2047a05d38d87d908ce0c66c2d6bab0.jpg)
+
+图2裂纹张开位移 $( \delta _ { i } )$ 、裂尖张开位移(δ)和裂纹尖   
+端塑性区尺寸 $( r _ { \mathrm { y } } )$ 示意图[11]   
+Fig.2 Schematic for $\delta _ { i }$ $\delta$ and $r _ { y } ^ { [ 1 1 ] }$ $\cdot \delta _ { i }$ -crack opening   
+displacement, $\delta$ crack tip opening displacement,   
+$r _ { y }$ —plastic zone at the crack tip, $l { }$ crack length,   
+$a$ —-the inclination angle of plastic zone radius $r _ { y }$   
+$\sigma$ —stress distribution at the crack tip)
+
+![](images/242be07c568c57846720c771abb0789f7ea6246ced39bf8a395e277c19d0f1bd.jpg)  
+图3网格划分示意图
+
+(a)elbowpart with acrack embedded (b) enlarged area around the crack ( $\cdot \delta _ { i }$ -crack opening displacement) (c) nodes setting along the crack boundary line
+
+本研究关注的是弯头内壁裂尖区域的应力分布状况，为此在远离裂纹的区域设置了粗糙网格，在裂纹周围设置了相对精细的网格以保证计算精度；在半椭圆缺陷的每条边界线上设置分布12 个节点，且靠近裂尖的方向节点密度较高(见图3)。对于所创建的3D模型，使用四面体自由网格，同时设置单元类型为C3D10I（提高表面应力可视化的10节点通用二次四面体单元)。
+
+# 1.2 316L不锈钢的力学性能
+
+![](images/6e0327cb83985366b2f5dd0e29e64d1a506dc3fbc9bdbcda68c522452f3ee989.jpg)  
+Fig.3 Schematic for mesh   
+图4不锈钢316LN弯头的真实应力-应变曲线 Fig.4 True stress-plastic strain curve for 316LN stainless steel elbow
+
+本工作的研究对象是高温环境中的316L不锈钢弯头，其 $\sigma _ { Y } { = } 1 3 0 \mathrm { M P a }$ $E { = } 1 7 5 \mathrm { G P a }$ ，Poisson比 $\nu =$ $0 . 3 4 ^ { [ 1 2 ] } ( 3 2 0 ^ { \circ } \mathrm { C } )$ 。对应的真实应力-真实塑性应变曲线如图4所示。
+
+# 2COD构建真实裂纹形状
+
+# 2.1裂纹尖端应力强度因子的计算方法
+
+工程构件中的裂纹和缺陷会造成结构的应力集中，导致灾难性的后果。在断裂力学的工程应用中，应力强度因子是判断含裂纹结构的断裂和计算裂纹扩展速率的重要参数。计算应力强度因子的方法主要有数学分析法、有限元法、边界配置法、柔度标定法和光弹性法等。有限元法是数值法求解应力强度因子的一种，因其不受裂纹体几何形状和所受载荷复杂性的限制而被广泛应用[13]。随着计算机技术发展，有限元法能够计算越来越复杂的问题。根据文献[13]中的Westergaard应力函数求出I型裂纹尖端区域法向方向的应力 $\sigma$ 与 $K$ 之间的关系：
+
+$$
+\sigma = { \frac { K } { \sqrt { 2 \pi } } } \cos { \frac { \theta } { 2 } } \biggl [ 1 + \sin { \frac { \theta } { 2 } } \mathrm { s i n } { \frac { 3 \theta } { 2 } } \biggr ]
+$$
+
+式中， $\boldsymbol { r }$ 为裂纹尖端平面坐标系中任一点到裂尖的距离， $\theta$ 为该点对应的从裂尖逆时针方向旋转的角度，在裂纹平面的延长线面上， $\scriptstyle \theta = 0 ^ { \circ }$ ，式(3)简化为[13];
+
+$$
+K = \sigma \sqrt { 2 \pi r }
+$$
+
+在裂纹面上裂尖附近区域内取不同节点，将节点处的 $\sigma$ 与 $\boldsymbol { r }$ 代入式(4)求得相应的 $K$ ，计算其平均值。
+
+# 2.2计算与实际裂纹形状相符的 $\delta _ { i }$ 以及真实 $K$
+
+本研究旨在获得符合实际的不同附加应力下不同长度裂纹的 $K$ ，进而结合实验数据迭代计算应力腐蚀裂纹扩展时间，为此首先需要使用较准确的$\delta _ { i }$ 来创造缺陷形状。
+
+而要获得一个 $\delta _ { i }$ ，又需要先得到一个 $K$ 代入式(2)计算。通过参考文献[1以及参考实际核电弯头内壁裂纹宽度(不超过 $\mathrm { 1 ~ m m } \mathrm { \Omega }$ ，本研究拟先假设出一组接近实际尺度的 $\delta _ { i }$ (例如 $4 0 0 ~ { \mu \mathrm { m } } )$ 去运行 Abaqus计算，根据应力场结果(如图5，以 $1 0 0 \mathrm { { M P a } }$ 附加应力下含裂纹深度 $2 0 ~ \mathrm { m m }$ 的弯头为例)结合Dugdale公式计算出新的不同附加应力下的 $\delta _ { i }$ 值，再以计算值为假设，不断重复计算，直到最后获得的 $\delta _ { i }$ 计算值与假设值之间误差足够小，此时计算得到的 $\delta _ { i }$ 精确度较高，与之对应的 $K$ 足以反映实际情况。
+
+![](images/6df3f6c85494a3a1e35f998e7a5e977972d0a0f29413492baacee36d9fda4167.jpg)  
+图 ${ \bf 5 } \mathrm { 1 0 0 } \mathrm { M P a }$ 附加应力下裂纹深度 $2 0 \mathrm { m m }$ 弯头的应力分布
+
+Fig.5 Stress distributions of the elbow with the crack depth of $2 0 \mathrm { m m }$ ,under $1 0 0 \mathrm { { M P a } }$ additional stress (a) whole elbow (b) enlarged area around the crack (c) sectional view at $1 / 2$ crack length (d) enlarged area at the 1/2 crack length
+
+图6显示了重复计算 $\delta _ { i }$ 的最终结果，给出了在附加应力 $0 { \sim } 3 0 0 \ \mathrm { M P a }$ ，裂纹深度 $2 0 { \sim } 3 0 ~ \mathrm { m m }$ 的范畴内，最终设定的假设 $\delta _ { i }$ 与相应的计算 $\delta _ { i }$ ，以及二者之间的误差。图6中存在的最高误差未超过 $3 \%$ =所以本研究的最终计算的 $\delta _ { i }$ 是足够精确的。
+
+按照最终计算的 $\delta _ { i }$ 分别建立出的3D弯头模型，便最符合实际核电站带裂纹弯头的尺寸；运行
+
+Aabaqus计算，便可计算得到不同附加应力 $P$ 下最符合实际的 $K$ ，其随裂纹深度的变化曲线见图7。由图可观察到，随着附加应力由0升高至 $3 0 0 \mathrm { { M P a } }$ $K$ 明显上升；在附加应力恒定时，随着裂纹深度从$2 0 \mathrm { m m }$ 增加至 $3 0 \mathrm { m m }$ ， $K$ 同样在逐渐变大，只是在附加应力较低时不明显，当附加应力高于 $2 0 0 \mathrm { M P a }$ 后 $K$ 随裂纹深度增加而升高的趋势非常显著。
+
+![](images/35d738db1f208ffb86bc2cef0e45b51dda18ec134415dc56fda497490c2b2598.jpg)  
+图6不同深度裂纹在不同附加应力下裂纹张开位移的假设与计算值的对比
+
+Fig.6 Comparision between the assumed and the calculated value of crack opening displacement $( \delta _ { i } )$ under different additional stresses $( 0 { \sim } 3 0 0 \mathrm { M P a } , \$ for cracks with different depth ( $2 0 { \sim } 3 0 ~ \mathrm { m m } ,$ (the maximum inaccuracy between these two values is less than $3 \%$ ）
+
+![](images/ffa5527c8ca0ff8253f2cb01fafe4da6b04b50d0622238e44fba76f8452163e1.jpg)  
+图7不同附加应力下应力强度因子随裂纹深度的变化
+
+Fig.7 Variation of stress intensity factor $K$ with crack depth under different additional stresses
+
+# 3迭代方法计算应力腐蚀裂纹扩展时间
+
+# 3.1拟合计算公式的确立
+
+根据图7提供的不同附加应力下 $K$ 随裂纹深度变化的有限元计算结果，能够获得3D拟合公式：
+
+$\begin{array} { l } { K = 4 . 9 1 + 0 . 0 6 8 P - 0 . 2 9 d + 4 . 3 3 \times 1 0 ^ { - 6 } P ^ { 2 } } \\ { + 0 . 0 0 7 1 d ^ { 2 } + 0 . 0 0 2 9 P d } \end{array}$ (5)式中， $P$ 为附加应力， $\mathbf { M P a }$ ： $d$ 为裂纹深度， $\mathbf { m } \mathbf { m }$ 。
+
+表1给出了在特定实验条件下，对316LN不锈
+
+钢弯头不同部位取样测得的裂纹扩展速率数据。其中，da/dt为裂纹扩展速率 $\mathrm { ( 1 0 ^ { - 7 } m m / s ) }$ 。230\~245HV与 $2 7 5 { \sim } 3 0 0 \ \mathrm { H V }$ 分别代表不同硬度的试样，表示了
+
+相应的冷加工变形量。在较低硬度 $2 3 0 { \sim } 2 4 5 \mathrm { H V }$ （小变形）下，da/dt较低；硬度升至 $2 7 5 { \sim } 3 0 0 \mathrm { H V }$ (大变形)时，da/dt明显升高。
+
+表1应力腐蚀开裂实验不同阶段下316LN不锈钢小变形和大变形部位的参数  
+Table 1Parameters at different SCC test steps for both smalldeformation and large deformation parts of 316LN stainless steel (Temperature is $3 1 0 \mathrm { ~ \textdegree C }$ ， concentration of dissolved oxygen is $0 . 1 \mathrm { m g / L }$ , concentration of dissolved hydrogen $< 3 { \times } 1 0 ^ { - 4 } \mathrm { m g / L } )$ （20   
+
+<html><body><table><tr><td rowspan="2">SCC test step</td><td colspan="4">Small deformation (230~245 HV)</td><td colspan="4">Large deformation (275~300 HV)</td></tr><tr><td>K MPa·m0.5</td><td>da/dt 107 mm/s</td><td>Duration h</td><td>△a μm</td><td>K MPa·m0.5</td><td>da/dt 107 mm/s</td><td>Duration h</td><td>△a μm</td></tr><tr><td>1</td><td>20</td><td>1.40</td><td>256.1</td><td>98.5</td><td>20</td><td>4.28</td><td>536.8</td><td>699.0</td></tr><tr><td>2</td><td>25</td><td>1.84</td><td>216.8</td><td>149.0</td><td>25</td><td>4.83</td><td>519.0</td><td>921.0</td></tr><tr><td>3</td><td>30</td><td>2.24</td><td>232.0</td><td>192.0</td><td>33</td><td>5.97</td><td>144.9</td><td>313.0</td></tr><tr><td>4</td><td>40</td><td>2.65</td><td>195.1</td><td>189.8</td><td>40</td><td>7.42</td><td>498.1</td><td>1338.5</td></tr></table></body></html>
+
+Note:K—stress intensity factor，da/dt—crack growth rate，duration—time for test step，△a—crack propagation length
+
+由实验数据可获得拟合公式：
+
+# 3.2迭代计算过程
+
+应力腐蚀裂纹扩展时间可经由拟合公式(5)\~(7)迭代计算获得。在设定初始裂纹深度与附加应力的前提下，令裂纹深度 $d$ 递增，同时附加应力 $P$ 逐步释放；每执行一次迭代计算，可依次获得特定 $d$ 与$P$ 下的 $K$ ，对应的da/dt以及单位间隔裂纹深度 $\triangle d$ 对应的扩展时间 $\bigtriangleup t$ $\scriptstyle \backprime ( d a / d t = \triangle d / \triangle t )$ ；直到 $d$ 增加至最终裂纹深度值 $/ P$ 降低至最终释放应力值，迭代计算结束。此时累加获得的时间 $t$ 即为所求的应力腐蚀裂纹扩展时间。
+
+# 4结果与讨论
+
+# 4.1应力释放对SCC的影响
+
+如前所述，不锈钢弯头在核电站服役期间，同时承受工作压力和 $P$ ， $P$ 通常包括加工残余应力、热应力和工装应力。实际上，在本工作中由实验获得的裂纹扩展数据的试样取自于核电站不锈钢弯头上发生加工变形的区域，因此加工残余应力本身已经蕴含在SCC速率数据中，这里的 $P$ 仅仅包含了不锈钢弯头在服役环境中的热应力和工装应力。
+
+在SCC过程中， $P$ 会存在一定程度的应力释放问题，本工作选取应力不释放和应力完全释放两种情况作为边界条件，同时计算应力释放一半作为一种代表性的案例，从而为预测带裂纹弯头剩余寿命提供依据。
+
+图8中给出了不锈钢弯头上硬度为 230\~245HV部位从起始 $1 \ \mathrm { m m }$ 裂纹到管壁完全穿透期间的裂纹扩展时间随裂纹深度的变化曲线。在图8a中，虚线表示施加恒附加应力 $0 \mathrm { M P a }$ 时的裂纹扩展时间随 $d$ 的变化曲线；实线是恒附加应力为 $2 0 0 \mathrm { { M P a } }$ 时的扩展时间曲线；被虚线与实线上下包裹于中间的点画线代表初始附加应力 $2 0 0 \mathrm { M P a }$ ，最终释放应力$0 \mathrm { M P a }$ (应力完全释放，穿透管壁）下的裂纹扩展时间变化。从图中可观察到，对硬度为 $2 3 0 { \sim } 2 4 5 \ \mathrm { H V }$ 的弯头部位，在 $0 \mathrm { M P a }$ 恒附加应力下(无应力释放)，弯头被穿透所耗时间达 $5 7 \mathrm { a }$ ；在 $2 0 0 \mathrm { { M P a } }$ 恒附加应力下(无应力释放)，裂纹将其穿透仅需要13a；而当附加应力从 $2 0 0 \mathrm { { M P a } }$ 释放到 $0 \mathrm { M P a }$ (应力完全释放)弯头被穿透时间则约为 $2 4 \mathrm { a }$ 。
+
+图8b显示了 $2 0 0 \ \mathrm { M P a } { \sim } 1 0 0 \ \mathrm { M P a }$ 应力释放一半时，SCC时间随裂纹深度的变化。对比图8a与b,能够明显观察到，初始附加应力为 $2 0 0 \mathrm { M P a }$ 时，当应力不释放，弯头断裂失效最快发生(约13a)，应力释放一半时次之(约16a)，应力完全释放时穿透管壁最慢(约24a)，显示了在附加应力相同的条件下，应力释放越大，不锈钢弯头的寿命越长。进一步地，与无附加应力下裂纹穿透管材所需时间(约57a)作对比， $2 0 0 \mathrm { M P a }$ 初始附加应力下裂纹穿透管壁时间在应力完全释放条件下约为前者的3/7，而应力释放一半条件下约为2/7，无应力释放条件下约为1/5。
+
+核电部件在实际服役环境下由于温度分布不均匀，部件由外在约束以及内部各部分之间的相互约束，使其不能完全自由胀缩而产生热应力，而工装应力是由于零部件由错边装配后产生的应力，这些附加应力共同的特点是由于变形过程中受到约束而导致了结构中存在的内应力。随着不锈钢在核电服役环境下发生应力腐蚀并不断的开裂，裂纹前沿约束条件发生了变化，裂尖弹性能不断的释放；当裂纹尖端应力超过屈服强度，会引起塑性变形并形成塑性区，导致裂纹尖端发生钝化，从而附加应力得到一定程度的缓解。由此可见，附加应力的释放与开裂过程息息相关。应力腐蚀开裂过程涉及材料微观结构、力学、电化学共同作用，目前尚未形成统一认识[14]，当前比较倾向接受的是滑移-溶解-断裂机理，包括表面氧化膜的形成、在应变作用下金属产生滑移引起表面膜的破裂、基体金属阳极溶解使裂纹向前推进，随后裂纹尖端氧化膜逐渐重新形成，导致再钝化，裂纹扩展停止，但在裂尖应变的作用下氧化膜再次发生破裂并不断重复上述过程，导致不锈钢裂纹间歇持续的扩展[15-17]。但是在应力腐蚀系统中，阳极反应和阴极反应通过电子耦合，是一对相互依存的共轭过程，因而阳极溶解和阴极析氢是并存的[18]。除了上面的阳极溶解是断裂的控制过程，还有认为阴极析出的氢进入金属后，在各种缺陷处结合成氢分子，从而产生一定内压，它能单独或协同其他应力使氢致裂纹形核和扩展对断裂起了一定的作用，此外氢也能促进局部塑性变形，即在更低的应力下位错就能增殖和运动，并使局部塑性变形到达临界状态[19]
+
+![](images/1ae92db67bc18a6517205b5f9f4ea0eadc30ff232f8b635de9e7a8da8edbabfb.jpg)  
+图8316LN不锈钢弯头上硬度为 $2 3 0 { \sim } 2 4 5 \mathrm { H V }$ 部位的裂纹扩展时间随裂纹深度的变化曲线 'ig.8 Variation of crack propagation time with crack depth for the elbow part with hardness of $2 3 0 { \sim } 2 4 5 \mathrm { H V }$ (a) under $2 0 0 \mathrm { { M P a } }$ constant additional stress, $0 \mathrm { M P a }$ constant additional stress,and $2 0 0 \mathrm { { M P a } }$ initial additional stress ${ \sim } 0 \mathrm { M P a }$ ultimate released stress, respectively (b）under $2 0 0 \ \mathrm { M P a }$ constant additional stress,1OO MPa constant additional stress,and $2 0 0 \ \mathrm { M P a }$ initial additional stress\~1Oo MPa ultimate released stress,respectively
+
+# 4.2冷加工变形量对SCC的影响
+
+316L不锈钢具有很高的加工硬化系数，冷变形是提高其强度的重要手段[20.21]。上一节研究了冷加工变形量较小(硬度为 $2 3 0 { \sim } 2 4 5 \ \mathrm { H V } )$ 时伴随应力释放条件下的不锈钢弯头失效时间，本节则研究提升冷加工变形量后，即硬度为 $2 7 5 { \sim } 3 0 0 \mathrm { H V }$ 时，不锈钢弯头的SCC 行为。
+
+图9呈现了不锈钢弯头上硬度为 $2 7 5 { \sim } 3 0 0 \ \mathrm { H V }$ 部位由初始 $1 \ \mathrm { m m }$ 裂纹扩展至弯头失效过程中的SCC时间随裂纹深度变化曲线。由图9a观察到，冷加工量较大(硬度为 $2 7 5 { \sim } 3 0 0 \ \mathrm { H V } )$ 部位上的裂纹在 $0 \ \mathrm { M P a }$ 恒附加应力下(无应力释放)穿透管壁仅用不到17a;在 $2 0 0 \mathrm { { M P a } }$ 恒附加应力下(无应力释放)，高硬度部位被穿透仅需不到5a；附加应力从200
+
+MPa释放到 $0 \mathrm { M P a }$ (应力完全释放)，高硬度部位被
+
+穿透的时间约为8a。
+
+![](images/970a72a407252356d46e26fe73418b1d3f1d4ebbe5a6a9e4332d9e35d18d3549.jpg)  
+图9316LN不锈钢弯头上硬度为 $2 7 5 { \sim } 3 0 0 \mathrm { H V }$ 部位的裂纹扩展时间随裂纹深度的变化曲线 Fig.9Variation of crack propagation time with crack depth for the elbow part with hardness of $2 7 5 { \sim } 3 0 0 \mathrm { H V }$ (a) under $2 0 0 \ \mathrm { M P a }$ constant additional stress,O MPa constant additional stress,and $2 0 0 \ \mathrm { M P a }$ initial additional stress\~O MPa ultimate released stress, respectively (b）under $2 0 0 \ \mathrm { M P a }$ constant additional stress, $1 0 0 \ \mathrm { M P a }$ constant additional stress,and $2 0 0 \ \mathrm { M P a }$ initial additional stress\~1OoMPa ultimate released stress, respectively
+
+图9b给出了冷变形程度较大弯头部位在200$\mathrm { M P a { \sim } 1 0 0 \ M P a }$ 应力释放一半时的SCC时间随裂纹深度变化曲线。仍然以初始附加应力 $2 0 0 \mathrm { { M P a } }$ 为例，应力完全释放条件下， $1 \mathrm { m m }$ 初始裂纹扩展至 $4 0 \mathrm { m m }$ 的速度是最慢的(约8a)，应力释放一半时次之(约6a)，无应力释放情况下速度最快(约5a)。
+
+通过对比图8和9能够看到，在相同初始附加应力以及应力释放条件下，大变形部位的应力腐蚀裂纹会比小变形部位上的裂纹更早地穿透管壁，造成弯头失效。具体地，在当前的计算分析中，初始附加应力为 $2 0 0 \mathrm { { M P a } }$ 时，当冷加工变形量升高，若不考虑应力释放，弯头失效时间缩减约3/5(剩余寿命大约由13a减少至5a)，若应力完全释放，弯头失效时间缩减约2/3 (剩余寿命大约由24a减至8a):若应力只释放一半，管材失效时间缩减约5/8(剩余寿命大约由16a减至不到6a)。
+
+冷加工变形对不锈钢SCC时间的影响可能来源于对其显微组织结构的改变。预先的冷变形，会在原始组织中产生大量的晶格畸变及各种晶体缺陷，增加了位错、空位及其它晶体缺陷的密度[22]。冷拔、冷轧等冷加工会造成不锈钢，尤其是奥氏体不锈钢冷作硬化，诱发晶格位错、马氏体相变、碳化物析出、磁性增加并出现残余应力，从而使其耐蚀性能降低[23]。许淳淳等[24] 研究显示亚稳态奥氏体不锈钢材料经冷加工会发生变形，促进部分奥氏体组织转变为马氏体组织，即发生马氏体相变，主要形成板条状马氏体 $\mathbf { a } ^ { \prime }$ (bcc)。而 $\mathbf { a } ^ { \prime }$ 马氏体的出现，在试样的表面上形成细小的浮凸，板条状马氏体中还存有大量的缺陷，如位错、空位等，均会产生大量的孔蚀源，使奥氏体不锈钢的孔蚀敏感性下降，容易形成蚀孔。更为严重的是，蚀孔又可以作为裂纹源，在应力作用下导致应力腐蚀破裂，引起设备过早破坏，甚至发生灾难性事故。
+
+Ghosh 等[25通过立体显微镜、光学显微镜与原子力显微镜观察了冷轧304L奥氏体不锈钢SCC试样，以研究应变导致的显微组织变化对室温下应力腐蚀开裂的影响。实验观察到经冷加工的奥氏体不锈钢中存在高密度的滑移带导致腐蚀隧道产生，其与腐蚀环境的协同效应造成了SCC 敏感性升高。Garcia等[26采用电化学实验等手段研究了预先冷加工对304不锈钢在常温氯离子溶液中应力腐蚀开裂的影响，结果表明冷加工304不锈钢倾向于发生SCC，其倾向性取决于预先冷加工量。当冷加工变形量低于或等于 $10 \%$ 时，导致很高程度的沿晶应力腐蚀开裂，而当冷加工超过 $30 \%$ 时，SCC模式由沿晶向着穿晶模式转变。可见，冷加工加速奥氏体不锈钢的应力腐蚀裂纹扩展速度的原因主要来自对材料微观结构的明显改变。Säez-Maderuelo 等 [27]研究了两种不同温度下(400和 $5 0 0 ^ { \circ } \mathrm { C } \cdot$ 冷加工316L不锈钢在超临界水中的SCC行为。在超临界水实验之前，将部分退火状态的试样在室温下拉伸(应变速率 ${ 1 0 } ^ { - 4 } { \mathrm { s } } ^ { - 1 }$ ，拉伸延伸至 $2 0 \%$ )，以研究冷加工对316L不锈钢在超临界水中SCC的影响。结果显示冷加工变形所导致的塑性变形提高了316L不锈钢在超临界水中发生SCC的倾向性。
+
+# 5结论
+
+(1）采用有限元模拟、理论公式计算以及拟合公式迭代计算，创建了一种研究316L不锈钢弯头应力腐蚀裂纹扩展行为的计算研究方法。本研究方法具备两个特征，裂纹张开位移 $( \delta _ { i } )$ 构建与迭代计算。$\delta _ { i }$ 构建使得模拟裂纹尺度与实际裂纹相符，并且能够反映真实裂纹扩展过程，由此获得的K拟合计算公式可以反映裂尖的 $K$ 演化规律；迭代计算过程将实验裂纹扩展速率引入裂尖 $K$ 计算拟合公式，使得计算获得的裂纹扩展时间能够真实反映实际管材失效时间，从而有效评估真实核电站弯头的潜在裂纹风险。
+
+(2）对于冷变形量较小的弯头部位(硬度为$2 3 0 { \sim } 2 4 5 \mathrm { H V }$ ，理想工作环境下(无附加应力条件下)，弯头剩余寿命约57a；当初始附加应力为 $2 0 0 \mathrm { M P a }$ 若不考虑应力释放，寿命约缩减至前者的1/5，若应力释放一半，寿命缩减至2/7，若应力完全释放，寿命缩减至3/7。可见在相同的初始附加应力下，应力释放程度越大，核电站不锈钢弯头寿命越长。
+
+(3）在初始附加应力 $2 0 0 \mathrm { M P a }$ 条件下，当冷变形加工量升高，即由硬度为 $2 3 0 { \sim } 2 4 5 ~ \mathrm { ~ H V }$ 提高到$2 7 5 { \sim } 3 0 0 \mathrm { H V }$ 时，若不考虑应力释放，大变形部位与小变形部位相比寿命约缩减至2/5，若应力释放一半，寿命缩减至3/8，若应力完全释放，寿命缩减至1/3。可见在相同初始附加应力以及应力释放条件下，冷变形量较大的弯头部位会比小变形部位更早被应力腐蚀裂纹穿透失效。
+
+致谢感谢张利涛等人提供的真实核电弯管材料的应力腐蚀测试数据
+
+# 参考文献
+
+[1]Han EH,Wang JQ,Wu X Q,et al. Corrosion mechanisms of stainless steel and nickel base alloys in high temperature high pressure water[J].ActaMetall.Sin.,2010,46:1379 (韩恩厚，王俭秋，吴欣强等．核电高温高压水中不锈钢和镍 基合金的腐蚀机制[J].金属学报,2010,46:1379) [2] Pan PL,Zhong Y X,Ma Q X,et al.Development of manufacture technology for main pipe of large-sized nuclear power[J].China Metal Form.Equip.Manuf.Technol.,2011,
+
+46(1): 13   
+(潘品李，钟约先，马庆贤等．大型核电主管道制造技术的发 展[J]．锻压装备与制造技术,2011,46(1):13)   
+[3] Li Y K, Lu S P, Li D Z, et al. Life prediction of welded joint in core shroud of BWR due to SCC failure [J]. Trans. China Weld. Inst.,2013,34(9): 33   
+(李永奎，陆善平，李殿中等．核反应堆关键焊接结构应力腐 蚀裂纹失效评估 [J]．焊接学报,2013,34(9): 33)   
+[4] Terachi T, Yamada T,Miyamoto T, et al. SCC growth behaviors of austenitic stainless steels in simulated PWR primary water [J]. J. Nucl. Mater.,2012,426: 59   
+[5] Zhang L T, Wang J Q. Stress corrosion crack propagation behavior of domestic forged nuclear grade 316L stainless steel in high temperature and high pressure water [J]. Acta Metall. Sin.,2013,49: 911   
+(张利涛，王俭秋．国产锻造态核级管材 316L不锈钢在高温 高压水中的应力腐蚀裂纹扩展行为[J].金属学报,2013,49: 911)   
+[6] Huang Y Z, Titchmarsh J M. TEM investigation of intergranular stress corrosion cracking for 316 stainless steel in PWR environment [J]. Acta Mater., 2006, 54: 635   
+[7] Fujii T, Tohgo K,Kenmochi A,et al. Experimental and numerical investigation of stresscorrosion crackingof sensitized type 3O4 stainless steel under high-temperature and high-purity water [J]. Corros. Sci.,2015, 97: 139   
+[8] Jivkov AP, Stevens N P C, Marrow T J. A two-dimensional mesoscale model for intergranular stress corrosion crack propagation [J]. Acta Mater.,2006,54: 3493   
+[9] Wenman M R,Trethewey K R,Jarman S E,et al.A finite-elementcomputationalmodel of chloride-induced transgranular stress-corrosion cracking of austenitic stainless steel [J]. Acta Mater., 2008,56: 4125   
+[10] Zhu X K, Joyce J A. Review of fracture toughness (G, K, J, CTOD，CTOA） testing and standardization [J].Eng. Fract. Mech.,2012, 85: 1   
+[11] Werner K. The fatigue crack growth rate and crack opening displacement in 18G2A-steel under tension [J]. Int. J. Fatigue,2012, 39: 25   
+[12] Chen X D, Chen X Z, Cui H X. Analysis of elastic-plastic stress on surge-line nozzle of RCS in Qinshan phase II NPP project [J]. Nucl. Pow. Eng.,2003,24(S1): 122   
+(陈学德，陈晓舟，崔赬昕．秦山核电二期工程反应堆主冷却 剂管道系统辅助接管嘴的弹塑性分析[J]．核动力工程, 2003,24(S1): 122)   
+[13] Chen A J, Xu C,Hu X Q. Several methods for calculating stress intensity factors of thick walled cylinder with cracks [J]. J. Nanjing Univ. Sci. Technol.,2002,26: 430   
+(陈爱军，徐 诚，胡小秋．带裂纹厚壁圆筒应力强度因子的 几种计算方法 [J]．南京理工大学学报,2002,26:430)   
+[14] Galvele JR. 1999 W.R. Whitney Award Lecture: Past, present, and future of stress corrosion cracking [J]. Corrosion, 1999, 55: 723   
+[15] Gutman E M. An inconsistency in “film rupture model" of stress corrosion cracking [J]. Corros. Sci.,2007,49:2289 [16] Scully JC. The Theory of StressCorrosion Cracking in Alloys [M]. Brussels: NATO,1971: 21   
+[17] Chu W Y. Hydrogen Damage and Delayed Fracture [M]. Beijing: Metallurgical Industry Press,1988: 1   
+(褚武扬.氢损伤和滞后断裂 [M]．北京：冶金工业出版社, 1988: 1)   
+[18] Xiao J M. Metallic Corrosion under Stress [M]. Beijing: Chemical Industry Press,1990: 1   
+(肖纪美．应力作用下的金属腐蚀[M].北京：化学工业出 版社,1990: 1)   
+[19] Chu W Y. Latest progress in hydrogen induced cracking and stress corrosion cracking [J]. Prog.Natl. Sci.，1991,(5): 393（请核对英文信息）   
+(褚武扬.氢致开裂和应力腐蚀机理新进展[J]．自然科学进 展,1991,(5): 393)   
+[20] Hou X Z, Zheng W J, Song Z G, et al. Effect of cold work on structure and mechanical behavior of 316L stainless steel [J]. J. Iron Steel Res.,2013,25(7): 53   
+(侯小振，郑文杰，宋志刚等．冷加工对 316L 不锈钢力学行 为和组织的影响 [J]．钢铁研究学报,2013,25(7):53)   
+[21] Song R B，Xiang J Y,Hou D P. Microstructure characteristicsand work-hardening mechanism of 316L austenitic stainless steel during cold deformation [J]. J. Univ. Sci. Technol. Beijing, 2013,35: 55   
+(宋仁伯，项建英，侯东坡.316L不锈钢冷变形加工硬化机制 及组织特征 [J]．北京科技大学学报,2013,35:55)   
+[22] Sui S H, Song T G, Sui L H. Effect of deformation on semi-solid structure evolution of LC9 aluminum alloy [J]. Foundry,2006,55: 683   
+(隋少华，宋天革，隋鲁华．冷变形对 LC9 铝合金等温转变 半固态组织的影响 [J]．铸造,2006,55:683)   
+[23] He D F, Wang J Y. Cold work-caused detriment of corrosion resistance of stainless steel tube and preventative controls [J]. Steel Pipe,2005,44: 1   
+（何德孚，王晶滢．冷加工对不锈钢钢管耐蚀性的损害及其 控制[J]．钢管,2015,44:1) [24]Xu C C,Zhang X S,Hu G.Microstructure change of AISI304 stainless steel in the course of cold working [J]. J. BeijingUniv. Chem. Technol.,2002,29(6):27   
+(许淳淳，张新生，胡 钢.AISI304不锈钢在冷加工过程中的 微观组织变化 [J]．北京化工大学学报,2002,29(6):27) [25] Ghosh S,Kain V.Effect of surface machining and cold working on the ambient temperature chloride stress corrosion cracking susceptibility of AISI 3O4L stainless steel [J].Mater. Sci.Eng.,2010,527A: 679   
+[26] Garcia C,MartinF,De TiedraP,etal.Effectsof prior cold work and sensitization heat treatment on chloride stress corrosion cracking in type 3O4 stainless steels [J].Corros. Sci., 2001,43:1519   
+[27]Säez-Maderuelo A,Gómez-Briceno D.Stress corrosion cracking behavior of annealed and cold worked 316L stainless steel in supercritical water[J].Nucl.Eng.Des.,2O16,307:30
